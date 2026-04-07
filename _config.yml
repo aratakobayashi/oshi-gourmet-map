@@ -1,0 +1,42 @@
+title: 推しグルメ巡礼MAP
+description: 推しが訪れたグルメスポットを地図で巡礼しよう
+url: "https://aratakobayashi.github.io"
+baseurl: "/oshi-gourmet-map"
+
+# ビルド設定
+markdown: kramdown
+highlighter: rouge
+permalink: /articles/:year/:month/:day/:title/
+
+# プラグイン（GitHub Pages対応）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# デフォルト値
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "編集部"
+
+# 除外ファイル
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - README.md
+
+# SNS / メタ情報
+github_username: aratakobayashi
+
+# Google Analytics（任意）
+# google_analytics: UA-XXXXXXXX-X
+
+# サイト言語
+lang: ja

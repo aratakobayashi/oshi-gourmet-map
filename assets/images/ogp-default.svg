@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8537a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- decorative circles -->
+  <circle cx="100" cy="100" r="180" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1100" cy="530" r="220" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1050" cy="80" r="120" fill="rgba(255,255,255,0.04)"/>
+  <!-- icon -->
+  <text x="600" y="290" font-size="100" text-anchor="middle" dominant-baseline="middle">🍽️</text>
+  <!-- site title -->
+  <text x="600" y="400" font-family="'Hiragino Kaku Gothic ProN','Noto Sans JP',sans-serif"
+        font-size="52" font-weight="700" fill="white" text-anchor="middle"
+        letter-spacing="4">推しグルメ巡礼MAP</text>
+  <!-- tagline -->
+  <text x="600" y="468" font-family="'Hiragino Kaku Gothic ProN','Noto Sans JP',sans-serif"
+        font-size="24" fill="rgba(255,255,255,0.8)" text-anchor="middle"
+        letter-spacing="2">推しと一緒に巡る、思い出のお店</text>
+</svg>

@@ -1,0 +1,24 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+<!-- OGP -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+{% if page.thumbnail %}
+<meta property="og:image" content="{{ page.thumbnail | absolute_url }}">
+{% else %}
+<meta property="og:image" content="{{ '/assets/images/ogp-default.svg' | absolute_url }}">
+{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+<!-- サイトスタイル -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+{% seo %}

@@ -1,0 +1,89 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%Y年%m月%d日" }}
+      </time>
+      {% if page.prefecture %}
+        <span class="post-badge">{{ page.prefecture }}</span>
+      {% endif %}
+      {% if page.genre %}
+        <span class="post-badge post-badge--genre">{{ page.genre }}</span>
+      {% endif %}
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.excerpt %}
+      <p class="post-excerpt">{{ page.excerpt }}</p>
+    {% endif %}
+    {% if page.thumbnail %}
+      <img class="post-thumbnail" src="{{ page.thumbnail }}" alt="{{ page.title }}">
+    {% else %}
+      <div class="post-hero post-hero--{{ page.group | default: 'default' }}">
+        <p class="post-hero__label">
+          {% if page.genre %}{{ page.genre }}{% endif %}{% if page.genre and page.prefecture %} · {% endif %}{% if page.prefecture %}{{ page.prefecture }}{% endif %}
+        </p>
+      </div>
+    {% endif %}
+  </header>
+
+  <!-- 目次（JavaScriptで自動生成） -->
+  <nav class="toc-box" id="toc-wrapper" aria-label="目次" style="display:none">
+    <p class="toc-title">📋 この記事の目次</p>
+    <ol class="toc-list" id="toc-list"></ol>
+  </nav>
+
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  {% if page.shop_ids %}
+    <section class="related-shops">
+      <p class="related-shops__heading">記事に登場したお店</p>
+      <div class="shop-cards" id="related-shop-cards" data-shop-ids="{{ page.shop_ids | join: ',' }}">
+        <!-- JavaScriptで動的に挿入 -->
+      </div>
+    </section>
+  {% endif %}
+
+  <footer class="post-footer">
+    <a href="{{ '/' | relative_url }}" class="btn btn--back">← お店一覧に戻る</a>
+    <a href="{{ '/articles/' | relative_url }}" class="btn btn--back">← 記事一覧に戻る</a>
+  </footer>
+</article>
+
+<script>
+// 目次自動生成
+(function() {
+  const headings = document.querySelectorAll('.post-body h2');
+  if (headings.length < 2) return;
+  const tocList = document.getElementById('toc-list');
+  const tocWrapper = document.getElementById('toc-wrapper');
+  if (!tocList || !tocWrapper) return;
+  headings.forEach(function(h, i) {
+    const id = 'section-' + i;
+    h.id = id;
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = '#' + id;
+    a.textContent = h.textContent;
+    li.appendChild(a);
+    tocList.appendChild(li);
+  });
+  tocWrapper.style.display = 'block';
+})();
+
+// 関連店舗カード埋め込み
+const relatedContainer = document.getElementById('related-shop-cards');
+if (relatedContainer) {
+  const ids = relatedContainer.dataset.shopIds.split(',').map(s => s.trim());
+  fetch('{{ "/data/shops.json" | relative_url }}')
+    .then(r => r.json())
+    .then(shops => {
+      const matched = shops.filter(s => ids.includes(s.id));
+      relatedContainer.innerHTML = matched.map(s => buildShopCard(s)).join('');
+    });
+}
+</script>

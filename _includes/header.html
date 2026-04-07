@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="site-logo__icon">🗺️</span>
+      <span class="site-logo__text">{{ site.title }}</span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">お店MAP</a>
+      <a href="{{ '/articles/' | relative_url }}" class="nav-link {% if page.url contains '/articles' %}active{% endif %}">記事</a>
+    </nav>
+  </div>
+</header>

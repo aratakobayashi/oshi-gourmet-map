@@ -1,0 +1,36 @@
+---
+layout: default
+title: 記事一覧
+description: 推しグルメに関する記事・レポート一覧
+---
+
+<div class="container">
+  <h1 class="page-title">記事一覧</h1>
+
+  <div class="article-grid">
+    {% for post in site.posts %}
+    <article class="article-card">
+      {% if post.thumbnail %}
+        <a href="{{ post.url | relative_url }}" class="article-card__thumb-link">
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-card__thumb">
+        </a>
+      {% endif %}
+      <div class="article-card__body">
+        <div class="article-card__meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%m月%d日" }}</time>
+          {% if post.prefecture %}<span class="post-badge">{{ post.prefecture }}</span>{% endif %}
+          {% if post.genre %}<span class="post-badge post-badge--genre">{{ post.genre }}</span>{% endif %}
+        </div>
+        <h2 class="article-card__title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="article-card__excerpt">{{ post.excerpt | strip_html | truncate: 80 }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if site.posts.size == 0 %}
+    <p class="empty-message">まだ記事がありません。</p>
+  {% endif %}
+</div>
