@@ -13,7 +13,7 @@
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2026-01-04",
-    "description": "浅草の人気もんじゃ・鉄板焼き店。特選明太スペシャルもんじゃや浅草のりもんじゃが名物。よにのちゃんねる#272・#490で登場し、3人で鉄板を囲む様子が話題に。",
+    "description": "浅草の人気もんじゃ・鉄板焼き店。特選明太スペシャルもんじゃや浅草のりもんじゃが名物。よにのちゃんねる#272・#490で登場。",
     "tags": ["もんじゃ", "鉄板焼き", "浅草", "聖地巡礼"],
     "affiliate_links": [
       {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1311/A131102/13093827/"}
@@ -33,7 +33,7 @@
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2025-03-26",
-    "description": "炭火で焼き上げたジューシーなハンバーグと土鍋ご飯の専門店。よにのちゃんねるで複数回登場した人気店。Mrs. GREEN APPLEの大森元貴も一緒に訪れた回が話題。",
+    "description": "炭火で焼き上げたジューシーなハンバーグと土鍋ご飯の専門店。よにのちゃんねるで複数回登場。Mrs. GREEN APPLEの大森元貴も一緒に訪れた回が話題。",
     "tags": ["ハンバーグ", "渋谷", "行列店", "聖地巡礼"],
     "affiliate_links": [
       {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1303/A130301/13257261/"}
@@ -48,12 +48,12 @@
     "address": "東京都渋谷区恵比寿4-19-19",
     "lat": 35.6466,
     "lng": 139.7149,
-    "youtube_id": null,
+    "youtube_id": "1VN2TGo5uOM",
     "members": ["二宮和也", "山田涼介", "菊池風磨"],
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2025-10-22",
-    "description": "NY・ブルックリン発、創業136年の伝説のステーキ専門店。ドライエイジングビーフの名店。よにのちゃんねる#468で朝ごはんシリーズとして登場。",
+    "description": "NY・ブルックリン発、創業136年の伝説のステーキ専門店。ドライエイジングビーフの名店。よにのちゃんねる#468で登場。",
     "tags": ["ステーキ", "恵比寿", "高級", "NY発"],
     "affiliate_links": [
       {"label": "公式サイト", "url": "https://peterluger.co.jp/"},
@@ -94,7 +94,7 @@
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2025-06-15",
-    "description": "中田英寿も通う神楽坂の予約困難ピッツェリア。400℃の高温で焼き上げるサクサクふわふわの生地が絶品。食べログアワード・ミシュランビブグルマン受賞。よにのちゃんねる#431で登場。",
+    "description": "神楽坂の予約困難ピッツェリア。400℃の高温で焼き上げるサクサクふわふわの生地が絶品。ミシュランビブグルマン受賞。よにのちゃんねる#431で登場。",
     "tags": ["ピザ", "神楽坂", "予約困難", "ミシュラン"],
     "affiliate_links": [
       {"label": "TableCheckで予約", "url": "https://www.tablecheck.com/ja/shops/400-yonhyakudo-tokyo/reserve"},
@@ -110,7 +110,7 @@
     "address": "東京都江東区豊洲6丁目 豊洲市場仲卸売場棟3F",
     "lat": 35.6458,
     "lng": 139.7877,
-    "youtube_id": null,
+    "youtube_id": "WKk-0zqTC74",
     "members": ["二宮和也", "山田涼介", "菊池風磨"],
     "groups": ["yonino"],
     "group": "yonino",
@@ -155,7 +155,7 @@
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2026-01-28",
-    "description": "30日間熟成させた牛タン「金舌」が看板メニューの赤坂の名店。完全個室でゆっくり食事を楽しめる割烹スタイルの焼肉。よにのちゃんねる2026年1月回で登場。",
+    "description": "30日間熟成させた牛タン「金舌」が看板の赤坂の名店。完全個室で楽しめる割烹スタイルの焼肉。よにのちゃんねる2026年1月回で登場。",
     "tags": ["焼肉", "牛タン", "赤坂", "完全個室"],
     "affiliate_links": [
       {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1308/A130801/13080895/"}
@@ -195,7 +195,7 @@
     "groups": ["yonino"],
     "group": "yonino",
     "visited_date": "2025-05-14",
-    "description": "バリスタ世界チャンピオンのポール・バセットが手がけるエスプレッソカフェ。丁寧に淹れた一杯にこだわるスペシャルティコーヒーの名店。よにのちゃんねる#455で登場。",
+    "description": "バリスタ世界チャンピオンのポール・バセットが手がけるエスプレッソカフェ。スペシャルティコーヒーの名店。よにのちゃんねる#455で登場。",
     "tags": ["カフェ", "コーヒー", "西新宿", "スペシャルティ"],
     "affiliate_links": [
       {"label": "公式サイト", "url": "https://www.paulbassett.jp/store/shinjuku/"}
@@ -239,6 +239,307 @@
     "tags": ["ラーメン", "塩ラーメン", "新横浜", "北海道"],
     "affiliate_links": [
       {"label": "新横浜ラーメン博物館", "url": "https://www.raumen.co.jp/shop/rishiri.html"}
+    ]
+  },
+  {
+    "id": "yonino-beasty-coffee",
+    "name": "Beasty Coffee [cafe laboratory]",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区富ヶ谷1-19-3",
+    "lat": 35.6712,
+    "lng": 139.6931,
+    "youtube_id": null,
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-12-07",
+    "description": "amadanaがプロデュースする奥渋谷の人気スペシャルティコーヒーカフェ。ハンドドリップへのこだわりと洗練された空間が特徴。よにのちゃんねる#481で登場。",
+    "tags": ["カフェ", "コーヒー", "奥渋谷", "スペシャルティ"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1303/A130305/13254524/"}
+    ]
+  },
+  {
+    "id": "yonino-taoca-coffee",
+    "name": "TAOCA COFFEE 南青山店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山4-10-9",
+    "lat": 35.6676,
+    "lng": 139.7206,
+    "youtube_id": null,
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-11-23",
+    "description": "兵庫・西宮で人気の実力派スペシャルティコーヒーロースターの東京1号店。南青山の洗練されたエリアに2024年オープン。よにのちゃんねる#477で登場。",
+    "tags": ["カフェ", "コーヒー", "南青山", "ロースタリー"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1306/A130602/13306376/"}
+    ]
+  },
+  {
+    "id": "yonino-kisaburo-farm",
+    "name": "喜三郎農場",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区千石1-23-11",
+    "lat": 35.7312,
+    "lng": 139.7328,
+    "youtube_id": "cKNFpRk1_kU",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-11-12",
+    "description": "「タマリエ（卵のソムリエ）」資格を持つ店主が厳選した全国の卵を使った卵料理・親子丼専門店。甲斐路軍鶏を使った親子丼が絶品。よにのちゃんねる#474で登場。",
+    "tags": ["親子丼", "卵料理", "千石", "専門店"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1323/A132301/13093220/"}
+    ]
+  },
+  {
+    "id": "yonino-verve-coffee-ebisu",
+    "name": "VERVE COFFEE ROASTERS EBISU",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿4-20-7 恵比寿ガーデンプレイス センタープラザ内",
+    "lat": 35.6476,
+    "lng": 139.7164,
+    "youtube_id": null,
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-10-26",
+    "description": "米カリフォルニア発のスペシャルティコーヒーロースター。恵比寿ガーデンプレイス内の開放的な空間で上質なコーヒーを楽しめる。よにのちゃんねる#469で登場。",
+    "tags": ["カフェ", "コーヒー", "恵比寿", "アメリカ発"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1303/A130302/13299743/"}
+    ]
+  },
+  {
+    "id": "yonino-passage-coffee",
+    "name": "PASSAGE COFFEE",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝5-14-16",
+    "lat": 35.6466,
+    "lng": 139.7407,
+    "youtube_id": null,
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-10-12",
+    "description": "田町・三田エリアの人気スペシャルティコーヒースタンド。厳選した豆を丁寧に抽出した一杯が楽しめる。よにのちゃんねる#465で登場。",
+    "tags": ["カフェ", "コーヒー", "田町", "スタンド"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1314/A131402/13206620/"}
+    ]
+  },
+  {
+    "id": "yonino-unafuji-yurakucho",
+    "name": "炭焼 うな富士 有楽町店",
+    "genre": "うなぎ",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区内幸町1-7-1 日比谷OKUROJI",
+    "lat": 35.6749,
+    "lng": 139.7574,
+    "youtube_id": "sDxdoLUksaY",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-08-27",
+    "description": "名古屋発の炭焼きうなぎ専門店の有楽町・日比谷OKUROJI店。ひつまぶしと蒲焼きが人気。よにのちゃんねる#452で登場。",
+    "tags": ["うなぎ", "有楽町", "日比谷", "名古屋発"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1302/A130201/13261063/"}
+    ]
+  },
+  {
+    "id": "yonino-bouinboshoku",
+    "name": "東陽町 大衆焼肉 暴飲暴食",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区東陽3-24-19",
+    "lat": 35.6699,
+    "lng": 139.8157,
+    "youtube_id": "T8i9WGaNkI8",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-08-06",
+    "description": "東陽町の大衆焼肉店。手頃な価格でがっつり焼肉が楽しめる。2024年オープンの新進気鋭の焼肉店。よにのちゃんねる#446で登場。",
+    "tags": ["焼肉", "東陽町", "大衆", "コスパ"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1313/A131303/13298913/"}
+    ]
+  },
+  {
+    "id": "yonino-goldrush-shibuya",
+    "name": "ゴールドラッシュ 渋谷本店",
+    "genre": "ハンバーグ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町4-7 トウセン宇田川ビル4F",
+    "lat": 35.6620,
+    "lng": 139.6985,
+    "youtube_id": "B9OZC4zIHdY",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-07-30",
+    "description": "昭和55年創業の老舗ハンバーグ専門店。ビーフ100%の手づくりハンバーグが看板。渋谷東急ハンズ近くに位置する不動の名店。よにのちゃんねる#444で登場。",
+    "tags": ["ハンバーグ", "渋谷", "老舗", "ビーフ100%"],
+    "affiliate_links": [
+      {"label": "公式サイト", "url": "https://www.gold-rush.jp/information/sibuya/"},
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1303/A130301/13002070/"}
+    ]
+  },
+  {
+    "id": "yonino-otona-shokudo",
+    "name": "大人食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-11-6 エクレ新宿303",
+    "lat": 35.6905,
+    "lng": 139.7069,
+    "youtube_id": "gTzHfVLn3Ro",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-09-07",
+    "description": "新宿三丁目の人気定食・おばんざい店。チキン南蛮やからあげなど家庭的な料理が揃う。白米・玄米から選べる。よにのちゃんねる#455で登場。",
+    "tags": ["定食", "新宿", "おばんざい", "和食"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1304/A130401/13241610/"}
+    ]
+  },
+  {
+    "id": "yonino-spicy-curry-roka",
+    "name": "SPICY CURRY 魯珈",
+    "genre": "カレー",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町1-24-8 新宿タウンプラザビルBF-J",
+    "lat": 35.7017,
+    "lng": 139.6989,
+    "youtube_id": "jK0wBUV9HV8",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-05-11",
+    "description": "大久保の予約困難スパイスカレー店。南インド仕込みのチキンカレーと台湾魯肉飯を組み合わせた「魯珈プレート」が名物。よにのちゃんねる#421で登場。",
+    "tags": ["カレー", "大久保", "スパイス", "予約困難"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1304/A130404/13286023/"}
+    ]
+  },
+  {
+    "id": "yonino-iki-espresso",
+    "name": "iki ESPRESSO",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区常盤2-2-12",
+    "lat": 35.6803,
+    "lng": 139.8015,
+    "youtube_id": null,
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-02-26",
+    "description": "ニュージーランド発のカフェカルチャーを清澄白河に持ち込んだ人気カフェ。エッグベネディクトやアボカドトーストなどフードも充実。よにのちゃんねる#401で登場。",
+    "tags": ["カフェ", "清澄白河", "NZ発", "コーヒー"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1312/A131201/13190426/"}
+    ]
+  },
+  {
+    "id": "yonino-kuraji-akasaka",
+    "name": "熟豚 三代目 蔵司",
+    "genre": "とんかつ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂4-2-2",
+    "lat": 35.6773,
+    "lng": 139.7378,
+    "youtube_id": "gs9Wm4uzulk",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-02-16",
+    "description": "長期低温熟成豚を使ったとんかつ専門店。熟成による柔らかさと旨みの深さが特徴。赤坂見附駅徒歩2分。よにのちゃんねる#397・#398で登場。",
+    "tags": ["とんかつ", "赤坂", "熟成豚", "専門店"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1308/A130801/13274387/"}
+    ]
+  },
+  {
+    "id": "yonino-goemon-akasaka",
+    "name": "洋麺屋五右衛門 赤坂店",
+    "genre": "パスタ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂5-1-4 赤坂いそむらビル1F",
+    "lat": 35.6740,
+    "lng": 139.7374,
+    "youtube_id": "PFtmB_WeAVo",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-01-19",
+    "description": "和の食材を使った創作パスタで人気の「洋麺屋五右衛門」赤坂店。和風だしと洋麺の組み合わせが特徴。よにのちゃんねる#389で登場。",
+    "tags": ["パスタ", "赤坂", "和風", "創作"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1308/A130801/13123355/"}
+    ]
+  },
+  {
+    "id": "yonino-kaotan-ramen",
+    "name": "かおたんラーメンえんとつ屋 南青山店",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山2-34-30",
+    "lat": 35.6697,
+    "lng": 139.7197,
+    "youtube_id": "5lDHj8PXno8",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-01-12",
+    "description": "バブル時代から続く南青山の老舗ラーメン店。夜遊びのシメのラーメンとして長年親しまれてきた名店。よにのちゃんねる#387で登場。",
+    "tags": ["ラーメン", "南青山", "老舗", "夜食"],
+    "affiliate_links": [
+      {"label": "食べログで見る", "url": "https://tabelog.com/tokyo/A1307/A130701/13001896/"}
+    ]
+  },
+  {
+    "id": "yonino-sanomiso-kameido",
+    "name": "佐野みそ 亀戸本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区亀戸1-35-8",
+    "lat": 35.6981,
+    "lng": 139.8246,
+    "youtube_id": "bXq2vtpe7lQ",
+    "members": ["二宮和也", "山田涼介", "菊池風磨"],
+    "groups": ["yonino"],
+    "group": "yonino",
+    "visited_date": "2025-02-26",
+    "description": "70種類以上の味噌を取り揃える老舗味噌専門店。「みそムリエ」資格保有者が常駐し、プロの料理人も信頼を寄せる。よにのちゃんねる#400で登場。",
+    "tags": ["味噌", "亀戸", "老舗", "専門店"],
+    "affiliate_links": [
+      {"label": "公式サイト", "url": "https://sanomiso.com/store/kameido-main-store/"}
     ]
   }
 ]
