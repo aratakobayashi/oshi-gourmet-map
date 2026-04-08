@@ -928,5 +928,648 @@
         "url": "https://sanomiso.com/store/kameido-main-store/"
       }
     ]
+  },
+  {
+    "id": "yonino-sumo-chaya-terao",
+    "name": "相撲茶屋 寺尾",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区両国2-16-5 あづまビル1F",
+    "lat": 35.6966,
+    "lng": 139.794,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-06-19",
+    "description": "両国の名物ちゃんこ鍋屋。よにのちゃんねる#336で朝からちゃんこ鍋を楽しんだ。",
+    "tags": [
+      "ちゃんこ鍋",
+      "両国",
+      "和食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-spice-ramen-tenten",
+    "name": "スパイスラーメン 点と線.",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区北沢3-34-2",
+    "lat": 35.6614,
+    "lng": 139.6685,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-07-14",
+    "description": "下北沢のスパイスラーメン専門店。よにのちゃんねる#343に登場。",
+    "tags": [
+      "スパイスラーメン",
+      "下北沢",
+      "ラーメン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-negishi-ikebukuro",
+    "name": "ねぎし 池袋サンシャイン前店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区東池袋1-29-4 成田ビルB1",
+    "lat": 35.7295,
+    "lng": 139.7205,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-07-31",
+    "description": "牛タンととろろ麦めしの定食チェーン。よにのちゃんねる#348に登場。",
+    "tags": [
+      "牛タン",
+      "池袋",
+      "和食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-mukann-yokohama",
+    "name": "むかん横浜",
+    "genre": "ラーメン",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区日ノ出町1-103-1",
+    "lat": 35.4477,
+    "lng": 139.6267,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-09-11",
+    "description": "牡蠣塩ラーメンが看板の人気店。食べログ3.97超の名店。よにのちゃんねる#352に登場。",
+    "tags": [
+      "牡蠣塩ラーメン",
+      "横浜",
+      "ラーメン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-le-pain-quotidien",
+    "name": "Le Pain Quotidien 東京ミッドタウン店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂9-7-1 東京ミッドタウン ガーデンテラス1F",
+    "lat": 35.6649,
+    "lng": 139.7306,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-09-18",
+    "description": "ベルギー発オーガニックベーカリーレストラン。よにのちゃんねる#354に登場。",
+    "tags": [
+      "カフェ",
+      "ミッドタウン",
+      "ベーカリー"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-kinniku-shokudo-ginza",
+    "name": "筋肉食堂 銀座コリドー街店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座7-2 216号室",
+    "lat": 35.6717,
+    "lng": 139.763,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-09-25",
+    "description": "高タンパク質・低糖質メニューが揃う健康志向の食堂。よにのちゃんねる#356に登場。",
+    "tags": [
+      "筋肉食堂",
+      "銀座",
+      "高タンパク"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-hutong-nishiazabu",
+    "name": "胡同 西麻布店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布4-1-8 上滝ビル1F",
+    "lat": 35.6578,
+    "lng": 139.7278,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-10-13",
+    "description": "西麻布の路地裏で30年続く韓国炭火焼き居酒屋。ネギタン塩が名物。よにのちゃんねる#361に登場。",
+    "tags": [
+      "韓国焼肉",
+      "西麻布",
+      "ネギタン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-imahan-asakusa",
+    "name": "浅草今半 国際通り本店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区西浅草3-1-12",
+    "lat": 35.7155,
+    "lng": 139.7924,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-10-30",
+    "description": "1895年創業のすき焼き・しゃぶしゃぶの老舗名店。よにのちゃんねる#366に登場。",
+    "tags": [
+      "すき焼き",
+      "しゃぶしゃぶ",
+      "浅草",
+      "老舗"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-enomoto-hamburg-bunkyo",
+    "name": "榎本ハンバーグ研究所 春日後楽園店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区小石川1-16-16",
+    "lat": 35.718,
+    "lng": 139.7437,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-11-20",
+    "description": "田中圭がゲスト出演した朝食ハンバーグ回。よにのちゃんねる#372に登場。",
+    "tags": [
+      "ハンバーグ",
+      "後楽園",
+      "朝食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-yamanaka-ginza",
+    "name": "博多もつ鍋 やま中 銀座店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座3-2-15 ギンザ・グラッセ1F/B1F",
+    "lat": 35.672,
+    "lng": 139.7645,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-12-04",
+    "description": "福岡老舗もつ鍋の銀座店。よにのちゃんねる#376に登場。",
+    "tags": [
+      "もつ鍋",
+      "銀座",
+      "博多"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-chinka-shisai-ginza",
+    "name": "陳家私菜 銀座店",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区内幸町1-7 日比谷グルメゾン1F",
+    "lat": 35.673,
+    "lng": 139.758,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-12-15",
+    "description": "本格四川料理の名店。北村匠海もゲスト出演。よにのちゃんねる#379に登場。",
+    "tags": [
+      "四川料理",
+      "中華",
+      "日比谷"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-cozy-style-coffee",
+    "name": "CozyStyle COFFEE",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区上落合3-10-3",
+    "lat": 35.7072,
+    "lng": 139.6992,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-05-04",
+    "description": "落合にある小さなカフェ。ティラミスも人気。よにのちゃんねる#419に登場。",
+    "tags": [
+      "カフェ",
+      "落合",
+      "ティラミス"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-kizasu-coffee",
+    "name": "KIZASU.COFFEE",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区新橋6-16 レックスビル1F",
+    "lat": 35.6631,
+    "lng": 139.7537,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-07-23",
+    "description": "御成門駅すぐのコスパ高めのコーヒースタンド。よにのちゃんねる#442に登場。",
+    "tags": [
+      "カフェ",
+      "新橋",
+      "コーヒースタンド"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-donish-coffee-kagurazaka",
+    "name": "Donish Coffee Company 神楽坂",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区袋町5-1 Faro神楽坂1F",
+    "lat": 35.7016,
+    "lng": 139.7392,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-06-25",
+    "description": "神楽坂の路地裏にある自家焙煎スペシャルティコーヒースタンド。よにのちゃんねる#434に登場。",
+    "tags": [
+      "カフェ",
+      "神楽坂",
+      "スペシャルティコーヒー"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-kaligari-akihabara",
+    "name": "秋葉原 カリガリ",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区外神田3-6-9 沖村ビル1F",
+    "lat": 35.6994,
+    "lng": 139.7728,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-01-17",
+    "description": "神田カレーグランプリ常連のカレー専門店。よにのちゃんねる#292に登場。",
+    "tags": [
+      "カレー",
+      "秋葉原",
+      "神田"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-tokyo-ajifurai",
+    "name": "トーキョーアジフライ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区九段南3-8-10 B1F",
+    "lat": 35.695,
+    "lng": 139.7502,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-04-10",
+    "description": "市ヶ谷のアジフライ専門店。骨煎餅・釜炊きご飯も人気。よにのちゃんねる#316に登場。",
+    "tags": [
+      "アジフライ",
+      "市ヶ谷",
+      "定食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-takeno-tsukiji",
+    "name": "多け乃",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区築地6-21-2",
+    "lat": 35.6653,
+    "lng": 139.7712,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2022-11-16",
+    "description": "築地場外市場の老舗海鮮居酒屋。金目鯛などの朝定食が有名。よにのちゃんねる#180に登場。",
+    "tags": [
+      "海鮮",
+      "築地",
+      "居酒屋",
+      "朝食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-nagisa-shokudo",
+    "name": "なぎさ食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田三崎町2-16-4",
+    "lat": 35.6978,
+    "lng": 139.7582,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-01-03",
+    "description": "水道橋の海鮮系定食屋。よにのちゃんねる#288に登場。",
+    "tags": [
+      "定食",
+      "水道橋",
+      "海鮮"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-nijome-shokudo-toledo",
+    "name": "二丁目食堂トレド",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂2-6-7 ポルタ神楽坂1F",
+    "lat": 35.7029,
+    "lng": 139.7383,
+    "youtube_id": "",
+    "members": [
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2023-12-13",
+    "description": "1972年創業の神楽坂老舗洋食店。継ぎ足しカレーとトルコライスが名物。よにのちゃんねる#282に登場。",
+    "tags": [
+      "洋食",
+      "神楽坂",
+      "カレー",
+      "老舗"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-nakayoshi-ebisu",
+    "name": "土鍋炊ごはん なかよし 本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-8-2",
+    "lat": 35.6465,
+    "lng": 139.7135,
+    "youtube_id": "",
+    "members": [
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2023-09-24",
+    "description": "土鍋で炊いたご飯と季節の定食が人気の恵比寿の名店。よにのちゃんねる#274に登場。",
+    "tags": [
+      "定食",
+      "恵比寿",
+      "土鍋ご飯"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-dousaka-shokudo",
+    "name": "動坂食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区千駄木4-13-6",
+    "lat": 35.7246,
+    "lng": 139.7623,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2022-09-14",
+    "description": "千駄木の昔ながらの定食屋。よにのちゃんねる#160に登場。",
+    "tags": [
+      "定食",
+      "千駄木",
+      "大衆食堂"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-anume-azabujuban",
+    "name": "干物割烹 あん梅",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番2-19-2",
+    "lat": 35.6561,
+    "lng": 139.7371,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-04-24",
+    "description": "麻布十番の干物割烹。無添加の高級手造り干物が自慢。よにのちゃんねる#320に登場。",
+    "tags": [
+      "干物",
+      "割烹",
+      "麻布十番"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-daisanboku-aoyama",
+    "name": "大3木（ダイサンボク）",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山1-3-6",
+    "lat": 35.6689,
+    "lng": 139.7253,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-03-13",
+    "description": "青山一丁目の海鮮系居酒屋。よにのちゃんねる#308に登場。",
+    "tags": [
+      "海鮮居酒屋",
+      "青山",
+      "居酒屋"
+    ],
+    "affiliate_links": []
   }
 ]
