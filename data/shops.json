@@ -1571,5 +1571,676 @@
       "居酒屋"
     ],
     "affiliate_links": []
+  },
+  {
+    "id": "snowman-pablo-meguro",
+    "name": "スペイン料理 Pablo",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区東山1-6-13 1F",
+    "lat": 35.6438,
+    "lng": 139.7073,
+    "youtube_id": "q9xC9ARZrR4",
+    "members": [
+      "深澤辰哉",
+      "渡辺翔太",
+      "宮舘涼太",
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-10-02",
+    "description": "パエリア世界大会日本代表シェフによる本格スペイン料理。すの日常2024年10月2日配信。",
+    "tags": [
+      "スペイン料理",
+      "パエリア",
+      "目黒"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-donabe-gohan-ikushika",
+    "name": "土鍋ご飯いくしか 中目黒店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中目黒1-4-6 1F",
+    "lat": 35.6443,
+    "lng": 139.7003,
+    "youtube_id": "8R-AlLRghJc",
+    "members": [
+      "深澤辰哉",
+      "岩本照",
+      "阿部亮平",
+      "向井康二"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-06-11",
+    "description": "おかわり自由の土鍋ご飯定食。すの日常2025年6月11日配信。",
+    "tags": [
+      "土鍋ご飯",
+      "中目黒",
+      "定食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-iseyashokudo-yodobashi",
+    "name": "伊勢屋食堂（淀橋市場内）",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区北新宿4-2-1 淀橋市場内",
+    "lat": 35.7014,
+    "lng": 139.6931,
+    "youtube_id": "1cQeue2ITFU",
+    "members": [
+      "渡辺翔太",
+      "阿部亮平",
+      "向井康二",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-02-05",
+    "description": "1951年創業の昭和レトロな市場内食堂。すの日常2025年2月5日配信。",
+    "tags": [
+      "食堂",
+      "市場",
+      "新宿",
+      "昭和レトロ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-ryuho-kagurazaka",
+    "name": "龍朋",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区矢来町123 B1",
+    "lat": 35.703,
+    "lng": 139.7383,
+    "youtube_id": "EWIafNjEYU4",
+    "members": [
+      "宮舘涼太",
+      "岩本照",
+      "阿部亮平",
+      "目黒蓮"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-12-04",
+    "description": "神楽坂の昭和46年創業の人気町中華。孤独のグルメ登場店。すの日常2024年12月4日配信。",
+    "tags": [
+      "町中華",
+      "神楽坂",
+      "チャーハン",
+      "孤独のグルメ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-onigiri-asakusa-yadoroku",
+    "name": "おにぎり浅草宿六",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草3-9-10 キャピタルプラザ浅草1F",
+    "lat": 35.7181,
+    "lng": 139.8025,
+    "youtube_id": "RpcyxzXS4ww",
+    "members": [
+      "深澤辰哉",
+      "渡辺翔太",
+      "向井康二",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-09-18",
+    "description": "東京最古のおにぎり専門店。ミシュランガイド掲載。すの日常2024年9月18日配信。",
+    "tags": [
+      "おにぎり",
+      "浅草",
+      "ミシュラン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-tsurujiro-asakusa",
+    "name": "浅草つる次郎 HANARE",
+    "genre": "もんじゃ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-36-2",
+    "lat": 35.7116,
+    "lng": 139.797,
+    "youtube_id": "",
+    "members": [
+      "渡辺翔太",
+      "阿部亮平",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-05-08",
+    "description": "浅草のもんじゃ焼き店。すの日常2024年5月8日配信。",
+    "tags": [
+      "もんじゃ",
+      "浅草"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-brettz-cafe-omotesando",
+    "name": "ブレッツカフェ クレープリー 表参道店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前3-5-4",
+    "lat": 35.6705,
+    "lng": 139.7128,
+    "youtube_id": "",
+    "members": [
+      "ラウール",
+      "渡辺翔太",
+      "阿部亮平",
+      "宮舘涼太"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-03-06",
+    "description": "パリ発本格ブルターニュガレット。すの日常2024年3月6日配信。",
+    "tags": [
+      "ガレット",
+      "クレープ",
+      "表参道",
+      "カフェ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-yoshidaya-tachiaigawa",
+    "name": "そば会席 立会川 吉田家",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区東大井2-15-13",
+    "lat": 35.6084,
+    "lng": 139.7319,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "佐久間大介",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2023-10-11",
+    "description": "1856年創業・幕末の志士も通った老舗そば会席。すの日常2023年10月11日配信。",
+    "tags": [
+      "そば",
+      "老舗",
+      "品川",
+      "会席"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-kitchen-rocco-hachioji",
+    "name": "Kitchen ROCCO",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "address": "東京都八王子市子安町3-8-10",
+    "lat": 35.6622,
+    "lng": 139.3065,
+    "youtube_id": "",
+    "members": [
+      "ラウール",
+      "目黒蓮",
+      "宮舘涼太",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2023-12-27",
+    "description": "八王子名物「白ナポリタン」で有名な地元イタリアン。すの日常2023年12月27日配信。",
+    "tags": [
+      "イタリアン",
+      "八王子",
+      "白ナポリタン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-abura-gakkai-waseda",
+    "name": "武蔵野アブラ學会 早稲田別館",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区喜久井町65",
+    "lat": 35.7072,
+    "lng": 139.7192,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "阿部亮平",
+      "宮舘涼太"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-04-23",
+    "description": "早稲田名物の油そば専門店。すの日常2025年4月23日配信。",
+    "tags": [
+      "油そば",
+      "早稲田",
+      "ラーメン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-napure-minamiaoyama",
+    "name": "ナプレ 南青山本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山5-6-24",
+    "lat": 35.6651,
+    "lng": 139.7184,
+    "youtube_id": "",
+    "members": [
+      "阿部亮平",
+      "宮舘涼太",
+      "渡辺翔太",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-04-16",
+    "description": "1999年創業のナポリピザブーム先駆け店。すの日常2025年4月16日配信。",
+    "tags": [
+      "ピザ",
+      "南青山",
+      "イタリアン"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-sarashina-horii-motoazabu",
+    "name": "総本家更科堀井 本店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区元麻布3-11-4",
+    "lat": 35.6544,
+    "lng": 139.7336,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "佐久間大介",
+      "宮舘涼太"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-03-12",
+    "description": "創業200年超の麻布十番老舗そば店。すの日常2025年3月12日配信。",
+    "tags": [
+      "そば",
+      "麻布十番",
+      "老舗",
+      "更科"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-wagaya-shokudo-kasai",
+    "name": "わが家の食堂 葛西店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "address": "東京都江戸川区中葛西8-23-5",
+    "lat": 35.6551,
+    "lng": 139.8727,
+    "youtube_id": "",
+    "members": [
+      "目黒蓮",
+      "ラウール",
+      "深澤辰哉",
+      "岩本照"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-03-05",
+    "description": "24時間年中無休・惣菜バイキング形式の下町定食屋。すの日常2025年3月5日配信。",
+    "tags": [
+      "定食",
+      "惣菜バイキング",
+      "葛西",
+      "24時間"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-yakuzenya-ebisu",
+    "name": "薬膳キッチン やくぜんや",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-3-5 アルス恵比寿メイクス1F",
+    "lat": 35.6469,
+    "lng": 139.7139,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "渡辺翔太",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-09-24",
+    "description": "身体に優しい薬膳料理ランチ。すの日常2025年9月24日配信。",
+    "tags": [
+      "薬膳",
+      "恵比寿",
+      "健康"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-ginza-sushi-banya-kai",
+    "name": "GINZA SUSHI BANYA KAI",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座1-8-19 銀座一丁目ビル7F",
+    "lat": 35.6727,
+    "lng": 139.7683,
+    "youtube_id": "",
+    "members": [
+      "渡辺翔太",
+      "向井康二",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-12-17",
+    "description": "銀座の本格江戸前寿司おまかせコース。すの日常2025年12月17日配信。",
+    "tags": [
+      "寿司",
+      "銀座",
+      "おまかせ",
+      "江戸前"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-futago-roppongi",
+    "name": "大阪焼肉・ホルモン ふたご 六本木店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木4-9-1 佐竹ビル2F",
+    "lat": 35.663,
+    "lng": 139.7302,
+    "youtube_id": "",
+    "members": [
+      "目黒蓮",
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-12-03",
+    "description": "大阪スタイルの焼肉・ホルモン専門店。すの日常2025年12月3日配信。",
+    "tags": [
+      "焼肉",
+      "ホルモン",
+      "六本木",
+      "大阪スタイル"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-ore-no-kappo-ebisu",
+    "name": "俺の割烹 炉ばた 恵比寿",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-7-12 MKTビル2F",
+    "lat": 35.6476,
+    "lng": 139.7131,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2026-01-21",
+    "description": "恵比寿の炉端焼き割烹。すの日常2026年1月21日配信。",
+    "tags": [
+      "炉端焼き",
+      "割烹",
+      "恵比寿",
+      "居酒屋"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-teikoku-shokudo-nishiazabu",
+    "name": "帝國食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布2-15-13 天崎ビル1F",
+    "lat": 35.6563,
+    "lng": 139.724,
+    "youtube_id": "",
+    "members": [
+      "佐久間大介",
+      "深澤辰哉",
+      "渡辺翔太",
+      "向井康二"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2026-02-11",
+    "description": "西麻布の気軽に入れるフレンチビストロ。すの日常2026年2月11日配信。",
+    "tags": [
+      "フレンチ",
+      "西麻布",
+      "ビストロ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-setouchi-bar-collabo",
+    "name": "瀬戸内バル Collabo",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂1-6-9",
+    "lat": 35.6446,
+    "lng": 139.6693,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "宮舘涼太",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-11-27",
+    "description": "三軒茶屋の瀬戸内海の魚介を使ったバルでランチ。すの日常2024年11月27日配信。",
+    "tags": [
+      "バル",
+      "三軒茶屋",
+      "瀬戸内",
+      "魚介"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-kitchen-nanagoku-waseda",
+    "name": "キッチン南国",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区戸塚町1-101",
+    "lat": 35.7072,
+    "lng": 139.721,
+    "youtube_id": "",
+    "members": [
+      "佐久間大介",
+      "深澤辰哉",
+      "宮舘涼太",
+      "目黒蓮"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-05-29",
+    "description": "早稲田大学そばの49年続く洋食定食屋。すの日常2024年5月29日配信。",
+    "tags": [
+      "洋食",
+      "早稲田",
+      "定食"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-asagaya-birdland",
+    "name": "阿佐ヶ谷バードランド",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区阿佐谷南3-37-9 バール・アサガヤ1F",
+    "lat": 35.7047,
+    "lng": 139.6391,
+    "youtube_id": "",
+    "members": [
+      "深澤辰哉",
+      "岩本照",
+      "渡辺翔太",
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2023-11-29",
+    "description": "ミシュラン掲載・奥久慈しゃもを備長炭で焼く名店。すの日常2023年11月29日配信。",
+    "tags": [
+      "焼き鳥",
+      "阿佐ヶ谷",
+      "ミシュラン",
+      "奥久慈しゃも"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-ekawatei-koganei",
+    "name": "江川亭 小金井本店",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "小金井市",
+    "address": "東京都小金井市前原町5-9-11",
+    "lat": 35.7027,
+    "lng": 139.5136,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "渡辺翔太",
+      "向井康二"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-04-03",
+    "description": "西東京エリアで人気のとんこつ系ラーメン店。すの日常2024年4月3日配信。",
+    "tags": [
+      "ラーメン",
+      "小金井",
+      "とんこつ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-panda-restaurant-shibuya",
+    "name": "パンダレストラン",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-6-16 井門ビルB1F",
+    "lat": 35.6574,
+    "lng": 139.7,
+    "youtube_id": "",
+    "members": [
+      "深澤辰哉"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2019-12-04",
+    "description": "渋谷の広東料理200席の老舗中華。すの日常2019年12月4日配信。",
+    "tags": [
+      "中華",
+      "渋谷",
+      "広東料理"
+    ],
+    "affiliate_links": []
   }
 ]
