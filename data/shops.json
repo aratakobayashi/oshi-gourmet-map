@@ -2552,5 +2552,184 @@
       "ごはん"
     ],
     "affiliate_links": []
+  },
+  {
+    "id": "snowman-gust-roppongi",
+    "name": "ガスト 六本木店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木5-2-1 ほうらいやビルB1F",
+    "lat": 35.663,
+    "lng": 139.7302,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "ラウール",
+      "渡辺翔太",
+      "向井康二"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2026-03-18",
+    "description": "お昼寝前の爆食グルメ企画。5人でファミレスをわいわい堪能。すの日常2026年3月18日配信。",
+    "tags": [
+      "ファミレス",
+      "六本木"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-kokonotsu-kitasenju",
+    "name": "ここのつ 3号店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "address": "東京都足立区千住東2-3-7",
+    "lat": 35.7491,
+    "lng": 139.8025,
+    "youtube_id": "",
+    "members": [
+      "向井康二",
+      "渡辺翔太",
+      "阿部亮平",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-04-17",
+    "description": "北千住の究極レバニラ定食の名店。向井康二が人生初納豆に挑戦。すの日常2024年4月17日配信。",
+    "tags": [
+      "定食",
+      "北千住",
+      "レバニラ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-kitchen-peanuts-arakawa",
+    "name": "キッチン ぴーなっつ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "address": "東京都荒川区西尾久6-18-1",
+    "lat": 35.7464,
+    "lng": 139.7744,
+    "youtube_id": "",
+    "members": [
+      "深澤辰哉",
+      "ラウール",
+      "向井康二",
+      "目黒蓮"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2023-10-25",
+    "description": "目黒蓮プレゼンツ荒川ドライブランチ企画。隠れ家洋食店でドリア・ハンバーグを堪能。すの日常2023年10月25日配信。",
+    "tags": [
+      "洋食",
+      "荒川区",
+      "ハンバーグ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-unagi-kawamatu-higashikurume",
+    "name": "うなぎ川松",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "address": "東京都東久留米市前沢3丁目",
+    "lat": 35.759,
+    "lng": 139.5303,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "佐久間大介",
+      "目黒蓮"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2024-02-07",
+    "description": "釣り部結成記念食事会。40年継ぎ足しの秘伝タレで焼くうなぎが絶品。すの日常2024年2月7日配信。",
+    "tags": [
+      "うなぎ",
+      "東久留米",
+      "老舗"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-de-salita-akasaka",
+    "name": "Trattoria e Pizzeria De salita 赤坂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-10-17 マーカスビル1F",
+    "lat": 35.6757,
+    "lng": 139.7367,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "深澤辰哉",
+      "渡辺翔太",
+      "向井康二",
+      "阿部亮平",
+      "宮舘涼太",
+      "佐久間大介",
+      "目黒蓮",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2020-03-25",
+    "description": "宮舘涼太の食べたいものを当てろ企画。全員集合で赤坂の本格イタリアンへ。すの日常2020年3月25日配信。",
+    "tags": [
+      "イタリアン",
+      "赤坂",
+      "ピザ"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-haneda-ichiba-ginza",
+    "name": "羽田市場 GINZA SEVEN",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座7-14-15 杉山ビルB1F",
+    "lat": 35.6693,
+    "lng": 139.7633,
+    "youtube_id": "",
+    "members": [
+      "岩本照",
+      "宮舘涼太",
+      "佐久間大介",
+      "目黒蓮"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-07-30",
+    "description": "銀座の海鮮・寿司グルメ企画。羽田空港直送の新鮮魚介が楽しめる和食処。すの日常2025年7月30日配信。",
+    "tags": [
+      "寿司",
+      "銀座",
+      "海鮮"
+    ],
+    "affiliate_links": []
   }
 ]
