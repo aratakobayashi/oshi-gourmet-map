@@ -2242,5 +2242,315 @@
       "広東料理"
     ],
     "affiliate_links": []
+  },
+  {
+    "id": "yonino-gyoza-ohsho-shimbashi",
+    "name": "餃子の王将 新橋駅前店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区新橋2-20-15 新橋駅前ビル1号館1F",
+    "lat": 35.666,
+    "lng": 139.7586,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-07-16",
+    "description": "よにのちゃんねる#440登場。新橋駅前の王将で餃子・炒飯を堪能。",
+    "tags": [
+      "餃子",
+      "新橋",
+      "中華"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-hilton-marble-lounge",
+    "name": "ヒルトン東京 マーブルラウンジ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿6-6-2 ヒルトン東京1F",
+    "lat": 35.6896,
+    "lng": 139.6917,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-07-13",
+    "description": "よにのちゃんねる#439登場。ヒルトン東京の朝食ビュッフェ。",
+    "tags": [
+      "ビュッフェ",
+      "ホテル朝食",
+      "新宿"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-blue-six-coffee",
+    "name": "BLUE SIX COFFEE",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区霞ヶ丘町5-7 都立明治公園D棟",
+    "lat": 35.6775,
+    "lng": 139.7133,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-03-30",
+    "description": "よにのちゃんねる#409登場。Mrs.GREEN APPLE大森元貴ゲスト回。国立競技場隣の都立明治公園内カフェ。",
+    "tags": [
+      "カフェ",
+      "明治公園",
+      "コーヒー"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-latte-art-mania",
+    "name": "LATTE ART MANIA TOKYO",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山2-9-13 斉藤ビル1F",
+    "lat": 35.672,
+    "lng": 139.7163,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-03-16",
+    "description": "よにのちゃんねる#405登場。外苑前のラテアート大会チャンピオンが手がけるコーヒー専門店。",
+    "tags": [
+      "カフェ",
+      "ラテアート",
+      "外苑前"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-blue-bottle-shinjuku",
+    "name": "ブルーボトルコーヒー 新宿カフェ",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿B1F",
+    "lat": 35.6891,
+    "lng": 139.7009,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-02-23",
+    "description": "よにのちゃんねる#399登場。新宿のブルーボトルコーヒーでスペシャルティコーヒーをテイクアウト。",
+    "tags": [
+      "カフェ",
+      "新宿",
+      "スペシャルティコーヒー"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-starbucks-reserve-roastery",
+    "name": "STARBUCKS RESERVE ROASTERY TOKYO",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区青葉台2-19-23",
+    "lat": 35.6523,
+    "lng": 139.7013,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-01-26",
+    "description": "よにのちゃんねる#391/#392登場。中目黒川沿いのスタバ世界5店舗限定ロースタリー。",
+    "tags": [
+      "カフェ",
+      "中目黒",
+      "スターバックス"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-hakata-genki-ippai",
+    "name": "博多元気一杯!!",
+    "genre": "ラーメン",
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "address": "福岡県福岡市博多区下呉服町2-1",
+    "lat": 33.5934,
+    "lng": 130.4153,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-04-02",
+    "description": "よにのちゃんねる#410/#411登場。福岡ロケ。食べログラーメンWEST百名店6年連続選出の豚骨ラーメン名店。",
+    "tags": [
+      "ラーメン",
+      "福岡",
+      "博多",
+      "豚骨"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-double-tall-coffee-shinjuku",
+    "name": "DOUBLE TALL COFFEE 新宿御苑",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿1-23-11 御苑メインビル1F",
+    "lat": 35.6862,
+    "lng": 139.7062,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2025-09-14",
+    "description": "よにのちゃんねる#457登場。なにわ男子・道枝駿佑ゲスト回。新宿御苑前のセルフロースターカフェ。",
+    "tags": [
+      "カフェ",
+      "新宿",
+      "コーヒー"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-dancyu-shokudo",
+    "name": "dancyu食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内1-9-1 グランスタ八重北1F",
+    "lat": 35.6828,
+    "lng": 139.7701,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2024-11-10",
+    "description": "よにのちゃんねる#369登場。井ノ原快彦ゲスト回。東京駅グランスタの食の雑誌dancyu監修定食屋。",
+    "tags": [
+      "定食",
+      "東京駅",
+      "dancyu"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-akasaka-gohan-yamaneya",
+    "name": "赤坂ごはん 山ね家",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂7-8-1",
+    "lat": 35.672,
+    "lng": 139.7325,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2023-06-28",
+    "description": "よにのちゃんねる#249登場。赤坂の家庭的な和定食店。",
+    "tags": [
+      "和食",
+      "定食",
+      "赤坂"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "yonino-teshio-gohan-gen",
+    "name": "手しおごはん 玄 新宿南口店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区代々木2-23-1 ニューステイトメナー1F",
+    "lat": 35.6848,
+    "lng": 139.702,
+    "youtube_id": "",
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
+    "groups": [
+      "yonino"
+    ],
+    "group": "yonino",
+    "visited_date": "2023-09-06",
+    "description": "よにのちゃんねる#264登場。新宿南口から徒歩3分。塩加減にこだわった手しおごはんと旬の和定食。",
+    "tags": [
+      "和食",
+      "定食",
+      "新宿",
+      "ごはん"
+    ],
+    "affiliate_links": []
   }
 ]
