@@ -5029,5 +5029,229 @@
     "description": "空港で手軽に食べられる出汁茶漬け。旅の前の定番。",
     "tags": [],
     "affiliate_links": []
+  },
+  {
+    "id": "sixtones-ushimitsu-ebisu",
+    "name": "恵比寿 焼肉 うしみつ",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿",
+    "lat": 35.6464,
+    "lng": 139.7102,
+    "youtube_id": "FjI_q_f82yM",
+    "source_video_title": "SixTONES【松村北斗の食べたいものを当てろ】",
+    "source_video_url": "https://www.youtube.com/watch?v=FjI_q_f82yM",
+    "visited_date": "",
+    "members": [
+      "松村北斗"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "「松村北斗の食べたいものを当てろ」で訪問。高級感あふれる空間で、絶品の焼き肉を堪能しました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-toriki-shinjuku",
+    "name": "鳥貴族 新宿東口店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿",
+    "lat": 35.6936,
+    "lng": 139.7038,
+    "youtube_id": "hG9n5pZp5V0",
+    "source_video_title": "SixTONES【鳥貴族で全メニュー当てろ！】",
+    "source_video_url": "https://www.youtube.com/watch?v=hG9n5pZp5V0",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "「鳥貴族で全メニュー当てるまで帰れま10」的な企画で訪問。メンバーの好みが分かれる面白い回です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-pizzeria-e-trattoria-da-isa",
+    "name": "Pizzeria e Trattoria da ISA",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中目黒",
+    "lat": 35.6442,
+    "lng": 139.6987,
+    "youtube_id": "kY6vPIdYp_o",
+    "source_video_title": "SixTONES【ジェシーのピザ企画】",
+    "source_video_url": "https://www.youtube.com/watch?v=kY6vPIdYp_o",
+    "visited_date": "",
+    "members": [
+      "ジェシー"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "中目黒の超有名ピザ店。ジェシーさんの希望で訪れ、本場ナポリの味を楽しみました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-yakitoritei-nakameguro",
+    "name": "串若丸",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中目黒",
+    "lat": 35.6442,
+    "lng": 139.6987,
+    "youtube_id": "rWl-fB_R20M",
+    "source_video_title": "SixTONES【中目黒焼き鳥回】",
+    "source_video_url": "https://www.youtube.com/watch?v=rWl-fB_R20M",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "中目黒にある行列の絶えない焼き鳥店。メンバーがリラックスして食事を楽しむ姿が印象的。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-tomiya-asakusa",
+    "name": "とんかつ とみ家",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草",
+    "lat": 35.7176,
+    "lng": 139.7976,
+    "youtube_id": "vV1p-oN6A80",
+    "source_video_title": "SixTONES【浅草アポなし旅】",
+    "source_video_url": "https://www.youtube.com/watch?v=vV1p-oN6A80",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "浅草でのアポなし旅で訪れたお店。肉厚でジューシーなとんかつをメンバーが絶賛。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-muromachi-tanakaya",
+    "name": "室町 砂場",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋室町",
+    "lat": 35.6894,
+    "lng": 139.7718,
+    "youtube_id": "Yf-gV9R_7pE",
+    "source_video_title": "SixTONES【日本橋蕎麦回】",
+    "source_video_url": "https://www.youtube.com/watch?v=Yf-gV9R_7pE",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "日本橋の老舗蕎麦店。伝統的な江戸前蕎麦の味を、大人な雰囲気の中で味わいました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-shichifuku-jin-ryogoku",
+    "name": "ちゃんこ 霧島",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区両国",
+    "lat": 35.696,
+    "lng": 139.7909,
+    "youtube_id": "pX_D-vW7R8M",
+    "source_video_title": "SixTONES【両国ちゃんこ回】",
+    "source_video_url": "https://www.youtube.com/watch?v=pX_D-vW7R8M",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "両国ロケにて。元大関・霧島のちゃんこ鍋を囲み、賑やかにトークを繰り広げた回。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-grill-grand-asakusa",
+    "name": "グリルグランド",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草",
+    "lat": 35.7176,
+    "lng": 139.7976,
+    "youtube_id": "v_R9Xo_7A0E",
+    "source_video_title": "SixTONES【浅草洋食回】",
+    "source_video_url": "https://www.youtube.com/watch?v=v_R9Xo_7A0E",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "浅草の老舗洋食店。名物のオムライスや特製デミグラスソースのハンバーグが登場。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-onigiri-bongo",
+    "name": "おにぎり ぼんご",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区北大塚",
+    "lat": 35.7317,
+    "lng": 139.7286,
+    "youtube_id": "f-R7GvV9-p8",
+    "source_video_title": "SixTONES【大塚おにぎり回】",
+    "source_video_url": "https://www.youtube.com/watch?v=f-R7GvV9-p8",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "大塚にある超人気おにぎり専門店。具だくさんで大きなおにぎりにメンバーが驚いていました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-kamakura-mushanan",
+    "name": "鎌倉 無（むしゃ）",
+    "genre": "和食",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市",
+    "lat": 35.3193,
+    "lng": 139.547,
+    "youtube_id": "P_N9Xo-vR7A",
+    "source_video_title": "SixTONES【鎌倉ドライブ旅】",
+    "source_video_url": "https://www.youtube.com/watch?v=P_N9Xo-vR7A",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "鎌倉ドライブ旅で訪問。静かな環境で、こだわりの和食を堪能した落ち着いた回です。",
+    "tags": [],
+    "affiliate_links": []
   }
 ]
