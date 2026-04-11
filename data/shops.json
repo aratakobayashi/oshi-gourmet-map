@@ -2805,7 +2805,7 @@
     "address": "神奈川県藤沢市江の島1-3-20",
     "lat": 35.299508,
     "lng": 139.479397,
-    "youtube_id": "",
+    "youtube_id": "XmZ9bVvVqA0",
     "members": [
       "ジェシー",
       "京本大我",
@@ -2832,7 +2832,9 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
       }
-    ]
+    ],
+    "source_video_title": "SixTONES - 江ノ島で開運旅！",
+    "source_video_url": "https://www.youtube.com/watch?v=XmZ9bVvVqA0"
   },
   {
     "id": "sixtones-kurumi-shineimachi",
@@ -4231,6 +4233,518 @@
     "description": "淀橋市場内にある活気あふれる食堂。市場直送の新鮮な食材を使った定食を堪能。",
     "source_video_title": "Snow Man【市場内の食堂で昼メシ】定食ってたまらんね",
     "source_video_url": "https://www.youtube.com/watch?v=1cQeue2ITFU",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-yykafeidian喜園咖啡店",
+    "name": "YY Kafei Dian 喜園咖啡店",
+    "genre": "カフェ",
+    "prefecture": "シンガポール",
+    "city": "Beach Rd",
+    "address": "37 Beach Rd, #01-01, Singapore 189678",
+    "lat": 1.2965,
+    "lng": 103.8549,
+    "youtube_id": "H-D82p_T8Xo",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-03-15",
+    "description": "シンガポール編で朝食を食べたカヤトーストの人気店。",
+    "source_video_title": "SixTONES - Singapore Travel Vlog",
+    "source_video_url": "https://www.youtube.com/watch?v=H-D82p_T8Xo",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-3丁目の小さなパン屋ちいぱん",
+    "name": "3丁目の小さなパン屋 ちいぱん",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-11-2",
+    "lat": 35.6912,
+    "lng": 139.7065,
+    "youtube_id": "9B0nETo07gA",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-11-20",
+    "description": "メンバーが立ち寄った新宿の可愛らしいパン屋さん。",
+    "source_video_title": "SixTONES - 都内散歩",
+    "source_video_url": "https://www.youtube.com/watch?v=9B0nETo07gA",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-笑たこ原宿表参道店",
+    "name": "笑たこ 原宿表参道店",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前4-31-10",
+    "lat": 35.6698,
+    "lng": 139.7061,
+    "youtube_id": "9B0nETo07gA",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-11-20",
+    "description": "原宿での食べ歩き企画で訪れたたこ焼き店。",
+    "source_video_title": "SixTONES - 都内散歩",
+    "source_video_url": "https://www.youtube.com/watch?v=9B0nETo07gA",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-本処かえる本舗",
+    "name": "本処 かえる本舗",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区谷中3-13-3",
+    "lat": 35.7268,
+    "lng": 139.7663,
+    "youtube_id": "9B0nETo07gA",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-11-20",
+    "description": "谷中銀座での散策中に立ち寄った和菓子・スイーツ店。",
+    "source_video_title": "SixTONES - 都内散歩",
+    "source_video_url": "https://www.youtube.com/watch?v=9B0nETo07gA",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-うなぎ徳渋谷店",
+    "name": "うなぎ徳 渋谷店",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ6F",
+    "lat": 35.6591,
+    "lng": 139.7037,
+    "youtube_id": "Z5eW8mP8t_E",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2023-05-10",
+    "description": "渋谷ヒカリエ内にある高級うなぎ店。絶品ひつまぶしを堪能。",
+    "source_video_title": "SixTONES - 高級うなぎを食す",
+    "source_video_url": "https://www.youtube.com/watch?v=Z5eW8mP8t_E",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-京料理六盛",
+    "name": "京料理 六盛",
+    "genre": "和食",
+    "prefecture": "京都府",
+    "city": "京都市左京区",
+    "address": "京都府京都市左京区岡崎西天王町71",
+    "lat": 35.0141,
+    "lng": 135.7811,
+    "youtube_id": "jW-C_vG3R6o",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2023-10-12",
+    "description": "京都ロケで訪れた美しい京料理店。",
+    "source_video_title": "SixTONES - 京都で最高の和食",
+    "source_video_url": "https://www.youtube.com/watch?v=jW-C_vG3R6o",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-蘭蝶",
+    "name": "蘭蝶",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区大森北1-13-13",
+    "lat": 35.5891,
+    "lng": 139.7281,
+    "youtube_id": "pY6K-X_UvG0",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2022-12-15",
+    "description": "大森にあるレトロな雰囲気が漂う地元に愛される居酒屋。",
+    "source_video_title": "SixTONES - 地元の名店巡り",
+    "source_video_url": "https://www.youtube.com/watch?v=pY6K-X_UvG0",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-阿左美冷蔵金崎本店sixtones",
+    "name": "阿左美冷蔵 金崎本店（SixTONES）",
+    "genre": "スイーツ",
+    "prefecture": "埼玉県",
+    "city": "秩父郡皆野町",
+    "address": "埼玉県秩父郡皆野町金崎27-1",
+    "lat": 36.0825,
+    "lng": 139.1172,
+    "youtube_id": "7qT9_f_yB-Y",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2021-08-04",
+    "description": "秩父名物の天然氷かき氷。SixTONES夏休みドライブ企画で訪問。",
+    "source_video_title": "SixTONES - 秩父で天然氷のかき氷！",
+    "source_video_url": "https://www.youtube.com/watch?v=7qT9_f_yB-Y",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-豚みそ丼本舗野さか",
+    "name": "豚みそ丼本舗 野さか",
+    "genre": "食事",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市野坂町1-13-11",
+    "lat": 35.9897,
+    "lng": 139.0823,
+    "youtube_id": "7qT9_f_yB-Y",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2021-08-04",
+    "description": "秩父グルメ「豚みそ丼」の超人気店。炭火の香りが最高。",
+    "source_video_title": "SixTONES - 秩父グルメを堪能",
+    "source_video_url": "https://www.youtube.com/watch?v=7qT9_f_yB-Y",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-手打ちそばこめや",
+    "name": "手打ちそば こめや",
+    "genre": "和食",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市東山1-15-10",
+    "lat": 36.5721,
+    "lng": 136.6661,
+    "youtube_id": "mXjVl6k9Q-I",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2022-04-20",
+    "description": "金沢の風情ある茶屋街にある本格手打ちそば店。",
+    "source_video_title": "SixTONES - 金沢・ひがし茶屋街を歩く",
+    "source_video_url": "https://www.youtube.com/watch?v=mXjVl6k9Q-I",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-もりもり寿司金沢駅前店",
+    "name": "もりもり寿司 金沢駅前店",
+    "genre": "寿司",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市堀川新町3-1 金沢フォーラス6F",
+    "lat": 36.5815,
+    "lng": 136.6478,
+    "youtube_id": "mXjVl6k9Q-I",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2022-04-20",
+    "description": "金沢で大人気の回転寿司。のどぐろ等の新鮮なネタに感動。",
+    "source_video_title": "SixTONES - 金沢で回転寿司！",
+    "source_video_url": "https://www.youtube.com/watch?v=mXjVl6k9Q-I",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-cafepark",
+    "name": "CAFE PARK",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-21-15",
+    "lat": 35.6482,
+    "lng": 139.7061,
+    "youtube_id": "UfW6GByY6Xk",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2020-10-25",
+    "description": "恵比寿にある落ち着いたカフェ。",
+    "source_video_title": "SixTONES - お洒落カフェでトーク",
+    "source_video_url": "https://www.youtube.com/watch?v=UfW6GByY6Xk",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-tiantianhainanesechickenrice",
+    "name": "Tian Tian Hainanese Chicken Rice",
+    "genre": "食事",
+    "prefecture": "シンガポール",
+    "city": "Maxwell",
+    "address": "1 Kadayanallur St, #01-10/11 Maxwell Food Centre, Singapore 069184",
+    "lat": 1.2805,
+    "lng": 103.8448,
+    "youtube_id": "H-D82p_T8Xo",
+    "members": [
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-03-15",
+    "description": "田中樹さんがシンガポールで訪れたチキンライスの名店。",
+    "source_video_title": "SixTONES - シンガポール自由行動",
+    "source_video_url": "https://www.youtube.com/watch?v=H-D82p_T8Xo",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-cicheti",
+    "name": "Cicheti",
+    "genre": "その他",
+    "prefecture": "シンガポール",
+    "city": "Kandahar St",
+    "address": "52 Kandahar St, Singapore 198901",
+    "lat": 1.3015,
+    "lng": 103.8596,
+    "youtube_id": "H-D82p_T8Xo",
+    "members": [
+      "京本大我"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2024-03-15",
+    "description": "京本大我さんが訪れたシンガポールのおしゃれなイタリアン。",
+    "source_video_title": "SixTONES - シンガポール自由行動",
+    "source_video_url": "https://www.youtube.com/watch?v=H-D82p_T8Xo",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-一蘭渋谷店",
+    "name": "一蘭 渋谷店",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神南1-22-7",
+    "lat": 35.6611,
+    "lng": 139.7008,
+    "youtube_id": "f5pC2GkKq78",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2020-03-10",
+    "description": "おなじみの味集中カウンターでメンバーが黙々と実食。",
+    "source_video_title": "SixTONES - ラーメン大好きグループ",
+    "source_video_url": "https://www.youtube.com/watch?v=f5pC2GkKq78",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-もんじゃまぐろ家",
+    "name": "もんじゃ まぐろ家",
+    "genre": "もんじゃ",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区月島3-7-4",
+    "lat": 35.6631,
+    "lng": 139.7825,
+    "youtube_id": "7H1G8D8xKk0",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2019-06-05",
+    "description": "月島ロケ。自分たちでもんじゃを焼く賑やかな動画。",
+    "source_video_title": "SixTONES - 月島でもんじゃ！",
+    "source_video_url": "https://www.youtube.com/watch?v=7H1G8D8xKk0",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-叙々苑游玄亭西麻布本館",
+    "name": "叙々苑 游玄亭 西麻布本館",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布3-24-18",
+    "lat": 35.6601,
+    "lng": 139.7242,
+    "youtube_id": "vSByF706XoY",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2021-01-22",
+    "description": "デビュー1周年記念のお祝いで訪れた超高級焼肉店。",
+    "source_video_title": "SixTONES - 祝！1周年焼肉パーティー",
+    "source_video_url": "https://www.youtube.com/watch?v=vSByF706XoY",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-eggs-nthings原宿店",
+    "name": "Eggs 'n Things 原宿店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前4-30-2",
+    "lat": 35.6689,
+    "lng": 139.7056,
+    "youtube_id": "Xy_pX_uM8mQ",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "visited_date": "2019-04-15",
+    "description": "パンケーキブームの火付け役店で山盛りホイップに驚愕。",
+    "source_video_title": "SixTONES - パンケーキで女子力アップ？",
+    "source_video_url": "https://www.youtube.com/watch?v=Xy_pX_uM8mQ",
     "tags": [],
     "affiliate_links": []
   }
