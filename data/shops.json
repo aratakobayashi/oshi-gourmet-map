@@ -42,7 +42,7 @@
     "address": "東京都渋谷区道玄坂2-28-1 椎津ビル3F",
     "lat": 35.659379,
     "lng": 139.69878,
-    "youtube_id": "A8hN9942pNo",
+    "youtube_id": "0_u6LidUu0I",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -53,7 +53,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-03-26",
-    "description": "炭火で焼き上げたジューシーなハンバーグと土鍋ご飯の専門店。よにのちゃんねるで複数回登場。Mrs. GREEN APPLEの大森元貴も一緒に訪れた回が話題。",
+    "description": "2021年11月の動画で登場。朝食シリーズとしてメンバーが絶賛したハンバーグ専門店。",
     "tags": [
       "ハンバーグ",
       "渋谷",
@@ -65,7 +65,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1303/A130301/13257261/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=0_u6LidUu0I"
   },
   {
     "id": "yonino-peter-luger",
@@ -938,7 +939,7 @@
     "address": "東京都墨田区両国2-16-5 あづまビル1F",
     "lat": 35.6966,
     "lng": 139.794,
-    "youtube_id": "VId_YpYm-I8",
+    "youtube_id": "Y-Bf_H7t99g",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -949,13 +950,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-06-19",
-    "description": "両国の名物ちゃんこ鍋屋。よにのちゃんねる#336で朝からちゃんこ鍋を楽しんだ。",
+    "description": "元関取が営むちゃんこ鍋店。中丸さんの誕生日企画などで訪れています。",
     "tags": [
       "ちゃんこ鍋",
       "両国",
       "和食"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=Y-Bf_H7t99g"
   },
   {
     "id": "yonino-spice-ramen-tenten",
@@ -994,7 +996,7 @@
     "address": "東京都豊島区東池袋1-29-4 成田ビルB1",
     "lat": 35.7295,
     "lng": 139.7205,
-    "youtube_id": "vX-D0-Y2S2U",
+    "youtube_id": "Kz6-eL-KjD0",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -1005,13 +1007,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-07-31",
-    "description": "牛タンととろろ麦めしの定食チェーン。よにのちゃんねる#348に登場。",
+    "description": "牛たん・とろろ・麦めしの専門店。朝食シリーズの第1回目として登場。",
     "tags": [
       "牛タン",
       "池袋",
       "和食"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=Kz6-eL-KjD0"
   },
   {
     "id": "yonino-mukann-yokohama",
@@ -3648,7 +3651,7 @@
     "address": "東京都豊島区東池袋",
     "lat": 35.7295,
     "lng": 139.7205,
-    "youtube_id": "",
+    "youtube_id": "5rL9E2I4G8U",
     "members": [
       "二宮和也",
       "菊池風磨"
@@ -3658,12 +3661,13 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "よにのちゃんねる#238登場。東池袋の定食屋。",
+    "description": "ボリューム満点の定食が人気。二宮さんが注文したカレーが話題になりました。",
     "tags": [
       "定食",
       "池袋"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=5rL9E2I4G8U"
   },
   {
     "id": "yonino-oshokuji-takahashi-waseda",
@@ -3700,7 +3704,7 @@
     "address": "埼玉県秩父郡長瀞町上長瀞",
     "lat": 36.1029,
     "lng": 139.1061,
-    "youtube_id": "",
+    "youtube_id": "M99F-l7o8pA",
     "members": [
       "二宮和也",
       "菊池風磨"
@@ -3710,14 +3714,15 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "よにのちゃんねる#171登場。長瀞の天然氷かき氷の名店。",
+    "description": "天然氷のかき氷で有名な長瀞の名店。ドライブ旅の途中に立ち寄りました。",
     "tags": [
       "かき氷",
       "天然氷",
       "長瀞",
       "埼玉"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=M99F-l7o8pA"
   },
   {
     "id": "yonino-kiriyama-ome",
