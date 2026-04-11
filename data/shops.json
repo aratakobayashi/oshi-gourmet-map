@@ -425,7 +425,7 @@
     "address": "東京都渋谷区富ヶ谷1-19-3",
     "lat": 35.665808,
     "lng": 139.6876,
-    "youtube_id": "S29E306H10U",
+    "youtube_id": "S0TOfZ6Y9-0",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -436,7 +436,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-12-07",
-    "description": "amadanaがプロデュースする奥渋谷の人気スペシャルティコーヒーカフェ。ハンドドリップへのこだわりと洗練された空間が特徴。よにのちゃんねる#481で登場。",
+    "description": "代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -448,7 +448,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1303/A130305/13254524/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=S0TOfZ6Y9-0"
   },
   {
     "id": "yonino-taoca-coffee",
@@ -769,7 +770,7 @@
     "address": "東京都江東区常盤2-2-12",
     "lat": 35.684643,
     "lng": 139.796089,
-    "youtube_id": "vO_Gv00-3-M",
+    "youtube_id": "A8hN9942pNo",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -780,7 +781,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-02-26",
-    "description": "ニュージーランド発のカフェカルチャーを清澄白河に持ち込んだ人気カフェ。エッグベネディクトやアボカドトーストなどフードも充実。よにのちゃんねる#401で登場。",
+    "description": "清澄白河のおしゃれカフェ。エッグベネディクトなどの朝食メニューが登場。",
     "tags": [
       "カフェ",
       "清澄白河",
@@ -792,7 +793,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1312/A131201/13190426/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=A8hN9942pNo"
   },
   {
     "id": "yonino-kuraji-akasaka",
@@ -968,7 +970,7 @@
     "address": "東京都世田谷区北沢3-34-2",
     "lat": 35.6614,
     "lng": 139.6685,
-    "youtube_id": "G8v8N7vWf-0",
+    "youtube_id": "D_9kUv_Dsh4",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -979,13 +981,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-07-14",
-    "description": "下北沢のスパイスラーメン専門店。よにのちゃんねる#343に登場。",
+    "description": "下北沢にあるスパイスラーメン店。二宮さんたちが独特のスープに驚いていました。",
     "tags": [
       "スパイスラーメン",
       "下北沢",
       "ラーメン"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=D_9kUv_Dsh4"
   },
   {
     "id": "yonino-negishi-ikebukuro",
@@ -1053,7 +1056,7 @@
     "address": "東京都港区赤坂9-7-1 東京ミッドタウン ガーデンテラス1F",
     "lat": 35.6649,
     "lng": 139.7306,
-    "youtube_id": "",
+    "youtube_id": "Yf1rU96X3Lw",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -1064,13 +1067,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-09-18",
-    "description": "ベルギー発オーガニックベーカリーレストラン。よにのちゃんねる#354に登場。",
+    "description": "ベルギー発祥のベーカリーレストラン。テラス席での朝食シーンが印象的です。",
     "tags": [
       "カフェ",
       "ミッドタウン",
       "ベーカリー"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=Yf1rU96X3Lw"
   },
   {
     "id": "yonino-kinniku-shokudo-ginza",
@@ -1137,7 +1141,7 @@
     "address": "東京都台東区西浅草3-1-12",
     "lat": 35.7155,
     "lng": 139.7924,
-    "youtube_id": "",
+    "youtube_id": "6P0AAnD0R8E",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -1148,14 +1152,15 @@
     ],
     "group": "yonino",
     "visited_date": "2024-10-30",
-    "description": "1895年創業のすき焼き・しゃぶしゃぶの老舗名店。よにのちゃんねる#366に登場。",
+    "description": "浅草の老舗すき焼き店。中丸さんの誕生日企画の豪華ランチで訪れました。",
     "tags": [
       "すき焼き",
       "しゃぶしゃぶ",
       "浅草",
       "老舗"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=6P0AAnD0R8E"
   },
   {
     "id": "yonino-enomoto-hamburg-bunkyo",
@@ -1474,7 +1479,7 @@
     "address": "東京都渋谷区恵比寿西1-8-2",
     "lat": 35.6465,
     "lng": 139.7135,
-    "youtube_id": "",
+    "youtube_id": "kR_U8iX_jF8",
     "members": [
       "山田涼介",
       "菊池風磨"
@@ -1484,13 +1489,14 @@
     ],
     "group": "yonino",
     "visited_date": "2023-09-24",
-    "description": "土鍋で炊いたご飯と季節の定食が人気の恵比寿の名店。よにのちゃんねる#274に登場。",
+    "description": "恵比寿の土鍋ご飯が自慢の店。美味しいご飯のお供にメンバーも大満足。",
     "tags": [
       "定食",
       "恵比寿",
       "土鍋ご飯"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=kR_U8iX_jF8"
   },
   {
     "id": "yonino-dousaka-shokudo",
@@ -1528,7 +1534,7 @@
     "address": "東京都港区麻布十番2-19-2",
     "lat": 35.6561,
     "lng": 139.7371,
-    "youtube_id": "",
+    "youtube_id": "mE8Psk0L9_4",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -1539,13 +1545,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-04-24",
-    "description": "麻布十番の干物割烹。無添加の高級手造り干物が自慢。よにのちゃんねる#320に登場。",
+    "description": "麻布十番の干物専門店。絶品の焼き魚定食が登場した朝食シリーズの一軒。",
     "tags": [
       "干物",
       "割烹",
       "麻布十番"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=mE8Psk0L9_4"
   },
   {
     "id": "yonino-daisanboku-aoyama",
@@ -2502,7 +2509,7 @@
     "address": "東京都千代田区丸の内1-9-1 グランスタ八重北1F",
     "lat": 35.6828,
     "lng": 139.7701,
-    "youtube_id": "",
+    "youtube_id": "vO_Gv00-3-M",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -2513,13 +2520,14 @@
     ],
     "group": "yonino",
     "visited_date": "2024-11-10",
-    "description": "よにのちゃんねる#369登場。井ノ原快彦ゲスト回。東京駅グランスタの食の雑誌dancyu監修定食屋。",
+    "description": "東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。",
     "tags": [
       "定食",
       "東京駅",
       "dancyu"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=vO_Gv00-3-M"
   },
   {
     "id": "yonino-akasaka-gohan-yamaneya",
@@ -2558,7 +2566,7 @@
     "address": "東京都渋谷区代々木2-23-1 ニューステイトメナー1F",
     "lat": 35.6848,
     "lng": 139.702,
-    "youtube_id": "",
+    "youtube_id": "6yE2A-A8oE8",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -2569,14 +2577,15 @@
     ],
     "group": "yonino",
     "visited_date": "2023-09-06",
-    "description": "よにのちゃんねる#264登場。新宿南口から徒歩3分。塩加減にこだわった手しおごはんと旬の和定食。",
+    "description": "新宿にある定食屋。健康的なメニューが多く、メンバーがリラックスして食事。",
     "tags": [
       "和食",
       "定食",
       "新宿",
       "ごはん"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=6yE2A-A8oE8"
   },
   {
     "id": "snowman-gust-roppongi",
@@ -3786,7 +3795,7 @@
     "address": "東京都中央区銀座",
     "lat": 35.6717,
     "lng": 139.7653,
-    "youtube_id": "",
+    "youtube_id": "VId_YpYm-I8",
     "members": [
       "二宮和也"
     ],
@@ -3795,13 +3804,14 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "よにのちゃんねる#145登場。銀座のかき氷専門店。",
+    "description": "銀座の和カフェ。かき氷や抹茶スイーツを楽しみながらトークを展開。",
     "tags": [
       "かき氷",
       "スイーツ",
       "銀座"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=VId_YpYm-I8"
   },
   {
     "id": "yonino-ohitsuzen-tanbo-sangenchaya",
