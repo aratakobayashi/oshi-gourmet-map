@@ -2731,5 +2731,473 @@
       "海鮮"
     ],
     "affiliate_links": []
+  },
+  {
+    "id": "sixtones-kamonka-kinshicho",
+    "name": "GINZA 過門香 錦糸町駅前プラザビル店",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区江東橋3-8-7 錦糸町駅前プラザビル8F",
+    "lat": 35.695997,
+    "lng": 139.813881,
+    "youtube_id": "u5IbOEy-HqA",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-08-16",
+    "description": "スカイツリーを望む8Fの中華レストラン。小籠包ランチビュッフェで6人が「わんこ小籠包100皿食い尽くせ」に挑戦（ストチューブ2024年8月16日配信）。",
+    "tags": ["中華", "小籠包", "錦糸町", "大食い", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13156723/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-enoshima-kaisaku",
+    "name": "江の島 貝作",
+    "genre": "海鮮",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "address": "神奈川県藤沢市江の島1-3-20",
+    "lat": 35.299508,
+    "lng": 139.479397,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2025-04-04",
+    "description": "江の島の磯料理・海鮮レストラン。「お告げに従い…開運の旅2025～最終話」（2025年4月4日配信）で6人が海鮮料理を食べ尽くす企画を実施。高額料理を当てたら奢りのルールが話題に。",
+    "tags": ["海鮮", "江の島", "磯料理", "神奈川", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-kurumi-shineimachi",
+    "name": "くるみ 新栄店",
+    "genre": "居酒屋",
+    "prefecture": "愛知県",
+    "city": "名古屋市東区",
+    "address": "愛知県名古屋市東区新栄1-3-24",
+    "lat": 35.167743,
+    "lng": 136.913842,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-04-26",
+    "description": "名古屋・新栄町の鉄板焼き居酒屋。VVS＠バンテリンドームナゴヤ公演後の打ち上げ会場。お好み焼き・鉄板料理が名物（ストチューブ2024年4月26日配信）。",
+    "tags": ["居酒屋", "鉄板焼き", "名古屋", "打ち上げ", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230104/23000212/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-gyugyu-nishiazabu",
+    "name": "牛牛 西麻布 総本店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布1-2-3 アクティブ六本木B1F",
+    "lat": 35.659562,
+    "lng": 139.726074,
+    "youtube_id": "",
+    "members": ["ジェシー"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-04-23",
+    "description": "六本木近くの隠れ家的高級焼肉店。ジェシーが霜降り明星・せいやと訪れた焼肉企画（ストチューブ2024年4月23日配信）で話題に。",
+    "tags": ["焼肉", "西麻布", "六本木", "高級", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13130902/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-kiraasse-utsunomiya",
+    "name": "来らっせ 本店",
+    "genre": "その他",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "address": "栃木県宇都宮市馬場通り2-3-12 MEGAドン・キホーテ ラパーク宇都宮 地下1階",
+    "lat": 36.556614,
+    "lng": 139.882847,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-09-20",
+    "description": "宇都宮餃子の常設フードコート。アポなし旅2024夏ファイナルで6人が訪問。宇都宮餃子会の案内で入店し各種餃子を堪能（ストチューブ2024年9月配信）。",
+    "tags": ["餃子", "宇都宮", "栃木", "ご当地グルメ", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0901/A090101/9000033/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-houtou-fudo-higashikoji",
+    "name": "ほうとう不動 東恋路店",
+    "genre": "和食",
+    "prefecture": "山梨県",
+    "city": "南都留郡富士河口湖町",
+    "address": "山梨県南都留郡富士河口湖町船津東恋路2458",
+    "lat": 35.506083,
+    "lng": 138.749277,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2019-07-19",
+    "description": "富士山麓の人気ほうとう店。建築家・保坂猛設計のドーム型建物が特徴的。10万円アポなし旅（2019年7月19日配信）で6人が訪問し山梨の郷土料理ほうとうを堪能。",
+    "tags": ["ほうとう", "山梨", "富士河口湖", "郷土料理", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/yamanashi/A1903/A190303/19004418/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-unagi-maruchu",
+    "name": "丸忠うなぎ",
+    "genre": "和食",
+    "prefecture": "静岡県",
+    "city": "焼津市",
+    "address": "静岡県焼津市下江留1450-1",
+    "lat": 34.864562,
+    "lng": 138.327041,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2020-01-01",
+    "description": "松村北斗の行きつけうなぎ専門店。Shizuoka Travelシリーズで6人が訪問。北斗が「うなぎ史上No.1」と絶賛。うな重松・竹・たれアイスを堪能（ストチューブ静岡トラベル配信）。",
+    "tags": ["うなぎ", "静岡", "焼津", "聖地巡礼", "松村北斗"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2203/A220301/22002876/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-lacocorico-akarenga",
+    "name": "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店",
+    "genre": "カフェ",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区新港1-1 横浜赤レンガ倉庫2号館1F",
+    "lat": 35.454237,
+    "lng": 139.644074,
+    "youtube_id": "yqk_6iuc8F0",
+    "members": ["髙地優吾", "京本大我", "ジェシー", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2023-03-10",
+    "description": "赤レンガ倉庫内のカフェ＆ロティサリー。「MV撮影の合間に…カメラ回してみた!!」（2023年3月10日配信）でメンバー4人が訪問。クランベリージュースが翌日売り切れ続出。",
+    "tags": ["カフェ", "横浜", "赤レンガ倉庫", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140104/14070710/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-houtenkaku-chinatown",
+    "name": "上海小籠包専門店 鵬天閣",
+    "genre": "中華",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町192-15",
+    "lat": 35.443398,
+    "lng": 139.647622,
+    "youtube_id": "yqk_6iuc8F0",
+    "members": ["松村北斗", "髙地優吾", "森本慎太郎", "田中樹", "ジェシー", "京本大我"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2023-03-10",
+    "description": "横浜中華街の焼き小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（動画5:52〜8:39）でメンバー全員が焼き小籠包を堪能（ストチューブ2023年3月10日配信）。",
+    "tags": ["中華", "小籠包", "横浜中華街", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140103/14000580/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-ryukaihanten-chinatown",
+    "name": "彩り五色小籠包専門店 龍海飯店",
+    "genre": "中華",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町146-2 羅ビル1F・2F",
+    "lat": 35.443983,
+    "lng": 139.648271,
+    "youtube_id": "yqk_6iuc8F0",
+    "members": ["松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2023-03-10",
+    "description": "横浜中華街の五色小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（ストチューブ2023年3月10日配信）でメンバー4人が個室で小籠包・フカヒレなどを堪能。",
+    "tags": ["中華", "小籠包", "横浜中華街", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140103/14038753/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-daruma-soramachi",
+    "name": "月島名物もんじゃ だるま ソラマチ店",
+    "genre": "もんじゃ",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区押上1-1-2 東京ソラマチ7F",
+    "lat": 35.711025,
+    "lng": 139.814476,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2025-04-11",
+    "description": "東京ソラマチ7Fのもんじゃ焼き専門店。6人の忘年会2024の会場として使用。プレミアムもち明太チーズもんじゃ等を堪能（ストチューブ2025年4月11日配信）。",
+    "tags": ["もんじゃ", "東京ソラマチ", "墨田区", "忘年会", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13178286/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-dintaifung-soramachi",
+    "name": "鼎泰豊（ディンタイフォン）東京ソラマチ店",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区押上1-1-2 東京ソラマチ7F イーストヤード12番地",
+    "lat": 35.710628,
+    "lng": 139.814263,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-01-19",
+    "description": "東京ソラマチの台湾小籠包名店。2023年大晦日忘年会の会場として6人が訪問。小籠包・エビ餃子・各種点心を堪能（ストチューブ2024年1月19日配信）。",
+    "tags": ["中華", "小籠包", "台湾料理", "東京ソラマチ", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13148597/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-torigen-shinjuku",
+    "name": "鳥元 新宿西口店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿1-5-11",
+    "lat": 35.690528,
+    "lng": 139.697924,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-11-22",
+    "description": "新宿西口の焼き鳥居酒屋。大食い企画第3弾「わんこ焼き鳥」で6人が合計142本を完食し100本の目標をクリア（ストチューブ2024年11月22日配信）。",
+    "tags": ["焼き鳥", "居酒屋", "新宿", "大食い", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13006736/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-minmin-hachioji",
+    "name": "みんみんラーメン",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "address": "東京都八王子市楢原町437-1",
+    "lat": 35.651842,
+    "lng": 139.285633,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-02-16",
+    "description": "創業35年の八王子ラーメン老舗。後輩・矢花黎のオススメ店。「ただただ美味しいラーメンを食べる動画」（ストチューブ2024年2月16日配信）で6人が八王子ラーメンを堪能。",
+    "tags": ["ラーメン", "八王子", "東京", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1326/A132602/13136283/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-ukigumori-ikaho",
+    "name": "浮曇（うきぐもり）",
+    "genre": "居酒屋",
+    "prefecture": "群馬県",
+    "city": "渋川市",
+    "address": "群馬県渋川市伊香保町伊香保（石段街付近）",
+    "lat": 36.567381,
+    "lng": 138.983521,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2023-11-24",
+    "description": "伊香保温泉石段街にある居酒屋。帰ってきたアポなし旅 最終日（2023年11月24日配信）で6人が温泉前の夕食に訪問。ナムル・梅水晶・生たこポン酢・モツラーメン等を堪能。",
+    "tags": ["居酒屋", "伊香保温泉", "群馬", "アポなし旅", "聖地巡礼"],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-ushioidochu-nagoya",
+    "name": "極上松阪牛 牛追道中",
+    "genre": "焼肉",
+    "prefecture": "愛知県",
+    "city": "名古屋市東区",
+    "address": "愛知県名古屋市東区泉1-9-21",
+    "lat": 35.173458,
+    "lng": 136.915774,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2025-04-18",
+    "description": "名古屋の高級松阪牛専門焼肉店。YOUNG OLD 5大ドームツアー名古屋バンテリンドーム千穐楽前の打ち上げ会場（ストチューブ2025年4月18日配信）。木村拓哉も訪れる芸能人御用達店。",
+    "tags": ["焼肉", "松阪牛", "名古屋", "打ち上げ", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230103/23065847/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-honjo-kaeru-honpo",
+    "name": "本所かえる本舗",
+    "genre": "もんじゃ",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区亀沢1-8-6 堀江ビル1F",
+    "lat": 35.694572,
+    "lng": 139.793251,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2019-02-08",
+    "description": "両国駅近くの下町もんじゃ・駄菓子店。「TOKYOグルメガイド 下町の味！駄菓子もんじゃ!!」（2019年2月8日配信）で6人が訪問。イタリアンもんじゃ・アメリカンもんじゃ等を体験。",
+    "tags": ["もんじゃ", "駄菓子", "両国", "下町", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13126861/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-cafe1894-marunouchi",
+    "name": "Café 1894",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内2-6-2 三菱一号館美術館内",
+    "lat": 35.679823,
+    "lng": 139.762921,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2023-01-01",
+    "description": "三菱一号館美術館内の明治時代の銀行営業室を復元したレトロカフェ。SixTONESのストチューブ聖地として知られる丸の内の隠れ家的スポット。",
+    "tags": ["カフェ", "丸の内", "レトロ", "千代田区", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1302/A130201/13096426/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-ramen-hakubutsukan",
+    "name": "新横浜ラーメン博物館",
+    "genre": "ラーメン",
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "address": "神奈川県横浜市港北区新横浜2-14-21",
+    "lat": 35.510089,
+    "lng": 139.616478,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2022-01-01",
+    "description": "昭和レトロな屋内ラーメンテーマパーク。ストチューブで2本の動画に登場し、館内かくれんぼや人気ラーメンを食べる企画を実施。多数のジャニーズが訪れる有名ロケ地。",
+    "tags": ["ラーメン", "横浜", "新横浜", "テーマパーク", "聖地巡礼"],
+    "affiliate_links": [
+      {
+        "label": "公式サイト",
+        "url": "https://www.raumen.co.jp/"
+      }
+    ]
+  },
+  {
+    "id": "sixtones-sano-sa-foodcourt",
+    "name": "佐野サービスエリア（下り）フードコート",
+    "genre": "その他",
+    "prefecture": "栃木県",
+    "city": "佐野市",
+    "address": "栃木県佐野市黒袴町1021",
+    "lat": 36.374212,
+    "lng": 139.595841,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-09-20",
+    "description": "東北自動車道・佐野SA下りのフードコート。アポなし旅2024夏（2024年9月配信）で途中立ち寄り。佐野ラーメン・ミミパスタ・大根そばなど各自が異なるご当地メニューを注文。",
+    "tags": ["ラーメン", "サービスエリア", "栃木", "佐野", "アポなし旅"],
+    "affiliate_links": []
+  },
+  {
+    "id": "sixtones-horaibashi-chaya",
+    "name": "蓬莱橋897.4茶屋",
+    "genre": "カフェ",
+    "prefecture": "静岡県",
+    "city": "島田市",
+    "address": "静岡県島田市南2丁目10886",
+    "lat": 34.828193,
+    "lng": 138.176023,
+    "youtube_id": "",
+    "members": ["ジェシー", "京本大我", "松村北斗", "髙地優吾", "田中樹", "森本慎太郎"],
+    "groups": ["sixtones"],
+    "group": "sixtones",
+    "visited_date": "2024-01-01",
+    "description": "日本一長い木造橋・蓬莱橋のたもとにある茶屋。Shizuoka Travelシリーズ（ストチューブ静岡旅）で6人が訪問し、橋の景観とともに地元スイーツを楽しんだ。",
+    "tags": ["カフェ", "静岡", "島田市", "蓬莱橋", "聖地巡礼"],
+    "affiliate_links": []
   }
 ]
