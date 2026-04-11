@@ -100,10 +100,13 @@ function renderGrid(shops) {
 }
 
 const GROUP_COLORS = {
-  yonino:     'linear-gradient(135deg, #e8537a, #f7a1b5)',
-  snowman:    'linear-gradient(135deg, #3b82f6, #93c5fd)',
-  sixtones:   'linear-gradient(135deg, #7c3aed, #a78bfa)',
-  equal_love: 'linear-gradient(135deg, #f43f5e, #fb923c)',
+  yonino:       'linear-gradient(135deg, #e8537a, #f7a1b5)',
+  snowman:      'linear-gradient(135deg, #3b82f6, #93c5fd)',
+  sixtones:     'linear-gradient(135deg, #7c3aed, #a78bfa)',
+  equal_love:   'linear-gradient(135deg, #f43f5e, #fb923c)',
+  sakurazaka46: 'linear-gradient(135deg, #e11d48, #fda4af)',
+  nogizaka46:   'linear-gradient(135deg, #0ea5e9, #7dd3fc)',
+  hinatazaka46: 'linear-gradient(135deg, #f59e0b, #fde68a)',
 };
 const GENRE_ICONS = {
   'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',

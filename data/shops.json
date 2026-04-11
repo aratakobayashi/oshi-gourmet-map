@@ -4747,5 +4747,256 @@
     "source_video_url": "https://www.youtube.com/watch?v=Xy_pX_uM8mQ",
     "tags": [],
     "affiliate_links": []
+  },
+  {
+    "id": "sakurazaka46-okonomiyaki-kura",
+    "name": "お好み焼 鉄板焼 蔵",
+    "genre": "もんじゃ",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区月島3-9-10",
+    "lat": 35.6631,
+    "lng": 139.7821,
+    "youtube_id": "0D0N_BfK090",
+    "source_video_title": "【月島】櫻坂46 2期生がもんじゃを食べ尽くす！",
+    "source_video_url": "https://www.youtube.com/watch?v=0D0N_BfK090",
+    "visited_date": "2024-05-10",
+    "members": [
+      "守屋麗奈",
+      "藤吉夏鈴",
+      "山﨑天"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "櫻坂46の2期生メンバーが訪れた月島の名店。明太もちもんじゃが人気。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "nogizaka46-hanagetsudo",
+    "name": "浅草 花月堂",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草2-7-13",
+    "lat": 35.7144,
+    "lng": 139.7944,
+    "youtube_id": "8u3Sj_W_tFw",
+    "source_video_title": "乃木坂46 浅草食べ歩きVlog",
+    "source_video_url": "https://www.youtube.com/watch?v=8u3Sj_W_tFw",
+    "visited_date": "2023-11-15",
+    "members": [
+      "梅澤美波",
+      "与田祐希"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "乃木坂46のメンバーが訪れたジャンボめろんぱんの超有名店。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "nogizaka46-juseian",
+    "name": "寿清庵",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草2-7-21",
+    "lat": 35.7148,
+    "lng": 139.7948,
+    "youtube_id": "8u3Sj_W_tFw",
+    "source_video_title": "乃木坂46 浅草食べ歩きVlog",
+    "source_video_url": "https://www.youtube.com/watch?v=8u3Sj_W_tFw",
+    "visited_date": "2023-11-15",
+    "members": [
+      "梅澤美波",
+      "与田祐希"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "hinatazaka46-tsukiji-uniko",
+    "name": "築地虎杖 うに虎 中通り店",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区築地4-10-5",
+    "lat": 35.6655,
+    "lng": 139.7711,
+    "youtube_id": "Klp_G02xZRE",
+    "source_video_title": "日向坂46 築地で朝から贅沢グルメ！",
+    "source_video_url": "https://www.youtube.com/watch?v=Klp_G02xZRE",
+    "visited_date": "2024-02-20",
+    "members": [
+      "佐々木美玲",
+      "河田陽菜",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "うに食べ比べ丼を堪能。日向坂メンバーも絶賛の築地グルメ。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sakurazaka46-kissa-paon",
+    "name": "喫茶パオーン",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区船橋1-1-12",
+    "lat": 35.6481,
+    "lng": 139.6291,
+    "youtube_id": "yZ3p3O_X_x0",
+    "source_video_title": "櫻坂46 休日まったりカフェ巡り",
+    "source_video_url": "https://www.youtube.com/watch?v=yZ3p3O_X_x0",
+    "visited_date": "2025-01-25",
+    "members": [
+      "田村保乃",
+      "森田ひかる"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "千歳船橋にあるレトロカフェ。クリームソーダが有名。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "nogizaka46-ginza-sato-yosuke",
+    "name": "銀座 佐藤養助",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座6-4-17",
+    "lat": 35.6721,
+    "lng": 139.7611,
+    "youtube_id": "N-q4O1R0hEw",
+    "source_video_title": "乃木坂46 絶品うどんを食す",
+    "source_video_url": "https://www.youtube.com/watch?v=N-q4O1R0hEw",
+    "visited_date": "2023-08-10",
+    "members": [
+      "久保史緒里",
+      "山下美月"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "稲庭うどんの名店。ツルツルの喉越しをメンバーが堪能。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "hinatazaka46-sawayaka-shizuoka",
+    "name": "炭焼きレストランさわやか 静岡インター店",
+    "genre": "焼肉",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "address": "静岡県静岡市駿河区中野新田387-1",
+    "lat": 34.9541,
+    "lng": 138.3911,
+    "youtube_id": null,
+    "source_video_title": "日向坂46 静岡遠征Vlog！さわやかのハンバーグ",
+    "source_video_url": "",
+    "visited_date": "2024-04-05",
+    "members": [
+      "加藤史帆",
+      "齊藤京子"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "静岡に来たら外せないハンバーグ。メンバーも大興奮。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "sakurazaka46-ribisco-ginza",
+    "name": "リビスコ 銀座店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座3-7-1",
+    "lat": 35.6715,
+    "lng": 139.7668,
+    "youtube_id": null,
+    "source_video_title": "櫻坂46 銀座でジェラート食べ歩き",
+    "source_video_url": "",
+    "visited_date": "2024-07-12",
+    "members": [
+      "小林由依",
+      "土生瑞穂"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "手作りジェラートの店。さっぱりした味わいで夏に最適。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "nogizaka46-bondy-jimbocho",
+    "name": "欧風カレー ボンディ 神保町本店",
+    "genre": "その他",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田神保町2-3",
+    "lat": 35.6958,
+    "lng": 139.7578,
+    "youtube_id": null,
+    "source_video_title": "乃木坂46 久保史緒里のカレー探訪",
+    "source_video_url": "",
+    "visited_date": "2023-12-01",
+    "members": [
+      "久保史緒里"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "カレー激戦区神保町の超有名店。ジャガイモ付きが定番。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "hinatazaka46-dashi-chazuke-en-narita",
+    "name": "だし茶漬け えん 成田空港店",
+    "genre": "和食",
+    "prefecture": "千葉県",
+    "city": "成田市",
+    "address": "千葉県成田市御料牧場1-1 成田空港第1ターミナル 4F",
+    "lat": 35.7641,
+    "lng": 140.3861,
+    "youtube_id": null,
+    "source_video_title": "日向坂46 海外出発前のラスト日本食",
+    "source_video_url": "",
+    "visited_date": "2024-06-18",
+    "members": [
+      "佐々木久美",
+      "高瀬愛奈"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "空港で手軽に食べられる出汁茶漬け。旅の前の定番。",
+    "tags": [],
+    "affiliate_links": []
   }
 ]
