@@ -1682,7 +1682,7 @@
     "address": "東京都新宿区矢来町123 第一矢来ビル B1F",
     "lat": 35.703,
     "lng": 139.7383,
-    "youtube_id": "EWIafNjEYU4",
+    "youtube_id": "7uC8L8n2s9c",
     "members": [
       "宮舘涼太",
       "岩本照",
@@ -1694,7 +1694,7 @@
     ],
     "group": "snowman",
     "visited_date": "2024-12-04",
-    "description": "神楽坂の昭和46年創業の人気町中華。孤独のグルメ登場店。すの日常2024年12月4日配信。",
+    "description": "神楽坂にある町中華の名店。チャーハンが有名で、ロケではメンバーが絶賛していました。",
     "tags": [
       "町中華",
       "神楽坂",
@@ -1703,7 +1703,7 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?",
-    "source_video_url": "https://www.youtube.com/watch?v=HksFKrub-_s"
+    "source_video_url": "https://www.youtube.com/watch?v=7uC8L8n2s9c"
   },
   {
     "id": "snowman-onigiri-asakusa-yadoroku",
@@ -1773,7 +1773,7 @@
     "address": "東京都渋谷区神宮前3-5-4",
     "lat": 35.6705,
     "lng": 139.7128,
-    "youtube_id": "",
+    "youtube_id": "j_N1y5O3wI0",
     "members": [
       "ラウール",
       "渡辺翔太",
@@ -1785,14 +1785,15 @@
     ],
     "group": "snowman",
     "visited_date": "2024-03-06",
-    "description": "パリ発本格ブルターニュガレット。すの日常2024年3月6日配信。",
+    "description": "「フレンチ（ガレット）を食べよう」企画で訪問。本格的なそば粉のガレットを楽しんだお洒落なカフェ。",
     "tags": [
       "ガレット",
       "クレープ",
       "表参道",
       "カフェ"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=j_N1y5O3wI0"
   },
   {
     "id": "snowman-yoshidaya-tachiaigawa",
@@ -1956,7 +1957,7 @@
     "address": "東京都江戸川区中葛西8-23-5",
     "lat": 35.6551,
     "lng": 139.8727,
-    "youtube_id": "",
+    "youtube_id": "vV0iY7rR6-s",
     "members": [
       "目黒蓮",
       "ラウール",
@@ -1968,14 +1969,15 @@
     ],
     "group": "snowman",
     "visited_date": "2025-03-05",
-    "description": "24時間年中無休・惣菜バイキング形式の下町定食屋。すの日常2025年3月5日配信。",
+    "description": "「街の定食屋さんで極上ランチ」として岩本さんが紹介。セルフ形式で好きな小鉢を選べる人気店。",
     "tags": [
       "定食",
       "惣菜バイキング",
       "葛西",
       "24時間"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_url": "https://www.youtube.com/watch?v=vV0iY7rR6-s"
   },
   {
     "id": "snowman-yakuzenya-ebisu",
@@ -2718,7 +2720,7 @@
     "address": "東京都港区赤坂3丁目10-6 雪華堂ビル B1F",
     "lat": 35.6757,
     "lng": 139.7367,
-    "youtube_id": "flzByEH1qc8",
+    "youtube_id": "8XWlH5jIAsU",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -2735,7 +2737,7 @@
     ],
     "group": "snowman",
     "visited_date": "2020-03-25",
-    "description": "宮舘涼太の食べたいものを当てろ企画。全員集合で赤坂の本格イタリアンへ。すの日常2020年3月25日配信。",
+    "description": "「宮舘涼太の食べたいものを当てろ」で訪れたイタリアン。開放的なテラス席があるおしゃれな店舗。",
     "tags": [
       "イタリアン",
       "赤坂",
@@ -2743,7 +2745,7 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man「宮舘の食べたいものを当てろ！」イタリアン編",
-    "source_video_url": "https://www.youtube.com/watch?v=flzByEH1qc8"
+    "source_video_url": "https://www.youtube.com/watch?v=8XWlH5jIAsU"
   },
   {
     "id": "snowman-haneda-ichiba-ginza",
