@@ -1666,7 +1666,7 @@
     "genre": "その他",
     "prefecture": "東京都",
     "city": "新宿区",
-    "address": "東京都新宿区矢来町123 B1",
+    "address": "東京都新宿区矢来町123 第一矢来ビル B1F",
     "lat": 35.703,
     "lng": 139.7383,
     "youtube_id": "EWIafNjEYU4",
@@ -1688,7 +1688,9 @@
       "チャーハン",
       "孤独のグルメ"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?",
+    "source_video_url": "https://www.youtube.com/watch?v=HksFKrub-_s"
   },
   {
     "id": "snowman-onigiri-asakusa-yadoroku",
@@ -1717,7 +1719,9 @@
       "浅草",
       "ミシュラン"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ",
+    "source_video_url": "https://www.youtube.com/watch?v=5B1_1ipNkJE"
   },
   {
     "id": "snowman-tsurujiro-asakusa",
@@ -1842,10 +1846,10 @@
     "genre": "ラーメン",
     "prefecture": "東京都",
     "city": "新宿区",
-    "address": "東京都新宿区喜久井町65",
+    "address": "東京都新宿区西早稲田1丁目18-12",
     "lat": 35.7072,
     "lng": 139.7192,
-    "youtube_id": "",
+    "youtube_id": "owkOeu-efg4",
     "members": [
       "岩本照",
       "ラウール",
@@ -1863,7 +1867,9 @@
       "早稲田",
       "ラーメン"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【油そばブーム到来】人生初になります",
+    "source_video_url": "https://www.youtube.com/watch?v=owkOeu-efg4"
   },
   {
     "id": "snowman-napure-minamiaoyama",
@@ -1871,10 +1877,10 @@
     "genre": "食事",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区南青山5-6-24",
+    "address": "東京都港区南青山5丁目6-24",
     "lat": 35.6651,
     "lng": 139.7184,
-    "youtube_id": "",
+    "youtube_id": "BVjwdZw66Ms",
     "members": [
       "阿部亮平",
       "宮舘涼太",
@@ -1892,7 +1898,9 @@
       "南青山",
       "イタリアン"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【みんなでピザが食べたい】スタジアムライブ直前です",
+    "source_video_url": "https://www.youtube.com/watch?v=BVjwdZw66Ms"
   },
   {
     "id": "snowman-sarashina-horii-motoazabu",
@@ -1900,10 +1908,10 @@
     "genre": "和食",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区元麻布3-11-4",
+    "address": "東京都港区元麻布3丁目11-4",
     "lat": 35.6544,
     "lng": 139.7336,
-    "youtube_id": "",
+    "youtube_id": "Ax1f_OVispA",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -1922,7 +1930,9 @@
       "老舗",
       "更科"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる",
+    "source_video_url": "https://www.youtube.com/watch?v=Ax1f_OVispA"
   },
   {
     "id": "snowman-wagaya-shokudo-kasai",
@@ -1963,7 +1973,7 @@
     "address": "東京都渋谷区恵比寿西1-3-5 アルス恵比寿メイクス1F",
     "lat": 35.6469,
     "lng": 139.7139,
-    "youtube_id": "",
+    "youtube_id": "GpPJOgdEbhE",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -1981,7 +1991,9 @@
       "恵比寿",
       "健康"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ",
+    "source_video_url": "https://www.youtube.com/watch?v=GpPJOgdEbhE"
   },
   {
     "id": "snowman-ginza-sushi-banya-kai",
@@ -1989,10 +2001,10 @@
     "genre": "寿司",
     "prefecture": "東京都",
     "city": "中央区",
-    "address": "東京都中央区銀座1-8-19 銀座一丁目ビル7F",
+    "address": "東京都中央区銀座1丁目5-10 銀座ファーストファイブビル 4F",
     "lat": 35.6727,
     "lng": 139.7683,
-    "youtube_id": "",
+    "youtube_id": "5TbjbC6I9vY",
     "members": [
       "渡辺翔太",
       "向井康二",
@@ -2010,7 +2022,9 @@
       "おまかせ",
       "江戸前"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【ザギンでシースー】北海道直前のご褒美タイム",
+    "source_video_url": "https://www.youtube.com/watch?v=5TbjbC6I9vY"
   },
   {
     "id": "snowman-futago-roppongi",
@@ -2018,10 +2032,10 @@
     "genre": "焼肉",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区六本木4-9-1 佐竹ビル2F",
+    "address": "東京都港区六本木4丁目9-11 第22きくみビル 1F",
     "lat": 35.663,
     "lng": 139.7302,
-    "youtube_id": "",
+    "youtube_id": "m357q_FwBCE",
     "members": [
       "目黒蓮",
       "阿部亮平"
@@ -2038,7 +2052,9 @@
       "六本木",
       "大阪スタイル"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【思い出のあの場所で…焼肉】完全プライベートですみません",
+    "source_video_url": "https://www.youtube.com/watch?v=m357q_FwBCE"
   },
   {
     "id": "snowman-ore-no-kappo-ebisu",
@@ -2046,10 +2062,10 @@
     "genre": "居酒屋",
     "prefecture": "東京都",
     "city": "渋谷区",
-    "address": "東京都渋谷区恵比寿西1-7-12 MKTビル2F",
+    "address": "東京都渋谷区恵比寿西1丁目3-10 EBISU TANAKA BLDG 2F",
     "lat": 35.6476,
     "lng": 139.7131,
-    "youtube_id": "",
+    "youtube_id": "ueYUZJghOzw",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -2068,7 +2084,9 @@
       "恵比寿",
       "居酒屋"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？",
+    "source_video_url": "https://www.youtube.com/watch?v=ueYUZJghOzw"
   },
   {
     "id": "snowman-teikoku-shokudo-nishiazabu",
@@ -2076,10 +2094,10 @@
     "genre": "食事",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区西麻布2-15-13 天崎ビル1F",
+    "address": "東京都港区赤坂9丁目6-30 乃木坂ビル B1F",
     "lat": 35.6563,
     "lng": 139.724,
-    "youtube_id": "",
+    "youtube_id": "8j6glqZxVzU",
     "members": [
       "佐久間大介",
       "深澤辰哉",
@@ -2097,7 +2115,9 @@
       "西麻布",
       "ビストロ"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【フレンチを食べよう！】メンバーの食べる顔を見るのが幸せ！",
+    "source_video_url": "https://www.youtube.com/watch?v=8j6glqZxVzU"
   },
   {
     "id": "snowman-setouchi-bar-collabo",
@@ -2167,7 +2187,7 @@
     "address": "東京都杉並区阿佐谷南3-37-9 バール・アサガヤ1F",
     "lat": 35.7047,
     "lng": 139.6391,
-    "youtube_id": "",
+    "youtube_id": "SoZCXSgz8wo",
     "members": [
       "深澤辰哉",
       "岩本照",
@@ -2186,7 +2206,9 @@
       "ミシュラン",
       "奥久慈しゃも"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【ミシュランの名店】極上の焼き鳥をいただこう",
+    "source_video_url": "https://www.youtube.com/watch?v=SoZCXSgz8wo"
   },
   {
     "id": "snowman-ekawatei-koganei",
@@ -2646,10 +2668,10 @@
     "genre": "和食",
     "prefecture": "東京都",
     "city": "東久留米市",
-    "address": "東京都東久留米市前沢3丁目",
+    "address": "東京都台東区浅草1丁目4-1",
     "lat": 35.759,
     "lng": 139.5303,
-    "youtube_id": "",
+    "youtube_id": "oEsMgH5QhFQ",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -2667,7 +2689,9 @@
       "東久留米",
       "老舗"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man【釣り部結成記念食事会】鰻を食べよう",
+    "source_video_url": "https://www.youtube.com/watch?v=oEsMgH5QhFQ"
   },
   {
     "id": "snowman-de-salita-akasaka",
@@ -2675,10 +2699,10 @@
     "genre": "食事",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区赤坂3-10-17 マーカスビル1F",
+    "address": "東京都港区赤坂3丁目10-6 雪華堂ビル B1F",
     "lat": 35.6757,
     "lng": 139.7367,
-    "youtube_id": "",
+    "youtube_id": "flzByEH1qc8",
     "members": [
       "岩本照",
       "深澤辰哉",
@@ -2701,7 +2725,9 @@
       "赤坂",
       "ピザ"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "Snow Man「宮舘の食べたいものを当てろ！」イタリアン編",
+    "source_video_url": "https://www.youtube.com/watch?v=flzByEH1qc8"
   },
   {
     "id": "snowman-haneda-ichiba-ginza",
@@ -4151,6 +4177,60 @@
     "description": "イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。",
     "source_video_title": "イコラブハンバーガー部から嬉しいお知らせ！",
     "source_video_url": "https://www.youtube.com/watch?v=xUoPnF8uUXY",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-土鍋ご飯いくしか中目黒",
+    "name": "土鍋ご飯いくしか 中目黒",
+    "genre": "和食",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒2丁目14-1",
+    "lat": 35.6438,
+    "lng": 139.6985,
+    "youtube_id": "8R-AlLRghJc",
+    "members": [
+      "向井康二",
+      "深澤辰哉",
+      "ラウール",
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-06-11",
+    "description": "中目黒にある土鍋ご飯の専門店。炊き立ての美味しいご飯にメンバーの手が止まらない。",
+    "source_video_title": "Snow Man【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節",
+    "source_video_url": "https://www.youtube.com/watch?v=8R-AlLRghJc",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "snowman-伊勢屋食堂",
+    "name": "伊勢屋食堂",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区北新宿4丁目2-1 淀橋市場内",
+    "lat": 35.7031,
+    "lng": 139.6938,
+    "youtube_id": "1cQeue2ITFU",
+    "members": [
+      "渡辺翔太",
+      "向井康二",
+      "阿部亮平",
+      "ラウール"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "visited_date": "2025-02-05",
+    "description": "淀橋市場内にある活気あふれる食堂。市場直送の新鮮な食材を使った定食を堪能。",
+    "source_video_title": "Snow Man【市場内の食堂で昼メシ】定食ってたまらんね",
+    "source_video_url": "https://www.youtube.com/watch?v=1cQeue2ITFU",
     "tags": [],
     "affiliate_links": []
   }
