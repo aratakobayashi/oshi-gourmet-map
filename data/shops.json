@@ -3908,5 +3908,250 @@
       "スターバックス"
     ],
     "affiliate_links": []
+  },
+  {
+    "id": "equallove_001",
+    "name": "いしがまや GOKU BURGER",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前5丁目8-5 ジュビリープラザビル 2F",
+    "lat": 35.6631,
+    "lng": 139.7039,
+    "youtube_id": "evDdxOemuh8",
+    "members": [
+      "大場花菜",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2024-05-18",
+    "description": "イコラブハンバーガー部（大場花菜・瀧脇笙古）が念願の訪問。炭火で焼き上げたジューシーなハンバーグを挟んだ本格バーガーが名物。",
+    "source_video_title": "【爆食】ずっと食べたかったハンバーガーとついに対面しました",
+    "source_video_url": "https://www.youtube.com/watch?v=evDdxOemuh8",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_002",
+    "name": "横浜博覧館（ガーデンテラスカフェ・開華楼）",
+    "genre": "カフェ",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町145",
+    "lat": 35.6812,
+    "lng": 139.7671,
+    "youtube_id": "UT4dNcRffPY",
+    "members": [
+      "佐々木舞香",
+      "齋藤樹愛羅"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2023-06-23",
+    "description": "「きあまい」の中華街食べ歩きロケで訪問。ベビースターランド（当時）や、出来立ての飲茶が楽しめる開華楼などを満喫。",
+    "source_video_title": "【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡",
+    "source_video_url": "https://www.youtube.com/watch?v=UT4dNcRffPY",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_003",
+    "name": "不純喫茶ドープ 上野御徒町店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野1丁目8-3",
+    "lat": 35.7133,
+    "lng": 139.7779,
+    "youtube_id": "63AuTeuPhDw",
+    "members": [
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2024-02-08",
+    "description": "16thシングル『呪って呪って』MVの瀧脇笙古ソロシーン撮影場所。レトロモダンな空間で、昼は純喫茶、夜は喫茶酒場として営業。",
+    "source_video_title": "=LOVE 16th Single「呪って呪って」MV",
+    "source_video_url": "https://www.youtube.com/watch?v=63AuTeuPhDw",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_004",
+    "name": "串カツ玩具-GANG-",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺北2丁目10-7 ヴィラグリーン 3F",
+    "lat": 35.6993,
+    "lng": 139.6363,
+    "youtube_id": "BPvNgGIKoeU",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2024-12-15",
+    "description": "さなつんのはしご酒シリーズ第3弾「高円寺編」で訪問。おもちゃ箱のような店内で串カツとお酒を楽しむ。",
+    "source_video_title": "【はしご酒】高円寺で飲んだお酒が最高すぎた...",
+    "source_video_url": "https://www.youtube.com/watch?v=BPvNgGIKoeU",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_005",
+    "name": "2D Cafe 新大久保店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町1丁目7-5 座ビル 1F",
+    "lat": 35.6938,
+    "lng": 139.7036,
+    "youtube_id": "IlfoWj6aqCk",
+    "members": [
+      "瀧脇笙古",
+      "大場花菜"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2022-09-08",
+    "description": "「Be Selfish」MV関連の撮影やロケで訪問。絵本の中に迷い込んだような白黒の2D内装が特徴の人気カフェ。",
+    "source_video_title": "【Vlog】新大久保で韓国グルメを満喫！",
+    "source_video_url": "https://www.youtube.com/watch?v=IlfoWj6aqCk",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_006",
+    "name": "DOG DEPT CAFE 浅草隅田川テラス店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区駒形2丁目1-30",
+    "lat": 35.7133,
+    "lng": 139.7779,
+    "youtube_id": "BPvNgGIKoeU",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2022-09-08",
+    "description": "諸橋沙夏がVlogロケで訪問。隅田川を望むテラス席がある、愛犬同伴可能なカフェ。",
+    "source_video_title": "【Vlog】浅草でお散歩＆カフェ巡り",
+    "source_video_url": "https://www.youtube.com/watch?v=BPvNgGIKoeU",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_007",
+    "name": "オガールインレストラン",
+    "genre": "食事",
+    "prefecture": "岩手県",
+    "city": "紫波町",
+    "address": "岩手県紫波町紫波中央駅前2丁目3-12",
+    "lat": 39.4583,
+    "lng": 141.1275,
+    "youtube_id": "",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2025-05-15",
+    "description": "大谷映美里がケータリングやロケに関連して紹介。地元食材を活かした美味しい食事が楽しめる。",
+    "source_video_title": "【Vlog】岩手遠征の裏側！美味しいものたくさん",
+    "source_video_url": "https://www.tiktok.com/@equal_love_emiri/video/7514269331795102983",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_008",
+    "name": "move move (ムーブムーブ)",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区大久保2丁目1-12",
+    "lat": 35.6938,
+    "lng": 139.7036,
+    "youtube_id": "",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2025-08-10",
+    "description": "大谷映美里が訪れた新大久保の抹茶ラテが人気のカフェ。無機質でおしゃれな空間が特徴。",
+    "source_video_title": "【Vlog】新大久保の素敵な抹茶ラテカフェ",
+    "source_video_url": "https://www.tiktok.com/@equal_love_emiri/video/7538410055641615634",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_009",
+    "name": "俏香（チャオシャン）",
+    "genre": "その他",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町146-2",
+    "lat": 35.6812,
+    "lng": 139.7671,
+    "youtube_id": "Dp0KTso3Suw",
+    "members": [
+      "佐々木舞香",
+      "齋藤樹愛羅"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2023-06-23",
+    "description": "「きあまい」の中華街食べ歩きで訪問。顔の大きさほどある大きな肉まんが名物。",
+    "source_video_title": "【きあまい】中華街旅#2 完食制覇！",
+    "source_video_url": "https://www.youtube.com/watch?v=Dp0KTso3Suw",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "equallove_010",
+    "name": "BALLPARK BURGER &9",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区日本大通34",
+    "lat": 35.6812,
+    "lng": 139.7671,
+    "youtube_id": "xUoPnF8uUXY",
+    "members": [
+      "大場花菜",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "visited_date": "2025-06-06",
+    "description": "イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。",
+    "source_video_title": "イコラブハンバーガー部から嬉しいお知らせ！",
+    "source_video_url": "https://www.youtube.com/watch?v=xUoPnF8uUXY",
+    "tags": [],
+    "affiliate_links": []
   }
 ]

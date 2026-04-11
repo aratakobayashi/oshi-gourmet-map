@@ -92,12 +92,14 @@ function renderGrid(shops) {
 }
 
 const GROUP_COLORS = {
-  yonino:   'linear-gradient(135deg, #e8537a, #f7a1b5)',
-  snowman:  'linear-gradient(135deg, #3b82f6, #93c5fd)',
-  sixtones: 'linear-gradient(135deg, #7c3aed, #a78bfa)',
+  yonino:     'linear-gradient(135deg, #e8537a, #f7a1b5)',
+  snowman:    'linear-gradient(135deg, #3b82f6, #93c5fd)',
+  sixtones:   'linear-gradient(135deg, #7c3aed, #a78bfa)',
+  equal_love: 'linear-gradient(135deg, #f43f5e, #fb923c)',
 };
 const GENRE_ICONS = {
   'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',
+  'もんじゃ':'🍳','居酒屋':'🍺','和食':'🍱','その他':'🍴',
 };
 
 function buildShopCard(shop) {
