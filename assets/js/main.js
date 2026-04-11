@@ -78,9 +78,17 @@ function applyFilters() {
 }
 
 // ===========================
+// ソート（サムネあり優先）
+// ===========================
+function sortShops(shops) {
+  return [...shops].sort((a, b) => (b.youtube_id ? 1 : 0) - (a.youtube_id ? 1 : 0));
+}
+
+// ===========================
 // グリッド描画
 // ===========================
 function renderGrid(shops) {
+  shops = sortShops(shops);
   const grid = document.getElementById('shop-grid');
   if (!grid) return;
 
