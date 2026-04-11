@@ -1,7 +1,7 @@
 title: 推しグルメ巡礼MAP
 description: 推しが訪れたグルメスポットを地図で巡礼しよう
-url: "https://aratakobayashi.github.io"
-baseurl: "/oshi-gourmet-map"
+url: "https://oshikatsu-guide.com"
+baseurl: ""
 
 # ビルド設定
 markdown: kramdown
