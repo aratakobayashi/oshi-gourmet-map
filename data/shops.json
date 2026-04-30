@@ -3617,7 +3617,7 @@
     "address": "東京都千代田区内神田2-6-6",
     "lat": 35.6941,
     "lng": 139.7688,
-    "youtube_id": "",
+    "youtube_id": "9qR7zTTlnEw",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -3627,13 +3627,15 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2024-04-03",
     "description": "よにのちゃんねる#314登場。神田の老舗中華料理店。",
     "tags": [
       "中華",
       "神田"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#314【お初!!】やってみたかった朝中華の日",
+    "source_video_url": "https://www.youtube.com/watch?v=9qR7zTTlnEw"
   },
   {
     "id": "yonino-shokuji-dokoro-soushuya",
@@ -3644,7 +3646,7 @@
     "address": "東京都世田谷区松原1-38-9",
     "lat": 35.6677,
     "lng": 139.6617,
-    "youtube_id": "",
+    "youtube_id": "O47Osoi2H_A",
     "members": [
       "山田涼介",
       "菊池風磨"
@@ -3653,13 +3655,15 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2024-03-20",
     "description": "よにのちゃんねる#310登場。明大前の昔ながらの定食屋。",
     "tags": [
       "定食",
       "明大前"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#310【朝食】アジのフライニキの意思を継いだ日",
+    "source_video_url": "https://www.youtube.com/watch?v=O47Osoi2H_A"
   },
   {
     "id": "yonino-sake-soba-chirin",
@@ -3697,7 +3701,7 @@
     "address": "東京都豊島区東池袋",
     "lat": 35.7295,
     "lng": 139.7205,
-    "youtube_id": "5rL9E2I4G8U",
+    "youtube_id": "WuYIFXP7wCA",
     "members": [
       "二宮和也",
       "菊池風磨"
@@ -3706,14 +3710,15 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2023-05-24",
     "description": "ボリューム満点の定食が人気。二宮さんが注文したカレーが話題になりました。",
     "tags": [
       "定食",
       "池袋"
     ],
     "affiliate_links": [],
-    "source_video_url": "https://www.youtube.com/watch?v=5rL9E2I4G8U"
+    "source_video_url": "https://www.youtube.com/watch?v=WuYIFXP7wCA",
+    "source_video_title": "#238【朝食シリーズ!!】やっぱ飯は最高だよなの日"
   },
   {
     "id": "yonino-oshokuji-takahashi-waseda",
@@ -3779,7 +3784,7 @@
     "address": "東京都青梅市",
     "lat": 35.7883,
     "lng": 139.2614,
-    "youtube_id": "",
+    "youtube_id": "uZ7a37YzWBo",
     "members": [
       "二宮和也",
       "菊池風磨"
@@ -3788,13 +3793,15 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2022-10-16",
     "description": "よにのちゃんねる#170登場。青梅の蕎麦店。",
     "tags": [
       "そば",
       "青梅"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#170【ジャにのの夏！】運動してご飯食べたら動けなくなった日",
+    "source_video_url": "https://www.youtube.com/watch?v=uZ7a37YzWBo"
   },
   {
     "id": "yonino-tocho-shokudo",
