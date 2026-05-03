@@ -107,6 +107,7 @@ const GROUP_COLORS = {
   sakurazaka46: 'linear-gradient(135deg, #e11d48, #fda4af)',
   nogizaka46:   'linear-gradient(135deg, #0ea5e9, #7dd3fc)',
   hinatazaka46: 'linear-gradient(135deg, #f59e0b, #fde68a)',
+  kamenashi:    'linear-gradient(135deg, #059669, #6ee7b7)',
 };
 const GENRE_ICONS = {
   'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',

@@ -5743,5 +5743,629 @@
     "description": "",
     "tags": [],
     "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-ushigoro_s_ginza-20250816",
+    "name": "USHIGORO S. GINZA",
+    "genre": "焼肉",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6745006,
+    "lng": 139.7676782,
+    "youtube_id": "2F4xUoo5GSM",
+    "source_video_title": "【夏休み】Snow Man渡辺翔太と東京の高級焼肉店でディナー！ゲスト松原タニシさんも迎えてゾクっとする話。",
+    "visited_date": "2025-08-16",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "Snow Manの渡辺翔太くん、松原タニシさんと一緒に来た焼肉屋さんです。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-銀座風香-20250809",
+    "name": "銀座風香",
+    "genre": "スイーツ",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "xbEXP_yd8l0",
+    "source_video_title": "【贅沢】Snow Man渡辺翔太と絶品かき氷屋さんへ！神のクオリティの味に2人とも悶絶してしまいました。",
+    "visited_date": "2025-08-09",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "Snow Manの渡辺翔太くんと来た、高級かき氷店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-盛楼閣-20250719",
+    "name": "盛楼閣",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "盛楼閣, 新丁通, 盛岡駅西通一丁目, 下太田新田, 盛岡市, 岩手県, 020-0045, 日本",
+    "lat": 39.7028311,
+    "lng": 141.1365474,
+    "youtube_id": "WxKvyUgzG40",
+    "source_video_title": "【🍜】亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！",
+    "visited_date": "2025-07-19",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-ガーリックステーキ_bullajo-20250430",
+    "name": "ガーリックステーキ Bullajo",
+    "genre": "焼肉",
+    "prefecture": "",
+    "city": "",
+    "address": "ガーリックステーキ Bullajo, 井ノ頭通り, 宇田川町, 神南, 渋谷区, 東京都, 150-0041, 日本",
+    "lat": 35.6626537,
+    "lng": 139.6972756,
+    "youtube_id": "zlVJ4MBzmuw",
+    "source_video_title": "【絶品】大量ガーリックが罪深い。。。渋谷の奥に潜む隠れ家ステーキハウスで爆食いして過酷な撮影に向けたパワーをチャージしてきました！",
+    "visited_date": "2025-04-30",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "亀梨くんがステーキを食べに行ったお店です。 2025/06/24で閉店してしまうので、気になる方はぜひ食べに行ってくださいね。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-牛骨ごっつおらーめん_鳥取店-20250416",
+    "name": "牛骨ごっつおらーめん 鳥取店",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.4943948,
+    "lng": 134.2219282,
+    "youtube_id": "QJNOclrBszU",
+    "source_video_title": "【旨】撮影終わりのラーメンが沁みる。。。鳥取で仕事終わりに牛骨ラーメンを食べに行きました！",
+    "visited_date": "2025-04-16",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "牛骨ラーメンを食べたお店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-もんじゃ_竹の子-20250329",
+    "name": "もんじゃ 竹の子",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6649448,
+    "lng": 139.783132,
+    "youtube_id": "rRtQ8rhdXno",
+    "source_video_title": "【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！",
+    "visited_date": "2025-03-29",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-日生家-20250111",
+    "name": "日生家",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "日本沖縄神殿, 県道74号沖縄嘉手納線, 松本七丁目, 美里, 沖縄市, 沖縄県, 904-2143, 日本",
+    "lat": 26.3582484,
+    "lng": 127.8017085,
+    "youtube_id": "8-pKbYjUTc4",
+    "source_video_title": "【1周年企画】Snow Man 宮舘涼太と鈴木福と豪華岡山旅！カキとビールで最高の昼飲み！",
+    "visited_date": "2025-01-11",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-off_kinosaki-20241218",
+    "name": "OFF KINOSAKI",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "Off, 豊岡竹野線, 元薬師, 城崎町湯島, 城崎, 豊岡市, 兵庫県, 669-6101, 日本",
+    "lat": 35.6250563,
+    "lng": 134.8078659,
+    "youtube_id": "10CFRaEzqS8",
+    "source_video_title": "【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。",
+    "visited_date": "2024-12-18",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "亀梨くんが夕食を食べた、とてもおしゃれなレストランです。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-う福_大井町-20241211",
+    "name": "う福 大井町",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "う福 大井町, 東小路 飲食店街, 東大井五丁目, 東大井, 品川区, 東京都, 140-0014, 日本",
+    "lat": 35.6075883,
+    "lng": 139.7359878,
+    "youtube_id": "vV651O-moMA",
+    "source_video_title": "【語る】WEST.藤井流星としっぽり2軒目。仕事論や人生論、今後の人生について語りました。",
+    "visited_date": "2024-12-11",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "藤井流星くんと一緒に、うな串焼き鳥屋さんに行きました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-ales_shop-20241120",
+    "name": "ALES SHOP",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 47.5553,
+    "lng": 7.5905,
+    "youtube_id": "P7JBBmjdJKI",
+    "source_video_title": "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？",
+    "visited_date": "2024-11-20",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-beschle-20241116",
+    "name": "Beschle",
+    "genre": "居酒屋",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 47.5596,
+    "lng": 7.5886,
+    "youtube_id": "3ZnxNCg-uHg",
+    "source_video_title": "【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。",
+    "visited_date": "2024-11-16",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "スイスにあるチョコレート屋さんです。 日本人の店員さんに、チョコレートバーの作り方を教えてもらっています。 普段からチョコレート作り体験ができるそうなので、スイスを訪れた際はぜひ挑戦してみてください。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-le_rhin_bleu-20241116",
+    "name": "Le Rhin Bleu",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 47.5573,
+    "lng": 7.5913,
+    "youtube_id": "3ZnxNCg-uHg",
+    "source_video_title": "【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。",
+    "visited_date": "2024-11-16",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "スイスでディナーを食べに来た、ライン川の上にあるお店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-一蘭_原宿店-20241016",
+    "name": "一蘭 原宿店",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6679219,
+    "lng": 139.7052087,
+    "youtube_id": "hLEUaWy6_kU",
+    "source_video_title": "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。",
+    "visited_date": "2024-10-16",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！（2024/10/16配信回） 【亀梨流オーダー表】 【宮舘流オーダー表】",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-大徳壽_みなとみらい店-20241002",
+    "name": "大徳壽 みなとみらい店",
+    "genre": "焼肉",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.4572327,
+    "lng": 139.6328453,
+    "youtube_id": "LaNwtYYQ3Wo",
+    "source_video_title": "【夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！",
+    "visited_date": "2024-10-02",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！（2024/10/02配信回） なにわ男子の道枝駿佑と横浜ドライブを楽しんだ後、ご飯を食べに来た焼肉店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-焼肉_冷麺_ユッチャン銀座店-20240824",
+    "name": "焼肉 冷麺 ユッチャン。銀座店",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6709612,
+    "lng": 139.7643214,
+    "youtube_id": "47QSe1T9ffo",
+    "source_video_title": "【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。",
+    "visited_date": "2024-08-24",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。（2024/08/24配信回）",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-華_千房_恵比寿ガーデンプレイス店-20240803",
+    "name": "華 千房 恵比寿ガーデンプレイス店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.64696,
+    "lng": 139.7086658,
+    "youtube_id": "7EV_r_en6RA",
+    "source_video_title": "【妖怪人間】かつての仲間、杏ちゃんと鈴木福くんと再会してディナーに向かってドライブをします！",
+    "visited_date": "2024-08-03",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "妖怪人間ベムで共演した、鈴木福くんと杏さんと再会し行ったお店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-焼肉古今-20240727",
+    "name": "焼肉古今",
+    "genre": "焼肉",
+    "prefecture": "",
+    "city": "",
+    "address": "焼肉弁当 まるはん, 千葉街道, 谷津四丁目, 谷津, 習志野市, 千葉県, 275-0026, 日本",
+    "lat": 35.686563,
+    "lng": 140.004556,
+    "youtube_id": "33tz7AoUPuU",
+    "source_video_title": "【ぼっち】亀梨和也がひとりで焼肉を食べるだけの動画。",
+    "visited_date": "2024-07-27",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-屋台_ひでちゃんラーメン-20240706",
+    "name": "屋台 ひでちゃんラーメン",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 33.5901826,
+    "lng": 130.4086049,
+    "youtube_id": "nBtgifut7vE",
+    "source_video_title": "【爆飲み】福岡の屋台で1人飲みをしていたらお客さんとのトークが楽しすぎてどんどん飲んで酔っ払ってしまいました。",
+    "visited_date": "2024-07-06",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-原宿glams_bbq_lounge-20240525",
+    "name": "原宿GLAMS BBQ Lounge",
+    "genre": "焼肉",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6687049,
+    "lng": 139.7053357,
+    "youtube_id": "qWliiMG-FZA",
+    "source_video_title": "【グローブあり】なにわ男子 藤原丈一郎と東京のど真ん中でBBQをしたら幸せすぎた！",
+    "visited_date": "2024-05-25",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "なにわ男子の藤原丈一郎くんと行ったバーベキュー専門店です。 亀梨ファームで収獲した野菜たちを使ってバーベキューを楽しみました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-壹銭洋食_本店-20240511",
+    "name": "壹銭洋食 本店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 34.6820484,
+    "lng": 135.1751003,
+    "youtube_id": "mOC7wSoPSyc",
+    "source_video_title": "【vlog】久しぶりのオフの日京都旅vlog🌸たくさん食べて、リフレッシュしてきました！",
+    "visited_date": "2024-05-11",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "オフの日の京都旅で訪れたお店です。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-釣船茶屋_ざうお_新宿店-20240508",
+    "name": "釣船茶屋 ざうお 新宿店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6904488,
+    "lng": 139.6990389,
+    "youtube_id": "SSwnM6BcHuE",
+    "source_video_title": "【大漁】なにわ男子 高橋恭平と釣りができる居酒屋で釣って食べまくる！",
+    "visited_date": "2024-05-08",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "なにわ男子の高橋恭平くんと行ったお店です。 店内で魚介類を釣り、その場で料理してくれます。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-九州じゃんがら原宿店-20240413",
+    "name": "九州じゃんがら原宿店",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6687049,
+    "lng": 139.7053357,
+    "youtube_id": "Yh0PvWpXNoY",
+    "source_video_title": "【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。",
+    "visited_date": "2024-04-13",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "ふぉ～ゆ～の越岡くんと来たラーメン屋さんです。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-hohokam_diner-20240413",
+    "name": "Hohokam DINER",
+    "genre": "ラーメン",
+    "prefecture": "",
+    "city": "",
+    "address": "Hohokam Diner, 表参道, 神宮前一丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本",
+    "lat": 35.6698981,
+    "lng": 139.7035252,
+    "youtube_id": "Yh0PvWpXNoY",
+    "source_video_title": "【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。",
+    "visited_date": "2024-04-13",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-辛麺屋桝元_赤江店-20240406",
+    "name": "辛麺屋桝元 赤江店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 31.8748654,
+    "lng": 131.4230903,
+    "youtube_id": "fqUI15scR4o",
+    "source_video_title": "【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺を食べる。",
+    "visited_date": "2024-04-06",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "宮崎に来るときは毎回食べているという辛麵を食べにきました。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-鳥焼_萬歳亭-20240228",
+    "name": "鳥焼 萬歳亭",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 31.920779,
+    "lng": 131.426335,
+    "youtube_id": "Q-BcioViZcc",
+    "source_video_title": "【晩酌】亀梨和也、宮崎の地鶏としっぽり1人飲み。",
+    "visited_date": "2024-02-28",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "宮崎に着いた後、亀梨くんがご飯を食べに行った焼き鳥屋さんです。",
+    "tags": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "kamenashi-夷川餃子なかじま-20240203",
+    "name": "夷川餃子なかじま",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.0145937,
+    "lng": 135.7516699,
+    "youtube_id": "V3HCRaq5zYs",
+    "source_video_title": "【大奥】ドラマ撮影の空き時間はこんな感じ。京都で餃子を食べたり街を散歩したり。",
+    "visited_date": "2024-02-03",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "nearest_station": "",
+    "description": "大奥撮影の合間、ご飯を食べに行ったお店です。",
+    "tags": [],
+    "affiliate_links": []
   }
 ]

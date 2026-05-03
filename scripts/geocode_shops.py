@@ -42,9 +42,8 @@ def simplify_address(address: str) -> str:
     return address
 
 
-def geocode(address: str) -> tuple:
-    """住所 → (lat, lng) を返す。失敗したら (None, None)"""
-    query = simplify_address(address)
+def geocode_query(query: str) -> tuple:
+    """クエリ文字列 → (lat, lng) を返す。失敗したら (None, None)"""
     params = urllib.parse.urlencode({
         'q': query,
         'format': 'json',
@@ -61,6 +60,11 @@ def geocode(address: str) -> tuple:
     except Exception as e:
         print(f'    エラー: {e}')
     return None, None
+
+
+def geocode(address: str) -> tuple:
+    """住所 → (lat, lng) を返す。失敗したら (None, None)"""
+    return geocode_query(simplify_address(address))
 
 
 def main():
@@ -83,14 +87,23 @@ def main():
             skip += 1
             continue
 
-        if not address:
-            print(f'[{i+1}/{len(shops)}] スキップ（住所なし）: {shop["name"]}')
-            skip += 1
-            continue
-
         print(f'[{i+1}/{len(shops)}] {shop["name"]}')
-        print(f'    住所: {address}')
-        lat, lng = geocode(address)
+
+        lat, lng = None, None
+
+        if address:
+            print(f'    住所: {address}')
+            lat, lng = geocode(address)
+
+        # 住所なし or 住所での取得失敗 → 店名で検索
+        if not lat or not lng:
+            name = shop.get('name', '')
+            print(f'    店名で検索: {name}')
+            lat, lng = geocode_query(name)
+            time.sleep(1)
+            if not lat or not lng:
+                # 「店名 日本」で再試行
+                lat, lng = geocode_query(f'{name} 日本')
 
         if lat and lng:
             shop['lat'] = lat
