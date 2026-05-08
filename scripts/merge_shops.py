@@ -79,7 +79,9 @@ def normalize_shop(raw: dict, existing_ids: set):
         'nearest_station': raw.get('nearest_station', ''),
         'description': raw.get('description', ''),
         'tags': [],
-        'affiliate_links': [],
+        'tabelog_url': raw.get('tabelog_url', ''),
+        'hotpepper_url': raw.get('hotpepper_url', ''),
+        'affiliate_links': raw.get('affiliate_links', []),
     }
 
 

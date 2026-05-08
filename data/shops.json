@@ -5766,7 +5766,14 @@
     "nearest_station": "",
     "description": "Snow Manの渡辺翔太くん、松原タニシさんと一緒に来た焼肉屋さんです。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=USHIGORO%20S.%20GINZA"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=USHIGORO%20S.%20GINZA",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-銀座風香-20250809",
@@ -5790,7 +5797,14 @@
     "nearest_station": "",
     "description": "Snow Manの渡辺翔太くんと来た、高級かき氷店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-盛楼閣-20250719",
@@ -5814,7 +5828,14 @@
     "nearest_station": "",
     "description": "亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%9B%9B%E6%A5%BC%E9%96%A3"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%9B%9B%E6%A5%BC%E9%96%A3",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-ガーリックステーキ_bullajo-20250430",
@@ -5838,7 +5859,14 @@
     "nearest_station": "",
     "description": "亀梨くんがステーキを食べに行ったお店です。 2025/06/24で閉店してしまうので、気になる方はぜひ食べに行ってくださいね。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Bullajo"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Bullajo",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-牛骨ごっつおらーめん_鳥取店-20250416",
@@ -5862,7 +5890,14 @@
     "nearest_station": "",
     "description": "牛骨ラーメンを食べたお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%89%9B%E9%AA%A8%E3%81%94%E3%81%A3%E3%81%A4%E3%81%8A%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%20%E9%B3%A5%E5%8F%96%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%89%9B%E9%AA%A8%E3%81%94%E3%81%A3%E3%81%A4%E3%81%8A%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%20%E9%B3%A5%E5%8F%96%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-もんじゃ_竹の子-20250329",
@@ -5886,7 +5921,14 @@
     "nearest_station": "",
     "description": "【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%82%E3%82%93%E3%81%98%E3%82%83%20%E7%AB%B9%E3%81%AE%E5%AD%90"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%82%E3%82%93%E3%81%98%E3%82%83%20%E7%AB%B9%E3%81%AE%E5%AD%90",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-日生家-20250111",
@@ -5910,7 +5952,14 @@
     "nearest_station": "",
     "description": "牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%97%A5%E7%94%9F%E5%AE%B6"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%97%A5%E7%94%9F%E5%AE%B6",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-off_kinosaki-20241218",
@@ -5934,7 +5983,14 @@
     "nearest_station": "",
     "description": "亀梨くんが夕食を食べた、とてもおしゃれなレストランです。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=OFF%20KINOSAKI"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=OFF%20KINOSAKI",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-う福_大井町-20241211",
@@ -5958,7 +6014,14 @@
     "nearest_station": "",
     "description": "藤井流星くんと一緒に、うな串焼き鳥屋さんに行きました。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%86%E7%A6%8F%20%E5%A4%A7%E4%BA%95%E7%94%BA"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%86%E7%A6%8F%20%E5%A4%A7%E4%BA%95%E7%94%BA",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-ales_shop-20241120",
@@ -5982,7 +6045,14 @@
     "nearest_station": "",
     "description": "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-beschle-20241116",
@@ -6006,7 +6076,14 @@
     "nearest_station": "",
     "description": "スイスにあるチョコレート屋さんです。 日本人の店員さんに、チョコレートバーの作り方を教えてもらっています。 普段からチョコレート作り体験ができるそうなので、スイスを訪れた際はぜひ挑戦してみてください。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Beschle"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Beschle",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-le_rhin_bleu-20241116",
@@ -6030,7 +6107,14 @@
     "nearest_station": "",
     "description": "スイスでディナーを食べに来た、ライン川の上にあるお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20Rhin%20Bleu"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20Rhin%20Bleu",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-一蘭_原宿店-20241016",
@@ -6054,7 +6138,14 @@
     "nearest_station": "",
     "description": "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！（2024/10/16配信回） 【亀梨流オーダー表】 【宮舘流オーダー表】",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E8%98%AD%20%E5%8E%9F%E5%AE%BF%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E8%98%AD%20%E5%8E%9F%E5%AE%BF%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-大徳壽_みなとみらい店-20241002",
@@ -6078,7 +6169,14 @@
     "nearest_station": "",
     "description": "夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！（2024/10/02配信回） なにわ男子の道枝駿佑と横浜ドライブを楽しんだ後、ご飯を食べに来た焼肉店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E5%BE%B3%E5%A3%BD%20%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E5%BE%B3%E5%A3%BD%20%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-焼肉_冷麺_ユッチャン銀座店-20240824",
@@ -6102,7 +6200,14 @@
     "nearest_station": "",
     "description": "【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。（2024/08/24配信回）",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%20%E5%86%B7%E9%BA%BA%20%E3%83%A6%E3%83%83%E3%83%81%E3%83%A3%E3%83%B3%E3%80%82%E9%8A%80%E5%BA%A7%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%20%E5%86%B7%E9%BA%BA%20%E3%83%A6%E3%83%83%E3%83%81%E3%83%A3%E3%83%B3%E3%80%82%E9%8A%80%E5%BA%A7%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-華_千房_恵比寿ガーデンプレイス店-20240803",
@@ -6126,7 +6231,14 @@
     "nearest_station": "",
     "description": "妖怪人間ベムで共演した、鈴木福くんと杏さんと再会し行ったお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-焼肉古今-20240727",
@@ -6150,7 +6262,14 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E5%8F%A4%E4%BB%8A"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E5%8F%A4%E4%BB%8A",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-屋台_ひでちゃんラーメン-20240706",
@@ -6174,7 +6293,14 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%B1%8B%E5%8F%B0%20%E3%81%B2%E3%81%A7%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%B1%8B%E5%8F%B0%20%E3%81%B2%E3%81%A7%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-原宿glams_bbq_lounge-20240525",
@@ -6198,7 +6324,14 @@
     "nearest_station": "",
     "description": "なにわ男子の藤原丈一郎くんと行ったバーベキュー専門店です。 亀梨ファームで収獲した野菜たちを使ってバーベキューを楽しみました。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%8E%9F%E5%AE%BFGLAMS%20BBQ%20Lounge"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%8E%9F%E5%AE%BFGLAMS%20BBQ%20Lounge",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-壹銭洋食_本店-20240511",
@@ -6222,7 +6355,14 @@
     "nearest_station": "",
     "description": "オフの日の京都旅で訪れたお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A3%B9%E9%8A%AD%E6%B4%8B%E9%A3%9F%20%E6%9C%AC%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A3%B9%E9%8A%AD%E6%B4%8B%E9%A3%9F%20%E6%9C%AC%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-釣船茶屋_ざうお_新宿店-20240508",
@@ -6246,7 +6386,14 @@
     "nearest_station": "",
     "description": "なにわ男子の高橋恭平くんと行ったお店です。 店内で魚介類を釣り、その場で料理してくれます。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-九州じゃんがら原宿店-20240413",
@@ -6270,7 +6417,14 @@
     "nearest_station": "",
     "description": "ふぉ～ゆ～の越岡くんと来たラーメン屋さんです。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-hohokam_diner-20240413",
@@ -6294,7 +6448,14 @@
     "nearest_station": "",
     "description": "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Hohokam%20DINER"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Hohokam%20DINER",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-辛麺屋桝元_赤江店-20240406",
@@ -6318,7 +6479,14 @@
     "nearest_station": "",
     "description": "宮崎に来るときは毎回食べているという辛麵を食べにきました。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%BE%9B%E9%BA%BA%E5%B1%8B%E6%A1%9D%E5%85%83%20%E8%B5%A4%E6%B1%9F%E5%BA%97"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%BE%9B%E9%BA%BA%E5%B1%8B%E6%A1%9D%E5%85%83%20%E8%B5%A4%E6%B1%9F%E5%BA%97",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-鳥焼_萬歳亭-20240228",
@@ -6342,7 +6510,14 @@
     "nearest_station": "",
     "description": "宮崎に着いた後、亀梨くんがご飯を食べに行った焼き鳥屋さんです。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B3%A5%E7%84%BC%20%E8%90%AC%E6%AD%B3%E4%BA%AD"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B3%A5%E7%84%BC%20%E8%90%AC%E6%AD%B3%E4%BA%AD",
+    "hotpepper_url": ""
   },
   {
     "id": "kamenashi-夷川餃子なかじま-20240203",
@@ -6366,6 +6541,13 @@
     "nearest_station": "",
     "description": "大奥撮影の合間、ご飯を食べに行ったお店です。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%B7%E5%B7%9D%E9%A4%83%E5%AD%90%E3%81%AA%E3%81%8B%E3%81%98%E3%81%BE"
+      }
+    ],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%B7%E5%B7%9D%E9%A4%83%E5%AD%90%E3%81%AA%E3%81%8B%E3%81%98%E3%81%BE",
+    "hotpepper_url": ""
   }
 ]
