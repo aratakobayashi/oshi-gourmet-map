@@ -4,6 +4,11 @@ geocode_shops.py
 
 使い方:
   python scripts/geocode_shops.py --input scripts/matched_yonino.json --output scripts/geocoded_yonino.json
+
+【注意】Nominatimのsearch結果のdisplay_nameを住所フィールドに使ってはいけない。
+display_nameはOSMのラベル文字列（例：「店名, 通り名, 町名, ...」）であり正確な住所ではない。
+店名での検索は全く別の場所に誤マッチする危険がある（座標の日本範囲チェックを必ず行うこと）。
+このスクリプトはlat/lngのみ更新し、addressフィールドは変更しない。
 """
 
 import urllib.request

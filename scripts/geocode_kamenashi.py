@@ -7,6 +7,11 @@ geocode_kamenashi.py
 
 使い方:
   python scripts/geocode_kamenashi.py --input scripts/scraped_kamenashi.json --output scripts/geocoded_kamenashi.json
+
+【注意】Nominatimのsearch結果に含まれるdisplay_nameを住所フィールドに使ってはいけない。
+display_nameはOSMのラベル文字列であり、正確な日本語住所ではない。
+また、店名検索では全く別の場所に誤マッチすることがある（例：「日生家」→沖縄の神殿）。
+このスクリプトはlat/lngのみ取得し、addressフィールドは更新しない設計にしている。
 """
 
 import urllib.request
