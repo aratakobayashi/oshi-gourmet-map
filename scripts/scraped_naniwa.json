@@ -154,5 +154,121 @@
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=DooWop"
       }
     ]
+  },
+  {
+    "name": "CoCo壱番屋 中目黒山手通店",
+    "visited_date": "2024-12-03",
+    "description": "",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [],
+    "address": "東京都目黒区上目黒３丁目１４−５シャンブル上目黒",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13236641/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13236641/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "name": "駿河の味処 富士屋",
+    "visited_date": "2024-11-26",
+    "description": "",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [],
+    "address": "静岡県静岡市清水区殿沢２丁目１−１０",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000428028/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000428028/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "name": "もんじゃと酒膳 かりん",
+    "visited_date": "2024-10-04",
+    "description": "",
+    "genre": "居酒屋",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [],
+    "address": "東京都千代田区六番町１−１０山陽六番町ビル 地下１階",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13006400/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000116416/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1308/A130803/13006400/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000116416/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "name": "石松餃子 本店",
+    "visited_date": "2024-10-01",
+    "description": "",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [],
+    "address": "静岡県浜松市浜名区平口２５２−１",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22036677/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000107182/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2202/A220201/22036677/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000107182/?vos=nhppvccp99002"
+      }
+    ]
   }
 ]

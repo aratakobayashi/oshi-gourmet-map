@@ -1,12 +1,17 @@
 """
 scrape_naniwa.py
-illmnt.com のなにわ男子ロケ地まとめページから店舗情報をスクレイピング
+なにわ男子ロケ地まとめページから店舗情報をスクレイピング
+
+対応ソース:
+  - illmnt.com  : h2形式、TV番組ロケ地
+  - hatenablog  : table形式、YouTube(なにわチューブ)ロケ地
+                  食べログ・ホットペッパーの直URLをValueCommerceアフィリ経由で取得
 
 使い方:
-  python scripts/scrape_naniwa.py --urls https://www.illmnt.com/posts/0000049 [URL2 ...] --output scripts/scraped_naniwa.json
-
-複数URLを渡せる:
-  python scripts/scrape_naniwa.py --urls URL1 URL2 URL3 --output scripts/scraped_naniwa.json
+  python scripts/scrape_naniwa.py \\
+    --urls https://www.illmnt.com/posts/0000049 \\
+           https://8888-info.hatenablog.com/entry/%E3%81%AA%E3%81%AB%E3%82%8Ftube \\
+    --output scripts/scraped_naniwa.json
 """
 
 import urllib.request
@@ -85,11 +90,118 @@ def extract_address(info_text):
     return ''
 
 
+def extract_vc_url(href):
+    """ValueCommerceアフィリエイトリンクから実URLを取得"""
+    m = re.search(r'vc_url=([^&]+)', href)
+    if m:
+        return urllib.parse.unquote(m.group(1))
+    return ''
+
+
+def scrape_hatenablog(url, soup):
+    """8888-info.hatenablog.com 形式のスクレイピング（table構造）"""
+    shops = []
+    tables = soup.find_all('table')
+
+    # h3から年を特定するマップを作る
+    year_map = {}
+    for h3 in soup.find_all('h3'):
+        y_m = re.search(r'(\d{4})年', h3.get_text())
+        if y_m:
+            year = y_m.group(1)
+            # このh3以降のtableに年を対応付け
+            for sib in h3.next_siblings:
+                if not hasattr(sib, 'name') or not sib.name:
+                    continue
+                if sib.name == 'h3':
+                    break
+                if sib.name == 'table':
+                    year_map[id(sib)] = year
+
+    for table in tables:
+        text = table.get_text(separator='\n', strip=True)
+
+        # 店名: 【店名】
+        name_m = re.search(r'【(.+?)】', text)
+        if not name_m:
+            continue
+        shop_name = name_m.group(1).strip()
+
+        # 日付: XX月XX日配信
+        date_m = re.search(r'(\d+)月(\d+)日配信', text)
+        year = year_map.get(id(table), '2024')
+        if date_m:
+            visited_date = f'{year}-{int(date_m.group(1)):02d}-{int(date_m.group(2)):02d}'
+        else:
+            continue
+
+        # 住所: 【住所】の後の〒XXX-XXXXと住所行
+        addr_m = re.search(r'〒(\d{3}-\d{4})\s*\n?(.+?)(?:\n☎|\n【|$)', text, re.DOTALL)
+        if addr_m:
+            address = addr_m.group(2).replace('\n', '').strip()
+            # ビル名・階数が次行にある場合は結合済みなのでそのまま
+        else:
+            address = ''
+
+        # 都道府県をヘッダー行から取得: XX月XX日配信／東京都渋谷区
+        area_m = re.search(r'配信／(.+)', text)
+        area_hint = area_m.group(1).strip() if area_m else ''
+
+        # アフィリエイトリンクからtabelog/hotpepper URL取得
+        tabelog_url = ''
+        hotpepper_url = ''
+        for a in table.find_all('a'):
+            label = a.get_text(strip=True)
+            href = a.get('href', '')
+            actual_url = extract_vc_url(href)
+            if '食べログ' in label and actual_url:
+                tabelog_url = actual_url
+            elif 'ホットペッパー' in label and actual_url:
+                hotpepper_url = actual_url
+
+        # 食べログURLがなければ検索URLで代用
+        if not tabelog_url:
+            tabelog_url = make_tabelog_url(shop_name)
+
+        genre = detect_genre(shop_name + area_hint)
+
+        affiliate_links = [{'label': '食べログで見る', 'url': tabelog_url}]
+        if hotpepper_url:
+            affiliate_links.append({'label': 'ホットペッパーで予約', 'url': hotpepper_url})
+
+        shops.append({
+            'name': shop_name,
+            'visited_date': visited_date,
+            'description': '',
+            'genre': genre,
+            'group': GROUP,
+            'groups': [GROUP],
+            'members': [],
+            'address': address,
+            'lat': None,
+            'lng': None,
+            'youtube_id': '',
+            'source_video_title': '',
+            'source_video_url': '',
+            'tabelog_url': tabelog_url,
+            'hotpepper_url': hotpepper_url,
+            'affiliate_links': affiliate_links,
+        })
+
+    return shops
+
+
 def scrape_page(url):
     print(f'取得中: {url}')
     req = urllib.request.Request(url, headers={'User-Agent': 'oshi-gourmet-map/1.0'})
     html = urllib.request.urlopen(req, timeout=15).read().decode('utf-8')
     soup = BeautifulSoup(html, 'html.parser')
+
+    # ソース判定
+    if 'hatenablog' in url:
+        shops = scrape_hatenablog(url, soup)
+        print(f'  → {len(shops)}件取得')
+        return shops
 
     shops = []
     h2s = soup.find_all('h2', class_='post-element-h2')
