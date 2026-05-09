@@ -7,7 +7,7 @@ group: yonino
 genre: 食事
 prefecture: 東京都
 tags: [よにのちゃんねる, 渋谷, 挽肉と米, 葱や平吉, 聖地巡礼, ハンバーグ, 居酒屋, 二宮和也, 山田涼介, 菊池風磨]
-thumbnail_video_id: 0_u6LidUu0I
+thumbnail_video_id: pxiRbYciIEE
 shop_ids:
   - yonino-hikiniku-to-kome
   - yonino-negiya-heikichi
