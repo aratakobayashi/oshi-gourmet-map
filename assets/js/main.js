@@ -20,9 +20,42 @@ async function loadShops() {
   populateFilters();
   renderGrid(filteredShops);
   updateCount(filteredShops.length);
+  updateHero();
 
   // 地図が初期化済みなら更新
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
+}
+
+// ===========================
+// ヒーロー統計更新
+// ===========================
+function updateHero() {
+  const groups = new Set(allShops.flatMap(s => s.groups || []));
+  const prefs  = new Set(allShops.map(s => s.prefecture).filter(Boolean));
+
+  const sub = document.getElementById('hero-sub');
+  if (sub) {
+    const names = [...groups].slice(0, 3).map(g => GROUP_LABELS[g] || g).join('・');
+    sub.textContent = `${names}など${groups.size}グループ、${allShops.length}件のグルメスポットを収録`;
+  }
+
+  const statsEl = document.getElementById('hero-stats');
+  if (statsEl) {
+    const items = [
+      { num: allShops.length, label: '件のお店' },
+      { num: groups.size,     label: 'グループ'  },
+      { num: prefs.size,      label: '都道府県'  },
+    ];
+    statsEl.innerHTML = items.map(({ num, label }) => `
+      <div class="hero__stat">
+        <span class="hero__stat-num">${num}</span>
+        <span class="hero__stat-label">${label}</span>
+      </div>`).join('');
+  }
+}
+
+function scrollToFilter() {
+  document.querySelector('.filter-bar')?.scrollIntoView({ behavior: 'smooth' });
 }
 
 // ===========================

@@ -4,6 +4,19 @@ title: お店MAP
 description: 推しが訪れたグルメスポットを地図で巡礼しよう
 ---
 
+<!-- ヒーローセクション -->
+<section class="hero" id="hero">
+  <div class="hero__inner container">
+    <h1 class="hero__title">推しが訪れたグルメスポットを<br>地図で巡ろう。</h1>
+    <p class="hero__sub" id="hero-sub"></p>
+    <div class="hero__actions">
+      <button class="hero__btn hero__btn--primary" onclick="scrollToFilter()">🔍 お店を探す</button>
+      <button class="hero__btn hero__btn--secondary" onclick="switchView('map')">🗺️ 地図で見る</button>
+    </div>
+    <div class="hero__stats" id="hero-stats"></div>
+  </div>
+</section>
+
 <!-- 検索・フィルターバー -->
 <section class="filter-bar">
   <div class="container">

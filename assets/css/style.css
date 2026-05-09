@@ -41,6 +41,78 @@ img { max-width: 100%; display: block; }
 .nav-link:hover, .nav-link.active { background: var(--color-primary); color: #fff; text-decoration: none; }
 
 /* ===========================
+   Hero
+=========================== */
+.hero {
+  background: linear-gradient(135deg, #e8537a 0%, #3b82f6 55%, #7c3aed 100%);
+  padding: 56px 0 44px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 15% 60%, rgba(255,255,255,0.12) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 40%, rgba(0,0,0,0.12) 0%, transparent 55%);
+  pointer-events: none;
+}
+.hero__inner { position: relative; }
+.hero__title {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.45;
+  margin-bottom: 14px;
+  letter-spacing: -0.02em;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+.hero__sub {
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.9);
+  margin-bottom: 28px;
+  line-height: 1.7;
+  min-height: 1.5em;
+}
+.hero__actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 36px;
+}
+.hero__btn {
+  padding: 11px 28px;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: 2px solid #fff;
+  transition: all 0.2s;
+}
+.hero__btn--primary  { background: #fff; color: #d44a6a; }
+.hero__btn--primary:hover  { background: transparent; color: #fff; }
+.hero__btn--secondary { background: transparent; color: #fff; }
+.hero__btn--secondary:hover { background: rgba(255,255,255,0.15); }
+.hero__stats {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+.hero__stat { color: rgba(255,255,255,0.95); text-align: center; }
+.hero__stat-num {
+  display: block;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.hero__stat-label { font-size: 0.75rem; opacity: 0.85; letter-spacing: 0.06em; }
+
+/* ===========================
    Filter Bar
 =========================== */
 .filter-bar { background: var(--color-surface); border-bottom: 1px solid var(--color-border); padding: 10px 0 8px; }
