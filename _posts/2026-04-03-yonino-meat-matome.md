@@ -7,6 +7,7 @@ group: yonino
 genre: 焼肉
 prefecture: 東京都
 tags: [よにのちゃんねる, 肉料理, ステーキ, 焼肉, ジンギスカン, しゃぶしゃぶ, 聖地巡礼, 二宮和也, 山田涼介, 菊池風磨]
+thumbnail_video_id: Our3JGeWP7k
 shop_ids:
   - yonino-peter-luger
   - yonino-kintan-akasaka

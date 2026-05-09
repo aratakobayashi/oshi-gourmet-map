@@ -7,6 +7,7 @@ group: yonino
 genre: ラーメン
 prefecture: 東京都
 tags: [よにのちゃんねる, ラーメン, 聖地巡礼, 一蘭, 利尻らーめん, 二宮和也, 山田涼介, 菊池風磨]
+thumbnail_video_id: Lw2KlLWox6g
 shop_ids:
   - yonino-ichiran-nakano
   - yonino-rishiri-ramen

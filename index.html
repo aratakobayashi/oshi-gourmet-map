@@ -153,7 +153,12 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     <div class="article-grid">
       {% for post in site.posts limit:3 %}
       <article class="article-card">
-        <div class="post-hero post-hero--{{ post.group | default: 'default' }} article-card__hero"></div>
+        {% if post.thumbnail_video_id %}
+          <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg"
+               alt="{{ post.title }}" class="article-card__thumb" loading="lazy">
+        {% else %}
+          <div class="post-hero post-hero--{{ post.group | default: 'default' }} article-card__hero"></div>
+        {% endif %}
         <div class="article-card__body">
           <div class="article-card__meta">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%m月%d日" }}</time>

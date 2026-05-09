@@ -7,6 +7,7 @@ group: yonino
 genre: もんじゃ
 prefecture: 東京都
 tags: [よにのちゃんねる, もんじゃ, 浅草, てっぱん大吉, 聖地巡礼, 二宮和也, 山田涼介, 菊池風磨]
+thumbnail_video_id: 922iF4MBP0E
 shop_ids:
   - yonino-teppan-daikichi
 ---

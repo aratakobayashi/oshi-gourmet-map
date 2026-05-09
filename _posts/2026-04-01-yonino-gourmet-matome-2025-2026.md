@@ -7,6 +7,7 @@ group: yonino
 genre: まとめ
 prefecture: 東京都
 tags: [よにのちゃんねる, グルメ, 聖地巡礼, まとめ, 二宮和也, 山田涼介, 菊池風磨]
+thumbnail_video_id: 1VN2TGo5uOM
 shop_ids:
   - yonino-teppan-daikichi
   - yonino-hikiniku-to-kome
