@@ -175,6 +175,15 @@ img { max-width: 100%; display: block; }
   min-height: 120px;
 }
 .group-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.22); text-decoration: none; }
+.group-card__img {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,0.6);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  flex-shrink: 0;
+}
 .group-card__name {
   font-size: 1rem;
   font-weight: 800;
