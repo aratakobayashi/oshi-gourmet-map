@@ -21,6 +21,7 @@ async function loadShops() {
   renderGrid(filteredShops);
   updateCount(filteredShops.length);
   updateHero();
+  updateGroupShowcase();
 
   // 地図が初期化済みなら更新
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
@@ -55,6 +56,45 @@ function updateHero() {
 }
 
 function scrollToFilter() {
+  document.querySelector('.filter-bar')?.scrollIntoView({ behavior: 'smooth' });
+}
+
+// ===========================
+// グループショーケース
+// ===========================
+function updateGroupShowcase() {
+  const showcase = document.getElementById('group-showcase');
+  if (!showcase) return;
+
+  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
+  groups.sort((a, b) => {
+    const ca = allShops.filter(s => (s.groups || []).includes(a)).length;
+    const cb = allShops.filter(s => (s.groups || []).includes(b)).length;
+    return cb - ca;
+  });
+
+  showcase.innerHTML = groups.map(g => {
+    const label = GROUP_LABELS[g] || g;
+    const grad  = GROUP_COLORS[g] || 'linear-gradient(135deg,#aaa,#ccc)';
+    const count = allShops.filter(s => (s.groups || []).includes(g)).length;
+    return `<button class="group-showcase__card" data-group="${escHtml(g)}"
+      style="--group-grad:${grad}" onclick="activateGroup('${escHtml(g)}')">
+      <span class="group-showcase__name">${escHtml(label)}</span>
+      <span class="group-showcase__count">${count}</span>
+      <span class="group-showcase__count-label">件のお店</span>
+    </button>`;
+  }).join('');
+}
+
+function activateGroup(groupId) {
+  selectedGroups.clear();
+  selectedGroups.add(groupId);
+
+  document.querySelectorAll('.group-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.group === groupId);
+  });
+
+  applyFilters();
   document.querySelector('.filter-bar')?.scrollIntoView({ behavior: 'smooth' });
 }
 
