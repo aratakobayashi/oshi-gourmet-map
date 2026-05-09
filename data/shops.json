@@ -6935,5 +6935,333 @@
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%87%AA%E5%AE%B6%E8%A3%BD%E9%BA%BA223"
       }
     ]
+  },
+  {
+    "id": "naniwa-muun_seoul-20201023",
+    "name": "MUUN seoul",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前3-27-15 1E",
+    "lat": 35.6692039,
+    "lng": 139.7072847,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "2020-10-23",
+    "members": [
+      "長尾謙杜"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "2020年10月23日放送のコーナーで長尾くんが訪れた 『Muun Seoul（ムーンソウル）』 。 トゥンカロンやタルギウユ（いちごミルク）などが楽しめる韓国本場カフェで、シンプルな韓国インテリアがお洒落な店内も魅力です。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-trufflebakery-20211001",
+    "name": "TruffleBAKERY",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区門前仲町1-15-2",
+    "lat": 35.6722765,
+    "lng": 139.7950555,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "2021-10-01",
+    "members": [
+      "大橋和也"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "2021年10月1日放送のコーナーで大橋くんが訪れた 『TruffleBAKERY（トリュフベーカリー）』 。 大橋くんが訪れた門前仲町本店を中心に全国6店舗展開されていて、さらに5店舗の出店予定地も決定している超人気店。（2022年9月現在） また、 「ジャにのちゃんねる」 で嵐・二宮くんがジャニフェスで差し入れしたことによりジャニオタさん内でも話題になったお店です。 TruffleBAKERYの看板メニューは 「白トリュフの塩パン」 。 多い時では1日に1000個近く売り上げるそうですよ！",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-le_bresso_木場公園前店-20211001",
+    "name": "Le BRESSO 木場公園前店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区平野3-2-4 ヴァンテ木場 1F",
+    "lat": 35.6777246,
+    "lng": 139.8043094,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "2021-10-01",
+    "members": [
+      "大橋和也"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "同じく2021年10月1日放送のコーナーで大橋くんが訪れた 『Le BRESSO（レブレッソ）木場公園前店』 。 こちらは食パン専門店×コーヒースタンドのお店で、もっちりしっとりとした食感の食パンメニューとハンドドリップで一杯ずつ丁寧に淹れたコーヒーなどを楽しむことができますよ。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20BRESSO%20%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%E5%89%8D%E5%BA%97",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20BRESSO%20%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%E5%89%8D%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-そうめん_そそそ_研究室-20210709",
+    "name": "そうめん そそそ 研究室",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ 6F",
+    "lat": 35.6585428,
+    "lng": 139.7015098,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "2021-07-09",
+    "members": [
+      "高橋恭平"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "2021年7月9日放送のコーナーで高橋くんが訪れた 『そうめん そそそ 研究室』 。 好きな麺・量・味・具材などを自分で選んで好みのそうめんの食べ方を研究することができる専門店。 また、そうめん以外にもこだわりの自然派ワインやクラフトビール、日本酒なども揃っていて、居酒屋スタイルでそうめんを楽しむことができるそうですよ◎",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%20%E3%81%9D%E3%81%9D%E3%81%9D%20%E7%A0%94%E7%A9%B6%E5%AE%A4",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%20%E3%81%9D%E3%81%9D%E3%81%9D%20%E7%A0%94%E7%A9%B6%E5%AE%A4"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-大衆食堂スタンド_そのだ-20220415",
+    "name": "大衆食堂スタンド そのだ",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区東五反田1-15-5 第5宮本ビル 1F",
+    "lat": 35.6278435,
+    "lng": 139.7267818,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "2022-04-15",
+    "members": [
+      "藤原丈一郎"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "2022年4月15日の放送のコーナーで藤原くんが訪れた『 大衆食堂スタンド そのだ 』。 昭和レトロな雰囲気が楽しめる大衆居酒屋で、大阪・心斎橋に一店舗、2022年11月には下北沢に新規店がオープンされる予定の話題のお店。 コスパ最強な美味しい料理や、可愛いレトロなグラスでいただくお酒が魅力です！",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E8%A1%86%E9%A3%9F%E5%A0%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%9D%E3%81%AE%E3%81%A0",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E8%A1%86%E9%A3%9F%E5%A0%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%9D%E3%81%AE%E3%81%A0"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-doowop-20211126",
+    "name": "DooWop",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-35-14",
+    "lat": 35.6483517,
+    "lng": 139.7065258,
+    "youtube_id": "Xilutm7jG0Y",
+    "source_video_title": "なにわ男子【デビュー日完全密着〜1/2〜】裏側全部見せます！",
+    "source_video_url": "https://www.youtube.com/watch?v=Xilutm7jG0Y",
+    "visited_date": "2021-11-26",
+    "members": [
+      "長尾謙杜"
+    ],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "2021年11月26日放送のコーナーで長尾くんが訪れた 『DooWop（ドゥーワップ）』 。 本場アメリカのチキンバーガーを気軽に楽しめることができるハンバーガー専門店で、ハンバーガーが単品で390円というコスパ最強のお店。 店内はアメリカンポップな雰囲気で鮮やかな写真を撮ることができそう！",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=DooWop",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=DooWop"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-coco壱番屋_中目黒山手通店-20241203",
+    "name": "CoCo壱番屋 中目黒山手通店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒３丁目１４−５シャンブル上目黒",
+    "lat": 35.6441592,
+    "lng": 139.6950848,
+    "youtube_id": "wvv-EUPN6_8",
+    "source_video_title": "なにわ男子【ココイチで被っちゃダメよカレー】絶対に食べなきゃいけない戦いがそこにはある",
+    "source_video_url": "https://www.youtube.com/watch?v=wvv-EUPN6_8",
+    "visited_date": "2024-12-03",
+    "members": [],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13236641/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13236641/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-駿河の味処_富士屋-20241126",
+    "name": "駿河の味処 富士屋",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "address": "静岡県静岡市清水区殿沢２丁目１−１０",
+    "lat": 34.979238,
+    "lng": 138.490208,
+    "youtube_id": "bf6HUKQE23c",
+    "source_video_title": "なにわ男子【2024夏の静岡旅~10~】ラストはうなぎ料理で少数派グルメ",
+    "source_video_url": "https://www.youtube.com/watch?v=bf6HUKQE23c",
+    "visited_date": "2024-11-26",
+    "members": [],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000428028/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000428028/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-もんじゃと酒膳_かりん-20241004",
+    "name": "もんじゃと酒膳 かりん",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区六番町１−１０山陽六番町ビル 地下１階",
+    "lat": 35.687493,
+    "lng": 139.733399,
+    "youtube_id": "3_HZZwKYEw4",
+    "source_video_title": "なにわ男子【大西流星が大倉くんとのんちゃんと打ち上げ】遅刻しちゃった〜💦",
+    "source_video_url": "https://www.youtube.com/watch?v=3_HZZwKYEw4",
+    "visited_date": "2024-10-04",
+    "members": [],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13006400/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000116416/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1308/A130803/13006400/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000116416/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "id": "naniwa-石松餃子_本店-20241001",
+    "name": "石松餃子 本店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "浜松市",
+    "address": "静岡県浜松市浜名区平口２５２−１",
+    "lat": 34.8085792,
+    "lng": 137.7651286,
+    "youtube_id": "NtqgUCZdgwA",
+    "source_video_title": "なにわ男子【2024夏の静岡旅~02~】浜松餃子はサイコーなんだけど…🥟",
+    "source_video_url": "https://www.youtube.com/watch?v=NtqgUCZdgwA",
+    "visited_date": "2024-10-01",
+    "members": [],
+    "groups": [
+      "naniwa"
+    ],
+    "group": "naniwa",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22036677/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000107182/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2202/A220201/22036677/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000107182/?vos=nhppvccp99002"
+      }
+    ]
   }
 ]
