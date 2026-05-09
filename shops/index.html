@@ -1,0 +1,65 @@
+---
+layout: default
+title: お店を探す
+description: 推しが訪れたグルメスポットを検索・地図で探そう
+---
+
+<div class="shops-page-header container">
+  <h1 class="shops-page-title">お店を探す</h1>
+</div>
+
+<!-- 検索・フィルターバー -->
+<section class="filter-bar">
+  <div class="container">
+    <div id="group-filter-row" class="group-filter__row"></div>
+    <div class="filter-bar__row">
+      <input type="text" id="search-input" class="filter-input" placeholder="お店名・エリアで検索...">
+      <select id="filter-genre" class="filter-select">
+        <option value="">すべてのジャンル</option>
+      </select>
+      <select id="filter-prefecture" class="filter-select">
+        <option value="">すべての都道府県</option>
+      </select>
+      <button id="reset-filters" class="btn btn--reset">リセット</button>
+    </div>
+  </div>
+</section>
+
+<!-- カウンター -->
+<div class="container">
+  <p class="result-count" id="result-count"></p>
+</div>
+
+<!-- タブ切り替え（グリッド / 地図） -->
+<div class="container">
+  <div class="view-tabs">
+    <button class="tab-btn active" data-view="grid">グリッド表示</button>
+    <button class="tab-btn" data-view="map">地図表示</button>
+  </div>
+</div>
+
+<!-- お店グリッド -->
+<section class="shop-grid-section container" id="view-grid">
+  <div class="shop-grid" id="shop-grid">
+    <p class="loading">読み込み中...</p>
+  </div>
+</section>
+
+<!-- 地図 -->
+<section class="map-section" id="view-map" style="display:none;">
+  <div id="map"></div>
+</section>
+
+<!-- 詳細モーダル -->
+<div class="modal-overlay" id="modal-overlay" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true">
+    <button class="modal-close" id="modal-close" aria-label="閉じる">&times;</button>
+    <div class="modal-content" id="modal-content"></div>
+  </div>
+</div>
+
+<script>
+  const SITE_BASEURL = '{{ site.baseurl }}';
+</script>
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/map.js' | relative_url }}"></script>

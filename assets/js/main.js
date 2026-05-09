@@ -18,84 +18,32 @@ async function loadShops() {
   filteredShops = [...allShops];
 
   populateFilters();
-  renderGrid(filteredShops);
-  updateCount(filteredShops.length);
-  updateHero();
-  updateGroupShowcase();
+  initFromUrlParams();
 
   // 地図が初期化済みなら更新
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
 }
 
 // ===========================
-// ヒーロー統計更新
+// URLパラメーターで初期フィルターをセット
 // ===========================
-function updateHero() {
-  const groups = new Set(allShops.flatMap(s => s.groups || []));
-  const prefs  = new Set(allShops.map(s => s.prefecture).filter(Boolean));
+function initFromUrlParams() {
+  const params = new URLSearchParams(window.location.search);
+  const group = params.get('group');
+  const genre = params.get('genre');
 
-  const sub = document.getElementById('hero-sub');
-  if (sub) {
-    const names = [...groups].slice(0, 3).map(g => GROUP_LABELS[g] || g).join('・');
-    sub.textContent = `${names}など${groups.size}グループ、${allShops.length}件のグルメスポットを収録`;
+  if (group && GROUP_LABELS[group]) {
+    selectedGroups.add(group);
+    document.querySelectorAll('.group-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.group === group);
+    });
   }
-
-  const statsEl = document.getElementById('hero-stats');
-  if (statsEl) {
-    const items = [
-      { num: allShops.length, label: '件のお店' },
-      { num: groups.size,     label: 'グループ'  },
-      { num: prefs.size,      label: '都道府県'  },
-    ];
-    statsEl.innerHTML = items.map(({ num, label }) => `
-      <div class="hero__stat">
-        <span class="hero__stat-num">${num}</span>
-        <span class="hero__stat-label">${label}</span>
-      </div>`).join('');
+  if (genre) {
+    const el = document.getElementById('filter-genre');
+    if (el) el.value = genre;
   }
-}
-
-function scrollToFilter() {
-  document.querySelector('.filter-bar')?.scrollIntoView({ behavior: 'smooth' });
-}
-
-// ===========================
-// グループショーケース
-// ===========================
-function updateGroupShowcase() {
-  const showcase = document.getElementById('group-showcase');
-  if (!showcase) return;
-
-  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
-  groups.sort((a, b) => {
-    const ca = allShops.filter(s => (s.groups || []).includes(a)).length;
-    const cb = allShops.filter(s => (s.groups || []).includes(b)).length;
-    return cb - ca;
-  });
-
-  showcase.innerHTML = groups.map(g => {
-    const label = GROUP_LABELS[g] || g;
-    const grad  = GROUP_COLORS[g] || 'linear-gradient(135deg,#aaa,#ccc)';
-    const count = allShops.filter(s => (s.groups || []).includes(g)).length;
-    return `<button class="group-showcase__card" data-group="${escHtml(g)}"
-      style="--group-grad:${grad}" onclick="activateGroup('${escHtml(g)}')">
-      <span class="group-showcase__name">${escHtml(label)}</span>
-      <span class="group-showcase__count">${count}</span>
-      <span class="group-showcase__count-label">件のお店</span>
-    </button>`;
-  }).join('');
-}
-
-function activateGroup(groupId) {
-  selectedGroups.clear();
-  selectedGroups.add(groupId);
-
-  document.querySelectorAll('.group-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.group === groupId);
-  });
 
   applyFilters();
-  document.querySelector('.filter-bar')?.scrollIntoView({ behavior: 'smooth' });
 }
 
 // ===========================

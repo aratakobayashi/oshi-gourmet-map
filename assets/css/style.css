@@ -113,8 +113,12 @@ img { max-width: 100%; display: block; }
 .hero__stat-label { font-size: 0.75rem; opacity: 0.85; letter-spacing: 0.06em; }
 
 /* ===========================
-   Section共通
+   Landing Page
 =========================== */
+.landing-section { padding: 52px 0; background: var(--color-bg); }
+.landing-section--alt { background: #f8f6ff; }
+.landing-more { text-align: center; margin-top: 28px; }
+
 .section-title {
   font-size: 1.25rem;
   font-weight: 700;
@@ -132,13 +136,24 @@ img { max-width: 100%; display: block; }
   margin: 8px auto 0;
 }
 
-/* ===========================
-   Groups Section
-=========================== */
-.groups-section {
-  padding: 48px 0 40px;
-  background: linear-gradient(180deg, #f8f4ff 0%, var(--color-bg) 100%);
+/* Outline button */
+.btn--outline {
+  display: inline-block;
+  padding: 10px 28px;
+  border: 2px solid var(--color-primary);
+  border-radius: 999px;
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  font-weight: 700;
+  transition: var(--transition);
 }
+.btn--outline:hover {
+  background: var(--color-primary);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Group Showcase */
 .group-showcase {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
@@ -148,48 +163,63 @@ img { max-width: 100%; display: block; }
   background: var(--group-grad);
   border: none;
   border-radius: 14px;
-  padding: 22px 14px 18px;
+  padding: 28px 14px 22px;
   cursor: pointer;
   text-align: center;
+  display: block;
+  text-decoration: none;
   transition: transform 0.2s, box-shadow 0.2s;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 .group-showcase__card:hover {
   transform: translateY(-5px);
   box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+  text-decoration: none;
 }
 .group-showcase__name {
   display: block;
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   font-weight: 700;
   color: #fff;
   text-shadow: 0 1px 3px rgba(0,0,0,0.25);
-  margin-bottom: 10px;
-  line-height: 1.45;
-}
-.group-showcase__count {
-  display: block;
-  font-size: 1.8rem;
-  font-weight: 800;
-  color: #fff;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.2);
-  line-height: 1;
-}
-.group-showcase__count-label {
-  display: block;
-  font-size: 0.68rem;
-  color: rgba(255,255,255,0.85);
-  margin-top: 4px;
-  letter-spacing: 0.04em;
+  line-height: 1.5;
 }
 
-/* ===========================
-   Howto Section
-=========================== */
-.howto-section {
-  padding: 48px 0 56px;
-  background: var(--color-bg);
+/* Genre Showcase */
+.genre-showcase {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 12px;
 }
+.genre-showcase__card {
+  background: var(--color-surface);
+  border: 2px solid var(--color-border);
+  border-radius: 14px;
+  padding: 20px 10px 16px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  box-shadow: var(--shadow);
+}
+.genre-showcase__card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+  border-color: var(--color-primary);
+  text-decoration: none;
+}
+.genre-showcase__icon { display: block; font-size: 2rem; margin-bottom: 8px; line-height: 1; }
+.genre-showcase__name { display: block; font-size: 0.82rem; font-weight: 700; color: var(--color-text); }
+
+/* Article card: gradient hero thumbnail */
+.article-card .post-hero.article-card__hero {
+  height: 150px;
+  border-radius: 0;
+  margin-top: 0;
+  box-shadow: none;
+}
+
+/* Howto */
 .howto-steps {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -210,17 +240,12 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.12em;
   margin-bottom: 8px;
 }
-.howto-step__title {
-  font-size: 1rem;
-  font-weight: 700;
-  margin-bottom: 8px;
-  color: var(--color-text);
-}
-.howto-step__desc {
-  font-size: 0.82rem;
-  color: var(--color-text-muted);
-  line-height: 1.75;
-}
+.howto-step__title { font-size: 1rem; font-weight: 700; margin-bottom: 8px; color: var(--color-text); }
+.howto-step__desc { font-size: 0.82rem; color: var(--color-text-muted); line-height: 1.75; }
+
+/* Shops Page */
+.shops-page-header { padding: 20px 0 0; }
+.shops-page-title { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.01em; }
 
 /* ===========================
    Filter Bar
@@ -672,8 +697,10 @@ img { max-width: 100%; display: block; }
 =========================== */
 @media (max-width: 768px) {
   /* グループ・使い方 */
-  .groups-section, .howto-section { padding: 32px 0; }
+  /* ランディングページ */
+  .landing-section { padding: 36px 0; }
   .group-showcase { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
+  .genre-showcase { grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 10px; }
   .howto-steps { grid-template-columns: 1fr; gap: 14px; }
   .howto-step { padding: 20px 16px; }
 
