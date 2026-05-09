@@ -21,7 +21,7 @@ CHANNELS = {
     "yonino":       "UC2alHD2WkakOiTxCxF-uMAg",
     "snowman":      "UCuFPaemAaMR8R5cHzjy23dQ",
     "naniwa":       "UCDtVdj7sm41Ysg3XSiSUH3w",
-    "sixtones":     "UCwFDNbq5N2lBcCQPg3QlE4g",  # 要確認
+    "sixtones":     "UCwjAKjycHHT1QzHrQN5Stww",
     "equal_love":   "UCEBTzMCwDXEoMPJQA06jw3g",  # 要確認
     "nogizaka46":   "UCdYBBJRbE7FqLxBWbMH9-6g",  # 要確認
     "hinatazaka46": "UC2b7WYrUaNTZ-GBXQ7fBxRQ",  # 要確認
