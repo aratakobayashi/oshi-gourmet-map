@@ -6549,5 +6549,183 @@
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%B7%E5%B7%9D%E9%A4%83%E5%AD%90%E3%81%AA%E3%81%8B%E3%81%98%E3%81%BE",
     "hotpepper_url": ""
+  },
+  {
+    "id": "snowman-しゃぶ禅_神楽坂店-20260506",
+    "name": "しゃぶ禅 神楽坂店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂3-5 神楽坂センタービルB1",
+    "lat": 35.7010851,
+    "lng": 139.7412287,
+    "youtube_id": "3zyJKBmO2X8",
+    "source_video_title": "Snow Man【しゃぶしゃぶを食べよう！】ナベが鍋をチョイス！？",
+    "visited_date": "2026-05-06",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13052248/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13052248/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-浅草むぎとろ本店-20260415",
+    "name": "浅草むぎとろ本店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区雷門2-2-4",
+    "lat": 35.7111333,
+    "lng": 139.7963683,
+    "youtube_id": "GUbWqF2Uj80",
+    "source_video_title": "Snow Man【むぎとろを食べたい！】すのちゅーぶ初の飲酒！？",
+    "visited_date": "2026-04-15",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003680/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13003680/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-pablo-20241002",
+    "name": "Pablo",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 34.6694965,
+    "lng": 135.5015898,
+    "youtube_id": "q9xC9ARZrR4",
+    "source_video_title": "Snow Man【思い出の味…スペイン料理】バルセロナに到着です",
+    "visited_date": "2024-10-02",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13221213/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13221213/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-おにぎり_浅草_宿六-20240918",
+    "name": "おにぎり 浅草 宿六",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.7168964,
+    "lng": 139.7947511,
+    "youtube_id": "5B1_1ipNkJE",
+    "source_video_title": "Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ🍙",
+    "visited_date": "2024-09-18",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13024859/",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppvccp99002",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13024859/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppvccp99002"
+      }
+    ]
+  },
+  {
+    "id": "snowman-キッチン_南国-20240529",
+    "name": "キッチン 南国",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 38.4289729,
+    "lng": 141.2875937,
+    "youtube_id": "iTskjw-fo_I",
+    "source_video_title": "Snow Man【俺たちが大学生だったら…】こんな感じでメシ食うよね！",
+    "visited_date": "2024-05-29",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130504/13279399/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130504/13279399/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-ケーキファクトリーホイップ-20181017",
+    "name": "ケーキファクトリー・ホイップ",
+    "genre": "スイーツ",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6326432,
+    "lng": 139.5026339,
+    "youtube_id": "JaeKrQ-UHc8",
+    "source_video_title": "Snow Man【メンバーの心】以心伝心ゲームで地産スイーツ！",
+    "visited_date": "2018-10-17",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1327/A132703/13019167/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1327/A132703/13019167/"
+      }
+    ]
   }
 ]
