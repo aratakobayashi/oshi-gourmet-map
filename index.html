@@ -7,20 +7,17 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 <!-- 検索・フィルターバー -->
 <section class="filter-bar">
   <div class="container">
-    <input type="text" id="search-input" class="filter-input" placeholder="お店名・説明で検索...">
-    <select id="filter-genre" class="filter-select">
-      <option value="">すべてのジャンル</option>
-    </select>
-    <select id="filter-prefecture" class="filter-select">
-      <option value="">すべての都道府県</option>
-    </select>
-    <select id="filter-group" class="filter-select">
-      <option value="">すべてのグループ</option>
-    </select>
-    <select id="filter-member" class="filter-select">
-      <option value="">すべてのメンバー</option>
-    </select>
-    <button id="reset-filters" class="btn btn--reset">リセット</button>
+    <div id="group-filter-row" class="group-filter__row"></div>
+    <div class="filter-bar__row">
+      <input type="text" id="search-input" class="filter-input" placeholder="お店名・エリアで検索...">
+      <select id="filter-genre" class="filter-select">
+        <option value="">すべてのジャンル</option>
+      </select>
+      <select id="filter-prefecture" class="filter-select">
+        <option value="">すべての都道府県</option>
+      </select>
+      <button id="reset-filters" class="btn btn--reset">リセット</button>
+    </div>
   </div>
 </section>
 

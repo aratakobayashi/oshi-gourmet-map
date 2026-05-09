@@ -7,6 +7,7 @@ const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/
 
 let allShops = [];
 let filteredShops = [];
+let selectedGroups = new Set();
 
 // ===========================
 // データ読み込み
@@ -30,13 +31,10 @@ async function loadShops() {
 function populateFilters() {
   const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].sort();
   const prefs  = [...new Set(allShops.map(s => s.prefecture).filter(Boolean))].sort();
-  const groups = [...new Set(allShops.flatMap(s => s.groups || []))].sort();
-  const members = [...new Set(allShops.flatMap(s => s.members || []))].sort();
 
   fillSelect('filter-genre', genres);
   fillSelect('filter-prefecture', prefs);
-  fillSelect('filter-group', groups);
-  fillSelect('filter-member', members);
+  renderGroupButtons();
 }
 
 function fillSelect(id, options) {
@@ -51,22 +49,56 @@ function fillSelect(id, options) {
 }
 
 // ===========================
+// グループボタン描画
+// ===========================
+function renderGroupButtons() {
+  const row = document.getElementById('group-filter-row');
+  if (!row) return;
+
+  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
+  // データ件数順に並べる
+  groups.sort((a, b) => {
+    const ca = allShops.filter(s => (s.groups || []).includes(a)).length;
+    const cb = allShops.filter(s => (s.groups || []).includes(b)).length;
+    return cb - ca;
+  });
+
+  row.innerHTML = groups.map(g => {
+    const label = GROUP_LABELS[g] || g;
+    const grad  = GROUP_COLORS[g] || 'linear-gradient(135deg,#aaa,#ccc)';
+    return `<button class="group-btn" data-group="${escHtml(g)}"
+      style="--group-grad:${grad}">${escHtml(label)}</button>`;
+  }).join('');
+
+  row.querySelectorAll('.group-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const g = btn.dataset.group;
+      if (selectedGroups.has(g)) {
+        selectedGroups.delete(g);
+        btn.classList.remove('active');
+      } else {
+        selectedGroups.add(g);
+        btn.classList.add('active');
+      }
+      applyFilters();
+    });
+  });
+}
+
+// ===========================
 // フィルター適用
 // ===========================
 function applyFilters() {
-  const query  = document.getElementById('search-input')?.value.trim().toLowerCase() || '';
-  const genre  = document.getElementById('filter-genre')?.value || '';
-  const pref   = document.getElementById('filter-prefecture')?.value || '';
-  const group  = document.getElementById('filter-group')?.value || '';
-  const member = document.getElementById('filter-member')?.value || '';
+  const query = document.getElementById('search-input')?.value.trim().toLowerCase() || '';
+  const genre = document.getElementById('filter-genre')?.value || '';
+  const pref  = document.getElementById('filter-prefecture')?.value || '';
 
   filteredShops = allShops.filter(s => {
-    if (genre  && s.genre !== genre) return false;
-    if (pref   && s.prefecture !== pref) return false;
-    if (group  && !(s.groups || []).includes(group)) return false;
-    if (member && !(s.members || []).includes(member)) return false;
+    if (genre && s.genre !== genre) return false;
+    if (pref  && s.prefecture !== pref) return false;
+    if (selectedGroups.size > 0 && !(s.groups || []).some(g => selectedGroups.has(g))) return false;
     if (query) {
-      const hay = [s.name, s.description, ...(s.tags || [])].join(' ').toLowerCase();
+      const hay = [s.name, s.description, s.address, ...(s.tags || [])].join(' ').toLowerCase();
       if (!hay.includes(query)) return false;
     }
     return true;
@@ -99,6 +131,18 @@ function renderGrid(shops) {
   grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
 }
 
+const GROUP_LABELS = {
+  yonino:       'よにのちゃんねる',
+  snowman:      'Snow Man',
+  sixtones:     'SixTONES',
+  naniwa:       'なにわ男子',
+  kamenashi:    '亀梨和也',
+  equal_love:   'イコラブ',
+  nogizaka46:   '乃木坂46',
+  hinatazaka46: '日向坂46',
+  sakurazaka46: '櫻坂46',
+};
+
 const GROUP_COLORS = {
   yonino:       'linear-gradient(135deg, #e8537a, #f7a1b5)',
   snowman:      'linear-gradient(135deg, #3b82f6, #93c5fd)',
@@ -124,13 +168,18 @@ function buildShopCard(shop) {
   const gradient = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';
   const icon = GENRE_ICONS[shop.genre] || '🍽️';
 
+  const groupLabel = GROUP_LABELS[group] || group;
+  const badgeHtml = `<span class="shop-card__group-badge" style="background:${gradient}">${escHtml(groupLabel)}</span>`;
+
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
-       <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>`
+       <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>
+       ${badgeHtml}`
     : `<div class="shop-card__banner" style="background:${gradient}">
          <span class="shop-card__banner-icon">${icon}</span>
          <span class="shop-card__banner-genre">${escHtml(shop.genre||'')}</span>
-       </div>`;
+       </div>
+       ${badgeHtml}`;
 
   const tags = [
     shop.genre    ? `<span class="badge badge--genre">${escHtml(shop.genre)}</span>` : '',
@@ -185,9 +234,16 @@ function openModal(shopId) {
   const members = (shop.members || []).length
     ? `<p class="modal-members">👤 ${shop.members.map(escHtml).join(' / ')}</p>` : '';
 
+  const visitedHtml = shop.visited_date
+    ? `<p class="modal-visited-date">📅 ${formatDate(shop.visited_date)}訪問</p>` : '';
+  const videoTitleHtml = shop.source_video_title
+    ? `<p class="modal-video-title">🎬 ${escHtml(shop.source_video_title)}</p>` : '';
+
   content.innerHTML = `
     <div class="modal-body">
       ${youtubeHtml}
+      ${visitedHtml}
+      ${videoTitleHtml}
       <div class="modal-meta">${tags}</div>
       <h2 class="modal-title">${escHtml(shop.name)}</h2>
       <p class="modal-address">📍 ${escHtml(shop.address || '')}</p>
@@ -235,6 +291,12 @@ function escHtml(str) {
   return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+  const [y, m, d] = dateStr.split('-');
+  return `${y}年${parseInt(m)}月${parseInt(d)}日`;
+}
+
 function updateCount(n) {
   const el = document.getElementById('result-count');
   if (el) el.textContent = `${n} 件のお店`;
@@ -245,16 +307,18 @@ function updateCount(n) {
 // ===========================
 document.addEventListener('DOMContentLoaded', () => {
   // フィルター
-  ['search-input','filter-genre','filter-prefecture','filter-group','filter-member'].forEach(id => {
+  ['search-input','filter-genre','filter-prefecture'].forEach(id => {
     const el = document.getElementById(id);
     if (el) el.addEventListener('input', applyFilters);
   });
 
   document.getElementById('reset-filters')?.addEventListener('click', () => {
-    ['search-input','filter-genre','filter-prefecture','filter-group','filter-member'].forEach(id => {
+    ['search-input','filter-genre','filter-prefecture'].forEach(id => {
       const el = document.getElementById(id);
       if (el) el.value = '';
     });
+    selectedGroups.clear();
+    document.querySelectorAll('.group-btn').forEach(b => b.classList.remove('active'));
     applyFilters();
   });
 
