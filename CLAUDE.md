@@ -92,6 +92,7 @@
 | yonino | よにのちゃんねる | UC2alHD2WkakOiTxCxF-uMAg | https://www.youtube.com/@yoninochannel |
 | snowman | すの日常（Snow Man） | UCuFPaemAaMR8R5cHzjy23dQ | https://www.youtube.com/@SnowMan.official.9 |
 | sixtones | ストチューブ（SixTONES） | 未確認 | https://www.youtube.com/@SixTONES_st |
+| naniwa | なにわ男子 | UCDtVdj7sm41Ysg3XSiSUH3w | https://www.youtube.com/@naniwadanshi_official |
 | equal_love | イコラブ（=LOVE） | 未確認 | - |
 | nogizaka46 | 乃木坂46 | 未確認 | - |
 | hinatazaka46 | 日向坂46 | 未確認 | - |
@@ -102,10 +103,12 @@
 yonino:       '#e8537a'  // ピンク
 snowman:      '#3b82f6'  // ブルー
 sixtones:     '#7c3aed'  // パープル
+naniwa:       '#f97316'  // オレンジ
 equal_love:   '#f43f5e'  // レッド
 sakurazaka46: '#e11d48'  // 深紅
 nogizaka46:   '#0ea5e9'  // 水色
 hinatazaka46: '#f59e0b'  // アンバー
+kamenashi:    '#059669'  // グリーン
 ```
 
 ---
@@ -131,9 +134,13 @@ hinatazaka46: '#f59e0b'  // アンバー
 | ファイル | 役割 |
 |---------|------|
 | `fetch_channel_videos.py` | YouTubeチャンネルの動画一覧取得 |
-| `merge_shops.py` | 新規JSONをshops.jsonにマージ（バリデーション含む）※未作成 |
-| `geocode_shops.py` | 座標なし店舗のジオコーディング ※未作成 |
-| `add_affiliate_links.py` | アフィリエイトURL自動付与 ※未作成 |
+| `merge_shops.py` | 新規JSONをshops.jsonにマージ（バリデーション含む） |
+| `geocode_shops.py` | 座標なし店舗のジオコーディング（Nominatim） |
+| `geocode_kamenashi.py` | 住所なし店舗向け強化版ジオコーディング（Overpass API併用） |
+| `match_videos.py` | 訪問日付からyoutube_idを紐付け |
+| `scrape_naniwa.py` | なにわ男子ロケ地スクレイピング（illmnt.com / hatenablog） |
+| `scrape_snowman.py` | Snow Manロケ地スクレイピング（snowman-information.com / hatenablog） |
+| `scrape_kamenashi.py` | 亀梨和也ロケ地スクレイピング |
 
 ---
 
@@ -145,17 +152,27 @@ export GEMINI_API_KEY="..."    # Gemini API（未取得）
 
 ---
 
-## 現在の状況
-- 総店舗数: 176件
-- サムネあり: 120件（68%）
-- デプロイ: GitHub Pages + 独自ドメイン済み
+## 現在の状況（2025-05-09時点）
+- 総店舗数: 229件（yonino:97 / sixtones:49 / snowman:37 / kamenashi:26 / equal_love:10 / nogizaka46:4 / hinatazaka46:3 / sakurazaka46:3）
+- youtube_idあり: 197件（86%）
+- デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）
+- GA4: 設定済み（G-PFYMG6S0Q1）
+- Search Console: 設定済み
 - 記事: 5件（よにのちゃんねる）
+- なにわ男子: 10件スクレイピング済み（geocoded_naniwa.json）、youtube_id紐付け待ち
+
+## データ収集パイプライン（実績）
+- よにのちゃんねる: YouTube API → Gemini抽出 → ジオコーディング → マージ
+- Snow Man / なにわ男子: ファンブログスクレイピング → ジオコーディング → マージ
+- 亀梨和也: ファンブログスクレイピング → 強化ジオコーディング → マージ
+- **重要**: Gemini APIはYouTubeタイトルからの飲食店抽出に向かない。ファンブログスクレイピングが主軸。
 
 ## ロードマップ
 1. ✅ MVP作成・デプロイ
 2. ✅ 独自ドメイン設定（gourmet.oshikatsu-guide.com）
-3. 🔄 データ収集パイプライン構築
-4. ⬜ Gemini API連携・自動化
-5. ⬜ アフィリエイトリンク設置
-6. ⬜ Google Search Console登録
-7. ⬜ データ3000件達成
+3. ✅ データ収集パイプライン構築（スクレイピング中心）
+4. ✅ GA4 + Google Search Console設定
+5. 🔄 データ拡充（目標3000件）
+6. ⬜ アフィリエイトリンク整備（食べログ直URL・ホットペッパー）
+7. ⬜ 乃木坂46 / 日向坂46 ファンブログ発掘
+8. ⬜ データ3000件達成
