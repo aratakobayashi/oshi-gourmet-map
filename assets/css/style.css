@@ -160,46 +160,47 @@ img { max-width: 100%; display: block; }
 /* Group Cards */
 .group-cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
 }
 .group-card {
-  border-radius: 20px;
-  padding: 28px 22px 24px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 16px 20px;
   display: flex;
-  flex-direction: column;
-  gap: 14px;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
   text-decoration: none;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.13);
-  transition: transform 0.2s, box-shadow 0.2s;
-  min-height: 120px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  border: 1px solid #ede9f8;
+  border-left: 4px solid var(--group-accent, #c4b5fd);
+  transition: transform 0.18s, box-shadow 0.18s;
 }
-.group-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.22); text-decoration: none; }
+.group-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.11); text-decoration: none; }
 .group-card__img {
-  width: 56px;
-  height: 56px;
+  width: 72px;
+  height: 72px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid rgba(255,255,255,0.6);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+.group-card__info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 .group-card__name {
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 800;
-  color: #fff;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  color: var(--color-text);
   line-height: 1.4;
 }
 .group-card__count {
-  display: inline-block;
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: rgba(255,255,255,0.95);
-  background: rgba(0,0,0,0.18);
-  padding: 4px 12px;
-  border-radius: 999px;
-  align-self: flex-start;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
 }
 
 /* Genre Cards */
@@ -728,8 +729,9 @@ img { max-width: 100%; display: block; }
 
   /* ランディングページ */
   .landing-section { padding: 40px 0; }
-  .group-cards { grid-template-columns: repeat(2, 1fr); gap: 10px; }
-  .group-card { padding: 20px 16px; min-height: 100px; }
+  .group-cards { grid-template-columns: 1fr; gap: 10px; }
+  .group-card { padding: 14px 16px; }
+  .group-card__img { width: 60px; height: 60px; }
   .genre-cards { grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); gap: 10px; }
   .genre-card { padding: 18px 8px 14px; }
   .genre-card__icon { font-size: 1.8rem; margin-bottom: 8px; }

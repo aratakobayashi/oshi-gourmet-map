@@ -41,50 +41,68 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
       <p class="section-desc">推しのグループを選んで、ゆかりのお店を探そう</p>
     </div>
     <div class="group-cards">
-      <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#e8537a,#f7a1b5)">
+      <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="--group-accent:#e8537a">
         <img src="{{ '/assets/images/groups/yonino.jpg' | relative_url }}" alt="よにのちゃんねる" class="group-card__img">
-        <span class="group-card__name">よにのちゃんねる</span>
-        <span class="group-card__count">97件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">よにのちゃんねる</span>
+          <span class="group-card__count">97件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=sixtones' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#7c3aed,#a78bfa)">
+      <a href="{{ '/shops/?group=sixtones' | relative_url }}" class="group-card" style="--group-accent:#7c3aed">
         <img src="{{ '/assets/images/groups/sixtones.jpg' | relative_url }}" alt="SixTONES" class="group-card__img">
-        <span class="group-card__name">SixTONES</span>
-        <span class="group-card__count">49件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">SixTONES</span>
+          <span class="group-card__count">49件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=snowman' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#3b82f6,#93c5fd)">
+      <a href="{{ '/shops/?group=snowman' | relative_url }}" class="group-card" style="--group-accent:#3b82f6">
         <img src="{{ '/assets/images/groups/snowman.jpg' | relative_url }}" alt="Snow Man" class="group-card__img">
-        <span class="group-card__name">Snow Man</span>
-        <span class="group-card__count">37件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">Snow Man</span>
+          <span class="group-card__count">37件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=kamenashi' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#059669,#6ee7b7)">
+      <a href="{{ '/shops/?group=kamenashi' | relative_url }}" class="group-card" style="--group-accent:#059669">
         <img src="{{ '/assets/images/groups/kamenashi.jpg' | relative_url }}" alt="亀梨和也" class="group-card__img">
-        <span class="group-card__name">亀梨和也</span>
-        <span class="group-card__count">26件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">亀梨和也</span>
+          <span class="group-card__count">26件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=naniwa' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f97316,#fbbf24)">
+      <a href="{{ '/shops/?group=naniwa' | relative_url }}" class="group-card" style="--group-accent:#f97316">
         <img src="{{ '/assets/images/groups/naniwa.jpg' | relative_url }}" alt="なにわ男子" class="group-card__img">
-        <span class="group-card__name">なにわ男子</span>
-        <span class="group-card__count">10件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">なにわ男子</span>
+          <span class="group-card__count">10件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=equal_love' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f43f5e,#fb923c)">
+      <a href="{{ '/shops/?group=equal_love' | relative_url }}" class="group-card" style="--group-accent:#f43f5e">
         <img src="{{ '/assets/images/groups/equal_love.jpg' | relative_url }}" alt="イコラブ" class="group-card__img">
-        <span class="group-card__name">イコラブ</span>
-        <span class="group-card__count">10件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">イコラブ</span>
+          <span class="group-card__count">10件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=nogizaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#0ea5e9,#7dd3fc)">
+      <a href="{{ '/shops/?group=nogizaka46' | relative_url }}" class="group-card" style="--group-accent:#0ea5e9">
         <img src="{{ '/assets/images/groups/nogizaka46.jpg' | relative_url }}" alt="乃木坂46" class="group-card__img">
-        <span class="group-card__name">乃木坂46</span>
-        <span class="group-card__count">4件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">乃木坂46</span>
+          <span class="group-card__count">4件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=hinatazaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f59e0b,#fde68a)">
+      <a href="{{ '/shops/?group=hinatazaka46' | relative_url }}" class="group-card" style="--group-accent:#f59e0b">
         <img src="{{ '/assets/images/groups/hinatazaka46.jpg' | relative_url }}" alt="日向坂46" class="group-card__img">
-        <span class="group-card__name">日向坂46</span>
-        <span class="group-card__count">3件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">日向坂46</span>
+          <span class="group-card__count">3件</span>
+        </div>
       </a>
-      <a href="{{ '/shops/?group=sakurazaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#e11d48,#fda4af)">
+      <a href="{{ '/shops/?group=sakurazaka46' | relative_url }}" class="group-card" style="--group-accent:#e11d48">
         <img src="{{ '/assets/images/groups/sakurazaka46.jpg' | relative_url }}" alt="櫻坂46" class="group-card__img">
-        <span class="group-card__name">櫻坂46</span>
-        <span class="group-card__count">3件</span>
+        <div class="group-card__info">
+          <span class="group-card__name">櫻坂46</span>
+          <span class="group-card__count">3件</span>
+        </div>
       </a>
     </div>
   </div>
