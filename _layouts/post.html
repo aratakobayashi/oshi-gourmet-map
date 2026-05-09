@@ -18,7 +18,9 @@ layout: default
     {% if page.excerpt %}
       <p class="post-excerpt">{{ page.excerpt }}</p>
     {% endif %}
-    {% if page.thumbnail %}
+    {% if page.thumbnail_video_id %}
+      <img class="post-thumbnail" src="https://img.youtube.com/vi/{{ page.thumbnail_video_id }}/maxresdefault.jpg" alt="{{ page.title }}">
+    {% elsif page.thumbnail %}
       <img class="post-thumbnail" src="{{ page.thumbnail }}" alt="{{ page.title }}">
     {% else %}
       <div class="post-hero post-hero--{{ page.group | default: 'default' }}">
