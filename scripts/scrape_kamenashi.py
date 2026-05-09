@@ -123,15 +123,43 @@ def scrape(url):
 
             elif el.name == 'h4':
                 shop_name = text
-                # h4直後のpを説明として取得
+                # h4直後の要素（p・table）を収集
                 shop_desc = ''
+                address = ''
+                youtube_id = ''
                 for next_el in el.next_siblings:
                     if not hasattr(next_el, 'name') or not next_el.name:
                         continue
                     if next_el.name in ('h3', 'h4'):
                         break
                     if next_el.name == 'p' and next_el.get_text(strip=True):
+                        # YouTubeサムネから youtube_id 取得
+                        if not youtube_id:
+                            img = next_el.find('img', src=re.compile(r'img\.youtube\.com'))
+                            if not img:
+                                img = next_el.find('img', attrs={'data-src': re.compile(r'img\.youtube\.com')})
+                            if img:
+                                src = img.get('data-src') or img.get('src', '')
+                                m2 = re.search(r'youtube\.com/vi/([a-zA-Z0-9_-]{11})/', src)
+                                if m2:
+                                    youtube_id = m2.group(1)
+                            a = next_el.find('a', href=re.compile(r'youtube\.com/watch'))
+                            if a and not youtube_id:
+                                m2 = re.search(r'[?&]v=([a-zA-Z0-9_-]{11})', a['href'])
+                                if m2:
+                                    youtube_id = m2.group(1)
                         shop_desc += next_el.get_text(strip=True) + ' '
+                    elif next_el.name == 'figure' and not address:
+                        # figureの中のtableから住所を抽出
+                        table = next_el.find('table')
+                        if table:
+                            for row in table.find_all('tr'):
+                                cells = [td.get_text(strip=True) for td in row.find_all(['th', 'td'])]
+                                if len(cells) >= 2 and cells[0] == '住所':
+                                    raw_addr = re.sub(r'〒\d{3}-\d{4}\s*', '', cells[1]).strip()
+                                    if raw_addr:
+                                        address = raw_addr
+                                    break
 
                 shop_desc = shop_desc.strip()
 
@@ -149,7 +177,10 @@ def scrape(url):
                     'group': 'kamenashi',
                     'groups': ['kamenashi'],
                     'members': ['亀梨和也'],
-                    'address': '',
+                    'address': address,
+                    'youtube_id': youtube_id,
+                    'source_video_title': '',
+                    'source_video_url': f'https://www.youtube.com/watch?v={youtube_id}' if youtube_id else '',
                     'tabelog_url': tabelog_url,
                     'affiliate_links': [
                         {'label': '食べログで見る', 'url': tabelog_url}
