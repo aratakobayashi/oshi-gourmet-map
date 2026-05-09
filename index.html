@@ -6,9 +6,8 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 
 <!-- ヒーロー -->
 <section class="hero">
-  <div class="hero__inner container">
-
-    <div class="hero__left">
+  <div class="container">
+    <div class="hero__content">
       <p class="hero__eyebrow">聖地巡礼グルメガイド</p>
       <h1 class="hero__title">推しが食べた<br>あのお店へ、<br>行こう。</h1>
       <p class="hero__sub">よにのちゃんねる・Snow Man・SixTONESなど<br>9グループ・245件のグルメスポットを収録</p>
@@ -31,42 +30,6 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
         </div>
       </div>
     </div>
-
-    <div class="hero__right" aria-hidden="true">
-      <div class="hero-preview">
-        <div class="hero-card hero-card--1">
-          <div class="hero-card__thumb" style="background:linear-gradient(135deg,#e8537a,#f7a1b5)">
-            <span class="hero-card__icon">☕</span>
-            <span class="hero-card__badge">よにのちゃんねる</span>
-          </div>
-          <div class="hero-card__body">
-            <p class="hero-card__name">フグレン東京</p>
-            <p class="hero-card__loc">📍 東京都渋谷区</p>
-          </div>
-        </div>
-        <div class="hero-card hero-card--2">
-          <div class="hero-card__thumb" style="background:linear-gradient(135deg,#3b82f6,#93c5fd)">
-            <span class="hero-card__icon">🍜</span>
-            <span class="hero-card__badge" style="background:linear-gradient(135deg,#3b82f6,#7cb9f0)">Snow Man</span>
-          </div>
-          <div class="hero-card__body">
-            <p class="hero-card__name">麺屋 鶏そば</p>
-            <p class="hero-card__loc">📍 神奈川県横浜市</p>
-          </div>
-        </div>
-        <div class="hero-card hero-card--3">
-          <div class="hero-card__thumb" style="background:linear-gradient(135deg,#7c3aed,#a78bfa)">
-            <span class="hero-card__icon">🥩</span>
-            <span class="hero-card__badge" style="background:linear-gradient(135deg,#7c3aed,#9d6ef5)">SixTONES</span>
-          </div>
-          <div class="hero-card__body">
-            <p class="hero-card__name">焼肉 KINTAN</p>
-            <p class="hero-card__loc">📍 東京都港区</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
   </div>
 </section>
 
@@ -78,39 +41,39 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
       <p class="section-desc">推しのグループを選んで、ゆかりのお店を探そう</p>
     </div>
     <div class="group-cards">
-      <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#e8537a,#f7a1b5)">
+      <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#e8537a,#f7a1b5)">
         <span class="group-card__name">よにのちゃんねる</span>
         <span class="group-card__count">97件</span>
       </a>
-      <a href="{{ '/shops/?group=sixtones' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#7c3aed,#a78bfa)">
+      <a href="{{ '/shops/?group=sixtones' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#7c3aed,#a78bfa)">
         <span class="group-card__name">SixTONES</span>
         <span class="group-card__count">49件</span>
       </a>
-      <a href="{{ '/shops/?group=snowman' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#3b82f6,#93c5fd)">
+      <a href="{{ '/shops/?group=snowman' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#3b82f6,#93c5fd)">
         <span class="group-card__name">Snow Man</span>
         <span class="group-card__count">37件</span>
       </a>
-      <a href="{{ '/shops/?group=kamenashi' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#059669,#6ee7b7)">
+      <a href="{{ '/shops/?group=kamenashi' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#059669,#6ee7b7)">
         <span class="group-card__name">亀梨和也</span>
         <span class="group-card__count">26件</span>
       </a>
-      <a href="{{ '/shops/?group=naniwa' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#f97316,#fbbf24)">
+      <a href="{{ '/shops/?group=naniwa' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f97316,#fbbf24)">
         <span class="group-card__name">なにわ男子</span>
         <span class="group-card__count">10件</span>
       </a>
-      <a href="{{ '/shops/?group=equal_love' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#f43f5e,#fb923c)">
+      <a href="{{ '/shops/?group=equal_love' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f43f5e,#fb923c)">
         <span class="group-card__name">イコラブ</span>
         <span class="group-card__count">10件</span>
       </a>
-      <a href="{{ '/shops/?group=nogizaka46' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#0ea5e9,#7dd3fc)">
+      <a href="{{ '/shops/?group=nogizaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#0ea5e9,#7dd3fc)">
         <span class="group-card__name">乃木坂46</span>
         <span class="group-card__count">4件</span>
       </a>
-      <a href="{{ '/shops/?group=hinatazaka46' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#f59e0b,#fde68a)">
+      <a href="{{ '/shops/?group=hinatazaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#f59e0b,#fde68a)">
         <span class="group-card__name">日向坂46</span>
         <span class="group-card__count">3件</span>
       </a>
-      <a href="{{ '/shops/?group=sakurazaka46' | relative_url }}" class="group-card" style="--grad:linear-gradient(135deg,#e11d48,#fda4af)">
+      <a href="{{ '/shops/?group=sakurazaka46' | relative_url }}" class="group-card" style="background:linear-gradient(135deg,#e11d48,#fda4af)">
         <span class="group-card__name">櫻坂46</span>
         <span class="group-card__count">3件</span>
       </a>
@@ -125,17 +88,47 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
       <h2 class="section-title">ジャンルで探す</h2>
       <p class="section-desc">食べたいものから聖地巡礼スポットを見つける</p>
     </div>
-    <div class="genre-pills">
-      <a href="{{ '/shops/?genre=カフェ' | relative_url }}"    class="genre-pill genre-pill--cafe">☕ カフェ</a>
-      <a href="{{ '/shops/?genre=ラーメン' | relative_url }}"  class="genre-pill genre-pill--ramen">🍜 ラーメン</a>
-      <a href="{{ '/shops/?genre=焼肉' | relative_url }}"      class="genre-pill genre-pill--meat">🥩 焼肉</a>
-      <a href="{{ '/shops/?genre=和食' | relative_url }}"      class="genre-pill genre-pill--washoku">🍱 和食</a>
-      <a href="{{ '/shops/?genre=食事' | relative_url }}"      class="genre-pill genre-pill--shokuji">🍽️ 食事</a>
-      <a href="{{ '/shops/?genre=居酒屋' | relative_url }}"    class="genre-pill genre-pill--izakaya">🍺 居酒屋</a>
-      <a href="{{ '/shops/?genre=スイーツ' | relative_url }}"  class="genre-pill genre-pill--sweets">🍰 スイーツ</a>
-      <a href="{{ '/shops/?genre=中華' | relative_url }}"      class="genre-pill genre-pill--chuka">🥟 中華</a>
-      <a href="{{ '/shops/?genre=もんじゃ' | relative_url }}"  class="genre-pill genre-pill--monja">🍳 もんじゃ</a>
-      <a href="{{ '/shops/?genre=寿司' | relative_url }}"      class="genre-pill genre-pill--sushi">🍣 寿司</a>
+    <div class="genre-cards">
+      <a href="{{ '/shops/?genre=カフェ' | relative_url }}"    class="genre-card genre-card--cafe">
+        <span class="genre-card__icon">☕</span>
+        <span class="genre-card__name">カフェ</span>
+      </a>
+      <a href="{{ '/shops/?genre=ラーメン' | relative_url }}"  class="genre-card genre-card--ramen">
+        <span class="genre-card__icon">🍜</span>
+        <span class="genre-card__name">ラーメン</span>
+      </a>
+      <a href="{{ '/shops/?genre=焼肉' | relative_url }}"      class="genre-card genre-card--meat">
+        <span class="genre-card__icon">🥩</span>
+        <span class="genre-card__name">焼肉</span>
+      </a>
+      <a href="{{ '/shops/?genre=和食' | relative_url }}"      class="genre-card genre-card--washoku">
+        <span class="genre-card__icon">🍱</span>
+        <span class="genre-card__name">和食</span>
+      </a>
+      <a href="{{ '/shops/?genre=食事' | relative_url }}"      class="genre-card genre-card--shokuji">
+        <span class="genre-card__icon">🍽️</span>
+        <span class="genre-card__name">食事</span>
+      </a>
+      <a href="{{ '/shops/?genre=居酒屋' | relative_url }}"    class="genre-card genre-card--izakaya">
+        <span class="genre-card__icon">🍺</span>
+        <span class="genre-card__name">居酒屋</span>
+      </a>
+      <a href="{{ '/shops/?genre=スイーツ' | relative_url }}"  class="genre-card genre-card--sweets">
+        <span class="genre-card__icon">🍰</span>
+        <span class="genre-card__name">スイーツ</span>
+      </a>
+      <a href="{{ '/shops/?genre=中華' | relative_url }}"      class="genre-card genre-card--chuka">
+        <span class="genre-card__icon">🥟</span>
+        <span class="genre-card__name">中華</span>
+      </a>
+      <a href="{{ '/shops/?genre=もんじゃ' | relative_url }}"  class="genre-card genre-card--monja">
+        <span class="genre-card__icon">🍳</span>
+        <span class="genre-card__name">もんじゃ</span>
+      </a>
+      <a href="{{ '/shops/?genre=寿司' | relative_url }}"      class="genre-card genre-card--sushi">
+        <span class="genre-card__icon">🍣</span>
+        <span class="genre-card__name">寿司</span>
+      </a>
     </div>
   </div>
 </section>
