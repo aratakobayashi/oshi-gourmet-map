@@ -158,6 +158,7 @@ const GROUP_LABELS = {
   sixtones:     'SixTONES',
   naniwa:       'なにわ男子',
   kamenashi:    '亀梨和也',
+  ginga:        '中丸雄一 銀河チャンネル',
   equal_love:   'イコラブ',
   nogizaka46:   '乃木坂46',
   hinatazaka46: '日向坂46',
@@ -174,6 +175,7 @@ const GROUP_COLORS = {
   hinatazaka46: 'linear-gradient(135deg, #f59e0b, #fde68a)',
   naniwa:       'linear-gradient(135deg, #f97316, #fbbf24)',
   kamenashi:    'linear-gradient(135deg, #059669, #6ee7b7)',
+  ginga:        'linear-gradient(135deg, #6366f1, #a5b4fc)',
 };
 const GENRE_ICONS = {
   'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',
