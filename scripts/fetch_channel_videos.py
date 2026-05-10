@@ -26,6 +26,8 @@ CHANNELS = {
     "nogizaka46":   "UCdYBBJRbE7FqLxBWbMH9-6g",  # 要確認
     "hinatazaka46": "UC2b7WYrUaNTZ-GBXQ7fBxRQ",  # 要確認
     "sakurazaka46": "UCjiGiqRGBCiHpIkHpJKjNiQ",  # 要確認
+    # TV番組公式チャンネル（TV由来データのyoutube_id補完用）
+    "mezamashi":    "UCyI5E-mT4aQliEMhUgkyfRQ",  # めざましテレビ（フジテレビ）
 }
 
 def api_get(url):
