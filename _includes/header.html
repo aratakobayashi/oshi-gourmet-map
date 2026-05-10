@@ -1,12 +1,15 @@
 <header class="site-header">
   <div class="container">
     <a href="{{ '/' | relative_url }}" class="site-logo">
-      <span class="site-logo__icon">🗺️</span>
-      <span class="site-logo__text">{{ site.title }}</span>
+      <span class="site-logo__icon">♡</span>
+      <span class="site-logo__text-wrap">
+        <span class="site-logo__text">推しグルメ <em>聖地巡礼MAP</em></span>
+        <span class="site-logo__sub">OSHI GOURMET PILGRIMAGE</span>
+      </span>
     </a>
     <nav class="site-nav">
-      <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">TOP</a>
-      <a href="{{ '/shops/' | relative_url }}" class="nav-link {% if page.url contains '/shops' %}active{% endif %}">お店を探す</a>
+      <a href="{{ '/shops/' | relative_url }}" class="nav-link {% if page.url contains '/shops' %}active{% endif %}">MAPで探す</a>
+      <a href="{{ '/#groups' | relative_url }}" class="nav-link">グループから</a>
       <a href="{{ '/articles/' | relative_url }}" class="nav-link {% if page.url contains '/articles' %}active{% endif %}">記事</a>
     </nav>
   </div>
