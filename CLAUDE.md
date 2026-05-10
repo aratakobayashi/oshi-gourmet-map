@@ -3,7 +3,8 @@
 ## サイト概要
 - **サイト名**: 推しグルメ巡礼MAP
 - **URL**: https://gourmet.oshikatsu-guide.com
-- **目的**: 推しが訪れたグルメスポットを地図で探せる聖地巡礼ガイド
+- **目的**: アイドル・芸人・YouTuberが訪れたグルメスポットを地図で探せる聖地巡礼ガイド
+- **対象**: アイドルグループに限らず、お笑い芸人・YouTuberも対象に拡大
 - **技術**: Jekyll + GitHub Pages（静的サイト、コストゼロ）
 - **リポジトリ**: https://github.com/aratakobayashi/oshi-gourmet-map
 
@@ -98,6 +99,8 @@
 | nogizaka46 | 乃木坂配信中（乃木坂工事中） | UCfvohDfHt1v5N8l3BzPRsWQ | https://www.youtube.com/@nogizakahaishinchu |
 | hinatazaka46 | 日向坂46 | 未確認 | - |
 | sakurazaka46 | 櫻坂46 | 未確認 | - |
+| ginga | 中丸雄一 銀河チャンネル | - | https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7 |
+| kamaitachi | かまいたち | UCIR2mQ77wHrLMreV45nYhgw | https://www.youtube.com/@kamaitachi |
 
 ### グループカラー（main.js）
 ```javascript
