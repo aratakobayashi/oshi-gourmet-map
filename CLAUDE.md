@@ -145,6 +145,10 @@ kamenashi:    '#059669'  // グリーン
 | `scrape_naniwa.py` | なにわ男子ロケ地スクレイピング（illmnt.com / hatenablog） |
 | `scrape_snowman.py` | Snow Manロケ地スクレイピング（snowman-information.com / hatenablog） |
 | `scrape_kamenashi.py` | 亀梨和也ロケ地スクレイピング |
+| `scrape_nogizaka.py` | 乃木坂46スクレイピング（senublog.com） |
+| `scrape_ginga.py` | 中丸雄一銀河チャンネルスクレイピング（8888-info.hatenablog.com） |
+| `scrape_hinatazaka.py` | 日向坂46スクレイピング（せっかくグルメ銚子回ほか） |
+| `scrape_kamaitachi.py` | かまいたち動画説明文パース（ロケで行った飲食店まとめ） |
 
 ---
 
@@ -156,27 +160,33 @@ export GEMINI_API_KEY="..."    # Gemini API（未取得）
 
 ---
 
-## 現在の状況（2025-05-09時点）
-- 総店舗数: 229件（yonino:97 / sixtones:49 / snowman:37 / kamenashi:26 / equal_love:10 / nogizaka46:4 / hinatazaka46:3 / sakurazaka46:3）
-- youtube_idあり: 197件（86%）
+## 現在の状況（2026-05-10時点）
+- 総店舗数: 468件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:37 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3）
+- youtube_idあり: ~350件（75%）
 - デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）
 - GA4: 設定済み（G-PFYMG6S0Q1）
 - Search Console: 設定済み
 - 記事: 5件（よにのちゃんねる）
-- なにわ男子: 10件スクレイピング済み（geocoded_naniwa.json）、youtube_id紐付け待ち
 
 ## データ収集パイプライン（実績）
 - よにのちゃんねる: YouTube API → Gemini抽出 → ジオコーディング → マージ
 - Snow Man / なにわ男子: ファンブログスクレイピング → ジオコーディング → マージ
 - 亀梨和也: ファンブログスクレイピング → 強化ジオコーディング → マージ
+- 乃木坂46: Senu Blog（senublog.com）スクレイピング → 30件
+- 中丸雄一銀河チャンネル: hatenablog（8888-info.hatenablog.com）スクレイピング → 12件
+- かまいたち: 動画説明文パース（ロケで行った飲食店まとめ 関西・関東編） + rascalブログ → 10件
+- =LOVE / ≠ME / ≒JOY: miruwz7.blog.jp スクレイピング（scrape_miruwz.py） → 181件（equal_love:66 / notme:26 / neajoy:12 + 食品フィルタ補完分77件）
 - **重要**: Gemini APIはYouTubeタイトルからの飲食店抽出に向かない。ファンブログスクレイピングが主軸。
+- **重要**: miruwz7.blog.jpはJS描画のため CSS セレクタ不可。regex で記事URLを収集すること。
 
 ## ロードマップ
 1. ✅ MVP作成・デプロイ
 2. ✅ 独自ドメイン設定（gourmet.oshikatsu-guide.com）
 3. ✅ データ収集パイプライン構築（スクレイピング中心）
 4. ✅ GA4 + Google Search Console設定
-5. 🔄 データ拡充（目標3000件）
-6. ⬜ アフィリエイトリンク整備（食べログ直URL・ホットペッパー）
-7. ⬜ 乃木坂46 / 日向坂46 ファンブログ発掘
-8. ⬜ データ3000件達成
+5. ✅ 対象をアイドルから芸人・YouTuberに拡大（ginga・kamaitachi追加）
+6. ✅ ランキングページ新設（/ranking/）
+7. 🔄 データ拡充（目標3000件）
+8. ⬜ アフィリエイトリンク整備（食べログ直URL・ホットペッパー）
+9. ⬜ 乃木坂46 / 日向坂46 追加ファンブログ発掘
+10. ⬜ データ3000件達成

@@ -8655,5 +8655,4949 @@
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks"
       }
     ]
+  },
+  {
+    "id": "kamaitachi-おゝ杉-",
+    "name": "おゝ杉",
+    "genre": "和食",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.0059507,
+    "lng": 135.8683988,
+    "youtube_id": "kU8SZpaXoBE",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関西編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "",
+    "description": "うなしゃぶ",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-ワルン-",
+    "name": "ワルン",
+    "genre": "カレー",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 34.6735336,
+    "lng": 135.4899158,
+    "youtube_id": "kU8SZpaXoBE",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関西編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "",
+    "description": "スパイスカレー",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-ツキノワ-",
+    "name": "ツキノワ",
+    "genre": "カレー",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 34.6793899,
+    "lng": 135.5105744,
+    "youtube_id": "kU8SZpaXoBE",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関西編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "",
+    "description": "スパイスカレー",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-香住かどや-",
+    "name": "香住・かどや",
+    "genre": "居酒屋",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.65326,
+    "lng": 134.6912803,
+    "youtube_id": "kU8SZpaXoBE",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関西編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "",
+    "description": "香住のシロイカ",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-コロラド-",
+    "name": "コロラド",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.7322289,
+    "lng": 139.7909092,
+    "youtube_id": "kU8SZpaXoBE",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関西編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-もつ焼のんき-",
+    "name": "もつ焼のんき",
+    "genre": "居酒屋",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6982505,
+    "lng": 139.8135116,
+    "youtube_id": "n6aabEP44lU",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関東編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "堀切菖蒲園駅",
+    "description": "シロ",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-パーバーン-",
+    "name": "パーバーン",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.7065142,
+    "lng": 139.7836648,
+    "youtube_id": "n6aabEP44lU",
+    "source_video_title": "かまいたちがロケで行った飲食店まとめ【関東編】",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "新御徒町駅",
+    "description": "トムヤム飯",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-カプリチョーザ_渋谷本店-",
+    "name": "カプリチョーザ 渋谷本店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6641,
+    "lng": 139.6985,
+    "youtube_id": "q-UKt66uFp8",
+    "source_video_title": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "渋谷駅",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-銀座_六覺燈_麻布十番店-",
+    "name": "銀座 六覺燈 麻布十番店",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6552,
+    "lng": 139.7371,
+    "youtube_id": "M_IWhptZ4vs",
+    "source_video_title": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "麻布十番駅",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "kamaitachi-鮨_長島-",
+    "name": "鮨 長島",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6693,
+    "lng": 139.7644,
+    "youtube_id": "A2u0TZpDQ8A",
+    "source_video_title": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "nearest_station": "銀座駅",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-北ノ醤油チーホー-20260429",
+    "name": "北ノ醤油チーホー",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田三崎町２丁目１６−１０",
+    "lat": 35.70076,
+    "lng": 139.754353,
+    "youtube_id": "igZmyXp6zKI",
+    "source_video_title": "",
+    "visited_date": "2026-04-29",
+    "members": [
+      "江角怜音",
+      "大信田美月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13320219/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-海底撈火鍋_新宿店-20260328",
+    "name": "海底撈火鍋 新宿店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町１丁目２１−１ 第二東亜会館ビル 6F",
+    "lat": 35.6953799,
+    "lng": 139.7017233,
+    "youtube_id": "eMXdBOC3YE4",
+    "source_video_title": "",
+    "visited_date": "2026-03-28",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-omo5横浜馬車道_by_星野リゾート-20260322",
+    "name": "OMO5横浜馬車道 by 星野リゾート",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区北仲通５丁目５７−２",
+    "lat": 35.450859,
+    "lng": 139.6369359,
+    "youtube_id": "Zjn5_p49GWg",
+    "source_video_title": "",
+    "visited_date": "2026-03-22",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-みそきん_池袋店-20260306",
+    "name": "みそきん 池袋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋５丁目１−３ メトロシティ西池袋 1f",
+    "lat": 35.7316774,
+    "lng": 139.7031757,
+    "youtube_id": "MvkQiclEHMY",
+    "source_video_title": "",
+    "visited_date": "2026-03-06",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-有明アーバンスポーツパーク_brilli-20260226",
+    "name": "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区有明１丁目１３−７",
+    "lat": 35.640906,
+    "lng": 139.789578,
+    "youtube_id": "9HdlqerBf5Q",
+    "source_video_title": "",
+    "visited_date": "2026-02-26",
+    "members": [],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-晴れる屋_新橋店-20260207",
+    "name": "晴れる屋 新橋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区新橋4-9-1 新橋プラザビルB102",
+    "lat": 35.6653482,
+    "lng": 139.7598936,
+    "youtube_id": "K7CCROY8Xm4",
+    "source_video_title": "",
+    "visited_date": "2026-02-07",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-福炎や-20260207",
+    "name": "福炎や",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区新橋２丁目９−６ 4F",
+    "lat": 35.6668663,
+    "lng": 139.7574154,
+    "youtube_id": "K7CCROY8Xm4",
+    "source_video_title": "",
+    "visited_date": "2026-02-07",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-タコライスcafe_きじむなぁ_デポアイ-20241125",
+    "name": "タコライスcafe きじむなぁ デポアイランド店",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町美浜９−１ デポアイランドビルC棟 2F",
+    "lat": 26.3270896,
+    "lng": 127.7538362,
+    "youtube_id": "ZwwzPBGFK5c",
+    "source_video_title": "",
+    "visited_date": "2024-11-25",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-ブルーシールカフェ_デポアイランド-20241125",
+    "name": "ブルーシールカフェ デポアイランド",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町美浜９−１ デポアイランドビルD館 2F",
+    "lat": 26.3270896,
+    "lng": 127.7538362,
+    "youtube_id": "ZwwzPBGFK5c",
+    "source_video_title": "",
+    "visited_date": "2024-11-25",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-シュガークレープ-20241125",
+    "name": "シュガークレープ",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町美浜9−１２ アメリカンデポビルB 棟1F",
+    "lat": 26.3270896,
+    "lng": 127.7538362,
+    "youtube_id": "ZwwzPBGFK5c",
+    "source_video_title": "",
+    "visited_date": "2024-11-25",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-かき氷工房_雪菓-20241108",
+    "name": "かき氷工房 雪菓",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区巣鴨３丁目３７−６",
+    "lat": 35.7341105,
+    "lng": 139.7353515,
+    "youtube_id": "ZSCnrDeujnM",
+    "source_video_title": "",
+    "visited_date": "2024-11-08",
+    "members": [
+      "尾木波菜",
+      "河口夏音"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ヒロキヤ_六本木-20241102",
+    "name": "#ヒロキヤ 六本木",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区六本木５丁目２−６ 六本木ＴＫビル 3階",
+    "lat": 35.6601174,
+    "lng": 139.7352804,
+    "youtube_id": "mUP0eCHFAoU",
+    "source_video_title": "",
+    "visited_date": "2024-11-02",
+    "members": [
+      "佐々木舞香",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13283501/"
+      }
+    ]
+  },
+  {
+    "id": "notme-磯揚げ_まる天_熱海店-20241101",
+    "name": "磯揚げ まる天 熱海店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町６−３",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "IwPmbzmNeQg",
+    "source_video_title": "",
+    "visited_date": "2024-11-01",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-杉山名産店-20241101",
+    "name": "杉山名産店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町４−４",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "IwPmbzmNeQg",
+    "source_video_title": "",
+    "visited_date": "2024-11-01",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-又一庵謹製熱海ばたーあん-20241101",
+    "name": "又一庵謹製熱海ばたーあん",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町５−１１",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "IwPmbzmNeQg",
+    "source_video_title": "",
+    "visited_date": "2024-11-01",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-熱海プリン_1st本店-20241101",
+    "name": "熱海プリン 1st本店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町３−１４",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "IwPmbzmNeQg",
+    "source_video_title": "",
+    "visited_date": "2024-11-01",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-モーリーファンタジー_ソコラ南行徳店-20241021",
+    "name": "モーリーファンタジー ソコラ南行徳店",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "address": "千葉県市川市南行徳２丁目２０−２５ SOCOLA南行徳 2階",
+    "lat": 35.6699696,
+    "lng": 139.9060982,
+    "youtube_id": "Gla2Eg5UnwQ",
+    "source_video_title": "",
+    "visited_date": "2024-10-21",
+    "members": [
+      "齋藤樹愛羅",
+      "野口衣織",
+      "大谷映美里",
+      "大場花菜"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ラーメン山岡家_越谷レイクタウン店-20241020",
+    "name": "ラーメン山岡家 越谷レイクタウン店",
+    "genre": "食事",
+    "prefecture": "埼玉県",
+    "city": "越谷市",
+    "address": "埼玉県越谷市レイクタウン２丁目 １５－１",
+    "lat": 35.8837478,
+    "lng": 139.8210025,
+    "youtube_id": "eZExpxh4C5A",
+    "source_video_title": "",
+    "visited_date": "2024-10-20",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-焼肉トラジ_池袋東口店-20241002",
+    "name": "焼肉トラジ 池袋東口店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋２丁目２７−５ 共和ビル Ｂ１Ｆ",
+    "lat": 35.7265922,
+    "lng": 139.7157472,
+    "youtube_id": "Btsp0ae5Tzc",
+    "source_video_title": "",
+    "visited_date": "2024-10-02",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-オービカ_モッツァレラバー-20240925",
+    "name": "オービカ モッツァレラバー",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区六本木６丁目４−１ ヒルズ ハリウッドビューティプラザ 1F",
+    "lat": 35.6603048,
+    "lng": 139.7308226,
+    "youtube_id": "LXebPFtWQhE",
+    "source_video_title": "",
+    "visited_date": "2024-09-25",
+    "members": [
+      "瀧脇笙古",
+      "髙松瞳"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-37_ステーキハウス__バー-20240925",
+    "name": "37 ステーキハウス & バー",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区六本木６丁目１５−１ 六本木ヒルズけやき坂 2F",
+    "lat": 35.6603048,
+    "lng": 139.7308226,
+    "youtube_id": "LXebPFtWQhE",
+    "source_video_title": "",
+    "visited_date": "2024-09-25",
+    "members": [
+      "瀧脇笙古",
+      "髙松瞳"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-鳥貴族_新宿小滝橋通り店-20240910",
+    "name": "鳥貴族 新宿小滝橋通り店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿７丁目１０−１８ 小滝橋パシフィカビル 2階",
+    "lat": 35.6955705,
+    "lng": 139.6977013,
+    "youtube_id": "qH_unOQG65g",
+    "source_video_title": "",
+    "visited_date": "2024-09-10",
+    "members": [
+      "小澤愛実",
+      "市原愛弓",
+      "藤沢莉子",
+      "村山結香"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-うしごろ_銀座並木通り店-20240821",
+    "name": "うしごろ 銀座並木通り店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座５丁目４−９ ニューギンザ5ビル 7階",
+    "lat": 35.670113,
+    "lng": 139.765481,
+    "youtube_id": "2K6Hh_G1uZg",
+    "source_video_title": "",
+    "visited_date": "2024-08-21",
+    "members": [
+      "蟹沢萌子",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-手打ちそば_ふるた-20240815",
+    "name": "手打ちそば ふるた",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "address": "東京都府中市美好町３丁目１−２５",
+    "lat": 35.6700214,
+    "lng": 139.4652109,
+    "youtube_id": "aD0Q4-d-Ntg",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "佐々木舞香",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-千里眼-20240815",
+    "name": "千里眼",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区駒場４丁目６−８",
+    "lat": 35.6617507,
+    "lng": 139.679068,
+    "youtube_id": "J49luXyD-q4",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-串カツ田中_代々木上原店-20240815",
+    "name": "串カツ田中 代々木上原店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区上原１丁目３５−３",
+    "lat": 35.6690181,
+    "lng": 139.6843225,
+    "youtube_id": "xdDGkIR78r4",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-鳥貴族_大久保駅西店-20240815",
+    "name": "鳥貴族 大久保駅西店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町１丁目１９−１３ 浅川ビル ２F",
+    "lat": 35.6999128,
+    "lng": 139.6997412,
+    "youtube_id": "8gKHzO_Jdhs",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-近江町市場-20240815",
+    "name": "近江町市場",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市上近江町５０",
+    "lat": 35.1142069,
+    "lng": 136.1958936,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-かいてん寿し_大倉-20240815",
+    "name": "かいてん寿し 大倉",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市下堤町３８",
+    "lat": 36.5712116,
+    "lng": 136.6554986,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-近江町コロッケ-20240815",
+    "name": "近江町コロッケ",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市下近江町２４",
+    "lat": 31.9247486,
+    "lng": 131.4329591,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-加賀百万石の味_げんかん-20240815",
+    "name": "加賀百万石の味 げんかん",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市本町１丁目９−１０",
+    "lat": 36.5750276,
+    "lng": 136.6529341,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-天然温泉_加賀の宝泉_御宿_野乃_金沢-20240815",
+    "name": "天然温泉 加賀の宝泉 御宿 野乃 金沢",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市下堤町1番1",
+    "lat": 36.5700088,
+    "lng": 136.6550428,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-らうめん侍_本丸-20240815",
+    "name": "らうめん侍 本丸",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西3階",
+    "lat": 36.5790275,
+    "lng": 136.6465437,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-油そば春日亭_神田店-20240815",
+    "name": "油そば春日亭 神田店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区内神田３丁目９−６",
+    "lat": 35.6907664,
+    "lng": 139.7696653,
+    "youtube_id": "lemqlWyw_Cw",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-大崎駅_新東口-20240815",
+    "name": "大崎駅 新東口",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区大崎１丁目２１－４",
+    "lat": 35.6203151,
+    "lng": 139.7299844,
+    "youtube_id": "YMyDYbjQDxg",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-月島もんじゃ_もんろう-20240815",
+    "name": "月島もんじゃ もんろう",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区月島１丁目２２−１−１０７",
+    "lat": 35.665153,
+    "lng": 139.781855,
+    "youtube_id": "peEcYliutz0",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ユナイテッドシネマ豊洲-20240815",
+    "name": "ユナイテッド・シネマ豊洲",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区豊洲２丁目４−９ 三井ショッピングパーク アーバンドック ららぽーと豊洲",
+    "lat": 35.655271,
+    "lng": 139.792777,
+    "youtube_id": "peEcYliutz0",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-磯丸水産_初台南口店-20240815",
+    "name": "磯丸水産 初台南口店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区初台１丁目３８−１１ 桜内ビル 1F",
+    "lat": 35.6798471,
+    "lng": 139.6866238,
+    "youtube_id": "t_uRDbGf36E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-雷本店-20240815",
+    "name": "雷本店",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "松戸市",
+    "address": "千葉県松戸市北松戸３丁目１−７６",
+    "lat": 35.801834,
+    "lng": 139.915647,
+    "youtube_id": "MYDcp3vSmxI",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-回転すし活一鮮-20240815",
+    "name": "回転すし活一鮮",
+    "genre": "食事",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "address": "北海道札幌市中央区南３条西５丁目１−１ ノルベサ地下 1階",
+    "lat": 43.0563633,
+    "lng": 141.3508023,
+    "youtube_id": "ohdDJpMuBco",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里",
+      "野口衣織"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-西鉄リゾートイン那覇-20240815",
+    "name": "西鉄リゾートイン那覇",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市久米２丁目３−１３",
+    "lat": 26.2164391,
+    "lng": 127.676357,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-カフェダイニング_mateki-20240815",
+    "name": "カフェ＆ダイニング mateki",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市久茂地２丁目３−１０ RBC・QABメディアセンタービル 1F",
+    "lat": 26.217854,
+    "lng": 127.6818582,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4701/A470101/47016925/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-そば街角-20240815",
+    "name": "そば街角",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市牧志３丁目１−５",
+    "lat": 26.2153394,
+    "lng": 127.6902428,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4701/A470101/47000064/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-むつみ橋商店街-20240815",
+    "name": "むつみ橋商店街",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市牧志３丁目１−１",
+    "lat": 26.2153394,
+    "lng": 127.6902428,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-カリフキッチン沖縄-20240815",
+    "name": "カリフキッチン沖縄",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "中頭郡北谷町",
+    "address": "沖縄県中頭郡北谷町美浜9−２１ デポアイランドシーサイドビル 3F",
+    "lat": 26.3270896,
+    "lng": 127.7538362,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-那覇文化芸術劇場なはーと-20240815",
+    "name": "那覇文化芸術劇場なはーと",
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市久茂地３丁目２６−２７",
+    "lat": 26.2155548,
+    "lng": 127.6825382,
+    "youtube_id": "GZg8nO3EZ4E",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-dogcat_joker二子玉川_ave-20240814",
+    "name": "DOG&CAT JOKER二子玉川 -AVENUE&CARE-",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区玉川３丁目17−１ 髙島屋S・C西館 ホーム 1",
+    "lat": 35.6141434,
+    "lng": 139.6247439,
+    "youtube_id": "Sn79vTeVxSU",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "蟹沢萌子"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-赤鬼-20240814",
+    "name": "赤鬼",
+    "genre": "食事",
+    "prefecture": "福島県",
+    "city": "いわき市",
+    "address": "福島県いわき市平白銀町３−１",
+    "lat": 37.0592434,
+    "lng": 140.8930352,
+    "youtube_id": "YEfEA3jOgwE",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0704/A070401/7002616/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-情熱居酒屋じゃじゃ馬-20240814",
+    "name": "情熱居酒屋じゃじゃ馬",
+    "genre": "食事",
+    "prefecture": "福島県",
+    "city": "いわき市",
+    "address": "福島県いわき市平白銀町２−１０",
+    "lat": 37.0592434,
+    "lng": 140.8930352,
+    "youtube_id": "YEfEA3jOgwE",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0704/A070401/7014293/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-赤羽_もつ焼のんき-20240814",
+    "name": "赤羽 もつ焼のんき",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都北区赤羽１丁目１９−１６",
+    "lat": 35.7806673,
+    "lng": 139.7206438,
+    "youtube_id": "sn9-GWZQ5ps",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-やきとん_大王_赤羽店-20240814",
+    "name": "やきとん 大王 赤羽店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都北区赤羽１丁目２３−６ 三晃ビル 1・2F",
+    "lat": 35.7806673,
+    "lng": 139.7206438,
+    "youtube_id": "sn9-GWZQ5ps",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-あとむ-20240814",
+    "name": "あとむ",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区新天地５−１３ 3階",
+    "lat": 34.3942162,
+    "lng": 132.4621961,
+    "youtube_id": "gOJ_jjaT__4",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "髙松瞳",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-スイーツパラダイス_原宿店-20240814",
+    "name": "スイーツパラダイス 原宿店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前１丁目８−２ Solado 竹下通り 3F",
+    "lat": 35.671513,
+    "lng": 139.7057319,
+    "youtube_id": "lp8-ltk3kN4",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-鳥のいるカフェ_千駄木店-20240814",
+    "name": "鳥のいるカフェ 千駄木店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区千駄木３丁目４２−１６",
+    "lat": 35.7277266,
+    "lng": 139.7628857,
+    "youtube_id": "HrmydlHejtk",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "市原愛弓",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-コスメキッチン_代官山本店-20240814",
+    "name": "コスメキッチン 代官山本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区代官山町１９−４ 代官山駅ビル １階",
+    "lat": 35.6507318,
+    "lng": 139.7046751,
+    "youtube_id": "D-8_9WnpB38",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "山田杏佳",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-タイトーステーション_広島本通店-20240814",
+    "name": "タイトーステーション 広島本通店",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区本通３−５ せらかぐ本通ビル",
+    "lat": 34.3931587,
+    "lng": 132.4569775,
+    "youtube_id": "FFILw3D41B8",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ひろしま夢ぷらざ-20240814",
+    "name": "ひろしま夢ぷらざ",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区本通８−２８",
+    "lat": 34.3931587,
+    "lng": 132.4569775,
+    "youtube_id": "FFILw3D41B8",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ちから_本通四丁目店-20240814",
+    "name": "ちから 本通四丁目店",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区紙屋町２丁目３−２４",
+    "lat": 34.3948813,
+    "lng": 132.4588869,
+    "youtube_id": "FFILw3D41B8",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-お好み村てつ-20240814",
+    "name": "お好み村てつ",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区新天地５−１３",
+    "lat": 34.3942162,
+    "lng": 132.4621961,
+    "youtube_id": "FFILw3D41B8",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-近江牛_かね吉-20240814",
+    "name": "近江牛 かね吉",
+    "genre": "食事",
+    "prefecture": "滋賀県",
+    "city": "大津市",
+    "address": "滋賀県大津市馬場１丁目１０−１８",
+    "lat": 35.0021553,
+    "lng": 135.8825058,
+    "youtube_id": "NcDizNoUVMs",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "髙松瞳",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-人類みな麺類-20240814",
+    "name": "人類みな麺類",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市淀川区西中島１丁目１２−１５",
+    "lat": 34.7251571,
+    "lng": 135.4999741,
+    "youtube_id": "9LRdo4bj-ww",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "大信田美月",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-箱根湯本駅_箱根方面バス口-20240814",
+    "name": "箱根湯本駅 箱根方面バス口",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "address": "神奈川県足柄下郡箱根町湯本",
+    "lat": 35.2334093,
+    "lng": 139.1044774,
+    "youtube_id": "TAQI0WEyy7k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "髙橋舞"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-大涌谷_駅の店-20240814",
+    "name": "大涌谷 駅の店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "address": "神奈川県足柄下郡箱根町仙石原",
+    "lat": 35.2710625,
+    "lng": 139.01225,
+    "youtube_id": "TAQI0WEyy7k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "髙橋舞"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-焼肉トラジ_京橋店-20240814",
+    "name": "焼肉トラジ 京橋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区京橋３丁目１−１ 東京スクエアガーデン ２階",
+    "lat": 35.675404,
+    "lng": 139.769895,
+    "youtube_id": "8Ydv8IXxHjE",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "蟹沢萌子",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-凸凹堂軽井沢-20240814",
+    "name": "凸凹堂軽井沢",
+    "genre": "食事",
+    "prefecture": "長野県",
+    "city": "",
+    "address": "長野県北佐久郡軽井沢町軽井沢７８８−１",
+    "lat": 36.3425512,
+    "lng": 138.6351092,
+    "youtube_id": "UC_nxGtuqAg",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "蟹沢萌子",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-杉養蜂園_軽井沢2号店-20240814",
+    "name": "杉養蜂園 軽井沢2号店",
+    "genre": "食事",
+    "prefecture": "長野県",
+    "city": "",
+    "address": "長野県北佐久郡軽井沢町軽井沢旧軽井沢５８６−１",
+    "lat": 36.3624355,
+    "lng": 138.6397246,
+    "youtube_id": "UC_nxGtuqAg",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "蟹沢萌子",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-天下一品_中野店-20240814",
+    "name": "天下一品 中野店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区新井１丁目９−３ グレースヒル上高田 ＴＭＹ101",
+    "lat": 35.712125,
+    "lng": 139.6674111,
+    "youtube_id": "vr2cC8gr6HM",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "大信田美月",
+      "山田杏佳"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-焼肉_哲_tetsu_池袋店-20240814",
+    "name": "焼肉 哲 TETSU 池袋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋２丁目１２−５ 第３中野ビル 1F",
+    "lat": 35.7265922,
+    "lng": 139.7157472,
+    "youtube_id": "FfoCq5L1SRg",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "大谷映美里",
+      "野口衣織"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-ドライブイン_熱海プリン食堂-20240805",
+    "name": "ドライブイン 熱海プリン食堂",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市上多賀１０−１",
+    "lat": 35.0631541,
+    "lng": 139.0709965,
+    "youtube_id": "fSBicVF8TfQ",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-熱海城-20240805",
+    "name": "熱海城",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市熱海１９９３",
+    "lat": 35.0863779,
+    "lng": 139.0786816,
+    "youtube_id": "fSBicVF8TfQ",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-清水順正_おかべ家-20240804",
+    "name": "清水順正 おかべ家",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市東山区清水２丁目２３９",
+    "lat": 34.9956993,
+    "lng": 135.7811947,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-錦市場-20240804",
+    "name": "錦市場",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市中京区東魚屋町",
+    "lat": 35.0108986,
+    "lng": 135.7688702,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-sme六番町ビル_多目的スペースonsi-20240804",
+    "name": "SME六番町ビル 多目的スペース「OnSITE」",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区六番町４−５",
+    "lat": 35.687493,
+    "lng": 139.733399,
+    "youtube_id": "9YA8s463_l8",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "佐々木舞香",
+      "野口衣織",
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-昔の矢場とん-20240804",
+    "name": "昔の矢場とん",
+    "genre": "食事",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市中区大須２丁目２１−３２",
+    "lat": 35.1601877,
+    "lng": 136.8998373,
+    "youtube_id": "xPGJTsYsPvk",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "鈴木瞳美",
+      "谷崎早耶",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-水曜日のアリス_名古屋-20240804",
+    "name": "水曜日のアリス 名古屋",
+    "genre": "食事",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市中区大須２丁目２０−２５",
+    "lat": 35.1601877,
+    "lng": 136.8998373,
+    "youtube_id": "xPGJTsYsPvk",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "鈴木瞳美",
+      "谷崎早耶",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-喜久屋-20240804",
+    "name": "喜久屋",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目２０−１",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "LSUtYiOct4c",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "髙橋舞",
+      "村山結香",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-くろげ_浅草雷門店-20240804",
+    "name": "くろげ 浅草雷門店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目２０−２",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "LSUtYiOct4c",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "髙橋舞",
+      "村山結香",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-回転わんこそば_くるくるわんこ-20240804",
+    "name": "回転わんこそば くるくるわんこ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町１丁目２２−９ 9, J・Gold Build., 5F J・ゴールドビル 5階",
+    "lat": 35.6953799,
+    "lng": 139.7017233,
+    "youtube_id": "r57aY-wm1k8",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "大谷映美里",
+      "齋藤樹愛羅",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-iori-20240804",
+    "name": "IORI",
+    "genre": "食事",
+    "prefecture": "北海道",
+    "city": "千歳市",
+    "address": "北海道千歳市住吉１丁目１２−２",
+    "lat": 42.832672,
+    "lng": 141.661228,
+    "youtube_id": "tSU-TMf1mE0",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "大谷映美里",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hokkaido/A0107/A010701/1029291/"
+      }
+    ]
+  },
+  {
+    "id": "notme-嵐山駅_前-20240804",
+    "name": "嵐山駅 前",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市右京区嵯峨天龍寺芒ノ馬場町６３−１",
+    "lat": 35.015144,
+    "lng": 135.675153,
+    "youtube_id": "zIST21lyxR0",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "尾木波菜",
+      "菅波美玲",
+      "谷崎早耶"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-wego_原宿竹下通り店-20240804",
+    "name": "WEGO 原宿竹下通り店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前１丁目８−２ Solado 竹下通り 地下１階 原宿",
+    "lat": 35.671513,
+    "lng": 139.7057319,
+    "youtube_id": "JaVIswh-hyI",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "尾木波菜",
+      "菅波美玲",
+      "谷崎早耶",
+      "永田詩央里"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-かに道楽_道頓堀本店-20240804",
+    "name": "かに道楽 道頓堀本店",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区道頓堀１丁目６−１８",
+    "lat": 34.6685063,
+    "lng": 135.5032623,
+    "youtube_id": "vUhfX5OTw_w",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-づぼらや_道頓堀店_前-20240804",
+    "name": "づぼらや 道頓堀店 前",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区道頓堀１丁目６−１０",
+    "lat": 34.6685063,
+    "lng": 135.5032623,
+    "youtube_id": "vUhfX5OTw_w",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-新三浦_博多本店-20240804",
+    "name": "新三浦 博多本店",
+    "genre": "食事",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "address": "福岡県福岡市博多区石城町２１−１２",
+    "lat": 33.6069789,
+    "lng": 130.4056838,
+    "youtube_id": "HoSaJsed33M",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "音嶋莉沙",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-ハイランドリゾートホテルスパ_エントラン-20240804",
+    "name": "ハイランドリゾートホテル＆スパ エントランス前",
+    "genre": "食事",
+    "prefecture": "山梨県",
+    "city": "富士吉田市",
+    "address": "山梨県富士吉田市新西原５丁目６−１",
+    "lat": 35.4859993,
+    "lng": 138.7812404,
+    "youtube_id": "HdYprsQJxWY",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ushihachi_渋谷店-20240804",
+    "name": "USHIHACHI 渋谷店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂２丁目３−１ 渋谷駅前ビル 4Ｆ",
+    "lat": 35.6593786,
+    "lng": 139.6987796,
+    "youtube_id": "WGNuE6STf5c",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "齊藤なぎさ"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-flippers_下北沢店-20240804",
+    "name": "FLIPPER'S 下北沢店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区北沢２丁目２６−２０ 1F",
+    "lat": 35.661998,
+    "lng": 139.6683083,
+    "youtube_id": "o8PItsNaK7U",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "冨田菜々風",
+      "蟹沢萌子"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-中華街餃子館_興記-20240804",
+    "name": "中華街餃子館 興記",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１４７−４",
+    "lat": 35.4429058,
+    "lng": 139.6514509,
+    "youtube_id": "z7JkgbJj-sY",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "鈴木瞳美",
+      "谷崎早耶"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-舟和_仲見世1号店-20240804",
+    "name": "舟和 仲見世1号店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目２０−１２",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "YRwk6TmnUmU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "瀧脇笙古",
+      "髙松瞳",
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-舟和_仲見世2号店-20240804",
+    "name": "舟和 仲見世2号店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目３０−１",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "YRwk6TmnUmU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "瀧脇笙古",
+      "髙松瞳",
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-安立屋-20240804",
+    "name": "安立屋",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目３１−３",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "YRwk6TmnUmU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "瀧脇笙古",
+      "髙松瞳",
+      "野口衣織",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-long_longer_longest_-20240804",
+    "name": "LONG! LONGER!! LONGEST!!! 原宿本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前１丁目７−１ CUTE CUBE HARAJUKU １F",
+    "lat": 35.671513,
+    "lng": 139.7057319,
+    "youtube_id": "JCPvDX7y3-k",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "音嶋莉沙",
+      "佐竹のん乃",
+      "野口衣織",
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-marion_crepes_原宿竹下通り-20240804",
+    "name": "MARION CREPES 原宿竹下通り店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前１丁目６−１５ ジュネスビル 1F",
+    "lat": 35.671513,
+    "lng": 139.7057319,
+    "youtube_id": "JCPvDX7y3-k",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "音嶋莉沙",
+      "佐竹のん乃",
+      "野口衣織",
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-猫カフェ_mocha_原宿店-20240804",
+    "name": "猫カフェ MOCHA 原宿店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前１丁目１４−２５ クロスアベニュー原宿 4F",
+    "lat": 35.671513,
+    "lng": 139.7057319,
+    "youtube_id": "Iz_DvhCMMwU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "菅波美玲",
+      "谷崎早耶"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-しゃぶしゃぶ_さくら-20260131",
+    "name": "しゃぶしゃぶ さくら",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区福富町西通４８",
+    "lat": 35.4503381,
+    "lng": 139.6343802,
+    "youtube_id": "QMulxshbfPI",
+    "source_video_title": "",
+    "visited_date": "2026-01-31",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-らーめん_ぽっぽっ屋_水道橋店-20251205",
+    "name": "らーめん ぽっぽっ屋 水道橋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田三崎町２丁目２１−１１ ゑびすビル 1F",
+    "lat": 35.70076,
+    "lng": 139.754353,
+    "youtube_id": "TI71ENfUCZQ",
+    "source_video_title": "",
+    "visited_date": "2025-12-05",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-プングム_新大久保本店-20251122",
+    "name": "プングム 新大久保本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区大久保１丁目１０−１５ レックスマンション 2F",
+    "lat": 35.6997092,
+    "lng": 139.7053014,
+    "youtube_id": "FeTUjMoiCc4",
+    "source_video_title": "",
+    "visited_date": "2025-11-22",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-沼津港海将_zero_上野店-20251114",
+    "name": "沼津港海将 zero 上野店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野６丁目９−１３",
+    "lat": 35.7092137,
+    "lng": 139.7758327,
+    "youtube_id": "Hj0HB_c5yKw",
+    "source_video_title": "",
+    "visited_date": "2025-11-14",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13219268/"
+      }
+    ]
+  },
+  {
+    "id": "neajoy-みそきん-20251027",
+    "name": "みそきん",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内１丁目９−１ 東京ラーメンストリート",
+    "lat": 35.68156,
+    "lng": 139.767201,
+    "youtube_id": "lJog7xVHLH4",
+    "source_video_title": "",
+    "visited_date": "2025-10-27",
+    "members": [
+      "大信田美月",
+      "江角怜音"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-串カツ田中_有楽町店-20251010",
+    "name": "串カツ田中 有楽町店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内３丁目７−１２",
+    "lat": 35.676952,
+    "lng": 139.763476,
+    "youtube_id": "cnXygUoYIIE",
+    "source_video_title": "",
+    "visited_date": "2025-10-10",
+    "members": [
+      "髙橋舞",
+      "山野愛月",
+      "大西葵",
+      "天野香乃愛"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-coa_ginza-20251006",
+    "name": "COA GINZA",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座６丁目１３−９ girac ginza7階",
+    "lat": 35.669261,
+    "lng": 139.764429,
+    "youtube_id": "PWBxeT4_NNk",
+    "source_video_title": "",
+    "visited_date": "2025-10-06",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ミヤトヨ本店-20250915",
+    "name": "ミヤトヨ本店",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町北之町浜５４９",
+    "lat": 34.2999284,
+    "lng": 132.3214858,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-gebura-20250915",
+    "name": "GEBURA",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町５２８−３",
+    "lat": 34.2988011,
+    "lng": 132.3212291,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-鳥居屋-20250915",
+    "name": "鳥居屋",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町幸町東浜 492",
+    "lat": 34.298185,
+    "lng": 132.3215829,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-お食事処_とりい-20250915",
+    "name": "お食事処 とりい",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町大町１１４４",
+    "lat": 34.2975,
+    "lng": 132.32,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-天心閣-20250915",
+    "name": "天心閣",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町４１３",
+    "lat": 34.2975,
+    "lng": 132.32,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-揚げもみじの紅葉堂_本店-20250915",
+    "name": "揚げもみじの紅葉堂 本店",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町４４８−１",
+    "lat": 34.2988011,
+    "lng": 132.3212291,
+    "youtube_id": "0Strh5AKapM",
+    "source_video_title": "",
+    "visited_date": "2025-09-15",
+    "members": [
+      "山本杏奈",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ishinoya_熱海__石のや_熱海-20250905",
+    "name": "ISHINOYA 熱海 / 石のや 熱海",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市熱海１７３９−３５ パサニアホテル棟 27階",
+    "lat": 35.1037499,
+    "lng": 139.0782076,
+    "youtube_id": "o9YsRLOqsCI",
+    "source_video_title": "",
+    "visited_date": "2025-09-05",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-お肴野郎_清介-20250905",
+    "name": "お肴野郎 清介",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市銀座町８−９",
+    "lat": 35.0967641,
+    "lng": 139.0736987,
+    "youtube_id": "o9YsRLOqsCI",
+    "source_video_title": "",
+    "visited_date": "2025-09-05",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-samoyed_cafe_al_横浜中華-20250903",
+    "name": "Samoyed cafe AL 横浜中華街店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１４７ ヒナガタビル 2階",
+    "lat": 35.4438,
+    "lng": 139.6508,
+    "youtube_id": "vQjP4UKBzqY",
+    "source_video_title": "",
+    "visited_date": "2025-09-03",
+    "members": [
+      "逢田珠里依",
+      "山田杏佳"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ラーメン山岡家_青梅店-20250829",
+    "name": "ラーメン山岡家 青梅店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "address": "東京都青梅市新町４丁目21−５",
+    "lat": 35.7850971,
+    "lng": 139.3057829,
+    "youtube_id": "T8Epe6pq3e4",
+    "source_video_title": "",
+    "visited_date": "2025-08-29",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-yokoo_大阪のれんめぐり店-20250827",
+    "name": "YOKOO 大阪のれんめぐり店",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市淀川区西中島５丁目１６−１ JR 新大阪駅 新幹線改札内",
+    "lat": 34.7313185,
+    "lng": 135.500552,
+    "youtube_id": "eqfZmabiZ0A",
+    "source_video_title": "",
+    "visited_date": "2025-08-27",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-juicer_bar_新幹線新大阪店-20250827",
+    "name": "Juicer Bar 新幹線新大阪店",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市淀川区西中島５丁目１６−１",
+    "lat": 34.7313185,
+    "lng": 135.500552,
+    "youtube_id": "eqfZmabiZ0A",
+    "source_video_title": "",
+    "visited_date": "2025-08-27",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270301/27068279/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-すしざんまい_渋谷道玄坂センタービル店-20250827",
+    "name": "すしざんまい 渋谷道玄坂センタービル店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂２丁目２９−８ 道玄坂センタービル 4階",
+    "lat": 35.6593786,
+    "lng": 139.6987796,
+    "youtube_id": "eqfZmabiZ0A",
+    "source_video_title": "",
+    "visited_date": "2025-08-27",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-有丸福食堂-20250820",
+    "name": "（有）丸福食堂",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町５−７",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "7N3fbKMpQaU",
+    "source_video_title": "",
+    "visited_date": "2025-08-20",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2205/A220502/22015003/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-usagiiya_by源楽-20250820",
+    "name": "usagiiya by源楽",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町３−１０",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "7N3fbKMpQaU",
+    "source_video_title": "",
+    "visited_date": "2025-08-20",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-パスティス広尾ハウス-20250628",
+    "name": "パスティス広尾ハウス",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区広尾２丁目６−１９",
+    "lat": 35.6515458,
+    "lng": 139.7156936,
+    "youtube_id": "cYFtNVKcXKc",
+    "source_video_title": "",
+    "visited_date": "2025-06-28",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-金沢まいもん寿司_珠姫_玉川高島屋sc店-20250628",
+    "name": "金沢まいもん寿司 珠姫 玉川高島屋S･C店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区玉川３丁目１７−１ 南館 6階 高島屋S･C",
+    "lat": 35.6141434,
+    "lng": 139.6247439,
+    "youtube_id": "rI97Y8OW8K0",
+    "source_video_title": "",
+    "visited_date": "2025-06-28",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-バーミヤン_神宮前店-20250627",
+    "name": "バーミヤン 神宮前店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前６丁目１７−１０ 原宿アール ２Ｆ",
+    "lat": 35.6661069,
+    "lng": 139.7041199,
+    "youtube_id": "ioRcB5L2g3g",
+    "source_video_title": "",
+    "visited_date": "2025-06-27",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-目黒魂心家-20250613",
+    "name": "目黒魂心家",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区目黒１丁目４−８",
+    "lat": 35.6361342,
+    "lng": 139.7110641,
+    "youtube_id": "aEKmiuXtZx8",
+    "source_video_title": "",
+    "visited_date": "2025-06-13",
+    "members": [
+      "大信田美月",
+      "天野香乃愛"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-the_smash_scramble-20250613",
+    "name": "THE SMASH SCRAMBLE",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町２６−１１ 白馬ビル",
+    "lat": 35.6620752,
+    "lng": 139.6974957,
+    "youtube_id": "9g0At0uaJmc",
+    "source_video_title": "",
+    "visited_date": "2025-06-13",
+    "members": [
+      "髙松瞳"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-一蘭_池袋店-20250608",
+    "name": "一蘭 池袋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区東池袋１丁目３９−１１",
+    "lat": 35.7311554,
+    "lng": 139.7149383,
+    "youtube_id": "Y1zrFlbwhy8",
+    "source_video_title": "",
+    "visited_date": "2025-06-08",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-浅草もんじゃ_もんろう-20250604",
+    "name": "浅草もんじゃ もんろう",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目４１−２",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "9ZWbXuY-nc4",
+    "source_video_title": "",
+    "visited_date": "2025-06-04",
+    "members": [
+      "市原愛弓",
+      "江角怜音"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-信州そば処_やまへい_軽井沢店-20250530",
+    "name": "信州そば処 やまへい 軽井沢店",
+    "genre": "食事",
+    "prefecture": "長野県",
+    "city": "",
+    "address": "長野県北佐久郡軽井沢町軽井沢軽井沢・プリンスショッピングプラザニューウエスト",
+    "lat": 36.3395,
+    "lng": 138.6324,
+    "youtube_id": "_TClQ4Pf4sg",
+    "source_video_title": "",
+    "visited_date": "2025-05-30",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-熟成和牛焼肉_エイジングビーフ軽井沢-20250530",
+    "name": "熟成和牛焼肉 エイジング・ビーフ軽井沢",
+    "genre": "食事",
+    "prefecture": "長野県",
+    "city": "",
+    "address": "長野県北佐久郡軽井沢町軽井沢１１７８−１６１ 軽井沢 味の街",
+    "lat": 36.3428502,
+    "lng": 138.6341737,
+    "youtube_id": "_TClQ4Pf4sg",
+    "source_video_title": "",
+    "visited_date": "2025-05-30",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-釣船茶屋ざうお_渋谷店-20250504",
+    "name": "釣船茶屋ざうお 渋谷店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神南１丁目１９−３ ハイマンテン神南ビル B1F",
+    "lat": 35.6635006,
+    "lng": 139.7001582,
+    "youtube_id": "ySSbRZtJti8",
+    "source_video_title": "",
+    "visited_date": "2025-05-04",
+    "members": [
+      "冨田菜々風",
+      "櫻井もも"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-金華園-20250410",
+    "name": "金華園",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草２丁目５−２",
+    "lat": 35.714955,
+    "lng": 139.7957367,
+    "youtube_id": "tvUBTJDvKQI",
+    "source_video_title": "",
+    "visited_date": "2025-04-10",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13078496/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-酒処えびす-20250410",
+    "name": "酒処えびす",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草２丁目７−１３",
+    "lat": 35.714955,
+    "lng": 139.7957367,
+    "youtube_id": "tvUBTJDvKQI",
+    "source_video_title": "",
+    "visited_date": "2025-04-10",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13260809/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-マンダリン_オリエンタル東京_イタリアン-20250315",
+    "name": "マンダリン オリエンタル東京 イタリアンダイニング ケシキ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋室町２丁目１−１",
+    "lat": 35.686841,
+    "lng": 139.773767,
+    "youtube_id": "hHDk2mEa4Sc",
+    "source_video_title": "",
+    "visited_date": "2025-03-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-えどもんど中野-20250215",
+    "name": "えどもんど中野",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区中野５丁目５６−１２",
+    "lat": 35.7079412,
+    "lng": 139.6692565,
+    "youtube_id": "1QLZfSE6X3Q",
+    "source_video_title": "",
+    "visited_date": "2025-02-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131902/13283099/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-蒙古タンメン中本_上板橋本店-20250131",
+    "name": "蒙古タンメン中本 上板橋本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "address": "東京都板橋区常盤台４丁目３３−３ 浅香ビル 201",
+    "lat": 35.763645,
+    "lng": 139.679446,
+    "youtube_id": "B-BrYhxEh9I",
+    "source_video_title": "",
+    "visited_date": "2025-01-31",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-浅草きんぎょ-20250112",
+    "name": "浅草きんぎょ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草２丁目７−１３",
+    "lat": 35.714955,
+    "lng": 139.7957367,
+    "youtube_id": "LdUACXvOHqE",
+    "source_video_title": "",
+    "visited_date": "2025-01-12",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-フルーツ果物王国-20250112",
+    "name": "フルーツ果物王国",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草１丁目３６−５",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "LdUACXvOHqE",
+    "source_video_title": "",
+    "visited_date": "2025-01-12",
+    "members": [
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13258203/"
+      }
+    ]
+  },
+  {
+    "id": "notme-神楽坂_てっぱんや-20241221",
+    "name": "神楽坂 てっぱんや",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂３丁目１−４",
+    "lat": 35.7014604,
+    "lng": 139.740964,
+    "youtube_id": "5pW7TxTE93g",
+    "source_video_title": "",
+    "visited_date": "2024-12-21",
+    "members": [
+      "鈴木瞳美",
+      "櫻井もも",
+      "河口夏音",
+      "永田詩央里"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-あちらぼ-20241215",
+    "name": "あちらぼ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺北３丁目６９−１",
+    "lat": 35.7078454,
+    "lng": 139.6482776,
+    "youtube_id": "BPvNgGIKoeU",
+    "source_video_title": "",
+    "visited_date": "2024-12-15",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131904/13282053/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-やきとん長良-20241215",
+    "name": "やきとん長良",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺南３丁目５８−１８ 山本ビル 1F",
+    "lat": 35.7014789,
+    "lng": 139.6462284,
+    "youtube_id": "BPvNgGIKoeU",
+    "source_video_title": "",
+    "visited_date": "2024-12-15",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-まんまじぃま-20241215",
+    "name": "まんまじぃま",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺南４丁目２７−１８ ケーアイ高円寺ビル 1F",
+    "lat": 35.70417,
+    "lng": 139.6527502,
+    "youtube_id": "BPvNgGIKoeU",
+    "source_video_title": "",
+    "visited_date": "2024-12-15",
+    "members": [
+      "諸橋沙夏"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-litty-20241211",
+    "name": "Litty",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前４丁目６−５ グラン F 表参道 1F",
+    "lat": 35.6682031,
+    "lng": 139.7098397,
+    "youtube_id": "Rr19JP-FZek",
+    "source_video_title": "",
+    "visited_date": "2024-12-11",
+    "members": [
+      "音嶋莉沙"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-まわる寿し_もりもり寿し_近江町店-20240815",
+    "name": "まわる寿し もりもり寿し 近江町店",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市青草町８８",
+    "lat": 36.5781,
+    "lng": 136.6538,
+    "youtube_id": "6loT5JM_yQo",
+    "source_video_title": "",
+    "visited_date": "2024-08-15",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-暴れん坊チキン-20240814",
+    "name": "暴れん坊チキン",
+    "genre": "食事",
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "address": "愛知県岡崎市康生通東２丁目７",
+    "lat": 34.9511,
+    "lng": 137.1706,
+    "youtube_id": "rEJ08q9MkuE",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "江角怜音",
+      "大信田美月",
+      "小澤愛実",
+      "村山結香"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-la_maison_du_r-20240814",
+    "name": "La Maison du R",
+    "genre": "食事",
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "address": "愛知県岡崎市鴨田町広元１３４",
+    "lat": 34.9511,
+    "lng": 137.1706,
+    "youtube_id": "rEJ08q9MkuE",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "江角怜音",
+      "大信田美月",
+      "小澤愛実",
+      "村山結香"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-徳造丸_海鮮家_箱根湯本店-20240814",
+    "name": "徳造丸 海鮮家 箱根湯本店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "address": "神奈川県足柄下郡箱根町湯本７０３",
+    "lat": 35.2329,
+    "lng": 139.1062,
+    "youtube_id": "TAQI0WEyy7k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "髙橋舞"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-杉養蜂園_箱根店-20240814",
+    "name": "杉養蜂園 箱根店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "address": "神奈川県足柄下郡箱根町湯本７０４",
+    "lat": 35.2329,
+    "lng": 139.1062,
+    "youtube_id": "TAQI0WEyy7k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "髙橋舞"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-閉店さつまいも専門店_箱根おいも大学前-20240814",
+    "name": "【閉店】さつまいも専門店 箱根おいも大学前",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡箱根町",
+    "address": "神奈川県足柄下郡箱根町湯本７０７",
+    "lat": 35.2329,
+    "lng": 139.1062,
+    "youtube_id": "TAQI0WEyy7k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "髙橋舞"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1410/A141001/14080998/"
+      }
+    ]
+  },
+  {
+    "id": "neajoy-エブリデイ多摩ノ国-20240814",
+    "name": "エブリデイ多摩ノ国",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "address": "東京都多摩市落合２丁目３３ ２階",
+    "lat": 35.6274,
+    "lng": 139.4528,
+    "youtube_id": "kexMR_Jzw1k",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "天野香乃愛",
+      "山野愛月",
+      "山田杏佳"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-レストラン_seafood__grill-20240814",
+    "name": "レストラン Seafood ＆ Grill YAKIYA",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市金沢区八景島 ベイマーケットB棟",
+    "lat": 35.377,
+    "lng": 139.626,
+    "youtube_id": "1Cs9GQ0hRm4",
+    "source_video_title": "",
+    "visited_date": "2024-08-14",
+    "members": [
+      "逢田珠里依",
+      "大西葵",
+      "小澤愛実",
+      "藤沢莉子",
+      "村山結香",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ガーデンテラスカフェ-20240812",
+    "name": "ガーデンテラスカフェ",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１４５ 横浜博覧館 3F",
+    "lat": 35.4438,
+    "lng": 139.6508,
+    "youtube_id": "Dp0KTso3Suw",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "齋藤樹愛羅",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-華正樓_本店-20240812",
+    "name": "華正樓 本店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１８６",
+    "lat": 35.4438,
+    "lng": 139.6508,
+    "youtube_id": "UT4dNcRffPY",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "齋藤樹愛羅",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-龍茶_生タピオカ専門店-20240812",
+    "name": "龍茶 生タピオカ専門店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１９２",
+    "lat": 35.4438,
+    "lng": 139.6508,
+    "youtube_id": "UT4dNcRffPY",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "齋藤樹愛羅",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140105/14091449/"
+      }
+    ]
+  },
+  {
+    "id": "equal_love-福臨閣売店-20240812",
+    "name": "福臨閣売店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１４６−５",
+    "lat": 35.4429058,
+    "lng": 139.6514509,
+    "youtube_id": "UT4dNcRffPY",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "齋藤樹愛羅",
+      "佐々木舞香"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140105/14043662/"
+      }
+    ]
+  },
+  {
+    "id": "notme-揚げもみじの紅葉堂_弐番屋-20240812",
+    "name": "揚げもみじの紅葉堂 弐番屋",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町５１２−１",
+    "lat": 34.2988011,
+    "lng": 132.3212291,
+    "youtube_id": "9bPMIjNEq8k",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "櫻井もも",
+      "永田詩央里",
+      "本田珠由記"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-あなごめし_ふじたや-20240812",
+    "name": "あなごめし ふじたや",
+    "genre": "食事",
+    "prefecture": "広島県",
+    "city": "廿日市",
+    "address": "広島県廿日市市宮島町１２５−２",
+    "lat": 34.2988011,
+    "lng": 132.3212291,
+    "youtube_id": "9bPMIjNEq8k",
+    "source_video_title": "",
+    "visited_date": "2024-08-12",
+    "members": [
+      "櫻井もも",
+      "永田詩央里",
+      "本田珠由記"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-pacific_drivein-20240809",
+    "name": "Pacific DRIVE-IN",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市七里ガ浜東２丁目１−１２",
+    "lat": 35.3072853,
+    "lng": 139.5128395,
+    "youtube_id": "dX1BJYop8aQ",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-さくらの夢見屋_小町通り本店-20240809",
+    "name": "さくらの夢見屋 小町通り本店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市小町２丁目７−３４",
+    "lat": 35.3215127,
+    "lng": 139.5531174,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-八倉_湘南の魚と鎌倉野菜-20240809",
+    "name": "八倉 -湘南の魚と鎌倉野菜-",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市小町２丁目７−２８",
+    "lat": 35.3215127,
+    "lng": 139.5531174,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-鎌倉壱番屋_雪ノ下店-20240809",
+    "name": "鎌倉壱番屋 雪ノ下店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市雪ノ下１丁目６−６",
+    "lat": 35.3234843,
+    "lng": 139.5537226,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-ともや_鎌倉小町店-20240809",
+    "name": "ともや 鎌倉小町店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市雪ノ下１丁目６−８",
+    "lat": 35.3234843,
+    "lng": 139.5537226,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-からあげ_まこちゃん_鎌倉本店-20240809",
+    "name": "からあげ まこちゃん 鎌倉本店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市雪ノ下１丁目５−３３ リバスクビル １階",
+    "lat": 35.3234843,
+    "lng": 139.5537226,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-鎌倉茶々本店-20240809",
+    "name": "鎌倉茶々本店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市雪ノ下１丁目６−８",
+    "lat": 35.3234843,
+    "lng": 139.5537226,
+    "youtube_id": "Evw3lyphfcM",
+    "source_video_title": "",
+    "visited_date": "2024-08-09",
+    "members": [
+      "音嶋莉沙",
+      "瀧脇笙古"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-すごう農園直売所ピアッツァ-20240808",
+    "name": "すごう農園直売所「ピアッツァ」",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "address": "千葉県八千代市大和田新田６４３−３",
+    "lat": 35.730495,
+    "lng": 140.090714,
+    "youtube_id": "MsDUT0xeXeo",
+    "source_video_title": "",
+    "visited_date": "2024-08-08",
+    "members": [
+      "落合希来里",
+      "蟹沢萌子",
+      "本田珠由記"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-steak_house__bbq_bal-20240807",
+    "name": "STEAK HOUSE & BBQ BALCONIWA",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区千駄ケ谷４丁目１０−４ 千駄ヶ谷グリーンランドビル4F",
+    "lat": 35.6804288,
+    "lng": 139.7064427,
+    "youtube_id": "Ev-wsPc9Q68",
+    "source_video_title": "",
+    "visited_date": "2024-08-07",
+    "members": [
+      "大谷映美里",
+      "諸橋沙夏",
+      "山本杏奈"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "neajoy-pippon_中延店-20240807",
+    "name": "PiPPon 中延店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区中延４丁目７−７",
+    "lat": 35.6051526,
+    "lng": 139.7111875,
+    "youtube_id": "-AmzofyMvTk",
+    "source_video_title": "",
+    "visited_date": "2024-08-07",
+    "members": [
+      "大信田美月",
+      "大西葵",
+      "村山結香",
+      "山野愛月"
+    ],
+    "groups": [
+      "neajoy"
+    ],
+    "group": "neajoy",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-sanrio_cafe_池袋店-20240806",
+    "name": "SANRIO CAFE 池袋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区東池袋１丁目２８−１ サンシャインシティアルパ B1F",
+    "lat": 35.7311554,
+    "lng": 139.7149383,
+    "youtube_id": "gQ8M3JURXOY",
+    "source_video_title": "",
+    "visited_date": "2024-08-06",
+    "members": [
+      "谷崎早耶",
+      "本田珠由記"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-ホテル大野屋-20240805",
+    "name": "ホテル大野屋",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市和田浜南町３−９",
+    "lat": 35.0894744,
+    "lng": 139.0794494,
+    "youtube_id": "8wK5c2HUoRo",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-桜井商店_ひもの店-20240805",
+    "name": "桜井商店 ひもの店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田本町４−３",
+    "lat": 35.1025312,
+    "lng": 139.0802967,
+    "youtube_id": "8wK5c2HUoRo",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-いいらまんじゅう_阿部商店-20240805",
+    "name": "いいらまんじゅう 阿部商店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町５−７",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "8wK5c2HUoRo",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-丸高名産店-20240805",
+    "name": "丸高名産店",
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町４−１",
+    "lat": 35.1033354,
+    "lng": 139.0782748,
+    "youtube_id": "8wK5c2HUoRo",
+    "source_video_title": "",
+    "visited_date": "2024-08-05",
+    "members": [
+      "蟹沢萌子",
+      "河口夏音",
+      "菅波美玲",
+      "冨田菜々風"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-芋ぴっぴ京都祇園店-20240804",
+    "name": "芋ぴっぴ。京都祇園店",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市東山区祇園町南側５２４ ギオン和喜ビル 2階",
+    "lat": 35.0037,
+    "lng": 135.7775,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-錦まるん-20240804",
+    "name": "錦まるん",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市中京区東魚屋町 錦小路柳馬場東入東魚屋180",
+    "lat": 35.0038,
+    "lng": 135.7657,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "equal_love-いっかくじゅう_四条新町店-20240804",
+    "name": "いっかくじゅう 四条新町店",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市中京区新町通錦小路下ル小結棚町４３５ ジェイブライド四条烏丸1F",
+    "lat": 35.0038,
+    "lng": 135.7657,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
+  },
+  {
+    "id": "notme-レストラン嵐山_売店-20240804",
+    "name": "レストラン嵐山 売店",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市右京区嵯峨天龍寺造路町３３",
+    "lat": 35.0168,
+    "lng": 135.6727,
+    "youtube_id": "ltMYDQsJ5YQ",
+    "source_video_title": "",
+    "visited_date": "2024-08-04",
+    "members": [
+      "尾木波菜",
+      "菅波美玲",
+      "谷崎早耶"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": []
   }
 ]
