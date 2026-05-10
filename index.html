@@ -38,7 +38,6 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
         </div>
       </div>
     </div>
-
     <div class="hero__collage" aria-hidden="true">
       <div class="polaroid polaroid--a">
         <div class="washi-tape washi-tape--butter"></div>
@@ -73,128 +72,80 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
         <h2 class="section-title">推しが訪れた<span class="txt-berry">最新スポット</span></h2>
         <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
       </div>
-      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">すべてのスポットを見る →</a>
+      <div class="feed-tabs">
+        <button class="feed-tab active" data-mode="recent">新着</button>
+        <button class="feed-tab" data-mode="video">動画あり</button>
+      </div>
     </div>
     <div class="feed-grid" id="latest-feed"></div>
+    <div class="landing-more">
+      <a href="{{ '/shops/' | relative_url }}" class="btn--outline">すべてのスポットを見る →</a>
+    </div>
   </div>
 </section>
 
-<!-- SECTION 02: グループで探す -->
+<!-- SECTION 02: グループランキング（JS） -->
 <section class="landing-section landing-section--alt" id="groups">
   <div class="container">
     <div class="section-header-row">
       <div class="section-header">
-        <p class="section-eyebrow">SECTION 02 / GROUP</p>
-        <h2 class="section-title">グループで<span class="txt-berry">さがす</span></h2>
-        <p class="section-desc">推しのグループを選んで、ゆかりのお店を探そう</p>
+        <p class="section-eyebrow">SECTION 02 / RANKING</p>
+        <h2 class="section-title">グループ<span class="txt-berry">ランキング</span></h2>
+        <p class="section-desc">収録スポット数の多い順。推しを選んで絞り込もう</p>
       </div>
       <a href="{{ '/shops/' | relative_url }}" class="section-more-link">全スポットを見る →</a>
     </div>
-    <div class="group-cards">
-      <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="--group-accent:#e8537a">
-        <img src="{{ '/assets/images/groups/yonino.jpg' | relative_url }}" alt="よにのちゃんねる" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">よにのちゃんねる</span>
-          <span class="group-card__count">97 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=sixtones' | relative_url }}" class="group-card" style="--group-accent:#7c3aed">
-        <img src="{{ '/assets/images/groups/sixtones.jpg' | relative_url }}" alt="SixTONES" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">SixTONES</span>
-          <span class="group-card__count">49 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=snowman' | relative_url }}" class="group-card" style="--group-accent:#3b82f6">
-        <img src="{{ '/assets/images/groups/snowman.jpg' | relative_url }}" alt="Snow Man" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">Snow Man</span>
-          <span class="group-card__count">37 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=kamenashi' | relative_url }}" class="group-card" style="--group-accent:#059669">
-        <img src="{{ '/assets/images/groups/kamenashi.jpg' | relative_url }}" alt="亀梨和也" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">亀梨和也</span>
-          <span class="group-card__count">26 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=naniwa' | relative_url }}" class="group-card" style="--group-accent:#f97316">
-        <img src="{{ '/assets/images/groups/naniwa.jpg' | relative_url }}" alt="なにわ男子" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">なにわ男子</span>
-          <span class="group-card__count">10 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=equal_love' | relative_url }}" class="group-card" style="--group-accent:#f43f5e">
-        <img src="{{ '/assets/images/groups/equal_love.jpg' | relative_url }}" alt="イコラブ" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">イコラブ</span>
-          <span class="group-card__count">10 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=nogizaka46' | relative_url }}" class="group-card" style="--group-accent:#0ea5e9">
-        <img src="{{ '/assets/images/groups/nogizaka46.jpg' | relative_url }}" alt="乃木坂46" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">乃木坂46</span>
-          <span class="group-card__count">4 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=hinatazaka46' | relative_url }}" class="group-card" style="--group-accent:#f59e0b">
-        <img src="{{ '/assets/images/groups/hinatazaka46.jpg' | relative_url }}" alt="日向坂46" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">日向坂46</span>
-          <span class="group-card__count">3 SPOTS</span>
-        </div>
-      </a>
-      <a href="{{ '/shops/?group=sakurazaka46' | relative_url }}" class="group-card" style="--group-accent:#e11d48">
-        <img src="{{ '/assets/images/groups/sakurazaka46.jpg' | relative_url }}" alt="櫻坂46" class="group-card__img">
-        <div class="group-card__info">
-          <span class="group-card__name">櫻坂46</span>
-          <span class="group-card__count">3 SPOTS</span>
-        </div>
-      </a>
+    <div class="ranking-grid" id="group-ranking">
+      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
     </div>
   </div>
 </section>
 
-<!-- SECTION 03: ジャンルで探す -->
+<!-- SECTION 03: ジャンルランキング（JS） -->
 <section class="landing-section">
   <div class="container">
     <div class="section-header">
       <p class="section-eyebrow">SECTION 03 / GENRE</p>
-      <h2 class="section-title">ジャンルで<span class="txt-highlight">さがす</span></h2>
-      <p class="section-desc">食べたいものから聖地巡礼スポットを見つける</p>
+      <h2 class="section-title">ジャンル<span class="txt-highlight">ランキング</span></h2>
+      <p class="section-desc">収録スポット数の多いジャンルから探す</p>
     </div>
-    <div class="genre-chips">
-      <a href="{{ '/shops/?genre=カフェ' | relative_url }}"    class="genre-chip"># カフェ</a>
-      <a href="{{ '/shops/?genre=ラーメン' | relative_url }}"  class="genre-chip"># ラーメン</a>
-      <a href="{{ '/shops/?genre=焼肉' | relative_url }}"      class="genre-chip"># 焼肉</a>
-      <a href="{{ '/shops/?genre=和食' | relative_url }}"      class="genre-chip"># 和食</a>
-      <a href="{{ '/shops/?genre=食事' | relative_url }}"      class="genre-chip"># 食事</a>
-      <a href="{{ '/shops/?genre=居酒屋' | relative_url }}"    class="genre-chip"># 居酒屋</a>
-      <a href="{{ '/shops/?genre=スイーツ' | relative_url }}"  class="genre-chip"># スイーツ</a>
-      <a href="{{ '/shops/?genre=中華' | relative_url }}"      class="genre-chip"># 中華</a>
-      <a href="{{ '/shops/?genre=もんじゃ' | relative_url }}"  class="genre-chip"># もんじゃ</a>
-      <a href="{{ '/shops/?genre=寿司' | relative_url }}"      class="genre-chip"># 寿司</a>
+    <div class="genre-chips" id="genre-chips">
+      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
     </div>
   </div>
 </section>
 
-<!-- SECTION 04: MAP誘導 -->
+<!-- SECTION 04: エリアランキング（JS） -->
 <section class="landing-section landing-section--alt">
+  <div class="container">
+    <div class="section-header-row">
+      <div class="section-header">
+        <p class="section-eyebrow">SECTION 04 / AREA</p>
+        <h2 class="section-title">エリア<span class="txt-berry">ランキング</span></h2>
+        <p class="section-desc">都道府県別の収録スポット数</p>
+      </div>
+      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">地図で探す →</a>
+    </div>
+    <div class="area-ranking" id="area-ranking">
+      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 05: MAP誘導 -->
+<section class="landing-section">
   <div class="container">
     <div class="map-cta__card">
       <div class="map-cta__text">
-        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 04 / MAP</p>
+        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 05 / MAP</p>
         <h2 class="section-title">地図で<span class="txt-highlight">聖地めぐり</span></h2>
         <p class="section-desc">推しごとにピンの色が変わる。タップして聖地の詳細を確認しよう。</p>
         <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す ↗</a>
       </div>
       <div class="map-pin-legend">
         <div class="pin-item"><span class="pin-dot" style="background:#e8537a"></span>よにのちゃんねる</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#3b82f6"></span>Snow Man</div>
         <div class="pin-item"><span class="pin-dot" style="background:#7c3aed"></span>SixTONES</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#3b82f6"></span>Snow Man</div>
         <div class="pin-item"><span class="pin-dot" style="background:#059669"></span>亀梨和也</div>
         <div class="pin-item"><span class="pin-dot" style="background:#f97316"></span>なにわ男子</div>
         <div class="pin-item"><span class="pin-dot" style="background:#f43f5e"></span>イコラブ</div>
@@ -203,12 +154,12 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- SECTION 05: 特集記事 -->
+<!-- SECTION 06: 特集記事 -->
 {% if site.posts.size > 0 %}
-<section class="landing-section">
+<section class="landing-section landing-section--alt">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 05 / ARTICLES</p>
+      <p class="section-eyebrow">SECTION 06 / ARTICLES</p>
       <h2 class="section-title">推しゆかりの<span class="txt-berry">特集記事</span></h2>
       <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
     </div>
@@ -247,11 +198,11 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 </section>
 {% endif %}
 
-<!-- SECTION 06: 使い方 -->
-<section class="landing-section landing-section--alt">
+<!-- SECTION 07: 使い方 -->
+<section class="landing-section">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 06 / HOW TO</p>
+      <p class="section-eyebrow">SECTION 07 / HOW TO</p>
       <h2 class="section-title">3ステップで<span class="txt-highlight">巡礼</span>へ</h2>
     </div>
     <div class="howto-steps">
@@ -274,7 +225,7 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- JS: 新着スポットフィード -->
+<!-- JS: ランキング・フィード動的レンダリング -->
 <script>
 (function () {
   var BASE = window.SITE_BASEURL || '';
@@ -284,6 +235,11 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     nogizaka46:'乃木坂46', hinatazaka46:'日向坂46', sakurazaka46:'櫻坂46'
   };
   var COLORS = {
+    yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed',
+    naniwa:'#f97316', kamenashi:'#059669', equal_love:'#f43f5e',
+    nogizaka46:'#0ea5e9', hinatazaka46:'#f59e0b', sakurazaka46:'#e11d48'
+  };
+  var GRADS = {
     yonino:'linear-gradient(135deg,#e8537a,#f7a1b5)',
     snowman:'linear-gradient(135deg,#3b82f6,#93c5fd)',
     sixtones:'linear-gradient(135deg,#7c3aed,#a78bfa)',
@@ -302,48 +258,132 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     { c:'#FFD4DE', s:'top:-7px;left:35px;transform:rotate(-9deg)' },
     { c:'#BFE3CF', s:'top:-8px;right:40px;left:auto;transform:rotate(7deg)' }
   ];
+
   function esc(s) {
     return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
-  function render(shops) {
-    var sorted = shops.slice().sort(function (a, b) {
-      if (a.youtube_id && !b.youtube_id) return -1;
-      if (!a.youtube_id && b.youtube_id) return 1;
+
+  // ── フィード ──
+  function buildFeedCard(shop, i) {
+    var group   = (shop.groups || [])[0] || shop.group || '';
+    var label   = LABELS[group] || group;
+    var grad    = GRADS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
+    var tape    = TAPES[i % TAPES.length];
+    var iconUrl = group ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
+    var imgHtml = shop.youtube_id
+      ? '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
+      : '<div class="feed-card__banner" style="background:' + grad + '">'
+        + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
+        + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
+        + '</div>';
+    var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
+    return '<a class="feed-card" href="' + BASE + '/shops/?group=' + esc(group) + '" title="' + esc(shop.name) + '">'
+      + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
+      + imgHtml
+      + '<div class="feed-card__body">'
+      + '<p class="feed-card__group">' + esc(label) + '</p>'
+      + '<p class="feed-card__name">' + esc(shop.name) + '</p>'
+      + '<p class="feed-card__area">' + esc(area) + '</p>'
+      + '<p class="feed-card__cta">行きたい →</p>'
+      + '</div></a>';
+  }
+
+  function renderFeed(shops, mode) {
+    var list = mode === 'video'
+      ? shops.filter(function(s) { return !!s.youtube_id; })
+      : shops.slice();
+    list.sort(function(a, b) {
       return (b.visited_date || '').localeCompare(a.visited_date || '');
-    }).slice(0, 6);
-
+    });
+    list = list.slice(0, 6);
     var grid = document.getElementById('latest-feed');
-    if (!grid) return;
+    if (grid) grid.innerHTML = list.map(buildFeedCard).join('');
+  }
 
-    grid.innerHTML = sorted.map(function (shop, i) {
-      var group   = (shop.groups || [])[0] || shop.group || '';
-      var label   = LABELS[group] || group;
-      var grad    = COLORS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
-      var tape    = TAPES[i % TAPES.length];
-      var iconUrl = group ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
-      var imgHtml = shop.youtube_id
-        ? '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
-        : '<div class="feed-card__banner" style="background:' + grad + '">'
-          + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
-          + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
-          + '</div>';
-      var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-      return '<a class="feed-card" href="' + BASE + '/shops/?group=' + esc(group) + '" title="' + esc(shop.name) + '">'
-        + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
-        + imgHtml
-        + '<div class="feed-card__body">'
-        + '<p class="feed-card__group">' + esc(label) + '</p>'
-        + '<p class="feed-card__name">' + esc(shop.name) + '</p>'
-        + '<p class="feed-card__area">' + esc(area) + '</p>'
-        + '<p class="feed-card__cta">行きたい →</p>'
-        + '</div></a>';
+  // ── グループランキング ──
+  function renderGroupRanking(shops) {
+    var counts = {};
+    shops.forEach(function(s) {
+      ((s.groups && s.groups.length ? s.groups : (s.group ? [s.group] : []))).forEach(function(g) {
+        counts[g] = (counts[g] || 0) + 1;
+      });
+    });
+    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
+    var grid = document.getElementById('group-ranking');
+    if (!grid) return;
+    grid.innerHTML = sorted.map(function(group, i) {
+      var label = LABELS[group] || group;
+      var color = COLORS[group] || '#c4b5fd';
+      var rank  = String(i + 1).padStart(2, '0');
+      var cls   = i < 3 ? ' oshi-card--top' + (i + 1) : '';
+      var icon  = BASE + '/assets/images/groups/' + group + '.jpg';
+      return '<a class="oshi-card' + cls + '" href="' + BASE + '/shops/?group=' + esc(group) + '" style="--oshi-color:' + color + '">'
+        + '<div class="oshi-card__rank">' + rank + '</div>'
+        + '<img class="oshi-card__img" src="' + esc(icon) + '" alt="' + esc(label) + '" onerror="this.style.opacity=\'0\'">'
+        + '<div class="oshi-card__name">' + esc(label) + '</div>'
+        + '<div class="oshi-card__count">訪問店 ' + counts[group] + ' 件</div>'
+        + '</a>';
     }).join('');
   }
 
+  // ── ジャンルランキング ──
+  function renderGenreChips(shops) {
+    var counts = {};
+    shops.forEach(function(s) { if (s.genre) counts[s.genre] = (counts[s.genre] || 0) + 1; });
+    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
+    var el = document.getElementById('genre-chips');
+    if (!el) return;
+    el.innerHTML = sorted.map(function(genre, i) {
+      return '<a href="' + BASE + '/shops/?genre=' + esc(genre) + '" class="genre-chip">'
+        + '# ' + esc(genre)
+        + ' <span class="genre-chip__count">' + counts[genre] + '</span>'
+        + '</a>';
+    }).join('');
+  }
+
+  // ── エリアランキング ──
+  function renderAreaRanking(shops) {
+    var counts = {};
+    shops.forEach(function(s) { if (s.prefecture) counts[s.prefecture] = (counts[s.prefecture] || 0) + 1; });
+    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; }).slice(0, 10);
+    var max = counts[sorted[0]] || 1;
+    var el = document.getElementById('area-ranking');
+    if (!el) return;
+    el.innerHTML = sorted.map(function(pref, i) {
+      var pct  = Math.round(counts[pref] / max * 100);
+      var rank = String(i + 1).padStart(2, '0');
+      var cls  = i < 3 ? ' area-row__rank--top' : '';
+      return '<div class="area-row">'
+        + '<span class="area-row__rank' + cls + '">' + rank + '</span>'
+        + '<span class="area-row__name">' + esc(pref) + '</span>'
+        + '<div class="area-row__bar-wrap"><div class="area-row__bar-fill" style="width:' + pct + '%"></div></div>'
+        + '<span class="area-row__count">' + counts[pref] + '件</span>'
+        + '</div>';
+    }).join('');
+  }
+
+  // ── フィードタブ ──
+  function initFeedTabs(shops) {
+    document.querySelectorAll('.feed-tab').forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        document.querySelectorAll('.feed-tab').forEach(function(t) { t.classList.remove('active'); });
+        tab.classList.add('active');
+        renderFeed(shops, tab.dataset.mode);
+      });
+    });
+  }
+
+  // ── エントリーポイント ──
   fetch(BASE + '/data/shops.json')
-    .then(function (r) { return r.json(); })
-    .then(render)
-    .catch(function () {
+    .then(function(r) { return r.json(); })
+    .then(function(shops) {
+      renderFeed(shops, 'recent');
+      renderGroupRanking(shops);
+      renderGenreChips(shops);
+      renderAreaRanking(shops);
+      initFeedTabs(shops);
+    })
+    .catch(function() {
       var s = document.getElementById('latest-feed-section');
       if (s) s.style.display = 'none';
     });

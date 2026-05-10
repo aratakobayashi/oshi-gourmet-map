@@ -1484,6 +1484,108 @@ body {
 }
 .article-card__cta:hover { text-decoration: underline; color: var(--c-berry); }
 
+/* ── Feed Tabs ── */
+.feed-tabs {
+  display: flex;
+  gap: 4px;
+  background: var(--c-white);
+  border-radius: var(--r-pill);
+  padding: 4px;
+  border: var(--bd-soft);
+  height: fit-content;
+  flex-shrink: 0;
+}
+.feed-tab {
+  font-family: var(--f-round);
+  font-weight: 700;
+  font-size: 12px;
+  padding: 7px 16px;
+  border-radius: var(--r-pill);
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  color: var(--c-ink);
+  transition: background .15s, color .15s;
+}
+.feed-tab.active { background: var(--c-berry); color: var(--c-white); }
+.feed-tab:not(.active):hover { background: var(--c-blush-soft); }
+
+/* ── Group Ranking Cards ── */
+.ranking-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.oshi-card {
+  background: var(--c-white);
+  border: var(--bd-soft);
+  border-radius: var(--r-lg);
+  padding: 20px 16px 16px;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  box-shadow: var(--sh-card);
+  display: block;
+  transition: transform .18s, box-shadow .18s;
+}
+.oshi-card:nth-child(2n)   { transform: rotate(-0.7deg); }
+.oshi-card:nth-child(3n+1) { transform: rotate(0.5deg); }
+.oshi-card:hover { transform: translateY(-3px) rotate(0); text-decoration: none; box-shadow: 4px 8px 24px rgba(42,27,35,.14); }
+.oshi-card__rank {
+  position: absolute; top: 10px; left: 12px;
+  font-family: var(--f-mono); font-size: 11px; font-weight: 700;
+  color: var(--c-muted); letter-spacing: .06em;
+}
+.oshi-card--top1 .oshi-card__rank { color: #B8860B; }
+.oshi-card--top2 .oshi-card__rank { color: #888; }
+.oshi-card--top3 .oshi-card__rank { color: #A0522D; }
+.oshi-card__img {
+  width: 64px; height: 64px; border-radius: 50%; object-fit: cover;
+  display: block; margin: 0 auto 10px;
+  border: 3px solid var(--c-white);
+  box-shadow: 0 0 0 2px var(--oshi-color, var(--c-blush));
+}
+.oshi-card__name {
+  font-family: var(--f-serif); font-weight: 900; font-size: 13px;
+  color: var(--c-ink); margin-bottom: 8px; line-height: 1.3;
+}
+.oshi-card__count {
+  font-family: var(--f-round); font-weight: 700; font-size: 12px;
+  color: var(--c-berry); padding-top: 8px; border-top: var(--bd-dashed);
+}
+
+/* ── Genre chip count badge ── */
+.genre-chip__count {
+  display: inline-block;
+  background: var(--c-blush-soft); color: var(--c-muted);
+  font-family: var(--f-mono); font-size: 10px;
+  padding: 1px 6px; border-radius: 99px;
+  margin-left: 4px; vertical-align: middle;
+}
+
+/* ── Area Ranking ── */
+.area-ranking { display: flex; flex-direction: column; gap: 10px; }
+.area-row {
+  display: grid;
+  grid-template-columns: 28px 110px 1fr 44px;
+  align-items: center;
+  gap: 14px;
+}
+.area-row__rank {
+  font-family: var(--f-mono); font-size: 11px; font-weight: 700;
+  color: var(--c-muted); text-align: center; letter-spacing: .06em;
+}
+.area-row__rank--top { color: var(--c-berry); }
+.area-row__name { font-family: var(--f-round); font-weight: 700; font-size: 13px; color: var(--c-ink); }
+.area-row__bar-wrap { background: var(--c-blush-soft); border-radius: 99px; height: 8px; overflow: hidden; }
+.area-row__bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--c-berry), var(--c-blush));
+  border-radius: 99px;
+}
+.area-row__count { font-family: var(--f-mono); font-size: 11px; color: var(--c-muted); text-align: right; white-space: nowrap; }
+
 /* ── Responsive v2 ── */
 @media (max-width: 768px) {
   .section-title { font-size: 1.85rem; }
@@ -1492,10 +1594,19 @@ body {
   .feed-card:nth-child(n) { transform: rotate(0); }
   .map-cta__card { flex-direction: column; padding: 28px 24px; gap: 24px; }
   .map-pin-legend { flex-direction: row; flex-wrap: wrap; gap: 10px 20px; }
+  .ranking-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .oshi-card:nth-child(n) { transform: rotate(0); }
+  .area-row { grid-template-columns: 24px 84px 1fr 36px; gap: 8px; }
+  .area-row__name { font-size: 12px; }
+}
+@media (max-width: 480px) {
+  .area-row { grid-template-columns: 22px 72px 1fr; }
+  .area-row__count { display: none; }
 }
 @media (min-width: 600px) and (max-width: 1023px) {
   .feed-grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
   .feed-card:nth-child(5), .feed-card:nth-child(6) { display: none; }
   .feed-card:nth-child(n) { transform: rotate(0); }
   .map-cta__card { gap: 32px; padding: 32px 36px; }
+  .ranking-grid { grid-template-columns: repeat(3, 1fr); }
 }
