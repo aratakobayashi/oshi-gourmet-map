@@ -84,60 +84,12 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- SECTION 02: グループランキング（JS） -->
-<section class="landing-section landing-section--alt" id="groups">
-  <div class="container">
-    <div class="section-header-row">
-      <div class="section-header">
-        <p class="section-eyebrow">SECTION 02 / RANKING</p>
-        <h2 class="section-title">グループ<span class="txt-berry">ランキング</span></h2>
-        <p class="section-desc">収録スポット数の多い順。推しを選んで絞り込もう</p>
-      </div>
-      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">全スポットを見る →</a>
-    </div>
-    <div class="ranking-grid" id="group-ranking">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 03: ジャンルランキング（JS） -->
-<section class="landing-section">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 03 / GENRE</p>
-      <h2 class="section-title">ジャンル<span class="txt-highlight">ランキング</span></h2>
-      <p class="section-desc">収録スポット数の多いジャンルから探す</p>
-    </div>
-    <div class="genre-chips" id="genre-chips">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 04: エリアランキング（JS） -->
-<section class="landing-section landing-section--alt">
-  <div class="container">
-    <div class="section-header-row">
-      <div class="section-header">
-        <p class="section-eyebrow">SECTION 04 / AREA</p>
-        <h2 class="section-title">エリア<span class="txt-berry">ランキング</span></h2>
-        <p class="section-desc">都道府県別の収録スポット数</p>
-      </div>
-      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">地図で探す →</a>
-    </div>
-    <div class="area-ranking" id="area-ranking">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 05: MAP誘導 -->
+<!-- SECTION 02: MAP誘導 -->
 <section class="landing-section">
   <div class="container">
     <div class="map-cta__card">
       <div class="map-cta__text">
-        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 05 / MAP</p>
+        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 02 / MAP</p>
         <h2 class="section-title">地図で<span class="txt-highlight">聖地めぐり</span></h2>
         <p class="section-desc">推しごとにピンの色が変わる。タップして聖地の詳細を確認しよう。</p>
         <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す ↗</a>
@@ -159,7 +111,7 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 <section class="landing-section landing-section--alt">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 06 / ARTICLES</p>
+      <p class="section-eyebrow">SECTION 03 / ARTICLES</p>
       <h2 class="section-title">推しゆかりの<span class="txt-berry">特集記事</span></h2>
       <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
     </div>
@@ -202,7 +154,7 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 <section class="landing-section">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 07 / HOW TO</p>
+      <p class="section-eyebrow">SECTION 04 / HOW TO</p>
       <h2 class="section-title">3ステップで<span class="txt-highlight">巡礼</span>へ</h2>
     </div>
     <div class="howto-steps">
@@ -225,7 +177,7 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- JS: ランキング・フィード動的レンダリング -->
+<!-- JS: フィード動的レンダリング -->
 <script>
 (function () {
   var BASE = window.SITE_BASEURL || '';
@@ -233,11 +185,6 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     yonino:'よにのちゃんねる', snowman:'Snow Man', sixtones:'SixTONES',
     naniwa:'なにわ男子', kamenashi:'亀梨和也', equal_love:'イコラブ',
     nogizaka46:'乃木坂46', hinatazaka46:'日向坂46', sakurazaka46:'櫻坂46'
-  };
-  var COLORS = {
-    yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed',
-    naniwa:'#f97316', kamenashi:'#059669', equal_love:'#f43f5e',
-    nogizaka46:'#0ea5e9', hinatazaka46:'#f59e0b', sakurazaka46:'#e11d48'
   };
   var GRADS = {
     yonino:'linear-gradient(135deg,#e8537a,#f7a1b5)',
@@ -263,7 +210,6 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  // ── フィード ──
   function buildFeedCard(shop, i) {
     var group   = (shop.groups || [])[0] || shop.group || '';
     var label   = LABELS[group] || group;
@@ -300,69 +246,6 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     if (grid) grid.innerHTML = list.map(buildFeedCard).join('');
   }
 
-  // ── グループランキング ──
-  function renderGroupRanking(shops) {
-    var counts = {};
-    shops.forEach(function(s) {
-      ((s.groups && s.groups.length ? s.groups : (s.group ? [s.group] : []))).forEach(function(g) {
-        counts[g] = (counts[g] || 0) + 1;
-      });
-    });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
-    var grid = document.getElementById('group-ranking');
-    if (!grid) return;
-    grid.innerHTML = sorted.map(function(group, i) {
-      var label = LABELS[group] || group;
-      var color = COLORS[group] || '#c4b5fd';
-      var rank  = String(i + 1).padStart(2, '0');
-      var cls   = i < 3 ? ' oshi-card--top' + (i + 1) : '';
-      var icon  = BASE + '/assets/images/groups/' + group + '.jpg';
-      return '<a class="oshi-card' + cls + '" href="' + BASE + '/shops/?group=' + esc(group) + '" style="--oshi-color:' + color + '">'
-        + '<div class="oshi-card__rank">' + rank + '</div>'
-        + '<img class="oshi-card__img" src="' + esc(icon) + '" alt="' + esc(label) + '" onerror="this.style.opacity=\'0\'">'
-        + '<div class="oshi-card__name">' + esc(label) + '</div>'
-        + '<div class="oshi-card__count">訪問店 ' + counts[group] + ' 件</div>'
-        + '</a>';
-    }).join('');
-  }
-
-  // ── ジャンルランキング ──
-  function renderGenreChips(shops) {
-    var counts = {};
-    shops.forEach(function(s) { if (s.genre) counts[s.genre] = (counts[s.genre] || 0) + 1; });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
-    var el = document.getElementById('genre-chips');
-    if (!el) return;
-    el.innerHTML = sorted.map(function(genre, i) {
-      return '<a href="' + BASE + '/shops/?genre=' + esc(genre) + '" class="genre-chip">'
-        + '# ' + esc(genre)
-        + ' <span class="genre-chip__count">' + counts[genre] + '</span>'
-        + '</a>';
-    }).join('');
-  }
-
-  // ── エリアランキング ──
-  function renderAreaRanking(shops) {
-    var counts = {};
-    shops.forEach(function(s) { if (s.prefecture) counts[s.prefecture] = (counts[s.prefecture] || 0) + 1; });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; }).slice(0, 10);
-    var max = counts[sorted[0]] || 1;
-    var el = document.getElementById('area-ranking');
-    if (!el) return;
-    el.innerHTML = sorted.map(function(pref, i) {
-      var pct  = Math.round(counts[pref] / max * 100);
-      var rank = String(i + 1).padStart(2, '0');
-      var cls  = i < 3 ? ' area-row__rank--top' : '';
-      return '<div class="area-row">'
-        + '<span class="area-row__rank' + cls + '">' + rank + '</span>'
-        + '<span class="area-row__name">' + esc(pref) + '</span>'
-        + '<div class="area-row__bar-wrap"><div class="area-row__bar-fill" style="width:' + pct + '%"></div></div>'
-        + '<span class="area-row__count">' + counts[pref] + '件</span>'
-        + '</div>';
-    }).join('');
-  }
-
-  // ── フィードタブ ──
   function initFeedTabs(shops) {
     document.querySelectorAll('.feed-tab').forEach(function(tab) {
       tab.addEventListener('click', function() {
@@ -373,14 +256,10 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     });
   }
 
-  // ── エントリーポイント ──
   fetch(BASE + '/data/shops.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       renderFeed(shops, 'recent');
-      renderGroupRanking(shops);
-      renderGenreChips(shops);
-      renderAreaRanking(shops);
       initFeedTabs(shops);
     })
     .catch(function() {

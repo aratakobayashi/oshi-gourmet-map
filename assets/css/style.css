@@ -1055,6 +1055,29 @@ body {
   background: var(--c-cream);
 }
 .landing-section--alt { background: var(--c-paper); }
+
+/* ── Page Hero (ランキング・記事一覧など) ── */
+.page-hero {
+  background: var(--c-cream);
+  border-bottom: var(--bd-dashed);
+  padding: 48px 0 40px;
+  text-align: center;
+}
+.page-hero__inner { max-width: 640px; margin: 0 auto; }
+.page-hero__title {
+  font-family: var(--f-serif);
+  font-weight: 900;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  color: var(--c-ink);
+  margin: 10px 0 12px;
+  line-height: 1.3;
+}
+.page-hero__desc {
+  font-size: .92rem;
+  color: var(--c-muted);
+  line-height: 1.7;
+}
+
 .section-header { margin-bottom: 28px; }
 .section-eyebrow {
   font-family: var(--f-mono);
