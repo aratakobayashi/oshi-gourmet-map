@@ -1,0 +1,422 @@
+[
+  {
+    "name": "一山いけす",
+    "genre": "寿司",
+    "prefecture": "千葉県",
+    "city": "銚子市黒生町",
+    "address": "千葉県銚子市黒生町7387-5",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "source_video_url": "",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E5%B1%B1%E3%81%84%E3%81%91%E3%81%99",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E5%B1%B1%E3%81%84%E3%81%91%E3%81%99"
+      }
+    ]
+  },
+  {
+    "name": "元祖今川焼 さのや",
+    "genre": "スイーツ",
+    "prefecture": "千葉県",
+    "city": "銚子市飯沼町",
+    "address": "千葉県銚子市飯沼町6-7",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "source_video_url": "",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%85%83%E7%A5%96%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%95%E3%81%AE%E3%82%84",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%85%83%E7%A5%96%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%95%E3%81%AE%E3%82%84"
+      }
+    ]
+  },
+  {
+    "name": "お食事処ゆうなぎ",
+    "genre": "ラーメン",
+    "prefecture": "千葉県",
+    "city": "銚子市川口町",
+    "address": "千葉県銚子市川口町2-6528-2",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "source_video_url": "",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E"
+      }
+    ]
+  },
+  {
+    "name": "POPOCATE",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "日向坂で会いましょう",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=POPOCATE",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=POPOCATE"
+      }
+    ]
+  },
+  {
+    "name": "Boulangerie Sudo",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "日向坂で会いましょう",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "佐々木美玲"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Boulangerie%20Sudo",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Boulangerie%20Sudo"
+      }
+    ]
+  },
+  {
+    "name": "ル・ポミエ",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "日向坂で会いましょう",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%9F%E3%82%A8",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%9F%E3%82%A8"
+      }
+    ]
+  },
+  {
+    "name": "ストロベリーマニア原宿店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "日向の休日",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "東村芽依"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E5%8E%9F%E5%AE%BF%E5%BA%97",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E5%8E%9F%E5%AE%BF%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "ザクリ珈琲",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "日向の休日",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "宮田愛萌"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B6%E3%82%AF%E3%83%AA%E7%8F%88%E7%90%B2",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%B6%E3%82%AF%E3%83%AA%E7%8F%88%E7%90%B2"
+      }
+    ]
+  },
+  {
+    "name": "鉄板焼き 玄 KURO",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "自撮りTV",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "佐々木美玲"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20%E7%8E%84%20KURO",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20%E7%8E%84%20KURO"
+      }
+    ]
+  },
+  {
+    "name": "CuBAR LOUNGE",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "自撮りTV",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=CuBAR%20LOUNGE",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=CuBAR%20LOUNGE"
+      }
+    ]
+  },
+  {
+    "name": "プラスヴィーガニック自由が丘",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "自撮りTV",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%97%E3%83%A9%E3%82%B9%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%97%E3%83%A9%E3%82%B9%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98"
+      }
+    ]
+  },
+  {
+    "name": "San Francisco Peaks",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "あくびLetter",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks"
+      }
+    ]
+  },
+  {
+    "name": "タナゴコロータス",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "あくびLetter",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%BF%E3%83%8A%E3%82%B4%E3%82%B3%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%BF%E3%83%8A%E3%82%B4%E3%82%B3%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9"
+      }
+    ]
+  }
+]

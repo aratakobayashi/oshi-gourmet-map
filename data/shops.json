@@ -8530,5 +8530,130 @@
         "url": "https://www.hotpepper.jp/strJ001233001/?vos=nhppvccp99002"
       }
     ]
+  },
+  {
+    "id": "hinatazaka46-一山いけす-20200405",
+    "name": "一山いけす",
+    "genre": "寿司",
+    "prefecture": "千葉県",
+    "city": "銚子市",
+    "address": "千葉県銚子市黒生町7387-5",
+    "lat": 35.7309097,
+    "lng": 140.8667281,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E5%B1%B1%E3%81%84%E3%81%91%E3%81%99",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E5%B1%B1%E3%81%84%E3%81%91%E3%81%99"
+      }
+    ]
+  },
+  {
+    "id": "hinatazaka46-元祖今川焼_さのや-20200405",
+    "name": "元祖今川焼 さのや",
+    "genre": "スイーツ",
+    "prefecture": "千葉県",
+    "city": "銚子市",
+    "address": "千葉県銚子市飯沼町6-7",
+    "lat": 35.7331199,
+    "lng": 140.8399878,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%85%83%E7%A5%96%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%95%E3%81%AE%E3%82%84",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%85%83%E7%A5%96%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%95%E3%81%AE%E3%82%84"
+      }
+    ]
+  },
+  {
+    "id": "hinatazaka46-お食事処ゆうなぎ-20200405",
+    "name": "お食事処ゆうなぎ",
+    "genre": "ラーメン",
+    "prefecture": "千葉県",
+    "city": "銚子市",
+    "address": "千葉県銚子市川口町2-6528-2",
+    "lat": 35.740998,
+    "lng": 140.8648586,
+    "youtube_id": "",
+    "source_video_title": "バナナマンのせっかくグルメ",
+    "visited_date": "2020-04-05",
+    "members": [
+      "佐々木美玲",
+      "丹生明里"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E"
+      }
+    ]
+  },
+  {
+    "id": "hinatazaka46-san_francisco_peaks-",
+    "name": "San Francisco Peaks",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6720008,
+    "lng": 139.7092408,
+    "youtube_id": "",
+    "source_video_title": "あくびLetter",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks"
+      }
+    ]
   }
 ]

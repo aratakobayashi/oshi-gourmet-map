@@ -109,6 +109,14 @@ def main():
             if not lat or not lng:
                 # 「店名 日本」で再試行
                 lat, lng = geocode_query(f'{name} 日本')
+            if not lat or not lng:
+                # 「都道府県+区名+店名」で再試行
+                pref = shop.get('prefecture', '')
+                city = shop.get('city', '')
+                area = (pref + city).strip()
+                if area:
+                    lat, lng = geocode_query(f'{area} {name}')
+                    time.sleep(1)
 
         if lat and lng:
             shop['lat'] = lat
