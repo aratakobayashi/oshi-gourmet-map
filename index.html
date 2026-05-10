@@ -3,6 +3,7 @@ layout: default
 title: 推しグルメ巡礼MAP
 description: 推しが訪れたグルメスポットを地図で巡礼しよう
 ---
+<script>window.SITE_BASEURL = '{{ site.baseurl }}';</script>
 
 <!-- ヒーロー -->
 <section class="hero">
@@ -63,13 +64,31 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- グループで探す -->
-<section class="landing-section" id="groups">
+<!-- SECTION 01: 新着スポット（JS） -->
+<section class="landing-section" id="latest-feed-section">
   <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 01 / GROUP</p>
-      <h2 class="section-title">グループで<span class="txt-berry">さがす</span></h2>
-      <p class="section-desc">推しのグループを選んで、ゆかりのお店を探そう</p>
+    <div class="section-header-row">
+      <div class="section-header">
+        <p class="section-eyebrow">SECTION 01 / FEED</p>
+        <h2 class="section-title">推しが訪れた<span class="txt-berry">最新スポット</span></h2>
+        <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
+      </div>
+      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">すべてのスポットを見る →</a>
+    </div>
+    <div class="feed-grid" id="latest-feed"></div>
+  </div>
+</section>
+
+<!-- SECTION 02: グループで探す -->
+<section class="landing-section landing-section--alt" id="groups">
+  <div class="container">
+    <div class="section-header-row">
+      <div class="section-header">
+        <p class="section-eyebrow">SECTION 02 / GROUP</p>
+        <h2 class="section-title">グループで<span class="txt-berry">さがす</span></h2>
+        <p class="section-desc">推しのグループを選んで、ゆかりのお店を探そう</p>
+      </div>
+      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">全スポットを見る →</a>
     </div>
     <div class="group-cards">
       <a href="{{ '/shops/?group=yonino' | relative_url }}" class="group-card" style="--group-accent:#e8537a">
@@ -139,11 +158,11 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- ジャンルで探す -->
-<section class="landing-section landing-section--alt">
+<!-- SECTION 03: ジャンルで探す -->
+<section class="landing-section">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 02 / GENRE</p>
+      <p class="section-eyebrow">SECTION 03 / GENRE</p>
       <h2 class="section-title">ジャンルで<span class="txt-highlight">さがす</span></h2>
       <p class="section-desc">食べたいものから聖地巡礼スポットを見つける</p>
     </div>
@@ -162,18 +181,45 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
   </div>
 </section>
 
-<!-- 特集記事 -->
+<!-- SECTION 04: MAP誘導 -->
+<section class="landing-section landing-section--alt">
+  <div class="container">
+    <div class="map-cta__card">
+      <div class="map-cta__text">
+        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 04 / MAP</p>
+        <h2 class="section-title">地図で<span class="txt-highlight">聖地めぐり</span></h2>
+        <p class="section-desc">推しごとにピンの色が変わる。タップして聖地の詳細を確認しよう。</p>
+        <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す ↗</a>
+      </div>
+      <div class="map-pin-legend">
+        <div class="pin-item"><span class="pin-dot" style="background:#e8537a"></span>よにのちゃんねる</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#3b82f6"></span>Snow Man</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#7c3aed"></span>SixTONES</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#059669"></span>亀梨和也</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#f97316"></span>なにわ男子</div>
+        <div class="pin-item"><span class="pin-dot" style="background:#f43f5e"></span>イコラブ</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 05: 特集記事 -->
 {% if site.posts.size > 0 %}
 <section class="landing-section">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 03 / ARTICLES</p>
+      <p class="section-eyebrow">SECTION 05 / ARTICLES</p>
       <h2 class="section-title">推しゆかりの<span class="txt-berry">特集記事</span></h2>
       <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
     </div>
     <div class="article-grid--landing">
       {% for post in site.posts limit:3 %}
       <article class="article-card--landing">
+        {% case forloop.index %}
+        {% when 1 %}<div class="washi-tape washi-tape--butter" style="top:-8px;left:40px"></div>
+        {% when 2 %}<div class="washi-tape washi-tape--blush" style="top:-7px;right:28px;left:auto"></div>
+        {% when 3 %}<div class="washi-tape washi-tape--mint" style="top:-8px;left:60px;bottom:auto"></div>
+        {% endcase %}
         {% if post.thumbnail_video_id %}
           <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg"
                alt="{{ post.title }}" class="article-card__thumb--landing" loading="lazy">
@@ -188,7 +234,8 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
           <h3 class="article-card__title--landing">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h3>
-          <p class="article-card__excerpt--landing">{{ post.excerpt | strip_html | truncate: 75 }}</p>
+          <p class="article-card__excerpt--landing">{{ post.excerpt | strip_html | truncate: 70 }}</p>
+          <a href="{{ post.url | relative_url }}" class="article-card__cta">詳細を見る →</a>
         </div>
       </article>
       {% endfor %}
@@ -200,11 +247,11 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
 </section>
 {% endif %}
 
-<!-- 使い方 -->
+<!-- SECTION 06: 使い方 -->
 <section class="landing-section landing-section--alt">
   <div class="container">
     <div class="section-header">
-      <p class="section-eyebrow">SECTION 04 / HOW TO</p>
+      <p class="section-eyebrow">SECTION 06 / HOW TO</p>
       <h2 class="section-title">3ステップで<span class="txt-highlight">巡礼</span>へ</h2>
     </div>
     <div class="howto-steps">
@@ -226,3 +273,79 @@ description: 推しが訪れたグルメスポットを地図で巡礼しよう
     </div>
   </div>
 </section>
+
+<!-- JS: 新着スポットフィード -->
+<script>
+(function () {
+  var BASE = window.SITE_BASEURL || '';
+  var LABELS = {
+    yonino:'よにのちゃんねる', snowman:'Snow Man', sixtones:'SixTONES',
+    naniwa:'なにわ男子', kamenashi:'亀梨和也', equal_love:'イコラブ',
+    nogizaka46:'乃木坂46', hinatazaka46:'日向坂46', sakurazaka46:'櫻坂46'
+  };
+  var COLORS = {
+    yonino:'linear-gradient(135deg,#e8537a,#f7a1b5)',
+    snowman:'linear-gradient(135deg,#3b82f6,#93c5fd)',
+    sixtones:'linear-gradient(135deg,#7c3aed,#a78bfa)',
+    equal_love:'linear-gradient(135deg,#f43f5e,#fb923c)',
+    sakurazaka46:'linear-gradient(135deg,#e11d48,#fda4af)',
+    nogizaka46:'linear-gradient(135deg,#0ea5e9,#7dd3fc)',
+    hinatazaka46:'linear-gradient(135deg,#f59e0b,#fde68a)',
+    naniwa:'linear-gradient(135deg,#f97316,#fbbf24)',
+    kamenashi:'linear-gradient(135deg,#059669,#6ee7b7)'
+  };
+  var TAPES = [
+    { c:'#FFE08A', s:'top:-8px;left:40px;transform:rotate(-10deg)' },
+    { c:'#FFD4DE', s:'top:-7px;right:28px;left:auto;transform:rotate(8deg)' },
+    { c:'#BFE3CF', s:'top:-8px;left:70px;transform:rotate(-6deg)' },
+    { c:'#FFE08A', s:'top:-8px;left:55px;transform:rotate(12deg)' },
+    { c:'#FFD4DE', s:'top:-7px;left:35px;transform:rotate(-9deg)' },
+    { c:'#BFE3CF', s:'top:-8px;right:40px;left:auto;transform:rotate(7deg)' }
+  ];
+  function esc(s) {
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function render(shops) {
+    var sorted = shops.slice().sort(function (a, b) {
+      if (a.youtube_id && !b.youtube_id) return -1;
+      if (!a.youtube_id && b.youtube_id) return 1;
+      return (b.visited_date || '').localeCompare(a.visited_date || '');
+    }).slice(0, 6);
+
+    var grid = document.getElementById('latest-feed');
+    if (!grid) return;
+
+    grid.innerHTML = sorted.map(function (shop, i) {
+      var group   = (shop.groups || [])[0] || shop.group || '';
+      var label   = LABELS[group] || group;
+      var grad    = COLORS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
+      var tape    = TAPES[i % TAPES.length];
+      var iconUrl = group ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
+      var imgHtml = shop.youtube_id
+        ? '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
+        : '<div class="feed-card__banner" style="background:' + grad + '">'
+          + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
+          + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
+          + '</div>';
+      var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
+      return '<a class="feed-card" href="' + BASE + '/shops/?group=' + esc(group) + '" title="' + esc(shop.name) + '">'
+        + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
+        + imgHtml
+        + '<div class="feed-card__body">'
+        + '<p class="feed-card__group">' + esc(label) + '</p>'
+        + '<p class="feed-card__name">' + esc(shop.name) + '</p>'
+        + '<p class="feed-card__area">' + esc(area) + '</p>'
+        + '<p class="feed-card__cta">行きたい →</p>'
+        + '</div></a>';
+    }).join('');
+  }
+
+  fetch(BASE + '/data/shops.json')
+    .then(function (r) { return r.json(); })
+    .then(render)
+    .catch(function () {
+      var s = document.getElementById('latest-feed-section');
+      if (s) s.style.display = 'none';
+    });
+}());
+</script>

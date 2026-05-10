@@ -1326,3 +1326,176 @@ body {
   .howto-steps { grid-template-columns: repeat(2, 1fr); }
   .group-cards { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ============================================================
+   Sweet Magazine v2 — ブラッシュアップ
+   ============================================================ */
+
+/* ── Section title: 38px に拡大 ── */
+.section-title { font-size: 2.4rem; }
+
+/* ── Section dashed 区切り ── */
+.landing-section { border-top: var(--bd-dashed); }
+
+/* ── Section header row (タイトル + "すべて見る" リンク) ── */
+.section-header-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+.section-header-row .section-header { margin-bottom: 0; }
+.section-more-link {
+  font-family: var(--f-round);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--c-berry);
+  text-decoration: none;
+  white-space: nowrap;
+  padding-bottom: 4px;
+}
+.section-more-link:hover { text-decoration: underline; color: var(--c-berry); }
+
+/* ── Feed grid (JS-powered 新着スポット) ── */
+.feed-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+.feed-card {
+  background: var(--c-white);
+  padding: 10px 10px 26px;
+  box-shadow: var(--sh-card);
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  overflow: visible;
+  transition: box-shadow .2s, transform .2s;
+}
+.feed-card:nth-child(1) { transform: rotate(-0.7deg); }
+.feed-card:nth-child(2) { transform: rotate(0.5deg); }
+.feed-card:nth-child(3) { transform: rotate(-0.4deg); }
+.feed-card:nth-child(4) { transform: rotate(0.6deg); }
+.feed-card:nth-child(5) { transform: rotate(-0.3deg); }
+.feed-card:nth-child(6) { transform: rotate(0.8deg); }
+.feed-card:hover {
+  box-shadow: 5px 8px 28px rgba(42,27,35,.18);
+  transform: rotate(0) translateY(-4px);
+  text-decoration: none;
+}
+.feed-card__img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+.feed-card__banner {
+  width: 100%; aspect-ratio: 16/9;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 8px;
+}
+.feed-card__banner-icon {
+  width: 52px; height: 52px;
+  border-radius: 50%; object-fit: cover;
+  border: 2px solid rgba(255,255,255,.85);
+  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+}
+.feed-card__tape {
+  position: absolute;
+  width: 88px; height: 20px;
+  opacity: 0.85;
+  background-image: repeating-linear-gradient(45deg, rgba(255,255,255,.4) 0 4px, transparent 4px 10px);
+  mix-blend-mode: multiply;
+  z-index: 1;
+}
+.feed-card__body { padding: 12px 4px 0; }
+.feed-card__group {
+  font-family: var(--f-mono);
+  font-size: 10px;
+  color: var(--c-muted);
+  letter-spacing: .08em;
+  margin-bottom: 4px;
+}
+.feed-card__name {
+  font-family: var(--f-serif);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--c-ink);
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+.feed-card__area {
+  font-family: var(--f-sans);
+  font-size: 11px;
+  color: var(--c-muted);
+}
+.feed-card__cta {
+  display: block;
+  margin-top: 10px;
+  font-family: var(--f-hand);
+  font-size: 17px;
+  color: var(--c-berry);
+}
+
+/* ── MAP CTA ── */
+.map-cta__card {
+  background: var(--c-white);
+  border: var(--bd-ink);
+  box-shadow: var(--sh-block);
+  border-radius: var(--r-lg);
+  padding: 40px 48px;
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+.map-cta__text { flex: 1 1 0; min-width: 0; }
+.map-cta__text .hero__btn { margin-top: 20px; display: inline-block; }
+.map-pin-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex-shrink: 0;
+}
+.pin-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--f-mono);
+  font-size: 11px;
+  color: var(--c-ink);
+  letter-spacing: .04em;
+}
+.pin-dot {
+  width: 22px; height: 22px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  border: 2px solid #fff;
+  box-shadow: 1px 2px 4px rgba(42,27,35,.22);
+  flex-shrink: 0;
+  display: inline-block;
+}
+
+/* ── Article card: washi tape + 詳細リンク ── */
+.article-card__cta {
+  display: inline-block;
+  margin-top: 10px;
+  font-family: var(--f-hand);
+  font-size: 17px;
+  color: var(--c-berry);
+  text-decoration: none;
+}
+.article-card__cta:hover { text-decoration: underline; color: var(--c-berry); }
+
+/* ── Responsive v2 ── */
+@media (max-width: 768px) {
+  .section-title { font-size: 1.85rem; }
+  .section-header-row { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .feed-grid { grid-template-columns: 1fr; gap: 24px; }
+  .feed-card:nth-child(n) { transform: rotate(0); }
+  .map-cta__card { flex-direction: column; padding: 28px 24px; gap: 24px; }
+  .map-pin-legend { flex-direction: row; flex-wrap: wrap; gap: 10px 20px; }
+}
+@media (min-width: 600px) and (max-width: 1023px) {
+  .feed-grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
+  .feed-card:nth-child(5), .feed-card:nth-child(6) { display: none; }
+  .feed-card:nth-child(n) { transform: rotate(0); }
+  .map-cta__card { gap: 32px; padding: 32px 36px; }
+}
