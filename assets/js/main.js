@@ -192,12 +192,15 @@ function buildShopCard(shop) {
   const groupLabel = GROUP_LABELS[group] || group;
   const badgeHtml = `<span class="shop-card__group-badge" style="background:${gradient}">${escHtml(groupLabel)}</span>`;
 
+  const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  const groupIconUrl = group ? `${base}/assets/images/groups/${group}.jpg` : '';
+
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
        <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>
        ${badgeHtml}`
     : `<div class="shop-card__banner" style="background:${gradient}">
-         <span class="shop-card__banner-icon">${icon}</span>
+         ${groupIconUrl ? `<img src="${groupIconUrl}" alt="${escHtml(groupLabel)}" class="shop-card__banner-group-icon" onerror="this.style.display='none'">` : `<span class="shop-card__banner-icon">${icon}</span>`}
          <span class="shop-card__banner-genre">${escHtml(shop.genre||'')}</span>
        </div>
        ${badgeHtml}`;
