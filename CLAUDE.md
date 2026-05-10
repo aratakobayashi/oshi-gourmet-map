@@ -94,7 +94,8 @@
 | sixtones | ストチューブ（SixTONES） | 未確認 | https://www.youtube.com/@SixTONES_st |
 | naniwa | なにわ男子 | UCDtVdj7sm41Ysg3XSiSUH3w | https://www.youtube.com/@naniwadanshi_official |
 | equal_love | イコラブ（=LOVE） | 未確認 | - |
-| nogizaka46 | 乃木坂46 | 未確認 | - |
+| nogizaka46 | 乃木坂46（公式MV） | UCUzpZpX2wRYOk3J8QTFGxDg | https://www.youtube.com/@nogizaka46SMEJ |
+| nogizaka46 | 乃木坂配信中（乃木坂工事中） | UCfvohDfHt1v5N8l3BzPRsWQ | https://www.youtube.com/@nogizakahaishinchu |
 | hinatazaka46 | 日向坂46 | 未確認 | - |
 | sakurazaka46 | 櫻坂46 | 未確認 | - |
 

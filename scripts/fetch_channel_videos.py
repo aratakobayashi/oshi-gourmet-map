@@ -27,7 +27,8 @@ CHANNELS = {
     "hinatazaka46": "UC2b7WYrUaNTZ-GBXQ7fBxRQ",  # 要確認
     "sakurazaka46": "UCjiGiqRGBCiHpIkHpJKjNiQ",  # 要確認
     # TV番組公式チャンネル（TV由来データのyoutube_id補完用）
-    "mezamashi":    "UCyI5E-mT4aQliEMhUgkyfRQ",  # めざましテレビ（フジテレビ）
+    "mezamashi":        "UCyI5E-mT4aQliEMhUgkyfRQ",  # めざましテレビ（フジテレビ）
+    "nogizaka_haishin": "UCfvohDfHt1v5N8l3BzPRsWQ",  # 乃木坂配信中（乃木坂工事中公式）
 }
 
 def api_get(url):
