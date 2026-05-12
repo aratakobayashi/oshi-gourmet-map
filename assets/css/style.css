@@ -1069,6 +1069,19 @@ img { max-width: 100%; display: block; }
   .modal-body { padding: 16px; }
   .shop-cards { grid-template-columns: 1fr; }
   .post-body h2 { padding: 0.45em 0.7em; }
+
+  /* SP ヘッダー：ロゴ縮小・サブテキスト非表示 */
+  .site-logo__sub { display: none; }
+  .site-logo__icon { width: 30px; height: 30px; font-size: 0.85rem; }
+  .site-logo__text { font-size: 0.82rem; }
+  .site-logo { gap: 7px; }
+  .site-header .container { height: 52px; }
+  .nav-link { padding: 4px 8px; font-size: 0.78rem; }
+  .site-nav { gap: 2px; }
+
+  /* 進捗バー・フィルターバーの top を SP ヘッダー高さに合わせる */
+  .reading-progress { top: 52px; }
+  .articles-filter-bar { top: 52px; }
 }
 
 /* ============================================================
