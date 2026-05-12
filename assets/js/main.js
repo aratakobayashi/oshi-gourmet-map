@@ -302,6 +302,101 @@ function closeModal() {
 }
 
 // ===========================
+// スライドインパネル（PC専用）
+// ===========================
+var panelMap = null;
+
+function openPanel(shop) {
+  const panel = document.getElementById('shop-panel');
+  const content = document.getElementById('shop-panel-content');
+  if (!panel || !content) return;
+
+  content.innerHTML = buildPanelContent(shop);
+
+  // アクティブカードをハイライト
+  document.querySelectorAll('.shop-card').forEach(c => c.classList.remove('active'));
+  const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+  const activeCard = document.querySelector(`.shop-card[href*="${slug}"]`);
+  if (activeCard) activeCard.classList.add('active');
+
+  panel.classList.add('open');
+  panel.setAttribute('aria-hidden', 'false');
+  document.getElementById('shop-grid').classList.add('shop-grid--panel-open');
+
+  // 地図初期化
+  if (shop.lat && shop.lng) {
+    setTimeout(function() {
+      if (panelMap) { panelMap.remove(); panelMap = null; }
+      panelMap = L.map('panel-map', { scrollWheelZoom: false }).setView([shop.lat, shop.lng], 15);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap'
+      }).addTo(panelMap);
+      L.marker([shop.lat, shop.lng]).addTo(panelMap);
+    }, 50);
+  }
+}
+
+function closePanel() {
+  const panel = document.getElementById('shop-panel');
+  if (!panel) return;
+  panel.classList.remove('open');
+  panel.setAttribute('aria-hidden', 'true');
+  document.getElementById('shop-grid')?.classList.remove('shop-grid--panel-open');
+  document.querySelectorAll('.shop-card').forEach(c => c.classList.remove('active'));
+  if (panelMap) { panelMap.remove(); panelMap = null; }
+}
+
+function buildPanelContent(shop) {
+  const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+  const detailUrl = base + '/shops/' + slug + '/';
+
+  const thumb = shop.youtube_id
+    ? `<div class="shop-panel__thumb"><img src="https://img.youtube.com/vi/${shop.youtube_id}/maxresdefault.jpg" alt="${escHtml(shop.name)}" loading="lazy"></div>`
+    : '';
+
+  const meta = [
+    shop.address        ? `<li>📍 ${escHtml(shop.address)}</li>` : '',
+    shop.nearest_station? `<li>🚃 ${escHtml(shop.nearest_station)}</li>` : '',
+    shop.price_range    ? `<li>💰 ${escHtml(shop.price_range)}</li>` : '',
+    shop.visited_date   ? `<li>📅 ${escHtml(formatDate(shop.visited_date))}訪問</li>` : '',
+    (shop.members||[]).length ? `<li>👤 ${shop.members.map(escHtml).join('・')}</li>` : '',
+  ].filter(Boolean).join('');
+
+  const btnHP = shop.hotpepper_url ? `<a href="${escHtml(shop.hotpepper_url)}" class="shop-panel__btn shop-panel__btn--primary" target="_blank" rel="noopener">ホットペッパーで予約</a>` : '';
+  const btnTL = shop.tabelog_url   ? `<a href="${escHtml(shop.tabelog_url)}" class="shop-panel__btn shop-panel__btn--outline" target="_blank" rel="noopener">食べログで見る</a>` : '';
+  const mapsUrl = shop.google_maps_url || (shop.address ? 'https://maps.google.com/?q=' + encodeURIComponent(shop.address) : '');
+  const btnGM = mapsUrl ? `<a href="${escHtml(mapsUrl)}" class="shop-panel__btn shop-panel__btn--maps" target="_blank" rel="noopener">Googleマップ</a>` : '';
+
+  const videoHtml = shop.youtube_id ? `
+    <div class="shop-panel__video">
+      <a href="https://www.youtube.com/watch?v=${shop.youtube_id}" class="shop-panel__video-link" target="_blank" rel="noopener">
+        <img src="https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg" alt="${escHtml(shop.name)}">
+        <div class="shop-panel__video-play"><span>▶</span></div>
+      </a>
+      ${shop.source_video_title ? `<p class="shop-panel__video-title">${escHtml(shop.source_video_title)}</p>` : ''}
+    </div>` : '';
+
+  const mapHtml = (shop.lat && shop.lng) ? `<div id="panel-map" class="shop-panel__map"></div>` : '';
+
+  return `
+    ${thumb}
+    <div class="shop-panel__body">
+      <div class="shop-panel__badges">
+        ${shop.genre      ? `<span class="badge badge--genre">${escHtml(shop.genre)}</span>` : ''}
+        ${shop.prefecture ? `<span class="badge badge--pref">${escHtml(shop.prefecture)}</span>` : ''}
+      </div>
+      <h2 class="shop-panel__name">${escHtml(shop.name)}</h2>
+      ${shop.description ? `<p class="shop-panel__desc">${escHtml(shop.description)}</p>` : ''}
+      ${meta ? `<ul class="shop-panel__meta">${meta}</ul>` : ''}
+      <div class="shop-panel__actions">${btnHP}${btnTL}${btnGM}</div>
+      ${videoHtml}
+      ${mapHtml}
+      <a href="${detailUrl}" class="shop-panel__detail-link">詳細ページを見る →</a>
+    </div>`;
+}
+
+// ===========================
 // タブ切り替え
 // ===========================
 function switchView(view) {
@@ -366,8 +461,24 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('modal-overlay')?.addEventListener('click', e => {
     if (e.target === e.currentTarget) closeModal();
   });
+
+  // パネルを閉じる
+  document.getElementById('shop-panel-close')?.addEventListener('click', closePanel);
+
+  // グリッドのクリック：PC はパネル、SP はページ遷移
+  document.getElementById('shop-grid')?.addEventListener('click', function(e) {
+    if (window.innerWidth < 1024) return;
+    const card = e.target.closest('.shop-card');
+    if (!card) return;
+    e.preventDefault();
+    const href = card.getAttribute('href') || '';
+    const slug = href.replace(/.*\/shops\//, '').replace(/\/$/, '');
+    const shop = allShops.find(s => s.id.replace(/_+/g, '-').replace(/-{2,}/g, '-') === slug);
+    if (shop) openPanel(shop);
+  });
+
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') closeModal();
+    if (e.key === 'Escape') { closeModal(); closePanel(); }
   });
 
   // データ読み込み

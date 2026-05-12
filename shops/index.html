@@ -38,19 +38,29 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   </div>
 </div>
 
-<!-- お店グリッド -->
-<section class="shop-grid-section container" id="view-grid">
-  <div class="shop-grid" id="shop-grid">
-    <p class="loading">読み込み中...</p>
-  </div>
-</section>
+<!-- お店グリッド + スライドパネル -->
+<div class="shop-list-wrap" id="shop-list-wrap">
+  <section class="shop-grid-section" id="view-grid">
+    <div class="shop-grid" id="shop-grid">
+      <p class="loading">読み込み中...</p>
+    </div>
+  </section>
+
+  <!-- PC スライドインパネル -->
+  <aside class="shop-panel" id="shop-panel" aria-hidden="true" aria-label="店舗詳細">
+    <div class="shop-panel__header">
+      <button class="shop-panel__close" id="shop-panel-close" aria-label="パネルを閉じる">✕</button>
+    </div>
+    <div class="shop-panel__content" id="shop-panel-content"></div>
+  </aside>
+</div>
 
 <!-- 地図 -->
 <section class="map-section" id="view-map" style="display:none;">
   <div id="map"></div>
 </section>
 
-<!-- 詳細モーダル -->
+<!-- 詳細モーダル（SP用） -->
 <div class="modal-overlay" id="modal-overlay" aria-hidden="true">
   <div class="modal" role="dialog" aria-modal="true">
     <button class="modal-close" id="modal-close" aria-label="閉じる">&times;</button>
