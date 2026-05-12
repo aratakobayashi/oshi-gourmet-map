@@ -138,7 +138,7 @@ function sortShops(shops) {
 }
 
 // ===========================
-// グリッド描画
+// リスト描画（マスター・ディテール用）
 // ===========================
 function renderGrid(shops) {
   shops = sortShops(shops);
@@ -149,7 +149,36 @@ function renderGrid(shops) {
     grid.innerHTML = '<p class="no-results">該当するお店が見つかりませんでした。</p>';
     return;
   }
-  grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
+  grid.innerHTML = shops.map(s => buildListItem(s)).join('');
+}
+
+function buildListItem(shop) {
+  const base  = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  const slug  = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+  const detailUrl = base + '/shops/' + slug + '/';
+
+  const group = (shop.groups || [])[0] || shop.group || '';
+  const gradient = GROUP_COLORS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
+  const groupLabel = GROUP_LABELS[group] || group;
+
+  const thumb = shop.youtube_id
+    ? `<img src="https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg" alt="${escHtml(shop.name)}" loading="lazy">`
+    : `<div class="shop-row__thumb-placeholder" style="background:${gradient}"><span>${GENRE_ICONS[shop.genre]||'🍽️'}</span></div>`;
+
+  const badges = [
+    shop.genre      ? `<span class="badge badge--genre">${escHtml(shop.genre)}</span>` : '',
+    shop.prefecture ? `<span class="badge badge--pref">${escHtml(shop.prefecture)}</span>` : '',
+  ].join('');
+
+  return `
+    <a class="shop-row" href="${detailUrl}" data-id="${escHtml(shop.id)}">
+      <div class="shop-row__thumb">${thumb}</div>
+      <div class="shop-row__info">
+        <div class="shop-row__badges">${badges}</div>
+        <p class="shop-row__name">${escHtml(shop.name)}</p>
+        <p class="shop-row__group" style="color:${GROUP_SOLID_COLORS[group]||'#e8537a'}">${escHtml(groupLabel)}</p>
+      </div>
+    </a>`;
 }
 
 const GROUP_LABELS = {
@@ -166,6 +195,13 @@ const GROUP_LABELS = {
   nogizaka46:   '乃木坂46',
   hinatazaka46: '日向坂46',
   sakurazaka46: '櫻坂46',
+};
+
+const GROUP_SOLID_COLORS = {
+  yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed', naniwa:'#f97316',
+  kamenashi:'#059669', kamaitachi:'#8b5cf6', equal_love:'#f43f5e', notme:'#0d9488',
+  neajoy:'#d946ef', nogizaka46:'#0ea5e9', sakurazaka46:'#e11d48',
+  hinatazaka46:'#f59e0b', ginga:'#6366f1',
 };
 
 const GROUP_COLORS = {
@@ -302,27 +338,26 @@ function closeModal() {
 }
 
 // ===========================
-// スライドインパネル（PC専用）
+// 詳細パネル（PC：常設サイドバー方式）
 // ===========================
 var panelMap = null;
 
 function openPanel(shop) {
-  const panel = document.getElementById('shop-panel');
-  const content = document.getElementById('shop-panel-content');
-  if (!panel || !content) return;
+  const content     = document.getElementById('shop-panel-content');
+  const placeholder = document.getElementById('shop-detail-placeholder');
+  if (!content) return;
 
   content.innerHTML = buildPanelContent(shop);
+  content.style.display = '';
+  if (placeholder) placeholder.style.display = 'none';
 
-  // アクティブカードをハイライト
-  document.querySelectorAll('.shop-card').forEach(c => c.classList.remove('active'));
-  const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
-  const activeCard = document.querySelector(`.shop-card[href*="${slug}"]`);
-  if (activeCard) activeCard.classList.add('active');
-
-  panel.classList.add('open');
-  panel.setAttribute('aria-hidden', 'false');
-  document.getElementById('shop-grid').classList.add('shop-grid--panel-open');
-  document.body.classList.add('panel-open');
+  // アクティブ行をハイライト
+  document.querySelectorAll('.shop-row').forEach(r => r.classList.remove('active'));
+  const active = document.querySelector(`.shop-row[data-id="${CSS.escape(shop.id)}"]`);
+  if (active) {
+    active.classList.add('active');
+    active.scrollIntoView({ block: 'nearest' });
+  }
 
   // 地図初期化
   if (shop.lat && shop.lng) {
@@ -335,17 +370,15 @@ function openPanel(shop) {
       L.marker([shop.lat, shop.lng]).addTo(panelMap);
     }, 50);
   }
+
+  // 詳細パネルのスクロールをトップに戻す
+  const detailCol = document.getElementById('shop-panel');
+  if (detailCol) detailCol.scrollTop = 0;
 }
 
 function closePanel() {
-  const panel = document.getElementById('shop-panel');
-  if (!panel) return;
-  panel.classList.remove('open');
-  panel.setAttribute('aria-hidden', 'true');
-  document.getElementById('shop-grid')?.classList.remove('shop-grid--panel-open');
-  document.body.classList.remove('panel-open');
-  document.querySelectorAll('.shop-card').forEach(c => c.classList.remove('active'));
-  if (panelMap) { panelMap.remove(); panelMap = null; }
+  // マスター・ディテール方式ではパネルは常時表示のため closePanel は非使用
+  // 互換性のため残す
 }
 
 function buildPanelContent(shop) {
@@ -405,13 +438,26 @@ function switchView(view) {
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.view === view);
   });
-  document.getElementById('view-grid').style.display = view === 'grid' ? '' : 'none';
-  document.getElementById('view-map').style.display  = view === 'map'  ? '' : 'none';
+  const masterDetail = document.getElementById('shop-list-wrap');
+  const mapSection   = document.getElementById('view-map');
+  if (masterDetail) masterDetail.style.display = view === 'grid' ? '' : 'none';
+  if (mapSection)   mapSection.style.display   = view === 'map'  ? '' : 'none';
 
   if (view === 'map' && typeof initMap === 'function') {
     initMap();
     renderMapMarkers(filteredShops);
   }
+}
+
+// ===========================
+// マスター・ディテール 高さ調整
+// ===========================
+function adjustMasterDetailHeight() {
+  const wrap = document.getElementById('shop-list-wrap');
+  if (!wrap || window.innerWidth < 1024) return;
+  const top = wrap.getBoundingClientRect().top;
+  const height = window.innerHeight - top;
+  if (height > 300) wrap.style.height = height + 'px';
 }
 
 // ===========================
@@ -458,33 +504,27 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.addEventListener('click', () => switchView(btn.dataset.view));
   });
 
-  // モーダルを閉じる
-  document.getElementById('modal-close')?.addEventListener('click', closeModal);
-  document.getElementById('modal-overlay')?.addEventListener('click', e => {
-    if (e.target === e.currentTarget) closeModal();
-  });
-
-  // パネルを閉じる
-  document.getElementById('shop-panel-close')?.addEventListener('click', closePanel);
-
-  // グリッドのクリック：PC はパネル、SP はページ遷移
+  // リスト行クリック：PC は詳細パネル更新、SP はページ遷移
   document.getElementById('shop-grid')?.addEventListener('click', function(e) {
-    if (window.innerWidth < 1024) return;
-    const card = e.target.closest('.shop-card');
-    if (!card) return;
+    const row = e.target.closest('.shop-row');
+    if (!row) return;
+    if (window.innerWidth < 1024) return; // SP: <a> のデフォルト動作でページ遷移
     e.preventDefault();
-    const href = card.getAttribute('href') || '';
-    const slug = href.replace(/.*\/shops\//, '').replace(/\/$/, '');
-    const shop = allShops.find(s => s.id.replace(/_+/g, '-').replace(/-{2,}/g, '-') === slug);
+    const shop = allShops.find(s => s.id === row.dataset.id);
     if (shop) openPanel(shop);
   });
 
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') { closeModal(); closePanel(); }
+    if (e.key === 'Escape') closePanel();
   });
+
+  // 高さ調整
+  window.addEventListener('resize', adjustMasterDetailHeight);
 
   // データ読み込み
   if (document.getElementById('shop-grid')) {
-    loadShops();
+    loadShops().then(() => {
+      adjustMasterDetailHeight();
+    });
   }
 });

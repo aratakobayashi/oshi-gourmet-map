@@ -25,48 +25,43 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   </div>
 </section>
 
-<!-- カウンター -->
+<!-- カウンター + タブ -->
 <div class="container">
-  <p class="result-count" id="result-count"></p>
-</div>
-
-<!-- タブ切り替え（グリッド / 地図） -->
-<div class="container">
-  <div class="view-tabs">
-    <button class="tab-btn active" data-view="grid">グリッド表示</button>
-    <button class="tab-btn" data-view="map">地図表示</button>
+  <div class="shop-controls-bar">
+    <p class="result-count" id="result-count"></p>
+    <div class="view-tabs">
+      <button class="tab-btn active" data-view="grid">リスト表示</button>
+      <button class="tab-btn" data-view="map">地図表示</button>
+    </div>
   </div>
 </div>
 
-<!-- お店グリッド + スライドパネル -->
-<div class="shop-list-wrap container" id="shop-list-wrap">
-  <section class="shop-grid-section" id="view-grid">
-    <div class="shop-grid" id="shop-grid">
+<!-- マスター・ディテール レイアウト -->
+<div class="shop-master-detail container" id="shop-list-wrap">
+
+  <!-- 左：店舗リスト -->
+  <div class="shop-list-col" id="view-grid">
+    <div class="shop-list" id="shop-grid">
       <p class="loading">読み込み中...</p>
     </div>
-  </section>
+  </div>
 
-  <!-- PC スライドインパネル -->
-  <aside class="shop-panel" id="shop-panel" aria-hidden="true" aria-label="店舗詳細">
-    <div class="shop-panel__header">
-      <button class="shop-panel__close" id="shop-panel-close" aria-label="パネルを閉じる">✕</button>
+  <!-- 右：詳細パネル（PC専用） -->
+  <aside class="shop-detail-col" id="shop-panel" aria-label="店舗詳細">
+    <div class="shop-detail-placeholder" id="shop-detail-placeholder">
+      <div class="shop-detail-placeholder__icon">🍽️</div>
+      <p class="shop-detail-placeholder__title">お店を選んでください</p>
+      <p class="shop-detail-placeholder__sub">左のリストからお店をクリックすると<br>詳細が表示されます</p>
     </div>
-    <div class="shop-panel__content" id="shop-panel-content"></div>
+    <div id="shop-panel-content" style="display:none"></div>
   </aside>
+
 </div>
 
 <!-- 地図 -->
 <section class="map-section" id="view-map" style="display:none;">
   <div id="map"></div>
 </section>
-
-<!-- 詳細モーダル（SP用） -->
-<div class="modal-overlay" id="modal-overlay" aria-hidden="true">
-  <div class="modal" role="dialog" aria-modal="true">
-    <button class="modal-close" id="modal-close" aria-label="閉じる">&times;</button>
-    <div class="modal-content" id="modal-content"></div>
-  </div>
-</div>
 
 <script>
   const SITE_BASEURL = '{{ site.baseurl }}';
