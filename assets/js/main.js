@@ -322,6 +322,7 @@ function openPanel(shop) {
   panel.classList.add('open');
   panel.setAttribute('aria-hidden', 'false');
   document.getElementById('shop-grid').classList.add('shop-grid--panel-open');
+  document.body.classList.add('panel-open');
 
   // 地図初期化
   if (shop.lat && shop.lng) {
@@ -342,6 +343,7 @@ function closePanel() {
   panel.classList.remove('open');
   panel.setAttribute('aria-hidden', 'true');
   document.getElementById('shop-grid')?.classList.remove('shop-grid--panel-open');
+  document.body.classList.remove('panel-open');
   document.querySelectorAll('.shop-card').forEach(c => c.classList.remove('active'));
   if (panelMap) { panelMap.remove(); panelMap = null; }
 }

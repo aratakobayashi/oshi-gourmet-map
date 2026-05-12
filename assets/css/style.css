@@ -327,8 +327,8 @@ img { max-width: 100%; display: block; }
 /* パネル表示時：2列 */
 @media (min-width: 1024px) {
   .shop-grid--panel-open { grid-template-columns: repeat(2, 1fr) !important; }
-  .shop-grid--panel-open ~ .container,
-  .shop-list-wrap:has(.shop-panel.open) .shop-grid-section { padding-right: 440px; }
+  body { transition: padding-right 0.3s cubic-bezier(0.4,0,0.2,1); }
+  body.panel-open { padding-right: 420px; }
 }
 
 /* アクティブカード */
@@ -339,10 +339,10 @@ img { max-width: 100%; display: block; }
 =========================== */
 .shop-panel {
   position: fixed;
-  top: 60px;
+  top: 64px;
   right: 0;
   width: 420px;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 64px);
   background: var(--color-surface);
   box-shadow: -4px 0 32px rgba(0,0,0,0.12);
   transform: translateX(100%);
