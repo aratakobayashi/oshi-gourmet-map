@@ -1070,18 +1070,81 @@ img { max-width: 100%; display: block; }
   .shop-cards { grid-template-columns: 1fr; }
   .post-body h2 { padding: 0.45em 0.7em; }
 
-  /* SP ヘッダー：ロゴ縮小・サブテキスト非表示 */
+  /* SP ヘッダー：ナビをボトムバーに移動してロゴのみに */
+  .site-nav { display: none; }
   .site-logo__sub { display: none; }
-  .site-logo__icon { width: 30px; height: 30px; font-size: 0.85rem; }
-  .site-logo__text { font-size: 0.82rem; }
-  .site-logo { gap: 7px; }
+  .site-logo__icon { width: 32px; height: 32px; font-size: 0.9rem; }
+  .site-logo__text { font-size: 0.9rem; }
+  .site-logo { gap: 8px; }
   .site-header .container { height: 52px; }
-  .nav-link { padding: 4px 8px; font-size: 0.78rem; }
-  .site-nav { gap: 2px; }
 
   /* 進捗バー・フィルターバーの top を SP ヘッダー高さに合わせる */
   .reading-progress { top: 52px; }
   .articles-filter-bar { top: 52px; }
+
+  /* コンテンツがボトムナビに隠れないよう余白確保 */
+  body { padding-bottom: 60px; }
+}
+
+/* ============================================================
+   Bottom Navigation（SP専用）
+   ============================================================ */
+.bottom-nav {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    background: #fff;
+    border-top: 1px solid var(--color-border, #eee);
+    box-shadow: 0 -4px 16px rgba(0,0,0,.07);
+    z-index: 150;
+    /* ホームインジケーター対応 */
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .bottom-nav__item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    color: #aaa;
+    text-decoration: none;
+    padding: 6px 0 4px;
+    position: relative;
+    transition: color .15s;
+  }
+  .bottom-nav__item:hover { text-decoration: none; }
+  .bottom-nav__item--active { color: var(--color-primary, #e8537a); }
+  .bottom-nav__item--active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 20%;
+    right: 20%;
+    height: 2px;
+    background: var(--color-primary, #e8537a);
+    border-radius: 0 0 3px 3px;
+  }
+  .bottom-nav__icon {
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+  }
+  .bottom-nav__icon svg { width: 100%; height: 100%; display: block; }
+  .bottom-nav__label {
+    font-size: 0.62rem;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: .01em;
+  }
 }
 
 /* ============================================================
