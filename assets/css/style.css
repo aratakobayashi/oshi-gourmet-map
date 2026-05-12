@@ -355,6 +355,7 @@ img { max-width: 100%; display: block; }
   gap: 12px;
   padding: 10px 14px;
   border-bottom: 1px solid var(--color-border, #eee);
+  border-left: 3px solid transparent;
   text-decoration: none;
   color: inherit;
   transition: background .12s;

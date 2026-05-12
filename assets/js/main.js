@@ -387,7 +387,7 @@ function buildPanelContent(shop) {
   const detailUrl = base + '/shops/' + slug + '/';
 
   const thumb = shop.youtube_id
-    ? `<div class="shop-panel__thumb"><img src="https://img.youtube.com/vi/${shop.youtube_id}/maxresdefault.jpg" alt="${escHtml(shop.name)}" loading="lazy"></div>`
+    ? `<div class="shop-panel__thumb"><img src="https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg" alt="${escHtml(shop.name)}" loading="lazy"></div>`
     : '';
 
   const meta = [

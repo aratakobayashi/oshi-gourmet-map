@@ -24,6 +24,8 @@ function renderMapMarkers(shops) {
   markers.forEach(m => leafletMap.removeLayer(m));
   markers = [];
 
+  const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+
   shops.forEach(shop => {
     if (!shop.lat || !shop.lng) return;
 
@@ -34,13 +36,16 @@ function renderMapMarkers(shops) {
             style="width:100%;border-radius:6px;margin-bottom:6px;" loading="lazy">`
       : '';
 
+    const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+    const detailUrl = base + '/shops/' + slug + '/';
+
     marker.bindPopup(`
       <div class="map-popup">
         ${thumb}
         <h3>${escHtml(shop.name)}</h3>
         <p>${escHtml(shop.prefecture || '')} ${escHtml(shop.genre || '')}</p>
         <p style="margin-top:4px;">
-          <a href="javascript:void(0)" onclick="closePopupAndOpenModal('${escHtml(shop.id)}')">詳細を見る →</a>
+          <a href="${detailUrl}">詳細を見る →</a>
         </p>
       </div>
     `);
@@ -55,10 +60,6 @@ function renderMapMarkers(shops) {
   }
 }
 
-function closePopupAndOpenModal(shopId) {
-  leafletMap.closePopup();
-  openModal(shopId);
-}
 
 // escHtml が main.js より先に読まれる場合のフォールバック
 if (typeof escHtml === 'undefined') {
