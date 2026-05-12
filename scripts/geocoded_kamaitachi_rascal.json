@@ -1,0 +1,158 @@
+[
+  {
+    "name": "オカモ倶楽部",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "大手町駅",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-オカモ倶楽部-rascal-001"
+  },
+  {
+    "name": "くら寿司グローバル旗艦店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-くら寿司グローバル旗艦店-rascal-002"
+  },
+  {
+    "name": "上海飯店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "水道橋駅",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-上海飯店-rascal-003"
+  },
+  {
+    "name": "カプリチョーザ 渋谷本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "",
+    "lat": 35.6641,
+    "lng": 139.6985,
+    "youtube_id": "q-UKt66uFp8",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=q-UKt66uFp8",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "渋谷駅",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-カプリチョーザ渋谷本店-rascal-004"
+  },
+  {
+    "name": "銀座 六覺燈 麻布十番店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "",
+    "lat": 35.6552,
+    "lng": 139.7371,
+    "youtube_id": "M_IWhptZ4vs",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=M_IWhptZ4vs",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "麻布十番駅",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-銀座六覺燈麻布十番店-rascal-005"
+  },
+  {
+    "name": "鮨 長島",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "",
+    "lat": 35.6693,
+    "lng": 139.7644,
+    "youtube_id": "A2u0TZpDQ8A",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=A2u0TZpDQ8A",
+    "visited_date": "",
+    "members": [
+      "山内健司",
+      "濱家隆一"
+    ],
+    "groups": [
+      "kamaitachi"
+    ],
+    "group": "kamaitachi",
+    "description": "",
+    "nearest_station": "銀座駅",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kamaitachi-鮨長島-rascal-006"
+  }
+]

@@ -32,7 +32,7 @@ layout: default
 
 {% assign post_image = '' %}
 {% if page.thumbnail_video_id %}
-  {% assign post_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/maxresdefault.jpg' %}
+  {% assign post_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/hqdefault.jpg' %}
 {% elsif page.thumbnail %}
   {% assign post_image = page.thumbnail | absolute_url %}
 {% endif %}

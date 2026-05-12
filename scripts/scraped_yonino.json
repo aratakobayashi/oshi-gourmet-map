@@ -1,0 +1,938 @@
+[
+  {
+    "name": "蕎麦割烹 こうもと",
+    "visited_date": "2026-04-15",
+    "episode": "519",
+    "nearest_station": "広尾駅 徒歩5分",
+    "address": "東京都港区南麻布５丁目１−１０",
+    "phone": "03-3440-1166",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "エアポートグリル＆バール",
+    "visited_date": "2026-03-11",
+    "episode": "509",
+    "nearest_station": "羽田空港第1・第2ターミナル駅 徒歩5分",
+    "address": "東京都大田区羽田空港３丁目４−２羽田空港 第2旅客ターミナル 4F",
+    "phone": "03-5756-0033",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ジンギスカン羊はち 高円寺店",
+    "visited_date": "2026-03-11",
+    "episode": "509",
+    "nearest_station": "高円寺駅 徒歩3分",
+    "address": "東京都杉並区高円寺北３丁目２４−１０",
+    "phone": "080-4169-6748",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "NORTHERNWOOD GINZA",
+    "visited_date": "2026-03-08",
+    "episode": "508",
+    "nearest_station": "東京都新橋駅徒歩6分",
+    "address": "東京都中央区銀座８丁目１２−６",
+    "phone": "03-6264-7618",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "新横浜ラーメン博物館",
+    "visited_date": "2026-03-04",
+    "episode": "507",
+    "nearest_station": "新横浜駅 徒歩3分",
+    "address": "神奈川県横浜市港北区新横浜２丁目１４−２１",
+    "phone": "045-471-0503",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "Chocolat Trouver",
+    "visited_date": "2026-02-04",
+    "episode": "499",
+    "nearest_station": "東京都表参道駅徒歩2分",
+    "address": "東京都港区北青山３丁目１０−１９Arrows aoyamaⅡ 1F",
+    "phone": "03-6712-6730",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "STREAMER COFFEE COMPANY AKASAKA",
+    "visited_date": "2026-02-01",
+    "episode": "498",
+    "nearest_station": "東京都赤坂見附駅徒歩4分",
+    "address": "東京都港区赤坂３丁目６−１４",
+    "phone": "03-5545-1231",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "赤坂 金舌(きんたん)",
+    "visited_date": "2026-01-28",
+    "episode": "497",
+    "nearest_station": "東京都 赤坂見附駅徒歩4分",
+    "address": "東京都港区赤坂３丁目１１−７",
+    "phone": "03-3568-2129",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "葱や平吉 渋谷宇田川町店",
+    "visited_date": "2026-01-18",
+    "episode": "494",
+    "nearest_station": "東京都 渋谷駅徒歩6分",
+    "address": "東京都渋谷区宇田川町３６−１８",
+    "phone": "03-3780-1505",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "Beasty Coffee [ cafe laboratory ]",
+    "visited_date": "2025-12-07",
+    "episode": "481",
+    "nearest_station": "東京都代々木公園駅徒歩6分",
+    "address": "東京都渋谷区富ケ谷１丁目１９−３",
+    "phone": "03-6804-8101",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "一蘭 中野店",
+    "visited_date": "2025-12-03",
+    "episode": "480",
+    "nearest_station": "東京都中野駅北口より徒歩2分",
+    "address": "東京都中野区中野５丁目６５−５SK中野ビル B1F",
+    "phone": "050-1808-2429",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "しゃぶしゃぶだるま",
+    "visited_date": "2025-11-19",
+    "episode": "476",
+    "nearest_station": "東京都麻布十番駅の1番口から徒歩2分",
+    "address": "東京都港区麻布十番２丁目１７−３麻布プレイス1F",
+    "phone": "03-6453-9260",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "喜三郎農場",
+    "visited_date": "2025-10-26",
+    "episode": "474",
+    "nearest_station": "東京都千石駅から徒歩2分",
+    "address": "東京都文京区千石１丁目２３−１１",
+    "phone": "03-3943-3746",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "VERVE COFFEE ROASTERS EBISU",
+    "visited_date": "2025-10-26",
+    "episode": "469",
+    "nearest_station": "東京都恵比寿駅の西口から徒歩5分",
+    "address": "東京都渋谷区東３丁目９−１２",
+    "phone": "03-6427-5113",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ピーター・ルーガー・ステーキハウス東京",
+    "visited_date": "2025-10-22",
+    "episode": "468",
+    "nearest_station": "東京都恵比寿駅の東口から徒歩7分",
+    "address": "東京都渋谷区恵比寿４丁目１９−１９Peter Luger Steak House Tokyo",
+    "phone": "03-6277-4336",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "PASSAGE COFFEE",
+    "visited_date": "2025-10-13",
+    "episode": "465",
+    "nearest_station": "東京都三田駅のA3口から徒歩5分",
+    "address": "東京都港区芝５丁目１４−１６大正堂ビル １Ｆ",
+    "phone": "03-6809-3353",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "鮨文(すしぶん)",
+    "visited_date": "2025-10-08",
+    "episode": "464",
+    "nearest_station": "東京都ゆりかもめ市場前駅の1A口から徒歩5分",
+    "address": "東京都江東区豊洲６丁目５豊洲ぐるめ(水産仲卸売場棟3階)",
+    "phone": "03-6633-0300",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "大人食堂",
+    "visited_date": "2025-09-07",
+    "episode": "455",
+    "nearest_station": "東京都新新宿三丁目駅のE4口から徒歩2分",
+    "address": "東京都新宿区新宿３丁目１１−６エクレ新宿 3F 303号室",
+    "phone": "03-3356-7333",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "炭焼うな富士 有楽町店",
+    "visited_date": "2025-08-27",
+    "episode": "452",
+    "nearest_station": "東京都新橋駅の7番口から徒歩5分",
+    "address": "東京都千代田区内幸町１丁目７−１日比谷OKUROJI H12/G26",
+    "phone": "03-6457-9688",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "JUNKY SPECIAL",
+    "visited_date": "2025-08-13",
+    "episode": "448",
+    "nearest_station": "東京都西部新宿駅の北口から徒歩1分",
+    "address": "東京都新宿区歌舞伎町２丁目４６−５ＫＭ新宿ビル１F",
+    "phone": "03-3232-0850",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "東陽町 大衆焼肉 暴飲暴食",
+    "visited_date": "2025-08-06",
+    "episode": "446",
+    "nearest_station": "東京都東陽町木場駅の1番口から徒歩5分",
+    "address": "東京都江東区東陽３丁目２４−１９JLBグランエクリュ東陽町1棟",
+    "phone": "070-6964-5518",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ゴールドラッシュ渋谷本店",
+    "visited_date": "2025-07-30",
+    "episode": "444",
+    "nearest_station": "東京都渋谷駅のA2口から徒歩5分",
+    "address": "東京都渋谷区宇田川町４−７トウセン宇田川町ビル 4F",
+    "phone": "03-3496-5971",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ダイソー マロニエゲート銀座店",
+    "visited_date": "2025-07-20",
+    "episode": "441",
+    "nearest_station": "東京都有楽町駅の京橋口から徒歩7分",
+    "address": "東京都中央区銀座３丁目２−１マロニエゲート銀座2の6階",
+    "phone": "082-420-0100",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "餃子の王将 新橋駅前店",
+    "visited_date": "2025-07-16",
+    "episode": "440",
+    "nearest_station": "東京都新橋駅の烏森口から徒歩1分",
+    "address": "東京都港区新橋３丁目２５−１８",
+    "phone": "03-3432-8518",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ヒルトン東京マーブルラウンジ",
+    "visited_date": "2025-07-13",
+    "episode": "439",
+    "nearest_station": "東京都西新宿駅から徒歩5分",
+    "address": "東京都新宿区西新宿６丁目６−２ヒルトン東京1階ロビーラウンジ",
+    "phone": "03-3344-5111",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "OVERRIDE 神宮前",
+    "visited_date": "2025-07-09",
+    "episode": "438",
+    "nearest_station": "東京都JR原宿駅から徒歩10分",
+    "address": "東京都渋谷区神宮前６丁目１８−１１明治ビルディング",
+    "phone": "03-6433-5535",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "神楽坂コーヒースタンド",
+    "visited_date": "2025-06-25",
+    "episode": "434",
+    "nearest_station": "東京都牛込神楽坂駅から徒歩4分",
+    "address": "東京都新宿区袋町５−１Faro神楽坂 1F",
+    "phone": "03-5324-5090",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "400℃ Pizza Tokyo 神楽坂店",
+    "visited_date": "2025-06-15",
+    "episode": "431",
+    "nearest_station": "東京都飯田坂駅のB3口から徒歩5分",
+    "address": "東京都新宿区若宮町１３−１Kif Annex 102☎情報なし",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "スパイシー カレー 魯珈(ろか)",
+    "visited_date": "2025-05-11",
+    "episode": "421",
+    "nearest_station": "東京都JR大久保駅から徒歩3分",
+    "address": "東京都新宿区百人町１丁目２４−８新宿タウンプラザBF-J 地下1階",
+    "phone": "03-3367-7111",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "西公園",
+    "visited_date": "2025-04-06",
+    "episode": "412",
+    "nearest_station": "福岡市 大濠公演駅から徒歩15分",
+    "address": "福岡県福岡市中央区西公園１３−１",
+    "phone": "092-761-1807",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "博多元気一杯!!",
+    "visited_date": "2025-04-06",
+    "episode": "411",
+    "nearest_station": "博多区の呉服町駅から徒歩6分",
+    "address": "福岡県福岡市博多区下呉服町４−３１−１",
+    "phone": "090-1362-4311",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "BLUE SIX COFFEE",
+    "visited_date": "2025-03-30",
+    "episode": "409",
+    "nearest_station": "東京都新宿区 外苑前駅から徒歩10分",
+    "address": "東京都新宿区霞ヶ丘町５−７都立明治公園D棟",
+    "phone": "050-5486-0918",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "挽肉と米 渋谷",
+    "visited_date": "2025-03-26",
+    "episode": "408",
+    "nearest_station": "東京都 渋谷駅から徒歩1分",
+    "address": "東京都渋谷区道玄坂２丁目２８−１椎津ビル３F",
+    "phone": "03-6455-2959",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "LATTE ART MANIA TOKYO",
+    "visited_date": "2025-03-16",
+    "episode": "405",
+    "nearest_station": "東京都北青山 外苑前駅から徒歩1分",
+    "address": "東京都港区北青山２丁目９−１３斉藤ビル1F️",
+    "phone": "03-6659-4654",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "iki ESPRESSO",
+    "visited_date": "2025-03-02",
+    "episode": "401",
+    "nearest_station": "東京都常盤 清澄白河駅から徒歩5分",
+    "address": "東京都江東区常盤２丁目２−１２ 1階️",
+    "phone": "03-6659-4654",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "佐野みそ 亀戸本店",
+    "visited_date": "2025-02-26",
+    "episode": "400",
+    "nearest_station": "東京都JR亀戸駅から徒歩4分",
+    "address": "東京都江東区亀戸１丁目３５−８",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "熟豚三代目蔵司(くらじ)",
+    "visited_date": "2025-02-16",
+    "episode": "397",
+    "nearest_station": "東京都赤坂見附駅から徒歩3分",
+    "address": "東京都港区赤坂４丁目２−２",
+    "phone": "03-5544-9797",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "洋麺屋 五右衛門 赤坂店",
+    "visited_date": "2025-01-19",
+    "episode": "389",
+    "nearest_station": "東京都赤坂駅から徒歩2分",
+    "address": "東京都港区赤坂５丁目１−４赤坂いそむらビル １Ｆ",
+    "phone": "03-3505-6121",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "かおたんラーメンえんとつ屋 南青山店",
+    "visited_date": "2025-01-12",
+    "episode": "387",
+    "nearest_station": "東京都西麻布 乃木坂駅から徒歩2分",
+    "address": "東京都港区南青山２丁目３４−３０",
+    "phone": "03-3475-6337",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "本格中華料理 陳家私菜 銀座店",
+    "visited_date": "2024-12-16",
+    "episode": "379",
+    "nearest_station": "東京都銀座 日比谷駅から徒歩5分",
+    "address": "東京都千代田区内幸町１丁目７−２４日比谷グルメゾン１F",
+    "phone": "050-5462-7098",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "博多もつ鍋 やま中 銀座店",
+    "visited_date": "2024-12-04",
+    "episode": "376",
+    "nearest_station": "東京都銀座駅から徒歩2分",
+    "address": "東京都中央区銀座３丁目２−１５ギンザ・グラッセ 1F/B1F",
+    "phone": "03-5579-9655",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "榎本ハンバーグ研究所 春日後楽園店",
+    "visited_date": "2024-11-20",
+    "episode": "372",
+    "nearest_station": "東京都文京区 春日駅から徒歩5分",
+    "address": "東京都文京区小石川１丁目１６−１６",
+    "phone": "03-5801-0883",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "dancyu食堂",
+    "visited_date": "2024-11-10",
+    "episode": "369",
+    "nearest_station": "東京駅構内のグランスタ八重北(内)",
+    "address": "東京都千代田区丸の内１丁目９−１グランスタ八重北 1F",
+    "phone": "03-6810-0525",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "浅草今半 国際通り本店",
+    "visited_date": "2024-10-30",
+    "episode": "366",
+    "nearest_station": "東京都台東区の浅草駅から徒歩1分",
+    "address": "東京都台東区西浅草３丁目１−１２",
+    "phone": "03-3841-1114",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "フートン西麻布",
+    "visited_date": "2024-10-13",
+    "episode": "361",
+    "nearest_station": "東京都 広尾駅から徒歩10分",
+    "address": "東京都港区西麻布４丁目１−８",
+    "phone": "03-5467-2213",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "筋肉食堂 銀座コリドー街店",
+    "visited_date": "2024-09-25",
+    "episode": "356",
+    "nearest_station": "東京都 新橋駅の5番口から徒歩4分",
+    "address": "東京都中央区銀座７丁目2の先2階216号室",
+    "phone": "050-3628-0435",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ル・パン・コティディアン",
+    "visited_date": "2024-09-18",
+    "episode": "354",
+    "nearest_station": "東京都 大江戸線の六本木駅8番口から徒歩4分",
+    "address": "東京都港区赤坂９丁目７−１東京ミッドタウンプラザ 1F",
+    "phone": "03-6804-5879",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "むかん横浜",
+    "visited_date": "2024-09-11",
+    "episode": "352",
+    "nearest_station": "横浜市中区 日ノ出町駅から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "ねぎし 渋谷センター街店",
+    "visited_date": "2024-07-31",
+    "episode": "348",
+    "nearest_station": "渋谷駅のスクランブル交差点から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "スパイスラーメン 点と線.",
+    "visited_date": "2024-07-14",
+    "episode": "343",
+    "nearest_station": "渋谷区下北沢駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "挽肉と米 渋谷",
+    "visited_date": "2024-06-23",
+    "episode": "337",
+    "nearest_station": "渋谷駅から徒歩1分",
+    "address": "東京都渋谷区道玄坂２丁目２８−１椎津ビル３F",
+    "phone": "03-6455-2959",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "相撲茶屋 寺尾",
+    "visited_date": "2024-06-19",
+    "episode": "336",
+    "nearest_station": "墨田区 JR両国駅から徒歩4分",
+    "address": "東京都墨田区両国２丁目１６−５あづまビル 1F",
+    "phone": "03-5600-1466",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "横浜南部市場のマルキュウ食堂",
+    "visited_date": "2024-05-19",
+    "episode": "327",
+    "nearest_station": "横浜市金沢区 南部市場駅から徒歩4分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "干物割烹 あん梅",
+    "visited_date": "2024-04-24",
+    "episode": "320",
+    "nearest_station": "港区 麻布十番駅から徒歩3分",
+    "address": "東京都港区麻布十番2-19-2",
+    "phone": "050-5597-0539",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "トーキョーアジフライ",
+    "visited_date": "2024-04-10",
+    "episode": "316",
+    "nearest_station": "千代田区 JR市ヶ谷駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "中華料理 十八番",
+    "visited_date": "2024-04-03",
+    "episode": "314",
+    "nearest_station": "千代田区 JR神田駅から徒歩6分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "食事処 相州屋",
+    "visited_date": "2024-03-20",
+    "episode": "310",
+    "nearest_station": "世田谷区 明大前駅から徒歩2分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "大3木(ダイサンボク)",
+    "visited_date": "2024-03-13",
+    "episode": "308",
+    "nearest_station": "港区 青山一丁目駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "秋葉原カリガリ",
+    "visited_date": "2024-01-17",
+    "episode": "292",
+    "nearest_station": "千代田区 末広町駅の3番口から徒歩2分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "なぎさ食堂",
+    "visited_date": "2024-01-03",
+    "episode": "288",
+    "nearest_station": "千代田区 JR水道橋駅の西口から徒歩2分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "二丁目食堂トレド",
+    "visited_date": "2023-12-17",
+    "episode": "282",
+    "nearest_station": "新宿区 飯田橋駅のB3口から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "土鍋炊ごはん『なかよし』本店",
+    "visited_date": "2023-09-24",
+    "episode": "274",
+    "nearest_station": "渋谷区 恵比寿駅から徒歩2分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "浅草もんじゃ てっぱん大吉",
+    "visited_date": "2023-09-17",
+    "episode": "272",
+    "nearest_station": "台東区 浅草駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "蕎麦 ちりん",
+    "visited_date": "2023-09-03",
+    "episode": "268",
+    "nearest_station": "東京都 武蔵小山駅から徒歩4分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "手しおごはん玄 新宿南口店",
+    "visited_date": "2023-08-20",
+    "episode": "264",
+    "nearest_station": "渋谷区 南新宿駅から徒歩4分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "日本テレビタワー『社員食堂』",
+    "visited_date": "2023-08-06",
+    "episode": "260",
+    "nearest_station": "港区 汐留駅から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "赤坂ごはん 山ね家",
+    "visited_date": "2023-06-28",
+    "episode": "249",
+    "nearest_station": "港区 赤坂駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "スシロー立川幸町店",
+    "visited_date": "2023-06-25",
+    "episode": "248",
+    "nearest_station": "東京都 砂川七番駅から徒歩10分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "伊東食堂",
+    "visited_date": "2023-05-24",
+    "episode": "238",
+    "nearest_station": "豊島区 東池袋駅から徒歩4分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "キッチンオリジン赤坂店",
+    "visited_date": "2023-05-10",
+    "episode": "234",
+    "nearest_station": "港区 赤坂駅から徒歩2分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "お食事処たかはし",
+    "visited_date": "2023-03-15",
+    "episode": "218",
+    "nearest_station": "新宿区 早稲田駅から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "御岳うどん蕎麦きり山",
+    "visited_date": "2022-10-16",
+    "episode": "170",
+    "nearest_station": "青梅市 御岳駅から徒歩10分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "動坂食堂",
+    "visited_date": "2022-09-14",
+    "episode": "160",
+    "nearest_station": "文京区 JR田端駅から徒歩10分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "東京都庁第一庁舎32階職員食堂",
+    "visited_date": "2022-08-07",
+    "episode": "150",
+    "nearest_station": "新宿区 都庁前駅のA4口から徒歩1分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "おひつ膳田んぼ 三軒茶屋店",
+    "visited_date": "2022-06-12",
+    "episode": "135",
+    "nearest_station": "世田谷区 三軒茶屋駅から徒歩5分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "島忠ホームズ川崎大師店",
+    "visited_date": "2021-08-08",
+    "episode": "29",
+    "nearest_station": "神奈川県 東門前駅から徒歩3分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "IKEA横浜(旧IKEA港北)",
+    "visited_date": "2021-07-18",
+    "episode": "23",
+    "nearest_station": "横浜駅から車で15分",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  },
+  {
+    "name": "マクドナルド トレッサ横浜店",
+    "visited_date": "2021-05-08",
+    "episode": "10",
+    "nearest_station": "",
+    "address": "",
+    "phone": "",
+    "group": "yonino",
+    "groups": [
+      "yonino"
+    ]
+  }
+]

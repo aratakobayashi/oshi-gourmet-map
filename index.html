@@ -25,15 +25,15 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
       </div>
       <div class="hero__stats">
         <div class="hero__stat">
-          <span class="hero__stat-num">468</span>
+          <span class="hero__stat-num" id="stat-spots">—</span>
           <span class="hero__stat-label">収録スポット</span>
         </div>
         <div class="hero__stat">
-          <span class="hero__stat-num">13</span>
+          <span class="hero__stat-num" id="stat-groups">—</span>
           <span class="hero__stat-label">グループ</span>
         </div>
         <div class="hero__stat">
-          <span class="hero__stat-num">28</span>
+          <span class="hero__stat-num" id="stat-prefs">—</span>
           <span class="hero__stat-label">都道府県</span>
         </div>
       </div>
@@ -229,7 +229,9 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
         + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
         + '</div>';
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-    return '<a class="feed-card" href="' + BASE + '/shops/?group=' + esc(group) + '" title="' + esc(shop.name) + '">'
+    var shopSlug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+    var shopUrl  = BASE + '/shops/' + shopSlug + '/';
+    return '<a class="feed-card" href="' + shopUrl + '" title="' + esc(shop.name) + '">'
       + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
       + imgHtml
       + '<div class="feed-card__body">'
@@ -267,6 +269,14 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
     .then(function(shops) {
       renderFeed(shops, 'recent');
       initFeedTabs(shops);
+
+      // ヒーロー統計数字を動的に更新
+      var spots  = document.getElementById('stat-spots');
+      var groups = document.getElementById('stat-groups');
+      var prefs  = document.getElementById('stat-prefs');
+      if (spots)  spots.textContent  = shops.length;
+      if (groups) groups.textContent = new Set(shops.flatMap(function(s) { return s.groups || (s.group ? [s.group] : []); })).size;
+      if (prefs)  prefs.textContent  = new Set(shops.map(function(s) { return s.prefecture; }).filter(Boolean)).size;
     })
     .catch(function() {
       var s = document.getElementById('latest-feed-section');

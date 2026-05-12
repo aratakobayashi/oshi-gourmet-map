@@ -75,7 +75,7 @@ layout: default
   <div class="shop-hero__inner">
     <div class="shop-hero__media">
       {% if s.youtube_id %}
-        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/maxresdefault.jpg" alt="{{ s.name }}" width="1280" height="720">
+        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/hqdefault.jpg" alt="{{ s.name }}" width="480" height="360">
       {% else %}
         <div class="shop-hero__media-placeholder">🍽️</div>
       {% endif %}
@@ -181,7 +181,7 @@ layout: default
     <div class="shop-related-scroll"
          id="related-by-member"
          data-members="{{ s.members | join: ',' }}"
-         data-exclude="{{ s.shop_id }}">
+         data-exclude="{{ s.id }}">
     </div>
   </section>
   {% endif %}
@@ -196,7 +196,7 @@ layout: default
     <div class="shop-related-scroll"
          id="related-by-genre"
          data-genre="{{ s.genre }}"
-         data-exclude="{{ s.shop_id }}">
+         data-exclude="{{ s.id }}">
     </div>
   </section>
   {% endif %}
