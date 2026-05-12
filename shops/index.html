@@ -30,32 +30,17 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   <div class="shop-controls-bar">
     <p class="result-count" id="result-count"></p>
     <div class="view-tabs">
-      <button class="tab-btn active" data-view="grid">リスト表示</button>
-      <button class="tab-btn" data-view="map">地図表示</button>
+      <button class="tab-btn active" data-view="grid">写真</button>
+      <button class="tab-btn" data-view="map">地図</button>
     </div>
   </div>
 </div>
 
-<!-- マスター・ディテール レイアウト -->
-<div class="shop-master-detail container" id="shop-list-wrap">
-
-  <!-- 左：店舗リスト -->
-  <div class="shop-list-col" id="view-grid">
-    <div class="shop-list" id="shop-grid">
-      <p class="loading">読み込み中...</p>
-    </div>
+<!-- フォトグリッド -->
+<div id="shop-list-wrap">
+  <div class="photo-grid" id="shop-grid">
+    <p class="loading">読み込み中...</p>
   </div>
-
-  <!-- 右：詳細パネル（PC専用） -->
-  <aside class="shop-detail-col" id="shop-panel" aria-label="店舗詳細">
-    <div class="shop-detail-placeholder" id="shop-detail-placeholder">
-      <div class="shop-detail-placeholder__icon">🍽️</div>
-      <p class="shop-detail-placeholder__title">お店を選んでください</p>
-      <p class="shop-detail-placeholder__sub">左のリストからお店をクリックすると<br>詳細が表示されます</p>
-    </div>
-    <div id="shop-panel-content" style="display:none"></div>
-  </aside>
-
 </div>
 
 <!-- 地図 -->
