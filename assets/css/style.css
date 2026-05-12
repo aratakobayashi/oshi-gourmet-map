@@ -457,35 +457,54 @@ img { max-width: 100%; display: block; }
 
 /* ---- 目次 ---- */
 .toc-box {
-  background: linear-gradient(135deg, #fdf0f3 0%, #f5f0ff 100%);
-  border: 1px solid #e8d0da;
-  border-radius: var(--radius);
-  padding: 20px 24px 20px;
+  background: #fff;
+  border: 2px solid #f0c8d4;
+  border-radius: 14px;
+  padding: 20px 24px;
   margin: 0 0 36px;
 }
 .toc-title {
-  font-weight: 700;
-  font-size: 0.95rem;
-  margin-bottom: 12px;
-  color: var(--color-text);
-  letter-spacing: 0.03em;
+  font-weight: 800;
+  font-size: 0.88rem;
+  margin-bottom: 14px;
+  color: var(--c-berry);
+  letter-spacing: .06em;
+  text-transform: uppercase;
 }
 .toc-list {
-  padding-left: 22px;
+  padding-left: 0;
   margin: 0;
+  list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 2px;
+  counter-reset: toc-counter;
 }
-.toc-list li { margin: 0; }
+.toc-list li {
+  margin: 0;
+  counter-increment: toc-counter;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+.toc-list li::before {
+  content: counter(toc-counter, decimal-leading-zero);
+  font-family: var(--f-mono);
+  font-size: 11px;
+  color: var(--c-berry);
+  font-weight: 700;
+  flex-shrink: 0;
+  opacity: .7;
+}
 .toc-list a {
-  font-size: 0.88rem;
-  color: #444;
+  font-size: 0.9rem;
+  color: var(--c-text);
   border-bottom: none;
-  transition: var(--transition);
-  line-height: 1.5;
+  transition: color .15s;
+  line-height: 1.8;
+  padding: 2px 0;
 }
-.toc-list a:hover { color: var(--color-primary); text-decoration: none; }
+.toc-list a:hover { color: var(--c-berry); }
 
 /* ---- ヘッダー ---- */
 .post-header {
@@ -667,6 +686,44 @@ img { max-width: 100%; display: block; }
 
 /* ---- 更新日 ---- */
 .post-meta__updated { color: var(--c-muted); font-size: 12px; margin-left: 6px; }
+
+/* ---- この記事でわかること ---- */
+.post-summary {
+  background: #f9f5ff;
+  border: 2px solid #e8d5fb;
+  border-radius: 14px;
+  padding: 20px 24px;
+  margin: 24px 0 32px;
+}
+.post-summary__title {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #7c3aed;
+  letter-spacing: .05em;
+  margin-bottom: 12px;
+}
+.post-summary__list {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.post-summary__list li {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  padding-left: 1.4em;
+  position: relative;
+  color: var(--c-text);
+}
+.post-summary__list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #7c3aed;
+  font-weight: 700;
+}
 
 /* ---- FAQ ---- */
 .faq { margin: 48px 0; }

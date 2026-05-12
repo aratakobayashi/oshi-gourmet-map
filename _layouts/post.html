@@ -127,9 +127,21 @@ layout: default
     {% endif %}
   </header>
 
+  <!-- この記事でわかること -->
+  {% if page.summary %}
+  <div class="post-summary">
+    <p class="post-summary__title">📌 この記事でわかること</p>
+    <ul class="post-summary__list">
+      {% for item in page.summary %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   <!-- 目次（JavaScriptで自動生成） -->
   <nav class="toc-box" id="toc-wrapper" aria-label="目次" style="display:none">
-    <p class="toc-title">📋 この記事の目次</p>
+    <p class="toc-title">📋 目次</p>
     <ol class="toc-list" id="toc-list"></ol>
   </nav>
 
