@@ -1296,8 +1296,11 @@ img { max-width: 100%; display: block; }
     border-top: 1px solid var(--color-border, #eee);
     box-shadow: 0 -4px 16px rgba(0,0,0,.07);
     z-index: 150;
-    /* ホームインジケーター対応 */
     padding-bottom: env(safe-area-inset-bottom);
+    transition: transform 0.25s ease;
+  }
+  .bottom-nav--hidden {
+    transform: translateY(100%);
   }
   .bottom-nav__item {
     flex: 1;

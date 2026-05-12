@@ -3,6 +3,24 @@
  * お店データの読み込み・フィルター・グリッド表示・モーダル制御
  */
 
+// ===========================
+// ボトムナビ スクロール自動非表示（SP）
+// ===========================
+(function() {
+  var nav = document.querySelector('.bottom-nav');
+  if (!nav) return;
+  var lastY = 0;
+  window.addEventListener('scroll', function() {
+    var y = window.scrollY;
+    if (y > lastY && y > 80) {
+      nav.classList.add('bottom-nav--hidden');
+    } else {
+      nav.classList.remove('bottom-nav--hidden');
+    }
+    lastY = y;
+  }, { passive: true });
+})();
+
 const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops.json';
 
 let allShops = [];
