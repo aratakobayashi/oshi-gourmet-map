@@ -2,7 +2,7 @@
 layout: shop
 title: "THE SMASH SCRAMBLE"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-the_smash_scramble-20250613"
+shop_id: "equal_love-the_smash_scramble-20250613"
 name: "THE SMASH SCRAMBLE"
 genre: "食事"
 prefecture: "東京都"

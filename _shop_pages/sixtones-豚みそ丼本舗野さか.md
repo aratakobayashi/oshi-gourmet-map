@@ -2,7 +2,7 @@
 layout: shop
 title: "豚みそ丼本舗 野さか"
 description: "秩父グルメ「豚みそ丼」の超人気店。炭火の香りが最高。"
-id: "sixtones-豚みそ丼本舗野さか"
+shop_id: "sixtones-豚みそ丼本舗野さか"
 name: "豚みそ丼本舗 野さか"
 genre: "食事"
 prefecture: "埼玉県"

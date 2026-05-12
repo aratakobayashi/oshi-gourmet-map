@@ -2,7 +2,7 @@
 layout: shop
 title: "カリフキッチン沖縄"
 description: "食事・中頭郡北谷町沖縄県・イコラブが訪問"
-id: "equal_love-カリフキッチン沖縄-20240815"
+shop_id: "equal_love-カリフキッチン沖縄-20240815"
 name: "カリフキッチン沖縄"
 genre: "食事"
 prefecture: "沖縄県"

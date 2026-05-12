@@ -2,7 +2,7 @@
 layout: shop
 title: "コロラド"
 description: "食事・かまいたちが訪問"
-id: "kamaitachi-コロラド-"
+shop_id: "kamaitachi-コロラド-"
 name: "コロラド"
 genre: "食事"
 youtube_id: "kU8SZpaXoBE"

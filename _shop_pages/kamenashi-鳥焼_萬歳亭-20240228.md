@@ -2,7 +2,7 @@
 layout: shop
 title: "鳥焼 萬歳亭"
 description: "宮崎に着いた後、亀梨くんがご飯を食べに行った焼き鳥屋さんです。"
-id: "kamenashi-鳥焼_萬歳亭-20240228"
+shop_id: "kamenashi-鳥焼_萬歳亭-20240228"
 name: "鳥焼 萬歳亭"
 genre: "食事"
 prefecture: "宮崎県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "KIZASU.COFFEE"
 description: "御成門駅すぐのコスパ高めのコーヒースタンド。よにのちゃんねる#442に登場。"
-id: "yonino-kizasu-coffee"
+shop_id: "yonino-kizasu-coffee"
 name: "KIZASU.COFFEE"
 genre: "カフェ"
 prefecture: "東京都"

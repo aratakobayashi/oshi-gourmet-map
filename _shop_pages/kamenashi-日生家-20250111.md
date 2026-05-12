@@ -2,7 +2,7 @@
 layout: shop
 title: "日生家"
 description: "牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。"
-id: "kamenashi-日生家-20250111"
+shop_id: "kamenashi-日生家-20250111"
 name: "日生家"
 genre: "食事"
 prefecture: "岡山県"

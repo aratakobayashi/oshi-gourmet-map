@@ -2,7 +2,7 @@
 layout: shop
 title: "Hohokam DINER"
 description: "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。"
-id: "kamenashi-hohokam_diner-20240413"
+shop_id: "kamenashi-hohokam_diner-20240413"
 name: "Hohokam DINER"
 genre: "ラーメン"
 prefecture: "東京都"

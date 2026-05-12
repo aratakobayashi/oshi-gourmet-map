@@ -2,7 +2,7 @@
 layout: shop
 title: "Eggs 'n Things 原宿店"
 description: "パンケーキブームの火付け役店で山盛りホイップに驚愕。"
-id: "sixtones-eggs-nthings原宿店"
+shop_id: "sixtones-eggs-nthings原宿店"
 name: "Eggs 'n Things 原宿店"
 genre: "スイーツ"
 prefecture: "東京都"

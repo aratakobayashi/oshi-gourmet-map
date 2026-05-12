@@ -2,7 +2,7 @@
 layout: shop
 title: "武蔵野アブラ學会 早稲田別館"
 description: "早稲田名物の油そば専門店。すの日常2025年4月23日配信。"
-id: "snowman-abura-gakkai-waseda"
+shop_id: "snowman-abura-gakkai-waseda"
 name: "武蔵野アブラ學会 早稲田別館"
 genre: "ラーメン"
 prefecture: "東京都"

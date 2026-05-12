@@ -2,7 +2,7 @@
 layout: shop
 title: "タコライスcafe きじむなぁ デポアイランド店"
 description: "食事・中頭郡北谷町沖縄県・≠MEが訪問"
-id: "notme-タコライスcafe_きじむなぁ_デポアイ-20241125"
+shop_id: "notme-タコライスcafe_きじむなぁ_デポアイ-20241125"
 name: "タコライスcafe きじむなぁ デポアイランド店"
 genre: "食事"
 prefecture: "沖縄県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "OMO5横浜馬車道 by 星野リゾート"
 description: "食事・横浜市神奈川県・イコラブが訪問"
-id: "equal_love-omo5横浜馬車道_by_星野リゾート-20260322"
+shop_id: "equal_love-omo5横浜馬車道_by_星野リゾート-20260322"
 name: "OMO5横浜馬車道 by 星野リゾート"
 genre: "食事"
 prefecture: "神奈川県"

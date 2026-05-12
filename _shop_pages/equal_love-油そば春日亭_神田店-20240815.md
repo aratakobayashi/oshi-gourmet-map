@@ -2,7 +2,7 @@
 layout: shop
 title: "油そば春日亭 神田店"
 description: "食事・千代田区東京都・イコラブが訪問"
-id: "equal_love-油そば春日亭_神田店-20240815"
+shop_id: "equal_love-油そば春日亭_神田店-20240815"
 name: "油そば春日亭 神田店"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "Le Rhin Bleu"
 description: "スイスでディナーを食べに来た、ライン川の上にあるお店です。"
-id: "kamenashi-le_rhin_bleu-20241116"
+shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
 genre: "食事"
 address: "St. Alban-Rheinweg 195, 4052 Basel, スイス"

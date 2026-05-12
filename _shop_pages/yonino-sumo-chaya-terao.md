@@ -2,7 +2,7 @@
 layout: shop
 title: "相撲茶屋 寺尾"
 description: "元関取が営むちゃんこ鍋店。中丸さんの誕生日企画などで訪れています。"
-id: "yonino-sumo-chaya-terao"
+shop_id: "yonino-sumo-chaya-terao"
 name: "相撲茶屋 寺尾"
 genre: "和食"
 prefecture: "東京都"

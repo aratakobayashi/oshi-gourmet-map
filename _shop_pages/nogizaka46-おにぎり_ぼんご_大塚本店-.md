@@ -2,7 +2,7 @@
 layout: shop
 title: "おにぎり ぼんご 大塚本店"
 description: "『乃木坂どこへ』で4期生が訪れたおにぎり専門店です^ ^"
-id: "nogizaka46-おにぎり_ぼんご_大塚本店-"
+shop_id: "nogizaka46-おにぎり_ぼんご_大塚本店-"
 name: "おにぎり ぼんご 大塚本店"
 genre: "食事"
 prefecture: "東京都"

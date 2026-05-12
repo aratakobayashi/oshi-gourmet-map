@@ -2,7 +2,7 @@
 layout: shop
 title: "VERVE COFFEE ROASTERS EBISU"
 description: "米カリフォルニア発のスペシャルティコーヒーロースター。恵比寿ガーデンプレイス内の開放的な空間で上質なコーヒーを楽しめる。よにのちゃんねる#469で登場。"
-id: "yonino-verve-coffee-ebisu"
+shop_id: "yonino-verve-coffee-ebisu"
 name: "VERVE COFFEE ROASTERS EBISU"
 genre: "カフェ"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "Samoyed cafe AL 横浜中華街店"
 description: "食事・横浜市神奈川県・≒JOYが訪問"
-id: "neajoy-samoyed_cafe_al_横浜中華-20250903"
+shop_id: "neajoy-samoyed_cafe_al_横浜中華-20250903"
 name: "Samoyed cafe AL 横浜中華街店"
 genre: "食事"
 prefecture: "神奈川県"

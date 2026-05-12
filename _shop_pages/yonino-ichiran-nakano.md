@@ -2,7 +2,7 @@
 layout: shop
 title: "一蘭 中野店"
 description: "天然とんこつラーメンの名店・一蘭の中野店。一人一人仕切られた「味集中カウンター」スタイルで有名。よにのちゃんねる#480で登場。"
-id: "yonino-ichiran-nakano"
+shop_id: "yonino-ichiran-nakano"
 name: "一蘭 中野店"
 genre: "ラーメン"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "ALES SHOP"
 description: "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。"
-id: "kamenashi-ales_shop-20241120"
+shop_id: "kamenashi-ales_shop-20241120"
 name: "ALES SHOP"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "もりもり寿司 金沢駅前店"
 description: "金沢で大人気の回転寿司。のどぐろ等の新鮮なネタに感動。"
-id: "sixtones-もりもり寿司金沢駅前店"
+shop_id: "sixtones-もりもり寿司金沢駅前店"
 name: "もりもり寿司 金沢駅前店"
 genre: "寿司"
 prefecture: "石川県"

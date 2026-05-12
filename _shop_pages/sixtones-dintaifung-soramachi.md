@@ -2,7 +2,7 @@
 layout: shop
 title: "鼎泰豊（ディンタイフォン）東京ソラマチ店"
 description: "東京ソラマチの台湾小籠包名店。2023年大晦日忘年会の会場として6人が訪問。小籠包・エビ餃子・各種点心を堪能（ストチューブ2024年1月19日配信）。"
-id: "sixtones-dintaifung-soramachi"
+shop_id: "sixtones-dintaifung-soramachi"
 name: "鼎泰豊（ディンタイフォン）東京ソラマチ店"
 genre: "中華"
 prefecture: "東京都"

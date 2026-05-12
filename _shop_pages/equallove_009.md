@@ -2,7 +2,7 @@
 layout: shop
 title: "俏香（チャオシャン）"
 description: "「きあまい」の中華街食べ歩きで訪問。顔の大きさほどある大きな肉まんが名物。"
-id: "equallove_009"
+shop_id: "equallove_009"
 name: "俏香（チャオシャン）"
 genre: "中華"
 prefecture: "神奈川県"

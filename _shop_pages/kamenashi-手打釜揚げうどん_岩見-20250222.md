@@ -2,7 +2,7 @@
 layout: shop
 title: "手打釜揚げうどん 岩見"
 description: "亀梨くんが毎年言っているといううどん屋さんです。 こちらのお店の魚ずしが大好きだと話されていました。"
-id: "kamenashi-手打釜揚げうどん_岩見-20250222"
+shop_id: "kamenashi-手打釜揚げうどん_岩見-20250222"
 name: "手打釜揚げうどん 岩見"
 genre: "ラーメン"
 prefecture: "宮崎県"

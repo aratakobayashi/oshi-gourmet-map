@@ -2,7 +2,7 @@
 layout: shop
 title: "一蘭 渋谷店"
 description: "おなじみの味集中カウンターでメンバーが黙々と実食。"
-id: "sixtones-一蘭渋谷店"
+shop_id: "sixtones-一蘭渋谷店"
 name: "一蘭 渋谷店"
 genre: "ラーメン"
 prefecture: "東京都"

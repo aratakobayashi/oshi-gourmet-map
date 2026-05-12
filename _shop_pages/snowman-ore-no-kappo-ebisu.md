@@ -2,7 +2,7 @@
 layout: shop
 title: "俺の割烹 炉ばた 恵比寿"
 description: "恵比寿の炉端焼き割烹。すの日常2026年1月21日配信。"
-id: "snowman-ore-no-kappo-ebisu"
+shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
 genre: "居酒屋"
 prefecture: "東京都"

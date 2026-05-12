@@ -2,7 +2,7 @@
 layout: shop
 title: "ラーメン山岡家 青梅店"
 description: "食事・青梅市東京都・イコラブが訪問"
-id: "equal_love-ラーメン山岡家_青梅店-20250829"
+shop_id: "equal_love-ラーメン山岡家_青梅店-20250829"
 name: "ラーメン山岡家 青梅店"
 genre: "食事"
 prefecture: "東京都"

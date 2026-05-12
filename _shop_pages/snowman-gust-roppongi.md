@@ -2,7 +2,7 @@
 layout: shop
 title: "ガスト 六本木店"
 description: "「ガストで人気メニューを当てろ」企画。ファミレスの定番メニューをメンバーがガチ予想。"
-id: "snowman-gust-roppongi"
+shop_id: "snowman-gust-roppongi"
 name: "ガスト 六本木店"
 genre: "食事"
 prefecture: "東京都"

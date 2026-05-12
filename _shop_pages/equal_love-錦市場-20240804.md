@@ -2,7 +2,7 @@
 layout: shop
 title: "錦市場"
 description: "食事・京都市京都府・イコラブが訪問"
-id: "equal_love-錦市場-20240804"
+shop_id: "equal_love-錦市場-20240804"
 name: "錦市場"
 genre: "食事"
 prefecture: "京都府"

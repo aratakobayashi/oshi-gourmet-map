@@ -2,7 +2,7 @@
 layout: shop
 title: "辛麺屋桝元 赤江店"
 description: "宮崎に来るときは毎回食べているという辛麵を食べにきました。"
-id: "kamenashi-辛麺屋桝元_赤江店-20240406"
+shop_id: "kamenashi-辛麺屋桝元_赤江店-20240406"
 name: "辛麺屋桝元 赤江店"
 genre: "ラーメン"
 prefecture: "宮崎県"

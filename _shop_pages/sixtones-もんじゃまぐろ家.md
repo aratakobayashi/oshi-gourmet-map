@@ -2,7 +2,7 @@
 layout: shop
 title: "もんじゃ まぐろ家"
 description: "月島ロケ。自分たちでもんじゃを焼く賑やかな動画。"
-id: "sixtones-もんじゃまぐろ家"
+shop_id: "sixtones-もんじゃまぐろ家"
 name: "もんじゃ まぐろ家"
 genre: "もんじゃ"
 prefecture: "東京都"

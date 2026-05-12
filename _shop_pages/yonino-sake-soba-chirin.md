@@ -2,7 +2,7 @@
 layout: shop
 title: "酒と蕎麦ちりん"
 description: "よにのちゃんねる#268登場。武蔵小山の蕎麦居酒屋。"
-id: "yonino-sake-soba-chirin"
+shop_id: "yonino-sake-soba-chirin"
 name: "酒と蕎麦ちりん"
 genre: "和食"
 prefecture: "東京都"

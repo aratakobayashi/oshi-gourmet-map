@@ -2,7 +2,7 @@
 layout: shop
 title: "GEBURA"
 description: "食事・廿日市広島県・イコラブが訪問"
-id: "equal_love-gebura-20250915"
+shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
 genre: "食事"
 prefecture: "広島県"

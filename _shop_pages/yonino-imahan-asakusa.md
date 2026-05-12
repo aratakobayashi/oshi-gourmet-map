@@ -2,7 +2,7 @@
 layout: shop
 title: "浅草今半 国際通り本店"
 description: "浅草の老舗すき焼き店。中丸さんの誕生日企画の豪華ランチで訪れました。"
-id: "yonino-imahan-asakusa"
+shop_id: "yonino-imahan-asakusa"
 name: "浅草今半 国際通り本店"
 genre: "和食"
 prefecture: "東京都"

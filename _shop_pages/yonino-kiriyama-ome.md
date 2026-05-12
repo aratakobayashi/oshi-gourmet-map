@@ -2,7 +2,7 @@
 layout: shop
 title: "きり山"
 description: "よにのちゃんねる#170登場。青梅の蕎麦店。"
-id: "yonino-kiriyama-ome"
+shop_id: "yonino-kiriyama-ome"
 name: "きり山"
 genre: "和食"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "お肴野郎 清介"
 description: "食事・熱海市静岡県・イコラブが訪問"
-id: "equal_love-お肴野郎_清介-20250905"
+shop_id: "equal_love-お肴野郎_清介-20250905"
 name: "お肴野郎 清介"
 genre: "食事"
 prefecture: "静岡県"

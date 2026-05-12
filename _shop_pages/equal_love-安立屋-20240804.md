@@ -2,7 +2,7 @@
 layout: shop
 title: "安立屋"
 description: "食事・台東区東京都・イコラブが訪問"
-id: "equal_love-安立屋-20240804"
+shop_id: "equal_love-安立屋-20240804"
 name: "安立屋"
 genre: "食事"
 prefecture: "東京都"

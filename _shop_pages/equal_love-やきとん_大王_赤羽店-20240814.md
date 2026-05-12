@@ -2,7 +2,7 @@
 layout: shop
 title: "やきとん 大王 赤羽店"
 description: "食事・東京都・イコラブが訪問"
-id: "equal_love-やきとん_大王_赤羽店-20240814"
+shop_id: "equal_love-やきとん_大王_赤羽店-20240814"
 name: "やきとん 大王 赤羽店"
 genre: "食事"
 prefecture: "東京都"

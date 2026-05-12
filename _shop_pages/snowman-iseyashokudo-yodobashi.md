@@ -2,7 +2,7 @@
 layout: shop
 title: "伊勢屋食堂（淀橋市場内）"
 description: "1951年創業の昭和レトロな市場内食堂。すの日常2025年2月5日配信。"
-id: "snowman-iseyashokudo-yodobashi"
+shop_id: "snowman-iseyashokudo-yodobashi"
 name: "伊勢屋食堂（淀橋市場内）"
 genre: "食事"
 prefecture: "東京都"

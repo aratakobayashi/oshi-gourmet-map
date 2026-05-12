@@ -2,7 +2,7 @@
 layout: shop
 title: "うなぎ徳 渋谷店"
 description: "渋谷ヒカリエ内にある高級うなぎ店。絶品ひつまぶしを堪能。"
-id: "sixtones-うなぎ徳渋谷店"
+shop_id: "sixtones-うなぎ徳渋谷店"
 name: "うなぎ徳 渋谷店"
 genre: "和食"
 prefecture: "東京都"

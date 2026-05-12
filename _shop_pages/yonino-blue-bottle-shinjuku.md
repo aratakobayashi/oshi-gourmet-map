@@ -2,7 +2,7 @@
 layout: shop
 title: "ブルーボトルコーヒー 新宿カフェ"
 description: "よにのちゃんねる#399登場。新宿のブルーボトルコーヒーでスペシャルティコーヒーをテイクアウト。"
-id: "yonino-blue-bottle-shinjuku"
+shop_id: "yonino-blue-bottle-shinjuku"
 name: "ブルーボトルコーヒー 新宿カフェ"
 genre: "カフェ"
 prefecture: "東京都"

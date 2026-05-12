@@ -2,7 +2,7 @@
 layout: shop
 title: "鳥貴族 新宿東口店"
 description: "「鳥貴族で全メニュー当てるまで帰れま10」的な企画で訪問。メンバーの好みが分かれる面白い回です。"
-id: "sixtones-toriki-shinjuku"
+shop_id: "sixtones-toriki-shinjuku"
 name: "鳥貴族 新宿東口店"
 genre: "居酒屋"
 prefecture: "東京都"

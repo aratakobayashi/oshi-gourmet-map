@@ -2,7 +2,7 @@
 layout: shop
 title: "おにぎり ぼんご"
 description: "大塚にある超人気おにぎり専門店。具だくさんで大きなおにぎりにメンバーが驚いていました。"
-id: "sixtones-onigiri-bongo"
+shop_id: "sixtones-onigiri-bongo"
 name: "おにぎり ぼんご"
 genre: "和食"
 prefecture: "東京都"

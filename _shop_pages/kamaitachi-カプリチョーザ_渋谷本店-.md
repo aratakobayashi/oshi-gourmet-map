@@ -2,7 +2,7 @@
 layout: shop
 title: "カプリチョーザ 渋谷本店"
 description: "食事・かまいたちが訪問"
-id: "kamaitachi-カプリチョーザ_渋谷本店-"
+shop_id: "kamaitachi-カプリチョーザ_渋谷本店-"
 name: "カプリチョーザ 渋谷本店"
 genre: "食事"
 nearest_station: "渋谷駅"

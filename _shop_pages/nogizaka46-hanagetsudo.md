@@ -2,7 +2,7 @@
 layout: shop
 title: "浅草 花月堂"
 description: "乃木坂46のメンバーが訪れたジャンボめろんぱんの超有名店。"
-id: "nogizaka46-hanagetsudo"
+shop_id: "nogizaka46-hanagetsudo"
 name: "浅草 花月堂"
 genre: "スイーツ"
 prefecture: "東京都"

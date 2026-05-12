@@ -2,7 +2,7 @@
 layout: shop
 title: "華 千房 恵比寿ガーデンプレイス店"
 description: "妖怪人間ベムで共演した、鈴木福くんと杏さんと再会し行ったお店です。"
-id: "kamenashi-華_千房_恵比寿ガーデンプレイス店-20240803"
+shop_id: "kamenashi-華_千房_恵比寿ガーデンプレイス店-20240803"
 name: "華 千房 恵比寿ガーデンプレイス店"
 genre: "もんじゃ"
 prefecture: "東京都"

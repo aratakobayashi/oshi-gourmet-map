@@ -2,7 +2,7 @@
 layout: shop
 title: "土鍋ご飯いくしか 中目黒店"
 description: "おかわり自由の土鍋ご飯定食。すの日常2025年6月11日配信。"
-id: "snowman-donabe-gohan-ikushika"
+shop_id: "snowman-donabe-gohan-ikushika"
 name: "土鍋ご飯いくしか 中目黒店"
 genre: "和食"
 prefecture: "東京都"

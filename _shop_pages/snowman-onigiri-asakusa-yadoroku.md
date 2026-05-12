@@ -2,7 +2,7 @@
 layout: shop
 title: "おにぎり浅草宿六"
 description: "東京最古のおにぎり専門店。ミシュランガイド掲載。すの日常2024年9月18日配信。"
-id: "snowman-onigiri-asakusa-yadoroku"
+shop_id: "snowman-onigiri-asakusa-yadoroku"
 name: "おにぎり浅草宿六"
 genre: "和食"
 prefecture: "東京都"

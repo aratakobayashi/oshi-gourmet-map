@@ -2,7 +2,7 @@
 layout: shop
 title: "回転すし活一鮮"
 description: "食事・札幌市北海道・イコラブが訪問"
-id: "equal_love-回転すし活一鮮-20240815"
+shop_id: "equal_love-回転すし活一鮮-20240815"
 name: "回転すし活一鮮"
 genre: "食事"
 prefecture: "北海道"

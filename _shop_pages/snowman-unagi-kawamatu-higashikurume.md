@@ -2,7 +2,7 @@
 layout: shop
 title: "うなぎ川松"
 description: "釣り部結成記念食事会。40年継ぎ足しの秘伝タレで焼くうなぎが絶品。すの日常2024年2月7日配信。"
-id: "snowman-unagi-kawamatu-higashikurume"
+shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "和食"
 prefecture: "東京都"

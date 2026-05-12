@@ -2,7 +2,7 @@
 layout: shop
 title: "もんじゃ 竹の子"
 description: "【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！"
-id: "kamenashi-もんじゃ_竹の子-20250329"
+shop_id: "kamenashi-もんじゃ_竹の子-20250329"
 name: "もんじゃ 竹の子"
 genre: "もんじゃ"
 prefecture: "東京都"

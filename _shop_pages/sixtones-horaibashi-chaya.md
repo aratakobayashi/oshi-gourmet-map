@@ -2,7 +2,7 @@
 layout: shop
 title: "蓬莱橋897.4茶屋"
 description: "日本一長い木造橋・蓬莱橋のたもとにある茶屋。Shizuoka Travelシリーズ（ストチューブ静岡旅）で6人が訪問し、橋の景観とともに地元スイーツを楽しんだ。"
-id: "sixtones-horaibashi-chaya"
+shop_id: "sixtones-horaibashi-chaya"
 name: "蓬莱橋897.4茶屋"
 genre: "カフェ"
 prefecture: "静岡県"

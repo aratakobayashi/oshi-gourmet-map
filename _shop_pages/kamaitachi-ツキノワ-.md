@@ -2,7 +2,7 @@
 layout: shop
 title: "ツキノワ"
 description: "スパイスカレー"
-id: "kamaitachi-ツキノワ-"
+shop_id: "kamaitachi-ツキノワ-"
 name: "ツキノワ"
 genre: "カレー"
 youtube_id: "kU8SZpaXoBE"

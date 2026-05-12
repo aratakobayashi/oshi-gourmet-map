@@ -2,7 +2,7 @@
 layout: shop
 title: "400℃ PIZZA TOKYO"
 description: "神楽坂の予約困難ピッツェリア。400℃の高温で焼き上げるサクサクふわふわの生地が絶品。ミシュランビブグルマン受賞。よにのちゃんねる#431で登場。"
-id: "yonino-400-pizza"
+shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
 genre: "食事"
 prefecture: "東京都"

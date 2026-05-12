@@ -2,7 +2,7 @@
 layout: shop
 title: "LONG! LONGER!! LONGEST!!! 原宿本店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-long_longer_longest_-20240804"
+shop_id: "equal_love-long_longer_longest_-20240804"
 name: "LONG! LONGER!! LONGEST!!! 原宿本店"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "焼肉 哲 TETSU 池袋店"
 description: "食事・豊島区東京都・イコラブが訪問"
-id: "equal_love-焼肉_哲_tetsu_池袋店-20240814"
+shop_id: "equal_love-焼肉_哲_tetsu_池袋店-20240814"
 name: "焼肉 哲 TETSU 池袋店"
 genre: "食事"
 prefecture: "東京都"

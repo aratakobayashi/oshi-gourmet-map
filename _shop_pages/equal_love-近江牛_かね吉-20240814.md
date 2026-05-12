@@ -2,7 +2,7 @@
 layout: shop
 title: "近江牛 かね吉"
 description: "食事・大津市滋賀県・イコラブが訪問"
-id: "equal_love-近江牛_かね吉-20240814"
+shop_id: "equal_love-近江牛_かね吉-20240814"
 name: "近江牛 かね吉"
 genre: "食事"
 prefecture: "滋賀県"

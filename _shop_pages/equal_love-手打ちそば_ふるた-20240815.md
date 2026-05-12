@@ -2,7 +2,7 @@
 layout: shop
 title: "手打ちそば ふるた"
 description: "食事・府中市東京都・イコラブが訪問"
-id: "equal_love-手打ちそば_ふるた-20240815"
+shop_id: "equal_love-手打ちそば_ふるた-20240815"
 name: "手打ちそば ふるた"
 genre: "食事"
 prefecture: "東京都"

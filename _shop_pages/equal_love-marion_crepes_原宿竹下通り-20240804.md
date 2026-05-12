@@ -2,7 +2,7 @@
 layout: shop
 title: "MARION CREPES 原宿竹下通り店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-marion_crepes_原宿竹下通り-20240804"
+shop_id: "equal_love-marion_crepes_原宿竹下通り-20240804"
 name: "MARION CREPES 原宿竹下通り店"
 genre: "食事"
 prefecture: "東京都"

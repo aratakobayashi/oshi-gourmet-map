@@ -2,7 +2,7 @@
 layout: shop
 title: "Cicheti"
 description: "京本大我さんが訪れたシンガポールのおしゃれなイタリアン。"
-id: "sixtones-cicheti"
+shop_id: "sixtones-cicheti"
 name: "Cicheti"
 genre: "その他"
 prefecture: "シンガポール"

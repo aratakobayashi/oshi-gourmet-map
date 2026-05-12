@@ -2,7 +2,7 @@
 layout: shop
 title: "清水順正 おかべ家"
 description: "食事・京都市京都府・イコラブが訪問"
-id: "equal_love-清水順正_おかべ家-20240804"
+shop_id: "equal_love-清水順正_おかべ家-20240804"
 name: "清水順正 おかべ家"
 genre: "食事"
 prefecture: "京都府"

@@ -2,7 +2,7 @@
 layout: shop
 title: "鮨文"
 description: "豊洲市場内に構える江戸時代創業の老舗寿司店。天然物にこだわった本格江戸前寿司が朝から楽しめる。よにのちゃんねる#464で登場。"
-id: "yonino-sushi-bun"
+shop_id: "yonino-sushi-bun"
 name: "鮨文"
 genre: "寿司"
 prefecture: "東京都"

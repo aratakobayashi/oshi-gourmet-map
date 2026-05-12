@@ -2,7 +2,7 @@
 layout: shop
 title: "iki ESPRESSO"
 description: "清澄白河のおしゃれカフェ。エッグベネディクトなどの朝食メニューが登場。"
-id: "yonino-iki-espresso"
+shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
 genre: "カフェ"
 prefecture: "東京都"

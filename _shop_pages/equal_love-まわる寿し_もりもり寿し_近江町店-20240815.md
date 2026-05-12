@@ -2,7 +2,7 @@
 layout: shop
 title: "まわる寿し もりもり寿し 近江町店"
 description: "食事・金沢市石川県・イコラブが訪問"
-id: "equal_love-まわる寿し_もりもり寿し_近江町店-20240815"
+shop_id: "equal_love-まわる寿し_もりもり寿し_近江町店-20240815"
 name: "まわる寿し もりもり寿し 近江町店"
 genre: "食事"
 prefecture: "石川県"

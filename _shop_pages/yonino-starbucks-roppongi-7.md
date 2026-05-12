@@ -2,7 +2,7 @@
 layout: shop
 title: "STARBUCKS COFFEE 六本木7丁目店"
 description: "よにのちゃんねる#357登場。六本木のスターバックス。"
-id: "yonino-starbucks-roppongi-7"
+shop_id: "yonino-starbucks-roppongi-7"
 name: "STARBUCKS COFFEE 六本木7丁目店"
 genre: "カフェ"
 prefecture: "東京都"

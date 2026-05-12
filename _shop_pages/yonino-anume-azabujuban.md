@@ -2,7 +2,7 @@
 layout: shop
 title: "干物割烹 あん梅"
 description: "麻布十番の干物専門店。絶品の焼き魚定食が登場した朝食シリーズの一軒。"
-id: "yonino-anume-azabujuban"
+shop_id: "yonino-anume-azabujuban"
 name: "干物割烹 あん梅"
 genre: "和食"
 prefecture: "東京都"

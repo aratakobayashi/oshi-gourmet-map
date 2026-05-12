@@ -2,7 +2,7 @@
 layout: shop
 title: "沼津港海将 zero 上野店"
 description: "食事・台東区東京都・イコラブが訪問"
-id: "equal_love-沼津港海将_zero_上野店-20251114"
+shop_id: "equal_love-沼津港海将_zero_上野店-20251114"
 name: "沼津港海将 zero 上野店"
 genre: "食事"
 prefecture: "東京都"

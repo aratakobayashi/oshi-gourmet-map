@@ -2,7 +2,7 @@
 layout: shop
 title: "SME六番町ビル 多目的スペース「OnSITE」"
 description: "食事・千代田区東京都・イコラブが訪問"
-id: "equal_love-sme六番町ビル_多目的スペースonsi-20240804"
+shop_id: "equal_love-sme六番町ビル_多目的スペースonsi-20240804"
 name: "SME六番町ビル 多目的スペース「OnSITE」"
 genre: "食事"
 prefecture: "東京都"

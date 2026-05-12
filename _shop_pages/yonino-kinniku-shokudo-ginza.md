@@ -2,7 +2,7 @@
 layout: shop
 title: "筋肉食堂 銀座コリドー街店"
 description: "高タンパク質・低糖質メニューが揃う健康志向の食堂。よにのちゃんねる#356に登場。"
-id: "yonino-kinniku-shokudo-ginza"
+shop_id: "yonino-kinniku-shokudo-ginza"
 name: "筋肉食堂 銀座コリドー街店"
 genre: "食事"
 prefecture: "東京都"

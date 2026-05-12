@@ -2,7 +2,7 @@
 layout: shop
 title: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
 description: "食事・世田谷区東京都・イコラブが訪問"
-id: "equal_love-金沢まいもん寿司_珠姫_玉川高島屋sc店-20250628"
+shop_id: "equal_love-金沢まいもん寿司_珠姫_玉川高島屋sc店-20250628"
 name: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
 genre: "食事"
 prefecture: "東京都"

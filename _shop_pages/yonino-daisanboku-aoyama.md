@@ -2,7 +2,7 @@
 layout: shop
 title: "大3木（ダイサンボク）"
 description: "青山一丁目の海鮮系居酒屋。よにのちゃんねる#308に登場。"
-id: "yonino-daisanboku-aoyama"
+shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
 genre: "居酒屋"
 prefecture: "東京都"

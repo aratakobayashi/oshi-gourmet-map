@@ -2,7 +2,7 @@
 layout: shop
 title: "なぎさ食堂"
 description: "水道橋の海鮮系定食屋。よにのちゃんねる#288に登場。"
-id: "yonino-nagisa-shokudo"
+shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
 genre: "和食"
 prefecture: "東京都"

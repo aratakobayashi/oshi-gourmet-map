@@ -2,7 +2,7 @@
 layout: shop
 title: "赤羽 もつ焼のんき"
 description: "食事・東京都・イコラブが訪問"
-id: "equal_love-赤羽_もつ焼のんき-20240814"
+shop_id: "equal_love-赤羽_もつ焼のんき-20240814"
 name: "赤羽 もつ焼のんき"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "San Francisco Peaks"
 description: "食事・日向坂46が訪問"
-id: "hinatazaka46-san_francisco_peaks-"
+shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "食事"
 source_video_title: "あくびLetter"

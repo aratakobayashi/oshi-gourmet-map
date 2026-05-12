@@ -2,7 +2,7 @@
 layout: shop
 title: "芋ぴっぴ。京都祇園店"
 description: "食事・京都市京都府・イコラブが訪問"
-id: "equal_love-芋ぴっぴ京都祇園店-20240804"
+shop_id: "equal_love-芋ぴっぴ京都祇園店-20240804"
 name: "芋ぴっぴ。京都祇園店"
 genre: "食事"
 prefecture: "京都府"

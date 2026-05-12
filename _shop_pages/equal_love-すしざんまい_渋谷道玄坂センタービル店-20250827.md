@@ -2,7 +2,7 @@
 layout: shop
 title: "すしざんまい 渋谷道玄坂センタービル店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-すしざんまい_渋谷道玄坂センタービル店-20250827"
+shop_id: "equal_love-すしざんまい_渋谷道玄坂センタービル店-20250827"
 name: "すしざんまい 渋谷道玄坂センタービル店"
 genre: "食事"
 prefecture: "東京都"

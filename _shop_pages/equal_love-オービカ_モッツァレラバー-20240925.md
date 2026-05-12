@@ -2,7 +2,7 @@
 layout: shop
 title: "オービカ モッツァレラバー"
 description: "食事・東京都・イコラブが訪問"
-id: "equal_love-オービカ_モッツァレラバー-20240925"
+shop_id: "equal_love-オービカ_モッツァレラバー-20240925"
 name: "オービカ モッツァレラバー"
 genre: "食事"
 prefecture: "東京都"

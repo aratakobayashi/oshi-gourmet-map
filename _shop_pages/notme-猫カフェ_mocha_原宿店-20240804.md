@@ -2,7 +2,7 @@
 layout: shop
 title: "猫カフェ MOCHA 原宿店"
 description: "食事・渋谷区東京都・≠MEが訪問"
-id: "notme-猫カフェ_mocha_原宿店-20240804"
+shop_id: "notme-猫カフェ_mocha_原宿店-20240804"
 name: "猫カフェ MOCHA 原宿店"
 genre: "食事"
 prefecture: "東京都"

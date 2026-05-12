@@ -2,7 +2,7 @@
 layout: shop
 title: "陳家私菜 銀座店"
 description: "本格四川料理の名店。北村匠海もゲスト出演。よにのちゃんねる#379に登場。"
-id: "yonino-chinka-shisai-ginza"
+shop_id: "yonino-chinka-shisai-ginza"
 name: "陳家私菜 銀座店"
 genre: "中華"
 prefecture: "東京都"

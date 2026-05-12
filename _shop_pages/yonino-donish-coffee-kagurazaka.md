@@ -2,7 +2,7 @@
 layout: shop
 title: "Donish Coffee Company 神楽坂"
 description: "神楽坂の路地裏にある自家焙煎スペシャルティコーヒースタンド。よにのちゃんねる#434に登場。"
-id: "yonino-donish-coffee-kagurazaka"
+shop_id: "yonino-donish-coffee-kagurazaka"
 name: "Donish Coffee Company 神楽坂"
 genre: "カフェ"
 prefecture: "東京都"

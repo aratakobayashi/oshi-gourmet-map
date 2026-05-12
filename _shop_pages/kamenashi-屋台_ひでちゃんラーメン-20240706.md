@@ -2,7 +2,7 @@
 layout: shop
 title: "屋台 ひでちゃんラーメン"
 description: "ラーメン・福岡市福岡県・亀梨和也が訪問"
-id: "kamenashi-屋台_ひでちゃんラーメン-20240706"
+shop_id: "kamenashi-屋台_ひでちゃんラーメン-20240706"
 name: "屋台 ひでちゃんラーメン"
 genre: "ラーメン"
 prefecture: "福岡県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "伊東食堂"
 description: "ボリューム満点の定食が人気。二宮さんが注文したカレーが話題になりました。"
-id: "yonino-ito-shokudo-ikebukuro"
+shop_id: "yonino-ito-shokudo-ikebukuro"
 name: "伊東食堂"
 genre: "和食"
 prefecture: "東京都"

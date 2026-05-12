@@ -2,7 +2,7 @@
 layout: shop
 title: "Chocolat Trouver"
 description: "スイーツ・東京都・よにのちゃんねるが訪問"
-id: "yonino-chocolat_trouver-20260204"
+shop_id: "yonino-chocolat_trouver-20260204"
 name: "Chocolat Trouver"
 genre: "スイーツ"
 prefecture: "東京都"

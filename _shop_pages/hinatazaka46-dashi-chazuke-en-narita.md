@@ -2,7 +2,7 @@
 layout: shop
 title: "だし茶漬け えん 成田空港店"
 description: "空港で手軽に食べられる出汁茶漬け。旅の前の定番。"
-id: "hinatazaka46-dashi-chazuke-en-narita"
+shop_id: "hinatazaka46-dashi-chazuke-en-narita"
 name: "だし茶漬け えん 成田空港店"
 genre: "和食"
 prefecture: "千葉県"

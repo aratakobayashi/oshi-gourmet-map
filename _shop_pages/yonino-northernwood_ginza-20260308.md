@@ -2,7 +2,7 @@
 layout: shop
 title: "NORTHERNWOOD GINZA"
 description: "その他・中央区東京都・よにのちゃんねるが訪問"
-id: "yonino-northernwood_ginza-20260308"
+shop_id: "yonino-northernwood_ginza-20260308"
 name: "NORTHERNWOOD GINZA"
 genre: "その他"
 prefecture: "東京都"

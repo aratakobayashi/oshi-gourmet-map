@@ -2,7 +2,7 @@
 layout: shop
 title: "多け乃"
 description: "築地場外市場の老舗海鮮居酒屋。金目鯛などの朝定食が有名。よにのちゃんねる#180に登場。"
-id: "yonino-takeno-tsukiji"
+shop_id: "yonino-takeno-tsukiji"
 name: "多け乃"
 genre: "居酒屋"
 prefecture: "東京都"

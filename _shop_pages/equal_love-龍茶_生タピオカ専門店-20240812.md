@@ -2,7 +2,7 @@
 layout: shop
 title: "龍茶 生タピオカ専門店"
 description: "食事・横浜市神奈川県・イコラブが訪問"
-id: "equal_love-龍茶_生タピオカ専門店-20240812"
+shop_id: "equal_love-龍茶_生タピオカ専門店-20240812"
 name: "龍茶 生タピオカ専門店"
 genre: "食事"
 prefecture: "神奈川県"

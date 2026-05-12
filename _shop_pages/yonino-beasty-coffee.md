@@ -2,7 +2,7 @@
 layout: shop
 title: "Beasty Coffee [cafe laboratory]"
 description: "代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。"
-id: "yonino-beasty-coffee"
+shop_id: "yonino-beasty-coffee"
 name: "Beasty Coffee [cafe laboratory]"
 genre: "カフェ"
 prefecture: "東京都"

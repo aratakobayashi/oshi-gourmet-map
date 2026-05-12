@@ -2,7 +2,7 @@
 layout: shop
 title: "ワルン"
 description: "スパイスカレー"
-id: "kamaitachi-ワルン-"
+shop_id: "kamaitachi-ワルン-"
 name: "ワルン"
 genre: "カレー"
 youtube_id: "kU8SZpaXoBE"

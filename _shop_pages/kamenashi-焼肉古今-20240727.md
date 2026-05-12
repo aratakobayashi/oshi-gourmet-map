@@ -2,7 +2,7 @@
 layout: shop
 title: "焼肉古今"
 description: "焼肉・東京都・亀梨和也が訪問"
-id: "kamenashi-焼肉古今-20240727"
+shop_id: "kamenashi-焼肉古今-20240727"
 name: "焼肉古今"
 genre: "焼肉"
 prefecture: "東京都"

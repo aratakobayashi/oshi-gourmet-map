@@ -2,7 +2,7 @@
 layout: shop
 title: "STEAK HOUSE & BBQ BALCONIWA"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-steak_house__bbq_bal-20240807"
+shop_id: "equal_love-steak_house__bbq_bal-20240807"
 name: "STEAK HOUSE & BBQ BALCONIWA"
 genre: "食事"
 prefecture: "東京都"

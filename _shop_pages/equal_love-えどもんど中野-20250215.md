@@ -2,7 +2,7 @@
 layout: shop
 title: "えどもんど中野"
 description: "食事・中野区東京都・イコラブが訪問"
-id: "equal_love-えどもんど中野-20250215"
+shop_id: "equal_love-えどもんど中野-20250215"
 name: "えどもんど中野"
 genre: "食事"
 prefecture: "東京都"

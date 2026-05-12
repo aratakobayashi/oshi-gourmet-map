@@ -2,7 +2,7 @@
 layout: shop
 title: "喜三郎農場"
 description: "「タマリエ（卵のソムリエ）」資格を持つ店主が厳選した全国の卵を使った卵料理・親子丼専門店。甲斐路軍鶏を使った親子丼が絶品。よにのちゃんねる#474で登場。"
-id: "yonino-kisaburo-farm"
+shop_id: "yonino-kisaburo-farm"
 name: "喜三郎農場"
 genre: "食事"
 prefecture: "東京都"

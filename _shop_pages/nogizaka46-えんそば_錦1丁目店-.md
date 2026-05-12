@@ -2,7 +2,7 @@
 layout: shop
 title: "えんそば 錦1丁目店"
 description: "乃木坂ファンの方には言わずと知れたお蕎麦屋さんですね！"
-id: "nogizaka46-えんそば_錦1丁目店-"
+shop_id: "nogizaka46-えんそば_錦1丁目店-"
 name: "えんそば 錦1丁目店"
 genre: "ラーメン"
 prefecture: "愛知県"

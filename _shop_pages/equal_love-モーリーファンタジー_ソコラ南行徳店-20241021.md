@@ -2,7 +2,7 @@
 layout: shop
 title: "モーリーファンタジー ソコラ南行徳店"
 description: "食事・市川市千葉県・イコラブが訪問"
-id: "equal_love-モーリーファンタジー_ソコラ南行徳店-20241021"
+shop_id: "equal_love-モーリーファンタジー_ソコラ南行徳店-20241021"
 name: "モーリーファンタジー ソコラ南行徳店"
 genre: "食事"
 prefecture: "千葉県"

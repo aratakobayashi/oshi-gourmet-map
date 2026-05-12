@@ -2,7 +2,7 @@
 layout: shop
 title: "新三浦 博多本店"
 description: "食事・福岡市福岡県・イコラブが訪問"
-id: "equal_love-新三浦_博多本店-20240804"
+shop_id: "equal_love-新三浦_博多本店-20240804"
 name: "新三浦 博多本店"
 genre: "食事"
 prefecture: "福岡県"

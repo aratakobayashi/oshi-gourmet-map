@@ -2,7 +2,7 @@
 layout: shop
 title: "IORI"
 description: "食事・千歳市北海道・イコラブが訪問"
-id: "equal_love-iori-20240804"
+shop_id: "equal_love-iori-20240804"
 name: "IORI"
 genre: "食事"
 prefecture: "北海道"

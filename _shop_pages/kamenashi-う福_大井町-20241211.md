@@ -2,7 +2,7 @@
 layout: shop
 title: "う福 大井町"
 description: "藤井流星くんと一緒に、うな串焼き鳥屋さんに行きました。"
-id: "kamenashi-う福_大井町-20241211"
+shop_id: "kamenashi-う福_大井町-20241211"
 name: "う福 大井町"
 genre: "食事"
 prefecture: "東京都"

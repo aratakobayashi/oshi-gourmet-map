@@ -2,7 +2,7 @@
 layout: shop
 title: "胡同 西麻布店"
 description: "西麻布の路地裏で30年続く韓国炭火焼き居酒屋。ネギタン塩が名物。よにのちゃんねる#361に登場。"
-id: "yonino-hutong-nishiazabu"
+shop_id: "yonino-hutong-nishiazabu"
 name: "胡同 西麻布店"
 genre: "焼肉"
 prefecture: "東京都"

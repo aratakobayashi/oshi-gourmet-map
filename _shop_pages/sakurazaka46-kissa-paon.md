@@ -2,7 +2,7 @@
 layout: shop
 title: "喫茶パオーン"
 description: "千歳船橋にあるレトロカフェ。クリームソーダが有名。"
-id: "sakurazaka46-kissa-paon"
+shop_id: "sakurazaka46-kissa-paon"
 name: "喫茶パオーン"
 genre: "カフェ"
 prefecture: "東京都"

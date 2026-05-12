@@ -2,7 +2,7 @@
 layout: shop
 title: "ミヤトヨ本店"
 description: "食事・廿日市広島県・イコラブが訪問"
-id: "equal_love-ミヤトヨ本店-20250915"
+shop_id: "equal_love-ミヤトヨ本店-20250915"
 name: "ミヤトヨ本店"
 genre: "食事"
 prefecture: "広島県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "とんかつ とみ家"
 description: "浅草でのアポなし旅で訪れたお店。肉厚でジューシーなとんかつをメンバーが絶賛。"
-id: "sixtones-tomiya-asakusa"
+shop_id: "sixtones-tomiya-asakusa"
 name: "とんかつ とみ家"
 genre: "和食"
 prefecture: "東京都"

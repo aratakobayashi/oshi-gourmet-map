@@ -2,7 +2,7 @@
 layout: shop
 title: "不純喫茶ドープ 上野御徒町店"
 description: "16thシングル『呪って呪って』MVの瀧脇笙古ソロシーン撮影場所。レトロモダンな空間で、昼は純喫茶、夜は喫茶酒場として営業。"
-id: "equallove_003"
+shop_id: "equallove_003"
 name: "不純喫茶ドープ 上野御徒町店"
 genre: "カフェ"
 prefecture: "東京都"

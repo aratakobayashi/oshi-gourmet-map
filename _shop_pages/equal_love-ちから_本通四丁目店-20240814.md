@@ -2,7 +2,7 @@
 layout: shop
 title: "ちから 本通四丁目店"
 description: "食事・広島市広島県・イコラブが訪問"
-id: "equal_love-ちから_本通四丁目店-20240814"
+shop_id: "equal_love-ちから_本通四丁目店-20240814"
 name: "ちから 本通四丁目店"
 genre: "食事"
 prefecture: "広島県"

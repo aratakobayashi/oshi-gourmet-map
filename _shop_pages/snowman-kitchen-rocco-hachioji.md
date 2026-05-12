@@ -2,7 +2,7 @@
 layout: shop
 title: "Kitchen ROCCO"
 description: "八王子ロケ（高尾山回）の道中で立ち寄った、ロッコライスが人気のイタリアンキッチン。"
-id: "snowman-kitchen-rocco-hachioji"
+shop_id: "snowman-kitchen-rocco-hachioji"
 name: "Kitchen ROCCO"
 genre: "食事"
 prefecture: "東京都"

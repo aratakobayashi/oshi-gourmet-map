@@ -2,7 +2,7 @@
 layout: shop
 title: "来らっせ 本店"
 description: "宇都宮餃子の常設フードコート。アポなし旅2024夏ファイナルで6人が訪問。宇都宮餃子会の案内で入店し各種餃子を堪能（ストチューブ2024年9月配信）。"
-id: "sixtones-kiraasse-utsunomiya"
+shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
 genre: "中華"
 prefecture: "栃木県"

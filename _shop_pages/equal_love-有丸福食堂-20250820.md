@@ -2,7 +2,7 @@
 layout: shop
 title: "（有）丸福食堂"
 description: "食事・熱海市静岡県・イコラブが訪問"
-id: "equal_love-有丸福食堂-20250820"
+shop_id: "equal_love-有丸福食堂-20250820"
 name: "（有）丸福食堂"
 genre: "食事"
 prefecture: "静岡県"

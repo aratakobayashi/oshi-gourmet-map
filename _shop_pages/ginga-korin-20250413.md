@@ -2,7 +2,7 @@
 layout: shop
 title: "KORIN"
 description: "居酒屋・中央区東京都・中丸雄一銀河チャンネルが訪問"
-id: "ginga-korin-20250413"
+shop_id: "ginga-korin-20250413"
 name: "KORIN"
 genre: "居酒屋"
 prefecture: "東京都"

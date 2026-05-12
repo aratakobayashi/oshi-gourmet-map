@@ -2,7 +2,7 @@
 layout: shop
 title: "盛楼閣"
 description: "亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！"
-id: "kamenashi-盛楼閣-20250719"
+shop_id: "kamenashi-盛楼閣-20250719"
 name: "盛楼閣"
 genre: "ラーメン"
 prefecture: "岩手県"

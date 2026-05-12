@@ -2,7 +2,7 @@
 layout: shop
 title: "香住・かどや"
 description: "香住のシロイカ"
-id: "kamaitachi-香住かどや-"
+shop_id: "kamaitachi-香住かどや-"
 name: "香住・かどや"
 genre: "居酒屋"
 youtube_id: "kU8SZpaXoBE"

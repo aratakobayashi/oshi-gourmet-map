@@ -2,7 +2,7 @@
 layout: shop
 title: "そば会席 立会川 吉田家"
 description: "「阿部亮平の食べたいものを当てろ」で訪れた、落ち着いた佇まいの老舗蕎麦店。"
-id: "snowman-yoshidaya-tachiaigawa"
+shop_id: "snowman-yoshidaya-tachiaigawa"
 name: "そば会席 立会川 吉田家"
 genre: "和食"
 prefecture: "東京都"

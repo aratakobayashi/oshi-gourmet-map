@@ -2,7 +2,7 @@
 layout: shop
 title: "手しおごはん 玄 新宿南口店"
 description: "新宿にある定食屋。健康的なメニューが多く、メンバーがリラックスして食事。"
-id: "yonino-teshio-gohan-gen"
+shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
 genre: "和食"
 prefecture: "東京都"

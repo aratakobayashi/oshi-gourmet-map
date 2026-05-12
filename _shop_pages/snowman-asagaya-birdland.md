@@ -2,7 +2,7 @@
 layout: shop
 title: "阿佐ヶ谷バードランド"
 description: "ミシュラン掲載・奥久慈しゃもを備長炭で焼く名店。すの日常2023年11月29日配信。"
-id: "snowman-asagaya-birdland"
+shop_id: "snowman-asagaya-birdland"
 name: "阿佐ヶ谷バードランド"
 genre: "居酒屋"
 prefecture: "東京都"

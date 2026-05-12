@@ -2,7 +2,7 @@
 layout: shop
 title: "室町 砂場"
 description: "日本橋の老舗蕎麦店。伝統的な江戸前蕎麦の味を、大人な雰囲気の中で味わいました。"
-id: "sixtones-muromachi-tanakaya"
+shop_id: "sixtones-muromachi-tanakaya"
 name: "室町 砂場"
 genre: "和食"
 prefecture: "東京都"

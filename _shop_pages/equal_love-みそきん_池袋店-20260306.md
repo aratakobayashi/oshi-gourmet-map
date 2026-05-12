@@ -2,7 +2,7 @@
 layout: shop
 title: "みそきん 池袋店"
 description: "食事・豊島区東京都・イコラブが訪問"
-id: "equal_love-みそきん_池袋店-20260306"
+shop_id: "equal_love-みそきん_池袋店-20260306"
 name: "みそきん 池袋店"
 genre: "食事"
 prefecture: "東京都"

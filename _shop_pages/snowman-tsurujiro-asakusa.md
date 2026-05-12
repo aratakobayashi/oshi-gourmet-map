@@ -2,7 +2,7 @@
 layout: shop
 title: "浅草つる次郎 HANARE"
 description: "浅草での「お好み焼き・もんじゃ」企画で訪問。メンバーが鉄板を囲んで食事を楽しみました。"
-id: "snowman-tsurujiro-asakusa"
+shop_id: "snowman-tsurujiro-asakusa"
 name: "浅草つる次郎 HANARE"
 genre: "もんじゃ"
 prefecture: "東京都"

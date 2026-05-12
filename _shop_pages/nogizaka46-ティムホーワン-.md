@@ -2,7 +2,7 @@
 layout: shop
 title: "ティム・ホー・ワン"
 description: "『乃木坂工事中』の秋の芸術ゲーム大会で、勝利チームに与えられたベイクド チャーシューバオが食べられるお店です！"
-id: "nogizaka46-ティムホーワン-"
+shop_id: "nogizaka46-ティムホーワン-"
 name: "ティム・ホー・ワン"
 genre: "食事"
 prefecture: "東京都"

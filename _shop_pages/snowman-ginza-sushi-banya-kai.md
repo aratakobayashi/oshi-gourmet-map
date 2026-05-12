@@ -2,7 +2,7 @@
 layout: shop
 title: "GINZA SUSHI BANYA KAI"
 description: "銀座の本格江戸前寿司おまかせコース。すの日常2025年12月17日配信。"
-id: "snowman-ginza-sushi-banya-kai"
+shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
 genre: "寿司"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "串カツ田中 代々木上原店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-串カツ田中_代々木上原店-20240815"
+shop_id: "equal_love-串カツ田中_代々木上原店-20240815"
 name: "串カツ田中 代々木上原店"
 genre: "食事"
 prefecture: "東京都"

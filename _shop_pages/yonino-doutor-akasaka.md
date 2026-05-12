@@ -2,7 +2,7 @@
 layout: shop
 title: "ドトールコーヒーショップ 赤坂青山通り店"
 description: "よにのちゃんねる#380登場。北村匠海ゲスト回。"
-id: "yonino-doutor-akasaka"
+shop_id: "yonino-doutor-akasaka"
 name: "ドトールコーヒーショップ 赤坂青山通り店"
 genre: "カフェ"
 prefecture: "東京都"

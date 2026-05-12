@@ -2,7 +2,7 @@
 layout: shop
 title: "OFF KINOSAKI"
 description: "亀梨くんが夕食を食べた、とてもおしゃれなレストランです。"
-id: "kamenashi-off_kinosaki-20241218"
+shop_id: "kamenashi-off_kinosaki-20241218"
 name: "OFF KINOSAKI"
 genre: "食事"
 prefecture: "兵庫県"

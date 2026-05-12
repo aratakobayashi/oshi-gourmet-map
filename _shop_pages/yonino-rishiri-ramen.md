@@ -2,7 +2,7 @@
 layout: shop
 title: "利尻らーめん味楽（新横浜ラーメン博物館）"
 description: "北海道・利尻島発の利尻昆布だしが効いた塩ラーメンの名店。新横浜ラーメン博物館内に出店。よにのちゃんねる#507で登場。"
-id: "yonino-rishiri-ramen"
+shop_id: "yonino-rishiri-ramen"
 name: "利尻らーめん味楽（新横浜ラーメン博物館）"
 genre: "ラーメン"
 prefecture: "神奈川県"

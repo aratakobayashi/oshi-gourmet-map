@@ -2,7 +2,7 @@
 layout: shop
 title: "パーバーン"
 description: "トムヤム飯"
-id: "kamaitachi-パーバーン-"
+shop_id: "kamaitachi-パーバーン-"
 name: "パーバーン"
 genre: "食事"
 nearest_station: "新御徒町駅"

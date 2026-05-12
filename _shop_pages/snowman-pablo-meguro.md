@@ -2,7 +2,7 @@
 layout: shop
 title: "スペイン料理 Pablo"
 description: "パエリア世界大会日本代表シェフによる本格スペイン料理。すの日常2024年10月2日配信。"
-id: "snowman-pablo-meguro"
+shop_id: "snowman-pablo-meguro"
 name: "スペイン料理 Pablo"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "本所かえる本舗"
 description: "両国駅近くの下町もんじゃ・駄菓子店。「TOKYOグルメガイド 下町の味！駄菓子もんじゃ!!」（2019年2月8日配信）で6人が訪問。イタリアンもんじゃ・アメリカンもんじゃ等を体験。"
-id: "sixtones-honjo-kaeru-honpo"
+shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
 genre: "もんじゃ"
 prefecture: "東京都"

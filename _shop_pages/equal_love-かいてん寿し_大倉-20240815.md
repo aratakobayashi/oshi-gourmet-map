@@ -2,7 +2,7 @@
 layout: shop
 title: "かいてん寿し 大倉"
 description: "食事・金沢市石川県・イコラブが訪問"
-id: "equal_love-かいてん寿し_大倉-20240815"
+shop_id: "equal_love-かいてん寿し_大倉-20240815"
 name: "かいてん寿し 大倉"
 genre: "食事"
 prefecture: "石川県"

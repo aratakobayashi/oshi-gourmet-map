@@ -2,7 +2,7 @@
 layout: shop
 title: "鮨 長島"
 description: "食事・かまいたちが訪問"
-id: "kamaitachi-鮨_長島-"
+shop_id: "kamaitachi-鮨_長島-"
 name: "鮨 長島"
 genre: "食事"
 nearest_station: "銀座駅"

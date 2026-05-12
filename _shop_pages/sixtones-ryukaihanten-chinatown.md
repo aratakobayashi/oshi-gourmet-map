@@ -2,7 +2,7 @@
 layout: shop
 title: "彩り五色小籠包専門店 龍海飯店"
 description: "横浜中華街の五色小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（ストチューブ2023年3月10日配信）でメンバー4人が個室で小籠包・フカヒレなどを堪能。"
-id: "sixtones-ryukaihanten-chinatown"
+shop_id: "sixtones-ryukaihanten-chinatown"
 name: "彩り五色小籠包専門店 龍海飯店"
 genre: "中華"
 prefecture: "神奈川県"

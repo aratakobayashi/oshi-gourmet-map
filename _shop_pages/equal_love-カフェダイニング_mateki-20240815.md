@@ -2,7 +2,7 @@
 layout: shop
 title: "カフェ＆ダイニング mateki"
 description: "食事・那覇市沖縄県・イコラブが訪問"
-id: "equal_love-カフェダイニング_mateki-20240815"
+shop_id: "equal_love-カフェダイニング_mateki-20240815"
 name: "カフェ＆ダイニング mateki"
 genre: "食事"
 prefecture: "沖縄県"

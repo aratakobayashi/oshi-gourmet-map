@@ -2,7 +2,7 @@
 layout: shop
 title: "もつ焼のんき"
 description: "シロ"
-id: "kamaitachi-もつ焼のんき-"
+shop_id: "kamaitachi-もつ焼のんき-"
 name: "もつ焼のんき"
 genre: "居酒屋"
 nearest_station: "堀切菖蒲園駅"

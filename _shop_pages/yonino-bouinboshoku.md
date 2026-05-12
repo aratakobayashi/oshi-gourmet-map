@@ -2,7 +2,7 @@
 layout: shop
 title: "東陽町 大衆焼肉 暴飲暴食"
 description: "東陽町の大衆焼肉店。手頃な価格でがっつり焼肉が楽しめる。2024年オープンの新進気鋭の焼肉店。よにのちゃんねる#446で登場。"
-id: "yonino-bouinboshoku"
+shop_id: "yonino-bouinboshoku"
 name: "東陽町 大衆焼肉 暴飲暴食"
 genre: "焼肉"
 prefecture: "東京都"

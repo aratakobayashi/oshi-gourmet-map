@@ -2,7 +2,7 @@
 layout: shop
 title: "お好み村てつ"
 description: "食事・広島市広島県・イコラブが訪問"
-id: "equal_love-お好み村てつ-20240814"
+shop_id: "equal_love-お好み村てつ-20240814"
 name: "お好み村てつ"
 genre: "食事"
 prefecture: "広島県"

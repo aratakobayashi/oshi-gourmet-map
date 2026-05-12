@@ -2,7 +2,7 @@
 layout: shop
 title: "みんみんラーメン"
 description: "創業35年の八王子ラーメン老舗。後輩・矢花黎のオススメ店。「ただただ美味しいラーメンを食べる動画」（ストチューブ2024年2月16日配信）で6人が八王子ラーメンを堪能。"
-id: "sixtones-minmin-hachioji"
+shop_id: "sixtones-minmin-hachioji"
 name: "みんみんラーメン"
 genre: "ラーメン"
 prefecture: "東京都"

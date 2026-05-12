@@ -2,7 +2,7 @@
 layout: shop
 title: "横浜博覧館（ガーデンテラスカフェ・開華楼）"
 description: "「きあまい」の中華街食べ歩きロケで訪問。ベビースターランド（当時）や、出来立ての飲茶が楽しめる開華楼などを満喫。"
-id: "equallove_002"
+shop_id: "equallove_002"
 name: "横浜博覧館（ガーデンテラスカフェ・開華楼）"
 genre: "カフェ"
 prefecture: "神奈川県"

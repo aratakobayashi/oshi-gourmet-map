@@ -2,7 +2,7 @@
 layout: shop
 title: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 description: "食事・長野県・イコラブが訪問"
-id: "equal_love-熟成和牛焼肉_エイジングビーフ軽井沢-20250530"
+shop_id: "equal_love-熟成和牛焼肉_エイジングビーフ軽井沢-20250530"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "食事"
 prefecture: "長野県"

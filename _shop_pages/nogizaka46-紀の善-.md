@@ -2,7 +2,7 @@
 layout: shop
 title: "紀の善"
 description: "『他の星から』の歌詞に登場し、MVで西野七瀬さんがクリームあんみつを食べているお店です！ MVに登場しているものは、通常のクリームあんみつに夏季メニューの白玉を2つトッピングしたものです^ ^"
-id: "nogizaka46-紀の善-"
+shop_id: "nogizaka46-紀の善-"
 name: "紀の善"
 genre: "食事"
 prefecture: "東京都"

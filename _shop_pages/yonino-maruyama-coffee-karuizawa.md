@@ -2,7 +2,7 @@
 layout: shop
 title: "丸山珈琲 ハルニレテラス店"
 description: "よにのちゃんねる#306登場。軽井沢・ハルニレテラスの人気カフェ。"
-id: "yonino-maruyama-coffee-karuizawa"
+shop_id: "yonino-maruyama-coffee-karuizawa"
 name: "丸山珈琲 ハルニレテラス店"
 genre: "カフェ"
 prefecture: "長野県"

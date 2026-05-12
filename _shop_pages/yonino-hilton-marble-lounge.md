@@ -2,7 +2,7 @@
 layout: shop
 title: "ヒルトン東京 マーブルラウンジ"
 description: "よにのちゃんねる#439登場。ヒルトン東京の朝食ビュッフェ。"
-id: "yonino-hilton-marble-lounge"
+shop_id: "yonino-hilton-marble-lounge"
 name: "ヒルトン東京 マーブルラウンジ"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "動坂食堂"
 description: "千駄木の昔ながらの定食屋。よにのちゃんねる#160に登場。"
-id: "yonino-dousaka-shokudo"
+shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
 genre: "和食"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "かおたんラーメンえんとつ屋 南青山店"
 description: "バブル時代から続く南青山の老舗ラーメン店。夜遊びのシメのラーメンとして長年親しまれてきた名店。よにのちゃんねる#387で登場。"
-id: "yonino-kaotan-ramen"
+shop_id: "yonino-kaotan-ramen"
 name: "かおたんラーメンえんとつ屋 南青山店"
 genre: "ラーメン"
 prefecture: "東京都"

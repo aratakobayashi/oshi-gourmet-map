@@ -66,8 +66,13 @@ for shop in shops:
         desc = "・".join(parts) if parts else shop.get("name","")
     lines.append(f"description: {yaml_str(desc)}")
 
+    # shop_id: front matter name avoids collision with Jekyll's built-in page.id
+    v = shop.get("id")
+    if v:
+        lines.append(f"shop_id: {yaml_str(v)}")
+
     # scalar fields
-    for key in ["id","name","genre","prefecture","city","address",
+    for key in ["name","genre","prefecture","city","address",
                 "nearest_station","price_range","visited_date",
                 "youtube_id","source_video_title","source_video_url",
                 "group","tabelog_url","hotpepper_url","google_maps_url"]:

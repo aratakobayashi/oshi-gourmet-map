@@ -2,7 +2,7 @@
 layout: shop
 title: "鎌倉茶々本店"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-鎌倉茶々本店-20240809"
+shop_id: "equal_love-鎌倉茶々本店-20240809"
 name: "鎌倉茶々本店"
 genre: "食事"
 prefecture: "神奈川県"

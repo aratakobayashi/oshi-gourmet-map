@@ -2,7 +2,7 @@
 layout: shop
 title: "笑たこ 原宿表参道店"
 description: "原宿での食べ歩き企画で訪れたたこ焼き店。"
-id: "sixtones-笑たこ原宿表参道店"
+shop_id: "sixtones-笑たこ原宿表参道店"
 name: "笑たこ 原宿表参道店"
 genre: "その他"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "Beasty Coffee [ cafe laboratory ]"
 description: "カフェ・渋谷区東京都・よにのちゃんねるが訪問"
-id: "yonino-beasty_coffee__cafe_-20251207"
+shop_id: "yonino-beasty_coffee__cafe_-20251207"
 name: "Beasty Coffee [ cafe laboratory ]"
 genre: "カフェ"
 prefecture: "東京都"

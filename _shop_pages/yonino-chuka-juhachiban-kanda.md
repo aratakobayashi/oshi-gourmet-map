@@ -2,7 +2,7 @@
 layout: shop
 title: "中華料理 十八番"
 description: "よにのちゃんねる#314登場。神田の老舗中華料理店。"
-id: "yonino-chuka-juhachiban-kanda"
+shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
 genre: "中華"
 prefecture: "東京都"

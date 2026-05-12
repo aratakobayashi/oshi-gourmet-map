@@ -2,7 +2,7 @@
 layout: shop
 title: "八倉 -湘南の魚と鎌倉野菜-"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-八倉_湘南の魚と鎌倉野菜-20240809"
+shop_id: "equal_love-八倉_湘南の魚と鎌倉野菜-20240809"
 name: "八倉 -湘南の魚と鎌倉野菜-"
 genre: "食事"
 prefecture: "神奈川県"

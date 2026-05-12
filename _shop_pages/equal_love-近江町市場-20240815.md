@@ -2,7 +2,7 @@
 layout: shop
 title: "近江町市場"
 description: "食事・金沢市石川県・イコラブが訪問"
-id: "equal_love-近江町市場-20240815"
+shop_id: "equal_love-近江町市場-20240815"
 name: "近江町市場"
 genre: "食事"
 prefecture: "石川県"

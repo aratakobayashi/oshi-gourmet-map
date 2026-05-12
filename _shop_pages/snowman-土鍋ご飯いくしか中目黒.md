@@ -2,7 +2,7 @@
 layout: shop
 title: "土鍋ご飯いくしか 中目黒"
 description: "中目黒にある土鍋ご飯の専門店。炊き立ての美味しいご飯にメンバーの手が止まらない。"
-id: "snowman-土鍋ご飯いくしか中目黒"
+shop_id: "snowman-土鍋ご飯いくしか中目黒"
 name: "土鍋ご飯いくしか 中目黒"
 genre: "和食"
 prefecture: "東京都"

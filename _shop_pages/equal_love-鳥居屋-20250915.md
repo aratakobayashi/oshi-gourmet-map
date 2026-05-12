@@ -2,7 +2,7 @@
 layout: shop
 title: "鳥居屋"
 description: "食事・廿日市広島県・イコラブが訪問"
-id: "equal_love-鳥居屋-20250915"
+shop_id: "equal_love-鳥居屋-20250915"
 name: "鳥居屋"
 genre: "食事"
 prefecture: "広島県"

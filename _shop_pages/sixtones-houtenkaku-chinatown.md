@@ -2,7 +2,7 @@
 layout: shop
 title: "上海小籠包専門店 鵬天閣"
 description: "横浜中華街の焼き小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（動画5:52〜8:39）でメンバー全員が焼き小籠包を堪能（ストチューブ2023年3月10日配信）。"
-id: "sixtones-houtenkaku-chinatown"
+shop_id: "sixtones-houtenkaku-chinatown"
 name: "上海小籠包専門店 鵬天閣"
 genre: "中華"
 prefecture: "神奈川県"

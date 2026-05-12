@@ -2,7 +2,7 @@
 layout: shop
 title: "パスティス広尾ハウス"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-パスティス広尾ハウス-20250628"
+shop_id: "equal_love-パスティス広尾ハウス-20250628"
 name: "パスティス広尾ハウス"
 genre: "食事"
 prefecture: "東京都"

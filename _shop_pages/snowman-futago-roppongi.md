@@ -2,7 +2,7 @@
 layout: shop
 title: "大阪焼肉・ホルモン ふたご 六本木店"
 description: "大阪スタイルの焼肉・ホルモン専門店。すの日常2025年12月3日配信。"
-id: "snowman-futago-roppongi"
+shop_id: "snowman-futago-roppongi"
 name: "大阪焼肉・ホルモン ふたご 六本木店"
 genre: "焼肉"
 prefecture: "東京都"

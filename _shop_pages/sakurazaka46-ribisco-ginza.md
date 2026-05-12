@@ -2,7 +2,7 @@
 layout: shop
 title: "リビスコ 銀座店"
 description: "手作りジェラートの店。さっぱりした味わいで夏に最適。"
-id: "sakurazaka46-ribisco-ginza"
+shop_id: "sakurazaka46-ribisco-ginza"
 name: "リビスコ 銀座店"
 genre: "スイーツ"
 prefecture: "東京都"

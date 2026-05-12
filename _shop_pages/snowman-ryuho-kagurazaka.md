@@ -2,7 +2,7 @@
 layout: shop
 title: "龍朋"
 description: "神楽坂にある町中華の名店。チャーハンが有名で、ロケではメンバーが絶賛していました。"
-id: "snowman-ryuho-kagurazaka"
+shop_id: "snowman-ryuho-kagurazaka"
 name: "龍朋"
 genre: "中華"
 prefecture: "東京都"

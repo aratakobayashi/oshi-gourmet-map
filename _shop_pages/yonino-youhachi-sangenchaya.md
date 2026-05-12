@@ -2,7 +2,7 @@
 layout: shop
 title: "ジンギスカン羊はち 三軒茶屋店"
 description: "冷凍なしの新鮮な生ラム・マトンを手頃な価格で楽しめる人気ジンギスカン店。ラムタンや飲めるジンギスカンが名物。よにのちゃんねる#509で登場。"
-id: "yonino-youhachi-sangenchaya"
+shop_id: "yonino-youhachi-sangenchaya"
 name: "ジンギスカン羊はち 三軒茶屋店"
 genre: "焼肉"
 prefecture: "東京都"

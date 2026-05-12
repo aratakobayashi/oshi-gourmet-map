@@ -2,7 +2,7 @@
 layout: shop
 title: "浅草 いづ美"
 description: "Huluオリジナル番組『松村沙友理ちゃんねる』で紹介されたお店です！"
-id: "nogizaka46-浅草_いづ美-"
+shop_id: "nogizaka46-浅草_いづ美-"
 name: "浅草 いづ美"
 genre: "食事"
 prefecture: "東京都"

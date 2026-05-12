@@ -2,7 +2,7 @@
 layout: shop
 title: "CAFE PARK"
 description: "恵比寿にある落ち着いたカフェ。"
-id: "sixtones-cafepark"
+shop_id: "sixtones-cafepark"
 name: "CAFE PARK"
 genre: "カフェ"
 prefecture: "東京都"

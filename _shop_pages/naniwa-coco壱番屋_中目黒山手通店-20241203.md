@@ -2,7 +2,7 @@
 layout: shop
 title: "CoCo壱番屋 中目黒山手通店"
 description: "食事・目黒区東京都・なにわ男子が訪問"
-id: "naniwa-coco壱番屋_中目黒山手通店-20241203"
+shop_id: "naniwa-coco壱番屋_中目黒山手通店-20241203"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "食事"
 prefecture: "東京都"

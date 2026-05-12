@@ -2,7 +2,7 @@
 layout: shop
 title: "PiPPon 中延店"
 description: "食事・品川区東京都・≒JOYが訪問"
-id: "neajoy-pippon_中延店-20240807"
+shop_id: "neajoy-pippon_中延店-20240807"
 name: "PiPPon 中延店"
 genre: "食事"
 prefecture: "東京都"

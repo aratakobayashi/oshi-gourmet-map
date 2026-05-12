@@ -2,7 +2,7 @@
 layout: shop
 title: "挽肉と米 渋谷"
 description: "2021年11月の動画で登場。朝食シリーズとしてメンバーが絶賛したハンバーグ専門店。"
-id: "yonino-hikiniku-to-kome"
+shop_id: "yonino-hikiniku-to-kome"
 name: "挽肉と米 渋谷"
 genre: "食事"
 prefecture: "東京都"

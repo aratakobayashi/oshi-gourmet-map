@@ -2,7 +2,7 @@
 layout: shop
 title: "Pablo"
 description: "食事・Snow Manが訪問"
-id: "snowman-pablo-20241002"
+shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "食事"
 visited_date: "2024-10-02"

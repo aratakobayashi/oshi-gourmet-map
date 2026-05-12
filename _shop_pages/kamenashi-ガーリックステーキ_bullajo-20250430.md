@@ -2,7 +2,7 @@
 layout: shop
 title: "ガーリックステーキ Bullajo"
 description: "亀梨くんがステーキを食べに行ったお店です。 2025/06/24で閉店してしまうので、気になる方はぜひ食べに行ってくださいね。"
-id: "kamenashi-ガーリックステーキ_bullajo-20250430"
+shop_id: "kamenashi-ガーリックステーキ_bullajo-20250430"
 name: "ガーリックステーキ Bullajo"
 genre: "焼肉"
 prefecture: "東京都"

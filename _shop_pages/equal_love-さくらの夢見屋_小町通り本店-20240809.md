@@ -2,7 +2,7 @@
 layout: shop
 title: "さくらの夢見屋 小町通り本店"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-さくらの夢見屋_小町通り本店-20240809"
+shop_id: "equal_love-さくらの夢見屋_小町通り本店-20240809"
 name: "さくらの夢見屋 小町通り本店"
 genre: "食事"
 prefecture: "神奈川県"

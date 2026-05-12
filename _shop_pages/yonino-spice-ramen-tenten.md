@@ -2,7 +2,7 @@
 layout: shop
 title: "スパイスラーメン 点と線."
 description: "下北沢にあるスパイスラーメン店。二宮さんたちが独特のスープに驚いていました。"
-id: "yonino-spice-ramen-tenten"
+shop_id: "yonino-spice-ramen-tenten"
 name: "スパイスラーメン 点と線."
 genre: "ラーメン"
 prefecture: "東京都"

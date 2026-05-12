@@ -2,7 +2,7 @@
 layout: shop
 title: "蘭蝶"
 description: "大森にあるレトロな雰囲気が漂う地元に愛される居酒屋。"
-id: "sixtones-蘭蝶"
+shop_id: "sixtones-蘭蝶"
 name: "蘭蝶"
 genre: "居酒屋"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "熟豚 三代目 蔵司"
 description: "長期低温熟成豚を使ったとんかつ専門店。熟成による柔らかさと旨みの深さが特徴。赤坂見附駅徒歩2分。よにのちゃんねる#397・#398で登場。"
-id: "yonino-kuraji-akasaka"
+shop_id: "yonino-kuraji-akasaka"
 name: "熟豚 三代目 蔵司"
 genre: "和食"
 prefecture: "東京都"

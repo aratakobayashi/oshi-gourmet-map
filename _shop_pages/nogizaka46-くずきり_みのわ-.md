@@ -2,7 +2,7 @@
 layout: shop
 title: "くずきり みのわ"
 description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ くずきりを食べていました^ ^"
-id: "nogizaka46-くずきり_みのわ-"
+shop_id: "nogizaka46-くずきり_みのわ-"
 name: "くずきり みのわ"
 genre: "食事"
 prefecture: "神奈川県"

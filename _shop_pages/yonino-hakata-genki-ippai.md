@@ -2,7 +2,7 @@
 layout: shop
 title: "博多元気一杯!!"
 description: "よにのちゃんねる#410/#411登場。福岡ロケ。食べログラーメンWEST百名店6年連続選出の豚骨ラーメン名店。"
-id: "yonino-hakata-genki-ippai"
+shop_id: "yonino-hakata-genki-ippai"
 name: "博多元気一杯!!"
 genre: "ラーメン"
 prefecture: "福岡県"

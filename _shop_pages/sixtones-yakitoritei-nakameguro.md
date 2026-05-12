@@ -2,7 +2,7 @@
 layout: shop
 title: "串若丸"
 description: "中目黒にある行列の絶えない焼き鳥店。メンバーがリラックスして食事を楽しむ姿が印象的。"
-id: "sixtones-yakitoritei-nakameguro"
+shop_id: "sixtones-yakitoritei-nakameguro"
 name: "串若丸"
 genre: "和食"
 prefecture: "東京都"

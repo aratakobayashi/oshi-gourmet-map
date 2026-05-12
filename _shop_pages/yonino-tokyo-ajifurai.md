@@ -2,7 +2,7 @@
 layout: shop
 title: "トーキョーアジフライ"
 description: "市ヶ谷のアジフライ専門店。骨煎餅・釜炊きご飯も人気。よにのちゃんねる#316に登場。"
-id: "yonino-tokyo-ajifurai"
+shop_id: "yonino-tokyo-ajifurai"
 name: "トーキョーアジフライ"
 genre: "食事"
 prefecture: "東京都"

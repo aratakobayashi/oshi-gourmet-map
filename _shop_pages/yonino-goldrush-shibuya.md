@@ -2,7 +2,7 @@
 layout: shop
 title: "ゴールドラッシュ 渋谷本店"
 description: "昭和55年創業の老舗ハンバーグ専門店。ビーフ100%の手づくりハンバーグが看板。渋谷東急ハンズ近くに位置する不動の名店。よにのちゃんねる#444で登場。"
-id: "yonino-goldrush-shibuya"
+shop_id: "yonino-goldrush-shibuya"
 name: "ゴールドラッシュ 渋谷本店"
 genre: "食事"
 prefecture: "東京都"

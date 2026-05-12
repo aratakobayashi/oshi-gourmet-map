@@ -2,7 +2,7 @@
 layout: shop
 title: "グリルグランド"
 description: "浅草の老舗洋食店。名物のオムライスや特製デミグラスソースのハンバーグが登場。"
-id: "sixtones-grill-grand-asakusa"
+shop_id: "sixtones-grill-grand-asakusa"
 name: "グリルグランド"
 genre: "食事"
 prefecture: "東京都"

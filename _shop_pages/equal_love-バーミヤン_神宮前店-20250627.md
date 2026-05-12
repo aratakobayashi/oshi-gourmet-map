@@ -2,7 +2,7 @@
 layout: shop
 title: "バーミヤン 神宮前店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-バーミヤン_神宮前店-20250627"
+shop_id: "equal_love-バーミヤン_神宮前店-20250627"
 name: "バーミヤン 神宮前店"
 genre: "食事"
 prefecture: "東京都"

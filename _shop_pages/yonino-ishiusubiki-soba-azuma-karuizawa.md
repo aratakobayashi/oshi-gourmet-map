@@ -2,7 +2,7 @@
 layout: shop
 title: "石臼挽き蕎麦 東間"
 description: "よにのちゃんねる#301登場。軽井沢の石臼挽き蕎麦店。"
-id: "yonino-ishiusubiki-soba-azuma-karuizawa"
+shop_id: "yonino-ishiusubiki-soba-azuma-karuizawa"
 name: "石臼挽き蕎麦 東間"
 genre: "和食"
 prefecture: "長野県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "ガーデンテラスカフェ"
 description: "食事・横浜市神奈川県・イコラブが訪問"
-id: "equal_love-ガーデンテラスカフェ-20240812"
+shop_id: "equal_love-ガーデンテラスカフェ-20240812"
 name: "ガーデンテラスカフェ"
 genre: "食事"
 prefecture: "神奈川県"

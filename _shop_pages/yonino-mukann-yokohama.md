@@ -2,7 +2,7 @@
 layout: shop
 title: "むかん横浜"
 description: "牡蠣塩ラーメンが看板の人気店。食べログ3.97超の名店。よにのちゃんねる#352に登場。"
-id: "yonino-mukann-yokohama"
+shop_id: "yonino-mukann-yokohama"
 name: "むかん横浜"
 genre: "ラーメン"
 prefecture: "神奈川県"

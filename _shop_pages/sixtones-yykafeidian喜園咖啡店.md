@@ -2,7 +2,7 @@
 layout: shop
 title: "YY Kafei Dian 喜園咖啡店"
 description: "シンガポール編で朝食を食べたカヤトーストの人気店。"
-id: "sixtones-yykafeidian喜園咖啡店"
+shop_id: "sixtones-yykafeidian喜園咖啡店"
 name: "YY Kafei Dian 喜園咖啡店"
 genre: "カフェ"
 prefecture: "シンガポール"

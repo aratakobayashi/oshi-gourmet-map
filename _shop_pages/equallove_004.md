@@ -2,7 +2,7 @@
 layout: shop
 title: "串カツ玩具-GANG-"
 description: "さなつんのはしご酒シリーズ第3弾「高円寺編」で訪問。おもちゃ箱のような店内で串カツとお酒を楽しむ。"
-id: "equallove_004"
+shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"
 genre: "居酒屋"
 prefecture: "東京都"

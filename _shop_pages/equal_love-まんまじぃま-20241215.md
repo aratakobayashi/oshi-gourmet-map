@@ -2,7 +2,7 @@
 layout: shop
 title: "まんまじぃま"
 description: "食事・杉並区東京都・イコラブが訪問"
-id: "equal_love-まんまじぃま-20241215"
+shop_id: "equal_love-まんまじぃま-20241215"
 name: "まんまじぃま"
 genre: "食事"
 prefecture: "東京都"

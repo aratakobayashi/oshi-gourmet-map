@@ -2,7 +2,7 @@
 layout: shop
 title: "JUNKY SPECIAL"
 description: "その他・新宿区東京都・よにのちゃんねるが訪問"
-id: "yonino-junky_special-20250813"
+shop_id: "yonino-junky_special-20250813"
 name: "JUNKY SPECIAL"
 genre: "その他"
 prefecture: "東京都"

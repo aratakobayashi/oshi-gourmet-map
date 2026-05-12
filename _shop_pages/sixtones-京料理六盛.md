@@ -2,7 +2,7 @@
 layout: shop
 title: "京料理 六盛"
 description: "京都ロケで訪れた美しい京料理店。"
-id: "sixtones-京料理六盛"
+shop_id: "sixtones-京料理六盛"
 name: "京料理 六盛"
 genre: "和食"
 prefecture: "京都府"

@@ -2,7 +2,7 @@
 layout: shop
 title: "ユナイテッド・シネマ豊洲"
 description: "食事・江東区東京都・イコラブが訪問"
-id: "equal_love-ユナイテッドシネマ豊洲-20240815"
+shop_id: "equal_love-ユナイテッドシネマ豊洲-20240815"
 name: "ユナイテッド・シネマ豊洲"
 genre: "食事"
 prefecture: "東京都"

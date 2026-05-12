@@ -2,7 +2,7 @@
 layout: shop
 title: "焼肉ライク 新橋本店"
 description: "『乃木坂どこへ』で4期生が訪れ、焼肉を食べていたお店です！"
-id: "nogizaka46-焼肉ライク_新橋本店-"
+shop_id: "nogizaka46-焼肉ライク_新橋本店-"
 name: "焼肉ライク 新橋本店"
 genre: "焼肉"
 prefecture: "東京都"

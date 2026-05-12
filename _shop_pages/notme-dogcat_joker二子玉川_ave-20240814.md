@@ -2,7 +2,7 @@
 layout: shop
 title: "DOG&CAT JOKER二子玉川 -AVENUE&CARE-"
 description: "食事・世田谷区東京都・≠MEが訪問"
-id: "notme-dogcat_joker二子玉川_ave-20240814"
+shop_id: "notme-dogcat_joker二子玉川_ave-20240814"
 name: "DOG&CAT JOKER二子玉川 -AVENUE&CARE-"
 genre: "食事"
 prefecture: "東京都"

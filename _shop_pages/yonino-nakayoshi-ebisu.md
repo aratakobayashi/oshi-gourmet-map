@@ -2,7 +2,7 @@
 layout: shop
 title: "土鍋炊ごはん なかよし 本店"
 description: "恵比寿の土鍋ご飯が自慢の店。美味しいご飯のお供にメンバーも大満足。"
-id: "yonino-nakayoshi-ebisu"
+shop_id: "yonino-nakayoshi-ebisu"
 name: "土鍋炊ごはん なかよし 本店"
 genre: "食事"
 prefecture: "東京都"

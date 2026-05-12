@@ -2,7 +2,7 @@
 layout: shop
 title: "夷川餃子なかじま"
 description: "大奥撮影の合間、ご飯を食べに行ったお店です。"
-id: "kamenashi-夷川餃子なかじま-20240203"
+shop_id: "kamenashi-夷川餃子なかじま-20240203"
 name: "夷川餃子なかじま"
 genre: "中華"
 visited_date: "2024-02-03"

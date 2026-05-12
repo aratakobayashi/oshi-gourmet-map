@@ -2,7 +2,7 @@
 layout: shop
 title: "洋麺屋五右衛門 赤坂店"
 description: "和の食材を使った創作パスタで人気の「洋麺屋五右衛門」赤坂店。和風だしと洋麺の組み合わせが特徴。よにのちゃんねる#389で登場。"
-id: "yonino-goemon-akasaka"
+shop_id: "yonino-goemon-akasaka"
 name: "洋麺屋五右衛門 赤坂店"
 genre: "食事"
 prefecture: "東京都"

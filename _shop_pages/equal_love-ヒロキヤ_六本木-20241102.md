@@ -2,7 +2,7 @@
 layout: shop
 title: "#ヒロキヤ 六本木"
 description: "食事・東京都・イコラブが訪問"
-id: "equal_love-ヒロキヤ_六本木-20241102"
+shop_id: "equal_love-ヒロキヤ_六本木-20241102"
 name: "#ヒロキヤ 六本木"
 genre: "食事"
 prefecture: "東京都"

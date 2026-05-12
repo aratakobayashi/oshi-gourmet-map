@@ -2,7 +2,7 @@
 layout: shop
 title: "酒処えびす"
 description: "食事・台東区東京都・イコラブが訪問"
-id: "equal_love-酒処えびす-20250410"
+shop_id: "equal_love-酒処えびす-20250410"
 name: "酒処えびす"
 genre: "食事"
 prefecture: "東京都"

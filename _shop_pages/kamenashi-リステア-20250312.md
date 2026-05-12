@@ -2,7 +2,7 @@
 layout: shop
 title: "リステア"
 description: "亀梨くんがこちらのお店で爆買いしています。"
-id: "kamenashi-リステア-20250312"
+shop_id: "kamenashi-リステア-20250312"
 name: "リステア"
 genre: "食事"
 prefecture: "東京都"

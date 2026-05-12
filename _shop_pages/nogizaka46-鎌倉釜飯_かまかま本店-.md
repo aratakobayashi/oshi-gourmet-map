@@ -2,7 +2,7 @@
 layout: shop
 title: "鎌倉釜飯 かまかま本店"
 description: "『乃木坂工事中』の春の1万円ツアーで衛藤さん新内さんが人力車で鎌倉巡りをしている間、真夏さんが食事をしていたお店です^ ^"
-id: "nogizaka46-鎌倉釜飯_かまかま本店-"
+shop_id: "nogizaka46-鎌倉釜飯_かまかま本店-"
 name: "鎌倉釜飯 かまかま本店"
 genre: "食事"
 prefecture: "神奈川県"

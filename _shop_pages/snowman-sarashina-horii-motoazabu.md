@@ -2,7 +2,7 @@
 layout: shop
 title: "総本家更科堀井 本店"
 description: "創業200年超の麻布十番老舗そば店。すの日常2025年3月12日配信。"
-id: "snowman-sarashina-horii-motoazabu"
+shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "和食"
 prefecture: "東京都"

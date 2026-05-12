@@ -2,7 +2,7 @@
 layout: shop
 title: "磯丸水産 初台南口店"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-磯丸水産_初台南口店-20240815"
+shop_id: "equal_love-磯丸水産_初台南口店-20240815"
 name: "磯丸水産 初台南口店"
 genre: "食事"
 prefecture: "東京都"

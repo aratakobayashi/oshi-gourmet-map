@@ -2,7 +2,7 @@
 layout: shop
 title: "段葛 こ寿々(だんかずら こすず)"
 description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です^ ^ わらび餅を試食していたお蕎麦屋さんです！"
-id: "nogizaka46-段葛_こ寿々だんかずら_こすず-"
+shop_id: "nogizaka46-段葛_こ寿々だんかずら_こすず-"
 name: "段葛 こ寿々(だんかずら こすず)"
 genre: "食事"
 prefecture: "神奈川県"

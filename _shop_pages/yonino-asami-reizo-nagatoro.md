@@ -2,7 +2,7 @@
 layout: shop
 title: "阿左美冷蔵 金崎本店"
 description: "天然氷のかき氷で有名な長瀞の名店。ドライブ旅の途中に立ち寄りました。"
-id: "yonino-asami-reizo-nagatoro"
+shop_id: "yonino-asami-reizo-nagatoro"
 name: "阿左美冷蔵 金崎本店"
 genre: "スイーツ"
 prefecture: "埼玉県"

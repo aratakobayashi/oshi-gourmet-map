@@ -2,7 +2,7 @@
 layout: shop
 title: "榎本ハンバーグ研究所 春日後楽園店"
 description: "文京区にあるハンバーグ専門店。朝食（ランチ）シリーズとして絶品の肉汁を堪能。"
-id: "yonino-enomoto-hamburg-bunkyo"
+shop_id: "yonino-enomoto-hamburg-bunkyo"
 name: "榎本ハンバーグ研究所 春日後楽園店"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "那覇文化芸術劇場なはーと"
 description: "食事・那覇市沖縄県・イコラブが訪問"
-id: "equal_love-那覇文化芸術劇場なはーと-20240815"
+shop_id: "equal_love-那覇文化芸術劇場なはーと-20240815"
 name: "那覇文化芸術劇場なはーと"
 genre: "食事"
 prefecture: "沖縄県"

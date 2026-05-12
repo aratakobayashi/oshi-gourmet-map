@@ -2,7 +2,7 @@
 layout: shop
 title: "月島名物もんじゃ だるま ソラマチ店"
 description: "東京ソラマチ7Fのもんじゃ焼き専門店。6人の忘年会2024の会場として使用。プレミアムもち明太チーズもんじゃ等を堪能（ストチューブ2025年4月11日配信）。"
-id: "sixtones-daruma-soramachi"
+shop_id: "sixtones-daruma-soramachi"
 name: "月島名物もんじゃ だるま ソラマチ店"
 genre: "もんじゃ"
 prefecture: "東京都"

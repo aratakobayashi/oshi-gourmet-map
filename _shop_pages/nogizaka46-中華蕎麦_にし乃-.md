@@ -2,7 +2,7 @@
 layout: shop
 title: "中華蕎麦 にし乃"
 description: "こちらはラーメンWalkerTV2で佐々木琴子さんが訪れたお店です！"
-id: "nogizaka46-中華蕎麦_にし乃-"
+shop_id: "nogizaka46-中華蕎麦_にし乃-"
 name: "中華蕎麦 にし乃"
 genre: "ラーメン"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "おゝ杉"
 description: "うなしゃぶ"
-id: "kamaitachi-おゝ杉-"
+shop_id: "kamaitachi-おゝ杉-"
 name: "おゝ杉"
 genre: "和食"
 youtube_id: "kU8SZpaXoBE"

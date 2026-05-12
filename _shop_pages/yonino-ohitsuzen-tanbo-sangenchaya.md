@@ -2,7 +2,7 @@
 layout: shop
 title: "おひつ膳 田んぼ"
 description: "よにのちゃんねる#135登場。三軒茶屋のおひつごはん定食店。"
-id: "yonino-ohitsuzen-tanbo-sangenchaya"
+shop_id: "yonino-ohitsuzen-tanbo-sangenchaya"
 name: "おひつ膳 田んぼ"
 genre: "和食"
 prefecture: "東京都"

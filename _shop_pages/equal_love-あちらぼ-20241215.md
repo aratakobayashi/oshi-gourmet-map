@@ -2,7 +2,7 @@
 layout: shop
 title: "あちらぼ"
 description: "食事・杉並区東京都・イコラブが訪問"
-id: "equal_love-あちらぼ-20241215"
+shop_id: "equal_love-あちらぼ-20241215"
 name: "あちらぼ"
 genre: "食事"
 prefecture: "東京都"

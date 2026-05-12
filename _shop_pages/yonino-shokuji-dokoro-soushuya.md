@@ -2,7 +2,7 @@
 layout: shop
 title: "食事処 相州屋"
 description: "よにのちゃんねる#310登場。明大前の昔ながらの定食屋。"
-id: "yonino-shokuji-dokoro-soushuya"
+shop_id: "yonino-shokuji-dokoro-soushuya"
 name: "食事処 相州屋"
 genre: "和食"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "炎麻堂 赤坂店"
 description: "乃木坂工事中の芸能界すごろくでチーム賀喜が挑戦した激辛メニューが食べられるお店です！"
-id: "nogizaka46-炎麻堂_赤坂店-"
+shop_id: "nogizaka46-炎麻堂_赤坂店-"
 name: "炎麻堂 赤坂店"
 genre: "食事"
 prefecture: "東京都"

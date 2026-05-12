@@ -2,7 +2,7 @@
 layout: shop
 title: "鳥元 新宿西口店"
 description: "新宿西口の焼き鳥居酒屋。大食い企画第3弾「わんこ焼き鳥」で6人が合計142本を完食し100本の目標をクリア（ストチューブ2024年11月22日配信）。"
-id: "sixtones-torigen-shinjuku"
+shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
 genre: "居酒屋"
 prefecture: "東京都"

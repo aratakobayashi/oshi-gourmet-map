@@ -2,7 +2,7 @@
 layout: shop
 title: "欧風カレー ボンディ 神保町本店"
 description: "カレー激戦区神保町の超有名店。ジャガイモ付きが定番。"
-id: "nogizaka46-bondy-jimbocho"
+shop_id: "nogizaka46-bondy-jimbocho"
 name: "欧風カレー ボンディ 神保町本店"
 genre: "その他"
 prefecture: "東京都"

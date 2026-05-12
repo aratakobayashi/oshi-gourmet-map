@@ -2,7 +2,7 @@
 layout: shop
 title: "USHIGORO S. GINZA"
 description: "Snow Manの渡辺翔太くん、松原タニシさんと一緒に来た焼肉屋さんです。"
-id: "kamenashi-ushigoro_s_ginza-20250816"
+shop_id: "kamenashi-ushigoro_s_ginza-20250816"
 name: "USHIGORO S. GINZA"
 genre: "焼肉"
 prefecture: "東京都"

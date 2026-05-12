@@ -2,7 +2,7 @@
 layout: shop
 title: "朝日屋"
 description: "『乃木坂工事中』のカレーのコーナーで日村さんがおすすめしていたカレー丼が食べられるお店です^ ^"
-id: "nogizaka46-朝日屋-"
+shop_id: "nogizaka46-朝日屋-"
 name: "朝日屋"
 genre: "食事"
 prefecture: "東京都"

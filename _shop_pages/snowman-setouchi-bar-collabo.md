@@ -2,7 +2,7 @@
 layout: shop
 title: "瀬戸内バル Collabo"
 description: "「向井康二の食べたいものを当てろ」で訪問。瀬戸内の食材を使ったバル料理が登場しました。"
-id: "snowman-setouchi-bar-collabo"
+shop_id: "snowman-setouchi-bar-collabo"
 name: "瀬戸内バル Collabo"
 genre: "食事"
 prefecture: "東京都"

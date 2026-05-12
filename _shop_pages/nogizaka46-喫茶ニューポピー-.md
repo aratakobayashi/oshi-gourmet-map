@@ -2,7 +2,7 @@
 layout: shop
 title: "喫茶ニューポピー"
 description: "乃木坂配信中で筒井あやめさんが訪れた喫茶店です^ ^"
-id: "nogizaka46-喫茶ニューポピー-"
+shop_id: "nogizaka46-喫茶ニューポピー-"
 name: "喫茶ニューポピー"
 genre: "食事"
 prefecture: "愛知県"

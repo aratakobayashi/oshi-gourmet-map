@@ -2,7 +2,7 @@
 layout: shop
 title: "本処 かえる本舗"
 description: "谷中銀座での散策中に立ち寄った和菓子・スイーツ店。"
-id: "sixtones-本処かえる本舗"
+shop_id: "sixtones-本処かえる本舗"
 name: "本処 かえる本舗"
 genre: "スイーツ"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "そば街角"
 description: "食事・那覇市沖縄県・イコラブが訪問"
-id: "equal_love-そば街角-20240815"
+shop_id: "equal_love-そば街角-20240815"
 name: "そば街角"
 genre: "食事"
 prefecture: "沖縄県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "喫茶ツヅキ"
 description: "乃木坂46時間TVの企画でさゆりんご軍団が来店したお店です！ モーニングのCセットにカフェオーレを注文していました！"
-id: "nogizaka46-喫茶ツヅキ-"
+shop_id: "nogizaka46-喫茶ツヅキ-"
 name: "喫茶ツヅキ"
 genre: "カフェ"
 prefecture: "愛知県"

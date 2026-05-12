@@ -2,7 +2,7 @@
 layout: shop
 title: "usagiiya by源楽"
 description: "食事・熱海市静岡県・イコラブが訪問"
-id: "equal_love-usagiiya_by源楽-20250820"
+shop_id: "equal_love-usagiiya_by源楽-20250820"
 name: "usagiiya by源楽"
 genre: "食事"
 prefecture: "静岡県"

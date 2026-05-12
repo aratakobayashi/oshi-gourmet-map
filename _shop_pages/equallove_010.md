@@ -2,7 +2,7 @@
 layout: shop
 title: "BALLPARK BURGER &9"
 description: "イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。"
-id: "equallove_010"
+shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
 genre: "食事"
 prefecture: "神奈川県"

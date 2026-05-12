@@ -2,7 +2,7 @@
 layout: shop
 title: "からあげ まこちゃん 鎌倉本店"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-からあげ_まこちゃん_鎌倉本店-20240809"
+shop_id: "equal_love-からあげ_まこちゃん_鎌倉本店-20240809"
 name: "からあげ まこちゃん 鎌倉本店"
 genre: "食事"
 prefecture: "神奈川県"

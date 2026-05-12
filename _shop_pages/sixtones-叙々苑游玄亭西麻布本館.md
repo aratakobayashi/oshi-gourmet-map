@@ -2,7 +2,7 @@
 layout: shop
 title: "叙々苑 游玄亭 西麻布本館"
 description: "デビュー1周年記念のお祝いで訪れた超高級焼肉店。"
-id: "sixtones-叙々苑游玄亭西麻布本館"
+shop_id: "sixtones-叙々苑游玄亭西麻布本館"
 name: "叙々苑 游玄亭 西麻布本館"
 genre: "焼肉"
 prefecture: "東京都"

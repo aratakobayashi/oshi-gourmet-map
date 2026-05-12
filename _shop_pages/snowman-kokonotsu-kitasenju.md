@@ -2,7 +2,7 @@
 layout: shop
 title: "ここのつ 3号店"
 description: "北千住にある鶏料理専門店。究極のレバニラ定食が登場し、メンバーが舌鼓を打ちました。"
-id: "snowman-kokonotsu-kitasenju"
+shop_id: "snowman-kokonotsu-kitasenju"
 name: "ここのつ 3号店"
 genre: "和食"
 prefecture: "東京都"

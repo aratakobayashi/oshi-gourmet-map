@@ -2,7 +2,7 @@
 layout: shop
 title: "カレーは飲み物。ニュー新橋ビル店"
 description: "『乃木坂どこへ』で4期生が訪れ、黒い肉カレー(小)を食べていたお店です^ ^"
-id: "nogizaka46-カレーは飲み物ニュー新橋ビル店-"
+shop_id: "nogizaka46-カレーは飲み物ニュー新橋ビル店-"
 name: "カレーは飲み物。ニュー新橋ビル店"
 genre: "焼肉"
 prefecture: "東京都"

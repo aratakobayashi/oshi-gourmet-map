@@ -2,7 +2,7 @@
 layout: shop
 title: "Pacific DRIVE-IN"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-pacific_drivein-20240809"
+shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "食事"
 prefecture: "神奈川県"

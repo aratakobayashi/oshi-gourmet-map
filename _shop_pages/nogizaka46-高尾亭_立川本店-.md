@@ -2,7 +2,7 @@
 layout: shop
 title: "高尾亭 立川本店"
 description: "山下美月さんのサインが飾られているお店です^ ^"
-id: "nogizaka46-高尾亭_立川本店-"
+shop_id: "nogizaka46-高尾亭_立川本店-"
 name: "高尾亭 立川本店"
 genre: "食事"
 prefecture: "東京都"

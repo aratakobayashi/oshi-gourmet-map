@@ -2,7 +2,7 @@
 layout: shop
 title: "手打ちそば こめや"
 description: "金沢の風情ある茶屋街にある本格手打ちそば店。"
-id: "sixtones-手打ちそばこめや"
+shop_id: "sixtones-手打ちそばこめや"
 name: "手打ちそば こめや"
 genre: "和食"
 prefecture: "石川県"

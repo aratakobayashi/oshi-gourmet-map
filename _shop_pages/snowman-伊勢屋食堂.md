@@ -2,7 +2,7 @@
 layout: shop
 title: "伊勢屋食堂"
 description: "淀橋市場内にある活気あふれる食堂。市場直送の新鮮な食材を使った定食を堪能。"
-id: "snowman-伊勢屋食堂"
+shop_id: "snowman-伊勢屋食堂"
 name: "伊勢屋食堂"
 genre: "和食"
 prefecture: "東京都"

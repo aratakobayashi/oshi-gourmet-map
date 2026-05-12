@@ -2,7 +2,7 @@
 layout: shop
 title: "豚大学 新橋校舎"
 description: "『乃木坂どこへ』で4期生が訪れ、豚丼を食べていたお店です！"
-id: "nogizaka46-豚大学_新橋校舎-"
+shop_id: "nogizaka46-豚大学_新橋校舎-"
 name: "豚大学 新橋校舎"
 genre: "食事"
 prefecture: "東京都"

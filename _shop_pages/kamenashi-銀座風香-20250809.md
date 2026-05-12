@@ -2,7 +2,7 @@
 layout: shop
 title: "銀座風香"
 description: "Snow Manの渡辺翔太くんと来た、高級かき氷店です。"
-id: "kamenashi-銀座風香-20250809"
+shop_id: "kamenashi-銀座風香-20250809"
 name: "銀座風香"
 genre: "スイーツ"
 prefecture: "東京都"

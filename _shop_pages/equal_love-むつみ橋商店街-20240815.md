@@ -2,7 +2,7 @@
 layout: shop
 title: "むつみ橋商店街"
 description: "食事・那覇市沖縄県・イコラブが訪問"
-id: "equal_love-むつみ橋商店街-20240815"
+shop_id: "equal_love-むつみ橋商店街-20240815"
 name: "むつみ橋商店街"
 genre: "食事"
 prefecture: "沖縄県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "一蘭 池袋店"
 description: "食事・豊島区東京都・イコラブが訪問"
-id: "equal_love-一蘭_池袋店-20250608"
+shop_id: "equal_love-一蘭_池袋店-20250608"
 name: "一蘭 池袋店"
 genre: "食事"
 prefecture: "東京都"

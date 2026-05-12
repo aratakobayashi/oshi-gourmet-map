@@ -2,7 +2,7 @@
 layout: shop
 title: "3丁目の小さなパン屋 ちいぱん"
 description: "メンバーが立ち寄った新宿の可愛らしいパン屋さん。"
-id: "sixtones-3丁目の小さなパン屋ちいぱん"
+shop_id: "sixtones-3丁目の小さなパン屋ちいぱん"
 name: "3丁目の小さなパン屋 ちいぱん"
 genre: "カフェ"
 prefecture: "東京都"

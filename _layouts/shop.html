@@ -3,6 +3,35 @@ layout: default
 ---
 {% assign s = page %}
 
+{% assign hero_color = '#e85d75' %}
+{% if s.group == 'snowman' %}{% assign hero_color = '#3b82f6' %}{% endif %}
+{% if s.group == 'sixtones' %}{% assign hero_color = '#7c3aed' %}{% endif %}
+{% if s.group == 'naniwa' %}{% assign hero_color = '#f97316' %}{% endif %}
+{% if s.group == 'kamenashi' %}{% assign hero_color = '#059669' %}{% endif %}
+{% if s.group == 'kamaitachi' %}{% assign hero_color = '#8b5cf6' %}{% endif %}
+{% if s.group == 'equal_love' %}{% assign hero_color = '#f43f5e' %}{% endif %}
+{% if s.group == 'notme' %}{% assign hero_color = '#f43f5e' %}{% endif %}
+{% if s.group == 'neajoy' %}{% assign hero_color = '#ec4899' %}{% endif %}
+{% if s.group == 'nogizaka46' %}{% assign hero_color = '#0ea5e9' %}{% endif %}
+{% if s.group == 'sakurazaka46' %}{% assign hero_color = '#e11d48' %}{% endif %}
+{% if s.group == 'hinatazaka46' %}{% assign hero_color = '#f59e0b' %}{% endif %}
+{% if s.group == 'ginga' %}{% assign hero_color = '#0f766e' %}{% endif %}
+
+{% assign group_label = s.group %}
+{% if s.group == 'yonino' %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
+{% if s.group == 'snowman' %}{% assign group_label = 'Snow Man' %}{% endif %}
+{% if s.group == 'sixtones' %}{% assign group_label = 'SixTONES' %}{% endif %}
+{% if s.group == 'naniwa' %}{% assign group_label = 'なにわ男子' %}{% endif %}
+{% if s.group == 'kamenashi' %}{% assign group_label = '亀梨和也' %}{% endif %}
+{% if s.group == 'kamaitachi' %}{% assign group_label = 'かまいたち' %}{% endif %}
+{% if s.group == 'equal_love' %}{% assign group_label = 'イコラブ' %}{% endif %}
+{% if s.group == 'notme' %}{% assign group_label = '≠ME' %}{% endif %}
+{% if s.group == 'neajoy' %}{% assign group_label = '≒JOY' %}{% endif %}
+{% if s.group == 'nogizaka46' %}{% assign group_label = '乃木坂46' %}{% endif %}
+{% if s.group == 'sakurazaka46' %}{% assign group_label = '櫻坂46' %}{% endif %}
+{% if s.group == 'hinatazaka46' %}{% assign group_label = '日向坂46' %}{% endif %}
+{% if s.group == 'ginga' %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
+
 <!-- JSON-LD: LocalBusiness -->
 <script type="application/ld+json">
 {
@@ -10,16 +39,8 @@ layout: default
   "@type": "Restaurant",
   "name": {{ s.name | jsonify }},
   {% if s.description %}"description": {{ s.description | jsonify }},{% endif %}
-  {% if s.address %}"address": {
-    "@type": "PostalAddress",
-    "streetAddress": {{ s.address | jsonify }},
-    "addressCountry": "JP"
-  },{% endif %}
-  {% if s.lat and s.lng %}"geo": {
-    "@type": "GeoCoordinates",
-    "latitude": {{ s.lat }},
-    "longitude": {{ s.lng }}
-  },{% endif %}
+  {% if s.address %}"address": { "@type": "PostalAddress", "streetAddress": {{ s.address | jsonify }}, "addressCountry": "JP" },{% endif %}
+  {% if s.lat and s.lng %}"geo": { "@type": "GeoCoordinates", "latitude": {{ s.lat }}, "longitude": {{ s.lng }} },{% endif %}
   {% if s.youtube_id %}"sameAs": "https://www.youtube.com/watch?v={{ s.youtube_id }}",{% endif %}
   "url": "{{ page.url | absolute_url }}"
 }
@@ -49,116 +70,141 @@ layout: default
   </div>
 </nav>
 
-<article class="shop-detail">
-  <header class="shop-detail__header">
-    {% if s.youtube_id %}
-    <div class="shop-detail__thumb">
-      <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/maxresdefault.jpg"
-           alt="{{ s.name }}" width="1280" height="720" loading="lazy">
+<!-- ヒーローセクション -->
+<section class="shop-hero" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ hero_color }} 100%)">
+  <div class="shop-hero__inner">
+    <div class="shop-hero__media">
+      {% if s.youtube_id %}
+        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/maxresdefault.jpg" alt="{{ s.name }}" width="1280" height="720">
+      {% else %}
+        <div class="shop-hero__media-placeholder">🍽️</div>
+      {% endif %}
     </div>
-    {% endif %}
 
-    <div class="shop-detail__meta">
-      {% if s.genre %}<span class="post-badge">{{ s.genre }}</span>{% endif %}
-      {% if s.prefecture %}<span class="post-badge">{{ s.prefecture }}</span>{% endif %}
+    <div class="shop-hero__card">
+      <div class="shop-hero__badges">
+        {% if s.genre %}<span class="badge badge--genre">{{ s.genre }}</span>{% endif %}
+        {% if group_label %}<span class="badge" style="background:{{ hero_color }}1a;color:{{ hero_color }};border:1px solid {{ hero_color }}40">{{ group_label }}</span>{% endif %}
+      </div>
+
+      <h1 class="shop-hero__name">{{ s.name }}</h1>
+      {% if s.description %}<p class="shop-hero__desc">{{ s.description }}</p>{% endif %}
+
+      <ul class="shop-hero__meta">
+        {% if s.address %}<li><span class="shop-hero__meta-icon">📍</span><span>{{ s.address }}</span></li>{% endif %}
+        {% if s.nearest_station %}<li><span class="shop-hero__meta-icon">🚃</span><span>{{ s.nearest_station }}</span></li>{% endif %}
+        {% if s.price_range %}<li><span class="shop-hero__meta-icon">💰</span><span>{{ s.price_range }}</span></li>{% endif %}
+        {% if s.visited_date %}<li><span class="shop-hero__meta-icon">📅</span><span>{{ s.visited_date }}訪問</span></li>{% endif %}
+        {% if s.members %}<li><span class="shop-hero__meta-icon">👤</span><span>{{ s.members | join: "・" }}</span></li>{% endif %}
+      </ul>
+
+      <div class="shop-hero__actions">
+        {% if s.hotpepper_url %}<a href="{{ s.hotpepper_url }}" class="shop-hero__btn shop-hero__btn--primary" target="_blank" rel="noopener">ホットペッパーで予約する</a>{% endif %}
+        {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__btn shop-hero__btn--outline" target="_blank" rel="noopener">食べログで見る</a>{% endif %}
+        {% if s.google_maps_url %}<a href="{{ s.google_maps_url }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% elsif s.address %}<a href="https://maps.google.com/?q={{ s.address | url_encode }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% endif %}
+      </div>
+
+      <div class="shop-hero__share">
+        <span class="shop-hero__share-label">シェア</span>
+        <a href="https://twitter.com/intent/tweet?text={{ s.name | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener" aria-label="Xでシェア">𝕏</a>
+        <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener" aria-label="LINEでシェア">LINE</a>
+      </div>
     </div>
-    <h1 class="shop-detail__name">{{ s.name }}</h1>
-    {% if s.description %}<p class="shop-detail__desc">{{ s.description }}</p>{% endif %}
-  </header>
+  </div>
+</section>
 
-  <section class="shop-detail__info">
-    <ul class="shop-info-list">
-      {% if s.address %}
-      <li class="shop-info-list__item">
-        <span class="shop-info-list__label">住所</span>
-        <span class="shop-info-list__value">{{ s.address }}</span>
-      </li>
-      {% endif %}
-      {% if s.nearest_station %}
-      <li class="shop-info-list__item">
-        <span class="shop-info-list__label">最寄り駅</span>
-        <span class="shop-info-list__value">{{ s.nearest_station }}</span>
-      </li>
-      {% endif %}
-      {% if s.price_range %}
-      <li class="shop-info-list__item">
-        <span class="shop-info-list__label">価格帯</span>
-        <span class="shop-info-list__value">{{ s.price_range }}</span>
-      </li>
-      {% endif %}
-      {% if s.visited_date %}
-      <li class="shop-info-list__item">
-        <span class="shop-info-list__label">訪問日</span>
-        <span class="shop-info-list__value">{{ s.visited_date }}</span>
-      </li>
-      {% endif %}
-      {% if s.members %}
-      <li class="shop-info-list__item">
-        <span class="shop-info-list__label">訪問メンバー</span>
-        <span class="shop-info-list__value">{{ s.members | join: "・" }}</span>
-      </li>
-      {% endif %}
-    </ul>
-  </section>
+<div class="shop-page">
 
+  <!-- 動画・記事セクション -->
   {% if s.youtube_id %}
-  <section class="shop-detail__video">
-    <h2 class="shop-detail__section-title">動画で見る</h2>
-    <div class="video-embed">
-      <iframe src="https://www.youtube.com/embed/{{ s.youtube_id }}"
-              title="{{ s.source_video_title | default: s.name }}"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-              loading="lazy"></iframe>
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">このお店が登場した動画・記事</h2>
+      <a href="https://www.youtube.com/watch?v={{ s.youtube_id }}" class="shop-section__more" target="_blank" rel="noopener">YouTubeで見る →</a>
     </div>
-    {% if s.source_video_title %}
-    <p class="shop-detail__video-title">{{ s.source_video_title }}</p>
-    {% endif %}
+    <div class="shop-videos">
+      <a href="https://www.youtube.com/watch?v={{ s.youtube_id }}" class="shop-video-card" target="_blank" rel="noopener">
+        <div class="shop-video-card__thumb">
+          <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/mqdefault.jpg" alt="{{ s.source_video_title | default: s.name }}" loading="lazy">
+          <div class="shop-video-card__play"><span>▶</span></div>
+        </div>
+        <div class="shop-video-card__body">
+          <p class="shop-video-card__title">{{ s.source_video_title | default: '動画を見る' }}</p>
+          {% if s.visited_date %}<p class="shop-video-card__date">{{ s.visited_date }}</p>{% endif %}
+        </div>
+      </a>
+    </div>
   </section>
   {% endif %}
 
+  <!-- 地図セクション -->
   {% if s.lat and s.lng %}
-  <section class="shop-detail__map">
-    <h2 class="shop-detail__section-title">地図</h2>
-    <div id="shop-map" style="height:320px;border-radius:12px;"></div>
-  </section>
-  {% endif %}
-
-  {% assign has_links = false %}
-  {% if s.tabelog_url or s.hotpepper_url or s.google_maps_url %}
-    {% assign has_links = true %}
-  {% endif %}
-  {% if s.affiliate_links and s.affiliate_links.size > 0 %}
-    {% assign has_links = true %}
-  {% endif %}
-
-  {% if has_links %}
-  <section class="shop-detail__links">
-    <h2 class="shop-detail__section-title">予約・詳細を見る</h2>
-    <div class="shop-action-btns">
-      {% if s.hotpepper_url %}
-      <a href="{{ s.hotpepper_url }}" class="shop-action-btn shop-action-btn--hotpepper" target="_blank" rel="noopener">ホットペッパーで予約</a>
-      {% endif %}
-      {% if s.tabelog_url %}
-      <a href="{{ s.tabelog_url }}" class="shop-action-btn shop-action-btn--tabelog" target="_blank" rel="noopener">食べログで見る</a>
-      {% endif %}
-      {% if s.google_maps_url %}
-      <a href="{{ s.google_maps_url }}" class="shop-action-btn shop-action-btn--maps" target="_blank" rel="noopener">Google マップで見る</a>
-      {% endif %}
-      {% for link in s.affiliate_links %}
-        {% unless link.url == s.hotpepper_url or link.url == s.tabelog_url or link.url == s.google_maps_url %}
-        <a href="{{ link.url }}" class="shop-action-btn" target="_blank" rel="noopener">{{ link.label }}</a>
-        {% endunless %}
-      {% endfor %}
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">行き方を確かめる</h2>
+    </div>
+    <div class="shop-map-layout">
+      <div id="shop-map" class="shop-map-embed"></div>
+      <aside class="shop-map-sidebar">
+        {% if s.address %}
+        <div class="shop-map-sidebar__item">
+          <p class="shop-map-sidebar__label">住所</p>
+          <p class="shop-map-sidebar__value">{{ s.address }}</p>
+        </div>
+        {% endif %}
+        {% if s.nearest_station %}
+        <div class="shop-map-sidebar__item">
+          <p class="shop-map-sidebar__label">最寄り駅</p>
+          <p class="shop-map-sidebar__value">{{ s.nearest_station }}</p>
+        </div>
+        {% endif %}
+        {% if s.price_range %}
+        <div class="shop-map-sidebar__item">
+          <p class="shop-map-sidebar__label">価格帯</p>
+          <p class="shop-map-sidebar__value">{{ s.price_range }}</p>
+        </div>
+        {% endif %}
+        <a href="{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://maps.google.com/?q={{ s.address | url_encode }}{% endif %}"
+           class="shop-map-sidebar__btn" target="_blank" rel="noopener">Googleマップで開く →</a>
+      </aside>
     </div>
   </section>
   {% endif %}
 
-  <!-- グループMAPへのCTA -->
+  <!-- 同じメンバーが訪れたお店 -->
+  {% if s.members and s.members.size > 0 %}
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">同じメンバーが訪れたお店</h2>
+      <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="shop-section__more">もっと見る →</a>
+    </div>
+    <div class="shop-related-scroll"
+         id="related-by-member"
+         data-members="{{ s.members | join: ',' }}"
+         data-exclude="{{ s.shop_id }}">
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- 同じジャンルの他のお店 -->
+  {% if s.genre %}
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">同じジャンルの他のお店</h2>
+      <a href="{{ '/shops/' | relative_url }}?genre={{ s.genre }}" class="shop-section__more">もっと見る →</a>
+    </div>
+    <div class="shop-related-scroll"
+         id="related-by-genre"
+         data-genre="{{ s.genre }}"
+         data-exclude="{{ s.shop_id }}">
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- グループ MAP CTA -->
   {% if s.group %}
   <section class="post-map-cta">
-    <p class="post-map-cta__text">他にも<strong>{{ s.group | replace: 'yonino','よにのちゃんねる' | replace: 'snowman','Snow Man' | replace: 'sixtones','SixTONES' | replace: 'naniwa','なにわ男子' | replace: 'kamenashi','亀梨和也' | replace: 'kamaitachi','かまいたち' | replace: 'equal_love','イコラブ' | replace: 'notme','≠ME' | replace: 'neajoy','≒JOY' | replace: 'nogizaka46','乃木坂46' | replace: 'hinatazaka46','日向坂46' | replace: 'sakurazaka46','櫻坂46' | replace: 'ginga','中丸雄一 銀河チャンネル' }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
+    <p class="post-map-cta__text">他にも<strong>{{ group_label }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
     <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
   </section>
   {% endif %}
@@ -167,11 +213,12 @@ layout: default
     <a href="{{ '/shops/' | relative_url }}" class="btn btn--back">← お店一覧に戻る</a>
     <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
   </footer>
-</article>
+</div>
 
+<!-- 地図初期化 -->
 {% if s.lat and s.lng %}
 <script>
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
   var map = L.map('shop-map', { scrollWheelZoom: false }).setView([{{ s.lat }}, {{ s.lng }}], 16);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
@@ -179,6 +226,37 @@ layout: default
   L.marker([{{ s.lat }}, {{ s.lng }}]).addTo(map)
     .bindPopup({{ s.name | jsonify }})
     .openPopup();
-})();
+});
 </script>
 {% endif %}
+
+<!-- 関連店舗 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+
+  fetch(base + '/data/shops.json')
+    .then(function(r) { return r.json(); })
+    .then(function(shops) {
+      var memberEl = document.getElementById('related-by-member');
+      if (memberEl) {
+        var targetMembers = memberEl.dataset.members.split(',').map(function(m) { return m.trim(); });
+        var excludeId = memberEl.dataset.exclude;
+        var related = shops.filter(function(s) {
+          return s.id !== excludeId && (s.members || []).some(function(m) { return targetMembers.indexOf(m) >= 0; });
+        }).slice(0, 10);
+        if (related.length) memberEl.innerHTML = related.map(function(s) { return buildShopCard(s); }).join('');
+      }
+
+      var genreEl = document.getElementById('related-by-genre');
+      if (genreEl) {
+        var targetGenre = genreEl.dataset.genre;
+        var excludeId2 = genreEl.dataset.exclude;
+        var related2 = shops.filter(function(s) {
+          return s.id !== excludeId2 && s.genre === targetGenre;
+        }).sort(function() { return Math.random() - 0.5; }).slice(0, 10);
+        if (related2.length) genreEl.innerHTML = related2.map(function(s) { return buildShopCard(s); }).join('');
+      }
+    });
+});
+</script>

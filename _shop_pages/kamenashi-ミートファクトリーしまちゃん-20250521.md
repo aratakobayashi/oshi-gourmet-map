@@ -2,7 +2,7 @@
 layout: shop
 title: "ミートファクトリーしまちゃん"
 description: "【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。"
-id: "kamenashi-ミートファクトリーしまちゃん-20250521"
+shop_id: "kamenashi-ミートファクトリーしまちゃん-20250521"
 name: "ミートファクトリーしまちゃん"
 genre: "焼肉"
 prefecture: "大阪府"

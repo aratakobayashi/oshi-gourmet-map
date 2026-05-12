@@ -2,7 +2,7 @@
 layout: shop
 title: "ISHINOYA 熱海 / 石のや 熱海"
 description: "食事・熱海市静岡県・イコラブが訪問"
-id: "equal_love-ishinoya_熱海__石のや_熱海-20250905"
+shop_id: "equal_love-ishinoya_熱海__石のや_熱海-20250905"
 name: "ISHINOYA 熱海 / 石のや 熱海"
 genre: "食事"
 prefecture: "静岡県"

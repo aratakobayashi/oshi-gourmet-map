@@ -2,7 +2,7 @@
 layout: shop
 title: "パンダレストラン"
 description: "「佐久間大介の食べたいものを当てろ」で訪問。渋谷にあるカジュアルな本格中華料理店。"
-id: "snowman-panda-restaurant-shibuya"
+shop_id: "snowman-panda-restaurant-shibuya"
 name: "パンダレストラン"
 genre: "中華"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "銀座 福祿壽"
 description: "銀座の和カフェ。かき氷や抹茶スイーツを楽しみながらトークを展開。"
-id: "yonino-ginza-fukukuju"
+shop_id: "yonino-ginza-fukukuju"
 name: "銀座 福祿壽"
 genre: "スイーツ"
 prefecture: "東京都"

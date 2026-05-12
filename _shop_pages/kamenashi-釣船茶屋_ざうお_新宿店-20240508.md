@@ -2,7 +2,7 @@
 layout: shop
 title: "釣船茶屋 ざうお 新宿店"
 description: "なにわ男子の高橋恭平くんと行ったお店です。 店内で魚介類を釣り、その場で料理してくれます。"
-id: "kamenashi-釣船茶屋_ざうお_新宿店-20240508"
+shop_id: "kamenashi-釣船茶屋_ざうお_新宿店-20240508"
 name: "釣船茶屋 ざうお 新宿店"
 genre: "居酒屋"
 prefecture: "東京都"

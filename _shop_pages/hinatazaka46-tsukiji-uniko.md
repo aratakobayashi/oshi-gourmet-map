@@ -2,7 +2,7 @@
 layout: shop
 title: "築地虎杖 うに虎 中通り店"
 description: "うに食べ比べ丼を堪能。日向坂メンバーも絶賛の築地グルメ。"
-id: "hinatazaka46-tsukiji-uniko"
+shop_id: "hinatazaka46-tsukiji-uniko"
 name: "築地虎杖 うに虎 中通り店"
 genre: "寿司"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "STREAMER COFFEE COMPANY AKASAKA"
 description: "カフェ・東京都・よにのちゃんねるが訪問"
-id: "yonino-streamer_coffee_comp-20260201"
+shop_id: "yonino-streamer_coffee_comp-20260201"
 name: "STREAMER COFFEE COMPANY AKASAKA"
 genre: "カフェ"
 prefecture: "東京都"

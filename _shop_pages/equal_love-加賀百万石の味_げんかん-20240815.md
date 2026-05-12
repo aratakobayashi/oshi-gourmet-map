@@ -2,7 +2,7 @@
 layout: shop
 title: "加賀百万石の味 げんかん"
 description: "食事・金沢市石川県・イコラブが訪問"
-id: "equal_love-加賀百万石の味_げんかん-20240815"
+shop_id: "equal_love-加賀百万石の味_げんかん-20240815"
 name: "加賀百万石の味 げんかん"
 genre: "食事"
 prefecture: "石川県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "薬膳キッチン やくぜんや"
 description: "身体に優しい薬膳料理ランチ。すの日常2025年9月24日配信。"
-id: "snowman-yakuzenya-ebisu"
+shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "和食"
 prefecture: "東京都"

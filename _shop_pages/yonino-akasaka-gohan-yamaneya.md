@@ -2,7 +2,7 @@
 layout: shop
 title: "赤坂ごはん 山ね家"
 description: "よにのちゃんねる#249登場。赤坂の家庭的な和定食店。"
-id: "yonino-akasaka-gohan-yamaneya"
+shop_id: "yonino-akasaka-gohan-yamaneya"
 name: "赤坂ごはん 山ね家"
 genre: "和食"
 prefecture: "東京都"

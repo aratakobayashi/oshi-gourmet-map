@@ -2,7 +2,7 @@
 layout: shop
 title: "タイトーステーション 広島本通店"
 description: "食事・広島市広島県・イコラブが訪問"
-id: "equal_love-タイトーステーション_広島本通店-20240814"
+shop_id: "equal_love-タイトーステーション_広島本通店-20240814"
 name: "タイトーステーション 広島本通店"
 genre: "食事"
 prefecture: "広島県"

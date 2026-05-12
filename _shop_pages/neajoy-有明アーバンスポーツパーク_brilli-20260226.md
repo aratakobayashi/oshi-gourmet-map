@@ -2,7 +2,7 @@
 layout: shop
 title: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"
 description: "食事・江東区東京都・≒JOYが訪問"
-id: "neajoy-有明アーバンスポーツパーク_brilli-20260226"
+shop_id: "neajoy-有明アーバンスポーツパーク_brilli-20260226"
 name: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "羽田市場 GINZA SEVEN"
 description: "銀座にある、超新鮮な魚介が楽しめるお店。高級魚を使った回転寿司形式のランチを堪能。"
-id: "snowman-haneda-ichiba-ginza"
+shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"
 genre: "寿司"
 prefecture: "東京都"

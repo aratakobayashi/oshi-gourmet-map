@@ -2,7 +2,7 @@
 layout: shop
 title: "回転わんこそば くるくるわんこ"
 description: "食事・新宿区東京都・イコラブが訪問"
-id: "equal_love-回転わんこそば_くるくるわんこ-20240804"
+shop_id: "equal_love-回転わんこそば_くるくるわんこ-20240804"
 name: "回転わんこそば くるくるわんこ"
 genre: "食事"
 prefecture: "東京都"

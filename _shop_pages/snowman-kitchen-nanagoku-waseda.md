@@ -2,7 +2,7 @@
 layout: shop
 title: "キッチン南国"
 description: "早稲田にある老舗定食屋。メンバーがボリューム満点のメニューを完食したガッツリ系スポット。"
-id: "snowman-kitchen-nanagoku-waseda"
+shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "和食"
 prefecture: "東京都"

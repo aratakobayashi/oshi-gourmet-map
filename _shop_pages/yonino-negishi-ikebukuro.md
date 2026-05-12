@@ -2,7 +2,7 @@
 layout: shop
 title: "ねぎし 池袋サンシャイン前店"
 description: "牛たん・とろろ・麦めしの専門店。朝食シリーズの第1回目として登場。"
-id: "yonino-negishi-ikebukuro"
+shop_id: "yonino-negishi-ikebukuro"
 name: "ねぎし 池袋サンシャイン前店"
 genre: "和食"
 prefecture: "東京都"

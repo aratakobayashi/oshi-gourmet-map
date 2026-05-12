@@ -2,7 +2,7 @@
 layout: shop
 title: "佐野みそ 亀戸本店"
 description: "70種類以上の味噌を取り揃える老舗味噌専門店。「みそムリエ」資格保有者が常駐し、プロの料理人も信頼を寄せる。よにのちゃんねる#400で登場。"
-id: "yonino-sanomiso-kameido"
+shop_id: "yonino-sanomiso-kameido"
 name: "佐野みそ 亀戸本店"
 genre: "食事"
 prefecture: "東京都"

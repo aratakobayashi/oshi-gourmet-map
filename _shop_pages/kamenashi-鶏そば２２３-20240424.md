@@ -2,7 +2,7 @@
 layout: shop
 title: "鶏そば２２３"
 description: "京都にある塩ラーメン専門店です。 味変で特製オリーブソースを入れ、洋風ラーメンを楽しんでいます。"
-id: "kamenashi-鶏そば２２３-20240424"
+shop_id: "kamenashi-鶏そば２２３-20240424"
 name: "鶏そば２２３"
 genre: "ラーメン"
 prefecture: "京都府"

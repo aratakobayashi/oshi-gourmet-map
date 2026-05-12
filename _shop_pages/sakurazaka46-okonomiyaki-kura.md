@@ -2,7 +2,7 @@
 layout: shop
 title: "お好み焼 鉄板焼 蔵"
 description: "櫻坂46の2期生メンバーが訪れた月島の名店。明太もちもんじゃが人気。"
-id: "sakurazaka46-okonomiyaki-kura"
+shop_id: "sakurazaka46-okonomiyaki-kura"
 name: "お好み焼 鉄板焼 蔵"
 genre: "もんじゃ"
 prefecture: "東京都"

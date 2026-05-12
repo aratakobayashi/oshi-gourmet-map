@@ -2,7 +2,7 @@
 layout: shop
 title: "GOLD RUSH(ゴールドラッシュ)"
 description: "食事・新宿区東京都・中丸雄一銀河チャンネルが訪問"
-id: "ginga-gold_rushゴールドラッシュ-20250217"
+shop_id: "ginga-gold_rushゴールドラッシュ-20250217"
 name: "GOLD RUSH(ゴールドラッシュ)"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "Juicer Bar 新幹線新大阪店"
 description: "食事・大阪市大阪府・イコラブが訪問"
-id: "equal_love-juicer_bar_新幹線新大阪店-20250827"
+shop_id: "equal_love-juicer_bar_新幹線新大阪店-20250827"
 name: "Juicer Bar 新幹線新大阪店"
 genre: "食事"
 prefecture: "大阪府"

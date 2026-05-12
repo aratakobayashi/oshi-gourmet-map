@@ -2,7 +2,7 @@
 layout: shop
 title: "お食事処 たかはし"
 description: "よにのちゃんねる#218登場。早稲田の定食屋。"
-id: "yonino-oshokuji-takahashi-waseda"
+shop_id: "yonino-oshokuji-takahashi-waseda"
 name: "お食事処 たかはし"
 genre: "和食"
 prefecture: "東京都"

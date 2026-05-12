@@ -2,7 +2,7 @@
 layout: shop
 title: "炭焼きレストランさわやか 静岡インター店"
 description: "静岡に来たら外せないハンバーグ。メンバーも大興奮。"
-id: "hinatazaka46-sawayaka-shizuoka"
+shop_id: "hinatazaka46-sawayaka-shizuoka"
 name: "炭焼きレストランさわやか 静岡インター店"
 genre: "焼肉"
 prefecture: "静岡県"

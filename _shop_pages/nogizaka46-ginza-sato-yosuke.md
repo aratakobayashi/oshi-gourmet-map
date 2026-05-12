@@ -2,7 +2,7 @@
 layout: shop
 title: "銀座 佐藤養助"
 description: "稲庭うどんの名店。ツルツルの喉越しをメンバーが堪能。"
-id: "nogizaka46-ginza-sato-yosuke"
+shop_id: "nogizaka46-ginza-sato-yosuke"
 name: "銀座 佐藤養助"
 genre: "和食"
 prefecture: "東京都"

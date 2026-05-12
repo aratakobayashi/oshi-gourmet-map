@@ -2,7 +2,7 @@
 layout: shop
 title: "オガールインレストラン"
 description: "大谷映美里がケータリングやロケに関連して紹介。地元食材を活かした美味しい食事が楽しめる。"
-id: "equallove_007"
+shop_id: "equallove_007"
 name: "オガールインレストラン"
 genre: "食事"
 prefecture: "岩手県"

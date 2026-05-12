@@ -2,7 +2,7 @@
 layout: shop
 title: "プングム 新大久保本店"
 description: "食事・新宿区東京都・イコラブが訪問"
-id: "equal_love-プングム_新大久保本店-20251122"
+shop_id: "equal_love-プングム_新大久保本店-20251122"
 name: "プングム 新大久保本店"
 genre: "食事"
 prefecture: "東京都"

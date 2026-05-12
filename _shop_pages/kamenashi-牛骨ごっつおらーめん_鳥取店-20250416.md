@@ -2,7 +2,7 @@
 layout: shop
 title: "牛骨ごっつおらーめん 鳥取店"
 description: "牛骨ラーメンを食べたお店です。"
-id: "kamenashi-牛骨ごっつおらーめん_鳥取店-20250416"
+shop_id: "kamenashi-牛骨ごっつおらーめん_鳥取店-20250416"
 name: "牛骨ごっつおらーめん 鳥取店"
 genre: "ラーメン"
 prefecture: "鳥取県"

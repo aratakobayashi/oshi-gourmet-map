@@ -2,7 +2,7 @@
 layout: shop
 title: "浅草もんじゃ てっぱん大吉"
 description: "浅草の人気もんじゃ・鉄板焼き店。特選明太スペシャルもんじゃや浅草のりもんじゃが名物。よにのちゃんねる#272・#490で登場。"
-id: "yonino-teppan-daikichi"
+shop_id: "yonino-teppan-daikichi"
 name: "浅草もんじゃ てっぱん大吉"
 genre: "もんじゃ"
 prefecture: "東京都"

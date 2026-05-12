@@ -2,7 +2,7 @@
 layout: shop
 title: "dancyu食堂"
 description: "東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。"
-id: "yonino-dancyu-shokudo"
+shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "和食"
 prefecture: "東京都"

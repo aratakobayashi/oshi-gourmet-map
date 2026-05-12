@@ -2,7 +2,7 @@
 layout: shop
 title: "天心閣"
 description: "食事・廿日市広島県・イコラブが訪問"
-id: "equal_love-天心閣-20250915"
+shop_id: "equal_love-天心閣-20250915"
 name: "天心閣"
 genre: "食事"
 prefecture: "広島県"

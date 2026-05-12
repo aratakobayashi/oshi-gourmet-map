@@ -2,7 +2,7 @@
 layout: shop
 title: "大人食堂"
 description: "新宿三丁目の人気定食・おばんざい店。チキン南蛮やからあげなど家庭的な料理が揃う。白米・玄米から選べる。よにのちゃんねる#455で登場。"
-id: "yonino-otona-shokudo"
+shop_id: "yonino-otona-shokudo"
 name: "大人食堂"
 genre: "和食"
 prefecture: "東京都"

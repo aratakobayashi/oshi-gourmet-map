@@ -2,7 +2,7 @@
 layout: shop
 title: "赤鬼"
 description: "食事・いわき市福島県・イコラブが訪問"
-id: "equal_love-赤鬼-20240814"
+shop_id: "equal_love-赤鬼-20240814"
 name: "赤鬼"
 genre: "食事"
 prefecture: "福島県"

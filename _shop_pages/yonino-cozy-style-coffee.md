@@ -2,7 +2,7 @@
 layout: shop
 title: "CozyStyle COFFEE"
 description: "落合にある小さなカフェ。ティラミスも人気。よにのちゃんねる#419に登場。"
-id: "yonino-cozy-style-coffee"
+shop_id: "yonino-cozy-style-coffee"
 name: "CozyStyle COFFEE"
 genre: "カフェ"
 prefecture: "東京都"

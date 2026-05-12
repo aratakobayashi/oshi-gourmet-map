@@ -2,7 +2,7 @@
 layout: shop
 title: "Le BRESSO 木場公園前店"
 description: "同じく2021年10月1日放送のコーナーで大橋くんが訪れた 『Le BRESSO（レブレッソ）木場公園前店』 。 こちらは食パン専門店×コーヒースタンドのお店で、もっちりしっとりとした食感の食パンメニューとハンドドリップで一杯ずつ丁寧に淹れたコーヒーなどを楽しむことができますよ。"
-id: "naniwa-le_bresso_木場公園前店-20211001"
+shop_id: "naniwa-le_bresso_木場公園前店-20211001"
 name: "Le BRESSO 木場公園前店"
 genre: "カフェ"
 prefecture: "東京都"

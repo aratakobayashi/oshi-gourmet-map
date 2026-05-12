@@ -2,7 +2,7 @@
 layout: shop
 title: "STARBUCKS RESERVE ROASTERY TOKYO"
 description: "よにのちゃんねる#391/#392登場。中目黒川沿いのスタバ世界5店舗限定ロースタリー。"
-id: "yonino-starbucks-reserve-roastery"
+shop_id: "yonino-starbucks-reserve-roastery"
 name: "STARBUCKS RESERVE ROASTERY TOKYO"
 genre: "カフェ"
 prefecture: "東京都"

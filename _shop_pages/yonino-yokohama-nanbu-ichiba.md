@@ -2,7 +2,7 @@
 layout: shop
 title: "横浜南部市場 食の専門店街"
 description: "よにのちゃんねる#326/#328登場。横浜南部市場内の飲食専門店街。"
-id: "yonino-yokohama-nanbu-ichiba"
+shop_id: "yonino-yokohama-nanbu-ichiba"
 name: "横浜南部市場 食の専門店街"
 genre: "食事"
 prefecture: "神奈川県"

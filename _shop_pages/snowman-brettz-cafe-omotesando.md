@@ -2,7 +2,7 @@
 layout: shop
 title: "ブレッツカフェ クレープリー 表参道店"
 description: "「フレンチ（ガレット）を食べよう」企画で訪問。本格的なそば粉のガレットを楽しんだお洒落なカフェ。"
-id: "snowman-brettz-cafe-omotesando"
+shop_id: "snowman-brettz-cafe-omotesando"
 name: "ブレッツカフェ クレープリー 表参道店"
 genre: "カフェ"
 prefecture: "東京都"

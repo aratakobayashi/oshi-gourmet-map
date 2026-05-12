@@ -2,7 +2,7 @@
 layout: shop
 title: "La Maison du R"
 description: "食事・岡崎市愛知県・≒JOYが訪問"
-id: "neajoy-la_maison_du_r-20240814"
+shop_id: "neajoy-la_maison_du_r-20240814"
 name: "La Maison du R"
 genre: "食事"
 prefecture: "愛知県"

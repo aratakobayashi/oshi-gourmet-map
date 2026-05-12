@@ -2,7 +2,7 @@
 layout: shop
 title: "錦まるん"
 description: "食事・京都市京都府・イコラブが訪問"
-id: "equal_love-錦まるん-20240804"
+shop_id: "equal_love-錦まるん-20240804"
 name: "錦まるん"
 genre: "食事"
 prefecture: "京都府"

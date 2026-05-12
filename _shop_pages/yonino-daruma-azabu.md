@@ -2,7 +2,7 @@
 layout: shop
 title: "しゃぶしゃぶ だるま"
 description: "麻布十番駅徒歩1分の人気しゃぶしゃぶ・すき焼き店。こだわり食材で少し優雅なひとときを。よにのちゃんねる#476で登場。"
-id: "yonino-daruma-azabu"
+shop_id: "yonino-daruma-azabu"
 name: "しゃぶしゃぶ だるま"
 genre: "和食"
 prefecture: "東京都"

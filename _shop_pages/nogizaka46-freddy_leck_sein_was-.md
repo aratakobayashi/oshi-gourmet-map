@@ -2,7 +2,7 @@
 layout: shop
 title: "FREDDY LECK sein WASCHSALON TOKYO"
 description: "『20thシンクロニシティType-B』ジャケット写真のカフェ＆コインランドリーです^ ^"
-id: "nogizaka46-freddy_leck_sein_was-"
+shop_id: "nogizaka46-freddy_leck_sein_was-"
 name: "FREDDY LECK sein WASCHSALON TOKYO"
 genre: "カフェ"
 prefecture: "東京都"

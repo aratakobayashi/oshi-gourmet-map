@@ -2,7 +2,7 @@
 layout: shop
 title: "WEGO 原宿竹下通り店"
 description: "食事・渋谷区東京都・≠MEが訪問"
-id: "notme-wego_原宿竹下通り店-20240804"
+shop_id: "notme-wego_原宿竹下通り店-20240804"
 name: "WEGO 原宿竹下通り店"
 genre: "食事"
 prefecture: "東京都"

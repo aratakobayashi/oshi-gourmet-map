@@ -2,7 +2,7 @@
 layout: shop
 title: "TAOCA COFFEE 南青山店"
 description: "兵庫・西宮で人気の実力派スペシャルティコーヒーロースターの東京1号店。南青山の洗練されたエリアに2024年オープン。よにのちゃんねる#477で登場。"
-id: "yonino-taoca-coffee"
+shop_id: "yonino-taoca-coffee"
 name: "TAOCA COFFEE 南青山店"
 genre: "カフェ"
 prefecture: "東京都"

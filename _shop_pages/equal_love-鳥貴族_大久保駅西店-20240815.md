@@ -2,7 +2,7 @@
 layout: shop
 title: "鳥貴族 大久保駅西店"
 description: "食事・新宿区東京都・イコラブが訪問"
-id: "equal_love-鳥貴族_大久保駅西店-20240815"
+shop_id: "equal_love-鳥貴族_大久保駅西店-20240815"
 name: "鳥貴族 大久保駅西店"
 genre: "食事"
 prefecture: "東京都"

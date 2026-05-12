@@ -2,7 +2,7 @@
 layout: shop
 title: "都庁食堂（32F）"
 description: "よにのちゃんねる#150登場。東京都庁32階の職員食堂。"
-id: "yonino-tocho-shokudo"
+shop_id: "yonino-tocho-shokudo"
 name: "都庁食堂（32F）"
 genre: "食事"
 prefecture: "東京都"

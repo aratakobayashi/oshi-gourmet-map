@@ -2,7 +2,7 @@
 layout: shop
 title: "らうめん侍 本丸"
 description: "食事・金沢市石川県・イコラブが訪問"
-id: "equal_love-らうめん侍_本丸-20240815"
+shop_id: "equal_love-らうめん侍_本丸-20240815"
 name: "らうめん侍 本丸"
 genre: "食事"
 prefecture: "石川県"

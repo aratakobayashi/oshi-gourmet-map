@@ -2,7 +2,7 @@
 layout: shop
 title: "千里眼"
 description: "食事・目黒区東京都・イコラブが訪問"
-id: "equal_love-千里眼-20240815"
+shop_id: "equal_love-千里眼-20240815"
 name: "千里眼"
 genre: "食事"
 prefecture: "東京都"

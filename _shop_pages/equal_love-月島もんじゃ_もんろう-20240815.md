@@ -2,7 +2,7 @@
 layout: shop
 title: "月島もんじゃ もんろう"
 description: "食事・中央区東京都・イコラブが訪問"
-id: "equal_love-月島もんじゃ_もんろう-20240815"
+shop_id: "equal_love-月島もんじゃ_もんろう-20240815"
 name: "月島もんじゃ もんろう"
 genre: "食事"
 prefecture: "東京都"

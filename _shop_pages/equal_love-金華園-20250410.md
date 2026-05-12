@@ -2,7 +2,7 @@
 layout: shop
 title: "金華園"
 description: "食事・台東区東京都・イコラブが訪問"
-id: "equal_love-金華園-20250410"
+shop_id: "equal_love-金華園-20250410"
 name: "金華園"
 genre: "食事"
 prefecture: "東京都"

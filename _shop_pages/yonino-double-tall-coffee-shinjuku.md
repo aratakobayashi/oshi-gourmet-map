@@ -2,7 +2,7 @@
 layout: shop
 title: "DOUBLE TALL COFFEE 新宿御苑"
 description: "よにのちゃんねる#457登場。なにわ男子・道枝駿佑ゲスト回。新宿御苑前のセルフロースターカフェ。"
-id: "yonino-double-tall-coffee-shinjuku"
+shop_id: "yonino-double-tall-coffee-shinjuku"
 name: "DOUBLE TALL COFFEE 新宿御苑"
 genre: "カフェ"
 prefecture: "東京都"

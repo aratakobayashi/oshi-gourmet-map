@@ -2,7 +2,7 @@
 layout: shop
 title: "らーめん ぽっぽっ屋 水道橋店"
 description: "食事・千代田区東京都・イコラブが訪問"
-id: "equal_love-らーめん_ぽっぽっ屋_水道橋店-20251205"
+shop_id: "equal_love-らーめん_ぽっぽっ屋_水道橋店-20251205"
 name: "らーめん ぽっぽっ屋 水道橋店"
 genre: "食事"
 prefecture: "東京都"

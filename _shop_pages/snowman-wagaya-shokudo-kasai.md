@@ -2,7 +2,7 @@
 layout: shop
 title: "わが家の食堂 葛西店"
 description: "「街の定食屋さんで極上ランチ」として岩本さんが紹介。セルフ形式で好きな小鉢を選べる人気店。"
-id: "snowman-wagaya-shokudo-kasai"
+shop_id: "snowman-wagaya-shokudo-kasai"
 name: "わが家の食堂 葛西店"
 genre: "和食"
 prefecture: "東京都"

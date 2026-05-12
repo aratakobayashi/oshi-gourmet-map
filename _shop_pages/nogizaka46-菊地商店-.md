@@ -2,7 +2,7 @@
 layout: shop
 title: "菊地商店"
 description: "『17thインフルエンサーType-A』に収録されている、岩本蓮加さんの個人PV『駄菓子屋れんたん！』が撮影された駄菓子屋さんです^ ^"
-id: "nogizaka46-菊地商店-"
+shop_id: "nogizaka46-菊地商店-"
 name: "菊地商店"
 genre: "食事"
 prefecture: "東京都"

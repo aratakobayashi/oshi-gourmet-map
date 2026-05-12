@@ -2,7 +2,7 @@
 layout: shop
 title: "Litty"
 description: "食事・渋谷区東京都・イコラブが訪問"
-id: "equal_love-litty-20241211"
+shop_id: "equal_love-litty-20241211"
 name: "Litty"
 genre: "食事"
 prefecture: "東京都"

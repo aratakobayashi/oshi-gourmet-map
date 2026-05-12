@@ -2,7 +2,7 @@
 layout: shop
 title: "イワタコーヒー店"
 description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ ホットケーキを食べていました^ ^"
-id: "nogizaka46-イワタコーヒー店-"
+shop_id: "nogizaka46-イワタコーヒー店-"
 name: "イワタコーヒー店"
 genre: "カフェ"
 prefecture: "神奈川県"

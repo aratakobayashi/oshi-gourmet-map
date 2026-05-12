@@ -2,7 +2,7 @@
 layout: shop
 title: "情熱居酒屋じゃじゃ馬"
 description: "食事・いわき市福島県・イコラブが訪問"
-id: "equal_love-情熱居酒屋じゃじゃ馬-20240814"
+shop_id: "equal_love-情熱居酒屋じゃじゃ馬-20240814"
 name: "情熱居酒屋じゃじゃ馬"
 genre: "食事"
 prefecture: "福島県"

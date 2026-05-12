@@ -2,7 +2,7 @@
 layout: shop
 title: "やきとん長良"
 description: "食事・杉並区東京都・イコラブが訪問"
-id: "equal_love-やきとん長良-20241215"
+shop_id: "equal_love-やきとん長良-20241215"
 name: "やきとん長良"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "COA GINZA"
 description: "食事・中央区東京都・イコラブが訪問"
-id: "equal_love-coa_ginza-20251006"
+shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
 genre: "食事"
 prefecture: "東京都"

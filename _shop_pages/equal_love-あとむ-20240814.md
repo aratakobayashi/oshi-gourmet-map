@@ -2,7 +2,7 @@
 layout: shop
 title: "あとむ"
 description: "食事・広島市広島県・イコラブが訪問"
-id: "equal_love-あとむ-20240814"
+shop_id: "equal_love-あとむ-20240814"
 name: "あとむ"
 genre: "食事"
 prefecture: "広島県"

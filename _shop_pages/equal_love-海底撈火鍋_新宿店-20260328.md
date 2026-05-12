@@ -2,7 +2,7 @@
 layout: shop
 title: "海底撈火鍋 新宿店"
 description: "食事・新宿区東京都・イコラブが訪問"
-id: "equal_love-海底撈火鍋_新宿店-20260328"
+shop_id: "equal_love-海底撈火鍋_新宿店-20260328"
 name: "海底撈火鍋 新宿店"
 genre: "食事"
 prefecture: "東京都"

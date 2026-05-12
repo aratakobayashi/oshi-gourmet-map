@@ -2,7 +2,7 @@
 layout: shop
 title: "Beschle"
 description: "スイスにあるチョコレート屋さんです。 日本人の店員さんに、チョコレートバーの作り方を教えてもらっています。 普段からチョコレート作り体験ができるそうなので、スイスを訪れた際はぜひ挑戦してみてください。"
-id: "kamenashi-beschle-20241116"
+shop_id: "kamenashi-beschle-20241116"
 name: "Beschle"
 genre: "居酒屋"
 address: "Clarastrasse 4, 4058 Basel, スイス"

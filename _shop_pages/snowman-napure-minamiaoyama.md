@@ -2,7 +2,7 @@
 layout: shop
 title: "ナプレ 南青山本店"
 description: "1999年創業のナポリピザブーム先駆け店。すの日常2025年4月16日配信。"
-id: "snowman-napure-minamiaoyama"
+shop_id: "snowman-napure-minamiaoyama"
 name: "ナプレ 南青山本店"
 genre: "食事"
 prefecture: "東京都"

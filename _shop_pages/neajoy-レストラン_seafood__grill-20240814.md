@@ -2,7 +2,7 @@
 layout: shop
 title: "レストラン Seafood ＆ Grill YAKIYA"
 description: "食事・横浜市神奈川県・≒JOYが訪問"
-id: "neajoy-レストラン_seafood__grill-20240814"
+shop_id: "neajoy-レストラン_seafood__grill-20240814"
 name: "レストラン Seafood ＆ Grill YAKIYA"
 genre: "食事"
 prefecture: "神奈川県"

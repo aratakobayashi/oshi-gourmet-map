@@ -2,7 +2,7 @@
 layout: shop
 title: "博多もつ鍋 やま中 銀座店"
 description: "銀座三越近くの名店。ランチタイムに「やま中御膳」を堪能し、その味にメンバーが感動。"
-id: "yonino-yamanaka-ginza"
+shop_id: "yonino-yamanaka-ginza"
 name: "博多もつ鍋 やま中 銀座店"
 genre: "居酒屋"
 prefecture: "東京都"

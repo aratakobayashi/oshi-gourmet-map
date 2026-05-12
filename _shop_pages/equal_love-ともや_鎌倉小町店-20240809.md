@@ -2,7 +2,7 @@
 layout: shop
 title: "ともや 鎌倉小町店"
 description: "食事・鎌倉市神奈川県・イコラブが訪問"
-id: "equal_love-ともや_鎌倉小町店-20240809"
+shop_id: "equal_love-ともや_鎌倉小町店-20240809"
 name: "ともや 鎌倉小町店"
 genre: "食事"
 prefecture: "神奈川県"

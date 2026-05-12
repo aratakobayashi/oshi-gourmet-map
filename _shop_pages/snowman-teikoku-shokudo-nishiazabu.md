@@ -2,7 +2,7 @@
 layout: shop
 title: "帝國食堂"
 description: "西麻布の気軽に入れるフレンチビストロ。すの日常2026年2月11日配信。"
-id: "snowman-teikoku-shokudo-nishiazabu"
+shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "食事"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "餃子の王将 新橋駅前店"
 description: "庶民派の味を求めて新橋へ。ジャストサイズメニューをたくさん並べて宴会気分を楽しみました。"
-id: "yonino-gyoza-ohsho-shimbashi"
+shop_id: "yonino-gyoza-ohsho-shimbashi"
 name: "餃子の王将 新橋駅前店"
 genre: "中華"
 prefecture: "東京都"

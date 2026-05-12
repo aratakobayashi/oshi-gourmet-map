@@ -2,7 +2,7 @@
 layout: shop
 title: "umi cafe"
 description: "『17thインフルエンサーType-C』に収録されている、齋藤飛鳥さんの個人PV『飛鳥マウス、街にあらわる』が撮影されたカフェです^ ^"
-id: "nogizaka46-umi_cafe-"
+shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
 genre: "カフェ"
 prefecture: "神奈川県"

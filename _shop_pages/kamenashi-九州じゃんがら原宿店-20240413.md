@@ -2,7 +2,7 @@
 layout: shop
 title: "九州じゃんがら原宿店"
 description: "ふぉ～ゆ～の越岡くんと来たラーメン屋さんです。"
-id: "kamenashi-九州じゃんがら原宿店-20240413"
+shop_id: "kamenashi-九州じゃんがら原宿店-20240413"
 name: "九州じゃんがら原宿店"
 genre: "ラーメン"
 prefecture: "東京都"

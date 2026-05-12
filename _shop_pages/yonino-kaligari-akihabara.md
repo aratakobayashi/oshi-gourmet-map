@@ -2,7 +2,7 @@
 layout: shop
 title: "秋葉原 カリガリ"
 description: "秋葉原の有名カレー店。ねぎしの後に立ち寄り、本格的なカレーの香りに包まれました。"
-id: "yonino-kaligari-akihabara"
+shop_id: "yonino-kaligari-akihabara"
 name: "秋葉原 カリガリ"
 genre: "その他"
 prefecture: "東京都"

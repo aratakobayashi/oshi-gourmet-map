@@ -2,7 +2,7 @@
 layout: shop
 title: "SPICY CURRY 魯珈"
 description: "大久保の予約困難スパイスカレー店。南インド仕込みのチキンカレーと台湾魯肉飯を組み合わせた「魯珈プレート」が名物。よにのちゃんねる#421で登場。"
-id: "yonino-spicy-curry-roka"
+shop_id: "yonino-spicy-curry-roka"
 name: "SPICY CURRY 魯珈"
 genre: "食事"
 prefecture: "東京都"

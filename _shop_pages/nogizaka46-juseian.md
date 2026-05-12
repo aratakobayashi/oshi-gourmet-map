@@ -2,7 +2,7 @@
 layout: shop
 title: "寿清庵"
 description: "濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。"
-id: "nogizaka46-juseian"
+shop_id: "nogizaka46-juseian"
 name: "寿清庵"
 genre: "スイーツ"
 prefecture: "東京都"

@@ -2,7 +2,7 @@
 layout: shop
 title: "ラーメン山岡家 越谷レイクタウン店"
 description: "食事・越谷市埼玉県・イコラブが訪問"
-id: "equal_love-ラーメン山岡家_越谷レイクタウン店-20241020"
+shop_id: "equal_love-ラーメン山岡家_越谷レイクタウン店-20241020"
 name: "ラーメン山岡家 越谷レイクタウン店"
 genre: "食事"
 prefecture: "埼玉県"

@@ -2,7 +2,7 @@
 layout: shop
 title: "move move (ムーブムーブ)"
 description: "大谷映美里が訪れた新大久保の抹茶ラテが人気のカフェ。無機質でおしゃれな空間が特徴。"
-id: "equallove_008"
+shop_id: "equallove_008"
 name: "move move (ムーブムーブ)"
 genre: "カフェ"
 prefecture: "東京都"

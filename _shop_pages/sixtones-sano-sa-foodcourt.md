@@ -2,7 +2,7 @@
 layout: shop
 title: "佐野サービスエリア（下り）フードコート"
 description: "東北自動車道・佐野SA下りのフードコート。アポなし旅2024夏（2024年9月配信）で途中立ち寄り。佐野ラーメン・ミミパスタ・大根そばなど各自が異なるご当地メニューを注文。"
-id: "sixtones-sano-sa-foodcourt"
+shop_id: "sixtones-sano-sa-foodcourt"
 name: "佐野サービスエリア（下り）フードコート"
 genre: "ラーメン"
 prefecture: "栃木県"

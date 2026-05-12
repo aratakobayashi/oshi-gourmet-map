@@ -2,7 +2,7 @@
 layout: shop
 title: "FLIPPER'S 下北沢店"
 description: "食事・世田谷区東京都・≠MEが訪問"
-id: "notme-flippers_下北沢店-20240804"
+shop_id: "notme-flippers_下北沢店-20240804"
 name: "FLIPPER'S 下北沢店"
 genre: "食事"
 prefecture: "東京都"

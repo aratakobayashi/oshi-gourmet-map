@@ -2,7 +2,7 @@
 layout: shop
 title: "江川亭 小金井本店"
 description: "ドライブ企画の途中で立ち寄った人気ラーメン店。ニンニクの効いたスープが特徴です。"
-id: "snowman-ekawatei-koganei"
+shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"
 genre: "ラーメン"
 prefecture: "東京都"

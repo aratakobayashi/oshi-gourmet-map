@@ -2,7 +2,7 @@
 layout: shop
 title: "葱や平吉 渋谷宇田川町店"
 description: "炭火で焼き上げた名物葱焼きをはじめ、葱を使った創作料理が楽しめる葱専門居酒屋。よにのちゃんねる2026年1月回で登場。"
-id: "yonino-negiya-heikichi"
+shop_id: "yonino-negiya-heikichi"
 name: "葱や平吉 渋谷宇田川町店"
 genre: "居酒屋"
 prefecture: "東京都"

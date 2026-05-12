@@ -2,7 +2,7 @@
 layout: shop
 title: "ピーター・ルーガー・ステーキハウス東京"
 description: "NY・ブルックリン発、創業136年の伝説のステーキ専門店。ドライエイジングビーフの名店。よにのちゃんねる#468で登場。"
-id: "yonino-peter-luger"
+shop_id: "yonino-peter-luger"
 name: "ピーター・ルーガー・ステーキハウス東京"
 genre: "焼肉"
 prefecture: "東京都"

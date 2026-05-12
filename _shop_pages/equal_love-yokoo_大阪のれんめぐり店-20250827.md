@@ -2,7 +2,7 @@
 layout: shop
 title: "YOKOO 大阪のれんめぐり店"
 description: "食事・大阪市大阪府・イコラブが訪問"
-id: "equal_love-yokoo_大阪のれんめぐり店-20250827"
+shop_id: "equal_love-yokoo_大阪のれんめぐり店-20250827"
 name: "YOKOO 大阪のれんめぐり店"
 genre: "食事"
 prefecture: "大阪府"

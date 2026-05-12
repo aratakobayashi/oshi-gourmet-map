@@ -2,7 +2,7 @@
 layout: shop
 title: "Le Pain Quotidien 東京ミッドタウン店"
 description: "ベルギー発祥のベーカリーレストラン。テラス席での朝食シーンが印象的です。"
-id: "yonino-le-pain-quotidien"
+shop_id: "yonino-le-pain-quotidien"
 name: "Le Pain Quotidien 東京ミッドタウン店"
 genre: "カフェ"
 prefecture: "東京都"

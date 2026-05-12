@@ -2,7 +2,7 @@
 layout: shop
 title: "福炎や"
 description: "食事・東京都・イコラブが訪問"
-id: "equal_love-福炎や-20260207"
+shop_id: "equal_love-福炎や-20260207"
 name: "福炎や"
 genre: "食事"
 prefecture: "東京都"

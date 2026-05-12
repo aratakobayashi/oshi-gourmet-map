@@ -2,7 +2,7 @@
 layout: shop
 title: "LATTE ART MANIA TOKYO"
 description: "よにのちゃんねる#405登場。外苑前のラテアート大会チャンピオンが手がけるコーヒー専門店。"
-id: "yonino-latte-art-mania"
+shop_id: "yonino-latte-art-mania"
 name: "LATTE ART MANIA TOKYO"
 genre: "カフェ"
 prefecture: "東京都"
