@@ -1,36 +1,129 @@
 ---
 layout: default
-title: 記事一覧
-description: 推しグルメに関する記事・レポート一覧
+title: 特集記事｜推しグルメ巡礼MAP
+description: アイドル・芸人・YouTuberが訪れたグルメスポットの聖地巡礼まとめ記事一覧。よにのちゃんねる・Snow Man・SixTONESなど各グループごとに検索できます。
 ---
 
-<div class="container">
-  <h1 class="page-title">記事一覧</h1>
+{% assign group_colors = "yonino:#e8537a,snowman:#3b82f6,sixtones:#7c3aed,naniwa:#f97316,kamenashi:#059669,kamaitachi:#8b5cf6,equal_love:#f43f5e,notme:#f43f5e,neajoy:#ec4899,nogizaka46:#0ea5e9,sakurazaka46:#e11d48,hinatazaka46:#f59e0b,ginga:#0f766e" | split: "," %}
 
-  <div class="article-grid">
+{% assign group_labels = "yonino:よにのちゃんねる,snowman:Snow Man,sixtones:SixTONES,naniwa:なにわ男子,kamenashi:亀梨和也,kamaitachi:かまいたち,equal_love:イコラブ,notme:≠ME,neajoy:≒JOY,nogizaka46:乃木坂46,sakurazaka46:櫻坂46,hinatazaka46:日向坂46,ginga:中丸雄一 銀河チャンネル" | split: "," %}
+
+<!-- ページヘッダー -->
+<section class="articles-page-hero">
+  <div class="container">
+    <p class="articles-page-hero__eyebrow">ARTICLES</p>
+    <h1 class="articles-page-hero__title">特集記事</h1>
+    <p class="articles-page-hero__sub">推しが訪れたグルメスポットを徹底まとめ</p>
+  </div>
+</section>
+
+<!-- グループフィルター -->
+{% assign used_groups = "" | split: "" %}
+{% for post in site.posts %}
+  {% unless used_groups contains post.group %}
+    {% if post.group != "" and post.group != nil %}
+      {% assign used_groups = used_groups | push: post.group %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+
+<div class="articles-filter-bar">
+  <div class="container">
+    <div class="articles-filter-row">
+      <button class="af-btn af-btn--active" data-group="">すべて <span class="af-btn__count">{{ site.posts.size }}</span></button>
+      {% for g in used_groups %}
+        {% assign glabel = g %}
+        {% for pair in group_labels %}
+          {% assign kv = pair | split: ":" %}
+          {% if kv[0] == g %}{% assign glabel = kv[1] %}{% endif %}
+        {% endfor %}
+        {% assign gcount = 0 %}
+        {% for post in site.posts %}
+          {% if post.group == g %}{% assign gcount = gcount | plus: 1 %}{% endif %}
+        {% endfor %}
+        <button class="af-btn" data-group="{{ g }}">{{ glabel }} <span class="af-btn__count">{{ gcount }}</span></button>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- 記事グリッド -->
+<div class="container">
+  <div class="articles-list-grid" id="articles-list-grid">
+
     {% for post in site.posts %}
-    <article class="article-card">
-      {% if post.thumbnail %}
-        <a href="{{ post.url | relative_url }}" class="article-card__thumb-link">
-          <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-card__thumb">
-        </a>
-      {% endif %}
-      <div class="article-card__body">
-        <div class="article-card__meta">
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%m月%d日" }}</time>
-          {% if post.prefecture %}<span class="post-badge">{{ post.prefecture }}</span>{% endif %}
-          {% if post.genre %}<span class="post-badge post-badge--genre">{{ post.genre }}</span>{% endif %}
+      {% assign gcolor = '#e8537a' %}
+      {% for pair in group_colors %}
+        {% assign kv = pair | split: ":" %}
+        {% if kv[0] == post.group %}{% assign gcolor = kv[1] %}{% endif %}
+      {% endfor %}
+      {% assign glabel = post.group %}
+      {% for pair in group_labels %}
+        {% assign kv = pair | split: "," %}
+        {% assign kv2 = pair | split: ":" %}
+        {% if kv2[0] == post.group %}{% assign glabel = kv2[1] %}{% endif %}
+      {% endfor %}
+
+      <a href="{{ post.url | relative_url }}"
+         class="alc"
+         data-group="{{ post.group }}"
+         style="--gcolor: {{ gcolor }}">
+
+        <div class="alc__thumb">
+          {% if post.thumbnail_video_id %}
+            <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg"
+                 alt="{{ post.title }}" loading="lazy" width="320" height="180">
+          {% elsif post.thumbnail %}
+            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+          {% else %}
+            <div class="alc__thumb-placeholder" style="background: linear-gradient(135deg, #1a1a2e 0%, {{ gcolor }} 100%)">
+              <span>🍽️</span>
+            </div>
+          {% endif %}
+          {% if post.genre %}<span class="alc__genre-badge">{{ post.genre }}</span>{% endif %}
         </div>
-        <h2 class="article-card__title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
-        <p class="article-card__excerpt">{{ post.excerpt | strip_html | truncate: 80 }}</p>
-      </div>
-    </article>
+
+        <div class="alc__body">
+          <div class="alc__meta">
+            {% if post.group %}
+              <span class="alc__group-tag" style="color: var(--gcolor)">{{ glabel }}</span>
+            {% endif %}
+            <time class="alc__date" datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%Y.%m.%d" }}
+            </time>
+          </div>
+          <h2 class="alc__title">{{ post.title }}</h2>
+          {% if post.description %}
+            <p class="alc__desc">{{ post.description | truncate: 85 }}</p>
+          {% endif %}
+          <span class="alc__cta">記事を読む →</span>
+        </div>
+
+        <div class="alc__accent" style="background: var(--gcolor)"></div>
+      </a>
     {% endfor %}
+
   </div>
 
   {% if site.posts.size == 0 %}
     <p class="empty-message">まだ記事がありません。</p>
   {% endif %}
 </div>
+
+<script>
+(function() {
+  var btns  = document.querySelectorAll('.af-btn');
+  var cards = document.querySelectorAll('.alc');
+
+  btns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      btns.forEach(function(b) { b.classList.remove('af-btn--active'); });
+      btn.classList.add('af-btn--active');
+      var g = btn.dataset.group;
+      cards.forEach(function(card) {
+        card.style.display = (!g || card.dataset.group === g) ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
