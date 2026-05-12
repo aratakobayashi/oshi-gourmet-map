@@ -35,6 +35,28 @@ layout: default
 }
 </script>
 
+{% if page.faq %}
+<!-- JSON-LD: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
 <!-- JSON-LD: BreadcrumbList -->
 <script type="application/ld+json">
 {
@@ -124,6 +146,19 @@ layout: default
     </section>
   {% endif %}
 
+  <!-- FAQ セクション -->
+  {% if page.faq %}
+  <section class="faq" id="faq">
+    <h2 class="faq__title">よくある質問</h2>
+    {% for item in page.faq %}
+    <div class="faq__item">
+      <button class="faq__question" aria-expanded="false">{{ item.q }}</button>
+      <div class="faq__answer">{{ item.a }}</div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
   <!-- グループMAPへのCTA -->
   {% if page.group %}
   <section class="post-map-cta">
@@ -158,6 +193,16 @@ layout: default
   });
   tocWrapper.style.display = 'block';
 })();
+
+// FAQ アコーディオン
+document.querySelectorAll('.faq__question').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var item = btn.closest('.faq__item');
+    var isOpen = item.classList.contains('open');
+    item.classList.toggle('open', !isOpen);
+    btn.setAttribute('aria-expanded', String(!isOpen));
+  });
+});
 
 // 関連店舗カード埋め込み
 const relatedContainer = document.getElementById('related-shop-cards');
