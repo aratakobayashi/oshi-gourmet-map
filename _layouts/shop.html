@@ -181,7 +181,7 @@ layout: default
     <div class="shop-related-scroll"
          id="related-by-member"
          data-members="{{ s.members | join: ',' }}"
-         data-exclude="{{ s.id }}">
+         data-exclude="{{ s.shop_id }}">
     </div>
   </section>
   {% endif %}
@@ -196,7 +196,7 @@ layout: default
     <div class="shop-related-scroll"
          id="related-by-genre"
          data-genre="{{ s.genre }}"
-         data-exclude="{{ s.id }}">
+         data-exclude="{{ s.shop_id }}">
     </div>
   </section>
   {% endif %}

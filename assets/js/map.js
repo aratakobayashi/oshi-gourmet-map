@@ -36,8 +36,7 @@ function renderMapMarkers(shops) {
             style="width:100%;border-radius:6px;margin-bottom:6px;" loading="lazy">`
       : '';
 
-    const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
-    const detailUrl = base + '/shops/' + slug + '/';
+    const detailUrl = base + '/shops/' + shop.id + '/';
 
     marker.bindPopup(`
       <div class="map-popup">
