@@ -419,6 +419,34 @@ img { max-width: 100%; display: block; }
 .modal-link:hover { background: var(--color-primary); color: #fff; text-decoration: none; }
 
 /* ===========================
+   Breadcrumb
+=========================== */
+.breadcrumb {
+  background: #fdf5f7;
+  border-bottom: 1px solid #f5e0e5;
+  padding: 10px 0;
+  font-size: 12px;
+}
+.breadcrumb__list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.breadcrumb__item { display: flex; align-items: center; color: var(--c-muted); }
+.breadcrumb__item + .breadcrumb__item::before {
+  content: '›';
+  margin-right: 4px;
+  color: var(--c-muted);
+}
+.breadcrumb__item a { color: var(--c-berry); text-decoration: none; }
+.breadcrumb__item a:hover { text-decoration: underline; }
+.breadcrumb__item--current { color: var(--c-text); }
+
+/* ===========================
    Post / Article
 =========================== */
 .post {
@@ -636,6 +664,32 @@ img { max-width: 100%; display: block; }
 /* 記事内の店舗カードは小さめに */
 .related-shops .shop-card { font-size: 0.92rem; }
 .related-shops .shop-card__name { font-size: 0.95rem; }
+
+/* ---- 更新日 ---- */
+.post-meta__updated { color: var(--c-muted); font-size: 12px; margin-left: 6px; }
+
+/* ---- グループMAP CTA ---- */
+.post-map-cta {
+  margin: 48px 0 32px;
+  padding: 24px 28px;
+  background: linear-gradient(135deg, #fff0f4, #fdf5f7);
+  border: 1px solid #f5c6d0;
+  border-radius: 16px;
+  text-align: center;
+}
+.post-map-cta__text { font-size: 0.95rem; color: var(--c-text); margin-bottom: 14px; }
+.post-map-cta__btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background: var(--c-berry);
+  color: #fff;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: opacity .15s;
+}
+.post-map-cta__btn:hover { opacity: .85; }
 
 /* ---- 記事フッター ---- */
 .post-footer {

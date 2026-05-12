@@ -1,12 +1,88 @@
 ---
 layout: default
 ---
+{% assign post_image = '' %}
+{% if page.thumbnail_video_id %}
+  {% assign post_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/maxresdefault.jpg' %}
+{% elsif page.thumbnail %}
+  {% assign post_image = page.thumbnail | absolute_url %}
+{% endif %}
+
+<!-- JSON-LD: Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  {% if post_image != '' %}"image": "{{ post_image }}",{% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "ホーム",
+      "item": "{{ site.url }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "特集記事",
+      "item": "{{ site.url }}/articles/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ page.title | jsonify }},
+      "item": "{{ page.url | absolute_url }}"
+    }
+  ]
+}
+</script>
+
+<!-- パンくずリスト -->
+<nav class="breadcrumb" aria-label="パンくずリスト">
+  <div class="container">
+    <ol class="breadcrumb__list">
+      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
+      <li class="breadcrumb__item"><a href="{{ '/articles/' | relative_url }}">特集記事</a></li>
+      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">{{ page.title }}</li>
+    </ol>
+  </div>
+</nav>
+
 <article class="post">
   <header class="post-header">
     <div class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {{ page.date | date: "%Y年%m月%d日" }}
       </time>
+      {% if page.last_modified_at %}
+      <span class="post-meta__updated">（{{ page.last_modified_at | date: "%Y年%m月%d日" }}更新）</span>
+      {% endif %}
       {% if page.prefecture %}
         <span class="post-badge">{{ page.prefecture }}</span>
       {% endif %}
@@ -15,11 +91,9 @@ layout: default
       {% endif %}
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.excerpt %}
-      <p class="post-excerpt">{{ page.excerpt }}</p>
-    {% endif %}
     {% if page.thumbnail_video_id %}
-      <img class="post-thumbnail" src="https://img.youtube.com/vi/{{ page.thumbnail_video_id }}/maxresdefault.jpg" alt="{{ page.title }}">
+      <img class="post-thumbnail" src="https://img.youtube.com/vi/{{ page.thumbnail_video_id }}/maxresdefault.jpg"
+           alt="{{ page.title }}" width="1280" height="720">
     {% elsif page.thumbnail %}
       <img class="post-thumbnail" src="{{ page.thumbnail }}" alt="{{ page.title }}">
     {% else %}
@@ -50,9 +124,17 @@ layout: default
     </section>
   {% endif %}
 
+  <!-- グループMAPへのCTA -->
+  {% if page.group %}
+  <section class="post-map-cta">
+    <p class="post-map-cta__text">他にも<strong>{{ page.group | replace: 'yonino','よにのちゃんねる' | replace: 'snowman','Snow Man' | replace: 'sixtones','SixTONES' | replace: 'naniwa','なにわ男子' | replace: 'kamenashi','亀梨和也' | replace: 'kamaitachi','かまいたち' | replace: 'equal_love','イコラブ' | replace: 'notme','≠ME' | replace: 'neajoy','≒JOY' | replace: 'nogizaka46','乃木坂46' | replace: 'hinatazaka46','日向坂46' | replace: 'sakurazaka46','櫻坂46' | replace: 'ginga','中丸雄一 銀河チャンネル' }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
+    <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
+  </section>
+  {% endif %}
+
   <footer class="post-footer">
-    <a href="{{ '/' | relative_url }}" class="btn btn--back">← お店一覧に戻る</a>
     <a href="{{ '/articles/' | relative_url }}" class="btn btn--back">← 記事一覧に戻る</a>
+    <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
   </footer>
 </article>
 
