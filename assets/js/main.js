@@ -138,7 +138,7 @@ function sortShops(shops) {
 }
 
 // ===========================
-// フォトグリッド描画
+// カードグリッド描画
 // ===========================
 function renderGrid(shops) {
   shops = sortShops(shops);
@@ -149,34 +149,7 @@ function renderGrid(shops) {
     grid.innerHTML = '<p class="no-results">該当するお店が見つかりませんでした。</p>';
     return;
   }
-  grid.innerHTML = shops.map(s => buildPhotoCard(s)).join('');
-}
-
-function buildPhotoCard(shop) {
-  const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
-  const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
-  const detailUrl = base + '/shops/' + slug + '/';
-
-  const group = (shop.groups || [])[0] || shop.group || '';
-  const gradient = GROUP_COLORS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
-  const groupLabel = GROUP_LABELS[group] || group;
-  const solidColor = GROUP_SOLID_COLORS[group] || '#e8537a';
-
-  const imgHtml = shop.youtube_id
-    ? `<img class="photo-card__img" src="https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg" alt="${escHtml(shop.name)}" loading="lazy">`
-    : `<div class="photo-card__img photo-card__placeholder" style="background:${gradient}">${GENRE_ICONS[shop.genre]||'🍽️'}</div>`;
-
-  const meta = [shop.prefecture, shop.genre].filter(Boolean).join(' · ');
-
-  return `
-    <a class="photo-card" href="${detailUrl}">
-      ${imgHtml}
-      <div class="photo-card__overlay">
-        <span class="photo-card__group" style="color:${solidColor}">${escHtml(groupLabel)}</span>
-        <p class="photo-card__name">${escHtml(shop.name)}</p>
-        ${meta ? `<p class="photo-card__meta">${escHtml(meta)}</p>` : ''}
-      </div>
-    </a>`;
+  grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
 }
 
 const GROUP_LABELS = {
