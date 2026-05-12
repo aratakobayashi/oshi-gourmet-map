@@ -1,6 +1,35 @@
 ---
 layout: default
 ---
+{% assign hero_color = '#e8537a' %}
+{% if page.group == 'snowman'      %}{% assign hero_color = '#3b82f6' %}{% endif %}
+{% if page.group == 'sixtones'     %}{% assign hero_color = '#7c3aed' %}{% endif %}
+{% if page.group == 'naniwa'       %}{% assign hero_color = '#f97316' %}{% endif %}
+{% if page.group == 'kamenashi'    %}{% assign hero_color = '#059669' %}{% endif %}
+{% if page.group == 'kamaitachi'   %}{% assign hero_color = '#8b5cf6' %}{% endif %}
+{% if page.group == 'equal_love'   %}{% assign hero_color = '#f43f5e' %}{% endif %}
+{% if page.group == 'notme'        %}{% assign hero_color = '#f43f5e' %}{% endif %}
+{% if page.group == 'neajoy'       %}{% assign hero_color = '#ec4899' %}{% endif %}
+{% if page.group == 'nogizaka46'   %}{% assign hero_color = '#0ea5e9' %}{% endif %}
+{% if page.group == 'sakurazaka46' %}{% assign hero_color = '#e11d48' %}{% endif %}
+{% if page.group == 'hinatazaka46' %}{% assign hero_color = '#f59e0b' %}{% endif %}
+{% if page.group == 'ginga'        %}{% assign hero_color = '#0f766e' %}{% endif %}
+
+{% assign group_label = page.group %}
+{% if page.group == 'yonino'       %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
+{% if page.group == 'snowman'      %}{% assign group_label = 'Snow Man' %}{% endif %}
+{% if page.group == 'sixtones'     %}{% assign group_label = 'SixTONES' %}{% endif %}
+{% if page.group == 'naniwa'       %}{% assign group_label = 'なにわ男子' %}{% endif %}
+{% if page.group == 'kamenashi'    %}{% assign group_label = '亀梨和也' %}{% endif %}
+{% if page.group == 'kamaitachi'   %}{% assign group_label = 'かまいたち' %}{% endif %}
+{% if page.group == 'equal_love'   %}{% assign group_label = 'イコラブ' %}{% endif %}
+{% if page.group == 'notme'        %}{% assign group_label = '≠ME' %}{% endif %}
+{% if page.group == 'neajoy'       %}{% assign group_label = '≒JOY' %}{% endif %}
+{% if page.group == 'nogizaka46'   %}{% assign group_label = '乃木坂46' %}{% endif %}
+{% if page.group == 'sakurazaka46' %}{% assign group_label = '櫻坂46' %}{% endif %}
+{% if page.group == 'hinatazaka46' %}{% assign group_label = '日向坂46' %}{% endif %}
+{% if page.group == 'ginga'        %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
+
 {% assign post_image = '' %}
 {% if page.thumbnail_video_id %}
   {% assign post_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/maxresdefault.jpg' %}
@@ -18,72 +47,40 @@ layout: default
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   {% if post_image != '' %}"image": "{{ post_image }}",{% endif %}
-  "author": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
-  }
+  "author": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" },
+  "publisher": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" }
 }
 </script>
 
 {% if page.faq %}
-<!-- JSON-LD: FAQPage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {% for item in page.faq %}
-    {
-      "@type": "Question",
-      "name": {{ item.q | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ item.a | jsonify }}
-      }
-    }{% unless forloop.last %},{% endunless %}
+    { "@type": "Question", "name": {{ item.q | jsonify }}, "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} } }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
 }
 </script>
 {% endif %}
 
-<!-- JSON-LD: BreadcrumbList -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "ホーム",
-      "item": "{{ site.url }}"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "特集記事",
-      "item": "{{ site.url }}/articles/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": {{ page.title | jsonify }},
-      "item": "{{ page.url | absolute_url }}"
-    }
+    { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ site.url }}" },
+    { "@type": "ListItem", "position": 2, "name": "特集記事", "item": "{{ site.url }}/articles/" },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
   ]
 }
 </script>
+
+<!-- 読書進捗バー -->
+<div class="reading-progress" id="reading-progress"></div>
 
 <!-- パンくずリスト -->
 <nav class="breadcrumb" aria-label="パンくずリスト">
@@ -96,114 +93,202 @@ layout: default
   </div>
 </nav>
 
-<article class="post">
-  <header class="post-header">
-    <div class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%Y年%m月%d日" }}
-      </time>
-      {% if page.last_modified_at %}
-      <span class="post-meta__updated">（{{ page.last_modified_at | date: "%Y年%m月%d日" }}更新）</span>
-      {% endif %}
-      {% if page.prefecture %}
-        <span class="post-badge">{{ page.prefecture }}</span>
-      {% endif %}
-      {% if page.genre %}
-        <span class="post-badge post-badge--genre">{{ page.genre }}</span>
-      {% endif %}
-    </div>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.thumbnail_video_id %}
-      <img class="post-thumbnail" src="https://img.youtube.com/vi/{{ page.thumbnail_video_id }}/maxresdefault.jpg"
-           alt="{{ page.title }}" width="1280" height="720">
-    {% elsif page.thumbnail %}
-      <img class="post-thumbnail" src="{{ page.thumbnail }}" alt="{{ page.title }}">
-    {% else %}
-      <div class="post-hero post-hero--{{ page.group | default: 'default' }}">
-        <p class="post-hero__label">
-          {% if page.genre %}{{ page.genre }}{% endif %}{% if page.genre and page.prefecture %} · {% endif %}{% if page.prefecture %}{{ page.prefecture }}{% endif %}
-        </p>
+<!-- ヒーロー -->
+<section class="article-hero" style="background: linear-gradient(135deg, #1a1a2e 0%, {{ hero_color }} 100%)">
+  <div class="article-hero__inner">
+    <div class="article-hero__content">
+      <div class="article-hero__badges">
+        {% if page.genre %}<span class="badge badge--genre">{{ page.genre }}</span>{% endif %}
+        {% if page.group %}<span class="badge" style="background:{{ hero_color }}33;color:#fff;border:1px solid {{ hero_color }}80">{{ group_label }}</span>{% endif %}
+        {% if page.prefecture %}<span class="badge badge--pref">{{ page.prefecture }}</span>{% endif %}
       </div>
+      <h1 class="article-hero__title">{{ page.title }}</h1>
+      <p class="article-hero__meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
+        {% if page.last_modified_at %}<span class="article-hero__updated">更新: {{ page.last_modified_at | date: "%Y年%m月%d日" }}</span>{% endif %}
+      </p>
+      <div class="article-hero__share">
+        <span class="article-hero__share-label">シェア</span>
+        <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener" aria-label="Xでシェア">𝕏</a>
+        <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener" aria-label="LINEでシェア">LINE</a>
+      </div>
+    </div>
+    {% if post_image != '' %}
+    <div class="article-hero__media">
+      <img src="{{ post_image }}" alt="{{ page.title }}" width="1280" height="720">
+    </div>
     {% endif %}
-  </header>
-
-  <!-- この記事でわかること -->
-  {% if page.summary %}
-  <div class="post-summary">
-    <p class="post-summary__title">📌 この記事でわかること</p>
-    <ul class="post-summary__list">
-      {% for item in page.summary %}
-      <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
   </div>
-  {% endif %}
+</section>
 
-  <!-- 目次（JavaScriptで自動生成） -->
-  <nav class="toc-box" id="toc-wrapper" aria-label="目次" style="display:none">
-    <p class="toc-title">📋 目次</p>
-    <ol class="toc-list" id="toc-list"></ol>
-  </nav>
+<!-- 本文 + サイドバー -->
+<div class="article-layout">
+  <div class="article-layout__inner container">
 
-  <div class="post-body">
-    {{ content }}
-  </div>
+    <main class="article-main" id="article-main">
 
-  {% if page.shop_ids %}
-    <section class="related-shops">
-      <p class="related-shops__heading">記事に登場したお店</p>
-      <div class="shop-cards" id="related-shop-cards" data-shop-ids="{{ page.shop_ids | join: ',' }}">
-        <!-- JavaScriptで動的に挿入 -->
+      {% if page.summary %}
+      <div class="post-summary">
+        <p class="post-summary__title">📌 この記事でわかること</p>
+        <ul class="post-summary__list">
+          {% for item in page.summary %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
       </div>
-    </section>
-  {% endif %}
+      {% endif %}
 
-  <!-- FAQ セクション -->
-  {% if page.faq %}
-  <section class="faq" id="faq">
-    <h2 class="faq__title">よくある質問</h2>
-    {% for item in page.faq %}
-    <div class="faq__item">
-      <button class="faq__question" aria-expanded="false">{{ item.q }}</button>
-      <div class="faq__answer">{{ item.a }}</div>
-    </div>
-    {% endfor %}
-  </section>
-  {% endif %}
+      <!-- SP 目次（PCはサイドバーに表示） -->
+      <nav class="toc-box toc-box--mobile" id="toc-wrapper-mobile" aria-label="目次" style="display:none">
+        <button class="toc-toggle" id="toc-toggle" aria-expanded="false">
+          <span class="toc-toggle__label">📋 目次</span>
+          <span class="toc-toggle__icon">▼</span>
+        </button>
+        <ol class="toc-list toc-list--mobile" id="toc-list-mobile" style="display:none"></ol>
+      </nav>
 
-  <!-- グループMAPへのCTA -->
-  {% if page.group %}
-  <section class="post-map-cta">
-    <p class="post-map-cta__text">他にも<strong>{{ page.group | replace: 'yonino','よにのちゃんねる' | replace: 'snowman','Snow Man' | replace: 'sixtones','SixTONES' | replace: 'naniwa','なにわ男子' | replace: 'kamenashi','亀梨和也' | replace: 'kamaitachi','かまいたち' | replace: 'equal_love','イコラブ' | replace: 'notme','≠ME' | replace: 'neajoy','≒JOY' | replace: 'nogizaka46','乃木坂46' | replace: 'hinatazaka46','日向坂46' | replace: 'sakurazaka46','櫻坂46' | replace: 'ginga','中丸雄一 銀河チャンネル' }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
-    <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
-  </section>
-  {% endif %}
+      <div class="post-body">
+        {{ content }}
+      </div>
 
-  <footer class="post-footer">
-    <a href="{{ '/articles/' | relative_url }}" class="btn btn--back">← 記事一覧に戻る</a>
-    <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
-  </footer>
-</article>
+      {% if page.shop_ids %}
+      <section class="article-shops">
+        <div class="article-shops__header">
+          <h2 class="article-shops__title">🍽️ 記事に登場したお店</h2>
+          {% if page.group %}<a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="article-shops__more">全店舗を見る →</a>{% endif %}
+        </div>
+        <div class="article-shops__scroll" id="related-shop-cards" data-shop-ids="{{ page.shop_ids | join: ',' }}"></div>
+      </section>
+      {% endif %}
+
+      {% if page.faq %}
+      <section class="faq" id="faq">
+        <h2 class="faq__title">よくある質問</h2>
+        {% for item in page.faq %}
+        <div class="faq__item">
+          <button class="faq__question" aria-expanded="false">{{ item.q }}</button>
+          <div class="faq__answer">{{ item.a }}</div>
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+
+      {% if page.group %}
+      <section class="post-map-cta">
+        <p class="post-map-cta__text">他にも<strong>{{ group_label }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
+        <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
+      </section>
+      {% endif %}
+
+      <footer class="post-footer article-post-footer">
+        <div class="post-footer__share">
+          <span>この記事をシェア：</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener">𝕏</a>
+          <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener">LINE</a>
+        </div>
+        <div class="post-footer__nav">
+          <a href="{{ '/articles/' | relative_url }}" class="btn btn--back">← 記事一覧に戻る</a>
+          <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
+        </div>
+      </footer>
+
+    </main>
+
+    <!-- PC サイドバー -->
+    <aside class="article-sidebar" id="article-sidebar">
+      <div class="article-sidebar__inner">
+
+        <nav class="toc-box toc-box--sidebar" id="toc-wrapper-sidebar" aria-label="目次" style="display:none">
+          <p class="toc-title">📋 目次</p>
+          <ol class="toc-list" id="toc-list-sidebar"></ol>
+        </nav>
+
+        {% if page.group %}
+        <div class="sidebar-cta">
+          <p class="sidebar-cta__group">{{ group_label }}</p>
+          <p class="sidebar-cta__text">が訪れた全グルメスポットを地図で確認できます</p>
+          <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="sidebar-cta__btn">地図で見る →</a>
+        </div>
+        {% endif %}
+
+      </div>
+    </aside>
+
+  </div>
+</div>
 
 <script>
+const SITE_BASEURL = '{{ site.baseurl }}';
+
+// 読書進捗バー
+(function() {
+  var bar = document.getElementById('reading-progress');
+  if (!bar) return;
+  function update() {
+    var main = document.getElementById('article-main');
+    if (!main) return;
+    var scrollTop = window.scrollY || document.documentElement.scrollTop;
+    var total = main.offsetTop + main.offsetHeight - window.innerHeight;
+    var pct = total > 0 ? Math.min(100, (scrollTop / total) * 100) : 0;
+    bar.style.width = pct + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  update();
+})();
+
 // 目次自動生成
 (function() {
-  const headings = document.querySelectorAll('.post-body h2');
+  var headings = document.querySelectorAll('.post-body h2');
   if (headings.length < 2) return;
-  const tocList = document.getElementById('toc-list');
-  const tocWrapper = document.getElementById('toc-wrapper');
-  if (!tocList || !tocWrapper) return;
+  var tocSidebar  = document.getElementById('toc-list-sidebar');
+  var tocMobile   = document.getElementById('toc-list-mobile');
+  var wrapSidebar = document.getElementById('toc-wrapper-sidebar');
+  var wrapMobile  = document.getElementById('toc-wrapper-mobile');
+
   headings.forEach(function(h, i) {
-    const id = 'section-' + i;
+    var id = 'section-' + i;
     h.id = id;
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = '#' + id;
-    a.textContent = h.textContent;
-    li.appendChild(a);
-    tocList.appendChild(li);
+    [tocSidebar, tocMobile].forEach(function(list) {
+      if (!list) return;
+      var li = document.createElement('li');
+      var a  = document.createElement('a');
+      a.href = '#' + id;
+      a.textContent = h.textContent;
+      a.dataset.sectionId = id;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
   });
-  tocWrapper.style.display = 'block';
+
+  if (wrapSidebar) wrapSidebar.style.display = 'block';
+  if (wrapMobile)  wrapMobile.style.display  = 'block';
+
+  // サイドバー TOC アクティブ追跡
+  if (tocSidebar && 'IntersectionObserver' in window) {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          tocSidebar.querySelectorAll('a').forEach(function(a) { a.classList.remove('toc-active'); });
+          var active = tocSidebar.querySelector('[data-section-id="' + entry.target.id + '"]');
+          if (active) active.classList.add('toc-active');
+        }
+      });
+    }, { rootMargin: '-10% 0px -80% 0px' });
+    headings.forEach(function(h) { observer.observe(h); });
+  }
+})();
+
+// SP 目次トグル
+(function() {
+  var btn  = document.getElementById('toc-toggle');
+  var list = document.getElementById('toc-list-mobile');
+  if (!btn || !list) return;
+  btn.addEventListener('click', function() {
+    var open = list.style.display !== 'none';
+    list.style.display = open ? 'none' : 'block';
+    btn.setAttribute('aria-expanded', String(!open));
+    btn.querySelector('.toc-toggle__icon').textContent = open ? '▼' : '▲';
+  });
 })();
 
 // FAQ アコーディオン
@@ -216,15 +301,20 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
   });
 });
 
-// 関連店舗カード埋め込み
-const relatedContainer = document.getElementById('related-shop-cards');
-if (relatedContainer) {
-  const ids = relatedContainer.dataset.shopIds.split(',').map(s => s.trim());
-  fetch('{{ "/data/shops.json" | relative_url }}')
-    .then(r => r.json())
-    .then(shops => {
-      const matched = shops.filter(s => ids.includes(s.id));
-      relatedContainer.innerHTML = matched.map(s => buildShopCard(s)).join('');
+// 関連店舗（横スクロール）
+(function() {
+  var container = document.getElementById('related-shop-cards');
+  if (!container) return;
+  var ids = container.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+  var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  fetch(base + '/data/shops.json')
+    .then(function(r) { return r.json(); })
+    .then(function(shops) {
+      var matched = shops.filter(function(s) { return ids.indexOf(s.id) >= 0; });
+      matched.sort(function(a, b) { return ids.indexOf(a.id) - ids.indexOf(b.id); });
+      if (matched.length && typeof buildShopCard === 'function') {
+        container.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+      }
     });
-}
+})();
 </script>
