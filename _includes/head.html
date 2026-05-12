@@ -15,10 +15,12 @@
 <meta property="og:description" content="{{ page_desc | strip_html | truncate: 160 }}">
 <meta property="og:url"         content="{{ page.url | absolute_url }}">
 <meta property="og:locale"      content="ja_JP">
-<meta property="og:type"        content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:type"        content="{% if page.layout == 'post' %}article{% elsif page.layout == 'shop' %}restaurant{% else %}website{% endif %}">
 
 {% if page.thumbnail_video_id %}
   {% assign ogp_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/maxresdefault.jpg' %}
+{% elsif page.youtube_id %}
+  {% assign ogp_image = page.youtube_id | prepend: 'https://img.youtube.com/vi/' | append: '/maxresdefault.jpg' %}
 {% elsif page.thumbnail %}
   {% assign ogp_image = page.thumbnail | absolute_url %}
 {% endif %}

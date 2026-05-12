@@ -1,0 +1,28 @@
+---
+layout: shop
+title: "多け乃"
+description: "築地場外市場の老舗海鮮居酒屋。金目鯛などの朝定食が有名。よにのちゃんねる#180に登場。"
+id: "yonino-takeno-tsukiji"
+name: "多け乃"
+genre: "居酒屋"
+prefecture: "東京都"
+city: "中央区"
+address: "東京都中央区築地6-21-2"
+visited_date: "2022-11-16"
+youtube_id: "QjkBTKEHcGE"
+source_video_title: "#180【全員集合】友達ですよね？と確認された日"
+group: "yonino"
+lat: 35.6653
+lng: 139.7712
+members:
+  - "二宮和也"
+  - "山田涼介"
+  - "菊池風磨"
+groups:
+  - "yonino"
+tags:
+  - "海鮮"
+  - "築地"
+  - "居酒屋"
+  - "朝食"
+---

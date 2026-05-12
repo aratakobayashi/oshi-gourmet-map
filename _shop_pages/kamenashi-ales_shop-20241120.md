@@ -1,0 +1,25 @@
+---
+layout: shop
+title: "ALES SHOP"
+description: "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。"
+id: "kamenashi-ales_shop-20241120"
+name: "ALES SHOP"
+genre: "食事"
+prefecture: "東京都"
+city: "渋谷区"
+address: "東京都渋谷区神宮前６丁目９−１"
+visited_date: "2024-11-20"
+youtube_id: "P7JBBmjdJKI"
+source_video_title: "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？"
+group: "kamenashi"
+tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP"
+lat: 47.5553
+lng: 7.5905
+members:
+  - "亀梨和也"
+groups:
+  - "kamenashi"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP"
+---

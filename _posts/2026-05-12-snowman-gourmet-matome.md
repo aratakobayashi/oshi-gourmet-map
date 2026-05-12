@@ -8,7 +8,7 @@ group: snowman
 genre: まとめ
 prefecture: 東京都
 tags: [Snow Man, すの日常, グルメ, 聖地巡礼, まとめ, 岩本照, 深澤辰哉, ラウール]
-thumbnail_video_id: q9xC9ARZAi8
+thumbnail_video_id: RpcyxzXS4ww
 summary:
   - "すの日常に登場したグルメスポットを全37件まとめて確認できる"
   - "浅草・港区・銀座など東京エリア別の巡礼ルートがわかる"

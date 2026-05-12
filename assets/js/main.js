@@ -222,9 +222,11 @@ function buildShopCard(shop) {
     ? `<p class="shop-card__members">👤 ${shop.members.map(escHtml).join(' / ')}</p>`
     : '';
 
+  const slug = shop.id.replace(/_+/g, '-').replace(/-{2,}/g, '-');
+  const detailUrl = `${base}/shops/${slug}/`;
+
   return `
-    <div class="shop-card" onclick="openModal('${escHtml(shop.id)}')" role="button" tabindex="0"
-         onkeydown="if(event.key==='Enter')openModal('${escHtml(shop.id)}')">
+    <a class="shop-card" href="${detailUrl}">
       <div class="shop-card__thumb">${thumbHtml}</div>
       <div class="shop-card__body">
         <div class="shop-card__tags">${tags}</div>
@@ -233,7 +235,7 @@ function buildShopCard(shop) {
         <p class="shop-card__desc">${escHtml(shop.description || '')}</p>
         ${members}
       </div>
-    </div>`;
+    </a>`;
 }
 
 // ===========================

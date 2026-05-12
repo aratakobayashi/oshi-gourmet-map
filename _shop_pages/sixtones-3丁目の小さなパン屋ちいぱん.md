@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "3丁目の小さなパン屋 ちいぱん"
+description: "メンバーが立ち寄った新宿の可愛らしいパン屋さん。"
+id: "sixtones-3丁目の小さなパン屋ちいぱん"
+name: "3丁目の小さなパン屋 ちいぱん"
+genre: "カフェ"
+prefecture: "東京都"
+city: "新宿区"
+address: "東京都新宿区新宿3-11-2"
+visited_date: "2024-11-20"
+source_video_title: "SixTONES - 都内散歩"
+source_video_url: "https://www.youtube.com/watch?v=9B0nETo07gA"
+group: "sixtones"
+lat: 35.6912
+lng: 139.7065
+members:
+  - "ジェシー"
+  - "京本大我"
+  - "松村北斗"
+  - "髙地優吾"
+  - "森本慎太郎"
+  - "田中樹"
+groups:
+  - "sixtones"
+---

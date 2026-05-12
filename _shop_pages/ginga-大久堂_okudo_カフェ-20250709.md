@@ -1,0 +1,27 @@
+---
+layout: shop
+title: "大久堂 OKUDO カフェ"
+description: "カフェ・新宿区東京都・中丸雄一銀河チャンネルが訪問"
+id: "ginga-大久堂_okudo_カフェ-20250709"
+name: "大久堂 OKUDO カフェ"
+genre: "カフェ"
+prefecture: "東京都"
+city: "新宿区"
+address: "東京都新宿区百人町２丁目２−９"
+visited_date: "2025-07-09"
+source_video_title: "銀河チャンネル"
+group: "ginga"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13293786/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001000512/course/?vos=nhppvccp99002"
+lat: 35.703008
+lng: 139.6992999
+members:
+  - "中丸雄一"
+groups:
+  - "ginga"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13293786/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001000512/course/?vos=nhppvccp99002"
+---

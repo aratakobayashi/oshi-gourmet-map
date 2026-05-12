@@ -1,0 +1,25 @@
+---
+layout: shop
+title: "café recette 鎌倉(カフェ ルセット)"
+description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ 究極のフレンチトーストを食べていました！"
+id: "nogizaka46-café_recette_鎌倉カフェ_ル-"
+name: "café recette 鎌倉(カフェ ルセット)"
+genre: "カフェ"
+prefecture: "神奈川県"
+city: "鎌倉市"
+address: "神奈川県鎌倉市坂ノ下22-5"
+source_video_title: "21thジコチューで行こう！Type-D"
+group: "nogizaka46"
+tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=caf%C3%A9%20recette%20%E9%8E%8C%E5%80%89%28%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%29"
+lat: 35.3086712
+lng: 139.5331753
+members:
+  - "与田祐希"
+  - "齋藤飛鳥"
+  - "大園桃子"
+groups:
+  - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=caf%C3%A9%20recette%20%E9%8E%8C%E5%80%89%28%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%29"
+---

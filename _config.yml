@@ -8,6 +8,12 @@ markdown: kramdown
 highlighter: rouge
 permalink: /articles/:year/:month/:day/:title/
 
+# コレクション
+collections:
+  shop_pages:
+    output: true
+    permalink: /shops/:name/
+
 # プラグイン（GitHub Pages対応）
 plugins:
   - jekyll-feed
@@ -21,6 +27,11 @@ defaults:
     values:
       layout: "post"
       author: "編集部"
+  - scope:
+      path: ""
+      type: "shop_pages"
+    values:
+      layout: "shop"
 
 # 除外ファイル
 exclude:

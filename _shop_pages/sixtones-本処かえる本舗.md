@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "本処 かえる本舗"
+description: "谷中銀座での散策中に立ち寄った和菓子・スイーツ店。"
+id: "sixtones-本処かえる本舗"
+name: "本処 かえる本舗"
+genre: "スイーツ"
+prefecture: "東京都"
+city: "台東区"
+address: "東京都台東区谷中3-13-3"
+visited_date: "2024-11-20"
+source_video_title: "SixTONES - 都内散歩"
+source_video_url: "https://www.youtube.com/watch?v=9B0nETo07gA"
+group: "sixtones"
+lat: 35.7268
+lng: 139.7663
+members:
+  - "ジェシー"
+  - "京本大我"
+  - "松村北斗"
+  - "髙地優吾"
+  - "森本慎太郎"
+  - "田中樹"
+groups:
+  - "sixtones"
+---

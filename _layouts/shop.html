@@ -1,0 +1,184 @@
+---
+layout: default
+---
+{% assign s = page %}
+
+<!-- JSON-LD: LocalBusiness -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": {{ s.name | jsonify }},
+  {% if s.description %}"description": {{ s.description | jsonify }},{% endif %}
+  {% if s.address %}"address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ s.address | jsonify }},
+    "addressCountry": "JP"
+  },{% endif %}
+  {% if s.lat and s.lng %}"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ s.lat }},
+    "longitude": {{ s.lng }}
+  },{% endif %}
+  {% if s.youtube_id %}"sameAs": "https://www.youtube.com/watch?v={{ s.youtube_id }}",{% endif %}
+  "url": "{{ page.url | absolute_url }}"
+}
+</script>
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ site.url }}" },
+    { "@type": "ListItem", "position": 2, "name": "お店一覧", "item": "{{ site.url }}/shops/" },
+    { "@type": "ListItem", "position": 3, "name": {{ s.name | jsonify }}, "item": "{{ page.url | absolute_url }}" }
+  ]
+}
+</script>
+
+<!-- パンくずリスト -->
+<nav class="breadcrumb" aria-label="パンくずリスト">
+  <div class="container">
+    <ol class="breadcrumb__list">
+      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
+      <li class="breadcrumb__item"><a href="{{ '/shops/' | relative_url }}">お店一覧</a></li>
+      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">{{ s.name }}</li>
+    </ol>
+  </div>
+</nav>
+
+<article class="shop-detail">
+  <header class="shop-detail__header">
+    {% if s.youtube_id %}
+    <div class="shop-detail__thumb">
+      <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/maxresdefault.jpg"
+           alt="{{ s.name }}" width="1280" height="720" loading="lazy">
+    </div>
+    {% endif %}
+
+    <div class="shop-detail__meta">
+      {% if s.genre %}<span class="post-badge">{{ s.genre }}</span>{% endif %}
+      {% if s.prefecture %}<span class="post-badge">{{ s.prefecture }}</span>{% endif %}
+    </div>
+    <h1 class="shop-detail__name">{{ s.name }}</h1>
+    {% if s.description %}<p class="shop-detail__desc">{{ s.description }}</p>{% endif %}
+  </header>
+
+  <section class="shop-detail__info">
+    <ul class="shop-info-list">
+      {% if s.address %}
+      <li class="shop-info-list__item">
+        <span class="shop-info-list__label">住所</span>
+        <span class="shop-info-list__value">{{ s.address }}</span>
+      </li>
+      {% endif %}
+      {% if s.nearest_station %}
+      <li class="shop-info-list__item">
+        <span class="shop-info-list__label">最寄り駅</span>
+        <span class="shop-info-list__value">{{ s.nearest_station }}</span>
+      </li>
+      {% endif %}
+      {% if s.price_range %}
+      <li class="shop-info-list__item">
+        <span class="shop-info-list__label">価格帯</span>
+        <span class="shop-info-list__value">{{ s.price_range }}</span>
+      </li>
+      {% endif %}
+      {% if s.visited_date %}
+      <li class="shop-info-list__item">
+        <span class="shop-info-list__label">訪問日</span>
+        <span class="shop-info-list__value">{{ s.visited_date }}</span>
+      </li>
+      {% endif %}
+      {% if s.members %}
+      <li class="shop-info-list__item">
+        <span class="shop-info-list__label">訪問メンバー</span>
+        <span class="shop-info-list__value">{{ s.members | join: "・" }}</span>
+      </li>
+      {% endif %}
+    </ul>
+  </section>
+
+  {% if s.youtube_id %}
+  <section class="shop-detail__video">
+    <h2 class="shop-detail__section-title">動画で見る</h2>
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/{{ s.youtube_id }}"
+              title="{{ s.source_video_title | default: s.name }}"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy"></iframe>
+    </div>
+    {% if s.source_video_title %}
+    <p class="shop-detail__video-title">{{ s.source_video_title }}</p>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  {% if s.lat and s.lng %}
+  <section class="shop-detail__map">
+    <h2 class="shop-detail__section-title">地図</h2>
+    <div id="shop-map" style="height:320px;border-radius:12px;"></div>
+  </section>
+  {% endif %}
+
+  {% assign has_links = false %}
+  {% if s.tabelog_url or s.hotpepper_url or s.google_maps_url %}
+    {% assign has_links = true %}
+  {% endif %}
+  {% if s.affiliate_links and s.affiliate_links.size > 0 %}
+    {% assign has_links = true %}
+  {% endif %}
+
+  {% if has_links %}
+  <section class="shop-detail__links">
+    <h2 class="shop-detail__section-title">予約・詳細を見る</h2>
+    <div class="shop-action-btns">
+      {% if s.hotpepper_url %}
+      <a href="{{ s.hotpepper_url }}" class="shop-action-btn shop-action-btn--hotpepper" target="_blank" rel="noopener">ホットペッパーで予約</a>
+      {% endif %}
+      {% if s.tabelog_url %}
+      <a href="{{ s.tabelog_url }}" class="shop-action-btn shop-action-btn--tabelog" target="_blank" rel="noopener">食べログで見る</a>
+      {% endif %}
+      {% if s.google_maps_url %}
+      <a href="{{ s.google_maps_url }}" class="shop-action-btn shop-action-btn--maps" target="_blank" rel="noopener">Google マップで見る</a>
+      {% endif %}
+      {% for link in s.affiliate_links %}
+        {% unless link.url == s.hotpepper_url or link.url == s.tabelog_url or link.url == s.google_maps_url %}
+        <a href="{{ link.url }}" class="shop-action-btn" target="_blank" rel="noopener">{{ link.label }}</a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- グループMAPへのCTA -->
+  {% if s.group %}
+  <section class="post-map-cta">
+    <p class="post-map-cta__text">他にも<strong>{{ s.group | replace: 'yonino','よにのちゃんねる' | replace: 'snowman','Snow Man' | replace: 'sixtones','SixTONES' | replace: 'naniwa','なにわ男子' | replace: 'kamenashi','亀梨和也' | replace: 'kamaitachi','かまいたち' | replace: 'equal_love','イコラブ' | replace: 'notme','≠ME' | replace: 'neajoy','≒JOY' | replace: 'nogizaka46','乃木坂46' | replace: 'hinatazaka46','日向坂46' | replace: 'sakurazaka46','櫻坂46' | replace: 'ginga','中丸雄一 銀河チャンネル' }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
+    <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
+  </section>
+  {% endif %}
+
+  <footer class="post-footer">
+    <a href="{{ '/shops/' | relative_url }}" class="btn btn--back">← お店一覧に戻る</a>
+    <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
+  </footer>
+</article>
+
+{% if s.lat and s.lng %}
+<script>
+(function() {
+  var map = L.map('shop-map', { scrollWheelZoom: false }).setView([{{ s.lat }}, {{ s.lng }}], 16);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+  L.marker([{{ s.lat }}, {{ s.lng }}]).addTo(map)
+    .bindPopup({{ s.name | jsonify }})
+    .openPopup();
+})();
+</script>
+{% endif %}
