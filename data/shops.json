@@ -18868,5 +18868,186 @@
     "source_type": "drama",
     "tmdb_id": 55582,
     "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-540cca88-",
+    "name": "三久飯店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区祐天寺2-17-11",
+    "lat": 35.6375748,
+    "lng": 139.6910422,
+    "youtube_id": "",
+    "source_video_title": "timelesz project -AUDITION-",
+    "visited_date": "",
+    "members": [
+      "佐藤勝利"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "祐天寺駅",
+    "description": "昭和43年創業の老舗中華料理店。ボリューム満点の中華丼や五目そばが人気。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg",
+    "source_type": "tv",
+    "tmdb_id": 271418,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-private-",
+    "name": "牛の達人 Private 西新宿店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿7-16-12 YSビル2F",
+    "lat": 35.690719,
+    "lng": 139.6941527,
+    "youtube_id": "",
+    "source_video_title": "timelesz project -AUDITION-",
+    "visited_date": "",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "西新宿駅",
+    "description": "A5ランクの黒毛和牛を提供する焼肉店。洗練された個室空間が特徴。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg",
+    "source_type": "tv",
+    "tmdb_id": 271418,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-1f9a394d-",
+    "name": "亀十",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区雷門2-18-11",
+    "lat": 35.7111333,
+    "lng": 139.7963683,
+    "youtube_id": "",
+    "source_video_title": "タイムレスマン",
+    "visited_date": "",
+    "members": [
+      "橋本将生"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "浅草駅",
+    "description": "浅草の老舗どら焼き店。もっちりした皮と上品なあんこが人気。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "source_type": "tv",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-c10561a2-",
+    "name": "舟和 本店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-22-10",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "タイムレスマン",
+    "visited_date": "",
+    "members": [
+      "猪俣周杜"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "浅草駅",
+    "description": "浅草の老舗和菓子店。あんみつや芋ようかんが名物。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "source_type": "tv",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-56bdf348-",
+    "name": "常盤堂雷おこし本舗 雷門本店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-3-2",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "タイムレスマン",
+    "visited_date": "",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "浅草駅",
+    "description": "浅草名物・雷おこしの老舗。サクサクの食感と優しい甘さが特徴。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "source_type": "tv",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-59cd8eb8-",
+    "name": "日光もなか",
+    "genre": "スイーツ",
+    "prefecture": "栃木県",
+    "city": "日光市",
+    "address": "栃木県日光市下鉢石町801-1",
+    "lat": 36.750228,
+    "lng": 139.609255,
+    "youtube_id": "",
+    "source_video_title": "タイムレスマン",
+    "visited_date": "",
+    "members": [
+      "原嘉孝",
+      "橋本将生"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "日光駅",
+    "description": "日光名物のもなかを販売する和菓子店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "source_type": "tv",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
   }
 ]
