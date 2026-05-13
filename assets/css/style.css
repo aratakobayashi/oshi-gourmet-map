@@ -2677,6 +2677,101 @@ body {
   min-width: 0;
 }
 
+/* ── 記事本文インライン店舗カード ── */
+.inline-shop-card {
+  margin: 20px 0 28px;
+}
+.inline-shop-card__inner {
+  display: flex;
+  gap: 0;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.2s, transform 0.2s;
+  max-width: 540px;
+  border-left: 3px solid var(--color-primary);
+}
+.inline-shop-card__inner:hover {
+  box-shadow: 0 4px 20px rgba(232,83,122,0.15);
+  transform: translateY(-2px);
+}
+.inline-shop-card__thumb {
+  flex: 0 0 150px;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: #f5f0f3;
+}
+.inline-shop-card__thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.inline-shop-card__banner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+.inline-shop-card__body {
+  padding: 10px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+  justify-content: center;
+}
+.inline-shop-card__name {
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--color-text);
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.inline-shop-card__meta {
+  font-size: 0.76rem;
+  color: var(--color-text-muted);
+  margin: 0;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.inline-shop-card__cta {
+  margin-top: 6px;
+  font-size: 0.76rem;
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* グループインラインカード（横スクロール） */
+.inline-shop-grid {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  margin: 20px 0 28px;
+  padding-bottom: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+.inline-shop-grid > .shop-card {
+  flex: 0 0 200px;
+  min-width: 0;
+}
+
+@media (max-width: 600px) {
+  .inline-shop-card__thumb { flex: 0 0 110px; }
+  .inline-shop-card__inner { max-width: 100%; }
+  .inline-shop-grid > .shop-card { flex: 0 0 170px; }
+}
+
 /* ── 記事フッター ── */
 .article-post-footer {
   flex-direction: column;

@@ -301,20 +301,59 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
   });
 });
 
-// 関連店舗（横スクロール）
+// 店舗データを一度だけ取得してインライン・スクロール両方に使う
 (function() {
-  var container = document.getElementById('related-shop-cards');
-  if (!container) return;
-  var ids = container.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
   var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+
+  function esc(s) {
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function buildInlineCard(shop) {
+    var thumb = shop.youtube_id
+      ? '<img src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
+      : '<div class="inline-shop-card__banner" style="background:' + esc(shop._grad || '#f5eef0') + '">🍽️</div>';
+    var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
+    var url  = base + '/shops/' + shop.id + '/';
+    return '<div class="inline-shop-card">'
+      + '<a class="inline-shop-card__inner" href="' + url + '">'
+      + '<div class="inline-shop-card__thumb">' + thumb + '</div>'
+      + '<div class="inline-shop-card__body">'
+      + (shop.genre ? '<span class="badge badge--genre" style="font-size:0.7rem">' + esc(shop.genre) + '</span>' : '')
+      + '<p class="inline-shop-card__name">' + esc(shop.name) + '</p>'
+      + (area ? '<p class="inline-shop-card__meta">📍 ' + esc(area) + '</p>' : '')
+      + '<span class="inline-shop-card__cta">詳細・動画を見る →</span>'
+      + '</div></a></div>';
+  }
+
   fetch(base + '/data/shops.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
-      var matched = shops.filter(function(s) { return ids.indexOf(s.id) >= 0; });
-      matched.sort(function(a, b) { return ids.indexOf(a.id) - ids.indexOf(b.id); });
-      if (matched.length && typeof buildShopCard === 'function') {
-        container.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+      var byId = {};
+      shops.forEach(function(s) { byId[s.id] = s; });
+
+      // 記事下部・横スクロールカード
+      var scrollContainer = document.getElementById('related-shop-cards');
+      if (scrollContainer && typeof buildShopCard === 'function') {
+        var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+        var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
+        if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
       }
+
+      // 記事本文インラインカード（単体）
+      document.querySelectorAll('.inline-shop-card[data-shop-id]').forEach(function(el) {
+        var shop = byId[el.dataset.shopId];
+        if (shop) el.outerHTML = buildInlineCard(shop);
+      });
+
+      // 記事本文インライングリッド（複数横スクロール）
+      document.querySelectorAll('.inline-shop-grid[data-shop-ids]').forEach(function(el) {
+        var ids = el.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+        var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
+        if (matched.length && typeof buildShopCard === 'function') {
+          el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+        }
+      });
     });
 })();
 </script>
