@@ -76,9 +76,9 @@ layout: default
 <section class="shop-hero" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ hero_color }} 100%)">
   <div class="shop-hero__inner">
     <div class="shop-hero__media">
-      {% if s.youtube_id %}
+      {% if s.youtube_id != "" and s.youtube_id %}
         <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/hqdefault.jpg" alt="{{ s.name }}" width="480" height="360">
-      {% elsif s.thumbnail_url %}
+      {% elsif s.thumbnail_url != "" and s.thumbnail_url %}
         <img src="{{ s.thumbnail_url }}" alt="{{ s.name }}" width="480" height="360">
       {% else %}
         <div class="shop-hero__media-placeholder">🍽️</div>
@@ -120,7 +120,7 @@ layout: default
 <div class="shop-page">
 
   <!-- 動画・記事セクション -->
-  {% if s.youtube_id %}
+  {% if s.youtube_id != "" and s.youtube_id %}
   <section class="shop-section">
     <div class="shop-section__header">
       <h2 class="shop-section__title">このお店が登場した動画・記事</h2>
