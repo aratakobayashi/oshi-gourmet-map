@@ -5,7 +5,7 @@ date: 2026-04-05
 last_modified_at: 2026-05-13
 description: "よにのちゃんねるが訪れた渋谷エリアのグルメ2店を紹介。話題の「挽肉と米 渋谷」と葱専門居酒屋「葱や平吉 宇田川町店」のアクセス・予約方法・動画情報をまとめました。"
 group: yonino
-genre: 食事
+genre: 居酒屋
 prefecture: 東京都
 tags: [よにのちゃんねる, 渋谷, 挽肉と米, 葱や平吉, 聖地巡礼, ハンバーグ, 居酒屋, 二宮和也, 山田涼介, 菊池風磨]
 thumbnail_video_id: pxiRbYciIEE
