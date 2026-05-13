@@ -70,7 +70,7 @@ faq:
 
 ## ラーメン・中華【早稲田・小金井・神楽坂】
 
-**背脂系ラーメン**「武蔵野アブラ學会 早稲田別館」、地元密着型の醤油ラーメン「江川亭 小金井本店」、神楽坂の老舗中華「龍朋」の3店が登場。どれも「地元で長年愛されてきた店」という共通点があり、<mark>Snow Manらしい本物志向</mark>の選択が光る。
+**背脂系ラーメン**「武蔵野アブラ學会 早稲田別館」、地元密着型の醤油ラーメン「江川亭 小金井本店」、神楽坂の老舗中華「龍朋」の3店が登場。どれも「地元で長年愛されてきた店」という共通点があり、Snow Manらしい本物志向の選択が光る。
 
 <div class="inline-shop-grid" data-shop-ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-ryuho-kagurazaka"></div>
 

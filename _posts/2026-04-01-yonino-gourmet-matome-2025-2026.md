@@ -54,7 +54,7 @@ faq:
 
 ## 話題の名店
 
-<mark>挽肉と米 渋谷</mark>はMrs. GREEN APPLEの大森元貴を交えた回で一気に注目度が跳ね上がり、動画公開後に行列が倍増したことでも有名。**400℃ PIZZA TOKYO**は中田英寿も通うと言われる神楽坂の予約困難店で、よにの登場後さらに予約が取りにくくなっている。
+<mark>挽肉と米 渋谷</mark>はMrs. GREEN APPLEの大森元貴を交えた回で一気に注目度が跳ね上がり、動画公開後に行列が倍増したことでも有名。<mark>400℃ PIZZA TOKYO</mark>は中田英寿も通うと言われる神楽坂の予約困難店で、よにの登場後さらに予約が取りにくくなっている。
 
 <div class="inline-shop-grid" data-shop-ids="yonino-hikiniku-to-kome,yonino-400-pizza"></div>
 

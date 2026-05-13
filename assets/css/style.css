@@ -2792,6 +2792,76 @@ body {
   .inline-shop-grid > .shop-card { flex: 0 0 170px; }
 }
 
+/* ── インラインカード ローディングスケルトン ── */
+@keyframes shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.inline-shop-card[data-shop-id] {
+  min-height: 90px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #f5f0f3 25%, #ede8eb 50%, #f5f0f3 75%);
+  background-size: 400% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+.inline-shop-grid[data-shop-ids] {
+  min-height: 220px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #f5f0f3 25%, #ede8eb 50%, #f5f0f3 75%);
+  background-size: 400% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+/* ── 関連記事 ── */
+.related-posts {
+  margin: 40px 0 0;
+  padding-top: 32px;
+  border-top: 1px solid var(--color-border);
+}
+.related-posts__title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-text-muted);
+  margin: 0 0 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.related-posts__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.related-posts__link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: var(--color-text);
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+  background: #fafafa;
+  transition: background 0.15s, box-shadow 0.15s;
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+.related-posts__link:hover {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  color: var(--color-primary);
+}
+.related-posts__link img {
+  width: 72px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
 /* ── 記事フッター ── */
 .article-post-footer {
   flex-direction: column;

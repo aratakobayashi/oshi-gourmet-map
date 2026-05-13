@@ -173,6 +173,23 @@ layout: default
       </section>
       {% endif %}
 
+      {% assign related_posts = site.posts | where: "group", page.group | where_exp: "item", "item.url != page.url" %}
+      {% if related_posts.size > 0 %}
+      <section class="related-posts">
+        <p class="related-posts__title">{{ group_label }}の関連記事</p>
+        <ul class="related-posts__list">
+          {% for rp in related_posts limit:6 %}
+          <li>
+            <a href="{{ rp.url | relative_url }}" class="related-posts__link">
+              {% if rp.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ rp.thumbnail_video_id }}/mqdefault.jpg" alt="{{ rp.title }}" loading="lazy">{% endif %}
+              <span>{{ rp.title }}</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
       {% if page.group %}
       <section class="post-map-cta">
         <p class="post-map-cta__text">他にも<strong>{{ group_label }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
@@ -312,7 +329,7 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
   function buildInlineCard(shop) {
     var thumb = shop.youtube_id
       ? '<img src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
-      : '<div class="inline-shop-card__banner" style="background:' + esc(shop._grad || '#f5eef0') + '">🍽️</div>';
+      : '<div class="inline-shop-card__banner" style="background:#f5eef0">🍽️</div>';
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
     var url  = base + '/shops/' + shop.id + '/';
     return '<div class="inline-shop-card">'
@@ -326,13 +343,22 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
       + '</div></a></div>';
   }
 
+  // 本文にインラインカード/グリッドがあれば記事下部スクロールを非表示にする
+  var hasInline = document.querySelectorAll(
+    '.post-body .inline-shop-card[data-shop-id], .post-body .inline-shop-grid[data-shop-ids]'
+  ).length > 0;
+  if (hasInline) {
+    var articleShops = document.querySelector('.article-shops');
+    if (articleShops) articleShops.style.display = 'none';
+  }
+
   fetch(base + '/data/shops.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var byId = {};
       shops.forEach(function(s) { byId[s.id] = s; });
 
-      // 記事下部・横スクロールカード
+      // 記事下部・横スクロールカード（インラインカードなし記事用）
       var scrollContainer = document.getElementById('related-shop-cards');
       if (scrollContainer && typeof buildShopCard === 'function') {
         var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
@@ -344,6 +370,7 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
       document.querySelectorAll('.inline-shop-card[data-shop-id]').forEach(function(el) {
         var shop = byId[el.dataset.shopId];
         if (shop) el.outerHTML = buildInlineCard(shop);
+        else el.remove(); // ID不明・タイポ時は非表示
       });
 
       // 記事本文インライングリッド（複数横スクロール）
@@ -352,6 +379,9 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
         var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
         if (matched.length && typeof buildShopCard === 'function') {
           el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+          el.removeAttribute('data-shop-ids'); // ローディング状態を解除
+        } else {
+          el.remove(); // 該当なし時は非表示
         }
       });
     });

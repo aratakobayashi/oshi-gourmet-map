@@ -6,7 +6,7 @@ last_modified_at: 2026-05-13
 description: "SixTONES（ストチューブ）が動画で実際に訪れたグルメスポットを全49件まとめました。東京の名焼肉・もんじゃ・中華から横浜・名古屋・富士山・シンガポールの旅ロケ飯まで住所・最寄り駅付きで紹介します。"
 group: sixtones
 genre: まとめ
-prefecture: 東京都
+prefecture:
 tags: [SixTONES, ストチューブ, グルメ, 聖地巡礼, まとめ, 京本大我, 髙地優吾, 田中樹, 森本慎太郎, 松村北斗, ジェシー]
 thumbnail_video_id: Ssamk6Xf-gM
 summary:
@@ -129,13 +129,23 @@ faq:
 
 <div class="inline-shop-grid" data-shop-ids="sixtones-うなぎ徳渋谷店,sixtones-笑たこ原宿表参道店,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-pizzeria-e-trattoria-da-isa"></div>
 
-## 旅ロケグルメ【関東〜近畿】
+## 旅ロケグルメ【関東近郊】
 
-SixTONESの旅ロケは江の島・横浜・宇都宮・富士河口湖・焼津・伊香保・名古屋・金沢・京都と幅が広い。「同じ場所を旅行するついでに聖地巡礼」できるのもストチューブ聖地巡礼の特徴だ。
+江の島・横浜・宇都宮・秩父・佐野と、日帰り圏内でまとめて回れる関東近郊の聖地が多い。**横浜中華街 → 江の島**の1日コースや、**宇都宮餃子 → 佐野ラーメン**の餃子麺旅も計画しやすいエリアだ。
 
-> **金沢**（もりもり寿司・手打ちそば）、**京都**（京料理 六盛）、**名古屋**（牛追道中・くるみ）は旅行計画のついでに組み込みやすい。江の島・横浜は日帰り圏内で巡礼しやすい。
+<div class="inline-shop-grid" data-shop-ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-ramen-hakubutsukan,sixtones-kiraasse-utsunomiya,sixtones-sano-sa-foodcourt,sixtones-阿左美冷蔵金崎本店sixtones,sixtones-豚みそ丼本舗野さか"></div>
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-kiraasse-utsunomiya,sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-ushioidochu-nagoya,sixtones-unagi-maruchu,sixtones-ramen-hakubutsukan,sixtones-sano-sa-foodcourt,sixtones-阿左美冷蔵金崎本店sixtones,sixtones-豚みそ丼本舗野さか,sixtones-手打ちそばこめや,sixtones-もりもり寿司金沢駅前店,sixtones-京料理六盛"></div>
+## 旅ロケグルメ【東海・信州・群馬】
+
+富士河口湖・焼津・島田（静岡）・伊香保（群馬）・名古屋（愛知）の5エリアが登場。<mark>名古屋・牛追道中</mark>は松阪牛の焼肉名店で名古屋旅行の際は要チェック。富士山ロケの「ほうとう不動」は富士山ビューで食べるほうとうが見どころだ。
+
+<div class="inline-shop-grid" data-shop-ids="sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-unagi-maruchu,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-ushioidochu-nagoya"></div>
+
+## 旅ロケグルメ【金沢・京都】
+
+石川・京都は旅行のついでに自然に組み込めるエリア。金沢の<mark>もりもり寿司</mark>は新鮮な北陸海鮮が楽しめる人気回転寿司で、「手打ちそば こめや」とセットで金沢グルメ巡礼ができる。京都では老舗の「京料理 六盛」が登場した。
+
+<div class="inline-shop-grid" data-shop-ids="sixtones-もりもり寿司金沢駅前店,sixtones-手打ちそばこめや,sixtones-京料理六盛"></div>
 
 ## シンガポールロケ
 
