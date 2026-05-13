@@ -358,12 +358,14 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
       var byId = {};
       shops.forEach(function(s) { byId[s.id] = s; });
 
-      // 記事下部・横スクロールカード（インラインカードなし記事用）
-      var scrollContainer = document.getElementById('related-shop-cards');
-      if (scrollContainer && typeof buildShopCard === 'function') {
-        var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
-        var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
-        if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+      // 記事下部・横スクロールカード（インラインカードなし記事のみ）
+      if (!hasInline) {
+        var scrollContainer = document.getElementById('related-shop-cards');
+        if (scrollContainer && typeof buildShopCard === 'function') {
+          var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+          var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
+          if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+        }
       }
 
       // 記事本文インラインカード（単体）
