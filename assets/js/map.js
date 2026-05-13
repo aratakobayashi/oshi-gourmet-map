@@ -31,9 +31,11 @@ function renderMapMarkers(shops) {
 
     const marker = L.marker([shop.lat, shop.lng]).addTo(leafletMap);
 
-    const thumb = shop.youtube_id
-      ? `<img src="https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg"
-            style="width:100%;border-radius:6px;margin-bottom:6px;" loading="lazy">`
+    const thumbSrc = shop.youtube_id
+      ? `https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg`
+      : shop.thumbnail_url || '';
+    const thumb = thumbSrc
+      ? `<img src="${thumbSrc}" style="width:100%;border-radius:6px;margin-bottom:6px;" loading="lazy">`
       : '';
 
     const detailUrl = base + '/shops/' + shop.id + '/';

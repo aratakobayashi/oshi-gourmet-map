@@ -13,7 +13,8 @@ layout: default
 {% if page.group == 'nogizaka46'   %}{% assign hero_color = '#0ea5e9' %}{% endif %}
 {% if page.group == 'sakurazaka46' %}{% assign hero_color = '#e11d48' %}{% endif %}
 {% if page.group == 'hinatazaka46' %}{% assign hero_color = '#f59e0b' %}{% endif %}
-{% if page.group == 'ginga'        %}{% assign hero_color = '#0f766e' %}{% endif %}
+{% if page.group == 'ginga'             %}{% assign hero_color = '#0f766e' %}{% endif %}
+{% if page.group == 'kodoku_no_gurume' %}{% assign hero_color = '#92400e' %}{% endif %}
 
 {% assign group_label = page.group %}
 {% if page.group == 'yonino'       %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
@@ -28,7 +29,8 @@ layout: default
 {% if page.group == 'nogizaka46'   %}{% assign group_label = '乃木坂46' %}{% endif %}
 {% if page.group == 'sakurazaka46' %}{% assign group_label = '櫻坂46' %}{% endif %}
 {% if page.group == 'hinatazaka46' %}{% assign group_label = '日向坂46' %}{% endif %}
-{% if page.group == 'ginga'        %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
+{% if page.group == 'ginga'             %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
+{% if page.group == 'kodoku_no_gurume' %}{% assign group_label = '孤独のグルメ' %}{% endif %}
 
 {% assign post_image = '' %}
 {% if page.thumbnail_video_id %}
@@ -327,8 +329,11 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
   }
 
   function buildInlineCard(shop) {
-    var thumb = shop.youtube_id
-      ? '<img src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
+    var thumbSrc = shop.youtube_id
+      ? 'https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg'
+      : (shop.thumbnail_url || '');
+    var thumb = thumbSrc
+      ? '<img src="' + thumbSrc + '" alt="' + esc(shop.name) + '" loading="lazy">'
       : '<div class="inline-shop-card__banner" style="background:#f5eef0">🍽️</div>';
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
     var url  = base + '/shops/' + shop.id + '/';

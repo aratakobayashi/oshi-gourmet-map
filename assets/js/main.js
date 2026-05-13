@@ -178,6 +178,7 @@ const GROUP_LABELS = {
   kamenashi:    '亀梨和也',
   ginga:        '中丸雄一 銀河チャンネル',
   kamaitachi:   'かまいたち',
+  kodoku_no_gurume: '孤独のグルメ',
   equal_love:   'イコラブ',
   notme:        '≠ME',
   neajoy:       '≒JOY',
@@ -188,7 +189,7 @@ const GROUP_LABELS = {
 
 const GROUP_SOLID_COLORS = {
   yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed', naniwa:'#f97316',
-  kamenashi:'#059669', kamaitachi:'#8b5cf6', equal_love:'#f43f5e', notme:'#0d9488',
+  kamenashi:'#059669', kamaitachi:'#8b5cf6', kodoku_no_gurume:'#92400e', equal_love:'#f43f5e', notme:'#0d9488',
   neajoy:'#d946ef', nogizaka46:'#0ea5e9', sakurazaka46:'#e11d48',
   hinatazaka46:'#f59e0b', ginga:'#6366f1',
 };
@@ -206,7 +207,8 @@ const GROUP_COLORS = {
   naniwa:       'linear-gradient(135deg, #f97316, #fbbf24)',
   kamenashi:    'linear-gradient(135deg, #059669, #6ee7b7)',
   ginga:        'linear-gradient(135deg, #6366f1, #a5b4fc)',
-  kamaitachi:   'linear-gradient(135deg, #eab308, #fde68a)',
+  kamaitachi:       'linear-gradient(135deg, #eab308, #fde68a)',
+  kodoku_no_gurume: 'linear-gradient(135deg, #92400e, #d97706)',
 };
 const GENRE_ICONS = {
   'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',
@@ -216,7 +218,7 @@ const GENRE_ICONS = {
 function buildShopCard(shop) {
   const thumb = shop.youtube_id
     ? `https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg`
-    : null;
+    : shop.thumbnail_url || null;
 
   const group = (shop.groups || [])[0] || shop.group || '';
   const gradient = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';

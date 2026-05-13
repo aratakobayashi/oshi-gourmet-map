@@ -42,9 +42,10 @@
 ```
 
 ### データ収集ルール
-- **youtube_idが確認できない店舗は登録しない**
+- **youtube_id または thumbnail_url（TMDB等）のどちらかが必須。サムネイルなし店舗は登録しない**
 - 1本の動画に複数店舗が登場する場合はそれぞれ別エントリ
 - 住所は番地まで取得する（エリア名だけはNG）
+- ドラマ・映画ソースの場合は `source_type: drama` / `tmdb_id` / `tmdb_type` を付与し、TMDBエピソードスチール or ポスターを `thumbnail_url` にセット
 
 ---
 
@@ -77,7 +78,11 @@
   "affiliate_links": [
     {"label": "食べログで見る", "url": "https://tabelog.com/..."},
     {"label": "ホットペッパーで予約", "url": "https://www.hotpepper.jp/..."}
-  ]
+  ],
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/...",
+  "source_type": "drama",
+  "tmdb_id": 45753,
+  "tmdb_type": "tv"
 }
 ```
 
@@ -101,6 +106,7 @@
 | sakurazaka46 | 櫻坂46 | 未確認 | - |
 | ginga | 中丸雄一 銀河チャンネル | - | https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7 |
 | kamaitachi | かまいたち | UCIR2mQ77wHrLMreV45nYhgw | https://www.youtube.com/@kamaitachi |
+| kodoku_no_gurume | 孤独のグルメ | - | goro-tablog.com（ファンサイト）/ TMDB ID:45753 |
 
 ### グループカラー（main.js）
 ```javascript
@@ -112,7 +118,8 @@ equal_love:   '#f43f5e'  // レッド
 sakurazaka46: '#e11d48'  // 深紅
 nogizaka46:   '#0ea5e9'  // 水色
 hinatazaka46: '#f59e0b'  // アンバー
-kamenashi:    '#059669'  // グリーン
+kamenashi:         '#059669'  // グリーン
+kodoku_no_gurume:  '#92400e'  // ブラウン
 ```
 
 ---
@@ -149,6 +156,7 @@ kamenashi:    '#059669'  // グリーン
 | `scrape_ginga.py` | 中丸雄一銀河チャンネルスクレイピング（8888-info.hatenablog.com） |
 | `scrape_hinatazaka.py` | 日向坂46スクレイピング（せっかくグルメ銚子回ほか） |
 | `scrape_kamaitachi.py` | かまいたち動画説明文パース（ロケで行った飲食店まとめ） |
+| `scrape_kodoku.py` | 孤独のグルメ スクレイピング（goro-tablog.com）+ TMDB APIでエピソードスチール取得 |
 
 ---
 
@@ -156,17 +164,19 @@ kamenashi:    '#059669'  // グリーン
 ```bash
 export YOUTUBE_API_KEY="..."   # YouTube Data API v3
 export GEMINI_API_KEY="..."    # Gemini API（未取得）
+export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取得）登録: https://www.themoviedb.org/settings/api
 ```
 
 ---
 
-## 現在の状況（2026-05-10時点）
-- 総店舗数: 468件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:37 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3）
-- youtube_idあり: ~350件（75%）
+## 現在の状況（2026-05-13時点）
+- 総店舗数: 471件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:40 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3）
+- youtube_idあり: ~350件（74%）
+- thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
 - デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）
 - GA4: 設定済み（G-PFYMG6S0Q1）
 - Search Console: 設定済み
-- 記事: 5件（よにのちゃんねる）
+- 記事: 9件（よにのちゃんねる中心、浅草クロスグループ記事含む）
 
 ## データ収集パイプライン（実績）
 - よにのちゃんねる: YouTube API → Gemini抽出 → ジオコーディング → マージ
@@ -176,8 +186,10 @@ export GEMINI_API_KEY="..."    # Gemini API（未取得）
 - 中丸雄一銀河チャンネル: hatenablog（8888-info.hatenablog.com）スクレイピング → 12件
 - かまいたち: 動画説明文パース（ロケで行った飲食店まとめ 関西・関東編） + rascalブログ → 10件
 - =LOVE / ≠ME / ≒JOY: miruwz7.blog.jp スクレイピング（scrape_miruwz.py） → 181件（equal_love:66 / notme:26 / neajoy:12 + 食品フィルタ補完分77件）
+- 孤独のグルメ: goro-tablog.com スクレイピング（scrape_kodoku.py）+ TMDB APIエピソードスチール → 準備完了（TMDB_API_KEY取得後に実行）
 - **重要**: Gemini APIはYouTubeタイトルからの飲食店抽出に向かない。ファンブログスクレイピングが主軸。
 - **重要**: miruwz7.blog.jpはJS描画のため CSS セレクタ不可。regex で記事URLを収集すること。
+- **重要**: サムネイルなし店舗は登録しない。youtube_id または TMDB等のthumbnail_urlが必須。
 
 ## ロードマップ
 1. ✅ MVP作成・デプロイ
@@ -187,6 +199,8 @@ export GEMINI_API_KEY="..."    # Gemini API（未取得）
 5. ✅ 対象をアイドルから芸人・YouTuberに拡大（ginga・kamaitachi追加）
 6. ✅ ランキングページ新設（/ranking/）
 7. 🔄 データ拡充（目標3000件）
-8. ⬜ アフィリエイトリンク整備（食べログ直URL・ホットペッパー）
-9. ⬜ 乃木坂46 / 日向坂46 追加ファンブログ発掘
-10. ⬜ データ3000件達成
+8. ✅ ドラマ・映画ソース対応（thumbnail_url / source_type / tmdb_id フィールド追加）
+9. 🔄 孤独のグルメ データ収集（scrape_kodoku.py 完成・TMDB_API_KEY取得待ち）
+10. ⬜ アフィリエイトリンク整備（食べログ直URL・ホットペッパー）
+11. ⬜ 乃木坂46 / 日向坂46 追加ファンブログ発掘
+12. ⬜ データ3000件達成
