@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "よにのちゃんねるが実際に訪れたラーメン店を紹介。一蘭 中野店（#480）と利尻らーめん味楽 新横浜ラーメン博物館店（#507）の詳細情報・アクセス・注文メニューをまとめました。"
 group: yonino
 genre: ラーメン
+article_type: genre
 prefecture: 東京都
 tags: [よにのちゃんねる, ラーメン, 聖地巡礼, 一蘭, 利尻らーめん, 二宮和也, 山田涼介, 菊池風磨]
 thumbnail_video_id: Lw2KlLWox6g

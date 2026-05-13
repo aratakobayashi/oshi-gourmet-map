@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "SixTONES（ストチューブ）が動画で実際に訪れたグルメスポットを全49件まとめました。東京の名焼肉・もんじゃ・中華から横浜・名古屋・富士山・シンガポールの旅ロケ飯まで住所・最寄り駅付きで紹介します。"
 group: sixtones
 genre: まとめ
+article_type: matome
 prefecture:
 tags: [SixTONES, ストチューブ, グルメ, 聖地巡礼, まとめ, 京本大我, 髙地優吾, 田中樹, 森本慎太郎, 松村北斗, ジェシー]
 thumbnail_video_id: Ssamk6Xf-gM

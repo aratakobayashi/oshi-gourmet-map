@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "よにのちゃんねるが訪れた肉料理の名店を4店まとめて紹介。ピーター・ルーガー（恵比寿）、赤坂 金舌、ジンギスカン羊はち（三軒茶屋）、しゃぶしゃぶだるま（麻布十番）のアクセス・動画情報つき。"
 group: yonino
 genre: 焼肉
+article_type: genre
 prefecture: 東京都
 tags: [よにのちゃんねる, 肉料理, ステーキ, 焼肉, ジンギスカン, しゃぶしゃぶ, 聖地巡礼, 二宮和也, 山田涼介, 菊池風磨]
 thumbnail_video_id: Our3JGeWP7k

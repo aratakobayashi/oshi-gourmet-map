@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "Snow Man（すの日常）が動画で実際に訪れたグルメスポットを全32件まとめました。和食・ラーメン・焼肉・寿司など東京を中心に掲載。住所・最寄り駅付きで聖地巡礼計画に役立てください。"
 group: snowman
 genre: まとめ
+article_type: matome
 prefecture: 東京都
 tags: [Snow Man, すの日常, グルメ, 聖地巡礼, まとめ, 岩本照, 深澤辰哉, ラウール]
 thumbnail_video_id: RpcyxzXS4ww

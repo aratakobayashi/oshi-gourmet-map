@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "よにのちゃんねる#272・#490に登場した浅草もんじゃ てっぱん大吉の完全ガイド。住所・アクセス・予約方法・メンバーが注文したメニューを詳しく紹介します。"
 group: yonino
 genre: もんじゃ
+article_type: area
 prefecture: 東京都
 tags: [よにのちゃんねる, もんじゃ, 浅草, てっぱん大吉, 聖地巡礼, 二宮和也, 山田涼介, 菊池風磨]
 thumbnail_video_id: 922iF4MBP0E

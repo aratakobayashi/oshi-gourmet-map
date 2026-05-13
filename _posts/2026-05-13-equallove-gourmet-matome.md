@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "=LOVE（イコラブ）が動画・ロケで実際に訪れたグルメスポット117店を完全まとめ。金沢・広島・鎌倉・沖縄・京都などの旅ロケから、きあまいの横浜中華街、さなつんの高円寺はしご酒、ハンバーガー部まで。各店の住所・動画付きで紹介します。"
 group: equal_love
 genre: まとめ
+article_type: matome
 prefecture: 東京都
 tags: [イコラブ, =LOVE, グルメ, 聖地巡礼, まとめ, 大谷映美里, 佐々木舞香, 齋藤樹愛羅, 諸橋沙夏, 瀧脇笙古, 大場花菜]
 thumbnail_video_id: BPvNgGIKoeU

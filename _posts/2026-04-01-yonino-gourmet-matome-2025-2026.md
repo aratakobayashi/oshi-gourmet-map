@@ -6,6 +6,7 @@ last_modified_at: 2026-05-13
 description: "よにのちゃんねる（二宮和也・山田涼介・菊池風磨）が動画内で実際に訪問したグルメスポットを2025〜2026年分まとめました。ラーメン・ステーキ・もんじゃ・寿司まで全12店の詳細情報と地図付きで紹介します。"
 group: yonino
 genre: まとめ
+article_type: matome
 prefecture: 東京都
 tags: [よにのちゃんねる, グルメ, 聖地巡礼, まとめ, 二宮和也, 山田涼介, 菊池風磨]
 thumbnail_video_id: 1VN2TGo5uOM
