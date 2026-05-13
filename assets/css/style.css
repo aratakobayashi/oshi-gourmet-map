@@ -3357,16 +3357,12 @@ body {
   margin: 0;
 }
 
-/* グリッド */
+/* グリッド（全セクション3列統一） */
 .ap-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
-.ap-grid--matome { grid-template-columns: repeat(2, 1fr); }
-.ap-grid--area   { grid-template-columns: repeat(3, 1fr); }
-.ap-grid--genre  { grid-template-columns: repeat(3, 1fr); }
-.ap-grid--course { grid-template-columns: repeat(3, 1fr); }
 
 /* コース準備中 */
 .ap-coming-soon {
@@ -3392,10 +3388,6 @@ body {
   .ap-featured__link { grid-template-columns: 1fr; }
   .ap-featured__thumb { aspect-ratio: 16/9; }
   .ap-featured__body { border-left: none; border-top: 4px solid var(--fc); padding: 22px 24px; }
-  .ap-grid--matome { grid-template-columns: repeat(2, 1fr); }
-  .ap-grid--area,
-  .ap-grid--genre,
-  .ap-grid--course,
   .ap-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 600px) {
@@ -3405,9 +3397,5 @@ body {
   .ap-featured { margin-bottom: 40px; }
   .ap-featured__body { padding: 18px 20px; gap: 10px; }
   .ap-section { margin-bottom: 36px; }
-  .ap-grid--matome,
-  .ap-grid--area,
-  .ap-grid--genre,
-  .ap-grid--course,
   .ap-grid { grid-template-columns: 1fr; gap: 16px; }
 }
