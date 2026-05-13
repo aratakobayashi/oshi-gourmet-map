@@ -9,11 +9,18 @@ merge_shops.py
 import json
 import re
 import argparse
+import unicodedata
+import hashlib
 
 
 def make_id(group: str, name: str, visited_date: str) -> str:
-    """ユニークIDを生成"""
-    slug = re.sub(r'[^\w]', '', name.lower().replace(' ', '_'))[:20]
+    """ユニークIDを生成（ASCII-only）"""
+    # Unicode正規化してASCII文字のみ残す
+    ascii_name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
+    slug = re.sub(r'[^a-z0-9]+', '_', ascii_name.lower().strip())[:20].strip('_')
+    # 日本語のみの名前など、スラッグが短すぎる場合はハッシュで補完
+    if len(slug) < 2:
+        slug = hashlib.md5(name.encode()).hexdigest()[:8]
     date_slug = visited_date.replace('-', '')[:8]
     return f'{group}-{slug}-{date_slug}'
 
@@ -82,6 +89,10 @@ def normalize_shop(raw: dict, existing_ids: set):
         'tabelog_url': raw.get('tabelog_url', ''),
         'hotpepper_url': raw.get('hotpepper_url', ''),
         'affiliate_links': raw.get('affiliate_links', []),
+        'thumbnail_url': raw.get('thumbnail_url', ''),
+        'source_type': raw.get('source_type', ''),
+        'tmdb_id': raw.get('tmdb_id', None),
+        'tmdb_type': raw.get('tmdb_type', ''),
     }
 
 
