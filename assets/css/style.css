@@ -884,29 +884,39 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.03em;
 }
 
-/* h3: シンプルなアクセントライン */
+/* h3: 左ボーダーアクセント */
 .post-body h3 {
   font-size: 1.05rem;
   font-weight: 700;
   margin: 1.8em 0 0.6em;
-  padding-bottom: 0.35em;
+  padding: 0.25em 0 0.25em 0.75em;
   color: var(--color-text);
-  border-bottom: 2px dotted #d0b8c0;
+  border-left: 3px solid #f7a1b5;
   letter-spacing: 0.03em;
 }
 
-/* blockquote */
+/* blockquote: ポイントボックス */
 .post-body blockquote {
-  border-left: 4px solid var(--color-primary);
-  padding: 12px 20px;
+  border-left: 4px solid #f59e0b;
+  padding: 14px 18px 14px 48px;
   margin: 1.6em 0;
-  background: #fdf5f7;
-  border-radius: 0 8px 8px 0;
-  font-style: italic;
-  color: var(--color-text-muted);
-  line-height: 1.8;
+  background: #fffbeb;
+  border-radius: 0 10px 10px 0;
+  font-style: normal;
+  color: var(--color-text);
+  line-height: 1.85;
+  position: relative;
 }
-.post-body blockquote p { margin-bottom: 0; }
+.post-body blockquote::before {
+  content: '💡';
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  font-size: 1rem;
+  line-height: 1;
+}
+.post-body blockquote p { margin-bottom: 0.5em; }
+.post-body blockquote p:last-child { margin-bottom: 0; }
 
 /* リスト */
 .post-body ul, .post-body ol {
@@ -917,7 +927,17 @@ img { max-width: 100%; display: block; }
 .post-body ul li::marker { color: var(--color-primary); }
 
 /* 強調・リンク */
-.post-body strong { color: var(--color-text); font-weight: 700; }
+.post-body strong {
+  color: var(--color-text);
+  font-weight: 700;
+  background: linear-gradient(transparent 55%, rgba(232,83,122,0.18) 55%);
+  padding: 0 2px;
+}
+.post-body mark {
+  background: linear-gradient(transparent 55%, rgba(255,224,138,0.65) 55%);
+  color: inherit;
+  padding: 0 2px;
+}
 .post-body a { color: var(--color-primary); border-bottom: 1px solid #f5b8c4; transition: var(--transition); }
 .post-body a:hover { border-bottom-color: var(--color-primary); text-decoration: none; }
 
