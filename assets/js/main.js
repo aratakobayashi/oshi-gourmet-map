@@ -249,7 +249,8 @@ function buildShopCard(shop) {
     ? `<p class="shop-card__members">👤 ${shop.members.map(escHtml).join(' / ')}</p>`
     : '';
 
-  const detailUrl = `${base}/shops/${shop.id}/`;
+  const shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
+  const detailUrl = `${base}/shops/${shopSlug}/`;
 
   return `
     <a class="shop-card" href="${detailUrl}">

@@ -336,7 +336,8 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
       ? '<img src="' + thumbSrc + '" alt="' + esc(shop.name) + '" loading="lazy">'
       : '<div class="inline-shop-card__banner" style="background:#f5eef0">🍽️</div>';
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-    var url  = base + '/shops/' + shop.id + '/';
+    var shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
+    var url  = base + '/shops/' + shopSlug + '/';
     return '<div class="inline-shop-card">'
       + '<a class="inline-shop-card__inner" href="' + url + '">'
       + '<div class="inline-shop-card__thumb">' + thumb + '</div>'

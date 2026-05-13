@@ -38,7 +38,8 @@ function renderMapMarkers(shops) {
       ? `<img src="${thumbSrc}" style="width:100%;border-radius:6px;margin-bottom:6px;" loading="lazy">`
       : '';
 
-    const detailUrl = base + '/shops/' + shop.id + '/';
+    const shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
+    const detailUrl = base + '/shops/' + shopSlug + '/';
 
     marker.bindPopup(`
       <div class="map-popup">
