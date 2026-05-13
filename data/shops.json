@@ -13599,5 +13599,114 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": []
+  },
+  {
+    "id": "snowman-mipig-cafe-meguro",
+    "name": "mipig cafe 目黒店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区目黒4丁目",
+    "lat": 35.6313577,
+    "lng": 139.7035686,
+    "youtube_id": "Qh0RSkK-s4E",
+    "source_video_title": "Snow Man【可愛いブタちゃんと触れ合い」そこには癒し愛しかない",
+    "source_video_url": "https://www.youtube.com/watch?v=Qh0RSkK-s4E",
+    "visited_date": "2023-07-05",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "description": "ミニブタと触れ合えるカフェ。すの日常2023年7月配信回で登場。",
+    "nearest_station": "目黒駅",
+    "price_range": null,
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13233871/",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [
+      "カフェ",
+      "動物カフェ"
+    ],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131601/13233871/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-isomaru-jiyugaoka",
+    "name": "磯丸水産食堂 自由が丘しらかば通り店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区自由が丘2丁目",
+    "lat": 35.6076524,
+    "lng": 139.6675582,
+    "youtube_id": "8zvSYQivscg",
+    "source_video_title": "Snow Man【絶品海鮮づくし】阿部亮平の食べたいものは？",
+    "source_video_url": "https://www.youtube.com/watch?v=8zvSYQivscg",
+    "visited_date": "2019-11-20",
+    "members": [
+      "阿部亮平"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "description": "阿部亮平が食べたいものとして選んだ海鮮居酒屋。すの日常2019年11月配信回。",
+    "nearest_station": "自由が丘駅",
+    "price_range": null,
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131703/13256676/",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [
+      "海鮮",
+      "居酒屋"
+    ],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131703/13256676/"
+      }
+    ]
+  },
+  {
+    "id": "snowman-kushigen-edogawabashi",
+    "name": "串焼げん 江戸川橋店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区関口1丁目",
+    "lat": 35.7095155,
+    "lng": 139.7335636,
+    "youtube_id": "hQRDpsQiuZc",
+    "source_video_title": "Snow Man 【絶品串焼き】渡辺翔太の食べたいものは？",
+    "source_video_url": "https://www.youtube.com/watch?v=hQRDpsQiuZc",
+    "visited_date": "2019-10-16",
+    "members": [
+      "渡辺翔太"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "description": "渡辺翔太が食べたいものとして選んだ串焼き専門店。すの日常2019年10月配信回。",
+    "nearest_station": "江戸川橋駅",
+    "price_range": null,
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13189492/",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [
+      "串焼き",
+      "居酒屋"
+    ],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13189492/"
+      }
+    ]
   }
 ]
