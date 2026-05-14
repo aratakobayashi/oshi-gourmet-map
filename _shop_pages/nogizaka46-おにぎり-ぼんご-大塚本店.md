@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "おにぎり ぼんご 大塚本店"
+description: "『乃木坂どこへ』で4期生が訪れたおにぎり専門店です^ ^"
+shop_id: "nogizaka46-おにぎり_ぼんご_大塚本店-"
+name: "おにぎり ぼんご 大塚本店"
+genre: "和食"
+prefecture: "東京都"
+city: "豊島区"
+address: "東京都豊島区北大塚2-26-3 金田ビル1F"
+source_video_title: "乃木坂どこへ"
+group: "nogizaka46"
+tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%20%E3%81%BC%E3%82%93%E3%81%94%20%E5%A4%A7%E5%A1%9A%E6%9C%AC%E5%BA%97"
+lat: 35.7339779
+lng: 139.7292492
+groups:
+  - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%20%E3%81%BC%E3%82%93%E3%81%94%20%E5%A4%A7%E5%A1%9A%E6%9C%AC%E5%BA%97"
+---

@@ -1,0 +1,22 @@
+---
+layout: shop
+title: "香住・かどや"
+description: "香住のシロイカ"
+shop_id: "kamaitachi-香住かどや-"
+name: "香住・かどや"
+genre: "食事"
+prefecture: "兵庫県"
+city: "美方郡香美町"
+address: "兵庫県美方郡香美町香住区"
+nearest_station: "香住駅"
+youtube_id: "kU8SZpaXoBE"
+source_video_title: "かまいたちがロケで行った飲食店まとめ【関西編】"
+group: "kamaitachi"
+lat: 35.6483
+lng: 134.6389
+members:
+  - "山内健司"
+  - "濱家隆一"
+groups:
+  - "kamaitachi"
+---

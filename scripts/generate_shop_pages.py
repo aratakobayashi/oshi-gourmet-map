@@ -100,7 +100,8 @@ for shop in shops:
     lines.append("---")
     lines.append("")  # empty body — all content is in the layout
 
-    out_path = os.path.join(OUT_DIR, f"{shop_id}.md")
+    slug = re.sub(r"-+$", "", shop_id.replace("_", "-"))
+    out_path = os.path.join(OUT_DIR, f"{slug}.md")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     generated += 1

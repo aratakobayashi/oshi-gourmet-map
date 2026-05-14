@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "末ぜん"
+description: "3話 賄い編"
+shop_id: "kodoku_no_gurume-2eca520c-"
+name: "末ぜん"
+genre: "食事"
+prefecture: "東京都"
+city: "渋谷区"
+address: "東京都渋谷区"
+nearest_station: "代官山駅"
+source_video_title: "孤独のグルメ Season10 第2022話"
+group: "kodoku_no_gurume"
+tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13007258/"
+lat: 35.6633709
+lng: 139.6964952
+members:
+  - "井之頭五郎"
+groups:
+  - "kodoku_no_gurume"
+---

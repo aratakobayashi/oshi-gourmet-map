@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "長崎飯店 渋谷店"
+description: "道玄坂の皿うどんと春巻き"
+shop_id: "kodoku_no_gurume-5e28c0e3-"
+name: "長崎飯店 渋谷店"
+genre: "ラーメン"
+prefecture: "東京都"
+city: "渋谷区"
+address: "東京都渋谷区"
+nearest_station: "渋谷駅"
+source_video_title: "孤独のグルメ Season6 第7話"
+group: "kodoku_no_gurume"
+tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13281342/"
+lat: 35.6633709
+lng: 139.6964952
+members:
+  - "井之頭五郎"
+groups:
+  - "kodoku_no_gurume"
+---

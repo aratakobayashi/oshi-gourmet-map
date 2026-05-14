@@ -8,16 +8,15 @@ genre: "食事"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区自由が丘2丁目"
+nearest_station: "自由が丘駅"
 visited_date: "2019-11-20"
 youtube_id: "8zvSYQivscg"
-thumbnail_url: ""
-source_type: ""
 source_video_title: "Snow Man【絶品海鮮づくし】阿部亮平の食べたいものは？"
+source_video_url: "https://www.youtube.com/watch?v=8zvSYQivscg"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
 lat: 35.6076524
 lng: 139.6675582
-nearest_station: "自由が丘駅"
-tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
 members:
   - "阿部亮平"
 groups:
@@ -25,4 +24,7 @@ groups:
 tags:
   - "海鮮"
   - "居酒屋"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
 ---
