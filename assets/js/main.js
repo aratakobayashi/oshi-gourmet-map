@@ -52,7 +52,7 @@ function initFromUrlParams() {
 
   if (group && GROUP_LABELS[group]) {
     selectedGroups.add(group);
-    document.querySelectorAll('.group-btn').forEach(btn => {
+    document.querySelectorAll('.group-chip').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.group === group);
     });
   }
@@ -62,6 +62,8 @@ function initFromUrlParams() {
   }
 
   applyFilters();
+  updateFilterSummary();
+  updateFilterChips();
 }
 
 // ===========================
@@ -88,14 +90,20 @@ function fillSelect(id, options) {
 }
 
 // ===========================
-// グループボタン描画
+// グループチップ描画（新デザイン）
 // ===========================
+const GROUP_INITIALS = {
+  yonino:'よ', snowman:'S', sixtones:'Si', naniwa:'な', kamenashi:'亀',
+  kamaitachi:'か', equal_love:'=', notme:'≠', neajoy:'≒',
+  nogizaka46:'乃', hinatazaka46:'日', sakurazaka46:'櫻',
+  heysayjump:'H', ginga:'中', kodoku_no_gurume:'孤', timelesz:'T',
+};
+
 function renderGroupButtons() {
   const row = document.getElementById('group-filter-row');
   if (!row) return;
 
   const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
-  // データ件数順に並べる
   groups.sort((a, b) => {
     const ca = allShops.filter(s => (s.groups || []).includes(a)).length;
     const cb = allShops.filter(s => (s.groups || []).includes(b)).length;
@@ -103,13 +111,17 @@ function renderGroupButtons() {
   });
 
   row.innerHTML = groups.map(g => {
-    const label = GROUP_LABELS[g] || g;
-    const grad  = GROUP_COLORS[g] || 'linear-gradient(135deg,#aaa,#ccc)';
-    return `<button class="group-btn" data-group="${escHtml(g)}"
-      style="--group-grad:${grad}">${escHtml(label)}</button>`;
+    const label   = GROUP_LABELS[g] || g;
+    const color   = GROUP_SOLID_COLORS[g] || '#b72a65';
+    const initial = GROUP_INITIALS[g] || label.charAt(0);
+    return `<button class="group-chip" data-group="${escHtml(g)}"
+      style="--chip-color:${color}" title="${escHtml(label)}">
+      <span class="group-chip__initial">${escHtml(initial)}</span>
+      <span class="group-chip__label">${escHtml(label)}</span>
+    </button>`;
   }).join('');
 
-  row.querySelectorAll('.group-btn').forEach(btn => {
+  row.querySelectorAll('.group-chip').forEach(btn => {
     btn.addEventListener('click', () => {
       const g = btn.dataset.group;
       if (selectedGroups.has(g)) {
@@ -120,6 +132,57 @@ function renderGroupButtons() {
         btn.classList.add('active');
       }
       applyFilters();
+      updateFilterSummary();
+      updateFilterChips();
+    });
+  });
+}
+
+// ===========================
+// フィルターサマリー更新
+// ===========================
+function updateFilterSummary() {
+  const el = document.getElementById('filter-summary-text');
+  if (!el) return;
+  if (selectedGroups.size === 0) {
+    el.textContent = '全グループ表示中';
+  } else {
+    const labels = [...selectedGroups].map(g => GROUP_LABELS[g] || g);
+    if (labels.length <= 2) {
+      el.textContent = labels.join('・') + ' で絞り込み中';
+    } else {
+      el.textContent = `推し${labels.length}組で絞り込み中`;
+    }
+  }
+}
+
+// ===========================
+// 選択中チップ更新（PC用）
+// ===========================
+function updateFilterChips() {
+  const container = document.getElementById('shops-filter-chips');
+  if (!container) return;
+  if (selectedGroups.size === 0) {
+    container.innerHTML = '';
+    return;
+  }
+  container.innerHTML = [...selectedGroups].map(g => {
+    const label = GROUP_LABELS[g] || g;
+    const color = GROUP_SOLID_COLORS[g] || '#b72a65';
+    return `<span class="filter-chip" style="color:${color};background:${color}18;border-color:${color}40">
+      ${escHtml(label)}
+      <button class="filter-chip__remove" data-group="${escHtml(g)}" aria-label="${escHtml(label)}を外す">×</button>
+    </span>`;
+  }).join('');
+
+  container.querySelectorAll('.filter-chip__remove').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const g = btn.dataset.group;
+      selectedGroups.delete(g);
+      document.querySelector(`.group-chip[data-group="${g}"]`)?.classList.remove('active');
+      applyFilters();
+      updateFilterSummary();
+      updateFilterChips();
     });
   });
 }
@@ -149,10 +212,24 @@ function applyFilters() {
 }
 
 // ===========================
-// ソート（サムネあり優先）
+// ソート
 // ===========================
+function getSortMode() {
+  return document.getElementById('sort-select')?.value || 'recent';
+}
+
 function sortShops(shops) {
-  return [...shops].sort((a, b) => (b.youtube_id ? 1 : 0) - (a.youtube_id ? 1 : 0));
+  const mode = getSortMode();
+  if (mode === 'video') {
+    return [...shops].sort((a, b) => (b.youtube_id ? 1 : 0) - (a.youtube_id ? 1 : 0));
+  }
+  // recent: visited_date降順 → youtube_idあり優先
+  return [...shops].sort((a, b) => {
+    const da = a.visited_date || '';
+    const db = b.visited_date || '';
+    if (db !== da) return db.localeCompare(da);
+    return (b.youtube_id ? 1 : 0) - (a.youtube_id ? 1 : 0);
+  });
 }
 
 // ===========================
@@ -168,6 +245,7 @@ function renderGrid(shops) {
     return;
   }
   grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
+  restoreFavButtons();
 }
 
 const GROUP_LABELS = {
@@ -225,47 +303,51 @@ function buildShopCard(shop) {
     ? `https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg`
     : shop.thumbnail_url || null;
 
-  const group = (shop.groups || [])[0] || shop.group || '';
-  const gradient = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';
-  const icon = GENRE_ICONS[shop.genre] || '🍽️';
-
+  const group      = (shop.groups || [])[0] || shop.group || '';
+  const gradient   = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';
+  const solidColor = GROUP_SOLID_COLORS[group] || '#b72a65';
   const groupLabel = GROUP_LABELS[group] || group;
-  const badgeHtml = `<span class="shop-card__group-badge" style="background:${gradient}">${escHtml(groupLabel)}</span>`;
-
-  const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  const icon       = GENRE_ICONS[shop.genre] || '🍽️';
+  const base       = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
   const groupIconUrl = group ? `${base}/assets/images/groups/${group}.jpg` : '';
 
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
-       <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>
-       ${badgeHtml}`
+       <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>`
     : `<div class="shop-card__banner" style="background:${gradient}">
          ${groupIconUrl ? `<img src="${groupIconUrl}" alt="${escHtml(groupLabel)}" class="shop-card__banner-group-icon" onerror="this.style.display='none'">` : `<span class="shop-card__banner-icon">${icon}</span>`}
          <span class="shop-card__banner-genre">${escHtml(shop.genre||'')}</span>
-       </div>
-       ${badgeHtml}`;
+       </div>`;
 
-  const tags = [
-    shop.genre    ? `<span class="badge badge--genre">${escHtml(shop.genre)}</span>` : '',
-    shop.prefecture ? `<span class="badge badge--pref">${escHtml(shop.prefecture)}</span>` : '',
-  ].join('');
+  // 表示エリア: 都道府県 · 最寄り駅 (住所は長すぎるので使わない)
+  const locationParts = [shop.prefecture, shop.nearest_station].filter(Boolean);
+  const location = locationParts.length ? locationParts.join(' · ') : (shop.city || '');
 
-  const members = (shop.members || []).length
-    ? `<p class="shop-card__members">👤 ${shop.members.map(escHtml).join(' / ')}</p>`
-    : '';
+  const metaRow = group || shop.genre
+    ? `<div class="shop-card__meta-row">
+        ${group ? `<span class="shop-card__group-label" style="color:${solidColor}">${escHtml(groupLabel)}</span>` : ''}
+        ${group && shop.genre ? `<span class="shop-card__sep">·</span>` : ''}
+        ${shop.genre ? `<span class="shop-card__genre">${escHtml(shop.genre)}</span>` : ''}
+      </div>` : '';
+
+  const memberFirst = (shop.members || [])[0] || '';
+  const memberHtml = memberFirst
+    ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
 
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
   return `
     <a class="shop-card" href="${detailUrl}">
-      <div class="shop-card__thumb">${thumbHtml}</div>
+      <div class="shop-card__thumb">
+        ${thumbHtml}
+        <button class="shop-card__fav" aria-label="保存" onclick="toggleFav(event,'${escHtml(shop.id)}',this)">♡</button>
+      </div>
       <div class="shop-card__body">
-        <div class="shop-card__tags">${tags}</div>
+        ${metaRow}
         <p class="shop-card__name">${escHtml(shop.name)}</p>
-        <p class="shop-card__location">📍 ${escHtml(shop.address || '')}</p>
-        <p class="shop-card__desc">${escHtml(shop.description || '')}</p>
-        ${members}
+        ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
+        ${memberHtml}
       </div>
     </a>`;
 }
@@ -372,23 +454,75 @@ function updateCount(n) {
 }
 
 // ===========================
+// ♡ お気に入りトグル（localStorage）
+// ===========================
+function toggleFav(event, shopId, btn) {
+  event.preventDefault();
+  event.stopPropagation();
+  const saved = JSON.parse(localStorage.getItem('fav_shops') || '[]');
+  const idx = saved.indexOf(shopId);
+  if (idx >= 0) {
+    saved.splice(idx, 1);
+    btn.classList.remove('saved');
+    btn.textContent = '♡';
+  } else {
+    saved.push(shopId);
+    btn.classList.add('saved');
+    btn.textContent = '♥';
+  }
+  localStorage.setItem('fav_shops', JSON.stringify(saved));
+}
+
+function restoreFavButtons() {
+  const saved = JSON.parse(localStorage.getItem('fav_shops') || '[]');
+  if (!saved.length) return;
+  document.querySelectorAll('.shop-card__fav[aria-label="保存"]').forEach(btn => {
+    const card = btn.closest('.shop-card');
+    if (!card) return;
+    const href = card.getAttribute('href') || '';
+    const id = href.split('/shops/')[1]?.replace(/\//g,'').replace(/-/g,'_') || '';
+    if (saved.includes(id) || saved.some(s => href.includes(s.replace(/_/g,'-')))) {
+      btn.classList.add('saved');
+      btn.textContent = '♥';
+    }
+  });
+}
+
+// ===========================
 // イベントリスナー
 // ===========================
 document.addEventListener('DOMContentLoaded', () => {
-  // フィルター
+  // フィルター入力
   ['search-input','filter-genre','filter-prefecture'].forEach(id => {
     const el = document.getElementById(id);
     if (el) el.addEventListener('input', applyFilters);
   });
 
+  // ソート
+  document.getElementById('sort-select')?.addEventListener('change', () => {
+    renderGrid(filteredShops);
+  });
+
+  // リセット
   document.getElementById('reset-filters')?.addEventListener('click', () => {
     ['search-input','filter-genre','filter-prefecture'].forEach(id => {
       const el = document.getElementById(id);
       if (el) el.value = '';
     });
     selectedGroups.clear();
-    document.querySelectorAll('.group-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.group-chip').forEach(b => b.classList.remove('active'));
     applyFilters();
+    updateFilterSummary();
+    updateFilterChips();
+  });
+
+  // フィルターパネルトグル（SP用）
+  document.getElementById('filter-toggle-btn')?.addEventListener('click', function() {
+    const panel = document.getElementById('shops-filter-panel');
+    if (!panel) return;
+    const isCollapsed = panel.classList.toggle('collapsed');
+    this.setAttribute('aria-expanded', String(!isCollapsed));
+    this.textContent = isCollapsed ? '変更 ▾' : '閉じる ▴';
   });
 
   // タブ

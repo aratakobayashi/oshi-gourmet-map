@@ -1,37 +1,66 @@
 ---
 layout: default
 title: 推しグルメ聖地MAP｜お店を探す
-description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・芸人・YouTuberが実際に訪れた468件のグルメスポットを地図と一覧で探せます。グループ・ジャンル・エリアで絞り込み対応。
+description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・芸人・YouTuberが実際に訪れた695件のグルメスポットを地図と一覧で探せます。グループ・ジャンル・エリアで絞り込み対応。
 ---
 
-<div class="shops-page-header container">
-  <h1 class="shops-page-title">お店を探す</h1>
+<!-- ヒーロー -->
+<div class="shops-hero">
+  <div class="container">
+    <p class="shops-hero__eyebrow">SHOPS</p>
+    <h1 class="shops-hero__title">お店を<span class="shops-hero__accent">探す</span></h1>
+  </div>
 </div>
 
-<!-- 検索・フィルターバー -->
-<section class="filter-bar">
-  <div class="container">
-    <div id="group-filter-row" class="group-filter__row"></div>
-    <div class="filter-bar__row">
-      <input type="text" id="search-input" class="filter-input" placeholder="お店名・エリアで検索...">
-      <select id="filter-genre" class="filter-select">
-        <option value="">すべてのジャンル</option>
-      </select>
-      <select id="filter-prefecture" class="filter-select">
-        <option value="">すべての都道府県</option>
-      </select>
-      <button id="reset-filters" class="btn btn--reset">リセット</button>
-    </div>
-  </div>
-</section>
+<!-- フィルターバー -->
+<div class="shops-filter" id="shops-filter">
+  <div class="container shops-filter__inner">
 
-<!-- カウンター + タブ -->
+    <!-- グループチップ（円形バッジ） -->
+    <div class="shops-filter__groups" id="group-filter-row"></div>
+
+    <!-- サマリー行 + 変更ボタン（主にSP用） -->
+    <div class="shops-filter__bar">
+      <p class="shops-filter__summary">
+        <span class="shops-filter__summary-icon">♡</span>
+        <span id="filter-summary-text">全グループ表示中</span>
+      </p>
+      <button class="shops-filter__toggle-btn" id="filter-toggle-btn" aria-expanded="true">変更 ▾</button>
+    </div>
+
+    <!-- フィルターパネル -->
+    <div class="shops-filter__panel" id="shops-filter-panel">
+      <div class="shops-filter__row">
+        <input type="text" id="search-input" class="filter-input" placeholder="🔍 お店名で検索">
+        <select id="filter-prefecture" class="filter-select">
+          <option value="">📍 エリア ▾</option>
+        </select>
+        <select id="filter-genre" class="filter-select">
+          <option value="">ジャンル</option>
+        </select>
+        <button id="reset-filters" class="btn btn--reset">リセット</button>
+      </div>
+    </div>
+
+    <!-- 選択中チップ（PC用） -->
+    <div class="shops-filter__chips" id="shops-filter-chips"></div>
+
+  </div>
+</div>
+
+<!-- 件数 + タブ + ソート -->
 <div class="container">
   <div class="shop-controls-bar">
     <p class="result-count" id="result-count"></p>
-    <div class="view-tabs">
-      <button class="tab-btn active" data-view="grid">写真</button>
-      <button class="tab-btn" data-view="map">地図</button>
+    <div class="shop-controls-right">
+      <select id="sort-select" class="filter-select filter-select--sort">
+        <option value="recent">新着順 ▾</option>
+        <option value="video">動画あり順</option>
+      </select>
+      <div class="view-tabs">
+        <button class="tab-btn active" data-view="grid">写真</button>
+        <button class="tab-btn" data-view="map">地図</button>
+      </div>
     </div>
   </div>
 </div>
@@ -46,12 +75,10 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
 </div>
 
 <!-- 地図 -->
-<section class="map-section" id="view-map" style="display:none;">
+<section class="map-section" id="view-map" style="display:none">
   <div id="map"></div>
 </section>
 
-<script>
-  const SITE_BASEURL = '{{ site.baseurl }}';
-</script>
+<script>const SITE_BASEURL = '{{ site.baseurl }}';</script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/map.js' | relative_url }}"></script>
