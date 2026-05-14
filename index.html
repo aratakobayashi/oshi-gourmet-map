@@ -229,7 +229,7 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
         + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
         + '</div>';
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-    var shopUrl = BASE + '/shops/' + shop.id + '/';
+    var shopUrl = BASE + '/shops/' + shop.id.replace(/_/g, '-').replace(/-+$/, '') + '/';
     return '<a class="feed-card" href="' + shopUrl + '" title="' + esc(shop.name) + '">'
       + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
       + imgHtml
