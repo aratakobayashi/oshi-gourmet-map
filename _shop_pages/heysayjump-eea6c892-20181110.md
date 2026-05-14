@@ -1,0 +1,25 @@
+---
+layout: shop
+title: "松本醤油商店"
+description: "2018.11.10 川越特集"
+shop_id: "heysayjump-eea6c892-20181110"
+name: "松本醤油商店"
+genre: "その他"
+prefecture: "埼玉県"
+city: "川越市"
+address: "埼玉県川越市"
+visited_date: "2018-11-10"
+source_video_title: "2018.11.10 川越特集"
+group: "heysayjump"
+tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11038254/"
+lat: 35.9251145
+lng: 139.4856927
+members:
+  - "薮宏太"
+  - "山田涼介"
+groups:
+  - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/saitama/A1103/A110303/11038254/"
+---

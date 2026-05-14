@@ -1,0 +1,22 @@
+---
+layout: shop
+title: "Sun-mi 高松本店 EMU"
+description: "2016.05.18 高級レストランのランチ特集"
+shop_id: "heysayjump-sun_mi_emu-20160518"
+name: "Sun-mi 高松本店 EMU"
+genre: "食事"
+prefecture: "東京都"
+city: "中央区"
+address: "東京都中央区銀座6-3-9 7F"
+visited_date: "2016-05-18"
+source_video_title: "2016.05.18 高級レストランのランチ特集"
+group: "heysayjump"
+lat: 35.6720135
+lng: 139.7647202
+members:
+  - "薮宏太"
+  - "伊野尾慧"
+  - "知念侑李"
+groups:
+  - "heysayjump"
+---
