@@ -291,6 +291,7 @@ img { max-width: 100%; display: block; }
   display: flex; align-items: center; justify-content: center;
   font-size: 0.6rem; font-weight: 800; color: #fff; flex-shrink: 0;
 }
+.fbar__group-dot--more { background: #9ca3af; font-size: 0.58rem; }
 .fbar__summary {
   flex: 1; font-size: 0.82rem; color: var(--c-berry); font-weight: 600; margin: 0;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;

@@ -177,11 +177,23 @@ function renderGroupDots() {
   const container = document.getElementById('fbar-group-dots');
   if (!container) return;
   if (selectedGroups.size === 0) { container.innerHTML = ''; return; }
-  container.innerHTML = [...selectedGroups].map(g => {
+
+  const MAX_DOTS = 3;
+  const dotList = [...selectedGroups];
+  const shown   = dotList.slice(0, MAX_DOTS);
+  const extra   = dotList.length - MAX_DOTS;
+
+  let html = shown.map(g => {
     const color   = GROUP_SOLID_COLORS[g] || '#b72a65';
     const initial = GROUP_INITIALS[g] || (GROUP_LABELS[g] || g).charAt(0);
     return `<span class="fbar__group-dot" style="background:${color}" title="${escHtml(GROUP_LABELS[g] || g)}">${escHtml(initial)}</span>`;
   }).join('');
+
+  if (extra > 0) {
+    html += `<span class="fbar__group-dot fbar__group-dot--more">+${extra}</span>`;
+  }
+
+  container.innerHTML = html;
 }
 
 // ===========================
@@ -516,6 +528,12 @@ function buildShopCard(shop) {
   const memberFirst = (shop.members || [])[0] || '';
   const memberHtml  = memberFirst ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
 
+  // 住所は都道府県+市区町村までを表示（長い住所を短縮）
+  const locationParts = [shop.prefecture, shop.city].filter(Boolean);
+  const location = locationParts.length
+    ? locationParts.join(' ')
+    : (shop.nearest_station ? shop.nearest_station + '付近' : '');
+
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
@@ -528,7 +546,7 @@ function buildShopCard(shop) {
       </div>
       <div class="shop-card__body">
         <p class="shop-card__name">${escHtml(shop.name)}</p>
-        ${shop.address ? `<p class="shop-card__location">📍 ${escHtml(shop.address)}</p>` : ''}
+        ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
         ${shop.description ? `<p class="shop-card__desc">${escHtml(shop.description)}</p>` : ''}
         ${memberHtml}
       </div>
@@ -722,6 +740,13 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   document.getElementById('area-modal-overlay')?.addEventListener('click', function(e) {
     if (e.target === this) closeAreaModal();
+  });
+
+  // Escapeキーでモーダルを閉じる
+  document.addEventListener('keydown', function(e) {
+    if (e.key !== 'Escape') return;
+    if (document.getElementById('group-modal-overlay')?.classList.contains('open')) closeGroupModal();
+    else if (document.getElementById('area-modal-overlay')?.classList.contains('open')) closeAreaModal();
   });
 
   // ソート
