@@ -151,6 +151,7 @@ const REGION_MAP = {
   '北海道・東北': ['北海道','青森県','岩手県','宮城県','秋田県','山形県','福島県'],
   '中国・四国':   ['広島県','岡山県','山口県','鳥取県','島根県','徳島県','香川県','愛媛県','高知県'],
   '甲信越・北陸': ['新潟県','富山県','石川県','福井県','長野県','山梨県'],
+  '海外・その他': ['シンガポール','韓国','台湾','タイ','アメリカ','フランス','その他海外'],
 };
 
 // ===========================
@@ -515,7 +516,7 @@ function buildShopCard(shop) {
   const memberFirst = (shop.members || [])[0] || '';
   const memberHtml  = memberFirst ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
 
-  const shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
+  const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
   return `
