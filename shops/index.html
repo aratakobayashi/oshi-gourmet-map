@@ -4,48 +4,71 @@ title: 推しグルメ聖地MAP｜お店を探す
 description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・芸人・YouTuberが実際に訪れた695件のグルメスポットを地図と一覧で探せます。グループ・ジャンル・エリアで絞り込み対応。
 ---
 
-<!-- ヒーロー -->
-<div class="shops-hero">
-  <div class="container">
-    <p class="shops-hero__eyebrow">SHOPS</p>
-    <h1 class="shops-hero__title">お店を<span class="shops-hero__accent">探す</span></h1>
+<!-- コンパクトフィルターバー -->
+<div class="fbar" id="fbar">
+  <div class="container fbar__row">
+    <div class="fbar__group-dots" id="fbar-group-dots"></div>
+    <p class="fbar__summary" id="fbar-summary">全グループ表示中</p>
+    <button class="fbar__btn fbar__btn--change" id="group-modal-open">変更 ▾</button>
+    <button class="fbar__btn" id="search-toggle">🔍 検索</button>
+    <button class="fbar__btn" id="area-modal-open">📍 エリア</button>
+  </div>
+  <!-- 検索パネル（トグル） -->
+  <div class="fbar__search-panel" id="fbar-search-panel" style="display:none">
+    <div class="container">
+      <input type="text" id="search-input" class="fbar__search-input" placeholder="お店名・住所・メンバー名で検索...">
+    </div>
+  </div>
+  <!-- 選択中チップ -->
+  <div class="fbar__chips-row" id="fbar-chips-row" style="display:none">
+    <div class="container">
+      <div class="fbar__chips" id="fbar-chips"></div>
+    </div>
   </div>
 </div>
 
-<!-- フィルターバー -->
-<div class="shops-filter" id="shops-filter">
-  <div class="container shops-filter__inner">
-
-    <!-- グループチップ（円形バッジ） -->
-    <div class="shops-filter__groups" id="group-filter-row"></div>
-
-    <!-- サマリー行 + 変更ボタン（主にSP用） -->
-    <div class="shops-filter__bar">
-      <p class="shops-filter__summary">
-        <span class="shops-filter__summary-icon">♡</span>
-        <span id="filter-summary-text">全グループ表示中</span>
-      </p>
-      <button class="shops-filter__toggle-btn" id="filter-toggle-btn" aria-expanded="true">変更 ▾</button>
+<!-- グループ選択モーダル -->
+<div class="fmodal-overlay" id="group-modal-overlay" aria-hidden="true">
+  <div class="fmodal fmodal--group" role="dialog" aria-modal="true" aria-label="推しから絞り込む">
+    <div class="fmodal__header">
+      <h2 class="fmodal__title">推しから絞り込む</h2>
+      <button class="fmodal__close" id="group-modal-close" aria-label="閉じる">✕</button>
     </div>
-
-    <!-- フィルターパネル -->
-    <div class="shops-filter__panel" id="shops-filter-panel">
-      <div class="shops-filter__row">
-        <input type="text" id="search-input" class="filter-input" placeholder="🔍 お店名で検索">
-        <select id="filter-prefecture" class="filter-select">
-          <option value="">📍 エリア ▾</option>
-        </select>
-        <select id="filter-genre" class="filter-select">
-          <option value="">ジャンル</option>
-        </select>
-        <button id="reset-filters" class="btn btn--reset">リセット</button>
-      </div>
+    <div class="fmodal__search-row">
+      <input type="text" id="group-search-input" class="fmodal__search-input" placeholder="グループ名を検索...">
     </div>
-
-    <!-- 選択中チップ（PC用） -->
-    <div class="shops-filter__chips" id="shops-filter-chips"></div>
-
+    <div class="fmodal__body">
+      <ul class="group-check-list" id="group-check-list"></ul>
+    </div>
+    <div class="fmodal__footer">
+      <button class="fmodal__reset-btn" id="group-modal-reset">リセット</button>
+      <button class="fmodal__apply-btn" id="group-modal-apply">絞り込む →</button>
+    </div>
   </div>
+</div>
+
+<!-- エリア選択モーダル -->
+<div class="fmodal-overlay" id="area-modal-overlay" aria-hidden="true">
+  <div class="fmodal fmodal--area" role="dialog" aria-modal="true" aria-label="エリアから絞り込む">
+    <div class="fmodal__header">
+      <h2 class="fmodal__title">エリアから絞り込む</h2>
+      <button class="fmodal__close" id="area-modal-close" aria-label="閉じる">✕</button>
+    </div>
+    <div class="fmodal__body area-body-pc" id="area-modal-pc"></div>
+    <div class="fmodal__body area-body-sp" id="area-modal-sp">
+      <div class="area-sidebar" id="area-sidebar"></div>
+      <div class="area-prefs" id="area-prefs"></div>
+    </div>
+    <div class="fmodal__footer">
+      <button class="fmodal__reset-btn" id="area-modal-reset">リセット</button>
+      <button class="fmodal__apply-btn" id="area-modal-apply">このエリアで絞り込む →</button>
+    </div>
+  </div>
+</div>
+
+<!-- hidden: ジャンルフィルター（URLパラメーター対応） -->
+<div style="display:none">
+  <select id="filter-genre"></select>
 </div>
 
 <!-- 件数 + タブ + ソート -->
