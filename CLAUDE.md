@@ -107,6 +107,7 @@
 | ginga | 中丸雄一 銀河チャンネル | - | https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7 |
 | kamaitachi | かまいたち | UCIR2mQ77wHrLMreV45nYhgw | https://www.youtube.com/@kamaitachi |
 | kodoku_no_gurume | 孤独のグルメ | - | goro-tablog.com（ファンサイト）/ TMDB ID:45753 |
+| heysayjump | Hey! Say! JUMP（いただきハイジャンプ） | UCZgJwFN1PeR8hZZ8A7huuTQ（ファン） | TMDB ID:197002 / e-nini08.hatenadiary.jp |
 
 ### グループカラー（main.js）
 ```javascript
@@ -120,6 +121,7 @@ nogizaka46:   '#0ea5e9'  // 水色
 hinatazaka46: '#f59e0b'  // アンバー
 kamenashi:         '#059669'  // グリーン
 kodoku_no_gurume:  '#92400e'  // ブラウン
+heysayjump:        '#ef4444'  // レッド
 ```
 
 ---
@@ -157,6 +159,7 @@ kodoku_no_gurume:  '#92400e'  // ブラウン
 | `scrape_hinatazaka.py` | 日向坂46スクレイピング（せっかくグルメ銚子回ほか） |
 | `scrape_kamaitachi.py` | かまいたち動画説明文パース（ロケで行った飲食店まとめ） |
 | `scrape_kodoku.py` | 孤独のグルメ スクレイピング（goro-tablog.com）+ TMDB APIでエピソードスチール取得 |
+| `build_heysayjump.py` | Hey! Say! JUMP（いただきハイジャンプ）ファンブログ抽出済みデータからJSON生成 |
 
 ---
 
@@ -169,8 +172,8 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 
 ---
 
-## 現在の状況（2026-05-13時点）
-- 総店舗数: 471件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:40 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3）
+## 現在の状況（2026-05-14時点）
+- 総店舗数: 695件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:40 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3 / heysayjump:46）
 - youtube_idあり: ~350件（74%）
 - thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
 - デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）

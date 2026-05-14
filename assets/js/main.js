@@ -179,6 +179,7 @@ const GROUP_LABELS = {
   ginga:        '中丸雄一 銀河チャンネル',
   kamaitachi:   'かまいたち',
   kodoku_no_gurume: '孤独のグルメ',
+  heysayjump:   'Hey! Say! JUMP',
   timelesz:     'timelesz',
   equal_love:   'イコラブ',
   notme:        '≠ME',
@@ -190,7 +191,7 @@ const GROUP_LABELS = {
 
 const GROUP_SOLID_COLORS = {
   yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed', naniwa:'#f97316',
-  kamenashi:'#059669', kamaitachi:'#8b5cf6', kodoku_no_gurume:'#92400e', equal_love:'#f43f5e', notme:'#0d9488',
+  kamenashi:'#059669', kamaitachi:'#8b5cf6', kodoku_no_gurume:'#92400e', heysayjump:'#ef4444', equal_love:'#f43f5e', notme:'#0d9488',
   timelesz:'#1d4ed8',
   neajoy:'#d946ef', nogizaka46:'#0ea5e9', sakurazaka46:'#e11d48',
   hinatazaka46:'#f59e0b', ginga:'#6366f1',
@@ -211,6 +212,7 @@ const GROUP_COLORS = {
   ginga:        'linear-gradient(135deg, #6366f1, #a5b4fc)',
   kamaitachi:       'linear-gradient(135deg, #eab308, #fde68a)',
   kodoku_no_gurume: 'linear-gradient(135deg, #92400e, #d97706)',
+  heysayjump:       'linear-gradient(135deg, #ef4444, #fbbf24)',
   timelesz:         'linear-gradient(135deg, #1d4ed8, #60a5fa)',
 };
 const GENRE_ICONS = {
