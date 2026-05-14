@@ -18,6 +18,7 @@ layout: default
 {% if s.group == 'ginga' %}{% assign hero_color = '#0f766e' %}{% endif %}
 {% if s.group == 'kodoku_no_gurume' %}{% assign hero_color = '#92400e' %}{% endif %}
 {% if s.group == 'timelesz' %}{% assign hero_color = '#1d4ed8' %}{% endif %}
+{% if s.group == 'heysayjump' %}{% assign hero_color = '#ef4444' %}{% endif %}
 
 {% assign group_label = s.group %}
 {% if s.group == 'yonino' %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
@@ -35,6 +36,7 @@ layout: default
 {% if s.group == 'ginga' %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
 {% if s.group == 'kodoku_no_gurume' %}{% assign group_label = '孤独のグルメ' %}{% endif %}
 {% if s.group == 'timelesz' %}{% assign group_label = 'timelesz' %}{% endif %}
+{% if s.group == 'heysayjump' %}{% assign group_label = 'Hey! Say! JUMP' %}{% endif %}
 
 <!-- JSON-LD: LocalBusiness -->
 <script type="application/ld+json">
@@ -153,6 +155,36 @@ layout: default
         <p class="shop-drama-card__title">{{ s.source_video_title }}</p>
         {% if s.members %}<p class="shop-drama-card__member">👤 {{ s.members | join: '・' }}</p>{% endif %}
       </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- 関連記事セクション -->
+  {% assign related_posts = "" | split: "" %}
+  {% for post in site.posts %}
+    {% if post.shop_ids contains s.id %}
+      {% assign related_posts = related_posts | push: post %}
+    {% endif %}
+  {% endfor %}
+  {% if related_posts.size > 0 %}
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">この店が載っている記事</h2>
+    </div>
+    <div class="shop-article-list">
+      {% for post in related_posts %}
+      <a href="{{ post.url | relative_url }}" class="shop-article-card">
+        {% if post.thumbnail_video_id %}
+        <div class="shop-article-card__thumb">
+          <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+        </div>
+        {% endif %}
+        <div class="shop-article-card__body">
+          <p class="shop-article-card__title">{{ post.title }}</p>
+          <p class="shop-article-card__date">{{ post.date | date: "%Y年%-m月%-d日" }}</p>
+        </div>
+      </a>
+      {% endfor %}
     </div>
   </section>
   {% endif %}

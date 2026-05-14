@@ -2426,6 +2426,22 @@ body {
 }
 .shop-video-card__date { font-size: 0.75rem; color: var(--color-text-muted); margin-top: 4px; }
 
+/* 関連記事リスト */
+.shop-article-list { display: flex; flex-direction: column; gap: 12px; }
+.shop-article-card {
+  display: flex; align-items: center; gap: 14px;
+  background: var(--color-surface); border-radius: 10px;
+  padding: 12px; text-decoration: none; color: inherit;
+  border: 1px solid var(--color-border);
+  transition: box-shadow .18s, transform .18s;
+}
+.shop-article-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); text-decoration: none; }
+.shop-article-card__thumb { flex-shrink: 0; width: 100px; height: 60px; border-radius: 6px; overflow: hidden; }
+.shop-article-card__thumb img { width: 100%; height: 100%; object-fit: cover; }
+.shop-article-card__body { flex: 1; min-width: 0; }
+.shop-article-card__title { font-size: 0.9rem; font-weight: 600; line-height: 1.4; margin: 0 0 4px; }
+.shop-article-card__date { font-size: 0.75rem; color: var(--color-text-muted); margin: 0; }
+
 /* Drama source card */
 .shop-drama-card {
   display: flex;
