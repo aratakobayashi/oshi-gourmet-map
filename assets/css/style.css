@@ -3672,6 +3672,114 @@ body {
 }
 
 /* ===========================
+   記事一覧 — matome grid / side card / type badge
+=========================== */
+
+/* グループ別まとめ: 左(大1枚) + 右(小3枚) */
+.ap-matome-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  align-items: start;
+}
+.ap-matome-main { display: flex; flex-direction: column; }
+.ap-matome-main .alc { height: 100%; }
+
+/* 右列: 縦に3枚並べる */
+.ap-matome-side {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* 5枚目以降: フル幅 2列 */
+.ap-matome-extra {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+/* 横向きコンパクトカード（右列用） */
+.alc--side {
+  flex-direction: row;
+  min-height: 100px;
+}
+.alc--side .alc__thumb {
+  width: 110px;
+  flex-shrink: 0;
+  aspect-ratio: auto;
+  height: auto;
+  align-self: stretch;
+}
+.alc--side .alc__body {
+  padding: 12px 14px 10px;
+  gap: 5px;
+  justify-content: center;
+}
+.alc--side .alc__title {
+  font-size: 0.85rem;
+  -webkit-line-clamp: 2;
+}
+.alc--side .alc__cta { display: none; }
+
+/* 縦アクセントバー（side カード左端） */
+.alc__side-accent {
+  width: 4px;
+  flex-shrink: 0;
+  align-self: stretch;
+  order: -1;
+  transition: width .2s;
+}
+.alc--side:hover .alc__side-accent { width: 6px; }
+
+/* 記事タイプバッジ */
+.alc__type-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.alc__type-badge--matome  { background: #fce7f3; color: #be185d; }
+.alc__type-badge--area    { background: #ede9fe; color: #6d28d9; }
+.alc__type-badge--genre   { background: #fef3c7; color: #b45309; }
+.alc__type-badge--course  { background: #d1fae5; color: #065f46; }
+
+/* ジャンル別 2列 */
+.ap-grid--genre {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* コース提案 2列 */
+.ap-grid--course {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* レスポンシブ (matome) */
+@media (max-width: 1023px) {
+  .ap-matome-grid { grid-template-columns: 1fr; }
+  .ap-matome-side { flex-direction: row; flex-wrap: wrap; gap: 14px; }
+  .ap-matome-side .alc--side { flex: 1 1 calc(50% - 7px); min-width: 240px; }
+  .ap-matome-extra { grid-template-columns: repeat(2, 1fr); }
+  .ap-grid--genre,
+  .ap-grid--course { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .ap-matome-grid { gap: 16px; }
+  .ap-matome-side { flex-direction: column; }
+  .ap-matome-side .alc--side { flex: none; }
+  .alc--side .alc__thumb { width: 90px; }
+  .ap-matome-extra { grid-template-columns: 1fr; gap: 16px; }
+  .ap-grid--genre,
+  .ap-grid--course { grid-template-columns: 1fr; }
+}
+
+/* ===========================
    Favorites Page
 =========================== */
 .fav-page-header {
