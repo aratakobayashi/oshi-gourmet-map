@@ -1,0 +1,25 @@
+---
+layout: default
+title: お気に入り | 推しグルメ聖地MAP
+description: ハートで保存したグルメスポットの一覧です。
+---
+
+<div class="container">
+  <div class="fav-page-header">
+    <h1 class="fav-page-header__title">♡ お気に入り</h1>
+    <div class="fav-page-header__sub">
+      <span id="fav-count" class="fav-count"></span>
+      <button id="fav-clear-btn" class="fav-clear-btn" style="display:none">すべて削除</button>
+    </div>
+  </div>
+  <p class="fav-note">このブラウザ・端末のみで保存されます。</p>
+</div>
+
+<div class="container">
+  <div class="shop-cards" id="fav-grid">
+    <p class="loading">読み込み中...</p>
+  </div>
+</div>
+
+<script>const SITE_BASEURL = '{{ site.baseurl }}';</script>
+<script src="{{ '/assets/js/favorites.js' | relative_url }}"></script>

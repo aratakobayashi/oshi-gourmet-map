@@ -3667,3 +3667,35 @@ body {
   .ap-section { margin-bottom: 36px; }
   .ap-grid { grid-template-columns: 1fr; gap: 16px; }
 }
+
+/* ===========================
+   Favorites Page
+=========================== */
+.fav-page-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 24px 0 8px; gap: 12px;
+}
+.fav-page-header__title { font-size: 1.3rem; font-weight: 800; margin: 0; }
+.fav-page-header__sub { display: flex; align-items: center; gap: 12px; }
+.fav-count { font-size: 0.88rem; color: var(--color-text-muted); }
+.fav-note { font-size: 0.75rem; color: var(--color-text-muted); margin: 0 0 20px; }
+.fav-clear-btn {
+  padding: 5px 12px; border-radius: 8px;
+  border: 1.5px solid var(--color-border); background: #fff;
+  color: var(--color-text-muted); font-size: 0.8rem; cursor: pointer; transition: var(--transition);
+}
+.fav-clear-btn:hover { border-color: #ef4444; color: #ef4444; }
+.fav-empty {
+  grid-column: 1 / -1; text-align: center; padding: 64px 20px;
+}
+.fav-empty__icon { font-size: 3.5rem; margin-bottom: 12px; }
+.fav-empty__text { color: var(--color-text-muted); margin-bottom: 24px; font-size: 0.95rem; }
+.fav-empty__link {
+  display: inline-block; padding: 12px 32px; border-radius: 10px;
+  background: var(--c-berry); color: #fff; font-weight: 700; text-decoration: none;
+  transition: var(--transition);
+}
+.fav-empty__link:hover { background: #a02055; text-decoration: none; }
+
+/* PC ヘッダー ♡ リンク */
+.nav-link--fav { font-size: 1.1rem; }
