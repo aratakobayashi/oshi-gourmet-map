@@ -542,11 +542,9 @@ function buildShopCard(shop) {
   const visitedHtml = shop.visited_date
     ? `<p class="shop-card__visited">📅 ${formatVisited(shop.visited_date)}</p>` : '';
 
-  const descHtml = shop.description
-    ? `<p class="shop-card__desc">${escHtml(shop.description)}</p>` : '';
-
+  const videoIcon = shop.source_type ? '📺' : '🎬';
   const videoHtml = shop.source_video_title
-    ? `<p class="shop-card__video">🎬 ${escHtml(shop.source_video_title)}</p>` : '';
+    ? `<p class="shop-card__video">${videoIcon} ${escHtml(shop.source_video_title)}</p>` : '';
 
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
@@ -560,7 +558,6 @@ function buildShopCard(shop) {
       <div class="shop-card__body">
         ${metaRow}
         <p class="shop-card__name">${escHtml(shop.name)}</p>
-        ${descHtml}
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
         ${memberHtml}
         ${visitedHtml}
