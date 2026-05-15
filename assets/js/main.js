@@ -510,44 +510,48 @@ function buildShopCard(shop) {
     : shop.thumbnail_url || null;
 
   const group      = (shop.groups || [])[0] || shop.group || '';
+  const gradient   = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';
   const solidColor = GROUP_SOLID_COLORS[group] || '#b72a65';
   const groupLabel = GROUP_LABELS[group] || group;
+  const icon       = GENRE_ICONS[shop.genre] || '🍽️';
   const base       = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
-
-  const groupPillHtml = group
-    ? `<div class="shop-card__group-pill" style="background:${solidColor}">${escHtml(groupLabel)}</div>`
-    : '';
 
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
        <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>`
-    : `<div class="shop-card__placeholder">
-         <span class="shop-card__placeholder-name">${escHtml(shop.name)}</span>
+    : `<div class="shop-card__banner" style="background:${gradient}">
+         <span class="shop-card__banner-icon">${icon}</span>
+         <span class="shop-card__banner-genre">${escHtml(shop.genre || '')}</span>
        </div>`;
 
-  const memberFirst = (shop.members || [])[0] || '';
-  const memberHtml  = memberFirst ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
-
-  // 住所は都道府県+市区町村までを表示（長い住所を短縮）
   const locationParts = [shop.prefecture, shop.city].filter(Boolean);
   const location = locationParts.length
     ? locationParts.join(' ')
     : (shop.nearest_station ? shop.nearest_station + '付近' : '');
+
+  const metaRow = group || shop.genre
+    ? `<div class="shop-card__meta-row">
+        ${group ? `<span class="shop-card__group-label" style="color:${solidColor}">${escHtml(groupLabel)}</span>` : ''}
+        ${group && shop.genre ? `<span class="shop-card__sep">·</span>` : ''}
+        ${shop.genre ? `<span class="shop-card__genre">${escHtml(shop.genre)}</span>` : ''}
+      </div>` : '';
+
+  const memberFirst = (shop.members || [])[0] || '';
+  const memberHtml  = memberFirst ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
 
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
   return `
     <a class="shop-card" href="${detailUrl}">
-      ${groupPillHtml}
       <div class="shop-card__thumb">
         ${thumbHtml}
         <button class="shop-card__fav" aria-label="保存" onclick="toggleFav(event,'${escHtml(shop.id)}',this)">♡</button>
       </div>
       <div class="shop-card__body">
+        ${metaRow}
         <p class="shop-card__name">${escHtml(shop.name)}</p>
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
-        ${shop.description ? `<p class="shop-card__desc">${escHtml(shop.description)}</p>` : ''}
         ${memberHtml}
       </div>
     </a>`;
