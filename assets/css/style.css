@@ -845,6 +845,7 @@ img { max-width: 100%; display: block; }
 .shop-card__name { font-weight: 700; font-size: 0.95rem; margin-bottom: 5px; line-height: 1.35; }
 .shop-card__location { font-size: 0.78rem; color: var(--color-text-muted); margin-bottom: 0; }
 .shop-card__member { font-size: 0.75rem; color: var(--c-berry); margin-top: 5px; }
+.shop-card__visited { font-size: 0.72rem; color: var(--color-text-muted); margin-top: 3px; }
 
 /* 後方互換（article内インラインカード等で使われる旧クラス） */
 .shop-card__tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }

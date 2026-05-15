@@ -539,6 +539,9 @@ function buildShopCard(shop) {
   const memberFirst = (shop.members || [])[0] || '';
   const memberHtml  = memberFirst ? `<p class="shop-card__member">👤 ${escHtml(memberFirst)}</p>` : '';
 
+  const visitedHtml = shop.visited_date
+    ? `<p class="shop-card__visited">📅 ${formatVisited(shop.visited_date)}</p>` : '';
+
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
@@ -553,6 +556,7 @@ function buildShopCard(shop) {
         <p class="shop-card__name">${escHtml(shop.name)}</p>
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
         ${memberHtml}
+        ${visitedHtml}
       </div>
     </a>`;
 }
@@ -649,6 +653,12 @@ function formatDate(dateStr) {
   if (!dateStr) return '';
   const [y, m, d] = dateStr.split('-');
   return `${y}年${parseInt(m)}月${parseInt(d)}日`;
+}
+
+function formatVisited(dateStr) {
+  if (!dateStr) return '';
+  const [y, m] = dateStr.split('-');
+  return `${y}年${parseInt(m)}月`;
 }
 
 function updateCount(n) {
