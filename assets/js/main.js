@@ -24,8 +24,6 @@ let allShops = [];
 let filteredShops = [];
 let selectedGroups     = new Set();
 let selectedPrefs      = new Set();
-let tempSelectedGroups = new Set();
-let tempSelectedPrefs  = new Set();
 let activeRegion       = null;
 let userLat            = null;
 let userLng            = null;
@@ -44,6 +42,8 @@ async function loadShops() {
   populateFilters();
   initFromUrlParams();
   initPlaceholderRotation(allShops);
+
+  if (typeof initFilterModal === 'function') initFilterModal(allShops);
 
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
 }
@@ -76,45 +76,6 @@ function populateFilters() {
   const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].sort();
   fillSelect('filter-genre', genres);
   renderGenrePills(genres);
-  renderGroupPills();
-}
-
-function renderGroupPills() {
-  const container = document.getElementById('group-pills');
-  if (!container || !allShops.length) return;
-
-  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
-  groups.sort((a, b) =>
-    allShops.filter(s => (s.groups || []).includes(b)).length -
-    allShops.filter(s => (s.groups || []).includes(a)).length
-  );
-
-  const activePill = selectedGroups.size === 1 ? [...selectedGroups][0] : null;
-
-  container.innerHTML = groups.map(g => {
-    const label = GROUP_LABELS[g] || g;
-    const color = GROUP_SOLID_COLORS[g] || '#b72a65';
-    const isActive = g === activePill;
-    const style = isActive
-      ? `background:${color};border-color:${color};color:#fff`
-      : `border-color:${color}40;color:${color}`;
-    return `<button class="group-pill" data-group="${escHtml(g)}" style="${style}">${escHtml(label)}</button>`;
-  }).join('');
-
-  container.querySelectorAll('.group-pill').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const g = btn.dataset.group;
-      if (selectedGroups.size === 1 && selectedGroups.has(g)) {
-        selectedGroups.clear();
-      } else {
-        selectedGroups.clear();
-        selectedGroups.add(g);
-      }
-      applyFilters();
-      updateFilterBar();
-      updateFilterChips();
-    });
-  });
 }
 
 function renderGenrePills(genres) {
@@ -257,7 +218,6 @@ const REGION_MAP = {
 // ===========================
 function updateFilterBar() {
   renderGroupDots();
-  renderGroupPills();
   const el = document.getElementById('fbar-summary');
   if (!el) return;
   if (selectedGroups.size === 0) {
@@ -383,204 +343,6 @@ function applyFilters() {
   renderGrid(filteredShops);
   updateCount(filteredShops.length);
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
-}
-
-// ===========================
-// グループ選択モーダル
-// ===========================
-function openGroupModal() {
-  tempSelectedGroups = new Set(selectedGroups);
-  renderGroupCheckList('');
-  updateGroupModalApplyBtn();
-  const overlay = document.getElementById('group-modal-overlay');
-  if (overlay) { overlay.classList.add('open'); overlay.setAttribute('aria-hidden', 'false'); }
-  document.body.style.overflow = 'hidden';
-}
-
-function closeGroupModal() {
-  const overlay = document.getElementById('group-modal-overlay');
-  if (overlay) { overlay.classList.remove('open'); overlay.setAttribute('aria-hidden', 'true'); }
-  document.body.style.overflow = '';
-}
-
-function renderGroupCheckList(query) {
-  const list = document.getElementById('group-check-list');
-  if (!list) return;
-
-  const q = (query || '').toLowerCase();
-  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
-  groups.sort((a, b) => {
-    const ca = allShops.filter(s => (s.groups || []).includes(a)).length;
-    const cb = allShops.filter(s => (s.groups || []).includes(b)).length;
-    return cb - ca;
-  });
-
-  const visible = q ? groups.filter(g => (GROUP_LABELS[g] || g).toLowerCase().includes(q)) : groups;
-
-  list.innerHTML = visible.map(g => {
-    const label   = GROUP_LABELS[g] || g;
-    const color   = GROUP_SOLID_COLORS[g] || '#b72a65';
-    const initial = GROUP_INITIALS[g] || label.charAt(0);
-    const count   = allShops.filter(s => (s.groups || []).includes(g)).length;
-    const sel     = tempSelectedGroups.has(g);
-    return `<li class="group-check-item${sel ? ' selected' : ''}" data-group="${escHtml(g)}">
-      <span class="group-check-item__dot" style="background:${color}">${escHtml(initial)}</span>
-      <span class="group-check-item__name">${escHtml(label)}</span>
-      <span class="group-check-item__count">${count}件</span>
-      ${sel ? '<span class="group-check-item__star">★</span>' : ''}
-      <span class="group-check-item__check">${sel ? '✓' : ''}</span>
-    </li>`;
-  }).join('');
-
-  list.querySelectorAll('.group-check-item').forEach(item => {
-    item.addEventListener('click', () => {
-      const g = item.dataset.group;
-      if (tempSelectedGroups.has(g)) tempSelectedGroups.delete(g);
-      else tempSelectedGroups.add(g);
-      renderGroupCheckList(document.getElementById('group-search-input')?.value || '');
-      updateGroupModalApplyBtn();
-    });
-  });
-}
-
-function updateGroupModalApplyBtn() {
-  const btn = document.getElementById('group-modal-apply');
-  if (!btn) return;
-  if (tempSelectedGroups.size === 0) {
-    btn.textContent = '全グループ表示 →';
-  } else {
-    const count = allShops.filter(s => (s.groups || []).some(g => tempSelectedGroups.has(g))).length;
-    btn.textContent = `${tempSelectedGroups.size}組で絞り込む（${count}件） →`;
-  }
-}
-
-function applyGroupFilter() {
-  selectedGroups = new Set(tempSelectedGroups);
-  closeGroupModal();
-  applyFilters();
-  updateFilterBar();
-  updateFilterChips();
-}
-
-// ===========================
-// エリア選択モーダル
-// ===========================
-function openAreaModal() {
-  tempSelectedPrefs = new Set(selectedPrefs);
-  activeRegion = null;
-  renderAreaModalPC();
-  renderAreaModalSP();
-  updateAreaModalApplyBtn();
-  const overlay = document.getElementById('area-modal-overlay');
-  if (overlay) { overlay.classList.add('open'); overlay.setAttribute('aria-hidden', 'false'); }
-  document.body.style.overflow = 'hidden';
-}
-
-function closeAreaModal() {
-  const overlay = document.getElementById('area-modal-overlay');
-  if (overlay) { overlay.classList.remove('open'); overlay.setAttribute('aria-hidden', 'true'); }
-  document.body.style.overflow = '';
-}
-
-function getAvailablePrefs() {
-  return [...new Set(allShops.map(s => s.prefecture).filter(Boolean))];
-}
-
-function renderAreaModalPC() {
-  const container = document.getElementById('area-modal-pc');
-  if (!container) return;
-  const avail = getAvailablePrefs();
-
-  container.innerHTML = Object.entries(REGION_MAP).map(([region, prefs]) => {
-    const available = prefs.filter(p => avail.includes(p));
-    if (!available.length) return '';
-    return `<div class="area-region">
-      <p class="area-region__title">${escHtml(region)}</p>
-      <div class="area-pills">
-        ${available.map(p => `<button class="area-pill${tempSelectedPrefs.has(p) ? ' selected' : ''}" data-pref="${escHtml(p)}">${escHtml(p)}</button>`).join('')}
-      </div>
-    </div>`;
-  }).join('');
-
-  container.querySelectorAll('.area-pill').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const p = btn.dataset.pref;
-      if (tempSelectedPrefs.has(p)) tempSelectedPrefs.delete(p);
-      else tempSelectedPrefs.add(p);
-      btn.classList.toggle('selected', tempSelectedPrefs.has(p));
-      updateAreaModalApplyBtn();
-    });
-  });
-}
-
-function renderAreaModalSP() {
-  const sidebar = document.getElementById('area-sidebar');
-  const prefsEl = document.getElementById('area-prefs');
-  if (!sidebar || !prefsEl) return;
-  const avail = getAvailablePrefs();
-
-  const availRegions = Object.entries(REGION_MAP).filter(([, prefs]) => prefs.some(p => avail.includes(p)));
-  if (!activeRegion && availRegions.length) activeRegion = availRegions[0][0];
-
-  sidebar.innerHTML = availRegions.map(([region]) =>
-    `<div class="area-sidebar__item${activeRegion === region ? ' active' : ''}" data-region="${escHtml(region)}">${escHtml(region)}</div>`
-  ).join('');
-
-  sidebar.querySelectorAll('.area-sidebar__item').forEach(item => {
-    item.addEventListener('click', () => {
-      activeRegion = item.dataset.region;
-      sidebar.querySelectorAll('.area-sidebar__item').forEach(i =>
-        i.classList.toggle('active', i.dataset.region === activeRegion)
-      );
-      showRegionPrefs(avail);
-    });
-  });
-
-  showRegionPrefs(avail);
-}
-
-function showRegionPrefs(avail) {
-  const prefsEl = document.getElementById('area-prefs');
-  if (!prefsEl || !activeRegion) return;
-  const prefs = (REGION_MAP[activeRegion] || []).filter(p => avail.includes(p));
-
-  prefsEl.innerHTML = prefs.map(p => {
-    const sel = tempSelectedPrefs.has(p);
-    return `<div class="area-pref-check${sel ? ' selected' : ''}" data-pref="${escHtml(p)}">
-      <span class="area-pref-check__box">${sel ? '✓' : ''}</span>
-      <span class="area-pref-check__name">${escHtml(p)}</span>
-    </div>`;
-  }).join('');
-
-  prefsEl.querySelectorAll('.area-pref-check').forEach(item => {
-    item.addEventListener('click', () => {
-      const p = item.dataset.pref;
-      if (tempSelectedPrefs.has(p)) tempSelectedPrefs.delete(p);
-      else tempSelectedPrefs.add(p);
-      item.classList.toggle('selected', tempSelectedPrefs.has(p));
-      const box = item.querySelector('.area-pref-check__box');
-      if (box) box.textContent = tempSelectedPrefs.has(p) ? '✓' : '';
-      updateAreaModalApplyBtn();
-    });
-  });
-}
-
-function updateAreaModalApplyBtn() {
-  const btn = document.getElementById('area-modal-apply');
-  if (!btn) return;
-  if (tempSelectedPrefs.size === 0) {
-    btn.textContent = '全エリア表示 →';
-  } else {
-    const count = allShops.filter(s => tempSelectedPrefs.has(s.prefecture)).length;
-    btn.textContent = `${tempSelectedPrefs.size}エリアで絞り込む（${count}件） →`;
-  }
-}
-
-function applyAreaFilter() {
-  selectedPrefs = new Set(tempSelectedPrefs);
-  closeAreaModal();
-  applyFilters();
-  updateFilterChips();
 }
 
 // ===========================
@@ -976,43 +738,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // ジャンル（hidden）
   document.getElementById('filter-genre')?.addEventListener('change', applyFilters);
 
-  // グループモーダル
-  document.getElementById('group-modal-open')?.addEventListener('click', openGroupModal);
-  document.getElementById('group-modal-close')?.addEventListener('click', closeGroupModal);
-  document.getElementById('group-modal-apply')?.addEventListener('click', applyGroupFilter);
-  document.getElementById('group-modal-reset')?.addEventListener('click', () => {
-    tempSelectedGroups.clear();
-    renderGroupCheckList(document.getElementById('group-search-input')?.value || '');
-    updateGroupModalApplyBtn();
-  });
-  document.getElementById('group-search-input')?.addEventListener('input', function() {
-    renderGroupCheckList(this.value);
-  });
-
-  // エリアモーダル
-  document.getElementById('area-modal-open')?.addEventListener('click', openAreaModal);
-  document.getElementById('area-modal-close')?.addEventListener('click', closeAreaModal);
-  document.getElementById('area-modal-apply')?.addEventListener('click', applyAreaFilter);
-  document.getElementById('area-modal-reset')?.addEventListener('click', () => {
-    tempSelectedPrefs.clear();
-    renderAreaModalPC();
-    renderAreaModalSP();
-    updateAreaModalApplyBtn();
-  });
-
-  // オーバーレイクリックで閉じる
-  document.getElementById('group-modal-overlay')?.addEventListener('click', function(e) {
-    if (e.target === this) closeGroupModal();
-  });
-  document.getElementById('area-modal-overlay')?.addEventListener('click', function(e) {
-    if (e.target === this) closeAreaModal();
-  });
-
   // Escapeキーでモーダルを閉じる
   document.addEventListener('keydown', function(e) {
     if (e.key !== 'Escape') return;
-    if (document.getElementById('group-modal-overlay')?.classList.contains('open')) closeGroupModal();
-    else if (document.getElementById('area-modal-overlay')?.classList.contains('open')) closeAreaModal();
+    if (typeof closeFilterModal === 'function') closeFilterModal();
   });
 
   // ソート（近い順はGeolocation取得を待つ）

@@ -3954,3 +3954,334 @@ body {
 
 /* PC ヘッダー ♡ リンク */
 .nav-link--fav { font-size: 1.1rem; }
+
+/* ===========================
+   統合フィルターモーダル (filter.js)
+=========================== */
+
+/* オーバーレイはベースの .fmodal-overlay を流用 */
+.fmodal--filter-overlay { z-index: 210; }
+
+/* モーダルボックス */
+.fmodal--filter {
+  width: min(680px, 96vw);
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+}
+
+/* ヘッダー（タブ行 + 閉じるボタン） */
+.fmodal__filter-head {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 16px 0;
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+  gap: 8px;
+}
+.fmodal__filter-tabs {
+  display: flex; gap: 4px; flex: 1;
+}
+.fmodal__filter-tab {
+  padding: 8px 20px; border: none; background: none;
+  font-size: 0.88rem; font-weight: 600; color: var(--color-text-muted);
+  cursor: pointer; border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.fmodal__filter-tab:hover { color: var(--c-berry); }
+.fmodal__filter-tab--active {
+  color: var(--c-berry);
+  border-bottom-color: var(--c-berry);
+  font-weight: 800;
+}
+
+/* 検索バー */
+.fmodal__filter-search-row {
+  padding: 10px 16px 8px;
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+}
+
+/* 選択中スタック */
+.fmodal-selected-stack {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+}
+.fmodal-sel-chip {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 4px 10px; border-radius: 999px;
+  font-size: 0.78rem; font-weight: 700;
+}
+.fmodal-sel-chip--pref {
+  background: rgba(3,105,161,0.1); border: 1px solid rgba(3,105,161,0.3); color: #0369a1;
+}
+.fmodal-sel-chip__remove {
+  background: none; border: none; cursor: pointer;
+  font-size: 0.85rem; line-height: 1; padding: 0 0 0 2px; opacity: 0.7;
+}
+.fmodal-sel-chip__remove:hover { opacity: 1; }
+
+/* スクロール領域 */
+.fmodal__filter-body { flex: 1; overflow-y: auto; }
+
+/* ペイン */
+.fmodal__pane { padding: 12px 16px; }
+.fmodal__pane--two-col {
+  padding: 0;
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  grid-template-rows: auto 1fr;
+  min-height: 0;
+}
+
+/* フッター */
+.fmodal__filter-footer {
+  display: flex; align-items: center; gap: 8px;
+  padding: 12px 16px; border-top: 1px solid var(--color-border); flex-shrink: 0;
+}
+
+/* セクション */
+.fmodal-section { margin-bottom: 20px; }
+.fmodal-section__label {
+  font-size: 0.7rem; font-weight: 800; letter-spacing: 0.1em;
+  color: var(--color-text-muted); text-transform: uppercase;
+  margin: 0 0 8px;
+}
+
+/* トレンドカード */
+.fmodal-trend-cards {
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;
+}
+.fmodal-trend-card {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 12px; border-radius: 12px;
+  border: 1.5px solid var(--color-border);
+  background: #fff; cursor: pointer; text-align: left;
+  transition: border-color 0.15s, background 0.15s;
+}
+.fmodal-trend-card:hover { border-color: var(--gc, #b72a65); }
+.fmodal-trend-card--sel { background: color-mix(in srgb, var(--gc, #b72a65) 10%, #fff); border-color: var(--gc, #b72a65); }
+.fmodal-trend-card__dot {
+  width: 32px; height: 32px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 800; color: #fff; flex-shrink: 0;
+}
+.fmodal-trend-card__name { flex: 1; font-size: 0.82rem; font-weight: 700; color: var(--color-text); line-height: 1.3; }
+.fmodal-trend-card__count { font-size: 0.72rem; color: var(--color-text-muted); white-space: nowrap; }
+
+/* Top10グリッド */
+.fmodal-top10-grid { display: flex; flex-direction: column; gap: 2px; }
+.fmodal-top10-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 10px; border-radius: 10px; border: none; background: none;
+  cursor: pointer; text-align: left; transition: background 0.12s;
+  width: 100%;
+}
+.fmodal-top10-item:hover { background: #fdf0f5; }
+.fmodal-top10-item--sel { background: #fce8f2; }
+.fmodal-top10-item--podium .fmodal-top10-item__rank { color: var(--c-berry); font-weight: 800; }
+.fmodal-top10-item__rank { width: 18px; font-size: 0.78rem; color: var(--color-text-muted); text-align: center; flex-shrink: 0; }
+.fmodal-top10-item__dot {
+  width: 28px; height: 28px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.65rem; font-weight: 800; color: #fff; flex-shrink: 0;
+}
+.fmodal-top10-item__name { flex: 1; font-size: 0.88rem; font-weight: 600; text-align: left; }
+.fmodal-top10-item__count { font-size: 0.75rem; color: var(--color-text-muted); flex-shrink: 0; }
+.fmodal-top10-item__check {
+  width: 20px; height: 20px; border-radius: 5px; border: 2px solid var(--color-border);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 800; flex-shrink: 0; transition: var(--transition);
+}
+.fmodal-top10-item--sel .fmodal-top10-item__check { background: var(--c-berry); border-color: var(--c-berry); color: #fff; }
+
+/* エリアチップ（popular） */
+.fmodal-area-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.fmodal-area-chip {
+  padding: 6px 14px; border-radius: 999px; border: 1.5px solid var(--color-border);
+  background: #fff; font-size: 0.82rem; font-weight: 600; cursor: pointer;
+  transition: var(--transition);
+}
+.fmodal-area-chip:hover { border-color: #0369a1; color: #0369a1; }
+.fmodal-area-chip--sel { background: #eff6ff; border-color: #0369a1; color: #0369a1; font-weight: 700; }
+.fmodal-area-chip__count { font-size: 0.72rem; font-weight: 400; opacity: 0.7; margin-left: 3px; }
+
+/* 空メッセージ */
+.fmodal-empty { color: var(--color-text-muted); font-size: 0.88rem; padding: 24px 0; text-align: center; }
+
+/* ===== Talent タブ ===== */
+
+/* SP: 50音水平タブ（PC では非表示） */
+.fmodal-kana-sp-tabs-wrap {
+  display: none;
+  grid-column: 1 / -1;
+  overflow-x: auto; scrollbar-width: none;
+  padding: 8px 12px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.fmodal-kana-sp-tabs-wrap::-webkit-scrollbar { display: none; }
+.fmodal-kana-sp-tabs { display: flex; gap: 4px; }
+.fmodal-kana-sp-tab {
+  padding: 6px 12px; border-radius: 999px;
+  border: 1.5px solid var(--color-border); background: #fff;
+  font-size: 0.8rem; font-weight: 600; cursor: pointer; white-space: nowrap;
+  transition: var(--transition); flex-shrink: 0;
+}
+.fmodal-kana-sp-tab:hover { border-color: var(--c-berry); color: var(--c-berry); }
+.fmodal-kana-sp-tab--active { background: var(--c-berry); border-color: var(--c-berry); color: #fff; }
+.fmodal-kana-sp-tab--empty { opacity: 0.35; cursor: default; }
+
+/* PC: 左かなペイン */
+.fmodal-kana-pane {
+  grid-row: 1 / 3;
+  background: #f8f8f9; border-right: 1px solid var(--color-border);
+  padding: 10px 8px; overflow-y: auto; flex-shrink: 0;
+}
+.fmodal-kana-quick-row { display: flex; flex-direction: column; gap: 4px; margin-bottom: 10px; }
+.fmodal-kana-quick {
+  padding: 6px 8px; border-radius: 8px; border: none; background: none;
+  font-size: 0.78rem; font-weight: 600; color: var(--color-text-muted);
+  cursor: pointer; text-align: left; transition: background 0.12s, color 0.12s;
+}
+.fmodal-kana-quick:hover { background: #f0e8f4; color: var(--c-berry); }
+.fmodal-kana-quick--active { background: #fce8f2; color: var(--c-berry); font-weight: 800; }
+.fmodal-kana-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; }
+.fmodal-kana-btn {
+  padding: 7px 4px; border-radius: 8px; border: none; background: none;
+  font-size: 0.85rem; font-weight: 700; color: var(--color-text);
+  cursor: pointer; text-align: center; transition: background 0.12s, color 0.12s;
+}
+.fmodal-kana-btn:hover { background: #f0e8f4; color: var(--c-berry); }
+.fmodal-kana-btn--active { background: #fce8f2; color: var(--c-berry); }
+.fmodal-kana-btn--empty { opacity: 0.3; cursor: default; }
+
+/* グループ行リスト */
+.fmodal-talent-list {
+  overflow-y: auto; padding: 8px;
+}
+.fmodal-group-row {
+  border-radius: 10px; transition: background 0.12s;
+  margin-bottom: 2px;
+}
+.fmodal-group-row:hover { background: #fdf0f5; }
+.fmodal-group-row--sel { background: #fce8f2; }
+.fmodal-group-row__main {
+  display: flex; align-items: center; gap: 8px;
+  padding: 9px 10px; cursor: pointer;
+}
+.fmodal-check-box {
+  width: 20px; height: 20px; border-radius: 5px; border: 2px solid var(--color-border);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 800; flex-shrink: 0; transition: var(--transition);
+}
+.fmodal-check-box--on { background: var(--c-berry); border-color: var(--c-berry); color: #fff; }
+.fmodal-group-row__dot {
+  width: 30px; height: 30px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.65rem; font-weight: 800; color: #fff; flex-shrink: 0;
+}
+.fmodal-group-row__info { flex: 1; min-width: 0; }
+.fmodal-group-row__name { display: block; font-size: 0.88rem; font-weight: 700; }
+.fmodal-group-row__reading { display: block; font-size: 0.7rem; color: var(--color-text-muted); }
+.fmodal-hot-badge {
+  font-size: 0.65rem; font-weight: 800; color: #fff;
+  background: #ef4444; border-radius: 4px; padding: 2px 5px; flex-shrink: 0;
+}
+.fmodal-group-row__count { font-size: 0.75rem; color: var(--color-text-muted); flex-shrink: 0; white-space: nowrap; }
+.fmodal-group-expand {
+  width: 24px; height: 24px; border-radius: 50%; border: none; background: #f0f0f0;
+  font-size: 0.65rem; cursor: pointer; flex-shrink: 0; transition: var(--transition);
+}
+.fmodal-group-expand:hover { background: #e0e0e0; }
+.fmodal-member-chips { display: flex; flex-wrap: wrap; gap: 5px; padding: 0 10px 10px 68px; }
+.fmodal-member-chip {
+  padding: 4px 10px; border-radius: 999px;
+  border: 1px solid var(--color-border); background: #fff;
+  font-size: 0.75rem; cursor: pointer; transition: var(--transition);
+}
+.fmodal-member-chip:hover { border-color: var(--c-berry); color: var(--c-berry); }
+
+/* ===== Pref タブ ===== */
+
+/* SP: 地方水平スクロール */
+.fmodal-region-sp-scroll-wrap {
+  display: none;
+  grid-column: 1 / -1;
+  overflow-x: auto; scrollbar-width: none;
+  padding: 8px 12px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.fmodal-region-sp-scroll-wrap::-webkit-scrollbar { display: none; }
+.fmodal-region-sp-scroll { display: flex; gap: 6px; }
+.fmodal-region-sp-tab {
+  padding: 6px 14px; border-radius: 999px;
+  border: 1.5px solid var(--color-border); background: #fff;
+  font-size: 0.8rem; font-weight: 600; cursor: pointer; white-space: nowrap;
+  transition: var(--transition); flex-shrink: 0;
+}
+.fmodal-region-sp-tab:hover { border-color: var(--c-berry); color: var(--c-berry); }
+.fmodal-region-sp-tab--active { background: var(--c-berry); border-color: var(--c-berry); color: #fff; }
+
+/* PC: 左地方ペイン */
+.fmodal-region-pane {
+  grid-row: 1 / 3;
+  background: #f8f8f9; border-right: 1px solid var(--color-border);
+  padding: 8px 0; overflow-y: auto;
+}
+.fmodal-region-item {
+  display: block; width: 100%; padding: 10px 12px;
+  border: none; border-left: 3px solid transparent; background: none;
+  font-size: 0.82rem; font-weight: 600; color: var(--color-text);
+  cursor: pointer; text-align: left; transition: var(--transition);
+  line-height: 1.4;
+}
+.fmodal-region-item:hover { background: #f0f0f0; }
+.fmodal-region-item--active { border-left-color: var(--c-berry); background: #fff; color: var(--c-berry); font-weight: 800; }
+
+/* 都道府県リスト */
+.fmodal-pref-list { overflow-y: auto; padding: 12px; }
+.fmodal-pref-pills { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 14px; }
+.fmodal-pref-pill {
+  padding: 6px 16px; border-radius: 999px;
+  border: 1.5px solid var(--color-border); background: #fff;
+  font-size: 0.84rem; font-weight: 600; cursor: pointer; transition: var(--transition);
+  display: inline-flex; align-items: center; gap: 5px;
+}
+.fmodal-pref-pill:hover { border-color: #0369a1; color: #0369a1; }
+.fmodal-pref-pill--sel { background: #eff6ff; border-color: #0369a1; color: #0369a1; font-weight: 700; }
+.fmodal-pref-pill__count { font-size: 0.72rem; font-weight: 400; opacity: 0.7; }
+
+/* 市区ドリル */
+.fmodal-city-drill { margin-top: 12px; }
+.fmodal-city-drill__label {
+  font-size: 0.7rem; font-weight: 700; color: var(--color-text-muted); margin-bottom: 6px; letter-spacing: 0.06em;
+}
+.fmodal-city-chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.fmodal-city-chip {
+  padding: 4px 12px; border-radius: 999px;
+  border: 1px solid #bfdbfe; background: #eff6ff; color: #1e40af;
+  font-size: 0.75rem; font-weight: 600;
+  cursor: default;
+}
+
+/* ===== SP レスポンシブ ===== */
+@media (max-width: 768px) {
+  .fmodal--filter {
+    width: 100%; border-radius: 20px 20px 0 0; max-height: 90vh;
+  }
+  .fmodal__pane--two-col {
+    display: flex; flex-direction: column;
+    padding: 0;
+  }
+  /* PC 左ペインを非表示 */
+  .fmodal-kana-pane, .fmodal-region-pane { display: none; }
+  /* SP タブを表示 */
+  .fmodal-kana-sp-tabs-wrap, .fmodal-region-sp-scroll-wrap { display: block; }
+  /* リスト全幅 */
+  .fmodal-talent-list, .fmodal-pref-list { flex: 1; overflow-y: auto; }
+  /* トレンドカード1列 */
+  .fmodal-trend-cards { grid-template-columns: 1fr 1fr; }
+}

@@ -12,12 +12,6 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
     <button class="fbar__btn fbar__btn--change" id="group-modal-open">推し ▾</button>
     <button class="fbar__btn" id="area-modal-open">📍 エリア</button>
   </div>
-  <!-- グループピル（常時表示） -->
-  <div class="fbar__group-pills-row">
-    <div class="container">
-      <div class="group-pills" id="group-pills"></div>
-    </div>
-  </div>
   <!-- 検索パネル（常時表示） -->
   <div class="fbar__search-panel" id="fbar-search-panel">
     <div class="container">
@@ -35,44 +29,88 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   </div>
 </div>
 
-<!-- グループ選択モーダル -->
-<div class="fmodal-overlay" id="group-modal-overlay" aria-hidden="true">
-  <div class="fmodal fmodal--group" role="dialog" aria-modal="true" aria-label="推しから絞り込む">
-    <div class="fmodal__header">
-      <h2 class="fmodal__title">推しから絞り込む</h2>
-      <button class="fmodal__close" id="group-modal-close" aria-label="閉じる">✕</button>
-    </div>
-    <div class="fmodal__search-row">
-      <input type="text" id="group-search-input" class="fmodal__search-input" placeholder="グループ名を検索...">
-    </div>
-    <div class="fmodal__body">
-      <ul class="group-check-list" id="group-check-list"></ul>
-    </div>
-    <div class="fmodal__footer">
-      <button class="fmodal__reset-btn" id="group-modal-reset">リセット</button>
-      <button class="fmodal__apply-btn" id="group-modal-apply">絞り込む →</button>
-    </div>
-  </div>
-</div>
+<!-- 統合フィルターモーダル（推し・エリア・人気 3タブ） -->
+<div class="fmodal-overlay fmodal--filter-overlay" id="filter-modal-overlay" aria-hidden="true">
+  <div class="fmodal fmodal--filter" role="dialog" aria-modal="true" aria-label="絞り込む">
 
-<!-- エリア選択モーダル -->
-<div class="fmodal-overlay" id="area-modal-overlay" aria-hidden="true">
-  <div class="fmodal fmodal--area" role="dialog" aria-modal="true" aria-label="エリアから絞り込む">
-    <div class="fmodal__header">
-      <h2 class="fmodal__title">エリアから絞り込む</h2>
-      <button class="fmodal__close" id="area-modal-close" aria-label="閉じる">✕</button>
+    <!-- ヘッダー -->
+    <div class="fmodal__filter-head">
+      <div class="fmodal__filter-tabs" role="tablist">
+        <button class="fmodal__filter-tab fmodal__filter-tab--active" data-tab="popular" role="tab" aria-selected="true">人気</button>
+        <button class="fmodal__filter-tab" data-tab="talent" role="tab" aria-selected="false">推し</button>
+        <button class="fmodal__filter-tab" data-tab="pref" role="tab" aria-selected="false">エリア</button>
+      </div>
+      <button class="fmodal__close" id="filter-modal-close" aria-label="閉じる">✕</button>
     </div>
-    <div class="fmodal__body area-body-pc" id="area-modal-pc"></div>
-    <div class="fmodal__body area-body-sp" id="area-modal-sp">
-      <div class="area-sidebar" id="area-sidebar"></div>
-      <div class="area-prefs" id="area-prefs"></div>
+
+    <!-- 検索バー -->
+    <div class="fmodal__filter-search-row">
+      <input type="text" id="filter-modal-search" class="fmodal__search-input" placeholder="グループ・エリア名で検索...">
     </div>
-    <div class="fmodal__footer">
-      <button class="fmodal__reset-btn" id="area-modal-reset">リセット</button>
-      <button class="fmodal__apply-btn" id="area-modal-apply">このエリアで絞り込む →</button>
+
+    <!-- 選択中チップ -->
+    <div class="fmodal-selected-stack" id="filter-selected" hidden></div>
+
+    <!-- ボディ（スクロール領域） -->
+    <div class="fmodal__filter-body">
+
+      <!-- ===== 人気タブ ===== -->
+      <div id="pane-popular" class="fmodal__pane" role="tabpanel">
+        <section class="fmodal-section">
+          <p class="fmodal-section__label">トレンド</p>
+          <div class="fmodal-trend-cards" id="pane-popular-trending"></div>
+        </section>
+
+        <section class="fmodal-section">
+          <p class="fmodal-section__label">グループ TOP 10</p>
+          <div class="fmodal-top10-grid" id="pane-popular-top10"></div>
+        </section>
+
+        <section class="fmodal-section">
+          <p class="fmodal-section__label">人気エリア</p>
+          <div class="fmodal-area-chips" id="pane-popular-areas"></div>
+        </section>
+
+        <section class="fmodal-section" id="pane-popular-recent-section" hidden>
+          <p class="fmodal-section__label">最近見た推し</p>
+          <div class="fmodal-top10-grid" id="pane-popular-recent"></div>
+        </section>
+      </div>
+
+      <!-- ===== 推しタブ ===== -->
+      <div id="pane-talent" class="fmodal__pane fmodal__pane--two-col" role="tabpanel" hidden>
+        <!-- SP: 50音水平タブ -->
+        <div class="fmodal-kana-sp-tabs-wrap">
+          <div class="fmodal-kana-sp-tabs" id="talent-kana-sp-tabs"></div>
+        </div>
+        <!-- PC: 左ペイン -->
+        <div class="fmodal-kana-pane" id="talent-kana-pane"></div>
+        <!-- 右ペイン / SP全幅 -->
+        <div class="fmodal-talent-list" id="talent-group-list"></div>
+      </div>
+
+      <!-- ===== エリアタブ ===== -->
+      <div id="pane-pref" class="fmodal__pane fmodal__pane--two-col" role="tabpanel" hidden>
+        <!-- SP: 地方水平スクロール -->
+        <div class="fmodal-region-sp-scroll-wrap">
+          <div class="fmodal-region-sp-scroll" id="pref-region-sp-scroll"></div>
+        </div>
+        <!-- PC: 左ペイン -->
+        <div class="fmodal-region-pane" id="pref-region-pane"></div>
+        <!-- 都道府県リスト -->
+        <div class="fmodal-pref-list" id="pref-list"></div>
+      </div>
+
+    </div><!-- /.fmodal__filter-body -->
+
+    <!-- フッター -->
+    <div class="fmodal__filter-footer">
+      <button class="fmodal__reset-btn" id="filter-reset-all">リセット</button>
+      <button class="fmodal__apply-btn" id="filter-apply-btn">お店を見る →</button>
     </div>
-  </div>
-</div>
+
+  </div><!-- /.fmodal--filter -->
+</div><!-- /#filter-modal-overlay -->
 
 <!-- hidden: ジャンルフィルター（URLパラメーター対応） -->
 <div style="display:none">
@@ -133,3 +171,4 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
 <script>const SITE_BASEURL = '{{ site.baseurl }}';</script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/map.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/filter.js' | relative_url }}"></script>
