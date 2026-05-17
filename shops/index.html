@@ -9,12 +9,11 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   <div class="container fbar__row">
     <div class="fbar__group-dots" id="fbar-group-dots"></div>
     <p class="fbar__summary" id="fbar-summary">全グループ表示中</p>
-    <button class="fbar__btn fbar__btn--change" id="group-modal-open">変更 ▾</button>
-    <button class="fbar__btn" id="search-toggle">🔍 検索</button>
+    <button class="fbar__btn fbar__btn--change" id="group-modal-open">推し ▾</button>
     <button class="fbar__btn" id="area-modal-open">📍 エリア</button>
   </div>
-  <!-- 検索パネル（トグル） -->
-  <div class="fbar__search-panel" id="fbar-search-panel" style="display:none">
+  <!-- 検索パネル（常時表示） -->
+  <div class="fbar__search-panel" id="fbar-search-panel">
     <div class="container">
       <input type="text" id="search-input" class="fbar__search-input" placeholder="お店名・住所・メンバー名で検索...">
     </div>
@@ -85,6 +84,13 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
         <button class="tab-btn" data-view="map">地図</button>
       </div>
     </div>
+  </div>
+</div>
+
+<!-- ジャンルピル -->
+<div class="genre-pills-bar">
+  <div class="container">
+    <div class="genre-pills" id="genre-pills"></div>
   </div>
 </div>
 

@@ -307,7 +307,7 @@ img { max-width: 100%; display: block; }
 .fbar__btn--change { border-color: var(--c-berry); color: var(--c-berry); }
 .fbar__btn--change:hover, .fbar__btn--active { background: var(--c-berry); color: #fff; border-color: var(--c-berry); }
 
-.fbar__search-panel { padding: 8px 0; border-top: 1px solid var(--color-border); }
+.fbar__search-panel { padding: 6px 0 8px; border-top: 1px solid var(--color-border); }
 .fbar__search-input {
   width: 100%; padding: 9px 14px;
   border: 1.5px solid var(--color-border); border-radius: 8px;
@@ -317,6 +317,35 @@ img { max-width: 100%; display: block; }
 .fbar__search-input:focus { outline: none; border-color: var(--c-berry); }
 
 .fbar__chips-row { padding: 4px 0 8px; }
+
+/* ===========================
+   Genre Pills Bar
+=========================== */
+.genre-pills-bar {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-bg);
+}
+.genre-pills {
+  display: flex; gap: 6px;
+  overflow-x: auto; scrollbar-width: none; padding-bottom: 2px;
+}
+.genre-pills::-webkit-scrollbar { display: none; }
+.genre-pill {
+  padding: 6px 14px; border-radius: 999px;
+  border: 1.5px solid var(--color-border);
+  background: #fff; color: var(--color-text);
+  font-size: 0.8rem; font-weight: 600; cursor: pointer;
+  white-space: nowrap; flex-shrink: 0;
+  transition: var(--transition);
+}
+.genre-pill:hover { border-color: var(--c-berry); color: var(--c-berry); }
+.genre-pill.active { background: var(--c-berry); color: #fff; border-color: var(--c-berry); }
+.fbar__chip--genre {
+  background: rgba(183,42,101,0.08);
+  border: 1px solid rgba(183,42,101,0.3);
+  color: var(--c-berry);
+}
 .fbar__chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .fbar__chip {
   display: inline-flex; align-items: center; gap: 4px;

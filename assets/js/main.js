@@ -69,6 +69,28 @@ function initFromUrlParams() {
 function populateFilters() {
   const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].sort();
   fillSelect('filter-genre', genres);
+  renderGenrePills(genres);
+}
+
+function renderGenrePills(genres) {
+  const container = document.getElementById('genre-pills');
+  if (!container) return;
+  const currentGenre = document.getElementById('filter-genre')?.value || '';
+  const pills = [{ value: '', label: 'すべて' }].concat(
+    genres.map(g => ({ value: g, label: (GENRE_ICONS[g] ? GENRE_ICONS[g] + ' ' : '') + g }))
+  );
+  container.innerHTML = pills.map(({ value, label }) =>
+    `<button class="genre-pill${value === currentGenre ? ' active' : ''}" data-genre="${escHtml(value)}">${escHtml(label)}</button>`
+  ).join('');
+  container.querySelectorAll('.genre-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.getElementById('filter-genre').value = btn.dataset.genre;
+      container.querySelectorAll('.genre-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      applyFilters();
+      updateFilterChips();
+    });
+  });
 }
 
 function fillSelect(id, options) {
@@ -204,10 +226,12 @@ function updateFilterChips() {
   const row       = document.getElementById('fbar-chips-row');
   if (!container) return;
 
+  const currentGenre = document.getElementById('filter-genre')?.value || '';
   const hasGroups = selectedGroups.size > 0;
   const hasPrefs  = selectedPrefs.size > 0;
+  const hasGenre  = !!currentGenre;
 
-  if (!hasGroups && !hasPrefs) {
+  if (!hasGroups && !hasPrefs && !hasGenre) {
     if (row) row.style.display = 'none';
     container.innerHTML = '';
     return;
@@ -231,7 +255,14 @@ function updateFilterChips() {
     </span>`
   );
 
-  container.innerHTML = groupChips.concat(prefChips).join('');
+  const genreChips = hasGenre ? [
+    `<span class="fbar__chip fbar__chip--genre">
+      ${escHtml((GENRE_ICONS[currentGenre] || '') + ' ' + currentGenre)}
+      <button class="fbar__chip__remove" id="genre-chip-remove" aria-label="${escHtml(currentGenre)}を外す">×</button>
+    </span>`
+  ] : [];
+
+  container.innerHTML = groupChips.concat(prefChips).concat(genreChips).join('');
 
   container.querySelectorAll('.fbar__chip__remove[data-remove-group]').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -244,6 +275,13 @@ function updateFilterChips() {
       selectedPrefs.delete(btn.dataset.removePref);
       applyFilters(); updateFilterChips();
     });
+  });
+
+  document.getElementById('genre-chip-remove')?.addEventListener('click', () => {
+    document.getElementById('filter-genre').value = '';
+    document.querySelectorAll('.genre-pill').forEach(b => b.classList.toggle('active', b.dataset.genre === ''));
+    applyFilters();
+    updateFilterChips();
   });
 }
 
@@ -710,19 +748,6 @@ function restoreFavButtons() {
 // イベントリスナー
 // ===========================
 document.addEventListener('DOMContentLoaded', () => {
-  // 検索トグル
-  const searchToggle = document.getElementById('search-toggle');
-  if (searchToggle) {
-    searchToggle.addEventListener('click', function() {
-      const panel = document.getElementById('fbar-search-panel');
-      if (!panel) return;
-      const showing = panel.style.display !== 'none';
-      panel.style.display = showing ? 'none' : '';
-      this.classList.toggle('fbar__btn--active', !showing);
-      if (!showing) document.getElementById('search-input')?.focus();
-    });
-  }
-
   // 検索入力
   document.getElementById('search-input')?.addEventListener('input', applyFilters);
 
