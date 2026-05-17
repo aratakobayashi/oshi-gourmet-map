@@ -29,6 +29,9 @@ let tempSelectedPrefs  = new Set();
 let activeRegion       = null;
 let userLat            = null;
 let userLng            = null;
+let displayCount       = 120;
+let currentSortedShops = [];
+const PAGE_SIZE        = 120;
 
 // ===========================
 // データ読み込み
@@ -73,6 +76,45 @@ function populateFilters() {
   const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].sort();
   fillSelect('filter-genre', genres);
   renderGenrePills(genres);
+  renderGroupPills();
+}
+
+function renderGroupPills() {
+  const container = document.getElementById('group-pills');
+  if (!container || !allShops.length) return;
+
+  const groups = [...new Set(allShops.flatMap(s => s.groups || []))];
+  groups.sort((a, b) =>
+    allShops.filter(s => (s.groups || []).includes(b)).length -
+    allShops.filter(s => (s.groups || []).includes(a)).length
+  );
+
+  const activePill = selectedGroups.size === 1 ? [...selectedGroups][0] : null;
+
+  container.innerHTML = groups.map(g => {
+    const label = GROUP_LABELS[g] || g;
+    const color = GROUP_SOLID_COLORS[g] || '#b72a65';
+    const isActive = g === activePill;
+    const style = isActive
+      ? `background:${color};border-color:${color};color:#fff`
+      : `border-color:${color}40;color:${color}`;
+    return `<button class="group-pill" data-group="${escHtml(g)}" style="${style}">${escHtml(label)}</button>`;
+  }).join('');
+
+  container.querySelectorAll('.group-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const g = btn.dataset.group;
+      if (selectedGroups.size === 1 && selectedGroups.has(g)) {
+        selectedGroups.clear();
+      } else {
+        selectedGroups.clear();
+        selectedGroups.add(g);
+      }
+      applyFilters();
+      updateFilterBar();
+      updateFilterChips();
+    });
+  });
 }
 
 function renderGenrePills(genres) {
@@ -215,6 +257,7 @@ const REGION_MAP = {
 // ===========================
 function updateFilterBar() {
   renderGroupDots();
+  renderGroupPills();
   const el = document.getElementById('fbar-summary');
   if (!el) return;
   if (selectedGroups.size === 0) {
@@ -571,11 +614,15 @@ function sortShops(shops) {
 // カードグリッド描画
 // ===========================
 function renderGrid(shops) {
-  shops = sortShops(shops);
+  currentSortedShops = sortShops(shops);
+  displayCount = PAGE_SIZE;
+  window.scrollTo(0, 0);
+
   const grid = document.getElementById('shop-grid');
   if (!grid) return;
 
-  if (shops.length === 0) {
+  if (currentSortedShops.length === 0) {
+    renderMoreButton();
     const query = document.getElementById('search-input')?.value.trim() || '';
     const hasFilter = selectedGroups.size > 0 || selectedPrefs.size > 0
       || !!document.getElementById('filter-genre')?.value;
@@ -631,8 +678,39 @@ function renderGrid(shops) {
     });
     return;
   }
-  grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
+
+  grid.innerHTML = currentSortedShops.slice(0, displayCount).map(s => buildShopCard(s)).join('');
   restoreFavButtons();
+  renderMoreButton();
+}
+
+function renderMoreButton() {
+  const btnWrap = document.getElementById('more-btn-wrap');
+  if (!btnWrap) return;
+
+  if (!currentSortedShops.length || displayCount >= currentSortedShops.length) {
+    btnWrap.innerHTML = '';
+    return;
+  }
+
+  const remaining = currentSortedShops.length - displayCount;
+  btnWrap.innerHTML = `<button class="more-btn" id="more-btn">もっと見る（残り${remaining}件）</button>`;
+
+  document.getElementById('more-btn').addEventListener('click', () => {
+    const btn = document.getElementById('more-btn');
+    btn.disabled = true;
+    btn.innerHTML = '<span class="more-btn__spinner"></span>';
+
+    const newItems = currentSortedShops.slice(displayCount, displayCount + PAGE_SIZE);
+    displayCount += PAGE_SIZE;
+
+    const grid = document.getElementById('shop-grid');
+    const tpl = document.createElement('template');
+    tpl.innerHTML = newItems.map(s => buildShopCard(s)).join('');
+    grid.append(tpl.content);
+    restoreFavButtons();
+    renderMoreButton();
+  });
 }
 
 function buildShopCard(shop) {
