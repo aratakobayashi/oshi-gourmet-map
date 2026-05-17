@@ -1500,6 +1500,40 @@ img { max-width: 100%; display: block; }
 /* ===========================
    Utilities
 =========================== */
+/* ===========================
+   Skeleton Loading
+=========================== */
+@keyframes skel-shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position:  600px 0; }
+}
+.skel-block, .skel-line {
+  background: linear-gradient(90deg, #efefef 25%, #e0e0e0 50%, #efefef 75%);
+  background-size: 1200px 100%;
+  animation: skel-shimmer 1.4s infinite linear;
+  border-radius: 4px;
+}
+.shop-card--skeleton { pointer-events: none; }
+.shop-card--skeleton .shop-card__thumb { background: none; }
+.shop-card--skeleton .skel-block { position: absolute; inset: 0; border-radius: 0; }
+.skel-line { height: 11px; margin-bottom: 9px; }
+.skel-line--s { width: 38%; }
+.skel-line--m { width: 62%; }
+.skel-line--l { width: 90%; }
+
+/* ===========================
+   Nearby: Distance badge + Toast
+=========================== */
+.shop-card__distance { font-size: 0.75rem; color: var(--c-berry); font-weight: 700; margin-top: 4px; }
+
+.shop-toast {
+  position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%) translateY(12px);
+  background: #1a1a2e; color: #fff; padding: 10px 20px; border-radius: 999px;
+  font-size: 0.85rem; z-index: 9999; opacity: 0; transition: opacity 0.25s, transform 0.25s;
+  white-space: nowrap; pointer-events: none;
+}
+.shop-toast--show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
 .loading { text-align: center; padding: 48px; color: var(--color-text-muted); }
 .empty-message { text-align: center; padding: 48px; color: var(--color-text-muted); }
 .no-results {

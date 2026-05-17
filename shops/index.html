@@ -81,6 +81,7 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
       <select id="sort-select" class="filter-select filter-select--sort">
         <option value="recent">新着順 ▾</option>
         <option value="video">動画あり順</option>
+        <option value="nearby">📍 近い順</option>
       </select>
       <div class="view-tabs">
         <button class="tab-btn active" data-view="grid">写真</button>
@@ -101,7 +102,17 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
 <div id="shop-list-wrap">
   <div class="container">
     <div class="shop-cards" id="shop-grid">
-      <p class="loading">読み込み中...</p>
+      {% for i in (1..6) %}
+      <div class="shop-card shop-card--skeleton" aria-hidden="true">
+        <div class="shop-card__thumb"><div class="skel-block"></div></div>
+        <div class="shop-card__body">
+          <div class="skel-line skel-line--s"></div>
+          <div class="skel-line skel-line--l"></div>
+          <div class="skel-line skel-line--m"></div>
+          <div class="skel-line skel-line--s"></div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </div>

@@ -27,6 +27,8 @@ let selectedPrefs      = new Set();
 let tempSelectedGroups = new Set();
 let tempSelectedPrefs  = new Set();
 let activeRegion       = null;
+let userLat            = null;
+let userLng            = null;
 
 // ===========================
 // データ読み込み
@@ -547,6 +549,13 @@ function getSortMode() {
 
 function sortShops(shops) {
   const mode = getSortMode();
+  if (mode === 'nearby' && userLat !== null) {
+    return [...shops].sort((a, b) => {
+      const da = (a.lat && a.lng) ? haversineDistance(userLat, userLng, a.lat, a.lng) : Infinity;
+      const db = (b.lat && b.lng) ? haversineDistance(userLat, userLng, b.lat, b.lng) : Infinity;
+      return da - db;
+    });
+  }
   if (mode === 'video') {
     return [...shops].sort((a, b) => (b.youtube_id ? 1 : 0) - (a.youtube_id ? 1 : 0));
   }
@@ -668,6 +677,10 @@ function buildShopCard(shop) {
   const videoHtml = shop.source_video_title
     ? `<p class="shop-card__video">${videoIcon} ${escHtml(shop.source_video_title)}</p>` : '';
 
+  const distHtml = (userLat !== null && getSortMode() === 'nearby' && shop.lat && shop.lng)
+    ? `<p class="shop-card__distance">🧭 ${haversineDistance(userLat, userLng, shop.lat, shop.lng).toFixed(1)} km</p>`
+    : '';
+
   const shopSlug = shop.id.replace(/_/g, '-').replace(/-{2,}/g, '-').replace(/-+$/g, '');
   const detailUrl = `${base}/shops/${shopSlug}/`;
 
@@ -681,6 +694,7 @@ function buildShopCard(shop) {
         ${metaRow}
         <p class="shop-card__name">${escHtml(shop.name)}</p>
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
+        ${distHtml}
         ${memberHtml}
         ${visitedHtml}
         ${videoHtml}
@@ -771,6 +785,41 @@ function switchView(view) {
 // ===========================
 // ユーティリティ
 // ===========================
+function haversineDistance(lat1, lng1, lat2, lng2) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a = Math.sin(dLat / 2) ** 2
+    + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLng / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+function showToast(message) {
+  const existing = document.getElementById('shop-toast');
+  if (existing) existing.remove();
+  const el = document.createElement('div');
+  el.id = 'shop-toast';
+  el.className = 'shop-toast';
+  el.textContent = message;
+  document.body.appendChild(el);
+  requestAnimationFrame(() => el.classList.add('shop-toast--show'));
+  setTimeout(() => {
+    el.classList.remove('shop-toast--show');
+    setTimeout(() => el.remove(), 300);
+  }, 3000);
+}
+
+function requestGeolocation() {
+  return new Promise((resolve, reject) => {
+    if (!navigator.geolocation) { reject(new Error('unsupported')); return; }
+    navigator.geolocation.getCurrentPosition(
+      pos => resolve({ lat: pos.coords.latitude, lng: pos.coords.longitude }),
+      err => reject(err),
+      { timeout: 8000 }
+    );
+  });
+}
+
 function escHtml(str) {
   if (str == null) return '';
   return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -888,8 +937,30 @@ document.addEventListener('DOMContentLoaded', () => {
     else if (document.getElementById('area-modal-overlay')?.classList.contains('open')) closeAreaModal();
   });
 
-  // ソート
-  document.getElementById('sort-select')?.addEventListener('change', () => renderGrid(filteredShops));
+  // ソート（近い順はGeolocation取得を待つ）
+  document.getElementById('sort-select')?.addEventListener('change', async function() {
+    if (this.value === 'nearby') {
+      if (userLat !== null) {
+        renderGrid(filteredShops);
+        return;
+      }
+      this.disabled = true;
+      try {
+        const { lat, lng } = await requestGeolocation();
+        userLat = lat;
+        userLng = lng;
+        renderGrid(filteredShops);
+      } catch {
+        this.value = 'recent';
+        showToast('現在地を取得できませんでした。位置情報の許可を確認してください。');
+        renderGrid(filteredShops);
+      } finally {
+        this.disabled = false;
+      }
+    } else {
+      renderGrid(filteredShops);
+    }
+  });
 
   // タブ
   document.querySelectorAll('.tab-btn').forEach(btn => {
