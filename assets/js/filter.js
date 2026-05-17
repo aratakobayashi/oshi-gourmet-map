@@ -149,6 +149,7 @@ function openFilterModal(tab) {
   _tempPrefs  = new Set(selectedPrefs);
   _searchQuery = '';
   _expandedGroup = null;
+  _kanaRow = null;
 
   const overlay = document.getElementById('filter-modal-overlay');
   if (!overlay) return;
@@ -163,9 +164,10 @@ function openFilterModal(tab) {
 
   _switchTab(tab || 'popular');
 
-  requestAnimationFrame(() => {
-    if (searchEl) searchEl.focus();
-  });
+  // PC のみ自動フォーカス（SP はキーボードが即開くのを防ぐ）
+  if (window.innerWidth > 768) {
+    requestAnimationFrame(() => { if (searchEl) searchEl.focus(); });
+  }
 }
 
 // ===========================
@@ -250,9 +252,11 @@ function _switchTab(tab) {
     if (pane) pane.hidden = (t !== tab);
   });
 
-  // 検索プレースホルダー
+  // 検索をクリア（タブをまたいで検索クエリが引き継がれるのを防ぐ）
+  _searchQuery = '';
   const searchEl = document.getElementById('filter-modal-search');
   if (searchEl) {
+    searchEl.value = '';
     if (tab === 'talent') searchEl.placeholder = 'グループ・タレント名で検索...';
     else if (tab === 'pref') searchEl.placeholder = '都道府県名で検索...';
     else searchEl.placeholder = 'グループ・エリア名で検索...';
@@ -284,8 +288,9 @@ function _renderPopularTrending() {
   let groups = _filterGroups;
   if (q) groups = groups.filter(g => g.label.toLowerCase().includes(q) || g.reading.includes(q));
 
-  const top4 = groups.slice(0, 4);
-  el.innerHTML = top4.map(g => {
+  // TOP3 をショートカットカードとして表示
+  const top3 = groups.slice(0, 3);
+  el.innerHTML = top3.map(g => {
     const sel = _tempGroups.has(g.id);
     return `<button class="fmodal-trend-card${sel ? ' fmodal-trend-card--sel' : ''}" data-gid="${escHtml(g.id)}"
       style="--gc:${escHtml(g.color)}">
@@ -312,12 +317,13 @@ function _renderPopularTop10() {
   let groups = _filterGroups;
   if (q) groups = groups.filter(g => g.label.toLowerCase().includes(q) || g.reading.includes(q));
 
-  const top10 = groups.slice(0, 10);
-  el.innerHTML = top10.map((g, i) => {
+  // 4位以降を表示（上位3件はトレンドカードと重複するため）
+  const rest = q ? groups : groups.slice(3);
+  el.innerHTML = rest.map((g, i) => {
+    const rank = q ? i + 1 : i + 4;
     const sel = _tempGroups.has(g.id);
-    const rankClass = i < 3 ? ' fmodal-top10-item--podium' : '';
-    return `<button class="fmodal-top10-item${rankClass}${sel ? ' fmodal-top10-item--sel' : ''}" data-gid="${escHtml(g.id)}">
-      <span class="fmodal-top10-item__rank">${i + 1}</span>
+    return `<button class="fmodal-top10-item${sel ? ' fmodal-top10-item--sel' : ''}" data-gid="${escHtml(g.id)}">
+      <span class="fmodal-top10-item__rank">${rank}</span>
       <span class="fmodal-top10-item__dot" style="background:${escHtml(g.color)}">${escHtml(g.initial)}</span>
       <span class="fmodal-top10-item__name">${escHtml(g.label)}</span>
       <span class="fmodal-top10-item__count">${g.count}件</span>
@@ -616,7 +622,7 @@ function _renderPrefList() {
     const cities = MAJOR_CITIES[p.name];
     if (cities && cities.length) {
       cityDrillHtml += `<div class="fmodal-city-drill">
-        <p class="fmodal-city-drill__label">${escHtml(p.name)}の主要エリア</p>
+        <p class="fmodal-city-drill__label">${escHtml(p.name)}の主要エリア（参考）</p>
         <div class="fmodal-city-chips">
           ${cities.map(c => `<span class="fmodal-city-chip">${escHtml(c)}</span>`).join('')}
         </div>
