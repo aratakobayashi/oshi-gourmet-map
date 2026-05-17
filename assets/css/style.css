@@ -315,6 +315,15 @@ img { max-width: 100%; display: block; }
   transition: var(--transition);
 }
 .fbar__search-input:focus { outline: none; border-color: var(--c-berry); }
+.fbar__search-wrap { position: relative; }
+.fbar__search-wrap .fbar__search-input { padding-right: 36px; }
+.fbar__search-clear {
+  position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; cursor: pointer;
+  color: var(--color-text-muted); font-size: 0.85rem; padding: 4px; line-height: 1;
+  transition: var(--transition);
+}
+.fbar__search-clear:hover { color: var(--color-text); }
 
 .fbar__chips-row { padding: 4px 0 8px; }
 
@@ -1493,7 +1502,27 @@ img { max-width: 100%; display: block; }
 =========================== */
 .loading { text-align: center; padding: 48px; color: var(--color-text-muted); }
 .empty-message { text-align: center; padding: 48px; color: var(--color-text-muted); }
-.no-results { grid-column: 1/-1; text-align: center; padding: 48px; color: var(--color-text-muted); }
+.no-results {
+  grid-column: 1/-1; text-align: center; padding: 48px 20px;
+}
+.no-results__icon { font-size: 2rem; margin-bottom: 8px; }
+.no-results__text { color: var(--color-text-muted); margin-bottom: 20px; font-size: 0.95rem; }
+.no-results__suggest-label { font-size: 0.8rem; color: var(--color-text-muted); margin-bottom: 8px; }
+.no-results__suggest-btns { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-bottom: 20px; }
+.no-results__suggest-btn {
+  padding: 6px 18px; border-radius: 999px;
+  border: 1.5px solid var(--c-berry); color: var(--c-berry);
+  background: #fff; cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  transition: var(--transition);
+}
+.no-results__suggest-btn:hover { background: var(--c-berry); color: #fff; }
+.no-results__reset {
+  padding: 9px 22px; border-radius: 8px;
+  background: var(--c-berry); color: #fff; border: none;
+  cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  transition: var(--transition);
+}
+.no-results__reset:hover { opacity: 0.85; }
 
 /* ===========================
    Responsive

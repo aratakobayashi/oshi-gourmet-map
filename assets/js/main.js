@@ -38,6 +38,7 @@ async function loadShops() {
 
   populateFilters();
   initFromUrlParams();
+  initPlaceholderRotation(allShops);
 
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
 }
@@ -91,6 +92,37 @@ function renderGenrePills(genres) {
       updateFilterChips();
     });
   });
+}
+
+function initPlaceholderRotation(shops) {
+  const input = document.getElementById('search-input');
+  if (!input) return;
+
+  const members = [...new Set(shops.flatMap(s => s.members || []))].filter(Boolean);
+  const shuffle = arr => {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  };
+  const samples = shuffle([
+    ...members.slice(0, 12).map(m => `「${m}」で検索`),
+    '「渋谷」で検索',
+    '「ラーメン」で検索',
+    '「Snow Man」で検索',
+    '「浅草」で検索',
+  ]);
+
+  let idx = 0;
+  const rotate = () => {
+    if (document.activeElement === input || input.value) return;
+    input.placeholder = samples[idx % samples.length] + '...';
+    idx++;
+  };
+  rotate();
+  setInterval(rotate, 3000);
 }
 
 function fillSelect(id, options) {
@@ -535,7 +567,59 @@ function renderGrid(shops) {
   if (!grid) return;
 
   if (shops.length === 0) {
-    grid.innerHTML = '<p class="no-results">該当するお店が見つかりませんでした。</p>';
+    const query = document.getElementById('search-input')?.value.trim() || '';
+    const hasFilter = selectedGroups.size > 0 || selectedPrefs.size > 0
+      || !!document.getElementById('filter-genre')?.value;
+
+    const groupSuggestions = query
+      ? Object.entries(GROUP_LABELS).filter(([k, v]) =>
+          v.includes(query) || k.toLowerCase().includes(query.toLowerCase())
+        ).slice(0, 3)
+      : [];
+
+    const suggestHtml = groupSuggestions.length
+      ? `<p class="no-results__suggest-label">もしかして:</p>
+         <div class="no-results__suggest-btns">
+           ${groupSuggestions.map(([k, v]) =>
+             `<button class="no-results__suggest-btn" data-group="${escHtml(k)}">${escHtml(v)}</button>`
+           ).join('')}
+         </div>`
+      : '';
+
+    grid.innerHTML = `
+      <div class="no-results">
+        <p class="no-results__icon">🔍</p>
+        <p class="no-results__text">「${escHtml(query || 'この条件')}」に一致するお店が見つかりませんでした。</p>
+        ${suggestHtml}
+        ${hasFilter
+          ? `<button class="no-results__reset" id="no-results-reset">フィルターをすべてリセット →</button>`
+          : ''}
+      </div>`;
+
+    grid.querySelectorAll('.no-results__suggest-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const input = document.getElementById('search-input');
+        if (input) { input.value = ''; document.getElementById('search-clear').hidden = true; }
+        document.getElementById('filter-genre').value = '';
+        document.querySelectorAll('.genre-pill').forEach(b => b.classList.toggle('active', b.dataset.genre === ''));
+        selectedGroups.clear();
+        selectedGroups.add(btn.dataset.group);
+        selectedPrefs.clear();
+        applyFilters(); updateFilterBar(); updateFilterChips();
+      });
+    });
+
+    document.getElementById('no-results-reset')?.addEventListener('click', () => {
+      const input = document.getElementById('search-input');
+      if (input) { input.value = ''; }
+      const clearBtn = document.getElementById('search-clear');
+      if (clearBtn) clearBtn.hidden = true;
+      document.getElementById('filter-genre').value = '';
+      document.querySelectorAll('.genre-pill').forEach(b => b.classList.toggle('active', b.dataset.genre === ''));
+      selectedGroups.clear();
+      selectedPrefs.clear();
+      applyFilters(); updateFilterBar(); updateFilterChips();
+    });
     return;
   }
   grid.innerHTML = shops.map(s => buildShopCard(s)).join('');
@@ -748,8 +832,19 @@ function restoreFavButtons() {
 // イベントリスナー
 // ===========================
 document.addEventListener('DOMContentLoaded', () => {
-  // 検索入力
-  document.getElementById('search-input')?.addEventListener('input', applyFilters);
+  // 検索入力 + クリアボタン
+  document.getElementById('search-input')?.addEventListener('input', function() {
+    const btn = document.getElementById('search-clear');
+    if (btn) btn.hidden = !this.value;
+    applyFilters();
+  });
+  document.getElementById('search-clear')?.addEventListener('click', () => {
+    const input = document.getElementById('search-input');
+    if (input) { input.value = ''; input.focus(); }
+    const btn = document.getElementById('search-clear');
+    if (btn) btn.hidden = true;
+    applyFilters();
+  });
 
   // ジャンル（hidden）
   document.getElementById('filter-genre')?.addEventListener('change', applyFilters);
