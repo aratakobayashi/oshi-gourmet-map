@@ -3501,6 +3501,16 @@ body {
   margin-top: auto;
   padding-top: 4px;
 }
+.alc__shop-count {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #be185d;
+  background: #fce7f3;
+  border-radius: 4px;
+  padding: 2px 7px;
+  margin-top: 6px;
+}
 
 /* レスポンシブ */
 @media (max-width: 1023px) {
@@ -3826,11 +3836,11 @@ body {
   gap: 14px;
 }
 
-/* 5枚目以降: フル幅 2列 */
+/* 5枚目以降: フル幅 3列 */
 .ap-matome-extra {
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
 
