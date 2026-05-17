@@ -196,6 +196,7 @@ function _registerEvents() {
     _searchQuery = this.value.trim().toLowerCase();
     if (_filterTab === 'talent') _renderTalent();
     else if (_filterTab === 'popular') _renderPopular();
+    else if (_filterTab === 'pref') _renderPref();
   });
 
   // 適用 / リセット
@@ -518,7 +519,7 @@ function _renderTalentList() {
     el.addEventListener('click', e => {
       e.stopPropagation();
       _toggleGroup(el.dataset.gid);
-      _renderTalentList();
+      _renderTalent();
       _saveRecentOshi(el.dataset.gid);
     });
   });
@@ -529,7 +530,7 @@ function _renderTalentList() {
       if (e.target.closest('.fmodal-group-expand') || e.target.closest('.fmodal-group-check')) return;
       const gid = el.closest('[data-gid]').dataset.gid;
       _toggleGroup(gid);
-      _renderTalentList();
+      _renderTalent();
       _saveRecentOshi(gid);
     });
   });
@@ -550,7 +551,7 @@ function _renderTalentList() {
       e.stopPropagation();
       _toggleGroup(chip.dataset.gid);
       _saveRecentOshi(chip.dataset.gid);
-      _renderTalentList();
+      _renderTalent();
     });
   });
 }
@@ -668,8 +669,8 @@ function _renderSelectedStack() {
       _renderSelectedStack();
       _updateApplyBtn();
       if (_filterTab === 'popular') _renderPopular();
-      else if (_filterTab === 'talent') _renderTalentList();
-      else if (_filterTab === 'pref') _renderPrefList();
+      else if (_filterTab === 'talent') _renderTalent();
+      else if (_filterTab === 'pref') _renderPref();
     });
   });
 }
