@@ -184,9 +184,7 @@ function _registerEvents() {
   document.getElementById('filter-modal-overlay')?.addEventListener('click', function(e) {
     if (e.target === this) _close();
   });
-  document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape' && _filterOpen) _close();
-  });
+  // Escapeキーは main.js 側で一元管理
 
   // タブ切り替え
   document.querySelectorAll('.fmodal__filter-tab').forEach(btn => {
@@ -684,6 +682,7 @@ function _renderSelectedStack() {
 function _updateApplyBtn() {
   const btn = document.getElementById('filter-apply-btn');
   if (!btn) return;
+  if (!allShops || !allShops.length) return;
 
   const total = allShops.length;
 

@@ -673,8 +673,9 @@ function formatDate(dateStr) {
 
 function formatVisited(dateStr) {
   if (!dateStr) return '';
-  const [y, m] = dateStr.split('-');
-  return `${y}年${parseInt(m)}月`;
+  const parts = dateStr.split('-');
+  if (parts.length < 2 || !parts[1]) return parts[0] || dateStr;
+  return `${parts[0]}年${parseInt(parts[1])}月`;
 }
 
 function updateCount(n) {

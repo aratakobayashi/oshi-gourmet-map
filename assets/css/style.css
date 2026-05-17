@@ -4132,7 +4132,7 @@ body {
 }
 .fmodal-kana-sp-tab:hover { border-color: var(--c-berry); color: var(--c-berry); }
 .fmodal-kana-sp-tab--active { background: var(--c-berry); border-color: var(--c-berry); color: #fff; }
-.fmodal-kana-sp-tab--empty { opacity: 0.35; cursor: default; }
+.fmodal-kana-sp-tab--empty { opacity: 0.35; cursor: default; pointer-events: none; }
 
 /* PC: 左かなペイン */
 .fmodal-kana-pane {
@@ -4156,7 +4156,7 @@ body {
 }
 .fmodal-kana-btn:hover { background: #f0e8f4; color: var(--c-berry); }
 .fmodal-kana-btn--active { background: #fce8f2; color: var(--c-berry); }
-.fmodal-kana-btn--empty { opacity: 0.3; cursor: default; }
+.fmodal-kana-btn--empty { opacity: 0.3; cursor: default; pointer-events: none; }
 
 /* グループ行リスト */
 .fmodal-talent-list {
