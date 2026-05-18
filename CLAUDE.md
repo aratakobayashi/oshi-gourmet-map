@@ -82,7 +82,9 @@
   "thumbnail_url": "https://image.tmdb.org/t/p/w500/...",
   "source_type": "drama",
   "tmdb_id": 45753,
-  "tmdb_type": "tv"
+  "tmdb_type": "tv",
+  "ordered_items": ["カフェラテ", "スコーン"],
+  "seating_note": "カウンター席あり・テラス席からの眺望が動画のメインシーン"
 }
 ```
 

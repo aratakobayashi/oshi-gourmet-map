@@ -159,6 +159,33 @@ layout: default
   </section>
   {% endif %}
 
+  <!-- 訪問詳細（注文メニュー・座席） -->
+  {% if s.ordered_items or s.seating_note %}
+  <section class="shop-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">訪問時のポイント</h2>
+    </div>
+    <div class="visit-detail">
+      {% if s.ordered_items %}
+      <div class="visit-detail__block">
+        <p class="visit-detail__label">🍴 注文したメニュー</p>
+        <ul class="visit-detail__menu-list">
+          {% for item in s.ordered_items %}
+          <li class="visit-detail__menu-item">{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% if s.seating_note %}
+      <div class="visit-detail__block">
+        <p class="visit-detail__label">💺 座席・雰囲気</p>
+        <p class="visit-detail__seating">{{ s.seating_note }}</p>
+      </div>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
+
   <!-- 関連記事セクション -->
   {% assign related_posts = "" | split: "" %}
   {% for post in site.posts %}

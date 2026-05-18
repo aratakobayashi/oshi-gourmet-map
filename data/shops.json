@@ -347,7 +347,12 @@
         "label": "公式サイト",
         "url": "https://www.paulbassett.jp/store/shinjuku/"
       }
-    ]
+    ],
+    "ordered_items": [
+      "カフェラテ",
+      "フラットホワイト"
+    ],
+    "seating_note": "カウンター席中心。ビルB1Fの落ち着いた空間で、動画ではカウンターに並んで注文する場面が収録されている。"
   },
   {
     "id": "yonino-negiya-heikichi",
@@ -1919,7 +1924,19 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【油そばブーム到来】人生初になります",
-    "source_video_url": "https://www.youtube.com/watch?v=owkOeu-efg4"
+    "source_video_url": "https://www.youtube.com/watch?v=owkOeu-efg4",
+    "ordered_items": [
+      "特濃油そば・並盛（岩本照・阿部亮平・宮舘涼太）",
+      "武蔵野油そば・並盛（ラウール）",
+      "海苔三昧トッピング",
+      "温玉トッピング",
+      "明太マヨトッピング",
+      "ネギ胡麻トッピング",
+      "無限ライス",
+      "たまご掛けご飯",
+      "粉チーズ"
+    ],
+    "seating_note": "2階の座敷席。無限ライスとお水が置いてあるカウンターのすぐそばのテーブルに着席。券売機で先に注文するシステム。昼時は学生・近隣客で混雑するため時間帯をずらすのがおすすめ。"
   },
   {
     "id": "snowman-napure-minamiaoyama",

@@ -75,7 +75,8 @@ for shop in shops:
     for key in ["name","genre","prefecture","city","address",
                 "nearest_station","price_range","visited_date",
                 "youtube_id","source_video_title","source_video_url",
-                "group","tabelog_url","hotpepper_url","google_maps_url"]:
+                "group","tabelog_url","hotpepper_url","google_maps_url",
+                "seating_note"]:
         v = shop.get(key)
         if v is not None and v != "":
             lines.append(f"{key}: {yaml_str(v)}")
@@ -87,7 +88,7 @@ for shop in shops:
             lines.append(f"{key}: {v}")
 
     # list fields
-    for key in ["members","groups","tags"]:
+    for key in ["members","groups","tags","ordered_items"]:
         v = shop.get(key)
         if v:
             lines.append(f"{key}:{yaml_list(v)}")
