@@ -13,6 +13,7 @@ youtube_id: "RcjctEjNWzE"
 source_video_title: "Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ㊗️"
 source_video_url: "https://www.youtube.com/watch?v=S9-X-o7xTyk"
 group: "snowman"
+seating_note: "SnowManが座った席は、「特別室 松の間」です。"
 lat: 35.6084
 lng: 139.7319
 members:

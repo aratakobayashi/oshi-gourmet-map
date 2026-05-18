@@ -13,6 +13,7 @@ youtube_id: "oEsMgH5QhFQ"
 source_video_title: "Snow Man【釣り部結成記念食事会】鰻を食べよう"
 source_video_url: "https://www.youtube.com/watch?v=oEsMgH5QhFQ"
 group: "snowman"
+seating_note: "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。"
 lat: 35.759
 lng: 139.5303
 members:

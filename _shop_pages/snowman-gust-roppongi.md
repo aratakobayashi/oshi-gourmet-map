@@ -13,6 +13,7 @@ youtube_id: "SVXHY5KpPuA"
 source_video_title: "Snow Man【ガストでお腹いっぱいになろう！】６周年の記念日はドリンクバーで乾杯！"
 source_video_url: "https://www.youtube.com/watch?v=0hX0X9uW-98"
 group: "snowman"
+seating_note: "SnowManメンバーがガスト六本木店で座った席は、53番のテーブル席です。 壁沿いのソファがある広いお席でしたね。"
 lat: 35.663
 lng: 139.7302
 members:

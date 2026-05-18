@@ -1862,7 +1862,8 @@
     ],
     "affiliate_links": [],
     "source_video_url": "https://www.youtube.com/watch?v=S9-X-o7xTyk",
-    "source_video_title": "Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ㊗️"
+    "source_video_title": "Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ㊗️",
+    "seating_note": "SnowManが座った席は、「特別室 松の間」です。"
   },
   {
     "id": "snowman-kitchen-rocco-hachioji",
@@ -1967,7 +1968,8 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【みんなでピザが食べたい】スタジアムライブ直前です",
-    "source_video_url": "https://www.youtube.com/watch?v=BVjwdZw66Ms"
+    "source_video_url": "https://www.youtube.com/watch?v=BVjwdZw66Ms",
+    "seating_note": "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
   },
   {
     "id": "snowman-sarashina-horii-motoazabu",
@@ -1999,7 +2001,8 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる",
-    "source_video_url": "https://www.youtube.com/watch?v=Ax1f_OVispA"
+    "source_video_url": "https://www.youtube.com/watch?v=Ax1f_OVispA",
+    "seating_note": "小上がりのお席に座っていました。 富士山の絵が目印です。"
   },
   {
     "id": "snowman-wagaya-shokudo-kasai",
@@ -2031,7 +2034,8 @@
     ],
     "affiliate_links": [],
     "source_video_url": "https://www.youtube.com/watch?v=vV0iY7rR6-s",
-    "source_video_title": "Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう 笑笑"
+    "source_video_title": "Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう 笑笑",
+    "seating_note": "4人が座ったのは、入口から左手のテーブル席ゾーンの中、真ん中の島になっているテーブル席だと思います。 ↓こちらのGoogleマップのお写真の真ん中テーブル席 座り順：右奥が深澤さん・その左隣が岩本さん・右手前がラウールさん・その左隣が目黒さん"
   },
   {
     "id": "snowman-yakuzenya-ebisu",
@@ -2062,7 +2066,8 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ",
-    "source_video_url": "https://www.youtube.com/watch?v=GpPJOgdEbhE"
+    "source_video_url": "https://www.youtube.com/watch?v=GpPJOgdEbhE",
+    "seating_note": "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
   },
   {
     "id": "snowman-ginza-sushi-banya-kai",
@@ -2123,7 +2128,19 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【思い出のあの場所で…焼肉】完全プライベートですみません",
-    "source_video_url": "https://www.youtube.com/watch?v=m357q_FwBCE"
+    "source_video_url": "https://www.youtube.com/watch?v=m357q_FwBCE",
+    "ordered_items": [
+      "はみ出るカルビ（タレ）",
+      "はみ出たいハラミ",
+      "ふたご盛り",
+      "まかない丼",
+      "ポテトサラダ",
+      "厚切りタン塩",
+      "中ライス（目黒さん追加オーダー）",
+      "一口冷麺",
+      "ポテバニ",
+      "俺じなるヨーグルト"
+    ]
   },
   {
     "id": "snowman-ore-no-kappo-ebisu",
@@ -2339,7 +2356,8 @@
       "広東料理"
     ],
     "affiliate_links": [],
-    "source_video_url": "https://www.youtube.com/watch?v=K3f8M7-uPtg"
+    "source_video_url": "https://www.youtube.com/watch?v=K3f8M7-uPtg",
+    "seating_note": "SnowManメンバーが座った席は、パンダの絵が飾られている特徴的なお部屋でした。 こちらのお部屋は、【真珠（しんじゅ）】という個室だと思われます。 真珠個室についての詳細はこちら↓ お店のホームページに個室料がかかると記載されておりましたが、問い合わせたところ、15名以上かつ一人6000円以上飲食すると個室料はかからないとのことでした。※2024年12月時点の情報です。 パンダの絵の真珠個室は、トイレに向かう階段付近にありました"
   },
   {
     "id": "yonino-gyoza-ohsho-shimbashi",
@@ -2694,7 +2712,8 @@
     ],
     "affiliate_links": [],
     "source_video_url": "https://www.youtube.com/watch?v=0hX0X9uW-98",
-    "source_video_title": "Snow Man【ガストでお腹いっぱいになろう！】６周年の記念日はドリンクバーで乾杯！"
+    "source_video_title": "Snow Man【ガストでお腹いっぱいになろう！】６周年の記念日はドリンクバーで乾杯！",
+    "seating_note": "SnowManメンバーがガスト六本木店で座った席は、53番のテーブル席です。 壁沿いのソファがある広いお席でしたね。"
   },
   {
     "id": "snowman-kokonotsu-kitasenju",
@@ -2785,7 +2804,8 @@
     ],
     "affiliate_links": [],
     "source_video_title": "Snow Man【釣り部結成記念食事会】鰻を食べよう",
-    "source_video_url": "https://www.youtube.com/watch?v=oEsMgH5QhFQ"
+    "source_video_url": "https://www.youtube.com/watch?v=oEsMgH5QhFQ",
+    "seating_note": "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。"
   },
   {
     "id": "snowman-de-salita-akasaka",
@@ -4369,7 +4389,8 @@
     "source_video_title": "Snow Man【市場内の食堂で昼メシ】定食ってたまらんね",
     "source_video_url": "https://www.youtube.com/watch?v=1cQeue2ITFU",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "seating_note": "店内入って左手のテーブル席に座りました。 手前壁寄りが向井さん、通路寄りが渡辺さん、奥壁寄りがラウールさん、通路寄りが阿部さんという席順でした。"
   },
   {
     "id": "sixtones-yykafeidian喜園咖啡店",
@@ -6653,7 +6674,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1309/A130905/13052248/"
       }
-    ]
+    ],
+    "seating_note": "Snow Manラウールさん・渡辺翔太さん・向井康二さん・宮舘涼太さんがしゃぶ禅神楽坂店で座ったお席は、4人用の掘りごたつの完全個室だと思われます。 お席については相談もできると公式サイトに記載がありました。 掘りごたつのお座敷席は、一人当たり330円の使用料がかかるそうです。予約時にお席の指定もできました。"
   },
   {
     "id": "snowman-浅草むぎとろ本店-20260415",
@@ -6682,6 +6704,13 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1311/A131102/13003680/"
       }
+    ],
+    "seating_note": "Snow Man深澤辰哉さん・向井康二さん・阿部亮平さん・佐久間大介さんが浅草むぎとろ本店で座ったお席は、3階20人用個室『蔵前』というお部屋だと思われます。 浅草むぎとろ本店には人数や雰囲気ごとに複数の個室があります。お部屋の指定はできないそうです。",
+    "ordered_items": [
+      "懐石料理：9900円～、お席の予約可",
+      "定食：2530円～、お席予約時は最低注文料金3300円～",
+      "天空とろろビュッフェ：3300円、80分入替制",
+      "むぎとろバイキング：1650円、平日11:00～14:00限定、予約不可順番制"
     ]
   },
   {
@@ -6802,7 +6831,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1327/A132703/13019167/"
       }
-    ]
+    ],
+    "seating_note": "SnowManメンバーは外のお席でケーキを食べていました。 赤い建物の道路沿いのお席です↓"
   },
   {
     "id": "kamenashi-ミートファクトリーしまちゃん-20250521",
@@ -13687,7 +13717,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1317/A131703/13256676/"
       }
-    ]
+    ],
+    "seating_note": "SnowManが座った席は、2階の座敷窓際のお席。"
   },
   {
     "id": "snowman-kushigen-edogawabashi",
@@ -20587,5 +20618,385 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv"
+  },
+  {
+    "id": "snowman-baro-20250702",
+    "name": "Baro (ベロ)",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋2-1-13",
+    "lat": 35.7284313,
+    "lng": 139.7017131,
+    "youtube_id": "ZcWG2Ra3RcI",
+    "source_video_title": "【すのちゅーぶ】古着屋「Baro (ベロ)」は『あいことば』MVで向井康二・阿部亮平が撮影した場所？SnowManロケ地",
+    "visited_date": "2025-07-02",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「目白駅」より徒歩6分「池袋駅」より徒歩8分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-rapace-20250508",
+    "name": "Rapace",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "町田市",
+    "address": "東京都町田市原町田１丁目１０−１７ メゾンドA2",
+    "lat": 35.5390964,
+    "lng": 139.4480922,
+    "youtube_id": "UhK_38vVRCU",
+    "source_video_title": "【すのちゅーぶ】フクロウカフェ町田「Rapace」予約方法は？SnowManロケ地",
+    "visited_date": "2025-05-08",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「町田駅」より徒歩7分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-4176fc13-20250506",
+    "name": "キッチンぴーなっつ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "address": "東京都荒川区西尾久6-18-1",
+    "lat": 35.750299,
+    "lng": 139.7580339,
+    "youtube_id": "gUa2iAE2R0Y",
+    "source_video_title": "【すのちゅーぶ】荒川洋食「キッチンぴーなっつ」食べたメニューは？予約できる？SnowManロケ地",
+    "visited_date": "2025-05-06",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「荒川遊園地前停留所」より徒歩３分「尾久駅」より徒歩12分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-f27b9ed6-20250504",
+    "name": "深川富士見",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区古石場2-18-5",
+    "lat": 35.6680295,
+    "lng": 139.7968481,
+    "youtube_id": "EsGRecRQoZs",
+    "source_video_title": "【すのちゅーぶ】東京湾海釣り「深川富士見」予約方法は？作った料理は？SnowManロケ地",
+    "visited_date": "2025-05-04",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「門前仲町駅」より徒歩13分※送迎バスあり",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-captains_grill_and_b-20250429",
+    "name": "Captain’s Grill and Bar",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "address": "神奈川県川崎市川崎区殿町3-25-11",
+    "lat": 35.5410017,
+    "lng": 139.753172,
+    "youtube_id": "99-SIhGTrYg",
+    "source_video_title": "【すのちゅーぶ】羽田空港が見える「川崎キングスカイフロント東急REIホテル₋Captain’s Grill and Bar-」SnowManロケ地",
+    "visited_date": "2025-04-29",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "・羽田空港から無料シャトルバス・川崎駅から無料シャトルバス・羽田空港から臨港バス・京急バス「キングスカイフロント（西）」バス停より徒歩3分・京急大師線「小島新田駅」より徒歩15分※詳細はこちら",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-00609eb6-20250423",
+    "name": "エブリデイとってき屋東京本店",
+    "genre": "食事",
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "address": "埼玉県八潮市大字上馬場460-1",
+    "lat": 35.820584,
+    "lng": 139.824916,
+    "youtube_id": "oYjU9jGyaj4",
+    "source_video_title": "【すのちゅーぶ】埼玉県八潮市クレーンゲーム「エブリデイとってき屋東京本店」SnowManロケ地",
+    "visited_date": "2025-04-23",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「草加駅」からバス「井草団地」下車徒歩5分「八潮駅」からバス「井草団地」下車徒歩5分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-64-20250421",
+    "name": "6年4組渋谷分校",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町32-12 アソルティ渋谷 4F",
+    "lat": 35.6620752,
+    "lng": 139.6974957,
+    "youtube_id": "1-781WHXnus",
+    "source_video_title": "【すのちゅーぶ】給食「6年4組渋谷分校」で食べたメニューは？予約方法は？SnowManロケ地",
+    "visited_date": "2025-04-21",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「渋谷駅」より徒歩4分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-db5cb4af-20250416",
+    "name": "辻利 生八ツ橋",
+    "genre": "食事",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市東山区四条通大和大路東入祇園町北側242",
+    "lat": 35.003,
+    "lng": 135.7758,
+    "youtube_id": "2xT3kEy3hjQ",
+    "source_video_title": "【すのちゅーぶ】京都でラウールへのお土産を購入したお店はどこ？SnowManロケ地",
+    "visited_date": "2025-04-16",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「祇園四条駅」より徒歩1分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-ab957c1f-20250414",
+    "name": "京都祇園 天ぷら圓堂 八坂本店（西邸）",
+    "genre": "和食",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市東山区八坂通小松町149",
+    "lat": 35.0037,
+    "lng": 135.7803,
+    "youtube_id": "B1SvucKptGI",
+    "source_video_title": "【すのちゅーぶ】京都「天ぷら圓堂 八坂本店」食べたメニュー・予約方法は？SnowManロケ地",
+    "visited_date": "2025-04-14",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「清水道」バス停より徒歩4分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-85967fc7-20250410",
+    "name": "七沢荘",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "address": "神奈川県厚木市七沢1830",
+    "lat": 35.4510933,
+    "lng": 139.2921472,
+    "youtube_id": "rbhT4YRDUFM",
+    "source_video_title": "【すのちゅーぶ】神奈川県厚木市「七沢荘」卒業旅行の旅館の予約方法は？日帰り入浴は？SnowManロケ地",
+    "visited_date": "2025-04-10",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "本厚木駅からバス乗車し「広沢寺温泉入口」下車徒歩7分",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
   }
 ]

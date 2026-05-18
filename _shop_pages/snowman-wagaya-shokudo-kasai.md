@@ -13,6 +13,7 @@ youtube_id: "qSQOsjs5ve8"
 source_video_title: "Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう 笑笑"
 source_video_url: "https://www.youtube.com/watch?v=vV0iY7rR6-s"
 group: "snowman"
+seating_note: "4人が座ったのは、入口から左手のテーブル席ゾーンの中、真ん中の島になっているテーブル席だと思います。 ↓こちらのGoogleマップのお写真の真ん中テーブル席 座り順：右奥が深澤さん・その左隣が岩本さん・右手前がラウールさん・その左隣が目黒さん"
 lat: 35.6551
 lng: 139.8727
 members:

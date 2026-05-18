@@ -13,6 +13,7 @@ youtube_id: "BVjwdZw66Ms"
 source_video_title: "Snow Man【みんなでピザが食べたい】スタジアムライブ直前です"
 source_video_url: "https://www.youtube.com/watch?v=BVjwdZw66Ms"
 group: "snowman"
+seating_note: "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
 lat: 35.6651
 lng: 139.7184
 members:
