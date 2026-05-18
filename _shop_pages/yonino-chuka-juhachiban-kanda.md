@@ -13,6 +13,7 @@ youtube_id: "9qR7zTTlnEw"
 source_video_title: "#314【お初!!】やってみたかった朝中華の日"
 source_video_url: "https://www.youtube.com/watch?v=9qR7zTTlnEw"
 group: "yonino"
+hotpepper_url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg"
 lat: 35.6941
 lng: 139.7688
@@ -25,4 +26,7 @@ groups:
 tags:
   - "中華"
   - "神田"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
 ---

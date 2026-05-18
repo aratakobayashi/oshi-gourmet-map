@@ -13,6 +13,7 @@ youtube_id: "RpcyxzXS4ww"
 source_video_title: "Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ"
 source_video_url: "https://www.youtube.com/watch?v=5B1_1ipNkJE"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ000126816/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/RpcyxzXS4ww/hqdefault.jpg"
 lat: 35.7181
 lng: 139.8025
@@ -27,4 +28,7 @@ tags:
   - "おにぎり"
   - "浅草"
   - "ミシュラン"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000126816/?vos=nhppalsa000016"
 ---

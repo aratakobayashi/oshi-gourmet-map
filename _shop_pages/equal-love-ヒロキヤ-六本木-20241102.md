@@ -10,6 +10,7 @@ address: "東京都港区六本木５丁目２−６ 六本木ＴＫビル 3階"
 visited_date: "2024-11-02"
 youtube_id: "mUP0eCHFAoU"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ003532640/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/mUP0eCHFAoU/hqdefault.jpg"
 lat: 35.6601174
 lng: 139.7352804
@@ -21,4 +22,6 @@ groups:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1307/A130701/13283501/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ003532640/?vos=nhppalsa000016"
 ---

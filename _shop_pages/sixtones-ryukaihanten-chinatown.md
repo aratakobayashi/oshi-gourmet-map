@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町146-2 羅ビル1F・2F"
 visited_date: "2023-03-10"
 youtube_id: "yqk_6iuc8F0"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ001041630/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
 lat: 35.443983
 lng: 139.648271
@@ -29,4 +30,6 @@ tags:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1401/A140103/14038753/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001041630/?vos=nhppalsa000016"
 ---

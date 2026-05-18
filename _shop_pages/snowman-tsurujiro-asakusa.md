@@ -13,6 +13,7 @@ youtube_id: "DgRmrlrRUN8"
 source_video_title: "Snow Man【アスレチックに行く前にまずはメシ！ 】ある意味…ソウルフードだね!!"
 source_video_url: "https://www.youtube.com/watch?v=R_fNfXp07H8"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/DgRmrlrRUN8/hqdefault.jpg"
 lat: 35.7116
 lng: 139.797
@@ -26,4 +27,7 @@ groups:
 tags:
   - "もんじゃ"
   - "浅草"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
 ---

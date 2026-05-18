@@ -11,8 +11,12 @@ address: "東京都墨田区両国"
 source_video_title: "SixTONES【両国ちゃんこ回】"
 source_video_url: "https://www.youtube.com/watch?v=pX_D-vW7R8M"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ000103606/?vos=nhppalsa000016"
 lat: 35.696
 lng: 139.7909
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000103606/?vos=nhppalsa000016"
 ---

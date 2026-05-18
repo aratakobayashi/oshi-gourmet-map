@@ -11,10 +11,14 @@ address: "東京都千代田区神田神保町2-3"
 visited_date: "2023-12-01"
 source_video_title: "乃木坂46 久保史緒里のカレー探訪"
 group: "nogizaka46"
+hotpepper_url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
 lat: 35.6958
 lng: 139.7578
 members:
   - "久保史緒里"
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
 ---

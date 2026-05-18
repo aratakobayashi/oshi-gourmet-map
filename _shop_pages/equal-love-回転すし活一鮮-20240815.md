@@ -11,6 +11,7 @@ address: "北海道札幌市中央区南３条西５丁目１−１ ノルベサ
 visited_date: "2024-08-15"
 youtube_id: "ohdDJpMuBco"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/ohdDJpMuBco/hqdefault.jpg"
 lat: 43.0563633
 lng: 141.3508023
@@ -19,4 +20,7 @@ members:
   - "野口衣織"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016"
 ---

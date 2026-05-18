@@ -13,6 +13,7 @@ youtube_id: "Ssamk6Xf-gM"
 source_video_title: "SixTONES ジェシーソロ【せいやとメシ会】まったりプライベートトーク"
 source_video_url: "https://www.youtube.com/watch?v=Ssamk6Xf-gM"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ001098601/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/Ssamk6Xf-gM/hqdefault.jpg"
 lat: 35.659562
 lng: 139.726074
@@ -29,4 +30,6 @@ tags:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1307/A130701/13130902/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001098601/?vos=nhppalsa000016"
 ---

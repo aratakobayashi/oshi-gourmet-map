@@ -11,6 +11,7 @@ address: "東京都港区麻布十番"
 nearest_station: "麻布十番駅"
 youtube_id: "M_IWhptZ4vs"
 group: "kamaitachi"
+hotpepper_url: "https://www.hotpepper.jp/strJ003559518/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg"
 lat: 35.6558
 lng: 139.7369
@@ -19,4 +20,7 @@ members:
   - "濱家隆一"
 groups:
   - "kamaitachi"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ003559518/?vos=nhppalsa000016"
 ---

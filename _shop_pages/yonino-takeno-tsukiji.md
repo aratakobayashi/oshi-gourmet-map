@@ -12,6 +12,7 @@ visited_date: "2022-11-16"
 youtube_id: "QjkBTKEHcGE"
 source_video_title: "#180【全員集合】友達ですよね？と確認された日"
 group: "yonino"
+hotpepper_url: "https://www.hotpepper.jp/strJ000118008/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/QjkBTKEHcGE/hqdefault.jpg"
 lat: 35.6653
 lng: 139.7712
@@ -26,4 +27,7 @@ tags:
   - "築地"
   - "居酒屋"
   - "朝食"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000118008/?vos=nhppalsa000016"
 ---

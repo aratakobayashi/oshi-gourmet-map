@@ -11,6 +11,7 @@ address: "滋賀県大津市馬場１丁目１０−１８"
 visited_date: "2024-08-14"
 youtube_id: "NcDizNoUVMs"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ000434758/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/NcDizNoUVMs/hqdefault.jpg"
 lat: 35.0021553
 lng: 135.8825058
@@ -19,4 +20,7 @@ members:
   - "佐々木舞香"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000434758/?vos=nhppalsa000016"
 ---

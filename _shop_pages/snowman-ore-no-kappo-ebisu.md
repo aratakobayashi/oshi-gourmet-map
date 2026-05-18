@@ -13,6 +13,7 @@ youtube_id: "ueYUZJghOzw"
 source_video_title: "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？"
 source_video_url: "https://www.youtube.com/watch?v=ueYUZJghOzw"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
 lat: 35.6476
 lng: 139.7131
@@ -28,4 +29,7 @@ tags:
   - "割烹"
   - "恵比寿"
   - "居酒屋"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
 ---

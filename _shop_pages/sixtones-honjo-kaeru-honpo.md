@@ -13,6 +13,7 @@ youtube_id: "_vywZByqAdw"
 source_video_title: "SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!"
 source_video_url: "https://www.youtube.com/watch?v=_vywZByqAdw"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ000234919/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
 lat: 35.694572
 lng: 139.793251
@@ -34,4 +35,6 @@ tags:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131201/13126861/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000234919/?vos=nhppalsa000016"
 ---

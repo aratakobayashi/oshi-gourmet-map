@@ -12,9 +12,13 @@ youtube_id: "0dnJrRmFRXo"
 source_video_title: "SixTONES【鳥貴族で全メニュー当てろ！】"
 source_video_url: "https://www.youtube.com/watch?v=hG9n5pZp5V0"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ001177398/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
 lat: 35.6936
 lng: 139.7038
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001177398/?vos=nhppalsa000016"
 ---

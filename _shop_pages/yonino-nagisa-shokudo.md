@@ -12,6 +12,7 @@ visited_date: "2024-01-03"
 youtube_id: "jDTiroXb9RU"
 source_video_title: "#288【朝飯!!】久々に4人で食べた日"
 group: "yonino"
+hotpepper_url: "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
 lat: 35.6978
 lng: 139.7582
@@ -25,4 +26,7 @@ tags:
   - "定食"
   - "水道橋"
   - "海鮮"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
 ---

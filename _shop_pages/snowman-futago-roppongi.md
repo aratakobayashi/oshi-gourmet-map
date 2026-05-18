@@ -13,6 +13,7 @@ youtube_id: "m357q_FwBCE"
 source_video_title: "Snow Man【思い出のあの場所で…焼肉】完全プライベートですみません"
 source_video_url: "https://www.youtube.com/watch?v=m357q_FwBCE"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg"
 lat: 35.663
 lng: 139.7302
@@ -37,4 +38,7 @@ ordered_items:
   - "一口冷麺"
   - "ポテバニ"
   - "俺じなるヨーグルト"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
 ---

@@ -11,6 +11,7 @@ address: "東京都渋谷区上原１丁目３５−３"
 visited_date: "2024-08-15"
 youtube_id: "xdDGkIR78r4"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ001117446/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/xdDGkIR78r4/hqdefault.jpg"
 lat: 35.6690181
 lng: 139.6843225
@@ -18,4 +19,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001117446/?vos=nhppalsa000016"
 ---

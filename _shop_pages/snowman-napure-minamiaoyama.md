@@ -13,6 +13,7 @@ youtube_id: "BVjwdZw66Ms"
 source_video_title: "Snow Man【みんなでピザが食べたい】スタジアムライブ直前です"
 source_video_url: "https://www.youtube.com/watch?v=BVjwdZw66Ms"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg"
 seating_note: "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
 lat: 35.6651
@@ -28,4 +29,7 @@ tags:
   - "ピザ"
   - "南青山"
   - "イタリアン"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
 ---

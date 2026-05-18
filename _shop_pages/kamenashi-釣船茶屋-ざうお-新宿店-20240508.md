@@ -13,6 +13,7 @@ youtube_id: "SSwnM6BcHuE"
 source_video_title: "【大漁】なにわ男子 高橋恭平と釣りができる居酒屋で釣って食べまくる！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97"
+hotpepper_url: "https://www.hotpepper.jp/strJ000124766/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/SSwnM6BcHuE/hqdefault.jpg"
 lat: 35.6904488
 lng: 139.6990389
@@ -23,4 +24,6 @@ groups:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000124766/?vos=nhppalsa000016"
 ---

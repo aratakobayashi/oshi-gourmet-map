@@ -13,6 +13,7 @@ youtube_id: "HksFKrub-_s"
 source_video_title: "Snow Man【バルでランチ】ただただ幸せにご飯食べてます🍕"
 source_video_url: "https://www.youtube.com/watch?v=FmN8C7LhXvY"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
 lat: 35.6446
 lng: 139.6693
@@ -28,4 +29,7 @@ tags:
   - "三軒茶屋"
   - "瀬戸内"
   - "魚介"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
 ---

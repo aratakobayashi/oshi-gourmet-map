@@ -12,6 +12,7 @@ visited_date: "2025-07-13"
 youtube_id: "br-iF9GUpIE"
 source_video_title: "#439【セレブ!!】ホテルブッヘった日"
 group: "yonino"
+hotpepper_url: "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg"
 lat: 35.6896
 lng: 139.6917
@@ -25,4 +26,7 @@ tags:
   - "ビュッフェ"
   - "ホテル朝食"
   - "新宿"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
 ---

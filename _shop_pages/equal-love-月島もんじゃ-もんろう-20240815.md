@@ -11,6 +11,7 @@ address: "東京都中央区月島１丁目２２−１−１０７"
 visited_date: "2024-08-15"
 youtube_id: "peEcYliutz0"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ001262229/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
 lat: 35.665153
 lng: 139.781855
@@ -18,4 +19,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001262229/?vos=nhppalsa000016"
 ---

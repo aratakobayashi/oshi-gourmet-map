@@ -13,6 +13,7 @@ youtube_id: "xbEXP_yd8l0"
 source_video_title: "【贅沢】Snow Man渡辺翔太と絶品かき氷屋さんへ！神のクオリティの味に2人とも悶絶してしまいました。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99"
+hotpepper_url: "https://www.hotpepper.jp/strJ004421357/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/xbEXP_yd8l0/hqdefault.jpg"
 lat: 35.6720135
 lng: 139.7647202
@@ -23,4 +24,6 @@ groups:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ004421357/?vos=nhppalsa000016"
 ---

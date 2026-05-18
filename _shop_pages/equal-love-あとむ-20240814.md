@@ -11,6 +11,7 @@ address: "広島県広島市中区新天地５−１３ 3階"
 visited_date: "2024-08-14"
 youtube_id: "gOJ_jjaT__4"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ000520814/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/gOJ_jjaT__4/hqdefault.jpg"
 lat: 34.3942162
 lng: 132.4621961
@@ -19,4 +20,7 @@ members:
   - "山本杏奈"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000520814/?vos=nhppalsa000016"
 ---

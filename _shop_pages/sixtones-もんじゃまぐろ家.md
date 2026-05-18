@@ -13,6 +13,7 @@ youtube_id: "_vywZByqAdw"
 source_video_title: "SixTONES - 月島でもんじゃ！"
 source_video_url: "https://www.youtube.com/watch?v=7H1G8D8xKk0"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ000684646/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
 lat: 35.6631
 lng: 139.7825
@@ -25,4 +26,7 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000684646/?vos=nhppalsa000016"
 ---

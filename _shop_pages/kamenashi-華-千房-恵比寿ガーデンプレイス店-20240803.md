@@ -13,6 +13,7 @@ youtube_id: "7EV_r_en6RA"
 source_video_title: "【妖怪人間】かつての仲間、杏ちゃんと鈴木福くんと再会してディナーに向かってドライブをします！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97"
+hotpepper_url: "https://www.hotpepper.jp/strJ001189354/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/7EV_r_en6RA/hqdefault.jpg"
 lat: 35.64696
 lng: 139.7086658
@@ -23,4 +24,6 @@ groups:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001189354/?vos=nhppalsa000016"
 ---

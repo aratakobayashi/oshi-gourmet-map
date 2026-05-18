@@ -13,6 +13,7 @@ youtube_id: "EhYbUENdLKE"
 source_video_title: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?"
 source_video_url: "https://www.youtube.com/watch?v=XmZ9bVvVqA0"
 group: "sixtones"
+hotpepper_url: "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
 lat: 35.299508
 lng: 139.479397
@@ -34,4 +35,6 @@ tags:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
 ---

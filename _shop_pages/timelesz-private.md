@@ -11,6 +11,7 @@ address: "東京都新宿区西新宿7-16-12 YSビル2F"
 nearest_station: "西新宿駅"
 source_video_title: "timelesz project -AUDITION-"
 group: "timelesz"
+hotpepper_url: "https://www.hotpepper.jp/strJ001126562/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg"
 source_type: "tv"
 lat: 35.690719
@@ -19,4 +20,7 @@ members:
   - "菊池風磨"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001126562/?vos=nhppalsa000016"
 ---

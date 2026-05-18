@@ -10,6 +10,7 @@ address: "東京都北区赤羽１丁目２３−６ 三晃ビル 1・2F"
 visited_date: "2024-08-14"
 youtube_id: "sn9-GWZQ5ps"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ003491001/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
 lat: 35.7806673
 lng: 139.7206438
@@ -17,4 +18,7 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ003491001/?vos=nhppalsa000016"
 ---

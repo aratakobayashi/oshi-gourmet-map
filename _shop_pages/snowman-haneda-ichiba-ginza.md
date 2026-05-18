@@ -13,6 +13,7 @@ youtube_id: "WplSm1TEzbI"
 source_video_title: "Snow Man【贅沢ランチ】ザギンでシースー 笑"
 source_video_url: "https://www.youtube.com/watch?v=7M6V-X_f_kU"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg"
 lat: 35.6693
 lng: 139.7633
@@ -27,4 +28,7 @@ tags:
   - "寿司"
   - "銀座"
   - "海鮮"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
 ---

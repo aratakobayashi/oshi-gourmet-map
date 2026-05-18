@@ -13,6 +13,7 @@ youtube_id: "ZxvmVJeY39U"
 source_video_title: "#336【朝飯!!】ちゃんこはええで…の日"
 source_video_url: "https://www.youtube.com/watch?v=Y-Bf_H7t99g"
 group: "yonino"
+hotpepper_url: "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg"
 lat: 35.6966
 lng: 139.794
@@ -26,4 +27,7 @@ tags:
   - "ちゃんこ鍋"
   - "両国"
   - "和食"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"
 ---

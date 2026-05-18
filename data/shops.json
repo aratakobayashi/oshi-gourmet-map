@@ -355,6 +355,10 @@
       {
         "label": "公式サイト",
         "url": "https://www.paulbassett.jp/store/shinjuku/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000660203/?vos=nhppalsa000016"
       }
     ],
     "ordered_items": [
@@ -362,7 +366,8 @@
       "フラットホワイト"
     ],
     "seating_note": "カウンター席中心。ビルB1Fの落ち着いた空間で、動画ではカウンターに並んで注文する場面が収録されている。",
-    "thumbnail_url": "https://img.youtube.com/vi/FsiF7DW603g/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FsiF7DW603g/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000660203/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-negiya-heikichi",
@@ -754,9 +759,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1304/A130401/13241610/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001263941/?vos=nhppalsa000016"
       }
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/gTzHfVLn3Ro/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/gTzHfVLn3Ro/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001263941/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-spicy-curry-roka",
@@ -996,10 +1006,16 @@
       "両国",
       "和食"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=Y-Bf_H7t99g",
     "source_video_title": "#336【朝飯!!】ちゃんこはええで…の日",
-    "thumbnail_url": "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-spice-ramen-tenten",
@@ -1273,10 +1289,16 @@
       "銀座",
       "博多"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=Usc8z4FfofQ",
     "source_video_title": "#376【朝食!!】多感なお年頃だからワーワー言ってきた日",
-    "thumbnail_url": "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-chinka-shisai-ginza",
@@ -1485,9 +1507,15 @@
       "居酒屋",
       "朝食"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000118008/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "#180【全員集合】友達ですよね？と確認された日",
-    "thumbnail_url": "https://img.youtube.com/vi/QjkBTKEHcGE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/QjkBTKEHcGE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000118008/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-nagisa-shokudo",
@@ -1515,9 +1543,15 @@
       "水道橋",
       "海鮮"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "#288【朝飯!!】久々に4人で食べた日",
-    "thumbnail_url": "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-nijome-shokudo-toledo",
@@ -1820,10 +1854,16 @@
       "浅草",
       "ミシュラン"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ",
     "source_video_url": "https://www.youtube.com/watch?v=5B1_1ipNkJE",
-    "thumbnail_url": "https://img.youtube.com/vi/RpcyxzXS4ww/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/RpcyxzXS4ww/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-tsurujiro-asakusa",
@@ -1851,10 +1891,16 @@
       "もんじゃ",
       "浅草"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=R_fNfXp07H8",
     "source_video_title": "Snow Man【アスレチックに行く前にまずはメシ！ 】ある意味…ソウルフードだね!!",
-    "thumbnail_url": "https://img.youtube.com/vi/DgRmrlrRUN8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/DgRmrlrRUN8/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-brettz-cafe-omotesando",
@@ -2026,11 +2072,17 @@
       "南青山",
       "イタリアン"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【みんなでピザが食べたい】スタジアムライブ直前です",
     "source_video_url": "https://www.youtube.com/watch?v=BVjwdZw66Ms",
     "seating_note": "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。",
-    "thumbnail_url": "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-sarashina-horii-motoazabu",
@@ -2127,11 +2179,17 @@
       "恵比寿",
       "健康"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ",
     "source_video_url": "https://www.youtube.com/watch?v=GpPJOgdEbhE",
     "seating_note": "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪",
-    "thumbnail_url": "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-ginza-sushi-banya-kai",
@@ -2191,7 +2249,12 @@
       "六本木",
       "大阪スタイル"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【思い出のあの場所で…焼肉】完全プライベートですみません",
     "source_video_url": "https://www.youtube.com/watch?v=m357q_FwBCE",
     "ordered_items": [
@@ -2206,7 +2269,8 @@
       "ポテバニ",
       "俺じなるヨーグルト"
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-ore-no-kappo-ebisu",
@@ -2236,10 +2300,16 @@
       "恵比寿",
       "居酒屋"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？",
     "source_video_url": "https://www.youtube.com/watch?v=ueYUZJghOzw",
-    "thumbnail_url": "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-teikoku-shokudo-nishiazabu",
@@ -2268,10 +2338,16 @@
       "西麻布",
       "ビストロ"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man【フレンチを食べよう！】メンバーの食べる顔を見るのが幸せ！",
     "source_video_url": "https://www.youtube.com/watch?v=8j6glqZxVzU",
-    "thumbnail_url": "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-setouchi-bar-collabo",
@@ -2301,10 +2377,16 @@
       "瀬戸内",
       "魚介"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=FmN8C7LhXvY",
     "source_video_title": "Snow Man【バルでランチ】ただただ幸せにご飯食べてます🍕",
-    "thumbnail_url": "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-kitchen-nanagoku-waseda",
@@ -2488,9 +2570,15 @@
       "ホテル朝食",
       "新宿"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "#439【セレブ!!】ホテルブッヘった日",
-    "thumbnail_url": "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-blue-six-coffee",
@@ -2761,10 +2849,16 @@
       "新宿",
       "ごはん"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001295063/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=6yE2A-A8oE8",
     "source_video_title": "#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。",
-    "thumbnail_url": "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001295063/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-gust-roppongi",
@@ -2925,10 +3019,16 @@
       "赤坂",
       "ピザ"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "Snow Man「宮舘の食べたいものを当てろ！」イタリアン編",
     "source_video_url": "https://www.youtube.com/watch?v=8XWlH5jIAsU",
-    "thumbnail_url": "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-haneda-ichiba-ginza",
@@ -2957,10 +3057,16 @@
       "銀座",
       "海鮮"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=7M6V-X_f_kU",
     "source_video_title": "Snow Man【贅沢ランチ】ザギンでシースー 笑",
-    "thumbnail_url": "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-kamonka-kinshicho",
@@ -3036,11 +3142,16 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
       }
     ],
     "source_video_title": "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?",
     "source_video_url": "https://www.youtube.com/watch?v=XmZ9bVvVqA0",
-    "thumbnail_url": "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-kurumi-shineimachi",
@@ -3113,11 +3224,16 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1307/A130701/13130902/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001098601/?vos=nhppalsa000016"
       }
     ],
     "source_video_title": "SixTONES ジェシーソロ【せいやとメシ会】まったりプライベートトーク",
     "source_video_url": "https://www.youtube.com/watch?v=Ssamk6Xf-gM",
-    "thumbnail_url": "https://img.youtube.com/vi/Ssamk6Xf-gM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Ssamk6Xf-gM/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001098601/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-kiraasse-utsunomiya",
@@ -3154,11 +3270,16 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tochigi/A0901/A090101/9000033/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000102335/?vos=nhppalsa000016"
       }
     ],
     "source_video_title": "SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！",
     "source_video_url": "https://www.youtube.com/watch?v=YaXa9d2okDE",
-    "thumbnail_url": "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000102335/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-houtou-fudo-higashikoji",
@@ -3345,9 +3466,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/kanagawa/A1401/A140103/14038753/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001041630/?vos=nhppalsa000016"
       }
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001041630/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-daruma-soramachi",
@@ -3623,11 +3749,16 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1312/A131201/13126861/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000234919/?vos=nhppalsa000016"
       }
     ],
     "source_video_title": "SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!",
     "source_video_url": "https://www.youtube.com/watch?v=_vywZByqAdw",
-    "thumbnail_url": "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000234919/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-cafe1894-marunouchi",
@@ -3832,10 +3963,16 @@
       "中華",
       "神田"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_title": "#314【お初!!】やってみたかった朝中華の日",
     "source_video_url": "https://www.youtube.com/watch?v=9qR7zTTlnEw",
-    "thumbnail_url": "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-shokuji-dokoro-soushuya",
@@ -4664,8 +4801,14 @@
     "source_video_title": "SixTONES - 高級うなぎを食す",
     "source_video_url": "https://www.youtube.com/watch?v=Z5eW8mP8t_E",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/IL6OX1NjzsM/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003297285/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/IL6OX1NjzsM/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003297285/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-京料理六盛",
@@ -4983,8 +5126,14 @@
     "source_video_title": "SixTONES - 月島でもんじゃ！",
     "source_video_url": "https://www.youtube.com/watch?v=7H1G8D8xKk0",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000684646/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000684646/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-叙々苑游玄亭西麻布本館",
@@ -5093,7 +5242,13 @@
     "group": "nogizaka46",
     "description": "乃木坂46のメンバーが訪れたジャンボめろんぱんの超有名店。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000898725/?vos=nhppalsa000016"
+      }
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000898725/?vos=nhppalsa000016"
   },
   {
     "id": "nogizaka46-juseian",
@@ -5268,7 +5423,13 @@
     "group": "nogizaka46",
     "description": "カレー激戦区神保町の超有名店。ジャガイモ付きが定番。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
+      }
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
   },
   {
     "id": "hinatazaka46-dashi-chazuke-en-narita",
@@ -5340,8 +5501,14 @@
     "group": "sixtones",
     "description": "「鳥貴族で全メニュー当てるまで帰れま10」的な企画で訪問。メンバーの好みが分かれる面白い回です。",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001177398/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001177398/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-pizzeria-e-trattoria-da-isa",
@@ -5457,7 +5624,13 @@
     "group": "sixtones",
     "description": "両国ロケにて。元大関・霧島のちゃんこ鍋を囲み、賑やかにトークを繰り広げた回。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000103606/?vos=nhppalsa000016"
+      }
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000103606/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-grill-grand-asakusa",
@@ -5479,8 +5652,14 @@
     "group": "sixtones",
     "description": "浅草の老舗洋食店。名物のオムライスや特製デミグラスソースのハンバーグが登場。",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/3_cm61ZXb2E/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000245367/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/3_cm61ZXb2E/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000245367/?vos=nhppalsa000016"
   },
   {
     "id": "sixtones-onigiri-bongo",
@@ -5548,8 +5727,14 @@
     "nearest_station": "広尾駅 徒歩5分",
     "description": "よにのちゃんねる#519「猫舌回避の極意」に登場した和食店。",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/d6bqOMxtttA/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000862001/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/d6bqOMxtttA/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000862001/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-エアポートグリルバール-20260311",
@@ -5824,8 +6009,14 @@
     "nearest_station": "東京都西新宿駅から徒歩5分",
     "description": "よにのちゃんねる#439「セレブ!!」に登場したお店。",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
   },
   {
     "id": "yonino-override_神宮前-20250709",
@@ -6069,10 +6260,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004421357/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004421357/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/xbEXP_yd8l0/hqdefault.jpg"
   },
   {
@@ -6101,10 +6296,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%9B%9B%E6%A5%BC%E9%96%A3"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000874659/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%9B%9B%E6%A5%BC%E9%96%A3",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000874659/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/WxKvyUgzG40/hqdefault.jpg"
   },
   {
@@ -6517,10 +6716,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001189354/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001189354/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/7EV_r_en6RA/hqdefault.jpg"
   },
   {
@@ -6677,10 +6880,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000124766/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%87%A3%E8%88%B9%E8%8C%B6%E5%B1%8B%20%E3%81%96%E3%81%86%E3%81%8A%20%E6%96%B0%E5%AE%BF%E5%BA%97",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000124766/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/SSwnM6BcHuE/hqdefault.jpg"
   },
   {
@@ -6709,10 +6916,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000103008/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000103008/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
   },
   {
@@ -6741,10 +6952,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Hohokam%20DINER"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000855350/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Hohokam%20DINER",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000855350/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
   },
   {
@@ -6773,10 +6988,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%BE%9B%E9%BA%BA%E5%B1%8B%E6%A1%9D%E5%85%83%20%E8%B5%A4%E6%B1%9F%E5%BA%97"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001159336/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%BE%9B%E9%BA%BA%E5%B1%8B%E6%A1%9D%E5%85%83%20%E8%B5%A4%E6%B1%9F%E5%BA%97",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001159336/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/fqUI15scR4o/hqdefault.jpg"
   },
   {
@@ -6805,10 +7024,14 @@
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B3%A5%E7%84%BC%20%E8%90%AC%E6%AD%B3%E4%BA%AD"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000030058/?vos=nhppalsa000016"
       }
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B3%A5%E7%84%BC%20%E8%90%AC%E6%AD%B3%E4%BA%AD",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000030058/?vos=nhppalsa000016",
     "thumbnail_url": "https://img.youtube.com/vi/Q-BcioViZcc/hqdefault.jpg"
   },
   {
@@ -6864,11 +7087,15 @@
     "description": "すの日常（Snow Man）「しゃぶしゃぶを食べよう！」に登場した焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13052248/",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000678622/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1309/A130905/13052248/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000678622/?vos=nhppalsa000016"
       }
     ],
     "seating_note": "Snow Manラウールさん・渡辺翔太さん・向井康二さん・宮舘涼太さんがしゃぶ禅神楽坂店で座ったお席は、4人用の掘りごたつの完全個室だと思われます。 お席については相談もできると公式サイトに記載がありました。 掘りごたつのお座敷席は、一人当たり330円の使用料がかかるそうです。予約時にお席の指定もできました。",
@@ -7059,11 +7286,15 @@
     "description": "【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%9F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%97%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%9F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%97%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016"
       }
     ],
     "thumbnail_url": "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg"
@@ -7812,11 +8043,15 @@
     "description": "『22nd帰り道は遠回りしたくなるType-A』に収録されている、与田祐希さんの個人PV『ピクニック』が撮影されたカフェです^ ^",
     "tags": [],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=GOOD%20MORNING%20CAFE%20%E9%8C%A6%E7%94%BA",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001051955/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=GOOD%20MORNING%20CAFE%20%E9%8C%A6%E7%94%BA"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001051955/?vos=nhppalsa000016"
       }
     ],
     "thumbnail_url": "https://img.youtube.com/vi/s1cgEj5JowM/hqdefault.jpg"
@@ -7905,11 +8140,15 @@
     "description": "乃木坂工事中の芸能界すごろくでチーム賀喜が挑戦した激辛メニューが食べられるお店です！",
     "tags": [],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%82%8E%E9%BA%BB%E5%A0%82%20%E8%B5%A4%E5%9D%82%E5%BA%97",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%82%8E%E9%BA%BB%E5%A0%82%20%E8%B5%A4%E5%9D%82%E5%BA%97"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016"
       }
     ]
   },
@@ -8362,11 +8601,15 @@
     "description": "乃木坂配信中で筒井あやめさんが訪れた喫茶店です^ ^",
     "tags": [],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%96%AB%E8%8C%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9D%E3%83%94%E3%83%BC",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%96%AB%E8%8C%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9D%E3%83%94%E3%83%BC"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016"
       }
     ]
   },
@@ -8926,11 +9169,15 @@
     "description": "日向坂46「あくびLetter」に登場した飲食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016"
       }
     ],
     "thumbnail_url": "https://img.youtube.com/vi/KcpvHDt0bPc/hqdefault.jpg"
@@ -9183,8 +9430,13 @@
     "description": "かまいたちの山内健司・濱家隆一が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003559518/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003559518/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg"
   },
   {
@@ -9271,8 +9523,13 @@
     "description": "=LOVEの大谷映美里が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001187042/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001187042/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/eMXdBOC3YE4/hqdefault.jpg"
   },
   {
@@ -9377,8 +9634,13 @@
     "description": "=LOVEの諸橋沙夏が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003737219/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003737219/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
   },
   {
@@ -9404,8 +9666,13 @@
     "description": "=LOVEの諸橋沙夏が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000711062/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000711062/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
   },
   {
@@ -9541,11 +9808,15 @@
     "description": "=LOVEの佐々木舞香・山本杏奈が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003532640/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1307/A130701/13283501/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003532640/?vos=nhppalsa000016"
       }
     ],
     "thumbnail_url": "https://img.youtube.com/vi/mUP0eCHFAoU/hqdefault.jpg"
@@ -9711,8 +9982,13 @@
     "description": "=LOVEの大谷映美里が訪れたラーメン店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003324162/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003324162/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg"
   },
   {
@@ -9934,8 +10210,13 @@
     "description": "=LOVEの大谷映美里が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001117446/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001117446/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/xdDGkIR78r4/hqdefault.jpg"
   },
   {
@@ -9961,8 +10242,13 @@
     "description": "=LOVEの大谷映美里が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001164547/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001164547/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/8gKHzO_Jdhs/hqdefault.jpg"
   },
   {
@@ -10069,8 +10355,13 @@
     "description": "=LOVEの大谷映美里が訪れた和食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001220712/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001220712/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
   },
   {
@@ -10204,8 +10495,13 @@
     "description": "=LOVEの大谷映美里が訪れたもんじゃ店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001262229/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001262229/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
   },
   {
@@ -10313,8 +10609,13 @@
     "description": "=LOVEの大谷映美里・野口衣織が訪れた寿司店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/ohdDJpMuBco/hqdefault.jpg"
   },
   {
@@ -10630,8 +10931,13 @@
     "description": "=LOVEの諸橋沙夏が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003491001/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003491001/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
   },
   {
@@ -10658,8 +10964,13 @@
     "description": "=LOVEの髙松瞳・山本杏奈が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000520814/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000520814/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/gOJ_jjaT__4/hqdefault.jpg"
   },
   {
@@ -10879,8 +11190,13 @@
     "description": "=LOVEの髙松瞳・佐々木舞香が訪れた焼肉店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000434758/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000434758/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/NcDizNoUVMs/hqdefault.jpg"
   },
   {
@@ -11219,8 +11535,13 @@
     "description": "=LOVEが訪れたお店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003941061/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003941061/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
   },
   {
@@ -11277,8 +11598,13 @@
     "description": "≠MEの鈴木瞳美・谷崎早耶らが訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001260432/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001260432/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg"
   },
   {
@@ -11510,8 +11836,13 @@
     "description": "≠MEが訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000018294/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000018294/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
   },
   {
@@ -11643,8 +11974,13 @@
     "description": "≠MEの冨田菜々風・蟹沢萌子が訪れたスイーツ店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001259102/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001259102/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg"
   },
   {
@@ -11878,8 +12214,13 @@
     "description": "=LOVEの大谷映美里が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003829019/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003829019/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/QMulxshbfPI/hqdefault.jpg"
   },
   {
@@ -11932,8 +12273,13 @@
     "description": "=LOVEの大谷映美里が訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001268139/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001268139/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/FeTUjMoiCc4/hqdefault.jpg"
   },
   {
@@ -12022,8 +12368,13 @@
     "description": "≒JOYの髙橋舞・山野愛月らが訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001257922/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001257922/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/cnXygUoYIIE/hqdefault.jpg"
   },
   {
@@ -12271,8 +12622,13 @@
     "description": "=LOVEの大谷映美里が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003365080/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003365080/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
   },
   {
@@ -12660,8 +13016,13 @@
     "description": "≒JOYの市原愛弓・江角怜音が訪れたもんじゃ店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003893135/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003893135/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/9ZWbXuY-nc4/hqdefault.jpg"
   },
   {
@@ -12714,8 +13075,13 @@
     "description": "=LOVEの大谷映美里が訪れた焼肉店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001275602/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001275602/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
   },
   {
@@ -12742,8 +13108,13 @@
     "description": "≠MEの冨田菜々風・櫻井ももが訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001127647/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001127647/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/ySSbRZtJti8/hqdefault.jpg"
   },
   {
@@ -12801,11 +13172,15 @@
     "description": "=LOVEの諸橋沙夏が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004004433/?vos=nhppalsa000016",
     "affiliate_links": [
       {
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1311/A131102/13260809/"
+      },
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004004433/?vos=nhppalsa000016"
       }
     ],
     "thumbnail_url": "https://img.youtube.com/vi/tvUBTJDvKQI/hqdefault.jpg"
@@ -12981,8 +13356,13 @@
     "description": "≠MEの鈴木瞳美・櫻井ももらが訪れた飲食店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000045327/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000045327/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/5pW7TxTE93g/hqdefault.jpg"
   },
   {
@@ -13040,8 +13420,13 @@
     "description": "=LOVEの諸橋沙夏が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003516082/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003516082/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
   },
   {
@@ -19386,8 +19771,13 @@
     "description": "A5ランクの黒毛和牛を提供する焼肉店。洗練された個室空間が特徴。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001126562/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001126562/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg",
     "source_type": "tv",
     "tmdb_id": 271418,
@@ -19538,8 +19928,13 @@
     "description": "2015.11.14/11.21 大盛りグルメ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000797448/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000797448/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -19566,8 +19961,13 @@
     "description": "2015.11.14/11.21 大盛りグルメ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001128365/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001128365/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -19725,8 +20125,13 @@
     "description": "いただきハイジャンプ 春の大盛りグルメに登場した焼肉店。有岡大貴・髙木雄也らが訪問。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001066911/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001066911/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -19822,8 +20227,13 @@
     "description": "2016.05.18 高級レストランのランチ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000796674/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000796674/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -20131,8 +20541,13 @@
     "description": "2017.02.01/02.08 女子会向けスイーツ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000011656/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000011656/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -20263,8 +20678,13 @@
     "description": "2017.02.01/02.08 女子会向けスイーツ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004090474/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ004090474/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -20328,8 +20748,13 @@
     "description": "2018.08.25/09.01 日帰りサイクリング千葉房総",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000247819/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000247819/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -20452,8 +20877,13 @@
     "description": "いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000119983/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000119983/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
@@ -21142,8 +21572,13 @@
     "description": "すの日常（Snow Man）「6年4組渋谷分校」に登場した飲食店。岩本照・ラウールらが訪問。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000768666/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000768666/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/1-781WHXnus/hqdefault.jpg",
     "source_type": "",
     "tmdb_id": null,

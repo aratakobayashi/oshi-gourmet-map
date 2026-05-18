@@ -8,3 +8,4 @@ Gemfile.lock
 
 # スクリプトで取得したAPI生データ（大容量・コミット不要）
 scripts/videos_*.json
+.env.local

@@ -10,6 +10,7 @@ address: "東京都港区新橋２丁目９−６ 4F"
 visited_date: "2026-02-07"
 youtube_id: "K7CCROY8Xm4"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ000711062/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
 lat: 35.6668663
 lng: 139.7574154
@@ -17,4 +18,7 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ000711062/?vos=nhppalsa000016"
 ---

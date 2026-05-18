@@ -11,6 +11,7 @@ address: "東京都新宿区歌舞伎町１丁目２１−１ 第二東亜会館
 visited_date: "2026-03-28"
 youtube_id: "eMXdBOC3YE4"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ001187042/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/eMXdBOC3YE4/hqdefault.jpg"
 lat: 35.6953799
 lng: 139.7017233
@@ -18,4 +19,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001187042/?vos=nhppalsa000016"
 ---

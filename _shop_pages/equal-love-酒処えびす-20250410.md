@@ -11,6 +11,7 @@ address: "東京都台東区浅草２丁目７−１３"
 visited_date: "2025-04-10"
 youtube_id: "tvUBTJDvKQI"
 group: "equal_love"
+hotpepper_url: "https://www.hotpepper.jp/strJ004004433/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/tvUBTJDvKQI/hqdefault.jpg"
 lat: 35.714955
 lng: 139.7957367
@@ -21,4 +22,6 @@ groups:
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1311/A131102/13260809/"
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ004004433/?vos=nhppalsa000016"
 ---
