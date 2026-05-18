@@ -40,6 +40,7 @@ async function loadShops() {
   filteredShops = [...allShops];
 
   populateFilters();
+  renderQuickTags(allShops);
   initFromUrlParams();
   initPlaceholderRotation(allShops);
 
@@ -97,6 +98,51 @@ function renderGenrePills(genres) {
       updateFilterChips();
     });
   });
+}
+
+const QUICK_TAG_FICTIONAL = new Set(['井之頭五郎']);
+const QUICK_TAG_AREAS = ['渋谷', '新宿', '浅草'];
+
+function renderQuickTags(shops) {
+  const container = document.getElementById('fbar-quick-tags');
+  if (!container) return;
+
+  const memberCount = {};
+  shops.forEach(s => (s.members || []).forEach(m => {
+    if (!QUICK_TAG_FICTIONAL.has(m)) memberCount[m] = (memberCount[m] || 0) + 1;
+  }));
+  const topMembers = Object.entries(memberCount)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 6)
+    .map(([m]) => m);
+
+  const tags = [...topMembers, ...QUICK_TAG_AREAS];
+  const input = document.getElementById('search-input');
+  const clearBtn = document.getElementById('search-clear');
+
+  container.innerHTML = tags.map(term =>
+    `<button class="fbar__quick-tag" data-term="${escHtml(term)}">${escHtml(term)}</button>`
+  ).join('');
+
+  container.querySelectorAll('.fbar__quick-tag').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const term = btn.dataset.term;
+      const isActive = btn.classList.contains('active');
+      container.querySelectorAll('.fbar__quick-tag').forEach(b => b.classList.remove('active'));
+      if (isActive) {
+        if (input) input.value = '';
+      } else {
+        if (input) input.value = term;
+        btn.classList.add('active');
+      }
+      if (clearBtn) clearBtn.hidden = !input?.value;
+      applyFilters();
+    });
+  });
+}
+
+function clearQuickTags() {
+  document.querySelectorAll('.fbar__quick-tag').forEach(b => b.classList.remove('active'));
 }
 
 function initPlaceholderRotation(shops) {
@@ -726,6 +772,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('search-input')?.addEventListener('input', function() {
     const btn = document.getElementById('search-clear');
     if (btn) btn.hidden = !this.value;
+    clearQuickTags();
     applyFilters();
   });
   document.getElementById('search-clear')?.addEventListener('click', () => {
@@ -733,6 +780,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (input) { input.value = ''; input.focus(); }
     const btn = document.getElementById('search-clear');
     if (btn) btn.hidden = true;
+    clearQuickTags();
     applyFilters();
   });
 
