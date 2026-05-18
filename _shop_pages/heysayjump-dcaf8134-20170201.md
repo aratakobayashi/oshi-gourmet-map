@@ -11,6 +11,8 @@ address: "静岡県静岡市駿河区丸子5787-1"
 visited_date: "2017-02-01"
 source_video_title: "2017.02.01/02.08 女子会向けスイーツ特集"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 34.964225
 lng: 138.393598
 members:

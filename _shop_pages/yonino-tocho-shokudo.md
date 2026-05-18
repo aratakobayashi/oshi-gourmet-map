@@ -11,6 +11,7 @@ address: "東京都新宿区西新宿2-8-1 東京都庁第一本庁舎32F"
 youtube_id: "F6Xn4BqJ4Wo"
 source_video_title: "#150【朝飯】やっぱり皆で飯を食べると美味い。"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/F6Xn4BqJ4Wo/hqdefault.jpg"
 lat: 35.6895
 lng: 139.6917
 members:

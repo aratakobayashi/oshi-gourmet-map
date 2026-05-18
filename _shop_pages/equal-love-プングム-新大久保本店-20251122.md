@@ -11,6 +11,7 @@ address: "東京都新宿区大久保１丁目１０−１５ レックスマン
 visited_date: "2025-11-22"
 youtube_id: "FeTUjMoiCc4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/FeTUjMoiCc4/hqdefault.jpg"
 lat: 35.6997092
 lng: 139.7053014
 members:

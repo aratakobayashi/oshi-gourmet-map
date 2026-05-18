@@ -11,6 +11,7 @@ address: "東京都渋谷区道玄坂２丁目２９−８ 道玄坂センター
 visited_date: "2025-08-27"
 youtube_id: "eqfZmabiZ0A"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
 lat: 35.6593786
 lng: 139.6987796
 members:

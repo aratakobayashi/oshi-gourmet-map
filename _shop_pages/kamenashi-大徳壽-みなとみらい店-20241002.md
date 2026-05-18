@@ -13,6 +13,7 @@ youtube_id: "LaNwtYYQ3Wo"
 source_video_title: "【夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E5%BE%B3%E5%A3%BD%20%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/LaNwtYYQ3Wo/hqdefault.jpg"
 lat: 35.4572327
 lng: 139.6328453
 members:

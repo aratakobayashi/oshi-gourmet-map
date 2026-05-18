@@ -12,6 +12,8 @@ nearest_station: "武蔵小杉駅"
 source_video_title: "孤独のグルメ Season10 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140504/14009596/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/pUiSQGSIDNyEoHxFNPTofS9Cv4k.jpg"
+source_type: "drama"
 lat: 35.5306639
 lng: 139.7037668
 members:

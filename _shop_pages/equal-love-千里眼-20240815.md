@@ -11,6 +11,7 @@ address: "東京都目黒区駒場４丁目６−８"
 visited_date: "2024-08-15"
 youtube_id: "J49luXyD-q4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/J49luXyD-q4/hqdefault.jpg"
 lat: 35.6617507
 lng: 139.679068
 members:

@@ -12,6 +12,8 @@ nearest_station: "代々木駅"
 source_video_title: "孤独のグルメ Season4 第9話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130403/13263163/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tM6uYu8PkeeNhBQFfhGinMX28g7.jpg"
+source_type: "drama"
 lat: 35.6633709
 lng: 139.6964952
 members:

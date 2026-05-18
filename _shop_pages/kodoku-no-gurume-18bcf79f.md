@@ -12,6 +12,8 @@ nearest_station: "元田中駅"
 source_video_title: "孤独のグルメ Season10 第2018話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260302/26002645/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.0115754
 lng: 135.7681441
 members:

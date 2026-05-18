@@ -13,6 +13,7 @@ youtube_id: "WuYIFXP7wCA"
 source_video_title: "#238【朝食シリーズ!!】やっぱ飯は最高だよなの日"
 source_video_url: "https://www.youtube.com/watch?v=WuYIFXP7wCA"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/WuYIFXP7wCA/hqdefault.jpg"
 lat: 35.7295
 lng: 139.7205
 members:

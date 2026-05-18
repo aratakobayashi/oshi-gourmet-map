@@ -11,6 +11,7 @@ address: "東京都府中市美好町３丁目１−２５"
 visited_date: "2024-08-15"
 youtube_id: "aD0Q4-d-Ntg"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/aD0Q4-d-Ntg/hqdefault.jpg"
 lat: 35.6700214
 lng: 139.4652109
 members:

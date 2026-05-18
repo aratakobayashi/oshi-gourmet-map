@@ -13,6 +13,7 @@ youtube_id: "bXq2vtpe7lQ"
 source_video_title: "#400 【祝!400回!!】なのに通常運転だった日"
 source_video_url: "https://www.youtube.com/watch?v=A8hN9942pNo"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/bXq2vtpe7lQ/hqdefault.jpg"
 lat: 35.684643
 lng: 139.796089
 members:

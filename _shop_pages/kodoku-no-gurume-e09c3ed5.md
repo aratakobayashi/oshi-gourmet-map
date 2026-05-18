@@ -12,6 +12,8 @@ nearest_station: "根津駅"
 source_video_title: "孤独のグルメ Season1 第11話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131106/13018386/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eLNrfVMEm71T3ela425R3UfsId0.jpg"
+source_type: "drama"
 lat: 35.7080255
 lng: 139.7523066
 members:

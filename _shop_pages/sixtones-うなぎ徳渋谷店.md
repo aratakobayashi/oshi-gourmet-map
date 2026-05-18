@@ -13,6 +13,7 @@ youtube_id: "IL6OX1NjzsM"
 source_video_title: "SixTONES - 高級うなぎを食す"
 source_video_url: "https://www.youtube.com/watch?v=Z5eW8mP8t_E"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/IL6OX1NjzsM/hqdefault.jpg"
 lat: 35.6591
 lng: 139.7037
 members:

@@ -11,6 +11,7 @@ address: "東京都目黒区中目黒1-4-6 1F"
 visited_date: "2025-06-11"
 youtube_id: "8R-AlLRghJc"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/8R-AlLRghJc/hqdefault.jpg"
 lat: 35.6443
 lng: 139.7003
 members:

@@ -13,6 +13,7 @@ youtube_id: "0dnJrRmFRXo"
 source_video_title: "SixTONES【無限シリーズ~焼き鳥】オレたち…永遠に食える！"
 source_video_url: "https://www.youtube.com/watch?v=0dnJrRmFRXo"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
 lat: 35.690528
 lng: 139.697924
 members:

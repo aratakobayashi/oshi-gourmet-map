@@ -13,6 +13,7 @@ youtube_id: "owkOeu-efg4"
 source_video_title: "Snow Man【油そばブーム到来】人生初になります"
 source_video_url: "https://www.youtube.com/watch?v=owkOeu-efg4"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/owkOeu-efg4/hqdefault.jpg"
 seating_note: "2階の座敷席。無限ライスとお水が置いてあるカウンターのすぐそばのテーブルに着席。券売機で先に注文するシステム。昼時は学生・近隣客で混雑するため時間帯をずらすのがおすすめ。"
 lat: 35.7072
 lng: 139.7192

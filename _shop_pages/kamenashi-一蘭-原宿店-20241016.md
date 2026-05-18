@@ -13,6 +13,7 @@ youtube_id: "hLEUaWy6_kU"
 source_video_title: "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E8%98%AD%20%E5%8E%9F%E5%AE%BF%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg"
 lat: 35.6679219
 lng: 139.7052087
 members:

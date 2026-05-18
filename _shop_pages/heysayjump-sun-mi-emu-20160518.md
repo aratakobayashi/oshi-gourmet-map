@@ -11,6 +11,8 @@ address: "東京都中央区銀座6-3-9 7F"
 visited_date: "2016-05-18"
 source_video_title: "2016.05.18 高級レストランのランチ特集"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.6720135
 lng: 139.7647202
 members:

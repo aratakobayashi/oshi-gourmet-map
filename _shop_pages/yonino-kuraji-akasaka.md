@@ -11,6 +11,7 @@ address: "東京都港区赤坂4-2-2"
 visited_date: "2025-02-16"
 youtube_id: "gs9Wm4uzulk"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/gs9Wm4uzulk/hqdefault.jpg"
 lat: 35.671679
 lng: 139.735622
 members:

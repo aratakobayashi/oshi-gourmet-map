@@ -11,6 +11,7 @@ address: "東京都渋谷区上原１丁目３５−３"
 visited_date: "2024-08-15"
 youtube_id: "xdDGkIR78r4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/xdDGkIR78r4/hqdefault.jpg"
 lat: 35.6690181
 lng: 139.6843225
 members:

@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区北仲通５丁目５７−２"
 visited_date: "2026-03-22"
 youtube_id: "Zjn5_p49GWg"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Zjn5_p49GWg/hqdefault.jpg"
 lat: 35.450859
 lng: 139.6369359
 members:

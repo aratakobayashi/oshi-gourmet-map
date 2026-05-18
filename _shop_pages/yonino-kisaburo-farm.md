@@ -11,6 +11,7 @@ address: "東京都文京区千石1-23-11"
 visited_date: "2025-11-12"
 youtube_id: "cKNFpRk1_kU"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/cKNFpRk1_kU/hqdefault.jpg"
 lat: 35.726285
 lng: 139.745581
 members:

@@ -12,6 +12,8 @@ nearest_station: "寸座駅"
 source_video_title: "孤独のグルメ Season10 第2021話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2202/A220201/22002638/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 34.7109786
 lng: 137.7259431
 members:

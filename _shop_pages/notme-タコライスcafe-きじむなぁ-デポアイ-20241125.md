@@ -11,6 +11,7 @@ address: "沖縄県中頭郡北谷町美浜９−１ デポアイランドビル
 visited_date: "2024-11-25"
 youtube_id: "ZwwzPBGFK5c"
 group: "notme"
+thumbnail_url: "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
 lat: 26.3270896
 lng: 127.7538362
 members:

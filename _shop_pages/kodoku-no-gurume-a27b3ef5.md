@@ -12,6 +12,8 @@ nearest_station: "群馬藤岡駅"
 source_video_title: "孤独のグルメ Season8 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gunma/A1005/A100502/10003191/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hfSa3hfT9j08FaWTnZ1cjmUR4yD.jpg"
+source_type: "drama"
 lat: 36.258633
 lng: 139.0745021
 members:

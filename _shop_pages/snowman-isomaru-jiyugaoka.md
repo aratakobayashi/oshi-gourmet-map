@@ -15,6 +15,7 @@ source_video_title: "Snow Man【絶品海鮮づくし】阿部亮平の食べた
 source_video_url: "https://www.youtube.com/watch?v=8zvSYQivscg"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
+thumbnail_url: "https://img.youtube.com/vi/8zvSYQivscg/hqdefault.jpg"
 seating_note: "SnowManが座った席は、2階の座敷窓際のお席。"
 lat: 35.6076524
 lng: 139.6675582

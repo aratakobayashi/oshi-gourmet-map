@@ -11,6 +11,7 @@ address: "長野県北佐久郡軽井沢町星野 ハルニレテラス"
 youtube_id: "9GSuuUqsNnM"
 source_video_title: "#289【軽井沢!】に向けて練習した日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/9GSuuUqsNnM/hqdefault.jpg"
 lat: 36.356
 lng: 138.6348
 members:

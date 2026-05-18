@@ -11,6 +11,7 @@ address: "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 lat: 36.5790275
 lng: 136.6465437
 members:

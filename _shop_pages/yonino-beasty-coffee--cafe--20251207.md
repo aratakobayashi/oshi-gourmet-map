@@ -13,6 +13,7 @@ visited_date: "2025-12-07"
 youtube_id: "0UEnIqazHQI"
 source_video_title: "#481【ドライブ!!】遅れました。ごめんなさいの日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/0UEnIqazHQI/hqdefault.jpg"
 lat: 35.6672759
 lng: 139.6905009
 groups:

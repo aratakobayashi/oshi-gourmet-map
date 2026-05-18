@@ -11,6 +11,7 @@ address: "東京都新宿区歌舞伎町１丁目２１−１ 第二東亜会館
 visited_date: "2026-03-28"
 youtube_id: "eMXdBOC3YE4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/eMXdBOC3YE4/hqdefault.jpg"
 lat: 35.6953799
 lng: 139.7017233
 members:

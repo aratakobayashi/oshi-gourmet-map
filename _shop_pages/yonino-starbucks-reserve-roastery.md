@@ -12,6 +12,7 @@ visited_date: "2025-01-26"
 youtube_id: "Q2GrO9mPWIc"
 source_video_title: "#391 【ドライブ!!】経理がゴネにゴネた日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/Q2GrO9mPWIc/hqdefault.jpg"
 lat: 35.6523
 lng: 139.7013
 members:

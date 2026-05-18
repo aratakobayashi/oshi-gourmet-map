@@ -12,6 +12,7 @@ youtube_id: "s1cgEj5JowM"
 source_video_title: "22nd帰り道は遠回りしたくなるType-A"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=GOOD%20MORNING%20CAFE%20%E9%8C%A6%E7%94%BA"
+thumbnail_url: "https://img.youtube.com/vi/s1cgEj5JowM/hqdefault.jpg"
 lat: 35.6916939
 lng: 139.7618479
 members:

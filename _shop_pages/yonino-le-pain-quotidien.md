@@ -13,6 +13,7 @@ youtube_id: "Oe3fdhOhEnc"
 source_video_title: "#354【朝食!!】RIKACO(さん)に会った日"
 source_video_url: "https://www.youtube.com/watch?v=Yf1rU96X3Lw"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg"
 lat: 35.6649
 lng: 139.7306
 members:

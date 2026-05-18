@@ -13,6 +13,7 @@ youtube_id: "5TbjbC6I9vY"
 source_video_title: "Snow Man【ザギンでシースー】北海道直前のご褒美タイム"
 source_video_url: "https://www.youtube.com/watch?v=5TbjbC6I9vY"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg"
 lat: 35.6727
 lng: 139.7683
 members:

@@ -12,6 +12,8 @@ nearest_station: "三鷹駅"
 source_video_title: "孤独のグルメ Season2 第12話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132002/13059752/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/mwnNQgb07xZ2AiQYzudAviUG0uA.jpg"
+source_type: "drama"
 lat: 35.6833926
 lng: 139.5592421
 members:

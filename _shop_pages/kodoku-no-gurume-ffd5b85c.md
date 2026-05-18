@@ -12,6 +12,8 @@ nearest_station: "稲田堤駅"
 source_video_title: "孤独のグルメ Season5 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140506/14014221/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/g3fOnmHzwDffVnbMFIlNFZ4Xkqp.jpg"
+source_type: "drama"
 lat: 35.5306639
 lng: 139.7037668
 members:

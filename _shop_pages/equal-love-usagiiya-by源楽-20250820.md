@@ -11,6 +11,7 @@ address: "静岡県熱海市田原本町３−１０"
 visited_date: "2025-08-20"
 youtube_id: "7N3fbKMpQaU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
 lat: 35.1033354
 lng: 139.0782748
 members:

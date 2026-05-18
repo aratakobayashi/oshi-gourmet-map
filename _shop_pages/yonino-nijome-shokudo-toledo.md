@@ -12,6 +12,7 @@ visited_date: "2023-12-13"
 youtube_id: "5Hm39uw13C4"
 source_video_title: "#282【洋食パラダイス♪】開口一番を探り合った日!!!"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/5Hm39uw13C4/hqdefault.jpg"
 lat: 35.7029
 lng: 139.7383
 members:

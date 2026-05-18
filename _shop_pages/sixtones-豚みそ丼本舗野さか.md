@@ -13,6 +13,7 @@ youtube_id: "ki6-4nUfMTM"
 source_video_title: "SixTONES - 秩父グルメを堪能"
 source_video_url: "https://www.youtube.com/watch?v=7qT9_f_yB-Y"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/ki6-4nUfMTM/hqdefault.jpg"
 lat: 35.9897
 lng: 139.0823
 members:

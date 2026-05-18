@@ -13,6 +13,7 @@ youtube_id: "XeLem4774FE"
 source_video_title: "#320【朝食!!】本当に普通に喋って終わった日"
 source_video_url: "https://www.youtube.com/watch?v=mE8Psk0L9_4"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/XeLem4774FE/hqdefault.jpg"
 lat: 35.6561
 lng: 139.7371
 members:

@@ -11,6 +11,7 @@ address: "北海道札幌市中央区南３条西５丁目１−１ ノルベサ
 visited_date: "2024-08-15"
 youtube_id: "ohdDJpMuBco"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/ohdDJpMuBco/hqdefault.jpg"
 lat: 43.0563633
 lng: 141.3508023
 members:

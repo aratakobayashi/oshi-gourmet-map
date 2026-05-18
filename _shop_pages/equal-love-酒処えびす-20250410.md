@@ -11,6 +11,7 @@ address: "東京都台東区浅草２丁目７−１３"
 visited_date: "2025-04-10"
 youtube_id: "tvUBTJDvKQI"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/tvUBTJDvKQI/hqdefault.jpg"
 lat: 35.714955
 lng: 139.7957367
 members:

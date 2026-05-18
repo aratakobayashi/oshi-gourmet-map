@@ -13,6 +13,7 @@ youtube_id: "K7VI68XxpRk"
 source_video_title: "【爆食】Travis Japan七五三掛龍也 初の蕎麦打ち体験！お互いの蕎麦を食べ比べてみました。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%B8%83%E6%81%92%E6%9B%B4%E7%A7%91"
+thumbnail_url: "https://img.youtube.com/vi/K7VI68XxpRk/hqdefault.jpg"
 lat: 35.5901443
 lng: 139.7347172
 members:

@@ -12,6 +12,7 @@ visited_date: "2025-11-23"
 youtube_id: "FUZpjh8sXoE"
 source_video_title: "#477【新誕!!】お金払いチャンネルの日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/FUZpjh8sXoE/hqdefault.jpg"
 lat: 35.66483
 lng: 139.718338
 members:

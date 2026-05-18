@@ -12,6 +12,7 @@ visited_date: "2025-04-02"
 youtube_id: "b42UaxUU6TI"
 source_video_title: "#410【朝食!!】大好評だった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/b42UaxUU6TI/hqdefault.jpg"
 lat: 33.5934
 lng: 130.4153
 members:

@@ -13,6 +13,7 @@ visited_date: "2025-08-13"
 youtube_id: "qiO0bKGdK8g"
 source_video_title: "#448【遅刻!!】ごめんなさいの日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/qiO0bKGdK8g/hqdefault.jpg"
 lat: 35.696554
 lng: 139.7043747
 groups:

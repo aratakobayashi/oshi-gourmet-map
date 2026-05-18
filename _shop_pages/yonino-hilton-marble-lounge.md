@@ -12,6 +12,7 @@ visited_date: "2025-07-13"
 youtube_id: "br-iF9GUpIE"
 source_video_title: "#439【セレブ!!】ホテルブッヘった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg"
 lat: 35.6896
 lng: 139.6917
 members:

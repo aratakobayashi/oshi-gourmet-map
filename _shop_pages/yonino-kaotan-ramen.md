@@ -11,6 +11,7 @@ address: "東京都港区南青山2-34-30"
 visited_date: "2025-01-12"
 youtube_id: "5lDHj8PXno8"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/5lDHj8PXno8/hqdefault.jpg"
 lat: 35.667268
 lng: 139.72226
 members:

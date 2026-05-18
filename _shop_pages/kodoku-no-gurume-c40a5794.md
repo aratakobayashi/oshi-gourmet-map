@@ -11,6 +11,8 @@ nearest_station: "東我孫子駅"
 source_video_title: "孤独のグルメ Season10 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1203/A120304/12015049/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/1KxwMJsyk0Q5gmkiNqDPMUkUhi3.jpg"
+source_type: "drama"
 lat: 35.8676218
 lng: 139.9756876
 members:

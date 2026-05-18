@@ -10,6 +10,7 @@ youtube_id: "q9xC9ARZrR4"
 source_video_title: "Snow Man【思い出の味…スペイン料理】バルセロナに到着です"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13221213/"
+thumbnail_url: "https://img.youtube.com/vi/q9xC9ARZrR4/hqdefault.jpg"
 lat: 34.6694965
 lng: 135.5015898
 groups:

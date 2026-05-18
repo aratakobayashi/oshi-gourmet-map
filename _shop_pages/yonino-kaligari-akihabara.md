@@ -13,6 +13,7 @@ youtube_id: "OvgqN-sckKE"
 source_video_title: "#292【朝!!】だからカレーでしょの日"
 source_video_url: "https://www.youtube.com/watch?v=vX-D0-Y2S2U"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/OvgqN-sckKE/hqdefault.jpg"
 lat: 35.6994
 lng: 139.7728
 members:

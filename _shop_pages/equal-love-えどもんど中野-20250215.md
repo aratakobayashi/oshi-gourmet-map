@@ -11,6 +11,7 @@ address: "東京都中野区中野５丁目５６−１２"
 visited_date: "2025-02-15"
 youtube_id: "1QLZfSE6X3Q"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/1QLZfSE6X3Q/hqdefault.jpg"
 lat: 35.7079412
 lng: 139.6692565
 members:

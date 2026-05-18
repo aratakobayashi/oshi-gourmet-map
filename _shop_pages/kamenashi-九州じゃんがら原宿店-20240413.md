@@ -13,6 +13,7 @@ youtube_id: "Yh0PvWpXNoY"
 source_video_title: "【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
 lat: 35.6687049
 lng: 139.7053357
 members:

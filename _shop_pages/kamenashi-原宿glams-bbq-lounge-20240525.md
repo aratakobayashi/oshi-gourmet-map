@@ -13,6 +13,7 @@ youtube_id: "qWliiMG-FZA"
 source_video_title: "【グローブあり】なにわ男子 藤原丈一郎と東京のど真ん中でBBQをしたら幸せすぎた！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%8E%9F%E5%AE%BFGLAMS%20BBQ%20Lounge"
+thumbnail_url: "https://img.youtube.com/vi/qWliiMG-FZA/hqdefault.jpg"
 lat: 35.6687049
 lng: 139.7053357
 members:

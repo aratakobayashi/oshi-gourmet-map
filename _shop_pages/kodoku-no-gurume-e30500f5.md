@@ -12,6 +12,8 @@ nearest_station: "木場駅"
 source_video_title: "孤独のグルメ Season4 第6話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13128960/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/kMdMOvZEVzr5evcH3YWRpKjha9H.jpg"
+source_type: "drama"
 lat: 35.6727747
 lng: 139.8169621
 members:

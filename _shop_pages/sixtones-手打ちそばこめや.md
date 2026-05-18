@@ -13,6 +13,7 @@ youtube_id: "g58loSsI8Rw"
 source_video_title: "SixTONES - 金沢・ひがし茶屋街を歩く"
 source_video_url: "https://www.youtube.com/watch?v=mXjVl6k9Q-I"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/g58loSsI8Rw/hqdefault.jpg"
 lat: 36.5721
 lng: 136.6661
 members:

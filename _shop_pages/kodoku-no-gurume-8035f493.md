@@ -12,6 +12,8 @@ nearest_station: "錦糸町駅"
 source_video_title: "孤独のグルメ Season5 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13018014/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tUnytmP69Wms8SpFvlv51PK47bW.jpg"
+source_type: "drama"
 lat: 35.6727747
 lng: 139.8169621
 members:

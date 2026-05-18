@@ -12,6 +12,8 @@ nearest_station: "西巣鴨駅"
 source_video_title: "孤独のグルメ Season5 第12話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1322/A132201/13012319/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/kxv7jdhOBNXOGj7ZT2A6m8gDkRq.jpg"
+source_type: "drama"
 lat: 35.725913
 lng: 139.7166365
 members:

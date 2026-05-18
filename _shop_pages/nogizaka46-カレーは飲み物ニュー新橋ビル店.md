@@ -11,6 +11,7 @@ youtube_id: "ellqj4rVq6g"
 source_video_title: "乃木坂どこへ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AF%E9%A3%B2%E3%81%BF%E7%89%A9%E3%80%82%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E6%A9%8B%E3%83%93%E3%83%AB%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg"
 lat: 35.6661689
 lng: 139.7582206
 members:

@@ -11,6 +11,7 @@ address: "千葉県松戸市北松戸３丁目１−７６"
 visited_date: "2024-08-15"
 youtube_id: "MYDcp3vSmxI"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/MYDcp3vSmxI/hqdefault.jpg"
 lat: 35.801834
 lng: 139.915647
 members:

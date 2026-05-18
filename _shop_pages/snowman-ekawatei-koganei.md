@@ -13,6 +13,7 @@ youtube_id: "HGSvw6srgNU"
 source_video_title: "Snow Man【地元で有名なラーメン店】なんだかサイコーの日になりました✨"
 source_video_url: "https://www.youtube.com/watch?v=G_H9oT6u7_k"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/HGSvw6srgNU/hqdefault.jpg"
 lat: 35.7027
 lng: 139.5136
 members:

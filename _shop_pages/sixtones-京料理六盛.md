@@ -13,6 +13,7 @@ youtube_id: "kDFP1_FLpJc"
 source_video_title: "SixTONES - 京都で最高の和食"
 source_video_url: "https://www.youtube.com/watch?v=jW-C_vG3R6o"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/kDFP1_FLpJc/hqdefault.jpg"
 lat: 35.0141
 lng: 135.7811
 members:

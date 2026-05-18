@@ -13,6 +13,7 @@ youtube_id: "FchXkyq_lds"
 source_video_title: "【SixTONES】下北沢で朝メシ食おうと散歩したら..."
 source_video_url: "https://www.youtube.com/watch?v=pY6K-X_UvG0"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/FchXkyq_lds/hqdefault.jpg"
 lat: 35.5891
 lng: 139.7281
 members:

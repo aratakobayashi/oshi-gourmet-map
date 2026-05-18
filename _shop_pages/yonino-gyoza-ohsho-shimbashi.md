@@ -13,6 +13,7 @@ youtube_id: "K_MkrrYFgR0"
 source_video_title: "#440【初!!】意外と食べてなかったのを知った日"
 source_video_url: "https://www.youtube.com/watch?v=M9oR9A7XN5E"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/K_MkrrYFgR0/hqdefault.jpg"
 lat: 35.666
 lng: 139.7586
 members:

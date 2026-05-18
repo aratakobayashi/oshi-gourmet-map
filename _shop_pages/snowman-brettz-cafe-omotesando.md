@@ -13,6 +13,7 @@ youtube_id: "F_8ppM90cTA"
 source_video_title: "Snow Man【パリから来た伝説の男登場】ガレットってこんなに美味いのか✨"
 source_video_url: "https://www.youtube.com/watch?v=j_N1y5O3wI0"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/F_8ppM90cTA/hqdefault.jpg"
 lat: 35.6705
 lng: 139.7128
 members:

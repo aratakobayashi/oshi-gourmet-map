@@ -13,6 +13,7 @@ youtube_id: "flzByEH1qc8"
 source_video_title: "Snow Man「宮舘の食べたいものを当てろ！」イタリアン編"
 source_video_url: "https://www.youtube.com/watch?v=8XWlH5jIAsU"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
 lat: 35.6757
 lng: 139.7367
 members:

@@ -11,6 +11,8 @@ address: "茨城県つくば市並木4-17-8"
 visited_date: "2016-10-26"
 source_video_title: "2016.10.26 秋のバスツアーおすすめグルメ"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 36.06035
 lng: 140.1439471
 members:

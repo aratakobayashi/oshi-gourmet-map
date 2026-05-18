@@ -11,6 +11,8 @@ nearest_station: "麻布十番駅"
 source_video_title: "孤独のグルメ Season8 第3話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13093715/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/dR2wWfh0tY3lLouAYo0nszND8aB.jpg"
+source_type: "drama"
 lat: 35.6580089
 lng: 139.7515137
 members:

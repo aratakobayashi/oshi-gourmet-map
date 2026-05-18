@@ -12,6 +12,8 @@ nearest_station: "北山田駅"
 source_video_title: "孤独のグルメ Season10 第2020話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140203/14018576/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.5306639
 lng: 139.7037668
 members:

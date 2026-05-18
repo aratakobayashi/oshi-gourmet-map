@@ -12,6 +12,7 @@ visited_date: "2024-01-03"
 youtube_id: "jDTiroXb9RU"
 source_video_title: "#288【朝飯!!】久々に4人で食べた日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
 lat: 35.6978
 lng: 139.7582
 members:

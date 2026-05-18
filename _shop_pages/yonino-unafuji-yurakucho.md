@@ -11,6 +11,7 @@ address: "東京都千代田区内幸町1-7-1 日比谷OKUROJI"
 visited_date: "2025-08-27"
 youtube_id: "sDxdoLUksaY"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/sDxdoLUksaY/hqdefault.jpg"
 lat: 35.669996
 lng: 139.757076
 members:

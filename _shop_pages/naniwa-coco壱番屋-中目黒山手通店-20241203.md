@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=wvv-EUPN6_8"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13236641/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002"
+thumbnail_url: "https://img.youtube.com/vi/wvv-EUPN6_8/hqdefault.jpg"
 lat: 35.6441592
 lng: 139.6950848
 groups:

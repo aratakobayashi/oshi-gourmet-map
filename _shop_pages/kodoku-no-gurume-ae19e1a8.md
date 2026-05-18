@@ -12,6 +12,8 @@ nearest_station: "銀座駅"
 source_video_title: "孤独のグルメ Season8 第3話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13170099/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/dR2wWfh0tY3lLouAYo0nszND8aB.jpg"
+source_type: "drama"
 lat: 35.6706436
 lng: 139.7719923
 members:

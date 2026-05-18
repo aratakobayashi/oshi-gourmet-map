@@ -11,6 +11,7 @@ address: "東京都渋谷区千駄ケ谷４丁目１０−４ 千駄ヶ谷グリ
 visited_date: "2024-08-07"
 youtube_id: "Ev-wsPc9Q68"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Ev-wsPc9Q68/hqdefault.jpg"
 lat: 35.6804288
 lng: 139.7064427
 members:

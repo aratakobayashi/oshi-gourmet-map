@@ -11,6 +11,8 @@ address: "沖縄県中頭郡読谷村"
 source_video_title: "孤独のグルメ Season10 第2023話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470304/47011126/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 26.3961234
 lng: 127.7449497
 members:

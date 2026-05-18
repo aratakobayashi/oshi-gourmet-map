@@ -8,6 +8,8 @@ genre: "和食"
 address: "韓国釜山市"
 source_video_title: "孤独のグルメ Season10 第2019話"
 group: "kodoku_no_gurume"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 34.6668083
 lng: 133.9219448
 members:

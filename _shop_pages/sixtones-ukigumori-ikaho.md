@@ -13,6 +13,7 @@ youtube_id: "iL3LjxeRpX4"
 source_video_title: "SixTONES【帰ってきたアポなし旅~最終話~】ただメシ食って…温泉入る♨️"
 source_video_url: "https://www.youtube.com/watch?v=iL3LjxeRpX4"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/iL3LjxeRpX4/hqdefault.jpg"
 lat: 36.567381
 lng: 138.983521
 members:

@@ -12,6 +12,8 @@ nearest_station: "御花畑駅"
 source_video_title: "孤独のグルメ Season10 第2020話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1107/A110701/11019456/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.9914509
 lng: 139.0857612
 members:

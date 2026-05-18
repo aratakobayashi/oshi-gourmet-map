@@ -11,6 +11,7 @@ address: "石川県金沢市本町１丁目９−１０"
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 lat: 36.5750276
 lng: 136.6529341
 members:

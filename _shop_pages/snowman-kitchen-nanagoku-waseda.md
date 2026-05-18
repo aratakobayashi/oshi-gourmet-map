@@ -13,6 +13,7 @@ youtube_id: "iTskjw-fo_I"
 source_video_title: "Snow Man【俺たちが大学生だったら…】こんな感じでメシ食うよね！"
 source_video_url: "https://www.youtube.com/watch?v=f7B8Wj-FfS0"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg"
 lat: 35.7072
 lng: 139.721
 members:

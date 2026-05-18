@@ -11,6 +11,7 @@ address: "東京都千代田区六番町４−５"
 visited_date: "2024-08-04"
 youtube_id: "9YA8s463_l8"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/9YA8s463_l8/hqdefault.jpg"
 lat: 35.687493
 lng: 139.733399
 members:

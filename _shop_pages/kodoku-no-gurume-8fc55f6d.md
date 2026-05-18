@@ -12,6 +12,8 @@ nearest_station: "町田駅"
 source_video_title: "孤独のグルメ Season7 第2話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132701/13284418/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rchoKeBZTymB3clvMcjnF3dRtp4.jpg"
+source_type: "drama"
 lat: 35.6469025
 lng: 139.652531
 members:

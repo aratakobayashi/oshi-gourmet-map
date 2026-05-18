@@ -13,6 +13,7 @@ youtube_id: "Ssamk6Xf-gM"
 source_video_title: "SixTONES ジェシーソロ【せいやとメシ会】まったりプライベートトーク"
 source_video_url: "https://www.youtube.com/watch?v=Ssamk6Xf-gM"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/Ssamk6Xf-gM/hqdefault.jpg"
 lat: 35.659562
 lng: 139.726074
 members:

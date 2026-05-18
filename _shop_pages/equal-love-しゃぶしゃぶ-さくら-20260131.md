@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区福富町西通４８"
 visited_date: "2026-01-31"
 youtube_id: "QMulxshbfPI"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/QMulxshbfPI/hqdefault.jpg"
 lat: 35.4503381
 lng: 139.6343802
 members:

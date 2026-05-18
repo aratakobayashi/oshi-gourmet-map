@@ -12,6 +12,8 @@ nearest_station: "桜木町駅"
 source_video_title: "孤独のグルメ Season10 第3話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14030553/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fij0mmm5KxNSDrNCXMKbM1tzEcq.jpg"
+source_type: "drama"
 lat: 35.4503381
 lng: 139.6343802
 members:

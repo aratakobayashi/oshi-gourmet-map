@@ -12,6 +12,7 @@ visited_date: "2022-09-14"
 youtube_id: "8rYGXSOk-60"
 source_video_title: "#160【朝食シリーズ】左利き苦悩が爆裂した日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/8rYGXSOk-60/hqdefault.jpg"
 lat: 35.7246
 lng: 139.7623
 members:

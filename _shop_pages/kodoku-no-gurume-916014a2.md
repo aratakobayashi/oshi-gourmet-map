@@ -12,6 +12,8 @@ nearest_station: "駒込駅"
 source_video_title: "孤独のグルメ Season1 第2話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13126067/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/4Nx95DgdXqnFsG6D6gmK9gdMS82.jpg"
+source_type: "drama"
 lat: 35.725913
 lng: 139.7166365
 members:

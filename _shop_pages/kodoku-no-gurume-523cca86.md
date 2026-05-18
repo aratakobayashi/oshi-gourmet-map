@@ -12,6 +12,8 @@ nearest_station: "清瀬駅"
 source_video_title: "孤独のグルメ Season4 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132803/13040781/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/dbrWREgU5gr1XBPoBo71VuJfZO6.jpg"
+source_type: "drama"
 lat: 35.785483
 lng: 139.531253
 members:

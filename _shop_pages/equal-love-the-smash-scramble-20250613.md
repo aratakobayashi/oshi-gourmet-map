@@ -11,6 +11,7 @@ address: "東京都渋谷区宇田川町２６−１１ 白馬ビル"
 visited_date: "2025-06-13"
 youtube_id: "9g0At0uaJmc"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/9g0At0uaJmc/hqdefault.jpg"
 lat: 35.6620752
 lng: 139.6974957
 members:

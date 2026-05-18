@@ -12,6 +12,7 @@ youtube_id: "SCn4CdAOcoc"
 source_video_title: "SixTONES【松村北斗の食べたいものを当てろ】"
 source_video_url: "https://www.youtube.com/watch?v=FjI_q_f82yM"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/SCn4CdAOcoc/hqdefault.jpg"
 lat: 35.6464
 lng: 139.7102
 members:

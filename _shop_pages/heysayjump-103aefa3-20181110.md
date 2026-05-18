@@ -12,6 +12,8 @@ visited_date: "2018-11-10"
 source_video_title: "2018.11.10 川越特集"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11020315/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.9251145
 lng: 139.4856927
 members:

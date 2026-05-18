@@ -12,6 +12,8 @@ nearest_station: "元町・中華街駅"
 source_video_title: "孤独のグルメ Season8 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14064517/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/radX6AzCuOaP0GhOmkCuihfi8JF.jpg"
+source_type: "drama"
 lat: 35.4503381
 lng: 139.6343802
 members:

@@ -13,6 +13,7 @@ youtube_id: "GpPJOgdEbhE"
 source_video_title: "Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ"
 source_video_url: "https://www.youtube.com/watch?v=GpPJOgdEbhE"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
 seating_note: "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
 lat: 35.6469
 lng: 139.7139

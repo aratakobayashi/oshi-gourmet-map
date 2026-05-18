@@ -12,6 +12,7 @@ visited_date: "2024-12-15"
 youtube_id: "mn44iXUaxgg"
 source_video_title: "#379【なんで??】北村匠海がやって来た…!!の日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/mn44iXUaxgg/hqdefault.jpg"
 lat: 35.673
 lng: 139.758
 members:

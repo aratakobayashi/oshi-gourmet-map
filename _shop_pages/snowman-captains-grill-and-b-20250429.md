@@ -13,6 +13,7 @@ visited_date: "2025-04-29"
 youtube_id: "99-SIhGTrYg"
 source_video_title: "【すのちゅーぶ】羽田空港が見える「川崎キングスカイフロント東急REIホテル₋Captain’s Grill and Bar-」SnowManロケ地"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/99-SIhGTrYg/hqdefault.jpg"
 lat: 35.5410017
 lng: 139.753172
 members:

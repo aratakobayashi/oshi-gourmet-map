@@ -12,6 +12,8 @@ nearest_station: "池袋駅"
 source_video_title: "孤独のグルメ Season1 第3話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13009261/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/uSFM57h1ipEsyhe12pJP0Ans7hH.jpg"
+source_type: "drama"
 lat: 35.725913
 lng: 139.7166365
 members:

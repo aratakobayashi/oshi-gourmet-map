@@ -12,6 +12,8 @@ nearest_station: "国分寺駅"
 source_video_title: "孤独のグルメ Season8 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13058384/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg"
+source_type: "drama"
 lat: 35.6693751
 lng: 139.4774094
 members:

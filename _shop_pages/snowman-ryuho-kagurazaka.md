@@ -13,6 +13,7 @@ youtube_id: "EWIafNjEYU4"
 source_video_title: "Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?"
 source_video_url: "https://www.youtube.com/watch?v=7uC8L8n2s9c"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/EWIafNjEYU4/hqdefault.jpg"
 lat: 35.703
 lng: 139.7383
 members:

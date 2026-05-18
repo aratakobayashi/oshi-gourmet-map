@@ -13,6 +13,7 @@ youtube_id: "Dp0KTso3Suw"
 source_video_title: "【きあまい】中華街旅#2 完食制覇！"
 source_video_url: "https://www.youtube.com/watch?v=Dp0KTso3Suw"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
 lat: 35.6812
 lng: 139.7671
 members:

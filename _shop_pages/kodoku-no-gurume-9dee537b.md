@@ -12,6 +12,8 @@ nearest_station: "二宮駅"
 source_video_title: "孤独のグルメ Season8 第2話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140408/14010017/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ze0VclKjZfx4xsW4BpVzzUFbbSb.jpg"
+source_type: "drama"
 lat: 37.2159314
 lng: 140.4783548
 members:

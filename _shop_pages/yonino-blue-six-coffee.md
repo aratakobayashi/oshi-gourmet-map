@@ -12,6 +12,7 @@ visited_date: "2025-03-30"
 youtube_id: "-eUXX7jYxrM"
 source_video_title: "#409【ゲスト!!】スターがコーヒーを買いに行った日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/-eUXX7jYxrM/hqdefault.jpg"
 lat: 35.6775
 lng: 139.7133
 members:

@@ -12,6 +12,8 @@ nearest_station: "鷺ノ宮駅"
 source_video_title: "孤独のグルメ Season1 第6話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132104/13011853/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/kqIy92qVBcclFg7SFxHuxxnqwO0.jpg"
+source_type: "drama"
 lat: 35.7086179
 lng: 139.6629399
 members:

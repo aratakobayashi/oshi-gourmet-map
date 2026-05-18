@@ -12,6 +12,8 @@ nearest_station: "日間賀島西港"
 source_video_title: "孤独のグルメ Season4 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/aichi/A2304/A230403/23007247/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/uV4Q3V9No9tNiyAx0Rlm6qTuaB5.jpg"
+source_type: "drama"
 lat: 34.7150958
 lng: 136.9300341
 members:

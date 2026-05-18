@@ -12,6 +12,8 @@ nearest_station: "松阪駅"
 source_video_title: "孤独のグルメ Season10 第2021話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/mie/A2401/A240102/24001314/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 34.5779441
 lng: 136.5276002
 members:

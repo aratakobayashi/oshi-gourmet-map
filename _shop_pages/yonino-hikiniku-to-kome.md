@@ -13,6 +13,7 @@ youtube_id: "SSMGkVmGtsM"
 source_video_title: "#408【ゲスト!!】凄い人が来た日"
 source_video_url: "https://www.youtube.com/watch?v=0_u6LidUu0I"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/SSMGkVmGtsM/hqdefault.jpg"
 lat: 35.659379
 lng: 139.69878
 members:

@@ -11,6 +11,8 @@ address: "東京都千代田区外神田1-6-7 秋葉原センタービル1F"
 visited_date: "2016-04-14"
 source_video_title: "2016.04.14 春の大盛りグルメ"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.7011217
 lng: 139.7711004
 members:

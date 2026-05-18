@@ -11,6 +11,7 @@ address: "大阪府大阪市淀川区西中島５丁目１６−１"
 visited_date: "2025-08-27"
 youtube_id: "eqfZmabiZ0A"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
 lat: 34.7313185
 lng: 135.500552
 members:

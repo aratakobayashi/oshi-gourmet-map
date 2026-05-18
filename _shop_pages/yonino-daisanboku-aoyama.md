@@ -12,6 +12,7 @@ visited_date: "2024-03-13"
 youtube_id: "y2_U3Ys2fUc"
 source_video_title: "#308【えっ!!】唐揚げがなくなった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/y2_U3Ys2fUc/hqdefault.jpg"
 lat: 35.6689
 lng: 139.7253
 members:

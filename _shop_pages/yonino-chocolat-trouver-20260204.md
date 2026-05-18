@@ -12,6 +12,7 @@ visited_date: "2026-02-04"
 youtube_id: "ZRCRbvpLm1s"
 source_video_title: "#499【チョコ!!】もうそんな時期ですね！の日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/ZRCRbvpLm1s/hqdefault.jpg"
 lat: 35.666133
 lng: 139.712593
 groups:

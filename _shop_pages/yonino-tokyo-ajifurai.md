@@ -12,6 +12,7 @@ visited_date: "2024-04-10"
 youtube_id: "PpuwpT20uhM"
 source_video_title: "#316【遂に!!】思いっきりストレートに行った日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/PpuwpT20uhM/hqdefault.jpg"
 lat: 35.695
 lng: 139.7502
 members:

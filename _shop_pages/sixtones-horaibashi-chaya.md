@@ -12,6 +12,7 @@ visited_date: "2024-01-01"
 youtube_id: "-_v57Sw9FNo"
 source_video_title: "SixTONES official 【６人ドライブ】北斗出身が静岡じゃなくグアムだったら？笑笑"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/-_v57Sw9FNo/hqdefault.jpg"
 lat: 34.828193
 lng: 138.176023
 members:

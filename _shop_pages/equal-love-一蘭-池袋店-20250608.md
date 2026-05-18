@@ -11,6 +11,7 @@ address: "東京都豊島区東池袋１丁目３９−１１"
 visited_date: "2025-06-08"
 youtube_id: "Y1zrFlbwhy8"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Y1zrFlbwhy8/hqdefault.jpg"
 lat: 35.7311554
 lng: 139.7149383
 members:

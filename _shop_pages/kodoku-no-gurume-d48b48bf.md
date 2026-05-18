@@ -12,6 +12,8 @@ nearest_station: "小川町駅"
 source_video_title: "孤独のグルメ Season8 第9話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13234867/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/icid89a9wXT7XsDwa4UVWKJ4NEy.jpg"
+source_type: "drama"
 lat: 35.6938097
 lng: 139.7532163
 members:

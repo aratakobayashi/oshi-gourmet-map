@@ -12,6 +12,8 @@ nearest_station: "三河島駅"
 source_video_title: "孤独のグルメ Season10 第9話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132401/13180444/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/7GchxSeuCC7l7C2aptiNHJoEWMw.jpg"
+source_type: "drama"
 lat: 35.737529
 lng: 139.78131
 members:

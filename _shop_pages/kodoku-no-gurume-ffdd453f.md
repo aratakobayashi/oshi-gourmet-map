@@ -12,6 +12,8 @@ nearest_station: "西大島駅"
 source_video_title: "孤独のグルメ Season2 第9話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131202/13127445/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3wu7onAc3NhWCqA8MbQpTsw6l92.jpg"
+source_type: "drama"
 lat: 35.6727747
 lng: 139.8169621
 members:

@@ -13,6 +13,7 @@ youtube_id: "VIXIy62I0Xo"
 source_video_title: "【朝食】京都の朝。一人で濃厚ラーメンをすすります。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B6%8F%E3%81%9D%E3%81%B0%EF%BC%92%EF%BC%92%EF%BC%93"
+thumbnail_url: "https://img.youtube.com/vi/VIXIy62I0Xo/hqdefault.jpg"
 lat: 35.0446733
 lng: 135.765823
 members:

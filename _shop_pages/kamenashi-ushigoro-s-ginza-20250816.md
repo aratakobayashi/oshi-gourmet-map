@@ -13,6 +13,7 @@ youtube_id: "2F4xUoo5GSM"
 source_video_title: "【夏休み】Snow Man渡辺翔太と東京の高級焼肉店でディナー！ゲスト松原タニシさんも迎えてゾクっとする話。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=USHIGORO%20S.%20GINZA"
+thumbnail_url: "https://img.youtube.com/vi/2F4xUoo5GSM/hqdefault.jpg"
 lat: 35.6745006
 lng: 139.7676782
 members:

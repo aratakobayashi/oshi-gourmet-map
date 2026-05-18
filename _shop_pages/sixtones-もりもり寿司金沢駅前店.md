@@ -13,6 +13,7 @@ youtube_id: "g58loSsI8Rw"
 source_video_title: "SixTONES - 金沢で回転寿司！"
 source_video_url: "https://www.youtube.com/watch?v=mXjVl6k9Q-I"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/g58loSsI8Rw/hqdefault.jpg"
 lat: 36.5815
 lng: 136.6478
 members:

@@ -12,6 +12,8 @@ nearest_station: "稲荷町駅"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13218310/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.7125805
 lng: 139.7800712
 members:

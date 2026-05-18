@@ -11,6 +11,7 @@ address: "滋賀県大津市馬場１丁目１０−１８"
 visited_date: "2024-08-14"
 youtube_id: "NcDizNoUVMs"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/NcDizNoUVMs/hqdefault.jpg"
 lat: 35.0021553
 lng: 135.8825058
 members:

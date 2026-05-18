@@ -11,6 +11,7 @@ address: "広島県広島市中区紙屋町２丁目３−２４"
 visited_date: "2024-08-14"
 youtube_id: "FFILw3D41B8"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
 lat: 34.3948813
 lng: 132.4588869
 members:

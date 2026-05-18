@@ -11,6 +11,7 @@ address: "石川県金沢市青草町８８"
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 lat: 36.5781
 lng: 136.6538
 members:

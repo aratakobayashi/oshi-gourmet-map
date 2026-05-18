@@ -12,6 +12,7 @@ visited_date: "2025-03-16"
 youtube_id: "suj-8ZxTzY0"
 source_video_title: "#405【考察!!】意外と経理がちゃんと考えていた日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/suj-8ZxTzY0/hqdefault.jpg"
 lat: 35.672
 lng: 139.7163
 members:

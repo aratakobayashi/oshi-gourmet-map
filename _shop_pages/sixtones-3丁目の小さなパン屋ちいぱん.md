@@ -13,6 +13,7 @@ youtube_id: "QxC80mUBnpQ"
 source_video_title: "SixTONES - 都内散歩"
 source_video_url: "https://www.youtube.com/watch?v=9B0nETo07gA"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/QxC80mUBnpQ/hqdefault.jpg"
 lat: 35.6912
 lng: 139.7065
 members:

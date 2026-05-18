@@ -12,6 +12,7 @@ visited_date: "2022-11-16"
 youtube_id: "QjkBTKEHcGE"
 source_video_title: "#180【全員集合】友達ですよね？と確認された日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/QjkBTKEHcGE/hqdefault.jpg"
 lat: 35.6653
 lng: 139.7712
 members:

@@ -12,6 +12,7 @@ visited_date: "2024-09-11"
 youtube_id: "xpAuMMk8HxQ"
 source_video_title: "#352【朝食!!】新しい食べ物だった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/xpAuMMk8HxQ/hqdefault.jpg"
 lat: 35.4477
 lng: 139.6267
 members:

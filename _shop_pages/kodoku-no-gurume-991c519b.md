@@ -12,6 +12,8 @@ nearest_station: "本所吾妻橋駅"
 source_video_title: "孤独のグルメ Season10 第2021話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131203/13158708/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.7104196
 lng: 139.8017421
 members:

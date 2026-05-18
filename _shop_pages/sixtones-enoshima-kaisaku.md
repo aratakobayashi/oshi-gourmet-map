@@ -13,6 +13,7 @@ youtube_id: "EhYbUENdLKE"
 source_video_title: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?"
 source_video_url: "https://www.youtube.com/watch?v=XmZ9bVvVqA0"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
 lat: 35.299508
 lng: 139.479397
 members:

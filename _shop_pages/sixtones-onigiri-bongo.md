@@ -12,6 +12,7 @@ youtube_id: "iIYXvfNAA4U"
 source_video_title: "【SixTONES】最強おにぎりの具を考えてみたら…ワチャワチャした💦"
 source_video_url: "https://www.youtube.com/watch?v=f-R7GvV9-p8"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/iIYXvfNAA4U/hqdefault.jpg"
 lat: 35.7317
 lng: 139.7286
 groups:

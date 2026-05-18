@@ -11,6 +11,7 @@ address: "東京都杉並区高円寺南４丁目２７−１８ ケーアイ高
 visited_date: "2024-12-15"
 youtube_id: "BPvNgGIKoeU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.70417
 lng: 139.6527502
 members:

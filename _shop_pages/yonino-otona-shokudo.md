@@ -11,6 +11,7 @@ address: "東京都新宿区新宿3-11-6 エクレ新宿303"
 visited_date: "2025-09-07"
 youtube_id: "gTzHfVLn3Ro"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/gTzHfVLn3Ro/hqdefault.jpg"
 lat: 35.692027
 lng: 139.706501
 members:

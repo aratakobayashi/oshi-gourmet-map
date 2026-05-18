@@ -12,6 +12,8 @@ nearest_station: "清澄白河駅"
 source_video_title: "孤独のグルメ Season5 第2話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13083755/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/pHNbjdRaxVZqvFMywPVFD3m74EL.jpg"
+source_type: "drama"
 lat: 35.6727747
 lng: 139.8169621
 members:

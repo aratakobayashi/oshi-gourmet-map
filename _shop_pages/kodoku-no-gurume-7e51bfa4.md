@@ -12,6 +12,8 @@ nearest_station: "宇佐美駅"
 source_video_title: "孤独のグルメ Season8 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22015662/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hfSa3hfT9j08FaWTnZ1cjmUR4yD.jpg"
+source_type: "drama"
 lat: 34.9656621
 lng: 139.101729
 members:

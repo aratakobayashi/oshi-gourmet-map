@@ -13,6 +13,7 @@ youtube_id: "ZxvmVJeY39U"
 source_video_title: "#336【朝飯!!】ちゃんこはええで…の日"
 source_video_url: "https://www.youtube.com/watch?v=Y-Bf_H7t99g"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg"
 lat: 35.6966
 lng: 139.794
 members:

@@ -12,6 +12,8 @@ nearest_station: "保谷駅"
 source_video_title: "孤独のグルメ Season8 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110301/11062127/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg"
+source_type: "drama"
 lat: 35.7931194
 lng: 139.5657258
 members:

@@ -11,6 +11,7 @@ address: "東京都台東区浅草1-14-2"
 visited_date: "2026-01-04"
 youtube_id: "922iF4MBP0E"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/922iF4MBP0E/hqdefault.jpg"
 lat: 35.717597
 lng: 139.797563
 members:

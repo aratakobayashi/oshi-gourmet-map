@@ -13,6 +13,7 @@ visited_date: "2025-07-09"
 youtube_id: "IW6S61tn3T0"
 source_video_title: "#438【買い物!!】経理の帽子が悲鳴をあげていた日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/IW6S61tn3T0/hqdefault.jpg"
 lat: 35.6661069
 lng: 139.7041199
 groups:

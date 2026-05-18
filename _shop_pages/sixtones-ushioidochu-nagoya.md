@@ -13,6 +13,7 @@ youtube_id: "CcwwsKelz6M"
 source_video_title: "SixTONES【撮れたてほやほや🎵】YOUNG OLD５大ドームツアー打上げ！"
 source_video_url: "https://www.youtube.com/watch?v=CcwwsKelz6M"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/CcwwsKelz6M/hqdefault.jpg"
 lat: 35.173458
 lng: 136.915774
 members:

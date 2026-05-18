@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町１４５ 横浜博覧館 3F"
 visited_date: "2024-08-12"
 youtube_id: "Dp0KTso3Suw"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
 lat: 35.4438
 lng: 139.6508
 members:

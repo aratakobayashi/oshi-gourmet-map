@@ -12,6 +12,7 @@ youtube_id: "Ya8aKNX5vOs"
 source_video_title: "SixTONES【日本橋蕎麦回】"
 source_video_url: "https://www.youtube.com/watch?v=Yf-gV9R_7pE"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/Ya8aKNX5vOs/hqdefault.jpg"
 lat: 35.6894
 lng: 139.7718
 groups:

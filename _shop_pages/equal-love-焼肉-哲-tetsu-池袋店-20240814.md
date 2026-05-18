@@ -11,6 +11,7 @@ address: "東京都豊島区南池袋２丁目１２−５ 第３中野ビル 1F
 visited_date: "2024-08-14"
 youtube_id: "FfoCq5L1SRg"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/FfoCq5L1SRg/hqdefault.jpg"
 lat: 35.7265922
 lng: 139.7157472
 members:

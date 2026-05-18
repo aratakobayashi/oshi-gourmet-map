@@ -11,6 +11,7 @@ address: "石川県金沢市下近江町２４"
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 lat: 31.9247486
 lng: 131.4329591
 members:

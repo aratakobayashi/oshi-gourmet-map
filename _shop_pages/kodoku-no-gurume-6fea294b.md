@@ -12,6 +12,8 @@ nearest_station: "下仁田駅"
 source_video_title: "孤独のグルメ Season7 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gunma/A1005/A100501/10005946/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/57R4hORnb4QwdunrixNu5hozPbs.jpg"
+source_type: "drama"
 lat: 36.210374
 lng: 138.7963831
 members:

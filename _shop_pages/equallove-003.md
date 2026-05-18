@@ -13,6 +13,7 @@ youtube_id: "63AuTeuPhDw"
 source_video_title: "=LOVE 16th Single「呪って呪って」MV"
 source_video_url: "https://www.youtube.com/watch?v=63AuTeuPhDw"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/63AuTeuPhDw/hqdefault.jpg"
 lat: 35.7133
 lng: 139.7779
 members:

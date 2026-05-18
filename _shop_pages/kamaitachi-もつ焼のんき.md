@@ -12,6 +12,7 @@ nearest_station: "錦糸町駅"
 youtube_id: "n6aabEP44lU"
 source_video_title: "かまいたちがロケで行った飲食店まとめ【関東編】"
 group: "kamaitachi"
+thumbnail_url: "https://img.youtube.com/vi/n6aabEP44lU/hqdefault.jpg"
 lat: 35.6983
 lng: 139.8135
 members:

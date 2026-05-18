@@ -12,6 +12,7 @@ visited_date: "2023-06-28"
 youtube_id: "uWh7fTQSG1k"
 source_video_title: "#249【朝食!!】最近ずっと朝飯を食べているなと思った日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/uWh7fTQSG1k/hqdefault.jpg"
 lat: 35.672
 lng: 139.7325
 members:

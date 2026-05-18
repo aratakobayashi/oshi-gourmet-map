@@ -11,6 +11,7 @@ address: "東京都青梅市新町４丁目21−５"
 visited_date: "2025-08-29"
 youtube_id: "T8Epe6pq3e4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/T8Epe6pq3e4/hqdefault.jpg"
 lat: 35.7850971
 lng: 139.3057829
 members:

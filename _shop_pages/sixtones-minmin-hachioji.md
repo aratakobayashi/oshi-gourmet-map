@@ -13,6 +13,7 @@ youtube_id: "3QQBHdy3Apg"
 source_video_title: "SixTONES【八王子ラーメンを食べまくる】バクバクモグモグ動画です🍜"
 source_video_url: "https://www.youtube.com/watch?v=3QQBHdy3Apg"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/3QQBHdy3Apg/hqdefault.jpg"
 lat: 35.651842
 lng: 139.285633
 members:

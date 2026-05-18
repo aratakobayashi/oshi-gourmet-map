@@ -11,6 +11,8 @@ address: "神奈川県横浜市神奈川区鶴屋町2-13-11 7F"
 visited_date: "2016-10-26"
 source_video_title: "2016.10.26 秋のバスツアーおすすめグルメ"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.4714623
 lng: 139.6159175
 members:

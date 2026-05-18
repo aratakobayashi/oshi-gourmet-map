@@ -11,6 +11,7 @@ address: "沖縄県那覇市久米２丁目３−１３"
 visited_date: "2024-08-15"
 youtube_id: "GZg8nO3EZ4E"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 lat: 26.2164391
 lng: 127.676357
 members:

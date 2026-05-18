@@ -11,6 +11,7 @@ address: "広島県廿日市市宮島町幸町東浜 492"
 visited_date: "2025-09-15"
 youtube_id: "0Strh5AKapM"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
 lat: 34.298185
 lng: 132.3215829
 members:

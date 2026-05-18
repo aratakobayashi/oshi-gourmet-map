@@ -11,6 +11,7 @@ address: "東京都世田谷区玉川３丁目１７−１ 南館 6階 高島屋
 visited_date: "2025-06-28"
 youtube_id: "rI97Y8OW8K0"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/rI97Y8OW8K0/hqdefault.jpg"
 lat: 35.6141434
 lng: 139.6247439
 members:

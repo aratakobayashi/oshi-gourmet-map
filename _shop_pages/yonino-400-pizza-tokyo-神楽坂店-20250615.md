@@ -13,6 +13,7 @@ visited_date: "2025-06-15"
 youtube_id: "AsbV0ZAiFMQ"
 source_video_title: "#431【朝食!!】やまだとざーぴーな日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
 lat: 35.6995251
 lng: 139.7395197
 groups:

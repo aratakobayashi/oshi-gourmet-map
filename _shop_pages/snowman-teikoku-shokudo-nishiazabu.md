@@ -13,6 +13,7 @@ youtube_id: "8j6glqZxVzU"
 source_video_title: "Snow Man【フレンチを食べよう！】メンバーの食べる顔を見るのが幸せ！"
 source_video_url: "https://www.youtube.com/watch?v=8j6glqZxVzU"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
 lat: 35.6563
 lng: 139.724
 members:

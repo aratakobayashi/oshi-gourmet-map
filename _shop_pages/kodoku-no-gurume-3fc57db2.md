@@ -11,6 +11,8 @@ address: "静岡県富士宮市"
 source_video_title: "孤独のグルメ Season10 第2021話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2204/A220401/22022695/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.2221369
 lng: 138.6214683
 members:

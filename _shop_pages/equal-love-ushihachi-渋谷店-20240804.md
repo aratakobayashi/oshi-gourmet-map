@@ -11,6 +11,7 @@ address: "東京都渋谷区道玄坂２丁目３−１ 渋谷駅前ビル 4Ｆ"
 visited_date: "2024-08-04"
 youtube_id: "WGNuE6STf5c"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/WGNuE6STf5c/hqdefault.jpg"
 lat: 35.6593786
 lng: 139.6987796
 members:

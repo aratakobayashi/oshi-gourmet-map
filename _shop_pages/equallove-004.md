@@ -13,6 +13,7 @@ youtube_id: "BPvNgGIKoeU"
 source_video_title: "【はしご酒】高円寺で飲んだお酒が最高すぎた..."
 source_video_url: "https://www.youtube.com/watch?v=BPvNgGIKoeU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.6993
 lng: 139.6363
 members:

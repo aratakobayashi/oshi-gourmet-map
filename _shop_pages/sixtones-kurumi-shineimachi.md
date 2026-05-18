@@ -13,6 +13,7 @@ youtube_id: "1enHsuNGPMQ"
 source_video_title: "SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！"
 source_video_url: "https://www.youtube.com/watch?v=1enHsuNGPMQ"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg"
 lat: 35.167743
 lng: 136.913842
 members:

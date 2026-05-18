@@ -13,6 +13,7 @@ youtube_id: "-wKcQcQ33Vo"
 source_video_title: "#369【イノッチ祭!!】とんでもない思い出が出てきた日"
 source_video_url: "https://www.youtube.com/watch?v=vO_Gv00-3-M"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/-wKcQcQ33Vo/hqdefault.jpg"
 lat: 35.6828
 lng: 139.7701
 members:

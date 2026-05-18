@@ -11,6 +11,7 @@ address: "東京都世田谷区三軒茶屋2-14-1 三茶ダイニングビル1F"
 visited_date: "2026-03-11"
 youtube_id: "Our3JGeWP7k"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/Our3JGeWP7k/hqdefault.jpg"
 lat: 35.642117
 lng: 139.668789
 members:

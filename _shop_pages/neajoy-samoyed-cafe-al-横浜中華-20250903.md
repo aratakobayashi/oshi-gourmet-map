@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町１４７ ヒナガタビル 2階"
 visited_date: "2025-09-03"
 youtube_id: "vQjP4UKBzqY"
 group: "neajoy"
+thumbnail_url: "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg"
 lat: 35.4438
 lng: 139.6508
 members:

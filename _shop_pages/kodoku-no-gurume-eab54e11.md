@@ -12,6 +12,8 @@ nearest_station: "橋本駅"
 source_video_title: "孤独のグルメ Season10 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1407/A140701/14015513/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/t9gPxwtKNBcvvZ3fmqgcBmqxVqW.jpg"
+source_type: "drama"
 lat: 35.5714621
 lng: 139.3731052
 members:

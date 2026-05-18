@@ -11,6 +11,7 @@ address: "東京都墨田区江東橋3-8-7 錦糸町駅前プラザビル8F"
 visited_date: "2024-08-16"
 youtube_id: "u5IbOEy-HqA"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/u5IbOEy-HqA/hqdefault.jpg"
 lat: 35.695997
 lng: 139.813881
 members:

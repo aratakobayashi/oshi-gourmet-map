@@ -12,6 +12,8 @@ nearest_station: "京成小岩駅"
 source_video_title: "孤独のグルメ Season2 第6話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131204/13020918/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/5bQ7Tc8Rvl1tqhnNxwmf2IpY30H.jpg"
+source_type: "drama"
 lat: 35.7066318
 lng: 139.868677
 members:

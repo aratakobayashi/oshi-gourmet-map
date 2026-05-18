@@ -12,6 +12,8 @@ nearest_station: "河津駅"
 source_video_title: "孤独のグルメ Season3 第3話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22014866/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/dJ7jhZKhSqG4Vs0rEhHLd52k592.jpg"
+source_type: "drama"
 lat: 34.7570038
 lng: 138.9875358
 members:

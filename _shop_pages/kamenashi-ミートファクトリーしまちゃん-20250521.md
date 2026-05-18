@@ -13,6 +13,7 @@ youtube_id: "chtW4R82cOg"
 source_video_title: "【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%9F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%97%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93"
+thumbnail_url: "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg"
 lat: 34.579238
 lng: 135.4764375
 members:

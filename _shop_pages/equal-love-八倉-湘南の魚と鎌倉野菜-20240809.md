@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市小町２丁目７−２８"
 visited_date: "2024-08-09"
 youtube_id: "Evw3lyphfcM"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
 lat: 35.3215127
 lng: 139.5531174
 members:

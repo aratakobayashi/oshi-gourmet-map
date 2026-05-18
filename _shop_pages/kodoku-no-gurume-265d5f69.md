@@ -12,6 +12,8 @@ nearest_station: "ひばりヶ丘駅"
 source_video_title: "孤独のグルメ Season8 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132801/13191253/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg"
+source_type: "drama"
 lat: 35.7931194
 lng: 139.5657258
 members:

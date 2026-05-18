@@ -13,6 +13,7 @@ youtube_id: "BtPB0wv2l3k"
 source_video_title: "#348【朝食!!】もはやこの朝が日常になった日"
 source_video_url: "https://www.youtube.com/watch?v=Kz6-eL-KjD0"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/BtPB0wv2l3k/hqdefault.jpg"
 lat: 35.7295
 lng: 139.7205
 members:

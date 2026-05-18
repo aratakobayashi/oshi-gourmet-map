@@ -12,6 +12,7 @@ youtube_id: "3_cm61ZXb2E"
 source_video_title: "SixTONES【浅草アポなし旅】"
 source_video_url: "https://www.youtube.com/watch?v=vV1p-oN6A80"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/3_cm61ZXb2E/hqdefault.jpg"
 lat: 35.7176
 lng: 139.7976
 groups:

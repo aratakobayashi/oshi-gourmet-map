@@ -12,6 +12,7 @@ youtube_id: "7eoiyP4kaAQ"
 source_video_title: "21thジコチューで行こう！Type-D"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8E%8C%E5%80%89%20ROOFTOPS%28%E3%83%AB%E3%83%BC%E3%83%95%E3%83%88%E3%83%83%E3%83%97%E3%82%B9%29"
+thumbnail_url: "https://img.youtube.com/vi/7eoiyP4kaAQ/hqdefault.jpg"
 lat: 35.319456
 lng: 139.5490021
 members:

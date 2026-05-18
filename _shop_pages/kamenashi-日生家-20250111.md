@@ -13,6 +13,7 @@ youtube_id: "8-pKbYjUTc4"
 source_video_title: "【1周年企画】Snow Man 宮舘涼太と鈴木福と豪華岡山旅！カキとビールで最高の昼飲み！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%97%A5%E7%94%9F%E5%AE%B6"
+thumbnail_url: "https://img.youtube.com/vi/8-pKbYjUTc4/hqdefault.jpg"
 lat: 34.6993156
 lng: 134.2550479
 members:

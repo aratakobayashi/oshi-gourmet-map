@@ -12,6 +12,8 @@ nearest_station: "蒲田駅"
 source_video_title: "孤独のグルメ Season4 第11話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131503/13038849/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/czPNbHoZ8vxVU2xH9ewynTgCR9d.jpg"
+source_type: "drama"
 lat: 35.561206
 lng: 139.715843
 members:

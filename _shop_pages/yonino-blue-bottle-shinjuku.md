@@ -12,6 +12,7 @@ visited_date: "2025-02-23"
 youtube_id: "HVxmVgBcpCY"
 source_video_title: "#399【山田回!!】山田が山田で山田だった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/HVxmVgBcpCY/hqdefault.jpg"
 lat: 35.6891
 lng: 139.7009
 members:

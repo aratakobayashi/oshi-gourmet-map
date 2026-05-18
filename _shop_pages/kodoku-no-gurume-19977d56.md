@@ -12,6 +12,8 @@ nearest_station: "豊田駅"
 source_video_title: "孤独のグルメ Season10 第2024話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132903/13016365/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.6713394
 lng: 139.3949801
 members:

@@ -12,6 +12,8 @@ nearest_station: "津田沼駅"
 source_video_title: "孤独のグルメ Season10 第2017話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1202/A120204/12001065/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.6816753
 lng: 140.0272065
 members:

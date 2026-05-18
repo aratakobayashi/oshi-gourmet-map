@@ -12,6 +12,8 @@ nearest_station: "三軒茶屋駅"
 source_video_title: "孤独のグルメ Season6 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13082443/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ezkdcB2nmYSCIJWtaNB9LzYB2CE.jpg"
+source_type: "drama"
 lat: 35.6469025
 lng: 139.652531
 members:

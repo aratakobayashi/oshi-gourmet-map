@@ -13,6 +13,7 @@ youtube_id: "uZ7a37YzWBo"
 source_video_title: "#170【ジャにのの夏！】運動してご飯食べたら動けなくなった日"
 source_video_url: "https://www.youtube.com/watch?v=uZ7a37YzWBo"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/uZ7a37YzWBo/hqdefault.jpg"
 lat: 35.7883
 lng: 139.2614
 members:

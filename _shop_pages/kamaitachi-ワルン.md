@@ -12,6 +12,7 @@ nearest_station: "四ツ橋駅"
 youtube_id: "kU8SZpaXoBE"
 source_video_title: "かまいたちがロケで行った飲食店まとめ【関西編】"
 group: "kamaitachi"
+thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 lat: 34.6735
 lng: 135.4899
 members:

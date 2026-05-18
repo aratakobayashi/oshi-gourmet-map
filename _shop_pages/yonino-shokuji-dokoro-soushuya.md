@@ -13,6 +13,7 @@ youtube_id: "O47Osoi2H_A"
 source_video_title: "#310【朝食】アジのフライニキの意思を継いだ日"
 source_video_url: "https://www.youtube.com/watch?v=O47Osoi2H_A"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/O47Osoi2H_A/hqdefault.jpg"
 lat: 35.6677
 lng: 139.6617
 members:

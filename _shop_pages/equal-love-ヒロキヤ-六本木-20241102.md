@@ -10,6 +10,7 @@ address: "東京都港区六本木５丁目２−６ 六本木ＴＫビル 3階"
 visited_date: "2024-11-02"
 youtube_id: "mUP0eCHFAoU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/mUP0eCHFAoU/hqdefault.jpg"
 lat: 35.6601174
 lng: 139.7352804
 members:

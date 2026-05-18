@@ -11,6 +11,7 @@ address: "愛知県岡崎市鴨田町広元１３４"
 visited_date: "2024-08-14"
 youtube_id: "rEJ08q9MkuE"
 group: "neajoy"
+thumbnail_url: "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
 lat: 34.9511
 lng: 137.1706
 members:

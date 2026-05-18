@@ -11,6 +11,8 @@ address: "東京都目黒区祐天寺2-17-11"
 nearest_station: "祐天寺駅"
 source_video_title: "timelesz project -AUDITION-"
 group: "timelesz"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg"
+source_type: "tv"
 lat: 35.6375748
 lng: 139.6910422
 members:

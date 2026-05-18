@@ -11,6 +11,7 @@ address: "東京都渋谷区恵比寿4-19-19"
 visited_date: "2025-10-22"
 youtube_id: "1VN2TGo5uOM"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/1VN2TGo5uOM/hqdefault.jpg"
 lat: 35.644978
 lng: 139.713966
 members:

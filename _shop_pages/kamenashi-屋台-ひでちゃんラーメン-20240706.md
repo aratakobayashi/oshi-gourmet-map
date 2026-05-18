@@ -13,6 +13,7 @@ youtube_id: "nBtgifut7vE"
 source_video_title: "【爆飲み】福岡の屋台で1人飲みをしていたらお客さんとのトークが楽しすぎてどんどん飲んで酔っ払ってしまいました。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%B1%8B%E5%8F%B0%20%E3%81%B2%E3%81%A7%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+thumbnail_url: "https://img.youtube.com/vi/nBtgifut7vE/hqdefault.jpg"
 lat: 33.5901826
 lng: 130.4086049
 members:

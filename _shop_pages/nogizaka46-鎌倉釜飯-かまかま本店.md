@@ -12,6 +12,7 @@ youtube_id: "Nm_W7Ii-eW8"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8E%8C%E5%80%89%E9%87%9C%E9%A3%AF%20%E3%81%8B%E3%81%BE%E3%81%8B%E3%81%BE%E6%9C%AC%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/Nm_W7Ii-eW8/hqdefault.jpg"
 lat: 35.319456
 lng: 139.5490021
 members:

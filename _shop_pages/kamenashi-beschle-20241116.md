@@ -11,6 +11,7 @@ youtube_id: "3ZnxNCg-uHg"
 source_video_title: "【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=Beschle"
+thumbnail_url: "https://img.youtube.com/vi/3ZnxNCg-uHg/hqdefault.jpg"
 lat: 47.5596
 lng: 7.5886
 members:

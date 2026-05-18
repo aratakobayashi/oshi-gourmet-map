@@ -11,6 +11,7 @@ address: "京都府京都市中京区東魚屋町 錦小路柳馬場東入東魚
 visited_date: "2024-08-04"
 youtube_id: "YgOd8ZpFaUU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
 lat: 35.0038
 lng: 135.7657
 groups:

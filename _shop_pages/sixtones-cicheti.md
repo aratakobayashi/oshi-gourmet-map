@@ -13,6 +13,7 @@ youtube_id: "RtDfRvCiBEo"
 source_video_title: "SixTONES - シンガポール自由行動"
 source_video_url: "https://www.youtube.com/watch?v=H-D82p_T8Xo"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/RtDfRvCiBEo/hqdefault.jpg"
 lat: 1.3015
 lng: 103.8596
 members:

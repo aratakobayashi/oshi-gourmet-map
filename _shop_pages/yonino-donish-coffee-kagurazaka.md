@@ -12,6 +12,7 @@ visited_date: "2025-06-25"
 youtube_id: "0-BzQux_iIg"
 source_video_title: "#434【朝食!!】ドライブの日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/0-BzQux_iIg/hqdefault.jpg"
 lat: 35.7016
 lng: 139.7392
 members:

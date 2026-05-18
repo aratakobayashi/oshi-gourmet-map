@@ -12,6 +12,8 @@ nearest_station: "白楽駅"
 source_video_title: "孤独のグルメ Season2 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140205/14002176/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jmcRYHRcf4VKx057QaB3bsR2Uwg.jpg"
+source_type: "drama"
 lat: 35.4503381
 lng: 139.6343802
 members:

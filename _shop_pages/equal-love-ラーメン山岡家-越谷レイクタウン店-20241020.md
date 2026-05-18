@@ -11,6 +11,7 @@ address: "埼玉県越谷市レイクタウン２丁目 １５－１"
 visited_date: "2024-10-20"
 youtube_id: "eZExpxh4C5A"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg"
 lat: 35.8837478
 lng: 139.8210025
 members:

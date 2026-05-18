@@ -12,6 +12,7 @@ youtube_id: "33tz7AoUPuU"
 source_video_title: "【ぼっち】亀梨和也がひとりで焼肉を食べるだけの動画。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E5%8F%A4%E4%BB%8A"
+thumbnail_url: "https://img.youtube.com/vi/33tz7AoUPuU/hqdefault.jpg"
 lat: 35.6611721
 lng: 139.7258364
 members:

@@ -11,6 +11,7 @@ address: "静岡県熱海市銀座町８−９"
 visited_date: "2025-09-05"
 youtube_id: "o9YsRLOqsCI"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
 lat: 35.0967641
 lng: 139.0736987
 members:

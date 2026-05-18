@@ -12,6 +12,8 @@ nearest_station: "宮ノ前停留所"
 source_video_title: "孤独のグルメ Season3 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132303/13012282/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/a09jVqujXNVVesZUxtIawlYGWlY.jpg"
+source_type: "drama"
 lat: 35.737529
 lng: 139.78131
 members:

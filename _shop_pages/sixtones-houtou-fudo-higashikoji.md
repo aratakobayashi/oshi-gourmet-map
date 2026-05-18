@@ -13,6 +13,7 @@ youtube_id: "OopPFZk9LHs"
 source_video_title: "SixTONES【10万円アポなし旅】１泊2日弾丸バスツアー第3弾！"
 source_video_url: "https://www.youtube.com/watch?v=OopPFZk9LHs"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/OopPFZk9LHs/hqdefault.jpg"
 lat: 35.506083
 lng: 138.749277
 members:

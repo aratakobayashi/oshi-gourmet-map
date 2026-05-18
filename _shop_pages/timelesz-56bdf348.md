@@ -11,6 +11,8 @@ address: "東京都台東区浅草1-3-2"
 nearest_station: "浅草駅"
 source_video_title: "タイムレスマン"
 group: "timelesz"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+source_type: "tv"
 lat: 35.7175966
 lng: 139.7975626
 members:

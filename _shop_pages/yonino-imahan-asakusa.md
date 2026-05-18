@@ -13,6 +13,7 @@ youtube_id: "4gt1nSNPmSQ"
 source_video_title: "#366【夜飯!!】打ち上げをしてみた日"
 source_video_url: "https://www.youtube.com/watch?v=6P0AAnD0R8E"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/4gt1nSNPmSQ/hqdefault.jpg"
 lat: 35.7155
 lng: 139.7924
 members:

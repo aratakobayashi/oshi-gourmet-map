@@ -12,6 +12,7 @@ youtube_id: "r4SdiT7mm7Y"
 source_video_title: "17thインフルエンサーType-C"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=umi%20cafe"
+thumbnail_url: "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg"
 lat: 35.3091195
 lng: 139.5422113
 members:

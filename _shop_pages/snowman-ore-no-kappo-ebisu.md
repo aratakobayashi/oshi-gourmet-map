@@ -13,6 +13,7 @@ youtube_id: "ueYUZJghOzw"
 source_video_title: "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？"
 source_video_url: "https://www.youtube.com/watch?v=ueYUZJghOzw"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
 lat: 35.6476
 lng: 139.7131
 members:

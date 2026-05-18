@@ -13,6 +13,7 @@ youtube_id: "htb_epSGs_E"
 source_video_title: "#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。"
 source_video_url: "https://www.youtube.com/watch?v=6yE2A-A8oE8"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
 lat: 35.6848
 lng: 139.702
 members:

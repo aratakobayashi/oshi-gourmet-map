@@ -12,6 +12,8 @@ nearest_station: "門前仲町駅"
 source_video_title: "孤独のグルメ Season1 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13065350/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ci2QXaPyYOf5EtQAF1CUGQOMUG4.jpg"
+source_type: "drama"
 lat: 35.6727747
 lng: 139.8169621
 members:

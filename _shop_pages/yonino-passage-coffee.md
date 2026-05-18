@@ -12,6 +12,7 @@ visited_date: "2025-10-12"
 youtube_id: "SHE2QOLC4MI"
 source_video_title: "#465【ドライブ!!】久しぶりの3人の日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/SHE2QOLC4MI/hqdefault.jpg"
 lat: 35.650587
 lng: 139.749527
 members:

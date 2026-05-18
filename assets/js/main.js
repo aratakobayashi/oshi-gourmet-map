@@ -523,7 +523,7 @@ function renderMoreButton() {
 
 function buildShopCard(shop) {
   const thumb = shop.youtube_id
-    ? `https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg`
+    ? `https://img.youtube.com/vi/${shop.youtube_id}/hqdefault.jpg`
     : shop.thumbnail_url || null;
 
   const group      = (shop.groups || [])[0] || shop.group || '';

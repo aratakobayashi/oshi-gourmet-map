@@ -13,6 +13,7 @@ youtube_id: "5ELNlEgsC2g"
 source_video_title: "#343【スポンサー!!】が来て飯を奢ってくれた日"
 source_video_url: "https://www.youtube.com/watch?v=D_9kUv_Dsh4"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/5ELNlEgsC2g/hqdefault.jpg"
 lat: 35.6614
 lng: 139.6685
 members:

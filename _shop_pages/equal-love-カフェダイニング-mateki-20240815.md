@@ -11,6 +11,7 @@ address: "沖縄県那覇市久茂地２丁目３−１０ RBC・QABメディア
 visited_date: "2024-08-15"
 youtube_id: "GZg8nO3EZ4E"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 lat: 26.217854
 lng: 127.6818582
 members:

@@ -13,6 +13,7 @@ youtube_id: "BK4o1X5khKU"
 source_video_title: "SixTONES - Singapore Travel Vlog"
 source_video_url: "https://www.youtube.com/watch?v=H-D82p_T8Xo"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/BK4o1X5khKU/hqdefault.jpg"
 lat: 1.2965
 lng: 103.8549
 members:

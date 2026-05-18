@@ -12,6 +12,7 @@ youtube_id: "3_cm61ZXb2E"
 source_video_title: "SixTONES【浅草洋食回】"
 source_video_url: "https://www.youtube.com/watch?v=v_R9Xo_7A0E"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/3_cm61ZXb2E/hqdefault.jpg"
 lat: 35.7176
 lng: 139.7976
 groups:

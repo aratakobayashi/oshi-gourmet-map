@@ -11,6 +11,7 @@ address: "東京都台東区上野６丁目９−１３"
 visited_date: "2025-11-14"
 youtube_id: "Hj0HB_c5yKw"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/Hj0HB_c5yKw/hqdefault.jpg"
 lat: 35.7092137
 lng: 139.7758327
 members:

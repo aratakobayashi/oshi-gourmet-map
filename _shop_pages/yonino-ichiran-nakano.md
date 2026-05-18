@@ -11,6 +11,7 @@ address: "東京都中野区中野5-65-5 S・K中野ビルB1"
 visited_date: "2025-12-03"
 youtube_id: "0EUU9_553aM"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/0EUU9_553aM/hqdefault.jpg"
 lat: 35.707266
 lng: 139.665506
 members:

@@ -11,6 +11,7 @@ address: "東京都新宿区百人町１丁目１９−１３ 浅川ビル ２F"
 visited_date: "2024-08-15"
 youtube_id: "8gKHzO_Jdhs"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/8gKHzO_Jdhs/hqdefault.jpg"
 lat: 35.6999128
 lng: 139.6997412
 members:

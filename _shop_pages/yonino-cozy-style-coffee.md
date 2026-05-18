@@ -12,6 +12,7 @@ visited_date: "2025-05-04"
 youtube_id: "bMeaIt51YJ8"
 source_video_title: "#419【ドライブ!!】これがよにのクオリティーだっ！の日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/bMeaIt51YJ8/hqdefault.jpg"
 lat: 35.7072
 lng: 139.6992
 members:

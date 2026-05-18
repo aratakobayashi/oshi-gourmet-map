@@ -12,6 +12,7 @@ youtube_id: "7eoiyP4kaAQ"
 source_video_title: "21thジコチューで行こう！Type-D"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=caf%C3%A9%20recette%20%E9%8E%8C%E5%80%89%28%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%29"
+thumbnail_url: "https://img.youtube.com/vi/7eoiyP4kaAQ/hqdefault.jpg"
 lat: 35.3086712
 lng: 139.5331753
 members:

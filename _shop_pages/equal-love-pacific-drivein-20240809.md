@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市七里ガ浜東２丁目１−１２"
 visited_date: "2024-08-09"
 youtube_id: "dX1BJYop8aQ"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/dX1BJYop8aQ/hqdefault.jpg"
 lat: 35.3072853
 lng: 139.5128395
 members:

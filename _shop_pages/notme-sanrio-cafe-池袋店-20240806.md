@@ -11,6 +11,7 @@ address: "東京都豊島区東池袋１丁目２８−１ サンシャインシ
 visited_date: "2024-08-06"
 youtube_id: "gQ8M3JURXOY"
 group: "notme"
+thumbnail_url: "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg"
 lat: 35.7311554
 lng: 139.7149383
 members:

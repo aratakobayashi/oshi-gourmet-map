@@ -11,6 +11,7 @@ address: "東京都渋谷区初台１丁目３８−１１ 桜内ビル 1F"
 visited_date: "2024-08-15"
 youtube_id: "t_uRDbGf36E"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/t_uRDbGf36E/hqdefault.jpg"
 lat: 35.6798471
 lng: 139.6866238
 members:

@@ -13,6 +13,7 @@ youtube_id: "rRtQ8rhdXno"
 source_video_title: "【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%82%E3%82%93%E3%81%98%E3%82%83%20%E7%AB%B9%E3%81%AE%E5%AD%90"
+thumbnail_url: "https://img.youtube.com/vi/rRtQ8rhdXno/hqdefault.jpg"
 lat: 35.6649448
 lng: 139.783132
 members:

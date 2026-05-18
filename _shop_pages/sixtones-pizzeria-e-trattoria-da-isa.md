@@ -12,6 +12,7 @@ youtube_id: "gVrUjNQzPNA"
 source_video_title: "【SixTONES】クリスマスイブイブにチキン＆ピザ!!"
 source_video_url: "https://www.youtube.com/watch?v=kY6vPIdYp_o"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/gVrUjNQzPNA/hqdefault.jpg"
 lat: 35.6442
 lng: 139.6987
 members:

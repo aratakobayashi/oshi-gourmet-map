@@ -12,6 +12,7 @@ visited_date: "2025-07-23"
 youtube_id: "rQeY6SBhJpw"
 source_video_title: "#442【ドライブ!!】よにのマップ作れそうな日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/rQeY6SBhJpw/hqdefault.jpg"
 lat: 35.6631
 lng: 139.7537
 members:

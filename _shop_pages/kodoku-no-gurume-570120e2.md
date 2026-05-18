@@ -8,6 +8,8 @@ genre: "食事"
 address: "台湾台北市"
 source_video_title: "孤独のグルメ Season10 第2023話"
 group: "kodoku_no_gurume"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 36.5348263
 lng: 136.598898
 members:

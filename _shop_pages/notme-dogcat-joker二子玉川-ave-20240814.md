@@ -11,6 +11,7 @@ address: "東京都世田谷区玉川３丁目17−１ 髙島屋S・C西館 ホ�
 visited_date: "2024-08-14"
 youtube_id: "Sn79vTeVxSU"
 group: "notme"
+thumbnail_url: "https://img.youtube.com/vi/Sn79vTeVxSU/hqdefault.jpg"
 lat: 35.6141434
 lng: 139.6247439
 members:

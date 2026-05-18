@@ -12,6 +12,7 @@ youtube_id: "YVD8G0PPM4o"
 source_video_title: "SixTONES【サマソニ直後に夏ドライブ🚗】色々語りたいタイミングなんだよね!?"
 source_video_url: "https://www.youtube.com/watch?v=P_N9Xo-vR7A"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/YVD8G0PPM4o/hqdefault.jpg"
 lat: 35.3193
 lng: 139.547
 groups:

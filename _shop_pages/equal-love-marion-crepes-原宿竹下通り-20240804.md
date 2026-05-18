@@ -11,6 +11,7 @@ address: "東京都渋谷区神宮前１丁目６−１５ ジュネスビル 1F
 visited_date: "2024-08-04"
 youtube_id: "JCPvDX7y3-k"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
 lat: 35.671513
 lng: 139.7057319
 members:

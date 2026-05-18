@@ -12,6 +12,8 @@ nearest_station: "江戸川橋駅"
 source_video_title: "孤独のグルメ Season3 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13091985/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8ziqs8CJiAhvAuPRJAh7yz7IqAb.jpg"
+source_type: "drama"
 lat: 35.7080255
 lng: 139.7523066
 members:

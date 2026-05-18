@@ -11,6 +11,8 @@ address: "東京都新宿区新宿3-18-4 B1・2"
 visited_date: "2017-02-01"
 source_video_title: "2017.02.01/02.08 女子会向けスイーツ特集"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.6921592
 lng: 139.7006065
 members:

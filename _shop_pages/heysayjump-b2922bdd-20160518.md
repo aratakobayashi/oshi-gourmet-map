@@ -10,6 +10,8 @@ address: "東京都港区赤坂3-6-10 第3セイコービル3F"
 visited_date: "2016-05-18"
 source_video_title: "2016.05.18 高級レストランのランチ特集"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.6716786
 lng: 139.7356224
 members:

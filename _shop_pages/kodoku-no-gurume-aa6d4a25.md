@@ -12,6 +12,8 @@ nearest_station: "西永福駅"
 source_video_title: "孤独のグルメ Season1 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131805/13140021/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/uc8Pf7ac5FqU7SrmdRZEaoa2frE.jpg"
+source_type: "drama"
 lat: 35.6994929
 lng: 139.6362876
 members:

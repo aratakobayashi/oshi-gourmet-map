@@ -11,6 +11,7 @@ address: "東京都江東区豊洲２丁目４−９ 三井ショッピングパ
 visited_date: "2024-08-15"
 youtube_id: "peEcYliutz0"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
 lat: 35.655271
 lng: 139.792777
 members:

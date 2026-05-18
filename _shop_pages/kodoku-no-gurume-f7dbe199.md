@@ -12,6 +12,8 @@ nearest_station: "穴水駅"
 source_video_title: "孤独のグルメ Season10 第2024話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/ishikawa/A1704/A170403/17003854/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 37.2305548
 lng: 136.9125817
 members:

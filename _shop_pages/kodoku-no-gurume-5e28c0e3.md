@@ -12,6 +12,8 @@ nearest_station: "渋谷駅"
 source_video_title: "孤独のグルメ Season6 第7話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13281342/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/5GcMEKRVXugxQoa79Ye6rkPwJYg.jpg"
+source_type: "drama"
 lat: 35.6633709
 lng: 139.6964952
 members:

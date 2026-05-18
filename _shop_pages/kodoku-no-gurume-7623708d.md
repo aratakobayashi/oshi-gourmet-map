@@ -12,6 +12,8 @@ nearest_station: "旭川駅"
 source_video_title: "孤独のグルメ Season10 第2016話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/hokkaido/A0104/A010401/1014057/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 43.770625
 lng: 142.3649743
 members:

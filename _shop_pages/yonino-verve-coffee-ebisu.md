@@ -12,6 +12,7 @@ visited_date: "2025-10-26"
 youtube_id: "MBsvQ9ZPKy8"
 source_video_title: "#469【続き!!】しんどくて発狂した日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/MBsvQ9ZPKy8/hqdefault.jpg"
 lat: 35.642345
 lng: 139.714007
 members:

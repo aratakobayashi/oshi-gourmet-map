@@ -12,6 +12,7 @@ visited_date: "2025-04-11"
 youtube_id: "6WTMkZziBHw"
 source_video_title: "SixTONES official【もんじゃ忘年会】2024年のYouTube ベスト１は何？"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/6WTMkZziBHw/hqdefault.jpg"
 lat: 35.711025
 lng: 139.814476
 members:

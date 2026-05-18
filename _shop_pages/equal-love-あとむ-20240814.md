@@ -11,6 +11,7 @@ address: "広島県広島市中区新天地５−１３ 3階"
 visited_date: "2024-08-14"
 youtube_id: "gOJ_jjaT__4"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/gOJ_jjaT__4/hqdefault.jpg"
 lat: 34.3942162
 lng: 132.4621961
 members:

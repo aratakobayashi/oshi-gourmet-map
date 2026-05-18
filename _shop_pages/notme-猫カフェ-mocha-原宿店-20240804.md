@@ -11,6 +11,7 @@ address: "東京都渋谷区神宮前１丁目１４−２５ クロスアベニ
 visited_date: "2024-08-04"
 youtube_id: "Iz_DvhCMMwU"
 group: "notme"
+thumbnail_url: "https://img.youtube.com/vi/Iz_DvhCMMwU/hqdefault.jpg"
 lat: 35.671513
 lng: 139.7057319
 members:

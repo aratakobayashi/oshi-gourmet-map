@@ -11,6 +11,7 @@ address: "東京都渋谷区"
 nearest_station: "渋谷駅"
 youtube_id: "q-UKt66uFp8"
 group: "kamaitachi"
+thumbnail_url: "https://img.youtube.com/vi/q-UKt66uFp8/hqdefault.jpg"
 lat: 35.6591
 lng: 139.7026
 members:

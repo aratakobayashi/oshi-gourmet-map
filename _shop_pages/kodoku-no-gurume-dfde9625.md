@@ -12,6 +12,8 @@ nearest_station: "新小岩駅"
 source_video_title: "孤独のグルメ Season8 第7話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131204/13232027/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/csx1Ah5qx1YV4qmC4b2VTaXeO7g.jpg"
+source_type: "drama"
 lat: 35.7433912
 lng: 139.8473472
 members:

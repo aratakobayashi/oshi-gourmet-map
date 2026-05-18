@@ -12,6 +12,8 @@ nearest_station: "佐原駅"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1204/A120404/12007437/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.8978273
 lng: 140.4992787
 members:

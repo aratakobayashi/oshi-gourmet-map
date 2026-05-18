@@ -11,6 +11,8 @@ nearest_station: "美章園駅"
 source_video_title: "孤独のグルメ Season6 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270203/27014344/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/4q46LrYS95U4b3NirSsdTiyZqE2.jpg"
+source_type: "drama"
 lat: 34.6382221
 lng: 135.5237951
 members:

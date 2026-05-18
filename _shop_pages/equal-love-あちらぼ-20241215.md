@@ -11,6 +11,7 @@ address: "東京都杉並区高円寺北３丁目６９−１"
 visited_date: "2024-12-15"
 youtube_id: "BPvNgGIKoeU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.7078454
 lng: 139.6482776
 members:

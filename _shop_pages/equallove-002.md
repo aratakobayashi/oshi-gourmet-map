@@ -13,6 +13,7 @@ youtube_id: "UT4dNcRffPY"
 source_video_title: "【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡"
 source_video_url: "https://www.youtube.com/watch?v=UT4dNcRffPY"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 lat: 35.6812
 lng: 139.7671
 members:

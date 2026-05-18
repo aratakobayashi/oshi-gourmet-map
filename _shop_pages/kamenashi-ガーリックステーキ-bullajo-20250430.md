@@ -13,6 +13,7 @@ youtube_id: "zlVJ4MBzmuw"
 source_video_title: "【絶品】大量ガーリックが罪深い。。。渋谷の奥に潜む隠れ家ステーキハウスで爆食いして過酷な撮影に向けたパワーをチャージしてきました！"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Bullajo"
+thumbnail_url: "https://img.youtube.com/vi/zlVJ4MBzmuw/hqdefault.jpg"
 lat: 35.6626537
 lng: 139.6972756
 members:

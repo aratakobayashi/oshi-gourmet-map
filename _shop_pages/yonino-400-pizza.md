@@ -11,6 +11,7 @@ address: "東京都新宿区若宮町13-1 キフアネックス1F"
 visited_date: "2025-06-15"
 youtube_id: "AsbV0ZAiFMQ"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
 lat: 35.699525
 lng: 139.73952
 members:

@@ -11,6 +11,7 @@ address: "北海道千歳市住吉１丁目１２−２"
 visited_date: "2024-08-04"
 youtube_id: "tSU-TMf1mE0"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/tSU-TMf1mE0/hqdefault.jpg"
 lat: 42.832672
 lng: 141.661228
 members:

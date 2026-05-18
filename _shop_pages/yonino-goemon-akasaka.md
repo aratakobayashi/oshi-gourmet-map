@@ -11,6 +11,7 @@ address: "東京都港区赤坂5-1-4 赤坂いそむらビル1F"
 visited_date: "2025-01-19"
 youtube_id: "PFtmB_WeAVo"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/PFtmB_WeAVo/hqdefault.jpg"
 lat: 35.671679
 lng: 139.735622
 members:

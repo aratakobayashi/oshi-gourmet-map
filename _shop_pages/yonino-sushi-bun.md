@@ -11,6 +11,7 @@ address: "東京都江東区豊洲6丁目 豊洲市場仲卸売場棟3F"
 visited_date: "2025-10-08"
 youtube_id: "WKk-0zqTC74"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/WKk-0zqTC74/hqdefault.jpg"
 lat: 35.647432
 lng: 139.785031
 members:

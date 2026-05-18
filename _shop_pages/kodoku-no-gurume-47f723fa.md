@@ -11,6 +11,8 @@ address: "神奈川県平塚市"
 nearest_station: "平塚駅"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+source_type: "drama"
 lat: 35.3350609
 lng: 139.3494345
 members:

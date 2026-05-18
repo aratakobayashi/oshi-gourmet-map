@@ -11,6 +11,7 @@ address: "東京都渋谷区宇田川町4-7 トウセン宇田川ビル4F"
 visited_date: "2025-07-30"
 youtube_id: "B9OZC4zIHdY"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/B9OZC4zIHdY/hqdefault.jpg"
 lat: 35.662075
 lng: 139.697496
 members:

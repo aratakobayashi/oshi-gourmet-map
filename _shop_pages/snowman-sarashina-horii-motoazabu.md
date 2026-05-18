@@ -13,6 +13,7 @@ youtube_id: "Ax1f_OVispA"
 source_video_title: "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる"
 source_video_url: "https://www.youtube.com/watch?v=Ax1f_OVispA"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg"
 seating_note: "小上がりのお席に座っていました。 富士山の絵が目印です。"
 lat: 35.6544
 lng: 139.7336

@@ -12,6 +12,8 @@ nearest_station: "御茶ノ水駅"
 source_video_title: "孤独のグルメ Season7 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13311831/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tpc5DlQD83AXhDwTZc2DBEvZoUh.jpg"
+source_type: "drama"
 lat: 35.6938097
 lng: 139.7532163
 members:

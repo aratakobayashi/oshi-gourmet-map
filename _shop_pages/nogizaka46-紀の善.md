@@ -12,6 +12,7 @@ youtube_id: "5gtHfCYK0Aw"
 source_video_title: "他の星から"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%B4%80%E3%81%AE%E5%96%84"
+thumbnail_url: "https://img.youtube.com/vi/5gtHfCYK0Aw/hqdefault.jpg"
 lat: 35.7010851
 lng: 139.7412287
 members:

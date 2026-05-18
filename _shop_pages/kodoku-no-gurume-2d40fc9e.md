@@ -12,6 +12,8 @@ nearest_station: "上尾駅"
 source_video_title: "孤独のグルメ Season7 第1話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1104/A110401/11043868/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/2sFHH8qViGbMmE9UGdCZ52tuF2o.jpg"
+source_type: "drama"
 lat: 35.9774082
 lng: 139.5930504
 members:

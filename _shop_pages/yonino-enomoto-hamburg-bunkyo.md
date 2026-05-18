@@ -13,6 +13,7 @@ youtube_id: "Xdvbh8QNBDs"
 source_video_title: "#372【田中圭呼んだら】本当に来てくれた日"
 source_video_url: "https://www.youtube.com/watch?v=G8v8N7vWf-0"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/Xdvbh8QNBDs/hqdefault.jpg"
 lat: 35.718
 lng: 139.7437
 members:

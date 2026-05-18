@@ -11,6 +11,7 @@ address: "東京都港区麻布十番"
 nearest_station: "麻布十番駅"
 youtube_id: "M_IWhptZ4vs"
 group: "kamaitachi"
+thumbnail_url: "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg"
 lat: 35.6558
 lng: 139.7369
 members:

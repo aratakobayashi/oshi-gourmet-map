@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町192-15"
 visited_date: "2023-03-10"
 youtube_id: "yqk_6iuc8F0"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
 lat: 35.443398
 lng: 139.647622
 members:

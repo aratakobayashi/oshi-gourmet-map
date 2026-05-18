@@ -13,6 +13,7 @@ youtube_id: "evDdxOemuh8"
 source_video_title: "【爆食】ずっと食べたかったハンバーガーとついに対面しました"
 source_video_url: "https://www.youtube.com/watch?v=evDdxOemuh8"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/evDdxOemuh8/hqdefault.jpg"
 lat: 35.6631
 lng: 139.7039
 members:

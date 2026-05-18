@@ -13,6 +13,7 @@ youtube_id: "fjljPstbzAw"
 source_video_title: "SixTONES - ラーメン大好きグループ"
 source_video_url: "https://www.youtube.com/watch?v=f5pC2GkKq78"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/fjljPstbzAw/hqdefault.jpg"
 lat: 35.6611
 lng: 139.7008
 members:

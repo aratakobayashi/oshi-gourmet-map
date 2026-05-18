@@ -11,6 +11,7 @@ address: "東京都江東区亀戸1-35-8"
 visited_date: "2025-02-26"
 youtube_id: "bXq2vtpe7lQ"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/bXq2vtpe7lQ/hqdefault.jpg"
 lat: 35.697352
 lng: 139.826678
 members:

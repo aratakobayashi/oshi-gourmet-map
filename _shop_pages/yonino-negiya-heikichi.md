@@ -11,6 +11,7 @@ address: "東京都渋谷区宇田川町36-18"
 visited_date: "2026-01-18"
 youtube_id: "pxiRbYciIEE"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/pxiRbYciIEE/hqdefault.jpg"
 lat: 35.662075
 lng: 139.697496
 members:

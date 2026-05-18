@@ -11,6 +11,8 @@ address: "東京都豊島区池袋1-1-7 第2伊三美ビルB1"
 visited_date: "2016-03-03"
 source_video_title: "2016.03.03 体を温める食べ物実験"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
 lat: 35.7310839
 lng: 139.7089164
 members:

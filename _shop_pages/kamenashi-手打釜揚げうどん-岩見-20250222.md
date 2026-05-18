@@ -13,6 +13,7 @@ youtube_id: "A55nuJrv8yE"
 source_video_title: "【至福】亀梨が10年以上通い続ける、宮崎の絶品うどん屋さんに今年もお邪魔します。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%89%8B%E6%89%93%E9%87%9C%E6%8F%9A%E3%81%92%E3%81%86%E3%81%A9%E3%82%93%20%E5%B2%A9%E8%A6%8B"
+thumbnail_url: "https://img.youtube.com/vi/A55nuJrv8yE/hqdefault.jpg"
 lat: 31.8011451
 lng: 131.4680352
 members:

@@ -12,6 +12,8 @@ nearest_station: "西小泉駅"
 source_video_title: "孤独のグルメ Season2 第4話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gunma/A1002/A100203/10004487/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/9F0hvCR1ZYTq1N0yBXetiAi0KEL.jpg"
+source_type: "drama"
 lat: 36.2477428
 lng: 139.405421
 members:

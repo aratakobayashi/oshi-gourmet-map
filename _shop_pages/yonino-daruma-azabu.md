@@ -11,6 +11,7 @@ address: "東京都港区麻布十番2-17-3"
 visited_date: "2025-11-19"
 youtube_id: "h9l4U27yN9A"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/h9l4U27yN9A/hqdefault.jpg"
 lat: 35.6543
 lng: 139.7367
 members:

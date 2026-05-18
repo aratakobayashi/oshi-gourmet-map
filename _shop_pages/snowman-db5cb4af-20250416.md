@@ -13,6 +13,7 @@ visited_date: "2025-04-16"
 youtube_id: "2xT3kEy3hjQ"
 source_video_title: "【すのちゅーぶ】京都でラウールへのお土産を購入したお店はどこ？SnowManロケ地"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/2xT3kEy3hjQ/hqdefault.jpg"
 lat: 35.003
 lng: 135.7758
 members:

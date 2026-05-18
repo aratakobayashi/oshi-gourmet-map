@@ -12,6 +12,7 @@ visited_date: "2022-01-01"
 youtube_id: "Y0HPj8hZk-Q"
 source_video_title: "【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇😂"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/Y0HPj8hZk-Q/hqdefault.jpg"
 lat: 35.510089
 lng: 139.616478
 members:

@@ -13,6 +13,7 @@ youtube_id: "8ZQTzKfmMrM"
 source_video_title: "Snow Man【人生最高のレバニラに出会った!?】向井康二は人生初納豆に苦"
 source_video_url: "https://www.youtube.com/watch?v=Y-P2-nK7_Xo"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/8ZQTzKfmMrM/hqdefault.jpg"
 lat: 35.7491
 lng: 139.8025
 members:

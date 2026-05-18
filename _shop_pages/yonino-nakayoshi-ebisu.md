@@ -13,6 +13,7 @@ youtube_id: "ohQSfk7RquY"
 source_video_title: "#274【朝食シリーズ!!】自発光と卍の指輪がお揃いだと発覚した日"
 source_video_url: "https://www.youtube.com/watch?v=kR_U8iX_jF8"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/ohQSfk7RquY/hqdefault.jpg"
 lat: 35.6465
 lng: 139.7135
 members:

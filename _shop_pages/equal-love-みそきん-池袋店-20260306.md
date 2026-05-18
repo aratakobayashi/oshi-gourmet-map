@@ -11,6 +11,7 @@ address: "東京都豊島区西池袋５丁目１−３ メトロシティ西池
 visited_date: "2026-03-06"
 youtube_id: "MvkQiclEHMY"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/MvkQiclEHMY/hqdefault.jpg"
 lat: 35.7316774
 lng: 139.7031757
 members:

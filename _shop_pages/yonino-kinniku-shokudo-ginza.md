@@ -12,6 +12,7 @@ visited_date: "2024-09-25"
 youtube_id: "_Gv72GxfN-I"
 source_video_title: "#356【朝食!!】めちゃくちゃ美味かった日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/_Gv72GxfN-I/hqdefault.jpg"
 lat: 35.6717
 lng: 139.763
 members:

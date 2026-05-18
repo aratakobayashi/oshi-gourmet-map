@@ -11,6 +11,7 @@ address: "広島県廿日市市宮島町４４８−１"
 visited_date: "2025-09-15"
 youtube_id: "0Strh5AKapM"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
 lat: 34.2988011
 lng: 132.3212291
 members:

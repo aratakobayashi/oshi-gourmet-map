@@ -11,6 +11,7 @@ address: "東京都杉並区高円寺南３丁目５８−１８ 山本ビル 1F
 visited_date: "2024-12-15"
 youtube_id: "BPvNgGIKoeU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.7014789
 lng: 139.6462284
 members:

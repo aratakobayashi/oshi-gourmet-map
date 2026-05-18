@@ -11,6 +11,7 @@ address: "福島県いわき市平白銀町３−１"
 visited_date: "2024-08-14"
 youtube_id: "YEfEA3jOgwE"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
 lat: 37.0592434
 lng: 140.8930352
 members:

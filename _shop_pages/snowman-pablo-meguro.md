@@ -11,6 +11,7 @@ address: "東京都目黒区東山1-6-13 1F"
 visited_date: "2024-10-02"
 youtube_id: "q9xC9ARZrR4"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/q9xC9ARZrR4/hqdefault.jpg"
 lat: 35.6438
 lng: 139.7073
 members:

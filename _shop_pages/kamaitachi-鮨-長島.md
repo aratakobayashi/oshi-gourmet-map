@@ -11,6 +11,7 @@ address: "東京都大田区上池台1丁目"
 nearest_station: "長原駅"
 youtube_id: "A2u0TZpDQ8A"
 group: "kamaitachi"
+thumbnail_url: "https://img.youtube.com/vi/A2u0TZpDQ8A/hqdefault.jpg"
 lat: 35.6022
 lng: 139.6989
 members:

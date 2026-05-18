@@ -12,6 +12,7 @@ youtube_id: "f0wbnQw89J0"
 source_video_title: "20thシンクロニシティType-B"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=FREDDY%20LECK%20sein%20WASCHSALON%20TOKYO"
+thumbnail_url: "https://img.youtube.com/vi/f0wbnQw89J0/hqdefault.jpg"
 lat: 35.6303197
 lng: 139.6914353
 groups:

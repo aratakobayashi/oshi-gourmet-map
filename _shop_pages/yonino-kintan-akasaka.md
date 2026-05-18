@@ -11,6 +11,7 @@ address: "東京都港区赤坂3-11-7 ソシアル赤坂ビル1F"
 visited_date: "2026-01-28"
 youtube_id: "Aza7c0Akdns"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/Aza7c0Akdns/hqdefault.jpg"
 lat: 35.667266
 lng: 139.739281
 members:

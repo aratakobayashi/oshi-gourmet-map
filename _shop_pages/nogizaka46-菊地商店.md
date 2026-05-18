@@ -12,6 +12,7 @@ youtube_id: "r4SdiT7mm7Y"
 source_video_title: "17thインフルエンサーType-A"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%8A%E5%9C%B0%E5%95%86%E5%BA%97"
+thumbnail_url: "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg"
 lat: 35.59332
 lng: 139.7350645
 members:

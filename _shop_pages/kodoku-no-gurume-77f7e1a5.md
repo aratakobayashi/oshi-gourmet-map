@@ -11,6 +11,8 @@ nearest_station: "十条駅"
 source_video_title: "孤独のグルメ Season2 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132304/13044760/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wOkvEjRAr2D0Nt4KcJvakoD0gDv.jpg"
+source_type: "drama"
 lat: 35.7528821
 lng: 139.7338331
 members:

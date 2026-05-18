@@ -11,6 +11,7 @@ address: "東京都世田谷区北沢２丁目２６−２０ 1F"
 visited_date: "2024-08-04"
 youtube_id: "o8PItsNaK7U"
 group: "notme"
+thumbnail_url: "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg"
 lat: 35.661998
 lng: 139.6683083
 members:

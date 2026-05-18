@@ -12,6 +12,8 @@ nearest_station: "千歳船橋駅"
 source_video_title: "孤独のグルメ Season5 第7話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131813/13186177/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xS7NmkKrQoRPuyd2rMPtsQ5Nwe1.jpg"
+source_type: "drama"
 lat: 35.6469025
 lng: 139.652531
 members:

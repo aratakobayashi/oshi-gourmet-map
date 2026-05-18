@@ -11,6 +11,7 @@ address: "東京都中央区月島１丁目２２−１−１０７"
 visited_date: "2024-08-15"
 youtube_id: "peEcYliutz0"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
 lat: 35.665153
 lng: 139.781855
 members:

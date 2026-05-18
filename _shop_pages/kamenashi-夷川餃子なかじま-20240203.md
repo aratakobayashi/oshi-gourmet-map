@@ -10,6 +10,7 @@ youtube_id: "V3HCRaq5zYs"
 source_video_title: "【大奥】ドラマ撮影の空き時間はこんな感じ。京都で餃子を食べたり街を散歩したり。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%B7%E5%B7%9D%E9%A4%83%E5%AD%90%E3%81%AA%E3%81%8B%E3%81%98%E3%81%BE"
+thumbnail_url: "https://img.youtube.com/vi/V3HCRaq5zYs/hqdefault.jpg"
 lat: 35.0145937
 lng: 135.7516699
 members:

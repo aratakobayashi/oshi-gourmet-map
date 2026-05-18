@@ -13,6 +13,7 @@ youtube_id: "P7JBBmjdJKI"
 source_video_title: "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP"
+thumbnail_url: "https://img.youtube.com/vi/P7JBBmjdJKI/hqdefault.jpg"
 lat: 47.5553
 lng: 7.5905
 members:

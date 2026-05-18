@@ -11,6 +11,7 @@ address: "東京都品川区中延４丁目７−７"
 visited_date: "2024-08-07"
 youtube_id: "-AmzofyMvTk"
 group: "neajoy"
+thumbnail_url: "https://img.youtube.com/vi/-AmzofyMvTk/hqdefault.jpg"
 lat: 35.6051526
 lng: 139.7111875
 members:

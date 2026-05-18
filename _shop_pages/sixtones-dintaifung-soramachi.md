@@ -13,6 +13,7 @@ youtube_id: "fflp-PypyQg"
 source_video_title: "SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会"
 source_video_url: "https://www.youtube.com/watch?v=fflp-PypyQg"
 group: "sixtones"
+thumbnail_url: "https://img.youtube.com/vi/fflp-PypyQg/hqdefault.jpg"
 lat: 35.710628
 lng: 139.814263
 members:

@@ -11,6 +11,7 @@ address: "東京都新宿区北新宿4-2-1 淀橋市場内"
 visited_date: "2025-02-05"
 youtube_id: "1cQeue2ITFU"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg"
 lat: 35.7014
 lng: 139.6931
 members:

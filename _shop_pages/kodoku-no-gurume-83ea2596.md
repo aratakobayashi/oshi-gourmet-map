@@ -12,6 +12,8 @@ nearest_station: "浜金谷駅"
 source_video_title: "孤独のグルメ Season6 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120603/12035117/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/cAKIri4ePi13bFxJm9ipjdfAUaV.jpg"
+source_type: "drama"
 lat: 35.3039146
 lng: 139.8570499
 members:

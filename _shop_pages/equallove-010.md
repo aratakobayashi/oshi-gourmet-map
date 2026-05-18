@@ -13,6 +13,7 @@ youtube_id: "xUoPnF8uUXY"
 source_video_title: "イコラブハンバーガー部から嬉しいお知らせ！"
 source_video_url: "https://www.youtube.com/watch?v=xUoPnF8uUXY"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/xUoPnF8uUXY/hqdefault.jpg"
 lat: 35.6812
 lng: 139.7671
 members:

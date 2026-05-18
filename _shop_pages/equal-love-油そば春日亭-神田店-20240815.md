@@ -11,6 +11,7 @@ address: "東京都千代田区内神田３丁目９−６"
 visited_date: "2024-08-15"
 youtube_id: "lemqlWyw_Cw"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/lemqlWyw_Cw/hqdefault.jpg"
 lat: 35.6907664
 lng: 139.7696653
 members:

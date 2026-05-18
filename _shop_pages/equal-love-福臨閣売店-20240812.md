@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町１４６−５"
 visited_date: "2024-08-12"
 youtube_id: "UT4dNcRffPY"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 lat: 35.4429058
 lng: 139.6514509
 members:

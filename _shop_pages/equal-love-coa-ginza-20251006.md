@@ -11,6 +11,7 @@ address: "東京都中央区銀座６丁目１３−９ girac ginza7階"
 visited_date: "2025-10-06"
 youtube_id: "PWBxeT4_NNk"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/PWBxeT4_NNk/hqdefault.jpg"
 lat: 35.669261
 lng: 139.764429
 members:

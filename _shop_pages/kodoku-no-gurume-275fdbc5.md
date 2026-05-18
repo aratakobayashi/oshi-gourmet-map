@@ -12,6 +12,8 @@ nearest_station: "巣鴨駅"
 source_video_title: "孤独のグルメ Season8 第11話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13005632/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/swDb7laJQkBLuKUAIwf0lO2qLlv.jpg"
+source_type: "drama"
 lat: 35.725913
 lng: 139.7166365
 members:

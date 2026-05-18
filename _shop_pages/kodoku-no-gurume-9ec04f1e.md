@@ -12,6 +12,8 @@ nearest_station: "五反田駅"
 source_video_title: "孤独のグルメ Season6 第12話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131603/13187669/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8sxuMuYdiXv5YQTKxYBX95CVuXV.jpg"
+source_type: "drama"
 lat: 35.6092008
 lng: 139.7301982
 members:

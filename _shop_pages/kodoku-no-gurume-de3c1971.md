@@ -12,6 +12,8 @@ nearest_station: "豪徳寺駅"
 source_video_title: "孤独のグルメ Season8 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131813/13013832/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/t7CTJnVwZOzXnac9eeOQaQBplUA.jpg"
+source_type: "drama"
 lat: 35.6469025
 lng: 139.652531
 members:

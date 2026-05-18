@@ -11,6 +11,7 @@ address: "東京都新宿区早稲田"
 youtube_id: "mpOrQ2gl8_E"
 source_video_title: "#219【直帰】今後の小さな展望を言い合った日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/mpOrQ2gl8_E/hqdefault.jpg"
 lat: 35.7072
 lng: 139.721
 members:

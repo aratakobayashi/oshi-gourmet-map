@@ -13,6 +13,7 @@ youtube_id: "8R-AlLRghJc"
 source_video_title: "Snow Man【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節"
 source_video_url: "https://www.youtube.com/watch?v=8R-AlLRghJc"
 group: "snowman"
+thumbnail_url: "https://img.youtube.com/vi/8R-AlLRghJc/hqdefault.jpg"
 lat: 35.6438
 lng: 139.6985
 members:

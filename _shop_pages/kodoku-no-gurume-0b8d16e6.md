@@ -12,6 +12,8 @@ nearest_station: "八丁畷駅"
 source_video_title: "孤独のグルメ Season1 第8話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140502/14018525/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/snpZFSqpOWnjIS5JpJ85ShKxMCT.jpg"
+source_type: "drama"
 lat: 35.5306639
 lng: 139.7037668
 members:

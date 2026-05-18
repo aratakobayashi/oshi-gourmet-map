@@ -12,6 +12,7 @@ visited_date: "2026-02-01"
 youtube_id: "EhAzZAITxIU"
 source_video_title: "#498【初じゃない!!】二宮くんを送ろう！の日"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/EhAzZAITxIU/hqdefault.jpg"
 lat: 35.6756606
 lng: 139.7375415
 groups:

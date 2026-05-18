@@ -13,6 +13,7 @@ youtube_id: "vV651O-moMA"
 source_video_title: "【語る】WEST.藤井流星としっぽり2軒目。仕事論や人生論、今後の人生について語りました。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%86%E7%A6%8F%20%E5%A4%A7%E4%BA%95%E7%94%BA"
+thumbnail_url: "https://img.youtube.com/vi/vV651O-moMA/hqdefault.jpg"
 lat: 35.6075883
 lng: 139.7359878
 members:

@@ -13,6 +13,7 @@ youtube_id: "BPvNgGIKoeU"
 source_video_title: "【Vlog】浅草でお散歩＆カフェ巡り"
 source_video_url: "https://www.youtube.com/watch?v=BPvNgGIKoeU"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.7133
 lng: 139.7779
 members:

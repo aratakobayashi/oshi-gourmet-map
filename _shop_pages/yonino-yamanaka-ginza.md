@@ -13,6 +13,7 @@ youtube_id: "qiLBbkIq0Q4"
 source_video_title: "#376【朝食!!】多感なお年頃だからワーワー言ってきた日"
 source_video_url: "https://www.youtube.com/watch?v=Usc8z4FfofQ"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg"
 lat: 35.672
 lng: 139.7645
 members:

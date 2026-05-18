@@ -11,6 +11,7 @@ address: "東京都江東区東陽3-24-19"
 visited_date: "2025-08-06"
 youtube_id: "T8i9WGaNkI8"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/T8i9WGaNkI8/hqdefault.jpg"
 lat: 35.669582
 lng: 139.812579
 members:

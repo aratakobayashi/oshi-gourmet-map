@@ -11,6 +11,7 @@ address: "東京都板橋区常盤台４丁目３３−３ 浅香ビル 201"
 visited_date: "2025-01-31"
 youtube_id: "B-BrYhxEh9I"
 group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/B-BrYhxEh9I/hqdefault.jpg"
 lat: 35.763645
 lng: 139.679446
 members:

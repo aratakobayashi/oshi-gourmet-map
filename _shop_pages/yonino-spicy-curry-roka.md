@@ -11,6 +11,7 @@ address: "東京都新宿区百人町1-24-8 新宿タウンプラザビルBF-J"
 visited_date: "2025-05-11"
 youtube_id: "jK0wBUV9HV8"
 group: "yonino"
+thumbnail_url: "https://img.youtube.com/vi/jK0wBUV9HV8/hqdefault.jpg"
 lat: 35.699913
 lng: 139.699741
 members:

@@ -13,6 +13,7 @@ youtube_id: "10CFRaEzqS8"
 source_video_title: "【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=OFF%20KINOSAKI"
+thumbnail_url: "https://img.youtube.com/vi/10CFRaEzqS8/hqdefault.jpg"
 lat: 35.6250563
 lng: 134.8078659
 members:
