@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "GEBURA"
-description: "カフェ・廿日市広島県・イコラブが訪問"
+description: "=LOVEの山本杏奈・佐々木舞香が訪れたカフェ。"
 shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
 genre: "カフェ"

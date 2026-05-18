@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
-description: "焼肉・長野県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた焼肉店。"
 shop_id: "equal_love-熟成和牛焼肉_エイジングビーフ軽井沢-20250530"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "焼肉"

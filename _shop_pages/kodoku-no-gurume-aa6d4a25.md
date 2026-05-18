@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "つり堀 武蔵野園"
-description: "永福の親子丼と焼うどん"
+description: "孤独のグルメ Season1 第5話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"
 genre: "ラーメン"

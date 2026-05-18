@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SME六番町ビル 多目的スペース「OnSITE」"
-description: "食事・千代田区東京都・イコラブが訪問"
+description: "=LOVEの佐々木舞香・野口衣織らが訪れた飲食店。"
 shop_id: "equal_love-sme六番町ビル_多目的スペースonsi-20240804"
 name: "SME六番町ビル 多目的スペース「OnSITE」"
 genre: "食事"

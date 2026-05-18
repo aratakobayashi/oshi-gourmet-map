@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鎌倉茶々本店"
-description: "スイーツ・鎌倉市神奈川県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れたスイーツ店。"
 shop_id: "equal_love-鎌倉茶々本店-20240809"
 name: "鎌倉茶々本店"
 genre: "スイーツ"

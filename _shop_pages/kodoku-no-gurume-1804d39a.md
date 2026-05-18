@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "天ぷら 中山"
-description: "日本橋人形町の黒天丼"
+description: "孤独のグルメ Season2 第2話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-1804d39a-"
 name: "天ぷら 中山"
 genre: "和食"

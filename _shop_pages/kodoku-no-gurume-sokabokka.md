@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SokaBokka"
-description: "中目黒 ソーキそばとアグー豚の天然塩焼き"
+description: "孤独のグルメ Season1 第12話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-sokabokka-"
 name: "SokaBokka"
 genre: "ラーメン"

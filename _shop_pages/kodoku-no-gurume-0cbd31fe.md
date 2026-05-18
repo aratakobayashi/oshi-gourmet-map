@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中国家庭料理 楊 2号店"
-description: "池袋の汁なし担々麺"
+description: "孤独のグルメ Season1 第3話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-0cbd31fe-"
 name: "中国家庭料理 楊 2号店"
 genre: "食事"

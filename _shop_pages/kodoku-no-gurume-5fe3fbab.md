@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鰻の名店割烹 松の家"
-description: "静岡県浜松市の二色まぶし丼"
+description: "孤独のグルメ Season10 第2021話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-5fe3fbab-"
 name: "鰻の名店割烹 松の家"
 genre: "和食"

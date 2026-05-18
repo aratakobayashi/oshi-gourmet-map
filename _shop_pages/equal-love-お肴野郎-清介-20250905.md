@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お肴野郎 清介"
-description: "居酒屋・熱海市静岡県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-お肴野郎_清介-20250905"
 name: "お肴野郎 清介"
 genre: "居酒屋"

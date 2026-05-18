@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "山源"
-description: "板橋のホルモン焼き"
+description: "孤独のグルメ Season3 第6話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
 genre: "焼肉"

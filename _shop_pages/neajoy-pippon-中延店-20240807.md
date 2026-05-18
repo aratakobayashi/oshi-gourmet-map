@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "PiPPon 中延店"
-description: "食事・品川区東京都・≒JOYが訪問"
+description: "≒JOYの大信田美月・大西葵らが訪れた飲食店。"
 shop_id: "neajoy-pippon_中延店-20240807"
 name: "PiPPon 中延店"
 genre: "食事"

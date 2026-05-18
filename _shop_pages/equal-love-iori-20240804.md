@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IORI"
-description: "食事・千歳市北海道・イコラブが訪問"
+description: "=LOVEの大谷映美里・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"
 genre: "食事"

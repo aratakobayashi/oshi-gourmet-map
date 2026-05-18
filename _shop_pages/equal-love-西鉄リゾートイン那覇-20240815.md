@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "西鉄リゾートイン那覇"
-description: "食事・那覇市沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-西鉄リゾートイン那覇-20240815"
 name: "西鉄リゾートイン那覇"
 genre: "食事"

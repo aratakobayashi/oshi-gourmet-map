@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いっかくじゅう 四条新町店"
-description: "食事・京都市京都府・イコラブが訪問"
+description: "=LOVEが訪れた飲食店。"
 shop_id: "equal_love-いっかくじゅう_四条新町店-20240804"
 name: "いっかくじゅう 四条新町店"
 genre: "食事"

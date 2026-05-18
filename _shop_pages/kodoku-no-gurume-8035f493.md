@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "菜苑"
-description: "亀戸の純レバ丼"
+description: "孤独のグルメ Season5 第10話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-8035f493-"
 name: "菜苑"
 genre: "食事"

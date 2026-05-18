@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "長白小館"
-description: "台湾台北市の酸菜白肉火鍋"
+description: "孤独のグルメ Season10 第2023話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-43db0070-"
 name: "長白小館"
 genre: "和食"

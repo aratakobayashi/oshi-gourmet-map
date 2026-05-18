@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉宝来軒"
-description: "藤岡市の一人ロースター焼き肉"
+description: "孤独のグルメ Season8 第5話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-a27b3ef5-"
 name: "焼肉宝来軒"
 genre: "焼肉"

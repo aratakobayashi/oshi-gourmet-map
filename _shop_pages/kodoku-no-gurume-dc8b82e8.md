@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "どん平"
-description: "西尾久の炎の酒鍋と麦とろ飯"
+description: "孤独のグルメ Season3 第10話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-dc8b82e8-"
 name: "どん平"
 genre: "和食"

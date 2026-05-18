@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鮨 長島"
-description: "寿司・大田区東京都・かまいたちが訪問"
+description: "かまいたちの山内健司・濱家隆一が訪れた寿司店。"
 shop_id: "kamaitachi-鮨_長島-"
 name: "鮨 長島"
 genre: "寿司"

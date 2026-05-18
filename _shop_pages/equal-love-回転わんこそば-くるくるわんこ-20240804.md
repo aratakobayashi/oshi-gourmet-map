@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "回転わんこそば くるくるわんこ"
-description: "和食・新宿区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里・齋藤樹愛羅らが訪れた和食店。"
 shop_id: "equal_love-回転わんこそば_くるくるわんこ-20240804"
 name: "回転わんこそば くるくるわんこ"
 genre: "和食"

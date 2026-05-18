@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "華正樓 本店"
-description: "食事・横浜市神奈川県・イコラブが訪問"
+description: "=LOVEの齋藤樹愛羅・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-華正樓_本店-20240812"
 name: "華正樓 本店"
 genre: "食事"

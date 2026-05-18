@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "OVERRIDE 神宮前"
-description: "その他・渋谷区東京都・よにのちゃんねるが訪問"
+description: "よにのちゃんねる#438「買い物!!」に登場したお店。"
 shop_id: "yonino-override_神宮前-20250709"
 name: "OVERRIDE 神宮前"
 genre: "その他"

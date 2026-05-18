@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "USHIHACHI 渋谷店"
-description: "焼肉・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの齊藤なぎさが訪れた焼肉店。"
 shop_id: "equal_love-ushihachi_渋谷店-20240804"
 name: "USHIHACHI 渋谷店"
 genre: "焼肉"

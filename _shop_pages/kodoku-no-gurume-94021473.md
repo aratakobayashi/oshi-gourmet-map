@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "割烹・定食 さがら"
-description: "南長崎の肉とナスの醤油炒め定食と鳥唐揚げ"
+description: "孤独のグルメ Season8 第6話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-94021473-"
 name: "割烹・定食 さがら"
 genre: "和食"

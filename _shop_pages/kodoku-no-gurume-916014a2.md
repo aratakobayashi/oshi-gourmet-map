@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "和食亭"
-description: "駒込の煮魚定食"
+description: "孤独のグルメ Season1 第2話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-916014a2-"
 name: "和食亭"
 genre: "和食"

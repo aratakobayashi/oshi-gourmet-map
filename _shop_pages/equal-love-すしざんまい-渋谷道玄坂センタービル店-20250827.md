@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "すしざんまい 渋谷道玄坂センタービル店"
-description: "寿司・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた寿司店。"
 shop_id: "equal_love-すしざんまい_渋谷道玄坂センタービル店-20250827"
 name: "すしざんまい 渋谷道玄坂センタービル店"
 genre: "寿司"

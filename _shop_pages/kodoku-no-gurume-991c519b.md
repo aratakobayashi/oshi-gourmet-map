@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "下総屋"
-description: "東京都墨田区の焼き肉ラーメン"
+description: "孤独のグルメ Season10 第2021話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-991c519b-"
 name: "下総屋"
 genre: "ラーメン"

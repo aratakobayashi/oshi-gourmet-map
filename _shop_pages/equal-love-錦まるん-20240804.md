@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "錦まるん"
-description: "食事・京都市京都府・イコラブが訪問"
+description: "=LOVEが訪れた飲食店。"
 shop_id: "equal_love-錦まるん-20240804"
 name: "錦まるん"
 genre: "食事"

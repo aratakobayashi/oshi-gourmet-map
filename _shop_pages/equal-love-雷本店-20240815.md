@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "雷本店"
-description: "食事・松戸市千葉県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-雷本店-20240815"
 name: "雷本店"
 genre: "食事"

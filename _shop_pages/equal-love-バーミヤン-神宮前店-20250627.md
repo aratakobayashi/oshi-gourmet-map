@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "バーミヤン 神宮前店"
-description: "中華・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-バーミヤン_神宮前店-20250627"
 name: "バーミヤン 神宮前店"
 genre: "中華"

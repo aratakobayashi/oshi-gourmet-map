@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あちらぼ"
-description: "居酒屋・杉並区東京都・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-あちらぼ-20241215"
 name: "あちらぼ"
 genre: "居酒屋"

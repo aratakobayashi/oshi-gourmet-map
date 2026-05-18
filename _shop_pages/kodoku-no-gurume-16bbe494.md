@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀戸系ホルモン やりなおし 亀戸本店"
-description: "6話（最終話） デリバリー編"
+description: "孤独のグルメ Season10 第2022話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-16bbe494-"
 name: "亀戸系ホルモン やりなおし 亀戸本店"
 genre: "焼肉"

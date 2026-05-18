@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "銀座 楼蘭"
-description: "2016.07.20 グルメ探偵調査"
+description: "いただきハイジャンプ グルメ探偵調査に登場した飲食店。八乙女光が訪問。"
 shop_id: "heysayjump-77cd10ec-20160720"
 name: "銀座 楼蘭"
 genre: "食事"

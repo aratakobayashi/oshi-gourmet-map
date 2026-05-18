@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Pacific DRIVE-IN"
-description: "食事・鎌倉市神奈川県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れた飲食店。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ひろしま夢ぷらざ"
-description: "その他・広島市広島県・イコラブが訪問"
+description: "=LOVEの野口衣織・山本杏奈が訪れたお店。"
 shop_id: "equal_love-ひろしま夢ぷらざ-20240814"
 name: "ひろしま夢ぷらざ"
 genre: "その他"

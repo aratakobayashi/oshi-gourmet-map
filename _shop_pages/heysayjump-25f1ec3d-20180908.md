@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "うな達"
-description: "2018.09.08 グルメ探偵調査"
+description: "いただきハイジャンプ グルメ探偵調査に登場した和食店。山田涼介・八乙女光が訪問。"
 shop_id: "heysayjump-25f1ec3d-20180908"
 name: "うな達"
 genre: "和食"

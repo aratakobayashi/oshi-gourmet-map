@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "えどもんど中野"
-description: "居酒屋・中野区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-えどもんど中野-20250215"
 name: "えどもんど中野"
 genre: "居酒屋"

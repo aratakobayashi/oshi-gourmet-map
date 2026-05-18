@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ともや 鎌倉小町店"
-description: "和食・鎌倉市神奈川県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
 shop_id: "equal_love-ともや_鎌倉小町店-20240809"
 name: "ともや 鎌倉小町店"
 genre: "和食"

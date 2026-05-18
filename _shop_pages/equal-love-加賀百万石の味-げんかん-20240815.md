@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "加賀百万石の味 げんかん"
-description: "和食・金沢市石川県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-加賀百万石の味_げんかん-20240815"
 name: "加賀百万石の味 げんかん"
 genre: "和食"

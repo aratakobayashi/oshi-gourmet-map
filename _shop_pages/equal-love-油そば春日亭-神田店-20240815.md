@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "油そば春日亭 神田店"
-description: "ラーメン・千代田区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-油そば春日亭_神田店-20240815"
 name: "油そば春日亭 神田店"
 genre: "ラーメン"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鎌倉壱番屋 雪ノ下店"
-description: "和食・鎌倉市神奈川県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
 shop_id: "equal_love-鎌倉壱番屋_雪ノ下店-20240809"
 name: "鎌倉壱番屋 雪ノ下店"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ピッコロレガーロ"
-description: "東京都日野市のピザとパスタ"
+description: "孤独のグルメ Season10 第2024話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-19977d56-"
 name: "ピッコロレガーロ"
 genre: "食事"

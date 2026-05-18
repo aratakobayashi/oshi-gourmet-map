@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "コロラド"
-description: "カフェ・大阪市大阪府・かまいたちが訪問"
+description: "かまいたち「関西編」に登場したカフェ。山内健司・濱家隆一が訪問。"
 shop_id: "kamaitachi-コロラド-"
 name: "コロラド"
 genre: "カフェ"

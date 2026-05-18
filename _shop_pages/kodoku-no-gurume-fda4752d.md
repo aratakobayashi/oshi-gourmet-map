@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "庄助"
-description: "門前仲町のやきとりと焼きめし"
+description: "孤独のグルメ Season1 第1話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-fda4752d-"
 name: "庄助"
 genre: "和食"

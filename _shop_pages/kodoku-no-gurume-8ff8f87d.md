@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "コロムビア"
-description: "下仁田町のタンメンと豚すき焼き"
+description: "孤独のグルメ Season7 第4話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-8ff8f87d-"
 name: "コロムビア"
 genre: "食事"

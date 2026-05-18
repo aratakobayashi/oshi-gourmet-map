@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "COA GINZA"
-description: "カフェ・中央区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたカフェ。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
 genre: "カフェ"

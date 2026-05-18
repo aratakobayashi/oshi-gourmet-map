@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "手作りアイス 花茶"
-description: "北海道千歳市のジェラート"
+description: "孤独のグルメ Season10 第2022話に登場したスイーツ店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-69029c00-"
 name: "手作りアイス 花茶"
 genre: "スイーツ"

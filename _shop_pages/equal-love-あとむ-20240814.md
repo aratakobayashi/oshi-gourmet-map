@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あとむ"
-description: "居酒屋・広島市広島県・イコラブが訪問"
+description: "=LOVEの髙松瞳・山本杏奈が訪れた居酒屋。"
 shop_id: "equal_love-あとむ-20240814"
 name: "あとむ"
 genre: "居酒屋"

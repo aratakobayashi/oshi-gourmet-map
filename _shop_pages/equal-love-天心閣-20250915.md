@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "天心閣"
-description: "食事・廿日市広島県・イコラブが訪問"
+description: "=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-天心閣-20250915"
 name: "天心閣"
 genre: "食事"

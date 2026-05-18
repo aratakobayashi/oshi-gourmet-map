@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉古今"
-description: "焼肉・東京都・亀梨和也が訪問"
+description: "亀梨和也「ぼっち」に登場した焼肉店。"
 shop_id: "kamenashi-焼肉古今-20240727"
 name: "焼肉古今"
 genre: "焼肉"

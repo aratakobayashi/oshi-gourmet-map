@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "永楽小乞"
-description: "永楽市場の鶏肉飯と乾麺"
+description: "孤独のグルメ Season5 第5話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-f6f011b2-"
 name: "永楽小乞"
 genre: "食事"

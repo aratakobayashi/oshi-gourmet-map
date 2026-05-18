@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "泪橋"
-description: "百軒横丁のチキン南蛮と地鶏モモ串"
+description: "孤独のグルメ Season7 第8話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-50e9e982-"
 name: "泪橋"
 genre: "食事"

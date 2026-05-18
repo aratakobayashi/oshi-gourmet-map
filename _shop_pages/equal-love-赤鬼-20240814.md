@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤鬼"
-description: "居酒屋・いわき市福島県・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-赤鬼-20240814"
 name: "赤鬼"
 genre: "居酒屋"

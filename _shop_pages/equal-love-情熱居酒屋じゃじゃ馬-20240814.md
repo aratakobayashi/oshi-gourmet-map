@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "情熱居酒屋じゃじゃ馬"
-description: "居酒屋・いわき市福島県・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-情熱居酒屋じゃじゃ馬-20240814"
 name: "情熱居酒屋じゃじゃ馬"
 genre: "居酒屋"

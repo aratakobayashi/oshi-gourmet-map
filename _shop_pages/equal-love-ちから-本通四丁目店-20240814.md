@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ちから 本通四丁目店"
-description: "食事・広島市広島県・イコラブが訪問"
+description: "=LOVEの野口衣織・山本杏奈が訪れた飲食店。"
 shop_id: "equal_love-ちから_本通四丁目店-20240814"
 name: "ちから 本通四丁目店"
 genre: "食事"

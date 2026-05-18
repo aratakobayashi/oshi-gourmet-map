@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "シャンウェイ 本店"
-description: "神宮前の毛沢東スペアリブと黒チャーハン"
+description: "孤独のグルメ Season4 第9話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-8c90e208-"
 name: "シャンウェイ 本店"
 genre: "食事"

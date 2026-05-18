@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀戸餃子"
-description: "2018.09.08 グルメ探偵調査"
+description: "いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。"
 shop_id: "heysayjump-d5f50b8f-20180908"
 name: "亀戸餃子"
 genre: "食事"

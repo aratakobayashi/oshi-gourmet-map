@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大久堂 OKUDO カフェ"
-description: "カフェ・新宿区東京都・中丸雄一銀河チャンネルが訪問"
+description: "中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。"
 shop_id: "ginga-大久堂_okudo_カフェ-20250709"
 name: "大久堂 OKUDO カフェ"
 genre: "カフェ"

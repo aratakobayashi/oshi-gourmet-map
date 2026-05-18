@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "吉美焼肉店"
-description: "長野県飯田市の味の焼肉"
+description: "孤独のグルメ Season10 第2024話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-417ff61f-"
 name: "吉美焼肉店"
 genre: "焼肉"

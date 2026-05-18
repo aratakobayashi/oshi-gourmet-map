@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "食堂とだか"
-description: "五反田の揚げトウモロコシと牛ご飯"
+description: "孤独のグルメ Season6 第12話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-9ec04f1e-"
 name: "食堂とだか"
 genre: "食事"

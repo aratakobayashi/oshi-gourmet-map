@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ラーメン山岡家 青梅店"
-description: "ラーメン・青梅市東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-ラーメン山岡家_青梅店-20250829"
 name: "ラーメン山岡家 青梅店"
 genre: "ラーメン"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "プングム 新大久保本店"
-description: "中華・新宿区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-プングム_新大久保本店-20251122"
 name: "プングム 新大久保本店"
 genre: "中華"

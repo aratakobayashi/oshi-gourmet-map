@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いろり家"
-description: "箱根町のステーキ丼"
+description: "孤独のグルメ Season4 第3話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-92ab84a8-"
 name: "いろり家"
 genre: "焼肉"

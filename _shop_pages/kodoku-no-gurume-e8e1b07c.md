@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みやけうどん"
-description: "博多区の鯖ごまと若どりのスープ炊き"
+description: "孤独のグルメ Season10 第2014話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-e8e1b07c-"
 name: "みやけうどん"
 genre: "ラーメン"

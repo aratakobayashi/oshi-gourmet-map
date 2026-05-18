@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "キセキ食堂 上尾店"
-description: "本町の肩ロースカツ定食"
+description: "孤独のグルメ Season7 第1話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-2d40fc9e-"
 name: "キセキ食堂 上尾店"
 genre: "和食"

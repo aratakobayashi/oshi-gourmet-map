@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "つるや"
-description: "八丁畷の一人焼肉"
+description: "孤独のグルメ Season1 第8話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"
 genre: "焼肉"

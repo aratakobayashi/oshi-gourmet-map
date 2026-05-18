@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "むつみ橋商店街"
-description: "その他・那覇市沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたお店。"
 shop_id: "equal_love-むつみ橋商店街-20240815"
 name: "むつみ橋商店街"
 genre: "その他"

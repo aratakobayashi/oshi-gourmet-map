@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "回転すし活一鮮"
-description: "寿司・札幌市北海道・イコラブが訪問"
+description: "=LOVEの大谷映美里・野口衣織が訪れた寿司店。"
 shop_id: "equal_love-回転すし活一鮮-20240815"
 name: "回転すし活一鮮"
 genre: "寿司"

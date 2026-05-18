@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "松本醤油商店"
-description: "2018.11.10 川越特集"
+description: "いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-eea6c892-20181110"
 name: "松本醤油商店"
 genre: "その他"

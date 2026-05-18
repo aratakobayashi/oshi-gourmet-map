@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "はまべ"
-description: "金谷のアジフライ定食"
+description: "孤独のグルメ Season6 第10話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-83ea2596-"
 name: "はまべ"
 genre: "和食"

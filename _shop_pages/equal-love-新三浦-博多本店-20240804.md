@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "新三浦 博多本店"
-description: "中華・福岡市福岡県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-新三浦_博多本店-20240804"
 name: "新三浦 博多本店"
 genre: "中華"

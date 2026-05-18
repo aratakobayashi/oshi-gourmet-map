@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "スタジオカフェ MARU"
-description: "カフェ・新宿区東京都・中丸雄一銀河チャンネルが訪問"
+description: "中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。"
 shop_id: "ginga-スタジオカフェ_maru-20250709"
 name: "スタジオカフェ MARU"
 genre: "カフェ"

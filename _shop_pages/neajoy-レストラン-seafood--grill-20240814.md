@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "レストラン Seafood ＆ Grill YAKIYA"
-description: "食事・横浜市神奈川県・≒JOYが訪問"
+description: "≒JOYの逢田珠里依・大西葵らが訪れた飲食店。"
 shop_id: "neajoy-レストラン_seafood__grill-20240814"
 name: "レストラン Seafood ＆ Grill YAKIYA"
 genre: "食事"

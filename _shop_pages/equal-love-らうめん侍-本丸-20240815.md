@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "らうめん侍 本丸"
-description: "ラーメン・金沢市石川県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-らうめん侍_本丸-20240815"
 name: "らうめん侍 本丸"
 genre: "ラーメン"

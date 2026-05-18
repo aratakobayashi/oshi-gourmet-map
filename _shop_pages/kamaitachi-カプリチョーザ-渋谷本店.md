@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カプリチョーザ 渋谷本店"
-description: "食事・渋谷区東京都・かまいたちが訪問"
+description: "かまいたちの山内健司・濱家隆一が訪れた飲食店。"
 shop_id: "kamaitachi-カプリチョーザ_渋谷本店-"
 name: "カプリチョーザ 渋谷本店"
 genre: "食事"

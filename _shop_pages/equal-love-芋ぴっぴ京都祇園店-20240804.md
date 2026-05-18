@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "芋ぴっぴ。京都祇園店"
-description: "スイーツ・京都市京都府・イコラブが訪問"
+description: "=LOVEが訪れたスイーツ店。"
 shop_id: "equal_love-芋ぴっぴ京都祇園店-20240804"
 name: "芋ぴっぴ。京都祇園店"
 genre: "スイーツ"

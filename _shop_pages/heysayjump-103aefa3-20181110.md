@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鐘撞堂下 田中屋"
-description: "2018.11.10 川越特集"
+description: "いただきハイジャンプ 川越特集に登場した飲食店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-103aefa3-20181110"
 name: "鐘撞堂下 田中屋"
 genre: "食事"

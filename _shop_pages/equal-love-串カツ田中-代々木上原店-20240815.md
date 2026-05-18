@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "串カツ田中 代々木上原店"
-description: "居酒屋・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-串カツ田中_代々木上原店-20240815"
 name: "串カツ田中 代々木上原店"
 genre: "居酒屋"

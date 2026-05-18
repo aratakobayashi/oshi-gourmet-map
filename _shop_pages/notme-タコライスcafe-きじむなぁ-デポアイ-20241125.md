@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "タコライスcafe きじむなぁ デポアイランド店"
-description: "カフェ・中頭郡北谷町沖縄県・≠MEが訪問"
+description: "≠MEの鈴木瞳美が訪れたカフェ。"
 shop_id: "notme-タコライスcafe_きじむなぁ_デポアイ-20241125"
 name: "タコライスcafe きじむなぁ デポアイランド店"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "マッシーナ メッシーナ"
-description: "経堂の一人バイキング"
+description: "孤独のグルメ Season7 第2話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-8fc55f6d-"
 name: "マッシーナ メッシーナ"
 genre: "食事"

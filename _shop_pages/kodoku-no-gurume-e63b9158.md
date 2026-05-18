@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "토방"
-description: "チョンジュ市の納豆チゲとセルフビビンパ"
+description: "孤独のグルメ Season7 第9話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-e63b9158-"
 name: "토방"
 genre: "食事"

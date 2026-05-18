@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "からあげ まこちゃん 鎌倉本店"
-description: "和食・鎌倉市神奈川県・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
 shop_id: "equal_love-からあげ_まこちゃん_鎌倉本店-20240809"
 name: "からあげ まこちゃん 鎌倉本店"
 genre: "和食"

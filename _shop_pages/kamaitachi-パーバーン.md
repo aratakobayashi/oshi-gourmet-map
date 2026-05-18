@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "パーバーン"
-description: "トムヤム飯"
+description: "かまいたち「関東編」に登場した飲食店。山内健司・濱家隆一が訪問。"
 shop_id: "kamaitachi-パーバーン-"
 name: "パーバーン"
 genre: "食事"

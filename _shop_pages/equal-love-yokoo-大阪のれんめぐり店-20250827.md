@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "YOKOO 大阪のれんめぐり店"
-description: "食事・大阪市大阪府・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-yokoo_大阪のれんめぐり店-20250827"
 name: "YOKOO 大阪のれんめぐり店"
 genre: "食事"

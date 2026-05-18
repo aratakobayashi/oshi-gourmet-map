@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "磯丸水産 初台南口店"
-description: "和食・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-磯丸水産_初台南口店-20240815"
 name: "磯丸水産 初台南口店"
 genre: "和食"

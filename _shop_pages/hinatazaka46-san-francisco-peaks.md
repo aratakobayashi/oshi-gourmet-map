@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "San Francisco Peaks"
-description: "食事・日向坂46が訪問"
+description: "日向坂46「あくびLetter」に登場した飲食店。"
 shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "食事"

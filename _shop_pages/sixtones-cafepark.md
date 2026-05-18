@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "CAFE PARK"
-description: "恵比寿にある落ち着いたカフェ。"
+description: "ストチューブ（SixTONES）「SixTONES - お洒落カフェでトーク」に登場したカフェ。ジェシー・京本大我らが訪問。"
 shop_id: "sixtones-cafepark"
 name: "CAFE PARK"
 genre: "カフェ"

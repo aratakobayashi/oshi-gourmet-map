@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLTステーキ 銀座"
-description: "2016.07.20 グルメ探偵調査"
+description: "いただきハイジャンプ グルメ探偵調査に登場した焼肉店。八乙女光が訪問。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"
 genre: "焼肉"

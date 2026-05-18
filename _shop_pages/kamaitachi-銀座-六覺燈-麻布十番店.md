@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "銀座 六覺燈 麻布十番店"
-description: "居酒屋・港区東京都・かまいたちが訪問"
+description: "かまいたちの山内健司・濱家隆一が訪れた居酒屋。"
 shop_id: "kamaitachi-銀座_六覺燈_麻布十番店-"
 name: "銀座 六覺燈 麻布十番店"
 genre: "居酒屋"

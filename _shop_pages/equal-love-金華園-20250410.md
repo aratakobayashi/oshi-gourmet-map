@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "金華園"
-description: "中華・台東区東京都・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた飲食店。"
 shop_id: "equal_love-金華園-20250410"
 name: "金華園"
 genre: "中華"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鳥取市役所 食堂"
-description: "鳥取市のオーカクとホルモンそば"
+description: "孤独のグルメ Season8 第8話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-f729085e-"
 name: "鳥取市役所 食堂"
 genre: "ラーメン"

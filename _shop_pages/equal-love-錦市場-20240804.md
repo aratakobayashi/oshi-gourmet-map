@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "錦市場"
-description: "その他・京都市京都府・イコラブが訪問"
+description: "=LOVEが訪れたお店。"
 shop_id: "equal_love-錦市場-20240804"
 name: "錦市場"
 genre: "その他"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "FLIPPER'S 下北沢店"
-description: "スイーツ・世田谷区東京都・≠MEが訪問"
+description: "≠MEの冨田菜々風・蟹沢萌子が訪れたスイーツ店。"
 shop_id: "notme-flippers_下北沢店-20240804"
 name: "FLIPPER'S 下北沢店"
 genre: "スイーツ"

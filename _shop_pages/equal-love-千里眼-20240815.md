@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "千里眼"
-description: "ラーメン・目黒区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-千里眼-20240815"
 name: "千里眼"
 genre: "ラーメン"

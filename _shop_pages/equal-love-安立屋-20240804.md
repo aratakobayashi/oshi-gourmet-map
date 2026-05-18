@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "安立屋"
-description: "和食・台東区東京都・イコラブが訪問"
+description: "=LOVEの瀧脇笙古・髙松瞳らが訪れた和食店。"
 shop_id: "equal_love-安立屋-20240804"
 name: "安立屋"
 genre: "和食"

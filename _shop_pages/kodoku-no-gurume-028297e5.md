@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "タイレストラン イサーン"
-description: "浅草のローストポークのサラダとチムチュム"
+description: "孤独のグルメ Season8 第6話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-028297e5-"
 name: "タイレストラン イサーン"
 genre: "食事"

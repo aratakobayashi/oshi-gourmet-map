@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みやこや"
-description: "鷲ノ宮のロースにんにく焼き"
+description: "孤独のグルメ Season1 第6話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-9af9d10b-"
 name: "みやこや"
 genre: "食事"

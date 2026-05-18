@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "La Maison du R"
-description: "食事・岡崎市愛知県・≒JOYが訪問"
+description: "≒JOYの江角怜音・大信田美月らが訪れた飲食店。"
 shop_id: "neajoy-la_maison_du_r-20240814"
 name: "La Maison du R"
 genre: "食事"

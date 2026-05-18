@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Captain’s Grill and Bar"
-description: "食事・川崎市神奈川県・Snow Manが訪問"
+description: "すの日常（Snow Man）「【すのちゅーぶ】羽田空港が見える「川崎キングスカイ」に登場した飲食店。岩本照・ラウールらが訪問。"
 shop_id: "snowman-captains_grill_and_b-20250429"
 name: "Captain’s Grill and Bar"
 genre: "食事"

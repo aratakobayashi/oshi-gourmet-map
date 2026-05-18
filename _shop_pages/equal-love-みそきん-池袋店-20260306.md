@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みそきん 池袋店"
-description: "ラーメン・豊島区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-みそきん_池袋店-20260306"
 name: "みそきん 池袋店"
 genre: "ラーメン"

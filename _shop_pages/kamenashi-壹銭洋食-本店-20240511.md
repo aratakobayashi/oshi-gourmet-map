@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "壹銭洋食 本店"
-description: "オフの日の京都旅で訪れたお店です。"
+description: "亀梨和也「vlog」に登場したもんじゃ店。"
 shop_id: "kamenashi-壹銭洋食_本店-20240511"
 name: "壹銭洋食 本店"
 genre: "もんじゃ"

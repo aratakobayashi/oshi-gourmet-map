@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "長崎飯店 渋谷店"
-description: "道玄坂の皿うどんと春巻き"
+description: "孤独のグルメ Season6 第7話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-5e28c0e3-"
 name: "長崎飯店 渋谷店"
 genre: "ラーメン"

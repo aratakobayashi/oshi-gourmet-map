@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "WEGO 原宿竹下通り店"
-description: "その他・渋谷区東京都・≠MEが訪問"
+description: "≠MEの尾木波菜・菅波美玲らが訪れたお店。"
 shop_id: "notme-wego_原宿竹下通り店-20240804"
 name: "WEGO 原宿竹下通り店"
 genre: "その他"

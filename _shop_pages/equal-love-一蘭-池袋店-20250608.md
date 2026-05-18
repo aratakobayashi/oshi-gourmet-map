@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "一蘭 池袋店"
-description: "ラーメン・豊島区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-一蘭_池袋店-20250608"
 name: "一蘭 池袋店"
 genre: "ラーメン"

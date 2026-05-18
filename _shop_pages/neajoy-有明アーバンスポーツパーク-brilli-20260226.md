@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"
-description: "その他・江東区東京都・≒JOYが訪問"
+description: "≒JOYが訪れたお店。"
 shop_id: "neajoy-有明アーバンスポーツパーク_brilli-20260226"
 name: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"
 genre: "その他"

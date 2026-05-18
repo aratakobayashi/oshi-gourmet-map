@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大安食堂"
-description: "とんちゃんとけいちゃん"
+description: "孤独のグルメ Season10 第6話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-547030ba-"
 name: "大安食堂"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "CoCo壱番屋 中目黒山手通店"
-description: "カレー・目黒区東京都・なにわ男子が訪問"
+description: "なにわ男子「ココイチで被っちゃダメよカレー」に登場した飲食店。"
 shop_id: "naniwa-coco壱番屋_中目黒山手通店-20241203"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "カレー"

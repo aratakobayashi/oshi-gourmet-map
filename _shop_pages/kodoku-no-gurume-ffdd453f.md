@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "増英蒲鉾店"
-description: "砂町銀座を経て事務所飯"
+description: "孤独のグルメ Season2 第9話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-ffdd453f-"
 name: "増英蒲鉾店"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "もつ焼のんき"
-description: "シロ"
+description: "かまいたち「関東編」に登場した居酒屋。山内健司・濱家隆一が訪問。"
 shop_id: "kamaitachi-もつ焼のんき-"
 name: "もつ焼のんき"
 genre: "居酒屋"

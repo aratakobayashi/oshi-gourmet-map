@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "とんかつ割烹 やすいみ～と"
-description: "東京都府中市白糸台のわらじとんかつ"
+description: "孤独のグルメ Season10 第24話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-f586f38d-"
 name: "とんかつ割烹 やすいみ～と"
 genre: "和食"

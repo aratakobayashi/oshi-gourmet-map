@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "創作漬物 川越・河村屋"
-description: "2018.11.10 川越特集"
+description: "いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-86cc2d7d-20181110"
 name: "創作漬物 川越・河村屋"
 genre: "その他"

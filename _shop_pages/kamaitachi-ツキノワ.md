@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ツキノワ"
-description: "スパイスカレー"
+description: "かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。"
 shop_id: "kamaitachi-ツキノワ-"
 name: "ツキノワ"
 genre: "食事"

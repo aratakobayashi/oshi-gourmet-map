@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大幸園 小宮本店"
-description: "小宮町のヒレカルビとロースすき焼き風"
+description: "孤独のグルメ Season4 第4話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-b4ec36d5-"
 name: "大幸園 小宮本店"
 genre: "食事"

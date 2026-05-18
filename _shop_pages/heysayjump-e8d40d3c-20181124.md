@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "近江屋長兵衛商店"
-description: "2018.11.24 川越特集後編"
+description: "いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-e8d40d3c-20181124"
 name: "近江屋長兵衛商店"
 genre: "食事"

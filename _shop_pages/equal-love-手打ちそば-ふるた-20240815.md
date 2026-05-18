@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "手打ちそば ふるた"
-description: "和食・府中市東京都・イコラブが訪問"
+description: "=LOVEの佐々木舞香・山本杏奈が訪れた和食店。"
 shop_id: "equal_love-手打ちそば_ふるた-20240815"
 name: "手打ちそば ふるた"
 genre: "和食"

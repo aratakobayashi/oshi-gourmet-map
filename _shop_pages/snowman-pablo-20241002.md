@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Pablo"
-description: "食事・Snow Manが訪問"
+description: "すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "食事"

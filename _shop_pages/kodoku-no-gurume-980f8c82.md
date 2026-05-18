@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乙姫"
-description: "日間賀島のしらすの天ぷらとたこめし"
+description: "孤独のグルメ Season4 第5話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-980f8c82-"
 name: "乙姫"
 genre: "和食"

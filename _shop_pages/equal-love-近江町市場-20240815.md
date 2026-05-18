@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "近江町市場"
-description: "その他・金沢市石川県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたお店。"
 shop_id: "equal_love-近江町市場-20240815"
 name: "近江町市場"
 genre: "その他"

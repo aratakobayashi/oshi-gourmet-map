@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "丹波篠山 猪料理専門店 奥榮"
-description: "兵庫県丹波篠山の牡丹鍋"
+description: "孤独のグルメ Season10 第2021話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-f92d0f22-"
 name: "丹波篠山 猪料理専門店 奥榮"
 genre: "和食"

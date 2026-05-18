@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "モーリーファンタジー ソコラ南行徳店"
-description: "その他・市川市千葉県・イコラブが訪問"
+description: "=LOVEの齋藤樹愛羅・野口衣織らが訪れたお店。"
 shop_id: "equal_love-モーリーファンタジー_ソコラ南行徳店-20241021"
 name: "モーリーファンタジー ソコラ南行徳店"
 genre: "その他"

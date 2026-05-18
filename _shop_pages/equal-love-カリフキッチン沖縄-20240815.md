@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カリフキッチン沖縄"
-description: "食事・中頭郡北谷町沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-カリフキッチン沖縄-20240815"
 name: "カリフキッチン沖縄"
 genre: "食事"

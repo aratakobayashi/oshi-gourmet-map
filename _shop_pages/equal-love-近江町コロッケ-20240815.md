@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "近江町コロッケ"
-description: "スイーツ・金沢市石川県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたスイーツ店。"
 shop_id: "equal_love-近江町コロッケ-20240815"
 name: "近江町コロッケ"
 genre: "スイーツ"

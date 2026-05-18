@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤羽 もつ焼のんき"
-description: "居酒屋・東京都・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-赤羽_もつ焼のんき-20240814"
 name: "赤羽 もつ焼のんき"
 genre: "居酒屋"

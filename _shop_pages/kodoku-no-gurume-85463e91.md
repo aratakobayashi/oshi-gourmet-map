@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "マイハウス"
-description: "沖縄県宜野湾市のタコスとステーキ"
+description: "孤独のグルメ Season10 第2023話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-85463e91-"
 name: "マイハウス"
 genre: "焼肉"

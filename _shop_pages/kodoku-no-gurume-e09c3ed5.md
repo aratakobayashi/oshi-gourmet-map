@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "すみれ"
-description: "根津 飲み屋さんの特辛カレー"
+description: "孤独のグルメ Season1 第11話に登場した居酒屋。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-e09c3ed5-"
 name: "すみれ"
 genre: "居酒屋"

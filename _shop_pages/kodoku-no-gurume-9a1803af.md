@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉みよし"
-description: "山形県米沢市の米沢牛の焼き肉とカレー"
+description: "孤独のグルメ Season10 第2025話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-9a1803af-"
 name: "焼肉みよし"
 genre: "焼肉"

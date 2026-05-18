@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "#ヒロキヤ 六本木"
-description: "食事・東京都・イコラブが訪問"
+description: "=LOVEの佐々木舞香・山本杏奈が訪れた飲食店。"
 shop_id: "equal_love-ヒロキヤ_六本木-20241102"
 name: "#ヒロキヤ 六本木"
 genre: "食事"

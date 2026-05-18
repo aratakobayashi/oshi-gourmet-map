@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "舞木ドライブイン"
-description: "郡山市舞木町ドライブインの焼肉定食"
+description: "孤独のグルメ Season8 第9話に登場した焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-b849d4a4-"
 name: "舞木ドライブイン"
 genre: "焼肉"

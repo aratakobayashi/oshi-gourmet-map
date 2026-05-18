@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "月島もんじゃ もんろう"
-description: "もんじゃ・中央区東京都・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたもんじゃ店。"
 shop_id: "equal_love-月島もんじゃ_もんろう-20240815"
 name: "月島もんじゃ もんろう"
 genre: "もんじゃ"

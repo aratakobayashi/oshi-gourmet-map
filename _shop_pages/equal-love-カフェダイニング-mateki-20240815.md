@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カフェ＆ダイニング mateki"
-description: "カフェ・那覇市沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたカフェ。"
 shop_id: "equal_love-カフェダイニング_mateki-20240815"
 name: "カフェ＆ダイニング mateki"
 genre: "カフェ"

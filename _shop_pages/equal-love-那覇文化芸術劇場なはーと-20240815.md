@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "那覇文化芸術劇場なはーと"
-description: "その他・那覇市沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れたお店。"
 shop_id: "equal_love-那覇文化芸術劇場なはーと-20240815"
 name: "那覇文化芸術劇場なはーと"
 genre: "その他"

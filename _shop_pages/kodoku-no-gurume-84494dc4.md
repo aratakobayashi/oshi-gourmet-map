@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "きずき"
-description: "島根県出雲市の餃子とライス"
+description: "孤独のグルメ Season10 第24話に登場した飲食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-84494dc4-"
 name: "きずき"
 genre: "食事"

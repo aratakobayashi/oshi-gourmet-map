@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お好み村てつ"
-description: "もんじゃ・広島市広島県・イコラブが訪問"
+description: "=LOVEの野口衣織・山本杏奈が訪れたもんじゃ店。"
 shop_id: "equal_love-お好み村てつ-20240814"
 name: "お好み村てつ"
 genre: "もんじゃ"

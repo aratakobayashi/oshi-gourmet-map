@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "400℃ Pizza Tokyo 神楽坂店"
-description: "その他・新宿区東京都・よにのちゃんねるが訪問"
+description: "よにのちゃんねる#431「朝食!!」に登場したお店。"
 shop_id: "yonino-400_pizza_tokyo_神楽坂店-20250615"
 name: "400℃ Pizza Tokyo 神楽坂店"
 genre: "その他"

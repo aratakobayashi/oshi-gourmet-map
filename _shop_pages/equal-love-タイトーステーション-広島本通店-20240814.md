@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "タイトーステーション 広島本通店"
-description: "その他・広島市広島県・イコラブが訪問"
+description: "=LOVEの野口衣織・山本杏奈が訪れたお店。"
 shop_id: "equal_love-タイトーステーション_広島本通店-20240814"
 name: "タイトーステーション 広島本通店"
 genre: "その他"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しゃぶしゃぶ さくら"
-description: "食事・横浜市神奈川県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-しゃぶしゃぶ_さくら-20260131"
 name: "しゃぶしゃぶ さくら"
 genre: "食事"

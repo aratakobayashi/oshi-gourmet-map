@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "揚げもみじの紅葉堂 本店"
-description: "スイーツ・廿日市広島県・イコラブが訪問"
+description: "=LOVEの山本杏奈・佐々木舞香が訪れたスイーツ店。"
 shop_id: "equal_love-揚げもみじの紅葉堂_本店-20250915"
 name: "揚げもみじの紅葉堂 本店"
 genre: "スイーツ"

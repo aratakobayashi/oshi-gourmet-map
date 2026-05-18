@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Litty"
-description: "居酒屋・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの音嶋莉沙が訪れた居酒屋。"
 shop_id: "equal_love-litty-20241211"
 name: "Litty"
 genre: "居酒屋"

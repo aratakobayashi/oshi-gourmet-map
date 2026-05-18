@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "MARION CREPES 原宿竹下通り店"
-description: "スイーツ・渋谷区東京都・イコラブが訪問"
+description: "=LOVEの音嶋莉沙・佐竹のん乃らが訪れたスイーツ店。"
 shop_id: "equal_love-marion_crepes_原宿竹下通り-20240804"
 name: "MARION CREPES 原宿竹下通り店"
 genre: "スイーツ"

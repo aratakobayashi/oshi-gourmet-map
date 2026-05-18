@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "沼津港海将 zero 上野店"
-description: "寿司・台東区東京都・イコラブが訪問"
+description: "=LOVEの諸橋沙夏が訪れた寿司店。"
 shop_id: "equal_love-沼津港海将_zero_上野店-20251114"
 name: "沼津港海将 zero 上野店"
 genre: "寿司"

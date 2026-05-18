@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "甘辛や"
-description: "美章園のお好み焼き定食と平野の串かつ"
+description: "孤独のグルメ Season6 第1話に登場したもんじゃ店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-51019084-"
 name: "甘辛や"
 genre: "もんじゃ"

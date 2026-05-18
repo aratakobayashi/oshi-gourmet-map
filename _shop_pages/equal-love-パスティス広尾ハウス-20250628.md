@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "パスティス広尾ハウス"
-description: "カフェ・渋谷区東京都・イコラブが訪問"
+description: "=LOVEが訪れたカフェ。"
 shop_id: "equal_love-パスティス広尾ハウス-20250628"
 name: "パスティス広尾ハウス"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ちまぐ～"
-description: "沖縄県今帰仁村のちまぐ定食"
+description: "孤独のグルメ Season10 第2023話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-016be5ed-"
 name: "ちまぐ～"
 genre: "和食"

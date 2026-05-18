@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "近江牛 かね吉"
-description: "焼肉・大津市滋賀県・イコラブが訪問"
+description: "=LOVEの髙松瞳・佐々木舞香が訪れた焼肉店。"
 shop_id: "equal_love-近江牛_かね吉-20240814"
 name: "近江牛 かね吉"
 genre: "焼肉"

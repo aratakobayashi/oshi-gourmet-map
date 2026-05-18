@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "そば街角"
-description: "和食・那覇市沖縄県・イコラブが訪問"
+description: "=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-そば街角-20240815"
 name: "そば街角"
 genre: "和食"

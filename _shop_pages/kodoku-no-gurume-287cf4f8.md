@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "味の五十番"
-description: "北海道苫小牧市のカレーもやしラーメン定食"
+description: "孤独のグルメ Season10 第2022話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-287cf4f8-"
 name: "味の五十番"
 genre: "ラーメン"

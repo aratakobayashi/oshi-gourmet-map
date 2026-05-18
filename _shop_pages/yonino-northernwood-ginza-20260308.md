@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NORTHERNWOOD GINZA"
-description: "その他・中央区東京都・よにのちゃんねるが訪問"
+description: "よにのちゃんねる#508「ドライブ!!」に登場したお店。"
 shop_id: "yonino-northernwood_ginza-20260308"
 name: "NORTHERNWOOD GINZA"
 genre: "その他"
