@@ -325,40 +325,56 @@ img { max-width: 100%; display: block; }
 }
 .fbar__search-clear:hover { color: var(--color-text); }
 
-.quick-tags-bar {
-  padding: 6px 0 2px;
-  border-bottom: 1px solid var(--color-border);
+/* ===========================
+   Search Hero Bar
+=========================== */
+.search-hero {
+  padding: 12px 0 10px;
+  background: var(--color-bg);
 }
-.fbar__quick-tags {
+.search-hero__wrap {
   display: flex;
-  gap: 6px;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-}
-.fbar__quick-tags::-webkit-scrollbar { display: none; }
-.fbar__quick-tag {
-  flex-shrink: 0;
-  padding: 4px 12px;
-  border-radius: 999px;
-  border: 1px solid var(--color-border);
+  align-items: center;
+  gap: 10px;
   background: #fff;
-  color: var(--color-sub);
-  font-size: 0.8rem;
-  line-height: 1.6;
+  border: 1.5px solid var(--color-border);
+  border-radius: 999px;
+  padding: 11px 18px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+.search-hero__wrap:focus-within {
+  border-color: var(--c-berry);
+  box-shadow: 0 2px 16px rgba(232, 83, 122, 0.14);
+}
+.search-hero__icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  color: var(--color-text-muted);
+}
+.search-hero__input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 0.95rem;
+  color: var(--color-text);
+  outline: none;
+  min-width: 0;
+}
+.search-hero__input::placeholder { color: var(--color-text-muted); }
+.search-hero__clear {
+  background: none;
+  border: none;
   cursor: pointer;
-  white-space: nowrap;
-  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  padding: 2px 4px;
+  line-height: 1;
+  transition: color 0.15s;
+  flex-shrink: 0;
 }
-.fbar__quick-tag:hover {
-  border-color: var(--c-berry);
-  color: var(--c-berry);
-}
-.fbar__quick-tag.active {
-  background: var(--c-berry);
-  border-color: var(--c-berry);
-  color: #fff;
-}
+.search-hero__clear:hover { color: var(--color-text); }
 
 .fbar__chips-row { padding: 4px 0 8px; }
 
