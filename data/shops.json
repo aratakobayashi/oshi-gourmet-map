@@ -1996,10 +1996,16 @@
       "八王子",
       "白ナポリタン"
     ],
-    "affiliate_links": [],
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
+      }
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=N6A_5_8fX30",
     "source_video_title": "Snow Man【八王子でジモメシをいただく❗️】新発見!?白ナポリタンって何❓",
-    "thumbnail_url": "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
   },
   {
     "id": "snowman-abura-gakkai-waseda",
@@ -5273,7 +5279,13 @@
     "group": "nogizaka46",
     "description": "濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
+      }
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
   },
   {
     "id": "hinatazaka46-tsukiji-uniko",
@@ -6199,8 +6211,14 @@
     "nearest_station": "東京都 大江戸線の六本木駅8番口から徒歩4分",
     "description": "よにのちゃんねる#354「朝食!!」に登場したカフェ。",
     "tags": [],
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg"
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000962760/?vos=nhppalsa000016"
+      }
+    ],
+    "thumbnail_url": "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000962760/?vos=nhppalsa000016"
   },
   {
     "id": "kamenashi-ushigoro_s_ginza-20250816",
@@ -9262,8 +9280,13 @@
     "description": "かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
   },
   {
@@ -9698,8 +9721,13 @@
     "description": "≠MEの鈴木瞳美が訪れたカフェ。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000987614/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000987614/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
   },
   {
@@ -20579,8 +20607,13 @@
     "description": "2017.02.01/02.08 女子会向けスイーツ特集",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000821407/?vos=nhppalsa000016",
+    "affiliate_links": [
+      {
+        "label": "ホットペッパーで予約",
+        "url": "https://www.hotpepper.jp/strJ000821407/?vos=nhppalsa000016"
+      }
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,

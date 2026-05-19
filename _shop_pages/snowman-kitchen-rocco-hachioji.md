@@ -13,6 +13,7 @@ youtube_id: "LsocWDFXCKs"
 source_video_title: "Snow Man【八王子でジモメシをいただく❗️】新発見!?白ナポリタンって何❓"
 source_video_url: "https://www.youtube.com/watch?v=N6A_5_8fX30"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg"
 lat: 35.6622
 lng: 139.3065
@@ -27,4 +28,7 @@ tags:
   - "イタリアン"
   - "八王子"
   - "白ナポリタン"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
 ---

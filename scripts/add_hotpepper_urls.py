@@ -17,7 +17,7 @@ import urllib.request
 import argparse
 
 HOTPEPPER_API = 'https://webservice.recruit.co.jp/hotpepper/gourmet/v1/'
-SEARCH_RANGE = 3   # 1=300m 2=500m 3=1000m 4=2000m 5=3000m
+SEARCH_RANGE = 5   # 1=300m 2=500m 3=1000m 4=2000m 5=3000m
 SEARCH_COUNT = 5   # 候補件数
 SLEEP_SEC = 0.5    # APIレート制限対策
 

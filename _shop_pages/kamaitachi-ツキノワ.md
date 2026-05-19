@@ -12,6 +12,7 @@ nearest_station: "本町駅"
 youtube_id: "kU8SZpaXoBE"
 source_video_title: "かまいたちがロケで行った飲食店まとめ【関西編】"
 group: "kamaitachi"
+hotpepper_url: "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 lat: 34.6794
 lng: 135.5106
@@ -20,4 +21,7 @@ members:
   - "濱家隆一"
 groups:
   - "kamaitachi"
+affiliate_links:
+  - label: "ホットペッパーで予約"
+    url: "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
 ---
