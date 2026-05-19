@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "下総屋"
-description: "孤独のグルメ Season10 第2021話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した東京都墨田区本所吾妻橋の食堂。ドライブの〆に立ち寄り、焼肉ラーメンで2021年の大晦日SPを締めくくった回。"
 shop_id: "kodoku_no_gurume-991c519b-"
 name: "下総屋"
 genre: "ラーメン"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "焼肉ラーメン"
 ---

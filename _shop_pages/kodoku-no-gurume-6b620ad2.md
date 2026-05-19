@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "前島食堂"
-description: "孤独のグルメ Season10 第2021話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した三重県松阪市の鶏焼肉店。若どり・親どり・きもなど鶏の各部位を炭火で焼いた三重・松阪の鶏焼肉回。"
 shop_id: "kodoku_no_gurume-6b620ad2-"
 name: "前島食堂"
 genre: "焼肉"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "若どり"
+  - "親どり"
+  - "きも"
+  - "とり野菜（鶏焼肉各種）"
 ---

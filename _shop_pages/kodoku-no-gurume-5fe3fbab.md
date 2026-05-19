@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鰻の名店割烹 松の家"
-description: "孤独のグルメ Season10 第2021話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した静岡県浜松市・浜名湖の鰻料理店。浜名湖産鰻の蒲焼き・白焼きを盛った二色まぶし丼とミニ牡蠣カバ丼で浜名湖の幸を堪能した回。"
 shop_id: "kodoku_no_gurume-5fe3fbab-"
 name: "鰻の名店割烹 松の家"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "二色まぶし丼（蒸し蒲焼き＋白焼き）"
+  - "ミニ牡蠣カバ丼"
 ---

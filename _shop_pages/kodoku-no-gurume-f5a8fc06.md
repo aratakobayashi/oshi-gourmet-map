@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "山横沢"
-description: "笹塚のふうちゃんぷるととまとカレーつけそば"
+description: "孤独のグルメ Season10 第7話に登場した東京都渋谷区笹塚の沖縄そば専門店。ふーちゃんぷるーを食べながらトマトカレーつけそばの独特な組み合わせに驚き、笹塚で沖縄を体感した回。"
 shop_id: "kodoku_no_gurume-f5a8fc06-"
 name: "山横沢"
 genre: "ラーメン"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ふーちゃんぷるー（麩・野菜・ゴーヤの沖縄風炒め）"
+  - "トマトカレーつけそば"
 ---

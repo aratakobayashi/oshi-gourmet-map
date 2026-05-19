@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ピッコロレガーロ"
-description: "孤独のグルメ Season10 第2024話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2024年大晦日スペシャル（太平洋から日本海 五郎、北へ あの人たちの所まで。）に登場した東京都日野市豊田駅近くのイタリアン。モッツァレラチーズとアンチョビのピッツァで出発前の腹ごしらえをした回。"
 shop_id: "kodoku_no_gurume-19977d56-"
 name: "ピッコロレガーロ"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "モッツァレラチーズとアンチョビのピッツァ"
 ---

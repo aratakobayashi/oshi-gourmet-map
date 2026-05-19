@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "テキサス津田沼"
-description: "東京都中野のレバにら炒めと千葉県津田沼のリブステーキ"
+description: "孤独のグルメ 2017年お正月スペシャル（井之頭五郎の長い一日）に登場した千葉県習志野市津田沼のステーキ店。リブステーキ300gにガーリックライスを合わせ、五郎が午後のエネルギーを補給した回。"
 shop_id: "kodoku_no_gurume-c18e1597-"
 name: "テキサス津田沼"
 genre: "焼肉"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "リブステーキ300g"
+  - "ガーリックライス（ハーフ）"
 ---

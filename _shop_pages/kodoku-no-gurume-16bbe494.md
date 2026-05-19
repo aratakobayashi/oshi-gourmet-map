@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀戸系ホルモン やりなおし 亀戸本店"
-description: "孤独のグルメ Season10 第2022話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2022年（Season10）に登場した東京都江東区亀戸のホルモン焼肉店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-16bbe494-"
 name: "亀戸系ホルモン やりなおし 亀戸本店"
 genre: "焼肉"

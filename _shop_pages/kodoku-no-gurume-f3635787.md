@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "萃萃"
-description: "宮城県仙台市の牛たん定食と三陸女川町の海鮮五色丼"
+description: "孤独のグルメ 2016年夏スペシャル（真夏の東北・宮城出張編）に登場した仙台市卸町の牛タン料理店。厚切り牛タン焼きとテール焼き・テールスープで仙台の牛タン文化を堪能した回。"
 shop_id: "kodoku_no_gurume-f3635787-"
 name: "萃萃"
 genre: "和食"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "牛タン焼き"
+  - "テール焼き"
+  - "テールスープ"
 ---

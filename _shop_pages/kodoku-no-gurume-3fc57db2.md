@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いも工房 かくたに"
-description: "孤独のグルメ Season10 第2021話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した静岡県富士宮市・朝霧フードパークの芋工房。ドライブ途中に立ち寄り、焼き芋をほおばった五郎のひとときの休憩回。"
 shop_id: "kodoku_no_gurume-3fc57db2-"
 name: "いも工房 かくたに"
 genre: "食事"
@@ -19,4 +19,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "焼き芋"
 ---

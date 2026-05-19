@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よしの食堂"
-description: "孤独のグルメ Season10 第1話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第1話に登場した神奈川県相模原市橋本の大衆食堂。牛肉のスタミナ炒め定食を軸にねぎ玉・カツ煮を追加し、昭和の大衆食堂の底力を見せた第10シーズンの開幕回。"
 shop_id: "kodoku_no_gurume-eab54e11-"
 name: "よしの食堂"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "牛肉のスタミナ炒め定食"
+  - "ねぎ玉"
+  - "カツ煮"
 ---

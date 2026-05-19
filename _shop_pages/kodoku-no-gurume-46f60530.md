@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "栗原軒"
-description: "福岡県福岡市のカワハギ活き造り定食と韓国釜山市のナッコプセ（タコのピリ辛炒め）"
+description: "孤独のグルメ 2019年大晦日スペシャル（緊急指令！成田〜福岡〜釜山 弾丸出張編）に登場した千葉県成田市三里塚の定食店。肉朝鮮焼定食に生タマゴを追加して食べた成田出発前のひとときの食事回。"
 shop_id: "kodoku_no_gurume-46f60530-"
 name: "栗原軒"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "肉朝鮮焼定食"
+  - "生タマゴ"
 ---

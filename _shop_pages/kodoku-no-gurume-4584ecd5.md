@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "台湾ラーメン光陽"
-description: "京都府京都市のぐじの土鍋ご飯と愛知県名古屋市の台湾ラーメン"
+description: "孤独のグルメ 2018年大晦日スペシャル（京都・名古屋出張編）に登場した名古屋市西区の台湾ラーメン店。名古屋発祥の「台湾ラーメン」（中辛）を食べ、台湾とは異なる名古屋独自の辛いラーメン文化に五郎が驚いた回。"
 shop_id: "kodoku_no_gurume-4584ecd5-"
 name: "台湾ラーメン光陽"
 genre: "ラーメン"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "台湾ラーメン（中辛）"
 ---

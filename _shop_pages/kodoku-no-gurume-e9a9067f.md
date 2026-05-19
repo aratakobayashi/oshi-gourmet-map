@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "金城パーラー"
-description: "孤独のグルメ Season10 第2023話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県読谷村・残波岬そばのパーラー。黒糖ミルクぜんざいのかき氷で沖縄の甘味を楽しんだ回。"
 shop_id: "kodoku_no_gurume-e9a9067f-"
 name: "金城パーラー"
 genre: "食事"
@@ -19,4 +19,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "黒糖ミルクぜんざい（かき氷）"
 ---

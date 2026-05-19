@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "マイハウス"
-description: "孤独のグルメ Season10 第2023話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県のアメリカン食堂。タコスとステーキという沖縄ならではのアメリカ料理文化を五郎が体験した回。"
 shop_id: "kodoku_no_gurume-85463e91-"
 name: "マイハウス"
 genre: "焼肉"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "タコス（チリソース付き）"
+  - "ステーキ200g"
 ---

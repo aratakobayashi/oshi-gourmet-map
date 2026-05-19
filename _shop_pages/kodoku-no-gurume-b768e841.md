@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "もつ焼きばん 高田馬場店"
-description: "シーズン2 エピソード1 – 居酒屋×ハナコ"
+description: "孤独のグルメ Season10 第2話に登場した東京都高田馬場のもつ焼き屋台チェーン。インドネシア料理の後に立ち寄り、もつ焼きとホッピーで締めくくった。"
 shop_id: "kodoku_no_gurume-b768e841-"
 name: "もつ焼きばん 高田馬場店"
 genre: "居酒屋"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "もつ焼き"
+  - "ホッピー"
 ---

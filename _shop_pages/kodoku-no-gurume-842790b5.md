@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "居酒屋 舞子"
-description: "孤独のグルメ Season10 第8話に登場した居酒屋。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第8話に登場した富山県富山市岩瀬浜の海鮮居酒屋。鯛の昆布締め・ふくらぎの刺身・富山おでん・白エビのかき揚げと富山の海の幸を堪能した、岩瀬浜ロケの後半店舗。"
 shop_id: "kodoku_no_gurume-842790b5-"
 name: "居酒屋 舞子"
 genre: "居酒屋"
@@ -20,4 +20,10 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "鯛の昆布締め"
+  - "刺身（ふくらぎ）"
+  - "おでん各種（大根・すすたけ・里芋）"
+  - "白エビのかき揚げ"
+  - "ご飯"
 ---

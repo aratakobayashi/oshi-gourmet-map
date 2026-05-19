@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いづみ亭"
-description: "孤独のグルメ Season10 第5話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第5話に登場した千葉県柏市鷲野谷の大衆食堂。ネギレバ炒め定食に鶏皮餃子・青ネギラーメンを追加し、地元の常連で賑わう手賀沼そばの定食屋で五郎が大満足した回。"
 shop_id: "kodoku_no_gurume-c40a5794-"
 name: "いづみ亭"
 genre: "食事"
@@ -19,4 +19,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ネギレバ炒め定食"
+  - "鶏皮餃子"
+  - "青ネギラーメン"
 ---

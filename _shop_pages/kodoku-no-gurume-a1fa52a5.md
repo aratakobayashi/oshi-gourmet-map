@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鳥勝牛肉店"
-description: "孤独のグルメ Season10 第2025話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した山形県米沢市の老舗精肉店。旅の途中に立ち寄り、米沢牛そぼろをテイクアウトで味わった米沢ロケ回。"
 shop_id: "kodoku_no_gurume-a1fa52a5-"
 name: "鳥勝牛肉店"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "米沢牛そぼろ（精肉店テイクアウト）"
 ---

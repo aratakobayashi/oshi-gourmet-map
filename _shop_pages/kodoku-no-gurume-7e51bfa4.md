@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉ふじ"
-description: "孤独のグルメ Season8 第5話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season9 第5話に登場した静岡県伊東市宇佐美の焼肉店。ミスジの牛焼きしゃぶから石焼きビビンバに赤身カルビを乗せた「石焼き赤身カルビビビンバ」まで、海辺の町で豪快に焼肉を楽しんだ回。"
 shop_id: "kodoku_no_gurume-7e51bfa4-"
 name: "焼肉ふじ"
 genre: "焼肉"
@@ -20,4 +20,11 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "牛焼きしゃぶ（ミスジ）"
+  - "豚焼きしゃぶ"
+  - "上ハラミ"
+  - "キムチ"
+  - "石焼きビビンバ"
+  - "赤身カルビ"
 ---

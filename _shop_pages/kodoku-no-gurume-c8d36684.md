@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かっぱ焼きそば 喜八 浅草かっぱ橋本店"
-description: "孤独のグルメ Season10 第2022話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2022年（Season10）に登場した東京都台東区浅草かっぱ橋の焼きそば専門店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-c8d36684-"
 name: "かっぱ焼きそば 喜八 浅草かっぱ橋本店"
 genre: "ラーメン"

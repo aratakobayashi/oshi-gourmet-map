@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "オリタ焼まんじゅう店"
-description: "孤独のグルメ Season8 第8話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season9 第8話（前半）に登場した群馬県高崎市の焼きまんじゅう専門店。群馬のソウルフード・焼きまんじゅうをあんありとあんなしで食べ比べ、その独特の食感に五郎が驚いた回。"
 shop_id: "kodoku_no_gurume-0b59836f-"
 name: "オリタ焼まんじゅう店"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "焼きまんじゅう（あんあり）"
+  - "焼きまんじゅう（あんなし）"
 ---

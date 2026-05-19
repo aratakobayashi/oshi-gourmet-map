@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "粥菜坊"
-description: "孤独のグルメ Season10 第10話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第10話に登場した神奈川県川崎市武蔵小杉の広東料理店。食べログ百名店にも選ばれる名店で、チョウフン・ワンタンメン・朝鮮人参粥・牡蠣の中華お好み焼きと広東料理を満喫した回。"
 shop_id: "kodoku_no_gurume-2fa4ed63-"
 name: "粥菜坊"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "豚肉腸粉（チョウフン）"
+  - "雲吞麺（ワンタンメン・竹昇麺使用）"
+  - "朝鮮人参粥"
+  - "牡蠣の中華お好み焼き"
 ---

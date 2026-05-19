@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "とんかつしお田"
-description: "宮前平のひれかつ御膳と魚介クリームコロッケ"
+description: "孤独のグルメ Season9 第1話に登場した川崎市宮前平のとんかつ専門店。ヒレかつ御膳に魚介クリームコロッケ・エビフライを追加し、五郎が大満足した贅沢ランチ回。"
 shop_id: "kodoku_no_gurume-6b42b0e8-"
 name: "とんかつしお田"
 genre: "和食"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ヒレかつ御膳"
+  - "魚介クリームコロッケ"
+  - "エビフライ"
 ---

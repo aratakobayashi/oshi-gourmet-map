@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "世味"
-description: "孤独のグルメ Season10 第9話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第9話に登場した東京都荒川区三河島の韓国式中華料理店。韓国式酢豚「タンスユク」と、チャンポンとジャジャン麺を一皿で楽しめる「チャムチャ麺」を注文した三河島コリアタウン回。"
 shop_id: "kodoku_no_gurume-41d621a0-"
 name: "世味"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "タンスユク S（韓国式酢豚）"
+  - "チャムチャ麺（海鮮チャンポンとジャジャン麺のハーフ＆ハーフ）"
 ---

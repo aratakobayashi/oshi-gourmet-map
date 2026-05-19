@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ビストロ KUROKAWA"
-description: "大泉学園のサザエとキノコのプロヴァンス風と牛タンシチューのオムライス"
+description: "孤独のグルメ Season10 第4話に登場した埼玉県新座市大泉学園のフランス料理店。サザエとキノコのプロヴァンス風から始まり、奥久慈卵の牛タンシチューのオムライスで締めた、郊外の本格フレンチ回。"
 shop_id: "kodoku_no_gurume-kurokawa-"
 name: "ビストロ KUROKAWA"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "サザエとキノコのプロヴァンス風（バゲット付き）"
+  - "野菜のポタージュスープ（バジル風味）"
+  - "牛タンシチューのオムライス"
 ---

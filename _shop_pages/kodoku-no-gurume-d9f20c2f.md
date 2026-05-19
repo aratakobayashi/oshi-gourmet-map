@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶カラス"
-description: "京都府京都市のぐじの土鍋ご飯と愛知県名古屋市の台湾ラーメン"
+description: "孤独のグルメ 2018年大晦日スペシャル（京都・名古屋出張編）に登場した名古屋市伏見の喫茶店。名古屋のモーニング文化を体感し、あんトーストとブレンドコーヒーで名古屋の朝を満喫した回。"
 shop_id: "kodoku_no_gurume-d9f20c2f-"
 name: "喫茶カラス"
 genre: "ラーメン"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "あんトースト"
+  - "カラスブレンドコーヒー（モーニング）"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "多津美"
-description: "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン"
+description: "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した千葉県成田市の蕎麦店。せいろそばで年を締めくくった五郎の「食べ納め」最後の一杯。"
 shop_id: "kodoku_no_gurume-f17863ed-"
 name: "多津美"
 genre: "ラーメン"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "せいろそば"
 ---

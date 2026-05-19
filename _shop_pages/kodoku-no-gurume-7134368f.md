@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "アナザーホリデー"
-description: "孤独のグルメ Season10 第8話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第8話に登場した富山県富山市岩瀬浜の海鮮食堂。富山名物「かに面」と海鮮とろろ丼をいただいた富山ロケ回の前半店舗。"
 shop_id: "kodoku_no_gurume-7134368f-"
 name: "アナザーホリデー"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "かに面（雌ズワイガニの甲羅おでん）"
+  - "海鮮とろろ丼（ハーフ）"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "レストラン バイキング"
-description: "孤独のグルメ Season10 第11話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第11話に登場した千葉県旭市のビストロ。千葉のブランド豚「いも豚」の大ぶりロースを塩わさびでいただく看板メニューと、食後のミルクセーキで締めた千葉・旭ロケ回。"
 shop_id: "kodoku_no_gurume-0ddde1a8-"
 name: "レストラン バイキング"
 genre: "食事"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "塩わさびの豚ロースソテー（いも豚300g）"
+  - "ミルクセーキ"
 ---

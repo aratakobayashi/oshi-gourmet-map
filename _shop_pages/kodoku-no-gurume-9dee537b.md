@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "山小屋"
-description: "中郡二宮の金目鯛の煮付けと五郎オリジナルパフェ"
+description: "孤独のグルメ Season9 第2話に登場した神奈川県二宮町の喫茶店。あみだくじで五郎オリジナルパフェのトッピングを決めるという異色の注文スタイルが話題になった回。"
 shop_id: "kodoku_no_gurume-9dee537b-"
 name: "山小屋"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "宇治抹茶・パイナップル・マロンクリーム・コーンフレークの特製パフェ"
 ---

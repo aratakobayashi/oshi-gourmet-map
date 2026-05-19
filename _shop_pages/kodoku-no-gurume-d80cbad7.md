@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "華王飯店"
-description: "千葉県旭市のむし豚のニンニクソースとシイタケそば"
+description: "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した千葉県旭市の中華料理店。むし豚のニンニクソースとシイタケそばで2025年の大晦日SPを締めくくった回。"
 shop_id: "kodoku_no_gurume-d80cbad7-"
 name: "華王飯店"
 genre: "ラーメン"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "むし豚のニンニクソース"
+  - "シイタケそば（ラーメン）"
 ---

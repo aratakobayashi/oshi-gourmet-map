@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ラ・タベルナ"
-description: "孤独のグルメ Season10 第12話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 最終回に登場した東京都千代田区麹町のイタリア食堂。創業45年の老舗で特製ミートローフとミスキアーレを注文し、Season10を締めくくった。"
 shop_id: "kodoku_no_gurume-84b06962-"
 name: "ラ・タベルナ"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "特製ミートローフ ハーフランチセット（バターライス＆スパゲッティ・ミニサラダ・コーヒー）"
+  - "ミスキアーレ（ニンニクとマヨネーズのスパゲッティ）ハーフセット"
 ---

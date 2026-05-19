@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大安食堂"
-description: "孤独のグルメ Season10 第6話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第6話に登場した岐阜県下呂市上呂の郷土料理店。飛騨名物「とんちゃん」と「けいちゃん」を鉄板でぐつぐつ焼き、途中で生卵をすき焼き風に加えて楽しんだ岐阜・飛騨ロケ回。"
 shop_id: "kodoku_no_gurume-547030ba-"
 name: "大安食堂"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "とんちゃん（味噌ダレ豚バラ肉の鉄板焼き）"
+  - "けいちゃん（味噌ダレ鶏肉の鉄板焼き）"
+  - "生卵（追加・すき焼き風）"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "舞木ドライブイン"
-description: "孤独のグルメ Season8 第9話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season9 第9話に登場した福島県郡山市のドライブイン。焼肉定食と和風オイル焼肉定食をダブルで注文し、帰り際に名物「ぞうりぱん」をテイクアウトした福島ロケ回。"
 shop_id: "kodoku_no_gurume-b849d4a4-"
 name: "舞木ドライブイン"
 genre: "焼肉"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "焼肉定食"
+  - "和風オイル焼肉定食"
+  - "ぞうりぱん"
 ---

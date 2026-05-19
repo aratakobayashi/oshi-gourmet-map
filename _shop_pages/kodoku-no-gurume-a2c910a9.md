@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "肉の浅鞍"
-description: "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道札幌市円山公園の精肉店直営焼肉店。新鮮な塩ジンギスカンを楽しんだ札幌回。"
 shop_id: "kodoku_no_gurume-a2c910a9-"
 name: "肉の浅鞍"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "塩ジンギスカン"
 ---

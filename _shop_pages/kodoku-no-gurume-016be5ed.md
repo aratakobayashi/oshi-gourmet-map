@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ちまぐ～"
-description: "孤独のグルメ Season10 第2023話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県の豚足料理店。豚足の唐揚げ甘辛醤油ダレとふーちゃんぷるで沖縄料理の奥深さを体感した回。"
 shop_id: "kodoku_no_gurume-016be5ed-"
 name: "ちまぐ～"
 genre: "和食"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ちまぐ（豚足）唐揚げ甘辛醤油ダレ"
+  - "ふーちゃんぷる（麩の炒め物）"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鮨爽醇鳥ひだか"
-description: "孤独のグルメ Season10 第2022話に登場した寿司店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道石狩市の寿司・鍋料理店。北海道の寿司と石狩鍋を五郎が堪能した石狩回。"
 shop_id: "kodoku_no_gurume-d3a1db31-"
 name: "鮨爽醇鳥ひだか"
 genre: "寿司"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "寿司"
+  - "石狩鍋"
 ---

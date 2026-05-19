@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ちとせ"
-description: "孤独のグルメ Season10 第2021話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した三重県伊勢市のうどん店。超太麺に甘じょっぱいタレをかけた伊勢うどんに肉月見・えび天をトッピングして楽しんだ伊勢回。"
 shop_id: "kodoku_no_gurume-c84527df-"
 name: "ちとせ"
 genre: "ラーメン"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "伊勢うどん（肉月見・えび天トッピング）"
 ---

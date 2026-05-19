@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みやけうどん"
-description: "孤独のグルメ Season10 第2014話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2014年夏スペシャル（真夏の博多出張スペシャル）に登場した福岡市博多区呉服町のうどん店。丸天うどんにごぼう天をトッピングした博多の定番うどんを五郎が堪能した回。"
 shop_id: "kodoku_no_gurume-e8e1b07c-"
 name: "みやけうどん"
 genre: "ラーメン"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "丸天うどん"
+  - "ごぼう天トッピング"
 ---

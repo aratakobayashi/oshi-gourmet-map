@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "一富"
-description: "孤独のグルメ Season10 第2014話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2014年夏スペシャル（真夏の博多出張スペシャル）に登場した福岡市中洲の日本料理店。博多名物の鯖ごまや変わり茶碗蒸し、若どりのスープ炊きなど中洲の夜を彩った回。"
 shop_id: "kodoku_no_gurume-afe6bc75-"
 name: "一富"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "鯖ごま"
+  - "変わり茶碗蒸し"
+  - "若どりのスープ炊き"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "難忘米粉湯"
-description: "孤独のグルメ Season10 第2023話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した台湾・台北の夜市屋台。ビーフンスープと汁なし麺「乾拌麵」で台湾夜市の庶民グルメを五郎が満喫した回。"
 shop_id: "kodoku_no_gurume-570120e2-"
 name: "難忘米粉湯"
 genre: "食事"
@@ -16,4 +16,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "米粉湯（ビーフンスープ）"
+  - "乾拌麵（汁なし麺）"
 ---

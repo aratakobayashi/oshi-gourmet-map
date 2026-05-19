@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "松下製麺所"
-description: "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン"
+description: "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した香川県高松市の製麺所直営うどん店。セルフ式で1玉だけ盛ってコロッケを添える香川のうどん文化に五郎が感激した回。"
 shop_id: "kodoku_no_gurume-c04481e8-"
 name: "松下製麺所"
 genre: "ラーメン"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "うどん1玉"
+  - "コロッケ"
 ---

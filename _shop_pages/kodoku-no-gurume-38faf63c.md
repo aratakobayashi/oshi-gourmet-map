@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中華料理 ミッキー飯店"
-description: "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ 2022年（Season10通常回）に登場した東京都中野区中野坂上の中華料理店。看板メニュー「ミッキーライス」とニンニクチャーハンを注文した中野の町中華回。"
 shop_id: "kodoku_no_gurume-38faf63c-"
 name: "中華料理 ミッキー飯店"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ミッキーライス（レバー・豚肉・野菜のピリ辛あんかけごはん）"
+  - "ニンニクチャーハン"
 ---

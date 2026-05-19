@@ -17538,7 +17538,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宮前平駅",
-    "description": "宮前平のひれかつ御膳と魚介クリームコロッケ",
+    "description": "孤独のグルメ Season9 第1話に登場した川崎市宮前平のとんかつ専門店。ヒレかつ御膳に魚介クリームコロッケ・エビフライを追加し、五郎が大満足した贅沢ランチ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140507/14000033/",
     "hotpepper_url": "",
@@ -17546,7 +17546,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/radX6AzCuOaP0GhOmkCuihfi8JF.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ヒレかつ御膳",
+      "魚介クリームコロッケ",
+      "エビフライ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9dee537b-",
@@ -17568,7 +17573,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "二宮駅",
-    "description": "中郡二宮の金目鯛の煮付けと五郎オリジナルパフェ",
+    "description": "孤独のグルメ Season9 第2話に登場した神奈川県二宮町の喫茶店。あみだくじで五郎オリジナルパフェのトッピングを決めるという異色の注文スタイルが話題になった回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140408/14010017/",
     "hotpepper_url": "",
@@ -17576,7 +17581,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ze0VclKjZfx4xsW4BpVzzUFbbSb.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "宇治抹茶・パイナップル・マロンクリーム・コーンフレークの特製パフェ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-18c1e256-",
@@ -17598,7 +17606,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "麻布十番駅",
-    "description": "孤独のグルメ Season8 第3話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第3話に登場した東麻布のギリシャ料理店。ムサカやドルマーデスなど本格ギリシャ料理を満喫し、デザートのバクラヴァまで堪能した五郎の「異国の味」回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13093715/",
     "hotpepper_url": "",
@@ -17606,7 +17614,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dR2wWfh0tY3lLouAYo0nszND8aB.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "前菜盛り合わせ（ザジキ・タラモサラタ・メリザノサラタ）",
+      "ドルマーデス",
+      "ムサカ",
+      "海老のサガナキ",
+      "バクラヴァ",
+      "ギリシャコーヒー"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e476aabd-",
@@ -17628,7 +17644,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "国分寺駅",
-    "description": "新町の鰻の蒲焼チャーハンとカキとニラの辛し炒め",
+    "description": "孤独のグルメ Season9 第4話に登場した東京都府中市の台湾料理店。割包や鰻の蒲焼チャーハン、ナスの冷麺など台湾の多彩な味が一堂に揃い、五郎が食べ続けた大食回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1326/A132602/13058384/",
     "hotpepper_url": "",
@@ -17636,7 +17652,16 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "蒸し鶏のピリ辛和え",
+      "カキとニラの辛し炒め",
+      "割包（カーポー）",
+      "鰻の蒲焼チャーハン",
+      "ナスの冷麺",
+      "3倍杏仁",
+      "カニあんかけ焼きそば"
+    ]
   },
   {
     "id": "kodoku_no_gurume-7e51bfa4-",
@@ -17658,7 +17683,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宇佐美駅",
-    "description": "孤独のグルメ Season8 第5話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第5話に登場した静岡県伊東市宇佐美の焼肉店。ミスジの牛焼きしゃぶから石焼きビビンバに赤身カルビを乗せた「石焼き赤身カルビビビンバ」まで、海辺の町で豪快に焼肉を楽しんだ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22015662/",
     "hotpepper_url": "",
@@ -17666,7 +17691,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/hfSa3hfT9j08FaWTnZ1cjmUR4yD.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "牛焼きしゃぶ（ミスジ）",
+      "豚焼きしゃぶ",
+      "上ハラミ",
+      "キムチ",
+      "石焼きビビンバ",
+      "赤身カルビ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-94021473-",
@@ -17688,7 +17721,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "東長崎駅",
-    "description": "孤独のグルメ Season8 第6話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第6話に登場した豊島区南長崎の割烹・定食店。肉とナスの醤油炒め定食を軸に、唐揚げと冷やし中華も追加した家庭的な定食屋回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1321/A132101/13024072/",
     "hotpepper_url": "",
@@ -17696,7 +17729,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/t3yckej5Tmkf0w9b2Aohen8snRZ.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "肉とナスの醤油炒め定食",
+      "鳥唐揚げ",
+      "冷やし中華"
+    ]
   },
   {
     "id": "kodoku_no_gurume-dfde9625-",
@@ -17718,7 +17756,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "新小岩駅",
-    "description": "孤独のグルメ Season8 第7話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第7話に登場した葛飾区新小岩の貴州料理店。中国・貴州省の郷土料理「納豆火鍋」や厚揚げの回鍋肉など、珍しい中国西南料理を五郎が体験した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131204/13232027/",
     "hotpepper_url": "",
@@ -17726,7 +17764,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/csx1Ah5qx1YV4qmC4b2VTaXeO7g.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "貴州前菜三種盛り（ハーフ）",
+      "厚揚げの回鍋肉",
+      "納豆火鍋",
+      "羊肉"
+    ]
   },
   {
     "id": "kodoku_no_gurume-0b59836f-",
@@ -17748,7 +17792,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "高崎駅",
-    "description": "孤独のグルメ Season8 第8話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第8話（前半）に登場した群馬県高崎市の焼きまんじゅう専門店。群馬のソウルフード・焼きまんじゅうをあんありとあんなしで食べ比べ、その独特の食感に五郎が驚いた回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gunma/A1001/A100102/10006729/",
     "hotpepper_url": "",
@@ -17756,7 +17800,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/qMX38FeLmlsc8RVdcJGNzAqJlNx.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "焼きまんじゅう（あんあり）",
+      "焼きまんじゅう（あんなし）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-563905aa-",
@@ -17778,7 +17826,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "北高崎駅",
-    "description": "孤独のグルメ Season8 第8話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第8話（後半）に登場した群馬県高崎市のおむすび店。うに・いか明太・ねぎ味噌のおむすびに鮎の塩焼き・大海老にんにく炒めを組み合わせ、五郎がおむすびを何ラウンドも追加した大満足回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gunma/A1001/A100102/10005592/",
     "hotpepper_url": "",
@@ -17786,7 +17834,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/qMX38FeLmlsc8RVdcJGNzAqJlNx.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "うにのおむすび",
+      "いか明太のおむすび",
+      "ねぎ味噌のおむすび",
+      "鮎の塩焼き",
+      "大海老にんにく炒め",
+      "なめこの味噌汁"
+    ]
   },
   {
     "id": "kodoku_no_gurume-b849d4a4-",
@@ -17808,7 +17864,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "舞木駅",
-    "description": "孤独のグルメ Season8 第9話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第9話に登場した福島県郡山市のドライブイン。焼肉定食と和風オイル焼肉定食をダブルで注文し、帰り際に名物「ぞうりぱん」をテイクアウトした福島ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7006634/",
     "hotpepper_url": "",
@@ -17816,7 +17872,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/icid89a9wXT7XsDwa4UVWKJ4NEy.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "焼肉定食",
+      "和風オイル焼肉定食",
+      "ぞうりぱん"
+    ]
   },
   {
     "id": "kodoku_no_gurume-275fdbc5-",
@@ -17838,7 +17899,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "巣鴨駅",
-    "description": "孤独のグルメ Season8 第11話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season9 第11話に登場した豊島区巣鴨のモンゴル料理店。ミルクティー「スーテーツァイ」から始まり、骨付き羊肉「チャンサンマハ」やモンゴルの包子「ボーズ」まで、五郎が異国の草原料理に感動した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13005632/",
     "hotpepper_url": "",
@@ -17846,7 +17907,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/swDb7laJQkBLuKUAIwf0lO2qLlv.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "スーテーツァイ（モンゴルミルクティー）",
+      "シリンゴルサンド",
+      "チャンサンマハ（塩ゆで骨付き羊肉）",
+      "ジャージャー麺",
+      "羊肉ボーズ（蒸しまん）",
+      "ごま団子"
+    ]
   },
   {
     "id": "kodoku_no_gurume-eab54e11-",
@@ -17868,7 +17937,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "橋本駅",
-    "description": "孤独のグルメ Season10 第1話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第1話に登場した神奈川県相模原市橋本の大衆食堂。牛肉のスタミナ炒め定食を軸にねぎ玉・カツ煮を追加し、昭和の大衆食堂の底力を見せた第10シーズンの開幕回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1407/A140701/14015513/",
     "hotpepper_url": "",
@@ -17876,7 +17945,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/t9gPxwtKNBcvvZ3fmqgcBmqxVqW.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "牛肉のスタミナ炒め定食",
+      "ねぎ玉",
+      "カツ煮"
+    ]
   },
   {
     "id": "kodoku_no_gurume-193f57bf-",
@@ -17898,7 +17972,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "目黒駅",
-    "description": "孤独のグルメ Season10 第2話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第2話に登場した東京都品川区目黒のインドネシア料理店。ナシゴレン・ルンダン・ミーアヤムなどインドネシア本格料理を次々と注文し、五郎が「南国の味」に圧倒された回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13027513/",
     "hotpepper_url": "",
@@ -17906,7 +17980,16 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "インドネシア紅茶（アイス）",
+      "ソトババット・ミニ（牛もつ煮スープ）",
+      "ナシゴレン",
+      "ルンダン（牛肉のスパイス煮）",
+      "ミーアヤム",
+      "トランチャム（インドネシア野菜サラダ）",
+      "シオマイ コンプリート"
+    ]
   },
   {
     "id": "kodoku_no_gurume-aa39fbb9-",
@@ -17928,7 +18011,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "桜木町駅",
-    "description": "桜木町の真鯛のソテーオーロラソースとまぐろのユッケどんぶり",
+    "description": "孤独のグルメ Season10 第3話に登場した神奈川県横浜市桜木町のカフェ食堂。黒板に書かれた日替わり魚料理から真鯛のソテーを選び、まぐろのユッケどんぶりやいくらとしらすのどんぶりも注文した横浜港近くの隠れ家回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140102/14030553/",
     "hotpepper_url": "",
@@ -17936,7 +18019,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fij0mmm5KxNSDrNCXMKbM1tzEcq.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "真鯛のソテー オーロラソース",
+      "まぐろのユッケどんぶり",
+      "いくらとしらすのどんぶり（ミニ）",
+      "メンチカツ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-kurokawa-",
@@ -17958,7 +18047,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "大泉学園駅",
-    "description": "大泉学園のサザエとキノコのプロヴァンス風と牛タンシチューのオムライス",
+    "description": "孤独のグルメ Season10 第4話に登場した埼玉県新座市大泉学園のフランス料理店。サザエとキノコのプロヴァンス風から始まり、奥久慈卵の牛タンシチューのオムライスで締めた、郊外の本格フレンチ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110301/11043457/",
     "hotpepper_url": "",
@@ -17966,7 +18055,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/qxIAblkZIpDzIm12MKBiLWaHg9s.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "サザエとキノコのプロヴァンス風（バゲット付き）",
+      "野菜のポタージュスープ（バジル風味）",
+      "牛タンシチューのオムライス"
+    ]
   },
   {
     "id": "kodoku_no_gurume-c40a5794-",
@@ -17988,7 +18082,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "東我孫子駅",
-    "description": "孤独のグルメ Season10 第5話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第5話に登場した千葉県柏市鷲野谷の大衆食堂。ネギレバ炒め定食に鶏皮餃子・青ネギラーメンを追加し、地元の常連で賑わう手賀沼そばの定食屋で五郎が大満足した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1203/A120304/12015049/",
     "hotpepper_url": "",
@@ -17996,7 +18090,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/1KxwMJsyk0Q5gmkiNqDPMUkUhi3.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ネギレバ炒め定食",
+      "鶏皮餃子",
+      "青ネギラーメン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-547030ba-",
@@ -18018,7 +18117,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "上呂駅",
-    "description": "孤独のグルメ Season10 第6話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第6話に登場した岐阜県下呂市上呂の郷土料理店。飛騨名物「とんちゃん」と「けいちゃん」を鉄板でぐつぐつ焼き、途中で生卵をすき焼き風に加えて楽しんだ岐阜・飛騨ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gifu/A2104/A210403/21000415/",
     "hotpepper_url": "",
@@ -18026,7 +18125,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/6Axv8oGq8bcvrXNp46Q2j5FZPcw.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "とんちゃん（味噌ダレ豚バラ肉の鉄板焼き）",
+      "けいちゃん（味噌ダレ鶏肉の鉄板焼き）",
+      "生卵（追加・すき焼き風）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f5a8fc06-",
@@ -18048,7 +18152,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "笹塚駅",
-    "description": "笹塚のふうちゃんぷるととまとカレーつけそば",
+    "description": "孤独のグルメ Season10 第7話に登場した東京都渋谷区笹塚の沖縄そば専門店。ふーちゃんぷるーを食べながらトマトカレーつけそばの独特な組み合わせに驚き、笹塚で沖縄を体感した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131808/13041797/",
     "hotpepper_url": "",
@@ -18056,7 +18160,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wWyLiIRdnfu3qYnvrlBw76wf0gl.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ふーちゃんぷるー（麩・野菜・ゴーヤの沖縄風炒め）",
+      "トマトカレーつけそば"
+    ]
   },
   {
     "id": "kodoku_no_gurume-7134368f-",
@@ -18078,7 +18186,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "競輪場前駅",
-    "description": "孤独のグルメ Season10 第8話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第8話に登場した富山県富山市岩瀬浜の海鮮食堂。富山名物「かに面」と海鮮とろろ丼をいただいた富山ロケ回の前半店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/toyama/A1601/A160101/16000307/",
     "hotpepper_url": "",
@@ -18086,7 +18194,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/5xSzyyRQSP5F18VFM6og8khAwIp.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "かに面（雌ズワイガニの甲羅おでん）",
+      "海鮮とろろ丼（ハーフ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-842790b5-",
@@ -18108,7 +18220,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "荒町駅",
-    "description": "孤独のグルメ Season10 第8話に登場した居酒屋。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第8話に登場した富山県富山市岩瀬浜の海鮮居酒屋。鯛の昆布締め・ふくらぎの刺身・富山おでん・白エビのかき揚げと富山の海の幸を堪能した、岩瀬浜ロケの後半店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/toyama/A1601/A160101/16000879/",
     "hotpepper_url": "",
@@ -18116,7 +18228,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/5xSzyyRQSP5F18VFM6og8khAwIp.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "鯛の昆布締め",
+      "刺身（ふくらぎ）",
+      "おでん各種（大根・すすたけ・里芋）",
+      "白エビのかき揚げ",
+      "ご飯"
+    ]
   },
   {
     "id": "kodoku_no_gurume-41d621a0-",
@@ -18138,7 +18257,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "三河島駅",
-    "description": "孤独のグルメ Season10 第9話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第9話に登場した東京都荒川区三河島の韓国式中華料理店。韓国式酢豚「タンスユク」と、チャンポンとジャジャン麺を一皿で楽しめる「チャムチャ麺」を注文した三河島コリアタウン回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1324/A132401/13180444/",
     "hotpepper_url": "",
@@ -18146,7 +18265,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/7GchxSeuCC7l7C2aptiNHJoEWMw.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "タンスユク S（韓国式酢豚）",
+      "チャムチャ麺（海鮮チャンポンとジャジャン麺のハーフ＆ハーフ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-2fa4ed63-",
@@ -18168,7 +18291,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "武蔵小杉駅",
-    "description": "孤独のグルメ Season10 第10話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第10話に登場した神奈川県川崎市武蔵小杉の広東料理店。食べログ百名店にも選ばれる名店で、チョウフン・ワンタンメン・朝鮮人参粥・牡蠣の中華お好み焼きと広東料理を満喫した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14009596/",
     "hotpepper_url": "",
@@ -18176,7 +18299,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pUiSQGSIDNyEoHxFNPTofS9Cv4k.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "豚肉腸粉（チョウフン）",
+      "雲吞麺（ワンタンメン・竹昇麺使用）",
+      "朝鮮人参粥",
+      "牡蠣の中華お好み焼き"
+    ]
   },
   {
     "id": "kodoku_no_gurume-0ddde1a8-",
@@ -18198,7 +18327,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "旭駅",
-    "description": "孤独のグルメ Season10 第11話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 第11話に登場した千葉県旭市のビストロ。千葉のブランド豚「いも豚」の大ぶりロースを塩わさびでいただく看板メニューと、食後のミルクセーキで締めた千葉・旭ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1205/A120502/12025317/",
     "hotpepper_url": "",
@@ -18206,7 +18335,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/j8DzkyMb28rjSTzMP3zrsG2JA5Q.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "塩わさびの豚ロースソテー（いも豚300g）",
+      "ミルクセーキ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-84b06962-",
@@ -18228,7 +18361,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "麹町駅",
-    "description": "孤独のグルメ Season10 第12話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season10 最終回に登場した東京都千代田区麹町のイタリア食堂。創業45年の老舗で特製ミートローフとミスキアーレを注文し、Season10を締めくくった。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13000423/",
     "hotpepper_url": "",
@@ -18236,7 +18369,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/9ecF5ZbD4OZ7ZxcnSIIEdqUB21s.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "特製ミートローフ ハーフランチセット（バターライス＆スパゲッティ・ミニサラダ・コーヒー）",
+      "ミスキアーレ（ニンニクとマヨネーズのスパゲッティ）ハーフセット"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e8e1b07c-",
@@ -18258,7 +18395,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "呉服町",
-    "description": "孤独のグルメ Season10 第2014話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2014年夏スペシャル（真夏の博多出張スペシャル）に登場した福岡市博多区呉服町のうどん店。丸天うどんにごぼう天をトッピングした博多の定番うどんを五郎が堪能した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400106/40003615/",
     "hotpepper_url": "",
@@ -18266,7 +18403,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "丸天うどん",
+      "ごぼう天トッピング"
+    ]
   },
   {
     "id": "kodoku_no_gurume-afe6bc75-",
@@ -18288,7 +18429,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "中洲川端駅",
-    "description": "孤独のグルメ Season10 第2014話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2014年夏スペシャル（真夏の博多出張スペシャル）に登場した福岡市中洲の日本料理店。博多名物の鯖ごまや変わり茶碗蒸し、若どりのスープ炊きなど中洲の夜を彩った回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400102/40014859/",
     "hotpepper_url": "",
@@ -18296,7 +18437,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "鯖ごま",
+      "変わり茶碗蒸し",
+      "若どりのスープ炊き"
+    ]
   },
   {
     "id": "kodoku_no_gurume-7623708d-",
@@ -18318,7 +18464,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "旭川駅",
-    "description": "北海道 旭川市の新子やきとかにくり～むころっけ",
+    "description": "孤独のグルメ 2016年お正月スペシャル（真冬の北海道・旭川出張編）に登場した旭川市の居酒屋。旭川名物「新子焼き（若鶏の醤油ダレ焼き）」を軸に棒鱈や玉子焼きで旭川の夜を味わった回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0104/A010401/1014057/",
     "hotpepper_url": "",
@@ -18326,7 +18472,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "新子焼き（若鶏の醤油ダレ焼き）",
+      "玉子焼き",
+      "自家製漬物",
+      "きのこ汁",
+      "棒鱈"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5ea595b8-",
@@ -18348,7 +18501,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "旭川駅",
-    "description": "北海道 旭川市の新子やきとかにくり～むころっけ",
+    "description": "孤独のグルメ 2016年お正月スペシャル（真冬の北海道・旭川出張編）に登場した旭川市の洋食店。カニクリームコロッケとほっけフライの定食を北海道の食材で楽しんだ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0104/A010401/1009869/",
     "hotpepper_url": "",
@@ -18356,7 +18509,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "かにクリームコロッケ＆ほっけフライ定食（カニクリームコロッケ2個・ほっけフライ2個・ポテトサラダ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f3635787-",
@@ -18378,7 +18534,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宮城野原",
-    "description": "宮城県仙台市の牛たん定食と三陸女川町の海鮮五色丼",
+    "description": "孤独のグルメ 2016年夏スペシャル（真夏の東北・宮城出張編）に登場した仙台市卸町の牛タン料理店。厚切り牛タン焼きとテール焼き・テールスープで仙台の牛タン文化を堪能した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyagi/A0401/A040102/4003262/",
     "hotpepper_url": "",
@@ -18386,7 +18542,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "牛タン焼き",
+      "テール焼き",
+      "テールスープ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-c9473191-",
@@ -18408,7 +18569,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "女川駅",
-    "description": "宮城県仙台市の牛たん定食と三陸女川町の海鮮五色丼",
+    "description": "孤独のグルメ 2016年夏スペシャル（真夏の東北・宮城出張編）に登場した宮城県女川町の海鮮料理店。2011年の東日本大震災から復興した女川で、海鮮五色丼と活穴子天ぷらを五郎が食べた印象深い回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyagi/A0404/A040403/4003356/",
     "hotpepper_url": "",
@@ -18416,7 +18577,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "海鮮五色丼",
+      "活穴子天ぷら"
+    ]
   },
   {
     "id": "kodoku_no_gurume-a960c5c7-",
@@ -18438,7 +18603,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "中野駅",
-    "description": "東京都中野のレバにら炒めと千葉県津田沼のリブステーキ",
+    "description": "孤独のグルメ 2017年お正月スペシャル（井之頭五郎の長い一日）に登場した東京都中野区の中華料理店。レバニラ・トマト卵炒め・水餃子など中華料理を次々と注文し、五郎の一日がスタートした回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13025878/",
     "hotpepper_url": "",
@@ -18446,7 +18611,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "レバニラ炒め",
+      "トマト卵炒め",
+      "バイツェーチ（蒸し鶏）",
+      "水餃子",
+      "ごま団子"
+    ]
   },
   {
     "id": "kodoku_no_gurume-c18e1597-",
@@ -18468,7 +18640,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "津田沼駅",
-    "description": "東京都中野のレバにら炒めと千葉県津田沼のリブステーキ",
+    "description": "孤独のグルメ 2017年お正月スペシャル（井之頭五郎の長い一日）に登場した千葉県習志野市津田沼のステーキ店。リブステーキ300gにガーリックライスを合わせ、五郎が午後のエネルギーを補給した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1202/A120204/12001065/",
     "hotpepper_url": "",
@@ -18476,7 +18648,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "リブステーキ300g",
+      "ガーリックライス（ハーフ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-c04481e8-",
@@ -18498,7 +18674,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "栗林公園北口駅",
-    "description": "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン",
+    "description": "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した香川県高松市の製麺所直営うどん店。セルフ式で1玉だけ盛ってコロッケを添える香川のうどん文化に五郎が感激した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kagawa/A3701/A370101/37000033/",
     "hotpepper_url": "",
@@ -18506,7 +18682,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "うどん1玉",
+      "コロッケ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-13bbbbfb-",
@@ -18528,7 +18708,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "いよ立花駅",
-    "description": "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン",
+    "description": "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した愛媛県松山市の鮮魚居酒屋。とこぶしのバター焼き・かんぱちの炒り煮など愛媛の海の幸を存分に楽しみ、締めに宇和島風鯛めしを食べた回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ehime/A3801/A380101/38005974/",
     "hotpepper_url": "",
@@ -18536,7 +18716,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "とこぶしのバター焼き",
+      "かんぱちの炒り煮",
+      "あまぎの唐揚げあんかけ",
+      "あなご澄まし汁",
+      "鯛どんぶり（宇和島風鯛めし）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-16043b2f-",
@@ -18558,7 +18745,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "白島駅",
-    "description": "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン",
+    "description": "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した広島市のお好み焼き・鉄板焼き店。おでんや牛ロースの鉄板焼きに広島名物コーネを合わせ、〆にラーメンまで食べた広島回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3401/A340101/34007929/",
     "hotpepper_url": "",
@@ -18566,7 +18753,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "おでん（牛すじ・大根・たまご）",
+      "コーネ（コーン入れ）",
+      "牛ロース",
+      "豆もやし",
+      "ラーメン（〆）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f17863ed-",
@@ -18588,7 +18782,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "成田駅",
-    "description": "愛媛県松山市の鯛どんぶりと広島県広島市の焼肉とラーメン",
+    "description": "孤独のグルメ 2017年大晦日スペシャル（食べ納め！瀬戸内出張編）に登場した千葉県成田市の蕎麦店。せいろそばで年を締めくくった五郎の「食べ納め」最後の一杯。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1204/A120401/12016342/",
     "hotpepper_url": "",
@@ -18596,7 +18790,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "せいろそば"
+    ]
   },
   {
     "id": "kodoku_no_gurume-18bcf79f-",
@@ -18618,7 +18815,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "元田中駅",
-    "description": "京都府京都市のぐじの土鍋ご飯と愛知県名古屋市の台湾ラーメン",
+    "description": "孤独のグルメ 2018年大晦日スペシャル（京都・名古屋出張編）に登場した京都市銀閣寺周辺の京料理店。ぐじの土鍋ご飯・かぶら蒸しなど京懐石の技法を取り入れた料理に五郎が感動した京都ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26002645/",
     "hotpepper_url": "",
@@ -18626,7 +18823,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ぐじの土鍋ご飯",
+      "もち豚ロース",
+      "トマトの炭火焼き",
+      "牡蠣の塩焼き",
+      "かぶら蒸し"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d9f20c2f-",
@@ -18648,7 +18852,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "伏見駅",
-    "description": "京都府京都市のぐじの土鍋ご飯と愛知県名古屋市の台湾ラーメン",
+    "description": "孤独のグルメ 2018年大晦日スペシャル（京都・名古屋出張編）に登場した名古屋市伏見の喫茶店。名古屋のモーニング文化を体感し、あんトーストとブレンドコーヒーで名古屋の朝を満喫した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230102/23006935/",
     "hotpepper_url": "",
@@ -18656,7 +18860,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "あんトースト",
+      "カラスブレンドコーヒー（モーニング）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-4584ecd5-",
@@ -18678,7 +18886,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "比良駅",
-    "description": "京都府京都市のぐじの土鍋ご飯と愛知県名古屋市の台湾ラーメン",
+    "description": "孤独のグルメ 2018年大晦日スペシャル（京都・名古屋出張編）に登場した名古屋市西区の台湾ラーメン店。名古屋発祥の「台湾ラーメン」（中辛）を食べ、台湾とは異なる名古屋独自の辛いラーメン文化に五郎が驚いた回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230113/23011919/",
     "hotpepper_url": "",
@@ -18686,7 +18894,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "台湾ラーメン（中辛）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-46f60530-",
@@ -18708,7 +18919,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "成田空港駅",
-    "description": "福岡県福岡市のカワハギ活き造り定食と韓国釜山市のナッコプセ（タコのピリ辛炒め）",
+    "description": "孤独のグルメ 2019年大晦日スペシャル（緊急指令！成田〜福岡〜釜山 弾丸出張編）に登場した千葉県成田市三里塚の定食店。肉朝鮮焼定食に生タマゴを追加して食べた成田出発前のひとときの食事回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1204/A120403/12008244/",
     "hotpepper_url": "",
@@ -18716,7 +18927,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "肉朝鮮焼定食",
+      "生タマゴ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e2fa1796-",
@@ -18738,7 +18953,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "薬院大通駅",
-    "description": "福岡県福岡市のカワハギ活き造り定食と韓国釜山市のナッコプセ（タコのピリ辛炒め）",
+    "description": "孤独のグルメ 2019年大晦日スペシャル（緊急指令！成田〜福岡〜釜山 弾丸出張編）に登場した福岡市中央区警固の海鮮居酒屋。カワハギの活き造り・豚足の唐揚げ・ウニたっぷりクリームパスタと豪華な福岡グルメを堪能した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400104/40003961/",
     "hotpepper_url": "",
@@ -18746,7 +18961,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カワハギの活き造り定食",
+      "豚足の唐揚げ",
+      "高菜の油炒め",
+      "ウニたっぷりクリームパスタ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-feea6ccb-",
@@ -18768,7 +18989,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "福岡県福岡市のカワハギ活き造り定食と韓国釜山市のナッコプセ（タコのピリ辛炒め）",
+    "description": "孤独のグルメ 2019年大晦日スペシャル（緊急指令！成田〜福岡〜釜山 弾丸出張編）に登場した韓国・釜山のナクジポックン（タコ炒め）専門店。釜山名物「ナッコプセ（タコのピリ辛炒め）」に五郎が本場の辛さを堪能した海外ロケ回。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -18776,7 +18997,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ナッコプセ（タコのピリ辛炒め）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5b08f7e4-",
@@ -18798,7 +19022,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "呉服町駅",
-    "description": "福岡県福岡市のカワハギ活き造り定食と韓国釜山市のナッコプセ（タコのピリ辛炒め）",
+    "description": "孤独のグルメ 2019年大晦日スペシャル（緊急指令！成田〜福岡〜釜山 弾丸出張編）に登場した福岡市博多区の屋台。ラーメン・おでん・焼き物と博多屋台の醍醐味を夜空の下で楽しんだ博多シメ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400106/40039152/",
     "hotpepper_url": "",
@@ -18806,7 +19030,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ラーメン",
+      "おでん（牛すじ・卵・大根・がんもどき・厚揚げ・餃子天）",
+      "焼き物（砂ずり・豚バラ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8a664e79-",
@@ -18828,7 +19057,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "北山田駅",
-    "description": "東京都虎ノ門の海老フライと神奈川県北山田のロースター焼肉、埼玉県秩父のチャーハン餃子",
+    "description": "孤独のグルメ 2020年大晦日スペシャル（俺の食事に密はない、孤独の花火大作戦！）に登場した神奈川県川崎市宮前区の韓国焼肉店。塩ハラミ・塩カルビをロースターで焼き、コムタンスープとともに大晦日を過ごした回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140203/14018576/",
     "hotpepper_url": "",
@@ -18836,7 +19065,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "塩ハラミ",
+      "塩カルビ（ロースター焼肉）",
+      "コムタンスープ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d443dd9e-",
@@ -18858,7 +19092,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "御花畑駅",
-    "description": "東京都虎ノ門の海老フライと神奈川県北山田のロースター焼肉、埼玉県秩父のチャーハン餃子",
+    "description": "孤独のグルメ 2020年大晦日スペシャル（俺の食事に密はない、孤独の花火大作戦！）に登場した埼玉県秩父市の中華料理店。餃子・木須肉・チャーハンとライスを追加した秩父の町中華回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1107/A110701/11019456/",
     "hotpepper_url": "",
@@ -18866,7 +19100,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "餃子",
+      "木須肉（ムースーロー）",
+      "チャーハン",
+      "ライス（追加）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9f3210f3-",
@@ -18888,7 +19128,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "西舞鶴駅",
-    "description": "孤独のグルメ Season10 第2021話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した京都府舞鶴市の海産物直売所内の食堂。舞鶴産のカニ刺身・カニ焼き・京鰆の刺身と日本海の幸を堪能した舞鶴ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2609/A260902/26028008/",
     "hotpepper_url": "",
@@ -18896,7 +19136,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "舞鶴カニ刺身",
+      "カニ焼き",
+      "京鰆の刺身"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f92d0f22-",
@@ -18918,7 +19163,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "丹波篠山口駅",
-    "description": "孤独のグルメ Season10 第2021話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した兵庫県丹波篠山市の猪料理専門店。猪肉と野菜のぼたん鍋に山の芋とろろを合わせ、〆ごはんで締めた丹波篠山の猪料理回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hyogo/A2807/A280702/28023086/",
     "hotpepper_url": "",
@@ -18926,7 +19171,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ぼたん鍋",
+      "山の芋とろろ",
+      "〆ごはん（生卵入り）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-6b620ad2-",
@@ -18948,7 +19198,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "松阪駅",
-    "description": "孤独のグルメ Season10 第2021話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した三重県松阪市の鶏焼肉店。若どり・親どり・きもなど鶏の各部位を炭火で焼いた三重・松阪の鶏焼肉回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/mie/A2401/A240102/24001314/",
     "hotpepper_url": "",
@@ -18956,7 +19206,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "若どり",
+      "親どり",
+      "きも",
+      "とり野菜（鶏焼肉各種）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-c84527df-",
@@ -18978,7 +19234,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宇治山田駅",
-    "description": "孤独のグルメ Season10 第2021話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した三重県伊勢市のうどん店。超太麺に甘じょっぱいタレをかけた伊勢うどんに肉月見・えび天をトッピングして楽しんだ伊勢回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/mie/A2403/A240301/24001056/",
     "hotpepper_url": "",
@@ -18986,7 +19242,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "伊勢うどん（肉月見・えび天トッピング）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5fe3fbab-",
@@ -19008,7 +19267,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "寸座駅",
-    "description": "孤独のグルメ Season10 第2021話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した静岡県浜松市・浜名湖の鰻料理店。浜名湖産鰻の蒲焼き・白焼きを盛った二色まぶし丼とミニ牡蠣カバ丼で浜名湖の幸を堪能した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22002638/",
     "hotpepper_url": "",
@@ -19016,7 +19275,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "二色まぶし丼（蒸し蒲焼き＋白焼き）",
+      "ミニ牡蠣カバ丼"
+    ]
   },
   {
     "id": "kodoku_no_gurume-3fc57db2-",
@@ -19038,7 +19301,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2021話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した静岡県富士宮市・朝霧フードパークの芋工房。ドライブ途中に立ち寄り、焼き芋をほおばった五郎のひとときの休憩回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2204/A220401/22022695/",
     "hotpepper_url": "",
@@ -19046,7 +19309,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "焼き芋"
+    ]
   },
   {
     "id": "kodoku_no_gurume-991c519b-",
@@ -19068,7 +19334,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "本所吾妻橋駅",
-    "description": "孤独のグルメ Season10 第2021話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2021年大晦日スペシャル（激走！絶景絶品・年忘れロードムービー）に登場した東京都墨田区本所吾妻橋の食堂。ドライブの〆に立ち寄り、焼肉ラーメンで2021年の大晦日SPを締めくくった回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131203/13158708/",
     "hotpepper_url": "",
@@ -19076,7 +19342,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "焼肉ラーメン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-38faf63c-",
@@ -19098,7 +19367,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "中野坂上駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年（Season10通常回）に登場した東京都中野区中野坂上の中華料理店。看板メニュー「ミッキーライス」とニンニクチャーハンを注文した中野の町中華回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131903/13073445/",
     "hotpepper_url": "",
@@ -19106,7 +19375,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ミッキーライス（レバー・豚肉・野菜のピリ辛あんかけごはん）",
+      "ニンニクチャーハン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-2eca520c-",
@@ -19128,7 +19401,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "代官山駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年（Season10）に登場した東京都渋谷区代官山の料理店。井之頭五郎が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130303/13007258/",
     "hotpepper_url": "",
@@ -19158,7 +19431,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "代々木上原駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年（Season10）に登場した社食堂。井之頭五郎が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13208112/",
     "hotpepper_url": "",
@@ -19188,7 +19461,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "浅草橋駅",
-    "description": "孤独のグルメ Season10 第2022話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年（Season10）に登場した東京都台東区浅草かっぱ橋の焼きそば専門店。井之頭五郎が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13237175/",
     "hotpepper_url": "",
@@ -19218,7 +19491,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "亀戸駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年（Season10）に登場した東京都江東区亀戸のホルモン焼肉店。井之頭五郎が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131202/13226570/",
     "hotpepper_url": "",
@@ -19248,7 +19521,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "苫小牧駅",
-    "description": "孤独のグルメ Season10 第2022話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道苫小牧市のラーメン店。カレーもやしラーメン定食で北海道の〆ラーメンを堪能した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0108/A010802/1034322/",
     "hotpepper_url": "",
@@ -19256,7 +19529,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カレーもやしラーメン定食"
+    ]
   },
   {
     "id": "kodoku_no_gurume-69029c00-",
@@ -19278,7 +19554,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2022話に登場したスイーツ店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道千歳市の手作りジェラート店。北海道ミルクとハスカップのジェラートで北海道の冬のデザートを楽しんだ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0107/A010701/1005624/",
     "hotpepper_url": "",
@@ -19286,7 +19562,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ジェラート（ミルク・ハスカップ）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-a2c910a9-",
@@ -19308,7 +19587,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "円山公園駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道札幌市円山公園の精肉店直営焼肉店。新鮮な塩ジンギスカンを楽しんだ札幌回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010105/1030343/",
     "hotpepper_url": "",
@@ -19316,7 +19595,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "塩ジンギスカン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d3a1db31-",
@@ -19338,7 +19620,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "稲積公園駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した寿司店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道石狩市の寿司・鍋料理店。北海道の寿司と石狩鍋を五郎が堪能した石狩回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0107/A010702/1013302/",
     "hotpepper_url": "",
@@ -19346,7 +19628,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "寿司",
+      "石狩鍋"
+    ]
   },
   {
     "id": "kodoku_no_gurume-ebf2078e-",
@@ -19368,7 +19654,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "小樽駅",
-    "description": "孤独のグルメ Season10 第2022話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2022年大晦日スペシャル（年忘れ、食の格闘技。カニの使いはあらたいへん。）に登場した北海道小樽市の食堂。小樽名物「とりめん（鶏肉入りにゅう麺）」を軸にタコざんぎ・おでんとおにぎりで締めた小樽回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0106/A010601/1010187/",
     "hotpepper_url": "",
@@ -19376,7 +19662,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "とりめん（鶏肉入りにゅう麺）",
+      "おでん（筍・しらたき）",
+      "タコざんぎ",
+      "たらこおにぎり",
+      "ちそおにぎり"
+    ]
   },
   {
     "id": "kodoku_no_gurume-b768e841-",
@@ -19398,7 +19691,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "高田馬場駅",
-    "description": "シーズン2 エピソード1 – 居酒屋×ハナコ",
+    "description": "孤独のグルメ Season10 第2話に登場した東京都高田馬場のもつ焼き屋台チェーン。インドネシア料理の後に立ち寄り、もつ焼きとホッピーで締めくくった。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13260598/",
     "hotpepper_url": "",
@@ -19406,7 +19699,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "もつ焼き",
+      "ホッピー"
+    ]
   },
   {
     "id": "kodoku_no_gurume-016be5ed-",
@@ -19428,7 +19725,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2023話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県の豚足料理店。豚足の唐揚げ甘辛醤油ダレとふーちゃんぷるで沖縄料理の奥深さを体感した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4702/A470202/47009741/",
     "hotpepper_url": "",
@@ -19436,7 +19733,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ちまぐ（豚足）唐揚げ甘辛醤油ダレ",
+      "ふーちゃんぷる（麩の炒め物）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e9a9067f-",
@@ -19458,7 +19759,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2023話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県読谷村・残波岬そばのパーラー。黒糖ミルクぜんざいのかき氷で沖縄の甘味を楽しんだ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47011126/",
     "hotpepper_url": "",
@@ -19466,7 +19767,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "黒糖ミルクぜんざい（かき氷）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-85463e91-",
@@ -19488,7 +19792,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2023話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した沖縄県のアメリカン食堂。タコスとステーキという沖縄ならではのアメリカ料理文化を五郎が体験した回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470404/47002905/",
     "hotpepper_url": "",
@@ -19496,7 +19800,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "タコス（チリソース付き）",
+      "ステーキ200g"
+    ]
   },
   {
     "id": "kodoku_no_gurume-43db0070-",
@@ -19518,7 +19826,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2023話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した台湾・台北の中国東北料理店。白菜漬けのスープに豚肉・牛肉・ラム肉をくぐらせる「酸菜白肉火鍋」に五郎が感動した台湾ロケ回。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -19526,7 +19834,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "酸菜白肉火鍋（豚肉・牛肉・ラム肉の白菜漬鍋）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-570120e2-",
@@ -19548,7 +19859,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season10 第2023話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2023年大晦日スペシャル（井之頭五郎、南へ逃避行「探さないでください。」）に登場した台湾・台北の夜市屋台。ビーフンスープと汁なし麺「乾拌麵」で台湾夜市の庶民グルメを五郎が満喫した回。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -19556,7 +19867,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "米粉湯（ビーフンスープ）",
+      "乾拌麵（汁なし麺）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-7d53ea53-",
@@ -19998,7 +20313,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "豊田駅",
-    "description": "孤独のグルメ Season10 第2024話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2024年大晦日スペシャル（太平洋から日本海 五郎、北へ あの人たちの所まで。）に登場した東京都日野市豊田駅近くのイタリアン。モッツァレラチーズとアンチョビのピッツァで出発前の腹ごしらえをした回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132903/13016365/",
     "hotpepper_url": "",
@@ -20006,7 +20321,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "モッツァレラチーズとアンチョビのピッツァ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-417ff61f-",
@@ -20028,7 +20346,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "切石駅",
-    "description": "孤独のグルメ Season10 第2024話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2024年大晦日スペシャル（太平洋から日本海 五郎、北へ あの人たちの所まで。）に登場した長野県飯田市の焼肉店。生ラム・カシラ・煮おた（湯通しホルモン）など飯田の焼肉文化を五郎が体験した南信州ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagano/A2006/A200603/20008999/",
     "hotpepper_url": "",
@@ -20036,7 +20354,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "生ラム",
+      "カシラ",
+      "煮おた（湯通しホルモン）",
+      "豚バラ",
+      "野菜盛り",
+      "ライス（梅干し付き）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f7dbe199-",
@@ -20058,7 +20384,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "穴水駅",
-    "description": "石川県穴水町のちゃんこ鍋とかきバター焼き・かき天ぷら",
+    "description": "孤独のグルメ 2024年大晦日スペシャル（太平洋から日本海 五郎、北へ あの人たちの所まで。）に登場した石川県穴水町のちゃんこ鍋・海鮮料理店。能登産牡蠣のバター焼き・天ぷらとちゃんこ鍋で2024年の大晦日を締めくくった能登ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1704/A170403/17003854/",
     "hotpepper_url": "",
@@ -20066,7 +20392,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ちゃんこ鍋セット",
+      "かきバター焼き",
+      "かき天ぷら"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d63d26de-",
@@ -20088,7 +20419,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "新潟県佐渡市の刺し身とぶりしゃぶといごねり",
+    "description": "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した新潟県佐渡市小木町の海鮮料理店。佐渡名物「いごねり」から始まりブリしゃぶ・ブリカブト焼きまでブリ尽くしを楽しんだ佐渡ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/niigata/A1501/A150103/15009050/",
     "hotpepper_url": "",
@@ -20096,7 +20427,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "いごねり",
+      "ブリしゃぶ",
+      "刺身盛り合わせ",
+      "ブリフライ",
+      "ブリカブト焼き"
+    ]
   },
   {
     "id": "kodoku_no_gurume-a1fa52a5-",
@@ -20118,7 +20456,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "米沢駅",
-    "description": "孤独のグルメ Season10 第2025話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した山形県米沢市の老舗精肉店。旅の途中に立ち寄り、米沢牛そぼろをテイクアウトで味わった米沢ロケ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/yamagata/A0602/A060201/6000504/",
     "hotpepper_url": "",
@@ -20126,7 +20464,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "米沢牛そぼろ（精肉店テイクアウト）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9a1803af-",
@@ -20148,7 +20489,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "米沢駅",
-    "description": "孤独のグルメ Season10 第2025話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した山形県米沢市駅前の米沢牛焼肉店。上カルビ・上ロース・米沢牛ホルモンを焼き、〆にみよしカレーで締めた米沢グルメ回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/yamagata/A0602/A060201/6004247/",
     "hotpepper_url": "",
@@ -20156,7 +20497,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "上カルビ",
+      "上ロース",
+      "つのにんにく",
+      "とろモツ（米沢牛ホルモン）",
+      "みよしカレー（〆）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d80cbad7-",
@@ -20178,7 +20526,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "飯岡駅",
-    "description": "千葉県旭市のむし豚のニンニクソースとシイタケそば",
+    "description": "孤独のグルメ 2025年大晦日スペシャル（おかわりは、五郎セルフで運びます！）に登場した千葉県旭市の中華料理店。むし豚のニンニクソースとシイタケそばで2025年の大晦日SPを締めくくった回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1205/A120502/12017731/",
     "hotpepper_url": "",
@@ -20186,7 +20534,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "むし豚のニンニクソース",
+      "シイタケそば（ラーメン）"
+    ]
   },
   {
     "id": "timelesz-540cca88-",
