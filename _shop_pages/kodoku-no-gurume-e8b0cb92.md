@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ノング インレイ"
-description: "高田馬場のシャン風豚高菜漬炒めと牛スープそば"
+description: "孤独のグルメ Season6 第6話に登場した新宿のシャン料理店。お茶葉サラダ・シャン風豚高菜漬け炒め・牛スープそば・揚げパンを注文。"
 shop_id: "kodoku_no_gurume-e8b0cb92-"
 name: "ノング インレイ"
 genre: "ラーメン"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "お茶葉サラダ"
+  - "シャン風豚高菜漬け炒め"
+  - "牛スープそば"
+  - "イチャクゥエ"
 ---

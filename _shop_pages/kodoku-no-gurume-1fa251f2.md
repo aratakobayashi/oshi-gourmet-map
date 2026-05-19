@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ジンギスカン どぅー"
-description: "孤独のグルメ Season8 第11話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season8 第11話に登場した武蔵小杉のジンギスカン店。チャックロール ネギ塩焼き・ジンギスカンセット3種を注文。"
 shop_id: "kodoku_no_gurume-1fa251f2-"
 name: "ジンギスカン どぅー"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "チャックロール ネギ塩焼き"
+  - "ジンギスカンセット"
+  - "ハム（骨付き）"
 ---

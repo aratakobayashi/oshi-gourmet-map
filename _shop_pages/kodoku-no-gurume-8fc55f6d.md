@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "マッシーナ メッシーナ"
-description: "孤独のグルメ Season7 第2話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season7 第2話に登場した世田谷の多国籍バイキング店。マフェ・雑穀混ぜご飯など多品目を注文。"
 shop_id: "kodoku_no_gurume-8fc55f6d-"
 name: "マッシーナ メッシーナ"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "キンピラゴボウ"
+  - "マフェ（ギニア風鶏のシチュー）"
+  - "雑穀混ぜご飯"
+  - "タラモサラダ"
 ---

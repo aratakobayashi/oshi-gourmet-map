@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "コンマ コーヒー"
-description: "新座市の肉汁うどんと西東京市ひばりが丘のカステラパンケーキ"
+description: "孤独のグルメ Season8 第4話に登場したカフェ。無塩バター・メープルシロップ添えのカステラパンケーキを注文。"
 shop_id: "kodoku_no_gurume-265d5f69-"
 name: "コンマ コーヒー"
 genre: "ラーメン"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カステラパンケーキ"
 ---

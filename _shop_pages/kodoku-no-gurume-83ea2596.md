@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "はまべ"
-description: "孤独のグルメ Season6 第10話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第10話に登場した千葉・富津の海辺の定食屋。アジフライ定食にさんが焼き・肉じゃがを注文。"
 shop_id: "kodoku_no_gurume-83ea2596-"
 name: "はまべ"
 genre: "和食"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "アジフライ定食"
+  - "さんが焼き"
+  - "肉じゃが"
 ---

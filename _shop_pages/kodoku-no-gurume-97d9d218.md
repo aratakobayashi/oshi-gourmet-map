@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "味のレストラン えびすや 幸町店"
-description: "千葉市の特製ニンニクスープと生鮭のバター焼き"
+description: "孤独のグルメ Season7 第11話に登場した千葉・千葉市のレストラン。特製ニンニクスープ・生鮭のバター焼き・カニピラフを注文。"
 shop_id: "kodoku_no_gurume-97d9d218-"
 name: "味のレストラン えびすや 幸町店"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "特製ニンニクスープ"
+  - "生鮭のバター焼き"
+  - "カニピラフ"
+  - "ガーリックトースト"
 ---

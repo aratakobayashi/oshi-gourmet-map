@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "スペイン食堂 石井"
-description: "孤独のグルメ Season6 第9話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第9話に登場した品川のスペイン料理店。マッシュルームの鉄板焼き・サルスエラ・イカ墨のパエリアを注文。"
 shop_id: "kodoku_no_gurume-dac2b4f0-"
 name: "スペイン食堂 石井"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "マッシュルームの鉄板焼き"
+  - "サルスエラ"
+  - "イカ墨のパエリア"
+  - "タラのアリオリソース焼き"
 ---

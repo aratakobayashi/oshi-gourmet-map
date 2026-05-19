@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いろり家"
-description: "孤独のグルメ Season4 第3話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第3話に登場した箱根のいろり家。ステーキ丼・旬野菜のゴマ和え・ワカサギの南蛮漬けを注文。"
 shop_id: "kodoku_no_gurume-92ab84a8-"
 name: "いろり家"
 genre: "焼肉"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ステーキ丼"
+  - "旬野菜のゴマ和え"
+  - "ワカサギの南蛮漬け"
 ---

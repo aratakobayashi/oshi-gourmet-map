@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みゆき食堂"
-description: "孤独のグルメ Season4 第1話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第1話に登場した清瀬の大衆食堂。もやしと肉のピリ辛イタメ・ジャンボ餃子・やきとりを注文。"
 shop_id: "kodoku_no_gurume-523cca86-"
 name: "みゆき食堂"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "もやしと肉のピリ辛イタメ"
+  - "ジャンボ餃子"
+  - "やきとり"
 ---

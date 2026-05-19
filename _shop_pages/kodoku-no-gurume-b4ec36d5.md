@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大幸園 小宮本店"
-description: "孤独のグルメ Season4 第4話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第4話に登場した八王子の焼肉店。豚足・ロースすき焼き・ヒレカルビ・味ネギを注文。"
 shop_id: "kodoku_no_gurume-b4ec36d5-"
 name: "大幸園 小宮本店"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "豚足"
+  - "ロースすき焼き"
+  - "ヒレカルビ"
+  - "味ネギ"
 ---

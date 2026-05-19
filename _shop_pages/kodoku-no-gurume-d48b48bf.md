@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "三燈舎"
-description: "御茶ノ水の南インドのカレー定食とガーリックチーズドーサ"
+description: "孤独のグルメ Season8 第9話に登場した御茶ノ水の南インド料理店。南インドカレー定食ミールスとガーリックチーズドーサを注文。"
 shop_id: "kodoku_no_gurume-d48b48bf-"
 name: "三燈舎"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "サントウシャミールス"
+  - "ガーリックチーズドーサ"
+  - "濃厚ラッシー"
 ---

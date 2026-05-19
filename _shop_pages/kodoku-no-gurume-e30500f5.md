@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "タンドールバル カマルプール"
-description: "孤独のグルメ Season4 第6話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第6話に登場した江東区のインド料理店。チーズクルチャ・ラムミントカレー・マンゴーラッシーを注文。"
 shop_id: "kodoku_no_gurume-e30500f5-"
 name: "タンドールバル カマルプール"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "チーズクルチャ"
+  - "タンドリーベジ"
+  - "ラムミントカレー"
+  - "マンゴーラッシー"
 ---

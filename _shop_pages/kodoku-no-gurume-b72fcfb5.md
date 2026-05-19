@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "九絵"
-description: "孤独のグルメ Season5 第6話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season5 第6話に登場した目黒・大岡山の漁師料理店。九絵定食（カンパチ・ヒラメ等の刺身）となめろう冷茶漬けを注文。"
 shop_id: "kodoku_no_gurume-b72fcfb5-"
 name: "九絵"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "九絵定食"
+  - "なめろう冷茶漬け"
 ---

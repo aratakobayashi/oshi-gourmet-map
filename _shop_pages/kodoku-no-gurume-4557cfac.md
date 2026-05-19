@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "山源"
-description: "孤独のグルメ Season3 第6話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第6話に登場した板橋の焼肉店。和風キムチ・ホルモン・ナンコツ・コメカミを注文。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
 genre: "焼肉"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "和風キムチ"
+  - "ホルモン"
+  - "ナンコツ"
+  - "コメカミ"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "居酒屋まめぞ"
-description: "孤独のグルメ Season4 第7話に登場した居酒屋。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第7話に登場した台東区の創作居酒屋。生ハム・明太クリームパスタ・名物かつサンドを注文。"
 shop_id: "kodoku_no_gurume-9353d2c4-"
 name: "居酒屋まめぞ"
 genre: "居酒屋"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "生ハム"
+  - "せんちゃんサラダ"
+  - "明太クリームパスタ"
+  - "名物かつサンド"
 ---

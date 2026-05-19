@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "第一亭"
-description: "孤独のグルメ Season3 第2話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第2話に登場した横浜の中華店。豚胃のしょうが炒め「チート」とパタンを注文。"
 shop_id: "kodoku_no_gurume-5cea7b76-"
 name: "第一亭"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "チート（豚胃）のしょうが炒め"
+  - "パタン"
 ---

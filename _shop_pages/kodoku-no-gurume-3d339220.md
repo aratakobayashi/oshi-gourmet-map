@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "魚谷"
-description: "孤独のグルメ Season3 第4話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第4話に登場した文京区の居酒屋。銀ダラ西京焼き・えんがわポン酢・きんきの煮付けを注文。"
 shop_id: "kodoku_no_gurume-3d339220-"
 name: "魚谷"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "銀ダラ西京焼き"
+  - "えんがわポン酢"
+  - "きんきの煮付け"
+  - "ばくだん納豆"
 ---

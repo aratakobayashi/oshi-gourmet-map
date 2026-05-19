@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "三星青蔥文化館"
-description: "孤独のグルメ Season5 第4話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season5 第4話に登場した台湾・宜蘭の葱料理店。葱餡餅・三星葱臘肉・紅糟排骨・蛤仔湯を注文。"
 shop_id: "kodoku_no_gurume-7cec1f08-"
 name: "三星青蔥文化館"
 genre: "食事"
@@ -16,4 +16,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "葱餡餅"
+  - "三星葱臘肉"
+  - "紅糟排骨"
+  - "蛤仔湯"
 ---

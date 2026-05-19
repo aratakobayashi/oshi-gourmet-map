@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "まーさん"
-description: "孤独のグルメ Season5 第7話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season5 第7話に登場した千歳船橋のジンギスカン店。ラム肩ロース・ラムチョップ・せせり・羊の薬膳スープを注文。"
 shop_id: "kodoku_no_gurume-504b7c74-"
 name: "まーさん"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ラム肩ロース"
+  - "ラムチョップ"
+  - "せせり"
+  - "羊の薬膳スープ"
 ---

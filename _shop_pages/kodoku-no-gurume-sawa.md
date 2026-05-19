@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "厨 Sawa"
-description: "せんげん台のアメリカンソースのオムライスとカキのムニエル"
+description: "孤独のグルメ Season5 第11話に登場した越谷の洋食店。カキのムニエル・アメリカンソースのオムライス・自家製ババロアを注文。"
 shop_id: "kodoku_no_gurume-sawa-"
 name: "厨 Sawa"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カキのムニエル"
+  - "アメリカンソースのオムライス"
+  - "ブルスケッタ"
+  - "自家製ババロア"
 ---

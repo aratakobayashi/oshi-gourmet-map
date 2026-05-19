@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鳥椿 鶯谷朝顔通り店"
-description: "孤独のグルメ Season3 第8話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第8話に登場した鶯谷の鳥料理店。揚げレバー・ハムカツ・アボカド鶏メンチ・鳥鍋めしを注文。"
 shop_id: "kodoku_no_gurume-8cd47230-"
 name: "鳥椿 鶯谷朝顔通り店"
 genre: "和食"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ユリニク（揚げレバー）"
+  - "ハムカツ"
+  - "アボカド鶏メンチ"
+  - "鳥鍋めし"
 ---

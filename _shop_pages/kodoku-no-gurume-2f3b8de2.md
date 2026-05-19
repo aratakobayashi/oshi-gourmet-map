@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "薬膳スープカレー・シャナイア"
-description: "孤独のグルメ Season6 第3話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第3話に登場した目黒の薬膳スープカレー店。シャナイア風ザンギとチキンと野菜のスープカレー（いももちトッピング）を注文。"
 shop_id: "kodoku_no_gurume-2f3b8de2-"
 name: "薬膳スープカレー・シャナイア"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "シャナイア風ザンギ"
+  - "チキンと野菜のスープカレー"
+  - "自家製バニラアイス"
 ---

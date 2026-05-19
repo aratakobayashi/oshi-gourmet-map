@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "まちのパーラー"
-description: "小竹向原のローストポークサンドイッチとサルシッチャ"
+description: "孤独のグルメ Season3 第9話に登場した練馬のカフェ。ローストポークサンドイッチ・キッシュ・サルシッチャセットを注文。"
 shop_id: "kodoku_no_gurume-5e0f3652-"
 name: "まちのパーラー"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ローストポークサンドイッチ"
+  - "ほうれん草とリコッタチーズのキッシュ"
+  - "サルシッチャセット"
+  - "自家製黒糖ジンジャエール"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "だるまや"
-description: "孤独のグルメ Season3 第12話に登場した寿司店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第12話に登場した品川の創作料理店。いわしのユッケ・チーズロール・にぎり寿司などを注文。"
 shop_id: "kodoku_no_gurume-e1afada2-"
 name: "だるまや"
 genre: "寿司"
@@ -20,4 +20,10 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "いわしのユッケ"
+  - "チーズロール"
+  - "グリル野菜"
+  - "つみれスープ"
+  - "にぎり寿司"
 ---

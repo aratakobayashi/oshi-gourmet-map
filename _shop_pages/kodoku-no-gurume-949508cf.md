@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "眞実一路"
-description: "孤独のグルメ Season7 第5話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season7 第5話に登場した千代田区の中国料理店。2色の麻婆豆腐とワンタン入り滋養スープを注文。"
 shop_id: "kodoku_no_gurume-949508cf-"
 name: "眞実一路"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ワンタン入り滋養スープ"
+  - "緑の麻婆豆腐"
+  - "赤の麻婆豆腐"
+  - "海老と大葉のハルマキ"
 ---

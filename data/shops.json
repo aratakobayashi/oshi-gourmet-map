@@ -15354,7 +15354,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "赤羽駅",
-    "description": "孤独のグルメ Season3 第1話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第1話に登場した赤羽の焼き鳥・うなぎ店。ほろほろ鳥の串焼きと鰻のオムレツ・うな丼を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13008753/",
     "hotpepper_url": "",
@@ -15362,7 +15362,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ilbAMYI6FgIUzViTnxEF5HJHLcP.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ほろほろ鳥の合わせ盛り",
+      "ほろバラ串",
+      "ほろあぶら串",
+      "鰻のオムレツ",
+      "うな丼"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5cea7b76-",
@@ -15384,7 +15391,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "日ノ出町駅",
-    "description": "孤独のグルメ Season3 第2話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第2話に登場した横浜の中華店。豚胃のしょうが炒め「チート」とパタンを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140102/14004194/",
     "hotpepper_url": "",
@@ -15392,7 +15399,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/luFc9TdeDtmO9hjpGa1dWAJBZD0.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チート（豚胃）のしょうが炒め",
+      "パタン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-14e24ebe-",
@@ -15414,7 +15425,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "河津駅",
-    "description": "孤独のグルメ Season3 第3話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第3話に登場した静岡・河津のわさび園食事処。生わさびをご飯にのせた「わさび丼」を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22014866/",
     "hotpepper_url": "",
@@ -15422,7 +15433,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dJ7jhZKhSqG4Vs0rEhHLd52k592.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "わさび丼"
+    ]
   },
   {
     "id": "kodoku_no_gurume-3d339220-",
@@ -15444,7 +15458,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "江戸川橋駅",
-    "description": "孤独のグルメ Season3 第4話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第4話に登場した文京区の居酒屋。銀ダラ西京焼き・えんがわポン酢・きんきの煮付けを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13091985/",
     "hotpepper_url": "",
@@ -15452,7 +15466,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ziqs8CJiAhvAuPRJAh7yz7IqAb.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "銀ダラ西京焼き",
+      "えんがわポン酢",
+      "きんきの煮付け",
+      "ばくだん納豆"
+    ]
   },
   {
     "id": "kodoku_no_gurume-bba64785-",
@@ -15474,7 +15494,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "東中野駅",
-    "description": "孤独のグルメ Season3 第5話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第5話に登場した中野のアフガン・パキスタン料理店。カバブ・ラムロースのたたき・アフガン風混ぜ麺ラグマンを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131901/13006879/",
     "hotpepper_url": "",
@@ -15482,7 +15502,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ex1tvfC4jpZw6sy4WWigKZsKxkc.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カバブ",
+      "コフタ",
+      "ラムロースのたたき",
+      "カラヒィ",
+      "ラグマン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-4557cfac-",
@@ -15504,7 +15531,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "新板橋駅",
-    "description": "孤独のグルメ Season3 第6話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第6話に登場した板橋の焼肉店。和風キムチ・ホルモン・ナンコツ・コメカミを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1322/A132201/13025646/",
     "hotpepper_url": "",
@@ -15512,7 +15539,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/4IxwH3JyJbmhZzqbpGPa3lOSwHm.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "和風キムチ",
+      "ホルモン",
+      "ナンコツ",
+      "コメカミ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-88831118-",
@@ -15534,7 +15567,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "神泉駅",
-    "description": "駒場東大前のマッシュルームガーリックとカキグラタン",
+    "description": "孤独のグルメ Season3 第7話に登場した目黒のスペイン料理店。マッシュルームガーリックとカキグラタンを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131801/13020966/",
     "hotpepper_url": "",
@@ -15542,7 +15575,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dnxIhvSqUEINTzCQMcdJcZtQhKF.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "マッシュルームガーリック",
+      "カキグラタン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8cd47230-",
@@ -15564,7 +15601,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "鶯谷駅",
-    "description": "孤独のグルメ Season3 第8話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第8話に登場した鶯谷の鳥料理店。揚げレバー・ハムカツ・アボカド鶏メンチ・鳥鍋めしを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131104/13132192/",
     "hotpepper_url": "",
@@ -15572,7 +15609,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/drTTeZuSHhwYZQyFbS8RaVH6H9J.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ユリニク（揚げレバー）",
+      "ハムカツ",
+      "アボカド鶏メンチ",
+      "鳥鍋めし"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5e0f3652-",
@@ -15594,7 +15637,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "小竹向原駅",
-    "description": "小竹向原のローストポークサンドイッチとサルシッチャ",
+    "description": "孤独のグルメ Season3 第9話に登場した練馬のカフェ。ローストポークサンドイッチ・キッシュ・サルシッチャセットを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1321/A132101/13126515/",
     "hotpepper_url": "",
@@ -15602,7 +15645,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tDX6VErX9PIFipHONt55oPgO4EG.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ローストポークサンドイッチ",
+      "ほうれん草とリコッタチーズのキッシュ",
+      "サルシッチャセット",
+      "自家製黒糖ジンジャエール"
+    ]
   },
   {
     "id": "kodoku_no_gurume-dc8b82e8-",
@@ -15624,7 +15673,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宮ノ前停留所",
-    "description": "孤独のグルメ Season3 第10話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第10話に登場した荒川区の定食・鍋料理店。炎の酒鍋セットととんかつ麦とろセット定食を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132303/13012282/",
     "hotpepper_url": "",
@@ -15632,7 +15681,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/a09jVqujXNVVesZUxtIawlYGWlY.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "炎の酒鍋セット",
+      "とんかつ麦とろミニミニセット定食"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e1afada2-",
@@ -15654,7 +15707,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "大井町駅",
-    "description": "孤独のグルメ Season3 第12話に登場した寿司店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season3 第12話に登場した品川の創作料理店。いわしのユッケ・チーズロール・にぎり寿司などを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13080413/",
     "hotpepper_url": "",
@@ -15662,7 +15715,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/zWQshBGWquKBZrAZiZ10zhB2BgZ.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "いわしのユッケ",
+      "チーズロール",
+      "グリル野菜",
+      "つみれスープ",
+      "にぎり寿司"
+    ]
   },
   {
     "id": "kodoku_no_gurume-523cca86-",
@@ -15684,7 +15744,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "清瀬駅",
-    "description": "孤独のグルメ Season4 第1話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第1話に登場した清瀬の大衆食堂。もやしと肉のピリ辛イタメ・ジャンボ餃子・やきとりを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1328/A132803/13040781/",
     "hotpepper_url": "",
@@ -15692,7 +15752,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dbrWREgU5gr1XBPoBo71VuJfZO6.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "もやしと肉のピリ辛イタメ",
+      "ジャンボ餃子",
+      "やきとり"
+    ]
   },
   {
     "id": "kodoku_no_gurume-4b835120-",
@@ -15714,7 +15779,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "新橋駅",
-    "description": "孤独のグルメ Season4 第2話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第2話に登場した日本橋の韓国料理店。韓国風天ぷら・鱈の餃子・チャプチェ・参鶏湯ラーメンを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13129629/",
     "hotpepper_url": "",
@@ -15722,7 +15787,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fZ1yh4ZGDv2YNZ7TvlGx75HIc2u.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "韓国風天ぷら",
+      "鱈の餃子",
+      "チャプチェ",
+      "参鶏湯ラーメン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-92ab84a8-",
@@ -15744,7 +15815,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "宮ノ下駅",
-    "description": "孤独のグルメ Season4 第3話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第3話に登場した箱根のいろり家。ステーキ丼・旬野菜のゴマ和え・ワカサギの南蛮漬けを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14031445/",
     "hotpepper_url": "",
@@ -15752,7 +15823,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/nHEsUIXIx9ZCn4XutGJyPtxckE2.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ステーキ丼",
+      "旬野菜のゴマ和え",
+      "ワカサギの南蛮漬け"
+    ]
   },
   {
     "id": "kodoku_no_gurume-b4ec36d5-",
@@ -15774,7 +15850,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "小宮駅",
-    "description": "孤独のグルメ Season4 第4話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第4話に登場した八王子の焼肉店。豚足・ロースすき焼き・ヒレカルビ・味ネギを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13107594/",
     "hotpepper_url": "",
@@ -15782,7 +15858,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/py0stjiw3WRjqoc6FmAUgt1FNTS.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "豚足",
+      "ロースすき焼き",
+      "ヒレカルビ",
+      "味ネギ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-980f8c82-",
@@ -15804,7 +15886,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "日間賀島西港",
-    "description": "孤独のグルメ Season4 第5話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第5話に登場した愛知・日間賀島の海鮮店。赤車海老・大あさり焼き・しらす天ぷら・たこめしを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2304/A230403/23007247/",
     "hotpepper_url": "",
@@ -15812,7 +15894,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/uV4Q3V9No9tNiyAx0Rlm6qTuaB5.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "赤車海老",
+      "大あさり焼き",
+      "しらす天ぷら",
+      "たこめし"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e30500f5-",
@@ -15834,7 +15922,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "木場駅",
-    "description": "孤独のグルメ Season4 第6話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第6話に登場した江東区のインド料理店。チーズクルチャ・ラムミントカレー・マンゴーラッシーを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131303/13128960/",
     "hotpepper_url": "",
@@ -15842,7 +15930,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/kMdMOvZEVzr5evcH3YWRpKjha9H.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チーズクルチャ",
+      "タンドリーベジ",
+      "ラムミントカレー",
+      "マンゴーラッシー"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9353d2c4-",
@@ -15864,7 +15958,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "新御徒町駅",
-    "description": "孤独のグルメ Season4 第7話に登場した居酒屋。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第7話に登場した台東区の創作居酒屋。生ハム・明太クリームパスタ・名物かつサンドを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131103/13100691/",
     "hotpepper_url": "",
@@ -15872,7 +15966,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/4foWMUfncEbmHOOicHEd49ldUtA.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "生ハム",
+      "せんちゃんサラダ",
+      "明太クリームパスタ",
+      "名物かつサンド"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8c90e208-",
@@ -15894,7 +15994,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "代々木駅",
-    "description": "孤独のグルメ Season4 第9話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第9話に登場した渋谷の中国料理店。毛沢東スペアリブ・黒チャーハン・麻辣湯を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130403/13263163/",
     "hotpepper_url": "",
@@ -15902,7 +16002,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tM6uYu8PkeeNhBQFfhGinMX28g7.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "蒸し鶏",
+      "毛沢東スペアリブ",
+      "黒チャーハン",
+      "麻辣湯"
+    ]
   },
   {
     "id": "kodoku_no_gurume-thi_thi-",
@@ -15924,7 +16030,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "蒲田駅",
-    "description": "孤独のグルメ Season4 第11話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season4 第11話に登場した大田区のベトナム料理店。海老の生春巻き・とりおこわ・ブンボーフエ・ベトナムコーヒーを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131503/13038849/",
     "hotpepper_url": "",
@@ -15932,7 +16038,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/czPNbHoZ8vxVU2xH9ewynTgCR9d.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "海老の生春巻き",
+      "とりおこわ",
+      "ブンボーフエ",
+      "ベトナムコーヒー"
+    ]
   },
   {
     "id": "kodoku_no_gurume-ffd5b85c-",
@@ -15954,7 +16066,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "稲田堤駅",
-    "description": "孤独のグルメ Season5 第1話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第1話に登場した川崎の韓国焼肉店。ガーリックハラミ・サムギョプサル・タン塩・上カルビを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140506/14014221/",
     "hotpepper_url": "",
@@ -15962,7 +16074,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/g3fOnmHzwDffVnbMFIlNFZ4Xkqp.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ガーリックハラミ",
+      "サムギョプサル",
+      "タン塩",
+      "上カルビ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f9b4f23d-",
@@ -15984,7 +16102,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "清澄白河駅",
-    "description": "清澄白河のポパイベーコンとサンマクンセイ刺",
+    "description": "孤独のグルメ Season5 第2話に登場した清澄白河の洋食居酒屋。ポパイベーコン・サンマクンセイ刺・煮込みを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131303/13083755/",
     "hotpepper_url": "",
@@ -15992,7 +16110,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pHNbjdRaxVZqvFMywPVFD3m74EL.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ポパイベーコン",
+      "サンマクンセイ刺",
+      "煮込み"
+    ]
   },
   {
     "id": "kodoku_no_gurume-eae57f73-",
@@ -16014,7 +16137,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "西荻窪駅",
-    "description": "西荻窪のラム肉のハンバーグと野菜のクスクス",
+    "description": "孤独のグルメ Season5 第3話に登場した西荻窪のチュニジア料理店。ハリラスープ・ラム肉ハンバーグ・野菜のクスクスを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131907/13245434/",
     "hotpepper_url": "",
@@ -16022,7 +16145,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/7tUis6fRgNqHZVh3tmeb1vPzuuM.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ハリラスープ",
+      "卵のブリック",
+      "ラム肉のハンバーグ",
+      "野菜のクスクス"
+    ]
   },
   {
     "id": "kodoku_no_gurume-7cec1f08-",
@@ -16044,7 +16173,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season5 第4話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第4話に登場した台湾・宜蘭の葱料理店。葱餡餅・三星葱臘肉・紅糟排骨・蛤仔湯を注文。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -16052,7 +16181,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gcyAJ9NB3YKikEO1GT4Fyffb5TW.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "葱餡餅",
+      "三星葱臘肉",
+      "紅糟排骨",
+      "蛤仔湯"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f6f011b2-",
@@ -16074,7 +16209,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season5 第5話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第5話に登場した台湾・台北永楽市場の担仔麺店。鶏肉飯・乾麺・下水湯を注文。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -16082,7 +16217,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dcWx6OBRUthG6ltOVfnT3HNdJvY.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "鶏肉飯",
+      "乾麺",
+      "下水湯",
+      "おかず盛り合わせ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-b72fcfb5-",
@@ -16104,7 +16245,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "大岡山駅",
-    "description": "孤独のグルメ Season5 第6話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第6話に登場した目黒・大岡山の漁師料理店。九絵定食（カンパチ・ヒラメ等の刺身）となめろう冷茶漬けを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131711/13040797/",
     "hotpepper_url": "",
@@ -16112,7 +16253,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/yo6k2Rb3AtvM9XTomkbt7lvbmqX.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "九絵定食",
+      "なめろう冷茶漬け"
+    ]
   },
   {
     "id": "kodoku_no_gurume-504b7c74-",
@@ -16134,7 +16279,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "千歳船橋駅",
-    "description": "孤独のグルメ Season5 第7話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第7話に登場した千歳船橋のジンギスカン店。ラム肩ロース・ラムチョップ・せせり・羊の薬膳スープを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131813/13186177/",
     "hotpepper_url": "",
@@ -16142,7 +16287,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xS7NmkKrQoRPuyd2rMPtsQ5Nwe1.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ラム肩ロース",
+      "ラムチョップ",
+      "せせり",
+      "羊の薬膳スープ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-a0e5cd01-",
@@ -16164,7 +16315,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "代々木上原駅",
-    "description": "孤独のグルメ Season5 第8話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第8話に登場した代々木上原のブータン料理店。モモ（蒸し餃子）・エマダツィ（唐辛子とチーズ）・ツェリンマ茶を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13039628/",
     "hotpepper_url": "",
@@ -16172,7 +16323,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/zClUYsjvs7Uffmgue2mFW55Snaq.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ホゲ",
+      "モモ（ブータン式蒸し餃子）",
+      "エマダツィ",
+      "ツェリンマ茶"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8035f493-",
@@ -16194,7 +16351,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "錦糸町駅",
-    "description": "孤独のグルメ Season5 第10話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第10話に登場した亀戸の中国料理店。牛レバーをぎっしり盛った「純レバ丼」を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13018014/",
     "hotpepper_url": "",
@@ -16202,7 +16359,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tUnytmP69Wms8SpFvlv51PK47bW.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "純レバ丼"
+    ]
   },
   {
     "id": "kodoku_no_gurume-sawa-",
@@ -16224,7 +16384,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "せんげん台駅",
-    "description": "せんげん台のアメリカンソースのオムライスとカキのムニエル",
+    "description": "孤独のグルメ Season5 第11話に登場した越谷の洋食店。カキのムニエル・アメリカンソースのオムライス・自家製ババロアを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1102/A110204/11002717/",
     "hotpepper_url": "",
@@ -16232,7 +16392,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/hTNP3OCD8gYj7qV2jFNOCGHRVGO.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カキのムニエル",
+      "アメリカンソースのオムライス",
+      "ブルスケッタ",
+      "自家製ババロア"
+    ]
   },
   {
     "id": "kodoku_no_gurume-3b5684a9-",
@@ -16254,7 +16420,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "西巣鴨駅",
-    "description": "孤独のグルメ Season5 第12話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season5 第12話に登場した西巣鴨のしゃぶしゃぶ・すき焼き店。上州牛の「上州すきやき定食」をひとりで注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1322/A132201/13012319/",
     "hotpepper_url": "",
@@ -16262,7 +16428,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/kxv7jdhOBNXOGj7ZT2A6m8gDkRq.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "上州すきやき定食"
+    ]
   },
   {
     "id": "kodoku_no_gurume-51019084-",
@@ -16284,7 +16453,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "美章園駅",
-    "description": "孤独のグルメ Season6 第1話に登場したもんじゃ店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第1話に登場した大阪のお好み焼き店。豚玉定食・焼きそばデラックス・タコネギを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27014344/",
     "hotpepper_url": "",
@@ -16292,7 +16461,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/4q46LrYS95U4b3NirSsdTiyZqE2.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "お好み焼き（豚玉）定食",
+      "焼きそばのデラックス",
+      "タコネギ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-2f3b8de2-",
@@ -16314,7 +16488,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "恵比寿駅",
-    "description": "孤独のグルメ Season6 第3話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第3話に登場した目黒の薬膳スープカレー店。シャナイア風ザンギとチキンと野菜のスープカレー（いももちトッピング）を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13149675/",
     "hotpepper_url": "",
@@ -16322,7 +16496,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tPr1eGbk0a2HztvxhJ9mohZQheH.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "シャナイア風ザンギ",
+      "チキンと野菜のスープカレー",
+      "自家製バニラアイス"
+    ]
   },
   {
     "id": "kodoku_no_gurume-26de77d7-",
@@ -16344,7 +16523,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "三軒茶屋駅",
-    "description": "孤独のグルメ Season6 第5話に登場した寿司店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第5話に登場した三軒茶屋の寿司店。マグロの赤身・ひかり三種・あぶり穴子・うに・大赤えびを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13082443/",
     "hotpepper_url": "",
@@ -16352,7 +16531,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ezkdcB2nmYSCIJWtaNB9LzYB2CE.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "マグロの赤身",
+      "ひかり三種",
+      "あぶり穴子",
+      "うに",
+      "大赤えび"
+    ]
   },
   {
     "id": "kodoku_no_gurume-e8b0cb92-",
@@ -16374,7 +16560,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "高田馬場駅",
-    "description": "高田馬場のシャン風豚高菜漬炒めと牛スープそば",
+    "description": "孤独のグルメ Season6 第6話に登場した新宿のシャン料理店。お茶葉サラダ・シャン風豚高菜漬け炒め・牛スープそば・揚げパンを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13009115/",
     "hotpepper_url": "",
@@ -16382,7 +16568,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/5oy81tlQqDcZT8uykZ7D7kcJlA1.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "お茶葉サラダ",
+      "シャン風豚高菜漬け炒め",
+      "牛スープそば",
+      "イチャクゥエ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-5e28c0e3-",
@@ -16404,7 +16596,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "渋谷駅",
-    "description": "孤独のグルメ Season6 第7話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第7話に登場した渋谷の長崎料理店。皿うどん（柔麺）・春巻き・特製ちゃんぽんを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13281342/",
     "hotpepper_url": "",
@@ -16412,7 +16604,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/5GcMEKRVXugxQoa79Ye6rkPwJYg.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "皿うどん（柔麺）",
+      "春巻き",
+      "特製ちゃんぽん"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f2fdd7f6-",
@@ -16434,7 +16631,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "御徒町駅",
-    "description": "孤独のグルメ Season6 第8話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第8話に登場した台東区の羊肉料理店。ラム肉と長葱炒め・ラム肉焼売・ラムスペアリブを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13200566/",
     "hotpepper_url": "",
@@ -16442,7 +16639,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/5oy81tlQqDcZT8uykZ7D7kcJlA1.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ラム肉と長葱炒め",
+      "ラム肉焼売",
+      "ラムスペアリブ",
+      "白身魚とラム肉のスープ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-dac2b4f0-",
@@ -16464,7 +16667,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "戸越銀座駅",
-    "description": "孤独のグルメ Season6 第9話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第9話に登場した品川のスペイン料理店。マッシュルームの鉄板焼き・サルスエラ・イカ墨のパエリアを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131710/13286820/",
     "hotpepper_url": "",
@@ -16472,7 +16675,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/AddEA5Rf02116ARVVMtGGEVA9E0.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "マッシュルームの鉄板焼き",
+      "サルスエラ",
+      "イカ墨のパエリア",
+      "タラのアリオリソース焼き"
+    ]
   },
   {
     "id": "kodoku_no_gurume-83ea2596-",
@@ -16494,7 +16703,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "浜金谷駅",
-    "description": "孤独のグルメ Season6 第10話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第10話に登場した千葉・富津の海辺の定食屋。アジフライ定食にさんが焼き・肉じゃがを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1206/A120603/12035117/",
     "hotpepper_url": "",
@@ -16502,7 +16711,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/cAKIri4ePi13bFxJm9ipjdfAUaV.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "アジフライ定食",
+      "さんが焼き",
+      "肉じゃが"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f7531f88-",
@@ -16524,7 +16738,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "本駒込駅",
-    "description": "孤独のグルメ Season6 第11話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第11話に登場した文京区の中国料理店。冷やしタンタン麺・アボカドのセイロ蒸し・日高四元豚の回鍋肉を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13276558/",
     "hotpepper_url": "",
@@ -16532,7 +16746,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ch8mNgUYLvL1ayVOXwnhhQvV0B.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "冷やしタンタン麺",
+      "アボカドのセイロ蒸し",
+      "日高四元豚の回鍋肉",
+      "白御飯"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9ec04f1e-",
@@ -16554,7 +16774,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "五反田駅",
-    "description": "孤独のグルメ Season6 第12話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season6 第12話に登場した品川の創作和食店。ウニ・オン・ザ・煮玉子・キンキと茄子の包み焼き・牛ご飯を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131603/13187669/",
     "hotpepper_url": "",
@@ -16562,7 +16782,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8sxuMuYdiXv5YQTKxYBX95CVuXV.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ウニ・オン・ザ・煮玉子",
+      "キンキと茄子の包み焼き",
+      "牛ご飯",
+      "揚げトウモロコシ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-2d40fc9e-",
@@ -16584,7 +16810,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "上尾駅",
-    "description": "孤独のグルメ Season7 第1話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第1話に登場した埼玉・上尾の定食屋。肩ロースカツ定食を各種ソースで楽しんだ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1104/A110401/11043868/",
     "hotpepper_url": "",
@@ -16592,7 +16818,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/2sFHH8qViGbMmE9UGdCZ52tuF2o.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "肩ロースカツ定食"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8fc55f6d-",
@@ -16614,7 +16843,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "町田駅",
-    "description": "孤独のグルメ Season7 第2話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第2話に登場した世田谷の多国籍バイキング店。マフェ・雑穀混ぜご飯など多品目を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1327/A132701/13284418/",
     "hotpepper_url": "",
@@ -16622,7 +16851,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rchoKeBZTymB3clvMcjnF3dRtp4.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "キンピラゴボウ",
+      "マフェ（ギニア風鶏のシチュー）",
+      "雑穀混ぜご飯",
+      "タラモサラダ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-80dd2276-",
@@ -16644,7 +16879,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "広尾駅",
-    "description": "南麻布の チョリソのケソ フンディードと鶏肉のピピアンベル",
+    "description": "孤独のグルメ Season7 第3話に登場した南麻布のメキシコ料理店。チョリソのケソフンディードと鶏肉のピピアンベルデを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13045856/",
     "hotpepper_url": "",
@@ -16652,7 +16887,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8hjRTBjWIpDvQxqJbphHj0hzOaY.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チョリソのケソフンディード",
+      "鶏肉のピピアンベルデ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-6fea294b-",
@@ -16674,7 +16913,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "下仁田駅",
-    "description": "孤独のグルメ Season7 第4話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第4話に登場した群馬・下仁田の中華食堂。タンメンと餃子を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gunma/A1005/A100501/10005946/",
     "hotpepper_url": "",
@@ -16682,7 +16921,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/57R4hORnb4QwdunrixNu5hozPbs.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "タンメン",
+      "餃子"
+    ]
   },
   {
     "id": "kodoku_no_gurume-8ff8f87d-",
@@ -16704,7 +16947,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "下仁田駅",
-    "description": "孤独のグルメ Season7 第4話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第4話に登場した群馬・下仁田のコロムビア。豚のすき焼きを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gunma/A1005/A100501/10005687/",
     "hotpepper_url": "",
@@ -16712,7 +16955,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/57R4hORnb4QwdunrixNu5hozPbs.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "豚のすき焼き"
+    ]
   },
   {
     "id": "kodoku_no_gurume-949508cf-",
@@ -16734,7 +16980,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "御茶ノ水駅",
-    "description": "孤独のグルメ Season7 第5話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第5話に登場した千代田区の中国料理店。2色の麻婆豆腐とワンタン入り滋養スープを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13311831/",
     "hotpepper_url": "",
@@ -16742,7 +16988,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tpc5DlQD83AXhDwTZc2DBEvZoUh.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ワンタン入り滋養スープ",
+      "緑の麻婆豆腐",
+      "赤の麻婆豆腐",
+      "海老と大葉のハルマキ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-0890de3d-",
@@ -16764,7 +17016,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "東向島駅",
-    "description": "孤独のグルメ Season7 第7話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第7話に登場した墨田区のピザ・パスタ店。納豆ピザと辛いパスタを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131203/13040601/",
     "hotpepper_url": "",
@@ -16772,7 +17024,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/v8mDYHlcOFr8QbsnYMxCaCzUR0C.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "納豆のピザ",
+      "辛いパスタ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-50e9e982-",
@@ -16794,7 +17050,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "中野駅",
-    "description": "孤独のグルメ Season7 第8話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第8話に登場した中野の鶏料理居酒屋。チキン南蛮・地鶏もも串を注文し、串をご飯に乗せて地鶏もも丼にした。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13049477/",
     "hotpepper_url": "",
@@ -16802,7 +17058,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xGRX2YJ3QlOpfP82JD3WIhel6rx.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チキン南蛮",
+      "地鶏もも串",
+      "地鶏もも丼"
+    ]
   },
   {
     "id": "kodoku_no_gurume-97d9d218-",
@@ -16824,7 +17085,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "西登戸駅",
-    "description": "千葉市の特製ニンニクスープと生鮭のバター焼き",
+    "description": "孤独のグルメ Season7 第11話に登場した千葉・千葉市のレストラン。特製ニンニクスープ・生鮭のバター焼き・カニピラフを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1201/A120103/12000797/",
     "hotpepper_url": "",
@@ -16832,7 +17093,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/u4iJsBK6JUYtDdrHXM9oX1O5aRN.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "特製ニンニクスープ",
+      "生鮭のバター焼き",
+      "カニピラフ",
+      "ガーリックトースト"
+    ]
   },
   {
     "id": "kodoku_no_gurume-6dfc42b1-",
@@ -16854,7 +17121,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "元町・中華街駅",
-    "description": "孤独のグルメ Season8 第1話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第1話に登場した横浜中華街の広東料理店。腸詰め干し肉貝柱釜飯・香港海老雲呑麺を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14064517/",
     "hotpepper_url": "",
@@ -16862,7 +17129,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/radX6AzCuOaP0GhOmkCuihfi8JF.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "腸詰め干し肉貝柱釜飯",
+      "香港海老雲呑麺",
+      "アヒルのパリパリ揚げ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-ae19e1a8-",
@@ -16884,7 +17156,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "銀座駅",
-    "description": "孤独のグルメ Season8 第3話に登場した和食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第3話に登場した銀座の洋食店。ロールキャベツ定食（紅白なます・味噌汁付き）を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13170099/",
     "hotpepper_url": "",
@@ -16892,7 +17164,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/dR2wWfh0tY3lLouAYo0nszND8aB.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ロールキャベツ定食"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f06c8c10-",
@@ -16914,7 +17189,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "保谷駅",
-    "description": "新座市の肉汁うどんと西東京市ひばりが丘のカステラパンケーキ",
+    "description": "孤独のグルメ Season8 第4話に登場した埼玉・新座の手打ちうどん店。田舎うどん（中もり）・肉汁・五目野菜汁・おむすびを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110301/11062127/",
     "hotpepper_url": "",
@@ -16922,7 +17197,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "田舎うどん",
+      "肉汁",
+      "五目野菜汁",
+      "おむすび（あげ玉ごま）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-265d5f69-",
@@ -16944,7 +17225,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "ひばりヶ丘駅",
-    "description": "新座市の肉汁うどんと西東京市ひばりが丘のカステラパンケーキ",
+    "description": "孤独のグルメ Season8 第4話に登場したカフェ。無塩バター・メープルシロップ添えのカステラパンケーキを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1328/A132801/13191253/",
     "hotpepper_url": "",
@@ -16952,7 +17233,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カステラパンケーキ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-a27b3ef5-",
@@ -16974,7 +17258,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "群馬藤岡駅",
-    "description": "孤独のグルメ Season8 第5話に登場した焼肉店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第5話に登場した群馬・藤岡の焼肉店。豚ロース・豚カルビ・牛上カルビ・キムチを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gunma/A1005/A100502/10003191/",
     "hotpepper_url": "",
@@ -16982,7 +17266,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/hfSa3hfT9j08FaWTnZ1cjmUR4yD.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "豚ロース",
+      "豚カルビ",
+      "牛上カルビ",
+      "キムチ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-028297e5-",
@@ -17004,7 +17294,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "浅草駅",
-    "description": "孤独のグルメ Season8 第6話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第6話に登場した浅草のタイ・イサーン料理店。チムチュム・ナムトックムー（ローストポークサラダ）を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13211345/",
     "hotpepper_url": "",
@@ -17012,7 +17302,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/t3yckej5Tmkf0w9b2Aohen8snRZ.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チムチュム（イサーン風ハーブ鍋）",
+      "ナムトックムー",
+      "ジャスミンライス"
+    ]
   },
   {
     "id": "kodoku_no_gurume-f729085e-",
@@ -17034,7 +17329,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "鳥取駅",
-    "description": "孤独のグルメ Season8 第8話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第8話に登場した鳥取市役所の食堂。うどん出汁に中華麺が入った鳥取名物「スラーメン」を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tottori/A3101/A310101/31002791/",
     "hotpepper_url": "",
@@ -17042,7 +17337,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/qMX38FeLmlsc8RVdcJGNzAqJlNx.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "スラーメン"
+    ]
   },
   {
     "id": "kodoku_no_gurume-9f166978-",
@@ -17064,7 +17362,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "鳥取駅",
-    "description": "孤独のグルメ Season8 第8話に登場したラーメン店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第8話に登場した鳥取のホルモン店。オーカク（塩）・ホルモンそば・サイコロステーキを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tottori/A3101/A310101/31001933/",
     "hotpepper_url": "",
@@ -17072,7 +17370,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/qMX38FeLmlsc8RVdcJGNzAqJlNx.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "オーカク（塩）",
+      "ホルモンそば",
+      "サイコロステーキ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-d48b48bf-",
@@ -17094,7 +17397,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "小川町駅",
-    "description": "御茶ノ水の南インドのカレー定食とガーリックチーズドーサ",
+    "description": "孤独のグルメ Season8 第9話に登場した御茶ノ水の南インド料理店。南インドカレー定食ミールスとガーリックチーズドーサを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13234867/",
     "hotpepper_url": "",
@@ -17102,7 +17405,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/icid89a9wXT7XsDwa4UVWKJ4NEy.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "サントウシャミールス",
+      "ガーリックチーズドーサ",
+      "濃厚ラッシー"
+    ]
   },
   {
     "id": "kodoku_no_gurume-de3c1971-",
@@ -17124,7 +17432,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "豪徳寺駅",
-    "description": "豪徳寺のぶりの照焼き定食とクリームコロッケ",
+    "description": "孤独のグルメ Season8 第10話に登場した豪徳寺の和食店。ぶりの照焼き定食・月見とろろ・クリームコロッケを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131813/13013832/",
     "hotpepper_url": "",
@@ -17132,7 +17440,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/t7CTJnVwZOzXnac9eeOQaQBplUA.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ぶりの照焼き定食",
+      "月見とろろ",
+      "クリームコロッケ",
+      "お刺身"
+    ]
   },
   {
     "id": "kodoku_no_gurume-1fa251f2-",
@@ -17154,7 +17468,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "武蔵小杉駅",
-    "description": "孤独のグルメ Season8 第11話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第11話に登場した武蔵小杉のジンギスカン店。チャックロール ネギ塩焼き・ジンギスカンセット3種を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14003439/",
     "hotpepper_url": "",
@@ -17162,7 +17476,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/swDb7laJQkBLuKUAIwf0lO2qLlv.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チャックロール ネギ塩焼き",
+      "ジンギスカンセット",
+      "ハム（骨付き）"
+    ]
   },
   {
     "id": "kodoku_no_gurume-0355d3c9-",
@@ -17184,7 +17503,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "三ノ輪駅",
-    "description": "孤独のグルメ Season8 第12話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season8 第12話に登場した三ノ輪の中華・洋食店。カツ丼 上・冷し麻婆麺・餃子を注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13073525/",
     "hotpepper_url": "",
@@ -17192,7 +17511,12 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/6uOUOoLoRb0Tr7UOv5D7rNgQ0.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "カツ丼 上",
+      "冷し麻婆麺",
+      "餃子"
+    ]
   },
   {
     "id": "kodoku_no_gurume-6b42b0e8-",
@@ -17204,7 +17528,7 @@
     "lat": 35.5306639,
     "lng": 139.7037668,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第1話",
+    "source_video_title": "孤独のグルメ Season9 第1話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17234,7 +17558,7 @@
     "lat": 37.2159314,
     "lng": 140.4783548,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第2話",
+    "source_video_title": "孤独のグルメ Season9 第2話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17264,7 +17588,7 @@
     "lat": 35.6580089,
     "lng": 139.7515137,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第3話",
+    "source_video_title": "孤独のグルメ Season9 第3話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17294,7 +17618,7 @@
     "lat": 35.6693751,
     "lng": 139.4774094,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第4話",
+    "source_video_title": "孤独のグルメ Season9 第4話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17324,7 +17648,7 @@
     "lat": 34.9656621,
     "lng": 139.101729,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第5話",
+    "source_video_title": "孤独のグルメ Season9 第5話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17354,7 +17678,7 @@
     "lat": 35.725913,
     "lng": 139.7166365,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第6話",
+    "source_video_title": "孤独のグルメ Season9 第6話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17384,7 +17708,7 @@
     "lat": 35.7433912,
     "lng": 139.8473472,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第7話",
+    "source_video_title": "孤独のグルメ Season9 第7話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17414,7 +17738,7 @@
     "lat": 36.3220984,
     "lng": 139.0032758,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第8話",
+    "source_video_title": "孤独のグルメ Season9 第8話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17444,7 +17768,7 @@
     "lat": 36.3220984,
     "lng": 139.0032758,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第8話",
+    "source_video_title": "孤独のグルメ Season9 第8話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17474,7 +17798,7 @@
     "lat": 37.404937,
     "lng": 140.333381,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第9話",
+    "source_video_title": "孤独のグルメ Season9 第9話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -17504,7 +17828,7 @@
     "lat": 35.725913,
     "lng": 139.7166365,
     "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season8 第11話",
+    "source_video_title": "孤独のグルメ Season9 第11話",
     "visited_date": "",
     "members": [
       "井之頭五郎"
@@ -21831,7 +22155,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "孤独のグルメ Season7 第9話に登場した飲食店。井之頭五郎が訪問。",
+    "description": "孤独のグルメ Season7 第9話に登場した韓国・全州の韓食店。納豆チゲセットとセルフビビンパを注文。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -21839,7 +22163,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/r0JvXfeuQR6bd1bjChMx3OqhOUB.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "納豆チゲセット",
+      "セルフビビンパ"
+    ]
   },
   {
     "id": "kodoku_no_gurume-1f04386e-",
@@ -21861,7 +22189,7 @@
     ],
     "group": "kodoku_no_gurume",
     "nearest_station": "",
-    "description": "ソウル特別市の骨付き豚カルビとおかずの群れ",
+    "description": "孤独のグルメ Season7 第10話に登場したソウルの炭火焼カルビ店。デジカルビ・骨付き豚カルビ・テンジャンチゲを注文。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -21869,6 +22197,11 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/62ZgcmvuS26syHQVbl3cFAiTL6z.jpg",
     "source_type": "drama",
     "tmdb_id": 55582,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "デジカルビ（豚カルビ）",
+      "テンジャンチゲ",
+      "骨付き豚カルビ"
+    ]
   }
 ]

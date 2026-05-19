@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "どん平"
-description: "孤独のグルメ Season3 第10話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第10話に登場した荒川区の定食・鍋料理店。炎の酒鍋セットととんかつ麦とろセット定食を注文。"
 shop_id: "kodoku_no_gurume-dc8b82e8-"
 name: "どん平"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "炎の酒鍋セット"
+  - "とんかつ麦とろミニミニセット定食"
 ---

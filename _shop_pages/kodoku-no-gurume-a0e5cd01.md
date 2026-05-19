@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ガテモタブン"
-description: "孤独のグルメ Season5 第8話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season5 第8話に登場した代々木上原のブータン料理店。モモ（蒸し餃子）・エマダツィ（唐辛子とチーズ）・ツェリンマ茶を注文。"
 shop_id: "kodoku_no_gurume-a0e5cd01-"
 name: "ガテモタブン"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ホゲ"
+  - "モモ（ブータン式蒸し餃子）"
+  - "エマダツィ"
+  - "ツェリンマ茶"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "토방"
-description: "孤独のグルメ Season7 第9話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season7 第9話に登場した韓国・全州の韓食店。納豆チゲセットとセルフビビンパを注文。"
 shop_id: "kodoku_no_gurume-e63b9158-"
 name: "토방"
 genre: "食事"
@@ -18,4 +18,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "納豆チゲセット"
+  - "セルフビビンパ"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "まつやホルモン店"
-description: "孤独のグルメ Season8 第8話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season8 第8話に登場した鳥取のホルモン店。オーカク（塩）・ホルモンそば・サイコロステーキを注文。"
 shop_id: "kodoku_no_gurume-9f166978-"
 name: "まつやホルモン店"
 genre: "ラーメン"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "オーカク（塩）"
+  - "ホルモンそば"
+  - "サイコロステーキ"
 ---

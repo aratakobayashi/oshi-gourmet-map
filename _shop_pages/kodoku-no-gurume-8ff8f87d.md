@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "コロムビア"
-description: "孤独のグルメ Season7 第4話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season7 第4話に登場した群馬・下仁田のコロムビア。豚のすき焼きを注文。"
 shop_id: "kodoku_no_gurume-8ff8f87d-"
 name: "コロムビア"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "豚のすき焼き"
 ---

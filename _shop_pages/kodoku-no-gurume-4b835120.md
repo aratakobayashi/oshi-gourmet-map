@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なじみ亭"
-description: "孤独のグルメ Season4 第2話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第2話に登場した日本橋の韓国料理店。韓国風天ぷら・鱈の餃子・チャプチェ・参鶏湯ラーメンを注文。"
 shop_id: "kodoku_no_gurume-4b835120-"
 name: "なじみ亭"
 genre: "ラーメン"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "韓国風天ぷら"
+  - "鱈の餃子"
+  - "チャプチェ"
+  - "参鶏湯ラーメン"
 ---

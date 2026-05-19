@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "キャラヴァンサライ包"
-description: "孤独のグルメ Season3 第5話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第5話に登場した中野のアフガン・パキスタン料理店。カバブ・ラムロースのたたき・アフガン風混ぜ麺ラグマンを注文。"
 shop_id: "kodoku_no_gurume-bba64785-"
 name: "キャラヴァンサライ包"
 genre: "和食"
@@ -20,4 +20,10 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カバブ"
+  - "コフタ"
+  - "ラムロースのたたき"
+  - "カラヒィ"
+  - "ラグマン"
 ---

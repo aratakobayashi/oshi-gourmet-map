@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "サルシータ"
-description: "南麻布の チョリソのケソ フンディードと鶏肉のピピアンベル"
+description: "孤独のグルメ Season7 第3話に登場した南麻布のメキシコ料理店。チョリソのケソフンディードと鶏肉のピピアンベルデを注文。"
 shop_id: "kodoku_no_gurume-80dd2276-"
 name: "サルシータ"
 genre: "食事"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "チョリソのケソフンディード"
+  - "鶏肉のピピアンベルデ"
 ---

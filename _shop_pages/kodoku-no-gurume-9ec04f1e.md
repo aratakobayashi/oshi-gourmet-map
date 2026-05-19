@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "食堂とだか"
-description: "孤独のグルメ Season6 第12話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第12話に登場した品川の創作和食店。ウニ・オン・ザ・煮玉子・キンキと茄子の包み焼き・牛ご飯を注文。"
 shop_id: "kodoku_no_gurume-9ec04f1e-"
 name: "食堂とだか"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ウニ・オン・ザ・煮玉子"
+  - "キンキと茄子の包み焼き"
+  - "牛ご飯"
+  - "揚げトウモロコシ"
 ---

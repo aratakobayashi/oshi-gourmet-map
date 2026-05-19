@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カトリカ"
-description: "孤独のグルメ Season7 第7話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season7 第7話に登場した墨田区のピザ・パスタ店。納豆ピザと辛いパスタを注文。"
 shop_id: "kodoku_no_gurume-0890de3d-"
 name: "カトリカ"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "納豆のピザ"
+  - "辛いパスタ"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "わさび園 かどや"
-description: "孤独のグルメ Season3 第3話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season3 第3話に登場した静岡・河津のわさび園食事処。生わさびをご飯にのせた「わさび丼」を注文。"
 shop_id: "kodoku_no_gurume-14e24ebe-"
 name: "わさび園 かどや"
 genre: "食事"
@@ -20,4 +20,6 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "わさび丼"
 ---

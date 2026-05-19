@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "THI THI"
-description: "孤独のグルメ Season4 第11話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第11話に登場した大田区のベトナム料理店。海老の生春巻き・とりおこわ・ブンボーフエ・ベトナムコーヒーを注文。"
 shop_id: "kodoku_no_gurume-thi_thi-"
 name: "THI THI"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "海老の生春巻き"
+  - "とりおこわ"
+  - "ブンボーフエ"
+  - "ベトナムコーヒー"
 ---

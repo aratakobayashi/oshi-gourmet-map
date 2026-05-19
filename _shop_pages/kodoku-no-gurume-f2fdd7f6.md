@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "羊香味坊"
-description: "孤独のグルメ Season6 第8話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第8話に登場した台東区の羊肉料理店。ラム肉と長葱炒め・ラム肉焼売・ラムスペアリブを注文。"
 shop_id: "kodoku_no_gurume-f2fdd7f6-"
 name: "羊香味坊"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ラム肉と長葱炒め"
+  - "ラム肉焼売"
+  - "ラムスペアリブ"
+  - "白身魚とラム肉のスープ"
 ---

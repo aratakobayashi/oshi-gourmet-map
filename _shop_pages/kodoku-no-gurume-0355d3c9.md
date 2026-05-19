@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中華・洋食 やよい"
-description: "孤独のグルメ Season8 第12話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season8 第12話に登場した三ノ輪の中華・洋食店。カツ丼 上・冷し麻婆麺・餃子を注文。"
 shop_id: "kodoku_no_gurume-0355d3c9-"
 name: "中華・洋食 やよい"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カツ丼 上"
+  - "冷し麻婆麺"
+  - "餃子"
 ---

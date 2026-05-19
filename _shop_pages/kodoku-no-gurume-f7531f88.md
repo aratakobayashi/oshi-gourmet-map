@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "豊栄(移転)"
-description: "孤独のグルメ Season6 第11話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season6 第11話に登場した文京区の中国料理店。冷やしタンタン麺・アボカドのセイロ蒸し・日高四元豚の回鍋肉を注文。"
 shop_id: "kodoku_no_gurume-f7531f88-"
 name: "豊栄(移転)"
 genre: "和食"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "冷やしタンタン麺"
+  - "アボカドのセイロ蒸し"
+  - "日高四元豚の回鍋肉"
+  - "白御飯"
 ---

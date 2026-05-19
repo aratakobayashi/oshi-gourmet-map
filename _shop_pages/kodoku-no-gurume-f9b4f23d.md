@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "だるま"
-description: "清澄白河のポパイベーコンとサンマクンセイ刺"
+description: "孤独のグルメ Season5 第2話に登場した清澄白河の洋食居酒屋。ポパイベーコン・サンマクンセイ刺・煮込みを注文。"
 shop_id: "kodoku_no_gurume-f9b4f23d-"
 name: "だるま"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ポパイベーコン"
+  - "サンマクンセイ刺"
+  - "煮込み"
 ---

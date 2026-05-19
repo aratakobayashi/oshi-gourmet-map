@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乙姫"
-description: "孤独のグルメ Season4 第5話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season4 第5話に登場した愛知・日間賀島の海鮮店。赤車海老・大あさり焼き・しらす天ぷら・たこめしを注文。"
 shop_id: "kodoku_no_gurume-980f8c82-"
 name: "乙姫"
 genre: "和食"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "赤車海老"
+  - "大あさり焼き"
+  - "しらす天ぷら"
+  - "たこめし"
 ---
