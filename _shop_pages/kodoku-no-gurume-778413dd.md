@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ライカノ"
-description: "孤独のグルメ Season2 第11話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第11話に登場した足立区・北千住のタイ料理店。カラン・ミンチ肉炒め・汁なし麺・タイ焼き菓子カノムトーイを注文。"
 shop_id: "kodoku_no_gurume-778413dd-"
 name: "ライカノ"
 genre: "食事"
@@ -20,4 +20,10 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カラン"
+  - "ミンチ肉タイ香草炒め"
+  - "タイ東北ソーセージ"
+  - "鶏のせ汁なし麺"
+  - "カノムトーイ"
 ---

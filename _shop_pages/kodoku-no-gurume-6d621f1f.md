@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "割烹ちゃんこ 大内"
-description: "孤独のグルメ Season2 第8話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第8話に登場した両国のちゃんこ鍋店。鳥そっぷ鍋にうどんを入れて締める相撲部屋ゆかりの一品を注文。"
 shop_id: "kodoku_no_gurume-6d621f1f-"
 name: "割烹ちゃんこ 大内"
 genre: "和食"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "鳥そっぷ鍋"
+  - "うどん"
 ---

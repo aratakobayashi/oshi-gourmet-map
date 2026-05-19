@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "平和苑"
-description: "孤独のグルメ Season2 第3話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第3話に登場した中野・沼袋の焼肉店。わさびカルビと卵かけご飯というシンプルな組み合わせを注文。"
 shop_id: "kodoku_no_gurume-204cec7f-"
 name: "平和苑"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "わさびカルビ"
+  - "卵かけご飯"
 ---

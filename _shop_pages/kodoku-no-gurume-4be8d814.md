@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "キッチン友"
-description: "孤独のグルメ Season2 第5話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第5話に登場した横浜・白楽の洋食店。スペシャル友風焼き・とん汁・ハムポテトサラダを注文。"
 shop_id: "kodoku_no_gurume-4be8d814-"
 name: "キッチン友"
 genre: "食事"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "スペシャル友風焼き"
+  - "とん汁"
+  - "ハムポテトサラダ"
 ---

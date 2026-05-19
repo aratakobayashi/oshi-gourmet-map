@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "天ぷら 中山"
-description: "孤独のグルメ Season2 第2話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第2話に登場した日本橋人形町の天ぷら店。めごち・はす・玉ねぎの天ぷらから締めに黒天丼を注文。"
 shop_id: "kodoku_no_gurume-1804d39a-"
 name: "天ぷら 中山"
 genre: "和食"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "めごちの天ぷら"
+  - "はすの天ぷら"
+  - "玉ねぎの天ぷら"
+  - "黒天丼"
 ---

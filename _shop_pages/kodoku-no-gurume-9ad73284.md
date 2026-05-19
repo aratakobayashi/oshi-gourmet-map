@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お食事 樹"
-description: "孤独のグルメ Season2 第12話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第12話に登場した三鷹の定食屋。ぶり大根・ナス味噌炒め・コロッケ・鴨とハーブ漬けを注文。"
 shop_id: "kodoku_no_gurume-9ad73284-"
 name: "お食事 樹"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ぶり大根"
+  - "ナス味噌炒め"
+  - "コロッケ"
+  - "鴨とハーブ漬け"
 ---

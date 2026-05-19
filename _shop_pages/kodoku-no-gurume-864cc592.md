@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "三ちゃん食堂"
-description: "孤独のグルメ Season2 第1話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season2 第1話に登場した川崎・新丸子の大衆食堂。みょうがの天ぷら・ネギ肉イタメ・海鮮春巻きなど個性的なメニューを注文。"
 shop_id: "kodoku_no_gurume-864cc592-"
 name: "三ちゃん食堂"
 genre: "食事"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "みょうがの天ぷら"
+  - "チーズ入りウインナー"
+  - "ネギ肉イタメ"
+  - "海鮮春巻き"
 ---
