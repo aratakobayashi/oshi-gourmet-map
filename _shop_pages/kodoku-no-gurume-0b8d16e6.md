@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "つるや"
-description: "孤独のグルメ Season1 第8話に登場した焼肉店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第8話に登場した川崎の焼肉店。カルビ・ハラミ・コプチャン・ジンギスカン・シビレと多品目を堪能。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"
 genre: "焼肉"
@@ -20,4 +20,10 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "カルビ"
+  - "ハラミ"
+  - "コプチャン"
+  - "ジンギスカン"
+  - "シビレ"
 ---

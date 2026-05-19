@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みやこや"
-description: "孤独のグルメ Season1 第6話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第6話に登場した洋食・定食屋。ロースにんにく焼とミックスかつ定食を注文。"
 shop_id: "kodoku_no_gurume-9af9d10b-"
 name: "みやこや"
 genre: "食事"
@@ -20,4 +20,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ロースにんにく焼"
+  - "ミックスかつ定食"
 ---

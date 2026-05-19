@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "庄助"
-description: "孤独のグルメ Season1 第1話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第1話に登場した焼き鳥・居酒屋。ねぎま・なんこつ・砂肝など焼き鳥多品目と焼きめしを注文。"
 shop_id: "kodoku_no_gurume-fda4752d-"
 name: "庄助"
 genre: "和食"
@@ -20,4 +20,13 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ねぎま"
+  - "なんこつ"
+  - "砂肝"
+  - "レバー"
+  - "つくね"
+  - "信玄袋"
+  - "ほっけスティック"
+  - "焼きめし"
 ---

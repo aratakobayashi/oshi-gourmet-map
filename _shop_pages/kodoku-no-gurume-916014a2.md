@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "和食亭"
-description: "孤独のグルメ Season1 第2話に登場した和食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第2話に登場した和食の定食屋。煮魚定食にひじき煮浸し・ほうれん草のごま和えを注文。"
 shop_id: "kodoku_no_gurume-916014a2-"
 name: "和食亭"
 genre: "和食"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "煮魚定食"
+  - "ひじき煮浸し"
+  - "ほうれん草のごま和え"
 ---

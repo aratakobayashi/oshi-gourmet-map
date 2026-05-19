@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ヒロキ 下北沢店"
-description: "孤独のグルメ Season1 第9話に登場したもんじゃ店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第9話に登場した下北沢の広島風お好み焼き店。HIROKIスペシャル（そば入り）を注文。"
 shop_id: "kodoku_no_gurume-8a525c29-"
 name: "ヒロキ 下北沢店"
 genre: "もんじゃ"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "HIROKIスペシャル"
+  - "タコ広島ネギ焼き"
+  - "ホタテガーリック焼き"
 ---

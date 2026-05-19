@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SokaBokka"
-description: "孤独のグルメ Season1 第12話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第12話に登場した中目黒の沖縄料理店。アグー豚塩焼き・タコライス・ソーキそばを注文。"
 shop_id: "kodoku_no_gurume-sokabokka-"
 name: "SokaBokka"
 genre: "ラーメン"
@@ -20,4 +20,9 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "アグー豚塩焼き"
+  - "タコライス"
+  - "ソーキそば"
+  - "にんじんシリシリー"
 ---

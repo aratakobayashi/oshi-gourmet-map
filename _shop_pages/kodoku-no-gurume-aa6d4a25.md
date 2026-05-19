@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "つり堀 武蔵野園"
-description: "孤独のグルメ Season1 第5話に登場したラーメン店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第5話に登場した釣り堀の食事処。焼うどん・親子丼・おしるこを注文。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"
 genre: "ラーメン"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "焼うどん"
+  - "親子丼"
+  - "おしるこ"
 ---

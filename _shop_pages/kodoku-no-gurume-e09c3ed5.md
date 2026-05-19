@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "すみれ"
-description: "孤独のグルメ Season1 第11話に登場した居酒屋。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第11話に登場した文京区の居酒屋。特辛カレーライス・鶏の煮込み・サバのサンドイッチを注文。"
 shop_id: "kodoku_no_gurume-e09c3ed5-"
 name: "すみれ"
 genre: "居酒屋"
@@ -20,4 +20,8 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "特辛カレーライス"
+  - "鶏の煮込み"
+  - "サバのサンドイッチ"
 ---

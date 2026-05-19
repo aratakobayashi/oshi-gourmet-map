@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カヤシマ"
-description: "孤独のグルメ Season1 第7話に登場した飲食店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season1 第7話に登場した吉祥寺の洋食店。ナポリタンとハンバーグを注文。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"
 genre: "食事"
@@ -19,4 +19,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+ordered_items:
+  - "ナポリタン"
+  - "ハンバーグ"
 ---
