@@ -156,4 +156,19 @@ Season6最終話は品川区の創作和食店**食堂とだか**。五郎が頼
 | **文京区** | 第11話 | 豊栄 | 東京メトロ「本郷三丁目駅」 |
 | **品川区（荏原）** | 第12話 | 食堂とだか | 東急「荏原町駅」 |
 
-> **前後のシーズン →** [Season5 聖地巡礼ガイド]({{ '/articles/2026/05/20/kodoku-no-gurume-season5-pilgrimage/' | relative_url }})
+
+---
+
+## 他のシーズンの聖地巡礼
+
+- [Season1 聖地巡礼マップ](/2026/05/19/kodoku-no-gurume-season1-pilgrimage/)
+- [Season2 聖地巡礼マップ](/2026/05/19/kodoku-no-gurume-season2-pilgrimage/)
+- [Season3 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season3-pilgrimage/)
+- [Season4 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season4-pilgrimage/)
+- [Season5 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season5-pilgrimage/)
+- [Season6 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season6-pilgrimage/)
+- [Season7 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season7-pilgrimage/)
+- [Season8 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season8-pilgrimage/)
+- [Season9 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season9-pilgrimage/)
+- [Season10 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season10-pilgrimage/)
+- [年末スペシャル 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-nenmatsu-special-pilgrimage/)
