@@ -1,0 +1,22 @@
+---
+layout: shop
+title: "New NEW YORK CLUB(テイクアウト)"
+description: "食事・東京都・heysayjumpが訪問"
+shop_id: "heysayjump-newnewyorkclubテイクアウト"
+name: "New NEW YORK CLUB(テイクアウト)"
+genre: "食事"
+prefecture: "東京都"
+address: "東京都目黒区緑が丘2-15-14"
+visited_date: "2016-10-26"
+source_video_title: "2016.10.26"
+group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+source_type: "tv"
+lat: 35.6105308
+lng: 139.6758726
+groups:
+  - "heysayjump"
+tags:
+  - "いただきハイジャンプ"
+  - "HeySayJUMP"
+---

@@ -22555,5 +22555,316 @@
       "テンジャンチゲ",
       "骨付き豚カルビ"
     ]
+  },
+  {
+    "id": "snowman-mejirobaro",
+    "name": "Baro (ベロ)",
+    "genre": "食事",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "address": "東京都豊島区西池袋2-1-13",
+    "nearest_station": "「目白駅」より徒歩6分「池袋駅」より徒歩8分",
+    "prefecture": "東京都",
+    "city": "",
+    "youtube_id": "ZcWG2Ra3RcI",
+    "source_video_title": "【すのちゅーぶ】古着屋「Baro (ベロ)」は『あいことば』MVで向井康二・阿部亮平が撮影した場所？SnowManロケ地",
+    "source_video_url": "https://www.youtube.com/watch?v=ZcWG2Ra3RcI",
+    "visited_date": "2025-07-02",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "ordered_items": [],
+    "seating_note": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": [],
+    "lat": 35.7284313,
+    "lng": 139.7017131
+  },
+  {
+    "id": "snowman-machidahuku",
+    "name": "Rapace",
+    "genre": "食事",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "address": "東京都町田市原町田１丁目１０−１７ メゾンドA2",
+    "nearest_station": "「町田駅」より徒歩7分",
+    "prefecture": "東京都",
+    "city": "",
+    "youtube_id": "UhK_38vVRCU",
+    "source_video_title": "【すのちゅーぶ】フクロウカフェ町田「Rapace」予約方法は？SnowManロケ地",
+    "source_video_url": "https://www.youtube.com/watch?v=UhK_38vVRCU",
+    "visited_date": "2025-05-08",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "ordered_items": [],
+    "seating_note": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": [],
+    "lat": 35.5390964,
+    "lng": 139.4480922
+  },
+  {
+    "id": "snowman-hukagawafuj",
+    "name": "深川富士見",
+    "genre": "食事",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "address": "東京都江東区古石場2-18-5",
+    "nearest_station": "「門前仲町駅」より徒歩13分※送迎バスあり",
+    "prefecture": "東京都",
+    "city": "",
+    "youtube_id": "EsGRecRQoZs",
+    "source_video_title": "【すのちゅーぶ】東京湾海釣り「深川富士見」予約方法は？作った料理は？SnowManロケ地",
+    "source_video_url": "https://www.youtube.com/watch?v=EsGRecRQoZs",
+    "visited_date": "2025-05-04",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "ordered_items": [],
+    "seating_note": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": [],
+    "lat": 35.6680295,
+    "lng": 139.7968481
+  },
+  {
+    "id": "snowman-tottekiyaya",
+    "name": "エブリデイとってき屋東京本店",
+    "genre": "食事",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "address": "埼玉県八潮市大字上馬場460-1",
+    "nearest_station": "「草加駅」からバス「井草団地」下車徒歩5分「八潮駅」からバス「井草団地」下車徒歩5分",
+    "prefecture": "",
+    "city": "",
+    "youtube_id": "oYjU9jGyaj4",
+    "source_video_title": "【すのちゅーぶ】埼玉県八潮市クレーンゲーム「エブリデイとってき屋東京本店」SnowManロケ地",
+    "source_video_url": "https://www.youtube.com/watch?v=oYjU9jGyaj4",
+    "visited_date": "2025-04-23",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "ordered_items": [],
+    "seating_note": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": [],
+    "lat": 35.820584,
+    "lng": 139.824916
+  },
+  {
+    "id": "snowman-nanasawasou",
+    "name": "七沢荘",
+    "genre": "食事",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "address": "神奈川県厚木市七沢1830",
+    "nearest_station": "本厚木駅からバス乗車し「広沢寺温泉入口」下車徒歩7分",
+    "prefecture": "",
+    "city": "",
+    "youtube_id": "rbhT4YRDUFM",
+    "source_video_title": "【すのちゅーぶ】神奈川県厚木市「七沢荘」卒業旅行の旅館の予約方法は？日帰り入浴は？SnowManロケ地",
+    "source_video_url": "https://www.youtube.com/watch?v=rbhT4YRDUFM",
+    "visited_date": "2025-04-10",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "ordered_items": [],
+    "seating_note": "",
+    "description": "",
+    "tags": [],
+    "affiliate_links": [],
+    "lat": 35.4510933,
+    "lng": 139.2921472
+  },
+  {
+    "id": "heysayjump-赤ちり亭渋谷本店",
+    "name": "赤ちり亭 渋谷本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都渋谷区宇田川町25　宇田川町センタービルB1",
+    "lat": 35.6603945,
+    "lng": 139.6989446,
+    "youtube_id": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "source_type": "tv",
+    "tmdb_id": 197002,
+    "tmdb_type": "tv",
+    "source_video_title": "2016.03.03",
+    "source_video_url": "",
+    "visited_date": "2016-03-03",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "id": "heysayjump-newnewyorkclubテイクアウト",
+    "name": "New NEW YORK CLUB(テイクアウト)",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都目黒区緑が丘2-15-14",
+    "lat": 35.6105308,
+    "lng": 139.6758726,
+    "youtube_id": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "source_type": "tv",
+    "tmdb_id": 197002,
+    "tmdb_type": "tv",
+    "source_video_title": "2016.10.26",
+    "source_video_url": "",
+    "visited_date": "2016-10-26",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "description": "",
+    "nearest_station": "",
+    "price_range": "",
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "affiliate_links": []
+  },
+  {
+    "name": "伊勢屋食堂",
+    "genre": "和食",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "members": [
+      "井之頭五郎"
+    ],
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区",
+    "nearest_station": "大久保駅",
+    "lat": 35.7046389,
+    "lng": 139.7052761,
+    "youtube_id": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9q9EIOYZU8yzbL0UhS6ChtsUxiY.jpg",
+    "tmdb_id": 55582,
+    "tmdb_type": "tv",
+    "source_type": "drama",
+    "source_video_title": "孤独のグルメ Season6 第2話",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13081288/",
+    "hotpepper_url": "",
+    "description": "淀橋市場の豚バラ生姜焼定食",
+    "tags": [
+      "孤独のグルメ",
+      "Season6",
+      "第2話"
+    ],
+    "affiliate_links": [],
+    "id": "kodoku_no_gurume-伊勢屋食堂"
+  },
+  {
+    "name": "龍朋",
+    "genre": "食事",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "members": [
+      "井之頭五郎"
+    ],
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区",
+    "nearest_station": "神楽坂駅",
+    "lat": 35.7010851,
+    "lng": 139.7412287,
+    "youtube_id": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg",
+    "tmdb_id": 55582,
+    "tmdb_type": "tv",
+    "source_type": "drama",
+    "source_video_title": "孤独のグルメ Season10 第2話",
+    "source_video_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13006446/",
+    "hotpepper_url": "",
+    "description": "シーズン2 エピソード5 – 町中華×東京ホテイソン",
+    "tags": [
+      "孤独のグルメ",
+      "Season10",
+      "第2話"
+    ],
+    "affiliate_links": [],
+    "id": "kodoku_no_gurume-龍朋"
   }
 ]

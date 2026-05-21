@@ -1,0 +1,27 @@
+---
+layout: shop
+title: "龍朋"
+description: "シーズン2 エピソード5 – 町中華×東京ホテイソン"
+shop_id: "kodoku_no_gurume-龍朋"
+name: "龍朋"
+genre: "食事"
+prefecture: "東京都"
+city: "新宿区"
+address: "東京都新宿区"
+nearest_station: "神楽坂駅"
+source_video_title: "孤独のグルメ Season10 第2話"
+group: "kodoku_no_gurume"
+tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13006446/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg"
+source_type: "drama"
+lat: 35.7010851
+lng: 139.7412287
+members:
+  - "井之頭五郎"
+groups:
+  - "kodoku_no_gurume"
+tags:
+  - "孤独のグルメ"
+  - "Season10"
+  - "第2話"
+---
