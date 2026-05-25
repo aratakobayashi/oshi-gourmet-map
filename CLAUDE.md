@@ -107,12 +107,14 @@
 | hinatazaka46 | 日向坂46 | 未確認 | - |
 | sakurazaka46 | 櫻坂46 | 未確認 | - |
 | ginga | 中丸雄一 銀河チャンネル | - | https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7 |
+| shiori | しおりのなんとなく日常 | UCHYa60S50wJ3W-mcTbVQPew | https://www.youtube.com/@nantonakushiori |
 | kamaitachi | かまいたち | UCIR2mQ77wHrLMreV45nYhgw | https://www.youtube.com/@kamaitachi |
 | kodoku_no_gurume | 孤独のグルメ | - | goro-tablog.com（ファンサイト）/ TMDB ID:45753 |
 | heysayjump | Hey! Say! JUMP（いただきハイジャンプ） | UCZgJwFN1PeR8hZZ8A7huuTQ（ファン） | TMDB ID:197002 / e-nini08.hatenadiary.jp |
 
 ### グループカラー（main.js）
 ```javascript
+shiori:       '#ec4899'  // ピンク
 yonino:       '#e8537a'  // ピンク
 snowman:      '#3b82f6'  // ブルー
 sixtones:     '#7c3aed'  // パープル
@@ -162,6 +164,8 @@ heysayjump:        '#ef4444'  // レッド
 | `scrape_kamaitachi.py` | かまいたち動画説明文パース（ロケで行った飲食店まとめ） |
 | `scrape_kodoku.py` | 孤独のグルメ スクレイピング（goro-tablog.com）+ TMDB APIでエピソードスチール取得 |
 | `build_heysayjump.py` | Hey! Say! JUMP（いただきハイジャンプ）ファンブログ抽出済みデータからJSON生成 |
+| `scrape_shiori.py` | しおりのなんとなく日常 YouTubeチャンネル動画取得＋概要欄パース（「店名\nhttps://tabelog...」形式対応） |
+| `geocode_shiori.py` | しおり専用ジオコーダー（tabelog JSON-LD優先 + 丁目形式フォールバック） |
 
 ---
 
@@ -174,8 +178,8 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 
 ---
 
-## 現在の状況（2026-05-14時点）
-- 総店舗数: 695件（equal_love:117 / yonino:97 / sixtones:49 / notme:39 / snowman:40 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / sakurazaka46:3 / heysayjump:46）
+## 現在の状況（2026-05-25時点）
+- 総店舗数: 720件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / snowman:50 / sixtones:49 / heysayjump:48 / notme:39 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / shiori:9 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
 - youtube_idあり: ~350件（74%）
 - thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
 - デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）
@@ -191,7 +195,8 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 - 中丸雄一銀河チャンネル: hatenablog（8888-info.hatenablog.com）スクレイピング → 12件
 - かまいたち: 動画説明文パース（ロケで行った飲食店まとめ 関西・関東編） + rascalブログ → 10件
 - =LOVE / ≠ME / ≒JOY: miruwz7.blog.jp スクレイピング（scrape_miruwz.py） → 181件（equal_love:66 / notme:26 / neajoy:12 + 食品フィルタ補完分77件）
-- 孤独のグルメ: goro-tablog.com スクレイピング（scrape_kodoku.py）+ TMDB APIエピソードスチール → 準備完了（TMDB_API_KEY取得後に実行）
+- 孤独のグルメ: goro-tablog.com スクレイピング（scrape_kodoku.py）+ TMDB APIエピソードスチール → 176件
+- しおり（なんとなく日常）: YouTubeチャンネルAPI取得 + 概要欄パース（scrape_shiori.py）+ tabelog JSON-LD ジオコーディング → 9件（geocode_shiori.py）
 - **重要**: Gemini APIはYouTubeタイトルからの飲食店抽出に向かない。ファンブログスクレイピングが主軸。
 - **重要**: miruwz7.blog.jpはJS描画のため CSS セレクタ不可。regex で記事URLを収集すること。
 - **重要**: サムネイルなし店舗は登録しない。youtube_id または TMDB等のthumbnail_urlが必須。
