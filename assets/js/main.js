@@ -195,6 +195,7 @@ const GROUP_INITIALS = {
   kamaitachi:'か', equal_love:'=', notme:'≠', neajoy:'≒',
   nogizaka46:'乃', hinatazaka46:'日', sakurazaka46:'櫻',
   heysayjump:'H', ginga:'中', kodoku_no_gurume:'孤', timelesz:'T',
+  shiori:'し',
 };
 
 const GROUP_LABELS = {
@@ -214,6 +215,7 @@ const GROUP_LABELS = {
   nogizaka46:       '乃木坂46',
   hinatazaka46:     '日向坂46',
   sakurazaka46:     '櫻坂46',
+  shiori:           'しおりのなんとなく日常',
 };
 
 const GROUP_SOLID_COLORS = {
@@ -222,6 +224,7 @@ const GROUP_SOLID_COLORS = {
   heysayjump:'#ef4444', equal_love:'#f43f5e', notme:'#0d9488',
   timelesz:'#1d4ed8', neajoy:'#d946ef', nogizaka46:'#0ea5e9',
   sakurazaka46:'#e11d48', hinatazaka46:'#f59e0b', ginga:'#6366f1',
+  shiori:'#ec4899',
 };
 
 const GROUP_COLORS = {
@@ -241,6 +244,7 @@ const GROUP_COLORS = {
   kodoku_no_gurume: 'linear-gradient(135deg, #92400e, #d97706)',
   heysayjump:       'linear-gradient(135deg, #ef4444, #fbbf24)',
   timelesz:         'linear-gradient(135deg, #1d4ed8, #60a5fa)',
+  shiori:           'linear-gradient(135deg, #ec4899, #f9a8d4)',
 };
 
 const GENRE_ICONS = {
