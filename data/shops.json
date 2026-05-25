@@ -23161,5 +23161,605 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": ""
+  },
+  {
+    "id": "shiori-7e520b41-20260406",
+    "name": "旬花",
+    "genre": "寿司",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.7947284,
+    "lng": 140.7538749,
+    "youtube_id": "BE3V9K-wojc",
+    "source_video_title": "函館の回転寿司、レベルが高すぎて昇天",
+    "visited_date": "2026-04-06",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "函館の回転寿司、レベルが高すぎて昇天 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-97aca417-20260331",
+    "name": "ラッキーピエロ",
+    "genre": "居酒屋",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.8101202,
+    "lng": 140.7359768,
+    "youtube_id": "Yi_rqj9FDOA",
+    "source_video_title": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！",
+    "visited_date": "2026-03-31",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-e7501534-20260331",
+    "name": "ハセガワストア",
+    "genre": "居酒屋",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.7615227,
+    "lng": 140.8293026,
+    "youtube_id": "Yi_rqj9FDOA",
+    "source_video_title": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！",
+    "visited_date": "2026-03-31",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-73e7f83a-20260331",
+    "name": "セイコーマート",
+    "genre": "居酒屋",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.7580452,
+    "lng": 140.7205315,
+    "youtube_id": "Yi_rqj9FDOA",
+    "source_video_title": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！",
+    "visited_date": "2026-03-31",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-773474f9-20260322",
+    "name": "自由市場",
+    "genre": "居酒屋",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.7733164,
+    "lng": 140.7344879,
+    "youtube_id": "zRgF7apdR-E",
+    "source_video_title": "【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】",
+    "visited_date": "2026-03-22",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-b57ee974-20260322",
+    "name": "大門横丁",
+    "genre": "居酒屋",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市",
+    "lat": 41.7723932,
+    "lng": 140.7300014,
+    "youtube_id": "zRgF7apdR-E",
+    "source_video_title": "【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】",
+    "visited_date": "2026-03-22",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-1265afbe-20260120",
+    "name": "沼津倶楽部",
+    "genre": "居酒屋",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市",
+    "lat": 35.0973612,
+    "lng": 138.858872,
+    "youtube_id": "si_KnV5tSe8",
+    "source_video_title": "【酒豪】朝から晩まで飲み続けて過去一酔っ払ったご褒美旅★静岡･沼津",
+    "visited_date": "2026-01-20",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【酒豪】朝から晩まで飲み続けて過去一酔っ払ったご褒美旅★静岡･沼津 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-69e7e7ea-20251113",
+    "name": "くら寿司",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区",
+    "lat": 35.6438771,
+    "lng": 139.6980203,
+    "youtube_id": "l8b52SqkSdU",
+    "source_video_title": "【人生謳歌】高級版くら寿司で相変わらず1人飲みする女😊【回転寿司】",
+    "visited_date": "2025-11-13",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【人生謳歌】高級版くら寿司で相変わらず1人飲みする女😊【回転寿司】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-c88aa98e-20241224",
+    "name": "根室花まる",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区",
+    "lat": 35.6717729,
+    "lng": 139.7621885,
+    "youtube_id": "Wixfq77hFNE",
+    "source_video_title": "【ソロ寿司】年の瀬だしちょっとリッチに☆ザギンでスーシーしちゃった休日☆",
+    "visited_date": "2024-12-24",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【ソロ寿司】年の瀬だしちょっとリッチに☆ザギンでスーシーしちゃった休日☆ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-e3c454bd-20240914",
+    "name": "ニュー新橋ビル",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区",
+    "lat": 35.6664561,
+    "lng": 139.7573705,
+    "youtube_id": "MrTyqKNgQ2Y",
+    "source_video_title": "【新橋】昭和香るカオスなビルで昼から3軒はしご酒！【たのしい】",
+    "visited_date": "2024-09-14",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【新橋】昭和香るカオスなビルで昼から3軒はしご酒！【たのしい】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-aa5f64ad-20240605",
+    "name": "竹虎",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区",
+    "lat": 35.6950758,
+    "lng": 139.7034365,
+    "youtube_id": "GbOguqR3wxQ",
+    "source_video_title": "【ラーメン飲み】大好きなラーメン屋で1人勝手に食べ飲み放題が幸せすぎたから見て",
+    "visited_date": "2024-06-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【ラーメン飲み】大好きなラーメン屋で1人勝手に食べ飲み放題が幸せすぎたから見て で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-5599f446-20231212",
+    "name": "もうやんカレー",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区",
+    "lat": 35.6663402,
+    "lng": 139.7563431,
+    "youtube_id": "NdLrkHo96Uk",
+    "source_video_title": "むしろ痩せそうなヘルシーカレーの食べ放題で爆食納めをしてきました【矛盾】",
+    "visited_date": "2023-12-12",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "むしろ痩せそうなヘルシーカレーの食べ放題で爆食納めをしてきました【矛盾】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-a5bba78c-20230903",
+    "name": "思い出横丁",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区",
+    "lat": 35.6930161,
+    "lng": 139.6996971,
+    "youtube_id": "-XuXQvc-9Sk",
+    "source_video_title": "【はしご酒】ディープすぎる思い出横丁！一見さんにおすすめのお店も◎",
+    "visited_date": "2023-09-03",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【はしご酒】ディープすぎる思い出横丁！一見さんにおすすめのお店も◎ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-b0e7ec20-20220912",
+    "name": "揚州商人",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区",
+    "lat": 35.6610928,
+    "lng": 139.6968128,
+    "youtube_id": "sXYBjn2sspE",
+    "source_video_title": "推しの激辛酸辣湯麺と飲茶で飲む【お手軽ガチ中華】",
+    "visited_date": "2022-09-12",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "推しの激辛酸辣湯麺と飲茶で飲む【お手軽ガチ中華】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-52fdb689-20220606",
+    "name": "テルマー湯",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区",
+    "lat": 35.6945138,
+    "lng": 139.7050162,
+    "youtube_id": "5doltAWzoyw",
+    "source_video_title": "【サウナ】24時間いつでもととのえる！終電無くしたらここに来るべし〜",
+    "visited_date": "2022-06-06",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【サウナ】24時間いつでもととのえる！終電無くしたらここに来るべし〜 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-4119a061-20220305",
+    "name": "赤札屋",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "東京都港区",
+    "lat": 35.6745027,
+    "lng": 139.7371197,
+    "youtube_id": "RWeMngd3URw",
+    "source_video_title": "【新橋】学生時代通い詰めた大衆居酒屋はやっぱり最強でした【1人飲み】",
+    "visited_date": "2022-03-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【新橋】学生時代通い詰めた大衆居酒屋はやっぱり最強でした【1人飲み】 で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-af65a7dc-20211105",
+    "name": "横浜西口一番街",
+    "genre": "居酒屋",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市",
+    "lat": 35.4633446,
+    "lng": 139.6184267,
+    "youtube_id": "5uqmze6-Qm0",
+    "source_video_title": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！",
+    "visited_date": "2021-11-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-57dd9722-20211105",
+    "name": "沼田",
+    "genre": "居酒屋",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市",
+    "lat": 35.4588543,
+    "lng": 139.6161306,
+    "youtube_id": "5uqmze6-Qm0",
+    "source_video_title": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！",
+    "visited_date": "2021-11-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-d49febf1-20211105",
+    "name": "しげ吉",
+    "genre": "居酒屋",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市",
+    "lat": 35.5535919,
+    "lng": 139.505043,
+    "youtube_id": "5uqmze6-Qm0",
+    "source_video_title": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！",
+    "visited_date": "2021-11-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "shiori-5fd9a689-20211105",
+    "name": "はなたれ",
+    "genre": "居酒屋",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市",
+    "lat": 35.4617421,
+    "lng": 139.6227153,
+    "youtube_id": "5uqmze6-Qm0",
+    "source_video_title": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！",
+    "visited_date": "2021-11-05",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "nearest_station": "",
+    "description": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
   }
 ]
