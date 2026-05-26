@@ -10,7 +10,7 @@ city: "江東区"
 address: "東京都江東区平野3-2-4 ヴァンテ木場 1F"
 visited_date: "2021-10-01"
 group: "naniwa"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20BRESSO%20%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%E5%89%8D%E5%BA%97"
+tabelog_url: "https://tabelog.com/rstLst/?vs=1&sk=Le%20BRESSO%20%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%E5%89%8D%E5%BA%97"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.6777246
 lng: 139.8043094

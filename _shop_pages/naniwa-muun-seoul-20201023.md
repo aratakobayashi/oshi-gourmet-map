@@ -8,12 +8,15 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前3-27-15 1E"
+price_range: "￥2,000～￥2,999"
 visited_date: "2020-10-23"
 group: "naniwa"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul"
+tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13261664/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
+business_hours: "11:00 - 19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6692039
 lng: 139.7072847
+tabelog_score: 3.38
 members:
   - "長尾謙杜"
 groups:

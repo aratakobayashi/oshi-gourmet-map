@@ -8,12 +8,15 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区門前仲町1-15-2"
+price_range: "￥1,000～￥1,999"
 visited_date: "2021-10-01"
 group: "naniwa"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13310407/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
+business_hours: "08:00 - 21:00"
 lat: 35.6722765
 lng: 139.7950555
+tabelog_score: 3.5
 members:
   - "大橋和也"
 groups:
