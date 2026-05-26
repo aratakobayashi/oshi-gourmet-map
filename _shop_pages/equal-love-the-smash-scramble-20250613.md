@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「THE SMASH SCRAMBLE」"
-description: "渋谷区のレストラン。髙松瞳が2025年6月に訪れた。=LOVEの髙松瞳が訪れた飲食店。"
+description: "渋谷区のレストラン。髙松瞳が2025年6月に訪れた。渋谷区のレストラン。髙松瞳が2025年6月に訪れた。=LOVEの髙松瞳が訪れた飲食店。"
 shop_id: "equal_love-the_smash_scramble-20250613"
 name: "THE SMASH SCRAMBLE"
 genre: "食事"

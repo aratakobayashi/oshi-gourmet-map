@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「USHIHACHI 渋谷店」"
-description: "渋谷区の焼肉店。齊藤なぎさが2024年8月に訪れた。=LOVEの齊藤なぎさが訪れた焼肉店。"
+description: "渋谷区の焼肉店。齊藤なぎさが2024年8月に訪れた。渋谷区の焼肉店。齊藤なぎさが2024年8月に訪れた。=LOVEの齊藤なぎさが訪れた焼肉店。"
 shop_id: "equal_love-ushihachi_渋谷店-20240804"
 name: "USHIHACHI 渋谷店"
 genre: "焼肉"

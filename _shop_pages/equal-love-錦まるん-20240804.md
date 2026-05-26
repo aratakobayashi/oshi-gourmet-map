@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「錦まるん」"
-description: "京都市のレストラン。=LOVEが訪れたロケ地。=LOVEが訪れた飲食店。"
+description: "京都市のレストラン。=LOVEが訪れたロケ地。京都市のレストラン。=LOVEが訪れたロケ地。=LOVEが訪れた飲食店。"
 shop_id: "equal_love-錦まるん-20240804"
 name: "錦まるん"
 genre: "食事"

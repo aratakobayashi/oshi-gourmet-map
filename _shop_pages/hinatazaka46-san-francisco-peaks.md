@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「San Francisco Peaks」"
-description: "レストラン。日向坂46が訪れたロケ地。日向坂46「あくびLetter」に登場した飲食店。"
+description: "レストラン。日向坂46が訪れたロケ地。レストラン。日向坂46が訪れたロケ地。日向坂46「あくびLetter」に登場した飲食店。"
 shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "食事"

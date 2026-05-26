@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「パスティス広尾ハウス」"
-description: "渋谷区のカフェ。=LOVEが訪れたロケ地。=LOVEが訪れたカフェ。"
+description: "渋谷区のカフェ。=LOVEが訪れたロケ地。渋谷区のカフェ。=LOVEが訪れたロケ地。=LOVEが訪れたカフェ。"
 shop_id: "equal_love-パスティス広尾ハウス-20250628"
 name: "パスティス広尾ハウス"
 genre: "カフェ"
