@@ -11,6 +11,7 @@ address: "東京都港区北青山3丁目4−3"
 visited_date: "2022-10-15"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.666133
 lng: 139.712593
 members:

@@ -13,6 +13,7 @@ visited_date: "2023-04-29"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27002763/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 business_hours: "月・水・木・金・土・日 10:30 - 14:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.66408793800459
 lng: 135.50401069709818

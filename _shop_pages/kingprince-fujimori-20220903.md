@@ -14,6 +14,7 @@ visited_date: "2022-09-03"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140507/14000030/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 business_hours: "水・木・金・土・日・祝日 09:00 - 18:00 月・火 定休日 第二火曜日は定休日となります。"
 lat: 35.57920343791483
 lng: 139.5760710823255
