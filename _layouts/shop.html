@@ -161,7 +161,7 @@ layout: default
       </a>
     </div>
   </section>
-  {% elsif s.source_type == 'drama' and s.source_video_title %}
+  {% elsif s.source_type == 'drama' or s.source_type == 'tv' and s.source_video_title %}
   <section class="shop-section">
     <div class="shop-section__header">
       <h2 class="shop-section__title">登場作品</h2>
@@ -169,7 +169,7 @@ layout: default
     <div class="shop-drama-card">
       {% if s.thumbnail_url %}<img src="{{ s.thumbnail_url }}" alt="{{ s.source_video_title }}" loading="lazy" class="shop-drama-card__thumb">{% endif %}
       <div class="shop-drama-card__body">
-        <p class="shop-drama-card__label">📺 ドラマ</p>
+        <p class="shop-drama-card__label">📺 {% if s.source_type == 'tv' %}テレビ番組{% else %}ドラマ{% endif %}</p>
         <p class="shop-drama-card__title">{{ s.source_video_title }}</p>
         {% if s.members %}<p class="shop-drama-card__member">👤 {{ s.members | join: '・' }}</p>{% endif %}
       </div>
