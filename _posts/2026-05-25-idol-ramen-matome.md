@@ -2,7 +2,7 @@
 layout: post
 title: "アイドル・芸能人が行ったラーメン聖地巡礼まとめ【東京〜全国82選】"
 date: 2026-05-25
-last_modified_at: 2026-05-26
+last_modified_at: 2026-05-27
 description: "乃木坂46・よにのちゃんねる・亀梨和也・SixTONES・Snow Man・=LOVEなどアイドル・芸能人が実際に訪れたラーメン店を82件まとめました。食べログ3.7超えの名店から人気チェーン・新横浜ラーメン博物館まで、推し活・聖地巡礼に使えるグルメガイドです。"
 genre: まとめ
 article_type: matome
