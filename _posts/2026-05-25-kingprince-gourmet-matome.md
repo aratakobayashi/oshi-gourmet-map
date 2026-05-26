@@ -2,7 +2,7 @@
 layout: post
 title: "King & Princeが行ったお店・グルメ完全まとめ【当たり前レストラン 全39店】"
 date: 2026-05-25
-last_modified_at: 2026-05-26
+last_modified_at: 2026-05-27
 description: "King & Prince（キンプリ）が番組「King&Princeる。当たり前レストラン」で訪れたグルメスポットを全39件まとめました。平野紫耀・神宮寺勇太・岸優太・髙橋海人・永瀬廉ゆかりの渋谷・銀座・港区の名店を住所・食べログリンク付きで紹介します。"
 group: kingprince
 genre: まとめ
