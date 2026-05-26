@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "アイドル・芸能人が行ったラーメン店まとめ【東京〜全国82選】"
+title: "アイドル・芸能人が行ったラーメン聖地巡礼まとめ【東京〜全国82選】"
 date: 2026-05-26
 last_modified_at: 2026-05-26
-description: "乃木坂46・よにのちゃんねる・亀梨和也・SixTONES・=LOVEなどアイドル・芸能人が実際に訪れたラーメン店を82件まとめました。食べログ3.7超えの名店から人気チェーン・新横浜ラーメン博物館まで、推し活のついでに行ける聖地グルメガイドです。"
+description: "乃木坂46・よにのちゃんねる・亀梨和也・SixTONES・Snow Man・=LOVEなどアイドル・芸能人が実際に訪れたラーメン店を82件まとめました。食べログ3.7超えの名店から人気チェーン・新横浜ラーメン博物館まで、推し活・聖地巡礼に使えるグルメガイドです。"
 genre: まとめ
 article_type: matome
 tags: [ラーメン, アイドル, 芸能人, 聖地巡礼, 乃木坂46, よにのちゃんねる, 亀梨和也, SixTONES, イコラブ, グルメ, 東京, まとめ]
@@ -124,6 +124,18 @@ SixTONESは博物館全体を体験する形で登場しており、各店を食
 <div class="inline-shop-grid" data-shop-ids="nogizaka46-6d41a5ca-,yonino-rishiri-ramen,sixtones-ramen-hakubutsukan"></div>
 
 → [SixTONESのグルメスポット全件はこちら](/articles/2026/05/12/sixtones-gourmet-matome/)
+
+## Snow Man・Hey! Say! JUMPが行ったラーメン
+
+Snow ManとHey! Say! JUMPにもそれぞれ個性的なラーメン店が登場している。
+
+Snow Manの**「武蔵野アブラ學会 早稲田別館」**（新宿区）は、醤油ベースの油そばで全国的に知られる人気店。ラーメンとも違う「油そば」という選択が、Snow Manらしい遊び心を感じさせる。**「江川亭 小金井本店」**（小金井市）は昭和から続く老舗中華そばの名店で、地元に根付いた一杯を選ぶセンスが光る。
+
+Hey! Say! JUMPの**「秀ちゃんラーメン赤坂」**は赤坂エリアの老舗。芸能人が多く住む・働く赤坂ならではの聖地感がある。**「汁いち」**（横浜市）は横浜ロケで訪れた一杯で、神奈川遠征の際に立ち寄りやすい。
+
+<div class="inline-shop-grid" data-shop-ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,heysayjump-d26f3f7f-20161026,heysayjump-ca6f693e-20161026"></div>
+
+→ [Snow Manのグルメスポット全件はこちら](/articles/2026/05/12/snowman-gourmet-matome/) ／ [Hey! Say! JUMPのグルメスポット全件はこちら](/articles/2026/05/21/heysayjump-gourmet-matome/)
 
 ## 孤独のグルメのラーメン・麺料理（24件）
 
