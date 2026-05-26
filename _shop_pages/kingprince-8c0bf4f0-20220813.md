@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "チャオタイ 銀座店"
+description: "食事・中央区東京都・kingprinceが訪問"
+shop_id: "kingprince-8c0bf4f0-20220813"
+name: "チャオタイ 銀座店"
+genre: "食事"
+prefecture: "東京都"
+city: "中央区"
+address: "東京都中央区銀座2-2 銀座インズ２　B1F"
+visited_date: "2022-08-13"
+source_video_title: "King&Princeる。当たり前レストラン"
+group: "kingprince"
+tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13109214/"
+lat: 35.675054488719525
+lng: 139.76511432432298
+members:
+  - "神宮寺勇太"
+  - "岸優太"
+  - "永瀬廉"
+groups:
+  - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13109214/"
+---
