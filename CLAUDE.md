@@ -111,6 +111,7 @@
 | kamaitachi | かまいたち | UCIR2mQ77wHrLMreV45nYhgw | https://www.youtube.com/@kamaitachi |
 | kodoku_no_gurume | 孤独のグルメ | - | goro-tablog.com（ファンサイト）/ TMDB ID:45753 |
 | heysayjump | Hey! Say! JUMP（いただきハイジャンプ） | UCZgJwFN1PeR8hZZ8A7huuTQ（ファン） | TMDB ID:197002 / e-nini08.hatenadiary.jp |
+| kingprince | King & Prince（当たり前レストラン） | - | tsuzuki-fam.com（ファンブログ）8エピソード（2022-08〜2023-05） |
 
 ### グループカラー（main.js）
 ```javascript
@@ -124,6 +125,7 @@ sakurazaka46: '#e11d48'  // 深紅
 nogizaka46:   '#0ea5e9'  // 水色
 hinatazaka46: '#f59e0b'  // アンバー
 kamenashi:         '#059669'  // グリーン
+kingprince:        '#f472b6'  // ピンク
 kodoku_no_gurume:  '#92400e'  // ブラウン
 heysayjump:        '#ef4444'  // レッド
 ```
@@ -168,6 +170,7 @@ heysayjump:        '#ef4444'  // レッド
 | `scrape_shiori.py` | しおりのなんとなく日常 YouTubeチャンネル動画取得＋概要欄パース（「店名\nhttps://tabelog...」形式対応） |
 | `geocode_shiori.py` | しおり専用ジオコーダー（tabelog JSON-LD優先 + 丁目形式フォールバック） |
 | `extract_shiori_hashtags.py` | ハッシュタグから店名候補を抽出（#店名パターン・汎用タグ除外・連結タグ分割対応） |
+| `scrape_kinpri.py` | King & Prince「当たり前レストラン」スクレイピング（tsuzuki-fam.com / ValueCommerce経由tabelog URL対応） |
 
 ---
 
@@ -181,7 +184,7 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 ---
 
 ## 現在の状況（2026-05-26時点）
-- 総店舗数: 798件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
+- 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
 - youtube_idあり: ~372件（50%）
 - thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
 - サムネイルなし: 42件（nogizaka46:12 / sixtones:6 / hinatazaka46:6 / naniwa:5 / ginga:4 / sakurazaka46:3 / snowman:2 / yonino:2 / equal_love:2）← ファンブログ由来で動画特定困難
@@ -209,6 +212,7 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 - **重要**: miruwz7.blog.jpはJS描画のため CSS セレクタ不可。regex で記事URLを収集すること。
 - **重要**: サムネイルなし店舗は登録しない。youtube_id または TMDB等のthumbnail_urlが必須。
 - **重要**: ginga（銀河チャンネル）のvisited_dateはファンブログ日付をそのまま使用。scrape_ginga.pyで--year 2025を使うと実際は2024年動画にずれる。日付はチャンネル動画一覧で確認すること（channelId: UCYTrZoOfDgoQo7Bdbttv9qw）。
+- King & Prince（当たり前レストラン）: tsuzuki-fam.comスクレイピング。リンクがValueCommerce経由（vc_urlパラメータをdecodeするとtabelog URL取得可能）。住所なし店舗はtabelog JSON-LDで補完。8エピソード（2022-08-13〜2023-05-20）から22件。0903分（4件）はリンクも住所もなく取得不可。
 
 ## ロードマップ
 1. ✅ MVP作成・デプロイ
