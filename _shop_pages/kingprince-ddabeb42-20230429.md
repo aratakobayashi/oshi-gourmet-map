@@ -1,0 +1,28 @@
+---
+layout: shop
+title: "千とせ 本店"
+description: "食事・大阪市大阪府・kingprinceが訪問"
+shop_id: "kingprince-ddabeb42-20230429"
+name: "千とせ 本店"
+genre: "食事"
+prefecture: "大阪府"
+city: "大阪市"
+address: "大阪府大阪市中央区難波千日前8-1"
+visited_date: "2023-04-29"
+source_video_title: "King&Princeる。当たり前レストラン"
+group: "kingprince"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27002763/"
+lat: 34.66408793800459
+lng: 135.50401069709818
+members:
+  - "平野紫耀"
+  - "神宮寺勇太"
+  - "岸優太"
+  - "髙橋海人"
+  - "永瀬廉"
+groups:
+  - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2701/A270202/27002763/"
+---

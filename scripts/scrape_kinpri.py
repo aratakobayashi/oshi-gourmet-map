@@ -74,7 +74,35 @@ EPISODE_URLS = [
     ('2022-10-22', 'https://tsuzuki-fam.com/atarimae-1022/'),
     ('2022-12-03', 'https://tsuzuki-fam.com/atarimae-1203/'),
     ('2022-12-10', 'https://tsuzuki-fam.com/atarimae1210/'),
+    ('2023-03-04', 'https://tsuzuki-fam.com/atarimae0304/'),
     ('2023-05-20', 'https://tsuzuki-fam.com/atarimae-final/'),
+]
+
+# tsuzuki-famに記事のないエピソードの店舗（アメブロまとめリストより）
+# tabelog URLをハードコードして座標を取得
+MANUAL_SHOPS = [
+    # 1回目 2022-06-18
+    {'visited_date': '2022-06-18', 'name': 'ピアット・スズキ', 'tabelog_url': 'https://tabelog.com/tokyo/A1307/A130702/13004441/'},
+    {'visited_date': '2022-06-18', 'name': '陳家私菜 渋谷店', 'tabelog_url': 'https://tabelog.com/tokyo/A1303/A130301/13128819/'},
+    {'visited_date': '2022-06-18', 'name': 'ブーランジェリー&カフェ マンマーノ', 'tabelog_url': 'https://tabelog.com/tokyo/A1318/A131811/13059417/'},
+    # 3回目 2022-09-03（tsuzuki-famでリンクなし）
+    {'visited_date': '2022-09-03', 'name': '香味', 'tabelog_url': 'https://tabelog.com/tokyo/A1301/A130103/13035850/'},
+    {'visited_date': '2022-09-03', 'name': 'ICARO miyamoto', 'tabelog_url': 'https://tabelog.com/tokyo/A1317/A131701/13050216/'},
+    {'visited_date': '2022-09-03', 'name': '韓国農林水産大臣賞受賞 アス 下北沢店', 'tabelog_url': 'https://tabelog.com/tokyo/A1318/A131802/13203664/'},
+    {'visited_date': '2022-09-03', 'name': 'コパン・ド・フジモリ 鷺沼店', 'tabelog_url': 'https://tabelog.com/kanagawa/A1405/A140507/14000030/'},
+    # 10回目 2023-03-11
+    {'visited_date': '2023-03-11', 'name': 'ラ・ベットラ・ダ・オチアイ', 'tabelog_url': 'https://tabelog.com/tokyo/A1313/A131301/13002504/'},
+    {'visited_date': '2023-03-11', 'name': 'エビス バインミー ベーカリー', 'tabelog_url': 'https://tabelog.com/tokyo/A1303/A130302/13211869/'},
+    {'visited_date': '2023-03-11', 'name': 'パティシエ シマ', 'tabelog_url': 'https://tabelog.com/tokyo/A1308/A130803/13000285/'},
+    # 9回目 2023-03-04（tsuzuki-famページにリンクなし）
+    {'visited_date': '2023-03-04', 'name': 'ビストロカニッシュ', 'tabelog_url': 'https://tabelog.com/tokyo/A1316/A131601/13224234/'},
+    {'visited_date': '2023-03-04', 'name': '六本木 浜藤', 'tabelog_url': 'https://tabelog.com/tokyo/A1307/A130701/13001980/'},
+    {'visited_date': '2023-03-04', 'name': 'ブラッスリー ポール・ボキューズ 銀座', 'tabelog_url': 'https://tabelog.com/tokyo/A1301/A130101/13042760/'},
+    # 11回目 2023-04-29
+    {'visited_date': '2023-04-29', 'name': 'マッサマン タイキッチン', 'tabelog_url': 'https://tabelog.com/kanagawa/A1404/A140408/14096267/'},
+    {'visited_date': '2023-04-29', 'name': '桂屋', 'tabelog_url': 'https://tabelog.com/tokyo/A1319/A131904/13238484/'},
+    {'visited_date': '2023-04-29', 'name': '千とせ 本店', 'tabelog_url': 'https://tabelog.com/osaka/A2701/A270202/27002763/'},
+    {'visited_date': '2023-04-29', 'name': 'リリエンベルグ', 'tabelog_url': 'https://tabelog.com/kanagawa/A1405/A140508/14000034/'},
 ]
 
 GENRE_MAP = [
@@ -165,11 +193,15 @@ def scrape_episode(visited_date, url):
         # ナビ系・記事タイトル系のh2を除外
         if any(skip in shop_name for skip in ['まとめ', '目次', 'スポンサー', 'プロフィール', 'コメント']):
             continue
+        # 「料理名/「店名」」形式 → 店名を抽出
+        m_quoted = re.search(r'[/／]「(.+?)」', shop_name)
+        if m_quoted:
+            shop_name = m_quoted.group(1)
         # @東京・渋谷 などの位置情報を除去
         shop_name = re.sub(r'[　\s]*[@＠].+$', '', shop_name).strip()
         # 読み仮名（ひらがな）括弧除去
         shop_name = re.sub(r'[\s　]*[（(][ぁ-ん\s]+[）)]', '', shop_name).strip()
-        if len(shop_name) < 2 or len(shop_name) > 40:
+        if len(shop_name) < 2 or len(shop_name) > 50:
             continue
 
         # h2以降、次のh2までの要素を収集
@@ -194,18 +226,24 @@ def scrape_episode(visited_date, url):
 
         full_text = ' '.join(block_texts)
 
-        # 住所を抽出（〒から始まる行）
+        # 住所を抽出（〒から始まる行 or 都道府県から始まる行 or 文中の都道府県）
         address = ''
         for text in block_texts:
             m = re.search(r'〒\d{3}[-－]\d{4}\s*(.+?)(?:\s|$)', text)
             if m:
                 address = normalize_address('〒' + text[m.start()+1:].strip().split('\n')[0])
                 break
-            # 都道府県から始まる場合も
             for pref in PREFECTURES:
                 if text.startswith(pref):
                     address = normalize_address(text.split('\n')[0])
                     break
+                # 文中に都道府県が含まれる場合（「〜。東京都品川区〜」等）
+                idx = text.find(pref)
+                if idx > 0:
+                    candidate = text[idx:].split('。')[0].split('、')[0].split(' ')[0]
+                    if len(candidate) > len(pref) + 2:
+                        address = normalize_address(candidate)
+                        break
             if address:
                 break
 
@@ -302,6 +340,50 @@ def main():
                 seen_names.add(s['name'])
                 all_shops.append(s)
         time.sleep(1)
+
+    # tabelog URLハードコード分
+    print('\nMANUAL_SHOPS処理中...')
+    for m in MANUAL_SHOPS:
+        if m['name'] in seen_names:
+            print(f'  重複スキップ: {m["name"]}')
+            continue
+        print(f'  {m["name"]}')
+        tb_data = get_tabelog_data(m['tabelog_url'])
+        time.sleep(1)
+        if not tb_data.get('lat'):
+            print(f'    座標取得失敗')
+            continue
+        name = tb_data.get('name') or m['name']
+        address = tb_data.get('address', '')
+        prefecture, city = split_prefecture_city(address)
+        genre = detect_genre(name)
+        tabelog_url = m['tabelog_url']
+        all_shops.append({
+            'name': name,
+            'genre': genre,
+            'prefecture': prefecture,
+            'city': city,
+            'address': address,
+            'lat': tb_data['lat'],
+            'lng': tb_data['lng'],
+            'youtube_id': '',
+            'source_video_title': PROGRAM,
+            'source_video_url': '',
+            'visited_date': m['visited_date'],
+            'members': ['平野紫耀', '神宮寺勇太', '岸優太', '髙橋海人', '永瀬廉'],
+            'groups': [GROUP],
+            'group': GROUP,
+            'description': '',
+            'nearest_station': '',
+            'price_range': '',
+            'ordered_items': [],
+            'tabelog_url': tabelog_url,
+            'hotpepper_url': '',
+            'google_maps_url': '',
+            'tags': [],
+            'affiliate_links': [{'label': '食べログで見る', 'url': tabelog_url}],
+        })
+        seen_names.add(name)
 
     with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(all_shops, f, ensure_ascii=False, indent=2)
