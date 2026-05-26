@@ -11,6 +11,7 @@ address: "静岡県静岡市駿河区中野新田387-1"
 visited_date: "2024-04-05"
 source_video_title: "日向坂46 静岡遠征Vlog！さわやかのハンバーグ"
 group: "hinatazaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
 lat: 34.9541
 lng: 138.3911
 members:

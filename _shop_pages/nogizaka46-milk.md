@@ -11,6 +11,7 @@ address: "愛知県名古屋市北区大杉1-18-21 SAKUMACHI商店街"
 nearest_station: "JR大曽根駅 or 地下鉄尼ケ坂駅"
 source_video_title: "乃木坂どこへ"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.187878
 lng: 136.918944
 members:

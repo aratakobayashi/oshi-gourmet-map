@@ -5287,7 +5287,10 @@
         "url": "https://www.hotpepper.jp/strJ000898725/?vos=nhppalsa000016"
       }
     ],
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000898725/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000898725/?vos=nhppalsa000016",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-juseian",
@@ -5318,7 +5321,10 @@
         "url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
       }
     ],
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-tsukiji-uniko",
@@ -5344,7 +5350,10 @@
     "group": "hinatazaka46",
     "description": "中央区の寿司店。佐々木美玲・河田陽菜・丹生明里が2024年2月に訪れた。うに食べ比べ丼を堪能。日向坂メンバーも絶賛の築地グルメ。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "sakurazaka46-kissa-paon",
@@ -5394,7 +5403,10 @@
     "group": "nogizaka46",
     "description": "中央区の和食店。久保史緒里・山下美月が2023年8月に訪れた。稲庭うどんの名店。ツルツルの喉越しをメンバーが堪能。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-sawayaka-shizuoka",
@@ -5419,7 +5431,10 @@
     "group": "hinatazaka46",
     "description": "静岡市の焼肉店。加藤史帆・齊藤京子が2024年4月に訪れた。静岡に来たら外せないハンバーグ。メンバーも大興奮。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "sakurazaka46-ribisco-ginza",
@@ -5474,7 +5489,10 @@
         "url": "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
       }
     ],
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-dashi-chazuke-en-narita",
@@ -5499,7 +5517,10 @@
     "group": "hinatazaka46",
     "description": "成田市の和食店。佐々木久美・高瀬愛奈が2024年6月に訪れた。空港で手軽に食べられる出汁茶漬け。旅の前の定番。",
     "tags": [],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "sixtones-ushimitsu-ebisu",
@@ -7561,7 +7582,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv"
   },
   {
     "id": "naniwa-trufflebakery-20211001",
@@ -7593,7 +7617,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv"
   },
   {
     "id": "naniwa-le_bresso_木場公園前店-20211001",
@@ -7625,7 +7652,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=Le%20BRESSO%20%E6%9C%A8%E5%A0%B4%E5%85%AC%E5%9C%92%E5%89%8D%E5%BA%97"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv"
   },
   {
     "id": "naniwa-そうめん_そそそ_研究室-20210709",
@@ -7657,7 +7687,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%20%E3%81%9D%E3%81%9D%E3%81%9D%20%E7%A0%94%E7%A9%B6%E5%AE%A4"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv"
   },
   {
     "id": "naniwa-大衆食堂スタンド_そのだ-20220415",
@@ -7689,7 +7722,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%A4%A7%E8%A1%86%E9%A3%9F%E5%A0%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%9D%E3%81%AE%E3%81%A0"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv"
   },
   {
     "id": "naniwa-doowop-20211126",
@@ -7999,7 +8035,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%B5%85%E8%8D%89%20%E3%81%84%E3%81%A5%E7%BE%8E"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-浅草_花月堂_本店-",
@@ -8032,7 +8071,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%B5%85%E8%8D%89%20%E8%8A%B1%E6%9C%88%E5%A0%82%20%E6%9C%AC%E5%BA%97"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-オールドデリー銀座店-",
@@ -8200,7 +8242,10 @@
     ],
     "tabelog_score": 3.79,
     "price_range": "￥1,000～￥1,999",
-    "business_hours": "11:00 - 15:00 18:00 - 21:00 5月の定休日です。19日（火）22日（金）26日（火）29日（金）定休日です。ご注意ください。"
+    "business_hours": "11:00 - 15:00 18:00 - 21:00 5月の定休日です。19日（火）22日（金）26日（火）29日（金）定休日です。ご注意ください。",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-炎麻堂_赤坂店-",
@@ -8237,7 +8282,10 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-カレーは飲み物ニュー新橋ビル店-",
@@ -8398,7 +8446,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%AB%98%E5%B0%BE%E4%BA%AD%20%E7%AB%8B%E5%B7%9D%E6%9C%AC%E5%BA%97"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-鎌倉釜飯_かまかま本店-",
@@ -8666,7 +8717,10 @@
     ],
     "tabelog_score": 3.38,
     "price_range": "～￥999",
-    "business_hours": "月・火・水・木・金 11:00 - 17:00 土 11:00 - 15:00 日 定休日"
+    "business_hours": "月・火・水・木・金 11:00 - 17:00 土 11:00 - 15:00 日 定休日",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-喫茶ニューポピー-",
@@ -8701,7 +8755,10 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-喫茶ツヅキ-",
@@ -8732,7 +8789,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%96%AB%E8%8C%B6%E3%83%84%E3%83%85%E3%82%AD"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "ginga-大久堂_okudo_カフェ-20250709",
@@ -9213,7 +9273,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E5%B1%B1%E3%81%84%E3%81%91%E3%81%99"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-元祖今川焼_さのや-20200405",
@@ -9245,7 +9308,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%85%83%E7%A5%96%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%95%E3%81%AE%E3%82%84"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-お食事処ゆうなぎ-20200405",
@@ -9277,7 +9343,10 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E"
       }
-    ]
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
+    "tmdb_id": 99748,
+    "tmdb_type": "tv"
   },
   {
     "id": "hinatazaka46-san_francisco_peaks-",
@@ -24820,10 +24889,10 @@
         "url": "https://tabelog.com/tokyo/A1307/A130701/13129689/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.62,
     "price_range": "～￥999",
     "business_hours": "08:00 - 20:00 L.O. 19:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -24856,10 +24925,10 @@
         "url": "https://tabelog.com/tokyo/A1304/A130401/13006720/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.49,
     "price_range": "～￥999",
     "business_hours": "月・火・水・木・金・土 24時間営業 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -24892,10 +24961,10 @@
         "url": "https://tabelog.com/tokyo/A1303/A130301/13168915/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.28,
     "price_range": "-",
     "business_hours": "09:30 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -24928,10 +24997,10 @@
         "url": "https://tabelog.com/tokyo/A1303/A130301/13034125/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.14,
     "price_range": "～￥999",
     "business_hours": "■営業時間06:30～28:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -24964,10 +25033,10 @@
         "url": "https://tabelog.com/tokyo/A1303/A130301/13241216/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.03,
     "price_range": "-",
     "business_hours": "■営業時間11:00～19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25000,10 +25069,10 @@
         "url": "https://tabelog.com/nagasaki/A4201/A420101/42000221/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.07,
     "price_range": "-",
     "business_hours": "09:30 - 19:00 ■ 営業時間販売 9:30～19:00喫茶 11:00～18:00■定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25036,10 +25105,10 @@
         "url": "https://tabelog.com/tokyo/A1303/A130301/13163978/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.24,
     "price_range": "￥3,000～￥3,999",
     "business_hours": "■営業時間・日～木、連休最終日 11:30～2:00・金,土,祝前日 11:30～5:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25072,10 +25141,10 @@
         "url": "https://tabelog.com/ibaraki/A0805/A080503/8001154/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.24,
     "price_range": "-",
     "business_hours": "08:30 - 18:00 ■ 営業時間8:30～18:00[売店]11:00～15:00[レストラン] ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25108,10 +25177,10 @@
         "url": "https://tabelog.com/tokyo/A1318/A131805/13011769/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.74,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "■ 営業時間11時～季節や人員体制により営業時間が変更となります。最新の営業時間はホームページにてお知らせいたしますのでそちらをご確認ください。■ 定休日不定休・お正月・（お盆）詳しくはHPをご参照ください。"
@@ -25144,10 +25213,10 @@
         "url": "https://tabelog.com/tokyo/A1305/A130501/13061399/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.5,
     "price_range": "-",
     "business_hours": "火・水・木・金・土・日 10:00 - 16:00 月 定休日 ■ 営業時間最終入館15:30■ 定休日月曜（月曜が祝日・振替休日の場合、その翌日休）・年末年始 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25180,10 +25249,10 @@
         "url": "https://tabelog.com/shizuoka/A2205/A220501/22015982/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.22,
     "price_range": "-",
     "business_hours": "月・火・木・金・土・日 11:00 - 19:00 水 定休日"
@@ -25216,10 +25285,10 @@
         "url": "https://tabelog.com/yamanashi/A1905/A190501/19002504/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.09,
     "price_range": "-",
     "business_hours": "■営業時間[月～土]11:30～14:00 17:00～21:00(L.O.20:30)[日]11:30～14:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25252,10 +25321,10 @@
         "url": "https://tabelog.com/tokyo/A1330/A133001/13010205/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.48,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "月・火・水・木 11:30 - 21:30 L.O. 21:00 金 11:30 - 22:00 L.O. 21:30 土・日・祝日 11:00 - 22:00 L.O. 21:30 ■ 営業時間※天候・シーズン等により変更する場合がございます。■ 定休日無休 ※年末年始を除く"
@@ -25288,10 +25357,10 @@
         "url": "https://tabelog.com/kanagawa/A1406/A140603/14023236/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.28,
     "price_range": "-",
     "business_hours": "09:00 - 17:00 ■ 定休日元旦 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25324,10 +25393,10 @@
         "url": "https://tabelog.com/ibaraki/A0804/A080401/8004283/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.44,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "火・水・金・土・日 11:30 - 20:00 月・木 定休日 ■ 営業時間売り切れで終了 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25360,10 +25429,10 @@
         "url": "https://tabelog.com/tokyo/A1301/A130101/13192924/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.56,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "■営業時間【月〜土】11:00～23:00( FOOD L.O 22:00 / DRINK L.O 22:30)【日・祝】11:00～21:00( FOOD L.O 20:00 / L.O. DRINK L.O 20:30)LUNCH 11:00-15:00TEA 15:00-18:00DINNER 18:00-21:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に"
@@ -25396,10 +25465,10 @@
         "url": "https://tabelog.com/kanagawa/A1401/A140104/14030396/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.0,
     "price_range": "～￥999",
     "business_hours": "■営業時間[月～金]11:00～21:00[土・日]11:00～22:00※繁忙期も11:00～22:00ＨＰでご確認ください。■定休日第２木曜日（繁忙期は営業） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25432,10 +25501,10 @@
         "url": "https://tabelog.com/tokyo/A1305/A130501/13009255/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.79,
     "price_range": "-",
     "business_hours": "木・金・土 11:00 - 18:00 月・火・水・日 定休日 ■ 営業時間売り切れ次第終了 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25468,10 +25537,10 @@
         "url": "https://tabelog.com/tokyo/A1301/A130103/13107616/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.04,
     "price_range": "￥3,000～￥3,999",
     "business_hours": "月・火・水・木・金 07:30 - 18:00 18:00 - 21:00 L.O. 20:30 土・日 08:00 - 16:00 L.O. 15:30 祝日 定休日 ■ 営業時間【平日】7:30 ～ 18:00(カフェ)18:00～21:00(BAR/20:30ラストオーダー)【土曜日・日曜日】8:00～16:00(15:30ラストオーダー)※祝日で中央競馬未開催の日は休業■ 定休日不定休"
@@ -25504,10 +25573,10 @@
         "url": "https://tabelog.com/tokyo/A1304/A130401/13031808/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.11,
     "price_range": "￥4,000～￥4,999",
     "business_hours": "月・火・水・木・金・土 17:00 - 04:00 L.O. 料理02:30 ドリンク03:30 日 17:00 - 23:00 L.O. 料理21:30 ドリンク22:00 年末年始(要確認)"
@@ -25540,10 +25609,10 @@
         "url": "https://tabelog.com/tokyo/A1316/A131604/13028770/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.49,
     "price_range": "￥4,000～￥4,999",
     "business_hours": "月・火・水・木・金 11:30 - 14:00 L.O. 13:30 17:00 - 23:00 L.O. 22:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25576,10 +25645,10 @@
         "url": "https://tabelog.com/tochigi/A0902/A090202/9014646/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.24,
     "price_range": "-",
     "business_hours": "火・木・金・土・日 11:00 - 18:30 月・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25612,10 +25681,10 @@
         "url": "https://tabelog.com/miyagi/A0404/A040404/4010727/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.22,
     "price_range": "～￥999",
     "business_hours": "09:00 - 17:00 ■ 営業時間12月～ 4月 9：00～16：00 5月～11月 9：00～17：00「日により営業時間の変更がございますので予めご確認ください」■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25648,10 +25717,10 @@
         "url": "https://tabelog.com/tokyo/A1317/A131705/13046921/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.45,
     "price_range": "-",
     "business_hours": "11:00 - 15:00 L.O. 15:00 ■ 営業時間[店舗]11:00～18:00■定休日なし"
@@ -25684,10 +25753,10 @@
         "url": "https://tabelog.com/kanagawa/A1404/A140401/14032566/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.35,
     "price_range": "-",
     "business_hours": "月・火・木・金・土・日 10:30 - 17:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25720,10 +25789,10 @@
         "url": "https://tabelog.com/kanagawa/A1406/A140601/14078893/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.11,
     "price_range": "-",
     "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25756,10 +25825,10 @@
         "url": "https://tabelog.com/tokyo/A1310/A131001/13020657/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.49,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "■ 営業時間［ラーメン］[月～金]11:00～17:00[土、日・祝]11:00～21:30［立ち呑み酒場］[月～金]16:00～23:00[土、日・祝]17:00～21:30■ 定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25792,10 +25861,10 @@
         "url": "https://tabelog.com/shizuoka/A2202/A220201/22018536/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.37,
     "price_range": "～￥999",
     "business_hours": "水・木・金・土・日 10:00 - 18:00 月・火 定休日 ■ 営業時間※ウイルス禍の時短営業中 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25828,10 +25897,10 @@
         "url": "https://tabelog.com/tokyo/A1307/A130701/13018573/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.29,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "■営業時間[火～木]11:00～20：00[金]11:00～20：00[月・土・日・祝]11:00〜20：00【年末年始等特別営業日】適宜公式Ｔｗｉｔｔｅｒ参照■定休日無休"
@@ -25864,10 +25933,10 @@
         "url": "https://tabelog.com/fukuoka/A4001/A400103/40004980/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.57,
     "price_range": "～￥999",
     "business_hours": "月・火・木・金・土・日 11:00 - 03:00 L.O. 02:30 水 定休日 ■ 営業時間営業時間が急遽変更になる場合もありますのでご了承ください。■ 定休日第3火曜日 ※定休日が祝日の場合は変更あり"
@@ -25900,10 +25969,10 @@
         "url": "https://tabelog.com/aichi/A2301/A230114/23056870/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.03,
     "price_range": "-",
     "business_hours": "■営業時間[不定休]17:00～24:30入店 23：00L.O 23：30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25936,10 +26005,10 @@
         "url": "https://tabelog.com/hyogo/A2808/A280803/28002488/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.26,
     "price_range": "-",
     "business_hours": "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -25972,10 +26041,10 @@
         "url": "https://tabelog.com/tokyo/A1301/A130102/13058435/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.15,
     "price_range": "～￥999",
     "business_hours": "10:00 - 19:00 ■ 定休日年末年始 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26008,10 +26077,10 @@
         "url": "https://tabelog.com/tokyo/A1307/A130702/13097319/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.27,
     "price_range": "-",
     "business_hours": "11:00 - 18:00 ■ 定休日第2火曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26044,10 +26113,10 @@
         "url": "https://tabelog.com/shizuoka/A2201/A220101/22021460/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.66,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "11:00 - 22:00 L.O. 21:00 ■ 営業時間※待ち時間によってはオーダーストップ前に入店をお断りする場合があります※特別営業日（年末年始・GW・お盆等）は、受付・営業時間を変更することがあります"
@@ -26080,10 +26149,10 @@
         "url": "https://tabelog.com/gifu/A2101/A210101/21006119/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.61,
     "price_range": "-",
     "business_hours": "月・火・水・木・金 11:00 - 18:00 土・日 11:00 - 16:00 ■ 営業時間月-金 11:00～18:00頃土,日 11:00〜16:00頃※売り切れ次第終了■ 定休日6日・16日・26日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26116,10 +26185,10 @@
         "url": "https://tabelog.com/miyagi/A0401/A040101/4012335/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.42,
     "price_range": "-",
     "business_hours": "■営業時間9:00～21:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26152,10 +26221,10 @@
         "url": "https://tabelog.com/miyagi/A0401/A040101/4009659/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.21,
     "price_range": "～￥999",
     "business_hours": "10:00 - 20:30 ■ 定休日エスパルに準ずる"
@@ -26188,10 +26257,10 @@
         "url": "https://tabelog.com/ishikawa/A1701/A170101/17010261/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.12,
     "price_range": "-",
     "business_hours": "火・水・木・金・土・日 10:00 - 18:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26224,10 +26293,10 @@
         "url": "https://tabelog.com/hokkaido/A0105/A010501/1005752/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.48,
     "price_range": "-",
     "business_hours": "09:30 - 19:00 ■ 営業時間季節によって変動あり※営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。■ 定休日金森洋物館に準ずる"
@@ -26260,10 +26329,10 @@
         "url": "https://tabelog.com/hokkaido/A0101/A010104/1060615/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.37,
     "price_range": "～￥999",
     "business_hours": "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26296,10 +26365,10 @@
         "url": "https://tabelog.com/chiba/A1201/A120102/12007098/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.27,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "16:00 - 23:00 L.O. 22:30"
@@ -26332,10 +26401,10 @@
         "url": "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.74,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金 11:00 - 21:00 L.O. 20:30 土・日・祝日 10:30 - 21:00 L.O. 20:30 休館日 年末年始(12月31日・1月1日) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26368,10 +26437,10 @@
         "url": "https://tabelog.com/tokyo/A1306/A130603/13189009/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.45,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 21:00 L.O. 20:30 ※年末年始、祝日や大型連休、天候などによって予告なく営業時間が変更に なる場合がございます。詳細はHPをご確認ください。■定休日なし"
@@ -26404,10 +26473,10 @@
         "url": "https://tabelog.com/saitama/A1101/A110101/11035708/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.45,
     "price_range": "￥3,000～￥3,999",
     "business_hours": "月・火・水・木・金・祝前日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 土・日・祝日 11:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ◆ランチ 11:00-15:00（L.O.14:30）◆カフェ 15:00-17:00◆ディナー 17:00-23:00（L.O.22:"
@@ -26440,10 +26509,10 @@
         "url": "https://tabelog.com/osaka/A2701/A270401/27087724/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.05,
     "price_range": "-",
     "business_hours": "09:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26476,10 +26545,10 @@
         "url": "https://tabelog.com/aichi/A2301/A230110/23009416/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
+    "tmdb_id": 96386,
+    "tmdb_type": "tv",
     "tabelog_score": 3.07,
     "price_range": "～￥999",
     "business_hours": "10:00 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -26509,10 +26578,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "nogizaka46-milk-",
@@ -26540,10 +26609,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 96386,
+    "tmdb_type": "tv"
   },
   {
     "id": "kingprince-f9639215-20220813",

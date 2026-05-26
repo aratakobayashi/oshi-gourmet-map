@@ -12,6 +12,7 @@ price_range: "～￥999"
 source_video_title: "横浜コスモワールド【ないものねだり】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140104/14030396/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "■営業時間[月～金]11:00～21:00[土・日]11:00～22:00※繁忙期も11:00～22:00ＨＰでご確認ください。■定休日第２木曜日（繁忙期は営業） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.455217138818284
 lng: 139.63690838219262

@@ -11,6 +11,7 @@ address: "愛知県名古屋市中区錦1-16-13 チサンマンション1F"
 price_range: "～￥999"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23041534/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・金 11:00 - 17:00 土 11:00 - 15:00 日 定休日"
 lat: 35.1774689
 lng: 136.9056403

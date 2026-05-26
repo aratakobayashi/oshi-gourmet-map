@@ -11,6 +11,7 @@ address: "東京都台東区浅草1丁目8-6"
 source_video_title: "松村沙友理ちゃんねる"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%B5%85%E8%8D%89%20%E3%81%84%E3%81%A5%E7%BE%8E"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.7119497
 lng: 139.7948545
 members:

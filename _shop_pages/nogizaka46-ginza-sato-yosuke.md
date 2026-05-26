@@ -12,6 +12,7 @@ visited_date: "2023-08-10"
 source_video_title: "乃木坂46 絶品うどんを食す"
 source_video_url: "https://www.youtube.com/watch?v=N-q4O1R0hEw"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.6721
 lng: 139.7611
 members:

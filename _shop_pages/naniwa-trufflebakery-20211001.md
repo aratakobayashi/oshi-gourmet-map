@@ -11,6 +11,7 @@ address: "東京都江東区門前仲町1-15-2"
 visited_date: "2021-10-01"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.6722765
 lng: 139.7950555
 members:

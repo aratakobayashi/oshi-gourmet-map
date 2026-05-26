@@ -13,6 +13,7 @@ price_range: "￥3,000～￥3,999"
 source_video_title: "フラミンゴ【ロマンスのスタート・逃げ水】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13163978/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "■営業時間・日～木、連休最終日 11:30～2:00・金,土,祝前日 11:30～5:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.66271458550734
 lng: 139.6969339859181

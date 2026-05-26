@@ -11,6 +11,7 @@ address: "千葉県成田市御料牧場1-1 成田空港第1ターミナル 4F"
 visited_date: "2024-06-18"
 source_video_title: "日向坂46 海外出発前のラスト日本食"
 group: "hinatazaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
 lat: 35.7641
 lng: 140.3861
 members:

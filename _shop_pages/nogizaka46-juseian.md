@@ -13,6 +13,7 @@ source_video_title: "乃木坂46 浅草食べ歩きVlog"
 source_video_url: "https://www.youtube.com/watch?v=8u3Sj_W_tFw"
 group: "nogizaka46"
 hotpepper_url: "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.7148
 lng: 139.7948
 members:

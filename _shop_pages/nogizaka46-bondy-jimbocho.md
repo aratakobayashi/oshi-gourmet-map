@@ -12,6 +12,7 @@ visited_date: "2023-12-01"
 source_video_title: "乃木坂46 久保史緒里のカレー探訪"
 group: "nogizaka46"
 hotpepper_url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.6958
 lng: 139.7578
 members:

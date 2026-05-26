@@ -12,6 +12,7 @@ price_range: "-"
 source_video_title: "うみかぜ公園【ブランコ】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1406/A140601/14078893/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2748738289478
 lng: 139.68382243033776

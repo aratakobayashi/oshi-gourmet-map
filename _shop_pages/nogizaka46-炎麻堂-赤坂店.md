@@ -10,6 +10,7 @@ address: "東京都港区赤坂3-17-8 都ビルB1"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%82%8E%E9%BA%BB%E5%A0%82%20%E8%B5%A4%E5%9D%82%E5%BA%97"
 hotpepper_url: "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.6716786
 lng: 139.7356224
 members:

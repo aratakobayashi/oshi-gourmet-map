@@ -13,6 +13,7 @@ price_range: "￥2,000～￥2,999"
 source_video_title: "幕張メッセ周辺"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "16:00 - 23:00 L.O. 22:30"
 lat: 35.65070793801761
 lng: 140.04139338272162

@@ -12,6 +12,7 @@ price_range: "-"
 source_video_title: "沼津【大人への近道】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220501/22015982/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・木・金・土・日 11:00 - 19:00 水 定休日"
 lat: 35.08234404880699
 lng: 138.85769694897212

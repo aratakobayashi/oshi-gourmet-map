@@ -12,6 +12,7 @@ price_range: "～￥999"
 source_video_title: "松島【Sing Out!】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/miyagi/A0404/A040404/4010727/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "09:00 - 17:00 ■ 営業時間12月～ 4月 9：00～16：00 5月～11月 9：00～17：00「日により営業時間の変更がございますので予めご確認ください」■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.37040954742113
 lng: 141.06348530063843

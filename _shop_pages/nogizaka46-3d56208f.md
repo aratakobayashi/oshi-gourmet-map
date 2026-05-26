@@ -12,6 +12,7 @@ price_range: "～￥999"
 source_video_title: "乃木坂な妻たち"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010104/1060615/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 43.065602614524686
 lng: 141.33217404787587

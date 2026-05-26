@@ -10,6 +10,7 @@ city: "名古屋市"
 address: "愛知県名古屋市中村区太閤通6-1 ツヅキビル2F"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%96%AB%E8%8C%B6%E3%83%84%E3%83%85%E3%82%AD"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.1676209
 lng: 136.8732428
 members:

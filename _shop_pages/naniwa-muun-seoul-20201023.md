@@ -11,6 +11,7 @@ address: "東京都渋谷区神宮前3-27-15 1E"
 visited_date: "2020-10-23"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.6692039
 lng: 139.7072847
 members:

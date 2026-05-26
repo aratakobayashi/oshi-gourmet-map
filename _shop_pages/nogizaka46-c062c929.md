@@ -12,6 +12,7 @@ price_range: "～￥999"
 source_video_title: "菓匠三全"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/miyagi/A0401/A040101/4009659/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "10:00 - 20:30 ■ 定休日エスパルに準ずる"
 lat: 38.25998650743351
 lng: 140.88213264965015

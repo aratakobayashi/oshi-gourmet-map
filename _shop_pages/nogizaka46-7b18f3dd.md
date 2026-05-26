@@ -12,6 +12,7 @@ price_range: "-"
 source_video_title: "丸デブ 総本店"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/gifu/A2101/A210101/21006119/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・金 11:00 - 18:00 土・日 11:00 - 16:00 ■ 営業時間月-金 11:00～18:00頃土,日 11:00〜16:00頃※売り切れ次第終了■ 定休日6日・16日・26日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.41899240792412
 lng: 136.75685661384523
