@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "PASSAGE COFFEE"
+title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
 description: "田町・三田エリアの人気スペシャルティコーヒースタンド。厳選した豆を丁寧に抽出した一杯が楽しめる。よにのちゃんねる#465で登場。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"

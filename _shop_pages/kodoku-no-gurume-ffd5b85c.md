@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "寿苑"
+title: "孤独のグルメが行った「寿苑」"
 description: "孤独のグルメ Season5 第1話に登場した川崎の韓国焼肉店。ガーリックハラミ・サムギョプサル・タン塩・上カルビを注文。"
 shop_id: "kodoku_no_gurume-ffd5b85c-"
 name: "寿苑"

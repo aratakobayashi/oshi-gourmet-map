@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "やきとん長良"
+title: "=LOVEが行った「やきとん長良」"
 description: "杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-やきとん長良-20241215"
 name: "やきとん長良"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "カフェ＆ダイニング mateki"
+title: "=LOVEが行った「カフェ＆ダイニング mateki」"
 description: "那覇市のカフェ。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたカフェ。"
 shop_id: "equal_love-カフェダイニング_mateki-20240815"
 name: "カフェ＆ダイニング mateki"

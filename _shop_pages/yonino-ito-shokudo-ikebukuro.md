@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "伊東食堂"
+title: "よにのちゃんねるが行った「伊東食堂」"
 description: "豊島区の和食店。二宮和也・菊池風磨が2023年5月に訪れた。ボリューム満点の定食が人気。二宮さんが注文したカレーが話題になりました。"
 shop_id: "yonino-ito-shokudo-ikebukuro"
 name: "伊東食堂"

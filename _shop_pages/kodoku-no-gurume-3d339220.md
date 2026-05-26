@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "魚谷"
+title: "孤独のグルメが行った「魚谷」"
 description: "孤独のグルメ Season3 第4話に登場した文京区の居酒屋。銀ダラ西京焼き・えんがわポン酢・きんきの煮付けを注文。"
 shop_id: "kodoku_no_gurume-3d339220-"
 name: "魚谷"

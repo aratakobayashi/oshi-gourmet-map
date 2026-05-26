@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "磯丸水産食堂 自由が丘しらかば通り店"
+title: "Snow Manが行った「磯丸水産食堂 自由が丘しらかば通り店」"
 description: "目黒区のレストラン。阿部亮平が2019年11月に訪れた。阿部亮平が食べたいものとして選んだ海鮮居酒屋。すの日常2019年11月配信回。"
 shop_id: "snowman-isomaru-jiyugaoka"
 name: "磯丸水産食堂 自由が丘しらかば通り店"

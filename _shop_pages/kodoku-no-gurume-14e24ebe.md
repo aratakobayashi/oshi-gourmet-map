@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "わさび園 かどや"
+title: "孤独のグルメが行った「わさび園 かどや」"
 description: "孤独のグルメ Season3 第3話に登場した静岡・河津のわさび園食事処。生わさびをご飯にのせた「わさび丼」を注文。"
 shop_id: "kodoku_no_gurume-14e24ebe-"
 name: "わさび園 かどや"

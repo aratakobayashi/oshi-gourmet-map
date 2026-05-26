@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "酒処えびす"
+title: "=LOVEが行った「酒処えびす」"
 description: "台東区の居酒屋。諸橋沙夏が2025年4月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-酒処えびす-20250410"
 name: "酒処えびす"

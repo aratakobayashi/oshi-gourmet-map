@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "STARBUCKS RESERVE ROASTERY TOKYO"
+title: "よにのちゃんねるが行った「STARBUCKS RESERVE ROASTERY TOKYO」"
 description: "目黒区のカフェ。二宮和也・山田涼介・菊池風磨が2025年1月に訪れた。中目黒・スターバックスが楽しめる。よにのちゃんねる#391/#392登場。中目黒川沿いのスタバ世界5店舗限定ロースタリー。"
 shop_id: "yonino-starbucks-reserve-roastery"
 name: "STARBUCKS RESERVE ROASTERY TOKYO"

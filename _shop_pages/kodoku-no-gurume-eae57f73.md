@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "タムタム"
+title: "孤独のグルメが行った「タムタム」"
 description: "孤独のグルメ Season5 第3話に登場した西荻窪のチュニジア料理店。ハリラスープ・ラム肉ハンバーグ・野菜のクスクスを注文。"
 shop_id: "kodoku_no_gurume-eae57f73-"
 name: "タムタム"

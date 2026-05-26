@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "焼きそば たつみ亭"
+title: "乃木坂46が行った「焼きそば たつみ亭」"
 description: "名古屋市のラーメン店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-23d7a99a-"
 name: "焼きそば たつみ亭"

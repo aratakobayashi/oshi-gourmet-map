@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "はまべ"
+title: "孤独のグルメが行った「はまべ」"
 description: "孤独のグルメ Season6 第10話に登場した千葉・富津の海辺の定食屋。アジフライ定食にさんが焼き・肉じゃがを注文。"
 shop_id: "kodoku_no_gurume-83ea2596-"
 name: "はまべ"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "食事処 相州屋"
+title: "よにのちゃんねるが行った「食事処 相州屋」"
 description: "世田谷区の和食店。山田涼介・菊池風磨が2024年3月に訪れた。明大前が楽しめる。よにのちゃんねる#310登場。明大前の昔ながらの定食屋。"
 shop_id: "yonino-shokuji-dokoro-soushuya"
 name: "食事処 相州屋"

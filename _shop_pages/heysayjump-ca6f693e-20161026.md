@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "汁いち"
+title: "Hey! Say! JUMPが行った「汁いち」"
 description: "横浜市のラーメン店。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ"
 shop_id: "heysayjump-ca6f693e-20161026"
 name: "汁いち"

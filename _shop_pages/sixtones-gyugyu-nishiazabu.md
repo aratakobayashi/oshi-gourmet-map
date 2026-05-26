@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "牛牛 西麻布 総本店"
+title: "SixTONESが行った「牛牛 西麻布 総本店」"
 description: "六本木近くの隠れ家的高級焼肉店。ジェシーが霜降り明星・せいやと訪れた焼肉企画（ストチューブ2024年4月23日配信）で話題に。"
 shop_id: "sixtones-gyugyu-nishiazabu"
 name: "牛牛 西麻布 総本店"

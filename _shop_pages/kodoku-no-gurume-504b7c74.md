@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "まーさん"
+title: "孤独のグルメが行った「まーさん」"
 description: "孤独のグルメ Season5 第7話に登場した千歳船橋のジンギスカン店。ラム肩ロース・ラムチョップ・せせり・羊の薬膳スープを注文。"
 shop_id: "kodoku_no_gurume-504b7c74-"
 name: "まーさん"

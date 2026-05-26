@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "浅草つる次郎 HANARE"
+title: "Snow Manが行った「浅草つる次郎 HANARE」"
 description: "台東区のもんじゃ焼き店。渡辺翔太・阿部亮平・目黒蓮らが2024年5月に訪れた。浅草での「お好み焼き・もんじゃ」企画で訪問。メンバーが鉄板を囲んで食事を楽しみました。"
 shop_id: "snowman-tsurujiro-asakusa"
 name: "浅草つる次郎 HANARE"

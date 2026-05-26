@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "富錦樹台菜香檳 コレド室町テラス店"
+title: "King & Princeが行った「富錦樹台菜香檳 コレド室町テラス店」"
 description: "中央区の居酒屋。神宮寺勇太・岸優太・永瀬廉らが2022年10月に訪れた。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"

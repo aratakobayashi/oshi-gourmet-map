@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "天然とらふぐ専門 六本木浜藤"
+title: "King & Princeが行った「天然とらふぐ専門 六本木浜藤」"
 description: "港区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年3月に訪れた。"
 shop_id: "kingprince-3a9cda24-20230304"
 name: "天然とらふぐ専門 六本木浜藤"

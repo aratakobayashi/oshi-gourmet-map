@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "大人食堂"
+title: "よにのちゃんねるが行った「大人食堂」"
 description: "新宿三丁目の人気定食・おばんざい店。チキン南蛮やからあげなど家庭的な料理が揃う。白米・玄米から選べる。よにのちゃんねる#455で登場。"
 shop_id: "yonino-otona-shokudo"
 name: "大人食堂"

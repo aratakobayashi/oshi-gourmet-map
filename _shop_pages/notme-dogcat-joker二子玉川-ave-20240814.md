@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "DOG&CAT JOKER二子玉川 -AVENUE&CARE-"
+title: "≠MEが行った「DOG&CAT JOKER二子玉川 -AVENUE&CARE-」"
 description: "世田谷区のグルメスポット。蟹沢萌子が2024年8月に訪れた。≠MEの蟹沢萌子が訪れたお店。"
 shop_id: "notme-dogcat_joker二子玉川_ave-20240814"
 name: "DOG&CAT JOKER二子玉川 -AVENUE&CARE-"

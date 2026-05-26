@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "金華園"
+title: "=LOVEが行った「金華園」"
 description: "台東区の中華料理店。諸橋沙夏が2025年4月に訪れた。=LOVEの諸橋沙夏が訪れた飲食店。"
 shop_id: "equal_love-金華園-20250410"
 name: "金華園"

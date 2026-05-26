@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "usagiiya by源楽"
+title: "=LOVEが行った「usagiiya by源楽」"
 description: "熱海市のレストラン。大谷映美里が2025年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-usagiiya_by源楽-20250820"
 name: "usagiiya by源楽"

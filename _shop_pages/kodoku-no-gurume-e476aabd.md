@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "しんせらてぃ"
+title: "孤独のグルメが行った「しんせらてぃ」"
 description: "孤独のグルメ Season9 第4話に登場した東京都府中市の台湾料理店。割包や鰻の蒲焼チャーハン、ナスの冷麺など台湾の多彩な味が一堂に揃い、五郎が食べ続けた大食回。"
 shop_id: "kodoku_no_gurume-e476aabd-"
 name: "しんせらてぃ"

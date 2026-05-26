@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "和食亭"
+title: "孤独のグルメが行った「和食亭」"
 description: "孤独のグルメ Season1 第2話に登場した和食の定食屋。煮魚定食にひじき煮浸し・ほうれん草のごま和えを注文。"
 shop_id: "kodoku_no_gurume-916014a2-"
 name: "和食亭"

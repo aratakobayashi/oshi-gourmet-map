@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "月島名物もんじゃ だるま ソラマチ店"
+title: "SixTONESが行った「月島名物もんじゃ だるま ソラマチ店」"
 description: "東京ソラマチ7Fのもんじゃ焼き専門店。6人の忘年会2024の会場として使用。プレミアムもち明太チーズもんじゃ等を堪能（ストチューブ2025年4月11日配信）。"
 shop_id: "sixtones-daruma-soramachi"
 name: "月島名物もんじゃ だるま ソラマチ店"

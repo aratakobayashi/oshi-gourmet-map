@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ICARO miyamoto"
+title: "King & Princeが行った「ICARO miyamoto」"
 description: "目黒区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。"
 shop_id: "kingprince-icaro_miyamoto-20220903"
 name: "ICARO miyamoto"

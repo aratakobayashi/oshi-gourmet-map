@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "四川家庭料理 珍々"
+title: "孤独のグルメが行った「四川家庭料理 珍々」"
 description: "孤独のグルメ Season2 第6話に登場した江戸川・京成小岩の四川家庭料理店。豚肉ニンニクダレ・麻婆豆腐・裏メニュー「じゃがとろ」を注文。"
 shop_id: "kodoku_no_gurume-bcc4bf93-"
 name: "四川家庭料理 珍々"

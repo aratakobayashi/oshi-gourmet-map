@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "函館洋菓子スナッフルス 金森洋物館店"
+title: "乃木坂46が行った「函館洋菓子スナッフルス 金森洋物館店」"
 description: "函館市のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-dcca8bec-"
 name: "函館洋菓子スナッフルス 金森洋物館店"

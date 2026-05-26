@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "スタジオカフェ MARU"
+title: "中丸雄一が行った「スタジオカフェ MARU」"
 description: "新宿区のカフェ。中丸雄一が2024年7月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。"
 shop_id: "ginga-スタジオカフェ_maru-20250709"
 name: "スタジオカフェ MARU"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "庄助"
+title: "孤独のグルメが行った「庄助」"
 description: "孤独のグルメ Season1 第1話に登場した焼き鳥・居酒屋。ねぎま・なんこつ・砂肝など焼き鳥多品目と焼きめしを注文。"
 shop_id: "kodoku_no_gurume-fda4752d-"
 name: "庄助"

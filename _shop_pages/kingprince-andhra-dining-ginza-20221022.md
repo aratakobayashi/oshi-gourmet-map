@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Andhra Dining GINZA"
+title: "King & Princeが行った「Andhra Dining GINZA」"
 description: "中央区の居酒屋。平野紫耀・神宮寺勇太・岸優太らが2022年10月に訪れた。"
 shop_id: "kingprince-andhra_dining_ginza-20221022"
 name: "Andhra Dining GINZA"

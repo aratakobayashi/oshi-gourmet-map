@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "GINZA 過門香 錦糸町駅前プラザビル店"
+title: "SixTONESが行った「GINZA 過門香 錦糸町駅前プラザビル店」"
 description: "スカイツリーを望む8Fの中華レストラン。小籠包ランチビュッフェで6人が「わんこ小籠包100皿食い尽くせ」に挑戦（ストチューブ2024年8月16日配信）。"
 shop_id: "sixtones-kamonka-kinshicho"
 name: "GINZA 過門香 錦糸町駅前プラザビル店"

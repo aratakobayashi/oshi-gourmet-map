@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "三久飯店"
+title: "timeleszが行った「三久飯店」"
 description: "目黒区のレストラン。佐藤勝利が訪れたtimeleszのロケ地。昭和43年創業の老舗中華料理店。ボリューム満点の中華丼や五目そばが人気。"
 shop_id: "timelesz-540cca88-"
 name: "三久飯店"

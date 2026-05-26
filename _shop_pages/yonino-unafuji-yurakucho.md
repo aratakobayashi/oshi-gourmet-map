@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "炭焼 うな富士 有楽町店"
+title: "よにのちゃんねるが行った「炭焼 うな富士 有楽町店」"
 description: "名古屋発の炭焼きうなぎ専門店の有楽町・日比谷OKUROJI店。ひつまぶしと蒲焼きが人気。よにのちゃんねる#452で登場。"
 shop_id: "yonino-unafuji-yurakucho"
 name: "炭焼 うな富士 有楽町店"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "とんかつ割烹 やすいみ～と"
+title: "孤独のグルメが行った「とんかつ割烹 やすいみ～と」"
 description: "孤独のグルメ Season10 第24話に登場した和食店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-f586f38d-"
 name: "とんかつ割烹 やすいみ～と"

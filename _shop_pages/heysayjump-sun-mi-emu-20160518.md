@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Sun-mi 高松本店 EMU"
+title: "Hey! Say! JUMPが行った「Sun-mi 高松本店 EMU」"
 description: "中央区のレストラン。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集"
 shop_id: "heysayjump-sun_mi_emu-20160518"
 name: "Sun-mi 高松本店 EMU"

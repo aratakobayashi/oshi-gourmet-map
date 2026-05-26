@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "カフェ ラボ ハマダ"
+title: "乃木坂46が行った「カフェ ラボ ハマダ」"
 description: "足利市のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-d20044af-"
 name: "カフェ ラボ ハマダ"

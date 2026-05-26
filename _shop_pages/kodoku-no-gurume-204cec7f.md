@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "平和苑"
+title: "孤独のグルメが行った「平和苑」"
 description: "孤独のグルメ Season2 第3話に登場した中野・沼袋の焼肉店。わさびカルビと卵かけご飯というシンプルな組み合わせを注文。"
 shop_id: "kodoku_no_gurume-204cec7f-"
 name: "平和苑"

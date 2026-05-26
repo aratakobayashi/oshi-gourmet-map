@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ジンギスカン どぅー"
+title: "孤独のグルメが行った「ジンギスカン どぅー」"
 description: "孤独のグルメ Season8 第11話に登場した武蔵小杉のジンギスカン店。チャックロール ネギ塩焼き・ジンギスカンセット3種を注文。"
 shop_id: "kodoku_no_gurume-1fa251f2-"
 name: "ジンギスカン どぅー"

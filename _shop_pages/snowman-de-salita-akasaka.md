@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Trattoria e Pizzeria De salita 赤坂"
+title: "Snow Manが行った「Trattoria e Pizzeria De salita 赤坂」"
 description: "港区のレストラン。岩本照・深澤辰哉・渡辺翔太らが2020年3月に訪れた。イタリアンが楽しめる。「宮舘涼太の食べたいものを当てろ」で訪れたイタリアン。開放的なテラス席があるおしゃれな店舗。"
 shop_id: "snowman-de-salita-akasaka"
 name: "Trattoria e Pizzeria De salita 赤坂"

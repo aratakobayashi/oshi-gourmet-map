@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "カヤシマ"
+title: "孤独のグルメが行った「カヤシマ」"
 description: "孤独のグルメ Season1 第7話に登場した吉祥寺の洋食店。ナポリタンとハンバーグを注文。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"

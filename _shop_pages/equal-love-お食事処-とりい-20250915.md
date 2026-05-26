@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "お食事処 とりい"
+title: "=LOVEが行った「お食事処 とりい」"
 description: "廿日市のレストラン。山本杏奈・佐々木舞香が2025年9月に訪れた。=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-お食事処_とりい-20250915"
 name: "お食事処 とりい"

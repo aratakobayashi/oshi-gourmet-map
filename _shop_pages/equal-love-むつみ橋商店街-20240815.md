@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "むつみ橋商店街"
+title: "=LOVEが行った「むつみ橋商店街」"
 description: "那覇市のグルメスポット。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたお店。"
 shop_id: "equal_love-むつみ橋商店街-20240815"
 name: "むつみ橋商店街"

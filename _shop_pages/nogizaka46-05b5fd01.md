@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "松島蒲鉾本舗 総本店"
+title: "乃木坂46が行った「松島蒲鉾本舗 総本店」"
 description: "宮城郡松島町のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-05b5fd01-"
 name: "松島蒲鉾本舗 総本店"

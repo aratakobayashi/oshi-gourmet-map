@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "うどんや藤"
+title: "孤独のグルメが行った「うどんや藤」"
 description: "孤独のグルメ Season8 第4話に登場した埼玉・新座の手打ちうどん店。田舎うどん（中もり）・肉汁・五目野菜汁・おむすびを注文。"
 shop_id: "kodoku_no_gurume-f06c8c10-"
 name: "うどんや藤"

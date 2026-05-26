@@ -43,7 +43,21 @@ for shop in shops:
     if not shop_id:
         continue
 
-    lines = ["---", f"layout: shop", f"title: {yaml_str(shop.get('name',''))}"]
+    GROUP_LABELS = {
+        'yonino':'よにのちゃんねる','snowman':'Snow Man','sixtones':'SixTONES',
+        'naniwa':'なにわ男子','kamenashi':'亀梨和也','kamaitachi':'かまいたち',
+        'equal_love':'=LOVE','notme':'≠ME','neajoy':'≒JOY','nogizaka46':'乃木坂46',
+        'sakurazaka46':'櫻坂46','hinatazaka46':'日向坂46','ginga':'中丸雄一',
+        'kodoku_no_gurume':'孤独のグルメ','timelesz':'timelesz',
+        'heysayjump':'Hey! Say! JUMP','kingprince':'King & Prince','shiori':'しおり',
+    }
+    group_label = GROUP_LABELS.get(shop.get('group',''), '')
+    name = shop.get('name', '')
+    if group_label:
+        page_title = f'{group_label}が行った「{name}」'
+    else:
+        page_title = name
+    lines = ["---", f"layout: shop", f"title: {yaml_str(page_title)}"]
 
     # description for <title> / og:description
     desc = shop.get("description") or ""

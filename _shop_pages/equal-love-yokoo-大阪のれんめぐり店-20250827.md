@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "YOKOO 大阪のれんめぐり店"
+title: "=LOVEが行った「YOKOO 大阪のれんめぐり店」"
 description: "大阪市のレストラン。大谷映美里が2025年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-yokoo_大阪のれんめぐり店-20250827"
 name: "YOKOO 大阪のれんめぐり店"

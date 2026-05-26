@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "KORIN"
+title: "中丸雄一が行った「KORIN」"
 description: "中央区の居酒屋。中丸雄一が2024年4月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。"
 shop_id: "ginga-korin-20250413"
 name: "KORIN"

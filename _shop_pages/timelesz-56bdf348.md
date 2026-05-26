@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "常盤堂雷おこし本舗 雷門本店"
+title: "timeleszが行った「常盤堂雷おこし本舗 雷門本店」"
 description: "台東区のスイーツショップ。菊池風磨が訪れたtimeleszのロケ地。浅草名物・雷おこしの老舗。サクサクの食感と優しい甘さが特徴。"
 shop_id: "timelesz-56bdf348-"
 name: "常盤堂雷おこし本舗 雷門本店"

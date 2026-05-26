@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "四馬路"
+title: "孤独のグルメが行った「四馬路」"
 description: "孤独のグルメ Season8 第3話に登場した銀座の洋食店。ロールキャベツ定食（紅白なます・味噌汁付き）を注文。"
 shop_id: "kodoku_no_gurume-ae19e1a8-"
 name: "四馬路"

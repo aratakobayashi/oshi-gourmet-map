@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "天心閣"
+title: "=LOVEが行った「天心閣」"
 description: "廿日市のレストラン。山本杏奈・佐々木舞香が2025年9月に訪れた。=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-天心閣-20250915"
 name: "天心閣"

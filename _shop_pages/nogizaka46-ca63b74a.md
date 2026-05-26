@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "プロント ウインズ汐留店"
+title: "乃木坂46が行った「プロント ウインズ汐留店」"
 description: "港区の居酒屋。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-ca63b74a-"
 name: "プロント ウインズ汐留店"

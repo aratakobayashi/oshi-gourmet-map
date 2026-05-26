@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Flamingo 恵比寿"
+title: "しおりが行った「Flamingo 恵比寿」"
 description: "渋谷区の居酒屋。しおりが2026年5月に訪れた。恵比寿の人気居酒屋Flamingo本店。しおりが「また絶対いく」と動画でコメントした推しの一軒。"
 shop_id: "shiori-flamingo-20260514"
 name: "Flamingo 恵比寿"

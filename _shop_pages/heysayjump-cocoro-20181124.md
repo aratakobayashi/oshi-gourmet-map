@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "cocoro 川越店"
+title: "Hey! Say! JUMPが行った「cocoro 川越店」"
 description: "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-cocoro-20181124"
 name: "cocoro 川越店"

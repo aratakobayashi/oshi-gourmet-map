@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "大久堂 OKUDO カフェ"
+title: "中丸雄一が行った「大久堂 OKUDO カフェ」"
 description: "新宿区のカフェ。中丸雄一が2024年7月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。"
 shop_id: "ginga-大久堂_okudo_カフェ-20250709"
 name: "大久堂 OKUDO カフェ"

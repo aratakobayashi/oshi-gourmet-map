@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店"
+title: "SixTONESが行った「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」"
 description: "赤レンガ倉庫内のカフェ＆ロティサリー。「MV撮影の合間に…カメラ回してみた!!」（2023年3月10日配信）でメンバー4人が訪問。クランベリージュースが翌日売り切れ続出。"
 shop_id: "sixtones-lacocorico-akarenga"
 name: "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店"

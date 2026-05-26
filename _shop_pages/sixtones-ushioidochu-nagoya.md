@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "極上松阪牛 牛追道中"
+title: "SixTONESが行った「極上松阪牛 牛追道中」"
 description: "名古屋の高級松阪牛専門焼肉店。YOUNG OLD 5大ドームツアー名古屋バンテリンドーム千穐楽前の打ち上げ会場（ストチューブ2025年4月18日配信）。木村拓哉も訪れる芸能人御用達店。"
 shop_id: "sixtones-ushioidochu-nagoya"
 name: "極上松阪牛 牛追道中"

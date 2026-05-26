@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Fireking Cafe"
+title: "しおりが行った「Fireking Cafe」"
 description: "渋谷区のカフェ。しおりが2024年3月に訪れた。代々木上原の落ち着いたカフェバー。しおりが渋谷はしご酒動画で訪れた。"
 shop_id: "shiori-fireking_cafe-20240316"
 name: "Fireking Cafe"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "COA GINZA"
+title: "=LOVEが行った「COA GINZA」"
 description: "中央区のカフェ。大谷映美里が2025年10月に訪れた。=LOVEの大谷映美里が訪れたカフェ。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"

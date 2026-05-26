@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "南印度ダイニング"
+title: "孤独のグルメが行った「南印度ダイニング」"
 description: "中野区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-478de61c-"
 name: "南印度ダイニング"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "情熱居酒屋じゃじゃ馬"
+title: "=LOVEが行った「情熱居酒屋じゃじゃ馬」"
 description: "いわき市の居酒屋。諸橋沙夏が2024年8月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-情熱居酒屋じゃじゃ馬-20240814"
 name: "情熱居酒屋じゃじゃ馬"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "眞実一路"
+title: "孤独のグルメが行った「眞実一路」"
 description: "孤独のグルメ Season7 第5話に登場した千代田区の中国料理店。2色の麻婆豆腐とワンタン入り滋養スープを注文。"
 shop_id: "kodoku_no_gurume-949508cf-"
 name: "眞実一路"

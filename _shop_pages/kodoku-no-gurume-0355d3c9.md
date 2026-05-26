@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "中華・洋食 やよい"
+title: "孤独のグルメが行った「中華・洋食 やよい」"
 description: "孤独のグルメ Season8 第12話に登場した三ノ輪の中華・洋食店。カツ丼 上・冷し麻婆麺・餃子を注文。"
 shop_id: "kodoku_no_gurume-0355d3c9-"
 name: "中華・洋食 やよい"

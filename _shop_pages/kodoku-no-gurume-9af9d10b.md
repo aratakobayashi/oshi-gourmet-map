@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "みやこや"
+title: "孤独のグルメが行った「みやこや」"
 description: "孤独のグルメ Season1 第6話に登場した洋食・定食屋。ロースにんにく焼とミックスかつ定食を注文。"
 shop_id: "kodoku_no_gurume-9af9d10b-"
 name: "みやこや"

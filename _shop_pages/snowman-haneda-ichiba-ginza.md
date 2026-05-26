@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "羽田市場 GINZA SEVEN"
+title: "Snow Manが行った「羽田市場 GINZA SEVEN」"
 description: "中央区の寿司店。岩本照・宮舘涼太・佐久間大介らが2025年7月に訪れた。銀座にある、超新鮮な魚介が楽しめるお店。高級魚を使った回転寿司形式のランチを堪能。"
 shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"

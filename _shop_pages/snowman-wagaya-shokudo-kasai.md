@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "わが家の食堂 葛西店"
+title: "Snow Manが行った「わが家の食堂 葛西店」"
 description: "江戸川区の和食店。目黒蓮・ラウール・深澤辰哉らが2025年3月に訪れた。惣菜バイキング・24時間が楽しめる。「街の定食屋さんで極上ランチ」として岩本さんが紹介。セルフ形式で好きな小鉢を選べる人気店。"
 shop_id: "snowman-wagaya-shokudo-kasai"
 name: "わが家の食堂 葛西店"

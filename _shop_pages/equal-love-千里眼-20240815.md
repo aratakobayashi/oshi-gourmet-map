@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "千里眼"
+title: "=LOVEが行った「千里眼」"
 description: "目黒区のラーメン店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-千里眼-20240815"
 name: "千里眼"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "韓国農林水産大臣賞受賞 アス 下北沢店"
+title: "King & Princeが行った「韓国農林水産大臣賞受賞 アス 下北沢店」"
 description: "世田谷区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。"
 shop_id: "kingprince-fc0eeee2-20220903"
 name: "韓国農林水産大臣賞受賞 アス 下北沢店"

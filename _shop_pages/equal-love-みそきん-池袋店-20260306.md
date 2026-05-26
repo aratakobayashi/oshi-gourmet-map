@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "みそきん 池袋店"
+title: "=LOVEが行った「みそきん 池袋店」"
 description: "豊島区のラーメン店。大谷映美里が2026年3月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-みそきん_池袋店-20260306"
 name: "みそきん 池袋店"

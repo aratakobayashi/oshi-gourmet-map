@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ブラッスリー ポール・ボキューズ 銀座"
+title: "King & Princeが行った「ブラッスリー ポール・ボキューズ 銀座」"
 description: "中央区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年3月に訪れた。"
 shop_id: "kingprince-41fc4dc8-20230304"
 name: "ブラッスリー ポール・ボキューズ 銀座"

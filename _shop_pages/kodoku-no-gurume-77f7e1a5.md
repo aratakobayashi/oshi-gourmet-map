@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "田や"
+title: "孤独のグルメが行った「田や」"
 description: "孤独のグルメ Season2 第10話に登場した北区・十条の定食屋。鯖のくんせい・どんぶりしらすなど個性豊かな一品料理を注文。"
 shop_id: "kodoku_no_gurume-77f7e1a5-"
 name: "田や"

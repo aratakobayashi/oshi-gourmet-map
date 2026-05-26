@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Paul Bassett 新宿"
+title: "よにのちゃんねるが行った「Paul Bassett 新宿」"
 description: "バリスタ世界チャンピオンのポール・バセットが手がけるエスプレッソカフェ。スペシャルティコーヒーの名店。よにのちゃんねる#455で登場。"
 shop_id: "yonino-paul-bassett-shinjuku"
 name: "Paul Bassett 新宿"

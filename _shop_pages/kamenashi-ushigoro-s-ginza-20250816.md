@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "USHIGORO S. GINZA"
+title: "亀梨和也が行った「USHIGORO S. GINZA」"
 description: "中央区の焼肉店。亀梨和也が2025年8月に訪れた。Snow Manの渡辺翔太くん、松原タニシさんと一緒に来た焼肉屋さんです。"
 shop_id: "kamenashi-ushigoro_s_ginza-20250816"
 name: "USHIGORO S. GINZA"

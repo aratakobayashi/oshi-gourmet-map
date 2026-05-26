@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "キッチン ぴーなっつ"
+title: "Snow Manが行った「キッチン ぴーなっつ」"
 description: "目黒蓮プレゼンツ荒川ドライブランチ企画。隠れ家洋食店でドリア・ハンバーグを堪能。すの日常2023年10月25日配信。"
 shop_id: "snowman-kitchen-peanuts-arakawa"
 name: "キッチン ぴーなっつ"

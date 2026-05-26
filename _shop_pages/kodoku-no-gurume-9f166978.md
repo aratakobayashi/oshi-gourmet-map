@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "まつやホルモン店"
+title: "孤独のグルメが行った「まつやホルモン店」"
 description: "孤独のグルメ Season8 第8話に登場した鳥取のホルモン店。オーカク（塩）・ホルモンそば・サイコロステーキを注文。"
 shop_id: "kodoku_no_gurume-9f166978-"
 name: "まつやホルモン店"

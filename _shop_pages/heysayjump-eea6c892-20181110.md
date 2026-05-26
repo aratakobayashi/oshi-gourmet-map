@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "松本醤油商店"
+title: "Hey! Say! JUMPが行った「松本醤油商店」"
 description: "川越市のグルメスポット。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-eea6c892-20181110"
 name: "松本醤油商店"

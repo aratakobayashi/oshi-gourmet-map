@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ヒロキ 下北沢店"
+title: "孤独のグルメが行った「ヒロキ 下北沢店」"
 description: "孤独のグルメ Season1 第9話に登場した下北沢の広島風お好み焼き店。HIROKIスペシャル（そば入り）を注文。"
 shop_id: "kodoku_no_gurume-8a525c29-"
 name: "ヒロキ 下北沢店"

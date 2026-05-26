@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "三全 仙台エスパル店"
+title: "乃木坂46が行った「三全 仙台エスパル店」"
 description: "仙台市のスイーツショップ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-c062c929-"
 name: "三全 仙台エスパル店"

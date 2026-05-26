@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "六本木らーめん 東京食品 まる彦"
+title: "乃木坂46が行った「六本木らーめん 東京食品 まる彦」"
 description: "港区のラーメン店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-9be54ae5-"
 name: "六本木らーめん 東京食品 まる彦"

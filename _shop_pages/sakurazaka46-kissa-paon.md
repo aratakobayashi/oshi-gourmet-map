@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "喫茶パオーン"
+title: "櫻坂46が行った「喫茶パオーン」"
 description: "世田谷区のカフェ。田村保乃・森田ひかるが2025年1月に訪れた。千歳船橋にあるレトロカフェ。クリームソーダが有名。"
 shop_id: "sakurazaka46-kissa-paon"
 name: "喫茶パオーン"

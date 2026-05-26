@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "カリフキッチン沖縄"
+title: "=LOVEが行った「カリフキッチン沖縄」"
 description: "中頭郡北谷町のレストラン。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-カリフキッチン沖縄-20240815"
 name: "カリフキッチン沖縄"

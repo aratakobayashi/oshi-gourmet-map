@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "デモデダイナー 福生店"
+title: "乃木坂46が行った「デモデダイナー 福生店」"
 description: "福生市の居酒屋。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-76d7ba94-"
 name: "デモデダイナー 福生店"

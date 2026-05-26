@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "BLUE SIX COFFEE"
+title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
 description: "よにのちゃんねる#409登場。Mrs.GREEN APPLE大森元貴ゲスト回。国立競技場隣の都立明治公園内カフェ。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"

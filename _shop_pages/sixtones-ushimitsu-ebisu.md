@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "恵比寿 焼肉 うしみつ"
+title: "SixTONESが行った「恵比寿 焼肉 うしみつ」"
 description: "渋谷区の焼肉店。松村北斗が訪れたSixTONESのロケ地。「松村北斗の食べたいものを当てろ」で訪問。高級感あふれる空間で、絶品の焼き肉を堪能しました。"
 shop_id: "sixtones-ushimitsu-ebisu"
 name: "恵比寿 焼肉 うしみつ"

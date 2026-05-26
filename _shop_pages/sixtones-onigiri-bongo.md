@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "おにぎり ぼんご"
+title: "SixTONESが行った「おにぎり ぼんご」"
 description: "豊島区の和食店。SixTONESが訪れたロケ地。大塚にある超人気おにぎり専門店。具だくさんで大きなおにぎりにメンバーが驚いていました。"
 shop_id: "sixtones-onigiri-bongo"
 name: "おにぎり ぼんご"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "そば街角"
+title: "=LOVEが行った「そば街角」"
 description: "那覇市の和食店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-そば街角-20240815"
 name: "そば街角"

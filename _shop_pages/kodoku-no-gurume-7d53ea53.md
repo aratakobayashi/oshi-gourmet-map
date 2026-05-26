@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "中華飯店 一番"
+title: "孤独のグルメが行った「中華飯店 一番」"
 description: "荒川区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-7d53ea53-"
 name: "中華飯店 一番"

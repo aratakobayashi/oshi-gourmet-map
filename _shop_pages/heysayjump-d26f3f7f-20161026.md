@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "秀ちゃんラーメン赤坂"
+title: "Hey! Say! JUMPが行った「秀ちゃんラーメン赤坂」"
 description: "東京都のラーメン店。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ"
 shop_id: "heysayjump-d26f3f7f-20161026"
 name: "秀ちゃんラーメン赤坂"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "第一亭"
+title: "孤独のグルメが行った「第一亭」"
 description: "孤独のグルメ Season3 第2話に登場した横浜の中華店。豚胃のしょうが炒め「チート」とパタンを注文。"
 shop_id: "kodoku_no_gurume-5cea7b76-"
 name: "第一亭"

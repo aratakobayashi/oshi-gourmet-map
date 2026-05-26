@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "雷本店"
+title: "=LOVEが行った「雷本店」"
 description: "松戸市のレストラン。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-雷本店-20240815"
 name: "雷本店"

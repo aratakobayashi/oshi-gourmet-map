@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "二丁目食堂トレド"
+title: "よにのちゃんねるが行った「二丁目食堂トレド」"
 description: "1972年創業の神楽坂老舗洋食店。継ぎ足しカレーとトルコライスが名物。よにのちゃんねる#282に登場。"
 shop_id: "yonino-nijome-shokudo-toledo"
 name: "二丁目食堂トレド"

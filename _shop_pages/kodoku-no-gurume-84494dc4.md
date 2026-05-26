@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "きずき"
+title: "孤独のグルメが行った「きずき」"
 description: "出雲市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-84494dc4-"
 name: "きずき"

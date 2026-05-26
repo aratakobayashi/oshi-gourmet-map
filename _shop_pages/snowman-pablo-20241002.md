@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Pablo"
+title: "Snow Manが行った「Pablo」"
 description: "レストラン。Snow Manが訪れたロケ地。すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"

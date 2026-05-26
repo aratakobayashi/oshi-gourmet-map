@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "みさきまぐろ倶楽部"
+title: "乃木坂46が行った「みさきまぐろ倶楽部」"
 description: "三浦市のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-d94583ff-"
 name: "みさきまぐろ倶楽部"

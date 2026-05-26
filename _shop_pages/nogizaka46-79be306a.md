@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "しみてん木乃幡 仙台駅店"
+title: "乃木坂46が行った「しみてん木乃幡 仙台駅店」"
 description: "仙台市のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-79be306a-"
 name: "しみてん木乃幡 仙台駅店"

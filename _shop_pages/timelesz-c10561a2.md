@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "舟和 本店"
+title: "timeleszが行った「舟和 本店」"
 description: "台東区のスイーツショップ。猪俣周杜が訪れたtimeleszのロケ地。浅草の老舗和菓子店。あんみつや芋ようかんが名物。"
 shop_id: "timelesz-c10561a2-"
 name: "舟和 本店"

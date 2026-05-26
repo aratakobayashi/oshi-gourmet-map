@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "さわやか 新静岡セノバ店"
+title: "乃木坂46が行った「さわやか 新静岡セノバ店」"
 description: "静岡市の焼肉店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-416e17d8-"
 name: "さわやか 新静岡セノバ店"

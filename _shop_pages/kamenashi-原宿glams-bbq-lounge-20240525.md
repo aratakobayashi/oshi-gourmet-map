@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "原宿GLAMS BBQ Lounge"
+title: "亀梨和也が行った「原宿GLAMS BBQ Lounge」"
 description: "なにわ男子の藤原丈一郎くんと行ったバーベキュー専門店です。 亀梨ファームで収獲した野菜たちを使ってバーベキューを楽しみました。"
 shop_id: "kamenashi-原宿glams_bbq_lounge-20240525"
 name: "原宿GLAMS BBQ Lounge"

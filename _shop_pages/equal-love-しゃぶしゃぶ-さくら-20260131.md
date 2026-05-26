@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "しゃぶしゃぶ さくら"
+title: "=LOVEが行った「しゃぶしゃぶ さくら」"
 description: "横浜市のレストラン。大谷映美里が2026年1月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-しゃぶしゃぶ_さくら-20260131"
 name: "しゃぶしゃぶ さくら"

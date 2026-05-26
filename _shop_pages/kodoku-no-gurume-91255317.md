@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鳥獣菜魚 あい川"
+title: "孤独のグルメが行った「鳥獣菜魚 あい川」"
 description: "横浜市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-91255317-"
 name: "鳥獣菜魚 あい川"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "白水堂 思案橋本店"
+title: "乃木坂46が行った「白水堂 思案橋本店」"
 description: "長崎市のスイーツショップ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-9c79a146-"
 name: "白水堂 思案橋本店"

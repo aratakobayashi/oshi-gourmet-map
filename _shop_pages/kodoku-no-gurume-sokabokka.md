@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "SokaBokka"
+title: "孤独のグルメが行った「SokaBokka」"
 description: "孤独のグルメ Season1 第12話に登場した中目黒の沖縄料理店。アグー豚塩焼き・タコライス・ソーキそばを注文。"
 shop_id: "kodoku_no_gurume-sokabokka-"
 name: "SokaBokka"

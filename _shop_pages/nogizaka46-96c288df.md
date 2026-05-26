@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "いなろ食堂"
+title: "乃木坂46が行った「いなろ食堂」"
 description: "沼津市のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-96c288df-"
 name: "いなろ食堂"

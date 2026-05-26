@@ -21,6 +21,8 @@
   {% assign ogp_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/hqdefault.jpg' %}
 {% elsif page.youtube_id %}
   {% assign ogp_image = page.youtube_id | prepend: 'https://img.youtube.com/vi/' | append: '/hqdefault.jpg' %}
+{% elsif page.thumbnail_url %}
+  {% assign ogp_image = page.thumbnail_url %}
 {% elsif page.thumbnail %}
   {% assign ogp_image = page.thumbnail | absolute_url %}
 {% endif %}

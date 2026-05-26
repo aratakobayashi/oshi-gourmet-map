@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "チャオタイ 銀座店"
+title: "King & Princeが行った「チャオタイ 銀座店」"
 description: "中央区のレストラン。神宮寺勇太・岸優太・永瀬廉が2022年8月に訪れた。"
 shop_id: "kingprince-8c0bf4f0-20220813"
 name: "チャオタイ 銀座店"

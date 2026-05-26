@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "종점숯불갈비"
+title: "孤独のグルメが行った「종점숯불갈비」"
 description: "孤独のグルメ Season7 第10話に登場したソウルの炭火焼カルビ店。デジカルビ・骨付き豚カルビ・テンジャンチゲを注文。"
 shop_id: "kodoku_no_gurume-1f04386e-"
 name: "종점숯불갈비"

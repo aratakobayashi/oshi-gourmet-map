@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "うな達"
+title: "Hey! Say! JUMPが行った「うな達」"
 description: "豊島区の和食店。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した和食店。山田涼介・八乙女光が訪問。"
 shop_id: "heysayjump-25f1ec3d-20180908"
 name: "うな達"

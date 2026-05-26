@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "丸子峠鯛焼き屋"
+title: "Hey! Say! JUMPが行った「丸子峠鯛焼き屋」"
 description: "静岡市のスイーツショップ。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集"
 shop_id: "heysayjump-dcaf8134-20170201"
 name: "丸子峠鯛焼き屋"

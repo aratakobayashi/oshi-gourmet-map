@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "南粤美食"
+title: "孤独のグルメが行った「南粤美食」"
 description: "孤独のグルメ Season8 第1話に登場した横浜中華街の広東料理店。腸詰め干し肉貝柱釜飯・香港海老雲呑麺を注文。"
 shop_id: "kodoku_no_gurume-6dfc42b1-"
 name: "南粤美食"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "GOOD MORNING CAFE 錦町"
+title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
 description: "『22nd帰り道は遠回りしたくなるType-A』に収録されている、与田祐希さんの個人PV『ピクニック』が撮影されたカフェです^ ^"
 shop_id: "nogizaka46-good_morning_cafe_錦町-"
 name: "GOOD MORNING CAFE 錦町"

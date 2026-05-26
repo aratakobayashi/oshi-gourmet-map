@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "串カツ玩具-GANG-"
+title: "=LOVEが行った「串カツ玩具-GANG-」"
 description: "杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。さなつんのはしご酒シリーズ第3弾「高円寺編」で訪問。おもちゃ箱のような店内で串カツとお酒を楽しむ。"
 shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"

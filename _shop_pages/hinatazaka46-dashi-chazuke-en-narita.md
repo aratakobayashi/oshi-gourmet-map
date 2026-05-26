@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "だし茶漬け えん 成田空港店"
+title: "日向坂46が行った「だし茶漬け えん 成田空港店」"
 description: "成田市の和食店。佐々木久美・高瀬愛奈が2024年6月に訪れた。空港で手軽に食べられる出汁茶漬け。旅の前の定番。"
 shop_id: "hinatazaka46-dashi-chazuke-en-narita"
 name: "だし茶漬け えん 成田空港店"

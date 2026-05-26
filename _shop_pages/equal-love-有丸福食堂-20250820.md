@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "（有）丸福食堂"
+title: "=LOVEが行った「（有）丸福食堂」"
 description: "熱海市のレストラン。大谷映美里が2025年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-有丸福食堂-20250820"
 name: "（有）丸福食堂"

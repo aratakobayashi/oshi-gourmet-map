@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "お肴野郎 清介"
+title: "=LOVEが行った「お肴野郎 清介」"
 description: "熱海市の居酒屋。大谷映美里が2025年9月に訪れた。=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-お肴野郎_清介-20250905"
 name: "お肴野郎 清介"

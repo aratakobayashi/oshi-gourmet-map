@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "食堂とだか"
+title: "孤独のグルメが行った「食堂とだか」"
 description: "孤独のグルメ Season6 第12話に登場した品川の創作和食店。ウニ・オン・ザ・煮玉子・キンキと茄子の包み焼き・牛ご飯を注文。"
 shop_id: "kodoku_no_gurume-9ec04f1e-"
 name: "食堂とだか"

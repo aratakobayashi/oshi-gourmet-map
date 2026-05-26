@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "あちらぼ"
+title: "=LOVEが行った「あちらぼ」"
 description: "杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-あちらぼ-20241215"
 name: "あちらぼ"

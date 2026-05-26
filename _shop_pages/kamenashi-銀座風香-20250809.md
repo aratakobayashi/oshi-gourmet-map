@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "銀座風香"
+title: "亀梨和也が行った「銀座風香」"
 description: "中央区のスイーツショップ。亀梨和也が2025年8月に訪れた。Snow Manの渡辺翔太くんと来た、高級かき氷店です。"
 shop_id: "kamenashi-銀座風香-20250809"
 name: "銀座風香"

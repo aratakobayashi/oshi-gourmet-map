@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "IORI"
+title: "=LOVEが行った「IORI」"
 description: "千歳市のレストラン。大谷映美里・佐々木舞香が2024年8月に訪れた。=LOVEの大谷映美里・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"

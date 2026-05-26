@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Hohokam DINER"
+title: "亀梨和也が行った「Hohokam DINER」"
 description: "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。"
 shop_id: "kamenashi-hohokam_diner-20240413"
 name: "Hohokam DINER"

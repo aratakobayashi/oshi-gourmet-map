@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鳥椿 鶯谷朝顔通り店"
+title: "孤独のグルメが行った「鳥椿 鶯谷朝顔通り店」"
 description: "孤独のグルメ Season3 第8話に登場した鶯谷の鳥料理店。揚げレバー・ハムカツ・アボカド鶏メンチ・鳥鍋めしを注文。"
 shop_id: "kodoku_no_gurume-8cd47230-"
 name: "鳥椿 鶯谷朝顔通り店"

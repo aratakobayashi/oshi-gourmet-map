@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "割烹ちゃんこ 大内"
+title: "孤独のグルメが行った「割烹ちゃんこ 大内」"
 description: "孤独のグルメ Season2 第8話に登場した両国のちゃんこ鍋店。鳥そっぷ鍋にうどんを入れて締める相撲部屋ゆかりの一品を注文。"
 shop_id: "kodoku_no_gurume-6d621f1f-"
 name: "割烹ちゃんこ 大内"

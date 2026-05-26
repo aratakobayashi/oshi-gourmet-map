@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "酒と蕎麦ちりん"
+title: "よにのちゃんねるが行った「酒と蕎麦ちりん」"
 description: "品川区の和食店。二宮和也・山田涼介が2023年9月に訪れた。よにのちゃんねる#268登場。武蔵小山の蕎麦居酒屋。"
 shop_id: "yonino-sake-soba-chirin"
 name: "酒と蕎麦ちりん"

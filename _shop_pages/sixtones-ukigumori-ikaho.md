@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "浮曇（うきぐもり）"
+title: "SixTONESが行った「浮曇（うきぐもり）」"
 description: "伊香保温泉石段街にある居酒屋。帰ってきたアポなし旅 最終日（2023年11月24日配信）で6人が温泉前の夕食に訪問。ナムル・梅水晶・生たこポン酢・モツラーメン等を堪能。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"

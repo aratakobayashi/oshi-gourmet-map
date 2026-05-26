@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "末ぜん"
+title: "孤独のグルメが行った「末ぜん」"
 description: "孤独のグルメ 2022年（Season10）に登場した東京都渋谷区代官山の料理店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-2eca520c-"
 name: "末ぜん"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "しゃぶ辰 西巣鴨店"
+title: "孤独のグルメが行った「しゃぶ辰 西巣鴨店」"
 description: "孤独のグルメ Season5 第12話に登場した西巣鴨のしゃぶしゃぶ・すき焼き店。上州牛の「上州すきやき定食」をひとりで注文。"
 shop_id: "kodoku_no_gurume-3b5684a9-"
 name: "しゃぶ辰 西巣鴨店"

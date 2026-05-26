@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "いろり家"
+title: "孤独のグルメが行った「いろり家」"
 description: "孤独のグルメ Season4 第3話に登場した箱根のいろり家。ステーキ丼・旬野菜のゴマ和え・ワカサギの南蛮漬けを注文。"
 shop_id: "kodoku_no_gurume-92ab84a8-"
 name: "いろり家"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "焼肉宝来軒"
+title: "孤独のグルメが行った「焼肉宝来軒」"
 description: "孤独のグルメ Season8 第5話に登場した群馬・藤岡の焼肉店。豚ロース・豚カルビ・牛上カルビ・キムチを注文。"
 shop_id: "kodoku_no_gurume-a27b3ef5-"
 name: "焼肉宝来軒"

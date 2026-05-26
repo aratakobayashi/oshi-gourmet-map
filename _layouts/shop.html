@@ -37,6 +37,27 @@ layout: default
 {% if s.group == 'kodoku_no_gurume' %}{% assign group_label = '孤独のグルメ' %}{% endif %}
 {% if s.group == 'timelesz' %}{% assign group_label = 'timelesz' %}{% endif %}
 {% if s.group == 'heysayjump' %}{% assign group_label = 'Hey! Say! JUMP' %}{% endif %}
+{% if s.group == 'kingprince' %}{% assign group_label = 'King & Prince' %}{% endif %}
+
+{% assign group_hashtag = '推しグルメ巡礼' %}
+{% if s.group == 'yonino' %}{% assign group_hashtag = 'よにのちゃんねる' %}{% endif %}
+{% if s.group == 'snowman' %}{% assign group_hashtag = 'SnowMan' %}{% endif %}
+{% if s.group == 'sixtones' %}{% assign group_hashtag = 'SixTONES' %}{% endif %}
+{% if s.group == 'naniwa' %}{% assign group_hashtag = 'なにわ男子' %}{% endif %}
+{% if s.group == 'kamenashi' %}{% assign group_hashtag = '亀梨和也' %}{% endif %}
+{% if s.group == 'kamaitachi' %}{% assign group_hashtag = 'かまいたち' %}{% endif %}
+{% if s.group == 'equal_love' %}{% assign group_hashtag = 'イコラブ' %}{% endif %}
+{% if s.group == 'notme' %}{% assign group_hashtag = '≠ME' %}{% endif %}
+{% if s.group == 'neajoy' %}{% assign group_hashtag = '≒JOY' %}{% endif %}
+{% if s.group == 'nogizaka46' %}{% assign group_hashtag = '乃木坂46' %}{% endif %}
+{% if s.group == 'sakurazaka46' %}{% assign group_hashtag = '櫻坂46' %}{% endif %}
+{% if s.group == 'hinatazaka46' %}{% assign group_hashtag = '日向坂46' %}{% endif %}
+{% if s.group == 'ginga' %}{% assign group_hashtag = '銀河チャンネル' %}{% endif %}
+{% if s.group == 'kodoku_no_gurume' %}{% assign group_hashtag = '孤独のグルメ' %}{% endif %}
+{% if s.group == 'heysayjump' %}{% assign group_hashtag = 'HeySayJUMP' %}{% endif %}
+{% if s.group == 'kingprince' %}{% assign group_hashtag = 'KingPrince' %}{% endif %}
+
+{% assign tweet_text = group_label | append: 'が訪れた「' | append: s.name | append: '」🍽️ %0a%0a#推しグルメ巡礼 #' | append: group_hashtag %}
 
 <!-- JSON-LD: LocalBusiness -->
 <script type="application/ld+json">
@@ -132,7 +153,7 @@ layout: default
 
       <div class="shop-hero__share">
         <span class="shop-hero__share-label">シェア</span>
-        <a href="https://twitter.com/intent/tweet?text={{ s.name | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener" aria-label="Xでシェア">𝕏</a>
+        <a href="https://twitter.com/intent/tweet?text={{ tweet_text | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener" aria-label="Xでシェア">𝕏</a>
         <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener" aria-label="LINEでシェア">LINE</a>
       </div>
     </div>

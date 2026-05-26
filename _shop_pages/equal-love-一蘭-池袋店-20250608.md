@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "一蘭 池袋店"
+title: "=LOVEが行った「一蘭 池袋店」"
 description: "豊島区のラーメン店。大谷映美里が2025年6月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-一蘭_池袋店-20250608"
 name: "一蘭 池袋店"

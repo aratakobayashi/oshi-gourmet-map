@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "400℃ PIZZA TOKYO"
+title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
 description: "神楽坂の予約困難ピッツェリア。400℃の高温で焼き上げるサクサクふわふわの生地が絶品。ミシュランビブグルマン受賞。よにのちゃんねる#431で登場。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"

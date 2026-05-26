@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "FLAMINGO"
+title: "乃木坂46が行った「FLAMINGO」"
 description: "渋谷区のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-flamingo-"
 name: "FLAMINGO"

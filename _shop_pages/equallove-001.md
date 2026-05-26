@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "いしがまや GOKU BURGER"
+title: "=LOVEが行った「いしがまや GOKU BURGER」"
 description: "イコラブハンバーガー部（大場花菜・瀧脇笙古）が念願の訪問。炭火で焼き上げたジューシーなハンバーグを挟んだ本格バーガーが名物。"
 shop_id: "equallove_001"
 name: "いしがまや GOKU BURGER"

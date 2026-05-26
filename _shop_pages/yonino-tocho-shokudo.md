@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "都庁食堂（32F）"
+title: "よにのちゃんねるが行った「都庁食堂（32F）」"
 description: "新宿区のレストラン。二宮和也・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#150登場。東京都庁32階の職員食堂。"
 shop_id: "yonino-tocho-shokudo"
 name: "都庁食堂（32F）"

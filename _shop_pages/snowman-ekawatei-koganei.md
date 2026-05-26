@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "江川亭 小金井本店"
+title: "Snow Manが行った「江川亭 小金井本店」"
 description: "小金井市のラーメン店。岩本照・深澤辰哉・渡辺翔太らが2024年4月に訪れた。小金井・とんこつが楽しめる。ドライブ企画の途中で立ち寄った人気ラーメン店。ニンニクの効いたスープが特徴です。"
 shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"

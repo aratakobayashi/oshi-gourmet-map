@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "京料理 六盛"
+title: "SixTONESが行った「京料理 六盛」"
 description: "ストチューブ（SixTONES）「SixTONES - 京都で最高の和食」に登場した和食店。ジェシー・京本大我らが訪問。"
 shop_id: "sixtones-京料理六盛"
 name: "京料理 六盛"

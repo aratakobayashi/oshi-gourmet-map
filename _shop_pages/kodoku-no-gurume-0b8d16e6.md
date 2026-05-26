@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "つるや"
+title: "孤独のグルメが行った「つるや」"
 description: "孤独のグルメ Season1 第8話に登場した川崎の焼肉店。カルビ・ハラミ・コプチャン・ジンギスカン・シビレと多品目を堪能。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"

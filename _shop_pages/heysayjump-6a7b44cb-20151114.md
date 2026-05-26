@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ちばチャン"
+title: "Hey! Say! JUMPが行った「ちばチャン」"
 description: "柏市旭町のレストラン。Hey! Say! JUMPが訪れたロケ地。2015.11.14/11.21 大盛りグルメ特集"
 shop_id: "heysayjump-6a7b44cb-20151114"
 name: "ちばチャン"

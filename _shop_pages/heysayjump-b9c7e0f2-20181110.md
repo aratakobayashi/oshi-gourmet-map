@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "亀屋栄泉"
+title: "Hey! Say! JUMPが行った「亀屋栄泉」"
 description: "川越市のスイーツショップ。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したスイーツ店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-b9c7e0f2-20181110"
 name: "亀屋栄泉"

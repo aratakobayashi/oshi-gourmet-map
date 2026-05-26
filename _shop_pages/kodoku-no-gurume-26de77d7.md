@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "すし 台所家 三軒茶屋店"
+title: "孤独のグルメが行った「すし 台所家 三軒茶屋店」"
 description: "孤独のグルメ Season6 第5話に登場した三軒茶屋の寿司店。マグロの赤身・ひかり三種・あぶり穴子・うに・大赤えびを注文。"
 shop_id: "kodoku_no_gurume-26de77d7-"
 name: "すし 台所家 三軒茶屋店"

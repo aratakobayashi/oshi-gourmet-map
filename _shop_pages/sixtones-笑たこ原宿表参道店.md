@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "笑たこ 原宿表参道店"
+title: "SixTONESが行った「笑たこ 原宿表参道店」"
 description: "ストチューブ（SixTONES）「SixTONES - 都内散歩」に登場したお店。ジェシー・京本大我らが訪問。"
 shop_id: "sixtones-笑たこ原宿表参道店"
 name: "笑たこ 原宿表参道店"

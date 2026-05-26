@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "New NEW YORK CLUB"
+title: "Hey! Say! JUMPが行った「New NEW YORK CLUB」"
 description: "目黒区のレストラン。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ"
 shop_id: "heysayjump-new_new_york_club-20161026"
 name: "New NEW YORK CLUB"

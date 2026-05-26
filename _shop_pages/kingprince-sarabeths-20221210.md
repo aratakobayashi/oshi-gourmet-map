@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Sarabeth’s"
+title: "King & Princeが行った「Sarabeth’s」"
 description: "3問目はJR東京駅・八重洲口の真横のビルの中にあるNY発祥のレストラン 『Sarabeth’s』 から。"
 shop_id: "kingprince-sarabeths-20221210"
 name: "Sarabeth’s"

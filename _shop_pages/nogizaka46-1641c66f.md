@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "麻布かりんと 麻布十番店"
+title: "乃木坂46が行った「麻布かりんと 麻布十番店」"
 description: "港区のスイーツショップ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-1641c66f-"
 name: "麻布かりんと 麻布十番店"

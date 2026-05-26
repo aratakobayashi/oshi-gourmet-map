@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "PiPPon 中延店"
+title: "≒JOYが行った「PiPPon 中延店」"
 description: "品川区のレストラン。大信田美月・大西葵・村山結香らが2024年8月に訪れた。≒JOYの大信田美月・大西葵らが訪れた飲食店。"
 shop_id: "neajoy-pippon_中延店-20240807"
 name: "PiPPon 中延店"

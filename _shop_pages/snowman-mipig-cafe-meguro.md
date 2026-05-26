@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "mipig cafe 目黒店"
+title: "Snow Manが行った「mipig cafe 目黒店」"
 description: "目黒区のカフェ。Snow Manが訪れたロケ地。動物カフェが楽しめる。ミニブタと触れ合えるカフェ。すの日常2023年7月配信回で登場。"
 shop_id: "snowman-mipig-cafe-meguro"
 name: "mipig cafe 目黒店"

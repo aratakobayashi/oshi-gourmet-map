@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Cicheti"
+title: "SixTONESが行った「Cicheti」"
 description: "Kandahar Stのグルメスポット。京本大我が2024年3月に訪れた。京本大我さんが訪れたシンガポールのおしゃれなイタリアン。"
 shop_id: "sixtones-cicheti"
 name: "Cicheti"

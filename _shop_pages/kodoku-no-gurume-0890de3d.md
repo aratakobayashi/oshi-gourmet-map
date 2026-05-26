@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "カトリカ"
+title: "孤独のグルメが行った「カトリカ」"
 description: "孤独のグルメ Season7 第7話に登場した墨田区のピザ・パスタ店。納豆ピザと辛いパスタを注文。"
 shop_id: "kodoku_no_gurume-0890de3d-"
 name: "カトリカ"

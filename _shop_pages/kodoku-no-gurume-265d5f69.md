@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "コンマ コーヒー"
+title: "孤独のグルメが行った「コンマ コーヒー」"
 description: "孤独のグルメ Season8 第4話に登場したカフェ。無塩バター・メープルシロップ添えのカステラパンケーキを注文。"
 shop_id: "kodoku_no_gurume-265d5f69-"
 name: "コンマ コーヒー"

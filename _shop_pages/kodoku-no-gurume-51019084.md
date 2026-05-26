@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "甘辛や"
+title: "孤独のグルメが行った「甘辛や」"
 description: "孤独のグルメ Season6 第1話に登場した大阪のお好み焼き店。豚玉定食・焼きそばデラックス・タコネギを注文。"
 shop_id: "kodoku_no_gurume-51019084-"
 name: "甘辛や"

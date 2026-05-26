@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "THI THI"
+title: "孤独のグルメが行った「THI THI」"
 description: "孤独のグルメ Season4 第11話に登場した大田区のベトナム料理店。海老の生春巻き・とりおこわ・ブンボーフエ・ベトナムコーヒーを注文。"
 shop_id: "kodoku_no_gurume-thi_thi-"
 name: "THI THI"

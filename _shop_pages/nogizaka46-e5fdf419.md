@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "新とみ"
+title: "乃木坂46が行った「新とみ」"
 description: "鎌倉市のラーメン店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-e5fdf419-"
 name: "新とみ"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "福臨閣売店"
+title: "=LOVEが行った「福臨閣売店」"
 description: "横浜市のレストラン。齋藤樹愛羅・佐々木舞香が2024年8月に訪れた。=LOVEの齋藤樹愛羅・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-福臨閣売店-20240812"
 name: "福臨閣売店"

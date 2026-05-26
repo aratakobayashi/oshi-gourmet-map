@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "沼津港海将 zero 上野店"
+title: "=LOVEが行った「沼津港海将 zero 上野店」"
 description: "台東区の寿司店。諸橋沙夏が2025年11月に訪れた。=LOVEの諸橋沙夏が訪れた寿司店。"
 shop_id: "equal_love-沼津港海将_zero_上野店-20251114"
 name: "沼津港海将 zero 上野店"

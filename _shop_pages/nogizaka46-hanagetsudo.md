@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "浅草 花月堂"
+title: "乃木坂46が行った「浅草 花月堂」"
 description: "台東区のスイーツショップ。梅澤美波・与田祐希が2023年11月に訪れた。乃木坂46のメンバーが訪れたジャンボめろんぱんの超有名店。"
 shop_id: "nogizaka46-hanagetsudo"
 name: "浅草 花月堂"

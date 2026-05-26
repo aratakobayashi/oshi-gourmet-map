@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "近江屋長兵衛商店"
+title: "Hey! Say! JUMPが行った「近江屋長兵衛商店」"
 description: "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-e8d40d3c-20181124"
 name: "近江屋長兵衛商店"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "辻利 生八ツ橋"
+title: "Snow Manが行った「辻利 生八ツ橋」"
 description: "すの日常（Snow Man）「【すのちゅーぶ】京都でラウールへのお土産を購入した」に登場した飲食店。岩本照・ラウールらが訪問。"
 shop_id: "snowman-db5cb4af-20250416"
 name: "辻利 生八ツ橋"

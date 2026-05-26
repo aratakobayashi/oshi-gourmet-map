@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "磯丸水産 初台南口店"
+title: "=LOVEが行った「磯丸水産 初台南口店」"
 description: "渋谷区の和食店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-磯丸水産_初台南口店-20240815"
 name: "磯丸水産 初台南口店"

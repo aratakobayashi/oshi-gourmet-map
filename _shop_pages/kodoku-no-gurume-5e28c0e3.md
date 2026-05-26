@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "長崎飯店 渋谷店"
+title: "孤独のグルメが行った「長崎飯店 渋谷店」"
 description: "孤独のグルメ Season6 第7話に登場した渋谷の長崎料理店。皿うどん（柔麺）・春巻き・特製ちゃんぽんを注文。"
 shop_id: "kodoku_no_gurume-5e28c0e3-"
 name: "長崎飯店 渋谷店"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "中華蕎麦 にし乃"
+title: "乃木坂46が行った「中華蕎麦 にし乃」"
 description: "文京区のラーメン店。乃木坂46が訪れたロケ地。こちらはラーメンWalkerTV2で佐々木琴子さんが訪れたお店です！"
 shop_id: "nogizaka46-中華蕎麦_にし乃-"
 name: "中華蕎麦 にし乃"

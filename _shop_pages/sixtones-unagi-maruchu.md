@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "丸忠うなぎ"
+title: "SixTONESが行った「丸忠うなぎ」"
 description: "松村北斗の行きつけうなぎ専門店。Shizuoka Travelシリーズで6人が訪問。北斗が「うなぎ史上No.1」と絶賛。うな重松・竹・たれアイスを堪能（ストチューブ静岡トラベル配信）。"
 shop_id: "sixtones-unagi-maruchu"
 name: "丸忠うなぎ"

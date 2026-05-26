@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "KEBAB BOX J"
+title: "乃木坂46が行った「KEBAB BOX J」"
 description: "渋谷区のレストラン。齋藤飛鳥が訪れた乃木坂46のロケ地。"
 shop_id: "nogizaka46-kebab_box_j-"
 name: "KEBAB BOX J"

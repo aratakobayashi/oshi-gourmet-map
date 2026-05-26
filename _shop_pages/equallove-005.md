@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "2D Cafe 新大久保店"
+title: "=LOVEが行った「2D Cafe 新大久保店」"
 description: "「Be Selfish」MV関連の撮影やロケで訪問。絵本の中に迷い込んだような白黒の2D内装が特徴の人気カフェ。"
 shop_id: "equallove_005"
 name: "2D Cafe 新大久保店"

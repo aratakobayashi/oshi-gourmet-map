@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ピアット・スズキ"
+title: "King & Princeが行った「ピアット・スズキ」"
 description: "港区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年6月に訪れた。"
 shop_id: "kingprince-6fc6f3d9-20220618"
 name: "ピアット・スズキ"

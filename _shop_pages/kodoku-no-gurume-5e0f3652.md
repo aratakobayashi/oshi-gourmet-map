@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "まちのパーラー"
+title: "孤独のグルメが行った「まちのパーラー」"
 description: "孤独のグルメ Season3 第9話に登場した練馬のカフェ。ローストポークサンドイッチ・キッシュ・サルシッチャセットを注文。"
 shop_id: "kodoku_no_gurume-5e0f3652-"
 name: "まちのパーラー"

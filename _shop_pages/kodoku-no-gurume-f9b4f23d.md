@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "だるま"
+title: "孤独のグルメが行った「だるま」"
 description: "孤独のグルメ Season5 第2話に登場した清澄白河の洋食居酒屋。ポパイベーコン・サンマクンセイ刺・煮込みを注文。"
 shop_id: "kodoku_no_gurume-f9b4f23d-"
 name: "だるま"

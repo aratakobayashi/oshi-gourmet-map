@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "一蘭 渋谷店"
+title: "SixTONESが行った「一蘭 渋谷店」"
 description: "渋谷区のラーメン店。ジェシー・京本大我・松村北斗らが2020年3月に訪れた。おなじみの味集中カウンターでメンバーが黙々と実食。"
 shop_id: "sixtones-一蘭渋谷店"
 name: "一蘭 渋谷店"

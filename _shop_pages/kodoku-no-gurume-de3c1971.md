@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "旬菜魚 いなだ"
+title: "孤独のグルメが行った「旬菜魚 いなだ」"
 description: "孤独のグルメ Season8 第10話に登場した豪徳寺の和食店。ぶりの照焼き定食・月見とろろ・クリームコロッケを注文。"
 shop_id: "kodoku_no_gurume-de3c1971-"
 name: "旬菜魚 いなだ"

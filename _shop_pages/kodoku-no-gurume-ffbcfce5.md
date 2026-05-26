@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "餃子屋"
+title: "孤独のグルメが行った「餃子屋」"
 description: "出雲市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-ffbcfce5-"
 name: "餃子屋"

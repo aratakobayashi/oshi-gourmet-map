@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "華正樓 本店"
+title: "=LOVEが行った「華正樓 本店」"
 description: "横浜市のレストラン。齋藤樹愛羅・佐々木舞香が2024年8月に訪れた。=LOVEの齋藤樹愛羅・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-華正樓_本店-20240812"
 name: "華正樓 本店"

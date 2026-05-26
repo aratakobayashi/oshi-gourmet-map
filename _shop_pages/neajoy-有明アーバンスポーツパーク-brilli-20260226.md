@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"
+title: "≒JOYが行った「有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM」"
 description: "江東区のグルメスポット。≒JOYが訪れたロケ地。≒JOYが訪れたお店。"
 shop_id: "neajoy-有明アーバンスポーツパーク_brilli-20260226"
 name: "有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM"

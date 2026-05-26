@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "NEW LIGHT"
+title: "しおりが行った「NEW LIGHT」"
 description: "渋谷区の居酒屋。しおりが2024年3月に訪れた。ミヤシタパーク3Fに位置するオシャレな雰囲気のバー・居酒屋。"
 shop_id: "shiori-new_light-20240316"
 name: "NEW LIGHT"

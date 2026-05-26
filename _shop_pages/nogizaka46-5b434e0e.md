@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "コスモコート"
+title: "乃木坂46が行った「コスモコート」"
 description: "横浜市のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-5b434e0e-"
 name: "コスモコート"

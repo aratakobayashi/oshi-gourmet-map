@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "おひつ膳 田んぼ"
+title: "よにのちゃんねるが行った「おひつ膳 田んぼ」"
 description: "世田谷区の和食店。二宮和也・山田涼介・菊池風磨が2022年6月に訪れた。おひつ・三軒茶屋が楽しめる。よにのちゃんねる#135登場。三軒茶屋のおひつごはん定食店。"
 shop_id: "yonino-ohitsuzen-tanbo-sangenchaya"
 name: "おひつ膳 田んぼ"

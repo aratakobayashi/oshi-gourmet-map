@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ボラーチョ"
+title: "孤独のグルメが行った「ボラーチョ」"
 description: "孤独のグルメ Season3 第7話に登場した目黒のスペイン料理店。マッシュルームガーリックとカキグラタンを注文。"
 shop_id: "kodoku_no_gurume-88831118-"
 name: "ボラーチョ"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "キセキ食堂 上尾店"
+title: "孤独のグルメが行った「キセキ食堂 上尾店」"
 description: "孤独のグルメ Season7 第1話に登場した埼玉・上尾の定食屋。肩ロースカツ定食を各種ソースで楽しんだ。"
 shop_id: "kodoku_no_gurume-2d40fc9e-"
 name: "キセキ食堂 上尾店"

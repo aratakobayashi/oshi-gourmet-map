@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "なじみ亭"
+title: "孤独のグルメが行った「なじみ亭」"
 description: "孤独のグルメ Season4 第2話に登場した日本橋の韓国料理店。韓国風天ぷら・鱈の餃子・チャプチェ・参鶏湯ラーメンを注文。"
 shop_id: "kodoku_no_gurume-4b835120-"
 name: "なじみ亭"

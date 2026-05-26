@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "赤坂 金舌"
+title: "よにのちゃんねるが行った「赤坂 金舌」"
 description: "30日間熟成させた牛タン「金舌」が看板の赤坂の名店。完全個室で楽しめる割烹スタイルの焼肉。よにのちゃんねる2026年1月回で登場。"
 shop_id: "yonino-kintan-akasaka"
 name: "赤坂 金舌"

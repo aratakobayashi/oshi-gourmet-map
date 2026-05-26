@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "BLTステーキ 銀座"
+title: "Hey! Say! JUMPが行った「BLTステーキ 銀座」"
 description: "中央区の焼肉店。八乙女光が2016年7月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した焼肉店。八乙女光が訪問。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "토방"
+title: "孤独のグルメが行った「토방」"
 description: "孤独のグルメ Season7 第9話に登場した韓国・全州の韓食店。納豆チゲセットとセルフビビンパを注文。"
 shop_id: "kodoku_no_gurume-e63b9158-"
 name: "토방"

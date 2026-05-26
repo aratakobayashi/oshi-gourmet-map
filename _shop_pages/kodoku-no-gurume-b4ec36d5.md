@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "大幸園 小宮本店"
+title: "孤独のグルメが行った「大幸園 小宮本店」"
 description: "孤独のグルメ Season4 第4話に登場した八王子の焼肉店。豚足・ロースすき焼き・ヒレカルビ・味ネギを注文。"
 shop_id: "kodoku_no_gurume-b4ec36d5-"
 name: "大幸園 小宮本店"

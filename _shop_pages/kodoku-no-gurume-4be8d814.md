@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "キッチン友"
+title: "孤独のグルメが行った「キッチン友」"
 description: "孤独のグルメ Season2 第5話に登場した横浜・白楽の洋食店。スペシャル友風焼き・とん汁・ハムポテトサラダを注文。"
 shop_id: "kodoku_no_gurume-4be8d814-"
 name: "キッチン友"

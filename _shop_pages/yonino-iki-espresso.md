@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "iki ESPRESSO"
+title: "よにのちゃんねるが行った「iki ESPRESSO」"
 description: "江東区のカフェ。二宮和也・山田涼介・菊池風磨が2025年2月に訪れた。清澄白河・NZ発が楽しめる。清澄白河のおしゃれカフェ。エッグベネディクトなどの朝食メニューが登場。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"

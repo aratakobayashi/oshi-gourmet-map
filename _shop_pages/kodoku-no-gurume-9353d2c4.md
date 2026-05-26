@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "居酒屋まめぞ"
+title: "孤独のグルメが行った「居酒屋まめぞ」"
 description: "孤独のグルメ Season4 第7話に登場した台東区の創作居酒屋。生ハム・明太クリームパスタ・名物かつサンドを注文。"
 shop_id: "kodoku_no_gurume-9353d2c4-"
 name: "居酒屋まめぞ"

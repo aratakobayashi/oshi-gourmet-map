@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "JUNKY SPECIAL"
+title: "よにのちゃんねるが行った「JUNKY SPECIAL」"
 description: "新宿区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#448「遅刻!!」に登場したお店。"
 shop_id: "yonino-junky_special-20250813"
 name: "JUNKY SPECIAL"

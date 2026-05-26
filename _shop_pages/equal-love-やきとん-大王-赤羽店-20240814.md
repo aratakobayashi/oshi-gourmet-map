@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "やきとん 大王 赤羽店"
+title: "=LOVEが行った「やきとん 大王 赤羽店」"
 description: "東京都の居酒屋。諸橋沙夏が2024年8月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-やきとん_大王_赤羽店-20240814"
 name: "やきとん 大王 赤羽店"

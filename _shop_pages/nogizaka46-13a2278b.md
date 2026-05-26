@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "かめや 新宿店"
+title: "乃木坂46が行った「かめや 新宿店」"
 description: "新宿区のラーメン店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-13a2278b-"
 name: "かめや 新宿店"

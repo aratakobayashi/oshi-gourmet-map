@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ノング インレイ"
+title: "孤独のグルメが行った「ノング インレイ」"
 description: "孤独のグルメ Season6 第6話に登場した新宿のシャン料理店。お茶葉サラダ・シャン風豚高菜漬け炒め・牛スープそば・揚げパンを注文。"
 shop_id: "kodoku_no_gurume-e8b0cb92-"
 name: "ノング インレイ"

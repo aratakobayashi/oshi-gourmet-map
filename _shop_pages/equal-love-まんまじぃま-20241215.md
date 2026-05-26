@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "まんまじぃま"
+title: "=LOVEが行った「まんまじぃま」"
 description: "杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-まんまじぃま-20241215"
 name: "まんまじぃま"

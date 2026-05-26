@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "2BOUZE"
+title: "Hey! Say! JUMPが行った「2BOUZE」"
 description: "船橋市のレストラン。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集"
 shop_id: "heysayjump-2bouze-20170201"
 name: "2BOUZE"

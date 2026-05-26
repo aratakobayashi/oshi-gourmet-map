@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "日光もなか"
+title: "timeleszが行った「日光もなか」"
 description: "日光市のスイーツショップ。原嘉孝・橋本将生が訪れたtimeleszのロケ地。Timelesz「タイムレスマン」に登場したスイーツ店。原嘉孝・橋本将生が訪問。"
 shop_id: "timelesz-59cd8eb8-"
 name: "日光もなか"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "海底撈火鍋 新宿店"
+title: "=LOVEが行った「海底撈火鍋 新宿店」"
 description: "新宿区の中華料理店。大谷映美里が2026年3月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-海底撈火鍋_新宿店-20260328"
 name: "海底撈火鍋 新宿店"

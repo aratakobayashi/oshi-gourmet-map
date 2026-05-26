@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "CAFE PARK"
+title: "SixTONESが行った「CAFE PARK」"
 description: "ストチューブ（SixTONES）「SixTONES - お洒落カフェでトーク」に登場したカフェ。ジェシー・京本大我らが訪問。"
 shop_id: "sixtones-cafepark"
 name: "CAFE PARK"

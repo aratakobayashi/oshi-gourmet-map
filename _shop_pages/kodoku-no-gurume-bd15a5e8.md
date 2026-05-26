@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "与倉ドライブイン"
+title: "孤独のグルメが行った「与倉ドライブイン」"
 description: "香取市の和食店。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-bd15a5e8-"
 name: "与倉ドライブイン"

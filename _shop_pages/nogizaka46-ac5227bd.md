@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "すずめや"
+title: "乃木坂46が行った「すずめや」"
 description: "豊島区のスイーツショップ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-ac5227bd-"
 name: "すずめや"

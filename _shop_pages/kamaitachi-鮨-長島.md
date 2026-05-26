@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鮨 長島"
+title: "かまいたちが行った「鮨 長島」"
 description: "大田区の寿司店。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたちの山内健司・濱家隆一が訪れた寿司店。"
 shop_id: "kamaitachi-鮨_長島-"
 name: "鮨 長島"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "いっかくじゅう 四条新町店"
+title: "=LOVEが行った「いっかくじゅう 四条新町店」"
 description: "京都市のレストラン。=LOVEが訪れたロケ地。=LOVEが訪れた飲食店。"
 shop_id: "equal_love-いっかくじゅう_四条新町店-20240804"
 name: "いっかくじゅう 四条新町店"

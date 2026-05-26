@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "泪橋"
+title: "孤独のグルメが行った「泪橋」"
 description: "孤独のグルメ Season7 第8話に登場した中野の鶏料理居酒屋。チキン南蛮・地鶏もも串を注文し、串をご飯に乗せて地鶏もも丼にした。"
 shop_id: "kodoku_no_gurume-50e9e982-"
 name: "泪橋"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "COCONEEL"
+title: "乃木坂46が行った「COCONEEL」"
 description: "新宿区の居酒屋。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-coconeel-"
 name: "COCONEEL"

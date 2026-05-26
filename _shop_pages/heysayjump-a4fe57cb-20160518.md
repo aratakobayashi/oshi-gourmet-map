@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "銀熊茶寮"
+title: "Hey! Say! JUMPが行った「銀熊茶寮」"
 description: "中央区の和食店。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集"
 shop_id: "heysayjump-a4fe57cb-20160518"
 name: "銀熊茶寮"

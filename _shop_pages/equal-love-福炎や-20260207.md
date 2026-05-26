@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "福炎や"
+title: "=LOVEが行った「福炎や」"
 description: "東京都のレストラン。諸橋沙夏が2026年2月に訪れた。=LOVEの諸橋沙夏が訪れた飲食店。"
 shop_id: "equal_love-福炎や-20260207"
 name: "福炎や"

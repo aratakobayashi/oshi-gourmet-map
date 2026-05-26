@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "川栄"
+title: "孤独のグルメが行った「川栄」"
 description: "孤独のグルメ Season3 第1話に登場した赤羽の焼き鳥・うなぎ店。ほろほろ鳥の串焼きと鰻のオムレツ・うな丼を注文。"
 shop_id: "kodoku_no_gurume-736a5d18-"
 name: "川栄"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "Café 1894"
+title: "SixTONESが行った「Café 1894」"
 description: "三菱一号館美術館内の明治時代の銀行営業室を復元したレトロカフェ。SixTONESのストチューブ聖地として知られる丸の内の隠れ家的スポット。"
 shop_id: "sixtones-cafe1894-marunouchi"
 name: "Café 1894"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ライカノ"
+title: "孤独のグルメが行った「ライカノ」"
 description: "孤独のグルメ Season2 第11話に登場した足立区・北千住のタイ料理店。カラン・ミンチ肉炒め・汁なし麺・タイ焼き菓子カノムトーイを注文。"
 shop_id: "kodoku_no_gurume-778413dd-"
 name: "ライカノ"

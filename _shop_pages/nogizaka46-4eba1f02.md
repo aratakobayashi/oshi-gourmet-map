@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "自由学園明日館"
+title: "乃木坂46が行った「自由学園明日館」"
 description: "豊島区のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-4eba1f02-"
 name: "自由学園明日館"

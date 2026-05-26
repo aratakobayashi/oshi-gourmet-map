@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "キャラヴァンサライ包"
+title: "孤独のグルメが行った「キャラヴァンサライ包」"
 description: "孤独のグルメ Season3 第5話に登場した中野のアフガン・パキスタン料理店。カバブ・ラムロースのたたき・アフガン風混ぜ麺ラグマンを注文。"
 shop_id: "kodoku_no_gurume-bba64785-"
 name: "キャラヴァンサライ包"

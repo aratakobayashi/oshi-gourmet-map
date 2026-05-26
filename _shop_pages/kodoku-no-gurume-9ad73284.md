@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "お食事 樹"
+title: "孤独のグルメが行った「お食事 樹」"
 description: "孤独のグルメ Season2 第12話に登場した三鷹の定食屋。ぶり大根・ナス味噌炒め・コロッケ・鴨とハーブ漬けを注文。"
 shop_id: "kodoku_no_gurume-9ad73284-"
 name: "お食事 樹"

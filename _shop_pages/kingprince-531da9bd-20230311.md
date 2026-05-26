@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "パティシエ シマ"
+title: "King & Princeが行った「パティシエ シマ」"
 description: "千代田区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年3月に訪れた。"
 shop_id: "kingprince-531da9bd-20230311"
 name: "パティシエ シマ"

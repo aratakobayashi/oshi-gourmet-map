@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "リビスコ 銀座店"
+title: "櫻坂46が行った「リビスコ 銀座店」"
 description: "中央区のスイーツショップ。小林由依・土生瑞穂が2024年7月に訪れた。手作りジェラートの店。さっぱりした味わいで夏に最適。"
 shop_id: "sakurazaka46-ribisco-ginza"
 name: "リビスコ 銀座店"

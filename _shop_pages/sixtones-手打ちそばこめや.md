@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "手打ちそば こめや"
+title: "SixTONESが行った「手打ちそば こめや」"
 description: "金沢市の和食店。ジェシー・京本大我・松村北斗らが2022年4月に訪れた。金沢の風情ある茶屋街にある本格手打ちそば店。"
 shop_id: "sixtones-手打ちそばこめや"
 name: "手打ちそば こめや"

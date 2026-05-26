@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "千とせ 本店"
+title: "King & Princeが行った「千とせ 本店」"
 description: "大阪市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
 shop_id: "kingprince-ddabeb42-20230429"
 name: "千とせ 本店"

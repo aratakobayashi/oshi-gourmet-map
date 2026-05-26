@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "えどもんど中野"
+title: "=LOVEが行った「えどもんど中野」"
 description: "中野区の居酒屋。大谷映美里が2025年2月に訪れた。=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-えどもんど中野-20250215"
 name: "えどもんど中野"

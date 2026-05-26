@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鳥居屋"
+title: "=LOVEが行った「鳥居屋」"
 description: "廿日市のレストラン。山本杏奈・佐々木舞香が2025年9月に訪れた。=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-鳥居屋-20250915"
 name: "鳥居屋"

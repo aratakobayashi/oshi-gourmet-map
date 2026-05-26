@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "LIVIN よこすか店"
+title: "乃木坂46が行った「LIVIN よこすか店」"
 description: "横須賀市のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-livin-"
 name: "LIVIN よこすか店"

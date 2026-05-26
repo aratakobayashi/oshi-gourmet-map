@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "DAIGOMI"
+title: "Hey! Say! JUMPが行った「DAIGOMI」"
 description: "豊島区のレストラン。有岡大貴・髙木雄也・八乙女光が2016年3月に訪れた。2016.03.03 体を温める食べ物実験"
 shop_id: "heysayjump-daigomi-20160303"
 name: "DAIGOMI"

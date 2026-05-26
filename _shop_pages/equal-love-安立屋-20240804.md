@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "安立屋"
+title: "=LOVEが行った「安立屋」"
 description: "台東区の和食店。瀧脇笙古・髙松瞳・野口衣織らが2024年8月に訪れた。=LOVEの瀧脇笙古・髙松瞳らが訪れた和食店。"
 shop_id: "equal_love-安立屋-20240804"
 name: "安立屋"

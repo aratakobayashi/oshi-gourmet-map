@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "布恒更科"
+title: "亀梨和也が行った「布恒更科」"
 description: "お蕎麦好きな、Travis Japanの七五三掛龍也くんと一緒に行ったお蕎麦屋さんです。 2人で蕎麦打ちを体験し、一緒に食べています。"
 shop_id: "kamenashi-布恒更科-20240817"
 name: "布恒更科"

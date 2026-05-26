@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "スペイン食堂 石井"
+title: "孤独のグルメが行った「スペイン食堂 石井」"
 description: "孤独のグルメ Season6 第9話に登場した品川のスペイン料理店。マッシュルームの鉄板焼き・サルスエラ・イカ墨のパエリアを注文。"
 shop_id: "kodoku_no_gurume-dac2b4f0-"
 name: "スペイン食堂 石井"

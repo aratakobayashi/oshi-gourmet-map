@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ちばチャン 海浜幕張店"
+title: "乃木坂46が行った「ちばチャン 海浜幕張店」"
 description: "千葉市の焼肉店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-6d7f1106-"
 name: "ちばチャン 海浜幕張店"

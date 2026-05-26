@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "陳家私菜 渋谷店"
+title: "King & Princeが行った「陳家私菜 渋谷店」"
 description: "渋谷区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年6月に訪れた。"
 shop_id: "kingprince-516fb6ba-20220618"
 name: "陳家私菜 渋谷店"

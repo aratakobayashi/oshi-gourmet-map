@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鐘撞堂下 田中屋"
+title: "Hey! Say! JUMPが行った「鐘撞堂下 田中屋」"
 description: "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場した飲食店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-103aefa3-20181110"
 name: "鐘撞堂下 田中屋"

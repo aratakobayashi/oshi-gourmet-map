@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ラ・タベルナ"
+title: "孤独のグルメが行った「ラ・タベルナ」"
 description: "孤独のグルメ Season10 最終回に登場した東京都千代田区麹町のイタリア食堂。創業45年の老舗で特製ミートローフとミスキアーレを注文し、Season10を締めくくった。"
 shop_id: "kodoku_no_gurume-84b06962-"
 name: "ラ・タベルナ"

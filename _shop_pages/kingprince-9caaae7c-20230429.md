@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "桂屋"
+title: "King & Princeが行った「桂屋」"
 description: "中野区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"

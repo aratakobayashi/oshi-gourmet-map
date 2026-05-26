@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "今井金箔 広坂店"
+title: "乃木坂46が行った「今井金箔 広坂店」"
 description: "金沢市のレストラン。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-2a831c44-"
 name: "今井金箔 広坂店"

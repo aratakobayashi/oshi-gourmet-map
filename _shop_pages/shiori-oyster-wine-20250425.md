@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "ヤキガキヤ oyster&wine"
+title: "しおりが行った「ヤキガキヤ oyster&wine」"
 description: "渋谷区の居酒屋。しおりが2025年4月に訪れた。牡蠣とワインが楽しめる「ほぼ新宿のれん街」の居酒屋。しおりのはしご酒動画で紹介された。"
 shop_id: "shiori-oyster_wine-20250425"
 name: "ヤキガキヤ oyster&wine"

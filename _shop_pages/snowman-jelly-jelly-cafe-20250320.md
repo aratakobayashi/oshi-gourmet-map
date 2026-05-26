@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "JELLY JELLY CAFE 渋谷本店"
+title: "Snow Manが行った「JELLY JELLY CAFE 渋谷本店」"
 description: "Snow Man メンバーが訪れた飲食店。【すのちゅーぶ】渋谷ボードゲームカフェ「JELLY JELLY CAFE」SnowManロケ地 に登場。"
 shop_id: "snowman-jelly_jelly_cafe-20250320"
 name: "JELLY JELLY CAFE 渋谷本店"

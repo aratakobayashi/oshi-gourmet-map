@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "La TRIPLETTA"
+title: "King & Princeが行った「La TRIPLETTA」"
 description: "3問目は品川区の武蔵小山駅から徒歩1分のところにある、ナポリピッツァ専門店の『La TRIPLETTA』から出題。"
 shop_id: "kingprince-la_tripletta-20221015"
 name: "La TRIPLETTA"

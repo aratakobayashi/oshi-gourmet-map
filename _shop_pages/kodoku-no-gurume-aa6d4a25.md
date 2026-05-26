@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "つり堀 武蔵野園"
+title: "孤独のグルメが行った「つり堀 武蔵野園」"
 description: "孤独のグルメ Season1 第5話に登場した釣り堀の食事処。焼うどん・親子丼・おしるこを注文。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"

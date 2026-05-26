@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "鳥取市役所 食堂"
+title: "孤独のグルメが行った「鳥取市役所 食堂」"
 description: "孤独のグルメ Season8 第8話に登場した鳥取市役所の食堂。うどん出汁に中華麺が入った鳥取名物「スラーメン」を注文。"
 shop_id: "kodoku_no_gurume-f729085e-"
 name: "鳥取市役所 食堂"

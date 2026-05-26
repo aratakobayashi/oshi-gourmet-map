@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "乙姫"
+title: "孤独のグルメが行った「乙姫」"
 description: "孤独のグルメ Season4 第5話に登場した愛知・日間賀島の海鮮店。赤車海老・大あさり焼き・しらす天ぷら・たこめしを注文。"
 shop_id: "kodoku_no_gurume-980f8c82-"
 name: "乙姫"

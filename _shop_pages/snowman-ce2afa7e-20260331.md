@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "味芳"
+title: "Snow Manが行った「味芳」"
 description: "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。"
 shop_id: "snowman-ce2afa7e-20260331"
 name: "味芳"

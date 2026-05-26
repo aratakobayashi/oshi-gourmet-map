@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "GINZA SUSHI BANYA KAI"
+title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
 description: "中央区の寿司店。渡辺翔太・向井康二・ラウールが2025年12月に訪れた。おまかせ・江戸前が楽しめる。銀座の本格江戸前寿司おまかせコース。すの日常2025年12月17日配信。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"

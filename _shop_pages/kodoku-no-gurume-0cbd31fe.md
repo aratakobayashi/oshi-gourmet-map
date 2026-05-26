@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "中国家庭料理 楊 2号店"
+title: "孤独のグルメが行った「中国家庭料理 楊 2号店」"
 description: "孤独のグルメ Season1 第3話に登場した中国家庭料理店。汁なし担々麺・焼き餃子・拌三絲（バンサンスー）を注文。"
 shop_id: "kodoku_no_gurume-0cbd31fe-"
 name: "中国家庭料理 楊 2号店"

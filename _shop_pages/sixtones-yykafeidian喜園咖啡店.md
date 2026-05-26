@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "YY Kafei Dian 喜園咖啡店"
+title: "SixTONESが行った「YY Kafei Dian 喜園咖啡店」"
 description: "Beach Rdのカフェ。ジェシー・京本大我・松村北斗らが2024年3月に訪れた。シンガポール編で朝食を食べたカヤトーストの人気店。"
 shop_id: "sixtones-yykafeidian喜園咖啡店"
 name: "YY Kafei Dian 喜園咖啡店"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "HERO'S ステーキハウス 秋葉原店"
+title: "Hey! Say! JUMPが行った「HERO'S ステーキハウス 秋葉原店」"
 description: "千代田区の焼肉店。有岡大貴・髙木雄也・八乙女光らが2016年4月に訪れた。いただきハイジャンプ 春の大盛りグルメに登場した焼肉店。有岡大貴・髙木雄也らが訪問。"
 shop_id: "heysayjump-hero_s-20160414"
 name: "HERO'S ステーキハウス 秋葉原店"

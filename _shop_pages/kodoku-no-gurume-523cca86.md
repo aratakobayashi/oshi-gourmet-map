@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "みゆき食堂"
+title: "孤独のグルメが行った「みゆき食堂」"
 description: "孤独のグルメ Season4 第1話に登場した清瀬の大衆食堂。もやしと肉のピリ辛イタメ・ジャンボ餃子・やきとりを注文。"
 shop_id: "kodoku_no_gurume-523cca86-"
 name: "みゆき食堂"

@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "スパゲッティーのパンチョ"
+title: "Hey! Say! JUMPが行った「スパゲッティーのパンチョ」"
 description: "渋谷区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集"
 shop_id: "heysayjump-2c7fa4f5-20151114"
 name: "スパゲッティーのパンチョ"

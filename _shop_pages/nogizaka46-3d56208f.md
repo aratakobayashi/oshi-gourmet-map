@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "乃木坂な妻たち"
+title: "乃木坂46が行った「乃木坂な妻たち」"
 description: "札幌市のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-3d56208f-"
 name: "乃木坂な妻たち"
