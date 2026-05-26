@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Rapace"
-description: "食事・東京都・Snow Manが訪問"
+description: "Snow Man メンバーがすの日常で訪れたフクロウカフェ。町田にある予約制カフェ。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "食事"

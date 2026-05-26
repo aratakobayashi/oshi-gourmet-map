@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "エブリデイとってき屋東京本店"
-description: "食事・Snow Manが訪問"
+description: "Snow Man メンバーがすの日常で訪れたクレーンゲームスポット。埼玉県八潮市の大型UFOキャッチャー施設内に食事処あり。"
 shop_id: "snowman-tottekiyaya"
 name: "エブリデイとってき屋東京本店"
 genre: "食事"

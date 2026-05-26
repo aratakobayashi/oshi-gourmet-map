@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "深川富士見"
-description: "食事・東京都・Snow Manが訪問"
+description: "Snow Man メンバーがすの日常で訪れた海釣り・食事処。東京湾で釣りを楽しんだ後に料理できるスポット。"
 shop_id: "snowman-hukagawafuj"
 name: "深川富士見"
 genre: "食事"

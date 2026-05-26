@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区太子堂1-6-9"
+nearest_station: "三軒茶屋駅から徒歩6分"
 visited_date: "2024-11-27"
 youtube_id: "HksFKrub-_s"
 source_video_title: "Snow Man【バルでランチ】ただただ幸せにご飯食べてます🍕"
@@ -15,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=FmN8C7LhXvY"
 group: "snowman"
 hotpepper_url: "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
+seating_note: "4人が座ったのは、ソファのお席だと思われます。"
 lat: 35.6446
 lng: 139.6693
 members:

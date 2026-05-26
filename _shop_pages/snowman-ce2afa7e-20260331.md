@@ -1,0 +1,30 @@
+---
+layout: shop
+title: "味芳"
+description: "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。"
+shop_id: "snowman-ce2afa7e-20260331"
+name: "味芳"
+genre: "食事"
+prefecture: "愛媛県"
+city: "伊予市"
+address: "愛媛県伊予市市場132-3"
+nearest_station: "JR予讃線「伊予市駅」より徒歩15分伊予鉄道郡中線「郡中港駅」より徒歩15分"
+visited_date: "2026-03-31"
+youtube_id: "ih8tKyF5YBs"
+source_video_title: "【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼"
+group: "snowman"
+lat: 33.7579
+lng: 132.7039
+members:
+  - "岩本照"
+  - "ラウール"
+  - "深澤辰哉"
+  - "宮舘涼太"
+  - "阿部亮平"
+  - "渡辺翔太"
+  - "向井康二"
+  - "目黒蓮"
+  - "佐久間大介"
+groups:
+  - "snowman"
+---

@@ -14,6 +14,7 @@ youtube_id: "99-SIhGTrYg"
 source_video_title: "【すのちゅーぶ】羽田空港が見える「川崎キングスカイフロント東急REIホテル₋Captain’s Grill and Bar-」SnowManロケ地"
 group: "snowman"
 thumbnail_url: "https://img.youtube.com/vi/99-SIhGTrYg/hqdefault.jpg"
+seating_note: "SnowManが座った席は、テラス席です。 ＼画像の奥側あたり／ お席のリクエストはできるようですが、要望に添えない場合もあるとのこと"
 lat: 35.5410017
 lng: 139.753172
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Baro (ベロ)"
-description: "食事・東京都・Snow Manが訪問"
+description: "Snow Man メンバーがすの日常で訪れた古着屋。「あいことば」MV撮影場所としても知られる目白のショップ。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
 genre: "食事"

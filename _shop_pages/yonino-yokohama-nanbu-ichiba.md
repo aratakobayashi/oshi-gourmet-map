@@ -8,6 +8,10 @@ genre: "その他"
 prefecture: "神奈川県"
 city: "横浜市金沢区"
 address: "神奈川県横浜市金沢区鳥浜町1-1"
+visited_date: "2024-05-15"
+youtube_id: "U_byUL7d-eY"
+source_video_title: "#326【案件!?】奢り確変に入った日"
+source_video_url: "https://www.youtube.com/watch?v=U_byUL7d-eY"
 group: "yonino"
 lat: 35.3733
 lng: 139.6403

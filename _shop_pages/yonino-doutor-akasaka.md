@@ -8,6 +8,10 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂4-8-20"
+visited_date: "2024-12-18"
+youtube_id: "-jyOpZIJcn8"
+source_video_title: "#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日"
+source_video_url: "https://www.youtube.com/watch?v=-jyOpZIJcn8"
 group: "yonino"
 lat: 35.6703
 lng: 139.737

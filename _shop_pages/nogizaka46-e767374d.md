@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "アメージングコーヒー 渋谷パルコ店"
+description: "カフェ・渋谷区東京都・乃木坂46が訪問"
+shop_id: "nogizaka46-e767374d-"
+name: "アメージングコーヒー 渋谷パルコ店"
+genre: "カフェ"
+prefecture: "東京都"
+city: "渋谷区"
+address: "東京都渋谷区宇田川町15-1 渋谷パルコ 3F"
+source_video_title: "渋谷パルコ【偶然を言い訳にして・僕は僕を好きになる】"
+group: "nogizaka46"
+tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13241216/"
+lat: 35.66211551792716
+lng: 139.6989382914873
+groups:
+  - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130301/13241216/"
+---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "New NEW YORK CLUB(テイクアウト)"
-description: "食事・東京都・heysayjumpが訪問"
+description: "Hey! Say! JUMP（いただきハイジャンプ）が訪れたテイクアウト専門店。"
 shop_id: "heysayjump-newnewyorkclubテイクアウト"
 name: "New NEW YORK CLUB(テイクアウト)"
 genre: "食事"
