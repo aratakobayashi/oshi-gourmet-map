@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なぎさ食堂"
-description: "水道橋の海鮮系定食屋。よにのちゃんねる#288に登場。"
+description: "千代田区の和食店。二宮和也・山田涼介・菊池風磨が2024年1月に訪れた。水道橋の海鮮系定食屋。よにのちゃんねる#288に登場。"
 shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
 genre: "和食"

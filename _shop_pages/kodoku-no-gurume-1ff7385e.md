@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "京城園"
-description: "東京都千代田区神保町の上タン塩とゲタカルビ"
+description: "千代田区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-1ff7385e-"
 name: "京城園"
 genre: "食事"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区"
 nearest_station: "神保町駅"
+price_range: "￥10,000～￥14,999"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13011592/"

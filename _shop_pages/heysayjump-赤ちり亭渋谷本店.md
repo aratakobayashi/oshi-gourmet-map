@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤ちり亭 渋谷本店"
-description: "Hey! Say! JUMP（いただきハイジャンプ）が訪れた渋谷の飲食店。"
+description: "東京都のレストラン。Hey! Say! JUMPが訪れたロケ地。いただきハイジャンプ・HeySayJUMPが楽しめる。Hey! Say! JUMP（いただきハイジャンプ）が訪れた渋谷の飲食店。"
 shop_id: "heysayjump-赤ちり亭渋谷本店"
 name: "赤ちり亭 渋谷本店"
 genre: "食事"

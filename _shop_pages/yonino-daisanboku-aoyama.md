@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大3木（ダイサンボク）"
-description: "青山一丁目の海鮮系居酒屋。よにのちゃんねる#308に登場。"
+description: "港区の居酒屋。二宮和也・山田涼介・菊池風磨が2024年3月に訪れた。海鮮居酒屋が楽しめる。青山一丁目の海鮮系居酒屋。よにのちゃんねる#308に登場。"
 shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
 genre: "居酒屋"

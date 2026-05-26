@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Pizzeria e Trattoria da ISA"
-description: "中目黒の超有名ピザ店。ジェシーさんの希望で訪れ、本場ナポリの味を楽しみました。"
+description: "目黒区のグルメスポット。ジェシーが訪れたSixTONESのロケ地。中目黒の超有名ピザ店。ジェシーさんの希望で訪れ、本場ナポリの味を楽しみました。"
 shop_id: "sixtones-pizzeria-e-trattoria-da-isa"
 name: "Pizzeria e Trattoria da ISA"
 genre: "その他"

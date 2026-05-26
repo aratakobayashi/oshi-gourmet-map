@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "銀座 福祿壽"
-description: "銀座の和カフェ。かき氷や抹茶スイーツを楽しみながらトークを展開。"
+description: "中央区のスイーツショップ。二宮和也が訪れたよにのちゃんねるのロケ地。かき氷が楽しめる。銀座の和カフェ。かき氷や抹茶スイーツを楽しみながらトークを展開。"
 shop_id: "yonino-ginza-fukukuju"
 name: "銀座 福祿壽"
 genre: "スイーツ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "CAVA CAVALLO"
-description: "3問目は東京・原宿の明治通り沿いにあるイタリアンレストラン 『CAVA CAVALLO』 から。"
+description: "渋谷区のレストラン。平野紫耀・岸優太・髙橋海人が2022年9月に訪れた。3問目は東京・原宿の明治通り沿いにあるイタリアンレストラン 『CAVA CAVALLO』 から。"
 shop_id: "kingprince-cava_cavallo-20220910"
 name: "CAVA CAVALLO"
 genre: "食事"

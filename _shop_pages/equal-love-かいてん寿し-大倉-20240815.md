@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かいてん寿し 大倉"
-description: "=LOVEの大谷映美里が訪れた飲食店。"
+description: "金沢市のレストラン。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-かいてん寿し_大倉-20240815"
 name: "かいてん寿し 大倉"
 genre: "食事"

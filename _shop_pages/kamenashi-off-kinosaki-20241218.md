@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "OFF KINOSAKI"
-description: "亀梨くんが夕食を食べた、とてもおしゃれなレストランです。"
+description: "豊岡市のレストラン。亀梨和也が2024年12月に訪れた。亀梨くんが夕食を食べた、とてもおしゃれなレストランです。"
 shop_id: "kamenashi-off_kinosaki-20241218"
 name: "OFF KINOSAKI"
 genre: "食事"

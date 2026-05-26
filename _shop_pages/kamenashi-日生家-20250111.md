@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日生家"
-description: "牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。"
+description: "備前市のレストラン。亀梨和也が2025年1月に訪れた。牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。"
 shop_id: "kamenashi-日生家-20250111"
 name: "日生家"
 genre: "食事"

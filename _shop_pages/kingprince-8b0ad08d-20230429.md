@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "マッサマン タイキッチン"
-description: "食事・中郡大磯町神奈川県・kingprinceが訪問"
+description: "中郡大磯町のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
 shop_id: "kingprince-8b0ad08d-20230429"
 name: "マッサマン タイキッチン"
 genre: "食事"
 prefecture: "神奈川県"
 city: "中郡大磯町"
 address: "神奈川県中郡大磯町大磯1048-1"
+price_range: "￥2,000～￥2,999"
 visited_date: "2023-04-29"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

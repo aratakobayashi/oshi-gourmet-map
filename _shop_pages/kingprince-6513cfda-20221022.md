@@ -1,13 +1,15 @@
 ---
 layout: shop
 title: "富錦樹台菜香檳 コレド室町テラス店"
-description: "居酒屋・中央区東京都・kingprinceが訪問"
+description: "中央区の居酒屋。神宮寺勇太・岸優太・永瀬廉らが2022年10月に訪れた。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"
 genre: "居酒屋"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋室町3-2-1 COREDO室町テラス 2F"
+nearest_station: "東京メトロ 銀座線・半蔵門線「三越前」駅地下直結、JR横須賀線・総武快速線「新日本橋」駅地下直結、JR中央線・山手線・京浜東北線「神田」駅 徒歩4分"
+price_range: "￥4,000～￥4,999"
 visited_date: "2022-10-22"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

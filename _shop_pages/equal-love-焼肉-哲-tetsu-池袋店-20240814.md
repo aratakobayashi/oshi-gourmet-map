@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉 哲 TETSU 池袋店"
-description: "=LOVEの大谷映美里・野口衣織が訪れた焼肉店。"
+description: "豊島区の焼肉店。大谷映美里・野口衣織が2024年8月に訪れた。=LOVEの大谷映美里・野口衣織が訪れた焼肉店。"
 shop_id: "equal_love-焼肉_哲_tetsu_池袋店-20240814"
 name: "焼肉 哲 TETSU 池袋店"
 genre: "焼肉"

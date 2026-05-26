@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "LONG! LONGER!! LONGEST!!! 原宿本店"
-description: "=LOVEの音嶋莉沙・佐竹のん乃らが訪れたスイーツ店。"
+description: "渋谷区のスイーツショップ。音嶋莉沙・佐竹のん乃・野口衣織らが2024年8月に訪れた。=LOVEの音嶋莉沙・佐竹のん乃らが訪れたスイーツ店。"
 shop_id: "equal_love-long_longer_longest_-20240804"
 name: "LONG! LONGER!! LONGEST!!! 原宿本店"
 genre: "スイーツ"

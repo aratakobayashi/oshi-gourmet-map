@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤坂鮨兆"
-description: "2016.05.18 高級レストランのランチ特集"
+description: "東京都の寿司店。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集"
 shop_id: "heysayjump-b2922bdd-20160518"
 name: "赤坂鮨兆"
 genre: "寿司"

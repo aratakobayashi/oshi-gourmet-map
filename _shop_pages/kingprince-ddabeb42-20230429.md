@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "千とせ 本店"
-description: "食事・大阪市大阪府・kingprinceが訪問"
+description: "大阪市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
 shop_id: "kingprince-ddabeb42-20230429"
 name: "千とせ 本店"
 genre: "食事"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市中央区難波千日前8-1"
+price_range: "～￥999"
 visited_date: "2023-04-29"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

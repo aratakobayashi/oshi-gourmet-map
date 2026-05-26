@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大崎駅 新東口"
-description: "=LOVEの大谷映美里が訪れた飲食店。"
+description: "品川区のレストラン。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-大崎駅_新東口-20240815"
 name: "大崎駅 新東口"
 genre: "食事"

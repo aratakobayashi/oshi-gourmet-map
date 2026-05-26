@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Beasty Coffee [cafe laboratory]"
-description: "代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。"
+description: "渋谷区のカフェ。二宮和也・山田涼介・菊池風磨が2025年12月に訪れた。コーヒー・スペシャルティが楽しめる。代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。"
 shop_id: "yonino-beasty-coffee"
 name: "Beasty Coffee [cafe laboratory]"
 genre: "カフェ"

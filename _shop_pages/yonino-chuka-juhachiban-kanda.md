@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中華料理 十八番"
-description: "よにのちゃんねる#314登場。神田の老舗中華料理店。"
+description: "千代田区の中華料理店。二宮和也・山田涼介・菊池風磨が2024年4月に訪れた。よにのちゃんねる#314登場。神田の老舗中華料理店。"
 shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
 genre: "中華"

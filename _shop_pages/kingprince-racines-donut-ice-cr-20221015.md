@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RACINES DONUT&ICE CREAM"
-description: "最終問題は東京・北青山にある『RACINES DONUT&ICE CREAM』から。"
+description: "港区のカフェ。神宮寺勇太・岸優太・永瀬廉らが2022年10月に訪れた。最終問題は東京・北青山にある『RACINES DONUT&ICE CREAM』から。"
 shop_id: "kingprince-racines_donut_ice_cr-20221015"
 name: "RACINES DONUT&ICE CREAM"
 genre: "カフェ"

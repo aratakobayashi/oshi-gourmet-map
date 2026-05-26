@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "mipig cafe 目黒店"
-description: "ミニブタと触れ合えるカフェ。すの日常2023年7月配信回で登場。"
+description: "目黒区のカフェ。Snow Manが訪れたロケ地。動物カフェが楽しめる。ミニブタと触れ合えるカフェ。すの日常2023年7月配信回で登場。"
 shop_id: "snowman-mipig-cafe-meguro"
 name: "mipig cafe 目黒店"
 genre: "カフェ"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区目黒4丁目"
 nearest_station: "目黒駅"
+price_range: "￥1,000～￥1,999"
 visited_date: "2023-07-05"
 youtube_id: "Qh0RSkK-s4E"
 source_video_title: "Snow Man【可愛いブタちゃんと触れ合い」そこには癒し愛しかない"

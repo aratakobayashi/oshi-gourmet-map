@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "薬膳キッチン やくぜんや"
-description: "身体に優しい薬膳料理ランチ。すの日常2025年9月24日配信。"
+description: "渋谷区の和食店。岩本照・深澤辰哉・渡辺翔太らが2025年9月に訪れた。恵比寿が楽しめる。身体に優しい薬膳料理ランチ。すの日常2025年9月24日配信。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "和食"

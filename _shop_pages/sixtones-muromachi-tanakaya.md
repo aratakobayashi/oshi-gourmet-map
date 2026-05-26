@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "室町 砂場"
-description: "日本橋の老舗蕎麦店。伝統的な江戸前蕎麦の味を、大人な雰囲気の中で味わいました。"
+description: "中央区の和食店。SixTONESが訪れたロケ地。日本橋の老舗蕎麦店。伝統的な江戸前蕎麦の味を、大人な雰囲気の中で味わいました。"
 shop_id: "sixtones-muromachi-tanakaya"
 name: "室町 砂場"
 genre: "和食"

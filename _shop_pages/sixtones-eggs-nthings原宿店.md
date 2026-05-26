@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Eggs 'n Things 原宿店"
-description: "パンケーキブームの火付け役店で山盛りホイップに驚愕。"
+description: "渋谷区のスイーツショップ。ジェシー・京本大我・松村北斗らが2019年4月に訪れた。パンケーキブームの火付け役店で山盛りホイップに驚愕。"
 shop_id: "sixtones-eggs-nthings原宿店"
 name: "Eggs 'n Things 原宿店"
 genre: "スイーツ"

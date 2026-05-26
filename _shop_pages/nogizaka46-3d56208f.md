@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "乃木坂な妻たち"
-description: "カフェ・札幌市北海道・乃木坂46が訪問"
+description: "札幌市のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-3d56208f-"
 name: "乃木坂な妻たち"
 genre: "カフェ"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市中央区北6西15-3-7"
+price_range: "～￥999"
 source_video_title: "乃木坂な妻たち"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010104/1060615/"

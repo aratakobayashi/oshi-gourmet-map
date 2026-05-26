@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "CoCo壱番屋 中目黒山手通店"
-description: "なにわ男子「ココイチで被っちゃダメよカレー」に登場した飲食店。"
+description: "目黒区のグルメスポット。なにわ男子が訪れたロケ地。なにわ男子「ココイチで被っちゃダメよカレー」に登場した飲食店。"
 shop_id: "naniwa-coco壱番屋_中目黒山手通店-20241203"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "カレー"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒３丁目１４−５シャンブル上目黒"
+price_range: "￥1,000～￥1,999"
 visited_date: "2024-12-03"
 youtube_id: "wvv-EUPN6_8"
 source_video_title: "なにわ男子【ココイチで被っちゃダメよカレー】絶対に食べなきゃいけない戦いがそこにはある"

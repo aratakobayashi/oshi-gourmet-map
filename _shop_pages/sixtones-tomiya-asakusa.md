@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "とんかつ とみ家"
-description: "浅草でのアポなし旅で訪れたお店。肉厚でジューシーなとんかつをメンバーが絶賛。"
+description: "台東区の和食店。SixTONESが訪れたロケ地。浅草でのアポなし旅で訪れたお店。肉厚でジューシーなとんかつをメンバーが絶賛。"
 shop_id: "sixtones-tomiya-asakusa"
 name: "とんかつ とみ家"
 genre: "和食"

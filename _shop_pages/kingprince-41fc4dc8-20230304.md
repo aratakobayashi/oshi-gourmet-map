@@ -1,13 +1,15 @@
 ---
 layout: shop
 title: "ブラッスリー ポール・ボキューズ 銀座"
-description: "食事・中央区東京都・kingprinceが訪問"
+description: "中央区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年3月に訪れた。"
 shop_id: "kingprince-41fc4dc8-20230304"
 name: "ブラッスリー ポール・ボキューズ 銀座"
 genre: "食事"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F"
+nearest_station: "地下鉄銀座駅 徒歩4分"
+price_range: "￥8,000～￥9,999"
 visited_date: "2023-03-04"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

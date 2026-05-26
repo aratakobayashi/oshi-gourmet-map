@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "蒙古タンメン中本 上板橋本店"
-description: "=LOVEの大谷映美里が訪れたラーメン店。"
+description: "板橋区のラーメン店。大谷映美里が2025年1月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
 shop_id: "equal_love-蒙古タンメン中本_上板橋本店-20250131"
 name: "蒙古タンメン中本 上板橋本店"
 genre: "ラーメン"

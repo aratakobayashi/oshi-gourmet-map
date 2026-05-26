@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お好み村てつ"
-description: "=LOVEの野口衣織・山本杏奈が訪れたもんじゃ店。"
+description: "広島市のもんじゃ焼き店。野口衣織・山本杏奈が2024年8月に訪れた。=LOVEの野口衣織・山本杏奈が訪れたもんじゃ店。"
 shop_id: "equal_love-お好み村てつ-20240814"
 name: "お好み村てつ"
 genre: "もんじゃ"

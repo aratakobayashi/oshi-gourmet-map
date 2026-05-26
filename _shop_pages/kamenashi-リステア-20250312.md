@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "リステア"
-description: "亀梨くんがこちらのお店で爆買いしています。"
+description: "東京都のレストラン。亀梨和也が2025年3月に訪れた。亀梨くんがこちらのお店で爆買いしています。"
 shop_id: "kamenashi-リステア-20250312"
 name: "リステア"
 genre: "食事"

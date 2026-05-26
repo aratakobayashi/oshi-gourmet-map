@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "動坂食堂"
-description: "千駄木の昔ながらの定食屋。よにのちゃんねる#160に登場。"
+description: "文京区の和食店。二宮和也・菊池風磨が2022年9月に訪れた。大衆食堂が楽しめる。千駄木の昔ながらの定食屋。よにのちゃんねる#160に登場。"
 shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
 genre: "和食"

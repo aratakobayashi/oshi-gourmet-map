@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "CozyStyle COFFEE"
-description: "落合にある小さなカフェ。ティラミスも人気。よにのちゃんねる#419に登場。"
+description: "新宿区のカフェ。二宮和也・山田涼介・菊池風磨が2025年5月に訪れた。ティラミスが楽しめる。落合にある小さなカフェ。ティラミスも人気。よにのちゃんねる#419に登場。"
 shop_id: "yonino-cozy-style-coffee"
 name: "CozyStyle COFFEE"
 genre: "カフェ"

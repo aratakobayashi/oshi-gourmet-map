@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "スガキヤ イオンナゴヤドーム前店"
-description: "ラーメン・名古屋市愛知県・乃木坂46が訪問"
+description: "名古屋市のラーメン店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-ab929a12-"
 name: "スガキヤ イオンナゴヤドーム前店"
 genre: "ラーメン"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市東区矢田南4-102-3 イオンモールナゴヤドーム前 2F"
+price_range: "～￥999"
 source_video_title: "スガキヤ イオンナゴヤドーム前店"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230110/23009416/"

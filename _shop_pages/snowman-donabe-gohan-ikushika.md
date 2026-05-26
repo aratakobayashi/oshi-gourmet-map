@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "土鍋ご飯いくしか 中目黒店"
-description: "おかわり自由の土鍋ご飯定食。すの日常2025年6月11日配信。"
+description: "目黒区の和食店。深澤辰哉・岩本照・阿部亮平らが2025年6月に訪れた。土鍋ご飯・中目黒が楽しめる。おかわり自由の土鍋ご飯定食。すの日常2025年6月11日配信。"
 shop_id: "snowman-donabe-gohan-ikushika"
 name: "土鍋ご飯いくしか 中目黒店"
 genre: "和食"

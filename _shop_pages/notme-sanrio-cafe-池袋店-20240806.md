@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SANRIO CAFE 池袋店"
-description: "≠MEの谷崎早耶・本田珠由記が訪れたカフェ。"
+description: "豊島区のカフェ。谷崎早耶・本田珠由記が2024年8月に訪れた。≠MEの谷崎早耶・本田珠由記が訪れたカフェ。"
 shop_id: "notme-sanrio_cafe_池袋店-20240806"
 name: "SANRIO CAFE 池袋店"
 genre: "カフェ"

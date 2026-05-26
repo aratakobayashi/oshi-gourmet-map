@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お食事処 たかはし"
-description: "よにのちゃんねる#218登場。早稲田の定食屋。"
+description: "新宿区の和食店。二宮和也・山田涼介が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#218登場。早稲田の定食屋。"
 shop_id: "yonino-oshokuji-takahashi-waseda"
 name: "お食事処 たかはし"
 genre: "和食"

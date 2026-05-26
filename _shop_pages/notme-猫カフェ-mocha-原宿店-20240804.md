@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "猫カフェ MOCHA 原宿店"
-description: "≠MEの菅波美玲・谷崎早耶が訪れたカフェ。"
+description: "渋谷区のカフェ。菅波美玲・谷崎早耶が2024年8月に訪れた。≠MEの菅波美玲・谷崎早耶が訪れたカフェ。"
 shop_id: "notme-猫カフェ_mocha_原宿店-20240804"
 name: "猫カフェ MOCHA 原宿店"
 genre: "カフェ"

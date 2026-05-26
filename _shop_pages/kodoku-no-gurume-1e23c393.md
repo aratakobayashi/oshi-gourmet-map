@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "きっちん大浪"
-description: "東京都武蔵野市吉祥寺のチキンてりやきと惣菜盛り合わせ定食"
+description: "武蔵野市の和食店。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-1e23c393-"
 name: "きっちん大浪"
 genre: "和食"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "武蔵野市"
 address: "東京都武蔵野市"
 nearest_station: "吉祥寺駅"
+price_range: "￥1,000～￥1,999"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13198969/"

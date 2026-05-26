@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "平塚バプテスト教会"
-description: "神奈川県平塚市の豚バラ大根とシイラのフライ"
+description: "平塚市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-47f723fa-"
 name: "平塚バプテスト教会"
 genre: "食事"

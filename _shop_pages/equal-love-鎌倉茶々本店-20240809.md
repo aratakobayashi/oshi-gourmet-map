@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鎌倉茶々本店"
-description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れたスイーツ店。"
+description: "鎌倉市のスイーツショップ。音嶋莉沙・瀧脇笙古が2024年8月に訪れた。=LOVEの音嶋莉沙・瀧脇笙古が訪れたスイーツ店。"
 shop_id: "equal_love-鎌倉茶々本店-20240809"
 name: "鎌倉茶々本店"
 genre: "スイーツ"

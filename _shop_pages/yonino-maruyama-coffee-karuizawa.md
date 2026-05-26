@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "丸山珈琲 ハルニレテラス店"
-description: "よにのちゃんねる#306登場。軽井沢・ハルニレテラスの人気カフェ。"
+description: "北佐久郡軽井沢町のカフェ。山田涼介・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#306登場。軽井沢・ハルニレテラスの人気カフェ。"
 shop_id: "yonino-maruyama-coffee-karuizawa"
 name: "丸山珈琲 ハルニレテラス店"
 genre: "カフェ"

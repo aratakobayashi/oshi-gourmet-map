@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "加賀百万石の味 げんかん"
-description: "=LOVEの大谷映美里が訪れた和食店。"
+description: "金沢市の和食店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-加賀百万石の味_げんかん-20240815"
 name: "加賀百万石の味 げんかん"
 genre: "和食"

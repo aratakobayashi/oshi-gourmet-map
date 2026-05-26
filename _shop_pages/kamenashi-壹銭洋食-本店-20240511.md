@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "壹銭洋食 本店"
-description: "亀梨和也「vlog」に登場したもんじゃ店。"
+description: "京都市のもんじゃ焼き店。亀梨和也が2024年5月に訪れた。亀梨和也「vlog」に登場したもんじゃ店。"
 shop_id: "kamenashi-壹銭洋食_本店-20240511"
 name: "壹銭洋食 本店"
 genre: "もんじゃ"

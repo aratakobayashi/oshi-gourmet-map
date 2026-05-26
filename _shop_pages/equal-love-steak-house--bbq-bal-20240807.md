@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "STEAK HOUSE & BBQ BALCONIWA"
-description: "=LOVEの大谷映美里・諸橋沙夏らが訪れた飲食店。"
+description: "渋谷区のレストラン。大谷映美里・諸橋沙夏・山本杏奈が2024年8月に訪れた。=LOVEの大谷映美里・諸橋沙夏らが訪れた飲食店。"
 shop_id: "equal_love-steak_house__bbq_bal-20240807"
 name: "STEAK HOUSE & BBQ BALCONIWA"
 genre: "食事"

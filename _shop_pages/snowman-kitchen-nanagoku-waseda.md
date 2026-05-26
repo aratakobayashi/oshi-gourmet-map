@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "キッチン南国"
-description: "早稲田にある老舗定食屋。メンバーがボリューム満点のメニューを完食したガッツリ系スポット。"
+description: "新宿区の和食店。佐久間大介・深澤辰哉・宮舘涼太らが2024年5月に訪れた。早稲田にある老舗定食屋。メンバーがボリューム満点のメニューを完食したガッツリ系スポット。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "和食"

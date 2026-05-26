@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "錦市場"
-description: "=LOVEが訪れたお店。"
+description: "京都市のグルメスポット。=LOVEが訪れたロケ地。=LOVEが訪れたお店。"
 shop_id: "equal_love-錦市場-20240804"
 name: "錦市場"
 genre: "その他"

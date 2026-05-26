@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Le Rhin Bleu"
-description: "スイスでディナーを食べに来た、ライン川の上にあるお店です。"
+description: "レストラン。亀梨和也が2024年11月に訪れた。スイスでディナーを食べに来た、ライン川の上にあるお店です。"
 shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
 genre: "食事"

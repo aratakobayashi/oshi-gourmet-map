@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鳥貴族 大久保駅西店"
-description: "=LOVEの大谷映美里が訪れた居酒屋。"
+description: "新宿区の居酒屋。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた居酒屋。"
 shop_id: "equal_love-鳥貴族_大久保駅西店-20240815"
 name: "鳥貴族 大久保駅西店"
 genre: "居酒屋"

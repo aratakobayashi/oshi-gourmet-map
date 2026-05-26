@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "お好み焼 鉄板焼 蔵"
-description: "櫻坂46の2期生メンバーが訪れた月島の名店。明太もちもんじゃが人気。"
+description: "中央区のもんじゃ焼き店。守屋麗奈・藤吉夏鈴・山﨑天が2024年5月に訪れた。櫻坂46の2期生メンバーが訪れた月島の名店。明太もちもんじゃが人気。"
 shop_id: "sakurazaka46-okonomiyaki-kura"
 name: "お好み焼 鉄板焼 蔵"
 genre: "もんじゃ"

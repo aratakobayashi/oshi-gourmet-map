@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "Serafina NEW YORK さいたま新都心店"
-description: "居酒屋・さいたま市埼玉県・乃木坂46が訪問"
+description: "さいたま市の居酒屋。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-serafina_new_york-"
 name: "Serafina NEW YORK さいたま新都心店"
 genre: "居酒屋"
 prefecture: "埼玉県"
 city: "さいたま市"
 address: "埼玉県さいたま市中央区新都心10 けやきひろば 3F"
+price_range: "￥3,000～￥3,999"
 source_video_title: "さいたまスーパーアリーナ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/saitama/A1101/A110101/11035708/"

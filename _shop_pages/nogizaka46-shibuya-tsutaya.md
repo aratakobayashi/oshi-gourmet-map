@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "スターバックス・コーヒー SHIBUYA TSUTAYA店"
-description: "カフェ・渋谷区東京都・乃木坂46が訪問"
+description: "渋谷区のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-shibuya_tsutaya-"
 name: "スターバックス・コーヒー SHIBUYA TSUTAYA店"
 genre: "カフェ"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町21-6 QFRONT 1F2F"
+price_range: "～￥999"
 source_video_title: "センター街【革命の馬】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13034125/"

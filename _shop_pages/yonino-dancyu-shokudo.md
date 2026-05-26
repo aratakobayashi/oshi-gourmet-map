@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "dancyu食堂"
-description: "東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。"
+description: "千代田区の和食店。二宮和也・山田涼介・菊池風磨が2024年11月に訪れた。dancyuが楽しめる。東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "和食"

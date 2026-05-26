@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Pablo"
-description: "すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。"
+description: "レストラン。Snow Manが訪れたロケ地。すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "食事"
 nearest_station: "「中目黒駅」より徒歩４分"
+price_range: "￥5,000～￥5,999"
 visited_date: "2024-10-02"
 youtube_id: "q9xC9ARZrR4"
 source_video_title: "Snow Man【思い出の味…スペイン料理】バルセロナに到着です"

@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "GOLD RUSH(ゴールドラッシュ)"
-description: "中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。"
+description: "新宿区のレストラン。中丸雄一が2024年2月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。"
 shop_id: "ginga-gold_rushゴールドラッシュ-20250217"
 name: "GOLD RUSH(ゴールドラッシュ)"
 genre: "食事"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町２丁目３７−３丸友ビル６F03-6273-8923"
+price_range: "-"
 visited_date: "2024-02-17"
 source_video_title: "銀河チャンネル"
 group: "ginga"

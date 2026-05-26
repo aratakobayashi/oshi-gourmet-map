@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "THE MUSIC BAR CAVE SHIBUYA"
-description: "渋谷の地下に位置する音楽バー。しおりが渋谷はしご酒動画で紹介した。"
+description: "渋谷区の居酒屋。しおりが2024年3月に訪れた。渋谷の地下に位置する音楽バー。しおりが渋谷はしご酒動画で紹介した。"
 shop_id: "shiori-the_music_bar_cave_s-20240316"
 name: "THE MUSIC BAR CAVE SHIBUYA"
 genre: "居酒屋"

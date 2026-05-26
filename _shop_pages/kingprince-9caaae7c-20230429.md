@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "桂屋"
-description: "食事・中野区東京都・kingprinceが訪問"
+description: "中野区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"
 genre: "食事"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区本町6-21-16 セントラルフィールド 1F"
+price_range: "￥1,000～￥1,999"
 visited_date: "2023-04-29"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

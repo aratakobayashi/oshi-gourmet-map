@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Samoyed cafe AL 横浜中華街店"
-description: "≒JOYの逢田珠里依・山田杏佳が訪れたカフェ。"
+description: "横浜市のカフェ。逢田珠里依・山田杏佳が2025年9月に訪れた。≒JOYの逢田珠里依・山田杏佳が訪れたカフェ。"
 shop_id: "neajoy-samoyed_cafe_al_横浜中華-20250903"
 name: "Samoyed cafe AL 横浜中華街店"
 genre: "カフェ"

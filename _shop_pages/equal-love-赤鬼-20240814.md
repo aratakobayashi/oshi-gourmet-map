@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤鬼"
-description: "=LOVEの諸橋沙夏が訪れた居酒屋。"
+description: "いわき市の居酒屋。諸橋沙夏が2024年8月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
 shop_id: "equal_love-赤鬼-20240814"
 name: "赤鬼"
 genre: "居酒屋"

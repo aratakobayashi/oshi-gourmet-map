@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "松本醤油商店"
-description: "いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。"
+description: "川越市のグルメスポット。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。"
 shop_id: "heysayjump-eea6c892-20181110"
 name: "松本醤油商店"
 genre: "その他"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市"
+price_range: "-"
 visited_date: "2018-11-10"
 source_video_title: "2018.11.10 川越特集"
 group: "heysayjump"

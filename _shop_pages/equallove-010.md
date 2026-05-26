@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BALLPARK BURGER &9"
-description: "イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。"
+description: "横浜市のレストラン。大場花菜・瀧脇笙古が2025年6月に訪れた。イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。"
 shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
 genre: "食事"

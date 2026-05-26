@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "バーミヤン 神宮前店"
-description: "=LOVEの大谷映美里が訪れた飲食店。"
+description: "渋谷区の中華料理店。大谷映美里が2025年6月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
 shop_id: "equal_love-バーミヤン_神宮前店-20250627"
 name: "バーミヤン 神宮前店"
 genre: "中華"

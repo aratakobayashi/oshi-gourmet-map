@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TOM BOY 池袋2号店"
-description: "2015.11.14/11.21 大盛りグルメ特集"
+description: "豊島区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集"
 shop_id: "heysayjump-tom_boy_2-20151114"
 name: "TOM BOY 池袋2号店"
 genre: "食事"

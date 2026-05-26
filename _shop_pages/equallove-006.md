@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "DOG DEPT CAFE 浅草隅田川テラス店"
-description: "諸橋沙夏がVlogロケで訪問。隅田川を望むテラス席がある、愛犬同伴可能なカフェ。"
+description: "台東区のカフェ。諸橋沙夏が2022年9月に訪れた。諸橋沙夏がVlogロケで訪問。隅田川を望むテラス席がある、愛犬同伴可能なカフェ。"
 shop_id: "equallove_006"
 name: "DOG DEPT CAFE 浅草隅田川テラス店"
 genre: "カフェ"

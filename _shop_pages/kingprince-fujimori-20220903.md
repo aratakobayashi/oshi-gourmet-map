@@ -1,13 +1,15 @@
 ---
 layout: shop
 title: "FUJIMORI 鷺沼店"
-description: "食事・川崎市神奈川県・kingprinceが訪問"
+description: "川崎市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。"
 shop_id: "kingprince-fujimori-20220903"
 name: "FUJIMORI 鷺沼店"
 genre: "食事"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市宮前区小台1-17-4"
+nearest_station: "東急田園都市線 鷺沼駅 徒歩３分"
+price_range: "-"
 visited_date: "2022-09-03"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"

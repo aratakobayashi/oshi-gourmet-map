@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ミヤトヨ本店"
-description: "=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
+description: "廿日市のレストラン。山本杏奈・佐々木舞香が2025年9月に訪れた。=LOVEの山本杏奈・佐々木舞香が訪れた飲食店。"
 shop_id: "equal_love-ミヤトヨ本店-20250915"
 name: "ミヤトヨ本店"
 genre: "食事"

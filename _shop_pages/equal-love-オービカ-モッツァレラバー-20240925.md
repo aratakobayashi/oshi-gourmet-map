@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "オービカ モッツァレラバー"
-description: "=LOVEの瀧脇笙古・髙松瞳が訪れた飲食店。"
+description: "東京都のレストラン。瀧脇笙古・髙松瞳が2024年9月に訪れた。=LOVEの瀧脇笙古・髙松瞳が訪れた飲食店。"
 shop_id: "equal_love-オービカ_モッツァレラバー-20240925"
 name: "オービカ モッツァレラバー"
 genre: "食事"

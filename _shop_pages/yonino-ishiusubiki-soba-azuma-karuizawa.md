@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "石臼挽き蕎麦 東間"
-description: "よにのちゃんねる#301登場。軽井沢の石臼挽き蕎麦店。"
+description: "北佐久郡軽井沢町の和食店。二宮和也・山田涼介・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#301登場。軽井沢の石臼挽き蕎麦店。"
 shop_id: "yonino-ishiusubiki-soba-azuma-karuizawa"
 name: "石臼挽き蕎麦 東間"
 genre: "和食"

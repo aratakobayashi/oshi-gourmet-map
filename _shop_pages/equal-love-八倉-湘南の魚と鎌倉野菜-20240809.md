@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "八倉 -湘南の魚と鎌倉野菜-"
-description: "=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
+description: "鎌倉市の和食店。音嶋莉沙・瀧脇笙古が2024年8月に訪れた。=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
 shop_id: "equal_love-八倉_湘南の魚と鎌倉野菜-20240809"
 name: "八倉 -湘南の魚と鎌倉野菜-"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "築地虎杖 うに虎 中通り店"
-description: "うに食べ比べ丼を堪能。日向坂メンバーも絶賛の築地グルメ。"
+description: "中央区の寿司店。佐々木美玲・河田陽菜・丹生明里が2024年2月に訪れた。うに食べ比べ丼を堪能。日向坂メンバーも絶賛の築地グルメ。"
 shop_id: "hinatazaka46-tsukiji-uniko"
 name: "築地虎杖 うに虎 中通り店"
 genre: "寿司"

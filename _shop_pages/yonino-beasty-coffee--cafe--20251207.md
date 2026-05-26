@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Beasty Coffee [ cafe laboratory ]"
-description: "よにのちゃんねる#481「ドライブ!!」に登場したカフェ。"
+description: "渋谷区のカフェ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#481「ドライブ!!」に登場したカフェ。"
 shop_id: "yonino-beasty_coffee__cafe_-20251207"
 name: "Beasty Coffee [ cafe laboratory ]"
 genre: "カフェ"

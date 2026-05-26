@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "餃子屋"
-description: "孤独のグルメ Season10 第24話に登場した飲食店。井之頭五郎が訪問。"
+description: "出雲市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-ffbcfce5-"
 name: "餃子屋"
 genre: "食事"
@@ -9,6 +9,7 @@ prefecture: "島根県"
 city: "出雲市"
 address: "島根県出雲市"
 nearest_station: "出雲市駅"
+price_range: "￥1,000～￥1,999"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shimane/A3202/A320201/32002948/"

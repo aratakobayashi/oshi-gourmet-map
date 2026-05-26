@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "磯丸水産食堂 自由が丘しらかば通り店"
-description: "阿部亮平が食べたいものとして選んだ海鮮居酒屋。すの日常2019年11月配信回。"
+description: "目黒区のレストラン。阿部亮平が2019年11月に訪れた。阿部亮平が食べたいものとして選んだ海鮮居酒屋。すの日常2019年11月配信回。"
 shop_id: "snowman-isomaru-jiyugaoka"
 name: "磯丸水産食堂 自由が丘しらかば通り店"
 genre: "食事"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区自由が丘2丁目"
 nearest_station: "自由が丘駅"
+price_range: "￥2,000～￥2,999"
 visited_date: "2019-11-20"
 youtube_id: "8zvSYQivscg"
 source_video_title: "Snow Man【絶品海鮮づくし】阿部亮平の食べたいものは？"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "芋ぴっぴ。京都祇園店"
-description: "=LOVEが訪れたスイーツ店。"
+description: "京都市のスイーツショップ。=LOVEが訪れたロケ地。=LOVEが訪れたスイーツ店。"
 shop_id: "equal_love-芋ぴっぴ京都祇園店-20240804"
 name: "芋ぴっぴ。京都祇園店"
 genre: "スイーツ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "帝國食堂"
-description: "西麻布の気軽に入れるフレンチビストロ。すの日常2026年2月11日配信。"
+description: "港区のレストラン。佐久間大介・深澤辰哉・渡辺翔太らが2026年2月に訪れた。フレンチ・西麻布が楽しめる。西麻布の気軽に入れるフレンチビストロ。すの日常2026年2月11日配信。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "食事"

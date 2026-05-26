@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Tian Tian Hainanese Chicken Rice"
-description: "田中樹さんがシンガポールで訪れたチキンライスの名店。"
+description: "Maxwellのレストラン。田中樹が2024年3月に訪れた。田中樹さんがシンガポールで訪れたチキンライスの名店。"
 shop_id: "sixtones-tiantianhainanesechickenrice"
 name: "Tian Tian Hainanese Chicken Rice"
 genre: "食事"

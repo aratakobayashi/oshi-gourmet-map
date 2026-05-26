@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "寿清庵"
-description: "濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。"
+description: "台東区のスイーツショップ。梅澤美波・与田祐希が2023年11月に訪れた。濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。"
 shop_id: "nogizaka46-juseian"
 name: "寿清庵"
 genre: "スイーツ"

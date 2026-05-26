@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀十"
-description: "浅草の老舗どら焼き店。もっちりした皮と上品なあんこが人気。"
+description: "台東区のスイーツショップ。橋本将生が訪れたtimeleszのロケ地。浅草の老舗どら焼き店。もっちりした皮と上品なあんこが人気。"
 shop_id: "timelesz-1f9a394d-"
 name: "亀十"
 genre: "スイーツ"

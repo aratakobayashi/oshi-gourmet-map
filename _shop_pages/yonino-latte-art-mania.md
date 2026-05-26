@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "LATTE ART MANIA TOKYO"
-description: "よにのちゃんねる#405登場。外苑前のラテアート大会チャンピオンが手がけるコーヒー専門店。"
+description: "港区のカフェ。二宮和也・山田涼介・菊池風磨が2025年3月に訪れた。ラテアート・外苑前が楽しめる。よにのちゃんねる#405登場。外苑前のラテアート大会チャンピオンが手がけるコーヒー専門店。"
 shop_id: "yonino-latte-art-mania"
 name: "LATTE ART MANIA TOKYO"
 genre: "カフェ"

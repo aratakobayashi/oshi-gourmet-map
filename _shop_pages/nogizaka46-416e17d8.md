@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "さわやか 新静岡セノバ店"
-description: "焼肉・静岡市静岡県・乃木坂46が訪問"
+description: "静岡市の焼肉店。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-416e17d8-"
 name: "さわやか 新静岡セノバ店"
 genre: "焼肉"
 prefecture: "静岡県"
 city: "静岡市"
 address: "静岡県静岡市葵区鷹匠1-1-1 新静岡セノバ 5F"
+price_range: "￥1,000～￥1,999"
 source_video_title: "炭焼きレストランさわやか"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2201/A220101/22021460/"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "銀座 佐藤養助"
-description: "稲庭うどんの名店。ツルツルの喉越しをメンバーが堪能。"
+description: "中央区の和食店。久保史緒里・山下美月が2023年8月に訪れた。稲庭うどんの名店。ツルツルの喉越しをメンバーが堪能。"
 shop_id: "nogizaka46-ginza-sato-yosuke"
 name: "銀座 佐藤養助"
 genre: "和食"

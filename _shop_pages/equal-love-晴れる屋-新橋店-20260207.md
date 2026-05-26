@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "晴れる屋 新橋店"
-description: "=LOVEの諸橋沙夏が訪れた飲食店。"
+description: "東京都のレストラン。諸橋沙夏が2026年2月に訪れた。=LOVEの諸橋沙夏が訪れた飲食店。"
 shop_id: "equal_love-晴れる屋_新橋店-20260207"
 name: "晴れる屋 新橋店"
 genre: "食事"

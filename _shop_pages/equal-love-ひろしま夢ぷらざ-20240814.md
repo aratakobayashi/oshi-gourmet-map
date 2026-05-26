@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ひろしま夢ぷらざ"
-description: "=LOVEの野口衣織・山本杏奈が訪れたお店。"
+description: "広島市のグルメスポット。野口衣織・山本杏奈が2024年8月に訪れた。=LOVEの野口衣織・山本杏奈が訪れたお店。"
 shop_id: "equal_love-ひろしま夢ぷらざ-20240814"
 name: "ひろしま夢ぷらざ"
 genre: "その他"

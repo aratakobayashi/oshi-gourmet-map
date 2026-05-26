@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "串若丸"
-description: "中目黒にある行列の絶えない焼き鳥店。メンバーがリラックスして食事を楽しむ姿が印象的。"
+description: "目黒区の和食店。SixTONESが訪れたロケ地。中目黒にある行列の絶えない焼き鳥店。メンバーがリラックスして食事を楽しむ姿が印象的。"
 shop_id: "sixtones-yakitoritei-nakameguro"
 name: "串若丸"
 genre: "和食"

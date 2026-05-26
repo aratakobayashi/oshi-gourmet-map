@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ガーデンテラスカフェ"
-description: "=LOVEの齋藤樹愛羅・佐々木舞香が訪れたカフェ。"
+description: "横浜市のカフェ。齋藤樹愛羅・佐々木舞香が2024年8月に訪れた。=LOVEの齋藤樹愛羅・佐々木舞香が訪れたカフェ。"
 shop_id: "equal_love-ガーデンテラスカフェ-20240812"
 name: "ガーデンテラスカフェ"
 genre: "カフェ"

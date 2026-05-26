@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "信州そば処 やまへい 軽井沢店"
-description: "=LOVEの大谷映美里が訪れた和食店。"
+description: "長野県の和食店。大谷映美里が2025年5月に訪れた。=LOVEの大谷映美里が訪れた和食店。"
 shop_id: "equal_love-信州そば処_やまへい_軽井沢店-20250530"
 name: "信州そば処 やまへい 軽井沢店"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "つばめパン＆Milk 尼ケ坂本店"
-description: "カフェ・名古屋市愛知県・乃木坂46が訪問"
+description: "名古屋市のカフェ。齋藤飛鳥・筒井あやめが訪れた乃木坂46のロケ地。"
 shop_id: "nogizaka46-milk-"
 name: "つばめパン＆Milk 尼ケ坂本店"
 genre: "カフェ"

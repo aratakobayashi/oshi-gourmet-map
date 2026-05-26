@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "数寄屋橋茶房"
-description: "カフェ・中央区東京都・乃木坂46が訪問"
+description: "中央区のカフェ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-ccecce7f-"
 name: "数寄屋橋茶房"
 genre: "カフェ"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座5-2-1 東急プラザ銀座 6F"
+price_range: "￥2,000～￥2,999"
 source_video_title: "東急プラザ銀座 キリコラウンジ【インフルエンサー】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13192924/"

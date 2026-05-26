@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "えんそば 錦1丁目店"
-description: "乃木坂ファンの方には言わずと知れたお蕎麦屋さんですね！"
+description: "名古屋市のラーメン店。乃木坂46が訪れたロケ地。乃木坂ファンの方には言わずと知れたお蕎麦屋さんですね！"
 shop_id: "nogizaka46-えんそば_錦1丁目店-"
 name: "えんそば 錦1丁目店"
 genre: "ラーメン"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市中区錦1-16-13 チサンマンション1F"
+price_range: "～￥999"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23041534/"
 lat: 35.1774689

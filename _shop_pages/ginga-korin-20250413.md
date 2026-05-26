@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "KORIN"
-description: "中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。"
+description: "中央区の居酒屋。中丸雄一が2024年4月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。"
 shop_id: "ginga-korin-20250413"
 name: "KORIN"
 genre: "居酒屋"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座６丁目１４−１０03-3546-0111"
+price_range: "￥3,000～￥3,999"
 visited_date: "2024-04-13"
 source_video_title: "銀河チャンネル"
 group: "ginga"

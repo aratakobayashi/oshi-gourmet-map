@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "浅草 いづ美"
-description: "Huluオリジナル番組『松村沙友理ちゃんねる』で紹介されたお店です！"
+description: "台東区のスイーツショップ。松村沙友理が訪れた乃木坂46のロケ地。Huluオリジナル番組『松村沙友理ちゃんねる』で紹介されたお店です！"
 shop_id: "nogizaka46-浅草_いづ美-"
 name: "浅草 いづ美"
 genre: "スイーツ"

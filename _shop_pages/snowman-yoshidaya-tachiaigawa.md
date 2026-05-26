@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "そば会席 立会川 吉田家"
-description: "「阿部亮平の食べたいものを当てろ」で訪れた、落ち着いた佇まいの老舗蕎麦店。"
+description: "品川区の和食店。岩本照・深澤辰哉・佐久間大介らが2023年10月に訪れた。「阿部亮平の食べたいものを当てろ」で訪れた、落ち着いた佇まいの老舗蕎麦店。"
 shop_id: "snowman-yoshidaya-tachiaigawa"
 name: "そば会席 立会川 吉田家"
 genre: "和食"

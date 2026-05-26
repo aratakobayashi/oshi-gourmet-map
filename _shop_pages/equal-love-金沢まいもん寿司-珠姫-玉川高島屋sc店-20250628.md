@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
-description: "=LOVEの大谷映美里が訪れた寿司店。"
+description: "世田谷区の寿司店。大谷映美里が2025年6月に訪れた。=LOVEの大谷映美里が訪れた寿司店。"
 shop_id: "equal_love-金沢まいもん寿司_珠姫_玉川高島屋sc店-20250628"
 name: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
 genre: "寿司"

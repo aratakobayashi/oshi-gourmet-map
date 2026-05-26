@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Rapace"
-description: "Snow Man メンバーがすの日常で訪れたフクロウカフェ。町田にある予約制カフェ。"
+description: "東京都のレストラン。岩本照・ラウール・深澤辰哉らが2025年5月に訪れた。Snow Man メンバーがすの日常で訪れたフクロウカフェ。町田にある予約制カフェ。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "食事"

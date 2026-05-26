@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "伊勢屋食堂"
-description: "淀橋市場の豚バラ生姜焼定食"
+description: "新宿区の和食店。ドラマ「孤独のグルメ Season6 第2話」に登場。"
 shop_id: "kodoku_no_gurume-伊勢屋食堂"
 name: "伊勢屋食堂"
 genre: "和食"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区"
 nearest_station: "大久保駅"
+price_range: "-"
 source_video_title: "孤独のグルメ Season6 第2話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"

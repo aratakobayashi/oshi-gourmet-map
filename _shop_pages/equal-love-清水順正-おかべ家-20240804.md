@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "清水順正 おかべ家"
-description: "=LOVEが訪れた和食店。"
+description: "京都市の和食店。=LOVEが訪れたロケ地。=LOVEが訪れた和食店。"
 shop_id: "equal_love-清水順正_おかべ家-20240804"
 name: "清水順正 おかべ家"
 genre: "和食"

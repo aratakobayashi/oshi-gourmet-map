@@ -1,13 +1,14 @@
 ---
 layout: shop
 title: "三全 仙台エスパル店"
-description: "スイーツ・仙台市宮城県・乃木坂46が訪問"
+description: "仙台市のスイーツショップ。乃木坂46が訪れたロケ地。"
 shop_id: "nogizaka46-c062c929-"
 name: "三全 仙台エスパル店"
 genre: "スイーツ"
 prefecture: "宮城県"
 city: "仙台市"
 address: "宮城県仙台市青葉区中央1-1-1 エスパル仙台店 B1F"
+price_range: "～￥999"
 source_video_title: "菓匠三全"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/miyagi/A0401/A040101/4009659/"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "蘭蝶"
-description: "大森にあるレトロな雰囲気が漂う地元に愛される居酒屋。"
+description: "大田区の居酒屋。ジェシー・京本大我・松村北斗らが2022年12月に訪れた。大森にあるレトロな雰囲気が漂う地元に愛される居酒屋。"
 shop_id: "sixtones-蘭蝶"
 name: "蘭蝶"
 genre: "居酒屋"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "みたけ食堂"
-description: "孤独のグルメ Season10 第24話に登場した飲食店。井之頭五郎が訪問。"
+description: "足立区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
 shop_id: "kodoku_no_gurume-efe4ef60-"
 name: "みたけ食堂"
 genre: "食事"
@@ -9,6 +9,7 @@ prefecture: "東京都"
 city: "足立区"
 address: "東京都足立区"
 nearest_station: "西新井大師西駅"
+price_range: "-"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13081040/"
