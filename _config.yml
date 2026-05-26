@@ -41,6 +41,8 @@ exclude:
   - vendor
   - .git
   - README.md
+  - CLAUDE.md
+  - scripts/
 
 # SNS / メタ情報
 github_username: aratakobayashi
