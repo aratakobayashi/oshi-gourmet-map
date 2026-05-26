@@ -38,7 +38,7 @@ def extract_prefecture_city(address: str) -> tuple:
         prefecture = pref_m.group(1)
         rest = address[len(prefecture):]
         # 市区町村
-        city_m = re.match(r'^(.{2,6}?[市区町村])', rest)
+        city_m = re.match(r'^(.{1,6}?[市区町村])', rest)
         if city_m:
             city = city_m.group(1)
 

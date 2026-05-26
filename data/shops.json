@@ -1825,7 +1825,9 @@
     "affiliate_links": [],
     "source_video_title": "Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?",
     "source_video_url": "https://www.youtube.com/watch?v=7uC8L8n2s9c",
-    "thumbnail_url": "https://img.youtube.com/vi/EWIafNjEYU4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/EWIafNjEYU4/hqdefault.jpg",
+    "seating_note": "4人が座った席は、入口入って右手エリア、入口から2個目のテーブル席（店内真ん中あたり）。 ショート動画に映っていたお席は、入り口から入って右手のソファ席です。",
+    "nearest_station": "東西線「神楽坂」駅(2番出口)　徒歩1分"
   },
   {
     "id": "snowman-onigiri-asakusa-yadoroku",
@@ -1933,7 +1935,8 @@
     "affiliate_links": [],
     "source_video_url": "https://www.youtube.com/watch?v=j_N1y5O3wI0",
     "source_video_title": "Snow Man【パリから来た伝説の男登場】ガレットってこんなに美味いのか✨",
-    "thumbnail_url": "https://img.youtube.com/vi/F_8ppM90cTA/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/F_8ppM90cTA/hqdefault.jpg",
+    "nearest_station": "「表参道駅」 A2出口より徒歩6分"
   },
   {
     "id": "snowman-yoshidaya-tachiaigawa",
@@ -1967,7 +1970,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=S9-X-o7xTyk",
     "source_video_title": "Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ㊗️",
     "seating_note": "SnowManが座った席は、「特別室 松の間」です。",
-    "thumbnail_url": "https://img.youtube.com/vi/RcjctEjNWzE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/RcjctEjNWzE/hqdefault.jpg",
+    "nearest_station": "「立会川駅」より徒歩6分「大井町駅」より徒歩12分"
   },
   {
     "id": "snowman-kitchen-rocco-hachioji",
@@ -2005,7 +2009,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=N6A_5_8fX30",
     "source_video_title": "Snow Man【八王子でジモメシをいただく❗️】新発見!?白ナポリタンって何❓",
     "thumbnail_url": "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016",
+    "nearest_station": "「八王子駅」より徒歩7分"
   },
   {
     "id": "snowman-abura-gakkai-waseda",
@@ -2049,7 +2054,8 @@
       "粉チーズ"
     ],
     "seating_note": "2階の座敷席。無限ライスとお水が置いてあるカウンターのすぐそばのテーブルに着席。券売機で先に注文するシステム。昼時は学生・近隣客で混雑するため時間帯をずらすのがおすすめ。",
-    "thumbnail_url": "https://img.youtube.com/vi/owkOeu-efg4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/owkOeu-efg4/hqdefault.jpg",
+    "nearest_station": "「早稲田駅」より徒歩1分"
   },
   {
     "id": "snowman-napure-minamiaoyama",
@@ -2088,7 +2094,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=BVjwdZw66Ms",
     "seating_note": "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。",
     "thumbnail_url": "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016",
+    "nearest_station": "「表参道駅」（B1出口）より徒歩1分"
   },
   {
     "id": "snowman-sarashina-horii-motoazabu",
@@ -2122,7 +2129,8 @@
     "source_video_title": "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる",
     "source_video_url": "https://www.youtube.com/watch?v=Ax1f_OVispA",
     "seating_note": "小上がりのお席に座っていました。 富士山の絵が目印です。",
-    "thumbnail_url": "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg",
+    "nearest_station": "「六本木駅」（3番出口）より徒歩10分「麻布十番駅」（4番出口）より徒歩7分"
   },
   {
     "id": "snowman-wagaya-shokudo-kasai",
@@ -2156,7 +2164,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=vV0iY7rR6-s",
     "source_video_title": "Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう 笑笑",
     "seating_note": "4人が座ったのは、入口から左手のテーブル席ゾーンの中、真ん中の島になっているテーブル席だと思います。 ↓こちらのGoogleマップのお写真の真ん中テーブル席 座り順：右奥が深澤さん・その左隣が岩本さん・右手前がラウールさん・その左隣が目黒さん",
-    "thumbnail_url": "https://img.youtube.com/vi/qSQOsjs5ve8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/qSQOsjs5ve8/hqdefault.jpg",
+    "nearest_station": "「葛西駅」より徒歩7分"
   },
   {
     "id": "snowman-yakuzenya-ebisu",
@@ -2195,7 +2204,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=GpPJOgdEbhE",
     "seating_note": "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪",
     "thumbnail_url": "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016",
+    "nearest_station": "「恵比寿駅」より徒歩2分"
   },
   {
     "id": "snowman-ginza-sushi-banya-kai",
@@ -2227,7 +2237,8 @@
     "affiliate_links": [],
     "source_video_title": "Snow Man【ザギンでシースー】北海道直前のご褒美タイム",
     "source_video_url": "https://www.youtube.com/watch?v=5TbjbC6I9vY",
-    "thumbnail_url": "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg",
+    "nearest_station": "「銀座1丁目駅」より徒歩1分「有楽町駅」より徒歩3分"
   },
   {
     "id": "snowman-futago-roppongi",
@@ -2276,7 +2287,8 @@
       "俺じなるヨーグルト"
     ],
     "thumbnail_url": "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016",
+    "nearest_station": "「六本木駅」より徒歩3分"
   },
   {
     "id": "snowman-ore-no-kappo-ebisu",
@@ -2315,7 +2327,9 @@
     "source_video_title": "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？",
     "source_video_url": "https://www.youtube.com/watch?v=ueYUZJghOzw",
     "thumbnail_url": "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016",
+    "seating_note": "SnowManが座っていた席は、カウンターのお席でした。 炉端焼きを調理している様子が目の前で楽しめるお席です。 カウンター以外にもテーブル席があります。席数は全部で42席あります。",
+    "nearest_station": "「恵比寿駅」より徒歩2分"
   },
   {
     "id": "snowman-teikoku-shokudo-nishiazabu",
@@ -2353,7 +2367,8 @@
     "source_video_title": "Snow Man【フレンチを食べよう！】メンバーの食べる顔を見るのが幸せ！",
     "source_video_url": "https://www.youtube.com/watch?v=8j6glqZxVzU",
     "thumbnail_url": "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016",
+    "nearest_station": "千代田線「乃木坂駅」より徒歩9分日比谷線「六本木駅」より徒歩13分"
   },
   {
     "id": "snowman-setouchi-bar-collabo",
@@ -2392,7 +2407,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=FmN8C7LhXvY",
     "source_video_title": "Snow Man【バルでランチ】ただただ幸せにご飯食べてます🍕",
     "thumbnail_url": "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016",
+    "seating_note": "4人が座ったのは、ソファのお席だと思われます。",
+    "nearest_station": "三軒茶屋駅から徒歩6分"
   },
   {
     "id": "snowman-kitchen-nanagoku-waseda",
@@ -2457,7 +2474,8 @@
     "affiliate_links": [],
     "source_video_title": "Snow Man【ミシュランの名店】極上の焼き鳥をいただこう",
     "source_video_url": "https://www.youtube.com/watch?v=SoZCXSgz8wo",
-    "thumbnail_url": "https://img.youtube.com/vi/SoZCXSgz8wo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/SoZCXSgz8wo/hqdefault.jpg",
+    "nearest_station": "「阿佐ヶ谷駅」より徒歩2分"
   },
   {
     "id": "snowman-ekawatei-koganei",
@@ -2897,7 +2915,8 @@
     "source_video_url": "https://www.youtube.com/watch?v=0hX0X9uW-98",
     "source_video_title": "Snow Man【ガストでお腹いっぱいになろう！】６周年の記念日はドリンクバーで乾杯！",
     "seating_note": "SnowManメンバーがガスト六本木店で座った席は、53番のテーブル席です。 壁沿いのソファがある広いお席でしたね。",
-    "thumbnail_url": "https://img.youtube.com/vi/SVXHY5KpPuA/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/SVXHY5KpPuA/hqdefault.jpg",
+    "nearest_station": "「六本木駅」より徒歩3分"
   },
   {
     "id": "snowman-kokonotsu-kitasenju",
@@ -2929,7 +2948,8 @@
     "affiliate_links": [],
     "source_video_url": "https://www.youtube.com/watch?v=Y-P2-nK7_Xo",
     "source_video_title": "Snow Man【人生最高のレバニラに出会った!?】向井康二は人生初納豆に苦",
-    "thumbnail_url": "https://img.youtube.com/vi/8ZQTzKfmMrM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8ZQTzKfmMrM/hqdefault.jpg",
+    "nearest_station": "「北千住駅」より徒歩7分"
   },
   {
     "id": "snowman-kitchen-peanuts-arakawa",
@@ -2991,7 +3011,8 @@
     "source_video_title": "Snow Man【釣り部結成記念食事会】鰻を食べよう",
     "source_video_url": "https://www.youtube.com/watch?v=oEsMgH5QhFQ",
     "seating_note": "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。",
-    "thumbnail_url": "https://img.youtube.com/vi/oEsMgH5QhFQ/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/oEsMgH5QhFQ/hqdefault.jpg",
+    "nearest_station": "「前沢十字路」バス停下車徒歩3分"
   },
   {
     "id": "snowman-de-salita-akasaka",
@@ -3034,7 +3055,8 @@
     "source_video_title": "Snow Man「宮舘の食べたいものを当てろ！」イタリアン編",
     "source_video_url": "https://www.youtube.com/watch?v=8XWlH5jIAsU",
     "thumbnail_url": "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016",
+    "nearest_station": "東京メトロ銀座線赤坂見附駅徒歩1分"
   },
   {
     "id": "snowman-haneda-ichiba-ginza",
@@ -3924,7 +3946,7 @@
     "address": "東京都港区赤坂4-8-20",
     "lat": 35.6703,
     "lng": 139.737,
-    "youtube_id": "",
+    "youtube_id": "-jyOpZIJcn8",
     "members": [
       "北村匠海",
       "二宮和也",
@@ -3935,14 +3957,16 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2024-12-18",
     "description": "よにのちゃんねる#380登場。北村匠海ゲスト回。",
     "tags": [
       "カフェ",
       "赤坂",
       "ドトール"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日",
+    "source_video_url": "https://www.youtube.com/watch?v=-jyOpZIJcn8"
   },
   {
     "id": "yonino-chuka-juhachiban-kanda",
@@ -4018,7 +4042,7 @@
     "address": "東京都品川区小山3丁目（武蔵小山）",
     "lat": 35.631,
     "lng": 139.7149,
-    "youtube_id": "",
+    "youtube_id": "rdf_IJ0K9AU",
     "members": [
       "二宮和也",
       "山田涼介"
@@ -4027,14 +4051,16 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2023-09-03",
     "description": "よにのちゃんねる#268登場。武蔵小山の蕎麦居酒屋。",
     "tags": [
       "そば",
       "居酒屋",
       "武蔵小山"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#268【朝食シリーズ!!】静かに朝を迎える事が出来た日",
+    "source_video_url": "https://www.youtube.com/watch?v=rdf_IJ0K9AU"
   },
   {
     "id": "yonino-ito-shokudo-ikebukuro",
@@ -4216,7 +4242,7 @@
     "address": "東京都世田谷区三軒茶屋",
     "lat": 35.6446,
     "lng": 139.6693,
-    "youtube_id": "",
+    "youtube_id": "wyEDShKJ3ig",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -4226,14 +4252,16 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2022-06-12",
     "description": "よにのちゃんねる#135登場。三軒茶屋のおひつごはん定食店。",
     "tags": [
       "定食",
       "おひつ",
       "三軒茶屋"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#135【新シリーズ】折角だから朝飯だけ食べてみた",
+    "source_video_url": "https://www.youtube.com/watch?v=wyEDShKJ3ig"
   },
   {
     "id": "yonino-maruyama-coffee-karuizawa",
@@ -4303,7 +4331,7 @@
     "address": "神奈川県横浜市金沢区鳥浜町1-1",
     "lat": 35.3733,
     "lng": 139.6403,
-    "youtube_id": "",
+    "youtube_id": "U_byUL7d-eY",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -4313,14 +4341,16 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2024-05-15",
     "description": "よにのちゃんねる#326/#328登場。横浜南部市場内の飲食専門店街。",
     "tags": [
       "市場",
       "横浜",
       "海鮮"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#326【案件!?】奢り確変に入った日",
+    "source_video_url": "https://www.youtube.com/watch?v=U_byUL7d-eY"
   },
   {
     "id": "yonino-starbucks-roppongi-7",
@@ -4331,7 +4361,7 @@
     "address": "東京都港区六本木7-8-6",
     "lat": 35.6621,
     "lng": 139.7304,
-    "youtube_id": "",
+    "youtube_id": "alXopgGyIsc",
     "members": [
       "二宮和也",
       "山田涼介",
@@ -4341,14 +4371,16 @@
       "yonino"
     ],
     "group": "yonino",
-    "visited_date": "",
+    "visited_date": "2024-09-29",
     "description": "よにのちゃんねる#357登場。六本木のスターバックス。",
     "tags": [
       "カフェ",
       "六本木",
       "スターバックス"
     ],
-    "affiliate_links": []
+    "affiliate_links": [],
+    "source_video_title": "#357【ドライブ!!】山田一少年ではなく山田涼介だった日",
+    "source_video_url": "https://www.youtube.com/watch?v=alXopgGyIsc"
   },
   {
     "id": "equallove_001",
@@ -4658,7 +4690,8 @@
     "tags": [],
     "affiliate_links": [],
     "seating_note": "店内入って左手のテーブル席に座りました。 手前壁寄りが向井さん、通路寄りが渡辺さん、奥壁寄りがラウールさん、通路寄りが阿部さんという席順でした。",
-    "thumbnail_url": "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg",
+    "nearest_station": "「大久保駅」より徒歩7分"
   },
   {
     "id": "sixtones-yykafeidian喜園咖啡店",
@@ -6271,7 +6304,7 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "nearest_station": "",
+    "nearest_station": "「東銀座駅」より徒歩7分「築地駅」「新富町駅」より徒歩2分",
     "description": "Snow Manの渡辺翔太くんと来た、高級かき氷店です。",
     "tags": [],
     "affiliate_links": [
@@ -6286,7 +6319,8 @@
     ],
     "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8A%80%E5%BA%A7%E9%A2%A8%E9%A6%99",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004421357/?vos=nhppalsa000016",
-    "thumbnail_url": "https://img.youtube.com/vi/xbEXP_yd8l0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/xbEXP_yd8l0/hqdefault.jpg",
+    "seating_note": "ここからは、亀梨和也さんと渡辺翔太さんがかき氷屋さんで食べたメニューや座った席をまとめます。"
   },
   {
     "id": "kamenashi-盛楼閣-20250719",
@@ -7101,7 +7135,7 @@
       "snowman"
     ],
     "group": "snowman",
-    "nearest_station": "",
+    "nearest_station": "JR「飯田橋駅」西口より徒歩3分地下鉄「飯田橋駅」B3番出口より徒歩1分地下鉄東西線「神楽坂駅」より徒歩7分都営大江戸線「牛込神楽坂駅」より徒歩5分",
     "description": "すの日常（Snow Man）「しゃぶしゃぶを食べよう！」に登場した焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13052248/",
@@ -7136,7 +7170,7 @@
       "snowman"
     ],
     "group": "snowman",
-    "nearest_station": "",
+    "nearest_station": "地下鉄銀座線「浅草駅」4番出口より徒歩3分地下鉄浅草線「浅草駅」A3出口より徒歩１分",
     "description": "すの日常（Snow Man）「むぎとろを食べたい！」に登場した居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003680/",
@@ -7173,7 +7207,7 @@
       "snowman"
     ],
     "group": "snowman",
-    "nearest_station": "",
+    "nearest_station": "「中目黒駅」より徒歩４分",
     "description": "すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13221213/",
@@ -7184,7 +7218,8 @@
         "url": "https://tabelog.com/tokyo/A1317/A131701/13221213/"
       }
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/q9xC9ARZrR4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/q9xC9ARZrR4/hqdefault.jpg",
+    "seating_note": "店内入り口から向かって右手最奥のテーブル席だと思われます。飾ってあるアートが目印ですね。 座席は、店の入り口から見て右奥阿部さん・左奥宮舘さん・右手前渡辺さん・左手前深澤さんです。 お席の指定はできないそうです"
   },
   {
     "id": "snowman-おにぎり_浅草_宿六-20240918",
@@ -7237,7 +7272,7 @@
       "snowman"
     ],
     "group": "snowman",
-    "nearest_station": "",
+    "nearest_station": "「早稲田駅」より徒歩5分",
     "description": "すの日常（Snow Man）「俺たちが大学生だったら…」に登場した飲食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130504/13279399/",
@@ -7248,7 +7283,8 @@
         "url": "https://tabelog.com/tokyo/A1305/A130504/13279399/"
       }
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg",
+    "seating_note": "4人が座ったのは、真ん中のテーブル席だと思われます。"
   },
   {
     "id": "snowman-ケーキファクトリーホイップ-20181017",
@@ -7267,7 +7303,7 @@
       "snowman"
     ],
     "group": "snowman",
-    "nearest_station": "",
+    "nearest_station": "「稲城駅」より徒歩8分",
     "description": "すの日常（Snow Man）「メンバーの心」に登場したスイーツ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1327/A132703/13019167/",
@@ -8124,12 +8160,12 @@
     "nearest_station": "",
     "description": "こちらはラーメンWalkerTV2で佐々木琴子さんが訪れたお店です！",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%AD%E8%8F%AF%E8%95%8E%E9%BA%A6%20%E3%81%AB%E3%81%97%E4%B9%83",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131004/13218311/",
     "hotpepper_url": "",
     "affiliate_links": [
       {
         "label": "食べログで見る",
-        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%AD%E8%8F%AF%E8%95%8E%E9%BA%A6%20%E3%81%AB%E3%81%97%E4%B9%83"
+        "url": "https://tabelog.com/tokyo/A1310/A131004/13218311/"
       }
     ]
   },
@@ -8587,12 +8623,12 @@
     "nearest_station": "",
     "description": "乃木坂ファンの方には言わずと知れたお蕎麦屋さんですね！",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%88%E3%82%93%E3%81%9D%E3%81%B0%20%E9%8C%A61%E4%B8%81%E7%9B%AE%E5%BA%97",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230102/23041534/",
     "hotpepper_url": "",
     "affiliate_links": [
       {
         "label": "食べログで見る",
-        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%88%E3%82%93%E3%81%9D%E3%81%B0%20%E9%8C%A61%E4%B8%81%E7%9B%AE%E5%BA%97"
+        "url": "https://tabelog.com/aichi/A2301/A230102/23041534/"
       }
     ]
   },
@@ -8671,9 +8707,9 @@
     "address": "東京都新宿区百人町２丁目２−９",
     "lat": 35.703008,
     "lng": 139.6992999,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-07-09",
+    "youtube_id": "RGbsQewaz4c",
+    "source_video_title": "【中丸のグルメ】新大久保に乗り込んで、話題になってそうなスイーツを探してみた",
+    "visited_date": "2024-07-09",
     "members": [
       "中丸雄一"
     ],
@@ -8695,7 +8731,8 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ001000512/course/?vos=nhppvccp99002"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=RGbsQewaz4c"
   },
   {
     "id": "ginga-スタジオカフェ_maru-20250709",
@@ -8706,9 +8743,9 @@
     "address": "東京都新宿区百人町２丁目２−７ソウルタウン3階",
     "lat": 35.703008,
     "lng": 139.6992999,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-07-09",
+    "youtube_id": "RGbsQewaz4c",
+    "source_video_title": "【中丸のグルメ】新大久保に乗り込んで、話題になってそうなスイーツを探してみた",
+    "visited_date": "2024-07-09",
     "members": [
       "中丸雄一"
     ],
@@ -8726,7 +8763,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1304/A130404/13263955/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=RGbsQewaz4c"
   },
   {
     "id": "ginga-豊洲_千客万来-20250627",
@@ -8737,9 +8775,9 @@
     "address": "東京都江東区豊洲６丁目５−１03-3533-1515",
     "lat": 35.646684,
     "lng": 139.786093,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-06-27",
+    "youtube_id": "TNKBGNdwqKw",
+    "source_video_title": "【中丸のグルメ】東京の噂のスポット「千客万来」に行って、裏技的なことを関係者から聞いちゃった",
+    "visited_date": "2024-06-27",
     "members": [
       "中丸雄一"
     ],
@@ -8757,7 +8795,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/P097156/premiseLst/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=TNKBGNdwqKw"
   },
   {
     "id": "ginga-和食いぶり別邸_新橋店-20250615",
@@ -8768,9 +8807,9 @@
     "address": "東京都港区新橋３丁目１６−２太洋ビルディング 2F・3F",
     "lat": 35.6655555,
     "lng": 139.7563666,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-06-15",
+    "youtube_id": "5jBPMpJLR60",
+    "source_video_title": "HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった",
+    "visited_date": "2024-06-15",
     "members": [
       "中丸雄一"
     ],
@@ -8792,7 +8831,8 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ003498443/?vos=nhppvccp99002"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=5jBPMpJLR60"
   },
   {
     "id": "ginga-和懐_おお田-20250507",
@@ -8803,9 +8843,9 @@
     "address": "鹿児島県枕崎市西本町５９−５９0993-78-4345",
     "lat": 31.2702745,
     "lng": 130.2971749,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-05-07",
+    "youtube_id": "1yd3WNzgodI",
+    "source_video_title": "【中丸のグルメ】鹿児島と言ったら、これっきゃない。",
+    "visited_date": "2024-05-07",
     "members": [
       "中丸雄一"
     ],
@@ -8827,7 +8867,8 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ001142494/?vos=nhppvccp99002"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=1yd3WNzgodI"
   },
   {
     "id": "ginga-korin-20250413",
@@ -8840,7 +8881,7 @@
     "lng": 139.764429,
     "youtube_id": "",
     "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-04-13",
+    "visited_date": "2024-04-13",
     "members": [
       "中丸雄一"
     ],
@@ -8875,7 +8916,7 @@
     "lng": 139.6970053,
     "youtube_id": "",
     "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-03-30",
+    "visited_date": "2024-03-30",
     "members": [
       "中丸雄一"
     ],
@@ -8908,9 +8949,9 @@
     "address": "東京都港区新橋１丁目１５−５ペルサ 115 6F",
     "lat": 35.6680092,
     "lng": 139.7584668,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-03-27",
+    "youtube_id": "p-HDS9qN1tc",
+    "source_video_title": "中丸雄一【猪狩蒼弥とメシ】溜めに溜めた新年に撮った動画です。",
+    "visited_date": "2024-03-27",
     "members": [
       "中丸雄一"
     ],
@@ -8928,7 +8969,8 @@
         "label": "食べログで見る",
         "url": "https://tabelog.com/tokyo/A1301/A130103/13197226/"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=p-HDS9qN1tc"
   },
   {
     "id": "ginga-活魚料理_小安丸-20250312",
@@ -8939,9 +8981,9 @@
     "address": "長崎県西海市西海町太田和郷3852-120959-32-9500",
     "lat": 33.0430473,
     "lng": 129.6716752,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-03-12",
+    "youtube_id": "ASHXCtJu93Y",
+    "source_video_title": "【中丸のグルメ】衝撃、長崎でクジラのアレを食べる。",
+    "visited_date": "2024-03-12",
     "members": [
       "中丸雄一"
     ],
@@ -8963,7 +9005,8 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ000577523/?vos=nhppvccp99002"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=ASHXCtJu93Y"
   },
   {
     "id": "ginga-gold_rushゴールドラッシュ-20250217",
@@ -8976,7 +9019,7 @@
     "lng": 139.7043747,
     "youtube_id": "",
     "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-02-17",
+    "visited_date": "2024-02-17",
     "members": [
       "中丸雄一"
     ],
@@ -9009,9 +9052,9 @@
     "address": "高知県高知市廿代町４−６088-825-1136",
     "lat": 33.5633219,
     "lng": 133.5400394,
-    "youtube_id": "",
-    "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-02-13",
+    "youtube_id": "A_L2aTTrOg4",
+    "source_video_title": "【中丸のグルメ】高知といえば...カツオ！",
+    "visited_date": "2024-02-13",
     "members": [
       "中丸雄一"
     ],
@@ -9033,7 +9076,8 @@
         "label": "ホットペッパーで予約",
         "url": "https://www.hotpepper.jp/strJ001119658/?vos=nhppvccp99002"
       }
-    ]
+    ],
+    "source_video_url": "https://www.youtube.com/watch?v=A_L2aTTrOg4"
   },
   {
     "id": "ginga-ファムファム-20250203",
@@ -9046,7 +9090,7 @@
     "lng": 139.7046751,
     "youtube_id": "",
     "source_video_title": "銀河チャンネル",
-    "visited_date": "2025-02-03",
+    "visited_date": "2024-02-03",
     "members": [
       "中丸雄一"
     ],
@@ -14507,7 +14551,8 @@
         "url": "https://tabelog.com/tokyo/A1316/A131601/13233871/"
       }
     ],
-    "thumbnail_url": "https://img.youtube.com/vi/Qh0RSkK-s4E/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Qh0RSkK-s4E/hqdefault.jpg",
+    "seating_note": "SnowManがいたお部屋は「2F living」だと思われます。 お席の指定はできないそうです"
   },
   {
     "id": "snowman-isomaru-jiyugaoka",
@@ -22366,7 +22411,8 @@
     "thumbnail_url": "https://img.youtube.com/vi/99-SIhGTrYg/hqdefault.jpg",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "seating_note": "SnowManが座った席は、テラス席です。 ＼画像の奥側あたり／ お席のリクエストはできるようですが、要望に添えない場合もあるとのこと"
   },
   {
     "id": "snowman-64-20250421",
@@ -22485,7 +22531,8 @@
     "thumbnail_url": "https://img.youtube.com/vi/B1SvucKptGI/hqdefault.jpg",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "seating_note": "「八坂本店（西邸）」のカウンター席でSnowManは食事を楽しみました。 座り順はキッチン側から見て左手から阿部→向井→深澤→岩本→渡辺→佐久間→宮舘→目黒の順です。"
   },
   {
     "id": "kodoku_no_gurume-e63b9158-",
@@ -22585,7 +22632,7 @@
     ],
     "ordered_items": [],
     "seating_note": "",
-    "description": "",
+    "description": "Snow Man メンバーがすの日常で訪れた古着屋。「あいことば」MV撮影場所としても知られる目白のショップ。",
     "tags": [],
     "affiliate_links": [],
     "lat": 35.7284313,
@@ -22620,7 +22667,7 @@
     ],
     "ordered_items": [],
     "seating_note": "",
-    "description": "",
+    "description": "Snow Man メンバーがすの日常で訪れたフクロウカフェ。町田にある予約制カフェ。",
     "tags": [],
     "affiliate_links": [],
     "lat": 35.5390964,
@@ -22655,7 +22702,7 @@
     ],
     "ordered_items": [],
     "seating_note": "",
-    "description": "",
+    "description": "Snow Man メンバーがすの日常で訪れた海釣り・食事処。東京湾で釣りを楽しんだ後に料理できるスポット。",
     "tags": [],
     "affiliate_links": [],
     "lat": 35.6680295,
@@ -22690,7 +22737,7 @@
     ],
     "ordered_items": [],
     "seating_note": "",
-    "description": "",
+    "description": "Snow Man メンバーがすの日常で訪れたクレーンゲームスポット。埼玉県八潮市の大型UFOキャッチャー施設内に食事処あり。",
     "tags": [],
     "affiliate_links": [],
     "lat": 35.820584,
@@ -22725,7 +22772,7 @@
     ],
     "ordered_items": [],
     "seating_note": "",
-    "description": "",
+    "description": "Snow Man メンバーがすの日常で訪れた温泉旅館。神奈川県厚木市の七沢温泉郷にある旅館で日帰り入浴も可能。",
     "tags": [],
     "affiliate_links": [],
     "lat": 35.4510933,
@@ -22753,7 +22800,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "",
+    "description": "Hey! Say! JUMP（いただきハイジャンプ）が訪れた渋谷の飲食店。",
     "nearest_station": "",
     "price_range": "",
     "tabelog_url": "",
@@ -22787,7 +22834,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "",
+    "description": "Hey! Say! JUMP（いただきハイジャンプ）が訪れたテイクアウト専門店。",
     "nearest_station": "",
     "price_range": "",
     "tabelog_url": "",
@@ -23753,6 +23800,1960 @@
     "group": "shiori",
     "nearest_station": "",
     "description": "【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！ で訪れた飲食店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-welovedonut-20260513",
+    "name": "WeLoveDonut 神楽坂店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂５丁目１−２神楽坂TNヒルズ 1F",
+    "lat": 35.7049,
+    "lng": 139.7353,
+    "youtube_id": "p4gDz-rva-8",
+    "source_video_title": "【すのちゅーぶ】ドライブ中のドーナツはWeLoveDonut 神楽坂店｜食べたメニューも調査！",
+    "visited_date": "2026-05-13",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「牛込神楽坂駅」より徒歩3分",
+    "description": "Snow Man メンバーが訪れた飲食店。【すのちゅーぶ】ドライブ中のドーナツはWeLoveDonut 神楽坂店｜食べたメニューも調査！ に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-c213ff6f-20260331",
+    "name": "川京",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "鴨川市",
+    "address": "千葉県鴨川市横渚1117",
+    "lat": 35.1359787,
+    "lng": 140.0721374,
+    "youtube_id": "ikroPOOFRA4",
+    "source_video_title": "【せっかくグルメ】目黒蓮が千葉県鴨川市で訪れたロケ地まとめ｜SnowMan聖地巡礼",
+    "visited_date": "2026-03-31",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「安房鴨川駅」より徒歩3分",
+    "description": "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】目黒蓮が千葉県鴨川市で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-ce2afa7e-20260331",
+    "name": "味芳",
+    "genre": "食事",
+    "prefecture": "愛媛県",
+    "city": "伊予市",
+    "address": "愛媛県伊予市市場132-3",
+    "lat": 33.7579,
+    "lng": 132.7039,
+    "youtube_id": "ih8tKyF5YBs",
+    "source_video_title": "【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼",
+    "visited_date": "2026-03-31",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "JR予讃線「伊予市駅」より徒歩15分伊予鉄道郡中線「郡中港駅」より徒歩15分",
+    "description": "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-2b4ef35a-20260129",
+    "name": "歩味",
+    "genre": "ラーメン",
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "address": "鳥取県米子市夜見町1933-6",
+    "lat": 35.4985553,
+    "lng": 133.2428331,
+    "youtube_id": "gFkiCjZX4f8",
+    "source_video_title": "【せっかくグルメ】深澤辰哉・ラウールが米子で訪れたロケ地まとめ｜SnowMan聖地巡礼",
+    "visited_date": "2026-01-29",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「河崎口駅」より徒歩11分",
+    "description": "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】深澤辰哉・ラウールが米子で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-f3cfa938-20260129",
+    "name": "味処あらし",
+    "genre": "食事",
+    "prefecture": "徳島県",
+    "city": "鳴門市",
+    "address": "徳島県鳴門市撫養町大桑島字北ノ浜51-1",
+    "lat": 34.1874529,
+    "lng": 134.6080649,
+    "youtube_id": "yLGtdFm5xGI",
+    "source_video_title": "【せっかくグルメ】目黒蓮が徳島・鳴門で訪れたロケ地まとめ｜SnowMan聖地巡礼",
+    "visited_date": "2026-01-29",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "JR「鳴門駅」より徒歩20分またはタクシー5分",
+    "description": "Snow Man メンバーが訪れた飲食店。【せっかくグルメ】目黒蓮が徳島・鳴門で訪れたロケ地まとめ｜SnowMan聖地巡礼 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-e4da675e-20251011",
+    "name": "フェイクマミー",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋1-6-1ホテルメトロポリタン池袋25階",
+    "lat": 35.7353,
+    "lng": 139.7129,
+    "youtube_id": "_dFWD5XN6sA",
+    "source_video_title": "【フェイクマミー】SnowMan向井康二出演ロケ地まとめ",
+    "visited_date": "2025-10-11",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「池袋駅」西口より徒歩3分",
+    "description": "Snow Man メンバーが訪れた飲食店。【フェイクマミー】SnowMan向井康二出演ロケ地まとめ に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-d1966575-20251119",
+    "name": "カフェ 武甲庵",
+    "genre": "カフェ",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市熊木町3-12",
+    "lat": 35.9911271,
+    "lng": 139.088232,
+    "youtube_id": "aWgNt0-1LCk",
+    "source_video_title": "西武鉄道特急ラビューでSnowMan岩本照が秩父旅へ！聖地巡礼用にロケ地調査",
+    "visited_date": "2025-11-19",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「御花畑駅」より徒歩3分「西武秩父駅」より徒歩7分",
+    "description": "Snow Man メンバーが訪れた飲食店。西武鉄道特急ラビューでSnowMan岩本照が秩父旅へ！聖地巡礼用にロケ地調査 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-jelly_jelly_cafe-20250320",
+    "name": "JELLY JELLY CAFE 渋谷本店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町10-2 新東京ビル202",
+    "lat": 35.6691,
+    "lng": 139.689,
+    "youtube_id": "siVHcoKNfY4",
+    "source_video_title": "【すのちゅーぶ】渋谷ボードゲームカフェ「JELLY JELLY CAFE」SnowManロケ地",
+    "visited_date": "2025-03-20",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「渋谷駅」より徒歩7分",
+    "description": "Snow Man メンバーが訪れた飲食店。【すのちゅーぶ】渋谷ボードゲームカフェ「JELLY JELLY CAFE」SnowManロケ地 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "snowman-d82827ef-20250213",
+    "name": "横浜大飯店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区山下町１５４",
+    "lat": 35.4436,
+    "lng": 139.6474,
+    "youtube_id": "4FAQu3t8Bh8",
+    "source_video_title": "【ウワサのお客さま】SnowMan渡辺翔太と宮舘涼太が中華街「横浜大飯店」で食べたメニューは？ゆり組大食い企画",
+    "visited_date": "2025-02-13",
+    "members": [
+      "岩本照",
+      "ラウール",
+      "深澤辰哉",
+      "宮舘涼太",
+      "阿部亮平",
+      "渡辺翔太",
+      "向井康二",
+      "目黒蓮",
+      "佐久間大介"
+    ],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "nearest_station": "「石川町駅」（中華街出口）より徒歩6分「元町・中華街駅」（2番出口）より徒歩10分",
+    "description": "Snow Man メンバーが訪れた飲食店。【ウワサのお客さま】SnowMan渡辺翔太と宮舘涼太が中華街「横浜大飯店」で食べたメニューは？ゆり組大食い企画 に登場。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-f23c267b-",
+    "name": "ダウンステアーズコーヒー",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木7-3-10",
+    "lat": 35.665995737908126,
+    "lng": 139.7281300830956,
+    "youtube_id": "",
+    "source_video_title": "乃木坂【乃木坂の詩・ハルジオンが咲く頃・じゃあね】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13129689/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13129689/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-13a2278b-",
+    "name": "かめや 新宿店",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿1-2-10",
+    "lat": 35.69311903868714,
+    "lng": 139.69946513455145,
+    "youtube_id": "",
+    "source_video_title": "思い出横丁【夏のfree&easy】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13006720/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13006720/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-74933442-",
+    "name": "渋谷西村 道玄坂フルーツ店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町22-2 1F",
+    "lat": 35.65975196939991,
+    "lng": 139.69986844405145,
+    "youtube_id": "",
+    "source_video_title": "渋谷【渋谷ブルース】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13168915/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13168915/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-shibuya_tsutaya-",
+    "name": "スターバックス・コーヒー SHIBUYA TSUTAYA店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町21-6 QFRONT 1F2F",
+    "lat": 35.65989550161139,
+    "lng": 139.70031272399558,
+    "youtube_id": "",
+    "source_video_title": "センター街【革命の馬】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13034125/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13034125/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-e767374d-",
+    "name": "アメージングコーヒー 渋谷パルコ店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町15-1 渋谷パルコ 3F",
+    "lat": 35.66211551792716,
+    "lng": 139.6989382914873,
+    "youtube_id": "",
+    "source_video_title": "渋谷パルコ【偶然を言い訳にして・僕は僕を好きになる】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13241216/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13241216/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-9c79a146-",
+    "name": "白水堂 思案橋本店",
+    "genre": "スイーツ",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "address": "長崎県長崎市油屋町1-3",
+    "lat": 32.74303651890887,
+    "lng": 129.88041117442575,
+    "youtube_id": "",
+    "source_video_title": "長崎【水玉模様】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/nagasaki/A4201/A420101/42000221/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/nagasaki/A4201/A420101/42000221/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-flamingo-",
+    "name": "FLAMINGO",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町10-2 渋谷宇田川町テナント 1F",
+    "lat": 35.66271458550734,
+    "lng": 139.6969339859181,
+    "youtube_id": "",
+    "source_video_title": "フラミンゴ【ロマンスのスタート・逃げ水】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13163978/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13163978/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-a3436983-",
+    "name": "こんにゃく関所",
+    "genre": "食事",
+    "prefecture": "茨城県",
+    "city": "久慈郡大子町",
+    "address": "茨城県久慈郡大子町袋田2247-5",
+    "lat": 36.74717004992122,
+    "lng": 140.38473360059075,
+    "youtube_id": "",
+    "source_video_title": "茨城県大子町【ガールズルール・太陽ノック・４番目の光】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/ibaraki/A0805/A080503/8001154/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ibaraki/A0805/A080503/8001154/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-28d50565-",
+    "name": "永福町 大勝軒",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区和泉3-5-3",
+    "lat": 35.676242188680206,
+    "lng": 139.64401576441983,
+    "youtube_id": "",
+    "source_video_title": "永福町大勝軒【立ち直り中】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131805/13011769/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131805/13011769/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-4eba1f02-",
+    "name": "自由学園明日館",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋2-31-3",
+    "lat": 35.72668717866831,
+    "lng": 139.70724945488504,
+    "youtube_id": "",
+    "source_video_title": "自由学園明日館【おいでシャンプー】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13061399/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130501/13061399/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-96c288df-",
+    "name": "いなろ食堂",
+    "genre": "カフェ",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町122-17",
+    "lat": 35.08234404880699,
+    "lng": 138.85769694897212,
+    "youtube_id": "",
+    "source_video_title": "沼津【大人への近道】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220501/22015982/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2205/A220501/22015982/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-f36ca7b7-",
+    "name": "和風カレー さや",
+    "genre": "ラーメン",
+    "prefecture": "山梨県",
+    "city": "都留市",
+    "address": "山梨県都留市中央2-4-3",
+    "lat": 35.55518178150992,
+    "lng": 138.90973709132302,
+    "youtube_id": "",
+    "source_video_title": "谷村町駅【今、話したい誰かがいる】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/yamanashi/A1905/A190501/19002504/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/yamanashi/A1905/A190501/19002504/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-76d7ba94-",
+    "name": "デモデダイナー 福生店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "address": "東京都福生市熊川1121",
+    "lat": 35.73096122854926,
+    "lng": 139.34197533518426,
+    "youtube_id": "",
+    "source_video_title": "デモデダイナー 福生店【バレッタ】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1330/A133001/13010205/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1330/A133001/13010205/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-d94583ff-",
+    "name": "みさきまぐろ倶楽部",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "三浦市",
+    "address": "神奈川県三浦市三崎5-3-1 うらりマルシェ さかな館 1F",
+    "lat": 35.14094633820602,
+    "lng": 139.61643797787042,
+    "youtube_id": "",
+    "source_video_title": "神奈川県三浦市三崎【シャキイズム・無口なライオン・あの教室】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140603/14023236/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1406/A140603/14023236/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-241b6933-",
+    "name": "竹やぶ",
+    "genre": "ラーメン",
+    "prefecture": "茨城県",
+    "city": "鹿嶋市",
+    "address": "茨城県鹿嶋市宮中2-1-28",
+    "lat": 35.96685503800286,
+    "lng": 140.62561448550545,
+    "youtube_id": "",
+    "source_video_title": "茨城県鹿嶋市周辺【涙がまだ悲しみだった頃】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/ibaraki/A0804/A080401/8004283/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ibaraki/A0804/A080401/8004283/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-ccecce7f-",
+    "name": "数寄屋橋茶房",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座5-2-1 東急プラザ銀座 6F",
+    "lat": 35.67247830472346,
+    "lng": 139.7629108347859,
+    "youtube_id": "",
+    "source_video_title": "東急プラザ銀座 キリコラウンジ【インフルエンサー】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13192924/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13192924/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-5b434e0e-",
+    "name": "コスモコート",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区新港2丁目8-1 よこはまコスモワールド　１Ｆ",
+    "lat": 35.455217138818284,
+    "lng": 139.63690838219262,
+    "youtube_id": "",
+    "source_video_title": "横浜コスモワールド【ないものねだり】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14030396/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140104/14030396/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-ac5227bd-",
+    "name": "すずめや",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋2-18-5",
+    "lat": 35.72671073786489,
+    "lng": 139.71345248371918,
+    "youtube_id": "",
+    "source_video_title": "池袋東口【嫉妬の権利】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13009255/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130501/13009255/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-ca63b74a-",
+    "name": "プロント ウインズ汐留店",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区東新橋2-18-1 2F",
+    "lat": 35.66143253792056,
+    "lng": 139.75806918302857,
+    "youtube_id": "",
+    "source_video_title": "汐留イタリア街【シンクロニシティ】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13107616/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130103/13107616/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-coconeel-",
+    "name": "COCONEEL",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-23-13 下村ビル　Ｂ１Ｆ",
+    "lat": 35.69422767592237,
+    "lng": 139.70106663622622,
+    "youtube_id": "",
+    "source_video_title": "歌舞伎町【スカウトマン】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13031808/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13031808/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-644a3895-",
+    "name": "味楽",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区大崎1-21-4",
+    "lat": 35.61992691874291,
+    "lng": 139.7286192337917,
+    "youtube_id": "",
+    "source_video_title": "環状六号線【環状六号線】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131604/13028770/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131604/13028770/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-d20044af-",
+    "name": "カフェ ラボ ハマダ",
+    "genre": "カフェ",
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "address": "栃木県足利市通2-12-11",
+    "lat": 36.33446603820077,
+    "lng": 139.45130868120359,
+    "youtube_id": "",
+    "source_video_title": "栃木県足利【何度目の青空か？／帰り道は遠回りしたくなる】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tochigi/A0902/A090202/9014646/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0902/A090202/9014646/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-05b5fd01-",
+    "name": "松島蒲鉾本舗 総本店",
+    "genre": "食事",
+    "prefecture": "宮城県",
+    "city": "宮城郡松島町",
+    "address": "宮城県宮城郡松島町松島字町内120",
+    "lat": 38.37040954742113,
+    "lng": 141.06348530063843,
+    "youtube_id": "",
+    "source_video_title": "松島【Sing Out!】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/miyagi/A0404/A040404/4010727/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/miyagi/A0404/A040404/4010727/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-4cbec6ca-",
+    "name": "納豆工房せんだい屋 池尻大橋店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区池尻3-20-3 柳盛堂ビル 1F",
+    "lat": 35.64924603870924,
+    "lng": 139.681346374121,
+    "youtube_id": "",
+    "source_video_title": "玉川通り【Route246】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131705/13046921/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131705/13046921/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-e5fdf419-",
+    "name": "新とみ",
+    "genre": "ラーメン",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市鎌倉市山ノ内376 1F",
+    "lat": 35.33526565886586,
+    "lng": 139.5469471310437,
+    "youtube_id": "",
+    "source_video_title": "北鎌倉【いつかできるから今日できる】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140401/14032566/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1404/A140401/14032566/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-livin-",
+    "name": "LIVIN よこすか店",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横須賀市",
+    "address": "神奈川県横須賀市平成町3-21-4",
+    "lat": 35.2748738289478,
+    "lng": 139.68382243033776,
+    "youtube_id": "",
+    "source_video_title": "うみかぜ公園【ブランコ】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140601/14078893/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1406/A140601/14078893/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-9f892298-",
+    "name": "万世橋酒場",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田須田町2-21 肉の万世　秋葉原本店　１Ｆ",
+    "lat": 35.69665641648079,
+    "lng": 139.77105793385462,
+    "youtube_id": "",
+    "source_video_title": "秋葉原【I see...】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131001/13020657/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131001/13020657/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-13f22aec-",
+    "name": "春華堂 本店",
+    "genre": "スイーツ",
+    "prefecture": "静岡県",
+    "city": "浜松市",
+    "address": "静岡県浜松市中央区鍛冶町321-10 春華堂ビル",
+    "lat": 34.705977618687186,
+    "lng": 137.73092082596034,
+    "youtube_id": "",
+    "source_video_title": "浜松駅周辺【君に叱られた】",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22018536/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2202/A220201/22018536/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-9be54ae5-",
+    "name": "六本木らーめん 東京食品 まる彦",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂9-6-23 赤坂葵ビル　１Ｆ",
+    "lat": 35.66603617894825,
+    "lng": 139.7289842267722,
+    "youtube_id": "",
+    "source_video_title": "六本木らーめん 東京食品 まる彦",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13018573/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13018573/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-shinshin-",
+    "name": "博多らーめん ShinShin 天神本店",
+    "genre": "ラーメン",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "address": "福岡県福岡市中央区天神3-2-19",
+    "lat": 33.59275833625318,
+    "lng": 130.39685346869493,
+    "youtube_id": "",
+    "source_video_title": "博多らーめん ShinShin",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400103/40004980/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4001/A400103/40004980/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-23d7a99a-",
+    "name": "焼きそば たつみ亭",
+    "genre": "ラーメン",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市守山区大森2丁目303",
+    "lat": 35.204881595894435,
+    "lng": 136.99259799354192,
+    "youtube_id": "",
+    "source_video_title": "焼きそば たつみ亭",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230114/23056870/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230114/23056870/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-18581f09-",
+    "name": "播磨屋本店 生野総本店",
+    "genre": "スイーツ",
+    "prefecture": "兵庫県",
+    "city": "朝来市",
+    "address": "兵庫県朝来市生野町円山字京田30",
+    "lat": 35.192644097442496,
+    "lng": 134.79312256293542,
+    "youtube_id": "",
+    "source_video_title": "播磨屋本店・華麗満月",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/hyogo/A2808/A280803/28002488/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hyogo/A2808/A280803/28002488/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-39218150-",
+    "name": "秋田ふるさと館",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区有楽町2-10-1 東京交通会館１F",
+    "lat": 35.674744288719495,
+    "lng": 139.7644064743203,
+    "youtube_id": "",
+    "source_video_title": "秋田ふるさと館・仁手古サイダー",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13058435/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130102/13058435/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-1641c66f-",
+    "name": "麻布かりんと 麻布十番店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番1-7-9",
+    "lat": 35.65609263791658,
+    "lng": 139.73493718299082,
+    "youtube_id": "",
+    "source_video_title": "麻布かりんと",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13097319/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130702/13097319/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-416e17d8-",
+    "name": "さわやか 新静岡セノバ店",
+    "genre": "焼肉",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "address": "静岡県静岡市葵区鷹匠1-1-1 新静岡セノバ 5F",
+    "lat": 34.97552797872497,
+    "lng": 138.38714114822304,
+    "youtube_id": "",
+    "source_video_title": "炭焼きレストランさわやか",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220101/22021460/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2201/A220101/22021460/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-7b18f3dd-",
+    "name": "丸デブ 総本店",
+    "genre": "ラーメン",
+    "prefecture": "岐阜県",
+    "city": "岐阜市",
+    "address": "岐阜県岐阜市日ノ出町3-1",
+    "lat": 35.41899240792412,
+    "lng": 136.75685661384523,
+    "youtube_id": "",
+    "source_video_title": "丸デブ 総本店",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21006119/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/gifu/A2101/A210101/21006119/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-79be306a-",
+    "name": "しみてん木乃幡 仙台駅店",
+    "genre": "食事",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "address": "宮城県仙台市青葉区中央1-1-1 JR仙台駅 1F",
+    "lat": 38.26028411865941,
+    "lng": 140.882243171497,
+    "youtube_id": "",
+    "source_video_title": "凍み天",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/miyagi/A0401/A040101/4012335/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/miyagi/A0401/A040101/4012335/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-c062c929-",
+    "name": "三全 仙台エスパル店",
+    "genre": "スイーツ",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "address": "宮城県仙台市青葉区中央1-1-1 エスパル仙台店 B1F",
+    "lat": 38.25998650743351,
+    "lng": 140.88213264965015,
+    "youtube_id": "",
+    "source_video_title": "菓匠三全",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/miyagi/A0401/A040101/4009659/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/miyagi/A0401/A040101/4009659/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-2a831c44-",
+    "name": "今井金箔 広坂店",
+    "genre": "食事",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市広坂1-2-36",
+    "lat": 36.56150763636199,
+    "lng": 136.65910889429242,
+    "youtube_id": "",
+    "source_video_title": "金沢",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17010261/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ishikawa/A1701/A170101/17010261/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-dcca8bec-",
+    "name": "函館洋菓子スナッフルス 金森洋物館店",
+    "genre": "カフェ",
+    "prefecture": "北海道",
+    "city": "函館市",
+    "address": "北海道函館市末広町13-9",
+    "lat": 41.76673173434822,
+    "lng": 140.7165959440258,
+    "youtube_id": "",
+    "source_video_title": "函館",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/hokkaido/A0105/A010501/1005752/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hokkaido/A0105/A010501/1005752/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-3d56208f-",
+    "name": "乃木坂な妻たち",
+    "genre": "カフェ",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "address": "北海道札幌市中央区北6西15-3-7",
+    "lat": 43.065602614524686,
+    "lng": 141.33217404787587,
+    "youtube_id": "",
+    "source_video_title": "乃木坂な妻たち",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010104/1060615/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hokkaido/A0101/A010104/1060615/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-6d7f1106-",
+    "name": "ちばチャン 海浜幕張店",
+    "genre": "焼肉",
+    "prefecture": "千葉県",
+    "city": "千葉市",
+    "address": "千葉県千葉市美浜区中瀬1-3 幕張テクノガーデン 1F",
+    "lat": 35.65070793801761,
+    "lng": 140.04139338272162,
+    "youtube_id": "",
+    "source_video_title": "幕張メッセ周辺",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/chiba/A1201/A120102/12007098/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1201/A120102/12007098/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-6d41a5ca-",
+    "name": "利尻らーめん味楽 新横浜ラーメン博物館店",
+    "genre": "ラーメン",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市港北区新横浜2-14-21 新横浜ラーメン博物館 B2F",
+    "lat": 35.50976079877657,
+    "lng": 139.61458058275886,
+    "youtube_id": "",
+    "source_video_title": "横浜アリーナ周辺",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140206/14066708/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-9d97e3e3-",
+    "name": "シェイクシャック 外苑いちょう並木",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山2-1-15",
+    "lat": 35.673357188706184,
+    "lng": 139.71986106433752,
+    "youtube_id": "",
+    "source_video_title": "明治神宮野球場周辺",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13189009/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130603/13189009/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-serafina_new_york-",
+    "name": "Serafina NEW YORK さいたま新都心店",
+    "genre": "居酒屋",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "address": "埼玉県さいたま市中央区新都心10 けやきひろば 3F",
+    "lat": 35.89319193773293,
+    "lng": 139.63111538545851,
+    "youtube_id": "",
+    "source_video_title": "さいたまスーパーアリーナ",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/saitama/A1101/A110101/11035708/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1101/A110101/11035708/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-522fa8ed-",
+    "name": "千鳥屋 イオンモール大阪ドームシティ店",
+    "genre": "スイーツ",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市西区千代崎3-13-1 イオンモール大阪ドームシティ",
+    "lat": 34.67026176799247,
+    "lng": 135.4782788371786,
+    "youtube_id": "",
+    "source_video_title": "京セラドーム大阪",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270401/27087724/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270401/27087724/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-ab929a12-",
+    "name": "スガキヤ イオンナゴヤドーム前店",
+    "genre": "ラーメン",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市東区矢田南4-102-3 イオンモールナゴヤドーム前 2F",
+    "lat": 35.187126539119085,
+    "lng": 136.944235883041,
+    "youtube_id": "",
+    "source_video_title": "スガキヤ イオンナゴヤドーム前店",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230110/23009416/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230110/23009416/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-kebab_box_j-",
+    "name": "KEBAB BOX J",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前1-8-8 COXY188ビル 1F",
+    "lat": 35.669943,
+    "lng": 139.7063339,
+    "youtube_id": "",
+    "source_video_title": "乃木坂どこへ",
+    "visited_date": "",
+    "members": [
+      "齋藤飛鳥"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "nogizaka46-milk-",
+    "name": "つばめパン＆Milk 尼ケ坂本店",
+    "genre": "カフェ",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市北区大杉1-18-21 SAKUMACHI商店街",
+    "lat": 35.187878,
+    "lng": 136.918944,
+    "youtube_id": "",
+    "source_video_title": "乃木坂どこへ",
+    "visited_date": "",
+    "members": [
+      "齋藤飛鳥",
+      "筒井あやめ"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "nearest_station": "JR大曽根駅 or 地下鉄尼ケ坂駅",
+    "description": "",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",

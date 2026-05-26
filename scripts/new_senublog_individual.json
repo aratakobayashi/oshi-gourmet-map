@@ -1,0 +1,106 @@
+[
+  {
+    "name": "路麺えんそば錦一丁目店",
+    "genre": "ラーメン",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区錦1-16-13 チサンマンション錦1F",
+    "address": "愛知県名古屋市中区錦1-16-13 チサンマンション錦1F",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "乃木坂46",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "齋藤飛鳥",
+      "遠藤さくら",
+      "梅澤美波",
+      "星野みなみ"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "目的は、乃木坂ファンならご存知『路麺えんそば』さんに行き、お蕎麦をいただくことです。",
+    "nearest_station": "地下鉄東山線・鶴舞線「伏見」駅8番出口より徒歩4分。広小路通りを西へ。 YAMAHAと朝日新聞の交差点「広小路竪三蔵」を右折。20ｍ左手。 伏見駅から389m。",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%B7%AF%E9%BA%BA%E3%81%88%E3%82%93%E3%81%9D%E3%81%B0%E9%8C%A6%E4%B8%80%E4%B8%81%E7%9B%AE%E5%BA%97",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%B7%AF%E9%BA%BA%E3%81%88%E3%82%93%E3%81%9D%E3%81%B0%E9%8C%A6%E4%B8%80%E4%B8%81%E7%9B%AE%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "KEBAB BOX J",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区神宮前1-8-8 COXY188ビル 1F",
+    "address": "東京都渋谷区神宮前1-8-8 COXY188ビル 1F",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "乃木坂46",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "齋藤飛鳥",
+      "梅澤美波"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "『ハマスカ放送部』でスキマスイッチの常田さんがレコスタ飯として紹介していました^ ^",
+    "nearest_station": "JR山手線：原宿駅 徒歩5分 東京メトロ千代田線・副都心線：明治神宮前駅 徒歩2分",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=KEBAB%20BOX%20J",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=KEBAB%20BOX%20J"
+      }
+    ]
+  },
+  {
+    "name": "つばめパン＆Milk 尼ケ坂本店",
+    "genre": "カフェ",
+    "prefecture": "愛知県",
+    "city": "名古屋市北区大杉1-18-21 SAKUMACHI商店街",
+    "address": "愛知県名古屋市北区大杉1-18-21 SAKUMACHI商店街",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "乃木坂46",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "飛鳥",
+      "筒井あやめ"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "駅から近くて助かりました^ ^",
+    "nearest_station": "名鉄瀬戸線：尼ヶ坂駅 徒歩1分 尼ケ坂駅から137m",
+    "price_range": "",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%A4%E3%81%B0%E3%82%81%E3%83%91%E3%83%B3%EF%BC%86Milk%20%E5%B0%BC%E3%82%B1%E5%9D%82%E6%9C%AC%E5%BA%97",
+    "hotpepper_url": "",
+    "google_maps_url": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%A4%E3%81%B0%E3%82%81%E3%83%91%E3%83%B3%EF%BC%86Milk%20%E5%B0%BC%E3%82%B1%E5%9D%82%E6%9C%AC%E5%BA%97"
+      }
+    ]
+  }
+]

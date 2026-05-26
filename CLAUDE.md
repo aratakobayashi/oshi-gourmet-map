@@ -158,7 +158,8 @@ heysayjump:        '#ef4444'  // レッド
 | `scrape_naniwa.py` | なにわ男子ロケ地スクレイピング（illmnt.com / hatenablog） |
 | `scrape_snowman.py` | Snow Manロケ地スクレイピング（snowman-information.com / hatenablog） |
 | `scrape_kamenashi.py` | 亀梨和也ロケ地スクレイピング |
-| `scrape_nogizaka.py` | 乃木坂46スクレイピング（senublog.com） |
+| `scrape_nogizaka.py` | 乃木坂46スクレイピング（senublog.com まとめ + 個別ページ両対応） |
+| `scrape_tabelog_matome.py` | 食べログまとめページから乃木坂46店舗取得（tabelog JSON-LDで正確座標取得） |
 | `scrape_ginga.py` | 中丸雄一銀河チャンネルスクレイピング（8888-info.hatenablog.com） |
 | `scrape_hinatazaka.py` | 日向坂46スクレイピング（せっかくグルメ銚子回ほか） |
 | `scrape_kamaitachi.py` | かまいたち動画説明文パース（ロケで行った飲食店まとめ） |
@@ -179,10 +180,12 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 
 ---
 
-## 現在の状況（2026-05-25時点）
-- 総店舗数: 740件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / snowman:50 / sixtones:49 / heysayjump:48 / notme:39 / kamenashi:32 / nogizaka46:30 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / shiori:29 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
-- youtube_idあり: ~350件（74%）
+## 現在の状況（2026-05-26時点）
+- 総店舗数: 798件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
+- youtube_idあり: ~372件（50%）
 - thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
+- サムネイルなし: 42件（nogizaka46:12 / sixtones:6 / hinatazaka46:6 / naniwa:5 / ginga:4 / sakurazaka46:3 / snowman:2 / yonino:2 / equal_love:2）← ファンブログ由来で動画特定困難
+- QA実施済み（2026-05-25）: description全件あり / 重複なし / 海外店舗6件（意図的）
 - デプロイ: GitHub Pages + 独自ドメイン済み（gourmet.oshikatsu-guide.com）
 - GA4: 設定済み（G-PFYMG6S0Q1）
 - Search Console: 設定済み
@@ -192,8 +195,11 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 - よにのちゃんねる: YouTube API → Gemini抽出 → ジオコーディング → マージ
 - Snow Man / なにわ男子: ファンブログスクレイピング → ジオコーディング → マージ
 - 亀梨和也: ファンブログスクレイピング → 強化ジオコーディング → マージ
-- 乃木坂46: Senu Blog（senublog.com）スクレイピング → 30件
+- 乃木坂46: Senu Blog（senublog.com）スクレイピング → 30件 + tabelog matome（matome/3277/ + matome/7804/）+ senublog個別ページ → 計79件
+  - tabelog matomeはscrape_tabelog_matome.pyで取得（tabelog JSON-LDから座標取得）
+  - senublog個別ページはscrape_nogizaka.py（scrape_senublog_individual関数）で対応
 - 中丸雄一銀河チャンネル: hatenablog（8888-info.hatenablog.com）スクレイピング → 12件
+- Snow Man（追加）: mom-eat.com スクレイピング（scrape_mom_eat.py）→ +9件（計59件）。29件既存店補完（seating_note/ordered_items付与）
 - かまいたち: 動画説明文パース（ロケで行った飲食店まとめ 関西・関東編） + rascalブログ → 10件
 - =LOVE / ≠ME / ≒JOY: miruwz7.blog.jp スクレイピング（scrape_miruwz.py） → 181件（equal_love:66 / notme:26 / neajoy:12 + 食品フィルタ補完分77件）
 - 孤独のグルメ: goro-tablog.com スクレイピング（scrape_kodoku.py）+ TMDB APIエピソードスチール → 176件
@@ -202,6 +208,7 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 - **重要**: Gemini APIはYouTubeタイトルからの飲食店抽出に向かない。ファンブログスクレイピングが主軸。
 - **重要**: miruwz7.blog.jpはJS描画のため CSS セレクタ不可。regex で記事URLを収集すること。
 - **重要**: サムネイルなし店舗は登録しない。youtube_id または TMDB等のthumbnail_urlが必須。
+- **重要**: ginga（銀河チャンネル）のvisited_dateはファンブログ日付をそのまま使用。scrape_ginga.pyで--year 2025を使うと実際は2024年動画にずれる。日付はチャンネル動画一覧で確認すること（channelId: UCYTrZoOfDgoQo7Bdbttv9qw）。
 
 ## ロードマップ
 1. ✅ MVP作成・デプロイ

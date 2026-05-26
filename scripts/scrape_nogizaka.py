@@ -122,6 +122,98 @@ def split_prefecture_city(area_text):
     return area_text, ''
 
 
+def parse_mybox_info(mybox):
+    """st-in-mybox の p タグをラベル/値の辞書に変換"""
+    info = {}
+    ps = [p.get_text(strip=True) for p in mybox.find_all('p') if p.get_text(strip=True)]
+    LABELS = {'店名', '住所', '予約・問い合わせ', '問い合わせ', 'お問い合わせ', '予約・お問い合わせ', '電話番号', '営業時間', '定休日', '交通アクセス', '駐車場', 'ホームページ', 'URL'}
+    i = 0
+    while i < len(ps):
+        p = ps[i]
+        if p in LABELS and i + 1 < len(ps):
+            # collect value lines until next label
+            val_lines = []
+            j = i + 1
+            while j < len(ps) and ps[j] not in LABELS:
+                if not ps[j].startswith('>>') and '現在' not in ps[j]:
+                    val_lines.append(ps[j])
+                j += 1
+            info[p] = ' '.join(val_lines)
+            i = j
+        else:
+            i += 1
+    return info
+
+
+def scrape_senublog_individual(url, soup):
+    """senublog.com 個別ページ形式: st-in-mybox (p ラベル/値)"""
+    myboxes = soup.find_all(class_='st-in-mybox')
+    if not myboxes:
+        return []
+
+    shops = []
+    for mybox in myboxes:
+        info = parse_mybox_info(mybox)
+        shop_name = info.get('店名', '').strip()
+        address = info.get('住所', '').strip()
+        # 〒XXX-XXXX を除去し、>>リンクや電話番号も除去
+        address = re.sub(r'〒\d{3}-\d{4}\s*', '', address).strip()
+        address = re.sub(r'>>[^\s].*', '', address).strip()
+        address = re.sub(r'\d{2,4}-\d{3,4}-\d{3,4}.*', '', address).strip()
+        nearest = info.get('交通アクセス', '').strip()
+
+        if not shop_name or not address:
+            continue
+
+        # ページ全文からメンバー・番組名・説明を抽出
+        full_text = soup.get_text(separator=' ', strip=True)
+        members = extract_members_from_text(full_text)
+        program = extract_program(full_text)
+
+        # 最初の st-kaiwa-hukidashi を説明文として使う
+        hukidashi = soup.find(class_='st-kaiwa-hukidashi')
+        description = hukidashi.get_text(separator=' ', strip=True) if hukidashi else ''
+        description = re.sub(r'\s+', ' ', description).strip()
+
+        prefecture, city = split_prefecture_city(address)
+        genre = detect_genre(shop_name + description)
+        tabelog_url = make_tabelog_url(shop_name)
+
+        # メンバー重複除去
+        full_names = set(m for m in members if len(m) >= 3 and m in MEMBERS)
+        members = list(dict.fromkeys(
+            m for m in members
+            if m in full_names or (m not in full_names and not any(m in n for n in full_names))
+        ))
+
+        shops.append({
+            'name': shop_name,
+            'genre': genre,
+            'prefecture': prefecture,
+            'city': city,
+            'address': address,
+            'lat': None,
+            'lng': None,
+            'youtube_id': '',
+            'source_video_title': program,
+            'source_video_url': '',
+            'visited_date': '',
+            'members': members,
+            'groups': [GROUP],
+            'group': GROUP,
+            'description': description,
+            'nearest_station': nearest,
+            'price_range': '',
+            'tabelog_url': tabelog_url,
+            'hotpepper_url': '',
+            'google_maps_url': '',
+            'tags': [],
+            'affiliate_links': [{'label': '食べログで見る', 'url': tabelog_url}],
+        })
+
+    return shops
+
+
 def scrape_senublog(url, soup):
     """senublog.com 形式: h2（店名：地域）+ scroll-box テーブル"""
     shops = []
@@ -240,7 +332,11 @@ def scrape_page(url):
     soup = BeautifulSoup(html, 'html.parser')
 
     if 'senublog.com' in url:
-        shops = scrape_senublog(url, soup)
+        # 個別ページ（st-in-mybox あり）か まとめページ（scroll-box あり）かで分岐
+        if soup.find(class_='st-in-mybox'):
+            shops = scrape_senublog_individual(url, soup)
+        else:
+            shops = scrape_senublog(url, soup)
     else:
         print(f'  未対応のURL形式: {url}')
         shops = []

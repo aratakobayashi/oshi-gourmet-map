@@ -24,14 +24,6 @@ from bs4 import BeautifulSoup
 GROUP = 'snowman'
 SITEMAP_URL = 'https://mom-eat.com/wp-sitemap-posts-post-1.xml'
 
-# 処理対象URLパターン（確実にグルメ単独記事のものだけ）
-FOOD_URL_PATTERNS = [
-    'snowman-youtube-location-',   # すの日常YouTube訪問グルメ（最も安定）
-    'snowman-location-youtube-',   # 同上（命名揺れ）
-    'snowman-seitijunrei-napremi',
-    'snowman-seitijunrei-musashinoa',
-]
-
 # 食事系でないと判断してスキップするURLキーワード
 SKIP_FRAGMENTS = [
     'pilates', 'climbing', 'nazotoki', 'camera', 'dance', 'sauna',
@@ -41,6 +33,11 @@ SKIP_FRAGMENTS = [
     'drivegoods', 'customboot', 'toyosu', 'footgolf', 'dasshutsukichi',
     'escape', 'shibuyasky', 'ikushika', 'locationtour', 'tourlog',
     'matome', 'hanedaichiba',  # 複数店まとめ・市場系は除外
+    'mv-', 'drama-', 'movie-', 'obakeyashiki', 'animalcafe',
+    'ichigogari',  # いちご狩り（農業体験）
+    'edogawakai',  # 江戸川花火大会
+    'goldenonespoon',  # ゴールデンスプーン（非食事）
+    'namidanoumiwo',  # MV関連
 ]
 
 # 店名・タイトルに含まれる場合に非食事と判定するキーワード
@@ -50,6 +47,8 @@ NON_FOOD_KEYWORDS = [
     'ジム', 'スポーツ', '映画', 'ライブ', '神社', '別院', '寺', '仏閣',
     '道の駅', 'ゲームセンター', '遊園地', 'ハイランド', '旅館', '神宮',
     'アドアーズ', 'スカイツリー', '空港', '稲荷', '公園', 'アトラクション',
+    'クイズ', '劇場', '番組', 'スタジオ', 'ロケ地一覧', '一覧',
+    '美術館', '博物館', 'ホテル', '温泉', '銭湯', '宿泊',
 ]
 
 SNOWMAN_MEMBERS = [
@@ -98,7 +97,10 @@ def get_article_urls():
         path = url.replace('https://mom-eat.com/', '').rstrip('/')
         if any(skip in path for skip in SKIP_FRAGMENTS):
             continue
-        if any(pat in path for pat in FOOD_URL_PATTERNS):
+        # Snow Man関連URLをすべて対象にする（コンテンツレベルの食事判定に委ねる）
+        if any(prefix in path for prefix in [
+            'snowman', 'soresuno', 'sunotube', 'snotube', 'suno-', 'snoman'
+        ]):
             food_urls.append(url)
 
     return food_urls
@@ -214,12 +216,16 @@ def extract_shop_name(soup):
     SECTION_NOISE = ['メニュー', '座った席', 'まとめ', 'PR', '広告', 'アクセス', '関連',
                      '？', 'どこ', 'いつ', 'なぜ', '何時', 'なに']
     NOISE_PREFIX_WORDS = ['ロケ地', 'どこ', 'その', 'この', 'あの', '場所']
+    GENERIC_NAMES = [
+        '場所', 'ロケ地', 'アクセス', '放送日', '行き方', '最寄り', '情報',
+        'チャンネル', 'それスノ', '聖地巡礼', '全員', 'バスツアー', 'キャンプ場',
+        '記録', '①', '②', '③',
+    ]
 
     content = soup.find('div', class_='entry-content') or soup.find('article')
     if not content:
         return ''
 
-    # よくある前置きフレーズ（これを先に除去してから処理）
     STRIP_LEAD = [
         'すのちゅーぶで訪れた', 'すの日常で訪れた', 'SnowManが訪れた',
         'Snow Manが訪れた', 'メンバーが訪れた', 'すのちゅーぶの',
@@ -232,7 +238,6 @@ def extract_shop_name(soup):
         if not (3 < len(raw) < 80):
             continue
 
-        # 前置きを除去
         text = raw
         for lead in STRIP_LEAD:
             if text.startswith(lead):
@@ -248,6 +253,23 @@ def extract_shop_name(soup):
         m = re.match(r'^ロケ地は(.+)', text)
         if m:
             return m.group(1).strip()
+
+        # "ロケ地①店名（料理名）" パターン → 店名のみ抽出
+        m = re.match(r'^(?:.*?ロケ地\s*[\①②③④⑤⑥⑦⑧⑨⑩\d]+\s*)(.+)', text)
+        if m:
+            shop_part = re.sub(r'[（(][^）)]{2,20}[）)]', '', m.group(1)).strip()
+            shop_part = re.sub(r'^[\①②③④⑤⑥⑦⑧⑨⑩\d]+\s*', '', shop_part).strip()
+            if shop_part and len(shop_part) >= 2:
+                text = shop_part
+
+        # 括弧内の料理名を除去（汎用）
+        text_clean = re.sub(r'[（(][^）)]{2,20}[）)]', '', text).strip()
+        if text_clean and len(text_clean) >= 2:
+            text = text_clean
+
+        # 汎用フレーズはスキップ
+        if any(g in text for g in GENERIC_NAMES):
+            continue
 
         # "△△は□□" → 最後のは以降を、直前の単語と組み合わせ
         if 'は' in text:
