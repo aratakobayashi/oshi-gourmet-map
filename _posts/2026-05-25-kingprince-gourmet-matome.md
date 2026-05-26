@@ -8,7 +8,7 @@ group: kingprince
 genre: まとめ
 article_type: matome
 prefecture: 東京都
-tags: [King & Prince, キンプリ, グルメ, 聖地巡礼, まとめ, 平野紫耀, 神宮寺勇太, 岸優太, 髙橋海人, 永瀬廉, 当たり前レストラン]
+tags: ["King & Prince", キンプリ, グルメ, 聖地巡礼, まとめ, 平野紫耀, 神宮寺勇太, 岸優太, 髙橋海人, 永瀬廉, 当たり前レストラン]
 thumbnail: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 summary:
   - "「当たり前レストラン」に登場したグルメスポットを全39件まとめて確認できる"
