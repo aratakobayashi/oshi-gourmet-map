@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gunma/A1002/A100203/10004487/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/9F0hvCR1ZYTq1N0yBXetiAi0KEL.jpg"
 source_type: "drama"
+business_hours: "月・火・木・金 11:00 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00 土・日 11:00 - 22:00 L.O. 21:00 水 定休日 ■ 営業時間下記期間は営業日変更になります。ゴールデンウィークお盆年末年始連休中の水曜日は営業。翌週の月曜日、火曜日、水曜日臨時休業です。"
 lat: 36.2477428
 lng: 139.405421
+tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400106/40039152/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "19:30 - 01:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 33.5898988
 lng: 130.4017509
+tabelog_score: 3.1
 members:
   - "井之頭五郎"
 groups:

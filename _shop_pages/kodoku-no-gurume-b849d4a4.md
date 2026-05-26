@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/fukushima/A0702/A070201/7006634/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/icid89a9wXT7XsDwa4UVWKJ4NEy.jpg"
 source_type: "drama"
+business_hours: "月・火・木・金・土・日 11:00 - 19:30 水 定休日 ■ 営業時間11:00～19:30頃 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.404937
 lng: 140.333381
+tabelog_score: 3.47
 members:
   - "井之頭五郎"
 groups:

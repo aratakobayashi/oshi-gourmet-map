@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13218310/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "24時間営業 モーニングは、6:00 から営業。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7125805
 lng: 139.7800712
+tabelog_score: 3.11
 members:
   - "井之頭五郎"
 groups:

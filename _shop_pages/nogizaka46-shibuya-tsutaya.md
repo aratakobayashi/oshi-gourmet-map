@@ -12,8 +12,10 @@ price_range: "～￥999"
 source_video_title: "センター街【革命の馬】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13034125/"
+business_hours: "■営業時間06:30～28:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.65989550161139
 lng: 139.70031272399558
+tabelog_score: 3.14
 groups:
   - "nogizaka46"
 affiliate_links:

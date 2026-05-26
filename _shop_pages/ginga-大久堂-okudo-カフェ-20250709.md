@@ -16,8 +16,10 @@ source_video_url: "https://www.youtube.com/watch?v=RGbsQewaz4c"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13293786/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001000512/course/?vos=nhppvccp99002"
+business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 22:00 L.O. 21:30"
 lat: 35.703008
 lng: 139.6992999
+tabelog_score: 3.47
 members:
   - "中丸雄一"
 groups:

@@ -14,8 +14,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270203/27014344/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/4q46LrYS95U4b3NirSsdTiyZqE2.jpg"
 source_type: "drama"
+business_hours: "月・火・木・金・土・日 11:30 - 14:00 L.O. 料理13:30 17:00 - 21:00 L.O. 料理20:30 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6382221
 lng: 135.5237951
+tabelog_score: 3.44
 members:
   - "井之頭五郎"
 groups:

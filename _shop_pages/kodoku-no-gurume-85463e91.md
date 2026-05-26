@@ -14,8 +14,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470404/47002905/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月 11:00 - 15:30 L.O. 料理15:30 金・土・日 11:00 - 16:00 L.O. 15:30 火・水・木 定休日 2024年7月より 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 26.2814968
 lng: 127.7784916
+tabelog_score: 3.54
 members:
   - "井之頭五郎"
 groups:

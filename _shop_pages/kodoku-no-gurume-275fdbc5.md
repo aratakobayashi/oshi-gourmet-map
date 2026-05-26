@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13005632/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/swDb7laJQkBLuKUAIwf0lO2qLlv.jpg"
 source_type: "drama"
+business_hours: "18:00 - 23:00 ■ 営業時間ランチタイムはご予約を頂きましたら営業させて頂く事もございます。お気軽にお問い合わせ下さいませ。■ 定休日定休日無し。年に4～5日、臨時休業あり。"
 lat: 35.725913
 lng: 139.7166365
+tabelog_score: 3.54
 members:
   - "井之頭五郎"
 groups:

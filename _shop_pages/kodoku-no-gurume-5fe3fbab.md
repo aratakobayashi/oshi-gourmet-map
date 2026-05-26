@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2202/A220201/22002638/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・水・木・金・祝日 10:30 - 15:00 土・日 10:30 - 16:00 火 定休日 ■ 営業時間鰻なくなり次第終了電話予約可能コース料理は要予約連休(不定期)お気軽にお問合せ下さい"
 lat: 34.7109786
 lng: 137.7259431
+tabelog_score: 3.47
 members:
   - "井之頭五郎"
 groups:

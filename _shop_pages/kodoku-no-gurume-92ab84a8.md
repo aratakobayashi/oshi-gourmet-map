@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1410/A141001/14031445/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/nHEsUIXIx9ZCn4XutGJyPtxckE2.jpg"
 source_type: "drama"
+business_hours: "月・火・水・金・土・日・祝日・祝前日・祝後日 11:30 - 14:00 L.O. 13:30 18:00 - 22:00 L.O. 料理21:00 ドリンク21:30 木 定休日 ※食材が終わり次第終了とさせていただきます。"
 lat: 35.204941
 lng: 139.0436046
+tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

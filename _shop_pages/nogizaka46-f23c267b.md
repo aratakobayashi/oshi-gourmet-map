@@ -12,8 +12,10 @@ price_range: "～￥999"
 source_video_title: "乃木坂【乃木坂の詩・ハルジオンが咲く頃・じゃあね】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13129689/"
+business_hours: "08:00 - 20:00 L.O. 19:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.665995737908126
 lng: 139.7281300830956
+tabelog_score: 3.62
 groups:
   - "nogizaka46"
 affiliate_links:

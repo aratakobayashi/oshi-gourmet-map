@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1107/A110701/11019456/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・水・木・金・土・日 17:00 - 20:00 火 定休日 ■ 営業時間17:00～20:00頃■ 定休日年末年始 １２月３１日～１月３日まで休業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9914509
 lng: 139.0857612
+tabelog_score: 3.38
 members:
   - "井之頭五郎"
 groups:

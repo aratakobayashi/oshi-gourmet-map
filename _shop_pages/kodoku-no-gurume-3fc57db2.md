@@ -14,8 +14,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2204/A220401/22022695/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "09:00 - 17:00 ■ 営業時間季節や気候により早めに閉店することもある■定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2221369
 lng: 138.6214683
+tabelog_score: 3.19
 members:
   - "井之頭五郎"
 groups:

@@ -12,8 +12,10 @@ price_range: "～￥999"
 source_video_title: "博多らーめん ShinShin"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400103/40004980/"
+business_hours: "月・火・木・金・土・日 11:00 - 03:00 L.O. 02:30 水 定休日 ■ 営業時間営業時間が急遽変更になる場合もありますのでご了承ください。■ 定休日第3火曜日 ※定休日が祝日の場合は変更あり"
 lat: 33.59275833625318
 lng: 130.39685346869493
+tabelog_score: 3.57
 groups:
   - "nogizaka46"
 affiliate_links:

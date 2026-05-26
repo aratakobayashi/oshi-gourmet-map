@@ -12,8 +12,10 @@ price_range: "-"
 source_video_title: "焼きそば たつみ亭"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230114/23056870/"
+business_hours: "■営業時間[不定休]17:00～24:30入店 23：00L.O 23：30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.204881595894435
 lng: 136.99259799354192
+tabelog_score: 3.03
 groups:
   - "nogizaka46"
 affiliate_links:

@@ -12,8 +12,10 @@ price_range: "￥1,000～￥1,999"
 source_video_title: "炭焼きレストランさわやか"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2201/A220101/22021460/"
+business_hours: "11:00 - 22:00 L.O. 21:00 ■ 営業時間※待ち時間によってはオーダーストップ前に入店をお断りする場合があります※特別営業日（年末年始・GW・お盆等）は、受付・営業時間を変更することがあります"
 lat: 34.97552797872497
 lng: 138.38714114822304
+tabelog_score: 3.66
 groups:
   - "nogizaka46"
 affiliate_links:

@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110301/11043457/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/qxIAblkZIpDzIm12MKBiLWaHg9s.jpg"
 source_type: "drama"
+business_hours: "火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 14:30 18:00 - 21:00 月 定休日 ■ 営業時間ランチタイムは2部制になります。・1部 11:00〜12:30・2部 13:00〜14:30ディナー18:00～21:00(LO20:00)当面の間予約制とさせて頂きます。■ 定休日月曜日+月に２回程 月、火の連休"
 lat: 35.7506445
 lng: 139.6162651
+tabelog_score: 3.64
 members:
   - "井之頭五郎"
 groups:

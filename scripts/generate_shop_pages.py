@@ -76,13 +76,14 @@ for shop in shops:
                 "nearest_station","price_range","visited_date",
                 "youtube_id","source_video_title","source_video_url",
                 "group","tabelog_url","hotpepper_url","google_maps_url",
-                "thumbnail_url","source_type","seating_note"]:
+                "thumbnail_url","source_type","seating_note",
+                "business_hours"]:
         v = shop.get(key)
         if v is not None and v != "":
             lines.append(f"{key}: {yaml_str(v)}")
 
     # numeric fields
-    for key in ["lat","lng"]:
+    for key in ["lat","lng","tabelog_score"]:
         v = shop.get(key)
         if v is not None:
             lines.append(f"{key}: {v}")

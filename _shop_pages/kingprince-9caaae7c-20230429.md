@@ -13,8 +13,10 @@ visited_date: "2023-04-29"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13238484/"
+business_hours: "月・水・木・金・土・日・祝日 11:00 - 15:00 L.O. 料理15:00 17:00 - 22:30 L.O. 22:00 火 定休日 火曜日は祝日・祭日でも定休日でございます。"
 lat: 35.697286537868244
 lng: 139.66530028345574
+tabelog_score: 3.41
 members:
   - "平野紫耀"
   - "神宮寺勇太"

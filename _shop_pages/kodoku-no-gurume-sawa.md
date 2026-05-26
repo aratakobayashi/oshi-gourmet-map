@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110204/11002717/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hTNP3OCD8gYj7qV2jFNOCGHRVGO.jpg"
 source_type: "drama"
+business_hours: "火・水・木・金・土・日 11:30 - 14:00 L.O. 13:30 18:00 - 21:30 L.O. 20:30 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.8903993
 lng: 139.7908633
+tabelog_score: 3.63
 members:
   - "井之頭五郎"
 groups:

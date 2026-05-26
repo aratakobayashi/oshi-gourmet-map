@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shimane/A3202/A320201/32000004/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・火・木・金・土・日 11:00 - 17:00 水 定休日 ■ 営業時間売り切れ次第終了■ 定休日水曜日（祝日の場合は翌日） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.3668891
 lng: 132.7548827
+tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

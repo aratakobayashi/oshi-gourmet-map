@@ -12,8 +12,10 @@ price_range: "-"
 source_video_title: "北鎌倉【いつかできるから今日できる】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140401/14032566/"
+business_hours: "月・火・木・金・土・日 10:30 - 17:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.33526565886586
 lng: 139.5469471310437
+tabelog_score: 3.35
 groups:
   - "nogizaka46"
 affiliate_links:

@@ -18,8 +18,10 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13233871/"
 thumbnail_url: "https://img.youtube.com/vi/Qh0RSkK-s4E/hqdefault.jpg"
 seating_note: "SnowManがいたお部屋は「2F living」だと思われます。 お席の指定はできないそうです"
+business_hours: "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6313577
 lng: 139.7035686
+tabelog_score: 3.05
 groups:
   - "snowman"
 tags:

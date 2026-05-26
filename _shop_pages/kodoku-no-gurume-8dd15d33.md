@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110201/11051211/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・火・木 11:00 - 15:00 金・土・日・祝日 11:00 - 15:00 17:00 - 20:00 水 定休日"
 lat: 35.8078228
 lng: 139.7241054
+tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

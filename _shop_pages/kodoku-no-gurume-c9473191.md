@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/miyagi/A0404/A040403/4003356/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 17:30 L.O. 17:00 火 定休日 ■ 営業時間※ご予約の際は16：00以降のお電話が繋がりやすいです。"
 lat: 38.4110869
 lng: 141.4724752
+tabelog_score: 3.48
 members:
   - "井之頭五郎"
 groups:

@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13081142/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・木・金・土・祝前日・祝後日 11:30 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30 火・水 11:30 - 14:30 L.O. 14:00 日・祝日 17:00 - 22:00 L.O. 21:30 Lunch : 日曜・祝日休みDinner : 火曜・水曜日休み"
 lat: 35.6693751
 lng: 139.4774094
+tabelog_score: 3.48
 members:
   - "井之頭五郎"
 groups:

@@ -103,6 +103,7 @@ layout: default
         {% if s.address %}<li><span class="shop-hero__meta-icon">📍</span><span>{{ s.address }}</span></li>{% endif %}
         {% if s.nearest_station %}<li><span class="shop-hero__meta-icon">🚃</span><span>{{ s.nearest_station }}</span></li>{% endif %}
         {% if s.price_range %}<li><span class="shop-hero__meta-icon">💰</span><span>{{ s.price_range }}</span></li>{% endif %}
+        {% if s.tabelog_score %}<li><span class="shop-hero__meta-icon">⭐</span><span>食べログ <strong class="shop-hero__score">{{ s.tabelog_score }}</strong>{% if s.tabelog_url %} <a href="{{ s.tabelog_url }}" class="shop-hero__meta-link" target="_blank" rel="noopener">詳細→</a>{% endif %}</span></li>{% endif %}
         {% if s.visited_date %}<li><span class="shop-hero__meta-icon">📅</span><span>{{ s.visited_date }}訪問</span></li>{% endif %}
         {% if s.members %}<li><span class="shop-hero__meta-icon">👤</span><span>{{ s.members | join: "・" }}</span></li>{% endif %}
       </ul>
@@ -242,6 +243,12 @@ layout: default
         <div class="shop-map-sidebar__item">
           <p class="shop-map-sidebar__label">価格帯</p>
           <p class="shop-map-sidebar__value">{{ s.price_range }}</p>
+        </div>
+        {% endif %}
+        {% if s.business_hours %}
+        <div class="shop-map-sidebar__item">
+          <p class="shop-map-sidebar__label">営業時間</p>
+          <p class="shop-map-sidebar__value shop-map-sidebar__value--hours">{{ s.business_hours | truncate: 80 }}</p>
         </div>
         {% endif %}
         <a href="{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://maps.google.com/?q={{ s.address | url_encode }}{% endif %}"

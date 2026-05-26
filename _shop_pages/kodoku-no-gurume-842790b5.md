@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/toyama/A1601/A160101/16000879/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/5xSzyyRQSP5F18VFM6og8khAwIp.jpg"
 source_type: "drama"
+business_hours: "月・火・水・木・金・土 18:00 - 05:00 日 定休日 月曜が休日の場合は休み 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.6957569
 lng: 137.2136215
+tabelog_score: 3.45
 members:
   - "井之頭五郎"
 groups:

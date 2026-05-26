@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010105/1030343/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・火・水・木・金・土 17:00 - 22:00 L.O. 21:30 日 17:00 - 21:00 L.O. 20:30 祝日 17:00 - 21:00 L.O. 料理20:30"
 lat: 43.061936
 lng: 141.3542924
+tabelog_score: 3.43
 members:
   - "井之頭五郎"
 groups:

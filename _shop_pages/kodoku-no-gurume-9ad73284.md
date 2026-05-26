@@ -17,6 +17,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/mwnNQgb07xZ2AiQYzudAviUG0uA.jpg"
 source_type: "drama"
 lat: 35.6833926
 lng: 139.5592421
+tabelog_score: 3.39
 members:
   - "井之頭五郎"
 groups:

@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400104/40003961/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "火・水・金・土・日 17:00 - 23:00 L.O. 料理22:30 月・木 定休日 ◆営業日営業日は予約カレンダーをご確認ください。ページ下記にお店からのお願い、ご了承いただきたい旨を記載しております。ご一読のほど、お願いいたします。"
 lat: 33.5898988
 lng: 130.4017509
+tabelog_score: 3.55
 members:
   - "井之頭五郎"
 groups:

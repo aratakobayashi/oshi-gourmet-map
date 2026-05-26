@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230113/23011919/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・水・木・金・土・日 17:00 - 23:30 L.O. 料理23:00 火 定休日 【営業時間】 17:00～23:30 (L.O 23:00) ※仕入れの都合により、材料が無くなりましたら、時間に関係なく閉店することがあります。【定休日】 毎週火曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.1851045
 lng: 136.8998438
+tabelog_score: 3.53
 members:
   - "井之頭五郎"
 groups:

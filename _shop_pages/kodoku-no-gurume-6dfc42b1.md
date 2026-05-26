@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14064517/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/radX6AzCuOaP0GhOmkCuihfi8JF.jpg"
 source_type: "drama"
+business_hours: "月・火・木・金・土・日 11:30 - 15:00 L.O. 料理14:00 17:00 - 20:00 L.O. 料理19:00 水 定休日 ■ 営業時間受付時間11:30～13:00受付時間17:00～19:00※予約の関係で受付時間が変わることがございますので予めご了承ください。"
 lat: 35.4503381
 lng: 139.6343802
+tabelog_score: 3.58
 members:
   - "井之頭五郎"
 groups:

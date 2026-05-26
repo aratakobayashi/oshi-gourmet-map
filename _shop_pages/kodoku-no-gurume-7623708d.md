@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/hokkaido/A0104/A010401/1014057/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "火・水・木・金・土 17:00 - 21:00 L.O. 20:30 月・日・祝日 定休日 当面の間、最終入店時刻は20:15まで、ラストオーダー20:30、21:00閉店となります。【定休日】 日曜日、月曜日、祝日、夏季休業、年末年始 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 43.770625
 lng: 142.3649743
+tabelog_score: 3.55
 members:
   - "井之頭五郎"
 groups:

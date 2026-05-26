@@ -17,8 +17,10 @@ source_video_url: "https://www.youtube.com/watch?v=hQRDpsQiuZc"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13189492/"
 thumbnail_url: "https://img.youtube.com/vi/hQRDpsQiuZc/hqdefault.jpg"
+business_hours: "17:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7095155
 lng: 139.7335636
+tabelog_score: 3.24
 members:
   - "渡辺翔太"
 groups:

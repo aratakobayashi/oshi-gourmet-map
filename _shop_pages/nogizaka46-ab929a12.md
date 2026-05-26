@@ -12,8 +12,10 @@ price_range: "～￥999"
 source_video_title: "スガキヤ イオンナゴヤドーム前店"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230110/23009416/"
+business_hours: "10:00 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.187126539119085
 lng: 136.944235883041
+tabelog_score: 3.07
 groups:
   - "nogizaka46"
 affiliate_links:

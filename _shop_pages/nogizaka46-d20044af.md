@@ -12,8 +12,10 @@ price_range: "-"
 source_video_title: "栃木県足利【何度目の青空か？／帰り道は遠回りしたくなる】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9014646/"
+business_hours: "火・木・金・土・日 11:00 - 18:30 月・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.33446603820077
 lng: 139.45130868120359
+tabelog_score: 3.24
 groups:
   - "nogizaka46"
 affiliate_links:

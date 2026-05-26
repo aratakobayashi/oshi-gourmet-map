@@ -12,8 +12,10 @@ price_range: "-"
 source_video_title: "神奈川県三浦市三崎【シャキイズム・無口なライオン・あの教室】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1406/A140603/14023236/"
+business_hours: "09:00 - 17:00 ■ 定休日元旦 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.14094633820602
 lng: 139.61643797787042
+tabelog_score: 3.28
 groups:
   - "nogizaka46"
 affiliate_links:

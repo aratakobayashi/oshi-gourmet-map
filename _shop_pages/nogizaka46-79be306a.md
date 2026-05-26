@@ -12,8 +12,10 @@ price_range: "-"
 source_video_title: "凍み天"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/miyagi/A0401/A040101/4012335/"
+business_hours: "■営業時間9:00～21:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.26028411865941
 lng: 140.882243171497
+tabelog_score: 3.42
 groups:
   - "nogizaka46"
 affiliate_links:

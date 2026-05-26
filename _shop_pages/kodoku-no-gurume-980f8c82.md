@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/aichi/A2304/A230403/23007247/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uV4Q3V9No9tNiyAx0Rlm6qTuaB5.jpg"
 source_type: "drama"
+business_hours: "11:30 - 14:30 L.O. 14:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.7150958
 lng: 136.9300341
+tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

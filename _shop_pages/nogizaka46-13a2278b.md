@@ -13,8 +13,10 @@ price_range: "～￥999"
 source_video_title: "思い出横丁【夏のfree&easy】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13006720/"
+business_hours: "月・火・水・木・金・土 24時間営業 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.69311903868714
 lng: 139.69946513455145
+tabelog_score: 3.49
 groups:
   - "nogizaka46"
 affiliate_links:

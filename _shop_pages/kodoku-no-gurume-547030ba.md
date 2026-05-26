@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gifu/A2104/A210403/21000415/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6Axv8oGq8bcvrXNp46Q2j5FZPcw.jpg"
 source_type: "drama"
+business_hours: "09:00 - 21:30 ■ 定休日第１，３水曜日"
 lat: 35.8064271
 lng: 137.2433187
+tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

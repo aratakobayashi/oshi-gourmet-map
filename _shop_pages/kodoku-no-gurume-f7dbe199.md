@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/ishikawa/A1704/A170403/17003854/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "11:30 - 13:30 17:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.2305548
 lng: 136.9125817
+tabelog_score: 3.21
 members:
   - "井之頭五郎"
 groups:

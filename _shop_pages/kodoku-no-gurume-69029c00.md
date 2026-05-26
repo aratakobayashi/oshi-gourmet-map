@@ -14,8 +14,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/hokkaido/A0107/A010701/1005624/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "10:00 - 18:00 ■ 営業時間[夏期]10:00～18:00 [冬季]10:00～17:0010:00～17:00（日・祝）レストランは、11:00より（L.O.16:00）■ 定休日不定休"
 lat: 42.8209335
 lng: 141.6509612
+tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

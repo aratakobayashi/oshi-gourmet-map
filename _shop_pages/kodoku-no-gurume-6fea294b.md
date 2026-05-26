@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/gunma/A1005/A100501/10005946/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/57R4hORnb4QwdunrixNu5hozPbs.jpg"
 source_type: "drama"
+business_hours: "11:30 - 14:00 17:00 - 20:00 ■ 営業時間11:30頃～14:00頃17:00頃～20:00頃■ 定休日３の付く日（3日･13日･23日）、臨時休業あり 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.210374
 lng: 138.7963831
+tabelog_score: 3.51
 members:
   - "井之頭五郎"
 groups:

@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/miyagi/A0401/A040102/4003262/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
+business_hours: "月・火・水・木・金・土 11:30 - 14:00 L.O. 料理13:30 17:30 - 19:00 L.O. 料理18:30 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.2677554
 lng: 140.8691498
+tabelog_score: 3.65
 members:
   - "井之頭五郎"
 groups:

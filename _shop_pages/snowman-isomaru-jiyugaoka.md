@@ -18,8 +18,10 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
 thumbnail_url: "https://img.youtube.com/vi/8zvSYQivscg/hqdefault.jpg"
 seating_note: "SnowManが座った席は、2階の座敷窓際のお席。"
+business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 05:00"
 lat: 35.6076524
 lng: 139.6675582
+tabelog_score: 3.08
 members:
   - "阿部亮平"
 groups:

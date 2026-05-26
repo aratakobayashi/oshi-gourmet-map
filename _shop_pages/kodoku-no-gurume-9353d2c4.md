@@ -15,8 +15,10 @@ group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131103/13100691/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/4foWMUfncEbmHOOicHEd49ldUtA.jpg"
 source_type: "drama"
+business_hours: "月 18:00 - 22:00 L.O. 21:15 火・水・木・金 11:30 - 14:00 L.O. 13:30 18:00 - 22:00 L.O. 21:15 土 18:00 - 21:00 L.O. 20:15 日・祝日 定休日 ■ 定休日土曜不定休 ※鳥越祭の時は名物カツサンドのみ販売土曜日不定休年末年始のお休み 12月28日~1月4日まで お休みとさせて頂きます"
 lat: 35.7125805
 lng: 139.7800712
+tabelog_score: 3.47
 members:
   - "井之頭五郎"
 groups:
