@@ -2710,6 +2710,39 @@ body {
   color: var(--color-text-muted);
   line-height: 1.6;
 }
+.shop-hero__kpi {
+  display: flex;
+  gap: 12px;
+}
+.shop-hero__kpi-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--color-bg-alt, #f9f9f9);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+.shop-hero__kpi-label {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.shop-hero__kpi-value {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--color-text);
+  line-height: 1.2;
+}
+.shop-hero__kpi-link {
+  font-size: 0.72rem;
+  color: var(--color-primary);
+  margin-top: 2px;
+}
+.shop-hero__kpi-link:hover { text-decoration: underline; }
+
 .shop-hero__meta {
   list-style: none;
   display: flex;

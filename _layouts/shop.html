@@ -99,11 +99,27 @@ layout: default
       <h1 class="shop-hero__name">{{ s.name }}</h1>
       {% if s.description %}<p class="shop-hero__desc">{{ s.description }}</p>{% endif %}
 
+      {% if s.tabelog_score or s.price_range %}
+      <div class="shop-hero__kpi">
+        {% if s.tabelog_score %}
+        <div class="shop-hero__kpi-item">
+          <span class="shop-hero__kpi-label">食べログ</span>
+          <span class="shop-hero__kpi-value">⭐ {{ s.tabelog_score }}</span>
+          {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__kpi-link" target="_blank" rel="noopener">詳細→</a>{% endif %}
+        </div>
+        {% endif %}
+        {% if s.price_range %}
+        <div class="shop-hero__kpi-item">
+          <span class="shop-hero__kpi-label">価格帯</span>
+          <span class="shop-hero__kpi-value">{{ s.price_range }}</span>
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+
       <ul class="shop-hero__meta">
         {% if s.address %}<li><span class="shop-hero__meta-icon">📍</span><span>{{ s.address }}</span></li>{% endif %}
-        {% if s.nearest_station %}<li><span class="shop-hero__meta-icon">🚃</span><span>{{ s.nearest_station }}</span></li>{% endif %}
-        {% if s.price_range %}<li><span class="shop-hero__meta-icon">💰</span><span>{{ s.price_range }}</span></li>{% endif %}
-        {% if s.tabelog_score %}<li><span class="shop-hero__meta-icon">⭐</span><span>食べログ <strong class="shop-hero__score">{{ s.tabelog_score }}</strong>{% if s.tabelog_url %} <a href="{{ s.tabelog_url }}" class="shop-hero__meta-link" target="_blank" rel="noopener">詳細→</a>{% endif %}</span></li>{% endif %}
+        {% if s.nearest_station %}<li><span class="shop-hero__meta-icon">🚃</span><span>{{ s.nearest_station | truncate: 30 }}</span></li>{% endif %}
         {% if s.visited_date %}<li><span class="shop-hero__meta-icon">📅</span><span>{{ s.visited_date }}訪問</span></li>{% endif %}
         {% if s.members %}<li><span class="shop-hero__meta-icon">👤</span><span>{{ s.members | join: "・" }}</span></li>{% endif %}
       </ul>
