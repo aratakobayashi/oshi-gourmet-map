@@ -93,6 +93,7 @@ layout: default
       <div class="shop-hero__badges">
         {% if s.genre %}<span class="badge badge--genre">{{ s.genre }}</span>{% endif %}
         {% if group_label %}<span class="badge" style="background:{{ hero_color }}1a;color:{{ hero_color }};border:1px solid {{ hero_color }}40">{{ group_label }}</span>{% endif %}
+        {% if s.tags %}{% for tag in s.tags %}<span class="badge badge--tag">#{{ tag }}</span>{% endfor %}{% endif %}
       </div>
 
       <h1 class="shop-hero__name">{{ s.name }}</h1>
@@ -280,6 +281,18 @@ layout: default
   </section>
   {% endif %}
 
+  <!-- 近くの他のスポット -->
+  {% if s.lat and s.lng %}
+  <section class="shop-section" id="nearby-section">
+    <div class="shop-section__header">
+      <h2 class="shop-section__title">近くの他のスポット</h2>
+      <a href="{{ '/shops/' | relative_url }}" class="shop-section__more">地図で探す →</a>
+    </div>
+    <div class="shop-related-scroll" id="nearby-shops"
+         data-lat="{{ s.lat }}" data-lng="{{ s.lng }}" data-exclude="{{ s.id }}"></div>
+  </section>
+  {% endif %}
+
   <!-- グループ MAP CTA -->
   {% if s.group %}
   <section class="post-map-cta">
@@ -335,6 +348,25 @@ document.addEventListener('DOMContentLoaded', function() {
           return s.id !== excludeId2 && s.genre === targetGenre;
         }).sort(function() { return Math.random() - 0.5; }).slice(0, 10);
         if (related2.length) genreEl.innerHTML = related2.map(function(s) { return buildShopCard(s); }).join('');
+      }
+
+      var nearbyEl = document.getElementById('nearby-shops');
+      if (nearbyEl) {
+        var shopLat = parseFloat(nearbyEl.dataset.lat);
+        var shopLng = parseFloat(nearbyEl.dataset.lng);
+        var excludeId3 = nearbyEl.dataset.exclude;
+        var nearby = shops.filter(function(s) {
+          return s.id !== excludeId3 && s.lat && s.lng
+            && haversineDistance(shopLat, shopLng, s.lat, s.lng) <= 1.0;
+        }).sort(function(a, b) {
+          return haversineDistance(shopLat, shopLng, a.lat, a.lng)
+               - haversineDistance(shopLat, shopLng, b.lat, b.lng);
+        }).slice(0, 8);
+        if (nearby.length) {
+          nearbyEl.innerHTML = nearby.map(function(s) { return buildShopCard(s); }).join('');
+        } else {
+          document.getElementById('nearby-section').style.display = 'none';
+        }
       }
     });
 });

@@ -1016,6 +1016,7 @@ img { max-width: 100%; display: block; }
 .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.72rem; font-weight: 600; background: #fce4ec; color: #c62828; }
 .badge--genre { background: var(--color-badge-genre); color: var(--color-badge-genre-text); }
 .badge--pref { background: #e3f2fd; color: #1565c0; }
+.badge--tag  { background: #f3f4f6; color: #4b5563; font-weight: 500; }
 
 .post-badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 0.78rem; font-weight: 600; background: #fce4ec; color: #c62828; margin-right: 4px; }
 .post-badge--genre { background: var(--color-badge-genre); color: var(--color-badge-genre-text); }
