@@ -57,7 +57,7 @@ GROUP_BIO = {
     'kodoku_no_gurume': '「孤独のグルメ」はテレビ東京系のドラマ。松重豊演じる井之頭五郎が全国各地の飲食店を一人で堪能する。',
     'timelesz':         'timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。',
     'heysayjump':       'Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。',
-    'kingprince':       'King & Prince（キングアンドプリンス）はSTARTO ENTERTAINMENTの男性グループ。',
+    'kingprince':       'King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。',
     'shiori':           'しおりは人気フードYouTuber。東京・全国のおすすめグルメを動画で紹介している。',
     'miruwz':           'miruwzは人気フードYouTuber。トレンドグルメから地元の名店まで幅広く発信。',
 }

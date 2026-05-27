@@ -7,7 +7,7 @@ group_label: "King & Prince"
 slug_id: kingprince-cafe
 shop_count: 6
 group_color: "#f472b6"
-group_bio: "King & Prince（キングアンドプリンス）はSTARTO ENTERTAINMENTの男性グループ。"
+group_bio: "King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。"
 related_genres:
   - kingprince-shokuji
 related_groups:
