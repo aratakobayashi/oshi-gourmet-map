@@ -37,7 +37,6 @@ GROUP_LABELS = {
     'heysayjump':       'Hey! Say! JUMP',
     'kingprince':       'King & Prince',
     'shiori':           'しおり',
-    'miruwz':           'miruwz',
 }
 
 GROUP_BIO = {
@@ -59,7 +58,6 @@ GROUP_BIO = {
     'heysayjump':       'Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。',
     'kingprince':       'King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。',
     'shiori':           '「しおりのなんとなく日常」は女性ひとり飲み・ソロ活グルメを発信するYouTubeチャンネル。居酒屋や飲み歩き動画が人気で登録者数35万人超。',
-    'miruwz':           'miruwzは人気フードYouTuber。トレンドグルメから地元の名店まで幅広く発信。',
 }
 
 GROUP_COLORS = {
@@ -81,7 +79,6 @@ GROUP_COLORS = {
     'ginga':            '#8b5cf6',
     'timelesz':         '#0ea5e9',
     'shiori':           '#f43f5e',
-    'miruwz':           '#06b6d4',
 }
 
 GENRE_EMOJI = {
