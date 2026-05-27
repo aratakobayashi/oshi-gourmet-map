@@ -53,7 +53,7 @@ GROUP_BIO = {
     'nogizaka46':       '乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。',
     'sakurazaka46':     '櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。',
     'hinatazaka46':     '日向坂46は秋元康プロデュースの女性アイドルグループ。メンバーのグルメ発信が活発。',
-    'ginga':            '「銀河チャンネル」は中丸雄一（KAT-TUN）によるYouTubeチャンネル。東京を中心にこだわりのグルメを紹介。',
+    'ginga':            '中丸雄一（KAT-TUN）の個人YouTubeチャンネル「中丸銀河ちゃんねる」。ゲストを招いた対談企画が人気。',
     'kodoku_no_gurume': '「孤独のグルメ」はテレビ東京系のドラマ。松重豊演じる井之頭五郎が全国各地の飲食店を一人で堪能する。',
     'timelesz':         'timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。',
     'heysayjump':       'Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。',
