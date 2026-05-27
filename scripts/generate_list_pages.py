@@ -41,7 +41,7 @@ GROUP_LABELS = {
 }
 
 GROUP_BIO = {
-    'yonino':           'よにのちゃんねるは、矢吹奈子・本田仁美・宮脇咲良・坂口渚沙の4人によるYouTubeチャンネル。グルメ動画が大人気。',
+    'yonino':           '二宮和也（嵐）・中丸雄一（KAT-TUN）・山田涼介（Hey! Say! JUMP）・菊池風磨（timelesz）の4人によるYouTubeチャンネル。グルメ企画が人気。',
     'snowman':          'Snow ManはSTARTO ENTERTAINMENTの9人組男性アイドルグループ。メンバーが各地の名店を訪れる動画・番組が多い。',
     'sixtones':         'SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。',
     'naniwa':           'なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。',

@@ -7,7 +7,7 @@ group_label: "よにのちゃんねる"
 slug_id: yonino-cafe
 shop_count: 22
 group_color: "#14b8a6"
-group_bio: "よにのちゃんねるは、矢吹奈子・本田仁美・宮脇咲良・坂口渚沙の4人によるYouTubeチャンネル。グルメ動画が大人気。"
+group_bio: "二宮和也（嵐）・中丸雄一（KAT-TUN）・山田涼介（Hey! Say! JUMP）・菊池風磨（timelesz）の4人によるYouTubeチャンネル。グルメ企画が人気。"
 related_genres:
   - yonino-washoku
   - yonino-others
