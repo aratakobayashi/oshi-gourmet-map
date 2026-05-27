@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% assign all_shops = site.data.shops | where: "group", page.group | where: "genre", page.genre %}
+{% assign open_shops = all_shops | where_exp: "s", "s.closed != true" %}
+{% assign shop_ids = open_shops | map: "id" | join: "," %}
+{% assign closed_count = all_shops | size | minus: open_shops.size %}
+
+<div class="container" style="padding-top:1.5rem">
+
+  <!-- パンくず -->
+  <nav class="breadcrumb" aria-label="breadcrumb">
+    <a href="{{ '/' | relative_url }}">トップ</a>
+    <span>›</span>
+    <a href="{{ '/shops/' | relative_url }}">お店一覧</a>
+    <span>›</span>
+    <span>{{ page.title }}</span>
+  </nav>
+
+  <!-- ヘッダー -->
+  <div class="list-hero" style="margin:1.5rem 0 1rem">
+    <div class="list-hero__badges">
+      {% if page.group_color %}
+        <span class="badge" style="background:{{ page.group_color }}1a;color:{{ page.group_color }};border:1px solid {{ page.group_color }}40">{{ page.group_label }}</span>
+      {% else %}
+        <span class="badge badge--genre">{{ page.group_label }}</span>
+      {% endif %}
+      <span class="badge badge--genre">{{ page.genre }}</span>
+    </div>
+    <h1 class="list-hero__title" style="font-size:1.4rem;font-weight:700;margin:.5rem 0 .25rem">{{ page.title }}</h1>
+    <p class="list-hero__count" style="color:#6b7280;font-size:.9rem">
+      {{ open_shops | size }}件{% if closed_count > 0 %}（閉店{{ closed_count }}件を除く）{% endif %}
+    </p>
+    {% if page.description %}
+    <p style="margin-top:.5rem;color:#374151;font-size:.95rem">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+</div>
+
+<!-- 店舗グリッド -->
+<div class="container">
+  <div class="inline-shop-grid" data-shop-ids="{{ shop_ids }}"></div>
+</div>
+
+<!-- 関連リスト -->
+{% if page.related_genres or page.related_groups %}
+<div class="container" style="margin-top:2.5rem">
+  <h2 style="font-size:1rem;font-weight:700;margin-bottom:.75rem;color:#374151">関連する一覧</h2>
+  <div style="display:flex;flex-wrap:wrap;gap:.5rem">
+    {% for slug in page.related_genres %}
+      {% assign rel = site.list_pages | where: "slug_id", slug | first %}
+      {% if rel %}
+        <a href="{{ rel.url | relative_url }}" class="badge badge--tag" style="text-decoration:none;padding:4px 12px">{{ rel.title }}</a>
+      {% endif %}
+    {% endfor %}
+    {% for slug in page.related_groups %}
+      {% assign rel = site.list_pages | where: "slug_id", slug | first %}
+      {% if rel %}
+        <a href="{{ rel.url | relative_url }}" class="badge badge--tag" style="text-decoration:none;padding:4px 12px">{{ rel.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<div class="container" style="margin-top:2rem;padding-bottom:3rem">
+  <a href="{{ '/shops/' | relative_url }}" style="color:#6b7280;font-size:.9rem">← お店一覧に戻る</a>
+</div>

@@ -1,0 +1,18 @@
+---
+title: "乃木坂46が行ったスイーツ12選"
+description: "乃木坂46のメンバーが実際に訪れたスイーツスポットを12件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+group: nogizaka46
+genre: スイーツ
+group_label: "乃木坂46"
+slug_id: nogizaka46-sweets
+shop_count: 12
+group_color: "#ef4444"
+related_genres:
+  - nogizaka46-cafe
+  - nogizaka46-shokuji
+  - nogizaka46-ramen
+related_groups:
+  - equal-love-sweets
+  - notme-sweets
+  - heysayjump-sweets
+---

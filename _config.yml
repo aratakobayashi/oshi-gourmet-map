@@ -14,6 +14,9 @@ collections:
   shop_pages:
     output: true
     permalink: /shops/:name/
+  list_pages:
+    output: true
+    permalink: /list/:name/
 
 # プラグイン（GitHub Pages対応）
 plugins:
@@ -33,6 +36,11 @@ defaults:
       type: "shop_pages"
     values:
       layout: "shop"
+  - scope:
+      path: ""
+      type: "list_pages"
+    values:
+      layout: "list"
 
 # 除外ファイル
 exclude:
