@@ -6,6 +6,7 @@ last_modified_at: 2026-05-27
 description: "乃木坂46・Hey!Say!JUMP・=LOVE・not me・タイムレス・King & Princeなどが実際に訪れたスイーツ・和菓子・かき氷・プリン店を56件まとめました。浅草・川越・鎌倉・熱海・原宿の名店から全国のご当地スイーツまで、推し活・聖地巡礼・旅行プランに使えるガイドです。"
 group: nogizaka46
 genre: スイーツ
+shop_count: 56
 article_type: genre
 prefecture: 東京都
 tags: [スイーツ, 聖地巡礼, グルメ, 乃木坂46, "Hey!Say!JUMP", "=LOVE", not me, タイムレス, "King & Prince", 推し活, かき氷, 和菓子, 熱海]

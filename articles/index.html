@@ -18,12 +18,36 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
 {% assign featured = _featured_candidates.first | default: site.posts.first %}
 
 <style>
-.ap-genre-nav{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:28px}
-@media(min-width:640px){.ap-genre-nav{grid-template-columns:repeat(6,1fr)}}
-.ap-genre-card{display:flex;flex-direction:column;align-items:center;gap:6px;padding:18px 8px;background:#1a1a2e;border-radius:12px;text-decoration:none;border:1px solid rgba(255,255,255,.1);transition:transform .15s,border-color .15s,background .15s}
-.ap-genre-card:hover{transform:translateY(-3px);border-color:rgba(255,255,255,.3);background:#252540}
-.ap-genre-card__icon{font-size:1.8rem;line-height:1}
-.ap-genre-card__name{font-size:.82rem;color:#e2e8f0;font-weight:700;text-align:center}
+/* ── マガジン型セクションラップ ── */
+.ap-sw { padding: 52px 0; }
+.ap-sw--genre  { background: #fff7ed; border-top: 2px solid #fed7aa; border-bottom: 2px solid #fed7aa; }
+.ap-sw--area   { background: #f5f3ff; border-top: 2px solid #ede9fe; border-bottom: 2px solid #ede9fe; }
+.ap-sw--course { background: #f0fdf4; border-top: 2px solid #bbf7d0; border-bottom: 2px solid #bbf7d0; }
+.ap-sw--member { background: #eff6ff; border-top: 2px solid #bfdbfe; border-bottom: 2px solid #bfdbfe; }
+.ap-sw--season { background: #fdf4ff; border-top: 2px solid #e9d5ff; border-bottom: 2px solid #e9d5ff; }
+.ap-sw--filtered { padding: 48px 0 80px; }
+@media (max-width: 600px) { .ap-sw { padding: 32px 0; } }
+
+/* ── セクションヘッダーの境界線を背景色に合わせる ── */
+.ap-sw--genre  .ap-section__header { border-bottom-color: #fed7aa; }
+.ap-sw--area   .ap-section__header { border-bottom-color: #c4b5fd; }
+.ap-sw--course .ap-section__header { border-bottom-color: #86efac; }
+.ap-sw--member .ap-section__header { border-bottom-color: #93c5fd; }
+.ap-sw--season .ap-section__header { border-bottom-color: #d8b4fe; }
+
+/* ── ジャンルナビカード（アンバー背景向け） ── */
+.ap-genre-nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 0; }
+@media (min-width: 640px) { .ap-genre-nav { grid-template-columns: repeat(6, 1fr); } }
+.ap-genre-card { display: flex; flex-direction: column; align-items: center; gap: 5px; padding: 20px 10px 16px; background: #fff; border-radius: 14px; text-decoration: none; border: 1.5px solid #fed7aa; transition: transform .15s, border-color .15s, box-shadow .15s; }
+.ap-genre-card:hover { transform: translateY(-3px); border-color: #f97316; box-shadow: 0 6px 20px rgba(249,115,22,.15); }
+.ap-genre-card__icon { font-size: 2rem; line-height: 1; }
+.ap-genre-card__name { font-size: .85rem; color: #7c2d12; font-weight: 800; text-align: center; }
+.ap-genre-card__count { font-size: .75rem; color: #b45309; font-weight: 700; background: #fff7ed; padding: 1px 8px; border-radius: 999px; }
+
+/* ── ヒーロー統計バー ── */
+.ap-hero__stats { display: flex; justify-content: center; gap: 24px; margin-top: 18px; flex-wrap: wrap; }
+.ap-hero__stat { font-size: .78rem; color: #666; display: flex; align-items: center; gap: 5px; }
+.ap-hero__stat strong { font-size: 1.1rem; font-weight: 900; color: #1a1a2e; }
 </style>
 
 <!-- ページヘッダー -->
@@ -32,6 +56,11 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
     <p class="ap-hero__eyebrow">ARTICLES</p>
     <h1 class="ap-hero__title">特集記事</h1>
     <p class="ap-hero__sub">推しが選んだグルメを、エリア・ジャンル・グループで探す</p>
+    <div class="ap-hero__stats">
+      <span class="ap-hero__stat"><strong>{{ site.posts.size }}</strong> 本の記事</span>
+      <span class="ap-hero__stat"><strong>{{ genre_posts.size }}</strong> ジャンル</span>
+      <span class="ap-hero__stat"><strong>{{ matome_posts.size }}</strong> グループ記事</span>
+    </div>
   </div>
 </section>
 
@@ -40,12 +69,12 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
   <div class="container">
     <div class="ap-tabs" id="ap-tabs">
       <button class="ap-tab ap-tab--active" data-type="">すべて</button>
-      <button class="ap-tab" data-type="matome">グループまとめ <span class="ap-tab__count">{{ matome_posts.size }}</span></button>
-      <button class="ap-tab" data-type="area">エリア別 <span class="ap-tab__count">{{ area_posts.size }}</span></button>
-      <button class="ap-tab" data-type="genre">ジャンル別 <span class="ap-tab__count">{{ genre_posts.size }}</span></button>
-      {% if course_posts.size > 0 %}<button class="ap-tab" data-type="course">コース提案 <span class="ap-tab__count">{{ course_posts.size }}</span></button>{% endif %}
-      {% if member_posts.size > 0 %}<button class="ap-tab" data-type="member">メンバー特集 <span class="ap-tab__count">{{ member_posts.size }}</span></button>{% endif %}
-      {% if season_posts.size > 0 %}<button class="ap-tab" data-type="season">季節・シーン <span class="ap-tab__count">{{ season_posts.size }}</span></button>{% endif %}
+      <button class="ap-tab" data-type="matome">📚 グループまとめ <span class="ap-tab__count">{{ matome_posts.size }}</span></button>
+      <button class="ap-tab" data-type="area">📍 エリア別 <span class="ap-tab__count">{{ area_posts.size }}</span></button>
+      <button class="ap-tab" data-type="genre">🍜 ジャンル別 <span class="ap-tab__count">{{ genre_posts.size }}</span></button>
+      {% if course_posts.size > 0 %}<button class="ap-tab" data-type="course">🗺️ コース提案 <span class="ap-tab__count">{{ course_posts.size }}</span></button>{% endif %}
+      {% if member_posts.size > 0 %}<button class="ap-tab" data-type="member">⭐ メンバー特集 <span class="ap-tab__count">{{ member_posts.size }}</span></button>{% endif %}
+      {% if season_posts.size > 0 %}<button class="ap-tab" data-type="season">🌸 季節・シーン <span class="ap-tab__count">{{ season_posts.size }}</span></button>{% endif %}
     </div>
     <!-- グループフィルターチップ -->
     {% assign all_post_groups = site.posts | map: 'group' | uniq | compact %}
@@ -61,117 +90,187 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
   </div>
 </div>
 
-<div class="container ap-body">
+<!-- ====== すべて表示 ====== -->
+<div id="view-all" class="ap-view">
 
-  <!-- ====== すべて表示 ====== -->
-  <div class="ap-view" id="view-all">
+  <!-- ジャンル別（アンバー背景・最上部に配置） -->
+  {% if genre_posts.size > 0 %}
+  <div class="ap-sw ap-sw--genre" data-section="genre">
+    <div class="container">
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">ジャンル別特集</h2>
+          <p class="ap-section__desc">居酒屋・ラーメン・カフェ・スイーツ・焼肉・和食など{{ genre_posts.size }}ジャンルで探す</p>
+        </div>
+        <div class="ap-genre-nav">
+          {% for post in genre_posts %}
+            {% assign gicon = '🍽️' %}{% assign gcount = post.shop_count %}
+            {% for pair in genre_icons %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.genre %}{% assign gicon = kv[1] %}{% endif %}{% endfor %}
+            <a href="{{ post.url | relative_url }}" class="ap-genre-card">
+              <span class="ap-genre-card__icon">{{ gicon }}</span>
+              <span class="ap-genre-card__name">{{ post.genre | default: post.title }}</span>
+              {% if gcount %}<span class="ap-genre-card__count">{{ gcount }}選</span>{% endif %}
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </div>
+  {% endif %}
 
-    <!-- フィーチャード記事 -->
-    {% if featured %}
-      {% assign fc = '#e8537a' %}
-      {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == featured.group %}{% assign fc = kv[1] %}{% endif %}{% endfor %}
-      {% assign flabel = featured.group %}
-      {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == featured.group %}{% assign flabel = kv2[1] %}{% endif %}{% endfor %}
-      <div class="ap-featured">
-        <a href="{{ featured.url | relative_url }}" class="ap-featured__link" style="--fc: {{ fc }}">
-          <div class="ap-featured__thumb">
-            {% if featured.thumbnail_video_id %}
-              <img src="https://img.youtube.com/vi/{{ featured.thumbnail_video_id }}/mqdefault.jpg" alt="{{ featured.title }}" loading="eager">
-            {% elsif featured.thumbnail %}
-              <img src="{{ featured.thumbnail }}" alt="{{ featured.title }}" loading="eager">
-            {% else %}
-              <div class="ap-featured__thumb-placeholder" style="background: linear-gradient(135deg, #1a1a2e 0%, {{ fc }} 100%)">🍽️</div>
-            {% endif %}
-            {% assign _now_ts = 'now' | date: '%s' | plus: 0 %}{% assign _post_ts = featured.date | date: '%s' | plus: 0 %}{% assign _diff = _now_ts | minus: _post_ts | divided_by: 86400 %}{% if _diff < 30 %}<span class="ap-featured__badge">NEW</span>{% endif %}
-          </div>
-          <div class="ap-featured__body">
-            <div class="ap-featured__meta">
-              {% if flabel and flabel != "" %}<span class="ap-featured__group" style="color:{{ fc }}">{{ flabel }}</span>{% endif %}
-              {% if featured.article_type == "matome" %}<span class="ap-featured__area-tag">まとめ</span>
-              {% elsif featured.article_type == "area" %}<span class="ap-featured__area-tag">エリア別</span>
-              {% elsif featured.article_type == "genre" %}<span class="ap-featured__area-tag">ジャンル別</span>
-              {% elsif featured.article_type == "course" %}<span class="ap-featured__area-tag">コース提案</span>
-              {% elsif featured.article_type == "member" %}<span class="ap-featured__area-tag">メンバー特集</span>
-              {% elsif featured.article_type == "season" %}<span class="ap-featured__area-tag">季節・シーン</span>{% endif %}
-              <time class="ap-featured__date">{{ featured.date | date: "%Y.%m.%d" }}</time>
+  <!-- フィーチャード + グループ別まとめ（白背景） -->
+  <div class="ap-sw" data-section="matome">
+    <div class="container">
+
+      <!-- フィーチャード記事 -->
+      {% if featured %}
+        {% assign fc = '#e8537a' %}
+        {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == featured.group %}{% assign fc = kv[1] %}{% endif %}{% endfor %}
+        {% assign flabel = featured.group %}
+        {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == featured.group %}{% assign flabel = kv2[1] %}{% endif %}{% endfor %}
+        <div class="ap-featured">
+          <a href="{{ featured.url | relative_url }}" class="ap-featured__link" style="--fc: {{ fc }}">
+            <div class="ap-featured__thumb">
+              {% if featured.thumbnail_video_id %}
+                <img src="https://img.youtube.com/vi/{{ featured.thumbnail_video_id }}/mqdefault.jpg" alt="{{ featured.title }}" loading="eager">
+              {% elsif featured.thumbnail %}
+                <img src="{{ featured.thumbnail }}" alt="{{ featured.title }}" loading="eager">
+              {% else %}
+                <div class="ap-featured__thumb-placeholder" style="background: linear-gradient(135deg, #1a1a2e 0%, {{ fc }} 100%)">🍽️</div>
+              {% endif %}
+              {% assign _now_ts = 'now' | date: '%s' | plus: 0 %}{% assign _post_ts = featured.date | date: '%s' | plus: 0 %}{% assign _diff = _now_ts | minus: _post_ts | divided_by: 86400 %}{% if _diff < 30 %}<span class="ap-featured__badge">NEW</span>{% endif %}
             </div>
-            <h2 class="ap-featured__title">{{ featured.title }}</h2>
-            {% if featured.description %}<p class="ap-featured__desc">{{ featured.description | truncate: 120 }}</p>{% endif %}
-            {% if featured.summary %}
-              <ul class="ap-featured__summary">
-                {% for s in featured.summary limit:3 %}<li>{{ s }}</li>{% endfor %}
-              </ul>
-            {% endif %}
-            <span class="ap-featured__cta" style="background:{{ fc }}">記事を読む →</span>
-          </div>
-        </a>
-      </div>
-    {% endif %}
-
-    <!-- グループ別まとめ セクション -->
-    {% if matome_posts.size > 0 %}
-    <section class="ap-section" data-section="matome">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">グループ別まとめ</h2>
-        <p class="ap-section__desc">各グループが訪れた全店舗を網羅した完全ガイド</p>
-      </div>
-      <div class="ap-matome-grid">
-
-        <!-- 左: 1枚目（大カード） -->
-        {% assign first_post = matome_posts.first %}
-        {% assign gc = '#e8537a' %}{% assign gl = first_post.group %}
-        {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == first_post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-        {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == first_post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-        <div class="ap-matome-main">
-          <a href="{{ first_post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if first_post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ first_post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ first_post.title }}" loading="lazy">
-              {% elsif first_post.thumbnail %}<img src="{{ first_post.thumbnail }}" alt="{{ first_post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--matome">まとめ</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ first_post.date | date: "%Y.%m.%d" }}</time>
+            <div class="ap-featured__body">
+              <div class="ap-featured__meta">
+                {% if flabel and flabel != "" %}<span class="ap-featured__group" style="color:{{ fc }}">{{ flabel }}</span>{% endif %}
+                {% if featured.article_type == "matome" %}<span class="ap-featured__area-tag">まとめ</span>
+                {% elsif featured.article_type == "area" %}<span class="ap-featured__area-tag">エリア別</span>
+                {% elsif featured.article_type == "genre" %}<span class="ap-featured__area-tag">ジャンル別</span>
+                {% elsif featured.article_type == "course" %}<span class="ap-featured__area-tag">コース提案</span>
+                {% elsif featured.article_type == "member" %}<span class="ap-featured__area-tag">メンバー特集</span>
+                {% elsif featured.article_type == "season" %}<span class="ap-featured__area-tag">季節・シーン</span>{% endif %}
+                <time class="ap-featured__date">{{ featured.date | date: "%Y.%m.%d" }}</time>
               </div>
-              <h3 class="alc__title">{{ first_post.title }}</h3>
-              {% if first_post.description %}<p class="alc__desc">{{ first_post.description | truncate: 85 }}</p>{% endif %}
-              {% if first_post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ first_post.shop_ids.size }}店収録</span>{% endif %}
+              <h2 class="ap-featured__title">{{ featured.title }}</h2>
+              {% if featured.description %}<p class="ap-featured__desc">{{ featured.description | truncate: 120 }}</p>{% endif %}
+              {% if featured.summary %}
+                <ul class="ap-featured__summary">
+                  {% for s in featured.summary limit:3 %}<li>{{ s }}</li>{% endfor %}
+                </ul>
+              {% endif %}
+              <span class="ap-featured__cta" style="background:{{ fc }}">記事を読む →</span>
             </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
           </a>
         </div>
+      {% endif %}
 
-        <!-- 右: 2〜4枚目（小横カード） -->
-        <div class="ap-matome-side">
-          {% for post in matome_posts limit:3 offset:1 %}
-            {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-            {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-            {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-            <a href="{{ post.url | relative_url }}" class="alc alc--side" style="--gcolor:{{ gc }}">
+      <!-- グループ別まとめ -->
+      {% if matome_posts.size > 0 %}
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">グループ別まとめ</h2>
+          <p class="ap-section__desc">各グループが訪れた全店舗を網羅した完全ガイド</p>
+        </div>
+        <div class="ap-matome-grid">
+
+          <!-- 左: 1枚目（大カード） -->
+          {% assign first_post = matome_posts.first %}
+          {% assign gc = '#e8537a' %}{% assign gl = first_post.group %}
+          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == first_post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == first_post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+          <div class="ap-matome-main">
+            <a href="{{ first_post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
               <div class="alc__thumb">
-                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-                {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                {% if first_post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ first_post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ first_post.title }}" loading="lazy">
+                {% elsif first_post.thumbnail %}<img src="{{ first_post.thumbnail }}" alt="{{ first_post.title }}" loading="lazy">
                 {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
               <div class="alc__body">
                 <div class="alc__meta">
                   <span class="alc__type-badge alc__type-badge--matome">まとめ</span>
                   <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                  <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                  <time class="alc__date">{{ first_post.date | date: "%Y.%m.%d" }}</time>
                 </div>
-                <h3 class="alc__title">{{ post.title }}</h3>
-                </div>
-              <div class="alc__side-accent" style="background:var(--gcolor)"></div>
+                <h3 class="alc__title">{{ first_post.title }}</h3>
+                {% if first_post.description %}<p class="alc__desc">{{ first_post.description | truncate: 85 }}</p>{% endif %}
+                {% if first_post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ first_post.shop_ids.size }}店収録</span>{% endif %}
+              </div>
+              <div class="alc__accent" style="background:var(--gcolor)"></div>
             </a>
-          {% endfor %}
-        </div>
+          </div>
 
-        <!-- 5枚目以降（2列） -->
-        {% if matome_posts.size > 4 %}
-        <div class="ap-matome-extra">
-          {% for post in matome_posts offset:4 %}
+          <!-- 右: 2〜4枚目（小横カード） -->
+          <div class="ap-matome-side">
+            {% for post in matome_posts limit:3 offset:1 %}
+              {% assign gc = '#e8537a' %}{% assign gl = post.group %}
+              {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+              {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+              <a href="{{ post.url | relative_url }}" class="alc alc--side" style="--gcolor:{{ gc }}">
+                <div class="alc__thumb">
+                  {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                  {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                  {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
+                </div>
+                <div class="alc__body">
+                  <div class="alc__meta">
+                    <span class="alc__type-badge alc__type-badge--matome">まとめ</span>
+                    <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
+                    <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                  </div>
+                  <h3 class="alc__title">{{ post.title }}</h3>
+                </div>
+                <div class="alc__side-accent" style="background:var(--gcolor)"></div>
+              </a>
+            {% endfor %}
+          </div>
+
+          <!-- 5枚目以降（3列） -->
+          {% if matome_posts.size > 4 %}
+          <div class="ap-matome-extra">
+            {% for post in matome_posts offset:4 %}
+              {% assign gc = '#e8537a' %}{% assign gl = post.group %}
+              {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+              {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+              <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
+                <div class="alc__thumb">
+                  {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                  {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                  {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
+                </div>
+                <div class="alc__body">
+                  <div class="alc__meta">
+                    <span class="alc__type-badge alc__type-badge--matome">まとめ</span>
+                    <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
+                    <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                  </div>
+                  <h3 class="alc__title">{{ post.title }}</h3>
+                  {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
+                  {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
+                </div>
+                <div class="alc__accent" style="background:var(--gcolor)"></div>
+              </a>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+        </div>
+      </section>
+      {% endif %}
+
+    </div>
+  </div>
+
+  <!-- エリア別（パープル背景） -->
+  {% if area_posts.size > 0 %}
+  <div class="ap-sw ap-sw--area" data-section="area">
+    <div class="container">
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">エリア別</h2>
+          <p class="ap-section__desc">渋谷・浅草など特定エリアの聖地を徹底解説</p>
+        </div>
+        <div class="ap-grid ap-grid--area">
+          {% for post in area_posts %}
             {% assign gc = '#e8537a' %}{% assign gl = post.group %}
             {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
             {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
@@ -183,219 +282,149 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
               </div>
               <div class="alc__body">
                 <div class="alc__meta">
-                  <span class="alc__type-badge alc__type-badge--matome">まとめ</span>
+                  <span class="alc__type-badge alc__type-badge--area">エリア</span>
                   <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
                   <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
                 </div>
                 <h3 class="alc__title">{{ post.title }}</h3>
                 {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
                 {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-                </div>
+              </div>
               <div class="alc__accent" style="background:var(--gcolor)"></div>
             </a>
           {% endfor %}
         </div>
-        {% endif %}
+      </section>
+    </div>
+  </div>
+  {% endif %}
 
-      </div>
-    </section>
-    {% endif %}
-
-    <!-- エリア別 セクション -->
-    {% if area_posts.size > 0 %}
-    <section class="ap-section" data-section="area">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">エリア別</h2>
-        <p class="ap-section__desc">渋谷・浅草など特定エリアの聖地を徹底解説</p>
-      </div>
-      <div class="ap-grid ap-grid--area">
-        {% for post in area_posts %}
-          {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-              {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--area">エリア</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+  <!-- コース提案（グリーン背景） -->
+  {% if course_posts.size > 0 %}
+  <div class="ap-sw ap-sw--course" data-section="course">
+    <div class="container">
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">コース提案</h2>
+          <p class="ap-section__desc">1日で巡る聖地巡礼モデルコース</p>
+        </div>
+        <div class="ap-grid ap-grid--course">
+          {% for post in course_posts %}
+            {% assign gc = '#e8537a' %}{% assign gl = post.group %}
+            {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+            {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+            <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
+              <div class="alc__thumb">
+                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
-              <h3 class="alc__title">{{ post.title }}</h3>
-              {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
-              {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-            </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
-          </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
-
-    <!-- ジャンル別 セクション -->
-    {% if genre_posts.size > 0 %}
-    <section class="ap-section" data-section="genre">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">ジャンル別特集</h2>
-        <p class="ap-section__desc">居酒屋・ラーメン・カフェ・スイーツ・焼肉・和食など{{ genre_posts.size }}ジャンルで探す</p>
-      </div>
-      <!-- ジャンル一覧ナビ -->
-      <div class="ap-genre-nav">
-        {% for post in genre_posts %}
-          {% assign gicon = '🍽️' %}
-          {% for pair in genre_icons %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.genre %}{% assign gicon = kv[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="ap-genre-card">
-            <span class="ap-genre-card__icon">{{ gicon }}</span>
-            <span class="ap-genre-card__name">{{ post.genre | default: post.title }}</span>
-          </a>
-        {% endfor %}
-      </div>
-      <div class="ap-grid ap-grid--genre">
-        {% for post in genre_posts %}
-          {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-              {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--genre">ジャンル</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+              <div class="alc__body">
+                <div class="alc__meta">
+                  <span class="alc__type-badge alc__type-badge--course">コース</span>
+                  <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
+                  <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                </div>
+                <h3 class="alc__title">{{ post.title }}</h3>
+                {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
+                {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
               </div>
-              <h3 class="alc__title">{{ post.title }}</h3>
-              {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
-              {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-            </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
-          </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
+              <div class="alc__accent" style="background:var(--gcolor)"></div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </div>
+  {% endif %}
 
-    <!-- コース提案 セクション -->
-    {% if course_posts.size > 0 %}
-    <section class="ap-section" data-section="course">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">コース提案</h2>
-        <p class="ap-section__desc">1日で巡る聖地巡礼モデルコース</p>
-      </div>
-      <div class="ap-grid ap-grid--course">
-        {% for post in course_posts %}
-          {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-              {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--course">コース</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+  <!-- メンバー特集 -->
+  {% if member_posts.size > 0 %}
+  <div class="ap-sw ap-sw--member" data-section="member">
+    <div class="container">
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">メンバー特集</h2>
+          <p class="ap-section__desc">特定のメンバーが訪れたお店だけを厳選してご紹介</p>
+        </div>
+        <div class="ap-grid ap-grid--member">
+          {% for post in member_posts %}
+            {% assign gc = '#e8537a' %}{% assign gl = post.group %}
+            {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+            {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+            <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
+              <div class="alc__thumb">
+                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
-              <h3 class="alc__title">{{ post.title }}</h3>
-              {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
-              {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-            </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
-          </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
-
-    <!-- メンバー特集 セクション -->
-    {% if member_posts.size > 0 %}
-    <section class="ap-section" data-section="member">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">メンバー特集</h2>
-        <p class="ap-section__desc">特定のメンバーが訪れたお店だけを厳選してご紹介</p>
-      </div>
-      <div class="ap-grid ap-grid--member">
-        {% for post in member_posts %}
-          {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-              {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--member">メンバー</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+              <div class="alc__body">
+                <div class="alc__meta">
+                  <span class="alc__type-badge alc__type-badge--member">メンバー</span>
+                  <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
+                  <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                </div>
+                <h3 class="alc__title">{{ post.title }}</h3>
+                {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
+                {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
               </div>
-              <h3 class="alc__title">{{ post.title }}</h3>
-              {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
-              {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-            </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
-          </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
+              <div class="alc__accent" style="background:var(--gcolor)"></div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </div>
+  {% endif %}
 
-    <!-- 季節・シーン セクション -->
-    {% if season_posts.size > 0 %}
-    <section class="ap-section" data-section="season">
-      <div class="ap-section__header">
-        <h2 class="ap-section__title">季節・シーン別</h2>
-        <p class="ap-section__desc">夏グルメ・デート飯・ランチなどシーン別に聖地を探す</p>
-      </div>
-      <div class="ap-grid ap-grid--season">
-        {% for post in season_posts %}
-          {% assign gc = '#e8537a' %}{% assign gl = post.group %}
-          {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
-          {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
-          <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
-            <div class="alc__thumb">
-              {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
-              {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
-              {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
-            </div>
-            <div class="alc__body">
-              <div class="alc__meta">
-                <span class="alc__type-badge alc__type-badge--season">季節・シーン</span>
-                <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
-                <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+  <!-- 季節・シーン -->
+  {% if season_posts.size > 0 %}
+  <div class="ap-sw ap-sw--season" data-section="season">
+    <div class="container">
+      <section class="ap-section">
+        <div class="ap-section__header">
+          <h2 class="ap-section__title">季節・シーン別</h2>
+          <p class="ap-section__desc">夏グルメ・デート飯・ランチなどシーン別に聖地を探す</p>
+        </div>
+        <div class="ap-grid ap-grid--season">
+          {% for post in season_posts %}
+            {% assign gc = '#e8537a' %}{% assign gl = post.group %}
+            {% for pair in group_colors %}{% assign kv = pair | split: ":" %}{% if kv[0] == post.group %}{% assign gc = kv[1] %}{% endif %}{% endfor %}
+            {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
+            <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
+              <div class="alc__thumb">
+                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
+                {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
-              <h3 class="alc__title">{{ post.title }}</h3>
-              {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
-              {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
-            </div>
-            <div class="alc__accent" style="background:var(--gcolor)"></div>
-          </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
+              <div class="alc__body">
+                <div class="alc__meta">
+                  <span class="alc__type-badge alc__type-badge--season">季節・シーン</span>
+                  <span class="alc__group-tag" style="color:var(--gcolor)">{{ gl }}</span>
+                  <time class="alc__date">{{ post.date | date: "%Y.%m.%d" }}</time>
+                </div>
+                <h3 class="alc__title">{{ post.title }}</h3>
+                {% if post.description %}<p class="alc__desc">{{ post.description | truncate: 85 }}</p>{% endif %}
+                {% if post.shop_ids.size > 0 %}<span class="alc__shop-count">全{{ post.shop_ids.size }}店収録</span>{% endif %}
+              </div>
+              <div class="alc__accent" style="background:var(--gcolor)"></div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </div>
+  {% endif %}
 
-  </div><!-- /view-all -->
+</div><!-- /view-all -->
 
-  <!-- ====== タイプ別フィルター済みグリッド ====== -->
-  <div class="ap-view ap-view--filtered" id="view-filtered" style="display:none">
+<!-- ====== タイプ別フィルター済みグリッド ====== -->
+<div class="ap-sw ap-sw--filtered" id="view-filtered" style="display:none">
+  <div class="container">
     <div class="ap-grid" id="filtered-grid"></div>
     <p class="ap-empty" id="filtered-empty" style="display:none">該当する記事がありません。</p>
   </div>
-
-</div><!-- /container -->
+</div>
 
 <!-- 全記事データ（JS用） -->
 <script id="all-posts-data" type="application/json">

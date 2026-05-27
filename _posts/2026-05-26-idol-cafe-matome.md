@@ -6,6 +6,7 @@ last_modified_at: 2026-05-27
 description: "よにのちゃんねる・乃木坂46・=LOVE・SixTONES・King & Prince・Snow Manなどアイドル・芸能人が実際に訪れたカフェを87件まとめました。スペシャルティコーヒーの名店から動物カフェ・体験型まで、推し活・聖地巡礼・デートプランに使えるカフェガイドです。"
 group: yonino
 genre: カフェ
+shop_count: 87
 article_type: genre
 prefecture: 東京都
 tags: [カフェ, 聖地巡礼, グルメ, よにのちゃんねる, 乃木坂46, "=LOVE", SixTONES, "King & Prince", Snow Man, なにわ男子, 推し活, デート]

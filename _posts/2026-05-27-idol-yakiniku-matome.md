@@ -6,6 +6,7 @@ last_modified_at: 2026-05-27
 description: "孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・乃木坂46・日向坂46などが実際に訪れた焼肉・ステーキ・ホルモン店を53件まとめました。叙々苑・さわやか・ピーターラーガーから地方の名店まで、推し活・聖地巡礼に使えるグルメガイドです。"
 group: yonino
 genre: 焼肉
+shop_count: 53
 article_type: genre
 prefecture: 東京都
 tags: [焼肉, 聖地巡礼, グルメ, よにのちゃんねる, 孤独のグルメ, 亀梨和也, SixTONES, 乃木坂46, 日向坂46, "King & Prince", Snow Man, 推し活]

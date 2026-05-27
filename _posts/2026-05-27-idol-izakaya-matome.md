@@ -8,6 +8,7 @@ categories: [グルメ, 居酒屋]
 tags: [しおり, "=LOVE", なにわ男子, 乃木坂46, 孤独のグルメ, Snow Man, SixTONES, よにのちゃんねる, 亀梨和也, "King & Prince", かまいたち]
 article_type: genre
 genre: 居酒屋
+shop_count: 84
 thumbnail_video_id:
 summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を完全網羅。函館ロケ地・赤羽居酒屋街・東京名店の聖地巡礼ルートを解説。"
 ---

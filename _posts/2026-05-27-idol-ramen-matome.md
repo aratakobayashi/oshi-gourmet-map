@@ -8,6 +8,7 @@ categories: [グルメ, ラーメン]
 tags: [孤独のグルメ, 乃木坂46, 亀梨和也, "=LOVE", よにのちゃんねる, ねあじょい, SixTONES, Snow Man, なにわ男子]
 article_type: genre
 genre: ラーメン
+shop_count: 85
 thumbnail_video_id:
 summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也（11件）を軸に85店を完全網羅。博多屋台・激辛二郎系・ラーメン博物館の聖地巡礼ルートを解説。"
 ---
