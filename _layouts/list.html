@@ -2,11 +2,6 @@
 layout: default
 ---
 
-{% assign all_shops = site.data.shops | where: "group", page.group | where: "genre", page.genre %}
-{% assign open_shops = all_shops | where_exp: "s", "s.closed != true" %}
-{% assign shop_ids = open_shops | map: "id" | join: "," %}
-{% assign closed_count = all_shops | size | minus: open_shops.size %}
-
 <!-- ① ビジュアルヘッダーバナー -->
 <div class="list-banner{% unless page.group_color %} list-banner--default{% endunless %}"
      {% if page.group_color %}style="--lbanner-color:{{ page.group_color }}"{% endif %}>
@@ -24,8 +19,8 @@ layout: default
         <span class="list-banner__badge list-banner__badge--genre">{{ page.genre }}</span>
       </div>
       <h1 class="list-banner__title">{{ page.title }}</h1>
-      <p class="list-banner__count">
-        {{ open_shops | size }}件{% if closed_count > 0 %}（閉店{{ closed_count }}件を除く）{% endif %}
+      <p class="list-banner__count" id="list-shop-count">
+        {{ page.shop_count }}件
       </p>
       {% if page.description %}
         <p class="list-banner__desc">{{ page.description }}</p>
@@ -45,7 +40,9 @@ layout: default
 
 <!-- 店舗グリッド -->
 <div class="container">
-  <div class="shop-cards" id="list-shop-grid" data-shop-ids="{{ shop_ids }}"></div>
+  <div class="shop-cards" id="list-shop-grid"
+       data-group="{{ page.group }}"
+       data-genre="{{ page.genre }}"></div>
 </div>
 
 <!-- ③ 関連リスト（カード形式） -->
@@ -88,18 +85,23 @@ layout: default
 <script>
 (function() {
   var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  var el = document.getElementById('list-shop-grid');
+  if (!el) return;
+  var group = el.dataset.group;
+  var genre = el.dataset.genre;
+
   fetch(base + '/data/shops.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
-      var byId = {};
-      shops.forEach(function(s) { byId[s.id] = s; });
-      var el = document.getElementById('list-shop-grid');
-      if (!el) return;
-      var ids = el.dataset.shopIds.split(',').map(function(s) { return s.trim(); }).filter(Boolean);
-      var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
+      var matched = shops.filter(function(s) {
+        return s.group === group && s.genre === genre && !s.closed;
+      });
       if (matched.length && typeof buildShopCard === 'function') {
         el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-        el.removeAttribute('data-shop-ids');
+        el.removeAttribute('data-group');
+        el.removeAttribute('data-genre');
+        var countEl = document.getElementById('list-shop-count');
+        if (countEl) countEl.textContent = matched.length + '件';
       }
     });
 })();
