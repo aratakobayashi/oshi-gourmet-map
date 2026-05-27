@@ -7,6 +7,7 @@ group_label: "亀梨和也"
 slug_id: kamenashi-ramen
 shop_count: 11
 group_color: "#f59e0b"
+group_bio: "亀梨和也はKAT-TUNのメンバーで俳優・タレント。ドラマやバラエティで訪れる名店情報が集まる。"
 related_genres:
   - kamenashi-yakiniku
   - kamenashi-shokuji

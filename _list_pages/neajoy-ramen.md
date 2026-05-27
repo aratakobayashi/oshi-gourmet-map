@@ -7,6 +7,7 @@ group_label: "≒JOY"
 slug_id: neajoy-ramen
 shop_count: 5
 group_color: "#6366f1"
+group_bio: "≒JOY（ニアジョイ）は指原莉乃プロデュースの女性アイドルグループ。"
 related_genres:
   - neajoy-shokuji
 related_groups:

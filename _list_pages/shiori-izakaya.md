@@ -7,6 +7,7 @@ group_label: "しおり"
 slug_id: shiori-izakaya
 shop_count: 21
 group_color: "#f43f5e"
+group_bio: "しおりは人気フードYouTuber。東京・全国のおすすめグルメを動画で紹介している。"
 related_groups:
   - equal-love-izakaya
   - naniwa-izakaya

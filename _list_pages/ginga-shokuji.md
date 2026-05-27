@@ -7,6 +7,7 @@ group_label: "中丸雄一 銀河チャンネル"
 slug_id: ginga-shokuji
 shop_count: 6
 group_color: "#8b5cf6"
+group_bio: "「銀河チャンネル」は中丸雄一（KAT-TUN）によるYouTubeチャンネル。東京を中心にこだわりのグルメを紹介。"
 related_groups:
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji

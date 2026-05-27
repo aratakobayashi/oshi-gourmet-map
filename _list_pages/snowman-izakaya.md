@@ -7,6 +7,7 @@ group_label: "Snow Man"
 slug_id: snowman-izakaya
 shop_count: 5
 group_color: "#3b82f6"
+group_bio: "Snow ManはSTARTO ENTERTAINMENTの9人組男性アイドルグループ。メンバーが各地の名店を訪れる動画・番組が多い。"
 related_genres:
   - snowman-shokuji
   - snowman-washoku

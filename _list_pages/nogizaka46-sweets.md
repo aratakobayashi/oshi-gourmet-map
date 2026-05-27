@@ -7,6 +7,7 @@ group_label: "乃木坂46"
 slug_id: nogizaka46-sweets
 shop_count: 12
 group_color: "#ef4444"
+group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。"
 related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji

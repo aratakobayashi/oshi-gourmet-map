@@ -7,6 +7,7 @@ group_label: "Hey! Say! JUMP"
 slug_id: heysayjump-shokuji
 shop_count: 22
 group_color: "#10b981"
+group_bio: "Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。"
 related_genres:
   - heysayjump-sweets
   - heysayjump-washoku

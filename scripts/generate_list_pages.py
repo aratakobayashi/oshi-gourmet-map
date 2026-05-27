@@ -40,6 +40,28 @@ GROUP_LABELS = {
     'miruwz':           'miruwz',
 }
 
+GROUP_BIO = {
+    'yonino':           'よにのちゃんねるは、矢吹奈子・本田仁美・宮脇咲良・坂口渚沙の4人によるYouTubeチャンネル。グルメ動画が大人気。',
+    'snowman':          'Snow ManはSTARTO ENTERTAINMENTの9人組男性アイドルグループ。メンバーが各地の名店を訪れる動画・番組が多い。',
+    'sixtones':         'SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。',
+    'naniwa':           'なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。',
+    'kamenashi':        '亀梨和也はKAT-TUNのメンバーで俳優・タレント。ドラマやバラエティで訪れる名店情報が集まる。',
+    'kamaitachi':       'かまいたちは山内健司・濱家隆一からなる人気お笑いコンビ（吉本興業）。関西を中心にグルメ巡りを精力的に行う。',
+    'equal_love':       '=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。',
+    'notme':            '≠ME（ノットイコールミー）は指原莉乃プロデュースの女性アイドルグループ。',
+    'neajoy':           '≒JOY（ニアジョイ）は指原莉乃プロデュースの女性アイドルグループ。',
+    'nogizaka46':       '乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。',
+    'sakurazaka46':     '櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。',
+    'hinatazaka46':     '日向坂46は秋元康プロデュースの女性アイドルグループ。メンバーのグルメ発信が活発。',
+    'ginga':            '「銀河チャンネル」は中丸雄一（KAT-TUN）によるYouTubeチャンネル。東京を中心にこだわりのグルメを紹介。',
+    'kodoku_no_gurume': '「孤独のグルメ」はテレビ東京系のドラマ。松重豊演じる井之頭五郎が全国各地の飲食店を一人で堪能する。',
+    'timelesz':         'timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。',
+    'heysayjump':       'Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。',
+    'kingprince':       'King & Prince（キングアンドプリンス）はSTARTO ENTERTAINMENTの男性グループ。',
+    'shiori':           'しおりは人気フードYouTuber。東京・全国のおすすめグルメを動画で紹介している。',
+    'miruwz':           'miruwzは人気フードYouTuber。トレンドグルメから地元の名店まで幅広く発信。',
+}
+
 GROUP_COLORS = {
     'snowman':          '#3b82f6',
     'sixtones':         '#f97316',
@@ -125,6 +147,7 @@ def main():
         label = GROUP_LABELS.get(group, group)
         emoji = GENRE_EMOJI.get(genre, '🍴')
         color = GROUP_COLORS.get(group, '')
+        bio = GROUP_BIO.get(group, '')
         gslug = group_slug(group)
         eslug = genre_slug(genre)
         slug_id = f'{gslug}-{eslug}'
@@ -159,6 +182,8 @@ def main():
         ]
         if color:
             front_matter_lines.append(f'group_color: "{color}"')
+        if bio:
+            front_matter_lines.append(f'group_bio: "{bio}"')
         if related_genres:
             front_matter_lines.append('related_genres:')
             for r in related_genres:

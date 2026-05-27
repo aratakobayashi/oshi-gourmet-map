@@ -7,6 +7,7 @@ group_label: "孤独のグルメ"
 slug_id: kodoku-no-gurume-washoku
 shop_count: 33
 group_color: "#78716c"
+group_bio: "「孤独のグルメ」はテレビ東京系のドラマ。松重豊演じる井之頭五郎が全国各地の飲食店を一人で堪能する。"
 related_genres:
   - kodoku-no-gurume-shokuji
   - kodoku-no-gurume-ramen

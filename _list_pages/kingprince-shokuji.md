@@ -7,6 +7,7 @@ group_label: "King & Prince"
 slug_id: kingprince-shokuji
 shop_count: 22
 group_color: "#f472b6"
+group_bio: "King & Prince（キングアンドプリンス）はSTARTO ENTERTAINMENTの男性グループ。"
 related_genres:
   - kingprince-cafe
 related_groups:
