@@ -150,6 +150,29 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
 </section>
 {% endif %}
 
+<!-- SECTION 04: 推し×ジャンル一覧 -->
+{% assign sorted_lists = site.list_pages | sort: "shop_count" | reverse %}
+{% if sorted_lists.size > 0 %}
+<section class="landing-section landing-section--alt">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 04 / LISTS</p>
+      <h2 class="section-title">推し × ジャンルで<span class="txt-berry">絞り込む</span></h2>
+      <p class="section-desc">グループとジャンルの組み合わせから聖地を探せます</p>
+    </div>
+    <div class="list-chips">
+      {% for lp in sorted_lists limit: 24 %}
+        <a href="{{ lp.url | relative_url }}" class="list-chip">
+          {% if lp.group_color %}<span class="list-chip__dot" style="background:{{ lp.group_color }}"></span>{% endif %}
+          <span class="list-chip__label">{{ lp.group_label }} × {{ lp.genre }}</span>
+          <span class="list-chip__count">{{ lp.shop_count }}件</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <!-- SECTION 07: 使い方 -->
 <section class="landing-section">
   <div class="container">

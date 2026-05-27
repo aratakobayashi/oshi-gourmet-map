@@ -297,10 +297,15 @@ layout: default
 
   <!-- 同じメンバーが訪れたお店 -->
   {% if s.members and s.members.size > 0 %}
+  {% assign member_list_page = site.list_pages | where: "group", s.group | where: "genre", s.genre | first %}
   <section class="shop-section">
     <div class="shop-section__header">
       <h2 class="shop-section__title">同じメンバーが訪れたお店</h2>
-      <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="shop-section__more">もっと見る →</a>
+      {% if member_list_page %}
+        <a href="{{ member_list_page.url | relative_url }}" class="shop-section__more">{{ group_label }}の{{ s.genre }}一覧 →</a>
+      {% else %}
+        <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="shop-section__more">もっと見る →</a>
+      {% endif %}
     </div>
     <div class="shop-related-scroll"
          id="related-by-member"
@@ -312,10 +317,15 @@ layout: default
 
   <!-- 同じジャンルの他のお店 -->
   {% if s.genre %}
+  {% assign genre_list_page = site.list_pages | where: "group", s.group | where: "genre", s.genre | first %}
   <section class="shop-section">
     <div class="shop-section__header">
       <h2 class="shop-section__title">同じジャンルの他のお店</h2>
-      <a href="{{ '/shops/' | relative_url }}?genre={{ s.genre }}" class="shop-section__more">もっと見る →</a>
+      {% if genre_list_page %}
+        <a href="{{ genre_list_page.url | relative_url }}" class="shop-section__more">{{ s.genre }}の一覧を見る →</a>
+      {% else %}
+        <a href="{{ '/shops/' | relative_url }}?genre={{ s.genre }}" class="shop-section__more">もっと見る →</a>
+      {% endif %}
     </div>
     <div class="shop-related-scroll"
          id="related-by-genre"
