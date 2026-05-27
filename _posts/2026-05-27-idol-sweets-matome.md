@@ -1,0 +1,153 @@
+---
+layout: post
+title: "アイドル・芸能人が行ったスイーツ聖地巡礼まとめ【東京〜全国56選】"
+date: 2026-05-27
+last_modified_at: 2026-05-27
+description: "乃木坂46・Hey!Say!JUMP・=LOVE・not me・タイムレス・King & Princeなどが実際に訪れたスイーツ・和菓子・かき氷・プリン店を56件まとめました。浅草・川越・鎌倉・熱海・原宿の名店から全国のご当地スイーツまで、推し活・聖地巡礼・旅行プランに使えるガイドです。"
+group: nogizaka46
+genre: スイーツ
+article_type: genre_matome
+prefecture: 東京都
+tags: [スイーツ, 聖地巡礼, グルメ, 乃木坂46, "Hey!Say!JUMP", "=LOVE", not me, タイムレス, "King & Prince", 推し活, かき氷, 和菓子, 熱海]
+thumbnail_video_id: Lw2KlLWox6g
+summary:
+  - "乃木坂46のスイーツ12件・Hey!Say!JUMPの川越お菓子7件など全56店収録"
+  - "よにの＆SixTONES両方が行った「阿左美冷蔵」など複数グループ共通の聖地も"
+  - "熱海プリン3店（not me）・川越7店（HSJ）・鎌倉3店（=LOVE）とエリア特集が充実"
+  - "フレデリックカッセル（食べログ3.88）・すずめや（3.79）など高評価店も厳選"
+shop_ids:
+  - nogizaka46-ac5227bd-
+  - nogizaka46-hanagetsudo
+  - nogizaka46-くずきり_みのわ-
+  - kingprince-5400b983-20220813
+  - kingprince-presquile_chocolater-20221210
+  - heysayjump-b9c7e0f2-20181110
+  - heysayjump-1b4619c1-20181110
+  - equal_love-marion_crepes_原宿竹下通り-20240804
+  - equal_love-さくらの夢見屋_小町通り本店-20240809
+  - notme-熱海プリン_1st本店-20241101
+  - notme-flippers_下北沢店-20240804
+  - sixtones-阿左美冷蔵金崎本店sixtones
+  - yonino-asami-reizo-nagatoro
+  - timelesz-1f9a394d-
+  - timelesz-c10561a2-
+faq:
+  - q: "乃木坂46が行ったスイーツで食べログスコアが高い店を教えてください。"
+    a: "「すずめや」（豊島区 3.79）が最高スコアです。どら焼きの名店として地元でも人気が高く、乃木坂メンバーが訪れたことで全国区の知名度になりました。King & Princeの「フレデリックカッセル 銀座三越店」（3.88）も群を抜いて高評価で、手土産スイーツとしても人気です。"
+  - q: "Hey!Say!JUMPが行った川越のスイーツ店をまとめて教えてください。"
+    a: "「亀屋栄泉」「松陸製菓」「大玉や」「寺子屋本舗 川越店」「東洋堂」「松本製菓」の6店が川越の和菓子エリアに集中しています。川越は「小江戸」と呼ばれる観光地で、半日で推し活スイーツ巡礼ができます。"
+  - q: "not meが行った熱海のスイーツ店を教えてください。"
+    a: "「熱海プリン 1st本店」「ドライブイン 熱海プリン食堂」「又一庵謹製熱海ばたーあん」の3店が熱海に集中しています。熱海プリンは熱海を代表するご当地スイーツとして有名で、推し活を兼ねた熱海旅行の必訪スポットです。"
+  - q: "複数グループが行ったスイーツ店はありますか？"
+    a: "「阿左美冷蔵 金崎本店」（埼玉・秩父）がよにのちゃんねるとSixTONESの両方に登場しています。秩父を代表する天然氷のかき氷の聖地で、夏の推し活デートにも最適。「揚げもみじの紅葉堂」は=LOVEが本店、not meが弐番屋を訪問した広島・宮島の聖地です。"
+  - q: "推し活手土産に使えるスイーツ店を教えてください。"
+    a: "King & Princeの「フレデリックカッセル 銀座三越店」（パリ発の高級パティスリー）と「PRESQU'ILE chocolaterie」（吉祥寺のチョコレート専門店）が手土産として特におすすめです。乃木坂の「すずめや」のどら焼きも豊島区の名品として喜ばれます。"
+---
+
+**乃木坂46・Hey!Say!JUMP・=LOVE・not me・タイムレス・King & Prince**——アイドル・芸能人が実際に訪れたスイーツ・和菓子・かき氷・プリン店を全56件まとめた。**川越お菓子横丁・熱海プリン聖地・鎌倉スイーツ**と、エリアごとに推し活旅行プランが立てやすいのがこのジャンルの特徴だ。X映えする見た目の店も多く、投稿ネタとしても使いやすい。
+
+## 乃木坂46：浅草〜全国スイーツ12選
+
+乃木坂46のスイーツは**東京・浅草の老舗和菓子**と**全国ロケのご当地スイーツ**が二本柱。豊島区の**「すずめや」**（食べログ3.79）はどら焼きの名店として乃木坂メンバーお気に入りの一軒。浅草エリアでは「花月堂」「いづ美」「寿清庵」と老舗が揃い、浅草和スイーツのまとめ巡礼ができる。
+
+<div class="inline-shop-grid" data-shop-ids="nogizaka46-ac5227bd-,nogizaka46-hanagetsudo,nogizaka46-浅草_いづ美-,nogizaka46-juseian,nogizaka46-1641c66f-,nogizaka46-くずきり_みのわ-"></div>
+
+全国ロケでは長崎「白水堂」（カステラ）、浜松「春華堂」（うなぎパイ）、仙台「三全」（萩の月）、大阪「千鳥屋」と各地のご当地銘菓が登場。渋谷の「西村 道玄坂フルーツ店」は老舗フルーツパーラーとして別格の存在感だ。
+
+<div class="inline-shop-grid" data-shop-ids="nogizaka46-9c79a146-,nogizaka46-13f22aec-,nogizaka46-c062c929-,nogizaka46-522fa8ed-,nogizaka46-74933442-,nogizaka46-18581f09-"></div>
+
+---
+
+乃木坂グルメまとめ → [乃木坂46が行ったお店・グルメ完全まとめ](/articles/2026/05/21/nogizaka46-gourmet-matome/)
+
+## Hey!Say!JUMP：川越お菓子横丁7選
+
+Hey!Say!JUMPのスイーツは**全7店が川越に集中**する驚きの一点集中特集。「小江戸」として知られる川越の菓子屋横丁エリアを徹底ロケしており、食べログ3.41の「亀屋栄泉」（もろこし）、3.39の「松陸製菓」（芋菓子）など評価の高い老舗が揃う。半日で全店を巡れる推し活コースとして完成度が高い。
+
+<div class="inline-shop-grid" data-shop-ids="heysayjump-b9c7e0f2-20181110,heysayjump-1b4619c1-20181110,heysayjump-14cb2470-20181110,heysayjump-300a1c2c-20181110,heysayjump-6760425c-20181124,heysayjump-986f7fa5-20181124"></div>
+
+<div class="inline-shop-grid" data-shop-ids="heysayjump-dcaf8134-20170201"></div>
+
+---
+
+Hey!Say!JUMPグルメまとめ → [Hey!Say!JUMPが行ったお店・グルメ完全まとめ](/articles/2026/05/21/heysayjump-gourmet-matome/)
+
+## =LOVE：鎌倉・原宿・京都・広島スイーツ9選
+
+=LOVEのスイーツは**旅先ご当地スイーツ**が豊富。鎌倉では「さくらの夢見屋 小町通り本店」（和スイーツ）と「鎌倉茶々本店」（抹茶スイーツ）の2店が登場。原宿では「MARION CREPES 竹下通り店」（マリオンクレープ）と「LONG! LONGER!! LONGEST!!!」（映えクレープ）の2店でハラジュク感満点だ。
+
+<div class="inline-shop-grid" data-shop-ids="equal_love-さくらの夢見屋_小町通り本店-20240809,equal_love-鎌倉茶々本店-20240809,equal_love-marion_crepes_原宿竹下通り-20240804,equal_love-long_longer_longest_-20240804,equal_love-舟和_仲見世1号店-20240804,equal_love-舟和_仲見世2号店-20240804"></div>
+
+広島・宮島の「揚げもみじの紅葉堂 本店」は揚げもみじ饅頭の元祖として全国区の知名度。京都・祇園の「芋ぴっぴ。」は焼き芋スイーツの専門店で行列必至。金沢の「近江町コロッケ」は揚げたてが楽しめるご当地B級グルメだ。
+
+<div class="inline-shop-grid" data-shop-ids="equal_love-揚げもみじの紅葉堂_本店-20250915,equal_love-芋ぴっぴ京都祇園店-20240804,equal_love-近江町コロッケ-20240815"></div>
+
+---
+
+=LOVEグルメまとめ → [=LOVE・ねあじょいが行ったお店・グルメ完全まとめ](/articles/2026/05/21/neajoy-gourmet-matome/)
+
+## not me：熱海プリン聖地3店＋全国スイーツ5選
+
+not meのスイーツは**熱海スイーツ特集**が圧倒的。「熱海プリン 1st本店」「ドライブイン 熱海プリン食堂」「又一庵謹製 熱海ばたーあん」と熱海に3店が集中しており、推し活を兼ねた熱海旅行の鉄板コースになっている。「FLIPPER'S 下北沢店」は「奇跡のパンケーキ」で有名な人気店で、都内での推し活ランチにも最適だ。
+
+<div class="inline-shop-grid" data-shop-ids="notme-熱海プリン_1st本店-20241101,notme-ドライブイン_熱海プリン食堂-20240805,notme-又一庵謹製熱海ばたーあん-20241101,notme-flippers_下北沢店-20240804,notme-かき氷工房_雪菓-20241108,notme-シュガークレープ-20241125"></div>
+
+広島・宮島では=LOVEも訪れた**「揚げもみじの紅葉堂 弐番屋」**に登場。軽井沢「杉養蜂園」（はちみつスイーツ）も旅先グルメとして人気だ。
+
+<div class="inline-shop-grid" data-shop-ids="notme-揚げもみじの紅葉堂_弐番屋-20240812,notme-杉養蜂園_軽井沢2号店-20240814"></div>
+
+---
+
+not meグルメまとめ → [not meが行ったお店・グルメ完全まとめ](/articles/2026/05/14/notme-gourmet-matome/)
+
+## 2グループ共通：阿左美冷蔵のかき氷・揚げもみじ
+
+<mark>よにのちゃんねるとSixTONES</mark>の両方が訪れたのが埼玉・秩父の**「阿左美冷蔵 金崎本店」**。江戸時代から続く天然氷を使ったかき氷の聖地で、夏のシーズンには県外から多くの人が訪れる。SixTONESと同じ店で同じかき氷を食べるという夏の聖地巡礼として人気が高い。
+
+<mark>=LOVEとnot me</mark>が広島・宮島でそれぞれ訪問した**「揚げもみじの紅葉堂」**は本店（=LOVE）と弐番屋（not me）で2グループの足跡が重なる。
+
+<div class="inline-shop-grid" data-shop-ids="yonino-asami-reizo-nagatoro,sixtones-阿左美冷蔵金崎本店sixtones,equal_love-揚げもみじの紅葉堂_本店-20250915,notme-揚げもみじの紅葉堂_弐番屋-20240812"></div>
+
+## タイムレス・King & Prince：浅草和菓子＆銀座高級パティスリー
+
+タイムレスは浅草の和菓子を徹底的に巡っており、**「亀十」**（どら焼きの名店）・「舟和 本店」（芋ようかん）・「常盤堂雷おこし本舗」・「日光もなか」と浅草で4店をコンプリート。和菓子好きには聖地中の聖地ルートだ。
+
+King & Princeは銀座の「フレデリックカッセル 銀座三越店」（**食べログ3.88**・パリ発の高級パティスリー）と吉祥寺の「PRESQU'ILE chocolaterie」（3.62・チョコレート専門店）と、グループのセンスが光る高評価2店舗だ。
+
+<div class="inline-shop-grid" data-shop-ids="timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-,timelesz-59cd8eb8-,kingprince-5400b983-20220813,kingprince-presquile_chocolater-20221210"></div>
+
+---
+
+King & Princeグルメまとめ → [King & Princeが行ったお店・グルメ完全まとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
+
+タイムレスグルメまとめ → [タイムレスが行ったお店・グルメ完全まとめ](/articles/2026/05/21/timelesz-gourmet-matome/)
+
+## その他：よにの・SixTONES・Snow Man・ねあじょい
+
+よにのは秩父「阿左美冷蔵」に加え、銀座「福祿壽」（和菓子）とチョコレート専門店「Chocolat Trouver」が登場。SixTONESは浅草「本処 かえる本舗」と原宿「Eggs 'n Things」（パンケーキ）もラインナップ。Snow Manは神楽坂「WeLoveDonut」（ドーナツ）、ねあじょいは原宿「スイーツパラダイス」と箱根「杉養蜂園」の2店だ。
+
+<div class="inline-shop-grid" data-shop-ids="yonino-ginza-fukukuju,yonino-chocolat_trouver-20260204,sixtones-本処かえる本舗,sixtones-eggs-nthings原宿店,snowman-welovedonut-20260513,snowman-ケーキファクトリーホイップ-20181017"></div>
+
+<div class="inline-shop-grid" data-shop-ids="neajoy-スイーツパラダイス_原宿店-20240814,neajoy-杉養蜂園_箱根店-20240814,sakurazaka46-ribisco-ginza,kamenashi-銀座風香-20250809,hinatazaka46-元祖今川焼_さのや-20200405,kodoku_no_gurume-69029c00-"></div>
+
+## エリア別スイーツ聖地巡礼ルート
+
+> **浅草ルート**（6店舗）：タイムレスの「亀十」「舟和本店」「常盤堂」、乃木坂の「花月堂」「いづ美」「寿清庵」が徒歩圏内。東京最強の和スイーツ巡礼コース。半日で完結。
+>
+> **川越ルート**（6店舗）：Hey!Say!JUMP特集。「亀屋栄泉」「松陸製菓」「大玉や」などが菓子屋横丁エリアに集中。小江戸観光と組み合わせた推し活旅行に最適。
+>
+> **熱海ルート**（3店舗）：not me聖地の「熱海プリン1st本店」「ドライブイン熱海プリン食堂」「熱海ばたーあん」を1日でコンプリート。熱海温泉とのセット旅行もおすすめ。
+>
+> **鎌倉ルート**（3店舗）：=LOVEの「さくらの夢見屋」「鎌倉茶々」＋乃木坂の「くずきり みのわ」。和スイーツと鎌倉散策を組み合わせた女子旅コース。
+>
+> **秩父ルート**（1店舗）：よにの＆SixTONES両方の聖地「阿左美冷蔵 金崎本店」。夏の天然氷かき氷は行列必至なので午前中の訪問がおすすめ。
+
+すべてのスイーツ店を地図で確認 → [スイーツ一覧を地図で見る](/shops/?genre=スイーツ)
+
+## 推し活グルメ別ガイド
+
+> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【109選】](/articles/2026/05/27/idol-washoku-matome/)
+>
+> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【87選】](/articles/2026/05/26/idol-cafe-matome/)
+>
+> **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)
