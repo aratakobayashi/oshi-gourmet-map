@@ -9,14 +9,18 @@ prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区阿佐谷南3-37-9 バール・アサガヤ1F"
 nearest_station: "「阿佐ヶ谷駅」より徒歩2分"
+price_range: "￥10,000～￥14,999"
 visited_date: "2023-11-29"
 youtube_id: "SoZCXSgz8wo"
 source_video_title: "Snow Man【ミシュランの名店】極上の焼き鳥をいただこう"
 source_video_url: "https://www.youtube.com/watch?v=SoZCXSgz8wo"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13026225/"
 thumbnail_url: "https://img.youtube.com/vi/SoZCXSgz8wo/hqdefault.jpg"
+business_hours: "火・水・木・金・土 17:00 - 22:30 L.O. 22:00 月・日 定休日 ※ネタが無くなり次第早く閉める事があります。※ご利用時間は2時間程度でお願い致します。"
 lat: 35.7047
 lng: 139.6391
+tabelog_score: 3.57
 members:
   - "深澤辰哉"
   - "岩本照"

@@ -7,13 +7,17 @@ name: "福炎や"
 genre: "食事"
 prefecture: "東京都"
 address: "東京都港区新橋２丁目９−６ 4F"
+price_range: "￥5,000～￥5,999"
 visited_date: "2026-02-07"
 youtube_id: "K7CCROY8Xm4"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13047799/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000711062/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
+business_hours: "月・火・水・木・金 16:00 - 23:30 L.O. 料理22:15 ドリンク23:00 土 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 日・祝日 定休日 ■ 営業時間ご予約状況により開閉店時間の調整致します。※ご予約は16時～受け付けていますが、ご予約がない場合は17時～の営業となります。《昼宴会》人数様・ご予算、ご相談ください。日曜日・祝日のご利用のご利用につ"
 lat: 35.6668663
 lng: 139.7574154
+tabelog_score: 3.35
 members:
   - "諸橋沙夏"
 groups:

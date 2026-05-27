@@ -8,12 +8,16 @@ genre: "食事"
 prefecture: "広島県"
 city: "廿日市"
 address: "広島県廿日市市宮島町４１３"
+price_range: "￥1,000～￥1,999"
 visited_date: "2025-09-15"
 youtube_id: "0Strh5AKapM"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/hiroshima/A3402/A340202/34020635/"
 thumbnail_url: "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+business_hours: "月・水・木 13:00 - 17:00 火・金・土・日 13:00 - 17:00 L.O. 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.2975
 lng: 132.32
+tabelog_score: 3.47
 members:
   - "山本杏奈"
   - "佐々木舞香"

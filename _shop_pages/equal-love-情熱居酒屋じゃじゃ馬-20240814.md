@@ -8,12 +8,16 @@ genre: "居酒屋"
 prefecture: "福島県"
 city: "いわき市"
 address: "福島県いわき市平白銀町２−１０"
+price_range: "-"
 visited_date: "2024-08-14"
 youtube_id: "YEfEA3jOgwE"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/fukushima/A0704/A070401/7014293/"
 thumbnail_url: "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
+business_hours: "17:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.0592434
 lng: 140.8930352
+tabelog_score: 3.04
 members:
   - "諸橋沙夏"
 groups:

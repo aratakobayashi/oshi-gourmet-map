@@ -8,12 +8,16 @@ genre: "和食"
 prefecture: "東京都"
 city: "府中市"
 address: "東京都府中市美好町３丁目１−２５"
+price_range: "￥2,000～￥2,999"
 visited_date: "2024-08-15"
 youtube_id: "aD0Q4-d-Ntg"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13067969/"
 thumbnail_url: "https://img.youtube.com/vi/aD0Q4-d-Ntg/hqdefault.jpg"
+business_hours: "火・水・金・土 11:00 - 20:30 L.O. 20:00 木 11:00 - 15:00 L.O. 14:30 日 11:00 - 20:00 L.O. 19:30 月 定休日 ■ 定休日月曜日"
 lat: 35.6700214
 lng: 139.4652109
+tabelog_score: 3.39
 members:
   - "佐々木舞香"
   - "山本杏奈"

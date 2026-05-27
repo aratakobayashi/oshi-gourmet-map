@@ -8,13 +8,16 @@ genre: "食事"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市小町2-11-8"
+price_range: "￥3,000～￥3,999"
 youtube_id: "Nm_W7Ii-eW8"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%8E%8C%E5%80%89%E9%87%9C%E9%A3%AF%20%E3%81%8B%E3%81%BE%E3%81%8B%E3%81%BE%E6%9C%AC%E5%BA%97"
+tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14014112/"
 thumbnail_url: "https://img.youtube.com/vi/Nm_W7Ii-eW8/hqdefault.jpg"
+business_hours: "月・火・木・金 11:00 - 17:00 土・日 11:00 - 22:00 L.O. 21:00 水 定休日"
 lat: 35.319456
 lng: 139.5490021
+tabelog_score: 3.42
 members:
   - "新内眞衣"
   - "衛藤美彩"

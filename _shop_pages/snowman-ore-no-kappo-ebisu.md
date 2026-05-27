@@ -9,16 +9,20 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1丁目3-10 EBISU TANAKA BLDG 2F"
 nearest_station: "「恵比寿駅」より徒歩2分"
+price_range: "￥6,000～￥7,999"
 visited_date: "2026-01-21"
 youtube_id: "ueYUZJghOzw"
 source_video_title: "Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？"
 source_video_url: "https://www.youtube.com/watch?v=ueYUZJghOzw"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13308780/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
 seating_note: "SnowManが座っていた席は、カウンターのお席でした。 炉端焼きを調理している様子が目の前で楽しめるお席です。 カウンター以外にもテーブル席があります。席数は全部で42席あります。"
+business_hours: "月・火・水・木・金・土 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日・祝日 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ■不定休■混雑時は２時間制とさせていただく場合がございます。"
 lat: 35.6476
 lng: 139.7131
+tabelog_score: 3.45
 members:
   - "岩本照"
   - "深澤辰哉"

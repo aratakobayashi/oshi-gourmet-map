@@ -8,12 +8,16 @@ genre: "ラーメン"
 prefecture: "石川県"
 city: "金沢市"
 address: "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西3階"
+price_range: "￥1,000～￥1,999"
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17000958/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+business_hours: "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.5790275
 lng: 136.6465437
+tabelog_score: 3.33
 members:
   - "大谷映美里"
 groups:

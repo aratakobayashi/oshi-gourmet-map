@@ -9,15 +9,19 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区元麻布3丁目11-4"
 nearest_station: "「六本木駅」（3番出口）より徒歩10分「麻布十番駅」（4番出口）より徒歩7分"
+price_range: "￥5,000～￥5,999"
 visited_date: "2025-03-12"
 youtube_id: "Ax1f_OVispA"
 source_video_title: "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる"
 source_video_url: "https://www.youtube.com/watch?v=Ax1f_OVispA"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13001226/"
 thumbnail_url: "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg"
 seating_note: "小上がりのお席に座っていました。 富士山の絵が目印です。"
+business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 20:00 ■ 定休日1月1日、2日、3日営業時間が変更になる場合がございますので、詳細は店舗までお問い合わせください。"
 lat: 35.6544
 lng: 139.7336
+tabelog_score: 3.65
 members:
   - "岩本照"
   - "深澤辰哉"

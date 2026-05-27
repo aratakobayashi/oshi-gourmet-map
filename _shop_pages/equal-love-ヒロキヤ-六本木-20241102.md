@@ -7,13 +7,17 @@ name: "#ヒロキヤ 六本木"
 genre: "食事"
 prefecture: "東京都"
 address: "東京都港区六本木５丁目２−６ 六本木ＴＫビル 3階"
+price_range: "￥8,000～￥9,999"
 visited_date: "2024-11-02"
 youtube_id: "mUP0eCHFAoU"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13283501/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003532640/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/mUP0eCHFAoU/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 12:00 - 15:00 L.O. 料理14:30 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ■ 営業時間12:00〜なくなり次第終了17:00～23:00■定休日年中無休"
 lat: 35.6601174
 lng: 139.7352804
+tabelog_score: 3.66
 members:
   - "佐々木舞香"
   - "山本杏奈"

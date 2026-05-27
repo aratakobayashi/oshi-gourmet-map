@@ -8,12 +8,16 @@ genre: "ラーメン"
 prefecture: "東京都"
 city: "青梅市"
 address: "東京都青梅市新町４丁目21−５"
+price_range: "￥1,000～￥1,999"
 visited_date: "2025-08-29"
 youtube_id: "T8Epe6pq3e4"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1330/A133002/13297759/"
 thumbnail_url: "https://img.youtube.com/vi/T8Epe6pq3e4/hqdefault.jpg"
+business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7850971
 lng: 139.3057829
+tabelog_score: 3.07
 members:
   - "大谷映美里"
 groups:

@@ -8,13 +8,17 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区袋町5-1 Faro神楽坂1F"
+price_range: "-"
 visited_date: "2025-06-25"
 youtube_id: "0-BzQux_iIg"
 source_video_title: "#434【朝食!!】ドライブの日"
 group: "yonino"
+tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13291037/"
 thumbnail_url: "https://img.youtube.com/vi/0-BzQux_iIg/hqdefault.jpg"
+business_hours: "10:00 - 17:00 ■ 営業時間詳しい営業情報は公式インスタグラムをご覧ください。"
 lat: 35.7016
 lng: 139.7392
+tabelog_score: 3.21
 members:
   - "二宮和也"
   - "山田涼介"

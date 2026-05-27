@@ -8,14 +8,18 @@ genre: "ラーメン"
 prefecture: "東京都"
 city: "八王子市"
 address: "東京都八王子市楢原町437-1"
+price_range: "￥1,000～￥1,999"
 visited_date: "2024-02-16"
 youtube_id: "3QQBHdy3Apg"
 source_video_title: "SixTONES【八王子ラーメンを食べまくる】バクバクモグモグ動画です🍜"
 source_video_url: "https://www.youtube.com/watch?v=3QQBHdy3Apg"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13016383/"
 thumbnail_url: "https://img.youtube.com/vi/3QQBHdy3Apg/hqdefault.jpg"
+business_hours: "火・水・木・金・土・日 11:00 - 16:00 L.O. 15:40 17:00 - 20:00 L.O. 19:40 月 定休日 ■ 営業時間11:00～16:00(L.O.15:40頃)17:00～20:00(L.O.19:40頃) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.651842
 lng: 139.285633
+tabelog_score: 3.71
 members:
   - "ジェシー"
   - "京本大我"

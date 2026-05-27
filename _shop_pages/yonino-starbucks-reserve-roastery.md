@@ -8,13 +8,17 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区青葉台2-19-23"
+price_range: "-"
 visited_date: "2025-01-26"
 youtube_id: "Q2GrO9mPWIc"
 source_video_title: "#391 【ドライブ!!】経理がゴネにゴネた日"
 group: "yonino"
+tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13231942/"
 thumbnail_url: "https://img.youtube.com/vi/Q2GrO9mPWIc/hqdefault.jpg"
+business_hours: "月・火・水・金・土・日 07:00 - 22:00 L.O. 21:30 木 11:30 - 01:00 L.O. 11:30 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6523
 lng: 139.7013
+tabelog_score: 3.7
 members:
   - "二宮和也"
   - "山田涼介"

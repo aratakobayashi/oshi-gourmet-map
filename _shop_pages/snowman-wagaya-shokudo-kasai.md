@@ -9,15 +9,19 @@ prefecture: "東京都"
 city: "江戸川区"
 address: "東京都江戸川区中葛西8-23-5"
 nearest_station: "「葛西駅」より徒歩7分"
+price_range: "￥1,000～￥1,999"
 visited_date: "2025-03-05"
 youtube_id: "qSQOsjs5ve8"
 source_video_title: "Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう 笑笑"
 source_video_url: "https://www.youtube.com/watch?v=vV0iY7rR6-s"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1313/A131305/13136164/"
 thumbnail_url: "https://img.youtube.com/vi/qSQOsjs5ve8/hqdefault.jpg"
 seating_note: "4人が座ったのは、入口から左手のテーブル席ゾーンの中、真ん中の島になっているテーブル席だと思います。 ↓こちらのGoogleマップのお写真の真ん中テーブル席 座り順：右奥が深澤さん・その左隣が岩本さん・右手前がラウールさん・その左隣が目黒さん"
+business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6551
 lng: 139.8727
+tabelog_score: 3.15
 members:
   - "目黒蓮"
   - "ラウール"

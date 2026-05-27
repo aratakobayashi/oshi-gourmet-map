@@ -8,12 +8,16 @@ genre: "食事"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市淀川区西中島５丁目１６−１"
+price_range: "～￥999"
 visited_date: "2025-08-27"
 youtube_id: "eqfZmabiZ0A"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270301/27068279/"
 thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
+business_hours: "07:00 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.7313185
 lng: 135.500552
+tabelog_score: 3.25
 members:
   - "大谷映美里"
 groups:

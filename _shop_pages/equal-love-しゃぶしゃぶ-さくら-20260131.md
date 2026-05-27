@@ -8,13 +8,17 @@ genre: "食事"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区福富町西通４８"
+price_range: "￥5,000～￥5,999"
 visited_date: "2026-01-31"
 youtube_id: "QMulxshbfPI"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14094973/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003829019/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/QMulxshbfPI/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土・日・祝日 17:00 - 23:00 L.O. 料理22:30 不定休あり"
 lat: 35.4503381
 lng: 139.6343802
+tabelog_score: 3.07
 members:
   - "大谷映美里"
 groups:

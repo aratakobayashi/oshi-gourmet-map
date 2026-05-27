@@ -8,15 +8,19 @@ genre: "和食"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ6F"
+price_range: "￥5,000～￥5,999"
 visited_date: "2023-05-10"
 youtube_id: "IL6OX1NjzsM"
 source_video_title: "SixTONES - 高級うなぎを食す"
 source_video_url: "https://www.youtube.com/watch?v=Z5eW8mP8t_E"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13140080/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003297285/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/IL6OX1NjzsM/hqdefault.jpg"
+business_hours: "11:00 - 22:00 L.O. 21:00 ■ 営業時間※ヒカリエの営業により時間変動がある場合があります。■ 定休日渋谷ヒカリエに準ずる"
 lat: 35.6591
 lng: 139.7037
+tabelog_score: 3.29
 members:
   - "ジェシー"
   - "京本大我"

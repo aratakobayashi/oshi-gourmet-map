@@ -8,12 +8,16 @@ genre: "和食"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂4-2-2"
+price_range: "￥1,000～￥1,999"
 visited_date: "2025-02-16"
 youtube_id: "gs9Wm4uzulk"
 group: "yonino"
+tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13274387/"
 thumbnail_url: "https://img.youtube.com/vi/gs9Wm4uzulk/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土 11:00 - 22:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.671679
 lng: 139.735622
+tabelog_score: 3.49
 members:
   - "二宮和也"
   - "山田涼介"

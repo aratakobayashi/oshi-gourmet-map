@@ -8,12 +8,16 @@ genre: "和食"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市雪ノ下１丁目６−６"
+price_range: "-"
 visited_date: "2024-08-09"
 youtube_id: "Evw3lyphfcM"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14062183/"
 thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+business_hours: "10:00 - 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.3234843
 lng: 139.5537226
+tabelog_score: 3.24
 members:
   - "音嶋莉沙"
   - "瀧脇笙古"

@@ -8,12 +8,15 @@ genre: "食事"
 prefecture: "沖縄県"
 city: "那覇市"
 address: "沖縄県那覇市久米２丁目３−１３"
+price_range: "-"
 visited_date: "2024-08-15"
 youtube_id: "GZg8nO3EZ4E"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47009218/"
 thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 lat: 26.2164391
 lng: 127.676357
+tabelog_score: 3.15
 members:
   - "大谷映美里"
 groups:

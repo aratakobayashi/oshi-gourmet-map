@@ -8,12 +8,16 @@ genre: "カフェ"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町１４５ 横浜博覧館 3F"
+price_range: "～￥999"
 visited_date: "2024-08-12"
 youtube_id: "Dp0KTso3Suw"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14052920/"
 thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
+business_hours: "月・火・水・木・金 10:30 - 17:30 土・日・祝日 10:30 - 18:30"
 lat: 35.4438
 lng: 139.6508
+tabelog_score: 3.22
 members:
   - "齋藤樹愛羅"
   - "佐々木舞香"

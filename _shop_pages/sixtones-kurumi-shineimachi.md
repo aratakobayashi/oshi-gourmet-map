@@ -8,14 +8,17 @@ genre: "居酒屋"
 prefecture: "愛知県"
 city: "名古屋市東区"
 address: "愛知県名古屋市東区新栄1-3-24"
+price_range: "-"
 visited_date: "2024-04-26"
 youtube_id: "1enHsuNGPMQ"
 source_video_title: "SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！"
 source_video_url: "https://www.youtube.com/watch?v=1enHsuNGPMQ"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/aichi/A2303/A230301/23064111/"
 thumbnail_url: "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg"
 lat: 35.167743
 lng: 136.913842
+tabelog_score: 3.03
 members:
   - "ジェシー"
   - "京本大我"

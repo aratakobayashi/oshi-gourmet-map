@@ -8,14 +8,18 @@ genre: "ラーメン"
 prefecture: "宮崎県"
 city: "宮崎市"
 address: "宮崎県宮崎市青島２丁目９−５"
+nearest_station: "JR日豊本線・日向住吉駅 徒歩13分"
+price_range: "￥1,000～￥1,999"
 visited_date: "2025-02-22"
 youtube_id: "A55nuJrv8yE"
 source_video_title: "【至福】亀梨が10年以上通い続ける、宮崎の絶品うどん屋さんに今年もお邪魔します。"
 group: "kamenashi"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%89%8B%E6%89%93%E9%87%9C%E6%8F%9A%E3%81%92%E3%81%86%E3%81%A9%E3%82%93%20%E5%B2%A9%E8%A6%8B"
+tabelog_url: "https://tabelog.com/miyazaki/A4501/A450101/45000536/"
 thumbnail_url: "https://img.youtube.com/vi/A55nuJrv8yE/hqdefault.jpg"
+business_hours: "月・水・木 10:30 - 14:30 金・土・日 10:30 - 14:30 17:00 - 20:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 31.8011451
 lng: 131.4680352
+tabelog_score: 3.32
 members:
   - "亀梨和也"
 groups:

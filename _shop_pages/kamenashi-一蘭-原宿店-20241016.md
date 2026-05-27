@@ -8,14 +8,17 @@ genre: "ラーメン"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前６丁目５−６ 2F"
+price_range: "￥1,000～￥1,999"
 visited_date: "2024-10-16"
 youtube_id: "hLEUaWy6_kU"
 source_video_title: "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。"
 group: "kamenashi"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E8%98%AD%20%E5%8E%9F%E5%AE%BF%E5%BA%97"
+tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13125736/"
 thumbnail_url: "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg"
+business_hours: "09:00 - 22:00 L.O. 料理21:45 ※営業時間は変更になる場合がございますので、最新情報は公式HPをご確認ください年中無休"
 lat: 35.6679219
 lng: 139.7052087
+tabelog_score: 3.09
 members:
   - "亀梨和也"
 groups:

@@ -8,14 +8,18 @@ genre: "その他"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前4-31-10"
+price_range: "～￥999"
 visited_date: "2024-11-20"
 youtube_id: "QxC80mUBnpQ"
 source_video_title: "SixTONES - 都内散歩"
 source_video_url: "https://www.youtube.com/watch?v=9B0nETo07gA"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13074452/"
 thumbnail_url: "https://img.youtube.com/vi/QxC80mUBnpQ/hqdefault.jpg"
+business_hours: "11:00 - 20:00 ■ 定休日無"
 lat: 35.6698
 lng: 139.7061
+tabelog_score: 3.23
 members:
   - "ジェシー"
   - "京本大我"

@@ -8,12 +8,16 @@ genre: "スイーツ"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市東山区祇園町南側５２４ ギオン和喜ビル 2階"
+price_range: "-"
 visited_date: "2024-08-04"
 youtube_id: "YgOd8ZpFaUU"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/kyoto/A2601/A260301/26037570/"
 thumbnail_url: "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
+business_hours: "11:00 - 19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.0037
 lng: 135.7775
+tabelog_score: 3.06
 groups:
   - "equal_love"
 ---

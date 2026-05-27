@@ -8,12 +8,17 @@ genre: "その他"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区北新宿4-2-1 淀橋市場内"
+nearest_station: "JR総武線 大久保駅(北口）徒歩7分 JR山手線 新大久保駅 徒歩10分"
+price_range: "-"
 visited_date: "2025-02-05"
 youtube_id: "1cQeue2ITFU"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"
 thumbnail_url: "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土・祝日 05:00 - 14:00 L.O. 14:00 日 定休日 ■ 営業時間詳しくはHP・Instagram・Facebook・Googleをご確認ください。■ 定休日 ※臨時休業ありますので、インスタなどご確認ください※祝日・水曜日 ◎不定休※休市日（HP・Instagram・Facebook・Googleにて休業日・お知らせ参照）"
 lat: 35.7014
 lng: 139.6931
+tabelog_score: 3.49
 members:
   - "渡辺翔太"
   - "阿部亮平"

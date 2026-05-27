@@ -8,12 +8,15 @@ genre: "もんじゃ"
 prefecture: "広島県"
 city: "広島市"
 address: "広島県広島市中区新天地５−１３"
+price_range: "～￥999"
 visited_date: "2024-08-14"
 youtube_id: "FFILw3D41B8"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/hiroshima/A3401/A340114/34002268/"
 thumbnail_url: "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
 lat: 34.3942162
 lng: 132.4621961
+tabelog_score: 3.44
 members:
   - "野口衣織"
   - "山本杏奈"

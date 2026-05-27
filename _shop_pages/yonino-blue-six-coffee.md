@@ -8,13 +8,17 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区霞ヶ丘町5-7 都立明治公園D棟"
+price_range: "￥2,000～￥2,999"
 visited_date: "2025-03-30"
 youtube_id: "-eUXX7jYxrM"
 source_video_title: "#409【ゲスト!!】スターがコーヒーを買いに行った日"
 group: "yonino"
+tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13293683/"
 thumbnail_url: "https://img.youtube.com/vi/-eUXX7jYxrM/hqdefault.jpg"
+business_hours: "08:00 - 17:00 年末年始は12/30~1/4まで休業となります。"
 lat: 35.6775
 lng: 139.7133
+tabelog_score: 3.51
 members:
   - "二宮和也"
   - "山田涼介"

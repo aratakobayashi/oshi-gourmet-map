@@ -8,13 +8,17 @@ genre: "居酒屋"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町１丁目１９−１３ 浅川ビル ２F"
+price_range: "￥2,000～￥2,999"
 visited_date: "2024-08-15"
 youtube_id: "8gKHzO_Jdhs"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13186932/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001164547/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/8gKHzO_Jdhs/hqdefault.jpg"
+business_hours: "月・火・水・木・日 16:00 - 02:00 L.O. 01:30 金・土・祝前日 16:00 - 04:00 L.O. 03:30 ■ 定休日年末年始(12/31・1/1)※営業時間に関するお知らせ※店舗状況により、臨時休業や営業時間を短縮している場合がございます。その為、恐れ入りますが各店舗の営業状況は鳥貴族公式ホームページをご確認ください。"
 lat: 35.6999128
 lng: 139.6997412
+tabelog_score: 3.03
 members:
   - "大谷映美里"
 groups:

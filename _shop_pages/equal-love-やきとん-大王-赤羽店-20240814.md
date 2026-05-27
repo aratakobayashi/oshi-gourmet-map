@@ -7,13 +7,17 @@ name: "やきとん 大王 赤羽店"
 genre: "居酒屋"
 prefecture: "東京都"
 address: "東京都北区赤羽１丁目２３−６ 三晃ビル 1・2F"
+price_range: "￥2,000～￥2,999"
 visited_date: "2024-08-14"
 youtube_id: "sn9-GWZQ5ps"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1323/A132305/13173601/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003491001/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 12:00 - 23:30 L.O. 料理22:50 ドリンク23:00"
 lat: 35.7806673
 lng: 139.7206438
+tabelog_score: 3.45
 members:
   - "諸橋沙夏"
 groups:

@@ -8,15 +8,19 @@ genre: "もんじゃ"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区月島3-7-4"
+price_range: "￥3,000～￥3,999"
 visited_date: "2019-06-05"
 youtube_id: "_vywZByqAdw"
 source_video_title: "SixTONES - 月島でもんじゃ！"
 source_video_url: "https://www.youtube.com/watch?v=7H1G8D8xKk0"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13007576/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000684646/?vos=nhppalsa000016"
 thumbnail_url: "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
+business_hours: "月・火・水・木・金・土・日・祝日 11:30 - 23:00 L.O. 22:15 ■定休日無休"
 lat: 35.6631
 lng: 139.7825
+tabelog_score: 3.49
 members:
   - "ジェシー"
   - "京本大我"

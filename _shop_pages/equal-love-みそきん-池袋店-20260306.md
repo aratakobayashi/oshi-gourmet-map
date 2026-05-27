@@ -8,12 +8,16 @@ genre: "ラーメン"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区西池袋５丁目１−３ メトロシティ西池袋 1f"
+price_range: "￥1,000～￥1,999"
 visited_date: "2026-03-06"
 youtube_id: "MvkQiclEHMY"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13319902/"
 thumbnail_url: "https://img.youtube.com/vi/MvkQiclEHMY/hqdefault.jpg"
+business_hours: "11:00 - 22:30 L.O. 料理22:00 定休日は施設に準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7316774
 lng: 139.7031757
+tabelog_score: 3.32
 members:
   - "大谷映美里"
 groups:

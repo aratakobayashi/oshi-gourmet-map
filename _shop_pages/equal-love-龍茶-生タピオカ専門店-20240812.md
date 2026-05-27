@@ -8,12 +8,15 @@ genre: "食事"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町１９２"
+price_range: "～￥999"
 visited_date: "2024-08-12"
 youtube_id: "UT4dNcRffPY"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14091449/"
 thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 lat: 35.4438
 lng: 139.6508
+tabelog_score: 3.1
 members:
   - "齋藤樹愛羅"
   - "佐々木舞香"
