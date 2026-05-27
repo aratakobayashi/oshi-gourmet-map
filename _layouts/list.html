@@ -90,19 +90,29 @@ layout: default
   var group = el.dataset.group;
   var genre = el.dataset.genre;
 
+  function stopShimmer() {
+    el.removeAttribute('data-group');
+    el.removeAttribute('data-genre');
+  }
+
   fetch(base + '/data/shops.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var matched = shops.filter(function(s) {
         return s.group === group && s.genre === genre && !s.closed;
       });
+      stopShimmer();
       if (matched.length && typeof buildShopCard === 'function') {
         el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-        el.removeAttribute('data-group');
-        el.removeAttribute('data-genre');
         var countEl = document.getElementById('list-shop-count');
         if (countEl) countEl.textContent = matched.length + '件';
+      } else {
+        el.innerHTML = '<p style="color:#6b7280;padding:2rem 0">お店情報が見つかりませんでした。</p>';
       }
+    })
+    .catch(function() {
+      stopShimmer();
+      el.innerHTML = '<p style="color:#6b7280;padding:2rem 0">データの読み込みに失敗しました。</p>';
     });
 })();
 </script>
