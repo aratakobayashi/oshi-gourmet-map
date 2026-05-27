@@ -58,7 +58,7 @@ GROUP_BIO = {
     'timelesz':         'timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。',
     'heysayjump':       'Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグループ。メンバーのグルメ情報が各地に点在。',
     'kingprince':       'King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。',
-    'shiori':           'しおりは人気フードYouTuber。東京・全国のおすすめグルメを動画で紹介している。',
+    'shiori':           '「しおりのなんとなく日常」は女性ひとり飲み・ソロ活グルメを発信するYouTubeチャンネル。居酒屋や飲み歩き動画が人気で登録者数35万人超。',
     'miruwz':           'miruwzは人気フードYouTuber。トレンドグルメから地元の名店まで幅広く発信。',
 }
 
