@@ -3427,6 +3427,13 @@ body {
   background-size: 400% 100%;
   animation: shimmer 1.5s infinite linear;
 }
+.shop-cards[data-shop-ids] {
+  min-height: 400px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #f5f0f3 25%, #ede8eb 50%, #f5f0f3 75%);
+  background-size: 400% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
 
 /* ── 関連記事 ── */
 .related-posts {
