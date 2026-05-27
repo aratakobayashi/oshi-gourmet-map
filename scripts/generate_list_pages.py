@@ -81,6 +81,7 @@ GROUP_COLORS = {
     'ginga':            '#8b5cf6',
     'timelesz':         '#0ea5e9',
     'shiori':           '#f43f5e',
+    'miruwz':           '#06b6d4',
 }
 
 GENRE_EMOJI = {
