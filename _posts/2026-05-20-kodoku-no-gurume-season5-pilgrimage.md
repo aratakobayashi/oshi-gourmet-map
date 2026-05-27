@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season5（2015年）に登場した全11店の聖地巡礼ガイド。台湾2店・ブータン料理・チュニジア料理など異国グルメ全開のシーズン。亀戸の純レバ丼、越谷のカキのムニエルまで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 tags: [孤独のグルメ, Season5, 聖地巡礼, 井之頭五郎, 台湾ロケ, ブータン料理, グルメ, 東京, 埼玉, 2015年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/g3fOnmHzwDffVnbMFIlNFZ4Xkqp.jpg
 summary:

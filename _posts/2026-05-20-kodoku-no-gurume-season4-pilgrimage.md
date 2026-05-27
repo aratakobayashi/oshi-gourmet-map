@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season4（2014年）に登場した全9店の聖地巡礼ガイド。箱根のいろり家、愛知・日間賀島の乙姫、渋谷の中国料理シャンウェイ、大田区のベトナム料理まで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 tags: [孤独のグルメ, Season4, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 箱根, 愛知, 2014年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/dbrWREgU5gr1XBPoBo71VuJfZO6.jpg
 summary:

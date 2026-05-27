@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season8（2018年）に登場した全12店の聖地巡礼ガイド。横浜中華街の広東釜飯・埼玉新座の手打ちうどん・鳥取市役所食堂・御茶ノ水の南インドミールスまで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 tags: [孤独のグルメ, Season8, 聖地巡礼, 井之頭五郎, 鳥取ロケ, インド料理, グルメ, 東京, 横浜, 鳥取, 2018年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/radX6AzCuOaP0GhOmkCuihfi8JF.jpg
 summary:

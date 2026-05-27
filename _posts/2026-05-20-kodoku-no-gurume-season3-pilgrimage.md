@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season3（2014年）に登場した全11店の聖地巡礼ガイド。赤羽の川栄、横浜の第一亭、静岡・河津のわさび園、中野のアフガン料理まで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 prefecture: 東京都
 tags: [孤独のグルメ, Season3, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 横浜, 静岡, 2014年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/ilbAMYI6FgIUzViTnxEF5HJHLcP.jpg

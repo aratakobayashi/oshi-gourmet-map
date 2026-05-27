@@ -56,7 +56,7 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
       </div>
       <div class="hero__badge">
         <span class="hero__badge-label">NEW</span>
-        <span class="hero__badge-num">77</span>
+        <span class="hero__badge-num" id="hero-badge-num">—</span>
         <span class="hero__badge-unit">SPOTS</span>
       </div>
     </div>
@@ -274,6 +274,8 @@ description: よにのちゃんねる・Snow Man・SixTONES・かまいたちな
       var groups = document.getElementById('stat-groups');
       var prefs  = document.getElementById('stat-prefs');
       if (spots)  spots.textContent  = shops.length;
+      var badgeNum = document.getElementById('hero-badge-num');
+      if (badgeNum) badgeNum.textContent = shops.length;
       if (groups) groups.textContent = new Set(shops.flatMap(function(s) { return s.groups || (s.group ? [s.group] : []); })).size;
       if (prefs)  prefs.textContent  = new Set(shops.map(function(s) { return s.prefecture; }).filter(Boolean)).size;
     })

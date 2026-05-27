@@ -5,7 +5,7 @@ date: 2026-05-19
 last_modified_at: 2026-05-19
 description: "孤独のグルメ Season2（2013年）に登場した全11店の聖地巡礼ガイド。日本橋人形町の天ぷら中山、両国のちゃんこ大内、群馬・大泉町のブラジル料理まで、五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 prefecture: 東京都
 tags: [孤独のグルメ, Season2, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 川崎, 横浜, 群馬, 2013年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/wnJBuLCpA6Fp8AxWedwQkTaA5nL.jpg

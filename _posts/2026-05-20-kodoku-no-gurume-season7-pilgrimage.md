@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season7（2017年）に登場した全11店の聖地巡礼ガイド。韓国2話（全州・ソウル）・群馬下仁田の2店はしご・メキシコ料理・千代田区の2色麻婆豆腐まで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 tags: [孤独のグルメ, Season7, 聖地巡礼, 井之頭五郎, 韓国ロケ, メキシコ料理, グルメ, 東京, 群馬, 韓国, 2017年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/2sFHH8qViGbMmE9UGdCZ52tuF2o.jpg
 summary:

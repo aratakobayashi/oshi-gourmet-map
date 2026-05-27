@@ -5,7 +5,7 @@ date: 2026-05-20
 last_modified_at: 2026-05-20
 description: "孤独のグルメ Season6（2016年）に登場した全10店の聖地巡礼ガイド。大阪のお好み焼き・ミャンマー料理・スペイン料理・千葉富津の海辺定食まで五郎の注文メニュー付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 tags: [孤独のグルメ, Season6, 聖地巡礼, 井之頭五郎, 大阪ロケ, シャン料理, スペイン料理, グルメ, 東京, 大阪, 千葉, 2016年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/4q46LrYS95U4b3NirSsdTiyZqE2.jpg
 summary:

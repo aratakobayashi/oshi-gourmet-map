@@ -5,7 +5,7 @@ date: 2026-05-19
 last_modified_at: 2026-05-19
 description: "孤独のグルメ Season1（2012年）に登場した全10店の聖地巡礼ガイド。江東区の庄助から池袋の中国家庭料理 楊、下北沢のヒロキまで、五郎が食べ歩いた東京の名店を食べログリンク付きで完全網羅。"
 group: kodoku_no_gurume
-article_type: matome
+article_type: season
 prefecture: 東京都
 tags: [孤独のグルメ, Season1, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 川崎, 2012年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/ci2QXaPyYOf5EtQAF1CUGQOMUG4.jpg
