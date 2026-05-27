@@ -6,7 +6,7 @@ last_modified_at: 2026-05-27
 description: "孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVEなどが実際に訪れた和食・定食・うなぎ・そば・おにぎり店を109件まとめました。東京の名店から全国のご当地和食まで、推し活・聖地巡礼・旅行プランに使えるグルメガイドです。"
 group: yonino
 genre: 和食
-article_type: genre_matome
+article_type: genre
 prefecture: 東京都
 tags: [和食, 聖地巡礼, グルメ, よにのちゃんねる, 孤独のグルメ, SixTONES, Snow Man, "=LOVE", 乃木坂46, 推し活, うなぎ, そば, おにぎり]
 thumbnail_video_id: 1VN2TGo5uOM
