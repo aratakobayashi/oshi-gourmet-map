@@ -117,7 +117,7 @@ layout: default
         {% if s.tags %}{% for tag in s.tags %}<span class="badge badge--tag">#{{ tag }}</span>{% endfor %}{% endif %}
       </div>
 
-      <h1 class="shop-hero__name">{{ s.name }}</h1>
+      <h1 class="shop-hero__name">{{ s.name }}{% if s.closed %} <span class="badge badge--closed">閉店</span>{% endif %}</h1>
       {% if s.description %}<p class="shop-hero__desc">{{ s.description }}</p>{% endif %}
 
       {% if s.tabelog_score or s.price_range %}

@@ -584,7 +584,7 @@ function buildShopCard(shop) {
       </div>
       <div class="shop-card__body">
         ${metaRow}
-        <p class="shop-card__name">${escHtml(shop.name)}</p>
+        <p class="shop-card__name">${escHtml(shop.name)}${shop.closed ? ' <span class="badge badge--closed">閉店</span>' : ''}</p>
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
         ${distHtml}
         ${memberHtml}
