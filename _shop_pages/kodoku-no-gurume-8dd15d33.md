@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キッチンオニオン」"
-description: "川口市の居酒屋。ドラマ「孤独のグルメ Season10 第24話」に登場。"
+description: "川口市の居酒屋。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.46点。"
 shop_id: "kodoku_no_gurume-8dd15d33-"
 name: "キッチンオニオン"
 genre: "居酒屋"

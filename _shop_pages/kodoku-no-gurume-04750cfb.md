@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「そば 荒木屋」"
-description: "孤独のグルメ Season10 第24話に登場したラーメン店。井之頭五郎が訪問。"
+description: "出雲市のラーメン店。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.49点。孤独のグルメ Season10 第24話に登場したラーメン店。井之頭五郎が訪問。"
 shop_id: "kodoku_no_gurume-04750cfb-"
 name: "そば 荒木屋"
 genre: "ラーメン"

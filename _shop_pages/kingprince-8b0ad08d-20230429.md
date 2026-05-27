@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「マッサマン タイキッチン」"
-description: "中郡大磯町のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。"
+description: "中郡大磯町のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.35点。"
 shop_id: "kingprince-8b0ad08d-20230429"
 name: "マッサマン タイキッチン"
 genre: "食事"

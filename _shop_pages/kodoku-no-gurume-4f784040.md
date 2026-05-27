@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「社食堂」"
-description: "渋谷区のレストラン。ドラマ「孤独のグルメ Season10 第2022話」に登場。"
+description: "渋谷区のレストラン。ドラマ「孤独のグルメ Season10 第2022話」に登場。食べログ3.31点。"
 shop_id: "kodoku_no_gurume-4f784040-"
 name: "社食堂"
 genre: "食事"

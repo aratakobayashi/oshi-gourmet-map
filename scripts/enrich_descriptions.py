@@ -98,13 +98,20 @@ def generate_description(shop):
 
     # ドラマ・映画ソースは専用テンプレート
     if source_type == 'drama':
-        ep_num = extract_episode_num(title)
         parts = [f'{location}の{genre_word}。']
         if title:
             parts.append(f'ドラマ「{title}」に登場。')
         elif label:
             parts.append(f'{label}の聖地スポット。')
-        return ''.join(parts)
+        score = shop.get('tabelog_score')
+        if score and float(score) > 0:
+            parts.append(f'食べログ{score}点。')
+        result = ''.join(parts)
+        if existing and existing not in result:
+            combined = result + existing
+            if len(combined) <= 200:
+                return combined
+        return result
 
     parts = []
 
@@ -131,7 +138,23 @@ def generate_description(shop):
         item_str = '・'.join(items[:3])
         parts.append(f'{item_str}を堪能。')
 
-    # ④ 特徴的なタグ（食べ物・飲み物・料理に関するものだけ抽出）
+    # ④ TV番組/MV タイトル
+    if title and not any(title in p for p in parts):
+        mv_match = re.search(r'【([^】]+)】', title)
+        if mv_match:
+            parts.append(f'MV「{mv_match.group(1)}」に登場。')
+        else:
+            clean_title = re.sub(r'[。、]+$', '', title)
+            if clean_title:
+                short = clean_title[:25] + ('…' if len(clean_title) > 25 else '')
+                parts.append(f'「{short}」に登場。')
+
+    # ⑤ 食べログスコア
+    score = shop.get('tabelog_score')
+    if score and float(score) > 0:
+        parts.append(f'食べログ{score}点。')
+
+    # ⑥ 特徴的なタグ（食べ物・飲み物・料理に関するものだけ抽出）
     LOCATION_SUFFIXES = ('区', '市', '町', '村', '駅', '橋', '坂', '丘', '園', '台', 'タウン', 'シティ',
                          '沢', '木', '谷', '川', '原', '島', '浜', '野', '田', '山', '池', '浦')
     SKIP_TAGS = {genre, city, pref, genre_word, 'カフェ', 'ラーメン', '焼肉', '寿司',

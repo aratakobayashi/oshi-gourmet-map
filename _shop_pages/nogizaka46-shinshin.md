@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「博多らーめん ShinShin 天神本店」"
-description: "福岡市のラーメン店。乃木坂46が訪れたロケ地。"
+description: "福岡市のラーメン店。乃木坂46が訪れたロケ地。「博多らーめん ShinShin」に登場。食べログ3.57点。"
 shop_id: "nogizaka46-shinshin-"
 name: "博多らーめん ShinShin 天神本店"
 genre: "ラーメン"

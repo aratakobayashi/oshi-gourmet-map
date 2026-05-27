@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「きっちん大浪」"
-description: "武蔵野市の和食店。ドラマ「孤独のグルメ Season10 第24話」に登場。"
+description: "武蔵野市の和食店。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.27点。"
 shop_id: "kodoku_no_gurume-1e23c393-"
 name: "きっちん大浪"
 genre: "和食"

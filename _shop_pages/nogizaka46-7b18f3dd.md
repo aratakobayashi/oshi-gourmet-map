@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「丸デブ 総本店」"
-description: "岐阜市のラーメン店。乃木坂46が訪れたロケ地。"
+description: "岐阜市のラーメン店。乃木坂46が訪れたロケ地。「丸デブ 総本店」に登場。食べログ3.61点。"
 shop_id: "nogizaka46-7b18f3dd-"
 name: "丸デブ 総本店"
 genre: "ラーメン"

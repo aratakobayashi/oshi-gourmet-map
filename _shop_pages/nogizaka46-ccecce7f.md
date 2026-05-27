@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「数寄屋橋茶房」"
-description: "中央区のカフェ。乃木坂46が訪れたロケ地。"
+description: "中央区のカフェ。乃木坂46が訪れたロケ地。MV「インフルエンサー」に登場。食べログ3.56点。"
 shop_id: "nogizaka46-ccecce7f-"
 name: "数寄屋橋茶房"
 genre: "カフェ"

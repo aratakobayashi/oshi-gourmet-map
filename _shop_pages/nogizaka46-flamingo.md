@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「FLAMINGO」"
-description: "渋谷区のカフェ。乃木坂46が訪れたロケ地。"
+description: "渋谷区のカフェ。乃木坂46が訪れたロケ地。MV「ロマンスのスタート・逃げ水」に登場。食べログ3.24点。"
 shop_id: "nogizaka46-flamingo-"
 name: "FLAMINGO"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「LIVIN よこすか店」"
-description: "横須賀市のレストラン。乃木坂46が訪れたロケ地。"
+description: "横須賀市のレストラン。乃木坂46が訪れたロケ地。MV「ブランコ」に登場。食べログ3.11点。"
 shop_id: "nogizaka46-livin-"
 name: "LIVIN よこすか店"
 genre: "食事"

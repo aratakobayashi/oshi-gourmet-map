@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「プロント ウインズ汐留店」"
-description: "港区の居酒屋。乃木坂46が訪れたロケ地。"
+description: "港区の居酒屋。乃木坂46が訪れたロケ地。MV「シンクロニシティ」に登場。食べログ3.04点。"
 shop_id: "nogizaka46-ca63b74a-"
 name: "プロント ウインズ汐留店"
 genre: "居酒屋"

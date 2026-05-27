@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「新とみ」"
-description: "鎌倉市のラーメン店。乃木坂46が訪れたロケ地。"
+description: "鎌倉市のラーメン店。乃木坂46が訪れたロケ地。MV「いつかできるから今日できる」に登場。食べログ3.35点。"
 shop_id: "nogizaka46-e5fdf419-"
 name: "新とみ"
 genre: "ラーメン"

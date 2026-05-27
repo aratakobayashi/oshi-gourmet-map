@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「自由学園明日館」"
-description: "豊島区のカフェ。乃木坂46が訪れたロケ地。"
+description: "豊島区のカフェ。乃木坂46が訪れたロケ地。MV「おいでシャンプー」に登場。食べログ3.5点。"
 shop_id: "nogizaka46-4eba1f02-"
 name: "自由学園明日館"
 genre: "カフェ"

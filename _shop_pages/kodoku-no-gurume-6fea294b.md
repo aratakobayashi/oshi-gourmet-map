@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「一番」"
-description: "孤独のグルメ Season7 第4話に登場した群馬・下仁田の中華食堂。タンメンと餃子を注文。"
+description: "甘楽郡下仁田町のレストラン。ドラマ「孤独のグルメ Season7 第4話」に登場。食べログ3.51点。孤独のグルメ Season7 第4話に登場した群馬・下仁田の中華食堂。タンメンと餃子を注文。"
 shop_id: "kodoku_no_gurume-6fea294b-"
 name: "一番"
 genre: "食事"

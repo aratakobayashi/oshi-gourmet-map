@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「伊勢屋食堂」"
-description: "新宿区の和食店。ドラマ「孤独のグルメ Season6 第2話」に登場。"
+description: "新宿区の和食店。ドラマ「孤独のグルメ Season6 第2話」に登場。食べログ3.49点。"
 shop_id: "kodoku_no_gurume-伊勢屋食堂"
 name: "伊勢屋食堂"
 genre: "和食"

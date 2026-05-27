@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「納豆工房せんだい屋 池尻大橋店」"
-description: "世田谷区のカフェ。乃木坂46が訪れたロケ地。"
+description: "世田谷区のカフェ。乃木坂46が訪れたロケ地。MV「Route246」に登場。食べログ3.45点。"
 shop_id: "nogizaka46-4cbec6ca-"
 name: "納豆工房せんだい屋 池尻大橋店"
 genre: "カフェ"

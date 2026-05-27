@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「コスモコート」"
-description: "横浜市のレストラン。乃木坂46が訪れたロケ地。"
+description: "横浜市のレストラン。乃木坂46が訪れたロケ地。MV「ないものねだり」に登場。食べログ3.0点。"
 shop_id: "nogizaka46-5b434e0e-"
 name: "コスモコート"
 genre: "食事"

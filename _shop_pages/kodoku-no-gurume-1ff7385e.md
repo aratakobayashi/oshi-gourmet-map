@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「京城園」"
-description: "千代田区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
+description: "千代田区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.42点。"
 shop_id: "kodoku_no_gurume-1ff7385e-"
 name: "京城園"
 genre: "食事"

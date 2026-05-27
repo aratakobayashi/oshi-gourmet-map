@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「コロムビア」"
-description: "孤独のグルメ Season7 第4話に登場した群馬・下仁田のコロムビア。豚のすき焼きを注文。"
+description: "甘楽郡下仁田町のレストラン。ドラマ「孤独のグルメ Season7 第4話」に登場。食べログ3.59点。孤独のグルメ Season7 第4話に登場した群馬・下仁田のコロムビア。豚のすき焼きを注文。"
 shop_id: "kodoku_no_gurume-8ff8f87d-"
 name: "コロムビア"
 genre: "食事"

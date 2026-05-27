@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「COCONEEL」"
-description: "新宿区の居酒屋。乃木坂46が訪れたロケ地。"
+description: "新宿区の居酒屋。乃木坂46が訪れたロケ地。MV「スカウトマン」に登場。食べログ3.11点。"
 shop_id: "nogizaka46-coconeel-"
 name: "COCONEEL"
 genre: "居酒屋"

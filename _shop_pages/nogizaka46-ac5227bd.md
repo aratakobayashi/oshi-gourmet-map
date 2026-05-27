@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「すずめや」"
-description: "豊島区のスイーツショップ。乃木坂46が訪れたロケ地。"
+description: "豊島区のスイーツショップ。乃木坂46が訪れたロケ地。MV「嫉妬の権利」に登場。食べログ3.79点。"
 shop_id: "nogizaka46-ac5227bd-"
 name: "すずめや"
 genre: "スイーツ"

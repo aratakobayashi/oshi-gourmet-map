@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和風カレー さや」"
-description: "都留市のラーメン店。乃木坂46が訪れたロケ地。"
+description: "都留市のラーメン店。乃木坂46が訪れたロケ地。MV「今、話したい誰かがいる」に登場。食べログ3.09点。"
 shop_id: "nogizaka46-f36ca7b7-"
 name: "和風カレー さや"
 genre: "ラーメン"

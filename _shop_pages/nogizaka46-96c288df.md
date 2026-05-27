@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「いなろ食堂」"
-description: "沼津市のカフェ。乃木坂46が訪れたロケ地。"
+description: "沼津市のカフェ。乃木坂46が訪れたロケ地。MV「大人への近道」に登場。食べログ3.22点。"
 shop_id: "nogizaka46-96c288df-"
 name: "いなろ食堂"
 genre: "カフェ"

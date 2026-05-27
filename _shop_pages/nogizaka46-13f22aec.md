@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「春華堂 本店」"
-description: "浜松市のスイーツショップ。乃木坂46が訪れたロケ地。"
+description: "浜松市のスイーツショップ。乃木坂46が訪れたロケ地。MV「君に叱られた」に登場。食べログ3.37点。"
 shop_id: "nogizaka46-13f22aec-"
 name: "春華堂 本店"
 genre: "スイーツ"

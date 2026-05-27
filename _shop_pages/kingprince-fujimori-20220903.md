@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「FUJIMORI 鷺沼店」"
-description: "川崎市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。"
+description: "川崎市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.68点。"
 shop_id: "kingprince-fujimori-20220903"
 name: "FUJIMORI 鷺沼店"
 genre: "食事"

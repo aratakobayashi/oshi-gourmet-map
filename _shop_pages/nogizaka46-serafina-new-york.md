@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「Serafina NEW YORK さいたま新都心店」"
-description: "さいたま市の居酒屋。乃木坂46が訪れたロケ地。"
+description: "さいたま市の居酒屋。乃木坂46が訪れたロケ地。「さいたまスーパーアリーナ」に登場。食べログ3.45点。"
 shop_id: "nogizaka46-serafina_new_york-"
 name: "Serafina NEW YORK さいたま新都心店"
 genre: "居酒屋"
