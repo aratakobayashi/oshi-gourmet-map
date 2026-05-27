@@ -74,7 +74,7 @@ function initFromUrlParams() {
 // フィルター選択肢を生成
 // ===========================
 function populateFilters() {
-  const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].sort();
+  const genres = [...new Set(allShops.map(s => s.genre).filter(Boolean))].filter(g => g !== '食事').sort();
   fillSelect('filter-genre', genres);
   renderGenrePills(genres);
 }
