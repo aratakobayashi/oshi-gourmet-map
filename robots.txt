@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gourmet.oshikatsu-guide.com/sitemap.xml
