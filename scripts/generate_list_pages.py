@@ -98,6 +98,15 @@ GENRE_EMOJI = {
 }
 
 
+GROUP_TYPE = {
+    'kodoku_no_gurume': 'drama',
+    'kamenashi':        'individual',
+    'ginga':            'individual',
+    'shiori':           'individual',
+    'kamaitachi':       'duo',
+}
+
+
 def slugify(text: str) -> str:
     text = text.lower()
     text = re.sub(r'[^\w\s-]', '', text)
@@ -151,8 +160,16 @@ def main():
         slug_id = f'{gslug}-{eslug}'
         filename = f'{slug_id}.md'
 
-        title = f'{label}が行った{genre}{len(ids)}選'
-        description = f'{label}のメンバーが実際に訪れた{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
+        gtype = GROUP_TYPE.get(group, 'group')
+        if gtype == 'drama':
+            title = f'「{label}」登場{genre}{len(ids)}選'
+            description = f'ドラマ「{label}」に登場した{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
+        elif gtype in ('individual', 'duo'):
+            title = f'{label}が行った{genre}{len(ids)}選'
+            description = f'{label}が実際に訪れた{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
+        else:
+            title = f'{label}が行った{genre}{len(ids)}選'
+            description = f'{label}のメンバーが実際に訪れた{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
 
         # 関連ページ: 同グループの他ジャンル上位3件
         related_genres = [
