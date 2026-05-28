@@ -20,12 +20,6 @@ lng: 141.2875937
 tabelog_score: 3.46
 groups:
   - "snowman"
-ordered_items:
-  - "しょうが焼き・若鶏ささみフライ（深澤辰哉）"
-  - "カニコロ・しょうが焼き（目黒蓮）"
-  - "しょうが焼き・チキンカツ（宮舘涼太）"
-  - "ハーフカレールー（宮舘涼太）"
-  - "エビフライ・しょうが焼き（佐久間大介）"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1305/A130504/13279399/"
