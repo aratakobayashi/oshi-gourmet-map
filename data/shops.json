@@ -9382,7 +9382,53 @@
     "thumbnail_url": "https://img.youtube.com/vi/wvv-EUPN6_8/hqdefault.jpg",
     "tabelog_score": 3.06,
     "price_range": "￥1,000～￥1,999",
-    "business_hours": "【営業時間】11:00～22:30(L.O)"
+    "business_hours": "【営業時間】11:00～22:30(L.O)",
+    "ordered_items": [
+      "パリパリチキンカレー（西畑大吾）",
+      "2辛（西畑大吾）",
+      "とろ～り甘くなるソース（西畑大吾）",
+      "ほうれん草（西畑大吾）",
+      "CoCo deチキン（西畑大吾）",
+      "手仕込みとんかつカレー（西畑大吾）",
+      "旨辛にんにく（西畑大吾）",
+      "ローストチキンスープカレー（西畑大吾）",
+      "ソーセージサラダ（大西流星）",
+      "ロースカツカレー＋野菜（大西流星）",
+      "低糖質カレー（大西流星）",
+      "チキンカツ（大西流星）",
+      "ハーフやさい（大西流星）",
+      "パリパリチキンカレー（道枝駿佑）",
+      "チーズ（道枝駿佑）",
+      "ココロッケ（道枝駿佑）",
+      "手仕込みとんかつカレー（道枝駿佑）",
+      "旨辛にんにく（道枝駿佑）",
+      "納豆カレー（道枝駿佑）",
+      "チーズ（道枝駿佑）",
+      "ラッシー（高橋恭平）",
+      "ビーフカレー（高橋恭平）",
+      "きのこ（高橋恭平）",
+      "クリームコロッケ(カニ入り)2個（高橋恭平）",
+      "The海老スープカレー（高橋恭平）",
+      "豚しゃぶカレー（長尾謙杜）",
+      "なす(6個)（長尾謙杜）",
+      "ほうれん草（長尾謙杜）",
+      "CoCo deチキン（長尾謙杜）",
+      "豚しゃぶカレー（長尾謙杜）",
+      "なす(6個)（長尾謙杜）",
+      "カレーうどん（長尾謙杜）",
+      "ウズラ卵の串フライ（長尾謙杜）",
+      "CoCo deチキン（藤原丈一郎）",
+      "手仕込みとんかつカレー（藤原丈一郎）",
+      "旨辛にんにく（藤原丈一郎）",
+      "カレーうどん（藤原丈一郎）",
+      "ウズラ卵の串フライ（藤原丈一郎）",
+      "パリパリチキンカレー（大橋和也）",
+      "スクランブルエッグ（大橋和也）",
+      "ココロッケ（大橋和也）",
+      "ロースカツカレー＋野菜（大橋和也）",
+      "カキフライカレー／1.（大橋和也）",
+      "半熟卵タルタルソース（大橋和也）"
+    ]
   },
   {
     "id": "naniwa-d5f14d00-202411",
@@ -9496,7 +9542,21 @@
     "thumbnail_url": "https://img.youtube.com/vi/NtqgUCZdgwA/hqdefault.jpg",
     "tabelog_score": 3.45,
     "price_range": "-",
-    "business_hours": "月・火・水・木・金 11:00 - 14:30 17:00 - 20:30 土・日 11:00 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+    "business_hours": "月・火・水・木・金 11:00 - 14:30 17:00 - 20:30 土・日 11:00 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "ordered_items": [
+      "ヤキヤキ餃子",
+      "水餃子",
+      "てりたま餃子",
+      "炒飯×2",
+      "豚の角煮",
+      "キムチ",
+      "味噌ホルモン",
+      "石松餃子単品25個",
+      "揚げ餃子(おろしポン酢)",
+      "中華そば×2",
+      "三ヶ日みかんじゅーす",
+      "富士山サイダー"
+    ]
   },
   {
     "id": "nogizaka46-c6012bc1-",
@@ -10691,7 +10751,10 @@
     ],
     "tabelog_score": 3.2,
     "price_range": "￥3,000～￥3,999",
-    "business_hours": "月・火・水・木・金 14:00 - 23:30 L.O. 料理21:00 ドリンク23:00 土 12:00 - 23:30 L.O. 料理21:00 ドリンク23:00 日・祝日 12:00 - 20:00 L.O. 19:30 【TEA】平日 15:00-21:00土日祝 12:00-20:00【BAR・CIGAR】平日・土（日祝定休）18:00-23:30 営業時間・定休日は変更となる場合が"
+    "business_hours": "月・火・水・木・金 14:00 - 23:30 L.O. 料理21:00 ドリンク23:00 土 12:00 - 23:30 L.O. 料理21:00 ドリンク23:00 日・祝日 12:00 - 20:00 L.O. 19:30 【TEA】平日 15:00-21:00土日祝 12:00-20:00【BAR・CIGAR】平日・土（日祝定休）18:00-23:30 営業時間・定休日は変更となる場合が",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
   },
   {
     "id": "ginga-f50e5bd3-202403",
@@ -10733,7 +10796,10 @@
     "ordered_items": [
       "アイスコーヒー？",
       "マトンカレーでジャスミンライス・マトンカレー・日替わりカレー・サラダ・デザート"
-    ]
+    ],
+    "tmdb_id": 197195,
+    "tmdb_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
   },
   {
     "id": "ginga-44b85f76-202403",
@@ -10852,7 +10918,10 @@
     "ordered_items": [
       "トリプルチーズハンバーグ",
       "アップル？"
-    ]
+    ],
+    "tmdb_id": 197195,
+    "tmdb_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
   },
   {
     "id": "ginga-46244fe9-202402",
@@ -10929,7 +10998,10 @@
     ],
     "tabelog_score": 3.46,
     "price_range": "￥3,000～￥3,999",
-    "business_hours": "月・火・水・木・金・土 11:00 - 22:00 L.O. 21:00 日・祝日 11:00 - 18:00 L.O. 17:00 ■ 営業時間・月～土曜日（祝日を除く）21時00分を最終入店とさせていただきます。・日曜・祝日は17:00が最終入店です。・貸切や都合により、通常営業時間よりも早く閉店させて頂く場合がございます。■定休日なし■テラス席は、雨天や強風時にご利用いただけない場合がありま"
+    "business_hours": "月・火・水・木・金・土 11:00 - 22:00 L.O. 21:00 日・祝日 11:00 - 18:00 L.O. 17:00 ■ 営業時間・月～土曜日（祝日を除く）21時00分を最終入店とさせていただきます。・日曜・祝日は17:00が最終入店です。・貸切や都合により、通常営業時間よりも早く閉店させて頂く場合がございます。■定休日なし■テラス席は、雨天や強風時にご利用いただけない場合がありま",
+    "tmdb_id": 197195,
+    "tmdb_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
   },
   {
     "id": "hinatazaka46-039367a9-202004",
@@ -31463,10 +31535,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-31f972f7-20260506",
@@ -31539,10 +31611,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-anea_cafe-20250523",
@@ -31729,10 +31801,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-e7d2545a-20260323",
@@ -32223,10 +32295,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-d39a5b60-20241205",
@@ -32451,10 +32523,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-factory-20251209",
@@ -32565,10 +32637,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-402afb97-20250826",
@@ -34322,10 +34394,10 @@
     "tabelog_url": "",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
     "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_id": 124588,
+    "tmdb_type": "tv"
   },
   {
     "id": "snowman-trattoria_e_pizzeria-20240718",

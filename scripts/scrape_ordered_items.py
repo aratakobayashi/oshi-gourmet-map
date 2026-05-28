@@ -26,6 +26,7 @@ INDEX_URLS = {
     'snowman': 'https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF',
     'yonino':  'https://8888-info.hatenablog.com/entry/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93',
     'ginga':   'https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7',
+    'naniwa':  'https://8888-info.hatenablog.com/entry/%E3%81%AA%E3%81%AB%E3%82%8Ftube',
 }
 
 
@@ -75,18 +76,34 @@ def get_article_urls(index_url: str) -> list[str]:
 
 
 def extract_shop_name(soup: BeautifulSoup) -> str:
-    """記事からお店名を抽出（最初のh3の『』内、またはh3テキスト末尾の「とは」を除去）"""
+    """記事からお店名を抽出"""
+    # 方法1: h3/h1の『』「」【】で囲まれた店名
+    for tag in soup.find_all(['h3', 'h1']):
+        text = tag.get_text(strip=True)
+        m = re.search(r'[『「【]([^』」】]{2,30})[』」】]', text)
+        if m:
+            candidate = m.group(1)
+            if not re.search(r'(予約|場所|アクセス|方法|一覧|まとめ|情報|購入|価格|最安値)', candidate):
+                return candidate
+
+    # 方法2: h1タイトルの「ロケ地情報。[店名]の場所は」パターン
+    for h1 in soup.find_all('h1'):
+        text = h1.get_text(strip=True)
+        m = re.search(r'[。．]([^。．]{2,30}?)(?:の場所|の店名|のお店|の予約)', text)
+        if m:
+            candidate = m.group(1).strip()
+            candidate = re.sub(r'[（(][^）)]*[）)]', '', candidate).strip()
+            if candidate and len(candidate) > 1:
+                return candidate
+
+    # 方法3: h3テキストから末尾ノイズ除去
     h3 = soup.find('h3')
-    if not h3:
-        return ''
-    text = h3.get_text(strip=True)
-    # 『キッチン南国』とは → キッチン南国
-    m = re.search(r'[『「]([^』」]+)[』」]', text)
-    if m:
-        return m.group(1)
-    # 末尾の「とは」「について」などを除去
-    text = re.sub(r'(とは|について|の場所|のロケ地).*$', '', text).strip()
-    return text
+    if h3:
+        text = h3.get_text(strip=True)
+        text = re.sub(r'(とは|について|の場所|のロケ地|＆アクセス.*).*$', '', text).strip()
+        if text and text != 'お店' and len(text) > 1:
+            return text
+    return ''
 
 
 def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
@@ -94,11 +111,11 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
     items = []
     current_member = ''
 
-    # 「注文メニュー」h3を探す（「注文メニューリスト」「注文したもの」なども対象）
+    # 「注文メニュー」h3を探す（「注文メニューリスト」「チョイスした料理」「メンバー別」なども対象）
     menu_h3 = None
     for h3 in soup.find_all('h3'):
         text = h3.get_text(strip=True)
-        if '注文' in text:
+        if ('注文' in text) or ('メンバー' in text and ('チョイス' in text or 'メニュー' in text or '料理' in text)):
             menu_h3 = h3
             break
     if not menu_h3:
@@ -115,13 +132,15 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
         if not text:
             continue
 
-        # メンバー名行の検出（＊/★/☆/▶ + 「注文」を含む行）
-        if '注文' in text or '頼' in text or 'オーダー' in text:
-            # 「＊深澤辰哉さんが注文したメニュー」「★岩本照さんが注文」形式
-            m = re.search(r'[＊★☆▶◆*]?\s*([^\s　＊★☆▶◆*●]{2,8}?)(?:さん)?(?:が|の)(?:注文|頼|オーダー)', text)
+        # メンバー名行の検出
+        if '注文' in text or '頼' in text or 'オーダー' in text or ('チョイス' in text and 'メニュー' in text):
+            # 「＊深澤辰哉さんが注文」「＊西畑大吾くん注文メニュー」「★岩本照さんが注文」形式
+            m = re.search(r'[＊★☆▶◆*]?\s*([^\s　＊★☆▶◆*●]{2,8}?)(?:さん|くん)?(?:が|の)?(?:注文|頼|オーダー|チョイス)', text)
             if m:
-                current_member = m.group(1).strip()
-                continue
+                candidate = m.group(1).strip()
+                if not re.search(r'(メニュー|まとめ|一覧|リスト)', candidate):
+                    current_member = candidate
+                    continue
 
         # ●を含む場合は注文品として解析
         if '●' in text:
@@ -130,16 +149,27 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
                 part = part.strip()
                 if not part:
                     continue
-                # ※以降の注記・価格を除去
-                part = re.sub(r'※.*$', '', part).strip()
-                # ／300円 / (300円) / 1380円(税込) 形式の価格除去
-                part = re.sub(r'[／/]\s*\d[\d,，]*円.*$', '', part).strip()
-                part = re.sub(r'\s*[\(（]\s*\d[\d,，]*円[^)）]*[\)）]', '', part).strip()
-                part = re.sub(r'\s*\d[\d,，]*円.*$', '', part).strip()
-                if part and len(part) > 1:
-                    if current_member:
-                        part = f'{part}（{current_member}）'
-                    items.append(part)
+
+                # なにわ形式判定：「好きなメニュー・item1・item2」→ ・で分割
+                sub_parts = part.split('・')
+                first = sub_parts[0].strip()
+                is_category = bool(re.search(r'メニュー$|^合計', first))
+
+                food_parts = sub_parts[1:] if is_category and len(sub_parts) > 1 else [part]
+
+                for food in food_parts:
+                    food = food.strip()
+                    if not food or food.startswith('合計'):
+                        continue
+                    # ※以降の注記・価格を除去
+                    food = re.sub(r'※.*$', '', food).strip()
+                    food = re.sub(r'[／/]\s*(?:\d[\d,，]*円|無料).*$', '', food).strip()
+                    food = re.sub(r'\s*[\(（]\s*\d[\d,，]*円[^)）]*[\)）]', '', food).strip()
+                    food = re.sub(r'\s*\d[\d,，]*円.*$', '', food).strip()
+                    if food and len(food) > 1:
+                        if current_member:
+                            food = f'{food}（{current_member}）'
+                        items.append(food)
 
     return items
 
