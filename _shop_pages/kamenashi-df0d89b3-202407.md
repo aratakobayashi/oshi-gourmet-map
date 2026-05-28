@@ -23,6 +23,15 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "烏龍茶"
+  - "古今ユッケ〜蘭王卵のせ〜"
+  - "チョレギサラダ"
+  - "特選タン4枚"
+  - "特選ハラミ2枚"
+  - "上ロース(田村牛のサーロイン)"
+  - "古今ロイヤルバーガー(コース限定メニュー)"
+  - "リンゴのシャーベット"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E5%8F%A4%E4%BB%8A"

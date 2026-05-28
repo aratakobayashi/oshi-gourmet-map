@@ -10,6 +10,7 @@ city: "中央区"
 address: "東京都中央区晴海３丁目６−８"
 nearest_station: "「勝どき駅」より徒歩5分"
 visited_date: "2024-11-01"
+youtube_id: "vKrftXODw-E"
 source_video_title: "【MVロケ地】SnowMan「ナイトスケープ」コインランドリーはどこ？"
 group: "snowman"
 lat: 35.655037

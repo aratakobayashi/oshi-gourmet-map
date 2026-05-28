@@ -10,6 +10,7 @@ city: "目黒区"
 address: "東京都目黒区中目黒1-9-3"
 nearest_station: "「中目黒駅」より徒歩6分"
 visited_date: "2025-01-21"
+youtube_id: "oNwT7i2IlbM"
 source_video_title: "【MVロケ地】SnowMan「Dear,」ロケ地まとめ：カフェ、ホーム"
 group: "snowman"
 lat: 35.6441395

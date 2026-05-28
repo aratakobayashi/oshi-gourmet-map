@@ -25,6 +25,10 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "黒ウーロン茶（亀梨和也）"
+  - "ぼんしゃん・カピタンにんにくダブル・きくらげ・ねぎ・粉落とし(茹で加減)（亀梨和也）"
+  - "九州じゃんがらの全部入り（越岡裕貴）"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97"

@@ -24,6 +24,15 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "ハイボール"
+  - "生すだちサワー"
+  - "ホタテバター焼き"
+  - "地鶏セセリ"
+  - "やみつきキュウリ"
+  - "エノキベーコンバター"
+  - "上海焼きそば"
+  - "亀竹もんじゃ"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%82%E3%82%93%E3%81%98%E3%82%83%20%E7%AB%B9%E3%81%AE%E5%AD%90"

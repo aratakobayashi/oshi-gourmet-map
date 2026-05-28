@@ -24,6 +24,9 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "Kコース"
+  - "烏龍茶"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=USHIGORO%20S.%20GINZA"

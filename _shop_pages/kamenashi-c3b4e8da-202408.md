@@ -24,6 +24,11 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "瓶ビール"
+  - "板わさ"
+  - "白子の天婦羅"
+  - "平打ち粗挽き蕎麦(2枚)"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%B8%83%E6%81%92%E6%9B%B4%E7%A7%91"
