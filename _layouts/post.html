@@ -186,14 +186,19 @@ layout: default
         <p class="related-posts__title">{{ group_label }}の関連記事</p>
         <ul class="related-posts__list">
           {% for rp in related_posts limit:6 %}
-          <li>
-            <a href="{{ rp.url | relative_url }}" class="related-posts__link">
-              {% if rp.thumbnail_video_id %}
-              <img src="https://img.youtube.com/vi/{{ rp.thumbnail_video_id }}/mqdefault.jpg" alt="{{ rp.title }}" loading="lazy">
-              {% else %}
-              <div class="related-posts__thumb-placeholder">🍽️</div>
-              {% endif %}
-              <span>{{ rp.title }}</span>
+          <li class="related-posts__card">
+            <a href="{{ rp.url | relative_url }}" class="related-posts__card-link">
+              <div class="related-posts__card-thumb">
+                {% if rp.thumbnail_video_id %}
+                <img src="https://img.youtube.com/vi/{{ rp.thumbnail_video_id }}/mqdefault.jpg" alt="{{ rp.title }}" loading="lazy">
+                {% else %}
+                <div class="related-posts__thumb-placeholder">🍽️</div>
+                {% endif %}
+              </div>
+              <div class="related-posts__card-body">
+                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ rp.genre }}</span>{% endif %}
+                <p class="related-posts__card-title">{{ rp.title }}</p>
+              </div>
             </a>
           </li>
           {% endfor %}
@@ -210,14 +215,19 @@ layout: default
         <p class="related-posts__title">他のグループのまとめも読む</p>
         <ul class="related-posts__list">
           {% for rp in other_posts limit:4 %}
-          <li>
-            <a href="{{ rp.url | relative_url }}" class="related-posts__link">
-              {% if rp.thumbnail_video_id %}
-              <img src="https://img.youtube.com/vi/{{ rp.thumbnail_video_id }}/mqdefault.jpg" alt="{{ rp.title }}" loading="lazy">
-              {% else %}
-              <div class="related-posts__thumb-placeholder">🍽️</div>
-              {% endif %}
-              <span>{{ rp.title }}</span>
+          <li class="related-posts__card">
+            <a href="{{ rp.url | relative_url }}" class="related-posts__card-link">
+              <div class="related-posts__card-thumb">
+                {% if rp.thumbnail_video_id %}
+                <img src="https://img.youtube.com/vi/{{ rp.thumbnail_video_id }}/mqdefault.jpg" alt="{{ rp.title }}" loading="lazy">
+                {% else %}
+                <div class="related-posts__thumb-placeholder">🍽️</div>
+                {% endif %}
+              </div>
+              <div class="related-posts__card-body">
+                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ rp.genre }}</span>{% endif %}
+                <p class="related-posts__card-title">{{ rp.title }}</p>
+              </div>
             </a>
           </li>
           {% endfor %}
