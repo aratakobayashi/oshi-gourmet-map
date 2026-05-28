@@ -2567,9 +2567,9 @@ body {
 .map-cta__text { flex: 1 1 0; min-width: 0; }
 .map-cta__text .hero__btn { margin-top: 20px; display: inline-block; }
 .map-pin-legend {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 24px;
   flex-shrink: 0;
 }
 .pin-item {
