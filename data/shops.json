@@ -34544,7 +34544,11 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "福生2ポンドビッグタワーバーガー",
+      "デモデソーダ"
+    ]
   },
   {
     "id": "kimura-cafe_nun-20240501",
@@ -34574,7 +34578,19 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "おおまさり(ゆで落花生)",
+      "ドリンク(商品名不明)",
+      "生ハムサラダ",
+      "トマトソースのパスタ",
+      "生ビール",
+      "サラダ",
+      "トマトソースのパスタ",
+      "フロート系ドリンク",
+      "生ハムサラダ",
+      "ガーリックライス牛肉添え"
+    ]
   },
   {
     "id": "kimura-trufflebakery-20240417",
@@ -34604,7 +34620,16 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "白トリュフの塩パン",
+      "黒トリュフの卵サンド",
+      "明太子フランス",
+      "ゴルゴンゾーラとはちみつ",
+      "生ハム＆ブリーチーズ",
+      "クリームパン",
+      "白トリュフの塩パン"
+    ]
   },
   {
     "id": "kimura-37fc6d77-20240417",
@@ -34634,7 +34659,12 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "バインミー(フルセット)",
+      "バインミー(フルセット)",
+      "ベトナムライス(ドリンクセット)"
+    ]
   },
   {
     "id": "kimura-bondi_cafe-20240406",
@@ -34664,7 +34694,10 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "スッキリ系の白ワイン(グラス)"
+    ]
   },
   {
     "id": "kimura-573599de-20240401",
@@ -34694,7 +34727,12 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "カレー南蛮＋ご飯",
+      "カレー丼",
+      "生姜焼き定食"
+    ]
   },
   {
     "id": "kimura-9b17c19d-20240320",
@@ -34724,7 +34762,14 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "冷やしピリ辛担々風つけ麺",
+      "餃子(6個)",
+      "かき揚げ丼",
+      "Aセット(たぬきうどん・温)",
+      "パンチ(もつ煮込み)"
+    ]
   },
   {
     "id": "kimura-1937ff35-20240224",
@@ -34754,7 +34799,11 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "フカヒレあんかけ拉麺",
+      "旅奴190g"
+    ]
   },
   {
     "id": "kimura-1ec0b360-20240210",
@@ -34784,7 +34833,16 @@
     "thumbnail_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "ordered_items": [
+      "キムチ盛",
+      "究極限定薄切タン",
+      "究極ハラミ",
+      "ごまサラダ×2",
+      "牛レバー×2(究極)",
+      "シマチョウ(タレ／究極)",
+      "傳々特製スジカレー"
+    ]
   },
   {
     "id": "arashi-e2f2efa6-20201226",
@@ -35611,36 +35669,6 @@
     "tmdb_type": ""
   },
   {
-    "id": "arashi-44344ebb-20200704",
-    "name": "神戸園キャンプ場",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "西多摩郡檜原村",
-    "address": "東京都西多摩郡檜原村神戸8018",
-    "lat": 35.4073329,
-    "lng": 139.1681747,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2020-07-04",
-    "members": [
-      "大野智"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "",
-    "description": "【神戸園マス釣場】アクセス・営業時間・料金情報 – じゃらんnet",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
-  },
-  {
     "id": "arashi-35c71c69-20200704",
     "name": "ごっつり",
     "genre": "寿司",
@@ -36099,40 +36127,6 @@
     "tabelog_score": 3.77,
     "price_range": "-",
     "business_hours": "月・木・金・土・日・祝日・祝前日・祝後日 10:00 - 18:00 L.O. 17:30 火・水 定休日"
-  },
-  {
-    "id": "arashi-719c178e-20200411",
-    "name": "はぁって言うゲーム",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区銀座8丁目8−11",
-    "lat": 35.666698,
-    "lng": 139.763463,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2020-04-11",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "",
-    "description": "不正に転売された高額な商品にご注意ください当ブログでは安心してご利用いただけるよう、できる限り正規販売元のリンクを掲載しております。『探す』ボタンを押すと各ECモールでキーワード検索をいただけますが、メーカーの許可を得ずに高額で転売された商品もみられますので、価格等をご確認ください。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
   },
   {
     "id": "arashi-0aed188d-20200411",
@@ -43463,40 +43457,6 @@
     "tabelog_score": 3.66,
     "price_range": "￥60,000～￥79,999",
     "business_hours": "18:00 - 21:00 ■ 定休日不定休"
-  },
-  {
-    "id": "arashi-62fc056a-20171014",
-    "name": "トランポリン体験　蒼井優",
-    "genre": "食事",
-    "prefecture": "埼玉県",
-    "city": "新座市",
-    "address": "埼玉県新座市野火止3-13-35",
-    "lat": 35.8012439,
-    "lng": 139.558684,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2017-10-14",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "",
-    "description": "トランポリンパーク・トランポランドは全ての方が楽しくジャンプできる施設です。…",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
   },
   {
     "id": "arashi-e631780c-20170128",
