@@ -16,45 +16,45 @@ summary:
   - "焼肉トラジ・うしごろ銀座など人気焼肉スポットも収録"
   - "各店の詳細ページ・動画への動線付き"
 shop_ids:
-  - notme-タコライスcafe-きじむなぁ-デポアイ-20241125
-  - notme-ブルーシールカフェ-デポアイランド-20241125
-  - notme-シュガークレープ-20241125
-  - notme-かき氷工房-雪菓-20241108
-  - notme-磯揚げ-まる天-熱海店-20241101
-  - notme-杉山名産店-20241101
-  - notme-又一庵謹製熱海ばたーあん-20241101
-  - notme-熱海プリン-1st本店-20241101
-  - notme-焼肉トラジ-池袋東口店-20241002
-  - notme-うしごろ-銀座並木通り店-20240821
-  - notme-焼肉トラジ-京橋店-20240814
-  - notme-凸凹堂軽井沢-20240814
-  - notme-杉養蜂園-軽井沢2号店-20240814
-  - notme-ドライブイン-熱海プリン食堂-20240805
-  - notme-熱海城-20240805
-  - notme-昔の矢場とん-20240804
-  - notme-水曜日のアリス-名古屋-20240804
-  - notme-嵐山駅-前-20240804
-  - notme-かに道楽-道頓堀本店-20240804
-  - notme-づぼらや-道頓堀店-前-20240804
-  - notme-ハイランドリゾートホテルスパ-エントラン-20240804
-  - notme-flippers-下北沢店-20240804
-  - notme-中華街餃子館-興記-20240804
-  - notme-猫カフェ-mocha-原宿店-20240804
-  - notme-釣船茶屋ざうお-渋谷店-20250504
-  - notme-浅草きんぎょ-20250112
-  - notme-フルーツ果物王国-20250112
-  - notme-神楽坂-てっぱんや-20241221
-  - notme-揚げもみじの紅葉堂-弐番屋-20240812
-  - notme-あなごめし-ふじたや-20240812
-  - notme-すごう農園直売所ピアッツァ-20240808
-  - notme-sanrio-cafe-池袋店-20240806
-  - notme-ホテル大野屋-20240805
-  - notme-桜井商店-ひもの店-20240805
-  - notme-いいらまんじゅう-阿部商店-20240805
-  - notme-丸高名産店-20240805
-  - notme-dogcat-joker二子玉川-ave-20240814
-  - notme-wego-原宿竹下通り店-20240804
-  - notme-レストラン嵐山-売店-20240804
+  - notme-cafe-202411
+  - notme-b9e687dc-202411
+  - notme-30129d4e-202411
+  - notme-304ed516-202411
+  - notme-d25dc737-202411
+  - notme-a542cec1-202411
+  - notme-4e507645-202411
+  - notme-1st-202411
+  - notme-12cab5ae-202410
+  - notme-b2f81d0e-202408
+  - notme-273b4aa9-202408
+  - notme-37c541ad-202408
+  - notme-db5ba582-202408
+  - notme-41f4ca0a-202408
+  - notme-c2da826b-202408
+  - notme-9293ad0d-202408
+  - notme-897b73f1-202408
+  - notme-6b8de214-202408
+  - notme-bb3bf1c0-202408
+  - notme-fc500dbe-202408
+  - notme-a0944480-202408
+  - notme-flipper_s-202408
+  - notme-c1966798-202408
+  - notme-mocha-202408
+  - notme-4bae4322-202505
+  - notme-ff35be8a-202501
+  - notme-4ab42c47-202501
+  - notme-720f6f5f-202412
+  - notme-9f107f1a-202408
+  - notme-46637985-202408
+  - notme-2d3e71a8-202408
+  - notme-sanrio_cafe-202408
+  - notme-0a69203d-202408
+  - notme-f0a8c1b8-202408
+  - notme-4c1956bb-202408
+  - notme-55b10f69-202408
+  - notme-dog_cat_joker_avenue-202408
+  - notme-wego-202408
+  - notme-78097fab-202408
 faq:
   - q: "≠MEのグルメ動画はどこで見られますか？"
     a: "YouTubeの「≠ME公式チャンネル」で公開されています。各お店のカードから動画を直接確認できます。"
@@ -76,7 +76,7 @@ faq:
 
 > 熱海駅から本店まで徒歩5分。7店はすべて**熱海駅〜熱海城の動線上**に収まっているので、半日あれば全店を無理なく巡れます。
 
-<div class="inline-shop-grid" data-shop-ids="notme-ホテル大野屋-20240805,notme-磯揚げ-まる天-熱海店-20241101,notme-杉山名産店-20241101,notme-桜井商店-ひもの店-20240805,notme-いいらまんじゅう-阿部商店-20240805,notme-熱海プリン-1st本店-20241101,notme-ドライブイン-熱海プリン食堂-20240805"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-0a69203d-202408,notme-d25dc737-202411,notme-a542cec1-202411,notme-f0a8c1b8-202408,notme-4c1956bb-202408,notme-1st-202411,notme-41f4ca0a-202408"></div>
 
 ## 焼肉シリーズ：トラジ2店・うしごろ銀座
 
@@ -84,13 +84,13 @@ faq:
 
 **うしごろ 銀座並木通り店**は**蟹沢萌子・冨田菜々風**が訪れた高級焼肉店。銀座の並木通りに面した落ち着いた空間で、2人のリアクションから「特別な日に行く店」の雰囲気が伝わってくる動画だった。
 
-<div class="inline-shop-grid" data-shop-ids="notme-焼肉トラジ-池袋東口店-20241002,notme-焼肉トラジ-京橋店-20240814,notme-うしごろ-銀座並木通り店-20240821"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-12cab5ae-202410,notme-273b4aa9-202408,notme-b2f81d0e-202408"></div>
 
 ## 釣船茶屋ざうお 渋谷店：冨田菜々風・櫻井もも
 
 **冨田菜々風**と**櫻井もも**が2025年に訪れた話題スポット。店内の生け簀で自分で釣った魚をその場で調理してもらえる体験型の居酒屋で、2人の「釣れた！」という歓声と、釣れなかった時のリアクションのギャップが視聴者に刺さった。渋谷という立地ながら非日常体験ができる一軒として、「推しが行った場所に行きたい」動機が生まれやすい店でもある。
 
-<div class="inline-shop-card" data-shop-id="notme-釣船茶屋ざうお-渋谷店-20250504"></div>
+<div class="inline-shop-card" data-shop-id="notme-4bae4322-202505"></div>
 
 ## 沖縄ロケ（3店）：鈴木瞳美の北谷グルメ
 
@@ -98,19 +98,19 @@ faq:
 
 > 3店はすべて**デポアイランド内**に集まっているため、一か所で全部回れます。那覇から車で約20分。
 
-<div class="inline-shop-grid" data-shop-ids="notme-タコライスcafe-きじむなぁ-デポアイ-20241125,notme-ブルーシールカフェ-デポアイランド-20241125,notme-シュガークレープ-20241125"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-cafe-202411,notme-b9e687dc-202411,notme-30129d4e-202411"></div>
 
 ## 軽井沢ロケ：蟹沢萌子・冨田菜々風
 
 夏の軽井沢を2人で散策した動画。<mark>凸凹堂軽井沢</mark>はクラフト雑貨と食のセレクトショップで、動画では食べ物だけでなく軽井沢の空気感ごと楽しんでいる場面が印象的だった。杉養蜂園のはちみつソフトクリームは軽井沢定番グルメで、「これ食べないと軽井沢に来た気がしない」という2人のやりとりが微笑ましい。
 
-<div class="inline-shop-grid" data-shop-ids="notme-凸凹堂軽井沢-20240814,notme-杉養蜂園-軽井沢2号店-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-37c541ad-202408,notme-db5ba582-202408"></div>
 
 ## 名古屋ロケ：鈴木瞳美・谷崎早耶
 
 **鈴木瞳美**と**谷崎早耶**が訪れた名古屋グルメ。<mark>昔の矢場とん</mark>は名古屋を代表するみそかつの名店で、濃厚な八丁味噌ダレがかかったとんかつに2人とも「これが名古屋か」という表情を見せていた。**水曜日のアリス**は不思議の国のアリスをテーマにしたコンセプトカフェで、グルメというよりも「体験」として話題になったスポット。
 
-<div class="inline-shop-grid" data-shop-ids="notme-昔の矢場とん-20240804,notme-水曜日のアリス-名古屋-20240804"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-9293ad0d-202408,notme-897b73f1-202408"></div>
 
 ## 宮島ロケ：櫻井もも・永田詩央里
 
@@ -118,7 +118,7 @@ faq:
 
 > 2店は**宮島桟橋から徒歩10〜15分**圏内。フェリーは宮島口から約10分で、JR宮島口駅から徒歩すぐです。
 
-<div class="inline-shop-grid" data-shop-ids="notme-揚げもみじの紅葉堂-弐番屋-20240812,notme-あなごめし-ふじたや-20240812"></div>
+<div class="inline-shop-grid" data-shop-ids="notme-9f107f1a-202408,notme-46637985-202408"></div>
 
 ## 東京グルメいろいろ
 
@@ -126,16 +126,16 @@ faq:
 
 **尾木波菜・河口夏音**が訪れた巣鴨のかき氷専門店。天然氷を使った繊細なかき氷は「これが本物のかき氷」と2人が感動していた場面が印象的。夏季は行列必至なので平日午前中の訪問がおすすめ。
 
-<div class="inline-shop-card" data-shop-id="notme-かき氷工房-雪菓-20241108"></div>
+<div class="inline-shop-card" data-shop-id="notme-304ed516-202411"></div>
 
 ### FLIPPER'S 下北沢店
 
 **冨田菜々風・蟹沢萌子**が訪れた「奇跡のパンケーキ」で有名なFLIPPER'S。注文後にスフレのように仕上げるふわふわパンケーキは、2人が「崩れないうちに食べなきゃ」と急いで食べていた姿が微笑ましかった。
 
-<div class="inline-shop-card" data-shop-id="notme-flippers-下北沢店-20240804"></div>
+<div class="inline-shop-card" data-shop-id="notme-flipper_s-202408"></div>
 
 ### 神楽坂 てっぱんや（神楽坂）
 
 **鈴木瞳美・櫻井もも**が2024年末に訪れた神楽坂の鉄板焼き居酒屋。神楽坂の路地裏にある隠れ家的な雰囲気と、鉄板で仕上げる料理のライブ感が魅力。年末の動画ということもあり、2人の仲良しっぷりが伝わる動画になっていた。
 
-<div class="inline-shop-card" data-shop-id="notme-神楽坂-てっぱんや-20241221"></div>
+<div class="inline-shop-card" data-shop-id="notme-720f6f5f-202412"></div>

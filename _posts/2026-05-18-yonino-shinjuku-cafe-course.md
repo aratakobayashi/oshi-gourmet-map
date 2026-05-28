@@ -18,8 +18,8 @@ shop_ids:
   - yonino-paul-bassett-shinjuku
   - yonino-blue-bottle-shinjuku
   - yonino-double-tall-coffee-shinjuku
-  - yonino-400_pizza_tokyo_神楽坂店-20250615
-  - yonino-神楽坂コーヒースタンド-20250625
+  - yonino-400c_pizza_tokyo-202506
+  - yonino-0685dfb8-202506
   - yonino-donish-coffee-kagurazaka
 faq:
   - q: "Paul Bassett 新宿はよにのちゃんねるのどの動画に登場しましたか？"
@@ -36,7 +36,7 @@ faq:
 
 <mark>よにのちゃんねる</mark> のカフェ動画を眺めていると、メンバーが東京でコーヒーを飲む場所には一定のこだわりがあることに気づく。大手チェーンも選ぶが、スペシャルティコーヒーや独立系カフェへの目線が光る。新宿駅周辺から神楽坂にかけてよにのメンバーが訪れたカフェ6店を、半日で歩いて回れるコースにまとめた。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-paul-bassett-shinjuku,yonino-blue-bottle-shinjuku,yonino-double-tall-coffee-shinjuku,yonino-400_pizza_tokyo_神楽坂店-20250615,yonino-神楽坂コーヒースタンド-20250625,yonino-donish-coffee-kagurazaka"></div>
+<div class="inline-shop-grid" data-shop-ids="yonino-paul-bassett-shinjuku,yonino-blue-bottle-shinjuku,yonino-double-tall-coffee-shinjuku,yonino-400c_pizza_tokyo-202506,yonino-0685dfb8-202506,yonino-donish-coffee-kagurazaka"></div>
 
 ## コース全体図
 

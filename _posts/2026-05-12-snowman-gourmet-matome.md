@@ -18,7 +18,7 @@ summary:
 shop_ids:
   - snowman-onigiri-asakusa-yadoroku
   - snowman-tsurujiro-asakusa
-  - snowman-浅草むぎとろ本店-20260415
+  - snowman-41d7688e-202604
   - snowman-abura-gakkai-waseda
   - snowman-ekawatei-koganei
   - snowman-ryuho-kagurazaka
@@ -32,7 +32,7 @@ shop_ids:
   - snowman-brettz-cafe-omotesando
   - snowman-ore-no-kappo-ebisu
   - snowman-asagaya-birdland
-  - snowman-しゃぶ禅_神楽坂店-20260506
+  - snowman-09af6680-202605
   - snowman-wagaya-shokudo-kasai
   - snowman-yakuzenya-ebisu
   - snowman-yoshidaya-tachiaigawa
@@ -47,7 +47,7 @@ shop_ids:
   - snowman-iseyashokudo-yodobashi
   - snowman-panda-restaurant-shibuya
   - snowman-gust-roppongi
-  - snowman-ケーキファクトリーホイップ-20181017
+  - snowman-d4d93a94-201810
 faq:
   - q: "すの日常のグルメ動画はどこで見られますか？"
     a: "YouTubeチャンネル「すの日常」で公開されています。メンバーが実際に訪れたお店を紹介するグルメ動画が多数あります。「すの日常 グルメ」で検索するか、このページのお店カードから動画を直接確認できます。"
@@ -67,7 +67,7 @@ faq:
 
 <mark>浅草駅</mark>を起点に徒歩圏内で巡れる3店がすの日常に登場した。創業60年超の老舗「おにぎり浅草宿六」、もんじゃの「浅草つる次郎 HANARE」、麦とろご飯の老舗「浅草むぎとろ本店」。浅草寺・仲見世通り観光と組み合わせた半日コースに自然に組み込める。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-浅草むぎとろ本店-20260415"></div>
+<div class="inline-shop-grid" data-shop-ids="snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604"></div>
 
 ## ラーメン・中華【早稲田・小金井・神楽坂】
 
@@ -79,7 +79,7 @@ faq:
 
 大阪発の人気焼肉チェーン<mark>大阪焼肉・ホルモン ふたご 六本木店</mark>は、ホルモン中心でコスパが高く六本木という立地ながらがっつり食べられると動画でも盛り上がっていた。神楽坂の「しゃぶ禅」は上質なしゃぶしゃぶが楽しめる専門店だ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-futago-roppongi,snowman-しゃぶ禅_神楽坂店-20260506"></div>
+<div class="inline-shop-grid" data-shop-ids="snowman-futago-roppongi,snowman-09af6680-202605"></div>
 
 ## 寿司・海鮮【銀座の2店】
 
@@ -123,7 +123,7 @@ faq:
 
 「ケーキファクトリー・ホイップ」がすの日常初期の動画に登場。**スイーツ回も地味にある**Snow Manグルメの幅広さを象徴する一店だ。
 
-<div class="inline-shop-card" data-shop-id="snowman-ケーキファクトリーホイップ-20181017"></div>
+<div class="inline-shop-card" data-shop-id="snowman-d4d93a94-201810"></div>
 
 ## エリア別巡礼ルート
 

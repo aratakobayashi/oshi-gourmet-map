@@ -16,7 +16,7 @@ summary:
   - "所要時間は半日〜1日（ランチ＋ディナー両方組み込める）"
 shop_ids:
   - snowman-mipig-cafe-meguro
-  - snowman-土鍋ご飯いくしか中目黒
+  - snowman-ad3a68f9-202506
   - snowman-brettz-cafe-omotesando
   - snowman-yakuzenya-ebisu
   - snowman-futago-roppongi
@@ -34,7 +34,7 @@ faq:
 
 <mark>Snow Man</mark> がすの日常チャンネルで訪れてきた東京の食のレパートリーは、ミニブタカフェから本格フレンチまで驚くほど幅広い。目黒でミニブタに癒やされ、中目黒の土鍋ご飯で身体を整え、恵比寿で薬膳を試し、六本木でフレンチや焼肉を楽しむ——大人の東京を一日かけて巡る、すの日常ゆかりの全6店コースを紹介する。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-mipig-cafe-meguro,snowman-土鍋ご飯いくしか中目黒,snowman-brettz-cafe-omotesando,snowman-yakuzenya-ebisu,snowman-futago-roppongi,snowman-gust-roppongi"></div>
+<div class="inline-shop-grid" data-shop-ids="snowman-mipig-cafe-meguro,snowman-ad3a68f9-202506,snowman-brettz-cafe-omotesando,snowman-yakuzenya-ebisu,snowman-futago-roppongi,snowman-gust-roppongi"></div>
 
 ## コース全体図
 

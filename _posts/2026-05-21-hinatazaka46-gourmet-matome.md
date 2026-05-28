@@ -18,9 +18,9 @@ shop_ids:
   - hinatazaka46-tsukiji-uniko
   - hinatazaka46-sawayaka-shizuoka
   - hinatazaka46-dashi-chazuke-en-narita
-  - hinatazaka46-一山いけす-20200405
-  - hinatazaka46-元祖今川焼_さのや-20200405
-  - hinatazaka46-お食事処ゆうなぎ-20200405
+  - hinatazaka46-039367a9-202004
+  - hinatazaka46-e928610f-202004
+  - hinatazaka46-8054cbca-202004
   - hinatazaka46-san_francisco_peaks-
 faq:
   - q: "日向坂46のグルメ聖地はどのエリアが多いですか？"
@@ -51,7 +51,7 @@ faq:
 
 2020年4月の銚子ロケ回は日向坂46グルメ動画の中でも特に人気の回。<mark>一山いけす</mark>の新鮮な活魚料理・<mark>元祖今川焼 さのや</mark>の銚子名物今川焼き・<mark>お食事処ゆうなぎ</mark>のローカルラーメンと、銚子市内に3店が集まる。成田空港では<mark>だし茶漬け えん 成田空港店</mark>（2024年6月）のだし茶漬けも話題になった。
 
-<div class="inline-shop-grid" data-shop-ids="hinatazaka46-dashi-chazuke-en-narita,hinatazaka46-一山いけす-20200405,hinatazaka46-元祖今川焼_さのや-20200405,hinatazaka46-お食事処ゆうなぎ-20200405"></div>
+<div class="inline-shop-grid" data-shop-ids="hinatazaka46-dashi-chazuke-en-narita,hinatazaka46-039367a9-202004,hinatazaka46-e928610f-202004,hinatazaka46-8054cbca-202004"></div>
 
 ## 巡礼プランのヒント
 

@@ -21,7 +21,7 @@ shop_ids:
   - yonino-imahan-asakusa
   - snowman-onigiri-asakusa-yadoroku
   - snowman-tsurujiro-asakusa
-  - snowman-浅草むぎとろ本店-20260415
+  - snowman-41d7688e-202604
   - snowman-unagi-kawamatu-higashikurume
 faq:
   - q: "よにのちゃんねるが浅草で行ったお店はどこですか？"
@@ -38,7 +38,7 @@ faq:
 
 浅草は<mark>よにのちゃんねる</mark>と<mark>Snow Man（すの日常）</mark>の2グループが、それぞれ独立して何度も選んできたエリアだ。2グループ合わせて6店・10本以上の動画に浅草のお店が登場しており、もんじゃ・すき焼き・おにぎり・うなぎ・麦とろという浅草らしい老舗食文化が揃っている。1エリアで異なるグループの聖地を一気に巡れる、ファンにとって効率のいい聖地だ。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-teppan-daikichi,yonino-imahan-asakusa,snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-浅草むぎとろ本店-20260415,snowman-unagi-kawamatu-higashikurume"></div>
+<div class="inline-shop-grid" data-shop-ids="yonino-teppan-daikichi,yonino-imahan-asakusa,snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604,snowman-unagi-kawamatu-higashikurume"></div>
 
 ## よにのちゃんねるの浅草【2店】
 
@@ -86,7 +86,7 @@ faq:
 
 > **最寄り：東武スカイツリーライン浅草駅 徒歩約2分**。雷門のすぐそば。**11:00〜21:00**営業（土日は〜20:30）。浅草観光の昼食にも使いやすい。
 
-<div class="inline-shop-card" data-shop-id="snowman-浅草むぎとろ本店-20260415"></div>
+<div class="inline-shop-card" data-shop-id="snowman-41d7688e-202604"></div>
 
 ### うなぎ川松（うなぎ）
 

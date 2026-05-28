@@ -23,11 +23,11 @@ shop_ids:
   - heysayjump-a4fe57cb-20160518
   - heysayjump-sun_mi_emu-20160518
   - heysayjump-d26f3f7f-20161026
-  - heysayjump-赤ちり亭渋谷本店
+  - heysayjump-a5e442e2-201603
   - heysayjump-bee-20170201
   - heysayjump-747256d6-20170201
   - heysayjump-new_new_york_club-20161026
-  - heysayjump-newnewyorkclubテイクアウト
+  - heysayjump-new_new_york_club-201610
   - heysayjump-hero_s-20160414
   - heysayjump-aad59291-20160414
   - heysayjump-d5f50b8f-20180908
@@ -86,13 +86,13 @@ faq:
 
 <mark>赤坂鮨兆</mark>（2016年5月放送）・<mark>銀熊茶寮</mark>・<mark>Sun-mi 高松本店 EMU</mark>の3店が赤坂・六本木エリアに集中。渋谷では<mark>赤ちり亭 渋谷本店</mark>が登場し、新宿では<mark>秀ちゃんラーメン赤坂</mark>・<mark>ダイニングダーツバー Bee 新宿店</mark>・<mark>パセラリゾーツ 銀座店</mark>など個性的な店が続く。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-b2922bdd-20160518,heysayjump-a4fe57cb-20160518,heysayjump-sun_mi_emu-20160518,heysayjump-d26f3f7f-20161026,heysayjump-赤ちり亭渋谷本店,heysayjump-bee-20170201,heysayjump-747256d6-20170201"></div>
+<div class="inline-shop-grid" data-shop-ids="heysayjump-b2922bdd-20160518,heysayjump-a4fe57cb-20160518,heysayjump-sun_mi_emu-20160518,heysayjump-d26f3f7f-20161026,heysayjump-a5e442e2-201603,heysayjump-bee-20170201,heysayjump-747256d6-20170201"></div>
 
 ## 目黒・大田区・テイクアウトエリア
 
 <mark>New NEW YORK CLUB</mark>は目黒区緑が丘に構えるハンバーガー専門店。2016年10月放送回ではテイクアウトスタイルで登場した。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-new_new_york_club-20161026,heysayjump-newnewyorkclubテイクアウト"></div>
+<div class="inline-shop-grid" data-shop-ids="heysayjump-new_new_york_club-20161026,heysayjump-new_new_york_club-201610"></div>
 
 ## 秋葉原・深川・亀戸エリア【下町グルメ】
 

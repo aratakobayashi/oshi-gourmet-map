@@ -24,76 +24,76 @@ shop_ids:
   - equallove_006
   - equallove_009
   - equallove_010
-  - equal_love-海底撈火鍋_新宿店-20260328
-  - equal_love-omo5横浜馬車道_by_星野リゾート-20260322
-  - equal_love-みそきん_池袋店-20260306
-  - equal_love-晴れる屋_新橋店-20260207
-  - equal_love-福炎や-20260207
-  - equal_love-ヒロキヤ_六本木-20241102
-  - equal_love-オービカ_モッツァレラバー-20240925
-  - equal_love-37_ステーキハウス__バー-20240925
-  - equal_love-近江町市場-20240815
-  - equal_love-かいてん寿し_大倉-20240815
-  - equal_love-近江町コロッケ-20240815
-  - equal_love-加賀百万石の味_げんかん-20240815
-  - equal_love-天然温泉_加賀の宝泉_御宿_野乃_金沢-20240815
-  - equal_love-らうめん侍_本丸-20240815
-  - equal_love-まわる寿し_もりもり寿し_近江町店-20240815
-  - equal_love-西鉄リゾートイン那覇-20240815
-  - equal_love-カフェダイニング_mateki-20240815
-  - equal_love-そば街角-20240815
-  - equal_love-むつみ橋商店街-20240815
-  - equal_love-カリフキッチン沖縄-20240815
-  - equal_love-赤鬼-20240814
-  - equal_love-情熱居酒屋じゃじゃ馬-20240814
-  - equal_love-赤羽_もつ焼のんき-20240814
-  - equal_love-やきとん_大王_赤羽店-20240814
-  - equal_love-タイトーステーション_広島本通店-20240814
-  - equal_love-ひろしま夢ぷらざ-20240814
-  - equal_love-ちから_本通四丁目店-20240814
-  - equal_love-お好み村てつ-20240814
-  - equal_love-清水順正_おかべ家-20240804
-  - equal_love-錦市場-20240804
-  - equal_love-芋ぴっぴ京都祇園店-20240804
-  - equal_love-錦まるん-20240804
-  - equal_love-いっかくじゅう_四条新町店-20240804
-  - equal_love-舟和_仲見世1号店-20240804
-  - equal_love-舟和_仲見世2号店-20240804
-  - equal_love-安立屋-20240804
-  - equal_love-しゃぶしゃぶ_さくら-20260131
-  - equal_love-らーめん_ぽっぽっ屋_水道橋店-20251205
-  - equal_love-プングム_新大久保本店-20251122
-  - equal_love-沼津港海将_zero_上野店-20251114
-  - equal_love-ミヤトヨ本店-20250915
+  - equal_love-38e32469-202603
+  - equal_love-omo5_by-202603
+  - equal_love-1296f01f-202603
+  - equal_love-c9f2c2fc-202602
+  - equal_love-40432413-202602
+  - equal_love-ef034477-202411
+  - equal_love-a330c186-202409
+  - equal_love-37-202409
+  - equal_love-82fa4e5f-202408
+  - equal_love-c803c552-202408
+  - equal_love-0d7bdac2-202408
+  - equal_love-e334efa9-202408
+  - equal_love-7c808339-202408
+  - equal_love-7cbba11a-202408
+  - equal_love-9546a908-202408
+  - equal_love-734ae6ce-202408
+  - equal_love-mateki-202408
+  - equal_love-a8a055cd-202408
+  - equal_love-eb79711c-202408
+  - equal_love-a47973a5-202408
+  - equal_love-d377e2fc-202408
+  - equal_love-227419b6-202408
+  - equal_love-443dcbb1-202408
+  - equal_love-67a09d04-202408
+  - equal_love-c9294339-202408
+  - equal_love-e981ea6f-202408
+  - equal_love-dc047633-202408
+  - equal_love-16a33a28-202408
+  - equal_love-93d5e98f-202408
+  - equal_love-1611bac7-202408
+  - equal_love-b0d04596-202408
+  - equal_love-c6d6b2f9-202408
+  - equal_love-a5ac4a24-202408
+  - equal_love-acc7e129-202408
+  - equal_love-93b29440-202408
+  - equal_love-4151a4c5-202408
+  - equal_love-27c61836-202601
+  - equal_love-85f871ac-202512
+  - equal_love-a82124f4-202511
+  - equal_love-zero-202511
+  - equal_love-2c58e013-202509
   - equal_love-gebura-20250915
-  - equal_love-鳥居屋-20250915
-  - equal_love-お食事処_とりい-20250915
-  - equal_love-天心閣-20250915
-  - equal_love-揚げもみじの紅葉堂_本店-20250915
-  - equal_love-有丸福食堂-20250820
-  - equal_love-パスティス広尾ハウス-20250628
-  - equal_love-金沢まいもん寿司_珠姫_玉川高島屋sc店-20250628
-  - equal_love-バーミヤン_神宮前店-20250627
-  - equal_love-一蘭_池袋店-20250608
-  - equal_love-信州そば処_やまへい_軽井沢店-20250530
-  - equal_love-熟成和牛焼肉_エイジングビーフ軽井沢-20250530
-  - equal_love-金華園-20250410
-  - equal_love-マンダリン_オリエンタル東京_イタリアン-20250315
-  - equal_love-えどもんど中野-20250215
-  - equal_love-蒙古タンメン中本_上板橋本店-20250131
-  - equal_love-あちらぼ-20241215
-  - equal_love-やきとん長良-20241215
-  - equal_love-まんまじぃま-20241215
-  - equal_love-ガーデンテラスカフェ-20240812
-  - equal_love-華正樓_本店-20240812
-  - equal_love-龍茶_生タピオカ専門店-20240812
-  - equal_love-福臨閣売店-20240812
-  - equal_love-さくらの夢見屋_小町通り本店-20240809
-  - equal_love-八倉_湘南の魚と鎌倉野菜-20240809
-  - equal_love-鎌倉壱番屋_雪ノ下店-20240809
-  - equal_love-ともや_鎌倉小町店-20240809
-  - equal_love-からあげ_まこちゃん_鎌倉本店-20240809
-  - equal_love-鎌倉茶々本店-20240809
+  - equal_love-1a1850e6-202509
+  - equal_love-182c15f9-202509
+  - equal_love-962734e3-202509
+  - equal_love-5778582a-202509
+  - equal_love-dc15f6aa-202508
+  - equal_love-e732d9bf-202506
+  - equal_love-sc-202506
+  - equal_love-51127111-202506
+  - equal_love-287b97eb-202506
+  - equal_love-ab8c67a3-202505
+  - equal_love-290f63cb-202505
+  - equal_love-68911978-202504
+  - equal_love-9cc892b4-202503
+  - equal_love-f22d7edd-202502
+  - equal_love-7aed8c96-202501
+  - equal_love-a9d4d24e-202412
+  - equal_love-bd15bb1d-202412
+  - equal_love-17396234-202412
+  - equal_love-6e007468-202408
+  - equal_love-a2c7e427-202408
+  - equal_love-875bdcd7-202408
+  - equal_love-3cc7d56c-202408
+  - equal_love-d556ceee-202408
+  - equal_love-87c3ff9e-202408
+  - equal_love-cb7485f1-202408
+  - equal_love-22eda348-202408
+  - equal_love-1c33a8b5-202408
+  - equal_love-1de9b314-202408
 faq:
   - q: "イコラブのグルメ動画はどこで見られますか？"
     a: "YouTubeの「=LOVE公式チャンネル」で公開されています。各お店のカードから動画を直接確認できます。"
@@ -123,7 +123,7 @@ faq:
 
 > 元町・中華街駅から徒歩圏内に4店が集まっているので、半日でまとめて巡れます。週末は混雑するため**平日の午後**がおすすめ。
 
-<div class="inline-shop-grid" data-shop-ids="equallove_009,equallove_002,equal_love-ガーデンテラスカフェ-20240812,equal_love-龍茶_生タピオカ専門店-20240812"></div>
+<div class="inline-shop-grid" data-shop-ids="equallove_009,equallove_002,equal_love-6e007468-202408,equal_love-875bdcd7-202408"></div>
 
 ## さなつんのはしご酒：高円寺編
 
@@ -131,13 +131,13 @@ faq:
 
 > 高円寺駅南口から徒歩10分以内に4店が収まっています。夕方17時スタートで、終電までに余裕をもって全店まわれます。
 
-<div class="inline-shop-grid" data-shop-ids="equallove_004,equal_love-やきとん長良-20241215,equal_love-あちらぼ-20241215,equal_love-まんまじぃま-20241215"></div>
+<div class="inline-shop-grid" data-shop-ids="equallove_004,equal_love-bd15bb1d-202412,equal_love-a9d4d24e-202412,equal_love-17396234-202412"></div>
 
 ## さなつんのはしご酒：赤羽編
 
 高円寺編よりさらにディープな赤羽。もつ焼き・やきとん系の店が連なり、昭和の下町感がそのまま残るエリアだ。「赤鬼」「もつ焼のんき」「やきとん大王」と、赤羽を知っている人が見ると「よくぞここを選んだ」と唸るセレクション。さなつんのお酒と場所の選び方のセンスが、このシリーズを単なるグルメ動画で終わらせていない理由でもある。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-赤鬼-20240814,equal_love-情熱居酒屋じゃじゃ馬-20240814,equal_love-赤羽_もつ焼のんき-20240814,equal_love-やきとん_大王_赤羽店-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-443dcbb1-202408,equal_love-67a09d04-202408"></div>
 
 ## 金沢ロケ（7店）：近江町市場を起点に
 
@@ -145,7 +145,7 @@ faq:
 
 > 市場は**午前10時ごろが活気のピーク**。週末は混みやすいので平日訪問がベター。らうめん侍は金沢百番街（駅構内）にあるため、帰りの新幹線前にも立ち寄れます。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-近江町市場-20240815,equal_love-まわる寿し_もりもり寿し_近江町店-20240815,equal_love-かいてん寿し_大倉-20240815,equal_love-近江町コロッケ-20240815,equal_love-加賀百万石の味_げんかん-20240815,equal_love-らうめん侍_本丸-20240815"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-82fa4e5f-202408,equal_love-9546a908-202408,equal_love-c803c552-202408,equal_love-0d7bdac2-202408,equal_love-e334efa9-202408,equal_love-7cbba11a-202408"></div>
 
 ## 広島・宮島ロケ（11店）
 
@@ -155,13 +155,13 @@ faq:
 
 > 宮島は**潮の満ち引きで景色が変わる**ので、大鳥居の干潮時刻をあらかじめ調べてから訪問すると満足度がぐっと上がります。6店はいずれも徒歩15分圏内に収まっているのでまとめて巡れます。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-揚げもみじの紅葉堂_本店-20250915,equal_love-ミヤトヨ本店-20250915,equal_love-gebura-20250915,equal_love-鳥居屋-20250915,equal_love-お食事処_とりい-20250915,equal_love-天心閣-20250915"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-5778582a-202509,equal_love-2c58e013-202509,equal_love-gebura-20250915,equal_love-1a1850e6-202509,equal_love-182c15f9-202509,equal_love-962734e3-202509"></div>
 
 ### 広島市内：本場のお好み焼き
 
 広島市内のロケでは本通商店街周辺のお好み焼き店が登場。鉄板の前で**「これが本物か…」**と静かに感動するメンバーの表情が、広島お好み焼きの説得力を代弁していた。東京で食べるものとの違いは実際に食べてみないと分からない部分があるので、ここはグルメ体験として行く価値がある。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-お好み村てつ-20240814,equal_love-ちから_本通四丁目店-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-16a33a28-202408,equal_love-dc047633-202408"></div>
 
 ## 鎌倉ロケ（6店）：小町通り食べ歩き
 
@@ -169,7 +169,7 @@ faq:
 
 > 週末の小町通りは人が多く、行列ができる店も。**平日の午前中〜昼すぎ**が一番ゆっくり巡れます。鎌倉駅から全店が徒歩10分圏内に収まっています。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-さくらの夢見屋_小町通り本店-20240809,equal_love-からあげ_まこちゃん_鎌倉本店-20240809,equal_love-鎌倉茶々本店-20240809,equal_love-八倉_湘南の魚と鎌倉野菜-20240809,equal_love-ともや_鎌倉小町店-20240809,equal_love-鎌倉壱番屋_雪ノ下店-20240809"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-d556ceee-202408,equal_love-1c33a8b5-202408,equal_love-1de9b314-202408,equal_love-87c3ff9e-202408,equal_love-22eda348-202408,equal_love-cb7485f1-202408"></div>
 
 ## 沖縄ロケ（6店）：那覇のリアルグルメ
 
@@ -177,7 +177,7 @@ faq:
 
 > カリフキッチン沖縄は北谷・美浜エリアにあるため、那覇から車で約20分。**レンタカーがあると回りやすい**です。那覇市内の店は公共交通（ゆいレール）でアクセス可。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-そば街角-20240815,equal_love-カフェダイニング_mateki-20240815,equal_love-むつみ橋商店街-20240815,equal_love-カリフキッチン沖縄-20240815"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-a8a055cd-202408,equal_love-mateki-202408,equal_love-eb79711c-202408,equal_love-a47973a5-202408"></div>
 
 ## 京都ロケ（5店）：錦市場〜清水〜祇園
 
@@ -185,7 +185,7 @@ faq:
 
 > 錦市場→清水→祇園の順に歩くと**下り坂で体が楽**。混雑する昼を避けて10時台にスタートし、ランチを清水周辺で食べるルートがおすすめです。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-錦市場-20240804,equal_love-錦まるん-20240804,equal_love-清水順正_おかべ家-20240804,equal_love-芋ぴっぴ京都祇園店-20240804,equal_love-いっかくじゅう_四条新町店-20240804"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-1611bac7-202408,equal_love-c6d6b2f9-202408,equal_love-93d5e98f-202408,equal_love-b0d04596-202408,equal_love-a5ac4a24-202408"></div>
 
 ## MV聖地：推しの世界観ごと体験できる2店
 
@@ -205,4 +205,4 @@ faq:
 
 直近の動画でも東京各地の新しいスポットが続々と登場している。<mark>海底撈の火鍋</mark>やみそきん池袋店など、ファンの間で「次行ってみたい」と話題になっているお店をまとめて確認できる。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-海底撈火鍋_新宿店-20260328,equal_love-みそきん_池袋店-20260306,equal_love-蒙古タンメン中本_上板橋本店-20250131,equal_love-一蘭_池袋店-20250608,equal_love-プングム_新大久保本店-20251122"></div>
+<div class="inline-shop-grid" data-shop-ids="equal_love-38e32469-202603,equal_love-1296f01f-202603,equal_love-7aed8c96-202501,equal_love-287b97eb-202506,equal_love-a82124f4-202511"></div>

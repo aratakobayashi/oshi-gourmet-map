@@ -15,30 +15,30 @@ summary:
   - "箱根・横浜・大阪・愛知への遠征グルメも掲載"
   - "住所・YouTube動画リンクつきで聖地巡礼計画が立てやすい"
 shop_ids:
-  - neajoy-北ノ醤油チーホー-20260429
-  - neajoy-天下一品_中野店-20240814
-  - neajoy-みそきん-20251027
-  - neajoy-目黒魂心家-20250613
-  - neajoy-鳥貴族_新宿小滝橋通り店-20240910
-  - neajoy-串カツ田中_有楽町店-20251010
-  - neajoy-浅草もんじゃ_もんろう-20250604
-  - neajoy-スイーツパラダイス_原宿店-20240814
-  - neajoy-鳥のいるカフェ_千駄木店-20240814
-  - neajoy-samoyed_cafe_al_横浜中華-20250903
-  - neajoy-喜久屋-20240804
-  - neajoy-くろげ_浅草雷門店-20240804
-  - neajoy-エブリデイ多摩ノ国-20240814
-  - neajoy-pippon_中延店-20240807
-  - neajoy-コスメキッチン_代官山本店-20240814
-  - neajoy-有明アーバンスポーツパーク_brilli-20260226
-  - neajoy-箱根湯本駅_箱根方面バス口-20240814
-  - neajoy-大涌谷_駅の店-20240814
-  - neajoy-徳造丸_海鮮家_箱根湯本店-20240814
-  - neajoy-杉養蜂園_箱根店-20240814
-  - neajoy-閉店さつまいも専門店_箱根おいも大学前-20240814
-  - neajoy-レストラン_seafood__grill-20240814
-  - neajoy-人類みな麺類-20240814
-  - neajoy-暴れん坊チキン-20240814
+  - neajoy-6ad11682-202604
+  - neajoy-403503b7-202408
+  - neajoy-9c15ea70-202510
+  - neajoy-085d4b4a-202506
+  - neajoy-afc14d66-202409
+  - neajoy-9538e782-202510
+  - neajoy-944f9665-202506
+  - neajoy-08395d58-202408
+  - neajoy-b1d5f8cd-202408
+  - neajoy-samoyed_cafe_al-202509
+  - neajoy-ea607bdf-202408
+  - neajoy-cc4ef957-202408
+  - neajoy-f961d046-202408
+  - neajoy-pippon-202408
+  - neajoy-d8279a41-202408
+  - neajoy-brilliarunningstadiu-202602
+  - neajoy-78570ead-202408
+  - neajoy-14f3ebca-202408
+  - neajoy-0ccad40f-202408
+  - neajoy-5d7a9b9d-202408
+  - neajoy-67083c58-202408
+  - neajoy-seafood_grill_yakiya-202408
+  - neajoy-ec121482-202408
+  - neajoy-cf70ada8-202408
   - neajoy-la_maison_du_r-20240814
 faq:
   - q: "≒JOYはどんなグループですか？"
@@ -57,34 +57,34 @@ faq:
 
 <mark>北ノ醤油チーホー</mark>（2026年4月）は東京の醤油ラーメン専門店。<mark>天下一品 中野店</mark>はこってりスープで有名なチェーンの名店。<mark>みそきん</mark>（2025年10月）・<mark>目黒魂心家</mark>（2025年6月）はSNSでも話題の人気ラーメン店。大阪の<mark>人類みな麺類</mark>は遠征時に訪れた大阪の名物ラーメン店だ。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-北ノ醤油チーホー-20260429,neajoy-天下一品_中野店-20240814,neajoy-みそきん-20251027,neajoy-目黒魂心家-20250613,neajoy-人類みな麺類-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-6ad11682-202604,neajoy-403503b7-202408,neajoy-9c15ea70-202510,neajoy-085d4b4a-202506,neajoy-ec121482-202408"></div>
 
 ## 居酒屋・もんじゃ【3店】
 
 <mark>鳥貴族 新宿小滝橋通り店</mark>（2024年9月）・<mark>串カツ田中 有楽町店</mark>（2025年10月）は全国チェーンだが、≒JOY の動画でメンバーが楽しむ様子が人気を集めた。<mark>浅草もんじゃ もんろう</mark>（2025年6月）は浅草の下町もんじゃで、撮れ高抜群の回として話題になった。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-鳥貴族_新宿小滝橋通り店-20240910,neajoy-串カツ田中_有楽町店-20251010,neajoy-浅草もんじゃ_もんろう-20250604"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-afc14d66-202409,neajoy-9538e782-202510,neajoy-944f9665-202506"></div>
 
 ## カフェ・スイーツ【3店】
 
 <mark>スイーツパラダイス 原宿店</mark>（2024年8月）はスイーツ食べ放題が楽しめる原宿の定番スポット。<mark>鳥のいるカフェ 千駄木店</mark>は鳥と触れ合える癒し系カフェ。横浜中華街の<mark>Samoyed cafe AL</mark>（2025年9月）はサモエド犬と過ごせる動物カフェだ。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-スイーツパラダイス_原宿店-20240814,neajoy-鳥のいるカフェ_千駄木店-20240814,neajoy-samoyed_cafe_al_横浜中華-20250903"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-08395d58-202408,neajoy-b1d5f8cd-202408,neajoy-samoyed_cafe_al-202509"></div>
 
 ## 食事・その他【東京 6店】
 
 <mark>喜久屋</mark>・<mark>くろげ 浅草雷門店</mark>（2024年8月）は浅草エリアの食事処。<mark>エブリデイ多摩ノ国</mark>・<mark>PiPPon 中延店</mark>は地元密着型の食事スポット。<mark>コスメキッチン 代官山本店</mark>（代官山のセレクトショップ）・<mark>有明アーバンスポーツパーク</mark>（2026年2月）はグルメ以外のお出かけ先も含んだ≒JOY らしい多彩なラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-喜久屋-20240804,neajoy-くろげ_浅草雷門店-20240804,neajoy-エブリデイ多摩ノ国-20240814,neajoy-pippon_中延店-20240807,neajoy-コスメキッチン_代官山本店-20240814,neajoy-有明アーバンスポーツパーク_brilli-20260226"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-ea607bdf-202408,neajoy-cc4ef957-202408,neajoy-f961d046-202408,neajoy-pippon-202408,neajoy-d8279a41-202408,neajoy-brilliarunningstadiu-202602"></div>
 
 ## 箱根・神奈川遠征【6店】
 
 2024年8月の箱根ロケ回は≒JOY グルメ動画の中でも特に人気の高い回。<mark>徳造丸 海鮮家 箱根湯本店</mark>の金目鯛料理・<mark>杉養蜂園 箱根店</mark>のはちみつスイーツ・<mark>レストラン Seafood ＆ Grill YAKIYA</mark>と箱根湯本駅周辺に名店が集中。大涌谷では<mark>大涌谷 駅の店</mark>の黒たまごが定番。なお、さつまいも専門店「箱根おいも大学前」は現在**閉店**しているため訪問前にご注意ください。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-箱根湯本駅_箱根方面バス口-20240814,neajoy-徳造丸_海鮮家_箱根湯本店-20240814,neajoy-杉養蜂園_箱根店-20240814,neajoy-閉店さつまいも専門店_箱根おいも大学前-20240814,neajoy-大涌谷_駅の店-20240814,neajoy-レストラン_seafood__grill-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-78570ead-202408,neajoy-0ccad40f-202408,neajoy-5d7a9b9d-202408,neajoy-67083c58-202408,neajoy-14f3ebca-202408,neajoy-seafood_grill_yakiya-202408"></div>
 
 ## 愛知遠征【2店】
 
 名古屋遠征では<mark>暴れん坊チキン</mark>と<mark>La Maison du R</mark>の2店が登場。≒JOY の全国各地を巡るグルメ動画らしい遠征コンテンツだ。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-暴れん坊チキン-20240814,neajoy-la_maison_du_r-20240814"></div>
+<div class="inline-shop-grid" data-shop-ids="neajoy-cf70ada8-202408,neajoy-la_maison_du_r-20240814"></div>

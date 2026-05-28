@@ -17,11 +17,11 @@ summary:
   - "エリア別巡礼ルートで効率よく聖地めぐりできる"
 shop_ids:
   - sixtones-gyugyu-nishiazabu
-  - sixtones-叙々苑游玄亭西麻布本館
+  - sixtones-5de59474-202101
   - sixtones-ushimitsu-ebisu
   - sixtones-daruma-soramachi
   - sixtones-honjo-kaeru-honpo
-  - sixtones-もんじゃまぐろ家
+  - sixtones-c2272dd2-201906
   - sixtones-kamonka-kinshicho
   - sixtones-dintaifung-soramachi
   - sixtones-houtenkaku-chinatown
@@ -30,16 +30,16 @@ shop_ids:
   - sixtones-kamakura-mushanan
   - sixtones-cafe1894-marunouchi
   - sixtones-cafepark
-  - sixtones-3丁目の小さなパン屋ちいぱん
-  - sixtones-eggs-nthings原宿店
-  - sixtones-本処かえる本舗
-  - sixtones-一蘭渋谷店
+  - sixtones-53e6c3d6-202411
+  - sixtones-eggs_n_things-201904
+  - sixtones-0f6b2048-202411
+  - sixtones-a3a0ff52-202003
   - sixtones-minmin-hachioji
   - sixtones-torigen-shinjuku
-  - sixtones-蘭蝶
+  - sixtones-bf58b791-202212
   - sixtones-toriki-shinjuku
-  - sixtones-うなぎ徳渋谷店
-  - sixtones-笑たこ原宿表参道店
+  - sixtones-2ed2841e-202305
+  - sixtones-2b41b180-202411
   - sixtones-yakitoritei-nakameguro
   - sixtones-tomiya-asakusa
   - sixtones-muromachi-tanakaya
@@ -57,12 +57,12 @@ shop_ids:
   - sixtones-unagi-maruchu
   - sixtones-ramen-hakubutsukan
   - sixtones-sano-sa-foodcourt
-  - sixtones-阿左美冷蔵金崎本店sixtones
-  - sixtones-豚みそ丼本舗野さか
-  - sixtones-手打ちそばこめや
-  - sixtones-もりもり寿司金沢駅前店
-  - sixtones-京料理六盛
-  - sixtones-yykafeidian喜園咖啡店
+  - sixtones-sixtones-202108
+  - sixtones-f52d4936-202108
+  - sixtones-b647a3f1-202204
+  - sixtones-4330a634-202204
+  - sixtones-b5dfc98a-202310
+  - sixtones-yy_kafei_dian-202403
   - sixtones-tiantianhainanesechickenrice
   - sixtones-cicheti
 faq:
@@ -84,7 +84,7 @@ faq:
 
 <mark>西麻布エリア</mark>には高級焼肉店が集中しており、「牛牛 西麻布 総本店」「叙々苑 游玄亭 西麻布本館」「恵比寿 焼肉 うしみつ」の3店がストチューブに登場している。**厳選和牛・熟成肉・ホルモン**とスタイルが異なり、動画公開後に注目度が跳ね上がった店ばかりだ。六本木〜恵比寿エリアの「肉の半日コース」として計画しやすい。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-gyugyu-nishiazabu,sixtones-叙々苑游玄亭西麻布本館,sixtones-ushimitsu-ebisu"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-gyugyu-nishiazabu,sixtones-5de59474-202101,sixtones-ushimitsu-ebisu"></div>
 
 ## もんじゃ【ソラマチ・本所・月島の3店】
 
@@ -92,7 +92,7 @@ faq:
 
 > 押上駅はスカイツリー直結。**だるまソラマチとディンタイフォンをセット**で巡礼するのが最も効率の良いコース。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-daruma-soramachi,sixtones-honjo-kaeru-honpo,sixtones-もんじゃまぐろ家"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-daruma-soramachi,sixtones-honjo-kaeru-honpo,sixtones-c2272dd2-201906"></div>
 
 ## 中華【ソラマチ・横浜中華街の4店】
 
@@ -110,31 +110,31 @@ faq:
 
 丸の内の歴史的建築内にある<mark>Café 1894</mark>、恵比寿の「CAFE PARK」、新宿の「3丁目の小さなパン屋 ちいぱん」、原宿の「Eggs 'n Things」など、東京各地のカフェ・スイーツ店が登場した。動画ごとにメンバーの組み合わせが変わり、それぞれ異なる雰囲気が楽しめる。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-cafe1894-marunouchi,sixtones-cafepark,sixtones-3丁目の小さなパン屋ちいぱん,sixtones-eggs-nthings原宿店,sixtones-本処かえる本舗"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-cafe1894-marunouchi,sixtones-cafepark,sixtones-53e6c3d6-202411,sixtones-eggs_n_things-201904,sixtones-0f6b2048-202411"></div>
 
 ## ラーメン【東京】
 
 一蘭の天然とんこつ（渋谷店）と、八王子の「みんみんラーメン」が登場。どちらも"ただ食べる"シンプルなラーメン回で、飾らないメンバーの食べっぷりが見どころだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-一蘭渋谷店,sixtones-minmin-hachioji"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-a3a0ff52-202003,sixtones-minmin-hachioji"></div>
 
 ## 居酒屋【東京】
 
 新宿の老舗焼き鳥「鳥元」、大森の「蘭蝶」、コスパで知られる「鳥貴族 新宿東口店」が動画に登場した。どれもメンバーが肩の力を抜いてわいわいと楽しむ居酒屋回で、6人の素顔が見えるシーンが多い。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-torigen-shinjuku,sixtones-蘭蝶,sixtones-toriki-shinjuku"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-torigen-shinjuku,sixtones-bf58b791-202212,sixtones-toriki-shinjuku"></div>
 
 ## 和食・洋食【東京】
 
 渋谷の「うなぎ徳」、浅草の「とんかつ とみ家」「グリルグランド」、中目黒の「串若丸」、日本橋の「室町 砂場」、両国の「ちゃんこ 霧島」、中目黒の「Pizzeria da ISA」など、東京各地の多彩な和食・洋食店が登場した。旅ロケ以外でもジャンルを問わず食べ歩く6人の食への探求心がよく表れているラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-うなぎ徳渋谷店,sixtones-笑たこ原宿表参道店,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-pizzeria-e-trattoria-da-isa"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-2ed2841e-202305,sixtones-2b41b180-202411,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-pizzeria-e-trattoria-da-isa"></div>
 
 ## 旅ロケグルメ【関東近郊】
 
 江の島・横浜・宇都宮・秩父・佐野と、日帰り圏内でまとめて回れる関東近郊の聖地が多い。**横浜中華街 → 江の島**の1日コースや、**宇都宮餃子 → 佐野ラーメン**の餃子麺旅も計画しやすいエリアだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-ramen-hakubutsukan,sixtones-kiraasse-utsunomiya,sixtones-sano-sa-foodcourt,sixtones-阿左美冷蔵金崎本店sixtones,sixtones-豚みそ丼本舗野さか"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-ramen-hakubutsukan,sixtones-kiraasse-utsunomiya,sixtones-sano-sa-foodcourt,sixtones-sixtones-202108,sixtones-f52d4936-202108"></div>
 
 ## 旅ロケグルメ【東海・信州・群馬】
 
@@ -146,13 +146,13 @@ faq:
 
 石川・京都は旅行のついでに自然に組み込めるエリア。金沢の<mark>もりもり寿司</mark>は新鮮な北陸海鮮が楽しめる人気回転寿司で、「手打ちそば こめや」とセットで金沢グルメ巡礼ができる。京都では老舗の「京料理 六盛」が登場した。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-もりもり寿司金沢駅前店,sixtones-手打ちそばこめや,sixtones-京料理六盛"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-4330a634-202204,sixtones-b647a3f1-202204,sixtones-b5dfc98a-202310"></div>
 
 ## シンガポールロケ
 
 ストチューブの海外ロケ編（シンガポール）で3店が登場。<mark>YY Kafei Dian 喜園咖啡店</mark>は老舗コーヒーショップ、Tian Tian Hainanese Chicken Riceはシンガポール名物チキンライスの名店、Cichetiはイタリアン。「海外でも食にブレがない」SixTONESらしい多彩なセレクションだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-yykafeidian喜園咖啡店,sixtones-tiantianhainanesechickenrice,sixtones-cicheti"></div>
+<div class="inline-shop-grid" data-shop-ids="sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti"></div>
 
 ## エリア別巡礼ルート
 

@@ -17,14 +17,14 @@ summary:
 shop_ids:
   - naniwa-muun_seoul-20201023
   - naniwa-trufflebakery-20211001
-  - naniwa-le_bresso_木場公園前店-20211001
-  - naniwa-そうめん_そそそ_研究室-20210709
-  - naniwa-大衆食堂スタンド_そのだ-20220415
+  - naniwa-le_bresso-202110
+  - naniwa-b723a30f-202107
+  - naniwa-883c81e1-202204
   - naniwa-doowop-20211126
-  - naniwa-coco壱番屋_中目黒山手通店-20241203
-  - naniwa-もんじゃと酒膳_かりん-20241004
-  - naniwa-駿河の味処_富士屋-20241126
-  - naniwa-石松餃子_本店-20241001
+  - naniwa-coco-202412
+  - naniwa-2c2e760f-202410
+  - naniwa-d5f14d00-202411
+  - naniwa-a47465ac-202410
 faq:
   - q: "なにわ男子のグルメ聖地はどのエリアが多いですか？"
     a: "東京都内が8店を占め、渋谷・目黒・江東区・中目黒エリアに点在しています。静岡が2店（富士・浜松）で、地方遠征も楽しめます。"
@@ -40,25 +40,25 @@ faq:
 
 <mark>MUUN seoul（ムーンソウル）</mark>（2020年10月）は神宮前の韓国本場カフェ。トゥンカロンやタルギウユが人気で、シンプルな韓国インテリアも魅力。<mark>TruffleBAKERY（トリュフベーカリー）</mark>（2021年10月）はトリュフを使った贅沢なパンが人気の話題店。<mark>Le BRESSO 木場公園前店</mark>は江東区の落ち着いたカフェだ。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-muun_seoul-20201023,naniwa-trufflebakery-20211001,naniwa-le_bresso_木場公園前店-20211001"></div>
+<div class="inline-shop-grid" data-shop-ids="naniwa-muun_seoul-20201023,naniwa-trufflebakery-20211001,naniwa-le_bresso-202110"></div>
 
 ## 居酒屋・食事【4店】
 
 <mark>そうめん そそそ 研究室</mark>（2021年7月）はそうめんを軸にした個性的な専門店。<mark>大衆食堂スタンド そのだ</mark>（2022年4月）はリーズナブルで人気の大衆食堂。<mark>DooWop</mark>（2021年11月）は渋谷の隠れ家的居酒屋。<mark>もんじゃと酒膳 かりん</mark>（2024年10月）は東京のもんじゃ居酒屋で、メンバー数人で訪れた会食回として話題になった。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-そうめん_そそそ_研究室-20210709,naniwa-大衆食堂スタンド_そのだ-20220415,naniwa-doowop-20211126,naniwa-もんじゃと酒膳_かりん-20241004"></div>
+<div class="inline-shop-grid" data-shop-ids="naniwa-b723a30f-202107,naniwa-883c81e1-202204,naniwa-doowop-20211126,naniwa-2c2e760f-202410"></div>
 
 ## カレー【1店】
 
 <mark>CoCo壱番屋 中目黒山手通店</mark>（2024年12月）。全国チェーンながら、なにわ男子メンバーが「行きつけ」として紹介した回が話題になった。
 
-<div class="inline-shop-card" data-shop-id="naniwa-coco壱番屋_中目黒山手通店-20241203"></div>
+<div class="inline-shop-card" data-shop-id="naniwa-coco-202412"></div>
 
 ## 静岡遠征【2店】
 
 <mark>駿河の味処 富士屋</mark>（2024年11月）は富士の郷土料理店。<mark>石松餃子 本店</mark>（2024年10月）は浜松B級グルメの代表格・浜松餃子の名店で、なにわ男子が「餃子をたくさん食べる」回として盛り上がった動画だ。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-駿河の味処_富士屋-20241126,naniwa-石松餃子_本店-20241001"></div>
+<div class="inline-shop-grid" data-shop-ids="naniwa-d5f14d00-202411,naniwa-a47465ac-202410"></div>
 
 ## 巡礼プランのヒント
 

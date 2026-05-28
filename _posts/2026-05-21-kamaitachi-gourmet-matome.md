@@ -15,16 +15,16 @@ summary:
   - "居酒屋・食事・寿司など幅広いジャンルを掲載"
   - "住所つきで聖地巡礼計画が立てやすい"
 shop_ids:
-  - kamaitachi-おゝ杉-
-  - kamaitachi-ワルン-
-  - kamaitachi-ツキノワ-
-  - kamaitachi-香住かどや-
-  - kamaitachi-コロラド-
-  - kamaitachi-もつ焼のんき-
-  - kamaitachi-パーバーン-
-  - kamaitachi-カプリチョーザ_渋谷本店-
-  - kamaitachi-銀座_六覺燈_麻布十番店-
-  - kamaitachi-鮨_長島-
+  - kamaitachi-394d7350-
+  - kamaitachi-1ca5fcf5-
+  - kamaitachi-1607d854-
+  - kamaitachi-4a7bd41f-
+  - kamaitachi-b9386654-
+  - kamaitachi-380c2d89-
+  - kamaitachi-a10db015-
+  - kamaitachi-6ce06b6f-
+  - kamaitachi-097127ba-
+  - kamaitachi-e20cd59a-
 faq:
   - q: "かまいたちのグルメ聖地はどのエリアが多いですか？"
     a: "大阪・兵庫の関西エリアが5店、東京が5店とほぼ半々です。大阪は居酒屋・食事処中心、東京は麻布十番・渋谷・大田区エリアに名店が点在しています。"
@@ -42,19 +42,19 @@ faq:
 
 地元・大阪のグルメが5店登場。<mark>おゝ杉</mark>は大阪市内の人気居酒屋で、かまいたちの動画でも紹介され話題となった。<mark>ワルン</mark>（大阪市西区）・<mark>ツキノワ</mark>（大阪市中央区）はそれぞれ個性的な食事処として登場。<mark>コロラド</mark>は大阪の老舗喫茶チェーンで、かまいたちがほっこりする場面が印象的だ。
 
-<div class="inline-shop-grid" data-shop-ids="kamaitachi-おゝ杉-,kamaitachi-ワルン-,kamaitachi-ツキノワ-,kamaitachi-コロラド-"></div>
+<div class="inline-shop-grid" data-shop-ids="kamaitachi-394d7350-,kamaitachi-1ca5fcf5-,kamaitachi-1607d854-,kamaitachi-b9386654-"></div>
 
 ## 兵庫遠征【漁港グルメ 1店】
 
 <mark>香住・かどや</mark>は兵庫県美方郡香美町の香住漁港エリアにある海鮮食事処。かまいたちの地方ロケ回で登場し、山陰の新鮮な海の幸を堪能する姿が話題になった。
 
-<div class="inline-shop-card" data-shop-id="kamaitachi-香住かどや-"></div>
+<div class="inline-shop-card" data-shop-id="kamaitachi-4a7bd41f-"></div>
 
 ## 東京エリア【居酒屋・食事・寿司 5店】
 
 東京のグルメも個性豊か。<mark>もつ焼のんき</mark>（墨田区）は下町の名もつ焼き居酒屋。<mark>パーバーン</mark>（台東区）は台東区のエスニック食事処。<mark>カプリチョーザ 渋谷本店</mark>は安定の人気イタリアンチェーンの老舗店舗。<mark>銀座 六覺燈 麻布十番店</mark>は麻布十番の上質な居酒屋として知られ、特別な会食回として登場した。<mark>鮨 長島</mark>（大田区）は隠れ家的な江戸前寿司の名店だ。
 
-<div class="inline-shop-grid" data-shop-ids="kamaitachi-もつ焼のんき-,kamaitachi-パーバーン-,kamaitachi-カプリチョーザ_渋谷本店-,kamaitachi-銀座_六覺燈_麻布十番店-,kamaitachi-鮨_長島-"></div>
+<div class="inline-shop-grid" data-shop-ids="kamaitachi-380c2d89-,kamaitachi-a10db015-,kamaitachi-6ce06b6f-,kamaitachi-097127ba-,kamaitachi-e20cd59a-"></div>
 
 ## 巡礼プランのヒント
 
