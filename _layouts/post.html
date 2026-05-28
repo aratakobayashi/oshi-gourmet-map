@@ -114,11 +114,6 @@ layout: default
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
         {% if page.last_modified_at %}<span class="article-hero__updated">更新: {{ page.last_modified_at | date: "%Y年%m月%d日" }}</span>{% endif %}
       </p>
-      <div class="article-hero__share">
-        <span class="article-hero__share-label">シェア</span>
-        <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener" aria-label="Xでシェア">𝕏</a>
-        <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener" aria-label="LINEでシェア">LINE</a>
-      </div>
     </div>
     {% if post_image != '' %}
     <div class="article-hero__media">
