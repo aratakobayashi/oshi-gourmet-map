@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-ramen
   - kodoku-no-gurume-yakiniku
 related_groups:
-  - equal-love-shokuji
   - snowman-shokuji
+  - equal-love-shokuji
   - heysayjump-shokuji
 ---

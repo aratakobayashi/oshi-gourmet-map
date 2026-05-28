@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-others
 related_groups:
+  - snowman-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - snowman-shokuji
 ---

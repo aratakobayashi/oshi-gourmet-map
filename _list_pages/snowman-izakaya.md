@@ -12,6 +12,7 @@ youtube_id: ueYUZJghOzw
 related_genres:
   - snowman-shokuji
   - snowman-washoku
+  - snowman-cafe
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya

@@ -13,7 +13,7 @@ related_genres:
   - kamenashi-ramen
   - kamenashi-yakiniku
 related_groups:
+  - snowman-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - snowman-shokuji
 ---

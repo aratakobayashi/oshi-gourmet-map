@@ -15,4 +15,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-yakiniku
   - yonino-yakiniku
+  - snowman-yakiniku
 ---

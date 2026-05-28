@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-cafe
 related_groups:
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
   - heysayjump-shokuji
 ---

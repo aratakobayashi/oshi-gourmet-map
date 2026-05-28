@@ -1,0 +1,29 @@
+---
+layout: shop
+title: "Snow Manが行った「GINZA CAFE」"
+description: "食事・中央区東京都・Snow Manが訪問"
+shop_id: "snowman-ginza_cafe-20260328"
+name: "GINZA CAFE"
+genre: "食事"
+prefecture: "東京都"
+city: "中央区"
+address: "東京都中央区銀座1-6-11 土志田ビルB1"
+nearest_station: "「有楽町駅」より徒歩3分「銀座1丁目駅」より徒歩1分「京橋駅」より徒歩4分"
+visited_date: "2026-03-28"
+source_video_title: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめ"
+group: "snowman"
+lat: 35.6720135
+lng: 139.7647202
+members:
+  - "岩本照"
+  - "ラウール"
+  - "深澤辰哉"
+  - "宮舘涼太"
+  - "阿部亮平"
+  - "渡辺翔太"
+  - "向井康二"
+  - "目黒蓮"
+  - "佐久間大介"
+groups:
+  - "snowman"
+---

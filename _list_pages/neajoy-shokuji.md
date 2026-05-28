@@ -12,7 +12,7 @@ youtube_id: TAQI0WEyy7k
 related_genres:
   - neajoy-ramen
 related_groups:
+  - snowman-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - snowman-shokuji
 ---

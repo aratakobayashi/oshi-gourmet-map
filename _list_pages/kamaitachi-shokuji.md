@@ -10,7 +10,7 @@ group_color: "#6b7280"
 group_bio: "かまいたちは山内健司・濱家隆一からなる人気お笑いコンビ（吉本興業）。関西を中心にグルメ巡りを精力的に行う。"
 youtube_id: kU8SZpaXoBE
 related_groups:
+  - snowman-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - snowman-shokuji
 ---

@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-ramen
   - nogizaka46-sweets
 related_groups:
+  - snowman-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - snowman-shokuji
 ---
