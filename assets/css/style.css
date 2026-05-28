@@ -283,8 +283,11 @@ img { max-width: 100%; display: block; }
 }
 .fbar__row {
   display: flex; align-items: center; gap: 8px;
-  padding: 10px 0; overflow: hidden;
+  padding: 10px 0; overflow-x: auto; overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
+.fbar__row::-webkit-scrollbar { display: none; }
 .fbar__group-dots { display: flex; gap: 4px; align-items: center; flex-shrink: 0; }
 .fbar__group-dot {
   width: 24px; height: 24px; border-radius: 50%;
@@ -595,9 +598,9 @@ img { max-width: 100%; display: block; }
   .fbar { top: 52px; }
 }
 @media (max-width: 768px) {
-  .filter-select--sort { display: none; }
+  .filter-select--sort { display: block; font-size: 0.75rem; min-width: 80px; }
   .fmodal-overlay { align-items: flex-end; }
-  .fmodal { width: 100%; border-radius: 20px 20px 0 0; max-height: 85vh; transform: translateY(100%); }
+  .fmodal { width: 100%; border-radius: 20px 20px 0 0; max-height: 92vh; transform: translateY(100%); }
   .fmodal-overlay.open .fmodal { transform: translateY(0); }
   .fmodal--group, .fmodal--area { width: 100%; }
   .area-body-pc { display: none; }
@@ -1109,6 +1112,9 @@ img { max-width: 100%; display: block; }
 =========================== */
 .map-section { width: 100%; }
 #map { width: 100%; height: calc(100vh - 160px); min-height: 400px; }
+@media (max-width: 768px) {
+  #map { height: calc(100vh - 220px); min-height: 360px; }
+}
 
 /* Leaflet popup カスタム */
 .leaflet-popup-content-wrapper { border-radius: var(--radius); }
