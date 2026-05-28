@@ -78,6 +78,15 @@ def get_article_urls(index_url: str) -> list[str]:
 
 def extract_shop_name(soup: BeautifulSoup) -> str:
     """記事からお店名を抽出"""
+    # 方法0: h3の「X店とは」パターン（最も信頼性高い）
+    for h3 in soup.find_all('h3'):
+        text = h3.get_text(strip=True)
+        m = re.match(r'^(.{2,30}?)(?:とは|店舗情報)$', text)
+        if m:
+            candidate = m.group(1).strip()
+            if len(candidate) > 1 and not re.search(r'(注文|メニュー|まとめ|ブログ|口コミ|評判|予約)', candidate):
+                return candidate
+
     # 方法1: h3/h1の『』「」【】で囲まれた店名
     for tag in soup.find_all(['h3', 'h1']):
         text = tag.get_text(strip=True)
@@ -94,6 +103,8 @@ def extract_shop_name(soup: BeautifulSoup) -> str:
         m = re.search(r'[。．]([^。．]{2,30}?)(?:の場所|の店名|のお店|の予約)', text)
         if m:
             candidate = m.group(1).strip()
+            # 空括弧や括弧内容を除去
+            candidate = re.sub(r'[『「【][^』」】]*[』」】]', '', candidate).strip()
             candidate = re.sub(r'[（(][^）)]*[）)]', '', candidate).strip()
             if candidate and len(candidate) > 1:
                 return candidate
@@ -162,6 +173,13 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
                     current_member = candidate
                     continue
 
+        # ★メンバー名（スノーマン形式: ★深澤辰哉さん or ★みんなでシェア）
+        if re.match(r'^[★☆＊*]', text) and '●' not in text and '・' not in text:
+            m = re.match(r'^[★☆＊*]\s*([^\s★☆＊*●]{2,12}?)(?:さん|くん)?$', text)
+            if m:
+                current_member = m.group(1).strip()
+                continue
+
         # ●を含む場合は注文品として解析
         if '●' in text:
             parts = text.split('●')
@@ -191,6 +209,20 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
                             food = f'{food}（{current_member}）'
                         items.append(food)
 
+        # ・item1・item2 形式（スノーマン等: ●なし、・区切り）
+        elif '・' in text and '●' not in text and '◎' not in text:
+            parts = text.split('・')
+            for part in parts:
+                food = part.strip()
+                if not food or food.startswith('合計') or food.startswith('★') or food.startswith('☆'):
+                    continue
+                food = re.sub(r'※.*$', '', food).strip()
+                food = re.sub(r'[／/]\s*(?:\d[\d,，]*円|無料).*$', '', food).strip()
+                food = re.sub(r'\s*[\(（]\s*\d[\d,，]*円[^)）]*[\)）]', '', food).strip()
+                food = re.sub(r'\s*\d[\d,，]*円.*$', '', food).strip()
+                if food and 1 < len(food) < 50:
+                    items.append(f'{food}（{current_member}）' if current_member else food)
+
     return items
 
 
@@ -198,8 +230,18 @@ def match_shop(name: str, candidates: list, threshold: float = 0.6):
     """店名でshops.jsonの店舗をファジーマッチ"""
     best = None
     best_score = 0.0
+    # フリガナ（）が含まれる場合のみ除去版を試す（例: 龍朋(りゅうほう)The Lahmen → 龍朋）
+    alt_name = None
+    if re.search(r'[（(][^）)]*[）)]', name):
+        name_no_furi = re.sub(r'[（(][^）)]*[）)]', '', name).strip()
+        cjk_m = re.match(r'^([一-鿿ぁ-ヿ＀-￯　-〿ー]+)', name_no_furi)
+        if cjk_m and len(cjk_m.group(1)) >= 2:
+            alt_name = cjk_m.group(1)
+
     for shop in candidates:
         score = similarity(name, shop['name'])
+        if alt_name:
+            score = max(score, similarity(alt_name, shop['name']))
         if score > best_score:
             best_score = score
             best = shop

@@ -93,6 +93,7 @@ def normalize_shop(raw: dict, existing_ids: set):
         'source_type': raw.get('source_type', ''),
         'tmdb_id': raw.get('tmdb_id', None),
         'tmdb_type': raw.get('tmdb_type', ''),
+        'ordered_items': raw.get('ordered_items', []),
     }
 
 
