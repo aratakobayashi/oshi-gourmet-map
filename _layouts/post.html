@@ -295,7 +295,7 @@ const SITE_BASEURL = '{{ site.baseurl }}';
 
 // 目次自動生成
 (function() {
-  var headings = document.querySelectorAll('.post-body h2');
+  var headings = document.querySelectorAll('.post-body h2, .post-body h3');
   if (headings.length < 2) return;
   var tocSidebar  = document.getElementById('toc-list-sidebar');
   var tocMobile   = document.getElementById('toc-list-mobile');
@@ -305,9 +305,11 @@ const SITE_BASEURL = '{{ site.baseurl }}';
   headings.forEach(function(h, i) {
     var id = 'section-' + i;
     h.id = id;
+    var isH3 = h.tagName === 'H3';
     [tocSidebar, tocMobile].forEach(function(list) {
       if (!list) return;
       var li = document.createElement('li');
+      if (isH3) li.classList.add('toc-item--h3');
       var a  = document.createElement('a');
       a.href = '#' + id;
       a.textContent = h.textContent;

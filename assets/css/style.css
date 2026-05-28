@@ -1244,6 +1244,9 @@ img { max-width: 100%; display: block; }
   padding: 2px 0;
 }
 .toc-list a:hover { color: var(--c-berry); }
+.toc-list .toc-item--h3 { padding-left: 20px; counter-increment: none; }
+.toc-list .toc-item--h3::before { content: '–'; font-size: 10px; opacity: .4; }
+.toc-list .toc-item--h3 a { font-size: 0.82rem; color: var(--c-text-muted); }
 
 /* ---- ヘッダー ---- */
 .post-header {
