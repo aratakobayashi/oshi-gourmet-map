@@ -30,6 +30,13 @@ tags:
   - "渋谷"
   - "老舗"
   - "ビーフ100%"
+ordered_items:
+  - "大根おろしハンバーグ(150g)"
+  - "目玉焼きトッピング"
+  - "テリヤキ＆チェダーチーズハンバーグ(300g)"
+  - "目玉焼きトッピング"
+  - "テリヤキ＆チェダーチーズハンバーグ(300g)"
+  - "目玉焼きトッピング"
 affiliate_links:
   - label: "公式サイト"
     url: "https://www.gold-rush.jp/information/sibuya/"

@@ -32,6 +32,11 @@ tags:
   - "清澄白河"
   - "NZ発"
   - "コーヒー"
+ordered_items:
+  - "アイスラテ"
+  - "アイスラテ"
+  - "バナナブレッド"
+  - "アイスラテ"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131201/13190426/"

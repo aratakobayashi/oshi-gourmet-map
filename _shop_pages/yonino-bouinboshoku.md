@@ -30,6 +30,10 @@ tags:
   - "東陽町"
   - "大衆"
   - "コスパ"
+ordered_items:
+  - "特上うな重"
+  - "肝入り特上うな重(限定)"
+  - "肝入り特上うな重(限定)"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1313/A131303/13298913/"

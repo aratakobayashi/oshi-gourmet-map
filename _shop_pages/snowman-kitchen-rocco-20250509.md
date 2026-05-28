@@ -27,4 +27,7 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+ordered_items:
+  - "八王子ナポリタン"
+  - "八王子白ナポリタン"
 ---

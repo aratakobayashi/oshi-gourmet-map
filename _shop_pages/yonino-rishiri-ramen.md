@@ -30,6 +30,13 @@ tags:
   - "塩ラーメン"
   - "新横浜"
   - "北海道"
+ordered_items:
+  - "焼き醤油らーめん"
+  - "ネギ増し"
+  - "マスカットサイダー"
+  - "とろ海焼き醤油(大盛)"
+  - "味付け煮卵"
+  - "マスカットサイダー"
 affiliate_links:
   - label: "新横浜ラーメン博物館"
     url: "https://www.raumen.co.jp/shop/rishiri.html"

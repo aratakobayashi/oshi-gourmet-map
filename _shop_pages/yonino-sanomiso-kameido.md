@@ -30,6 +30,10 @@ tags:
   - "亀戸"
   - "老舗"
   - "専門店"
+ordered_items:
+  - "具入り味噌汁(魚)+ご飯"
+  - "具入り味噌汁(魚)+焼きおにぎり"
+  - "具入り味噌汁(魚)+ご飯"
 affiliate_links:
   - label: "公式サイト"
     url: "https://sanomiso.com/store/kameido-main-store/"

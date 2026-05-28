@@ -32,6 +32,13 @@ tags:
   - "ちゃんこ鍋"
   - "両国"
   - "和食"
+ordered_items:
+  - "醤油ちゃんこ×2"
+  - "味噌ちゃんこ×2"
+  - "烏龍茶"
+  - "コーラ"
+  - "コーラ"
+  - "サイダー"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"

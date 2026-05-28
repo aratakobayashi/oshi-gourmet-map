@@ -33,6 +33,11 @@ tags:
   - "寿司"
   - "銀座"
   - "海鮮"
+ordered_items:
+  - "特別コース（宮館良太）"
+  - "特別コース（阿部亮平）"
+  - "特別コース（渡辺翔太）"
+  - "特別コース（佐久間大介）"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"

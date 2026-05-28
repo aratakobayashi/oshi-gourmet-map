@@ -31,6 +31,10 @@ tags:
   - "ビュッフェ"
   - "ホテル朝食"
   - "新宿"
+ordered_items:
+  - "中華をメインに数品"
+  - "グリルチキンをメインに数品"
+  - "カレーをメインに数品"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"

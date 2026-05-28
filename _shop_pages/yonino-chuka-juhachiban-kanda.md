@@ -31,6 +31,13 @@ groups:
 tags:
   - "中華"
   - "神田"
+ordered_items:
+  - "ニラソバ"
+  - "しそ餃子×2皿"
+  - "ノーマル餃子×2皿"
+  - "回鍋肉定食"
+  - "油淋鶏定食"
+  - "回鍋肉定食"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"

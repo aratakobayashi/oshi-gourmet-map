@@ -30,6 +30,12 @@ tags:
   - "すき焼き"
   - "麻布十番"
   - "和食"
+ordered_items:
+  - "上しゃぶしゃぶ"
+  - "すき焼き(A5ランク)"
+  - "ウーロン茶"
+  - "ウーロン茶"
+  - "ウーロン茶"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1307/A130702/13013251/"

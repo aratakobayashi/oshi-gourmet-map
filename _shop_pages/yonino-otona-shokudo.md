@@ -31,6 +31,10 @@ tags:
   - "新宿"
   - "おばんざい"
   - "和食"
+ordered_items:
+  - "チキン南蛮定食"
+  - "和風ガパオライス定食"
+  - "豚の角煮定食"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130401/13241610/"

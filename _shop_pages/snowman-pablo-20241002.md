@@ -20,6 +20,13 @@ lng: 135.5015898
 tabelog_score: 3.6
 groups:
   - "snowman"
+ordered_items:
+  - "ハモンイベリコベジョータ"
+  - "パン・コン・トマテ"
+  - "フォアグラとトウモロコシのコノス"
+  - "海老ミソのアヒージョ"
+  - "鮮魚のパリパリ包み揚げマッシュルームソース"
+  - "魚介とイカ墨のパエリア"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131701/13221213/"

@@ -31,6 +31,10 @@ tags:
   - "コーヒー"
   - "南青山"
   - "ロースタリー"
+ordered_items:
+  - "エチオピアアイスコーヒー"
+  - "エチオピアアイスコーヒー"
+  - "エチオピアアイスコーヒー"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1306/A130602/13306376/"

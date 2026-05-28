@@ -32,6 +32,12 @@ groups:
 tags:
   - "もんじゃ"
   - "浅草"
+ordered_items:
+  - "天使の海老 鉄板焼き"
+  - "牡蠣の鉄板バターソテー"
+  - "トンペイ焼き"
+  - "スペシャルもんじゃ"
+  - "焦がし明太子もちチーズ玉"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"

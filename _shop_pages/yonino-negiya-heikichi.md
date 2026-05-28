@@ -30,6 +30,12 @@ tags:
   - "葱料理"
   - "渋谷"
   - "創作料理"
+ordered_items:
+  - "味噌煮込みうどん"
+  - "葱やの得々定食"
+  - "焼鯖定食"
+  - "小刺身"
+  - "納豆"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1303/A130301/13024073/"

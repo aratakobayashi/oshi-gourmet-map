@@ -32,6 +32,13 @@ tags:
   - "もつ鍋"
   - "銀座"
   - "博多"
+ordered_items:
+  - "もつ鍋(味噌味)／2人前"
+  - "追加もつ野菜セット"
+  - "炙り明太子"
+  - "烏龍茶"
+  - "烏龍茶"
+  - "烏龍茶"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"

@@ -1,0 +1,22 @@
+---
+layout: shop
+title: "=LOVEが行った「マンダリン オリエンタル東京 イタリアンダイニング ケシキ」"
+description: "中央区のレストラン。大谷映美里が2025年3月に訪れた。中央区のレストラン。大谷映美里が2025年3月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
+shop_id: "equal_love-9cc892b4-202503"
+name: "マンダリン オリエンタル東京 イタリアンダイニング ケシキ"
+genre: "食事"
+prefecture: "東京都"
+city: "中央区"
+address: "東京都中央区日本橋室町２丁目１−１"
+nearest_station: "三越前駅 徒歩1分"
+visited_date: "2025-03-15"
+youtube_id: "hHDk2mEa4Sc"
+group: "equal_love"
+thumbnail_url: "https://img.youtube.com/vi/hHDk2mEa4Sc/hqdefault.jpg"
+lat: 35.686841
+lng: 139.773767
+members:
+  - "大谷映美里"
+groups:
+  - "equal_love"
+---

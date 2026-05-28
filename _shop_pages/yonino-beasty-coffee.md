@@ -32,6 +32,11 @@ tags:
   - "コーヒー"
   - "奥渋谷"
   - "スペシャルティ"
+ordered_items:
+  - "コールドブリュー"
+  - "コールドブリュー"
+  - "コールドブリュー"
+  - "カカオエッグタルト"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1303/A130305/13254524/"
