@@ -3177,6 +3177,8 @@ body {
   gap: 10px;
 }
 .article-hero__share-label { font-size: 0.78rem; color: rgba(255,255,255,0.65); }
+.article-hero__inner--no-media { grid-template-columns: 1fr; }
+.article-hero__inner--no-media .article-hero__content { max-width: 800px; padding: 52px 48px; }
 .article-hero__media { overflow: hidden; position: relative; }
 .article-hero__media img {
   width: 100%;
@@ -3483,6 +3485,17 @@ body {
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
+}
+.related-posts__thumb-placeholder {
+  width: 72px;
+  height: 48px;
+  border-radius: 6px;
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #e8e0f0, #f5eef0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
 }
 
 /* ── 記事フッター ── */
