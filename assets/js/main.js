@@ -217,6 +217,7 @@ const GROUP_LABELS = {
   sakurazaka46:     '櫻坂46',
   shiori:           'しおりのなんとなく日常',
   kingprince:       'King & Prince',
+  arashi:           '嵐',
 };
 
 const GROUP_SOLID_COLORS = {
@@ -225,7 +226,7 @@ const GROUP_SOLID_COLORS = {
   heysayjump:'#ef4444', equal_love:'#f43f5e', notme:'#0d9488',
   timelesz:'#1d4ed8', neajoy:'#d946ef', nogizaka46:'#0ea5e9',
   sakurazaka46:'#e11d48', hinatazaka46:'#f59e0b', ginga:'#6366f1',
-  shiori:'#ec4899', kingprince:'#f472b6',
+  shiori:'#ec4899', kingprince:'#f472b6', arashi:'#dc2626',
 };
 
 const GROUP_COLORS = {
@@ -247,6 +248,7 @@ const GROUP_COLORS = {
   timelesz:         'linear-gradient(135deg, #1d4ed8, #60a5fa)',
   shiori:           'linear-gradient(135deg, #ec4899, #f9a8d4)',
   kingprince:       'linear-gradient(135deg, #f472b6, #fbcfe8)',
+  arashi:           'linear-gradient(135deg, #dc2626, #fb923c)',
 };
 
 const GENRE_ICONS = {
