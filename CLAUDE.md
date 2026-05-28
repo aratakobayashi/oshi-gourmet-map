@@ -39,6 +39,12 @@
    店名で食べログ・ホットペッパーを検索してURL付与
           ↓
 ⑥ shops.json 自動マージ
+          ↓
+⑦ ページ生成（必須）
+   bash scripts/build_pages.sh --push
+   → generate_shop_pages.py + generate_list_pages.py を実行
+   → _shop_pages/ と _list_pages/ を再生成・コミット・push
+   ※ データ追加後は必ずこのスクリプトを実行すること
 ```
 
 ### データ収集ルール
