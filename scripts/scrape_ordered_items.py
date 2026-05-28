@@ -23,10 +23,11 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; research-bot/1.0)'}
 
 # グループごとのまとめページURL
 INDEX_URLS = {
-    'snowman': 'https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF',
-    'yonino':  'https://8888-info.hatenablog.com/entry/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93',
-    'ginga':   'https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7',
-    'naniwa':  'https://8888-info.hatenablog.com/entry/%E3%81%AA%E3%81%AB%E3%82%8Ftube',
+    'snowman':   'https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF',
+    'yonino':    'https://8888-info.hatenablog.com/entry/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93',
+    'ginga':     'https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7',
+    'naniwa':    'https://8888-info.hatenablog.com/entry/%E3%81%AA%E3%81%AB%E3%82%8Ftube',
+    'kamenashi': 'https://8888-info.hatenablog.com/entry/%E3%81%BE%E3%81%A8%E3%82%81',
 }
 
 
@@ -83,7 +84,8 @@ def extract_shop_name(soup: BeautifulSoup) -> str:
         m = re.search(r'[『「【]([^』」】]{2,30})[』」】]', text)
         if m:
             candidate = m.group(1)
-            if not re.search(r'(予約|場所|アクセス|方法|一覧|まとめ|情報|購入|価格|最安値)', candidate):
+            candidate = re.sub(r'[（(][^）)]*[）)]', '', candidate).strip()  # フリガナ除去
+            if candidate and len(candidate) > 1 and not re.search(r'(予約|場所|アクセス|方法|一覧|まとめ|情報|購入|価格|最安値)', candidate):
                 return candidate
 
     # 方法2: h1タイトルの「ロケ地情報。[店名]の場所は」パターン
@@ -119,7 +121,25 @@ def extract_ordered_items(soup: BeautifulSoup) -> list[str]:
             menu_h3 = h3
             break
     if not menu_h3:
-        return []
+        # フォールバック: ◎形式（亀梨など: <p>PersonName◎item1◎item2...</p>）
+        for p in soup.find_all('p'):
+            text = p.get_text(strip=True)
+            if '◎' not in text:
+                continue
+            parts = text.split('◎')
+            prefix = parts[0].strip()
+            member = ''
+            if prefix:
+                cand = re.sub(r'(さん|くん|ちゃん)$', '', prefix).strip()
+                if 2 <= len(cand) <= 8 and not re.search(r'(メニュー|まとめ|一覧|リスト|注文)', cand):
+                    member = cand
+            for part in parts[1:]:
+                food = part.strip()
+                food = re.sub(r'[（(]\s*\d[\d,，]*円[^）)]*[）)]', '', food).strip()
+                food = re.sub(r'\s*\d[\d,，]*円.*$', '', food).strip()
+                if food and len(food) > 1:
+                    items.append(f'{food}（{member}）' if member else food)
+        return items
 
     # h3の後の兄弟要素を走査（次のh3が来たら終了）
     for sibling in menu_h3.next_siblings:
