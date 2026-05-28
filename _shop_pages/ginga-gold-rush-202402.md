@@ -23,6 +23,9 @@ members:
   - "中丸雄一"
 groups:
   - "ginga"
+ordered_items:
+  - "トリプルチーズハンバーグ"
+  - "アップル？"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130401/13271105/"

@@ -25,6 +25,10 @@ members:
   - "中丸雄一"
 groups:
   - "ginga"
+ordered_items:
+  - "ソボロパン(ブラックココアチーズ)"
+  - "クァベキ(ストロベリー生クリーム)"
+  - "アールグレイ(アイス)"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130404/13293786/"
