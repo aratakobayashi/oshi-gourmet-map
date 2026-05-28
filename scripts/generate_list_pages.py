@@ -137,7 +137,8 @@ def main():
     with open(SHOPS_JSON, encoding='utf-8') as f:
         shops = json.load(f)
 
-    # 閉店を除いてカウント
+    # 閉店を除いてカウント・ID→shopの辞書を作成
+    shops_by_id = {s['id']: s for s in shops}
     combo = defaultdict(list)
     for s in shops:
         if s.get('closed'):
@@ -155,6 +156,17 @@ def main():
         emoji = GENRE_EMOJI.get(genre, '🍴')
         color = GROUP_COLORS.get(group, '')
         bio = GROUP_BIO.get(group, '')
+
+        # OGP用: youtube_id → thumbnail_url の順で代表画像を取得
+        ogp_youtube_id = ''
+        ogp_thumbnail_url = ''
+        for sid in ids:
+            shop = shops_by_id.get(sid, {})
+            if shop.get('youtube_id') and not ogp_youtube_id:
+                ogp_youtube_id = shop['youtube_id']
+                break
+            if shop.get('thumbnail_url') and not ogp_thumbnail_url:
+                ogp_thumbnail_url = shop['thumbnail_url']
         gslug = group_slug(group)
         eslug = genre_slug(genre)
         slug_id = f'{gslug}-{eslug}'
@@ -199,6 +211,10 @@ def main():
             front_matter_lines.append(f'group_color: "{color}"')
         if bio:
             front_matter_lines.append(f'group_bio: "{bio}"')
+        if ogp_youtube_id:
+            front_matter_lines.append(f'youtube_id: {ogp_youtube_id}')
+        elif ogp_thumbnail_url:
+            front_matter_lines.append(f'thumbnail_url: "{ogp_thumbnail_url}"')
         if related_genres:
             front_matter_lines.append('related_genres:')
             for r in related_genres:

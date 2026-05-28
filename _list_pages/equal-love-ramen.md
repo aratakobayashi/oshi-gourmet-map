@@ -8,6 +8,7 @@ slug_id: equal-love-ramen
 shop_count: 9
 group_color: "#ec4899"
 group_bio: "=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。"
+youtube_id: MvkQiclEHMY
 related_genres:
   - equal-love-shokuji
   - equal-love-izakaya

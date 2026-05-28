@@ -8,6 +8,7 @@ slug_id: sixtones-izakaya
 shop_count: 5
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
+youtube_id: 1enHsuNGPMQ
 related_genres:
   - sixtones-washoku
   - sixtones-cafe

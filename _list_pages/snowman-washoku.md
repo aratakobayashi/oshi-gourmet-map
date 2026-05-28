@@ -8,6 +8,7 @@ slug_id: snowman-washoku
 shop_count: 13
 group_color: "#3b82f6"
 group_bio: "Snow ManはSTARTO ENTERTAINMENTの9人組男性アイドルグループ。メンバーが各地の名店を訪れる動画・番組が多い。"
+youtube_id: 8R-AlLRghJc
 related_genres:
   - snowman-shokuji
   - snowman-izakaya

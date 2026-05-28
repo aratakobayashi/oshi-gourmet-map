@@ -8,6 +8,7 @@ slug_id: equal-love-chuka
 shop_count: 6
 group_color: "#ec4899"
 group_bio: "=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。"
+youtube_id: Dp0KTso3Suw
 related_genres:
   - equal-love-shokuji
   - equal-love-izakaya

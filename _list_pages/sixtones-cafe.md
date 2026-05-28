@@ -8,6 +8,7 @@ slug_id: sixtones-cafe
 shop_count: 6
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
+youtube_id: yqk_6iuc8F0
 related_genres:
   - sixtones-washoku
   - sixtones-chuka

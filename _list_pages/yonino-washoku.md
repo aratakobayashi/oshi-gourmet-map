@@ -8,6 +8,7 @@ slug_id: yonino-washoku
 shop_count: 23
 group_color: "#14b8a6"
 group_bio: "二宮和也（嵐）・中丸雄一（KAT-TUN）・山田涼介（Hey! Say! JUMP）・菊池風磨（timelesz）の4人によるYouTubeチャンネル。グルメ企画が人気。"
+youtube_id: h9l4U27yN9A
 related_genres:
   - yonino-cafe
   - yonino-others

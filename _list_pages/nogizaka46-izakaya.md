@@ -8,6 +8,7 @@ slug_id: nogizaka46-izakaya
 shop_count: 6
 group_color: "#ef4444"
 group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。"
+youtube_id: 7eoiyP4kaAQ
 related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji

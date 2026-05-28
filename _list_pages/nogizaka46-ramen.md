@@ -8,6 +8,7 @@ slug_id: nogizaka46-ramen
 shop_count: 14
 group_color: "#ef4444"
 group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji

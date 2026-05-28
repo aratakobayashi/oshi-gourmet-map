@@ -8,6 +8,7 @@ slug_id: naniwa-shokuji
 shop_count: 7
 group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
+youtube_id: bf6HUKQE23c
 related_genres:
   - naniwa-izakaya
 related_groups:

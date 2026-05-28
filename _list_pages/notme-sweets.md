@@ -8,6 +8,7 @@ slug_id: notme-sweets
 shop_count: 8
 group_color: "#8b5cf6"
 group_bio: "≠ME（ノットイコールミー）は指原莉乃プロデュースの女性アイドルグループ。"
+youtube_id: ZwwzPBGFK5c
 related_genres:
   - notme-shokuji
 related_groups:
