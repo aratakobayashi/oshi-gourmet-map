@@ -34515,5 +34515,275 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": ""
+  },
+  {
+    "id": "kimura-ab0388de-20240422",
+    "name": "デモデダイナー",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "福生市",
+    "address": "東京都福生市",
+    "lat": 35.7386772,
+    "lng": 139.3267856,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-04-22",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-cafe_nun-20240501",
+    "name": "cafe nun",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "",
+    "address": "千葉県山武郡九十九里町",
+    "lat": 35.5241,
+    "lng": 140.3894,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-05-01",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-trufflebakery-20240417",
+    "name": "TruffleBAKERY三軒茶屋店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区",
+    "lat": 35.6469025,
+    "lng": 139.652531,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-04-17",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-37fc6d77-20240417",
+    "name": "エブリデイミールズ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区",
+    "lat": 35.6469025,
+    "lng": 139.652531,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-04-17",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-bondi_cafe-20240406",
+    "name": "BONDI CAFE",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区",
+    "lat": 35.6514717,
+    "lng": 139.722772,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-04-06",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-573599de-20240401",
+    "name": "生蕎麦朝日屋",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区",
+    "lat": 35.6633709,
+    "lng": 139.6964952,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-04-01",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-9b17c19d-20240320",
+    "name": "山田うどん食堂",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "谷塚駅",
+    "lat": 35.8136263,
+    "lng": 139.8013446,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-03-20",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-1937ff35-20240224",
+    "name": "粋廉",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.0116,
+    "lng": 135.7682,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-02-24",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
+  },
+  {
+    "id": "kimura-1ec0b360-20240210",
+    "name": "焼肉酒家 傳々",
+    "genre": "食事",
+    "prefecture": "",
+    "city": "",
+    "address": "",
+    "lat": 35.6734,
+    "lng": 139.7851,
+    "youtube_id": "",
+    "source_video_title": "",
+    "visited_date": "2024-02-10",
+    "members": [
+      "木村拓哉"
+    ],
+    "groups": [
+      "kimura"
+    ],
+    "group": "kimura",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": ""
   }
 ]
