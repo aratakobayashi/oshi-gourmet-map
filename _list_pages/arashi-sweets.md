@@ -6,6 +6,7 @@ genre: スイーツ
 group_label: "arashi"
 slug_id: arashi-sweets
 shop_count: 29
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/86897/86897200.jpg?token=1c0b614&api=v2"
 related_genres:
   - arashi-shokuji
   - arashi-ramen

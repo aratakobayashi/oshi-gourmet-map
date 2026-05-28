@@ -6,6 +6,7 @@ genre: 中華
 group_label: "arashi"
 slug_id: arashi-chuka
 shop_count: 6
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/64990/64990952.jpg?token=f02d0b2&api=v2"
 related_genres:
   - arashi-shokuji
   - arashi-ramen

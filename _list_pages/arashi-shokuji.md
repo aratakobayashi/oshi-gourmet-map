@@ -6,6 +6,7 @@ genre: 食事
 group_label: "arashi"
 slug_id: arashi-shokuji
 shop_count: 100
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104367/104367133.jpg?token=fa889b5&api=v2"
 related_genres:
   - arashi-ramen
   - arashi-sweets

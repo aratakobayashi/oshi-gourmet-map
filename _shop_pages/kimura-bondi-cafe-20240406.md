@@ -16,4 +16,6 @@ members:
   - "木村拓哉"
 groups:
   - "kimura"
+ordered_items:
+  - "スッキリ系の白ワイン(グラス)"
 ---

@@ -6,6 +6,7 @@ genre: 居酒屋
 group_label: "arashi"
 slug_id: arashi-izakaya
 shop_count: 11
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/123214/123214987.jpg?token=3635fa8&api=v2"
 related_genres:
   - arashi-shokuji
   - arashi-ramen

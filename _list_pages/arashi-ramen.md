@@ -6,6 +6,7 @@ genre: ラーメン
 group_label: "arashi"
 slug_id: arashi-ramen
 shop_count: 44
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/224188/81855183064ee275a946ad1ac6b5f394.jpg?token=c368e98&api=v2"
 related_genres:
   - arashi-shokuji
   - arashi-sweets
