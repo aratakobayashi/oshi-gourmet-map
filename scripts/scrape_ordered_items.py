@@ -25,6 +25,7 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; research-bot/1.0)'}
 INDEX_URLS = {
     'snowman': 'https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF',
     'yonino':  'https://8888-info.hatenablog.com/entry/%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93',
+    'ginga':   'https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7',
 }
 
 
