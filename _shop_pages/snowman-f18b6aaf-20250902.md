@@ -8,6 +8,7 @@ genre: "食事"
 visited_date: "2025-09-02"
 source_video_title: "【この世界は1ダフル】ディズニーで渡辺翔太が訪れた場所・食べた物・着用グッズまとめ：SnowManロケ地"
 group: "snowman"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/r4j1kRsZJ1DZNLkc1D35ikjVAwp.jpg"
 lat: 35.6308162
 lng: 139.8811452
 members:

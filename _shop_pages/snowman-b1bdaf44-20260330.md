@@ -12,6 +12,7 @@ nearest_station: "「国場バス停」より徒歩3分"
 visited_date: "2026-03-30"
 source_video_title: "渡辺翔太【この世界は1ダフル】沖縄で訪れたロケ地・食べたものまとめ！SnowMan聖地巡礼"
 group: "snowman"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/r4j1kRsZJ1DZNLkc1D35ikjVAwp.jpg"
 lat: 26.1972044
 lng: 127.7034288
 members:

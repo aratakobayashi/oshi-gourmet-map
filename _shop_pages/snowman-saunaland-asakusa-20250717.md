@@ -12,6 +12,7 @@ nearest_station: "JR「水道橋駅」西口都営地下鉄三田線「水道橋
 visited_date: "2025-07-17"
 source_video_title: "【トークィーンズ】SnowMan渡辺翔太がデートで訪れた場所まとめ"
 group: "snowman"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg"
 lat: 35.7050451
 lng: 139.7478428
 members:
