@@ -14,7 +14,7 @@ related_genres:
   - sixtones-chuka
   - sixtones-izakaya
 related_groups:
+  - arashi-cafe
   - yonino-cafe
   - nogizaka46-cafe
-  - equal-love-cafe
 ---

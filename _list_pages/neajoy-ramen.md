@@ -12,7 +12,7 @@ youtube_id: igZmyXp6zKI
 related_genres:
   - neajoy-shokuji
 related_groups:
+  - arashi-ramen
   - kodoku-no-gurume-ramen
   - nogizaka46-ramen
-  - kamenashi-ramen
 ---

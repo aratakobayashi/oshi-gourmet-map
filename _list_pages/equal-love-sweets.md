@@ -14,7 +14,7 @@ related_genres:
   - equal-love-izakaya
   - equal-love-washoku
 related_groups:
+  - arashi-sweets
   - nogizaka46-sweets
   - notme-sweets
-  - heysayjump-sweets
 ---

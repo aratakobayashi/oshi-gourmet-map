@@ -15,6 +15,6 @@ related_genres:
   - equal-love-cafe
 related_groups:
   - shiori-izakaya
+  - arashi-izakaya
   - naniwa-izakaya
-  - nogizaka46-izakaya
 ---

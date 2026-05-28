@@ -14,7 +14,7 @@ related_genres:
   - snowman-cafe
   - snowman-yakiniku
 related_groups:
+  - arashi-shokuji
   - kodoku-no-gurume-shokuji
   - equal-love-shokuji
-  - heysayjump-shokuji
 ---

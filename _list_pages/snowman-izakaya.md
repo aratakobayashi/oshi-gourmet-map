@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya
-  - naniwa-izakaya
+  - arashi-izakaya
 ---

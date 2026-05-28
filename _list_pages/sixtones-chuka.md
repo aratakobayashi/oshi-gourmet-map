@@ -15,4 +15,5 @@ related_genres:
   - sixtones-izakaya
 related_groups:
   - equal-love-chuka
+  - arashi-chuka
 ---

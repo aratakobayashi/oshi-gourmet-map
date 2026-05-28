@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-shokuji
   - nogizaka46-sweets
 related_groups:
+  - arashi-ramen
   - kodoku-no-gurume-ramen
   - kamenashi-ramen
-  - equal-love-ramen
 ---

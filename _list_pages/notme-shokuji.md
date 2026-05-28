@@ -12,7 +12,7 @@ youtube_id: IwPmbzmNeQg
 related_genres:
   - notme-sweets
 related_groups:
+  - arashi-shokuji
   - snowman-shokuji
   - kodoku-no-gurume-shokuji
-  - equal-love-shokuji
 ---

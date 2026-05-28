@@ -7,7 +7,7 @@ group_label: "kimura"
 slug_id: kimura-shokuji
 shop_count: 9
 related_groups:
+  - arashi-shokuji
   - snowman-shokuji
   - kodoku-no-gurume-shokuji
-  - equal-love-shokuji
 ---

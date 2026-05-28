@@ -12,7 +12,7 @@ youtube_id: bf6HUKQE23c
 related_genres:
   - naniwa-izakaya
 related_groups:
+  - arashi-shokuji
   - snowman-shokuji
   - kodoku-no-gurume-shokuji
-  - equal-love-shokuji
 ---

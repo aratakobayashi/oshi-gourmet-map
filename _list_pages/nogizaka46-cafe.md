@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-ramen
   - nogizaka46-sweets
 related_groups:
+  - arashi-cafe
   - yonino-cafe
   - equal-love-cafe
-  - sixtones-cafe
 ---

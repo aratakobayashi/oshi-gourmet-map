@@ -1,0 +1,28 @@
+---
+layout: shop
+title: "ギオン（gion）"
+description: "阿佐ヶ谷にある老舗の喫茶店です。店内にブランコや大きな時計がありとてもユニークです。少しアルデンテの麺にミートソースとボローニャソースを合わせたような絶妙な味でスパイシーなナポリタンがとにかくオススメ！…"
+shop_id: "arashi-gion-20191130"
+name: "ギオン（gion）"
+genre: "食事"
+prefecture: "東京都"
+city: "杉並区"
+address: "東京都杉並区阿佐谷北1-3-3 川染ビル 1F"
+visited_date: "2019-11-30"
+source_video_title: "嵐にしやがれ"
+group: "arashi"
+tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13011879/"
+lat: 35.7105571
+lng: 139.636261
+members:
+  - "大野智"
+  - "櫻井翔"
+  - "相葉雅紀"
+  - "二宮和也"
+  - "松本潤"
+groups:
+  - "arashi"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131905/13011879/"
+---

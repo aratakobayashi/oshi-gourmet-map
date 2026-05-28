@@ -14,7 +14,7 @@ related_genres:
   - equal-love-izakaya
   - equal-love-washoku
 related_groups:
+  - arashi-ramen
   - kodoku-no-gurume-ramen
   - nogizaka46-ramen
-  - kamenashi-ramen
 ---

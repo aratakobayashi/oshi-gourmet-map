@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 related_genres:
   - kingprince-shokuji
 related_groups:
+  - arashi-cafe
   - yonino-cafe
   - nogizaka46-cafe
-  - equal-love-cafe
 ---

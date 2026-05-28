@@ -12,7 +12,7 @@ youtube_id: ZwwzPBGFK5c
 related_genres:
   - notme-shokuji
 related_groups:
+  - arashi-sweets
   - nogizaka46-sweets
   - equal-love-sweets
-  - heysayjump-sweets
 ---

@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-washoku
   - kodoku-no-gurume-yakiniku
 related_groups:
+  - arashi-ramen
   - nogizaka46-ramen
   - kamenashi-ramen
-  - equal-love-ramen
 ---

@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-shokuji
   - nogizaka46-ramen
 related_groups:
+  - arashi-sweets
   - equal-love-sweets
   - notme-sweets
-  - heysayjump-sweets
 ---

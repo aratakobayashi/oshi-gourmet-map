@@ -13,7 +13,7 @@ related_genres:
   - kamenashi-yakiniku
   - kamenashi-shokuji
 related_groups:
+  - arashi-ramen
   - kodoku-no-gurume-ramen
   - nogizaka46-ramen
-  - equal-love-ramen
 ---

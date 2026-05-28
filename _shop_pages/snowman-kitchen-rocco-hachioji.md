@@ -33,6 +33,9 @@ tags:
   - "イタリアン"
   - "八王子"
   - "白ナポリタン"
+ordered_items:
+  - "八王子ナポリタン（4人でシェア）"
+  - "八王子白ナポリタン（4人でシェア）"
 affiliate_links:
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"

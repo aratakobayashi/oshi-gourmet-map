@@ -14,7 +14,7 @@ related_genres:
   - snowman-washoku
   - snowman-yakiniku
 related_groups:
+  - arashi-cafe
   - yonino-cafe
   - nogizaka46-cafe
-  - equal-love-cafe
 ---

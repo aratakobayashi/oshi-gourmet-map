@@ -13,7 +13,7 @@ related_genres:
   - heysayjump-shokuji
   - heysayjump-washoku
 related_groups:
+  - arashi-sweets
   - nogizaka46-sweets
   - equal-love-sweets
-  - notme-sweets
 ---

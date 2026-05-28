@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-others
 related_groups:
+  - arashi-ramen
   - kodoku-no-gurume-ramen
   - nogizaka46-ramen
-  - kamenashi-ramen
 ---

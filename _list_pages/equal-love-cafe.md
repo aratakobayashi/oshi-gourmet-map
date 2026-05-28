@@ -14,7 +14,7 @@ related_genres:
   - equal-love-izakaya
   - equal-love-washoku
 related_groups:
+  - arashi-cafe
   - yonino-cafe
   - nogizaka46-cafe
-  - sixtones-cafe
 ---
