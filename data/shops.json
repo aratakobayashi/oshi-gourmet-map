@@ -31741,13 +31741,16 @@
     "nearest_station": "JR「飯田橋駅」西口より徒歩3分地下鉄「飯田橋駅」B3番出口より徒歩1分地下鉄東西線「神楽坂駅」より徒歩7分都営大江戸線「牛込神楽坂駅」より徒歩5分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13052248/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/110443/110443379.jpg?token=9dc5053&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.2,
+    "price_range": "￥8,000～￥9,999",
+    "business_hours": "月・火・水・木・金 17:00 - 23:00 L.O. 22:00 土・日・祝日 12:00 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 22:00 ■定休日年中無休■ランチ営業について2024年7月1日より土日祝のみランチ営業いたします。■ご予約について21時以降のご予約の場合、食べ放題は出来かねます。ご質問、ご要望等ありましたらお電話にて承ります。"
   },
   {
     "id": "snowman-flat-20260506",
@@ -32007,13 +32010,15 @@
     "nearest_station": "JR日光線「日光駅」・東武日光線「東武日光駅」から世界遺産めぐりバス乗車約10分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0903/A090301/9019190/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/228291/307ce174469f46356f5334f91afbfdad.jpg?token=ed58553&api=v2",
     "source_type": "",
     "tmdb_id": 315455,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "price_range": "-",
+    "business_hours": "08:00 - 17:00 ■ 営業時間開館時間4月～10月8:00～17:00開館時間11月～3月8:00～16:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-0ec0d359-20260303",
@@ -32083,10 +32088,10 @@
     "nearest_station": "千代田線「乃木坂駅」より徒歩9分日比谷線「六本木駅」より徒歩13分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13153906/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/35339/35339528.jpg?token=3c00f87&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": ""
@@ -32197,13 +32202,16 @@
     "nearest_station": "「新宿駅」より徒歩7分「西武新宿駅」より徒歩2分「新宿三丁目駅」より徒歩10分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13000126/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/98031/98031870.jpg?token=cb2a87c&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.46,
+    "price_range": "￥8,000～￥9,999",
+    "business_hours": "月・火・水・木・金・土 11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 22:00 日・祝日 11:30 - 14:30 L.O. 14:00 16:00 - 22:00 L.O. 21:00 ■ 定休日（12/31のみ休み）昼の部：11：30～14：30（ラストオーダー14：00）夜の部：16：00～22：00（ラストオーダー21：00）"
   },
   {
     "id": "snowman-de82a28d-20260124",
@@ -32349,10 +32357,10 @@
     "nearest_station": "「恵比寿駅」より徒歩2分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13293862/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/295399/44a3fb78972d06170b215dfe66f4e096.jpg?token=e9ad360&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -32367,7 +32375,10 @@
       "亀ゼリー（佐久間大介）",
       "高麗人参ゼリー（佐久間大介）",
       "ヨーグルトアイス（佐久間大介）"
-    ]
+    ],
+    "tabelog_score": 3.4,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "月・火・水・木・金・土・祝前日・祝後日 11:00 - 16:00 L.O. 15:30 17:00 - 22:00 L.O. 21:00 日・祝日 定休日 ■ 営業時間11:00~22:00※ラストオーダー21:00※16:00~17:00の間は一時お店をクローズします。(L.O. 15:30)祝日のある週は変動がある場合があります。詳しくはInstagramもしくはお店へお問い合わせください。"
   },
   {
     "id": "snowman-4bbce411-20260116",
@@ -32399,13 +32410,16 @@
     "nearest_station": "JR各線「川崎駅」東口より徒歩6分京急本線・大師線「京急川崎駅」中央口より徒歩6分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140406/14014957/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341706/2d319f5c2dc8dd5a7c12f82b6b721a04.jpg?token=32bd865&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.42,
+    "price_range": "～￥999",
+    "business_hours": "月・火・木・金・土・日 10:00 - 19:00 水 定休日 ■ 営業時間年末年始は時間の変更があります■ 定休日不定休（要公式サイト確認） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-kihachi-20250128",
@@ -32665,10 +32679,10 @@
     "nearest_station": "「銀座1丁目駅」より徒歩1分「有楽町駅」より徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13277198/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/263764/4b5bf4476d2e6c64f810008aba1b89bc.jpg?token=361a617&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": ""
@@ -32779,13 +32793,15 @@
     "nearest_station": "バス：富士急行線「河口湖駅」下車→ 「河口湖駅」より＜路線バス：西湖民宿行き＞または＜西湖・青木ヶ原周遊バス＞で、「西湖民宿」下車徒歩1分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/yamanashi/A1903/A190301/19010472/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84523/d29eca3065ffca76650994c0c178ea76.jpg?token=7c90c60&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.01,
+    "price_range": "-"
   },
   {
     "id": "snowman-f88f8345-20250729",
@@ -32855,13 +32871,16 @@
     "nearest_station": "・電車：JR京葉線「葛西臨海公園駅」から徒歩11分・水上バス：「葛西臨海公園」下船",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13253002/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/354205/cd42987a3a5f5394f74116ec04d890fc.jpg?token=3fd5c40&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.68,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 11:00 - 16:30 L.O. 16:00 土 11:30 - 15:30 L.O. 15:00 日・祝日 定休日 ■ 営業時間またはカレーがなくなり次第終了"
   },
   {
     "id": "snowman-f18b6aaf-20250902",
@@ -32931,13 +32950,16 @@
     "nearest_station": "JR青梅線「川井駅」より徒歩13分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1330/A133004/13184284/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/46295/46295145.jpg?token=c518dc3&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.52,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "■ 営業時間[土・日]11:00~19:30 (フード L.O18:00 お酒L.O 19:00 )※コロナウイルス感染症対策として営業時間短縮しております。※祝日関係なく土日のみの営業■ 定休日祝日関係なく土日のみの営業"
   },
   {
     "id": "snowman-4aa94526-20250902",
@@ -32969,13 +32991,16 @@
     "nearest_station": "西武新宿線「武蔵関駅」より徒歩5分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132105/13207343/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/295012/32358052c37ad0871bc1d4174c43ffc1.jpg?token=2059544&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.04,
+    "price_range": "～￥999",
+    "business_hours": "月・火・木・金・土・日 10:00 - 19:30 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-1string-20250902",
@@ -33007,13 +33032,16 @@
     "nearest_station": "「新木場駅」より徒歩1分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131303/13055269/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356436/c05a04a0ae39ee8be62774c3704fb723.jpg?token=3b4c07d&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.07,
+    "price_range": "～￥999",
+    "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-24-20250905",
@@ -33083,13 +33111,16 @@
     "nearest_station": "JR「東舞鶴駅」から約2.7km（バス停「中舞鶴」から徒歩1分）",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kyoto/A2609/A260902/26011367/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137662/137662680.jpg?token=7aa56f1&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.05,
+    "price_range": "-",
+    "business_hours": "月・水・木 11:00 - 14:00 金・土・日 11:00 - 14:00 17:00 - 19:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-8ce97f07-20250914",
@@ -33273,13 +33304,15 @@
     "nearest_station": "「葛西臨海公園駅」より徒歩15分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131306/13188950/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/50059/50059660.jpg?token=8ad659d&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.18,
+    "price_range": "￥30,000～￥39,999"
   },
   {
     "id": "snowman-7af9e85b-20251124",
@@ -33691,13 +33724,16 @@
     "nearest_station": "「東武宇都宮駅」より徒歩4分JR「宇都宮駅」より徒歩21分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0901/A090101/9001457/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/48325/48325967.jpg?token=e02fdf1&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.3,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土 11:00 - 21:15 日 11:00 - 20:15 ■12/31 閉店20：00 LO45分前 1/1 閉店時間早まる可能性あり。■ 営業時間 諸事情により閉店時間が早まることがあります。■GW・お盆・年末年始などの連休時は営業時間が変更になることがあります。■定休日年中無休"
   },
   {
     "id": "snowman-bfb80269-20250412",
@@ -33843,13 +33879,16 @@
     "nearest_station": "・JR宇都宮駅西口6番バス乗場から「大谷・立岩行き」に乗車し約30分→「資料館入口」下車し徒歩5分・東武宇都宮駅「東武駅前バス停」から「大谷・立岩行き」に乗車し約20分→「資料館入口」下車し徒歩5分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0901/A090101/9001424/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/83350/83350253.jpg?token=b1a1d64&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.54,
+    "price_range": "￥10,000～￥14,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 15:00 L.O. 14:00 17:00 - 21:30 L.O. 料理20:30 ドリンク21:00 ■ 定休日無休"
   },
   {
     "id": "snowman-94f42242-20250606",
@@ -33881,13 +33920,15 @@
     "nearest_station": "東京メトロ日比谷線「神谷町駅」5番出口より徒歩2分東京メトロ南北線「六本木一丁目駅」4番出口より徒歩7分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130704/13294476/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356668/ccbf84ff6b963f86202200e2c4d28c09.jpg?token=71b0ddc&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.37,
+    "price_range": "￥1,000～￥1,999"
   },
   {
     "id": "snowman-club_ex-20250607",
@@ -33919,13 +33960,15 @@
     "nearest_station": "新幹線/JR山手線/東海道線/横須賀線/京浜東北線/京急線「品川駅」高輪口より徒歩5分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13190566/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/45856/7464531d13fd1b7104c560430a5cc72c.jpg?token=71584be&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.02,
+    "price_range": "-"
   },
   {
     "id": "snowman-8b324f1b-20250517",
@@ -33995,10 +34038,10 @@
     "nearest_station": "「前沢十字路」バス停下車徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1328/A132802/13197749/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347941/b3f8df9d1fe786d93890699824056dfe.jpg?token=59a1f7b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34010,7 +34053,10 @@
       "あん肝ポン酢×2(シェア)（佐久間大介）",
       "うな重(桐)（佐久間大介）",
       "うな重(桐)（阿部亮平）"
-    ]
+    ],
+    "tabelog_score": 3.36,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "月・木・金・土・日 11:00 - 21:00 L.O. 20:40 火・水 定休日 ■ 営業時間11:00～20:30■ 定休日水曜日・火曜日"
   },
   {
     "id": "snowman-kitchen_rocco-20250509",
@@ -34042,17 +34088,20 @@
     "nearest_station": "「八王子駅」より徒歩7分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13178091/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137505/137505413.jpg?token=4e01f53&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "八王子ナポリタン",
       "八王子白ナポリタン"
-    ]
+    ],
+    "tabelog_score": 3.33,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 15:00 L.O. 14:20 17:30 - 21:30 L.O. 20:45 ■ 定休日振替などにより不定休あり"
   },
   {
     "id": "snowman-07838f1d-20250505",
@@ -34084,10 +34133,10 @@
     "nearest_station": "「立会川駅」より徒歩6分「大井町駅」より徒歩12分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13003333/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/138084/138084670.jpg?token=712a957&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34105,7 +34154,10 @@
       "揚げ出し豆腐（みんなでシェア）",
       "天婦羅盛合わせ（みんなでシェア）",
       "お刺身盛合わせ(5種)（みんなでシェア）"
-    ]
+    ],
+    "tabelog_score": 3.54,
+    "price_range": "￥15,000～￥19,999",
+    "business_hours": "月・水・木・金 11:30 - 14:00 L.O. 13:30 17:30 - 21:00 L.O. 料理20:00 ドリンク20:30 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 20:30 L.O. 20:00 火 定休日 ■ 営業時間土日祝の15:00~17:00は昼休憩をさせて頂きます■ 定休日毎週火曜日と第一第三月曜日 祝日営業 翌振替休日4/7とゴ"
   },
   {
     "id": "snowman-62925e2a-20250430",
@@ -34137,13 +34189,16 @@
     "nearest_station": "「六本木駅」より徒歩10分「麻布十番駅」より徒歩13分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13206718/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/306171/043a87496f713a0524a3fffaf3916215.jpg?token=3d9e43a&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.0,
+    "price_range": "-",
+    "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-ab35bfac-20250425",
@@ -34175,10 +34230,10 @@
     "nearest_station": "「大門駅」（A6出口）すぐ「浜松町駅」より徒歩10分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13039658/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/125847/125847836.jpg?token=58b15ec&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34186,7 +34241,10 @@
       "ハンバーガー×5個（渡辺翔太）",
       "ポテトS×5個（渡辺翔太）",
       "烏龍茶×5個（渡辺翔太）"
-    ]
+    ],
+    "tabelog_score": 3.27,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金 16:00 - 23:30 L.O. 23:00 土・日・祝日 12:00 - 22:30 L.O. 22:00 ◾️年末年始の営業時間◾️12月29日(金)…12:00〜23:3012月30日(土)…12:00〜23:0012月31日(水)…16:00〜25:001月1日(木)〜1月3日(土)…12:00〜22:001月4日(日)…12:00〜22:30"
   },
   {
     "id": "snowman-536ddfd7-20250424",
@@ -34218,13 +34276,16 @@
     "nearest_station": "「自由が丘駅」より徒歩2分「九品仏駅」より徒歩8分「奥沢駅」より徒歩9分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131703/13256676/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/140110/140110366.jpg?token=83fa75f&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.08,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 05:00"
   },
   {
     "id": "snowman-99d_d-20250420",
@@ -34294,13 +34355,15 @@
     "nearest_station": "「成東駅」より車で約15分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120503/12031328/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/270477/c0840144a46afa3b9074c8b72942a792.jpg?token=ff8bb26&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "price_range": "-",
+    "business_hours": "■ 営業時間チェックイン15:00 チェックアウト翌10:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-b2959f40-20250323",
@@ -34332,13 +34395,16 @@
     "nearest_station": "「東所沢駅」より徒歩10分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1106/A110601/11039142/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/328289/b223ba85f3d2924f39a5c09c25802b7b.jpg?token=c60cb26&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.24,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 15:00 17:00 - 22:30"
   },
   {
     "id": "snowman-05320813-20250311",
@@ -34370,10 +34436,10 @@
     "nearest_station": "「六本木駅」（3番出口）より徒歩10分「麻布十番駅」（4番出口）より徒歩7分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13001226/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359275/654f736b6910c43172f621fed2b4b0bc.jpg?token=b2d1fcd&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34386,7 +34452,10 @@
       "旬菜ぬか漬け（深澤辰哉）",
       "十割そば(太打ち)鴨せいろ(大盛)（佐久間大介）",
       "焼き蕎麦味噌（佐久間大介）"
-    ]
+    ],
+    "tabelog_score": 3.65,
+    "price_range": "￥5,000～￥5,999",
+    "business_hours": "月・火・水・木・金 11:30 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 20:00 ■ 定休日1月1日、2日、3日営業時間が変更になる場合がございますので、詳細は店舗までお問い合わせください。"
   },
   {
     "id": "snowman-collabo-20241205",
@@ -34418,10 +34487,10 @@
     "nearest_station": "三軒茶屋駅から徒歩6分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13150186/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112692/112692297.jpg?token=f115c13&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34438,7 +34507,10 @@
       "瀬戸内ゆずスカッシュ（宮館涼太）",
       "はちみつレモンサイダー（ラウール）",
       "瀬戸内ゆずスカッシュ（佐久間大介）"
-    ]
+    ],
+    "tabelog_score": 3.37,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金 11:30 - 14:30 L.O. 14:00 17:00 - 00:00 L.O. 23:00 土・日・祝日 11:30 - 15:00 L.O. 料理14:30 17:00 - 00:00 L.O. 23:00 ■ 営業時間その他の時間も、予約にてお気軽にご相談ください。■ 定休日不定休（年末年始休み）"
   },
   {
     "id": "snowman-a40fd421-20250304",
@@ -34470,10 +34542,10 @@
     "nearest_station": "「葛西駅」より徒歩7分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131105/13126009/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356395/6ef37e059486fb9027d044e8cc5918b5.jpg?token=d647375&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -34507,7 +34579,10 @@
       "キムチ納豆／？（ラウール）",
       "明太子／？（ラウール）",
       "おかず海苔（ラウール）"
-    ]
+    ],
+    "tabelog_score": 3.24,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-homer-20250211",
@@ -34539,13 +34614,16 @@
     "nearest_station": "「武蔵小金井駅」（南口）より徒歩18分京王バス「前原交番西」下車徒歩2分京王バス「貫井横丁入口」下車徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1325/A132501/13035096/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/18816/18816906.jpg?token=f44168a&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.47,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・木・金 10:30 - 15:30 L.O. 料理14:30 17:30 - 22:00 L.O. 料理21:00 土・日 10:30 - 22:00 L.O. 料理21:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-40e268fe-20241029",
@@ -34691,13 +34769,16 @@
     "nearest_station": "東京メトロ銀座線赤坂見附駅徒歩1分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13184822/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/169874/b0c372d24a817845c5a2ccc0e7383459.jpg?token=9364d8d&api=v2",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.46,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "月・火・水・木・金 11:30 - 15:00 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 23:00 L.O. 22:00 ■ 営業時間平日ランチ:ランチセットメニューのみの営業※予約 不可平日ディナー：グランドメニューのみの営業※予約 可土日祝：終日グランドメニューのみの営業※予約 可■ 定休日12月31日～1月3日は年末年始休業となります"
   },
   {
     "id": "kimura-ab0388de-20240422",
