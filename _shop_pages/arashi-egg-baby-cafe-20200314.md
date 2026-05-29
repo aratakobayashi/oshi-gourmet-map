@@ -14,6 +14,7 @@ source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13229207/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/98698/98698477.jpg?token=e82b92e&api=v2"
+source_type: "tv"
 business_hours: "10:00 - 22:00 ■年末年始の営業について12月28日(日)、29日(月)、30日(火) 21時閉店12/31(水)〜1/3(土) 店休1/4(日) 10時〜営業開始■ 営業時間【定休日なし】一部、テイクアウトメニューをご用意致しております。※状況により営業時間、メニュー内容が変更になる事もございます。■ 定休日不定休"
 lat: 35.7117081
 lng: 139.7761542

@@ -14,6 +14,7 @@ source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132403/13111400/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/42357/42357890.jpg?token=93b86de&api=v2"
+source_type: "tv"
 business_hours: "月・火・水・木・金・土 11:30 - 15:00 18:00 - 22:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7504293
 lng: 139.8541318

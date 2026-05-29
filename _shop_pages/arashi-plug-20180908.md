@@ -14,6 +14,7 @@ source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27087169/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/262478/f6523a837215266da2cefb88fcf5e5b5.jpg?token=0d2359c&api=v2"
+source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 22:00 L.O. 料理21:00 ドリンク21:30 ■ 定休日 不定休(Instagramにて告知しております。)"
 lat: 34.7074828
 lng: 135.5036637

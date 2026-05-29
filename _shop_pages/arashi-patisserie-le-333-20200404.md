@@ -12,6 +12,7 @@ visited_date: "2020-04-04"
 source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130703/13238427/"
+source_type: "tv"
 lat: 35.6515204
 lng: 139.728716
 members:

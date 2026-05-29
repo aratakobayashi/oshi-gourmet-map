@@ -14,6 +14,7 @@ source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14070565/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/203367/ec20a9c36ca05eee778bbd7d79aaad08.jpg?token=4ef274c&api=v2"
+source_type: "tv"
 business_hours: "11:00 - 21:00 L.O. 20:00 ■ 定休日コレットマーレに準ずる"
 lat: 35.4496249
 lng: 139.6307358

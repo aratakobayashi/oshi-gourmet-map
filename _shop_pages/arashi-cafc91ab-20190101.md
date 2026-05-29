@@ -14,6 +14,7 @@ source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230105/23000105/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/120682/120682576.jpg?token=03febac&api=v2"
+source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 11:00 - 14:30 L.O. 料理14:00 17:00 - 20:30 L.O. 料理20:00 不定休"
 lat: 35.146554
 lng: 136.9146788
