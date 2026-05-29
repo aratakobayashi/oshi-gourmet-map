@@ -37253,13 +37253,16 @@
     "nearest_station": "",
     "description": "アクセス｜レディースアンティーク｜銀座のアンティークギャラリーM.J.Q",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13158144/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/127590/127590308.jpg?token=651f2f7&api=v2",
     "source_type": "tv",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.15,
+    "price_range": "￥8,000～￥9,999",
+    "business_hours": "月・火・水・木・金・土・祝日・祝前日・祝後日 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日"
   },
   {
     "id": "arashi-91cbc75d-20200101",
@@ -42460,10 +42463,12 @@
         "url": "https://tabelog.com/hokkaido/A0109/A010906/1007519/"
       }
     ],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/53814/53814015.jpg?token=eac1c45&api=v2",
     "source_type": "tv",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "tabelog_score": 3.53,
+    "price_range": "￥1,000～￥1,999"
   },
   {
     "id": "arashi-648257b8-20190101",

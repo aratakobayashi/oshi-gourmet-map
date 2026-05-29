@@ -108,9 +108,9 @@ layout: default
   <div class="shop-hero__inner">
     <div class="shop-hero__media">
       {% if s.youtube_id != "" and s.youtube_id %}
-        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/hqdefault.jpg" alt="{{ s.name }}">
+        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/hqdefault.jpg" alt="{{ s.name }}" fetchpriority="high">
       {% elsif s.thumbnail_url != "" and s.thumbnail_url %}
-        <img src="{{ s.thumbnail_url }}" alt="{{ s.name }}">
+        <img src="{{ s.thumbnail_url }}" alt="{{ s.name }}" fetchpriority="high">
       {% else %}
         <div class="shop-hero__media-placeholder">🍽️</div>
       {% endif %}
