@@ -8,10 +8,15 @@ genre: "食事"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区"
+price_range: "～￥999"
 visited_date: "2024-04-17"
 group: "kimura"
+tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13229246/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/121123/121123710.jpg?token=a20e364&api=v2"
+business_hours: "09:00 - 19:00 ※年末年始は休業の可能性あり"
 lat: 35.6469025
 lng: 139.652531
+tabelog_score: 3.5
 members:
   - "木村拓哉"
 groups:

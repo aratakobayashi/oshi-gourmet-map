@@ -7,10 +7,15 @@ name: "cafe nun"
 genre: "食事"
 prefecture: "千葉県"
 address: "千葉県山武郡九十九里町"
+price_range: "-"
 visited_date: "2024-05-01"
 group: "kimura"
+tabelog_url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/52546/52546212.jpg?token=554520b&api=v2"
+business_hours: "土・日 10:00 - 16:00 月・火・水・木・金 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5241
 lng: 140.3894
+tabelog_score: 3.08
 members:
   - "木村拓哉"
 groups:
