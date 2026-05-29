@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「清水順正 おかべ家」"
-description: "京都市の和食店。=LOVEが訪れたロケ地。京都市の和食店。=LOVEが訪れたロケ地。=LOVEが訪れた和食店。"
+description: "=LOVEのYouTubeで紹介された和食「清水順正 おかべ家」（京都府京都市）。食べログ3.4点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-93d5e98f-202408"
 name: "清水順正 おかべ家"
 genre: "和食"

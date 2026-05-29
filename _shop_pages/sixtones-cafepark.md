@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「CAFE PARK」"
-description: "ストチューブ（SixTONES）「SixTONES - お洒落カフェでトーク」に登場したカフェ。ジェシー・京本大我らが訪問。"
+description: "SixTONES - お洒落カフェでトークで紹介されたカフェ「CAFE PARK」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafepark"
 name: "CAFE PARK"
 genre: "カフェ"

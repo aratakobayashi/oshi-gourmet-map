@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「COA GINZA」"
-description: "中央区のカフェ。大谷映美里が2025年10月に訪れた。中央区のカフェ。大谷映美里が2025年10月に訪れた。=LOVEの大谷映美里が訪れたカフェ。"
+description: "=LOVEのYouTubeで紹介されたカフェ「COA GINZA」（東京都中央区）。食べログ3.26点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
 genre: "カフェ"

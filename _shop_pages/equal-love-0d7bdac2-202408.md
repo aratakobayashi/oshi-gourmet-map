@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江町コロッケ」"
-description: "金沢市のスイーツショップ。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたスイーツ店。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「近江町コロッケ」（石川県金沢市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0d7bdac2-202408"
 name: "近江町コロッケ"
 genre: "スイーツ"

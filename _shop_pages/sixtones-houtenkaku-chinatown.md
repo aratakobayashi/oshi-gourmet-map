@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「上海小籠包専門店 鵬天閣」"
-description: "横浜中華街の焼き小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（動画5:52〜8:39）でメンバー全員が焼き小籠包を堪能（ストチューブ2023年3月10日配信）。"
+description: "SixTONESのYouTubeで紹介された中華「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-houtenkaku-chinatown"
 name: "上海小籠包専門店 鵬天閣"
 genre: "中華"

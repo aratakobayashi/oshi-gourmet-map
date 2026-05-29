@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
-description: "よにのちゃんねる#409登場。Mrs.GREEN APPLE大森元貴ゲスト回。国立競技場隣の都立明治公園内カフェ。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「BLUE SIX COFFEE」（東京都新宿区）。食べログ3.51点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ほうとう不動 東恋路店」"
-description: "富士山麓の人気ほうとう店。建築家・保坂猛設計のドーム型建物が特徴的。10万円アポなし旅（2019年7月19日配信）で6人が訪問し山梨の郷土料理ほうとうを堪能。"
+description: "SixTONESのYouTubeで紹介された和食「ほうとう不動 東恋路店」（山梨県南都留郡富士河口湖町）。食べログ3.48点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-houtou-fudo-higashikoji"
 name: "ほうとう不動 東恋路店"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "東京都のレストラン。岩本照・ラウール・深澤辰哉らが2025年5月に訪れた。Snow Man メンバーがすの日常で訪れたフクロウカフェ。町田にある予約制カフェ。"
+description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "食事"

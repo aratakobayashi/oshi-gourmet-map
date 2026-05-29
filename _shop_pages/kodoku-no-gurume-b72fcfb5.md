@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「九絵」"
-description: "孤独のグルメ Season5 第6話に登場した目黒・大岡山の漁師料理店。九絵定食（カンパチ・ヒラメ等の刺身）となめろう冷茶漬けを注文。"
+description: "孤独のグルメ Season5 第6話で紹介された和食「九絵」（東京都目黒区）。食べログ3.49点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b72fcfb5-"
 name: "九絵"
 genre: "和食"

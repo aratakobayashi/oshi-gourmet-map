@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「彩り五色小籠包専門店 龍海飯店」"
-description: "横浜中華街の五色小籠包専門店。「MV撮影の合間に…カメラ回してみた!!」（ストチューブ2023年3月10日配信）でメンバー4人が個室で小籠包・フカヒレなどを堪能。"
+description: "SixTONESのYouTubeで紹介された中華「彩り五色小籠包専門店 龍海飯店」（神奈川県横浜市中区）。食べログ3.23点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ryukaihanten-chinatown"
 name: "彩り五色小籠包専門店 龍海飯店"
 genre: "中華"

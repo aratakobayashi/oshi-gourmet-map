@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「WEGO 原宿竹下通り店」"
-description: "渋谷区のグルメスポット。尾木波菜・菅波美玲・谷崎早耶らが2024年8月に訪れた。≠MEの尾木波菜・菅波美玲らが訪れたお店。"
+description: "≠MEのYouTubeで紹介されたその他「WEGO 原宿竹下通り店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-wego-202408"
 name: "WEGO 原宿竹下通り店"
 genre: "その他"

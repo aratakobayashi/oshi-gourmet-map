@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Beschle」"
-description: "スイスにあるチョコレート屋さんです。 日本人の店員さんに、チョコレートバーの作り方を教えてもらっています。 普段からチョコレート作り体験ができるそうなので、スイスを訪れた際はぜひ挑戦してみてください。"
+description: "亀梨和也のYouTubeで紹介された居酒屋「Beschle」。食べログ3.32点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-beschle-20241116"
 name: "Beschle"
 genre: "居酒屋"

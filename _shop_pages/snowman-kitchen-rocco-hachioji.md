@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Kitchen ROCCO」"
-description: "八王子市のレストラン。ラウール・目黒蓮・宮舘涼太らが2023年12月に訪れた。イタリアン・八王子が楽しめる。八王子ロケ（高尾山回）の道中で立ち寄った、ロッコライスが人気のイタリアンキッチン。"
+description: "Snow ManのYouTubeで紹介された食事「Kitchen ROCCO」（東京都八王子市）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-rocco-hachioji"
 name: "Kitchen ROCCO"
 genre: "食事"

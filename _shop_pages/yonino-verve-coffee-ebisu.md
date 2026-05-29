@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「VERVE COFFEE ROASTERS EBISU」"
-description: "米カリフォルニア発のスペシャルティコーヒーロースター。恵比寿ガーデンプレイス内の開放的な空間で上質なコーヒーを楽しめる。よにのちゃんねる#469で登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「VERVE COFFEE ROASTERS EBISU」（東京都渋谷区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-verve-coffee-ebisu"
 name: "VERVE COFFEE ROASTERS EBISU"
 genre: "カフェ"

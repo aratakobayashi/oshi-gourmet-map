@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「La TRIPLETTA」"
-description: "3問目は品川区の武蔵小山駅から徒歩1分のところにある、ナポリピッツァ専門店の『La TRIPLETTA』から出題。"
+description: "King&Princeる。当たり前レストランで紹介された食事「La TRIPLETTA」（東京都品川区）。食べログ3.75点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-la_tripletta-20221015"
 name: "La TRIPLETTA"
 genre: "食事"

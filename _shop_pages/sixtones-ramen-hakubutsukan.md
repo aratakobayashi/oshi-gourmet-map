@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「新横浜ラーメン博物館」"
-description: "昭和レトロな屋内ラーメンテーマパーク。ストチューブで2本の動画に登場し、館内かくれんぼや人気ラーメンを食べる企画を実施。多数のジャニーズが訪れる有名ロケ地。"
+description: "SixTONESのYouTubeで紹介されたラーメン「新横浜ラーメン博物館」（神奈川県横浜市港北区）。食べログ3.25点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ramen-hakubutsukan"
 name: "新横浜ラーメン博物館"
 genre: "ラーメン"

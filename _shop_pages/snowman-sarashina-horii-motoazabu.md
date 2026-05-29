@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「総本家更科堀井 本店」"
-description: "港区の和食店。岩本照・深澤辰哉・佐久間大介らが2025年3月に訪れた。麻布十番が楽しめる。創業200年超の麻布十番老舗そば店。すの日常2025年3月12日配信。"
+description: "Snow ManのYouTubeで紹介された和食「総本家更科堀井 本店」（東京都港区）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "和食"

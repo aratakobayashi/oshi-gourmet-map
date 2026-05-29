@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "中丸雄一が行った「GOLD RUSH(ゴールドラッシュ)」"
-description: "新宿区のレストラン。中丸雄一が2024年2月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。"
+title: "中丸雄一 銀河チャンネルが行った「GOLD RUSH(ゴールドラッシュ)」"
+description: "銀河チャンネルで紹介された食事「GOLD RUSH(ゴールドラッシュ)」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
 shop_id: "ginga-gold_rush-202402"
 name: "GOLD RUSH(ゴールドラッシュ)"
 genre: "食事"

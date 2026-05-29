@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "ヨゴロウ（YOGORO）"
-description: "ヨゴロウ (YOGORO) (国立競技場/カレー) – Retty"
+title: "嵐が行った「ヨゴロウ（YOGORO）」"
+description: "嵐にしやがれで紹介された食事「ヨゴロウ（YOGORO）」（東京都渋谷区）。食べログ3.78点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-yogoro-20190713"
 name: "ヨゴロウ（YOGORO）"
 genre: "食事"

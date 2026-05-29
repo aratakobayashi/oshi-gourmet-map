@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「WeLoveDonut 神楽坂店」"
-description: "Snow Man メンバーが訪れた飲食店。【すのちゅーぶ】ドライブ中のドーナツはWeLoveDonut 神楽坂店｜食べたメニューも調査！ に登場。"
+description: "Snow ManのYouTubeで紹介されたスイーツ「WeLoveDonut 神楽坂店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-welovedonut-20260513"
 name: "WeLoveDonut 神楽坂店"
 genre: "スイーツ"

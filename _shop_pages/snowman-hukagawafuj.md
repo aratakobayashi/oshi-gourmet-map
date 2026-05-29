@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「深川富士見」"
-description: "Snow Man メンバーがすの日常で訪れた海釣り・食事処。東京湾で釣りを楽しんだ後に料理できるスポット。"
+description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都）。食べログ3.28点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-hukagawafuj"
 name: "深川富士見"
 genre: "食事"

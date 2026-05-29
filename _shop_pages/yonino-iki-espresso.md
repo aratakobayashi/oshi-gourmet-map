@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「iki ESPRESSO」"
-description: "江東区のカフェ。二宮和也・山田涼介・菊池風磨が2025年2月に訪れた。清澄白河・NZ発が楽しめる。清澄白河のおしゃれカフェ。エッグベネディクトなどの朝食メニューが登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「iki ESPRESSO」（東京都江東区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
 genre: "カフェ"

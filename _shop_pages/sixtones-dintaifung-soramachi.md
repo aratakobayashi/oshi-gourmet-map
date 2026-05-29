@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鼎泰豊（ディンタイフォン）東京ソラマチ店」"
-description: "東京ソラマチの台湾小籠包名店。2023年大晦日忘年会の会場として6人が訪問。小籠包・エビ餃子・各種点心を堪能（ストチューブ2024年1月19日配信）。"
+description: "SixTONESのYouTubeで紹介された中華「鼎泰豊（ディンタイフォン）東京ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-dintaifung-soramachi"
 name: "鼎泰豊（ディンタイフォン）東京ソラマチ店"
 genre: "中華"

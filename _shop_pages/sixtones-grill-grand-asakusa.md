@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「グリルグランド」"
-description: "台東区のレストラン。SixTONESが訪れたロケ地。浅草の老舗洋食店。名物のオムライスや特製デミグラスソースのハンバーグが登場。"
+description: "SixTONESのYouTubeで紹介された食事「グリルグランド」（東京都台東区）。食べログ3.72点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-grill-grand-asakusa"
 name: "グリルグランド"
 genre: "食事"

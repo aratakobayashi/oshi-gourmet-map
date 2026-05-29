@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「喜久屋」"
-description: "台東区のレストラン。髙橋舞・村山結香・山野愛月が2024年8月に訪れた。≒JOYの髙橋舞・村山結香らが訪れた飲食店。"
+description: "≒JOYのYouTubeで紹介された食事「喜久屋」（東京都台東区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-ea607bdf-202408"
 name: "喜久屋"
 genre: "食事"

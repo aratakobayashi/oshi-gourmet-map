@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「川栄」"
-description: "孤独のグルメ Season3 第1話に登場した赤羽の焼き鳥・うなぎ店。ほろほろ鳥の串焼きと鰻のオムレツ・うな丼を注文。"
+description: "孤独のグルメ Season3 第1話で紹介された食事「川栄」（東京都）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-736a5d18-"
 name: "川栄"
 genre: "食事"

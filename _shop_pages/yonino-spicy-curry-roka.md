@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「SPICY CURRY 魯珈」"
-description: "大久保の予約困難スパイスカレー店。南インド仕込みのチキンカレーと台湾魯肉飯を組み合わせた「魯珈プレート」が名物。よにのちゃんねる#421で登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカレー「SPICY CURRY 魯珈」（東京都新宿区）。食べログ3.97点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spicy-curry-roka"
 name: "SPICY CURRY 魯珈"
 genre: "カレー"

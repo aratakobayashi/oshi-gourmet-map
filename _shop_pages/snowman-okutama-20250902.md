@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「OKUTAMA＋」"
-description: "食事・東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「OKUTAMA＋」（東京都）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-okutama-20250902"
 name: "OKUTAMA＋"
 genre: "食事"

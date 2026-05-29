@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「南粤美食」"
-description: "孤独のグルメ Season8 第1話に登場した横浜中華街の広東料理店。腸詰め干し肉貝柱釜飯・香港海老雲呑麺を注文。"
+description: "孤独のグルメ Season8 第1話で紹介された食事「南粤美食」（神奈川県横浜市）。食べログ3.58点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6dfc42b1-"
 name: "南粤美食"
 genre: "食事"

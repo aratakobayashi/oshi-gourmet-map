@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "パティスリー ル トワ （patisserie le-333）"
-description: "パティスリー ル トワ (patisserie le-333) (広尾/ケーキ屋) – Retty"
+title: "嵐が行った「パティスリー ル トワ （patisserie le-333）」"
+description: "嵐にしやがれで紹介されたスイーツ「パティスリー ル トワ （patisserie le-333）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-patisserie_le_333-20200404"
 name: "パティスリー ル トワ （patisserie le-333）"
 genre: "スイーツ"

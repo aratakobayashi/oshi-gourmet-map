@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「スペイン料理 Pablo」"
-description: "目黒区のレストラン。深澤辰哉・渡辺翔太・宮舘涼太らが2024年10月に訪れた。スペイン料理・パエリアが楽しめる。パエリア世界大会日本代表シェフによる本格スペイン料理。すの日常2024年10月2日配信。"
+description: "Snow ManのYouTubeで紹介された食事「スペイン料理 Pablo」（東京都目黒区）。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-meguro"
 name: "スペイン料理 Pablo"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ 川松」"
-description: "和食・東久留米市東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された和食「うなぎ 川松」（東京都東久留米市）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-65fabdbd-20250509"
 name: "うなぎ 川松"
 genre: "和食"

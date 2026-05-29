@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「千里眼」"
-description: "目黒区のラーメン店。大谷映美里が2024年8月に訪れた。目黒区のラーメン店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
+description: "=LOVEのYouTubeで紹介されたラーメン「千里眼」（東京都目黒区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-cd18dd9d-202408"
 name: "千里眼"
 genre: "ラーメン"

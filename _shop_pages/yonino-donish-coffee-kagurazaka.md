@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Donish Coffee Company 神楽坂」"
-description: "新宿区のカフェ。二宮和也・山田涼介が2025年6月に訪れた。スペシャルティコーヒーが楽しめる。神楽坂の路地裏にある自家焙煎スペシャルティコーヒースタンド。よにのちゃんねる#434に登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Donish Coffee Company 神楽坂」（東京都新宿区）。食べログ3.21点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-donish-coffee-kagurazaka"
 name: "Donish Coffee Company 神楽坂"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STREAMER COFFEE COMPANY AKASAKA」"
-description: "東京都のカフェ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#498「初じゃない!!」に登場したカフェ。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STREAMER COFFEE COMPANY AKASAKA」（東京都）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-streamer_coffee_comp-20260201"
 name: "STREAMER COFFEE COMPANY AKASAKA"
 genre: "カフェ"

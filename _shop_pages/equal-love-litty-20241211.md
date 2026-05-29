@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Litty」"
-description: "渋谷区の居酒屋。音嶋莉沙が2024年12月に訪れた。渋谷区の居酒屋。音嶋莉沙が2024年12月に訪れた。=LOVEの音嶋莉沙が訪れた居酒屋。"
+description: "=LOVEのYouTubeで紹介された居酒屋「Litty」（東京都渋谷区）。食べログ3.33点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-litty-20241211"
 name: "Litty"
 genre: "居酒屋"

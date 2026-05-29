@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
-description: "中央区の寿司店。渡辺翔太・向井康二・ラウールが2025年12月に訪れた。おまかせ・江戸前が楽しめる。銀座の本格江戸前寿司おまかせコース。すの日常2025年12月17日配信。"
+description: "Snow ManのYouTubeで紹介された寿司「GINZA SUSHI BANYA KAI」（東京都中央区）。食べログ3.51点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
 genre: "寿司"

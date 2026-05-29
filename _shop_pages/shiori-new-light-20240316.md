@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「NEW LIGHT」"
-description: "渋谷区の居酒屋。しおりが2024年3月に訪れた。ミヤシタパーク3Fに位置するオシャレな雰囲気のバー・居酒屋。"
+description: "しおりのYouTubeで紹介された居酒屋「NEW LIGHT」（東京都渋谷区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-new_light-20240316"
 name: "NEW LIGHT"
 genre: "居酒屋"

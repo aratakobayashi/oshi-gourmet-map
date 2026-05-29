@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「布恒更科」"
-description: "お蕎麦好きな、Travis Japanの七五三掛龍也くんと一緒に行ったお蕎麦屋さんです。 2人で蕎麦打ちを体験し、一緒に食べています。"
+description: "亀梨和也のYouTubeで紹介された和食「布恒更科」（東京都品川区）。食べログ3.67点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-c3b4e8da-202408"
 name: "布恒更科"
 genre: "和食"

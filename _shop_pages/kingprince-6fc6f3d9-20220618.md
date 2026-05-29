@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ピアット・スズキ」"
-description: "港区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年6月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.69点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「ピアット・スズキ」（東京都港区）。食べログ3.69点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6fc6f3d9-20220618"
 name: "ピアット・スズキ"
 genre: "食事"

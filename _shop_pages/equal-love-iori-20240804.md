@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「IORI」"
-description: "千歳市のレストラン。大谷映美里・佐々木舞香が2024年8月に訪れた。=LOVEの大谷映美里・佐々木舞香が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「IORI」（北海道千歳市）。食べログ3.66点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"
 genre: "食事"

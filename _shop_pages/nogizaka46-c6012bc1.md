@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「菊地商店」"
-description: "『17thインフルエンサーType-A』に収録されている、岩本蓮加さんの個人PV『駄菓子屋れんたん！』が撮影された駄菓子屋さんです^ ^"
+description: "乃木坂46のYouTubeで紹介された食事「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c6012bc1-"
 name: "菊地商店"
 genre: "食事"

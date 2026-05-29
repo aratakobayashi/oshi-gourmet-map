@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「串焼げん 江戸川橋店」"
-description: "文京区の居酒屋。渡辺翔太が2019年10月に訪れた。串焼きが楽しめる。渡辺翔太が食べたいものとして選んだ串焼き専門店。すの日常2019年10月配信回。"
+description: "Snow ManのYouTubeで紹介された居酒屋「串焼げん 江戸川橋店」（東京都文京区）。食べログ3.24点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kushigen-edogawabashi"
 name: "串焼げん 江戸川橋店"
 genre: "居酒屋"

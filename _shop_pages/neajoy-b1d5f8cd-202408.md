@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「鳥のいるカフェ 千駄木店」"
-description: "文京区のカフェ。市原愛弓・山野愛月が2024年8月に訪れた。≒JOYの市原愛弓・山野愛月が訪れたカフェ。"
+description: "≒JOYのYouTubeで紹介されたカフェ「鳥のいるカフェ 千駄木店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-b1d5f8cd-202408"
 name: "鳥のいるカフェ 千駄木店"
 genre: "カフェ"

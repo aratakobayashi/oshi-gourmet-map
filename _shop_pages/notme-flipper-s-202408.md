@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「FLIPPER'S 下北沢店」"
-description: "世田谷区のスイーツショップ。冨田菜々風・蟹沢萌子が2024年8月に訪れた。≠MEの冨田菜々風・蟹沢萌子が訪れたスイーツ店。"
+description: "≠MEのYouTubeで紹介されたスイーツ「FLIPPER'S 下北沢店」（東京都世田谷区）。食べログ3.13点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-flipper_s-202408"
 name: "FLIPPER'S 下北沢店"
 genre: "スイーツ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "キクヤ　カリー（Kikuya Curry）"
-description: "KIKUYA 横浜（野毛/洋食/カレー）の店舗情報・予約なら、お得なクーポン満載【ホットペッパーグルメ】！KIKUYA 横浜の地図、メニュー、口コミ、写真などグルメ情報満載です！…"
+title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
+description: "嵐にしやがれで紹介された居酒屋「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
 genre: "居酒屋"

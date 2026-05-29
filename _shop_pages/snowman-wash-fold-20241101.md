@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「コインランドリー：WASH&FOLDベイシティ晴海店」"
-description: "食事・中央区東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「コインランドリー：WASH&FOLDベイシティ晴海店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-wash_fold-20241101"
 name: "コインランドリー：WASH&FOLDベイシティ晴海店"
 genre: "食事"

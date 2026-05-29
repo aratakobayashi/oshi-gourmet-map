@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「café recette 鎌倉(カフェ ルセット)」"
-description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ 究極のフレンチトーストを食べていました！"
+description: "乃木坂46のYouTubeで紹介されたカフェ「café recette 鎌倉(カフェ ルセット)」（神奈川県鎌倉市）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cafe_recette-"
 name: "café recette 鎌倉(カフェ ルセット)"
 genre: "カフェ"

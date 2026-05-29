@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Le Pain Quotidien 東京ミッドタウン店」"
-description: "港区のカフェ。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。ベルギー発祥のベーカリーレストラン。テラス席での朝食シーンが印象的です。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-le-pain-quotidien"
 name: "Le Pain Quotidien 東京ミッドタウン店"
 genre: "カフェ"

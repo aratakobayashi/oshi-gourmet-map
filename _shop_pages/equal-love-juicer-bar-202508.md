@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Juicer Bar 新幹線新大阪店」"
-description: "大阪市のレストラン。大谷映美里が2025年8月に訪れた。大阪市のレストラン。大谷映美里が2025年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。食べログ3.25点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-juicer_bar-202508"
 name: "Juicer Bar 新幹線新大阪店"
 genre: "食事"

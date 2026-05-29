@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「帝國食堂」"
-description: "港区のレストラン。佐久間大介・深澤辰哉・渡辺翔太らが2026年2月に訪れた。フレンチ・西麻布が楽しめる。西麻布の気軽に入れるフレンチビストロ。すの日常2026年2月11日配信。"
+description: "Snow ManのYouTubeで紹介された食事「帝國食堂」（東京都港区）。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "食事"

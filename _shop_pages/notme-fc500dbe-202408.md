@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「づぼらや 道頓堀店 前」"
-description: "大阪市のレストラン。≠MEが訪れたロケ地。大阪市のレストラン。≠MEが訪れたロケ地。≠MEが訪れた飲食店。"
+description: "≠MEのYouTubeで紹介された食事「づぼらや 道頓堀店 前」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "notme-fc500dbe-202408"
 name: "づぼらや 道頓堀店 前"
 genre: "食事"

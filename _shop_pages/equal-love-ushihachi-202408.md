@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「USHIHACHI 渋谷店」"
-description: "渋谷区の焼肉店。齊藤なぎさが2024年8月に訪れた。渋谷区の焼肉店。齊藤なぎさが2024年8月に訪れた。=LOVEの齊藤なぎさが訪れた焼肉店。"
+description: "=LOVEのYouTubeで紹介された焼肉「USHIHACHI 渋谷店」（東京都渋谷区）。食べログ3.18点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-ushihachi-202408"
 name: "USHIHACHI 渋谷店"
 genre: "焼肉"

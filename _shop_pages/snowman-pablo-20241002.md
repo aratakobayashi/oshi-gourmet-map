@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Pablo」"
-description: "レストラン。Snow Manが訪れたロケ地。すの日常（Snow Man）「思い出の味…スペイン料理」に登場した飲食店。"
+description: "Snow ManのYouTubeで紹介された食事「Pablo」。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "食事"

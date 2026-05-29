@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「阿左美冷蔵 金崎本店（SixTONES）」"
-description: "秩父郡皆野町のスイーツショップ。ジェシー・京本大我・松村北斗らが2021年8月に訪れた。秩父名物の天然氷かき氷。SixTONES夏休みドライブ企画で訪問。"
+description: "SixTONESのYouTubeで紹介されたスイーツ「阿左美冷蔵 金崎本店（SixTONES）」（埼玉県秩父郡皆野町）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sixtones-202108"
 name: "阿左美冷蔵 金崎本店（SixTONES）"
 genre: "スイーツ"

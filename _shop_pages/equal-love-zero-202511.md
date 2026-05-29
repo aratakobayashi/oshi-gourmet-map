@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「沼津港海将 zero 上野店」"
-description: "台東区の寿司店。諸橋沙夏が2025年11月に訪れた。台東区の寿司店。諸橋沙夏が2025年11月に訪れた。=LOVEの諸橋沙夏が訪れた寿司店。"
+description: "=LOVEのYouTubeで紹介された寿司「沼津港海将 zero 上野店」（東京都台東区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-zero-202511"
 name: "沼津港海将 zero 上野店"
 genre: "寿司"

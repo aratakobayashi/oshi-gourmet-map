@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ちゃんこ 霧島」"
-description: "墨田区の和食店。SixTONESが訪れたロケ地。両国ロケにて。元大関・霧島のちゃんこ鍋を囲み、賑やかにトークを繰り広げた回。"
+description: "SixTONES【両国ちゃんこ回】で紹介された和食「ちゃんこ 霧島」（東京都墨田区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-shichifuku-jin-ryogoku"
 name: "ちゃんこ 霧島"
 genre: "和食"

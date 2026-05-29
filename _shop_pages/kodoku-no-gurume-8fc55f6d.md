@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「マッシーナ メッシーナ」"
-description: "孤独のグルメ Season7 第2話に登場した世田谷の多国籍バイキング店。マフェ・雑穀混ぜご飯など多品目を注文。"
+description: "孤独のグルメ Season7 第2話で紹介された食事「マッシーナ メッシーナ」（東京都世田谷区）。食べログ3.12点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8fc55f6d-"
 name: "マッシーナ メッシーナ"
 genre: "食事"

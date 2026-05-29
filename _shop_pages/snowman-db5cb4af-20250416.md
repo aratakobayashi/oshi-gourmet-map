@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「辻利 生八ツ橋」"
-description: "すの日常（Snow Man）「【すのちゅーぶ】京都でラウールへのお土産を購入した」に登場した飲食店。岩本照・ラウールらが訪問。"
+description: "Snow ManのYouTubeで紹介された食事「辻利 生八ツ橋」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-db5cb4af-20250416"
 name: "辻利 生八ツ橋"
 genre: "食事"

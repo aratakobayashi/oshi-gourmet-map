@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Trattoria e Pizzeria de salita 赤坂」"
-description: "食事・港区東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「Trattoria e Pizzeria de salita 赤坂」（東京都港区）。食べログ3.46点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-trattoria_e_pizzeria-20240718"
 name: "Trattoria e Pizzeria de salita 赤坂"
 genre: "食事"

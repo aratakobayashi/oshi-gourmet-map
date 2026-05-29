@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Tian Tian Hainanese Chicken Rice」"
-description: "Maxwellのレストラン。田中樹が2024年3月に訪れた。田中樹さんがシンガポールで訪れたチキンライスの名店。"
+description: "SixTONESのYouTubeで紹介された食事「Tian Tian Hainanese Chicken Rice」（シンガポールMaxwell）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-tiantianhainanesechickenrice"
 name: "Tian Tian Hainanese Chicken Rice"
 genre: "食事"

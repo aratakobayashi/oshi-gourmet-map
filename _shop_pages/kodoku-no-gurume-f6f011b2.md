@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「永楽小乞」"
-description: "孤独のグルメ Season5 第5話に登場した台湾・台北永楽市場の担仔麺店。鶏肉飯・乾麺・下水湯を注文。"
+description: "孤独のグルメ Season5 第5話で紹介された食事「永楽小乞」。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f6f011b2-"
 name: "永楽小乞"
 genre: "食事"

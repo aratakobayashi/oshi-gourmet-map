@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「おにぎり浅草宿六」"
-description: "台東区の和食店。深澤辰哉・渡辺翔太・向井康二らが2024年9月に訪れた。おにぎり・ミシュランが楽しめる。東京最古のおにぎり専門店。ミシュランガイド掲載。すの日常2024年9月18日配信。"
+description: "Snow ManのYouTubeで紹介された和食「おにぎり浅草宿六」（東京都台東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-onigiri-asakusa-yadoroku"
 name: "おにぎり浅草宿六"
 genre: "和食"

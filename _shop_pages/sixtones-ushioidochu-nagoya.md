@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「極上松阪牛 牛追道中」"
-description: "名古屋の高級松阪牛専門焼肉店。YOUNG OLD 5大ドームツアー名古屋バンテリンドーム千穐楽前の打ち上げ会場（ストチューブ2025年4月18日配信）。木村拓哉も訪れる芸能人御用達店。"
+description: "SixTONESのYouTubeで紹介された焼肉「極上松阪牛 牛追道中」（愛知県名古屋市東区）。食べログ3.42点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ushioidochu-nagoya"
 name: "極上松阪牛 牛追道中"
 genre: "焼肉"

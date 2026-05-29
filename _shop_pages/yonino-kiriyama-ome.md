@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「きり山」"
-description: "青梅市の和食店。二宮和也・菊池風磨が2022年10月に訪れた。よにのちゃんねる#170登場。青梅の蕎麦店。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「きり山」（東京都青梅市）。食べログ3.35点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kiriyama-ome"
 name: "きり山"
 genre: "和食"

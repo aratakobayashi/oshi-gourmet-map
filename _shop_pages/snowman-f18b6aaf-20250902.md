@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「東京ディズニーリゾート」"
-description: "食事・Snow Manが訪問"
+description: "【この世界は1ダフル】ディズニーで渡辺翔太が訪れた場所・食べた物・着用グッズまとめ：SnowManロケ地で紹介された食事「東京ディズニーリゾート」。推し活グルメ巡礼スポット。"
 shop_id: "snowman-f18b6aaf-20250902"
 name: "東京ディズニーリゾート"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江牛 かね吉」"
-description: "大津市の焼肉店。髙松瞳・佐々木舞香が2024年8月に訪れた。=LOVEの髙松瞳・佐々木舞香が訪れた焼肉店。"
+description: "=LOVEのYouTubeで紹介された焼肉「近江牛 かね吉」（滋賀県大津市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-571d4c2e-202408"
 name: "近江牛 かね吉"
 genre: "焼肉"

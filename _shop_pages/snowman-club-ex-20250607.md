@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Club eX」"
-description: "食事・港区東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「Club eX」（東京都港区）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-club_ex-20250607"
 name: "Club eX"
 genre: "食事"

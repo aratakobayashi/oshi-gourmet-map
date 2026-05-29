@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン ぴーなっつ」"
-description: "目黒蓮プレゼンツ荒川ドライブランチ企画。隠れ家洋食店でドリア・ハンバーグを堪能。すの日常2023年10月25日配信。"
+description: "Snow Manが訪れた食事「キッチン ぴーなっつ」（東京都荒川区）。食べログ3.22点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-peanuts-arakawa"
 name: "キッチン ぴーなっつ"
 genre: "食事"

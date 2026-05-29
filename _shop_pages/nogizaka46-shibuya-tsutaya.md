@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「スターバックス・コーヒー SHIBUYA TSUTAYA店」"
-description: "渋谷区のカフェ。乃木坂46が訪れたロケ地。MV「革命の馬」に登場。食べログ3.14点。"
+description: "センター街【革命の馬】で紹介されたカフェ「スターバックス・コーヒー SHIBUYA TSUTAYA店」（東京都渋谷区）。食べログ3.14点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-shibuya_tsutaya-"
 name: "スターバックス・コーヒー SHIBUYA TSUTAYA店"
 genre: "カフェ"

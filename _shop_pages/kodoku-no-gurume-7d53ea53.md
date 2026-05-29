@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「中華飯店 一番」"
-description: "荒川区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.65点。"
+description: "孤独のグルメ Season10 第24話で紹介された食事「中華飯店 一番」（東京都荒川区）。食べログ3.65点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-7d53ea53-"
 name: "中華飯店 一番"
 genre: "食事"

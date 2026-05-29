@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「PICA富士西湖」"
-description: "食事・山梨県・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「PICA富士西湖」（山梨県）。食べログ3.01点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pica-20251203"
 name: "PICA富士西湖"
 genre: "食事"

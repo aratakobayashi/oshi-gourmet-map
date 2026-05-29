@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「パスティス広尾ハウス」"
-description: "渋谷区のカフェ。=LOVEが訪れたロケ地。渋谷区のカフェ。=LOVEが訪れたロケ地。=LOVEが訪れたカフェ。"
+description: "=LOVEのYouTubeで紹介されたカフェ「パスティス広尾ハウス」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-e732d9bf-202506"
 name: "パスティス広尾ハウス"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "エッグ ベイビー カフェ (egg baby cafe)"
-description: "エッグ ベイビー カフェ (egg baby cafe) (仲御徒町/カフェ) – Retty"
+title: "嵐が行った「エッグ ベイビー カフェ (egg baby cafe)」"
+description: "嵐にしやがれで紹介されたカフェ「エッグ ベイビー カフェ (egg baby cafe)」（東京都台東区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-egg_baby_cafe-20200314"
 name: "エッグ ベイビー カフェ (egg baby cafe)"
 genre: "カフェ"

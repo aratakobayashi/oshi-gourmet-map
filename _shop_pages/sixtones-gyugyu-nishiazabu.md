@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛牛 西麻布 総本店」"
-description: "六本木近くの隠れ家的高級焼肉店。ジェシーが霜降り明星・せいやと訪れた焼肉企画（ストチューブ2024年4月23日配信）で話題に。"
+description: "SixTONESのYouTubeで紹介された焼肉「牛牛 西麻布 総本店」（東京都港区）。食べログ3.46点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-gyugyu-nishiazabu"
 name: "牛牛 西麻布 総本店"
 genre: "焼肉"

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "BONDI CAFE"
-description: "食事・港区東京都・木村拓哉が訪問"
+title: "木村拓哉が行った「BONDI CAFE」"
+description: "木村拓哉が訪れた食事「BONDI CAFE」（東京都港区）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kimura-bondi_cafe-20240406"
 name: "BONDI CAFE"
 genre: "食事"

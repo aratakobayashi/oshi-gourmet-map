@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「COCONEEL」"
-description: "新宿区の居酒屋。乃木坂46が訪れたロケ地。MV「スカウトマン」に登場。食べログ3.11点。"
+description: "歌舞伎町【スカウトマン】で紹介された居酒屋「COCONEEL」（東京都新宿区）。食べログ3.11点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-coconeel-"
 name: "COCONEEL"
 genre: "居酒屋"

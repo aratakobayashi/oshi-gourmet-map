@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「KIZASU.COFFEE」"
-description: "港区のカフェ。二宮和也・山田涼介・菊池風磨が2025年7月に訪れた。御成門駅すぐのコスパ高めのコーヒースタンド。よにのちゃんねる#442に登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「KIZASU.COFFEE」（東京都港区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kizasu-coffee"
 name: "KIZASU.COFFEE"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥貴族 新宿東口店」"
-description: "新宿区の居酒屋。SixTONESが訪れたロケ地。「鳥貴族で全メニュー当てるまで帰れま10」的な企画で訪問。メンバーの好みが分かれる面白い回です。"
+description: "SixTONESのYouTubeで紹介された居酒屋「鳥貴族 新宿東口店」（東京都新宿区）。食べログ3.05点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-toriki-shinjuku"
 name: "鳥貴族 新宿東口店"
 genre: "居酒屋"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Sarabeth’s」"
-description: "3問目はJR東京駅・八重洲口の真横のビルの中にあるNY発祥のレストラン 『Sarabeth’s』 から。"
+description: "King&Princeる。当たり前レストランで紹介された食事「Sarabeth’s」（東京都千代田区）。食べログ3.5点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-sarabeths-20221210"
 name: "Sarabeth’s"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "512 カフェアンドグリル(512 CAFE & GRILL)"
-description: "512 CAFE & GRILL（ゴーイチニ カフェアンドグリル） (乃木坂/ダイニングバー) – Retty"
+title: "嵐が行った「512 カフェアンドグリル(512 CAFE & GRILL)」"
+description: "嵐にしやがれで紹介されたカフェ「512 カフェアンドグリル(512 CAFE & GRILL)」（東京都港区）。食べログ3.55点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-512_512_cafe_grill-20201219"
 name: "512 カフェアンドグリル(512 CAFE & GRILL)"
 genre: "カフェ"

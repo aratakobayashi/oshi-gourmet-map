@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「牛の達人 Private 西新宿店」"
-description: "新宿区の焼肉店。菊池風磨が訪れたtimeleszのロケ地。A5ランクの黒毛和牛を提供する焼肉店。洗練された個室空間が特徴。"
+description: "timelesz project -AUDITION-で紹介された焼肉「牛の達人 Private 西新宿店」（東京都新宿区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-private-"
 name: "牛の達人 Private 西新宿店"
 genre: "焼肉"

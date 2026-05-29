@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "東久留米市の和食店。岩本照・深澤辰哉・佐久間大介らが2024年2月に訪れた。うなぎ・東久留米が楽しめる。釣り部結成記念食事会。40年継ぎ足しの秘伝タレで焼くうなぎが絶品。すの日常2024年2月7日配信。"
+description: "Snow ManのYouTubeで紹介された和食「うなぎ川松」（東京都東久留米市）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "和食"

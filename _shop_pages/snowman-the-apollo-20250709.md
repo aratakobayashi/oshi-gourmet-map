@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「THE APOLLO」"
-description: "食事・中央区東京都・Snow Manが訪問"
+description: "【ゴチになります】SnowMan阿部＆佐久間 銀座ギリシャ料理「THE APOLLO」食べたメニュー・予約方法で紹介された食事「THE APOLLO」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-the_apollo-20250709"
 name: "THE APOLLO"
 genre: "食事"

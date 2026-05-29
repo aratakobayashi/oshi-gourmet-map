@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "有機茶生どら Dolala"
-description: "有機茶生どら Dolala(自由が丘/和スイーツ) – Retty"
+title: "嵐が行った「有機茶生どら Dolala」"
+description: "嵐にしやがれで紹介されたスイーツ「有機茶生どら Dolala」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-dolala-20200718"
 name: "有機茶生どら Dolala"
 genre: "スイーツ"

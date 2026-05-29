@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「馬場FLAT」"
-description: "食事・新宿区東京都・Snow Manが訪問"
+description: "Snow Man阿部亮平【ZIP!】パン屋情報まとめ｜馬場FLAT明太フランス・コーヒーアンドトーストで紹介された食事「馬場FLAT」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-flat-20260506"
 name: "馬場FLAT"
 genre: "食事"

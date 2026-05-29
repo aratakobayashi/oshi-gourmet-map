@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂ごはん 山ね家」"
-description: "港区の和食店。二宮和也・山田涼介・菊池風磨が2023年6月に訪れた。よにのちゃんねる#249登場。赤坂の家庭的な和定食店。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「赤坂ごはん 山ね家」（東京都港区）。食べログ3.65点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-akasaka-gohan-yamaneya"
 name: "赤坂ごはん 山ね家"
 genre: "和食"

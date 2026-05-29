@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「サンマリーナビーチ」"
-description: "食事・那覇市沖縄県・Snow Manが訪問"
+description: "渡辺翔太【この世界は1ダフル】沖縄で訪れたロケ地・食べたものまとめ！SnowMan聖地巡礼で紹介された食事「サンマリーナビーチ」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-b1bdaf44-20260330"
 name: "サンマリーナビーチ"
 genre: "食事"

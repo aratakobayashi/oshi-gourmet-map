@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「油そば春日亭 神田店」"
-description: "千代田区のラーメン店。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
+description: "=LOVEのYouTubeで紹介されたラーメン「油そば春日亭 神田店」（東京都千代田区）。食べログ3.28点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c2edb8b6-202408"
 name: "油そば春日亭 神田店"
 genre: "ラーメン"

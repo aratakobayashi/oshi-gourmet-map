@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「RACINES DONUT&ICE CREAM」"
-description: "港区のカフェ。神宮寺勇太・岸優太・永瀬廉らが2022年10月に訪れた。最終問題は東京・北青山にある『RACINES DONUT&ICE CREAM』から。"
+description: "King&Princeる。当たり前レストランで紹介されたカフェ「RACINES DONUT&ICE CREAM」（東京都港区）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-racines_donut_ice_cr-20221015"
 name: "RACINES DONUT&ICE CREAM"
 genre: "カフェ"

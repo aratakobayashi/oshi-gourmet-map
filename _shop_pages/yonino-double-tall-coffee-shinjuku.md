@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「DOUBLE TALL COFFEE 新宿御苑」"
-description: "新宿区のカフェ。二宮和也・山田涼介・菊池風磨が2025年9月に訪れた。コーヒーが楽しめる。よにのちゃんねる#457登場。なにわ男子・道枝駿佑ゲスト回。新宿御苑前のセルフロースターカフェ。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「DOUBLE TALL COFFEE 新宿御苑」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-double-tall-coffee-shinjuku"
 name: "DOUBLE TALL COFFEE 新宿御苑"
 genre: "カフェ"

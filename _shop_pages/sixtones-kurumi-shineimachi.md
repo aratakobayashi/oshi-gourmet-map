@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ 新栄店」"
-description: "名古屋・新栄町の鉄板焼き居酒屋。VVS＠バンテリンドームナゴヤ公演後の打ち上げ会場。お好み焼き・鉄板料理が名物（ストチューブ2024年4月26日配信）。"
+description: "SixTONESのYouTubeで紹介された居酒屋「くるみ 新栄店」（愛知県名古屋市東区）。食べログ3.03点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kurumi-shineimachi"
 name: "くるみ 新栄店"
 genre: "居酒屋"

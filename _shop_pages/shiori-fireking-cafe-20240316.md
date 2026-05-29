@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「Fireking Cafe」"
-description: "渋谷区のカフェ。しおりが2024年3月に訪れた。代々木上原の落ち着いたカフェバー。しおりが渋谷はしご酒動画で訪れた。"
+description: "しおりのYouTubeで紹介されたカフェ「Fireking Cafe」（東京都渋谷区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-fireking_cafe-20240316"
 name: "Fireking Cafe"
 genre: "カフェ"

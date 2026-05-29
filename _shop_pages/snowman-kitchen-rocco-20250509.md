@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Kitchen ROCCO（キッチンロッコ）」"
-description: "食事・八王子市東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「Kitchen ROCCO（キッチンロッコ）」（東京都八王子市）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen_rocco-20250509"
 name: "Kitchen ROCCO（キッチンロッコ）"
 genre: "食事"

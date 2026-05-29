@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "渋谷区の和食店。岩本照・深澤辰哉・渡辺翔太らが2025年9月に訪れた。恵比寿が楽しめる。身体に優しい薬膳料理ランチ。すの日常2025年9月24日配信。"
+description: "Snow ManのYouTubeで紹介された和食「薬膳キッチン やくぜんや」（東京都渋谷区）。食べログ3.4点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "和食"

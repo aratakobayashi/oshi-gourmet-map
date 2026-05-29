@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「そば会席 立会川 吉田家」"
-description: "品川区の和食店。岩本照・深澤辰哉・佐久間大介らが2023年10月に訪れた。「阿部亮平の食べたいものを当てろ」で訪れた、落ち着いた佇まいの老舗蕎麦店。"
+description: "Snow ManのYouTubeで紹介された和食「そば会席 立会川 吉田家」（東京都品川区）。食べログ3.54点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yoshidaya-tachiaigawa"
 name: "そば会席 立会川 吉田家"
 genre: "和食"

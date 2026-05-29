@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ISHINOYA 熱海 / 石のや 熱海」"
-description: "熱海市のレストラン。大谷映美里が2025年9月に訪れた。熱海市のレストラン。大谷映美里が2025年9月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「ISHINOYA 熱海 / 石のや 熱海」（静岡県熱海市）。食べログ3.23点、￥30,000～￥39,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-ishinoya-202509"
 name: "ISHINOYA 熱海 / 石のや 熱海"
 genre: "食事"

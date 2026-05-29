@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「恵比寿 焼肉 うしみつ」"
-description: "渋谷区の焼肉店。松村北斗が訪れたSixTONESのロケ地。「松村北斗の食べたいものを当てろ」で訪問。高級感あふれる空間で、絶品の焼き肉を堪能しました。"
+description: "SixTONESのYouTubeで紹介された焼肉「恵比寿 焼肉 うしみつ」（東京都渋谷区）。食べログ3.58点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ushimitsu-ebisu"
 name: "恵比寿 焼肉 うしみつ"
 genre: "焼肉"

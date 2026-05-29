@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STARBUCKS COFFEE 六本木7丁目店」"
-description: "港区のカフェ。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。スターバックスが楽しめる。よにのちゃんねる#357登場。六本木のスターバックス。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STARBUCKS COFFEE 六本木7丁目店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-starbucks-roppongi-7"
 name: "STARBUCKS COFFEE 六本木7丁目店"
 genre: "カフェ"

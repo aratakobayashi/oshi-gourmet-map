@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA CAFE」"
-description: "食事・中央区東京都・Snow Manが訪問"
+description: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめで紹介された食事「GINZA CAFE」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza_cafe-20260328"
 name: "GINZA CAFE"
 genre: "食事"

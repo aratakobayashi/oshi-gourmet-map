@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「土鍋ご飯いくしか 中目黒店」"
-description: "目黒区の和食店。深澤辰哉・岩本照・阿部亮平らが2025年6月に訪れた。土鍋ご飯・中目黒が楽しめる。おかわり自由の土鍋ご飯定食。すの日常2025年6月11日配信。"
+description: "Snow ManのYouTubeで紹介された和食「土鍋ご飯いくしか 中目黒店」（東京都目黒区）。食べログ3.36点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-donabe-gohan-ikushika"
 name: "土鍋ご飯いくしか 中目黒店"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「猫カフェ MOCHA 原宿店」"
-description: "渋谷区のカフェ。菅波美玲・谷崎早耶が2024年8月に訪れた。≠MEの菅波美玲・谷崎早耶が訪れたカフェ。"
+description: "≠MEのYouTubeで紹介されたカフェ「猫カフェ MOCHA 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-mocha-202408"
 name: "猫カフェ MOCHA 原宿店"
 genre: "カフェ"

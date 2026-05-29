@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「龍朋」"
-description: "新宿区のレストラン。ドラマ「孤独のグルメ Season10 第2話」に登場。食べログ3.66点。"
+description: "孤独のグルメ Season10 第2話で紹介された食事「龍朋」（東京都新宿区）。食べログ3.66点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a027b370-"
 name: "龍朋"
 genre: "食事"

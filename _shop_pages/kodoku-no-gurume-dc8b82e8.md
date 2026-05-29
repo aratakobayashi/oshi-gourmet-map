@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「どん平」"
-description: "孤独のグルメ Season3 第10話に登場した荒川区の定食・鍋料理店。炎の酒鍋セットととんかつ麦とろセット定食を注文。"
+description: "孤独のグルメ Season3 第10話で紹介された和食「どん平」（東京都荒川区）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dc8b82e8-"
 name: "どん平"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ICARO miyamoto」"
-description: "目黒区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年9月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.79点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「ICARO miyamoto」（東京都目黒区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-icaro_miyamoto-20220903"
 name: "ICARO miyamoto"
 genre: "食事"

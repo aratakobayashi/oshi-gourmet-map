@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「YOKOO 大阪のれんめぐり店」"
-description: "大阪市のレストラン。大谷映美里が2025年8月に訪れた。大阪市のレストラン。大谷映美里が2025年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「YOKOO 大阪のれんめぐり店」（大阪府大阪市）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-yokoo-202508"
 name: "YOKOO 大阪のれんめぐり店"
 genre: "食事"

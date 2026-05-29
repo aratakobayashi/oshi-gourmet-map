@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「いしがまや GOKU BURGER」"
-description: "イコラブハンバーガー部（大場花菜・瀧脇笙古）が念願の訪問。炭火で焼き上げたジューシーなハンバーグを挟んだ本格バーガーが名物。"
+description: "=LOVEのYouTubeで紹介された食事「いしがまや GOKU BURGER」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_001"
 name: "いしがまや GOKU BURGER"
 genre: "食事"

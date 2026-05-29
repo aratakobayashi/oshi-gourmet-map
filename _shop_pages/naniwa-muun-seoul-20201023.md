@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MUUN seoul」"
-description: "2020年10月23日放送のコーナーで長尾くんが訪れた 『Muun Seoul（ムーンソウル）』 。 トゥンカロンやタルギウユ（いちごミルク）などが楽しめる韓国本場カフェで、シンプルな韓国インテリアがお洒落な店内も魅力です。"
+description: "なにわ男子が訪れたカフェ「MUUN seoul」（東京都渋谷区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-muun_seoul-20201023"
 name: "MUUN seoul"
 genre: "カフェ"

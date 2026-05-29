@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「末ぜん」"
-description: "孤独のグルメ 2022年（Season10）に登場した東京都渋谷区代官山の料理店。井之頭五郎が訪問。"
+description: "孤独のグルメ Season10 第2022話で紹介された食事「末ぜん」（東京都渋谷区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2eca520c-"
 name: "末ぜん"
 genre: "食事"

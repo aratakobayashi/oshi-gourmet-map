@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「亀十」"
-description: "台東区のスイーツショップ。橋本将生が訪れたtimeleszのロケ地。浅草の老舗どら焼き店。もっちりした皮と上品なあんこが人気。"
+description: "タイムレスマンで紹介されたスイーツ「亀十」（東京都台東区）。食べログ3.79点。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-1f9a394d-"
 name: "亀十"
 genre: "スイーツ"

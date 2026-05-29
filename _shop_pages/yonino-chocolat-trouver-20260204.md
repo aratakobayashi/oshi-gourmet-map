@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Chocolat Trouver」"
-description: "東京都のスイーツショップ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#499「チョコ!!」に登場したスイーツ店。"
+description: "よにのちゃんねるのYouTubeで紹介されたスイーツ「Chocolat Trouver」（東京都）。食べログ3.4点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chocolat_trouver-20260204"
 name: "Chocolat Trouver"
 genre: "スイーツ"

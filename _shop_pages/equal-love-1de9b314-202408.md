@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「鎌倉茶々本店」"
-description: "鎌倉市のスイーツショップ。音嶋莉沙・瀧脇笙古が2024年8月に訪れた。=LOVEの音嶋莉沙・瀧脇笙古が訪れたスイーツ店。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「鎌倉茶々本店」（神奈川県鎌倉市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1de9b314-202408"
 name: "鎌倉茶々本店"
 genre: "スイーツ"

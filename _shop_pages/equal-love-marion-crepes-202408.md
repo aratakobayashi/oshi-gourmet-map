@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「MARION CREPES 原宿竹下通り店」"
-description: "渋谷区のスイーツショップ。音嶋莉沙・佐竹のん乃・野口衣織らが2024年8月に訪れた。=LOVEの音嶋莉沙・佐竹のん乃らが訪れたスイーツ店。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「MARION CREPES 原宿竹下通り店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-marion_crepes-202408"
 name: "MARION CREPES 原宿竹下通り店"
 genre: "スイーツ"

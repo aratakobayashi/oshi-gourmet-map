@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "PLUG"
-description: "［記事公開日］2018-09-08 21:14［最終更新日］2018-09-08 21:16"
+title: "嵐が行った「PLUG」"
+description: "嵐にしやがれで紹介された食事「PLUG」（大阪府大阪市）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-plug-20180908"
 name: "PLUG"
 genre: "食事"

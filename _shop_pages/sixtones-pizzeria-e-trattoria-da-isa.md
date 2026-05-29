@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Pizzeria e Trattoria da ISA」"
-description: "目黒区のグルメスポット。ジェシーが訪れたSixTONESのロケ地。中目黒の超有名ピザ店。ジェシーさんの希望で訪れ、本場ナポリの味を楽しみました。"
+description: "SixTONESのYouTubeで紹介されたその他「Pizzeria e Trattoria da ISA」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-pizzeria-e-trattoria-da-isa"
 name: "Pizzeria e Trattoria da ISA"
 genre: "その他"

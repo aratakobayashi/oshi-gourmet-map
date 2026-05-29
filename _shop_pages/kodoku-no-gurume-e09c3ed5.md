@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「すみれ」"
-description: "孤独のグルメ Season1 第11話に登場した文京区の居酒屋。特辛カレーライス・鶏の煮込み・サバのサンドイッチを注文。"
+description: "孤独のグルメ Season1 第11話で紹介された居酒屋「すみれ」（東京都文京区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e09c3ed5-"
 name: "すみれ"
 genre: "居酒屋"

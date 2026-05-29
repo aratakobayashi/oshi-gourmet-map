@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「新三浦 博多本店」"
-description: "福岡市の中華料理店。音嶋莉沙・佐々木舞香が2024年8月に訪れた。=LOVEの音嶋莉沙・佐々木舞香が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された中華「新三浦 博多本店」（福岡県福岡市）。食べログ3.56点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-bcaeeee2-202408"
 name: "新三浦 博多本店"
 genre: "中華"

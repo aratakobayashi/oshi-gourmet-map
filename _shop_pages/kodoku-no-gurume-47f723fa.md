@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「平塚バプテスト教会」"
-description: "平塚市のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。"
+description: "孤独のグルメ Season10 第24話で紹介された食事「平塚バプテスト教会」（神奈川県平塚市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-47f723fa-"
 name: "平塚バプテスト教会"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「天ぷら 中山」"
-description: "孤独のグルメ Season2 第2話に登場した日本橋人形町の天ぷら店。めごち・はす・玉ねぎの天ぷらから締めに黒天丼を注文。"
+description: "孤独のグルメ Season2 第2話で紹介された和食「天ぷら 中山」（東京都中央区）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1804d39a-"
 name: "天ぷら 中山"
 genre: "和食"

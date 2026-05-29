@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「増英蒲鉾店」"
-description: "孤独のグルメ Season2 第9話に登場した江東区・北砂の蒲鉾店おでん。中華揚・しゅうまい巻・つみれ・はんぺん・ちくわぶを注文。"
+description: "孤独のグルメ Season2 第9話で紹介された食事「増英蒲鉾店」（東京都江東区）。食べログ3.39点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ffdd453f-"
 name: "増英蒲鉾店"
 genre: "食事"

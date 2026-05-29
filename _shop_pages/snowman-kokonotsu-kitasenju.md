@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ここのつ 3号店」"
-description: "足立区の和食店。向井康二・渡辺翔太・阿部亮平らが2024年4月に訪れた。北千住・レバニラが楽しめる。北千住にある鶏料理専門店。究極のレバニラ定食が登場し、メンバーが舌鼓を打ちました。"
+description: "Snow ManのYouTubeで紹介された和食「ここのつ 3号店」（東京都足立区）。食べログ3.12点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kokonotsu-kitasenju"
 name: "ここのつ 3号店"
 genre: "和食"

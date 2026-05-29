@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ガーリックステーキ Bullajo」"
-description: "亀梨くんがステーキを食べに行ったお店です。 2025/06/24で閉店してしまうので、気になる方はぜひ食べに行ってくださいね。"
+description: "亀梨和也のYouTubeで紹介された焼肉「ガーリックステーキ Bullajo」（東京都渋谷区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-bullajo-202504"
 name: "ガーリックステーキ Bullajo"
 genre: "焼肉"

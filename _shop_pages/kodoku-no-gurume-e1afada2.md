@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「だるまや」"
-description: "孤独のグルメ Season3 第12話に登場した品川の創作料理店。いわしのユッケ・チーズロール・にぎり寿司などを注文。"
+description: "孤独のグルメ Season3 第12話で紹介された寿司「だるまや」（東京都品川区）。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e1afada2-"
 name: "だるまや"
 genre: "寿司"

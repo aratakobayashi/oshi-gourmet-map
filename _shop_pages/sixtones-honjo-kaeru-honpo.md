@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「本所かえる本舗」"
-description: "両国駅近くの下町もんじゃ・駄菓子店。「TOKYOグルメガイド 下町の味！駄菓子もんじゃ!!」（2019年2月8日配信）で6人が訪問。イタリアンもんじゃ・アメリカンもんじゃ等を体験。"
+description: "SixTONESのYouTubeで紹介されたもんじゃ「本所かえる本舗」（東京都墨田区）。食べログ3.04点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
 genre: "もんじゃ"

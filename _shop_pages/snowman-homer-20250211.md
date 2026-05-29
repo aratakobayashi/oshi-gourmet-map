@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Homer（ホーマー）」"
-description: "食事・小金井市東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「Homer（ホーマー）」（東京都小金井市）。食べログ3.47点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-homer-20250211"
 name: "Homer（ホーマー）"
 genre: "食事"

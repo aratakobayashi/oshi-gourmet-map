@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「一蘭 渋谷店」"
-description: "渋谷区のラーメン店。ジェシー・京本大我・松村北斗らが2020年3月に訪れた。おなじみの味集中カウンターでメンバーが黙々と実食。"
+description: "SixTONESのYouTubeで紹介されたラーメン「一蘭 渋谷店」（東京都渋谷区）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3a0ff52-202003"
 name: "一蘭 渋谷店"
 genre: "ラーメン"

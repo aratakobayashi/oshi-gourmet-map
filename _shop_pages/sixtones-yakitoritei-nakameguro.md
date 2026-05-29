@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「串若丸」"
-description: "目黒区の和食店。SixTONESが訪れたロケ地。中目黒にある行列の絶えない焼き鳥店。メンバーがリラックスして食事を楽しむ姿が印象的。"
+description: "SixTONESのYouTubeで紹介された和食「串若丸」（東京都目黒区）。食べログ3.56点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-yakitoritei-nakameguro"
 name: "串若丸"
 genre: "和食"

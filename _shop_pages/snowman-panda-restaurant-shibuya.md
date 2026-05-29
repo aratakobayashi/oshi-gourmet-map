@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「パンダレストラン」"
-description: "渋谷区の中華料理店。深澤辰哉が2019年12月に訪れた。広東料理が楽しめる。「佐久間大介の食べたいものを当てろ」で訪問。渋谷にあるカジュアルな本格中華料理店。"
+description: "Snow Manが訪れた中華「パンダレストラン」（東京都渋谷区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-panda-restaurant-shibuya"
 name: "パンダレストラン"
 genre: "中華"

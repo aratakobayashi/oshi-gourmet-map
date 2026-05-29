@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "cafe nun"
-description: "食事・千葉県・木村拓哉が訪問"
+title: "木村拓哉が行った「cafe nun」"
+description: "木村拓哉が訪れた食事「cafe nun」（千葉県）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "食事"

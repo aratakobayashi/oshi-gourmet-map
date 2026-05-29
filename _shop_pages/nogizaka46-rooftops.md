@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鎌倉 ROOFTOPS(ルーフトップス)」"
-description: "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です^ ^ スウィーツバーガー(スモア＆ベリー)を食べていました^ ^"
+description: "乃木坂46のYouTubeで紹介された居酒屋「鎌倉 ROOFTOPS(ルーフトップス)」（神奈川県鎌倉市）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-rooftops-"
 name: "鎌倉 ROOFTOPS(ルーフトップス)"
 genre: "居酒屋"

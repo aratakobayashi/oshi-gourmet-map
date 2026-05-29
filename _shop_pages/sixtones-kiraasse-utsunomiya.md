@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「来らっせ 本店」"
-description: "宇都宮餃子の常設フードコート。アポなし旅2024夏ファイナルで6人が訪問。宇都宮餃子会の案内で入店し各種餃子を堪能（ストチューブ2024年9月配信）。"
+description: "SixTONESのYouTubeで紹介された中華「来らっせ 本店」（栃木県宇都宮市）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
 genre: "中華"

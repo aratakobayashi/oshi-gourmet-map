@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「陳家私菜 渋谷店」"
-description: "渋谷区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2022年6月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.41点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「陳家私菜 渋谷店」（東京都渋谷区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-516fb6ba-20220618"
 name: "陳家私菜 渋谷店"
 genre: "食事"

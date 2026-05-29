@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「庄助」"
-description: "孤独のグルメ Season1 第1話に登場した焼き鳥・居酒屋。ねぎま・なんこつ・砂肝など焼き鳥多品目と焼きめしを注文。"
+description: "孤独のグルメ Season1 第1話で紹介された和食「庄助」（東京都江東区）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-fda4752d-"
 name: "庄助"
 genre: "和食"

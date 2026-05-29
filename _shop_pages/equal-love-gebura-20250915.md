@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「GEBURA」"
-description: "廿日市のカフェ。山本杏奈・佐々木舞香が2025年9月に訪れた。=LOVEの山本杏奈・佐々木舞香が訪れたカフェ。"
+description: "=LOVEのYouTubeで紹介されたカフェ「GEBURA」（広島県廿日市）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
 genre: "カフェ"

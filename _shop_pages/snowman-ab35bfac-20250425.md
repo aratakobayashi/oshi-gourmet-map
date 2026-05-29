@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「芝大門店」"
-description: "食事・港区東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「芝大門店」（東京都港区）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ab35bfac-20250425"
 name: "芝大門店"
 genre: "食事"

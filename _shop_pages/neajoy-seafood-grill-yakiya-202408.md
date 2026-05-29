@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「レストラン Seafood ＆ Grill YAKIYA」"
-description: "横浜市のレストラン。逢田珠里依・大西葵・小澤愛実らが2024年8月に訪れた。≒JOYの逢田珠里依・大西葵らが訪れた飲食店。"
+description: "≒JOYのYouTubeで紹介された食事「レストラン Seafood ＆ Grill YAKIYA」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-seafood_grill_yakiya-202408"
 name: "レストラン Seafood ＆ Grill YAKIYA"
 genre: "食事"

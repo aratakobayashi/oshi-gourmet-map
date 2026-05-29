@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "赤坂Tan伍"
-description: "牛タンしゃぶしゃぶ 赤坂tan伍（赤坂/鍋料理） – ぐるなび"
+title: "嵐が行った「赤坂Tan伍」"
+description: "嵐にしやがれで紹介された食事「赤坂Tan伍」（東京都港区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-tan-20190803"
 name: "赤坂Tan伍"
 genre: "食事"

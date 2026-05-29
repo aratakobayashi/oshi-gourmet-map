@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Le Rhin Bleu」"
-description: "レストラン。亀梨和也が2024年11月に訪れた。スイスでディナーを食べに来た、ライン川の上にあるお店です。"
+description: "亀梨和也のYouTubeで紹介された食事「Le Rhin Bleu」。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
 genre: "食事"

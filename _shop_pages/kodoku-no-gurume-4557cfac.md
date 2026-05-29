@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山源」"
-description: "孤独のグルメ Season3 第6話に登場した板橋の焼肉店。和風キムチ・ホルモン・ナンコツ・コメカミを注文。"
+description: "孤独のグルメ Season3 第6話で紹介された焼肉「山源」（東京都板橋区）。食べログ3.54点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
 genre: "焼肉"

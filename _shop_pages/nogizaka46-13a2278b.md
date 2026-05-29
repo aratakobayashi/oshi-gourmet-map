@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「かめや 新宿店」"
-description: "新宿区のラーメン店。乃木坂46が訪れたロケ地。MV「夏のfree&easy」に登場。食べログ3.49点。"
+description: "思い出横丁【夏のfree&easy】で紹介されたラーメン「かめや 新宿店」（東京都新宿区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13a2278b-"
 name: "かめや 新宿店"
 genre: "ラーメン"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥元 新宿西口店」"
-description: "新宿西口の焼き鳥居酒屋。大食い企画第3弾「わんこ焼き鳥」で6人が合計142本を完食し100本の目標をクリア（ストチューブ2024年11月22日配信）。"
+description: "SixTONESのYouTubeで紹介された居酒屋「鳥元 新宿西口店」（東京都新宿区）。食べログ3.19点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
 genre: "居酒屋"

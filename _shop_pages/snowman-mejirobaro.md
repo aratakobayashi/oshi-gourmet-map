@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Baro (ベロ)」"
-description: "Snow Man メンバーがすの日常で訪れた古着屋。「あいことば」MV撮影場所としても知られる目白のショップ。"
+description: "Snow ManのYouTubeで紹介された食事「Baro (ベロ)」（東京都）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
 genre: "食事"

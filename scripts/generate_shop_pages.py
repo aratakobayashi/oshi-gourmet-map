@@ -14,6 +14,67 @@ os.makedirs(OUT_DIR, exist_ok=True)
 with open(SHOPS_JSON, encoding="utf-8") as f:
     shops = json.load(f)
 
+GROUP_LABELS_MAP = {
+    'yonino':'よにのちゃんねる','snowman':'Snow Man','sixtones':'SixTONES',
+    'naniwa':'なにわ男子','kamenashi':'亀梨和也','kamaitachi':'かまいたち',
+    'equal_love':'=LOVE','notme':'≠ME','neajoy':'≒JOY','nogizaka46':'乃木坂46',
+    'sakurazaka46':'櫻坂46','hinatazaka46':'日向坂46','ginga':'中丸雄一 銀河チャンネル',
+    'kodoku_no_gurume':'孤独のグルメ','timelesz':'timelesz',
+    'heysayjump':'Hey! Say! JUMP','kingprince':'King & Prince','shiori':'しおり',
+    'arashi':'嵐','kimura':'木村拓哉',
+}
+
+def build_seo_description(shop):
+    name       = shop.get('name', '')
+    genre      = shop.get('genre', '')
+    prefecture = shop.get('prefecture', '')
+    city       = shop.get('city', '')
+    score      = shop.get('tabelog_score')
+    price      = shop.get('price_range', '')
+    source_vid = shop.get('source_video_title', '')
+    group      = shop.get('group', '')
+    source_type = shop.get('source_type', '')
+    youtube_id  = shop.get('youtube_id', '')
+    members    = shop.get('members', [])
+
+    group_label = GROUP_LABELS_MAP.get(group, group)
+    location = f'{prefecture}{city}' if (prefecture or city) else ''
+
+    # Opening: context of visit
+    if source_vid and (source_type in ('tv', 'drama') or not youtube_id):
+        opener = f'{source_vid}で紹介された'
+    elif youtube_id and group_label:
+        opener = f'{group_label}のYouTubeで紹介された'
+    elif group_label:
+        opener = f'{group_label}が訪れた'
+    else:
+        opener = ''
+
+    # Core: genre + name + location
+    if genre:
+        core = f'{genre}「{name}」'
+    else:
+        core = f'「{name}」'
+    if location:
+        core += f'（{location}）'
+
+    # Details: score, price
+    details = []
+    if score:
+        details.append(f'食べログ{score}点')
+    if price and price != '-':
+        details.append(price)
+    detail_str = '、'.join(details)
+
+    # Assemble
+    parts = [opener + core + '。']
+    if detail_str:
+        parts.append(detail_str + '。')
+    parts.append('推し活グルメ巡礼スポット。')
+
+    desc = ''.join(parts)
+    return desc[:160]
+
 def yaml_str(value):
     """Wrap a string in double-quotes, escaping backslashes and double-quotes."""
     if value is None:
@@ -43,15 +104,7 @@ for shop in shops:
     if not shop_id:
         continue
 
-    GROUP_LABELS = {
-        'yonino':'よにのちゃんねる','snowman':'Snow Man','sixtones':'SixTONES',
-        'naniwa':'なにわ男子','kamenashi':'亀梨和也','kamaitachi':'かまいたち',
-        'equal_love':'=LOVE','notme':'≠ME','neajoy':'≒JOY','nogizaka46':'乃木坂46',
-        'sakurazaka46':'櫻坂46','hinatazaka46':'日向坂46','ginga':'中丸雄一',
-        'kodoku_no_gurume':'孤独のグルメ','timelesz':'timelesz',
-        'heysayjump':'Hey! Say! JUMP','kingprince':'King & Prince','shiori':'しおり',
-    }
-    group_label = GROUP_LABELS.get(shop.get('group',''), '')
+    group_label = GROUP_LABELS_MAP.get(shop.get('group', ''), '')
     name = shop.get('name', '')
     if group_label:
         page_title = f'{group_label}が行った「{name}」'
@@ -59,27 +112,7 @@ for shop in shops:
         page_title = name
     lines = ["---", f"layout: shop", f"title: {yaml_str(page_title)}"]
 
-    # description for <title> / og:description
-    desc = shop.get("description") or ""
-    if not desc:
-        parts = []
-        if shop.get("genre"):
-            parts.append(shop["genre"])
-        if shop.get("prefecture") or shop.get("city"):
-            parts.append((shop.get("city") or "") + (shop.get("prefecture") or ""))
-        if shop.get("group"):
-            g = shop["group"]
-            label_map = {
-                "yonino":"よにのちゃんねる","snowman":"Snow Man","sixtones":"SixTONES",
-                "naniwa":"なにわ男子","kamenashi":"亀梨和也","kamaitachi":"かまいたち",
-                "equal_love":"イコラブ","notme":"≠ME","neajoy":"≒JOY",
-                "nogizaka46":"乃木坂46","hinatazaka46":"日向坂46","sakurazaka46":"櫻坂46",
-                "ginga":"中丸雄一銀河チャンネル","kimura":"木村拓哉","arashi":"嵐にしやがれ",
-                "kodoku_no_gurume":"孤独のグルメ","shiori":"石原さとみ","timelesz":"タイムレス",
-                "heysayjump":"Hey! Say! JUMP","kingprince":"King & Prince",
-            }
-            parts.append(f'{label_map.get(g, g)}が訪問')
-        desc = "・".join(parts) if parts else shop.get("name","")
+    desc = build_seo_description(shop)
     lines.append(f"description: {yaml_str(desc)}")
 
     # shop_id: front matter name avoids collision with Jekyll's built-in page.id

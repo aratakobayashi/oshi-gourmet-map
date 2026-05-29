@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "中丸雄一が行った「KORIN」"
-description: "中央区の居酒屋。中丸雄一が2024年4月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。"
+title: "中丸雄一 銀河チャンネルが行った「KORIN」"
+description: "銀河チャンネルで紹介された居酒屋「KORIN」（東京都中央区）。食べログ3.2点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "ginga-korin-20250413"
 name: "KORIN"
 genre: "居酒屋"

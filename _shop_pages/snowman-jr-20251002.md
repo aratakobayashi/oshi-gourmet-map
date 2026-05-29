@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「JR東海全面協力！」"
-description: "食事・中央区東京都・Snow Manが訪問"
+description: "Snow ManのYouTubeで紹介された食事「JR東海全面協力！」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-jr-20251002"
 name: "JR東海全面協力！"
 genre: "食事"

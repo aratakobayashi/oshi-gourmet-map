@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ALES SHOP」"
-description: "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。"
+description: "亀梨和也のYouTubeで紹介された食事「ALES SHOP」（東京都渋谷区）。食べログ3.07点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-ales_shop-20241120"
 name: "ALES SHOP"
 genre: "食事"

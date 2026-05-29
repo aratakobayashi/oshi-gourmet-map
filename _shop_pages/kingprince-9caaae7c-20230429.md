@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「桂屋」"
-description: "中野区のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.41点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「桂屋」（東京都中野区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"
 genre: "食事"

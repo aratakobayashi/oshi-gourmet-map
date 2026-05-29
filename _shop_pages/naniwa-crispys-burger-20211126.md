@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Crispy’s Burger」"
-description: "長尾謙杜くんは、クリスピーチキンバーガーを注文しました。 チキンの他に、トマト、レタス、チーズが入ったバーガーです。"
+description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された食事「Crispy’s Burger」（東京都）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-crispys_burger-20211126"
 name: "Crispy’s Burger"
 genre: "食事"

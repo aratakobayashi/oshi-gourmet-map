@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン南国」"
-description: "新宿区の和食店。佐久間大介・深澤辰哉・宮舘涼太らが2024年5月に訪れた。早稲田にある老舗定食屋。メンバーがボリューム満点のメニューを完食したガッツリ系スポット。"
+description: "Snow ManのYouTubeで紹介された和食「キッチン南国」（東京都新宿区）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "和食"

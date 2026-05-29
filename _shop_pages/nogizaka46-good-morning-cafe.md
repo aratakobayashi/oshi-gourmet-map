@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
-description: "『22nd帰り道は遠回りしたくなるType-A』に収録されている、与田祐希さんの個人PV『ピクニック』が撮影されたカフェです^ ^"
+description: "乃木坂46のYouTubeで紹介されたカフェ「GOOD MORNING CAFE 錦町」（東京都千代田区）。食べログ3.39点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-good_morning_cafe-"
 name: "GOOD MORNING CAFE 錦町"
 genre: "カフェ"

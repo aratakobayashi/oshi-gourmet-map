@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「鎌倉壱番屋 雪ノ下店」"
-description: "鎌倉市の和食店。音嶋莉沙・瀧脇笙古が2024年8月に訪れた。=LOVEの音嶋莉沙・瀧脇笙古が訪れた和食店。"
+description: "=LOVEのYouTubeで紹介された和食「鎌倉壱番屋 雪ノ下店」（神奈川県鎌倉市）。食べログ3.24点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-cb7485f1-202408"
 name: "鎌倉壱番屋 雪ノ下店"
 genre: "和食"

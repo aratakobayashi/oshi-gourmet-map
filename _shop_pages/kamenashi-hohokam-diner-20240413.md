@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Hohokam DINER」"
-description: "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。"
+description: "亀梨和也のYouTubeで紹介されたラーメン「Hohokam DINER」（東京都渋谷区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-hohokam_diner-20240413"
 name: "Hohokam DINER"
 genre: "ラーメン"

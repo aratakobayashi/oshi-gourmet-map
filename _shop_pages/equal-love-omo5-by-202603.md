@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「OMO5横浜馬車道 by 星野リゾート」"
-description: "横浜市のレストラン。大谷映美里が2026年3月に訪れた。横浜市のレストラン。大谷映美里が2026年3月に訪れた。=LOVEの大谷映美里が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「OMO5横浜馬車道 by 星野リゾート」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-omo5_by-202603"
 name: "OMO5横浜馬車道 by 星野リゾート"
 genre: "食事"

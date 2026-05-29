@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ガスト 六本木店」"
-description: "港区のレストラン。岩本照・深澤辰哉・ラウールらが2026年3月に訪れた。ファミレスが楽しめる。「ガストで人気メニューを当てろ」企画。ファミレスの定番メニューをメンバーがガチ予想。"
+description: "Snow ManのYouTubeで紹介された食事「ガスト 六本木店」（東京都港区）。食べログ3.06点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-gust-roppongi"
 name: "ガスト 六本木店"
 genre: "食事"

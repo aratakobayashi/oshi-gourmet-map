@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umi cafe」"
-description: "『17thインフルエンサーType-C』に収録されている、齋藤飛鳥さんの個人PV『飛鳥マウス、街にあらわる』が撮影されたカフェです^ ^"
+description: "乃木坂46のYouTubeで紹介されたカフェ「umi cafe」（神奈川県鎌倉市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
 genre: "カフェ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「KIHACHI 青山本店」"
-description: "食事・港区東京都・Snow Manが訪問"
+description: "【トークィーンズ】宮舘涼太ロケ地調査：デートで訪れたスーパー・イルミネーションはどこ？で紹介された食事「KIHACHI 青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kihachi-20250128"
 name: "KIHACHI 青山本店"
 genre: "食事"

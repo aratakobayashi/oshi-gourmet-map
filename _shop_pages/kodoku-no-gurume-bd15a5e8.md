@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「与倉ドライブイン」"
-description: "香取市の和食店。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.39点。"
+description: "孤独のグルメ Season10 第24話で紹介された和食「与倉ドライブイン」（千葉県香取市）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-bd15a5e8-"
 name: "与倉ドライブイン"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「七沢荘」"
-description: "Snow Man メンバーがすの日常で訪れた温泉旅館。神奈川県厚木市の七沢温泉郷にある旅館で日帰り入浴も可能。"
+description: "Snow ManのYouTubeで紹介された食事「七沢荘」。推し活グルメ巡礼スポット。"
 shop_id: "snowman-nanasawasou"
 name: "七沢荘"
 genre: "食事"

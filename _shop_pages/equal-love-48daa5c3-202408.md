@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転すし活一鮮」"
-description: "札幌市の寿司店。大谷映美里・野口衣織が2024年8月に訪れた。=LOVEの大谷映美里・野口衣織が訪れた寿司店。"
+description: "=LOVEのYouTubeで紹介された寿司「回転すし活一鮮」（北海道札幌市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-48daa5c3-202408"
 name: "回転すし活一鮮"
 genre: "寿司"

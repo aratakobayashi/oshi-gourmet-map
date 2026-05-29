@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「龍朋」"
-description: "新宿区の中華料理店。宮舘涼太・岩本照・阿部亮平らが2024年12月に訪れた。町中華・チャーハンが楽しめる。神楽坂にある町中華の名店。チャーハンが有名で、ロケではメンバーが絶賛していました。"
+description: "Snow ManのYouTubeで紹介された中華「龍朋」（東京都新宿区）。食べログ3.66点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ryuho-kagurazaka"
 name: "龍朋"
 genre: "中華"

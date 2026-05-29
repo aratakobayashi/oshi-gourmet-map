@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「BALLPARK BURGER &9」"
-description: "横浜市のレストラン。大場花菜・瀧脇笙古が2025年6月に訪れた。イコラブハンバーガー部がコラボ企画に関連して訪問。横浜スタジアム近くの本格バーガーショップ。"
+description: "=LOVEのYouTubeで紹介された食事「BALLPARK BURGER &9」（神奈川県横浜市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
 genre: "食事"

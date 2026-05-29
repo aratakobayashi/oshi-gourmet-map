@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「YouTuber事件：東京堂書店付近」"
-description: "食事・千代田区東京都・Snow Manが訪問"
+description: "【それスノ】カレー対決「神保町」ロケ地まとめ：SnowMan聖地巡礼 マジカレー、タケウチ、レストランマリで紹介された食事「YouTuber事件：東京堂書店付近」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-youtuber-20240127"
 name: "YouTuber事件：東京堂書店付近"
 genre: "食事"

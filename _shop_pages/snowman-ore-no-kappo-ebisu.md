@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「俺の割烹 炉ばた 恵比寿」"
-description: "渋谷区の居酒屋。岩本照・深澤辰哉・宮舘涼太らが2026年1月に訪れた。炉端焼き・恵比寿が楽しめる。恵比寿の炉端焼き割烹。すの日常2026年1月21日配信。"
+description: "Snow ManのYouTubeで紹介された居酒屋「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
 genre: "居酒屋"

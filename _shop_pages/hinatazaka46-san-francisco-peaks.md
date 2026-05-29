@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「San Francisco Peaks」"
-description: "レストラン。日向坂46が訪れたロケ地。レストラン。日向坂46が訪れたロケ地。日向坂46「あくびLetter」に登場した飲食店。"
+description: "日向坂46のYouTubeで紹介された食事「San Francisco Peaks」。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "食事"

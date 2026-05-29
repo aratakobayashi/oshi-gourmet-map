@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ANEA CAFE」"
-description: "食事・目黒区東京都・Snow Manが訪問"
+description: "【それスノ】木梨憲武バスツアーまとめ：サーキット、うなぎ、カフェ：SnowManロケ地で紹介された食事「ANEA CAFE」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-anea_cafe-20250523"
 name: "ANEA CAFE"
 genre: "食事"

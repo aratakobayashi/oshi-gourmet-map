@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Pacific DRIVE-IN」"
-description: "鎌倉市のレストラン。音嶋莉沙・瀧脇笙古が2024年8月に訪れた。=LOVEの音嶋莉沙・瀧脇笙古が訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「Pacific DRIVE-IN」（神奈川県鎌倉市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "食事"

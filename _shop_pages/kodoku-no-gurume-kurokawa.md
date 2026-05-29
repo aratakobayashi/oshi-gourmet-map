@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ビストロ KUROKAWA」"
-description: "孤独のグルメ Season10 第4話に登場した埼玉県新座市大泉学園のフランス料理店。サザエとキノコのプロヴァンス風から始まり、奥久慈卵の牛タンシチューのオムライスで締めた、郊外の本格フレンチ回。"
+description: "孤独のグルメ Season10 第4話で紹介された食事「ビストロ KUROKAWA」（東京都練馬区）。食べログ3.64点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-kurokawa-"
 name: "ビストロ KUROKAWA"
 genre: "食事"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAVA CAVALLO」"
-description: "渋谷区のレストラン。平野紫耀・岸優太・髙橋海人が2022年9月に訪れた。3問目は東京・原宿の明治通り沿いにあるイタリアンレストラン 『CAVA CAVALLO』 から。"
+description: "King&Princeる。当たり前レストランで紹介された食事「CAVA CAVALLO」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cava_cavallo-20220910"
 name: "CAVA CAVALLO"
 genre: "食事"

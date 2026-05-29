@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「あちらぼ」"
-description: "杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。杉並区の居酒屋。諸橋沙夏が2024年12月に訪れた。=LOVEの諸橋沙夏が訪れた居酒屋。"
+description: "=LOVEのYouTubeで紹介された居酒屋「あちらぼ」（東京都杉並区）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a9d4d24e-202412"
 name: "あちらぼ"
 genre: "居酒屋"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「原宿GLAMS BBQ Lounge」"
-description: "なにわ男子の藤原丈一郎くんと行ったバーベキュー専門店です。 亀梨ファームで収獲した野菜たちを使ってバーベキューを楽しみました。"
+description: "亀梨和也のYouTubeで紹介された焼肉「原宿GLAMS BBQ Lounge」（東京都渋谷区）。食べログ3.04点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-glams_bbq_lounge-202405"
 name: "原宿GLAMS BBQ Lounge"
 genre: "焼肉"

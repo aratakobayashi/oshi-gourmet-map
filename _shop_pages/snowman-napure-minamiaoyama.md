@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ナプレ 南青山本店」"
-description: "港区のレストラン。阿部亮平・宮舘涼太・渡辺翔太らが2025年4月に訪れた。イタリアンが楽しめる。1999年創業のナポリピザブーム先駆け店。すの日常2025年4月16日配信。"
+description: "Snow ManのYouTubeで紹介された食事「ナプレ 南青山本店」（東京都港区）。食べログ3.56点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-napure-minamiaoyama"
 name: "ナプレ 南青山本店"
 genre: "食事"

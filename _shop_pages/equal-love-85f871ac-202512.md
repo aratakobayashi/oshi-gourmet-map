@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「らーめん ぽっぽっ屋 水道橋店」"
-description: "千代田区のラーメン店。大谷映美里が2025年12月に訪れた。=LOVEの大谷映美里が訪れたラーメン店。"
+description: "=LOVEのYouTubeで紹介されたラーメン「らーめん ぽっぽっ屋 水道橋店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-85f871ac-202512"
 name: "らーめん ぽっぽっ屋 水道橋店"
 genre: "ラーメン"

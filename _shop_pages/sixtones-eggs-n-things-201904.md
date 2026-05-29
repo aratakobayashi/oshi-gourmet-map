@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Eggs 'n Things 原宿店」"
-description: "渋谷区のスイーツショップ。ジェシー・京本大我・松村北斗らが2019年4月に訪れた。パンケーキブームの火付け役店で山盛りホイップに驚愕。"
+description: "SixTONES - パンケーキで女子力アップ？で紹介されたスイーツ「Eggs 'n Things 原宿店」（東京都渋谷区）。食べログ3.54点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-eggs_n_things-201904"
 name: "Eggs 'n Things 原宿店"
 genre: "スイーツ"

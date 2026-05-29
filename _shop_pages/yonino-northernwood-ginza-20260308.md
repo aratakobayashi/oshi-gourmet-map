@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「NORTHERNWOOD GINZA」"
-description: "中央区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#508「ドライブ!!」に登場したお店。"
+description: "よにのちゃんねるのYouTubeで紹介されたその他「NORTHERNWOOD GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-northernwood_ginza-20260308"
 name: "NORTHERNWOOD GINZA"
 genre: "その他"

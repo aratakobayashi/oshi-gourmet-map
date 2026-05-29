@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「焼肉 哲 TETSU 池袋店」"
-description: "豊島区の焼肉店。大谷映美里・野口衣織が2024年8月に訪れた。=LOVEの大谷映美里・野口衣織が訪れた焼肉店。"
+description: "=LOVEのYouTubeで紹介された焼肉「焼肉 哲 TETSU 池袋店」（東京都豊島区）。食べログ3.4点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-tetsu-202408"
 name: "焼肉 哲 TETSU 池袋店"
 genre: "焼肉"

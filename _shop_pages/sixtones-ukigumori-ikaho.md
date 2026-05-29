@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮曇（うきぐもり）」"
-description: "伊香保温泉石段街にある居酒屋。帰ってきたアポなし旅 最終日（2023年11月24日配信）で6人が温泉前の夕食に訪問。ナムル・梅水晶・生たこポン酢・モツラーメン等を堪能。"
+description: "SixTONESのYouTubeで紹介された居酒屋「浮曇（うきぐもり）」（群馬県渋川市）。食べログ3.31点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"
 genre: "居酒屋"

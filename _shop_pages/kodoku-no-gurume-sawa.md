@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「厨 Sawa」"
-description: "孤独のグルメ Season5 第11話に登場した越谷の洋食店。カキのムニエル・アメリカンソースのオムライス・自家製ババロアを注文。"
+description: "孤独のグルメ Season5 第11話で紹介された食事「厨 Sawa」（埼玉県越谷市）。食べログ3.63点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-sawa-"
 name: "厨 Sawa"
 genre: "食事"

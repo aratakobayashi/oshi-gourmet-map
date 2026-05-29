@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「千とせ 本店」"
-description: "大阪市のレストラン。平野紫耀・神宮寺勇太・岸優太らが2023年4月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.73点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「千とせ 本店」（大阪府大阪市）。食べログ3.73点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ddabeb42-20230429"
 name: "千とせ 本店"
 genre: "食事"

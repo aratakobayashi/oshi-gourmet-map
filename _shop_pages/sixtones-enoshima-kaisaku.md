@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「江の島 貝作」"
-description: "江の島の磯料理・海鮮レストラン。「お告げに従い…開運の旅2025～最終話」（2025年4月4日配信）で6人が海鮮料理を食べ尽くす企画を実施。高額料理を当てたら奢りのルールが話題に。"
+description: "SixTONESのYouTubeで紹介された和食「江の島 貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-enoshima-kaisaku"
 name: "江の島 貝作"
 genre: "和食"

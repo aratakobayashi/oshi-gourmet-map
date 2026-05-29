@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Beasty Coffee [cafe laboratory]」"
-description: "渋谷区のカフェ。二宮和也・山田涼介・菊池風磨が2025年12月に訪れた。コーヒー・スペシャルティが楽しめる。代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Beasty Coffee [cafe laboratory]」（東京都渋谷区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-beasty-coffee"
 name: "Beasty Coffee [cafe laboratory]"
 genre: "カフェ"

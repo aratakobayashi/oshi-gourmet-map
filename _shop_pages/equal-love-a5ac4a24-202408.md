@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「いっかくじゅう 四条新町店」"
-description: "京都市のレストラン。=LOVEが訪れたロケ地。京都市のレストラン。=LOVEが訪れたロケ地。=LOVEが訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「いっかくじゅう 四条新町店」（京都府京都市）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a5ac4a24-202408"
 name: "いっかくじゅう 四条新町店"
 genre: "食事"

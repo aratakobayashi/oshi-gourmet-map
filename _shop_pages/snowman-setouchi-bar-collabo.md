@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「瀬戸内バル Collabo」"
-description: "世田谷区のレストラン。岩本照・ラウール・宮舘涼太らが2024年11月に訪れた。三軒茶屋・瀬戸内が楽しめる。「向井康二の食べたいものを当てろ」で訪問。瀬戸内の食材を使ったバル料理が登場しました。"
+description: "Snow ManのYouTubeで紹介された食事「瀬戸内バル Collabo」（東京都世田谷区）。食べログ3.37点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-setouchi-bar-collabo"
 name: "瀬戸内バル Collabo"
 genre: "食事"

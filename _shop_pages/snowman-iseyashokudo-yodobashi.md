@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂（淀橋市場内）」"
-description: "新宿区のグルメスポット。渡辺翔太・阿部亮平・向井康二らが2025年2月に訪れた。昭和レトロが楽しめる。1951年創業の昭和レトロな市場内食堂。すの日常2025年2月5日配信。"
+description: "Snow ManのYouTubeで紹介されたその他「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-iseyashokudo-yodobashi"
 name: "伊勢屋食堂（淀橋市場内）"
 genre: "その他"

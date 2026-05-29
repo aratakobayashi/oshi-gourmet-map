@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「沖縄懐石　赤坂潭亭」"
-description: "港区のレストラン。平野紫耀・髙橋海人が2022年8月に訪れた。「King&Princeる。当たり前レストラン」に登場。食べログ3.38点。"
+description: "King&Princeる。当たり前レストランで紹介された食事「沖縄懐石　赤坂潭亭」（東京都港区）。食べログ3.38点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-dc646f2a-20220813"
 name: "沖縄懐石　赤坂潭亭"
 genre: "食事"

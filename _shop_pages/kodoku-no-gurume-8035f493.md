@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「菜苑」"
-description: "孤独のグルメ Season5 第10話に登場した亀戸の中国料理店。牛レバーをぎっしり盛った「純レバ丼」を注文。"
+description: "孤独のグルメ Season5 第10話で紹介された食事「菜苑」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8035f493-"
 name: "菜苑"
 genre: "食事"

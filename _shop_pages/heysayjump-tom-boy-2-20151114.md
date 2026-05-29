@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「TOM BOY 池袋2号店」"
-description: "豊島区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集"
+description: "2015.11.14/11.21 大盛りグルメ特集で紹介された食事「TOM BOY 池袋2号店」（東京都豊島区）。食べログ3.45点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-tom_boy_2-20151114"
 name: "TOM BOY 池袋2号店"
 genre: "食事"

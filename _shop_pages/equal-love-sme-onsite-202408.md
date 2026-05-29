@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「SME六番町ビル 多目的スペース「OnSITE」」"
-description: "千代田区のレストラン。佐々木舞香・野口衣織・諸橋沙夏が2024年8月に訪れた。=LOVEの佐々木舞香・野口衣織らが訪れた飲食店。"
+description: "=LOVEのYouTubeで紹介された食事「SME六番町ビル 多目的スペース「OnSITE」」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-sme_onsite-202408"
 name: "SME六番町ビル 多目的スペース「OnSITE」"
 genre: "食事"

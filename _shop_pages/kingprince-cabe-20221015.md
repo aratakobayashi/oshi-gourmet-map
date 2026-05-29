@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CABE（チャベ）」"
-description: "2問目は目黒駅から徒歩6分のところにあるインドネシア料理『CABE』から出題。インドネシアからきた料理長が作る、 80種類以上もの豊富なメニューがインドネシア人の方からも人気のお店 です。"
+description: "King&Princeる。当たり前レストランで紹介された居酒屋「CABE（チャベ）」（東京都品川区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cabe-20221015"
 name: "CABE（チャベ）"
 genre: "居酒屋"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「dancyu食堂」"
-description: "千代田区の和食店。二宮和也・山田涼介・菊池風磨が2024年11月に訪れた。dancyuが楽しめる。東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「dancyu食堂」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "和食"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「日生家」"
-description: "備前市のレストラン。亀梨和也が2025年1月に訪れた。牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。"
+description: "亀梨和也のYouTubeで紹介された食事「日生家」（岡山県備前市）。食べログ3.16点。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-95af1b87-202501"
 name: "日生家"
 genre: "食事"

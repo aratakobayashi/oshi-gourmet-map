@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
-description: "田町・三田エリアの人気スペシャルティコーヒースタンド。厳選した豆を丁寧に抽出した一杯が楽しめる。よにのちゃんねる#465で登場。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「PASSAGE COFFEE」（東京都港区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"
 genre: "カフェ"
