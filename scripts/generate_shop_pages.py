@@ -74,7 +74,9 @@ for shop in shops:
                 "naniwa":"なにわ男子","kamenashi":"亀梨和也","kamaitachi":"かまいたち",
                 "equal_love":"イコラブ","notme":"≠ME","neajoy":"≒JOY",
                 "nogizaka46":"乃木坂46","hinatazaka46":"日向坂46","sakurazaka46":"櫻坂46",
-                "ginga":"中丸雄一銀河チャンネル",
+                "ginga":"中丸雄一銀河チャンネル","kimura":"木村拓哉","arashi":"嵐にしやがれ",
+                "kodoku_no_gurume":"孤独のグルメ","shiori":"石原さとみ","timelesz":"タイムレス",
+                "heysayjump":"Hey! Say! JUMP","kingprince":"King & Prince",
             }
             parts.append(f'{label_map.get(g, g)}が訪問')
         desc = "・".join(parts) if parts else shop.get("name","")
@@ -88,7 +90,7 @@ for shop in shops:
     # scalar fields
     for key in ["name","genre","prefecture","city","address",
                 "nearest_station","price_range","visited_date",
-                "youtube_id","source_video_title","source_video_url",
+                "youtube_id","source_video_title","source_video_url","source_url",
                 "group","tabelog_url","hotpepper_url","google_maps_url",
                 "thumbnail_url","source_type","seating_note",
                 "business_hours"]:

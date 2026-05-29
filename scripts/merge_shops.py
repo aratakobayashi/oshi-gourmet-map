@@ -79,6 +79,7 @@ def normalize_shop(raw: dict, existing_ids: set):
         'lng': raw.get('lng'),
         'youtube_id': raw.get('youtube_id', ''),
         'source_video_title': raw.get('source_video_title', ''),
+        'source_url': raw.get('source_url', ''),
         'visited_date': visited_date,
         'members': raw.get('members', []),
         'groups': raw.get('groups', [group]),
