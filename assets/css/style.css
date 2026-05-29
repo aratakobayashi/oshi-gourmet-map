@@ -2763,6 +2763,7 @@ body {
 .shop-hero__media {
   overflow: hidden;
   position: relative;
+  aspect-ratio: 4/3;
 }
 .shop-hero__media img {
   width: 100%;
@@ -3038,7 +3039,7 @@ body {
 .shop-drama-card__thumb {
   width: 160px;
   flex-shrink: 0;
-  aspect-ratio: 16/9;
+  aspect-ratio: 1/1;
   object-fit: cover;
 }
 .shop-drama-card__body { padding: 16px; }
