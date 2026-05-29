@@ -169,6 +169,12 @@ layout: default
 <div class="shop-page">
 
   <!-- 動画・記事セクション -->
+  {% assign show_tv_card = false %}
+  {% if s.source_video_title %}
+    {% if s.source_type == 'tv' or s.source_type == 'drama' %}
+      {% assign show_tv_card = true %}
+    {% endif %}
+  {% endif %}
   {% if s.youtube_id != "" and s.youtube_id %}
   <section class="shop-section">
     <div class="shop-section__header">
@@ -188,7 +194,7 @@ layout: default
       </a>
     </div>
   </section>
-  {% elsif s.source_type == 'drama' or s.source_type == 'tv' and s.source_video_title %}
+  {% elsif show_tv_card %}
   <section class="shop-section">
     <div class="shop-section__header">
       <h2 class="shop-section__title">登場作品</h2>
