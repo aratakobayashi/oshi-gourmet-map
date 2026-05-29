@@ -13,6 +13,8 @@ visited_date: "2025-12-16"
 youtube_id: "5TbjbC6I9vY"
 source_video_title: "【すのちゅーぶ】銀座の寿司屋はどこ？｜サンシャインドリーマーSnowManラウール・渡辺翔太・向井康二"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13277198/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/263764/4b5bf4476d2e6c64f810008aba1b89bc.jpg?token=361a617&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

@@ -9,12 +9,17 @@ prefecture: "東京都"
 city: "小金井市"
 address: "東京都小金井市前原町5-8-26"
 nearest_station: "「武蔵小金井駅」（南口）より徒歩18分京王バス「前原交番西」下車徒歩2分京王バス「貫井横丁入口」下車徒歩3分"
+price_range: "￥2,000～￥2,999"
 visited_date: "2025-02-11"
 youtube_id: "oNwT7i2IlbM"
 source_video_title: "【MVロケ地】阿部亮平「Dear,」レストランHomer(ホーマー) SnowManベストアルバム"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1325/A132501/13035096/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/18816/18816906.jpg?token=f44168a&api=v2"
+business_hours: "月・火・木・金 10:30 - 15:30 L.O. 料理14:30 17:30 - 22:00 L.O. 料理21:00 土・日 10:30 - 22:00 L.O. 料理21:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6919631
 lng: 139.5075641
+tabelog_score: 3.47
 members:
   - "岩本照"
   - "ラウール"
