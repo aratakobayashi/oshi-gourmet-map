@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BONDI CAFE"
-description: "食事・港区東京都・kimuraが訪問"
+description: "食事・港区東京都・木村拓哉が訪問"
 shop_id: "kimura-bondi_cafe-20240406"
 name: "BONDI CAFE"
 genre: "食事"

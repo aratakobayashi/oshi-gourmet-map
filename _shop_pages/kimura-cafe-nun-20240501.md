@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "cafe nun"
-description: "食事・千葉県・kimuraが訪問"
+description: "食事・千葉県・木村拓哉が訪問"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "食事"

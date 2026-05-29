@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TruffleBAKERY三軒茶屋店"
-description: "食事・世田谷区東京都・kimuraが訪問"
+description: "食事・世田谷区東京都・木村拓哉が訪問"
 shop_id: "kimura-trufflebakery-20240417"
 name: "TruffleBAKERY三軒茶屋店"
 genre: "食事"
