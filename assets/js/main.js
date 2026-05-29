@@ -195,7 +195,7 @@ const GROUP_INITIALS = {
   kamaitachi:'か', equal_love:'=', notme:'≠', neajoy:'≒',
   nogizaka46:'乃', hinatazaka46:'日', sakurazaka46:'櫻',
   heysayjump:'H', ginga:'中', kodoku_no_gurume:'孤', timelesz:'T',
-  shiori:'し', kingprince:'K',
+  shiori:'し', kingprince:'K', arashi:'嵐',
 };
 
 const GROUP_LABELS = {

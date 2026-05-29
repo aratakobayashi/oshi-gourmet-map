@@ -25,6 +25,9 @@ const GROUP_READINGS = {
   hinatazaka46:     'ひなたざか',
   sakurazaka46:     'さくらざか',
   timelesz:         'たいむれす',
+  shiori:           'しおり',
+  kingprince:       'きんぐあんどぷりんす',
+  arashi:           'あらし',
 };
 
 const GROUP_MEMBERS = {
@@ -34,6 +37,7 @@ const GROUP_MEMBERS = {
   equal_love: ['音嶋莉沙','齊藤なぎさ','髙松瞳','大谷映美里','山本杏奈','野口衣織','瀧脇笙古','佐々木舞香'],
   notme:      ['櫻井もも','蟹沢萌子','鈴木瞳美','尾木波菜','永田詩央里'],
   naniwa:     ['西畑大吾','大橋和也','道枝駿佑','大西流星','高橋恭平','藤原丈一郎','長尾謙杜'],
+  arashi:     ['大野智','櫻井翔','相葉雅紀','二宮和也','松本潤'],
 };
 
 const MAJOR_CITIES = {
