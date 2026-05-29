@@ -22,6 +22,8 @@ GROUP_LABELS_MAP = {
     'kodoku_no_gurume':'孤独のグルメ','timelesz':'timelesz',
     'heysayjump':'Hey! Say! JUMP','kingprince':'King & Prince','shiori':'しおり',
     'arashi':'嵐','kimura':'木村拓哉',
+    'kpop_enhypen':'ENHYPEN','kpop_seventeen':'SEVENTEEN',
+    'kpop_riize':'RIIZE','kpop_nct':'NCT',
 }
 
 def build_seo_description(shop):

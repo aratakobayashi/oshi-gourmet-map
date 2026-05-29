@@ -14,6 +14,7 @@ source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
 group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13188510/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/120691/120691637.jpg?token=da9376d&api=v2"
+source_type: "tv"
 business_hours: "月・火・水・木・金・土 18:00 - 22:00 日・祝日 定休日 ■ 営業時間※ご相談承ります"
 lat: 35.67033383791563
 lng: 139.76032928311687

@@ -196,6 +196,7 @@ const GROUP_INITIALS = {
   nogizaka46:'乃', hinatazaka46:'日', sakurazaka46:'櫻',
   heysayjump:'H', ginga:'中', kodoku_no_gurume:'孤', timelesz:'T',
   shiori:'し', kingprince:'K', arashi:'嵐', kimura:'木',
+  kpop_enhypen:'EN', kpop_seventeen:'17', kpop_riize:'RZ', kpop_nct:'NCT',
 };
 
 const GROUP_LABELS = {
@@ -219,6 +220,10 @@ const GROUP_LABELS = {
   kingprince:       'King & Prince',
   arashi:           '嵐',
   kimura:           '木村拓哉',
+  kpop_enhypen:     'ENHYPEN',
+  kpop_seventeen:   'SEVENTEEN',
+  kpop_riize:       'RIIZE',
+  kpop_nct:         'NCT',
 };
 
 const GROUP_SOLID_COLORS = {
@@ -228,6 +233,7 @@ const GROUP_SOLID_COLORS = {
   timelesz:'#1d4ed8', neajoy:'#d946ef', nogizaka46:'#0ea5e9',
   sakurazaka46:'#e11d48', hinatazaka46:'#f59e0b', ginga:'#6366f1',
   shiori:'#ec4899', kingprince:'#f472b6', arashi:'#dc2626', kimura:'#0891b2',
+  kpop_enhypen:'#7c3aed', kpop_seventeen:'#0ea5e9', kpop_riize:'#ef4444', kpop_nct:'#10b981',
 };
 
 const GROUP_COLORS = {
@@ -251,6 +257,10 @@ const GROUP_COLORS = {
   kingprince:       'linear-gradient(135deg, #f472b6, #fbcfe8)',
   arashi:           'linear-gradient(135deg, #dc2626, #fb923c)',
   kimura:           'linear-gradient(135deg, #0891b2, #67e8f9)',
+  kpop_enhypen:     'linear-gradient(135deg, #7c3aed, #a78bfa)',
+  kpop_seventeen:   'linear-gradient(135deg, #0ea5e9, #7dd3fc)',
+  kpop_riize:       'linear-gradient(135deg, #ef4444, #fca5a5)',
+  kpop_nct:         'linear-gradient(135deg, #10b981, #6ee7b7)',
 };
 
 const GENRE_ICONS = {

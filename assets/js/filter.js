@@ -29,6 +29,10 @@ const GROUP_READINGS = {
   kingprince:       'きんぐあんどぷりんす',
   arashi:           'あらし',
   kimura:           'きむらたくや',
+  kpop_enhypen:     'えんはいぷん',
+  kpop_seventeen:   'せぶんてぃーん',
+  kpop_riize:       'らいず',
+  kpop_nct:         'えぬしーてぃー',
 };
 
 const GROUP_MEMBERS = {

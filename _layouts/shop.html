@@ -21,6 +21,10 @@ layout: default
 {% if s.group == 'heysayjump' %}{% assign hero_color = '#ef4444' %}{% endif %}
 {% if s.group == 'arashi' %}{% assign hero_color = '#dc2626' %}{% endif %}
 {% if s.group == 'kimura' %}{% assign hero_color = '#0891b2' %}{% endif %}
+{% if s.group == 'kpop_enhypen' %}{% assign hero_color = '#7c3aed' %}{% endif %}
+{% if s.group == 'kpop_seventeen' %}{% assign hero_color = '#0ea5e9' %}{% endif %}
+{% if s.group == 'kpop_riize' %}{% assign hero_color = '#ef4444' %}{% endif %}
+{% if s.group == 'kpop_nct' %}{% assign hero_color = '#10b981' %}{% endif %}
 
 {% assign group_label = s.group %}
 {% if s.group == 'yonino' %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
@@ -42,6 +46,10 @@ layout: default
 {% if s.group == 'kingprince' %}{% assign group_label = 'King & Prince' %}{% endif %}
 {% if s.group == 'arashi' %}{% assign group_label = '嵐' %}{% endif %}
 {% if s.group == 'kimura' %}{% assign group_label = '木村拓哉' %}{% endif %}
+{% if s.group == 'kpop_enhypen' %}{% assign group_label = 'ENHYPEN' %}{% endif %}
+{% if s.group == 'kpop_seventeen' %}{% assign group_label = 'SEVENTEEN' %}{% endif %}
+{% if s.group == 'kpop_riize' %}{% assign group_label = 'RIIZE' %}{% endif %}
+{% if s.group == 'kpop_nct' %}{% assign group_label = 'NCT' %}{% endif %}
 
 {% assign group_hashtag = '推しグルメ巡礼' %}
 {% if s.group == 'yonino' %}{% assign group_hashtag = 'よにのちゃんねる' %}{% endif %}
@@ -62,6 +70,10 @@ layout: default
 {% if s.group == 'kingprince' %}{% assign group_hashtag = 'KingPrince' %}{% endif %}
 {% if s.group == 'arashi' %}{% assign group_hashtag = '嵐にしやがれ' %}{% endif %}
 {% if s.group == 'kimura' %}{% assign group_hashtag = '木村拓哉' %}{% endif %}
+{% if s.group == 'kpop_enhypen' %}{% assign group_hashtag = 'ENHYPEN' %}{% endif %}
+{% if s.group == 'kpop_seventeen' %}{% assign group_hashtag = 'SEVENTEEN' %}{% endif %}
+{% if s.group == 'kpop_riize' %}{% assign group_hashtag = 'RIIZE' %}{% endif %}
+{% if s.group == 'kpop_nct' %}{% assign group_hashtag = 'NCT' %}{% endif %}
 
 {% assign tweet_text = group_label | append: 'が訪れた「' | append: s.name | append: '」🍽️ %0a%0a#推しグルメ巡礼 #' | append: group_hashtag %}
 

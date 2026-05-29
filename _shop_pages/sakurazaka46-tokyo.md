@@ -13,6 +13,7 @@ source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
 group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13241374/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355910/7bc4a55e299702be4ecb025d97f5cb45.jpg?token=ce6a58e&api=v2"
+source_type: "tv"
 business_hours: "11:00 - 15:00 L.O. 14:45 17:00 - 22:00 L.O. 21:30 ■ 営業時間食材がなくなり次第で営業終了■ 定休日定休日無し（年末年始はお問い合わせお願いします）お気軽にご来店ください。お待ちしてます♪"
 lat: 35.69329133790337
 lng: 139.76762678334364
