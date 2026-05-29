@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=5jBPMpJLR60"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13281809/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003498443/?vos=nhppvccp99002"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/206843/1066e512793044b4d986e9edb69d8d66.jpg?token=ab3cad4&api=v2"
 business_hours: "月・火・水・木・金 17:00 - 23:30 L.O. 料理22:30 ドリンク23:00 土・祝日 16:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日 ■ 日曜定休〈有楽町店は日曜日も営業しております。ページ下部リンクからご予約頂けます。〉全席完全個室でご案内致します♪領収書にインボイス番号を印字しております。"
 lat: 35.6655555
 lng: 139.7563666
