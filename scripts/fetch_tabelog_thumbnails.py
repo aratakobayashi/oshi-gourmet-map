@@ -139,9 +139,14 @@ def main():
     def is_target(s):
         if args.group and s.get('group') != args.group:
             return False
+        if s.get('thumbnail_url'):
+            return False
         url = s.get('tabelog_url', '')
         # 検索URLしか持っていない店舗（既存の対象）
         if url and not DIRECT_URL_RE.search(url):
+            return True
+        # 直接URLあり＋サムネなし（嵐など）
+        if url and DIRECT_URL_RE.search(url):
             return True
         # --no-url 指定時: URLが未設定の店舗も対象
         if args.no_url and not url:
@@ -176,19 +181,26 @@ def main():
             continue
 
         try:
-            # Step 1: 店名+都道府県で食べログ直接URLを解決
-            prefecture = shop.get('prefecture', '東京都')
-            direct_url = resolve_tabelog_url(shop['name'], prefecture)
-            time.sleep(SEARCH_SLEEP)
+            existing_url = shop.get('tabelog_url', '')
+            if DIRECT_URL_RE.search(existing_url):
+                # 直接URLが既にある → Step 1 スキップ
+                direct_url = existing_url.split('?')[0].rstrip('/') + '/'
+                print(f'→ {direct_url}', end=' ', flush=True)
+                resolved += 1
+            else:
+                # Step 1: 店名+都道府県で食べログ直接URLを解決
+                prefecture = shop.get('prefecture', '東京都')
+                direct_url = resolve_tabelog_url(shop['name'], prefecture)
+                time.sleep(SEARCH_SLEEP)
 
-            if not direct_url:
-                print('→ 直接URL取得失敗')
-                cache[shop_id] = {}
-                errors += 1
-                continue
+                if not direct_url:
+                    print('→ 直接URL取得失敗')
+                    cache[shop_id] = {}
+                    errors += 1
+                    continue
 
-            print(f'→ {direct_url}', end=' ', flush=True)
-            resolved += 1
+                print(f'→ {direct_url}', end=' ', flush=True)
+                resolved += 1
 
             # Step 2: 店舗詳細ページをスクレイピング
             detail_html = fetch_html(direct_url)
