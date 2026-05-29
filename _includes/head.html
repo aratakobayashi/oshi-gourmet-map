@@ -25,6 +25,7 @@
   {% assign ogp_img_w = 480 %}{% assign ogp_img_h = 360 %}
 {% elsif page.thumbnail_url %}
   {% assign ogp_image = page.thumbnail_url %}
+  {% assign ogp_img_w = 640 %}{% assign ogp_img_h = 640 %}
 {% elsif page.thumbnail %}
   {% assign ogp_image = page.thumbnail | absolute_url %}
 {% else %}
