@@ -16,6 +16,7 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13296476/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000815973/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
+source_type: "tv"
 lat: 35.6704333
 lng: 139.7107597
 tabelog_score: 3.08

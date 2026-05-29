@@ -15,6 +15,7 @@ source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13042760/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
+source_type: "tv"
 business_hours: "月・火・水・木・金 11:00 - 15:00 L.O. 14:00 17:30 - 22:00 L.O. 20:00 土・日・祝日 11:00 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 20:00 ■ 定休日なし（但しビル休館日に準ずる）"
 lat: 35.674202638720146
 lng: 139.7653572643142
