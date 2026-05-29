@@ -28,6 +28,7 @@ const GROUP_READINGS = {
   shiori:           'しおり',
   kingprince:       'きんぐあんどぷりんす',
   arashi:           'あらし',
+  kimura:           'きむらたくや',
 };
 
 const GROUP_MEMBERS = {
@@ -38,6 +39,7 @@ const GROUP_MEMBERS = {
   notme:      ['櫻井もも','蟹沢萌子','鈴木瞳美','尾木波菜','永田詩央里'],
   naniwa:     ['西畑大吾','大橋和也','道枝駿佑','大西流星','高橋恭平','藤原丈一郎','長尾謙杜'],
   arashi:     ['大野智','櫻井翔','相葉雅紀','二宮和也','松本潤'],
+  kimura:     ['木村拓哉'],
 };
 
 const MAJOR_CITIES = {
