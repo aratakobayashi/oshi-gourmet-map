@@ -229,6 +229,7 @@ layout: default
       {% if s.thumbnail_url %}<img src="{{ s.thumbnail_url }}" alt="{{ s.name }}" loading="lazy" class="shop-drama-card__thumb">{% endif %}
       <div class="shop-drama-card__body">
         <p class="shop-drama-card__label">📝 参考記事</p>
+        {% if s.source_video_title %}<p class="shop-drama-card__title">{{ s.source_video_title }}</p>{% endif %}
         {% if s.members %}<p class="shop-drama-card__member">👤 {{ s.members | join: '・' }}</p>{% endif %}
         {% if s.visited_date %}<p class="shop-drama-card__date">{{ s.visited_date }}</p>{% endif %}
         <a href="{{ s.source_url }}" class="shop-drama-card__link" target="_blank" rel="noopener">記事を見る →</a>
