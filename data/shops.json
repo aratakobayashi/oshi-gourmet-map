@@ -44027,7 +44027,7 @@
     "business_hours": "月・水・木・金・土・日 11:30 - 14:30 L.O. 14:00 17:30 - 21:30 L.O. 21:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "sakurazaka46-tokyo-",
+    "id": "sakurazaka46-tokyo-20210419",
     "name": "麻婆豆腐TOKYO 神田本店",
     "genre": "",
     "prefecture": "東京都",
@@ -44038,7 +44038,7 @@
     "youtube_id": "",
     "source_video_title": "そこ曲がったら、櫻坂？",
     "source_url": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html",
-    "visited_date": "",
+    "visited_date": "2021-04-19",
     "members": [
       "菅井友香",
       "守屋茜",
@@ -44059,7 +44059,9 @@
     "source_type": "tv",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "麻婆豆腐"
+    ],
     "tabelog_score": 3.49,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "11:00 - 15:00 L.O. 14:45 17:00 - 22:00 L.O. 21:30 ■ 営業時間食材がなくなり次第で営業終了■ 定休日定休日無し（年末年始はお問い合わせお願いします）お気軽にご来店ください。お待ちしてます♪"
