@@ -29,7 +29,11 @@
 {% elsif page.thumbnail %}
   {% assign ogp_image = page.thumbnail | absolute_url %}
 {% else %}
-  {% assign ogp_image = '/assets/images/ogp-default.svg' | absolute_url %}
+  {% if page.group %}
+    {% assign ogp_image = '/assets/images/ogp/' | append: page.group | append: '.png' | absolute_url %}
+  {% else %}
+    {% assign ogp_image = '/assets/images/ogp/default.png' | absolute_url %}
+  {% endif %}
 {% endif %}
 <meta property="og:image" content="{{ ogp_image }}">
 {% if ogp_img_w %}<meta property="og:image:width"  content="{{ ogp_img_w }}">
