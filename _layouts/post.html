@@ -403,7 +403,7 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
     if (articleShops) articleShops.style.display = 'none';
   }
 
-  fetch(base + '/data/shops.json')
+  fetch(base + '/data/shops-lite.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var byId = {};

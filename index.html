@@ -308,7 +308,7 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
     });
   }
 
-  fetch(BASE + '/data/shops.json')
+  fetch(BASE + '/data/shops-lite.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       renderFeed(shops, 'recent');

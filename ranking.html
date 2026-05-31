@@ -144,7 +144,7 @@ description: よにのちゃんねる・Snow Man・SixTONESなど推しグルー
     }).join('');
   }
 
-  fetch(BASE + '/data/shops.json')
+  fetch(BASE + '/data/shops-lite.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       renderGroupRanking(shops);

@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   if (!grid) return;
 
   const base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
-  const SHOPS_URL = base + '/data/shops.json';
+  const SHOPS_URL = base + '/data/shops-lite.json';
   let allShops = [];
 
   async function init() {

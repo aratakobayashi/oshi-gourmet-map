@@ -18,7 +18,7 @@
   }, { passive: true });
 })();
 
-const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops_slim.json';
+const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops-lite.json';
 
 let allShops = [];
 let filteredShops = [];

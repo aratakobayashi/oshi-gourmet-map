@@ -95,7 +95,7 @@ layout: default
     el.removeAttribute('data-genre');
   }
 
-  fetch(base + '/data/shops.json')
+  fetch(base + '/data/shops-lite.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var matched = shops.filter(function(s) {
