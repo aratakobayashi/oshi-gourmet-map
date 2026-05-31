@@ -8191,40 +8191,6 @@
     "business_hours": "月・火・水・木・金 15:00 - 23:30 土・日・祝日 13:00 - 23:30"
   },
   {
-    "id": "kamenashi-ales_shop-20241120",
-    "name": "ALES SHOP",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前６丁目９−１",
-    "lat": 47.5553,
-    "lng": 7.5905,
-    "youtube_id": "P7JBBmjdJKI",
-    "source_video_title": "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？",
-    "visited_date": "2024-11-20",
-    "members": [
-      "亀梨和也"
-    ],
-    "groups": [
-      "kamenashi"
-    ],
-    "group": "kamenashi",
-    "nearest_station": "Barfüsserplatz駅 徒歩2分",
-    "description": "【潜入】バレたら即終了！亀梨が変装してファンの前で店長として接客したらいつバレる？ 変装用のグッズを買いに来たお店です。",
-    "tags": [],
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=ALES%20SHOP"
-      }
-    ],
-    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13199355/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/P7JBBmjdJKI/hqdefault.jpg",
-    "tabelog_score": 3.07,
-    "price_range": "￥3,000～￥3,999"
-  },
-  {
     "id": "kamenashi-beschle-20241116",
     "name": "Beschle",
     "genre": "居酒屋",
@@ -32144,44 +32110,6 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": ""
-  },
-  {
-    "id": "snowman-ae46a9f2-20250513",
-    "name": "あなたを奪ったその日から",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "府中市",
-    "address": "東京都府中市緑町3-17-7",
-    "lat": 35.0203939,
-    "lng": 135.7550634,
-    "youtube_id": "",
-    "source_video_title": "【あなたを奪ったその日から】ドラマロケ地になった食堂・自販機はどこ？SnowMan阿部亮平",
-    "visited_date": "2025-05-13",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "「東府中駅」より徒歩3分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/UkGkMqQWhg3MaqKO5tfdcFHD29.jpg",
-    "source_type": "",
-    "tmdb_id": 287216,
-    "tmdb_type": "tv"
   },
   {
     "id": "snowman-cedar_the_chop_house-20260208",
