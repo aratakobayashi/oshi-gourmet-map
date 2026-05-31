@@ -37,6 +37,7 @@ KEEP = {
     'members', 'visited_date',
     'source_video_title', 'source_type',
     'tags', 'closed',
+    'tabelog_score', 'price_range',
 }
 
 with open(SRC, encoding='utf-8') as f:
