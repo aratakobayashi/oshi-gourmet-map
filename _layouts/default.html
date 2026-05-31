@@ -13,8 +13,8 @@
   {% include footer.html %}
   {% include bottom-nav.html %}
 
-  <!-- Leaflet.js -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Leaflet.js (self-hosted) -->
+  <script src="{{ '/assets/vendor/leaflet/leaflet.js' | relative_url }}"></script>
   <!-- メインスクリプト -->
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
