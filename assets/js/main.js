@@ -18,7 +18,9 @@
   }, { passive: true });
 })();
 
-const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops-lite.json';
+const BASE_URL   = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+const SHOPS_URL  = BASE_URL + '/data/shops-lite.json';
+let _groupDataLoaded = null; // group key when partial data is loaded
 
 let allShops = [];
 let filteredShops = [];
@@ -35,7 +37,14 @@ const PAGE_SIZE        = 120;
 // データ読み込み
 // ===========================
 async function loadShops() {
-  const res = await fetch(SHOPS_URL);
+  const params = new URLSearchParams(window.location.search);
+  const groupParam = params.get('group');
+  let url = SHOPS_URL;
+  if (groupParam && GROUP_LABELS[groupParam]) {
+    url = BASE_URL + '/data/shops-lite/' + groupParam + '.json';
+    _groupDataLoaded = groupParam;
+  }
+  const res = await fetch(url);
   allShops = await res.json();
   filteredShops = [...allShops];
 
@@ -45,8 +54,19 @@ async function loadShops() {
   initPlaceholderRotation(allShops);
 
   if (typeof initFilterModal === 'function') initFilterModal(allShops);
-
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
+}
+
+async function reloadFullShops() {
+  const res = await fetch(SHOPS_URL);
+  allShops = await res.json();
+  _groupDataLoaded = null;
+  populateFilters();
+  renderQuickTags(allShops);
+  if (typeof initFilterModal === 'function') initFilterModal(allShops);
+  applyFilters();
+  updateFilterBar();
+  updateFilterChips();
 }
 
 // ===========================
@@ -392,6 +412,11 @@ function updateFilterChips() {
 // フィルター適用
 // ===========================
 function applyFilters() {
+  if (_groupDataLoaded !== null &&
+      (selectedGroups.size === 0 || [...selectedGroups].some(g => g !== _groupDataLoaded))) {
+    reloadFullShops();
+    return;
+  }
   const query = document.getElementById('search-input')?.value.trim().toLowerCase() || '';
   const genre = document.getElementById('filter-genre')?.value || '';
 
@@ -551,7 +576,7 @@ function buildShopCard(shop) {
   const solidColor = GROUP_SOLID_COLORS[group] || '#b72a65';
   const groupLabel = GROUP_LABELS[group] || group;
   const icon       = GENRE_ICONS[shop.genre] || '🍽️';
-  const base       = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
+  const base       = BASE_URL;
 
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
