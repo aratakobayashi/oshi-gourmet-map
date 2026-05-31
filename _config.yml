@@ -17,6 +17,9 @@ collections:
   list_pages:
     output: true
     permalink: /list/:name/
+  group_pages:
+    output: true
+    permalink: /groups/:name/
 
 # プラグイン（GitHub Pages対応）
 plugins:
@@ -41,6 +44,11 @@ defaults:
       type: "list_pages"
     values:
       layout: "list"
+  - scope:
+      path: ""
+      type: "group_pages"
+    values:
+      layout: "group"
 
 # 除外ファイル
 exclude:

@@ -4590,3 +4590,34 @@ body {
   /* トレンドカード1列 */
   .fmodal-trend-cards { grid-template-columns: 1fr 1fr; }
 }
+
+/* ===== グループランディングページ ===== */
+.group-hero {
+  background: linear-gradient(135deg, var(--gh-c1, #e8537a), var(--gh-c2, #7c3aed));
+  color: #fff;
+  padding: 2.5rem 0 2rem;
+}
+.group-hero__inner { max-width: 800px; }
+.group-hero__breadcrumb {
+  font-size: 0.8rem; opacity: 0.8; margin-bottom: 1.2rem;
+  display: flex; align-items: center; gap: 0.4rem; flex-wrap: wrap;
+}
+.group-hero__breadcrumb a { color: #fff; text-decoration: none; }
+.group-hero__breadcrumb a:hover { text-decoration: underline; }
+.group-hero__title {
+  font-size: clamp(1.8rem, 5vw, 2.8rem);
+  font-weight: 900; line-height: 1.2; margin-bottom: 0.8rem;
+}
+.group-hero__title-sub {
+  display: block; font-size: clamp(1rem, 2.5vw, 1.4rem);
+  font-weight: 500; opacity: 0.9; margin-top: 0.2rem;
+}
+.group-hero__desc {
+  font-size: 0.9rem; opacity: 0.85; max-width: 600px;
+  line-height: 1.7; margin-bottom: 1rem;
+}
+.group-hero__count {
+  font-size: 1rem; font-weight: 700;
+  background: rgba(255,255,255,0.2);
+  display: inline-block; padding: 0.3rem 0.9rem; border-radius: 20px;
+}

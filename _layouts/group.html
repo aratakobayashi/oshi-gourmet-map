@@ -1,0 +1,94 @@
+---
+layout: default
+---
+<script>
+  window.SITE_BASEURL = '{{ site.baseurl }}';
+  const CURRENT_GROUP = {{ page.group_key | jsonify }};
+</script>
+
+<!-- グループヒーロー -->
+<div class="group-hero" style="--gh-c1:{{ page.group_color }};--gh-c2:{{ page.group_color2 | default: page.group_color }}">
+  <div class="container group-hero__inner">
+    <nav class="group-hero__breadcrumb" aria-label="breadcrumb">
+      <a href="{{ '/' | relative_url }}">トップ</a>
+      <span aria-hidden="true">›</span>
+      <a href="{{ '/shops/' | relative_url }}">お店一覧</a>
+      <span aria-hidden="true">›</span>
+      <span>{{ page.group_label }}</span>
+    </nav>
+    <h1 class="group-hero__title">
+      {{ page.group_label }}
+      <span class="group-hero__title-sub">グルメ聖地まとめ</span>
+    </h1>
+    <p class="group-hero__desc">{{ page.group_label }}が実際に訪れたグルメスポットをYouTube・テレビ番組から調査してまとめています。聖地巡礼の参考にどうぞ。</p>
+    <p class="group-hero__count"><span id="group-shop-count">{{ page.shop_count }}</span>件のスポットを収録</p>
+  </div>
+</div>
+
+<!-- サーチバー -->
+<div class="search-hero">
+  <div class="container">
+    <div class="search-hero__wrap">
+      <svg class="search-hero__icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.8"/>
+        <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+      <input type="text" id="search-input" class="search-hero__input" placeholder="お店名・エリア・メンバー名で探す">
+      <button class="search-hero__clear" id="search-clear" aria-label="検索をクリア" hidden>✕</button>
+    </div>
+  </div>
+</div>
+
+<!-- 件数 + ソート（hidden: ジャンルフィルター） -->
+<div class="container">
+  <div class="shop-controls-bar">
+    <p class="result-count" id="result-count"></p>
+    <div class="shop-controls-right">
+      <select id="sort-select" class="filter-select filter-select--sort">
+        <option value="recent">新着順 ▾</option>
+        <option value="video">動画あり順</option>
+        <option value="nearby">📍 近い順</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- ジャンルピル -->
+<div class="genre-pills-bar">
+  <div class="container">
+    <div class="genre-pills" id="genre-pills"></div>
+  </div>
+</div>
+<div style="display:none">
+  <select id="filter-genre"><option value=""></option></select>
+</div>
+
+<!-- カードグリッド -->
+<div id="shop-list-wrap">
+  <div class="container">
+    <div class="shop-cards" id="shop-grid">
+      {% for i in (1..6) %}
+      <div class="shop-card shop-card--skeleton" aria-hidden="true">
+        <div class="shop-card__thumb"><div class="skel-block"></div></div>
+        <div class="shop-card__body">
+          <div class="skel-line skel-line--s"></div>
+          <div class="skel-line skel-line--l"></div>
+          <div class="skel-line skel-line--m"></div>
+          <div class="skel-line skel-line--s"></div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div id="more-btn-wrap" class="more-btn-wrap"></div>
+
+<!-- 地図 -->
+<section class="map-section" id="view-map" style="display:none">
+  <div id="map"></div>
+</section>
+
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/map.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/filter.js' | relative_url }}"></script>

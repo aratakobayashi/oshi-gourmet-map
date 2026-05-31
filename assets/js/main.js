@@ -38,7 +38,8 @@ const PAGE_SIZE        = 120;
 // ===========================
 async function loadShops() {
   const params = new URLSearchParams(window.location.search);
-  const groupParam = params.get('group');
+  const groupParam = params.get('group')
+    || (typeof CURRENT_GROUP !== 'undefined' ? CURRENT_GROUP : null);
   let url = SHOPS_URL;
   if (groupParam && GROUP_LABELS[groupParam]) {
     url = BASE_URL + '/data/shops-lite/' + groupParam + '.json';
@@ -55,6 +56,9 @@ async function loadShops() {
 
   if (typeof initFilterModal === 'function') initFilterModal(allShops);
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
+
+  const countEl = document.getElementById('group-shop-count');
+  if (countEl) countEl.textContent = filteredShops.length;
 }
 
 async function reloadFullShops() {
@@ -74,7 +78,8 @@ async function reloadFullShops() {
 // ===========================
 function initFromUrlParams() {
   const params = new URLSearchParams(window.location.search);
-  const group = params.get('group');
+  const group = params.get('group')
+    || (typeof CURRENT_GROUP !== 'undefined' ? CURRENT_GROUP : null);
   const genre = params.get('genre');
   const pref  = params.get('pref');
 
