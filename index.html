@@ -163,6 +163,29 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
 </section>
 {% endif %}
 
+<!-- SECTION 03.5: グループ別まとめページ -->
+{% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
+{% if sorted_groups.size > 0 %}
+<section class="landing-section" id="group-pages">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 03 / GROUPS</p>
+      <h2 class="section-title">推しの<span class="txt-berry">グループ</span>で探す</h2>
+      <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう</p>
+    </div>
+    <div class="group-index-grid">
+      {% for gp in sorted_groups %}
+      <a href="{{ gp.url | relative_url }}" class="group-index-card"
+         style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
+        <span class="group-index-card__name">{{ gp.group_label }}</span>
+        <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <!-- SECTION 04: 推し×ジャンル一覧 -->
 {% assign sorted_lists = site.list_pages | sort: "shop_count" | reverse %}
 {% if sorted_lists.size > 0 %}

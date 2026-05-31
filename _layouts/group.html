@@ -84,6 +84,24 @@ layout: default
 
 <div id="more-btn-wrap" class="more-btn-wrap"></div>
 
+<!-- 他のグループへのリンク -->
+{% assign other_groups = site.group_pages | sort: "shop_count" | reverse %}
+{% if other_groups.size > 1 %}
+<div class="container" style="margin-top:3rem;padding-bottom:2rem;border-top:1px solid #f0f0f0;padding-top:2rem">
+  <p style="font-size:0.8rem;color:#6b7280;margin-bottom:0.75rem;font-weight:600;letter-spacing:0.05em">他のグループを見る</p>
+  <div class="group-mini-chips">
+    {% for gp in other_groups %}
+      {% unless gp.group_key == page.group_key %}
+      <a href="{{ gp.url | relative_url }}" class="group-mini-chip"
+         style="border-color:{{ gp.group_color }};color:{{ gp.group_color }}">
+        {{ gp.group_label }}<span class="group-mini-chip__count">{{ gp.shop_count }}</span>
+      </a>
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 <!-- 地図 -->
 <section class="map-section" id="view-map" style="display:none">
   <div id="map"></div>
