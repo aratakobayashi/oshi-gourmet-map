@@ -421,7 +421,7 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
   var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
 
-  fetch(base + '/data/shops.json')
+  fetch(base + '/data/shops_slim.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var memberEl = document.getElementById('related-by-member');

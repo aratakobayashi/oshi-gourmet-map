@@ -18,7 +18,7 @@
   }, { passive: true });
 })();
 
-const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops.json';
+const SHOPS_URL = (typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '') + '/data/shops_slim.json';
 
 let allShops = [];
 let filteredShops = [];
@@ -583,6 +583,13 @@ function buildShopCard(shop) {
   const videoHtml = shop.source_video_title
     ? `<p class="shop-card__video">${videoIcon} ${escHtml(shop.source_video_title)}</p>` : '';
 
+  const scoreHtml = shop.tabelog_score
+    ? `<span class="shop-card__score">⭐ ${escHtml(String(shop.tabelog_score))}</span>` : '';
+  const priceHtml = shop.price_range
+    ? `<span class="shop-card__price">${escHtml(shop.price_range)}</span>` : '';
+  const kpiHtml = (scoreHtml || priceHtml)
+    ? `<p class="shop-card__kpi">${scoreHtml}${priceHtml}</p>` : '';
+
   const distHtml = (userLat !== null && getSortMode() === 'nearby' && shop.lat && shop.lng)
     ? `<p class="shop-card__distance">🧭 ${haversineDistance(userLat, userLng, shop.lat, shop.lng).toFixed(1)} km</p>`
     : '';
@@ -601,6 +608,7 @@ function buildShopCard(shop) {
         <p class="shop-card__name">${escHtml(shop.name)}${shop.closed ? ' <span class="badge badge--closed">閉店</span>' : ''}</p>
         ${location ? `<p class="shop-card__location">📍 ${escHtml(location)}</p>` : ''}
         ${distHtml}
+        ${kpiHtml}
         ${memberHtml}
         ${visitedHtml}
         ${videoHtml}
