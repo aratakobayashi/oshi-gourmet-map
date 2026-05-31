@@ -14,6 +14,7 @@ source_video_title: "さいたまスーパーアリーナ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/saitama/A1101/A110101/11035708/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "月・火・水・木・金・祝前日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 土・日・祝日 11:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ◆ランチ 11:00-15:00（L.O.14:30）◆カフェ 15:00-17:00◆ディナー 17:00-23:00（L.O.22:"
 lat: 35.89319193773293
 lng: 139.63111538545851

@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=N-q4O1R0hEw"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13033146/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00 土・日 11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00 ■定休日お盆、年末年始"
 lat: 35.6721
 lng: 139.7611

@@ -14,6 +14,7 @@ source_video_title: "谷村町駅【今、話したい誰かがいる】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/yamanashi/A1905/A190501/19002504/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "■営業時間[月～土]11:30～14:00 17:00～21:00(L.O.20:30)[日]11:30～14:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.55518178150992
 lng: 138.90973709132302

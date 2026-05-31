@@ -17,6 +17,7 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13239832/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "12:00 - 17:00 ■ 営業時間11:00～券売機にてチケット販売■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7148
 lng: 139.7948

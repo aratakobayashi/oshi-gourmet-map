@@ -14,6 +14,7 @@ source_video_title: "松村沙友理ちゃんねる"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13033990/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "11:30 - 18:00 L.O. 17:30 ■ 定休日年中無休"
 lat: 35.7119497
 lng: 139.7948545

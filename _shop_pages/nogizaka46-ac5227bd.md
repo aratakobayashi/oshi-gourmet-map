@@ -14,6 +14,7 @@ source_video_title: "池袋東口【嫉妬の権利】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13009255/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "木・金・土 11:00 - 18:00 月・火・水・日 定休日 ■ 営業時間売り切れ次第終了 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.72671073786489
 lng: 139.71345248371918

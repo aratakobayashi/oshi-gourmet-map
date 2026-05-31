@@ -14,6 +14,7 @@ source_video_title: "スガキヤ イオンナゴヤドーム前店"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230110/23009416/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "10:00 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.187126539119085
 lng: 136.944235883041

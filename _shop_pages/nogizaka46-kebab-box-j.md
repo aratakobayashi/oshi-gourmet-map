@@ -14,6 +14,7 @@ source_video_title: "乃木坂どこへ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13058352/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "10:00 - 23:00 ■ 営業時間10:00～20:00※テイクアウト23:00まで■定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.669943
 lng: 139.7063339

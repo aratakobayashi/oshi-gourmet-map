@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鎌倉 ROOFTOPS(ルーフトップス)」"
-description: "乃木坂46のYouTubeで紹介された居酒屋「鎌倉 ROOFTOPS(ルーフトップス)」（神奈川県鎌倉市）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介された居酒屋「鎌倉 ROOFTOPS(ルーフトップス)」（神奈川県鎌倉市）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-rooftops-"
 name: "鎌倉 ROOFTOPS(ルーフトップス)"
 genre: "居酒屋"
@@ -15,6 +15,7 @@ source_video_title: "21thジコチューで行こう！Type-D"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14101224/"
 thumbnail_url: "https://img.youtube.com/vi/7eoiyP4kaAQ/hqdefault.jpg"
+source_type: "tv"
 lat: 35.319456
 lng: 139.5490021
 tabelog_score: 3.02

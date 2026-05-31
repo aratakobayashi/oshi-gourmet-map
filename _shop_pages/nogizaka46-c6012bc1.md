@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「菊地商店」"
-description: "乃木坂46のYouTubeで紹介された食事「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Aで紹介された食事「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c6012bc1-"
 name: "菊地商店"
 genre: "食事"
@@ -15,6 +15,7 @@ source_video_title: "17thインフルエンサーType-A"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1331/A133101/13220704/"
 thumbnail_url: "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg"
+source_type: "tv"
 lat: 35.59332
 lng: 139.7350645
 tabelog_score: 3.0

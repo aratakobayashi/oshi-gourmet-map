@@ -12,6 +12,7 @@ nearest_station: "JR大曽根駅 or 地下鉄尼ケ坂駅"
 source_video_title: "乃木坂どこへ"
 group: "nogizaka46"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 lat: 35.187878
 lng: 136.918944
 members:

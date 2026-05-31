@@ -14,6 +14,7 @@ source_video_title: "センター街【革命の馬】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13034125/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "■営業時間06:30～28:00■定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.65989550161139
 lng: 139.70031272399558

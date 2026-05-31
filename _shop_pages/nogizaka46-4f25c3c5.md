@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鎌倉釜飯 かまかま本店」"
-description: "乃木坂46のYouTubeで紹介された食事「鎌倉釜飯 かまかま本店」（神奈川県鎌倉市）。食べログ3.42点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介された食事「鎌倉釜飯 かまかま本店」（神奈川県鎌倉市）。食べログ3.42点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-4f25c3c5-"
 name: "鎌倉釜飯 かまかま本店"
 genre: "食事"
@@ -15,6 +15,7 @@ source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14014112/"
 thumbnail_url: "https://img.youtube.com/vi/Nm_W7Ii-eW8/hqdefault.jpg"
+source_type: "tv"
 business_hours: "月・火・木・金 11:00 - 17:00 土・日 11:00 - 22:00 L.O. 21:00 水 定休日"
 lat: 35.319456
 lng: 139.5490021

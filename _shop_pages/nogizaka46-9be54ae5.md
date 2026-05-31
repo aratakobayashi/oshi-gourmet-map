@@ -14,6 +14,7 @@ source_video_title: "六本木らーめん 東京食品 まる彦"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13018573/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+source_type: "tv"
 business_hours: "■営業時間[火～木]11:00～20：00[金]11:00～20：00[月・土・日・祝]11:00〜20：00【年末年始等特別営業日】適宜公式Ｔｗｉｔｔｅｒ参照■定休日無休"
 lat: 35.66603617894825
 lng: 139.7289842267722
