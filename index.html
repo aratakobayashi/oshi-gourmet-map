@@ -177,8 +177,12 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
       {% for gp in sorted_groups %}
       <a href="{{ gp.url | relative_url }}" class="group-index-card"
          style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
-        <span class="group-index-card__name">{{ gp.group_label }}</span>
-        <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+        <div class="group-index-card__bg group-index-card__bg--gradient"></div>
+        <div class="group-index-card__overlay"></div>
+        <div class="group-index-card__body">
+          <span class="group-index-card__name">{{ gp.group_label }}</span>
+          <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+        </div>
       </a>
       {% endfor %}
     </div>

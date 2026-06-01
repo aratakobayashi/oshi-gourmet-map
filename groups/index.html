@@ -1,30 +1,46 @@
 ---
 layout: default
 title: グループ別グルメ聖地まとめ｜推しグルメ巡礼MAP
-description: よにのちゃんねる・Snow Man・SixTONES・乃木坂46など24グループのグルメ聖地まとめ一覧。推しが実際に訪れたお店をグループ別に探せます。
+description: Snow Man・SixTONES・乃木坂46・よにのちゃんねるなど24グループのグルメ聖地まとめ一覧。推しが実際に訪れたお店をグループ別に探せます。
 ---
 
-<div class="container" style="padding-top:2rem;padding-bottom:4rem">
-  <nav style="font-size:0.8rem;color:#6b7280;margin-bottom:1.5rem">
-    <a href="{{ '/' | relative_url }}" style="color:#6b7280">トップ</a>
-    <span style="margin:0 0.4rem">›</span>
+<div class="container groups-page">
+  <nav class="groups-page__breadcrumb">
+    <a href="{{ '/' | relative_url }}">トップ</a>
+    <span>›</span>
     <span>グループ一覧</span>
   </nav>
 
-  <div class="section-header" style="margin-bottom:2rem">
+  <div class="section-header" style="margin-bottom:2.5rem">
     <p class="section-eyebrow">GROUPS</p>
     <h1 class="section-title">推しの<span class="txt-berry">グループ</span>で探す</h1>
     <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう。</p>
   </div>
 
-  {% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
-  <div class="group-index-grid">
-    {% for gp in sorted_groups %}
-    <a href="{{ gp.url | relative_url }}" class="group-index-card"
-       style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
-      <span class="group-index-card__name">{{ gp.group_label }}</span>
-      <span class="group-index-card__count">{{ gp.shop_count }}件</span>
-    </a>
-    {% endfor %}
-  </div>
+  {% for cat in site.data.group_categories %}
+  <section class="group-category">
+    <h2 class="group-category__title">{{ cat.label }}</h2>
+    <div class="group-index-grid">
+      {% for item in cat.groups %}
+        {% assign gp = site.group_pages | where: "group_key", item.key | first %}
+        {% if gp %}
+        <a href="{{ gp.url | relative_url }}" class="group-index-card">
+          {% if item.photo %}
+            <div class="group-index-card__bg group-index-card__bg--photo"
+                 style="background-image:url('{{ '/assets/images/groups/' | append: item.key | append: '.jpg' | relative_url }}')"></div>
+          {% else %}
+            <div class="group-index-card__bg group-index-card__bg--gradient"
+                 style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}"></div>
+          {% endif %}
+          <div class="group-index-card__overlay"></div>
+          <div class="group-index-card__body">
+            <span class="group-index-card__name">{{ gp.group_label }}</span>
+            <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+          </div>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
 </div>

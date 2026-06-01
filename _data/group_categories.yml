@@ -1,0 +1,38 @@
+- label: "STARTO所属"
+  groups:
+    - { key: arashi,       photo: false }
+    - { key: snowman,      photo: true  }
+    - { key: sixtones,     photo: true  }
+    - { key: heysayjump,   photo: false }
+    - { key: kingprince,   photo: false }
+    - { key: naniwa,       photo: true  }
+    - { key: kamenashi,    photo: true  }
+    - { key: timelesz,     photo: false }
+    - { key: ginga,        photo: false }
+    - { key: kimura,       photo: false }
+
+- label: "坂道・アイドル"
+  groups:
+    - { key: nogizaka46,   photo: true  }
+    - { key: sakurazaka46, photo: true  }
+    - { key: hinatazaka46, photo: true  }
+    - { key: equal_love,   photo: true  }
+    - { key: notme,        photo: false }
+    - { key: neajoy,       photo: false }
+
+- label: "K-POP"
+  groups:
+    - { key: kpop_seventeen, photo: false }
+    - { key: kpop_enhypen,   photo: false }
+    - { key: kpop_riize,     photo: false }
+    - { key: kpop_nct,       photo: false }
+
+- label: "芸人・YouTuber"
+  groups:
+    - { key: yonino,     photo: true  }
+    - { key: kamaitachi, photo: false }
+    - { key: shiori,     photo: false }
+
+- label: "ドラマ"
+  groups:
+    - { key: kodoku_no_gurume, photo: false }
