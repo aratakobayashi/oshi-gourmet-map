@@ -1,0 +1,30 @@
+---
+layout: default
+title: グループ別グルメ聖地まとめ｜推しグルメ巡礼MAP
+description: よにのちゃんねる・Snow Man・SixTONES・乃木坂46など24グループのグルメ聖地まとめ一覧。推しが実際に訪れたお店をグループ別に探せます。
+---
+
+<div class="container" style="padding-top:2rem;padding-bottom:4rem">
+  <nav style="font-size:0.8rem;color:#6b7280;margin-bottom:1.5rem">
+    <a href="{{ '/' | relative_url }}" style="color:#6b7280">トップ</a>
+    <span style="margin:0 0.4rem">›</span>
+    <span>グループ一覧</span>
+  </nav>
+
+  <div class="section-header" style="margin-bottom:2rem">
+    <p class="section-eyebrow">GROUPS</p>
+    <h1 class="section-title">推しの<span class="txt-berry">グループ</span>で探す</h1>
+    <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう。</p>
+  </div>
+
+  {% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
+  <div class="group-index-grid">
+    {% for gp in sorted_groups %}
+    <a href="{{ gp.url | relative_url }}" class="group-index-card"
+       style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
+      <span class="group-index-card__name">{{ gp.group_label }}</span>
+      <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
