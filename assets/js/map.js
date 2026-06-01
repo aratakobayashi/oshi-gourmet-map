@@ -108,7 +108,12 @@ function renderMapMarkers(shops) {
 
   // fitBounds は初回のみ（以降はユーザーのズーム操作を尊重）
   if (!_mapBoundsSet && clusterGroup.getLayers().length > 0) {
-    leafletMap.fitBounds(clusterGroup.getBounds().pad(0.1));
+    if (shops.length > 300) {
+      // 全件表示のときは東京中心にズーム（fitBoundsすると日本全土になり広すぎる）
+      leafletMap.setView([35.68, 139.76], 10);
+    } else {
+      leafletMap.fitBounds(clusterGroup.getBounds().pad(0.15));
+    }
     _mapBoundsSet = true;
   }
 }
