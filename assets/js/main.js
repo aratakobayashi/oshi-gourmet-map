@@ -48,6 +48,7 @@ async function loadShops() {
   const res = await fetch(url);
   allShops = await res.json();
   filteredShops = [...allShops];
+  if (typeof resetMapBounds === 'function') resetMapBounds();
 
   populateFilters();
   renderQuickTags(allShops);
@@ -65,6 +66,7 @@ async function reloadFullShops() {
   const res = await fetch(SHOPS_URL);
   allShops = await res.json();
   _groupDataLoaded = null;
+  if (typeof resetMapBounds === 'function') resetMapBounds();
   populateFilters();
   renderQuickTags(allShops);
   if (typeof initFilterModal === 'function') initFilterModal(allShops);
@@ -439,6 +441,7 @@ function applyFilters() {
   renderGrid(filteredShops);
   updateCount(filteredShops.length);
   if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
+  if (typeof updateMapCount === 'function') updateMapCount(filteredShops.length);
 }
 
 // ===========================
@@ -715,15 +718,26 @@ function switchView(view) {
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.view === view);
   });
-  const masterDetail = document.getElementById('shop-list-wrap');
-  const mapSection   = document.getElementById('view-map');
+  const masterDetail  = document.getElementById('shop-list-wrap');
+  const mapSection    = document.getElementById('view-map');
+  const moreBtnWrap   = document.getElementById('more-btn-wrap');
+  const groupChips    = document.getElementById('group-mini-chips-section');
+
   if (masterDetail) masterDetail.style.display = view === 'grid' ? '' : 'none';
+  if (moreBtnWrap)  moreBtnWrap.style.display  = view === 'grid' ? '' : 'none';
+  if (groupChips)   groupChips.style.display   = view === 'grid' ? '' : 'none';
   if (mapSection)   mapSection.style.display   = view === 'map'  ? '' : 'none';
 
   if (view === 'map' && typeof initMap === 'function') {
     initMap();
     renderMapMarkers(filteredShops);
+    updateMapCount(filteredShops.length);
   }
+}
+
+function updateMapCount(n) {
+  const el = document.getElementById('map-count');
+  if (el) el.textContent = `${n} 件表示中`;
 }
 
 // ===========================
@@ -864,6 +878,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userLat = lat;
         userLng = lng;
         renderGrid(filteredShops);
+        if (typeof centerMapOnUser === 'function') centerMapOnUser(lat, lng);
       } catch {
         this.value = 'recent';
         showToast('現在地を取得できませんでした。位置情報の許可を確認してください。');
@@ -879,6 +894,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // タブ
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => switchView(btn.dataset.view));
+  });
+
+  // 地図「全体を表示」ボタン
+  document.getElementById('map-refocus-btn')?.addEventListener('click', () => {
+    if (typeof resetMapBounds === 'function') resetMapBounds();
+    if (typeof renderMapMarkers === 'function') renderMapMarkers(filteredShops);
   });
 
   // データ読み込み

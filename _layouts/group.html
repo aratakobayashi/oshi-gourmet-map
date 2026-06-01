@@ -39,7 +39,7 @@ layout: default
   </div>
 </div>
 
-<!-- 件数 + ソート（hidden: ジャンルフィルター） -->
+<!-- 件数 + ソート + タブ -->
 <div class="container">
   <div class="shop-controls-bar">
     <p class="result-count" id="result-count"></p>
@@ -49,6 +49,10 @@ layout: default
         <option value="video">動画あり順</option>
         <option value="nearby">📍 近い順</option>
       </select>
+      <div class="view-tabs">
+        <button class="tab-btn active" data-view="grid">写真</button>
+        <button class="tab-btn" data-view="map">地図</button>
+      </div>
     </div>
   </div>
 </div>
@@ -87,7 +91,7 @@ layout: default
 <!-- 他のグループへのリンク -->
 {% assign other_groups = site.group_pages | sort: "shop_count" | reverse %}
 {% if other_groups.size > 1 %}
-<div class="container" style="margin-top:3rem;padding-bottom:2rem;border-top:1px solid #f0f0f0;padding-top:2rem">
+<div id="group-mini-chips-section" class="container" style="margin-top:3rem;padding-bottom:2rem;border-top:1px solid #f0f0f0;padding-top:2rem">
   <p style="font-size:0.8rem;color:#6b7280;margin-bottom:0.75rem;font-weight:600;letter-spacing:0.05em">他のグループを見る</p>
   <div class="group-mini-chips">
     {% for gp in other_groups %}
@@ -104,6 +108,10 @@ layout: default
 
 <!-- 地図 -->
 <section class="map-section" id="view-map" style="display:none">
+  <div class="map-count-bar">
+    <span id="map-count"></span>
+    <button class="map-refocus-btn" id="map-refocus-btn" title="表示範囲をリセット">⊙ 全体を表示</button>
+  </div>
   <div id="map"></div>
 </section>
 

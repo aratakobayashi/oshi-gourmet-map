@@ -487,9 +487,17 @@ img { max-width: 100%; display: block; }
 /* ===========================
    View Tabs
 =========================== */
-.view-tabs { display: flex; gap: 8px; padding: 4px 0; }
-.tab-btn { padding: 7px 20px; border: 2px solid var(--color-primary); border-radius: 20px; background: transparent; color: var(--color-primary); cursor: pointer; font-size: 0.9rem; transition: var(--transition); }
-.tab-btn.active, .tab-btn:hover { background: var(--color-primary); color: #fff; }
+.view-tabs {
+  display: flex; gap: 0; padding: 4px 0;
+  border: 2px solid var(--color-primary); border-radius: 20px; overflow: hidden;
+}
+.tab-btn {
+  padding: 6px 18px; border: none; background: transparent;
+  color: var(--color-primary); cursor: pointer; font-size: 0.88rem; font-weight: 600;
+  transition: var(--transition); white-space: nowrap;
+}
+.tab-btn.active { background: var(--color-primary); color: #fff; }
+.tab-btn:hover:not(.active) { background: color-mix(in srgb, var(--color-primary) 10%, transparent); }
 
 /* ===========================
    Shop Controls Bar
@@ -1114,17 +1122,43 @@ img { max-width: 100%; display: block; }
    Map
 =========================== */
 .map-section { width: 100%; }
-#map { width: 100%; height: calc(100vh - 160px); min-height: 400px; }
+.map-count-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 8px 16px; background: #fff; border-bottom: 1px solid var(--color-border);
+  font-size: 0.82rem; color: var(--color-text-muted);
+}
+.map-refocus-btn {
+  padding: 4px 12px; border: 1px solid var(--color-border); border-radius: 16px;
+  background: #fff; font-size: 0.78rem; cursor: pointer; color: var(--color-text-muted);
+  transition: var(--transition);
+}
+.map-refocus-btn:hover { border-color: var(--color-primary); color: var(--color-primary); }
+#map { width: 100%; height: calc(100vh - 196px); min-height: 400px; }
 @media (max-width: 768px) {
-  #map { height: calc(100vh - 220px); min-height: 360px; }
+  #map { height: calc(100vh - 256px); min-height: 360px; }
 }
 
 /* Leaflet popup カスタム */
 .leaflet-popup-content-wrapper { border-radius: var(--radius); }
-.map-popup { font-family: inherit; }
-.map-popup h3 { font-size: 0.95rem; margin-bottom: 4px; }
+.leaflet-popup-content { margin: 10px 14px; }
+.map-popup { font-family: inherit; min-width: 160px; }
+.map-popup h3 { font-size: 0.92rem; font-weight: 700; margin-bottom: 4px; line-height: 1.4; }
 .map-popup p { font-size: 0.82rem; color: var(--color-text-muted); margin: 0; }
-.map-popup a { font-size: 0.82rem; }
+.map-popup a { font-size: 0.82rem; font-weight: 600; }
+
+/* Leaflet MarkerCluster カスタム */
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(232, 83, 122, 0.25);
+}
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: rgba(232, 83, 122, 0.75);
+  color: #fff; font-weight: 700;
+}
+.marker-cluster span { color: #fff; }
 
 /* ===========================
    Modal
