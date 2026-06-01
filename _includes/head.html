@@ -29,8 +29,9 @@
 {% elsif page.thumbnail %}
   {% assign ogp_image = page.thumbnail | absolute_url %}
 {% else %}
-  {% if page.group %}
-    {% assign ogp_image = '/assets/images/ogp/' | append: page.group | append: '.png' | absolute_url %}
+  {% assign _ogp_group = page.group | default: page.group_key %}
+  {% if _ogp_group %}
+    {% assign ogp_image = '/assets/images/ogp/' | append: _ogp_group | append: '.png' | absolute_url %}
   {% else %}
     {% assign ogp_image = '/assets/images/ogp/default.png' | absolute_url %}
   {% endif %}
