@@ -75,7 +75,29 @@ layout: default
 {% if s.group == 'kpop_riize' %}{% assign group_hashtag = 'RIIZE' %}{% endif %}
 {% if s.group == 'kpop_nct' %}{% assign group_hashtag = 'NCT' %}{% endif %}
 
-{% assign tweet_text = group_label | append: 'が訪れた「' | append: s.name | append: '」🍽️ %0a%0a#推しグルメ巡礼 #' | append: group_hashtag %}
+{% assign tweet_member = s.members | first %}
+{% assign tweet_item = s.ordered_items | first %}
+{% assign tweet_area = s.city | default: s.prefecture %}
+
+{% if tweet_member %}
+  {% assign tweet_line1 = tweet_member | append: '（' | append: group_label | append: '）が' | append: tweet_area | append: 'で食べたもの🍽️' %}
+{% else %}
+  {% assign tweet_line1 = group_label | append: 'が' | append: tweet_area | append: 'で訪れたお店🍽️' %}
+{% endif %}
+
+{% assign tweet_line2 = '🏠 ' | append: s.name %}
+
+{% if tweet_item %}
+  {% assign tweet_line3 = '🍴 ' | append: tweet_item %}
+{% endif %}
+
+{% assign tweet_line4 = '📍 ' | append: tweet_area %}
+
+{% if tweet_item %}
+  {% assign tweet_text = tweet_line1 | append: '%0a%0a' | append: tweet_line2 | append: '%0a' | append: tweet_line3 | append: '%0a' | append: tweet_line4 | append: '%0a%0a#推しグルメ巡礼 #' | append: group_hashtag %}
+{% else %}
+  {% assign tweet_text = tweet_line1 | append: '%0a%0a' | append: tweet_line2 | append: '%0a' | append: tweet_line4 | append: '%0a%0a#推しグルメ巡礼 #' | append: group_hashtag %}
+{% endif %}
 
 <!-- JSON-LD: LocalBusiness -->
 <script type="application/ld+json">
