@@ -28,6 +28,9 @@ description: Snow Man・SixTONES・乃木坂46・よにのちゃんねるなど2
           {% if item.photo %}
             <div class="group-index-card__bg group-index-card__bg--photo"
                  style="background-image:url('{{ '/assets/images/groups/' | append: item.key | append: '.jpg' | relative_url }}')"></div>
+          {% elsif gp.group_youtube_id %}
+            <div class="group-index-card__bg group-index-card__bg--photo"
+                 style="background-image:url('https://img.youtube.com/vi/{{ gp.group_youtube_id }}/hqdefault.jpg')"></div>
           {% else %}
             <div class="group-index-card__bg group-index-card__bg--gradient"
                  style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}"></div>

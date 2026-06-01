@@ -88,6 +88,9 @@ for group, label in GROUP_LABELS.items():
     top_genres = [g for g, _ in genre_counts.most_common(3) if g]
     genre_str = '・'.join(top_genres) if top_genres else 'グルメ'
 
+    # 代表YouTubeサムネ（最初に見つかったyoutube_idを使用）
+    youtube_id = next((s.get('youtube_id') for s in group_shops if s.get('youtube_id')), None)
+
     desc = (
         f'{label}が実際に訪れたグルメスポット{count}件をまとめています。'
         f'{genre_str}など多彩なお店をYouTube・テレビ番組から調査。'
@@ -105,9 +108,10 @@ for group, label in GROUP_LABELS.items():
         f'shop_count: {count}',
         f'title: "{title}"',
         f'description: "{desc}"',
-        '---',
-        '',
     ]
+    if youtube_id:
+        lines.append(f'group_youtube_id: "{youtube_id}"')
+    lines += ['---', '']
 
     out_path = os.path.join(OUT_DIR, f'{group}.md')
     with open(out_path, 'w', encoding='utf-8') as f:
