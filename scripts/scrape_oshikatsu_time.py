@@ -3,17 +3,51 @@
 scrape_oshikatsu_time.py
 oshikatsu-time.com の timelesz グルメ記事をスクレイピング
 出力: scripts/scraped_oshikatsu_time_timelesz.json
+
+使い方:
+  # 従来通りTARGET_ARTICLESのみ処理
+  python scripts/scrape_oshikatsu_time.py
+
+  # カテゴリページを自動巡回して新規記事も処理
+  python scripts/scrape_oshikatsu_time.py --auto-discover
+
+  # 出力ファイルを指定
+  python scripts/scrape_oshikatsu_time.py --auto-discover --output /tmp/scraped.json
 """
 
 import urllib.request
 import json
 import re
 import time
+import argparse
 from bs4 import BeautifulSoup
 
 GROUP   = 'timelesz'
 MEMBERS = ['菊池風磨', '佐藤勝利', '松島聡', '寺西拓人', '原嘉孝',
            '橋本将生', '猪俣周杜', '篠塚大輝', '山下智久']
+
+CATEGORY_URL = 'https://oshikatsu-time.com/category/artist/timelesz/'
+
+# URLスラッグに含まれると食グルメ記事と判定するキーワード
+FOOD_URL_KEYWORDS = [
+    'location-food', 'cafe', 'coffee', 'gourmet', 'burger',
+    'bread', 'pudding', 'gyoza', 'mala', 'udon', 'crepe', 'menu',
+    'ramen', 'pizza', 'yakiniku', 'sushi', 'food', 'brunch',
+    'restaurant', 'matome', 'tea', 'viking', 'buffet',
+    'akafuku', 'hamburg',
+]
+# URLスラッグに含まれると食グルメ外と判定するキーワード（優先）
+NONFOOD_URL_KEYWORDS = [
+    'recipe', 'mbti', 'drama', 'movie', 'uranai', 'amazon', 'sale',
+    'goods', 'lip', 'ambassador', 'sauna', 'bowling', 'tailor', 'abcmart',
+    'keyring', 'bag', 'kiehls', 'disney-goods', 'intro-quiz', 'sokkuri',
+    'halloween', 'profile', 'lyric', 'choreo',
+    'rakuten', 'earphone', 'comic', 'manga', 'chabos',
+    # 買い物番組(食以外)、MVロケ地(住所なし多い)、インスタ投稿(製品名)は除外
+    'kaimonotatsujin', 'shanairenai', 'instagram',
+    # スイーツ/お菓子系インスタ記事は製品名しか取れない
+    'sweets', 'ice-cream', 'hokkaido',
+]
 
 PREF_KEYWORDS = [
     '北海道','青森県','岩手県','宮城県','秋田県','山形県','福島県',
@@ -41,7 +75,84 @@ GENRE_MAP = [
     (['ステーキ', '肉'], '焼肉'),
 ]
 
-# スクレイピング対象記事
+def is_food_url(url: str) -> bool:
+    """URLが食グルメ記事候補かを判定"""
+    slug = url.rstrip('/').split('/')[-1]
+    if any(ng in slug for ng in NONFOOD_URL_KEYWORDS):
+        return False
+    return any(kw in slug for kw in FOOD_URL_KEYWORDS)
+
+
+def url_to_meta(url: str) -> dict:
+    """URLから記事メタ情報を生成"""
+    slug = url.rstrip('/').split('/')[-1]
+
+    # 日付: YYYYMMDD or YYMMDD パターン
+    date_m = re.search(r'(\d{4})(\d{2})(\d{2})', slug)
+    visited_date = f'{date_m.group(1)}-{date_m.group(2)}-{date_m.group(3)}' if date_m else None
+
+    # メンバー名: URLスラッグから推測
+    member_map = {
+        'kikuchifuma': '菊池風磨',
+        'satoshori': '佐藤勝利',
+        'satoshouri': '佐藤勝利',
+        'matsushimaso': '松島聡',
+        'teranishitakuto': '寺西拓人',
+        'harayoshitaka': '原嘉孝',
+        'hashimotomasaki': '橋本将生',
+        'inomatashuto': '猪俣周杜',
+        'shinozukataiki': '篠塚大輝',
+        'yamashitatomohisa': '山下智久',
+    }
+    members = [v for k, v in member_map.items() if k in slug]
+
+    return {
+        'url': url,
+        'source_title': slug.replace('-', ' '),
+        'default_members': members,
+        'visited_date': visited_date,
+    }
+
+
+def discover_articles(existing_source_urls: set) -> list:
+    """カテゴリページを巡回して未処理の食グルメ記事URLを発見する"""
+    found = []
+    for page in range(1, 15):
+        if page == 1:
+            url = CATEGORY_URL
+        else:
+            url = f'{CATEGORY_URL}page/{page}/'
+        try:
+            html = fetch(url)
+        except Exception as e:
+            print(f'  カテゴリpage {page}: {e}')
+            break
+
+        articles = re.findall(
+            r'href="(https://oshikatsu-time\.com/timelesz[^"]+)"', html
+        )
+        articles = list(dict.fromkeys(articles))
+        new_in_page = 0
+        for a in articles:
+            a = a.rstrip('/')  + '/'
+            if a in existing_source_urls:
+                continue
+            if not is_food_url(a):
+                continue
+            found.append(url_to_meta(a))
+            new_in_page += 1
+
+        print(f'  カテゴリpage {page}: {len(articles)}件中 新規食グルメ候補 {new_in_page}件')
+
+        # 次ページが存在するか確認
+        if 'next' not in html.lower() and f'page/{page+1}/' not in html:
+            break
+        time.sleep(0.5)
+
+    return found
+
+
+# スクレイピング対象記事（手動追加分）
 TARGET_ARTICLES = [
     {
         'url': 'https://oshikatsu-time.com/timelesz-matsushimaso-cafe-matome/',
@@ -192,7 +303,18 @@ def is_likely_shop_name(text):
                 'GYM', 'ジム', 'スポーツ', 'アクアパーク', 'カプセル',
                 '◎×部', 'の湯', '平和通り', '時の鐘', 'リゾナーレ',
                 '橋', '公園', '広場', 'ハングリー', '北壁', '商店街',
-                '温泉', '神社', '神宮', '寺', 'ゆらゆら']
+                '温泉', '神社', '神宮', '寺', 'ゆらゆら',
+                # 食品以外の物販ショップ
+                'ナイフセンター', 'プロナイフ', 'HENCKELS', 'ジョーマローン',
+                '香水', 'フレグランス', 'コスメ', '化粧品', 'スキンケア',
+                'ちゃぼす', 'ハラハラ',
+                # 製品名・キーワードがそのまま店名になるパターン
+                '詰合せ', '季節限定', 'ルイボス', '個入', '個詰',
+                # 帽子・服飾・雑貨
+                'THE CAP', 'CAP TOKYO',
+                # 複数ワードが入った商品名
+                'ソフトクリーム', 'アイスクリーム', 'メロンソフト',
+                ]
     if any(w in text for w in ng_words):
         return False
     # 「〇〇駅」は鉄道駅
@@ -476,8 +598,57 @@ def parse_article(article_meta):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--auto-discover', action='store_true',
+                        help='カテゴリページを巡回して新規記事を自動発見する')
+    parser.add_argument('--output', default='scripts/scraped_oshikatsu_time_timelesz.json',
+                        help='出力ファイルパス')
+    parser.add_argument('--skip-existing', action='store_true',
+                        help='既存shops.jsonのsource_urlをスキップ')
+    args = parser.parse_args()
+
+    articles_to_process = list(TARGET_ARTICLES)
+
+    if args.auto_discover or args.skip_existing:
+        # 既存データのsource_urlを取得
+        existing_source_urls = set()
+        try:
+            with open('data/shops.json', encoding='utf-8') as f:
+                existing = json.load(f)
+            existing_source_urls = {s.get('source_url', '').rstrip('/') + '/' for s in existing if s.get('source_url')}
+            print(f'既存shops.json: {len(existing)}件, source_url: {len(existing_source_urls)}件')
+        except Exception as e:
+            print(f'shops.json読み込みエラー: {e}')
+
+        if args.auto_discover:
+            print('\nカテゴリページ自動巡回...')
+            discovered = discover_articles(existing_source_urls)
+            print(f'新規記事発見: {len(discovered)}件')
+            # TARGET_ARTICLESのうち既存URLをスキップ
+            articles_to_process = [
+                a for a in TARGET_ARTICLES
+                if a['url'].rstrip('/') + '/' not in existing_source_urls
+            ] + discovered
+        elif args.skip_existing:
+            articles_to_process = [
+                a for a in TARGET_ARTICLES
+                if a['url'].rstrip('/') + '/' not in existing_source_urls
+            ]
+
+    # URL重複除去（TARGET_ARTICLESと自動発見で同一URLが入ることがある）
+    seen_urls = set()
+    dedup_articles = []
+    for a in articles_to_process:
+        u = a['url'].rstrip('/') + '/'
+        if u not in seen_urls:
+            seen_urls.add(u)
+            dedup_articles.append(a)
+    articles_to_process = dedup_articles
+
+    print(f'\n処理対象: {len(articles_to_process)}件\n')
+
     all_shops = []
-    for meta in TARGET_ARTICLES:
+    for meta in articles_to_process:
         shops = parse_article(meta)
         all_shops.extend(shops)
         time.sleep(1.5)
@@ -491,11 +662,10 @@ def main():
             seen.add(key)
             deduped.append(s)
 
-    out_path = 'scripts/scraped_oshikatsu_time_timelesz.json'
-    with open(out_path, 'w', encoding='utf-8') as f:
+    with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(deduped, f, ensure_ascii=False, indent=2)
 
-    print(f'\n合計 {len(deduped)}件 → {out_path}')
+    print(f'\n合計 {len(deduped)}件 → {args.output}')
     for s in deduped:
         print(f"  {s['name'][:25]:25} {s['prefecture']:5} {s.get('visited_date',''):10} {s['source_video_title'][:30]}")
 
