@@ -47275,5 +47275,148 @@
     ],
     "tabelog_score": "3.08",
     "price_range": "￥2,000～￥2,999"
+  },
+  {
+    "id": "timelesz-gold_rush_1-20260201",
+    "name": "GOLD RUSH 池袋1号店",
+    "genre": "ハンバーグ・ステーキ",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区東池袋1-22-5 サンケエビル B1F",
+    "lat": 35.7290721,
+    "lng": 139.7209701,
+    "youtube_id": "",
+    "source_video_title": "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）",
+    "source_url": "https://timeleszportal.com/archives/1173",
+    "visited_date": "2026-02-01",
+    "members": [
+      "菊池風磨",
+      "寺西拓人"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "池袋の老舗ハンバーグ専門店。Netflix配信のtimelesz project -REAL- VOL2 東京編で菊池風磨・寺西拓人が訪れた聖地。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13040549/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/13895/5c86a30a9155eac17e1a9daab57e660e.jpg?token=eb34ca2&amp;api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ハンバーグ"
+    ],
+    "tabelog_score": "3.06",
+    "price_range": "-"
+  },
+  {
+    "id": "timelesz-azabu-20260201",
+    "name": "AZABU 草ふえ",
+    "genre": "ダイニングバー",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布2-25-13 石原ビル 2F-3F",
+    "lat": 35.6600266,
+    "lng": 139.7238075,
+    "youtube_id": "",
+    "source_video_title": "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）",
+    "source_url": "https://timeleszportal.com/archives/1173",
+    "visited_date": "2026-02-01",
+    "members": [
+      "菊池風磨",
+      "寺西拓人"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "西麻布の炭火串焼きダイニングバー。350種類以上の焼酎と独自カクテルが名物。Netflix配信タイプロ2東京編で菊池風磨・寺西拓人が訪れた。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13038895/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/224629/92ed8daf05893fc770f90f79bd7f5bad.jpg?token=b73164a&amp;api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [],
+    "tabelog_score": "3.15",
+    "price_range": "￥5,000～￥5,999"
+  },
+  {
+    "id": "timelesz-12bd4e83-20241001",
+    "name": "キラナガーデン豊洲",
+    "genre": "BBQ・バーベキュー",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区豊洲6-5-27",
+    "lat": 35.6501423,
+    "lng": 139.7931179,
+    "youtube_id": "",
+    "source_video_title": "timelesz project -AUDITION- チームMATSUSHIMA BBQ",
+    "source_url": "https://timeleszportal.com/archives/331",
+    "visited_date": "2024-10-01",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "東京湾を望む都市型リゾートBBQ施設。タイプロでチームMATSUSHIMAが訪れた聖地。プールサイド・BBQスペース・ライトアップ夜景が特徴。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131307/13275577/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/200852/0ef732a679ee0af6532f49de02fbf90b.jpg?token=07387c5&amp;api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "BBQ"
+    ],
+    "tabelog_score": "3.39",
+    "price_range": "￥5,000～￥5,999"
+  },
+  {
+    "id": "timelesz-no_4-20260320",
+    "name": "No.4",
+    "genre": "カフェ・ベーカリー",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区四番町5-9",
+    "lat": 35.689056,
+    "lng": 139.737847,
+    "youtube_id": "",
+    "source_video_title": "松島聡 カフェ巡りまとめ（インスタ）",
+    "source_url": "https://oshikatsu-time.com/timelesz-matsushimaso-cafe-matome/",
+    "visited_date": "2026-03-20",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "千代田区四番町のカフェ。松島聡がインスタで紹介したカフェ巡りスポット。パンとアイスラテが人気。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "パン",
+      "アイスラテ"
+    ]
   }
 ]
