@@ -47132,5 +47132,148 @@
     "ordered_items": [
       "ラテアート"
     ]
+  },
+  {
+    "id": "timelesz-cafe_marly-20250425",
+    "name": "Café Marly",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町15-1 渋谷PARCO 1階",
+    "lat": 35.6620752,
+    "lng": 139.6974957,
+    "youtube_id": "",
+    "source_video_title": "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日）",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/a4d18fe59f19ed425499c3d49d9456c8d63131f4",
+    "visited_date": "2025-04-25",
+    "members": [
+      "菊池風磨",
+      "橋本将生"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "渋谷PARCO 1階のフレンチカフェ。菊池風磨・橋本将生がMARNI×PARCO企画でロケ。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "フルーツティー"
+    ]
+  },
+  {
+    "id": "timelesz-3686de20-20250425",
+    "name": "レストラン 中台",
+    "genre": "洋食",
+    "prefecture": "茨城県",
+    "city": "土浦市",
+    "address": "茨城県土浦市桜町2-12-3",
+    "lat": 36.0783414,
+    "lng": 140.2020934,
+    "youtube_id": "",
+    "source_video_title": "ニノさん 茨城ロケ 幻の肉・飯村牛（2025年4月25日）",
+    "source_url": "https://www.activitv.com/entry/nino_250425_nakadai/",
+    "visited_date": "2025-04-25",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "昭和13年創業の老舗洋食店。日テレ『ニノさん』で原嘉孝が若槻千夏とともに訪問した幻の肉・飯村牛が食べられる店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "飯村牛のサーロインステーキ",
+      "飯村牛のハンバーグ"
+    ]
+  },
+  {
+    "id": "timelesz-e0858214-20250425",
+    "name": "メゾン コートダジュール",
+    "genre": "スイーツ・ケーキ",
+    "prefecture": "茨城県",
+    "city": "つくば市",
+    "address": "茨城県つくば市研究学園3-25",
+    "lat": 36.0821337,
+    "lng": 140.0824131,
+    "youtube_id": "",
+    "source_video_title": "ニノさん 茨城ロケ 幻の肉・飯村牛（2025年4月25日）",
+    "source_url": "https://www.activitv.com/entry/nino_250425_nakadai/",
+    "visited_date": "2025-04-25",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "フランス菓子専門店。ケーキ・焼き菓子100種類以上・ジェラート50種類以上。日テレ『ニノさん』茨城ロケで原嘉孝が立ち寄った絶品ジェラート店。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/ibaraki/A0802/A080201/8027852/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355766/b0e66f1d4870e030186f1d3f6e53de3b.jpg?token=1ddc35a&amp;api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ジェラート"
+    ],
+    "tabelog_score": "3.44",
+    "price_range": "-"
+  },
+  {
+    "id": "timelesz-01b6e1f7-20250615",
+    "name": "焼肉きんぐ 駒沢公園店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区駒沢5丁目1-3",
+    "lat": 35.6240812,
+    "lng": 139.656353,
+    "youtube_id": "",
+    "source_video_title": "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）",
+    "source_url": "https://oshikatsu-time.com/timelesz-hashimotomasaki-shinozukataiki-kamaigachi-20250615-location-food/",
+    "visited_date": "2025-06-15",
+    "members": [
+      "橋本将生",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "",
+    "description": "テレビ朝日『かまいガチ』1時間SPで橋本将生・篠塚大輝が+5kg大食い企画で訪れた焼肉食べ放題チェーン。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131707/13122165/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/200871/253445b12ed7d791f75b97f93725113e.jpg?token=1de92f6&amp;api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "壺漬けドラゴンハラミ"
+    ],
+    "tabelog_score": "3.08",
+    "price_range": "￥2,000～￥2,999"
   }
 ]
