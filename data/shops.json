@@ -46849,5 +46849,288 @@
     "tabelog_score": 3.66,
     "price_range": "-",
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 18:00 ■ 定休日不定休(インスタグラムにて記載しております)◯11時過ぎよりパンが焼け次第販売開始しております。無くなり次第終了となります。"
+  },
+  {
+    "id": "timelesz-a8cdf34b-20250617",
+    "name": "山小屋酒場ふもと",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "〒166-0002 東京都杉並区高円寺北3-21-1",
+    "lat": 35.7073164,
+    "lng": 139.6548546,
+    "youtube_id": "",
+    "source_video_title": "timeleszの時間ですよ（2025年6月17日）高円寺ロケ",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/a0559f38288984eda07641c335db0505926a3a67",
+    "visited_date": "2025-06-17",
+    "members": [
+      "篠塚大輝",
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "高円寺駅",
+    "description": "篠塚大輝・菊池風磨がtimeleszの時間ですよロケで訪れた高円寺の山小屋居酒屋",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13277894/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/304697/edbd42e7c888a5878dc7f0c97dfd5354.jpg?token=82bb102&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [],
+    "tabelog_score": 3.29,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金 16:00 - 00:00 L.O. 23:30 土・日 13:00 - 00:00 L.O. 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "timelesz-ee55e45a-20240301",
+    "name": "珈琲亭 七つ森",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "〒166-0003 東京都杉並区高円寺南2-20-20",
+    "lat": 35.7000231,
+    "lng": 139.6549094,
+    "youtube_id": "",
+    "source_video_title": "timelesz CMロケ地（高円寺）",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/8b8fffd0348a970b4f30e61ddb3afba68ef6e2f1",
+    "visited_date": "2024-03-01",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "高円寺駅",
+    "description": "timeleszのCMロケ地として使われた宮澤賢治の世界観の高円寺レトロ喫茶。人気プリンが名物",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13000675/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/269636/6eeebf8c0db70293d46173a3d0c8ae06.jpg?token=57bd2b0&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "プリン"
+    ],
+    "tabelog_score": 3.64,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "10:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "timelesz-cocochiyo_cafe-20251125",
+    "name": "cocochiyo cafe",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "〒160-0022 東京都新宿区新宿1丁目20-6 石原共同ビル",
+    "lat": 35.6895408,
+    "lng": 139.7130248,
+    "youtube_id": "",
+    "source_video_title": "タイムレスファミリア 地頭王企画（2025年11月25日）",
+    "source_url": "https://oshikatsu-time.com/timelesz-timelesfamilia-kikuchifuma-pudding/",
+    "visited_date": "2025-11-25",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "新宿御苑前駅",
+    "description": "タイムレスファミリア地頭王企画で菊池風磨がご褒美に食べた「とろ～り半熟ここちよプリン極」が人気のカフェ",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "とろ～り半熟ここちよプリン極"
+    ]
+  },
+  {
+    "id": "timelesz-c812a934-20250416",
+    "name": "パティスリー銀座千疋屋 銀座本店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "〒104-0045 東京都中央区築地3-7-2",
+    "lat": 35.6650914,
+    "lng": 139.7708281,
+    "youtube_id": "",
+    "source_video_title": "佐藤勝利から松島聡への差し入れ（インスタグラム 2025年4月）",
+    "source_url": "https://oshikatsu-time.com/timelesz-satoshouri-matsushimaso-instagram-20250416-sweets/",
+    "visited_date": "2025-04-16",
+    "members": [
+      "佐藤勝利",
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "築地駅",
+    "description": "佐藤勝利が松島聡への差し入れとして購入したプリンアラモードの銀座老舗パティスリー",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "プリンアラモード"
+    ]
+  },
+  {
+    "id": "timelesz-772a99c9-20250401",
+    "name": "葱や平吉 宇田川町店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町36-18",
+    "lat": 35.6620752,
+    "lng": 139.6974957,
+    "youtube_id": "",
+    "source_video_title": "菊池風磨 渋谷ネギ専門店ロケ地",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/05ad3c270f86972794c861c02dfd7a531e9d0aa9",
+    "visited_date": "2025-04-01",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "渋谷駅",
+    "description": "二宮和也・山田涼介・菊池風磨がロケで訪れた渋谷のネギ専門定食店。1500円でお釣りがくる大人気定食",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13024073/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/188202/eb586d2ce81b80182e47d683e0708b46.jpg?token=34f502c&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [],
+    "tabelog_score": 3.45,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "火・水・木・金 11:30 - 14:30 L.O. 14:00 18:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 14:30 L.O. 14:00 17:00 - 22:30 L.O. 21:30 月 定休日 ■営業時間の変更■2026年6月～8月（3カ月）の平日ディナーのみ、18時からの営業となります。ご理解のほど、よろしくお願いします。■ ご予約についてランチタ"
+  },
+  {
+    "id": "timelesz-74fca107-20250501",
+    "name": "喫茶トロント",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区入谷1-6-16 松田ビル1F",
+    "lat": 35.720709,
+    "lng": 139.7845821,
+    "youtube_id": "",
+    "source_video_title": "原嘉孝 入谷喫茶ロケ地",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/a70bb758c43a071d95cad70058df4815a948c6b2",
+    "visited_date": "2025-05-01",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "入谷駅",
+    "description": "相葉雅紀・末澤誠也・原嘉孝がロケで訪れた1965年創業の入谷のレトロ喫茶。デカプリンとオムライスが名物",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "デカプリン",
+      "オムライス"
+    ]
+  },
+  {
+    "id": "timelesz-f73889d0-20250823",
+    "name": "焼肉虎龍 浪漫亭",
+    "genre": "焼肉",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区堂島1-4-10 岩伸GALINAビル2F",
+    "lat": 34.6960202371769,
+    "lng": 135.49755097626345,
+    "youtube_id": "",
+    "source_video_title": "timelesz 大阪ロケ マリウス葉と焼肉（2025年8月23日）",
+    "source_url": "https://kosodate-and.net/timelesz-yakiniku-osaka/",
+    "visited_date": "2025-08-23",
+    "members": [
+      "佐藤勝利",
+      "橋本将生",
+      "猪俣周杜"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "渡辺橋駅",
+    "description": "timeleszとマリウス葉が大阪ロケで訪れた堂島の焼肉店",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27098972/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/332566/c40cc618f6986684338370a5e0faf0f9.jpg?token=a31f724&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [],
+    "tabelog_score": 3.52,
+    "price_range": "￥8,000～￥9,999",
+    "business_hours": "■ 営業時間18:00~深夜■定休日日曜日・祝日"
+  },
+  {
+    "id": "timelesz-latte_art_mania_toky-20250101",
+    "name": "Latte Art Mania Tokyo",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山2丁目",
+    "lat": 35.6712362,
+    "lng": 139.7164729,
+    "youtube_id": "",
+    "source_video_title": "菊池風磨 国立競技場カフェロケ地",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/c586bfbb717065185df91cf6b887a5d5be6ad184",
+    "visited_date": "2025-01-01",
+    "members": [
+      "菊池風磨"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "外苑前駅",
+    "description": "二宮和也・菊池風磨がロケで訪れたSNSで話題のラテアートカフェ",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ラテアート"
+    ]
   }
 ]
