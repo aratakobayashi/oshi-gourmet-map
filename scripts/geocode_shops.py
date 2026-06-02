@@ -40,8 +40,14 @@ def normalize(text: str) -> str:
 def simplify_address(address: str) -> str:
     """住所を丁目・番地以降を除いた形に短縮する"""
     address = normalize(address)
+    # 〒番号を除去（〒xxx-xxxx）
+    address = re.sub(r'^〒\d{3}[-－]\d{4}\s*', '', address).strip()
+    # ※以降のメモを除去
+    address = re.sub(r'\s*[※\*].+$', '', address).strip()
     # 番地（数字-数字）以降を除去
     address = re.sub(r'\d+[-－]\d+.*$', '', address).strip()
+    # 丁目の番地部分を除去（例: 1丁目3-2 → 1丁目）
+    address = re.sub(r'(\d+丁目)\d+.*$', r'\1', address).strip()
     # ビル名・フロア情報を除去
     address = re.sub(r'\s*(B?\d+F|地下\d+階|[0-9]+階).*$', '', address).strip()
     return address

@@ -32,6 +32,9 @@ def extract_prefecture_city(address: str) -> tuple:
     if not address:
         return prefecture, city
 
+    # 〒番号を除去
+    address = re.sub(r'^〒\d{3}[-－]\d{4}\s*', '', address).strip()
+
     # 都道府県
     pref_m = re.match(r'^(東京都|北海道|(?:京都|大阪)府|.{2,3}県)', address)
     if pref_m:
@@ -59,6 +62,9 @@ def normalize_shop(raw: dict, existing_ids: set):
     visited_date = raw.get('visited_date', '')
     address = raw.get('address', '')
     prefecture, city = extract_prefecture_city(address)
+    # スクレイパーが設定した prefecture をフォールバックとして使用
+    if not prefecture:
+        prefecture = raw.get('prefecture', '')
 
     shop_id = make_id(group, name, visited_date)
     # IDが重複したら連番を付与
