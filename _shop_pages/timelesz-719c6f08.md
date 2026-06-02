@@ -24,6 +24,4 @@ members:
   - "猪俣周杜"
 groups:
   - "timelesz"
-ordered_items:
-  - "「マリオンクレープ 東京タワー店」"
 ---

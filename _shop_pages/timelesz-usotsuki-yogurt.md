@@ -22,6 +22,4 @@ members:
   - "松島聡"
 groups:
   - "timelesz"
-ordered_items:
-  - "『USOTSUKI YOGURT（ウソツキヨーグルト）』"
 ---

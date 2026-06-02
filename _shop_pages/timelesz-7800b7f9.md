@@ -22,6 +22,4 @@ members:
   - "篠塚大輝"
 groups:
   - "timelesz"
-ordered_items:
-  - "「マリオンクレープ 原宿竹下通り店」"
 ---

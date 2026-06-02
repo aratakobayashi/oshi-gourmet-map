@@ -25,5 +25,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "「台湾餃子LAOLEE（ラオリー）」中目黒店"
+  - "台湾餃子LAOLEE（ラオリー）"
 ---

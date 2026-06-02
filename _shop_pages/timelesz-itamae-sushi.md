@@ -27,6 +27,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "「東京寿司 ITAMAE SUSHI 愛宕店」"
-  - "「選抜極上にぎりセット」"
+  - "選抜極上にぎりセット"
 ---

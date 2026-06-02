@@ -27,6 +27,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "「つるとんたん UDON NOODLE Brasserie 六本木」"
-  - "「徳島直送 すだちのおうどん」"
+  - "徳島直送 すだちのおうどん"
 ---

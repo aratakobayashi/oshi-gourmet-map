@@ -17,6 +17,4 @@ members:
   - "篠塚大輝"
 groups:
   - "timelesz"
-ordered_items:
-  - "「サンリオピューロランド」の「レディキティハウス」"
 ---

@@ -23,6 +23,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "「五十鈴茶屋 本店"
   - "赤福餅（税込400円）"
 ---
