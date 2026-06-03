@@ -9,6 +9,7 @@ prefecture: "三重県"
 city: "伊勢市"
 address: "〒516-0025 三重県伊勢市宇治中之切町３０"
 price_range: "￥1,000～￥1,999"
+visited_date: "2025-09-27"
 source_video_title: "タイムレスマン ゴールデン特番「東海道中！脱落旅」"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/"
 group: "timelesz"
@@ -19,7 +20,14 @@ lat: 34.462783
 lng: 136.7235288
 tabelog_score: 3.68
 members:
-  - "山下智久"
+  - "菊池風磨"
+  - "佐藤勝利"
+  - "松島聡"
+  - "寺西拓人"
+  - "原嘉孝"
+  - "橋本将生"
+  - "猪俣周杜"
+  - "篠塚大輝"
 groups:
   - "timelesz"
 ordered_items:
