@@ -47940,5 +47940,44 @@
     "ordered_items": [
       "塩バニラ＆プレミアムミルク"
     ]
+  },
+  {
+    "id": "timelesz-fadd6c91-20250927",
+    "name": "松阪まるよし 鎌田本店",
+    "genre": "松阪牛・和食",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "〒515-0005 三重県松阪市鎌田町239-2",
+    "lat": 34.5833867,
+    "lng": 136.5359884,
+    "youtube_id": "",
+    "source_video_title": "タイムレスマン ゴールデン特番「東海道中！脱落旅」（2025年9月27日 フジテレビ系）",
+    "source_url": "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/",
+    "visited_date": "2025-09-27",
+    "members": [
+      "菊池風磨",
+      "佐藤勝利",
+      "松島聡",
+      "寺西拓人",
+      "原嘉孝",
+      "橋本将生"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "JR松阪駅から徒歩約10分",
+    "description": "松阪牛専門の老舗レストラン。タイムレスマンゴールデン特番「東海道中！脱落旅」にて、脱落ゲームを勝ち残った6人が特製松阪牛ステーキ丼（150g）を堪能。松阪駅から徒歩約10分。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "特製ステーキ丼（150g）"
+    ]
   }
 ]
