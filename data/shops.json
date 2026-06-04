@@ -47906,5 +47906,39 @@
       "究極のタン",
       "スポイトイチボ"
     ]
+  },
+  {
+    "id": "timelesz-jam17_gelateria-20250617",
+    "name": "JAM17 GELATERIA",
+    "genre": "ジェラート・アイスクリーム",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-29-1 東急歌舞伎町タワー17F",
+    "lat": 35.694,
+    "lng": 139.7017,
+    "youtube_id": "",
+    "source_video_title": "timeleszの時間ですよ（2025年6月17日）",
+    "source_url": "https://tabelog.com/tokyo/A1304/A130401/13284072/",
+    "visited_date": "2025-06-17",
+    "members": [
+      "猪俣周杜"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "西武新宿駅から徒歩1分、新宿駅東口から徒歩5分",
+    "description": "東急歌舞伎町タワー17Fにある絶景ジェラート店。猪俣周杜が「塩バニラ＆プレミアムミルク」を楽しんだ。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "塩バニラ＆プレミアムミルク"
+    ]
   }
 ]
