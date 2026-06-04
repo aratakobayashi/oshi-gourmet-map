@@ -47613,5 +47613,48 @@
     ],
     "tabelog_score": "3.45",
     "price_range": "-"
+  },
+  {
+    "id": "timelesz-0ade3661-20260216",
+    "name": "中華料理 大進亭",
+    "genre": "中華料理",
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "address": "東京都八王子市大楽寺町184",
+    "lat": 35.6711618,
+    "lng": 139.2909004,
+    "youtube_id": "",
+    "source_video_title": "timeleszファミリア ドンデコルテ企画（2026年2月16日 日テレ系）",
+    "source_url": "https://www.tvguide.or.jp/news/news-4392874/",
+    "visited_date": "2026-02-16",
+    "members": [
+      "菊池風磨",
+      "佐藤勝利",
+      "松島聡",
+      "寺西拓人",
+      "原嘉孝",
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "西八王子駅",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13010459/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/10453/10453803.jpg?token=a70b3b2&amp;api=v2",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "あんかけ五目焼きそば（デカ盛り）"
+    ],
+    "tabelog_score": "3.52",
+    "price_range": "￥1,000～￥1,999"
   }
 ]
