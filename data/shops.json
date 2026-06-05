@@ -4662,51 +4662,6 @@
     "nearest_station": "新宿駅 徒歩2分"
   },
   {
-    "id": "sixtones-minmin-hachioji",
-    "name": "みんみんラーメン",
-    "genre": "ラーメン",
-    "prefecture": "東京都",
-    "city": "八王子市",
-    "address": "東京都八王子市楢原町437-1",
-    "lat": 35.651842,
-    "lng": 139.285633,
-    "youtube_id": "3QQBHdy3Apg",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "田中樹",
-      "森本慎太郎"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2024-02-16",
-    "description": "創業35年の八王子ラーメン老舗。後輩・矢花黎のオススメ店。「ただただ美味しいラーメンを食べる動画」（ストチューブ2024年2月16日配信）で6人が八王子ラーメンを堪能。",
-    "tags": [
-      "ラーメン",
-      "八王子",
-      "東京",
-      "聖地巡礼"
-    ],
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1326/A132602/13136283/"
-      }
-    ],
-    "source_video_title": "SixTONES【八王子ラーメンを食べまくる】バクバクモグモグ動画です🍜",
-    "source_video_url": "https://www.youtube.com/watch?v=3QQBHdy3Apg",
-    "thumbnail_url": "https://img.youtube.com/vi/3QQBHdy3Apg/hqdefault.jpg",
-    "tabelog_score": 3.71,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "火・水・木・金・土・日 11:00 - 16:00 L.O. 15:40 17:00 - 20:00 L.O. 19:40 月 定休日 ■ 営業時間11:00～16:00(L.O.15:40頃)17:00～20:00(L.O.19:40頃) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
-    "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13016383/",
-    "nearest_station": "高尾駅 徒歩18分"
-  },
-  {
     "id": "sixtones-ukigumori-ikaho",
     "name": "浮曇（うきぐもり）",
     "genre": "居酒屋",
@@ -54976,8 +54931,8 @@
     "prefecture": "東京都",
     "city": "府中市",
     "address": "東京都府中市緑町3-17-5",
-    "lat": 35.0118489,
-    "lng": 135.7501042,
+    "lat": 35.671134298635764,
+    "lng": 139.49428768447322,
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】第6話で山里がしずちゃんの言動につっこんでいた定食屋さんは？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-kikuyoshi",

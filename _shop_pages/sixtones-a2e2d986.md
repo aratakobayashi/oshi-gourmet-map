@@ -14,8 +14,8 @@ group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13077589/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/301821/2f431252869a20ee6166c08fb8ff27d9.jpg?token=5c15e4f&api=v2"
 business_hours: "月・火・水・木・金 11:00 - 13:30 17:00 - 23:00 土 11:00 - 14:30 17:00 - 21:00 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-lat: 35.0118489
-lng: 135.7501042
+lat: 35.671134298635764
+lng: 139.49428768447322
 tabelog_score: 3.22
 members:
   - "ジェシー"
