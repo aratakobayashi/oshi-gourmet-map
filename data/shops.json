@@ -48657,42 +48657,6 @@
     ]
   },
   {
-    "id": "naniwa-05b333b8-20251219",
-    "name": "伊豆パノラマパーク",
-    "genre": "カフェ",
-    "prefecture": "静岡県",
-    "city": "伊豆の国市",
-    "address": "静岡県伊豆の国市長岡260-1",
-    "lat": 35.034857,
-    "lng": 138.926194,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-12-19)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-12-19",
-    "visited_date": "2025-12-19",
-    "members": [
-      "道枝駿佑"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "大人（中学生以上）（3,500円）",
-      "小学生（1,800円）",
-      "幼児（3歳以上）（900円）"
-    ]
-  },
-  {
     "id": "naniwa-bakery_table_sweets-20251219",
     "name": "Bakery＆Table Sweets 伊豆",
     "genre": "カフェ",
@@ -48855,72 +48819,6 @@
     "ordered_items": [
       "▶藤原くんは「抹茶リチュアル 1300円",
       "※原宿店限定」「抹茶どらやき 420円"
-    ]
-  },
-  {
-    "id": "naniwa-koishikawa_xross-20251212",
-    "name": "デジタル文化財ミュージアム KOISHIKAWA XROSS®",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区水道1丁目3番3号 TOPPAN小石川本社ビル 地下1階",
-    "lat": 35.709285,
-    "lng": 139.7421911,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-12-12)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-12-12",
-    "visited_date": "2025-12-12",
-    "members": [
-      "藤原丈一郎"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "naniwa-bc52e4d3-20251212",
-    "name": "シムピットストア",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "江戸川区",
-    "address": "東京都江戸川区南葛西1-12-16 ユーセンスビル2階",
-    "lat": 35.648195,
-    "lng": 139.8735315,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-12-12)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-12-12",
-    "visited_date": "2025-12-12",
-    "members": [
-      "藤原丈一郎"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "30分コースで\n3,960円"
     ]
   },
   {
@@ -50409,38 +50307,6 @@
     "ordered_items": []
   },
   {
-    "id": "naniwa-95e5851d-20250124",
-    "name": "グランドメルキュール八ヶ岳リゾート＆スパ",
-    "genre": "焼肉",
-    "prefecture": "山梨県",
-    "city": "北杜市",
-    "address": "山梨県北杜市大泉町西井出 8240番地1039",
-    "lat": 35.8689864,
-    "lng": 138.4024358,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-01-24)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-01-24",
-    "visited_date": "2025-01-24",
-    "members": [
-      "西畑大吾"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "naniwa-bub_resort_yatsugata-20250124",
     "name": "BUB RESORT Yatsugatake",
     "genre": "食事",
@@ -50449,38 +50315,6 @@
     "address": "山梨県北杜市高根町清里 字念場原3545-1-148",
     "lat": 35.9417491,
     "lng": 138.4395514,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-01-24)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-01-24",
-    "visited_date": "2025-01-24",
-    "members": [
-      "西畑大吾"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "naniwa-f34dd358-20250124",
-    "name": "ホテル アンダの森 山形天童店",
-    "genre": "食事",
-    "prefecture": "山形県",
-    "city": "天童市",
-    "address": "山形県天童市鎌田本町２丁目４−５１",
-    "lat": 38.35733,
-    "lng": 140.382437,
     "youtube_id": "",
     "source_video_title": "なにわ男子のどっち派 (2025-01-24)",
     "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-01-24",
@@ -50797,70 +50631,6 @@
     "ordered_items": []
   },
   {
-    "id": "naniwa-4b69b242-",
-    "name": "グラングリーン大阪",
-    "genre": "食事",
-    "prefecture": "",
-    "city": "",
-    "address": "大阪市北区大深町6番86号",
-    "lat": 34.705386,
-    "lng": 135.4927242,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-ryusei1",
-    "visited_date": "",
-    "members": [
-      "大西流星"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "naniwa-158fb1a7-",
-    "name": "イノゲート大阪",
-    "genre": "焼肉",
-    "prefecture": "",
-    "city": "",
-    "address": "大阪市北区梅田三丁目2番123号",
-    "lat": 34.7017378,
-    "lng": 135.4932578,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-ryusei1",
-    "visited_date": "",
-    "members": [
-      "大西流星"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "naniwa-65478ad5-",
     "name": "新世界市場",
     "genre": "カフェ",
@@ -50909,139 +50679,6 @@
     "visited_date": "",
     "members": [
       "高橋恭平"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "naniwa-cae81965-",
-    "name": "ティフォニウム お台場",
-    "genre": "居酒屋",
-    "prefecture": "東京都",
-    "city": "江東区",
-    "address": "東京都江東区青海1-1-10",
-    "lat": 35.6137752,
-    "lng": 139.7814016,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-kyohei2",
-    "visited_date": "",
-    "members": [
-      "高橋恭平"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "■WEB予約\n2300円",
-      "■当日チケット\n2500円"
-    ]
-  },
-  {
-    "id": "naniwa-f996830f-",
-    "name": "パデル東京ミズマチ",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "墨田区",
-    "address": "東京都墨田区向島1-32-4",
-    "lat": 35.7159673,
-    "lng": 139.8093821,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-kyohei2",
-    "visited_date": "",
-    "members": [
-      "高橋恭平"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "■パデル体験(60分)\n1000円"
-    ]
-  },
-  {
-    "id": "naniwa-3a37a9f9-",
-    "name": "谷中銀座商店街",
-    "genre": "カフェ",
-    "prefecture": "東京都",
-    "city": "台東区",
-    "address": "東京都台東区谷中３丁目８−１２",
-    "lat": 35.726835,
-    "lng": 139.7658348,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-michi2",
-    "visited_date": "",
-    "members": [
-      "道枝駿佑"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "naniwa-4530d146-",
-    "name": "下町人情キラキラ橘商店街",
-    "genre": "焼肉",
-    "prefecture": "東京都",
-    "city": "墨田区",
-    "address": "東京都墨田区京島3-52-3",
-    "lat": 35.7156541,
-    "lng": 139.820884,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-michi2",
-    "visited_date": "",
-    "members": [
-      "道枝駿佑"
     ],
     "groups": [
       "naniwa"
