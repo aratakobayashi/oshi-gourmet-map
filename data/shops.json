@@ -48003,17 +48003,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22034667/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/130009/130009604.jpg?token=0b053d9&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "ごろごろいちごソフト 1200円",
       "あふれる100粒いちごパフェ 9000円"
-    ]
+    ],
+    "tabelog_score": 3.5,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "10:00 - 18:00 ■ 定休日なし ※定休日がある場合は、HPに掲載します。"
   },
   {
     "id": "naniwa-2c7cd0a3-20260327",
@@ -48072,16 +48075,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22045372/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352285/52cc809c02e26948b56885d22a4fbf23.jpg?token=0889d9b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "焼き小龍包 660円"
-    ]
+    ],
+    "tabelog_score": 3.04,
+    "price_range": "-",
+    "business_hours": "月・水・木・金・土・日・祝日 11:00 - 17:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-8c7601f0-20260327",
@@ -48106,16 +48112,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22045534/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362031/40c05499bfcf07dd23ed3131eb51461a.jpg?token=733b7b4&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "薬味まみれのマグロ・サーモン丼 2948円"
-    ]
+    ],
+    "tabelog_score": 3.08,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 10:00 - 17:00 土 10:00 - 20:00 日 10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-himono_dining-20260327",
@@ -48140,16 +48149,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22019758/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/255429/7d686dc3c5ef7829b7e987f0f2888d36.jpg?token=9003d29&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "ひものオーバーライス 1500円"
-    ]
+    ],
+    "tabelog_score": 3.34,
+    "price_range": "-",
+    "business_hours": "月・木・金・土・日・祝日・祝前日・祝後日 08:00 - 16:00 L.O. 料理15:00 ドリンク15:30 火・水 定休日 花火大会の日は夜も営業いたします。"
   },
   {
     "id": "naniwa-a9c8b77b-20260327",
@@ -48174,16 +48186,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22042447/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/243339/131646c28643e33c39c0812337aa60e2.jpg?token=13e1fb4&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "炙りてっぺん丼  2838円"
-    ]
+    ],
+    "tabelog_score": 3.29,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 12:00 - 22:00 L.O. 21:00 祝日、繁忙期を除く、火曜日店休"
   },
   {
     "id": "naniwa-goddog-20260313",
@@ -48208,16 +48223,24 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131502/13294226/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131502/13294226/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/246139/f2066fe54c3c6729772f436263f61993.jpg?token=45749da&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "ゴッドドッグ 700円"
-    ]
+    ],
+    "tabelog_score": 3.32,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "水・木・金 11:00 - 18:00 18:00 - 22:00 土・日・祝日 11:00 - 19:00 月・火 定休日 月曜日 火曜日 定休日祝月営業オリジナルジャパニーズホットドッグやスペシャリティコーヒー静岡産West Coast Brewingのクラフトビールなどを提供してます。水曜日木曜日金曜日はお酒に合う一品料理をご用意し、22時まで営業しております。仕事終わりの一杯や0次会など、"
   },
   {
     "id": "naniwa-getti-20260313",
@@ -48239,19 +48262,27 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "中目黒駅 徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13318433/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13318433/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344073/ec5ea3f77f68c52c749c8937d6fda5e0.jpg?token=cacbb25&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "牛バラ煮込みの飲めるボロネーゼ 1958円"
-    ]
+    ],
+    "tabelog_score": 3.41,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 22:00 L.O. 21:00 不定休ランチ営業は16時までとなります。スープがなくなり次第営業終了となります。ご了承ください。"
   },
   {
     "id": "naniwa-b951ca5b-20260313",
@@ -48276,14 +48307,22 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13315506/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130404/13315506/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/332295/8cf15e90061201dfa23d401f15828bcb.jpg?token=a5bbc0a&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.25,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・祝前日・祝後日 11:00 - 15:00 L.O. 14:30 15:00 - 23:00 L.O. 料理22:00 ドリンク22:30 土・日・祝日 11:00 - 23:00 L.O. 料理22:00 ドリンク22:30"
   },
   {
     "id": "naniwa-ygyg-20260313",
@@ -48340,16 +48379,18 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11066008/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360497/2776235dddd1a044ac3f5577d48bb550.jpg?token=b4e7b80&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "サンダルヨーグルト 1500円"
-    ]
+    ],
+    "tabelog_score": 3.07,
+    "price_range": "-"
   },
   {
     "id": "naniwa-truffle_bakery-20260313",
@@ -48374,14 +48415,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13243038/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355780/16287b52bc3be2887c42f987914e0361.jpg?token=e19bb05&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.53,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 09:00 - 21:00 土・日・祝日 09:00 - 20:00 ■ 定休日不定休"
   },
   {
     "id": "naniwa-5b8baf8d-20260306",
@@ -48406,14 +48450,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13222857/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/297602/45670d2fcbc821822102e4d6a118edb1.jpg?token=af69e5e&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.03,
+    "price_range": "-",
+    "business_hours": "07:00 - 22:45 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-da17372d-20260306",
@@ -48438,14 +48485,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131813/13276728/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360220/d405d93963b0c0329965bd7d3c4bc350.jpg?token=4fae9d8&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.02,
+    "price_range": "-"
   },
   {
     "id": "naniwa-225f9d2b-20260306",
@@ -48470,14 +48519,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1102/A110204/11059612/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/195112/356bd7ffe68782cd4f5036f706bf77da.jpg?token=8e0a549&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.02,
+    "price_range": "￥1,000～￥1,999"
   },
   {
     "id": "naniwa-neo_nice_burger-20260123",
@@ -48502,10 +48553,10 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13316356/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343890/e7d3339df17e6f61b5bf79987c5379c0.jpg?token=94399c8&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -48514,7 +48565,10 @@
       "ブラウンマッシュルームバーガー 760円",
       "ナスアラビアータバーガー 660円",
       "ブロッコリーチーズバーガー 660円"
-    ]
+    ],
+    "tabelog_score": 3.31,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日 10:00 - 20:00 L.O. 料理19:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-d401a13e-20260123",
@@ -48539,17 +48593,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13312190/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360858/1e60b0ab10e96a0173a925eec0613a77.jpg?token=1074853&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "新・醤油ラーメン（豚バラチャーシュー） 730円",
       "新・塩ラーメン（豚バラチャーシュー） 730円"
-    ]
+    ],
+    "tabelog_score": 3.46,
+    "price_range": "～￥999",
+    "business_hours": "07:00 - 23:00 L.O. 22:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-6e681b2c-20260123",
@@ -48574,10 +48631,10 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13313778/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361431/afec30185a4c2409259d1c3e5721e48f.jpg?token=66c3f9b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -48586,7 +48643,10 @@
       "チーズケーキ 770円",
       "利平栗のモンブラン 1320円",
       "御養卵３層プリン 495円"
-    ]
+    ],
+    "tabelog_score": 3.48,
+    "price_range": "-",
+    "business_hours": "10:00 - 20:00 【定休日】ニュウマン高輪の定休日に準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-87719514-20260123",
@@ -48611,16 +48671,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1322/A132203/13042678/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/350106/501fc55760cb0365d60d9e74317f928e.jpg?token=66053be&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "ほうじ茶御膳 979円"
-    ]
+    ],
+    "tabelog_score": 3.07,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金 11:00 - 22:00 土・日 10:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-bfe243ac-20251219",
@@ -48645,16 +48708,18 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220504/22038716/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/351996/888ad6b4e730893bab8212c6440885ee.jpg?token=4e0d907&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶道枝くんが食べたものは「ズガニラーメン 2420円"
-    ]
+    ],
+    "tabelog_score": 3.23,
+    "price_range": "-"
   },
   {
     "id": "naniwa-bakery_table_sweets-20251219",
@@ -48748,16 +48813,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13311006/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/307371/b002be02ae1fb8c68529f2aa02faa6ef.jpg?token=3d8c751&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "ラクレットチョコのドバイフレンチトースト\n1980円"
-    ]
+    ],
+    "tabelog_score": 3.06,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 10:00 - 17:00 L.O. 16:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-aee7c792-20251107",
@@ -48782,17 +48850,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0903/A090303/9012543/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345091/30c124da03e3cf67e71f451f9cd1c022.jpg?token=4116194&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "大人 (中学生以上)（2,800円）",
       "小人 (4歳以上)（1,400円）"
-    ]
+    ],
+    "tabelog_score": 3.1,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "10:30 - 18:00 L.O. 17:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-le_coup_de_foudre-20251107",
@@ -48851,14 +48922,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0903/A090301/9023212/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/295444/bbc3d89a114b7e9203297f4023ca80f6.jpg?token=feb7923&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.09,
+    "price_range": "～￥999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 09:00 - 17:30 ［12~2月］10:00-17:30［3～11月］9:00-17:30"
   },
   {
     "id": "naniwa-trickys-20251107",
@@ -48883,16 +48957,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tochigi/A0903/A090303/9023567/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/images/no_photo_350x350.gif",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "「ゆばクレープ 680円"
-    ]
+    ],
+    "price_range": "-"
   },
   {
     "id": "naniwa-cheesetable-20251017",
@@ -48917,16 +48992,24 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13121923/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130501/13121923/?cid=google_yoyaku"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/305328/cd945b6910aa557385c405863e0cc010.jpg?token=d89c30f&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "「搾りたて！クワトロチーズのモンブランハンバーグ 2480円"
-    ]
+    ],
+    "tabelog_score": 3.35,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・祝前日 11:45 - 23:00 L.O. 22:00 土・日・祝日 11:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
   },
   {
     "id": "naniwa-d355c504-20251017",
@@ -48951,16 +49034,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13278742/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343323/fc163e8a48b7a33dc391c3e27a9bbac9.jpg?token=19508cc&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "「ハンバーグ200g(とろろわさび＆めんたいクリーム) 1830円"
-    ]
+    ],
+    "tabelog_score": 3.47,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 21:00 L.O. 20:30"
   },
   {
     "id": "naniwa-d73bcd8f-20251017",
@@ -48985,16 +49071,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13270846/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185375/6d3aaa3a1729106ccd93f8e387f51209.jpg?token=a4e95cb&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "紹介されたメニュー▶ハンバーグ定食 1.5人前 2380円"
-    ]
+    ],
+    "tabelog_score": 3.49,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 16:00 18:00 - 21:00 ※お盆・年末年始は休業"
   },
   {
     "id": "naniwa-bf5833e4-20251017",
@@ -49088,16 +49177,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/chiba/A1204/A120402/12006999/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/308256/afe4daefac4b8748b05d39befe072d22.jpg?token=3a301da&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "「海鮮タワー丼 4950円"
-    ]
+    ],
+    "tabelog_score": 3.07,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 22:00 L.O. 料理21:30 ■ 定休日無休"
   },
   {
     "id": "naniwa-ob-20251003",
@@ -49122,16 +49214,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1102/A110205/11004852/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/325694/83a26ad126302f6a5c3f80278e76d740.jpg?token=58072d7&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "「クリームソーダパフェ 990円"
-    ]
+    ],
+    "tabelog_score": 3.1,
+    "price_range": "～￥999",
+    "business_hours": "09:00 - 20:30 L.O. 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-2d6045c1-20251003",
@@ -49190,16 +49285,24 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13305868/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13305868/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/287651/f6ef315bd28d0f016d2abef1a95fbcb0.jpg?token=ae7cf10&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "【サラミ・デビル 2310円"
-    ]
+    ],
+    "tabelog_score": 3.42,
+    "price_range": "￥5,000～￥5,999",
+    "business_hours": "月・火・水・木・金 11:30 - 15:00 17:00 - 23:00 土・日・祝日 11:30 - 23:00"
   },
   {
     "id": "naniwa-rahmeneddie-20250711",
@@ -49224,16 +49327,24 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130402/13279624/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130402/13279624/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/268569/3b4dddfa2506eb8765a87e472776246b.jpg?token=db386f6&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "【夏野菜と胡麻風味のバーニャカウダつけ麺 1280円"
-    ]
+    ],
+    "tabelog_score": 3.64,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・祝日・祝前日・祝後日 11:00 - 22:30 L.O. 22:00 日 11:00 - 20:30 L.O. 20:00"
   },
   {
     "id": "naniwa-967fc4f7-20250711",
@@ -49258,16 +49369,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130402/13259936/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/162673/162673992.jpg?token=b832f94&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "【マンゴーチェダーチーズプリンロール 1300円"
-    ]
+    ],
+    "tabelog_score": 3.62,
+    "price_range": "～￥999",
+    "business_hours": "月・火・水・木・金 08:30 - 17:00 土・日・祝日 08:00 - 17:00 ■ 営業時間【平日】Morning AM8:30～11:30Cafetime AM8:30〜17:00(LO)【土・日・祝】Morning AM8:00～11:30Cafetime AM8:00〜17:00(LO)■ 定休日不定休。 インスタグラム、GoogleMAPを参照してください。"
   },
   {
     "id": "naniwa-noodle-20250711",
@@ -49292,16 +49406,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13311142/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/351926/b659e1708aabd5ac2feaa5a87f083eb3.jpg?token=4cea316&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "番組で紹介されていたメニューは【プレミアムサーモントリュフ 1400円"
-    ]
+    ],
+    "tabelog_score": 3.38,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 15:00 L.O. 料理14:30 17:00 - 21:00 L.O. 料理20:30 不定休"
   },
   {
     "id": "naniwa-06315243-20250711",
@@ -49326,16 +49443,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13311092/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/321819/b86f1514a3b6a43ca127a320b8460ad0.jpg?token=70a68ff&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "番組で紹介されていたメニューは【ボンゴレビアンコの油そば 1180円"
-    ]
+    ],
+    "tabelog_score": 3.15,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・金・土・日 11:00 - 15:00 17:00 - 21:00 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-surabi-20250711",
@@ -49394,16 +49514,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13304752/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349027/c4685861800ea05e3e54481d99c53ff2.jpg?token=f34335c&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "【オリジナルチュロス 350円"
-    ]
+    ],
+    "tabelog_score": 3.21,
+    "price_range": "～￥999",
+    "business_hours": "11:00 - 22:00 ※なくなり次第終了定休日：12/31～1/3、不定休"
   },
   {
     "id": "naniwa-7a004fee-20250711",
@@ -49428,14 +49551,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27146260/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/278285/2bf418744b1be0e4911f22b8aa819d82.jpg?token=646e653&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.38,
+    "price_range": "-",
+    "business_hours": "11:00 - 22:00"
   },
   {
     "id": "naniwa-22238bdc-20250516",
@@ -49460,17 +49586,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132002/13095528/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/273084/d66038ae8199dd9cef8cd91b9ad8333a.jpg?token=7f40d8b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "鶏肉のカシューナッツ炒め 824円",
       "大西くんが食べたメニュー▶海老の甘酢(あま〜ず)台北炒め 934円"
-    ]
+    ],
+    "tabelog_score": 3.07,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日 10:00 - 23:30"
   },
   {
     "id": "naniwa-be21cf59-20250516",
@@ -49495,16 +49624,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13165755/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/335746/15e6b1b04afa715ed9fea4499a72ea54.jpg?token=e8efadb&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "抹茶みるくクリーム 鎌DORA 693円"
-    ]
+    ],
+    "tabelog_score": 3.08,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 22:00 L.O. 21:30"
   },
   {
     "id": "naniwa-76a10e70-20250516",
@@ -49526,20 +49658,23 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "JR武蔵境駅 徒歩26分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132003/13095529/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337615/d358dbd83e1e6eb9ecf889cbf8f0e82d.jpg?token=0e066db&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "豚なんこつの葱つけ麺と野菜かき揚げ 1429円",
       "大西くんが食べたメニュー▶大葉と梅香る・ジェノベーゼ風サラダうどん 1099円"
-    ]
+    ],
+    "tabelog_score": 3.05,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日 07:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-nib-20250411",
@@ -49564,16 +49699,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130202/13304544/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/281747/2be06cba5b22caefbde7feacbaabe402.jpg?token=3bdeb76&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "カカオのデザートコース 5,500円"
-    ]
+    ],
+    "tabelog_score": 3.51,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・木・金・土・日・祝日・祝前日・祝後日 12:00 - 20:00 L.O. 料理19:00 水 定休日 アラカルトメニューのみウォークインでのご利用可能となります。コースメニューはご予約のみの受付となります。当日ご予約も受け付けております。年末年始等で休業日となる場合がございます。【臨時営業・休業のご案内】2026年2月11日（水）臨時営業（12:00〜20:00）2026年2月17日（火"
   },
   {
     "id": "naniwa-glace_letoile-20250411",
@@ -49598,14 +49736,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13291106/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/226448/052ca2b94fe768e48d1e9953f2b90266.jpg?token=770adc6&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.12,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・祝前日・祝後日 11:00 - 14:00 15:00 - 17:30 土・日・祝日 定休日"
   },
   {
     "id": "naniwa-mr_cheesecake_ginza-20250411",
@@ -49630,16 +49771,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13307221/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/325813/9b6910b3e9aec4a42f9a7a9300e7ec59.jpg?token=602f959&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶デザートコース 6,930円"
-    ]
+    ],
+    "tabelog_score": 3.34,
+    "price_range": "-",
+    "business_hours": "10:30 - 20:30 ※カフェ営業時間： 平日 12:30～20:30（L.O. 20:00） 土日 14:00〜20:30（L.O. 20:00）※季節の限定コース開催期間は、カフェ営業時間を15:00〜20:30（L.O. 20:00）とさせていただきます※営業日・営業時間はGINZA SIXに準ずるものとします※営業日・営業時間の変更等は公式Instagramをご確認ください"
   },
   {
     "id": "naniwa-park_store-20250411",
@@ -49664,16 +49808,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13255265/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/346747/92d0c3ac86fb5fab008896e67c342920.jpg?token=02b0f9f&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶抹茶クリームドーナツ 560円"
-    ]
+    ],
+    "tabelog_score": 3.5,
+    "price_range": "～￥999",
+    "business_hours": "12:00 - 18:00"
   },
   {
     "id": "naniwa-the_cookie_594-20250411",
@@ -49698,16 +49845,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13272852/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/350450/4b15af3efe71375bae5a7f2b32465727.jpg?token=27cff02&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶焼き芋タオルケーキ 900円"
-    ]
+    ],
+    "tabelog_score": 3.49,
+    "price_range": "～￥999",
+    "business_hours": "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-hiiragi_ginza-20250411",
@@ -49766,17 +49916,25 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131604/13302242/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131604/13302242/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/271496/485d59a4fc804c7fe0dd9b1f52d821e1.jpg?token=1c8e911&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶4種のデリプレート スープ・パン付き 1200円",
       "▶桜えびと菜の花のペペロンチーノ 1500円"
-    ]
+    ],
+    "tabelog_score": 3.36,
+    "price_range": "￥10,000～￥14,999",
+    "business_hours": "月・火・水・木・金・祝前日・祝後日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 土・祝日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 21:00 L.O. 料理20:00 ドリンク20:30 日 11:00 - 15:00 L.O. 14:00 17"
   },
   {
     "id": "naniwa-ana-20250321",
@@ -49801,14 +49959,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13057189/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/11582/11582225.jpg?token=54cadeb&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.28,
+    "price_range": "￥6,000～￥7,999",
+    "business_hours": "■ 営業時間[チェックイン]15:00[チェックアウト]11:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-feedy_diner_arcade-20250321",
@@ -49833,17 +49994,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/osaka/A2706/A270604/27145800/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/308781/aae08d1db19a11d89ea8f45ef12d1947.jpg?token=a917f1e&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶Feedyチキンバーガー 1188円",
       "▶クラッシュゼリーソーダ 583円"
-    ]
+    ],
+    "tabelog_score": 3.07,
+    "price_range": "～￥999",
+    "business_hours": "11:00 - 22:00 L.O. 料理21:00 施設の定休日に準ずる"
   },
   {
     "id": "naniwa-fd99efc0-20250321",
@@ -49865,13 +50029,18 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "JR武蔵野線 北朝霞駅 徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110301/11063196/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110301/11063196/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/292812/26341162ae62e2e0effcae657df0e27f.jpg?token=a6a25f3&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -49879,7 +50048,10 @@
       "▶名物餃子５個 770円",
       "▶麻辣春雨 990円",
       "▶レタス炒飯 990円"
-    ]
+    ],
+    "tabelog_score": 3.39,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金 11:00 - 14:00 L.O. 13:30 17:00 - 22:30 L.O. 22:00 土・日・祝日 11:00 - 14:00 L.O. 13:30 15:00 - 22:30 L.O. 22:00 4/20 定休日とさせていただきます。"
   },
   {
     "id": "naniwa-9502d159-20250321",
@@ -49904,17 +50076,25 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13247085/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131002/13247085/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361314/b2c462bc09483723f9d222aa5e2e2743.jpg?token=2e8f4f4&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶自分で作る！出汁巻き玉子 440円",
       "▶自分で作る！田中のおにぎり 572円"
-    ]
+    ],
+    "tabelog_score": 3.05,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木 17:00 - 01:00 金・祝前日 17:00 - 02:00 土・日・祝日 17:00 - 00:00 ■ 営業時間※営業時間は変更になる場合がございます。最新の営業状況は店舗へお問い合わせください。■定休日無休"
   },
   {
     "id": "naniwa-kuramae_cannele-20250321",
@@ -49939,16 +50119,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131103/13281428/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214537/7a2652a7c18d3441df66d6bf9afbf83c.jpg?token=d2ab52d&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶抹茶deカヌレサンデー 980円"
-    ]
+    ],
+    "tabelog_score": 3.57,
+    "price_range": "-",
+    "business_hours": "火・水・木・金 11:00 - 18:00 L.O. 17:00 土・日・祝日 11:00 - 19:00 L.O. 18:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-ancolo_cafe-20250321",
@@ -49970,19 +50153,27 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "J R山手線 目黒駅 西口 徒歩2分都営三田線 目黒駅 徒歩2分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13302365/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131601/13302365/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/270896/c66e2d99a39c0c234f3cd5882b0c61d0.jpg?token=0dca1ac&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶つきたてあんこもちと高級抹茶セット 1380円"
-    ]
+    ],
+    "tabelog_score": 3.49,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "木・金・土・日・祝日 11:00 - 19:00 月・火・水 定休日 月曜・火曜・水曜も祝日の場合は営業します。"
   },
   {
     "id": "naniwa-ajillo-20250321",
@@ -50007,16 +50198,24 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13303536/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131002/13303536/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/322390/6836ff741bcaffc9c1b518260b93a5bf.jpg?token=917fa2d&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "▶オリジナルアヒージョ 具材１種類 270円"
-    ]
+    ],
+    "tabelog_score": 3.3,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "火・水・木・金 11:30 - 14:00 L.O. 料理14:00 16:00 - 00:00 L.O. 料理23:00 ドリンク23:30 土・日 16:00 - 00:00 L.O. 料理23:00 ドリンク23:30 月 定休日"
   },
   {
     "id": "naniwa-coins-20250314",
@@ -50073,14 +50272,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14093594/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362856/e3225c3eb28a2aaf2089a9cb7c7a6c60.jpg?token=a0d02ec&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.41,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "10:00 - 23:00 L.O. 22:45 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-fb72a84f-20250314",
@@ -50102,17 +50304,25 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "牛込柳町駅 徒歩３分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130504/13301764/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130504/13301764/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/299089/c3932d189ad3dc6b4ad95b4289e06a25.jpg?token=0efef75&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.1,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日 11:30 - 15:00 L.O. 料理14:30 17:00 - 22:00 L.O. 料理21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-678a5e60-20250314",
@@ -50137,14 +50347,22 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13301771/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13301771/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/259906/ac1167f19b3b808f502811537b6d3b65.jpg?token=7841d37&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.32,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金・土・祝前日・祝後日 11:00 - 22:30 L.O. 22:00 日・祝日 11:00 - 21:30 L.O. 21:00"
   },
   {
     "id": "naniwa-bub_resort_yatsugata-20250124",
@@ -50169,14 +50387,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/yamanashi/A1902/A190201/19013756/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/346117/f96bf1c102b8cf177e874a011780a135.jpg?token=02cc7e4&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.02,
+    "price_range": "￥50,000～￥59,999"
   },
   {
     "id": "naniwa-76f73b3c-20241025",
@@ -50201,14 +50421,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132102/13295154/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344293/7b7963019204e8c797ff0bc47512df2d.jpg?token=66454fb&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.02,
+    "price_range": "-",
+    "business_hours": "09:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-753a6c5f-",
@@ -50233,14 +50456,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13299806/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352274/f0c69f00a9d07046935976e13a3ee4f1.jpg?token=33b509f&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.42,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 14:00 11:00〜15:00 辣々麺とcurry辣々麺不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-2eb977bf-",
@@ -50262,17 +50488,20 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "北綾瀬駅 徒歩20分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13269788/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343608/a05c4e702524758628a122e4cbc9d1fa.jpg?token=feb3af1&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.08,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "07:30 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-cafe_ichifuji-",
@@ -50297,14 +50526,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132002/13270104/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/173766/d7070d4926470f20759fbf089ad53f98.jpg?token=6d8045e&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.47,
+    "price_range": "-",
+    "business_hours": "月・火・金・土・日 09:00 - 19:00 L.O. 18:15 水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-onigily_cafe-",
@@ -50361,14 +50593,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13051375/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/164433/47e8e720543ae4ae29c57e8952d6a8b9.jpg?token=79f7f50&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.7,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 08:30 - 10:30 11:30 - 14:00 L.O. 料理13:00 土・日・祝日 定休日 ■ 営業時間8:30〜10:3011:30〜14:00(パンが無くなり次第終了) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-cafe_yue-",
@@ -50393,14 +50628,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131901/13251674/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/164517/ba7684d8ea013a4eaaf2fd13604ba515.jpg?token=cea52c9&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.52,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・金 12:00 - 19:30 土・日 11:00 - 19:00 水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-65478ad5-",
@@ -50422,19 +50660,22 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "堺筋線 恵美須駅 3番出口 徒歩3分阪堺線 恵美須駅 徒歩3分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27004322/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185596/8ab7845e52b4c95bdb858b12015416ba.jpg?token=4f2573a&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "チャーシューホットサンド\n400円"
-    ]
+    ],
+    "tabelog_score": 3.44,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "11:30 - 22:00 L.O. 21:30 ■ 営業時間ランチ11:30～14:0020時以降のご予約を希望の場合は電話にてご連絡ください。■ 定休日年中無休"
   },
   {
     "id": "naniwa-oseba-",
@@ -50459,14 +50700,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130201/13122282/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216686/e8a6f2a8877b82a2be49af83d5d95360.jpg?token=a3c8b8a&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.71,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-7780906f-20240524",
@@ -50491,14 +50735,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22040953/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337404/b3c081b60654cb3789abbe3d3363bbfc.jpg?token=4684898&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.27,
+    "price_range": "￥20,000～￥29,999"
   },
   {
     "id": "naniwa-33f24bc0-20240524",
@@ -50523,17 +50769,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22022042/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339389/4c50d663852617d1d1a5c444e1a209da.jpg?token=99f1b8a&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "■ベーシックコース（2,500円）",
       "■ステップアップコース（2,800円）"
-    ]
+    ],
+    "tabelog_score": 3.24,
+    "price_range": "￥6,000～￥7,999"
   },
   {
     "id": "naniwa-cbe15dcb-20240517",
@@ -50558,16 +50806,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14066245/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/154035/154035584.jpg?token=8c31319&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "生しらすとびっちょ丼\n2,200円"
-    ]
+    ],
+    "tabelog_score": 3.47,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金 11:30 - 21:00 L.O. 20:00 土 10:30 - 22:00 L.O. 21:00 日・祝日 10:30 - 21:00 L.O. 20:00"
   },
   {
     "id": "naniwa-evviva-20240517",
@@ -50592,14 +50843,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1408/A140801/14061258/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/300904/0aa061b4a3eabaa512192995ff9247f3.jpg?token=138269d&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.07,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 23:00 ■ 定休日不定休(ららぽーと海老名に準ずる) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-9ebc7581-20240517",
@@ -50624,16 +50878,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14056951/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/140022/140022768.jpg?token=02f12ac&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "■利用料金\n2,200円"
-    ]
+    ],
+    "tabelog_score": 3.47,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 23:00 L.O. 料理22:00 ビルの休館日"
   },
   {
     "id": "naniwa-kosugi_grill_market-20240517",
@@ -50658,14 +50915,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14091971/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/217215/c8fd12a66f3e0f03dd2d891d691f693f.jpg?token=04b69a9&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.06,
+    "price_range": "～￥999",
+    "business_hours": "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-50c3d93a-20240322",
@@ -50690,14 +50950,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/chiba/A1203/A120301/12034938/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341489/476cb23bcb75ffa80c480e6cbec5b17d.jpg?token=ca56c6b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.23,
+    "price_range": "-"
   },
   {
     "id": "naniwa-460adc19-20240209",
@@ -50722,14 +50984,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13279721/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314781/e6052fc9df1af1d57368488df0cce707.jpg?token=e3a7a37&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.44,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 22:00 L.O. 21:30"
   },
   {
     "id": "naniwa-acfd49cb-20240209",
@@ -50754,14 +51019,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13264869/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363137/5ce34c393208dfdc13de2f0a53dc459e.jpg?token=4dd1a76&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.57,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 19:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-9f3d0e1a-20240209",
@@ -50786,14 +51054,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13264835/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356477/3d2d10678ae0c94ef6f4f4ac3a817472.jpg?token=8ab1dce&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.18,
+    "price_range": "～￥999",
+    "business_hours": "10:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-14f81629-20240126",
@@ -50818,14 +51089,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131714/13135826/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/243897/2e85329cd177b846be7437d698d3c8d3.jpg?token=c61c5f0&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.66,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 11:00 - 17:00 L.O. 16:00 土・日・祝日 11:00 - 18:00 L.O. 17:00 ■ 営業時間臨時休業が多い店ですので、最新情報は必ずFacebookページでもご確認頂ければ幸いです。■ 定休日年末年始と秋休み。詳細はFBページにてご案内しております。"
   },
   {
     "id": "naniwa-abc_farm-20240126",
@@ -50850,14 +51124,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1329/A132901/13299171/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/326760/beabc385fdf30272680144145024e277.jpg?token=9cd275b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.02,
+    "price_range": "-",
+    "business_hours": "水・木・金・土・日 11:00 - 16:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-ddb01104-20240126",
@@ -50882,14 +51159,16 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13060441/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/41479/41479473.jpg?token=21c5e00&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.21,
+    "price_range": "￥6,000～￥7,999"
   },
   {
     "id": "naniwa-ee9eceb7-20240126",
@@ -50949,14 +51228,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13249665/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296737/7db83294c5d0526549bfe1eaafff7a5d.jpg?token=d75c92a&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.23,
+    "price_range": "-",
+    "business_hours": "10:30 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-oh_bhaiya-20240105",
@@ -50981,14 +51263,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131305/13283505/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345042/a4ab83d331f4d4e0a00d0aea2800bcde.jpg?token=12253a3&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.32,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・水・木・金 11:30 - 15:00 17:00 - 22:00 土・日 11:30 - 22:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-21-20231103",
@@ -51013,14 +51298,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13299528/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320913/8d3379a6b5275d912cbdb55420aed664.jpg?token=5fde73d&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.09,
+    "price_range": "～￥999",
+    "business_hours": "月・水・木・金・土・日 16:00 - 23:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-51fb8923-20231103",
@@ -51045,14 +51333,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131402/13287929/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/300765/40176674466b0ac1581d7b93a5aa7d82.jpg?token=deca087&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.16,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金・土 08:00 - 20:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-kakigori_cafe_bar_ye-20231103",
@@ -51077,14 +51368,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13166459/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/313769/e4b25e940f54022ffed2f1b6aa59bc79.jpg?token=495a563&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.63,
+    "price_range": "-",
+    "business_hours": "月・火・水・木 11:00 - 02:00 金 11:00 - 05:00 土 11:30 - 05:00 日 11:30 - 02:00 夏季は平日も05:00まで営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-83054c77-20231103",
@@ -51109,14 +51403,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13267243/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344990/bd79b6d2528ab8102d909d7be82f5ff5.jpg?token=d8b0594&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.45,
+    "price_range": "～￥999",
+    "business_hours": "月・火・水・木・金 08:00 - 22:50 L.O. 22:30 土・日・祝日 10:00 - 22:50 L.O. 22:30"
   },
   {
     "id": "naniwa-6dbb8956-20231027",
@@ -51141,14 +51438,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13124438/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361841/7c711e08bed5cbd53345f914ec2b10e3.jpg?token=a31c77d&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.04,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "06:00 - 00:00 L.O. 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-76bc3877-20231020",
@@ -51170,17 +51470,20 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "日暮里駅 徒歩6分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131105/13287469/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/238960/2c3ccce43bff3db3bafd44ee91993f77.jpg?token=944b820&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.43,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・水・木・金・土・日 10:00 - 17:00 火 定休日 第4水曜日定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-annorum-20231020",
@@ -51205,14 +51508,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13287047/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/297872/3ce7278f294d05622785ab104f29e718.jpg?token=934ac44&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.51,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 18:00 ■ 定休日不定休"
   },
   {
     "id": "naniwa-tera_cafe_shien_zojo-20231020",
@@ -51237,14 +51543,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13272452/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/317652/83241eb82a01157178946132493d56d5.jpg?token=e4d1aac&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.43,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金・祝前日 10:00 - 17:00 L.O. 16:30 土・日・祝日 09:30 - 17:30 L.O. 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-5bd1f25b-20231020",
@@ -51269,14 +51578,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1326/A132602/13290102/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/222015/4b74cddf5121715294e5ddcbf5412e35.jpg?token=f223b5f&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.08,
+    "price_range": "-",
+    "business_hours": "月・水・木・金 10:00 - 17:00 火・土・日 定休日 寺の行事などのため、不定休がございます。Instagramで発信しておりますので、ご確認くださいませ。"
   },
   {
     "id": "naniwa-monnaka_coffee-20230901",
@@ -51301,14 +51613,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131303/13278294/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/201231/9959b0095ea92ae755b749c856727889.jpg?token=f594907&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.52,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 08:00 - 22:00 土・日 10:00 - 20:00 祝日 10:00 - 19:00 weekday／8:00〜22:00weekend ＆ holiday／10:00〜20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-mont_nom-20230901",
@@ -51333,14 +51648,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131703/13275817/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/182851/46b947d783493b3306861772be20097a.jpg?token=f6aced2&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.6,
+    "price_range": "～￥999",
+    "business_hours": "月・火・木・金・土・日 08:00 - 18:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-merci_life_organics-20230901",
@@ -51365,14 +51683,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13293979/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358683/4920ecb4e34e845a1e2b3ed369035b8b.jpg?token=ede0d41&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.15,
+    "price_range": "～￥999",
+    "business_hours": "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-59d48180-20230901",
@@ -51397,14 +51718,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140601/14012394/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/10926/10926974.jpg?token=57d8a32&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.64,
+    "price_range": "-",
+    "business_hours": "月・金・土・日 09:00 - 18:00 火・水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-d9ed0eff-20230901",
@@ -51429,14 +51753,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13246757/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/353576/1a4c199f419e9408a129db339bc792ce.jpg?token=2f1bc19&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.63,
+    "price_range": "-",
+    "business_hours": "09:00 - 19:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-2f3299d3-20230818",
@@ -51461,14 +51788,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131703/13101812/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352342/0c3bd7db495165de37bc7cd30f8d4e98.jpg?token=61e365f&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.49,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "【営業時間】12:00～【定休日】火曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-7f749e04-20230818",
@@ -51493,14 +51823,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131001/13263886/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/190757/228b553e60517f81183085331ce175e2.jpg?token=2510578&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.49,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 21:30 L.O. 21:00 ■ 定休日年末年始（12/31、1/1，1/2）、その他の休業日についてはXにて告知いたします。"
   },
   {
     "id": "naniwa-3692a4dc-20230818",
@@ -51525,14 +51858,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13285347/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/323977/0041986e8857b75afa856c81dd561f13.jpg?token=e5f73bc&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.29,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・土・祝前日 11:30 - 05:00 日・祝日 11:30 - 18:00 年末年始は、12/31-1/4にお休みをいただきます。"
   },
   {
     "id": "naniwa-606d04cb-20230818",
@@ -51557,14 +51893,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131603/13209137/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361140/172f542fa3c5f73e9a3260c67138df7f.jpg?token=6b811aa&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.09,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金 11:00 - 23:00 土・日 10:30 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-6826556b-20230721",
@@ -51589,14 +51928,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/saitama/A1105/A110501/11046681/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362863/794fd0aea60b5b50d6851b420b933829.jpg?token=2fc5df2&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.71,
+    "price_range": "～￥999",
+    "business_hours": "火・水・木・金・土・日 11:00 - 14:00 18:00 - 21:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-88584f67-20230721",
@@ -51621,14 +51963,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13262391/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339367/fcbd936f799aada3dc20e7d8c9306357.jpg?token=28524fe&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.72,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金・土 10:00 - 18:00 日 定休日"
   },
   {
     "id": "naniwa-2155b749-20230623",
@@ -51689,17 +52034,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1312/A131203/13283618/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/286132/901e8cca54980349a697e2cf55358bca.jpg?token=3d7fd46&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "最初の30分　　 1,250円",
       "以降10分毎　　 330円"
-    ]
+    ],
+    "tabelog_score": 3.02,
+    "price_range": "-",
+    "business_hours": "月・火・金 11:00 - 20:00 土・日・祝日 10:00 - 20:00 水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-785ed299-20230623",
@@ -51724,17 +52072,20 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13197939/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/281481/1e3fde336463bd14d24d5fddc773bd31.jpg?token=fe92ab1&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "高校生以下　1200円",
       "えさやり体験　300円"
-    ]
+    ],
+    "tabelog_score": 3.05,
+    "price_range": "-",
+    "business_hours": "月・火・水・木・金 13:00 - 18:00 土・日・祝日 11:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-4a80cda9-20230602",
@@ -51759,14 +52110,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13262004/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/323182/cfb64bd025539d30e8dbc0a97a529f9c.jpg?token=215eed3&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.48,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・金・土・日 11:00 - 18:00 L.O. 17:30 木 定休日 夏は18:00まで、冬は17:30までだそうです 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "naniwa-a282a6b1-20230602",
@@ -51791,14 +52145,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131907/13258960/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/173107/8f7064f6d2f4d98218618a8800dd1906.jpg?token=7aabbf4&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.53,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "水・木・金 12:30 - 18:00 土・日・祝日 12:30 - 18:30 月・火 定休日 ■ 定休日 毎週月曜・火曜日"
   },
   {
     "id": "naniwa-1d6e8883-20230602",
@@ -51823,14 +52180,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13262740/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/177433/14de62caa07f2631de8ebbfc61c58e8c.jpg?token=40b0a7b&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.58,
+    "price_range": "￥3,000～￥3,999",
+    "business_hours": "月・火・水・木・金・日 11:00 - 20:00 土・祝前日 11:00 - 21:00 ■ 定休日有楽町マルイに準ずる"
   },
   {
     "id": "naniwa-376379fa-20230505",
@@ -51855,10 +52215,10 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13259557/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/153735/153735050.jpg?token=cccf8ec&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
@@ -51866,7 +52226,10 @@
       "【朝食】(50分制) 平日 2,420円",
       "【ランチ】(50分制) 平日 2,420円",
       "(90分制) 平日 2,750円"
-    ]
+    ],
+    "tabelog_score": 3.49,
+    "price_range": "-",
+    "business_hours": "07:00 - 11:00 ■ 営業時間朝食［平日・休日］最終入店10:00／50分プランのみ■定休日無休"
   },
   {
     "id": "naniwa-07e0a7b7-20230428",
@@ -51891,14 +52254,17 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13188231/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/69836/69836231.jpg?token=316a894&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.35,
+    "price_range": "￥15,000～￥19,999",
+    "business_hours": "11:30 - 16:00 17:30 - 23:00 ■ 営業時間ランチ 最終入店14：00ディナー 最終入店20：30■ 定休日第2水曜日（12月・3月は営業）年末年始（12月31日～1月4日）"
   },
   {
     "id": "naniwa-alc_beef-20230428",
@@ -51920,17 +52286,20 @@
       "naniwa"
     ],
     "group": "naniwa",
-    "nearest_station": "",
+    "nearest_station": "ＪＲ 川崎駅 徒歩1分",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140501/14088336/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/232343/fb164aa34f2c6559ba35c06094da91a9.jpg?token=702347e&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.08,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日 16:00 - 23:00 L.O. 料理22:00 ドリンク22:30 12月のみ16:00〜23:00でオープン！早割あります！"
   },
   {
     "id": "naniwa-bf845096-20230428",
@@ -51955,16 +52324,19 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130202/13275036/",
     "hotpepper_url": "",
     "affiliate_links": [],
-    "thumbnail_url": "",
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/210198/34bbcd4c98ef08d20052cbf24697ca29.jpg?token=c969920&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
       "メメニュー⇨【平日ランチ限定】神戸牛別格赤身のステーキ重（80g）セット 全5品　4,800円"
-    ]
+    ],
+    "tabelog_score": 3.25,
+    "price_range": "￥15,000～￥19,999",
+    "business_hours": "月・火・水・木・金・土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30"
   },
   {
     "id": "naniwa-312d9fa1-20230428",
@@ -51989,13 +52361,21 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140504/14067672/",
     "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1405/A140504/14067672/"
+      }
+    ],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344457/deded10c355bd56c8bcaed7a84f25a89.jpg?token=f580c08&api=v2",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "tabelog_score": 3.48,
+    "price_range": "￥5,000～￥5,999",
+    "business_hours": "月・火・水・木・金 11:30 - 15:00 L.O. 14:00 17:00 - 23:30 L.O. 23:00 土・日・祝日 11:30 - 14:00 L.O. 14:00 14:00 - 23:30 L.O. 23:00 ■ 定休日★年中無休【ご利用可能な決済方法】・クレジットカード（VISA/MasterCard/JCB/AMEXなど）・交通系IC （Suica／PASMO など）・"
   }
 ]
