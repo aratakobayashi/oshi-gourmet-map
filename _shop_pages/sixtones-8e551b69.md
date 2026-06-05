@@ -8,6 +8,7 @@ prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町2-37-3丸友ビル6F"
 price_range: "-"
+visited_date: "2024-02-16"
 source_video_title: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？"
 source_url: "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg"
 group: "sixtones"
@@ -26,4 +27,6 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+ordered_items:
+  - "トリプルチーズハンバーグ"
 ---

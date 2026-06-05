@@ -8,6 +8,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区月島3-13-1 サンライズ濱田ビル2F"
 price_range: "￥6,000～￥7,999"
+visited_date: "2024-02-10"
 source_video_title: "【木村さ〜〜ん！】木村拓哉とジェシーの焼肉屋さんはどこ？食べたメニューは何？"
 source_url: "https://kosodate-and.net/kimura-jesse-yakiniku"
 group: "sixtones"
@@ -26,4 +27,15 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+ordered_items:
+  - "お茶"
+  - "究極限定薄切りタン（ネギ）"
+  - "究極ハラミ（タレ）"
+  - "究極ロース（タレ）"
+  - "牛レバー"
+  - "シマチョウ（タレ）"
+  - "ごまサラダ"
+  - "キムチ（ごま油で）"
+  - "ごはん"
+  - "傳々特性すじカレー"
 ---

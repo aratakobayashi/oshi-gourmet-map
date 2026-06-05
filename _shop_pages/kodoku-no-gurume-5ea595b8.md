@@ -23,6 +23,4 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
-ordered_items:
-  - "かにクリームコロッケ＆ほっけフライ定食（カニクリームコロッケ2個・ほっけフライ2個・ポテトサラダ）"
 ---

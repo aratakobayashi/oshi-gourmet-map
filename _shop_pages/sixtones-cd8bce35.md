@@ -8,6 +8,7 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂5-1-4 赤坂いそむらビル1Ｆ"
 price_range: "￥1,000～￥1,999"
+visited_date: "2024-01-12"
 source_video_title: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？"
 source_url: "https://kosodate-and.net/sixtones-goemon"
 group: "sixtones"
@@ -26,4 +27,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+ordered_items:
+  - "たらこと湯葉とモッツァレラチーズのカルボナーラ"
+  - "タコのペペロンチーノ"
 ---

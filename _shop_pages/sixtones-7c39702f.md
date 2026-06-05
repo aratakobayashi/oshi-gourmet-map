@@ -8,6 +8,7 @@ prefecture: "東京都"
 city: "八王子市"
 address: "東京都八王子市楢原町437-1"
 price_range: "￥1,000～￥1,999"
+visited_date: "2024-02-17"
 source_video_title: "SixTONES【ストチューブ】八王子ラーメン「みんみん」はどこ？食べたメニューは何？"
 source_url: "https://kosodate-and.net/sixtones-hachioji-ramen"
 group: "sixtones"
@@ -26,4 +27,12 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+ordered_items:
+  - "ネギメンマラーメン"
+  - "半ライス"
+  - "ネギチャーシューメンマラーメン"
+  - "大盛り"
+  - "チャーシューメン"
+  - "ネギ皿"
+  - "ネギバラチャーシューラーメン"
 ---

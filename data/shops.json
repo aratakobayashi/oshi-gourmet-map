@@ -1904,12 +1904,7 @@
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 21:00 ■臨時休業下記の期間、店舗メンテナンスのため、休業いたします。【休業期間】2月9日（月）～2月14日（土）2025年10月より平日・土日祝日問わず、11:00-21:00の通し営業となっております。■ 営業時間トーキョーアジフライ11:00〜21:00",
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130904/13269930/",
     "nearest_station": "九段下駅 徒歩1分",
-    "ordered_items": [
-      "羽釜焚きご飯とアジフライ定食・手仕込みアジフライ・ご飯(お替り無料)・味噌汁・漬物・卵黄の醤油漬け・薬味8種単品・カキフライ(季節限定)・胡麻鯵",
-      "羽釜焚きご飯とアジフライ定食・手仕込みアジフライ・ご飯(お替り無料)・味噌汁・漬物・卵黄の醤油漬け・薬味8種",
-      "羽釜焚きご飯とアジフライ定食・手仕込みアジフライ・ご飯(お替り無料)・味噌汁・漬物・卵黄の醤油漬け・薬味8種",
-      "羽釜焚きご飯とアジフライ定食・手仕込みアジフライ・ご飯(お替り無料)・味噌汁・漬物・卵黄の醤油漬け・薬味8種"
-    ]
+    "ordered_items": []
   },
   {
     "id": "yonino-takeno-tsukiji",
@@ -2190,11 +2185,7 @@
     "business_hours": "月・火・水・木・金・土 11:30 - 14:00 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日",
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13291288/",
     "nearest_station": "乃木坂駅 徒歩4分",
-    "ordered_items": [
-      "期間限定アジフライ定食…ご飯普通盛り…アジフライ2枚…唐揚げ2個…サラダ＆ポテトサラダ…お味噌汁…大根の煮物",
-      "チキン南蛮定食…ご飯大盛り…チキン南蛮…唐揚げ2個…サラダ＆ポテトサラダ…お味噌汁…大根の煮物",
-      "唐揚げ定食…唐揚げ2個…唐揚げ2個…サラダ＆ポテトサラダ…お味噌汁…大根の煮物"
-    ]
+    "ordered_items": []
   },
   {
     "id": "snowman-pablo-meguro",
@@ -2720,9 +2711,6 @@
     "business_hours": "火・水・木・金 11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 21:30 土・日・祝日 11:30 - 15:30 L.O. 14:30 17:30 - 22:30 L.O. 21:30 月・祝後日 定休日",
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13003493/",
     "ordered_items": [
-      "渡辺翔太さんチョイス「水牛モッツァレラチーズのマルゲリータ」と「生ハムとルーコラ」のメタメタ(ハーフ＆ハーフ)",
-      "佐久間大介さんチョイス「クアトロフォルマッジ」と「カプリチョーザ」のメタメタ(ハーフ＆ハーフ)",
-      "佐久間大介さんチョイス「水牛モッツァレラチーズ、チェリートマトのカプレーゼ」",
       "佐久間大介さんチョイス「旬の有機野菜のミックスサラダ」",
       "佐久間大介さんチョイス「ムール貝の黒コショウ蒸」",
       "佐久間大介さんチョイス「チーズの盛り合わせ」",
@@ -2730,8 +2718,7 @@
       "オーガニックザクロソーダジュース（宮館涼太）",
       "アイスカフェラテ？（渡辺翔太）",
       "オーガニックザクロソーダジュース（佐久間大介）",
-      "ナプレ公式オンラインショップ（佐久間大介）",
-      "本格冷凍ピザ Napule -ナプレ-楽天市場店hb.afl.rakuten.co.jp（佐久間大介）"
+      "ナプレ公式オンラインショップ（佐久間大介）"
     ]
   },
   {
@@ -2897,13 +2884,10 @@
     "business_hours": "月・火・水・木・金・土・祝前日・祝後日 11:00 - 16:00 L.O. 15:30 17:00 - 22:00 L.O. 21:00 日・祝日 定休日 ■ 営業時間11:00~22:00※ラストオーダー21:00※16:00~17:00の間は一時お店をクローズします。(L.O. 15:30)祝日のある週は変動がある場合があります。詳しくはInstagramもしくはお店へお問い合わせください。",
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13293862/",
     "ordered_items": [
-      "薬膳定食・茄子と豚肉と芽キャベツの味噌炒め・おかかおにぎり・紫蘇キクラゲおにぎり（岩本照）",
       "高麗人参ゼリー（岩本照）",
-      "薬膳定食・豚肉と豆苗のしゃぶしゃぶ・肉そぼろおにぎり・おかかおにぎり（深澤辰哉）",
       "亀ゼリー（深澤辰哉）",
       "薬膳定食・鶏肉の五香粉焼き・おかかおにぎり・塩おにぎり（渡辺翔太）",
       "ヨーグルトアイス（渡辺翔太）",
-      "季節の薬膳御膳(薬膳茶付き)・紫蘇キクラゲおにぎり・肉そぼろおにぎり・よもぎおにぎり・おかかおにぎり（佐久間大介）",
       "亀ゼリー（佐久間大介）",
       "高麗人参ゼリー（佐久間大介）",
       "ヨーグルトアイス（佐久間大介）"
@@ -3160,7 +3144,6 @@
       "本日鮮魚のカルパッチョ",
       "瀬戸内鮮魚のアクアパッツァ",
       "海鮮ミックスアヒージョ",
-      "ピッツァハーフ＆ハーフ・兵庫日向牧場チーズのクワトロフォルマッジ・淡路島トマトソースのマルゲリータ",
       "讃岐夢豚の自家製ベーコンと半熟卵のシーザーサラダ",
       "徳島阿波尾鶏としまなみレモンのクリームパスタ",
       "広島牡蠣の香草パン粉焼き",
@@ -3260,8 +3243,7 @@
       "アカ(内もも)",
       "わさび(もも肉のわさびのせ)",
       "つくね",
-      "ソリ(骨盤内の筋肉)",
-      "ネギマ…以上、動画で紹介された焼鳥になります。"
+      "ソリ(骨盤内の筋肉)"
     ]
   },
   {
@@ -8601,7 +8583,6 @@
     "business_hours": "11:00 - 23:00 L.O. 22:30 ■ 定休日年中無休",
     "ordered_items": [
       "黒ウーロン茶（亀梨和也）",
-      "ぼんしゃん・カピタンにんにくダブル・きくらげ・ねぎ・粉落とし(茹で加減)（亀梨和也）",
       "九州じゃんがらの全部入り（越岡裕貴）"
     ]
   },
@@ -8824,8 +8805,7 @@
     "ordered_items": [
       "懐石料理：9900円～、お席の予約可",
       "定食：2530円～、お席予約時は最低注文料金3300円～",
-      "天空とろろビュッフェ：3300円、80分入替制",
-      "むぎとろバイキング：1650円、平日11:00～14:00限定、予約不可順番制"
+      "天空とろろビュッフェ：3300円、80分入替制"
     ],
     "thumbnail_url": "https://img.youtube.com/vi/GUbWqF2Uj80/hqdefault.jpg",
     "tabelog_score": 3.49,
@@ -10924,8 +10904,7 @@
     "price_range": "￥3,000～￥3,999",
     "business_hours": "月 11:30 - 14:00 火・水・木・金・土 11:30 - 14:00 17:30 - 22:00 L.O. 21:30 日 17:30 - 22:00 L.O. 21:30 年末年始はお休みです",
     "ordered_items": [
-      "アイスコーヒー？",
-      "マトンカレーでジャスミンライス・マトンカレー・日替わりカレー・サラダ・デザート"
+      "アイスコーヒー？"
     ],
     "tmdb_id": 197195,
     "tmdb_type": "tv",
@@ -21214,7 +21193,6 @@
     "tmdb_id": 55582,
     "tmdb_type": "tv",
     "ordered_items": [
-      "特製ミートローフ ハーフランチセット（バターライス＆スパゲッティ・ミニサラダ・コーヒー）",
       "ミスキアーレ（ニンニクとマヨネーズのスパゲッティ）ハーフセット"
     ],
     "tabelog_score": 3.49,
@@ -21365,9 +21343,7 @@
     "source_type": "drama",
     "tmdb_id": 55582,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "かにクリームコロッケ＆ほっけフライ定食（カニクリームコロッケ2個・ほっけフライ2個・ポテトサラダ）"
-    ],
+    "ordered_items": [],
     "tabelog_score": 3.49,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金・土 11:30 - 14:00 17:00 - 20:30 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -32300,13 +32276,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
-      "薬膳定食・茄子と豚肉と芽キャベツの味噌炒め・おかかおにぎり・紫蘇キクラゲおにぎり（岩本照）",
       "高麗人参ゼリー（岩本照）",
-      "薬膳定食・豚肉と豆苗のしゃぶしゃぶ・肉そぼろおにぎり・おかかおにぎり（深澤辰哉）",
       "亀ゼリー（深澤辰哉）",
       "薬膳定食・鶏肉の五香粉焼き・おかかおにぎり・塩おにぎり（渡辺翔太）",
       "ヨーグルトアイス（渡辺翔太）",
-      "季節の薬膳御膳(薬膳茶付き)・紫蘇キクラゲおにぎり・肉そぼろおにぎり・よもぎおにぎり・おかかおにぎり（佐久間大介）",
       "亀ゼリー（佐久間大介）",
       "高麗人参ゼリー（佐久間大介）",
       "ヨーグルトアイス（佐久間大介）"
@@ -34433,7 +34406,6 @@
       "本日鮮魚のカルパッチョ",
       "瀬戸内鮮魚のアクアパッツァ",
       "海鮮ミックスアヒージョ",
-      "ピッツァハーフ＆ハーフ・兵庫日向牧場チーズのクワトロフォルマッジ・淡路島トマトソースのマルゲリータ",
       "讃岐夢豚の自家製ベーコンと半熟卵のシーザーサラダ",
       "徳島阿波尾鶏としまなみレモンのクリームパスタ",
       "広島牡蠣の香草パン粉焼き",
@@ -48850,9 +48822,7 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [
-      "大人可愛いをコンセプトにしたこちらのお店では「キャンドル・ヘアゴム作り体験　1000円"
-    ]
+    "ordered_items": []
   },
   {
     "id": "naniwa-13c35ea0-20251107",
@@ -49624,8 +49594,7 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
-      "豚なんこつの葱つけ麺と野菜かき揚げ 1429円",
-      "大西くんが食べたメニュー▶大葉と梅香る・ジェノベーゼ風サラダうどん 1099円"
+      "豚なんこつの葱つけ麺と野菜かき揚げ 1429円"
     ],
     "tabelog_score": 3.05,
     "price_range": "￥1,000～￥1,999",
@@ -52286,9 +52255,7 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [
-      "メメニュー⇨【平日ランチ限定】神戸牛別格赤身のステーキ重（80g）セット 全5品　4,800円"
-    ],
+    "ordered_items": [],
     "tabelog_score": 3.25,
     "price_range": "￥15,000～￥19,999",
     "business_hours": "月・火・水・木・金・土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30"
@@ -52345,7 +52312,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブ】名古屋の焼肉屋さんはどこ？5大ドームツアー打ち上げ",
     "source_url": "https://kosodate-and.net/sixtones-nagoya-yakiniku",
-    "visited_date": "",
+    "visited_date": "2025-04-18",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52368,7 +52335,27 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "コーラ（北斗）",
+      "ジンジャーエール辛口（髙地）",
+      "ノンアルビール（樹",
+      "ウーロン茶（大我）",
+      "生ビール（ジェシー・慎太郎）",
+      "梅しそサラダ（大）",
+      "野菜サラダ（大）",
+      "キムチ三種盛り合わせ",
+      "センマイ刺し",
+      "厚切り牛タン",
+      "牛タンスライス",
+      "トリュフユッケ",
+      "ハラミ",
+      "ごはん",
+      "韓国のり",
+      "リードヴォー（シビレ）",
+      "サーロイン炙り寿司",
+      "チャンジャ",
+      "土鍋トリュフごはん"
+    ],
     "tabelog_score": 3.42,
     "price_range": "￥6,000～￥7,999",
     "business_hours": "火・水・木・金 11:00 - 14:30 L.O. 14:00 17:00 - 23:30 L.O. 23:00 土・日・祝日 11:00 - 15:00 L.O. 14:30 17:00 - 23:30 L.O. 23:00 月 定休日 ■ 御予約～ランチ営業～(ランチメニュー、焼肉単品、コース、ステーキ、すき焼、しゃぶしゃぶ） 全日 予約可能～ディナー営業～（焼肉単品、コース、すき焼、しゃぶ"
@@ -52385,7 +52372,7 @@
     "youtube_id": "",
     "source_video_title": "トークィーンズ【髙地優吾ロケ地】居酒屋はどこ？ファーストサマーウイカが事前取材",
     "source_url": "https://kosodate-and.net/talkqueens-kochi-izakaya",
-    "visited_date": "",
+    "visited_date": "2024-09-20",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52425,7 +52412,7 @@
     "youtube_id": "",
     "source_video_title": "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-kaito-shintaro-izakaya",
-    "visited_date": "",
+    "visited_date": "2023-04-05",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52465,7 +52452,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-ikaho-gohan",
-    "visited_date": "",
+    "visited_date": "2023-11-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52505,7 +52492,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-ikaho-gohan",
-    "visited_date": "",
+    "visited_date": "2023-11-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52545,7 +52532,7 @@
     "youtube_id": "",
     "source_video_title": "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？",
     "source_url": "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger",
-    "visited_date": "",
+    "visited_date": "2024-06-08",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52585,7 +52572,7 @@
     "youtube_id": "",
     "source_video_title": "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？",
     "source_url": "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger",
-    "visited_date": "",
+    "visited_date": "2024-06-08",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52625,7 +52612,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/sixtones-nagoya-izakaya",
-    "visited_date": "",
+    "visited_date": "2024-04-27",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52648,7 +52635,22 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "・ビール",
+      "・もずく酢",
+      "・山芋千切",
+      "・トマトスライス",
+      "・えのきホイル焼き",
+      "・ざる豆腐",
+      "・桜エビの塩焼きそば",
+      "・お刺身盛り合わせ",
+      "・納豆磯巻き",
+      "・新玉の串揚げ",
+      "・どて煮",
+      "・手羽塩焼き",
+      "・焼き鳥",
+      "・お好み焼き（豚玉）"
+    ],
     "tabelog_score": 3.63,
     "price_range": "￥5,000～￥5,999",
     "business_hours": "月・火・水・木・金 17:30 - 23:00 土 17:30 - 22:00 日 定休日 祝日の月曜日は休み 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -52665,7 +52667,7 @@
     "youtube_id": "",
     "source_video_title": "西園寺さんは家事をしない【松村北斗ロケ地】もんじゃ焼き屋さんはどこ？ペンディングトレインのお好み焼き屋？",
     "source_url": "https://kosodate-and.net/saionji-hokuto-monjya",
-    "visited_date": "",
+    "visited_date": "2024-08-27",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52705,7 +52707,7 @@
     "youtube_id": "",
     "source_video_title": "アンサンブル【松村北斗＆川口春奈 ロケ地】朝ごはんデートのカフェはどこ？ローブカフェ",
     "source_url": "https://kosodate-and.net/ensemble-asagohan-cafe",
-    "visited_date": "",
+    "visited_date": "2025-02-23",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52745,7 +52747,7 @@
     "youtube_id": "",
     "source_video_title": "【Game of SixTONES】孫さんの中華料理店はどこ？結成10周年ご飯会のお店？30万円！？ご褒美グルメ麻婆豆腐",
     "source_url": "https://kosodate-and.net/sixtones-son-chinese",
-    "visited_date": "",
+    "visited_date": "2025-05-04",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52785,7 +52787,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？",
     "source_url": "https://kosodate-and.net/sixtones-inokashira-park",
-    "visited_date": "",
+    "visited_date": "2024-01-12",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52825,7 +52827,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？",
     "source_url": "https://kosodate-and.net/sixtones-inokashira-park",
-    "visited_date": "",
+    "visited_date": "2024-01-12",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52865,7 +52867,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-tsukiji-asagohan",
-    "visited_date": "",
+    "visited_date": "2023-10-07",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52905,7 +52907,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-tsukiji-asagohan",
-    "visited_date": "",
+    "visited_date": "2023-10-07",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52945,7 +52947,7 @@
     "youtube_id": "",
     "source_video_title": "【6SixTONES シクスト】二宮和也との担々麺 麻婆豆腐の中華料理店はどこ？麻布台ヒルズ",
     "source_url": "https://kosodate-and.net/6sixtones-nino-chinese",
-    "visited_date": "",
+    "visited_date": "2026-04-23",
     "members": [
       "ジェシー",
       "京本大我",
@@ -52985,7 +52987,7 @@
     "youtube_id": "",
     "source_video_title": "京本会のBBQのお店はどこ？【トラジャ×SixTONES（ストチューブ）YouTubeロケ地】",
     "source_url": "https://kosodate-and.net/kyomotokai-bbq",
-    "visited_date": "",
+    "visited_date": "2023-10-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53065,7 +53067,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】最終回で山里・しずちゃん・高山マネージャーが行った焼肉屋さんは？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-yamazato-yakiniku",
-    "visited_date": "",
+    "visited_date": "2023-06-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53105,7 +53107,7 @@
     "youtube_id": "",
     "source_video_title": "CLASSY.11月号【松村北斗 ロケ地】静岡おでんの居酒屋はどこ？予約は？静岡ではなく東京？",
     "source_url": "https://kosodate-and.net/classy-hokuto-shizuoka-oden",
-    "visited_date": "",
+    "visited_date": "2025-09-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53168,7 +53170,12 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "玉子チャーハン",
+      "砂肝黒胡椒炒め",
+      "トマト玉子炒め",
+      "焼き餃子"
+    ],
     "tabelog_score": 3.67,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "火・水・木・金・土・日・祝日 11:30 - 14:30 17:30 - 22:00 月 定休日 ■ 年末年始（2025年度）1月1日～1月6日までお休み 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -53225,7 +53232,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はある】山里の差し入れたまごサンド（玉子サンド）はどこの？西武？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-tamago-sando",
-    "visited_date": "",
+    "visited_date": "2023-06-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53265,7 +53272,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はある】山里の差し入れたまごサンド（玉子サンド）はどこの？西武？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-tamago-sando",
-    "visited_date": "",
+    "visited_date": "2023-06-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53302,7 +53309,7 @@
     "youtube_id": "",
     "source_video_title": "【アンサンブル ロケ地】MATO庵はどこ？古民家カフェ？真戸原優の実家・両親営む居酒屋",
     "source_url": "https://kosodate-and.net/ensemble-hokuto-cafe",
-    "visited_date": "",
+    "visited_date": "2025-01-19",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53342,7 +53349,7 @@
     "youtube_id": "",
     "source_video_title": "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-mama-tofu",
-    "visited_date": "",
+    "visited_date": "2024-06-09",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53382,7 +53389,7 @@
     "youtube_id": "",
     "source_video_title": "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズ",
     "source_url": "https://kosodate-and.net/6sixtones-nino-ramen",
-    "visited_date": "",
+    "visited_date": "2026-04-22",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53422,7 +53429,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブ】メガネ屋さんはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-megane-shop",
-    "visited_date": "",
+    "visited_date": "2025-04-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53459,7 +53466,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-ikaho-onsen",
-    "visited_date": "",
+    "visited_date": "2023-11-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53499,7 +53506,7 @@
     "youtube_id": "",
     "source_video_title": "だが、情熱はあるロケ地【髙橋海人撮影】クレープ屋さんはどこ？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-kaito-shintaro-crepe",
-    "visited_date": "",
+    "visited_date": "2023-03-31",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53539,7 +53546,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】森本慎太郎が生スコーンの差し入れを購入したカフェはどこ？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-shintaro-scone",
-    "visited_date": "",
+    "visited_date": "2023-06-12",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53579,7 +53586,7 @@
     "youtube_id": "",
     "source_video_title": "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）",
     "source_url": "https://kosodate-and.net/ensemble-hokuto-restaurant",
-    "visited_date": "",
+    "visited_date": "2025-02-16",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53659,7 +53666,7 @@
     "youtube_id": "",
     "source_video_title": "【SixTONES YOUNG OLD】大阪のケータリングのお寿司屋さんはどこ？京本大我X",
     "source_url": "https://kosodate-and.net/sixtones-osushi-osaka",
-    "visited_date": "",
+    "visited_date": "2025-02-23",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53699,7 +53706,7 @@
     "youtube_id": "",
     "source_video_title": "【木村さ〜〜ん！】木村拓哉とジェシーの焼肉屋さんはどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/kimura-jesse-yakiniku",
-    "visited_date": "",
+    "visited_date": "2024-02-10",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53722,7 +53729,18 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "お茶",
+      "究極限定薄切りタン（ネギ）",
+      "究極ハラミ（タレ）",
+      "究極ロース（タレ）",
+      "牛レバー",
+      "シマチョウ（タレ）",
+      "ごまサラダ",
+      "キムチ（ごま油で）",
+      "ごはん",
+      "傳々特性すじカレー"
+    ],
     "tabelog_score": 3.46,
     "price_range": "￥6,000～￥7,999",
     "business_hours": "17:00 - 02:00 L.O. 01:00 ■ 定休日年中無休（年末年始等、臨時休業は別途お問合せ下さい。）■ 品切れ等により早仕舞する場合が御座います。■ 混雑時、2時間制とさせて頂く場合が御座います。予めご了承下さい。■ 当店はお子様連れのお客様も大歓迎ですが、他のお客様にご迷惑をお掛けするようなお子様(大きな声を出す・走り回る・大きな音を出す等)については誠に勝手ながら入店をご遠慮頂い"
@@ -53739,7 +53757,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブ】八王子ラーメン「みんみん」はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/sixtones-hachioji-ramen",
-    "visited_date": "",
+    "visited_date": "2024-02-17",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53762,7 +53780,15 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ネギメンマラーメン",
+      "半ライス",
+      "ネギチャーシューメンマラーメン",
+      "大盛り",
+      "チャーシューメン",
+      "ネギ皿",
+      "ネギバラチャーシューラーメン"
+    ],
     "tabelog_score": 3.71,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "火・水・木・金・土・日 11:00 - 16:00 L.O. 15:40 17:00 - 20:00 L.O. 19:40 月 定休日 ■ 営業時間11:00～16:00(L.O.15:40頃)17:00～20:00(L.O.19:40頃) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -53779,7 +53805,7 @@
     "youtube_id": "",
     "source_video_title": "ジェシーが札幌のパン屋さんで撮影はいつ？どこ？何の撮影？",
     "source_url": "https://kosodate-and.net/jesse-sapporo-panya",
-    "visited_date": "",
+    "visited_date": "2025-10-22",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53819,7 +53845,7 @@
     "youtube_id": "",
     "source_video_title": "ヒルナンデス【京本大我＆横山裕】ハンバーグ・パリパリクレープ・サーモンレアカツ丼・トースティ・ヨーグルトはどこ？",
     "source_url": "https://kosodate-and.net/hirunan-yokoyama-taiga-bus",
-    "visited_date": "",
+    "visited_date": "2024-06-20",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53859,7 +53885,7 @@
     "youtube_id": "",
     "source_video_title": "ヒルナンデス【京本大我＆横山裕】ハンバーグ・パリパリクレープ・サーモンレアカツ丼・トースティ・ヨーグルトはどこ？",
     "source_url": "https://kosodate-and.net/hirunan-yokoyama-taiga-bus",
-    "visited_date": "",
+    "visited_date": "2024-06-20",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53899,7 +53925,7 @@
     "youtube_id": "",
     "source_video_title": "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg",
-    "visited_date": "",
+    "visited_date": "2024-02-16",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53922,7 +53948,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "トリプルチーズハンバーグ"
+    ],
     "tabelog_score": 3.36,
     "price_range": "-",
     "business_hours": "月・火・水・木・金 11:30 - 15:00 17:30 - 22:00 土・日 11:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -53939,7 +53967,7 @@
     "youtube_id": "",
     "source_video_title": "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉",
     "source_url": "https://kosodate-and.net/hokuto-ema-cafe",
-    "visited_date": "",
+    "visited_date": "2025-08-20",
     "members": [
       "ジェシー",
       "京本大我",
@@ -53979,7 +54007,7 @@
     "youtube_id": "",
     "source_video_title": "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材",
     "source_url": "https://kosodate-and.net/talkqueens-taiga-cafe",
-    "visited_date": "",
+    "visited_date": "2024-03-28",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54019,7 +54047,7 @@
     "youtube_id": "",
     "source_video_title": "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】",
     "source_url": "https://kosodate-and.net/kawai-jyuri-steak",
-    "visited_date": "",
+    "visited_date": "2024-05-04",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54059,7 +54087,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-yama-karin-cafe",
-    "visited_date": "",
+    "visited_date": "2023-05-26",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54099,7 +54127,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】山里がしずちゃんを追いかけて行ったカフェは？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-yamazato-cafe",
-    "visited_date": "",
+    "visited_date": "2023-05-08",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54139,7 +54167,7 @@
     "youtube_id": "",
     "source_video_title": "アンサンブル最終回【松村北斗＆川口春奈 ロケ地】カフェはどこ？ポストはある？真戸原＆瀬奈",
     "source_url": "https://kosodate-and.net/ensemble-senamato-cafe",
-    "visited_date": "",
+    "visited_date": "2025-03-23",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54179,7 +54207,7 @@
     "youtube_id": "",
     "source_video_title": "だが、情熱はある【森本慎太郎撮影】山里が大学時代に合コンをしたカフェバーはどこ？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-shintaro-bar",
-    "visited_date": "",
+    "visited_date": "2023-04-17",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54259,7 +54287,7 @@
     "youtube_id": "",
     "source_video_title": "【アンサンブル ロケ地】お好み焼き屋さんはどこ？真戸原（松村北斗）＆宇井（田中圭）",
     "source_url": "https://kosodate-and.net/ensemble-okonomiyaki",
-    "visited_date": "",
+    "visited_date": "2025-03-09",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54299,7 +54327,7 @@
     "youtube_id": "",
     "source_video_title": "だが、情熱はあるロケ地【森本慎太郎撮影】高校生の山里が行った喫茶店は？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-shintaro-cafe",
-    "visited_date": "",
+    "visited_date": "2023-04-12",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54339,7 +54367,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブロケ地】斧投げができるアミューズメント施設はどこ？",
     "source_url": "https://kosodate-and.net/sixtones-ononage",
-    "visited_date": "",
+    "visited_date": "2023-09-02",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54376,7 +54404,7 @@
     "youtube_id": "",
     "source_video_title": "アニマリング【佐久間大介＆髙地優吾】焼肉屋さん・居酒屋はどこ？",
     "source_url": "https://kosodate-and.net/animaling-saku-kochi-yakiniku",
-    "visited_date": "",
+    "visited_date": "2026-04-02",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54416,7 +54444,7 @@
     "youtube_id": "",
     "source_video_title": "アニマリング【佐久間大介＆髙地優吾】焼肉屋さん・居酒屋はどこ？",
     "source_url": "https://kosodate-and.net/animaling-saku-kochi-yakiniku",
-    "visited_date": "",
+    "visited_date": "2026-04-02",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54456,7 +54484,7 @@
     "youtube_id": "",
     "source_video_title": "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？",
     "source_url": "https://kosodate-and.net/saionji-hokuto-america",
-    "visited_date": "",
+    "visited_date": "2024-08-21",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54496,7 +54524,7 @@
     "youtube_id": "",
     "source_video_title": "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？",
     "source_url": "https://kosodate-and.net/sixtones-chinatown",
-    "visited_date": "",
+    "visited_date": "2023-03-15",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54536,7 +54564,7 @@
     "youtube_id": "",
     "source_video_title": "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？",
     "source_url": "https://kosodate-and.net/sixtones-chinatown",
-    "visited_date": "",
+    "visited_date": "2023-03-15",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54616,7 +54644,7 @@
     "youtube_id": "",
     "source_video_title": "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？",
     "source_url": "https://kosodate-and.net/6sixtones-atami",
-    "visited_date": "",
+    "visited_date": "2026-01-13",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54656,7 +54684,7 @@
     "youtube_id": "",
     "source_video_title": "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？",
     "source_url": "https://kosodate-and.net/6sixtones-atami",
-    "visited_date": "",
+    "visited_date": "2026-01-13",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54696,7 +54724,7 @@
     "youtube_id": "",
     "source_video_title": "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？",
     "source_url": "https://kosodate-and.net/sixtones-goemon",
-    "visited_date": "",
+    "visited_date": "2024-01-12",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54719,7 +54747,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "たらこと湯葉とモッツァレラチーズのカルボナーラ",
+      "タコのペペロンチーノ"
+    ],
     "tabelog_score": 3.07,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金 11:30 - 22:00 土・日 11:30 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
@@ -54736,7 +54767,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？",
     "source_url": "https://kosodate-and.net/sixtones-hamada-egg-sando",
-    "visited_date": "",
+    "visited_date": "2024-05-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54776,7 +54807,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？",
     "source_url": "https://kosodate-and.net/sixtones-hamada-egg-sando",
-    "visited_date": "",
+    "visited_date": "2024-05-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54816,7 +54847,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？",
     "source_url": "https://kosodate-and.net/sixtones-hamada-egg-sando",
-    "visited_date": "",
+    "visited_date": "2024-05-25",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54856,7 +54887,7 @@
     "youtube_id": "",
     "source_video_title": "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年",
     "source_url": "https://kosodate-and.net/thetime-matsu-hokuto-100",
-    "visited_date": "",
+    "visited_date": "2025-02-24",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54896,7 +54927,7 @@
     "youtube_id": "",
     "source_video_title": "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年",
     "source_url": "https://kosodate-and.net/thetime-matsu-hokuto-100",
-    "visited_date": "",
+    "visited_date": "2025-02-24",
     "members": [
       "ジェシー",
       "京本大我",
@@ -54936,7 +54967,7 @@
     "youtube_id": "",
     "source_video_title": "【だが、情熱はあるロケ地】第6話で山里がしずちゃんの言動につっこんでいた定食屋さんは？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-kikuyoshi",
-    "visited_date": "",
+    "visited_date": "2023-05-15",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55016,7 +55047,7 @@
     "youtube_id": "",
     "source_video_title": "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸",
     "source_url": "https://kosodate-and.net/golden-sixtones-tantanmen",
-    "visited_date": "",
+    "visited_date": "2025-09-18",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55056,7 +55087,7 @@
     "youtube_id": "",
     "source_video_title": "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸",
     "source_url": "https://kosodate-and.net/golden-sixtones-tantanmen",
-    "visited_date": "",
+    "visited_date": "2025-09-18",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55096,7 +55127,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-genghis-khan",
-    "visited_date": "",
+    "visited_date": "2026-05-22",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55119,7 +55150,26 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "コーラ（樹・北斗）",
+      "ジンジャーエール（大我）",
+      "コーン茶（髙地）",
+      "生ビール（ジェシー・慎太郎）",
+      "上ラム",
+      "上マトン",
+      "ライス",
+      "中（樹・大我）",
+      "小（北斗）",
+      "ネギ卵飯",
+      "中（髙地・慎太郎）",
+      "もやしナムル",
+      "キムチ",
+      "韓国のり",
+      "チャンジャ",
+      "黒毛和牛（お店からサービス）",
+      "ラムチョップ",
+      "ネギ玉飯"
+    ],
     "tabelog_score": 3.16,
     "price_range": "￥3,000～￥3,999",
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 16:00 - 23:30 L.O. 23:00 ※年末年始（2025年12月31日～2026年1月1日）は休み"
@@ -55136,7 +55186,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-hokujuri-beer",
-    "visited_date": "",
+    "visited_date": "2024-09-14",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55176,7 +55226,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-hokujuri-beer",
-    "visited_date": "",
+    "visited_date": "2024-09-14",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55216,7 +55266,7 @@
     "youtube_id": "",
     "source_video_title": "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？",
     "source_url": "https://kosodate-and.net/sixtones-hokujuri-beer",
-    "visited_date": "",
+    "visited_date": "2024-09-14",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55256,7 +55306,7 @@
     "youtube_id": "",
     "source_video_title": "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキ",
     "source_url": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe",
-    "visited_date": "",
+    "visited_date": "2024-05-21",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55296,7 +55346,7 @@
     "youtube_id": "",
     "source_video_title": "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキ",
     "source_url": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe",
-    "visited_date": "",
+    "visited_date": "2024-05-21",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55336,7 +55386,7 @@
     "youtube_id": "",
     "source_video_title": "だが、情熱はあるロケ地【森本慎太郎撮影】大阪のお好み焼き屋さんはどこ？",
     "source_url": "https://kosodate-and.net/daga-jyounetsu-shintaro-osaka",
-    "visited_date": "",
+    "visited_date": "2023-04-10",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55376,7 +55426,7 @@
     "youtube_id": "",
     "source_video_title": "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年",
     "source_url": "https://kosodate-and.net/6sixtones-atami-restaurant",
-    "visited_date": "",
+    "visited_date": "2026-01-14",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55399,7 +55449,11 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "金目鯛フリット・レッジェーロ",
+      "アサリとヒラメの勢いパスタ",
+      "Pizzaマルゲリータ"
+    ],
     "tabelog_score": 3.46,
     "price_range": "￥6,000～￥7,999",
     "business_hours": "月・火・水・木・金 11:30 - 21:00 L.O. 料理20:00 ドリンク20:30 土・日・祝日 11:00 - 21:30 L.O. 20:30 ■ 定休日なし ※季節により変更の場合があります"
@@ -55416,7 +55470,7 @@
     "youtube_id": "",
     "source_video_title": "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？",
     "source_url": "https://kosodate-and.net/ookami-jesse-jyuri-kankoku",
-    "visited_date": "",
+    "visited_date": "2023-11-21",
     "members": [
       "ジェシー",
       "京本大我",
@@ -55480,21 +55534,16 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
-      "北斗",
       "江ノ島丼（1,700円）",
       "はまぐりラーメン（1,350円）",
       "さざえのつぼ焼き 小2個（1,500円）",
       "ホット緑茶（400円）",
       "海鮮丼（2,600円）",
-      "はまぐりラーメン（1,350円）",
       "コーラ（400円）",
-      "慎太郎",
       "江の島定食（2,600円）",
       "いか丸焼き（950円）",
       "焼きはまぐり（1,900円）",
-      "はまぐり汁（950円）",
-      "コーラ（400円）",
-      "ジェシー"
+      "はまぐり汁（950円）"
     ],
     "tabelog_score": 3.46,
     "price_range": "￥1,000～￥1,999",
@@ -55620,18 +55669,12 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
-      "：特製佐野らーめん",
-      "慎太郎",
-      "：佐野らーめん＆チャーハンセット",
+      "特製佐野らーめん",
+      "佐野らーめん＆チャーハンセット",
       "自家製ラー油がけ",
-      "北斗",
-      "：ボンゴレ耳うどん",
-      "髙地",
-      "：大根そば ※現在は販売終了",
-      "ジェシー",
-      "：みかも山丼",
-      "京本",
-      "：佐野らーめん＆チャーハンセット"
+      "ボンゴレ耳うどん",
+      "大根そば",
+      "みかも山丼"
     ],
     "tabelog_score": 3.24,
     "price_range": "～￥999",

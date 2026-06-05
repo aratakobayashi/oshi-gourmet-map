@@ -8,6 +8,7 @@ prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市上多賀1027-8 ACAO ROSE SQUARE 本館 3F"
 price_range: "￥6,000～￥7,999"
+visited_date: "2026-01-14"
 source_video_title: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年"
 source_url: "https://kosodate-and.net/6sixtones-atami-restaurant"
 group: "sixtones"
@@ -26,4 +27,8 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+ordered_items:
+  - "金目鯛フリット・レッジェーロ"
+  - "アサリとヒラメの勢いパスタ"
+  - "Pizzaマルゲリータ"
 ---
