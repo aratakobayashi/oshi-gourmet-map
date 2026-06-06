@@ -45,8 +45,15 @@ async function loadShops() {
     url = BASE_URL + '/data/shops-lite/' + groupParam + '.json';
     _groupDataLoaded = groupParam;
   }
-  const res = await fetch(url);
-  allShops = await res.json();
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    allShops = await res.json();
+  } catch (e) {
+    const grid = document.getElementById('shop-grid');
+    if (grid) grid.innerHTML = '<p style="text-align:center;padding:2rem;color:#6b7280">データの読み込みに失敗しました。ページを再読み込みしてください。</p>';
+    return;
+  }
   filteredShops = [...allShops];
   if (typeof resetMapBounds === 'function') resetMapBounds();
 
@@ -588,7 +595,7 @@ function buildShopCard(shop) {
 
   const thumbHtml = thumb
     ? `<img src="${thumb}" alt="${escHtml(shop.name)}" loading="lazy">
-       <div class="shop-card__play"><div class="shop-card__play-icon">▶</div></div>`
+       <div class="shop-card__play" aria-hidden="true"><div class="shop-card__play-icon">▶</div></div>`
     : `<div class="shop-card__banner" style="background:${gradient}">
          <span class="shop-card__banner-icon">${icon}</span>
          <span class="shop-card__banner-genre">${escHtml(shop.genre || '')}</span>
@@ -804,10 +811,18 @@ function updateCount(n) {
 // ===========================
 // ♡ お気に入りトグル（localStorage）
 // ===========================
+function _lsGet(key, fallback) {
+  try { return JSON.parse(localStorage.getItem(key) || JSON.stringify(fallback)); }
+  catch { return fallback; }
+}
+function _lsSet(key, val) {
+  try { localStorage.setItem(key, JSON.stringify(val)); } catch {}
+}
+
 function toggleFav(event, shopId, btn) {
   event.preventDefault();
   event.stopPropagation();
-  const saved = JSON.parse(localStorage.getItem('fav_shops') || '[]');
+  const saved = _lsGet('fav_shops', []);
   const idx = saved.indexOf(shopId);
   if (idx >= 0) {
     saved.splice(idx, 1);
@@ -818,11 +833,11 @@ function toggleFav(event, shopId, btn) {
     btn.classList.add('saved');
     btn.textContent = '♥';
   }
-  localStorage.setItem('fav_shops', JSON.stringify(saved));
+  _lsSet('fav_shops', saved);
 }
 
 function restoreFavButtons() {
-  const saved = JSON.parse(localStorage.getItem('fav_shops') || '[]');
+  const saved = _lsGet('fav_shops', []);
   if (!saved.length) return;
   document.querySelectorAll('.shop-card__fav[aria-label="保存"]').forEach(btn => {
     const card = btn.closest('.shop-card');
@@ -872,6 +887,12 @@ document.addEventListener('DOMContentLoaded', () => {
         renderGrid(filteredShops);
         return;
       }
+      if (sessionStorage.getItem('geo_blocked') === '1') {
+        this.value = 'recent';
+        showToast('位置情報がブロックされています。ブラウザの設定から許可してください。');
+        renderGrid(filteredShops);
+        return;
+      }
       this.disabled = true;
       try {
         const { lat, lng } = await requestGeolocation();
@@ -879,9 +900,14 @@ document.addEventListener('DOMContentLoaded', () => {
         userLng = lng;
         renderGrid(filteredShops);
         if (typeof centerMapOnUser === 'function') centerMapOnUser(lat, lng);
-      } catch {
+      } catch (err) {
         this.value = 'recent';
-        showToast('現在地を取得できませんでした。位置情報の許可を確認してください。');
+        if (err && (err.code === 1 || err.message === 'unsupported')) {
+          sessionStorage.setItem('geo_blocked', '1');
+          showToast('位置情報がブロックされています。ブラウザの設定から許可してください。');
+        } else {
+          showToast('現在地を取得できませんでした。位置情報の許可を確認してください。');
+        }
         renderGrid(filteredShops);
       } finally {
         this.disabled = false;

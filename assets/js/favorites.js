@@ -14,12 +14,20 @@ document.addEventListener('DOMContentLoaded', async () => {
   let allShops = [];
 
   async function init() {
-    allShops = await fetch(SHOPS_URL).then(r => r.json());
+    try {
+      const res = await fetch(SHOPS_URL);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      allShops = await res.json();
+    } catch {
+      grid.innerHTML = '<p style="text-align:center;padding:2rem;color:#6b7280">データの読み込みに失敗しました。ページを再読み込みしてください。</p>';
+      return;
+    }
     render();
   }
 
   function render() {
-    const saved = JSON.parse(localStorage.getItem('fav_shops') || '[]');
+    let saved = [];
+    try { saved = JSON.parse(localStorage.getItem('fav_shops') || '[]'); } catch {}
     const favShops = saved.map(id => allShops.find(s => s.id === id)).filter(Boolean);
 
     if (countEl) countEl.textContent = favShops.length + '件';
@@ -51,7 +59,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   if (clearBtn) {
     clearBtn.addEventListener('click', () => {
       if (!confirm('お気に入りをすべて削除しますか？')) return;
-      localStorage.removeItem('fav_shops');
+      try { localStorage.removeItem('fav_shops'); } catch {}
       render();
     });
   }

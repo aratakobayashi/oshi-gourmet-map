@@ -152,7 +152,8 @@ description: よにのちゃんねる・Snow Man・SixTONESなど推しグルー
       renderAreaRanking(shops);
     })
     .catch(function() {
-      document.querySelector('main').innerHTML = '<div class="container" style="padding:80px 16px;text-align:center;color:var(--c-muted)">データを読み込めませんでした</div>';
+      var target = document.getElementById('group-ranking') || document.querySelector('main');
+      if (target) target.innerHTML = '<div style="padding:80px 16px;text-align:center;color:var(--c-muted)">データを読み込めませんでした。<br><a href="" onclick="location.reload();return false;" style="color:inherit;text-decoration:underline">再読み込み</a></div>';
     });
 }());
 </script>

@@ -109,6 +109,7 @@ layout: default
   {% if s.address %}"address": { "@type": "PostalAddress", "streetAddress": {{ s.address | jsonify }}, "addressCountry": "JP" },{% endif %}
   {% if s.lat and s.lng %}"geo": { "@type": "GeoCoordinates", "latitude": {{ s.lat }}, "longitude": {{ s.lng }} },{% endif %}
   {% if s.youtube_id %}"sameAs": "https://www.youtube.com/watch?v={{ s.youtube_id }}",{% endif %}
+  {% if s.tabelog_score %}"aggregateRating": { "@type": "AggregateRating", "ratingValue": {{ s.tabelog_score }}, "bestRating": "5", "worstRating": "1", "ratingCount": "1", "reviewCount": "1" },{% endif %}
   "url": "{{ page.url | absolute_url }}"
 }
 </script>
