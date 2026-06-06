@@ -2518,60 +2518,6 @@
     ]
   },
   {
-    "id": "snowman-yoshidaya-tachiaigawa",
-    "name": "そば会席 立会川 吉田家",
-    "genre": "和食",
-    "prefecture": "東京都",
-    "city": "品川区",
-    "address": "東京都品川区東大井2-15-13",
-    "lat": 35.6084,
-    "lng": 139.7319,
-    "youtube_id": "RcjctEjNWzE",
-    "members": [
-      "岩本照",
-      "深澤辰哉",
-      "佐久間大介",
-      "ラウール"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "visited_date": "2023-10-11",
-    "description": "品川区の和食店。岩本照・深澤辰哉・佐久間大介らが2023年10月に訪れた。「阿部亮平の食べたいものを当てろ」で訪れた、落ち着いた佇まいの老舗蕎麦店。",
-    "tags": [
-      "そば",
-      "老舗",
-      "品川",
-      "会席"
-    ],
-    "affiliate_links": [],
-    "source_video_url": "https://www.youtube.com/watch?v=S9-X-o7xTyk",
-    "source_video_title": "Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ㊗️",
-    "seating_note": "SnowManが座った席は、「特別室 松の間」です。",
-    "thumbnail_url": "https://img.youtube.com/vi/RcjctEjNWzE/hqdefault.jpg",
-    "nearest_station": "「立会川駅」より徒歩6分「大井町駅」より徒歩12分",
-    "tabelog_score": 3.54,
-    "price_range": "￥15,000～￥19,999",
-    "business_hours": "月・水・木・金 11:30 - 14:00 L.O. 13:30 17:30 - 21:00 L.O. 料理20:00 ドリンク20:30 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 20:30 L.O. 20:00 火 定休日 ■ 営業時間土日祝の15:00~17:00は昼休憩をさせて頂きます■ 定休日毎週火曜日と第一第三月曜日 祝日営業 翌振替休日4/7とゴ",
-    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13003333/",
-    "ordered_items": [
-      "鴨せいろ（深澤辰哉）",
-      "くずきり（深澤辰哉）",
-      "鴨南蛮（佐久間大介）",
-      "くずきり（佐久間大介）",
-      "天せいろ（岩本照）",
-      "わらびもち（岩本照）",
-      "天せいろ（ラウール）",
-      "そば汁粉（ラウール）",
-      "卵焼き（ラウール）",
-      "そば味噌（ラウール）",
-      "揚げ出し豆腐（ラウール）",
-      "天婦羅盛合わせ（ラウール）",
-      "お刺身盛合わせ(5種)（ラウール）"
-    ]
-  },
-  {
     "id": "snowman-kitchen-rocco-hachioji",
     "name": "Kitchen ROCCO",
     "genre": "食事",
@@ -4466,7 +4412,8 @@
     "price_range": "￥3,000～￥3,999",
     "business_hours": "10:00 - 22:00 L.O. 料理21:30 ■ 営業時間レストラン（2F）11:00〜22:00 L.O.21:30■ 定休日無休",
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14040668/",
-    "nearest_station": "元町・中華街駅 徒歩5分"
+    "nearest_station": "元町・中華街駅 徒歩5分",
+    "source_url": "https://kosodate-and.net/sixtones-chinatown"
   },
   {
     "id": "sixtones-ryukaihanten-chinatown",
@@ -4682,52 +4629,6 @@
     "price_range": "￥4,000～￥4,999",
     "business_hours": "月・火・水・木・金 17:00 - 00:00 土・日 11:00 - 16:00 17:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
     "tabelog_url": "https://tabelog.com/gunma/A1004/A100401/10022984/"
-  },
-  {
-    "id": "sixtones-ushioidochu-nagoya",
-    "name": "極上松阪牛 牛追道中",
-    "genre": "焼肉",
-    "prefecture": "愛知県",
-    "city": "名古屋市東区",
-    "address": "愛知県名古屋市東区泉1-9-21",
-    "lat": 35.173458,
-    "lng": 136.915774,
-    "youtube_id": "CcwwsKelz6M",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "田中樹",
-      "森本慎太郎"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2025-04-18",
-    "description": "名古屋の高級松阪牛専門焼肉店。YOUNG OLD 5大ドームツアー名古屋バンテリンドーム千穐楽前の打ち上げ会場（ストチューブ2025年4月18日配信）。木村拓哉も訪れる芸能人御用達店。",
-    "tags": [
-      "焼肉",
-      "松阪牛",
-      "名古屋",
-      "打ち上げ",
-      "聖地巡礼"
-    ],
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/aichi/A2301/A230103/23065847/"
-      }
-    ],
-    "source_video_title": "SixTONES【撮れたてほやほや🎵】YOUNG OLD５大ドームツアー打上げ！",
-    "source_video_url": "https://www.youtube.com/watch?v=CcwwsKelz6M",
-    "thumbnail_url": "https://img.youtube.com/vi/CcwwsKelz6M/hqdefault.jpg",
-    "tabelog_score": 3.42,
-    "price_range": "￥6,000～￥7,999",
-    "business_hours": "火・水・木・金 11:00 - 14:30 L.O. 14:00 17:00 - 23:30 L.O. 23:00 土・日・祝日 11:00 - 15:00 L.O. 14:30 17:00 - 23:30 L.O. 23:00 月 定休日 ■ 御予約～ランチ営業～(ランチメニュー、焼肉単品、コース、ステーキ、すき焼、しゃぶしゃぶ） 全日 予約可能～ディナー営業～（焼肉単品、コース、すき焼、しゃぶ",
-    "tabelog_url": "https://tabelog.com/aichi/A2301/A230104/23060894/",
-    "nearest_station": "高岳駅 徒歩1分"
   },
   {
     "id": "sixtones-honjo-kaeru-honpo",
@@ -8855,53 +8756,6 @@
     ]
   },
   {
-    "id": "snowman-3b39dc89-202409",
-    "name": "おにぎり 浅草 宿六",
-    "genre": "和食",
-    "prefecture": "",
-    "city": "",
-    "address": "",
-    "lat": 35.7168964,
-    "lng": 139.7947511,
-    "youtube_id": "5B1_1ipNkJE",
-    "source_video_title": "Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ🍙",
-    "visited_date": "2024-09-18",
-    "members": [],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "つくばエクスプレス浅草駅 徒歩3分",
-    "description": "和食店。Snow Manが訪れたロケ地。すの日常（Snow Man）「東京で最古…元祖にぎりめし」に登場した和食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13024859/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppvccp99002",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1311/A131102/13024859/"
-      },
-      {
-        "label": "ホットペッパーで予約",
-        "url": "https://www.hotpepper.jp/strJ000126816/?vos=nhppvccp99002"
-      }
-    ],
-    "thumbnail_url": "https://img.youtube.com/vi/5B1_1ipNkJE/hqdefault.jpg",
-    "tabelog_score": 3.49,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "月・木・金・土 11:30 - 14:00 17:00 - 20:00 火・水 11:30 - 14:00 日 定休日 ご飯が無くなり次第終了",
-    "ordered_items": [
-      "塩辛（深澤辰哉）",
-      "紅生姜（深澤辰哉）",
-      "たらこ（ラウール）",
-      "いくら（ラウール）",
-      "しらす（渡辺翔太）",
-      "いくら（渡辺翔太）",
-      "昆布（向井康二）",
-      "生姜味噌漬け（向井康二）"
-    ]
-  },
-  {
     "id": "snowman-b8d6ca27-202405",
     "name": "キッチン 南国",
     "genre": "食事",
@@ -9779,46 +9633,6 @@
     "tabelog_score": 3.51,
     "price_range": "～￥999",
     "business_hours": "11:30 - 18:00 L.O. 17:30 ■ 定休日年中無休",
-    "source_type": "tv"
-  },
-  {
-    "id": "nogizaka46-3bd4b889-",
-    "name": "浅草 花月堂 本店",
-    "genre": "カフェ",
-    "prefecture": "東京都",
-    "city": "台東区",
-    "address": "東京都台東区浅草2-7-13",
-    "lat": 35.7175966,
-    "lng": 139.7975626,
-    "youtube_id": "",
-    "source_video_title": "乃木坂ってどこ？",
-    "visited_date": "",
-    "members": [
-      "星野みなみ",
-      "佐藤楓",
-      "松井玲奈"
-    ],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "本堂駅 徒歩8分",
-    "description": "『乃木坂ってどこ？』の9thヒット祈願の放送内で松井玲奈さん、星野みなみさんが花月堂のジャンボめろんぱんを食べていました^ ^ 佐藤楓さんも『BRODY』の撮影を浅草で行い、撮影後に食べたようです。公式ブログでも紹介されていました^ ^",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13183985/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E6%B5%85%E8%8D%89%20%E8%8A%B1%E6%9C%88%E5%A0%82%20%E6%9C%AC%E5%BA%97"
-      }
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "tabelog_score": 3.57,
-    "price_range": "-",
-    "business_hours": "09:00 - 17:00 ■ 営業時間ジャンボめろんぱん完売次第閉店 16時くらいが目安■ 定休日年中無休(正月も休まず営業)",
     "source_type": "tv"
   },
   {
@@ -13003,36 +12817,6 @@
     "business_hours": "月・火・水・木・金・土・日・祝日 08:00 - 22:00 ■ 定休日不定休"
   },
   {
-    "id": "equal_love-06786e82-202408",
-    "name": "那覇文化芸術劇場なはーと",
-    "genre": "その他",
-    "prefecture": "沖縄県",
-    "city": "那覇市",
-    "address": "沖縄県那覇市久茂地３丁目２６−２７",
-    "lat": 26.2155548,
-    "lng": 127.6825382,
-    "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
-    "visited_date": "2024-08-15",
-    "members": [
-      "大谷映美里"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "県庁前駅 徒歩6分",
-    "description": "那覇市のグルメスポット。大谷映美里が2024年8月に訪れた。那覇市のグルメスポット。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたお店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47028929/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
-    "tabelog_score": 3.44,
-    "price_range": "￥2,000～￥2,999",
-    "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 17:00 - 01:00 L.O. 料理00:00 ドリンク00:30 即予約 来店日の7日前15時まで受付 ※曜日、コースによって締切が異なる場合があります。"
-  },
-  {
     "id": "notme-dog_cat_joker_avenue-202408",
     "name": "DOG&CAT JOKER二子玉川 -AVENUE&CARE-",
     "genre": "その他",
@@ -13750,39 +13534,6 @@
     "business_hours": "10:00 - 18:00 L.O. 17:30 ■ 定休日なし ※定休日がある場合は、HPに掲載します。"
   },
   {
-    "id": "notme-c2da826b-202408",
-    "name": "熱海城",
-    "genre": "食事",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市熱海１９９３",
-    "lat": 35.0863779,
-    "lng": 139.0786816,
-    "youtube_id": "fSBicVF8TfQ",
-    "source_video_title": "",
-    "visited_date": "2024-08-05",
-    "members": [
-      "蟹沢萌子",
-      "河口夏音",
-      "菅波美玲",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "",
-    "description": "熱海市のレストラン。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22039494/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/fSBicVF8TfQ/hqdefault.jpg",
-    "tabelog_score": 3.46,
-    "price_range": "￥6,000～￥7,999",
-    "business_hours": "月・火・水・木・金 11:30 - 21:00 L.O. 料理20:00 ドリンク20:30 土・日・祝日 11:00 - 21:30 L.O. 20:30 ■ 定休日なし ※季節により変更の場合があります"
-  },
-  {
     "id": "equal_love-93d5e98f-202408",
     "name": "清水順正 おかべ家",
     "genre": "和食",
@@ -13842,35 +13593,6 @@
     "tabelog_score": 3.43,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 15:00 L.O. 15:00 17:00 - 21:00 L.O. 20:00"
-  },
-  {
-    "id": "equal_love-sme_onsite-202408",
-    "name": "SME六番町ビル 多目的スペース「OnSITE」",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区六番町４−５",
-    "lat": 35.687493,
-    "lng": 139.733399,
-    "youtube_id": "9YA8s463_l8",
-    "source_video_title": "",
-    "visited_date": "2024-08-04",
-    "members": [
-      "佐々木舞香",
-      "野口衣織",
-      "諸橋沙夏"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "四ツ谷駅 徒歩5分",
-    "description": "千代田区のレストラン。佐々木舞香・野口衣織・諸橋沙夏が2024年8月に訪れた。=LOVEの佐々木舞香・野口衣織らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/9YA8s463_l8/hqdefault.jpg"
   },
   {
     "id": "notme-9293ad0d-202408",
@@ -15346,36 +15068,6 @@
     "tabelog_score": 3.09,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金・土 11:00 - 23:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "equal_love-the_smash_scramble-20250613",
-    "name": "THE SMASH SCRAMBLE",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区宇田川町２６−１１ 白馬ビル",
-    "lat": 35.6620752,
-    "lng": 139.6974957,
-    "youtube_id": "9g0At0uaJmc",
-    "source_video_title": "",
-    "visited_date": "2025-06-13",
-    "members": [
-      "髙松瞳"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "渋谷駅 徒歩7分",
-    "description": "渋谷区のレストラン。髙松瞳が2025年6月に訪れた。渋谷区のレストラン。髙松瞳が2025年6月に訪れた。=LOVEの髙松瞳が訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13305527/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/9g0At0uaJmc/hqdefault.jpg",
-    "tabelog_score": 3.33,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "12:00 - 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "equal_love-287b97eb-202506",
@@ -20315,8 +20007,8 @@
     "prefecture": "神奈川県",
     "city": "中郡二宮町",
     "address": "神奈川県中郡二宮町",
-    "lat": 37.2159314,
-    "lng": 140.4783548,
+    "lat": 35.2994901,
+    "lng": 139.2555671,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season9 第2話",
     "visited_date": "",
@@ -25453,55 +25145,6 @@
     "tabelog_score": 3.05,
     "price_range": "-",
     "business_hours": "10:00 - 16:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "snowman-4176fc13-20250506",
-    "name": "キッチンぴーなっつ",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "荒川区",
-    "address": "東京都荒川区西尾久6-18-1",
-    "lat": 35.750299,
-    "lng": 139.7580339,
-    "youtube_id": "gUa2iAE2R0Y",
-    "source_video_title": "【すのちゅーぶ】荒川洋食「キッチンぴーなっつ」食べたメニューは？予約できる？SnowManロケ地",
-    "visited_date": "2025-05-06",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "「荒川遊園地前停留所」より徒歩３分「尾久駅」より徒歩12分",
-    "description": "荒川区のレストラン。岩本照・ラウール・深澤辰哉らが2025年5月に訪れた。すの日常（Snow Man）「キッチンぴーなっつ」に登場した飲食店。岩本照・ラウールらが訪問。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13059703/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/gUa2iAE2R0Y/hqdefault.jpg",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "tabelog_score": 3.22,
-    "price_range": "-",
-    "business_hours": "月・火・水・金・土・日 11:30 - 14:00 L.O. 13:30 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
-    "ordered_items": [
-      "ハンバーグカレーチーズ焼き（深澤辰哉）",
-      "れんこん入りハンバーグ（目黒蓮）",
-      "たっぷり小エビのドリア（目黒蓮）",
-      "チーズハンバーグミートソース（向井康二）",
-      "チーズハンバーグミートソース（ラウール）",
-      "ミートドリア（ラウール）"
-    ]
   },
   {
     "id": "snowman-captains_grill_and_b-20250429",
@@ -31892,44 +31535,6 @@
     "tmdb_type": ""
   },
   {
-    "id": "snowman-7c60b6eb-20260327",
-    "name": "山形駅東口駅前広場",
-    "genre": "食事",
-    "prefecture": "山形県",
-    "city": "南陽市",
-    "address": "山形県南陽市二色根6-18",
-    "lat": 38.05336,
-    "lng": 140.160516,
-    "youtube_id": "",
-    "source_video_title": "【ZIP!】阿部亮平が山形で食べたラーメンは？ロケ地まとめ｜SnowMan聖地巡礼",
-    "visited_date": "2026-03-27",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "JR奥羽本線(山形新幹線)「赤湯」駅より徒歩20分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg",
-    "source_type": "",
-    "tmdb_id": 124588,
-    "tmdb_type": "tv"
-  },
-  {
     "id": "snowman-e7d2545a-20260323",
     "name": "日光東照宮",
     "genre": "食事",
@@ -32988,47 +32593,6 @@
     "source_type": "",
     "tmdb_id": 240779,
     "tmdb_type": "tv"
-  },
-  {
-    "id": "snowman-74014882-20250910",
-    "name": "海上保安学校",
-    "genre": "食事",
-    "prefecture": "京都府",
-    "city": "舞鶴市",
-    "address": "京都府舞鶴市字余部下763",
-    "lat": 35.4891291,
-    "lng": 135.3531049,
-    "youtube_id": "BJxI9yyEA8Y",
-    "source_video_title": "【それスノ】渡辺翔太が海上保安学校に！町中華「梅乃家」食べたメニューは？SnowManロケ地",
-    "visited_date": "2025-09-10",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "JR「東舞鶴駅」から約2.7km（バス停「中舞鶴」から徒歩1分）",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kyoto/A2609/A260902/26011367/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137662/137662680.jpg?token=7aa56f1&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "tabelog_score": 3.05,
-    "price_range": "-",
-    "business_hours": "月・水・木 11:00 - 14:00 金・土・日 11:00 - 14:00 17:00 - 19:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "snowman-8ce97f07-20250914",
@@ -37897,8 +37461,8 @@
     "prefecture": "北海道",
     "city": "旭川市",
     "address": "北海道旭川市五条通7丁目右6",
-    "lat": 35.033107,
-    "lng": 135.996035,
+    "lat": 43.7700774,
+    "lng": 142.3608681,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-11-23",
@@ -38284,44 +37848,6 @@
     "tabelog_score": 3.38,
     "price_range": "～￥999",
     "business_hours": "月・火・水・木・金・土 10:00 - 19:00 祝日 10:00 - 18:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "arashi-22ac1549-20191109",
-    "name": "川島旅館",
-    "genre": "食事",
-    "prefecture": "北海道",
-    "city": "天塩郡豊富町",
-    "address": "北海道天塩郡豊富町豊富温泉",
-    "lat": 45.0736238,
-    "lng": 141.8403635,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2019-11-09",
-    "members": [
-      "相葉雅紀"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "",
-    "description": "［記事公開日］2019-11-09［最終更新日］2024-03-07",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hokkaido/A0109/A010902/1022810/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/hokkaido/A0109/A010902/1022810/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356667/2e3eb7ea7a5cb7b973ba87aad932629b.jpg?token=1cf506b&api=v2",
-    "source_type": "tv",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "tabelog_score": 3.19,
-    "price_range": "￥10,000～￥14,999",
-    "business_hours": "08:00 - 21:00 ■ 営業時間旅館ですので概ね8時～21時くらいと思われます。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "arashi-8fdcc077-20191109",
@@ -39240,8 +38766,8 @@
     "prefecture": "福岡県",
     "city": "糸島市",
     "address": "福岡県糸島市多久507",
-    "lat": 35.716026,
-    "lng": 139.7950761,
+    "lat": 33.543054,
+    "lng": 130.194529,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-09-14",
@@ -43160,8 +42686,8 @@
     "prefecture": "神奈川県",
     "city": "横浜市",
     "address": "神奈川県横浜市中区山下町148",
-    "lat": 39.9101375,
-    "lng": 140.0843973,
+    "lat": 35.4435169,
+    "lng": 139.6474883,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-15",
@@ -47427,49 +46953,6 @@
     "tmdb_type": "",
     "ordered_items": [
       "松阪牛ステーキ丼"
-    ]
-  },
-  {
-    "id": "timelesz-premium-20260417",
-    "name": "大江戸温泉物語Premium 鬼怒川観光ホテル",
-    "genre": "バイキング",
-    "prefecture": "栃木県",
-    "city": "日光市",
-    "address": "栃木県日光市鬼怒川温泉滝359-2",
-    "lat": 36.8226802,
-    "lng": 139.7164667,
-    "youtube_id": "",
-    "source_video_title": "タイムレスマン ゴールデン初回 日光街道！脱落旅SP（2026年4月17日）",
-    "source_url": "https://kotobatoplan.com/timeleszman-nikkou/",
-    "visited_date": "2026-04-17",
-    "members": [
-      "菊池風磨",
-      "佐藤勝利",
-      "松島聡",
-      "寺西拓人",
-      "原嘉孝",
-      "橋本将生",
-      "猪俣周杜",
-      "篠塚大輝"
-    ],
-    "groups": [
-      "timelesz"
-    ],
-    "group": "timelesz",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "tv",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "黒毛和牛ロース焼きすき",
-      "紅ズワイガニ",
-      "天然本まぐろ大ネタ寿司"
     ]
   },
   {
@@ -54511,46 +53994,6 @@
     "tabelog_score": 3.59,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・水・木・金・土・日 11:00 - 21:00 L.O. 20:00 火 定休日 ■ 定休日火曜日が祝日となる場合は営業。翌水曜日が振替休日"
-  },
-  {
-    "id": "sixtones-c2676a27-",
-    "name": "鵬天閣　新館",
-    "genre": "",
-    "prefecture": "神奈川県",
-    "city": "横浜市",
-    "address": "神奈川県横浜市中区山下町192-15",
-    "lat": 35.4429058,
-    "lng": 139.6514509,
-    "youtube_id": "",
-    "source_video_title": "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？",
-    "source_url": "https://kosodate-and.net/sixtones-chinatown",
-    "visited_date": "2023-03-15",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "田中樹",
-      "森本慎太郎"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14040668/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/289620/96f743bd943cb625839182583a60bae7.jpg?token=dd4a3ad&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.49,
-    "price_range": "￥3,000～￥3,999",
-    "business_hours": "10:00 - 22:00 L.O. 料理21:30 ■ 営業時間レストラン（2F）11:00〜22:00 L.O.21:30■ 定休日無休"
   },
   {
     "id": "sixtones-785c205b-",
