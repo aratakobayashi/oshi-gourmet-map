@@ -160,3 +160,39 @@ for shop in shops:
     generated += 1
 
 print(f"Generated {generated} shop pages in {OUT_DIR}")
+
+# ── _group_pages/*.md の shop_count を実件数に同期 ──────────────────
+import re as _re
+from collections import Counter as _Counter
+from pathlib import Path as _Path
+
+_gc = _Counter()
+for s in shops:
+    for g in s.get('groups', []):
+        _gc[g] += 1
+
+GROUP_PAGES_DIR = _Path(ROOT) / '_group_pages'
+sync_updated = 0
+for md in sorted(GROUP_PAGES_DIR.glob('*.md')):
+    text = md.read_text(encoding='utf-8')
+    m = _re.search(r'^group_key:\s*"([^"]+)"', text, _re.MULTILINE)
+    if not m:
+        continue
+    gkey = m.group(1)
+    actual = _gc.get(gkey, 0)
+    old_m = _re.search(r'^shop_count:\s*(\d+)', text, _re.MULTILINE)
+    if not old_m or int(old_m.group(1)) == actual:
+        continue
+    old = int(old_m.group(1))
+    new_text = _re.sub(r'^shop_count:\s*\d+', f'shop_count: {actual}', text, flags=_re.MULTILINE)
+    new_text = _re.sub(r'(title:.*?)' + str(old) + r'(選|件)', rf'\g<1>{actual}\g<2>', new_text)
+    lm = _re.search(r'^group_label:\s*"([^"]+)"', text, _re.MULTILINE)
+    if lm:
+        label = _re.escape(lm.group(1))
+        new_text = _re.sub(r'(' + label + r'.*?グルメスポット)\d+(件)', rf'\g<1>{actual}\g<2>', new_text)
+    md.write_text(new_text, encoding='utf-8')
+    print(f"  group_pages sync: {gkey} {old} → {actual}")
+    sync_updated += 1
+
+if sync_updated:
+    print(f"  _group_pages shop_count 同期: {sync_updated}件")
