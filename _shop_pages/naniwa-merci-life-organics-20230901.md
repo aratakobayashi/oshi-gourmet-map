@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "練馬区"
 address: "東京都練馬区北町1丁目32-2"
+nearest_station: "東武練馬駅 徒歩9分"
 price_range: "～￥999"
 visited_date: "2023-09-01"
 source_video_title: "なにわ男子のどっち派 (2023-09-01)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13293979/"
 ---

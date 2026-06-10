@@ -21,4 +21,7 @@ lng: 135.7811947
 tabelog_score: 3.4
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kyoto/A2601/A260301/26001215/"
 ---

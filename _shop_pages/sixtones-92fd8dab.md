@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「銀座サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介された「銀座サンド」（東京都中央区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたその他「銀座サンド」（東京都中央区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-92fd8dab-"
 name: "銀座サンド"
+genre: "その他"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座7-6-4 フィーラ銀座ビル1F"
+nearest_station: "銀座駅 徒歩1分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2024-05-25"
 source_video_title: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13231045/"
 ---

@@ -1,15 +1,20 @@
 ---
 layout: shop
 title: "King & Princeが行った「エトワ木更津」"
-description: "めざましテレビ【岸優太ロケ地】廃校の小学校をリノベしたグランピング施設は？で紹介された「エトワ木更津」（千葉県木更津市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【岸優太ロケ地】廃校の小学校をリノベしたグランピング施設は？で紹介されたその他「エトワ木更津」（千葉県木更津市）。食べログ3.04点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-33828137-"
 name: "エトワ木更津"
+genre: "その他"
 prefecture: "千葉県"
 city: "木更津市"
 address: "千葉県木更津市下郡1886"
+price_range: "-"
 source_video_title: "めざましテレビ【岸優太ロケ地】廃校の小学校をリノベしたグランピング施設は？"
 source_url: "https://kosodate-and.net/mezamashi-kishi-glamping"
 group: "kingprince"
+tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12060150/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/310754/b464847d7dcce94d4dccf9c8e4d3e47e.jpg?token=82b56f8&api=v2"
+tabelog_score: 3.04
 members:
   - "永瀬廉"
   - "髙橋海人"

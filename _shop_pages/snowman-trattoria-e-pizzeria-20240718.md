@@ -32,4 +32,7 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
 ---

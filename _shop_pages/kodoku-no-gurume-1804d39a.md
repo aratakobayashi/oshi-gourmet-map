@@ -28,4 +28,7 @@ ordered_items:
   - "はすの天ぷら"
   - "玉ねぎの天ぷら"
   - "黒天丼"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1302/A130204/13018093/"
 ---

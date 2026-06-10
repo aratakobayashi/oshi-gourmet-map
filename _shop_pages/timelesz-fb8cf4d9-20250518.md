@@ -8,6 +8,7 @@ genre: "海鮮"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市田原本町4-8"
+nearest_station: "熱海駅 徒歩1分"
 price_range: "-"
 visited_date: "2025-05-18"
 source_video_title: "エース・周杜の「ちゃんとやれるかな？」熱海ロケ（2025年5月18日 日テレ）"
@@ -25,4 +26,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "金目鯛の紅白二色丼定食"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220502/22009940/"
 ---

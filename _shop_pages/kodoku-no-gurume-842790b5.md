@@ -29,4 +29,7 @@ ordered_items:
   - "おでん各種（大根・すすたけ・里芋）"
   - "白エビのかき揚げ"
   - "ご飯"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/toyama/A1601/A160101/16000879/"
 ---

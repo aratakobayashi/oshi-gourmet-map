@@ -34,4 +34,7 @@ ordered_items:
   - "アイスコーヒー(L)"
   - "カフェラテ(L)"
   - "カフェラテ(L)"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1314/A131401/13273494/"
 ---

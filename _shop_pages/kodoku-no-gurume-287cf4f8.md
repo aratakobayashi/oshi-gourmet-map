@@ -25,4 +25,7 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "カレーもやしラーメン定食"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0108/A010802/1034322/"
 ---

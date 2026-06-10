@@ -26,5 +26,5 @@ groups:
   - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sk=%E7%84%BC%E8%82%89Meat%20it"
+    url: "https://tabelog.com/tokyo/A1327/A132701/13256902/"
 ---

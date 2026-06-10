@@ -25,7 +25,7 @@ groups:
   - "nogizaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%96%AB%E8%8C%B6%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9D%E3%83%94%E3%83%BC"
+    url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016"
 ---

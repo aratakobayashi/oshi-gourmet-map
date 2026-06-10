@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "神奈川県"
 city: "藤沢市"
 address: "神奈川県藤沢市辻堂神台１丁目３−１　3階"
+nearest_station: "辻堂駅 徒歩5分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2024-05-17"
 source_video_title: "なにわ男子のどっち派 (2024-05-17)"
@@ -26,4 +27,7 @@ groups:
 ordered_items:
   - "生しらすとびっちょ丼
 2,200円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1404/A140402/14066245/"
 ---

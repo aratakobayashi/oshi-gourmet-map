@@ -29,4 +29,7 @@ ordered_items:
   - "つのにんにく"
   - "とろモツ（米沢牛ホルモン）"
   - "みよしカレー（〆）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/yamagata/A0602/A060201/6004247/"
 ---

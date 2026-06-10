@@ -27,7 +27,7 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%AF%20%E5%8D%83%E6%88%BF%20%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13004492/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001189354/?vos=nhppalsa000016"
 ---

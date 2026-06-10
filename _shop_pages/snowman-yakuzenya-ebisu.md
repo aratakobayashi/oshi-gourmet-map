@@ -43,6 +43,8 @@ ordered_items:
   - "高麗人参ゼリー（佐久間大介）"
   - "ヨーグルトアイス（佐久間大介）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13293862/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
 ---

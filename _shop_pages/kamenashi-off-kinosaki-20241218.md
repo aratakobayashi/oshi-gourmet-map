@@ -26,5 +26,5 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=OFF%20KINOSAKI"
+    url: "https://tabelog.com/hyogo/A2808/A280801/28052279/"
 ---

@@ -37,6 +37,8 @@ ordered_items:
   - "八王子ナポリタン（4人でシェア）"
   - "八王子白ナポリタン（4人でシェア）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
 ---

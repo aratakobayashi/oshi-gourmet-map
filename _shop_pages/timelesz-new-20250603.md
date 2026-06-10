@@ -8,6 +8,7 @@ genre: "ラーメン"
 prefecture: "埼玉県"
 city: "川越市"
 address: "〒350-0066　埼玉県川越市連雀町10−1"
+nearest_station: "本川越駅 徒歩9分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2025-06-03"
 source_video_title: "めざましテレビ 川越ロケ（2025年6月3日）"
@@ -27,4 +28,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "ハーフ川越三元豚カレー＆ハーフはつかり醤油ラーメン"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/saitama/A1103/A110303/11064993/"
 ---

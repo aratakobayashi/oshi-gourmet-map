@@ -43,6 +43,8 @@ ordered_items:
   - "昆布（向井康二）"
   - "生姜味噌漬け（向井康二）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000126816/?vos=nhppalsa000016"
 ---

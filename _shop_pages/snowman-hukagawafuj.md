@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「深川富士見」"
-description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都）。食べログ3.28点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都江東区）。食べログ3.28点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-hukagawafuj"
 name: "深川富士見"
 genre: "食事"
 prefecture: "東京都"
+city: "江東区"
 address: "東京都江東区古石場2-18-5"
 nearest_station: "「門前仲町駅」より徒歩13分※送迎バスあり"
 price_range: "￥10,000～￥14,999"
@@ -32,4 +33,7 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131303/13027424/"
 ---

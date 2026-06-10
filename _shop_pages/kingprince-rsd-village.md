@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「三崎 RSD Village」"
-description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介された「三崎 RSD Village」（神奈川県三浦市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介されたその他「三崎 RSD Village」（神奈川県三浦市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-rsd_village-"
 name: "三崎 RSD Village"
+genre: "その他"
 prefecture: "神奈川県"
 city: "三浦市"
 address: "神奈川県三浦市三崎2-4-4"

@@ -30,4 +30,7 @@ ordered_items:
   - "キムチ"
   - "石焼きビビンバ"
   - "赤身カルビ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220503/22015662/"
 ---

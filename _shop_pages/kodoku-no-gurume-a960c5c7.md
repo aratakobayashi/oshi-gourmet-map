@@ -29,4 +29,7 @@ ordered_items:
   - "バイツェーチ（蒸し鶏）"
   - "水餃子"
   - "ごま団子"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131902/13025878/"
 ---

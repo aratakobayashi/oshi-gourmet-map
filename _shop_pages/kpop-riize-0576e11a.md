@@ -23,4 +23,7 @@ members:
   - "ソヒ"
 groups:
   - "kpop_riize"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1329/A132901/13022168/"
 ---

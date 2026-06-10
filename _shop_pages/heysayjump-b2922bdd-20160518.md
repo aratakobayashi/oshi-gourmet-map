@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「赤坂鮨兆」"
-description: "2016.05.18 高級レストランのランチ特集で紹介された寿司「赤坂鮨兆」（東京都）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "2016.05.18 高級レストランのランチ特集で紹介された寿司「赤坂鮨兆」（東京都港区）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b2922bdd-20160518"
 name: "赤坂鮨兆"
 genre: "寿司"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区赤坂3-6-10 第3セイコービル3F"
 nearest_station: "赤坂駅 徒歩1分"
 price_range: "-"
@@ -26,6 +27,8 @@ members:
 groups:
   - "heysayjump"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1308/A130801/13320896/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000796674/?vos=nhppalsa000016"
 ---

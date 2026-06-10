@@ -38,4 +38,7 @@ ordered_items:
   - "しょうが焼き・チキンカツ（宮舘涼太）"
   - "ハーフカレールー（宮舘涼太）"
   - "エビフライ・しょうが焼き（佐久間大介）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130504/13279399/"
 ---

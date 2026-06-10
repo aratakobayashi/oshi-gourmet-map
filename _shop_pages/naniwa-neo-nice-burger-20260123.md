@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山3-6-23 2階"
+nearest_station: "外苑前駅 徒歩3分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2026-01-23"
 source_video_title: "なにわ男子のどっち派 (2026-01-23)"
@@ -28,4 +29,7 @@ ordered_items:
   - "ブラウンマッシュルームバーガー 760円"
   - "ナスアラビアータバーガー 660円"
   - "ブロッコリーチーズバーガー 660円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130602/13316356/"
 ---

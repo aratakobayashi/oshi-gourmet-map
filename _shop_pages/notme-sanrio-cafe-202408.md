@@ -24,4 +24,7 @@ members:
   - "本田珠由記"
 groups:
   - "notme"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13247285/"
 ---

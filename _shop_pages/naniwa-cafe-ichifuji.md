@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "三鷹市"
 address: "東京都三鷹市下連雀3-9-12"
+nearest_station: "三鷹駅 徒歩13分"
 price_range: "-"
 source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
@@ -22,4 +23,7 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1320/A132002/13270104/"
 ---

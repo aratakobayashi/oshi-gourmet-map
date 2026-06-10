@@ -24,5 +24,5 @@ groups:
   - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=MUUN%20seoul"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13261664/"
 ---

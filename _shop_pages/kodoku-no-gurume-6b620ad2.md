@@ -28,4 +28,7 @@ ordered_items:
   - "親どり"
   - "きも"
   - "とり野菜（鶏焼肉各種）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/mie/A2401/A240102/24001314/"
 ---

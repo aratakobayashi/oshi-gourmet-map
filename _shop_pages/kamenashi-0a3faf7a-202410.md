@@ -26,5 +26,5 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B8%80%E8%98%AD%20%E5%8E%9F%E5%AE%BF%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13125736/"
 ---

@@ -29,4 +29,7 @@ groups:
 tags:
   - "そば"
   - "青梅"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1330/A133003/13067142/"
 ---

@@ -22,4 +22,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220502/22037719/"
 ---

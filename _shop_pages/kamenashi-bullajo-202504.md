@@ -26,5 +26,5 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Bullajo"
+    url: "https://tabelog.com/tokyo/A1303/A130301/13159985/"
 ---

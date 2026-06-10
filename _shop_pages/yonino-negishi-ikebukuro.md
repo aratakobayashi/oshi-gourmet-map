@@ -31,4 +31,7 @@ tags:
   - "牛タン"
   - "池袋"
   - "和食"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13019184/"
 ---

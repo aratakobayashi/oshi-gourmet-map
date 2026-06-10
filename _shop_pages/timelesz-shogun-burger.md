@@ -6,6 +6,7 @@ shop_id: "timelesz-shogun_burger-"
 name: "SHOGUN BURGER"
 genre: "焼肉"
 prefecture: "東京都"
+nearest_station: "新宿駅 徒歩4分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2025-06-25"
 source_video_title: "寺西拓人 ハンバーガーまとめ"
@@ -21,4 +22,7 @@ members:
   - "寺西拓人"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13227776/"
 ---

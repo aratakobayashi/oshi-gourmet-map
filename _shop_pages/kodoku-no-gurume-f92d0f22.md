@@ -27,4 +27,7 @@ ordered_items:
   - "ぼたん鍋"
   - "山の芋とろろ"
   - "〆ごはん（生卵入り）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hyogo/A2807/A280702/28023086/"
 ---

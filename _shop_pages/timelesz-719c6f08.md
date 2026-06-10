@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "港区"
 address: "〒105-0011 東京都港区芝公園4丁目2−8　※東京タワー 1F"
+nearest_station: "芝公園駅 徒歩5分"
 price_range: "～￥999"
 visited_date: "2025-09-02"
 source_video_title: "タイムレスマン「アーユーハングリーマン」"
@@ -25,4 +26,7 @@ members:
   - "猪俣周杜"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1314/A131401/13311076/"
 ---

@@ -22,4 +22,7 @@ members:
   - "西畑大吾"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/yamanashi/A1902/A190201/19013756/"
 ---

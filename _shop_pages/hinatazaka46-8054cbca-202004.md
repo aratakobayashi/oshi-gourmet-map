@@ -25,5 +25,5 @@ groups:
   - "hinatazaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%81%8A%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%82%86%E3%81%86%E3%81%AA%E3%81%8E"
+    url: "https://tabelog.com/chiba/A1205/A120501/12014356/"
 ---

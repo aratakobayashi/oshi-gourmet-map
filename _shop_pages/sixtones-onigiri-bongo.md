@@ -22,4 +22,7 @@ lng: 139.7286
 tabelog_score: 3.56
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1323/A132302/13276342/"
 ---

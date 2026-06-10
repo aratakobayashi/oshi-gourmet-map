@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "もつ焼き"
   - "ホッピー"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130503/13260598/"
 ---

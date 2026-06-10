@@ -27,4 +27,7 @@ ordered_items:
   - "カツ丼 上"
   - "冷し麻婆麺"
   - "餃子"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13073525/"
 ---

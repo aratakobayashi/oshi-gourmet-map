@@ -37,4 +37,7 @@ ordered_items:
   - "牛たた定食（深澤辰哉）"
   - "サバの味噌煮定食（向井康二）"
   - "から揚げの揚げ浸し定食（阿部亮平）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131701/13306139/"
 ---

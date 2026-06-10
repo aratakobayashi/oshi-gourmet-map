@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「コーヒーラウンジジョイ」"
-description: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？で紹介された「コーヒーラウンジジョイ」（東京都台東区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？で紹介されたカフェ「コーヒーラウンジジョイ」（東京都台東区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-f850084c-"
 name: "コーヒーラウンジジョイ"
+genre: "カフェ"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草3-37-6"
+nearest_station: "本堂駅 徒歩8分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2023-05-26"
 source_video_title: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13087993/"
 ---

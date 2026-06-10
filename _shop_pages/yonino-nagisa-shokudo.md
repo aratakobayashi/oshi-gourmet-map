@@ -39,6 +39,8 @@ ordered_items:
   - "アジフライ(単品)"
   - "アジフライセット…ごはん…お味噌汁…小鉢4品付き"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13257962/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
 ---

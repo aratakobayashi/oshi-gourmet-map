@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「３丁目のちいさなパン屋さん」"
-description: "【SixTONES】緊急で動画回してますwおいしいパン屋さんを探して（2023/07/28配信）で紹介された「３丁目のちいさなパン屋さん」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "【SixTONES】緊急で動画回してますwおいしいパン屋さんを探して（2023/07/28配信）で紹介されたカフェ「３丁目のちいさなパン屋さん」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-af622cfe-"
 name: "３丁目のちいさなパン屋さん"
+genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "〒160-0001 東京都新宿区新宿５丁目１５−７ 東晃ビル"
@@ -26,4 +27,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
 ---

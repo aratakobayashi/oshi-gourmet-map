@@ -25,4 +25,7 @@ members:
   - "菊池風磨"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131904/13277894/"
 ---

@@ -25,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220502/22035765/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003365080/?vos=nhppalsa000016"
 ---

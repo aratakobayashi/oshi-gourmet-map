@@ -29,4 +29,7 @@ ordered_items:
   - "つみれ"
   - "はんぺん"
   - "ちくわぶ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131202/13127445/"
 ---

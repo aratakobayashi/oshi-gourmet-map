@@ -25,6 +25,8 @@ members:
 groups:
   - "timelesz"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13184758/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001126562/?vos=nhppalsa000016"
 ---

@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「銀座 柳寿司 三代目」"
-description: "そこ曲がったら、櫻坂？で紹介された「銀座 柳寿司 三代目」（東京都中央区）。食べログ3.13点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介された寿司「銀座 柳寿司 三代目」（東京都中央区）。食べログ3.13点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-b4ae6bc6-20220131"
 name: "銀座 柳寿司 三代目"
+genre: "寿司"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座7-3-14 月光ビル B1F"
@@ -27,4 +28,7 @@ members:
   - "増本綺良"
 groups:
   - "sakurazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13188510/"
 ---

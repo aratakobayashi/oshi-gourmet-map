@@ -43,4 +43,7 @@ ordered_items:
   - "無限ライス"
   - "たまご掛けご飯"
   - "粉チーズ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130504/13286314/"
 ---

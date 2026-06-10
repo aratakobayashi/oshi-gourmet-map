@@ -8,10 +8,6 @@ genre: "居酒屋"
 prefecture: "東京都"
 source_video_title: "自撮りTV"
 group: "hinatazaka46"
-tabelog_url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=CuBAR%20LOUNGE"
 groups:
   - "hinatazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=CuBAR%20LOUNGE"
 ---

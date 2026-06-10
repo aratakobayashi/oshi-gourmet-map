@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「秀ちゃんラーメン赤坂」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたラーメン「秀ちゃんラーメン赤坂」（東京都）。食べログ3.71点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたラーメン「秀ちゃんラーメン赤坂」（東京都港区）。食べログ3.71点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-d26f3f7f-20161026"
 name: "秀ちゃんラーメン赤坂"
 genre: "ラーメン"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区赤坂2-17-58"
 nearest_station: "赤坂駅 徒歩1分"
 price_range: "￥2,000～￥2,999"
@@ -24,4 +25,7 @@ members:
   - "有岡大貴"
 groups:
   - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130503/13222288/"
 ---

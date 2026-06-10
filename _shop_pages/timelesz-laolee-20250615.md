@@ -8,6 +8,7 @@ genre: "焼肉"
 prefecture: "東京都"
 city: "目黒区"
 address: "〒153-0051 東京都目黒区上目黒1丁目13-6"
+nearest_station: "中目黒駅 徒歩3分"
 price_range: "￥2,000～￥2,999"
 visited_date: "2025-06-15"
 source_video_title: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）"
@@ -26,4 +27,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "台湾餃子LAOLEE（ラオリー）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131701/13306628/"
 ---

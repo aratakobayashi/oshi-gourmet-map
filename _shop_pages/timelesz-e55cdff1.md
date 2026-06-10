@@ -6,6 +6,7 @@ shop_id: "timelesz-e55cdff1-"
 name: "タリーズコーヒー"
 genre: "カフェ"
 prefecture: "東京都"
+nearest_station: "三田駅 徒歩2分"
 price_range: "～￥999"
 source_video_title: "松島聡 カフェ巡りまとめ（インスタ）"
 source_url: "https://oshikatsu-time.com/timelesz-matsushimaso-cafe-matome/"
@@ -22,4 +23,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "ほうじ茶ラテ（アイス）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13193799/"
 ---

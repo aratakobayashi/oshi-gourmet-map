@@ -27,4 +27,7 @@ ordered_items:
   - "もやしと肉のピリ辛イタメ"
   - "ジャンボ餃子"
   - "やきとり"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1328/A132803/13040781/"
 ---

@@ -25,4 +25,7 @@ members:
   - "有岡大貴"
 groups:
   - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140101/14013332/"
 ---

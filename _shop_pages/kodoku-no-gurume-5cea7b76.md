@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "チート（豚胃）のしょうが炒め"
   - "パタン"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140102/14004194/"
 ---

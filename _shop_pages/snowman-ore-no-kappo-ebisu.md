@@ -48,6 +48,8 @@ ordered_items:
   - "刺身5点盛合せ（みんなでシェア）"
   - "からすみ蕎麦（みんなでシェア）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13308780/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
 ---

@@ -28,4 +28,7 @@ ordered_items:
   - "エスペトン・デ・ピカニャ"
   - "コーベ"
   - "ソーセージ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1002/A100203/10004487/"
 ---

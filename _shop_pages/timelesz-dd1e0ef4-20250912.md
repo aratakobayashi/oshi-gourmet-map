@@ -8,6 +8,7 @@ genre: "中華"
 prefecture: "東京都"
 city: "新宿区"
 address: "〒169-0075 東京都新宿区高田馬場１丁目２７−６ 高田馬場K・I ビル 5階"
+nearest_station: "高田馬場駅 徒歩5分"
 price_range: "￥2,000～￥2,999"
 visited_date: "2025-09-12"
 source_video_title: "ニノさん 高田馬場麻辣グルメ（2025年9月12日）"
@@ -29,4 +30,7 @@ groups:
 ordered_items:
   - "マーボー豆腐牛肉炒め（税込1,408円）"
   - "炎の揚州チャーハン（税込1,078円）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130503/13273758/"
 ---

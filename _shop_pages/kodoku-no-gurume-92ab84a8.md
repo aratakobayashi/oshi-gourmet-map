@@ -27,4 +27,7 @@ ordered_items:
   - "ステーキ丼"
   - "旬野菜のゴマ和え"
   - "ワカサギの南蛮漬け"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1410/A141001/14031445/"
 ---

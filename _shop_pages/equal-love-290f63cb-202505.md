@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "=LOVEが行った「熟成和牛焼肉 エイジング・ビーフ軽井沢」"
-description: "=LOVEのYouTubeで紹介された焼肉「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された焼肉「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-290f63cb-202505"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "焼肉"
 prefecture: "長野県"
+city: "北佐久郡軽井沢町"
 address: "長野県北佐久郡軽井沢町軽井沢１１７８−１６１ 軽井沢 味の街"
 nearest_station: "軽井沢駅 徒歩1分"
 price_range: "￥5,000～￥5,999"
@@ -24,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/nagano/A2003/A200301/20017854/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001275602/?vos=nhppalsa000016"
 ---

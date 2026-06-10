@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「赤ちり亭 渋谷本店」"
-description: "2016.03.03で紹介された食事「赤ちり亭 渋谷本店」（東京都）。推し活グルメ巡礼スポット。"
+description: "2016.03.03で紹介された食事「赤ちり亭 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-a5e442e2-201603"
 name: "赤ちり亭 渋谷本店"
 genre: "食事"
 prefecture: "東京都"
+city: "渋谷区"
 address: "東京都渋谷区宇田川町25　宇田川町センタービルB1"
 nearest_station: "渋谷駅 徒歩3分"
 visited_date: "2016-03-03"

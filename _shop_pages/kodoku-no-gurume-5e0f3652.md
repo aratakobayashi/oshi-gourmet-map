@@ -28,4 +28,7 @@ ordered_items:
   - "ほうれん草とリコッタチーズのキッシュ"
   - "サルシッチャセット"
   - "自家製黒糖ジンジャエール"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1321/A132101/13126515/"
 ---

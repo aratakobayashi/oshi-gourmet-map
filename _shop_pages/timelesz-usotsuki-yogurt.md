@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "港区"
 address: "〒106-0031 東京都港区西麻布１丁目４−３３ 1階"
+nearest_station: "六本木駅 徒歩9分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2025-09-15"
 source_video_title: "松島聡 カフェ巡りまとめ（インスタ）"
@@ -23,4 +24,7 @@ members:
   - "松島聡"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13311029/"
 ---

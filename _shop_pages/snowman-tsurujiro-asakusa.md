@@ -39,6 +39,8 @@ ordered_items:
   - "スペシャルもんじゃ"
   - "焦がし明太子もちチーズ玉"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13274875/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
 ---

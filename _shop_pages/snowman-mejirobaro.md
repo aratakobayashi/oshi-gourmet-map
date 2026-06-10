@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「Baro (ベロ)」"
-description: "Snow ManのYouTubeで紹介された食事「Baro (ベロ)」（東京都）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Baro (ベロ)」（東京都豊島区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
 genre: "食事"
 prefecture: "東京都"
+city: "豊島区"
 address: "東京都豊島区西池袋2-1-13"
 nearest_station: "「目白駅」より徒歩6分「池袋駅」より徒歩8分"
 price_range: "￥5,000～￥5,999"
@@ -32,4 +33,7 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130303/13251280/"
 ---

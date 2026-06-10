@@ -28,4 +28,7 @@ ordered_items:
   - "大あさり焼き"
   - "しらす天ぷら"
   - "たこめし"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/aichi/A2304/A230403/23007247/"
 ---

@@ -27,7 +27,7 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%83%9F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%97%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93"
+    url: "https://tabelog.com/osaka/A2705/A270501/27119941/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016"
 ---

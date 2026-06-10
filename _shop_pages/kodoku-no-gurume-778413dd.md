@@ -29,4 +29,7 @@ ordered_items:
   - "タイ東北ソーセージ"
   - "鶏のせ汁なし麺"
   - "カノムトーイ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1324/A132402/13003768/"
 ---

@@ -39,4 +39,7 @@ ordered_items:
   - "中華麺味玉(太麺)（向井康二）"
   - "特製江川亭餃子(シェア)（向井康二）"
   - "のり麺(太麵＆大盛り)（渡辺翔太）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1325/A132501/13005961/"
 ---

@@ -27,7 +27,7 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E9%B3%A5%E7%84%BC%20%E8%90%AC%E6%AD%B3%E4%BA%AD"
+    url: "https://tabelog.com/miyazaki/A4501/A450101/45000085/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000030058/?vos=nhppalsa000016"
 ---

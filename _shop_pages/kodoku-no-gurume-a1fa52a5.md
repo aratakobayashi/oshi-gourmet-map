@@ -25,4 +25,7 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "米沢牛そぼろ（精肉店テイクアウト）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/yamagata/A0602/A060201/6000504/"
 ---

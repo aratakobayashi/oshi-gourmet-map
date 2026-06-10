@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「平塚ジンギスカン すすきの店」"
-description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介された「平塚ジンギスカン すすきの店」（北海道札幌市）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介された食事「平塚ジンギスカン すすきの店」（北海道札幌市）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-c1965cb5-"
 name: "平塚ジンギスカン すすきの店"
+genre: "食事"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市中央区南四条西2-2-4 メルキュールホテル札幌 1F"
+nearest_station: "西線6条駅 徒歩1分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2026-05-22"
 source_video_title: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？"
@@ -46,4 +48,7 @@ ordered_items:
   - "黒毛和牛（お店からサービス）"
   - "ラムチョップ"
   - "ネギ玉飯"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0101/A010102/1081974/"
 ---

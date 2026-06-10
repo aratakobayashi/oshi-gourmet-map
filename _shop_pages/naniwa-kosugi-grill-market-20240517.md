@@ -8,6 +8,7 @@ genre: "焼肉"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市中原区小杉町３丁目24−１０ アウトドアダイニング棟 1階"
+nearest_station: "武蔵小杉駅 徒歩4分"
 price_range: "～￥999"
 visited_date: "2024-05-17"
 source_video_title: "なにわ男子のどっち派 (2024-05-17)"
@@ -23,4 +24,7 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140504/14091971/"
 ---

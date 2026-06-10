@@ -29,4 +29,7 @@ ordered_items:
   - "あまぎの唐揚げあんかけ"
   - "あなご澄まし汁"
   - "鯛どんぶり（宇和島風鯛めし）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ehime/A3801/A380101/38005974/"
 ---

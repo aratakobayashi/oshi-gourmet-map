@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「SOOKDAL 新大久保店」"
-description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介された「SOOKDAL 新大久保店」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたその他「SOOKDAL 新大久保店」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sookdal-"
 name: "SOOKDAL 新大久保店"
+genre: "その他"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町2-1-1 K-PLAZA 1F"
+nearest_station: "新大久保駅 徒歩4分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2023-11-21"
 source_video_title: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13135397/"
 ---

@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "渋谷区"
 address: "〒150-0001 東京都渋谷区神宮前１丁目６−１５ ジュネスビル 1F"
+nearest_station: "原宿駅 徒歩4分"
 price_range: "～￥999"
 visited_date: "2025-10-13"
 source_video_title: "タイムレスの時間ですよ マリオンクレープ"
@@ -23,4 +24,7 @@ members:
   - "篠塚大輝"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13088711/"
 ---

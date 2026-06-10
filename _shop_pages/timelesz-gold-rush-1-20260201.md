@@ -8,6 +8,7 @@ genre: "ハンバーグ・ステーキ"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区東池袋1-22-5 サンケエビル B1F"
+nearest_station: "向原駅 徒歩6分"
 price_range: "-"
 visited_date: "2026-02-01"
 source_video_title: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）"
@@ -25,4 +26,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "ハンバーグ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13040549/"
 ---

@@ -25,6 +25,8 @@ members:
 groups:
   - "kamaitachi"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13291595/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003559518/?vos=nhppalsa000016"
 ---

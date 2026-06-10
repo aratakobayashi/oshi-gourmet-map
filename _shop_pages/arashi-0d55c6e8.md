@@ -19,4 +19,7 @@ lng: 139.7133647
 tabelog_score: 3.61
 groups:
   - "arashi"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130602/13003490/"
 ---

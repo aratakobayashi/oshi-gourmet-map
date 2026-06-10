@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「le bois（ル・ボア）」"
-description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介された「le bois（ル・ボア）」（東京都江東区）。食べログ3.45点。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたその他「le bois（ル・ボア）」（東京都江東区）。食べログ3.45点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-le_bois-"
 name: "le bois（ル・ボア）"
+genre: "その他"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区三好3-1-14"
+nearest_station: "清澄白河駅 徒歩8分"
 price_range: "-"
 visited_date: "2024-05-21"
 source_video_title: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキ"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131303/13289519/"
 ---

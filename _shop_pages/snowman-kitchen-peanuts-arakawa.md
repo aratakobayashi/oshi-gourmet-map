@@ -36,4 +36,7 @@ ordered_items:
   - "チーズハンバーグミートソース（向井康二）"
   - "チーズハンバーグミートソース（ラウール）"
   - "ミートドリア（ラウール）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1323/A132301/13059703/"
 ---

@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区池尻１丁目７−２"
+nearest_station: "池尻大橋駅 徒歩13分"
 price_range: "～￥999"
 visited_date: "2025-04-11"
 source_video_title: "なにわ男子のどっち派 (2025-04-11)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "▶抹茶クリームドーナツ 560円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131706/13255265/"
 ---

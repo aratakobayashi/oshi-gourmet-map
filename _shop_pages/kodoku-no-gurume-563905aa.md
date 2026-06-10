@@ -30,4 +30,7 @@ ordered_items:
   - "鮎の塩焼き"
   - "大海老にんにく炒め"
   - "なめこの味噌汁"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1001/A100102/10005592/"
 ---

@@ -25,4 +25,7 @@ members:
   - "橋本将生"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0903/A090301/9023212/"
 ---

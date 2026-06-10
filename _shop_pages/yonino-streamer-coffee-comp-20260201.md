@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STREAMER COFFEE COMPANY AKASAKA」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STREAMER COFFEE COMPANY AKASAKA」（東京都）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STREAMER COFFEE COMPANY AKASAKA」（東京都港区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-streamer_coffee_comp-20260201"
 name: "STREAMER COFFEE COMPANY AKASAKA"
 genre: "カフェ"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区赤坂３丁目６−１４"
 nearest_station: "東京都赤坂見附駅徒歩4分"
 price_range: "～￥999"
@@ -21,4 +22,7 @@ lng: 139.7375415
 tabelog_score: 3.27
 groups:
   - "yonino"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1308/A130801/13261009/"
 ---

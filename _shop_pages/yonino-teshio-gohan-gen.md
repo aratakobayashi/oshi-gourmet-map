@@ -34,6 +34,8 @@ tags:
   - "新宿"
   - "ごはん"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13248277/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001295063/?vos=nhppalsa000016"
 ---

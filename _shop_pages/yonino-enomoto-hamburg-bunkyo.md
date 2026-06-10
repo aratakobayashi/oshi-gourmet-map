@@ -36,4 +36,7 @@ ordered_items:
   - "大葉とおろしの和風ハンバーグ"
   - "アボカドの和風ハンバーグ丼"
   - "焦がしチーズのせ特製オニオンソースハンバーグ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131004/13243892/"
 ---

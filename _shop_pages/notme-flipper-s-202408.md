@@ -26,6 +26,8 @@ members:
 groups:
   - "notme"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131802/13197095/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001259102/?vos=nhppalsa000016"
 ---

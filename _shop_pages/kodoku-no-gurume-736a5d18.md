@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「川栄」"
-description: "孤独のグルメ Season3 第1話で紹介された食事「川栄」（東京都）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第1話で紹介された食事「川栄」（東京都北区）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-736a5d18-"
 name: "川栄"
 genre: "食事"
 prefecture: "東京都"
+city: "北区"
 address: "東京都北区"
 nearest_station: "赤羽駅"
 price_range: "￥4,000～￥4,999"
@@ -28,4 +29,7 @@ ordered_items:
   - "ほろあぶら串"
   - "鰻のオムレツ"
   - "うな丼"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1323/A132305/13008753/"
 ---

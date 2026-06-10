@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "=LOVEが行った「37 ステーキハウス & バー」"
-description: "=LOVEのYouTubeで紹介された食事「37 ステーキハウス & バー」（東京都）。食べログ3.53点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「37 ステーキハウス & バー」（東京都港区）。食べログ3.53点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-37-202409"
 name: "37 ステーキハウス & バー"
 genre: "食事"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区六本木６丁目１５−１ 六本木ヒルズけやき坂 2F"
 nearest_station: "六本木駅 徒歩5分"
 price_range: "￥20,000～￥29,999"
@@ -23,4 +24,7 @@ members:
   - "髙松瞳"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13108155/"
 ---

@@ -27,4 +27,7 @@ ordered_items:
   - "ちゃんこ鍋セット"
   - "かきバター焼き"
   - "かき天ぷら"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ishikawa/A1704/A170403/17003854/"
 ---

@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "うどん1玉"
   - "コロッケ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kagawa/A3701/A370101/37000033/"
 ---

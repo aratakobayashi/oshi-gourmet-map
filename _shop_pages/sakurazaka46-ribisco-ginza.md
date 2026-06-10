@@ -26,4 +26,7 @@ members:
   - "土生瑞穂"
 groups:
   - "sakurazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13212493/"
 ---

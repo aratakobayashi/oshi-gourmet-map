@@ -27,4 +27,7 @@ ordered_items:
   - "特辛カレーライス"
   - "鶏の煮込み"
   - "サバのサンドイッチ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131106/13018386/"
 ---

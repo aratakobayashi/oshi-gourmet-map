@@ -26,4 +26,7 @@ members:
   - "村山結香"
 groups:
   - "neajoy"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/aichi/A2305/A230502/23088223/"
 ---

@@ -24,5 +24,5 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=Beschle"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13031685/"
 ---

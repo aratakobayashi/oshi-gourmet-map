@@ -29,4 +29,7 @@ ordered_items:
   - "グリル野菜"
   - "つみれスープ"
   - "にぎり寿司"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1315/A131501/13080413/"
 ---

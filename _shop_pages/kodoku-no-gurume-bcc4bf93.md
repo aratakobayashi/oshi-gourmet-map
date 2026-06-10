@@ -28,4 +28,7 @@ ordered_items:
   - "麻婆豆腐"
   - "じゃがとろ"
   - "泡菜魚"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131204/13020918/"
 ---

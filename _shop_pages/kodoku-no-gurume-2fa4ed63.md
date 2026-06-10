@@ -28,4 +28,7 @@ ordered_items:
   - "雲吞麺（ワンタンメン・竹昇麺使用）"
   - "朝鮮人参粥"
   - "牡蠣の中華お好み焼き"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140504/14009596/"
 ---

@@ -27,4 +27,7 @@ ordered_items:
   - "牛タン焼き"
   - "テール焼き"
   - "テールスープ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/miyagi/A0401/A040102/4003262/"
 ---

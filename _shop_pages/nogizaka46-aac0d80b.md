@@ -8,6 +8,7 @@ genre: "その他"
 prefecture: "福島県"
 city: "郡山市"
 address: "福島県郡山市駅前１丁目４−１５"
+nearest_station: "郡山駅 徒歩6分"
 source_video_title: "インフルエンサー山崎怜奈 個人PV"
 group: "nogizaka46"
 lat: 37.396061

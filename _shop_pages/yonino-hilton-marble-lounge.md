@@ -36,6 +36,8 @@ ordered_items:
   - "グリルチキンをメインに数品"
   - "カレーをメインに数品"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13172872/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000606633/?vos=nhppalsa000016"
 ---

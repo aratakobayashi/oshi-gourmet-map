@@ -27,4 +27,7 @@ tags:
   - "孤独のグルメ"
   - "Season6"
   - "第2話"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"
 ---

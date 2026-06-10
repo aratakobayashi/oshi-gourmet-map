@@ -8,6 +8,7 @@ genre: "ラーメン"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区太子堂４丁目２０−６"
+nearest_station: "三軒茶屋駅 徒歩2分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2025-07-11"
 source_video_title: "なにわ男子のどっち派 (2025-07-11)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "番組で紹介されていたメニューは【プレミアムサーモントリュフ 1400円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131706/13311142/"
 ---

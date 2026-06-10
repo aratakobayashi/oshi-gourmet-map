@@ -25,5 +25,5 @@ groups:
   - "nogizaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E8%8F%8A%E5%9C%B0%E5%95%86%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1331/A133101/13220704/"
 ---

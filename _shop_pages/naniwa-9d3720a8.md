@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座４丁目１１−７"
+nearest_station: "銀座駅 徒歩1分"
 price_range: "-"
 source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
@@ -22,4 +23,7 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13051375/"
 ---

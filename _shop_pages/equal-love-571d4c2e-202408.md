@@ -25,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shiga/A2504/A250403/25012462/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000434758/?vos=nhppalsa000016"
 ---

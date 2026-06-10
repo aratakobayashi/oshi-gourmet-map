@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「鉄板バル チェローナ」"
-description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介された「鉄板バル チェローナ」（東京都品川区）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたその他「鉄板バル チェローナ」（東京都品川区）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-601a4bef-"
 name: "鉄板バル チェローナ"
+genre: "その他"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区西五反田2-17-8 1F"
+nearest_station: "不動前駅 徒歩6分"
 price_range: "￥6,000～￥7,999"
 visited_date: "2024-09-14"
 source_video_title: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1316/A131603/13228217/"
 ---

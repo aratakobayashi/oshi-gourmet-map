@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "丸天うどん"
   - "ごぼう天トッピング"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/fukuoka/A4001/A400106/40003615/"
 ---

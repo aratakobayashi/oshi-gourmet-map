@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「麺尊 RAGE 麻布台ヒルズ」"
-description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介された「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介されたその他「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-rage-"
 name: "麺尊 RAGE 麻布台ヒルズ"
+genre: "その他"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区虎ノ門5-10-7 麻布台ヒルズガーデンプラザD B1F"
+nearest_station: "虎ノ門ヒルズ駅 徒歩3分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2026-04-22"
 source_video_title: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズ"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130704/13291538/"
 ---

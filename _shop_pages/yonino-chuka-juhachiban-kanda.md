@@ -39,6 +39,8 @@ ordered_items:
   - "油淋鶏定食"
   - "回鍋肉定食"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131905/13062433/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
 ---

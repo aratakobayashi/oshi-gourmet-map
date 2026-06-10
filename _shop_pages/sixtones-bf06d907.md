@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ」"
-description: "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？で紹介された「くるみ」（愛知県名古屋市）。食べログ3.63点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？で紹介されたラーメン「くるみ」（愛知県名古屋市）。食べログ3.63点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-bf06d907-"
 name: "くるみ"
+genre: "ラーメン"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市中区新栄2−1−44"
+nearest_station: "千種駅 徒歩8分"
 price_range: "￥5,000～￥5,999"
 visited_date: "2024-04-27"
 source_video_title: "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？"
@@ -42,4 +44,7 @@ ordered_items:
   - "・手羽塩焼き"
   - "・焼き鳥"
   - "・お好み焼き（豚玉）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/aichi/A2301/A230104/23000212/"
 ---

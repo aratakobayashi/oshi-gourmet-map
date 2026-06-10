@@ -23,4 +23,7 @@ members:
   - "大橋和也"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1314/A131401/13291106/"
 ---

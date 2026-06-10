@@ -23,4 +23,7 @@ members:
   - "ホシ"
 groups:
   - "kpop_seventeen"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2701/A270101/27069587/"
 ---

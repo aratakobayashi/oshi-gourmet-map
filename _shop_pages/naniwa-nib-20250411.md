@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋兜町１−１０ 日証館 1階"
+nearest_station: "茅場町駅 徒歩3分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2025-04-11"
 source_video_title: "なにわ男子のどっち派 (2025-04-11)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "カカオのデザートコース 5,500円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1302/A130202/13304544/"
 ---

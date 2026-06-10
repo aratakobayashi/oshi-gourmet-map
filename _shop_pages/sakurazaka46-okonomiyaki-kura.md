@@ -28,4 +28,7 @@ members:
   - "山﨑天"
 groups:
   - "sakurazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1315/A131504/13245806/"
 ---

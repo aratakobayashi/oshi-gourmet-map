@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「CODA ROSSA（コーダロッサ）」"
-description: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年で紹介された「CODA ROSSA（コーダロッサ）」（静岡県熱海市）。食べログ3.46点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年で紹介された食事「CODA ROSSA（コーダロッサ）」（静岡県熱海市）。食べログ3.46点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-coda_rossa-"
 name: "CODA ROSSA（コーダロッサ）"
+genre: "食事"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市上多賀1027-8 ACAO ROSE SQUARE 本館 3F"
+nearest_station: "伊豆多賀駅 徒歩10分"
 price_range: "￥6,000～￥7,999"
 visited_date: "2026-01-14"
 source_video_title: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年"
@@ -31,4 +33,7 @@ ordered_items:
   - "金目鯛フリット・レッジェーロ"
   - "アサリとヒラメの勢いパスタ"
   - "Pizzaマルゲリータ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220502/22039494/"
 ---

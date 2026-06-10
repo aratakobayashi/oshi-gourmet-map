@@ -23,4 +23,7 @@ members:
   - "ソンジェク"
 groups:
   - "kpop_enhypen"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130103/13162575/"
 ---

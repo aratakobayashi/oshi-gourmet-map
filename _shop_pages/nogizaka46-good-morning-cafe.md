@@ -27,7 +27,7 @@ groups:
   - "nogizaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=GOOD%20MORNING%20CAFE%20%E9%8C%A6%E7%94%BA"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13166088/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001051955/?vos=nhppalsa000016"
 ---

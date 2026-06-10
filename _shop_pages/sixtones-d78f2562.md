@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「大衆割烹 すみれ」"
-description: "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？で紹介された「大衆割烹 すみれ」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？で紹介された和食「大衆割烹 すみれ」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-d78f2562-"
 name: "大衆割烹 すみれ"
+genre: "和食"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区山吹町359"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1309/A130905/13126812/"
 ---

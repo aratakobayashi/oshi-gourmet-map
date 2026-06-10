@@ -35,4 +35,7 @@ tags:
   - "群馬"
   - "アポなし旅"
   - "聖地巡礼"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1004/A100401/10022984/"
 ---

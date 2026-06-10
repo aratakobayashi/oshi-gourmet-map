@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「山本商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介された「山本商店」（東京都中央区）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたその他「山本商店」（東京都中央区）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-e60bfe3c-"
 name: "山本商店"
+genre: "その他"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地4丁目10番8号"
+nearest_station: "築地市場駅 徒歩5分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2023-10-07"
 source_video_title: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13091598/"
 ---

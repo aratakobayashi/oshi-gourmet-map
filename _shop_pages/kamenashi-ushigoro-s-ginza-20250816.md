@@ -29,5 +29,5 @@ ordered_items:
   - "烏龍茶"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=USHIGORO%20S.%20GINZA"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13222093/"
 ---

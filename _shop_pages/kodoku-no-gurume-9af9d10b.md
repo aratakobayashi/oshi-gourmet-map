@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "ロースにんにく焼"
   - "ミックスかつ定食"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1321/A132104/13011853/"
 ---

@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区自由が丘1丁目24-16"
+nearest_station: "自由が丘駅 徒歩5分"
 price_range: "～￥999"
 visited_date: "2023-09-01"
 source_video_title: "なにわ男子のどっち派 (2023-09-01)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131703/13275817/"
 ---

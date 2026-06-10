@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「3丁目の小さなパン屋さん「ちいパン」」"
-description: "SixTONES【ストチューブロケ地】新宿のパン屋さんはどこ？食べたパンは何？で紹介された「3丁目の小さなパン屋さん「ちいパン」」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】新宿のパン屋さんはどこ？食べたパンは何？で紹介されたカフェ「3丁目の小さなパン屋さん「ちいパン」」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a8ce0c6f-20230731"
 name: "3丁目の小さなパン屋さん「ちいパン」"
+genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿5−15−7 東晃ビル"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
 ---

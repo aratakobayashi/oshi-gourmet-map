@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "渋谷区"
 address: "〒150-0002 東京都渋谷区渋谷２丁目２−３ 青山ルカビル B1 Ⅱ"
+nearest_station: "渋谷駅 徒歩5分"
 price_range: "-"
 visited_date: "2026-03-20"
 source_video_title: "タイムレスマン「2択マン」表参道モニカ"
@@ -23,4 +24,7 @@ members:
   - "菊池風磨"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130301/13274523/"
 ---

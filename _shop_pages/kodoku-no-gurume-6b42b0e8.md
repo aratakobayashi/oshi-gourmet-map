@@ -27,4 +27,7 @@ ordered_items:
   - "ヒレかつ御膳"
   - "魚介クリームコロッケ"
   - "エビフライ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140507/14000033/"
 ---

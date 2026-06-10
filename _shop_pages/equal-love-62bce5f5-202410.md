@@ -25,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/saitama/A1102/A110203/11024070/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003324162/?vos=nhppalsa000016"
 ---

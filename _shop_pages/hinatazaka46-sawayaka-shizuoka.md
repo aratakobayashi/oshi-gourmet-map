@@ -23,4 +23,7 @@ members:
   - "齊藤京子"
 groups:
   - "hinatazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2201/A220101/22000526/"
 ---

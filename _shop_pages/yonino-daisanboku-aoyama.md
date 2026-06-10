@@ -30,4 +30,7 @@ tags:
   - "海鮮居酒屋"
   - "青山"
   - "居酒屋"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130603/13291288/"
 ---

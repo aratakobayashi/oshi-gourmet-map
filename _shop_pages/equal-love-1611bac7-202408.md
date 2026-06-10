@@ -23,6 +23,8 @@ tabelog_score: 3.43
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kyoto/A2601/A260201/26042189/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003941061/?vos=nhppalsa000016"
 ---

@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「ゴールドラッシュ 新宿歌舞伎町店」"
-description: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？で紹介された「ゴールドラッシュ 新宿歌舞伎町店」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？で紹介された焼肉「ゴールドラッシュ 新宿歌舞伎町店」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-8e551b69-"
 name: "ゴールドラッシュ 新宿歌舞伎町店"
+genre: "焼肉"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町2-37-3丸友ビル6F"
+nearest_station: "西武新宿駅 徒歩4分"
 price_range: "-"
 visited_date: "2024-02-16"
 source_video_title: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？"
@@ -29,4 +31,7 @@ groups:
   - "sixtones"
 ordered_items:
   - "トリプルチーズハンバーグ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13271105/"
 ---

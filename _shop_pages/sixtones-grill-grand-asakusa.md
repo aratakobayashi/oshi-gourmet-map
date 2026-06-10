@@ -24,6 +24,8 @@ tabelog_score: 3.72
 groups:
   - "sixtones"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13008702/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000245367/?vos=nhppalsa000016"
 ---

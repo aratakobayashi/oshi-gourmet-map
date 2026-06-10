@@ -8,6 +8,7 @@ genre: "その他"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市右京区嵯峨天龍寺造路町６−１"
+nearest_station: "嵐山駅 徒歩2分"
 source_video_title: "乃木坂配信中"
 group: "nogizaka46"
 lat: 35.014632

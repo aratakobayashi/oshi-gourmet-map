@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「breath cafe(ブレスカフェ)」"
-description: "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉で紹介された「breath cafe(ブレスカフェ)」（東京都新宿区）。食べログ3.4点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉で紹介されたカフェ「breath cafe(ブレスカフェ)」（東京都新宿区）。食べログ3.4点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-breath_cafe-"
 name: "breath cafe(ブレスカフェ)"
+genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿3-9-4 増蔵ビル 3F"
+nearest_station: "新宿駅 徒歩1分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2025-08-20"
 source_video_title: "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13123537/"
 ---

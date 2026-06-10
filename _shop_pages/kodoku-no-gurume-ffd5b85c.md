@@ -28,4 +28,7 @@ ordered_items:
   - "サムギョプサル"
   - "タン塩"
   - "上カルビ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140506/14014221/"
 ---

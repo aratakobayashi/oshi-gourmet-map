@@ -27,4 +27,7 @@ members:
   - "森田ひかる"
 groups:
   - "sakurazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131004/13008444/"
 ---

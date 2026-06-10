@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤羽 もつ焼のんき」"
-description: "=LOVEのYouTubeで紹介された居酒屋「赤羽 もつ焼のんき」（東京都）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「赤羽 もつ焼のんき」（東京都北区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-443dcbb1-202408"
 name: "赤羽 もつ焼のんき"
 genre: "居酒屋"
 prefecture: "東京都"
+city: "北区"
 address: "東京都北区赤羽１丁目１９−１６"
 nearest_station: "赤羽駅 徒歩5分"
 price_range: "￥3,000～￥3,999"
@@ -22,4 +23,7 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1323/A132305/13044298/"
 ---

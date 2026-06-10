@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "神奈川県"
 city: "海老名市"
 address: "神奈川県海老名市扇町１３−１"
+nearest_station: "海老名駅 徒歩3分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2024-05-17"
 source_video_title: "なにわ男子のどっち派 (2024-05-17)"
@@ -23,4 +24,7 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1408/A140801/14061258/"
 ---

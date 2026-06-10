@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「お宿 玉樹」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介された「お宿 玉樹」（群馬県渋川市）。食べログ3.25点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介されたその他「お宿 玉樹」（群馬県渋川市）。食べログ3.25点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b5a1ece5-"
 name: "お宿 玉樹"
+genre: "その他"
 prefecture: "群馬県"
 city: "渋川市"
 address: "群馬県渋川市伊香保町伊香保87-2"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1004/A100401/10001838/"
 ---

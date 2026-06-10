@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町１丁目１５−２４"
+nearest_station: "新大久保駅 徒歩3分"
 price_range: "-"
 visited_date: "2024-01-05"
 source_video_title: "なにわ男子のどっち派 (2024-01-05)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13249665/"
 ---

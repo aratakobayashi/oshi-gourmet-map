@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「貝作」"
-description: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?（2025/04/04配信回）で紹介された「貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?（2025/04/04配信回）で紹介されたラーメン「貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-81525ac4-"
 name: "貝作"
+genre: "ラーメン"
 prefecture: "神奈川県"
 city: "藤沢市"
 address: "〒251-0036 神奈川県藤沢市江の島１丁目３−２０"
+nearest_station: "片瀬江ノ島駅 徒歩16分"
 price_range: "￥1,000～￥1,999"
 source_video_title: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?（2025/04/04配信回）"
 source_url: "https://fananablog.com/sixtones-seichi-youtube/"
@@ -37,4 +39,7 @@ ordered_items:
   - "いか丸焼き（950円）"
   - "焼きはまぐり（1,900円）"
   - "はまぐり汁（950円）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
 ---

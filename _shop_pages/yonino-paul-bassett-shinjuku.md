@@ -36,6 +36,8 @@ ordered_items:
   - "カフェラテ"
   - "フラットホワイト"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13026041/"
   - label: "公式サイト"
     url: "https://www.paulbassett.jp/store/shinjuku/"
   - label: "ホットペッパーで予約"

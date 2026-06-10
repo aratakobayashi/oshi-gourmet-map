@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「食事処 たねいち」"
-description: "朝ごはんを食べに入ったお店です。で紹介された「食事処 たねいち」（東京都中央区）。食べログ3.46点。推し活グルメ巡礼スポット。"
+description: "朝ごはんを食べに入ったお店です。で紹介されたその他「食事処 たねいち」（東京都中央区）。食べログ3.46点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-84944a15-"
 name: "食事処 たねいち"
+genre: "その他"
 prefecture: "東京都"
 city: "中央区"
 address: "〒104-0045 東京都中央区築地４丁目９−５"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131301/13020836/"
 ---

@@ -29,4 +29,7 @@ ordered_items:
   - "トマトの炭火焼き"
   - "牡蠣の塩焼き"
   - "かぶら蒸し"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kyoto/A2601/A260302/26002645/"
 ---

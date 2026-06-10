@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区谷中6−3−12"
+nearest_station: "日暮里駅 徒歩7分"
 price_range: "￥1,000～￥1,999"
 source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
@@ -22,4 +23,7 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131901/13251674/"
 ---

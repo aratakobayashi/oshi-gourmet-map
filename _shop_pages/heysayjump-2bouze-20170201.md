@@ -29,6 +29,8 @@ members:
 groups:
   - "heysayjump"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1202/A120201/12022832/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000821407/?vos=nhppalsa000016"
 ---

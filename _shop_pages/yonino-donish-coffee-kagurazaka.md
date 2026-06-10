@@ -32,4 +32,7 @@ tags:
 ordered_items:
   - "神楽坂ブレンド(ice)"
   - "いちご風味(ice)"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1309/A130905/13291037/"
 ---

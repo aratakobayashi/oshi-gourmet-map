@@ -28,4 +28,7 @@ ordered_items:
   - "マフェ（ギニア風鶏のシチュー）"
   - "雑穀混ぜご飯"
   - "タラモサラダ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1327/A132701/13284418/"
 ---

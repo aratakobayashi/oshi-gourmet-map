@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "King & Princeが行った「レンタルスペース　アースラウンジ」"
-description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介された「レンタルスペース　アースラウンジ」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
+description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたその他「レンタルスペース　アースラウンジ」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ed3bf9c9-"
 name: "レンタルスペース　アースラウンジ"
+genre: "その他"
 prefecture: "埼玉県"
 city: "秩父市"
 address: "埼玉県秩父市番場町17-14 秩父表参道Lab. 1F"
+nearest_station: "秩父駅 徒歩5分"
 source_video_title: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？"
 source_url: "https://kosodate-and.net/kintore-suihanki-kaito-chichibu"
 group: "kingprince"

@@ -39,6 +39,8 @@ ordered_items:
   - "特別コース（渡辺翔太）"
   - "特別コース（佐久間大介）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13228726/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
 ---

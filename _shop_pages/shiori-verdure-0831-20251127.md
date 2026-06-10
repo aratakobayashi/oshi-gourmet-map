@@ -23,4 +23,7 @@ members:
   - "しおり"
 groups:
   - "shiori"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/fukushima/A0703/A070301/7019625/"
 ---

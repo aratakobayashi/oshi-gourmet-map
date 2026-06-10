@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「麻婆豆腐TOKYO 神田本店」"
-description: "そこ曲がったら、櫻坂？で紹介された「麻婆豆腐TOKYO 神田本店」（東京都千代田区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたその他「麻婆豆腐TOKYO 神田本店」（東京都千代田区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-tokyo-20210419"
 name: "麻婆豆腐TOKYO 神田本店"
+genre: "その他"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田司町2-4-2 ME神田司町ビル 1F"
@@ -29,4 +30,7 @@ groups:
   - "sakurazaka46"
 ordered_items:
   - "麻婆豆腐"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131002/13241374/"
 ---

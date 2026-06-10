@@ -26,6 +26,8 @@ members:
 groups:
   - "kamaitachi"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2701/A270106/27092078/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
 ---

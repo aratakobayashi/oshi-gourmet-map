@@ -23,4 +23,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/iwate/A0301/A030103/3008400/"
 ---

@@ -27,4 +27,7 @@ groups:
 ordered_items:
   - "松阪牛 牛串"
   - "おにぎり"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/mie/A2403/A240301/24002012/"
 ---

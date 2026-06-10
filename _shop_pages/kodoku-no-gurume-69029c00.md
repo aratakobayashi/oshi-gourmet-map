@@ -25,4 +25,7 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "ジェラート（ミルク・ハスカップ）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0107/A010701/1005624/"
 ---

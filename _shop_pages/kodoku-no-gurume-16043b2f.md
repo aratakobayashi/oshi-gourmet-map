@@ -29,4 +29,7 @@ ordered_items:
   - "牛ロース"
   - "豆もやし"
   - "ラーメン（〆）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hiroshima/A3401/A340101/34007929/"
 ---

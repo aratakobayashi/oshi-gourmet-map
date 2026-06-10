@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区東向島1－31－3"
+nearest_station: "東向島駅 徒歩1分"
 price_range: "-"
 visited_date: "2023-06-23"
 source_video_title: "なにわ男子のどっち派 (2023-06-23)"
@@ -26,4 +27,7 @@ groups:
 ordered_items:
   - "最初の30分　　 1,250円"
   - "以降10分毎　　 330円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131203/13283618/"
 ---

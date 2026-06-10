@@ -21,7 +21,7 @@ groups:
   - "hinatazaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=San%20Francisco%20Peaks"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016"
 ---

@@ -28,4 +28,7 @@ ordered_items:
   - "鱈の餃子"
   - "チャプチェ"
   - "参鶏湯ラーメン"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130103/13129629/"
 ---

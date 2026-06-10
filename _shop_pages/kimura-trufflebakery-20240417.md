@@ -31,4 +31,7 @@ ordered_items:
   - "生ハム＆ブリーチーズ"
   - "クリームパン"
   - "白トリュフの塩パン"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131706/13229246/"
 ---

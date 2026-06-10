@@ -26,4 +26,7 @@ members:
   - "齋藤樹愛羅"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140105/14091339/"
 ---

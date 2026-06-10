@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「GB’S CAFE AREA1（ジービーズカフェ）」"
-description: "だが、情熱はある【森本慎太郎撮影】山里が大学時代に合コンをしたカフェバーはどこ？で紹介された「GB’S CAFE AREA1（ジービーズカフェ）」（大阪府吹田市）。食べログ3.09点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "だが、情熱はある【森本慎太郎撮影】山里が大学時代に合コンをしたカフェバーはどこ？で紹介されたカフェ「GB’S CAFE AREA1（ジービーズカフェ）」（大阪府吹田市）。食べログ3.09点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-gbs_cafe_area1-"
 name: "GB’S CAFE AREA1（ジービーズカフェ）"
+genre: "カフェ"
 prefecture: "大阪府"
 city: "吹田市"
 address: "大阪府吹田市千里山東1-10-20 コスモビル B1F"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2706/A270602/27011672/"
 ---

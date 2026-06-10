@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "納豆のピザ"
   - "辛いパスタ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131203/13040601/"
 ---

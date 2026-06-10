@@ -23,4 +23,7 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0104/A010401/1009869/"
 ---

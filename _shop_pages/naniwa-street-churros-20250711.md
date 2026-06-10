@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区北沢２丁目３１−１ 玉井屋ビル 1階"
+nearest_station: "下北沢駅 徒歩2分"
 price_range: "～￥999"
 visited_date: "2025-07-11"
 source_video_title: "なにわ男子のどっち派 (2025-07-11)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "【オリジナルチュロス 350円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131802/13304752/"
 ---

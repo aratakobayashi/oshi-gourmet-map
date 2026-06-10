@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「五右衛門 赤坂店」"
-description: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？で紹介された「五右衛門 赤坂店」（東京都港区）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？で紹介されたその他「五右衛門 赤坂店」（東京都港区）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cd8bce35-"
 name: "五右衛門 赤坂店"
+genre: "その他"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂5-1-4 赤坂いそむらビル1Ｆ"
@@ -30,4 +31,7 @@ groups:
 ordered_items:
   - "たらこと湯葉とモッツァレラチーズのカルボナーラ"
   - "タコのペペロンチーノ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1308/A130801/13123355/"
 ---

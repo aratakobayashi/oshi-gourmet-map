@@ -40,4 +40,7 @@ ordered_items:
   - "生姜焼き定食"
   - "緑茶"
   - "生姜焼き定食"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1302/A130201/13271151/"
 ---

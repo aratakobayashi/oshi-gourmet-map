@@ -28,4 +28,7 @@ ordered_items:
   - "豚カルビ"
   - "牛上カルビ"
   - "キムチ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1005/A100502/10003191/"
 ---

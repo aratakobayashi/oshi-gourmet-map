@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「中國名菜「孫」六本木店（本店）」"
-description: "【Game of SixTONES】孫さんの中華料理店はどこ？結成10周年ご飯会のお店？30万円！？ご褒美グルメ麻婆豆腐で紹介された「中國名菜「孫」六本木店（本店）」（東京都港区）。食べログ3.47点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "【Game of SixTONES】孫さんの中華料理店はどこ？結成10周年ご飯会のお店？30万円！？ご褒美グルメ麻婆豆腐で紹介されたその他「中國名菜「孫」六本木店（本店）」（東京都港区）。食べログ3.47点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-52936d22-"
 name: "中國名菜「孫」六本木店（本店）"
+genre: "その他"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木7-6-3 喜楽ビルB1F"
@@ -28,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13005429/"
 ---

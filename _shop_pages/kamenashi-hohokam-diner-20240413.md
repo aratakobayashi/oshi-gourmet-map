@@ -27,7 +27,7 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=Hohokam%20DINER"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13281700/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000855350/?vos=nhppalsa000016"
 ---

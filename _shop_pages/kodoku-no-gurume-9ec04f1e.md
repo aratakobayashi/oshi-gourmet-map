@@ -28,4 +28,7 @@ ordered_items:
   - "キンキと茄子の包み焼き"
   - "牛ご飯"
   - "揚げトウモロコシ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1316/A131603/13187669/"
 ---

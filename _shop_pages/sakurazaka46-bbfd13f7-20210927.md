@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「代官山レガーレ」"
-description: "そこ曲がったら、櫻坂？で紹介された「代官山レガーレ」（東京都渋谷区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたカフェ「代官山レガーレ」（東京都渋谷区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-bbfd13f7-20210927"
 name: "代官山レガーレ"
+genre: "カフェ"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西2-17-5 サンビレッジ代官山 B1F"
@@ -26,4 +27,7 @@ groups:
   - "sakurazaka46"
 ordered_items:
   - "フォアグラの黒糖ブリュレクレープ包み"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130303/13239340/"
 ---

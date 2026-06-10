@@ -24,4 +24,7 @@ members:
   - "道枝駿佑"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140501/14088336/"
 ---

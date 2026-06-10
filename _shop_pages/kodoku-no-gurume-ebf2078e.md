@@ -29,4 +29,7 @@ ordered_items:
   - "タコざんぎ"
   - "たらこおにぎり"
   - "ちそおにぎり"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0106/A010601/1010187/"
 ---

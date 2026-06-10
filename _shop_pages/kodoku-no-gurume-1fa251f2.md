@@ -27,4 +27,7 @@ ordered_items:
   - "チャックロール ネギ塩焼き"
   - "ジンギスカンセット"
   - "ハム（骨付き）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140504/14003439/"
 ---

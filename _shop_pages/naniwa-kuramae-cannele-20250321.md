@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区蔵前２丁目１−２３"
+nearest_station: "蔵前駅 徒歩3分"
 price_range: "-"
 visited_date: "2025-03-21"
 source_video_title: "なにわ男子のどっち派 (2025-03-21)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "▶抹茶deカヌレサンデー 980円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131103/13281428/"
 ---

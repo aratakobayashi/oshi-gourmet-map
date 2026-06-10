@@ -38,4 +38,7 @@ ordered_items:
   - "ラ コンプレット（渡辺翔太）"
   - "ガレットバスク（阿部亮平）"
   - "ブルトンヌ（ラウール）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130602/13001968/"
 ---

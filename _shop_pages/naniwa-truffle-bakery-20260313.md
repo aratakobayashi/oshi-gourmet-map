@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "港区"
 address: "〒106-0047 東京都港区南麻布5丁目15-7"
+nearest_station: "広尾駅 徒歩5分"
 price_range: "-"
 visited_date: "2026-03-13"
 source_video_title: "なにわ男子のどっち派 (2026-03-13)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130703/13243038/"
 ---

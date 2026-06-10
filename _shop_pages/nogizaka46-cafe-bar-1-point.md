@@ -6,6 +6,7 @@ shop_id: "nogizaka46-cafe_bar_1_point-"
 name: "CAFE&BAR 1-Point"
 genre: "その他"
 address: "台東区西浅草３丁目７−６"
+nearest_station: "浅草駅 徒歩5分"
 source_video_title: "バレッタ 斉藤優里 個人PV"
 group: "nogizaka46"
 lat: 35.7159557

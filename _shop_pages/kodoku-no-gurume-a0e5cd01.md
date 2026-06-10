@@ -28,4 +28,7 @@ ordered_items:
   - "モモ（ブータン式蒸し餃子）"
   - "エマダツィ"
   - "ツェリンマ茶"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131811/13039628/"
 ---

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「チャベ 目黒店」"
-description: "孤独のグルメ Season10 第2話で紹介された食事「チャベ 目黒店」（東京都）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2話で紹介された食事「チャベ 目黒店」（東京都港区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-193f57bf-"
 name: "チャベ 目黒店"
 genre: "食事"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区"
 nearest_station: "目黒駅"
 price_range: "￥3,000～￥3,999"
@@ -30,4 +31,7 @@ ordered_items:
   - "ミーアヤム"
   - "トランチャム（インドネシア野菜サラダ）"
   - "シオマイ コンプリート"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1316/A131601/13027513/"
 ---

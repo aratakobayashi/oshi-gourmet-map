@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「光澤堂」"
-description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介された「光澤堂」（東京都中央区）。食べログ3.1点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介されたその他「光澤堂」（東京都中央区）。食べログ3.1点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-9d838969-"
 name: "光澤堂"
+genre: "その他"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座4-6-11 銀座センタービル7階"
+nearest_station: "銀座駅 徒歩1分"
 price_range: "￥5,000～￥5,999"
 visited_date: "2025-02-24"
 source_video_title: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13269510/"
 ---

@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「伊香保焼 処々や」"
-description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介された「伊香保焼 処々や」（群馬県渋川市）。食べログ3.32点。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介されたその他「伊香保焼 処々や」（群馬県渋川市）。食べログ3.32点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cfdee4a9-"
 name: "伊香保焼 処々や"
+genre: "その他"
 prefecture: "群馬県"
 city: "渋川市"
 address: "群馬県渋川市伊香保町伊香保10"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/gunma/A1004/A100401/10009873/"
 ---

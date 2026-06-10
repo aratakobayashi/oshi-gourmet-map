@@ -18,4 +18,7 @@ lng: 139.2228765
 tabelog_score: 3.49
 groups:
   - "arashi"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140105/14000147/"
 ---

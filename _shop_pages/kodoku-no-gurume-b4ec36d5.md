@@ -28,4 +28,7 @@ ordered_items:
   - "ロースすき焼き"
   - "ヒレカルビ"
   - "味ネギ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1329/A132904/13107594/"
 ---

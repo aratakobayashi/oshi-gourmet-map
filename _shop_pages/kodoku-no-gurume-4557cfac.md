@@ -28,4 +28,7 @@ ordered_items:
   - "ホルモン"
   - "ナンコツ"
   - "コメカミ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1322/A132201/13025646/"
 ---

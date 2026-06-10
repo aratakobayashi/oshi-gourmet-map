@@ -28,4 +28,7 @@ ordered_items:
   - "まぐろのユッケどんぶり"
   - "いくらとしらすのどんぶり（ミニ）"
   - "メンチカツ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140102/14030553/"
 ---

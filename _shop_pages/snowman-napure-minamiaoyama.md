@@ -44,6 +44,8 @@ ordered_items:
   - "オーガニックザクロソーダジュース（佐久間大介）"
   - "ナプレ公式オンラインショップ（佐久間大介）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
 ---

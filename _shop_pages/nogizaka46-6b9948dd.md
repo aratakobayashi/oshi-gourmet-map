@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "乃木坂46が行った「焼肉ライク 新橋本店」"
-description: "乃木坂どこへで紹介された焼肉「焼肉ライク 新橋本店」（東京都）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂どこへで紹介された焼肉「焼肉ライク 新橋本店」（東京都港区）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6b9948dd-"
 name: "焼肉ライク 新橋本店"
 genre: "焼肉"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区新橋2-15-8 新橋W・Bビル1F"
 nearest_station: "新橋駅 徒歩1分"
 price_range: "￥1,000～￥1,999"
@@ -26,5 +27,5 @@ groups:
   - "nogizaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E3%83%A9%E3%82%A4%E3%82%AF%20%E6%96%B0%E6%A9%8B%E6%9C%AC%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1301/A130103/13225231/"
 ---

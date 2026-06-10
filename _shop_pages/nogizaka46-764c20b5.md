@@ -1,11 +1,14 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中華そば 丸デブ総本店」"
-description: "シンクロニシティヒット祈願で紹介されたラーメン「中華そば 丸デブ総本店」。推し活グルメ巡礼スポット。"
+description: "シンクロニシティヒット祈願で紹介されたラーメン「中華そば 丸デブ総本店」（岐阜県岐阜市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-764c20b5-"
 name: "中華そば 丸デブ総本店"
 genre: "ラーメン"
-address: "岐阜市日ノ出町３丁目１"
+prefecture: "岐阜県"
+city: "岐阜市"
+address: "岐阜県岐阜市日ノ出町３丁目１"
+nearest_station: "名鉄岐阜駅 徒歩14分"
 source_video_title: "シンクロニシティヒット祈願"
 group: "nogizaka46"
 lat: 35.418821

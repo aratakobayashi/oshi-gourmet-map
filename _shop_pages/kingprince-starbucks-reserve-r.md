@@ -1,18 +1,24 @@
 ---
 layout: shop
 title: "King & Princeが行った「STARBUCKS RESERVE(R) ROASTERY TOKYO」"
-description: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？で紹介された「STARBUCKS RESERVE(R) ROASTERY TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？で紹介されたその他「STARBUCKS RESERVE(R) ROASTERY TOKYO」（東京都目黒区）。食べログ3.17点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-starbucks_reserve_r-"
 name: "STARBUCKS RESERVE(R) ROASTERY TOKYO"
+genre: "その他"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区青葉台２丁目１９−２３"
+nearest_station: "目黒駅 徒歩2分"
+price_range: "～￥999"
 source_video_title: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-starbucks"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13155889/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343529/09b374194a482a28e6889a59e6246c2b.jpg?token=b4e34a0&api=v2"
+business_hours: "月・火・水・木・金 07:00 - 22:00 土・日・祝日 07:30 - 21:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.634418548729116
 lng: 139.7142066939482
+tabelog_score: 3.17
 members:
   - "永瀬廉"
   - "髙橋海人"

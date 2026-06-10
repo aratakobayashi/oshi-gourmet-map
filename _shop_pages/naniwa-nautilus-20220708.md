@@ -26,5 +26,5 @@ groups:
   - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20Nautilus"
+    url: "https://tabelog.com/tokyo/A1311/A131101/13267852/"
 ---

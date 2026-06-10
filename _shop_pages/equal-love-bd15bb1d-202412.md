@@ -25,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131904/13291085/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003516082/?vos=nhppalsa000016"
 ---

@@ -25,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ishikawa/A1701/A170101/17010862/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001220712/?vos=nhppalsa000016"
 ---

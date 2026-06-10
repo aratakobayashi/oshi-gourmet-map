@@ -27,4 +27,7 @@ ordered_items:
   - "肉とナスの醤油炒め定食"
   - "鳥唐揚げ"
   - "冷やし中華"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1321/A132101/13024072/"
 ---

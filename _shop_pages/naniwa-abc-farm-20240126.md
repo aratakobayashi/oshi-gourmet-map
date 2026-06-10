@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "昭島市"
 address: "東京都昭島市武蔵野2-23-13"
+nearest_station: "西武立川駅 徒歩14分"
 price_range: "-"
 visited_date: "2024-01-26"
 source_video_title: "なにわ男子のどっち派 (2024-01-26)"
@@ -23,4 +24,7 @@ members:
   - "高橋恭平"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1329/A132901/13299171/"
 ---

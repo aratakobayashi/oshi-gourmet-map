@@ -29,4 +29,7 @@ ordered_items:
   - "コプチャン"
   - "ジンギスカン"
   - "シビレ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1405/A140502/14018525/"
 ---

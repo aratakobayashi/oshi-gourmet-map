@@ -35,5 +35,5 @@ ordered_items:
   - "亀竹もんじゃ"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E3%82%82%E3%82%93%E3%81%98%E3%82%83%20%E7%AB%B9%E3%81%AE%E5%AD%90"
+    url: "https://tabelog.com/tokyo/A1313/A131302/13283786/"
 ---

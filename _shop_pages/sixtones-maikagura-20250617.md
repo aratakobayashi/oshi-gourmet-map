@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「らーめんMAIKAGURA」"
-description: "【ゴールデンストーンズ】ご褒美の町中華兆徳はどこ？フルコースのメニューは何？で紹介された「らーめんMAIKAGURA」（東京都世田谷区）。食べログ3.85点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】ご褒美の町中華兆徳はどこ？フルコースのメニューは何？で紹介されたラーメン「らーめんMAIKAGURA」（東京都世田谷区）。食べログ3.85点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-maikagura-20250617"
 name: "らーめんMAIKAGURA"
+genre: "ラーメン"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区船橋１丁目３８−４"
@@ -28,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131813/13218425/"
 ---

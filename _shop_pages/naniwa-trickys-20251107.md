@@ -8,6 +8,7 @@ genre: "食事"
 prefecture: "栃木県"
 city: "日光市"
 address: "栃木県日光市鬼怒川温泉大原1395-4"
+nearest_station: "鬼怒川温泉駅 徒歩6分"
 price_range: "-"
 visited_date: "2025-11-07"
 source_video_title: "なにわ男子のどっち派 (2025-11-07)"
@@ -23,4 +24,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "「ゆばクレープ 680円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0903/A090303/9023567/"
 ---

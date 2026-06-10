@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「Series the Sky （シリーズザスカイ）」"
-description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介された「Series the Sky （シリーズザスカイ）」（東京都墨田区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたその他「Series the Sky （シリーズザスカイ）」（東京都墨田区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-series_the_sky-"
 name: "Series the Sky （シリーズザスカイ）"
+genre: "その他"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区押上1-1-2 31F"
+nearest_station: "押上〈スカイツリー前〉駅 徒歩5分"
 price_range: "￥10,000～￥14,999"
 visited_date: "2025-09-18"
 source_video_title: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13246575/"
 ---

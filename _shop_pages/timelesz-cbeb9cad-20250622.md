@@ -8,6 +8,7 @@ genre: "中華"
 prefecture: "東京都"
 city: "千代田区"
 address: "〒101-0061 東京都千代田区神田三崎町2丁目2−13 三崎信愛ビル 101"
+nearest_station: "水道橋駅 徒歩3分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2025-06-22"
 source_video_title: "ニノさん 神保町餃子ベスト3（2025年6月22日）"
@@ -26,4 +27,7 @@ groups:
   - "timelesz"
 ordered_items:
   - "日本式と中国式餃子の食べ比べができる立ち食い餃子店"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13269188/"
 ---

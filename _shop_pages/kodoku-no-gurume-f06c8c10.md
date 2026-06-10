@@ -28,4 +28,7 @@ ordered_items:
   - "肉汁"
   - "五目野菜汁"
   - "おむすび（あげ玉ごま）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/saitama/A1103/A110301/11062127/"
 ---

@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「七沢荘」"
-description: "Snow ManのYouTubeで紹介された食事「七沢荘」。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「七沢荘」（神奈川県厚木市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-nanasawasou"
 name: "七沢荘"
 genre: "食事"
+prefecture: "神奈川県"
+city: "厚木市"
 address: "神奈川県厚木市七沢1830"
 nearest_station: "本厚木駅からバス乗車し「広沢寺温泉入口」下車徒歩7分"
 visited_date: "2025-04-10"

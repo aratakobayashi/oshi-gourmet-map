@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カリーライス専門店 エチオピア 本店」"
-description: "乃木坂配信中（さくさんぽ）で紹介された「カリーライス専門店 エチオピア 本店」（東京都千代田区）。食べログ3.78点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中（さくさんぽ）で紹介された食事「カリーライス専門店 エチオピア 本店」（東京都千代田区）。食べログ3.78点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-24da3fd9-"
 name: "カリーライス専門店 エチオピア 本店"
+genre: "食事"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田小川町3-10-18"
+nearest_station: "神保町駅 徒歩4分"
 price_range: "￥1,000～￥1,999"
 source_video_title: "乃木坂配信中（さくさんぽ）"
 source_url: "https://senublog.com/nogizaka46-sanctuary-sakusanpo-curry-restaurant/"
@@ -23,4 +25,7 @@ groups:
   - "nogizaka46"
 ordered_items:
   - "チキンカリー"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13040204/"
 ---

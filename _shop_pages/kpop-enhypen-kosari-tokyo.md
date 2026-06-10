@@ -21,4 +21,7 @@ lng: 139.741306
 tabelog_score: 3.27
 groups:
   - "kpop_enhypen"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1314/A131401/13060684/"
 ---

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「レストラン バイキング」"
-description: "孤独のグルメ Season10 第11話で紹介された食事「レストラン バイキング」（千葉県）。食べログ3.37点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第11話で紹介された食事「レストラン バイキング」（千葉県旭市）。食べログ3.37点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0ddde1a8-"
 name: "レストラン バイキング"
 genre: "食事"
 prefecture: "千葉県"
+city: "旭市"
 address: "千葉県旭市"
 nearest_station: "旭駅"
 price_range: "￥2,000～￥2,999"
@@ -25,4 +26,7 @@ groups:
 ordered_items:
   - "塩わさびの豚ロースソテー（いも豚300g）"
   - "ミルクセーキ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1205/A120502/12025317/"
 ---

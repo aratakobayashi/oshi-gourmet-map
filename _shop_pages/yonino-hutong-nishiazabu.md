@@ -30,4 +30,7 @@ tags:
   - "韓国焼肉"
   - "西麻布"
   - "ネギタン"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130703/13033496/"
 ---

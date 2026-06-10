@@ -27,4 +27,7 @@ ordered_items:
   - "塩ハラミ"
   - "塩カルビ（ロースター焼肉）"
   - "コムタンスープ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140203/14018576/"
 ---

@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「エブリデイとってき屋東京本店」"
-description: "Snow ManのYouTubeで紹介された食事「エブリデイとってき屋東京本店」。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「エブリデイとってき屋東京本店」（埼玉県八潮市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-tottekiyaya"
 name: "エブリデイとってき屋東京本店"
 genre: "食事"
+prefecture: "埼玉県"
+city: "八潮市"
 address: "埼玉県八潮市大字上馬場460-1"
 nearest_station: "「草加駅」からバス「井草団地」下車徒歩5分「八潮駅」からバス「井草団地」下車徒歩5分"
 visited_date: "2025-04-23"

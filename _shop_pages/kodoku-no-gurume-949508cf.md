@@ -28,4 +28,7 @@ ordered_items:
   - "緑の麻婆豆腐"
   - "赤の麻婆豆腐"
   - "海老と大葉のハルマキ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131002/13311831/"
 ---

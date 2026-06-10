@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市田原本町3-16"
+nearest_station: "熱海駅 徒歩1分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2026-03-27"
 source_video_title: "なにわ男子のどっち派 (2026-03-27)"
@@ -26,4 +27,7 @@ groups:
 ordered_items:
   - "ごろごろいちごソフト 1200円"
   - "あふれる100粒いちごパフェ 9000円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220502/22034667/"
 ---

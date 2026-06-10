@@ -24,4 +24,7 @@ members:
   - "野口衣織"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13254443/"
 ---

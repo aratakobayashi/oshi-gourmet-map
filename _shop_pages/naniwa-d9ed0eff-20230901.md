@@ -8,6 +8,7 @@ genre: "カフェ"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区三軒茶屋1-30-9"
+nearest_station: "三軒茶屋駅 徒歩4分"
 price_range: "-"
 visited_date: "2023-09-01"
 source_video_title: "なにわ男子のどっち派 (2023-09-01)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1317/A131706/13246757/"
 ---

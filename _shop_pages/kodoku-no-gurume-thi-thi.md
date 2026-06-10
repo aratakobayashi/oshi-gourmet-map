@@ -28,4 +28,7 @@ ordered_items:
   - "とりおこわ"
   - "ブンボーフエ"
   - "ベトナムコーヒー"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1315/A131503/13038849/"
 ---

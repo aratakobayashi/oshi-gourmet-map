@@ -44,6 +44,8 @@ ordered_items:
   - "ポテバニ"
   - "俺じなるヨーグルト"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13168180/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
 ---

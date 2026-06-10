@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "亀梨和也が行った「焼肉古今」"
-description: "亀梨和也のYouTubeで紹介された焼肉「焼肉古今」（東京都）。食べログ3.26点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「焼肉古今」（東京都港区）。食べログ3.26点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-df0d89b3-202407"
 name: "焼肉古今"
 genre: "焼肉"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区西麻布１丁目１０−７ ＦＴ‐２ 2F"
 nearest_station: "六本木駅 徒歩9分"
 price_range: "￥15,000～￥19,999"
@@ -34,5 +35,5 @@ ordered_items:
   - "リンゴのシャーベット"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%E5%8F%A4%E4%BB%8A"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13293615/"
 ---

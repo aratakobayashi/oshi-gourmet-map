@@ -46,6 +46,8 @@ ordered_items:
   - "カルボナーラトリュフの香り（宮舘涼太）"
   - "自家製パンナコッタ（宮舘涼太）"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
 ---

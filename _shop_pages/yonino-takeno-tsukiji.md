@@ -33,6 +33,8 @@ tags:
   - "居酒屋"
   - "朝食"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131301/13007634/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000118008/?vos=nhppalsa000016"
 ---

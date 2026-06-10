@@ -30,7 +30,7 @@ ordered_items:
   - "九州じゃんがらの全部入り（越岡裕貴）"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E4%B9%9D%E5%B7%9E%E3%81%98%E3%82%83%E3%82%93%E3%81%8C%E3%82%89%E5%8E%9F%E5%AE%BF%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000103008/?vos=nhppalsa000016"
 ---

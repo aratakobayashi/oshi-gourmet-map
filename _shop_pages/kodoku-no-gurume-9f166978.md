@@ -27,4 +27,7 @@ ordered_items:
   - "オーカク（塩）"
   - "ホルモンそば"
   - "サイコロステーキ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tottori/A3101/A310101/31001933/"
 ---

@@ -35,6 +35,8 @@ ordered_items:
   - "具入り味噌汁(魚)+焼きおにぎり"
   - "具入り味噌汁(魚)+ご飯"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131202/13120730/"
   - label: "公式サイト"
     url: "https://sanomiso.com/store/kameido-main-store/"
 ---

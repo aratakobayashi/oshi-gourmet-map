@@ -26,6 +26,8 @@ members:
 groups:
   - "nogizaka46"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13000439/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
 ---

@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "江戸川区"
 address: "東京都江戸川区西葛西３丁目２２−６ 1階110"
+nearest_station: "西葛西駅 徒歩5分"
 price_range: "￥2,000～￥2,999"
 visited_date: "2024-01-05"
 source_video_title: "なにわ男子のどっち派 (2024-01-05)"
@@ -23,4 +24,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131305/13283505/"
 ---

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都町田市）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "食事"
 prefecture: "東京都"
+city: "町田市"
 address: "東京都町田市原町田１丁目１０−１７ メゾンドA2"
 nearest_station: "「町田駅」より徒歩7分"
 price_range: "￥3,000～￥3,999"
@@ -32,4 +33,7 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131201/13054257/"
 ---

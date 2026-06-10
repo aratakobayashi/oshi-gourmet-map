@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「サルシータ」"
-description: "孤独のグルメ Season7 第3話で紹介された食事「サルシータ」（東京都）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第3話で紹介された食事「サルシータ」（東京都港区）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-80dd2276-"
 name: "サルシータ"
 genre: "食事"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区"
 nearest_station: "広尾駅"
 price_range: "￥6,000～￥7,999"
@@ -25,4 +26,7 @@ groups:
 ordered_items:
   - "チョリソのケソフンディード"
   - "鶏肉のピピアンベルデ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130703/13045856/"
 ---

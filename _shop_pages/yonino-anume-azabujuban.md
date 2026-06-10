@@ -38,4 +38,7 @@ ordered_items:
   - "ジンジャエール"
   - "銀タラの西京焼定食"
   - "鮭ハラス焼(単品)"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130702/13021903/"
 ---

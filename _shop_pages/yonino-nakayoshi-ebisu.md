@@ -30,4 +30,7 @@ tags:
   - "定食"
   - "恵比寿"
   - "土鍋ご飯"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13080656/"
 ---

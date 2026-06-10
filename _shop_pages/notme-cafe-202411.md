@@ -24,6 +24,8 @@ members:
 groups:
   - "notme"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/okinawa/A4703/A470304/47007592/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000987614/?vos=nhppalsa000016"
 ---

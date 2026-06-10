@@ -26,4 +26,7 @@ members:
   - "大場花菜"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13237717/"
 ---

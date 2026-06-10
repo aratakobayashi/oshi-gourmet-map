@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「コチンニヴァース」"
-description: "そこ曲がったら、櫻坂？で紹介された「コチンニヴァース」（東京都新宿区）。食べログ3.71点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたその他「コチンニヴァース」（東京都新宿区）。食べログ3.71点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-bda7e0a5-20210510"
 name: "コチンニヴァース"
+genre: "その他"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿5-9-17 1F"
@@ -24,4 +25,7 @@ members:
   - "渡辺梨加"
 groups:
   - "sakurazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13056242/"
 ---

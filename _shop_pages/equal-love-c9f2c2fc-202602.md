@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "=LOVEが行った「晴れる屋 新橋店」"
-description: "=LOVEのYouTubeで紹介された食事「晴れる屋 新橋店」（東京都）。食べログ3.18点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「晴れる屋 新橋店」（東京都港区）。食べログ3.18点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c9f2c2fc-202602"
 name: "晴れる屋 新橋店"
 genre: "食事"
 prefecture: "東京都"
+city: "港区"
 address: "東京都港区新橋4-9-1 新橋プラザビルB102"
 nearest_station: "新橋駅 徒歩1分"
 price_range: "￥4,000～￥4,999"
@@ -24,6 +25,8 @@ members:
 groups:
   - "equal_love"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130103/13293516/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003737219/?vos=nhppalsa000016"
 ---

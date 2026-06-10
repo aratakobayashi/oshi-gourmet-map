@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「鬼太郎茶屋」"
-description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介された「鬼太郎茶屋」（東京都調布市）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたその他「鬼太郎茶屋」（東京都調布市）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-fce1c71f-"
 name: "鬼太郎茶屋"
+genre: "その他"
 prefecture: "東京都"
 city: "調布市"
 address: "東京都調布市深大寺元町5-12-8 深大寺門前"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1326/A132601/13033267/"
 ---

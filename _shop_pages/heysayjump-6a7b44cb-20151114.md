@@ -24,6 +24,8 @@ tabelog_score: 3.27
 groups:
   - "heysayjump"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001128365/?vos=nhppalsa000016"
 ---

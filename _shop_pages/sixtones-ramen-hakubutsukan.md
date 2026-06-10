@@ -36,6 +36,8 @@ tags:
   - "テーマパーク"
   - "聖地巡礼"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140206/14047083/"
   - label: "公式サイト"
     url: "https://www.raumen.co.jp/"
 ---

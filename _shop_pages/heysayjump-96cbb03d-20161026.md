@@ -24,4 +24,7 @@ members:
   - "有岡大貴"
 groups:
   - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ibaraki/A0802/A080201/8012185/"
 ---

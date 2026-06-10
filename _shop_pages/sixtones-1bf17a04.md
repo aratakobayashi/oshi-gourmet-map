@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「国虎商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介された「国虎商店」（東京都中央区）。食べログ3.07点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたその他「国虎商店」（東京都中央区）。食べログ3.07点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-1bf17a04-"
 name: "国虎商店"
+genre: "その他"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地4丁目11番7号"
+nearest_station: "築地市場駅 徒歩5分"
 price_range: "￥10,000～￥14,999"
 visited_date: "2023-10-07"
 source_video_title: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1313/A131301/13147919/"
 ---

@@ -26,4 +26,7 @@ groups:
 ordered_items:
   - "寿司"
   - "石狩鍋"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0107/A010702/1013302/"
 ---

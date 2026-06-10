@@ -28,4 +28,7 @@ ordered_items:
   - "ラム肉焼売"
   - "ラムスペアリブ"
   - "白身魚とラム肉のスープ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131101/13200566/"
 ---

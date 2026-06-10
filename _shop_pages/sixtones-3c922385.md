@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「東京 芝 とうふ屋うかい」"
-description: "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？で紹介された「東京 芝 とうふ屋うかい」（東京都港区）。食べログ3.66点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？で紹介されたその他「東京 芝 とうふ屋うかい」（東京都港区）。食べログ3.66点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-3c922385-"
 name: "東京 芝 とうふ屋うかい"
+genre: "その他"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区芝公園4-4-13"
+nearest_station: "芝公園駅 徒歩4分"
 price_range: "￥20,000～￥29,999"
 visited_date: "2024-06-09"
 source_video_title: "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1314/A131401/13019665/"
 ---

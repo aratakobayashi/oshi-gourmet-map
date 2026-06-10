@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "木村拓哉が行った「cafe nun」"
-description: "木村拓哉が訪れた食事「cafe nun」（千葉県）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた食事「cafe nun」（千葉県山武郡九十九里町）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "食事"
 prefecture: "千葉県"
+city: "山武郡九十九里町"
 address: "千葉県山武郡九十九里町"
 price_range: "-"
 visited_date: "2024-05-01"
@@ -32,4 +33,7 @@ ordered_items:
   - "フロート系ドリンク"
   - "生ハムサラダ"
   - "ガーリックライス牛肉添え"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
 ---

@@ -38,6 +38,8 @@ ordered_items:
   - "味付け煮卵"
   - "マスカットサイダー"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
   - label: "新横浜ラーメン博物館"
     url: "https://www.raumen.co.jp/shop/rishiri.html"
 ---

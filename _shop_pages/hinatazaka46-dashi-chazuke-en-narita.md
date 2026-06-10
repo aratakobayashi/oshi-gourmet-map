@@ -24,4 +24,7 @@ members:
   - "高瀬愛奈"
 groups:
   - "hinatazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1204/A120401/12004604/"
 ---

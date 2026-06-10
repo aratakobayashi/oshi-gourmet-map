@@ -24,5 +24,5 @@ groups:
   - "nogizaka46"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=FREDDY%20LECK%20sein%20WASCHSALON%20TOKYO"
+    url: "https://tabelog.com/tokyo/A1317/A131702/13212264/"
 ---

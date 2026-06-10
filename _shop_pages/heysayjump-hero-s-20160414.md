@@ -29,6 +29,8 @@ members:
 groups:
   - "heysayjump"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131002/13049711/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ001066911/?vos=nhppalsa000016"
 ---

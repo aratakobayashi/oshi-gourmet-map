@@ -8,6 +8,7 @@ genre: "ダイニングバー"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布2-25-13 石原ビル 2F-3F"
+nearest_station: "六本木駅 徒歩12分"
 price_range: "￥5,000～￥5,999"
 visited_date: "2026-02-01"
 source_video_title: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）"
@@ -23,4 +24,7 @@ members:
   - "寺西拓人"
 groups:
   - "timelesz"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13038895/"
 ---

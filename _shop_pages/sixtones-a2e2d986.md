@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「きくよし食堂」"
-description: "【だが、情熱はあるロケ地】第6話で山里がしずちゃんの言動につっこんでいた定食屋さんは？で紹介された「きくよし食堂」（東京都府中市）。食べログ3.22点、～￥999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】第6話で山里がしずちゃんの言動につっこんでいた定食屋さんは？で紹介された和食「きくよし食堂」（東京都府中市）。食べログ3.22点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a2e2d986-"
 name: "きくよし食堂"
+genre: "和食"
 prefecture: "東京都"
 city: "府中市"
 address: "東京都府中市緑町3-17-5"
+nearest_station: "東府中駅 徒歩4分"
 price_range: "～￥999"
 visited_date: "2023-05-15"
 source_video_title: "【だが、情熱はあるロケ地】第6話で山里がしずちゃんの言動につっこんでいた定食屋さんは？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1326/A132602/13077589/"
 ---

@@ -8,6 +8,7 @@ genre: "居酒屋"
 prefecture: "大阪府"
 city: "茨木市"
 address: "大阪府茨木市松ケ本町8−30−３ イオンモール茨木 4階"
+nearest_station: "茨木駅 徒歩7分"
 price_range: "～￥999"
 visited_date: "2025-03-21"
 source_video_title: "なにわ男子のどっち派 (2025-03-21)"
@@ -26,4 +27,7 @@ groups:
 ordered_items:
   - "▶Feedyチキンバーガー 1188円"
   - "▶クラッシュゼリーソーダ 583円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2706/A270604/27145800/"
 ---

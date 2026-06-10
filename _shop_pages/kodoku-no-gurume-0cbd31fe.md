@@ -27,4 +27,7 @@ ordered_items:
   - "汁なし担々麺"
   - "焼き餃子"
   - "拌三絲"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13009261/"
 ---

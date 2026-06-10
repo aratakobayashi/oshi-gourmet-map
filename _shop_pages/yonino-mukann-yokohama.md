@@ -35,4 +35,7 @@ ordered_items:
   - "雲丹バターたまご麺"
   - "牡蠣バターたまご麺"
   - "肉丼"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140102/14095368/"
 ---

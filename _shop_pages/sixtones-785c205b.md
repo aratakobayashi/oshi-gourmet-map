@@ -1,12 +1,14 @@
 ---
 layout: shop
 title: "SixTONESが行った「横浜中華街 彩り五色小籠包専門店 龍海飯店」"
-description: "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？で紹介された「横浜中華街 彩り五色小籠包専門店 龍海飯店」（神奈川県横浜市）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？で紹介された中華「横浜中華街 彩り五色小籠包専門店 龍海飯店」（神奈川県横浜市）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-785c205b-"
 name: "横浜中華街 彩り五色小籠包専門店 龍海飯店"
+genre: "中華"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町146-2 羅ビル 1F・2F"
+nearest_station: "元町・中華街駅 徒歩2分"
 price_range: "￥3,000～￥3,999"
 visited_date: "2023-03-15"
 source_video_title: "【SixTONESストチューブロケ地】横浜中華街のお店は？チャーシューメロンパンって？"
@@ -27,4 +29,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1401/A140105/14080918/"
 ---

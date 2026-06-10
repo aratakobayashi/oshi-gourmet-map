@@ -40,6 +40,8 @@ ordered_items:
   - "コーラ"
   - "サイダー"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1312/A131201/13002969/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ000843251/?vos=nhppalsa000016"
 ---

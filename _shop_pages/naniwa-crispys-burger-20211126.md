@@ -24,5 +24,5 @@ groups:
   - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sk=Crispy%E2%80%99s%20Burger"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13283647/"
 ---

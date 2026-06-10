@@ -24,4 +24,7 @@ members:
   - "山本杏奈"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hiroshima/A3401/A340113/34024679/"
 ---

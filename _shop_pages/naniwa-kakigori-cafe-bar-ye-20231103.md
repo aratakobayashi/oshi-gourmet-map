@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木5-2-11 パティオ六本木1F"
+nearest_station: "六本木駅 徒歩3分"
 price_range: "-"
 visited_date: "2023-11-03"
 source_video_title: "なにわ男子のどっち派 (2023-11-03)"
@@ -23,4 +24,7 @@ members:
   - "大西流星"
 groups:
   - "naniwa"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13166459/"
 ---

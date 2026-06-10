@@ -28,4 +28,7 @@ ordered_items:
   - "刺身盛り合わせ"
   - "ブリフライ"
   - "ブリカブト焼き"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/niigata/A1501/A150103/15009050/"
 ---

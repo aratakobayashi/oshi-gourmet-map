@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "SixTONESが行った「北新地サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介された「北新地サンド」。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたその他「北新地サンド」。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-38ccc123-"
 name: "北新地サンド"
+genre: "その他"
 address: "大阪市北区曽根崎新地1-2-11 アレーナ堂島ビル1F"
+nearest_station: "北新地駅 徒歩4分"
 price_range: "￥1,000～￥1,999"
 visited_date: "2024-05-25"
 source_video_title: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？"
@@ -25,4 +27,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13231045/"
 ---

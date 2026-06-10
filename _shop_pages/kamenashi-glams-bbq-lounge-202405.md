@@ -26,5 +26,5 @@ groups:
   - "kamenashi"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E5%8E%9F%E5%AE%BFGLAMS%20BBQ%20Lounge"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13233425/"
 ---

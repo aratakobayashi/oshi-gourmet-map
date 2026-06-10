@@ -40,6 +40,8 @@ ordered_items:
   - "烏龍茶"
   - "烏龍茶"
 affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13287935/"
   - label: "ホットペッパーで予約"
     url: "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"
 ---

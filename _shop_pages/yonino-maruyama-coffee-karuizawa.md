@@ -27,4 +27,7 @@ tags:
   - "カフェ"
   - "軽井沢"
   - "長野"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/nagano/A2003/A200301/20009458/"
 ---

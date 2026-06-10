@@ -31,5 +31,5 @@ ordered_items:
   - "ビビン麺ハーフ"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=%E7%84%BC%E8%82%89%20%E5%86%B7%E9%BA%BA%20%E3%83%A6%E3%83%83%E3%83%81%E3%83%A3%E3%83%B3%E3%80%82%E9%8A%80%E5%BA%A7%E5%BA%97"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13261510/"
 ---

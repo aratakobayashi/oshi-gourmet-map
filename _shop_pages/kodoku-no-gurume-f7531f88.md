@@ -28,4 +28,7 @@ ordered_items:
   - "アボカドのセイロ蒸し"
   - "日高四元豚の回鍋肉"
   - "白御飯"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1323/A132301/13276558/"
 ---

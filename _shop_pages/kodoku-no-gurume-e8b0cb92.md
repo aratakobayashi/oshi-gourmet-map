@@ -28,4 +28,7 @@ ordered_items:
   - "シャン風豚高菜漬け炒め"
   - "牛スープそば"
   - "イチャクゥエ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130503/13009115/"
 ---

@@ -8,6 +8,7 @@ genre: "スイーツ"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町１丁目１１−２２"
+nearest_station: "新大久保駅 徒歩3分"
 price_range: "～￥999"
 visited_date: "2025-04-11"
 source_video_title: "なにわ男子のどっち派 (2025-04-11)"
@@ -25,4 +26,7 @@ groups:
   - "naniwa"
 ordered_items:
   - "▶焼き芋タオルケーキ 900円"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13272852/"
 ---

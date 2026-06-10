@@ -23,4 +23,7 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ishikawa/A1701/A170101/17000005/"
 ---

@@ -46,4 +46,7 @@ ordered_items:
   - "玉丼（阿部亮平）"
   - "白子ポン酢（阿部亮平）"
   - "トマト酢漬け（阿部亮平）"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"
 ---

@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Series（シリーズ）」"
-description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介された「Series（シリーズ）」（東京都港区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたその他「Series（シリーズ）」（東京都港区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-series-"
 name: "Series（シリーズ）"
+genre: "その他"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布台3-4-11 麻布エスビル 1F"
@@ -27,4 +28,7 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1307/A130701/13246575/"
 ---

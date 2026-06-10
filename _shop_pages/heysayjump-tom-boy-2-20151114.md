@@ -25,4 +25,7 @@ members:
   - "知念侑李"
 groups:
   - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1305/A130501/13101662/"
 ---

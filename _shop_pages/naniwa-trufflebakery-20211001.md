@@ -24,5 +24,5 @@ groups:
   - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://tabelog.com/rstLst/?vs=1&sa=&sk=TruffleBAKERY"
+    url: "https://tabelog.com/tokyo/A1304/A130401/13310407/"
 ---

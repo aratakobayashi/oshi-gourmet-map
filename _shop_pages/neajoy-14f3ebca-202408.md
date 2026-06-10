@@ -26,4 +26,7 @@ members:
   - "髙橋舞"
 groups:
   - "neajoy"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kanagawa/A1410/A141001/14053358/"
 ---

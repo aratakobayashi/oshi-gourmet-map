@@ -27,4 +27,7 @@ ordered_items:
   - "シャナイア風ザンギ"
   - "チキンと野菜のスープカレー"
   - "自家製バニラアイス"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130302/13149675/"
 ---

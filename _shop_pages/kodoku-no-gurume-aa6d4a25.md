@@ -27,4 +27,7 @@ ordered_items:
   - "焼うどん"
   - "親子丼"
   - "おしるこ"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131805/13140021/"
 ---

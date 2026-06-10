@@ -39,4 +39,7 @@ ordered_items:
   - "烏龍茶"
   - "烏龍茶"
   - "烏龍茶"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130102/13301312/"
 ---

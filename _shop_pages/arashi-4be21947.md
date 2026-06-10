@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ぐりるスズコウ」"
-description: "嵐にしやがれで紹介されたその他「ぐりるスズコウ」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「ぐりるスズコウ」（東京都大田区）。食べログ3.71点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-4be21947-"
 name: "ぐりるスズコウ"
 genre: "その他"
@@ -9,12 +9,17 @@ prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区蒲田5-16-8"
 nearest_station: "京急蒲田駅 徒歩6分"
+price_range: "￥1,000～￥1,999"
 source_video_title: "嵐にしやがれ"
 source_url: "https://meqqe.jp/books/1000825"
 group: "arashi"
+tabelog_url: "https://tabelog.com/tokyo/A1315/A131503/13031132/"
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/198933/446339cef32d4f46af008c5bdd638688.jpg?token=a72a0cb&api=v2"
 source_type: "tv"
+business_hours: "月・火・水・木・金 11:30 - 13:30 17:00 - 20:30 土・日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5637235
 lng: 139.7216959
+tabelog_score: 3.71
 groups:
   - "arashi"
 ---
