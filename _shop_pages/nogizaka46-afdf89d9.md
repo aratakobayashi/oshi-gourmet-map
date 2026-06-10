@@ -1,0 +1,15 @@
+---
+layout: shop
+title: "乃木坂46が行った「ブランチ ヒロノヤ」"
+description: "ベストアルバムポスター貼りで紹介されたその他「ブランチ ヒロノヤ」。推し活グルメ巡礼スポット。"
+shop_id: "nogizaka46-afdf89d9-"
+name: "ブランチ ヒロノヤ"
+genre: "その他"
+address: "大垣市本町１丁目７７"
+source_video_title: "ベストアルバムポスター貼り"
+group: "nogizaka46"
+lat: 35.362087
+lng: 136.619165
+groups:
+  - "nogizaka46"
+---

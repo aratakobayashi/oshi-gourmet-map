@@ -48,10 +48,10 @@ def extract_prefecture_city(address: str) -> tuple:
     return prefecture, city
 
 
-def normalize_shop(raw: dict, existing_ids: set):
+def normalize_shop(raw: dict, existing_ids: set, allow_no_coords: bool = False):
     """スクレイピングデータをshops.jsonのスキーマに変換"""
-    # 座標なしは登録しない
-    if not raw.get('lat') or not raw.get('lng'):
+    # 座標なしは登録しない（allow_no_coords=Trueの場合は許可）
+    if not allow_no_coords and (not raw.get('lat') or not raw.get('lng')):
         return None
 
     name = raw.get('name', '').strip()
@@ -108,6 +108,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--input', required=True, help='新規データJSON')
     parser.add_argument('--dry-run', action='store_true', help='実際には書き込まず結果だけ表示')
+    parser.add_argument('--allow-no-coords', action='store_true', help='座標なしでも登録する（後でジオコーディング予定）')
     args = parser.parse_args()
 
     output = 'data/shops.json'
@@ -127,8 +128,10 @@ def main():
     skipped_no_coord = 0
     skipped_duplicate = 0
 
+    allow_no_coords = args.allow_no_coords
+
     for raw in new_shops_raw:
-        shop = normalize_shop(raw, existing_ids)
+        shop = normalize_shop(raw, existing_ids, allow_no_coords=allow_no_coords)
 
         if shop is None:
             skipped_no_coord += 1
