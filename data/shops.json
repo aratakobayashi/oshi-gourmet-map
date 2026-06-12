@@ -75955,5 +75955,280 @@
     "tabelog_score": 3.52,
     "price_range": "￥4,000～￥4,999",
     "business_hours": "11:30 - 14:00 L.O. 13:30 17:00 - 22:00 L.O. 21:00 ■ 定休日不定休"
+  },
+  {
+    "id": "kanjani-32cbca58-",
+    "name": "ツナグ茶房",
+    "genre": "カフェ",
+    "prefecture": "大阪府",
+    "city": "",
+    "address": "",
+    "lat": 34.6581056,
+    "lng": 135.5726352,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - ツナグ茶房〜俊徳道･布施ぶらり①〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12960510668.html",
+    "visited_date": "",
+    "members": [
+      "大倉忠義"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-b4fb523c-",
+    "name": "鉄板呑み屋ブッチャー",
+    "genre": "居酒屋",
+    "prefecture": "大阪府",
+    "city": "",
+    "address": "",
+    "lat": 34.44661217809563,
+    "lng": 135.35617072500511,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - 鉄板呑み屋ブッチャー@堀江∞",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12560728048.html",
+    "visited_date": "",
+    "members": [
+      "渋谷すばる"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2705/A270502/27105736/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2705/A270502/27105736/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-09b3ed00-",
+    "name": "はちまき",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "",
+    "lat": 35.6953057,
+    "lng": 139.7603259,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - はちまき∞神保町ロケ地〜9/3東京⑦〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12525585549.html",
+    "visited_date": "",
+    "members": [
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-8536d203-",
+    "name": "ひみつ堂",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "",
+    "lat": 35.7845045,
+    "lng": 139.8976942,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - ひみつ堂∞〜9/1東京①〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12524064320.html",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-shinshin-",
+    "name": "ShinShin 住吉店",
+    "genre": "ラーメン",
+    "prefecture": "福岡県",
+    "city": "",
+    "address": "",
+    "lat": 33.58243483626615,
+    "lng": 130.41698816857658,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12503807640.html",
+    "visited_date": "",
+    "members": [
+      "渋谷すばる",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400101/40021108/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4001/A400101/40021108/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-bc91617f-",
+    "name": "若駒",
+    "genre": "食事",
+    "prefecture": "北海道",
+    "city": "",
+    "address": "",
+    "lat": 43.06980543371293,
+    "lng": 141.32047005676478,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12494981250.html",
+    "visited_date": "",
+    "members": [
+      "横山裕",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010105/1065833/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hokkaido/A0101/A010105/1065833/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-891b9070-",
+    "name": "コロンボ",
+    "genre": "カフェ",
+    "prefecture": "大阪府",
+    "city": "",
+    "address": "",
+    "lat": 34.70946333717273,
+    "lng": 135.5113657763896,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - コロンボ.関テレ〜大阪∞②〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12484971783.html",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27038011/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270103/27038011/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kanjani-336c0f4f-",
+    "name": "ラドリオ",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "",
+    "lat": 35.6956566,
+    "lng": 139.7598036,
+    "youtube_id": "",
+    "source_video_title": "関ジャニ∞ロケ地巡り - ラドリオ@神保町〜6/5東京∞ロケ地①〜",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12473329011.html",
+    "visited_date": "",
+    "members": [
+      "丸山隆平",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]
