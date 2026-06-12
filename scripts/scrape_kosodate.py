@@ -29,6 +29,62 @@ SLEEP = 2.0
 MAX_RETRIES = 3
 
 GROUP_CONFIG = {
+    # === 検索モード（サブカテゴリなし、site search経由）===
+    'west': {
+        'group': 'west',
+        'category': None,
+        'search_query': 'WEST.',
+        'title_filter': ['WEST.', 'WESTTube', '桐山照史', '小瀧望', '中間淳太', '藤井流星', '濱田崇裕', '重岡大毅', '神山智洋', '岩橋玄樹'],
+        'members': ['重岡大毅', '桐山照史', '神山智洋', '濱田崇裕', '小瀧望', '藤井流星', '中間淳太'],
+        'color': '#e67e22',
+        'max_pages': 5,
+    },
+    'kismai': {
+        'group': 'kismai',
+        'category': None,
+        'search_query': 'キスマイ',
+        'title_filter': ['キスマイ', 'Kis-My-Ft2', '玉森裕太', '藤ヶ谷太輔', '二階堂高嗣', '宮田俊哉', '北山宏光', '千賀健永', '横尾渉'],
+        'members': ['玉森裕太', '藤ヶ谷太輔', '二階堂高嗣', '宮田俊哉', '北山宏光', '千賀健永', '横尾渉'],
+        'color': '#8b5cf6',
+        'max_pages': 7,
+    },
+    'kinkikids': {
+        'group': 'kinkikids',
+        'category': None,
+        'search_query': 'KinKi',
+        'title_filter': ['KinKi', 'ブンブブーン', 'キンキ', '堂本剛', '堂本光一'],
+        'members': ['堂本光一', '堂本剛'],
+        'color': '#84cc16',
+        'max_pages': 9,
+    },
+    'v6': {
+        'group': 'v6',
+        'category': None,
+        'search_query': 'V6 長野',
+        'title_filter': ['V6', '長野博', '三宅健', '井ノ原快彦', '岡田准一', '坂本昌行', '森田剛'],
+        'members': ['岡田准一', '井ノ原快彦', '三宅健', '坂本昌行', '長野博', '森田剛'],
+        'color': '#06b6d4',
+        'max_pages': 5,
+    },
+    'travisjapan': {
+        'group': 'travisjapan',
+        'category': None,
+        'search_query': 'TravisJapan',
+        'title_filter': ['TravisJapan', 'Travis Japan', 'トラジャ', '松田元太', '川島如恵留', '中村海人', '宮近海斗', '七五三掛龍也', '吉澤閑也', '松倉海斗'],
+        'members': ['松田元太', '川島如恵留', '中村海人', '宮近海斗', '七五三掛龍也', '吉澤閑也', '松倉海斗'],
+        'color': '#0ea5e9',
+        'max_pages': 8,
+    },
+    'supereight': {
+        'group': 'supereight',
+        'category': None,
+        'search_query': '関ジャニ',
+        'title_filter': ['関ジャニ∞', 'SUPER EIGHT', '横山裕', '村上信五', '丸山隆平', '大倉忠義', '安田章大', 'エイト'],
+        'members': ['横山裕', '村上信五', '丸山隆平', '大倉忠義', '安田章大'],
+        'color': '#ef4444',
+        'max_pages': 7,
+    },
+    # === カテゴリモード ===
     'kingprince': {
         'group': 'kingprince',
         'category': 'johnnys/king-and-prince',
@@ -113,12 +169,20 @@ def fetch(url):
                 raise
 
 
-def get_all_article_urls(category, max_pages):
-    cat_url = f'{BASE_URL}/category/{category}/'
+def get_all_article_urls(category, max_pages, search_query=None, title_filter=None):
+    """カテゴリまたは検索クエリから記事URLを収集"""
     urls = set()
+
     for page in range(1, max_pages + 1):
-        page_url = cat_url if page == 1 else f'{cat_url}page/{page}/'
-        print(f'  カテゴリ p{page}: {page_url}', file=sys.stderr)
+        if search_query:
+            # 検索モード: /?s=QUERY&paged=N
+            q = urllib.parse.quote(search_query)
+            page_url = f'{BASE_URL}/?s={q}' if page == 1 else f'{BASE_URL}/?s={q}&paged={page}'
+        else:
+            cat_url = f'{BASE_URL}/category/{category}/'
+            page_url = cat_url if page == 1 else f'{cat_url}page/{page}/'
+
+        print(f'  {"検索" if search_query else "カテゴリ"} p{page}: {page_url}', file=sys.stderr)
         try:
             soup = fetch(page_url)
         except Exception as e:
@@ -126,21 +190,50 @@ def get_all_article_urls(category, max_pages):
             break
 
         found = 0
-        for a in soup.find_all('a', href=True):
-            href = a['href'].rstrip('/')
-            if not href.startswith(BASE_URL):
-                continue
-            path = href[len(BASE_URL):]
-            if re.search(r'/(category|tag|author|page|profile|sitemap|feed|privacy|contact|mail|unei)', path):
-                continue
-            segments = [s for s in path.split('/') if s]
-            if len(segments) == 1 and href not in urls:
+        # entry-card-wrap を使って記事URLとタイトルを取得
+        cards = soup.select('a.entry-card-wrap')
+        if cards:
+            for card in cards:
+                href = card.get('href', '').rstrip('/')
+                if not href.startswith(BASE_URL):
+                    continue
+                path = href[len(BASE_URL):]
+                if re.search(r'/(category|tag|author|page|profile|sitemap|feed|privacy|contact|mail|unei)', path):
+                    continue
+                segments = [s for s in path.split('/') if s]
+                if len(segments) != 1:
+                    continue
+                if href in urls:
+                    continue
+                # title_filter チェック
+                if title_filter:
+                    h2 = card.find('h2')
+                    title_text = h2.get_text(strip=True) if h2 else card.get_text(strip=True)
+                    if not any(kw in title_text for kw in title_filter):
+                        continue
                 urls.add(href)
                 found += 1
+        else:
+            # フォールバック: 全リンク走査
+            for a in soup.find_all('a', href=True):
+                href = a['href'].rstrip('/')
+                if not href.startswith(BASE_URL):
+                    continue
+                path = href[len(BASE_URL):]
+                if re.search(r'/(category|tag|author|page|profile|sitemap|feed|privacy|contact|mail|unei)', path):
+                    continue
+                segments = [s for s in path.split('/') if s]
+                if len(segments) == 1 and href not in urls:
+                    urls.add(href)
+                    found += 1
 
         print(f'    → {found}件追加 (累計 {len(urls)}件)', file=sys.stderr)
 
-        has_next = any(f'page/{page + 1}/' in a.get('href', '') for a in soup.find_all('a', href=True))
+        # 次ページ確認（検索モードは paged=N、カテゴリは page/N/）
+        if search_query:
+            has_next = any(f'paged={page + 1}' in a.get('href', '') for a in soup.find_all('a', href=True))
+        else:
+            has_next = any(f'page/{page + 1}/' in a.get('href', '') for a in soup.find_all('a', href=True))
         if not has_next:
             break
         time.sleep(SLEEP)
@@ -375,10 +468,18 @@ def main():
 
     max_pages = args.max_pages or cfg['max_pages']
 
-    print(f'=== {args.group} スクレイピング開始 ===', file=sys.stderr)
-    print(f'カテゴリ: /category/{cfg["category"]}/', file=sys.stderr)
+    search_query = cfg.get('search_query')
+    title_filter = cfg.get('title_filter')
 
-    article_urls = get_all_article_urls(cfg['category'], max_pages)
+    print(f'=== {args.group} スクレイピング開始 ===', file=sys.stderr)
+    if search_query:
+        print(f'検索モード: ?s={search_query}', file=sys.stderr)
+    else:
+        print(f'カテゴリ: /category/{cfg["category"]}/', file=sys.stderr)
+
+    article_urls = get_all_article_urls(cfg.get('category'), max_pages,
+                                        search_query=search_query,
+                                        title_filter=title_filter)
     print(f'\n記事URL合計: {len(article_urls)}件\n', file=sys.stderr)
 
     # 既存DB読み込み（重複除外）
