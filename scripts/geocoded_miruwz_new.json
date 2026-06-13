@@ -1,0 +1,81 @@
+[
+  {
+    "name": "しゃぶ葉 新宿NOWAビル店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-37-12 新宿NOWAビル 6F",
+    "lat": 35.69039783788412,
+    "lng": 139.70139728336085,
+    "youtube_id": "t5ZtWHl-1VI",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=t5ZtWHl-1VI",
+    "visited_date": "2026-01-14",
+    "members": [
+      "落合希来里",
+      "蟹沢萌子",
+      "菅波美玲",
+      "鈴木瞳美"
+    ],
+    "groups": [
+      "notme"
+    ],
+    "group": "notme",
+    "description": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "miruwz-しゃぶ葉新宿NOWAビル店-024",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13288478/"
+  },
+  {
+    "name": "日本酒と海鮮 痛風屋 新宿歌舞伎町店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-2-5 東陽ビル 1F",
+    "lat": 35.693749737882825,
+    "lng": 139.70403018339286,
+    "youtube_id": "jSHVRasx8WM",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=jSHVRasx8WM",
+    "visited_date": "2025-02-06",
+    "members": [
+      "大谷映美里"
+    ],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "description": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "miruwz-日本酒と海鮮痛風屋新宿歌舞伎町店-108",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13277763/"
+  },
+  {
+    "name": "ユニバーサル・スタジオ・ジャパン",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市此花区",
+    "address": "大阪府大阪市此花区桜島2-1-33 ドンキーコング・カントリー",
+    "lat": 34.666916737980316,
+    "lng": 135.43343167717623,
+    "youtube_id": "YgOd8ZpFaUU",
+    "source_video_title": "",
+    "source_video_url": "https://www.youtube.com/watch?v=YgOd8ZpFaUU",
+    "visited_date": "2024-08-04",
+    "members": [],
+    "groups": [
+      "equal_love"
+    ],
+    "group": "equal_love",
+    "description": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "miruwz-ユニバーサルスタジオジャパン-299",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270403/27149324/"
+  }
+]

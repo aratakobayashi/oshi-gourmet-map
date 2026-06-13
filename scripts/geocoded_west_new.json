@@ -1,0 +1,183 @@
+[
+  {
+    "id": "west-mr-friendly-cafe-ebisu",
+    "name": "MR.FRIENDLY Café",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区恵比寿西2-18-6",
+    "members": [
+      "中間淳太",
+      "桐山照史"
+    ],
+    "tags": [
+      "WEST.",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://mequl-hibi.com/johnnys-west-sacred/",
+    "source_video_title": "ヒルナンデス！ WEST.出演回",
+    "description": "",
+    "lat": 35.6483517,
+    "lng": 139.7065258
+  },
+  {
+    "id": "west-sabour-jimbocho",
+    "name": "さぼうる",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都千代田区神田神保町1-11",
+    "members": [
+      "中間淳太"
+    ],
+    "tags": [
+      "WEST.",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://mequl-hibi.com/johnnys-west-sacred/",
+    "source_video_title": "ヒルナンデス！ 中間淳太 神保町ロケ",
+    "description": "",
+    "lat": 35.6956696,
+    "lng": 139.7569835
+  },
+  {
+    "id": "west-pego-setagaya",
+    "name": "PEGO&CO.",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都世田谷区",
+    "members": [
+      "小瓧龍市"
+    ],
+    "tags": [
+      "WEST.",
+      "イキスギ"
+    ],
+    "source_url": "https://mequl-hibi.com/johnnys-west-sacred/",
+    "source_video_title": "イキスギ 小瓧龍市 世田谷ロケ",
+    "description": "",
+    "lat": 35.6469025,
+    "lng": 139.652531
+  },
+  {
+    "id": "west-joel-robuchon-cafe-toranomon",
+    "name": "ジョエル・ロブション カフェ 虎ノ門ヒルズ",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都港区虎ノ門1-23-3",
+    "members": [
+      "濵田崇裕"
+    ],
+    "tags": [
+      "WEST.",
+      "バゲット"
+    ],
+    "source_url": "https://ameblo.jp/hawaiijwest/entry-12763276393.html",
+    "source_video_title": "バゲット 濵田崇裕 トラ柄サンドイッチ",
+    "description": "",
+    "lat": 35.6670276,
+    "lng": 139.7460078
+  },
+  {
+    "id": "west-bondi-cafe-yoyogi",
+    "name": "Bondi Café Yoyogi Beach Park",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区代々木神園町2-1",
+    "members": [],
+    "tags": [
+      "WEST.",
+      "撮影ロケ地"
+    ],
+    "source_url": "https://nago-jw.hatenablog.com/entry/2018/03/28/184105",
+    "source_video_title": "WEST. 東京ロケ地 代々木公園",
+    "description": "",
+    "lat": 35.674411,
+    "lng": 139.6983075
+  },
+  {
+    "id": "west-taiwan-cafe-zen-omotesando",
+    "name": "台湾カフェ Zen",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区神宮前",
+    "members": [],
+    "tags": [
+      "WEST.",
+      "撮影ロケ地"
+    ],
+    "source_url": "https://nago-jw.hatenablog.com/entry/2018/03/28/184105",
+    "source_video_title": "WEST. 東京ロケ地 表参道キャットストリート",
+    "description": "",
+    "lat": 35.6692039,
+    "lng": 139.7072847
+  },
+  {
+    "id": "west-tazumi-tamago-hyogo",
+    "name": "タズミのたまご 卵♪らん♪ハウス",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "兵庫県",
+    "address": "兵庫県神崎郡市川町鶴居",
+    "members": [
+      "濵田崇裕"
+    ],
+    "tags": [
+      "WEST.",
+      "どっちサンド"
+    ],
+    "source_url": "https://mackey-west.hatenablog.com/entry/2023/09/15/194910",
+    "source_video_title": "どっちサンド 濵田崇裕 ふるさと兵庫ロケ",
+    "description": "",
+    "lat": 35.0229964,
+    "lng": 134.7546369
+  },
+  {
+    "id": "west-green-echo-kasagata",
+    "name": "グリーンエコー笠形",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "兵庫県",
+    "address": "兵庫県神崎郡神河町猪篠1077-95",
+    "members": [
+      "濵田崇裕"
+    ],
+    "tags": [
+      "WEST.",
+      "どっちサンド"
+    ],
+    "source_url": "https://mackey-west.hatenablog.com/entry/2023/09/15/194910",
+    "source_video_title": "どっちサンド 濵田崇裕 ふるさと兵庫ロケ",
+    "description": "",
+    "lat": 35.1268327,
+    "lng": 134.7940035
+  }
+]

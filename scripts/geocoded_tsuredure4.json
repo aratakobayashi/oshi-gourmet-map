@@ -1,0 +1,46 @@
+[
+  {
+    "name": "つばめパン&Milk 尼ケ坂本店",
+    "genre": "カフェ",
+    "prefecture": "愛知県",
+    "city": "名古屋市北区大杉１丁",
+    "address": "名古屋市北区大杉１丁目１８−２１",
+    "lat": 35.186718,
+    "lng": 136.916846,
+    "youtube_id": "",
+    "source_video_title": "乃木坂工事中",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "出典: 乃木坂工事中",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "覚王山吉芋本店",
+    "genre": "その他",
+    "prefecture": "愛知県",
+    "city": "名古屋市千種区日進通",
+    "address": "名古屋市千種区日進通５丁目２−４",
+    "lat": 35.161262,
+    "lng": 136.950583,
+    "youtube_id": "",
+    "source_video_title": "乃木坂工事中",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "出典: 乃木坂工事中",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  }
+]

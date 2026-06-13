@@ -1,0 +1,98 @@
+[
+  {
+    "name": "宇都宮みんみん",
+    "genre": "中華",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "address": "栃木県宇都宮市馬場通り3-3-1",
+    "lat": 36.5608,
+    "lng": 139.8852,
+    "youtube_id": "",
+    "source_video_title": "乃木坂46 1人全国キャンペーン",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "賀喜遥香"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "賀喜遥香さんが「夜明けまで強がらなくてもいい」PR活動の全国キャンペーンで地元栃木に来た際に訪れた宇都宮の名物餃子店。",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "中村屋惣菜製作所",
+    "genre": "惣菜",
+    "prefecture": "京都府",
+    "city": "京都市右京区",
+    "address": "京都府京都市右京区嵯峨天龍寺北造路町",
+    "lat": 35.0163,
+    "lng": 135.6799,
+    "youtube_id": "",
+    "source_video_title": "さくさんぽ 京都嵐山",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "遠藤さくら"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "さくさんぽ京都嵐山編で遠藤さくらさんが食べていた京都牛コロッケのお惣菜屋さん。嵯峨嵐山駅から徒歩すぐ。",
+    "nearest_station": "嵯峨嵐山駅",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "嵐山さくら餅 稲",
+    "genre": "和菓子",
+    "prefecture": "京都府",
+    "city": "京都市右京区",
+    "address": "京都府京都市右京区嵯峨天龍寺造路町",
+    "lat": 35.0163,
+    "lng": 135.6799,
+    "youtube_id": "",
+    "source_video_title": "さくさんぽ 京都嵐山",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "遠藤さくら"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "さくさんぽ京都嵐山編で遠藤さくらさんがみたらし団子を食べていた和菓子店。嵐山エリアの名店。",
+    "nearest_station": "嵯峨嵐山駅",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "フライングガーデン",
+    "genre": "ハンバーグ",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "address": "栃木県宇都宮市西川田東町5-2-2",
+    "lat": 36.5052,
+    "lng": 139.8659,
+    "youtube_id": "",
+    "source_video_title": "秘密のケンミンSHOW極",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "賀喜遥香"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "秘密のケンミンSHOW極で賀喜遥香さんが栃木県民代表として紹介した爆弾ハンバーグの名店。学生時代からの行きつけ。",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  }
+]

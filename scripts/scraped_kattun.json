@@ -1,0 +1,459 @@
+[
+  {
+    "name": "一蘭 原宿店",
+    "address": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "tabelog_url": "",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-date-ichiran",
+    "source_video_title": "【亀チャンネル】亀梨和也＆宮舘涼太の一蘭はどこ？個室は？食べたメニューは何？オーダー用紙は？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [],
+    "id": "kattun-0a3faf7a"
+  },
+  {
+    "name": "大徳壽 みなとみらい店",
+    "address": "神奈川県横浜市中区桜木町1-1-7 コレットマーレ桜木町 7F",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140102/14082343/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-michi-yakiniku",
+    "source_video_title": "【亀チャンネル】亀梨和也＆道枝駿佑の横浜の焼肉屋さんはどこ？いつ？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140102/14082343/"
+      }
+    ],
+    "id": "kattun-b68dd10a"
+  },
+  {
+    "name": "大阪梅田 本とん平 （ほんとんぺい）",
+    "address": "大阪府大阪市北区曽根崎2-13-19",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27001891/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-osaka-okonomiyaki",
+    "source_video_title": "【亀梨和也チャンネル】大阪梅田のお好み焼き屋さんはどこ？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27001891/"
+      }
+    ],
+    "id": "kattun-14c7a548"
+  },
+  {
+    "name": "ミートファクトリー しまちゃん",
+    "address": "大阪府堺市堺区戎之町東2-1-7 菅原ビル 1F",
+    "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27119941/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-osaka-yakiniku",
+    "source_video_title": "【亀チャンネル】亀梨和也が大阪で一人焼肉の焼肉屋さんはどこ？堺市？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2705/A270501/27119941/"
+      }
+    ],
+    "id": "kattun-7609b0cb"
+  },
+  {
+    "name": "居酒屋 野焼",
+    "address": "東京都品川区大井1-8-4",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13023086/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-ryusei-izakaya",
+    "source_video_title": "【亀梨和也チャンネル】藤井流星との大井町の居酒屋 1軒目はどこ？食べたメニューは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131501/13023086/"
+      }
+    ],
+    "id": "kattun-bfde3236"
+  },
+  {
+    "name": "うな串焼鳥う福 大井町",
+    "address": "東京都品川区東大井5-2-9 1F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13258533/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-ryusei-izakaya",
+    "source_video_title": "【亀梨和也チャンネル】藤井流星との大井町の居酒屋 1軒目はどこ？食べたメニューは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131501/13258533/"
+      }
+    ],
+    "id": "kattun-ea014aa9"
+  },
+  {
+    "name": "銀座風香",
+    "address": "東京都中央区築地2-6-8",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13310531/",
+    "visited_date": "2025-07-18",
+    "source_url": "https://kosodate-and.net/kame-shota-kakigori",
+    "source_video_title": "【亀チャンネル】亀梨和也＆渡辺翔太のかき氷屋はどこ？予約制？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1313/A131301/13310531/"
+      }
+    ],
+    "id": "kattun-9398d442-20250718"
+  },
+  {
+    "name": "USHIGORO S. GINZA（うしごろエス銀座）",
+    "address": "東京都中央区銀座7-7-7 GINZA777 ADC BUILDING 6F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13222093/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-shota-yakiniku",
+    "source_video_title": "【亀チャンネル】亀梨和也＆渡辺翔太の高級焼肉店はどこ？食べたコースは？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13222093/"
+      }
+    ],
+    "id": "kattun-14f8697b"
+  },
+  {
+    "name": "ガーリックステーキ Bullajo（ブラホ）",
+    "address": "東京都渋谷区宇田川町11-1 柳光ビル別館3F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13159985/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-steak-sibuya",
+    "source_video_title": "【亀梨和也チャンネル】渋谷のステーキハウスはどこ？食べたメニューは？お店の閉店はいつ？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13159985/"
+      }
+    ],
+    "id": "kattun-63f9fcdd"
+  },
+  {
+    "name": "壱角家 品川港南口店",
+    "address": "東京都港区港南2-6-7 品川ビル 1F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13210416/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kame-wada-ramen",
+    "source_video_title": "【亀梨和也チャンネル】横浜家系ラーメン店はどこ？和田毅とコラボ！食べたラーメンは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131403/13210416/"
+      }
+    ],
+    "id": "kattun-c44a048d"
+  },
+  {
+    "name": "亀澤堂",
+    "address": "東京都千代田区神田神保町1-12-1 帆刈ビル 1F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13021812/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kamenashi-kame-monaka",
+    "source_video_title": "【亀チャンネル】亀梨和也の差し入れかめもなか“もなかめ”はどこで買える？亀澤堂のオンラインショップは？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13021812/"
+      }
+    ],
+    "id": "kattun-ddf10010"
+  },
+  {
+    "name": "ABURI 百貫 有明ガーデン店",
+    "address": "東京都江東区有明2-1-8 有明ガーデン 5F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131306/13248096/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
+    "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1313/A131306/13248096/"
+      }
+    ],
+    "id": "kattun-ef85b392"
+  },
+  {
+    "name": "寿司 まぐろ問屋恵み ハラカド店",
+    "address": "東京都渋谷区神宮前6-31-21 東急プラザ ハラカド 5F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
+    "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13296103/"
+      }
+    ],
+    "id": "kattun-68bc5766"
+  },
+  {
+    "name": "廻転鮨 銀座おのでら 本店",
+    "address": "東京都渋谷区神宮前5-1-6 イルパラッツィーノ表参道 1F",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
+    "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
+    "group": "kattun",
+    "groups": [
+      "kattun"
+    ],
+    "members": [
+      "亀梨和也",
+      "中丸雄一",
+      "上田竜也"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13296103/"
+      }
+    ],
+    "id": "kattun-e483a667"
+  }
+]

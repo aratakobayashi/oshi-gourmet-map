@@ -1,0 +1,113 @@
+[
+  {
+    "name": "San Francisco Peaks（サン フランシスコ ピークス）",
+    "address": "東京都渋谷区神宮前3-28-7",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13144629/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kawai-fujigaya-hamburger",
+    "source_video_title": "河合郁人×藤ヶ谷太輔のハンバーガーショップカフェはどこ？食べたメニューは何？",
+    "group": "kismai",
+    "groups": [
+      "kismai"
+    ],
+    "members": [
+      "玉森裕太",
+      "藤ヶ谷太輔",
+      "二階堂高嗣",
+      "宮田俊哉",
+      "北山宏光",
+      "千賀健永",
+      "横尾渉"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13144629/"
+      }
+    ],
+    "id": "kismai-f972eec5"
+  },
+  {
+    "name": "二代目蝦夷",
+    "address": "埼玉県川越市小堤15-152",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11024045/",
+    "visited_date": "",
+    "source_url": "https://kosodate-and.net/kininaru-fujigaya-chinese",
+    "source_video_title": "気になるマン【藤ヶ谷太輔】中華料理店はどこ？川越のデカ盛り町中華「二代目蝦夷」",
+    "group": "kismai",
+    "groups": [
+      "kismai"
+    ],
+    "members": [
+      "玉森裕太",
+      "藤ヶ谷太輔",
+      "二階堂高嗣",
+      "宮田俊哉",
+      "北山宏光",
+      "千賀健永",
+      "横尾渉"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11024045/"
+      }
+    ],
+    "id": "kismai-bf42a39b"
+  },
+  {
+    "name": "北海しゃぶしゃぶ すすきの本店",
+    "address": "北海道札幌市 中央区南4西4 恵愛ビル7F",
+    "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010103/1004112/",
+    "visited_date": "2024-03-31",
+    "source_url": "https://kosodate-and.net/kis-my-ft2-ramu-syabu",
+    "source_video_title": "【キスマイYouTube】北海道忘年会ラム肉しゃぶしゃぶのお店はどこ？東京・大阪にもある？",
+    "group": "kismai",
+    "groups": [
+      "kismai"
+    ],
+    "members": [
+      "玉森裕太",
+      "藤ヶ谷太輔",
+      "二階堂高嗣",
+      "宮田俊哉",
+      "北山宏光",
+      "千賀健永",
+      "横尾渉"
+    ],
+    "genre": "",
+    "description": "",
+    "ordered_items": [],
+    "lat": null,
+    "lng": null,
+    "prefecture": "",
+    "city": "",
+    "nearest_station": "",
+    "tags": [],
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hokkaido/A0101/A010103/1004112/"
+      }
+    ],
+    "id": "kismai-dbc26720-20240331"
+  }
+]

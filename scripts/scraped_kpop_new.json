@@ -1,0 +1,676 @@
+[
+  {
+    "id": "kpop_riize-dfc16377",
+    "name": "イマカツ赤坂店",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "東京都港区赤坂３丁目７−１６ 越川ビル 1F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-d40b80b3",
+    "name": "北海道らーめん 味八",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "東京都新宿区西新宿７丁目１−７−１０１３",
+    "nearest_station": "",
+    "members": [
+      "ソヒ"
+    ],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-841ff3be",
+    "name": "つけ麺屋やすべぇ 赤坂店",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "東京都港区赤坂６丁目３−１９",
+    "nearest_station": "",
+    "members": [
+      "ソヒ"
+    ],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-dd4508e1",
+    "name": "牛カツ京都勝牛 四谷三丁目店",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "東京都新宿区四谷３丁目８−３ 三橋ビル １Ｆ",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-a3d8cc54",
+    "name": "揚州飯店 本店",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "神奈川県横浜市中区山下町149",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-f34ee65d",
+    "name": "龍城飯店(リュウジョウハンテン) 香港路店",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/14860.html",
+    "address": "神奈川県横浜市中区山下町１４７−１ 龍城飯店 香港路店",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-769951c4",
+    "name": "鉄板焼き やすむら",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都目黒区下目黒2丁目17-22 地下1階",
+    "nearest_station": "",
+    "members": [
+      "ジェイ"
+    ],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-b94b96c7",
+    "name": "新大久保 トシオブ韓国料理屋韓国刺身専門店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都新宿区大久保2丁目26-1 B1",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-2d336963",
+    "name": "釜元たん米衛恵比寿店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都渋谷区恵比寿南１丁目３−８ Fleur橘 1F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-ddc8105e",
+    "name": "おにやんま 新橋店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都港区新橋３丁目１６−２３",
+    "nearest_station": "",
+    "members": [
+      "ソンジェク"
+    ],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-67e843cb",
+    "name": "かしわ 渋谷ヒカリエ店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都渋谷区渋谷２丁目２１−１ 7F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-f24881bd",
+    "name": "焼肉 零條",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都港区北青山3-13-3 R’s AOYAMA B1F",
+    "nearest_station": "",
+    "members": [
+      "ソヌ"
+    ],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-9c2fb08d",
+    "name": "KOSARI TOKYO 東麻布店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都港区東麻布２丁目１９−３ ミレーヌ東麻布 1F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-59e2de36",
+    "name": "& OIMO TOKYO CAFE 中目黒店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都目黒区青葉台1丁目14-4 1F Contral",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_enhypen-c7b6d880",
+    "name": "鳴門鯛焼本舗 新橋駅前店",
+    "group": "kpop_enhypen",
+    "groups": [
+      "kpop_enhypen"
+    ],
+    "source_video_title": "ENHYPEN",
+    "source_url": "https://oshito.online/news/15229.html",
+    "address": "東京都港区新橋２丁目７−１",
+    "nearest_station": "",
+    "members": [
+      "ソンジェク"
+    ],
+    "tags": [
+      "K-pop",
+      "ENHYPEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-39090ed2",
+    "name": "原宿乃豆柴カフェ",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/17056.html",
+    "address": "豆柴カフェでワンちゃんと戯れる姿が可愛すぎて、見てるだけで癒やされる…。柴犬になりたいファン続出だよね（笑）今度聖地巡礼で同じお店に行って、推し気分を味わいたいな。犬×推しは最強！！住所：〒150-0001 東京都渋谷区神宮前１丁目６−１０ ３F推しマップをチェックyoutubeをチェック",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_riize-15da21ae",
+    "name": "揚州飯店 本店（横浜中華街）",
+    "group": "kpop_riize",
+    "groups": [
+      "kpop_riize"
+    ],
+    "source_video_title": "RIIZE",
+    "source_url": "https://oshito.online/news/17056.html",
+    "address": "ウンソクのウィンクお箸ショットが可愛すぎ！チェックの服でリラックスしてるオフ感も最高。ウンソクと同じメニューを食べて、同じポーズで写真撮るのも絶対楽しい！！住所：〒231-0023 神奈川県横浜市中区山下町149推しマップをチェックInstagramをチェック",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "RIIZE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-f491d292",
+    "name": "一風堂 梅田店",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市北区角田町６−７ 角田町ビル 1F",
+    "nearest_station": "",
+    "members": [
+      "ウジ"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-22713a7d",
+    "name": "BAR 酒店 1515",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市中央区千日前１丁目５−１６",
+    "nearest_station": "",
+    "members": [
+      "ミンギュ"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-4780312a",
+    "name": "串揚げとワインOhana 北新地店",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市北区曽根崎新地１丁目７−１６",
+    "nearest_station": "",
+    "members": [
+      "ホシ"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-98693dbe",
+    "name": "焼肉 吉田 新館",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市天王寺区東上町３−１５",
+    "nearest_station": "",
+    "members": [
+      "メンバー"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-60476f8c",
+    "name": "Cafebar.8",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市都島区中野町４丁目５−４ リバーサイド桜ノ宮 1F",
+    "nearest_station": "",
+    "members": [
+      "スングァン"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-7ce33dfa",
+    "name": "ジャンボ釣船 つり吉 大阪新世界店",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市浪速区恵美須東2丁目3-14",
+    "nearest_station": "",
+    "members": [
+      "ジョンハン"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_seventeen-a2cfcde6",
+    "name": "天麩羅 えびのや 南森町",
+    "group": "kpop_seventeen",
+    "groups": [
+      "kpop_seventeen"
+    ],
+    "source_video_title": "SEVENTEEN",
+    "source_url": "https://oshito.online/news/17685.html",
+    "address": "大阪府大阪市北区天神橋2丁目3-21黒石ビル",
+    "nearest_station": "",
+    "members": [
+      "スングァン"
+    ],
+    "tags": [
+      "K-pop",
+      "SEVENTEEN"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-2f37e717",
+    "name": "トーホーベーカリー",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "東京都三鷹市下連雀１丁目９−１９",
+    "nearest_station": "",
+    "members": [
+      "ナヨン"
+    ],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-07f32869",
+    "name": "月島もんじゃ たまとや下北沢店",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "東京都世田谷区北沢２丁目１１−１５ ミカン下北 A102",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-219f396d",
+    "name": "麺散",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "東京都渋谷区神宮前６丁目１３−７ 1F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-2fce15cc",
+    "name": "新横浜ラーメン博物館",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "神奈川県横浜市港北区新横浜２丁目１４−２１",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-0fd22b23",
+    "name": "東京ディズニーランド",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "千葉県浦安市舞浜１−１",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_twice-489c3980",
+    "name": "アートアクアリウム美術館GINZA",
+    "group": "kpop_twice",
+    "groups": [
+      "kpop_twice"
+    ],
+    "source_video_title": "TWICE",
+    "source_url": "https://oshito.online/news/17750.html",
+    "address": "東京都中央区銀座４丁目６−１６ 三越新館 9階",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "TWICE"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_nct-2df2003d",
+    "name": "道頓堀 テヨン",
+    "group": "kpop_nct",
+    "groups": [
+      "kpop_nct"
+    ],
+    "source_video_title": "NCT",
+    "source_url": "https://oshito.online/news/5587.html",
+    "address": "大阪府大阪市中央区道頓堀1丁目10ー4",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "NCT"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_nct-f3115d89",
+    "name": "あじくらや テヨン・マーク・ショウタロウ（RIIZE）",
+    "group": "kpop_nct",
+    "groups": [
+      "kpop_nct"
+    ],
+    "source_video_title": "NCT",
+    "source_url": "https://oshito.online/news/5587.html",
+    "address": "大阪府大阪市天王寺区小橋町13-18 リッチハイムアルテ上本町1F",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "NCT"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_nct-64a732be",
+    "name": "サーティーワン上本町店",
+    "group": "kpop_nct",
+    "groups": [
+      "kpop_nct"
+    ],
+    "source_video_title": "NCT",
+    "source_url": "https://oshito.online/news/5587.html",
+    "address": "大阪府大阪市天王寺区上本町6-4-2　上本町6南交差点南西角",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "NCT"
+    ],
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": "kpop_nct-891f6efe",
+    "name": "ヒルトン大阪（NCT 2018）",
+    "group": "kpop_nct",
+    "groups": [
+      "kpop_nct"
+    ],
+    "source_video_title": "NCT",
+    "source_url": "https://oshito.online/news/5587.html",
+    "address": "大阪府大阪市北区梅田１丁目８−８",
+    "nearest_station": "",
+    "members": [],
+    "tags": [
+      "K-pop",
+      "NCT"
+    ],
+    "lat": null,
+    "lng": null
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "west-ajirotei-gifu",
+    "name": "あじろ亭",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "岐阜県",
+    "address": "岐阜県岐阜市伊奈波通1丁目",
+    "members": [
+      "藤井流星"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230725/",
+    "source_video_title": "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤ",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21000687/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/gifu/A2101/A210101/21000687/"
+      }
+    ],
+    "lat": 35.428194,
+    "lng": 136.767945
+  },
+  {
+    "id": "west-nakatsuken-tsu",
+    "name": "中津軒",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "三重県",
+    "address": "三重県津市中央5-5",
+    "members": [
+      "藤井流星"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230725/",
+    "source_video_title": "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤ",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/mie/A2401/A240101/24000093/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/mie/A2401/A240101/24000093/"
+      }
+    ],
+    "lat": 34.7202532,
+    "lng": 136.509149
+  },
+  {
+    "id": "west-somennyahayashi-oimachi",
+    "name": "そうめん屋はやし",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都品川区大井",
+    "members": [
+      "中間淳太",
+      "重岡大毅"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230808/",
+    "source_video_title": "イキスギさんについてった 2023-08-08 激辛そうめん",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13179397/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131501/13179397/"
+      }
+    ],
+    "lat": 35.6001214,
+    "lng": 139.730032
+  },
+  {
+    "id": "west-963-funabashi",
+    "name": "963",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "千葉県",
+    "address": "千葉県船橋市本町2-27-20",
+    "members": [
+      "桐山照史"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230606/",
+    "source_video_title": "イキスギさんについてった 2023-06-06 なのにツアー",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/chiba/A1202/A120201/12020358/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1202/A120201/12020358/"
+      }
+    ],
+    "lat": 35.6940325,
+    "lng": 139.976026
+  },
+  {
+    "id": "west-curry-meijin-shintomicho",
+    "name": "カレー名人 新富町店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都中央区新富町",
+    "members": [
+      "桐山照史"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230606/",
+    "source_video_title": "イキスギさんについてった 2023-06-06 なのにツアー",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13037870/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1313/A131301/13037870/"
+      }
+    ],
+    "lat": 35.6706504,
+    "lng": 139.7734291
+  },
+  {
+    "id": "west-konatospice-nasu",
+    "name": "コナとスパイス",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "栃木県",
+    "address": "栃木県那須塩原市",
+    "members": [
+      "藤井流星"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "source_video_title": "イキスギさんについてった 2023-06-13 羽田空港グルメ",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tochigi/A0905/A090501/9020983/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9020983/"
+      }
+    ],
+    "lat": 36.9621788,
+    "lng": 140.0467207
+  }
+]

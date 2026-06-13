@@ -1,0 +1,720 @@
+[
+  {
+    "id": "heysayjump-buttermilk-channel",
+    "name": "バターミルクチャネル",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区神宮前1-11-11",
+    "members": [
+      "伊野尾慧",
+      "知念侑李"
+    ],
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13225692/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13225692/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
+    "source_video_title": "いただきハイジャンプ 2019.07.06 唐揚げブラックジャック",
+    "description": "",
+    "lat": 35.6692039,
+    "lng": 139.7072847
+  },
+  {
+    "id": "heysayjump-harappa-happunme",
+    "name": "原っぱ八分目",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区道玄坂",
+    "members": [
+      "伊野尾慧",
+      "知念侑李"
+    ],
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13130057/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13130057/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
+    "source_video_title": "いただきハイジャンプ 2019.07.06 唐揚げブラックジャック",
+    "description": "",
+    "lat": 35.659072,
+    "lng": 139.6979017
+  },
+  {
+    "id": "heysayjump-moriyama-gakugeidaigaku",
+    "name": "元祖中洲唐揚もりやま 学芸大学店",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都目黒区鷹番",
+    "members": [
+      "髙木雄也",
+      "八乙女光"
+    ],
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131702/13094005/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131702/13094005/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
+    "source_video_title": "いただきハイジャンプ 2019.07.06 唐揚げブラックジャック",
+    "description": "",
+    "lat": 35.6278194,
+    "lng": 139.6855823
+  },
+  {
+    "id": "heysayjump-tori-tatsu-mita",
+    "name": "鶏たつ",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都港区三田",
+    "members": [
+      "髙木雄也",
+      "八乙女光"
+    ],
+    "tags": [
+      "いただきハイジャンプ",
+      "HeySayJUMP"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131402/13149100/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131402/13149100/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
+    "source_video_title": "いただきハイジャンプ 2019.07.06 唐揚げブラックジャック",
+    "description": "",
+    "lat": 35.6467874,
+    "lng": 139.7414307
+  },
+  {
+    "id": "heysayjump-bwcafe-shinjuku",
+    "name": "BWCAFE",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都新宿区大久保",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/08/27/205542",
+    "source_video_title": "ヒルナンデス 2018.08.14 新大久保特集",
+    "description": "",
+    "lat": 35.7046389,
+    "lng": 139.7052761
+  },
+  {
+    "id": "heysayjump-tak-cafe-shinjuku",
+    "name": "TAK CAFE",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都新宿区大久保",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/08/27/205542",
+    "source_video_title": "ヒルナンデス 2018.08.14 新大久保特集",
+    "description": "",
+    "lat": 35.7046389,
+    "lng": 139.7052761
+  },
+  {
+    "id": "heysayjump-snowy-village-harajuku",
+    "name": "Snowy Village",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都新宿区大久保",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/08/27/205542",
+    "source_video_title": "ヒルナンデス 2018.08.14 新大久保特集",
+    "description": "",
+    "lat": 35.7046389,
+    "lng": 139.7052761
+  },
+  {
+    "id": "heysayjump-choldeunnoom-shinjuku",
+    "name": "チョルドゥンノム",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区大久保",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "ヒルナンデス"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/08/27/205542",
+    "source_video_title": "ヒルナンデス 2018.08.14 新大久保特集",
+    "description": "",
+    "lat": 35.7046389,
+    "lng": 139.7052761
+  },
+  {
+    "id": "heysayjump-good-luck-curry-ebisu",
+    "name": "GOOD LUCK CURRY",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区東3-21-1",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13209474/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13209474/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6531376,
+    "lng": 139.7114585
+  },
+  {
+    "id": "heysayjump-mishofusai-shibadaimon",
+    "name": "味芳斎",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都港区芝大門1-4-13",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13013153/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131401/13013153/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6567524,
+    "lng": 139.7537021
+  },
+  {
+    "id": "heysayjump-kohke-handen-ginza",
+    "name": "孔家飯店",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都中央区銀座8-7-16",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6720135,
+    "lng": 139.7647202
+  },
+  {
+    "id": "heysayjump-oroji-shinjuku",
+    "name": "王ろじ",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区三丁目",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6909589,
+    "lng": 139.7053522
+  },
+  {
+    "id": "heysayjump-godia-hanayama-udon-ginza",
+    "name": "五代目花山うどん",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "address": "東京都中央区銀座",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6720135,
+    "lng": 139.7647202
+  },
+  {
+    "id": "heysayjump-usagiya-cafe-ueno",
+    "name": "うさぎやCAFE",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都台東区上野1丁目",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.7066556,
+    "lng": 139.7715506
+  },
+  {
+    "id": "heysayjump-futsunifuruutsu-nakameguro",
+    "name": "フツウニフルウツ",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都目黒区中目黒",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "メレンゲの気持ち"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/meringue/20170729",
+    "source_video_title": "メレンゲの気持ち 2017.07.29",
+    "description": "",
+    "lat": 35.6442023,
+    "lng": 139.6987133
+  },
+  {
+    "id": "heysayjump-akutori-daikan-nabeno-shibuya",
+    "name": "悪酔り大官 なべのしん",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20171207",
+    "source_video_title": "めざましテレビ 2017.12.07",
+    "description": "",
+    "lat": 35.6633709,
+    "lng": 139.6964952
+  },
+  {
+    "id": "heysayjump-kurodaiko-ikebukuro",
+    "name": "黒太鼓 池袋店",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都豊島区池袋",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20171207",
+    "source_video_title": "めざましテレビ 2017.12.07",
+    "description": "",
+    "lat": 35.7298752,
+    "lng": 139.7112955
+  },
+  {
+    "id": "heysayjump-nanairo-temariuta-shinjuku",
+    "name": "七色手毬唄",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20171207",
+    "source_video_title": "めざましテレビ 2017.12.07",
+    "description": "",
+    "lat": 35.6937632,
+    "lng": 139.7036319
+  },
+  {
+    "id": "heysayjump-pan-no-kura-oiso",
+    "name": "パンの蔵",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "神奈川県",
+    "address": "神奈川県中郡大磯町",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "いただきハイジャンプ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
+    "source_video_title": "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケ",
+    "description": "",
+    "lat": 35.3130669,
+    "lng": 139.3249031
+  },
+  {
+    "id": "heysayjump-hakone-bakery-yumoto",
+    "name": "箱根ベーカリー 箱根湯本本店",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "神奈川県",
+    "address": "神奈川県足柄下郡箱根町湯本茶屋184",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "いただきハイジャンプ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
+    "source_video_title": "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケ",
+    "description": "",
+    "lat": 35.222086,
+    "lng": 139.089696,
+    "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14004864/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1410/A141001/14004864/"
+      }
+    ]
+  },
+  {
+    "id": "heysayjump-yamaroku-himono-ito",
+    "name": "山六ひもの店 総本店",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "address": "静岡県伊東市東松原町5-6",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "いただきハイジャンプ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
+    "source_video_title": "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケ",
+    "description": "",
+    "lat": 34.972512,
+    "lng": 139.098884
+  },
+  {
+    "id": "heysayjump-izu-kogen-beer-umaimon",
+    "name": "伊豆高原ビール うまいもん処",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "address": "静岡県伊東市八幡野1180",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "いただきハイジャンプ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
+    "source_video_title": "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケ",
+    "description": "",
+    "lat": 34.878274,
+    "lng": 139.085521,
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22003088/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2205/A220503/22003088/"
+      }
+    ]
+  },
+  {
+    "id": "heysayjump-ajiro-shokudo-atami",
+    "name": "あじろ食堂",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "静岡県",
+    "address": "静岡県熱海市網代",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "いただきハイジャンプ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
+    "source_video_title": "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケ",
+    "description": "",
+    "lat": 35.0437146,
+    "lng": 139.0811875
+  },
+  {
+    "id": "heysayjump-moyashi-semmonten-shibuya",
+    "name": "もやし専門店 もやし",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13030989/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13030989/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20170525",
+    "source_video_title": "めざましテレビ 2017.05.25",
+    "description": "",
+    "lat": 35.6633709,
+    "lng": 139.6964952
+  },
+  {
+    "id": "heysayjump-aamc-setagaya",
+    "name": "All About My Croquette",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都世田谷区",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20170525",
+    "source_video_title": "めざましテレビ 2017.05.25",
+    "description": "",
+    "lat": 35.6469025,
+    "lng": 139.652531
+  },
+  {
+    "id": "heysayjump-mushroom-tokyo-shibuya",
+    "name": "MUSHROOM TOKYO",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13166680/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13166680/"
+      }
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/mezamashi/20170525",
+    "source_video_title": "めざましテレビ 2017.05.25",
+    "description": "",
+    "lat": 35.6633709,
+    "lng": 139.6964952
+  },
+  {
+    "id": "heysayjump-tsukiji-hongwanji-cafe-tsumugi",
+    "name": "築地本願寺カフェ Tsumugi",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都中央区築地3-15-1",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/10/04/084807",
+    "source_video_title": "めざましテレビ 2018.10.04",
+    "description": "",
+    "lat": 35.6650914,
+    "lng": 139.7708281
+  },
+  {
+    "id": "heysayjump-tera-cafe-daikanyama",
+    "name": "寺カフェ",
+    "group": "heysayjump",
+    "groups": [
+      "heysayjump"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区代官山",
+    "members": [
+      "伊野尾慧"
+    ],
+    "tags": [
+      "HeySayJUMP",
+      "めざましテレビ"
+    ],
+    "source_url": "https://medax.hatenablog.com/entry/2018/10/04/084807",
+    "source_video_title": "めざましテレビ 2018.10.04",
+    "description": "",
+    "lat": 35.6481373,
+    "lng": 139.7032756
+  }
+]

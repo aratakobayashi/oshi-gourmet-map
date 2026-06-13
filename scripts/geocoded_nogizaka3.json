@@ -1,0 +1,81 @@
+[
+  {
+    "name": "浅草 花月堂 本店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草2-7-13",
+    "lat": 35.7115,
+    "lng": 139.7961,
+    "youtube_id": "",
+    "source_video_title": "乃木坂ってどこ？",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "星野みなみ",
+      "佐藤楓",
+      "松井玲奈"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "乃木坂ってどこ？の9thヒット祈願放送で松井玲奈さん・星野みなみさんがジャンボめろんぱんを食べていたお店。佐藤楓さんも撮影後に訪問。",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "江の島 貝作",
+    "genre": "居酒屋",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "address": "神奈川県藤沢市江の島1-3-20",
+    "lat": 35.3016,
+    "lng": 139.4808,
+    "youtube_id": "",
+    "source_video_title": "乃木坂工事中",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "生田絵梨花",
+      "松村沙友理",
+      "斉藤優里"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "乃木坂工事中のドライブロケでメンバーが訪れた江の島のお店。4人とも貝作御膳を食べていた。",
+    "nearest_station": "",
+    "price_range": "",
+    "tags": []
+  },
+  {
+    "name": "路麺えんそば錦一丁目店",
+    "genre": "ラーメン",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区錦1-16-13",
+    "lat": 35.1688,
+    "lng": 136.8933,
+    "youtube_id": "",
+    "source_video_title": "乃木坂46",
+    "source_video_url": "",
+    "visited_date": "",
+    "members": [
+      "齋藤飛鳥",
+      "遠藤さくら",
+      "梅澤美波",
+      "星野みなみ"
+    ],
+    "groups": [
+      "nogizaka46"
+    ],
+    "group": "nogizaka46",
+    "description": "乃木坂ファン聖地の名古屋立ち食い蕎麦店。伏見駅から徒歩4分。",
+    "nearest_station": "伏見駅8番出口より徒歩4分",
+    "price_range": "",
+    "tags": []
+  }
+]

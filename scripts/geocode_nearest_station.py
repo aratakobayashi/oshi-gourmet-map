@@ -22,7 +22,7 @@ SHOPS_JSON  = os.path.join(SCRIPTS_DIR, '../data/shops.json')
 CACHE_JSON  = os.path.join(SCRIPTS_DIR, 'nearest_station_cache.json')
 
 OVERPASS_URL   = 'https://overpass-api.de/api/interpreter'
-SEARCH_RADIUS  = 800   # メートル（徒歩約10分圏内）
+SEARCH_RADIUS  = 1200  # メートル（徒歩約15分圏内）
 SLEEP          = 1.5   # 秒（Overpass APIへの負荷軽減）
 
 

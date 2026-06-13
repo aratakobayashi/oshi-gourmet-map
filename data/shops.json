@@ -78932,5 +78932,302 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "west-1aba8e69-",
+    "name": "あじろ亭",
+    "genre": "食事",
+    "prefecture": "岐阜県",
+    "city": "岐阜市",
+    "address": "岐阜県岐阜市伊奈波通1丁目",
+    "lat": 35.428194,
+    "lng": 136.767945,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤ",
+    "source_url": "https://jwest.jp/ikisugi_20230725/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21000687/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/gifu/A2101/A210101/21000687/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-a08793f7-",
+    "name": "中津軒",
+    "genre": "食事",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市中央5-5",
+    "lat": 34.7202532,
+    "lng": 136.509149,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤ",
+    "source_url": "https://jwest.jp/ikisugi_20230725/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/mie/A2401/A240101/24000093/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/mie/A2401/A240101/24000093/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-14587006-",
+    "name": "そうめん屋はやし",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区大井",
+    "lat": 35.6001214,
+    "lng": 139.730032,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-08-08 激辛そうめん",
+    "source_url": "https://jwest.jp/ikisugi_20230808/",
+    "visited_date": "",
+    "members": [
+      "中間淳太",
+      "重岡大毅"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13179397/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131501/13179397/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-963-",
+    "name": "963",
+    "genre": "ラーメン",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市本町2-27-20",
+    "lat": 35.6940325,
+    "lng": 139.976026,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-06 なのにツアー",
+    "source_url": "https://jwest.jp/ikisugi_20230606/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/chiba/A1202/A120201/12020358/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1202/A120201/12020358/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-b1f5daca-",
+    "name": "カレー名人 新富町店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区新富町",
+    "lat": 35.6706504,
+    "lng": 139.7734291,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-06 なのにツアー",
+    "source_url": "https://jwest.jp/ikisugi_20230606/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13037870/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1313/A131301/13037870/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-0a5e6b5f-",
+    "name": "コナとスパイス",
+    "genre": "カフェ",
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "address": "栃木県那須塩原市",
+    "lat": 36.9621788,
+    "lng": 140.0467207,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-13 羽田空港グルメ",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tochigi/A0905/A090501/9020983/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9020983/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-469f9d4b-",
+    "name": "中町氷菓店 果実と氷 吉祥寺",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "address": "東京都武蔵野市吉祥寺",
+    "lat": 35.7022217,
+    "lng": 139.5803829,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-12 かき氷500杯",
+    "source_url": "https://jwest.jp/ikisugi_20230712/",
+    "visited_date": "",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13270924/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1320/A132001/13270924/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-0000c019-",
+    "name": "ナナシノ氷菓店",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中目黒",
+    "lat": 35.6441395,
+    "lng": 139.6988317,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-12 かき氷500杯",
+    "source_url": "https://jwest.jp/ikisugi_20230712/",
+    "visited_date": "",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13248165/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13248165/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]

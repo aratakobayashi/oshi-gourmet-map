@@ -1,0 +1,675 @@
+[
+  {
+    "name": "はま寿司 環八大鳥居店",
+    "visited_date": "2024-01-25",
+    "description": "",
+    "genre": "寿司",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [],
+    "address": "東京都大田区萩中3-4-5",
+    "lat": 35.5511001,
+    "lng": 139.7317797,
+    "youtube_id": "",
+    "source_video_title": "なにわ男子のなんでやねん",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8%20%E7%92%B0%E5%85%AB%E5%A4%A7%E9%B3%A5%E5%B1%85%E5%BA%97",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8%20%E7%92%B0%E5%85%AB%E5%A4%A7%E9%B3%A5%E5%B1%85%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "挽肉と米　吉祥寺店",
+    "visited_date": "2020-10-16",
+    "description": "藤原丈一郎くんも食べていました、ご飯、生卵、みそ汁の定食セットで、運ばれたハンバーグをご飯の上に乗せ美味しそうにほお張っていました。 店内全席がカウンター席で、カウンターの内側の炭火でハンバークを焼いてくれて、焼きたての熱々を、目の前の網の",
+    "genre": "居酒屋",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都武蔵野市吉祥寺本町2-8-3",
+    "lat": 35.7043267,
+    "lng": 139.5775409,
+    "youtube_id": "",
+    "source_video_title": "ハンバーグにハマる女子急増のなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%8C%BD%E8%82%89%E3%81%A8%E7%B1%B3%E3%80%80%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%8C%BD%E8%82%89%E3%81%A8%E7%B1%B3%E3%80%80%E5%90%89%E7%A5%A5%E5%AF%BA%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "鉄板和食とワイン 萬鉄",
+    "visited_date": "2020-10-16",
+    "description": "藤原丈一郎くんは、フロマージュハンバーグを紹介していました。 熱した鉄板のプレート皿の上に焼きたてハンバーグが乗せられ、目の前でフロマージュチーズをかけてくれます。",
+    "genre": "居酒屋",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都港区東新橋1-8-2 カレッタ汐留 46階",
+    "lat": 35.6631257,
+    "lng": 139.7589757,
+    "youtube_id": "",
+    "source_video_title": "ハンバーグにハマる女子急増のなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%89%84%E6%9D%BF%E5%92%8C%E9%A3%9F%E3%81%A8%E3%83%AF%E3%82%A4%E3%83%B3%20%E8%90%AC%E9%89%84",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%89%84%E6%9D%BF%E5%92%8C%E9%A3%9F%E3%81%A8%E3%83%AF%E3%82%A4%E3%83%B3%20%E8%90%AC%E9%89%84"
+      }
+    ]
+  },
+  {
+    "name": "大衆食堂 ゆしまホール",
+    "visited_date": "2022-04-15",
+    "description": "藤原丈一郎くんは、いくら丼を美味しそうに食べていました。 店内は、若い人でも抵抗なく入れるように明るく、ポップな感じなので大衆食堂のイメージも変わります。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都文京区湯島3-34-8 第一天神ビル 1F",
+    "lat": 35.7073938,
+    "lng": 139.7678135,
+    "youtube_id": "",
+    "source_video_title": "大衆食堂が若者に人気なのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%A4%A7%E8%A1%86%E9%A3%9F%E5%A0%82%20%E3%82%86%E3%81%97%E3%81%BE%E3%83%9B%E3%83%BC%E3%83%AB",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%A4%A7%E8%A1%86%E9%A3%9F%E5%A0%82%20%E3%82%86%E3%81%97%E3%81%BE%E3%83%9B%E3%83%BC%E3%83%AB"
+      }
+    ]
+  },
+  {
+    "name": "東京ギョーザ スタンド ウーロン",
+    "visited_date": "2022-05-20",
+    "description": "羽付き餃子がとても美味しそうです。",
+    "genre": "中華",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都千代田区丸の内1-9-1 グランスタ東京 B1F",
+    "lat": 35.6790703,
+    "lng": 139.7652988,
+    "youtube_id": "",
+    "source_video_title": "駅ナカに話題のグルメが集まっているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%9D%B1%E4%BA%AC%E3%82%AE%E3%83%A7%E3%83%BC%E3%82%B6%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%A6%E3%83%BC%E3%83%AD%E3%83%B3",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%9D%B1%E4%BA%AC%E3%82%AE%E3%83%A7%E3%83%BC%E3%82%B6%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%A6%E3%83%BC%E3%83%AD%E3%83%B3"
+      }
+    ]
+  },
+  {
+    "name": "鳥藤　とりそばスタンド",
+    "visited_date": "2022-05-20",
+    "description": "藤原丈一郎くんは、とりそばを注文していました。 注文してから席に運ばれるまでの時間は2分かかっていませんでした！",
+    "genre": "ラーメン",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都千代田区丸の内1-9-1 グランスタ東京",
+    "lat": 35.6790703,
+    "lng": 139.7652988,
+    "youtube_id": "",
+    "source_video_title": "駅ナカに話題のグルメが集まっているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%B3%A5%E8%97%A4%E3%80%80%E3%81%A8%E3%82%8A%E3%81%9D%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%B3%A5%E8%97%A4%E3%80%80%E3%81%A8%E3%82%8A%E3%81%9D%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89"
+      }
+    ]
+  },
+  {
+    "name": "立ち寿司横丁",
+    "visited_date": "2022-07-01",
+    "description": "藤原丈一郎くんもおいしそうに食べていました。 立ち食いなので回転率も良いし、寿司と言ったら高級なイメージですが気軽に入れるのが良いですね。",
+    "genre": "寿司",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "藤原丈一郎"
+    ],
+    "address": "東京都新宿区西新宿1-18-13 近江ビル 1F",
+    "lat": 35.690719,
+    "lng": 139.6941527,
+    "youtube_id": "",
+    "source_video_title": "立ち食い寿司店が増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%AB%8B%E3%81%A1%E5%AF%BF%E5%8F%B8%E6%A8%AA%E4%B8%81",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%AB%8B%E3%81%A1%E5%AF%BF%E5%8F%B8%E6%A8%AA%E4%B8%81"
+      }
+    ]
+  },
+  {
+    "name": "そうめん そそそ 研究室",
+    "visited_date": "2021-07-09",
+    "description": "そうめんを、数種類ある麺、具材、スープから、好きなものを選ぶことが出来る、オーソドックスのそうめんから、新感覚のそうめん料理として食べられるそうめんメニューがある、そうめんの専門店です。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ 6F",
+    "lat": 35.6584501,
+    "lng": 139.7028426,
+    "youtube_id": "",
+    "source_video_title": "定番料理が超絶進化しているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%20%E3%81%9D%E3%81%9D%E3%81%9D%20%E7%A0%94%E7%A9%B6%E5%AE%A4",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%20%E3%81%9D%E3%81%9D%E3%81%9D%20%E7%A0%94%E7%A9%B6%E5%AE%A4"
+      }
+    ]
+  },
+  {
+    "name": "むぎとオリーブ",
+    "visited_date": "2021-12-17",
+    "description": "高橋恭平くんは、蛤SOBAを注文しました。 三つ葉が入ったあっさりとした味わいだそうです。",
+    "genre": "ラーメン",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都中央区銀座6-12-12 銀座ステラビル 1F",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "銀座におしゃれ系ラーメン店が増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%80%E3%81%8E%E3%81%A8%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%80%E3%81%8E%E3%81%A8%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96"
+      }
+    ]
+  },
+  {
+    "name": "ウミノイロ",
+    "visited_date": "2021-12-17",
+    "description": "高橋恭平くんは、濃厚海老ソバを注文しました。 コクがあるのにあっさりとした後味でとても美味しいとの事でした。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都中央区銀座4-13-3 渡辺ビル 1F",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "銀座におしゃれ系ラーメン店が増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%A6%E3%83%9F%E3%83%8E%E3%82%A4%E3%83%AD",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%A6%E3%83%9F%E3%83%8E%E3%82%A4%E3%83%AD"
+      }
+    ]
+  },
+  {
+    "name": "銀座 創龍",
+    "visited_date": "2021-12-17",
+    "description": "高橋恭平くんは、大江戸焦がし醤油を注文しました。 スープの色がとても濃いですが、味はあっさりでとても美味しいとの事でした。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都中央区銀座6-4-18 マキシドピアビル 1F",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "銀座におしゃれ系ラーメン店が増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%8A%80%E5%BA%A7%20%E5%89%B5%E9%BE%8D",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%8A%80%E5%BA%A7%20%E5%89%B5%E9%BE%8D"
+      }
+    ]
+  },
+  {
+    "name": "KAMERA",
+    "visited_date": "2022-04-22",
+    "description": "高橋恭平くんは、富士鶏と豆腐の水焼売を注文しました。 水餃子は聞いたことがありましたが、水焼売は初めて知りました。",
+    "genre": "中華",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都渋谷区道玄坂2丁目20-5 1F",
+    "lat": 35.6593786,
+    "lng": 139.6987796,
+    "youtube_id": "",
+    "source_video_title": " シューマイの存在感が増しているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=KAMERA",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=KAMERA"
+      }
+    ]
+  },
+  {
+    "name": "食と祭りの殿堂 浅草横丁",
+    "visited_date": "2022-07-08",
+    "description": "東京楽天地浅草ビルの4階にオープンした7店舗の事を、浅草横丁と言います。",
+    "genre": "居酒屋",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都台東区浅草2-6-7",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "エンタメレストランが増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%A3%9F%E3%81%A8%E7%A5%AD%E3%82%8A%E3%81%AE%E6%AE%BF%E5%A0%82%20%E6%B5%85%E8%8D%89%E6%A8%AA%E4%B8%81",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E9%A3%9F%E3%81%A8%E7%A5%AD%E3%82%8A%E3%81%AE%E6%AE%BF%E5%A0%82%20%E6%B5%85%E8%8D%89%E6%A8%AA%E4%B8%81"
+      }
+    ]
+  },
+  {
+    "name": "アクアリウムレストラン Nautilus",
+    "visited_date": "2022-07-08",
+    "description": "巨大水槽に囲まれ、水族館で魚を見ながら食事が出来ます。",
+    "genre": "海鮮",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都台東区上野2-12-23 上野ユーワンビル 5Ｆ",
+    "lat": 35.7118219,
+    "lng": 139.7776069,
+    "youtube_id": "",
+    "source_video_title": "エンタメレストランが増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20Nautilus",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20Nautilus"
+      }
+    ]
+  },
+  {
+    "name": "回転わんこそば・くるくるわんこ",
+    "visited_date": "2022-07-08",
+    "description": "その名の通り、通常は回転すしに使われるレーンを使い、わんこそばが流れてくるので、自分のペースでわんこそばを食べることが出来ます。",
+    "genre": "ラーメン",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "高橋恭平"
+    ],
+    "address": "東京都新宿区歌舞伎町1-22-9",
+    "lat": 35.6945429,
+    "lng": 139.7027105,
+    "youtube_id": "",
+    "source_video_title": "エンタメレストランが増えているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%9B%9E%E8%BB%A2%E3%82%8F%E3%82%93%E3%81%93%E3%81%9D%E3%81%B0%E3%83%BB%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E3%82%8F%E3%82%93%E3%81%93",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%9B%9E%E8%BB%A2%E3%82%8F%E3%82%93%E3%81%93%E3%81%9D%E3%81%B0%E3%83%BB%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8B%E3%82%8F%E3%82%93%E3%81%93"
+      }
+    ]
+  },
+  {
+    "name": "PST　六本木店",
+    "visited_date": "2021-08-20",
+    "description": "正式な店名は、Pizza Studio Tamaki ピッツァ スタジオ タマキと言います。 数種類のチーズとバジルのピザに、後乗せで、トマトのかき氷、ガーリックチップ、オリーブオイルをトッピングのピザを西畑大吾くんが紹介していました。",
+    "genre": "カフェ",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "西畑大吾"
+    ],
+    "address": "東京都港区六本木7-6-2",
+    "lat": 35.6624568,
+    "lng": 139.7334981,
+    "youtube_id": "",
+    "source_video_title": "熱々グルメがひんやりグルメになっているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=PST%E3%80%80%E5%85%AD%E6%9C%AC%E6%9C%A8%E5%BA%97",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=PST%E3%80%80%E5%85%AD%E6%9C%AC%E6%9C%A8%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "沸騰 小吃城",
+    "visited_date": "2021-11-19",
+    "description": "西畑大吾くんは、揚げUFOを注文しました。 揚げUFOは、円盤状に形作られた生地の中に具が詰め込まれたものです。",
+    "genre": "中華",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "西畑大吾"
+    ],
+    "address": "東京都豊島区西池袋1-43-7 福住ビル 3F",
+    "lat": 35.7284313,
+    "lng": 139.7017131,
+    "youtube_id": "",
+    "source_video_title": "池袋が中華街になっているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%B2%B8%E9%A8%B0%20%E5%B0%8F%E5%90%83%E5%9F%8E",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E6%B2%B8%E9%A8%B0%20%E5%B0%8F%E5%90%83%E5%9F%8E"
+      }
+    ]
+  },
+  {
+    "name": "四季香",
+    "visited_date": "2021-11-19",
+    "description": "西畑大吾くんは、カエルのあしの鉄板焼きを注文しました。 カエルのあしは、日本では一般的ではありませんが、鶏肉を食べているようだと、コメントをしていました。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "西畑大吾"
+    ],
+    "address": "東京都豊島区西池袋1-43-3 日精ビル1F",
+    "lat": 35.7284313,
+    "lng": 139.7017131,
+    "youtube_id": "",
+    "source_video_title": "池袋が中華街になっているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%9B%9B%E5%AD%A3%E9%A6%99",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E5%9B%9B%E5%AD%A3%E9%A6%99"
+      }
+    ]
+  },
+  {
+    "name": "焼肉Meat it",
+    "visited_date": "2021-10-29",
+    "description": "個室もあり、カクテルなど多彩なお酒も楽しむことが出来ます。",
+    "genre": "焼肉",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "大西流星"
+    ],
+    "address": "東京都町田市原町田6-19-15 大星ビル 2F",
+    "lat": 35.5413685,
+    "lng": 139.4520661,
+    "youtube_id": "",
+    "source_video_title": "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%84%BC%E8%82%89Meat%20it",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%84%BC%E8%82%89Meat%20it"
+      }
+    ]
+  },
+  {
+    "name": "焼肉ストーリー",
+    "visited_date": "2021-10-29",
+    "description": "松坂牛のブランド肉が安く食べられるとの評判のお店です。 それを実現させる為に、契約牧場から直接仕入れているので通常よりお値打ちに提供が出来るとの事。",
+    "genre": "焼肉",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "大西流星"
+    ],
+    "address": "東京都千代田区神田三崎町1-4-8 愛光舎ビル B1F",
+    "lat": 35.700896,
+    "lng": 139.7540135,
+    "youtube_id": "",
+    "source_video_title": "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%84%BC%E8%82%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%84%BC%E8%82%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+      }
+    ]
+  },
+  {
+    "name": "プレミアムカルビ　新小岩店",
+    "visited_date": "2022-04-08",
+    "description": "良質なお肉を食べ放題で食べられます。 店内もアメリカンのレストランの様な雰囲気でとてもきれいです。",
+    "genre": "焼肉",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "大西流星"
+    ],
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "業務スーパーが二刀流で焼肉チェーン始めているのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%AB%E3%83%AB%E3%83%93%E3%80%80%E6%96%B0%E5%B0%8F%E5%B2%A9%E5%BA%97",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%AB%E3%83%AB%E3%83%93%E3%80%80%E6%96%B0%E5%B0%8F%E5%B2%A9%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "Crispy’s Burger",
+    "visited_date": "2021-11-26",
+    "description": "長尾謙杜くんは、クリスピーチキンバーガーを注文しました。 チキンの他に、トマト、レタス、チーズが入ったバーガーです。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "長尾謙杜"
+    ],
+    "address": "東京都大久保３丁目１０−１ 内 オレンジコート",
+    "lat": 35.7067455,
+    "lng": 139.7057185,
+    "youtube_id": "",
+    "source_video_title": " チキンバーガー専門店が急増してるのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=Crispy%E2%80%99s%20Burger",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=Crispy%E2%80%99s%20Burger"
+      }
+    ]
+  },
+  {
+    "name": "ハイカラ フライド チキン ヨドバシAkiba店",
+    "visited_date": "2021-11-26",
+    "description": "長尾謙杜くんは、ハイカラオリジナルフライドチキンを注文しました。 美味しいと大きな口で食べてました。",
+    "genre": "食事",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "長尾謙杜"
+    ],
+    "address": "東京都千代田区神田花岡町１−１ ヨドバシAkiba1F",
+    "lat": 35.698802,
+    "lng": 139.773971,
+    "youtube_id": "",
+    "source_video_title": " チキンバーガー専門店が急増してるのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%20%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%20%E3%83%81%E3%82%AD%E3%83%B3%20%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7Akiba%E5%BA%97",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%20%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%20%E3%83%81%E3%82%AD%E3%83%B3%20%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7Akiba%E5%BA%97"
+      }
+    ]
+  },
+  {
+    "name": "牡蠣と魚",
+    "visited_date": "2022-02-10",
+    "description": "このお店は、生がき食べ放題なのですが、席に着くと、お通し代はかかります。 牡蠣は無料ですが、薬味は有料で、他の産地の牡蠣や、他メニューも注文するので、採算が取れるとの事。",
+    "genre": "海鮮",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "道枝駿佑"
+    ],
+    "address": "東京都渋谷区幡ケ谷2-8-15　KODAビル1F",
+    "lat": 35.677903,
+    "lng": 139.6740463,
+    "youtube_id": "",
+    "source_video_title": " 無料で食べ放題できるのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%89%A1%E8%A0%A3%E3%81%A8%E9%AD%9A",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E7%89%A1%E8%A0%A3%E3%81%A8%E9%AD%9A"
+      }
+    ]
+  },
+  {
+    "name": "ハタガヤ牛タンテール",
+    "visited_date": "2022-02-10",
+    "description": "こちらのお店は、撮影当初は牛タンとテール肉が無料で食べ放題でしたが、現在は食べ放題は行っていません。 開店当初は、上記に紹介した、牡蠣と魚と同じ経営者で、経営戦略を無料食べ放題として話題を作り宣伝効果としました。",
+    "genre": "海鮮",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "members": [
+      "道枝駿佑"
+    ],
+    "address": "東京都渋谷区幡ケ谷2-8-15　KODAビル1F",
+    "lat": 35.677903,
+    "lng": 139.6740463,
+    "youtube_id": "",
+    "source_video_title": " 無料で食べ放題できるのなんでやねん！を解明",
+    "source_video_url": "",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%8F%E3%82%BF%E3%82%AC%E3%83%A4%E7%89%9B%E3%82%BF%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/rstLst/?vs=1&sk=%E3%83%8F%E3%82%BF%E3%82%AC%E3%83%A4%E7%89%9B%E3%82%BF%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB"
+      }
+    ]
+  }
+]

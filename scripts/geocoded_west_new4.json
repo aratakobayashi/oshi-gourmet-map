@@ -1,0 +1,54 @@
+[
+  {
+    "id": "west-nakamachihyogaten-kichijoji",
+    "name": "中町氷菓店 果実と氷 吉祥寺",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都武蔵野市吉祥寺",
+    "members": [
+      "神山智洋"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230712/",
+    "source_video_title": "イキスギさんについてった 2023-07-12 かき氷500杯",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13270924/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1320/A132001/13270924/"
+      }
+    ],
+    "lat": 35.7022217,
+    "lng": 139.5803829
+  },
+  {
+    "id": "west-nanashinohyogaten-nakameguro",
+    "name": "ナナシノ氷菓店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都目黒区中目黒",
+    "members": [
+      "神山智洋"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230712/",
+    "source_video_title": "イキスギさんについてった 2023-07-12 かき氷500杯",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13248165/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13248165/"
+      }
+    ],
+    "lat": 35.6441395,
+    "lng": 139.6988317
+  }
+]

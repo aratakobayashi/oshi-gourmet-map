@@ -1,0 +1,124 @@
+[
+  {
+    "id": "travisjapan-hakata-daruma-fukuoka",
+    "name": "博多だるま 総本店",
+    "group": "travisjapan",
+    "groups": [
+      "travisjapan"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福岡県",
+    "address": "福岡県福岡市中央区渡辺通1-8-25",
+    "members": [],
+    "tags": [
+      "Travis Japan",
+      "福岡"
+    ],
+    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400103/40000113/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4001/A400103/40000113/"
+      }
+    ],
+    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
+    "source_video_title": "Travis Japan 福岡旅",
+    "description": "",
+    "lat": 33.5839062,
+    "lng": 130.4051299
+  },
+  {
+    "id": "travisjapan-motunabe-sendo-fukuoka",
+    "name": "もつ鍋 仙頭",
+    "group": "travisjapan",
+    "groups": [
+      "travisjapan"
+    ],
+    "genre": "食事",
+    "prefecture": "福岡県",
+    "address": "福岡県福岡市中央区赤坂",
+    "members": [
+      "松倉海斗"
+    ],
+    "tags": [
+      "Travis Japan",
+      "福岡"
+    ],
+    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400104/40043848/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4001/A400104/40043848/"
+      }
+    ],
+    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
+    "source_video_title": "Travis Japan 福岡旅 もつ鍋",
+    "description": "",
+    "lat": 33.5890805,
+    "lng": 130.390363
+  },
+  {
+    "id": "travisjapan-nakanishi-shokudo-shikanoshima",
+    "name": "中西食堂",
+    "group": "travisjapan",
+    "groups": [
+      "travisjapan"
+    ],
+    "genre": "食事",
+    "prefecture": "福岡県",
+    "address": "福岡県福岡市東区志賀島583-7",
+    "members": [],
+    "tags": [
+      "Travis Japan",
+      "福岡",
+      "志賀島"
+    ],
+    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
+    "source_video_title": "Travis Japan 福岡旅 志賀島 さざえ丼",
+    "description": "",
+    "lat": 33.6645246,
+    "lng": 130.3077587
+  },
+  {
+    "id": "travisjapan-kawabata-zenzai-hiroba-fukuoka",
+    "name": "川端ぜんざい広場",
+    "group": "travisjapan",
+    "groups": [
+      "travisjapan"
+    ],
+    "genre": "カフェ",
+    "prefecture": "福岡県",
+    "address": "福岡県福岡市博多区上川端町10-256",
+    "members": [],
+    "tags": [
+      "Travis Japan",
+      "福岡"
+    ],
+    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
+    "source_video_title": "Travis Japan 福岡旅 川端商店街",
+    "description": "",
+    "lat": 33.5897217,
+    "lng": 130.4169918
+  },
+  {
+    "id": "travisjapan-ramen-doden-nishikawaguchi",
+    "name": "ラーメンどでん",
+    "group": "travisjapan",
+    "groups": [
+      "travisjapan"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "埼玉県",
+    "address": "埼玉県川口市西川口",
+    "members": [],
+    "tags": [
+      "Travis Japan",
+      "ダンスだぜ!!"
+    ],
+    "source_url": "https://azuki-419.hatenadiary.com/entry/2026/01/05/203005",
+    "source_video_title": "Travis Japanのダンスだぜ!! 埼玉ロケ",
+    "description": "",
+    "lat": 35.8155833,
+    "lng": 139.7044816
+  }
+]

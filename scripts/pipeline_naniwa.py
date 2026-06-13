@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-pipeline_timelesz.py
-timelesz グルメデータの自動収集・マージ・サイト生成・Gitプッシュを一括実行
+pipeline_naniwa.py
+なにわ男子グルメデータの自動収集・マージ・サイト生成・Gitプッシュを一括実行
 
 使い方:
-  python scripts/pipeline_timelesz.py          # 通常実行（git commit/pushあり）
-  python scripts/pipeline_timelesz.py --dry-run  # 書き込み・pushなし
-  python scripts/pipeline_timelesz.py --no-push  # commit/mergeはするがpushしない
+  python scripts/pipeline_naniwa.py           # 通常実行
+  python scripts/pipeline_naniwa.py --dry-run  # 書き込み・pushなし
+  python scripts/pipeline_naniwa.py --no-push  # commitはするがpushしない
 """
 
 import argparse
@@ -26,7 +26,6 @@ from pathlib import Path
 REPO_ROOT   = Path(__file__).parent.parent
 SCRIPTS_DIR = Path(__file__).parent
 SHOPS_JSON  = REPO_ROOT / 'data' / 'shops.json'
-
 NOMINATIM_URL = 'https://nominatim.openstreetmap.org/search'
 
 PREF_KEYWORDS = [
@@ -39,7 +38,6 @@ PREF_KEYWORDS = [
     '熊本県','大分県','宮崎県','鹿児島県','沖縄県',
 ]
 
-# 都道府県 → (lat_min, lat_max, lng_min, lng_max)
 PREF_BBOX = {
     '北海道':   (41.0, 45.7, 139.5, 145.9),
     '東京都':   (35.5, 35.9, 138.9, 139.9),
@@ -49,15 +47,13 @@ PREF_BBOX = {
     '京都府':   (34.7, 35.8, 135.0, 136.1),
     '福岡県':   (33.0, 34.2, 129.7, 131.3),
     '三重県':   (33.7, 35.3, 135.7, 136.9),
+    '埼玉県':   (35.7, 36.3, 138.7, 139.9),
+    '千葉県':   (35.0, 36.1, 139.7, 140.9),
+    '静岡県':   (34.5, 35.5, 137.5, 139.2),
 }
 
-# 日本全体バウンディングボックス
 JAPAN_BBOX = (24.0, 46.0, 122.0, 154.0)
 
-
-# ---------------------------------------------------------------------------
-# ユーティリティ
-# ---------------------------------------------------------------------------
 
 def log(msg: str):
     ts = datetime.now().strftime('%H:%M:%S')
@@ -92,10 +88,6 @@ def extract_prefecture_city(address: str):
             city = city_m.group(1)
     return prefecture, city
 
-
-# ---------------------------------------------------------------------------
-# ジオコーディング
-# ---------------------------------------------------------------------------
 
 def normalize_addr(text: str) -> str:
     result = []
@@ -140,9 +132,9 @@ def geocode_query(query: str):
 
 def geocode_shop(shop: dict):
     address = shop.get('address', '').strip()
-    name = shop.get('name', '')
-    pref = shop.get('prefecture', '')
-    city = shop.get('city', '')
+    name    = shop.get('name', '')
+    pref    = shop.get('prefecture', '')
+    city    = shop.get('city', '')
 
     lat, lng = None, None
 
@@ -164,7 +156,6 @@ def geocode_shop(shop: dict):
 
 
 def validate_coords(lat, lng, prefecture: str) -> bool:
-    """座標が日本国内かつ都道府県の範囲内かチェック"""
     if not lat or not lng:
         return False
     if not (JAPAN_BBOX[0] <= lat <= JAPAN_BBOX[1] and JAPAN_BBOX[2] <= lng <= JAPAN_BBOX[3]):
@@ -178,12 +169,7 @@ def validate_coords(lat, lng, prefecture: str) -> bool:
     return True
 
 
-# ---------------------------------------------------------------------------
-# tabelog サムネイル取得
-# ---------------------------------------------------------------------------
-
 def fetch_tabelog_thumbnail(tabelog_url: str) -> dict:
-    """食べログ直接URLからOG画像・スコア・価格帯を取得"""
     if not tabelog_url or 'tabelog.com' not in tabelog_url:
         return {}
     try:
@@ -193,31 +179,19 @@ def fetch_tabelog_thumbnail(tabelog_url: str) -> dict:
         )
         with urllib.request.urlopen(req, timeout=20) as r:
             html = r.read().decode('utf-8', errors='replace')
-
         og_image = ''
         m = re.search(r'<meta property="og:image" content="([^"]+)"', html)
         if m:
             og_image = m.group(1)
-
         score = ''
         sm = re.search(r'"ratingValue"\s*:\s*"([0-9.]+)"', html)
         if sm:
             score = sm.group(1)
-
-        price = ''
-        pm = re.search(r'class="[^"]*price[^"]*"[^>]*>([^<]+)</[a-z]+>', html)
-        if pm:
-            price = pm.group(1).strip()
-
-        return {'thumbnail_url': og_image, 'tabelog_score': score, 'price_range': price}
+        return {'thumbnail_url': og_image, 'tabelog_score': score}
     except Exception as e:
         log(f'    tabelog取得エラー: {e}')
         return {}
 
-
-# ---------------------------------------------------------------------------
-# メインパイプライン
-# ---------------------------------------------------------------------------
 
 def load_shops() -> list:
     with open(SHOPS_JSON, encoding='utf-8') as f:
@@ -229,13 +203,13 @@ def save_shops(shops: list):
         json.dump(shops, f, ensure_ascii=False, indent=2)
 
 
-def normalize_shop(raw: dict, existing_ids: set):
+def normalize_shop(raw, existing_ids):
     if not raw.get('lat') or not raw.get('lng'):
         return None
     name = raw.get('name', '').strip()
     if not name:
         return None
-    group = raw.get('group', 'timelesz')
+    group = raw.get('group', 'naniwa')
     visited_date = raw.get('visited_date', '')
     address = raw.get('address', '')
     prefecture, city = extract_prefecture_city(address)
@@ -280,15 +254,15 @@ def normalize_shop(raw: dict, existing_ids: set):
 
 
 def run_scraper(dry_run: bool) -> list:
-    """scrape_oshikatsu_time.py --auto-discover を実行してスクレイプ結果を返す"""
-    out_file = SCRIPTS_DIR / 'scraped_pipeline_timelesz_tmp.json'
+    out_file = SCRIPTS_DIR / 'scraped_pipeline_naniwa_tmp.json'
     cmd = [
         sys.executable,
-        str(SCRIPTS_DIR / 'scrape_oshikatsu_time.py'),
+        str(SCRIPTS_DIR / 'scrape_chiicrane.py'),
         '--auto-discover',
         '--output', str(out_file),
+        '--existing-json', str(SHOPS_JSON),
     ]
-    log('oshikatsu-time.com 自動巡回スクレイプ中...')
+    log('chiicrane-life.fun 自動巡回スクレイプ中...')
     result = run(cmd)
     if result.returncode != 0:
         log(f'スクレイパーエラー:\n{result.stderr}')
@@ -305,28 +279,25 @@ def run_scraper(dry_run: bool) -> list:
 
 
 def load_manual_inputs() -> list:
-    """scripts/input_timelesz_manual.json があれば読み込む（手動追加用）
-
-    このファイルに追加したい店舗データをJSONリストで書いておくと
-    パイプライン実行時に自動で取り込まれる。取り込み後はファイルを空配列にリセット。
+    """scripts/input_naniwa_manual.json から手動追加データを読み込む
 
     スキーマ例:
     [
       {
         "name": "店舗名",
-        "group": "timelesz",
+        "group": "naniwa",
         "address": "〒xxx-xxxx 都道府県...",
-        "members": ["菊池風磨"],
+        "members": ["大西流星"],
         "visited_date": "2025-01-01",
         "source_url": "https://...",
-        "source_video_title": "番組名",
+        "source_video_title": "なにわ男子のどっち派",
         "genre": "カフェ",
         "ordered_items": ["メニュー名"],
         "tabelog_url": "https://tabelog.com/..."
       }
     ]
     """
-    manual_file = SCRIPTS_DIR / 'input_timelesz_manual.json'
+    manual_file = SCRIPTS_DIR / 'input_naniwa_manual.json'
     if not manual_file.exists():
         return []
     try:
@@ -334,7 +305,12 @@ def load_manual_inputs() -> list:
             data = json.load(f)
         if not data:
             return []
-        log(f'手動追加データ: {len(data)}件 ({manual_file.name})')
+        log(f'手動追加データ: {len(data)}件')
+        for item in data:
+            if 'group' not in item:
+                item['group'] = 'naniwa'
+            if 'groups' not in item:
+                item['groups'] = ['naniwa']
         return data
     except Exception as e:
         log(f'manual input読み込みエラー: {e}')
@@ -342,24 +318,24 @@ def load_manual_inputs() -> list:
 
 
 def reset_manual_input(dry_run: bool):
-    """取り込み後に input_timelesz_manual.json を空配列にリセット"""
-    manual_file = SCRIPTS_DIR / 'input_timelesz_manual.json'
+    manual_file = SCRIPTS_DIR / 'input_naniwa_manual.json'
     if not manual_file.exists():
         return
     if not dry_run:
         with open(manual_file, 'w', encoding='utf-8') as f:
             json.dump([], f)
-        log(f'{manual_file.name} をリセットしました')
+        log(f'{manual_file.name} をリセット')
 
 
 def run_generate():
-    """generate_lite.py + generate_shop_pages.py を実行"""
     log('generate_lite.py...')
     r = run([sys.executable, str(SCRIPTS_DIR / 'generate_lite.py')])
-    print(r.stdout)
+    if r.stdout:
+        print(r.stdout[:500])
     log('generate_shop_pages.py...')
     r = run([sys.executable, str(SCRIPTS_DIR / 'generate_shop_pages.py')])
-    print(r.stdout)
+    if r.stdout:
+        print(r.stdout[:500])
 
 
 def git_commit_push(added_shops: list, dry_run: bool, no_push: bool):
@@ -367,15 +343,14 @@ def git_commit_push(added_shops: list, dry_run: bool, no_push: bool):
     if len(added_shops) > 5:
         names += f' 他{len(added_shops)-5}件'
 
-    # git add
     run(['git', 'add',
          'data/shops.json',
          'data/shops-lite.json',
-         'data/shops-lite/timelesz.json'])
-    run(['git', 'add', '_shop_pages/timelesz-*.md'])
+         'data/shops-lite/naniwa.json'])
+    run(['git', 'add', '_shop_pages/naniwa-*.md'])
 
     msg = (
-        f'timelesz +{len(added_shops)}件追加（自動パイプライン）\n\n'
+        f'naniwa +{len(added_shops)}件追加（自動パイプライン）\n\n'
         f'{names}\n\n'
         'Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>'
     )
@@ -399,47 +374,42 @@ def git_commit_push(added_shops: list, dry_run: bool, no_push: bool):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='timelesz グルメデータ自動収集パイプライン')
+    parser = argparse.ArgumentParser(description='なにわ男子グルメ自動収集パイプライン')
     parser.add_argument('--dry-run', action='store_true', help='書き込み・commitなし')
     parser.add_argument('--no-push', action='store_true', help='commitはするがpushしない')
     args = parser.parse_args()
 
-    log('=== timelesz グルメ自動パイプライン 開始 ===')
+    log('=== なにわ男子グルメ自動パイプライン 開始 ===')
 
-    # 1. 既存データ読み込み
     existing_shops = load_shops()
     existing_ids   = {s['id'] for s in existing_shops}
     existing_names = {s['name'] for s in existing_shops}
     log(f'既存: {len(existing_shops)}件')
 
-    # 2. スクレイプ（自動巡回）+ 手動追加データ
     scraped = run_scraper(args.dry_run)
-    manual = load_manual_inputs()
-    scraped = scraped + manual
-    log(f'スクレイプ結果: {len(scraped)}件（自動）+ 手動{len(manual)}件')
+    manual  = load_manual_inputs()
+    all_raw = scraped + manual
+    log(f'スクレイプ: {len(scraped)}件 + 手動: {len(manual)}件')
 
-    if not scraped:
+    if not all_raw:
         log('新規データなし。終了。')
         return
 
-    # 3. 名前重複チェック（既存データと）
-    candidates = [s for s in scraped if s['name'] not in existing_names]
+    candidates = [s for s in all_raw if s['name'] not in existing_names]
     log(f'名前重複除外後: {len(candidates)}件')
 
     if not candidates:
         log('追加対象なし。終了。')
         return
 
-    # 4. ジオコーディング
     log('ジオコーディング中...')
     geocoded = []
     for i, shop in enumerate(candidates):
         log(f'  [{i+1}/{len(candidates)}] {shop["name"]}')
         if shop.get('lat') and shop.get('lng'):
-            log(f'    座標済みスキップ')
+            log('    座標済みスキップ')
             geocoded.append(shop)
             continue
-
         lat, lng = geocode_shop(shop)
         if lat and lng:
             shop['lat'] = lat
@@ -447,20 +417,24 @@ def main():
             log(f'    → ({lat:.4f}, {lng:.4f})')
             geocoded.append(shop)
         else:
-            log(f'    → 座標取得失敗: スキップ')
+            log('    → 座標取得失敗: スキップ')
 
     log(f'ジオコーディング成功: {len(geocoded)}/{len(candidates)}件')
 
-    # 5. 座標バリデーション
     valid = []
     for shop in geocoded:
-        lat = shop.get('lat')
-        lng = shop.get('lng')
         pref = shop.get('prefecture', '')
-        if validate_coords(lat, lng, pref):
+        if not pref:
+            addr = shop.get('address', '')
+            for pk in PREF_KEYWORDS:
+                if pk in addr:
+                    pref = pk
+                    shop['prefecture'] = pref
+                    break
+        if validate_coords(shop.get('lat'), shop.get('lng'), pref):
             valid.append(shop)
         else:
-            log(f'  ⚠️  座標無効のためスキップ: {shop["name"]} ({lat}, {lng})')
+            log(f'  ⚠️  座標無効のためスキップ: {shop["name"]}')
 
     log(f'座標バリデーション通過: {len(valid)}/{len(geocoded)}件')
 
@@ -468,7 +442,6 @@ def main():
         log('追加対象なし。終了。')
         return
 
-    # 6. マージ
     log('shops.json にマージ中...')
     added_shops = []
     for raw in valid:
@@ -481,7 +454,7 @@ def main():
         added_shops.append(shop)
         existing_ids.add(shop['id'])
         existing_names.add(shop['name'])
-        log(f'  追加: {shop["name"]} ({shop["prefecture"]} {shop["city"]})')
+        log(f'  追加: {shop["name"]} ({shop["prefecture"]} {shop.get("city","")}) [{shop.get("visited_date","")}]')
 
     log(f'追加件数: {len(added_shops)}件')
 
@@ -489,19 +462,16 @@ def main():
         log('追加対象なし。終了。')
         return
 
-    # 7. tabelog サムネイル取得
     log('tabelog サムネイル取得中...')
     for shop in added_shops:
         if shop.get('tabelog_url') and not shop.get('thumbnail_url'):
             result = fetch_tabelog_thumbnail(shop['tabelog_url'])
             if result.get('thumbnail_url'):
-                shop['thumbnail_url']  = result['thumbnail_url']
-                shop['tabelog_score']  = result.get('tabelog_score', '')
-                shop['price_range']    = result.get('price_range', '')
+                shop['thumbnail_url'] = result['thumbnail_url']
+                shop['tabelog_score'] = result.get('tabelog_score', '')
                 log(f'  {shop["name"]}: サムネ取得完了')
             time.sleep(1.5)
 
-    # 8. shops.json 保存
     merged = existing_shops + added_shops
     if not args.dry_run:
         save_shops(merged)
@@ -509,17 +479,14 @@ def main():
     else:
         log(f'[dry-run] shops.json 保存スキップ ({len(merged)}件になるはず)')
 
-    # 9. サイト生成
     if not args.dry_run:
         run_generate()
     else:
         log('[dry-run] generate スキップ')
 
-    # 10. 手動入力ファイルをリセット
     if manual:
         reset_manual_input(args.dry_run)
 
-    # 11. git commit + push
     git_commit_push(added_shops, args.dry_run, args.no_push)
 
     log(f'=== 完了: {len(added_shops)}件追加 ===')
