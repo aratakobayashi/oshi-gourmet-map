@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "焼肉MUGEN 赤坂見附店"
-description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介された「焼肉MUGEN 赤坂見附店」（東京都港区）。食べログ3.13点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介されたyakiniku「焼肉MUGEN 赤坂見附店」（東京都港区）。食べログ3.13点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mugen-"
 name: "焼肉MUGEN 赤坂見附店"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂3丁目7-11 Regia赤坂２階"

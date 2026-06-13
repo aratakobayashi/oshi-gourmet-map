@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "OKUDO"
-description: "WESTube【神山智洋×末澤誠也】新大久保スイーツカフェはどこ？韓国スイーツは何？で紹介された「OKUDO」（東京都新宿区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "WESTube【神山智洋×末澤誠也】新大久保スイーツカフェはどこ？韓国スイーツは何？で紹介されたshokuji「OKUDO」（東京都新宿区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-okudo-"
 name: "OKUDO"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町2-2-9"

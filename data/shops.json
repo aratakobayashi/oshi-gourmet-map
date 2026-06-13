@@ -74651,7 +74651,7 @@
   {
     "id": "west-afb128a1-",
     "name": "香港料理店 福全徳",
-    "genre": "",
+    "genre": "chuka",
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区神楽坂３丁目１−２６",
@@ -74697,7 +74697,7 @@
   {
     "id": "west-b359f6d6-",
     "name": "鮨 りんだ",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "目黒区",
     "address": "東京都目黒区下目黒2-24-12 イメージスタジオ109 1F【アクセス】 JR山手線 目黒駅から徒歩１０分 東急目黒線 不動前駅から徒歩７分",
@@ -74743,7 +74743,7 @@
   {
     "id": "west-44a11e80-20240112",
     "name": "たらちゃん",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区銀座3-13-5 鈴木ビル 1F",
@@ -74789,7 +74789,7 @@
   {
     "id": "west-9892893f-20240112",
     "name": "さばめしの鯖匠",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "千代田区",
     "address": "東京都千代田区神田三崎町2-21-11 ゑびすビル 1F",
@@ -74835,7 +74835,7 @@
   {
     "id": "west-60c74b9e-20240112",
     "name": "角煮丼屋 くろしろ",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区高田馬場3-37-2 1F",
@@ -74881,7 +74881,7 @@
   {
     "id": "west-okudo-",
     "name": "OKUDO",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区百人町2-2-9",
@@ -74927,7 +74927,7 @@
   {
     "id": "kismai-san_francisco_peaks-",
     "name": "San Francisco Peaks（サン フランシスコ ピークス）",
-    "genre": "",
+    "genre": "cafe",
     "prefecture": "東京都",
     "city": "渋谷区",
     "address": "東京都渋谷区神宮前3-28-7",
@@ -74973,7 +74973,7 @@
   {
     "id": "kismai-bf42a39b-",
     "name": "二代目蝦夷",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "埼玉県",
     "city": "川越市",
     "address": "埼玉県川越市小堤15-152",
@@ -75019,7 +75019,7 @@
   {
     "id": "travisjapan-mercer_brunch_roppon-",
     "name": "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）",
-    "genre": "",
+    "genre": "cafe",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区六本木４丁目２−３５ Vort六本木Dual’s 1F",
@@ -75065,7 +75065,7 @@
   {
     "id": "travisjapan-mugen-",
     "name": "焼肉MUGEN 赤坂見附店",
-    "genre": "",
+    "genre": "yakiniku",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区赤坂3丁目7-11 Regia赤坂２階",
@@ -75111,7 +75111,7 @@
   {
     "id": "travisjapan-9e95e49e-",
     "name": "王府井 本店（わんふーちん）",
-    "genre": "",
+    "genre": "chuka",
     "prefecture": "神奈川県",
     "city": "横浜市",
     "address": "神奈川県横浜市中区山下町191-24【アクセス】 みなとみらい線元町・中華街出口2より徒歩5分",
@@ -75157,7 +75157,7 @@
   {
     "id": "travisjapan-c6b35fc4-",
     "name": "中華街餃子館",
-    "genre": "",
+    "genre": "chuka",
     "prefecture": "神奈川県",
     "city": "横浜市",
     "address": "神奈川県横浜市中区山下町147",
@@ -75203,7 +75203,7 @@
   {
     "id": "travisjapan-4e89e274-",
     "name": "酔楼（スイロウ）",
-    "genre": "",
+    "genre": "chuka",
     "prefecture": "神奈川県",
     "city": "横浜市",
     "address": "神奈川県横浜市中区山下町191",
@@ -75247,47 +75247,9 @@
     "business_hours": "月・火・水・木・金・土・祝前日・祝後日 10:30 - 22:30 L.O. 22:00 日・祝日 10:00 - 22:30 L.O. 22:00 年中無休で営業しております。"
   },
   {
-    "id": "travisjapan-a170de46-",
-    "name": "バッティングプラザ大泉",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "練馬区",
-    "address": "東京都練馬区大泉学園町3丁目19−13",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "私たちが恋する理由第5話【七五三掛龍也 ロケ地】バッティングセンターはどこ？",
-    "source_url": "https://kosodate-and.net/koisuru-shime-batting",
-    "visited_date": "",
-    "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
-    ],
-    "groups": [
-      "travisjapan"
-    ],
-    "group": "travisjapan",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "travisjapan-monkey_cafe-",
     "name": "Monkey Cafe（モンキーカフェ）",
-    "genre": "",
+    "genre": "cafe",
     "prefecture": "東京都",
     "city": "渋谷区",
     "address": "東京都渋谷区猿楽町12-8",
@@ -75333,7 +75295,7 @@
   {
     "id": "travisjapan-mid-",
     "name": "midダイニング",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "渋谷区",
     "address": "東京都渋谷区元代々木町55-7 桜苑マンション1F",
@@ -75379,7 +75341,7 @@
   {
     "id": "travisjapan-e2b906f2-",
     "name": "人形町 鮒よし",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区日本橋人形町1-16-1",
@@ -75425,7 +75387,7 @@
   {
     "id": "travisjapan-bf20b0e5-",
     "name": "韓無量 秋葉原店（カンムリョウ）",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "千代田区",
     "address": "東京都千代田区外神田1-15-18 奥山ビル 3F",
@@ -75467,47 +75429,6 @@
     "tabelog_score": 3.09,
     "price_range": "￥2,000～￥2,999",
     "business_hours": "月・火・水・木・祝日 17:00 - 23:30 L.O. 料理22:30 ドリンク22:45 金 17:00 - 04:00 L.O. 03:00 土 13:00 - 04:00 L.O. 03:00 日 13:00 - 23:30 L.O. 料理22:30 ドリンク22:45 ■ 定休日年中無休（年末年始を除く）"
-  },
-  {
-    "id": "travisjapan-6d345c38-20220817",
-    "name": "開催場所",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前1-14-27",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "【TravisJapan】ロゼットポップアップイベントはいつまで？",
-    "source_url": "https://kosodate-and.net/travisjapan-rosette-popup2",
-    "visited_date": "2022-08-17",
-    "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
-    ],
-    "groups": [
-      "travisjapan"
-    ],
-    "group": "travisjapan",
-    "nearest_station": "地下鉄千代田線表参道駅 A5番出口 徒歩8分／地下鉄日比谷線六本木駅 徒歩12分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13007036/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/81614/81614151.jpg?token=d580b37&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.51,
-    "price_range": "￥6,000～￥7,999",
-    "business_hours": "17:00 - 23:30"
   },
   {
     "id": "kinkikids-d831c178-",
@@ -75779,7 +75700,7 @@
   {
     "id": "v6-sakai-20220807",
     "name": "牛ひつまぶし専門 Sakai（さかい）",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "",
     "city": "",
     "address": "名古屋市中区大須2-8-22",
@@ -80550,5 +80471,113 @@
       }
     ],
     "description": "年300個以上のパンケーキを食べるイキスギさん御用達の北千住カフェ。イキスギ2022年8月（小瀧望）"
+  },
+  {
+    "id": "west-bdbf87be",
+    "name": "笑姜や",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都練馬区栄町4-10",
+    "lat": 35.73733097865038,
+    "lng": 139.67218903501714,
+    "members": [
+      "重岡大毅"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/sigechiyo8/entry-12773146644.html",
+    "source_video_title": "イキスギさんについてった 2022-10-25（重岡大毅）しょうが焼き",
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132101/13146940/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1321/A132101/13146940/"
+      }
+    ],
+    "description": "江古田の生姜焼き定食専門店。6種類の生姜焼きが名物。イキスギ2022年10月（重岡大毅）"
+  },
+  {
+    "id": "west-683534bd",
+    "name": "ボーイズカレー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都千代田区神田神保町2-4",
+    "lat": 35.69609162870336,
+    "lng": 139.75631620454163,
+    "members": [
+      "重岡大毅"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/sigechiyo8/entry-12773146644.html",
+    "source_video_title": "イキスギさんについてった 2022-10-25（重岡大毅）しょうが焼き",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13042687/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13042687/"
+      }
+    ],
+    "description": "カレー屋なのに生姜焼きが大人気、日本一おいしい生姜焼きに選出。イキスギ2022年10月（重岡大毅）"
+  },
+  {
+    "id": "west-a20cb490",
+    "name": "ベンガル",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都千代田区外神田3-6-1 丸山ビル1F",
+    "lat": 35.70217313789832,
+    "lng": 139.76952108343204,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/sigechiyo8/entry-12764917623.html",
+    "source_video_title": "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSP",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13006361/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13006361/"
+      }
+    ],
+    "description": "1973年創業の秋葉原レジェンドカレー。ビーフ角切りカレーが名物。イキスギ2022年8月（濵田崇裕）"
+  },
+  {
+    "id": "west-e17c7cad",
+    "name": "trefle",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都新宿区四谷三栄町2-1 第一萬寿ビル1F",
+    "lat": 35.68725193869964,
+    "lng": 139.7269933044729,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/ituki07/entry-12772336746.html",
+    "source_video_title": "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSP",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130902/13260492/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130902/13260492/"
+      }
+    ],
+    "description": "四ツ谷のフルーツサンド専門テイクアウト店。旬の果物を丁寧に使用。イキスギ2022年11月（小瀧望）"
   }
 ]
