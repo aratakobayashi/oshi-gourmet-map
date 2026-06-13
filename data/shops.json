@@ -5930,10 +5930,13 @@
     "youtube_id": "IlfoWj6aqCk",
     "members": [
       "瀧脇笙古",
-      "大場花菜"
+      "大場花菜",
+      "神山智洋",
+      "末澤誠也"
     ],
     "groups": [
-      "equal_love"
+      "equal_love",
+      "west"
     ],
     "group": "equal_love",
     "visited_date": "2022-09-08",
@@ -7214,10 +7217,12 @@
     "source_video_url": "",
     "visited_date": "2023-12-01",
     "members": [
-      "久保史緒里"
+      "久保史緒里",
+      "中間淳太"
     ],
     "groups": [
-      "nogizaka46"
+      "nogizaka46",
+      "west"
     ],
     "group": "nogizaka46",
     "description": "千代田区のグルメスポット。久保史緒里が2023年12月に訪れた。カレー激戦区神保町の超有名店。ジャガイモ付きが定番。",
@@ -74650,8 +74655,8 @@
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区神楽坂３丁目１−２６",
-    "lat": null,
-    "lng": null,
+    "lat": 35.70226306201968,
+    "lng": 139.74056965220763,
     "youtube_id": "",
     "source_video_title": "キントレ【永瀬廉＆桐山照史】まかないハンターの天ぷら屋・フレンチ・お寿司屋さん・香港料理店はどこ？",
     "source_url": "https://kosodate-and.net/kintore-ren-kiriyama-makanai",
@@ -74696,8 +74701,8 @@
     "prefecture": "東京都",
     "city": "目黒区",
     "address": "東京都目黒区下目黒2-24-12 イメージスタジオ109 1F【アクセス】 JR山手線 目黒駅から徒歩１０分 東急目黒線 不動前駅から徒歩７分",
-    "lat": null,
-    "lng": null,
+    "lat": 35.670595007182,
+    "lng": 139.74687418713137,
     "youtube_id": "",
     "source_video_title": "キントレ【永瀬廉＆桐山照史】まかないハンターの天ぷら屋・フレンチ・お寿司屋さん・香港料理店はどこ？",
     "source_url": "https://kosodate-and.net/kintore-ren-kiriyama-makanai",
@@ -74742,8 +74747,8 @@
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区銀座3-13-5 鈴木ビル 1F",
-    "lat": null,
-    "lng": null,
+    "lat": 35.67062225872375,
+    "lng": 139.76956873427505,
     "youtube_id": "",
     "source_video_title": "シューイチ【重岡大毅ロケ地】プゴク専門店・さばめし専門店・角煮丼専門店はどこ？お取り寄せはできる？",
     "source_url": "https://kosodate-and.net/shu1-shige-saba-kakunidon",
@@ -74788,8 +74793,8 @@
     "prefecture": "東京都",
     "city": "千代田区",
     "address": "東京都千代田区神田三崎町2-21-11 ゑびすビル 1F",
-    "lat": null,
-    "lng": null,
+    "lat": 35.70141504869914,
+    "lng": 139.75368351459724,
     "youtube_id": "",
     "source_video_title": "シューイチ【重岡大毅ロケ地】プゴク専門店・さばめし専門店・角煮丼専門店はどこ？お取り寄せはできる？",
     "source_url": "https://kosodate-and.net/shu1-shige-saba-kakunidon",
@@ -74834,8 +74839,8 @@
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区高田馬場3-37-2 1F",
-    "lat": null,
-    "lng": null,
+    "lat": 35.70141504869914,
+    "lng": 139.75368351459724,
     "youtube_id": "",
     "source_video_title": "シューイチ【重岡大毅ロケ地】プゴク専門店・さばめし専門店・角煮丼専門店はどこ？お取り寄せはできる？",
     "source_url": "https://kosodate-and.net/shu1-shige-saba-kakunidon",
@@ -74880,8 +74885,8 @@
     "prefecture": "東京都",
     "city": "新宿区",
     "address": "東京都新宿区百人町2-2-9",
-    "lat": null,
-    "lng": null,
+    "lat": 35.70016095868307,
+    "lng": 139.7007157046217,
     "youtube_id": "",
     "source_video_title": "WESTube【神山智洋×末澤誠也】新大久保スイーツカフェはどこ？韓国スイーツは何？",
     "source_url": "https://kosodate-and.net/westube-kami-sue-cafe",
@@ -74902,12 +74907,12 @@
     "nearest_station": "",
     "description": "",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13237717/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13293786/",
     "hotpepper_url": "",
     "affiliate_links": [
       {
         "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1304/A130404/13237717/"
+        "url": "https://tabelog.com/tokyo/A1304/A130404/13293786/"
       }
     ],
     "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356542/6b9185e8a907de12ee3cc0c3cc2267fe.jpg?token=c5f2448&api=v2",
@@ -79588,5 +79593,206 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "west-fbe63b32-",
+    "name": "奥村茶屋",
+    "genre": "食事",
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "address": "埼玉県飯能市南川447-2",
+    "lat": 35.94187544835767,
+    "lng": 139.1609982374416,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）",
+    "source_url": "https://jwest.jp/riatotsu2023/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/saitama/A1106/A110603/11003385/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1106/A110603/11003385/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "正丸丼",
+      "ジンギスカン"
+    ]
+  },
+  {
+    "id": "west-7d9b23bc-",
+    "name": "定峰峠の鬼うどん",
+    "genre": "ラーメン",
+    "prefecture": "埼玉県",
+    "city": "秩父郡東秩父村",
+    "address": "埼玉県秩父郡東秩父村白石333",
+    "lat": 36.01802070636367,
+    "lng": 139.16973752169937,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）",
+    "source_url": "https://jwest.jp/riatotsu2023/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/saitama/A1107/A110704/11003938/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1107/A110704/11003938/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "きんぴらからみ鬼うどん"
+    ]
+  },
+  {
+    "id": "west-e53a7300-",
+    "name": "卵♪らん♪ハウス",
+    "genre": "カフェ",
+    "prefecture": "兵庫県",
+    "city": "神崎郡市",
+    "address": "兵庫県神崎郡市川町田中54-1",
+    "lat": 35.0113181,
+    "lng": 134.7549385,
+    "youtube_id": "",
+    "source_video_title": "どっちサンド 濵田崇裕 地元（兵庫県市川町）回",
+    "source_url": "https://mackey-west.hatenablog.com/entry/2023/09/15/194910",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/hyogo/A2805/A280504/28063925/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/hyogo/A2805/A280504/28063925/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "親子丼",
+      "卵かけご飯",
+      "プリン"
+    ]
+  },
+  {
+    "id": "west-52334d2b-",
+    "name": "花笑庵",
+    "genre": "カフェ",
+    "prefecture": "千葉県",
+    "city": "市原市",
+    "address": "千葉県市原市草刈1369",
+    "lat": 35.53238922893816,
+    "lng": 140.1671210926001,
+    "youtube_id": "",
+    "source_video_title": "ハマちゃんとコージのお上手です 番外編（2024年11月）",
+    "source_url": "https://fananablog.com/ojozu-seichi/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕",
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/chiba/A1206/A120601/12044487/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1206/A120601/12044487/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ローストビーフセット",
+      "とろとろ豚御膳"
+    ]
+  },
+  {
+    "id": "west-b0cf5596-",
+    "name": "四季旬菜 いろり",
+    "genre": "食事",
+    "prefecture": "千葉県",
+    "city": "木更津市",
+    "address": "千葉県木更津市ほたる野3丁目22-1",
+    "lat": 35.37799468897245,
+    "lng": 139.96688830118094,
+    "youtube_id": "",
+    "source_video_title": "ハマちゃんとコージのお上手です #43（2025年1月）",
+    "source_url": "https://fananablog.com/ojozu-seichi/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/chiba/A1206/A120602/12004380/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1206/A120602/12004380/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "クジラのお肉",
+      "お蕎麦"
+    ]
   }
 ]

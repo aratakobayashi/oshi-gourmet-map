@@ -15,6 +15,8 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13228340/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/125518/125518097.jpg?token=5f183ce&api=v2"
 business_hours: "■ 営業時間【ランチ】11:30-14:30 (L.O 14:00)【ディナー】17:00-22:30 (L.O 22:00)土曜日 日曜日 祝日17:00-21:30 (L.O21:00)■ 定休日、火曜日12/31、1/1日"
+lat: 35.70226306201968
+lng: 139.74056965220763
 tabelog_score: 3.46
 members:
   - "重岡大毅"

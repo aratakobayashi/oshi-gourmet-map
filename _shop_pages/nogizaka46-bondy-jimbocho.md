@@ -23,8 +23,10 @@ lng: 139.7578
 tabelog_score: 3.68
 members:
   - "久保史緒里"
+  - "中間淳太"
 groups:
   - "nogizaka46"
+  - "west"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131003/13000439/"

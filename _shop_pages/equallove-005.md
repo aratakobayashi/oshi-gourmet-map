@@ -24,8 +24,11 @@ tabelog_score: 3.41
 members:
   - "瀧脇笙古"
   - "大場花菜"
+  - "神山智洋"
+  - "末澤誠也"
 groups:
   - "equal_love"
+  - "west"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130404/13237717/"

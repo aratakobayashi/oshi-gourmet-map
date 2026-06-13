@@ -1,0 +1,34 @@
+[
+  {
+    "id": "west-okumurachaya",
+    "name": "奥村茶屋",
+    "group": "west",
+    "groups": ["west"],
+    "genre": "食事",
+    "prefecture": "埼玉県",
+    "address": "埼玉県飯能市大字坂石町分755",
+    "members": ["藤井流星"],
+    "source_url": "https://jwest.jp/riatotsu2023/",
+    "source_video_title": "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/saitama/A1106/A110603/11003385/",
+    "affiliate_links": [{"label": "食べログで見る", "url": "https://tabelog.com/saitama/A1106/A110603/11003385/"}],
+    "ordered_items": ["正丸丼", "ジンギスカン"]
+  },
+  {
+    "id": "west-oniudon",
+    "name": "定峰峠の鬼うどん",
+    "group": "west",
+    "groups": ["west"],
+    "genre": "ラーメン",
+    "prefecture": "埼玉県",
+    "address": "埼玉県秩父郡東秩父村白石333",
+    "members": ["藤井流星"],
+    "source_url": "https://jwest.jp/riatotsu2023/",
+    "source_video_title": "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/saitama/A1107/A110704/11003938/",
+    "affiliate_links": [{"label": "食べログで見る", "url": "https://tabelog.com/saitama/A1107/A110704/11003938/"}],
+    "ordered_items": ["きんぴらからみ鬼うどん"]
+  }
+]

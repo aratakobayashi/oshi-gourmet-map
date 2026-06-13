@@ -14,6 +14,8 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130802/13288588/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219683/655b06cb2c5bc1e5658ebe18c6d3407c.jpg?token=c6b2b14&api=v2"
 business_hours: "月・金・土・日 12:00 - 14:30 18:00 - 22:30 火・水 18:00 - 22:30 木 定休日 ■ 営業時間12:00～14:30 (最終入店12:30）18:00～22:30 (最終入店19:30）■ 定休日月１日不定休"
+lat: 35.670595007182
+lng: 139.74687418713137
 tabelog_score: 3.96
 members:
   - "重岡大毅"
