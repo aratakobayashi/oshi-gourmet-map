@@ -1,0 +1,249 @@
+[
+  {
+    "id": "west-koriyamachuka-shoya",
+    "name": "郡山中華そば しょうや",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "address": "福島県郡山市",
+    "members": [
+      "小瀧望"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7008950/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7008950/"
+      }
+    ],
+    "lat": 37.404937,
+    "lng": 140.333381
+  },
+  {
+    "id": "west-mendokorosei-koriyama",
+    "name": "めん処 成",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "address": "福島県郡山市朝日1-7",
+    "members": [
+      "小瀧望"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7002163/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7002163/"
+      }
+    ],
+    "lat": 37.3948809,
+    "lng": 140.3795521
+  },
+  {
+    "id": "west-chukasoba-tamoya",
+    "name": "中華そば たもや",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "address": "福島県郡山市",
+    "members": [
+      "小瀧望"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7020585/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7020585/"
+      }
+    ],
+    "lat": 37.404937,
+    "lng": 140.333381
+  },
+  {
+    "id": "west-oden-ippei-koriyama",
+    "name": "おでん一平",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "居酒屋",
+    "prefecture": "福島県",
+    "address": "福島県郡山市中町10-1",
+    "members": [
+      "小瀧望"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_type": "tv",
+    "lat": 37.396385,
+    "lng": 140.38353
+  },
+  {
+    "id": "west-masuya-daishinten",
+    "name": "ますや本店 台新店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "address": "福島県郡山市台新",
+    "members": [
+      "小瀧望"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7002114/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7002114/"
+      }
+    ],
+    "lat": 37.3920392,
+    "lng": 140.3432501
+  },
+  {
+    "id": "west-harijugrill-osaka",
+    "name": "はり重グリル",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市中央区難波3-1-17",
+    "members": [],
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "source_video_title": "WEST.聖地巡礼（大阪）Jr時代松竹座千秋楽の思い出の味",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001490/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27001490/"
+      }
+    ],
+    "lat": 34.666303,
+    "lng": 135.5220024
+  },
+  {
+    "id": "west-acchicchi-dotonbori",
+    "name": "あっちち本舗 道頓堀店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市中央区道頓堀1-8-19",
+    "members": [],
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "source_video_title": "WEST.聖地巡礼（大阪）雑誌でWEST.全員訪問",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27051667/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27051667/"
+      }
+    ],
+    "lat": 34.6690306,
+    "lng": 135.5015715
+  },
+  {
+    "id": "west-tartemesse-tanimachi",
+    "name": "タルトメッセ",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市天王寺区上本町6-6-11",
+    "members": [],
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "source_video_title": "WEST.聖地巡礼（大阪）濵田以外全員訪問のタルト店",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27002900/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270205/27002900/"
+      }
+    ],
+    "lat": 34.666303,
+    "lng": 135.5220024
+  },
+  {
+    "id": "west-dotonboriimai-regalroyal",
+    "name": "道頓堀 今井 リーガロイヤルホテル店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市北区中之島5-3-68",
+    "members": [
+      "重岡大毅"
+    ],
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "source_video_title": "WEST.聖地巡礼（大阪）重岡大毅がジャニーさんに連れて行ってもらった思い出の店",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27000801/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270108/27000801/"
+      }
+    ],
+    "lat": 34.6899097,
+    "lng": 135.4881046
+  },
+  {
+    "id": "west-yamanekoterrace-nasu",
+    "name": "ヤマネコテラス",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "栃木県",
+    "address": "栃木県那須郡那須町大島1238-1",
+    "members": [
+      "中間淳太"
+    ],
+    "source_url": "https://jwest.jp/ikisugi_20230425/",
+    "source_video_title": "イキスギさんについてった 2023-04-25 那須どうぶつ王国",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tochigi/A0905/A090501/9009338/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9009338/"
+      }
+    ],
+    "lat": 37.0574431,
+    "lng": 140.0770388
+  }
+]

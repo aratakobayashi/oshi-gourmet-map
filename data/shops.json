@@ -79229,5 +79229,364 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "west-6c9c5fdb-",
+    "name": "郡山中華そば しょうや",
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市",
+    "lat": 37.404937,
+    "lng": 140.333381,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7008950/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7008950/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-8baf167d-",
+    "name": "めん処 成",
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市朝日1-7",
+    "lat": 37.3948809,
+    "lng": 140.3795521,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7002163/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7002163/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-4357d582-",
+    "name": "中華そば たもや",
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市",
+    "lat": 37.404937,
+    "lng": 140.333381,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7020585/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7020585/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-05791a7d-",
+    "name": "おでん一平",
+    "genre": "居酒屋",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市中町10-1",
+    "lat": 37.396385,
+    "lng": 140.38353,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-46a6f73d-",
+    "name": "ますや本店 台新店",
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市台新",
+    "lat": 37.3920392,
+    "lng": 140.3432501,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-16 郡山ブラックラーメン",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7002114/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7002114/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-6fdf76b1-",
+    "name": "はり重グリル",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区難波3-1-17",
+    "lat": 34.666303,
+    "lng": 135.5220024,
+    "youtube_id": "",
+    "source_video_title": "WEST.聖地巡礼（大阪）Jr時代松竹座千秋楽の思い出の味",
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001490/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27001490/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-96a08422-",
+    "name": "あっちち本舗 道頓堀店",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区道頓堀1-8-19",
+    "lat": 34.6690306,
+    "lng": 135.5015715,
+    "youtube_id": "",
+    "source_video_title": "WEST.聖地巡礼（大阪）雑誌でWEST.全員訪問",
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27051667/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27051667/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-70e7c2c5-",
+    "name": "タルトメッセ",
+    "genre": "スイーツ",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市天王寺区上本町6-6-11",
+    "lat": 34.666303,
+    "lng": 135.5220024,
+    "youtube_id": "",
+    "source_video_title": "WEST.聖地巡礼（大阪）濵田以外全員訪問のタルト店",
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27002900/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270205/27002900/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-8132aced-",
+    "name": "道頓堀 今井 リーガロイヤルホテル店",
+    "genre": "食事",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区中之島5-3-68",
+    "lat": 34.6899097,
+    "lng": 135.4881046,
+    "youtube_id": "",
+    "source_video_title": "WEST.聖地巡礼（大阪）重岡大毅がジャニーさんに連れて行ってもらった思い出の店",
+    "source_url": "https://note.com/yui_natade/n/nab20fd49aea6",
+    "visited_date": "",
+    "members": [
+      "重岡大毅"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27000801/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270108/27000801/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-7c4f0581-",
+    "name": "ヤマネコテラス",
+    "genre": "食事",
+    "prefecture": "栃木県",
+    "city": "那須郡那須町",
+    "address": "栃木県那須郡那須町大島1238-1",
+    "lat": 37.0574431,
+    "lng": 140.0770388,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-04-25 那須どうぶつ王国",
+    "source_url": "https://jwest.jp/ikisugi_20230425/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tochigi/A0905/A090501/9009338/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9009338/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]
