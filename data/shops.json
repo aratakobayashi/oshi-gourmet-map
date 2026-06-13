@@ -78168,5 +78168,769 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "west-aa9f583c-",
+    "name": "青山壹番館 渋谷店",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区東1-4-27",
+    "lat": 35.6531376,
+    "lng": 139.7114585,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#001",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13013016/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13013016/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-5236dc0d-",
+    "name": "喫茶サテラ",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷1-7-5 青山セブンハイツ1F",
+    "lat": 35.6585428,
+    "lng": 139.7015098,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#002",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13253683/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13253683/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-721bf3e8-",
+    "name": "泥人形",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区千駄ヶ谷4-20-2 B1F",
+    "lat": 35.6818379,
+    "lng": 139.7074785,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#003",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130403/13111716/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130403/13111716/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-91ed6f5c-",
+    "name": "珈琲亭 ルアン",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区大森北1-36-2",
+    "lat": 35.5833459,
+    "lng": 139.7298435,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#004",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131502/13008294/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131502/13008294/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-6661f86b-",
+    "name": "喫茶ネグラ",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区北沢2-26-13 PACKAGEONE 1F",
+    "lat": 35.6634677,
+    "lng": 139.668154,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#005",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13208061/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131802/13208061/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-gion-",
+    "name": "喫茶gion",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区阿佐ヶ谷北1-3-3 川染ビル1F",
+    "lat": 35.7056126,
+    "lng": 139.6361411,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#006",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131905/13011879/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131905/13011879/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-e280b3bf-",
+    "name": "喫茶 天文図舘",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区阿佐谷北2-1-7",
+    "lat": 35.7105571,
+    "lng": 139.636261,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#007",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131905/13250955/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131905/13250955/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-7161e327-",
+    "name": "それいゆ",
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区西荻南3-15-7",
+    "lat": 35.7010053,
+    "lng": 139.6030934,
+    "youtube_id": "",
+    "source_video_title": "喫茶と濵田。#008",
+    "source_url": "https://www.shitauke-tekiseika.jp/kissahamada/",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131907/13011829/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131907/13011829/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-5b44cba1-",
+    "name": "時楽 板橋本町本店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "address": "東京都板橋区本町36-9",
+    "lat": 35.7598345,
+    "lng": 139.708538,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-04-11 牛タン先生",
+    "source_url": "https://jwest.jp/ikisugi_20230411/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1322/A132205/13120746/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1322/A132205/13120746/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-db9f568c-",
+    "name": "たんじろう 牛たん専門店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区西浅草3丁目",
+    "lat": 35.7159557,
+    "lng": 139.7913305,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-04-11 牛タン先生",
+    "source_url": "https://jwest.jp/ikisugi_20230411/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13263819/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13263819/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-668202ed-",
+    "name": "たん右衛門",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市中区若葉町",
+    "lat": 35.445355,
+    "lng": 139.6310011,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-04-11 牛タン先生",
+    "source_url": "https://jwest.jp/ikisugi_20230411/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-123e37e6-",
+    "name": "野方餃子",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区野方6-1",
+    "lat": 35.7196957,
+    "lng": 139.6531263,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-23 餃子10000個",
+    "source_url": "https://jwest.jp/ikisugi_20230523/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132104/13154377/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1321/A132104/13154377/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-f167c5af-",
+    "name": "餃子専門 丸虎",
+    "genre": "中華",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "address": "埼玉県さいたま市浦和区北浦和",
+    "lat": 35.8721554,
+    "lng": 139.6461059,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-05-23 餃子10000個",
+    "source_url": "https://jwest.jp/ikisugi_20230523/",
+    "visited_date": "",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-93b15fdb-",
+    "name": "蕎麦 さだはる",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西新橋",
+    "lat": 35.6675521,
+    "lng": 139.752114,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇",
+    "source_url": "https://jwest.jp/ikisugi_20230627/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-a_la-",
+    "name": "à la 麓屋",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝",
+    "lat": 35.6505871,
+    "lng": 139.7495267,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇",
+    "source_url": "https://jwest.jp/ikisugi_20230627/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-minatoya_3-",
+    "name": "Minatoya 3",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木7丁目",
+    "lat": 35.6642481,
+    "lng": 139.7279271,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇",
+    "source_url": "https://jwest.jp/ikisugi_20230627/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-c8b8c359-",
+    "name": "スタンドそば 野むら",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇",
+    "source_url": "https://jwest.jp/ikisugi_20230627/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-1131003b-",
+    "name": "餃子の王様",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1丁目",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-18 浅草グルメ300日",
+    "source_url": "https://jwest.jp/ikisugi_20230718/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-dd4636cc-",
+    "name": "浅草名食 やろうや",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1丁目",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-18 浅草グルメ300日",
+    "source_url": "https://jwest.jp/ikisugi_20230718/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-a922445e-",
+    "name": "浅草カツ吉",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1丁目",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-18 浅草グルメ300日",
+    "source_url": "https://jwest.jp/ikisugi_20230718/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-857de488-",
+    "name": "大黒家天麩羅 本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-38-1",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-18 浅草グルメ300日",
+    "source_url": "https://jwest.jp/ikisugi_20230718/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003696/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13003696/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-arizona_kitchen-",
+    "name": "Arizona Kitchen",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1丁目",
+    "lat": 35.7119497,
+    "lng": 139.7948545,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-07-18 浅草グルメ300日",
+    "source_url": "https://jwest.jp/ikisugi_20230718/",
+    "visited_date": "",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]
