@@ -80061,5 +80061,44 @@
     "ordered_items": [
       "爆辛マグマ煮込みうどん"
     ]
+  },
+  {
+    "id": "west-52fce0f8-",
+    "name": "對馬流 南インド系辛口料理店 タリカロ",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区西荻南3-15-13 高梨ビル1F",
+    "lat": 35.7010053,
+    "lng": 139.6030934,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-09-05 中間淳太の激辛どう？第2弾",
+    "source_url": "https://ameblo.jp/ituki07/entry-12818403654.html",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131907/13255518/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1319/A131907/13255518/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "キラークイーン（超激辛チキンカレー）"
+    ]
   }
 ]
