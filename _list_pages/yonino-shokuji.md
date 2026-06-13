@@ -15,6 +15,6 @@ related_genres:
   - yonino-others
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - kodoku-no-gurume-shokuji
+  - snowman-shokuji
 ---

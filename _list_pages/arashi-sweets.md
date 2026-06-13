@@ -12,7 +12,7 @@ related_genres:
   - arashi-ramen
   - arashi-cafe
 related_groups:
+  - naniwa-sweets
   - nogizaka46-sweets
   - equal-love-sweets
-  - notme-sweets
 ---

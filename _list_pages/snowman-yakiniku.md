@@ -14,7 +14,7 @@ related_genres:
   - snowman-washoku
   - snowman-cafe
 related_groups:
+  - naniwa-yakiniku
   - kodoku-no-gurume-yakiniku
-  - yonino-yakiniku
-  - kamenashi-yakiniku
+  - sixtones-yakiniku
 ---

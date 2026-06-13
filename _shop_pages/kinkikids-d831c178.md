@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "天ぷら 阿部"
-description: "【KinKi Kidsのブンブブーンロケ地】銀座の天ぷらの名店はどこ？で紹介された「天ぷら 阿部」（東京都中央区）。食べログ3.49点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーンロケ地】銀座の天ぷらの名店はどこ？で紹介されたwashoku「天ぷら 阿部」（東京都中央区）。食べログ3.49点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-d831c178-"
 name: "天ぷら 阿部"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座４-３-７ スバルビル B１F"

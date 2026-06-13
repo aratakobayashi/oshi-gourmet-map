@@ -15,6 +15,6 @@ related_genres:
   - kodoku-no-gurume-yakiniku
 related_groups:
   - yonino-washoku
-  - snowman-washoku
   - sixtones-washoku
+  - snowman-washoku
 ---

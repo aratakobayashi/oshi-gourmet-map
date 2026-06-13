@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-others
 related_groups:
+  - naniwa-yakiniku
   - kodoku-no-gurume-yakiniku
-  - snowman-yakiniku
-  - kamenashi-yakiniku
+  - sixtones-yakiniku
 ---

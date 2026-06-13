@@ -14,5 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-shokuji
 related_groups:
-  - equal-love-others
+  - kingprince-others
+  - nogizaka46-others
+  - sixtones-others
 ---

@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "築地 魚政 Tsukiji Fish Burger MASA"
-description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介された「築地 魚政 Tsukiji Fish Burger MASA」（東京都中央区）。食べログ3.22点。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介されたshokuji「築地 魚政 Tsukiji Fish Burger MASA」（東京都中央区）。食べログ3.22点。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-tsukiji_fish_burger-"
 name: "築地 魚政 Tsukiji Fish Burger MASA"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地4-10-8 諏訪市場内"

@@ -1,9 +1,10 @@
 ---
 layout: shop
 title: "東印度カレー商会 築地場外店"
-description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介された「東印度カレー商会 築地場外店」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介されたshokuji「東印度カレー商会 築地場外店」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-33db77e2-"
 name: "東印度カレー商会 築地場外店"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地4-10-7 夕月ビル 2F"

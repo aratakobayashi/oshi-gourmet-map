@@ -9,6 +9,6 @@ shop_count: 9
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55725/55725027.jpg?token=192d9c5&api=v2"
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - kodoku-no-gurume-shokuji
+  - snowman-shokuji
 ---

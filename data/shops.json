@@ -75510,80 +75510,9 @@
     "business_hours": "17:00 - 23:30"
   },
   {
-    "id": "kinkikids-mega-",
-    "name": "MEGAドン・キホーテ 渋谷本店",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区宇田川町28-6",
-    "lat": 35.6620752,
-    "lng": 139.6974957,
-    "youtube_id": "",
-    "source_video_title": "【家事ヤロウ】堂本光一が訪れたドンキホーテはどこ？ロケはいつ？",
-    "source_url": "https://kosodate-and.net/kajiyaro-koichi-donki",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13209335/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/336815/b1a53fcc21e331aaa4e4a5ef2ea79b4b.jpg?token=d5253c0&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.07,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "kinkikids-joysound-",
-    "name": "JOYSOUND 八丁堀店",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区八丁堀3-20-6 CoCoSpaca八丁堀",
-    "lat": 35.6749754,
-    "lng": 139.7771276,
-    "youtube_id": "",
-    "source_video_title": "【亀チャンネル】堂本光一と亀梨和也が訪れたカラオケボックスはどこ？部屋は何号室？",
-    "source_url": "https://kosodate-and.net/kame-koichi-karaoke",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130203/13268344/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/261677/02e9b65a2ea1444aca1c71d001e9cd36.jpg?token=0e4ff11&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.04,
-    "price_range": "-"
-  },
-  {
     "id": "kinkikids-d831c178-",
     "name": "天ぷら 阿部",
-    "genre": "",
+    "genre": "washoku",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区銀座４-３-７ スバルビル B１F",
@@ -75617,45 +75546,9 @@
     "business_hours": "月・火・水・木・金 11:30 - 14:00 17:00 - 21:00 土・日・祝日 11:30 - 15:00 17:00 - 21:00 ■ 定休日大晦日、元旦のみ定休日"
   },
   {
-    "id": "kinkikids-87d6279e-",
-    "name": "ドミセ渋谷道玄坂通店",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区道玄坂2-25-12",
-    "lat": 35.659072,
-    "lng": 139.6979017,
-    "youtube_id": "",
-    "source_video_title": "【KinKi Kidsのブンブブーンロケ地】ドンキホーテ（ドミセ）はどこ？",
-    "source_url": "https://kosodate-and.net/kinki-kids-donki",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13293122/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/231221/b7e556edaea03ca20b836afac401199b.jpg?token=06a1b7f&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.0,
-    "price_range": "～￥999",
-    "business_hours": "10:00 - 05:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
     "id": "kinkikids-tsukiji_fish_burger-",
     "name": "築地 魚政 Tsukiji Fish Burger MASA",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区築地4-10-8 諏訪市場内",
@@ -75696,7 +75589,7 @@
   {
     "id": "kinkikids-33db77e2-",
     "name": "東印度カレー商会 築地場外店",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区築地4-10-7 夕月ビル 2F",
@@ -75737,7 +75630,7 @@
   {
     "id": "kinkikids-tokyo_3-",
     "name": "TOKYO焼肉ごぉ 3号店",
-    "genre": "",
+    "genre": "yakiniku",
     "prefecture": "東京都",
     "city": "台東区",
     "address": "東京都台東区上野2-1-7 HIROKOJI BLUE BLDG 1F",
@@ -75778,7 +75671,7 @@
   {
     "id": "kinkikids-21-",
     "name": "21時にアイス　上野店",
-    "genre": "",
+    "genre": "sweets",
     "prefecture": "東京都",
     "city": "文京区",
     "address": "東京都文京区湯島3丁目42番地3号桂昇上野湯島ビル",
@@ -75812,42 +75705,9 @@
     "business_hours": "月・水・木・金・土・日 16:00 - 23:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "kinkikids-bayside_annex_studio-",
-    "name": "Bayside Annex studio",
-    "genre": "",
-    "prefecture": "東京都",
-    "city": "江東区",
-    "address": "東京都江東区新木場3-4-12",
-    "lat": 35.6458266,
-    "lng": 139.8266494,
-    "youtube_id": "",
-    "source_video_title": "【KinKi Kids YouTube】激ムズ駐車対決の撮影ロケ地はどこ？",
-    "source_url": "https://kosodate-and.net/kinki-kids-youtube-parking",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "kinkikids-58d88bae-",
     "name": "だしいなり海木　日本橋店",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区日本橋室町3-2-1 コレド室町テラス1階【定休日】 火曜日",
@@ -75883,7 +75743,7 @@
   {
     "id": "kinkikids-3d12fce8-",
     "name": "だしいなり海木 本店",
-    "genre": "",
+    "genre": "shokuji",
     "prefecture": "",
     "city": "",
     "address": "福岡市中央区渡辺通1-9-3",

@@ -13,6 +13,6 @@ related_genres:
   - notme-shokuji
 related_groups:
   - arashi-sweets
+  - naniwa-sweets
   - nogizaka46-sweets
-  - equal-love-sweets
 ---

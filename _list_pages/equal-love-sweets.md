@@ -15,6 +15,6 @@ related_genres:
   - equal-love-washoku
 related_groups:
   - arashi-sweets
+  - naniwa-sweets
   - nogizaka46-sweets
-  - notme-sweets
 ---
