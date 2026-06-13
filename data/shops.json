@@ -80100,5 +80100,595 @@
     "ordered_items": [
       "キラークイーン（超激辛チキンカレー）"
     ]
+  },
+  {
+    "id": "west-ac2d4aef",
+    "name": "コシャリ屋コーピー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都墨田区江東橋4-20-13 山田ビル2階",
+    "lat": 35.69500873791764,
+    "lng": 139.81587038332717,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_url": "https://jwest.jp/ikisugi2023/",
+    "source_video_title": "イキスギさんについてった 2023-01-31",
+    "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13200703/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13200703/"
+      }
+    ],
+    "description": "エジプト料理コシャリ専門店。イキスギさんについてった2023年1月放送（濵田崇裕）"
+  },
+  {
+    "id": "west-661b4667",
+    "name": "13湯麺",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "千葉県",
+    "address": "千葉県松戸市五香5-1-1",
+    "lat": 35.79432893790753,
+    "lng": 139.98217808421379,
+    "members": [],
+    "source_type": "tv",
+    "source_url": "https://jwest.jp/ikisugi2023/",
+    "source_video_title": "イキスギさんについてった 2023-01-31",
+    "tabelog_url": "https://tabelog.com/chiba/A1203/A120302/12027160/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1203/A120302/12027160/"
+      }
+    ],
+    "description": "千葉の伝説的ラーメン店「かずさんとんみん」。イキスギさんについてった2023年1月放送"
+  },
+  {
+    "id": "west-5969bbcc",
+    "name": "とんかつ 檍 横浜馬車道店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "address": "神奈川県横浜市中区相生町5-80 1F",
+    "lat": 35.447918148822616,
+    "lng": 139.63584280211927,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230328-2/",
+    "source_video_title": "イキスギさんについてった 2023-03-28（小瀧望）",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14077627/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140104/14077627/"
+      }
+    ],
+    "description": "1500円の上ロースカツ定食が名物。イキスギさんについてった2023年3月（小瀧望）"
+  },
+  {
+    "id": "west-32350c87",
+    "name": "伊勢屋",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "address": "神奈川県横浜市保土ケ谷区星川2-5-33",
+    "lat": 35.458762938802195,
+    "lng": 139.59333470225863,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230328-3/",
+    "source_video_title": "イキスギさんについてった 2023-03-28（小瀧望）",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140301/14013607/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140301/14013607/"
+      }
+    ],
+    "description": "900円のカツ丼が名物、取材拒否で話題の老舗。イキスギさんについてった2023年3月（小瀧望）"
+  },
+  {
+    "id": "west-ff680eb7",
+    "name": "しょうや",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "address": "福島県郡山市大槻町字御十日1-1",
+    "lat": 37.38598604782028,
+    "lng": 140.35358086119246,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://activitv.com/entry/ikisugisan_230516_kohriyama-2/",
+    "source_video_title": "イキスギさんについてった 2023-05-16（小瀧望）郡山ブラック",
+    "tabelog_url": "https://tabelog.com/fukushima/A0702/A070201/7008950/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7008950/"
+      }
+    ],
+    "description": "郡山ブラック専門ラーメン店。イキスギさんについてった2023年5月（小瀧望）"
+  },
+  {
+    "id": "west-4ba99784",
+    "name": "じねんじょ庵 国立店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都国立市東1-6-14 マグノリアビル1F",
+    "lat": 35.697677137798465,
+    "lng": 139.44696758361272,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230530_kunitachi/",
+    "source_video_title": "イキスギさんについてった 2023-05-30（桐山照史）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1325/A132503/13240598/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1325/A132503/13240598/"
+      }
+    ],
+    "description": "和栗の金糸モンブランが名物の蕎麦カフェ。イキスギ2023年（桐山照史）"
+  },
+  {
+    "id": "west-ca775232",
+    "name": "かぐらちゃかプチ 浅草店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "カフェ",
+    "prefecture": "東京都",
+    "address": "東京都台東区西浅草2-27-11",
+    "lat": 35.71370323789824,
+    "lng": 139.79222018353258,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230718-2/",
+    "source_video_title": "イキスギさんについてった 2023-07-18（桐山照史）浅草グルメ",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13184130/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13184130/"
+      }
+    ],
+    "description": "宇宙一濃い抹茶ラテが名物、1か月2組限定の幻のパンケーキも。イキスギ2023年7月（桐山照史）"
+  },
+  {
+    "id": "west-05c46703",
+    "name": "RAJU 京大前店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "京都府",
+    "address": "京都府京都市左京区田中門前町95",
+    "lat": 35.02875873786121,
+    "lng": 135.78107579058747,
+    "members": [
+      "藤井流星"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230405_india/",
+    "source_video_title": "イキスギさんについてった 2023-04-05（藤井流星）インド料理",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26005619/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kyoto/A2601/A260302/26005619/"
+      }
+    ],
+    "description": "京大前の本格インド料理店。フィッシュカレー・チキンティッカが人気。イキスギ2023年4月（藤井流星）"
+  },
+  {
+    "id": "west-b539b3a9",
+    "name": "豚々ジャッキー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "address": "沖縄県那覇市久米2-9-11 abc久米ビル2F",
+    "lat": 26.214864070877727,
+    "lng": 127.67543835724081,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230328_yanbaru/",
+    "source_video_title": "イキスギさんについてった 2023-03-28（小瀧望）とんかつ",
+    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47007952/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4701/A470101/47007952/"
+      }
+    ],
+    "description": "やんばる島豚のとんかつが名物。イキスギ2023年3月（小瀧望）"
+  },
+  {
+    "id": "west-b1ea604b",
+    "name": "アグーとんかつ コション 浮島通り店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "沖縄県",
+    "address": "沖縄県那覇市牧志3-3-21",
+    "lat": 26.213576520882842,
+    "lng": 127.68893290721833,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230328_kin/",
+    "source_video_title": "イキスギさんについてった 2023-03-28（小瀧望）とんかつ",
+    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47022342/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4701/A470101/47022342/"
+      }
+    ],
+    "description": "金アグー豚のロースとんかつ（2250円）が名物、旨味成分が通常の2倍。イキスギ2023年3月（小瀧望）"
+  },
+  {
+    "id": "west-4ff1c3e6",
+    "name": "ニイガタスタイル マサト",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "address": "東京都荒川区南千住1-13-19",
+    "lat": 35.73192265869154,
+    "lng": 139.79065213487948,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230307-2/",
+    "source_video_title": "イキスギさんについてった 2023-03-07（濵田崇裕）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132401/13221156/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1324/A132401/13221156/"
+      }
+    ],
+    "description": "お客様ファーストの居酒屋、新潟スタイルの料理が名物。イキスギ2023年3月（濵田崇裕）"
+  },
+  {
+    "id": "west-a8058eb0",
+    "name": "Katsuプリポー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区歌舞伎町1-10-3 G3ビル2F",
+    "lat": 35.69475793788186,
+    "lng": 139.70301258340376,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230328_katsu/",
+    "source_video_title": "イキスギさんについてった 2023-03-28（小瀧望）とんかつ",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13264309/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13264309/"
+      }
+    ],
+    "description": "天城黒豚肩ロースのとんかつ（5850円）が名物の高級とんかつ店。イキスギ2023年3月（小瀧望）"
+  },
+  {
+    "id": "west-ef2b075c",
+    "name": "牛タン専門店 タン治郎 上野本店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都台東区上野6-13-5 3F",
+    "lat": 35.710642437894755,
+    "lng": 139.7752002835136,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230412_don/",
+    "source_video_title": "イキスギさんについてった 2023-04-12（桐山照史）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13252480/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13252480/"
+      }
+    ],
+    "description": "牛たんのローストビーフ丼定食（2200円）が名物。イキスギ2023年4月（桐山照史）"
+  },
+  {
+    "id": "west-ac7dff0e",
+    "name": "ももまる 渋谷店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区桜丘16-7 鈴木ビルB1F",
+    "lat": 35.656406999223975,
+    "lng": 139.70107809882936,
+    "members": [
+      "中間淳太"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230307_momomaru/",
+    "source_video_title": "イキスギさんについてった 2023-03-07（中間淳太）ドッキリ居酒屋",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13222107/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13222107/"
+      }
+    ],
+    "description": "ドッキリ仕掛けのある居酒屋。イキスギ2023年3月（中間淳太）"
+  },
+  {
+    "id": "west-6df0312a",
+    "name": "メルシー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "address": "東京都新宿区馬場下町63",
+    "lat": 35.70653540868534,
+    "lng": 139.72055662467218,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230221-2/",
+    "source_video_title": "イキスギさんについてった 2023-02-21（桐山照史）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130504/13000048/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1305/A130504/13000048/"
+      }
+    ],
+    "description": "ラーメン屋なのにオムライス（650円）が大人気。イキスギ2023年2月（桐山照史）"
+  },
+  {
+    "id": "west-3ba64ca9",
+    "name": "レストラン 間",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都渋谷区恵比寿南2-25-3 EBISU HANA BLDG 1F",
+    "lat": 35.64345604372673,
+    "lng": 139.71019571567564,
+    "members": [
+      "藤井流星"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230214-2/",
+    "source_video_title": "イキスギさんについてった 2023-02-14（藤井流星）パフェ",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13141463/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13141463/"
+      }
+    ],
+    "description": "お野菜のパフェが名物のレストラン。イキスギ2023年2月（藤井流星）"
+  },
+  {
+    "id": "west-42aa36d6",
+    "name": "ラトリエ ア マ ファソン",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都世田谷区上野毛1-26-14",
+    "lat": 35.61260433791359,
+    "lng": 139.63881168261892,
+    "members": [
+      "藤井流星"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_230214_latelier-a-ma-facon/",
+    "source_video_title": "イキスギさんについてった 2023-02-14（藤井流星）パフェ",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131715/13242556/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131715/13242556/"
+      }
+    ],
+    "description": "フィンランド人パフェイキスギさんがオススメする上野毛の本格パフェ店。イキスギ2023年2月（藤井流星）"
+  },
+  {
+    "id": "west-c757bb83",
+    "name": "スパゲッ亭チャオ 本店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "愛知県",
+    "address": "愛知県豊橋市広小路1-45 OGIYA 2F",
+    "lat": 34.763868136515946,
+    "lng": 137.38424429070903,
+    "members": [
+      "中間淳太"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_221004-2/",
+    "source_video_title": "イキスギさんについてった 2022-10-04（中間淳太）",
+    "tabelog_url": "https://tabelog.com/aichi/A2306/A230601/23033166/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2306/A230601/23033166/"
+      }
+    ],
+    "description": "1965年創業の豊橋名物あんかけスパゲティの老舗。イキスギ2022年10月（中間淳太）"
+  },
+  {
+    "id": "west-b0e67ba7",
+    "name": "デリツィオーゾ 0141",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都台東区上野3-7-5 中戸川ビル1F",
+    "lat": 35.70482573789787,
+    "lng": 139.77337258345614,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_220920_omu/",
+    "source_video_title": "イキスギさんについてった 2022-09-20（桐山照史）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13234095/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13234095/"
+      }
+    ],
+    "description": "白いオムライスが名物の上野イタリアン。イキスギ2022年9月（桐山照史）"
+  },
+  {
+    "id": "west-4a6a6c44",
+    "name": "ア・ヴォートル・サンテ・エンドー",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都中央区銀座5-9-5 田創館ビル2F",
+    "lat": 35.67035943791734,
+    "lng": 139.7657958831133,
+    "members": [],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_220920_bijin/",
+    "source_video_title": "イキスギさんについてった 2022-09-20",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13010659/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13010659/"
+      }
+    ],
+    "description": "銀座の美人オムライスが名物の老舗洋食店。イキスギ2022年9月"
+  },
+  {
+    "id": "west-45e39ebd",
+    "name": "PEGO&CO. 世田谷店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都世田谷区世田谷1-16-24",
+    "lat": 35.64145973789905,
+    "lng": 139.65069348290206,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_220809-3/",
+    "source_video_title": "イキスギさんについてった 2022-08-09（小瀧望）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131709/13250004/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131709/13250004/"
+      }
+    ],
+    "description": "ジャージーミルクソフトクリームが名物。イキスギ2022年8月（小瀧望）"
+  },
+  {
+    "id": "west-0587b445",
+    "name": "茶香",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都足立区千住寿町31-7",
+    "lat": 35.753397048680775,
+    "lng": 139.79967856509006,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_220809-2/",
+    "source_video_title": "イキスギさんについてった 2022-08-09（小瀧望）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132402/13255382/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1324/A132402/13255382/"
+      }
+    ],
+    "description": "年300個以上のパンケーキを食べるイキスギさん御用達の北千住カフェ。イキスギ2022年8月（小瀧望）"
   }
 ]
