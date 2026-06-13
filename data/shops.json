@@ -79794,5 +79794,272 @@
       "クジラのお肉",
       "お蕎麦"
     ]
+  },
+  {
+    "id": "west-038e6a8d-",
+    "name": "芳蘭",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区有楽町1-2-9 TS日比谷ビルB1",
+    "lat": 35.6736817,
+    "lng": 139.7611853,
+    "youtube_id": "",
+    "source_video_title": "重岡大毅 人生最高レストラン（日生劇場舞台公演時に出前利用）",
+    "source_url": "https://note.com/yui_natade/n/n8b5a2ecb3334",
+    "visited_date": "",
+    "members": [
+      "重岡大毅"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13002736/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130102/13002736/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "味噌バターラーメン"
+    ]
+  },
+  {
+    "id": "west-ribayon_attack-",
+    "name": "RIBAYON ATTACK",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋室町3丁目2-1 OVOL日本橋ビルB1",
+    "lat": 35.687974,
+    "lng": 139.772824,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 第14回",
+    "source_url": "https://note.com/yui_natade/n/n82df0ef5cffd",
+    "visited_date": "",
+    "members": [
+      "重岡大毅"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130202/13224686/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1302/A130202/13224686/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "パラパラチャーハン"
+    ]
+  },
+  {
+    "id": "west-598ae15a-",
+    "name": "ミチナキミチ",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区松濤1-4-8 松濤EAST B1F",
+    "lat": 35.6607632,
+    "lng": 139.6920068,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠れレストラン回",
+    "source_url": "https://kakaku.com/tv/channel=10/programID=115324/episodeID=1577645/",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13269807/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13269807/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "west-f3a263f7-",
+    "name": "恵比寿 米ル",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区代官山町8-2 代官山フォーラム B1F",
+    "lat": 35.6507318,
+    "lng": 139.7046751,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠れレストラン回",
+    "source_url": "https://kakaku.com/tv/channel=10/programID=115324/episodeID=1577645/",
+    "visited_date": "",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13211399/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13211399/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "土鍋ご飯"
+    ]
+  },
+  {
+    "id": "west-76985b14-",
+    "name": "芝の鳥一代",
+    "genre": "居酒屋",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝2-30-6 ファインラック芝1F",
+    "lat": 35.6505871,
+    "lng": 139.7495267,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-10-17 中間淳太の激辛どう？",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_231017-2/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131402/13079606/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131402/13079606/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "激辛サムゲタン"
+    ]
+  },
+  {
+    "id": "west-5e4a1199-",
+    "name": "たこ王子",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝2丁目",
+    "lat": 35.6513704,
+    "lng": 139.7518913,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-10-17 中間淳太の激辛どう？",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_231017-2/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13210615/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131401/13210615/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "激辛たこ焼き（ジョロたこ）"
+    ]
+  },
+  {
+    "id": "west-dc46cf51-",
+    "name": "芝その更科",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝2-8-14",
+    "lat": 35.6505871,
+    "lng": 139.7495267,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-10-17 中間淳太の激辛どう？",
+    "source_url": "https://www.activitv.com/entry/ikisugisan_231017_udon/",
+    "visited_date": "",
+    "members": [
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13067940/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131401/13067940/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "爆辛マグマ煮込みうどん"
+    ]
   }
 ]
