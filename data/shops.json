@@ -80147,5 +80147,59 @@
       }
     ],
     "description": "1914年創業の浅草老舗町中華。究極のチャーハンで名高い。イキスギ2022年9月（重岡大毅）"
+  },
+  {
+    "id": "west-e547e60d",
+    "name": "山西亭",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区大久保2-6-10",
+    "lat": 35.70170073787903,
+    "lng": 139.70793978347044,
+    "members": [
+      "中間淳太"
+    ],
+    "source_type": "tv",
+    "source_url": "https://seitaikarate.mondainashi.net/541.html",
+    "source_video_title": "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアー",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13178762/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13178762/"
+      }
+    ],
+    "description": "山西省本場の刀削麺焼きそばが食べられる東新宿の中華店。イキスギ2022年11月（中間淳太）"
+  },
+  {
+    "id": "west-dd8b86e7",
+    "name": "SAND",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都中野区野方5-25-1 ツインビル1F",
+    "lat": 35.71870423785092,
+    "lng": 139.65361968368023,
+    "members": [
+      "中間淳太"
+    ],
+    "source_type": "tv",
+    "source_url": "https://seitaikarate.mondainashi.net/541.html",
+    "source_video_title": "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアー",
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132104/13198480/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1321/A132104/13198480/"
+      }
+    ],
+    "description": "チャウメインサンドが名物のダイニングバー。米国マサチューセッツの焼きそばサンドを再現。イキスギ2022年11月（中間淳太）"
   }
 ]
