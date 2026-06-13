@@ -2475,7 +2475,8 @@
       "目黒蓮"
     ],
     "groups": [
-      "snowman"
+      "snowman",
+      "kodoku_no_gurume"
     ],
     "group": "snowman",
     "visited_date": "2024-12-04",
@@ -6187,7 +6188,8 @@
       "ラウール"
     ],
     "groups": [
-      "snowman"
+      "snowman",
+      "kodoku_no_gurume"
     ],
     "group": "snowman",
     "visited_date": "2025-02-05",
@@ -13537,41 +13539,6 @@
     "business_hours": "11:00 - 01:00 ■ 営業時間※【年末年始のご予約について】12月25日～1月9日は終日ご予約を承ることができかねます。予めご了承くださいます。■定休日無し"
   },
   {
-    "id": "equal_love-eb79711c-202408",
-    "name": "むつみ橋商店街",
-    "genre": "その他",
-    "prefecture": "沖縄県",
-    "city": "那覇市",
-    "address": "沖縄県那覇市牧志３丁目１−１",
-    "lat": 26.2153394,
-    "lng": 127.6902428,
-    "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
-    "visited_date": "2024-08-15",
-    "members": [
-      "大谷映美里"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "牧志駅 徒歩5分",
-    "description": "那覇市のグルメスポット。大谷映美里が2024年8月に訪れた。那覇市のグルメスポット。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れたお店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47029474/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/okinawa/A4701/A470101/47029474/"
-      }
-    ],
-    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
-    "tabelog_score": 3.06,
-    "price_range": "￥3,000～￥3,999",
-    "business_hours": "月・火・水・金・土・日・祝日・祝前日・祝後日 17:30 - 01:00 L.O. 料理00:00 ドリンク00:30 木 定休日"
-  },
-  {
     "id": "equal_love-a47973a5-202408",
     "name": "カリフキッチン沖縄",
     "genre": "食事",
@@ -14114,37 +14081,6 @@
     "tabelog_score": 3.75,
     "price_range": "～￥999",
     "business_hours": "月・火・水・木 10:00 - 03:00 金 10:00 - 04:00 土 09:00 - 04:00 日 09:00 - 03:00 12/23 大掃除のため15:00で営業終了いたします。"
-  },
-  {
-    "id": "neajoy-78570ead-202408",
-    "name": "箱根湯本駅 箱根方面バス口",
-    "genre": "食事",
-    "prefecture": "神奈川県",
-    "city": "足柄下郡箱根町",
-    "address": "神奈川県足柄下郡箱根町湯本",
-    "lat": 35.2334093,
-    "lng": 139.1044774,
-    "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "",
-    "visited_date": "2024-08-14",
-    "members": [
-      "天野香乃愛",
-      "市原愛弓",
-      "江角怜音",
-      "大信田美月",
-      "髙橋舞"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "箱根湯本駅 徒歩1分",
-    "description": "足柄下郡箱根町のレストラン。天野香乃愛・市原愛弓・江角怜音らが2024年8月に訪れた。≒JOYの天野香乃愛・市原愛弓らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
   },
   {
     "id": "neajoy-14f3ebca-202408",
@@ -14824,31 +14760,6 @@
     "tabelog_score": 3.56,
     "price_range": "￥10,000～￥14,999",
     "business_hours": "月・火・水・木・金・土 12:00 - 15:00 18:00 - 22:00 日 定休日 ■ 定休日日曜(連休中日の場合は日曜日も営業致します）"
-  },
-  {
-    "id": "notme-a0944480-202408",
-    "name": "ハイランドリゾートホテル＆スパ エントランス前",
-    "genre": "食事",
-    "prefecture": "山梨県",
-    "city": "富士吉田市",
-    "address": "山梨県富士吉田市新西原５丁目６−１",
-    "lat": 35.4859993,
-    "lng": 138.7812404,
-    "youtube_id": "HdYprsQJxWY",
-    "source_video_title": "",
-    "visited_date": "2024-08-04",
-    "members": [],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "富士急ハイランド駅 徒歩6分",
-    "description": "富士吉田市のレストラン。≠MEが訪れたロケ地。富士吉田市のレストラン。≠MEが訪れたロケ地。≠MEが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/HdYprsQJxWY/hqdefault.jpg"
   },
   {
     "id": "equal_love-ushihachi-202408",
@@ -24563,44 +24474,6 @@
     "business_hours": "月・火・木 11:00 - 15:00 金・土・日・祝日 11:00 - 15:00 17:00 - 20:00 水 定休日"
   },
   {
-    "id": "kodoku_no_gurume-82241588-",
-    "name": "サウナセンター 稲荷町",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "台東区",
-    "address": "東京都台東区",
-    "lat": 35.7125805,
-    "lng": 139.7800712,
-    "youtube_id": "",
-    "source_video_title": "孤独のグルメ Season10 第24話",
-    "visited_date": "",
-    "members": [
-      "井之頭五郎"
-    ],
-    "groups": [
-      "kodoku_no_gurume"
-    ],
-    "group": "kodoku_no_gurume",
-    "nearest_station": "稲荷町駅",
-    "description": "台東区のレストラン。ドラマ「孤独のグルメ Season10 第24話」に登場。食べログ3.11点。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13218310/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1311/A131101/13218310/"
-      }
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg",
-    "source_type": "drama",
-    "tmdb_id": 55582,
-    "tmdb_type": "tv",
-    "tabelog_score": 3.11,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "24時間営業 モーニングは、6:00 から営業。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
     "id": "kodoku_no_gurume-47f723fa-",
     "name": "平塚バプテスト教会",
     "genre": "食事",
@@ -27831,90 +27704,6 @@
       }
     ],
     "tabelog_score": 3.16
-  },
-  {
-    "name": "伊勢屋食堂",
-    "genre": "和食",
-    "group": "kodoku_no_gurume",
-    "groups": [
-      "kodoku_no_gurume"
-    ],
-    "members": [
-      "井之頭五郎"
-    ],
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区",
-    "nearest_station": "大久保駅",
-    "lat": 35.7046389,
-    "lng": 139.7052761,
-    "youtube_id": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9q9EIOYZU8yzbL0UhS6ChtsUxiY.jpg",
-    "tmdb_id": 55582,
-    "tmdb_type": "tv",
-    "source_type": "drama",
-    "source_video_title": "孤独のグルメ Season6 第2話",
-    "source_video_url": "",
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13081288/",
-    "hotpepper_url": "",
-    "description": "新宿区の和食店。ドラマ「孤独のグルメ Season6 第2話」に登場。食べログ3.49点。",
-    "tags": [
-      "孤独のグルメ",
-      "Season6",
-      "第2話"
-    ],
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1304/A130404/13081288/"
-      }
-    ],
-    "id": "kodoku_no_gurume-a9a7c2c5-",
-    "tabelog_score": 3.49,
-    "price_range": "-",
-    "business_hours": "月・火・水・木・金・土・祝日 05:00 - 14:00 L.O. 14:00 日 定休日 ■ 営業時間詳しくはHP・Instagram・Facebook・Googleをご確認ください。■ 定休日 ※臨時休業ありますので、インスタなどご確認ください※祝日・水曜日 ◎不定休※休市日（HP・Instagram・Facebook・Googleにて休業日・お知らせ参照）"
-  },
-  {
-    "name": "龍朋",
-    "genre": "食事",
-    "group": "kodoku_no_gurume",
-    "groups": [
-      "kodoku_no_gurume"
-    ],
-    "members": [
-      "井之頭五郎"
-    ],
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区",
-    "nearest_station": "神楽坂駅",
-    "lat": 35.7010851,
-    "lng": 139.7412287,
-    "youtube_id": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg",
-    "tmdb_id": 55582,
-    "tmdb_type": "tv",
-    "source_type": "drama",
-    "source_video_title": "孤独のグルメ Season10 第2話",
-    "source_video_url": "",
-    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13006446/",
-    "hotpepper_url": "",
-    "description": "新宿区のレストラン。ドラマ「孤独のグルメ Season10 第2話」に登場。食べログ3.66点。",
-    "tags": [
-      "孤独のグルメ",
-      "Season10",
-      "第2話"
-    ],
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1309/A130905/13006446/"
-      }
-    ],
-    "id": "kodoku_no_gurume-a027b370-",
-    "tabelog_score": 3.66,
-    "price_range": "～￥999",
-    "business_hours": "月・火・水・木・金・土 11:00 - 22:00 日 定休日 ■ 定休日祝日の月曜日追記2025年1月から、祝日に限らず、月2回ほど月曜日が不定休に変更になっています詳しくは公式Xへ毎月の営業カレンダーが公式Xで発信されています 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
     "id": "shiori-fireking_cafe-20240316",
@@ -33771,44 +33560,6 @@
     "tmdb_type": "tv"
   },
   {
-    "id": "snowman-youtuber-20240127",
-    "name": "YouTuber事件：東京堂書店付近",
-    "genre": "食事",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区神田小川町3-10-7",
-    "lat": 35.6954073,
-    "lng": 139.7634627,
-    "youtube_id": "",
-    "source_video_title": "【それスノ】カレー対決「神保町」ロケ地まとめ：SnowMan聖地巡礼 マジカレー、タケウチ、レストランマリ",
-    "visited_date": "2024-01-27",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "「神保町駅」より徒歩5分「御茶ノ水駅」より徒歩5分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg",
-    "source_type": "",
-    "tmdb_id": 123947,
-    "tmdb_type": "tv"
-  },
-  {
     "id": "snowman-ginza_cafe-20260328",
     "name": "GINZA CAFE",
     "genre": "食事",
@@ -34708,44 +34459,6 @@
     "tabelog_score": 3.68,
     "price_range": "-",
     "business_hours": "月・火・水・木・金 11:00 - 16:30 L.O. 16:00 土 11:30 - 15:30 L.O. 15:00 日・祝日 定休日 ■ 営業時間またはカレーがなくなり次第終了"
-  },
-  {
-    "id": "snowman-f18b6aaf-20250902",
-    "name": "東京ディズニーリゾート",
-    "genre": "食事",
-    "prefecture": "",
-    "city": "",
-    "address": "",
-    "lat": 35.6308162,
-    "lng": 139.8811452,
-    "youtube_id": "",
-    "source_video_title": "【この世界は1ダフル】ディズニーで渡辺翔太が訪れた場所・食べた物・着用グッズまとめ：SnowManロケ地",
-    "visited_date": "2025-09-02",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "ウエスタンリバー鉄道駅 徒歩6分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/r4j1kRsZJ1DZNLkc1D35ikjVAwp.jpg",
-    "source_type": "",
-    "tmdb_id": 274075,
-    "tmdb_type": "tv"
   },
   {
     "id": "snowman-okutama-20250902",
@@ -59733,36 +59446,6 @@
     "business_hours": "月・火・水・木・金・土 18:00 - 00:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "nogizaka46-74c48c49-",
-    "name": "須方書店",
-    "genre": "その他",
-    "prefecture": "埼玉県",
-    "city": "深谷市",
-    "address": "深谷市深谷町９−１２",
-    "lat": 36.195718,
-    "lng": 139.278406,
-    "youtube_id": "",
-    "source_video_title": "何度目の青空か若月 個人PV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "深谷駅 徒歩8分",
-    "description": "出典: 何度目の青空か若月 個人PV",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "nogizaka46-900fe842-",
     "name": "英国屋",
     "genre": "その他",
@@ -63154,45 +62837,6 @@
     "tabelog_score": 3.15,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金 11:00 - 17:30 L.O. 17:00 土・日・祝日 10:00 - 18:30 L.O. 18:00"
-  },
-  {
-    "id": "agroup-d540183f-",
-    "name": "心斎橋サンボウル",
-    "genre": "その他",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区西心斎橋2-9-28",
-    "lat": 34.6753541,
-    "lng": 135.4992013,
-    "youtube_id": "",
-    "source_video_title": "【なにわからAぇ! 風吹かせます！】ボウリング場はどこ？たこ焼きボウリングロケ地",
-    "source_url": "https://kosodate-and.net/naniwa-a-bowling-osaka",
-    "visited_date": "",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27145731/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360361/47a29aba405c9bced41b572947ca0fb4.jpg?token=c386b74&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.04,
-    "price_range": "-"
   },
   {
     "id": "agroup-83a4a154-",
@@ -69468,41 +69112,6 @@
     "ordered_items": []
   },
   {
-    "id": "kingprince-604ca086-",
-    "name": "スタジオゴルド 八王子",
-    "genre": "その他",
-    "prefecture": "東京都",
-    "city": "八王子市",
-    "address": "東京都八王子市川口町1606 スタジオゴルド",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "【恋ムズ ロケ地】服天の社員寮（シロフクロウ寮）はどこ？天堂昴（永瀬廉）は何号室？",
-    "source_url": "https://kosodate-and.net/koimuzu-ren-ryo",
-    "visited_date": "",
-    "members": [
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "kingprince-33828137-",
     "name": "エトワ木更津",
     "genre": "その他",
@@ -71868,36 +71477,6 @@
     "business_hours": "月・木・金・土・日 11:30 - 18:00 火・水 定休日 ■ 営業時間18時以降は予約のみとさせていただきます。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "nogizaka46-7de44d23-",
-    "name": "・名糖食堂・上総一之宮駅・理容室いとう",
-    "genre": "和食",
-    "prefecture": "千葉県",
-    "city": "長生郡一宮町",
-    "address": "長生郡一宮町一宮2647",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "行くあてのない僕たち",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "出典: 行くあてのない僕たち",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "nogizaka46-f908487f-",
     "name": "リワイルド リバーサイドグランピングヒル",
     "genre": "居酒屋",
@@ -71992,36 +71571,6 @@
     "tabelog_score": 3.21,
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・金・土・日・祝日 11:30 - 18:00 水・木 定休日 ■ 定休日水、木曜日（10月から6月）水、第1第3第5木曜日（7、8、9月）"
-  },
-  {
-    "id": "nogizaka46-85e19503-",
-    "name": "長坂駅前観光案内所・びたみん市場",
-    "genre": "その他",
-    "prefecture": "山梨県",
-    "city": "北杜市",
-    "address": "北杜市長坂町長坂上条２５１３−１０",
-    "lat": 35.8283827,
-    "lng": 138.3728564,
-    "youtube_id": "",
-    "source_video_title": "ベストアルバムポスター貼り",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "長坂駅 徒歩9分",
-    "description": "出典: ベストアルバムポスター貼り",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
   },
   {
     "id": "nogizaka46-407414cd-",
@@ -73347,41 +72896,6 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
-  },
-  {
-    "id": "equal_love-06786e82-20240815",
-    "name": "那覇文化芸術劇場なはーと",
-    "genre": "食事",
-    "prefecture": "沖縄県",
-    "city": "那覇市",
-    "address": "沖縄県那覇市久茂地３丁目２６−２７",
-    "lat": 26.2155548,
-    "lng": 127.6825382,
-    "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
-    "source_url": "",
-    "visited_date": "2024-08-15",
-    "members": [
-      "大谷映美里"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "ゆいレール美栄橋駅 徒歩5分",
-    "description": "",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47018720/",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/159793/159793610.jpg?token=3ecda97&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.64,
-    "price_range": "￥8,000～￥9,999",
-    "business_hours": "月・火・水・木・金・土 18:00 - 23:00 日 定休日"
   },
   {
     "id": "equal_love-af1f639d-20240814",
@@ -80579,5 +80093,59 @@
       }
     ],
     "description": "四ツ谷のフルーツサンド専門テイクアウト店。旬の果物を丁寧に使用。イキスギ2022年11月（小瀧望）"
+  },
+  {
+    "id": "west-e801d3b4",
+    "name": "アジアカレーハウス",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都墨田区江東橋3-9-24",
+    "lat": 35.69456155114682,
+    "lng": 139.8136478265533,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/sigechiyo8/entry-12764917623.html",
+    "source_video_title": "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSP",
+    "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13234969/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13234969/"
+      }
+    ],
+    "description": "バングラデシュ料理の隠れた名店。本格ビリヤニが名物。イキスギ2022年8月（濵田崇裕）カレーSP"
+  },
+  {
+    "id": "west-cda14ab3",
+    "name": "中華料理あさひ",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "中華",
+    "prefecture": "東京都",
+    "address": "東京都台東区浅草3-33-6",
+    "lat": 35.71753258870262,
+    "lng": 139.79673360472987,
+    "members": [
+      "重岡大毅"
+    ],
+    "source_type": "tv",
+    "source_url": "https://ameblo.jp/sigechiyo8/entry-12764822203.html",
+    "source_video_title": "イキスギさんについてった 2022-09-06（重岡大毅）チャーハン",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13057892/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13057892/"
+      }
+    ],
+    "description": "1914年創業の浅草老舗町中華。究極のチャーハンで名高い。イキスギ2022年9月（重岡大毅）"
   }
 ]

@@ -29,6 +29,7 @@ members:
   - "目黒蓮"
 groups:
   - "snowman"
+  - "kodoku_no_gurume"
 tags:
   - "町中華"
   - "神楽坂"

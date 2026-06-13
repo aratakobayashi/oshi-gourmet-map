@@ -9,7 +9,7 @@ shop_count: 18
 related_genres:
   - west-shokuji
   - west-ramen
-  - west-
+  - west-sweets
 related_groups:
   - naniwa-cafe
   - nogizaka46-cafe

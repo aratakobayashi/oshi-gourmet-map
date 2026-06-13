@@ -29,6 +29,7 @@ members:
   - "ラウール"
 groups:
   - "snowman"
+  - "kodoku_no_gurume"
 ordered_items:
   - "豚バラ生姜焼き定食（渡辺翔太）"
   - "トッピング目玉のせ(両目)（渡辺翔太）"

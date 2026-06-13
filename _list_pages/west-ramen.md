@@ -9,7 +9,7 @@ shop_count: 12
 related_genres:
   - west-shokuji
   - west-cafe
-  - west-
+  - west-sweets
 related_groups:
   - arashi-ramen
   - kodoku-no-gurume-ramen
