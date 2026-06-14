@@ -86167,5 +86167,307 @@
         "name": "桜なべ"
       }
     ]
+  },
+  {
+    "id": "9fa0397b",
+    "name": "ル・シエール",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港 第1ターミナル2F",
+    "lat": 35.5487851,
+    "lng": 139.7836846,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 羽田空港回 2023-06-13（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "2023-06-13",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "羽田空港第1ターミナル駅",
+    "description": "羽田空港第1ターミナル2Fのハヤシライス店。5分以内に提供されるクイックハヤシライスが名物。WEST.の藤井流星がイキスギさんについてった「羽田空港回」で訪問。",
+    "tags": [
+      "羽田空港",
+      "洋食"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "クイックハヤシライス"
+    ]
+  },
+  {
+    "id": "0acf2c2e",
+    "name": "空弁工房",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港3丁目",
+    "lat": 35.5523175,
+    "lng": 139.7874255,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 羽田空港回 2023-06-13（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "2023-06-13",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "羽田空港第3ターミナル駅",
+    "description": "羽田空港の空弁店。焼き鯖すしが名物。WEST.の藤井流星がイキスギさんについてった「羽田空港回」で訪問。",
+    "tags": [
+      "羽田空港",
+      "弁当"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "焼き鯖すし"
+    ]
+  },
+  {
+    "id": "3c43f21a",
+    "name": "CoCo壱番屋 西枇杷島店",
+    "genre": "カレー",
+    "prefecture": "愛知県",
+    "city": "清須市",
+    "address": "愛知県清須市西枇杷島",
+    "lat": 35.2018192,
+    "lng": 136.8665821,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった カレー（ここのイチ）回 2023-05-30（神山智洋）",
+    "source_url": "https://jwest.jp/ikisugi_20230530/",
+    "visited_date": "2023-05-30",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "二ツ杁駅",
+    "description": "愛知県清須市のCoCo壱番屋1号店。WEST.の神山智洋がイキスギさんについてった「ここのイチカレー回」で訪問。",
+    "tags": [
+      "カレー",
+      "愛知",
+      "ここのイチ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "083cc642",
+    "name": "CoCo壱番屋 中区矢場町店",
+    "genre": "カレー",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市中区矢場町",
+    "lat": 35.1615545,
+    "lng": 136.9065984,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった カレー（ここのイチ）回 2023-05-30（神山智洋）",
+    "source_url": "https://jwest.jp/ikisugi_20230530/",
+    "visited_date": "2023-05-30",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "矢場町駅",
+    "description": "愛知県名古屋市中区のCoCo壱番屋。名古屋赤味噌カレーのご当地限定メニューあり。WEST.の神山智洋がイキスギさんについてった「ここのイチカレー回」で訪問。",
+    "tags": [
+      "カレー",
+      "名古屋",
+      "ここのイチ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "名古屋赤味噌カレー"
+    ]
+  },
+  {
+    "id": "2ef1ee87",
+    "name": "spice up! COCOICHI BAKERY",
+    "genre": "カフェ",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市 名古屋駅地下街",
+    "lat": 35.1691428,
+    "lng": 136.8849698,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった カレー（ここのイチ）回 2023-05-30（神山智洋）",
+    "source_url": "https://jwest.jp/ikisugi_20230530/",
+    "visited_date": "2023-05-30",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "名古屋駅",
+    "description": "愛知県名古屋駅地下街の日本初CoCo壱番屋ベーカリー。カレーパン・スパイスパン専門店。WEST.の神山智洋がイキスギさんについてった「ここのイチカレー回」で訪問。",
+    "tags": [
+      "カレーパン",
+      "名古屋",
+      "ここのイチ",
+      "パン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "カレーパン"
+    ]
+  },
+  {
+    "id": "375adf9b",
+    "name": "九州じゃんがら 赤坂店",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂",
+    "lat": 35.6716388,
+    "lng": 139.7379706,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230618/",
+    "visited_date": "2023-06-18",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "赤坂駅",
+    "description": "東京都港区赤坂の博多とんこつラーメン店。キアヌ・リーブスも訪問したことで有名。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "ラーメン",
+      "赤坂",
+      "博多とんこつ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "コボンシャン"
+    ]
+  },
+  {
+    "id": "4dcae48d",
+    "name": "権八 西麻布",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布",
+    "lat": 35.6601742,
+    "lng": 139.7235797,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230618/",
+    "visited_date": "2023-06-18",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "六本木駅",
+    "description": "東京都港区西麻布の居酒屋・和食店。タランティーノ監督の映画「キル・ビル」のセットデザインに影響を与えた店。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "居酒屋",
+      "西麻布",
+      "和食"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "黒毛和牛サーロインステーキ",
+      "和牛炙り串",
+      "だし巻き玉子"
+    ]
+  },
+  {
+    "id": "b6370f6d",
+    "name": "生姜料理 しょうが",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "address": "神奈川県川崎市麻生区新百合ヶ丘",
+    "lat": 35.6015015,
+    "lng": 139.5101013,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 生姜レシピ 2023-06-25（藤井流星・桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230625/",
+    "visited_date": "2023-06-25",
+    "members": [
+      "藤井流星",
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "新百合ヶ丘駅",
+    "description": "神奈川県川崎市麻生区の生姜料理専門店。500以上の生姜レシピを持つ「生姜の女神」が経営。WEST.の藤井流星・桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "生姜料理",
+      "川崎",
+      "新百合ヶ丘"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]
