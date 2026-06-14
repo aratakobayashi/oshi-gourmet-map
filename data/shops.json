@@ -87306,5 +87306,45 @@
     "ordered_items": [
       "コーヒー"
     ]
+  },
+  {
+    "id": "a1a23733",
+    "name": "中町氷菓店 果実と氷",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "address": "東京都武蔵野市吉祥寺本町",
+    "lat": 35.7058872,
+    "lng": 139.577821,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった かき氷 2023-07-12（神山智洋）",
+    "source_url": "https://jwest.jp/ikisugi_20230712/",
+    "visited_date": "2023-07-12",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "吉祥寺駅",
+    "description": "吉祥寺の天然氷使用高級かき氷専門店。蔵元八義の天然氷を使い、1,800円の贅沢かき氷が話題。WEST.の神山智洋がイキスギさんについてったで訪問。",
+    "tags": [
+      "かき氷",
+      "スイーツ",
+      "吉祥寺",
+      "天然氷"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "情熱のパッション台湾パイン赤い実ソース",
+      "完熟メロン×シトラスカモミール"
+    ]
   }
 ]
