@@ -84941,5 +84941,37 @@
       }
     ],
     "description": "神奈川県の中華。WEST.の小瀧望らが訪れた飲食店。"
+  },
+  {
+    "id": "c7c89fdc",
+    "name": "あぺたいと 赤羽店",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都北区赤羽1丁目",
+    "nearest_station": "赤羽",
+    "lat": 35.78162473783194,
+    "lng": 139.7195148842696,
+    "members": [
+      "中間淳太",
+      "濵田崇裕",
+      "桐山照史",
+      "重岡大毅",
+      "神山智洋",
+      "藤井流星"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-11-22",
+    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13249456/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1323/A132305/13249456/"
+      }
+    ]
   }
 ]
