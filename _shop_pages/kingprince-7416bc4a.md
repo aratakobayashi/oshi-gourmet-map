@@ -15,6 +15,8 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220501/22030304/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277171/77e21b11e6aeb82771f1458ba9a89916.jpg?token=5e5ffe2&api=v2"
 business_hours: "月・火・木・金・土・日 11:00 - 13:00 16:00 - 22:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 35.02036233885279
+lng: 138.8779092783319
 tabelog_score: 3.18
 members:
   - "永瀬廉"

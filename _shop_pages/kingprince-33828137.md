@@ -14,6 +14,8 @@ source_url: "https://kosodate-and.net/mezamashi-kishi-glamping"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12060150/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/310754/b464847d7dcce94d4dccf9c8e4d3e47e.jpg?token=82b56f8&api=v2"
+lat: 35.35403328739043
+lng: 140.03842832961044
 tabelog_score: 3.04
 members:
   - "永瀬廉"

@@ -12,6 +12,8 @@ group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13215139/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/117499/117499420.jpg?token=e664ec7&api=v2"
 business_hours: "月・木・金・土・日 12:00 - 16:00 18:00 - 22:00 火・水 定休日 貸切りやマルシェ出展などで一般営業がお休みの場合もございますので事前にお問合せいただけると嬉しいです"
+lat: 35.61350353792296
+lng: 139.67000578260613
 tabelog_score: 3.32
 groups:
   - "hinatazaka46"

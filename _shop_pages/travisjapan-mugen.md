@@ -15,6 +15,8 @@ group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13206678/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356083/a6da09be29cae6fca83a59aa63c4119a.jpg?token=ebafe21&api=v2"
 business_hours: "月・火・水・木・金 17:00 - 05:00 L.O. 04:00 土・日・祝日 16:00 - 23:30 L.O. 23:00 ■ 営業時間○基本予約時間帯について①17時半〜19時＊比較的空き有②19時〜21時＊大変混雑③21時〜24時＊比較的空き有④24時～ ＊ご案内スムーズです。詳細はお電話にてお伝えします！■定休日無休"
+lat: 35.67456383790578
+lng: 139.73782948317537
 tabelog_score: 3.13
 members:
   - "松田元太"

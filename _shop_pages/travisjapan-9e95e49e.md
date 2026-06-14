@@ -15,6 +15,8 @@ group: "travisjapan"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14039020/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/12101/12101974.jpg?token=3101f8d&api=v2"
 business_hours: "月・火・水・木・金 09:30 - 21:30 土・日・祝日 09:30 - 22:00 ■ 定休日無休（ビルのメンテナンス等による臨時休業有）"
+lat: 35.443451538023446
+lng: 139.646410980905
 tabelog_score: 3.48
 members:
   - "松田元太"

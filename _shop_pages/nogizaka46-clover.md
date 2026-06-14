@@ -14,6 +14,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0104/A010405/1008263/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296892/ecfb23e412631bb86e35170799e6c842.jpg?token=b3c3055&api=v2"
 business_hours: "11:00 - 18:00 ■営業時間11:00～18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 43.672730484380615
+lng: 142.4569923565065
 tabelog_score: 3.44
 groups:
   - "nogizaka46"

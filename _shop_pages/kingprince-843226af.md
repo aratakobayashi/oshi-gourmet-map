@@ -15,6 +15,8 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13282087/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/197109/b0a37de24603fc4dbf883cb61b943e4e.jpg?token=b378c91&api=v2"
 business_hours: "10:30 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 35.69343637868773
+lng: 139.70192423455293
 tabelog_score: 3.02
 members:
   - "永瀬廉"

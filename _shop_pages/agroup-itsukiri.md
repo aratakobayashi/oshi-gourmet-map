@@ -15,6 +15,8 @@ group: "agroup"
 tabelog_url: "https://tabelog.com/chiba/A1204/A120402/12038574/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/164334/92a0030fac7d8bc87f7dd514c9727306.jpg?token=fb57a4e&api=v2"
 business_hours: "水・木・金・土・日 11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:30 月・火 定休日"
+lat: 35.71271233804218
+lng: 140.24221408320713
 tabelog_score: 4.48
 members:
   - "正門良規"

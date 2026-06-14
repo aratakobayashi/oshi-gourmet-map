@@ -12,6 +12,8 @@ source_url: "https://kosodate-and.net/kakusyo-nakai-50"
 group: "smap"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132804/13290539/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/241261/70a37fd47dad9dabbdea8a0080aa65d3.jpg?token=99dc4a3&api=v2"
+lat: 35.74514008857501
+lng: 139.451122855251
 tabelog_score: 3.05
 members:
   - "木村拓哉"

@@ -14,6 +14,8 @@ source_url: "https://kosodate-and.net/renkai-haniwa-togei"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140401/14084501/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/157656/157656448.jpg?token=ed9299d&api=v2"
+lat: 35.33178734698753
+lng: 139.54609758269262
 members:
   - "永瀬廉"
   - "髙橋海人"

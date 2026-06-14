@@ -16,6 +16,8 @@ group: "smap"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13269295/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/170956/be3f82efc3904cff5f36781772b9c044.jpg?token=48581b7&api=v2"
 business_hours: "月・火・水・木・金・土 11:30 - 15:30 L.O. 14:30 17:30 - 23:00 L.O. 21:30 日 定休日 ■ 定休日不定休日あり、東京ガーデンテラス紀尾井町に準ずる ※今後状況を見て営業日時が変更になることもございます■【お客様へのご案内】いつも当店をご利用いただき、誠にありがとうございますこのたび、4月27日より価格を改定させていただきますなお、予約サイトのページ更"
+lat: 35.67926637870787
+lng: 139.73692046438526
 tabelog_score: 3.38
 members:
   - "木村拓哉"

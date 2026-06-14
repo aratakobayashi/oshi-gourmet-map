@@ -14,6 +14,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260403/26040001/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/271201/3980ebc758213473788c5d78ad85a5e6.jpg?token=9daba27&api=v2"
 business_hours: "11:00 - 17:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 35.016663160233826
+lng: 135.68097140445357
 tabelog_score: 3.0
 groups:
   - "nogizaka46"

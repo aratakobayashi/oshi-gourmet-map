@@ -15,6 +15,8 @@ group: "kpop_twice"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13225567/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/93523/93523917.jpg?token=0529748&api=v2"
 business_hours: "11:30 - 22:00"
+lat: 35.666508038705835
+lng: 139.7051008842787
 tabelog_score: 3.58
 groups:
   - "kpop_twice"

@@ -15,6 +15,8 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0801/A080103/8013111/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330119/4f7762fe1a1ccd1cf3db65afc42e765b.jpg?token=d7128b4&api=v2"
 business_hours: "09:00 - 16:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 36.38483108842474
+lng: 140.25499166114898
 tabelog_score: 3.08
 members:
   - "永瀬廉"

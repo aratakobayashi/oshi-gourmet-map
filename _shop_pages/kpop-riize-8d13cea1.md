@@ -15,6 +15,8 @@ group: "kpop_riize"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140505/14039477/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/63871/63871504.jpg?token=0098d92&api=v2"
 business_hours: "11:00 - 15:00 16:30 - 22:00"
+lat: 35.60087392357947
+lng: 139.58251078045478
 tabelog_score: 3.33
 groups:
   - "kpop_riize"

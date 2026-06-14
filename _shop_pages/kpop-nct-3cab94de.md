@@ -15,6 +15,8 @@ group: "kpop_nct"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270203/27134872/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/208953/676239666bd6ad68c726e387a6f575e5.jpg?token=cf4bb39&api=v2"
 business_hours: "11:00 - 21:30 ■ 定休日年中無休（阿倍野Hoopに準ずる）"
+lat: 34.64504076430828
+lng: 135.51379439372175
 tabelog_score: 3.43
 groups:
   - "kpop_nct"

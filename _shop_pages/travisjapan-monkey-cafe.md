@@ -15,6 +15,8 @@ group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13175597/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358487/94d4ea9cef97fd2feb93fdc80492d460.jpg?token=2747887&api=v2"
 business_hours: "10:00 - 19:00 【定休日】不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+lat: 35.651068637909475
+lng: 139.70263588296274
 tabelog_score: 3.44
 members:
   - "松田元太"

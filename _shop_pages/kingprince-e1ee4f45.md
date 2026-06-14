@@ -15,6 +15,8 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090203/9010897/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/289516/4fef72191c8da7e3347c42d13e185373.jpg?token=8737f66&api=v2"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 18:00 ■ 営業時間通常：10：00～18：00■ 定休日第1,3水曜日、1月1日～3日（道の駅しもつけの営業日に準ずる）"
+lat: 36.397235208298646
+lng: 139.8837742015345
 tabelog_score: 3.47
 members:
   - "永瀬廉"
