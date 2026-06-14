@@ -87346,5 +87346,121 @@
       "情熱のパッション台湾パイン赤い実ソース",
       "完熟メロン×シトラスカモミール"
     ]
+  },
+  {
+    "id": "ce7309df",
+    "name": "吉野家 羽田空港第3ターミナル店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港第3ターミナル",
+    "lat": 35.5461021,
+    "lng": 139.768369,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 羽田空港 2023-06-13（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "2023-06-13",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "羽田空港第3ターミナル",
+    "description": "羽田空港第3ターミナル店限定「黒毛和牛重」（1,500円）が食べられる吉野家。国会議事堂店と並ぶ限定メニュー提供店舗。WEST.の藤井流星がイキスギさんについてったで訪問。",
+    "tags": [
+      "牛丼",
+      "羽田空港",
+      "東京"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "黒毛和牛重"
+    ]
+  },
+  {
+    "id": "8c951134",
+    "name": "ル・シエール 羽田空港",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港第1ターミナル2F",
+    "lat": 35.5487851,
+    "lng": 139.7836846,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 羽田空港 2023-06-13（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "2023-06-13",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "羽田空港第1・第2ターミナル",
+    "description": "羽田空港第1ターミナル2Fのカフェ。「5分クイックハヤシライス」（1,200円）が名物で、5分以内に提供しなければ割引になる。WEST.の藤井流星がイキスギさんについてったで訪問。",
+    "tags": [
+      "カフェ",
+      "羽田空港",
+      "東京",
+      "ハヤシライス"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "5分クイックハヤシライス"
+    ]
+  },
+  {
+    "id": "5e512833",
+    "name": "空弁工房 羽田空港",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港第2ターミナル",
+    "lat": 35.5523175,
+    "lng": 139.7874255,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 羽田空港 2023-06-13（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230613/",
+    "visited_date": "2023-06-13",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "羽田空港第1・第2ターミナル",
+    "description": "羽田空港第2ターミナルの空弁店。焼き鯖すしが名物。WEST.の藤井流星がイキスギさんについてったで訪問。",
+    "tags": [
+      "弁当",
+      "羽田空港",
+      "東京",
+      "鯖"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "焼き鯖すし"
+    ]
   }
 ]
