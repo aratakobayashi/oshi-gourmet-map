@@ -85457,5 +85457,524 @@
         "url": "https://tabelog.com/aichi/A2304/A230402/23023115/"
       }
     ]
+  },
+  {
+    "id": "70aa6bc9",
+    "name": "カンガンスルレ",
+    "genre": "韓国料理",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3丁目",
+    "lat": 35.6753817,
+    "lng": 139.737048,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 2023-06-20（濵田崇裕）",
+    "source_url": "https://jwest.jp/ikisugi_20230620/",
+    "visited_date": "2023-06-20",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "赤坂駅",
+    "description": "東京都港区赤坂の韓国料理店。WEST.の濵田崇裕がイキスギさんについてったで訪問。",
+    "tags": [
+      "韓国料理",
+      "赤坂"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kinkikids-2076ec1f-20220423",
+    "name": "上町池澤本店",
+    "genre": "washoku",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "address": "高知県高知市上町2-3-1",
+    "lat": 33.5569843,
+    "lng": 133.5217399,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 高知グルメ 広末涼子",
+    "source_url": "",
+    "visited_date": "2022-04-23",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "高知を代表するカツオのたたきの名店。広末涼子ゲスト回で紹介された高知グルメ。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "カツオのたたき"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-184ba032-20220423",
+    "name": "いまどき安兵衛",
+    "genre": "shokuji",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "address": "高知県高知市追手筋2-1-43",
+    "lat": 33.561589,
+    "lng": 133.5383738,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 高知グルメ 広末涼子",
+    "source_url": "",
+    "visited_date": "2022-04-23",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "高知の人気屋台餃子の店。広末涼子ゲスト回の高知グルメ特集で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "屋台餃子"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-11_1-20220423",
+    "name": "1×1=1（イチカケルイチ）",
+    "genre": "sweets",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "address": "高知県高知市南はりまや町1-3-8",
+    "lat": 33.5598448,
+    "lng": 133.5470881,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 高知グルメ 広末涼子",
+    "source_url": "",
+    "visited_date": "2022-04-23",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "高知名物アイスクリンの人気店。広末涼子ゲスト回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "アイスクリン"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-8a7a5dc6-20220423",
+    "name": "芋屋金次郎 高知本店",
+    "genre": "sweets",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "address": "高知県高知市帯屋町2-2-18",
+    "lat": 33.5602068,
+    "lng": 133.5370049,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 高知グルメ 広末涼子",
+    "source_url": "",
+    "visited_date": "2022-04-23",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "高知の名物芋けんぴブランドの本店。広末涼子ゲスト回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "揚げたて芋けんぴ"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-f39d2ab4-20220702",
+    "name": "ホンスチュクミ 新宿店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-16-5",
+    "lat": 35.6945429,
+    "lng": 139.7027105,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼",
+    "source_url": "",
+    "visited_date": "2022-07-02",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "韓国料理チュクミの人気店。勝地涼ゲスト・韓国グルメ回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "チュクミ"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-c4cd9af3-20220702",
+    "name": "赤坂おんがね",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-21-12",
+    "lat": 35.6716786,
+    "lng": 139.7356224,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼",
+    "source_url": "",
+    "visited_date": "2022-07-02",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "赤坂の韓国料理店。勝地涼ゲスト・韓国グルメ回でサムゲタンを紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "濃厚とろとろサムゲタン"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-746fb2b3-20221008",
+    "name": "点香苑",
+    "genre": "shokuji",
+    "prefecture": "北海道",
+    "city": "網走郡美幌町",
+    "address": "北海道網走郡美幌町鳥里4丁目5-1",
+    "lat": 43.838765,
+    "lng": 144.101058,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 即完売グルメ",
+    "source_url": "",
+    "visited_date": "2022-10-08",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "北海道美幌町の中華まんの名店。即完売グルメ回で紹介された隠れた名品。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "豚まん"
+      },
+      {
+        "name": "鶏肉まん"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-f41a9cec-20221008",
+    "name": "御所雲月 南青山店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山5-1-2",
+    "lat": 35.6667236,
+    "lng": 139.7188607,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 即完売グルメ",
+    "source_url": "",
+    "visited_date": "2022-10-08",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "京都の名店・雲月の東京店。わらびもちが即完売の人気スイーツ。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "わらびもち"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-d6e1d4a1-20221008",
+    "name": "焼餃子専門店 岐州",
+    "genre": "shokuji",
+    "prefecture": "岐阜県",
+    "city": "岐阜市",
+    "address": "岐阜県岐阜市神田町8-18",
+    "lat": 35.427761,
+    "lng": 136.754164,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 即完売グルメ",
+    "source_url": "",
+    "visited_date": "2022-10-08",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "岐阜駅近くの焼餃子専門店。即完売グルメ回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "焼餃子"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-28262b77-20221008",
+    "name": "フルフール御殿場",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "御殿場市",
+    "address": "静岡県御殿場市新橋1938-8",
+    "lat": 35.295342,
+    "lng": 138.938629,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 即完売グルメ",
+    "source_url": "",
+    "visited_date": "2022-10-08",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "御殿場の生フルーツゼリーの人気店。即完売グルメ回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "生フルーツゼリー"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-c2185520-20221008",
+    "name": "エシレ・メゾン デュ ブール",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内2-4-1 丸の内ビルディング1F",
+    "lat": 35.6790703,
+    "lng": 139.7652988,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 即完売グルメ",
+    "source_url": "",
+    "visited_date": "2022-10-08",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "フランス産エシレバター専門のパティスリー。バターケーキが即完売の大人気店。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "ガトー・エシレ ナチュール"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-5adebe74-20220211",
+    "name": "肉のたかさご",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区月島1-20-8",
+    "lat": 35.6632293,
+    "lng": 139.7822568,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン おまけグルメ",
+    "source_url": "",
+    "visited_date": "2022-02-11",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "月島の精肉・ローストビーフの名店。ブンブブーンおまけグルメ回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "国産黒毛和牛ローストビーフの切り落とし"
+      }
+    ]
+  },
+  {
+    "id": "kinkikids-3b3cb1ab-20220211",
+    "name": "花かんざし",
+    "genre": "sweets",
+    "prefecture": "大阪府",
+    "city": "門真市",
+    "address": "大阪府門真市北岸和田2-10-20",
+    "lat": 34.730402,
+    "lng": 135.617292,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン おまけグルメ",
+    "source_url": "",
+    "visited_date": "2022-02-11",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "",
+    "description": "大阪門真市のどら焼きの皮だけが名物の和菓子店。ブンブブーンおまけグルメ回で紹介。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "どら焼きの皮だけ"
+      }
+    ]
   }
 ]

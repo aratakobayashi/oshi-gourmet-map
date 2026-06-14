@@ -11,4 +11,6 @@ related_genres:
   - west-shokuji
   - west-cafe
   - west-chuka
+related_groups:
+  - kinkikids-shokuji
 ---
