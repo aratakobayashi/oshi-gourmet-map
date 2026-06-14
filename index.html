@@ -294,12 +294,18 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
     var grad    = GRADS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
     var tape    = TAPES[i % TAPES.length];
     var iconUrl = group ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
-    var imgHtml = shop.youtube_id
-      ? '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">'
-      : '<div class="feed-card__banner" style="background:' + grad + '">'
-        + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
-        + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
-        + '</div>';
+    var bannerHtml = '<div class="feed-card__banner" style="background:' + grad + '">'
+      + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
+      + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(shop.genre || '') + '</span>'
+      + '</div>';
+    var imgHtml;
+    if (shop.youtube_id) {
+      imgHtml = '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">';
+    } else if (shop.thumbnail_url) {
+      imgHtml = '<img class="feed-card__img" src="' + esc(shop.thumbnail_url) + '" alt="' + esc(shop.name) + '" loading="lazy" onerror="this.outerHTML=this.dataset.fb" data-fb="' + esc(bannerHtml) + '">';
+    } else {
+      imgHtml = bannerHtml;
+    }
     var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
     var shopUrl = BASE + '/shops/' + shop.id.replace(/_/g, '-').replace(/-+$/, '') + '/';
     return '<a class="feed-card" href="' + shopUrl + '" title="' + esc(shop.name) + '">'
