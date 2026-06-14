@@ -40,6 +40,17 @@ GROUP_LABELS = {
     'kpop_seventeen':   'SEVENTEEN',
     'kpop_riize':       'RIIZE',
     'kpop_nct':         'NCT',
+    'kpop_twice':       'TWICE',
+    'west':             'WEST.',
+    'travisjapan':      'Travis Japan',
+    'kinkikids':        'KinKi Kids',
+    'kattun':           'KAT-TUN',
+    'smap':             'SMAP',
+    'kanjani':          '関ジャニ∞',
+    'kismai':           'Kis-My-Ft2',
+    'numberi':          'Number_i',
+    'v6':               'V6',
+    'agroup':           'A.B.C-Z',
 }
 
 GROUP_COLORS = {
@@ -67,6 +78,17 @@ GROUP_COLORS = {
     'kpop_seventeen':   ('#0ea5e9', '#7dd3fc'),
     'kpop_riize':       ('#ef4444', '#fca5a5'),
     'kpop_nct':         ('#10b981', '#6ee7b7'),
+    'kpop_twice':       ('#ec4899', '#f9a8d4'),
+    'west':             ('#2563eb', '#93c5fd'),
+    'travisjapan':      ('#0d9488', '#5eead4'),
+    'kinkikids':        ('#6d28d9', '#c4b5fd'),
+    'kattun':           ('#374151', '#9ca3af'),
+    'smap':             ('#b91c1c', '#fca5a5'),
+    'kanjani':          ('#d97706', '#fde68a'),
+    'kismai':           ('#1e40af', '#93c5fd'),
+    'numberi':          ('#111827', '#6b7280'),
+    'v6':               ('#7c2d12', '#fb923c'),
+    'agroup':           ('#ea580c', '#fdba74'),
 }
 
 # グループごとの件数・代表ジャンルを集計

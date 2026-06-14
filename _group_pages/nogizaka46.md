@@ -5,6 +5,6 @@ group_color: "#0ea5e9"
 group_color2: "#7dd3fc"
 shop_count: 181
 title: "乃木坂46のグルメ聖地181選｜推しグルメ巡礼MAP"
-description: "乃木坂46が実際に訪れたグルメスポット181件をまとめています。カフェ・食事・ラーメンなど多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+description: "乃木坂46が実際に訪れたグルメスポット181件をまとめています。その他・カフェ・ラーメンなど多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
 group_youtube_id: "r4SdiT7mm7Y"
 ---

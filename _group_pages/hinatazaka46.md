@@ -5,6 +5,6 @@ group_color: "#f59e0b"
 group_color2: "#fde68a"
 shop_count: 16
 title: "日向坂46のグルメ聖地16選｜推しグルメ巡礼MAP"
-description: "日向坂46が実際に訪れたグルメスポット16件をまとめています。寿司・焼肉・和食など多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+description: "日向坂46が実際に訪れたグルメスポット16件をまとめています。スイーツ・食事・寿司など多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
 group_youtube_id: "KcpvHDt0bPc"
 ---
