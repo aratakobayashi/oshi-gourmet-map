@@ -12519,7 +12519,7 @@
     "genre": "shokuji",
     "prefecture": "鹿児島県",
     "city": "枕崎市",
-    "address": "鹿児島県枕崎市西本町５９−５９0993-78-4345",
+    "address": "鹿児島県枕崎市西本町５９−５９",
     "lat": 31.2702745,
     "lng": 130.2971749,
     "youtube_id": "1yd3WNzgodI",
@@ -12704,7 +12704,7 @@
     "genre": "washoku",
     "prefecture": "長崎県",
     "city": "西海市",
-    "address": "長崎県西海市西海町太田和郷3852-120959-32-9500",
+    "address": "長崎県西海市西海町太田和郷3852-12",
     "lat": 33.0430473,
     "lng": 129.6716752,
     "youtube_id": "ASHXCtJu93Y",
@@ -34084,12 +34084,12 @@
     "nearest_station": "東京駅 徒歩1分",
     "description": "3問目はJR東京駅・八重洲口の真横のビルの中にあるNY発祥のレストラン 『Sarabeth’s』 から。",
     "tags": [],
-    "tabelog_url": "https://s.tabelog.com/tokyo/A1302/A130201/13189541/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130201/13189541/",
     "hotpepper_url": "",
     "affiliate_links": [
       {
         "label": "食べログで見る",
-        "url": "https://s.tabelog.com/tokyo/A1302/A130201/13189541/"
+        "url": "https://tabelog.com/tokyo/A1302/A130201/13189541/"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
@@ -34123,12 +34123,12 @@
     "nearest_station": "吉祥寺駅 徒歩7分",
     "description": "4問目は新スイーツの激戦区になっている東京・吉祥寺にある2016年オープンのチョコレート専門店 『PRESQU’ILE chocolaterie』 から。",
     "tags": [],
-    "tabelog_url": "https://s.tabelog.com/tokyo/A1320/A132001/13192815/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13192815/",
     "hotpepper_url": "",
     "affiliate_links": [
       {
         "label": "食べログで見る",
-        "url": "https://s.tabelog.com/tokyo/A1320/A132001/13192815/"
+        "url": "https://tabelog.com/tokyo/A1320/A132001/13192815/"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
@@ -86046,5 +86046,126 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "78483101",
+    "name": "ラーメン&BAR 963",
+    "genre": "ramen",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市",
+    "lat": 35.6984081,
+    "lng": 139.9842263,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった なのに な お店SP 2023-06-06（桐山照史）",
+    "source_url": "https://jwest.jp/ikisugi_20230606/",
+    "visited_date": "2023-06-06",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "船橋駅",
+    "description": "千葉県船橋市のラーメン＆バー。クラムチャウダーラーメンが看板メニュー。WEST.の桐山照史がイキスギさんについてった「なのに な お店SP」で訪問。",
+    "tags": [
+      "ラーメン",
+      "船橋",
+      "バー"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "ラーメン963"
+      }
+    ]
+  },
+  {
+    "id": "4c26c3d3",
+    "name": "じねんじょ庵 青葉台本店",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市青葉区青葉台",
+    "lat": 35.5456562,
+    "lng": 139.5167632,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった なのに な お店SP 2023-06-06（桐山照史）",
+    "source_url": "https://jwest.jp/ikisugi_20230606/2/",
+    "visited_date": "2023-06-06",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "青葉台駅",
+    "description": "神奈川県横浜市青葉区の自然薯そば専門店。自然薯麦とろお蕎麦が名物。WEST.の桐山照史がイキスギさんについてった「なのに な お店SP」で訪問。",
+    "tags": [
+      "そば",
+      "横浜",
+      "自然薯"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "自然薯麦とろお蕎麦"
+      }
+    ]
+  },
+  {
+    "id": "3e9e8ba4",
+    "name": "桜なべ 中江",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区日本堤1丁目",
+    "lat": 35.725112,
+    "lng": 139.7970175,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 老舗グルメ回 2023-07-25（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230725/",
+    "visited_date": "2023-07-25",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "南千住駅",
+    "description": "東京都台東区日本堤の馬肉鍋専門店。1905年創業の老舗。WEST.の藤井流星がイキスギさんについてった「老舗グルメ回」で訪問。",
+    "tags": [
+      "鍋",
+      "台東区",
+      "老舗",
+      "馬肉"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      {
+        "name": "桜なべ"
+      }
+    ]
   }
 ]

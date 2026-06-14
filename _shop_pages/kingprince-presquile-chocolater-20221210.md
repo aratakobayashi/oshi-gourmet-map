@@ -13,7 +13,7 @@ price_range: "￥1,000～￥1,999"
 visited_date: "2022-12-10"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
-tabelog_url: "https://s.tabelog.com/tokyo/A1320/A132001/13192815/"
+tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13192815/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
 business_hours: "月・木・金・土・日 11:00 - 19:00 火・水 定休日"
@@ -27,5 +27,5 @@ groups:
   - "kingprince"
 affiliate_links:
   - label: "食べログで見る"
-    url: "https://s.tabelog.com/tokyo/A1320/A132001/13192815/"
+    url: "https://tabelog.com/tokyo/A1320/A132001/13192815/"
 ---
