@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「良彌 本通り店」"
-description: "シンクロニシティ　特典映像で紹介されたその他「良彌 本通り店」（京都府京都市）。食べログ3.28点、～￥999。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ　特典映像で紹介されたothers「良彌 本通り店」（京都府京都市）。食べログ3.28点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-b02faebc-"
 name: "良彌 本通り店"
-genre: "その他"
+genre: "others"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市右京区嵯峨天龍寺芒ノ馬場町"

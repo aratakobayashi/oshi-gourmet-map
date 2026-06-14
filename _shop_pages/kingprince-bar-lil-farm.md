@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bar Lil farm」"
-description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介された居酒屋「Bar Lil farm」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたizakaya「Bar Lil farm」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bar_lil_farm-"
 name: "Bar Lil farm"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市福島区福島５丁目１２−２１ 竹尾ビル 3F"

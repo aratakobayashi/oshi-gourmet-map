@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「もんじゃ 竹の子」"
-description: "亀梨和也のYouTubeで紹介されたもんじゃ「もんじゃ 竹の子」（東京都中央区）。食べログ3.46点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたwashoku「もんじゃ 竹の子」（東京都中央区）。食べログ3.46点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-6d080bbe-202503"
 name: "もんじゃ 竹の子"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区月島１丁目９−１５ 105"

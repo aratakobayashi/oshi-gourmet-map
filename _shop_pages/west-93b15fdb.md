@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "蕎麦 さだはる"
-description: "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇で紹介された食事「蕎麦 さだはる」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇で紹介されたshokuji「蕎麦 さだはる」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "west-93b15fdb-"
 name: "蕎麦 さだはる"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西新橋"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Ordinary Cafe"
-description: "玉森裕太 インスタグラム ドバイチョコもち 原宿で紹介されたカフェ「Ordinary Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "玉森裕太 インスタグラム ドバイチョコもち 原宿で紹介されたcafe「Ordinary Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-ordinary_cafe-"
 name: "Ordinary Cafe"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前"

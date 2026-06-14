@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥獣菜魚 あい川」"
-description: "孤独のグルメ Season10 第24話で紹介された食事「鳥獣菜魚 あい川」（神奈川県横浜市）。食べログ3.42点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「鳥獣菜魚 あい川」（神奈川県横浜市）。食べログ3.42点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-91255317-"
 name: "鳥獣菜魚 あい川"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市"

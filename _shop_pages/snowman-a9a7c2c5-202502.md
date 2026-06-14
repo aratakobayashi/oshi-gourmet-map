@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂」"
-description: "Snow ManのYouTubeで紹介された和食「伊勢屋食堂」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「伊勢屋食堂」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-a9a7c2c5-202502"
 name: "伊勢屋食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区北新宿4丁目2-1 淀橋市場内"

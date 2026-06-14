@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「ワルン」"
-description: "かまいたちのYouTubeで紹介された食事「ワルン」（大阪府大阪市西区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「ワルン」（大阪府大阪市西区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1ca5fcf5-"
 name: "ワルン"
-genre: "食事"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市西区"
 address: "大阪府大阪市西区北堀江2丁目"

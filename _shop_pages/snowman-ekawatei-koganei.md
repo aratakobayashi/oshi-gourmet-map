@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「江川亭 小金井本店」"
-description: "Snow ManのYouTubeで紹介されたラーメン「江川亭 小金井本店」（東京都小金井市）。食べログ3.22点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたramen「江川亭 小金井本店」（東京都小金井市）。食べログ3.22点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "小金井市"
 address: "東京都小金井市前原町5-9-11"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「雷本店」"
-description: "=LOVEのYouTubeで紹介された食事「雷本店」（千葉県松戸市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「雷本店」（千葉県松戸市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c76f0dda-202408"
 name: "雷本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "松戸市"
 address: "千葉県松戸市北松戸３丁目１−７６"

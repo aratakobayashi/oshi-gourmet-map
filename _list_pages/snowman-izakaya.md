@@ -1,8 +1,8 @@
 ---
-title: "Snow Manが行った居酒屋5選"
-description: "Snow Manのメンバーが実際に訪れた居酒屋スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Snow Manが行ったizakaya5選"
+description: "Snow Manのメンバーが実際に訪れたizakayaスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
-genre: 居酒屋
+genre: izakaya
 group_label: "Snow Man"
 slug_id: snowman-izakaya
 shop_count: 5

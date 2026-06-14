@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「COA GINZA」"
-description: "=LOVEのYouTubeで紹介されたカフェ「COA GINZA」（東京都中央区）。食べログ3.26点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「COA GINZA」（東京都中央区）。食べログ3.26点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座６丁目１３−９ girac ginza7階"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「えどもんど中野」"
-description: "=LOVEのYouTubeで紹介された居酒屋「えどもんど中野」（東京都中野区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「えどもんど中野」（東京都中野区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-f22d7edd-202502"
 name: "えどもんど中野"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区中野５丁目５６−１２"

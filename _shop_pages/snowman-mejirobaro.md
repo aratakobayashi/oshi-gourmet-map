@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Baro (ベロ)」"
-description: "Snow ManのYouTubeで紹介された食事「Baro (ベロ)」（東京都豊島区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Baro (ベロ)」（東京都豊島区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区西池袋2-1-13"

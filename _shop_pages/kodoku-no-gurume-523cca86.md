@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みゆき食堂」"
-description: "孤独のグルメ Season4 第1話で紹介された食事「みゆき食堂」（東京都清瀬市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第1話で紹介されたshokuji「みゆき食堂」（東京都清瀬市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-523cca86-"
 name: "みゆき食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "清瀬市"
 address: "東京都清瀬市"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「コロラド」"
-description: "かまいたちのYouTubeで紹介されたカフェ「コロラド」（大阪府大阪市）。食べログ3.25点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたcafe「コロラド」（大阪府大阪市）。食べログ3.25点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-b9386654-"
 name: "コロラド"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市"

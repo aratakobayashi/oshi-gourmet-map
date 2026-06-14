@@ -1,8 +1,8 @@
 ---
-title: "乃木坂46が行った居酒屋10選"
-description: "乃木坂46のメンバーが実際に訪れた居酒屋スポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行ったizakaya10選"
+description: "乃木坂46のメンバーが実際に訪れたizakayaスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
-genre: 居酒屋
+genre: izakaya
 group_label: "乃木坂46"
 slug_id: nogizaka46-izakaya
 shop_count: 10
@@ -12,7 +12,7 @@ youtube_id: 7eoiyP4kaAQ
 related_genres:
   - nogizaka46-others
   - nogizaka46-cafe
-  - nogizaka46-ramen
+  - nogizaka46-shokuji
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya

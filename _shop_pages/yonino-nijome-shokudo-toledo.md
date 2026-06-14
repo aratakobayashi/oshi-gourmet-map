@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「二丁目食堂トレド」"
-description: "よにのちゃんねるのYouTubeで紹介されたカレー「二丁目食堂トレド」（東京都新宿区）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「二丁目食堂トレド」（東京都新宿区）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nijome-shokudo-toledo"
 name: "二丁目食堂トレド"
-genre: "カレー"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区神楽坂2-6-7 ポルタ神楽坂1F"

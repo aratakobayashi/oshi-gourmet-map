@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「明治生命館」"
-description: "King & Princeキンプリ『STARRING』ビジュアルのロケ地はどこ？で紹介されたその他「明治生命館」（東京都千代田区）。食べログ3.49点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ『STARRING』ビジュアルのロケ地はどこ？で紹介されたothers「明治生命館」（東京都千代田区）。食べログ3.49点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-559bd0b3-"
 name: "明治生命館"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区丸の内2-1-1"

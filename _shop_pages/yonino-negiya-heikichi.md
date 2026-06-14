@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「葱や平吉 渋谷宇田川町店」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negiya-heikichi"
 name: "葱や平吉 渋谷宇田川町店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町36-18"

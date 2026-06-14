@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「お店 【瀬戸内バル Collabo】」"
-description: "Snow ManのYouTubeで紹介された食事「お店 【瀬戸内バル Collabo】」（東京都世田谷区）。食べログ3.37点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「お店 【瀬戸内バル Collabo】」（東京都世田谷区）。食べログ3.37点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-collabo-20241205"
 name: "お店 【瀬戸内バル Collabo】"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区太子堂1-6-9 1F"

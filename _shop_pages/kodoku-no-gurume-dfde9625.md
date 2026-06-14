@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「貴州火鍋」"
-description: "孤独のグルメ Season9 第7話で紹介された和食「貴州火鍋」（東京都葛飾区）。食べログ3.41点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第7話で紹介されたwashoku「貴州火鍋」（東京都葛飾区）。食べログ3.41点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dfde9625-"
 name: "貴州火鍋"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "葛飾区"
 address: "東京都葛飾区"

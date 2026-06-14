@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「Litty」"
-description: "=LOVEのYouTubeで紹介された居酒屋「Litty」（東京都渋谷区）。食べログ3.33点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「Litty」（東京都渋谷区）。食べログ3.33点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-litty-20241211"
 name: "Litty"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前４丁目６−５ グラン F 表参道 1F"

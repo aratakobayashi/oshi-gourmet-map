@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「焼肉トラジ 池袋東口店」"
-description: "≠MEのYouTubeで紹介された焼肉「焼肉トラジ 池袋東口店」（東京都豊島区）。食べログ3.09点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたyakiniku「焼肉トラジ 池袋東口店」（東京都豊島区）。食べログ3.09点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-12cab5ae-202410"
 name: "焼肉トラジ 池袋東口店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区南池袋２丁目２７−５ 共和ビル Ｂ１Ｆ"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「JR東海全面協力！」"
-description: "Snow ManのYouTubeで紹介された食事「JR東海全面協力！」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「JR東海全面協力！」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-jr-20251002"
 name: "JR東海全面協力！"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区八重洲 2-2-1"

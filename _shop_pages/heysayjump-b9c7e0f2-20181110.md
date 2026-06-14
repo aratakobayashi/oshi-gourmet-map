@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「亀屋栄泉」"
-description: "2018.11.10 川越特集で紹介されたスイーツ「亀屋栄泉」（埼玉県川越市）。食べログ3.41点。推し活グルメ巡礼スポット。"
+description: "2018.11.10 川越特集で紹介されたsweets「亀屋栄泉」（埼玉県川越市）。食べログ3.41点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b9c7e0f2-20181110"
 name: "亀屋栄泉"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市"

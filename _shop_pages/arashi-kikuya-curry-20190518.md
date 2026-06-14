@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
-description: "嵐にしやがれで紹介された居酒屋「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区野毛町4-173 天悦ビル 101"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「喫茶カラス」"
-description: "孤独のグルメ Season10 第2018話で紹介されたラーメン「喫茶カラス」（愛知県名古屋市）。食べログ3.57点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2018話で紹介されたramen「喫茶カラス」（愛知県名古屋市）。食べログ3.57点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d9f20c2f-"
 name: "喫茶カラス"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市"

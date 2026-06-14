@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「カフェ＆ダイニング mateki」"
-description: "=LOVEのYouTubeで紹介されたカフェ「カフェ＆ダイニング mateki」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「カフェ＆ダイニング mateki」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-mateki-202408"
 name: "カフェ＆ダイニング mateki"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "沖縄県"
 city: "那覇市"
 address: "沖縄県那覇市久茂地２丁目３−１０ RBC・QABメディアセンタービル 1F"

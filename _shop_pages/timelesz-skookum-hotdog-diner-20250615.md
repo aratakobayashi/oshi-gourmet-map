@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「SKOOKUM HOTDOG DINER」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介された中華「SKOOKUM HOTDOG DINER」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたchuka「SKOOKUM HOTDOG DINER」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-skookum_hotdog_diner-20250615"
 name: "SKOOKUM HOTDOG DINER"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "目黒区"
 address: "〒153-0042 東京都目黒区青葉台1-17-2 青葉台117ビル1F"

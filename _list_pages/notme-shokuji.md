@@ -1,8 +1,8 @@
 ---
-title: "≠MEが行った食事23選"
-description: "≠MEのメンバーが実際に訪れた食事スポットを23件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "≠MEが行ったshokuji23選"
+description: "≠MEのメンバーが実際に訪れたshokujiスポットを23件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: notme
-genre: 食事
+genre: shokuji
 group_label: "≠ME"
 slug_id: notme-shokuji
 shop_count: 23

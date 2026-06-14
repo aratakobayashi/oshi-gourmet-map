@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「FUJIMORI 鷺沼店」"
-description: "King&Princeる。当たり前レストランで紹介された食事「FUJIMORI 鷺沼店」（神奈川県川崎市）。食べログ3.68点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「FUJIMORI 鷺沼店」（神奈川県川崎市）。食べログ3.68点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-fujimori-20220903"
 name: "FUJIMORI 鷺沼店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市宮前区小台1-17-4"

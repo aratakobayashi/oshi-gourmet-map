@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「blinc base（ブリンクベース）」"
-description: "SixTONES【ストチューブ】メガネ屋さんはどこ？で紹介されたその他「blinc base（ブリンクベース）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ】メガネ屋さんはどこ？で紹介されたothers「blinc base（ブリンクベース）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-blinc_base-"
 name: "blinc base（ブリンクベース）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山３丁目５−１６ １F"

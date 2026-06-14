@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「浅草つる次郎 HANARE」"
-description: "Snow ManのYouTubeで紹介されたもんじゃ「浅草つる次郎 HANARE」（東京都台東区）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「浅草つる次郎 HANARE」（東京都台東区）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-tsurujiro-asakusa"
 name: "浅草つる次郎 HANARE"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草1-36-2"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "川端ぜんざい広場"
-description: "Travis Japan 福岡旅 川端商店街で紹介されたカフェ「川端ぜんざい広場」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "Travis Japan 福岡旅 川端商店街で紹介されたcafe「川端ぜんざい広場」（福岡県福岡市）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-635fc6d4-"
 name: "川端ぜんざい広場"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "福岡県"
 city: "福岡市"
 address: "福岡県福岡市博多区上川端町10-256"

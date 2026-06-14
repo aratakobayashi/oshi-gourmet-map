@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「RINGO 東京ミッドタウン」"
-description: "嵐にしやがれで紹介されたスイーツ「RINGO 東京ミッドタウン」（東京都千代田区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「RINGO 東京ミッドタウン」（東京都千代田区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-ringo-20181027"
 name: "RINGO 東京ミッドタウン"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区有楽町1-1-2 東京ミッドタウン日比谷 B1F"

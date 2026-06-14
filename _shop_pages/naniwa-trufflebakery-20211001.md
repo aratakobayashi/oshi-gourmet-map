@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「TruffleBAKERY」"
-description: "なにわ男子が訪れたカフェ「TruffleBAKERY」（東京都江東区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子が訪れたcafe「TruffleBAKERY」（東京都江東区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-trufflebakery-20211001"
 name: "TruffleBAKERY"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区門前仲町1-15-2"

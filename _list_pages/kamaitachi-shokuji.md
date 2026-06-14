@@ -1,8 +1,8 @@
 ---
-title: "かまいたちが行った食事5選"
-description: "かまいたちが実際に訪れた食事スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "かまいたちが行ったshokuji5選"
+description: "かまいたちが実際に訪れたshokujiスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kamaitachi
-genre: 食事
+genre: shokuji
 group_label: "かまいたち"
 slug_id: kamaitachi-shokuji
 shop_count: 5

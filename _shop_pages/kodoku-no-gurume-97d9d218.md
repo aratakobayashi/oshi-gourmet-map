@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「味のレストラン えびすや 幸町店」"
-description: "孤独のグルメ Season7 第11話で紹介された食事「味のレストラン えびすや 幸町店」（千葉県千葉市）。食べログ3.61点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第11話で紹介されたshokuji「味のレストラン えびすや 幸町店」（千葉県千葉市）。食べログ3.61点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-97d9d218-"
 name: "味のレストラン えびすや 幸町店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "千葉市"
 address: "千葉県千葉市"

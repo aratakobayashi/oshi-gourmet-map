@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「黒太鼓 池袋店」"
-description: "めざましテレビ 2017.12.07で紹介された食事「黒太鼓 池袋店」（東京都豊島区）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介されたshokuji「黒太鼓 池袋店」（東京都豊島区）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-c9cb4f1d-"
 name: "黒太鼓 池袋店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区池袋"

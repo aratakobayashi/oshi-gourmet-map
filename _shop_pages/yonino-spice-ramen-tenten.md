@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「スパイスラーメン 点と線.」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「スパイスラーメン 点と線.」（東京都世田谷区）。食べログ3.57点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「スパイスラーメン 点と線.」（東京都世田谷区）。食べログ3.57点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spice-ramen-tenten"
 name: "スパイスラーメン 点と線."
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区北沢3-34-2"

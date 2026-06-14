@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「麺屋なごみ」"
-description: "嵐にしやがれで紹介されたラーメン「麺屋なごみ」（東京都葛飾区）。食べログ3.47点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたramen「麺屋なごみ」（東京都葛飾区）。食べログ3.47点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-3ddceee8-20190713"
 name: "麺屋なごみ"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "葛飾区"
 address: "東京都葛飾区青戸3-33-16"

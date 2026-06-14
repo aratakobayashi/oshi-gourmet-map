@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ENHYPENが行った「おにやんま 新橋店」"
-description: "ENHYPENで紹介されたその他「おにやんま 新橋店」（東京都港区）。食べログ3.71点、～￥999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「おにやんま 新橋店」（東京都港区）。食べログ3.71点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-255c5e9a-"
 name: "おにやんま 新橋店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋３丁目１６−２３"

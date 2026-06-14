@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「赤坂Tan伍」"
-description: "嵐にしやがれで紹介された食事「赤坂Tan伍」（東京都港区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「赤坂Tan伍」（東京都港区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-tan-20190803"
 name: "赤坂Tan伍"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂2-14-28 鳳月堂ビル 4F"

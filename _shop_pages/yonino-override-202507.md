@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「OVERRIDE 神宮前」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「OVERRIDE 神宮前」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「OVERRIDE 神宮前」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-override-202507"
 name: "OVERRIDE 神宮前"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前６丁目１８−１１明治ビルディング"

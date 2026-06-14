@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「銀座 六覺燈 麻布十番店」"
-description: "かまいたちのYouTubeで紹介された居酒屋「銀座 六覺燈 麻布十番店」（東京都港区）。食べログ3.36点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたizakaya「銀座 六覺燈 麻布十番店」（東京都港区）。食べログ3.36点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-097127ba-"
 name: "銀座 六覺燈 麻布十番店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布十番"

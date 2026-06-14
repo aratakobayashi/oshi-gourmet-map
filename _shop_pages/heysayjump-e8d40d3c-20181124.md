@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「近江屋長兵衛商店」"
-description: "2018.11.24 川越特集後編で紹介された食事「近江屋長兵衛商店」（埼玉県川越市）。食べログ3.54点。推し活グルメ巡礼スポット。"
+description: "2018.11.24 川越特集後編で紹介されたshokuji「近江屋長兵衛商店」（埼玉県川越市）。食べログ3.54点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-e8d40d3c-20181124"
 name: "近江屋長兵衛商店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市"

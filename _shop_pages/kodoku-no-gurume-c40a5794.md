@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「いづみ亭」"
-description: "孤独のグルメ Season10 第5話で紹介された食事「いづみ亭」（千葉県柏市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第5話で紹介されたshokuji「いづみ亭」（千葉県柏市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c40a5794-"
 name: "いづみ亭"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "柏市"
 address: "千葉県柏市"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「丸山珈琲 ハルニレテラス店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「丸山珈琲 ハルニレテラス店」（長野県北佐久郡軽井沢町）。食べログ3.38点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「丸山珈琲 ハルニレテラス店」（長野県北佐久郡軽井沢町）。食べログ3.38点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-maruyama-coffee-karuizawa"
 name: "丸山珈琲 ハルニレテラス店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "長野県"
 city: "北佐久郡軽井沢町"
 address: "長野県北佐久郡軽井沢町星野 ハルニレテラス"

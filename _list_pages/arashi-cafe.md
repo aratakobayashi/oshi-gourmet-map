@@ -1,8 +1,8 @@
 ---
-title: "arashiが行ったカフェ25選"
-description: "arashiのメンバーが実際に訪れたカフェスポットを25件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったcafe25選"
+description: "arashiのメンバーが実際に訪れたcafeスポットを25件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: カフェ
+genre: cafe
 group_label: "arashi"
 slug_id: arashi-cafe
 shop_count: 25

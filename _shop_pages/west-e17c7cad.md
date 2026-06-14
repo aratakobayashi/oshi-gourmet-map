@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "trefle"
-description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたスイーツ「trefle」（東京都）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたsweets「trefle」（東京都）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-e17c7cad"
 name: "trefle"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 address: "東京都新宿区四谷三栄町2-1 第一萬寿ビル1F"
 price_range: "￥1,000～￥1,999"

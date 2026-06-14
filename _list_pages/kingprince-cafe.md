@@ -1,8 +1,8 @@
 ---
-title: "King & Princeが行ったカフェ29選"
-description: "King & Princeのメンバーが実際に訪れたカフェスポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったcafe29選"
+description: "King & Princeのメンバーが実際に訪れたcafeスポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
-genre: カフェ
+genre: cafe
 group_label: "King & Prince"
 slug_id: kingprince-cafe
 shop_count: 29
@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 related_genres:
   - kingprince-others
   - kingprince-shokuji
-  - kingprince-izakaya
+  - kingprince-washoku
 related_groups:
   - naniwa-cafe
   - nogizaka46-cafe

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "MR.FRIENDLY Café"
-description: "ヒルナンデス！ WEST.出演回で紹介されたカフェ「MR.FRIENDLY Café」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス！ WEST.出演回で紹介されたcafe「MR.FRIENDLY Café」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-mr_friendly_cafe-"
 name: "MR.FRIENDLY Café"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西2-18-6"

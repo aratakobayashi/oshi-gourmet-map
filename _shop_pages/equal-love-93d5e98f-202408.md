@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「清水順正 おかべ家」"
-description: "=LOVEのYouTubeで紹介された和食「清水順正 おかべ家」（京都府京都市）。食べログ3.4点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「清水順正 おかべ家」（京都府京都市）。食べログ3.4点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-93d5e98f-202408"
 name: "清水順正 おかべ家"
-genre: "和食"
+genre: "washoku"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市東山区清水２丁目２３９"

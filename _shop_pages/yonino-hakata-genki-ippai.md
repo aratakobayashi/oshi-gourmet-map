@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多元気一杯!!」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「博多元気一杯!!」（福岡県福岡市博多区）。食べログ3.74点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「博多元気一杯!!」（福岡県福岡市博多区）。食べログ3.74点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hakata-genki-ippai"
 name: "博多元気一杯!!"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "福岡県"
 city: "福岡市博多区"
 address: "福岡県福岡市博多区下呉服町2-1"

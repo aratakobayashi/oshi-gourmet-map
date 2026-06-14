@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「社食堂」"
-description: "孤独のグルメ Season10 第2022話で紹介された食事「社食堂」（東京都渋谷区）。食べログ3.31点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「社食堂」（東京都渋谷区）。食べログ3.31点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4f784040-"
 name: "社食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"

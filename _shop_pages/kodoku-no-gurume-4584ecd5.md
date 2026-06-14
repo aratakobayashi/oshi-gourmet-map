@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「台湾ラーメン光陽」"
-description: "孤独のグルメ Season10 第2018話で紹介されたラーメン「台湾ラーメン光陽」（愛知県名古屋市）。食べログ3.53点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2018話で紹介されたramen「台湾ラーメン光陽」（愛知県名古屋市）。食べログ3.53点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4584ecd5-"
 name: "台湾ラーメン光陽"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Surabi 蒸し焼きおやつ 吉祥寺店」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたスイーツ「Surabi 蒸し焼きおやつ 吉祥寺店」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介されたsweets「Surabi 蒸し焼きおやつ 吉祥寺店」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-surabi-20250711"
 name: "Surabi 蒸し焼きおやつ 吉祥寺店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "武蔵野市"
 address: "東京都武蔵野市御殿山１丁目３−９ 御殿山フラット"

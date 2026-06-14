@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「やきとん長良」"
-description: "=LOVEのYouTubeで紹介された居酒屋「やきとん長良」（東京都杉並区）。食べログ3.27点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「やきとん長良」（東京都杉並区）。食べログ3.27点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-bd15bb1d-202412"
 name: "やきとん長良"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区高円寺南３丁目５８−１８ 山本ビル 1F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ShinShin 住吉店"
-description: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜で紹介されたラーメン「ShinShin 住吉店」（福岡県）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜で紹介されたramen「ShinShin 住吉店」（福岡県）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-shinshin-"
 name: "ShinShin 住吉店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "福岡県"
 price_range: "～￥999"
 source_video_title: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜"

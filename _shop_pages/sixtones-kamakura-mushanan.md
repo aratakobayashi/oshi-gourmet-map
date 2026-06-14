@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「鎌倉 無（むしゃ）」"
-description: "SixTONESのYouTubeで紹介された和食「鎌倉 無（むしゃ）」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「鎌倉 無（むしゃ）」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kamakura-mushanan"
 name: "鎌倉 無（むしゃ）"
-genre: "和食"
+genre: "washoku"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市"

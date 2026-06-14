@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「くわっち〜家」"
-description: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖縄料理屋さん＆神社はどこ？いつ？で紹介されたその他「くわっち〜家」（東京都中央区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖縄料理屋さん＆神社はどこ？いつ？で紹介されたothers「くわっち〜家」（東京都中央区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-4e7115c9-"
 name: "くわっち〜家"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋堀留町1-10-1カクタビル1F"

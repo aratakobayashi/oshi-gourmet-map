@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「おみやげ処 九州屋」"
-description: "=LOVEのYouTubeで紹介された食事「おみやげ処 九州屋」（広島県廿日市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「おみやげ処 九州屋」（広島県廿日市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-f56c9fad-20250915"
 name: "おみやげ処 九州屋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "広島県"
 city: "廿日市"
 address: "広島県廿日市市宮島町浜之町８４０−１"

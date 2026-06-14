@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「万座オーシャンパーク」"
-description: "【キントレ 沖縄 ロケ地】海上アスレチック・古着屋はどこ？で紹介されたその他「万座オーシャンパーク」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
+description: "【キントレ 沖縄 ロケ地】海上アスレチック・古着屋はどこ？で紹介されたothers「万座オーシャンパーク」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-c0125e1d-"
 name: "万座オーシャンパーク"
-genre: "その他"
+genre: "others"
 prefecture: "沖縄県"
 city: "国頭郡恩納村"
 address: "沖縄県国頭郡恩納村瀬良垣２２６０"

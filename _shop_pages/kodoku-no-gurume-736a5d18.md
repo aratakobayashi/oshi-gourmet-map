@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「川栄」"
-description: "孤独のグルメ Season3 第1話で紹介された食事「川栄」（東京都北区）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第1話で紹介されたshokuji「川栄」（東京都北区）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-736a5d18-"
 name: "川栄"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "北区"
 address: "東京都北区"

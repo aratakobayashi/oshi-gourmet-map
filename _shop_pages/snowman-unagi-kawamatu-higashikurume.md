@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "Snow ManのYouTubeで紹介された和食「うなぎ川松」（東京都東久留米市）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "東久留米市"
 address: "東京都台東区浅草1丁目4-1"

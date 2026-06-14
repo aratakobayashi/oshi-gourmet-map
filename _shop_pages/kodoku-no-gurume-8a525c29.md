@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ヒロキ 下北沢店」"
-description: "孤独のグルメ Season1 第9話で紹介されたもんじゃ「ヒロキ 下北沢店」（東京都世田谷区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第9話で紹介されたwashoku「ヒロキ 下北沢店」（東京都世田谷区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8a525c29-"
 name: "ヒロキ 下北沢店"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区"

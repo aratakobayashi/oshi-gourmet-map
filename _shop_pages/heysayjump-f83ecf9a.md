@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「七色手毬唄」"
-description: "めざましテレビ 2017.12.07で紹介された食事「七色手毬唄」（東京都新宿区）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介されたshokuji「七色手毬唄」（東京都新宿区）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-f83ecf9a-"
 name: "七色手毬唄"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区"

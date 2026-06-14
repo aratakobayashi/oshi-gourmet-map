@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「dancyu食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「dancyu食堂」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「dancyu食堂」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区丸の内1-9-1 グランスタ八重北1F"

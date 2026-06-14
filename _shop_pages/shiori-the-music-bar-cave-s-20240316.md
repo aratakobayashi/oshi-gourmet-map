@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "しおりが行った「THE MUSIC BAR CAVE SHIBUYA」"
-description: "しおりのYouTubeで紹介された居酒屋「THE MUSIC BAR CAVE SHIBUYA」（東京都渋谷区）。食べログ3.44点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「THE MUSIC BAR CAVE SHIBUYA」（東京都渋谷区）。食べログ3.44点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-the_music_bar_cave_s-20240316"
 name: "THE MUSIC BAR CAVE SHIBUYA"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区渋谷1-15-12 LAIDOUT B1F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「甘辛や」"
-description: "孤独のグルメ Season6 第1話で紹介されたもんじゃ「甘辛や」（大阪府）。食べログ3.44点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第1話で紹介されたwashoku「甘辛や」（大阪府）。食べログ3.44点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-51019084-"
 name: "甘辛や"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "大阪府"
 address: "大阪府美章園"
 nearest_station: "美章園駅"

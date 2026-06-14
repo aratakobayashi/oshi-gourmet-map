@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「山本商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたその他「山本商店」（東京都中央区）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたothers「山本商店」（東京都中央区）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-e60bfe3c-"
 name: "山本商店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地4丁目10番8号"

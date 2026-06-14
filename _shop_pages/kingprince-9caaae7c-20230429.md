@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「桂屋」"
-description: "King&Princeる。当たり前レストランで紹介された食事「桂屋」（東京都中野区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「桂屋」（東京都中野区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区本町6-21-16 セントラルフィールド 1F"

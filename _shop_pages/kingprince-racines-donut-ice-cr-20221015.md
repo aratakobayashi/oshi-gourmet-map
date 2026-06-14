@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「RACINES DONUT&ICE CREAM」"
-description: "King&Princeる。当たり前レストランで紹介されたカフェ「RACINES DONUT&ICE CREAM」（東京都港区）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたcafe「RACINES DONUT&ICE CREAM」（東京都港区）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-racines_donut_ice_cr-20221015"
 name: "RACINES DONUT&ICE CREAM"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山3丁目4−3"

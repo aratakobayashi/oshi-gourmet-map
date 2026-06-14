@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「恵比寿 焼肉 うしみつ」"
-description: "SixTONESのYouTubeで紹介された焼肉「恵比寿 焼肉 うしみつ」（東京都渋谷区）。食べログ3.58点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたyakiniku「恵比寿 焼肉 うしみつ」（東京都渋谷区）。食べログ3.58点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ushimitsu-ebisu"
 name: "恵比寿 焼肉 うしみつ"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿"

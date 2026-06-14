@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「ハグフラワー ヨコハマ（h.u.g-frower）」"
-description: "嵐にしやがれで紹介されたスイーツ「ハグフラワー ヨコハマ（h.u.g-frower）」（神奈川県横浜市）。食べログ3.46点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「ハグフラワー ヨコハマ（h.u.g-frower）」（神奈川県横浜市）。食べログ3.46点。推し活グルメ巡礼スポット。"
 shop_id: "arashi-h_u_g_frower-20200404"
 name: "ハグフラワー ヨコハマ（h.u.g-frower）"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区海岸通1-1 横浜貿易協会ビル 1F"

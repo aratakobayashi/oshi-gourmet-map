@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bellas Cupcakes」"
-description: "【だが、情熱はある】髙橋海人誕生日お祝いのカップケーキはどこの？で紹介されたその他「Bellas Cupcakes」（東京都港区）。食べログ3.18点、～￥999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はある】髙橋海人誕生日お祝いのカップケーキはどこの？で紹介されたothers「Bellas Cupcakes」（東京都港区）。食べログ3.18点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bellas_cupcakes-"
 name: "Bellas Cupcakes"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区高輪2-1-6"

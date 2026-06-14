@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Peter Luger Steak House Tokyo」"
-description: "【日曜劇場 リブート ロケ地】ステーキレストランはどこ？よにのちゃんねると同じ？で紹介されたその他「Peter Luger Steak House Tokyo」（東京都渋谷区）。食べログ3.77点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "【日曜劇場 リブート ロケ地】ステーキレストランはどこ？よにのちゃんねると同じ？で紹介されたothers「Peter Luger Steak House Tokyo」（東京都渋谷区）。食べログ3.77点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-peter_luger_steak_ho-"
 name: "Peter Luger Steak House Tokyo"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿4-19-19"

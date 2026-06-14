@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カフェーマル」"
-description: "羽根の記憶MVで紹介されたカフェ「カフェーマル」（神奈川県）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "羽根の記憶MVで紹介されたcafe「カフェーマル」（神奈川県）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-afaa6230-"
 name: "カフェーマル"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "神奈川県"
 address: "江の島１丁目６−５"
 price_range: "￥1,000～￥1,999"

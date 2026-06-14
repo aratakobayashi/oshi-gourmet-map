@@ -1,8 +1,8 @@
 ---
-title: "westが行ったカフェ19選"
-description: "westのメンバーが実際に訪れたカフェスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "westが行ったcafe19選"
+description: "westのメンバーが実際に訪れたcafeスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
-genre: カフェ
+genre: cafe
 group_label: "west"
 slug_id: west-cafe
 shop_count: 19

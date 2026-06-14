@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「阿佐ヶ谷バードランド」"
-description: "Snow ManのYouTubeで紹介された居酒屋「阿佐ヶ谷バードランド」（東京都杉並区）。食べログ3.57点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたizakaya「阿佐ヶ谷バードランド」（東京都杉並区）。食べログ3.57点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-asagaya-birdland"
 name: "阿佐ヶ谷バードランド"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区阿佐谷南3-37-9 バール・アサガヤ1F"

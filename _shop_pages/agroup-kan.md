@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "角打ち KAN（カン）"
-description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介された居酒屋「角打ち KAN（カン）」（東京都港区）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介されたizakaya「角打ち KAN（カン）」（東京都港区）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-kan-"
 name: "角打ち KAN（カン）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区虎ノ門2-6-3 虎ノ門ヒルズステーションタワー B2F T-MARKET"

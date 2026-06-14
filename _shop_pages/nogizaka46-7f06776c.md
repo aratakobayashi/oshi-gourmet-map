@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ともや鎌倉小町店」"
-description: "乃木坂工事中で紹介されたその他「ともや鎌倉小町店」（神奈川県鎌倉市）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「ともや鎌倉小町店」（神奈川県鎌倉市）。食べログ3.37点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-7f06776c-"
 name: "ともや鎌倉小町店"
-genre: "その他"
+genre: "others"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "鎌倉市小町2-12-27"

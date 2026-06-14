@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「中華料理 十八番」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「中華料理 十八番」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたchuka「中華料理 十八番」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区内神田2-6-6"

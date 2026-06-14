@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "大新園"
-description: "westが訪れた中華「大新園」（神奈川県）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたchuka「大新園」（神奈川県）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "cdeb9df5"
 name: "大新園"
-genre: "中華"
+genre: "chuka"
 prefecture: "神奈川県"
 address: "神奈川県横浜市中区山下町"
 nearest_station: "元町・中華街"

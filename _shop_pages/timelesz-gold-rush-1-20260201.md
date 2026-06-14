@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「GOLD RUSH 池袋1号店」"
-description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたハンバーグ・ステーキ「GOLD RUSH 池袋1号店」（東京都豊島区）。食べログ3.06点。推し活グルメ巡礼スポット。"
+description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたshokuji「GOLD RUSH 池袋1号店」（東京都豊島区）。食べログ3.06点。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-gold_rush_1-20260201"
 name: "GOLD RUSH 池袋1号店"
-genre: "ハンバーグ・ステーキ"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区東池袋1-22-5 サンケエビル B1F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ICARO miyamoto」"
-description: "King&Princeる。当たり前レストランで紹介された食事「ICARO miyamoto」（東京都目黒区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「ICARO miyamoto」（東京都目黒区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-icaro_miyamoto-20220903"
 name: "ICARO miyamoto"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒2-44-24 ＣＯＭＳ中目黒　4Ｆ"

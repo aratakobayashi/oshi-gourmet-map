@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "珈琲亭 ルアン"
-description: "喫茶と濵田。#004で紹介されたカフェ「珈琲亭 ルアン」（東京都大田区）。食べログ3.7点。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#004で紹介されたcafe「珈琲亭 ルアン」（東京都大田区）。食べログ3.7点。推し活グルメ巡礼スポット。"
 shop_id: "west-91ed6f5c-"
 name: "珈琲亭 ルアン"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区大森北1-36-2"

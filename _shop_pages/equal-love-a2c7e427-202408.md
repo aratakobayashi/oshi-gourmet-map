@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「華正樓 本店」"
-description: "=LOVEのYouTubeで紹介された食事「華正樓 本店」（神奈川県横浜市）。食べログ3.59点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「華正樓 本店」（神奈川県横浜市）。食べログ3.59点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a2c7e427-202408"
 name: "華正樓 本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町１８６"

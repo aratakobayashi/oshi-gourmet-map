@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "カフェ NO4"
-description: "KinKi Kidsのブンブブーン 市ヶ谷 カフェ＆ベーカリーで紹介されたカフェ「カフェ NO4」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 市ヶ谷 カフェ＆ベーカリーで紹介されたcafe「カフェ NO4」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-no4-"
 name: "カフェ NO4"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区四番町5-9"

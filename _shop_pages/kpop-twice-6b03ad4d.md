@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "トーホーベーカリー"
-description: "TWICEで紹介されたその他「トーホーベーカリー」（東京都三鷹市）。食べログ3.62点、～￥999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「トーホーベーカリー」（東京都三鷹市）。食べログ3.62点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-6b03ad4d-"
 name: "トーホーベーカリー"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "三鷹市"
 address: "東京都三鷹市下連雀１丁目９−１９"

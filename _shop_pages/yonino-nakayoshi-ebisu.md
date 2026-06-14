@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「土鍋炊ごはん なかよし 本店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nakayoshi-ebisu"
 name: "土鍋炊ごはん なかよし 本店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1-8-2"

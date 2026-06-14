@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「SHOGUN BURGER」"
-description: "寺西拓人 ハンバーガーまとめで紹介された焼肉「SHOGUN BURGER」（東京都）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "寺西拓人 ハンバーガーまとめで紹介されたyakiniku「SHOGUN BURGER」（東京都）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-shogun_burger-"
 name: "SHOGUN BURGER"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 nearest_station: "新宿駅 徒歩4分"
 price_range: "￥1,000～￥1,999"

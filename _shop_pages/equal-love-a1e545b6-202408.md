@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転わんこそば くるくるわんこ」"
-description: "=LOVEのYouTubeで紹介された和食「回転わんこそば くるくるわんこ」（東京都新宿区）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「回転わんこそば くるくるわんこ」（東京都新宿区）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a1e545b6-202408"
 name: "回転わんこそば くるくるわんこ"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町１丁目２２−９ 9, J・Gold Build., 5F J・ゴールドビル 5階"

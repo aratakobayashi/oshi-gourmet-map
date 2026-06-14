@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「とんかつ とみ家」"
-description: "SixTONESのYouTubeで紹介された和食「とんかつ とみ家」（東京都台東区）。食べログ3.55点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「とんかつ とみ家」（東京都台東区）。食べログ3.55点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-tomiya-asakusa"
 name: "とんかつ とみ家"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草"

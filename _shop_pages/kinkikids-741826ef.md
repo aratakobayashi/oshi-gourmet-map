@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "魚力 奥渋谷店"
-description: "KinKi Kidsのブンブブーン 2024.01.06 奥渋谷で紹介された食事「魚力 奥渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 2024.01.06 奥渋谷で紹介されたshokuji「魚力 奥渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-741826ef-"
 name: "魚力 奥渋谷店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町"

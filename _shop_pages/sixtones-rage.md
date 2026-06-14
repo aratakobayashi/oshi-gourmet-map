@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「麺尊 RAGE 麻布台ヒルズ」"
-description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介されたその他「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介されたothers「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-rage-"
 name: "麺尊 RAGE 麻布台ヒルズ"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区虎ノ門5-10-7 麻布台ヒルズガーデンプラザD B1F"

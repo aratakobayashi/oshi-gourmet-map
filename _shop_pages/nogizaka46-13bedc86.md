@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「朝日屋」"
-description: "乃木坂工事中で紹介されたカレー「朝日屋」（東京都渋谷区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたshokuji「朝日屋」（東京都渋谷区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13bedc86-"
 name: "朝日屋"
-genre: "カレー"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区西原3-25-4"

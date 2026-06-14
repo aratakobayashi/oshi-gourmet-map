@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA CAFE」"
-description: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめで紹介された食事「GINZA CAFE」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめで紹介されたshokuji「GINZA CAFE」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza_cafe-20260328"
 name: "GINZA CAFE"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座1-6-11 土志田ビルB1"

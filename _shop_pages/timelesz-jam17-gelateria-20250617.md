@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「JAM17 GELATERIA」"
-description: "timeleszの時間ですよ（2025年6月17日）で紹介されたジェラート・アイスクリーム「JAM17 GELATERIA」（東京都新宿区）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
+description: "timeleszの時間ですよ（2025年6月17日）で紹介されたsweets「JAM17 GELATERIA」（東京都新宿区）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-jam17_gelateria-20250617"
 name: "JAM17 GELATERIA"
-genre: "ジェラート・アイスクリーム"
+genre: "sweets"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町1-29-1 東急歌舞伎町タワー17F"

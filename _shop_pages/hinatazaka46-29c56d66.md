@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "日向坂46が行った「ル・ポミエ」"
-description: "日向坂で会いましょうで紹介されたスイーツ「ル・ポミエ」（東京都）。食べログ3.54点、～￥999。推し活グルメ巡礼スポット。"
+description: "日向坂で会いましょうで紹介されたsweets「ル・ポミエ」（東京都）。食べログ3.54点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-29c56d66-"
 name: "ル・ポミエ"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 price_range: "～￥999"
 source_video_title: "日向坂で会いましょう"

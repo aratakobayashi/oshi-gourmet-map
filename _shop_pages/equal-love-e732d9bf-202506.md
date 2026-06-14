@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「パスティス広尾ハウス」"
-description: "=LOVEのYouTubeで紹介されたカフェ「パスティス広尾ハウス」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「パスティス広尾ハウス」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-e732d9bf-202506"
 name: "パスティス広尾ハウス"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区広尾２丁目６−１９"

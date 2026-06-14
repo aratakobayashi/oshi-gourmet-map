@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「UCHOUTEN」"
-description: "嵐にしやがれで紹介されたその他「UCHOUTEN」（東京都豊島区）。食べログ3.65点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「UCHOUTEN」（東京都豊島区）。食べログ3.65点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-uchouten-"
 name: "UCHOUTEN"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区南池袋2丁目36−10"

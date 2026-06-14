@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「ステーキハウス RIBERA 目黒店」"
-description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介された焼肉「ステーキハウス RIBERA 目黒店」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介されたyakiniku「ステーキハウス RIBERA 目黒店」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ribera-"
 name: "ステーキハウス RIBERA 目黒店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区下目黒6-17-20"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮曇（うきぐもり）」"
-description: "SixTONESのYouTubeで紹介された居酒屋「浮曇（うきぐもり）」（群馬県渋川市）。食べログ3.31点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「浮曇（うきぐもり）」（群馬県渋川市）。食べログ3.31点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "群馬県"
 city: "渋川市"
 address: "群馬県渋川市伊香保町伊香保（石段街付近）"

@@ -1,8 +1,8 @@
 ---
-title: "Snow Manが行ったカフェ5選"
-description: "Snow Manのメンバーが実際に訪れたカフェスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Snow Manが行ったcafe5選"
+description: "Snow Manのメンバーが実際に訪れたcafeスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
-genre: カフェ
+genre: cafe
 group_label: "Snow Man"
 slug_id: snowman-cafe
 shop_count: 5

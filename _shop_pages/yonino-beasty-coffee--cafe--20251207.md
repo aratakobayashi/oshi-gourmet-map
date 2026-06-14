@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Beasty Coffee [ cafe laboratory ]」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-beasty_coffee__cafe_-20251207"
 name: "Beasty Coffee [ cafe laboratory ]"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区富ケ谷１丁目１９−３"

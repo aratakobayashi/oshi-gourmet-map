@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「PAPAS CAFE」"
-description: "【だが、情熱はあるロケ地】若林（髙橋海人）がお弁当を売っていたカフェはどこ？で紹介されたカフェ「PAPAS CAFE」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】若林（髙橋海人）がお弁当を売っていたカフェはどこ？で紹介されたcafe「PAPAS CAFE」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-papas_cafe-"
 name: "PAPAS CAFE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区広尾2-1-17"

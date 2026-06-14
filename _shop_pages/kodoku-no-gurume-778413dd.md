@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ライカノ」"
-description: "孤独のグルメ Season2 第11話で紹介された食事「ライカノ」（東京都足立区）。食べログ3.5点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第11話で紹介されたshokuji「ライカノ」（東京都足立区）。食べログ3.5点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-778413dd-"
 name: "ライカノ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "足立区"
 address: "東京都足立区"

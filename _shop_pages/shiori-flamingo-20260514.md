@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "しおりが行った「Flamingo 恵比寿」"
-description: "しおりのYouTubeで紹介された居酒屋「Flamingo 恵比寿」（東京都渋谷区）。食べログ3.44点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「Flamingo 恵比寿」（東京都渋谷区）。食べログ3.44点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-flamingo-20260514"
 name: "Flamingo 恵比寿"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿南1-2-8 雨宮ビル1F"

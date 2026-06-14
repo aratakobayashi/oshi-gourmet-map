@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「CABE（チャベ）」"
-description: "King&Princeる。当たり前レストランで紹介された居酒屋「CABE（チャベ）」（東京都品川区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたizakaya「CABE（チャベ）」（東京都品川区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cabe-20221015"
 name: "CABE（チャベ）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区上大崎3丁目5−4 第1 田中ビル 2F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「割烹ちゃんこ 大内」"
-description: "孤独のグルメ Season2 第8話で紹介された和食「割烹ちゃんこ 大内」（東京都墨田区）。食べログ3.35点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第8話で紹介されたwashoku「割烹ちゃんこ 大内」（東京都墨田区）。食べログ3.35点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6d621f1f-"
 name: "割烹ちゃんこ 大内"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区"

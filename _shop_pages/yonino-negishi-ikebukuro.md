@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ねぎし 池袋サンシャイン前店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「ねぎし 池袋サンシャイン前店」（東京都豊島区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「ねぎし 池袋サンシャイン前店」（東京都豊島区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negishi-ikebukuro"
 name: "ねぎし 池袋サンシャイン前店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区東池袋1-29-4 成田ビルB1"

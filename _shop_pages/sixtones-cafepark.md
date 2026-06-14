@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「CAFE PARK」"
-description: "SixTONES - お洒落カフェでトークで紹介されたカフェ「CAFE PARK」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "SixTONES - お洒落カフェでトークで紹介されたcafe「CAFE PARK」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafepark"
 name: "CAFE PARK"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1-21-15"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「ーンズ事前インタビューのカフェ 渋谷『factory』」"
-description: "【トークィーンズ】渡辺翔太インタビューのカフェは渋谷factory｜SnowManロケ地で紹介されたカフェ「ーンズ事前インタビューのカフェ 渋谷『factory』」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【トークィーンズ】渡辺翔太インタビューのカフェは渋谷factory｜SnowManロケ地で紹介されたcafe「ーンズ事前インタビューのカフェ 渋谷『factory』」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-factory-20251209"
 name: "ーンズ事前インタビューのカフェ 渋谷『factory』"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区渋谷2-8-7 青山宮野ビル1F"

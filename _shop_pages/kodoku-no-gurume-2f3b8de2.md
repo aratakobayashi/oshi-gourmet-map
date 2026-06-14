@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「薬膳スープカレー・シャナイア」"
-description: "孤独のグルメ Season6 第3話で紹介された食事「薬膳スープカレー・シャナイア」（東京都目黒区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第3話で紹介されたshokuji「薬膳スープカレー・シャナイア」（東京都目黒区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2f3b8de2-"
 name: "薬膳スープカレー・シャナイア"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区"

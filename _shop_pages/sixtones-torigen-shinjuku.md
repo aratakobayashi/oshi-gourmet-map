@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥元 新宿西口店」"
-description: "SixTONESのYouTubeで紹介された居酒屋「鳥元 新宿西口店」（東京都新宿区）。食べログ3.19点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「鳥元 新宿西口店」（東京都新宿区）。食べログ3.19点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿1-5-11"

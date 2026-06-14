@@ -1,8 +1,8 @@
 ---
-title: "arashiが行った中華6選"
-description: "arashiのメンバーが実際に訪れた中華スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったchuka6選"
+description: "arashiのメンバーが実際に訪れたchukaスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: 中華
+genre: chuka
 group_label: "arashi"
 slug_id: arashi-chuka
 shop_count: 6

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「手作りアイス 花茶」"
-description: "孤独のグルメ Season10 第2022話で紹介されたスイーツ「手作りアイス 花茶」（北海道千歳市）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたsweets「手作りアイス 花茶」（北海道千歳市）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-69029c00-"
 name: "手作りアイス 花茶"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "北海道"
 city: "千歳市"
 address: "北海道千歳市"

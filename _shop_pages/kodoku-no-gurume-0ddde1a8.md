@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「レストラン バイキング」"
-description: "孤独のグルメ Season10 第11話で紹介された食事「レストラン バイキング」（千葉県旭市）。食べログ3.37点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第11話で紹介されたshokuji「レストラン バイキング」（千葉県旭市）。食べログ3.37点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0ddde1a8-"
 name: "レストラン バイキング"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "旭市"
 address: "千葉県旭市"

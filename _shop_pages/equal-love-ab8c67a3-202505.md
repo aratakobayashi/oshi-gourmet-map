@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「信州そば処 やまへい 軽井沢店」"
-description: "=LOVEのYouTubeで紹介された和食「信州そば処 やまへい 軽井沢店」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「信州そば処 やまへい 軽井沢店」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-ab8c67a3-202505"
 name: "信州そば処 やまへい 軽井沢店"
-genre: "和食"
+genre: "washoku"
 prefecture: "長野県"
 city: "北佐久郡軽井沢町"
 address: "長野県北佐久郡軽井沢町軽井沢軽井沢・プリンスショッピングプラザニューウエスト"

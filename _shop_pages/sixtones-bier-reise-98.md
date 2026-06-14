@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「BIER REISE ’98」"
-description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたその他「BIER REISE ’98」（東京都港区）。食べログ3.65点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたothers「BIER REISE ’98」（東京都港区）。食べログ3.65点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-bier_reise_98-"
 name: "BIER REISE ’98"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋2-3-4 新橋パークビル1F"

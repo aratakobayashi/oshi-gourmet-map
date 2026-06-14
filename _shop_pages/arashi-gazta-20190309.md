@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「GAZTA」"
-description: "嵐にしやがれで紹介されたスイーツ「GAZTA」（東京都港区）。食べログ3.84点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「GAZTA」（東京都港区）。食べログ3.84点。推し活グルメ巡礼スポット。"
 shop_id: "arashi-gazta-20190309"
 name: "GAZTA"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区白金1-14-10 1F"

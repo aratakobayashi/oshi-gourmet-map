@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「洋麺屋五右衛門 赤坂店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「洋麺屋五右衛門 赤坂店」（東京都港区）。食べログ3.23点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「洋麺屋五右衛門 赤坂店」（東京都港区）。食べログ3.23点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-goemon-akasaka"
 name: "洋麺屋五右衛門 赤坂店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂5-1-4 赤坂いそむらビル1F"

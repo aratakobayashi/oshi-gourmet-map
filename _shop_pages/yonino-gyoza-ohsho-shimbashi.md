@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「餃子の王将 新橋駅前店」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「餃子の王将 新橋駅前店」（東京都港区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたchuka「餃子の王将 新橋駅前店」（東京都港区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-gyoza-ohsho-shimbashi"
 name: "餃子の王将 新橋駅前店"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋2-20-15 新橋駅前ビル1号館1F"

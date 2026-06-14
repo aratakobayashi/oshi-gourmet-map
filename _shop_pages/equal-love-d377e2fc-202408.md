@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤鬼」"
-description: "=LOVEのYouTubeで紹介された居酒屋「赤鬼」（福島県いわき市）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「赤鬼」（福島県いわき市）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-d377e2fc-202408"
 name: "赤鬼"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "福島県"
 city: "いわき市"
 address: "福島県いわき市平白銀町３−１"

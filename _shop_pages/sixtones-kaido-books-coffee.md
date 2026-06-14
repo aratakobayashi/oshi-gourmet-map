@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「KAIDO books&coffee」"
-description: "【だが、情熱はあるロケ地】森本慎太郎が生スコーンの差し入れを購入したカフェはどこ？で紹介されたカフェ「KAIDO books&coffee」（東京都品川区）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】森本慎太郎が生スコーンの差し入れを購入したカフェはどこ？で紹介されたcafe「KAIDO books&coffee」（東京都品川区）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kaido_books_coffee-"
 name: "KAIDO books&coffee"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区北品川2-3-7 丸屋ビル 1F"

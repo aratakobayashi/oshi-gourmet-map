@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「こ寿々本店」"
-description: "地球が丸いならMVで紹介されたその他「こ寿々本店」（神奈川県鎌倉市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "地球が丸いならMVで紹介されたothers「こ寿々本店」（神奈川県鎌倉市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-b222ed3c-"
 name: "こ寿々本店"
-genre: "その他"
+genre: "others"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "鎌倉市小町2-13-4"

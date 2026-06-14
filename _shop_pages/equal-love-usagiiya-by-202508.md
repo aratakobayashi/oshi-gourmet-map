@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「usagiiya by源楽」"
-description: "=LOVEのYouTubeで紹介された食事「usagiiya by源楽」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「usagiiya by源楽」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-usagiiya_by-202508"
 name: "usagiiya by源楽"
-genre: "食事"
+genre: "shokuji"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市田原本町３−１０"

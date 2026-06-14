@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「タコライスcafe きじむなぁ デポアイランド店」"
-description: "≠MEのYouTubeで紹介されたカフェ「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたcafe「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "notme-cafe-202411"
 name: "タコライスcafe きじむなぁ デポアイランド店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "沖縄県"
 city: "中頭郡北谷町"
 address: "沖縄県中頭郡北谷町美浜９−１ デポアイランドビルC棟 2F"

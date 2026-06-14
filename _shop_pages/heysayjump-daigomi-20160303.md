@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「DAIGOMI」"
-description: "2016.03.03 体を温める食べ物実験で紹介された食事「DAIGOMI」（東京都豊島区）。食べログ3.34点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2016.03.03 体を温める食べ物実験で紹介されたshokuji「DAIGOMI」（東京都豊島区）。食べログ3.34点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-daigomi-20160303"
 name: "DAIGOMI"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区池袋1-1-7 第2伊三美ビルB1"

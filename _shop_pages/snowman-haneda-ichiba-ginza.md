@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「羽田市場 GINZA SEVEN」"
-description: "Snow ManのYouTubeで紹介された寿司「羽田市場 GINZA SEVEN」（東京都中央区）。食べログ3.43点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「羽田市場 GINZA SEVEN」（東京都中央区）。食べログ3.43点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座7-14-15 杉山ビルB1F"

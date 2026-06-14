@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「Pacific DRIVE-IN」"
-description: "=LOVEのYouTubeで紹介された食事「Pacific DRIVE-IN」（神奈川県鎌倉市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Pacific DRIVE-IN」（神奈川県鎌倉市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市七里ガ浜東２丁目１−１２"

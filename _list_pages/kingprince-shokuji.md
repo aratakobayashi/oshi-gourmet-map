@@ -1,8 +1,8 @@
 ---
-title: "King & Princeが行った食事29選"
-description: "King & Princeのメンバーが実際に訪れた食事スポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったshokuji29選"
+description: "King & Princeのメンバーが実際に訪れたshokujiスポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
-genre: 食事
+genre: shokuji
 group_label: "King & Prince"
 slug_id: kingprince-shokuji
 shop_count: 29
@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 related_genres:
   - kingprince-others
   - kingprince-cafe
-  - kingprince-izakaya
+  - kingprince-washoku
 related_groups:
   - arashi-shokuji
   - kodoku-no-gurume-shokuji

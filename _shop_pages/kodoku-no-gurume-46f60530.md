@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「栗原軒」"
-description: "孤独のグルメ Season10 第2019話で紹介された和食「栗原軒」（千葉県成田市）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「栗原軒」（千葉県成田市）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-46f60530-"
 name: "栗原軒"
-genre: "和食"
+genre: "washoku"
 prefecture: "千葉県"
 city: "成田市"
 address: "千葉県成田市"

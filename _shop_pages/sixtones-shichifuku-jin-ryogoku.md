@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「ちゃんこ 霧島」"
-description: "SixTONES【両国ちゃんこ回】で紹介された和食「ちゃんこ 霧島」（東京都墨田区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【両国ちゃんこ回】で紹介されたwashoku「ちゃんこ 霧島」（東京都墨田区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-shichifuku-jin-ryogoku"
 name: "ちゃんこ 霧島"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区両国"

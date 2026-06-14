@@ -1,8 +1,8 @@
 ---
-title: "SixTONESが行った居酒屋6選"
-description: "SixTONESのメンバーが実際に訪れた居酒屋スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行ったizakaya6選"
+description: "SixTONESのメンバーが実際に訪れたizakayaスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
-genre: 居酒屋
+genre: izakaya
 group_label: "SixTONES"
 slug_id: sixtones-izakaya
 shop_count: 6
@@ -11,8 +11,8 @@ group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性
 youtube_id: 1enHsuNGPMQ
 related_genres:
   - sixtones-others
-  - sixtones-cafe
   - sixtones-washoku
+  - sixtones-cafe
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya

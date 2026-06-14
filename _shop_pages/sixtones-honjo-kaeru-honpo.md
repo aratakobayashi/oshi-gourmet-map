@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「本所かえる本舗」"
-description: "SixTONESのYouTubeで紹介されたもんじゃ「本所かえる本舗」（東京都墨田区）。食べログ3.04点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「本所かえる本舗」（東京都墨田区）。食べログ3.04点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区亀沢1-8-6 堀江ビル1F"

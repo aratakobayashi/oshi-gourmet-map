@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「SOOKDAL 新大久保店」"
-description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたその他「SOOKDAL 新大久保店」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたothers「SOOKDAL 新大久保店」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sookdal-"
 name: "SOOKDAL 新大久保店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町2-1-1 K-PLAZA 1F"

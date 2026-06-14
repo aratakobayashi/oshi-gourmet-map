@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「東陽町 大衆焼肉 暴飲暴食」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「東陽町 大衆焼肉 暴飲暴食」（東京都江東区）。食べログ3.61点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「東陽町 大衆焼肉 暴飲暴食」（東京都江東区）。食べログ3.61点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-bouinboshoku"
 name: "東陽町 大衆焼肉 暴飲暴食"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区東陽3-24-19"

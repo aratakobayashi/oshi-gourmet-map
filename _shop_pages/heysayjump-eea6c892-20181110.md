@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「松本醤油商店」"
-description: "2018.11.10 川越特集で紹介されたその他「松本醤油商店」（埼玉県川越市）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "2018.11.10 川越特集で紹介されたothers「松本醤油商店」（埼玉県川越市）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-eea6c892-20181110"
 name: "松本醤油商店"
-genre: "その他"
+genre: "others"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市"

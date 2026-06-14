@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Beschle」"
-description: "亀梨和也のYouTubeで紹介された居酒屋「Beschle」。食べログ3.32点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたizakaya「Beschle」。食べログ3.32点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-beschle-20241116"
 name: "Beschle"
-genre: "居酒屋"
+genre: "izakaya"
 address: "Clarastrasse 4, 4058 Basel, スイス"
 nearest_station: "JR山手線 有楽町駅 徒歩6分"
 price_range: "￥10,000～￥14,999"

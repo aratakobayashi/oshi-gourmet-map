@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「PIZZA SLICE （ピザスライス）」"
-description: "西園寺さんは家事をしない【松村北斗 ロケ地】ピザ屋さんはどこ？ピザスライス？SixTONES生配信でも！？で紹介された食事「PIZZA SLICE （ピザスライス）」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "西園寺さんは家事をしない【松村北斗 ロケ地】ピザ屋さんはどこ？ピザスライス？SixTONES生配信でも！？で紹介されたshokuji「PIZZA SLICE （ピザスライス）」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-pizza_slice-20230501"
 name: "PIZZA SLICE （ピザスライス）"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区猿楽町1-3 代官山上新ビル 1F"

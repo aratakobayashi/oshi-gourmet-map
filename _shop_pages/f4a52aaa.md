@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "白鳳"
-description: "westが訪れた中華「白鳳」（神奈川県）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたchuka「白鳳」（神奈川県）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "f4a52aaa"
 name: "白鳳"
-genre: "中華"
+genre: "chuka"
 prefecture: "神奈川県"
 address: "神奈川県横浜市中区山下町"
 nearest_station: "元町・中華街"

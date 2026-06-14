@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「焼肉ふじ」"
-description: "孤独のグルメ Season9 第5話で紹介された焼肉「焼肉ふじ」（静岡県伊東市）。食べログ3.63点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第5話で紹介されたyakiniku「焼肉ふじ」（静岡県伊東市）。食べログ3.63点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-7e51bfa4-"
 name: "焼肉ふじ"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "静岡県"
 city: "伊東市"
 address: "静岡県伊東市"

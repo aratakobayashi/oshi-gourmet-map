@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草もんじゃ てっぱん大吉」"
-description: "よにのちゃんねるのYouTubeで紹介されたもんじゃ「浅草もんじゃ てっぱん大吉」（東京都台東区）。食べログ3.32点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草もんじゃ てっぱん大吉」（東京都台東区）。食べログ3.32点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teppan-daikichi"
 name: "浅草もんじゃ てっぱん大吉"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草1-14-2"

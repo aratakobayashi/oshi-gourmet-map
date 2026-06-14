@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「舞木ドライブイン」"
-description: "孤独のグルメ Season9 第9話で紹介された焼肉「舞木ドライブイン」（福島県郡山市）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第9話で紹介されたyakiniku「舞木ドライブイン」（福島県郡山市）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b849d4a4-"
 name: "舞木ドライブイン"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "福島県"
 city: "郡山市"
 address: "福島県郡山市"

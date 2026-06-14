@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「SANRIO CAFE 池袋店」"
-description: "≠MEのYouTubeで紹介されたカフェ「SANRIO CAFE 池袋店」（東京都豊島区）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたcafe「SANRIO CAFE 池袋店」（東京都豊島区）。食べログ3.35点。推し活グルメ巡礼スポット。"
 shop_id: "notme-sanrio_cafe-202408"
 name: "SANRIO CAFE 池袋店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区東池袋１丁目２８−１ サンシャインシティアルパ B1F"

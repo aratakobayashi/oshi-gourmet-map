@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Captain’s Grill and Bar」"
-description: "Snow ManのYouTubeで紹介された食事「Captain’s Grill and Bar」（神奈川県川崎市）。食べログ3.36点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Captain’s Grill and Bar」（神奈川県川崎市）。食べログ3.36点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-captains_grill_and_b-20250429"
 name: "Captain’s Grill and Bar"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市川崎区殿町3-25-11"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「le coup de foudre」"
-description: "なにわ男子のどっち派 (2025-11-07)で紹介された食事「le coup de foudre」（栃木県日光市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-11-07)で紹介されたshokuji「le coup de foudre」（栃木県日光市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-le_coup_de_foudre-20251107"
 name: "le coup de foudre"
-genre: "食事"
+genre: "shokuji"
 prefecture: "栃木県"
 city: "日光市"
 address: "栃木県日光市今市412-1"

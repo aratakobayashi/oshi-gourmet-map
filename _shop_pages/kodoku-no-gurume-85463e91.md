@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「マイハウス」"
-description: "孤独のグルメ Season10 第2023話で紹介された焼肉「マイハウス」（沖縄県宜野湾市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介されたyakiniku「マイハウス」（沖縄県宜野湾市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-85463e91-"
 name: "マイハウス"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "沖縄県"
 city: "宜野湾市"
 address: "沖縄県宜野湾市"

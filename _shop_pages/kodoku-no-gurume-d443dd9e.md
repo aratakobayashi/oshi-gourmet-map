@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「餃子菜苑」"
-description: "孤独のグルメ Season10 第2020話で紹介された焼肉「餃子菜苑」（埼玉県秩父市）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2020話で紹介されたyakiniku「餃子菜苑」（埼玉県秩父市）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d443dd9e-"
 name: "餃子菜苑"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "埼玉県"
 city: "秩父市"
 address: "埼玉県秩父市"

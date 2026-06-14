@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「宮わき」"
-description: "timeleszファミリア 究極グルメ 団結か裏切りか？（2026年1月12日 日テレ系）で紹介された日本料理「宮わき」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "timeleszファミリア 究極グルメ 団結か裏切りか？（2026年1月12日 日テレ系）で紹介されたwashoku「宮わき」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-ea0acb9b-20260112"
 name: "宮わき"
-genre: "日本料理"
+genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区三田1-3-28"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「粥菜坊」"
-description: "孤独のグルメ Season10 第10話で紹介された食事「粥菜坊」（神奈川県川崎市）。食べログ3.68点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第10話で紹介されたshokuji「粥菜坊」（神奈川県川崎市）。食べログ3.68点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2fa4ed63-"
 name: "粥菜坊"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市"

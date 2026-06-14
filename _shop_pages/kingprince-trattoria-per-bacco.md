@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」"
-description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介された食事「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。食べログ3.56点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介されたshokuji「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。食べログ3.56点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-trattoria_per_bacco-"
 name: "TRATTORIA PER BACCO（トラットリア ペルバッコ ）"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区南青山1-11-25"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Pacific PICKLE CLUB」"
-description: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地で紹介されたその他「Pacific PICKLE CLUB」（東京都江東区）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地で紹介されたothers「Pacific PICKLE CLUB」（東京都江東区）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-pacific_pickle_club-"
 name: "Pacific PICKLE CLUB"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区有明１丁目１３−７ livedoor URBAN SPORTS PARK (有明アーバンスポーツパーク) 内"

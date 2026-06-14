@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PARK STORE」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「PARK STORE」（東京都世田谷区）。食べログ3.5点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「PARK STORE」（東京都世田谷区）。食べログ3.5点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-park_store-20250411"
 name: "PARK STORE"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区池尻１丁目７−２"

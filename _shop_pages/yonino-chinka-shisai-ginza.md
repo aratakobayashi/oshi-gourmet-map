@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「陳家私菜 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「陳家私菜 銀座店」（東京都千代田区）。食べログ3.35点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたchuka「陳家私菜 銀座店」（東京都千代田区）。食べログ3.35点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chinka-shisai-ginza"
 name: "陳家私菜 銀座店"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区内幸町1-7 日比谷グルメゾン1F"

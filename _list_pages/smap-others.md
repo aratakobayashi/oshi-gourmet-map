@@ -1,8 +1,8 @@
 ---
-title: "smapが行ったその他9選"
-description: "smapのメンバーが実際に訪れたその他スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "smapが行ったothers9選"
+description: "smapのメンバーが実際に訪れたothersスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: smap
-genre: その他
+genre: others
 group_label: "smap"
 slug_id: smap-others
 shop_count: 9

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「いちごBonBonBERRY ATAMI HOUSE.」"
-description: "なにわ男子のどっち派 (2026-03-27)で紹介されたカフェ「いちごBonBonBERRY ATAMI HOUSE.」（静岡県熱海市）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-27)で紹介されたcafe「いちごBonBonBERRY ATAMI HOUSE.」（静岡県熱海市）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-bonbonberry_atami_ho-20260327"
 name: "いちごBonBonBERRY ATAMI HOUSE."
-genre: "カフェ"
+genre: "cafe"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市田原本町3-16"

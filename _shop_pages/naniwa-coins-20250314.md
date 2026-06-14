@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「COINS 原宿本店　スリコオニギリ」"
-description: "なにわ男子のどっち派 (2025-03-14)で紹介された食事「COINS 原宿本店　スリコオニギリ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-14)で紹介されたshokuji「COINS 原宿本店　スリコオニギリ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-coins-20250314"
 name: "COINS 原宿本店　スリコオニギリ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前６丁目１２−２２ 秋田ビル １階"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「フルーツサンド屋SUN」"
-description: "そこ曲がったら、櫻坂？で紹介されたその他「フルーツサンド屋SUN」（東京都台東区）。食べログ3.09点。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたothers「フルーツサンド屋SUN」（東京都台東区）。食べログ3.09点。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-sun-20210718"
 name: "フルーツサンド屋SUN"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区駒形2-1-8 初音ビル 1F"

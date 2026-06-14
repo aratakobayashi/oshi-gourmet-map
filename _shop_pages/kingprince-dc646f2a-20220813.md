@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「沖縄懐石　赤坂潭亭」"
-description: "King&Princeる。当たり前レストランで紹介された食事「沖縄懐石　赤坂潭亭」（東京都港区）。食べログ3.38点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「沖縄懐石　赤坂潭亭」（東京都港区）。食べログ3.38点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-dc646f2a-20220813"
 name: "沖縄懐石　赤坂潭亭"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂6-16-11 浜ビル 1F"

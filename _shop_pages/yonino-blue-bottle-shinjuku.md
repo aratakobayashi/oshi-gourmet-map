@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ブルーボトルコーヒー 新宿カフェ」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「ブルーボトルコーヒー 新宿カフェ」（東京都新宿区）。食べログ3.28点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「ブルーボトルコーヒー 新宿カフェ」（東京都新宿区）。食べログ3.28点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-bottle-shinjuku"
 name: "ブルーボトルコーヒー 新宿カフェ"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿3-38-1 ルミネエスト新宿B1F"

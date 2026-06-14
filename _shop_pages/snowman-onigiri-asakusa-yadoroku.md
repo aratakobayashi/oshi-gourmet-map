@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「おにぎり浅草宿六」"
-description: "Snow ManのYouTubeで紹介された和食「おにぎり浅草宿六」（東京都台東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「おにぎり浅草宿六」（東京都台東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-onigiri-asakusa-yadoroku"
 name: "おにぎり浅草宿六"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草3-9-10 キャピタルプラザ浅草1F"

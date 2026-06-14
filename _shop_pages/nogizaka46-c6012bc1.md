@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「菊地商店」"
-description: "17thインフルエンサーType-Aで紹介された食事「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Aで紹介されたshokuji「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c6012bc1-"
 name: "菊地商店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区南大井4-14-19"

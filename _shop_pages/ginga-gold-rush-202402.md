@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「GOLD RUSH(ゴールドラッシュ)」"
-description: "銀河チャンネルで紹介された食事「GOLD RUSH(ゴールドラッシュ)」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "銀河チャンネルで紹介されたshokuji「GOLD RUSH(ゴールドラッシュ)」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
 shop_id: "ginga-gold_rush-202402"
 name: "GOLD RUSH(ゴールドラッシュ)"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町２丁目３７−３丸友ビル６F"

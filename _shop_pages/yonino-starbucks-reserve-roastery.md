@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STARBUCKS RESERVE ROASTERY TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STARBUCKS RESERVE ROASTERY TOKYO」（東京都目黒区）。食べログ3.7点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「STARBUCKS RESERVE ROASTERY TOKYO」（東京都目黒区）。食べログ3.7点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-starbucks-reserve-roastery"
 name: "STARBUCKS RESERVE ROASTERY TOKYO"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区青葉台2-19-23"

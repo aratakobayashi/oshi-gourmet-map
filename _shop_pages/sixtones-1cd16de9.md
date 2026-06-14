@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮雲」"
-description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介されたその他「浮雲」（群馬県渋川市）。食べログ3.3点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介されたothers「浮雲」（群馬県渋川市）。食べログ3.3点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-1cd16de9-"
 name: "浮雲"
-genre: "その他"
+genre: "others"
 prefecture: "群馬県"
 city: "渋川市"
 address: "群馬県渋川市伊香保町伊香保61-6"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「串焼げん 江戸川橋店」"
-description: "Snow ManのYouTubeで紹介された居酒屋「串焼げん 江戸川橋店」（東京都文京区）。食べログ3.24点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたizakaya「串焼げん 江戸川橋店」（東京都文京区）。食べログ3.24点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kushigen-edogawabashi"
 name: "串焼げん 江戸川橋店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区関口1丁目"

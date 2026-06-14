@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「築地場外市場」"
-description: "SixTONES【帰ってきたアポなし旅】（2023/10/06配信）で紹介されたその他「築地場外市場」（東京都中央区）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "SixTONES【帰ってきたアポなし旅】（2023/10/06配信）で紹介されたothers「築地場外市場」（東京都中央区）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a8a4e092-"
 name: "築地場外市場"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "中央区"
 address: "〒104-0045 東京都中央区築地４丁目１６−２"

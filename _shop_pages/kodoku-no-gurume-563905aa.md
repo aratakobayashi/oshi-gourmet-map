@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「えんむすび」"
-description: "孤独のグルメ Season9 第8話で紹介された食事「えんむすび」（群馬県高崎市）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第8話で紹介されたshokuji「えんむすび」（群馬県高崎市）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-563905aa-"
 name: "えんむすび"
-genre: "食事"
+genre: "shokuji"
 prefecture: "群馬県"
 city: "高崎市"
 address: "群馬県高崎市"

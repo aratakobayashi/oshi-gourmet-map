@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「WOLFMAN JINGUMAE」"
-description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたその他「WOLFMAN JINGUMAE」（東京都渋谷区）。食べログ3.0点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたothers「WOLFMAN JINGUMAE」（東京都渋谷区）。食べログ3.0点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-wolfman_jingumae-"
 name: "WOLFMAN JINGUMAE"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前3-27-23 Uビルディング 1F"

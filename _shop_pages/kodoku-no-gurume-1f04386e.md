@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「종점숯불갈비」"
-description: "孤独のグルメ Season7 第10話で紹介された食事「종점숯불갈비」（韓国ソウル特別市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第10話で紹介されたshokuji「종점숯불갈비」（韓国ソウル特別市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1f04386e-"
 name: "종점숯불갈비"
-genre: "食事"
+genre: "shokuji"
 prefecture: "韓国"
 city: "ソウル特別市"
 address: "韓国ソウル特別市龍山区蔵文路112"

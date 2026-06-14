@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "RIIZEが行った「つけ麺屋やすべぇ 赤坂店」"
-description: "RIIZEで紹介されたその他「つけ麺屋やすべぇ 赤坂店」（東京都港区）。食べログ3.31点、～￥999。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたothers「つけ麺屋やすべぇ 赤坂店」（東京都港区）。食べログ3.31点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-63290a18-"
 name: "つけ麺屋やすべぇ 赤坂店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂６丁目３−１９"

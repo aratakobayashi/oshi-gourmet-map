@@ -1,8 +1,8 @@
 ---
-title: "SixTONESが行ったカフェ20選"
-description: "SixTONESのメンバーが実際に訪れたカフェスポットを20件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行ったcafe20選"
+description: "SixTONESのメンバーが実際に訪れたcafeスポットを20件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
-genre: カフェ
+genre: cafe
 group_label: "SixTONES"
 slug_id: sixtones-cafe
 shop_count: 20

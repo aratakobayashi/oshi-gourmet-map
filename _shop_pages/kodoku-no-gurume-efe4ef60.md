@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みたけ食堂」"
-description: "孤独のグルメ Season10 第24話で紹介された食事「みたけ食堂」（東京都足立区）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「みたけ食堂」（東京都足立区）。食べログ3.35点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-efe4ef60-"
 name: "みたけ食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "足立区"
 address: "東京都足立区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「お肴野郎 清介」"
-description: "=LOVEのYouTubeで紹介された居酒屋「お肴野郎 清介」（静岡県熱海市）。食べログ3.39点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「お肴野郎 清介」（静岡県熱海市）。食べログ3.39点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-246f9b6d-202509"
 name: "お肴野郎 清介"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市銀座町８−９"

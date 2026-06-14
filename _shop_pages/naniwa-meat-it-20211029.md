@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「焼肉Meat it」"
-description: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明で紹介された焼肉「焼肉Meat it」（東京都町田市）。食べログ3.4点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明で紹介されたyakiniku「焼肉Meat it」（東京都町田市）。食べログ3.4点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-meat_it-20211029"
 name: "焼肉Meat it"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "町田市"
 address: "東京都町田市原町田6-19-15 大星ビル 2F"

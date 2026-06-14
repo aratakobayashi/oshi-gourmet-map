@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つるや」"
-description: "孤独のグルメ Season1 第8話で紹介された焼肉「つるや」（神奈川県川崎市）。食べログ3.65点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第8話で紹介されたyakiniku「つるや」（神奈川県川崎市）。食べログ3.65点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市"

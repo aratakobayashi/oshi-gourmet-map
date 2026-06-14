@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「鮨文」"
-description: "よにのちゃんねるのYouTubeで紹介された寿司「鮨文」（東京都江東区）。食べログ3.4点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「鮨文」（東京都江東区）。食べログ3.4点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sushi-bun"
 name: "鮨文"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区豊洲6丁目 豊洲市場仲卸売場棟3F"

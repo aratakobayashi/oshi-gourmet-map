@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Le Rhin Bleu」"
-description: "亀梨和也のYouTubeで紹介された食事「Le Rhin Bleu」。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたshokuji「Le Rhin Bleu」。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
-genre: "食事"
+genre: "shokuji"
 address: "St. Alban-Rheinweg 195, 4052 Basel, スイス"
 nearest_station: "Marktplatz駅 徒歩4分"
 visited_date: "2024-11-16"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「浅草 花月堂」"
-description: "乃木坂46 浅草食べ歩きVlogで紹介されたスイーツ「浅草 花月堂」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
+description: "乃木坂46 浅草食べ歩きVlogで紹介されたsweets「浅草 花月堂」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-hanagetsudo"
 name: "浅草 花月堂"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草2-7-13"

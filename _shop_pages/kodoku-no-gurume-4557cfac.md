@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山源」"
-description: "孤独のグルメ Season3 第6話で紹介された焼肉「山源」（東京都板橋区）。食べログ3.54点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第6話で紹介されたyakiniku「山源」（東京都板橋区）。食べログ3.54点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "板橋区"
 address: "東京都板橋区"

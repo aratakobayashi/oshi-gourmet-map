@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「GEBURA」"
-description: "=LOVEのYouTubeで紹介されたカフェ「GEBURA」（広島県廿日市）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「GEBURA」（広島県廿日市）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "広島県"
 city: "廿日市"
 address: "広島県廿日市市宮島町５２８−３"

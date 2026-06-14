@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "馬料理 天國本店"
-description: "GO!GO!!キスマイクマモトオオイタ 馬刺しで紹介された食事「馬料理 天國本店」（熊本県熊本市）。推し活グルメ巡礼スポット。"
+description: "GO!GO!!キスマイクマモトオオイタ 馬刺しで紹介されたshokuji「馬料理 天國本店」（熊本県熊本市）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-390d86fc-"
 name: "馬料理 天國本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "熊本県"
 city: "熊本市"
 address: "熊本県熊本市西区二本木2-13-12"

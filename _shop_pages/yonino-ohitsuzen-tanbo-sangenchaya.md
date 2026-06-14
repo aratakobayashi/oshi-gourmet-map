@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「おひつ膳 田んぼ」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「おひつ膳 田んぼ」（東京都世田谷区）。食べログ3.5点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「おひつ膳 田んぼ」（東京都世田谷区）。食べログ3.5点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ohitsuzen-tanbo-sangenchaya"
 name: "おひつ膳 田んぼ"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区三軒茶屋"

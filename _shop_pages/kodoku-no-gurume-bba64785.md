@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キャラヴァンサライ包」"
-description: "孤独のグルメ Season3 第5話で紹介された和食「キャラヴァンサライ包」（東京都中野区）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第5話で紹介されたwashoku「キャラヴァンサライ包」（東京都中野区）。食べログ3.59点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-bba64785-"
 name: "キャラヴァンサライ包"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区"

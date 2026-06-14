@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「JUNKY SPECIAL」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「JUNKY SPECIAL」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「JUNKY SPECIAL」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-junky_special-20250813"
 name: "JUNKY SPECIAL"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町２丁目４６−５ＫＭ新宿ビル１F"

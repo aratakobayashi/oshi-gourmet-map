@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Homer（ホーマー）」"
-description: "Snow ManのYouTubeで紹介された食事「Homer（ホーマー）」（東京都小金井市）。食べログ3.47点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Homer（ホーマー）」（東京都小金井市）。食べログ3.47点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-homer-20250211"
 name: "Homer（ホーマー）"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "小金井市"
 address: "東京都小金井市前原町5-8-26"

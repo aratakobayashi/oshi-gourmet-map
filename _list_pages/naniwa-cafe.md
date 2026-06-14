@@ -1,8 +1,8 @@
 ---
-title: "なにわ男子が行ったカフェ38選"
-description: "なにわ男子のメンバーが実際に訪れたカフェスポットを38件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子が行ったcafe38選"
+description: "なにわ男子のメンバーが実際に訪れたcafeスポットを38件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
-genre: カフェ
+genre: cafe
 group_label: "なにわ男子"
 slug_id: naniwa-cafe
 shop_count: 38

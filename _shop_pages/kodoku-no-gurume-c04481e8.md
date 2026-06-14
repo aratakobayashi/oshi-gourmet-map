@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「松下製麺所」"
-description: "孤独のグルメ Season10 第2017話で紹介されたラーメン「松下製麺所」（香川県高松市）。食べログ3.75点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたramen「松下製麺所」（香川県高松市）。食べログ3.75点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c04481e8-"
 name: "松下製麺所"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "香川県"
 city: "高松市"
 address: "香川県高松市"

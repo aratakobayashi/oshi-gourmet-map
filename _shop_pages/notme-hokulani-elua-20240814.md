@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「HOKULANI elua」"
-description: "≠MEのYouTubeで紹介された食事「HOKULANI elua」（千葉県いすみ市）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたshokuji「HOKULANI elua」（千葉県いすみ市）。推し活グルメ巡礼スポット。"
 shop_id: "notme-hokulani_elua-20240814"
 name: "HOKULANI elua"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "いすみ市"
 address: "千葉県いすみ市岬町和泉３３４－３"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「チョルドゥンノム」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介された食事「チョルドゥンノム」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたshokuji「チョルドゥンノム」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b9d2eaed-"
 name: "チョルドゥンノム"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区大久保"

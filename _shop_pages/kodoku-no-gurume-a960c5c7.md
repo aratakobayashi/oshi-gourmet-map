@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「蔡菜食堂」"
-description: "孤独のグルメ Season10 第2017話で紹介された焼肉「蔡菜食堂」（東京都中野区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたyakiniku「蔡菜食堂」（東京都中野区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a960c5c7-"
 name: "蔡菜食堂"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区"

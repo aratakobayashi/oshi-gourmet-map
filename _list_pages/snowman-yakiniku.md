@@ -1,8 +1,8 @@
 ---
-title: "Snow Manが行った焼肉5選"
-description: "Snow Manのメンバーが実際に訪れた焼肉スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Snow Manが行ったyakiniku5選"
+description: "Snow Manのメンバーが実際に訪れたyakinikuスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
-genre: 焼肉
+genre: yakiniku
 group_label: "Snow Man"
 slug_id: snowman-yakiniku
 shop_count: 5

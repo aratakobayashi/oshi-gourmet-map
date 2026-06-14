@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「丸亀製麺 立川店」"
-description: "【キントレバイトレ】髙橋海人の丸亀製麺はどこ？で紹介されたその他「丸亀製麺 立川店」（東京都立川市）。食べログ3.1点、～￥999。推し活グルメ巡礼スポット。"
+description: "【キントレバイトレ】髙橋海人の丸亀製麺はどこ？で紹介されたothers「丸亀製麺 立川店」（東京都立川市）。食べログ3.1点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-28f5d80f-"
 name: "丸亀製麺 立川店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "立川市"
 address: "東京都立川市栄町3-5-1"

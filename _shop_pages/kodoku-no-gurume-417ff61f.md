@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「吉美焼肉店」"
-description: "孤独のグルメ Season10 第2024話で紹介された焼肉「吉美焼肉店」（長野県飯田市）。食べログ3.03点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2024話で紹介されたyakiniku「吉美焼肉店」（長野県飯田市）。食べログ3.03点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-417ff61f-"
 name: "吉美焼肉店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "長野県"
 city: "飯田市"
 address: "長野県飯田市"

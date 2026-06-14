@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bricolage bread ＆ co.」"
-description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたその他「Bricolage bread ＆ co.」（東京都港区）。食べログ3.72点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたothers「Bricolage bread ＆ co.」（東京都港区）。食べログ3.72点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bricolage_bread_co-"
 name: "Bricolage bread ＆ co."
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木6-15-1 六本木ヒルズ けやき坂テラス 1F"

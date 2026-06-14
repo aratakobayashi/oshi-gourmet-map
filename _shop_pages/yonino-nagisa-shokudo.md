@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「なぎさ食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「なぎさ食堂」（東京都千代田区）。食べログ3.33点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「なぎさ食堂」（東京都千代田区）。食べログ3.33点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田三崎町2-16-4"

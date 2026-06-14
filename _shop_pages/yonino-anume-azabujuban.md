@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「干物割烹 あん梅」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「干物割烹 あん梅」（東京都港区）。食べログ3.48点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「干物割烹 あん梅」（東京都港区）。食べログ3.48点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-anume-azabujuban"
 name: "干物割烹 あん梅"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布十番2-19-2"

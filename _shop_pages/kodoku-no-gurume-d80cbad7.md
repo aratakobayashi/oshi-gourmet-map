@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「華王飯店」"
-description: "孤独のグルメ Season10 第2025話で紹介されたラーメン「華王飯店」（千葉県旭市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2025話で紹介されたramen「華王飯店」（千葉県旭市）。食べログ3.24点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d80cbad7-"
 name: "華王飯店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "千葉県"
 city: "旭市"
 address: "千葉県旭市"

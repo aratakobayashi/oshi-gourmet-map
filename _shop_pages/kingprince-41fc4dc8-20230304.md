@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ブラッスリー ポール・ボキューズ 銀座」"
-description: "King&Princeる。当たり前レストランで紹介された食事「ブラッスリー ポール・ボキューズ 銀座」（東京都中央区）。食べログ3.53点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「ブラッスリー ポール・ボキューズ 銀座」（東京都中央区）。食べログ3.53点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-41fc4dc8-20230304"
 name: "ブラッスリー ポール・ボキューズ 銀座"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F"

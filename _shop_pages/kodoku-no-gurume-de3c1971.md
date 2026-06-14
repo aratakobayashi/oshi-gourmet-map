@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「旬菜魚 いなだ」"
-description: "孤独のグルメ Season8 第10話で紹介された和食「旬菜魚 いなだ」（東京都世田谷区）。食べログ3.47点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第10話で紹介されたwashoku「旬菜魚 いなだ」（東京都世田谷区）。食べログ3.47点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-de3c1971-"
 name: "旬菜魚 いなだ"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区"

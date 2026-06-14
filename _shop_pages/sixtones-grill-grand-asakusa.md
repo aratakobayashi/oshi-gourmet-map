@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「グリルグランド」"
-description: "SixTONESのYouTubeで紹介された食事「グリルグランド」（東京都台東区）。食べログ3.72点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたshokuji「グリルグランド」（東京都台東区）。食べログ3.72点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-grill-grand-asakusa"
 name: "グリルグランド"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草"

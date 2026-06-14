@@ -1,8 +1,8 @@
 ---
-title: "Snow Manが行った食事80選"
-description: "Snow Manのメンバーが実際に訪れた食事スポットを80件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Snow Manが行ったshokuji80選"
+description: "Snow Manのメンバーが実際に訪れたshokujiスポットを80件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
-genre: 食事
+genre: shokuji
 group_label: "Snow Man"
 slug_id: snowman-shokuji
 shop_count: 80
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - arashi-shokuji
   - kodoku-no-gurume-shokuji
-  - equal-love-shokuji
+  - west-shokuji
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「難忘米粉湯」"
-description: "孤独のグルメ Season10 第2023話で紹介された食事「難忘米粉湯」。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介されたshokuji「難忘米粉湯」。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-570120e2-"
 name: "難忘米粉湯"
-genre: "食事"
+genre: "shokuji"
 address: "台湾台北市"
 nearest_station: "野々市駅 徒歩13分"
 source_video_title: "孤独のグルメ Season10 第2023話"

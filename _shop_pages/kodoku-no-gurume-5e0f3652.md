@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まちのパーラー」"
-description: "孤独のグルメ Season3 第9話で紹介された食事「まちのパーラー」（東京都練馬区）。食べログ3.79点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第9話で紹介されたshokuji「まちのパーラー」（東京都練馬区）。食べログ3.79点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5e0f3652-"
 name: "まちのパーラー"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "練馬区"
 address: "東京都練馬区"

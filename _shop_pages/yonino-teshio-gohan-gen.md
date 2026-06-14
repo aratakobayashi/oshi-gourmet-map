@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「手しおごはん 玄 新宿南口店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「手しおごはん 玄 新宿南口店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区代々木2-23-1 ニューステイトメナー1F"

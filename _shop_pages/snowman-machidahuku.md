@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都町田市）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Rapace」（東京都町田市）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "町田市"
 address: "東京都町田市原町田１丁目１０−１７ メゾンドA2"

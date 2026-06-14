@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「居酒屋まめぞ」"
-description: "孤独のグルメ Season4 第7話で紹介された居酒屋「居酒屋まめぞ」（東京都台東区）。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第7話で紹介されたizakaya「居酒屋まめぞ」（東京都台東区）。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9353d2c4-"
 name: "居酒屋まめぞ"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「山小屋酒場ふもと」"
-description: "timeleszの時間ですよ（2025年6月17日）高円寺ロケで紹介された居酒屋「山小屋酒場ふもと」（東京都杉並区）。食べログ3.29点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "timeleszの時間ですよ（2025年6月17日）高円寺ロケで紹介されたizakaya「山小屋酒場ふもと」（東京都杉並区）。食べログ3.29点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-a8cdf34b-20250617"
 name: "山小屋酒場ふもと"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "〒166-0002 東京都杉並区高円寺北3-21-1"

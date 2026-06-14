@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「やなかしっぽや」"
-description: "乃木坂配信中　さくさんぽで紹介されたその他「やなかしっぽや」。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中　さくさんぽで紹介されたothers「やなかしっぽや」。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5b302f5e-"
 name: "やなかしっぽや"
-genre: "その他"
+genre: "others"
 address: "台東区谷中３丁目１１−１２"
 nearest_station: "千駄木駅 徒歩4分"
 price_range: "～￥999"

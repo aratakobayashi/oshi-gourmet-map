@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」"
-description: "京本会のBBQのお店はどこ？【トラジャ×SixTONES（ストチューブ）YouTubeロケ地】で紹介された焼肉「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」（東京都港区）。食べログ3.08点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "京本会のBBQのお店はどこ？【トラジャ×SixTONES（ストチューブ）YouTubeロケ地】で紹介されたyakiniku「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」（東京都港区）。食べログ3.08点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-the_roof_bbq_garden-"
 name: "THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山3-12-12 HOLON 屋上 R"

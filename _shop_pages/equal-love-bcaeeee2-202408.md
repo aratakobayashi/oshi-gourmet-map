@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「新三浦 博多本店」"
-description: "=LOVEのYouTubeで紹介された中華「新三浦 博多本店」（福岡県福岡市）。食べログ3.56点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたchuka「新三浦 博多本店」（福岡県福岡市）。食べログ3.56点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-bcaeeee2-202408"
 name: "新三浦 博多本店"
-genre: "中華"
+genre: "chuka"
 prefecture: "福岡県"
 city: "福岡市"
 address: "福岡県福岡市博多区石城町２１−１２"

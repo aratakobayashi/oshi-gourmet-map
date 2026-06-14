@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「コンマ コーヒー」"
-description: "孤独のグルメ Season8 第4話で紹介されたラーメン「コンマ コーヒー」（埼玉県新座市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第4話で紹介されたramen「コンマ コーヒー」（埼玉県新座市）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-265d5f69-"
 name: "コンマ コーヒー"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "埼玉県"
 city: "新座市"
 address: "埼玉県新座市"

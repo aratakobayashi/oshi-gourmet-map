@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「もつ焼のんき」"
-description: "かまいたちのYouTubeで紹介された居酒屋「もつ焼のんき」（東京都墨田区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたizakaya「もつ焼のんき」（東京都墨田区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-380c2d89-"
 name: "もつ焼のんき"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区錦糸3丁目"

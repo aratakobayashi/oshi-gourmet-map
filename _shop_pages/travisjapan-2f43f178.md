@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "博多だるま 総本店"
-description: "Travis Japan 福岡旅で紹介されたラーメン「博多だるま 総本店」（福岡県福岡市）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "Travis Japan 福岡旅で紹介されたramen「博多だるま 総本店」（福岡県福岡市）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-2f43f178-"
 name: "博多だるま 総本店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "福岡県"
 city: "福岡市"
 address: "福岡県福岡市中央区渡辺通1-8-25"

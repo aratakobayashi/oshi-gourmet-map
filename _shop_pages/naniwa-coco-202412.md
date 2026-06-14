@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CoCo壱番屋 中目黒山手通店」"
-description: "なにわ男子のYouTubeで紹介されたカレー「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。食べログ3.06点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介されたshokuji「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。食べログ3.06点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-coco-202412"
 name: "CoCo壱番屋 中目黒山手通店"
-genre: "カレー"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒３丁目１４−５シャンブル上目黒"

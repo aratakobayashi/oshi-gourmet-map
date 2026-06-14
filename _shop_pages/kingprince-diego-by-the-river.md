@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」"
-description: "あの頃からわたしたちは【髙橋海人ロケ地】湘南ダンサー同窓会のお店はどこ？で紹介された居酒屋「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」（神奈川県藤沢市）。食べログ3.44点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "あの頃からわたしたちは【髙橋海人ロケ地】湘南ダンサー同窓会のお店はどこ？で紹介されたizakaya「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」（神奈川県藤沢市）。食べログ3.44点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-diego_by_the_river-"
 name: "DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "神奈川県"
 city: "藤沢市"
 address: "神奈川県藤沢市片瀬海岸1-13-8"

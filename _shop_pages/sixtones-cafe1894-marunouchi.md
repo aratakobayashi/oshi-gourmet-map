@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Café 1894」"
-description: "SixTONESが訪れたカフェ「Café 1894」（東京都千代田区）。食べログ3.64点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたcafe「Café 1894」（東京都千代田区）。食べログ3.64点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe1894-marunouchi"
 name: "Café 1894"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区丸の内2-6-2 三菱一号館美術館内"

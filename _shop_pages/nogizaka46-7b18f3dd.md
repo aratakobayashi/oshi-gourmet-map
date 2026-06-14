@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「丸デブ 総本店」"
-description: "丸デブ 総本店で紹介されたラーメン「丸デブ 総本店」（岐阜県岐阜市）。食べログ3.61点。推し活グルメ巡礼スポット。"
+description: "丸デブ 総本店で紹介されたramen「丸デブ 総本店」（岐阜県岐阜市）。食べログ3.61点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-7b18f3dd-"
 name: "丸デブ 総本店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "岐阜県"
 city: "岐阜市"
 address: "岐阜県岐阜市日ノ出町3-1"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "そばうさ"
-description: "KinKi Kidsのブンブブーン 麹町ロケで紹介されたラーメン「そばうさ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 麹町ロケで紹介されたwashoku「そばうさ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-3f4fe099-"
 name: "そばうさ"
-genre: "ラーメン"
+genre: "washoku"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区麹町2-5-2"

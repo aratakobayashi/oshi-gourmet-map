@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≒JOYが行った「喜久屋」"
-description: "≒JOYのYouTubeで紹介された食事「喜久屋」（東京都台東区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたshokuji「喜久屋」（東京都台東区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-ea607bdf-202408"
 name: "喜久屋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草１丁目２０−１"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「喜三郎農場」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「喜三郎農場」（東京都文京区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「喜三郎農場」（東京都文京区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kisaburo-farm"
 name: "喜三郎農場"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区千石1-23-11"

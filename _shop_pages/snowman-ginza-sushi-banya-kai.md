@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
-description: "Snow ManのYouTubeで紹介された寿司「GINZA SUSHI BANYA KAI」（東京都中央区）。食べログ3.51点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「GINZA SUSHI BANYA KAI」（東京都中央区）。食べログ3.51点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座1丁目5-10 銀座ファーストファイブビル 4F"

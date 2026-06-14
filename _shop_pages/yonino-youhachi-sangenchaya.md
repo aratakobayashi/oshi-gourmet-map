@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ジンギスカン羊はち 三軒茶屋店」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。食べログ3.59点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。食べログ3.59点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-youhachi-sangenchaya"
 name: "ジンギスカン羊はち 三軒茶屋店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区三軒茶屋2-14-1 三茶ダイニングビル1F"

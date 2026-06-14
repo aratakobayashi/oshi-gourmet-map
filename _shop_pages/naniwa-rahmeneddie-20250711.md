@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「RahmenEddie」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたラーメン「RahmenEddie」（東京都新宿区）。食べログ3.64点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介されたramen「RahmenEddie」（東京都新宿区）。食べログ3.64点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-rahmeneddie-20250711"
 name: "RahmenEddie"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿1-11-7"

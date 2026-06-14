@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まーさん」"
-description: "孤独のグルメ Season5 第7話で紹介された食事「まーさん」（東京都世田谷区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第7話で紹介されたshokuji「まーさん」（東京都世田谷区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-504b7c74-"
 name: "まーさん"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「新横浜ラーメン博物館」"
-description: "SixTONESのYouTubeで紹介されたラーメン「新横浜ラーメン博物館」（神奈川県横浜市港北区）。食べログ3.25点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたramen「新横浜ラーメン博物館」（神奈川県横浜市港北区）。食べログ3.25点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ramen-hakubutsukan"
 name: "新横浜ラーメン博物館"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "神奈川県"
 city: "横浜市港北区"
 address: "神奈川県横浜市港北区新横浜2-14-21"

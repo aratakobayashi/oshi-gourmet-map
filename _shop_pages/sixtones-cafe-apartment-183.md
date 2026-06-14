@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe Apartment 183」"
-description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたカフェ「Cafe Apartment 183」（東京都世田谷区）。食べログ3.28点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたcafe「Cafe Apartment 183」（東京都世田谷区）。食べログ3.28点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe_apartment_183-"
 name: "Cafe Apartment 183"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区砧3-4-9 レ・ジェイド世田谷砧 1F"

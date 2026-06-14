@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「王ろじ」"
-description: "メレンゲの気持ち 2017.07.29で紹介された食事「王ろじ」（東京都新宿区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「王ろじ」（東京都新宿区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b35ba790-"
 name: "王ろじ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区三丁目"

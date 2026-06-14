@@ -1,8 +1,8 @@
 ---
-title: "乃木坂46が行ったラーメン19選"
-description: "乃木坂46のメンバーが実際に訪れたラーメンスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行ったramen19選"
+description: "乃木坂46のメンバーが実際に訪れたramenスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
-genre: ラーメン
+genre: ramen
 group_label: "乃木坂46"
 slug_id: nogizaka46-ramen
 shop_count: 19

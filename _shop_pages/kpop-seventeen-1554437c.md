@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「ジャンボ釣船 つり吉 大阪新世界店」"
-description: "SEVENTEENで紹介されたその他「ジャンボ釣船 つり吉 大阪新世界店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたothers「ジャンボ釣船 つり吉 大阪新世界店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-1554437c-"
 name: "ジャンボ釣船 つり吉 大阪新世界店"
-genre: "その他"
+genre: "others"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市浪速区恵美須東2丁目3-14"

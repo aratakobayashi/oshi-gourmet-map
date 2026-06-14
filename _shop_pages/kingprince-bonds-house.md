@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「BONDS HOUSE（ボンズハウス）」"
-description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたその他「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたothers「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bonds_house-"
 name: "BONDS HOUSE（ボンズハウス）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区石原１-39-1"

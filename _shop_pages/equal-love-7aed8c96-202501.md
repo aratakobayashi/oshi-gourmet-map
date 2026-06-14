@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「蒙古タンメン中本 上板橋本店」"
-description: "=LOVEのYouTubeで紹介されたラーメン「蒙古タンメン中本 上板橋本店」（東京都板橋区）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「蒙古タンメン中本 上板橋本店」（東京都板橋区）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-7aed8c96-202501"
 name: "蒙古タンメン中本 上板橋本店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "板橋区"
 address: "東京都板橋区常盤台４丁目３３−３ 浅香ビル 201"

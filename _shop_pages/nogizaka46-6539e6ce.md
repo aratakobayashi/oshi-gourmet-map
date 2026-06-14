@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「山田水車屋」"
-description: "乃木坂工事中罰ポイント清算ツアーで紹介されたその他「山田水車屋」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中罰ポイント清算ツアーで紹介されたothers「山田水車屋」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6539e6ce-"
 name: "山田水車屋"
-genre: "その他"
+genre: "others"
 prefecture: "沖縄県"
 city: "国頭郡恩納村"
 address: "国頭郡恩納村山田１３０９−１"

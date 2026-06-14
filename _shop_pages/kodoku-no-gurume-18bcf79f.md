@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「梨門邸」"
-description: "孤独のグルメ Season10 第2018話で紹介されたラーメン「梨門邸」（京都府京都市）。食べログ3.59点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2018話で紹介されたramen「梨門邸」（京都府京都市）。食べログ3.59点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-18bcf79f-"
 name: "梨門邸"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市"

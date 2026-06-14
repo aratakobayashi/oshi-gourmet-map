@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「そば街角」"
-description: "=LOVEのYouTubeで紹介された和食「そば街角」（沖縄県那覇市）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「そば街角」（沖縄県那覇市）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a8a055cd-202408"
 name: "そば街角"
-genre: "和食"
+genre: "washoku"
 prefecture: "沖縄県"
 city: "那覇市"
 address: "沖縄県那覇市牧志３丁目１−５"

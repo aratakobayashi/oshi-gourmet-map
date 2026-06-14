@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「四川家庭料理 珍々」"
-description: "孤独のグルメ Season2 第6話で紹介された食事「四川家庭料理 珍々」（東京都江戸川区）。食べログ3.61点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第6話で紹介されたshokuji「四川家庭料理 珍々」（東京都江戸川区）。食べログ3.61点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-bcc4bf93-"
 name: "四川家庭料理 珍々"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江戸川区"
 address: "東京都江戸川区"

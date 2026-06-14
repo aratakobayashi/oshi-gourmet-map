@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "川越 椿の蔵 足湯喫茶TSUBAKIYA"
-description: "めざましテレビ【末澤誠也＆佐野晶哉 ロケ地】焼き芋ブリュレソフトのカフェはどこ？で紹介されたカフェ「川越 椿の蔵 足湯喫茶TSUBAKIYA」（埼玉県川越市）。食べログ3.15点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【末澤誠也＆佐野晶哉 ロケ地】焼き芋ブリュレソフトのカフェはどこ？で紹介されたcafe「川越 椿の蔵 足湯喫茶TSUBAKIYA」（埼玉県川越市）。食べログ3.15点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-tsubakiya-"
 name: "川越 椿の蔵 足湯喫茶TSUBAKIYA"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市幸町3-2"

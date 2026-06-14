@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "しおりが行った「ヤキガキヤ oyster&wine」"
-description: "しおりのYouTubeで紹介された居酒屋「ヤキガキヤ oyster&wine」（東京都渋谷区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「ヤキガキヤ oyster&wine」（東京都渋谷区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-oyster_wine-20250425"
 name: "ヤキガキヤ oyster&wine"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区千駄ヶ谷5-20-10 ほぼ新宿のれん街倉庫別館"

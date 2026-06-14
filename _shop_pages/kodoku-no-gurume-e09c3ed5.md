@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「すみれ」"
-description: "孤独のグルメ Season1 第11話で紹介された居酒屋「すみれ」（東京都文京区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第11話で紹介されたizakaya「すみれ」（東京都文京区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e09c3ed5-"
 name: "すみれ"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「江の島 貝作」"
-description: "SixTONESのYouTubeで紹介された和食「江の島 貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「江の島 貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-enoshima-kaisaku"
 name: "江の島 貝作"
-genre: "和食"
+genre: "washoku"
 prefecture: "神奈川県"
 city: "藤沢市"
 address: "神奈川県藤沢市江の島1-3-20"

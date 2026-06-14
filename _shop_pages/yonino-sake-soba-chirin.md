@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「酒と蕎麦ちりん」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「酒と蕎麦ちりん」（東京都品川区）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「酒と蕎麦ちりん」（東京都品川区）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sake-soba-chirin"
 name: "酒と蕎麦ちりん"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区小山3丁目（武蔵小山）"

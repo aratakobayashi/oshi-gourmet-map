@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
-description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたカフェ「GOOD MORNING CAFE 錦町」（東京都千代田区）。食べログ3.39点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたcafe「GOOD MORNING CAFE 錦町」（東京都千代田区）。食べログ3.39点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-good_morning_cafe-"
 name: "GOOD MORNING CAFE 錦町"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田錦町3-20 トラッドスクエア1F"

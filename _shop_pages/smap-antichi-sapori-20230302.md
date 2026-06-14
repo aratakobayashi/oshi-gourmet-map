@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Antichi Sapori（アンティキ・サポーリ）"
-description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたその他「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。食べログ3.38点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたothers「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。食べログ3.38点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "smap-antichi_sapori-20230302"
 name: "Antichi Sapori（アンティキ・サポーリ）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区紀尾井町１−３ 東京ガーデンテラス 3F"

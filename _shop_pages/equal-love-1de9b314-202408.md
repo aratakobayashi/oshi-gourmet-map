@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「鎌倉茶々本店」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「鎌倉茶々本店」（神奈川県鎌倉市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「鎌倉茶々本店」（神奈川県鎌倉市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1de9b314-202408"
 name: "鎌倉茶々本店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市雪ノ下１丁目６−８"

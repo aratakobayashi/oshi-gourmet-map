@@ -1,8 +1,8 @@
 ---
-title: "arashiが行った居酒屋11選"
-description: "arashiのメンバーが実際に訪れた居酒屋スポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったizakaya11選"
+description: "arashiのメンバーが実際に訪れたizakayaスポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: 居酒屋
+genre: izakaya
 group_label: "arashi"
 slug_id: arashi-izakaya
 shop_count: 11

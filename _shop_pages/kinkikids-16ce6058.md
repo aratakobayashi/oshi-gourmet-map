@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "おにぎり専門店 ぼんご"
-description: "KinKi Kidsのブンブブーンで紹介された食事「おにぎり専門店 ぼんご」（東京都豊島区）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介されたshokuji「おにぎり専門店 ぼんご」（東京都豊島区）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-16ce6058-"
 name: "おにぎり専門店 ぼんご"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区北大塚2-27-5"

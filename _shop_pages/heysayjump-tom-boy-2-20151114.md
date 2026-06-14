@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「TOM BOY 池袋2号店」"
-description: "2015.11.14/11.21 大盛りグルメ特集で紹介された食事「TOM BOY 池袋2号店」（東京都豊島区）。食べログ3.45点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2015.11.14/11.21 大盛りグルメ特集で紹介されたshokuji「TOM BOY 池袋2号店」（東京都豊島区）。食べログ3.45点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-tom_boy_2-20151114"
 name: "TOM BOY 池袋2号店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区南池袋3-13-17 MASHITA5 2F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "あぺたいと 赤羽店"
-description: "westが訪れた食事「あぺたいと 赤羽店」（東京都）。食べログ3.27点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたshokuji「あぺたいと 赤羽店」（東京都）。食べログ3.27点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "c7c89fdc"
 name: "あぺたいと 赤羽店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 address: "東京都北区赤羽1丁目"
 nearest_station: "赤羽"

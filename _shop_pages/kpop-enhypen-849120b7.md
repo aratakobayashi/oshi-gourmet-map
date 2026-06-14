@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ENHYPENが行った「釜元たん米衛恵比寿店」"
-description: "ENHYPENで紹介されたその他「釜元たん米衛恵比寿店」（東京都渋谷区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「釜元たん米衛恵比寿店」（東京都渋谷区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-849120b7-"
 name: "釜元たん米衛恵比寿店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿南１丁目３−８ Fleur橘 1F"

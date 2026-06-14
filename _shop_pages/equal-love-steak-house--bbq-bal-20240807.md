@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「STEAK HOUSE & BBQ BALCONIWA」"
-description: "=LOVEのYouTubeで紹介された食事「STEAK HOUSE & BBQ BALCONIWA」（東京都渋谷区）。食べログ3.2点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「STEAK HOUSE & BBQ BALCONIWA」（東京都渋谷区）。食べログ3.2点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-steak_house__bbq_bal-20240807"
 name: "STEAK HOUSE & BBQ BALCONIWA"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区千駄ケ谷４丁目１０−４ 千駄ヶ谷グリーンランドビル4F"

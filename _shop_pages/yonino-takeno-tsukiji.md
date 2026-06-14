@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「多け乃」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「多け乃」（東京都中央区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「多け乃」（東京都中央区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-takeno-tsukiji"
 name: "多け乃"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区築地6-21-2"

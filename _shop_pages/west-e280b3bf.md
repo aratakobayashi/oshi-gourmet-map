@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "喫茶 天文図舘"
-description: "喫茶と濵田。#007で紹介されたカフェ「喫茶 天文図舘」（東京都杉並区）。食べログ3.2点。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#007で紹介されたcafe「喫茶 天文図舘」（東京都杉並区）。食べログ3.2点。推し活グルメ巡礼スポット。"
 shop_id: "west-e280b3bf-"
 name: "喫茶 天文図舘"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区阿佐谷北2-1-7"

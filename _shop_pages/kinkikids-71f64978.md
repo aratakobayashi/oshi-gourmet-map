@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "オザワ洋菓子店"
-description: "KinKi Kidsのブンブブーン 麹町ロケで紹介されたカフェ「オザワ洋菓子店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 麹町ロケで紹介されたsweets「オザワ洋菓子店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-71f64978-"
 name: "オザワ洋菓子店"
-genre: "カフェ"
+genre: "sweets"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区本郷3-22-9"

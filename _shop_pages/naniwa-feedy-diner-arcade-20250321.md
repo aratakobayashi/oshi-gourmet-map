@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Feedy Diner&Arcade」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介された居酒屋「Feedy Diner&Arcade」（大阪府茨木市）。食べログ3.07点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたizakaya「Feedy Diner&Arcade」（大阪府茨木市）。食べログ3.07点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-feedy_diner_arcade-20250321"
 name: "Feedy Diner&Arcade"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "茨木市"
 address: "大阪府茨木市松ケ本町8−30−３ イオンモール茨木 4階"

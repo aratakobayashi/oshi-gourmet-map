@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Himono Dining かまなり」"
-description: "なにわ男子のどっち派 (2026-03-27)で紹介されたカフェ「Himono Dining かまなり」（静岡県熱海市）。食べログ3.34点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-27)で紹介されたcafe「Himono Dining かまなり」（静岡県熱海市）。食べログ3.34点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-himono_dining-20260327"
 name: "Himono Dining かまなり"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市銀座町11-6"

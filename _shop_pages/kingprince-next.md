@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「イシイ時計Next」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅千葉勝浦編で訪れたお店・コーヒーショップ・カフェはどこ？で紹介されたその他「イシイ時計Next」（千葉県勝浦市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅千葉勝浦編で訪れたお店・コーヒーショップ・カフェはどこ？で紹介されたothers「イシイ時計Next」（千葉県勝浦市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-next-"
 name: "イシイ時計Next"
-genre: "その他"
+genre: "others"
 prefecture: "千葉県"
 city: "勝浦市"
 address: "千葉県勝浦市勝浦74"

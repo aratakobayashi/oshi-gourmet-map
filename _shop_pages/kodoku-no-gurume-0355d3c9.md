@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「中華・洋食 やよい」"
-description: "孤独のグルメ Season8 第12話で紹介された食事「中華・洋食 やよい」（東京都台東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第12話で紹介されたshokuji「中華・洋食 やよい」（東京都台東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0355d3c9-"
 name: "中華・洋食 やよい"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区"

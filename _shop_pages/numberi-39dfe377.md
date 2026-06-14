@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "尾道ええもんや"
-description: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？で紹介されたその他「尾道ええもんや」（広島県尾道市）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？で紹介されたothers「尾道ええもんや」（広島県尾道市）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "numberi-39dfe377-"
 name: "尾道ええもんや"
-genre: "その他"
+genre: "others"
 prefecture: "広島県"
 city: "尾道市"
 address: "広島県尾道市十四日元町4番2号"

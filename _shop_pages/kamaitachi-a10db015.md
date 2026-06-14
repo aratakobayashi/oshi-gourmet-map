@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「パーバーン」"
-description: "かまいたちのYouTubeで紹介された食事「パーバーン」（東京都台東区）。食べログ3.34点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「パーバーン」（東京都台東区）。食べログ3.34点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-a10db015-"
 name: "パーバーン"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区小島2丁目"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「おゝ杉」"
-description: "かまいたちのYouTubeで紹介された居酒屋「おゝ杉」（大阪府大阪市）。食べログ3.08点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたizakaya「おゝ杉」（大阪府大阪市）。食べログ3.08点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-394d7350-"
 name: "おゝ杉"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市"

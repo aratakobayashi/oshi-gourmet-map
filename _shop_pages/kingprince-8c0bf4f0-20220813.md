@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「チャオタイ 銀座店」"
-description: "King&Princeる。当たり前レストランで紹介された食事「チャオタイ 銀座店」（東京都中央区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「チャオタイ 銀座店」（東京都中央区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8c0bf4f0-20220813"
 name: "チャオタイ 銀座店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座2-2 銀座インズ２　B1F"

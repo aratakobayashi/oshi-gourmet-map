@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「Sun-mi 高松本店 EMU」"
-description: "2016.05.18 高級レストランのランチ特集で紹介された食事「Sun-mi 高松本店 EMU」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "2016.05.18 高級レストランのランチ特集で紹介されたshokuji「Sun-mi 高松本店 EMU」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-sun_mi_emu-20160518"
 name: "Sun-mi 高松本店 EMU"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座6-3-9 7F"

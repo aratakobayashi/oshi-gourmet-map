@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「深川富士見」"
-description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都江東区）。食べログ3.28点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「深川富士見」（東京都江東区）。食べログ3.28点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-hukagawafuj"
 name: "深川富士見"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区古石場2-18-5"

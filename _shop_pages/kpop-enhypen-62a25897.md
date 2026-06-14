@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ENHYPENが行った「かしわ 渋谷ヒカリエ店」"
-description: "ENHYPENで紹介されたその他「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-62a25897-"
 name: "かしわ 渋谷ヒカリエ店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区渋谷２丁目２１−１ 7F"

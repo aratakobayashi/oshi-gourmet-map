@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「帝國食堂」"
-description: "Snow ManのYouTubeで紹介された食事「帝國食堂」（東京都港区）。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「帝國食堂」（東京都港区）。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂9丁目6-30 乃木坂ビル B1F"

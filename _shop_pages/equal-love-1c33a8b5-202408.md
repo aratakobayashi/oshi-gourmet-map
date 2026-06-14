@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「からあげ まこちゃん 鎌倉本店」"
-description: "=LOVEのYouTubeで紹介された和食「からあげ まこちゃん 鎌倉本店」（神奈川県鎌倉市）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「からあげ まこちゃん 鎌倉本店」（神奈川県鎌倉市）。食べログ3.07点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1c33a8b5-202408"
 name: "からあげ まこちゃん 鎌倉本店"
-genre: "和食"
+genre: "washoku"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市雪ノ下１丁目５−３３ リバスクビル １階"

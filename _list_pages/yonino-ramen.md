@@ -1,8 +1,8 @@
 ---
-title: "よにのちゃんねるが行ったラーメン6選"
-description: "よにのちゃんねるのメンバーが実際に訪れたラーメンスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行ったramen6選"
+description: "よにのちゃんねるのメンバーが実際に訪れたramenスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
-genre: ラーメン
+genre: ramen
 group_label: "よにのちゃんねる"
 slug_id: yonino-ramen
 shop_count: 6
@@ -12,7 +12,7 @@ youtube_id: 0EUU9_553aM
 related_genres:
   - yonino-washoku
   - yonino-cafe
-  - yonino-others
+  - yonino-shokuji
 related_groups:
   - arashi-ramen
   - kodoku-no-gurume-ramen

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「覚王山吉芋本店」"
-description: "乃木坂工事中で紹介されたその他「覚王山吉芋本店」（愛知県名古屋市）。食べログ3.54点。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「覚王山吉芋本店」（愛知県名古屋市）。食べログ3.54点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5fe15c78-"
 name: "覚王山吉芋本店"
-genre: "その他"
+genre: "others"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市千種区日進通５丁目２−４"

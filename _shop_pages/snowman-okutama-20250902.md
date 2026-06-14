@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「OKUTAMA＋」"
-description: "Snow ManのYouTubeで紹介された食事「OKUTAMA＋」（東京都西多摩郡奥多摩町）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「OKUTAMA＋」（東京都西多摩郡奥多摩町）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-okutama-20250902"
 name: "OKUTAMA＋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "西多摩郡奥多摩町"
 address: "東京都西多摩郡奥多摩町川井594"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「CITY CIRCUIT TOKYO BAY（シティサーキット東京ベイ）」"
-description: "【キントレ 趣味トレ】レーシングカートのサーキットはどこ？永瀬廉＆髙橋海人ロケ地で紹介されたその他「CITY CIRCUIT TOKYO BAY（シティサーキット東京ベイ）」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "【キントレ 趣味トレ】レーシングカートのサーキットはどこ？永瀬廉＆髙橋海人ロケ地で紹介されたothers「CITY CIRCUIT TOKYO BAY（シティサーキット東京ベイ）」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-city_circuit_tokyo_b-"
 name: "CITY CIRCUIT TOKYO BAY（シティサーキット東京ベイ）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区青海１丁目３−１２"

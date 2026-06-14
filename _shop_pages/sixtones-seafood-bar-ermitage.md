@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Seafood bar Ermitage 代々木店 （シーフード バル エルミタージュ）」"
-description: "ヒルナンデス【京本大我＆横山裕】ハンバーグ・パリパリクレープ・サーモンレアカツ丼・トースティ・ヨーグルトはどこ？で紹介された居酒屋「Seafood bar Ermitage 代々木店 （シーフード バル エルミタージュ）」（東京都渋谷区）。食べログ3.48点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス【京本大我＆横山裕】ハンバーグ・パリパリクレープ・サーモンレアカツ丼・トースティ・ヨーグルトはどこ？で紹介されたizakaya「Seafood bar Ermitage 代々木店 （シーフード バル エルミタージュ）」（東京都渋谷区）。食べログ3.48点、￥5,000～￥5,999。推し活グルメ巡礼スポット"
 shop_id: "sixtones-seafood_bar_ermitage-"
 name: "Seafood bar Ermitage 代々木店 （シーフード バル エルミタージュ）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区代々木1-45-4 代々木山陽ビル 1F"

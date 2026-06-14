@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「パティスリー ル トワ （patisserie le-333）」"
-description: "嵐にしやがれで紹介されたスイーツ「パティスリー ル トワ （patisserie le-333）」（東京都港区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「パティスリー ル トワ （patisserie le-333）」（東京都港区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-patisserie_le_333-20200404"
 name: "パティスリー ル トワ （patisserie le-333）"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区南麻布5-16-6 CLAM HIROO B1F"

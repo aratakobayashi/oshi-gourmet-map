@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「zzz365 BiVi新さっぽろ店」"
-description: "いたジャン！1時間スペシャル（2025年8月20日 テレビ朝日系）で紹介されたその他グルメ「zzz365 BiVi新さっぽろ店」（北海道札幌市）。食べログ3.30点。推し活グルメ巡礼スポット。"
+description: "いたジャン！1時間スペシャル（2025年8月20日 テレビ朝日系）で紹介されたothers「zzz365 BiVi新さっぽろ店」（北海道札幌市）。食べログ3.30点。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-zzz365_bivi-20250820"
 name: "zzz365 BiVi新さっぽろ店"
-genre: "その他グルメ"
+genre: "others"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市厚別区厚別中央一条6-3-3 BiVi新さっぽろ 2F"

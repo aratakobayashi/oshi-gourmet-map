@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「DooWop」"
-description: "なにわ男子のYouTubeで紹介された居酒屋「DooWop」（東京都渋谷区）。食べログ3.24点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介されたizakaya「DooWop」（東京都渋谷区）。食べログ3.24点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-doowop-20211126"
 name: "DooWop"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1-35-14"

@@ -1,8 +1,8 @@
 ---
-title: "arashiが行った食事96選"
-description: "arashiのメンバーが実際に訪れた食事スポットを96件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったshokuji96選"
+description: "arashiのメンバーが実際に訪れたshokujiスポットを96件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: 食事
+genre: shokuji
 group_label: "arashi"
 slug_id: arashi-shokuji
 shop_count: 96
@@ -14,5 +14,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-shokuji
   - snowman-shokuji
-  - equal-love-shokuji
+  - west-shokuji
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「SNOWY VILLAGE」"
-description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたその他「SNOWY VILLAGE」（東京都新宿区）。食べログ3.17点。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたothers「SNOWY VILLAGE」（東京都新宿区）。食べログ3.17点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-snowy_village-"
 name: "SNOWY VILLAGE"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町2丁目2-3 TRN新大久保1階"

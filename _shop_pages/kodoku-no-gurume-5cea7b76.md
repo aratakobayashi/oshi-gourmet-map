@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「第一亭」"
-description: "孤独のグルメ Season3 第2話で紹介された食事「第一亭」（神奈川県横浜市）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第2話で紹介されたshokuji「第一亭」（神奈川県横浜市）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5cea7b76-"
 name: "第一亭"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市"

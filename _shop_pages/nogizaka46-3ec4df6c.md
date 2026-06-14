@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「あさひ本店」"
-description: "乃木坂配信中で紹介されたその他「あさひ本店」（神奈川県）。食べログ3.45点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中で紹介されたothers「あさひ本店」（神奈川県）。食べログ3.45点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-3ec4df6c-"
 name: "あさひ本店"
-genre: "その他"
+genre: "others"
 prefecture: "神奈川県"
 address: "江の島１丁目４−１０"
 nearest_station: "片瀬江ノ島駅 徒歩16分"

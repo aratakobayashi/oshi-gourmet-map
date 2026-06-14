@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「天然とらふぐ専門 六本木浜藤」"
-description: "King&Princeる。当たり前レストランで紹介された食事「天然とらふぐ専門 六本木浜藤」（東京都港区）。食べログ3.25点、￥30,000～￥39,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「天然とらふぐ専門 六本木浜藤」（東京都港区）。食べログ3.25点、￥30,000～￥39,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-3a9cda24-20230304"
 name: "天然とらふぐ専門 六本木浜藤"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木7-14-18 ７＆７ビル　２Ｆ"

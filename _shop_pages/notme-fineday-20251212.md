@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「FINEDAY浜松町」"
-description: "≠MEのYouTubeで紹介された食事「FINEDAY浜松町」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたshokuji「FINEDAY浜松町」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-fineday-20251212"
 name: "FINEDAY浜松町"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区芝大門１丁目２−２２ 2F(200 パレステュディオ芝大門"

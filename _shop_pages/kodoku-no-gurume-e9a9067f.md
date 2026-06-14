@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「金城パーラー」"
-description: "孤独のグルメ Season10 第2023話で紹介された食事「金城パーラー」（沖縄県中頭郡読谷村）。食べログ3.28点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介されたshokuji「金城パーラー」（沖縄県中頭郡読谷村）。食べログ3.28点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e9a9067f-"
 name: "金城パーラー"
-genre: "食事"
+genre: "shokuji"
 prefecture: "沖縄県"
 city: "中頭郡読谷村"
 address: "沖縄県中頭郡読谷村"

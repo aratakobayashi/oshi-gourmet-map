@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「味芳斎」"
-description: "メレンゲの気持ち 2017.07.29で紹介された食事「味芳斎」（東京都港区）。食べログ3.56点。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「味芳斎」（東京都港区）。食べログ3.56点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-5f35bf24-"
 name: "味芳斎"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区芝大門1-4-13"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ビストロ KUROKAWA」"
-description: "孤独のグルメ Season10 第4話で紹介された食事「ビストロ KUROKAWA」（東京都練馬区）。食べログ3.64点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第4話で紹介されたshokuji「ビストロ KUROKAWA」（東京都練馬区）。食べログ3.64点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-kurokawa-"
 name: "ビストロ KUROKAWA"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "練馬区"
 address: "東京都練馬区"

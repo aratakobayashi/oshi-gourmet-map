@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「心斎橋サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたその他「心斎橋サンド」。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたothers「心斎橋サンド」。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ae68486b-"
 name: "心斎橋サンド"
-genre: "その他"
+genre: "others"
 address: "大阪市中央区東心斎橋2-8-8 日宝笠屋町センター1F"
 nearest_station: "JR北新地駅 徒歩３分"
 price_range: "￥1,000～￥1,999"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「府中いちご狩り園」"
-description: "=LOVEのYouTubeで紹介された食事「府中いちご狩り園」（東京都府中市）。食べログ3.11点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「府中いちご狩り園」（東京都府中市）。食べログ3.11点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-fddf14d2-20240815"
 name: "府中いちご狩り園"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "府中市"
 address: "東京都府中市美好町３丁目１６−２"

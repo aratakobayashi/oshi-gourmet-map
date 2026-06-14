@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多もつ鍋 やま中 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「博多もつ鍋 やま中 銀座店」（東京都中央区）。食べログ3.51点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「博多もつ鍋 やま中 銀座店」（東京都中央区）。食べログ3.51点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-yamanaka-ginza"
 name: "博多もつ鍋 やま中 銀座店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座3-2-15 ギンザ・グラッセ1F/B1F"

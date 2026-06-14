@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「武蔵野アブラ學会 早稲田別館」"
-description: "Snow ManのYouTubeで紹介されたラーメン「武蔵野アブラ學会 早稲田別館」（東京都新宿区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたramen「武蔵野アブラ學会 早稲田別館」（東京都新宿区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-abura-gakkai-waseda"
 name: "武蔵野アブラ學会 早稲田別館"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西早稲田1丁目18-12"

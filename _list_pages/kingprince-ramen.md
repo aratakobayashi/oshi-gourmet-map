@@ -1,8 +1,8 @@
 ---
-title: "King & Princeが行ったラーメン7選"
-description: "King & Princeのメンバーが実際に訪れたラーメンスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったramen7選"
+description: "King & Princeのメンバーが実際に訪れたramenスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
-genre: ラーメン
+genre: ramen
 group_label: "King & Prince"
 slug_id: kingprince-ramen
 shop_count: 7

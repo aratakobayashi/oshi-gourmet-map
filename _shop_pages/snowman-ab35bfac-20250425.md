@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「芝大門店」"
-description: "Snow ManのYouTubeで紹介された食事「芝大門店」（東京都港区）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「芝大門店」（東京都港区）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ab35bfac-20250425"
 name: "芝大門店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区芝大門１丁目１５−７"

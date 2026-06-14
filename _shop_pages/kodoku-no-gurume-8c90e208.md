@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「シャンウェイ 本店」"
-description: "孤独のグルメ Season4 第9話で紹介された食事「シャンウェイ 本店」（東京都渋谷区）。食べログ3.55点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第9話で紹介されたshokuji「シャンウェイ 本店」（東京都渋谷区）。食べログ3.55点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8c90e208-"
 name: "シャンウェイ 本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"

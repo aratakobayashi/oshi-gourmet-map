@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「いなろ食堂」"
-description: "沼津【大人への近道】で紹介されたカフェ「いなろ食堂」（静岡県沼津市）。食べログ3.22点。推し活グルメ巡礼スポット。"
+description: "沼津【大人への近道】で紹介されたcafe「いなろ食堂」（静岡県沼津市）。食べログ3.22点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-96c288df-"
 name: "いなろ食堂"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "静岡県"
 city: "沼津市"
 address: "静岡県沼津市千本港町122-17"

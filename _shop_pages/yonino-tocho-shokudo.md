@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「都庁食堂（32F）」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「都庁食堂（32F）」（東京都新宿区）。食べログ3.29点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「都庁食堂（32F）」（東京都新宿区）。食べログ3.29点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-tocho-shokudo"
 name: "都庁食堂（32F）"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿2-8-1 東京都庁第一本庁舎32F"

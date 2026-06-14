@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「DOG&CAT JOKER二子玉川 -AVENUE&CARE-」"
-description: "≠MEのYouTubeで紹介されたその他「DOG&CAT JOKER二子玉川 -AVENUE&CARE-」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたothers「DOG&CAT JOKER二子玉川 -AVENUE&CARE-」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-dog_cat_joker_avenue-202408"
 name: "DOG&CAT JOKER二子玉川 -AVENUE&CARE-"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区玉川３丁目17−１ 髙島屋S・C西館 ホーム 1"

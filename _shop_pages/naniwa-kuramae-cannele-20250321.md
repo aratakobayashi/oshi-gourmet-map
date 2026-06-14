@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KURAMAE CANNELE」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介された食事「KURAMAE CANNELE」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「KURAMAE CANNELE」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kuramae_cannele-20250321"
 name: "KURAMAE CANNELE"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区蔵前２丁目１−２３"

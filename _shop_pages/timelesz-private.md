@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「牛の達人 Private 西新宿店」"
-description: "timelesz project -AUDITION-で紹介された焼肉「牛の達人 Private 西新宿店」（東京都新宿区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介されたyakiniku「牛の達人 Private 西新宿店」（東京都新宿区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-private-"
 name: "牛の達人 Private 西新宿店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿7-16-12 YSビル2F"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「USHIGORO S. GINZA」"
-description: "亀梨和也のYouTubeで紹介された焼肉「USHIGORO S. GINZA」（東京都中央区）。食べログ3.98点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「USHIGORO S. GINZA」（東京都中央区）。食べログ3.98点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-ushigoro_s_ginza-20250816"
 name: "USHIGORO S. GINZA"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座７丁目７−７ 6階"

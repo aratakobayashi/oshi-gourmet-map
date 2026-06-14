@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「もつ焼きばん 高田馬場店」"
-description: "孤独のグルメ Season10 第2話で紹介された居酒屋「もつ焼きばん 高田馬場店」（東京都新宿区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2話で紹介されたizakaya「もつ焼きばん 高田馬場店」（東京都新宿区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b768e841-"
 name: "もつ焼きばん 高田馬場店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区"

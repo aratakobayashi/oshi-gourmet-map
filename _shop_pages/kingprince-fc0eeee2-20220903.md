@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「韓国農林水産大臣賞受賞 アス 下北沢店」"
-description: "King&Princeる。当たり前レストランで紹介された食事「韓国農林水産大臣賞受賞 アス 下北沢店」（東京都世田谷区）。食べログ3.26点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「韓国農林水産大臣賞受賞 アス 下北沢店」（東京都世田谷区）。食べログ3.26点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-fc0eeee2-20220903"
 name: "韓国農林水産大臣賞受賞 アス 下北沢店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区北沢2-23-12 デントビル 1F"

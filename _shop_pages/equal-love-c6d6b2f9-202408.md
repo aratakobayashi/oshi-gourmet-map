@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「錦まるん」"
-description: "=LOVEのYouTubeで紹介された食事「錦まるん」（京都府京都市）。食べログ3.15点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「錦まるん」（京都府京都市）。食べログ3.15点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c6d6b2f9-202408"
 name: "錦まるん"
-genre: "食事"
+genre: "shokuji"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市中京区東魚屋町 錦小路柳馬場東入東魚屋180"

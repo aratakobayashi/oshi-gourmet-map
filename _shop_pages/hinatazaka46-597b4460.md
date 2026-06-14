@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "日向坂46が行った「プラスヴィーガニック自由が丘」"
-description: "自撮りTVで紹介された食事「プラスヴィーガニック自由が丘」（東京都）。食べログ3.32点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "自撮りTVで紹介されたshokuji「プラスヴィーガニック自由が丘」（東京都）。食べログ3.32点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-597b4460-"
 name: "プラスヴィーガニック自由が丘"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 price_range: "￥4,000～￥4,999"
 source_video_title: "自撮りTV"

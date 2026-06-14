@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「焼肉宝来軒」"
-description: "孤独のグルメ Season8 第5話で紹介された焼肉「焼肉宝来軒」（群馬県藤岡市）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第5話で紹介されたyakiniku「焼肉宝来軒」（群馬県藤岡市）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a27b3ef5-"
 name: "焼肉宝来軒"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "群馬県"
 city: "藤岡市"
 address: "群馬県藤岡市"

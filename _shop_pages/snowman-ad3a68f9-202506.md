@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「土鍋ご飯いくしか 中目黒」"
-description: "Snow ManのYouTubeで紹介された和食「土鍋ご飯いくしか 中目黒」（東京都目黒区）。食べログ3.36点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「土鍋ご飯いくしか 中目黒」（東京都目黒区）。食べログ3.36点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ad3a68f9-202506"
 name: "土鍋ご飯いくしか 中目黒"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒2丁目14-1"

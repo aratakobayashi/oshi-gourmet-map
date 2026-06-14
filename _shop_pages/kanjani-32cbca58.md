@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ツナグ茶房"
-description: "関ジャニ∞ロケ地巡り - ツナグ茶房〜俊徳道･布施ぶらり①〜で紹介されたカフェ「ツナグ茶房」（大阪府）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - ツナグ茶房〜俊徳道･布施ぶらり①〜で紹介されたcafe「ツナグ茶房」（大阪府）。食べログ3.37点。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-32cbca58-"
 name: "ツナグ茶房"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "大阪府"
 price_range: "-"
 source_video_title: "関ジャニ∞ロケ地巡り - ツナグ茶房〜俊徳道･布施ぶらり①〜"

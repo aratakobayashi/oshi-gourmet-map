@@ -1,8 +1,8 @@
 ---
-title: "arashiが行ったその他21選"
-description: "arashiのメンバーが実際に訪れたその他スポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったothers21選"
+description: "arashiのメンバーが実際に訪れたothersスポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: その他
+genre: others
 group_label: "arashi"
 slug_id: arashi-others
 shop_count: 21

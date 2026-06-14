@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「前島商店」"
-description: "白米様 MVで紹介されたその他「前島商店」（埼玉県飯能市）。食べログ3.16点、～￥999。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたothers「前島商店」（埼玉県飯能市）。食べログ3.16点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6605b4f9-"
 name: "前島商店"
-genre: "その他"
+genre: "others"
 prefecture: "埼玉県"
 city: "飯能市"
 address: "飯能市仲町３−８"

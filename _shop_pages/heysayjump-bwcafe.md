@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BWCAFE」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたカフェ「BWCAFE」（東京都新宿区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「BWCAFE」（東京都新宿区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-bwcafe-"
 name: "BWCAFE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区大久保"

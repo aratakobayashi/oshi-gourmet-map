@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」"
-description: "SixTONESのYouTubeで紹介されたカフェ「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」（神奈川県横浜市中区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたcafe「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」（神奈川県横浜市中区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-lacocorico-akarenga"
 name: "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "神奈川県"
 city: "横浜市中区"
 address: "神奈川県横浜市中区新港1-1 横浜赤レンガ倉庫2号館1F"

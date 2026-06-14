@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「胡同 西麻布店」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「胡同 西麻布店」（東京都港区）。食べログ3.38点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「胡同 西麻布店」（東京都港区）。食べログ3.38点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hutong-nishiazabu"
 name: "胡同 西麻布店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布4-1-8 上滝ビル1F"

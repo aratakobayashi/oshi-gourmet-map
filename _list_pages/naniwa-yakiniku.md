@@ -1,8 +1,8 @@
 ---
-title: "なにわ男子が行った焼肉16選"
-description: "なにわ男子のメンバーが実際に訪れた焼肉スポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子が行ったyakiniku16選"
+description: "なにわ男子のメンバーが実際に訪れたyakinikuスポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
-genre: 焼肉
+genre: yakiniku
 group_label: "なにわ男子"
 slug_id: naniwa-yakiniku
 shop_count: 16
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-yakiniku
   - sixtones-yakiniku
-  - yonino-yakiniku
+  - timelesz-yakiniku
 ---

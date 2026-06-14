@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「CozyStyle COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「CozyStyle COFFEE」（東京都新宿区）。食べログ3.4点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「CozyStyle COFFEE」（東京都新宿区）。食べログ3.4点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-cozy-style-coffee"
 name: "CozyStyle COFFEE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区上落合3-10-3"

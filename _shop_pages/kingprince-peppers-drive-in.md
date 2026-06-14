@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」"
-description: "King & Princeキンプリ「Home, Stupid Home」『Stereo Love』撮影ロケ地はどこ？で紹介されたその他「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」（神奈川県平塚市）。食べログ3.34点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ「Home, Stupid Home」『Stereo Love』撮影ロケ地はどこ？で紹介されたothers「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」（神奈川県平塚市）。食べログ3.34点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-peppers_drive_in-"
 name: "ペッパーズ ドライブイン（PEPPERS DRIVE-IN）"
-genre: "その他"
+genre: "others"
 prefecture: "神奈川県"
 city: "平塚市"
 address: "神奈川県平塚市城所1129-1"

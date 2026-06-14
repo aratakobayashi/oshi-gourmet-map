@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「室町 砂場」"
-description: "SixTONESのYouTubeで紹介された和食「室町 砂場」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「室町 砂場」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-muromachi-tanakaya"
 name: "室町 砂場"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋室町"

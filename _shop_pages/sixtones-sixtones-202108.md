@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「阿左美冷蔵 金崎本店（SixTONES）」"
-description: "SixTONESのYouTubeで紹介されたスイーツ「阿左美冷蔵 金崎本店（SixTONES）」（埼玉県秩父郡皆野町）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたsweets「阿左美冷蔵 金崎本店（SixTONES）」（埼玉県秩父郡皆野町）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sixtones-202108"
 name: "阿左美冷蔵 金崎本店（SixTONES）"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "埼玉県"
 city: "秩父郡皆野町"
 address: "埼玉県秩父郡皆野町金崎27-1"

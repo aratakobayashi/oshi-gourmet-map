@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「前島食堂」"
-description: "孤独のグルメ Season10 第2021話で紹介された焼肉「前島食堂」（三重県松阪市）。食べログ3.65点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介されたyakiniku「前島食堂」（三重県松阪市）。食べログ3.65点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6b620ad2-"
 name: "前島食堂"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "三重県"
 city: "松阪市"
 address: "三重県松阪市"

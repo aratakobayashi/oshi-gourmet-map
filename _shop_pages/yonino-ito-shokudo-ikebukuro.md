@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「伊東食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「伊東食堂」（東京都豊島区）。食べログ3.42点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「伊東食堂」（東京都豊島区）。食べログ3.42点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ito-shokudo-ikebukuro"
 name: "伊東食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区東池袋"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鳴門鯛焼本舗 新橋駅前店」"
-description: "ENHYPENで紹介されたその他「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-b21f31cf-"
 name: "鳴門鯛焼本舗 新橋駅前店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋２丁目７−１"

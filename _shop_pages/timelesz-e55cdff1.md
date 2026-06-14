@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「タリーズコーヒー」"
-description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたカフェ「タリーズコーヒー」（東京都）。食べログ3.17点、～￥999。推し活グルメ巡礼スポット。"
+description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたcafe「タリーズコーヒー」（東京都）。食べログ3.17点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-e55cdff1-"
 name: "タリーズコーヒー"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 nearest_station: "三田駅 徒歩2分"
 price_range: "～￥999"

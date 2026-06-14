@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「平和苑」"
-description: "孤独のグルメ Season2 第3話で紹介された食事「平和苑」（東京都中野区）。食べログ3.43点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第3話で紹介されたshokuji「平和苑」（東京都中野区）。食べログ3.43点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-204cec7f-"
 name: "平和苑"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区"

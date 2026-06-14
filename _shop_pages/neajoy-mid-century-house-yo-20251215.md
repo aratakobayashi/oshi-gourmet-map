@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≒JOYが行った「Mid-Century House YOGI」"
-description: "≒JOYのYouTubeで紹介された食事「Mid-Century House YOGI」（沖縄県沖縄市）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたshokuji「Mid-Century House YOGI」（沖縄県沖縄市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-mid_century_house_yo-20251215"
 name: "Mid-Century House YOGI"
-genre: "食事"
+genre: "shokuji"
 prefecture: "沖縄県"
 city: "沖縄市"
 address: "沖縄県沖縄市与儀２丁目１５−２５"

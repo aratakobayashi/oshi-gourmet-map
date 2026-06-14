@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
-description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたその他「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたothers「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-buzzed_lamb_brewing-"
 name: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区谷中4-2-39"

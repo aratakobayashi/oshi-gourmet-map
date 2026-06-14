@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「末ぜん」"
-description: "孤独のグルメ Season10 第2022話で紹介された食事「末ぜん」（東京都渋谷区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「末ぜん」（東京都渋谷区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2eca520c-"
 name: "末ぜん"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"

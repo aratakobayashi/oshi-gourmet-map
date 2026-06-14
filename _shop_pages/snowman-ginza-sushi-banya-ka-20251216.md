@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「銀座の寿司屋 GINZA SUSHI BANYA KAI」"
-description: "Snow ManのYouTubeで紹介された寿司「銀座の寿司屋 GINZA SUSHI BANYA KAI」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「銀座の寿司屋 GINZA SUSHI BANYA KAI」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza_sushi_banya_ka-20251216"
 name: "銀座の寿司屋 GINZA SUSHI BANYA KAI"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座1-5-10 GINZA 1st.5 BLDG 7階"

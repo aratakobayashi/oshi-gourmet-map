@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「秋葉原 カリガリ」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「秋葉原 カリガリ」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「秋葉原 カリガリ」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kaligari-akihabara"
 name: "秋葉原 カリガリ"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区外神田3-6-9 沖村ビル1F"

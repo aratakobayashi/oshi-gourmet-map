@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「お食事処 たかはし」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「お食事処 たかはし」（東京都新宿区）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「お食事処 たかはし」（東京都新宿区）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-oshokuji-takahashi-waseda"
 name: "お食事処 たかはし"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区早稲田"

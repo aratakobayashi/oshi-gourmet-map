@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Cafe Ichifuji」"
-description: "なにわ男子のどっち派で紹介されたカフェ「Cafe Ichifuji」（東京都三鷹市）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたcafe「Cafe Ichifuji」（東京都三鷹市）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_ichifuji-"
 name: "Cafe Ichifuji"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "三鷹市"
 address: "東京都三鷹市下連雀3-9-12"

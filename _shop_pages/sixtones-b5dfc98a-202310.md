@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「京料理 六盛」"
-description: "SixTONESのYouTubeで紹介された和食「京料理 六盛」（京都府京都市左京区）。食べログ3.43点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「京料理 六盛」（京都府京都市左京区）。食べログ3.43点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b5dfc98a-202310"
 name: "京料理 六盛"
-genre: "和食"
+genre: "washoku"
 prefecture: "京都府"
 city: "京都市左京区"
 address: "京都府京都市左京区岡崎西天王町71"

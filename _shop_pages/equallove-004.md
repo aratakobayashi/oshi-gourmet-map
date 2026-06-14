@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「串カツ玩具-GANG-」"
-description: "=LOVEのYouTubeで紹介された居酒屋「串カツ玩具-GANG-」（東京都杉並区）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「串カツ玩具-GANG-」（東京都杉並区）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区高円寺北2丁目10-7 ヴィラグリーン 3F"

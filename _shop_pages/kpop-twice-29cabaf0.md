@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "麺散"
-description: "TWICEで紹介されたその他「麺散」（東京都渋谷区）。食べログ3.58点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「麺散」（東京都渋谷区）。食べログ3.58点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-29cabaf0-"
 name: "麺散"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前６丁目１３−７ 1F"

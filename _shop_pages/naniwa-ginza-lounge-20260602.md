@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「パンとエスプレッソと GINZA LOUNGE」"
-description: "なにわ男子のどっち派 (2026-06-02)で紹介されたカフェ「パンとエスプレッソと GINZA LOUNGE」（東京都中央区）。食べログ3.06点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-06-02)で紹介されたcafe「パンとエスプレッソと GINZA LOUNGE」（東京都中央区）。食べログ3.06点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ginza_lounge-20260602"
 name: "パンとエスプレッソと GINZA LOUNGE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座8-2-1 ニッタビル 3F"

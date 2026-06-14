@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「New NEW YORK CLUB(テイクアウト)」"
-description: "2016.10.26で紹介された食事「New NEW YORK CLUB(テイクアウト)」（東京都目黒区）。食べログ3.16点。推し活グルメ巡礼スポット。"
+description: "2016.10.26で紹介されたshokuji「New NEW YORK CLUB(テイクアウト)」（東京都目黒区）。食べログ3.16点。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-new_new_york_club-201610"
 name: "New NEW YORK CLUB(テイクアウト)"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区緑が丘2-15-14"

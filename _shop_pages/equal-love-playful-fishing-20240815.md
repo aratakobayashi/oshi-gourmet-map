@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「PLAYFUL FISHING」"
-description: "=LOVEのYouTubeで紹介された食事「PLAYFUL FISHING」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「PLAYFUL FISHING」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-playful_fishing-20240815"
 name: "PLAYFUL FISHING"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区羽田旭町１１−１"

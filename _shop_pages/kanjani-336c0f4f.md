@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ラドリオ"
-description: "関ジャニ∞ロケ地巡り - ラドリオ@神保町〜6/5東京∞ロケ地①〜で紹介されたカフェ「ラドリオ」（東京都）。食べログ3.71点。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - ラドリオ@神保町〜6/5東京∞ロケ地①〜で紹介されたcafe「ラドリオ」（東京都）。食べログ3.71点。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-336c0f4f-"
 name: "ラドリオ"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 nearest_station: "東京メトロ・都営地下鉄 神保町駅 徒歩２分"
 price_range: "-"

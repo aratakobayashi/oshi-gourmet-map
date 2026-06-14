@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「iki ESPRESSO」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「iki ESPRESSO」（東京都江東区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「iki ESPRESSO」（東京都江東区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区常盤2-2-12"

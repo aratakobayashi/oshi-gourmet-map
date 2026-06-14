@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「焼肉 哲 TETSU 池袋店」"
-description: "=LOVEのYouTubeで紹介された焼肉「焼肉 哲 TETSU 池袋店」（東京都豊島区）。食べログ3.4点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたyakiniku「焼肉 哲 TETSU 池袋店」（東京都豊島区）。食べログ3.4点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-tetsu-202408"
 name: "焼肉 哲 TETSU 池袋店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区南池袋２丁目１２−５ 第３中野ビル 1F"

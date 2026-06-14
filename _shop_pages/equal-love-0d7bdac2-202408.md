@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江町コロッケ」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「近江町コロッケ」（石川県金沢市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「近江町コロッケ」（石川県金沢市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0d7bdac2-202408"
 name: "近江町コロッケ"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "石川県"
 city: "金沢市"
 address: "石川県金沢市下近江町２４"

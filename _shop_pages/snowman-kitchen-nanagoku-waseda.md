@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン南国」"
-description: "Snow ManのYouTubeで紹介された和食「キッチン南国」（東京都新宿区）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「キッチン南国」（東京都新宿区）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区戸塚町1-101"

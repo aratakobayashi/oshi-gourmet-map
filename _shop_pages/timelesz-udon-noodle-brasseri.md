@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「つるとんたん UDON NOODLE Brasserie 六本木」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたラーメン「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。食べログ3.39点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたramen「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。食べログ3.39点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-udon_noodle_brasseri-"
 name: "つるとんたん UDON NOODLE Brasserie 六本木"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "港区"
 address: "〒106-0032 東京都港区六本木7丁目8-6 アクソール六本木 7F"

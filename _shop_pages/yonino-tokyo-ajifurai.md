@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「トーキョーアジフライ」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「トーキョーアジフライ」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「トーキョーアジフライ」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-tokyo-ajifurai"
 name: "トーキョーアジフライ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区九段南3-8-10 B1F"

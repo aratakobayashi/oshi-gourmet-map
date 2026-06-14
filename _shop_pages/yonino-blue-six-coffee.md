@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「BLUE SIX COFFEE」（東京都新宿区）。食べログ3.51点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「BLUE SIX COFFEE」（東京都新宿区）。食べログ3.51点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区霞ヶ丘町5-7 都立明治公園D棟"

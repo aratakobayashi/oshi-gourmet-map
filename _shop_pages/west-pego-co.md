@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "PEGO&CO."
-description: "イキスギ 小瓧龍市 世田谷ロケで紹介されたカフェ「PEGO&CO.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "イキスギ 小瓧龍市 世田谷ロケで紹介されたcafe「PEGO&CO.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-pego_co-"
 name: "PEGO&CO."
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区"

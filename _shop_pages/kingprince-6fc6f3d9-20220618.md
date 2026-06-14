@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ピアット・スズキ」"
-description: "King&Princeる。当たり前レストランで紹介された食事「ピアット・スズキ」（東京都港区）。食べログ3.69点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「ピアット・スズキ」（東京都港区）。食べログ3.69点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6fc6f3d9-20220618"
 name: "ピアット・スズキ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布十番1-7-7 はせべやビル　４Ｆ"

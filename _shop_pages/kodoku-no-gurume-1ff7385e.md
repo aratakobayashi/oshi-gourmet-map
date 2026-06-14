@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「京城園」"
-description: "孤独のグルメ Season10 第24話で紹介された食事「京城園」（東京都千代田区）。食べログ3.42点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「京城園」（東京都千代田区）。食べログ3.42点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1ff7385e-"
 name: "京城園"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区"

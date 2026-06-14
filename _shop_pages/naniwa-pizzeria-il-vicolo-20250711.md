@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PIZZERIA IL VICOLO」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介された食事「PIZZERIA IL VICOLO」（東京都目黒区）。食べログ3.42点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介されたshokuji「PIZZERIA IL VICOLO」（東京都目黒区）。食べログ3.42点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-pizzeria_il_vicolo-20250711"
 name: "PIZZERIA IL VICOLO"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区中目黒1-2-13"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「YOKOO 大阪のれんめぐり店」"
-description: "=LOVEのYouTubeで紹介された食事「YOKOO 大阪のれんめぐり店」（大阪府大阪市）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「YOKOO 大阪のれんめぐり店」（大阪府大阪市）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-yokoo-202508"
 name: "YOKOO 大阪のれんめぐり店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市淀川区西中島５丁目１６−１ JR 新大阪駅 新幹線改札内"

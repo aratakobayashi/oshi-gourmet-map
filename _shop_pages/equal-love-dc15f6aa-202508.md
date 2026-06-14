@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「（有）丸福食堂」"
-description: "=LOVEのYouTubeで紹介された食事「（有）丸福食堂」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「（有）丸福食堂」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-dc15f6aa-202508"
 name: "（有）丸福食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "静岡県"
 city: "熱海市"
 address: "静岡県熱海市田原本町５−７"

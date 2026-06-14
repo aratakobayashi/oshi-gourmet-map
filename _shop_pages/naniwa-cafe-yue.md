@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Cafe yue」"
-description: "なにわ男子のどっち派で紹介されたカフェ「Cafe yue」（東京都台東区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたcafe「Cafe yue」（東京都台東区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_yue-"
 name: "Cafe yue"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区谷中6−3−12"

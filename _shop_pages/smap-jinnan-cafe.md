@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "JINNAN CAFE（ジンナンカフェ）渋谷"
-description: "初耳学【木村拓哉＆中島健人撮影】“インタビューアー林修”のカフェはどこ？で紹介されたカフェ「JINNAN CAFE（ジンナンカフェ）渋谷」（東京都渋谷区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "初耳学【木村拓哉＆中島健人撮影】“インタビューアー林修”のカフェはどこ？で紹介されたcafe「JINNAN CAFE（ジンナンカフェ）渋谷」（東京都渋谷区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "smap-jinnan_cafe-"
 name: "JINNAN CAFE（ジンナンカフェ）渋谷"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神南1-17-5クーラビル1F・B1F"

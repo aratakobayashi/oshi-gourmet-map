@@ -1,8 +1,8 @@
 ---
-title: "kpop_twiceが行ったその他5選"
-description: "kpop_twiceのメンバーが実際に訪れたその他スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "kpop_twiceが行ったothers5選"
+description: "kpop_twiceのメンバーが実際に訪れたothersスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_twice
-genre: その他
+genre: others
 group_label: "kpop_twice"
 slug_id: kpop-twice-others
 shop_count: 5

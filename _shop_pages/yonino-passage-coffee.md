@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「PASSAGE COFFEE」（東京都港区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「PASSAGE COFFEE」（東京都港区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区芝5-14-16"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「しゃぶしゃぶ だるま」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「しゃぶしゃぶ だるま」（東京都港区）。食べログ3.16点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「しゃぶしゃぶ だるま」（東京都港区）。食べログ3.16点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daruma-azabu"
 name: "しゃぶしゃぶ だるま"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布十番2-17-3"

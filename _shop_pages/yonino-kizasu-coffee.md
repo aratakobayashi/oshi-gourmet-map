@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「KIZASU.COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「KIZASU.COFFEE」（東京都港区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「KIZASU.COFFEE」（東京都港区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kizasu-coffee"
 name: "KIZASU.COFFEE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋6-16 レックスビル1F"

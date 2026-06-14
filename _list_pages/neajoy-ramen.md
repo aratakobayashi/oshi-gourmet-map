@@ -1,8 +1,8 @@
 ---
-title: "≒JOYが行ったラーメン5選"
-description: "≒JOYのメンバーが実際に訪れたラーメンスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "≒JOYが行ったramen5選"
+description: "≒JOYのメンバーが実際に訪れたramenスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: neajoy
-genre: ラーメン
+genre: ramen
 group_label: "≒JOY"
 slug_id: neajoy-ramen
 shop_count: 5

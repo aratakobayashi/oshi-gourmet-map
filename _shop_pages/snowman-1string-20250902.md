@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「新木場1stRING」"
-description: "Snow ManのYouTubeで紹介された食事「新木場1stRING」（東京都江東区）。食べログ3.07点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「新木場1stRING」（東京都江東区）。食べログ3.07点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-1string-20250902"
 name: "新木場1stRING"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区新木場1-6-24"

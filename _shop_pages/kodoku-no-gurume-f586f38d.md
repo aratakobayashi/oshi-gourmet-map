@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「とんかつ割烹 やすいみ～と」"
-description: "孤独のグルメ Season10 第24話で紹介された和食「とんかつ割烹 やすいみ～と」（東京都府中市）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたwashoku「とんかつ割烹 やすいみ～と」（東京都府中市）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f586f38d-"
 name: "とんかつ割烹 やすいみ～と"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "府中市"
 address: "東京都府中市"

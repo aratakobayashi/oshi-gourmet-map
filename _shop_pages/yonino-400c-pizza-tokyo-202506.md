@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ Pizza Tokyo 神楽坂店」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「400℃ Pizza Tokyo 神楽坂店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「400℃ Pizza Tokyo 神楽坂店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-400c_pizza_tokyo-202506"
 name: "400℃ Pizza Tokyo 神楽坂店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区若宮町１３−１Kif Annex 102☎情報なし"

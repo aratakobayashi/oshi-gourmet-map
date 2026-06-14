@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「来らっせ 本店」"
-description: "SixTONESのYouTubeで紹介された中華「来らっせ 本店」（栃木県宇都宮市）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「来らっせ 本店」（栃木県宇都宮市）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
-genre: "中華"
+genre: "chuka"
 prefecture: "栃木県"
 city: "宇都宮市"
 address: "栃木県宇都宮市馬場通り2-3-12 MEGAドン・キホーテ ラパーク宇都宮 地下1階"

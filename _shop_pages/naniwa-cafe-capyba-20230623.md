@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「cafe capyba」"
-description: "なにわ男子のどっち派 (2023-06-23)で紹介されたカフェ「cafe capyba」（東京都墨田区）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-06-23)で紹介されたcafe「cafe capyba」（東京都墨田区）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_capyba-20230623"
 name: "cafe capyba"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区東向島1－31－3"

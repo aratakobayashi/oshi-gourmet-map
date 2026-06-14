@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「わさび園 かどや」"
-description: "孤独のグルメ Season3 第3話で紹介された食事「わさび園 かどや」（静岡県賀茂郡河津町）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第3話で紹介されたshokuji「わさび園 かどや」（静岡県賀茂郡河津町）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-14e24ebe-"
 name: "わさび園 かどや"
-genre: "食事"
+genre: "shokuji"
 prefecture: "静岡県"
 city: "賀茂郡河津町"
 address: "静岡県賀茂郡河津町"

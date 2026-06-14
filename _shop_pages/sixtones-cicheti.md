@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cicheti」"
-description: "SixTONESのYouTubeで紹介されたその他「Cicheti」（シンガポールKandahar St）。食べログ3.34点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたothers「Cicheti」（シンガポールKandahar St）。食べログ3.34点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cicheti"
 name: "Cicheti"
-genre: "その他"
+genre: "others"
 prefecture: "シンガポール"
 city: "Kandahar St"
 address: "52 Kandahar St, Singapore 198901"

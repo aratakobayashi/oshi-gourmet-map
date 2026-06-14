@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まつはま」"
-description: "孤独のグルメ Season10 第2025話で紹介された食事「まつはま」（新潟県佐渡市）。食べログ3.14点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2025話で紹介されたshokuji「まつはま」（新潟県佐渡市）。食べログ3.14点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d63d26de-"
 name: "まつはま"
-genre: "食事"
+genre: "shokuji"
 prefecture: "新潟県"
 city: "佐渡市"
 address: "新潟県佐渡市"

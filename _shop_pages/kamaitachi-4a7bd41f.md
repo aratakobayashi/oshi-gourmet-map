@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「香住・かどや」"
-description: "かまいたちのYouTubeで紹介された食事「香住・かどや」（兵庫県美方郡香美町）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「香住・かどや」（兵庫県美方郡香美町）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-4a7bd41f-"
 name: "香住・かどや"
-genre: "食事"
+genre: "shokuji"
 prefecture: "兵庫県"
 city: "美方郡香美町"
 address: "兵庫県美方郡香美町香住区"

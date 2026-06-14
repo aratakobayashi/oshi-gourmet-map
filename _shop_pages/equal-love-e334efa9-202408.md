@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「加賀百万石の味 げんかん」"
-description: "=LOVEのYouTubeで紹介された和食「加賀百万石の味 げんかん」（石川県金沢市）。食べログ3.09点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「加賀百万石の味 げんかん」（石川県金沢市）。食べログ3.09点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-e334efa9-202408"
 name: "加賀百万石の味 げんかん"
-genre: "和食"
+genre: "washoku"
 prefecture: "石川県"
 city: "金沢市"
 address: "石川県金沢市本町１丁目９−１０"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ALAND TOKYO」"
-description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたその他「ALAND TOKYO」（東京都 渋谷区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたothers「ALAND TOKYO」（東京都 渋谷区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-aland_tokyo-"
 name: "ALAND TOKYO"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: " 渋谷区"
 address: "東京都 渋谷区 宇田川町20-11 渋谷三葉ビル1F.2F"

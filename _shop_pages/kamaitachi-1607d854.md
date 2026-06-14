@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「ツキノワ」"
-description: "かまいたちのYouTubeで紹介された食事「ツキノワ」（大阪府大阪市中央区）。食べログ3.69点。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「ツキノワ」（大阪府大阪市中央区）。食べログ3.69点。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1607d854-"
 name: "ツキノワ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市中央区"
 address: "大阪府大阪市中央区南久宝寺町1丁目"

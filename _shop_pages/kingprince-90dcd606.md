@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ときわ」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたその他「ときわ」（茨城県笠間市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたothers「ときわ」（茨城県笠間市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-90dcd606-"
 name: "ときわ"
-genre: "その他"
+genre: "others"
 prefecture: "茨城県"
 city: "笠間市"
 address: "茨城県笠間市笠間1269-2"

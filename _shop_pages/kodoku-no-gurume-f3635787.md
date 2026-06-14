@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「萃萃」"
-description: "孤独のグルメ Season10 第2016話で紹介された和食「萃萃」（宮城県仙台市）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2016話で紹介されたwashoku「萃萃」（宮城県仙台市）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f3635787-"
 name: "萃萃"
-genre: "和食"
+genre: "washoku"
 prefecture: "宮城県"
 city: "仙台市"
 address: "宮城県仙台市"

@@ -1,8 +1,8 @@
 ---
-title: "よにのちゃんねるが行った焼肉7選"
-description: "よにのちゃんねるのメンバーが実際に訪れた焼肉スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行ったyakiniku7選"
+description: "よにのちゃんねるのメンバーが実際に訪れたyakinikuスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
-genre: 焼肉
+genre: yakiniku
 group_label: "よにのちゃんねる"
 slug_id: yonino-yakiniku
 shop_count: 7
@@ -12,7 +12,7 @@ youtube_id: 1VN2TGo5uOM
 related_genres:
   - yonino-washoku
   - yonino-cafe
-  - yonino-others
+  - yonino-shokuji
 related_groups:
   - naniwa-yakiniku
   - kodoku-no-gurume-yakiniku

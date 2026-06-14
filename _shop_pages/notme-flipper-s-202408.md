@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「FLIPPER'S 下北沢店」"
-description: "≠MEのYouTubeで紹介されたスイーツ「FLIPPER'S 下北沢店」（東京都世田谷区）。食べログ3.13点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたsweets「FLIPPER'S 下北沢店」（東京都世田谷区）。食べログ3.13点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-flipper_s-202408"
 name: "FLIPPER'S 下北沢店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区北沢２丁目２６−２０ 1F"

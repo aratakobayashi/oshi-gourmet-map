@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「不純喫茶ドープ 上野御徒町店」"
-description: "=LOVEのYouTubeで紹介されたカフェ「不純喫茶ドープ 上野御徒町店」（東京都台東区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「不純喫茶ドープ 上野御徒町店」（東京都台東区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_003"
 name: "不純喫茶ドープ 上野御徒町店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区上野1丁目8-3"

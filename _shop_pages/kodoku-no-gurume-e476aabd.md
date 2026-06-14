@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「しんせらてぃ」"
-description: "孤独のグルメ Season9 第4話で紹介された食事「しんせらてぃ」（東京都府中市）。食べログ3.53点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第4話で紹介されたshokuji「しんせらてぃ」（東京都府中市）。食べログ3.53点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e476aabd-"
 name: "しんせらてぃ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "府中市"
 address: "東京都府中市"

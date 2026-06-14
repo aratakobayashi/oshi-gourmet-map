@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "Snow ManのYouTubeで紹介された和食「薬膳キッチン やくぜんや」（東京都渋谷区）。食べログ3.4点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。食べログ3.4点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1-3-5 アルス恵比寿メイクス1F"

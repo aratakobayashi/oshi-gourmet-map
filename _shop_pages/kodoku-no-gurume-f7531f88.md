@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「豊栄(移転)」"
-description: "孤独のグルメ Season6 第11話で紹介された和食「豊栄(移転)」（東京都文京区）。食べログ3.76点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第11話で紹介されたwashoku「豊栄(移転)」（東京都文京区）。食べログ3.76点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f7531f88-"
 name: "豊栄(移転)"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区"

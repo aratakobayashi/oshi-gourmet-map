@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「俺の割烹 炉ばた 恵比寿」"
-description: "Snow ManのYouTubeで紹介された居酒屋「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたizakaya「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1丁目3-10 EBISU TANAKA BLDG 2F"

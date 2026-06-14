@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「あちらぼ」"
-description: "=LOVEのYouTubeで紹介された居酒屋「あちらぼ」（東京都杉並区）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「あちらぼ」（東京都杉並区）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a9d4d24e-202412"
 name: "あちらぼ"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区高円寺北３丁目６９−１"

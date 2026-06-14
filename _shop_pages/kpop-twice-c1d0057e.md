@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "東京ディズニーランド"
-description: "TWICEで紹介されたその他「東京ディズニーランド」（千葉県浦安市）。食べログ3.26点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「東京ディズニーランド」（千葉県浦安市）。食べログ3.26点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-c1d0057e-"
 name: "東京ディズニーランド"
-genre: "その他"
+genre: "others"
 prefecture: "千葉県"
 city: "浦安市"
 address: "千葉県浦安市舞浜１−１"

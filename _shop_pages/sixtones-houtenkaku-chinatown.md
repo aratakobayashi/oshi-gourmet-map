@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「上海小籠包専門店 鵬天閣」"
-description: "SixTONESのYouTubeで紹介された中華「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-houtenkaku-chinatown"
 name: "上海小籠包専門店 鵬天閣"
-genre: "中華"
+genre: "chuka"
 prefecture: "神奈川県"
 city: "横浜市中区"
 address: "神奈川県横浜市中区山下町192-15"

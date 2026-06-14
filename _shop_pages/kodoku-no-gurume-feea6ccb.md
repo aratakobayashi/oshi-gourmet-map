@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「オリュットナッチポックム（오륙도 낙지볶음）」"
-description: "孤独のグルメ Season10 第2019話で紹介された和食「オリュットナッチポックム（오륙도 낙지볶음）」。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「オリュットナッチポックム（오륙도 낙지볶음）」。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-feea6ccb-"
 name: "オリュットナッチポックム（오륙도 낙지볶음）"
-genre: "和食"
+genre: "washoku"
 address: "韓国釜山市"
 nearest_station: "西川緑道公園駅 徒歩3分"
 source_video_title: "孤独のグルメ Season10 第2019話"

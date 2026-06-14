@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「CEDAR THE CHOP HOUSE＆BAR」"
-description: "【SnowMan聖地巡礼】阿部亮平『あなたを奪ったその日から』ロケ地・六本木のバーCEDARでランチで紹介された食事「CEDAR THE CHOP HOUSE＆BAR」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【SnowMan聖地巡礼】阿部亮平『あなたを奪ったその日から』ロケ地・六本木のバーCEDARでランチで紹介されたshokuji「CEDAR THE CHOP HOUSE＆BAR」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-cedar_the_chop_house-20260208"
 name: "CEDAR THE CHOP HOUSE＆BAR"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木7丁目14－4 レム六本木ビル 2階"

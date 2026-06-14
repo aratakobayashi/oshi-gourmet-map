@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「ラーメン山岡家 越谷レイクタウン店」"
-description: "=LOVEのYouTubeで紹介されたラーメン「ラーメン山岡家 越谷レイクタウン店」（埼玉県越谷市）。食べログ3.18点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「ラーメン山岡家 越谷レイクタウン店」（埼玉県越谷市）。食べログ3.18点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-62bce5f5-202410"
 name: "ラーメン山岡家 越谷レイクタウン店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "埼玉県"
 city: "越谷市"
 address: "埼玉県越谷市レイクタウン２丁目 １５－１"

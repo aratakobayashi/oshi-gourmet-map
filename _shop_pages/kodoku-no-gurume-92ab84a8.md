@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「いろり家」"
-description: "孤独のグルメ Season4 第3話で紹介された焼肉「いろり家」（神奈川県足柄下郡箱根町）。食べログ3.46点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第3話で紹介されたyakiniku「いろり家」（神奈川県足柄下郡箱根町）。食べログ3.46点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-92ab84a8-"
 name: "いろり家"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "神奈川県"
 city: "足柄下郡箱根町"
 address: "神奈川県足柄下郡箱根町"

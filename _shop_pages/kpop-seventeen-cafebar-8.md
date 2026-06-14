@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「Cafebar.8」"
-description: "SEVENTEENで紹介されたその他「Cafebar.8」（大阪府大阪市）。食べログ3.04点、～￥999。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたothers「Cafebar.8」（大阪府大阪市）。食べログ3.04点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-cafebar_8-"
 name: "Cafebar.8"
-genre: "その他"
+genre: "others"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市都島区中野町４丁目５−４ リバーサイド桜ノ宮 1F"

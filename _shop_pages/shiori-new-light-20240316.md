@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "しおりが行った「NEW LIGHT」"
-description: "しおりのYouTubeで紹介された居酒屋「NEW LIGHT」（東京都渋谷区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「NEW LIGHT」（東京都渋谷区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-new_light-20240316"
 name: "NEW LIGHT"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前6-20-10 ミヤシタパーク301"

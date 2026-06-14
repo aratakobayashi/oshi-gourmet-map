@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "しおりが行った「Fireking Cafe」"
-description: "しおりのYouTubeで紹介されたカフェ「Fireking Cafe」（東京都渋谷区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたcafe「Fireking Cafe」（東京都渋谷区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-fireking_cafe-20240316"
 name: "Fireking Cafe"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区上原1-30-8"

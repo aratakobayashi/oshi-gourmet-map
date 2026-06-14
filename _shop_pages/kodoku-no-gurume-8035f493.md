@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「菜苑」"
-description: "孤独のグルメ Season5 第10話で紹介された食事「菜苑」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第10話で紹介されたshokuji「菜苑」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8035f493-"
 name: "菜苑"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区"

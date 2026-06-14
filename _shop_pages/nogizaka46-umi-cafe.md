@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umi cafe」"
-description: "17thインフルエンサーType-Cで紹介されたカフェ「umi cafe」（神奈川県鎌倉市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Cで紹介されたcafe「umi cafe」（神奈川県鎌倉市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市由比ヶ浜2-16-1 若宮大路ビル105"

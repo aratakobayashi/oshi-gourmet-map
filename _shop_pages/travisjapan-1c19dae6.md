@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ラーメンどでん"
-description: "Travis Japanのダンスだぜ!! 埼玉ロケで紹介されたラーメン「ラーメンどでん」（埼玉県川口市）。推し活グルメ巡礼スポット。"
+description: "Travis Japanのダンスだぜ!! 埼玉ロケで紹介されたramen「ラーメンどでん」（埼玉県川口市）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-1c19dae6-"
 name: "ラーメンどでん"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "埼玉県"
 city: "川口市"
 address: "埼玉県川口市西川口"

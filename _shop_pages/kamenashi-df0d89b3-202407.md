@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「焼肉古今」"
-description: "亀梨和也のYouTubeで紹介された焼肉「焼肉古今」（東京都港区）。食べログ3.26点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「焼肉古今」（東京都港区）。食べログ3.26点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-df0d89b3-202407"
 name: "焼肉古今"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布１丁目１０−７ ＦＴ‐２ 2F"

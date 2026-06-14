@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「スペイン食堂 石井」"
-description: "孤独のグルメ Season6 第9話で紹介された食事「スペイン食堂 石井」（東京都品川区）。食べログ3.5点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第9話で紹介されたshokuji「スペイン食堂 石井」（東京都品川区）。食べログ3.5点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dac2b4f0-"
 name: "スペイン食堂 石井"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区"

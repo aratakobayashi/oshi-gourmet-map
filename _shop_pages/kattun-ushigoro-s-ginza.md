@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "USHIGORO S. GINZA（うしごろエス銀座）"
-description: "【亀チャンネル】亀梨和也＆渡辺翔太の高級焼肉店はどこ？食べたコースは？で紹介されたその他「USHIGORO S. GINZA（うしごろエス銀座）」（東京都中央区）。食べログ3.98点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "【亀チャンネル】亀梨和也＆渡辺翔太の高級焼肉店はどこ？食べたコースは？で紹介されたothers「USHIGORO S. GINZA（うしごろエス銀座）」（東京都中央区）。食べログ3.98点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kattun-ushigoro_s_ginza-"
 name: "USHIGORO S. GINZA（うしごろエス銀座）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座7-7-7 GINZA777 ADC BUILDING 6F"

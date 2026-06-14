@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「有機茶生どら Dolala」"
-description: "嵐にしやがれで紹介されたスイーツ「有機茶生どら Dolala」（東京都目黒区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「有機茶生どら Dolala」（東京都目黒区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-dolala-20200718"
 name: "有機茶生どら Dolala"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区中根1-23-5 1F"

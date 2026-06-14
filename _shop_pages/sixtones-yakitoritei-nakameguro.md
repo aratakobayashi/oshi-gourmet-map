@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「串若丸」"
-description: "SixTONESのYouTubeで紹介された和食「串若丸」（東京都目黒区）。食べログ3.56点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「串若丸」（東京都目黒区）。食べログ3.56点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-yakitoritei-nakameguro"
 name: "串若丸"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区中目黒"

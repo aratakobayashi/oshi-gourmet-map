@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ 新栄店」"
-description: "SixTONESのYouTubeで紹介された居酒屋「くるみ 新栄店」（愛知県名古屋市東区）。食べログ3.03点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「くるみ 新栄店」（愛知県名古屋市東区）。食べログ3.03点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kurumi-shineimachi"
 name: "くるみ 新栄店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "愛知県"
 city: "名古屋市東区"
 address: "愛知県名古屋市東区新栄1-3-24"

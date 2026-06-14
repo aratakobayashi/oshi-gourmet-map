@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAMERA」"
-description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介された中華「KAMERA」（東京都渋谷区）。食べログ3.41点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介されたchuka「KAMERA」（東京都渋谷区）。食べログ3.41点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kamera-20220422"
 name: "KAMERA"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区道玄坂2丁目20-5 1F"

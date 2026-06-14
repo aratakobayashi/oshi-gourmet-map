@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "麦屋カフェ"
-description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたカフェ「麦屋カフェ」（大分県日田市）。推し活グルメ巡礼スポット。"
+description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたcafe「麦屋カフェ」（大分県日田市）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-c1d8d497-"
 name: "麦屋カフェ"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "大分県"
 city: "日田市"
 address: "大分県日田市豆田町9-2"

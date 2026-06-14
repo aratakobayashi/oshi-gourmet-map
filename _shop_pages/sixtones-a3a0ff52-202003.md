@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「一蘭 渋谷店」"
-description: "SixTONESのYouTubeで紹介されたラーメン「一蘭 渋谷店」（東京都渋谷区）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたramen「一蘭 渋谷店」（東京都渋谷区）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3a0ff52-202003"
 name: "一蘭 渋谷店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神南1-22-7"

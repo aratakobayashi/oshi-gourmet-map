@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「佐野みそ 亀戸本店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「佐野みそ 亀戸本店」（東京都江東区）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「佐野みそ 亀戸本店」（東京都江東区）。食べログ3.21点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sanomiso-kameido"
 name: "佐野みそ 亀戸本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区亀戸1-35-8"

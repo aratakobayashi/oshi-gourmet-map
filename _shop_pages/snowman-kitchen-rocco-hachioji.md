@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Kitchen ROCCO」"
-description: "Snow ManのYouTubeで紹介された食事「Kitchen ROCCO」（東京都八王子市）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Kitchen ROCCO」（東京都八王子市）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-rocco-hachioji"
 name: "Kitchen ROCCO"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "八王子市"
 address: "東京都八王子市子安町3-8-10"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「うさぎやCAFE」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたカフェ「うさぎやCAFE」（東京都台東区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「うさぎやCAFE」（東京都台東区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-cafe-"
 name: "うさぎやCAFE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区上野1丁目"

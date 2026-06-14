@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「LATTE ART MANIA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「LATTE ART MANIA TOKYO」（東京都港区）。食べログ3.53点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「LATTE ART MANIA TOKYO」（東京都港区）。食べログ3.53点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-latte-art-mania"
 name: "LATTE ART MANIA TOKYO"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山2-9-13 斉藤ビル1F"

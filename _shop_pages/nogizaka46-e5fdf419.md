@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「新とみ」"
-description: "北鎌倉【いつかできるから今日できる】で紹介されたラーメン「新とみ」（神奈川県鎌倉市）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "北鎌倉【いつかできるから今日できる】で紹介されたramen「新とみ」（神奈川県鎌倉市）。食べログ3.35点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-e5fdf419-"
 name: "新とみ"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市鎌倉市山ノ内376 1F"

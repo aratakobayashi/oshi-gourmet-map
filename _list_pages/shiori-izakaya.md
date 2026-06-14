@@ -1,8 +1,8 @@
 ---
-title: "しおりが行った居酒屋21選"
-description: "しおりが実際に訪れた居酒屋スポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "しおりが行ったizakaya21選"
+description: "しおりが実際に訪れたizakayaスポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: shiori
-genre: 居酒屋
+genre: izakaya
 group_label: "しおり"
 slug_id: shiori-izakaya
 shop_count: 21

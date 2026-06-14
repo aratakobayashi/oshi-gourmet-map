@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江牛 かね吉」"
-description: "=LOVEのYouTubeで紹介された焼肉「近江牛 かね吉」（滋賀県大津市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたyakiniku「近江牛 かね吉」（滋賀県大津市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-571d4c2e-202408"
 name: "近江牛 かね吉"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "滋賀県"
 city: "大津市"
 address: "滋賀県大津市馬場１丁目１０−１８"

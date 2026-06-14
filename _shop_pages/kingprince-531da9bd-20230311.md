@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「パティシエ シマ」"
-description: "King&Princeる。当たり前レストランで紹介された食事「パティシエ シマ」（東京都千代田区）。食べログ3.62点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「パティシエ シマ」（東京都千代田区）。食べログ3.62点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-531da9bd-20230311"
 name: "パティシエ シマ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区麹町3-12-4 麹町KYビル 1F"

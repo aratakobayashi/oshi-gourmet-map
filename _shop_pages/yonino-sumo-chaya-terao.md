@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「相撲茶屋 寺尾」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「相撲茶屋 寺尾」（東京都墨田区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「相撲茶屋 寺尾」（東京都墨田区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sumo-chaya-terao"
 name: "相撲茶屋 寺尾"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区両国2-16-5 あづまビル1F"

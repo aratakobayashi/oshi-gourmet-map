@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「和食亭」"
-description: "孤独のグルメ Season1 第2話で紹介された和食「和食亭」（東京都豊島区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第2話で紹介されたwashoku「和食亭」（東京都豊島区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-916014a2-"
 name: "和食亭"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区"

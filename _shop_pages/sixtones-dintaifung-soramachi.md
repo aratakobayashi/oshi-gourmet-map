@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「鼎泰豊（ディンタイフォン）東京ソラマチ店」"
-description: "SixTONESのYouTubeで紹介された中華「鼎泰豊（ディンタイフォン）東京ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「鼎泰豊（ディンタイフォン）東京ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-dintaifung-soramachi"
 name: "鼎泰豊（ディンタイフォン）東京ソラマチ店"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区押上1-1-2 東京ソラマチ7F イーストヤード12番地"

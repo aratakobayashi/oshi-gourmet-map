@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「銀座 福祿壽」"
-description: "よにのちゃんねるが訪れたスイーツ「銀座 福祿壽」（東京都中央区）。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるが訪れたsweets「銀座 福祿壽」（東京都中央区）。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ginza-fukukuju"
 name: "銀座 福祿壽"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座"

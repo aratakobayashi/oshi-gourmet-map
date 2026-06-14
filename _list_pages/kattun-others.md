@@ -1,8 +1,8 @@
 ---
-title: "kattunが行ったその他6選"
-description: "kattunのメンバーが実際に訪れたその他スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "kattunが行ったothers6選"
+description: "kattunのメンバーが実際に訪れたothersスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kattun
-genre: その他
+genre: others
 group_label: "kattun"
 slug_id: kattun-others
 shop_count: 6

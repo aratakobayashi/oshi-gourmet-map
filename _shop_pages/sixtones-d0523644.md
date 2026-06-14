@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「龍海飯店」"
-description: "SixTONESが訪れたその他「龍海飯店」（神奈川県横浜市）。食べログ3.23点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたothers「龍海飯店」（神奈川県横浜市）。食べログ3.23点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-d0523644-"
 name: "龍海飯店"
-genre: "その他"
+genre: "others"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "〒231-0023 神奈川県横浜市中区山下町146ｰ2"

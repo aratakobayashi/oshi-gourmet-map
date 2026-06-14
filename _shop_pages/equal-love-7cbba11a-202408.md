@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「らうめん侍 本丸」"
-description: "=LOVEのYouTubeで紹介されたラーメン「らうめん侍 本丸」（石川県金沢市）。食べログ3.33点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「らうめん侍 本丸」（石川県金沢市）。食べログ3.33点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-7cbba11a-202408"
 name: "らうめん侍 本丸"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "石川県"
 city: "金沢市"
 address: "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西3階"

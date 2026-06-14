@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「さくらの夢見屋 小町通り本店」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「さくらの夢見屋 小町通り本店」（神奈川県鎌倉市）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「さくらの夢見屋 小町通り本店」（神奈川県鎌倉市）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-d556ceee-202408"
 name: "さくらの夢見屋 小町通り本店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市小町２丁目７−３４"

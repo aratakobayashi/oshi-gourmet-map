@@ -1,8 +1,8 @@
 ---
-title: "kpop_seventeenが行ったその他7選"
-description: "kpop_seventeenのメンバーが実際に訪れたその他スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "kpop_seventeenが行ったothers7選"
+description: "kpop_seventeenのメンバーが実際に訪れたothersスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_seventeen
-genre: その他
+genre: others
 group_label: "kpop_seventeen"
 slug_id: kpop-seventeen-others
 shop_count: 7

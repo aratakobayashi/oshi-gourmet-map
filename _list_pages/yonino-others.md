@@ -1,8 +1,8 @@
 ---
-title: "よにのちゃんねるが行ったその他13選"
-description: "よにのちゃんねるのメンバーが実際に訪れたその他スポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行ったothers13選"
+description: "よにのちゃんねるのメンバーが実際に訪れたothersスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
-genre: その他
+genre: others
 group_label: "よにのちゃんねる"
 slug_id: yonino-others
 shop_count: 13

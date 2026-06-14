@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「海ほたるPA」"
-description: "=LOVEのYouTubeで紹介された食事「海ほたるPA」（千葉県木更津市）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「海ほたるPA」（千葉県木更津市）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-pa-20241129"
 name: "海ほたるPA"
-genre: "食事"
+genre: "shokuji"
 prefecture: "千葉県"
 city: "木更津市"
 address: "千葉県木更津市中島 地先 海ほたる"

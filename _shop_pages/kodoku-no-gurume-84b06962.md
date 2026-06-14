@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ラ・タベルナ」"
-description: "孤独のグルメ Season10 第12話で紹介された食事「ラ・タベルナ」（東京都千代田区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第12話で紹介されたshokuji「ラ・タベルナ」（東京都千代田区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-84b06962-"
 name: "ラ・タベルナ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みやけうどん」"
-description: "孤独のグルメ Season10 第2014話で紹介されたラーメン「みやけうどん」（福岡県博多市）。食べログ3.64点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2014話で紹介されたramen「みやけうどん」（福岡県博多市）。食べログ3.64点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e8e1b07c-"
 name: "みやけうどん"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "福岡県"
 city: "博多市"
 address: "福岡県博多市"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「EATALY（イータリー）原宿店」"
-description: "【キントレ当たり前レストラン】マリトッツォのカフェはどこの？で紹介されたその他「EATALY（イータリー）原宿店」（東京都渋谷区）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【キントレ当たり前レストラン】マリトッツォのカフェはどこの？で紹介されたothers「EATALY（イータリー）原宿店」（東京都渋谷区）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-eataly-"
 name: "EATALY（イータリー）原宿店"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前1-14-30 ウィズ原宿3F"

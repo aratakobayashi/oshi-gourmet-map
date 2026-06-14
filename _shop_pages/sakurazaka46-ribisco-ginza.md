@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「リビスコ 銀座店」"
-description: "櫻坂46 銀座でジェラート食べ歩きで紹介されたスイーツ「リビスコ 銀座店」（東京都中央区）。食べログ3.69点。推し活グルメ巡礼スポット。"
+description: "櫻坂46 銀座でジェラート食べ歩きで紹介されたsweets「リビスコ 銀座店」（東京都中央区）。食べログ3.69点。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-ribisco-ginza"
 name: "リビスコ 銀座店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座3-7-1"

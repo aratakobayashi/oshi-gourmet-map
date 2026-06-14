@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「スペイン料理 Pablo」"
-description: "Snow ManのYouTubeで紹介された食事「スペイン料理 Pablo」（東京都目黒区）。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「スペイン料理 Pablo」（東京都目黒区）。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-meguro"
 name: "スペイン料理 Pablo"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区東山1-6-13 1F"

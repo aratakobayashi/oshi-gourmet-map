@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「RIZCAFE(リズカフェ)」"
-description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたカフェ「RIZCAFE(リズカフェ)」（三重県津市）。食べログ3.09点。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたcafe「RIZCAFE(リズカフェ)」（三重県津市）。食べログ3.09点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-rizcafe-"
 name: "RIZCAFE(リズカフェ)"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "三重県"
 city: "津市"
 address: "三重県津市一身田上津部田1234 三重県総合文化センター １Ｆ"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中国名菜 姑娘飯店」"
-description: "インフルエンサー山崎怜奈 個人PVで紹介されたその他「中国名菜 姑娘飯店」（福島県郡山市）。推し活グルメ巡礼スポット。"
+description: "インフルエンサー山崎怜奈 個人PVで紹介されたothers「中国名菜 姑娘飯店」（福島県郡山市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-aac0d80b-"
 name: "中国名菜 姑娘飯店"
-genre: "その他"
+genre: "others"
 prefecture: "福島県"
 city: "郡山市"
 address: "福島県郡山市駅前１丁目４−１５"

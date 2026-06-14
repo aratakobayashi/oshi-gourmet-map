@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「NORTHERNWOOD GINZA」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「NORTHERNWOOD GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「NORTHERNWOOD GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-northernwood_ginza-20260308"
 name: "NORTHERNWOOD GINZA"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座８丁目１２−６"

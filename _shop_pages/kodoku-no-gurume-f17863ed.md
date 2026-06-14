@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「多津美」"
-description: "孤独のグルメ Season10 第2017話で紹介されたラーメン「多津美」（千葉県成田市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたramen「多津美」（千葉県成田市）。食べログ3.24点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f17863ed-"
 name: "多津美"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "千葉県"
 city: "成田市"
 address: "千葉県成田市"

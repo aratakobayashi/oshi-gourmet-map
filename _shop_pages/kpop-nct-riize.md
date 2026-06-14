@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "NCTが行った「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」"
-description: "NCTで紹介されたその他「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "NCTで紹介されたothers「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_nct-riize-"
 name: "あじくらや テヨン・マーク・ショウタロウ（RIIZE）"
-genre: "その他"
+genre: "others"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市天王寺区小橋町13-18 リッチハイムアルテ上本町1F"

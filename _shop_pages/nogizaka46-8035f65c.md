@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「コーヒー庵・甘太郎焼き」"
-description: "白米様 MVで紹介されたカフェ「コーヒー庵・甘太郎焼き」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたcafe「コーヒー庵・甘太郎焼き」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-8035f65c-"
 name: "コーヒー庵・甘太郎焼き"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "埼玉県"
 city: "飯能市"
 address: "飯能市仲町９−３"

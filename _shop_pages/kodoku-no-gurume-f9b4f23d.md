@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「だるま」"
-description: "孤独のグルメ Season5 第2話で紹介された食事「だるま」（東京都江東区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第2話で紹介されたshokuji「だるま」（東京都江東区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f9b4f23d-"
 name: "だるま"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区"

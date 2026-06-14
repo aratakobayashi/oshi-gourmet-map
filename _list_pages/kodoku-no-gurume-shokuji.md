@@ -1,8 +1,8 @@
 ---
-title: "「孤独のグルメ」登場食事88選"
-description: "ドラマ「孤独のグルメ」に登場した食事スポットを88件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場shokuji88選"
+description: "ドラマ「孤独のグルメ」に登場したshokujiスポットを88件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
-genre: 食事
+genre: shokuji
 group_label: "孤独のグルメ"
 slug_id: kodoku-no-gurume-shokuji
 shop_count: 88
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - arashi-shokuji
   - snowman-shokuji
-  - equal-love-shokuji
+  - west-shokuji
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Lady Bugs」"
-description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたその他「Lady Bugs」（東京都渋谷区）。食べログ3.01点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたothers「Lady Bugs」（東京都渋谷区）。食べログ3.01点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lady_bugs-"
 name: "Lady Bugs"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神山町7－9ハウスカサブランカ101"

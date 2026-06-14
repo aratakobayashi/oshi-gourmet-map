@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ガーリックステーキ Bullajo」"
-description: "亀梨和也のYouTubeで紹介された焼肉「ガーリックステーキ Bullajo」（東京都渋谷区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「ガーリックステーキ Bullajo」（東京都渋谷区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-bullajo-202504"
 name: "ガーリックステーキ Bullajo"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町１１−１柳光ビル別館 3階"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Le Pain Quotidien 東京ミッドタウン店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-le-pain-quotidien"
 name: "Le Pain Quotidien 東京ミッドタウン店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂9-7-1 東京ミッドタウン ガーデンテラス1F"

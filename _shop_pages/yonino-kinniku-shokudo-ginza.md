@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「筋肉食堂 銀座コリドー街店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「筋肉食堂 銀座コリドー街店」（東京都中央区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「筋肉食堂 銀座コリドー街店」（東京都中央区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kinniku-shokudo-ginza"
 name: "筋肉食堂 銀座コリドー街店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座7-2 216号室"

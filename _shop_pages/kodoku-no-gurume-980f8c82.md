@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「乙姫」"
-description: "孤独のグルメ Season4 第5話で紹介された和食「乙姫」（愛知県知多郡南知多町）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第5話で紹介されたwashoku「乙姫」（愛知県知多郡南知多町）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-980f8c82-"
 name: "乙姫"
-genre: "和食"
+genre: "washoku"
 prefecture: "愛知県"
 city: "知多郡南知多町"
 address: "愛知県知多郡南知多町"

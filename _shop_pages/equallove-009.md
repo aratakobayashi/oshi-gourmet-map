@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「俏香（チャオシャン）」"
-description: "=LOVEのYouTubeで紹介された中華「俏香（チャオシャン）」（神奈川県横浜市）。食べログ3.04点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたchuka「俏香（チャオシャン）」（神奈川県横浜市）。食べログ3.04点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_009"
 name: "俏香（チャオシャン）"
-genre: "中華"
+genre: "chuka"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町146-2"

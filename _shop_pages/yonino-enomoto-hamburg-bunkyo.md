@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「榎本ハンバーグ研究所 春日後楽園店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-enomoto-hamburg-bunkyo"
 name: "榎本ハンバーグ研究所 春日後楽園店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区小石川1-16-16"

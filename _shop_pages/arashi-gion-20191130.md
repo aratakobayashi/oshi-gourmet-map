@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「ギオン（gion）」"
-description: "嵐にしやがれで紹介された食事「ギオン（gion）」（東京都杉並区）。食べログ3.18点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「ギオン（gion）」（東京都杉並区）。食べログ3.18点。推し活グルメ巡礼スポット。"
 shop_id: "arashi-gion-20191130"
 name: "ギオン（gion）"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区阿佐谷北1-3-3 川染ビル 1F"

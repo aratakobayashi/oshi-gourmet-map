@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ピッコロレガーロ」"
-description: "孤独のグルメ Season10 第2024話で紹介された食事「ピッコロレガーロ」（東京都日野市）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2024話で紹介されたshokuji「ピッコロレガーロ」（東京都日野市）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-19977d56-"
 name: "ピッコロレガーロ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "日野市"
 address: "東京都日野市"

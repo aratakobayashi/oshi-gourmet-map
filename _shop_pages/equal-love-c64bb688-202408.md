@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「ユナイテッド・シネマ豊洲」"
-description: "=LOVEのYouTubeで紹介された食事「ユナイテッド・シネマ豊洲」（東京都江東区）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「ユナイテッド・シネマ豊洲」（東京都江東区）。食べログ3.07点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c64bb688-202408"
 name: "ユナイテッド・シネマ豊洲"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区豊洲２丁目４−９ 三井ショッピングパーク アーバンドック ららぽーと豊洲"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「ラクーア 1階フードゾーン DELI&DISH」"
-description: "=LOVEのYouTubeで紹介された食事「ラクーア 1階フードゾーン DELI&DISH」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「ラクーア 1階フードゾーン DELI&DISH」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1_deli_dish-20260320"
 name: "ラクーア 1階フードゾーン DELI&DISH"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区春日１丁目１−１"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「きずき」"
-description: "孤独のグルメ Season10 第24話で紹介された食事「きずき」（島根県出雲市）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「きずき」（島根県出雲市）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-84494dc4-"
 name: "きずき"
-genre: "食事"
+genre: "shokuji"
 prefecture: "島根県"
 city: "出雲市"
 address: "島根県出雲市"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「コロムビア」"
-description: "孤独のグルメ Season7 第4話で紹介された食事「コロムビア」（群馬県甘楽郡下仁田町）。食べログ3.59点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第4話で紹介されたshokuji「コロムビア」（群馬県甘楽郡下仁田町）。食べログ3.59点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8ff8f87d-"
 name: "コロムビア"
-genre: "食事"
+genre: "shokuji"
 prefecture: "群馬県"
 city: "甘楽郡下仁田町"
 address: "群馬県甘楽郡下仁田町"

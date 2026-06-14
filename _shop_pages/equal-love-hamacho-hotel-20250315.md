@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「Hamacho hotel」"
-description: "=LOVEのYouTubeで紹介された食事「Hamacho hotel」（東京都中央区）。食べログ3.47点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Hamacho hotel」（東京都中央区）。食べログ3.47点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-hamacho_hotel-20250315"
 name: "Hamacho hotel"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋浜町３丁目２０−２"

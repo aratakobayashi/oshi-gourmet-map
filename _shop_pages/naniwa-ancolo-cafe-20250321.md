@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ancolo cafe」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介された食事「ancolo cafe」（東京都目黒区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ancolo cafe」（東京都目黒区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ancolo_cafe-20250321"
 name: "ancolo cafe"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区目黒１丁目４−１６ 目黒Gビル 1F"

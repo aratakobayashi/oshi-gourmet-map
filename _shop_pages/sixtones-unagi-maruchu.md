@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「丸忠うなぎ」"
-description: "SixTONESが訪れた和食「丸忠うなぎ」（静岡県焼津市）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたwashoku「丸忠うなぎ」（静岡県焼津市）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-unagi-maruchu"
 name: "丸忠うなぎ"
-genre: "和食"
+genre: "washoku"
 prefecture: "静岡県"
 city: "焼津市"
 address: "静岡県焼津市下江留1450-1"

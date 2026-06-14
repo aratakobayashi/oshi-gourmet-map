@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "喫茶gion"
-description: "喫茶と濵田。#006で紹介されたカフェ「喫茶gion」（東京都杉並区）。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#006で紹介されたcafe「喫茶gion」（東京都杉並区）。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-gion-"
 name: "喫茶gion"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区阿佐ヶ谷北1-3-3 川染ビル1F"

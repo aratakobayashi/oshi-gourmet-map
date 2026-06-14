@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「油そば春日亭 神田店」"
-description: "=LOVEのYouTubeで紹介されたラーメン「油そば春日亭 神田店」（東京都千代田区）。食べログ3.28点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「油そば春日亭 神田店」（東京都千代田区）。食べログ3.28点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c2edb8b6-202408"
 name: "油そば春日亭 神田店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区内神田３丁目９−６"

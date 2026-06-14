@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「蔵寿し」"
-description: "帰れマンデー【永瀬廉＆松田元太ロケ地】お寿司屋さんはどこ？海鮮グラタン・殿様どんぶり・芽ネギで紹介されたその他「蔵寿し」（山梨県富士吉田市）。推し活グルメ巡礼スポット。"
+description: "帰れマンデー【永瀬廉＆松田元太ロケ地】お寿司屋さんはどこ？海鮮グラタン・殿様どんぶり・芽ネギで紹介されたothers「蔵寿し」（山梨県富士吉田市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-78afc2ee-"
 name: "蔵寿し"
-genre: "その他"
+genre: "others"
 prefecture: "山梨県"
 city: "富士吉田市"
 address: "山梨県富士吉田市下吉田5-32-14"

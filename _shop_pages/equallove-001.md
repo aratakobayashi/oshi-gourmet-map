@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「いしがまや GOKU BURGER」"
-description: "=LOVEのYouTubeで紹介された食事「いしがまや GOKU BURGER」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「いしがまや GOKU BURGER」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_001"
 name: "いしがまや GOKU BURGER"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前5丁目8-5 ジュビリープラザビル 2F"

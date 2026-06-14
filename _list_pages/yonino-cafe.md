@@ -1,8 +1,8 @@
 ---
-title: "よにのちゃんねるが行ったカフェ22選"
-description: "よにのちゃんねるのメンバーが実際に訪れたカフェスポットを22件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行ったcafe22選"
+description: "よにのちゃんねるのメンバーが実際に訪れたcafeスポットを22件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
-genre: カフェ
+genre: cafe
 group_label: "よにのちゃんねる"
 slug_id: yonino-cafe
 shop_count: 22
@@ -11,8 +11,8 @@ group_bio: "二宮和也（嵐）・中丸雄一（KAT-TUN）・山田涼介（H
 youtube_id: FsiF7DW603g
 related_genres:
   - yonino-washoku
-  - yonino-others
   - yonino-shokuji
+  - yonino-others
 related_groups:
   - naniwa-cafe
   - nogizaka46-cafe

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「わが家の食堂 葛西店」"
-description: "Snow ManのYouTubeで紹介された和食「わが家の食堂 葛西店」（東京都江戸川区）。食べログ3.15点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「わが家の食堂 葛西店」（東京都江戸川区）。食べログ3.15点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-wagaya-shokudo-kasai"
 name: "わが家の食堂 葛西店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "江戸川区"
 address: "東京都江戸川区中葛西8-23-5"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Crispy’s Burger」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された食事「Crispy’s Burger」（東京都）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「Crispy’s Burger」（東京都）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-crispys_burger-20211126"
 name: "Crispy’s Burger"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 address: "東京都大久保３丁目１０−１ 内 オレンジコート"
 nearest_station: "西早稲田駅 徒歩5分"

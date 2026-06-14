@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「日光もなか」"
-description: "タイムレスマンで紹介されたスイーツ「日光もなか」（栃木県日光市）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: "タイムレスマンで紹介されたsweets「日光もなか」（栃木県日光市）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-59cd8eb8-"
 name: "日光もなか"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "栃木県"
 city: "日光市"
 address: "栃木県日光市下鉢石町801-1"

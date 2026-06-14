@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「はまべ」"
-description: "孤独のグルメ Season6 第10話で紹介された和食「はまべ」（千葉県富津市）。食べログ3.65点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第10話で紹介されたwashoku「はまべ」（千葉県富津市）。食べログ3.65点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-83ea2596-"
 name: "はまべ"
-genre: "和食"
+genre: "washoku"
 prefecture: "千葉県"
 city: "富津市"
 address: "千葉県富津市"

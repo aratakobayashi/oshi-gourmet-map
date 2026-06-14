@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "あじわい回転寿司 禅"
-description: "westが訪れた寿司「あじわい回転寿司 禅」（神奈川県）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたwashoku「あじわい回転寿司 禅」（神奈川県）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "ce8d5aec"
 name: "あじわい回転寿司 禅"
-genre: "寿司"
+genre: "washoku"
 prefecture: "神奈川県"
 address: "神奈川県小田原市緑町"
 nearest_station: "小田原"

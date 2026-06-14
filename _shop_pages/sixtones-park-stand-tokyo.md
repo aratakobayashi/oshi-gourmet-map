@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「PARK STAND TOKYO 清澄白河」"
-description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたその他「PARK STAND TOKYO 清澄白河」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたothers「PARK STAND TOKYO 清澄白河」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-park_stand_tokyo-"
 name: "PARK STAND TOKYO 清澄白河"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区清澄3-4-20"

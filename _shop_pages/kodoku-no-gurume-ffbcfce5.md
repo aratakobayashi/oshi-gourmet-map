@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「餃子屋」"
-description: "孤独のグルメ Season10 第24話で紹介された食事「餃子屋」（島根県出雲市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「餃子屋」（島根県出雲市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ffbcfce5-"
 name: "餃子屋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "島根県"
 city: "出雲市"
 address: "島根県出雲市"

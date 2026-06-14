@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「USOTSUKI YOGURT」"
-description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたカフェ「USOTSUKI YOGURT」（東京都港区）。食べログ3.14点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたcafe「USOTSUKI YOGURT」（東京都港区）。食べログ3.14点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-usotsuki_yogurt-"
 name: "USOTSUKI YOGURT"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "〒106-0031 東京都港区西麻布１丁目４−３３ 1階"

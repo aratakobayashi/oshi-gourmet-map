@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「鳥焼 萬歳亭」"
-description: "亀梨和也のYouTubeで紹介された居酒屋「鳥焼 萬歳亭」（宮崎県宮崎市）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたizakaya「鳥焼 萬歳亭」（宮崎県宮崎市）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-3a7e3c9a-202402"
 name: "鳥焼 萬歳亭"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "宮崎県"
 city: "宮崎市"
 address: "宮崎県宮崎市中央通１−２２"

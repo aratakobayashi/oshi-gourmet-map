@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「10 picnic tables」"
-description: "=LOVEのYouTubeで紹介された食事「10 picnic tables」（栃木県下野市）。食べログ3.09点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「10 picnic tables」（栃木県下野市）。食べログ3.09点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-10_picnic_tables-20260427"
 name: "10 picnic tables"
-genre: "食事"
+genre: "shokuji"
 prefecture: "栃木県"
 city: "下野市"
 address: "栃木県下野市国分寺８２１−１"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CheeseTable 池袋店」"
-description: "なにわ男子のどっち派 (2025-10-17)で紹介された居酒屋「CheeseTable 池袋店」（東京都豊島区）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-10-17)で紹介されたizakaya「CheeseTable 池袋店」（東京都豊島区）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cheesetable-20251017"
 name: "CheeseTable 池袋店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "豊島区"
 address: "〒171-0022 東京都豊島区南池袋１丁目２６−６ The SH one 11F"

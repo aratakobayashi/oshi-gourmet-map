@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「JELLY JELLY CAFE 渋谷本店」"
-description: "Snow ManのYouTubeで紹介されたカフェ「JELLY JELLY CAFE 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたcafe「JELLY JELLY CAFE 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-jelly_jelly_cafe-20250320"
 name: "JELLY JELLY CAFE 渋谷本店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町10-2 新東京ビル202"

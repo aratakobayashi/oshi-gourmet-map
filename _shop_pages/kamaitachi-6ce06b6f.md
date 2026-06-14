@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "かまいたちが行った「カプリチョーザ 渋谷本店」"
-description: "かまいたちのYouTubeで紹介された食事「カプリチョーザ 渋谷本店」（東京都渋谷区）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「カプリチョーザ 渋谷本店」（東京都渋谷区）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-6ce06b6f-"
 name: "カプリチョーザ 渋谷本店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"

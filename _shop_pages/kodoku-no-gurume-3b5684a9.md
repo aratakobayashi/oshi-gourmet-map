@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「しゃぶ辰 西巣鴨店」"
-description: "孤独のグルメ Season5 第12話で紹介された食事「しゃぶ辰 西巣鴨店」（東京都豊島区）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第12話で紹介されたshokuji「しゃぶ辰 西巣鴨店」（東京都豊島区）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3b5684a9-"
 name: "しゃぶ辰 西巣鴨店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区"

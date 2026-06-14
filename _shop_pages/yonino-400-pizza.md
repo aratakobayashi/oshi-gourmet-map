@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「400℃ PIZZA TOKYO」（東京都新宿区）。食べログ4.02点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。食べログ4.02点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区若宮町13-1 キフアネックス1F"

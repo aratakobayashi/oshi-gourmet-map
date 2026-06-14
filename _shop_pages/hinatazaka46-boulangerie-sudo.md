@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "日向坂46が行った「Boulangerie Sudo」"
-description: "日向坂で会いましょうで紹介されたスイーツ「Boulangerie Sudo」（東京都）。食べログ3.86点、～￥999。推し活グルメ巡礼スポット。"
+description: "日向坂で会いましょうで紹介されたsweets「Boulangerie Sudo」（東京都）。食べログ3.86点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-boulangerie_sudo-"
 name: "Boulangerie Sudo"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 nearest_station: "世田谷線松陰神社前駅 徒歩1分"
 price_range: "～￥999"

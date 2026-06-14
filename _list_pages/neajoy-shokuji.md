@@ -1,8 +1,8 @@
 ---
-title: "≒JOYが行った食事16選"
-description: "≒JOYのメンバーが実際に訪れた食事スポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "≒JOYが行ったshokuji16選"
+description: "≒JOYのメンバーが実際に訪れたshokujiスポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: neajoy
-genre: 食事
+genre: shokuji
 group_label: "≒JOY"
 slug_id: neajoy-shokuji
 shop_count: 16

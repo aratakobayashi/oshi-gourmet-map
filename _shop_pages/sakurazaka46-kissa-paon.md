@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "櫻坂46が行った「喫茶パオーン」"
-description: "櫻坂46 休日まったりカフェ巡りで紹介されたカフェ「喫茶パオーン」（東京都世田谷区）。食べログ3.59点。推し活グルメ巡礼スポット。"
+description: "櫻坂46 休日まったりカフェ巡りで紹介されたcafe「喫茶パオーン」（東京都世田谷区）。食べログ3.59点。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-kissa-paon"
 name: "喫茶パオーン"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区船橋1-1-12"

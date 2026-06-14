@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「ほうとう不動 東恋路店」"
-description: "SixTONESのYouTubeで紹介された和食「ほうとう不動 東恋路店」（山梨県南都留郡富士河口湖町）。食べログ3.48点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「ほうとう不動 東恋路店」（山梨県南都留郡富士河口湖町）。食べログ3.48点。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-houtou-fudo-higashikoji"
 name: "ほうとう不動 東恋路店"
-genre: "和食"
+genre: "washoku"
 prefecture: "山梨県"
 city: "南都留郡富士河口湖町"
 address: "山梨県南都留郡富士河口湖町船津東恋路2458"

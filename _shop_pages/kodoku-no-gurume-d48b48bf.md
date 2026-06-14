@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「三燈舎」"
-description: "孤独のグルメ Season8 第9話で紹介された食事「三燈舎」（東京都千代田区）。食べログ3.67点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第9話で紹介されたshokuji「三燈舎」（東京都千代田区）。食べログ3.67点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d48b48bf-"
 name: "三燈舎"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区"

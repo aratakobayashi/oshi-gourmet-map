@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「ピクシー」"
-description: "嵐にしやがれで紹介されたその他「ピクシー」（東京都葛飾区）。食べログ3.23点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「ピクシー」（東京都葛飾区）。食べログ3.23点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-c0cd7bea-"
 name: "ピクシー"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "葛飾区"
 address: "東京都葛飾区亀有3-42-24"

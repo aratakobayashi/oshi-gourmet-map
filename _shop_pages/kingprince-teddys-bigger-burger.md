@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「TEDDY’S BIGGER BURGERS」"
-description: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！アメリカ代表ハンバーガーのお店はどこ？で紹介された焼肉「TEDDY’S BIGGER BURGERS」（東京都渋谷区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！アメリカ代表ハンバーガーのお店はどこ？で紹介されたyakiniku「TEDDY’S BIGGER BURGERS」（東京都渋谷区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-teddys_bigger_burger-"
 name: "TEDDY’S BIGGER BURGERS"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前6-28-5 宮崎ビル２Ｆ"

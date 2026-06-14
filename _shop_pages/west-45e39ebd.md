@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "PEGO&CO. 世田谷店"
-description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたスイーツ「PEGO&CO. 世田谷店」（東京都）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたsweets「PEGO&CO. 世田谷店」（東京都）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "west-45e39ebd"
 name: "PEGO&CO. 世田谷店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 address: "東京都世田谷区世田谷1-16-24"
 price_range: "～￥999"

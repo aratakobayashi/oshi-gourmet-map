@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「そば 荒木屋」"
-description: "孤独のグルメ Season10 第24話で紹介されたラーメン「そば 荒木屋」（島根県出雲市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたramen「そば 荒木屋」（島根県出雲市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-04750cfb-"
 name: "そば 荒木屋"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "島根県"
 city: "出雲市"
 address: "島根県出雲市"

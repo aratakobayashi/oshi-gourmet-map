@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「辻利 生八ツ橋」"
-description: "Snow ManのYouTubeで紹介された食事「辻利 生八ツ橋」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「辻利 生八ツ橋」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-db5cb4af-20250416"
 name: "辻利 生八ツ橋"
-genre: "食事"
+genre: "shokuji"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市東山区四条通大和大路東入祇園町北側242"

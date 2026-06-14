@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「FRAMES （フレームス）CAFE」"
-description: "トークィーンズ【永瀬廉ロケ地】カフェレストランはどこ？アンミカ事前取材で紹介されたカフェ「FRAMES （フレームス）CAFE」（東京都目黒区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【永瀬廉ロケ地】カフェレストランはどこ？アンミカ事前取材で紹介されたcafe「FRAMES （フレームス）CAFE」（東京都目黒区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-frames_cafe-"
 name: "FRAMES （フレームス）CAFE"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒1-18-6 ＮＭビル 1Ｆ"

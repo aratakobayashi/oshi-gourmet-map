@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「麻布台ヒルズ」"
-description: "=LOVEのYouTubeで紹介された食事「麻布台ヒルズ」（東京都港区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「麻布台ヒルズ」（東京都港区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0c9fa5e4-20250801"
 name: "麻布台ヒルズ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区麻布台１丁目"

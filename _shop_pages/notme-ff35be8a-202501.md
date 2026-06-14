@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≠MEが行った「浅草きんぎょ」"
-description: "≠MEのYouTubeで紹介された食事「浅草きんぎょ」（東京都台東区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたshokuji「浅草きんぎょ」（東京都台東区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-ff35be8a-202501"
 name: "浅草きんぎょ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草２丁目７−１３"

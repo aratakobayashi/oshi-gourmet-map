@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「MJQ」"
-description: "嵐にしやがれで紹介された食事「MJQ」（東京都中央区）。食べログ3.15点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「MJQ」（東京都中央区）。食べログ3.15点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-mjq-20200101"
 name: "MJQ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座5丁目15−1 南海東京ビル1F"

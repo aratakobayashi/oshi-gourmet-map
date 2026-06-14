@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「いづみや精肉店」"
-description: "乃木坂配信中　さくさんぽで紹介されたその他「いづみや精肉店」（石川県加賀市）。食べログ3.13点。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中　さくさんぽで紹介されたothers「いづみや精肉店」（石川県加賀市）。食べログ3.13点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6da56ed8-"
 name: "いづみや精肉店"
-genre: "その他"
+genre: "others"
 prefecture: "石川県"
 city: "加賀市"
 address: "石川県加賀市山中温泉南町ニ−16"

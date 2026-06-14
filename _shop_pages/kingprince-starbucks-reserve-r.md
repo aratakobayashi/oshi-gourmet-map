@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「STARBUCKS RESERVE(R) ROASTERY TOKYO」"
-description: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？で紹介されたその他「STARBUCKS RESERVE(R) ROASTERY TOKYO」（東京都目黒区）。食べログ3.17点、～￥999。推し活グルメ巡礼スポット。"
+description: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？で紹介されたothers「STARBUCKS RESERVE(R) ROASTERY TOKYO」（東京都目黒区）。食べログ3.17点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-starbucks_reserve_r-"
 name: "STARBUCKS RESERVE(R) ROASTERY TOKYO"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区青葉台２丁目１９−２３"

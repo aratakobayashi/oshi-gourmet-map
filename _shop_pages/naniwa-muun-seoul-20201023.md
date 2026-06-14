@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MUUN seoul」"
-description: "なにわ男子が訪れたカフェ「MUUN seoul」（東京都渋谷区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子が訪れたcafe「MUUN seoul」（東京都渋谷区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-muun_seoul-20201023"
 name: "MUUN seoul"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前3-27-15 1E"

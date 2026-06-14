@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BLTステーキ 銀座」"
-description: "2016.07.20 グルメ探偵調査で紹介された焼肉「BLTステーキ 銀座」（東京都中央区）。食べログ3.54点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "2016.07.20 グルメ探偵調査で紹介されたyakiniku「BLTステーキ 銀座」（東京都中央区）。食べログ3.54点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座5丁目4-6"

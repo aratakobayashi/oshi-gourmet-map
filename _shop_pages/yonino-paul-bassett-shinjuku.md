@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Paul Bassett 新宿」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Paul Bassett 新宿」（東京都新宿区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Paul Bassett 新宿」（東京都新宿区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-paul-bassett-shinjuku"
 name: "Paul Bassett 新宿"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿1-26-2 新宿野村ビルB1F"

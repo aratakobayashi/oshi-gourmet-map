@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「COZY PLACE」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チーズトンカツのお店はどこ？で紹介されたその他「COZY PLACE」（東京都新宿区）。食べログ3.3点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チーズトンカツのお店はどこ？で紹介されたothers「COZY PLACE」（東京都新宿区）。食べログ3.3点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cozy_place-"
 name: "COZY PLACE"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町2-1-3 K-plaza3号館 2F"

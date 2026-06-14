@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「白水堂 思案橋本店」"
-description: "長崎【水玉模様】で紹介されたスイーツ「白水堂 思案橋本店」（長崎県長崎市）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "長崎【水玉模様】で紹介されたsweets「白水堂 思案橋本店」（長崎県長崎市）。食べログ3.07点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9c79a146-"
 name: "白水堂 思案橋本店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "長崎県"
 city: "長崎市"
 address: "長崎県長崎市油屋町1-3"

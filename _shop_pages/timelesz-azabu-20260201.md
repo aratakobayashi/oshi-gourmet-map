@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「AZABU 草ふえ」"
-description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたダイニングバー「AZABU 草ふえ」（東京都港区）。食べログ3.15点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたizakaya「AZABU 草ふえ」（東京都港区）。食べログ3.15点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-azabu-20260201"
 name: "AZABU 草ふえ"
-genre: "ダイニングバー"
+genre: "izakaya"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布2-25-13 石原ビル 2F-3F"

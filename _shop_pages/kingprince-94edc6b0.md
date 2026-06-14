@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ドミノピザ 浜松町店」"
-description: "【キントレバイトレロケ地】髙橋海人がバイトをしたドミノピザはどこ？で紹介された食事「ドミノピザ 浜松町店」（東京都港区）。食べログ3.01点。推し活グルメ巡礼スポット。"
+description: "【キントレバイトレロケ地】髙橋海人がバイトをしたドミノピザはどこ？で紹介されたshokuji「ドミノピザ 浜松町店」（東京都港区）。食べログ3.01点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-94edc6b0-"
 name: "ドミノピザ 浜松町店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区浜松町1-10-11 VORT浜松町Ⅱ"

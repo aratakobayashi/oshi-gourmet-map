@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「PLUG」"
-description: "嵐にしやがれで紹介された食事「PLUG」（大阪府大阪市）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「PLUG」（大阪府大阪市）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-plug-20180908"
 name: "PLUG"
-genre: "食事"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市北区中崎西1-8-3 suehirogari bldg. 1F"

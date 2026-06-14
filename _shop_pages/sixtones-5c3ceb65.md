@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「オリジン弁当 イオンスタイル幕張新都心店」"
-description: "SixTONES【モーニングは弁当？】最強MCジェシーが回す〜（2024/06/14配信回）で紹介された和食「オリジン弁当 イオンスタイル幕張新都心店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【モーニングは弁当？】最強MCジェシーが回す〜（2024/06/14配信回）で紹介されたwashoku「オリジン弁当 イオンスタイル幕張新都心店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-5c3ceb65-"
 name: "オリジン弁当 イオンスタイル幕張新都心店"
-genre: "和食"
+genre: "washoku"
 prefecture: "千葉県"
 city: "千葉市"
 address: "〒261-8535 千葉県千葉市美浜区豊砂１−１"

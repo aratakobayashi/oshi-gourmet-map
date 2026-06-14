@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大3木（ダイサンボク）」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「大3木（ダイサンボク）」（東京都港区）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「大3木（ダイサンボク）」（東京都港区）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区南青山1-3-6"

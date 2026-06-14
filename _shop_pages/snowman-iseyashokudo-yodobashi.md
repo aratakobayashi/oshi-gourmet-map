@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂（淀橋市場内）」"
-description: "Snow ManのYouTubeで紹介されたその他「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたothers「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-iseyashokudo-yodobashi"
 name: "伊勢屋食堂（淀橋市場内）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区北新宿4-2-1 淀橋市場内"

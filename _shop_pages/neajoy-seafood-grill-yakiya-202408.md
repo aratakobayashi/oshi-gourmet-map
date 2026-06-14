@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "≒JOYが行った「レストラン Seafood ＆ Grill YAKIYA」"
-description: "≒JOYのYouTubeで紹介された食事「レストラン Seafood ＆ Grill YAKIYA」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたshokuji「レストラン Seafood ＆ Grill YAKIYA」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-seafood_grill_yakiya-202408"
 name: "レストラン Seafood ＆ Grill YAKIYA"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市金沢区八景島 ベイマーケットB棟"

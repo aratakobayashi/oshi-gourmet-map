@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和栗や」"
-description: "乃木坂配信中　さくさんぽで紹介されたその他「和栗や」。食べログ3.79点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中　さくさんぽで紹介されたothers「和栗や」。食べログ3.79点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6ebe4bd3-"
 name: "和栗や"
-genre: "その他"
+genre: "others"
 address: "台東区谷中３丁目９−１４"
 nearest_station: "千駄木駅 徒歩4分"
 price_range: "￥1,000～￥1,999"

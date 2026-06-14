@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MONT-NOM」"
-description: "なにわ男子のどっち派 (2023-09-01)で紹介されたカフェ「MONT-NOM」（東京都目黒区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-09-01)で紹介されたcafe「MONT-NOM」（東京都目黒区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-mont_nom-20230901"
 name: "MONT-NOM"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区自由が丘1丁目24-16"

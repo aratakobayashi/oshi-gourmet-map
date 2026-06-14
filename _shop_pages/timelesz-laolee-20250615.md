@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「台湾餃子LAOLEE 中目黒店」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介された焼肉「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。食べログ3.3点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたyakiniku「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。食べログ3.3点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-laolee-20250615"
 name: "台湾餃子LAOLEE 中目黒店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "目黒区"
 address: "〒153-0051 東京都目黒区上目黒1丁目13-6"

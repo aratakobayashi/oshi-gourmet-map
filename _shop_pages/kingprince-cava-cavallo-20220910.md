@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAVA CAVALLO」"
-description: "King&Princeる。当たり前レストランで紹介された食事「CAVA CAVALLO」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「CAVA CAVALLO」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cava_cavallo-20220910"
 name: "CAVA CAVALLO"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前3丁目23−8 原宿小嶋ビル 2階 最寄駅 明治神宮前〈原宿〉駅"

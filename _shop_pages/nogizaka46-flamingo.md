@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「FLAMINGO」"
-description: "フラミンゴ【ロマンスのスタート・逃げ水】で紹介されたカフェ「FLAMINGO」（東京都渋谷区）。食べログ3.24点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "フラミンゴ【ロマンスのスタート・逃げ水】で紹介されたcafe「FLAMINGO」（東京都渋谷区）。食べログ3.24点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-flamingo-"
 name: "FLAMINGO"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町10-2 渋谷宇田川町テナント 1F"

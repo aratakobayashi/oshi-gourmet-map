@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「OFF KINOSAKI」"
-description: "亀梨和也のYouTubeで紹介された食事「OFF KINOSAKI」（兵庫県豊岡市）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたshokuji「OFF KINOSAKI」（兵庫県豊岡市）。食べログ3.21点。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-off_kinosaki-20241218"
 name: "OFF KINOSAKI"
-genre: "食事"
+genre: "shokuji"
 prefecture: "兵庫県"
 city: "豊岡市"
 address: "兵庫県豊岡市城崎町湯島５３６"

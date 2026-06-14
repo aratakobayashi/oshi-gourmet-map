@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「炭焼 うな富士 有楽町店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「炭焼 うな富士 有楽町店」（東京都千代田区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「炭焼 うな富士 有楽町店」（東京都千代田区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-unafuji-yurakucho"
 name: "炭焼 うな富士 有楽町店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区内幸町1-7-1 日比谷OKUROJI"

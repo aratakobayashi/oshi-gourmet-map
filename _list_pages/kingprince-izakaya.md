@@ -1,8 +1,8 @@
 ---
-title: "King & Princeが行った居酒屋10選"
-description: "King & Princeのメンバーが実際に訪れた居酒屋スポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったizakaya10選"
+description: "King & Princeのメンバーが実際に訪れたizakayaスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
-genre: 居酒屋
+genre: izakaya
 group_label: "King & Prince"
 slug_id: kingprince-izakaya
 shop_count: 10

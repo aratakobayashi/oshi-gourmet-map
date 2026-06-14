@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂 金舌」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「赤坂 金舌」（東京都港区）。食べログ3.5点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「赤坂 金舌」（東京都港区）。食べログ3.5点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kintan-akasaka"
 name: "赤坂 金舌"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂3-11-7 ソシアル赤坂ビル1F"

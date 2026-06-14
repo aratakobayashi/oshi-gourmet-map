@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「（有）三森生花店」"
-description: "ベストアルバムポスター貼りで紹介されたその他「（有）三森生花店」（山梨県都留市）。推し活グルメ巡礼スポット。"
+description: "ベストアルバムポスター貼りで紹介されたothers「（有）三森生花店」（山梨県都留市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-049fc528-"
 name: "（有）三森生花店"
-genre: "その他"
+genre: "others"
 prefecture: "山梨県"
 city: "都留市"
 address: "都留市四日市場１３６−１"

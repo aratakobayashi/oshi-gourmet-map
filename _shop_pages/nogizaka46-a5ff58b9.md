@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「居酒屋 幸福の木」"
-description: "何度目の青空か　深川個人PVで紹介された居酒屋「居酒屋 幸福の木」（栃木県足利市）。推し活グルメ巡礼スポット。"
+description: "何度目の青空か　深川個人PVで紹介されたizakaya「居酒屋 幸福の木」（栃木県足利市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-a5ff58b9-"
 name: "居酒屋 幸福の木"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "栃木県"
 city: "足利市"
 address: "足利市堀込町2579-3"

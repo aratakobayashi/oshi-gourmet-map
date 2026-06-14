@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「いも工房 かくたに」"
-description: "孤独のグルメ Season10 第2021話で紹介された食事「いも工房 かくたに」（静岡県富士宮市）。食べログ3.19点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介されたshokuji「いも工房 かくたに」（静岡県富士宮市）。食べログ3.19点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3fc57db2-"
 name: "いも工房 かくたに"
-genre: "食事"
+genre: "shokuji"
 prefecture: "静岡県"
 city: "富士宮市"
 address: "静岡県富士宮市"

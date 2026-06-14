@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「lattencos」"
-description: "なにわ男子のどっち派 (2024-01-05)で紹介されたカフェ「lattencos」（東京都新宿区）。食べログ3.23点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-01-05)で紹介されたcafe「lattencos」（東京都新宿区）。食べログ3.23点。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-lattencos-20240105"
 name: "lattencos"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町１丁目１５−２４"

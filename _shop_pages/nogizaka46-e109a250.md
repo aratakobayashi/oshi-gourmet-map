@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「くずきり みのわ」"
-description: "21thジコチューで行こう！Type-Dで紹介されたスイーツ「くずきり みのわ」（神奈川県鎌倉市）。食べログ3.8点。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介されたsweets「くずきり みのわ」（神奈川県鎌倉市）。食べログ3.8点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-e109a250-"
 name: "くずきり みのわ"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市佐助2-6-1"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「NEWかれいど」"
-description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたラーメン「NEWかれいど」（埼玉県川越市）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたramen「NEWかれいど」（埼玉県川越市）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-new-20250603"
 name: "NEWかれいど"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "埼玉県"
 city: "川越市"
 address: "〒350-0066　埼玉県川越市連雀町10−1"

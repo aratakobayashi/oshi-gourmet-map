@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「紀の善」"
-description: "他の星からで紹介された食事「紀の善」（東京都新宿区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "他の星からで紹介されたshokuji「紀の善」（東京都新宿区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f819bab4-"
 name: "紀の善"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区神楽坂1-12 紀の善ビル"

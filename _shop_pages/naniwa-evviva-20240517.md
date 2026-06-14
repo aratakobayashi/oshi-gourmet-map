@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「EVVIVA!」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介された食事「EVVIVA!」（神奈川県海老名市）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-05-17)で紹介されたshokuji「EVVIVA!」（神奈川県海老名市）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-evviva-20240517"
 name: "EVVIVA!"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "海老名市"
 address: "神奈川県海老名市扇町１３−１"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Bakery＆Table Sweets 伊豆」"
-description: "なにわ男子のどっち派 (2025-12-19)で紹介されたカフェ「Bakery＆Table Sweets 伊豆」（静岡県賀茂郡東伊豆町）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-12-19)で紹介されたcafe「Bakery＆Table Sweets 伊豆」（静岡県賀茂郡東伊豆町）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-bakery_table_sweets-20251219"
 name: "Bakery＆Table Sweets 伊豆"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "静岡県"
 city: "賀茂郡東伊豆町"
 address: "静岡県賀茂郡東伊豆町奈良本1457-30"

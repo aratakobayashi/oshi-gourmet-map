@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「横浜博覧館（ガーデンテラスカフェ・開華楼）」"
-description: "=LOVEのYouTubeで紹介されたカフェ「横浜博覧館（ガーデンテラスカフェ・開華楼）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「横浜博覧館（ガーデンテラスカフェ・開華楼）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_002"
 name: "横浜博覧館（ガーデンテラスカフェ・開華楼）"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町145"

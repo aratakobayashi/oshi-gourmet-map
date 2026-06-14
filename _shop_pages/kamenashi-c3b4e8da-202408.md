@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「布恒更科」"
-description: "亀梨和也のYouTubeで紹介された和食「布恒更科」（東京都品川区）。食べログ3.67点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたwashoku「布恒更科」（東京都品川区）。食べログ3.67点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-c3b4e8da-202408"
 name: "布恒更科"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区南大井３丁目１８−８"

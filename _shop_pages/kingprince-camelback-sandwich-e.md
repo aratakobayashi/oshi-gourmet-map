@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAMELBACK sandwich&espresso」"
-description: "【ニノさん】元寿司職人が作る究極の玉子サンドのお店はどこ？で紹介されたその他「CAMELBACK sandwich&espresso」（東京都渋谷区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "【ニノさん】元寿司職人が作る究極の玉子サンドのお店はどこ？で紹介されたothers「CAMELBACK sandwich&espresso」（東京都渋谷区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-camelback_sandwich_e-"
 name: "CAMELBACK sandwich&espresso"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神山町42-2"

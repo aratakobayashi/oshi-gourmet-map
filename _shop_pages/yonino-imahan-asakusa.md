@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草今半 国際通り本店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「浅草今半 国際通り本店」（東京都台東区）。食べログ3.63点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草今半 国際通り本店」（東京都台東区）。食べログ3.63点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-imahan-asakusa"
 name: "浅草今半 国際通り本店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区西浅草3-1-12"

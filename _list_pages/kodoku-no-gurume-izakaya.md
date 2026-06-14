@@ -1,8 +1,8 @@
 ---
-title: "「孤独のグルメ」登場居酒屋6選"
-description: "ドラマ「孤独のグルメ」に登場した居酒屋スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場izakaya6選"
+description: "ドラマ「孤独のグルメ」に登場したizakayaスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
-genre: 居酒屋
+genre: izakaya
 group_label: "孤独のグルメ"
 slug_id: kodoku-no-gurume-izakaya
 shop_count: 6

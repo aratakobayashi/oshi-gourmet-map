@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「沼津港海将 zero 上野店」"
-description: "=LOVEのYouTubeで紹介された寿司「沼津港海将 zero 上野店」（東京都台東区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「沼津港海将 zero 上野店」（東京都台東区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-zero-202511"
 name: "沼津港海将 zero 上野店"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区上野６丁目９−１３"

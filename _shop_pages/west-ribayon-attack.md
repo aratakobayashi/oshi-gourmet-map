@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "RIBAYON ATTACK"
-description: "イキスギさんについてった 第14回で紹介された中華「RIBAYON ATTACK」（東京都中央区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 第14回で紹介されたchuka「RIBAYON ATTACK」（東京都中央区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "west-ribayon_attack-"
 name: "RIBAYON ATTACK"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋室町3丁目2-1 OVOL日本橋ビルB1"

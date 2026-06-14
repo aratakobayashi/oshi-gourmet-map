@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥椿 鶯谷朝顔通り店」"
-description: "孤独のグルメ Season3 第8話で紹介された和食「鳥椿 鶯谷朝顔通り店」（東京都台東区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第8話で紹介されたwashoku「鳥椿 鶯谷朝顔通り店」（東京都台東区）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8cd47230-"
 name: "鳥椿 鶯谷朝顔通り店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区"

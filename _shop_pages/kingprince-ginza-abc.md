@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「GINZA ABCラーメン」"
-description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたラーメン「GINZA ABCラーメン」（東京都中央区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたramen「GINZA ABCラーメン」（東京都中央区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ginza_abc-"
 name: "GINZA ABCラーメン"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座3-5-5 南風ビル Ｂ1Ｆ"

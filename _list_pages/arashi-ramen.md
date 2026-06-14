@@ -1,8 +1,8 @@
 ---
-title: "arashiが行ったラーメン44選"
-description: "arashiのメンバーが実際に訪れたラーメンスポットを44件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "arashiが行ったramen44選"
+description: "arashiのメンバーが実際に訪れたramenスポットを44件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
-genre: ラーメン
+genre: ramen
 group_label: "arashi"
 slug_id: arashi-ramen
 shop_count: 44

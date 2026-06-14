@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「むかん横浜」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「むかん横浜」（神奈川県横浜市中区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「むかん横浜」（神奈川県横浜市中区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-mukann-yokohama"
 name: "むかん横浜"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "神奈川県"
 city: "横浜市中区"
 address: "神奈川県横浜市中区日ノ出町1-103-1"

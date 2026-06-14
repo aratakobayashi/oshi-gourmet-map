@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "若駒"
-description: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～で紹介された食事「若駒」（北海道）。食べログ3.31点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～で紹介されたshokuji「若駒」（北海道）。食べログ3.31点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-bc91617f-"
 name: "若駒"
-genre: "食事"
+genre: "shokuji"
 prefecture: "北海道"
 price_range: "￥3,000～￥3,999"
 source_video_title: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～"

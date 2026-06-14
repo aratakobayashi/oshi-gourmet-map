@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「BUB RESORT Yatsugatake」"
-description: "なにわ男子のどっち派 (2025-01-24)で紹介された食事「BUB RESORT Yatsugatake」（山梨県北杜市）。食べログ3.02点、￥50,000～￥59,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-01-24)で紹介されたshokuji「BUB RESORT Yatsugatake」（山梨県北杜市）。食べログ3.02点、￥50,000～￥59,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-bub_resort_yatsugata-20250124"
 name: "BUB RESORT Yatsugatake"
-genre: "食事"
+genre: "shokuji"
 prefecture: "山梨県"
 city: "北杜市"
 address: "山梨県北杜市高根町清里 字念場原3545-1-148"

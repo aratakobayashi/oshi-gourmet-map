@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「お食事 樹」"
-description: "孤独のグルメ Season2 第12話で紹介された食事「お食事 樹」（東京都三鷹市）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第12話で紹介されたshokuji「お食事 樹」（東京都三鷹市）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9ad73284-"
 name: "お食事 樹"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "三鷹市"
 address: "東京都三鷹市"

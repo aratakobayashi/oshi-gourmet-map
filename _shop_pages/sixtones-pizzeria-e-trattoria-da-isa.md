@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「Pizzeria e Trattoria da ISA」"
-description: "SixTONESのYouTubeで紹介されたその他「Pizzeria e Trattoria da ISA」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたothers「Pizzeria e Trattoria da ISA」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-pizzeria-e-trattoria-da-isa"
 name: "Pizzeria e Trattoria da ISA"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区中目黒"

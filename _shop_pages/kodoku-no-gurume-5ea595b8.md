@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「自由軒」"
-description: "孤独のグルメ Season10 第2016話で紹介された食事「自由軒」（北海道旭川市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2016話で紹介されたshokuji「自由軒」（北海道旭川市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5ea595b8-"
 name: "自由軒"
-genre: "食事"
+genre: "shokuji"
 prefecture: "北海道"
 city: "旭川市"
 address: "北海道旭川市"

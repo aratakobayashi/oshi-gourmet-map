@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「らーめん ぽっぽっ屋 水道橋店」"
-description: "=LOVEのYouTubeで紹介されたラーメン「らーめん ぽっぽっ屋 水道橋店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「らーめん ぽっぽっ屋 水道橋店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-85f871ac-202512"
 name: "らーめん ぽっぽっ屋 水道橋店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田三崎町２丁目２１−１１ ゑびすビル 1F"

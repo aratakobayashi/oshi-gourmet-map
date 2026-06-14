@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「居酒屋 舞子」"
-description: "孤独のグルメ Season10 第8話で紹介された居酒屋「居酒屋 舞子」（富山県富山市）。食べログ3.45点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第8話で紹介されたizakaya「居酒屋 舞子」（富山県富山市）。食べログ3.45点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-842790b5-"
 name: "居酒屋 舞子"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "富山県"
 city: "富山市"
 address: "富山県富山市"

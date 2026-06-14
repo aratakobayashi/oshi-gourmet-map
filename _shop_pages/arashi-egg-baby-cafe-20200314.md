@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「エッグ ベイビー カフェ (egg baby cafe)」"
-description: "嵐にしやがれで紹介されたカフェ「エッグ ベイビー カフェ (egg baby cafe)」（東京都台東区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたcafe「エッグ ベイビー カフェ (egg baby cafe)」（東京都台東区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-egg_baby_cafe-20200314"
 name: "エッグ ベイビー カフェ (egg baby cafe)"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区上野5-10-9"

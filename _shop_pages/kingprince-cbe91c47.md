@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「板山不動尊」"
-description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたその他「板山不動尊」（新潟県上越市）。推し活グルメ巡礼スポット。"
+description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたothers「板山不動尊」（新潟県上越市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cbe91c47-"
 name: "板山不動尊"
-genre: "その他"
+genre: "others"
 prefecture: "新潟県"
 city: "上越市"
 address: "新潟県上越市大島区板山"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「HERO'S ステーキハウス 秋葉原店」"
-description: "2016.04.14 春の大盛りグルメで紹介された焼肉「HERO'S ステーキハウス 秋葉原店」（東京都千代田区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2016.04.14 春の大盛りグルメで紹介されたyakiniku「HERO'S ステーキハウス 秋葉原店」（東京都千代田区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-hero_s-20160414"
 name: "HERO'S ステーキハウス 秋葉原店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区外神田1-6-7 秋葉原センタービル1F"

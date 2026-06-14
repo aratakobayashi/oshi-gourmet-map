@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鰻の名店割烹 松の家」"
-description: "孤独のグルメ Season10 第2021話で紹介された和食「鰻の名店割烹 松の家」（静岡県浜松市）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介されたwashoku「鰻の名店割烹 松の家」（静岡県浜松市）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5fe3fbab-"
 name: "鰻の名店割烹 松の家"
-genre: "和食"
+genre: "washoku"
 prefecture: "静岡県"
 city: "浜松市"
 address: "静岡県浜松市"

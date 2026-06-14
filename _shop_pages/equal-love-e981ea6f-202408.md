@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「ひろしま夢ぷらざ」"
-description: "=LOVEのYouTubeで紹介されたその他「ひろしま夢ぷらざ」（広島県広島市）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたothers「ひろしま夢ぷらざ」（広島県広島市）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-e981ea6f-202408"
 name: "ひろしま夢ぷらざ"
-genre: "その他"
+genre: "others"
 prefecture: "広島県"
 city: "広島市"
 address: "広島県広島市中区本通８−２８"

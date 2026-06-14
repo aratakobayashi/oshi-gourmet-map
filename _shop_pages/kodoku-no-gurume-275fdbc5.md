@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「シリンゴル」"
-description: "孤独のグルメ Season9 第11話で紹介された食事「シリンゴル」（東京都豊島区）。食べログ3.54点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第11話で紹介されたshokuji「シリンゴル」（東京都豊島区）。食べログ3.54点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-275fdbc5-"
 name: "シリンゴル"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "NCTが行った「道頓堀 テヨン」"
-description: "NCTで紹介されたその他「道頓堀 テヨン」（大阪府大阪市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "NCTで紹介されたothers「道頓堀 テヨン」（大阪府大阪市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_nct-3cab94de-"
 name: "道頓堀 テヨン"
-genre: "その他"
+genre: "others"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市中央区道頓堀1丁目10ー4"

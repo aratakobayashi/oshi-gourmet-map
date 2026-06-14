@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "なにわ男子が行った「annorum」"
-description: "なにわ男子のどっち派 (2023-10-20)で紹介されたカフェ「annorum」（東京都台東区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-10-20)で紹介されたcafe「annorum」（東京都台東区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-annorum-20231020"
 name: "annorum"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草４丁目７−１１"

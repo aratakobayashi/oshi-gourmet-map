@@ -1,8 +1,8 @@
 ---
-title: "westが行った居酒屋8選"
-description: "westのメンバーが実際に訪れた居酒屋スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "westが行ったizakaya8選"
+description: "westのメンバーが実際に訪れたizakayaスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
-genre: 居酒屋
+genre: izakaya
 group_label: "west"
 slug_id: west-izakaya
 shop_count: 8

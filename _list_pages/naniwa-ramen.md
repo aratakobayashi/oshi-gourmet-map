@@ -1,8 +1,8 @@
 ---
-title: "なにわ男子が行ったラーメン13選"
-description: "なにわ男子のメンバーが実際に訪れたラーメンスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子が行ったramen13選"
+description: "なにわ男子のメンバーが実際に訪れたramenスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
-genre: ラーメン
+genre: ramen
 group_label: "なにわ男子"
 slug_id: naniwa-ramen
 shop_count: 13

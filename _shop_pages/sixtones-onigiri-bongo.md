@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「おにぎり ぼんご」"
-description: "SixTONESのYouTubeで紹介された和食「おにぎり ぼんご」（東京都豊島区）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「おにぎり ぼんご」（東京都豊島区）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-onigiri-bongo"
 name: "おにぎり ぼんご"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区北大塚"

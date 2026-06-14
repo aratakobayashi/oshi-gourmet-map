@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ヒルトン東京 マーブルラウンジ」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。食べログ3.48点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。食べログ3.48点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hilton-marble-lounge"
 name: "ヒルトン東京 マーブルラウンジ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿6-6-2 ヒルトン東京1F"

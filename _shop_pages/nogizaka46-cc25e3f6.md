@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「めん八食堂」"
-description: "ベストアルバムポスター貼りで紹介された和食「めん八食堂」（長野県須坂市）。食べログ3.06点。推し活グルメ巡礼スポット。"
+description: "ベストアルバムポスター貼りで紹介されたwashoku「めん八食堂」（長野県須坂市）。食べログ3.06点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cc25e3f6-"
 name: "めん八食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "長野県"
 city: "須坂市"
 address: "須坂市旭ケ丘２１２９−４"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「PATISSIER SHIMA（パティシエ・シマ）」"
-description: "【キンプるで紹介】クレームブリュレはどこ？当たり前レストランで永瀬廉＆髙橋海人が大絶賛！で紹介されたその他「PATISSIER SHIMA（パティシエ・シマ）」（東京都千代田区）。食べログ3.62点。推し活グルメ巡礼スポット。"
+description: "【キンプるで紹介】クレームブリュレはどこ？当たり前レストランで永瀬廉＆髙橋海人が大絶賛！で紹介されたothers「PATISSIER SHIMA（パティシエ・シマ）」（東京都千代田区）。食べログ3.62点。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-patissier_shima-"
 name: "PATISSIER SHIMA（パティシエ・シマ）"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区麹町3-12-4 麹町KYビル1F"

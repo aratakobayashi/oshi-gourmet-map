@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大人食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「大人食堂」（東京都新宿区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「大人食堂」（東京都新宿区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-otona-shokudo"
 name: "大人食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿3-11-6 エクレ新宿303"

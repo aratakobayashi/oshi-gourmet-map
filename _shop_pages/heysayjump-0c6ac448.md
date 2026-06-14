@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「孔家飯店」"
-description: "メレンゲの気持ち 2017.07.29で紹介された食事「孔家飯店」（東京都中央区）。食べログ3.33点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「孔家飯店」（東京都中央区）。食べログ3.33点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-0c6ac448-"
 name: "孔家飯店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座8-7-16"

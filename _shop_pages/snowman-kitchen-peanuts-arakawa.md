@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン ぴーなっつ」"
-description: "Snow Manが訪れた食事「キッチン ぴーなっつ」（東京都荒川区）。食べログ3.22点。推し活グルメ巡礼スポット。"
+description: "Snow Manが訪れたshokuji「キッチン ぴーなっつ」（東京都荒川区）。食べログ3.22点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-peanuts-arakawa"
 name: "キッチン ぴーなっつ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "荒川区"
 address: "東京都荒川区西尾久6-18-1"

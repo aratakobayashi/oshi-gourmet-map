@@ -1,8 +1,8 @@
 ---
-title: "kpop_riizeが行ったその他8選"
-description: "kpop_riizeのメンバーが実際に訪れたその他スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "kpop_riizeが行ったothers8選"
+description: "kpop_riizeのメンバーが実際に訪れたothersスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_riize
-genre: その他
+genre: others
 group_label: "kpop_riize"
 slug_id: kpop-riize-others
 shop_count: 8

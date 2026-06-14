@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂ごはん 山ね家」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「赤坂ごはん 山ね家」（東京都港区）。食べログ3.65点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「赤坂ごはん 山ね家」（東京都港区）。食べログ3.65点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-akasaka-gohan-yamaneya"
 name: "赤坂ごはん 山ね家"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂7-8-1"

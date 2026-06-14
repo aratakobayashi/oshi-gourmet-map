@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「IORI」"
-description: "=LOVEのYouTubeで紹介された食事「IORI」（北海道千歳市）。食べログ3.66点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「IORI」（北海道千歳市）。食べログ3.66点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"
-genre: "食事"
+genre: "shokuji"
 prefecture: "北海道"
 city: "千歳市"
 address: "北海道千歳市住吉１丁目１２−２"

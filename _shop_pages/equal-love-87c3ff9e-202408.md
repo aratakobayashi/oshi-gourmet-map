@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「八倉 -湘南の魚と鎌倉野菜-」"
-description: "=LOVEのYouTubeで紹介された和食「八倉 -湘南の魚と鎌倉野菜-」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「八倉 -湘南の魚と鎌倉野菜-」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-87c3ff9e-202408"
 name: "八倉 -湘南の魚と鎌倉野菜-"
-genre: "和食"
+genre: "washoku"
 prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市小町２丁目７−２８"

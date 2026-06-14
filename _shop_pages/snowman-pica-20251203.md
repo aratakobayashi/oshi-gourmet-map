@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「PICA富士西湖」"
-description: "Snow ManのYouTubeで紹介された食事「PICA富士西湖」（山梨県）。食べログ3.01点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「PICA富士西湖」（山梨県）。食べログ3.01点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pica-20251203"
 name: "PICA富士西湖"
-genre: "食事"
+genre: "shokuji"
 prefecture: "山梨県"
 address: "山梨県南都留郡富士河口湖町西湖2068-1"
 nearest_station: "バス：富士急行線「河口湖駅」下車→ 「河口湖駅」より＜路線バス：西湖民宿行き＞または＜西湖・青木ヶ原周遊バス＞で、「西湖民宿」下車徒歩1分"

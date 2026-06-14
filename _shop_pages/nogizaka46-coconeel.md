@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「COCONEEL」"
-description: "歌舞伎町【スカウトマン】で紹介された居酒屋「COCONEEL」（東京都新宿区）。食べログ3.11点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "歌舞伎町【スカウトマン】で紹介されたizakaya「COCONEEL」（東京都新宿区）。食べログ3.11点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-coconeel-"
 name: "COCONEEL"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区歌舞伎町1-23-13 下村ビル　Ｂ１Ｆ"

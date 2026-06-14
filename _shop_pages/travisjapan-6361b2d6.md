@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "もつ鍋 仙頭"
-description: "Travis Japan 福岡旅 もつ鍋で紹介された食事「もつ鍋 仙頭」（福岡県福岡市）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Travis Japan 福岡旅 もつ鍋で紹介されたshokuji「もつ鍋 仙頭」（福岡県福岡市）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-6361b2d6-"
 name: "もつ鍋 仙頭"
-genre: "食事"
+genre: "shokuji"
 prefecture: "福岡県"
 city: "福岡市"
 address: "福岡県福岡市中央区赤坂"

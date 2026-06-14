@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つり堀 武蔵野園」"
-description: "孤独のグルメ Season1 第5話で紹介されたラーメン「つり堀 武蔵野園」（東京都杉並区）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第5話で紹介されたramen「つり堀 武蔵野園」（東京都杉並区）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区"

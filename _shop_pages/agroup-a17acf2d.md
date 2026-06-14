@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "あたりや"
-description: "なにわTube【横山会第2弾】お好み焼き屋さんはどこ？横山裕の地元・行きつけ！？で紹介されたその他「あたりや」（大阪府大阪市）。食べログ3.2点。推し活グルメ巡礼スポット。"
+description: "なにわTube【横山会第2弾】お好み焼き屋さんはどこ？横山裕の地元・行きつけ！？で紹介されたothers「あたりや」（大阪府大阪市）。食べログ3.2点。推し活グルメ巡礼スポット。"
 shop_id: "agroup-a17acf2d-"
 name: "あたりや"
-genre: "その他"
+genre: "others"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市此花区高見2-4-16"

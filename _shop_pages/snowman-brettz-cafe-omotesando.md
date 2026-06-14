@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「ブレッツカフェ クレープリー 表参道店」"
-description: "Snow ManのYouTubeで紹介されたカフェ「ブレッツカフェ クレープリー 表参道店」（東京都渋谷区）。食べログ3.52点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたcafe「ブレッツカフェ クレープリー 表参道店」（東京都渋谷区）。食べログ3.52点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-brettz-cafe-omotesando"
 name: "ブレッツカフェ クレープリー 表参道店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前3-5-4"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「BALLPARK BURGER &9」"
-description: "=LOVEのYouTubeで紹介された食事「BALLPARK BURGER &9」（神奈川県横浜市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「BALLPARK BURGER &9」（神奈川県横浜市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区日本大通34"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「Latte Art Mania Tokyo」"
-description: "菊池風磨 国立競技場カフェロケ地で紹介されたカフェ「Latte Art Mania Tokyo」（東京都港区）。食べログ3.52点。推し活グルメ巡礼スポット。"
+description: "菊池風磨 国立競技場カフェロケ地で紹介されたcafe「Latte Art Mania Tokyo」（東京都港区）。食べログ3.52点。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-latte_art_mania_toky-20250101"
 name: "Latte Art Mania Tokyo"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山2丁目"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よろにく"
-description: "KinKi Kidsのブンブブーンで紹介された焼肉「よろにく」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介されたyakiniku「よろにく」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-6eda1c89-"
 name: "よろにく"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区南青山6-6-22"

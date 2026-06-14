@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「挽肉と米 渋谷」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「挽肉と米 渋谷」（東京都渋谷区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「挽肉と米 渋谷」（東京都渋谷区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hikiniku-to-kome"
 name: "挽肉と米 渋谷"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区道玄坂2-28-1 椎津ビル3F"

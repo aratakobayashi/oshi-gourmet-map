@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「PRESQU’ILE chocolaterie」"
-description: "King&Princeる。当たり前レストランで紹介されたスイーツ「PRESQU’ILE chocolaterie」（東京都武蔵野市）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたsweets「PRESQU’ILE chocolaterie」（東京都武蔵野市）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-presquile_chocolater-20221210"
 name: "PRESQU’ILE chocolaterie"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "武蔵野市"
 address: "東京都武蔵野市吉祥寺本町2丁目15−18"

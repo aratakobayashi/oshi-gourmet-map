@@ -1,8 +1,8 @@
 ---
-title: "なにわ男子が行ったスイーツ19選"
-description: "なにわ男子のメンバーが実際に訪れたスイーツスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子が行ったsweets19選"
+description: "なにわ男子のメンバーが実際に訪れたsweetsスポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
-genre: スイーツ
+genre: sweets
 group_label: "なにわ男子"
 slug_id: naniwa-sweets
 shop_count: 19

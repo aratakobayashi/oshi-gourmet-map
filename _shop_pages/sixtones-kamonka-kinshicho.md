@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「GINZA 過門香 錦糸町駅前プラザビル店」"
-description: "SixTONESのYouTubeで紹介された中華「GINZA 過門香 錦糸町駅前プラザビル店」（東京都墨田区）。食べログ3.43点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「GINZA 過門香 錦糸町駅前プラザビル店」（東京都墨田区）。食べログ3.43点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kamonka-kinshicho"
 name: "GINZA 過門香 錦糸町駅前プラザビル店"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区江東橋3-8-7 錦糸町駅前プラザビル8F"

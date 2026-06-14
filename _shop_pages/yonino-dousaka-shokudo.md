@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「動坂食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「動坂食堂」（東京都文京区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「動坂食堂」（東京都文京区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区千駄木4-13-6"

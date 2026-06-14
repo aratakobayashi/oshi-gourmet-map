@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「東京寿司 ITAMAE SUSHI 愛宕店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介された寿司「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。食べログ3.12点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたwashoku「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。食べログ3.12点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-itamae_sushi-"
 name: "東京寿司 ITAMAE SUSHI 愛宕店"
-genre: "寿司"
+genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "〒105-0001 東京都港区虎ノ門3丁目21−5 愛宕グリーンヒルズプラザ1F"

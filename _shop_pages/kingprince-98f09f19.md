@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「魚健」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅静岡県沼津市のお魚屋さん・おでん屋さん・みかん直売所はどこ？で紹介された和食「魚健」（静岡県沼津市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅静岡県沼津市のお魚屋さん・おでん屋さん・みかん直売所はどこ？で紹介されたwashoku「魚健」（静岡県沼津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-98f09f19-"
 name: "魚健"
-genre: "和食"
+genre: "washoku"
 prefecture: "静岡県"
 city: "沼津市"
 address: "静岡県沼津市千本港町124"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「MUSHROOM TOKYO」"
-description: "めざましテレビ 2017.05.25で紹介されたカフェ「MUSHROOM TOKYO」（東京都渋谷区）。食べログ3.44点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.05.25で紹介されたcafe「MUSHROOM TOKYO」（東京都渋谷区）。食べログ3.44点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-mushroom_tokyo-"
 name: "MUSHROOM TOKYO"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"

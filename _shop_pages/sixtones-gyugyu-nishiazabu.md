@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛牛 西麻布 総本店」"
-description: "SixTONESのYouTubeで紹介された焼肉「牛牛 西麻布 総本店」（東京都港区）。食べログ3.46点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたyakiniku「牛牛 西麻布 総本店」（東京都港区）。食べログ3.46点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-gyugyu-nishiazabu"
 name: "牛牛 西麻布 総本店"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布1-2-3 アクティブ六本木B1F"

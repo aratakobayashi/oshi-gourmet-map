@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「いっかくじゅう 四条新町店」"
-description: "=LOVEのYouTubeで紹介された食事「いっかくじゅう 四条新町店」（京都府京都市）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「いっかくじゅう 四条新町店」（京都府京都市）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a5ac4a24-202408"
 name: "いっかくじゅう 四条新町店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市中京区新町通錦小路下ル小結棚町４３５ ジェイブライド四条烏丸1F"

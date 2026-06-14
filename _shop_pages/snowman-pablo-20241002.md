@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Pablo」"
-description: "Snow ManのYouTubeで紹介された食事「Pablo」。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Pablo」。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
-genre: "食事"
+genre: "shokuji"
 nearest_station: "「中目黒駅」より徒歩４分"
 price_range: "￥5,000～￥5,999"
 visited_date: "2024-10-02"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「よしの食堂」"
-description: "孤独のグルメ Season10 第1話で紹介された食事「よしの食堂」（神奈川県相模原市）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第1話で紹介されたshokuji「よしの食堂」（神奈川県相模原市）。食べログ3.49点。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-eab54e11-"
 name: "よしの食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "相模原市"
 address: "神奈川県相模原市"

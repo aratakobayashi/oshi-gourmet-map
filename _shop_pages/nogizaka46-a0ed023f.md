@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「食事処 ながもり」"
-description: "乃木坂ってどこで紹介されたその他「食事処 ながもり」（北海道札幌市）。食べログ3.59点。推し活グルメ巡礼スポット。"
+description: "乃木坂ってどこで紹介されたothers「食事処 ながもり」（北海道札幌市）。食べログ3.59点。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-a0ed023f-"
 name: "食事処 ながもり"
-genre: "その他"
+genre: "others"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市中央区南３条東１-８"

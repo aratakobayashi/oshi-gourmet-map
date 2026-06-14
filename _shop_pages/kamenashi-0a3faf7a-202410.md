@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「一蘭 原宿店」"
-description: "亀梨和也のYouTubeで紹介されたラーメン「一蘭 原宿店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「一蘭 原宿店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-0a3faf7a-202410"
 name: "一蘭 原宿店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前６丁目５−６ 2F"

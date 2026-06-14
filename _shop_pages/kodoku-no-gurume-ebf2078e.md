@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「はつ花」"
-description: "孤独のグルメ Season10 第2022話で紹介された食事「はつ花」（北海道小樽市）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「はつ花」（北海道小樽市）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ebf2078e-"
 name: "はつ花"
-genre: "食事"
+genre: "shokuji"
 prefecture: "北海道"
 city: "小樽市"
 address: "北海道小樽市"

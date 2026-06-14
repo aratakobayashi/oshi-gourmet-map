@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「一蘭 中野店」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「一蘭 中野店」（東京都中野区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「一蘭 中野店」（東京都中野区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ichiran-nakano"
 name: "一蘭 中野店"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区中野5-65-5 S・K中野ビルB1"

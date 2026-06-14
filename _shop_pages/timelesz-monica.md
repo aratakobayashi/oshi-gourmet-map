@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「MONICA」"
-description: "タイムレスマン「2択マン」表参道モニカで紹介されたカフェ「MONICA」（東京都渋谷区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「2択マン」表参道モニカで紹介されたcafe「MONICA」（東京都渋谷区）。食べログ3.66点。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-monica-"
 name: "MONICA"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
 address: "〒150-0002 東京都渋谷区渋谷２丁目２−３ 青山ルカビル B1 Ⅱ"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「焼肉みよし」"
-description: "孤独のグルメ Season10 第2025話で紹介された焼肉「焼肉みよし」（山形県米沢市）。食べログ3.63点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2025話で紹介されたyakiniku「焼肉みよし」（山形県米沢市）。食べログ3.63点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9a1803af-"
 name: "焼肉みよし"
-genre: "焼肉"
+genre: "yakiniku"
 prefecture: "山形県"
 city: "米沢市"
 address: "山形県米沢市"

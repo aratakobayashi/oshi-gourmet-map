@@ -1,8 +1,8 @@
 ---
-title: "King & Princeが行ったその他141選"
-description: "King & Princeのメンバーが実際に訪れたその他スポットを141件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったothers141選"
+description: "King & Princeのメンバーが実際に訪れたothersスポットを141件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
-genre: その他
+genre: others
 group_label: "King & Prince"
 slug_id: kingprince-others
 shop_count: 141
@@ -12,7 +12,7 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/782
 related_genres:
   - kingprince-shokuji
   - kingprince-cafe
-  - kingprince-izakaya
+  - kingprince-washoku
 related_groups:
   - nogizaka46-others
   - sixtones-others

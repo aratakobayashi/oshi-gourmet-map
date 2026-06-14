@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「磯丸水産 初台南口店」"
-description: "=LOVEのYouTubeで紹介された和食「磯丸水産 初台南口店」（東京都渋谷区）。食べログ3.05点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「磯丸水産 初台南口店」（東京都渋谷区）。食べログ3.05点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-360fc2f3-202408"
 name: "磯丸水産 初台南口店"
-genre: "和食"
+genre: "washoku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区初台１丁目３８−１１ 桜内ビル 1F"

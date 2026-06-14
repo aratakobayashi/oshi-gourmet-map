@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「佐野SA (下り)」"
-description: "SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！（2024/09/20配信回）で紹介されたラーメン「佐野SA (下り)」（栃木県佐野市）。食べログ3.24点、～￥999。推し活グルメ巡礼スポット。"
+description: "SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！（2024/09/20配信回）で紹介されたramen「佐野SA (下り)」（栃木県佐野市）。食べログ3.24点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sa-"
 name: "佐野SA (下り)"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "栃木県"
 city: "佐野市"
 address: "〒327-0813 栃木県佐野市黒袴町１０２１"

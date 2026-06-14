@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「Juicer Bar 新幹線新大阪店」"
-description: "=LOVEのYouTubeで紹介された食事「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。食べログ3.25点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。食べログ3.25点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-juicer_bar-202508"
 name: "Juicer Bar 新幹線新大阪店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市淀川区西中島５丁目１６−１"

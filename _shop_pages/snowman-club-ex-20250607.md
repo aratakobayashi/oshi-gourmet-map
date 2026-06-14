@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「Club eX」"
-description: "Snow ManのYouTubeで紹介された食事「Club eX」（東京都港区）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Club eX」（東京都港区）。食べログ3.02点。推し活グルメ巡礼スポット。"
 shop_id: "snowman-club_ex-20250607"
 name: "Club eX"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区高輪4-10-30 品川プリンスホテル アネックスタワー 3F"

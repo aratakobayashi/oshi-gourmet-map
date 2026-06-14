@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ドトールコーヒーショップ 赤坂青山通り店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「ドトールコーヒーショップ 赤坂青山通り店」（東京都港区）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「ドトールコーヒーショップ 赤坂青山通り店」（東京都港区）。食べログ3.05点。推し活グルメ巡礼スポット。"
 shop_id: "yonino-doutor-akasaka"
 name: "ドトールコーヒーショップ 赤坂青山通り店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂4-8-20"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転すし活一鮮」"
-description: "=LOVEのYouTubeで紹介された寿司「回転すし活一鮮」（北海道札幌市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「回転すし活一鮮」（北海道札幌市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-48daa5c3-202408"
 name: "回転すし活一鮮"
-genre: "寿司"
+genre: "washoku"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市中央区南３条西５丁目１−１ ノルベサ地下 1階"

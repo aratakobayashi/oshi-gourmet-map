@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "亀梨和也が行った「壹銭洋食 本店」"
-description: "亀梨和也のYouTubeで紹介されたもんじゃ「壹銭洋食 本店」（京都府京都市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたwashoku「壹銭洋食 本店」（京都府京都市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-17aff7bc-202405"
 name: "壹銭洋食 本店"
-genre: "もんじゃ"
+genre: "washoku"
 prefecture: "京都府"
 city: "京都市"
 address: "京都府京都市東山区祇園町北側２３８"

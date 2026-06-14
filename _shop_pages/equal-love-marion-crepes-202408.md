@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「MARION CREPES 原宿竹下通り店」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「MARION CREPES 原宿竹下通り店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「MARION CREPES 原宿竹下通り店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-marion_crepes-202408"
 name: "MARION CREPES 原宿竹下通り店"
-genre: "スイーツ"
+genre: "sweets"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前１丁目６−１５ ジュネスビル 1F"

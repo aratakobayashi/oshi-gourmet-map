@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "会楽園"
-description: "GO!GO!!キスマイクマモトオオイタ タイピーエンで紹介された食事「会楽園」（熊本県熊本市）。推し活グルメ巡礼スポット。"
+description: "GO!GO!!キスマイクマモトオオイタ タイピーエンで紹介されたshokuji「会楽園」（熊本県熊本市）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-2f1d5b20-"
 name: "会楽園"
-genre: "食事"
+genre: "shokuji"
 prefecture: "熊本県"
 city: "熊本市"
 address: "熊本県熊本市中央区新町2-7-11"

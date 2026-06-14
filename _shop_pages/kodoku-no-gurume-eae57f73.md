@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「タムタム」"
-description: "孤独のグルメ Season5 第3話で紹介された居酒屋「タムタム」（東京都杉並区）。食べログ3.29点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第3話で紹介されたizakaya「タムタム」（東京都杉並区）。食べログ3.29点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-eae57f73-"
 name: "タムタム"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区"

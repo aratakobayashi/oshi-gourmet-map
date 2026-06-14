@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "RIIZEが行った「北海道らーめん 味八」"
-description: "RIIZEで紹介されたその他「北海道らーめん 味八」（東京都新宿区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたothers「北海道らーめん 味八」（東京都新宿区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-0576e11a-"
 name: "北海道らーめん 味八"
-genre: "その他"
+genre: "others"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区西新宿７丁目１−７−１０１３"

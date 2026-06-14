@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「富錦樹台菜香檳 コレド室町テラス店」"
-description: "King&Princeる。当たり前レストランで紹介された居酒屋「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。食べログ3.51点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたizakaya「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。食べログ3.51点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"
-genre: "居酒屋"
+genre: "izakaya"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋室町3-2-1 COREDO室町テラス 2F"

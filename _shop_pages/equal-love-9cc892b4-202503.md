@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「マンダリン オリエンタル東京 イタリアンダイニング ケシキ」"
-description: "=LOVEのYouTubeで紹介された食事「マンダリン オリエンタル東京 イタリアンダイニング ケシキ」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「マンダリン オリエンタル東京 イタリアンダイニング ケシキ」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-9cc892b4-202503"
 name: "マンダリン オリエンタル東京 イタリアンダイニング ケシキ"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋室町２丁目１−１"

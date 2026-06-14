@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「ギャラリーくすくす」"
-description: "キンプる。【平野紫耀ロケ地】ぶらり平野くんの静岡県の水族館とお城はどこ？で紹介されたその他「ギャラリーくすくす」（静岡県焼津市）。推し活グルメ巡礼スポット。"
+description: "キンプる。【平野紫耀ロケ地】ぶらり平野くんの静岡県の水族館とお城はどこ？で紹介されたothers「ギャラリーくすくす」（静岡県焼津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-21b53cb8-"
 name: "ギャラリーくすくす"
-genre: "その他"
+genre: "others"
 prefecture: "静岡県"
 city: "焼津市"
 address: "静岡県焼津市上泉1068"

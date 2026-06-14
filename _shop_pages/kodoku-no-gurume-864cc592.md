@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「三ちゃん食堂」"
-description: "孤独のグルメ Season2 第1話で紹介された食事「三ちゃん食堂」（神奈川県川崎市）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第1話で紹介されたshokuji「三ちゃん食堂」（神奈川県川崎市）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-864cc592-"
 name: "三ちゃん食堂"
-genre: "食事"
+genre: "shokuji"
 prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市"

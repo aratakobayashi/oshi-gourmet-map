@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「SokaBokka」"
-description: "孤独のグルメ Season1 第12話で紹介されたラーメン「SokaBokka」（東京都目黒区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第12話で紹介されたramen「SokaBokka」（東京都目黒区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-sokabokka-"
 name: "SokaBokka"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区"

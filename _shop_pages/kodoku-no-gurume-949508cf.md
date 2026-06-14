@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「眞実一路」"
-description: "孤独のグルメ Season7 第5話で紹介された食事「眞実一路」（東京都千代田区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第5話で紹介されたshokuji「眞実一路」（東京都千代田区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-949508cf-"
 name: "眞実一路"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区"

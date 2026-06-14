@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「THE SMASH SCRAMBLE」"
-description: "=LOVEのYouTubeで紹介された食事「THE SMASH SCRAMBLE」（東京都渋谷区）。食べログ3.33点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「THE SMASH SCRAMBLE」（東京都渋谷区）。食べログ3.33点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-the_smash_scramble-20250613"
 name: "THE SMASH SCRAMBLE"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町２６−１１ 白馬ビル"

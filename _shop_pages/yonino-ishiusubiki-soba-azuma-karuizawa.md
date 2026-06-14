@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「石臼挽き蕎麦 東間」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「石臼挽き蕎麦 東間」（長野県北佐久郡軽井沢町）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「石臼挽き蕎麦 東間」（長野県北佐久郡軽井沢町）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ishiusubiki-soba-azuma-karuizawa"
 name: "石臼挽き蕎麦 東間"
-genre: "和食"
+genre: "washoku"
 prefecture: "長野県"
 city: "北佐久郡軽井沢町"
 address: "長野県北佐久郡軽井沢町"

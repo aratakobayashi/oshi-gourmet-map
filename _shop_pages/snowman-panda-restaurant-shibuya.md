@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「パンダレストラン」"
-description: "Snow Manが訪れた中華「パンダレストラン」（東京都渋谷区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow Manが訪れたchuka「パンダレストラン」（東京都渋谷区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-panda-restaurant-shibuya"
 name: "パンダレストラン"
-genre: "中華"
+genre: "chuka"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区道玄坂2-6-16 井門ビルB1F"
