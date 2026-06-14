@@ -86469,5 +86469,531 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "f78b7050",
+    "name": "全記海鮮菜館",
+    "genre": "海鮮",
+    "prefecture": "香港",
+    "city": "西貢",
+    "address": "53 Sai Kung Hoi Pong St, Sai Kung, Hong Kong",
+    "lat": 22.379719,
+    "lng": 114.2724614,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 香港Day1 2023-04-02（藤井流星）",
+    "source_url": "https://jwest.jp/riatotsu_20230402/",
+    "visited_date": "2023-04-02",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "Sai Kung",
+    "description": "香港・西貢の海鮮レストラン。WEST.の藤井流星がリア突WEST「香港Day1」で訪問。",
+    "tags": [
+      "海鮮",
+      "香港",
+      "西貢"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "b0f0de77",
+    "name": "権発小厨",
+    "genre": "食事",
+    "prefecture": "香港",
+    "city": "旺角",
+    "address": "513 Nathan Rd, Yau Ma Tei, Kowloon, Hong Kong",
+    "lat": 22.3125222,
+    "lng": 114.1705258,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 香港Day2 2023-04-09（藤井流星）",
+    "source_url": "https://jwest.jp/riatotsu_20230409/",
+    "visited_date": "2023-04-09",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "Yau Ma Tei MTR",
+    "description": "香港・旺角の弁当店。20種類以上のおかずが並ぶ人気店で43人以上の行列。WEST.の藤井流星がリア突WEST「香港Day2」で訪問。",
+    "tags": [
+      "弁当",
+      "香港",
+      "旺角"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "7a74fe36",
+    "name": "Sang Kee Congee Shop",
+    "genre": "ラーメン",
+    "prefecture": "香港",
+    "city": "上環",
+    "address": "7 Burd St, Sheung Wan, Hong Kong",
+    "lat": 22.2853092,
+    "lng": 114.1516789,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 香港Day2 2023-04-09（藤井流星）",
+    "source_url": "https://jwest.jp/riatotsu_20230409/",
+    "visited_date": "2023-04-09",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "Sheung Wan MTR",
+    "description": "香港・上環の粥・ラーメン店。出前一丁麺を使った牛肉入りラーメンが人気。WEST.の藤井流星がリア突WEST「香港Day2」で訪問。",
+    "tags": [
+      "ラーメン",
+      "粥",
+      "香港"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "牛肉入りラーメン"
+    ]
+  },
+  {
+    "id": "2454cdba",
+    "name": "肥姐小食",
+    "genre": "食事",
+    "prefecture": "香港",
+    "city": "旺角",
+    "address": "Dundas St, Mong Kok, Hong Kong",
+    "lat": 22.3157754,
+    "lng": 114.171733,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 香港Day3 2023-04-16（藤井流星）",
+    "source_url": "https://jwest.jp/riatotsu_20230416/",
+    "visited_date": "2023-04-16",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "Mong Kok MTR",
+    "description": "香港・旺角の冷たいイカ串ファストフード店。WEST.の藤井流星がリア突WEST「香港Day3」で訪問。",
+    "tags": [
+      "屋台",
+      "香港",
+      "旺角"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "冷たいイカ串"
+    ]
+  },
+  {
+    "id": "4f53d3b1",
+    "name": "Wing Fat Seafood Restaurant",
+    "genre": "食事",
+    "prefecture": "香港",
+    "city": "旺角",
+    "address": "Hong Kong",
+    "lat": 22.3077186,
+    "lng": 114.1703962,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 香港Day3 2023-04-16（藤井流星）",
+    "source_url": "https://jwest.jp/riatotsu_20230416/",
+    "visited_date": "2023-04-16",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "Mong Kok MTR",
+    "description": "香港の釜飯（ボウジャイファン）レストラン。中国ソーセージとご飯を土鍋で炊いた伝統料理が人気。WEST.の藤井流星がリア突WEST「香港Day3」で訪問。",
+    "tags": [
+      "釜飯",
+      "香港",
+      "ボウジャイファン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ボウジャイファン"
+    ]
+  },
+  {
+    "id": "6180fcd0",
+    "name": "玉意水餃",
+    "genre": "食事",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "187 Đ. Hà Tôn Quốc Ơn, Phường 11, Quận 4, ホーチミン",
+    "lat": 10.757943,
+    "lng": 106.6526328,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナム夜の繁華街 2023-05-21（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230521/",
+    "visited_date": "2023-05-21",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミン第4区の水餃子専門店。WEST.の神山智洋がリア突WEST「ベトナム夜の繁華街」で訪問。",
+    "tags": [
+      "水餃子",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "水餃子"
+    ]
+  },
+  {
+    "id": "985e28bc",
+    "name": "オック オアン",
+    "genre": "海鮮",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "534 Vĩnh Khánh, Phường 8, Quận 4, ホーチミン",
+    "lat": 10.7607037,
+    "lng": 106.7032931,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナム夜の繁華街 2023-05-21（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230521/",
+    "visited_date": "2023-05-21",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミン第4区の貝料理専門店。WEST.の神山智洋がリア突WEST「ベトナム夜の繁華街」で訪問。",
+    "tags": [
+      "貝料理",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "13fba189",
+    "name": "キチキチ Phan Xích Long",
+    "genre": "食事",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "145 Phan Xích Long, Phú Nhuận, ホーチミン",
+    "lat": 10.7976806,
+    "lng": 106.6892771,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart2 2023-06-04（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230604/",
+    "visited_date": "2023-06-04",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミンの回転鍋店。60種類の食材を時間無制限で食べ放題（約1700円）。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "鍋",
+      "ベトナム",
+      "ホーチミン",
+      "食べ放題"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "回転鍋食べ放題"
+    ]
+  },
+  {
+    "id": "0d848d60",
+    "name": "Thai Green Papaya Salad Ty Thy",
+    "genre": "アジア料理",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "ホーチミン, ベトナム",
+    "lat": 10.7426406,
+    "lng": 106.6237448,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart3 2023-06-11（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230611/",
+    "visited_date": "2023-06-11",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミンのパパイヤサラダ専門店。毎日500キロ販売する人気店。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "サラダ",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "パパイヤサラダ"
+    ]
+  },
+  {
+    "id": "0bb6cf08",
+    "name": "コムニュサイゴン",
+    "genre": "アジア料理",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "59 Hồ Xuân Hương, ホーチミン",
+    "lat": 10.7762417,
+    "lng": 106.6874139,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart3 2023-06-11（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230611/",
+    "visited_date": "2023-06-11",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミンのおこげ料理（コムダップ）専門店。土鍋を割って投げるパフォーマンスで有名。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "おこげ",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "コムダップ"
+    ]
+  },
+  {
+    "id": "c5f99473",
+    "name": "バィンセオ 46A",
+    "genre": "アジア料理",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "46 Đinh Công Tráng, Tân Định, ホーチミン",
+    "lat": 10.7895674,
+    "lng": 106.6913428,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart3 2023-06-11（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230611/",
+    "visited_date": "2023-06-11",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ホーチミン市内",
+    "description": "ベトナム・ホーチミンのバィンセオ（ベトナム風お好み焼き）専門店。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "お好み焼き",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "バィンセオ"
+    ]
+  },
+  {
+    "id": "748b159f",
+    "name": "CLOUD9",
+    "genre": "カフェ",
+    "prefecture": "フィジー",
+    "city": "マロロ島",
+    "address": "Roro Reef, off Malolo Island, Fiji",
+    "lat": -17.7963943,
+    "lng": 177.1378173,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST フィジーPart2 2023-07-16（桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230717/",
+    "visited_date": "2023-07-16",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "マロロ島",
+    "description": "フィジー・マロロ島沖の水上バー。透明度の高い海の上で食事やお酒を楽しめる。1日100人以上が訪れる人気スポット。WEST.の桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "バー",
+      "フィジー",
+      "水上"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "69aa76eb",
+    "name": "Fijiana Cacao & Adi Chocolate Fiji",
+    "genre": "スイーツ",
+    "prefecture": "フィジー",
+    "city": "フィジー",
+    "address": "Fiji",
+    "lat": -17.7810662,
+    "lng": 177.3804276,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST フィジーPart2 2023-07-16（桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230717/",
+    "visited_date": "2023-07-16",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "フィジー初のチョコレート製造店。日本人オーナーが経営し、砂糖0・カカオ100%のチョコレートが人気。WEST.の桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "チョコレート",
+      "フィジー",
+      "スイーツ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "カカオ100%チョコレート"
+    ]
+  },
+  {
+    "id": "29ce338f",
+    "name": "Rung Rueang Pork Noodle",
+    "genre": "ラーメン",
+    "prefecture": "タイ",
+    "city": "バンコク",
+    "address": "Bangkok, Thailand",
+    "lat": 13.7283097,
+    "lng": 100.570491,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイ 2023-08-20（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230820/",
+    "visited_date": "2023-08-20",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "バンコク市内",
+    "description": "タイ・バンコクのミシュランビブグルマン6年連続受賞のポークヌードル店。トムヤムヌードル（約240円）が名物。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "ラーメン",
+      "タイ",
+      "バンコク",
+      "ミシュラン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "トムヤムヌードル"
+    ]
   }
 ]
