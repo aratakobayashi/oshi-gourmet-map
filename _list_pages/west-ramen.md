@@ -6,6 +6,7 @@ genre: ラーメン
 group_label: "west"
 slug_id: west-ramen
 shop_count: 14
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/87532/87532157.jpg?token=fdf4c12&api=v2"
 related_genres:
   - west-shokuji
   - west-cafe

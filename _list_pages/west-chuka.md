@@ -6,6 +6,7 @@ genre: 中華
 group_label: "west"
 slug_id: west-chuka
 shop_count: 16
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/159794/159794980.jpg?token=2e601ff&api=v2"
 related_genres:
   - west-shokuji
   - west-cafe

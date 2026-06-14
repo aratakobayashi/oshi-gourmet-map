@@ -6,6 +6,7 @@ genre: スイーツ
 group_label: "west"
 slug_id: west-sweets
 shop_count: 9
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320737/1ab949bc657951349f7467faa4ac2b5d.jpg?token=1acbe2e&api=v2"
 related_genres:
   - west-shokuji
   - west-cafe

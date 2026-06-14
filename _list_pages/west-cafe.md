@@ -6,6 +6,7 @@ genre: カフェ
 group_label: "west"
 slug_id: west-cafe
 shop_count: 19
+thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/35486/35486960.jpg?token=8d3582f&api=v2"
 related_genres:
   - west-shokuji
   - west-chuka
