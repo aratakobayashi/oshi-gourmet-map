@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "番組で紹介されていたメニューは【プレミアムサーモントリュフ 1400円"
+  - "{'name': '番組で紹介されていたメニューは【プレミアムサーモントリュフ 1400円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131706/13311142/"

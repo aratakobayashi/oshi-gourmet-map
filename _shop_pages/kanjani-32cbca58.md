@@ -21,4 +21,7 @@ members:
   - "大倉忠義"
 groups:
   - "kanjani"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2707/A270703/27123477/"
 ---

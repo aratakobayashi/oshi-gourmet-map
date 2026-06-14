@@ -19,4 +19,7 @@ lng: 138.5219521
 tabelog_score: 3.44
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/yamanashi/A1901/A190101/19003489/"
 ---

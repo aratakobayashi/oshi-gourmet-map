@@ -28,8 +28,8 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "マーボー豆腐牛肉炒め（税込1,408円）"
-  - "炎の揚州チャーハン（税込1,078円）"
+  - "{'name': 'マーボー豆腐牛肉炒め（税込1,408円）'}"
+  - "{'name': '炎の揚州チャーハン（税込1,078円）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1305/A130503/13273758/"

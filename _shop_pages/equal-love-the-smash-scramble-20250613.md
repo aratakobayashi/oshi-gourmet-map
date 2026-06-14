@@ -23,4 +23,7 @@ members:
   - "髙松瞳"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1303/A130301/13305527/"
 ---

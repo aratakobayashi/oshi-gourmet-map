@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "皿うどん（柔麺）"
-  - "春巻き"
-  - "特製ちゃんぽん"
+  - "{'name': '皿うどん（柔麺）'}"
+  - "{'name': '春巻き'}"
+  - "{'name': '特製ちゃんぽん'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1303/A130301/13281342/"

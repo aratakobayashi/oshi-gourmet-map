@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "丸天うどん"
-  - "ごぼう天トッピング"
+  - "{'name': '丸天うどん'}"
+  - "{'name': 'ごぼう天トッピング'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/fukuoka/A4001/A400106/40003615/"

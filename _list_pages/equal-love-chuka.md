@@ -14,7 +14,7 @@ related_genres:
   - equal-love-izakaya
   - equal-love-washoku
 related_groups:
+  - west-chuka
   - timelesz-chuka
   - sixtones-chuka
-  - arashi-chuka
 ---

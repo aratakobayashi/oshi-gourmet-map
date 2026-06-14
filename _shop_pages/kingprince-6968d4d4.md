@@ -25,4 +25,7 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2204/A220402/22022051/"
 ---

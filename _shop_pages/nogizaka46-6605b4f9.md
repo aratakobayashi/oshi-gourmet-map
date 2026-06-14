@@ -20,4 +20,7 @@ lng: 139.317416
 tabelog_score: 3.16
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/saitama/A1106/A110601/11050368/"
 ---

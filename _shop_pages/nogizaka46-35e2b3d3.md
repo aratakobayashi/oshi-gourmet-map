@@ -19,4 +19,7 @@ lng: 135.1937319
 tabelog_score: 3.58
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hyogo/A2801/A280101/28002105/"
 ---

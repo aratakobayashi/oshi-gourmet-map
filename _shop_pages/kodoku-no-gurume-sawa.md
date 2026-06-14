@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カキのムニエル"
-  - "アメリカンソースのオムライス"
-  - "ブルスケッタ"
-  - "自家製ババロア"
+  - "{'name': 'カキのムニエル'}"
+  - "{'name': 'アメリカンソースのオムライス'}"
+  - "{'name': 'ブルスケッタ'}"
+  - "{'name': '自家製ババロア'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/saitama/A1102/A110204/11002717/"

@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "鯖のくんせい"
-  - "どんぶりしらす"
-  - "ももハムとキムチ"
+  - "{'name': '鯖のくんせい'}"
+  - "{'name': 'どんぶりしらす'}"
+  - "{'name': 'ももハムとキムチ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1323/A132304/13044760/"

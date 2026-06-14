@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ヒレかつ御膳"
-  - "魚介クリームコロッケ"
-  - "エビフライ"
+  - "{'name': 'ヒレかつ御膳'}"
+  - "{'name': '魚介クリームコロッケ'}"
+  - "{'name': 'エビフライ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1405/A140507/14000033/"

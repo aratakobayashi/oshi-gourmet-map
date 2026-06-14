@@ -26,7 +26,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "日本式と中国式餃子の食べ比べができる立ち食い餃子店"
+  - "{'name': '日本式と中国式餃子の食べ比べができる立ち食い餃子店'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131003/13269188/"

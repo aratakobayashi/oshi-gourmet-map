@@ -18,4 +18,7 @@ lng: 135.8224135
 tabelog_score: 3.0
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/nara/A2902/A290202/29013242/"
 ---

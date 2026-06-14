@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "炎の酒鍋セット"
-  - "とんかつ麦とろミニミニセット定食"
+  - "{'name': '炎の酒鍋セット'}"
+  - "{'name': 'とんかつ麦とろミニミニセット定食'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1323/A132303/13012282/"

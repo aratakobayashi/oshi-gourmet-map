@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "貴州前菜三種盛り（ハーフ）"
-  - "厚揚げの回鍋肉"
-  - "納豆火鍋"
-  - "羊肉"
+  - "{'name': '貴州前菜三種盛り（ハーフ）'}"
+  - "{'name': '厚揚げの回鍋肉'}"
+  - "{'name': '納豆火鍋'}"
+  - "{'name': '羊肉'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131204/13232027/"

@@ -25,4 +25,7 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/ibaraki/A0805/A080503/8017982/"
 ---

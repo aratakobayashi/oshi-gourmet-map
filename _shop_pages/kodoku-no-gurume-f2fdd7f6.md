@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ラム肉と長葱炒め"
-  - "ラム肉焼売"
-  - "ラムスペアリブ"
-  - "白身魚とラム肉のスープ"
+  - "{'name': 'ラム肉と長葱炒め'}"
+  - "{'name': 'ラム肉焼売'}"
+  - "{'name': 'ラムスペアリブ'}"
+  - "{'name': '白身魚とラム肉のスープ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1311/A131101/13200566/"

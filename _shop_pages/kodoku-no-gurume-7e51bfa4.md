@@ -24,12 +24,12 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "牛焼きしゃぶ（ミスジ）"
-  - "豚焼きしゃぶ"
-  - "上ハラミ"
-  - "キムチ"
-  - "石焼きビビンバ"
-  - "赤身カルビ"
+  - "{'name': '牛焼きしゃぶ（ミスジ）'}"
+  - "{'name': '豚焼きしゃぶ'}"
+  - "{'name': '上ハラミ'}"
+  - "{'name': 'キムチ'}"
+  - "{'name': '石焼きビビンバ'}"
+  - "{'name': '赤身カルビ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/shizuoka/A2205/A220503/22015662/"

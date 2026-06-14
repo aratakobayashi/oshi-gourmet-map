@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "海老の生春巻き"
-  - "とりおこわ"
-  - "ブンボーフエ"
-  - "ベトナムコーヒー"
+  - "{'name': '海老の生春巻き'}"
+  - "{'name': 'とりおこわ'}"
+  - "{'name': 'ブンボーフエ'}"
+  - "{'name': 'ベトナムコーヒー'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1315/A131503/13038849/"

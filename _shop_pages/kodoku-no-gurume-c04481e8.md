@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "うどん1玉"
-  - "コロッケ"
+  - "{'name': 'うどん1玉'}"
+  - "{'name': 'コロッケ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kagawa/A3701/A370101/37000033/"

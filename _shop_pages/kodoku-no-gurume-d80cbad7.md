@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "むし豚のニンニクソース"
-  - "シイタケそば（ラーメン）"
+  - "{'name': 'むし豚のニンニクソース'}"
+  - "{'name': 'シイタケそば（ラーメン）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/chiba/A1205/A120502/12017731/"

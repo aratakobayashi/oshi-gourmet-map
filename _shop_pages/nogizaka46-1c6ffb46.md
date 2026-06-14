@@ -18,4 +18,7 @@ lat: 32.804646
 lng: 130.7113862
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/fukuoka/A4008/A400806/40014949/"
 ---

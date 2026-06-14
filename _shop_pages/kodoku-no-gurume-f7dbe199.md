@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ちゃんこ鍋セット"
-  - "かきバター焼き"
-  - "かき天ぷら"
+  - "{'name': 'ちゃんこ鍋セット'}"
+  - "{'name': 'かきバター焼き'}"
+  - "{'name': 'かき天ぷら'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/ishikawa/A1704/A170403/17003854/"

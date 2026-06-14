@@ -20,4 +20,7 @@ lng: 138.313381
 tabelog_score: 3.06
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/nagano/A2001/A200102/20006241/"
 ---

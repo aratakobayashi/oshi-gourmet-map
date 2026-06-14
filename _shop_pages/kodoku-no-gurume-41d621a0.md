@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "タンスユク S（韓国式酢豚）"
-  - "チャムチャ麺（海鮮チャンポンとジャジャン麺のハーフ＆ハーフ）"
+  - "{'name': 'タンスユク S（韓国式酢豚）'}"
+  - "{'name': 'チャムチャ麺（海鮮チャンポンとジャジャン麺のハーフ＆ハーフ）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1324/A132401/13180444/"

@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "わさびカルビ"
-  - "卵かけご飯"
+  - "{'name': 'わさびカルビ'}"
+  - "{'name': '卵かけご飯'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1321/A132104/13006939/"

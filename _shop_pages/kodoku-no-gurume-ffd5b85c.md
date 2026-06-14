@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ガーリックハラミ"
-  - "サムギョプサル"
-  - "タン塩"
-  - "上カルビ"
+  - "{'name': 'ガーリックハラミ'}"
+  - "{'name': 'サムギョプサル'}"
+  - "{'name': 'タン塩'}"
+  - "{'name': '上カルビ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1405/A140506/14014221/"

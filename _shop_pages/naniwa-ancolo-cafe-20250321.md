@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶つきたてあんこもちと高級抹茶セット 1380円"
+  - "{'name': '▶つきたてあんこもちと高級抹茶セット 1380円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1316/A131601/13302365/"

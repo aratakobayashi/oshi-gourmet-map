@@ -18,8 +18,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "鶏肉飯"
-  - "乾麺"
-  - "下水湯"
-  - "おかず盛り合わせ"
+  - "{'name': '鶏肉飯'}"
+  - "{'name': '乾麺'}"
+  - "{'name': '下水湯'}"
+  - "{'name': 'おかず盛り合わせ'}"
 ---

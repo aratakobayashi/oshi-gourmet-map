@@ -22,4 +22,7 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/shizuoka/A2205/A220503/22021371/"
 ---

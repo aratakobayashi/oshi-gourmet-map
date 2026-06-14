@@ -25,10 +25,10 @@ members:
 groups:
   - "kamenashi"
 ordered_items:
-  - "アイスコーン茶"
-  - "LAカルビ"
-  - "冷麺ハーフ"
-  - "ビビン麺ハーフ"
+  - "{'name': 'アイスコーン茶'}"
+  - "{'name': 'LAカルビ'}"
+  - "{'name': '冷麺ハーフ'}"
+  - "{'name': 'ビビン麺ハーフ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1301/A130101/13261510/"

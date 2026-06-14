@@ -23,7 +23,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "黒糖ミルクぜんざい（かき氷）"
+  - "{'name': '黒糖ミルクぜんざい（かき氷）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/okinawa/A4703/A470304/47011126/"

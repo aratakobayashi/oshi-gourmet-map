@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "中華揚"
-  - "しゅうまい巻"
-  - "つみれ"
-  - "はんぺん"
-  - "ちくわぶ"
+  - "{'name': '中華揚'}"
+  - "{'name': 'しゅうまい巻'}"
+  - "{'name': 'つみれ'}"
+  - "{'name': 'はんぺん'}"
+  - "{'name': 'ちくわぶ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131202/13127445/"

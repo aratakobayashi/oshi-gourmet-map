@@ -21,4 +21,7 @@ members:
   - "賀喜遥香"
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0901/A090101/9000045/"
 ---

@@ -31,7 +31,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "赤福餅（税込400円）"
+  - "{'name': '赤福餅（税込400円）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/mie/A2403/A240301/24000873/"

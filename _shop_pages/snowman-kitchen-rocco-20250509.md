@@ -33,8 +33,8 @@ members:
 groups:
   - "snowman"
 ordered_items:
-  - "八王子ナポリタン"
-  - "八王子白ナポリタン"
+  - "{'name': '八王子ナポリタン'}"
+  - "{'name': '八王子白ナポリタン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"

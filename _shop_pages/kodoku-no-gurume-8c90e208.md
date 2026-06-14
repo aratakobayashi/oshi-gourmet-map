@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "蒸し鶏"
-  - "毛沢東スペアリブ"
-  - "黒チャーハン"
-  - "麻辣湯"
+  - "{'name': '蒸し鶏'}"
+  - "{'name': '毛沢東スペアリブ'}"
+  - "{'name': '黒チャーハン'}"
+  - "{'name': '麻辣湯'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130403/13263163/"

@@ -17,4 +17,7 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/212
 business_hours: "10:00 - 19:00 ■定休日銀座三越の休館日に準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 groups:
   - "kpop_twice"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1301/A130101/13282937/"
 ---

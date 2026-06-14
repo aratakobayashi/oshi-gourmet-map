@@ -27,7 +27,7 @@ members:
 groups:
   - "ginga"
 ordered_items:
-  - "『金目鯛と仙台牛の銘々会席』"
+  - "{'name': '『金目鯛と仙台牛の銘々会席』'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1301/A130103/13281809/"

@@ -29,7 +29,7 @@ members:
 groups:
   - "sakurazaka46"
 ordered_items:
-  - "麻婆豆腐"
+  - "{'name': '麻婆豆腐'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131002/13241374/"

@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "チーズクルチャ"
-  - "タンドリーベジ"
-  - "ラムミントカレー"
-  - "マンゴーラッシー"
+  - "{'name': 'チーズクルチャ'}"
+  - "{'name': 'タンドリーベジ'}"
+  - "{'name': 'ラムミントカレー'}"
+  - "{'name': 'マンゴーラッシー'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1313/A131303/13128960/"

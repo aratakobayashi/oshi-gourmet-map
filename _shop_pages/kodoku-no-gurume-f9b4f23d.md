@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ポパイベーコン"
-  - "サンマクンセイ刺"
-  - "煮込み"
+  - "{'name': 'ポパイベーコン'}"
+  - "{'name': 'サンマクンセイ刺'}"
+  - "{'name': '煮込み'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1313/A131303/13083755/"

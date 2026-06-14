@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "とりめん（鶏肉入りにゅう麺）"
-  - "おでん（筍・しらたき）"
-  - "タコざんぎ"
-  - "たらこおにぎり"
-  - "ちそおにぎり"
+  - "{'name': 'とりめん（鶏肉入りにゅう麺）'}"
+  - "{'name': 'おでん（筍・しらたき）'}"
+  - "{'name': 'タコざんぎ'}"
+  - "{'name': 'たらこおにぎり'}"
+  - "{'name': 'ちそおにぎり'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/hokkaido/A0106/A010601/1010187/"

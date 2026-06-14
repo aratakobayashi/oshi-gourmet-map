@@ -14,5 +14,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-ramen
   - nogizaka46-ramen
-  - naniwa-ramen
+  - west-ramen
 ---

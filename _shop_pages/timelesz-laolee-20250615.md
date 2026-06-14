@@ -26,7 +26,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "台湾餃子LAOLEE（ラオリー）"
+  - "{'name': '台湾餃子LAOLEE（ラオリー）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131701/13306628/"

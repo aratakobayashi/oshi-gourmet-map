@@ -19,4 +19,7 @@ lng: 134.2508319
 tabelog_score: 3.15
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hiroshima/A3407/A340403/34027852/"
 ---

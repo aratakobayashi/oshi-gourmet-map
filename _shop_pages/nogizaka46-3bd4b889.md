@@ -23,4 +23,7 @@ members:
   - "松井玲奈"
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1311/A131102/13183985/"
 ---

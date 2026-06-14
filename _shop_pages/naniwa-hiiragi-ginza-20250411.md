@@ -19,5 +19,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶沈む、みたらし団子 セット 1,650円"
+  - "{'name': '▶沈む、みたらし団子 セット 1,650円'}"
 ---

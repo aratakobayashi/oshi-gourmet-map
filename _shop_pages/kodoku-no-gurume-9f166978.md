@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "オーカク（塩）"
-  - "ホルモンそば"
-  - "サイコロステーキ"
+  - "{'name': 'オーカク（塩）'}"
+  - "{'name': 'ホルモンそば'}"
+  - "{'name': 'サイコロステーキ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tottori/A3101/A310101/31001933/"

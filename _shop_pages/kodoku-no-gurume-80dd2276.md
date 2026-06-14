@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "チョリソのケソフンディード"
-  - "鶏肉のピピアンベルデ"
+  - "{'name': 'チョリソのケソフンディード'}"
+  - "{'name': '鶏肉のピピアンベルデ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1307/A130703/13045856/"

@@ -18,8 +18,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "葱餡餅"
-  - "三星葱臘肉"
-  - "紅糟排骨"
-  - "蛤仔湯"
+  - "{'name': '葱餡餅'}"
+  - "{'name': '三星葱臘肉'}"
+  - "{'name': '紅糟排骨'}"
+  - "{'name': '蛤仔湯'}"
 ---

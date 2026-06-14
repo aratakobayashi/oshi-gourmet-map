@@ -24,14 +24,14 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ねぎま"
-  - "なんこつ"
-  - "砂肝"
-  - "レバー"
-  - "つくね"
-  - "信玄袋"
-  - "ほっけスティック"
-  - "焼きめし"
+  - "{'name': 'ねぎま'}"
+  - "{'name': 'なんこつ'}"
+  - "{'name': '砂肝'}"
+  - "{'name': 'レバー'}"
+  - "{'name': 'つくね'}"
+  - "{'name': '信玄袋'}"
+  - "{'name': 'ほっけスティック'}"
+  - "{'name': '焼きめし'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1313/A131303/13065350/"

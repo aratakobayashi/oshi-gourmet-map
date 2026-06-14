@@ -24,7 +24,7 @@ members:
 groups:
   - "nogizaka46"
 ordered_items:
-  - "チキンカリー"
+  - "{'name': 'チキンカリー'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131003/13040204/"

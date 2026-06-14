@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "豚肉のニンニクダレかけ"
-  - "麻婆豆腐"
-  - "じゃがとろ"
-  - "泡菜魚"
+  - "{'name': '豚肉のニンニクダレかけ'}"
+  - "{'name': '麻婆豆腐'}"
+  - "{'name': 'じゃがとろ'}"
+  - "{'name': '泡菜魚'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131204/13020918/"

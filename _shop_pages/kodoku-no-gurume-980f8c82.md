@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "赤車海老"
-  - "大あさり焼き"
-  - "しらす天ぷら"
-  - "たこめし"
+  - "{'name': '赤車海老'}"
+  - "{'name': '大あさり焼き'}"
+  - "{'name': 'しらす天ぷら'}"
+  - "{'name': 'たこめし'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/aichi/A2304/A230403/23007247/"

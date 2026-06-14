@@ -17,4 +17,7 @@ members:
   - "宮田愛萌"
 groups:
   - "hinatazaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1319/A131905/13202814/"
 ---

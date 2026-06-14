@@ -23,4 +23,7 @@ members:
   - "錦戸亮"
 groups:
   - "kanjani"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1310/A131003/13006555/"
 ---

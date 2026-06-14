@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "マッシュルームの鉄板焼き"
-  - "サルスエラ"
-  - "イカ墨のパエリア"
-  - "タラのアリオリソース焼き"
+  - "{'name': 'マッシュルームの鉄板焼き'}"
+  - "{'name': 'サルスエラ'}"
+  - "{'name': 'イカ墨のパエリア'}"
+  - "{'name': 'タラのアリオリソース焼き'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131710/13286820/"

@@ -23,7 +23,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "「ゆばクレープ 680円"
+  - "{'name': '「ゆばクレープ 680円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tochigi/A0903/A090303/9023567/"

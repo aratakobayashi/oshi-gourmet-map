@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ミッキーライス（レバー・豚肉・野菜のピリ辛あんかけごはん）"
-  - "ニンニクチャーハン"
+  - "{'name': 'ミッキーライス（レバー・豚肉・野菜のピリ辛あんかけごはん）'}"
+  - "{'name': 'ニンニクチャーハン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1319/A131903/13073445/"

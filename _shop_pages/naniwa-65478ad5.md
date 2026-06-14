@@ -24,8 +24,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "チャーシューホットサンド
-400円"
+  - "{'name': 'チャーシューホットサンド\\n400円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/osaka/A2701/A270206/27004322/"

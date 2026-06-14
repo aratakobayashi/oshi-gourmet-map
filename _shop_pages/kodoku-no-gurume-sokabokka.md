@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "アグー豚塩焼き"
-  - "タコライス"
-  - "ソーキそば"
-  - "にんじんシリシリー"
+  - "{'name': 'アグー豚塩焼き'}"
+  - "{'name': 'タコライス'}"
+  - "{'name': 'ソーキそば'}"
+  - "{'name': 'にんじんシリシリー'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131701/13015531/"

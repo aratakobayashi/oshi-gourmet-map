@@ -17,4 +17,7 @@ business_hours: "10:00 - 16:00 ■ 営業時間夏期営業 2019/4/27～10/31■
 tabelog_score: 3.37
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hokkaido/A0111/A011104/1053080/"
 ---

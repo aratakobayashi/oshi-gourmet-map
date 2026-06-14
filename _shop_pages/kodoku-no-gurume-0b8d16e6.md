@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カルビ"
-  - "ハラミ"
-  - "コプチャン"
-  - "ジンギスカン"
-  - "シビレ"
+  - "{'name': 'カルビ'}"
+  - "{'name': 'ハラミ'}"
+  - "{'name': 'コプチャン'}"
+  - "{'name': 'ジンギスカン'}"
+  - "{'name': 'シビレ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1405/A140502/14018525/"

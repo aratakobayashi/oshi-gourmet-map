@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ラーメン"
-  - "おでん（牛すじ・卵・大根・がんもどき・厚揚げ・餃子天）"
-  - "焼き物（砂ずり・豚バラ）"
+  - "{'name': 'ラーメン'}"
+  - "{'name': 'おでん（牛すじ・卵・大根・がんもどき・厚揚げ・餃子天）'}"
+  - "{'name': '焼き物（砂ずり・豚バラ）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/fukuoka/A4001/A400106/40039152/"

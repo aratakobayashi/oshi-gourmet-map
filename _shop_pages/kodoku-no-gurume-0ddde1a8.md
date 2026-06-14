@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "塩わさびの豚ロースソテー（いも豚300g）"
-  - "ミルクセーキ"
+  - "{'name': '塩わさびの豚ロースソテー（いも豚300g）'}"
+  - "{'name': 'ミルクセーキ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/chiba/A1205/A120502/12025317/"

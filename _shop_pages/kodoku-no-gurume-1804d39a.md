@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "めごちの天ぷら"
-  - "はすの天ぷら"
-  - "玉ねぎの天ぷら"
-  - "黒天丼"
+  - "{'name': 'めごちの天ぷら'}"
+  - "{'name': 'はすの天ぷら'}"
+  - "{'name': '玉ねぎの天ぷら'}"
+  - "{'name': '黒天丼'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1302/A130204/13018093/"

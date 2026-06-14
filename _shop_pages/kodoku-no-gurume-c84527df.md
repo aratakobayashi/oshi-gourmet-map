@@ -24,7 +24,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "伊勢うどん（肉月見・えび天トッピング）"
+  - "{'name': '伊勢うどん（肉月見・えび天トッピング）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/mie/A2403/A240301/24001056/"

@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ハリラスープ"
-  - "卵のブリック"
-  - "ラム肉のハンバーグ"
-  - "野菜のクスクス"
+  - "{'name': 'ハリラスープ'}"
+  - "{'name': '卵のブリック'}"
+  - "{'name': 'ラム肉のハンバーグ'}"
+  - "{'name': '野菜のクスクス'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1319/A131907/13245434/"

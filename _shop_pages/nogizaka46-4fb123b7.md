@@ -20,4 +20,7 @@ lng: 141.138057
 tabelog_score: 3.47
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/iwate/A0303/A030301/3004228/"
 ---

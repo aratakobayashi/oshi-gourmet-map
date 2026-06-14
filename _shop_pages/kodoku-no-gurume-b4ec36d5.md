@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "豚足"
-  - "ロースすき焼き"
-  - "ヒレカルビ"
-  - "味ネギ"
+  - "{'name': '豚足'}"
+  - "{'name': 'ロースすき焼き'}"
+  - "{'name': 'ヒレカルビ'}"
+  - "{'name': '味ネギ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1329/A132904/13107594/"

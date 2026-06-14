@@ -20,4 +20,7 @@ lng: 141.3544941
 tabelog_score: 3.54
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/aomori/A0203/A020303/2006664/"
 ---

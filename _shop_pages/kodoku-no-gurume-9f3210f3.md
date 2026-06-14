@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "舞鶴カニ刺身"
-  - "カニ焼き"
-  - "京鰆の刺身"
+  - "{'name': '舞鶴カニ刺身'}"
+  - "{'name': 'カニ焼き'}"
+  - "{'name': '京鰆の刺身'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kyoto/A2609/A260902/26028008/"

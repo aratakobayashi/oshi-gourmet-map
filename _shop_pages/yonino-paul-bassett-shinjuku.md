@@ -33,8 +33,8 @@ tags:
   - "西新宿"
   - "スペシャルティ"
 ordered_items:
-  - "カフェラテ"
-  - "フラットホワイト"
+  - "{'name': 'カフェラテ'}"
+  - "{'name': 'フラットホワイト'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130401/13026041/"

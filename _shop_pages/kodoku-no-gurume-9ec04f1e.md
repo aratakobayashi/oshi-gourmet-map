@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ウニ・オン・ザ・煮玉子"
-  - "キンキと茄子の包み焼き"
-  - "牛ご飯"
-  - "揚げトウモロコシ"
+  - "{'name': 'ウニ・オン・ザ・煮玉子'}"
+  - "{'name': 'キンキと茄子の包み焼き'}"
+  - "{'name': '牛ご飯'}"
+  - "{'name': '揚げトウモロコシ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1316/A131603/13187669/"

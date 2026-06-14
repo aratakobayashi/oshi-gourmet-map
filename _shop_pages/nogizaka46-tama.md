@@ -19,4 +19,7 @@ lng: 127.7636468
 tabelog_score: 3.01
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/okinawa/A4703/A470301/47026148/"
 ---

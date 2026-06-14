@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "田舎うどん"
-  - "肉汁"
-  - "五目野菜汁"
-  - "おむすび（あげ玉ごま）"
+  - "{'name': '田舎うどん'}"
+  - "{'name': '肉汁'}"
+  - "{'name': '五目野菜汁'}"
+  - "{'name': 'おむすび（あげ玉ごま）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/saitama/A1103/A110301/11062127/"

@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "牛タン焼き"
-  - "テール焼き"
-  - "テールスープ"
+  - "{'name': '牛タン焼き'}"
+  - "{'name': 'テール焼き'}"
+  - "{'name': 'テールスープ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/miyagi/A0401/A040102/4003262/"

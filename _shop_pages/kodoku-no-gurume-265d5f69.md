@@ -24,7 +24,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カステラパンケーキ"
+  - "{'name': 'カステラパンケーキ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1328/A132801/13191253/"

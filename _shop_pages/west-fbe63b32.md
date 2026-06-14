@@ -20,8 +20,8 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "正丸丼"
-  - "ジンギスカン"
+  - "{'name': '正丸丼'}"
+  - "{'name': 'ジンギスカン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/saitama/A1106/A110603/11003385/"

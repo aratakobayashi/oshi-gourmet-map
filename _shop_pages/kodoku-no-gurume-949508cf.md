@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ワンタン入り滋養スープ"
-  - "緑の麻婆豆腐"
-  - "赤の麻婆豆腐"
-  - "海老と大葉のハルマキ"
+  - "{'name': 'ワンタン入り滋養スープ'}"
+  - "{'name': '緑の麻婆豆腐'}"
+  - "{'name': '赤の麻婆豆腐'}"
+  - "{'name': '海老と大葉のハルマキ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131002/13311831/"

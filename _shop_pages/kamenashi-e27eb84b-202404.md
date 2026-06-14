@@ -26,8 +26,8 @@ members:
 groups:
   - "kamenashi"
 ordered_items:
-  - "黒ウーロン茶（亀梨和也）"
-  - "九州じゃんがらの全部入り（越岡裕貴）"
+  - "{'name': '黒ウーロン茶（亀梨和也）'}"
+  - "{'name': '九州じゃんがらの全部入り（越岡裕貴）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"

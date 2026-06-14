@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "かに面（雌ズワイガニの甲羅おでん）"
-  - "海鮮とろろ丼（ハーフ）"
+  - "{'name': 'かに面（雌ズワイガニの甲羅おでん）'}"
+  - "{'name': '海鮮とろろ丼（ハーフ）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/toyama/A1601/A160101/16000307/"

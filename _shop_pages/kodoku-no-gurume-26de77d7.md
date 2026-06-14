@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "マグロの赤身"
-  - "ひかり三種"
-  - "あぶり穴子"
-  - "うに"
-  - "大赤えび"
+  - "{'name': 'マグロの赤身'}"
+  - "{'name': 'ひかり三種'}"
+  - "{'name': 'あぶり穴子'}"
+  - "{'name': 'うに'}"
+  - "{'name': '大赤えび'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1317/A131706/13082443/"

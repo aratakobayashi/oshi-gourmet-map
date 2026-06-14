@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "チムチュム（イサーン風ハーブ鍋）"
-  - "ナムトックムー"
-  - "ジャスミンライス"
+  - "{'name': 'チムチュム（イサーン風ハーブ鍋）'}"
+  - "{'name': 'ナムトックムー'}"
+  - "{'name': 'ジャスミンライス'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1311/A131102/13211345/"

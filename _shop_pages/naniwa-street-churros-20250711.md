@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "【オリジナルチュロス 350円"
+  - "{'name': '【オリジナルチュロス 350円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131802/13304752/"

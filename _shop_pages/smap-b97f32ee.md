@@ -24,4 +24,7 @@ members:
   - "稲垣吾郎"
 groups:
   - "smap"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/osaka/A2705/A270502/27089709/"
 ---

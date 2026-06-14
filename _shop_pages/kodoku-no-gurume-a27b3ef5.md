@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "豚ロース"
-  - "豚カルビ"
-  - "牛上カルビ"
-  - "キムチ"
+  - "{'name': '豚ロース'}"
+  - "{'name': '豚カルビ'}"
+  - "{'name': '牛上カルビ'}"
+  - "{'name': 'キムチ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/gunma/A1005/A100502/10003191/"

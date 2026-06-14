@@ -30,7 +30,7 @@ members:
 groups:
   - "sixtones"
 ordered_items:
-  - "トリプルチーズハンバーグ"
+  - "{'name': 'トリプルチーズハンバーグ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130401/13271105/"

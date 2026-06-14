@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "牛肉のスタミナ炒め定食"
-  - "ねぎ玉"
-  - "カツ煮"
+  - "{'name': '牛肉のスタミナ炒め定食'}"
+  - "{'name': 'ねぎ玉'}"
+  - "{'name': 'カツ煮'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1407/A140701/14015513/"

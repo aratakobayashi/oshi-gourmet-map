@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "韓国風天ぷら"
-  - "鱈の餃子"
-  - "チャプチェ"
-  - "参鶏湯ラーメン"
+  - "{'name': '韓国風天ぷら'}"
+  - "{'name': '鱈の餃子'}"
+  - "{'name': 'チャプチェ'}"
+  - "{'name': '参鶏湯ラーメン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1301/A130103/13129629/"

@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "ひものオーバーライス 1500円"
+  - "{'name': 'ひものオーバーライス 1500円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/shizuoka/A2205/A220502/22019758/"

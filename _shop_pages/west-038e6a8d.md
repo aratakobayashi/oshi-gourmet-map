@@ -20,7 +20,7 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "味噌バターラーメン"
+  - "{'name': '味噌バターラーメン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1301/A130102/13002736/"

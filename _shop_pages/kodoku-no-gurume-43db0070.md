@@ -18,5 +18,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "酸菜白肉火鍋（豚肉・牛肉・ラム肉の白菜漬鍋）"
+  - "{'name': '酸菜白肉火鍋（豚肉・牛肉・ラム肉の白菜漬鍋）'}"
 ---

@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "みょうがの天ぷら"
-  - "チーズ入りウインナー"
-  - "ネギ肉イタメ"
-  - "海鮮春巻き"
+  - "{'name': 'みょうがの天ぷら'}"
+  - "{'name': 'チーズ入りウインナー'}"
+  - "{'name': 'ネギ肉イタメ'}"
+  - "{'name': '海鮮春巻き'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1405/A140504/14003565/"

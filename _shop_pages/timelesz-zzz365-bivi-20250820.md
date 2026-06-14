@@ -25,7 +25,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "ディープソルト フライドポテト"
+  - "{'name': 'ディープソルト フライドポテト'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/hokkaido/A0101/A010302/1079815/"

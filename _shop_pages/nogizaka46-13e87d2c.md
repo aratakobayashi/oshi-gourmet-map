@@ -22,4 +22,7 @@ members:
   - "遠藤さくら"
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kyoto/A2601/A260403/26028755/"
 ---

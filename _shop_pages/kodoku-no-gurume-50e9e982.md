@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "チキン南蛮"
-  - "地鶏もも串"
-  - "地鶏もも丼"
+  - "{'name': 'チキン南蛮'}"
+  - "{'name': '地鶏もも串'}"
+  - "{'name': '地鶏もも丼'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1319/A131902/13049477/"

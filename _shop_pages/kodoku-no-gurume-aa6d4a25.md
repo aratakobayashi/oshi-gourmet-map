@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "焼うどん"
-  - "親子丼"
-  - "おしるこ"
+  - "{'name': '焼うどん'}"
+  - "{'name': '親子丼'}"
+  - "{'name': 'おしるこ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131805/13140021/"

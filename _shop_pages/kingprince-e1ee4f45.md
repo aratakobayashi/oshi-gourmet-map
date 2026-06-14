@@ -23,4 +23,7 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0902/A090203/9010897/"
 ---

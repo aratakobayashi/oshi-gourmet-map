@@ -20,4 +20,7 @@ lng: 135.7465807
 tabelog_score: 3.24
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0902/A090202/9014646/"
 ---

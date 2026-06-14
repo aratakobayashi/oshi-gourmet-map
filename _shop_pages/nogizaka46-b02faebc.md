@@ -19,4 +19,7 @@ lng: 135.675153
 tabelog_score: 3.28
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/kyoto/A2601/A260403/26024746/"
 ---

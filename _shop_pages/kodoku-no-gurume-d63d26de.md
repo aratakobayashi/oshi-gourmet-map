@@ -23,11 +23,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "いごねり"
-  - "ブリしゃぶ"
-  - "刺身盛り合わせ"
-  - "ブリフライ"
-  - "ブリカブト焼き"
+  - "{'name': 'いごねり'}"
+  - "{'name': 'ブリしゃぶ'}"
+  - "{'name': '刺身盛り合わせ'}"
+  - "{'name': 'ブリフライ'}"
+  - "{'name': 'ブリカブト焼き'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/niigata/A1501/A150103/15009050/"

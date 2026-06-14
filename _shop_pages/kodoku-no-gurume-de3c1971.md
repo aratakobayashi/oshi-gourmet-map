@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ぶりの照焼き定食"
-  - "月見とろろ"
-  - "クリームコロッケ"
-  - "お刺身"
+  - "{'name': 'ぶりの照焼き定食'}"
+  - "{'name': '月見とろろ'}"
+  - "{'name': 'クリームコロッケ'}"
+  - "{'name': 'お刺身'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131813/13013832/"

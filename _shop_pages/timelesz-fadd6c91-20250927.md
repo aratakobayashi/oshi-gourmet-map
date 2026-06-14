@@ -30,5 +30,8 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "特製ステーキ丼（150g）"
+  - "{'name': '特製ステーキ丼（150g）'}"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/mie/A2401/A240102/24000603/"
 ---

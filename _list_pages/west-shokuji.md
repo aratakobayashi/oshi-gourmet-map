@@ -10,5 +10,5 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219
 related_genres:
   - west-shokuji
   - west-cafe
-  - west-ramen
+  - west-chuka
 ---

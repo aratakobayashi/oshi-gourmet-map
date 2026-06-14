@@ -7,7 +7,7 @@ name: "だしいなり海木　日本橋店"
 genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
-address: "東京都中央区日本橋室町3-2-1 コレド室町テラス1階【定休日】 火曜日"
+address: "東京都中央区日本橋室町3-2-1 コレド室町テラス1階"
 price_range: "￥1,000～￥1,999"
 source_video_title: "【ニノさん】堂本光一が大好きないなり寿司 だしいなりはどこで買える？"
 source_url: "https://kosodate-and.net/ninosan-koichi-dashiinari"
@@ -23,4 +23,7 @@ members:
   - "堂本剛"
 groups:
   - "kinkikids"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1302/A130202/13239412/"
 ---

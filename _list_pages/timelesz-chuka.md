@@ -14,7 +14,7 @@ related_genres:
   - timelesz-yakiniku
   - timelesz-shokuji
 related_groups:
+  - west-chuka
   - sixtones-chuka
   - equal-love-chuka
-  - arashi-chuka
 ---

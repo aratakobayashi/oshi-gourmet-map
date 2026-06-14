@@ -28,9 +28,9 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "焼き餃子"
-  - "蒸し餃子"
-  - "揚げ餃子"
+  - "{'name': '焼き餃子'}"
+  - "{'name': '蒸し餃子'}"
+  - "{'name': '揚げ餃子'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1301/A130101/13013277/"

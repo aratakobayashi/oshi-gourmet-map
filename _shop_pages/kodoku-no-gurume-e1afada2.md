@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "いわしのユッケ"
-  - "チーズロール"
-  - "グリル野菜"
-  - "つみれスープ"
-  - "にぎり寿司"
+  - "{'name': 'いわしのユッケ'}"
+  - "{'name': 'チーズロール'}"
+  - "{'name': 'グリル野菜'}"
+  - "{'name': 'つみれスープ'}"
+  - "{'name': 'にぎり寿司'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1315/A131501/13080413/"

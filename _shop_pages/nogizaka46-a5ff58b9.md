@@ -18,4 +18,7 @@ lat: 36.311665
 lng: 139.438687
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0901/A090101/9020221/"
 ---

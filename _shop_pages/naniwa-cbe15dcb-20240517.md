@@ -25,8 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "生しらすとびっちょ丼
-2,200円"
+  - "{'name': '生しらすとびっちょ丼\\n2,200円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1404/A140402/14066245/"

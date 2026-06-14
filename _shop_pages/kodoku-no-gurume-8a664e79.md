@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "塩ハラミ"
-  - "塩カルビ（ロースター焼肉）"
-  - "コムタンスープ"
+  - "{'name': '塩ハラミ'}"
+  - "{'name': '塩カルビ（ロースター焼肉）'}"
+  - "{'name': 'コムタンスープ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1401/A140203/14018576/"

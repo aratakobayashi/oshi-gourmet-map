@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "チート（豚胃）のしょうが炒め"
-  - "パタン"
+  - "{'name': 'チート（豚胃）のしょうが炒め'}"
+  - "{'name': 'パタン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1401/A140102/14004194/"

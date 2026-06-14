@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "上カルビ"
-  - "上ロース"
-  - "つのにんにく"
-  - "とろモツ（米沢牛ホルモン）"
-  - "みよしカレー（〆）"
+  - "{'name': '上カルビ'}"
+  - "{'name': '上ロース'}"
+  - "{'name': 'つのにんにく'}"
+  - "{'name': 'とろモツ（米沢牛ホルモン）'}"
+  - "{'name': 'みよしカレー（〆）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/yamagata/A0602/A060201/6004247/"

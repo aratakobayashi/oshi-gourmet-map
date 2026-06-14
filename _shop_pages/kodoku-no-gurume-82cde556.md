@@ -23,8 +23,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ナポリタン"
-  - "ハンバーグ"
+  - "{'name': 'ナポリタン'}"
+  - "{'name': 'ハンバーグ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1320/A132001/13040521/"

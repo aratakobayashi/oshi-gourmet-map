@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "銀ダラ西京焼き"
-  - "えんがわポン酢"
-  - "きんきの煮付け"
-  - "ばくだん納豆"
+  - "{'name': '銀ダラ西京焼き'}"
+  - "{'name': 'えんがわポン酢'}"
+  - "{'name': 'きんきの煮付け'}"
+  - "{'name': 'ばくだん納豆'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1309/A130905/13091985/"

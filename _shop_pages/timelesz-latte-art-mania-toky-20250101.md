@@ -25,5 +25,8 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "ラテアート"
+  - "{'name': 'ラテアート'}"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130603/13280352/"
 ---

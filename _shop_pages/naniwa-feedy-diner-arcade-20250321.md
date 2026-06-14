@@ -25,8 +25,8 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶Feedyチキンバーガー 1188円"
-  - "▶クラッシュゼリーソーダ 583円"
+  - "{'name': '▶Feedyチキンバーガー 1188円'}"
+  - "{'name': '▶クラッシュゼリーソーダ 583円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/osaka/A2706/A270604/27145800/"

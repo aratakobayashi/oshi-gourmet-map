@@ -25,8 +25,8 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "最初の30分　　 1,250円"
-  - "以降10分毎　　 330円"
+  - "{'name': '最初の30分\\u3000\\u3000 1,250円'}"
+  - "{'name': '以降10分毎\\u3000\\u3000 330円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1312/A131203/13283618/"

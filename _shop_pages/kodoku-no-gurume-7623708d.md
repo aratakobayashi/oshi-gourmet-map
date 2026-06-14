@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "新子焼き（若鶏の醤油ダレ焼き）"
-  - "玉子焼き"
-  - "自家製漬物"
-  - "きのこ汁"
-  - "棒鱈"
+  - "{'name': '新子焼き（若鶏の醤油ダレ焼き）'}"
+  - "{'name': '玉子焼き'}"
+  - "{'name': '自家製漬物'}"
+  - "{'name': 'きのこ汁'}"
+  - "{'name': '棒鱈'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/hokkaido/A0104/A010401/1014057/"

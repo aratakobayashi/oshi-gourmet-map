@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カワハギの活き造り定食"
-  - "豚足の唐揚げ"
-  - "高菜の油炒め"
-  - "ウニたっぷりクリームパスタ"
+  - "{'name': 'カワハギの活き造り定食'}"
+  - "{'name': '豚足の唐揚げ'}"
+  - "{'name': '高菜の油炒め'}"
+  - "{'name': 'ウニたっぷりクリームパスタ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/fukuoka/A4001/A400104/40003961/"

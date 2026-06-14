@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "キンピラゴボウ"
-  - "マフェ（ギニア風鶏のシチュー）"
-  - "雑穀混ぜご飯"
-  - "タラモサラダ"
+  - "{'name': 'キンピラゴボウ'}"
+  - "{'name': 'マフェ（ギニア風鶏のシチュー）'}"
+  - "{'name': '雑穀混ぜご飯'}"
+  - "{'name': 'タラモサラダ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1327/A132701/13284418/"

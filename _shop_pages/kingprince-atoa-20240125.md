@@ -27,4 +27,7 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/hyogo/A2801/A280101/28062867/"
 ---

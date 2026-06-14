@@ -25,4 +25,7 @@ members:
   - "星野みなみ"
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/aichi/A2301/A230102/23041534/"
 ---

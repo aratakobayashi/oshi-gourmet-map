@@ -18,4 +18,7 @@ business_hours: "月・火・水・木・金・祝前日・祝後日 10:45 - 23:
 tabelog_score: 3.11
 groups:
   - "kpop_twice"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1318/A131802/13302164/"
 ---

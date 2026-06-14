@@ -24,7 +24,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "せいろそば"
+  - "{'name': 'せいろそば'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/chiba/A1204/A120401/12016342/"

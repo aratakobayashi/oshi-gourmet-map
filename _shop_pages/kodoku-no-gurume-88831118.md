@@ -24,8 +24,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "マッシュルームガーリック"
-  - "カキグラタン"
+  - "{'name': 'マッシュルームガーリック'}"
+  - "{'name': 'カキグラタン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131801/13020966/"

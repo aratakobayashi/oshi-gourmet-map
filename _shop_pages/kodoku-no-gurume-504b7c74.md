@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ラム肩ロース"
-  - "ラムチョップ"
-  - "せせり"
-  - "羊の薬膳スープ"
+  - "{'name': 'ラム肩ロース'}"
+  - "{'name': 'ラムチョップ'}"
+  - "{'name': 'せせり'}"
+  - "{'name': '羊の薬膳スープ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131813/13186177/"

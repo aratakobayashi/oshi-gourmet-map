@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "おでん（牛すじ・大根・たまご）"
-  - "コーネ（コーン入れ）"
-  - "牛ロース"
-  - "豆もやし"
-  - "ラーメン（〆）"
+  - "{'name': 'おでん（牛すじ・大根・たまご）'}"
+  - "{'name': 'コーネ（コーン入れ）'}"
+  - "{'name': '牛ロース'}"
+  - "{'name': '豆もやし'}"
+  - "{'name': 'ラーメン（〆）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/hiroshima/A3401/A340101/34007929/"

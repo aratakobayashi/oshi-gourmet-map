@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カバブ"
-  - "コフタ"
-  - "ラムロースのたたき"
-  - "カラヒィ"
-  - "ラグマン"
+  - "{'name': 'カバブ'}"
+  - "{'name': 'コフタ'}"
+  - "{'name': 'ラムロースのたたき'}"
+  - "{'name': 'カラヒィ'}"
+  - "{'name': 'ラグマン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1319/A131901/13006879/"

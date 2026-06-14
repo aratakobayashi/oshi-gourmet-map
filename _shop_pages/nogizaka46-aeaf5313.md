@@ -19,4 +19,7 @@ lng: 137.1848555
 tabelog_score: 3.18
 groups:
   - "nogizaka46"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/toyama/A1601/A160101/16006021/"
 ---

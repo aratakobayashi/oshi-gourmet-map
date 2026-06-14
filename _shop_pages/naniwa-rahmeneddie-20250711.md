@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "【夏野菜と胡麻風味のバーニャカウダつけ麺 1280円"
+  - "{'name': '【夏野菜と胡麻風味のバーニャカウダつけ麺 1280円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130402/13279624/"

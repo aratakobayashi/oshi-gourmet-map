@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ホゲ"
-  - "モモ（ブータン式蒸し餃子）"
-  - "エマダツィ"
-  - "ツェリンマ茶"
+  - "{'name': 'ホゲ'}"
+  - "{'name': 'モモ（ブータン式蒸し餃子）'}"
+  - "{'name': 'エマダツィ'}"
+  - "{'name': 'ツェリンマ茶'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131811/13039628/"

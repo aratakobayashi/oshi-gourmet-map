@@ -18,4 +18,7 @@ business_hours: "11:30 - 22:00"
 tabelog_score: 3.58
 groups:
   - "kpop_twice"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1306/A130601/13225567/"
 ---

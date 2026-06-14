@@ -23,8 +23,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "タコス（チリソース付き）"
-  - "ステーキ200g"
+  - "{'name': 'タコス（チリソース付き）'}"
+  - "{'name': 'ステーキ200g'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/okinawa/A4703/A470404/47002905/"

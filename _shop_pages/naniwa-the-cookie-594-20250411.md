@@ -25,7 +25,7 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶焼き芋タオルケーキ 900円"
+  - "{'name': '▶焼き芋タオルケーキ 900円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1304/A130404/13272852/"

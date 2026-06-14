@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ぐじの土鍋ご飯"
-  - "もち豚ロース"
-  - "トマトの炭火焼き"
-  - "牡蠣の塩焼き"
-  - "かぶら蒸し"
+  - "{'name': 'ぐじの土鍋ご飯'}"
+  - "{'name': 'もち豚ロース'}"
+  - "{'name': 'トマトの炭火焼き'}"
+  - "{'name': '牡蠣の塩焼き'}"
+  - "{'name': 'かぶら蒸し'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kyoto/A2601/A260302/26002645/"

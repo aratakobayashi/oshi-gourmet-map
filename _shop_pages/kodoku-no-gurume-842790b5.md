@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "鯛の昆布締め"
-  - "刺身（ふくらぎ）"
-  - "おでん各種（大根・すすたけ・里芋）"
-  - "白エビのかき揚げ"
-  - "ご飯"
+  - "{'name': '鯛の昆布締め'}"
+  - "{'name': '刺身（ふくらぎ）'}"
+  - "{'name': 'おでん各種（大根・すすたけ・里芋）'}"
+  - "{'name': '白エビのかき揚げ'}"
+  - "{'name': 'ご飯'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/toyama/A1601/A160101/16000879/"

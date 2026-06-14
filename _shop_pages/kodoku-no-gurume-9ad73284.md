@@ -23,10 +23,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ぶり大根"
-  - "ナス味噌炒め"
-  - "コロッケ"
-  - "鴨とハーブ漬け"
+  - "{'name': 'ぶり大根'}"
+  - "{'name': 'ナス味噌炒め'}"
+  - "{'name': 'コロッケ'}"
+  - "{'name': '鴨とハーブ漬け'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1320/A132002/13059752/"

@@ -22,4 +22,7 @@ members:
   - "齋藤樹愛羅"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tochigi/A0902/A090203/9017523/"
 ---

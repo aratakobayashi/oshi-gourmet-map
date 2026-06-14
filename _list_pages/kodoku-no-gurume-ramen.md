@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - arashi-ramen
   - nogizaka46-ramen
-  - naniwa-ramen
+  - west-ramen
 ---

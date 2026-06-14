@@ -20,4 +20,7 @@ members:
   - "ナヨン"
 groups:
   - "kpop_twice"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1320/A132001/13048977/"
 ---

@@ -18,5 +18,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ナッコプセ（タコのピリ辛炒め）"
+  - "{'name': 'ナッコプセ（タコのピリ辛炒め）'}"
 ---

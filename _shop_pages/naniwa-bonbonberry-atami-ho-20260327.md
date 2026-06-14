@@ -25,8 +25,8 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "ごろごろいちごソフト 1200円"
-  - "あふれる100粒いちごパフェ 9000円"
+  - "{'name': 'ごろごろいちごソフト 1200円'}"
+  - "{'name': 'あふれる100粒いちごパフェ 9000円'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/shizuoka/A2205/A220502/22034667/"

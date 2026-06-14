@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "腸詰め干し肉貝柱釜飯"
-  - "香港海老雲呑麺"
-  - "アヒルのパリパリ揚げ"
+  - "{'name': '腸詰め干し肉貝柱釜飯'}"
+  - "{'name': '香港海老雲呑麺'}"
+  - "{'name': 'アヒルのパリパリ揚げ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1401/A140105/14064517/"

@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "サザエとキノコのプロヴァンス風（バゲット付き）"
-  - "野菜のポタージュスープ（バジル風味）"
-  - "牛タンシチューのオムライス"
+  - "{'name': 'サザエとキノコのプロヴァンス風（バゲット付き）'}"
+  - "{'name': '野菜のポタージュスープ（バジル風味）'}"
+  - "{'name': '牛タンシチューのオムライス'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/saitama/A1103/A110301/11043457/"

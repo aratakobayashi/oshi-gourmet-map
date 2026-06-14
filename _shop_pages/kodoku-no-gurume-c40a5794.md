@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ネギレバ炒め定食"
-  - "鶏皮餃子"
-  - "青ネギラーメン"
+  - "{'name': 'ネギレバ炒め定食'}"
+  - "{'name': '鶏皮餃子'}"
+  - "{'name': '青ネギラーメン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/chiba/A1203/A120304/12015049/"

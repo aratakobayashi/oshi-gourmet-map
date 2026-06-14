@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "HIROKIスペシャル"
-  - "タコ広島ネギ焼き"
-  - "ホタテガーリック焼き"
+  - "{'name': 'HIROKIスペシャル'}"
+  - "{'name': 'タコ広島ネギ焼き'}"
+  - "{'name': 'ホタテガーリック焼き'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1318/A131802/13001391/"

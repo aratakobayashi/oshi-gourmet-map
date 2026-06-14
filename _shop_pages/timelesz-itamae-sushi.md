@@ -28,7 +28,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "選抜極上にぎりセット"
+  - "{'name': '選抜極上にぎりセット'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1307/A130704/13118655/"

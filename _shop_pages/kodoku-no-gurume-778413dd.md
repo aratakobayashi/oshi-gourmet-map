@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "カラン"
-  - "ミンチ肉タイ香草炒め"
-  - "タイ東北ソーセージ"
-  - "鶏のせ汁なし麺"
-  - "カノムトーイ"
+  - "{'name': 'カラン'}"
+  - "{'name': 'ミンチ肉タイ香草炒め'}"
+  - "{'name': 'タイ東北ソーセージ'}"
+  - "{'name': '鶏のせ汁なし麺'}"
+  - "{'name': 'カノムトーイ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1324/A132402/13003768/"

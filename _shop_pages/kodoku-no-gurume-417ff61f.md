@@ -24,12 +24,12 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "生ラム"
-  - "カシラ"
-  - "煮おた（湯通しホルモン）"
-  - "豚バラ"
-  - "野菜盛り"
-  - "ライス（梅干し付き）"
+  - "{'name': '生ラム'}"
+  - "{'name': 'カシラ'}"
+  - "{'name': '煮おた（湯通しホルモン）'}"
+  - "{'name': '豚バラ'}"
+  - "{'name': '野菜盛り'}"
+  - "{'name': 'ライス（梅干し付き）'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/nagano/A2006/A200603/20008999/"

@@ -23,4 +23,7 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/fukushima/A0704/A070401/7010400/"
 ---

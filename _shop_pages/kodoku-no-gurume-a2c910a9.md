@@ -24,7 +24,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "塩ジンギスカン"
+  - "{'name': '塩ジンギスカン'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/hokkaido/A0101/A010105/1030343/"

@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "サントウシャミールス"
-  - "ガーリックチーズドーサ"
-  - "濃厚ラッシー"
+  - "{'name': 'サントウシャミールス'}"
+  - "{'name': 'ガーリックチーズドーサ'}"
+  - "{'name': '濃厚ラッシー'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1310/A131002/13234867/"

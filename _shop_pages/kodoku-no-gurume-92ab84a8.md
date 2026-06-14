@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ステーキ丼"
-  - "旬野菜のゴマ和え"
-  - "ワカサギの南蛮漬け"
+  - "{'name': 'ステーキ丼'}"
+  - "{'name': '旬野菜のゴマ和え'}"
+  - "{'name': 'ワカサギの南蛮漬け'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/kanagawa/A1410/A141001/14031445/"

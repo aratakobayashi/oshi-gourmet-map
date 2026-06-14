@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "アジフライ定食"
-  - "さんが焼き"
-  - "肉じゃが"
+  - "{'name': 'アジフライ定食'}"
+  - "{'name': 'さんが焼き'}"
+  - "{'name': '肉じゃが'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/chiba/A1206/A120603/12035117/"

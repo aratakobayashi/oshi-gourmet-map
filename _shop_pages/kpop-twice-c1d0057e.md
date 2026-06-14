@@ -17,4 +17,7 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 tabelog_score: 3.26
 groups:
   - "kpop_twice"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/chiba/A1202/A120203/12021578/"
 ---

@@ -24,10 +24,10 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "和風キムチ"
-  - "ホルモン"
-  - "ナンコツ"
-  - "コメカミ"
+  - "{'name': '和風キムチ'}"
+  - "{'name': 'ホルモン'}"
+  - "{'name': 'ナンコツ'}"
+  - "{'name': 'コメカミ'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1322/A132201/13025646/"

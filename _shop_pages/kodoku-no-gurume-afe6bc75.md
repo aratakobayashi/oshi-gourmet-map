@@ -24,9 +24,9 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "鯖ごま"
-  - "変わり茶碗蒸し"
-  - "若どりのスープ炊き"
+  - "{'name': '鯖ごま'}"
+  - "{'name': '変わり茶碗蒸し'}"
+  - "{'name': '若どりのスープ炊き'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/fukuoka/A4001/A400102/40014859/"

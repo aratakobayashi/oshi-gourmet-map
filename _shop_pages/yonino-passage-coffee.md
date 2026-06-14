@@ -32,9 +32,9 @@ tags:
   - "田町"
   - "スタンド"
 ordered_items:
-  - "本日のコーヒー(L)"
-  - "本日のコーヒー(L)"
-  - "アイスカフェラテ(L)"
+  - "{'name': '本日のコーヒー(L)'}"
+  - "{'name': '本日のコーヒー(L)'}"
+  - "{'name': 'アイスカフェラテ(L)'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1314/A131402/13206620/"

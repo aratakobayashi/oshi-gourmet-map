@@ -24,11 +24,11 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "ほろほろ鳥の合わせ盛り"
-  - "ほろバラ串"
-  - "ほろあぶら串"
-  - "鰻のオムレツ"
-  - "うな丼"
+  - "{'name': 'ほろほろ鳥の合わせ盛り'}"
+  - "{'name': 'ほろバラ串'}"
+  - "{'name': 'ほろあぶら串'}"
+  - "{'name': '鰻のオムレツ'}"
+  - "{'name': 'うな丼'}"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/tokyo/A1323/A132305/13008753/"

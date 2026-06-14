@@ -25,6 +25,9 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "パン"
-  - "アイスラテ"
+  - "{'name': 'パン'}"
+  - "{'name': 'アイスラテ'}"
+affiliate_links:
+  - label: "食べログで見る"
+    url: "https://tabelog.com/tokyo/A1309/A130904/13189835/"
 ---
