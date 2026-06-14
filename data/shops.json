@@ -86995,5 +86995,316 @@
     "ordered_items": [
       "トムヤムヌードル"
     ]
+  },
+  {
+    "id": "25348c2c",
+    "name": "The Hot Bread Kitchen",
+    "genre": "カフェ",
+    "prefecture": "フィジー",
+    "city": "デナラウ",
+    "address": "Denarau Marina Shopping Center, Fiji",
+    "lat": -17.7715982,
+    "lng": 177.3800823,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST フィジーPart3 2023-07-23（桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230723/",
+    "visited_date": "2023-07-23",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "フィジー・デナラウマリナのパン・パイ専門店。チキンパイが約270円と安くておいしいと評判。WEST.の桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "パン",
+      "フィジー",
+      "デナラウ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "チキンパイ",
+      "チリチキンパイ"
+    ]
+  },
+  {
+    "id": "57886d19",
+    "name": "Suva Municipal Market",
+    "genre": "食事",
+    "prefecture": "フィジー",
+    "city": "スバ",
+    "address": "Harris Rd, Suva, Fiji",
+    "lat": -18.1363903,
+    "lng": 178.4251088,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST フィジーPart3 2023-07-23（桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230723/",
+    "visited_date": "2023-07-23",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "フィジーの首都スバにある市場。ローカルフードが安く食べられる。ココナッツライス約120円、キャッサバケーキ約120円が名物。WEST.の桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "市場",
+      "フィジー",
+      "スバ",
+      "ローカルフード"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ココナッツライス",
+      "キャッサバケーキ"
+    ]
+  },
+  {
+    "id": "9a075a0e",
+    "name": "Joji's Restaurant",
+    "genre": "食事",
+    "prefecture": "フィジー",
+    "city": "スバ",
+    "address": "Laucala Bay, Suva, Fiji",
+    "lat": -18.1458994,
+    "lng": 178.4444819,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST フィジーPart4 2023-07-30（桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230730/",
+    "visited_date": "2023-07-30",
+    "members": [
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "フィジー・スバのローザラベイにあるお弁当屋。チリチキン（約660円）がボリューム満点で人気。5種類のメニューから選べる。WEST.の桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "フィジー",
+      "スバ",
+      "お弁当"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "チリチキン"
+    ]
+  },
+  {
+    "id": "2f7391f4",
+    "name": "The One Ratchada",
+    "genre": "食事",
+    "prefecture": "タイ",
+    "city": "バンコク",
+    "address": "Ratchadaphisek Rd, Bangkok, Thailand",
+    "lat": 13.7672661,
+    "lng": 100.5687575,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイPart2 2023-08-27（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230827/",
+    "visited_date": "2023-08-27",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "ラチャダー",
+    "description": "バンコク・ラチャダー地区のナイトマーケット。エビバケツシーフードや骨付き豚肉JUMBOが人気。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "ナイトマーケット",
+      "タイ",
+      "バンコク"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "エビバケツシーフード",
+      "骨付き豚肉JUMBO"
+    ]
+  },
+  {
+    "id": "4fe463e5",
+    "name": "Joke Prince",
+    "genre": "食事",
+    "prefecture": "タイ",
+    "city": "バンコク",
+    "address": "Bangkok, Thailand",
+    "lat": 13.7208579,
+    "lng": 100.516151,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイPart2 2023-08-27（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230827/",
+    "visited_date": "2023-08-27",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "バンコク市内",
+    "description": "バンコクのミシュランガイド掲載おかゆ（ジョーク）専門店。1杯約240円（60バーツ）とリーズナブル。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "おかゆ",
+      "タイ",
+      "バンコク",
+      "ミシュラン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "おかゆ（ジョーク）"
+    ]
+  },
+  {
+    "id": "31d32b34",
+    "name": "Amphawa Floating Market",
+    "genre": "食事",
+    "prefecture": "タイ",
+    "city": "サムットソンクラーム",
+    "address": "Amphawa, Samut Songkhram, Thailand",
+    "lat": 13.4075476,
+    "lng": 99.9988927,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイPart2 2023-08-27（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230827/",
+    "visited_date": "2023-08-27",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "アンパワー",
+    "description": "タイ・アンパワーの水上マーケット。夜に賑わう屋台が立ち並び、ほたてのチーズ焼き（8個約600円）が人気。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "水上マーケット",
+      "タイ",
+      "屋台"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ほたてのチーズ焼き"
+    ]
+  },
+  {
+    "id": "7bfb2793",
+    "name": "Ocean Sky Pattaya",
+    "genre": "食事",
+    "prefecture": "タイ",
+    "city": "パタヤ",
+    "address": "Pattaya, Chonburi, Thailand",
+    "lat": 12.9235557,
+    "lng": 100.8824551,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイPart3 2023-09-03（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230903/",
+    "visited_date": "2023-09-03",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "パタヤ",
+    "description": "タイ・パタヤの船上レストラン。パタヤの景色を一望しながら食事やカクテルが楽しめる。イカ釣り無料で釣れたイカをその場で調理。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "船上レストラン",
+      "タイ",
+      "パタヤ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ブルーマルガリータ",
+      "イカ料理"
+    ]
+  },
+  {
+    "id": "3e0e75cb",
+    "name": "Mother Roaster",
+    "genre": "カフェ",
+    "prefecture": "タイ",
+    "city": "バンコク",
+    "address": "1172 Soi Chareonkrung 22, Bangkok, Thailand",
+    "lat": 13.7329909,
+    "lng": 100.5123218,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST タイPart4 2023-09-10（濵田崇裕）",
+    "source_url": "https://jwest.jp/riatotsu_20230910/",
+    "visited_date": "2023-09-10",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "バンコク市内",
+    "description": "バンコクの廃墟上コーヒーショップ。1階が廃材置き場、2階がカフェという独特の構造。猫に囲まれながらコーヒーが楽しめる異色のカフェ。WEST.の濵田崇裕がリア突WESTで訪問。",
+    "tags": [
+      "カフェ",
+      "タイ",
+      "バンコク",
+      "個性派"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "コーヒー"
+    ]
   }
 ]
