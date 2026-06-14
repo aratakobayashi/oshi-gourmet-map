@@ -80201,5 +80201,140 @@
       }
     ],
     "description": "チャウメインサンドが名物のダイニングバー。米国マサチューセッツの焼きそばサンドを再現。イキスギ2022年11月（中間淳太）"
+  },
+  {
+    "id": "e32e482c",
+    "name": "TAPiR",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区神楽坂5-26 カグラザカ5ビル2F",
+    "nearest_station": "牛込神楽坂",
+    "lat": 35.70209581627764,
+    "lng": 139.73819902345508,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-08-23",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13256548/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13256548/"
+      }
+    ]
+  },
+  {
+    "id": "30b87a7e",
+    "name": "果房 メロンとロマン",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "address": "東京都新宿区神楽坂3-6-92",
+    "nearest_station": "神楽坂",
+    "lat": 35.70092383788954,
+    "lng": 139.7394153834405,
+    "members": [
+      "小瀧望"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-11-08",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13236467/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13236467/"
+      }
+    ]
+  },
+  {
+    "id": "392cc195",
+    "name": "Spice & Dining KALA",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "福岡県",
+    "address": "福岡県北九州市小倉南区",
+    "nearest_station": "小倉",
+    "lat": 33.877998336226,
+    "lng": 130.88034667123725,
+    "members": [
+      "濵田崇裕"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-08-23",
+    "tabelog_url": "https://tabelog.com/fukuoka/A4004/A400401/40061727/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4004/A400401/40061727/"
+      }
+    ]
+  },
+  {
+    "id": "3bdb1289",
+    "name": "いわむら",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "居酒屋",
+    "prefecture": "愛知県",
+    "address": "愛知県名古屋市北区柳原1丁目9-2",
+    "nearest_station": "名城公園",
+    "lat": 35.190319598117696,
+    "lng": 136.908642111429,
+    "members": [
+      "中間淳太"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-06-14",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230109/23034951/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230109/23034951/"
+      }
+    ]
+  },
+  {
+    "id": "71358ce8",
+    "name": "定食酒場食堂",
+    "group": "west",
+    "groups": [
+      "west"
+    ],
+    "genre": "食事",
+    "prefecture": "東京都",
+    "address": "東京都新宿区片町4-10",
+    "nearest_station": "曙橋",
+    "lat": 35.69177813789056,
+    "lng": 139.72438228335866,
+    "members": [
+      "桐山照史"
+    ],
+    "source_type": "tv",
+    "source_name": "イキスギさんについてった",
+    "broadcast_date": "2022-05-17",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130903/13212658/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130903/13212658/"
+      }
+    ]
   }
 ]
