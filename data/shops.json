@@ -88111,5 +88111,127 @@
     "ordered_items": [
       "バーガー"
     ]
+  },
+  {
+    "id": "e94964ce",
+    "name": "フォルクス 西参道店",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区代々木3-33-7 フォレストタウン参宮橋2F",
+    "lat": 35.682769837886035,
+    "lng": 139.6922244832902,
+    "source_video_title": "何するカトゥーン?（亀梨和也・上田竜也・中丸雄一）",
+    "source_url": "https://kosodate-and.net/",
+    "visited_date": "2021-01-01",
+    "members": [
+      "亀梨和也",
+      "上田竜也",
+      "中丸雄一"
+    ],
+    "groups": [
+      "kattun"
+    ],
+    "group": "kattun",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131810/13023892/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131810/13023892/"
+      }
+    ],
+    "description": "KAT-TUNがステーキと和風おろしハンバーグを堪能。",
+    "ordered_items": [
+      "熟成フィレステーキ200g",
+      "和風おろしハンバーグ"
+    ]
+  },
+  {
+    "id": "5a9f4b32",
+    "name": "蕎楽亭",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂3-6",
+    "lat": 35.70078543869502,
+    "lng": 139.73951614460083,
+    "source_video_title": "何するカトゥーン?（亀梨和也）",
+    "source_url": "https://shonentachi-movie.jp/kattun15th-location/",
+    "visited_date": "2021-01-01",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kattun"
+    ],
+    "group": "kattun",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13000479/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13000479/"
+      }
+    ],
+    "description": "ミシュランビブグルマン取得の石臼挽き手打ちそばの名店。亀梨和也がリクエストし訪問。"
+  },
+  {
+    "id": "a05bb79f",
+    "name": "鮨処あいじ",
+    "genre": "sushi",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "石川県金沢市片町",
+    "lat": 36.55979463636031,
+    "lng": 136.6504283942812,
+    "source_video_title": "何するカトゥーン?（金沢ロケ）",
+    "source_url": "https://kanazawa-tourism.net/location-topics/kattun/",
+    "visited_date": "2021-10-25",
+    "members": [],
+    "groups": [
+      "kattun"
+    ],
+    "group": "kattun",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17001116/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ishikawa/A1701/A170101/17001116/"
+      }
+    ],
+    "description": "食べログ百名店選出のの金沢の高級寿司店。のどぐろなど金沢の名産を堪能。"
+  },
+  {
+    "id": "aaabb96a",
+    "name": "Cafe & Bar LIBER",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市此花区桜島2丁目1-33 リーベルホテルアットUSJ 1F",
+    "lat": 34.66158883717826,
+    "lng": 135.43322087596076,
+    "source_video_title": "何するカトゥーン?（USJ打ち上げ / 亀梨和也・上田竜也・中丸雄一）",
+    "source_url": "https://kosodate-and.net/nanisurukattun-usj-hotel/",
+    "visited_date": "2022-01-01",
+    "members": [
+      "亀梨和也",
+      "上田竜也",
+      "中丸雄一"
+    ],
+    "groups": [
+      "kattun"
+    ],
+    "group": "kattun",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270403/27114246/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270403/27114246/"
+      }
+    ],
+    "description": "KAT-TUNがUSJ訪問後に打ち上げしたリーベルホテル1階のカフェ&バル。"
   }
 ]
