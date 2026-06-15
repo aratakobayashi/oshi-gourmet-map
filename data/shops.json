@@ -91261,5 +91261,143 @@
     "source_video_title": "それスノ",
     "description": "それスノ登場店",
     "members": []
+  },
+  {
+    "id": "85994217",
+    "name": "拉麺 イチバノナカ",
+    "genre": "ramen",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "lat": 35.81165963775228,
+    "lng": 139.5292460847064,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "埼玉県所沢市のラーメン店。Snow Manが「それSnow Manだから」で訪れた。",
+    "tabelog_url": "https://tabelog.com/saitama/A1106/A110601/11050142/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1106/A110601/11050142/"
+      }
+    ]
+  },
+  {
+    "id": "be79694a",
+    "name": "モナリザン",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.52935410879205,
+    "lng": 139.7022698728953,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "神奈川県川崎市のカフェ・パン屋。Snow Manが「それSnow Manだから」川崎回で訪れた。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140501/14000611/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1405/A140501/14000611/"
+      }
+    ]
+  },
+  {
+    "id": "12891750",
+    "name": "OTOWA FUJIYA",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "lat": 35.72121590867942,
+    "lng": 139.73124947481298,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "東京都文京区大塚のカフェ。Snow Manが「それSnow Manだから」都内回で訪れた。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132302/13164695/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1323/A132302/13164695/"
+      }
+    ]
+  },
+  {
+    "id": "6509c28b",
+    "name": "大谷堂",
+    "genre": "sweets",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.53455919879808,
+    "lng": 139.73159002292732,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "神奈川県川崎大師のわらび餅専門店。Snow Manが「それSnow Manだから」川崎回で訪れた。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140502/14038880/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1405/A140502/14038880/"
+      }
+    ]
+  },
+  {
+    "id": "be2efe73",
+    "name": "Seoul Cafe",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "lat": 35.699367137878845,
+    "lng": 139.70276558345049,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "東京都新宿区新大久保の韓国カフェ。Snow Manが「それSnow Manだから」都内回で訪れた。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13232939/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1304/A130404/13232939/"
+      }
+    ]
+  },
+  {
+    "id": "e4d14e02",
+    "name": "うずら屋",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "lat": 35.79612430854648,
+    "lng": 139.4632222957575,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "埼玉県所沢市のうずら卵専門店。生カステラが名物。Snow Manが「それSnow Manだから」埼玉回で訪れた。",
+    "tabelog_url": "https://tabelog.com/saitama/A1106/A110601/11019567/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1106/A110601/11019567/"
+      }
+    ]
   }
 ]
