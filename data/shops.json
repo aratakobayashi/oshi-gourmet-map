@@ -88361,5 +88361,166 @@
     "ordered_items": [
       "大新丼"
     ]
+  },
+  {
+    "id": "4f52927a",
+    "name": "喫茶サンシャイン",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区梅田1-1-3 大阪駅前第3ビル B2F",
+    "lat": 34.69877825825216,
+    "lng": 135.49941585964,
+    "source_video_title": "ごぶごぶ（堂本剛）",
+    "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
+    "visited_date": "2023-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27149249/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27149249/"
+      }
+    ],
+    "description": "ごぶごぶで堂本剛が絶賛したホットケーキが名物の梅田の喫茶店。",
+    "ordered_items": [
+      "ホットケーキ"
+    ]
+  },
+  {
+    "id": "8c2d75d8",
+    "name": "心斎橋よかろ",
+    "genre": "izakaya",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区東心斎橋1-8-14",
+    "lat": 34.673637537193365,
+    "lng": 135.5046815760324,
+    "source_video_title": "ごぶごぶ（堂本剛）",
+    "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
+    "visited_date": "2023-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27055359/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27055359/"
+      }
+    ],
+    "description": "ごぶごぶで堂本剛が訪れたおでん・どて焼きの老舗。",
+    "ordered_items": [
+      "ふき",
+      "きくな",
+      "豆腐のこぶがけ",
+      "にゅうめん"
+    ]
+  },
+  {
+    "id": "3171954a",
+    "name": "心斎橋でりしゃす",
+    "genre": "others",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区心斎橋筋2-1-3",
+    "lat": 34.67167722799918,
+    "lng": 135.50217172717615,
+    "source_video_title": "ごぶごぶ（堂本剛）",
+    "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
+    "visited_date": "2023-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27008279/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27008279/"
+      }
+    ],
+    "description": "ごぶごぶで堂本剛が訪れた鉄板ハンバーグの店。",
+    "ordered_items": [
+      "でりしゃすハンバーグ"
+    ]
+  },
+  {
+    "id": "196b9e03",
+    "name": "手打ち蕎麦 みたに",
+    "genre": "washoku",
+    "prefecture": "滋賀県",
+    "city": "長浜市",
+    "address": "滋賀県長浜市元浜町9-20",
+    "lat": 35.378877067793695,
+    "lng": 136.26730512378316,
+    "source_video_title": "関ジャニ∞ ロケ地巡り（長浜）",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12969692580.html",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/shiga/A2504/A250402/25001491/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shiga/A2504/A250402/25001491/"
+      }
+    ],
+    "description": "長浜黒壁スクエア近くの本格手打ち蕎麦。関ジャニ∞ロケ地。そば膳が人気。",
+    "ordered_items": [
+      "そば膳 せいろ・とろろごはん"
+    ]
+  },
+  {
+    "id": "9f318c81",
+    "name": "海人 門司港本店",
+    "genre": "sushi",
+    "prefecture": "福岡県",
+    "city": "北九州市",
+    "address": "福岡県北九州市門司区港町",
+    "lat": 33.946012036209744,
+    "lng": 130.9649740718649,
+    "source_video_title": "関ジャニ∞ ロケ地巡り（門司港）",
+    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12968807639.html",
+    "visited_date": "2024-06-01",
+    "members": [],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "source_type": "blog",
+    "tabelog_url": "https://tabelog.com/fukuoka/A4004/A400501/40000939/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4004/A400501/40000939/"
+      }
+    ],
+    "description": "門司港レトロの海鮮回転寿司。関ジャニ∞ロケ地。ふぐ唐揚げ・関門タコが名物。",
+    "ordered_items": [
+      "ふぐ唐揚げ",
+      "関門タコの唐揚げ",
+      "活とらふぐ"
+    ]
   }
 ]
