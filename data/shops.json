@@ -88233,5 +88233,133 @@
       }
     ],
     "description": "KAT-TUNがUSJ訪問後に打ち上げしたリーベルホテル1階のカフェ&バル。"
+  },
+  {
+    "id": "b51f102c",
+    "name": "濱鮨",
+    "genre": "sushi",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区中崎西",
+    "lat": 34.70714447797744,
+    "lng": 135.50461003753267,
+    "source_video_title": "エイトブンノニ 中崎町回（丸山隆平・錦戸亮）",
+    "source_url": "https://omoshiromemo.com/1432.html",
+    "visited_date": "2017-01-01",
+    "members": [
+      "丸山隆平",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27068088/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27068088/"
+      }
+    ],
+    "description": "だし巻き卵サンドが名物の老舗鮨屋。",
+    "ordered_items": [
+      "だし巻き卵サンド"
+    ]
+  },
+  {
+    "id": "3607fb24",
+    "name": "ラ・グランダ・ファミリオ",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区中崎西1-1-18",
+    "lat": 34.70700264797739,
+    "lng": 135.50418573753154,
+    "source_video_title": "エイトブンノニ 中崎町回（丸山隆平・錦戸亮）",
+    "source_url": "https://omoshiromemo.com/1432.html",
+    "visited_date": "2017-01-01",
+    "members": [
+      "丸山隆平",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27075783/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27075783/"
+      }
+    ],
+    "description": "手作りグラノーラが人気のオーガニックカフェ。"
+  },
+  {
+    "id": "f3c0d1e3",
+    "name": "レストラン・カフェ クイーン",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区中崎",
+    "lat": 34.707450467977594,
+    "lng": 135.50571148753502,
+    "source_video_title": "エイトブンノニ 中崎町回（丸山隆平・錦戸亮）",
+    "source_url": "https://omoshiromemo.com/1432.html",
+    "visited_date": "2017-01-01",
+    "members": [
+      "丸山隆平",
+      "錦戸亮"
+    ],
+    "groups": [
+      "kanjani"
+    ],
+    "group": "kanjani",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27017726/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27017726/"
+      }
+    ],
+    "description": "ハヤシオムライスが名物の老舗洋食カフェ。",
+    "ordered_items": [
+      "ハヤシオムライス"
+    ]
+  },
+  {
+    "id": "df6209b5",
+    "name": "中華大新 鎌倉店",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市小町1-13-10",
+    "lat": 35.31702308887875,
+    "lng": 139.55105266085656,
+    "source_video_title": "10万円でできるかな（玉森裕太）",
+    "source_url": "https://ameblo.jp/68791496/entry-12844951754.html",
+    "visited_date": "2024-01-01",
+    "members": [
+      "玉森裕太"
+    ],
+    "groups": [
+      "kismai"
+    ],
+    "group": "kismai",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14001863/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1404/A140402/14001863/"
+      }
+    ],
+    "description": "鎌倉市場前の町中華。10万円でできるかなに登場。大新丼やあんかけご飯が名物。",
+    "ordered_items": [
+      "大新丼"
+    ]
   }
 ]
