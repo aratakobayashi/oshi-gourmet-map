@@ -89945,5 +89945,217 @@
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
     "description": "",
     "members": []
+  },
+  {
+    "id": "e6775129",
+    "name": "インディアンレストラン西麻布 by KENBOKKE",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "genre": "食事",
+    "address": "東京都港区西麻布4-11-28",
+    "lat": 35.65935203791057,
+    "lng": 139.72252318303242,
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13002103/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130703/13002103/"
+      }
+    ],
+    "source_url": "https://8888-info.hatenablog.com/",
+    "source_video_title": "孤独のグルメ Season11 Episode2",
+    "description": "孤独のグルメSeason11 第2話登場店",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "eec942aa",
+    "name": "CABE チャベ目黒店",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "genre": "食事",
+    "address": "東京都品川区上大崎3丁目5-4",
+    "lat": 35.63453403792535,
+    "lng": 139.71944618278388,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13027513/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131601/13027513/"
+      }
+    ],
+    "source_url": "https://8888-info.hatenablog.com/entry/Season10",
+    "source_video_title": "孤独のグルメ Season10 Episode2",
+    "description": "孤独のグルメSeason10 第2話登場店"
+  },
+  {
+    "id": "9755630c",
+    "name": "ビストロKUROKAWA",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "genre": "食事",
+    "address": "埼玉県新座市栄2丁目7-34",
+    "lat": 35.77425413779136,
+    "lng": 139.5773666842948,
+    "prefecture": "埼玉県",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110301/11043457/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110301/11043457/"
+      }
+    ],
+    "source_url": "https://8888-info.hatenablog.com/entry/Season10",
+    "source_video_title": "孤独のグルメ Season10 Episode4",
+    "description": "孤独のグルメSeason10 第4話登場店"
+  },
+  {
+    "id": "88b7421d",
+    "name": "味のレストラン えびすや幸町店",
+    "group": "kodoku_no_gurume",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "genre": "食事",
+    "address": "千葉県千葉市美浜区幸町1丁目18-1",
+    "lat": 35.61457693805953,
+    "lng": 140.10101388231487,
+    "prefecture": "千葉県",
+    "tabelog_url": "https://tabelog.com/chiba/A1201/A120103/12000797/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1201/A120103/12000797/"
+      }
+    ],
+    "source_url": "https://8888-info.hatenablog.com/entry/Season7",
+    "source_video_title": "孤独のグルメ Season7 Episode11",
+    "description": "孤独のグルメSeason7 第11話登場店"
+  },
+  {
+    "id": "fd1099c7",
+    "name": "ぶたや黒将",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "沖縄県中頭郡読谷村座喜味1893",
+    "lat": 26.394147974818583,
+    "lng": 127.72637460356847,
+    "prefecture": "沖縄県",
+    "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47013829/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4703/A470304/47013829/"
+      }
+    ],
+    "source_url": "https://fananablog.com/tabisuno-seichi-okinawa/",
+    "source_video_title": "旅スノ 沖縄旅",
+    "description": "旅スノ沖縄旅 登場店",
+    "members": []
+  },
+  {
+    "id": "85b25926",
+    "name": "べんべん",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "居酒屋",
+    "address": "高知県南国市大そね乙1024",
+    "lat": 33.56504193811159,
+    "lng": 133.64815686729767,
+    "prefecture": "高知県",
+    "tabelog_url": "https://tabelog.com/kochi/A3901/A390102/39003751/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kochi/A3901/A390102/39003751/"
+      }
+    ],
+    "source_url": "https://fananablog.com/tabisuno-seichi-kouchi/",
+    "source_video_title": "旅スノ 高知旅",
+    "description": "旅スノ高知旅 登場店",
+    "members": []
+  },
+  {
+    "id": "b1fd2358",
+    "name": "下鴨茶寮",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "和食",
+    "address": "京都府京都市左京区下鴨宮河町62",
+    "lat": 35.034183037050134,
+    "lng": 135.77399057948546,
+    "prefecture": "京都府",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26001041/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kyoto/A2601/A260302/26001041/"
+      }
+    ],
+    "source_url": "https://fananablog.com/tabisuno-seichi-kyoto/",
+    "source_video_title": "旅スノ 京都旅",
+    "description": "旅スノ京都旅 登場店",
+    "members": []
+  },
+  {
+    "id": "44d11852",
+    "name": "割烹さわ",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "和食",
+    "address": "群馬県高崎市八島町265",
+    "lat": 36.32260143726215,
+    "lng": 139.00922199023188,
+    "prefecture": "群馬県",
+    "tabelog_url": "https://tabelog.com/gunma/A1001/A100102/10000192/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/gunma/A1001/A100102/10000192/"
+      }
+    ],
+    "source_url": "https://fananablog.com/tabisuno-seichi-gunma/",
+    "source_video_title": "旅スノ 高崎旅",
+    "description": "旅スノ高崎旅 登場店",
+    "members": []
+  },
+  {
+    "id": "be2e4683",
+    "name": "つば甚",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "和食",
+    "address": "石川県金沢市寺町5丁目1-8",
+    "lat": 36.555241736363506,
+    "lng": 136.65139049423453,
+    "prefecture": "石川県",
+    "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000031/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ishikawa/A1701/A170101/17000031/"
+      }
+    ],
+    "source_url": "https://fananablog.com/tabisuno-seichi-gifu-ishikawa/",
+    "source_video_title": "旅スノ 金沢旅",
+    "description": "旅スノ金沢旅 登場店",
+    "members": []
   }
 ]
