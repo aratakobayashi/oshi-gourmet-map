@@ -51393,7 +51393,8 @@
       "菊池風磨"
     ],
     "groups": [
-      "timelesz"
+      "timelesz",
+      "kinkikids"
     ],
     "group": "timelesz",
     "nearest_station": "高円寺駅",
@@ -89201,6 +89202,314 @@
     "members": [
       "濱家隆一",
       "山内健司"
+    ]
+  },
+  {
+    "id": "19de7df0",
+    "name": "電光石火 銀座店",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "銀座",
+    "address": "東京都中央区銀座8-2-16 FPG links GINZA Corridor 4F",
+    "lat": 35.669865037915685,
+    "lng": 139.75961198311262,
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13241207/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130103/13241207/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 電光石火（お好み焼き） 2024年2月24日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_240224_okonomi/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "c0531869",
+    "name": "肉の栄屋",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "area": "奥渋谷",
+    "address": "東京都渋谷区神山町17-4",
+    "lat": 35.66418334870354,
+    "lng": 139.69324786426353,
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13197629/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13197629/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 奥渋谷ロケ 2024年1月6日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_240106_okushibu/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "bf738839",
+    "name": "熟成焼肉 格之進R+",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "area": "六本木",
+    "address": "東京都港区六本木7-14-16 六本木リバースビル",
+    "lat": 35.66335650344687,
+    "lng": 139.73115278116225,
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13215901/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13215901/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 熟成焼肉・希少部位 2023年9月23日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230923_kakunoshin/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "561405be",
+    "name": "神田 雲林",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "area": "神田",
+    "address": "東京都千代田区神田須田町1-17 2F",
+    "lat": 35.69663743790157,
+    "lng": 139.7686587833767,
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13023052/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131002/13023052/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン フカヒレ炒飯オムライス 2023年9月9日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230909_fukahire/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "8d6bec2c",
+    "name": "AMOUR（アムール）",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "広尾",
+    "address": "東京都渋谷区広尾1-6-13",
+    "lat": 35.64876013791462,
+    "lng": 139.7141585829313,
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13142028/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13142028/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン スフレオムライス 2023年9月9日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230909_omu-3/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "fb8e470b",
+    "name": "能登金沢の幸 銀座 ふる田",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "area": "銀座",
+    "address": "東京都中央区銀座5-10-11 川島ビル B1F〜1F",
+    "lat": 35.66989306872292,
+    "lng": 139.76548270427057,
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13038046/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13038046/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン オムライス 2023年9月9日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230909_omu-2/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "2e7fec09",
+    "name": "小川藤",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "area": "川越",
+    "address": "埼玉県川越市松江町2-3-1",
+    "lat": 35.92061033766902,
+    "lng": 139.4851057858378,
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11000248/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11000248/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン うな重 川越 2023年8月5日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230805_unagi/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "4f3df703",
+    "name": "菓匠右門 時の鐘店",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "area": "川越",
+    "address": "埼玉県川越市幸町15-13",
+    "lat": 35.92349784847207,
+    "lng": 139.48355888702983,
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11016740/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11016740/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 紫芋ソフトクリーム 川越 2023年8月5日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230805_ice/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "0c5b71fe",
+    "name": "宮良そば",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "ramen",
+    "prefecture": "沖縄県",
+    "area": "浦添",
+    "address": "沖縄県浦添市当山1-7-17",
+    "lat": 26.255142800870072,
+    "lng": 127.73172932760819,
+    "tabelog_url": "https://tabelog.com/okinawa/A4703/A470404/47003012/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4703/A470404/47003012/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 骨汁定食 沖縄 2023年7月15日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230715-3/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "42b487cd",
+    "name": "くわっちー家",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "area": "日本橋",
+    "address": "東京都中央区日本橋堀留町1-10-1 カクタビル 1F",
+    "lat": 35.68815823791049,
+    "lng": 139.77977448328326,
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13027399/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1302/A130204/13027399/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン 沖縄料理 2023年7月15日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230715-2/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ]
+  },
+  {
+    "id": "8f57e5d6",
+    "name": "水車生そば",
+    "group": "kinkikids",
+    "groups": [
+      "kinkikids"
+    ],
+    "genre": "ramen",
+    "prefecture": "山形県",
+    "area": "天童",
+    "address": "山形県天童市鎌田本町1-3-26",
+    "lat": 38.25252767726579,
+    "lng": 140.34057979995444,
+    "tabelog_url": "https://tabelog.com/yamagata/A0604/A060403/6000097/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/yamagata/A0604/A060403/6000097/"
+      }
+    ],
+    "source_video_title": "KinKi Kidsのブンブブーン グルメ振り返りSP 2023年9月30日",
+    "source_url": "https://www.activitv.com/entry/bunbuboon_230930_shop-2/",
+    "description": "",
+    "members": [
+      "堂本光一",
+      "堂本剛"
     ]
   }
 ]
