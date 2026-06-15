@@ -87943,5 +87943,128 @@
       "濃厚チョコアイス",
       "塩クッキーキャラメルアイス"
     ]
+  },
+  {
+    "id": "5c98eca5",
+    "name": "元祖久留米らーめん 福ヤ",
+    "genre": "ラーメン",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番4-3-1 1F",
+    "lat": 35.65466073791824,
+    "lng": 139.73725098297473,
+    "youtube_id": "",
+    "source_video_title": "Kis-My-Ft2 メンバー訪問店",
+    "source_url": "https://youjani.com/kismyft-sine/",
+    "visited_date": "",
+    "members": [
+      "宮田俊哉",
+      "横尾渉",
+      "北山宏光"
+    ],
+    "groups": [
+      "kismai"
+    ],
+    "group": "kismai",
+    "nearest_station": "麻布十番",
+    "description": "麻布十番の久留米ラーメン店。赤ののれんが目印。宮田俊哉・横尾渉・北山宏光が訪問したとしてサインが飾られている。",
+    "tags": [
+      "ラーメン",
+      "久留米",
+      "麻布十番",
+      "東京"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13116182/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130702/13116182/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "9f2ea65a",
+    "name": "お好み焼き カチャカチャDO 平田店",
+    "genre": "食事",
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "address": "島根県出雲市園町1412-1",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "帰れマンデー見っけ隊!! 島根出雲（藤ヶ谷太輔）",
+    "source_url": "https://youjani.com/kismyft-sine/",
+    "visited_date": "",
+    "members": [
+      "藤ヶ谷太輔"
+    ],
+    "groups": [
+      "kismai"
+    ],
+    "group": "kismai",
+    "nearest_station": "雲州平田",
+    "description": "島根県出雲市のお好み焼き店。藤ヶ谷太輔が「帰れマンデー見っけ隊!!」で訪問し、サインが飾られている。",
+    "tags": [
+      "お好み焼き",
+      "島根",
+      "出雲"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "ed3ca800",
+    "name": "博多もつ鍋 二十四 博多南店",
+    "genre": "居酒屋",
+    "prefecture": "福岡県",
+    "city": "博多区",
+    "address": "福岡県福岡市博多区博多駅南",
+    "lat": 33.586668636265344,
+    "lng": 130.4229242686152,
+    "youtube_id": "",
+    "source_video_title": "Kis-My-Ft2 千賀健永 訪問店",
+    "source_url": "https://youjani.com/kismyft-sine/",
+    "visited_date": "",
+    "members": [
+      "千賀健永"
+    ],
+    "groups": [
+      "kismai"
+    ],
+    "group": "kismai",
+    "nearest_station": "博多",
+    "description": "博多のもつ鍋専門店。千賀健永が訪問し店のサインが飾られている。サムライもつが名物で、テレビでも紹介された人気店。",
+    "tags": [
+      "もつ鍋",
+      "福岡",
+      "博多"
+    ],
+    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400101/40004959/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/fukuoka/A4001/A400101/40004959/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "blog",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "もつ鍋"
+    ]
   }
 ]
