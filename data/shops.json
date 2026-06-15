@@ -90829,5 +90829,437 @@
     "source_video_title": "すのちゅーぶ",
     "description": "すのちゅーぶ登場店",
     "members": []
+  },
+  {
+    "id": "49bfa5e1",
+    "name": "まぐろ食堂 七兵衛丸",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "神奈川県三浦市三崎5丁目5-4",
+    "lat": 35.141249509011104,
+    "lng": 139.61609407903552,
+    "prefecture": "神奈川県",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140603/14012928/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1406/A140603/14012928/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "b60b5d96",
+    "name": "くろば亭",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "神奈川県三浦市三崎1丁目9-11",
+    "lat": 35.1418972190124,
+    "lng": 139.62147894903828,
+    "prefecture": "神奈川県",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140603/14000608/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1406/A140603/14000608/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "ea88757d",
+    "name": "地魚料理 松輪",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "神奈川県三浦市南下浦町松輪264",
+    "lat": 35.143128825486784,
+    "lng": 139.66819973941458,
+    "prefecture": "神奈川県",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140603/14005210/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1406/A140603/14005210/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "3cb0dcda",
+    "name": "海鮮丼 佐政",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "静岡県沼津市千本港町83",
+    "lat": 35.0838229380008,
+    "lng": 138.858080877825,
+    "prefecture": "静岡県",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220501/22031391/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2205/A220501/22031391/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "21fcd031",
+    "name": "沼津港 五鉃",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "静岡県沼津市千本港町121-2",
+    "lat": 35.08243941061607,
+    "lng": 138.85794248413512,
+    "prefecture": "静岡県",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220501/22031946/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/shizuoka/A2205/A220501/22031946/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "af1377cf",
+    "name": "海ぼうず",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "千葉県銚子市新生町1丁目36-11",
+    "lat": 35.733843989023924,
+    "lng": 140.8381960141646,
+    "prefecture": "千葉県",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120501/12003558/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1205/A120501/12003558/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "0d08448a",
+    "name": "鮪蔵",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "千葉県銚子市飯沼町186-104",
+    "lat": 35.73348000902494,
+    "lng": 140.8406425541592,
+    "prefecture": "千葉県",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120501/12004161/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1205/A120501/12004161/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "e4410337",
+    "name": "ぎょ魚蔵部",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "千葉県銚子市飯沼町186-103",
+    "lat": 35.733444329024934,
+    "lng": 140.8405704941589,
+    "prefecture": "千葉県",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120501/12046235/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1205/A120501/12046235/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kaisendon/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "87007b77",
+    "name": "旧ヤム邸 シモキタ荘",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "東京都世田谷区代沢5丁目29-9",
+    "lat": 35.65842642869886,
+    "lng": 139.66707356422376,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13211142/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131802/13211142/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-curry/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "62830aa4",
+    "name": "般ﾟ若",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "東京都世田谷区北沢2丁目33-6",
+    "lat": 35.6630341586965,
+    "lng": 139.66883637426903,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13215255/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131802/13215255/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-curry/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "f2781b58",
+    "name": "茄子おやじ",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "東京都世田谷区代沢5丁目36-8",
+    "lat": 35.659281138698255,
+    "lng": 139.6668802442325,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13001385/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131802/13001385/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-curry/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "567a45e0",
+    "name": "MAJI CURRY 神田神保町店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "東京都千代田区神田小川町3丁目10-7",
+    "lat": 35.696295237899484,
+    "lng": 139.76141088337832,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13219557/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13219557/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-curry/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "e9ac0dc6",
+    "name": "タケウチ 神保町本店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "東京都千代田区神田神保町1丁目20-3",
+    "lat": 35.69680328870394,
+    "lng": 139.75953205454653,
+    "prefecture": "東京都",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13160882/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13160882/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-curry/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "a9375da8",
+    "name": "小江戸 オハナ",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "埼玉県川越市仲町2-2",
+    "lat": 35.92120366847341,
+    "lng": 139.48321303700692,
+    "prefecture": "埼玉県",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11004178/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11004178/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kawagoe/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "ebe1f3a0",
+    "name": "うなぎ傳米",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "和食",
+    "address": "埼玉県川越市幸町1-10",
+    "lat": 35.922321337667164,
+    "lng": 139.4826923858568,
+    "prefecture": "埼玉県",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11056695/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11056695/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-kawagoe/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "53bffbf0",
+    "name": "元祖仙台ひとくち餃子 あずま",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "食事",
+    "address": "宮城県仙台市青葉区一番町4丁目4-1",
+    "lat": 38.26263847742815,
+    "lng": 140.87057902968508,
+    "prefecture": "宮城県",
+    "tabelog_url": "https://tabelog.com/miyagi/A0401/A040101/4024167/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/miyagi/A0401/A040101/4024167/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-sendai/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "ab24cee8",
+    "name": "ペニーレイン 那須店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "カフェ",
+    "address": "栃木県那須郡那須町湯本656-2",
+    "lat": 37.06907000651817,
+    "lng": 139.99979241572208,
+    "prefecture": "栃木県",
+    "tabelog_url": "https://tabelog.com/tochigi/A0905/A090501/9000301/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9000301/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-tochigi/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
+  },
+  {
+    "id": "1f3ce9cf",
+    "name": "麺屋 ようすけ",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "ラーメン",
+    "address": "栃木県佐野市田島町232",
+    "lat": 36.29108136826427,
+    "lng": 139.56416847068627,
+    "prefecture": "栃木県",
+    "tabelog_url": "https://tabelog.com/tochigi/A0902/A090202/9012617/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tochigi/A0902/A090202/9012617/"
+      }
+    ],
+    "source_url": "https://fananablog.com/soresuno-seichi-tochigi/",
+    "source_video_title": "それスノ",
+    "description": "それスノ登場店",
+    "members": []
   }
 ]
