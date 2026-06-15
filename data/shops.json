@@ -87851,5 +87851,97 @@
       "親子丼",
       "卵かけご飯"
     ]
+  },
+  {
+    "id": "b90ce97c",
+    "name": "TOKYO 焼肉ごぉ３号店",
+    "genre": "焼肉",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野",
+    "lat": 35.708441337895415,
+    "lng": 139.77284998349302,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 心残りグルメ 2023-12-16",
+    "source_url": "https://fuyukohimatsubushi.com/kinki-2023kokoronokori-gurume/",
+    "visited_date": "2023-12-16",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "御徒町",
+    "description": "上野・御徒町の焼肉店。ミルフィーユユッケ（3,280円）やごぉ赤壁（3,828円）が名物。KinKi Kidsのブンブブーン2023年心残りグルメとして紹介。",
+    "tags": [
+      "焼肉",
+      "上野",
+      "東京",
+      "御徒町"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13265088/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13265088/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ミルフィーユユッケ",
+      "ごぉ赤壁"
+    ]
+  },
+  {
+    "id": "a67b585a",
+    "name": "21時にアイス",
+    "genre": "スイーツ",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野",
+    "lat": 35.708308937894905,
+    "lng": 139.77100798349295,
+    "youtube_id": "",
+    "source_video_title": "KinKi Kidsのブンブブーン 心残りグルメ 2023-12-16",
+    "source_url": "https://fuyukohimatsubushi.com/kinki-2023kokoronokori-gurume/",
+    "visited_date": "2023-12-16",
+    "members": [
+      "堂本光一",
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "nearest_station": "御徒町",
+    "description": "上野エリアで夜間（24時ごろまで）営業するアイスクリーム専門店。濃厚チョコ・塩クッキーキャラメル・黒蜜きなこなど多彩なフレーバー。KinKi Kidsのブンブブーン心残りグルメで紹介。",
+    "tags": [
+      "アイス",
+      "スイーツ",
+      "上野",
+      "東京"
+    ],
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13281311/",
+    "hotpepper_url": "",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13281311/"
+      }
+    ],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "濃厚チョコアイス",
+      "塩クッキーキャラメルアイス"
+    ]
   }
 ]
