@@ -88779,5 +88779,113 @@
       }
     ],
     "description": "すのちゅーぶで紹介された浅草のおにぎり専門店。ミシュランビブグルマン選出。"
+  },
+  {
+    "id": "95fa12cb",
+    "name": "SUNDAY",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田三崎町3-10-4 千代田ビル1F",
+    "lat": 35.70134473789298,
+    "lng": 139.75104778343663,
+    "source_video_title": "Hey!Say!JUMP ロケ地",
+    "source_url": "https://vitamin-day.com/11511/",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13201844/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13201844/"
+      }
+    ],
+    "description": "食べログハンバーガー百名店選出。ドラマSUITS等にも登場したアメリカンダイナー。Hey!Say!JUMPロケ地。"
+  },
+  {
+    "id": "069d6a42",
+    "name": "玉英堂 彦九郎",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋人形町2-3-2",
+    "lat": 35.68510716871903,
+    "lng": 139.78359330441157,
+    "source_video_title": "いただきハイジャンプ（Hey!Say!JUMP）",
+    "source_url": "https://vitamin-day.com/11511/",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13006478/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1302/A130204/13006478/"
+      }
+    ],
+    "description": "1576年創業の老舗和菓子店。虎家喜（とらやき）が名物。Hey!Say!JUMPのいただきハイジャンプロケ地。"
+  },
+  {
+    "id": "dc3a86f8",
+    "name": "512 CAFE & GRILL",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂9-5-12 パークサイドシックスA棟1F",
+    "lat": 35.66747121871306,
+    "lng": 139.7297062142712,
+    "source_video_title": "Hey!Say!JUMP ロケ地",
+    "source_url": "https://vitamin-day.com/11511/",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13174478/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1307/A130701/13174478/"
+      }
+    ],
+    "description": "Hey!Say!JUMPロケ地の赤坂のカフェ&グリル。ふわふわパンケーキとイタリアンが人気。"
+  },
+  {
+    "id": "6a73cac3",
+    "name": "サニーダイナー 本店",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "address": "東京都足立区千住3-45",
+    "lat": 35.75169333787733,
+    "lng": 139.80233678390923,
+    "source_video_title": "Hey!Say!JUMP ロケ地",
+    "source_url": "https://vitamin-day.com/11511/",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "heysayjump"
+    ],
+    "group": "heysayjump",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132402/13033094/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1324/A132402/13033094/"
+      }
+    ],
+    "description": "食べログハンバーガー百名店。北千住の国産牛100%ハンバーガーの名店。Hey!Say!JUMPロケ地。"
   }
 ]
