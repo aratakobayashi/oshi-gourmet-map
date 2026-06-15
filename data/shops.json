@@ -87620,5 +87620,160 @@
     "ordered_items": [
       "地獄陳麻婆豆腐"
     ]
+  },
+  {
+    "id": "80cda4d1",
+    "name": "ますや本店",
+    "genre": "ラーメン",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市台新",
+    "lat": 37.3922348,
+    "lng": 140.3495413,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった 郡山ブラック 2023-05-16（小瀧望）",
+    "source_url": "https://jwest.jp/ikisugi_20230516/",
+    "visited_date": "2023-05-16",
+    "members": [
+      "小瀧望"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "郡山",
+    "description": "郡山ブラック発祥の「ますや分店」の後継店。19年間週3回通うイキスギさんが求め続けた郡山ブラックの味。WEST.の小瀧望がイキスギさんについてったで訪問。",
+    "tags": [
+      "ラーメン",
+      "郡山ブラック",
+      "福島",
+      "郡山"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "郡山ブラックラーメン"
+    ]
+  },
+  {
+    "id": "695fc261",
+    "name": "Quán Sủi Cảo Ngọc Ý",
+    "genre": "中華",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "187 Đ. Hà Tôn Quận 11, ホーチミン",
+    "lat": 10.757943,
+    "lng": 106.6526328,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart4 2023-05-21（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230521-2/",
+    "visited_date": "2023-05-21",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "ホーチミン11区・水餃子通りにある水餃子（スイカオ）専門店。エビ入り水餃子が人気。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "水餃子",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "エビ入り水餃子"
+    ]
+  },
+  {
+    "id": "5110dfbc",
+    "name": "Ốc Oanh",
+    "genre": "食事",
+    "prefecture": "ベトナム",
+    "city": "ホーチミン",
+    "address": "534 Vĩnh Khánh, Phường 8, Quận 4, ホーチミン",
+    "lat": 10.7607037,
+    "lng": 106.7032931,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart4 2023-05-21（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230521-2/",
+    "visited_date": "2023-05-21",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "ホーチミン4区「貝通り」の海鮮・貝料理レストラン。高級食材オックフーン（巻貝）など多彩な貝料理が揃う。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "海鮮",
+      "貝料理",
+      "ベトナム",
+      "ホーチミン"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "オックフーン（巻貝）"
+    ]
+  },
+  {
+    "id": "5aefb4c5",
+    "name": "Chợ nổi カントー水上マーケット",
+    "genre": "食事",
+    "prefecture": "ベトナム",
+    "city": "カントー",
+    "address": "103 ĐT923, An Bình, Ninh Kiều, Cần Thơ, ベトナム",
+    "lat": 9.9988135,
+    "lng": 105.7433324,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST ベトナムPart4 2023-05-21（神山智洋）",
+    "source_url": "https://jwest.jp/riatotsu_20230521-2/",
+    "visited_date": "2023-05-21",
+    "members": [
+      "神山智洋"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "",
+    "description": "ベトナム・カントー市のメコン川水上マーケット。早朝にパイナップル・ドリアン・バインミーなどが売られる。WEST.の神山智洋がリア突WESTで訪問。",
+    "tags": [
+      "マーケット",
+      "ベトナム",
+      "カントー",
+      "メコン川"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "バインミー"
+    ]
   }
 ]
