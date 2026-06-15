@@ -88522,5 +88522,262 @@
       "関門タコの唐揚げ",
       "活とらふぐ"
     ]
+  },
+  {
+    "id": "65f7d7eb",
+    "name": "焼肉きみや",
+    "genre": "yakiniku",
+    "prefecture": "奈良県",
+    "city": "生駒市",
+    "address": "奈良県生駒市鹿ノ台南906",
+    "lat": 34.72926805002517,
+    "lng": 135.74669182002293,
+    "source_video_title": "人生最高レストラン（堂本剛）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
+    "visited_date": "2024-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290102/29013800/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/nara/A2901/A290102/29013800/"
+      }
+    ],
+    "description": "堂本剛が人生最高の一品として選んだシャトーブリアンの高級焼肉店。",
+    "ordered_items": [
+      "シャトーブリアン"
+    ]
+  },
+  {
+    "id": "0fdb6efd",
+    "name": "APOCパンケーキ",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山5-16-3",
+    "lat": 35.66103643790689,
+    "lng": 139.71438118305517,
+    "source_video_title": "人生最高レストラン（堂本剛）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
+    "visited_date": "2024-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13126818/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130602/13126818/"
+      }
+    ],
+    "description": "堂本剛が人生最高と語る南青山のパンケーキ専門店。無添加・無香料のオリジナルブレンドが特長。",
+    "ordered_items": [
+      "パンケーキ"
+    ]
+  },
+  {
+    "id": "1eaca426",
+    "name": "御蕎麦 玄",
+    "genre": "washoku",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "address": "奈良県奈良市福智院町23-2",
+    "lat": 34.67685559810153,
+    "lng": 135.8338751969959,
+    "source_video_title": "人生最高レストラン（堂本剛）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
+    "visited_date": "2024-01-01",
+    "members": [
+      "堂本剛"
+    ],
+    "groups": [
+      "kinkikids"
+    ],
+    "group": "kinkikids",
+    "source_type": "tv",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000052/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/nara/A2901/A290101/29000052/"
+      }
+    ],
+    "description": "堂本剛が人生最高と語る奈良の石臼挽き十割蕎麦の名店。",
+    "ordered_items": [
+      "せいろ蕎麦"
+    ]
+  },
+  {
+    "id": "37c9d7cd",
+    "name": "SUSHI BANYA KAI 品川店",
+    "genre": "sushi",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区港南2-16-3 品川グランドセントラルタワー 1F",
+    "lat": 35.626623788742535,
+    "lng": 139.74078267385082,
+    "source_video_title": "すのちゅーぶ（Snow Man / 2025-12-17）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF",
+    "visited_date": "2025-12-17",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13288848/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1314/A131403/13288848/"
+      }
+    ]
+  },
+  {
+    "id": "0aab18b7",
+    "name": "土鍋ご飯 いくしか中目黒店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中目黒1-4-6 1F",
+    "lat": 35.64459597871882,
+    "lng": 139.70215222405943,
+    "source_video_title": "すのちゅーぶ（Snow Man / 2025-06-12）",
+    "source_url": "https://8888-info.hatenablog.com/entry/6/12",
+    "visited_date": "2025-06-12",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13306139/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13306139/"
+      }
+    ],
+    "description": "すのちゅーぶで紹介された中目黒の土鍋ご飯専門店。"
+  },
+  {
+    "id": "cae3f15c",
+    "name": "ナプレ南青山本店",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南青山5-6-24 林ビル",
+    "lat": 35.663791937904364,
+    "lng": 139.71191488308472,
+    "source_video_title": "すのちゅーぶ（Snow Man / 2025-04-16）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%E7%B7%A8",
+    "visited_date": "2025-04-16",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13003493/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130602/13003493/"
+      }
+    ],
+    "description": "すのちゅーぶで舘ひろしが行きたいと言った南青山の本格イタリアン。"
+  },
+  {
+    "id": "fc404712",
+    "name": "そば会席 立会川 吉田家",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区南大井6-11-5",
+    "lat": 35.6000424379541,
+    "lng": 139.74095258242045,
+    "source_video_title": "すのちゅーぶ（Snow Man）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E8%95%8E%E9%BA%A6%E5%B1%8B",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13003333/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1315/A131501/13003333/"
+      }
+    ],
+    "description": "すのちゅーぶで紹介された品川・立会川のそば会席の名店。"
+  },
+  {
+    "id": "eec12086",
+    "name": "つる次郎HANARE",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-20-8 武山ビル",
+    "lat": 35.71182233790052,
+    "lng": 139.79566408351116,
+    "source_video_title": "すのちゅーぶ（Snow Man）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13052466/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13052466/"
+      }
+    ],
+    "description": "すのちゅーぶで紹介された浅草の居酒屋。"
+  },
+  {
+    "id": "3b39dc89",
+    "name": "おにぎり 浅草 宿六",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草",
+    "lat": 35.716892738702384,
+    "lng": 139.79475880472478,
+    "source_video_title": "すのちゅーぶ（Snow Man）",
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF",
+    "visited_date": "2024-01-01",
+    "members": [],
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "youtube",
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13024859/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13024859/"
+      }
+    ],
+    "description": "すのちゅーぶで紹介された浅草のおにぎり専門店。ミシュランビブグルマン選出。"
   }
 ]
