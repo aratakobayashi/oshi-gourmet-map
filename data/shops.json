@@ -87811,5 +87811,45 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": []
+  },
+  {
+    "id": "9ac25fb0",
+    "name": "タズミのたまご 卵らんハウス",
+    "genre": "食事",
+    "prefecture": "兵庫県",
+    "city": "神崎郡市川町",
+    "address": "兵庫県神崎郡市川町",
+    "lat": null,
+    "lng": null,
+    "youtube_id": "",
+    "source_video_title": "どっちサンド 濵田崇裕地元・神崎郡回",
+    "source_url": "https://mackey-west.hatenablog.com/entry/2023/09/15/194910",
+    "visited_date": "",
+    "members": [
+      "濵田崇裕"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "鶴居駅",
+    "description": "兵庫県神崎郡市川町の卵専門店。濵田崇裕の同級生ご両親が営む。親子丼や卵かけご飯が食べられる。どっちサンドで濵田崇裕が紹介。",
+    "tags": [
+      "卵",
+      "兵庫",
+      "神崎郡",
+      "親子丼"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "親子丼",
+      "卵かけご飯"
+    ]
   }
 ]
