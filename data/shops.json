@@ -87462,5 +87462,89 @@
     "ordered_items": [
       "焼き鯖すし"
     ]
+  },
+  {
+    "id": "248e22a6",
+    "name": "生姜料理しょうが",
+    "genre": "食事",
+    "prefecture": "神奈川県",
+    "city": "川崎市麻生区",
+    "address": "神奈川県川崎市麻生区新百合ヶ丘",
+    "lat": 35.6015015,
+    "lng": 139.5101013,
+    "youtube_id": "",
+    "source_video_title": "リア突WEST 生姜レシピ 2023-06-25（藤井流星・桐山照史）",
+    "source_url": "https://jwest.jp/riatotsu_20230625/",
+    "visited_date": "2023-06-25",
+    "members": [
+      "藤井流星",
+      "桐山照史"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "新百合ヶ丘",
+    "description": "神奈川・新百合ヶ丘の生姜料理専門店。生姜のミルクシェイクや多彩な生姜料理を提供。WEST.の藤井流星・桐山照史がリア突WESTで訪問。",
+    "tags": [
+      "生姜",
+      "神奈川",
+      "新百合ヶ丘"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "生姜ミルクシェイク"
+    ]
+  },
+  {
+    "id": "0b87e764",
+    "name": "屋形船 あみ達",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区晴海3丁目（黎明橋公園付近）",
+    "lat": 35.6544179,
+    "lng": 139.7800651,
+    "youtube_id": "",
+    "source_video_title": "WESTube ドライブ〜BBQ 2023-05-25",
+    "source_url": "https://jwest.jp/westube_20230525/",
+    "visited_date": "2023-05-25",
+    "members": [
+      "重岡大毅",
+      "桐山照史",
+      "神山智洋",
+      "藤井流星",
+      "濵田崇裕",
+      "小瀧望",
+      "中間淳太"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "勝どき",
+    "description": "東京・晴海の屋形船。WEST.全員でWESTubeのドライブ企画でBBQプランを利用。",
+    "tags": [
+      "屋形船",
+      "BBQ",
+      "東京",
+      "晴海"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "BBQ"
+    ]
   }
 ]
