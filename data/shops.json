@@ -91399,5 +91399,143 @@
         "url": "https://tabelog.com/saitama/A1106/A110601/11019567/"
       }
     ]
+  },
+  {
+    "id": "60106d61",
+    "name": "川豊 本店",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "成田市",
+    "lat": 35.78339705882638,
+    "lng": 140.31673385503066,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "千葉県成田市の老舗うなぎ専門店。Snow Manが「それSnow Manだから」成田回で訪れた。特上うな重が名物。",
+    "tabelog_url": "https://tabelog.com/chiba/A1204/A120401/12000709/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1204/A120401/12000709/"
+      }
+    ]
+  },
+  {
+    "id": "785b973d",
+    "name": "三久",
+    "genre": "others",
+    "prefecture": "千葉県",
+    "city": "成田市",
+    "lat": 35.784172638021445,
+    "lng": 140.31963418387468,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "千葉県成田市のたこ焼き店。Snow Manが「それSnow Manだから」成田回で訪れた。",
+    "tabelog_url": "https://tabelog.com/chiba/A1204/A120401/12030474/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1204/A120401/12030474/"
+      }
+    ]
+  },
+  {
+    "id": "3fc9a407",
+    "name": "プレゼンテ スギ",
+    "genre": "shokuji",
+    "prefecture": "千葉県",
+    "city": "佐倉市",
+    "lat": 35.71271233804218,
+    "lng": 140.24221408320713,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "千葉県佐倉市のイタリアンレストラン。Snow Manが「それSnow Manだから」成田回で訪れた。",
+    "tabelog_url": "https://tabelog.com/chiba/A1204/A120402/12038574/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1204/A120402/12038574/"
+      }
+    ]
+  },
+  {
+    "id": "3e6f5ea2",
+    "name": "anea cafe 松見坂",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "lat": 35.655579958707555,
+    "lng": 139.6886924241798,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "東京都渋谷区のカフェ。Snow Manが「それSnow Manだから」で訪れた。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131801/13260390/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1318/A131801/13260390/"
+      }
+    ]
+  },
+  {
+    "id": "8d7a5d16",
+    "name": "神田きくかわ 上野毛店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "lat": 35.616118738718534,
+    "lng": 139.64445314381226,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "東京都世田谷区のうなぎ専門店。Snow Manが「それSnow Manだから」で訪れた。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131715/13003114/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131715/13003114/"
+      }
+    ]
+  },
+  {
+    "id": "c3404362",
+    "name": "ステーキハウス リベラ 目黒店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "lat": 35.62904163792178,
+    "lng": 139.69732498274394,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "source_type": "tv",
+    "source_video_title": "それSnow Manだから",
+    "description": "東京都目黒区のステーキハウス。Snow Manが「それSnow Manだから」でステーキ大食い対決を行った。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13018560/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1316/A131601/13018560/"
+      }
+    ]
   }
 ]
