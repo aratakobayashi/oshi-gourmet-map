@@ -89511,5 +89511,319 @@
       "堂本光一",
       "堂本剛"
     ]
+  },
+  {
+    "id": "26a9a1f1",
+    "name": "浅草つる次郎HANARE",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "浅草",
+    "lat": 35.712473398705896,
+    "lng": 139.7969524046786,
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13274875/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13274875/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "2cf4d217",
+    "name": "スペイン料理Pablo",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "中目黒",
+    "lat": 35.645852637910814,
+    "lng": 139.6964068829144,
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13221213/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131701/13221213/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "e0c1616c",
+    "name": "龍朋（りゅうほう）",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "area": "神楽坂",
+    "lat": 35.70422381869095,
+    "lng": 139.73356692463972,
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13006446/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1309/A130905/13006446/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "9876d475",
+    "name": "花笠食堂",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "沖縄県",
+    "area": "那覇",
+    "lat": 26.21499361088192,
+    "lng": 127.6888693072327,
+    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47000192/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/okinawa/A4701/A470101/47000192/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "925ff46f",
+    "name": "浅草むぎとろ 本店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "area": "浅草",
+    "lat": 35.709171288707914,
+    "lng": 139.79671505464543,
+    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003680/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13003680/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "fbc1833e",
+    "name": "K.MINAMOTO ORIKA",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "area": "銀座",
+    "lat": 35.669805408722254,
+    "lng": 139.76322967427126,
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13239627/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13239627/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "5a807ce7",
+    "name": "ガスト 銀座インズ店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "銀座",
+    "lat": 35.67400455756039,
+    "lng": 139.76446785742613,
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13167859/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13167859/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://njoysolo.hatenablog.com/entry/snowman.localist1",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "12ef79b6",
+    "name": "江戸東京寿し常 東京ソラマチ店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "sushi",
+    "prefecture": "東京都",
+    "area": "押上",
+    "lat": 35.71023633790687,
+    "lng": 139.81243368348342,
+    "tabelog_url": "https://tabelog.com/tokyo/A1312/A131203/13141235/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1312/A131203/13141235/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://fananablog.com/snowmanyoutubeseiti_kanto/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "9c9ec432",
+    "name": "6年4組 渋谷分校",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "area": "渋谷",
+    "lat": 35.66105713790147,
+    "lng": 139.69738848306727,
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13108231/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13108231/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://fananablog.com/snowmanyoutubeseiti_kanto/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "421545c3",
+    "name": "深川冨士見",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "木場",
+    "lat": 35.665534798736864,
+    "lng": 139.80057864420195,
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131303/13027424/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1313/A131303/13027424/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://fananablog.com/snowmanyoutubeseiti_kanto/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "2ddca340",
+    "name": "田むら銀かつ亭 本店",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "lat": 35.250609718761126,
+    "lng": 139.04928926053745,
+    "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14001492/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1410/A141001/14001492/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ グルメ回",
+    "source_url": "https://fananablog.com/snowmanyoutubeseiti_kanto/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "889bb2c3",
+    "name": "挽肉と米 吉祥寺店",
+    "group": "naniwa",
+    "groups": [
+      "naniwa"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "吉祥寺",
+    "lat": 35.705839328640316,
+    "lng": 139.57779566476523,
+    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13246332/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1320/A132001/13246332/"
+      }
+    ],
+    "source_video_title": "なにわ男子 東京グルメロケ",
+    "source_url": "https://saki-chat.com/naniwa-tokyo-filming-location/",
+    "description": "",
+    "members": [
+      "藤原丈一郎"
+    ]
+  },
+  {
+    "id": "84d28d77",
+    "name": "喫茶 マウンテン",
+    "group": "snowman",
+    "groups": [
+      "snowman"
+    ],
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "area": "名古屋",
+    "lat": 35.14470116816323,
+    "lng": 136.96064765093178,
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230108/23000266/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230108/23000266/"
+      }
+    ],
+    "source_video_title": "Snow Man すのちゅーぶ 旅スノ（愛知）",
+    "source_url": "https://fananablog.com/snowmanyoutubeseichi/",
+    "description": "",
+    "members": []
   }
 ]
