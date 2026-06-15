@@ -91629,5 +91629,135 @@
     ],
     "lat": 35.495079057071514,
     "lng": 134.23136814638406
+  },
+  {
+    "id": "f0f80d7c",
+    "name": "シンラガーデン 本店",
+    "genre": "yakiniku",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "lat": 35.92913913766311,
+    "lng": 139.48355468592504,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "members": [
+      "佐久間大介"
+    ],
+    "source_type": "tv",
+    "source_video_title": "バナナマンのせかっくグルメ!!",
+    "description": "埼玉県川越市の焼肉店。佐久間大介が「バナナマンのせかっくグルメ!!」川越回で紹介。",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11002039/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11002039/"
+      }
+    ]
+  },
+  {
+    "id": "90284534",
+    "name": "テッパン ル オムス",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "lat": 35.92406423766619,
+    "lng": 139.48309928587412,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "members": [
+      "佐久間大介"
+    ],
+    "source_type": "tv",
+    "source_video_title": "バナナマンのせかっくグルメ!!",
+    "description": "埼玉県川越市の鉄板焼き・高級レストラン。佐久間大介が「バナナマンのせかっくグルメ!!」川越回で紹介。",
+    "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11040796/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11040796/"
+      }
+    ]
+  },
+  {
+    "id": "0f21560d",
+    "name": "手打らーめん 大進",
+    "genre": "ramen",
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "lat": 36.396138128503665,
+    "lng": 140.52538397107364,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "members": [
+      "目黒蓮"
+    ],
+    "source_type": "tv",
+    "source_video_title": "バナナマンのせかっくグルメ!!",
+    "description": "茨城県ひたちなか市のラーメン店。スタミナラーメン発祥の店。目黒蓮が「バナナマンのせかっくグルメ!!」茨城回で紹介。",
+    "tabelog_url": "https://tabelog.com/ibaraki/A0801/A080102/8000361/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/ibaraki/A0801/A080102/8000361/"
+      }
+    ]
+  },
+  {
+    "id": "484981ad",
+    "name": "うなぎ家 しば福や",
+    "genre": "washoku",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.17513813731651,
+    "lng": 136.89152818012587,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "members": [
+      "阿部亮平"
+    ],
+    "source_type": "tv",
+    "source_video_title": "バナナマンのせかっくグルメ!!",
+    "description": "愛知県名古屋市のうなぎ専門店。阿部亮平が「バナナマンのせかっくグルメ!!」名古屋回で紹介。",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230101/23067466/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230101/23067466/"
+      }
+    ]
+  },
+  {
+    "id": "7efac0da",
+    "name": "覚王山とんかつ わだ福",
+    "genre": "shokuji",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.16683168814662,
+    "lng": 136.95263459116092,
+    "groups": [
+      "snowman"
+    ],
+    "group": "snowman",
+    "members": [
+      "阿部亮平"
+    ],
+    "source_type": "tv",
+    "source_video_title": "バナナマンのせかっくグルメ!!",
+    "description": "愛知県名古屋市覚王山のとんかつ専門店。阿部亮平が「バナナマンのせかっくグルメ!!」名古屋回で紹介。",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230107/23081023/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/aichi/A2301/A230107/23081023/"
+      }
+    ]
   }
 ]
