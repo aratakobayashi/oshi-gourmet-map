@@ -87546,5 +87546,79 @@
     "ordered_items": [
       "BBQ"
     ]
+  },
+  {
+    "id": "d5588ba9",
+    "name": "西荻窪 阿波や壱兆 本店",
+    "genre": "食事",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区西荻窪",
+    "lat": 35.7044394,
+    "lng": 139.6003123,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった そうめん・激辛 2023-08-08",
+    "source_url": "https://jwest.jp/ikisugi_20230808/",
+    "visited_date": "2023-08-08",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "西荻窪",
+    "description": "西荻窪のそうめん専門店。鶏むね豆乳出汁そうめん（1,280円）やすだちそうめん（950円）が人気。WEST.イキスギさんについてったで紹介。",
+    "tags": [
+      "そうめん",
+      "東京",
+      "西荻窪"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "鶏むね豆乳出汁そうめん",
+      "すだちそうめん"
+    ]
+  },
+  {
+    "id": "4f294195",
+    "name": "陳麻婆豆腐 赤坂東急プラザ店",
+    "genre": "中華",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都千代田区",
+    "lat": 35.6778884,
+    "lng": 139.7372636,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった そうめん・激辛 2023-08-08",
+    "source_url": "https://jwest.jp/ikisugi_20230808/",
+    "visited_date": "2023-08-08",
+    "members": [],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "赤坂",
+    "description": "赤坂東急プラザの激辛麻婆豆腐専門店（現在は閉店）。地獄陳麻婆豆腐（1,727円）が名物。WEST.イキスギさんについてったで紹介。",
+    "tags": [
+      "麻婆豆腐",
+      "中華",
+      "赤坂",
+      "激辛"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "地獄陳麻婆豆腐"
+    ]
   }
 ]
