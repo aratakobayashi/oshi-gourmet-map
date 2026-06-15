@@ -87775,5 +87775,41 @@
     "ordered_items": [
       "バインミー"
     ]
+  },
+  {
+    "id": "4372ad38",
+    "name": "すし処志喜",
+    "genre": "寿司",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座",
+    "lat": 35.6710364,
+    "lng": 139.7668561,
+    "youtube_id": "",
+    "source_video_title": "イキスギさんについてった クイズ 2023-08-01（藤井流星）",
+    "source_url": "https://jwest.jp/ikisugi_20230801/",
+    "visited_date": "2023-08-01",
+    "members": [
+      "藤井流星"
+    ],
+    "groups": [
+      "west"
+    ],
+    "group": "west",
+    "nearest_station": "銀座",
+    "description": "銀座の寿司店。魚のひれ1万点以上を収集するイキスギさん（頭料理人）が働く。WEST.の藤井流星がイキスギさんクイズ回で紹介。",
+    "tags": [
+      "寿司",
+      "銀座",
+      "東京"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "tv",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
   }
 ]
