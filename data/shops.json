@@ -89825,5 +89825,125 @@
     "source_url": "https://fananablog.com/snowmanyoutubeseichi/",
     "description": "",
     "members": []
+  },
+  {
+    "id": "18b210b6",
+    "name": "The Burn（ザバーン）",
+    "group": "arashi",
+    "groups": [
+      "arashi"
+    ],
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "area": "原宿",
+    "lat": 35.672993768707464,
+    "lng": 139.72314052433154,
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13225589/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130603/13225589/"
+      }
+    ],
+    "source_video_title": "嵐にしやがれ グルメデスマッチ",
+    "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "4ee1ec49",
+    "name": "SHUTTERS 自由が丘",
+    "group": "arashi",
+    "groups": [
+      "arashi"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "自由が丘",
+    "lat": 35.60650583792697,
+    "lng": 139.66863618253643,
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131703/13008195/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131703/13008195/"
+      }
+    ],
+    "source_video_title": "嵐にしやがれ グルメデスマッチ",
+    "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "ad3446f5",
+    "name": "ピッツェリア ジターリア ダ フィリッポ",
+    "group": "arashi",
+    "groups": [
+      "arashi"
+    ],
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "area": "小手指",
+    "lat": 35.74443153782037,
+    "lng": 139.60899008397138,
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132103/13149962/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1321/A132103/13149962/"
+      }
+    ],
+    "source_video_title": "嵐にしやがれ グルメデスマッチ",
+    "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "c5f21e44",
+    "name": "イル バロンドーロ",
+    "group": "arashi",
+    "groups": [
+      "arashi"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "広尾",
+    "lat": 35.64665963791637,
+    "lng": 139.71547188290918,
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13229964/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13229964/"
+      }
+    ],
+    "source_video_title": "嵐にしやがれ グルメデスマッチ",
+    "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
+    "description": "",
+    "members": []
+  },
+  {
+    "id": "cff48af9",
+    "name": "EATALY HARAJUKU",
+    "group": "arashi",
+    "groups": [
+      "arashi"
+    ],
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "area": "原宿",
+    "lat": 35.67073495208256,
+    "lng": 139.70342196670856,
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13245475/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13245475/"
+      }
+    ],
+    "source_video_title": "嵐にしやがれ グルメデスマッチ",
+    "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
+    "description": "",
+    "members": []
   }
 ]
