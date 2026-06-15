@@ -91537,5 +91537,97 @@
         "url": "https://tabelog.com/tokyo/A1316/A131601/13018560/"
       }
     ]
+  },
+  {
+    "id": "18e67b1e",
+    "name": "萬珍樓 本店",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season8 第1話",
+    "description": "神奈川県横浜市のchuka。孤独のグルメSeason8 第1話に登場。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14000144/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140104/14000144/"
+      }
+    ],
+    "lat": 35.44334429882827,
+    "lng": 139.644488302067
+  },
+  {
+    "id": "8123a476",
+    "name": "キャプテンロルフ",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season8 第7話",
+    "description": "神奈川県横浜市のshokuji。孤独のグルメSeason8 第7話に登場。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14095810/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1401/A140105/14095810/"
+      }
+    ],
+    "lat": 35.4403255688312,
+    "lng": 139.64765035203433
+  },
+  {
+    "id": "86d8ff45",
+    "name": "武蔵屋食堂",
+    "genre": "shokuji",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season8 第8話",
+    "description": "鳥取県鳥取市のshokuji。孤独のグルメSeason8 第8話に登場。",
+    "tabelog_url": "https://tabelog.com/tottori/A3101/A310101/31001223/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tottori/A3101/A310101/31001223/"
+      }
+    ],
+    "lat": 35.499673437069184,
+    "lng": 134.23320784642917
+  },
+  {
+    "id": "1a62ef1a",
+    "name": "あじくら",
+    "genre": "izakaya",
+    "prefecture": "鳥取県",
+    "city": "鳥取市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season8 第8話",
+    "description": "鳥取県鳥取市のizakaya。孤独のグルメSeason8 第8話に登場。",
+    "tabelog_url": "https://tabelog.com/tottori/A3101/A310101/31002268/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tottori/A3101/A310101/31002268/"
+      }
+    ],
+    "lat": 35.495079057071514,
+    "lng": 134.23136814638406
   }
 ]
