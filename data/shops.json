@@ -88066,5 +88066,50 @@
     "ordered_items": [
       "もつ鍋"
     ]
+  },
+  {
+    "id": "8d12f319",
+    "name": "Burger Lounge サンタモニカ",
+    "genre": "食事",
+    "prefecture": "アメリカ",
+    "city": "サンタモニカ",
+    "address": "213 Arizona Ave, Santa Monica, CA, USA",
+    "lat": 34.016664,
+    "lng": -118.4983377,
+    "youtube_id": "",
+    "source_video_title": "Travis Japan LA訪問 大食いバーガー対決",
+    "source_url": "https://note.com/ochiyochiyo/n/nac7fe29ce8ce",
+    "visited_date": "",
+    "members": [
+      "川島如恵留",
+      "松倉海斗",
+      "宮近海斗",
+      "吉澤閑也",
+      "七五三掛龍也",
+      "松田元太",
+      "中村海人"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "nearest_station": "サンタモニカ",
+    "description": "LA・サンタモニカのバーガー店。Travis Japanが大食いチャレンジ企画で全員訪問。夕方にほぼ貸切状態で楽しんだ。",
+    "tags": [
+      "バーガー",
+      "アメリカ",
+      "LA",
+      "サンタモニカ"
+    ],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "youtube",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "バーガー"
+    ]
   }
 ]
