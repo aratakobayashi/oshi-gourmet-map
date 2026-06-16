@@ -20,5 +20,7 @@ members:
   - "岸優太"
   - "神宮寺勇太"
 groups:
+  - "agroup"
   - "kingprince"
+  - "naniwa"
 ---

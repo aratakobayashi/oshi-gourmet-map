@@ -25,7 +25,9 @@ members:
   - "岸優太"
   - "神宮寺勇太"
 groups:
+  - "agroup"
   - "kingprince"
+  - "naniwa"
 affiliate_links:
   - label: "食べログで見る"
     url: "https://tabelog.com/osaka/A2701/A270108/27129373/"

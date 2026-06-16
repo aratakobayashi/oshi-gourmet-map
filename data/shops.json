@@ -73375,7 +73375,9 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "agroup",
+      "kingprince",
+      "naniwa"
     ],
     "group": "kingprince",
     "nearest_station": "",
@@ -73418,7 +73420,9 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "agroup",
+      "kingprince",
+      "naniwa"
     ],
     "group": "kingprince",
     "nearest_station": "新福島駅 徒歩1分",
@@ -73461,7 +73465,9 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "agroup",
+      "kingprince",
+      "naniwa"
     ],
     "group": "kingprince",
     "nearest_station": "新福島駅 徒歩2分",
@@ -73504,11 +73510,13 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "agroup",
+      "kingprince",
+      "naniwa"
     ],
     "group": "kingprince",
     "nearest_station": "福島駅 徒歩1分",
-    "description": "",
+    "description": "笑ってコラえて！（2024年8月28日放送）でKing&Prince永瀬廉・なにわ男子西畑大吾・Aぇ!group正門良規が大阪・福島の立ち飲みハシゴ旅。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27140807/",
     "hotpepper_url": "",
@@ -73547,7 +73555,9 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "agroup",
+      "kingprince",
+      "naniwa"
     ],
     "group": "kingprince",
     "nearest_station": "福島駅 徒歩1分",
@@ -91920,5 +91930,30 @@
     ],
     "lat": 35.981478168490995,
     "lng": 139.65863318749277
+  },
+  {
+    "id": "cda4be8d",
+    "name": "立ち呑みぽっぽ亭",
+    "genre": "izakaya",
+    "prefecture": "大阪府",
+    "city": "大阪市福島区",
+    "lat": 34.69475148797956,
+    "lng": 135.48655562742016,
+    "groups": [
+      "agroup",
+      "kingprince",
+      "naniwa"
+    ],
+    "group": "kingprince",
+    "source_type": "tv",
+    "source_video_title": "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）",
+    "description": "笑ってコラえて！（2024年8月28日放送）でKing&Prince永瀬廉・なにわ男子西畑大吾・Aぇ!group正門良規が大阪・福島の立ち飲みハシゴ旅。",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27014207/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/osaka/A2701/A270108/27014207/"
+      }
+    ]
   }
 ]
