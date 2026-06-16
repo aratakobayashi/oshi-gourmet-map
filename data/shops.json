@@ -91759,5 +91759,166 @@
         "url": "https://tabelog.com/aichi/A2301/A230107/23081023/"
       }
     ]
+  },
+  {
+    "id": "53d6e628",
+    "name": "韓国料理店 世味",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season10 第9話",
+    "description": "東京都荒川区。孤独のグルメSeason10 第9話に登場。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132401/13180444/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1324/A132401/13180444/"
+      }
+    ],
+    "lat": 35.730866428688465,
+    "lng": 139.77890242487703
+  },
+  {
+    "id": "4ee9cceb",
+    "name": "ビストロ バイキング",
+    "genre": "shokuji",
+    "prefecture": "千葉県",
+    "city": "旭市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season10 第11話",
+    "description": "千葉県旭市。孤独のグルメSeason10 第11話に登場。",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120502/12025317/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/chiba/A1205/A120502/12025317/"
+      }
+    ],
+    "lat": 35.72303693897155,
+    "lng": 140.65221055418579
+  },
+  {
+    "id": "6919a845",
+    "name": "タベルナ ラ・メッセ",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season11 第4話",
+    "description": "神奈川県厚木市。孤独のグルメSeason11 第4話に登場。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1408/A140802/14001938/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1408/A140802/14001938/"
+      }
+    ],
+    "lat": 35.43800583793905,
+    "lng": 139.37053948104338
+  },
+  {
+    "id": "98fc132f",
+    "name": "タンハー",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season11 第5話",
+    "description": "神奈川県横浜市。孤独のグルメSeason11 第5話に登場。",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1407/A140702/14051586/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/kanagawa/A1407/A140702/14051586/"
+      }
+    ],
+    "lat": 35.42987922878304,
+    "lng": 139.47559374204943
+  },
+  {
+    "id": "dbf1c3d0",
+    "name": "ステーキハウス鉄板焼 不二",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season11 第6話",
+    "description": "東京都目黒区。孤独のグルメSeason11 第6話に登場。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131705/13008148/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1317/A131705/13008148/"
+      }
+    ],
+    "lat": 35.64991576871017,
+    "lng": 139.68561276412478
+  },
+  {
+    "id": "6e5bac55",
+    "name": "吉良亭",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "北区",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season11 第7話",
+    "description": "東京都北区。孤独のグルメSeason11 第7話に登場。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132304/13110912/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/tokyo/A1323/A132304/13110912/"
+      }
+    ],
+    "lat": 35.76571716864785,
+    "lng": 139.72087312526975
+  },
+  {
+    "id": "d4a33f2b",
+    "name": "台湾料理 翠芳",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "蓮田市",
+    "groups": [
+      "kodoku_no_gurume"
+    ],
+    "group": "kodoku_no_gurume",
+    "source_type": "tv",
+    "source_video_title": "孤独のグルメ Season11 第8話",
+    "description": "埼玉県蓮田市。孤独のグルメSeason11 第8話に登場。",
+    "tabelog_url": "https://tabelog.com/saitama/A1104/A110402/11004202/",
+    "affiliate_links": [
+      {
+        "label": "食べログで見る",
+        "url": "https://tabelog.com/saitama/A1104/A110402/11004202/"
+      }
+    ],
+    "lat": 35.981478168490995,
+    "lng": 139.65863318749277
   }
 ]
