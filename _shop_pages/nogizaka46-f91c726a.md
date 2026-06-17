@@ -1,11 +1,11 @@
 ---
 layout: shop
 title: "乃木坂46が行った「唐戸市場」"
-description: "シンクロニシティ特典映像で紹介されたothers「唐戸市場」（広島県下関市）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたothers「唐戸市場」（山口県下関市）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f91c726a-"
 name: "唐戸市場"
 genre: "others"
-prefecture: "広島県"
+prefecture: "山口県"
 city: "下関市"
 address: "下関市唐戸町５−５０"
 price_range: "￥4,000～￥4,999"
