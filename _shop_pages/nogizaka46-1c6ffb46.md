@@ -1,11 +1,11 @@
 ---
 layout: shop
 title: "乃木坂46が行った「あまみや」"
-description: "ベストアルバムポスター貼りで紹介されたothers「あまみや」（福岡県熊本市）。推し活グルメ巡礼スポット。"
+description: "ベストアルバムポスター貼りで紹介されたothers「あまみや」（熊本県熊本市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-1c6ffb46-"
 name: "あまみや"
 genre: "others"
-prefecture: "福岡県"
+prefecture: "熊本県"
 city: "熊本市"
 address: "熊本市中央区上通町４−１６タバラビル2F"
 nearest_station: "通町筋駅 徒歩3分"
