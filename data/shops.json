@@ -92084,5 +92084,452 @@
     "price_range": "￥1,000～￥1,999",
     "business_hours": "月・火・水・木・金・土 17:00 - 00:00 日 定休日",
     "nearest_station": "新福島駅 徒歩2分"
+  },
+  {
+    "id": "numberi-cb05c833-",
+    "name": "四つ角飯店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "address": "東京都立川市曙町1-16-5",
+    "lat": 35.6991763,
+    "lng": 139.410881,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメワールドツアー",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-kakuni/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "角煮定食"
+    ]
+  },
+  {
+    "id": "numberi-teddy_s_bigger_burge-",
+    "name": "TEDDY'S BIGGER BURGERS 原宿表参道店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前6-28-5 宮崎ビル2F",
+    "lat": 35.6692039,
+    "lng": 139.7072847,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメワールドツアー",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-hamburger/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ギガモンスタープレミアムバーガー"
+    ]
+  },
+  {
+    "id": "numberi-the_living-",
+    "name": "THE LIVING",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区千鳥1-19-4 フラット千鳥2F",
+    "lat": 35.5706647,
+    "lng": 139.6923407,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメワールドツアー",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-ichigo-pafe/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "巨大いちごパフェ"
+    ]
+  },
+  {
+    "id": "numberi-56d780eb-",
+    "name": "韓国屋台ハンサム 汐留店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区東新橋1-2-14 ベル汐留1F",
+    "lat": 35.6631257,
+    "lng": 139.7589757,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメワールドツアー",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-hangsome/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "クリーミーチーズラッポッキ鍋"
+    ]
+  },
+  {
+    "id": "numberi-a9a5b0f5-",
+    "name": "蜂の家 銀座本店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座4-13-11",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメワールドツアー",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-cream-puff/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "軍艦シュークリーム",
+      "ビーフ黒カリー"
+    ]
+  },
+  {
+    "id": "numberi-nomuno-",
+    "name": "ワインバー nomuno",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-19-1 東京農村ビル3F",
+    "lat": 35.6716786,
+    "lng": 139.7356224,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメ",
+    "source_url": "https://kosodate-and.net/vs-damashii-kishi-gourmet/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "メキシカンかまくらボロネーゼ"
+    ]
+  },
+  {
+    "id": "numberi-66827206-",
+    "name": "エニシスタンド 御徒町店",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野3-27-12 御徒町吉池本店ビル8F",
+    "lat": 35.7118219,
+    "lng": 139.7776069,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメ",
+    "source_url": "https://kosodate-and.net/vs-damashii-kishi-gourmet/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "肉チーズ担々麺"
+    ]
+  },
+  {
+    "id": "numberi-ae80288a-",
+    "name": "牡蠣海鮮 かいり",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-6-15 鈴井ビル2F",
+    "lat": 35.6589015,
+    "lng": 139.6975367,
+    "youtube_id": "",
+    "source_video_title": "VS魂 背徳グルメ",
+    "source_url": "https://kosodate-and.net/vs-damashii-kishi-gourmet/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "痛風鍋"
+    ]
+  },
+  {
+    "id": "numberi-de81a2ec-",
+    "name": "大久手 山本屋",
+    "genre": "washoku",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市千種区大久手5丁目9-2",
+    "lat": 35.2031348,
+    "lng": 136.9853024,
+    "youtube_id": "",
+    "source_video_title": "キンプる 元旦SP",
+    "source_url": "https://kosodate-and.net/kinpru-wyuta-nagoya-udon/",
+    "visited_date": "",
+    "members": [
+      "岸優太",
+      "神宮寺勇太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "味噌煮込みうどん",
+      "カレー煮込みうどん"
+    ]
+  },
+  {
+    "id": "numberi-361c2213-",
+    "name": "オステリア セルヴァジーナ",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区駒込3-2-7 リトル駒込1F",
+    "lat": 35.7360069,
+    "lng": 139.7468276,
+    "youtube_id": "",
+    "source_video_title": "行列のできる相談所",
+    "source_url": "https://kosodate-and.net/gyoretsu-kishi-cheese/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ブッラータチーズ"
+    ]
+  },
+  {
+    "id": "numberi-lesolca-",
+    "name": "LESOLCA",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座6-7-4 小柳ビル1F",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "行列のできる相談所",
+    "source_url": "https://kosodate-and.net/gyoretsu-kishi-cheese-cake/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "グルメチーズケーキ"
+    ]
+  },
+  {
+    "id": "numberi-e953882d-",
+    "name": "松阪牛ラーメン 一人しゃぶしゃぶ 松虎",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-9-16 福虎ビル1F",
+    "lat": 35.6716786,
+    "lng": 139.7356224,
+    "youtube_id": "",
+    "source_video_title": "VS魂",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-shori-ramen/",
+    "visited_date": "",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "A5松阪牛特上ロースラーメン"
+    ]
+  },
+  {
+    "id": "numberi-mercer_bis-",
+    "name": "MERCER bis 恵比寿店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿",
+    "lat": 35.6464413,
+    "lng": 139.7102082,
+    "youtube_id": "",
+    "source_video_title": "NYLON JAPAN Number_i特集",
+    "source_url": "https://kosodate-and.net/nylon-japan-numberi-cake/",
+    "visited_date": "",
+    "members": [
+      "平野紫耀",
+      "神宮寺勇太",
+      "岸優太"
+    ],
+    "groups": [
+      "numberi"
+    ],
+    "group": "numberi",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "リッチストロベリーケーキ"
+    ]
   }
 ]
