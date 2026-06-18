@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Pachamama Bakery",
+    "address": "韓国ソウル市龍山区三角地",
+    "prefecture": "韓国",
+    "city": "ソウル市龍山区",
+    "genre": "cafe",
+    "group": "kpop_lesserafim",
+    "members": ["カズハ", "チェウォン", "ユンジン"],
+    "source_video_title": "全知的おせっかい視点 ロケ地",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "ordered_items": ["塩パン"],
+    "tags": ["LE SSERAFIM"]
+  },
+  {
+    "name": "삼겹살 전문점 대통령（サムギョプサル大統領）",
+    "address": "韓国ソウル市中区奨忠壇路249-24",
+    "prefecture": "韓国",
+    "city": "ソウル市中区",
+    "genre": "yakiniku",
+    "group": "kpop_lesserafim",
+    "members": ["サクラ", "カズハ", "チェウォン", "ユンジン", "ウンチェ"],
+    "source_video_title": "LENIVERSE YouTube「첫 회식 🍽️」",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "ordered_items": ["超極厚サムギョプサル"],
+    "tags": ["LE SSERAFIM"]
+  },
+  {
+    "name": "On 6.5（온 6.5）",
+    "address": "韓国ソウル市鍾路区北村路1キル28",
+    "prefecture": "韓国",
+    "city": "ソウル市鍾路区",
+    "genre": "shokuji",
+    "group": "kpop_lesserafim",
+    "members": ["サクラ", "カズハ", "チェウォン", "ユンジン", "ウンチェ"],
+    "source_video_title": "K-POPアーティスト御用達キムチ発酵料理店",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "ordered_items": ["キムチ創作料理", "キムチチゲ"],
+    "tags": ["LE SSERAFIM"]
+  }
+]

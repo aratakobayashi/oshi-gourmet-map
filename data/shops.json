@@ -93175,5 +93175,646 @@
     "ordered_items": [
       "チャドルバキ"
     ]
+  },
+  {
+    "id": "kpop_straykids-b6809bca-",
+    "name": "さくら亭",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前6-31-15",
+    "lat": 35.6692039,
+    "lng": 139.7072847,
+    "youtube_id": "",
+    "source_video_title": "Stray Kids 東京ミッションツアー",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "チャンビン",
+      "ヒョンジン",
+      "スンミン",
+      "アイエン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "さくら焼き"
+    ]
+  },
+  {
+    "id": "kpop_straykids-fe152020-",
+    "name": "オールシーズンズコーヒー",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-35-13",
+    "lat": 35.6921592,
+    "lng": 139.7006065,
+    "youtube_id": "",
+    "source_video_title": "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "リノ"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "クラシックプリン"
+    ]
+  },
+  {
+    "id": "kpop_straykids-e6b173fc-",
+    "name": "金沢まいもん寿司 上野店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野6-14-4",
+    "lat": 35.7134128,
+    "lng": 139.7765418,
+    "youtube_id": "",
+    "source_video_title": "SKZ VLOG「Hyun.e's Holiday 5」",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "ヒョンジン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "甘えび",
+      "本まぐろ大とろ"
+    ]
+  },
+  {
+    "id": "kpop_straykids-fuglen_asakusa-",
+    "name": "FUGLEN ASAKUSA",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草2-6-15",
+    "lat": 35.7175966,
+    "lng": 139.7975626,
+    "youtube_id": "",
+    "source_video_title": "スンミン Instagram",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "スンミン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ソフトクリーム"
+    ]
+  },
+  {
+    "id": "kpop_straykids-e604ee36-",
+    "name": "鍋ぞう 浅草雷門店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区雷門2-1-5",
+    "lat": 35.7111333,
+    "lng": 139.7963683,
+    "youtube_id": "",
+    "source_video_title": "スンミン Instagram",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "スンミン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "キムチ鍋"
+    ]
+  },
+  {
+    "id": "kpop_straykids-df0b482a-",
+    "name": "やきとり 大ちゃん",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座6-4-17",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "SKZ VLOG「Felix : Sunshine Vlog 6」",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "フィリックス"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "つくね",
+      "やきとり皮"
+    ]
+  },
+  {
+    "id": "kpop_straykids-b9eabf58-",
+    "name": "ローズベーカリー 銀座店",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座6-10-1 GINZA SIX 3F",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "SKZ VLOG「Hyun.e's Holiday 5」",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "ヒョンジン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "キャロットケーキ",
+      "アイスアメリカーノ"
+    ]
+  },
+  {
+    "id": "kpop_straykids-0c456bcf-",
+    "name": "ひるがお お台場店",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区青海1-1-10 ダイバーシティ東京プラザ6F",
+    "lat": 35.6137752,
+    "lng": 139.7814016,
+    "youtube_id": "",
+    "source_video_title": "SKZ VLOG「Felix : Sunshine Vlog 6」",
+    "source_url": "https://koreaddicted.jp/34578",
+    "visited_date": "",
+    "members": [
+      "フィリックス"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "特選和牛チャーシュー白湯麺"
+    ]
+  },
+  {
+    "id": "kpop_straykids-1ce30364-",
+    "name": "やきやき三輪 大阪堀江店",
+    "genre": "yakiniku",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市西区南堀江1-19-21",
+    "lat": 34.6813858,
+    "lng": 135.4834849,
+    "youtube_id": "",
+    "source_video_title": "Stray Kids 2023年ドームツアー来日時 Instagram",
+    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
+    "visited_date": "",
+    "members": [
+      "フィリックス",
+      "チャンビン",
+      "スンミン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ステーキ"
+    ]
+  },
+  {
+    "id": "kpop_straykids-99cf131a-",
+    "name": "おでんとお蕎麦 居酒屋じんべえ 難波店",
+    "genre": "izakaya",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市浪速区日本橋1-5-15",
+    "lat": 34.6582847,
+    "lng": 135.5057756,
+    "youtube_id": "",
+    "source_video_title": "LeeKnow VLOG（大阪）",
+    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
+    "visited_date": "",
+    "members": [
+      "リノ"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "おでん"
+    ]
+  },
+  {
+    "id": "kpop_straykids-elk-",
+    "name": "elk エルク 心斎橋店",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区南船場3-12-21",
+    "lat": 34.6754885,
+    "lng": 135.506472,
+    "youtube_id": "",
+    "source_video_title": "MAMA 2022 楽屋・大阪滞在",
+    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
+    "visited_date": "",
+    "members": [
+      "バンチャン",
+      "フィリックス"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "パンケーキ"
+    ]
+  },
+  {
+    "id": "kpop_straykids-7e49b046-",
+    "name": "うなぎの蒲の穂焼",
+    "genre": "washoku",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市福島区福島1-10-11",
+    "lat": 34.683921,
+    "lng": 135.5207869,
+    "youtube_id": "",
+    "source_video_title": "バンチャン Bubble投稿",
+    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
+    "visited_date": "",
+    "members": [
+      "バンチャン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "うな玉丼"
+    ]
+  },
+  {
+    "id": "kpop_straykids-0aef9676-",
+    "name": "コルモッ食堂",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区狎鴎亭路79キル47",
+    "lat": 37.5271,
+    "lng": 127.0441,
+    "youtube_id": "",
+    "source_video_title": "YouTube「FANDOM TOUR」練習生時代から常連",
+    "source_url": "https://creatrip.com/ja/news/13742",
+    "visited_date": "",
+    "members": [
+      "バンチャン",
+      "リノ",
+      "チャンビン",
+      "ヒョンジン",
+      "ハン",
+      "フィリックス",
+      "スンミン",
+      "アイエン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kpop_straykids-e68cbd27-",
+    "name": "碧帝カルビ 芳荑店",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市松坡区良才大路71キル1-4",
+    "lat": 37.4973,
+    "lng": 127.1173,
+    "youtube_id": "",
+    "source_video_title": "RACHA LOG Ep.02",
+    "source_url": "https://creatrip.com/ja/news/13742",
+    "visited_date": "",
+    "members": [
+      "バンチャン",
+      "ヒョンジン",
+      "ハン"
+    ],
+    "groups": [
+      "kpop_straykids"
+    ],
+    "group": "kpop_straykids",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "牛カルビ"
+    ]
+  },
+  {
+    "id": "kpop_lesserafim-pachamama_bakery-",
+    "name": "Pachamama Bakery",
+    "genre": "cafe",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市龍山区三角地",
+    "lat": 37.5392,
+    "lng": 126.9762,
+    "youtube_id": "",
+    "source_video_title": "全知的おせっかい視点 ロケ地",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "visited_date": "",
+    "members": [
+      "カズハ",
+      "チェウォン",
+      "ユンジン"
+    ],
+    "groups": [
+      "kpop_lesserafim"
+    ],
+    "group": "kpop_lesserafim",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "塩パン"
+    ]
+  },
+  {
+    "id": "kpop_lesserafim-08528f72-",
+    "name": "삼겹살 전문점 대통령（サムギョプサル大統領）",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市中区奨忠壇路249-24",
+    "lat": 37.5564,
+    "lng": 127.007,
+    "youtube_id": "",
+    "source_video_title": "LENIVERSE YouTube「첫 회식 🍽️」",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "visited_date": "",
+    "members": [
+      "サクラ",
+      "カズハ",
+      "チェウォン",
+      "ユンジン",
+      "ウンチェ"
+    ],
+    "groups": [
+      "kpop_lesserafim"
+    ],
+    "group": "kpop_lesserafim",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "超極厚サムギョプサル"
+    ]
+  },
+  {
+    "id": "kpop_lesserafim-on_6_5_6_5-",
+    "name": "On 6.5（온 6.5）",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市鍾路区北村路1キル28",
+    "lat": 37.5826,
+    "lng": 126.9836,
+    "youtube_id": "",
+    "source_video_title": "K-POPアーティスト御用達キムチ発酵料理店",
+    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
+    "visited_date": "",
+    "members": [
+      "サクラ",
+      "カズハ",
+      "チェウォン",
+      "ユンジン",
+      "ウンチェ"
+    ],
+    "groups": [
+      "kpop_lesserafim"
+    ],
+    "group": "kpop_lesserafim",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "キムチ創作料理",
+      "キムチチゲ"
+    ]
+  },
+  {
+    "id": "kpop_blackpink-henry_s_pizza-",
+    "name": "Henry's PIZZA",
+    "genre": "shokuji",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区谷町4-2-2",
+    "lat": 34.666526,
+    "lng": 135.5217554,
+    "youtube_id": "",
+    "source_video_title": "ジェニ・ロゼ 大阪訪問（VERDYコラボ店）",
+    "source_url": "https://oshito.online/news/14064.html",
+    "visited_date": "",
+    "members": [
+      "ジェニ",
+      "ロゼ"
+    ],
+    "groups": [
+      "kpop_blackpink"
+    ],
+    "group": "kpop_blackpink",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ペペロニピザ",
+      "NYスタイルピザ"
+    ]
   }
 ]

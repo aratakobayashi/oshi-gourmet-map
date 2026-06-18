@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Henry's PIZZA",
+    "address": "大阪府大阪市中央区谷町4-2-2",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "genre": "shokuji",
+    "group": "kpop_blackpink",
+    "members": ["ジェニ", "ロゼ"],
+    "source_video_title": "ジェニ・ロゼ 大阪訪問（VERDYコラボ店）",
+    "source_url": "https://oshito.online/news/14064.html",
+    "ordered_items": ["ペペロニピザ", "NYスタイルピザ"],
+    "tags": ["BLACKPINK"]
+  }
+]
