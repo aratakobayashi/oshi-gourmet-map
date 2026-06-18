@@ -31,6 +31,28 @@ GROUP_LABELS = {
     "kodoku_no_gurume":"孤独のグルメ",
     "heysayjump":      "いただきハイジャンプ",
     "timelesz":        "Timelesz",
+    "kpop_bts":        "BTS",
+    "kpop_straykids":  "Stray Kids",
+    "kpop_lesserafim": "LE SSERAFIM",
+    "kpop_blackpink":  "BLACKPINK",
+    "kpop_enhypen":    "ENHYPEN",
+    "kpop_seventeen":  "SEVENTEEN",
+    "kpop_riize":      "RIIZE",
+    "kpop_nct":        "NCT",
+    "kpop_twice":      "TWICE",
+    "numberi":         "Number_i",
+    "kingprince":      "King & Prince",
+    "arashi":          "嵐",
+    "west":            "WEST.",
+    "kinkikids":       "KinKi Kids",
+    "smap":            "SMAP",
+    "v6":              "V6",
+    "travisjapan":     "Travis Japan",
+    "kismai":          "Kis-My-Ft2",
+    "kattun":          "KAT-TUN",
+    "kimura":          "木村拓哉",
+    "shiori":          "しおりん",
+    "agroup":          "Aぇ!group",
 }
 
 # グループ名と同じ名前のメンバーは主語に使わない（冗長になるため）
@@ -50,6 +72,16 @@ GENRE_SUFFIX = {
     "もんじゃ": "もんじゃ店",
     "食事":     "飲食店",
     "その他":   "お店",
+    # 英語スラグ対応
+    "cafe":     "カフェ",
+    "ramen":    "ラーメン店",
+    "yakiniku": "焼肉店",
+    "shokuji":  "飲食店",
+    "chuka":    "中華料理店",
+    "washoku":  "和食店",
+    "sweets":   "スイーツ店",
+    "izakaya":  "居酒屋",
+    "others":   "グルメスポット",
 }
 
 
