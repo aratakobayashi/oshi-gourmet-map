@@ -1,6 +1,6 @@
 ---
 layout: shop
-title: "トーホーベーカリー"
+title: "TWICEが行った「トーホーベーカリー」"
 description: "TWICEで紹介されたothers「トーホーベーカリー」（東京都三鷹市）。食べログ3.62点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-6b03ad4d-"
 name: "トーホーベーカリー"

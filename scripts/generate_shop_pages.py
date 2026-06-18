@@ -23,7 +23,7 @@ GROUP_LABELS_MAP = {
     'heysayjump':'Hey! Say! JUMP','kingprince':'King & Prince','shiori':'しおり',
     'arashi':'嵐','kimura':'木村拓哉',
     'kpop_enhypen':'ENHYPEN','kpop_seventeen':'SEVENTEEN',
-    'kpop_riize':'RIIZE','kpop_nct':'NCT',
+    'kpop_riize':'RIIZE','kpop_nct':'NCT','kpop_bts':'BTS','kpop_twice':'TWICE',
 }
 
 def build_seo_description(shop):

@@ -92531,5 +92531,649 @@
     "ordered_items": [
       "リッチストロベリーケーキ"
     ]
+  },
+  {
+    "id": "kpop_bts-1bc779c4-",
+    "name": "薩摩ッ子ラーメン 東天満総本店",
+    "genre": "ramen",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区天満1-26-12",
+    "lat": 34.7050816,
+    "lng": 135.5124433,
+    "youtube_id": "",
+    "source_video_title": "J-Hope Instagram / Jin来店（2025年）",
+    "source_url": "https://kurumi-press.site/jhope-satumakko/",
+    "visited_date": "",
+    "members": [
+      "J-Hope",
+      "Jin"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "チャーシューメン並・ニンニクたっぷり"
+    ]
+  },
+  {
+    "id": "kpop_bts-so_ten-",
+    "name": "SO-TEN",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿4-27-4 恵比寿YKビル5F",
+    "lat": 35.6469738,
+    "lng": 139.7086461,
+    "youtube_id": "",
+    "source_video_title": "J-Hope Weverse Live（東京滞在中）",
+    "source_url": "https://ameblo.jp/j-hope19940218/entry-12896371954.html",
+    "visited_date": "",
+    "members": [
+      "J-Hope"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kpop_bts-b61c20ce-",
+    "name": "東京油組総本店 銀座組",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座6-12-16",
+    "lat": 35.6720135,
+    "lng": 139.7647202,
+    "youtube_id": "",
+    "source_video_title": "J-Hope 東京訪問",
+    "source_url": "https://ameblo.jp/j-hope19940218/entry-12896371954.html",
+    "visited_date": "",
+    "members": [
+      "J-Hope"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "スペシャルBセット チャーシュー追加"
+    ]
+  },
+  {
+    "id": "kpop_bts-red_rock-",
+    "name": "Red Rock 原宿店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前3-25-12 富士ビル",
+    "lat": 35.6692039,
+    "lng": 139.7072847,
+    "youtube_id": "",
+    "source_video_title": "G.C.F in Tokyo（ジョングク動画）",
+    "source_url": "https://grapeejapan.com/99849",
+    "visited_date": "",
+    "members": [
+      "ジョングク",
+      "ジミン"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ステーキ丼"
+    ]
+  },
+  {
+    "id": "kpop_bts-fc7b6f31-",
+    "name": "一蘭 六本木店",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木4-11-11 六本木GMビル2F",
+    "lat": 35.6624568,
+    "lng": 139.7334981,
+    "youtube_id": "",
+    "source_video_title": "BTS 東京訪問（2015年）",
+    "source_url": "https://grapeejapan.com/99849",
+    "visited_date": "",
+    "members": [
+      "Jin"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ラーメン"
+    ]
+  },
+  {
+    "id": "kpop_bts-coco-",
+    "name": "CoCo壱番屋 新宿歌舞伎町店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町",
+    "lat": 35.6945429,
+    "lng": 139.7027105,
+    "youtube_id": "",
+    "source_video_title": "ジミン Instagram（2023年11月）",
+    "source_url": "https://bts613-bighit.com/jung-kook-jimin-gcf-in-japan-november-2023/",
+    "visited_date": "",
+    "members": [
+      "ジョングク",
+      "ジミン"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "カレーライス"
+    ]
+  },
+  {
+    "id": "kpop_bts-cfb24cd1-",
+    "name": "油井食堂（ユジョン食堂）",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区論峴路175ギル",
+    "lat": 37.5199,
+    "lng": 127.0226,
+    "youtube_id": "",
+    "source_video_title": "BTS 練習生時代の常連店",
+    "source_url": "https://oshito.online/news/7523.html",
+    "visited_date": "",
+    "members": [
+      "RM",
+      "Jin",
+      "SUGA",
+      "J-Hope",
+      "ジミン",
+      "V",
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "黒豚石焼ビビンバ",
+      "ユジョン野菜包みご飯"
+    ]
+  },
+  {
+    "id": "kpop_bts-d4fbf933-",
+    "name": "カフェ休家（ヒガ）",
+    "genre": "cafe",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区論峴路175ギル近辺",
+    "lat": 37.5261,
+    "lng": 127.0476,
+    "youtube_id": "",
+    "source_video_title": "BTS 元宿舎リノベカフェ",
+    "source_url": "https://ameblo.jp/jjhyeh/entry-12855979151.html",
+    "visited_date": "",
+    "members": [
+      "RM",
+      "Jin",
+      "SUGA",
+      "J-Hope",
+      "ジミン",
+      "V",
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "防弾塩パン"
+    ]
+  },
+  {
+    "id": "kpop_bts-a2d96d1d-",
+    "name": "永川永化 清潭店",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区清潭洞",
+    "lat": 37.527,
+    "lng": 127.0491,
+    "youtube_id": "",
+    "source_video_title": "BTS 行きつけ韓牛店",
+    "source_url": "https://ameblo.jp/jjhyeh/entry-12855979151.html",
+    "visited_date": "",
+    "members": [
+      "RM",
+      "Jin",
+      "SUGA",
+      "J-Hope",
+      "ジミン",
+      "V",
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "韓牛"
+    ]
+  },
+  {
+    "id": "kpop_bts-db69814e-",
+    "name": "押忍！！セイロ蒸し 汝矣島店",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市永登浦区汝矣島洞",
+    "lat": 37.5224,
+    "lng": 126.9251,
+    "youtube_id": "",
+    "source_video_title": "Jinと兄の共同経営店",
+    "source_url": "https://ameblo.jp/jjhyeh/entry-12855979151.html",
+    "visited_date": "",
+    "members": [
+      "Jin"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "日本式せいろ蒸し"
+    ]
+  },
+  {
+    "id": "kpop_bts-355fdac9-",
+    "name": "東莱ミルミョン",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国釜山市東莱区",
+    "lat": 35.2057,
+    "lng": 129.0834,
+    "youtube_id": "",
+    "source_video_title": "RM 釜山訪問",
+    "source_url": "https://oshito.online/news/7523.html",
+    "visited_date": "",
+    "members": [
+      "RM"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ミルミョン"
+    ]
+  },
+  {
+    "id": "kpop_bts-scopa_the_chef-",
+    "name": "SCOPA THE CHEF",
+    "genre": "shokuji",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区清潭洞",
+    "lat": 37.5256,
+    "lng": 127.0487,
+    "youtube_id": "",
+    "source_video_title": "V 清潭洞お気に入りイタリアン",
+    "source_url": "https://kitto.today/contents/122",
+    "visited_date": "",
+    "members": [
+      "V"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "トリュフクリームパスタ"
+    ]
+  },
+  {
+    "id": "kpop_bts-506-",
+    "name": "トッコギ506",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区駅三洞",
+    "lat": 37.4992,
+    "lng": 127.0309,
+    "youtube_id": "",
+    "source_video_title": "V 行きつけ熟成豚肉店",
+    "source_url": "https://kitto.today/contents/122",
+    "visited_date": "",
+    "members": [
+      "V"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "A506熟成サムギョプサル"
+    ]
+  },
+  {
+    "id": "kpop_bts-5c1f5bfd-",
+    "name": "延南火路（ヨンナムファロ）",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市麻浦区成美山路195 1階",
+    "lat": 37.5597,
+    "lng": 126.9245,
+    "youtube_id": "",
+    "source_video_title": "ジョングク 弘大エリア行きつけ焼肉",
+    "source_url": "https://kitto.today/contents/353",
+    "visited_date": "",
+    "members": [
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "BTSジョングクメニュー（牛肉・ハイボール・テンジャンチゲ）"
+    ]
+  },
+  {
+    "id": "kpop_bts-f81c87e5-",
+    "name": "キルモク（길목）",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区永東大路129キル10",
+    "lat": 37.5215,
+    "lng": 127.0474,
+    "youtube_id": "",
+    "source_video_title": "ジョングク 清潭エリア行きつけ焼肉",
+    "source_url": "https://kitto.today/contents/353",
+    "visited_date": "",
+    "members": [
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "モクサル（肩ロース）",
+      "ケランチム"
+    ]
+  },
+  {
+    "id": "kpop_bts-6fcacc83-",
+    "name": "クムテジ食堂",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市中区新堂洞",
+    "lat": 37.5598,
+    "lng": 127.0141,
+    "youtube_id": "",
+    "source_video_title": "BTS 行きつけサムギョプサル店",
+    "source_url": "https://oshito.online/news/7523.html",
+    "visited_date": "",
+    "members": [
+      "ジョングク",
+      "ジミン"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "骨付きサムギョプサル"
+    ]
+  },
+  {
+    "id": "kpop_bts-cafe_camptong-",
+    "name": "CAFE CAMPTONG",
+    "genre": "cafe",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区狎鴎亭路464",
+    "lat": 37.5287,
+    "lng": 127.0437,
+    "youtube_id": "",
+    "source_video_title": "Run BTS! EP.118-119",
+    "source_url": "https://oshito.online/news/7523.html",
+    "visited_date": "",
+    "members": [
+      "RM",
+      "Jin",
+      "SUGA",
+      "J-Hope",
+      "ジミン",
+      "V",
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": []
+  },
+  {
+    "id": "kpop_bts-a6e42a23-",
+    "name": "イチャドル 江南本店",
+    "genre": "yakiniku",
+    "prefecture": "韓国",
+    "city": "",
+    "address": "韓国ソウル市江南区",
+    "lat": 37.5088,
+    "lng": 127.0483,
+    "youtube_id": "",
+    "source_video_title": "Run BTS! 2022",
+    "source_url": "https://oshito.online/news/7523.html",
+    "visited_date": "",
+    "members": [
+      "RM",
+      "Jin",
+      "SUGA",
+      "J-Hope",
+      "ジミン",
+      "V",
+      "ジョングク"
+    ],
+    "groups": [
+      "kpop_bts"
+    ],
+    "group": "kpop_bts",
+    "nearest_station": "",
+    "description": "",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "チャドルバキ"
+    ]
   }
 ]
