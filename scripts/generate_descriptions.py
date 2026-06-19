@@ -43,6 +43,7 @@ GROUP_LABELS = {
     "kanjani":         "関ジャニ∞",
     "kpop_aespa":      "aespa",
     "kpop_ive":        "IVE",
+    "kpop_newjeans":   "NewJeans",
     "numberi":         "Number_i",
     "kingprince":      "King & Prince",
     "arashi":          "嵐",

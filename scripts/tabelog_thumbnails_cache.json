@@ -12769,5 +12769,61 @@
     "business_hours": "12:00 - 14:30 18:00 - 23:30",
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13086478/"
   },
-  "kpop_aespa-db11ee48-": {}
+  "kpop_aespa-db11ee48-": {},
+  "kpop_newjeans-b23c73bc-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/241415/9f3083b13a263e569f7dab7dbdb61c9f.jpg?token=6f8b263&api=v2",
+    "tabelog_score": 3.18,
+    "price_range": "-",
+    "business_hours": "月・木・金・土・日 10:00 - 17:00 火・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13276243/"
+  },
+  "kpop_newjeans-john_s_ice_cream-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/192182/37f53e46d0de06ee655d902e05dd61b0.jpg?token=e897420&api=v2",
+    "tabelog_score": 3.21,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・水・木・金 11:00 - 18:00 土・日 10:00 - 18:00 火 定休日 ■定休日第3月曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13272143/"
+  },
+  "kpop_newjeans-swell_coffee_roaster-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358479/903c28226de8881f92f7d48f94f0c500.jpg?token=dabe68a&api=v2",
+    "tabelog_score": 3.1,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・水・木・日 09:00 - 21:00 金・土 09:00 - 23:00 ・休業日はインスタグラムを要確認 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13319948/"
+  },
+  "kpop_newjeans-andy_coffee-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358146/555f2a326c11ac89f017d454dc151166.jpg?token=3a293a7&api=v2",
+    "tabelog_score": 3.49,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "08:00 - 19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130303/13297856/"
+  },
+  "kpop_newjeans-2ad1e8ad-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/93992/93992266.jpg?token=66cbb65&api=v2",
+    "tabelog_score": 3.02,
+    "price_range": "-",
+    "business_hours": "■営業時間毎週土曜お昼頃～16:00(L.O15:00)■定休日月曜、火曜、水曜、木曜、金曜、日曜 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13226862/"
+  },
+  "kpop_newjeans-a1e2e51b-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340636/fb7f509a63b4d6cb4365e13542eeb4ab.jpg?token=e950e13&api=v2",
+    "tabelog_score": 3.12,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "11:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13240587/"
+  },
+  "kpop_newjeans-ec57a59c-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/240886/62bcfe3b8f03549e9cdd62ed0e2fb2db.jpg?token=7a425c7&api=v2",
+    "tabelog_score": 3.54,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "11:30 - 21:00 L.O. 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13261638/"
+  },
+  "kpop_newjeans-8d60abcc-": {
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214420/b5fe5bb47dc59f866b0a522c925ae5da.jpg?token=2fe881a&api=v2",
+    "tabelog_score": 3.34,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・水・木・金 11:30 - 15:30 L.O. 15:00 17:00 - 22:00 L.O. 21:30 土・日・祝日 11:30 - 15:30 L.O. 15:00 17:00 - 21:30 L.O. 21:00 ■ 営業時間※シーズン等により変更する場合がございます。■ 定休日無休 ※年末年始などを除く",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13192261/"
+  }
 }
