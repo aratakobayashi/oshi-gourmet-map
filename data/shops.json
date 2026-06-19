@@ -94196,5 +94196,390 @@
       "タイ料理",
       "豚足ご飯"
     ]
+  },
+  {
+    "id": "kpop_aespa-5ffe7df2-",
+    "name": "やげんぼり 赤坂店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-19-5",
+    "lat": 35.6716786,
+    "lng": 139.7356224,
+    "youtube_id": "",
+    "source_video_title": "カリナ 東京赤坂訪問（SMアイドルの聖地）",
+    "source_url": "https://nomnom-korea.com/2025/05/28/aespa-karina-akasaka/",
+    "visited_date": "",
+    "members": [
+      "カリナ"
+    ],
+    "groups": [
+      "kpop_aespa"
+    ],
+    "group": "kpop_aespa",
+    "nearest_station": "東京メトロ丸の内線・銀座線 赤坂見附駅 徒歩3分",
+    "description": "aespa「カリナ 東京赤坂訪問（SMアイドルの聖地）」に登場した和食店。カリナが訪問。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13002749/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363053/51ff5fa168876aa3fb0cf8a1d8e226b1.jpg?token=18413ac&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [],
+    "tabelog_score": 3.54,
+    "price_range": "￥15,000～￥19,999",
+    "business_hours": "月・火・水・木・金 11:30 - 14:00 L.O. 13:30 17:30 - 22:00 L.O. 21:00 土 11:30 - 14:00 L.O. 13:30 17:30 - 21:00 L.O. 20:00 日・祝日 定休日"
+  },
+  {
+    "id": "kpop_aespa-e6d7a34f-",
+    "name": "韓国酒場ハルハル",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺北3-22-10 大一市場内",
+    "lat": 35.7073164,
+    "lng": 139.6548546,
+    "youtube_id": "",
+    "source_video_title": "ジゼル 高円寺来訪",
+    "source_url": "https://r.gnavi.co.jp/11t9rkgn0000/",
+    "visited_date": "",
+    "members": [
+      "ジゼル"
+    ],
+    "groups": [
+      "kpop_aespa"
+    ],
+    "group": "kpop_aespa",
+    "nearest_station": "",
+    "description": "aespa「ジゼル 高円寺来訪」に登場した居酒屋。ジゼルが訪問。タッカルビ・ユッケビビンバ・ヤンニョムチキンを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13305396/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359858/f95cb89baaa4d2240058390987cb2eba.jpg?token=29fbc45&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "タッカルビ",
+      "ユッケビビンバ",
+      "ヤンニョムチキン"
+    ],
+    "tabelog_score": 3.09,
+    "price_range": "￥4,000～￥4,999",
+    "business_hours": "月・水・木・金・土・日 17:00 - 00:00 火 定休日"
+  },
+  {
+    "id": "kpop_aespa-75f30bda-",
+    "name": "アートマサシヤ",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区南平台町2-8 ニッコウパレス南平台東101",
+    "lat": 35.6538092,
+    "lng": 139.6961617,
+    "youtube_id": "",
+    "source_video_title": "ジゼル Instagram（2024年2月）",
+    "source_url": "https://pro-otaku.com/2024-aespa-tokyo/",
+    "visited_date": "",
+    "members": [
+      "ジゼル"
+    ],
+    "groups": [
+      "kpop_aespa"
+    ],
+    "group": "kpop_aespa",
+    "nearest_station": "",
+    "description": "aespa「ジゼル Instagram（2024年2月）」に登場したラーメン店。ジゼルが訪問。ラーメンを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13122253/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/284386/7fb61f91366d7387501d4b9b3cfe4407.jpg?token=258e47c&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "ラーメン"
+    ],
+    "tabelog_score": 3.5,
+    "price_range": "￥1,000～￥1,999",
+    "business_hours": "月・火・木・金・土・日 11:30 - 15:00 水 定休日 その他不定休あり。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "kpop_aespa-5ac4fae2-",
+    "name": "ワンガーデン 西麻布店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布3-17-29 富士見坂プレイス2F",
+    "lat": 35.6600266,
+    "lng": 139.7238075,
+    "youtube_id": "",
+    "source_video_title": "カリナ・ウィンター 西麻布訪問（2023年）",
+    "source_url": "https://pro-otaku.com/2023-aespa-place/",
+    "visited_date": "",
+    "members": [
+      "カリナ",
+      "ウィンター"
+    ],
+    "groups": [
+      "kpop_aespa"
+    ],
+    "group": "kpop_aespa",
+    "nearest_station": "",
+    "description": "aespa「カリナ・ウィンター 西麻布訪問（2023年）」に登場した和食店。カリナ・ウィンターが訪問。釜炊き鯛めしを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13086478/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361683/6f336566b46b7c23ac2ab2dc127c8050.jpg?token=7b4f82e&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "釜炊き鯛めし"
+    ],
+    "tabelog_score": 3.39,
+    "price_range": "￥6,000～￥7,999",
+    "business_hours": "12:00 - 14:30 18:00 - 23:30"
+  },
+  {
+    "id": "kpop_aespa-db11ee48-",
+    "name": "たこ焼きしばいたろか!!",
+    "genre": "shokuji",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市中央区西心斎橋1-16-16",
+    "lat": 34.6753541,
+    "lng": 135.4992013,
+    "youtube_id": "",
+    "source_video_title": "aespa 大阪訪問（アメ村）",
+    "source_url": "https://oshi-seichi.com/2025/04/30/aespa-osaka/",
+    "visited_date": "",
+    "members": [
+      "カリナ",
+      "ウィンター",
+      "ニンニン"
+    ],
+    "groups": [
+      "kpop_aespa"
+    ],
+    "group": "kpop_aespa",
+    "nearest_station": "",
+    "description": "aespa「aespa 大阪訪問（アメ村）」に登場した飲食店。カリナ・ウィンターらが訪問。たこ焼きを注文。",
+    "tags": [],
+    "tabelog_url": "",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "たこ焼き"
+    ]
+  },
+  {
+    "id": "kpop_ive-marlowe-",
+    "name": "MARLOWE マーロウ 葉山マリーナ店",
+    "genre": "sweets",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町堀内50-2 葉山マリーナ1F",
+    "lat": 35.276578,
+    "lng": 139.593549,
+    "youtube_id": "",
+    "source_video_title": "相席食堂 IVE日本初ロケ（2024年7月16日放送）",
+    "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
+    "visited_date": "",
+    "members": [
+      "ガウル",
+      "ウォニョン",
+      "リズ"
+    ],
+    "groups": [
+      "kpop_ive"
+    ],
+    "group": "kpop_ive",
+    "nearest_station": "",
+    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したスイーツ店。ガウル・ウォニョンらが訪問。北海道フレッシュクリームプリン・マサラチャイティープリンを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14075970/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/310488/8233486fc25259d34416dc2bf0205988.jpg?token=99c1629&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "北海道フレッシュクリームプリン",
+      "マサラチャイティープリン"
+    ],
+    "tabelog_score": 3.37,
+    "price_range": "-",
+    "business_hours": "月・水・木・金・土・日 10:00 - 19:00 火 定休日 ■ 営業時間テイクアウト 10:00～19:00喫茶 10:00～18:30(L.O.18:00)■ 定休日不定休 ※葉山マリーナに準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "kpop_ive-45f14b60-",
+    "name": "ブレドール 葉山本店",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町一色657-1",
+    "lat": 35.26866,
+    "lng": 139.589695,
+    "youtube_id": "",
+    "source_video_title": "相席食堂 IVE日本初ロケ（2024年7月16日放送）",
+    "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
+    "visited_date": "",
+    "members": [
+      "ガウル",
+      "ウォニョン"
+    ],
+    "groups": [
+      "kpop_ive"
+    ],
+    "group": "kpop_ive",
+    "nearest_station": "",
+    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ガウル・ウォニョンが訪問。レザンベール・トモコを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14002514/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363232/5ad1920e4cc43df098edd0fdd51d6c8a.jpg?token=64f79f7&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "レザンベール・トモコ"
+    ],
+    "tabelog_score": 3.67,
+    "price_range": "～￥999",
+    "business_hours": "月・水・木・金・土・日 07:00 - 18:00 火 定休日 ■ 定休日火曜日(祝日の場合営業) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "kpop_ive-e7e24ff8-",
+    "name": "角車",
+    "genre": "yakiniku",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町上山口2403",
+    "lat": 35.2670995,
+    "lng": 139.6102949,
+    "youtube_id": "",
+    "source_video_title": "相席食堂 IVE日本初ロケ（2024年7月16日放送）",
+    "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
+    "visited_date": "",
+    "members": [
+      "ガウル",
+      "ウォニョン",
+      "リズ"
+    ],
+    "groups": [
+      "kpop_ive"
+    ],
+    "group": "kpop_ive",
+    "nearest_station": "",
+    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場した焼肉店。ガウル・ウォニョンらが訪問。リブロース・サーロイン・ヒレを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14003158/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/6268/6268766.jpg?token=d0f8b7b&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "リブロース",
+      "サーロイン",
+      "ヒレ"
+    ],
+    "tabelog_score": 3.52,
+    "price_range": "￥8,000～￥9,999",
+    "business_hours": "月・水・木・金・土・日 11:30 - 15:00 17:00 - 21:00 火 定休日 ■ 定休日火曜日（祝日の場合は翌日） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "kpop_ive-before_sunset-",
+    "name": "before sunset",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町堀内900 1F",
+    "lat": 35.2742,
+    "lng": 139.5918,
+    "youtube_id": "",
+    "source_video_title": "相席食堂 IVE日本初ロケ（2024年7月16日放送）",
+    "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
+    "visited_date": "",
+    "members": [
+      "ユジン",
+      "レイ",
+      "イソ"
+    ],
+    "groups": [
+      "kpop_ive"
+    ],
+    "group": "kpop_ive",
+    "nearest_station": "",
+    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ユジン・レイらが訪問。シュガーバタークレープを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14083163/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/299716/d66f28ff51751cbb6cf0ce854f3bb16a.jpg?token=a1c34df&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "シュガーバタークレープ"
+    ],
+    "tabelog_score": 3.41,
+    "price_range": "-",
+    "business_hours": "月・水・木・金・土・日 07:30 - 17:00 L.O. 料理15:00 ドリンク16:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+  },
+  {
+    "id": "kpop_ive-3aa8f6af-",
+    "name": "葉山珈琲 パッパニーニョ",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町一色1940",
+    "lat": 35.2628,
+    "lng": 139.5942,
+    "youtube_id": "",
+    "source_video_title": "相席食堂 IVE日本初ロケ（2024年7月16日放送）全員合流",
+    "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
+    "visited_date": "",
+    "members": [
+      "ガウル",
+      "ウォニョン",
+      "リズ",
+      "ユジン",
+      "レイ",
+      "イソ"
+    ],
+    "groups": [
+      "kpop_ive"
+    ],
+    "group": "kpop_ive",
+    "nearest_station": "",
+    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ガウル・ウォニョンらが訪問。コーヒーゼリーセットを注文。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14001647/",
+    "hotpepper_url": "",
+    "affiliate_links": [],
+    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/30172/30172887.jpg?token=762d12f&api=v2",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "ordered_items": [
+      "コーヒーゼリーセット"
+    ],
+    "tabelog_score": 3.2,
+    "price_range": "￥2,000～￥2,999",
+    "business_hours": "月・火・木・金・土・日 12:00 - 17:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   }
 ]

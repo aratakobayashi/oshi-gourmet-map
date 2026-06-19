@@ -1,0 +1,80 @@
+[
+  {
+    "name": "やげんぼり 赤坂店",
+    "address": "東京都港区赤坂3-19-5",
+    "prefecture": "東京都",
+    "city": "港区",
+    "genre": "washoku",
+    "group": "kpop_aespa",
+    "members": ["カリナ"],
+    "source_video_title": "カリナ 東京赤坂訪問（SMアイドルの聖地）",
+    "source_url": "https://nomnom-korea.com/2025/05/28/aespa-karina-akasaka/",
+    "ordered_items": [],
+    "tags": ["aespa"]
+  },
+  {
+    "name": "つるとんたん UDON NOODLE Brasserie 六本木",
+    "address": "東京都港区六本木7-8-6 アクソール六本木7F",
+    "prefecture": "東京都",
+    "city": "港区",
+    "genre": "shokuji",
+    "group": "kpop_aespa",
+    "members": ["ジゼル"],
+    "source_video_title": "ジゼル 六本木訪問",
+    "source_url": "https://pro-otaku.com/2024-aespa-tokyo/",
+    "ordered_items": ["うどん"],
+    "tags": ["aespa"]
+  },
+  {
+    "name": "韓国酒場ハルハル",
+    "address": "東京都杉並区高円寺北3-22-10 大一市場内",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "genre": "izakaya",
+    "group": "kpop_aespa",
+    "members": ["ジゼル"],
+    "source_video_title": "ジゼル 高円寺来訪",
+    "source_url": "https://r.gnavi.co.jp/11t9rkgn0000/",
+    "ordered_items": ["タッカルビ", "ユッケビビンバ", "ヤンニョムチキン"],
+    "tags": ["aespa"]
+  },
+  {
+    "name": "アートマサシヤ",
+    "address": "東京都渋谷区南平台町2-8 ニッコウパレス南平台東101",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "genre": "ramen",
+    "group": "kpop_aespa",
+    "members": ["ジゼル"],
+    "source_video_title": "ジゼル Instagram（2024年2月）",
+    "source_url": "https://pro-otaku.com/2024-aespa-tokyo/",
+    "ordered_items": ["ラーメン"],
+    "tags": ["aespa"]
+  },
+  {
+    "name": "ワンガーデン 西麻布店",
+    "address": "東京都港区西麻布3-17-29 富士見坂プレイス2F",
+    "prefecture": "東京都",
+    "city": "港区",
+    "genre": "washoku",
+    "group": "kpop_aespa",
+    "members": ["カリナ", "ウィンター"],
+    "source_video_title": "カリナ・ウィンター 西麻布訪問（2023年）",
+    "source_url": "https://pro-otaku.com/2023-aespa-place/",
+    "ordered_items": ["釜炊き鯛めし"],
+    "tags": ["aespa"]
+  },
+  {
+    "name": "たこ焼きしばいたろか!!",
+    "address": "大阪府大阪市中央区西心斎橋1-16-16",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "genre": "shokuji",
+    "group": "kpop_aespa",
+    "members": ["カリナ", "ウィンター", "ニンニン"],
+    "source_video_title": "aespa 大阪訪問（アメ村）",
+    "source_url": "https://oshi-seichi.com/2025/04/30/aespa-osaka/",
+    "ordered_items": ["たこ焼き"],
+    "tags": ["aespa"]
+  }
+]
