@@ -10,6 +10,8 @@ city: "勇払郡占冠村"
 address: "勇払郡占冠村中トマム星野リゾートトマム内GAO"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
+lat: 43.0517
+lng: 142.6267
 groups:
   - "nogizaka46"
 ---

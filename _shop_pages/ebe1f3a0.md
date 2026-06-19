@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ傳米」"
-description: "それスノで紹介された和食「うなぎ傳米」（埼玉県）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたwashoku「うなぎ傳米」（埼玉県）。食べログ3.47点。推し活グルメ巡礼スポット。"
 shop_id: "ebe1f3a0"
 name: "うなぎ傳米"
-genre: "和食"
+genre: "washoku"
 prefecture: "埼玉県"
 address: "埼玉県川越市幸町1-10"
 nearest_station: "本川越駅 徒歩15分"

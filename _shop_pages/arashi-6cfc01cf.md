@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「じゃんか」"
-description: "嵐にしやがれで紹介されたothers「じゃんか」。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「じゃんか」（東京都新宿区）。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-6cfc01cf-"
 name: "じゃんか"
 genre: "others"
+prefecture: "東京都"
+city: "新宿区"
 nearest_station: "溜池山王駅 徒歩6分"
 price_range: "￥4,000～￥4,999"
 source_video_title: "嵐にしやがれ"

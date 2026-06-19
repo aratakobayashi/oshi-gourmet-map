@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「サロン・ド・テ・カワムラ」"
-description: "旅スノ 金沢旅で紹介されたカフェ「サロン・ド・テ・カワムラ」（石川県）。食べログ3.51点。推し活グルメ巡礼スポット。"
+description: "旅スノ 金沢旅で紹介されたcafe「サロン・ド・テ・カワムラ」（石川県）。食べログ3.51点。推し活グルメ巡礼スポット。"
 shop_id: "0ff23edd"
 name: "サロン・ド・テ・カワムラ"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "石川県"
 address: "石川県金沢市野町2丁目24-7"
 nearest_station: "野町駅 徒歩6分"

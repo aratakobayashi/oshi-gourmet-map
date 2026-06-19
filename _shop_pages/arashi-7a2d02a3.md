@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「ボケリア」"
-description: "嵐にしやがれで紹介されたothers「ボケリア」。食べログ3.44点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「ボケリア」（東京都台東区）。食べログ3.44点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-7a2d02a3-"
 name: "ボケリア"
 genre: "others"
+prefecture: "東京都"
+city: "台東区"
 nearest_station: "神田駅 徒歩2分"
 price_range: "￥5,000～￥5,999"
 source_video_title: "嵐にしやがれ"

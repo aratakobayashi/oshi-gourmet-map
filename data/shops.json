@@ -9759,8 +9759,8 @@
     "id": "kamenashi-beschle-20241116",
     "name": "Beschle",
     "genre": "izakaya",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "スイス",
+    "city": "バーゼル",
     "address": "Clarastrasse 4, 4058 Basel, スイス",
     "lat": 47.5596,
     "lng": 7.5886,
@@ -9794,8 +9794,8 @@
     "id": "kamenashi-le_rhin_bleu-20241116",
     "name": "Le Rhin Bleu",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "スイス",
+    "city": "バーゼル",
     "address": "St. Alban-Rheinweg 195, 4052 Basel, スイス",
     "lat": 47.5573,
     "lng": 7.5913,
@@ -10374,8 +10374,8 @@
     "id": "kamenashi-1f6dffde-202402",
     "name": "夷川餃子なかじま",
     "genre": "chuka",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "京都府",
+    "city": "京都市",
     "address": "",
     "lat": 35.0145937,
     "lng": 135.7516699,
@@ -10484,8 +10484,8 @@
     "id": "snowman-pablo-20241002",
     "name": "Pablo",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "",
     "lat": 34.6694965,
     "lng": 135.5015898,
@@ -10538,8 +10538,8 @@
     "id": "snowman-b8d6ca27-202405",
     "name": "キッチン 南国",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "宮城県",
+    "city": "石巻市",
     "address": "",
     "lat": 38.4289729,
     "lng": 141.2875937,
@@ -10589,8 +10589,8 @@
     "id": "snowman-d4d93a94-201810",
     "name": "ケーキファクトリー・ホイップ",
     "genre": "sweets",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "神奈川県",
+    "city": "川崎市",
     "address": "",
     "lat": 35.6326432,
     "lng": 139.5026339,
@@ -12986,8 +12986,8 @@
     "id": "hinatazaka46-san_francisco_peaks-",
     "name": "San Francisco Peaks",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "渋谷区",
     "address": "",
     "lat": 35.6720008,
     "lng": 139.7092408,
@@ -13454,33 +13454,6 @@
     "tabelog_score": 3.49,
     "price_range": "￥3,000～￥3,999",
     "business_hours": "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 07:00 L.O. 06:30 ■ 定休日なし"
-  },
-  {
-    "id": "equal_love-omo5_by-202603",
-    "name": "OMO5横浜馬車道 by 星野リゾート",
-    "genre": "shokuji",
-    "prefecture": "神奈川県",
-    "city": "横浜市",
-    "address": "神奈川県横浜市中区北仲通５丁目５７−２",
-    "lat": 35.450859,
-    "lng": 139.6369359,
-    "youtube_id": "Zjn5_p49GWg",
-    "source_video_title": "",
-    "visited_date": "2026-03-22",
-    "members": [
-      "大谷映美里"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "馬車道駅 徒歩2分",
-    "description": "横浜市のレストラン。大谷映美里が2026年3月に訪れた。横浜市のレストラン。大谷映美里が2026年3月に訪れた。=LOVEの大谷映美里が訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/Zjn5_p49GWg/hqdefault.jpg"
   },
   {
     "id": "equal_love-1296f01f-202603",
@@ -14738,40 +14711,6 @@
     "business_hours": "月・火・水・木・金 12:00 - 15:00 L.O. 14:30 16:30 - 23:00 L.O. 22:30 土・日・祝日 11:00 - 23:00 L.O. 22:30 ■ 定休日不定休"
   },
   {
-    "id": "equal_love-734ae6ce-202408",
-    "name": "西鉄リゾートイン那覇",
-    "genre": "shokuji",
-    "prefecture": "沖縄県",
-    "city": "那覇市",
-    "address": "沖縄県那覇市久米２丁目３−１３",
-    "lat": 26.2164391,
-    "lng": 127.676357,
-    "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
-    "visited_date": "2024-08-15",
-    "members": [
-      "大谷映美里"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "県庁前駅 徒歩6分",
-    "description": "那覇市のレストラン。大谷映美里が2024年8月に訪れた。那覇市のレストラン。大谷映美里が2024年8月に訪れた。=LOVEの大谷映美里が訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47009218/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/okinawa/A4701/A470101/47009218/"
-      }
-    ],
-    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
-    "tabelog_score": 3.15,
-    "price_range": "-"
-  },
-  {
     "id": "equal_love-mateki-202408",
     "name": "カフェ＆ダイニング mateki",
     "genre": "cafe",
@@ -15143,34 +15082,6 @@
     "hotpepper_url": "",
     "affiliate_links": [],
     "thumbnail_url": "https://img.youtube.com/vi/HrmydlHejtk/hqdefault.jpg"
-  },
-  {
-    "id": "neajoy-d8279a41-202408",
-    "name": "コスメキッチン 代官山本店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区代官山町１９−４ 代官山駅ビル １階",
-    "lat": 35.6507318,
-    "lng": 139.7046751,
-    "youtube_id": "D-8_9WnpB38",
-    "source_video_title": "",
-    "visited_date": "2024-08-14",
-    "members": [
-      "山田杏佳",
-      "山野愛月"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "代官山駅 徒歩5分",
-    "description": "渋谷区のグルメスポット。山田杏佳・山野愛月が2024年8月に訪れた。≒JOYの山田杏佳・山野愛月が訪れたお店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "https://img.youtube.com/vi/D-8_9WnpB38/hqdefault.jpg"
   },
   {
     "id": "equal_love-c9294339-202408",
@@ -18762,43 +18673,6 @@
     "business_hours": "10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "notme-0a69203d-202408",
-    "name": "ホテル大野屋",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市和田浜南町３−９",
-    "lat": 35.0894744,
-    "lng": 139.0794494,
-    "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "",
-    "visited_date": "2024-08-05",
-    "members": [
-      "蟹沢萌子",
-      "河口夏音",
-      "菅波美玲",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "",
-    "description": "熱海市のレストラン。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22006404/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/shizuoka/A2205/A220502/22006404/"
-      }
-    ],
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "tabelog_score": 3.22,
-    "price_range": "￥10,000～￥14,999"
-  },
-  {
     "id": "notme-f0a8c1b8-202408",
     "name": "桜井商店 ひもの店",
     "genre": "shokuji",
@@ -21408,11 +21282,11 @@
     "id": "kodoku_no_gurume-7cec1f08-",
     "name": "三星青蔥文化館",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "台湾",
+    "city": "宜蘭県",
     "address": "台湾宜蘭県",
-    "lat": 35.018101,
-    "lng": 135.7470463,
+    "lat": 24.7547,
+    "lng": 121.7524,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season5 第4話",
     "visited_date": "",
@@ -21452,11 +21326,11 @@
     "id": "kodoku_no_gurume-f6f011b2-",
     "name": "永楽小乞",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "台湾",
+    "city": "台北市",
     "address": "台湾台北市",
-    "lat": 36.5348263,
-    "lng": 136.598898,
+    "lat": 25.0473,
+    "lng": 121.5158,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season5 第5話",
     "visited_date": "",
@@ -25305,11 +25179,11 @@
     "id": "kodoku_no_gurume-feea6ccb-",
     "name": "オリュットナッチポックム（오륙도 낙지볶음）",
     "genre": "washoku",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "韓国",
+    "city": "釜山市",
     "address": "韓国釜山市",
-    "lat": 34.6668083,
-    "lng": 133.9219448,
+    "lat": 35.0889,
+    "lng": 129.0525,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season10 第2019話",
     "visited_date": "",
@@ -26425,11 +26299,11 @@
     "id": "kodoku_no_gurume-43db0070-",
     "name": "長白小館",
     "genre": "washoku",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "台湾",
+    "city": "台北市",
     "address": "台湾台北市",
-    "lat": 36.5348263,
-    "lng": 136.598898,
+    "lat": 25.042,
+    "lng": 121.5265,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season10 第2023話",
     "visited_date": "",
@@ -26460,11 +26334,11 @@
     "id": "kodoku_no_gurume-570120e2-",
     "name": "難忘米粉湯",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "台湾",
+    "city": "台北市",
     "address": "台湾台北市",
-    "lat": 36.5348263,
-    "lng": 136.598898,
+    "lat": 25.038,
+    "lng": 121.512,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ Season10 第2023話",
     "visited_date": "",
@@ -36956,44 +36830,6 @@
     "tmdb_type": ""
   },
   {
-    "id": "snowman-jr-20251002",
-    "name": "JR東海全面協力！",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区八重洲 2-2-1",
-    "lat": 35.6799658,
-    "lng": 139.7696846,
-    "youtube_id": "FmH-L6P-3FY",
-    "source_video_title": "【それスノ】阿部亮平×立入禁止 JR東海全面協力！東京駅と大井車両基地｜SnowManロケ地調査",
-    "visited_date": "2025-10-02",
-    "members": [
-      "岩本照",
-      "ラウール",
-      "深澤辰哉",
-      "宮舘涼太",
-      "阿部亮平",
-      "渡辺翔太",
-      "向井康二",
-      "目黒蓮",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "nearest_station": "東京駅八重洲口よりすぐ",
-    "description": "東京都の食事。Snow Manの岩本照・ラウールらが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": ""
-  },
-  {
     "id": "snowman-4e3ad8a5-20251029",
     "name": "地球してるぜ",
     "genre": "shokuji",
@@ -38061,8 +37897,8 @@
     "id": "snowman-536ddfd7-20250424",
     "name": "磯丸水産 自由が丘しらかば通り店",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "目黒区",
     "address": "自由が丘2-11-16 リベルテビル1･2F",
     "lat": 35.6114502,
     "lng": 139.6675812,
@@ -49459,8 +49295,8 @@
     "id": "arashi-cafe_grill-",
     "name": "CAFE & GRILL",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "",
     "lat": 35.6975984,
     "lng": 139.759538,
@@ -49497,8 +49333,8 @@
     "id": "arashi-20b0b313-",
     "name": "喜福世",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "狛江市",
     "address": "",
     "lat": 35.6207797,
     "lng": 139.428035,
@@ -49535,8 +49371,8 @@
     "id": "arashi-d8c5c968-",
     "name": "チョンギワ 新館",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "新宿区",
     "address": "",
     "lat": 35.6734248,
     "lng": 139.738151,
@@ -49573,8 +49409,8 @@
     "id": "arashi-6cfc01cf-",
     "name": "じゃんか",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "新宿区",
     "address": "",
     "lat": 35.6693983,
     "lng": 139.7388835,
@@ -49611,8 +49447,8 @@
     "id": "arashi-8a6cc21b-",
     "name": "龍公亭",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
     "address": "",
     "lat": 35.0962021,
     "lng": 136.8979043,
@@ -49649,8 +49485,8 @@
     "id": "arashi-elbe-",
     "name": "elbe",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "宮城県",
+    "city": "仙台市",
     "address": "",
     "lat": 38.2581708,
     "lng": 140.8743181,
@@ -49687,8 +49523,8 @@
     "id": "arashi-0d55c6e8-",
     "name": "アントニオ 南青山本店",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "港区",
     "address": "",
     "lat": 35.6595242,
     "lng": 139.7133647,
@@ -49725,8 +49561,8 @@
     "id": "arashi-bd199e21-",
     "name": "中国料理 保昌",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "群馬県",
+    "city": "前橋市",
     "address": "",
     "lat": 36.3772106,
     "lng": 139.2228765,
@@ -49763,8 +49599,8 @@
     "id": "arashi-7a2d02a3-",
     "name": "ボケリア",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "",
     "lat": 35.6931626,
     "lng": 139.7718098,
@@ -49801,8 +49637,8 @@
     "id": "arashi-jose_luis-",
     "name": "Jose Luis",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "長野県",
+    "city": "長野市",
     "address": "",
     "lat": 36.3489743,
     "lng": 138.6344852,
@@ -49839,8 +49675,8 @@
     "id": "arashi-8576ad62-",
     "name": "恵比寿 ガパオ食堂",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "渋谷区",
     "address": "",
     "lat": 35.645932,
     "lng": 139.707382,
@@ -53585,53 +53421,6 @@
     "business_hours": "月・火・水・木・金 10:00 - 17:00 L.O. 16:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "naniwa-aee7c792-20251107",
-    "name": "東武ワールドスクウェア",
-    "genre": "shokuji",
-    "prefecture": "栃木県",
-    "city": "日光市",
-    "address": "〒321-2522 栃木県日光市鬼怒川温泉大原209-1",
-    "lat": 36.8200041,
-    "lng": 139.7194862,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-11-07)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-11-07",
-    "visited_date": "2025-11-07",
-    "members": [
-      "大西流星"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "鬼怒川温泉駅 徒歩6分",
-    "description": "栃木県の食事。なにわ男子の大西流星らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tochigi/A0903/A090303/9012543/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tochigi/A0903/A090303/9012543/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345091/30c124da03e3cf67e71f451f9cd1c022.jpg?token=4116194&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      {
-        "name": "大人 (中学生以上)（2,800円）"
-      },
-      {
-        "name": "小人 (4歳以上)（1,400円）"
-      }
-    ],
-    "tabelog_score": 3.1,
-    "price_range": "￥1,000～￥1,999",
-    "business_hours": "10:30 - 18:00 L.O. 17:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
     "id": "naniwa-le_coup_de_foudre-20251107",
     "name": "le coup de foudre",
     "genre": "shokuji",
@@ -54851,46 +54640,6 @@
     "business_hours": "月・火・水・木・金・祝前日・祝後日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 土・祝日 11:00 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 21:00 L.O. 料理20:00 ドリンク20:30 日 11:00 - 15:00 L.O. 14:00 17"
   },
   {
-    "id": "naniwa-ana-20250321",
-    "name": "ANAインターコンチネンタルホテル東京",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区赤坂１丁目１２−３３ANAインターコンチネンタルホテル東京36階",
-    "lat": 35.6685017,
-    "lng": 139.7425371,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2025-03-21)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2025-03-21",
-    "visited_date": "2025-03-21",
-    "members": [
-      "大西流星"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "東京都の食事。なにわ男子の大西流星らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13057189/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1307/A130701/13057189/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/11582/11582225.jpg?token=54cadeb&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.28,
-    "price_range": "￥6,000～￥7,999",
-    "business_hours": "■ 営業時間[チェックイン]15:00[チェックアウト]11:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
     "id": "naniwa-feedy_diner_arcade-20250321",
     "name": "Feedy Diner&Arcade",
     "genre": "izakaya",
@@ -55714,45 +55463,6 @@
     "business_hours": "11:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "naniwa-7780906f-20240524",
-    "name": "ホテルニューアカオ",
-    "genre": "cafe",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市熱海1993-250",
-    "lat": 35.1037499,
-    "lng": 139.0782076,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2024-05-24)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2024-05-24",
-    "visited_date": "2024-05-24",
-    "members": [
-      "西畑大吾"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "熱海駅 徒歩1分",
-    "description": "静岡県のカフェ。なにわ男子の西畑大吾らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22040953/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/shizuoka/A2205/A220502/22040953/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337404/b3c081b60654cb3789abbe3d3363bbfc.jpg?token=4684898&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.27,
-    "price_range": "￥20,000～￥29,999"
-  },
-  {
     "id": "naniwa-33f24bc0-20240524",
     "name": "リゾナーレ熱海",
     "genre": "cafe",
@@ -56204,45 +55914,6 @@
     "tabelog_score": 3.02,
     "price_range": "-",
     "business_hours": "水・木・金・土・日 11:00 - 16:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "naniwa-ddb01104-20240126",
-    "name": "ホテル インターコンチネンタル 東京ベイ",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区海岸1丁目16番2号",
-    "lat": 35.6553108,
-    "lng": 139.7617766,
-    "youtube_id": "",
-    "source_video_title": "なにわ男子のどっち派 (2024-01-26)",
-    "source_url": "https://www.chiicrane-life.fun/mezamashi-2024-01-26",
-    "visited_date": "2024-01-26",
-    "members": [
-      "高橋恭平"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "竹芝駅 徒歩2分",
-    "description": "東京都のスイーツ。なにわ男子の高橋恭平らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13060441/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/tokyo/A1314/A131401/13060441/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/41479/41479473.jpg?token=21c5e00&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.21,
-    "price_range": "￥6,000～￥7,999"
   },
   {
     "id": "naniwa-ee9eceb7-20240126",
@@ -60487,8 +60158,8 @@
     "id": "sixtones-38ccc123-",
     "name": "北新地サンド",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "大阪市北区曽根崎新地1-2-11 アレーナ堂島ビル1F",
     "lat": 34.6965666,
     "lng": 135.4954559,
@@ -60532,8 +60203,8 @@
     "id": "sixtones-ae68486b-",
     "name": "心斎橋サンド",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "大阪市中央区東心斎橋2-8-8 日宝笠屋町センター1F",
     "lat": 34.6722212,
     "lng": 135.5023455,
@@ -62404,44 +62075,6 @@
     "business_hours": "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "nogizaka46-37a327af-",
-    "name": "星野リゾート 青森屋",
-    "genre": "others",
-    "prefecture": "青森県",
-    "city": "三沢市",
-    "address": "青森県三沢市古間木山堀切沢５６",
-    "lat": 40.6632544,
-    "lng": 141.3544941,
-    "youtube_id": "",
-    "source_video_title": "シンクロニシティ特典映像",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "三沢駅 徒歩11分",
-    "description": "青森県三沢市のグルメスポット。乃木坂46の「シンクロニシティ特典映像」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aomori/A0203/A020303/2006664/",
-    "hotpepper_url": "",
-    "affiliate_links": [
-      {
-        "label": "食べログで見る",
-        "url": "https://tabelog.com/aomori/A0203/A020303/2006664/"
-      }
-    ],
-    "thumbnail_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339001/8b4cd0bf7a267ea907d96471056725b9.jpg?token=199ea9d&api=v2",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "tabelog_score": 3.54,
-    "price_range": "￥20,000～￥29,999",
-    "business_hours": "■ 営業時間[食事のみ]要予約（部屋の空き状況による）[宿泊者向け食事]7:00～17:30～[チェックイン・チェックアウト]15:00～翌12:00■定休日無休"
-  },
-  {
     "id": "nogizaka46-1233c542-",
     "name": "武家屋敷の茶屋",
     "genre": "cafe",
@@ -62762,8 +62395,8 @@
     "id": "nogizaka46-4267951b-",
     "name": "山菅茶店",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "港区",
     "address": "港区南青山１丁目２０−５",
     "lat": 35.6697677,
     "lng": 139.7255534,
@@ -62792,8 +62425,8 @@
     "id": "nogizaka46-d1c66592-",
     "name": "カフェアトランティス",
     "genre": "cafe",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "港区",
     "address": "港区南青山３丁目１８−１９",
     "lat": 35.6665612,
     "lng": 139.7155917,
@@ -63528,8 +63161,8 @@
     "id": "nogizaka46-afdf89d9-",
     "name": "ブランチ ヒロノヤ",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "岐阜県",
+    "city": "大垣市",
     "address": "大垣市本町１丁目７７",
     "lat": 35.362087,
     "lng": 136.619165,
@@ -64319,8 +63952,8 @@
     "id": "nogizaka46-cafe_bar_1_point-",
     "name": "CAFE&BAR 1-Point",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "台東区西浅草３丁目７−６",
     "lat": 35.7159557,
     "lng": 139.7913305,
@@ -64349,8 +63982,8 @@
     "id": "nogizaka46-5b302f5e-",
     "name": "やなかしっぽや",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "台東区谷中３丁目１１−１２",
     "lat": 35.726835,
     "lng": 139.7658348,
@@ -64387,8 +64020,8 @@
     "id": "nogizaka46-6ebe4bd3-",
     "name": "和栗や",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "台東区谷中３丁目９−１４",
     "lat": 35.726835,
     "lng": 139.7658348,
@@ -64425,8 +64058,8 @@
     "id": "nogizaka46-86952d9f-",
     "name": "御菓子司 荻野",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "台東区",
     "address": "台東区谷中５丁目２−５",
     "lat": 35.725596,
     "lng": 139.7676802,
@@ -65072,8 +64705,8 @@
     "id": "numberi-9c6aa5a1-",
     "name": "パティスリーガレット",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "大阪市平野区平野本町5-14-17 １F",
     "lat": 34.6257107,
     "lng": 135.5549294,
@@ -67606,8 +67239,8 @@
     "prefecture": "埼玉県",
     "city": "東松山市",
     "address": "埼玉県東松山市あずま町4−3 ピオニウォーク 1階",
-    "lat": null,
-    "lng": null,
+    "lat": 36.0298,
+    "lng": 139.3996,
     "youtube_id": "",
     "source_video_title": "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？",
     "source_url": "https://kosodate-and.net/ferrerorocher-ren-jupiter-panel",
@@ -68087,41 +67720,6 @@
     "tabelog_score": 3.44,
     "price_range": "-",
     "business_hours": "08:00 - 18:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
-  },
-  {
-    "id": "kingprince-9569ae33-20241014",
-    "name": "星野リゾート リゾナーレ八ヶ岳",
-    "genre": "others",
-    "prefecture": "山梨県",
-    "city": "北杜市",
-    "address": "山梨県北杜市小淵沢町129-1",
-    "lat": 35.8680735,
-    "lng": 138.3150279,
-    "youtube_id": "",
-    "source_video_title": "【キントレバイトレロケ地】髙橋海人が働いた星野リゾートホテルはどこ？",
-    "source_url": "https://kosodate-and.net/kaito-hoshino-resort",
-    "visited_date": "2024-10-14",
-    "members": [
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "小淵沢駅 徒歩8分",
-    "description": "山梨県のその他。King & Princeの永瀬廉・髙橋海人らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
   },
   {
     "id": "kingprince-25e5fd8c-",
@@ -68834,10 +68432,10 @@
     "name": "Sun mall 水上店",
     "genre": "others",
     "prefecture": "群馬県",
-    "city": "利根郡みなかみ町",
+    "city": "みなかみ町",
     "address": "群馬県利根郡みなかみ町湯原１６８０－１５",
-    "lat": null,
-    "lng": null,
+    "lat": 36.6783,
+    "lng": 138.9802,
     "youtube_id": "",
     "source_video_title": "【キンプるロケ地】かまくら作りのスキー場・スーパーはどこ？撮影日はいつ？",
     "source_url": "https://kosodate-and.net/kinpru-ski-resort",
@@ -70378,8 +69976,8 @@
     "prefecture": "茨城県",
     "city": "笠間市",
     "address": "茨城県笠間市笠間2258ー1",
-    "lat": null,
-    "lng": null,
+    "lat": 36.3758,
+    "lng": 140.3049,
     "youtube_id": "",
     "source_video_title": "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？",
     "source_url": "https://kosodate-and.net/kintore-kaito-suihanki-kasamashi",
@@ -70413,8 +70011,8 @@
     "prefecture": "山梨県",
     "city": "南アルプス市",
     "address": "山梨県南アルプス市小笠原268",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7106,
+    "lng": 138.3889,
     "youtube_id": "",
     "source_video_title": "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？",
     "source_url": "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi",
@@ -70483,8 +70081,8 @@
     "prefecture": "山梨県",
     "city": "南アルプス市",
     "address": "山梨県南アルプス市小笠原1603",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7098,
+    "lng": 138.3876,
     "youtube_id": "",
     "source_video_title": "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？",
     "source_url": "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi",
@@ -70561,8 +70159,8 @@
     "prefecture": "山梨県",
     "city": "南アルプス市",
     "address": "山梨県南アルプス市西野 横堀 1916-1",
-    "lat": null,
-    "lng": null,
+    "lat": 35.6985,
+    "lng": 138.4107,
     "youtube_id": "",
     "source_video_title": "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？",
     "source_url": "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi",
@@ -70760,8 +70358,8 @@
     "prefecture": "大阪府",
     "city": "堺市",
     "address": "大阪府堺市南区茶山台1丁目3番1号パンジョ専門店2F",
-    "lat": null,
-    "lng": null,
+    "lat": 34.5198,
+    "lng": 135.5148,
     "youtube_id": "",
     "source_video_title": "【キントレ】マリオンクレープは関西・大阪にもある？",
     "source_url": "https://kosodate-and.net/kintore-marion-crepe",
@@ -73210,8 +72808,8 @@
     "id": "kingprince-25d8fc80-",
     "name": "カフェアンドバー サボテン",
     "genre": "cafe",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "大阪市福島区福島8-19-1",
     "lat": 34.695682012667824,
     "lng": 135.488379430334,
@@ -74779,8 +74377,8 @@
     "prefecture": "北海道",
     "city": "勇払郡占冠村",
     "address": "勇払郡占冠村中トマム星野リゾートトマム内GAO",
-    "lat": null,
-    "lng": null,
+    "lat": 43.0517,
+    "lng": 142.6267,
     "youtube_id": "",
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
@@ -74961,8 +74559,8 @@
     "prefecture": "山梨県",
     "city": "北杜市",
     "address": "北杜市高根町清里３５４５",
-    "lat": null,
-    "lng": null,
+    "lat": 35.9007,
+    "lng": 138.4253,
     "youtube_id": "",
     "source_video_title": "走れバイシクル松村個人pv",
     "source_url": "",
@@ -75063,11 +74661,11 @@
     "id": "nogizaka46-9d08772e-",
     "name": "炭火焼うなぎ魚寅",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "岐阜県",
+    "city": "郡上市",
     "address": "郡上市八幡町新町953番地",
-    "lat": null,
-    "lng": null,
+    "lat": 35.7466,
+    "lng": 136.9637,
     "youtube_id": "",
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
@@ -75360,10 +74958,10 @@
     "name": "ストロベリーマニア原宿店",
     "genre": "sweets",
     "prefecture": "東京都",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lng": null,
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前1-6-12 ITOビル2F",
+    "lat": 35.6697,
+    "lng": 139.706,
     "youtube_id": "",
     "source_video_title": "日向の休日",
     "source_url": "",
@@ -75432,10 +75030,10 @@
     "name": "鉄板焼き 玄 KURO",
     "genre": "yakiniku",
     "prefecture": "東京都",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lng": null,
+    "city": "新宿区",
+    "address": "東京都新宿区左門町3-1",
+    "lat": 35.6853,
+    "lng": 139.7169,
     "youtube_id": "",
     "source_video_title": "自撮りTV",
     "source_url": "",
@@ -75450,37 +75048,7 @@
     "nearest_station": "",
     "description": "東京都の焼肉。日向坂46の佐々木美玲らが訪れた飲食店。",
     "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "hinatazaka46-cubar_lounge-",
-    "name": "CuBAR LOUNGE",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "自撮りTV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "hinatazaka46"
-    ],
-    "group": "hinatazaka46",
-    "nearest_station": "",
-    "description": "東京都の居酒屋。日向坂46のメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
+    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130903/13052789/",
     "hotpepper_url": "",
     "affiliate_links": [],
     "thumbnail_url": "",
@@ -75526,36 +75094,6 @@
     "tabelog_score": 3.32,
     "price_range": "￥4,000～￥4,999",
     "business_hours": "月・木・金・土・日 12:00 - 16:00 18:00 - 22:00 火・水 定休日 貸切りやマルシェ出展などで一般営業がお休みの場合もございますので事前にお問合せいただけると嬉しいです"
-  },
-  {
-    "id": "hinatazaka46-ace918aa-",
-    "name": "タナゴコロータス",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lng": null,
-    "youtube_id": "",
-    "source_video_title": "あくびLetter",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "hinatazaka46"
-    ],
-    "group": "hinatazaka46",
-    "nearest_station": "",
-    "description": "東京都の食事。日向坂46のメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
   },
   {
     "id": "equal_love-10_picnic_tables-20260427",
@@ -76446,41 +75984,6 @@
     "business_hours": "チェックイン:15:00～自動チェックイン機をご利用ください。チェックアウト:～10:00アーリーチェックインおよび、レイトチェックアウトは対応しておりません。チェックアウト後の荷物のお預かりは致しかねます。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
   },
   {
-    "id": "neajoy-406_grandami-20240814",
-    "name": "406_GrandAmi水道橋",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区本郷１丁目２５−３ フラワービル 6F",
-    "lat": 35.7050564,
-    "lng": 139.756785,
-    "youtube_id": "px6qNEgpUGY",
-    "source_video_title": "",
-    "source_url": "",
-    "visited_date": "2024-08-14",
-    "members": [
-      "市原愛弓",
-      "髙橋舞",
-      "村山結香",
-      "山田杏佳"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "",
-    "description": "東京都の食事。≒JOYの市原愛弓・髙橋舞らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "affiliate_links": [],
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "neajoy-975be88d-20240814",
     "name": "津久井浜観光農園",
     "genre": "shokuji",
@@ -76799,11 +76302,11 @@
     "id": "smap-ce103b88-",
     "name": "かく庄",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "大阪府",
+    "city": "大阪市",
     "address": "〒553-0003 大阪市福島区福島7丁目1-10 Ok2番街",
-    "lat": 35.74514008857501,
-    "lng": 139.451122855251,
+    "lat": 34.6959,
+    "lng": 135.4882,
     "youtube_id": "",
     "source_video_title": "【お好み焼き「かく庄」】中居正広50歳バースデーメッセージボード",
     "source_url": "https://kosodate-and.net/kakusyo-nakai-50",
@@ -77098,8 +76601,8 @@
     "id": "smap-5f60b859-",
     "name": "にぎりて",
     "genre": "others",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "東京都",
+    "city": "新宿区",
     "address": "新宿区西新宿7-9-15ダイカンプラザ ビジネス清田ビル1F",
     "lat": 35.69474493788038,
     "lng": 139.6983333834069,
@@ -78647,8 +78150,8 @@
     "id": "v6-sakai-20220807",
     "name": "牛ひつまぶし専門 Sakai（さかい）",
     "genre": "shokuji",
-    "prefecture": "",
-    "city": "",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
     "address": "名古屋市中区大須2-8-22",
     "lat": 35.16085460813382,
     "lng": 136.90048756113708,
@@ -85647,7 +85150,7 @@
   {
     "id": "9fa0397b",
     "name": "ル・シエール",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "大田区",
     "address": "東京都大田区羽田空港 第1ターミナル2F",
@@ -85684,7 +85187,7 @@
   {
     "id": "0acf2c2e",
     "name": "空弁工房",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "大田区",
     "address": "東京都大田区羽田空港3丁目",
@@ -85721,7 +85224,7 @@
   {
     "id": "3c43f21a",
     "name": "CoCo壱番屋 西枇杷島店",
-    "genre": "カレー",
+    "genre": "shokuji",
     "prefecture": "愛知県",
     "city": "清須市",
     "address": "愛知県清須市西枇杷島",
@@ -85757,7 +85260,7 @@
   {
     "id": "083cc642",
     "name": "CoCo壱番屋 中区矢場町店",
-    "genre": "カレー",
+    "genre": "shokuji",
     "prefecture": "愛知県",
     "city": "名古屋市",
     "address": "愛知県名古屋市中区矢場町",
@@ -85795,7 +85298,7 @@
   {
     "id": "2ef1ee87",
     "name": "spice up! COCOICHI BAKERY",
-    "genre": "カフェ",
+    "genre": "cafe",
     "prefecture": "愛知県",
     "city": "名古屋市",
     "address": "愛知県名古屋市 名古屋駅地下街",
@@ -85834,7 +85337,7 @@
   {
     "id": "375adf9b",
     "name": "九州じゃんがら 赤坂店",
-    "genre": "ラーメン",
+    "genre": "ramen",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区赤坂",
@@ -85872,7 +85375,7 @@
   {
     "id": "4dcae48d",
     "name": "権八 西麻布",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区西麻布",
@@ -85912,7 +85415,7 @@
   {
     "id": "b6370f6d",
     "name": "生姜料理 しょうが",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "神奈川県",
     "city": "川崎市",
     "address": "神奈川県川崎市麻生区新百合ヶ丘",
@@ -85949,7 +85452,7 @@
   {
     "id": "f78b7050",
     "name": "全記海鮮菜館",
-    "genre": "海鮮",
+    "genre": "shokuji",
     "prefecture": "香港",
     "city": "西貢",
     "address": "53 Sai Kung Hoi Pong St, Sai Kung, Hong Kong",
@@ -85985,7 +85488,7 @@
   {
     "id": "b0f0de77",
     "name": "権発小厨",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "香港",
     "city": "旺角",
     "address": "513 Nathan Rd, Yau Ma Tei, Kowloon, Hong Kong",
@@ -86021,7 +85524,7 @@
   {
     "id": "7a74fe36",
     "name": "Sang Kee Congee Shop",
-    "genre": "ラーメン",
+    "genre": "ramen",
     "prefecture": "香港",
     "city": "上環",
     "address": "7 Burd St, Sheung Wan, Hong Kong",
@@ -86059,7 +85562,7 @@
   {
     "id": "2454cdba",
     "name": "肥姐小食",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "香港",
     "city": "旺角",
     "address": "Dundas St, Mong Kok, Hong Kong",
@@ -86097,7 +85600,7 @@
   {
     "id": "4f53d3b1",
     "name": "Wing Fat Seafood Restaurant",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "香港",
     "city": "旺角",
     "address": "Hong Kong",
@@ -86135,7 +85638,7 @@
   {
     "id": "6180fcd0",
     "name": "玉意水餃",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "187 Đ. Hà Tôn Quốc Ơn, Phường 11, Quận 4, ホーチミン",
@@ -86173,7 +85676,7 @@
   {
     "id": "985e28bc",
     "name": "オック オアン",
-    "genre": "海鮮",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "534 Vĩnh Khánh, Phường 8, Quận 4, ホーチミン",
@@ -86209,7 +85712,7 @@
   {
     "id": "13fba189",
     "name": "キチキチ Phan Xích Long",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "145 Phan Xích Long, Phú Nhuận, ホーチミン",
@@ -86248,7 +85751,7 @@
   {
     "id": "0d848d60",
     "name": "Thai Green Papaya Salad Ty Thy",
-    "genre": "アジア料理",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "ホーチミン, ベトナム",
@@ -86286,7 +85789,7 @@
   {
     "id": "0bb6cf08",
     "name": "コムニュサイゴン",
-    "genre": "アジア料理",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "59 Hồ Xuân Hương, ホーチミン",
@@ -86324,7 +85827,7 @@
   {
     "id": "c5f99473",
     "name": "バィンセオ 46A",
-    "genre": "アジア料理",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "46 Đinh Công Tráng, Tân Định, ホーチミン",
@@ -86362,7 +85865,7 @@
   {
     "id": "748b159f",
     "name": "CLOUD9",
-    "genre": "カフェ",
+    "genre": "cafe",
     "prefecture": "フィジー",
     "city": "マロロ島",
     "address": "Roro Reef, off Malolo Island, Fiji",
@@ -86398,7 +85901,7 @@
   {
     "id": "69aa76eb",
     "name": "Fijiana Cacao & Adi Chocolate Fiji",
-    "genre": "スイーツ",
+    "genre": "sweets",
     "prefecture": "フィジー",
     "city": "フィジー",
     "address": "Fiji",
@@ -86436,7 +85939,7 @@
   {
     "id": "29ce338f",
     "name": "Rung Rueang Pork Noodle",
-    "genre": "ラーメン",
+    "genre": "ramen",
     "prefecture": "タイ",
     "city": "バンコク",
     "address": "Bangkok, Thailand",
@@ -86475,7 +85978,7 @@
   {
     "id": "25348c2c",
     "name": "The Hot Bread Kitchen",
-    "genre": "カフェ",
+    "genre": "cafe",
     "prefecture": "フィジー",
     "city": "デナラウ",
     "address": "Denarau Marina Shopping Center, Fiji",
@@ -86514,7 +86017,7 @@
   {
     "id": "57886d19",
     "name": "Suva Municipal Market",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "フィジー",
     "city": "スバ",
     "address": "Harris Rd, Suva, Fiji",
@@ -86554,7 +86057,7 @@
   {
     "id": "9a075a0e",
     "name": "Joji's Restaurant",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "フィジー",
     "city": "スバ",
     "address": "Laucala Bay, Suva, Fiji",
@@ -86592,7 +86095,7 @@
   {
     "id": "2f7391f4",
     "name": "The One Ratchada",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "タイ",
     "city": "バンコク",
     "address": "Ratchadaphisek Rd, Bangkok, Thailand",
@@ -86631,7 +86134,7 @@
   {
     "id": "4fe463e5",
     "name": "Joke Prince",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "タイ",
     "city": "バンコク",
     "address": "Bangkok, Thailand",
@@ -86670,7 +86173,7 @@
   {
     "id": "31d32b34",
     "name": "Amphawa Floating Market",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "タイ",
     "city": "サムットソンクラーム",
     "address": "Amphawa, Samut Songkhram, Thailand",
@@ -86708,7 +86211,7 @@
   {
     "id": "7bfb2793",
     "name": "Ocean Sky Pattaya",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "タイ",
     "city": "パタヤ",
     "address": "Pattaya, Chonburi, Thailand",
@@ -86747,7 +86250,7 @@
   {
     "id": "3e0e75cb",
     "name": "Mother Roaster",
-    "genre": "カフェ",
+    "genre": "cafe",
     "prefecture": "タイ",
     "city": "バンコク",
     "address": "1172 Soi Chareonkrung 22, Bangkok, Thailand",
@@ -86786,7 +86289,7 @@
   {
     "id": "a1a23733",
     "name": "中町氷菓店 果実と氷",
-    "genre": "スイーツ",
+    "genre": "sweets",
     "prefecture": "東京都",
     "city": "武蔵野市",
     "address": "東京都武蔵野市吉祥寺本町",
@@ -86826,7 +86329,7 @@
   {
     "id": "ce7309df",
     "name": "吉野家 羽田空港第3ターミナル店",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "大田区",
     "address": "東京都大田区羽田空港第3ターミナル",
@@ -86864,7 +86367,7 @@
   {
     "id": "8c951134",
     "name": "ル・シエール 羽田空港",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "大田区",
     "address": "東京都大田区羽田空港第1ターミナル2F",
@@ -86903,7 +86406,7 @@
   {
     "id": "5e512833",
     "name": "空弁工房 羽田空港",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "大田区",
     "address": "東京都大田区羽田空港第2ターミナル",
@@ -86942,7 +86445,7 @@
   {
     "id": "248e22a6",
     "name": "生姜料理しょうが",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "神奈川県",
     "city": "川崎市麻生区",
     "address": "神奈川県川崎市麻生区新百合ヶ丘",
@@ -86981,7 +86484,7 @@
   {
     "id": "0b87e764",
     "name": "屋形船 あみ達",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区晴海3丁目（黎明橋公園付近）",
@@ -87026,7 +86529,7 @@
   {
     "id": "d5588ba9",
     "name": "西荻窪 阿波や壱兆 本店",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "杉並区",
     "address": "東京都杉並区西荻窪",
@@ -87063,7 +86566,7 @@
   {
     "id": "4f294195",
     "name": "陳麻婆豆腐 赤坂東急プラザ店",
-    "genre": "中華",
+    "genre": "chuka",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都千代田区",
@@ -87100,7 +86603,7 @@
   {
     "id": "80cda4d1",
     "name": "ますや本店",
-    "genre": "ラーメン",
+    "genre": "ramen",
     "prefecture": "福島県",
     "city": "郡山市",
     "address": "福島県郡山市台新",
@@ -87139,7 +86642,7 @@
   {
     "id": "695fc261",
     "name": "Quán Sủi Cảo Ngọc Ý",
-    "genre": "中華",
+    "genre": "chuka",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "187 Đ. Hà Tôn Quận 11, ホーチミン",
@@ -87177,7 +86680,7 @@
   {
     "id": "5110dfbc",
     "name": "Ốc Oanh",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "ホーチミン",
     "address": "534 Vĩnh Khánh, Phường 8, Quận 4, ホーチミン",
@@ -87216,7 +86719,7 @@
   {
     "id": "5aefb4c5",
     "name": "Chợ nổi カントー水上マーケット",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "ベトナム",
     "city": "カントー",
     "address": "103 ĐT923, An Bình, Ninh Kiều, Cần Thơ, ベトナム",
@@ -87255,7 +86758,7 @@
   {
     "id": "4372ad38",
     "name": "すし処志喜",
-    "genre": "寿司",
+    "genre": "washoku",
     "prefecture": "東京都",
     "city": "中央区",
     "address": "東京都中央区銀座",
@@ -87291,7 +86794,7 @@
   {
     "id": "9ac25fb0",
     "name": "タズミのたまご 卵らんハウス",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "兵庫県",
     "city": "神崎郡市川町",
     "address": "兵庫県神崎郡市川町",
@@ -87331,7 +86834,7 @@
   {
     "id": "b90ce97c",
     "name": "TOKYO 焼肉ごぉ３号店",
-    "genre": "焼肉",
+    "genre": "yakiniku",
     "prefecture": "東京都",
     "city": "台東区",
     "address": "東京都台東区上野",
@@ -87380,7 +86883,7 @@
   {
     "id": "a67b585a",
     "name": "21時にアイス",
-    "genre": "スイーツ",
+    "genre": "sweets",
     "prefecture": "東京都",
     "city": "台東区",
     "address": "東京都台東区上野",
@@ -87429,7 +86932,7 @@
   {
     "id": "5c98eca5",
     "name": "元祖久留米らーめん 福ヤ",
-    "genre": "ラーメン",
+    "genre": "ramen",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区麻布十番4-3-1 1F",
@@ -87476,7 +86979,7 @@
   {
     "id": "9f2ea65a",
     "name": "お好み焼き カチャカチャDO 平田店",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "島根県",
     "city": "出雲市",
     "address": "島根県出雲市園町1412-1",
@@ -87512,7 +87015,7 @@
   {
     "id": "ed3ca800",
     "name": "博多もつ鍋 二十四 博多南店",
-    "genre": "居酒屋",
+    "genre": "izakaya",
     "prefecture": "福岡県",
     "city": "博多区",
     "address": "福岡県福岡市博多区博多駅南",
@@ -87558,7 +87061,7 @@
   {
     "id": "8d12f319",
     "name": "Burger Lounge サンタモニカ",
-    "genre": "食事",
+    "genre": "shokuji",
     "prefecture": "アメリカ",
     "city": "サンタモニカ",
     "address": "213 Arizona Ave, Santa Monica, CA, USA",
@@ -87677,7 +87180,7 @@
   {
     "id": "a05bb79f",
     "name": "鮨処あいじ",
-    "genre": "sushi",
+    "genre": "washoku",
     "prefecture": "石川県",
     "city": "金沢市",
     "address": "石川県金沢市片町",
@@ -87744,7 +87247,7 @@
   {
     "id": "b51f102c",
     "name": "濱鮨",
-    "genre": "sushi",
+    "genre": "washoku",
     "prefecture": "大阪府",
     "city": "大阪市",
     "address": "大阪府大阪市北区中崎西",
@@ -88038,7 +87541,7 @@
   {
     "id": "9f318c81",
     "name": "海人 門司港本店",
-    "genre": "sushi",
+    "genre": "washoku",
     "prefecture": "福岡県",
     "city": "北九州市",
     "address": "福岡県北九州市門司区港町",
@@ -88184,7 +87687,7 @@
   {
     "id": "37c9d7cd",
     "name": "SUSHI BANYA KAI 品川店",
-    "genre": "sushi",
+    "genre": "washoku",
     "prefecture": "東京都",
     "city": "港区",
     "address": "東京都港区港南2-16-3 品川グランドセントラルタワー 1F",
@@ -89389,7 +88892,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "sushi",
+    "genre": "washoku",
     "prefecture": "東京都",
     "area": "押上",
     "lat": 35.71023633790687,
@@ -89707,7 +89210,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都港区西麻布4-11-28",
     "lat": 35.65935203791057,
     "lng": 139.72252318303242,
@@ -89735,7 +89238,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都品川区上大崎3丁目5-4",
     "lat": 35.63453403792535,
     "lng": 139.71944618278388,
@@ -89763,7 +89266,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "埼玉県新座市栄2丁目7-34",
     "lat": 35.77425413779136,
     "lng": 139.5773666842948,
@@ -89790,7 +89293,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "千葉県千葉市美浜区幸町1丁目18-1",
     "lat": 35.61457693805953,
     "lng": 140.10101388231487,
@@ -89818,7 +89321,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "沖縄県中頭郡読谷村座喜味1893",
     "lat": 26.394147974818583,
     "lng": 127.72637460356847,
@@ -89846,7 +89349,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "居酒屋",
+    "genre": "izakaya",
     "address": "高知県南国市大そね乙1024",
     "lat": 33.56504193811159,
     "lng": 133.64815686729767,
@@ -89875,7 +89378,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "和食",
+    "genre": "washoku",
     "address": "京都府京都市左京区下鴨宮河町62",
     "lat": 35.034183037050134,
     "lng": 135.77399057948546,
@@ -89903,7 +89406,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "和食",
+    "genre": "washoku",
     "address": "群馬県高崎市八島町265",
     "lat": 36.32260143726215,
     "lng": 139.00922199023188,
@@ -89932,7 +89435,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "和食",
+    "genre": "washoku",
     "address": "石川県金沢市寺町5丁目1-8",
     "lat": 36.555241736363506,
     "lng": 136.65139049423453,
@@ -89961,7 +89464,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "山梨県南都留郡富士河口湖町船津6931",
     "lat": 35.49050343771152,
     "lng": 138.76077808200108,
@@ -89990,7 +89493,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "居酒屋",
+    "genre": "izakaya",
     "address": "東京都杉並区阿佐谷南3丁目37-9",
     "lat": 35.70437063785401,
     "lng": 139.63475788354867,
@@ -90019,7 +89522,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都台東区浅草1丁目36-2",
     "lat": 35.712473398705896,
     "lng": 139.7969524046786,
@@ -90048,7 +89551,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "東京都中央区銀座6丁目9-8",
     "lat": 35.669805408722254,
     "lng": 139.76322967427126,
@@ -90076,7 +89579,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都中央区銀座2丁目4-6",
     "lat": 35.6740459087205,
     "lng": 139.76617866431204,
@@ -90105,7 +89608,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "和食",
+    "genre": "washoku",
     "address": "埼玉県深谷市大塚334",
     "lat": 36.22495367821397,
     "lng": 139.27433231022147,
@@ -90133,7 +89636,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "愛知県一宮市西大海道中寺59",
     "lat": 35.31713311801466,
     "lng": 136.83802307275943,
@@ -90161,7 +89664,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "愛知県一宮市千秋町佐野郷西40-1",
     "lat": 35.302605738029406,
     "lng": 136.85534684260057,
@@ -90189,7 +89692,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "愛知県名古屋市中区千代田5丁目21-6",
     "lat": 35.15760758814109,
     "lng": 136.91687934109282,
@@ -90217,7 +89720,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "スイーツ",
+    "genre": "sweets",
     "address": "京都府京都市左京区下鴨松ノ木町53",
     "lat": 35.039669917851,
     "lng": 135.7707726007049,
@@ -90246,7 +89749,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "鳥取県米子市明治町262",
     "lat": 35.42348910683153,
     "lng": 133.3350383962892,
@@ -90274,7 +89777,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "静岡県浜松市中央区佐藤1丁目25-8",
     "lat": 34.713348153487374,
     "lng": 137.7454056040436,
@@ -90303,7 +89806,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "静岡県浜松市中央区神ケ谷町4540",
     "lat": 34.72190549865957,
     "lng": 137.67596461615972,
@@ -90331,7 +89834,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "石川県金沢市野町2丁目24-7",
     "lat": 36.55669836716658,
     "lng": 136.64707772541405,
@@ -90360,7 +89863,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "宮城県宮城郡松島町松島町内88-1",
     "lat": 38.37017150742084,
     "lng": 141.06209263063698,
@@ -90389,7 +89892,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "宮城県仙台市青葉区立町23-14",
     "lat": 38.264484507424854,
     "lng": 140.86390574970838,
@@ -90418,7 +89921,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "宮城県仙台市青葉区中央2丁目1-27",
     "lat": 38.261287137431616,
     "lng": 140.87876597966567,
@@ -90447,7 +89950,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "ラーメン",
+    "genre": "ramen",
     "address": "北海道苫小牧市春日町3丁目16-19",
     "lat": 42.64741131487445,
     "lng": 141.59642817346653,
@@ -90476,7 +89979,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "埼玉県上尾市本町3丁目11-13",
     "lat": 35.97892906847208,
     "lng": 139.59414335751225,
@@ -90505,7 +90008,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "スイーツ",
+    "genre": "sweets",
     "address": "東京都墨田区東向島1丁目2-14",
     "lat": 35.72347390870396,
     "lng": 139.81278759477863,
@@ -90534,7 +90037,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "神奈川県横浜市中区花咲町2丁目64",
     "lat": 35.45001576881939,
     "lng": 139.62990500214462,
@@ -90563,7 +90066,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "神奈川県藤沢市大庭5559-8",
     "lat": 35.36561368881276,
     "lng": 139.4407546214247,
@@ -90591,7 +90094,7 @@
     "groups": [
       "kodoku_no_gurume"
     ],
-    "genre": "中華",
+    "genre": "chuka",
     "address": "東京都文京区千石4丁目43-5",
     "lat": 35.7303725186768,
     "lng": 139.74129223489842,
@@ -90620,7 +90123,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "栃木県宇都宮市馬場通り2丁目3-12",
     "lat": 36.56077858819524,
     "lng": 139.88525537318537,
@@ -90649,7 +90152,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "栃木県宇都宮市二荒町5-11",
     "lat": 36.558742608197356,
     "lng": 139.88781794316301,
@@ -90677,7 +90180,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "静岡県浜松市中央区砂山町356-5",
     "lat": 34.70197231538629,
     "lng": 137.73487005394387,
@@ -90706,7 +90209,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "静岡県浜松市中央区中野町1030-1",
     "lat": 34.728922618694625,
     "lng": 137.80002454614362,
@@ -90734,7 +90237,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "スイーツ",
+    "genre": "sweets",
     "address": "東京都稲城市百村1464-12",
     "lat": 35.63262273785751,
     "lng": 139.5026333829166,
@@ -90763,7 +90266,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "神奈川県三浦市三崎5丁目5-4",
     "lat": 35.141249509011104,
     "lng": 139.61609407903552,
@@ -90791,7 +90294,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "神奈川県三浦市三崎1丁目9-11",
     "lat": 35.1418972190124,
     "lng": 139.62147894903828,
@@ -90819,7 +90322,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "神奈川県三浦市南下浦町松輪264",
     "lat": 35.143128825486784,
     "lng": 139.66819973941458,
@@ -90847,7 +90350,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "静岡県沼津市千本港町83",
     "lat": 35.0838229380008,
     "lng": 138.858080877825,
@@ -90875,7 +90378,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "静岡県沼津市千本港町121-2",
     "lat": 35.08243941061607,
     "lng": 138.85794248413512,
@@ -90903,7 +90406,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "千葉県銚子市新生町1丁目36-11",
     "lat": 35.733843989023924,
     "lng": 140.8381960141646,
@@ -90931,7 +90434,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "千葉県銚子市飯沼町186-104",
     "lat": 35.73348000902494,
     "lng": 140.8406425541592,
@@ -90959,7 +90462,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "千葉県銚子市飯沼町186-103",
     "lat": 35.733444329024934,
     "lng": 140.8405704941589,
@@ -90988,7 +90491,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都世田谷区代沢5丁目29-9",
     "lat": 35.65842642869886,
     "lng": 139.66707356422376,
@@ -91017,7 +90520,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都世田谷区北沢2丁目33-6",
     "lat": 35.6630341586965,
     "lng": 139.66883637426903,
@@ -91046,7 +90549,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都世田谷区代沢5丁目36-8",
     "lat": 35.659281138698255,
     "lng": 139.6668802442325,
@@ -91075,7 +90578,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都千代田区神田小川町3丁目10-7",
     "lat": 35.696295237899484,
     "lng": 139.76141088337832,
@@ -91104,7 +90607,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "東京都千代田区神田神保町1丁目20-3",
     "lat": 35.69680328870394,
     "lng": 139.75953205454653,
@@ -91133,7 +90636,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "埼玉県川越市仲町2-2",
     "lat": 35.92120366847341,
     "lng": 139.48321303700692,
@@ -91162,7 +90665,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "和食",
+    "genre": "washoku",
     "address": "埼玉県川越市幸町1-10",
     "lat": 35.922321337667164,
     "lng": 139.4826923858568,
@@ -91191,7 +90694,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "食事",
+    "genre": "shokuji",
     "address": "宮城県仙台市青葉区一番町4丁目4-1",
     "lat": 38.26263847742815,
     "lng": 140.87057902968508,
@@ -91219,7 +90722,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "カフェ",
+    "genre": "cafe",
     "address": "栃木県那須郡那須町湯本656-2",
     "lat": 37.06907000651817,
     "lng": 139.99979241572208,
@@ -91247,7 +90750,7 @@
     "groups": [
       "snowman"
     ],
-    "genre": "ラーメン",
+    "genre": "ramen",
     "address": "栃木県佐野市田島町232",
     "lat": 36.29108136826427,
     "lng": 139.56416847068627,

@@ -40,6 +40,7 @@ GROUP_LABELS = {
     "kpop_riize":      "RIIZE",
     "kpop_nct":        "NCT",
     "kpop_twice":      "TWICE",
+    "kanjani":         "関ジャニ∞",
     "kpop_aespa":      "aespa",
     "kpop_ive":        "IVE",
     "numberi":         "Number_i",

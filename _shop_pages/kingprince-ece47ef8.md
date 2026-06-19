@@ -11,6 +11,8 @@ address: "山梨県南アルプス市小笠原1603"
 source_video_title: "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi"
 group: "kingprince"
+lat: 35.7098
+lng: 138.3876
 members:
   - "永瀬廉"
   - "髙橋海人"

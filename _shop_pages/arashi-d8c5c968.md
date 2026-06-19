@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「チョンギワ 新館」"
-description: "嵐にしやがれで紹介されたothers「チョンギワ 新館」。食べログ3.48点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「チョンギワ 新館」（東京都新宿区）。食べログ3.48点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-d8c5c968-"
 name: "チョンギワ 新館"
 genre: "others"
+prefecture: "東京都"
+city: "新宿区"
 nearest_station: "赤坂駅 徒歩3分"
 price_range: "￥8,000～￥9,999"
 source_video_title: "嵐にしやがれ"

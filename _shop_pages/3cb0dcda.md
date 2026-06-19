@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「海鮮丼 佐政」"
-description: "それスノで紹介された食事「海鮮丼 佐政」（静岡県）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたshokuji「海鮮丼 佐政」（静岡県）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "3cb0dcda"
 name: "海鮮丼 佐政"
-genre: "食事"
+genre: "shokuji"
 prefecture: "静岡県"
 address: "静岡県沼津市千本港町83"
 price_range: "￥1,000～￥1,999"

@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「喜福世」"
-description: "嵐にしやがれで紹介されたothers「喜福世」。食べログ3.53点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「喜福世」（東京都狛江市）。食べログ3.53点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-20b0b313-"
 name: "喜福世"
 genre: "others"
+prefecture: "東京都"
+city: "狛江市"
 nearest_station: "小田急多摩センター駅 徒歩9分"
 price_range: "￥10,000～￥14,999"
 source_video_title: "嵐にしやがれ"

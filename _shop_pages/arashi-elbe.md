@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「elbe」"
-description: "嵐にしやがれで紹介されたothers「elbe」。食べログ3.52点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「elbe」（宮城県仙台市）。食べログ3.52点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-elbe-"
 name: "elbe"
 genre: "others"
+prefecture: "宮城県"
+city: "仙台市"
 nearest_station: "青葉通一番町駅 徒歩4分"
 price_range: "￥3,000～￥3,999"
 source_video_title: "嵐にしやがれ"

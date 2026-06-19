@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「ペニーレイン 那須店」"
-description: "それスノで紹介されたカフェ「ペニーレイン 那須店」（栃木県）。食べログ3.58点。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたcafe「ペニーレイン 那須店」（栃木県）。食べログ3.58点。推し活グルメ巡礼スポット。"
 shop_id: "ab24cee8"
 name: "ペニーレイン 那須店"
-genre: "カフェ"
+genre: "cafe"
 prefecture: "栃木県"
 address: "栃木県那須郡那須町湯本656-2"
 price_range: "-"

@@ -10,6 +10,8 @@ city: "北杜市"
 address: "北杜市高根町清里３５４５"
 source_video_title: "走れバイシクル松村個人pv"
 group: "nogizaka46"
+lat: 35.9007
+lng: 138.4253
 groups:
   - "nogizaka46"
 ---

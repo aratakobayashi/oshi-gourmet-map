@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "日向坂46が行った「San Francisco Peaks」"
-description: "日向坂46のYouTubeで紹介されたshokuji「San Francisco Peaks」。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "日向坂46のYouTubeで紹介されたshokuji「San Francisco Peaks」（東京都渋谷区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "shokuji"
+prefecture: "東京都"
+city: "渋谷区"
 nearest_station: "明治神宮前〈原宿〉駅 徒歩9分"
 price_range: "￥3,000～￥3,999"
 youtube_id: "KcpvHDt0bPc"

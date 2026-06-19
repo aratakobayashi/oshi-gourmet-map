@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「Jose Luis」"
-description: "嵐にしやがれで紹介されたothers「Jose Luis」。食べログ3.52点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「Jose Luis」（長野県長野市）。食べログ3.52点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-jose_luis-"
 name: "Jose Luis"
 genre: "others"
+prefecture: "長野県"
+city: "長野市"
 nearest_station: "軽井沢駅 徒歩11分"
 price_range: "￥5,000～￥5,999"
 source_video_title: "嵐にしやがれ"

@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「恵比寿 ガパオ食堂」"
-description: "嵐にしやがれで紹介されたothers「恵比寿 ガパオ食堂」。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「恵比寿 ガパオ食堂」（東京都渋谷区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-8576ad62-"
 name: "恵比寿 ガパオ食堂"
 genre: "others"
+prefecture: "東京都"
+city: "渋谷区"
 nearest_station: "恵比寿駅 徒歩3分"
 price_range: "￥3,000～￥3,999"
 source_video_title: "嵐にしやがれ"

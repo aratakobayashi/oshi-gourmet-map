@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「アントニオ 南青山本店」"
-description: "嵐にしやがれで紹介されたothers「アントニオ 南青山本店」。食べログ3.61点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「アントニオ 南青山本店」（東京都港区）。食べログ3.61点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-0d55c6e8-"
 name: "アントニオ 南青山本店"
 genre: "others"
+prefecture: "東京都"
+city: "港区"
 nearest_station: "表参道駅 徒歩10分"
 price_range: "￥10,000～￥14,999"
 source_video_title: "嵐にしやがれ"

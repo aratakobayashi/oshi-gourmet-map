@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "嵐が行った「CAFE & GRILL」"
-description: "嵐にしやがれで紹介されたothers「CAFE & GRILL」。食べログ3.55点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「CAFE & GRILL」（東京都台東区）。食べログ3.55点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-cafe_grill-"
 name: "CAFE & GRILL"
 genre: "others"
+prefecture: "東京都"
+city: "台東区"
 nearest_station: "神保町駅 徒歩3分"
 price_range: "￥5,000～￥5,999"
 source_video_title: "嵐にしやがれ"

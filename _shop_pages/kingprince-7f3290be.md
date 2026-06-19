@@ -11,6 +11,8 @@ address: "埼玉県東松山市あずま町4−3 ピオニウォーク 1階"
 source_video_title: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？"
 source_url: "https://kosodate-and.net/ferrerorocher-ren-jupiter-panel"
 group: "kingprince"
+lat: 36.0298
+lng: 139.3996
 members:
   - "永瀬廉"
   - "髙橋海人"

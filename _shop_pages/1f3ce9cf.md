@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Snow Manが行った「麺屋 ようすけ」"
-description: "それスノで紹介されたラーメン「麺屋 ようすけ」（栃木県）。食べログ3.76点、～￥999。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたramen「麺屋 ようすけ」（栃木県）。食べログ3.76点、～￥999。推し活グルメ巡礼スポット。"
 shop_id: "1f3ce9cf"
 name: "麺屋 ようすけ"
-genre: "ラーメン"
+genre: "ramen"
 prefecture: "栃木県"
 address: "栃木県佐野市田島町232"
 nearest_station: "田島駅 徒歩1分"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "空弁工房"
-description: "イキスギさんについてった 羽田空港回 2023-06-13（藤井流星）で紹介された食事「空弁工房」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 羽田空港回 2023-06-13（藤井流星）で紹介されたshokuji「空弁工房」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "0acf2c2e"
 name: "空弁工房"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区羽田空港3丁目"

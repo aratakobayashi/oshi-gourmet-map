@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "権八 西麻布"
-description: "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）で紹介された食事「権八 西麻布」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）で紹介されたshokuji「権八 西麻布」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "4dcae48d"
 name: "権八 西麻布"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布"

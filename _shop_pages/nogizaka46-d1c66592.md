@@ -1,10 +1,12 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カフェアトランティス」"
-description: "夏のFree&Easy　白石 個人PVで紹介されたcafe「カフェアトランティス」。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "夏のFree&Easy　白石 個人PVで紹介されたcafe「カフェアトランティス」（東京都港区）。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-d1c66592-"
 name: "カフェアトランティス"
 genre: "cafe"
+prefecture: "東京都"
+city: "港区"
 address: "港区南青山３丁目１８−１９"
 price_range: "￥8,000～￥9,999"
 source_video_title: "夏のFree&Easy　白石 個人PV"

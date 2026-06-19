@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「CABE チャベ目黒店」"
-description: "孤独のグルメ Season10 Episode2で紹介された食事「CABE チャベ目黒店」（東京都）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 Episode2で紹介されたshokuji「CABE チャベ目黒店」（東京都）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "eec942aa"
 name: "CABE チャベ目黒店"
-genre: "食事"
+genre: "shokuji"
 prefecture: "東京都"
 address: "東京都品川区上大崎3丁目5-4"
 nearest_station: "目黒駅 徒歩6分"

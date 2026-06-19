@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Chợ nổi カントー水上マーケット"
-description: "リア突WEST ベトナムPart4 2023-05-21（神山智洋）で紹介された食事「Chợ nổi カントー水上マーケット」（ベトナムカントー）。推し活グルメ巡礼スポット。"
+description: "リア突WEST ベトナムPart4 2023-05-21（神山智洋）で紹介されたshokuji「Chợ nổi カントー水上マーケット」（ベトナムカントー）。推し活グルメ巡礼スポット。"
 shop_id: "5aefb4c5"
 name: "Chợ nổi カントー水上マーケット"
-genre: "食事"
+genre: "shokuji"
 prefecture: "ベトナム"
 city: "カントー"
 address: "103 ĐT923, An Bình, Ninh Kiều, Cần Thơ, ベトナム"

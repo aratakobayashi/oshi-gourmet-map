@@ -26,6 +26,7 @@ GROUP_LABELS_MAP = {
     'kpop_riize':'RIIZE','kpop_nct':'NCT','kpop_bts':'BTS','kpop_twice':'TWICE',
     'kpop_straykids':'Stray Kids','kpop_lesserafim':'LE SSERAFIM','kpop_blackpink':'BLACKPINK',
     'kpop_aespa':'aespa','kpop_ive':'IVE',
+    'kanjani':'関ジャニ∞',
 }
 
 def build_seo_description(shop):

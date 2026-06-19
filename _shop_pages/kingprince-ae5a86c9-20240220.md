@@ -12,6 +12,8 @@ visited_date: "2024-02-20"
 source_video_title: "【キントレ】マリオンクレープは関西・大阪にもある？"
 source_url: "https://kosodate-and.net/kintore-marion-crepe"
 group: "kingprince"
+lat: 34.5198
+lng: 135.5148
 members:
   - "永瀬廉"
   - "髙橋海人"
