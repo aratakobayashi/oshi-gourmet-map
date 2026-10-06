@@ -4812,3 +4812,69 @@ body {
 
 /* ── PR表記（アフィリエイトリンクがあるページ） ── */
 .pr-notice { display: inline-block; margin-bottom: 8px; padding: 2px 10px; border-radius: 999px; font-size: 11px; color: #6b7280; background: #f3f4f6; }
+
+/* ── 推し活ガイド（_guides / /guide/） ── */
+.guide-index { padding-top: 16px; padding-bottom: 56px; }
+.guide-index__header { margin-bottom: 28px; }
+.guide-index__title { font-size: 1.6rem; font-weight: 700; margin-bottom: 6px; }
+.guide-index__lead { color: var(--color-text-muted); margin-bottom: 14px; }
+.guide-index__jump { display: flex; flex-wrap: wrap; gap: 8px; }
+.guide-index__section { margin-top: 36px; scroll-margin-top: 80px; }
+.guide-index__section-title { font-size: 1.25rem; font-weight: 700; margin-bottom: 4px; }
+.guide-index__count { font-size: 0.85rem; color: var(--color-text-muted); font-weight: 400; }
+.guide-index__section-desc { color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: 14px; }
+.guide-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.guide-card {
+  display: flex; flex-direction: column; background: var(--color-surface); border-radius: var(--radius);
+  box-shadow: var(--shadow); overflow: hidden; color: var(--color-text); transition: var(--transition);
+}
+.guide-card:hover { box-shadow: var(--shadow-hover); text-decoration: none; transform: translateY(-2px); }
+.guide-card__img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.guide-card__title { padding: 12px 14px 14px; font-size: 0.92rem; font-weight: 700; line-height: 1.55; }
+@media (max-width: 600px) { .guide-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card__title { font-size: 0.82rem; padding: 10px; } }
+
+.guide-body img { height: auto; max-width: 100%; }
+.guide-body iframe { max-width: 100%; }
+.guide-body iframe[src*="youtube"] { width: 100%; height: auto; aspect-ratio: 16 / 9; }
+.guide-body table { display: block; overflow-x: auto; }
+.guide-body .aligncenter { margin-left: auto; margin-right: auto; }
+
+/* SWELL の吹き出しブロック */
+.guide-body .c-balloon { display: flex; align-items: flex-start; gap: 12px; margin: 1.4em 0; }
+.guide-body .c-balloon__icon { flex: 0 0 56px; }
+.guide-body .c-balloon__iconImg { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; }
+.guide-body .c-balloon__body { flex: 1; }
+.guide-body .c-balloon__text {
+  position: relative; padding: 12px 16px; border-radius: 12px; background: #f0f7ff;
+  border: 1px solid #cfe3fb; line-height: 1.8;
+}
+.guide-body .c-balloon__shapes { display: none; }
+.guide-body .c-balloon.-bln-right { flex-direction: row-reverse; }
+
+/* 埋め込み（スクリプト読み込み前の表示） */
+.guide-body blockquote.twitter-tweet, .guide-body blockquote.instagram-media {
+  background: #f8fafc; border-left: 4px solid #cbd5e1; padding: 12px 16px; margin: 1.4em 0;
+}
+.guide-body blockquote.twitter-tweet::before, .guide-body blockquote.instagram-media::before { content: none; }
+
+/* 会場周辺の聖地グルメ・関連記事 */
+.guide-nearby, .guide-related {
+  margin: 40px 0 24px; padding: 20px; background: var(--color-surface); border-radius: var(--radius); box-shadow: var(--shadow);
+}
+.guide-nearby__title, .guide-related__title { font-size: 1.15rem; font-weight: 700; margin-bottom: 6px; }
+.guide-nearby__lead { font-size: 0.85rem; color: var(--color-text-muted); margin-bottom: 12px; }
+.guide-nearby__list { display: grid; gap: 10px; margin-bottom: 16px; }
+.guide-nearby__empty { padding: 12px 14px; background: #fffbeb; border-radius: 8px; font-size: 0.9rem; }
+.guide-nearby__more { display: inline-block; }
+.guide-related__list { padding-left: 1.2em; }
+.guide-related__list li { margin-bottom: 6px; }
+.article-main > .pr-notice { margin-bottom: 12px; }
+.guide-nearby__list { grid-template-columns: minmax(0, 1fr); }
+.guide-nearby__list .inline-shop-card { margin: 0; min-width: 0; }
+.guide-nearby__list .inline-shop-card__body { min-width: 0; }
+@media (max-width: 600px) { .guide-nearby__list .inline-shop-card__thumb { flex-basis: 110px; } .guide-nearby { padding: 16px 12px; } }
+.guide-body { overflow-wrap: anywhere; }
+.guide-body .instagram-media, .guide-body iframe.instagram-media, .guide-body .tiktok-embed { min-width: 0 !important; max-width: 100% !important; }
+.guide-body [style*="nowrap"] { overflow: hidden; max-width: 100%; }
+.guide-body iframe, .guide-body blockquote { max-width: 100% !important; box-sizing: border-box; }
+.guide-body iframe.instagram-media { position: static !important; width: 100% !important; }

@@ -1,0 +1,92 @@
+{
+  "aichi-sky-expo": {
+    "name": "Aichi Sky Expo",
+    "lat": 34.856318,
+    "lng": 136.821204
+  },
+  "ariake-arena": {
+    "name": "有明アリーナ",
+    "lat": 35.643341,
+    "lng": 139.794463
+  },
+  "asue-arena-osaka": {
+    "name": "Asueアリーナ大阪",
+    "lat": 34.65963,
+    "lng": 135.44485
+  },
+  "hokkai-kitaeru": {
+    "name": "北海きたえーる",
+    "lat": 43.043985,
+    "lng": 141.376249
+  },
+  "kobe-world-kinen-hall": {
+    "name": "神戸ワールド記念ホール",
+    "lat": 34.663981,
+    "lng": 135.210142
+  },
+  "marine-messe-fukuoka": {
+    "name": "マリンメッセ福岡",
+    "lat": 33.607279,
+    "lng": 130.402104
+  },
+  "musashino-forest-sport-plaza": {
+    "name": "武蔵野の森総合スポーツプラザ",
+    "lat": 35.666291,
+    "lng": 139.523877
+  },
+  "nippon-gaishi-hall": {
+    "name": "日本ガイシホール",
+    "lat": 35.09582,
+    "lng": 136.923324
+  },
+  "nissan-stadium": {
+    "name": "日産スタジアム",
+    "lat": 35.509988,
+    "lng": 139.606382
+  },
+  "osaka-jo-hall": {
+    "name": "大阪城ホール",
+    "lat": 34.689644,
+    "lng": 135.530103
+  },
+  "pia-arena-mm": {
+    "name": "ぴあアリーナMM",
+    "lat": 35.455818,
+    "lng": 139.628366
+  },
+  "qa-stadium-miyagi": {
+    "name": "キューアンドエースタジアムみやぎ",
+    "lat": 38.335361,
+    "lng": 140.950457
+  },
+  "saitama-super-arena": {
+    "name": "さいたまスーパーアリーナ",
+    "lat": 35.89512,
+    "lng": 139.630753
+  },
+  "sapporo-dome": {
+    "name": "札幌ドーム",
+    "lat": 43.016666,
+    "lng": 141.411332
+  },
+  "shizuoka-ecopa-arena": {
+    "name": "エコパアリーナ",
+    "lat": 34.745177,
+    "lng": 137.968741
+  },
+  "xebio-arena-sendai": {
+    "name": "ゼビオアリーナ仙台",
+    "lat": 38.230297,
+    "lng": 140.887247
+  },
+  "yokohama-arena": {
+    "name": "横浜アリーナ",
+    "lat": 35.512273,
+    "lng": 139.620192
+  },
+  "yoyogi-national-gymnasium": {
+    "name": "国立代々木競技場第一体育館",
+    "lat": 35.667058,
+    "lng": 139.699778
+  }
+}
