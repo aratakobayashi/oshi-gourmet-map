@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あじろ亭"
-description: "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤで紹介されたshokuji「あじろ亭」（岐阜県岐阜市）。食べログ3.25点。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-07-25 謎の料理ミヤビヤで紹介されたshokuji「あじろ亭」（岐阜県岐阜市）。推し活グルメ巡礼スポット。"
 shop_id: "west-1aba8e69-"
 name: "あじろ亭"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・水・土・日 11:30 - 14:00 木・金 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.428194
 lng: 136.767945
-tabelog_score: 3.25
 members:
   - "藤井流星"
 groups:

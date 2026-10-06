@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「EATALY HARAJUKU」"
-description: "嵐にしやがれ グルメデスマッチで紹介されたshokuji「EATALY HARAJUKU」（東京都）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれ グルメデスマッチで紹介されたshokuji「EATALY HARAJUKU」（東京都）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "cff48af9"
 name: "EATALY HARAJUKU"
 genre: "shokuji"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/135
 business_hours: "11:00 - 22:00 L.O. 21:00 ■ 営業時間＊営業時間は変更になる場合がございます。■ 定休日ウィズ原宿営業日に基づく"
 lat: 35.67073495208256
 lng: 139.70342196670856
-tabelog_score: 3.44
 groups:
   - "arashi"
 ---

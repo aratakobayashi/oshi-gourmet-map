@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥貴族 新宿東口店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「鳥貴族 新宿東口店」（東京都新宿区）。食べログ3.05点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「鳥貴族 新宿東口店」（東京都新宿区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-toriki-shinjuku"
 name: "鳥貴族 新宿東口店"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
 business_hours: "月・火・水・木・金 14:00 - 04:00 L.O. 03:30 土・日・祝日 00:00 - 04:00 L.O. 03:30 ■ 定休日年末年始(12/31・1/1)※営業時間に関するお知らせ※店舗状況により、臨時休業や営業時間を短縮している場合がございます。その為、恐れ入りますが各店舗の営業状況は鳥貴族公式ホームページをご確認ください。"
 lat: 35.6936
 lng: 139.7038
-tabelog_score: 3.05
 groups:
   - "sixtones"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "東印度カレー商会 築地場外店"
-description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介されたshokuji「東印度カレー商会 築地場外店」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？で紹介されたshokuji「東印度カレー商会 築地場外店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-33db77e2-"
 name: "東印度カレー商会 築地場外店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/441
 business_hours: "月・火・水・木・金 10:00 - 15:00 土・日・祝日 08:00 - 15:00 ■ 定休日不定休"
 lat: 35.66539975872732
 lng: 139.77034109422178
-tabelog_score: 3.66
 members:
   - "堂本光一"
   - "堂本剛"

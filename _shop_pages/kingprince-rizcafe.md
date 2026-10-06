@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「RIZCAFE(リズカフェ)」"
-description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたcafe「RIZCAFE(リズカフェ)」（三重県津市）。食べログ3.09点。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたcafe「RIZCAFE(リズカフェ)」（三重県津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-rizcafe-"
 name: "RIZCAFE(リズカフェ)"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/187
 business_hours: "火・水・木・金・土・日 11:00 - 18:00 月 定休日 ■ 定休日月曜日（祝日営業） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.717065637485774
 lng: 136.50950887576673
-tabelog_score: 3.09
 members:
   - "永瀬廉"
   - "髙橋海人"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カトリカ」"
-description: "孤独のグルメ Season7 第7話で紹介されたshokuji「カトリカ」（東京都墨田区）。食べログ3.68点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第7話で紹介されたshokuji「カトリカ」（東京都墨田区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0890de3d-"
 name: "カトリカ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "不定休のため、営業時間はお電話でお問い合わせください。ご予約はお電話でのみ受け付けます。"
 lat: 35.7104196
 lng: 139.8017421
-tabelog_score: 3.68
 members:
   - "井之頭五郎"
 groups:

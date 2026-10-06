@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キセキ食堂 上尾店」"
-description: "孤独のグルメ Season7 第1話で紹介されたwashoku「キセキ食堂 上尾店」（埼玉県上尾市）。食べログ3.62点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第1話で紹介されたwashoku「キセキ食堂 上尾店」（埼玉県上尾市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2d40fc9e-"
 name: "キセキ食堂 上尾店"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 10:00 - 14:30 土・日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9774082
 lng: 139.5930504
-tabelog_score: 3.62
 members:
   - "井之頭五郎"
 groups:

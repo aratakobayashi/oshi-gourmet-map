@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「BALLPARK BURGER &9」"
-description: "=LOVEのYouTubeで紹介されたshokuji「BALLPARK BURGER &9」（神奈川県横浜市）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「BALLPARK BURGER &9」（神奈川県横浜市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/xUoPnF8uUXY/hqdefault.jpg"
 business_hours: "火・水・木・金・土・日 11:00 - 22:00 L.O. 21:00 月 定休日 ■ 営業時間ナイター開催日：11:00～22:00(ラストオーダー フード21:00／ドリンク21:00)※横浜スタジアム試合開催スケジュールにより変更になる場合がございます。詳しくは店舗へ直接お問合せください※興行日はハンバーガーのメニュー数を絞って販売します。予めご了承ください。■ 定休日月曜日が祝日の場合は"
 lat: 35.6812
 lng: 139.7671
-tabelog_score: 3.43
 members:
   - "大場花菜"
   - "瀧脇笙古"

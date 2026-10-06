@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
-description: "Snow ManのYouTubeで紹介されたwashoku「GINZA SUSHI BANYA KAI」（東京都中央区）。食べログ3.51点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「GINZA SUSHI BANYA KAI」（東京都中央区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日 12:00 - 14:30 L.O. 13:30 17:00 - 22:30 L.O. 21:30 13時からの予約は滞在時間が最大90分となります。"
 lat: 35.6727
 lng: 139.7683
-tabelog_score: 3.51
 members:
   - "渡辺翔太"
   - "向井康二"

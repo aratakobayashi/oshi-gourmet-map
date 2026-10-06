@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「NEWかれいど」"
-description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたramen「NEWかれいど」（埼玉県川越市）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたramen「NEWかれいど」（埼玉県川越市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-new-20250603"
 name: "NEWかれいど"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352
 business_hours: "火・水・木・金 11:30 - 21:00 土・日 11:00 - 21:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.918918
 lng: 139.482637
-tabelog_score: 3.12
 members:
   - "橋本将生"
   - "猪俣周杜"

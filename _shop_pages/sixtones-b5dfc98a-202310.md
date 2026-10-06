@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「京料理 六盛」"
-description: "SixTONESのYouTubeで紹介されたwashoku「京料理 六盛」（京都府京都市左京区）。食べログ3.43点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「京料理 六盛」（京都府京都市左京区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b5dfc98a-202310"
 name: "京料理 六盛"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/kDFP1_FLpJc/hqdefault.jpg"
 business_hours: "火・水・木・金・土・日 14:00 - 17:00 月 定休日 ■ 定休日月曜日（祝日の場合は翌日）"
 lat: 35.0141
 lng: 135.7811
-tabelog_score: 3.43
 members:
   - "ジェシー"
   - "京本大我"

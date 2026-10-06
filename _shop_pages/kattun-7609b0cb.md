@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ミートファクトリー しまちゃん"
-description: "【亀チャンネル】亀梨和也が大阪で一人焼肉の焼肉屋さんはどこ？堺市？で紹介されたothers「ミートファクトリー しまちゃん」（大阪府堺市）。食べログ3.18点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "【亀チャンネル】亀梨和也が大阪で一人焼肉の焼肉屋さんはどこ？堺市？で紹介されたothers「ミートファクトリー しまちゃん」（大阪府堺市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kattun-7609b0cb-"
 name: "ミートファクトリー しまちゃん"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/213
 business_hours: "17:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
 lat: 34.57932814514955
 lng: 135.47711348932836
-tabelog_score: 3.18
 members:
   - "亀梨和也"
   - "中丸雄一"

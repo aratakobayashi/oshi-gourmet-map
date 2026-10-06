@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「武蔵野アブラ學会 早稲田別館」"
-description: "Snow ManのYouTubeで紹介されたramen「武蔵野アブラ學会 早稲田別館」（東京都新宿区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたramen「武蔵野アブラ學会 早稲田別館」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-abura-gakkai-waseda"
 name: "武蔵野アブラ學会 早稲田別館"
 genre: "ramen"
@@ -21,7 +21,6 @@ seating_note: "2階の座敷席。無限ライスとお水が置いてあるカ�
 business_hours: "月・火・水・木・金・土 10:30 - 23:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7072
 lng: 139.7192
-tabelog_score: 3.32
 members:
   - "岩本照"
   - "ラウール"

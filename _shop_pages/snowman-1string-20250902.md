@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「新木場1stRING」"
-description: "Snow ManのYouTubeで紹介されたshokuji「新木場1stRING」（東京都江東区）。食べログ3.07点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「新木場1stRING」（東京都江東区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-1string-20250902"
 name: "新木場1stRING"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6459052
 lng: 139.8266597
-tabelog_score: 3.07
 members:
   - "岩本照"
   - "ラウール"

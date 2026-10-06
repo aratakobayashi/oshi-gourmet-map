@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Palms 22」"
-description: "King & Princeキンプリ『MODERN LOVE』撮影ロケ地はどこ？海外？日本のスタジオ？で紹介されたothers「Palms 22」（千葉県富津市）。食べログ3.0点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ『MODERN LOVE』撮影ロケ地はどこ？海外？日本のスタジオ？で紹介されたothers「Palms 22」（千葉県富津市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-palms_22-"
 name: "Palms 22"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 business_hours: "月・火・水・木・金・土 19:00 - 03:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2206546
 lng: 139.8719669
-tabelog_score: 3.0
 members:
   - "永瀬廉"
   - "髙橋海人"

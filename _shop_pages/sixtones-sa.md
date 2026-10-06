@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「佐野SA (下り)」"
-description: "SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！（2024/09/20配信回）で紹介されたramen「佐野SA (下り)」（栃木県佐野市）。食べログ3.24点、～￥999。推し活グルメ巡礼スポット。"
+description: "SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！（2024/09/20配信回）で紹介されたramen「佐野SA (下り)」（栃木県佐野市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sa-"
 name: "佐野SA (下り)"
 genre: "ramen"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.3170868
 lng: 139.6192795
-tabelog_score: 3.24
 members:
   - "ジェシー"
   - "京本大我"

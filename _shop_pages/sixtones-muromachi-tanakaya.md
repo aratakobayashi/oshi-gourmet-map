@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「室町 砂場」"
-description: "SixTONESのYouTubeで紹介されたwashoku「室町 砂場」（東京都中央区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「室町 砂場」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-muromachi-tanakaya"
 name: "室町 砂場"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/Ya8aKNX5vOs/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:30 L.O. 料理15:00 16:30 - 21:00 L.O. 料理20:30 土 11:30 - 16:00 L.O. 料理15:30 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6894
 lng: 139.7718
-tabelog_score: 3.66
 groups:
   - "sixtones"
 ---

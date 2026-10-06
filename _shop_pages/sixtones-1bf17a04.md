@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「国虎商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたothers「国虎商店」（東京都中央区）。食べログ3.07点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたothers「国虎商店」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-1bf17a04-"
 name: "国虎商店"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/231
 business_hours: "月・火・木・金・土 06:00 - 13:00 水・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.666291
 lng: 139.769449
-tabelog_score: 3.07
 members:
   - "ジェシー"
   - "京本大我"

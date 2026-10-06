@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Hohokam DINER」"
-description: "亀梨和也のYouTubeで紹介されたramen「Hohokam DINER」（東京都渋谷区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「Hohokam DINER」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-hohokam_diner-20240413"
 name: "Hohokam DINER"
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 20:00 L.O. 19:00 ■ 定休日年末年始"
 lat: 35.6698981
 lng: 139.7035252
-tabelog_score: 3.41
 members:
   - "亀梨和也"
 groups:

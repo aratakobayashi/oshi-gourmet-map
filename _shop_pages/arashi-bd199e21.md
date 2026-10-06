@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「中国料理 保昌」"
-description: "嵐にしやがれで紹介されたothers「中国料理 保昌」（群馬県前橋市）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「中国料理 保昌」（群馬県前橋市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-bd199e21-"
 name: "中国料理 保昌"
 genre: "others"
@@ -17,7 +17,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:00 - 15:00 L.O. 14:50 16:30 - 21:30 L.O. 21:00 土・日・祝日 10:30 - 21:30 L.O. 21:00 ■ 定休日6月2日"
 lat: 36.3772106
 lng: 139.2228765
-tabelog_score: 3.49
 groups:
   - "arashi"
 ---

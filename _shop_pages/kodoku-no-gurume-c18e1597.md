@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「テキサス津田沼」"
-description: "孤独のグルメ Season10 第2017話で紹介されたyakiniku「テキサス津田沼」（千葉県習志野市）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたyakiniku「テキサス津田沼」（千葉県習志野市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c18e1597-"
 name: "テキサス津田沼"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 17:00 - 23:00 L.O. 22:30 土・日・祝日 12:00 - 15:00 17:00 - 23:00"
 lat: 35.6816753
 lng: 140.0272065
-tabelog_score: 3.41
 members:
   - "井之頭五郎"
 groups:

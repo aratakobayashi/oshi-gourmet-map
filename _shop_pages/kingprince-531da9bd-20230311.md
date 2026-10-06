@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「パティシエ シマ」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「パティシエ シマ」（東京都千代田区）。食べログ3.62点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「パティシエ シマ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-531da9bd-20230311"
 name: "パティシエ シマ"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:00 - 19:00 土 11:00 - 17:00 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6852029087045
 lng: 139.73818808444435
-tabelog_score: 3.62
 members:
   - "平野紫耀"
   - "神宮寺勇太"

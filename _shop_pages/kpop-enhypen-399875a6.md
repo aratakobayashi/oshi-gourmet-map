@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「焼肉 零條」"
-description: "ENHYPENで紹介されたothers「焼肉 零條」（東京都港区）。食べログ3.2点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「焼肉 零條」（東京都港区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-399875a6-"
 name: "焼肉 零條"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/218
 business_hours: "■ 営業時間閉店中■定休日毎週月曜日"
 lat: 35.6705999
 lng: 139.7159289
-tabelog_score: 3.2
 members:
   - "ソヌ"
 groups:

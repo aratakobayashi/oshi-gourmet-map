@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カレー名人 新富町店"
-description: "イキスギさんについてった 2023-06-06 なのにツアーで紹介されたshokuji「カレー名人 新富町店」（東京都中央区）。食べログ3.29点。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-06-06 なのにツアーで紹介されたshokuji「カレー名人 新富町店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "west-b1f5daca-"
 name: "カレー名人 新富町店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6706504
 lng: 139.7734291
-tabelog_score: 3.29
 members:
   - "桐山照史"
 groups:

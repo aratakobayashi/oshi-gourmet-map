@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「麺散」"
-description: "TWICEで紹介されたothers「麺散」（東京都渋谷区）。食べログ3.58点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「麺散」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-29cabaf0-"
 name: "麺散"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/935
 business_hours: "11:30 - 22:00"
 lat: 35.666508038705835
 lng: 139.7051008842787
-tabelog_score: 3.58
 groups:
   - "kpop_twice"
 ---

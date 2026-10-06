@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ハグフラワー ヨコハマ（h.u.g-frower）」"
-description: "嵐にしやがれで紹介されたsweets「ハグフラワー ヨコハマ（h.u.g-frower）」（神奈川県横浜市）。食べログ3.46点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「ハグフラワー ヨコハマ（h.u.g-frower）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-h_u_g_frower-20200404"
 name: "ハグフラワー ヨコハマ（h.u.g-frower）"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4502452
 lng: 139.6401312
-tabelog_score: 3.46
 members:
   - "大野智"
   - "櫻井翔"

@@ -15,10 +15,10 @@ data/shops-lite.json（全件）および data/shops-lite-{group}.json（グル�
   thumbnail_url, youtube_id,
   members, visited_date,
   source_video_title, source_type,
-  tags, closed, tabelog_score, price_range
+  tags, closed, price_range
 
 パイプライン上の位置:
-  merge_shops.py → fetch_tabelog_thumbnails.py → generate_lite.py → generate_shop_pages.py
+  merge_shops.py → normalize_links.py → generate_lite.py → generate_shop_pages.py
 
 使い方:
   python scripts/generate_lite.py
@@ -38,7 +38,7 @@ KEEP = {
     'thumbnail_url', 'youtube_id',
     'members', 'visited_date',
     'source_video_title', 'source_type',
-    'tags', 'closed', 'tabelog_score', 'price_range',
+    'tags', 'closed', 'price_range',
 }
 
 def slim(shop):

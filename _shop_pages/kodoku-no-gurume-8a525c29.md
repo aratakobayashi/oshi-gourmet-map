@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ヒロキ 下北沢店」"
-description: "孤独のグルメ Season1 第9話で紹介されたwashoku「ヒロキ 下北沢店」（東京都世田谷区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第9話で紹介されたwashoku「ヒロキ 下北沢店」（東京都世田谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8a525c29-"
 name: "ヒロキ 下北沢店"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "12:00 - 21:30 ■定休日無休"
 lat: 35.6469025
 lng: 139.652531
-tabelog_score: 3.48
 members:
   - "井之頭五郎"
 groups:

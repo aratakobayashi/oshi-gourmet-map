@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「だるま」"
-description: "孤独のグルメ Season5 第2話で紹介されたshokuji「だるま」（東京都江東区）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第2話で紹介されたshokuji「だるま」（東京都江東区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f9b4f23d-"
 name: "だるま"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木・金 16:00 - 23:00 土・日・祝日 15:00 - 23:00 水 定休日 ■ 第1,3,5火曜日定休"
 lat: 35.6727747
 lng: 139.8169621
-tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

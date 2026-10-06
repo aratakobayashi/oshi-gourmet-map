@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「赤坂鮨兆」"
-description: "2016.05.18 高級レストランのランチ特集で紹介されたwashoku「赤坂鮨兆」（東京都港区）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "2016.05.18 高級レストランのランチ特集で紹介されたwashoku「赤坂鮨兆」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b2922bdd-20160518"
 name: "赤坂鮨兆"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
 lat: 35.6716786
 lng: 139.7356224
-tabelog_score: 3.02
 members:
   - "薮宏太"
   - "伊野尾慧"

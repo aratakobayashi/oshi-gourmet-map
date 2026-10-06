@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "パティスリーガレット"
-description: "【大阪平野駅】平野サブレはどこで買える？オンラインショップはある？で紹介されたothers「パティスリーガレット」（大阪府大阪市）。食べログ3.26点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【大阪平野駅】平野サブレはどこで買える？オンラインショップはある？で紹介されたothers「パティスリーガレット」（大阪府大阪市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "numberi-9c6aa5a1-"
 name: "パティスリーガレット"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/279
 business_hours: "月・木・金・土・日 11:00 - 19:00 火 11:00 - 17:00 水 定休日 ■ 営業時間(昼休み)13:00～14:00"
 lat: 34.6257107
 lng: 135.5549294
-tabelog_score: 3.26
 members:
   - "平野紫耀"
   - "神宮寺勇太"

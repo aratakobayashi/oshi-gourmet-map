@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キッチン友」"
-description: "孤独のグルメ Season2 第5話で紹介されたshokuji「キッチン友」（神奈川県横浜市）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第5話で紹介されたshokuji「キッチン友」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4be8d814-"
 name: "キッチン友"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・金・土・日 11:30 - 14:30 L.O. 料理14:30 17:30 - 20:00 L.O. 料理19:50 水・木 定休日"
 lat: 35.4503381
 lng: 139.6343802
-tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

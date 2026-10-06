@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「getti 中目黒」"
-description: "なにわ男子のどっち派 (2026-03-13)で紹介されたshokuji「getti 中目黒」（東京都目黒区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-13)で紹介されたshokuji「getti 中目黒」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-getti-20260313"
 name: "getti 中目黒"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 22:00 L.O. 21:00 不定休ランチ営業は16時までとなります。スープがなくなり次第営業終了となります。ご了承ください。"
 lat: 35.6450659
 lng: 139.7003219
-tabelog_score: 3.41
 members:
   - "長尾謙杜"
 groups:

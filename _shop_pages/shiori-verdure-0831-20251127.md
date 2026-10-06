@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「Verdure 0831」"
-description: "しおりのYouTubeで紹介されたcafe「Verdure 0831」（福島県白河市）。食べログ3.04点。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたcafe「Verdure 0831」（福島県白河市）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-verdure_0831-20251127"
 name: "Verdure 0831"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/342
 business_hours: "月・火・木・金・土 11:00 - 16:00 水 11:00 - 14:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.11422
 lng: 140.201392
-tabelog_score: 3.04
 members:
   - "しおり"
 groups:

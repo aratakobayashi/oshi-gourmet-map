@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カフェラボハマダ」"
-description: "帰り道は遠回りしたくなる MVで紹介されたcafe「カフェラボハマダ」（栃木県足利市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "帰り道は遠回りしたくなる MVで紹介されたcafe「カフェラボハマダ」（栃木県足利市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-3e1e84d1-"
 name: "カフェラボハマダ"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/357
 business_hours: "火・木・金・土・日 11:00 - 18:30 月・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.9819033
 lng: 135.7465807
-tabelog_score: 3.24
 groups:
   - "nogizaka46"
 ---

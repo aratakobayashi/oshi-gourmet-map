@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「かめや 新宿店」"
-description: "思い出横丁【夏のfree&easy】で紹介されたramen「かめや 新宿店」（東京都新宿区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "思い出横丁【夏のfree&easy】で紹介されたramen「かめや 新宿店」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13a2278b-"
 name: "かめや 新宿店"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 24時間営業 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.69311903868714
 lng: 139.69946513455145
-tabelog_score: 3.49
 groups:
   - "nogizaka46"
 ---

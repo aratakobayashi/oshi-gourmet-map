@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「銀座 福祿壽」"
-description: "よにのちゃんねるが訪れたsweets「銀座 福祿壽」（東京都中央区）。食べログ3.58点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるが訪れたsweets「銀座 福祿壽」（東京都中央区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ginza-fukukuju"
 name: "銀座 福祿壽"
 genre: "sweets"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/187
 business_hours: "11:00 - 19:00 L.O. 18:30 11:00-19:00[L.O.18:30]■ 定休日不定休"
 lat: 35.6717
 lng: 139.7653
-tabelog_score: 3.58
 members:
   - "二宮和也"
 groups:

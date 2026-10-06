@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「dancyu食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「dancyu食堂」（東京都千代田区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「dancyu食堂」（東京都千代田区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/-wKcQcQ33Vo/hqdefault.jpg"
 business_hours: "11:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ■ 営業時間L.O.22:00(定食・一品料理)L.O.22:30(小皿料理・豆皿料理・ドリンク)■定休日無休"
 lat: 35.6828
 lng: 139.7701
-tabelog_score: 3.49
 members:
   - "二宮和也"
   - "山田涼介"

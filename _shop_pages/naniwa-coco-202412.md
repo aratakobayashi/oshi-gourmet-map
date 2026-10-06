@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CoCo壱番屋 中目黒山手通店」"
-description: "なにわ男子のYouTubeで紹介されたshokuji「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。食べログ3.06点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介されたshokuji「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-coco-202412"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "shokuji"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/wvv-EUPN6_8/hqdefault.jpg"
 business_hours: "【営業時間】11:00～22:30(L.O)"
 lat: 35.6441592
 lng: 139.6950848
-tabelog_score: 3.06
 groups:
   - "naniwa"
 ordered_items:

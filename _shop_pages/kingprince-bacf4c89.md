@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「広島っ子」"
-description: "だが、情熱はある【髙橋海人ロケ地】若林と春日のお好み焼き屋さんはどこ？で紹介されたothers「広島っ子」（東京都新宿区）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "だが、情熱はある【髙橋海人ロケ地】若林と春日のお好み焼き屋さんはどこ？で紹介されたothers「広島っ子」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bacf4c89-"
 name: "広島っ子"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/110
 business_hours: "月・火・水・木・金・日 17:00 - 23:30 L.O. 23:00 土 定休日 ■ 営業時間昼 現在は営業しておりません。(2023年4月1日現在)"
 lat: 35.70262633788889
 lng: 139.74079408345673
-tabelog_score: 3.26
 members:
   - "永瀬廉"
   - "髙橋海人"

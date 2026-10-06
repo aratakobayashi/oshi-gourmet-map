@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「江川亭 小金井本店」"
-description: "Snow ManのYouTubeで紹介されたramen「江川亭 小金井本店」（東京都小金井市）。食べログ3.22点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたramen「江川亭 小金井本店」（東京都小金井市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/HGSvw6srgNU/hqdefault.jpg"
 business_hours: "火・水・木・金・土・日 11:00 - 22:00 L.O. 21:30 月 定休日 ■ 営業時間臨時休や営業時間変更の場合は、HPのお知らせに掲載いたします。■ 定休日月曜日（祝日は営業、翌火曜休)"
 lat: 35.7027
 lng: 139.5136
-tabelog_score: 3.22
 members:
   - "岩本照"
   - "深澤辰哉"

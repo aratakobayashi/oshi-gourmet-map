@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「原っぱ八分目」"
-description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「原っぱ八分目」（東京都渋谷区）。食べログ3.01点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「原っぱ八分目」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-a39d8572-"
 name: "原っぱ八分目"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/410
 business_hours: "■営業時間【臨時休業中】営業時間の変更や臨時休業・年末年始など「海峡グループ」公式ホームページの最新情報を併せて確認をお願い致します。 ■定休日※【臨時休業中】現在は通常営業とさせて頂いております。"
 lat: 35.659072
 lng: 139.6979017
-tabelog_score: 3.01
 members:
   - "伊野尾慧"
   - "知念侑李"

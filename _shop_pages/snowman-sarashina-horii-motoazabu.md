@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「総本家更科堀井 本店」"
-description: "Snow ManのYouTubeで紹介されたwashoku「総本家更科堀井 本店」（東京都港区）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「総本家更科堀井 本店」（東京都港区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "washoku"
@@ -21,7 +21,6 @@ seating_note: "小上がりのお席に座っていました。 富士山の絵�
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 20:00 ■ 定休日1月1日、2日、3日営業時間が変更になる場合がございますので、詳細は店舗までお問い合わせください。"
 lat: 35.6544
 lng: 139.7336
-tabelog_score: 3.65
 members:
   - "岩本照"
   - "深澤辰哉"

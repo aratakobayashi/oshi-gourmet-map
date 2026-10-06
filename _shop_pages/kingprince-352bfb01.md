@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「キッチンオリジン 京王永山店」"
-description: "キントレ バイトレ【永瀬廉ロケ地】オリジン弁当（キッチンオリジン）はどこ？で紹介されたothers「キッチンオリジン 京王永山店」（東京都多摩市）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "キントレ バイトレ【永瀬廉ロケ地】オリジン弁当（キッチンオリジン）はどこ？で紹介されたothers「キッチンオリジン 京王永山店」（東京都多摩市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-352bfb01-"
 name: "キッチンオリジン 京王永山店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362
 business_hours: "06:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.631485
 lng: 139.445637
-tabelog_score: 3.02
 members:
   - "永瀬廉"
   - "髙橋海人"

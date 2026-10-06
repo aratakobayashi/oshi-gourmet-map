@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「増英蒲鉾店」"
-description: "孤独のグルメ Season2 第9話で紹介されたshokuji「増英蒲鉾店」（東京都江東区）。食べログ3.39点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第9話で紹介されたshokuji「増英蒲鉾店」（東京都江東区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ffdd453f-"
 name: "増英蒲鉾店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "■定休日月曜日▪️営業時間〜19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6727747
 lng: 139.8169621
-tabelog_score: 3.39
 members:
   - "井之頭五郎"
 groups:

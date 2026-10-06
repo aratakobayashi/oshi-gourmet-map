@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「黒太鼓 池袋店」"
-description: "めざましテレビ 2017.12.07で紹介されたshokuji「黒太鼓 池袋店」（東京都豊島区）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介されたshokuji「黒太鼓 池袋店」（東京都豊島区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-c9cb4f1d-"
 name: "黒太鼓 池袋店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/226
 business_hours: "月・火・水・木・金 17:00 - 23:00 L.O. 22:00 土・日 16:00 - 23:00 L.O. 22:00 ※年末年始など、営業日・営業時間に関しましては変更する場合がございますので、詳細は直接店舗までお問い合わせください。"
 lat: 35.7298752
 lng: 139.7112955
-tabelog_score: 3.33
 members:
   - "伊野尾慧"
 groups:

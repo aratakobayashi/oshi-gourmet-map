@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ミートファクトリーしまちゃん」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「ミートファクトリーしまちゃん」（大阪府堺市堺区）。食べログ3.18点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「ミートファクトリーしまちゃん」（大阪府堺市堺区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-41feca79-202505"
 name: "ミートファクトリーしまちゃん"
 genre: "yakiniku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg"
 business_hours: "17:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
 lat: 34.579238
 lng: 135.4764375
-tabelog_score: 3.18
 members:
   - "亀梨和也"
 groups:

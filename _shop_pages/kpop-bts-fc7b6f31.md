@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「一蘭 六本木店」"
-description: "BTS 東京訪問（2015年）で紹介されたramen「一蘭 六本木店」（東京都港区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "BTS 東京訪問（2015年）で紹介されたramen「一蘭 六本木店」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-fc7b6f31-"
 name: "一蘭 六本木店"
 genre: "ramen"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362
 business_hours: "18:00- 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6624568
 lng: 139.7334981
-tabelog_score: 3.41
 members:
   - "Jin"
 groups:

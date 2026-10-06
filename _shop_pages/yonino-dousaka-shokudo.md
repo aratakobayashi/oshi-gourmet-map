@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「動坂食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「動坂食堂」（東京都文京区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「動坂食堂」（東京都文京区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/8rYGXSOk-60/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 10:30 - 20:30 L.O. 20:00 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7246
 lng: 139.7623
-tabelog_score: 3.49
 members:
   - "二宮和也"
   - "菊池風磨"

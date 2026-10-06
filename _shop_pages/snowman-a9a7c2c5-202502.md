@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂」"
-description: "Snow ManのYouTubeで紹介されたwashoku「伊勢屋食堂」（東京都新宿区）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「伊勢屋食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-a9a7c2c5-202502"
 name: "伊勢屋食堂"
 genre: "washoku"
@@ -21,7 +21,6 @@ seating_note: "店内入って左手のテーブル席に座りました。 手�
 business_hours: "月・火・水・木・金・土・祝日 05:00 - 14:00 L.O. 14:00 日 定休日 ■ 営業時間詳しくはHP・Instagram・Facebook・Googleをご確認ください。■ 定休日 ※臨時休業ありますので、インスタなどご確認ください※祝日・水曜日 ◎不定休※休市日（HP・Instagram・Facebook・Googleにて休業日・お知らせ参照）"
 lat: 35.7031
 lng: 139.6938
-tabelog_score: 3.49
 members:
   - "渡辺翔太"
   - "向井康二"

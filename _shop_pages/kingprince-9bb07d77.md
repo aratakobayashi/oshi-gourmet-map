@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「小田原さかなセンター」"
-description: "キントレ【髙橋海人＆高橋恭平】炊飯器の旅でソフトクリームを食べたお店はどこ？in神奈川県小田原市で紹介されたothers「小田原さかなセンター」（神奈川県小田原市）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人＆高橋恭平】炊飯器の旅でソフトクリームを食べたお店はどこ？in神奈川県小田原市で紹介されたothers「小田原さかなセンター」（神奈川県小田原市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9bb07d77-"
 name: "小田原さかなセンター"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/631
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 16:00 ■BBQ会場は16時close■ 定休日★年中無休年始はお休みです。雨天等、天候起因により臨時休業になる場合がございます。"
 lat: 35.2391784
 lng: 139.1451992
-tabelog_score: 3.36
 members:
   - "永瀬廉"
   - "髙橋海人"

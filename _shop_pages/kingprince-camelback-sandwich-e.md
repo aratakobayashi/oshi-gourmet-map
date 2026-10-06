@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAMELBACK sandwich&espresso」"
-description: "【ニノさん】元寿司職人が作る究極の玉子サンドのお店はどこ？で紹介されたothers「CAMELBACK sandwich&espresso」（東京都渋谷区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "【ニノさん】元寿司職人が作る究極の玉子サンドのお店はどこ？で紹介されたothers「CAMELBACK sandwich&espresso」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-camelback_sandwich_e-"
 name: "CAMELBACK sandwich&espresso"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/465
 business_hours: "08:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.66558703870233
 lng: 139.69223758427844
-tabelog_score: 3.6
 members:
   - "永瀬廉"
   - "髙橋海人"

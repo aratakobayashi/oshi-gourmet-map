@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIBAYON ATTACK"
-description: "イキスギさんについてった 第14回で紹介されたchuka「RIBAYON ATTACK」（東京都中央区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 第14回で紹介されたchuka「RIBAYON ATTACK」（東京都中央区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "west-ribayon_attack-"
 name: "RIBAYON ATTACK"
 genre: "chuka"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木 11:30 - 15:00 L.O. 14:30 17:30 - 23:00 L.O. 料理22:00 ドリンク22:30 金 11:30 - 15:00 L.O. 14:30 17:30 - 00:30 L.O. 料理22:30 ドリンク00:00 土 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 日・祝日 定休日 ■ 定休日第1,3土曜"
 lat: 35.687974
 lng: 139.772824
-tabelog_score: 3.45
 members:
   - "重岡大毅"
 groups:

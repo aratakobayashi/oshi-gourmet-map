@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「INITIAL （イニシャル）Omotesando」"
-description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたothers「INITIAL （イニシャル）Omotesando」（東京都渋谷区）。食べログ3.59点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたothers「INITIAL （イニシャル）Omotesando」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-initial_omotesando-"
 name: "INITIAL （イニシャル）Omotesando"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343
 business_hours: "月・火・水・木・金 12:00 - 22:00 L.O. 21:15 土・日・祝日 11:00 - 22:00 L.O. 21:15"
 lat: 35.6692039
 lng: 139.7072847
-tabelog_score: 3.59
 members:
   - "ジェシー"
   - "京本大我"

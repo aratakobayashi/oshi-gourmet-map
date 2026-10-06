@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ツヅキ」"
-description: "乃木坂46が訪れたcafe「喫茶ツヅキ」（愛知県名古屋市）。食べログ3.58点。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたcafe「喫茶ツヅキ」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-bfe83dcc-"
 name: "喫茶ツヅキ"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・木・金・土・日 07:30 - 17:00 火 07:30 - 14:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.1676209
 lng: 136.8732428
-tabelog_score: 3.58
 members:
   - "松村沙友理"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Cafe yue」"
-description: "なにわ男子のどっち派で紹介されたcafe「Cafe yue」（東京都台東区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたcafe「Cafe yue」（東京都台東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_yue-"
 name: "Cafe yue"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/164
 business_hours: "月・火・金 12:00 - 19:30 土・日 11:00 - 19:00 水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7247892
 lng: 139.7685576
-tabelog_score: 3.52
 members:
   - "藤原丈一郎"
 groups:

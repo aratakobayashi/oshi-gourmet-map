@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Eggs 'n Things 原宿店」"
-description: "SixTONES - パンケーキで女子力アップ？で紹介されたsweets「Eggs 'n Things 原宿店」（東京都渋谷区）。食べログ3.54点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONES - パンケーキで女子力アップ？で紹介されたsweets「Eggs 'n Things 原宿店」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-eggs_n_things-201904"
 name: "Eggs 'n Things 原宿店"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/635
 business_hours: "月・火・水・木・金 09:00 - 22:00 土・日 08:00 - 22:00"
 lat: 35.6689
 lng: 139.7056
-tabelog_score: 3.54
 members:
   - "ジェシー"
   - "京本大我"

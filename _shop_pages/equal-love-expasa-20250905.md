@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「EXPASA海老名（下り）」"
-description: "=LOVEのYouTubeで紹介されたshokuji「EXPASA海老名（下り）」（神奈川県海老名市）。食べログ3.1点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「EXPASA海老名（下り）」（神奈川県海老名市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-expasa-20250905"
 name: "EXPASA海老名（下り）"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/318
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4324003
 lng: 139.4025389
-tabelog_score: 3.1
 members:
   - "大谷映美里"
 groups:

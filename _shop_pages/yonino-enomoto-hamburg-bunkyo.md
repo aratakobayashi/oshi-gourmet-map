@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「榎本ハンバーグ研究所 春日後楽園店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-enomoto-hamburg-bunkyo"
 name: "榎本ハンバーグ研究所 春日後楽園店"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/Xdvbh8QNBDs/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日 11:30 - 15:00 L.O. 14:30 18:00 - 21:00 L.O. 20:30 ■ 定休日不定休、年末年始休業あり"
 lat: 35.718
 lng: 139.7437
-tabelog_score: 3.41
 members:
   - "二宮和也"
   - "山田涼介"

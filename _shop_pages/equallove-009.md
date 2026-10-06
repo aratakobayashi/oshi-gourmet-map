@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「俏香（チャオシャン）」"
-description: "=LOVEのYouTubeで紹介されたchuka「俏香（チャオシャン）」（神奈川県横浜市）。食べログ3.04点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたchuka「俏香（チャオシャン）」（神奈川県横浜市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_009"
 name: "俏香（チャオシャン）"
 genre: "chuka"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 21:00"
 lat: 35.6812
 lng: 139.7671
-tabelog_score: 3.04
 members:
   - "佐々木舞香"
   - "齋藤樹愛羅"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「CODA ROSSA（コーダロッサ）」"
-description: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年で紹介されたshokuji「CODA ROSSA（コーダロッサ）」（静岡県熱海市）。食べログ3.46点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト ロケ地】熱海のイタリアンレストランはどこ？SixTONES6周年＆大泉洋30周年で紹介されたshokuji「CODA ROSSA（コーダロッサ）」（静岡県熱海市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-coda_rossa-"
 name: "CODA ROSSA（コーダロッサ）"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352
 business_hours: "月・火・水・木・金 11:30 - 21:00 L.O. 料理20:00 ドリンク20:30 土・日・祝日 11:00 - 21:30 L.O. 20:30 ■ 定休日なし ※季節により変更の場合があります"
 lat: 35.0631541
 lng: 139.0709965
-tabelog_score: 3.46
 members:
   - "ジェシー"
   - "京本大我"

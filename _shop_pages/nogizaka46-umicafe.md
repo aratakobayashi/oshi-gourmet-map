@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umicafe」"
-description: "インフルエンサーTypeC 齋藤個人PVで紹介されたothers「umicafe」（神奈川県鎌倉市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "インフルエンサーTypeC 齋藤個人PVで紹介されたothers「umicafe」（神奈川県鎌倉市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umicafe-"
 name: "umicafe"
 genre: "others"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/140
 business_hours: "月・火・金・土・日・祝日 11:30 - 18:00 水・木 定休日 ■ 定休日水、木曜日（10月から6月）水、第1第3第5木曜日（7、8、9月）"
 lat: 35.3137738
 lng: 139.5410038
-tabelog_score: 3.21
 groups:
   - "nogizaka46"
 ---

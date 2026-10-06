@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「le bois（ル・ボア）」"
-description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたothers「le bois（ル・ボア）」（東京都江東区）。食べログ3.45点。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたothers「le bois（ル・ボア）」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-le_bois-"
 name: "le bois（ル・ボア）"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/241
 business_hours: "火・水・木・金・土・日 11:00 - 18:00 月 定休日 ■ 定休日月曜日(祝日営業) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6800594
 lng: 139.8039413
-tabelog_score: 3.45
 members:
   - "ジェシー"
   - "京本大我"

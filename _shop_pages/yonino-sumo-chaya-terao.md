@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「相撲茶屋 寺尾」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「相撲茶屋 寺尾」（東京都墨田区）。食べログ3.47点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「相撲茶屋 寺尾」（東京都墨田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sumo-chaya-terao"
 name: "相撲茶屋 寺尾"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg"
 business_hours: "火・水・木・金・土・日・祝日 11:30 - 13:30 17:00 - 22:00 L.O. 21:15 月 定休日 ■ 営業時間[火～金]ご予約に限り営業。両国での大相撲場所中は毎日営業。■ 定休日1月、5月、9月場所中は無休、12月中も無休"
 lat: 35.6966
 lng: 139.794
-tabelog_score: 3.47
 members:
   - "二宮和也"
   - "山田涼介"

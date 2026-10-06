@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ともや 鎌倉小町店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「ともや 鎌倉小町店」（神奈川県鎌倉市）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「ともや 鎌倉小町店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-22eda348-202408"
 name: "ともや 鎌倉小町店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
 business_hours: "■ 定休日不定休(雨天・椎茸の採れない時期・生育の悪い時は休みの可能性が高い) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.3234843
 lng: 139.5537226
-tabelog_score: 3.37
 members:
   - "音嶋莉沙"
   - "瀧脇笙古"

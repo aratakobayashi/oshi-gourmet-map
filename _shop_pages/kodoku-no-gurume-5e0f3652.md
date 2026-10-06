@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まちのパーラー」"
-description: "孤独のグルメ Season3 第9話で紹介されたshokuji「まちのパーラー」（東京都練馬区）。食べログ3.79点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第9話で紹介されたshokuji「まちのパーラー」（東京都練馬区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5e0f3652-"
 name: "まちのパーラー"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・水・木・金・土・日 08:30 - 22:00 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7506445
 lng: 139.6162651
-tabelog_score: 3.79
 members:
   - "井之頭五郎"
 groups:

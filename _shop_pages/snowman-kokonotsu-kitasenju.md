@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ここのつ 3号店」"
-description: "Snow ManのYouTubeで紹介されたwashoku「ここのつ 3号店」（東京都足立区）。食べログ3.12点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「ここのつ 3号店」（東京都足立区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kokonotsu-kitasenju"
 name: "ここのつ 3号店"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/8ZQTzKfmMrM/hqdefault.jpg"
 business_hours: "月・火・水・木・金 17:30 - 20:30 土・日・祝日 定休日"
 lat: 35.7491
 lng: 139.8025
-tabelog_score: 3.12
 members:
   - "向井康二"
   - "渡辺翔太"

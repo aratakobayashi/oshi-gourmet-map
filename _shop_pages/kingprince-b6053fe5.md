@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス」"
-description: "【VS魂ロケ地】渋谷ロクシタン・ハンズ・MEGAドンキ・PARCO・ボウリングはどこ？で紹介されたcafe「ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス」（東京都渋谷区）。食べログ3.69点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【VS魂ロケ地】渋谷ロクシタン・ハンズ・MEGAドンキ・PARCO・ボウリングはどこ？で紹介されたcafe「ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-b6053fe5-"
 name: "ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356
 business_hours: "10:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
 lat: 35.65931963790337
 lng: 139.69989888304798
-tabelog_score: 3.69
 members:
   - "永瀬廉"
   - "髙橋海人"

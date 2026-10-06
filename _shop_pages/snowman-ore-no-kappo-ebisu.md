@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「俺の割烹 炉ばた 恵比寿」"
-description: "Snow ManのYouTubeで紹介されたizakaya「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。食べログ3.45点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたizakaya「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
 genre: "izakaya"
@@ -22,7 +22,6 @@ seating_note: "SnowManが座っていた席は、カウンターのお席でし�
 business_hours: "月・火・水・木・金・土 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日・祝日 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ■不定休■混雑時は２時間制とさせていただく場合がございます。"
 lat: 35.6476
 lng: 139.7131
-tabelog_score: 3.45
 members:
   - "岩本照"
   - "深澤辰哉"

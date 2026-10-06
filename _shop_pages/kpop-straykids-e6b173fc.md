@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「金沢まいもん寿司 上野店」"
-description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたshokuji「金沢まいもん寿司 上野店」（東京都台東区）。食べログ3.37点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたshokuji「金沢まいもん寿司 上野店」（東京都台東区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-e6b173fc-"
 name: "金沢まいもん寿司 上野店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 11:00 - 22:00 L.O. 料理21:30 営業時間は予告なく変更する場合がございます。休業日はパルコヤに準じます。"
 lat: 35.7134128
 lng: 139.7765418
-tabelog_score: 3.37
 members:
   - "ヒョンジン"
 groups:

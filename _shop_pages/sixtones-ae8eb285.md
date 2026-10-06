@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「エオル」"
-description: "だが、情熱はあるロケ地【髙橋海人撮影】クレープ屋さんはどこ？で紹介されたothers「エオル」（東京都青梅市）。食べログ3.23点。推し活グルメ巡礼スポット。"
+description: "だが、情熱はあるロケ地【髙橋海人撮影】クレープ屋さんはどこ？で紹介されたothers「エオル」（東京都青梅市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ae8eb285-"
 name: "エオル"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339
 business_hours: "火・水・木・金・土・日 11:00 - 19:00 月 定休日 クレープ生地が売り切れ次第閉店 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7810198
 lng: 139.2880925
-tabelog_score: 3.23
 members:
   - "ジェシー"
   - "京本大我"

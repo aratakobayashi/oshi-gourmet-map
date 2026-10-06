@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「そば街角」"
-description: "=LOVEのYouTubeで紹介されたwashoku「そば街角」（沖縄県那覇市）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「そば街角」（沖縄県那覇市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a8a055cd-202408"
 name: "そば街角"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 business_hours: "11:00 - 01:00 ■ 営業時間※【年末年始のご予約について】12月25日～1月9日は終日ご予約を承ることができかねます。予めご了承くださいます。■定休日無し"
 lat: 26.2153394
 lng: 127.6902428
-tabelog_score: 3.49
 members:
   - "大谷映美里"
 groups:

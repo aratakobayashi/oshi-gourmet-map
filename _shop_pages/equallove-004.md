@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「串カツ玩具-GANG-」"
-description: "=LOVEのYouTubeで紹介されたizakaya「串カツ玩具-GANG-」（東京都杉並区）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「串カツ玩具-GANG-」（東京都杉並区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 business_hours: "水・木・金・土・日・祝日・祝前日・祝後日 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 月・火 定休日"
 lat: 35.6993
 lng: 139.6363
-tabelog_score: 3.07
 members:
   - "諸橋沙夏"
 groups:

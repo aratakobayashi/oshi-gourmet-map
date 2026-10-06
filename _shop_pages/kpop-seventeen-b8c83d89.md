@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「一風堂 梅田店」"
-description: "SEVENTEENで紹介されたothers「一風堂 梅田店」（大阪府大阪市）。食べログ3.22点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたothers「一風堂 梅田店」（大阪府大阪市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-b8c83d89-"
 name: "一風堂 梅田店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/315
 business_hours: "11:00 - 23:00 L.O. 22:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.7037444
 lng: 135.4993314
-tabelog_score: 3.22
 members:
   - "ウジ"
 groups:

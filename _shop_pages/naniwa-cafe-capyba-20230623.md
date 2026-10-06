@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「cafe capyba」"
-description: "なにわ男子のどっち派 (2023-06-23)で紹介されたcafe「cafe capyba」（東京都墨田区）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-06-23)で紹介されたcafe「cafe capyba」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_capyba-20230623"
 name: "cafe capyba"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/286
 business_hours: "月・火・金 11:00 - 20:00 土・日・祝日 10:00 - 20:00 水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7243341
 lng: 139.8193077
-tabelog_score: 3.02
 members:
   - "道枝駿佑"
 groups:

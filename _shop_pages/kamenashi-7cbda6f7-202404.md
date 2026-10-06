@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「辛麺屋桝元 赤江店」"
-description: "亀梨和也のYouTubeで紹介されたramen「辛麺屋桝元 赤江店」（宮崎県宮崎市）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「辛麺屋桝元 赤江店」（宮崎県宮崎市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-7cbda6f7-202404"
 name: "辛麺屋桝元 赤江店"
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/fqUI15scR4o/hqdefault.jpg"
 business_hours: "11:30 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 31.8748654
 lng: 131.4230903
-tabelog_score: 3.07
 members:
   - "亀梨和也"
 groups:

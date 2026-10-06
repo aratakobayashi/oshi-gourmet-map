@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「新横浜ラーメン博物館」"
-description: "SixTONESのYouTubeで紹介されたramen「新横浜ラーメン博物館」（神奈川県横浜市港北区）。食べログ3.25点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたramen「新横浜ラーメン博物館」（神奈川県横浜市港北区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ramen-hakubutsukan"
 name: "新横浜ラーメン博物館"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/Y0HPj8hZk-Q/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 21:00 L.O. 20:30 土・日・祝日 10:30 - 21:00 L.O. 20:30 ■ 定休日年末年始(12月31日、1月1日) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.510089
 lng: 139.616478
-tabelog_score: 3.25
 members:
   - "ジェシー"
   - "京本大我"

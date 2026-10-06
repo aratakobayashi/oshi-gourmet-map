@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「あじろ食堂」"
-description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたshokuji「あじろ食堂」（静岡県熱海市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたshokuji「あじろ食堂」（静岡県熱海市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-33e9989a-"
 name: "あじろ食堂"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296
 business_hours: "■ 営業時間11:00～(お魚が無くなり次第終了) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.0437146
 lng: 139.0811875
-tabelog_score: 3.21
 members:
   - "伊野尾慧"
 groups:

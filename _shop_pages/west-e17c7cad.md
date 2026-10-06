@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "trefle"
-description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたsweets「trefle」（東京都）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたsweets「trefle」（東京都）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-e17c7cad"
 name: "trefle"
 genre: "sweets"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 19:00 ■ 定休日不定休。年末年始は12/29(月)～1/5(月)まで休業とさせていただきます。"
 lat: 35.68725193869964
 lng: 139.7269933044729
-tabelog_score: 3.3
 members:
   - "小瀧望"
 groups:

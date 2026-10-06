@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「平塚ジンギスカン すすきの店」"
-description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介されたshokuji「平塚ジンギスカン すすきの店」（北海道札幌市）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介されたshokuji「平塚ジンギスカン すすきの店」（北海道札幌市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-c1965cb5-"
 name: "平塚ジンギスカン すすきの店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 16:00 - 23:30 L.O. 23:00 ※年末年始（2025年12月31日～2026年1月1日）は休み"
 lat: 43.0511219
 lng: 141.3350833
-tabelog_score: 3.16
 members:
   - "ジェシー"
   - "京本大我"

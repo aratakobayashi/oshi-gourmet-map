@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「和食亭」"
-description: "孤独のグルメ Season1 第2話で紹介されたwashoku「和食亭」（東京都豊島区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第2話で紹介されたwashoku「和食亭」（東京都豊島区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-916014a2-"
 name: "和食亭"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "■営業時間AM11:30～PM13:30PM17:00～PM22:00 (L.O PM21:30）■定休日日曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.725913
 lng: 139.7166365
-tabelog_score: 3.38
 members:
   - "井之頭五郎"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鉄板焼き やすむら」"
-description: "ENHYPENで紹介されたothers「鉄板焼き やすむら」（東京都目黒区）。食べログ3.26点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「鉄板焼き やすむら」（東京都目黒区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-616827d4-"
 name: "鉄板焼き やすむら"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/957
 business_hours: "■ 営業時間18:00～※22時以降のご来店を予定されていらっしゃる場合は、事前にご予約頂くか、店舗へお問い合わせください。※18:00以前のご来店をご希望の場合は、前日迄にご連絡の程、宜しくお願い致します。■ 定休日不定休"
 lat: 35.6309458
 lng: 139.7115442
-tabelog_score: 3.26
 members:
   - "ジェイ"
 groups:

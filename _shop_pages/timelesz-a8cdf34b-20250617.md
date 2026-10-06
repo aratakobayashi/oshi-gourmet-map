@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「山小屋酒場ふもと」"
-description: "timeleszの時間ですよ（2025年6月17日）高円寺ロケで紹介されたizakaya「山小屋酒場ふもと」（東京都杉並区）。食べログ3.29点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "timeleszの時間ですよ（2025年6月17日）高円寺ロケで紹介されたizakaya「山小屋酒場ふもと」（東京都杉並区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-a8cdf34b-20250617"
 name: "山小屋酒場ふもと"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/304
 business_hours: "月・火・水・木・金 16:00 - 00:00 L.O. 23:30 土・日 13:00 - 00:00 L.O. 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7073164
 lng: 139.6548546
-tabelog_score: 3.29
 members:
   - "篠塚大輝"
   - "菊池風磨"

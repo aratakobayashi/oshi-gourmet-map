@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Neo Nice Burger表参道」"
-description: "なにわ男子のどっち派 (2026-01-23)で紹介されたsweets「Neo Nice Burger表参道」（東京都港区）。食べログ3.31点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-01-23)で紹介されたsweets「Neo Nice Burger表参道」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-neo_nice_burger-20260123"
 name: "Neo Nice Burger表参道"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/343
 business_hours: "月・火・水・木・金・土・日・祝日 10:00 - 20:00 L.O. 料理19:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6705999
 lng: 139.7159289
-tabelog_score: 3.31
 members:
   - "大橋和也"
 groups:

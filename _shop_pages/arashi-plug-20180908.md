@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「PLUG」"
-description: "嵐にしやがれで紹介されたshokuji「PLUG」（大阪府大阪市）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「PLUG」（大阪府大阪市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-plug-20180908"
 name: "PLUG"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 22:00 L.O. 料理21:00 ドリンク21:30 ■ 定休日 不定休(Instagramにて告知しております。)"
 lat: 34.7074828
 lng: 135.5036637
-tabelog_score: 3.43
 members:
   - "大野智"
   - "櫻井翔"

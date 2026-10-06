@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「洋麺屋五右衛門 赤坂店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「洋麺屋五右衛門 赤坂店」（東京都港区）。食べログ3.23点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「洋麺屋五右衛門 赤坂店」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-goemon-akasaka"
 name: "洋麺屋五右衛門 赤坂店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/PFtmB_WeAVo/hqdefault.jpg"
 business_hours: "11:30 - 22:00 L.O. 21:30 定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.671679
 lng: 139.735622
-tabelog_score: 3.23
 members:
   - "二宮和也"
   - "山田涼介"

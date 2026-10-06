@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「DAIGOMI」"
-description: "2016.03.03 体を温める食べ物実験で紹介されたshokuji「DAIGOMI」（東京都豊島区）。食べログ3.34点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2016.03.03 体を温める食べ物実験で紹介されたshokuji「DAIGOMI」（東京都豊島区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-daigomi-20160303"
 name: "DAIGOMI"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "11:00 - 00:00 ■ 営業時間【年末年始の営業】12月29日～1月4日までお休みします。●現在はランチタイムのお席の御予約はできません■ 定休日なし"
 lat: 35.7310839
 lng: 139.7089164
-tabelog_score: 3.34
 members:
   - "有岡大貴"
   - "髙木雄也"

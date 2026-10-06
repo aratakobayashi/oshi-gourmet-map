@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「3丁目の小さなパン屋さん「ちいパン」」"
-description: "SixTONES【ストチューブロケ地】新宿のパン屋さんはどこ？食べたパンは何？で紹介されたcafe「3丁目の小さなパン屋さん「ちいパン」」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】新宿のパン屋さんはどこ？食べたパンは何？で紹介されたcafe「3丁目の小さなパン屋さん「ちいパン」」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a8ce0c6f-20230731"
 name: "3丁目の小さなパン屋さん「ちいパン」"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "月・火・水・木・金・土 08:00 - 20:00 祝日 09:00 - 18:00 日 定休日"
 lat: 35.6921592
 lng: 139.7006065
-tabelog_score: 3.48
 members:
   - "ジェシー"
   - "京本大我"

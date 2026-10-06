@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "宮田屋珈琲 大通店"
-description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたcafe「宮田屋珈琲 大通店」（北海道札幌市）。食べログ3.45点。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたcafe「宮田屋珈琲 大通店」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-ae0fb5ac-"
 name: "宮田屋珈琲 大通店"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349
 business_hours: "08:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 43.045766984545104
 lng: 141.3567302476583
-tabelog_score: 3.45
 members:
   - "正門良規"
   - "草間リチャード敬太"

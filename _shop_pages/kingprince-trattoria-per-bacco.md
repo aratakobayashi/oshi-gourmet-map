@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」"
-description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介されたshokuji「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。食べログ3.56点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介されたshokuji「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-trattoria_per_bacco-"
 name: "TRATTORIA PER BACCO（トラットリア ペルバッコ ）"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/309
 business_hours: "水・木・金 17:00 - 22:30 L.O. 料理21:00 ドリンク22:00 土・日 11:30 - 15:00 L.O. 14:00 17:00 - 22:30 L.O. 料理21:00 ドリンク22:00 月・火 定休日 祝日含め月曜日、火曜日は定休日となります。＊ランチタイムの最終入店時刻は１３：３０となります。"
 lat: 35.66973063790441
 lng: 139.72386638313634
-tabelog_score: 3.56
 members:
   - "永瀬廉"
   - "髙橋海人"

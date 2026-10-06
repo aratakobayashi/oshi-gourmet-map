@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「鍋ぞう 浅草雷門店」"
-description: "スンミン Instagramで紹介されたshokuji「鍋ぞう 浅草雷門店」（東京都台東区）。食べログ3.07点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "スンミン Instagramで紹介されたshokuji「鍋ぞう 浅草雷門店」（東京都台東区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-e604ee36-"
 name: "鍋ぞう 浅草雷門店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355
 business_hours: "11:30 - 15:00 L.O. 料理14:30 17:00 - 22:30 L.O. 料理22:00"
 lat: 35.7111333
 lng: 139.7963683
-tabelog_score: 3.07
 members:
   - "スンミン"
 groups:

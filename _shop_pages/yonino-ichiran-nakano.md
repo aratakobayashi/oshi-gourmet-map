@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「一蘭 中野店」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「一蘭 中野店」（東京都中野区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「一蘭 中野店」（東京都中野区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ichiran-nakano"
 name: "一蘭 中野店"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/0EUU9_553aM/hqdefault.jpg"
 business_hours: "月・火・水・木・日 10:30 - 22:00 L.O. 料理21:45 金・土 10:30 - 22:30 L.O. 料理22:15 ※営業時間は変更になる場合がございますので、最新情報は公式HPをご確認ください年中無休"
 lat: 35.707266
 lng: 139.665506
-tabelog_score: 3.09
 members:
   - "二宮和也"
   - "山田涼介"

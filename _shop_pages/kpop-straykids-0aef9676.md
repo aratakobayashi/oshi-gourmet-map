@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「コルモッ食堂」"
-description: "YouTube「FANDOM TOUR」練習生時代から常連で紹介されたshokuji「コルモッ食堂」（韓国）。食べログ3.24点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "YouTube「FANDOM TOUR」練習生時代から常連で紹介されたshokuji「コルモッ食堂」（韓国）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-0aef9676-"
 name: "コルモッ食堂"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 23:00 L.O. 23:00 ■定休日不定休"
 lat: 37.5271
 lng: 127.0441
-tabelog_score: 3.24
 members:
   - "バンチャン"
   - "リノ"

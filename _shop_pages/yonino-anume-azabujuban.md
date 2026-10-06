@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「干物割烹 あん梅」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「干物割烹 あん梅」（東京都港区）。食べログ3.48点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「干物割烹 あん梅」（東京都港区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-anume-azabujuban"
 name: "干物割烹 あん梅"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/XeLem4774FE/hqdefault.jpg"
 business_hours: "月・水・木・金・土・日 11:30 - 15:00 17:30 - 22:00 L.O. 料理21:00 ドリンク21:30 火 定休日 ※定食はランチ時だけになります。"
 lat: 35.6561
 lng: 139.7371
-tabelog_score: 3.48
 members:
   - "二宮和也"
   - "山田涼介"

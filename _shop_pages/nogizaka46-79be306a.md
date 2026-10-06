@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「しみてん木乃幡 仙台駅店」"
-description: "凍み天で紹介されたshokuji「しみてん木乃幡 仙台駅店」（宮城県仙台市）。食べログ3.42点。推し活グルメ巡礼スポット。"
+description: "凍み天で紹介されたshokuji「しみてん木乃幡 仙台駅店」（宮城県仙台市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-79be306a-"
 name: "しみてん木乃幡 仙台駅店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "■営業時間9:00～21:00■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.26028411865941
 lng: 140.882243171497
-tabelog_score: 3.42
 groups:
   - "nogizaka46"
 ---

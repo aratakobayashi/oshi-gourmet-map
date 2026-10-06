@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「963（くろさん）」"
-description: "【キントレガイドブック】船橋市のコーヒー喫茶店・駄菓子屋・熱帯魚店・ミニSL・クラムチャウダーはどこ？で紹介されたothers「963（くろさん）」（千葉県船橋市）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【キントレガイドブック】船橋市のコーヒー喫茶店・駄菓子屋・熱帯魚店・ミニSL・クラムチャウダーはどこ？で紹介されたothers「963（くろさん）」（千葉県船橋市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-963-"
 name: "963（くろさん）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/875
 business_hours: "18:00 - 04:00 L.O. 03:00 ■ 定休日不定休"
 lat: 35.698416008774466
 lng: 139.98423596440534
-tabelog_score: 3.48
 members:
   - "永瀬廉"
   - "髙橋海人"

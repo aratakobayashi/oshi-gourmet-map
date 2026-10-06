@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「La TRIPLETTA」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「La TRIPLETTA」（東京都品川区）。食べログ3.75点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「La TRIPLETTA」（東京都品川区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-la_tripletta-20221015"
 name: "La TRIPLETTA"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・木・金・土・日 11:30 - 14:00 17:30 - 21:00 水 17:30 - 21:00 火 定休日"
 lat: 35.6198463
 lng: 139.7054905
-tabelog_score: 3.75
 members:
   - "永瀬廉"
   - "髙橋海人"

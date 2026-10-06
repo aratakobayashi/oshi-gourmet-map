@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「有機茶生どら Dolala」"
-description: "嵐にしやがれで紹介されたsweets「有機茶生どら Dolala」（東京都目黒区）。食べログ3.32点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「有機茶生どら Dolala」（東京都目黒区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-dolala-20200718"
 name: "有機茶生どら Dolala"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "■営業時間11:00〜17:00﻿■定休日不定休"
 lat: 35.615509
 lng: 139.674159
-tabelog_score: 3.32
 members:
   - "櫻井翔"
 groups:

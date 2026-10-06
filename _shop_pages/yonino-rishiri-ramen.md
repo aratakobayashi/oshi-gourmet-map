@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「利尻らーめん味楽（新横浜ラーメン博物館）」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「利尻らーめん味楽（新横浜ラーメン博物館）」（神奈川県横浜市港北区）。食べログ3.74点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「利尻らーめん味楽（新横浜ラーメン博物館）」（神奈川県横浜市港北区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-rishiri-ramen"
 name: "利尻らーめん味楽（新横浜ラーメン博物館）"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Lw2KlLWox6g/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 21:00 L.O. 20:30 土・日・祝日 10:30 - 21:00 L.O. 20:30 休館日 年末年始(12月31日・1月1日) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5087
 lng: 139.614
-tabelog_score: 3.74
 members:
   - "二宮和也"
   - "山田涼介"

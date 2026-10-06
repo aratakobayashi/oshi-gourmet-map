@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「LONG! LONGER!! LONGEST!!! 原宿本店」"
-description: "=LOVEのYouTubeで紹介されたsweets「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-long_longer_longest_-20240804"
 name: "LONG! LONGER!! LONGEST!!! 原宿本店"
 genre: "sweets"
@@ -17,7 +17,6 @@ tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13218655/"
 thumbnail_url: "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
 lat: 35.671513
 lng: 139.7057319
-tabelog_score: 3.27
 members:
   - "音嶋莉沙"
   - "佐竹のん乃"

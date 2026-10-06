@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Katsuプリポー"
-description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介されたshokuji「Katsuプリポー」（東京都）。食べログ3.86点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介されたshokuji「Katsuプリポー」（東京都）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "west-a8058eb0"
 name: "Katsuプリポー"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 12:00 - 15:00 L.O. 14:00 17:00 - 23:00 L.O. 料理21:30 ドリンク22:00 ■ 定休日年末年始"
 lat: 35.69475793788186
 lng: 139.70301258340376
-tabelog_score: 3.86
 members:
   - "小瀧望"
 groups:

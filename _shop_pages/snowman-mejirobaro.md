@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Baro (ベロ)」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Baro (ベロ)」（東京都豊島区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Baro (ベロ)」（東京都豊島区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/160
 business_hours: "月・火・水・木・金・祝前日・祝後日 18:00 - 01:00 土・日・祝日 14:00 - 01:00 ■ 定休日不定休"
 lat: 35.7284313
 lng: 139.7017131
-tabelog_score: 3.39
 members:
   - "岩本照"
   - "ラウール"

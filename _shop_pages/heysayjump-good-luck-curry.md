@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「GOOD LUCK CURRY」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「GOOD LUCK CURRY」（東京都渋谷区）。食べログ3.64点。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「GOOD LUCK CURRY」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-good_luck_curry-"
 name: "GOOD LUCK CURRY"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296
 business_hours: "11:30 - 15:00 L.O. 14:30 ■ 定休日不定休"
 lat: 35.6531376
 lng: 139.7114585
-tabelog_score: 3.64
 members:
   - "伊野尾慧"
 groups:

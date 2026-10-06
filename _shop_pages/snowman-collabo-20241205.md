@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「お店 【瀬戸内バル Collabo】」"
-description: "Snow ManのYouTubeで紹介されたshokuji「お店 【瀬戸内バル Collabo】」（東京都世田谷区）。食べログ3.37点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「お店 【瀬戸内バル Collabo】」（東京都世田谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-collabo-20241205"
 name: "お店 【瀬戸内バル Collabo】"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112
 business_hours: "月・火・水・木・金 11:30 - 14:30 L.O. 14:00 17:00 - 00:00 L.O. 23:00 土・日・祝日 11:30 - 15:00 L.O. 料理14:30 17:00 - 00:00 L.O. 23:00 ■ 営業時間その他の時間も、予約にてお気軽にご相談ください。■ 定休日不定休（年末年始休み）"
 lat: 35.6470592
 lng: 139.6699374
-tabelog_score: 3.37
 members:
   - "岩本照"
   - "ラウール"

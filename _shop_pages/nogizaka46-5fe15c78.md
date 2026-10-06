@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「覚王山吉芋本店」"
-description: "乃木坂工事中で紹介されたothers「覚王山吉芋本店」（愛知県名古屋市）。食べログ3.54点。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「覚王山吉芋本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5fe15c78-"
 name: "覚王山吉芋本店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/354
 business_hours: "10:00 - 18:00 無休（年末年始を除く） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.161262
 lng: 136.950583
-tabelog_score: 3.54
 groups:
   - "nogizaka46"
 ---

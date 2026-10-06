@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「SNOWY VILLAGE」"
-description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたothers「SNOWY VILLAGE」（東京都新宿区）。食べログ3.17点。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたothers「SNOWY VILLAGE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-snowy_village-"
 name: "SNOWY VILLAGE"
 genre: "others"
@@ -17,7 +17,6 @@ tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13232859/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/151851/151851342.jpg?token=fb958a2&api=v2"
 lat: 35.703008
 lng: 139.6992999
-tabelog_score: 3.17
 members:
   - "永瀬廉"
   - "髙橋海人"

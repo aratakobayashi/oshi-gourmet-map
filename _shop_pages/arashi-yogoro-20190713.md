@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ヨゴロウ（YOGORO）」"
-description: "嵐にしやがれで紹介されたshokuji「ヨゴロウ（YOGORO）」（東京都渋谷区）。食べログ3.78点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「ヨゴロウ（YOGORO）」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-yogoro-20190713"
 name: "ヨゴロウ（YOGORO）"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:30 - 16:30 L.O. 15:50 18:00 - 20:00 L.O. 19:45 土 11:30 - 16:30 L.O. 15:50 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6692039
 lng: 139.7072847
-tabelog_score: 3.78
 members:
   - "大野智"
   - "櫻井翔"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮曇（うきぐもり）」"
-description: "SixTONESのYouTubeで紹介されたizakaya「浮曇（うきぐもり）」（群馬県渋川市）。食べログ3.31点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「浮曇（うきぐもり）」（群馬県渋川市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/iL3LjxeRpX4/hqdefault.jpg"
 business_hours: "月・火・水・木・金 17:00 - 00:00 土・日 11:00 - 16:00 17:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.567381
 lng: 138.983521
-tabelog_score: 3.31
 members:
   - "ジェシー"
   - "京本大我"

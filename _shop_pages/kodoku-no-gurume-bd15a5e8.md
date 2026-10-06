@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「与倉ドライブイン」"
-description: "孤独のグルメ Season10 第24話で紹介されたwashoku「与倉ドライブイン」（千葉県香取市）。食べログ3.39点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたwashoku「与倉ドライブイン」（千葉県香取市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-bd15a5e8-"
 name: "与倉ドライブイン"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 11:00 - 19:30 L.O. 19:30 土 11:00 - 14:00 17:00 - 20:00 L.O. 19:30 日・祝日 定休日 SNS参照のこと 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.8978273
 lng: 140.4992787
-tabelog_score: 3.39
 members:
   - "井之頭五郎"
 groups:

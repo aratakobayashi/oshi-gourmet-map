@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "うな串焼鳥う福 大井町"
-description: "【亀梨和也チャンネル】藤井流星との大井町の居酒屋 1軒目はどこ？食べたメニューは何？で紹介されたizakaya「うな串焼鳥う福 大井町」（東京都品川区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【亀梨和也チャンネル】藤井流星との大井町の居酒屋 1軒目はどこ？食べたメニューは何？で紹介されたizakaya「うな串焼鳥う福 大井町」（東京都品川区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kattun-ea014aa9-"
 name: "うな串焼鳥う福 大井町"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168
 business_hours: "月・火・水・木・金 15:00 - 23:30 土・日・祝日 13:00 - 23:30"
 lat: 35.607602437947726
 lng: 139.73600868250028
-tabelog_score: 3.43
 members:
   - "亀梨和也"
   - "中丸雄一"

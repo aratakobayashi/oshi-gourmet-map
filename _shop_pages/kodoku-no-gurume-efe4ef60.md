@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みたけ食堂」"
-description: "孤独のグルメ Season10 第24話で紹介されたshokuji「みたけ食堂」（東京都足立区）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたshokuji「みたけ食堂」（東京都足立区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-efe4ef60-"
 name: "みたけ食堂"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "06:15 - 14:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7746029
 lng: 139.8045163
-tabelog_score: 3.35
 members:
   - "井之頭五郎"
 groups:

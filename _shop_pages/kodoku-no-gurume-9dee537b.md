@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山小屋」"
-description: "孤独のグルメ Season9 第2話で紹介されたshokuji「山小屋」（神奈川県中郡二宮町）。食べログ3.42点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第2話で紹介されたshokuji「山小屋」（神奈川県中郡二宮町）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9dee537b-"
 name: "山小屋"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月 11:30 - 18:00 L.O. 17:00 木・金・土・日 11:30 - 21:00 火・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2994901
 lng: 139.2555671
-tabelog_score: 3.42
 members:
   - "井之頭五郎"
 groups:

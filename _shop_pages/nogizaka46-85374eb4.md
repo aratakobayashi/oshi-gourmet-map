@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ニューポピー」"
-description: "乃木坂46が訪れたcafe「喫茶ニューポピー」（愛知県名古屋市）。食べログ3.59点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたcafe「喫茶ニューポピー」（愛知県名古屋市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-85374eb4-"
 name: "喫茶ニューポピー"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・日 08:00 - 18:00 金・土 08:00 - 22:00 ■ 定休日不定休"
 lat: 35.1749929
 lng: 136.8867635
-tabelog_score: 3.59
 members:
   - "筒井あやめ"
 groups:

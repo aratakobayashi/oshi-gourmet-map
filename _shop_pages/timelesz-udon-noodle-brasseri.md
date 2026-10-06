@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「つるとんたん UDON NOODLE Brasserie 六本木」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたramen「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。食べログ3.39点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたramen「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-udon_noodle_brasseri-"
 name: "つるとんたん UDON NOODLE Brasserie 六本木"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/260
 business_hours: "月・火・水・木・金・土・祝前日 11:00 - 08:00 L.O. 07:00 日・祝日 11:00 - 23:00 L.O. 22:00 ※22時以降、ミッドタウン側からお入り頂いたお客様は、恐れ入りますが階段から1Fへお下がり頂き、エレベーターにて7Fまでお上がりくださいませ。"
 lat: 35.6642481
 lng: 139.7279271
-tabelog_score: 3.39
 members:
   - "松島聡"
   - "篠塚大輝"

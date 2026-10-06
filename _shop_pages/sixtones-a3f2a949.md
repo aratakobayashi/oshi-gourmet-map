@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「網元丸福」"
-description: "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？で紹介されたothers「網元丸福」（静岡県熱海市）。食べログ3.05点、～￥999。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？で紹介されたothers「網元丸福」（静岡県熱海市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3f2a949-"
 name: "網元丸福"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/415
 business_hours: "08:00 - 18:30 ■ 定休日第1・3金曜日"
 lat: 35.1033354
 lng: 139.0782748
-tabelog_score: 3.05
 members:
   - "ジェシー"
   - "京本大我"

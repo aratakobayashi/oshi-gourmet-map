@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「キッチン南海 神保町店」"
-description: "乃木坂配信中（さくさんぽ）で紹介されたshokuji「キッチン南海 神保町店」（東京都千代田区）。食べログ3.67点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中（さくさんぽ）で紹介されたshokuji「キッチン南海 神保町店」（東京都千代田区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ef89d864-"
 name: "キッチン南海 神保町店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/261
 source_type: "tv"
 lat: 35.69483591870555
 lng: 139.76066802452587
-tabelog_score: 3.67
 members:
   - "遠藤さくら"
 groups:

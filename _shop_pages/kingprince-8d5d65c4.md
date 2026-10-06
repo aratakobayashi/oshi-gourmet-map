@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「立呑み ぽっぽ亭」"
-description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたothers「立呑み ぽっぽ亭」（大阪府大阪市）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたothers「立呑み ぽっぽ亭」（大阪府大阪市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8d5d65c4-"
 name: "立呑み ぽっぽ亭"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/335
 business_hours: "月・火・水・木・金・土 17:00 - 00:00 日 定休日"
 lat: 34.69475148797956
 lng: 135.48655562742016
-tabelog_score: 3.37
 members:
   - "永瀬廉"
   - "髙橋海人"

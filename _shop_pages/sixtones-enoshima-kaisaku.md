@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「江の島 貝作」"
-description: "SixTONESのYouTubeで紹介されたwashoku「江の島 貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「江の島 貝作」（神奈川県藤沢市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-enoshima-kaisaku"
 name: "江の島 貝作"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 19:00 土・日 10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.299508
 lng: 139.479397
-tabelog_score: 3.46
 members:
   - "ジェシー"
   - "京本大我"

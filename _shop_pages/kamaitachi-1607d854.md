@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「ツキノワ」"
-description: "かまいたちのYouTubeで紹介されたshokuji「ツキノワ」（大阪府大阪市中央区）。食べログ3.69点。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「ツキノワ」（大阪府大阪市中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1607d854-"
 name: "ツキノワ"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 business_hours: "月・木・金・土・日 11:30 - 16:00 L.O. 15:30 火 11:30 - 16:00 L.O. 15:30 18:00 - 21:00 L.O. 20:30 水 定休日 不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6794
 lng: 135.5106
-tabelog_score: 3.69
 members:
   - "山内健司"
   - "濱家隆一"

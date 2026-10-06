@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "白鳳"
-description: "westが訪れたchuka「白鳳」（神奈川県）。食べログ3.38点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたchuka「白鳳」（神奈川県）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "f4a52aaa"
 name: "白鳳"
 genre: "chuka"
@@ -16,7 +16,6 @@ source_type: "tv"
 business_hours: "月・火・水・金・土・日・祝日・祝前日・祝後日 11:00 - 23:00 L.O. 22:30 木 定休日 木曜日定休、木曜日が祝日の場合水曜日がお休みになります。"
 lat: 35.443084088828826
 lng: 139.64571488206354
-tabelog_score: 3.38
 members:
   - "小瀧望"
 groups:

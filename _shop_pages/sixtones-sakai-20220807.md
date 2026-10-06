@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛ひつまぶし専門 sakai」"
-description: "SixTONES髙地優吾＆松村北斗が食べた名古屋の牛ひつまぶしのお弁当はどこの？で紹介されたothers「牛ひつまぶし専門 sakai」（愛知県名古屋市）。食べログ3.52点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONES髙地優吾＆松村北斗が食べた名古屋の牛ひつまぶしのお弁当はどこの？で紹介されたothers「牛ひつまぶし専門 sakai」（愛知県名古屋市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sakai-20220807"
 name: "牛ひつまぶし専門 sakai"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/350
 business_hours: "11:30 - 14:00 L.O. 13:30 17:00 - 22:00 L.O. 21:00 ■ 定休日不定休"
 lat: 35.1593589
 lng: 136.901099
-tabelog_score: 3.52
 members:
   - "ジェシー"
   - "京本大我"

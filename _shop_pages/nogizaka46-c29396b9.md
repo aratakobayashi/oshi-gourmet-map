@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「しゃぶ葉 渋谷駅前店」"
-description: "NOGIBINGO!9で紹介されたwashoku「しゃぶ葉 渋谷駅前店」（東京都渋谷区）。食べログ3.08点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "NOGIBINGO!9で紹介されたwashoku「しゃぶ葉 渋谷駅前店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c29396b9-"
 name: "しゃぶ葉 渋谷駅前店"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/325
 source_type: "tv"
 lat: 35.65931963790337
 lng: 139.69989888304798
-tabelog_score: 3.08
 groups:
   - "nogizaka46"
 ---

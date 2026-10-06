@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「えんそば 錦1丁目店」"
-description: "乃木坂46が訪れたramen「えんそば 錦1丁目店」（愛知県名古屋市）。食べログ3.38点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたramen「えんそば 錦1丁目店」（愛知県名古屋市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ffa301c4-"
 name: "えんそば 錦1丁目店"
 genre: "ramen"
@@ -17,7 +17,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・金 11:00 - 17:00 土 11:00 - 15:00 日 定休日"
 lat: 35.1774689
 lng: 136.9056403
-tabelog_score: 3.38
 groups:
   - "nogizaka46"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「スパイスラーメン 点と線.」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「スパイスラーメン 点と線.」（東京都世田谷区）。食べログ3.57点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「スパイスラーメン 点と線.」（東京都世田谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spice-ramen-tenten"
 name: "スパイスラーメン 点と線."
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/5ELNlEgsC2g/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 15:00 17:00 - 20:30 臨時休業等の情報は当店SNSよりご確認ください。"
 lat: 35.6614
 lng: 139.6685
-tabelog_score: 3.57
 members:
   - "二宮和也"
   - "山田涼介"

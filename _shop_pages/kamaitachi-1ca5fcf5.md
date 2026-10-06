@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「ワルン」"
-description: "かまいたちのYouTubeで紹介されたshokuji「ワルン」（大阪府大阪市西区）。食べログ3.6点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「ワルン」（大阪府大阪市西区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1ca5fcf5-"
 name: "ワルン"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 business_hours: "火・水・木・金 11:30 - 15:00 L.O. 14:30 17:30 - 21:00 L.O. 20:30 土・日・祝日 11:30 - 16:00 L.O. 15:30 月 定休日 営業のお知らせはInstagramで毎日あげてます！"
 lat: 34.6735
 lng: 135.4899
-tabelog_score: 3.6
 members:
   - "山内健司"
   - "濱家隆一"

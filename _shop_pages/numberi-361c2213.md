@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "オステリア セルヴァジーナ"
-description: "行列のできる相談所で紹介されたshokuji「オステリア セルヴァジーナ」（東京都豊島区）。食べログ3.76点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "行列のできる相談所で紹介されたshokuji「オステリア セルヴァジーナ」（東京都豊島区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "numberi-361c2213-"
 name: "オステリア セルヴァジーナ"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/134
 business_hours: "水・木・金 18:00 - 23:00 土・日 12:00 - 15:00 18:00 - 23:00 月・火 定休日 ＜チーズ工房＞※要予約※毎週木〜日曜日 12時〜19時（木曜日は夕方より）＜チーズのオンラインショップ＞毎週金曜日に製造＆発送"
 lat: 35.7360069
 lng: 139.7468276
-tabelog_score: 3.76
 members:
   - "岸優太"
 groups:

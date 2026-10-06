@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「立ち呑みぽっぽ亭」"
-description: "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）で紹介されたizakaya「立ち呑みぽっぽ亭」（大阪府大阪市福島区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）で紹介されたizakaya「立ち呑みぽっぽ亭」（大阪府大阪市福島区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "cda4be8d"
 name: "立ち呑みぽっぽ亭"
 genre: "izakaya"
@@ -17,7 +17,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 17:00 - 00:00 日 定休日"
 lat: 34.69475148797956
 lng: 135.48655562742016
-tabelog_score: 3.37
 groups:
   - "agroup"
   - "kingprince"

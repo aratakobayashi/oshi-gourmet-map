@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ハセガワストア 中道店」"
-description: "乃木坂工事中で紹介されたothers「ハセガワストア 中道店」（北海道函館市）。食べログ3.19点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「ハセガワストア 中道店」（北海道函館市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cdfa7942-"
 name: "ハセガワストア 中道店"
 genre: "others"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 41.8090125
 lng: 140.7603925
-tabelog_score: 3.19
 groups:
   - "nogizaka46"
 ---

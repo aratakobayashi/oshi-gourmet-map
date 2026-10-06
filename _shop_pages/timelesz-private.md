@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「牛の達人 Private 西新宿店」"
-description: "timelesz project -AUDITION-で紹介されたyakiniku「牛の達人 Private 西新宿店」（東京都新宿区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介されたyakiniku「牛の達人 Private 西新宿店」（東京都新宿区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-private-"
 name: "牛の達人 Private 西新宿店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "11:30 - 15:00 L.O. 14:30 15:00 - 23:00 L.O. 22:30 ■ 営業時間※年末年始･お盆期間は営業時間が異なる場合がございます｡■ 定休日12月30日は22時閉店12月31日〜1月2日まで店休 3日12:00から営業"
 lat: 35.690719
 lng: 139.6941527
-tabelog_score: 3.41
 members:
   - "菊池風磨"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「英国屋」"
-description: "白米様 MVで紹介されたothers「英国屋」（埼玉県飯能市）。食べログ3.28点、～￥999。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたothers「英国屋」（埼玉県飯能市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-900fe842-"
 name: "英国屋"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/245
 business_hours: "火・水・木・金・土・日 08:00 - 19:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.853272
 lng: 139.317416
-tabelog_score: 3.28
 groups:
   - "nogizaka46"
 ---

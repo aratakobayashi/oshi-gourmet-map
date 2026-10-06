@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「あちらぼ」"
-description: "=LOVEのYouTubeで紹介されたizakaya「あちらぼ」（東京都杉並区）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「あちらぼ」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a9d4d24e-202412"
 name: "あちらぼ"
 genre: "izakaya"
@@ -17,7 +17,6 @@ tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13282053/"
 thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 lat: 35.7078454
 lng: 139.6482776
-tabelog_score: 3.05
 members:
   - "諸橋沙夏"
 groups:

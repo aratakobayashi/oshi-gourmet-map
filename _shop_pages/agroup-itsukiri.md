@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "五氣里-itsukiri-"
-description: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？で紹介されたothers「五氣里-itsukiri-」（千葉県いすみ市）。食べログ4.48点、￥40,000～￥49,999。推し活グルメ巡礼スポット。"
+description: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？で紹介されたothers「五氣里-itsukiri-」（千葉県いすみ市）。￥40,000～￥49,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-itsukiri-"
 name: "五氣里-itsukiri-"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/164
 business_hours: "水・木・金・土・日 11:30 - 14:30 L.O. 14:00 18:00 - 22:00 L.O. 21:30 月・火 定休日"
 lat: 35.71271233804218
 lng: 140.24221408320713
-tabelog_score: 4.48
 members:
   - "正門良規"
   - "草間リチャード敬太"

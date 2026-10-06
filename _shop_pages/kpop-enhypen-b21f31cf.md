@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鳴門鯛焼本舗 新橋駅前店」"
-description: "ENHYPENで紹介されたothers「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-b21f31cf-"
 name: "鳴門鯛焼本舗 新橋駅前店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337
 business_hours: "10:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6668663
 lng: 139.7574154
-tabelog_score: 3.09
 members:
   - "ソンジェク"
 groups:

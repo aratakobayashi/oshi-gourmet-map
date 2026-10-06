@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「もんじゃ 竹の子」"
-description: "亀梨和也のYouTubeで紹介されたwashoku「もんじゃ 竹の子」（東京都中央区）。食べログ3.46点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたwashoku「もんじゃ 竹の子」（東京都中央区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-6d080bbe-202503"
 name: "もんじゃ 竹の子"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/rRtQ8rhdXno/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 12:00 - 22:00 日 11:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6649448
 lng: 139.783132
-tabelog_score: 3.46
 members:
   - "亀梨和也"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「サロン・ド・テ・カワムラ」"
-description: "旅スノ 金沢旅で紹介されたcafe「サロン・ド・テ・カワムラ」（石川県）。食べログ3.51点。推し活グルメ巡礼スポット。"
+description: "旅スノ 金沢旅で紹介されたcafe「サロン・ド・テ・カワムラ」（石川県）。推し活グルメ巡礼スポット。"
 shop_id: "0ff23edd"
 name: "サロン・ド・テ・カワムラ"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337
 business_hours: "月・火・水・木・金・土 10:00 - 17:30 L.O. 17:00 日・祝日 10:00 - 16:30 L.O. 16:00 ■ 定休日第１火曜日 ＊1月・5月・12月は営業します冬季休暇 12/22~1/4■ 特別営業時間[4/29 ~ 5/5] 10:00~17:00(閉店17:30)[5/6] 10:00~16:00 (閉店16:30)"
 lat: 36.55669836716658
 lng: 136.64707772541405
-tabelog_score: 3.51
 groups:
   - "snowman"
 ---

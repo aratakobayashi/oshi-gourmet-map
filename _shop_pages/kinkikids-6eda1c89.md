@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よろにく"
-description: "KinKi Kidsのブンブブーンで紹介されたyakiniku「よろにく」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介されたyakiniku「よろにく」（東京都港区）。￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-6eda1c89-"
 name: "よろにく"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/138
 business_hours: "■ 営業時間平日 17:00～土曜日 17:00～日曜・祝日 17:00～■ 定休日無休"
 lat: 35.6667236
 lng: 139.7188607
-tabelog_score: 3.94
 members:
   - "堂本光一"
   - "堂本剛"

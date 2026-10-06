@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "washoku"
@@ -21,7 +21,6 @@ seating_note: "SnowManが座った席は、3階の個室席です。 お店の�
 business_hours: "月・木・金・土・日 11:00 - 21:00 L.O. 20:40 火・水 定休日 ■ 営業時間11:00～20:30■ 定休日水曜日・火曜日"
 lat: 35.759
 lng: 139.5303
-tabelog_score: 3.36
 members:
   - "岩本照"
   - "深澤辰哉"

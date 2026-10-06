@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「納豆工房せんだい屋 池尻大橋店」"
-description: "玉川通り【Route246】で紹介されたcafe「納豆工房せんだい屋 池尻大橋店」（東京都世田谷区）。食べログ3.45点。推し活グルメ巡礼スポット。"
+description: "玉川通り【Route246】で紹介されたcafe「納豆工房せんだい屋 池尻大橋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-4cbec6ca-"
 name: "納豆工房せんだい屋 池尻大橋店"
 genre: "cafe"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 15:00 L.O. 15:00 ■ 営業時間[店舗]11:00～18:00■定休日なし"
 lat: 35.64924603870924
 lng: 139.681346374121
-tabelog_score: 3.45
 groups:
   - "nogizaka46"
 ---

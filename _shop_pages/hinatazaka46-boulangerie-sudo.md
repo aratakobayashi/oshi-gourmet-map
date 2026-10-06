@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「Boulangerie Sudo」"
-description: "日向坂で会いましょうで紹介されたsweets「Boulangerie Sudo」（東京都）。食べログ3.86点、～￥999。推し活グルメ巡礼スポット。"
+description: "日向坂で会いましょうで紹介されたsweets「Boulangerie Sudo」（東京都）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-boulangerie_sudo-"
 name: "Boulangerie Sudo"
 genre: "sweets"
@@ -15,7 +15,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/325
 business_hours: "金・土・日 11:00 - 19:00 月・火・水・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.64378658870429
 lng: 139.6549060740844
-tabelog_score: 3.86
 members:
   - "佐々木美玲"
 groups:

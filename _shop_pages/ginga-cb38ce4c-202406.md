@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「和食いぶり別邸 新橋店」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたwashoku「和食いぶり別邸 新橋店」（東京都港区）。食べログ3.39点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたwashoku「和食いぶり別邸 新橋店」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "ginga-cb38ce4c-202406"
 name: "和食いぶり別邸 新橋店"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/206
 business_hours: "月・火・水・木・金 17:00 - 23:30 L.O. 料理22:30 ドリンク23:00 土・祝日 16:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日 ■ 日曜定休〈有楽町店は日曜日も営業しております。ページ下部リンクからご予約頂けます。〉全席完全個室でご案内致します♪領収書にインボイス番号を印字しております。"
 lat: 35.6655555
 lng: 139.7563666
-tabelog_score: 3.39
 members:
   - "中丸雄一"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「フツウニフルウツ」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「フツウニフルウツ」（東京都目黒区）。食べログ3.43点。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「フツウニフルウツ」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-7b3cff12-"
 name: "フツウニフルウツ"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "◆2026年営業について6/6(土)~プレオープン(土日のみ営業)6/20(土)~グランドオープン(毎日営業)◆営業時間12:00 - 17:00"
 lat: 35.6442023
 lng: 139.6987133
-tabelog_score: 3.43
 members:
   - "伊野尾慧"
 groups:

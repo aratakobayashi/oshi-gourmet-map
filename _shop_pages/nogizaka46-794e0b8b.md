@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中野うどん学校 高松校」"
-description: "シンクロニシティ特典映像で紹介されたramen「中野うどん学校 高松校」（香川県高松市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたramen「中野うどん学校 高松校」（香川県高松市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-794e0b8b-"
 name: "中野うどん学校 高松校"
 genre: "ramen"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/809
 business_hours: "09:00 - 15:00"
 lat: 34.29603834776286
 lng: 134.01094371442716
-tabelog_score: 3.24
 groups:
   - "nogizaka46"
 ---

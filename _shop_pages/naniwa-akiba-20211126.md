@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ハイカラ フライド チキン ヨドバシAkiba店」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「ハイカラ フライド チキン ヨドバシAkiba店」（東京都千代田区）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「ハイカラ フライド チキン ヨドバシAkiba店」（東京都千代田区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-akiba-20211126"
 name: "ハイカラ フライド チキン ヨドバシAkiba店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "09:30 - 22:30"
 lat: 35.698802
 lng: 139.773971
-tabelog_score: 3.09
 members:
   - "長尾謙杜"
 groups:

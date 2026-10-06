@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大3木（ダイサンボク）」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「大3木（ダイサンボク）」（東京都港区）。食べログ3.33点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「大3木（ダイサンボク）」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/y2_U3Ys2fUc/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 11:30 - 14:00 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日"
 lat: 35.6689
 lng: 139.7253
-tabelog_score: 3.33
 members:
   - "二宮和也"
   - "山田涼介"

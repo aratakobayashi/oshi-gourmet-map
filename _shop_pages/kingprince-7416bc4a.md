@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「木負観光みかん園」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅静岡県沼津市のお魚屋さん・おでん屋さん・みかん直売所はどこ？で紹介されたothers「木負観光みかん園」（静岡県沼津市）。食べログ3.18点。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅静岡県沼津市のお魚屋さん・おでん屋さん・みかん直売所はどこ？で紹介されたothers「木負観光みかん園」（静岡県沼津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7416bc4a-"
 name: "木負観光みかん園"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277
 business_hours: "月・火・木・金・土・日 11:00 - 13:00 16:00 - 22:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.02036233885279
 lng: 138.8779092783319
-tabelog_score: 3.18
 members:
   - "永瀬廉"
   - "髙橋海人"

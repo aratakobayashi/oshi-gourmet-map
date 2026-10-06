@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「貴州火鍋」"
-description: "孤独のグルメ Season9 第7話で紹介されたwashoku「貴州火鍋」（東京都葛飾区）。食べログ3.41点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第7話で紹介されたwashoku「貴州火鍋」（東京都葛飾区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dfde9625-"
 name: "貴州火鍋"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木・金・祝日 17:00 - 22:00 土・日 12:00 - 15:00 17:00 - 22:00 水 定休日 ８月17日から２１日まで夏季休暇とさせていただきます"
 lat: 35.7433912
 lng: 139.8473472
-tabelog_score: 3.41
 members:
   - "井之頭五郎"
 groups:

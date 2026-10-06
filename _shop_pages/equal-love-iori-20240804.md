@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「IORI」"
-description: "=LOVEのYouTubeで紹介されたshokuji「IORI」（北海道千歳市）。食べログ3.66点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「IORI」（北海道千歳市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/tSU-TMf1mE0/hqdefault.jpg"
 business_hours: "11:00 - 15:00 L.O. 料理14:30 17:00 - 20:00 L.O. 料理19:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 42.832672
 lng: 141.661228
-tabelog_score: 3.66
 members:
   - "大谷映美里"
   - "佐々木舞香"

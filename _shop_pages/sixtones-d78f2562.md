@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「大衆割烹 すみれ」"
-description: "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？で紹介されたwashoku「大衆割烹 すみれ」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？で紹介されたwashoku「大衆割烹 すみれ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-d78f2562-"
 name: "大衆割烹 すみれ"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/903
 business_hours: "月・火・水・木・金 17:00 - 22:00 土・日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7078786
 lng: 139.7299978
-tabelog_score: 3.36
 members:
   - "ジェシー"
   - "京本大我"

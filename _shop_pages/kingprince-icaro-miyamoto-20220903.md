@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ICARO miyamoto」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「ICARO miyamoto」（東京都目黒区）。食べログ3.79点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「ICARO miyamoto」（東京都目黒区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-icaro_miyamoto-20220903"
 name: "ICARO miyamoto"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・祝前日・祝後日 17:30 - 00:00 土・祝日 17:00 - 23:00 日 定休日 ■ 営業時間[月～金]17：30～24:00(21:30までにご入店下さい)｢土曜祝日｣17:00～23:30(21:00までにご入店下さい)■ 定休日日曜"
 lat: 35.64194173791345
 lng: 139.69689618287455
-tabelog_score: 3.79
 members:
   - "平野紫耀"
   - "神宮寺勇太"

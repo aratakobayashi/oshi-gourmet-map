@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「寺カフェ」"
-description: "めざましテレビ 2018.10.04で紹介されたcafe「寺カフェ」（東京都渋谷区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2018.10.04で紹介されたcafe「寺カフェ」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b6634ea5-"
 name: "寺カフェ"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/294
 business_hours: "08:00 - 18:00 L.O. 17:00"
 lat: 35.6481373
 lng: 139.7032756
-tabelog_score: 3.6
 members:
   - "伊野尾慧"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「キントレ」"
-description: "【キントレ当たり前レストラン】マルゲリータのピザ屋さんはどこ？で紹介されたothers「キントレ」（東京都目黒区）。食べログ3.67点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【キントレ当たり前レストラン】マルゲリータのピザ屋さんはどこ？で紹介されたothers「キントレ」（東京都目黒区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-d7ab04df-"
 name: "キントレ"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/432
 business_hours: "火・水・木・金・土・日 11:30 - 14:00 17:30 - 22:00 L.O. 21:30 月 定休日 ■ 定休日月曜日、第2火曜日（Googleに掲載）祝日は営業"
 lat: 35.6472148253174
 lng: 139.69526428266843
-tabelog_score: 3.67
 members:
   - "永瀬廉"
   - "髙橋海人"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAVA CAVALLO」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「CAVA CAVALLO」（東京都渋谷区）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「CAVA CAVALLO」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cava_cavallo-20220910"
 name: "CAVA CAVALLO"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
 lat: 35.6704333
 lng: 139.7107597
-tabelog_score: 3.08
 members:
   - "平野紫耀"
   - "岸優太"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「コーヒーラウンジジョイ」"
-description: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？で紹介されたcafe「コーヒーラウンジジョイ」（東京都台東区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？で紹介されたcafe「コーヒーラウンジジョイ」（東京都台東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-f850084c-"
 name: "コーヒーラウンジジョイ"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348
 business_hours: "月・火・水・木・金・土 08:30 - 18:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7175966
 lng: 139.7975626
-tabelog_score: 3.41
 members:
   - "ジェシー"
   - "京本大我"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「move move (ムーブムーブ)」"
-description: "【Vlog】新大久保の素敵な抹茶ラテカフェで紹介されたcafe「move move (ムーブムーブ)」（東京都新宿区）。食べログ3.26点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【Vlog】新大久保の素敵な抹茶ラテカフェで紹介されたcafe「move move (ムーブムーブ)」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_008"
 name: "move move (ムーブムーブ)"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314
 business_hours: "月・火・水・木・金・土・日 11:00 - 22:30 L.O. 料理21:30 祝日・祝前日・祝後日 11:00 - 22:30 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6938
 lng: 139.7036
-tabelog_score: 3.26
 members:
   - "大谷映美里"
 groups:

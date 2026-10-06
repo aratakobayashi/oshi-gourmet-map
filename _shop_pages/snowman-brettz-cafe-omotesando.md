@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ブレッツカフェ クレープリー 表参道店」"
-description: "Snow ManのYouTubeで紹介されたcafe「ブレッツカフェ クレープリー 表参道店」（東京都渋谷区）。食べログ3.52点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたcafe「ブレッツカフェ クレープリー 表参道店」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-brettz-cafe-omotesando"
 name: "ブレッツカフェ クレープリー 表参道店"
 genre: "cafe"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/F_8ppM90cTA/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 23:00 L.O. 22:00 土・日・祝日 11:00 - 22:00 L.O. 21:30 ■ 定休日無"
 lat: 35.6705
 lng: 139.7128
-tabelog_score: 3.52
 members:
   - "ラウール"
   - "渡辺翔太"

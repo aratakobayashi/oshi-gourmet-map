@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ALAND TOKYO」"
-description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたothers「ALAND TOKYO」（東京都 渋谷区）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたothers「ALAND TOKYO」（東京都 渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-aland_tokyo-"
 name: "ALAND TOKYO"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/324
 business_hours: "月・火・水・木・金・土 09:00 - 22:00 日 09:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6620752
 lng: 139.6974957
-tabelog_score: 3.49
 members:
   - "永瀬廉"
   - "髙橋海人"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「すし 台所家 三軒茶屋店」"
-description: "孤独のグルメ Season6 第5話で紹介されたwashoku「すし 台所家 三軒茶屋店」（東京都世田谷区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第5話で紹介されたwashoku「すし 台所家 三軒茶屋店」（東京都世田谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-26de77d7-"
 name: "すし 台所家 三軒茶屋店"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土・日・祝日 11:00 - 23:00"
 lat: 35.6469025
 lng: 139.652531
-tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

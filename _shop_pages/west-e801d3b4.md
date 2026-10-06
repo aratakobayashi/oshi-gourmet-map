@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "アジアカレーハウス"
-description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介されたshokuji「アジアカレーハウス」（東京都）。食べログ3.22点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介されたshokuji「アジアカレーハウス」（東京都）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-e801d3b4"
 name: "アジアカレーハウス"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/248
 source_type: "tv"
 lat: 35.69456155114682
 lng: 139.8136478265533
-tabelog_score: 3.22
 members:
   - "濵田崇裕"
 groups:

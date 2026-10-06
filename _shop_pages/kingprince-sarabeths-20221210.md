@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Sarabeth’s」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「Sarabeth’s」（東京都千代田区）。食べログ3.5点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「Sarabeth’s」（東京都千代田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-sarabeths-20221210"
 name: "Sarabeth’s"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 09:00 - 22:00 L.O. 21:00 ※お席混雑時は、モーニング、ランチタイム…１時間半制ディナータイム…２時間制■ 営業時間【3F Roof Top Terrace】…不定期でのオープンとなっております（テラスプラン以外は「テラス席のご予約は承っておりません）※ラストオーダー時刻は、オフィシャルサイトでご確認ください。■ 定休日不定休"
 lat: 35.68156
 lng: 139.767201
-tabelog_score: 3.5
 members:
   - "神宮寺勇太"
   - "岸優太"

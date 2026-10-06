@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ゆたか銀座」"
-description: "嵐にしやがれで紹介されたothers「ゆたか銀座」（東京都中央区）。食べログ3.25点、￥40,000～￥49,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「ゆたか銀座」（東京都中央区）。￥40,000～￥49,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-45b23f44-"
 name: "ゆたか銀座"
 genre: "others"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 17:00 - 22:00 日・祝日 定休日"
 lat: 35.669261
 lng: 139.764429
-tabelog_score: 3.25
 groups:
   - "arashi"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "高田馬場 Ristorante En"
-description: "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ宝箱弁当で紹介されたshokuji「高田馬場 Ristorante En」（東京都新宿区）。食べログ3.39点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ宝箱弁当で紹介されたshokuji「高田馬場 Ristorante En」（東京都新宿区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-ristorante_en-"
 name: "高田馬場 Ristorante En"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/222
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 13:30 18:00 - 22:00 L.O. 21:00 土・祝日 11:30 - 15:00 L.O. 13:30 17:30 - 22:00 L.O. 21:00 日 定休日 仕入れや在庫の関係により早期閉店あり。■ 定休日不定休"
 lat: 35.7126839
 lng: 139.7036425
-tabelog_score: 3.39
 members:
   - "堂本光一"
   - "堂本剛"

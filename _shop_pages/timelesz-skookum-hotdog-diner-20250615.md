@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「SKOOKUM HOTDOG DINER」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたchuka「SKOOKUM HOTDOG DINER」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたchuka「SKOOKUM HOTDOG DINER」（東京都目黒区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-skookum_hotdog_diner-20250615"
 name: "SKOOKUM HOTDOG DINER"
 genre: "chuka"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/165
 business_hours: "月・水・木・金・土・日 11:30 - 23:00 L.O. 22:30 火 定休日"
 lat: 35.6513684
 lng: 139.6934004
-tabelog_score: 3.54
 members:
   - "橋本将生"
   - "篠塚大輝"

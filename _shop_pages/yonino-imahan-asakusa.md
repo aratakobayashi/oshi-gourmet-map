@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草今半 国際通り本店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草今半 国際通り本店」（東京都台東区）。食べログ3.63点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草今半 国際通り本店」（東京都台東区）。￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-imahan-asakusa"
 name: "浅草今半 国際通り本店"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/4gt1nSNPmSQ/hqdefault.jpg"
 business_hours: "11:30 - 21:30 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7155
 lng: 139.7924
-tabelog_score: 3.63
 members:
   - "二宮和也"
   - "山田涼介"

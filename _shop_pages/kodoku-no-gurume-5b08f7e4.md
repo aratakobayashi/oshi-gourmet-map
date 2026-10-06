@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「屋台純ちゃん」"
-description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「屋台純ちゃん」（福岡県福岡市）。食べログ3.1点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「屋台純ちゃん」（福岡県福岡市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5b08f7e4-"
 name: "屋台純ちゃん"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "19:30 - 01:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 33.5898988
 lng: 130.4017509
-tabelog_score: 3.1
 members:
   - "井之頭五郎"
 groups:

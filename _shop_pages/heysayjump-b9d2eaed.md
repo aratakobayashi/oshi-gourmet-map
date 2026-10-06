@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「チョルドゥンノム」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたshokuji「チョルドゥンノム」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたshokuji「チョルドゥンノム」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b9d2eaed-"
 name: "チョルドゥンノム"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/293
 business_hours: "11:00 - 23:00 L.O. 22:00 ■ 営業時間※揚げ物のみ L.O 21:30になります。■ 定休日1/1"
 lat: 35.7046389
 lng: 139.7052761
-tabelog_score: 3.41
 members:
   - "伊野尾慧"
 groups:

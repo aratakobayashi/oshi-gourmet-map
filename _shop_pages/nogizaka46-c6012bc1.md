@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「菊地商店」"
-description: "17thインフルエンサーType-Aで紹介されたshokuji「菊地商店」（東京都品川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Aで紹介されたshokuji「菊地商店」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c6012bc1-"
 name: "菊地商店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg"
 source_type: "tv"
 lat: 35.59332
 lng: 139.7350645
-tabelog_score: 3.0
 members:
   - "岩本蓮加"
 groups:

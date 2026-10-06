@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「一蘭 渋谷店」"
-description: "SixTONESのYouTubeで紹介されたramen「一蘭 渋谷店」（東京都渋谷区）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたramen「一蘭 渋谷店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3a0ff52-202003"
 name: "一蘭 渋谷店"
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/fjljPstbzAw/hqdefault.jpg"
 business_hours: "24時間営業 ※営業時間は変更になる場合がございますので、最新情報は公式HPをご確認ください年中無休"
 lat: 35.6611
 lng: 139.7008
-tabelog_score: 3.2
 members:
   - "ジェシー"
   - "京本大我"

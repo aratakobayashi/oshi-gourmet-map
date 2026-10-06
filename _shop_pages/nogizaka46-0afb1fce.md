@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「神戸牛和ノ宮 道頓堀本店」"
-description: "乃木坂配信中（山下美月）で紹介されたothers「神戸牛和ノ宮 道頓堀本店」（大阪府大阪市）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中（山下美月）で紹介されたothers「神戸牛和ノ宮 道頓堀本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-0afb1fce-"
 name: "神戸牛和ノ宮 道頓堀本店"
 genre: "others"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/298
 business_hours: "11:00 - 22:00 L.O. 料理21:30"
 lat: 34.6685063
 lng: 135.5032623
-tabelog_score: 3.08
 groups:
   - "nogizaka46"
 ---

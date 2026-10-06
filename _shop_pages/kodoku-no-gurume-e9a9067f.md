@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「金城パーラー」"
-description: "孤独のグルメ Season10 第2023話で紹介されたshokuji「金城パーラー」（沖縄県中頭郡読谷村）。食べログ3.28点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介されたshokuji「金城パーラー」（沖縄県中頭郡読谷村）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e9a9067f-"
 name: "金城パーラー"
 genre: "shokuji"
@@ -17,7 +17,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 17:00 休み：大雨時、強風時。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 26.3961234
 lng: 127.7449497
-tabelog_score: 3.28
 members:
   - "井之頭五郎"
 groups:

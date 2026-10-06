@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「一蘭 原宿店」"
-description: "亀梨和也のYouTubeで紹介されたramen「一蘭 原宿店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「一蘭 原宿店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-0a3faf7a-202410"
 name: "一蘭 原宿店"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg"
 business_hours: "09:00 - 22:00 L.O. 料理21:45 ※営業時間は変更になる場合がございますので、最新情報は公式HPをご確認ください年中無休"
 lat: 35.6679219
 lng: 139.7052087
-tabelog_score: 3.09
 members:
   - "亀梨和也"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「MJQ」"
-description: "嵐にしやがれで紹介されたshokuji「MJQ」（東京都中央区）。食べログ3.15点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「MJQ」（東京都中央区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-mjq-20200101"
 name: "MJQ"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・祝日・祝前日・祝後日 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日 定休日"
 lat: 35.670113
 lng: 139.765481
-tabelog_score: 3.15
 members:
   - "櫻井翔"
 groups:

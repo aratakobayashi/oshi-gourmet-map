@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「焼肉 哲 TETSU 池袋店」"
-description: "=LOVEのYouTubeで紹介されたyakiniku「焼肉 哲 TETSU 池袋店」（東京都豊島区）。食べログ3.4点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたyakiniku「焼肉 哲 TETSU 池袋店」（東京都豊島区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-tetsu-202408"
 name: "焼肉 哲 TETSU 池袋店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/FfoCq5L1SRg/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 11:30 - 15:00 L.O. 料理14:00 ドリンク14:30 17:00 - 23:15 L.O. 22:45 日 11:30 - 15:00 L.O. 料理14:00 ドリンク14:30 ■ 営業時間ネット予約ができない際は、時間帯によって予約が取れる場合があるのでお電話下さい。■ 定休日無 ※週末は予約必須！！平日が狙い目です。年末年始休まず営業！！"
 lat: 35.7265922
 lng: 139.7157472
-tabelog_score: 3.4
 members:
   - "大谷映美里"
   - "野口衣織"

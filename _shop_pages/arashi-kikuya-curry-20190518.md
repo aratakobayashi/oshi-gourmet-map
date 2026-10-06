@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
-description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。食べログ3.69点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
 genre: "izakaya"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "火・水・木 11:00 - 14:30 土・日・祝日 11:00 - 20:00 月・金 定休日 ■ 営業時間[土・日・祝(月曜を含む)]11:00～20:00(L.O)■ 定休日月曜祝日の場合は翌火曜日"
 lat: 35.447633
 lng: 139.628719
-tabelog_score: 3.69
 members:
   - "櫻井翔"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「龍公亭」"
-description: "嵐にしやがれで紹介されたothers「龍公亭」（愛知県名古屋市）。食べログ3.48点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「龍公亭」（愛知県名古屋市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-8a6cc21b-"
 name: "龍公亭"
 genre: "others"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30 日 定休日 ■ 定休日第一第三月曜日"
 lat: 35.0962021
 lng: 136.8979043
-tabelog_score: 3.48
 groups:
   - "arashi"
 ---

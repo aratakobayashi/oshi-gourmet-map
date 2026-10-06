@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「NEW LIGHT」"
-description: "しおりのYouTubeで紹介されたizakaya「NEW LIGHT」（東京都渋谷区）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「NEW LIGHT」（東京都渋谷区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-new_light-20240316"
 name: "NEW LIGHT"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361
 business_hours: "月・火・水・木・金・土・祝日・祝前日・祝後日 11:00 - 23:00 L.O. 料理21:30 ドリンク22:30 日 11:00 - 23:00 L.O. 料理21:30 ドリンク22:00 ■ 営業時間[WEEKDAY]LUNCH /11:30~14:45(l.o.)DINNER /18:00~21:30(l.o.)CAFE&BAR / 11:00~23:00(l.o.22:30)[HOL"
 lat: 35.6661069
 lng: 139.7041199
-tabelog_score: 3.49
 members:
   - "しおり"
 groups:

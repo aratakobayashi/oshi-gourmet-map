@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「OSEBA」"
-description: "なにわ男子のどっち派で紹介されたshokuji「OSEBA」（東京都八王子市）。食べログ3.71点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたshokuji「OSEBA」（東京都八王子市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-oseba-"
 name: "OSEBA"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216
 business_hours: "11:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6642256
 lng: 139.3594049
-tabelog_score: 3.71
 members:
   - "高橋恭平"
 groups:

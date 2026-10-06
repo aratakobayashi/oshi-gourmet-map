@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「zzz365 BiVi新さっぽろ店」"
-description: "いたジャン！1時間スペシャル（2025年8月20日 テレビ朝日系）で紹介されたothers「zzz365 BiVi新さっぽろ店」（北海道札幌市）。食べログ3.30点。推し活グルメ巡礼スポット。"
+description: "いたジャン！1時間スペシャル（2025年8月20日 テレビ朝日系）で紹介されたothers「zzz365 BiVi新さっぽろ店」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-zzz365_bivi-20250820"
 name: "zzz365 BiVi新さっぽろ店"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/346
 source_type: "tv"
 lat: 43.0391721
 lng: 141.4749065
-tabelog_score: 3.30
 members:
   - "橋本将生"
 groups:

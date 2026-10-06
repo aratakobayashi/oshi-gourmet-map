@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「やきやき三輪 大阪堀江店」"
-description: "Stray Kids 2023年ドームツアー来日時 Instagramで紹介されたyakiniku「やきやき三輪 大阪堀江店」（大阪府大阪市）。食べログ3.4点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "Stray Kids 2023年ドームツアー来日時 Instagramで紹介されたyakiniku「やきやき三輪 大阪堀江店」（大阪府大阪市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-1ce30364-"
 name: "やきやき三輪 大阪堀江店"
 genre: "yakiniku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/193
 business_hours: "月・火・水・木・金・土 17:00 - 23:00 日・祝日 17:00 - 22:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6813858
 lng: 135.4834849
-tabelog_score: 3.4
 members:
   - "フィリックス"
   - "チャンビン"

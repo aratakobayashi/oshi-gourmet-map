@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥取市役所 食堂」"
-description: "孤独のグルメ Season8 第8話で紹介されたramen「鳥取市役所 食堂」（鳥取県鳥取市）。食べログ3.2点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第8話で紹介されたramen「鳥取市役所 食堂」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f729085e-"
 name: "鳥取市役所 食堂"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "■営業時間10:30～16:00■定休日土曜日・日曜日・祝日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4943948
 lng: 134.2219282
-tabelog_score: 3.2
 members:
   - "井之頭五郎"
 groups:

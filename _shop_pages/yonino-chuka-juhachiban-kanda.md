@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「中華料理 十八番」"
-description: "よにのちゃんねるのYouTubeで紹介されたchuka「中華料理 十八番」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたchuka「中華料理 十八番」（東京都千代田区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
 genre: "chuka"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg"
 business_hours: "月・水・土・日 11:00 - 14:30 17:00 - 20:30 金 11:00 - 15:00 17:00 - 20:30 火・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6941
 lng: 139.7688
-tabelog_score: 3.51
 members:
   - "二宮和也"
   - "山田涼介"

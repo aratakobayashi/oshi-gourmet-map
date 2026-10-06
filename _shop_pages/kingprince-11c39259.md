@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「居酒屋 うっちゃり」"
-description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介されたizakaya「居酒屋 うっちゃり」（東京都港区）。食べログ3.47点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介されたizakaya「居酒屋 うっちゃり」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-11c39259-"
 name: "居酒屋 うっちゃり"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/291
 business_hours: "月・火・水・木・金 16:00 - 23:00 土・祝日 15:00 - 22:00 日 定休日 営業時間が変更になる場合がございます。ご確認の上ご来店くださいませ。"
 lat: 35.666620237916675
 lng: 139.7562575830822
-tabelog_score: 3.47
 members:
   - "永瀬廉"
   - "髙橋海人"

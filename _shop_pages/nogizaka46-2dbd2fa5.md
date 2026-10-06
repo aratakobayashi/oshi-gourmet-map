@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「嵐山さくら餅 稲」"
-description: "さくさんぽ 京都嵐山で紹介されたsweets「嵐山さくら餅 稲」（京都府京都市）。食べログ3.54点、～￥999。推し活グルメ巡礼スポット。"
+description: "さくさんぽ 京都嵐山で紹介されたsweets「嵐山さくら餅 稲」（京都府京都市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-2dbd2fa5-"
 name: "嵐山さくら餅 稲"
 genre: "sweets"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/213
 business_hours: "10:00 - 18:00"
 lat: 35.0163
 lng: 135.6799
-tabelog_score: 3.54
 members:
   - "遠藤さくら"
 groups:

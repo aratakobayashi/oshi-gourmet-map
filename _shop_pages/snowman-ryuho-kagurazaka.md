@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「龍朋」"
-description: "Snow ManのYouTubeで紹介されたchuka「龍朋」（東京都新宿区）。食べログ3.66点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたchuka「龍朋」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ryuho-kagurazaka"
 name: "龍朋"
 genre: "chuka"
@@ -21,7 +21,6 @@ seating_note: "4人が座った席は、入口入って右手エリア、入口�
 business_hours: "月・火・水・木・金・土 11:00 - 22:00 日 定休日 ■ 定休日祝日の月曜日追記2025年1月から、祝日に限らず、月2回ほど月曜日が不定休に変更になっています詳しくは公式Xへ毎月の営業カレンダーが公式Xで発信されています 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.703
 lng: 139.7383
-tabelog_score: 3.66
 members:
   - "宮舘涼太"
   - "岩本照"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「ダイニングダーツバー Bee 新宿店」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたizakaya「ダイニングダーツバー Bee 新宿店」（東京都新宿区）。食べログ3.1点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたizakaya「ダイニングダーツバー Bee 新宿店」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-bee-20170201"
 name: "ダイニングダーツバー Bee 新宿店"
 genre: "izakaya"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 17:00 - 05:00 土・日・祝日 15:00 - 05:00"
 lat: 35.6921592
 lng: 139.7006065
-tabelog_score: 3.1
 members:
   - "髙木雄也"
   - "八乙女光"

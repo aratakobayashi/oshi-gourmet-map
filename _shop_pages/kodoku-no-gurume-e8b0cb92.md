@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ノング インレイ」"
-description: "孤独のグルメ Season6 第6話で紹介されたramen「ノング インレイ」（東京都新宿区）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第6話で紹介されたramen「ノング インレイ」（東京都新宿区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e8b0cb92-"
 name: "ノング インレイ"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "11:30 - 23:00 L.O. 22:00"
 lat: 35.6937632
 lng: 139.7036319
-tabelog_score: 3.48
 members:
   - "井之頭五郎"
 groups:

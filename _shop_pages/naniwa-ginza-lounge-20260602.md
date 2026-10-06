@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「パンとエスプレッソと GINZA LOUNGE」"
-description: "なにわ男子のどっち派 (2026-06-02)で紹介されたcafe「パンとエスプレッソと GINZA LOUNGE」（東京都中央区）。食べログ3.06点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-06-02)で紹介されたcafe「パンとエスプレッソと GINZA LOUNGE」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ginza_lounge-20260602"
 name: "パンとエスプレッソと GINZA LOUNGE"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/307
 business_hours: "月・火・水・木・金 10:00 - 17:00 L.O. 16:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.06
 members:
   - "高橋恭平"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ancolo cafe」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ancolo cafe」（東京都目黒区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ancolo cafe」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ancolo_cafe-20250321"
 name: "ancolo cafe"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/270
 business_hours: "木・金・土・日・祝日 11:00 - 19:00 月・火・水 定休日 月曜・火曜・水曜も祝日の場合は営業します。"
 lat: 35.6361342
 lng: 139.7110641
-tabelog_score: 3.49
 members:
   - "大西流星"
 groups:

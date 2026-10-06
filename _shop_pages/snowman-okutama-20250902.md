@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「OKUTAMA＋」"
-description: "Snow ManのYouTubeで紹介されたshokuji「OKUTAMA＋」（東京都西多摩郡奥多摩町）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「OKUTAMA＋」（東京都西多摩郡奥多摩町）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-okutama-20250902"
 name: "OKUTAMA＋"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/462
 business_hours: "■ 営業時間[土・日]11:00~19:30 (フード L.O18:00 お酒L.O 19:00 )※コロナウイルス感染症対策として営業時間短縮しております。※祝日関係なく土日のみの営業■ 定休日祝日関係なく土日のみの営業"
 lat: 35.8100778
 lng: 139.0954588
-tabelog_score: 3.52
 members:
   - "岩本照"
   - "ラウール"

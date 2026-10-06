@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「ブレドール 葉山本店」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたcafe「ブレドール 葉山本店」（神奈川県三浦郡葉山町）。食べログ3.67点、～￥999。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたcafe「ブレドール 葉山本店」（神奈川県三浦郡葉山町）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-45f14b60-"
 name: "ブレドール 葉山本店"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "月・水・木・金・土・日 07:00 - 18:00 火 定休日 ■ 定休日火曜日(祝日の場合営業) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.26866
 lng: 139.589695
-tabelog_score: 3.67
 members:
   - "ガウル"
   - "ウォニョン"

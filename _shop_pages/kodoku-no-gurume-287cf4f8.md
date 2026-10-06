@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「味の五十番」"
-description: "孤独のグルメ Season10 第2022話で紹介されたramen「味の五十番」（北海道苫小牧市）。食べログ3.55点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたramen「味の五十番」（北海道苫小牧市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-287cf4f8-"
 name: "味の五十番"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・水・木・金・土・日 10:30 - 14:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 42.6341039
 lng: 141.6054899
-tabelog_score: 3.55
 members:
   - "井之頭五郎"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe+8101（カフェ プラス エイトワンオーワン）」"
-description: "【だが、情熱はあるロケ地】山里がしずちゃんを追いかけて行ったカフェは？で紹介されたcafe「Cafe+8101（カフェ プラス エイトワンオーワン）」（東京都世田谷区）。食べログ3.28点。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はあるロケ地】山里がしずちゃんを追いかけて行ったカフェは？で紹介されたcafe「Cafe+8101（カフェ プラス エイトワンオーワン）」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe_8101-"
 name: "Cafe+8101（カフェ プラス エイトワンオーワン）"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/258
 business_hours: "09:00 - 22:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.63352
 lng: 139.6302503
-tabelog_score: 3.28
 members:
   - "ジェシー"
   - "京本大我"

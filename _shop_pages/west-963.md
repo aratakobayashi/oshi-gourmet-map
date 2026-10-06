@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "963"
-description: "イキスギさんについてった 2023-06-06 なのにツアーで紹介されたramen「963」（千葉県船橋市）。食べログ3.48点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-06-06 なのにツアーで紹介されたramen「963」（千葉県船橋市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "west-963-"
 name: "963"
 genre: "ramen"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "18:00 - 04:00 L.O. 03:00 ■ 定休日不定休"
 lat: 35.6940325
 lng: 139.976026
-tabelog_score: 3.48
 members:
   - "桐山照史"
 groups:

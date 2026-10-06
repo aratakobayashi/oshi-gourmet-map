@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「THE LIVING （ザ・リビング）」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨大いちごパフェ」のお店はどこ？で紹介されたothers「THE LIVING （ザ・リビング）」（東京都大田区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨大いちごパフェ」のお店はどこ？で紹介されたothers「THE LIVING （ザ・リビング）」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-the_living-"
 name: "THE LIVING （ザ・リビング）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/243
 business_hours: "月・火・水・木・金 11:00 - 17:00 L.O. 16:00 土・日・祝日 11:00 - 18:00 L.O. 17:00 ■ 営業時間臨時休業が多い店ですので、最新情報は必ずFacebookページでもご確認頂ければ幸いです。■ 定休日年末年始と秋休み。詳細はFBページにてご案内しております。"
 lat: 35.5706647
 lng: 139.6923407
-tabelog_score: 3.66
 members:
   - "永瀬廉"
   - "髙橋海人"

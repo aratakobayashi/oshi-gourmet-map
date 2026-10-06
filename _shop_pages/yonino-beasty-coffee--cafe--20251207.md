@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Beasty Coffee [ cafe laboratory ]」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-beasty_coffee__cafe_-20251207"
 name: "Beasty Coffee [ cafe laboratory ]"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/0UEnIqazHQI/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日 08:00 - 20:00 L.O. 19:30 ※1.2月の営業時間Open 9:00Close18:00（L.O.17:30）※貸切営業等での時短営業の場合があります"
 lat: 35.6672759
 lng: 139.6905009
-tabelog_score: 3.48
 groups:
   - "yonino"
 ---

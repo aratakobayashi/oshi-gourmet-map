@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「カプリチョーザ 渋谷本店」"
-description: "かまいたちのYouTubeで紹介されたshokuji「カプリチョーザ 渋谷本店」（東京都渋谷区）。食べログ3.26点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたshokuji「カプリチョーザ 渋谷本店」（東京都渋谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-6ce06b6f-"
 name: "カプリチョーザ 渋谷本店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://img.youtube.com/vi/q-UKt66uFp8/hqdefault.jpg"
 business_hours: "11:00 - 15:00 17:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6591
 lng: 139.7026
-tabelog_score: 3.26
 members:
   - "山内健司"
   - "濱家隆一"

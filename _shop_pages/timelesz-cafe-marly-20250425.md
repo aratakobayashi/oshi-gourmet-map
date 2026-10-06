@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「Café Marly」"
-description: "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日）で紹介されたcafe「Café Marly」（東京都渋谷区）。食べログ3.42点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日）で紹介されたcafe「Café Marly」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-cafe_marly-20250425"
 name: "Café Marly"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344
 business_hours: "11:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6620752
 lng: 139.6974957
-tabelog_score: 3.42
 members:
   - "菊池風磨"
   - "橋本将生"

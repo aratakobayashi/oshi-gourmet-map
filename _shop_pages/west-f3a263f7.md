@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "恵比寿 米ル"
-description: "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠れレストラン回で紹介されたshokuji「恵比寿 米ル」（東京都渋谷区）。食べログ3.62点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠れレストラン回で紹介されたshokuji「恵比寿 米ル」（東京都渋谷区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "west-f3a263f7-"
 name: "恵比寿 米ル"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "17:30 - 23:00 ■定休日 年末年始"
 lat: 35.6507318
 lng: 139.7046751
-tabelog_score: 3.62
 groups:
   - "west"
 ordered_items:

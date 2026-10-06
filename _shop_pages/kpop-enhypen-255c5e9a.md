@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「おにやんま 新橋店」"
-description: "ENHYPENで紹介されたothers「おにやんま 新橋店」（東京都港区）。食べログ3.71点、～￥999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「おにやんま 新橋店」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-255c5e9a-"
 name: "おにやんま 新橋店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/996
 business_hours: "月・火・水・木・金・土 07:00 - 22:30 日・祝日 07:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6655555
 lng: 139.7563666
-tabelog_score: 3.71
 members:
   - "ソンジェク"
 groups:

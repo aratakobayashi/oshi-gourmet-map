@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KOSUGI GRILL MARKET」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介されたyakiniku「KOSUGI GRILL MARKET」（神奈川県川崎市）。食べログ3.06点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-05-17)で紹介されたyakiniku「KOSUGI GRILL MARKET」（神奈川県川崎市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kosugi_grill_market-20240517"
 name: "KOSUGI GRILL MARKET"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/217
 business_hours: "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.574686
 lng: 139.657252
-tabelog_score: 3.06
 members:
   - "藤原丈一郎"
 groups:

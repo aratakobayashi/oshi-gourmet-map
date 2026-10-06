@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ほうとう蔵 歩成 河口湖店」"
-description: "それスノ 日帰りバスツアー in河口湖で紹介されたshokuji「ほうとう蔵 歩成 河口湖店」（山梨県）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "それスノ 日帰りバスツアー in河口湖で紹介されたshokuji「ほうとう蔵 歩成 河口湖店」（山梨県）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "caa4cbbd"
 name: "ほうとう蔵 歩成 河口湖店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/745
 business_hours: "11:00 - 21:00 L.O. 20:30 ＊ラストオーダーは変更になる日がございます。ご来店前に電話にてご確認ください。"
 lat: 35.49050343771152
 lng: 138.76077808200108
-tabelog_score: 3.51
 groups:
   - "snowman"
 ---

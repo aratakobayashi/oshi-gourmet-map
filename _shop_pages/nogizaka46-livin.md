@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「LIVIN よこすか店」"
-description: "うみかぜ公園【ブランコ】で紹介されたshokuji「LIVIN よこすか店」（神奈川県横須賀市）。食べログ3.11点。推し活グルメ巡礼スポット。"
+description: "うみかぜ公園【ブランコ】で紹介されたshokuji「LIVIN よこすか店」（神奈川県横須賀市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-livin-"
 name: "LIVIN よこすか店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2748738289478
 lng: 139.68382243033776
-tabelog_score: 3.11
 groups:
   - "nogizaka46"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江町コロッケ」"
-description: "=LOVEのYouTubeで紹介されたsweets「近江町コロッケ」（石川県金沢市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「近江町コロッケ」（石川県金沢市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0d7bdac2-202408"
 name: "近江町コロッケ"
 genre: "sweets"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 business_hours: "08:00 - 17:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 31.9247486
 lng: 131.4329591
-tabelog_score: 3.44
 members:
   - "大谷映美里"
 groups:

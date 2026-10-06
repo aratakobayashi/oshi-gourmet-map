@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「はち福」"
-description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたothers「はち福」（大阪府大阪市）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたothers「はち福」（大阪府大阪市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-0102bcf9-"
 name: "はち福"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/371
 business_hours: "月・火・水・金・土・日 17:00 - 23:00 木 定休日"
 lat: 34.6946869379795
 lng: 135.48622187741972
-tabelog_score: 3.38
 members:
   - "永瀬廉"
   - "髙橋海人"

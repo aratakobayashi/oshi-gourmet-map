@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「築地銀だこ 本店」"
-description: "キントレ バイトレ【髙橋海人ロケ地】築地銀だこ たこ焼き屋はどこ？で紹介されたothers「築地銀だこ 本店」（東京都中央区）。食べログ3.29点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "キントレ バイトレ【髙橋海人ロケ地】築地銀だこ たこ焼き屋はどこ？で紹介されたothers「築地銀だこ 本店」（東京都中央区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-f30d7811-"
 name: "築地銀だこ 本店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330
 business_hours: "月・火・水・木・金 17:00 - 23:00 土・日・祝日 12:00 - 23:00 ※年末年始・大型連休の営業時間は公式HPをご覧ください。"
 lat: 35.6650914
 lng: 139.7708281
-tabelog_score: 3.29
 members:
   - "永瀬廉"
   - "髙橋海人"

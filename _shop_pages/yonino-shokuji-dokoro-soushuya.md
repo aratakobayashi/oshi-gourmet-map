@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「食事処 相州屋」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「食事処 相州屋」（東京都世田谷区）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「食事処 相州屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-shokuji-dokoro-soushuya"
 name: "食事処 相州屋"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/O47Osoi2H_A/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 11:30 - 22:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6677
 lng: 139.6617
-tabelog_score: 3.35
 members:
   - "山田涼介"
   - "菊池風磨"

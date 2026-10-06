@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あじわい回転寿司 禅"
-description: "westが訪れたwashoku「あじわい回転寿司 禅」（神奈川県）。食べログ3.49点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたwashoku「あじわい回転寿司 禅」（神奈川県）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "ce8d5aec"
 name: "あじわい回転寿司 禅"
 genre: "washoku"
@@ -16,7 +16,6 @@ source_type: "tv"
 business_hours: "11:00 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.255603088796676
 lng: 139.1708630805027
-tabelog_score: 3.49
 members:
   - "桐山照史"
 groups:

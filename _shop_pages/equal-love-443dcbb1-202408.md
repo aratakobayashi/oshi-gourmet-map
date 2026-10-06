@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤羽 もつ焼のんき」"
-description: "=LOVEのYouTubeで紹介されたizakaya「赤羽 もつ焼のんき」（東京都北区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「赤羽 もつ焼のんき」（東京都北区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-443dcbb1-202408"
 name: "赤羽 もつ焼のんき"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 14:00 - 21:30 L.O. 21:00 日 定休日"
 lat: 35.7806673
 lng: 139.7206438
-tabelog_score: 3.55
 members:
   - "諸橋沙夏"
 groups:

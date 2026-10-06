@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「天然酵母の食パン専門店つばめパン&Milk 尼ケ坂本店」"
-description: "乃木坂工事中で紹介されたcafe「天然酵母の食パン専門店つばめパン&Milk 尼ケ坂本店」（愛知県名古屋市）。食べログ3.54点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたcafe「天然酵母の食パン専門店つばめパン&Milk 尼ケ坂本店」（愛知県名古屋市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-milk--2"
 name: "天然酵母の食パン専門店つばめパン&Milk 尼ケ坂本店"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/197
 business_hours: "08:00 - 19:00 L.O. 18:30 ■ 営業時間※モーニング 8：00～11：00※オムレツサンドの［テイクアウト・イートイン］提供開始はam11:00〜■ 定休日不定休※年末年始"
 lat: 35.104077
 lng: 136.8571785
-tabelog_score: 3.54
 groups:
   - "nogizaka46"
 ---

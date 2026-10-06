@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「麺屋 ようすけ」"
-description: "それスノで紹介されたramen「麺屋 ようすけ」（栃木県）。食べログ3.76点、～￥999。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたramen「麺屋 ようすけ」（栃木県）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "1f3ce9cf"
 name: "麺屋 ようすけ"
 genre: "ramen"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/157
 business_hours: "月・火・水・木・金 11:00 - 14:30 17:00 - 21:00 土・日・祝日 11:00 - 21:00 ■ 営業時間麺、スープが無くなり次第終了"
 lat: 36.29108136826427
 lng: 139.56416847068627
-tabelog_score: 3.76
 groups:
   - "snowman"
 ---

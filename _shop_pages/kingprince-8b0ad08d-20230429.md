@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「マッサマン タイキッチン」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「マッサマン タイキッチン」（神奈川県中郡大磯町）。食べログ3.35点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「マッサマン タイキッチン」（神奈川県中郡大磯町）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8b0ad08d-20230429"
 name: "マッサマン タイキッチン"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "火・水・木・金・土・日 11:00 - 15:00 L.O. 料理14:30 17:30 - 21:00 L.O. 料理20:00 月 定休日 月曜日が祝日の場合は翌日が休み。"
 lat: 35.31035998880817
 lng: 139.31616466095392
-tabelog_score: 3.35
 members:
   - "平野紫耀"
   - "神宮寺勇太"

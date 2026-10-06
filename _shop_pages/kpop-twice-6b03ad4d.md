@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「トーホーベーカリー」"
-description: "TWICEで紹介されたothers「トーホーベーカリー」（東京都三鷹市）。食べログ3.62点、～￥999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「トーホーベーカリー」（東京都三鷹市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-6b03ad4d-"
 name: "トーホーベーカリー"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/152
 business_hours: "月・火・水・木・金 08:00 - 18:00 土 07:00 - 18:00 日・祝日 定休日 ■ 定休日日曜、祝日、弟3月曜"
 lat: 35.69188900864657
 lng: 139.56960827463004
-tabelog_score: 3.62
 members:
   - "ナヨン"
 groups:

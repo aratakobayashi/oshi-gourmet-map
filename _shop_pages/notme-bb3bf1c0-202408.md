@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「かに道楽 道頓堀本店」"
-description: "≠MEのYouTubeで紹介されたshokuji「かに道楽 道頓堀本店」（大阪府大阪市）。食べログ3.17点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたshokuji「かに道楽 道頓堀本店」（大阪府大阪市）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-bb3bf1c0-202408"
 name: "かに道楽 道頓堀本店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
 business_hours: "11:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6685063
 lng: 135.5032623
-tabelog_score: 3.17
 groups:
   - "notme"
 ---

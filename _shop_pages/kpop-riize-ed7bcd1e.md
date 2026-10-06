@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「原宿乃豆柴カフェ」"
-description: "RIIZEで紹介されたothers「原宿乃豆柴カフェ」（東京都渋谷区）。食べログ3.68点。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたothers「原宿乃豆柴カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-ed7bcd1e-"
 name: "原宿乃豆柴カフェ"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/325
 business_hours: "08:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.71270974870493
 lng: 139.7943953146828
-tabelog_score: 3.68
 groups:
   - "kpop_riize"
 ---

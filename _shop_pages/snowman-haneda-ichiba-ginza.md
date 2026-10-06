@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「羽田市場 GINZA SEVEN」"
-description: "Snow ManのYouTubeで紹介されたwashoku「羽田市場 GINZA SEVEN」（東京都中央区）。食べログ3.43点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「羽田市場 GINZA SEVEN」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg"
 business_hours: "月・火・水・木・金 18:00 - 21:00 祝日 12:00 - 14:00 L.O. 13:45 17:00 - 21:00 L.O. 20:45 土・日 定休日 祝日の営業についてのお知らせ平素より『羽田市場 GINZA SEVEN 』をご愛顧いただきまして誠にありがとうございます。より多くのお客様にご利用いただきたく祝日は昼12時からコースのご利用が可能となりディナー営業も17時から営業"
 lat: 35.6693
 lng: 139.7633
-tabelog_score: 3.43
 members:
   - "岩本照"
   - "宮舘涼太"

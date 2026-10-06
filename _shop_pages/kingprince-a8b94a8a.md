@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「季節の酵母パン *苺*じるし」"
-description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたcafe「季節の酵母パン *苺*じるし」（埼玉県秩父市）。食べログ3.24点、～￥999。推し活グルメ巡礼スポット。"
+description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたcafe「季節の酵母パン *苺*じるし」（埼玉県秩父市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-a8b94a8a-"
 name: "季節の酵母パン *苺*じるし"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349
 business_hours: "09:00 - 19:00 ■ 定休日第３木曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.989899898301665
 lng: 139.08090089798281
-tabelog_score: 3.24
 members:
   - "永瀬廉"
   - "髙橋海人"

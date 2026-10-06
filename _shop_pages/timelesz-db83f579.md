@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「団五郎茶屋」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「団五郎茶屋」（三重県伊勢市）。食べログ3.48点。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-db83f579-"
 name: "団五郎茶屋"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/163
 business_hours: "10:00 - 16:30 ■ 営業時間L.O、季節により異なる■定休日無休"
 lat: 34.4622938
 lng: 136.7227647
-tabelog_score: 3.48
 members:
   - "菊池風磨"
   - "橋本将生"

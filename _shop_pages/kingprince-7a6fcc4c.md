@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「フクモリ」"
-description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたothers「フクモリ」（東京都千代田区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたothers「フクモリ」（東京都千代田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7a6fcc4c-"
 name: "フクモリ"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/357
 business_hours: "月・火・水・木・土 11:30 - 22:00 L.O. 料理21:00 ドリンク21:30 金 11:30 - 23:00 L.O. 22:00 日 定休日 ■ 営業時間◾️LUNCH TIME 11:30 - 15:00LUNCH TIME 予約不可◾️DINNER TIME 15:00 - 22:00,23:00(FRIDAY)"
 lat: 35.693516837907474
 lng: 139.78097278333655
-tabelog_score: 3.54
 members:
   - "永瀬廉"
   - "髙橋海人"

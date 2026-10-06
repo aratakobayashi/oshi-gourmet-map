@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Lilien Berg（リリエンベルグ）」"
-description: "【キンプる】当たり前レストラン髙橋海人大好物のチョコケーキのお店はどこ？で紹介されたothers「Lilien Berg（リリエンベルグ）」（神奈川県川崎市）。食べログ3.93点、～￥999。推し活グルメ巡礼スポット。"
+description: "【キンプる】当たり前レストラン髙橋海人大好物のチョコケーキのお店はどこ？で紹介されたothers「Lilien Berg（リリエンベルグ）」（神奈川県川崎市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lilien_berg-"
 name: "Lilien Berg（リリエンベルグ）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/323
 business_hours: "水・木・金・土・日 10:00 - 17:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5920986
 lng: 139.5001888
-tabelog_score: 3.93
 members:
   - "永瀬廉"
   - "髙橋海人"

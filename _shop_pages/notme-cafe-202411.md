@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「タコライスcafe きじむなぁ デポアイランド店」"
-description: "≠MEのYouTubeで紹介されたcafe「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたcafe「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "notme-cafe-202411"
 name: "タコライスcafe きじむなぁ デポアイランド店"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
 business_hours: "11:00 - 22:00"
 lat: 26.3270896
 lng: 127.7538362
-tabelog_score: 3.46
 members:
   - "鈴木瞳美"
 groups:

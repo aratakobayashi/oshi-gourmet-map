@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Kitchen ROCCO」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Kitchen ROCCO」（東京都八王子市）。食べログ3.33点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Kitchen ROCCO」（東京都八王子市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-rocco-hachioji"
 name: "Kitchen ROCCO"
 genre: "shokuji"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 15:00 L.O. 14:20 17:30 - 21:30 L.O. 20:45 ■ 定休日振替などにより不定休あり"
 lat: 35.6622
 lng: 139.3065
-tabelog_score: 3.33
 members:
   - "ラウール"
   - "目黒蓮"

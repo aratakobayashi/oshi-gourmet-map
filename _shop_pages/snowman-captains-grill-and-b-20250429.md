@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Captain’s Grill and Bar」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Captain’s Grill and Bar」（神奈川県川崎市）。食べログ3.36点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Captain’s Grill and Bar」（神奈川県川崎市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-captains_grill_and_b-20250429"
 name: "Captain’s Grill and Bar"
 genre: "shokuji"
@@ -20,7 +20,6 @@ seating_note: "SnowManが座った席は、テラス席です。 ＼画像の奥
 business_hours: "07:00 - 10:00 11:30 - 14:45 17:30 - 21:00 L.O. 20:00 ■ 営業時間【モーニング】7:00～10:00 【ランチ】1部：11:30～13:00（90分制） ２部：13:15～14:45（90分制）【ディナー】17:30～21:00（ラストオーダー20:00）■ 定休日無休"
 lat: 35.5410017
 lng: 139.753172
-tabelog_score: 3.36
 members:
   - "岩本照"
   - "ラウール"

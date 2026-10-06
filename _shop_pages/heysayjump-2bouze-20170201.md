@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「2BOUZE」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたshokuji「2BOUZE」（千葉県船橋市）。食べログ3.04点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたshokuji「2BOUZE」（千葉県船橋市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-2bouze-20170201"
 name: "2BOUZE"
 genre: "shokuji"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "月・火・水・木 18:00 - 02:00 金・土 18:00 - 03:00 日 定休日 ■ 営業時間[日曜日と第二月曜日定休]■ 定休日第二月曜日"
 lat: 35.6940325
 lng: 139.976026
-tabelog_score: 3.04
 members:
   - "髙木雄也"
   - "八乙女光"

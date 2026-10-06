@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。食べログ4.02点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日 11:00 - 18:10 ■ 定休日不定休 ※最新の営業日時は店舗公式インスタグラムをご確認ください。"
 lat: 35.699525
 lng: 139.73952
-tabelog_score: 4.02
 members:
   - "二宮和也"
   - "山田涼介"

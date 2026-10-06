@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「月島もんじゃ たまとや下北沢店」"
-description: "TWICEで紹介されたothers「月島もんじゃ たまとや下北沢店」（東京都世田谷区）。食べログ3.11点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「月島もんじゃ たまとや下北沢店」（東京都世田谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-dfec3ef1-"
 name: "月島もんじゃ たまとや下北沢店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/271
 business_hours: "月・火・水・木・金・祝前日・祝後日 10:45 - 23:00 土・日・祝日 10:30 - 23:00 年中無休"
 lat: 35.66124153869751
 lng: 139.6684729842512
-tabelog_score: 3.11
 groups:
   - "kpop_twice"
 ---

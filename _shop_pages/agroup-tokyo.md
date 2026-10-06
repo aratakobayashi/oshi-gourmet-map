@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店"
-description: "Aぇ! group【Aぇちゅ〜ぶ】新宿の焼肉屋さんはどこ？利き焼肉のお店は？「エイジングビーフ」で紹介されたyakiniku「熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店」（東京都新宿区）。食べログ3.45点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Aぇ! group【Aぇちゅ〜ぶ】新宿の焼肉屋さんはどこ？利き焼肉のお店は？「エイジングビーフ」で紹介されたyakiniku「熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店」（東京都新宿区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-tokyo-"
 name: "熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店"
 genre: "yakiniku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362
 business_hours: "月・火・水・木・金 17:00 - 23:00 L.O. 料理22:00 土・日・祝日 11:30 - 23:00 L.O. 料理22:00"
 lat: 35.6913669378848
 lng: 139.70548098336778
-tabelog_score: 3.45
 members:
   - "正門良規"
   - "草間リチャード敬太"

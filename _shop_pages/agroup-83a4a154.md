@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "桃ちゃん"
-description: "【なにわからAぇ! 風吹かせます！】商店街・お好み焼き屋さん・焼き鳥屋さんはどこ？で紹介されたothers「桃ちゃん」（大阪府大阪市）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: "【なにわからAぇ! 風吹かせます！】商店街・お好み焼き屋さん・焼き鳥屋さんはどこ？で紹介されたothers「桃ちゃん」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-83a4a154-"
 name: "桃ちゃん"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/239
 business_hours: "火・水・木・金・祝日 14:00 - 21:00 土・日 12:00 - 21:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.71978158261502
 lng: 135.48439114041005
-tabelog_score: 3.05
 members:
   - "正門良規"
   - "草間リチャード敬太"

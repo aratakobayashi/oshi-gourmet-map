@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つり堀 武蔵野園」"
-description: "孤独のグルメ Season1 第5話で紹介されたramen「つり堀 武蔵野園」（東京都杉並区）。食べログ3.43点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第5話で紹介されたramen「つり堀 武蔵野園」（東京都杉並区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・水・金・土・日 11:00 - 17:00 火・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6994929
 lng: 139.6362876
-tabelog_score: 3.43
 members:
   - "井之頭五郎"
 groups:

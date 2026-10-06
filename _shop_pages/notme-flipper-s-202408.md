@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「FLIPPER'S 下北沢店」"
-description: "≠MEのYouTubeで紹介されたsweets「FLIPPER'S 下北沢店」（東京都世田谷区）。食べログ3.13点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたsweets「FLIPPER'S 下北沢店」（東京都世田谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-flipper_s-202408"
 name: "FLIPPER'S 下北沢店"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg"
 business_hours: "09:30 - 20:00 L.O. 料理19:00 1/14はテイクアウト、デリバリーのみの営業となります。On January 14, we will be open for togo and delivery only.On January 14, we will be open for togo and delivery only."
 lat: 35.661998
 lng: 139.6683083
-tabelog_score: 3.13
 members:
   - "冨田菜々風"
   - "蟹沢萌子"

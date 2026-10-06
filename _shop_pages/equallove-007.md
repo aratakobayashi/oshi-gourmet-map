@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「オガールインレストラン」"
-description: "【Vlog】岩手遠征の裏側！美味しいものたくさんで紹介されたshokuji「オガールインレストラン」（岩手県紫波町）。食べログ3.13点。推し活グルメ巡礼スポット。"
+description: "【Vlog】岩手遠征の裏側！美味しいものたくさんで紹介されたshokuji「オガールインレストラン」（岩手県紫波町）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_007"
 name: "オガールインレストラン"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112
 business_hours: "水・木・金・土・日 11:30 - 14:30 L.O. 13:30 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 39.4583
 lng: 141.1275
-tabelog_score: 3.13
 members:
   - "大谷映美里"
 groups:

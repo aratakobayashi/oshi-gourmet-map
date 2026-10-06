@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Lady Bugs」"
-description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたothers「Lady Bugs」（東京都渋谷区）。食べログ3.01点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたothers「Lady Bugs」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lady_bugs-"
 name: "Lady Bugs"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/211
 business_hours: "月・火・水・木・金 12:30 - 14:30 17:00 - 21:00 土・日・祝日 14:00 - 21:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6638493
 lng: 139.6914062
-tabelog_score: 3.01
 members:
   - "永瀬廉"
   - "髙橋海人"

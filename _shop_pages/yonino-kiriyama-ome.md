@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「きり山」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「きり山」（東京都青梅市）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「きり山」（東京都青梅市）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kiriyama-ome"
 name: "きり山"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/uZ7a37YzWBo/hqdefault.jpg"
 business_hours: "■ 定休日水曜日・他不定休あり 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7883
 lng: 139.2614
-tabelog_score: 3.35
 members:
   - "二宮和也"
   - "菊池風磨"

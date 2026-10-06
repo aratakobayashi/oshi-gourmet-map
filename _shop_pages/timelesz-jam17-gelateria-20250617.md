@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「JAM17 GELATERIA」"
-description: "timeleszの時間ですよ（2025年6月17日）で紹介されたsweets「JAM17 GELATERIA」（東京都新宿区）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
+description: "timeleszの時間ですよ（2025年6月17日）で紹介されたsweets「JAM17 GELATERIA」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-jam17_gelateria-20250617"
 name: "JAM17 GELATERIA"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/315
 business_hours: "10:00 - 22:00"
 lat: 35.694
 lng: 139.7017
-tabelog_score: 3.42
 members:
   - "猪俣周杜"
 groups:

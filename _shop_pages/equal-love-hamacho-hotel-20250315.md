@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Hamacho hotel」"
-description: "=LOVEのYouTubeで紹介されたshokuji「Hamacho hotel」（東京都中央区）。食べログ3.47点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Hamacho hotel」（東京都中央区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-hamacho_hotel-20250315"
 name: "Hamacho hotel"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185
 business_hours: "月・火 11:30 - 16:00 17:00 - 22:00 水・木・金 07:00 - 10:00 11:30 - 16:00 17:00 - 22:00 土・日 08:00 - 10:00 11:30 - 22:00 ■ 営業時間[月～金]ランチ 11:30 〜14:00 L.Oカフェ 〜16:00 close[土・日]モーニング (ご予約のみ）■定休日無休"
 lat: 35.685222
 lng: 139.789481
-tabelog_score: 3.47
 members:
   - "大谷映美里"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「揚州飯店 本店」"
-description: "RIIZEで紹介されたothers「揚州飯店 本店」（神奈川県横浜市）。食べログ3.33点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたothers「揚州飯店 本店」（神奈川県横浜市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-8d13cea1-"
 name: "揚州飯店 本店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/638
 business_hours: "11:00 - 15:00 16:30 - 22:00"
 lat: 35.60087392357947
 lng: 139.58251078045478
-tabelog_score: 3.33
 groups:
   - "kpop_riize"
 ---

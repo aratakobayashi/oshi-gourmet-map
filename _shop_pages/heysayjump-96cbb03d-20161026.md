@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「爆裂石焼らーめん一兆」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたramen「爆裂石焼らーめん一兆」（茨城県つくば市）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたramen「爆裂石焼らーめん一兆」（茨城県つくば市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-96cbb03d-20161026"
 name: "爆裂石焼らーめん一兆"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 00:00"
 lat: 36.06035
 lng: 140.1439471
-tabelog_score: 3.2
 members:
   - "髙木雄也"
   - "有岡大貴"

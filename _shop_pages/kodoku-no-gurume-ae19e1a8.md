@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「四馬路」"
-description: "孤独のグルメ Season8 第3話で紹介されたwashoku「四馬路」（東京都中央区）。食べログ3.33点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第3話で紹介されたwashoku「四馬路」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ae19e1a8-"
 name: "四馬路"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木 11:30 - 14:00 20:00 - 00:00 金 11:30 - 14:00 20:00 - 02:00 土 20:00 - 23:30 日 定休日"
 lat: 35.6706436
 lng: 139.7719923
-tabelog_score: 3.33
 members:
   - "井之頭五郎"
 groups:

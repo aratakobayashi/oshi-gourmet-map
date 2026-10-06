@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "おにぎり専門店 ぼんご"
-description: "KinKi Kidsのブンブブーンで紹介されたshokuji「おにぎり専門店 ぼんご」（東京都豊島区）。食べログ3.56点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介されたshokuji「おにぎり専門店 ぼんご」（東京都豊島区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-16ce6058-"
 name: "おにぎり専門店 ぼんご"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/261
 business_hours: "月・火・水・木・金・土 09:00 - 21:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7339779
 lng: 139.7292492
-tabelog_score: 3.56
 members:
   - "堂本光一"
   - "堂本剛"

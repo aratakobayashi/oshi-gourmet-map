@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「STREET CHURROS 下北沢店」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたshokuji「STREET CHURROS 下北沢店」（東京都世田谷区）。食べログ3.21点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介されたshokuji「STREET CHURROS 下北沢店」（東京都世田谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-street_churros-20250711"
 name: "STREET CHURROS 下北沢店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349
 business_hours: "11:00 - 22:00 ※なくなり次第終了定休日：12/31～1/3、不定休"
 lat: 35.661998
 lng: 139.6683083
-tabelog_score: 3.21
 members:
   - "西畑大吾"
 groups:

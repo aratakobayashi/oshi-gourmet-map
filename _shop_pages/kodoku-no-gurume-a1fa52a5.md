@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥勝牛肉店」"
-description: "孤独のグルメ Season10 第2025話で紹介されたshokuji「鳥勝牛肉店」（山形県米沢市）。食べログ3.63点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2025話で紹介されたshokuji「鳥勝牛肉店」（山形県米沢市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a1fa52a5-"
 name: "鳥勝牛肉店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土 11:30 - 21:00 日 定休日 ■ 営業時間精肉販売9:00～19:00お食事はご予約制になります。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.9218342
 lng: 140.1161931
-tabelog_score: 3.63
 members:
   - "井之頭五郎"
 groups:

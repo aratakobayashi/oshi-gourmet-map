@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多元気一杯!!」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「博多元気一杯!!」（福岡県福岡市博多区）。食べログ3.74点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「博多元気一杯!!」（福岡県福岡市博多区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hakata-genki-ippai"
 name: "博多元気一杯!!"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/b42UaxUU6TI/hqdefault.jpg"
 business_hours: "11:00 - 20:00 L.O. 19:30 ■ 定休日不定休"
 lat: 33.5934
 lng: 130.4153
-tabelog_score: 3.74
 members:
   - "二宮和也"
   - "山田涼介"

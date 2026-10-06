@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「FUJIMORI 鷺沼店」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「FUJIMORI 鷺沼店」（神奈川県川崎市）。食べログ3.68点。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「FUJIMORI 鷺沼店」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-fujimori-20220903"
 name: "FUJIMORI 鷺沼店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "水・木・金・土・日・祝日 09:00 - 18:00 月・火 定休日 第二火曜日は定休日となります。"
 lat: 35.57920343791483
 lng: 139.5760710823255
-tabelog_score: 3.68
 members:
   - "平野紫耀"
   - "神宮寺勇太"

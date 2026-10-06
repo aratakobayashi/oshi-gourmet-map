@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「浅草 いづ美」"
-description: "松村沙友理ちゃんねるで紹介されたsweets「浅草 いづ美」（東京都台東区）。食べログ3.51点、～￥999。推し活グルメ巡礼スポット。"
+description: "松村沙友理ちゃんねるで紹介されたsweets「浅草 いづ美」（東京都台東区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-7e8466b6-"
 name: "浅草 いづ美"
 genre: "sweets"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:30 - 18:00 L.O. 17:30 ■ 定休日年中無休"
 lat: 35.7119497
 lng: 139.7948545
-tabelog_score: 3.51
 members:
   - "松村沙友理"
 groups:

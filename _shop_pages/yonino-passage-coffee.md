@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「PASSAGE COFFEE」（東京都港区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「PASSAGE COFFEE」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/SHE2QOLC4MI/hqdefault.jpg"
 business_hours: "月・火・水・木・金 07:30 - 18:00 土・日・祝日 09:00 - 18:00 2024年11月1日より閉店時間を1時間繰り上げ。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.650587
 lng: 139.749527
-tabelog_score: 3.54
 members:
   - "二宮和也"
   - "山田涼介"

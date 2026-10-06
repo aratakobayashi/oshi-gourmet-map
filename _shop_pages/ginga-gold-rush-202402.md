@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「GOLD RUSH(ゴールドラッシュ)」"
-description: "銀河チャンネルで紹介されたshokuji「GOLD RUSH(ゴールドラッシュ)」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "銀河チャンネルで紹介されたshokuji「GOLD RUSH(ゴールドラッシュ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "ginga-gold_rush-202402"
 name: "GOLD RUSH(ゴールドラッシュ)"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:30 - 22:00 土・日 11:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.696554
 lng: 139.7043747
-tabelog_score: 3.36
 members:
   - "中丸雄一"
 groups:

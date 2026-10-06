@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「LAMB MEAT TENDER」"
-description: "嵐にしやがれで紹介されたothers「LAMB MEAT TENDER」（東京都千代田区）。食べログ3.54点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「LAMB MEAT TENDER」（東京都千代田区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-lamb_meat_tender-"
 name: "LAMB MEAT TENDER"
 genre: "others"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木 11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 22:00 金・土 11:30 - 14:30 L.O. 14:00 17:00 - 23:30 L.O. 22:00 日・祝日 定休日"
 lat: 35.6954073
 lng: 139.7634627
-tabelog_score: 3.54
 groups:
   - "arashi"
 ---

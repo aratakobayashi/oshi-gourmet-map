@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「私厨房 勇」"
-description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたwashoku「私厨房 勇」（東京都港区）。食べログ3.49点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたwashoku「私厨房 勇」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-aa01a4f8-"
 name: "私厨房 勇"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/159
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 23:00 土 11:30 - 23:00 日・祝日 11:30 - 22:00"
 lat: 35.67306053791531
 lng: 139.76477418314127
-tabelog_score: 3.49
 members:
   - "永瀬廉"
   - "髙橋海人"

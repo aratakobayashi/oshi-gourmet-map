@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「炎麻堂 赤坂店」"
-description: "乃木坂46が訪れたchuka「炎麻堂 赤坂店」（東京都港区）。食べログ3.4点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたchuka「炎麻堂 赤坂店」（東京都港区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-485e9f27-"
 name: "炎麻堂 赤坂店"
 genre: "chuka"
@@ -18,7 +18,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・金 11:00 - 16:00 L.O. 15:00 18:00 - 23:00 L.O. 22:00 土・日・祝日 定休日"
 lat: 35.6716786
 lng: 139.7356224
-tabelog_score: 3.4
 members:
   - "筒井あやめ"
   - "賀喜遥香"

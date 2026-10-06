@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「熟成和牛焼肉 エイジング・ビーフ軽井沢」"
-description: "=LOVEのYouTubeで紹介されたyakiniku「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたyakiniku「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-290f63cb-202505"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
 business_hours: "11:00 - 21:00 L.O. 20:00 〜お客様へ〜例年GW期間は近隣の渋滞やアウトレット施設も大変混雑しております。ご予約頂けると当日寒い中お待ち頂く事なくスムーズにお食事して頂けます。 ※1 GW期間中の4/29日〜5/5日までは、混雑時は全てご予約の時間から90分制（60分LO）頂いております。※2 5/2〜5/5につきましては、11:00-22:00(21:00LO)20時以降の"
 lat: 36.3428502
 lng: 138.6341737
-tabelog_score: 3.32
 members:
   - "大谷映美里"
 groups:

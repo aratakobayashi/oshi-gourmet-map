@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「TruffleBAKERY三軒茶屋店」"
-description: "木村拓哉が訪れたshokuji「TruffleBAKERY三軒茶屋店」（東京都世田谷区）。食べログ3.5点、～￥999。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れたshokuji「TruffleBAKERY三軒茶屋店」（東京都世田谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kimura-trufflebakery-20240417"
 name: "TruffleBAKERY三軒茶屋店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/121
 business_hours: "09:00 - 19:00 ※年末年始は休業の可能性あり"
 lat: 35.6469025
 lng: 139.652531
-tabelog_score: 3.5
 members:
   - "木村拓哉"
 groups:

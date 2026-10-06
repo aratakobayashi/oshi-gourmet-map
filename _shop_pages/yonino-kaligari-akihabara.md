@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「秋葉原 カリガリ」"
-description: "よにのちゃんねるのYouTubeで紹介されたothers「秋葉原 カリガリ」（東京都千代田区）。食べログ3.51点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「秋葉原 カリガリ」（東京都千代田区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kaligari-akihabara"
 name: "秋葉原 カリガリ"
 genre: "others"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/OvgqN-sckKE/hqdefault.jpg"
 business_hours: "11:00 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6994
 lng: 139.7728
-tabelog_score: 3.51
 members:
   - "二宮和也"
   - "山田涼介"

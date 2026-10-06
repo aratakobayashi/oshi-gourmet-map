@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「小菅写真館」"
-description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたothers「小菅写真館」（埼玉県秩父市）。食べログ3.17点。推し活グルメ巡礼スポット。"
+description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたothers「小菅写真館」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-df4188d0-"
 name: "小菅写真館"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345
 business_hours: "月・火・水・金・土 12:00 - 20:00 日・祝日 13:00 - 20:00 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9961559
 lng: 139.084461
-tabelog_score: 3.17
 members:
   - "永瀬廉"
   - "髙橋海人"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「腹黒屋 品川」"
-description: "トークィーンズ【髙地優吾ロケ地】居酒屋はどこ？ファーストサマーウイカが事前取材で紹介されたothers「腹黒屋 品川」（東京都港区）。食べログ3.28点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【髙地優吾ロケ地】居酒屋はどこ？ファーストサマーウイカが事前取材で紹介されたothers「腹黒屋 品川」（東京都港区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-d1e1872d-"
 name: "腹黒屋 品川"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/332
 business_hours: "月・火・水・木 14:00 - 23:00 金 14:00 - 02:00 土・日・祝日 13:00 - 23:00 ■定休日不定休"
 lat: 35.6301291
 lng: 139.7507521
-tabelog_score: 3.28
 members:
   - "ジェシー"
   - "京本大我"

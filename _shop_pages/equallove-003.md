@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「不純喫茶ドープ 上野御徒町店」"
-description: "=LOVEのYouTubeで紹介されたcafe「不純喫茶ドープ 上野御徒町店」（東京都台東区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「不純喫茶ドープ 上野御徒町店」（東京都台東区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_003"
 name: "不純喫茶ドープ 上野御徒町店"
 genre: "cafe"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/63AuTeuPhDw/hqdefault.jpg"
 business_hours: "月・火・水・木 12:00 - 21:00 金 12:00 - 23:00 土 10:00 - 23:00 日 10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7133
 lng: 139.7779
-tabelog_score: 3.54
 members:
   - "瀧脇笙古"
 groups:

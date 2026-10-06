@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「胡桃饅頭 吉田屋」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたsweets「胡桃饅頭 吉田屋」（茨城県笠間市）。食べログ3.25点。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたsweets「胡桃饅頭 吉田屋」（茨城県笠間市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-71514552-"
 name: "胡桃饅頭 吉田屋"
 genre: "sweets"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "08:30 - 17:30 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.38474140842451
 lng: 140.25410931114868
-tabelog_score: 3.25
 members:
   - "永瀬廉"
   - "髙橋海人"

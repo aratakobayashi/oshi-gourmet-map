@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「上海小籠包専門店 鵬天閣」"
-description: "SixTONESのYouTubeで紹介されたchuka「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-houtenkaku-chinatown"
 name: "上海小籠包専門店 鵬天閣"
 genre: "chuka"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
 business_hours: "10:00 - 22:00 L.O. 料理21:30 ■ 営業時間レストラン（2F）11:00〜22:00 L.O.21:30■ 定休日無休"
 lat: 35.443398
 lng: 139.647622
-tabelog_score: 3.49
 members:
   - "松村北斗"
   - "髙地優吾"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「もつ焼のんき」"
-description: "かまいたちのYouTubeで紹介されたizakaya「もつ焼のんき」（東京都墨田区）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたizakaya「もつ焼のんき」（東京都墨田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-380c2d89-"
 name: "もつ焼のんき"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/n6aabEP44lU/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 14:00 - 21:30 L.O. 21:00 日 定休日"
 lat: 35.6983
 lng: 139.8135
-tabelog_score: 3.55
 members:
   - "山内健司"
   - "濱家隆一"

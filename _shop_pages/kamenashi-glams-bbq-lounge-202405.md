@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「原宿GLAMS BBQ Lounge」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「原宿GLAMS BBQ Lounge」（東京都渋谷区）。食べログ3.04点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「原宿GLAMS BBQ Lounge」（東京都渋谷区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-glams_bbq_lounge-202405"
 name: "原宿GLAMS BBQ Lounge"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/qWliiMG-FZA/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 12:00 - 23:00 ■ 営業時間テラス席は23時までのご利用となります。■定休日無休"
 lat: 35.6687049
 lng: 139.7053357
-tabelog_score: 3.04
 members:
   - "亀梨和也"
 groups:

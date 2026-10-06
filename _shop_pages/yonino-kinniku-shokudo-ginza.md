@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「筋肉食堂 銀座コリドー街店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「筋肉食堂 銀座コリドー街店」（東京都中央区）。食べログ3.41点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「筋肉食堂 銀座コリドー街店」（東京都中央区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kinniku-shokudo-ginza"
 name: "筋肉食堂 銀座コリドー街店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/_Gv72GxfN-I/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:30 - 23:00 L.O. 料理22:00 ドリンク22:30 土 11:30 - 23:00 L.O. 料理22:00 ドリンク22:30 日・祝日 11:30 - 20:30 L.O. 20:00 不定休"
 lat: 35.6717
 lng: 139.763
-tabelog_score: 3.41
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「だし茶漬け えん 成田空港店」"
-description: "日向坂46 海外出発前のラスト日本食で紹介されたwashoku「だし茶漬け えん 成田空港店」（千葉県成田市）。食べログ3.25点、～￥999。推し活グルメ巡礼スポット。"
+description: "日向坂46 海外出発前のラスト日本食で紹介されたwashoku「だし茶漬け えん 成田空港店」（千葉県成田市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-dashi-chazuke-en-narita"
 name: "だし茶漬け えん 成田空港店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
 business_hours: "07:30 - 21:00 L.O. 20:30"
 lat: 35.7641
 lng: 140.3861
-tabelog_score: 3.25
 members:
   - "佐々木久美"
   - "高瀬愛奈"

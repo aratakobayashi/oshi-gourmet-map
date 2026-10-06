@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ 新栄店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「くるみ 新栄店」（愛知県名古屋市東区）。食べログ3.03点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「くるみ 新栄店」（愛知県名古屋市東区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kurumi-shineimachi"
 name: "くるみ 新栄店"
 genre: "izakaya"
@@ -19,7 +19,6 @@ tabelog_url: "https://tabelog.com/aichi/A2303/A230301/23064111/"
 thumbnail_url: "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg"
 lat: 35.167743
 lng: 136.913842
-tabelog_score: 3.03
 members:
   - "ジェシー"
   - "京本大我"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「パティスリー ル トワ （patisserie le-333）」"
-description: "嵐にしやがれで紹介されたsweets「パティスリー ル トワ （patisserie le-333）」（東京都港区）。食べログ3.23点、～￥999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「パティスリー ル トワ （patisserie le-333）」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-patisserie_le_333-20200404"
 name: "パティスリー ル トワ （patisserie le-333）"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "■営業時間【月～金】10:30～0:00【土・日・祝】10:30～23:00■定休日無し"
 lat: 35.6515204
 lng: 139.728716
-tabelog_score: 3.23
 members:
   - "二宮和也"
 groups:

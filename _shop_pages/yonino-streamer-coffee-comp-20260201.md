@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STREAMER COFFEE COMPANY AKASAKA」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「STREAMER COFFEE COMPANY AKASAKA」（東京都港区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「STREAMER COFFEE COMPANY AKASAKA」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-streamer_coffee_comp-20260201"
 name: "STREAMER COFFEE COMPANY AKASAKA"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/EhAzZAITxIU/hqdefault.jpg"
 business_hours: "08:30 - 21:30 ■営業時間［全日］8:30～21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6756606
 lng: 139.7375415
-tabelog_score: 3.27
 groups:
   - "yonino"
 ---

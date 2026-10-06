@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「ヤキガキヤ oyster&wine」"
-description: "しおりのYouTubeで紹介されたizakaya「ヤキガキヤ oyster&wine」（東京都渋谷区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたizakaya「ヤキガキヤ oyster&wine」（東京都渋谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-oyster_wine-20250425"
 name: "ヤキガキヤ oyster&wine"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296
 business_hours: "月・火・水・木・金 16:00 - 23:30 土・日・祝日 12:00 - 23:30 年末年始12/29 12:00-23:3012/30 12:00-23:3012/31 お休み1/1 お休み1/2 14:00-23:001/3 12:00-23:001/4 12:00-23:00■ 定休日不定休"
 lat: 35.68318153788932
 lng: 139.7033334832866
-tabelog_score: 3.41
 members:
   - "しおり"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「三全 仙台エスパル店」"
-description: "菓匠三全で紹介されたsweets「三全 仙台エスパル店」（宮城県仙台市）。食べログ3.21点、～￥999。推し活グルメ巡礼スポット。"
+description: "菓匠三全で紹介されたsweets「三全 仙台エスパル店」（宮城県仙台市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c062c929-"
 name: "三全 仙台エスパル店"
 genre: "sweets"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "10:00 - 20:30 ■ 定休日エスパルに準ずる"
 lat: 38.25998650743351
 lng: 140.88213264965015
-tabelog_score: 3.21
 groups:
   - "nogizaka46"
 ---

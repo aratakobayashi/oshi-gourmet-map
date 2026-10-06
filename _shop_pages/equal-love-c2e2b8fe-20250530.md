@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「軽井沢・プリンスショッピングプラザ」"
-description: "=LOVEのYouTubeで紹介されたshokuji「軽井沢・プリンスショッピングプラザ」（長野県北佐久郡軽井沢町）。食べログ3.61点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「軽井沢・プリンスショッピングプラザ」（長野県北佐久郡軽井沢町）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c2e2b8fe-20250530"
 name: "軽井沢・プリンスショッピングプラザ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/322
 business_hours: "10:00 - 19:30 L.O. 19:00 ■ 営業時間テイクアウト19:30■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.3428502
 lng: 138.6341737
-tabelog_score: 3.61
 members:
   - "大谷映美里"
 groups:

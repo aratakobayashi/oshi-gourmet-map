@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「西鉄リゾートイン那覇」"
-description: "=LOVEのYouTubeで紹介されたshokuji「西鉄リゾートイン那覇」（沖縄県那覇市）。食べログ3.15点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「西鉄リゾートイン那覇」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-734ae6ce-202408"
 name: "西鉄リゾートイン那覇"
 genre: "shokuji"
@@ -17,12 +17,8 @@ tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47009218/"
 thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 lat: 26.2164391
 lng: 127.676357
-tabelog_score: 3.15
 members:
   - "大谷映美里"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okinawa/A4701/A470101/47009218/"
 ---

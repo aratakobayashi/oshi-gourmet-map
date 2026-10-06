@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「山六ひもの店 総本店」"
-description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたshokuji「山六ひもの店 総本店」（静岡県伊東市）。食べログ3.06点。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたshokuji「山六ひもの店 総本店」（静岡県伊東市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-327a7b7e-"
 name: "山六ひもの店 総本店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/279
 business_hours: "09:00 - 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.972512
 lng: 139.098884
-tabelog_score: 3.06
 members:
   - "伊野尾慧"
 groups:

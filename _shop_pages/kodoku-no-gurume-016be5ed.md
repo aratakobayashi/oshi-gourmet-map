@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ちまぐ～」"
-description: "孤独のグルメ Season10 第2023話で紹介されたwashoku「ちまぐ～」（沖縄県国頭郡今帰仁村）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介されたwashoku「ちまぐ～」（沖縄県国頭郡今帰仁村）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-016be5ed-"
 name: "ちまぐ～"
 genre: "washoku"
@@ -17,7 +17,6 @@ source_type: "drama"
 business_hours: "水・木・金・土・日 11:00 - 16:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 26.6825649
 lng: 127.9728938
-tabelog_score: 3.37
 members:
   - "井之頭五郎"
 groups:

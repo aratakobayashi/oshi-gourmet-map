@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤鬼」"
-description: "=LOVEのYouTubeで紹介されたizakaya「赤鬼」（福島県いわき市）。食べログ3.32点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「赤鬼」（福島県いわき市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-d377e2fc-202408"
 name: "赤鬼"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 17:00 - 22:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.0592434
 lng: 140.8930352
-tabelog_score: 3.32
 members:
   - "諸橋沙夏"
 groups:

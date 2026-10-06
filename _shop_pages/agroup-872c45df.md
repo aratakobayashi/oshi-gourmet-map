@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "サンライズ食堂"
-description: "あっちこっちAぇ!【Aぇ! group ロケ地】津軽名物ラーメン＆りんごピザはどこ？で紹介されたwashoku「サンライズ食堂」（青森県青森市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
+description: "あっちこっちAぇ!【Aぇ! group ロケ地】津軽名物ラーメン＆りんごピザはどこ？で紹介されたwashoku「サンライズ食堂」（青森県青森市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-872c45df-"
 name: "サンライズ食堂"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/139
 business_hours: "11:00 - 22:00 L.O. 22:00 ■ 営業時間※アルコール類は21:30■ 定休日8/13・8/14/・12/31・1/1 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 40.705823645783944
 lng: 140.58018059456705
-tabelog_score: 3.44
 members:
   - "正門良規"
   - "草間リチャード敬太"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「かたばみ精肉店」"
-description: "【キントレ 大食い】戸越銀座のお団子・ステーキ・角煮丼・ラーメン・おにぎり・コロッケ・肉団子はどこ？で紹介されたothers「かたばみ精肉店」（東京都品川区）。食べログ3.23点。推し活グルメ巡礼スポット。"
+description: "【キントレ 大食い】戸越銀座のお団子・ステーキ・角煮丼・ラーメン・おにぎり・コロッケ・肉団子はどこ？で紹介されたothers「かたばみ精肉店」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-785776a2-"
 name: "かたばみ精肉店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/285
 business_hours: "月・木・金・土・日 11:00 - 18:30 火・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6132287
 lng: 139.7227706
-tabelog_score: 3.23
 members:
   - "永瀬廉"
   - "髙橋海人"

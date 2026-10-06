@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ガスト 六本木店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「ガスト 六本木店」（東京都港区）。食べログ3.06点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「ガスト 六本木店」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-gust-roppongi"
 name: "ガスト 六本木店"
 genre: "shokuji"
@@ -21,7 +21,6 @@ seating_note: "SnowManメンバーがガスト六本木店で座った席は、5
 business_hours: "月・火・水・木・金・土・日・祝日 07:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.663
 lng: 139.7302
-tabelog_score: 3.06
 members:
   - "岩本照"
   - "深澤辰哉"

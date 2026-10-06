@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶 天文図舘"
-description: "喫茶と濵田。#007で紹介されたcafe「喫茶 天文図舘」（東京都杉並区）。食べログ3.2点。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#007で紹介されたcafe「喫茶 天文図舘」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "west-e280b3bf-"
 name: "喫茶 天文図舘"
 genre: "cafe"
@@ -19,7 +19,6 @@ source_type: "youtube"
 business_hours: "月・火・木・土・日 13:00 - 20:00 金 13:00 - 17:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7105571
 lng: 139.636261
-tabelog_score: 3.2
 members:
   - "濵田崇裕"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「サルシータ」"
-description: "孤独のグルメ Season7 第3話で紹介されたshokuji「サルシータ」（東京都港区）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第3話で紹介されたshokuji「サルシータ」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-80dd2276-"
 name: "サルシータ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "火・水・木・金 11:45 - 14:15 L.O. 13:45 17:30 - 23:00 L.O. 22:00 土・日 11:45 - 14:30 L.O. 14:00 17:30 - 23:00 L.O. 22:00 月 定休日 ■ 定休日月が祝日の場合は火曜日がお休みとなります。"
 lat: 35.6580089
 lng: 139.7515137
-tabelog_score: 3.52
 members:
   - "井之頭五郎"
 groups:

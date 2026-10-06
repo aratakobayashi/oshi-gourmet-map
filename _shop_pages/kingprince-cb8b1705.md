@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ちちぶベーカリー」"
-description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたcafe「ちちぶベーカリー」（埼玉県秩父市）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたcafe「ちちぶベーカリー」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cb8b1705-"
 name: "ちちぶベーカリー"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344
 business_hours: "月・火・水・木・金・日 07:00 - 19:00 土 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.996282868298636
 lng: 139.084147238045
-tabelog_score: 3.21
 members:
   - "永瀬廉"
   - "髙橋海人"

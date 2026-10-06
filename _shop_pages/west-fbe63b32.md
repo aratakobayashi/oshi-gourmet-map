@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "奥村茶屋"
-description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介されたshokuji「奥村茶屋」（埼玉県飯能市）。食べログ3.1点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介されたshokuji「奥村茶屋」（埼玉県飯能市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "west-fbe63b32-"
 name: "奥村茶屋"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 10:00 - 16:00 日 09:00 - 17:00 ■ 定休日不定休"
 lat: 35.94187544835767
 lng: 139.1609982374416
-tabelog_score: 3.1
 members:
   - "藤井流星"
 groups:

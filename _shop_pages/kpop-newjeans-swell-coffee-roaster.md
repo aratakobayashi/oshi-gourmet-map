@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「Swell Coffee Roasters」"
-description: "NewJeans 代官山・中目黒聖地で紹介されたcafe「Swell Coffee Roasters」（東京都目黒区）。食べログ3.1点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "NewJeans 代官山・中目黒聖地で紹介されたcafe「Swell Coffee Roasters」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-swell_coffee_roaster-"
 name: "Swell Coffee Roasters"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "月・火・水・木・日 09:00 - 21:00 金・土 09:00 - 23:00 ・休業日はインスタグラムを要確認 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6428011
 lng: 139.6930849
-tabelog_score: 3.1
 members:
   - "ミンジ"
   - "ハニ"

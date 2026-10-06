@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「もつ焼きばん 高田馬場店」"
-description: "孤独のグルメ Season10 第2話で紹介されたizakaya「もつ焼きばん 高田馬場店」（東京都新宿区）。食べログ3.37点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2話で紹介されたizakaya「もつ焼きばん 高田馬場店」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b768e841-"
 name: "もつ焼きばん 高田馬場店"
 genre: "izakaya"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 16:00 - 04:00 L.O. 料理03:00 ドリンク03:30 土・日 11:30 - 04:00 L.O. 料理03:00 ドリンク03:30 ■ 定休日正月のみ休業"
 lat: 35.6937632
 lng: 139.7036319
-tabelog_score: 3.37
 members:
   - "井之頭五郎"
 groups:

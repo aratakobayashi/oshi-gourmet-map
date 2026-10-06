@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Seoul Cafe」"
-description: "それSnow Manだからで紹介されたcafe「Seoul Cafe」（東京都新宿区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "それSnow Manだからで紹介されたcafe「Seoul Cafe」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "be2efe73"
 name: "Seoul Cafe"
 genre: "cafe"
@@ -17,7 +17,6 @@ source_type: "tv"
 business_hours: "11:00 - 23:00 L.O. 料理22:00 ドリンク22:30"
 lat: 35.699367137878845
 lng: 139.70276558345049
-tabelog_score: 3.49
 groups:
   - "snowman"
 ---

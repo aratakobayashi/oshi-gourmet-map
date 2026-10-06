@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「RACINES DONUT&ICE CREAM」"
-description: "King&Princeる。当たり前レストランで紹介されたcafe「RACINES DONUT&ICE CREAM」（東京都港区）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたcafe「RACINES DONUT&ICE CREAM」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-racines_donut_ice_cr-20221015"
 name: "RACINES DONUT&ICE CREAM"
 genre: "cafe"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "10:00 - 22:00 ■ 定休日不定休"
 lat: 35.666133
 lng: 139.712593
-tabelog_score: 3.48
 members:
   - "神宮寺勇太"
   - "岸優太"

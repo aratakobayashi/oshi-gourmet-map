@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いさりび食堂"
-description: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼きで紹介されたshokuji「いさりび食堂」（千葉県）。食べログ3.57点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼きで紹介されたshokuji「いさりび食堂」（千葉県）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kismai-38687c6d-"
 name: "いさりび食堂"
 genre: "shokuji"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360
 business_hours: "月・火・水・金・土・日 10:00 - 16:00 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.535
 lng: 140.44
-tabelog_score: 3.57
 members:
   - "藤ヶ谷太輔"
 groups:

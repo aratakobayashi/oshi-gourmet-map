@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「松下製麺所」"
-description: "孤独のグルメ Season10 第2017話で紹介されたramen「松下製麺所」（香川県高松市）。食べログ3.75点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたramen「松下製麺所」（香川県高松市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c04481e8-"
 name: "松下製麺所"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土・祝日 06:40 - 15:00 日 定休日 ■ 営業時間※麺がなくなり次第終了 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.3425592
 lng: 134.0465338
-tabelog_score: 3.75
 members:
   - "井之頭五郎"
 groups:

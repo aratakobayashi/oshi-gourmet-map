@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「横浜南部市場 食の専門店街」"
-description: "よにのちゃんねるのYouTubeで紹介されたothers「横浜南部市場 食の専門店街」（神奈川県横浜市金沢区）。食べログ3.28点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたothers「横浜南部市場 食の専門店街」（神奈川県横浜市金沢区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-yokohama-nanbu-ichiba"
 name: "横浜南部市場 食の専門店街"
 genre: "others"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/261
 business_hours: "■ 営業時間[月・火・金]8:00～14:00[土・日]9:00～14:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.3733
 lng: 139.6403
-tabelog_score: 3.28
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「来らっせ 本店」"
-description: "SixTONESのYouTubeで紹介されたchuka「来らっせ 本店」（栃木県宇都宮市）。食べログ3.27点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「来らっせ 本店」（栃木県宇都宮市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
 genre: "chuka"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 20:30 L.O. 20:00 土・日・祝日 11:00 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.556614
 lng: 139.882847
-tabelog_score: 3.27
 members:
   - "ジェシー"
   - "京本大我"

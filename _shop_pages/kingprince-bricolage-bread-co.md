@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bricolage bread ＆ co.」"
-description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたothers「Bricolage bread ＆ co.」（東京都港区）。食べログ3.72点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたothers「Bricolage bread ＆ co.」（東京都港区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bricolage_bread_co-"
 name: "Bricolage bread ＆ co."
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/133
 business_hours: "火・水・木・金・土・日・祝日 07:00 - 19:00 月 定休日 ■ 定休日月曜日（祝日は営業します！）"
 lat: 35.65919527871786
 lng: 139.72824834418861
-tabelog_score: 3.72
 members:
   - "永瀬廉"
   - "髙橋海人"

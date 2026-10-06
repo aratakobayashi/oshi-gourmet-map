@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カリーライス専門店 エチオピア 本店」"
-description: "乃木坂配信中（さくさんぽ）で紹介されたshokuji「カリーライス専門店 エチオピア 本店」（東京都千代田区）。食べログ3.78点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中（さくさんぽ）で紹介されたshokuji「カリーライス専門店 エチオピア 本店」（東京都千代田区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-24da3fd9-"
 name: "カリーライス専門店 エチオピア 本店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/139
 source_type: "tv"
 lat: 35.69633909870481
 lng: 139.76137237454057
-tabelog_score: 3.78
 members:
   - "遠藤さくら"
 groups:

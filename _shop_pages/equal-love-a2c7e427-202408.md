@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「華正樓 本店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「華正樓 本店」（神奈川県横浜市）。食べログ3.59点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「華正樓 本店」（神奈川県横浜市）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a2c7e427-202408"
 name: "華正樓 本店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 business_hours: "月・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 22:00 L.O. 料理20:30 ドリンク20:45 火 定休日 ■ 営業時間最終受付20：00■ 定休日火曜日（ただし祝日、GW、繁忙期は営業）／年末年始は休館"
 lat: 35.4438
 lng: 139.6508
-tabelog_score: 3.59
 members:
   - "齋藤樹愛羅"
   - "佐々木舞香"

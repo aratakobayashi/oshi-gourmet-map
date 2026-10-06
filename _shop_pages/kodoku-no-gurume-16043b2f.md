@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みっちゃん」"
-description: "孤独のグルメ Season10 第2017話で紹介されたramen「みっちゃん」（広島県広島市）。食べログ3.27点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたramen「みっちゃん」（広島県広島市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-16043b2f-"
 name: "みっちゃん"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "水・木・金・土・日 17:00 - 23:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.3917241
 lng: 132.4517589
-tabelog_score: 3.27
 members:
   - "井之頭五郎"
 groups:

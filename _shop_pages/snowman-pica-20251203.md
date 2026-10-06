@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「PICA富士西湖」"
-description: "Snow ManのYouTubeで紹介されたshokuji「PICA富士西湖」（山梨県）。食べログ3.01点。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「PICA富士西湖」（山梨県）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pica-20251203"
 name: "PICA富士西湖"
 genre: "shokuji"
@@ -17,7 +17,6 @@ tabelog_url: "https://tabelog.com/yamanashi/A1903/A190301/19010472/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84523/d29eca3065ffca76650994c0c178ea76.jpg?token=7c90c60&api=v2"
 lat: 35.4985177
 lng: 138.6853744
-tabelog_score: 3.01
 members:
   - "岩本照"
   - "ラウール"

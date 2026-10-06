@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「鎌倉茶々本店」"
-description: "=LOVEのYouTubeで紹介されたsweets「鎌倉茶々本店」（神奈川県鎌倉市）。食べログ3.63点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「鎌倉茶々本店」（神奈川県鎌倉市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1de9b314-202408"
 name: "鎌倉茶々本店"
 genre: "sweets"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
 business_hours: "10:00 - 18:00 ■ 営業時間※天候や時期によって変動＊google ビジネス参照■ 定休日不定休"
 lat: 35.3234843
 lng: 139.5537226
-tabelog_score: 3.63
 members:
   - "音嶋莉沙"
   - "瀧脇笙古"

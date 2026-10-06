@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「VERVE COFFEE ROASTERS EBISU」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「VERVE COFFEE ROASTERS EBISU」（東京都渋谷区）。食べログ3.52点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「VERVE COFFEE ROASTERS EBISU」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-verve-coffee-ebisu"
 name: "VERVE COFFEE ROASTERS EBISU"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/MBsvQ9ZPKy8/hqdefault.jpg"
 business_hours: "07:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.642345
 lng: 139.714007
-tabelog_score: 3.52
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「むかん横浜」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「むかん横浜」（神奈川県横浜市中区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「むかん横浜」（神奈川県横浜市中区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-mukann-yokohama"
 name: "むかん横浜"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/xpAuMMk8HxQ/hqdefault.jpg"
 business_hours: "火・水・木・日 11:00 - 19:00 L.O. 料理18:30 金・土 11:30 - 15:00 L.O. 料理14:45 17:00 - 21:00 L.O. 料理20:45 月 定休日 ■定休日月曜日定休(2025年9月より) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4477
 lng: 139.6267
-tabelog_score: 3.54
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ゴールドラッシュ 新宿歌舞伎町店」"
-description: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？で紹介されたyakiniku「ゴールドラッシュ 新宿歌舞伎町店」（東京都新宿区）。食べログ3.36点。推し活グルメ巡礼スポット。"
+description: "【中丸銀河ちゃんねる】ジェシー＆髙地優吾のハンバーグはどこ？食べたメニューは何？で紹介されたyakiniku「ゴールドラッシュ 新宿歌舞伎町店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-8e551b69-"
 name: "ゴールドラッシュ 新宿歌舞伎町店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/353
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:30 - 22:00 土・日 11:30 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6945429
 lng: 139.7027105
-tabelog_score: 3.36
 members:
   - "ジェシー"
   - "京本大我"

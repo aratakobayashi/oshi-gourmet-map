@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「さかな工房 丸万」"
-description: "孤独のグルメ Season10 第2017話で紹介されたramen「さかな工房 丸万」（愛媛県松山市）。食べログ3.64点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたramen「さかな工房 丸万」（愛媛県松山市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-13bbbbfb-"
 name: "さかな工房 丸万"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木・金・土・日 17:30 - 22:30 水 定休日 木曜日は隔週で店休日(電話にて要確認) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 33.8395188
 lng: 132.7653521
-tabelog_score: 3.64
 members:
   - "井之頭五郎"
 groups:

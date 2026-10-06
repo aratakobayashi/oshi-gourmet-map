@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「清月苑」"
-description: "孤独のグルメ Season10 第2020話で紹介されたyakiniku「清月苑」（神奈川県川崎市）。食べログ3.13点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2020話で紹介されたyakiniku「清月苑」（神奈川県川崎市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8a664e79-"
 name: "清月苑"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木・金・土・日 17:00 - 21:00 L.O. 20:30 水 定休日 定休日以外を店前右手にカレンダー貼り出されてます 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5306639
 lng: 139.7037668
-tabelog_score: 3.13
 members:
   - "井之頭五郎"
 groups:

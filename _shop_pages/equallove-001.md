@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「いしがまや GOKU BURGER」"
-description: "=LOVEのYouTubeで紹介されたshokuji「いしがまや GOKU BURGER」（東京都渋谷区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「いしがまや GOKU BURGER」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equallove_001"
 name: "いしがまや GOKU BURGER"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/evDdxOemuh8/hqdefault.jpg"
 business_hours: "11:00 - 22:00 L.O. 21:00"
 lat: 35.6631
 lng: 139.7039
-tabelog_score: 3.47
 members:
   - "大場花菜"
   - "瀧脇笙古"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「BONDI CAFE」"
-description: "木村拓哉が訪れたshokuji「BONDI CAFE」（東京都港区）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れたshokuji「BONDI CAFE」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kimura-bondi_cafe-20240406"
 name: "BONDI CAFE"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 08:00 - 22:00 L.O. 料理21:00 ドリンク21:20 テラス席のみ21:00クローズ"
 lat: 35.6514717
 lng: 139.722772
-tabelog_score: 3.36
 members:
   - "木村拓哉"
 groups:

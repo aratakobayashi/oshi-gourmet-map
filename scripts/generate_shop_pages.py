@@ -34,7 +34,6 @@ def build_seo_description(shop):
     genre      = shop.get('genre', '')
     prefecture = shop.get('prefecture', '')
     city       = shop.get('city', '')
-    score      = shop.get('tabelog_score')
     price      = shop.get('price_range', '')
     source_vid = shop.get('source_video_title', '')
     group      = shop.get('group', '')
@@ -63,10 +62,8 @@ def build_seo_description(shop):
     if location:
         core += f'（{location}）'
 
-    # Details: score, price
+    # Details: price
     details = []
-    if score:
-        details.append(f'食べログ{score}点')
     if price and price != '-':
         details.append(price)
     detail_str = '、'.join(details)
@@ -137,7 +134,7 @@ for shop in shops:
             lines.append(f"{key}: {yaml_str(v)}")
 
     # numeric fields
-    for key in ["lat","lng","tabelog_score"]:
+    for key in ["lat","lng"]:
         v = shop.get(key)
         if v is not None:
             lines.append(f"{key}: {v}")

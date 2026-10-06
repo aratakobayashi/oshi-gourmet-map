@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「味の中華 羽衣 銀座本店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたchuka「味の中華 羽衣 銀座本店」（東京都中央区）。食べログ3.49点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたchuka「味の中華 羽衣 銀座本店」（東京都中央区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-11cdabda-"
 name: "味の中華 羽衣 銀座本店"
 genre: "chuka"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/145
 business_hours: "月・火・水・木・金・土・祝前日・祝後日 11:00 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30 日・祝日 定休日 【定休日】日・祝・年末年始"
 lat: 35.668438
 lng: 139.763386
-tabelog_score: 3.49
 members:
   - "松島聡"
   - "篠塚大輝"

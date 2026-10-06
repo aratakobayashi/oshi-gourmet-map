@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン南国」"
-description: "Snow ManのYouTubeで紹介されたwashoku「キッチン南国」（東京都新宿区）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「キッチン南国」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 15:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7072
 lng: 139.721
-tabelog_score: 3.46
 members:
   - "佐久間大介"
   - "深澤辰哉"

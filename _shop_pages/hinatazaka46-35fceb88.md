@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「ザクリ珈琲」"
-description: "日向の休日で紹介されたcafe「ザクリ珈琲」（東京都）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "日向の休日で紹介されたcafe「ザクリ珈琲」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-35fceb88-"
 name: "ザクリ珈琲"
 genre: "cafe"
@@ -15,7 +15,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/709
 business_hours: "■ 営業時間.■ 定休日."
 lat: 35.70922484865628
 lng: 139.6346495947596
-tabelog_score: 3.21
 members:
   - "宮田愛萌"
 groups:

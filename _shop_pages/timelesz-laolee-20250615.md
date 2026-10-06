@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「台湾餃子LAOLEE 中目黒店」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたyakiniku「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。食べログ3.3点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたyakiniku「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-laolee-20250615"
 name: "台湾餃子LAOLEE 中目黒店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/331
 business_hours: "月・火・水・木・金・祝前日・祝後日 11:30 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:30"
 lat: 35.6450659
 lng: 139.7003219
-tabelog_score: 3.3
 members:
   - "橋本将生"
   - "篠塚大輝"

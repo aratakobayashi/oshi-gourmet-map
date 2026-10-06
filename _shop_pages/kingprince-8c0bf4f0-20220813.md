@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「チャオタイ 銀座店」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「チャオタイ 銀座店」（東京都中央区）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「チャオタイ 銀座店」（東京都中央区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8c0bf4f0-20220813"
 name: "チャオタイ 銀座店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日 11:30 - 15:00 17:00 - 23:00 祝日 11:30 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. 22:00"
 lat: 35.675054488719525
 lng: 139.76511432432298
-tabelog_score: 3.46
 members:
   - "神宮寺勇太"
   - "岸優太"

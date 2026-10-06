@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「土鍋炊ごはん なかよし 本店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nakayoshi-ebisu"
 name: "土鍋炊ごはん なかよし 本店"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/ohQSfk7RquY/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 22:00 L.O. 21:30 ■定休日なし"
 lat: 35.6465
 lng: 139.7135
-tabelog_score: 3.43
 members:
   - "山田涼介"
   - "菊池風磨"

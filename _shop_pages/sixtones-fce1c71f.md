@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鬼太郎茶屋」"
-description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたothers「鬼太郎茶屋」（東京都調布市）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたothers「鬼太郎茶屋」（東京都調布市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-fce1c71f-"
 name: "鬼太郎茶屋"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "火・水・木・金 09:30 - 16:30 土・日 09:00 - 17:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6636548
 lng: 139.5528936
-tabelog_score: 3.45
 members:
   - "ジェシー"
   - "京本大我"

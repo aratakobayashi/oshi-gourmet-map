@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「日光もなか」"
-description: "タイムレスマンで紹介されたsweets「日光もなか」（栃木県日光市）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: "タイムレスマンで紹介されたsweets「日光もなか」（栃木県日光市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-59cd8eb8-"
 name: "日光もなか"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 09:00 - 17:30 ［12~2月］10:00-17:30［3～11月］9:00-17:30"
 lat: 36.750228
 lng: 139.609255
-tabelog_score: 3.09
 members:
   - "原嘉孝"
   - "橋本将生"

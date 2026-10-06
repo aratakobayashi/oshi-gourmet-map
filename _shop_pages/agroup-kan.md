@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "角打ち KAN（カン）"
-description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介されたizakaya「角打ち KAN（カン）」（東京都港区）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介されたizakaya「角打ち KAN（カン）」（東京都港区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-kan-"
 name: "角打ち KAN（カン）"
 genre: "izakaya"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/276
 business_hours: "月・火・水・木・金・土 11:00 - 23:00 日 11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.667880478718224
 lng: 139.74672835426338
-tabelog_score: 3.43
 members:
   - "正門良規"
   - "草間リチャード敬太"

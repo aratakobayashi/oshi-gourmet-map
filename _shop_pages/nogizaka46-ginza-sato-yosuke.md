@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「銀座 佐藤養助」"
-description: "乃木坂46 絶品うどんを食すで紹介されたwashoku「銀座 佐藤養助」（東京都中央区）。食べログ3.55点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "乃木坂46 絶品うどんを食すで紹介されたwashoku「銀座 佐藤養助」（東京都中央区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ginza-sato-yosuke"
 name: "銀座 佐藤養助"
 genre: "washoku"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00 土・日 11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00 ■定休日お盆、年末年始"
 lat: 35.6721
 lng: 139.7611
-tabelog_score: 3.55
 members:
   - "久保史緒里"
   - "山下美月"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「栗原軒」"
-description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「栗原軒」（千葉県成田市）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「栗原軒」（千葉県成田市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-46f60530-"
 name: "栗原軒"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・日 11:00 - 15:00 L.O. 14:30 土 定休日 ■ 営業時間※夜営業予約制、要相談 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7767683
 lng: 140.3183376
-tabelog_score: 3.47
 members:
   - "井之頭五郎"
 groups:

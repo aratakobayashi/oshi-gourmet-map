@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「光澤堂」"
-description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介されたothers「光澤堂」（東京都中央区）。食べログ3.1点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介されたothers「光澤堂」（東京都中央区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-9d838969-"
 name: "光澤堂"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216
 business_hours: "月・火・水・木・金・土 09:00 - 18:00 日・祝日 定休日"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.1
 members:
   - "ジェシー"
   - "京本大我"

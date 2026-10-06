@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "博多だるま 総本店"
-description: "Travis Japan 福岡旅で紹介されたramen「博多だるま 総本店」（福岡県福岡市）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "Travis Japan 福岡旅で紹介されたramen「博多だるま 総本店」（福岡県福岡市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-2f43f178-"
 name: "博多だるま 総本店"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/329
 business_hours: "11:30 - 02:00 L.O. 01:30 ■ 営業時間[テイクアウト・デリバリー（UberEats、出前館]11:30〜25:00※スープ売り切れ次第終了の場合あり■ 定休日年末のみ"
 lat: 33.5839062
 lng: 130.4051299
-tabelog_score: 3.6
 groups:
   - "travisjapan"
 ---

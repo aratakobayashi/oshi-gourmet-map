@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山横沢」"
-description: "孤独のグルメ Season10 第7話で紹介されたramen「山横沢」（東京都渋谷区）。食べログ3.4点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第7話で紹介されたramen「山横沢」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f5a8fc06-"
 name: "山横沢"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "18:30 - 22:00 不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6633709
 lng: 139.6964952
-tabelog_score: 3.4
 members:
   - "井之頭五郎"
 groups:

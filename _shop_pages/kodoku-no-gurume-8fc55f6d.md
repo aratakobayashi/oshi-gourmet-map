@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「マッシーナ メッシーナ」"
-description: "孤独のグルメ Season7 第2話で紹介されたshokuji「マッシーナ メッシーナ」（東京都世田谷区）。食べログ3.12点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第2話で紹介されたshokuji「マッシーナ メッシーナ」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8fc55f6d-"
 name: "マッシーナ メッシーナ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "火・水・木・金・土 12:00 - 15:00 月・日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6469025
 lng: 139.652531
-tabelog_score: 3.12
 members:
   - "井之頭五郎"
 groups:

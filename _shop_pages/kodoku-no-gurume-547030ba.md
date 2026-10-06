@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「大安食堂」"
-description: "孤独のグルメ Season10 第6話で紹介されたshokuji「大安食堂」（岐阜県下呂市）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第6話で紹介されたshokuji「大安食堂」（岐阜県下呂市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-547030ba-"
 name: "大安食堂"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "09:00 - 21:30 ■ 定休日第１，３水曜日"
 lat: 35.8064271
 lng: 137.2433187
-tabelog_score: 3.49
 members:
   - "井之頭五郎"
 groups:

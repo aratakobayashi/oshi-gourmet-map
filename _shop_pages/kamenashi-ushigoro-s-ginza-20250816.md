@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「USHIGORO S. GINZA」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「USHIGORO S. GINZA」（東京都中央区）。食べログ3.98点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「USHIGORO S. GINZA」（東京都中央区）。￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-ushigoro_s_ginza-20250816"
 name: "USHIGORO S. GINZA"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/2F4xUoo5GSM/hqdefault.jpg"
 business_hours: "月・火・水・木・金 17:00 - 23:30 L.O. 料理21:00 土・日・祝日 12:00 - 15:00 L.O. 料理13:00 17:00 - 23:30 L.O. 料理21:00 ■ 定休日12/31・1/1・１/2・1/3"
 lat: 35.6745006
 lng: 139.7676782
-tabelog_score: 3.98
 members:
   - "亀梨和也"
 groups:

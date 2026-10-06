@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「阿佐ヶ谷バードランド」"
-description: "Snow ManのYouTubeで紹介されたizakaya「阿佐ヶ谷バードランド」（東京都杉並区）。食べログ3.57点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたizakaya「阿佐ヶ谷バードランド」（東京都杉並区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-asagaya-birdland"
 name: "阿佐ヶ谷バードランド"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/SoZCXSgz8wo/hqdefault.jpg"
 business_hours: "火・水・木・金・土 17:00 - 22:30 L.O. 22:00 月・日 定休日 ※ネタが無くなり次第早く閉める事があります。※ご利用時間は2時間程度でお願い致します。"
 lat: 35.7047
 lng: 139.6391
-tabelog_score: 3.57
 members:
   - "深澤辰哉"
   - "岩本照"

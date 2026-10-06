@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「かおたんラーメンえんとつ屋 南青山店」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「かおたんラーメンえんとつ屋 南青山店」（東京都港区）。食べログ3.64点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたramen「かおたんラーメンえんとつ屋 南青山店」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kaotan-ramen"
 name: "かおたんラーメンえんとつ屋 南青山店"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/5lDHj8PXno8/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 11:30 - 05:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.667268
 lng: 139.72226
-tabelog_score: 3.64
 members:
   - "二宮和也"
   - "山田涼介"

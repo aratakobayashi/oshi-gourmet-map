@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「スタジオカフェ MARU」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「スタジオカフェ MARU」（東京都新宿区）。食べログ3.35点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「スタジオカフェ MARU」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "ginga-maru-202407"
 name: "スタジオカフェ MARU"
 genre: "cafe"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/354
 business_hours: "11:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.703008
 lng: 139.6992999
-tabelog_score: 3.35
 members:
   - "中丸雄一"
 groups:

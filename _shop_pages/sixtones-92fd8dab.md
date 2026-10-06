@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「銀座サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたothers「銀座サンド」（東京都中央区）。食べログ3.54点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたothers「銀座サンド」（東京都中央区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-92fd8dab-"
 name: "銀座サンド"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/136
 business_hours: "月・火・水・木・金 17:00 - 04:00 土 11:30 - 23:00 日・祝日 定休日"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.54
 members:
   - "ジェシー"
   - "京本大我"

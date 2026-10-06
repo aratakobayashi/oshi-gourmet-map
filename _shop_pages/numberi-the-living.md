@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "THE LIVING"
-description: "VS魂 背徳グルメワールドツアーで紹介されたcafe「THE LIVING」（東京都大田区）。食べログ3.66点。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介されたcafe「THE LIVING」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-the_living-"
 name: "THE LIVING"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/243
 business_hours: "月・火・水・木・金 11:00 - 17:00 L.O. 16:00 土・日・祝日 11:00 - 18:00 L.O. 17:00 ■ 営業時間臨時休業が多い店ですので、最新情報は必ずFacebookページでもご確認頂ければ幸いです。■ 定休日年末年始と秋休み。詳細はFBページにてご案内しております。"
 lat: 35.5706647
 lng: 139.6923407
-tabelog_score: 3.66
 members:
   - "岸優太"
 groups:

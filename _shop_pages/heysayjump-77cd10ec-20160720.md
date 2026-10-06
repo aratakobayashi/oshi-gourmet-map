@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「銀座 楼蘭」"
-description: "2016.07.20 グルメ探偵調査で紹介されたshokuji「銀座 楼蘭」（東京都中央区）。食べログ3.5点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "2016.07.20 グルメ探偵調査で紹介されたshokuji「銀座 楼蘭」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-77cd10ec-20160720"
 name: "銀座 楼蘭"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "11:30 - 22:00 L.O. 21:00 ■ 定休日年末・年始（ 12/31～1/4）"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.5
 members:
   - "八乙女光"
 groups:

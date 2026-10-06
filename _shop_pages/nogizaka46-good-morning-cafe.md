@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
-description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたcafe「GOOD MORNING CAFE 錦町」（東京都千代田区）。食べログ3.39点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたcafe「GOOD MORNING CAFE 錦町」（東京都千代田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-good_morning_cafe-"
 name: "GOOD MORNING CAFE 錦町"
 genre: "cafe"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:30 - 22:00 土・日・祝日 11:00 - 15:00 17:00 - 21:00"
 lat: 35.6916939
 lng: 139.7618479
-tabelog_score: 3.39
 members:
   - "与田祐希"
 groups:

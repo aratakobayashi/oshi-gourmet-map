@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「アトア（átoa）」"
-description: "映画よめぼく【永瀬廉ロケ地】水族館・高校・カフェ・公園・花屋は神戸？撮影はいつ？遭遇情報は？で紹介されたothers「アトア（átoa）」（兵庫県神戸市）。食べログ3.42点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "映画よめぼく【永瀬廉ロケ地】水族館・高校・カフェ・公園・花屋は神戸？撮影はいつ？遭遇情報は？で紹介されたothers「アトア（átoa）」（兵庫県神戸市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-atoa-20240125"
 name: "アトア（átoa）"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/307
 business_hours: "11:00 - 22:00 L.O. 料理21:00 ドリンク21:30"
 lat: 34.683244
 lng: 135.1936099
-tabelog_score: 3.42
 members:
   - "永瀬廉"
   - "髙橋海人"

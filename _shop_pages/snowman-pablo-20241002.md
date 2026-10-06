@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Pablo」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Pablo」（大阪府大阪市）。食べログ3.6点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Pablo」（大阪府大阪市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "shokuji"
@@ -19,7 +19,6 @@ seating_note: "店内入り口から向かって右手最奥のテーブル席�
 business_hours: "月・火・水・木・金 17:00 - 23:00 L.O. 料理21:30 土・日・祝日 12:00 - 15:00 L.O. 料理13:00 17:00 - 23:00 L.O. 料理21:30 ■ 営業時間⚠︎ランチタイムのパエリア付きのコースのみのご案内になります■ 定休日不定休"
 lat: 34.6694965
 lng: 135.5015898
-tabelog_score: 3.6
 groups:
   - "snowman"
 ordered_items:

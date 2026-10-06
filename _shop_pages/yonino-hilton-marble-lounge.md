@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ヒルトン東京 マーブルラウンジ」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。食べログ3.48点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hilton-marble-lounge"
 name: "ヒルトン東京 マーブルラウンジ"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/br-iF9GUpIE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:30 - 22:00 L.O. 21:00 土・日・祝日 11:00 - 15:30 L.O. 15:00 17:30 - 22:00 L.O. 21:00 ■ 営業時間＜平日＞ランチプレミアム点心ランチ（2時間制）11:30～15:00（L.O. 14:30）コース・アラカルト 11:30～15:00（L.O. 14:3"
 lat: 35.6896
 lng: 139.6917
-tabelog_score: 3.48
 members:
   - "二宮和也"
   - "山田涼介"

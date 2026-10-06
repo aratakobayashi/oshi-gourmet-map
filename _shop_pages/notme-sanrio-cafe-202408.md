@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「SANRIO CAFE 池袋店」"
-description: "≠MEのYouTubeで紹介されたcafe「SANRIO CAFE 池袋店」（東京都豊島区）。食べログ3.35点。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたcafe「SANRIO CAFE 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-sanrio_cafe-202408"
 name: "SANRIO CAFE 池袋店"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg"
 business_hours: "10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7311554
 lng: 139.7149383
-tabelog_score: 3.35
 members:
   - "谷崎早耶"
   - "本田珠由記"

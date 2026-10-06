@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「壹銭洋食 本店」"
-description: "亀梨和也のYouTubeで紹介されたwashoku「壹銭洋食 本店」（京都府京都市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたwashoku「壹銭洋食 本店」（京都府京都市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-17aff7bc-202405"
 name: "壹銭洋食 本店"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/mOC7wSoPSyc/hqdefault.jpg"
 business_hours: "月・火・水・木 11:00 - 01:00 金・土 11:00 - 03:00 日 10:30 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6820484
 lng: 135.1751003
-tabelog_score: 3.49
 members:
   - "亀梨和也"
 groups:

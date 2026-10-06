@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「もみぢ」"
-description: "キントレ【永瀬廉＆髙橋海人ロケ地】最高級ふぐ＆激安ふぐのお店はどこ？東京23区ピンキリ調査！で紹介されたothers「もみぢ」（東京都杉並区）。食べログ3.36点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉＆髙橋海人ロケ地】最高級ふぐ＆激安ふぐのお店はどこ？東京23区ピンキリ調査！で紹介されたothers「もみぢ」（東京都杉並区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-837c5b45-"
 name: "もみぢ"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/327
 business_hours: "15:00 - 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.695904938659496
 lng: 139.61821790463654
-tabelog_score: 3.36
 members:
   - "永瀬廉"
   - "髙橋海人"

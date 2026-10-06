@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "時楽 板橋本町本店"
-description: "イキスギさんについてった 2023-04-11 牛タン先生で紹介されたyakiniku「時楽 板橋本町本店」（東京都板橋区）。食べログ3.52点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-04-11 牛タン先生で紹介されたyakiniku「時楽 板橋本町本店」（東京都板橋区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "west-5b44cba1-"
 name: "時楽 板橋本町本店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "店舗情報、コース内容はInstagramを参照ください（下段、公式アカウントのInstagramをタップ）"
 lat: 35.7598345
 lng: 139.708538
-tabelog_score: 3.52
 members:
   - "桐山照史"
 groups:

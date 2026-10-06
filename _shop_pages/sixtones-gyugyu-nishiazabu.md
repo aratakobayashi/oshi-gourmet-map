@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛牛 西麻布 総本店」"
-description: "SixTONESのYouTubeで紹介されたyakiniku「牛牛 西麻布 総本店」（東京都港区）。食べログ3.46点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたyakiniku「牛牛 西麻布 総本店」（東京都港区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-gyugyu-nishiazabu"
 name: "牛牛 西麻布 総本店"
 genre: "yakiniku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/Ssamk6Xf-gM/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 17:00 - 00:00 L.O. 料理23:00 ドリンク23:30 ■ 営業時間【18時〜21時からのご予約に関しましてはお電話にてお問い合わせ下さいませ】■ 定休日年末年始のみ【18時〜21時からのご予約に関しましてはお電話にてお問い合わせ下さいませ】"
 lat: 35.659562
 lng: 139.726074
-tabelog_score: 3.46
 members:
   - "ジェシー"
 groups:

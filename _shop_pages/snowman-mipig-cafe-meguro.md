@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「mipig cafe 目黒店」"
-description: "Snow ManのYouTubeで紹介されたcafe「mipig cafe 目黒店」（東京都目黒区）。食べログ3.05点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたcafe「mipig cafe 目黒店」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mipig-cafe-meguro"
 name: "mipig cafe 目黒店"
 genre: "cafe"
@@ -21,7 +21,6 @@ seating_note: "SnowManがいたお部屋は「2F living」だと思われます�
 business_hours: "10:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6313577
 lng: 139.7035686
-tabelog_score: 3.05
 groups:
   - "snowman"
 tags:

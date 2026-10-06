@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「五十鈴茶屋 本店」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「五十鈴茶屋 本店」（三重県伊勢市）。食べログ3.68点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「五十鈴茶屋 本店」（三重県伊勢市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-790cc89f-"
 name: "五十鈴茶屋 本店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/210
 business_hours: "09:00 - 17:00 ■ 営業時間喫茶9:30～16:30■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.462783
 lng: 136.7235288
-tabelog_score: 3.68
 members:
   - "菊池風磨"
   - "佐藤勝利"

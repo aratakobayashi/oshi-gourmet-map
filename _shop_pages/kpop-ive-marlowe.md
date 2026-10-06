@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「MARLOWE マーロウ 葉山マリーナ店」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたsweets「MARLOWE マーロウ 葉山マリーナ店」（神奈川県三浦郡葉山町）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたsweets「MARLOWE マーロウ 葉山マリーナ店」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-marlowe-"
 name: "MARLOWE マーロウ 葉山マリーナ店"
 genre: "sweets"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/310
 business_hours: "月・水・木・金・土・日 10:00 - 19:00 火 定休日 ■ 営業時間テイクアウト 10:00～19:00喫茶 10:00～18:30(L.O.18:00)■ 定休日不定休 ※葉山マリーナに準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.276578
 lng: 139.593549
-tabelog_score: 3.37
 members:
   - "ガウル"
   - "ウォニョン"

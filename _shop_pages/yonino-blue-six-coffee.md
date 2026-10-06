@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「BLUE SIX COFFEE」（東京都新宿区）。食べログ3.51点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「BLUE SIX COFFEE」（東京都新宿区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/-eUXX7jYxrM/hqdefault.jpg"
 business_hours: "08:00 - 17:00 年末年始は12/30~1/4まで休業となります。"
 lat: 35.6775
 lng: 139.7133
-tabelog_score: 3.51
 members:
   - "二宮和也"
   - "山田涼介"

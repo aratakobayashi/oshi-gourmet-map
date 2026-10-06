@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Trattoria e Pizzeria De salita 赤坂」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Trattoria e Pizzeria De salita 赤坂」（東京都港区）。食べログ3.46点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Trattoria e Pizzeria De salita 赤坂」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-de-salita-akasaka"
 name: "Trattoria e Pizzeria De salita 赤坂"
 genre: "shokuji"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 23:00 L.O. 22:00 ■ 営業時間平日ランチ:ランチセットメニューのみの営業※予約 不可平日ディナー：グランドメニューのみの営業※予約 可土日祝：終日グランドメニューのみの営業※予約 可■ 定休日12月31日～1月3日は年末年始休業となります"
 lat: 35.6757
 lng: 139.7367
-tabelog_score: 3.46
 members:
   - "岩本照"
   - "深澤辰哉"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「亀戸系ホルモン やりなおし 亀戸本店」"
-description: "孤独のグルメ Season10 第2022話で紹介されたyakiniku「亀戸系ホルモン やりなおし 亀戸本店」（東京都江東区）。食べログ3.27点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたyakiniku「亀戸系ホルモン やりなおし 亀戸本店」（東京都江東区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-16bbe494-"
 name: "亀戸系ホルモン やりなおし 亀戸本店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 17:00 - 23:00 L.O. 22:30 土・日・祝日 12:00 - 23:00 L.O. 22:30"
 lat: 35.6727747
 lng: 139.8169621
-tabelog_score: 3.27
 members:
   - "井之頭五郎"
 groups:

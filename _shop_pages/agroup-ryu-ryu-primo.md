@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RYU-RYU Primo（リュリュプリモ）"
-description: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ屋さんはどこ？好きなメニューは？で紹介されたothers「RYU-RYU Primo（リュリュプリモ）」（兵庫県西宮市）。食べログ3.31点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ屋さんはどこ？好きなメニューは？で紹介されたothers「RYU-RYU Primo（リュリュプリモ）」（兵庫県西宮市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-ryu_ryu_primo-"
 name: "RYU-RYU Primo（リュリュプリモ）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/351
 business_hours: "11:00 - 21:30 L.O. 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.74476810790683
 lng: 135.3579302680155
-tabelog_score: 3.31
 members:
   - "正門良規"
   - "草間リチャード敬太"

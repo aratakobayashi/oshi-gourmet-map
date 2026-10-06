@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ユナイテッド・シネマ豊洲」"
-description: "=LOVEのYouTubeで紹介されたshokuji「ユナイテッド・シネマ豊洲」（東京都江東区）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「ユナイテッド・シネマ豊洲」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c64bb688-202408"
 name: "ユナイテッド・シネマ豊洲"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
 business_hours: "■ 営業時間10:00～(上映スケジュールにより異なる)■ 定休日不定休(アーバンドックららぽーと豊洲に準ずる) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.655271
 lng: 139.792777
-tabelog_score: 3.07
 members:
   - "大谷映美里"
 groups:

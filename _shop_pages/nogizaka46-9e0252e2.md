@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「フラワー 竹内街道軽里店」"
-description: "乃木坂工事中で紹介されたothers「フラワー 竹内街道軽里店」（大阪府羽曳野市）。食べログ3.13点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「フラワー 竹内街道軽里店」（大阪府羽曳野市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9e0252e2-"
 name: "フラワー 竹内街道軽里店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/333
 business_hours: "09:30 - 19:00 ＜カフェ＞9:30～17:00（L.O.16:00）＜モーニングサービス＞9:30～11:00＜ランチ＞11:00～15:00"
 lat: 34.551504
 lng: 135.597465
-tabelog_score: 3.13
 groups:
   - "nogizaka46"
 ---

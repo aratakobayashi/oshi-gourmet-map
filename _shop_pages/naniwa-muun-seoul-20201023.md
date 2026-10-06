@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MUUN seoul」"
-description: "なにわ男子が訪れたcafe「MUUN seoul」（東京都渋谷区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子が訪れたcafe「MUUN seoul」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-muun_seoul-20201023"
 name: "MUUN seoul"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 business_hours: "11:00 - 19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6692039
 lng: 139.7072847
-tabelog_score: 3.38
 members:
   - "長尾謙杜"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「TAOCA COFFEE 南青山店」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「TAOCA COFFEE 南青山店」（東京都港区）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「TAOCA COFFEE 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-taoca-coffee"
 name: "TAOCA COFFEE 南青山店"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/FUZpjh8sXoE/hqdefault.jpg"
 business_hours: "10:00 - 19:00 不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.66483
 lng: 139.718338
-tabelog_score: 3.24
 members:
   - "二宮和也"
   - "山田涼介"

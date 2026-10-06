@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「葱や平吉 渋谷宇田川町店」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。食べログ3.45点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negiya-heikichi"
 name: "葱や平吉 渋谷宇田川町店"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/pxiRbYciIEE/hqdefault.jpg"
 business_hours: "火・水・木・金 11:30 - 14:30 L.O. 14:00 17:30 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 14:30 L.O. 14:00 17:00 - 22:30 L.O. 21:30 月 定休日 ■ ご予約についてランチタイムのご予約は承っておりません。申し訳ございませんがご理解くださいますよう、お願いいたします。ディナーのご予約は、ランチタイムのピー"
 lat: 35.662075
 lng: 139.697496
-tabelog_score: 3.45
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MONT-NOM」"
-description: "なにわ男子のどっち派 (2023-09-01)で紹介されたcafe「MONT-NOM」（東京都目黒区）。食べログ3.6点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-09-01)で紹介されたcafe「MONT-NOM」（東京都目黒区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-mont_nom-20230901"
 name: "MONT-NOM"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/182
 business_hours: "月・火・木・金・土・日 08:00 - 18:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6100712
 lng: 139.6703187
-tabelog_score: 3.6
 members:
   - "長尾謙杜"
 groups:

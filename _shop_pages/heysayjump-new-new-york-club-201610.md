@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「New NEW YORK CLUB(テイクアウト)」"
-description: "2016.10.26で紹介されたshokuji「New NEW YORK CLUB(テイクアウト)」（東京都目黒区）。食べログ3.16点。推し活グルメ巡礼スポット。"
+description: "2016.10.26で紹介されたshokuji「New NEW YORK CLUB(テイクアウト)」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-new_new_york_club-201610"
 name: "New NEW YORK CLUB(テイクアウト)"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
 lat: 35.6105308
 lng: 139.6758726
-tabelog_score: 3.16
 groups:
   - "heysayjump"
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Juicer Bar 新幹線新大阪店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。食べログ3.25点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-juicer_bar-202508"
 name: "Juicer Bar 新幹線新大阪店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
 business_hours: "07:00 - 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.7313185
 lng: 135.500552
-tabelog_score: 3.25
 members:
   - "大谷映美里"
 groups:

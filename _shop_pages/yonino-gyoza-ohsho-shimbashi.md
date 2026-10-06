@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「餃子の王将 新橋駅前店」"
-description: "よにのちゃんねるのYouTubeで紹介されたchuka「餃子の王将 新橋駅前店」（東京都港区）。食べログ3.27点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたchuka「餃子の王将 新橋駅前店」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-gyoza-ohsho-shimbashi"
 name: "餃子の王将 新橋駅前店"
 genre: "chuka"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/K_MkrrYFgR0/hqdefault.jpg"
 business_hours: "月 10:30 - 22:15 火・水・木・金 10:30 - 23:30 土・日・祝日 10:00 - 22:15 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.666
 lng: 139.7586
-tabelog_score: 3.27
 members:
   - "二宮和也"
   - "山田涼介"

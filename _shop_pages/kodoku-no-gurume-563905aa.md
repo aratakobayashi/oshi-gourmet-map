@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「えんむすび」"
-description: "孤独のグルメ Season9 第8話で紹介されたshokuji「えんむすび」（群馬県高崎市）。食べログ3.41点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第8話で紹介されたshokuji「えんむすび」（群馬県高崎市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-563905aa-"
 name: "えんむすび"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "火・水・木・金・土 18:00 - 03:00 L.O. 料理23:30 月・日・祝日 定休日 ■ 営業時間18:00～2:00か3:00くらいまで（お客に合わせる）お米がなくなり次第早閉めありラストオーダー 23:30（2024.09確認）"
 lat: 36.3220984
 lng: 139.0032758
-tabelog_score: 3.41
 members:
   - "井之頭五郎"
 groups:

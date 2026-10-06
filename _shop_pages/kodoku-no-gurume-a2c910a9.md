@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「肉の浅鞍」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「肉の浅鞍」（北海道札幌市）。食べログ3.43点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「肉の浅鞍」（北海道札幌市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a2c910a9-"
 name: "肉の浅鞍"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土 17:00 - 22:00 L.O. 21:30 日 17:00 - 21:00 L.O. 20:30 祝日 17:00 - 21:00 L.O. 料理20:30"
 lat: 43.061936
 lng: 141.3542924
-tabelog_score: 3.43
 members:
   - "井之頭五郎"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「彩り五色小籠包専門店 龍海飯店」"
-description: "SixTONESのYouTubeで紹介されたchuka「彩り五色小籠包専門店 龍海飯店」（神奈川県横浜市中区）。食べログ3.23点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたchuka「彩り五色小籠包専門店 龍海飯店」（神奈川県横浜市中区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ryukaihanten-chinatown"
 name: "彩り五色小籠包専門店 龍海飯店"
 genre: "chuka"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
 business_hours: "■ 営業時間龍海飯店本店 10：30～22：00（LO 21：30）龍海飯店大通り店 10：30～22：00（LO 21：30）定休日：年中無休"
 lat: 35.443983
 lng: 139.648271
-tabelog_score: 3.23
 members:
   - "松村北斗"
   - "髙地優吾"

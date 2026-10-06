@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キッチンオニオン」"
-description: "孤独のグルメ Season10 第24話で紹介されたizakaya「キッチンオニオン」（埼玉県川口市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたizakaya「キッチンオニオン」（埼玉県川口市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8dd15d33-"
 name: "キッチンオニオン"
 genre: "izakaya"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木 11:00 - 15:00 金・土・日・祝日 11:00 - 15:00 17:00 - 20:00 水 定休日"
 lat: 35.8078228
 lng: 139.7241054
-tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

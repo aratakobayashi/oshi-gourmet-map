@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「焼肉 冷麺 ユッチャン。銀座店」"
-description: "亀梨和也のYouTubeで紹介されたramen「焼肉 冷麺 ユッチャン。銀座店」（東京都中央区）。食べログ3.54点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「焼肉 冷麺 ユッチャン。銀座店」（東京都中央区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-814e2aa9-202408"
 name: "焼肉 冷麺 ユッチャン。銀座店"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/47QSe1T9ffo/hqdefault.jpg"
 business_hours: "月・火・水・木・金 12:00 - 15:00 L.O. 14:00 16:00 - 23:00 L.O. 22:00 土・日・祝日 12:00 - 23:00 L.O. 22:00"
 lat: 35.6709612
 lng: 139.7643214
-tabelog_score: 3.54
 members:
   - "亀梨和也"
 groups:

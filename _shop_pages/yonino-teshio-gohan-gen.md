@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「手しおごはん 玄 新宿南口店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
 business_hours: "11:00 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6848
 lng: 139.702
-tabelog_score: 3.09
 members:
   - "二宮和也"
   - "山田涼介"

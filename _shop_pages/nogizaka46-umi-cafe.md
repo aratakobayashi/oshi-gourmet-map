@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umi cafe」"
-description: "17thインフルエンサーType-Cで紹介されたcafe「umi cafe」（神奈川県鎌倉市）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Cで紹介されたcafe「umi cafe」（神奈川県鎌倉市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
 genre: "cafe"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・金・土・日・祝日 11:30 - 18:00 水・木 定休日 ■ 定休日水、木曜日（10月から6月）水、第1第3第5木曜日（7、8、9月）"
 lat: 35.3091195
 lng: 139.5422113
-tabelog_score: 3.21
 members:
   - "齋藤飛鳥"
 groups:

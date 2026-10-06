@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Monkey Cafe（モンキーカフェ）"
-description: "私たちが恋する理由【七五三掛龍也ロケ地】坂元と絢香の初デートのカフェはどこ？クロサギロケ地？で紹介されたcafe「Monkey Cafe（モンキーカフェ）」（東京都渋谷区）。食べログ3.44点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "私たちが恋する理由【七五三掛龍也ロケ地】坂元と絢香の初デートのカフェはどこ？クロサギロケ地？で紹介されたcafe「Monkey Cafe（モンキーカフェ）」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-monkey_cafe-"
 name: "Monkey Cafe（モンキーカフェ）"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "10:00 - 19:00 【定休日】不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.651068637909475
 lng: 139.70263588296274
-tabelog_score: 3.44
 members:
   - "松田元太"
   - "川島如恵留"

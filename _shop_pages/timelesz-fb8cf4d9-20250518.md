@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 source_type: "tv"
 lat: 35.1033354
 lng: 139.0782748
-tabelog_score: 
 members:
   - "猪俣周杜"
 groups:

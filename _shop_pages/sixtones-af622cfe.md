@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「３丁目のちいさなパン屋さん」"
-description: "【SixTONES】緊急で動画回してますwおいしいパン屋さんを探して（2023/07/28配信）で紹介されたcafe「３丁目のちいさなパン屋さん」（東京都新宿区）。食べログ3.48点、～￥999。推し活グルメ巡礼スポット。"
+description: "【SixTONES】緊急で動画回してますwおいしいパン屋さんを探して（2023/07/28配信）で紹介されたcafe「３丁目のちいさなパン屋さん」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-af622cfe-"
 name: "３丁目のちいさなパン屋さん"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "月・火・水・木・金・土 08:00 - 20:00 祝日 09:00 - 18:00 日 定休日"
 lat: 35.6931613
 lng: 139.7081096
-tabelog_score: 3.48
 members:
   - "ジェシー"
   - "京本大我"

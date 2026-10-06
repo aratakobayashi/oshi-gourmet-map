@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「しゃぶしゃぶ だるま」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「しゃぶしゃぶ だるま」（東京都港区）。食べログ3.16点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「しゃぶしゃぶ だるま」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daruma-azabu"
 name: "しゃぶしゃぶ だるま"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/h9l4U27yN9A/hqdefault.jpg"
 business_hours: "火・金 17:00 - 06:00 L.O. 05:30 水・木・日 11:30 - 15:00 17:00 - 23:00 L.O. 23:00 土 11:30 - 15:00 17:00 - 06:00 L.O. 05:30 祝日 11:30 - 15:00 L.O. 15:00 17:00 - 23:00 L.O. 23:00 月 定休日"
 lat: 35.6543
 lng: 139.7367
-tabelog_score: 3.16
 members:
   - "二宮和也"
   - "山田涼介"

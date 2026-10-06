@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "青山壹番館 渋谷店"
-description: "喫茶と濵田。#001で紹介されたcafe「青山壹番館 渋谷店」（東京都渋谷区）。食べログ3.52点、～￥999。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#001で紹介されたcafe「青山壹番館 渋谷店」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "west-aa9f583c-"
 name: "青山壹番館 渋谷店"
 genre: "cafe"
@@ -19,7 +19,6 @@ source_type: "youtube"
 business_hours: "月・火・水・木・金・土 10:00 - 18:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6531376
 lng: 139.7114585
-tabelog_score: 3.52
 members:
   - "濵田崇裕"
 groups:

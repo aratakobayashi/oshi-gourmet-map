@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「iki ESPRESSO」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「iki ESPRESSO」（東京都江東区）。食べログ3.6点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「iki ESPRESSO」（東京都江東区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
 genre: "cafe"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/bXq2vtpe7lQ/hqdefault.jpg"
 business_hours: "月・火・水・木・金 08:00 - 17:00 土・日 08:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.684643
 lng: 139.796089
-tabelog_score: 3.6
 members:
   - "二宮和也"
   - "山田涼介"

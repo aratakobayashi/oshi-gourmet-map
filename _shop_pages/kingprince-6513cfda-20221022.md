@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「富錦樹台菜香檳 コレド室町テラス店」"
-description: "King&Princeる。当たり前レストランで紹介されたizakaya「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。食べログ3.51点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたizakaya「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"
 genre: "izakaya"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "11:00 - 22:00 L.O. 21:00 ■ 定休日施設休館日等を除き、特になし"
 lat: 35.68729843790863
 lng: 139.7722172832799
-tabelog_score: 3.51
 members:
   - "神宮寺勇太"
   - "岸優太"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ベンガル"
-description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介されたshokuji「ベンガル」（東京都）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介されたshokuji「ベンガル」（東京都）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "west-a20cb490"
 name: "ベンガル"
 genre: "shokuji"
@@ -17,7 +17,6 @@ source_type: "tv"
 business_hours: "月・木 11:30 - 15:00 火・水・金・土・日 11:30 - 20:30 L.O. 20:00"
 lat: 35.70217313789832
 lng: 139.76952108343204
-tabelog_score: 3.72
 members:
   - "濵田崇裕"
 groups:

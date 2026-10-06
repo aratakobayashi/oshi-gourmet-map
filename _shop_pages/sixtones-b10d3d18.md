@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くら寿司 御殿場店」"
-description: "SixTONES【10万円アポなし旅】１泊2日弾丸バスツアー（2019/07/05配信）で紹介されたwashoku「くら寿司 御殿場店」（静岡県御殿場市）。食べログ3.03点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【10万円アポなし旅】１泊2日弾丸バスツアー（2019/07/05配信）で紹介されたwashoku「くら寿司 御殿場店」（静岡県御殿場市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b10d3d18-"
 name: "くら寿司 御殿場店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360
 business_hours: "月・火・水・木・金 11:00 - 23:00 土・日・祝日 10:20 - 23:00 ■ 営業時間※ご入店は閉店時間の30分前まで"
 lat: 35.297328
 lng: 138.924175
-tabelog_score: 3.03
 members:
   - "ジェシー"
   - "京本大我"

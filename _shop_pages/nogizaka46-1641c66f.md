@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「麻布かりんと 麻布十番店」"
-description: "麻布かりんとで紹介されたsweets「麻布かりんと 麻布十番店」（東京都港区）。食べログ3.27点。推し活グルメ巡礼スポット。"
+description: "麻布かりんとで紹介されたsweets「麻布かりんと 麻布十番店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-1641c66f-"
 name: "麻布かりんと 麻布十番店"
 genre: "sweets"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 18:00 ■ 定休日第2火曜日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.65609263791658
 lng: 139.73493718299082
-tabelog_score: 3.27
 groups:
   - "nogizaka46"
 ---

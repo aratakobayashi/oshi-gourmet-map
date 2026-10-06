@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Himono Dining かまなり」"
-description: "なにわ男子のどっち派 (2026-03-27)で紹介されたcafe「Himono Dining かまなり」（静岡県熱海市）。食べログ3.34点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-27)で紹介されたcafe「Himono Dining かまなり」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-himono_dining-20260327"
 name: "Himono Dining かまなり"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/255
 business_hours: "月・木・金・土・日・祝日・祝前日・祝後日 08:00 - 16:00 L.O. 料理15:00 ドリンク15:30 火・水 定休日 花火大会の日は夜も営業いたします。"
 lat: 35.0967641
 lng: 139.0736987
-tabelog_score: 3.34
 members:
   - "道枝駿佑"
 groups:

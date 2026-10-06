@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「COW BELL（カウベル）」"
-description: "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）で紹介されたothers「COW BELL（カウベル）」（神奈川県横浜市）。食べログ3.46点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）で紹介されたothers「COW BELL（カウベル）」（神奈川県横浜市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cow_bell-"
 name: "COW BELL（カウベル）"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/122
 business_hours: "月・火・水・木・金 10:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:30 土・日・祝日 10:30 - 14:30 14:30 - 22:00 L.O. 21:30 ■ 定休日12月31日 1月1日"
 lat: 35.3651189
 lng: 139.5807512
-tabelog_score: 3.46
 members:
   - "ジェシー"
   - "京本大我"

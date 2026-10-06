@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「& OIMO TOKYO CAFE 中目黒店」"
-description: "ENHYPENで紹介されたothers「& OIMO TOKYO CAFE 中目黒店」（東京都目黒区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「& OIMO TOKYO CAFE 中目黒店」（東京都目黒区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-oimo_tokyo_cafe-"
 name: "& OIMO TOKYO CAFE 中目黒店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360
 business_hours: "月・火・水・木・金 09:00 - 18:00 土・日・祝日 09:00 - 19:00 ■ 定休日なし 臨時休業等、公式HP、SNSをご確認ください"
 lat: 35.6482209
 lng: 139.6970724
-tabelog_score: 3.49
 groups:
   - "kpop_enhypen"
 ---

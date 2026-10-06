@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「PARK STAND TOKYO 清澄白河」"
-description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたothers「PARK STAND TOKYO 清澄白河」（東京都江東区）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたothers「PARK STAND TOKYO 清澄白河」（東京都江東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-park_stand_tokyo-"
 name: "PARK STAND TOKYO 清澄白河"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355
 business_hours: "月・火・水・木・金・土・日 08:00 - 18:30 祝日 08:00 - 18:30 L.O. 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6826914
 lng: 139.7960478
-tabelog_score: 3.49
 members:
   - "ジェシー"
   - "京本大我"

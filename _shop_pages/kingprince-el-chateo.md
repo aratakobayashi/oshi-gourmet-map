@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「EL CHATEO 銀座店（エル・チャテオ）」"
-description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたothers「EL CHATEO 銀座店（エル・チャテオ）」（東京都中央区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたothers「EL CHATEO 銀座店（エル・チャテオ）」（東京都中央区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-el_chateo-"
 name: "EL CHATEO 銀座店（エル・チャテオ）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/193
 business_hours: "月・火・水・木・金 11:00 - 00:30 土 11:30 - 22:40 日・祝日 11:00 - 22:00"
 lat: 35.67271253791604
 lng: 139.76637058313665
-tabelog_score: 3.5
 members:
   - "永瀬廉"
   - "髙橋海人"

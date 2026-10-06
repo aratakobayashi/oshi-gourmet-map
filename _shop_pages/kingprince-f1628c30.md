@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「カレーレストラン 宝亭」"
-description: "【キンプリMr.5ロケ地】熱海旅行のカレー屋さんは？食べたメニューは？で紹介されたshokuji「カレーレストラン 宝亭」（静岡県熱海市）。食べログ3.49点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【キンプリMr.5ロケ地】熱海旅行のカレー屋さんは？食べたメニューは？で紹介されたshokuji「カレーレストラン 宝亭」（静岡県熱海市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-f1628c30-"
 name: "カレーレストラン 宝亭"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348
 business_hours: "月・火・水・金・土・日 11:00 - 15:30 木 定休日 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.0967641
 lng: 139.0736987
-tabelog_score: 3.49
 members:
   - "永瀬廉"
   - "髙橋海人"

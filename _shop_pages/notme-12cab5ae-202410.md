@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「焼肉トラジ 池袋東口店」"
-description: "≠MEのYouTubeで紹介されたyakiniku「焼肉トラジ 池袋東口店」（東京都豊島区）。食べログ3.09点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたyakiniku「焼肉トラジ 池袋東口店」（東京都豊島区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-12cab5ae-202410"
 name: "焼肉トラジ 池袋東口店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg"
 business_hours: "月・火・水・木・金 17:00 - 23:30 土・日・祝日 11:30 - 15:00 17:00 - 23:00"
 lat: 35.7265922
 lng: 139.7157472
-tabelog_score: 3.09
 members:
   - "鈴木瞳美"
 groups:

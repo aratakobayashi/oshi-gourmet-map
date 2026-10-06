@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「味芳」"
-description: "Snow ManのYouTubeで紹介されたshokuji「味芳」（愛媛県伊予市）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「味芳」（愛媛県伊予市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ce2afa7e-20260331"
 name: "味芳"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/211
 business_hours: "火・水・木・金 11:30 - 14:00 18:00 - 22:00 土・日 11:30 - 14:00 17:30 - 22:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 33.7579
 lng: 132.7039
-tabelog_score: 3.34
 members:
   - "岩本照"
   - "ラウール"

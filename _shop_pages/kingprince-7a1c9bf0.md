@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「新潟漁業協同組合」"
-description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたothers「新潟漁業協同組合」（新潟県新潟市）。食べログ3.42点。推し活グルメ巡礼スポット。"
+description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたothers「新潟漁業協同組合」（新潟県新潟市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7a1c9bf0-"
 name: "新潟漁業協同組合"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "月・水・木・金 09:30 - 15:30 土・日・祝日 09:00 - 15:30 火 定休日"
 lat: 37.96852
 lng: 139.194893
-tabelog_score: 3.42
 members:
   - "永瀬廉"
   - "髙橋海人"

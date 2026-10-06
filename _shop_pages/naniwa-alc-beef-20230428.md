@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ALC BEEF キッチン」"
-description: "なにわ男子のどっち派 (2023-04-28)で紹介されたyakiniku「ALC BEEF キッチン」（神奈川県川崎市）。食べログ3.08点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-04-28)で紹介されたyakiniku「ALC BEEF キッチン」（神奈川県川崎市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-alc_beef-20230428"
 name: "ALC BEEF キッチン"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/232
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 16:00 - 23:00 L.O. 料理22:00 ドリンク22:30 12月のみ16:00〜23:00でオープン！早割あります！"
 lat: 35.5302136
 lng: 139.6973611
-tabelog_score: 3.08
 members:
   - "道枝駿佑"
 groups:

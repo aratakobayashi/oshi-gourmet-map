@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「PRESQU’ILE chocolaterie」"
-description: "King&Princeる。当たり前レストランで紹介されたsweets「PRESQU’ILE chocolaterie」（東京都武蔵野市）。食べログ3.62点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたsweets「PRESQU’ILE chocolaterie」（東京都武蔵野市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-presquile_chocolater-20221210"
 name: "PRESQU’ILE chocolaterie"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・木・金・土・日 11:00 - 19:00 火・水 定休日"
 lat: 35.7057807
 lng: 139.5766713
-tabelog_score: 3.62
 members:
   - "岸優太"
   - "髙橋海人"

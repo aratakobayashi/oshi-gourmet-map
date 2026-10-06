@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「天麩羅 えびのや 南森町」"
-description: "SEVENTEENで紹介されたothers「天麩羅 えびのや 南森町」（大阪府大阪市）。食べログ3.4点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたothers「天麩羅 えびのや 南森町」（大阪府大阪市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-be6b4ba0-"
 name: "天麩羅 えびのや 南森町"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314
 business_hours: "11:00 - 22:00"
 lat: 34.6964893
 lng: 135.5123904
-tabelog_score: 3.4
 members:
   - "スングァン"
 groups:

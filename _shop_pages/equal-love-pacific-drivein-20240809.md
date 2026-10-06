@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Pacific DRIVE-IN」"
-description: "=LOVEのYouTubeで紹介されたshokuji「Pacific DRIVE-IN」（神奈川県鎌倉市）。食べログ3.48点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「Pacific DRIVE-IN」（神奈川県鎌倉市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/dX1BJYop8aQ/hqdefault.jpg"
 business_hours: "月・火・水・木・金 10:00 - 20:00 土・日・祝日 08:00 - 20:00 L.O. 19:30 ■ 営業時間サマータイム中は混み具合によりL.O.が早まる場合がございます。予めご了承ください。■ 定休日不定休"
 lat: 35.3072853
 lng: 139.5128395
-tabelog_score: 3.48
 members:
   - "音嶋莉沙"
   - "瀧脇笙古"

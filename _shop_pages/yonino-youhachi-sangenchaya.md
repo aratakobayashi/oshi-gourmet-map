@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ジンギスカン羊はち 三軒茶屋店」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。食べログ3.59点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-youhachi-sangenchaya"
 name: "ジンギスカン羊はち 三軒茶屋店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Our3JGeWP7k/hqdefault.jpg"
 business_hours: "月・火・水・木・金・祝前日・祝後日 17:00 - 23:00 L.O. 料理22:15 ドリンク22:30 土・日・祝日 12:00 - 23:00 L.O. 料理22:15 ドリンク22:30 ～年末年始営業時間～12/29,30は12時～22時31日、1日お休み1/2,3,4は22時閉店となります。あらかじめご了承ください。"
 lat: 35.642117
 lng: 139.668789
-tabelog_score: 3.59
 members:
   - "二宮和也"
   - "山田涼介"

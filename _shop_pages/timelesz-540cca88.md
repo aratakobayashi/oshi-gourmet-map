@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「三久飯店」"
-description: "timelesz project -AUDITION-で紹介されたshokuji「三久飯店」（東京都目黒区）。食べログ3.49点。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介されたshokuji「三久飯店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-540cca88-"
 name: "三久飯店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "水・木・金・土・日 11:30 - 15:00 17:00 - 20:30 月・火 定休日 ※月曜日が祝日の場合は営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6375748
 lng: 139.6910422
-tabelog_score: 3.49
 members:
   - "佐藤勝利"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Café 1894」"
-description: "SixTONESが訪れたcafe「Café 1894」（東京都千代田区）。食べログ3.64点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたcafe「Café 1894」（東京都千代田区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe1894-marunouchi"
 name: "Café 1894"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/898
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 23:00 L.O. 22:00 ■営業時間【LUNCH】 11:00-14:30（L.O. 14:00）【CAFE】 14:30-17:00（L.O.16:30）【DINNER】17:00-23:00（L.O.22：00）■定休日1月1日、不定休"
 lat: 35.679823
 lng: 139.762921
-tabelog_score: 3.64
 members:
   - "ジェシー"
   - "京本大我"

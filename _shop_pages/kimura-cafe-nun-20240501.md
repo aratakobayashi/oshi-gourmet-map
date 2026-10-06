@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「cafe nun」"
-description: "木村拓哉が訪れたshokuji「cafe nun」（千葉県山武郡九十九里町）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れたshokuji「cafe nun」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/525
 business_hours: "土・日 10:00 - 16:00 月・火・水・木・金 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5241
 lng: 140.3894
-tabelog_score: 3.08
 members:
   - "木村拓哉"
 groups:

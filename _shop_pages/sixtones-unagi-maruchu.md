@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「丸忠うなぎ」"
-description: "SixTONESが訪れたwashoku「丸忠うなぎ」（静岡県焼津市）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたwashoku「丸忠うなぎ」（静岡県焼津市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-unagi-maruchu"
 name: "丸忠うなぎ"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330
 business_hours: "火・水・木・金・土・日・祝日 11:00 - 14:30 L.O. 14:00 17:00 - 19:30 L.O. 19:00 月 定休日 ※月曜祝日の場合営業、翌火曜日休み"
 lat: 34.864562
 lng: 138.327041
-tabelog_score: 3.3
 members:
   - "ジェシー"
   - "京本大我"

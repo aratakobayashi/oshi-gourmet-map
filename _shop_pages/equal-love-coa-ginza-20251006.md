@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「COA GINZA」"
-description: "=LOVEのYouTubeで紹介されたcafe「COA GINZA」（東京都中央区）。食べログ3.26点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたcafe「COA GINZA」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/PWBxeT4_NNk/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日 17:00 - 23:00 L.O. 22:00 ◾️定休日不定休"
 lat: 35.669261
 lng: 139.764429
-tabelog_score: 3.26
 members:
   - "大谷映美里"
 groups:

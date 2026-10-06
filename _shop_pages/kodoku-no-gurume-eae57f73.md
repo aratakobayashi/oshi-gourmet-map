@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「タムタム」"
-description: "孤独のグルメ Season5 第3話で紹介されたizakaya「タムタム」（東京都杉並区）。食べログ3.29点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第3話で紹介されたizakaya「タムタム」（東京都杉並区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-eae57f73-"
 name: "タムタム"
 genre: "izakaya"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "火・水・木・金・土・日・祝日・祝前日 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 月 定休日 ■ 定休日不定休あり"
 lat: 35.6994929
 lng: 139.6362876
-tabelog_score: 3.29
 members:
   - "井之頭五郎"
 groups:

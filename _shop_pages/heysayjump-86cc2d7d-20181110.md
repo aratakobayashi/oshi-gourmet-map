@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「創作漬物 川越・河村屋」"
-description: "2018.11.10 川越特集で紹介されたothers「創作漬物 川越・河村屋」（埼玉県川越市）。食べログ3.22点。推し活グルメ巡礼スポット。"
+description: "2018.11.10 川越特集で紹介されたothers「創作漬物 川越・河村屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-86cc2d7d-20181110"
 name: "創作漬物 川越・河村屋"
 genre: "others"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "10:00 - 18:00 ■ 定休日なし（※臨時休業は除く） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9251145
 lng: 139.4856927
-tabelog_score: 3.22
 members:
   - "薮宏太"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「原始炭焼 いろり家 東銀座本店」"
-description: "ジェニ YouTube Vlog（東京）で紹介されたizakaya「原始炭焼 いろり家 東銀座本店」（東京都中央区）。食べログ3.47点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "ジェニ YouTube Vlog（東京）で紹介されたizakaya「原始炭焼 いろり家 東銀座本店」（東京都中央区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-bd4f2517-"
 name: "原始炭焼 いろり家 東銀座本店"
 genre: "izakaya"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/986
 business_hours: "月・火・水・木・金 18:00 - 03:00 L.O. 02:00 土・日・祝日 17:00 - 23:00 L.O. 22:00 ■ 営業時間【年末年始】12月31日～1月５日まで店休となります。■ 定休日不定休"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.47
 members:
   - "ジェニ"
 groups:

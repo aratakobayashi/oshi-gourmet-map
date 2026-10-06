@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「SO-TEN」"
-description: "J-Hope Weverse Live（東京滞在中）で紹介されたshokuji「SO-TEN」（東京都渋谷区）。食べログ3.32点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "J-Hope Weverse Live（東京滞在中）で紹介されたshokuji「SO-TEN」（東京都渋谷区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-so_ten-"
 name: "SO-TEN"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277
 business_hours: "18:00 - 04:00 L.O. 03:00"
 lat: 35.6469738
 lng: 139.7086461
-tabelog_score: 3.32
 members:
   - "J-Hope"
 groups:

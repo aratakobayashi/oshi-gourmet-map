@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「PARADI」"
-description: "【キントレバイトレロケ地】髙橋海人が漫画家アシスタント休憩中に訪れたカフェは？で紹介されたothers「PARADI」（兵庫県豊岡市）。食べログ3.37点。推し活グルメ巡礼スポット。"
+description: "【キントレバイトレロケ地】髙橋海人が漫画家アシスタント休憩中に訪れたカフェは？で紹介されたothers「PARADI」（兵庫県豊岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-paradi-20230801"
 name: "PARADI"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/336
 business_hours: "月・火・水・金・土・日 09:00 - 16:00 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.624955
 lng: 134.8075427
-tabelog_score: 3.37
 members:
   - "永瀬廉"
   - "髙橋海人"

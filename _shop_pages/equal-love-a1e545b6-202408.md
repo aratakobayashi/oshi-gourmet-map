@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転わんこそば くるくるわんこ」"
-description: "=LOVEのYouTubeで紹介されたwashoku「回転わんこそば くるくるわんこ」（東京都新宿区）。食べログ3.16点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「回転わんこそば くるくるわんこ」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a1e545b6-202408"
 name: "回転わんこそば くるくるわんこ"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/r57aY-wm1k8/hqdefault.jpg"
 business_hours: "11:00 - 19:30 L.O. 18:30"
 lat: 35.6953799
 lng: 139.7017233
-tabelog_score: 3.16
 members:
   - "大谷映美里"
   - "齋藤樹愛羅"

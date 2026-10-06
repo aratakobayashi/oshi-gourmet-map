@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「東京寿司 ITAMAE SUSHI 愛宕店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたwashoku「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。食べログ3.12点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたwashoku「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-itamae_sushi-"
 name: "東京寿司 ITAMAE SUSHI 愛宕店"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/354
 business_hours: "月・火・水・木・金・土・日・祝日 11:00 - 23:00 L.O. 22:30 ■ 営業時間平日限定ランチメニュー 11:00～14:00【テイクアウト】11:00～22:00■ 定休日不定休（ビル休館日）"
 lat: 35.664357
 lng: 139.7474912
-tabelog_score: 3.12
 members:
   - "松島聡"
   - "篠塚大輝"

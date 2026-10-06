@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CheeseTable 池袋店」"
-description: "なにわ男子のどっち派 (2025-10-17)で紹介されたizakaya「CheeseTable 池袋店」（東京都豊島区）。食べログ3.35点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-10-17)で紹介されたizakaya「CheeseTable 池袋店」（東京都豊島区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cheesetable-20251017"
 name: "CheeseTable 池袋店"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/305
 business_hours: "月・火・水・木・金・祝前日 11:45 - 23:00 L.O. 22:00 土・日・祝日 11:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
 lat: 35.7268304
 lng: 139.7106565
-tabelog_score: 3.35
 members:
   - "長尾謙杜"
 groups:

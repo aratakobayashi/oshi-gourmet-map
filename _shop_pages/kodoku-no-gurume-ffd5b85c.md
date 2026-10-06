@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「寿苑」"
-description: "孤独のグルメ Season5 第1話で紹介されたshokuji「寿苑」（神奈川県川崎市）。食べログ3.5点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第1話で紹介されたshokuji「寿苑」（神奈川県川崎市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ffd5b85c-"
 name: "寿苑"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・水・木・金 17:00 - 22:00 土・日・祝日 16:00 - 22:00 火 定休日 ■ 営業時間入店締切21:0090分の時間制。■ 定休日第二月曜日、不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5306639
 lng: 139.7037668
-tabelog_score: 3.5
 members:
   - "井之頭五郎"
 groups:

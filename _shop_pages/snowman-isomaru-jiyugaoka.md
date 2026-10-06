@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「磯丸水産食堂 自由が丘しらかば通り店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「磯丸水産食堂 自由が丘しらかば通り店」（東京都目黒区）。食べログ3.08点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「磯丸水産食堂 自由が丘しらかば通り店」（東京都目黒区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-isomaru-jiyugaoka"
 name: "磯丸水産食堂 自由が丘しらかば通り店"
 genre: "shokuji"
@@ -21,7 +21,6 @@ seating_note: "SnowManが座った席は、2階の座敷窓際のお席。"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 05:00"
 lat: 35.6076524
 lng: 139.6675582
-tabelog_score: 3.08
 members:
   - "阿部亮平"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「SPICY CURRY 魯珈」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「SPICY CURRY 魯珈」（東京都新宿区）。食べログ3.97点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「SPICY CURRY 魯珈」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spicy-curry-roka"
 name: "SPICY CURRY 魯珈"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/jK0wBUV9HV8/hqdefault.jpg"
 business_hours: "月・水 11:00 - 15:00 火・木 11:00 - 14:00 17:00 - 19:30 金・土・日・祝日 定休日 2025年4月より金曜も定休日臨時休業/特別営業があるので、訪問前にX(Twitter)等、SNSの公式アカウントの最新の投稿を確認 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.699913
 lng: 139.699741
-tabelog_score: 3.97
 members:
   - "二宮和也"
   - "山田涼介"

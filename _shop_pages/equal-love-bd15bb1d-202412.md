@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「やきとん長良」"
-description: "=LOVEのYouTubeで紹介されたizakaya「やきとん長良」（東京都杉並区）。食べログ3.27点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたizakaya「やきとん長良」（東京都杉並区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-bd15bb1d-202412"
 name: "やきとん長良"
 genre: "izakaya"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 business_hours: "月・火・水・木・金・祝前日・祝後日 16:00 - 00:00 土 14:00 - 00:00 日・祝日 14:00 - 23:00 不定休"
 lat: 35.7014789
 lng: 139.6462284
-tabelog_score: 3.27
 members:
   - "諸橋沙夏"
 groups:

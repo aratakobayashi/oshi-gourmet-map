@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鮨爽醇鳥ひだか」"
-description: "孤独のグルメ Season10 第2022話で紹介されたwashoku「鮨爽醇鳥ひだか」（北海道石狩市）。食べログ3.35点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたwashoku「鮨爽醇鳥ひだか」（北海道石狩市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d3a1db31-"
 name: "鮨爽醇鳥ひだか"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・木・金・土・日 11:00 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30 火・水 定休日 水曜日の定休は第３週のみです。"
 lat: 43.171677
 lng: 141.3159605
-tabelog_score: 3.35
 members:
   - "井之頭五郎"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ねぎし 池袋サンシャイン前店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「ねぎし 池袋サンシャイン前店」（東京都豊島区）。食べログ3.09点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「ねぎし 池袋サンシャイン前店」（東京都豊島区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negishi-ikebukuro"
 name: "ねぎし 池袋サンシャイン前店"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/BtPB0wv2l3k/hqdefault.jpg"
 business_hours: "10:30 - 22:00 L.O. 21:30 ■ 定休日無休"
 lat: 35.7295
 lng: 139.7205
-tabelog_score: 3.09
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「TAK CAFE」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「TAK CAFE」（東京都新宿区）。食べログ3.29点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「TAK CAFE」（東京都新宿区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-tak_cafe-"
 name: "TAK CAFE"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349
 business_hours: "月・火・水・木・日 11:00 - 23:00 L.O. 22:30 金・土 11:00 - 23:15 L.O. 22:45 ■定休日なし"
 lat: 35.7046389
 lng: 139.7052761
-tabelog_score: 3.29
 members:
   - "伊野尾慧"
 groups:

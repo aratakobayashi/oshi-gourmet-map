@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「フォルクス　高井戸東店」"
-description: "【モニタリング】永瀬廉と北村匠海が訪れたファミレスはどこ？頼んだメニューは？で紹介されたothers「フォルクス　高井戸東店」（東京都杉並区）。食べログ3.09点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "【モニタリング】永瀬廉と北村匠海が訪れたファミレスはどこ？頼んだメニューは？で紹介されたothers「フォルクス　高井戸東店」（東京都杉並区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9f60d755-"
 name: "フォルクス　高井戸東店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/184
 business_hours: "11:00 - 00:00 L.O. 23:30"
 lat: 35.677460437864696
 lng: 139.61463178329097
-tabelog_score: 3.09
 members:
   - "永瀬廉"
   - "髙橋海人"

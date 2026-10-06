@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ギオン（gion）」"
-description: "嵐にしやがれで紹介されたshokuji「ギオン（gion）」（東京都杉並区）。食べログ3.18点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「ギオン（gion）」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-gion-20191130"
 name: "ギオン（gion）"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "火・水・木・金 11:00 - 15:00 L.O. 14:30 月・土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7105571
 lng: 139.636261
-tabelog_score: 3.18
 members:
   - "大野智"
   - "櫻井翔"

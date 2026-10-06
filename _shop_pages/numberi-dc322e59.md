@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鳥喜"
-description: "【平野紫耀＆神宮寺勇太インスタ】商店街・黒板・カーテン・お花屋さん・焼き鳥屋はどこ？で紹介されたothers「鳥喜」（東京都荒川区）。食べログ3.0点。推し活グルメ巡礼スポット。"
+description: "【平野紫耀＆神宮寺勇太インスタ】商店街・黒板・カーテン・お花屋さん・焼き鳥屋はどこ？で紹介されたothers「鳥喜」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-dc322e59-"
 name: "鳥喜"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/263
 business_hours: "月・火・木・金・土・日 10:00 - 18:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.733429437885164
 lng: 139.79051798373303
-tabelog_score: 3.0
 members:
   - "平野紫耀"
   - "神宮寺勇太"

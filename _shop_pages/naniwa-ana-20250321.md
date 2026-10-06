@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ANAインターコンチネンタルホテル東京」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ANAインターコンチネンタルホテル東京」（東京都港区）。食べログ3.28点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ANAインターコンチネンタルホテル東京」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ana-20250321"
 name: "ANAインターコンチネンタルホテル東京"
 genre: "shokuji"
@@ -18,12 +18,8 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/115
 business_hours: "■ 営業時間[チェックイン]15:00[チェックアウト]11:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6685017
 lng: 139.7425371
-tabelog_score: 3.28
 members:
   - "大西流星"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13057189/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「AJILLO アヒージョ専門店 神田西口店」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「AJILLO アヒージョ専門店 神田西口店」（東京都千代田区）。食べログ3.3点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「AJILLO アヒージョ専門店 神田西口店」（東京都千代田区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ajillo-20250321"
 name: "AJILLO アヒージョ専門店 神田西口店"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/322
 business_hours: "火・水・木・金 11:30 - 14:00 L.O. 料理14:00 16:00 - 00:00 L.O. 料理23:00 ドリンク23:30 土・日 16:00 - 00:00 L.O. 料理23:00 ドリンク23:30 月 定休日"
 lat: 35.690601
 lng: 139.768027
-tabelog_score: 3.3
 members:
   - "大西流星"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つるや」"
-description: "孤独のグルメ Season1 第8話で紹介されたyakiniku「つるや」（神奈川県川崎市）。食べログ3.65点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第8話で紹介されたyakiniku「つるや」（神奈川県川崎市）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・水・金・土・日 18:00 - 21:30 L.O. 20:50 火・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5306639
 lng: 139.7037668
-tabelog_score: 3.65
 members:
   - "井之頭五郎"
 groups:

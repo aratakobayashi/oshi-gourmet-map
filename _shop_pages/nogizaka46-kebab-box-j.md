@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「KEBAB BOX J」"
-description: "乃木坂どこへで紹介されたshokuji「KEBAB BOX J」（東京都渋谷区）。食べログ3.3点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂どこへで紹介されたshokuji「KEBAB BOX J」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-kebab_box_j-"
 name: "KEBAB BOX J"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "10:00 - 23:00 ■ 営業時間10:00～20:00※テイクアウト23:00まで■定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.669943
 lng: 139.7063339
-tabelog_score: 3.3
 members:
   - "齋藤飛鳥"
 groups:

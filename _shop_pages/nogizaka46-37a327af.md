@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「星野リゾート 青森屋」"
-description: "シンクロニシティ特典映像で紹介されたothers「星野リゾート 青森屋」（青森県三沢市）。食べログ3.54点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたothers「星野リゾート 青森屋」（青森県三沢市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-37a327af-"
 name: "星野リゾート 青森屋"
 genre: "others"
@@ -17,10 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339
 business_hours: "■ 営業時間[食事のみ]要予約（部屋の空き状況による）[宿泊者向け食事]7:00～17:30～[チェックイン・チェックアウト]15:00～翌12:00■定休日無休"
 lat: 40.6632544
 lng: 141.3544941
-tabelog_score: 3.54
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aomori/A0203/A020303/2006664/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「舟和 仲見世1号店」"
-description: "=LOVEのYouTubeで紹介されたsweets「舟和 仲見世1号店」（東京都台東区）。食べログ3.13点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「舟和 仲見世1号店」（東京都台東区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-acc7e129-202408"
 name: "舟和 仲見世1号店"
 genre: "sweets"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg"
 business_hours: "月・火・水・木・金 10:00 - 18:00 土・日・祝日 10:00 - 19:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7119497
 lng: 139.7948545
-tabelog_score: 3.13
 members:
   - "瀧脇笙古"
   - "髙松瞳"

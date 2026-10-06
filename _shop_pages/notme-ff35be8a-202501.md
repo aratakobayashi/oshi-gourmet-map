@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「浅草きんぎょ」"
-description: "≠MEのYouTubeで紹介されたshokuji「浅草きんぎょ」（東京都台東区）。食べログ3.39点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたshokuji「浅草きんぎょ」（東京都台東区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "notme-ff35be8a-202501"
 name: "浅草きんぎょ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg"
 business_hours: "17:00 - 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.714955
 lng: 139.7957367
-tabelog_score: 3.39
 members:
   - "鈴木瞳美"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ステーキハウス RIBERA 目黒店」"
-description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介されたyakiniku「ステーキハウス RIBERA 目黒店」（東京都目黒区）。食べログ3.54点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介されたyakiniku「ステーキハウス RIBERA 目黒店」（東京都目黒区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ribera-"
 name: "ステーキハウス RIBERA 目黒店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/887
 business_hours: "■ 営業時間17:00～23:00ランチは営業していません。■ 定休日毎週月曜日、第３月曜と火曜日※公式インスタグラムで随時更新しています"
 lat: 35.6300236
 lng: 139.7058982
-tabelog_score: 3.54
 members:
   - "ジェシー"
   - "京本大我"

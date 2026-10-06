@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉MUGEN 赤坂見附店"
-description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介されたyakiniku「焼肉MUGEN 赤坂見附店」（東京都港区）。食べログ3.13点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介されたyakiniku「焼肉MUGEN 赤坂見附店」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mugen-"
 name: "焼肉MUGEN 赤坂見附店"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356
 business_hours: "月・火・水・木・金 17:00 - 05:00 L.O. 04:00 土・日・祝日 16:00 - 23:30 L.O. 23:00 ■ 営業時間○基本予約時間帯について①17時半〜19時＊比較的空き有②19時〜21時＊大変混雑③21時〜24時＊比較的空き有④24時～ ＊ご案内スムーズです。詳細はお電話にてお伝えします！■定休日無休"
 lat: 35.67456383790578
 lng: 139.73782948317537
-tabelog_score: 3.13
 members:
   - "松田元太"
   - "川島如恵留"

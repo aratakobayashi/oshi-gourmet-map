@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「暴れん坊チキン」"
-description: "≒JOYのYouTubeで紹介されたshokuji「暴れん坊チキン」（愛知県岡崎市）。食べログ3.44点、～￥999。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたshokuji「暴れん坊チキン」（愛知県岡崎市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-cf70ada8-202408"
 name: "暴れん坊チキン"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
 business_hours: "11:00 - 20:00 ■ 定休日不定休"
 lat: 34.9511
 lng: 137.1706
-tabelog_score: 3.44
 members:
   - "江角怜音"
   - "大信田美月"

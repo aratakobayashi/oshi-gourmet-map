@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Donish Coffee Company 神楽坂」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Donish Coffee Company 神楽坂」（東京都新宿区）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Donish Coffee Company 神楽坂」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-donish-coffee-kagurazaka"
 name: "Donish Coffee Company 神楽坂"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/0-BzQux_iIg/hqdefault.jpg"
 business_hours: "10:00 - 17:00 ■ 営業時間詳しい営業情報は公式インスタグラムをご覧ください。"
 lat: 35.7016
 lng: 139.7392
-tabelog_score: 3.21
 members:
   - "二宮和也"
   - "山田涼介"

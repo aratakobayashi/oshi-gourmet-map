@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「前島商店」"
-description: "白米様 MVで紹介されたothers「前島商店」（埼玉県飯能市）。食べログ3.16点、～￥999。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたothers「前島商店」（埼玉県飯能市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6605b4f9-"
 name: "前島商店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112
 business_hours: "11:00 - 14:30 17:00 - 21:00 ■ 営業時間※3/21までは20時までの営業時間となります。■定休日年中無休"
 lat: 35.853272
 lng: 139.317416
-tabelog_score: 3.16
 groups:
   - "nogizaka46"
 ---

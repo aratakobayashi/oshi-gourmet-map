@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「うさぎやCAFE」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「うさぎやCAFE」（東京都台東区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「うさぎやCAFE」（東京都台東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-cafe-"
 name: "うさぎやCAFE"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/188
 business_hours: "月・火・木・金・土・日 09:00 - 18:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7066556
 lng: 139.7715506
-tabelog_score: 3.72
 members:
   - "伊野尾慧"
 groups:

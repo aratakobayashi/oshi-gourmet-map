@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「龍茶 生タピオカ専門店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「龍茶 生タピオカ専門店」（神奈川県横浜市）。食べログ3.1点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「龍茶 生タピオカ専門店」（神奈川県横浜市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-875bdcd7-202408"
 name: "龍茶 生タピオカ専門店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14091449/"
 thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 lat: 35.4438
 lng: 139.6508
-tabelog_score: 3.1
 members:
   - "齋藤樹愛羅"
   - "佐々木舞香"

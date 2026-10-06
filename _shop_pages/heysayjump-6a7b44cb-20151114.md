@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「ちばチャン」"
-description: "2015.11.14/11.21 大盛りグルメ特集で紹介されたshokuji「ちばチャン」（千葉県柏市旭町）。食べログ3.27点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "2015.11.14/11.21 大盛りグルメ特集で紹介されたshokuji「ちばチャン」（千葉県柏市旭町）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-6a7b44cb-20151114"
 name: "ちばチャン"
 genre: "shokuji"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "16:00 - 23:00 L.O. 22:30"
 lat: 35.8574303
 lng: 139.9654121
-tabelog_score: 3.27
 groups:
   - "heysayjump"
 ---

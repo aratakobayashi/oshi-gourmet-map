@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "flair.co（フレア）"
-description: "【Aぇちゅ〜ぶ in横浜】佐野晶哉の昼ごはん休憩のカフェはどこ？おにぎりを食べたお店で紹介されたothers「flair.co（フレア）」（神奈川県横浜市）。食べログ3.16点、～￥999。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ in横浜】佐野晶哉の昼ごはん休憩のカフェはどこ？おにぎりを食べたお店で紹介されたothers「flair.co（フレア）」（神奈川県横浜市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-flair_co-"
 name: "flair.co（フレア）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/273
 business_hours: "11:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.45687412131698
 lng: 139.62910641399517
-tabelog_score: 3.16
 members:
   - "正門良規"
   - "草間リチャード敬太"

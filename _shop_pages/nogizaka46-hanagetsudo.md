@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「浅草 花月堂」"
-description: "乃木坂46 浅草食べ歩きVlogで紹介されたsweets「浅草 花月堂」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
+description: "乃木坂46 浅草食べ歩きVlogで紹介されたsweets「浅草 花月堂」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-hanagetsudo"
 name: "浅草 花月堂"
 genre: "sweets"
@@ -21,7 +21,6 @@ source_type: "tv"
 business_hours: "09:00 - 17:00 ■ 営業時間ジャンボめろんぱん完売次第閉店 16時くらいが目安■ 定休日年中無休(正月も休まず営業)"
 lat: 35.7144
 lng: 139.7944
-tabelog_score: 3.57
 members:
   - "梅澤美波"
   - "与田祐希"

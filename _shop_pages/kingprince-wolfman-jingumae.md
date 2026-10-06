@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「WOLFMAN JINGUMAE」"
-description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたothers「WOLFMAN JINGUMAE」（東京都渋谷区）。食べログ3.0点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたothers「WOLFMAN JINGUMAE」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-wolfman_jingumae-"
 name: "WOLFMAN JINGUMAE"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362
 business_hours: "月・火・水・木・金 08:00 - 18:00 土・日・祝日 09:00 - 17:00"
 lat: 35.6692039
 lng: 139.7072847
-tabelog_score: 3.0
 members:
   - "永瀬廉"
   - "髙橋海人"

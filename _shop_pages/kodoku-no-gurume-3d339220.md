@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「魚谷」"
-description: "孤独のグルメ Season3 第4話で紹介されたshokuji「魚谷」（東京都文京区）。食べログ3.48点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第4話で紹介されたshokuji「魚谷」（東京都文京区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3d339220-"
 name: "魚谷"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 11:30 - 13:30 17:30 - 23:00 L.O. 22:30 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7080255
 lng: 139.7523066
-tabelog_score: 3.48
 members:
   - "井之頭五郎"
 groups:

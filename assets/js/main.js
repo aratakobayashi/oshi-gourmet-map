@@ -623,12 +623,10 @@ function buildShopCard(shop) {
   const videoHtml = shop.source_video_title
     ? `<p class="shop-card__video">${videoIcon} ${escHtml(shop.source_video_title)}</p>` : '';
 
-  const scoreHtml = shop.tabelog_score
-    ? `<span class="shop-card__score">⭐ ${escHtml(String(shop.tabelog_score))}</span>` : '';
   const priceHtml = shop.price_range
     ? `<span class="shop-card__price">${escHtml(shop.price_range)}</span>` : '';
-  const kpiHtml = (scoreHtml || priceHtml)
-    ? `<p class="shop-card__kpi">${scoreHtml}${priceHtml}</p>` : '';
+  const kpiHtml = priceHtml
+    ? `<p class="shop-card__kpi">${priceHtml}</p>` : '';
 
   const distHtml = (userLat !== null && getSortMode() === 'nearby' && shop.lat && shop.lng)
     ? `<p class="shop-card__distance">🧭 ${haversineDistance(userLat, userLng, shop.lat, shop.lng).toFixed(1)} km</p>`

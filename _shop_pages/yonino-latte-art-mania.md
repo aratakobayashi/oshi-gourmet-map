@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「LATTE ART MANIA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「LATTE ART MANIA TOKYO」（東京都港区）。食べログ3.53点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「LATTE ART MANIA TOKYO」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-latte-art-mania"
 name: "LATTE ART MANIA TOKYO"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/suj-8ZxTzY0/hqdefault.jpg"
 business_hours: "09:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.672
 lng: 139.7163
-tabelog_score: 3.53
 members:
   - "二宮和也"
   - "山田涼介"

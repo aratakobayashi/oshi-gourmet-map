@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「Jose Luis」"
-description: "嵐にしやがれで紹介されたothers「Jose Luis」（長野県長野市）。食べログ3.52点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「Jose Luis」（長野県長野市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-jose_luis-"
 name: "Jose Luis"
 genre: "others"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "11:00 - 23:00 L.O. 22:00 ■ 定休日無休（ビル定休日に準ずる）"
 lat: 36.3489743
 lng: 138.6344852
-tabelog_score: 3.52
 groups:
   - "arashi"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ほんまや」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたothers「ほんまや」（茨城県笠間市）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたothers「ほんまや」（茨城県笠間市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-c65e5e76-"
 name: "ほんまや"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330
 business_hours: "09:00 - 16:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.38483108842474
 lng: 140.25499166114898
-tabelog_score: 3.08
 members:
   - "永瀬廉"
   - "髙橋海人"

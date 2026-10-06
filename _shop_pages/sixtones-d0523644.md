@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「龍海飯店」"
-description: "SixTONESが訪れたothers「龍海飯店」（神奈川県横浜市）。食べログ3.23点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたothers「龍海飯店」（神奈川県横浜市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-d0523644-"
 name: "龍海飯店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105
 business_hours: "■ 営業時間龍海飯店本店 10：30～22：00（LO 21：30）龍海飯店大通り店 10：30～22：00（LO 21：30）定休日：年中無休"
 lat: 43.7166101
 lng: 142.046537
-tabelog_score: 3.23
 members:
   - "ジェシー"
   - "京本大我"

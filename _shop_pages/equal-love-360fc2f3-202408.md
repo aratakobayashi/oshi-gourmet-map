@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「磯丸水産 初台南口店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「磯丸水産 初台南口店」（東京都渋谷区）。食べログ3.05点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「磯丸水産 初台南口店」（東京都渋谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-360fc2f3-202408"
 name: "磯丸水産 初台南口店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/t_uRDbGf36E/hqdefault.jpg"
 business_hours: "月・火・水・木・日 11:30 - 23:00 L.O. 料理22:15 ドリンク22:30 金・土・祝前日 11:30 - 04:00 L.O. 料理03:15 ドリンク03:30 ■定休日無休"
 lat: 35.6798471
 lng: 139.6866238
-tabelog_score: 3.05
 members:
   - "大谷映美里"
 groups:

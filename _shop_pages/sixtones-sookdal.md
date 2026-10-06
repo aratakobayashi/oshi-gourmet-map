@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「SOOKDAL 新大久保店」"
-description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたothers「SOOKDAL 新大久保店」（東京都新宿区）。食べログ3.41点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたothers「SOOKDAL 新大久保店」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sookdal-"
 name: "SOOKDAL 新大久保店"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/293
 business_hours: "11:00 - 23:00 L.O. 22:00 ■ 営業時間※揚げ物のみ L.O 21:30になります。■ 定休日1/1"
 lat: 35.7029971
 lng: 139.6986293
-tabelog_score: 3.41
 members:
   - "ジェシー"
   - "京本大我"

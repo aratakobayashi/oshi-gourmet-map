@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「らうめん侍 本丸」"
-description: "=LOVEのYouTubeで紹介されたramen「らうめん侍 本丸」（石川県金沢市）。食べログ3.33点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「らうめん侍 本丸」（石川県金沢市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-7cbba11a-202408"
 name: "らうめん侍 本丸"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 business_hours: "11:00 - 22:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.5790275
 lng: 136.6465437
-tabelog_score: 3.33
 members:
   - "大谷映美里"
 groups:

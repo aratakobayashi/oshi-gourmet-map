@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Paul Bassett 新宿」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Paul Bassett 新宿」（東京都新宿区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「Paul Bassett 新宿」（東京都新宿区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-paul-bassett-shinjuku"
 name: "Paul Bassett 新宿"
 genre: "cafe"
@@ -20,7 +20,6 @@ seating_note: "カウンター席中心。ビルB1Fの落ち着いた空間で�
 business_hours: "月・火・水・木・金 07:30 - 20:00 L.O. 19:30 土・日・祝日 09:00 - 20:00 L.O. 19:30 ■ 営業時間テイクアウトドリンクOK♪併設の「PIZZA SALVATORE CUOMO & BAR 新宿」スタッフがご案内いたします。■ 定休日ビルに準ずる"
 lat: 35.694466
 lng: 139.697597
-tabelog_score: 3.72
 members:
   - "二宮和也"
   - "山田涼介"

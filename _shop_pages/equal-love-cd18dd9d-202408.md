@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「千里眼」"
-description: "=LOVEのYouTubeで紹介されたramen「千里眼」（東京都目黒区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「千里眼」（東京都目黒区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-cd18dd9d-202408"
 name: "千里眼"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/J49luXyD-q4/hqdefault.jpg"
 business_hours: "月・火・木・金・土・日 11:00 - 15:00 17:00 - 21:00 水 定休日"
 lat: 35.6617507
 lng: 139.679068
-tabelog_score: 3.72
 members:
   - "大谷映美里"
 groups:

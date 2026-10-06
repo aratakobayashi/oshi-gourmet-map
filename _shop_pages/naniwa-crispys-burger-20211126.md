@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Crispy’s Burger」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「Crispy’s Burger」（東京都）。食べログ3.05点。推し活グルメ巡礼スポット。"
+description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「Crispy’s Burger」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-crispys_burger-20211126"
 name: "Crispy’s Burger"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347
 source_type: "tv"
 lat: 35.7067455
 lng: 139.7057185
-tabelog_score: 3.05
 members:
   - "長尾謙杜"
 groups:

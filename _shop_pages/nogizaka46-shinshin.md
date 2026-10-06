@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「博多らーめん ShinShin 天神本店」"
-description: "博多らーめん ShinShinで紹介されたramen「博多らーめん ShinShin 天神本店」（福岡県福岡市）。食べログ3.57点、～￥999。推し活グルメ巡礼スポット。"
+description: "博多らーめん ShinShinで紹介されたramen「博多らーめん ShinShin 天神本店」（福岡県福岡市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-shinshin-"
 name: "博多らーめん ShinShin 天神本店"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "月・火・木・金・土・日 11:00 - 03:00 L.O. 02:30 水 定休日 ■ 営業時間営業時間が急遽変更になる場合もありますのでご了承ください。■ 定休日第3火曜日 ※定休日が祝日の場合は変更あり"
 lat: 33.59275833625318
 lng: 130.39685346869493
-tabelog_score: 3.57
 groups:
   - "nogizaka46"
 ---

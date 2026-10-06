@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「からっ風」"
-description: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロケ地】滋賀県琵琶湖のお店・ホテルはどこ？で紹介されたothers「からっ風」（滋賀県大津市）。食べログ3.17点。推し活グルメ巡礼スポット。"
+description: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロケ地】滋賀県琵琶湖のお店・ホテルはどこ？で紹介されたothers「からっ風」（滋賀県大津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6e95a860-"
 name: "からっ風"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168
 business_hours: "月・火・水・木・金 17:30 - 22:00 土 17:30 - 21:30 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.0048489
 lng: 135.8774525
-tabelog_score: 3.17
 members:
   - "永瀬廉"
   - "髙橋海人"

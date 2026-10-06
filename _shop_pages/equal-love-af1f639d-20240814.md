@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「復興飲食店街 夜明け市場」"
-description: "=LOVEのYouTubeで紹介されたshokuji「復興飲食店街 夜明け市場」（福島県いわき市）。食べログ3.04点。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「復興飲食店街 夜明け市場」（福島県いわき市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-af1f639d-20240814"
 name: "復興飲食店街 夜明け市場"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/996
 business_hours: "火・水・木・金・土・日 18:00 - 23:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 37.0570275
 lng: 140.8954061
-tabelog_score: 3.04
 members:
   - "諸橋沙夏"
 groups:

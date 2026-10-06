@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BLTステーキ 銀座」"
-description: "2016.07.20 グルメ探偵調査で紹介されたyakiniku「BLTステーキ 銀座」（東京都中央区）。食べログ3.54点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "2016.07.20 グルメ探偵調査で紹介されたyakiniku「BLTステーキ 銀座」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 11:30 - 15:00 L.O. 料理14:00 17:00 - 22:00 L.O. 料理21:00 大型連休時は営業時間が通常と異なる場合がございます。詳しくは平城苑ホームページにてご確認ください。"
 lat: 35.670113
 lng: 139.765481
-tabelog_score: 3.54
 members:
   - "八乙女光"
 groups:

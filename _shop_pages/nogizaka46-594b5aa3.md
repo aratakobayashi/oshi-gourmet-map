@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ひろめ市場」"
-description: "シンクロニシティ特典映像で紹介されたothers「ひろめ市場」（高知県高知市）。食べログ3.14点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたothers「ひろめ市場」（高知県高知市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-594b5aa3-"
 name: "ひろめ市場"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/288
 business_hours: "月・火・水・木・金・土 08:00 - 17:00 日 07:00 - 17:00 ■ 定休日不定休(ひろめ市場に準ずる) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 33.55997
 lng: 133.535951
-tabelog_score: 3.14
 groups:
   - "nogizaka46"
 ---

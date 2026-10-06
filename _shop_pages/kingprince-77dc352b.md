@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「田園」"
-description: "King & Prince キンプリ『4月1日』ロケ地の喫茶店はどこ？で紹介されたothers「田園」（東京都八王子市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "King & Prince キンプリ『4月1日』ロケ地の喫茶店はどこ？で紹介されたothers「田園」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-77dc352b-"
 name: "田園"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/118
 business_hours: "月・火・水・木・金・土・祝日 10:00 - 19:30 L.O. 19:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.656600088595376
 lng: 139.33846210443565
-tabelog_score: 3.24
 members:
   - "永瀬廉"
   - "髙橋海人"

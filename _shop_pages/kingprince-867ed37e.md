@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「キングタコス 金武本店」"
-description: "【キントレ 沖縄】タコライスはどこ？永瀬廉＆髙橋海人が食べたタコライスは？で紹介されたothers「キングタコス 金武本店」（沖縄県国頭郡金武町）。食べログ3.49点、～￥999。推し活グルメ巡礼スポット。"
+description: "【キントレ 沖縄】タコライスはどこ？永瀬廉＆髙橋海人が食べたタコライスは？で紹介されたothers「キングタコス 金武本店」（沖縄県国頭郡金武町）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-867ed37e-"
 name: "キングタコス 金武本店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/279
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:30 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 26.453290810803317
 lng: 127.9172851594796
-tabelog_score: 3.49
 members:
   - "永瀬廉"
   - "髙橋海人"

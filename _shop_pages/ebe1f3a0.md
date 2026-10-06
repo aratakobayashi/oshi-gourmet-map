@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ傳米」"
-description: "それスノで紹介されたwashoku「うなぎ傳米」（埼玉県）。食べログ3.47点。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたwashoku「うなぎ傳米」（埼玉県）。推し活グルメ巡礼スポット。"
 shop_id: "ebe1f3a0"
 name: "うなぎ傳米"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/166
 business_hours: "月・土・日 11:00 - 18:00 L.O. 料理17:00 火・木・金 11:00 - 17:00 L.O. 料理16:00 水 定休日 ※完売次第水曜日祝日の場合は営業いたします。"
 lat: 35.922321337667164
 lng: 139.4826923858568
-tabelog_score: 3.47
 groups:
   - "snowman"
 ---

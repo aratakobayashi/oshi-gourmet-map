@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「元祖中洲唐揚もりやま 学芸大学店」"
-description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「元祖中洲唐揚もりやま 学芸大学店」（東京都目黒区）。食べログ3.42点、～￥999。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「元祖中洲唐揚もりやま 学芸大学店」（東京都目黒区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-ec693043-"
 name: "元祖中洲唐揚もりやま 学芸大学店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/176
 business_hours: "月・火・木・金・土・日 11:00 - 19:45 L.O. 19:45 水 定休日 ■ 営業時間閉店時間を20時（ラストオーダー19時45分）にしております。"
 lat: 35.6278194
 lng: 139.6855823
-tabelog_score: 3.42
 members:
   - "髙木雄也"
   - "八乙女光"

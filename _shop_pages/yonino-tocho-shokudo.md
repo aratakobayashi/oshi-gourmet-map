@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「都庁食堂（32F）」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「都庁食堂（32F）」（東京都新宿区）。食べログ3.29点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「都庁食堂（32F）」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-tocho-shokudo"
 name: "都庁食堂（32F）"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/F6Xn4BqJ4Wo/hqdefault.jpg"
 business_hours: "月・火・水・木・金 08:00 - 17:00 土・日・祝日 定休日 ■ 営業時間[カフェ]8:00～17:00[昼食]11:00～14:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6895
 lng: 139.6917
-tabelog_score: 3.29
 members:
   - "二宮和也"
   - "菊池風磨"

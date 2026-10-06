@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大人食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「大人食堂」（東京都新宿区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「大人食堂」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-otona-shokudo"
 name: "大人食堂"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/gTzHfVLn3Ro/hqdefault.jpg"
 business_hours: "12:00 - 14:30 L.O. 14:00 17:00 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.692027
 lng: 139.706501
-tabelog_score: 3.45
 members:
   - "二宮和也"
   - "山田涼介"

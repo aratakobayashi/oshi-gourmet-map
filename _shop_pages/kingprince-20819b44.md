@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ドミノピザ　南馬込店」"
-description: "【キントレバイトレロケ地】髙橋海人がバイトをしたドミノピザはどこ？で紹介されたshokuji「ドミノピザ　南馬込店」（東京都大田区）。食べログ3.01点。推し活グルメ巡礼スポット。"
+description: "【キントレバイトレロケ地】髙橋海人がバイトをしたドミノピザはどこ？で紹介されたshokuji「ドミノピザ　南馬込店」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-20819b44-"
 name: "ドミノピザ　南馬込店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/restaurant/images/Rvw/238507/200x200_squa
 business_hours: "月・火・水・木 10:00 - 23:00 金・土 10:00 - 00:00 日 09:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5850308787583
 lng: 139.70736420345415
-tabelog_score: 3.01
 members:
   - "永瀬廉"
   - "髙橋海人"

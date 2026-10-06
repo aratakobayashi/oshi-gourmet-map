@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「朝日屋」"
-description: "乃木坂工事中で紹介されたshokuji「朝日屋」（東京都渋谷区）。食べログ3.45点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたshokuji「朝日屋」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13bedc86-"
 name: "朝日屋"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・日 11:00 - 20:00 L.O. 19:30 土 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6735689
 lng: 139.679248
-tabelog_score: 3.45
 groups:
   - "nogizaka46"
 ---

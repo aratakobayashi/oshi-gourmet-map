@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「焼肉ライク 新橋本店」"
-description: "乃木坂どこへで紹介されたyakiniku「焼肉ライク 新橋本店」（東京都港区）。食べログ3.21点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "乃木坂どこへで紹介されたyakiniku「焼肉ライク 新橋本店」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6b9948dd-"
 name: "焼肉ライク 新橋本店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 07:00 - 23:00 L.O. 22:30 日・祝日 08:00 - 23:00 L.O. 22:30"
 lat: 35.6661689
 lng: 139.7582206
-tabelog_score: 3.21
 members:
   - "筒井あやめ"
   - "田村真佑"

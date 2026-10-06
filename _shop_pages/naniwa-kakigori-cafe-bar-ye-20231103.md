@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAKIGORI CAFE&BAR yelo」"
-description: "なにわ男子のどっち派 (2023-11-03)で紹介されたsweets「KAKIGORI CAFE&BAR yelo」（東京都港区）。食べログ3.63点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-11-03)で紹介されたsweets「KAKIGORI CAFE&BAR yelo」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kakigori_cafe_bar_ye-20231103"
 name: "KAKIGORI CAFE&BAR yelo"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/313
 business_hours: "月・火・水・木 11:00 - 02:00 金 11:00 - 05:00 土 11:30 - 05:00 日 11:30 - 02:00 夏季は平日も05:00まで営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6624568
 lng: 139.7334981
-tabelog_score: 3.63
 members:
   - "大西流星"
 groups:

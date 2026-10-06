@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「桂屋」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「桂屋」（東京都中野区）。食べログ3.41点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたshokuji「桂屋」（東京都中野区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・水・木・金・土・日・祝日 11:00 - 15:00 L.O. 料理15:00 17:00 - 22:30 L.O. 22:00 火 定休日 火曜日は祝日・祭日でも定休日でございます。"
 lat: 35.697286537868244
 lng: 139.66530028345574
-tabelog_score: 3.41
 members:
   - "平野紫耀"
   - "神宮寺勇太"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「本所かえる本舗」"
-description: "SixTONESのYouTubeで紹介されたwashoku「本所かえる本舗」（東京都墨田区）。食べログ3.04点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたwashoku「本所かえる本舗」（東京都墨田区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
 genre: "washoku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
 business_hours: "月 18:00 - 00:00 L.O. 料理23:00 ドリンク23:30 火・水・木・金 17:00 - 00:00 L.O. 料理23:00 ドリンク23:30 土・日 12:00 - 15:00 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 祝日 12:00 - 15:00 17:00 - 21:00 L.O. 料理20:00 ドリンク20:30 ■ 定休日不定"
 lat: 35.694572
 lng: 139.793251
-tabelog_score: 3.04
 members:
   - "ジェシー"
   - "京本大我"

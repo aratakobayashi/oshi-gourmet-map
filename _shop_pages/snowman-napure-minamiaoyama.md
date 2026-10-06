@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ナプレ 南青山本店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「ナプレ 南青山本店」（東京都港区）。食べログ3.56点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「ナプレ 南青山本店」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-napure-minamiaoyama"
 name: "ナプレ 南青山本店"
 genre: "shokuji"
@@ -22,7 +22,6 @@ seating_note: "SnowManが座っていたのは3階の窓際のお席です。 �
 business_hours: "火・水・木・金 11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 21:30 土・日・祝日 11:30 - 15:30 L.O. 14:30 17:30 - 22:30 L.O. 21:30 月・祝後日 定休日"
 lat: 35.6651
 lng: 139.7184
-tabelog_score: 3.56
 members:
   - "阿部亮平"
   - "宮舘涼太"

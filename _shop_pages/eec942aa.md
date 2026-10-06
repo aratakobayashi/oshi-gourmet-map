@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「CABE チャベ目黒店」"
-description: "孤独のグルメ Season10 Episode2で紹介されたshokuji「CABE チャベ目黒店」（東京都）。食べログ3.48点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 Episode2で紹介されたshokuji「CABE チャベ目黒店」（東京都）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "eec942aa"
 name: "CABE チャベ目黒店"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330
 business_hours: "月・火・水・木・金・土 11:30 - 15:00 L.O. 料理14:30 17:30 - 22:30 L.O. 料理22:00 日・祝日 定休日 ■ 定休日インドネシアの祝日にあわせて変動あり"
 lat: 35.63453403792535
 lng: 139.71944618278388
-tabelog_score: 3.48
 groups:
   - "kodoku_no_gurume"
 ---

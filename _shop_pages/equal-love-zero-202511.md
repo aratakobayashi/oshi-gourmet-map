@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「沼津港海将 zero 上野店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「沼津港海将 zero 上野店」（東京都台東区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたwashoku「沼津港海将 zero 上野店」（東京都台東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-zero-202511"
 name: "沼津港海将 zero 上野店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Hj0HB_c5yKw/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 22:30 L.O. 料理21:30 ドリンク22:00 ■ 定休日年中無休(12/31,1/1休み)"
 lat: 35.7092137
 lng: 139.7758327
-tabelog_score: 3.3
 members:
   - "諸橋沙夏"
 groups:

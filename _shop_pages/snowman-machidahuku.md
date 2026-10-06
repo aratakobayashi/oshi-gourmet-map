@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Rapace」（東京都町田市）。食べログ3.34点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「Rapace」（東京都町田市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/245
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 15:00 L.O. 15:00 16:00 - 00:00 L.O. 23:30 ■定休日年中無休"
 lat: 35.5390964
 lng: 139.4480922
-tabelog_score: 3.34
 members:
   - "岩本照"
   - "ラウール"

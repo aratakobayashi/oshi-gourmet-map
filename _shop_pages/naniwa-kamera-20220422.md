@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAMERA」"
-description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介されたchuka「KAMERA」（東京都渋谷区）。食べログ3.41点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介されたchuka「KAMERA」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kamera-20220422"
 name: "KAMERA"
 genre: "chuka"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土 17:00 - 00:00 L.O. 23:00 日 17:00 - 23:00 L.O. 22:00 ■定休日／不定休■カウンター7席／横並びローテブル2席／ハイテーブル4席／スタンディング席"
 lat: 35.6593786
 lng: 139.6987796
-tabelog_score: 3.41
 members:
   - "高橋恭平"
 groups:

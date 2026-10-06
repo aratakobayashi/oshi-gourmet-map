@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「多け乃」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「多け乃」（東京都中央区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたizakaya「多け乃」（東京都中央区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-takeno-tsukiji"
 name: "多け乃"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/QjkBTKEHcGE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 21:00 土 11:00 - 20:00 日・祝日 定休日"
 lat: 35.6653
 lng: 139.7712
-tabelog_score: 3.69
 members:
   - "二宮和也"
   - "山田涼介"

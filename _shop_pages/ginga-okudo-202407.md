@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「大久堂 OKUDO カフェ」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「大久堂 OKUDO カフェ」（東京都新宿区）。食べログ3.47点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「大久堂 OKUDO カフェ」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "ginga-okudo-202407"
 name: "大久堂 OKUDO カフェ"
 genre: "cafe"
@@ -21,7 +21,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/256
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 10:00 - 22:00 L.O. 21:30"
 lat: 35.703008
 lng: 139.6992999
-tabelog_score: 3.47
 members:
   - "中丸雄一"
 groups:

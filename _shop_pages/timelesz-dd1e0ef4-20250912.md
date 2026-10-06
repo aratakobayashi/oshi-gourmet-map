@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「成都姑娘」"
-description: "ニノさん 高田馬場麻辣グルメ（2025年9月12日）で紹介されたchuka「成都姑娘」（東京都新宿区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "ニノさん 高田馬場麻辣グルメ（2025年9月12日）で紹介されたchuka「成都姑娘」（東京都新宿区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-dd1e0ef4-20250912"
 name: "成都姑娘"
 genre: "chuka"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/179
 business_hours: "月・火・水・木・金・日・祝日・祝前日・祝後日 11:00 - 15:00 L.O. 料理14:30 17:00 - 22:00 L.O. 21:50 土 11:00 - 15:00 17:00 - 22:00 L.O. 21:50"
 lat: 35.7109696
 lng: 139.7069778
-tabelog_score: 3.38
 members:
   - "菊池風磨"
   - "篠塚大輝"

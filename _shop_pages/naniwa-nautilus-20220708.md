@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「アクアリウムレストラン Nautilus」"
-description: "エンタメレストランが増えているのなんでやねん！を解明で紹介されたwashoku「アクアリウムレストラン Nautilus」（東京都台東区）。食べログ3.37点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "エンタメレストランが増えているのなんでやねん！を解明で紹介されたwashoku「アクアリウムレストラン Nautilus」（東京都台東区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-nautilus-20220708"
 name: "アクアリウムレストラン Nautilus"
 genre: "washoku"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "12:00 - 23:30 L.O. 料理22:00 ドリンク22:30"
 lat: 35.7118219
 lng: 139.7776069
-tabelog_score: 3.37
 members:
   - "高橋恭平"
 groups:

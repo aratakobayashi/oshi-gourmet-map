@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「挽肉と米 渋谷」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「挽肉と米 渋谷」（東京都渋谷区）。食べログ3.72点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「挽肉と米 渋谷」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hikiniku-to-kome"
 name: "挽肉と米 渋谷"
 genre: "shokuji"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/SSMGkVmGtsM/hqdefault.jpg"
 business_hours: "11:00 - 15:00 17:00 - 21:00 ■ 定休日第1、第3水曜日（詳細はお手数ですがTwitterでご確認下さい）"
 lat: 35.659379
 lng: 139.69878
-tabelog_score: 3.72
 members:
   - "二宮和也"
   - "山田涼介"

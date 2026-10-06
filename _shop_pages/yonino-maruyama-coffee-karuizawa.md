@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「丸山珈琲 ハルニレテラス店」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「丸山珈琲 ハルニレテラス店」（長野県北佐久郡軽井沢町）。食べログ3.38点、～￥999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたcafe「丸山珈琲 ハルニレテラス店」（長野県北佐久郡軽井沢町）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-maruyama-coffee-karuizawa"
 name: "丸山珈琲 ハルニレテラス店"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://img.youtube.com/vi/9GSuuUqsNnM/hqdefault.jpg"
 business_hours: "08:00 - 20:00 ■ 営業時間8：00～20：00（～9/30）9：00～19：00（10/1～）■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.356
 lng: 138.6348
-tabelog_score: 3.38
 members:
   - "山田涼介"
   - "菊池風磨"

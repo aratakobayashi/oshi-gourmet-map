@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「ローズベーカリー 銀座店」"
-description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたcafe「ローズベーカリー 銀座店」（東京都中央区）。食べログ3.7点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたcafe「ローズベーカリー 銀座店」（東京都中央区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-b9eabf58-"
 name: "ローズベーカリー 銀座店"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/160
 business_hours: "月・火・水・木・金・土・日・祝日 11:00 - 20:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6720135
 lng: 139.7647202
-tabelog_score: 3.7
 members:
   - "ヒョンジン"
 groups:

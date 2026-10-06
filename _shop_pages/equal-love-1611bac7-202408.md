@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「錦市場」"
-description: "=LOVEのYouTubeで紹介されたothers「錦市場」（京都府京都市）。食べログ3.43点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたothers「錦市場」（京都府京都市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1611bac7-202408"
 name: "錦市場"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 15:00 L.O. 15:00 17:00 - 21:00 L.O. 20:00"
 lat: 35.0108986
 lng: 135.7688702
-tabelog_score: 3.43
 groups:
   - "equal_love"
 ---

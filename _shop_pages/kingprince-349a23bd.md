@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「長崎 雲仙楼」"
-description: "キントレ【永瀬廉＆髙橋海人ロケ地】米とステーキだけの店＆東京イチメニュー数が多い絶品町中華で紹介されたothers「長崎 雲仙楼」（東京都文京区）。食べログ3.44点。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉＆髙橋海人ロケ地】米とステーキだけの店＆東京イチメニュー数が多い絶品町中華で紹介されたothers「長崎 雲仙楼」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-349a23bd-"
 name: "長崎 雲仙楼"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352
 business_hours: "月・火・水・木・金 11:00 - 00:00 土 11:00 - 15:00 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.704828348694214
 lng: 139.7450256746378
-tabelog_score: 3.44
 members:
   - "永瀬廉"
   - "髙橋海人"

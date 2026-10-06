@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「韓国酒場ハルハル」"
-description: "ジゼル 高円寺来訪で紹介されたizakaya「韓国酒場ハルハル」（東京都杉並区）。食べログ3.09点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "ジゼル 高円寺来訪で紹介されたizakaya「韓国酒場ハルハル」（東京都杉並区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-e6d7a34f-"
 name: "韓国酒場ハルハル"
 genre: "izakaya"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359
 business_hours: "月・水・木・金・土・日 17:00 - 00:00 火 定休日"
 lat: 35.7073164
 lng: 139.6548546
-tabelog_score: 3.09
 members:
   - "ジゼル"
 groups:

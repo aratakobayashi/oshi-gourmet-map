@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「自然薯専門店 麦とろ童子」"
-description: "キントレ ピンキリin静岡【永瀬廉＆劇団ひとり】山のうなぎ自然薯の専門店はどこ？食べたメニューは？で紹介されたothers「自然薯専門店 麦とろ童子」（静岡県熱海市）。食べログ3.55点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "キントレ ピンキリin静岡【永瀬廉＆劇団ひとり】山のうなぎ自然薯の専門店はどこ？食べたメニューは？で紹介されたothers「自然薯専門店 麦とろ童子」（静岡県熱海市）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-2c54804c-"
 name: "自然薯専門店 麦とろ童子"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/193
 business_hours: "月・木・金・土・日・祝日 11:30 - 16:00 L.O. 16:00 火・水 定休日 ■ 定休日水曜日（祝日の場合は営業）"
 lat: 35.13759576885198
 lng: 139.10917110935392
-tabelog_score: 3.55
 members:
   - "永瀬廉"
   - "髙橋海人"

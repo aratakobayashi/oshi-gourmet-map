@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ガーリックステーキ Bullajo」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「ガーリックステーキ Bullajo」（東京都渋谷区）。食べログ3.38点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「ガーリックステーキ Bullajo」（東京都渋谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-bullajo-202504"
 name: "ガーリックステーキ Bullajo"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/zlVJ4MBzmuw/hqdefault.jpg"
 business_hours: "月・火・水・木・金 12:00 - 14:30 18:00 - 22:00 L.O. 21:30 土 18:00 - 22:00 L.O. 21:30 日 定休日 ■ 定休日第２、３月曜 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6626537
 lng: 139.6972756
-tabelog_score: 3.38
 members:
   - "亀梨和也"
 groups:

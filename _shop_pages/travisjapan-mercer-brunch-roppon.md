@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
-description: "あの頃からわたしたちは【Sexy松 ロケ地】レストランはどこ？松島聡×松田元太×松倉海斗で紹介されたcafe「MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）」（東京都港区）。食べログ3.49点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "あの頃からわたしたちは【Sexy松 ロケ地】レストランはどこ？松島聡×松田元太×松倉海斗で紹介されたcafe「MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mercer_brunch_roppon-"
 name: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/203
 business_hours: "月・火・水・木・金 11:00 - 15:30 L.O. 15:00 18:00 - 23:00 L.O. 料理22:00 ドリンク22:30 土・日・祝日 10:00 - 17:00 L.O. 16:00 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30"
 lat: 35.66480723791056
 lng: 139.73338198307994
-tabelog_score: 3.49
 members:
   - "松田元太"
   - "川島如恵留"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「GAZTA」"
-description: "嵐にしやがれで紹介されたsweets「GAZTA」（東京都港区）。食べログ3.84点。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたsweets「GAZTA」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-gazta-20190309"
 name: "GAZTA"
 genre: "sweets"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "火・水・木・金・土・日・祝日 09:00 - 19:00 月 定休日 ■ 定休日月曜日が祝日の場合は、翌日火曜日に振替 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6438973
 lng: 139.7277018
-tabelog_score: 3.84
 members:
   - "大野智"
   - "櫻井翔"

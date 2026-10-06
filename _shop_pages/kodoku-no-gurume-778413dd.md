@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ライカノ」"
-description: "孤独のグルメ Season2 第11話で紹介されたshokuji「ライカノ」（東京都足立区）。食べログ3.5点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第11話で紹介されたshokuji「ライカノ」（東京都足立区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-778413dd-"
 name: "ライカノ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "火・水・木・金・土・日・祝日 11:00 - 15:00 L.O. 14:45 17:00 - 22:00 L.O. 21:30 月・祝後日 定休日 月曜日祝日の場合は通常営業です代わりに翌日火曜日がお休みになります"
 lat: 35.7746029
 lng: 139.8045163
-tabelog_score: 3.5
 members:
   - "井之頭五郎"
 groups:

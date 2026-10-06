@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「酒と蕎麦ちりん」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「酒と蕎麦ちりん」（東京都品川区）。食べログ3.44点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「酒と蕎麦ちりん」（東京都品川区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sake-soba-chirin"
 name: "酒と蕎麦ちりん"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340
 business_hours: "月・火・水・木・金 17:00 - 23:30 L.O. 23:00 土 11:30 - 14:00 17:00 - 23:30 L.O. 23:00 日・祝日 11:30 - 14:00 17:30 - 22:00 L.O. 21:30 祝前日 17:30 - 23:30 L.O. 23:00"
 lat: 35.631
 lng: 139.7149
-tabelog_score: 3.44
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
-description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたothers「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。食べログ3.43点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたothers「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "agroup-buzzed_lamb_brewing-"
 name: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314
 business_hours: "水 12:00 - 15:00 L.O. 14:30 16:00 - 20:00 L.O. 料理19:00 ドリンク19:30 木 12:00 - 15:00 L.O. 14:30 16:00 - 20:00 L.O. 19:30 金 12:00 - 15:00 L.O. 14:30 16:00 - 22:00 L.O. 料理21:00 ドリンク21:30 土 12:00 - 22:00 L.O."
 lat: 35.723555122162196
 lng: 139.7682484985184
-tabelog_score: 3.43
 members:
   - "正門良規"
   - "草間リチャード敬太"

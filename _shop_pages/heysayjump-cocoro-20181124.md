@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「cocoro 川越店」"
-description: "2018.11.24 川越特集後編で紹介されたshokuji「cocoro 川越店」（埼玉県川越市）。食べログ3.19点。推し活グルメ巡礼スポット。"
+description: "2018.11.24 川越特集後編で紹介されたshokuji「cocoro 川越店」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-cocoro-20181124"
 name: "cocoro 川越店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "tv"
 business_hours: "■ 営業時間9:30～売切次第終了■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9251145
 lng: 139.4856927
-tabelog_score: 3.19
 members:
   - "薮宏太"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「すみれ」"
-description: "孤独のグルメ Season1 第11話で紹介されたizakaya「すみれ」（東京都文京区）。食べログ3.38点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第11話で紹介されたizakaya「すみれ」（東京都文京区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e09c3ed5-"
 name: "すみれ"
 genre: "izakaya"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・木・金・土 18:00 - 23:00 火・水・日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7080255
 lng: 139.7523066
-tabelog_score: 3.38
 members:
   - "井之頭五郎"
 groups:

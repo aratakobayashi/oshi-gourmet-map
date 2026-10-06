@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KURAMAE CANNELE」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「KURAMAE CANNELE」（東京都台東区）。食べログ3.57点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「KURAMAE CANNELE」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kuramae_cannele-20250321"
 name: "KURAMAE CANNELE"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214
 business_hours: "火・水・木・金 11:00 - 18:00 L.O. 17:00 土・日・祝日 11:00 - 19:00 L.O. 18:00 月 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7030395
 lng: 139.7927535
-tabelog_score: 3.57
 members:
   - "大西流星"
 groups:

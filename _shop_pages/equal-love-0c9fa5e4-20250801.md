@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「麻布台ヒルズ」"
-description: "=LOVEのYouTubeで紹介されたshokuji「麻布台ヒルズ」（東京都港区）。食べログ3.3点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「麻布台ヒルズ」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0c9fa5e4-20250801"
 name: "麻布台ヒルズ"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347
 business_hours: "10:00 - 20:00 L.O. 料理19:00 ドリンク19:30 テイクアウト専用窓口（KIOSK）の営業時間 7:00 - 20:00（L.O. 20:00） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6614009
 lng: 139.7407776
-tabelog_score: 3.3
 members:
   - "大谷映美里"
 groups:

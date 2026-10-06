@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カヤシマ」"
-description: "孤独のグルメ Season1 第7話で紹介されたshokuji「カヤシマ」（東京都）。食べログ3.53点、～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第7話で紹介されたshokuji「カヤシマ」（東京都）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"
 genre: "shokuji"
@@ -17,7 +17,6 @@ source_type: "drama"
 business_hours: "11:00 - 23:00 第3水曜定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7022261
 lng: 139.5804032
-tabelog_score: 3.53
 members:
   - "井之頭五郎"
 groups:

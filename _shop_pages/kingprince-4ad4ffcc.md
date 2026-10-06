@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「レバーランド」"
-description: "キントレガイドブック【髙橋海人＆那須雄登】蒲田のレバー料理の立ち飲み屋はどこ？で紹介されたizakaya「レバーランド」（東京都大田区）。食べログ3.49点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "キントレガイドブック【髙橋海人＆那須雄登】蒲田のレバー料理の立ち飲み屋はどこ？で紹介されたizakaya「レバーランド」（東京都大田区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-4ad4ffcc-"
 name: "レバーランド"
 genre: "izakaya"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352
 business_hours: "月・火・水・木・金 16:00 - 23:00 L.O. 料理22:00 ドリンク22:30 土・日・祝日 13:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ■ 定休日不定休（年末年始・お盆休み・その他臨時休業あり）"
 lat: 35.5624486379689
 lng: 139.71244648206067
-tabelog_score: 3.49
 members:
   - "永瀬廉"
   - "髙橋海人"

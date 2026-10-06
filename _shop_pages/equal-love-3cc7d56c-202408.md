@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「福臨閣売店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「福臨閣売店」（神奈川県横浜市）。食べログ3.12点、～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「福臨閣売店」（神奈川県横浜市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-3cc7d56c-202408"
 name: "福臨閣売店"
 genre: "shokuji"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
 business_hours: "10:00 - 00:00 L.O. 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4429058
 lng: 139.6514509
-tabelog_score: 3.12
 members:
   - "齋藤樹愛羅"
   - "佐々木舞香"

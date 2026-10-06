@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「葉山珈琲 パッパニーニョ」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）全員合流で紹介されたcafe「葉山珈琲 パッパニーニョ」（神奈川県三浦郡葉山町）。食べログ3.2点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）全員合流で紹介されたcafe「葉山珈琲 パッパニーニョ」（神奈川県三浦郡葉山町）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-3aa8f6af-"
 name: "葉山珈琲 パッパニーニョ"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/301
 business_hours: "月・火・木・金・土・日 12:00 - 17:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2628
 lng: 139.5942
-tabelog_score: 3.2
 members:
   - "ガウル"
   - "ウォニョン"

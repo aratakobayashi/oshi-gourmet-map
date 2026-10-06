@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「鮨 長島」"
-description: "かまいたちのYouTubeで紹介されたwashoku「鮨 長島」（東京都大田区）。食べログ3.65点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたwashoku「鮨 長島」（東京都大田区）。￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-e20cd59a-"
 name: "鮨 長島"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://img.youtube.com/vi/A2u0TZpDQ8A/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土 18:00 - 23:00 日 定休日"
 lat: 35.6022
 lng: 139.6989
-tabelog_score: 3.65
 members:
   - "山内健司"
   - "濱家隆一"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「宮わき」"
-description: "timeleszファミリア 究極グルメ 団結か裏切りか？（2026年1月12日 日テレ系）で紹介されたwashoku「宮わき」（東京都港区）。食べログ3.94点、￥15,000～￥19,999。推し活グルメ巡礼スポット。"
+description: "timeleszファミリア 究極グルメ 団結か裏切りか？（2026年1月12日 日テレ系）で紹介されたwashoku「宮わき」（東京都港区）。￥15,000～￥19,999。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-ea0acb9b-20260112"
 name: "宮わき"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/286
 source_type: "tv"
 lat: 35.6537504
 lng: 139.7416761
-tabelog_score: 3.94
 members:
   - "菊池風磨"
   - "佐藤勝利"

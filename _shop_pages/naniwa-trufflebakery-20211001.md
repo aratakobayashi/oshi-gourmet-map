@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「TruffleBAKERY」"
-description: "なにわ男子が訪れたcafe「TruffleBAKERY」（東京都江東区）。食べログ3.5点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子が訪れたcafe「TruffleBAKERY」（東京都江東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-trufflebakery-20211001"
 name: "TruffleBAKERY"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 business_hours: "08:00 - 21:00"
 lat: 35.6722765
 lng: 139.7950555
-tabelog_score: 3.5
 members:
   - "大橋和也"
 groups:

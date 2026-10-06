@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「おひつ膳 田んぼ」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「おひつ膳 田んぼ」（東京都世田谷区）。食べログ3.5点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「おひつ膳 田んぼ」（東京都世田谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ohitsuzen-tanbo-sangenchaya"
 name: "おひつ膳 田んぼ"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/792
 business_hours: "08:00 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6446
 lng: 139.6693
-tabelog_score: 3.5
 members:
   - "二宮和也"
   - "山田涼介"

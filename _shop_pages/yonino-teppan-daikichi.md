@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草もんじゃ てっぱん大吉」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草もんじゃ てっぱん大吉」（東京都台東区）。食べログ3.32点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草もんじゃ てっぱん大吉」（東京都台東区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teppan-daikichi"
 name: "浅草もんじゃ てっぱん大吉"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/922iF4MBP0E/hqdefault.jpg"
 business_hours: "月・木・金・土・日・祝日 11:30 - 23:00 火・水 17:00 - 23:00 ■ 定休日大晦日と元旦は休業その他は不定休となります※お知らせ6月16日〜7月31日の毎週火曜日は臨時休業となります。6月16日、23日、30日7月7日、14日、21日、28日"
 lat: 35.717597
 lng: 139.797563
-tabelog_score: 3.32
 members:
   - "二宮和也"
   - "山田涼介"

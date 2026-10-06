@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ラーメン山岡家 越谷レイクタウン店」"
-description: "=LOVEのYouTubeで紹介されたramen「ラーメン山岡家 越谷レイクタウン店」（埼玉県越谷市）。食べログ3.18点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「ラーメン山岡家 越谷レイクタウン店」（埼玉県越谷市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-62bce5f5-202410"
 name: "ラーメン山岡家 越谷レイクタウン店"
 genre: "ramen"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg"
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.8837478
 lng: 139.8210025
-tabelog_score: 3.18
 members:
   - "大谷映美里"
 groups:

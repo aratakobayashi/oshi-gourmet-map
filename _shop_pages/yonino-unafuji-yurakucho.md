@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「炭焼 うな富士 有楽町店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「炭焼 うな富士 有楽町店」（東京都千代田区）。食べログ3.69点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「炭焼 うな富士 有楽町店」（東京都千代田区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-unafuji-yurakucho"
 name: "炭焼 うな富士 有楽町店"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/sDxdoLUksaY/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 11:00 - 22:00 L.O. 料理21:00 不定休"
 lat: 35.669996
 lng: 139.757076
-tabelog_score: 3.69
 members:
   - "二宮和也"
   - "山田涼介"

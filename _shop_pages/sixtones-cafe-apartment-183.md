@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe Apartment 183」"
-description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたcafe「Cafe Apartment 183」（東京都世田谷区）。食べログ3.28点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたcafe「Cafe Apartment 183」（東京都世田谷区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe_apartment_183-"
 name: "Cafe Apartment 183"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/145
 business_hours: "11:00 - 21:00"
 lat: 35.6397064
 lng: 139.6115512
-tabelog_score: 3.28
 members:
   - "ジェシー"
   - "京本大我"

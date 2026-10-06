@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂ごはん 山ね家」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「赤坂ごはん 山ね家」（東京都港区）。食べログ3.65点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「赤坂ごはん 山ね家」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-akasaka-gohan-yamaneya"
 name: "赤坂ごはん 山ね家"
 genre: "washoku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/uWh7fTQSG1k/hqdefault.jpg"
 business_hours: "月・火・水・木・金 10:00 - 15:00 L.O. 14:45 土・日・祝日 定休日 ■ 諸事情で急遽お休みする事もあります Instagramのストーリーにてお知らせしています ご来店前にご確認いただけると幸いです(AKASAKA_YAMANE_YA)■完全キャッシュレス決済■ご予約は承っておりません。お電話が繋がらない事が多々御座いますのでご了承ください。■ 定休日GW、8月中旬、年末年"
 lat: 35.672
 lng: 139.7325
-tabelog_score: 3.65
 members:
   - "二宮和也"
   - "山田涼介"

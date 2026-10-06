@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「lattencos」"
-description: "なにわ男子のどっち派 (2024-01-05)で紹介されたcafe「lattencos」（東京都新宿区）。食べログ3.23点。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-01-05)で紹介されたcafe「lattencos」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-lattencos-20240105"
 name: "lattencos"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296
 business_hours: "10:30 - 20:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6999128
 lng: 139.6997412
-tabelog_score: 3.23
 members:
   - "長尾謙杜"
 groups:

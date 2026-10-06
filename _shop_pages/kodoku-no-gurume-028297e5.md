@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「タイレストラン イサーン」"
-description: "孤独のグルメ Season8 第6話で紹介されたshokuji「タイレストラン イサーン」（東京都台東区）。食べログ3.37点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第6話で紹介されたshokuji「タイレストラン イサーン」（東京都台東区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-028297e5-"
 name: "タイレストラン イサーン"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "17:00 - 05:00"
 lat: 35.7125805
 lng: 139.7800712
-tabelog_score: 3.37
 members:
   - "井之頭五郎"
 groups:

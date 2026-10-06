@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「DooWop」"
-description: "なにわ男子のYouTubeで紹介されたizakaya「DooWop」（東京都渋谷区）。食べログ3.24点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介されたizakaya「DooWop」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-doowop-20211126"
 name: "DooWop"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/Xilutm7jG0Y/hqdefault.jpg"
 business_hours: "10:00 - 21:30 L.O. 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6483517
 lng: 139.7065258
-tabelog_score: 3.24
 members:
   - "長尾謙杜"
 groups:

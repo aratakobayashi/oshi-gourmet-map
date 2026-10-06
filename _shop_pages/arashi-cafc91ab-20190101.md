@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「うな富士」"
-description: "嵐にしやがれで紹介されたshokuji「うな富士」（愛知県名古屋市）。食べログ3.77点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「うな富士」（愛知県名古屋市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-cafc91ab-20190101"
 name: "うな富士"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日 11:00 - 14:30 L.O. 料理14:00 17:00 - 20:30 L.O. 料理20:00 不定休"
 lat: 35.146554
 lng: 136.9146788
-tabelog_score: 3.77
 members:
   - "大野智"
   - "櫻井翔"

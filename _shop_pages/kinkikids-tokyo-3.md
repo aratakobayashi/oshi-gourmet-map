@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TOKYO焼肉ごぉ 3号店"
-description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたyakiniku「TOKYO焼肉ごぉ 3号店」（東京都台東区）。食べログ3.41点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたyakiniku「TOKYO焼肉ごぉ 3号店」（東京都台東区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-tokyo_3-"
 name: "TOKYO焼肉ごぉ 3号店"
 genre: "yakiniku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/260
 business_hours: "月・火・水・木・金 15:00 - 00:00 L.O. 23:00 土・祝前日 14:00 - 00:00 L.O. 23:00 日・祝日 14:00 - 23:00 L.O. 22:00 ■ 定休日月1日定休日◆元旦休業◆1/2、1/3は14時からオープン"
 lat: 35.708441337895415
 lng: 139.77284998349302
-tabelog_score: 3.41
 members:
   - "堂本光一"
   - "堂本剛"

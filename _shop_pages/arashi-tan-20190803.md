@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「赤坂Tan伍」"
-description: "嵐にしやがれで紹介されたshokuji「赤坂Tan伍」（東京都港区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「赤坂Tan伍」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-tan-20190803"
 name: "赤坂Tan伍"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 14:30 L.O. 14:00 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ■ 定休日年末年始"
 lat: 35.6716786
 lng: 139.7356224
-tabelog_score: 3.32
 members:
   - "大野智"
   - "櫻井翔"

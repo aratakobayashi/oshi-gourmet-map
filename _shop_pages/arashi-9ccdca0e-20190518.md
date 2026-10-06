@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「水信フルーツパーラーラボ」"
-description: "嵐にしやがれで紹介されたshokuji「水信フルーツパーラーラボ」（神奈川県横浜市）。食べログ3.7点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたshokuji「水信フルーツパーラーラボ」（神奈川県横浜市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-9ccdca0e-20190518"
 name: "水信フルーツパーラーラボ"
 genre: "shokuji"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "11:00 - 21:00 L.O. 20:00 ■ 定休日コレットマーレに準ずる"
 lat: 35.4496249
 lng: 139.6307358
-tabelog_score: 3.7
 members:
   - "櫻井翔"
 groups:

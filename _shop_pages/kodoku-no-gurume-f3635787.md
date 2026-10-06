@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「萃萃」"
-description: "孤独のグルメ Season10 第2016話で紹介されたwashoku「萃萃」（宮城県仙台市）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2016話で紹介されたwashoku「萃萃」（宮城県仙台市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f3635787-"
 name: "萃萃"
 genre: "washoku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土 11:30 - 14:00 L.O. 料理13:30 17:30 - 19:00 L.O. 料理18:30 日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.2677554
 lng: 140.8691498
-tabelog_score: 3.65
 members:
   - "井之頭五郎"
 groups:

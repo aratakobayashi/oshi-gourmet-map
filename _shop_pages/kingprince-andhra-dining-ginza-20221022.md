@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Andhra Dining GINZA」"
-description: "King&Princeる。当たり前レストランで紹介されたizakaya「Andhra Dining GINZA」（東京都中央区）。食べログ3.65点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたizakaya「Andhra Dining GINZA」（東京都中央区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-andhra_dining_ginza-20221022"
 name: "Andhra Dining GINZA"
 genre: "izakaya"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金 11:15 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00 ■定休日無休"
 lat: 35.6745331187211
 lng: 139.76903003431494
-tabelog_score: 3.65
 members:
   - "平野紫耀"
   - "神宮寺勇太"

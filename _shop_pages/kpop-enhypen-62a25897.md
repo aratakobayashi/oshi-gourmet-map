@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「かしわ 渋谷ヒカリエ店」"
-description: "ENHYPENで紹介されたothers「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。食べログ3.36点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたothers「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-62a25897-"
 name: "かしわ 渋谷ヒカリエ店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/196
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ■ 営業時間11:00~22:00 (L.O. 料理21:00/ドリンク21:30)※ヒカリエの営業により時間変動がある場合があります。■定休日なし"
 lat: 35.6596837
 lng: 139.706267
-tabelog_score: 3.36
 groups:
   - "kpop_enhypen"
 ---

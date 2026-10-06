@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中村屋惣菜製作所」"
-description: "さくさんぽ 京都嵐山で紹介されたshokuji「中村屋惣菜製作所」（京都府京都市）。食べログ3.36点、～￥999。推し活グルメ巡礼スポット。"
+description: "さくさんぽ 京都嵐山で紹介されたshokuji「中村屋惣菜製作所」（京都府京都市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13e87d2c-"
 name: "中村屋惣菜製作所"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358
 business_hours: "09:00 - 18:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.0163
 lng: 135.6799
-tabelog_score: 3.36
 members:
   - "遠藤さくら"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「Fireking Cafe」"
-description: "しおりのYouTubeで紹介されたcafe「Fireking Cafe」（東京都渋谷区）。食べログ3.49点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたcafe「Fireking Cafe」（東京都渋谷区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "shiori-fireking_cafe-20240316"
 name: "Fireking Cafe"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104
 business_hours: "月・火・水・木・金・土・日・祝日 11:30 - 02:00 ■ 営業時間ランチタイム11:30〜18:00ディナー＆バータイム18:00〜26:00(24:00食事L.O)■ 定休日１月１日"
 lat: 35.6690181
 lng: 139.6843225
-tabelog_score: 3.49
 members:
   - "しおり"
 groups:

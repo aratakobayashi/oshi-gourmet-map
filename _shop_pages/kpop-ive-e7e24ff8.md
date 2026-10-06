@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「角車」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたyakiniku「角車」（神奈川県三浦郡葉山町）。食べログ3.52点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたyakiniku「角車」（神奈川県三浦郡葉山町）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-e7e24ff8-"
 name: "角車"
 genre: "yakiniku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/626
 business_hours: "月・水・木・金・土・日 11:30 - 15:00 17:00 - 21:00 火 定休日 ■ 定休日火曜日（祝日の場合は翌日） 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2670995
 lng: 139.6102949
-tabelog_score: 3.52
 members:
   - "ガウル"
   - "ウォニョン"

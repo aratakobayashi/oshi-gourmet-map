@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「お宿 玉樹」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介されたothers「お宿 玉樹」（群馬県渋川市）。食べログ3.25点、￥20,000～￥29,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介されたothers「お宿 玉樹」（群馬県渋川市）。￥20,000～￥29,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b5a1ece5-"
 name: "お宿 玉樹"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/321
 business_hours: "チェックイン 15:00チェックアウト 10:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.490004
 lng: 138.922353
-tabelog_score: 3.25
 members:
   - "ジェシー"
   - "京本大我"

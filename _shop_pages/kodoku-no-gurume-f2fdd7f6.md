@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「羊香味坊」"
-description: "孤独のグルメ Season6 第8話で紹介されたshokuji「羊香味坊」（東京都台東区）。食べログ3.56点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第8話で紹介されたshokuji「羊香味坊」（東京都台東区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f2fdd7f6-"
 name: "羊香味坊"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 11:00 - 23:00 L.O. 22:30 土 12:00 - 23:00 L.O. 22:30 日・祝日 12:00 - 22:00 L.O. 21:30 ■定休日なし"
 lat: 35.7125805
 lng: 139.7800712
-tabelog_score: 3.56
 members:
   - "井之頭五郎"
 groups:

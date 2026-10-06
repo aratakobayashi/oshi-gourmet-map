@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「大阪焼肉・ホルモン ふたご 六本木店」"
-description: "Snow ManのYouTubeで紹介されたyakiniku「大阪焼肉・ホルモン ふたご 六本木店」（東京都港区）。食べログ3.09点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたyakiniku「大阪焼肉・ホルモン ふたご 六本木店」（東京都港区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-futago-roppongi"
 name: "大阪焼肉・ホルモン ふたご 六本木店"
 genre: "yakiniku"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg"
 business_hours: "月・火・水・木・土 17:00 - 00:00 L.O. 23:30 金 17:00 - 02:00 L.O. 01:30 日・祝日 17:00 - 23:30 L.O. 23:00 ■ ＜年中無休＞※1/1～1/3は除く■年末年始の営業時間については、HPをご確認ください。または、直接店舗へお問い合わせください。"
 lat: 35.663
 lng: 139.7302
-tabelog_score: 3.09
 members:
   - "目黒蓮"
   - "阿部亮平"

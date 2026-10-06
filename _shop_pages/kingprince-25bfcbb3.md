@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「茶和々 成田店」"
-description: "キントレ 炊飯器の旅【髙橋海人 ロケ地】千葉県成田市 抹茶スイーツ アイス ソフトのお店はどこ？で紹介されたothers「茶和々 成田店」（千葉県成田市）。食べログ3.24点。推し活グルメ巡礼スポット。"
+description: "キントレ 炊飯器の旅【髙橋海人 ロケ地】千葉県成田市 抹茶スイーツ アイス ソフトのお店はどこ？で紹介されたothers「茶和々 成田店」（千葉県成田市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-25bfcbb3-"
 name: "茶和々 成田店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/299
 business_hours: "09:30 - 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.783802068826226
 lng: 140.31705562503453
-tabelog_score: 3.24
 members:
   - "永瀬廉"
   - "髙橋海人"

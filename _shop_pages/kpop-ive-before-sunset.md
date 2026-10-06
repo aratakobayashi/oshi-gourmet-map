@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「before sunset」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたcafe「before sunset」（神奈川県三浦郡葉山町）。食べログ3.41点。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたcafe「before sunset」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-before_sunset-"
 name: "before sunset"
 genre: "cafe"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/299
 business_hours: "月・水・木・金・土・日 07:30 - 17:00 L.O. 料理15:00 ドリンク16:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2742
 lng: 139.5918
-tabelog_score: 3.41
 members:
   - "ユジン"
   - "レイ"

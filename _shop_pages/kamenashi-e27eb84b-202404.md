@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「九州じゃんがら原宿店」"
-description: "亀梨和也のYouTubeで紹介されたramen「九州じゃんがら原宿店」（東京都渋谷区）。食べログ3.11点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたramen「九州じゃんがら原宿店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-e27eb84b-202404"
 name: "九州じゃんがら原宿店"
 genre: "ramen"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
 business_hours: "11:00 - 23:00 L.O. 22:30 ■ 定休日年中無休"
 lat: 35.6687049
 lng: 139.7053357
-tabelog_score: 3.11
 members:
   - "亀梨和也"
 groups:

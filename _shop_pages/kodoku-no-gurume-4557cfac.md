@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山源」"
-description: "孤独のグルメ Season3 第6話で紹介されたyakiniku「山源」（東京都板橋区）。食べログ3.54点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第6話で紹介されたyakiniku「山源」（東京都板橋区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
 genre: "yakiniku"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "水・木・金・土 17:00 - 22:00 L.O. 料理21:00 ドリンク21:40 日 16:00 - 22:00 L.O. 料理21:00 ドリンク21:40 月・火 定休日 店の扉に今後は月火が定休日と書いてありました。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7512814
 lng: 139.7087794
-tabelog_score: 3.54
 members:
   - "井之頭五郎"
 groups:

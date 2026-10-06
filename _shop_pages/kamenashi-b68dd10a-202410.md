@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「大徳壽 みなとみらい店」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「大徳壽 みなとみらい店」（神奈川県横浜市）。食べログ3.51点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたyakiniku「大徳壽 みなとみらい店」（神奈川県横浜市）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-b68dd10a-202410"
 name: "大徳壽 みなとみらい店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/LaNwtYYQ3Wo/hqdefault.jpg"
 business_hours: "月・火・水・木・日 11:00 - 22:00 L.O. 料理21:00 ドリンク21:30 金・土・祝前日 11:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ※平日16:00〜17:00は準備時間の為閉店いたします。■ランチメニュー提供時間11:00～L.O.15:00■ 定休日なし(コレットマーレの休業日に準ずる)"
 lat: 35.4572327
 lng: 139.6328453
-tabelog_score: 3.51
 members:
   - "亀梨和也"
 groups:

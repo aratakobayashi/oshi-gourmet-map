@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PARK STORE」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「PARK STORE」（東京都世田谷区）。食べログ3.5点、～￥999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「PARK STORE」（東京都世田谷区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-park_store-20250411"
 name: "PARK STORE"
 genre: "sweets"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/346
 business_hours: "12:00 - 18:00"
 lat: 35.6439401
 lng: 139.6823108
-tabelog_score: 3.5
 members:
   - "大橋和也"
 groups:

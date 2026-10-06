@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ジュピター 新宿サブナード店」"
-description: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？で紹介されたothers「ジュピター 新宿サブナード店」（東京都新宿区）。食べログ3.02点。推し活グルメ巡礼スポット。"
+description: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？で紹介されたothers「ジュピター 新宿サブナード店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-843226af-"
 name: "ジュピター 新宿サブナード店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/197
 business_hours: "10:30 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.69343637868773
 lng: 139.70192423455293
-tabelog_score: 3.02
 members:
   - "永瀬廉"
   - "髙橋海人"

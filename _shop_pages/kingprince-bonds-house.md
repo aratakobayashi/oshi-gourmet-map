@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「BONDS HOUSE（ボンズハウス）」"
-description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたothers「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。食べログ3.32点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたothers「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bonds_house-"
 name: "BONDS HOUSE（ボンズハウス）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/257
 business_hours: "月・火・木・金・祝前日・祝後日 17:30 - 23:00 L.O. 料理21:30 ドリンク22:00 土・日・祝日 11:30 - 15:30 L.O. 14:00 17:30 - 23:00 L.O. 料理21:30 ドリンク22:00 水 定休日 ■ 営業時間※平日ディナー営業のみ⚠️ディナータイムのみ20歳未満のお客様のご来店をお断りしております。ご了承ください。Lunch 11:30~"
 lat: 35.701459152823205
 lng: 139.79809518950893
-tabelog_score: 3.32
 members:
   - "永瀬廉"
   - "髙橋海人"

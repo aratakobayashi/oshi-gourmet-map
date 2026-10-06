@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「たまご専門本巣ヱ 東京本家」"
-description: "なにわ男子のどっち派 (2024-02-09)で紹介されたcafe「たまご専門本巣ヱ 東京本家」（東京都港区）。食べログ3.57点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-02-09)で紹介されたcafe「たまご専門本巣ヱ 東京本家」（東京都港区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-acfd49cb-20240209"
 name: "たまご専門本巣ヱ 東京本家"
 genre: "cafe"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363
 business_hours: "11:00 - 19:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6551899
 lng: 139.7363345
-tabelog_score: 3.57
 members:
   - "長尾謙杜"
 groups:

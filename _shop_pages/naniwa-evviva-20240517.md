@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「EVVIVA!」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介されたshokuji「EVVIVA!」（神奈川県海老名市）。食べログ3.07点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-05-17)で紹介されたshokuji「EVVIVA!」（神奈川県海老名市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-evviva-20240517"
 name: "EVVIVA!"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/300
 business_hours: "11:00 - 23:00 ■ 定休日不定休(ららぽーと海老名に準ずる) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.4557271
 lng: 139.3887716
-tabelog_score: 3.07
 members:
   - "藤原丈一郎"
 groups:

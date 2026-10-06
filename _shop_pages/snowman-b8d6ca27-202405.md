@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン 南国」"
-description: "Snow ManのYouTubeで紹介されたshokuji「キッチン 南国」（宮城県石巻市）。食べログ3.46点、～￥999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「キッチン 南国」（宮城県石巻市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-b8d6ca27-202405"
 name: "キッチン 南国"
 genre: "shokuji"
@@ -19,7 +19,6 @@ seating_note: "4人が座ったのは、真ん中のテーブル席だと思わ�
 business_hours: "月・火・水・木・金 11:00 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 15:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 38.4289729
 lng: 141.2875937
-tabelog_score: 3.46
 groups:
   - "snowman"
 ordered_items:

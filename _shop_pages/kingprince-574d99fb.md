@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「うらりマルシェ」"
-description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介されたothers「うらりマルシェ」（神奈川県三浦市）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介されたothers「うらりマルシェ」（神奈川県三浦市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-574d99fb-"
 name: "うらりマルシェ"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/308
 business_hours: "月・火・水・木・金・土 09:00 - 17:00 日 07:00 - 17:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.1414324
 lng: 139.6157572
-tabelog_score: 3.07
 members:
   - "永瀬廉"
   - "髙橋海人"

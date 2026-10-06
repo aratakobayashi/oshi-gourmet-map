@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「帝國食堂」"
-description: "Snow ManのYouTubeで紹介されたshokuji「帝國食堂」（東京都港区）。食べログ3.29点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたshokuji「帝國食堂」（東京都港区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "shokuji"
@@ -21,7 +21,6 @@ thumbnail_url: "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
 business_hours: "月 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 料理23:00 ドリンク23:30 火・水 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 23:30 木・金 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 23:00 土・祝日 18:00 - 00:00 L.O. 23:0"
 lat: 35.6563
 lng: 139.724
-tabelog_score: 3.29
 members:
   - "佐久間大介"
   - "深澤辰哉"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥元 新宿西口店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「鳥元 新宿西口店」（東京都新宿区）。食べログ3.19点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたizakaya「鳥元 新宿西口店」（東京都新宿区）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
 genre: "izakaya"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
 business_hours: "月・火・水・木・金・祝前日 11:30 - 14:30 L.O. 14:00 16:45 - 23:00 L.O. 22:30 土 11:30 - 23:00 L.O. 22:30 日・祝日 11:30 - 22:00 L.O. 21:30 ■ 営業時間今後の状況次第では、営業日及び営業時間を変更させて頂く場合がございます。■ 定休日12月31日 1月1日"
 lat: 35.690528
 lng: 139.697924
-tabelog_score: 3.19
 members:
   - "ジェシー"
   - "京本大我"

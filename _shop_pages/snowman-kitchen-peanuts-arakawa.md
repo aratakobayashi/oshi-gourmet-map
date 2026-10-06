@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン ぴーなっつ」"
-description: "Snow Manが訪れたshokuji「キッチン ぴーなっつ」（東京都荒川区）。食べログ3.22点。推し活グルメ巡礼スポット。"
+description: "Snow Manが訪れたshokuji「キッチン ぴーなっつ」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-peanuts-arakawa"
 name: "キッチン ぴーなっつ"
 genre: "shokuji"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/259
 business_hours: "月・火・水・金・土・日 11:30 - 14:00 L.O. 13:30 木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7464
 lng: 139.7744
-tabelog_score: 3.22
 members:
   - "深澤辰哉"
   - "ラウール"

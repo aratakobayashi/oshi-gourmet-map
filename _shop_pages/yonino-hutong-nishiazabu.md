@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「胡同 西麻布店」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「胡同 西麻布店」（東京都港区）。食べログ3.38点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「胡同 西麻布店」（東京都港区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hutong-nishiazabu"
 name: "胡同 西麻布店"
 genre: "yakiniku"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/BZwFY5MOyMI/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 ■ 営業時間2階席のみ 17:00~22:30（フード21:45L.O,ドリンク22:00L.O)■ 定休日年末年始12/31、1/1"
 lat: 35.6578
 lng: 139.7278
-tabelog_score: 3.38
 members:
   - "二宮和也"
   - "山田涼介"

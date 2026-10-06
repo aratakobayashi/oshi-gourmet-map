@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「なじみ亭」"
-description: "孤独のグルメ Season4 第2話で紹介されたramen「なじみ亭」（東京都中央区）。食べログ3.28点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第2話で紹介されたramen「なじみ亭」（東京都中央区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4b835120-"
 name: "なじみ亭"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金 18:00 - 23:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6706436
 lng: 139.7719923
-tabelog_score: 3.28
 members:
   - "井之頭五郎"
 groups:

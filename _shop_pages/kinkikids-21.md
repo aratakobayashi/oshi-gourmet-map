@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "21時にアイス　上野店"
-description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたsweets「21時にアイス　上野店」（東京都文京区）。食べログ3.09点、～￥999。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたsweets「21時にアイス　上野店」（東京都文京区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-21-"
 name: "21時にアイス　上野店"
 genre: "sweets"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320
 business_hours: "月・水・木・金・土・日 16:00 - 23:30 火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.705712
 lng: 139.7691299
-tabelog_score: 3.09
 members:
   - "堂本光一"
   - "堂本剛"

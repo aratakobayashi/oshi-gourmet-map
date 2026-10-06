@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「東龍」"
-description: "東京タワー第5話【永瀬廉ロケ地】透＆耕二が高校時代通っていたラーメン屋さんはどこ？で紹介されたothers「東龍」（埼玉県川口市）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "東京タワー第5話【永瀬廉ロケ地】透＆耕二が高校時代通っていたラーメン屋さんはどこ？で紹介されたothers「東龍」（埼玉県川口市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-dd03f0e4-"
 name: "東龍"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330
 business_hours: "■ 定休日木 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.83923365860541
 lng: 139.734191886003
-tabelog_score: 3.08
 members:
   - "永瀬廉"
   - "髙橋海人"

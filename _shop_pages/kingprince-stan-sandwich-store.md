@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「STAN sandwich store（スタンサンドイッチストア）」"
-description: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？で紹介されたothers「STAN sandwich store（スタンサンドイッチストア）」（東京都目黒区）。食べログ3.22点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？で紹介されたothers「STAN sandwich store（スタンサンドイッチストア）」（東京都目黒区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-stan_sandwich_store-"
 name: "STAN sandwich store（スタンサンドイッチストア）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219
 business_hours: "11:30 - 01:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.65745586870595
 lng: 139.68739697419966
-tabelog_score: 3.22
 members:
   - "永瀬廉"
   - "髙橋海人"

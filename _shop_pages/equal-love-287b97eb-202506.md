@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「一蘭 池袋店」"
-description: "=LOVEのYouTubeで紹介されたramen「一蘭 池袋店」（東京都豊島区）。食べログ3.2点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたramen「一蘭 池袋店」（東京都豊島区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-287b97eb-202506"
 name: "一蘭 池袋店"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/Y1zrFlbwhy8/hqdefault.jpg"
 business_hours: "09:30 - 22:30 L.O. 料理22:15 ※営業時間は変更になる場合がございますので、最新情報は公式HPをご確認ください年中無休"
 lat: 35.7311554
 lng: 139.7149383
-tabelog_score: 3.2
 members:
   - "大谷映美里"
 groups:

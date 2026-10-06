@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「赤坂青野 赤坂本店」"
-description: "キントレ 炊飯器の旅【髙橋海人＆佐野勇斗】赤坂の和菓子屋さんはどこ？食べたお団子は何？で紹介されたothers「赤坂青野 赤坂本店」（東京都港区）。食べログ3.72点、～￥999。推し活グルメ巡礼スポット。"
+description: "キントレ 炊飯器の旅【髙橋海人＆佐野勇斗】赤坂の和菓子屋さんはどこ？食べたお団子は何？で紹介されたothers「赤坂青野 赤坂本店」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-d9857c47-"
 name: "赤坂青野 赤坂本店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/723
 business_hours: "月・火・水・木・金 09:00 - 18:00 土 09:00 - 17:00 日・祝日 定休日"
 lat: 35.6716786
 lng: 139.7356224
-tabelog_score: 3.72
 members:
   - "永瀬廉"
   - "髙橋海人"

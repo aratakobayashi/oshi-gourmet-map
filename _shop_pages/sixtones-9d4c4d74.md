@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「どんぐり大通店」"
-description: "ジェシーが札幌のパン屋さんで撮影はいつ？どこ？何の撮影？で紹介されたothers「どんぐり大通店」（北海道札幌市）。食べログ3.4点、～￥999。推し活グルメ巡礼スポット。"
+description: "ジェシーが札幌のパン屋さんで撮影はいつ？どこ？何の撮影？で紹介されたothers「どんぐり大通店」（北海道札幌市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-9d4c4d74-"
 name: "どんぐり大通店"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362
 business_hours: "10:00 - 21:00 ※2024年11月30日から2025年1月31日まで10:00～20:00（短縮営業）■ 定休日無休(ル・トロワに準ずる) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 43.0579464
 lng: 141.3343126
-tabelog_score: 3.4
 members:
   - "ジェシー"
   - "京本大我"

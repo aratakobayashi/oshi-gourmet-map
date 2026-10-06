@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ギリシャ料理 タベルナ ミリュウ」"
-description: "孤独のグルメ Season9 第3話で紹介されたshokuji「ギリシャ料理 タベルナ ミリュウ」（東京都港区）。食べログ3.56点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第3話で紹介されたshokuji「ギリシャ料理 タベルナ ミリュウ」（東京都港区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-18c1e256-"
 name: "ギリシャ料理 タベルナ ミリュウ"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・水・木・金・土 11:30 - 15:00 17:30 - 21:00 日 定休日"
 lat: 35.6580089
 lng: 139.7515137
-tabelog_score: 3.56
 members:
   - "井之頭五郎"
 groups:

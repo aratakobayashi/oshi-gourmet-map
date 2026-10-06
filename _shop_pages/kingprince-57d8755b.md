@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ドン・キホーテ 中目黒本店」"
-description: "【キントレ「バイトレ」ロケ地】髙橋海人がバイトで働いたドンキホーテはどこ？撮影日はいつ？で紹介されたothers「ドン・キホーテ 中目黒本店」（東京都目黒区）。食べログ3.03点。推し活グルメ巡礼スポット。"
+description: "【キントレ「バイトレ」ロケ地】髙橋海人がバイトで働いたドンキホーテはどこ？撮影日はいつ？で紹介されたothers「ドン・キホーテ 中目黒本店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-57d8755b-"
 name: "ドン・キホーテ 中目黒本店"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6513684
 lng: 139.6934004
-tabelog_score: 3.03
 members:
   - "永瀬廉"
   - "髙橋海人"

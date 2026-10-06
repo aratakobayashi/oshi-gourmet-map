@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「社食堂」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「社食堂」（東京都渋谷区）。食べログ3.31点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「社食堂」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4f784040-"
 name: "社食堂"
 genre: "shokuji"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・木・金・土 11:30 - 19:00 火・水 11:30 - 17:00 日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6633709
 lng: 139.6964952
-tabelog_score: 3.31
 members:
   - "井之頭五郎"
 groups:

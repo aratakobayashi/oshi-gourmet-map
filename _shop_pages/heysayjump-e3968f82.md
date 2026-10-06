@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「箱根ベーカリー 箱根湯本本店」"
-description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたcafe「箱根ベーカリー 箱根湯本本店」（神奈川県足柄下郡箱根町）。食べログ3.07点。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたcafe「箱根ベーカリー 箱根湯本本店」（神奈川県足柄下郡箱根町）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-e3968f82-"
 name: "箱根ベーカリー 箱根湯本本店"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/146
 business_hours: "■営業時間9:00～17:00（L.O16:30) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.222086
 lng: 139.089696
-tabelog_score: 3.07
 members:
   - "伊野尾慧"
 groups:

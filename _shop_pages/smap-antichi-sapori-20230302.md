@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Antichi Sapori（アンティキ・サポーリ）"
-description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたothers「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。食べログ3.38点、￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたothers「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
 shop_id: "smap-antichi_sapori-20230302"
 name: "Antichi Sapori（アンティキ・サポーリ）"
 genre: "others"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/170
 business_hours: "月・火・水・木・金・土 11:30 - 15:30 L.O. 14:30 17:30 - 23:00 L.O. 21:30 日 定休日 ■ 定休日不定休日あり、東京ガーデンテラス紀尾井町に準ずる ※今後状況を見て営業日時が変更になることもございます■【お客様へのご案内】いつも当店をご利用いただき、誠にありがとうございますこのたび、4月27日より価格を改定させていただきますなお、予約サイトのページ更"
 lat: 35.67926637870787
 lng: 139.73692046438526
-tabelog_score: 3.38
 members:
   - "木村拓哉"
   - "中居正広"

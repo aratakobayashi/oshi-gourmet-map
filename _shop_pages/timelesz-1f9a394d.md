@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「亀十」"
-description: "タイムレスマン 日光街道！脱落旅SP（2026年4月17日 フジテレビ系）で紹介されたsweets「亀十」（東京都台東区）。食べログ3.79点。推し活グルメ巡礼スポット。"
+description: "タイムレスマン 日光街道！脱落旅SP（2026年4月17日 フジテレビ系）で紹介されたsweets「亀十」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-1f9a394d-"
 name: "亀十"
 genre: "sweets"
@@ -20,7 +20,6 @@ source_type: "tv"
 business_hours: "10:00 - 19:00 ■ 定休日不定休■土日祝日は予約受付不可 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7111333
 lng: 139.7963683
-tabelog_score: 3.79
 members:
   - "橋本将生"
 groups:

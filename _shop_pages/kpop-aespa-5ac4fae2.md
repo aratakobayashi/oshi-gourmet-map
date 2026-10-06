@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「ワンガーデン 西麻布店」"
-description: "カリナ・ウィンター 西麻布訪問（2023年）で紹介されたwashoku「ワンガーデン 西麻布店」（東京都港区）。食べログ3.39点、￥6,000～￥7,999。推し活グルメ巡礼スポット。"
+description: "カリナ・ウィンター 西麻布訪問（2023年）で紹介されたwashoku「ワンガーデン 西麻布店」（東京都港区）。￥6,000～￥7,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-5ac4fae2-"
 name: "ワンガーデン 西麻布店"
 genre: "washoku"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361
 business_hours: "12:00 - 14:30 18:00 - 23:30"
 lat: 35.6600266
 lng: 139.7238075
-tabelog_score: 3.39
 members:
   - "カリナ"
   - "ウィンター"

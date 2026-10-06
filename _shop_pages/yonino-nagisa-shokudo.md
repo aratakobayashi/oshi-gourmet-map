@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「なぎさ食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「なぎさ食堂」（東京都千代田区）。食べログ3.33点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「なぎさ食堂」（東京都千代田区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
 genre: "washoku"
@@ -20,7 +20,6 @@ thumbnail_url: "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6978
 lng: 139.7582
-tabelog_score: 3.33
 members:
   - "二宮和也"
   - "山田涼介"

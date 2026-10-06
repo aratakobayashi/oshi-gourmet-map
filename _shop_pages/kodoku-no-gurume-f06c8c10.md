@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「うどんや藤」"
-description: "孤独のグルメ Season8 第4話で紹介されたramen「うどんや藤」（埼玉県新座市）。食べログ3.46点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第4話で紹介されたramen「うどんや藤」（埼玉県新座市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f06c8c10-"
 name: "うどんや藤"
 genre: "ramen"
@@ -18,7 +18,6 @@ source_type: "drama"
 business_hours: "月・火・木・金・土・日 11:00 - 17:00 L.O. 16:45 水 定休日"
 lat: 35.7931194
 lng: 139.5657258
-tabelog_score: 3.46
 members:
   - "井之頭五郎"
 groups:

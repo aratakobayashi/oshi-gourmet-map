@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「鮨文」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「鮨文」（東京都江東区）。食べログ3.4点。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「鮨文」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sushi-bun"
 name: "鮨文"
 genre: "washoku"
@@ -18,7 +18,6 @@ thumbnail_url: "https://img.youtube.com/vi/WKk-0zqTC74/hqdefault.jpg"
 business_hours: "月・火・木・金・土 06:30 - 14:00 水・日・祝日 定休日 ■ 定休日その他不定休あり ※市場の休市日に準ずる 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.647432
 lng: 139.785031
-tabelog_score: 3.4
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「踊りだこ 道頓堀店」"
-description: "乃木坂配信中（山下美月）で紹介されたothers「踊りだこ 道頓堀店」（大阪府大阪市）。食べログ3.39点、～￥999。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中（山下美月）で紹介されたothers「踊りだこ 道頓堀店」（大阪府大阪市）。～￥999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5010a9f2-"
 name: "踊りだこ 道頓堀店"
 genre: "others"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/890
 business_hours: "11:00 - 21:00 ■ 店休日不定休 たまに休みます（＾＾）"
 lat: 34.6685063
 lng: 135.5032623
-tabelog_score: 3.39
 groups:
   - "nogizaka46"
 ---

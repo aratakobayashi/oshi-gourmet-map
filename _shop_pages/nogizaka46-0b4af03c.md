@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「平城苑 銀座5丁目店」"
-description: "乃木坂工事中で紹介されたothers「平城苑 銀座5丁目店」（東京都中央区）。食べログ3.52点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたothers「平城苑 銀座5丁目店」（東京都中央区）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-0b4af03c-"
 name: "平城苑 銀座5丁目店"
 genre: "others"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/269
 source_type: "tv"
 lat: 35.670156237917105
 lng: 139.76461788311207
-tabelog_score: 3.52
 groups:
   - "nogizaka46"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「俺流塩らーめん 新宿東南口店」"
-description: "ミンジ 東京vlog（2023年12月26日公開）日本初ラーメンで紹介されたramen「俺流塩らーめん 新宿東南口店」（東京都新宿区）。食べログ3.12点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "ミンジ 東京vlog（2023年12月26日公開）日本初ラーメンで紹介されたramen「俺流塩らーめん 新宿東南口店」（東京都新宿区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-a1e2e51b-"
 name: "俺流塩らーめん 新宿東南口店"
 genre: "ramen"
@@ -17,7 +17,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340
 business_hours: "11:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6921592
 lng: 139.7006065
-tabelog_score: 3.12
 members:
   - "ミンジ"
 groups:

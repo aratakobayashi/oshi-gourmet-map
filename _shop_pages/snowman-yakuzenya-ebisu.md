@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。食べログ3.4点、￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "washoku"
@@ -22,7 +22,6 @@ seating_note: "SnowManの4人が座ったお席は、レジとトイレの間に
 business_hours: "月・火・水・木・金・土・祝前日・祝後日 11:00 - 16:00 L.O. 15:30 17:00 - 22:00 L.O. 21:00 日・祝日 定休日 ■ 営業時間11:00~22:00※ラストオーダー21:00※16:00~17:00の間は一時お店をクローズします。(L.O. 15:30)祝日のある週は変動がある場合があります。詳しくはInstagramもしくはお店へお問い合わせください。"
 lat: 35.6469
 lng: 139.7139
-tabelog_score: 3.4
 members:
   - "岩本照"
   - "深澤辰哉"

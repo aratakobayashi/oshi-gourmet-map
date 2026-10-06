@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大新園"
-description: "westが訪れたchuka「大新園」（神奈川県）。食べログ3.46点、￥3,000～￥3,999。推し活グルメ巡礼スポット。"
+description: "westが訪れたchuka「大新園」（神奈川県）。￥3,000～￥3,999。推し活グルメ巡礼スポット。"
 shop_id: "cdeb9df5"
 name: "大新園"
 genre: "chuka"
@@ -16,7 +16,6 @@ source_type: "tv"
 business_hours: "火・水・木・金 11:00 - 15:00 17:00 - 21:30 L.O. 20:30 土・日・祝日 11:00 - 21:30 L.O. 20:30 月 定休日 ■ 定休日月曜(祝日の場合は翌日休、1月1日休) 臨時休業有り"
 lat: 35.442293938024356
 lng: 139.6469802808929
-tabelog_score: 3.46
 members:
   - "小瀧望"
 groups:

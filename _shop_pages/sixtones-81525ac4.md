@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「貝作」"
-description: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?（2025/04/04配信回）で紹介されたramen「貝作」（神奈川県藤沢市）。食べログ3.46点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?（2025/04/04配信回）で紹介されたramen「貝作」（神奈川県藤沢市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-81525ac4-"
 name: "貝作"
 genre: "ramen"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337
 business_hours: "月・火・水・木・金 11:00 - 19:00 土・日 10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.3000475
 lng: 139.4822889
-tabelog_score: 3.46
 members:
   - "ジェシー"
   - "京本大我"

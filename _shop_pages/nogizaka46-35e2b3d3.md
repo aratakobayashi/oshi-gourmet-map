@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ビフテキのカワムラ三宮本店」"
-description: "シンクロニシティ特典映像で紹介されたothers「ビフテキのカワムラ三宮本店」（兵庫県神戸市）。食べログ3.58点、￥10,000～￥14,999。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたothers「ビフテキのカワムラ三宮本店」（兵庫県神戸市）。￥10,000～￥14,999。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-35e2b3d3-"
 name: "ビフテキのカワムラ三宮本店"
 genre: "others"
@@ -16,7 +16,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/633
 business_hours: "火・水・木・金・土・日 11:30 - 15:30 L.O. 14:30 17:00 - 22:00 L.O. 21:00 月 定休日 ■ 定休日月曜日(祝祭日の場合、翌火曜日が店休日)"
 lat: 34.695127
 lng: 135.1937319
-tabelog_score: 3.58
 groups:
   - "nogizaka46"
 ---

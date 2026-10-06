@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「AS CLASSICS DINER（エーエス クラシックス ダイナー）」"
-description: "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？で紹介されたothers「AS CLASSICS DINER（エーエス クラシックス ダイナー）」（東京都目黒区）。食べログ3.59点、￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？で紹介されたothers「AS CLASSICS DINER（エーエス クラシックス ダイナー）」（東京都目黒区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-as_classics_diner-"
 name: "AS CLASSICS DINER（エーエス クラシックス ダイナー）"
 genre: "others"
@@ -19,7 +19,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/331
 business_hours: "月・水・木・金・土・日 11:00 - 21:00 L.O. 20:00 火 定休日 ■ 定休日火曜日が祝日となる場合は営業。翌水曜日が振替休日"
 lat: 35.6203425
 lng: 139.6690718
-tabelog_score: 3.59
 members:
   - "ジェシー"
   - "京本大我"

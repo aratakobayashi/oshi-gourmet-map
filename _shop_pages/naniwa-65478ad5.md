@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「新世界市場」"
-description: "なにわ男子のどっち派で紹介されたcafe「新世界市場」（大阪府大阪市）。食べログ3.44点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたcafe「新世界市場」（大阪府大阪市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-65478ad5-"
 name: "新世界市場"
 genre: "cafe"
@@ -18,7 +18,6 @@ thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185
 business_hours: "11:30 - 22:00 L.O. 21:30 ■ 営業時間ランチ11:30～14:0020時以降のご予約を希望の場合は電話にてご連絡ください。■ 定休日年中無休"
 lat: 34.6532201
 lng: 135.5066201
-tabelog_score: 3.44
 members:
   - "大西流星"
 groups:

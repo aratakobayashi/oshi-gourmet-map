@@ -103,9 +103,6 @@ def generate_description(shop):
             parts.append(f'ドラマ「{title}」に登場。')
         elif label:
             parts.append(f'{label}の聖地スポット。')
-        score = shop.get('tabelog_score')
-        if score and float(score) > 0:
-            parts.append(f'食べログ{score}点。')
         result = ''.join(parts)
         if existing and existing not in result:
             combined = result + existing
@@ -148,11 +145,6 @@ def generate_description(shop):
             if clean_title:
                 short = clean_title[:25] + ('…' if len(clean_title) > 25 else '')
                 parts.append(f'「{short}」に登場。')
-
-    # ⑤ 食べログスコア
-    score = shop.get('tabelog_score')
-    if score and float(score) > 0:
-        parts.append(f'食べログ{score}点。')
 
     # ⑥ 特徴的なタグ（食べ物・飲み物・料理に関するものだけ抽出）
     LOCATION_SUFFIXES = ('区', '市', '町', '村', '駅', '橋', '坂', '丘', '園', '台', 'タウン', 'シティ',

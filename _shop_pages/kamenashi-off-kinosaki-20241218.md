@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「OFF KINOSAKI」"
-description: "亀梨和也のYouTubeで紹介されたshokuji「OFF KINOSAKI」（兵庫県豊岡市）。食べログ3.21点。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたshokuji「OFF KINOSAKI」（兵庫県豊岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-off_kinosaki-20241218"
 name: "OFF KINOSAKI"
 genre: "shokuji"
@@ -19,7 +19,6 @@ thumbnail_url: "https://img.youtube.com/vi/10CFRaEzqS8/hqdefault.jpg"
 business_hours: "水・木・金・土 11:00 - 16:00 18:00 - 22:00 日 10:00 - 17:00 月・火 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6250563
 lng: 134.8078659
-tabelog_score: 3.21
 members:
   - "亀梨和也"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ピクシー」"
-description: "嵐にしやがれで紹介されたothers「ピクシー」（東京都葛飾区）。食べログ3.23点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたothers「ピクシー」（東京都葛飾区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
 shop_id: "arashi-c0cd7bea-"
 name: "ピクシー"
 genre: "others"
@@ -19,7 +19,6 @@ source_type: "tv"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 07:00 - 23:00 L.O. 料理21:00 ドリンク22:00 ■ 営業時間カフェ＆バー■定休日無休"
 lat: 35.7666652
 lng: 139.8478007
-tabelog_score: 3.23
 groups:
   - "arashi"
 ---
