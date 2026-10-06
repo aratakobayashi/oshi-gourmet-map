@@ -13,7 +13,7 @@ import time
 import urllib.request
 import argparse
 
-TMDB_API_KEY = os.environ.get('TMDB_API_KEY', '4573ec6c37323f6f89002cb24c690875')
+TMDB_API_KEY = os.environ.get('TMDB_API_KEY', '')
 TMDB_BASE_IMG = 'https://image.tmdb.org/t/p/w500'
 SHOPS_PATH = 'data/shops.json'
 
@@ -40,6 +40,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true')
     args = parser.parse_args()
+    if not TMDB_API_KEY:
+        raise SystemExit('TMDB_API_KEY が未設定です。export TMDB_API_KEY=... を実行してください。')
 
     with open(SHOPS_PATH) as f:
         shops = json.load(f)
