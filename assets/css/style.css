@@ -2483,6 +2483,7 @@ body {
   .article-grid--landing { grid-template-columns: 1fr; gap: 24px; }
   .article-card--landing:nth-child(n) { transform: rotate(0); }
   .site-footer .container { flex-direction: column; text-align: center; gap: 6px; }
+  .footer-links { justify-content: center; }
 }
 @media (min-width: 600px) and (max-width: 1023px) {
   .article-grid--landing { grid-template-columns: repeat(2, 1fr); gap: 24px; }
@@ -4791,3 +4792,20 @@ body {
   font-size: 0.7rem;
   opacity: 0.7;
 }
+
+/* ── Footer links ── */
+.footer-links { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.footer-links a { font-size: 12px; color: rgba(255,246,238,.75); }
+.footer-links a:hover { color: var(--c-cream); }
+
+/* ── Static pages (about / contact / privacy / disclosure) ── */
+.static-page { max-width: 760px; padding-top: 24px; padding-bottom: 48px; }
+.static-page__title { font-size: 1.5rem; font-weight: 700; margin-bottom: 1.2em; }
+.static-page__updated { margin-top: 2em; font-size: 0.85rem; color: var(--color-text-muted); }
+.static-page__notice { padding: 12px 16px; background: #fffbeb; border-radius: 8px; }
+.post-body a.static-page__button {
+  display: inline-block; padding: 10px 20px; border-radius: 999px; border-bottom: none;
+  background: var(--color-primary); color: #fff; font-weight: 700;
+}
+.static-page .post-body table { border-collapse: collapse; }
+.static-page .post-body th, .static-page .post-body td { padding: 8px 12px; border: 1px solid var(--color-border); text-align: left; }

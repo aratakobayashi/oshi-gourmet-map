@@ -11,3 +11,5 @@ Gemfile.lock
 scripts/videos_*.json
 .env.local
 .github/workflows/pages.yml
+.bundle/
+__pycache__/

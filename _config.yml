@@ -3,6 +3,13 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
 url: "https://gourmet.oshikatsu-guide.com"
 baseurl: ""
 
+# 運営者情報（/about/ に表示）
+operator_name: "推しグルメ巡礼MAP 編集部"
+# お問い合わせフォームのURL（Googleフォーム等）。空の間は「準備中」と表示
+contact_form_url: ""
+# 参加しているアフィリエイトプログラム（/disclosure/ に表示）。提携が決まったら追記
+affiliate_programs: []
+
 # ビルド設定
 markdown: kramdown
 highlighter: rouge
