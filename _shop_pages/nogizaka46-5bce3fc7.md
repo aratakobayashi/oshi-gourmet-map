@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「イワタコーヒー店」"
-description: "21thジコチューで行こう！Type-Dで紹介されたcafe「イワタコーヒー店」（神奈川県鎌倉市）。～￥999。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介されたcafe「イワタコーヒー店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5bce3fc7-"
 name: "イワタコーヒー店"
 genre: "cafe"
@@ -9,14 +9,12 @@ prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市小町1-5-7"
 nearest_station: "鎌倉駅 徒歩2分"
-price_range: "～￥999"
 youtube_id: "7eoiyP4kaAQ"
 source_video_title: "21thジコチューで行こう！Type-D"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14002091/"
 thumbnail_url: "https://img.youtube.com/vi/7eoiyP4kaAQ/hqdefault.jpg"
 source_type: "tv"
-business_hours: "月・水・木・金・土・日 09:30 - 18:00 火 定休日 ■ 定休日第2水曜、祝日の場合は振替休あり 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.319456
 lng: 139.5490021
 members:

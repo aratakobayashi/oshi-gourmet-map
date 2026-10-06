@@ -9,13 +9,11 @@ prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区"
 nearest_station: "鷺ノ宮駅"
-price_range: "-"
 source_video_title: "孤独のグルメ Season1 第6話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132104/13011853/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/kqIy92qVBcclFg7SFxHuxxnqwO0.jpg"
 source_type: "drama"
-business_hours: "月・木・金・土・日 11:30 - 15:00 火・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7086179
 lng: 139.6629399
 members:

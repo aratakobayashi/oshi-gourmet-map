@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "washoku"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区恵比寿西1-3-5 アルス恵比寿メイクス1F"
 nearest_station: "「恵比寿駅」より徒歩2分"
-price_range: "￥4,000～￥4,999"
 visited_date: "2025-09-24"
 youtube_id: "GpPJOgdEbhE"
 source_video_title: "Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ"
@@ -19,7 +18,6 @@ tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13293862/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004049853/"
 thumbnail_url: "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
 seating_note: "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
-business_hours: "月・火・水・木・金・土・祝前日・祝後日 11:00 - 16:00 L.O. 15:30 17:00 - 22:00 L.O. 21:00 日・祝日 定休日 ■ 営業時間11:00~22:00※ラストオーダー21:00※16:00~17:00の間は一時お店をクローズします。(L.O. 15:30)祝日のある週は変動がある場合があります。詳しくはInstagramもしくはお店へお問い合わせください。"
 lat: 35.6469
 lng: 139.7139
 members:

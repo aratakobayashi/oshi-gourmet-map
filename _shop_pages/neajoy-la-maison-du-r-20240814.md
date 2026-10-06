@@ -9,13 +9,11 @@ prefecture: "愛知県"
 city: "岡崎市"
 address: "愛知県岡崎市鴨田町広元１３４"
 nearest_station: "東岡崎駅 徒歩5分"
-price_range: "-"
 visited_date: "2024-08-14"
 youtube_id: "rEJ08q9MkuE"
 group: "neajoy"
 tabelog_url: "https://tabelog.com/aichi/A2305/A230502/23088223/"
 thumbnail_url: "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
-business_hours: "月・木・金・土・日 11:00 - 18:00 L.O. 17:15 火・水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.9511
 lng: 137.1706
 members:

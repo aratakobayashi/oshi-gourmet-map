@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「龍茶 生タピオカ専門店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「龍茶 生タピオカ専門店」（神奈川県横浜市）。～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたshokuji「龍茶 生タピオカ専門店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-875bdcd7-202408"
 name: "龍茶 生タピオカ専門店"
 genre: "shokuji"
@@ -9,7 +9,6 @@ prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町１９２"
 nearest_station: "元町・中華街駅 徒歩3分"
-price_range: "～￥999"
 visited_date: "2024-08-12"
 youtube_id: "UT4dNcRffPY"
 group: "equal_love"

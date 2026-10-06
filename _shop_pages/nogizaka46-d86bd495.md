@@ -8,12 +8,10 @@ genre: "cafe"
 prefecture: "静岡県"
 city: "伊東市"
 address: "伊東市八幡野１０６４−６"
-price_range: "-"
 source_video_title: "錆びたコンパスMV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22000369/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/133066/133066830.jpg?token=55fe216&api=v2"
-business_hours: "10:00 - 17:30 L.O. 17:00 ■ 営業時間売り切れ等により閉店時間は早まる場合がございます。【定休日】年中無休"
 lat: 34.878274
 lng: 139.085521
 groups:

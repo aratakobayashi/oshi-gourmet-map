@@ -1,14 +1,13 @@
 ---
 layout: shop
 title: "TWICEが行った「東京ディズニーランド」"
-description: "TWICEで紹介されたothers「東京ディズニーランド」（千葉県浦安市）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたothers「東京ディズニーランド」（千葉県浦安市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-c1d0057e-"
 name: "東京ディズニーランド"
 genre: "others"
 prefecture: "千葉県"
 city: "浦安市"
 address: "千葉県浦安市舞浜１−１"
-price_range: "￥5,000～￥5,999"
 source_video_title: "TWICE"
 source_url: "https://oshito.online/news/17750.html"
 group: "kpop_twice"

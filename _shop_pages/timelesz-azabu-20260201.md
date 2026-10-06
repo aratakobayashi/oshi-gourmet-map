@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「AZABU 草ふえ」"
-description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたizakaya「AZABU 草ふえ」（東京都港区）。￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）で紹介されたizakaya「AZABU 草ふえ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-azabu-20260201"
 name: "AZABU 草ふえ"
 genre: "izakaya"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区西麻布2-25-13 石原ビル 2F-3F"
 nearest_station: "六本木駅 徒歩12分"
-price_range: "￥5,000～￥5,999"
 visited_date: "2026-02-01"
 source_video_title: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix配信）"
 source_url: "https://timeleszportal.com/archives/1173"

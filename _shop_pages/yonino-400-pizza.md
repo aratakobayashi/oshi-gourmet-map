@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
 genre: "shokuji"
@@ -9,13 +9,11 @@ prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区若宮町13-1 キフアネックス1F"
 nearest_station: "牛込神楽坂駅 徒歩6分"
-price_range: "￥4,000～￥4,999"
 visited_date: "2025-06-15"
 youtube_id: "AsbV0ZAiFMQ"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13294495/"
 thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
-business_hours: "月・火・水・木・金・土・日・祝日 11:00 - 18:10 ■ 定休日不定休 ※最新の営業日時は店舗公式インスタグラムをご確認ください。"
 lat: 35.699525
 lng: 139.73952
 members:

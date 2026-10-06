@@ -9,13 +9,11 @@ prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市"
 nearest_station: "白楽駅"
-price_range: "-"
 source_video_title: "孤独のグルメ Season2 第5話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140205/14002176/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jmcRYHRcf4VKx057QaB3bsR2Uwg.jpg"
 source_type: "drama"
-business_hours: "月・火・金・土・日 11:30 - 14:30 L.O. 料理14:30 17:30 - 20:00 L.O. 料理19:50 水・木 定休日"
 lat: 35.4503381
 lng: 139.6343802
 members:

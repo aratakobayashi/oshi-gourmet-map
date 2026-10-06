@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「手しおごはん 玄 新宿南口店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
 genre: "washoku"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区代々木2-23-1 ニューステイトメナー1F"
 nearest_station: "代々木駅 徒歩2分"
-price_range: "￥1,000～￥1,999"
 visited_date: "2023-09-06"
 youtube_id: "htb_epSGs_E"
 source_video_title: "#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。"
@@ -18,7 +17,6 @@ group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13248277/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001295063/"
 thumbnail_url: "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
-business_hours: "11:00 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6848
 lng: 139.702
 members:

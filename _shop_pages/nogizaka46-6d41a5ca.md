@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「利尻らーめん味楽 新横浜ラーメン博物館店」"
-description: "横浜アリーナ周辺で紹介されたramen「利尻らーめん味楽 新横浜ラーメン博物館店」（神奈川県横浜市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "横浜アリーナ周辺で紹介されたramen「利尻らーめん味楽 新横浜ラーメン博物館店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6d41a5ca-"
 name: "利尻らーめん味楽 新横浜ラーメン博物館店"
 genre: "ramen"
@@ -9,13 +9,11 @@ prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市港北区新横浜2-14-21 新横浜ラーメン博物館 B2F"
 nearest_station: "新横浜駅 徒歩4分"
-price_range: "￥1,000～￥1,999"
 source_video_title: "横浜アリーナ周辺"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
-business_hours: "月・火・水・木・金 11:00 - 21:00 L.O. 20:30 土・日・祝日 10:30 - 21:00 L.O. 20:30 休館日 年末年始(12月31日・1月1日) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.50976079877657
 lng: 139.61458058275886
 groups:

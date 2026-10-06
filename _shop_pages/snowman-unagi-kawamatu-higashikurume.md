@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。￥4,000～￥4,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "washoku"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "東久留米市"
 address: "東京都台東区浅草1丁目4-1"
 nearest_station: "「前沢十字路」バス停下車徒歩3分"
-price_range: "￥4,000～￥4,999"
 visited_date: "2024-02-07"
 youtube_id: "oEsMgH5QhFQ"
 source_video_title: "Snow Man【釣り部結成記念食事会】鰻を食べよう"
@@ -18,7 +17,6 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132802/13197749/"
 thumbnail_url: "https://img.youtube.com/vi/oEsMgH5QhFQ/hqdefault.jpg"
 seating_note: "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。"
-business_hours: "月・木・金・土・日 11:00 - 21:00 L.O. 20:40 火・水 定休日 ■ 営業時間11:00～20:30■ 定休日水曜日・火曜日"
 lat: 35.759
 lng: 139.5303
 members:

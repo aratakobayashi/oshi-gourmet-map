@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Andhra Dining GINZA」"
-description: "King&Princeる。当たり前レストランで紹介されたizakaya「Andhra Dining GINZA」（東京都中央区）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたizakaya「Andhra Dining GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-andhra_dining_ginza-20221022"
 name: "Andhra Dining GINZA"
 genre: "izakaya"
@@ -9,14 +9,12 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座1-8-2 銀座プルミエビル２Ｆ"
 nearest_station: "銀座一丁目駅 徒歩3分"
-price_range: "￥2,000～￥2,999"
 visited_date: "2022-10-22"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13136701/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
-business_hours: "月・火・水・木・金 11:15 - 15:00 L.O. 14:30 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00 ■定休日無休"
 lat: 35.6745331187211
 lng: 139.76903003431494
 members:

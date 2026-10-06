@@ -1,20 +1,18 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カヤシマ」"
-description: "孤独のグルメ Season1 第7話で紹介されたshokuji「カヤシマ」（東京都）。～￥999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第7話で紹介されたshokuji「カヤシマ」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"
 genre: "shokuji"
 prefecture: "東京都"
 address: "東京都吉祥寺"
 nearest_station: "吉祥寺駅"
-price_range: "～￥999"
 source_video_title: "孤独のグルメ Season1 第7話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13040521/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/kAVeBCDWktOaD009SiRUQCKuX57.jpg"
 source_type: "drama"
-business_hours: "11:00 - 23:00 第3水曜定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7022261
 lng: 139.5804032
 members:

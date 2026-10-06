@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「café recette 鎌倉(カフェ ルセット)」"
-description: "21thジコチューで行こう！Type-Dで紹介されたcafe「café recette 鎌倉(カフェ ルセット)」（神奈川県鎌倉市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介されたcafe「café recette 鎌倉(カフェ ルセット)」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cafe_recette-"
 name: "café recette 鎌倉(カフェ ルセット)"
 genre: "cafe"
@@ -9,14 +9,12 @@ prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市坂ノ下22-5"
 nearest_station: "長谷駅 徒歩6分"
-price_range: "￥1,000～￥1,999"
 youtube_id: "7eoiyP4kaAQ"
 source_video_title: "21thジコチューで行こう！Type-D"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14053495/"
 thumbnail_url: "https://img.youtube.com/vi/7eoiyP4kaAQ/hqdefault.jpg"
 source_type: "tv"
-business_hours: "月・水・木・金 09:30 - 17:00 L.O. 16:00 土・日・祝日 08:30 - 17:00 L.O. 16:00 火 定休日 ■ 営業時間ご予約が×の日はお電話にてご相談または公式HPよりご予約ください"
 lat: 35.3086712
 lng: 139.5331753
 members:

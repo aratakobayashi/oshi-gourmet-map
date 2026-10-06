@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「きっちん大浪」"
-description: "孤独のグルメ Season10 第24話で紹介されたwashoku「きっちん大浪」（東京都武蔵野市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介されたwashoku「きっちん大浪」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1e23c393-"
 name: "きっちん大浪"
 genre: "washoku"
@@ -9,13 +9,11 @@ prefecture: "東京都"
 city: "武蔵野市"
 address: "東京都武蔵野市"
 nearest_station: "吉祥寺駅"
-price_range: "￥1,000～￥1,999"
 source_video_title: "孤独のグルメ Season10 第24話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13198969/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
-business_hours: "18:00 - 00:00 L.O. 23:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7177239
 lng: 139.5659802
 members:

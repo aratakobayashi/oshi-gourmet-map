@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「マリオンクレープ 東京タワー店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたcafe「マリオンクレープ 東京タワー店」（東京都港区）。～￥999。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたcafe「マリオンクレープ 東京タワー店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-719c6f08-"
 name: "マリオンクレープ 東京タワー店"
 genre: "cafe"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "港区"
 address: "〒105-0011 東京都港区芝公園4丁目2−8　※東京タワー 1F"
 nearest_station: "芝公園駅 徒歩5分"
-price_range: "～￥999"
 visited_date: "2025-09-02"
 source_video_title: "タイムレスマン「アーユーハングリーマン」"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/"

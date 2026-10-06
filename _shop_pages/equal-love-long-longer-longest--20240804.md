@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「LONG! LONGER!! LONGEST!!! 原宿本店」"
-description: "=LOVEのYouTubeで紹介されたsweets「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。～￥999。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたsweets「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-long_longer_longest_-20240804"
 name: "LONG! LONGER!! LONGEST!!! 原宿本店"
 genre: "sweets"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前１丁目７−１ CUTE CUBE HARAJUKU １F"
 nearest_station: "明治神宮前〈原宿〉駅 徒歩5分"
-price_range: "～￥999"
 visited_date: "2024-08-04"
 youtube_id: "JCPvDX7y3-k"
 group: "equal_love"

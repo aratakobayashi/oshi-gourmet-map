@@ -8,13 +8,11 @@ genre: "others"
 prefecture: "広島県"
 city: "尾道市"
 address: "広島県尾道市十四日元町4番2号"
-price_range: "-"
 source_video_title: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？"
 source_url: "https://kosodate-and.net/numberi-hassaku-remon"
 group: "numberi"
 tabelog_url: "https://tabelog.com/hiroshima/A3406/A340302/34022921/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296775/5b6aad80ff67cd5f90d2037630ec6378.jpg?token=ccec6de&api=v2"
-business_hours: "10:00 - 18:00 ■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.4096178
 lng: 133.20241
 members:

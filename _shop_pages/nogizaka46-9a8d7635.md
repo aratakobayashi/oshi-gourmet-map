@@ -8,12 +8,10 @@ genre: "others"
 prefecture: "栃木県"
 city: "足利市"
 address: "足利市家富町2247"
-price_range: "-"
 source_video_title: "おいでシャンプー　白石個人PV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9006270/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355654/04c270f0f70dd50121c504ce3c7474c0.jpg?token=fe84c9c&api=v2"
-business_hours: "月・木・金・土・日 11:30 - 18:00 火・水 定休日 ■ 営業時間18時以降は予約のみとさせていただきます。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9929246
 lng: 139.7577434
 groups:

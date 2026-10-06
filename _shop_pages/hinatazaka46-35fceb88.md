@@ -7,12 +7,10 @@ name: "ザクリ珈琲"
 genre: "cafe"
 prefecture: "東京都"
 nearest_station: "阿佐ケ谷駅 徒歩8分"
-price_range: "-"
 source_video_title: "日向の休日"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13202814/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/70954/70954571.jpg?token=56b0b46&api=v2"
-business_hours: "■ 営業時間.■ 定休日."
 lat: 35.70922484865628
 lng: 139.6346495947596
 members:

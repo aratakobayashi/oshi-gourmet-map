@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「スパゲッティーのパンチョ」"
-description: "2015.11.14/11.21 大盛りグルメ特集で紹介されたshokuji「スパゲッティーのパンチョ」（東京都渋谷区）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "2015.11.14/11.21 大盛りグルメ特集で紹介されたshokuji「スパゲッティーのパンチョ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-2c7fa4f5-20151114"
 name: "スパゲッティーのパンチョ"
 genre: "shokuji"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区道玄坂2-6-2 B1"
 nearest_station: "渋谷駅 徒歩2分"
-price_range: "￥1,000～￥1,999"
 visited_date: "2015-11-14"
 source_video_title: "2015.11.14/11.21 大盛りグルメ特集"
 group: "heysayjump"
@@ -17,7 +16,6 @@ tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13283525/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000797448/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
-business_hours: "11:00 - 23:00 L.O. 22:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6589015
 lng: 139.6975367
 members:

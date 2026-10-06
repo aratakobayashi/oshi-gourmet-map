@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
-description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。￥1,000～￥1,999。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
 genre: "izakaya"
@@ -9,14 +9,12 @@ prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区野毛町4-173 天悦ビル 101"
 nearest_station: "桜木町駅 徒歩5分"
-price_range: "￥1,000～￥1,999"
 visited_date: "2019-05-18"
 source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14004143/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/242124/d8d850aa3f1b3640b3e64dcc9332d186.jpg?token=c9b81b6&api=v2"
 source_type: "tv"
-business_hours: "火・水・木 11:00 - 14:30 土・日・祝日 11:00 - 20:00 月・金 定休日 ■ 営業時間[土・日・祝(月曜を含む)]11:00～20:00(L.O)■ 定休日月曜祝日の場合は翌火曜日"
 lat: 35.447633
 lng: 139.628719
 members:

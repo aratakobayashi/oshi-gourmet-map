@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「粥菜坊」"
-description: "孤独のグルメ Season10 第10話で紹介されたshokuji「粥菜坊」（神奈川県川崎市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第10話で紹介されたshokuji「粥菜坊」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2fa4ed63-"
 name: "粥菜坊"
 genre: "shokuji"
@@ -9,13 +9,11 @@ prefecture: "神奈川県"
 city: "川崎市"
 address: "神奈川県川崎市"
 nearest_station: "武蔵小杉駅"
-price_range: "￥2,000～￥2,999"
 source_video_title: "孤独のグルメ Season10 第10話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140504/14009596/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pUiSQGSIDNyEoHxFNPTofS9Cv4k.jpg"
 source_type: "drama"
-business_hours: "火・水・金 11:30 - 14:00 L.O. 料理13:00 18:00 - 21:00 L.O. 料理20:00 土・日・祝日 11:30 - 15:00 L.O. 料理14:00 17:00 - 21:00 L.O. 料理20:00 月・木 定休日 臨時休業が多いため、ご来店前にお電話、あるいはホームページの新着情報で開店してるかどうかをお確かめください。"
 lat: 35.5306639
 lng: 139.7037668
 members:

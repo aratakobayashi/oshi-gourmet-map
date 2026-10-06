@@ -8,14 +8,12 @@ genre: "shokuji"
 prefecture: "埼玉県"
 city: "川越市"
 address: "埼玉県川越市"
-price_range: "-"
 visited_date: "2018-11-24"
 source_video_title: "2018.11.24 川越特集後編"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11040808/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
-business_hours: "■ 営業時間9:30～売切次第終了■定休日無休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.9251145
 lng: 139.4856927
 members:

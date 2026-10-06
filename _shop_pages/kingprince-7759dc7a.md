@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ラビスタ東京ベイ」"
-description: "ヒルナンデス【岸優太ロケ地】豊洲のホテルは？岸優太が飲んだノンアルカクテルは？で紹介されたothers「ラビスタ東京ベイ」（東京都江東区）。￥8,000～￥9,999。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス【岸優太ロケ地】豊洲のホテルは？岸優太が飲んだノンアルカクテルは？で紹介されたothers「ラビスタ東京ベイ」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7759dc7a-"
 name: "ラビスタ東京ベイ"
 genre: "others"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区豊洲6-4-40"
 nearest_station: "新豊洲駅 徒歩5分"
-price_range: "￥8,000～￥9,999"
 source_video_title: "ヒルナンデス【岸優太ロケ地】豊洲のホテルは？岸優太が飲んだノンアルカクテルは？"
 source_url: "https://kosodate-and.net/hirunan-kishi-hotel-cocktail"
 group: "kingprince"

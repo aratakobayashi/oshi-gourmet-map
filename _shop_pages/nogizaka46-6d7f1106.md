@@ -1,21 +1,18 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ちばチャン 海浜幕張店」"
-description: "幕張メッセ周辺で紹介されたyakiniku「ちばチャン 海浜幕張店」（千葉県千葉市）。￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "幕張メッセ周辺で紹介されたyakiniku「ちばチャン 海浜幕張店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6d7f1106-"
 name: "ちばチャン 海浜幕張店"
 genre: "yakiniku"
 prefecture: "千葉県"
 city: "千葉市"
 address: "千葉県千葉市美浜区中瀬1-3 幕張テクノガーデン 1F"
-nearest_station: "JR 京葉線 海浜幕張駅 徒歩2分"
-price_range: "￥2,000～￥2,999"
 source_video_title: "幕張メッセ周辺"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
-business_hours: "16:00 - 23:00 L.O. 22:30"
 lat: 35.65070793801761
 lng: 140.04139338272162
 groups:

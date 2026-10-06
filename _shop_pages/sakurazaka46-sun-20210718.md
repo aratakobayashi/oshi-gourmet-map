@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区駒形2-1-8 初音ビル 1F"
 nearest_station: "蔵前駅 徒歩3分"
-price_range: "-"
 visited_date: "2021-07-18"
 source_video_title: "そこ曲がったら、櫻坂？"
 source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
@@ -17,7 +16,6 @@ group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131103/13259445/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/163708/7e73771da2d9d46d7e924e6093a67311.jpg?token=6c65015&api=v2"
 source_type: "tv"
-business_hours: "火・水・木・金・土・日 11:30 - 18:00 月 定休日 ■ 定休日火曜日(隔週) 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.705689537904135
 lng: 139.79476138344984
 members:
