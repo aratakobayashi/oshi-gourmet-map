@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「elk エルク 心斎橋店」"
-description: "MAMA 2022 楽屋・大阪滞在で紹介されたcafe「elk エルク 心斎橋店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "MAMA 2022 楽屋・大阪滞在で紹介されたカフェ「elk エルク 心斎橋店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-elk-"
 name: "elk エルク 心斎橋店"
 genre: "cafe"

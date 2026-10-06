@@ -1,6 +1,6 @@
 ---
-title: "よにのちゃんねるが行ったyakiniku7選"
-description: "よにのちゃんねるのメンバーが実際に訪れたyakinikuスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行った焼肉7選"
+description: "よにのちゃんねるのメンバーが実際に訪れた焼肉スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
 genre: yakiniku
 group_label: "よにのちゃんねる"

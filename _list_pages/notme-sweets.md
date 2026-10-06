@@ -1,6 +1,6 @@
 ---
-title: "≠MEが行ったsweets8選"
-description: "≠MEのメンバーが実際に訪れたsweetsスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "≠MEが行ったスイーツ8選"
+description: "≠MEのメンバーが実際に訪れたスイーツスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: notme
 genre: sweets
 group_label: "≠ME"

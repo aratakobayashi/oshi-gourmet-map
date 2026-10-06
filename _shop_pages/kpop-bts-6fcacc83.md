@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「クムテジ食堂」"
-description: "BTS 行きつけサムギョプサル店で紹介されたyakiniku「クムテジ食堂」（韓国）。推し活グルメ巡礼スポット。"
+description: "BTS 行きつけサムギョプサル店で紹介された焼肉「クムテジ食堂」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-6fcacc83-"
 name: "クムテジ食堂"
 genre: "yakiniku"

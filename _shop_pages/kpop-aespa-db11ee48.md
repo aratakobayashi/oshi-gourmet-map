@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「たこ焼きしばいたろか!!」"
-description: "aespa 大阪訪問（アメ村）で紹介されたshokuji「たこ焼きしばいたろか!!」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "aespa 大阪訪問（アメ村）で紹介された食事「たこ焼きしばいたろか!!」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-db11ee48-"
 name: "たこ焼きしばいたろか!!"
 genre: "shokuji"

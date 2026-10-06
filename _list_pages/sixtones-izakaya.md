@@ -1,6 +1,6 @@
 ---
-title: "SixTONESが行ったizakaya6選"
-description: "SixTONESのメンバーが実際に訪れたizakayaスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行った居酒屋6選"
+description: "SixTONESのメンバーが実際に訪れた居酒屋スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: izakaya
 group_label: "SixTONES"
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya
-  - arashi-izakaya
+  - kingprince-izakaya
 ---

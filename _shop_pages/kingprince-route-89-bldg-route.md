@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ROUTE 89 BLDG. / ROUTE COMMON」"
-description: "HARUKA 記憶の中のあなたへ【永瀬廉ロケ地】工房・屋上・ベランダはどこ？『STARRING』Darlingで紹介されたothers「ROUTE 89 BLDG. / ROUTE COMMON」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "HARUKA 記憶の中のあなたへ【永瀬廉ロケ地】工房・屋上・ベランダはどこ？『STARRING』Darlingで紹介されたその他「ROUTE 89 BLDG. / ROUTE COMMON」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-route_89_bldg_route-"
 name: "ROUTE 89 BLDG. / ROUTE COMMON"
 genre: "others"

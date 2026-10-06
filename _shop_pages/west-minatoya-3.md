@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Minatoya 3"
-description: "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇で紹介されたshokuji「Minatoya 3」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-06-27 立ち食いそば1900店制覇で紹介された食事「Minatoya 3」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "west-minatoya_3-"
 name: "Minatoya 3"
 genre: "shokuji"

@@ -1,0 +1,11 @@
+{
+  "shokuji":  { "label": "食事",     "icon": "🍽️" },
+  "washoku":  { "label": "和食",     "icon": "🍱" },
+  "cafe":     { "label": "カフェ",   "icon": "☕" },
+  "ramen":    { "label": "ラーメン", "icon": "🍜" },
+  "sweets":   { "label": "スイーツ", "icon": "🍰" },
+  "izakaya":  { "label": "居酒屋",   "icon": "🍺" },
+  "yakiniku": { "label": "焼肉",     "icon": "🥩" },
+  "chuka":    { "label": "中華",     "icon": "🥟" },
+  "others":   { "label": "その他",   "icon": "🍴" }
+}

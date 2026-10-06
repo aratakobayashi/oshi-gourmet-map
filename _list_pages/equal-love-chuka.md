@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったchuka6選"
-description: "=LOVEのメンバーが実際に訪れたchukaスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行った中華6選"
+description: "=LOVEのメンバーが実際に訪れた中華スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: chuka
 group_label: "=LOVE"

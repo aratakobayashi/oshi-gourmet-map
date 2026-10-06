@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「ひるがお お台場店」"
-description: "SKZ VLOG「Felix : Sunshine Vlog 6」で紹介されたramen「ひるがお お台場店」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Felix : Sunshine Vlog 6」で紹介されたラーメン「ひるがお お台場店」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-0c456bcf-"
 name: "ひるがお お台場店"
 genre: "ramen"

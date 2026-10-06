@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Onigily Cafe」"
-description: "なにわ男子のどっち派で紹介されたcafe「Onigily Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたカフェ「Onigily Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-onigily_cafe-"
 name: "Onigily Cafe"
 genre: "cafe"

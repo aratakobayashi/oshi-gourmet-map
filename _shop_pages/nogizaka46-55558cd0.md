@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「京越 嵐山店」"
-description: "乃木坂配信中で紹介されたothers「京越 嵐山店」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中で紹介されたその他「京越 嵐山店」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-55558cd0-"
 name: "京越 嵐山店"
 genre: "others"

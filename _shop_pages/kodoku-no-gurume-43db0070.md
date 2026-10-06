@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「長白小館」"
-description: "孤独のグルメ Season10 第2023話で紹介されたwashoku「長白小館」（台湾台北市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介された和食「長白小館」（台湾台北市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-43db0070-"
 name: "長白小館"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Silver Lake Club + Tea シルバーレイククラブ プラスティー」"
-description: "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？で紹介されたizakaya「Silver Lake Club + Tea シルバーレイククラブ プラスティー」（山梨県南アルプス市）。推し活グルメ巡礼スポット。"
+description: "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？で紹介された居酒屋「Silver Lake Club + Tea シルバーレイククラブ プラスティー」（山梨県南アルプス市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-silver_lake_club_tea-"
 name: "Silver Lake Club + Tea シルバーレイククラブ プラスティー"
 genre: "izakaya"

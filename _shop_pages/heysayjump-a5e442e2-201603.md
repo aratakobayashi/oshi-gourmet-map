@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「赤ちり亭 渋谷本店」"
-description: "2016.03.03で紹介されたshokuji「赤ちり亭 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "2016.03.03で紹介された食事「赤ちり亭 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-a5e442e2-201603"
 name: "赤ちり亭 渋谷本店"
 genre: "shokuji"

@@ -108,7 +108,7 @@ faq:
 
 ## SixTONES・King & Prince：東京カフェ名店
 
-SixTONESは**「Café 1894」**（千代田区・三菱一号館美術館内）のような格式ある名店が印象的。King & Princeは渋谷の**「ブーランジェリー＆カフェ マンマーノ」**（食べログ3.77）と浅草の**「珈琲 王城」**（3.64）という高評価店が揃う。
+SixTONESは**「Café 1894」**（千代田区・三菱一号館美術館内）のような格式ある名店が印象的。King & Princeは渋谷の**「ブーランジェリー＆カフェ マンマーノ」**と浅草の**「珈琲 王城」**という人気店が揃う。
 
 <div class="inline-shop-grid" data-shop-ids="sixtones-cafe1894-marunouchi,sixtones-lacocorico-akarenga,sixtones-horaibashi-chaya,kingprince-9ca66867-20220618,kingprince-6ee5087d-20221203,kingprince-racines_donut_ice_cr-20221015"></div>
 
@@ -120,7 +120,7 @@ SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全ま�
 
 ## なにわ男子・Snow Man：渋谷〜江東区のカフェ
 
-なにわ男子は**「TruffleBAKERY」**（江東区・食べログ3.5）と**「MUUN seoul」**（渋谷区）が代表格。Snow Manは**「mipig cafe 目黒店」**（ミニブタカフェ）や埼玉・秩父の**「カフェ 武甲庵」**など、王道とユニークを使い分けるセレクトが特徴だ。
+なにわ男子は**「TruffleBAKERY」**（江東区）と**「MUUN seoul」**（渋谷区）が代表格。Snow Manは**「mipig cafe 目黒店」**（ミニブタカフェ）や埼玉・秩父の**「カフェ 武甲庵」**など、王道とユニークを使い分けるセレクトが特徴だ。
 
 <div class="inline-shop-grid" data-shop-ids="naniwa-trufflebakery-20211001,naniwa-muun_seoul-20201023,naniwa-pst-20210820,naniwa-le_bresso-202110,snowman-mipig-cafe-meguro,snowman-d1966575-20251119"></div>
 
@@ -158,7 +158,7 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 ## 推し活グルメ別ガイド
 
-> **「推しが食べたラーメンを制覇したい」** → [アイドル・芸能人が行ったラーメン聖地巡礼まとめ【82選】](/articles/2026/05/25/idol-ramen-matome/)
+> **「推しが食べたラーメンを制覇したい」** → [アイドル・芸能人が行ったラーメン聖地巡礼まとめ【82選】](/articles/2026/05/27/idol-ramen-matome/)
 >
 > **「推しと同じ焼肉・ステーキを楽しみたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【53選】](/articles/2026/05/27/idol-yakiniku-matome/)
 >

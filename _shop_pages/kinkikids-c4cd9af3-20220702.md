@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "赤坂おんがね"
-description: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼で紹介されたshokuji「赤坂おんがね」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼で紹介された食事「赤坂おんがね」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-c4cd9af3-20220702"
 name: "赤坂おんがね"
 genre: "shokuji"

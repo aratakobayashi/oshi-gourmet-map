@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鼎泰豊（ディンタイフォン）東京ソラマチ店」"
-description: "SixTONESのYouTubeで紹介されたchuka「鼎泰豊（ディンタイフォン）東京ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された中華「鼎泰豊（ディンタイフォン）東京ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-dintaifung-soramachi"
 name: "鼎泰豊（ディンタイフォン）東京ソラマチ店"
 genre: "chuka"
@@ -14,6 +14,7 @@ youtube_id: "fflp-PypyQg"
 source_video_title: "SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会"
 source_video_url: "https://www.youtube.com/watch?v=fflp-PypyQg"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13148597/"
 thumbnail_url: "https://img.youtube.com/vi/fflp-PypyQg/hqdefault.jpg"
 lat: 35.710628
 lng: 139.814263
@@ -32,7 +33,4 @@ tags:
   - "台湾料理"
   - "東京ソラマチ"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13148597/"
 ---

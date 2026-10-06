@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「シェイクシャック 外苑いちょう並木」"
-description: "明治神宮野球場周辺で紹介されたcafe「シェイクシャック 外苑いちょう並木」（東京都港区）。食べログ3.45点、￥2,000～￥2,999。推し活グルメ巡礼スポット。"
+description: "明治神宮野球場周辺で紹介されたカフェ「シェイクシャック 外苑いちょう並木」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9d97e3e3-"
 name: "シェイクシャック 外苑いちょう並木"
 genre: "cafe"
@@ -9,19 +9,13 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山2-1-15"
 nearest_station: "外苑前駅 徒歩6分"
-price_range: "￥2,000～￥2,999"
 source_video_title: "明治神宮野球場周辺"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13189009/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
-business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 21:00 L.O. 20:30 ※年末年始、祝日や大型連休、天候などによって予告なく営業時間が変更に なる場合がございます。詳細はHPをご確認ください。■定休日なし"
 lat: 35.673357188706184
 lng: 139.71986106433752
-tabelog_score: 3.45
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130603/13189009/"
 ---

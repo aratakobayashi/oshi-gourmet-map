@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「蓬莱橋897.4茶屋」"
-description: "SixTONESのYouTubeで紹介されたcafe「蓬莱橋897.4茶屋」（静岡県島田市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたカフェ「蓬莱橋897.4茶屋」（静岡県島田市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-horaibashi-chaya"
 name: "蓬莱橋897.4茶屋"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「碧帝カルビ 芳荑店」"
-description: "RACHA LOG Ep.02で紹介されたyakiniku「碧帝カルビ 芳荑店」（韓国）。推し活グルメ巡礼スポット。"
+description: "RACHA LOG Ep.02で紹介された焼肉「碧帝カルビ 芳荑店」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-e68cbd27-"
 name: "碧帝カルビ 芳荑店"
 genre: "yakiniku"

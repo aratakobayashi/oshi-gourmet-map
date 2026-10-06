@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「鉄板焼き 玄 KURO」"
-description: "自撮りTVで紹介されたyakiniku「鉄板焼き 玄 KURO」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "自撮りTVで紹介された焼肉「鉄板焼き 玄 KURO」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-kuro-"
 name: "鉄板焼き 玄 KURO"
 genre: "yakiniku"

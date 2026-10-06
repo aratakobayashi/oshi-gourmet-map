@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Tian Tian Hainanese Chicken Rice」"
-description: "SixTONESのYouTubeで紹介されたshokuji「Tian Tian Hainanese Chicken Rice」（シンガポールMaxwell）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された食事「Tian Tian Hainanese Chicken Rice」（シンガポールMaxwell）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-tiantianhainanesechickenrice"
 name: "Tian Tian Hainanese Chicken Rice"
 genre: "shokuji"

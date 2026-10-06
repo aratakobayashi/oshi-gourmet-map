@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ブランチ ヒロノヤ」"
-description: "ベストアルバムポスター貼りで紹介されたothers「ブランチ ヒロノヤ」（岐阜県大垣市）。推し活グルメ巡礼スポット。"
+description: "ベストアルバムポスター貼りで紹介されたその他「ブランチ ヒロノヤ」（岐阜県大垣市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-afdf89d9-"
 name: "ブランチ ヒロノヤ"
 genre: "others"

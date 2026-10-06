@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「薩摩ッ子ラーメン 東天満総本店」"
-description: "J-Hope Instagram / Jin来店（2025年）で紹介されたramen「薩摩ッ子ラーメン 東天満総本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "J-Hope Instagram / Jin来店（2025年）で紹介されたラーメン「薩摩ッ子ラーメン 東天満総本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-1bc779c4-"
 name: "薩摩ッ子ラーメン 東天満総本店"
 genre: "ramen"

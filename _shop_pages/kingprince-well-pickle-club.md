@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Well Pickle Club」"
-description: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地で紹介されたothers「Well Pickle Club」（東京都葛飾区）。推し活グルメ巡礼スポット。"
+description: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地で紹介されたその他「Well Pickle Club」（東京都葛飾区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-well_pickle_club-"
 name: "Well Pickle Club"
 genre: "others"

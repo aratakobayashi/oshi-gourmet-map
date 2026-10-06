@@ -1,6 +1,6 @@
 ---
-title: "なにわ男子が行ったizakaya10選"
-description: "なにわ男子のメンバーが実際に訪れたizakayaスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子が行った居酒屋10選"
+description: "なにわ男子のメンバーが実際に訪れた居酒屋スポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
 genre: izakaya
 group_label: "なにわ男子"
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya
-  - arashi-izakaya
+  - kingprince-izakaya
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「総本家更科堀井 本店」"
-description: "Snow ManのYouTubeで紹介されたwashoku「総本家更科堀井 本店」（東京都港区）。食べログ3.65点、￥5,000～￥5,999。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「総本家更科堀井 本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "washoku"
@@ -9,7 +9,6 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区元麻布3丁目11-4"
 nearest_station: "「六本木駅」（3番出口）より徒歩10分「麻布十番駅」（4番出口）より徒歩7分"
-price_range: "￥5,000～￥5,999"
 visited_date: "2025-03-12"
 youtube_id: "Ax1f_OVispA"
 source_video_title: "Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる"
@@ -18,10 +17,8 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13001226/"
 thumbnail_url: "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg"
 seating_note: "小上がりのお席に座っていました。 富士山の絵が目印です。"
-business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 20:00 土・日・祝日 11:00 - 20:00 ■ 定休日1月1日、2日、3日営業時間が変更になる場合がございますので、詳細は店舗までお問い合わせください。"
 lat: 35.6544
 lng: 139.7336
-tabelog_score: 3.65
 members:
   - "岩本照"
   - "深澤辰哉"
@@ -43,7 +40,4 @@ ordered_items:
   - "{'name': '旬菜ぬか漬け（深澤辰哉）'}"
   - "{'name': '十割そば(太打ち)鴨せいろ(大盛)（佐久間大介）'}"
   - "{'name': '焼き蕎麦味噌（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130702/13001226/"
 ---

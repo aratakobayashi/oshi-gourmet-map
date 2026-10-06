@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「All About My Croquette」"
-description: "めざましテレビ 2017.05.25で紹介されたshokuji「All About My Croquette」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.05.25で紹介された食事「All About My Croquette」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-all_about_my_croquet-"
 name: "All About My Croquette"
 genre: "shokuji"

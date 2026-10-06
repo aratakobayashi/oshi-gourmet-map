@@ -8,6 +8,8 @@ import json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOPS_JSON = os.path.join(ROOT, "data", "shops.json")
 OUT_DIR = os.path.join(ROOT, "_shop_pages")
+with open(os.path.join(ROOT, "_data", "genres.json"), encoding="utf-8") as _f:
+    GENRE_LABELS = {k: v["label"] for k, v in json.load(_f).items()}  # 表示名の正: _data/genres.json
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -31,10 +33,9 @@ GROUP_LABELS_MAP = {
 
 def build_seo_description(shop):
     name       = shop.get('name', '')
-    genre      = shop.get('genre', '')
+    genre      = GENRE_LABELS.get(shop.get('genre', ''), shop.get('genre', ''))
     prefecture = shop.get('prefecture', '')
     city       = shop.get('city', '')
-    score      = shop.get('tabelog_score')
     price      = shop.get('price_range', '')
     source_vid = shop.get('source_video_title', '')
     group      = shop.get('group', '')
@@ -63,10 +64,8 @@ def build_seo_description(shop):
     if location:
         core += f'（{location}）'
 
-    # Details: score, price
+    # Details: price
     details = []
-    if score:
-        details.append(f'食べログ{score}点')
     if price and price != '-':
         details.append(price)
     detail_str = '、'.join(details)
@@ -137,7 +136,7 @@ for shop in shops:
             lines.append(f"{key}: {yaml_str(v)}")
 
     # numeric fields
-    for key in ["lat","lng","tabelog_score"]:
+    for key in ["lat","lng"]:
         v = shop.get(key)
         if v is not None:
             lines.append(f"{key}: {v}")

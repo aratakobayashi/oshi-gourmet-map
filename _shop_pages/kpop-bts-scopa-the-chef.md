@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「SCOPA THE CHEF」"
-description: "V 清潭洞お気に入りイタリアンで紹介されたshokuji「SCOPA THE CHEF」（韓国）。推し活グルメ巡礼スポット。"
+description: "V 清潭洞お気に入りイタリアンで紹介された食事「SCOPA THE CHEF」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-scopa_the_chef-"
 name: "SCOPA THE CHEF"
 genre: "shokuji"

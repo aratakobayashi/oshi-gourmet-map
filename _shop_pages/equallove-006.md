@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「DOG DEPT CAFE 浅草隅田川テラス店」"
-description: "=LOVEのYouTubeで紹介されたcafe「DOG DEPT CAFE 浅草隅田川テラス店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「DOG DEPT CAFE 浅草隅田川テラス店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_006"
 name: "DOG DEPT CAFE 浅草隅田川テラス店"
 genre: "cafe"

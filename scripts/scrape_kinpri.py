@@ -31,31 +31,8 @@ def extract_tabelog_url(href):
 
 
 def get_tabelog_data(tabelog_url):
-    """tabelogページのJSON-LDからname/address/lat/lngを取得"""
-    try:
-        req = urllib.request.Request(tabelog_url, headers={'User-Agent': 'Mozilla/5.0 AppleWebKit/537.36'})
-        html = urllib.request.urlopen(req, timeout=20).read().decode('utf-8', errors='replace')
-        soup = BeautifulSoup(html, 'html.parser')
-        for script in soup.find_all('script', type='application/ld+json'):
-            try:
-                data = json.loads(script.string or '')
-                if isinstance(data, dict) and data.get('@type') in ('Restaurant', 'FoodEstablishment', 'LocalBusiness'):
-                    addr = data.get('address', {})
-                    geo = data.get('geo', {})
-                    lat = float(geo.get('latitude', 0)) or None
-                    lng = float(geo.get('longitude', 0)) or None
-                    if lat and not (24 <= lat <= 46 and 122 <= lng <= 154):
-                        lat = lng = None
-                    full_addr = (
-                        addr.get('addressRegion', '') +
-                        addr.get('addressLocality', '') +
-                        addr.get('streetAddress', '')
-                    )
-                    return {'name': data.get('name', ''), 'address': full_addr, 'lat': lat, 'lng': lng}
-            except Exception:
-                pass
-    except Exception as e:
-        print(f'    tabelog取得エラー: {e}')
+    """食べログへのアクセスは利用規約で禁止されているため無効化（常に空を返す）。
+    店舗情報の補完はホットペッパーグルメAPIか自前の調査で行うこと。"""
     return {}
 
 GROUP = 'kingprince'

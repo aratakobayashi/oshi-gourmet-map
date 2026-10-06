@@ -1,11 +1,11 @@
 ---
-title: "Snow Manが行ったizakaya5選"
-description: "Snow Manのメンバーが実際に訪れたizakayaスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Snow Manが行った居酒屋9選"
+description: "Snow Manのメンバーが実際に訪れた居酒屋スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: izakaya
 group_label: "Snow Man"
 slug_id: snowman-izakaya
-shop_count: 5
+shop_count: 9
 group_color: "#3b82f6"
 group_bio: "Snow ManはSTARTO ENTERTAINMENTの9人組男性アイドルグループ。メンバーが各地の名店を訪れる動画・番組が多い。"
 youtube_id: ueYUZJghOzw
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya
-  - arashi-izakaya
+  - kingprince-izakaya
 ---

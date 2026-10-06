@@ -170,27 +170,9 @@ def validate_coords(lat, lng, prefecture: str) -> bool:
 
 
 def fetch_tabelog_thumbnail(tabelog_url: str) -> dict:
-    if not tabelog_url or 'tabelog.com' not in tabelog_url:
-        return {}
-    try:
-        req = urllib.request.Request(
-            tabelog_url,
-            headers={'User-Agent': 'Mozilla/5.0 AppleWebKit/537.36'}
-        )
-        with urllib.request.urlopen(req, timeout=20) as r:
-            html = r.read().decode('utf-8', errors='replace')
-        og_image = ''
-        m = re.search(r'<meta property="og:image" content="([^"]+)"', html)
-        if m:
-            og_image = m.group(1)
-        score = ''
-        sm = re.search(r'"ratingValue"\s*:\s*"([0-9.]+)"', html)
-        if sm:
-            score = sm.group(1)
-        return {'thumbnail_url': og_image, 'tabelog_score': score}
-    except Exception as e:
-        log(f'    tabelog取得エラー: {e}')
-        return {}
+    """食べログへのアクセスは利用規約で禁止されているため無効化（常に空を返す）。
+    店舗情報の補完はホットペッパーグルメAPIか自前の調査で行うこと。"""
+    return {}
 
 
 def load_shops() -> list:
@@ -462,15 +444,7 @@ def main():
         log('追加対象なし。終了。')
         return
 
-    log('tabelog サムネイル取得中...')
-    for shop in added_shops:
-        if shop.get('tabelog_url') and not shop.get('thumbnail_url'):
-            result = fetch_tabelog_thumbnail(shop['tabelog_url'])
-            if result.get('thumbnail_url'):
-                shop['thumbnail_url'] = result['thumbnail_url']
-                shop['tabelog_score'] = result.get('tabelog_score', '')
-                log(f'  {shop["name"]}: サムネ取得完了')
-            time.sleep(1.5)
+    # 食べログからのサムネイル・スコア取得は規約上禁止のため廃止
 
     merged = existing_shops + added_shops
     if not args.dry_run:

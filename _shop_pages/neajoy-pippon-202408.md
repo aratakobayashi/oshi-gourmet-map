@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「PiPPon 中延店」"
-description: "≒JOYのYouTubeで紹介されたshokuji「PiPPon 中延店」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「PiPPon 中延店」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-pippon-202408"
 name: "PiPPon 中延店"
 genre: "shokuji"

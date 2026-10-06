@@ -50,6 +50,7 @@ layout: default
 {% if s.group == 'kpop_seventeen' %}{% assign group_label = 'SEVENTEEN' %}{% endif %}
 {% if s.group == 'kpop_riize' %}{% assign group_label = 'RIIZE' %}{% endif %}
 {% if s.group == 'kpop_nct' %}{% assign group_label = 'NCT' %}{% endif %}
+{% if group_label == s.group and site.data.groups[s.group] %}{% assign group_label = site.data.groups[s.group] %}{% endif %}
 
 {% assign group_hashtag = '推しグルメ巡礼' %}
 {% if s.group == 'yonino' %}{% assign group_hashtag = 'よにのちゃんねる' %}{% endif %}
@@ -109,7 +110,6 @@ layout: default
   {% if s.address %}"address": { "@type": "PostalAddress", "streetAddress": {{ s.address | jsonify }}, "addressCountry": "JP" },{% endif %}
   {% if s.lat and s.lng %}"geo": { "@type": "GeoCoordinates", "latitude": {{ s.lat }}, "longitude": {{ s.lng }} },{% endif %}
   {% if s.youtube_id %}"sameAs": "https://www.youtube.com/watch?v={{ s.youtube_id }}",{% endif %}
-  {% if s.tabelog_score %}"aggregateRating": { "@type": "AggregateRating", "ratingValue": {{ s.tabelog_score }}, "bestRating": "5", "worstRating": "1", "ratingCount": "1", "reviewCount": "1" },{% endif %}
   "url": "{{ page.url | absolute_url }}"
 }
 </script>
@@ -152,8 +152,16 @@ layout: default
     </div>
 
     <div class="shop-hero__card">
+      {%- assign aff_vc = site.affiliate.valuecommerce -%}
+      {%- assign has_promo = false -%}
+      {%- if aff_vc.sid and aff_vc.sid != '' -%}
+        {%- if s.tabelog_url and aff_vc.tabelog_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+        {%- if s.hotpepper_url and aff_vc.hotpepper_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+        {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' and aff_vc.ikyu_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
+      {%- endif -%}
+      {% if has_promo %}<p class="pr-notice">本ページはプロモーションを含みます</p>{% endif %}
       <div class="shop-hero__badges">
-        {% if s.genre %}<span class="badge badge--genre">{{ s.genre }}</span>{% endif %}
+        {% if s.genre %}<span class="badge badge--genre">{{ site.data.genres[s.genre].label | default: s.genre }}</span>{% endif %}
         {% if group_label %}<span class="badge" style="background:{{ hero_color }}1a;color:{{ hero_color }};border:1px solid {{ hero_color }}40">{{ group_label }}</span>{% endif %}
         {% if s.tags %}{% for tag in s.tags %}<span class="badge badge--tag">#{{ tag }}</span>{% endfor %}{% endif %}
       </div>
@@ -161,15 +169,8 @@ layout: default
       <h1 class="shop-hero__name">{{ s.name }}{% if s.closed %} <span class="badge badge--closed">閉店</span>{% endif %}</h1>
       {% if s.description %}<p class="shop-hero__desc">{{ s.description }}</p>{% endif %}
 
-      {% if s.tabelog_score or s.price_range %}
+      {% if s.price_range %}
       <div class="shop-hero__kpi">
-        {% if s.tabelog_score %}
-        <div class="shop-hero__kpi-item">
-          <span class="shop-hero__kpi-label">食べログ</span>
-          <span class="shop-hero__kpi-value">⭐ {{ s.tabelog_score }}</span>
-          {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__kpi-link" target="_blank" rel="noopener">詳細→</a>{% endif %}
-        </div>
-        {% endif %}
         {% if s.price_range %}
         <div class="shop-hero__kpi-item">
           <span class="shop-hero__kpi-label">価格帯</span>
@@ -187,8 +188,9 @@ layout: default
       </ul>
 
       <div class="shop-hero__actions">
-        {% if s.hotpepper_url %}<a href="{{ s.hotpepper_url }}" class="shop-hero__btn shop-hero__btn--primary" target="_blank" rel="noopener">ホットペッパーで予約する</a>{% endif %}
-        {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__btn shop-hero__btn--outline" target="_blank" rel="noopener">食べログで見る</a>{% endif %}
+        {% if s.hotpepper_url %}{% include affiliate-link.html url=s.hotpepper_url label="ホットペッパーで予約する" class="shop-hero__btn shop-hero__btn--primary" %}{% endif %}
+        {% if s.tabelog_url %}{% include affiliate-link.html url=s.tabelog_url label="食べログで見る" class="shop-hero__btn shop-hero__btn--outline" %}{% endif %}
+        {% for l in s.affiliate_links %}{% include affiliate-link.html url=l.url label=l.label class="shop-hero__btn shop-hero__btn--outline" %}{% endfor %}
         {% if s.google_maps_url %}<a href="{{ s.google_maps_url }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% elsif s.address %}<a href="https://maps.google.com/?q={{ s.address | url_encode }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% endif %}
       </div>
 
@@ -365,7 +367,7 @@ layout: default
     <div class="shop-section__header">
       <h2 class="shop-section__title">同じメンバーが訪れたお店</h2>
       {% if member_list_page %}
-        <a href="{{ member_list_page.url | relative_url }}" class="shop-section__more">{{ group_label }}の{{ s.genre }}一覧 →</a>
+        <a href="{{ member_list_page.url | relative_url }}" class="shop-section__more">{{ group_label }}の{{ site.data.genres[s.genre].label | default: s.genre }}一覧 →</a>
       {% else %}
         <a href="{{ '/shops/' | relative_url }}?group={{ s.group }}" class="shop-section__more">もっと見る →</a>
       {% endif %}
@@ -385,7 +387,7 @@ layout: default
     <div class="shop-section__header">
       <h2 class="shop-section__title">同じジャンルの他のお店</h2>
       {% if genre_list_page %}
-        <a href="{{ genre_list_page.url | relative_url }}" class="shop-section__more">{{ s.genre }}の一覧を見る →</a>
+        <a href="{{ genre_list_page.url | relative_url }}" class="shop-section__more">{{ site.data.genres[s.genre].label | default: s.genre }}の一覧を見る →</a>
       {% else %}
         <a href="{{ '/shops/' | relative_url }}?genre={{ s.genre }}" class="shop-section__more">もっと見る →</a>
       {% endif %}

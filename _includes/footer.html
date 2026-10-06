@@ -1,6 +1,12 @@
 <footer class="site-footer">
   <div class="container">
     <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} 推しグルメ聖地巡礼MAP — MADE WITH ♡ FOR FANS</p>
-    <p class="footer-note">本サイトのYouTubeリンク・アフィリエイトリンクは各権利者に帰属します。</p>
+    <nav class="footer-links" aria-label="サイト情報">
+      <a href="{{ '/about/' | relative_url }}">運営者情報</a>
+      <a href="{{ '/contact/' | relative_url }}">お問い合わせ</a>
+      <a href="{{ '/privacy/' | relative_url }}">プライバシーポリシー</a>
+      <a href="{{ '/disclosure/' | relative_url }}">広告（PR）表記</a>
+    </nav>
+    <p class="footer-note">当サイトはアフィリエイト広告を利用しています。動画・画像の権利は各権利者に帰属します。</p>
   </div>
 </footer>

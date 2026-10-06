@@ -15,6 +15,11 @@ import argparse
 from collections import defaultdict
 
 SCRIPTS_DIR  = os.path.dirname(os.path.abspath(__file__))
+# 表示名の正: _data/groups.json（グループ名）・_data/genres.json（ジャンル名）
+with open(os.path.join(SCRIPTS_DIR, '../_data/groups.json'), encoding='utf-8') as _f:
+    SITE_GROUP_LABELS = json.load(_f)
+with open(os.path.join(SCRIPTS_DIR, '../_data/genres.json'), encoding='utf-8') as _f:
+    SITE_GENRES = json.load(_f)
 SHOPS_JSON   = os.path.join(SCRIPTS_DIR, '../data/shops.json')
 OUTPUT_DIR   = os.path.join(SCRIPTS_DIR, '../_list_pages')
 
@@ -152,8 +157,10 @@ def main():
         if len(ids) < args.min:
             continue
 
-        label = GROUP_LABELS.get(group, group)
-        emoji = GENRE_EMOJI.get(genre, '🍴')
+        label = GROUP_LABELS.get(group) or SITE_GROUP_LABELS.get(group, group)
+        genre_code = genre
+        genre = SITE_GENRES.get(genre_code, {}).get('label', genre_code)  # 表示用の日本語名
+        emoji = SITE_GENRES.get(genre_code, {}).get('icon') or GENRE_EMOJI.get(genre_code, '🍴')
         color = GROUP_COLORS.get(group, '')
         bio = GROUP_BIO.get(group, '')
 
@@ -168,7 +175,7 @@ def main():
             if shop.get('thumbnail_url') and not ogp_thumbnail_url:
                 ogp_thumbnail_url = shop['thumbnail_url']
         gslug = group_slug(group)
-        eslug = genre_slug(genre)
+        eslug = genre_slug(genre_code)
         slug_id = f'{gslug}-{eslug}'
         filename = f'{slug_id}.md'
 
@@ -187,14 +194,14 @@ def main():
         related_genres = [
             f'{gslug}-{genre_slug(g2)}'
             for (gr2, g2), ids2 in sorted(combo.items(), key=lambda x: -len(x[1]))
-            if gr2 == group and g2 != genre and len(ids2) >= args.min
+            if gr2 == group and g2 != genre_code and len(ids2) >= args.min
         ][:3]
 
         # 同ジャンルの他グループ上位3件
         related_groups = [
             f'{group_slug(gr2)}-{eslug}'
             for (gr2, g2), ids2 in sorted(combo.items(), key=lambda x: -len(x[1]))
-            if g2 == genre and gr2 != group and len(ids2) >= args.min
+            if g2 == genre_code and gr2 != group and len(ids2) >= args.min
         ][:3]
 
         front_matter_lines = [
@@ -202,7 +209,7 @@ def main():
             f'title: "{title}"',
             f'description: "{description}"',
             f'group: {group}',
-            f'genre: {genre}',
+            f'genre: {genre_code}',
             f'group_label: "{label}"',
             f'slug_id: {slug_id}',
             f'shop_count: {len(ids)}',

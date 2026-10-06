@@ -33,6 +33,7 @@ layout: default
 {% if page.group == 'kodoku_no_gurume' %}{% assign group_label = '孤独のグルメ' %}{% endif %}
 {% if page.group == 'heysayjump'      %}{% assign group_label = 'Hey! Say! JUMP' %}{% endif %}
 {% if page.group == 'timelesz'        %}{% assign group_label = 'timelesz' %}{% endif %}
+{% if group_label == page.group and site.data.groups[page.group] %}{% assign group_label = site.data.groups[page.group] %}{% endif %}
 
 {% assign post_image = '' %}
 {% if page.thumbnail_video_id %}
@@ -105,7 +106,7 @@ layout: default
   <div class="article-hero__inner{% if post_image == '' %} article-hero__inner--no-media{% endif %}">
     <div class="article-hero__content">
       <div class="article-hero__badges">
-        {% if page.genre %}<span class="badge badge--genre">{{ page.genre }}</span>{% endif %}
+        {% if page.genre %}<span class="badge badge--genre">{{ site.data.genres[page.genre].label | default: page.genre }}</span>{% endif %}
         {% if page.group %}<span class="badge" style="background:{{ hero_color }}33;color:#fff;border:1px solid {{ hero_color }}80">{{ group_label }}</span>{% endif %}
         {% if page.prefecture %}<span class="badge badge--pref">{{ page.prefecture }}</span>{% endif %}
       </div>
@@ -196,7 +197,7 @@ layout: default
                 {% endif %}
               </div>
               <div class="related-posts__card-body">
-                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ rp.genre }}</span>{% endif %}
+                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ site.data.genres[rp.genre].label | default: rp.genre }}</span>{% endif %}
                 <p class="related-posts__card-title">{{ rp.title }}</p>
               </div>
             </a>
@@ -225,7 +226,7 @@ layout: default
                 {% endif %}
               </div>
               <div class="related-posts__card-body">
-                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ rp.genre }}</span>{% endif %}
+                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ site.data.genres[rp.genre].label | default: rp.genre }}</span>{% endif %}
                 <p class="related-posts__card-title">{{ rp.title }}</p>
               </div>
             </a>
@@ -387,7 +388,7 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
       + '<a class="inline-shop-card__inner" href="' + url + '">'
       + '<div class="inline-shop-card__thumb">' + thumb + '</div>'
       + '<div class="inline-shop-card__body">'
-      + (shop.genre ? '<span class="badge badge--genre" style="font-size:0.7rem">' + esc(shop.genre) + '</span>' : '')
+      + (shop.genre ? '<span class="badge badge--genre" style="font-size:0.7rem">' + esc(genreLabel(shop.genre)) + '</span>' : '')
       + '<p class="inline-shop-card__name">' + esc(shop.name) + '</p>'
       + (area ? '<p class="inline-shop-card__meta">📍 ' + esc(area) + '</p>' : '')
       + '<span class="inline-shop-card__cta">詳細・動画を見る →</span>'

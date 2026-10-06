@@ -188,18 +188,18 @@ Season10は神奈川・埼玉・千葉・岐阜・富山まで足を伸ばした
 
 孤独のグルメには2014年から続く「年末スペシャル」があり、Season10の枠で50店以上が登場しています。
 
-- [孤独のグルメ 年末スペシャル 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-nenmatsu-special-pilgrimage/)
+- [孤独のグルメ 年末スペシャル 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-nenmatsu-special-pilgrimage/)
 
 ---
 
 ## 他のシーズンの聖地巡礼
 
-- [Season1 聖地巡礼マップ](/2026/05/19/kodoku-no-gurume-season1-pilgrimage/)
-- [Season2 聖地巡礼マップ](/2026/05/19/kodoku-no-gurume-season2-pilgrimage/)
-- [Season3 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season3-pilgrimage/)
-- [Season4 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season4-pilgrimage/)
-- [Season5 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season5-pilgrimage/)
-- [Season6 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season6-pilgrimage/)
-- [Season7 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season7-pilgrimage/)
-- [Season8 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season8-pilgrimage/)
-- [Season9 聖地巡礼マップ](/2026/05/20/kodoku-no-gurume-season9-pilgrimage/)
+- [Season1 聖地巡礼マップ](/articles/2026/05/19/kodoku-no-gurume-season1-pilgrimage/)
+- [Season2 聖地巡礼マップ](/articles/2026/05/19/kodoku-no-gurume-season2-pilgrimage/)
+- [Season3 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season3-pilgrimage/)
+- [Season4 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season4-pilgrimage/)
+- [Season5 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season5-pilgrimage/)
+- [Season6 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season6-pilgrimage/)
+- [Season7 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season7-pilgrimage/)
+- [Season8 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season8-pilgrimage/)
+- [Season9 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season9-pilgrimage/)

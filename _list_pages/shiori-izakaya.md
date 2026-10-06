@@ -1,6 +1,6 @@
 ---
-title: "しおりが行ったizakaya21選"
-description: "しおりが実際に訪れたizakayaスポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "しおりが行った居酒屋21選"
+description: "しおりが実際に訪れた居酒屋スポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: shiori
 genre: izakaya
 group_label: "しおり"
@@ -11,6 +11,6 @@ group_bio: "「しおりのなんとなく日常」は女性ひとり飲み・�
 youtube_id: qzz7SC88ywM
 related_groups:
   - equal-love-izakaya
+  - kingprince-izakaya
   - arashi-izakaya
-  - naniwa-izakaya
 ---

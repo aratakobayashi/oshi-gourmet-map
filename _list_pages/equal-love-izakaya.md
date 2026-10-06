@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったizakaya15選"
-description: "=LOVEのメンバーが実際に訪れたizakayaスポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行った居酒屋15選"
+description: "=LOVEのメンバーが実際に訪れた居酒屋スポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: izakaya
 group_label: "=LOVE"
@@ -15,6 +15,6 @@ related_genres:
   - equal-love-cafe
 related_groups:
   - shiori-izakaya
+  - kingprince-izakaya
   - arashi-izakaya
-  - naniwa-izakaya
 ---

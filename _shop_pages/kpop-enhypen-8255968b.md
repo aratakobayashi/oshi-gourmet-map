@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「新大久保 トシオブ韓国料理屋韓国刺身専門店」"
-description: "ENHYPENで紹介されたothers「新大久保 トシオブ韓国料理屋韓国刺身専門店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「新大久保 トシオブ韓国料理屋韓国刺身専門店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-8255968b-"
 name: "新大久保 トシオブ韓国料理屋韓国刺身専門店"
 genre: "others"

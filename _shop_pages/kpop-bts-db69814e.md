@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「押忍！！セイロ蒸し 汝矣島店」"
-description: "Jinと兄の共同経営店で紹介されたshokuji「押忍！！セイロ蒸し 汝矣島店」（韓国）。推し活グルメ巡礼スポット。"
+description: "Jinと兄の共同経営店で紹介された食事「押忍！！セイロ蒸し 汝矣島店」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-db69814e-"
 name: "押忍！！セイロ蒸し 汝矣島店"
 genre: "shokuji"

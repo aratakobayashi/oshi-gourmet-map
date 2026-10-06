@@ -1,6 +1,6 @@
 ---
-title: "SixTONESが行ったyakiniku8選"
-description: "SixTONESのメンバーが実際に訪れたyakinikuスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行った焼肉8選"
+description: "SixTONESのメンバーが実際に訪れた焼肉スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: yakiniku
 group_label: "SixTONES"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "肉のたかさご"
-description: "KinKi Kidsのブンブブーン おまけグルメで紹介されたshokuji「肉のたかさご」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン おまけグルメで紹介された食事「肉のたかさご」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-5adebe74-20220211"
 name: "肉のたかさご"
 genre: "shokuji"

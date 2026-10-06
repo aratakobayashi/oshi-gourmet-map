@@ -82,6 +82,18 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
   </div>
 </section>
 
+<!-- 推し活ガイドへの導線 -->
+<div class="container">
+  <a href="{{ '/guide/' | relative_url }}" class="guide-banner">
+    <span class="guide-banner__icon">🏟️</span>
+    <span class="guide-banner__text">
+      <strong>推し活ガイド</strong>
+      <span>会場ガイド{{ site.guides | where: "guide_category", "venue" | size }}本・遠征準備・推し活の基本など{{ site.guides.size }}本</span>
+    </span>
+    <span class="guide-banner__arrow">→</span>
+  </a>
+</div>
+
 <!-- カテゴリータブ -->
 <div class="ap-tabs-wrap">
   <div class="container">

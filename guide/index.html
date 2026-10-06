@@ -1,0 +1,43 @@
+---
+layout: default
+title: 推し活ガイド｜会場ガイド・遠征準備・推し活の基本｜推しグルメ巡礼MAP
+description: ライブ会場のアクセス・座席・周辺の聖地グルメ、遠征の交通・持ち物、推し活の始め方まで。推し活に役立つガイド記事をまとめています。
+---
+<nav class="breadcrumb" aria-label="パンくずリスト">
+  <div class="container">
+    <ol class="breadcrumb__list">
+      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
+      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">推し活ガイド</li>
+    </ol>
+  </div>
+</nav>
+
+<div class="container guide-index">
+  <header class="guide-index__header">
+    <h1 class="guide-index__title">推し活ガイド</h1>
+    <p class="guide-index__lead">ライブ会場の攻略と会場周辺の聖地グルメ、遠征準備、推し活の基本をまとめました。</p>
+    <nav class="guide-index__jump" aria-label="カテゴリ">
+      {% for cat in site.data.guide_categories %}
+      <a href="#{{ cat.key }}" class="genre-pill">{{ cat.icon }} {{ cat.label }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  {% for cat in site.data.guide_categories %}
+  {% assign items = site.guides | where: "guide_category", cat.key | sort: "title" %}
+  {% if items.size > 0 %}
+  <section class="guide-index__section" id="{{ cat.key }}">
+    <h2 class="guide-index__section-title">{{ cat.icon }} {{ cat.label }} <span class="guide-index__count">{{ items.size }}</span></h2>
+    <p class="guide-index__section-desc">{{ cat.desc }}</p>
+    <div class="guide-grid">
+      {% for g in items %}
+      <a href="{{ g.url | relative_url }}" class="guide-card">
+        {% if g.thumbnail %}<img src="{{ g.thumbnail | relative_url }}" alt="" loading="lazy" class="guide-card__img">{% endif %}
+        <span class="guide-card__title">{{ g.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  {% endfor %}
+</div>

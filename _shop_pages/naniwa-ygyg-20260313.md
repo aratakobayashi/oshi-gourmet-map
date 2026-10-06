@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「YGYGヨギヨギ」"
-description: "なにわ男子のどっち派 (2026-03-13)で紹介されたsweets「YGYGヨギヨギ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-13)で紹介されたスイーツ「YGYGヨギヨギ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ygyg-20260313"
 name: "YGYGヨギヨギ"
 genre: "sweets"

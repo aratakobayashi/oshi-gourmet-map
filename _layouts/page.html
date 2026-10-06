@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<nav class="breadcrumb" aria-label="パンくずリスト">
+  <div class="container">
+    <ol class="breadcrumb__list">
+      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
+      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">{{ page.heading | default: page.title }}</li>
+    </ol>
+  </div>
+</nav>
+
+<div class="container static-page">
+  <h1 class="static-page__title">{{ page.heading | default: page.title }}</h1>
+  <div class="post-body">
+    {{ content }}
+  </div>
+  {% if page.updated %}<p class="static-page__updated">最終更新日：{{ page.updated | date: "%Y年%-m月%-d日" }}</p>{% endif %}
+</div>

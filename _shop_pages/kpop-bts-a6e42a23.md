@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「イチャドル 江南本店」"
-description: "Run BTS! 2022で紹介されたyakiniku「イチャドル 江南本店」（韓国）。推し活グルメ巡礼スポット。"
+description: "Run BTS! 2022で紹介された焼肉「イチャドル 江南本店」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-a6e42a23-"
 name: "イチャドル 江南本店"
 genre: "yakiniku"

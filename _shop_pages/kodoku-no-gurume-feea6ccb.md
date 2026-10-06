@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「オリュットナッチポックム（오륙도 낙지볶음）」"
-description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「オリュットナッチポックム（오륙도 낙지볶음）」（韓国釜山市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介された和食「オリュットナッチポックム（오륙도 낙지볶음）」（韓国釜山市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-feea6ccb-"
 name: "オリュットナッチポックム（오륙도 낙지볶음）"
 genre: "washoku"

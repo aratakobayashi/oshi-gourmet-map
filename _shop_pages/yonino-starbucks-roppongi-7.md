@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STARBUCKS COFFEE 六本木7丁目店」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「STARBUCKS COFFEE 六本木7丁目店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STARBUCKS COFFEE 六本木7丁目店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-starbucks-roppongi-7"
 name: "STARBUCKS COFFEE 六本木7丁目店"
 genre: "cafe"

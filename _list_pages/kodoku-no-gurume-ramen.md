@@ -1,6 +1,6 @@
 ---
-title: "「孤独のグルメ」登場ramen24選"
-description: "ドラマ「孤独のグルメ」に登場したramenスポットを24件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場ラーメン24選"
+description: "ドラマ「孤独のグルメ」に登場したラーメンスポットを24件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: ramen
 group_label: "孤独のグルメ"

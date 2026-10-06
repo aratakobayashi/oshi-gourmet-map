@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったramen9選"
-description: "=LOVEのメンバーが実際に訪れたramenスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行ったラーメン9選"
+description: "=LOVEのメンバーが実際に訪れたラーメンスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: ramen
 group_label: "=LOVE"

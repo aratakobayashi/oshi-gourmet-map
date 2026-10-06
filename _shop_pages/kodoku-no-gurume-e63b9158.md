@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「토방」"
-description: "孤独のグルメ Season7 第9話で紹介されたshokuji「토방」（韓国全州市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第9話で紹介された食事「토방」（韓国全州市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e63b9158-"
 name: "토방"
 genre: "shokuji"

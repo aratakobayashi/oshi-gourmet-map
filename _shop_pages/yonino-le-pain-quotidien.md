@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Le Pain Quotidien 東京ミッドタウン店」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-le-pain-quotidien"
 name: "Le Pain Quotidien 東京ミッドタウン店"
 genre: "cafe"

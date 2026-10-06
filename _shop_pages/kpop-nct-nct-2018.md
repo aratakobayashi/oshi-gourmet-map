@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NCTが行った「ヒルトン大阪（NCT 2018）」"
-description: "NCTで紹介されたothers「ヒルトン大阪（NCT 2018）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "NCTで紹介されたその他「ヒルトン大阪（NCT 2018）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_nct-nct_2018-"
 name: "ヒルトン大阪（NCT 2018）"
 genre: "others"

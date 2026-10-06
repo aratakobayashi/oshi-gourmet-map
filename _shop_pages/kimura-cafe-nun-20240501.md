@@ -1,23 +1,19 @@
 ---
 layout: shop
 title: "木村拓哉が行った「cafe nun」"
-description: "木村拓哉が訪れたshokuji「cafe nun」（千葉県山武郡九十九里町）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた食事「cafe nun」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "shokuji"
 prefecture: "千葉県"
 city: "山武郡九十九里町"
 address: "千葉県山武郡九十九里町"
-price_range: "-"
 visited_date: "2024-05-01"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
 group: "kimura"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/52546/52546212.jpg?token=554520b&api=v2"
-business_hours: "土・日 10:00 - 16:00 月・火・水・木・金 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5241
 lng: 140.3894
-tabelog_score: 3.08
 members:
   - "木村拓哉"
 groups:
@@ -33,7 +29,4 @@ ordered_items:
   - "{'name': 'フロート系ドリンク'}"
   - "{'name': '生ハムサラダ'}"
   - "{'name': 'ガーリックライス牛肉添え'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
 ---

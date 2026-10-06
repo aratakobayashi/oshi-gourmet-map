@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「夷川餃子なかじま」"
-description: "亀梨和也のYouTubeで紹介されたchuka「夷川餃子なかじま」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された中華「夷川餃子なかじま」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-1f6dffde-202402"
 name: "夷川餃子なかじま"
 genre: "chuka"

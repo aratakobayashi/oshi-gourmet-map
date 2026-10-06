@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ 新栄店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「くるみ 新栄店」（愛知県名古屋市東区）。食べログ3.03点。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された居酒屋「くるみ 新栄店」（愛知県名古屋市東区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kurumi-shineimachi"
 name: "くるみ 新栄店"
 genre: "izakaya"
@@ -9,7 +9,6 @@ prefecture: "愛知県"
 city: "名古屋市東区"
 address: "愛知県名古屋市東区新栄1-3-24"
 nearest_station: "栄駅 徒歩8分"
-price_range: "-"
 visited_date: "2024-04-26"
 youtube_id: "1enHsuNGPMQ"
 source_video_title: "SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！"
@@ -19,7 +18,6 @@ tabelog_url: "https://tabelog.com/aichi/A2303/A230301/23064111/"
 thumbnail_url: "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg"
 lat: 35.167743
 lng: 136.913842
-tabelog_score: 3.03
 members:
   - "ジェシー"
   - "京本大我"
@@ -35,7 +33,4 @@ tags:
   - "名古屋"
   - "打ち上げ"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230104/23000212/"
 ---

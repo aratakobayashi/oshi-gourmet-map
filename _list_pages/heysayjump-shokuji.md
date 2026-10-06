@@ -1,6 +1,6 @@
 ---
-title: "Hey! Say! JUMPが行ったshokuji38選"
-description: "Hey! Say! JUMPのメンバーが実際に訪れたshokujiスポットを38件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Hey! Say! JUMPが行った食事38選"
+description: "Hey! Say! JUMPのメンバーが実際に訪れた食事スポットを38件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: shokuji
 group_label: "Hey! Say! JUMP"
@@ -14,7 +14,7 @@ related_genres:
   - heysayjump-washoku
   - heysayjump-sweets
 related_groups:
-  - arashi-shokuji
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
+  - arashi-shokuji
 ---

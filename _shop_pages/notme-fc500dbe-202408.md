@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「づぼらや 道頓堀店 前」"
-description: "≠MEのYouTubeで紹介されたshokuji「づぼらや 道頓堀店 前」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介された食事「づぼらや 道頓堀店 前」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "notme-fc500dbe-202408"
 name: "づぼらや 道頓堀店 前"
 genre: "shokuji"

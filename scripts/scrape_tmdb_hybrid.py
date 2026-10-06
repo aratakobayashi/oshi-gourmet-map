@@ -17,7 +17,7 @@ TMDB×Web検索ハイブリッドスクレイパー
 import json, re, time, hashlib, argparse, os, urllib.request, urllib.parse
 from bs4 import BeautifulSoup
 
-TMDB_API_KEY  = os.environ.get('TMDB_API_KEY', '4573ec6c37323f6f89002cb24c690875')
+TMDB_API_KEY  = os.environ.get('TMDB_API_KEY', '')
 DDG_URL       = 'https://html.duckduckgo.com/html/'
 SLEEP         = 2.0
 UA_BROWSER    = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -339,6 +339,8 @@ def main():
     parser.add_argument('--dry-run',  action='store_true', help='検索URLのみ表示')
     parser.add_argument('--max-urls', type=int, default=6, help='スクレイピングするURL数')
     args = parser.parse_args()
+    if not TMDB_API_KEY:
+        raise SystemExit('TMDB_API_KEY が未設定です。export TMDB_API_KEY=... を実行してください。')
 
     # 既存shops.jsonの店名セット（重複チェック用）
     with open(SHOPS_JSON, encoding='utf-8') as f:

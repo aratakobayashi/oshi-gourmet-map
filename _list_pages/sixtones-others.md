@@ -1,6 +1,6 @@
 ---
-title: "SixTONESが行ったothers50選"
-description: "SixTONESのメンバーが実際に訪れたothersスポットを50件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行ったその他50選"
+description: "SixTONESのメンバーが実際に訪れたその他スポットを50件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: others
 group_label: "SixTONES"

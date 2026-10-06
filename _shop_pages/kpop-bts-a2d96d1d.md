@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「永川永化 清潭店」"
-description: "BTS 行きつけ韓牛店で紹介されたyakiniku「永川永化 清潭店」（韓国）。推し活グルメ巡礼スポット。"
+description: "BTS 行きつけ韓牛店で紹介された焼肉「永川永化 清潭店」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-a2d96d1d-"
 name: "永川永化 清潭店"
 genre: "yakiniku"

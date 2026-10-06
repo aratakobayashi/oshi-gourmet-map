@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「つばめパン&Milk 尼ケ坂本店」"
-description: "乃木坂工事中で紹介されたcafe「つばめパン&Milk 尼ケ坂本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたカフェ「つばめパン&Milk 尼ケ坂本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-milk--3"
 name: "つばめパン&Milk 尼ケ坂本店"
 genre: "cafe"

@@ -1,23 +1,20 @@
 ---
 layout: shop
 title: "≒JOYが行った「大涌谷 駅の店」"
-description: "≒JOYのYouTubeで紹介されたshokuji「大涌谷 駅の店」（神奈川県足柄下郡箱根町）。食べログ3.08点。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「大涌谷 駅の店」（神奈川県足柄下郡箱根町）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-14f3ebca-202408"
 name: "大涌谷 駅の店"
 genre: "shokuji"
 prefecture: "神奈川県"
 city: "足柄下郡箱根町"
 address: "神奈川県足柄下郡箱根町仙石原"
-price_range: "-"
 visited_date: "2024-08-14"
 youtube_id: "TAQI0WEyy7k"
 group: "neajoy"
 tabelog_url: "https://tabelog.com/kanagawa/A1410/A141001/14053358/"
 thumbnail_url: "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
-business_hours: "09:00 - 17:00 ■ 営業時間[1月～2月・12月] 10:00～15:00 [3月～11月] 9:00～17:00■ 定休日不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2710625
 lng: 139.01225
-tabelog_score: 3.08
 members:
   - "天野香乃愛"
   - "市原愛弓"
@@ -26,7 +23,4 @@ members:
   - "髙橋舞"
 groups:
   - "neajoy"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1410/A141001/14053358/"
 ---

@@ -3,6 +3,22 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
 url: "https://gourmet.oshikatsu-guide.com"
 baseurl: ""
 
+# 運営者情報（/about/ に表示）
+operator_name: "推しグルメ巡礼MAP 編集部"
+# お問い合わせフォームのURL（Googleフォーム等）。空の間は「準備中」と表示
+contact_form_url: ""
+# 参加しているアフィリエイトプログラム（/disclosure/ に表示）。提携が決まったら追記
+affiliate_programs: []
+
+# アフィリエイトリンク変換（_includes/affiliate-link.html）
+# 提携承認後に管理画面で sid / pid を確認して入力する。空の間は通常リンクのまま出力
+affiliate:
+  valuecommerce:
+    sid: ""
+    tabelog_pid: ""
+    hotpepper_pid: ""
+    ikyu_pid: ""
+
 # ビルド設定
 markdown: kramdown
 highlighter: rouge
@@ -20,6 +36,10 @@ collections:
   group_pages:
     output: true
     permalink: /groups/:name/
+  # 推し活ガイド（旧 推し活ガイドブック oshikatsu-guide.com から移行。scripts/migrate_guidebook.py）
+  guides:
+    output: true
+    permalink: /guide/:name/
 
 # プラグイン（GitHub Pages対応）
 plugins:
@@ -49,6 +69,12 @@ defaults:
       type: "group_pages"
     values:
       layout: "group"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+      excerpt_separator: "<!-- excerpt -->"
 
 # 除外ファイル
 exclude:
@@ -58,6 +84,7 @@ exclude:
   - vendor
   - .git
   - README.md
+  - redirects
   - CLAUDE.md
   - scripts/
 

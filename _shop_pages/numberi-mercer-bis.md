@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "MERCER bis 恵比寿店"
-description: "NYLON JAPAN Number_i特集で紹介されたsweets「MERCER bis 恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "NYLON JAPAN Number_i特集で紹介されたスイーツ「MERCER bis 恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-mercer_bis-"
 name: "MERCER bis 恵比寿店"
 genre: "sweets"

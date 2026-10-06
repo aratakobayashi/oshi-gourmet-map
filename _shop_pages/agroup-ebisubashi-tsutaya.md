@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "EBISUBASHI TSUTAYA（エビツタ）"
-description: "Aぇǃgroup『Chameleon』大阪のAぇ擬態中はどこ？道頓堀エビツタ大型ビジョン！？で紹介されたothers「EBISUBASHI TSUTAYA（エビツタ）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "Aぇǃgroup『Chameleon』大阪のAぇ擬態中はどこ？道頓堀エビツタ大型ビジョン！？で紹介されたその他「EBISUBASHI TSUTAYA（エビツタ）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-ebisubashi_tsutaya-"
 name: "EBISUBASHI TSUTAYA（エビツタ）"
 genre: "others"

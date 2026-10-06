@@ -15,7 +15,7 @@
 <meta property="og:description" content="{{ page_desc | strip_html | truncate: 160 }}">
 <meta property="og:url"         content="{{ page.url | absolute_url }}">
 <meta property="og:locale"      content="ja_JP">
-<meta property="og:type"        content="{% if page.layout == 'post' or page.layout == 'article' %}article{% elsif page.layout == 'shop' %}restaurant{% else %}website{% endif %}">
+<meta property="og:type"        content="{% if page.layout == 'post' or page.layout == 'article' or page.layout == 'guide' %}article{% elsif page.layout == 'shop' %}restaurant{% else %}website{% endif %}">
 
 {% if page.thumbnail_video_id %}
   {% assign ogp_image = page.thumbnail_video_id | prepend: 'https://img.youtube.com/vi/' | append: '/hqdefault.jpg' %}
@@ -40,7 +40,7 @@
 {% if ogp_img_w %}<meta property="og:image:width"  content="{{ ogp_img_w }}">
 <meta property="og:image:height" content="{{ ogp_img_h }}">{% endif %}
 
-{% if page.layout == 'post' or page.layout == 'article' %}
+{% if page.layout == 'post' or page.layout == 'article' or page.layout == 'guide' %}
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% if page.last_modified_at %}<meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 {% if page.tags %}<meta property="article:tag" content="{{ page.tags | join: ', ' }}">{% endif %}
@@ -53,11 +53,20 @@
 {% if ogp_image %}<meta name="twitter:image" content="{{ ogp_image }}">{% endif %}
 
 <!-- JSON-LD 構造化データ -->
-{% if page.layout == 'post' or page.layout == 'article' %}
+{% if page.layout == 'post' or page.layout == 'article' or page.layout == 'guide' %}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"description":{{ page_desc | strip_html | truncate: 160 | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","author":{"@type":"Organization","name":"推しグルメ巡礼MAP編集部","url":"{{ site.url }}"},"publisher":{"@type":"Organization","name":"推しグルメ巡礼MAP","url":"{{ site.url }}"},"url":"{{ page.url | absolute_url }}"{% if ogp_image %},"image":"{{ ogp_image }}"{% endif %}}</script>
 {% else %}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":{{ site.title | jsonify }},"url":"{{ site.url }}","description":{{ site.description | jsonify }}}</script>
 {% endif %}
+
+<script>
+  window.GENRE_LABELS = {{ site.data.genres | jsonify }};
+  window.SITE_GROUP_LABELS = {{ site.data.groups | jsonify }};
+  // assets/images/groups/ に写真があるグループ（無いグループの画像を読みに行かないため）
+  window.GROUP_PHOTOS = [{% for f in site.static_files %}{% if f.path contains '/assets/images/groups/' %}"{{ f.basename }}",{% endif %}{% endfor %}];
+  function genreLabel(g) { var x = window.GENRE_LABELS[g]; return x ? x.label : g; }
+  function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
+</script>
 
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8441554925079357"

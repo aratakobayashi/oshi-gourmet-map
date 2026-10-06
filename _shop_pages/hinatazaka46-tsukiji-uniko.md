@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「築地虎杖 うに虎 中通り店」"
-description: "日向坂46 築地で朝から贅沢グルメ！で紹介されたwashoku「築地虎杖 うに虎 中通り店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "日向坂46 築地で朝から贅沢グルメ！で紹介された和食「築地虎杖 うに虎 中通り店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-tsukiji-uniko"
 name: "築地虎杖 うに虎 中通り店"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "御所雲月 南青山店"
-description: "KinKi Kidsのブンブブーン 即完売グルメで紹介されたsweets「御所雲月 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 即完売グルメで紹介されたスイーツ「御所雲月 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-f41a9cec-20221008"
 name: "御所雲月 南青山店"
 genre: "sweets"

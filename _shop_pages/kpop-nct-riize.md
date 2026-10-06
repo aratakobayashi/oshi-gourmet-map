@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NCTが行った「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」"
-description: "NCTで紹介されたothers「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "NCTで紹介されたその他「あじくらや テヨン・マーク・ショウタロウ（RIIZE）」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_nct-riize-"
 name: "あじくらや テヨン・マーク・ショウタロウ（RIIZE）"
 genre: "others"

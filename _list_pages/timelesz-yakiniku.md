@@ -1,6 +1,6 @@
 ---
-title: "timeleszが行ったyakiniku8選"
-description: "timeleszのメンバーが実際に訪れたyakinikuスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "timeleszが行った焼肉8選"
+description: "timeleszのメンバーが実際に訪れた焼肉スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: yakiniku
 group_label: "timelesz"

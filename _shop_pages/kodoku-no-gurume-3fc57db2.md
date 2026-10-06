@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「いも工房 かくたに」"
-description: "孤独のグルメ Season10 第2021話で紹介されたshokuji「いも工房 かくたに」（静岡県富士宮市）。食べログ3.19点。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介された食事「いも工房 かくたに」（静岡県富士宮市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3fc57db2-"
 name: "いも工房 かくたに"
 genre: "shokuji"
@@ -9,23 +9,17 @@ prefecture: "静岡県"
 city: "富士宮市"
 address: "静岡県富士宮市"
 nearest_station: "富士宮駅 徒歩10分"
-price_range: "-"
 source_video_title: "孤独のグルメ Season10 第2021話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/shizuoka/A2204/A220401/22022695/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
 source_type: "drama"
-business_hours: "09:00 - 17:00 ■ 営業時間季節や気候により早めに閉店することもある■定休日なし 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.2221369
 lng: 138.6214683
-tabelog_score: 3.19
 members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': '焼き芋'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2204/A220401/22022695/"
 ---

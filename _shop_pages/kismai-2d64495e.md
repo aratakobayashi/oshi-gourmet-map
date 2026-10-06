@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "東光堂"
-description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたcafe「東光堂」（大分県日田市）。推し活グルメ巡礼スポット。"
+description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたカフェ「東光堂」（大分県日田市）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-2d64495e-"
 name: "東光堂"
 genre: "cafe"

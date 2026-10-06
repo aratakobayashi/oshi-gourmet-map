@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「SAUNALAND ASAKUSA」"
-description: "【トークィーンズ】SnowMan渡辺翔太がデートで訪れた場所まとめで紹介されたshokuji「SAUNALAND ASAKUSA」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "【トークィーンズ】SnowMan渡辺翔太がデートで訪れた場所まとめで紹介された食事「SAUNALAND ASAKUSA」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-saunaland_asakusa-20250717"
 name: "SAUNALAND ASAKUSA"
 genre: "shokuji"

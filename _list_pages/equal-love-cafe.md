@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったcafe9選"
-description: "=LOVEのメンバーが実際に訪れたcafeスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行ったカフェ9選"
+description: "=LOVEのメンバーが実際に訪れたカフェスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: cafe
 group_label: "=LOVE"

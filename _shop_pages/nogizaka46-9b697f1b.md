@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「高尾亭 立川本店」"
-description: "乃木坂46が訪れたshokuji「高尾亭 立川本店」（東京都立川市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れた食事「高尾亭 立川本店」（東京都立川市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9b697f1b-"
 name: "高尾亭 立川本店"
 genre: "shokuji"

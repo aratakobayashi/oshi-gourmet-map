@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったsweets9選"
-description: "=LOVEのメンバーが実際に訪れたsweetsスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行ったスイーツ9選"
+description: "=LOVEのメンバーが実際に訪れたスイーツスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: sweets
 group_label: "=LOVE"

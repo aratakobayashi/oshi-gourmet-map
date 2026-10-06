@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「YY Kafei Dian 喜園咖啡店」"
-description: "SixTONESのYouTubeで紹介されたcafe「YY Kafei Dian 喜園咖啡店」（シンガポールBeach Rd）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたカフェ「YY Kafei Dian 喜園咖啡店」（シンガポールBeach Rd）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-yy_kafei_dian-202403"
 name: "YY Kafei Dian 喜園咖啡店"
 genre: "cafe"

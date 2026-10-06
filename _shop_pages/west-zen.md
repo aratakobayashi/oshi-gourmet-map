@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "台湾カフェ Zen"
-description: "WEST. 東京ロケ地 表参道キャットストリートで紹介されたcafe「台湾カフェ Zen」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST. 東京ロケ地 表参道キャットストリートで紹介されたカフェ「台湾カフェ Zen」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-zen-"
 name: "台湾カフェ Zen"
 genre: "cafe"
