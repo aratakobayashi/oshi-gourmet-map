@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': '宇治抹茶・パイナップル・マロンクリーム・コーンフレークの特製パフェ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1404/A140408/14010017/"
 ---

@@ -13,7 +13,7 @@ price_range: "￥1,000～￥1,999"
 source_url: "https://senublog.com/nogizaka46-sanctuary-summarize/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001236424/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・日 08:00 - 18:00 金・土 08:00 - 22:00 ■ 定休日不定休"
 lat: 35.1749929
@@ -23,9 +23,4 @@ members:
   - "筒井あやめ"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001236424/?vos=nhppalsa000016"
 ---

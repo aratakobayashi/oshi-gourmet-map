@@ -25,7 +25,4 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130601/13218655/"
 ---

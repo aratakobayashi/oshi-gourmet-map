@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'LAカルビ'}"
   - "{'name': '冷麺ハーフ'}"
   - "{'name': 'ビビン麺ハーフ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13261510/"
 ---

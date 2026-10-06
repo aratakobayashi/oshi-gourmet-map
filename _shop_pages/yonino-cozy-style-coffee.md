@@ -37,7 +37,4 @@ ordered_items:
   - "{'name': '瓶詰ティラミス'}"
   - "{'name': 'アイスカフェラテ'}"
   - "{'name': '瓶詰ティラミス'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131901/13220114/"
 ---

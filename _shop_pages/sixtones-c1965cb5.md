@@ -48,7 +48,4 @@ ordered_items:
   - "{'name': '黒毛和牛（お店からサービス）'}"
   - "{'name': 'ラムチョップ'}"
   - "{'name': 'ネギ玉飯'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hokkaido/A0101/A010102/1081974/"
 ---

@@ -25,7 +25,4 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270108/27014207/"
 ---

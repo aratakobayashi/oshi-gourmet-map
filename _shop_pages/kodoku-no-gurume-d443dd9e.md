@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '木須肉（ムースーロー）'}"
   - "{'name': 'チャーハン'}"
   - "{'name': 'ライス（追加）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1107/A110701/11019456/"
 ---

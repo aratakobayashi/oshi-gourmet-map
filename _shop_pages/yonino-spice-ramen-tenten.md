@@ -40,7 +40,4 @@ ordered_items:
   - "{'name': 'ジンジャエール'}"
   - "{'name': 'スペシャルスパイスラーメン(辛さ控えめ)'}"
   - "{'name': 'コーラ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131802/13275868/"
 ---

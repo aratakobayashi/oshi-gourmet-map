@@ -25,7 +25,4 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130404/13299024/"
 ---

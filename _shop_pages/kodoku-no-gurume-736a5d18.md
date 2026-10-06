@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'ほろあぶら串'}"
   - "{'name': '鰻のオムレツ'}"
   - "{'name': 'うな丼'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132305/13008753/"
 ---

@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'コプチャン'}"
   - "{'name': 'ジンギスカン'}"
   - "{'name': 'シビレ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1405/A140502/14018525/"
 ---

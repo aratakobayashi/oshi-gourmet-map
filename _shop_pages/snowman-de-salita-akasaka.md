@@ -16,7 +16,7 @@ source_video_title: "Snow Man「宮舘の食べたいものを当てろ！」イ
 source_video_url: "https://www.youtube.com/watch?v=8XWlH5jIAsU"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001146764/"
 thumbnail_url: "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:00 - 23:00 L.O. 22:00 土・日・祝日 11:30 - 23:00 L.O. 22:00 ■ 営業時間平日ランチ:ランチセットメニューのみの営業※予約 不可平日ディナー：グランドメニューのみの営業※予約 可土日祝：終日グランドメニューのみの営業※予約 可■ 定休日12月31日～1月3日は年末年始休業となります"
 lat: 35.6757
@@ -45,9 +45,4 @@ ordered_items:
   - "{'name': 'ビアンカネーベ（宮舘涼太）'}"
   - "{'name': 'カルボナーラトリュフの香り（宮舘涼太）'}"
   - "{'name': '自家製パンナコッタ（宮舘涼太）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001146764/?vos=nhppalsa000016"
 ---

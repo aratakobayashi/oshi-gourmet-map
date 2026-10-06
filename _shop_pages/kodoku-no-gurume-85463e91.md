@@ -25,7 +25,4 @@ groups:
 ordered_items:
   - "{'name': 'タコス（チリソース付き）'}"
   - "{'name': 'ステーキ200g'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okinawa/A4703/A470404/47002905/"
 ---

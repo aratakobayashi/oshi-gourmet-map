@@ -25,7 +25,4 @@ members:
   - "矢久保美緒"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130103/13130245/"
 ---

@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'あまぎの唐揚げあんかけ'}"
   - "{'name': 'あなご澄まし汁'}"
   - "{'name': '鯛どんぶり（宇和島風鯛めし）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/ehime/A3801/A380101/38005974/"
 ---

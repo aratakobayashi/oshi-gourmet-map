@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'HIROKIスペシャル'}"
   - "{'name': 'タコ広島ネギ焼き'}"
   - "{'name': 'ホタテガーリック焼き'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131802/13001391/"
 ---

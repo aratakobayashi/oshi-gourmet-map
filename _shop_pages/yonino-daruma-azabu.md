@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': 'ウーロン茶'}"
   - "{'name': 'ウーロン茶'}"
   - "{'name': 'ウーロン茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130702/13013251/"
 ---

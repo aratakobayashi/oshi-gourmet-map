@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': 'わさび丼'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2205/A220503/22014866/"
 ---

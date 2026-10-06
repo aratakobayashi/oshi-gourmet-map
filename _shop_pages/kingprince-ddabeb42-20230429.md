@@ -28,7 +28,4 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270202/27002763/"
 ---

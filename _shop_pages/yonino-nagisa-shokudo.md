@@ -15,7 +15,7 @@ youtube_id: "jDTiroXb9RU"
 source_video_title: "#288【朝飯!!】久々に4人で食べた日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13257962/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004004280/"
 thumbnail_url: "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 土・日・祝日 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6978
@@ -38,9 +38,4 @@ ordered_items:
   - "{'name': 'お刺身セット…ごはん…お味噌汁…小鉢4品付き'}"
   - "{'name': 'アジフライ(単品)'}"
   - "{'name': 'アジフライセット…ごはん…お味噌汁…小鉢4品付き'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1310/A131003/13257962/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ004004280/?vos=nhppalsa000016"
 ---

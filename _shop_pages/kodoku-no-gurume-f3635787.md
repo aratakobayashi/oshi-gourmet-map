@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': '牛タン焼き'}"
   - "{'name': 'テール焼き'}"
   - "{'name': 'テールスープ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/miyagi/A0401/A040102/4003262/"
 ---

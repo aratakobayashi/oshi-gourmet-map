@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '豚カルビ'}"
   - "{'name': '牛上カルビ'}"
   - "{'name': 'キムチ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gunma/A1005/A100502/10003191/"
 ---

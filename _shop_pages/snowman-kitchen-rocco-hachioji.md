@@ -16,7 +16,7 @@ source_video_title: "Snow Man【八王子でジモメシをいただく❗️】
 source_video_url: "https://www.youtube.com/watch?v=N6A_5_8fX30"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001110705/"
 thumbnail_url: "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:30 - 15:00 L.O. 14:20 17:30 - 21:30 L.O. 20:45 ■ 定休日振替などにより不定休あり"
 lat: 35.6622
@@ -36,9 +36,4 @@ tags:
 ordered_items:
   - "{'name': '八王子ナポリタン（4人でシェア）'}"
   - "{'name': '八王子白ナポリタン（4人でシェア）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
 ---

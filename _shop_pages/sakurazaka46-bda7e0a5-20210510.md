@@ -25,7 +25,4 @@ members:
   - "渡辺梨加"
 groups:
   - "sakurazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13056242/"
 ---

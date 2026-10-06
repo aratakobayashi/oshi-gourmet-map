@@ -16,7 +16,7 @@ source_video_title: "#269【わっしょいCAMP】Jr.に凸ったら演出家に
 source_video_url: "https://www.youtube.com/watch?v=6yE2A-A8oE8"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13248277/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001295063/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001295063/"
 thumbnail_url: "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
 business_hours: "11:00 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6848
@@ -33,9 +33,4 @@ tags:
   - "定食"
   - "新宿"
   - "ごはん"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13248277/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001295063/?vos=nhppalsa000016"
 ---

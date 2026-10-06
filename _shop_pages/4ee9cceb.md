@@ -19,7 +19,4 @@ lng: 140.65221055418579
 tabelog_score: 3.35
 groups:
   - "kodoku_no_gurume"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1205/A120502/12025317/"
 ---

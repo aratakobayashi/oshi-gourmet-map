@@ -26,7 +26,4 @@ ordered_items:
   - "{'name': 'お好み焼き（豚玉）定食'}"
   - "{'name': '焼きそばのデラックス'}"
   - "{'name': 'タコネギ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270203/27014344/"
 ---

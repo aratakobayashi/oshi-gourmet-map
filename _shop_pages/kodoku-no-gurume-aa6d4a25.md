@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': '焼うどん'}"
   - "{'name': '親子丼'}"
   - "{'name': 'おしるこ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131805/13140021/"
 ---

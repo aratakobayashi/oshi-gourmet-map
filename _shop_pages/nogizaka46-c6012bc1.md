@@ -23,7 +23,4 @@ members:
   - "岩本蓮加"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1331/A133101/13220704/"
 ---

@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '二色まぶし丼（蒸し蒲焼き＋白焼き）'}"
   - "{'name': 'ミニ牡蠣カバ丼'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2202/A220201/22002638/"
 ---

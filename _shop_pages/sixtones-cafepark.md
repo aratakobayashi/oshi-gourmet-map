@@ -28,7 +28,4 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131810/13263736/"
 ---

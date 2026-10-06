@@ -34,7 +34,4 @@ ordered_items:
   - "{'name': '特上うな重'}"
   - "{'name': '肝入り特上うな重(限定)'}"
   - "{'name': '肝入り特上うな重(限定)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131303/13298913/"
 ---

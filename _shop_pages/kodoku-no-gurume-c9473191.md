@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '海鮮五色丼'}"
   - "{'name': '活穴子天ぷら'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/miyagi/A0404/A040403/4003356/"
 ---

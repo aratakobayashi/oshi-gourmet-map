@@ -14,7 +14,7 @@ visited_date: "2023-12-01"
 source_video_title: "乃木坂46 久保史緒里のカレー探訪"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13000439/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000811975/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
 business_hours: "月・火・水・木・金 11:00 - 22:00 L.O. 21:30 土・日・祝日 10:00 - 22:00 L.O. 21:30 ■ 定休日年末年始"
@@ -27,9 +27,4 @@ members:
 groups:
   - "nogizaka46"
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1310/A131003/13000439/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000811975/?vos=nhppalsa000016"
 ---

@@ -152,6 +152,14 @@ layout: default
     </div>
 
     <div class="shop-hero__card">
+      {%- assign aff_vc = site.affiliate.valuecommerce -%}
+      {%- assign has_promo = false -%}
+      {%- if aff_vc.sid and aff_vc.sid != '' -%}
+        {%- if s.tabelog_url and aff_vc.tabelog_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+        {%- if s.hotpepper_url and aff_vc.hotpepper_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+        {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' and aff_vc.ikyu_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
+      {%- endif -%}
+      {% if has_promo %}<p class="pr-notice">本ページはプロモーションを含みます</p>{% endif %}
       <div class="shop-hero__badges">
         {% if s.genre %}<span class="badge badge--genre">{{ s.genre }}</span>{% endif %}
         {% if group_label %}<span class="badge" style="background:{{ hero_color }}1a;color:{{ hero_color }};border:1px solid {{ hero_color }}40">{{ group_label }}</span>{% endif %}
@@ -167,7 +175,7 @@ layout: default
         <div class="shop-hero__kpi-item">
           <span class="shop-hero__kpi-label">食べログ</span>
           <span class="shop-hero__kpi-value">⭐ {{ s.tabelog_score }}</span>
-          {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__kpi-link" target="_blank" rel="noopener">詳細→</a>{% endif %}
+          {% if s.tabelog_url %}{% include affiliate-link.html url=s.tabelog_url label="詳細→" class="shop-hero__kpi-link" %}{% endif %}
         </div>
         {% endif %}
         {% if s.price_range %}
@@ -187,8 +195,9 @@ layout: default
       </ul>
 
       <div class="shop-hero__actions">
-        {% if s.hotpepper_url %}<a href="{{ s.hotpepper_url }}" class="shop-hero__btn shop-hero__btn--primary" target="_blank" rel="noopener">ホットペッパーで予約する</a>{% endif %}
-        {% if s.tabelog_url %}<a href="{{ s.tabelog_url }}" class="shop-hero__btn shop-hero__btn--outline" target="_blank" rel="noopener">食べログで見る</a>{% endif %}
+        {% if s.hotpepper_url %}{% include affiliate-link.html url=s.hotpepper_url label="ホットペッパーで予約する" class="shop-hero__btn shop-hero__btn--primary" %}{% endif %}
+        {% if s.tabelog_url %}{% include affiliate-link.html url=s.tabelog_url label="食べログで見る" class="shop-hero__btn shop-hero__btn--outline" %}{% endif %}
+        {% for l in s.affiliate_links %}{% include affiliate-link.html url=l.url label=l.label class="shop-hero__btn shop-hero__btn--outline" %}{% endfor %}
         {% if s.google_maps_url %}<a href="{{ s.google_maps_url }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% elsif s.address %}<a href="https://maps.google.com/?q={{ s.address | url_encode }}" class="shop-hero__btn shop-hero__btn--maps" target="_blank" rel="noopener">Googleマップで見る</a>{% endif %}
       </div>
 

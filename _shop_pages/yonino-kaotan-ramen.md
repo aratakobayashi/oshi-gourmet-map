@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': '五目野菜麵（二宮和也）'}"
   - "{'name': 'チャーシュー麵（山田涼介）'}"
   - "{'name': 'チャーシュー麵（菊池風磨）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13001896/"
 ---

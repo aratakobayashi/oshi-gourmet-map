@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '生鮭のバター焼き'}"
   - "{'name': 'カニピラフ'}"
   - "{'name': 'ガーリックトースト'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1201/A120103/12000797/"
 ---

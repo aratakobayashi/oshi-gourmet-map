@@ -30,7 +30,4 @@ ordered_items:
   - "{'name': '鮎の塩焼き'}"
   - "{'name': '大海老にんにく炒め'}"
   - "{'name': 'なめこの味噌汁'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gunma/A1001/A100102/10005592/"
 ---

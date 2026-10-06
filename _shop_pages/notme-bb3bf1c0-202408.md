@@ -14,7 +14,7 @@ visited_date: "2024-08-04"
 youtube_id: "vUhfX5OTw_w"
 group: "notme"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27001451/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000018294/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000018294/"
 thumbnail_url: "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
 business_hours: "11:00 - 23:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6685063
@@ -22,9 +22,4 @@ lng: 135.5032623
 tabelog_score: 3.17
 groups:
   - "notme"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270202/27001451/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000018294/?vos=nhppalsa000016"
 ---

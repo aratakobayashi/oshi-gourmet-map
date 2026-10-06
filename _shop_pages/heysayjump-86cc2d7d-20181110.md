@@ -24,7 +24,4 @@ members:
   - "山田涼介"
 groups:
   - "heysayjump"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1103/A110303/11025164/"
 ---

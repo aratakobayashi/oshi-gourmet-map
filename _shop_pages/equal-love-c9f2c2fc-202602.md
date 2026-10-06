@@ -14,7 +14,7 @@ visited_date: "2026-02-07"
 youtube_id: "K7CCROY8Xm4"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13293516/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003737219/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003737219/"
 thumbnail_url: "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 15:00 - 00:00 L.O. 料理23:00 ドリンク23:30 12:00~14:49のご予約はお電話にてご相談下さい。"
 lat: 35.6653482
@@ -24,9 +24,4 @@ members:
   - "諸橋沙夏"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130103/13293516/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003737219/?vos=nhppalsa000016"
 ---

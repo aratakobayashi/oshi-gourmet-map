@@ -19,7 +19,4 @@ lat: 35.671379248722054
 lng: 139.7657465742854
 groups:
   - "kpop_twice"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13282937/"
 ---

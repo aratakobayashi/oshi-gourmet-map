@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'ナス味噌炒め'}"
   - "{'name': 'コロッケ'}"
   - "{'name': '鴨とハーブ漬け'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1320/A132002/13059752/"
 ---

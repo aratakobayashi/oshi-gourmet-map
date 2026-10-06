@@ -24,7 +24,4 @@ members:
   - "上田竜也"
 groups:
   - "kattun"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1310/A131003/13021812/"
 ---

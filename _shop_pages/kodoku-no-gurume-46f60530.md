@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '肉朝鮮焼定食'}"
   - "{'name': '生タマゴ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1204/A120403/12008244/"
 ---

@@ -38,7 +38,4 @@ ordered_items:
   - "{'name': '神戸牛ハンバーグ 炭火焼き'}"
   - "{'name': '銘柄牛すき焼御膳'}"
   - "{'name': '銘柄牛しゃぶしゃぶ御膳'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131102/13003649/"
 ---

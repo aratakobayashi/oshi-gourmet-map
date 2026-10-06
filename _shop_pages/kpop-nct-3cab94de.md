@@ -21,7 +21,4 @@ lng: 135.51379439372175
 tabelog_score: 3.43
 groups:
   - "kpop_nct"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270203/27134872/"
 ---

@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': '上州すきやき定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1322/A132201/13012319/"
 ---

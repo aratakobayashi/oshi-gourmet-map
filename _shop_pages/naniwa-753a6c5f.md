@@ -22,7 +22,4 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1324/A132404/13299806/"
 ---

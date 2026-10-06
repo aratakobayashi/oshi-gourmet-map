@@ -22,7 +22,4 @@ members:
   - "松村沙友理"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230101/23016117/"
 ---

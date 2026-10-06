@@ -26,9 +26,4 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1326/A132602/13296476/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000815973/"
 ---

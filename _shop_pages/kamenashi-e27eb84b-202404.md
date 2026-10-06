@@ -15,7 +15,7 @@ youtube_id: "Yh0PvWpXNoY"
 source_video_title: "【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000103008/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000103008/"
 thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
 business_hours: "11:00 - 23:00 L.O. 22:30 ■ 定休日年中無休"
 lat: 35.6687049
@@ -28,9 +28,4 @@ groups:
 ordered_items:
   - "{'name': '黒ウーロン茶（亀梨和也）'}"
   - "{'name': '九州じゃんがらの全部入り（越岡裕貴）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000103008/?vos=nhppalsa000016"
 ---

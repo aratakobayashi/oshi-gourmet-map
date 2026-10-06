@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'えんがわポン酢'}"
   - "{'name': 'きんきの煮付け'}"
   - "{'name': 'ばくだん納豆'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130905/13091985/"
 ---

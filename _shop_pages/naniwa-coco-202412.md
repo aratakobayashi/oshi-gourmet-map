@@ -16,7 +16,7 @@ source_video_title: "なにわ男子【ココイチで被っちゃダメよカ�
 source_video_url: "https://www.youtube.com/watch?v=wvv-EUPN6_8"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13236641/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002"
+hotpepper_url: "https://www.hotpepper.jp/strJ001271319/"
 thumbnail_url: "https://img.youtube.com/vi/wvv-EUPN6_8/hqdefault.jpg"
 business_hours: "【営業時間】11:00～22:30(L.O)"
 lat: 35.6441592
@@ -69,9 +69,4 @@ ordered_items:
   - "{'name': 'ロースカツカレー＋野菜（大橋和也）'}"
   - "{'name': 'カキフライカレー／1.（大橋和也）'}"
   - "{'name': '半熟卵タルタルソース（大橋和也）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131701/13236641/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001271319/?vos=nhppvccp99002"
 ---

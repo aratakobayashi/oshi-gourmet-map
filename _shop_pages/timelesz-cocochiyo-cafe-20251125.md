@@ -26,7 +26,4 @@ groups:
   - "timelesz"
 ordered_items:
   - "{'name': 'とろ～り半熟ここちよプリン極'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130402/13177228/"
 ---

@@ -29,7 +29,4 @@ members:
   - "横尾渉"
 groups:
   - "kismai"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
 ---

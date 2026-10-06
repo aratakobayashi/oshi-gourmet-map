@@ -15,7 +15,7 @@ youtube_id: "fqUI15scR4o"
 source_video_title: "【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺を食べる。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/miyazaki/A4501/A450101/45008630/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001159336/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001159336/"
 thumbnail_url: "https://img.youtube.com/vi/fqUI15scR4o/hqdefault.jpg"
 business_hours: "11:30 - 22:00 L.O. 21:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 31.8748654
@@ -25,9 +25,4 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/miyazaki/A4501/A450101/45008630/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001159336/?vos=nhppalsa000016"
 ---

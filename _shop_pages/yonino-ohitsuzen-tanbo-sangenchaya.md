@@ -38,7 +38,4 @@ ordered_items:
   - "{'name': '銀タラ単品追加'}"
   - "{'name': '鮭いくらおひつ膳'}"
   - "{'name': '銀タラ単品追加'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130403/13000681/"
 ---

@@ -37,7 +37,4 @@ ordered_items:
   - "{'name': '烏龍茶'}"
   - "{'name': 'たらこと湯葉とモッツァレラチーズのカルボナーラ'}"
   - "{'name': '烏龍茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13123355/"
 ---

@@ -48,7 +48,4 @@ ordered_items:
   - "{'name': 'サーロイン炙り寿司'}"
   - "{'name': 'チャンジャ'}"
   - "{'name': '土鍋トリュフごはん'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230104/23060894/"
 ---

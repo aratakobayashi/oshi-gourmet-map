@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'オーカク（塩）'}"
   - "{'name': 'ホルモンそば'}"
   - "{'name': 'サイコロステーキ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tottori/A3101/A310101/31001933/"
 ---

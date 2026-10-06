@@ -37,7 +37,4 @@ ordered_items:
   - "{'name': 'アイスラテ'}"
   - "{'name': 'バナナブレッド'}"
   - "{'name': 'アイスラテ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13190426/"
 ---

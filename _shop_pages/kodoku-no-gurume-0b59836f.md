@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '焼きまんじゅう（あんあり）'}"
   - "{'name': '焼きまんじゅう（あんなし）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gunma/A1001/A100102/10006729/"
 ---

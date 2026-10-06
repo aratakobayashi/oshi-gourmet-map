@@ -26,7 +26,4 @@ groups:
   - "timelesz"
 ordered_items:
   - "{'name': '金目鯛の紅白二色丼定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2205/A220502/22009940/"
 ---

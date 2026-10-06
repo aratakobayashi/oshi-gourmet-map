@@ -28,7 +28,4 @@ members:
   - "増本綺良"
 groups:
   - "sakurazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13188510/"
 ---

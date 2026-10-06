@@ -28,7 +28,4 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130803/13000285/"
 ---

@@ -23,7 +23,4 @@ members:
   - "藤井流星"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gifu/A2101/A210101/21000687/"
 ---

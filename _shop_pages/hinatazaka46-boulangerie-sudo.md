@@ -20,7 +20,4 @@ members:
   - "佐々木美玲"
 groups:
   - "hinatazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131709/13098861/"
 ---

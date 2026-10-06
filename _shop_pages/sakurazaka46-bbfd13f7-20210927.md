@@ -27,7 +27,4 @@ groups:
   - "sakurazaka46"
 ordered_items:
   - "{'name': 'フォアグラの黒糖ブリュレクレープ包み'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130303/13239340/"
 ---

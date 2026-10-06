@@ -24,7 +24,4 @@ members:
   - "篠塚大輝"
 groups:
   - "timelesz"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130601/13088711/"
 ---

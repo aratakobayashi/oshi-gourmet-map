@@ -14,7 +14,7 @@ visited_date: "2017-02-01"
 source_video_title: "2017.02.01/02.08 女子会向けスイーツ特集"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13036299/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000011656/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000011656/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
 business_hours: "月・火・水・木・金 17:00 - 05:00 土・日・祝日 15:00 - 05:00"
@@ -28,9 +28,4 @@ members:
   - "知念侑李"
 groups:
   - "heysayjump"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13036299/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000011656/?vos=nhppalsa000016"
 ---

@@ -23,7 +23,4 @@ members:
   - "小瀧望"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukushima/A0702/A070201/7008950/"
 ---

@@ -16,7 +16,7 @@ source_video_title: "Snow Man【思い出のあの場所で…焼肉】完全プ
 source_video_url: "https://www.youtube.com/watch?v=m357q_FwBCE"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13168180/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001117343/"
 thumbnail_url: "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg"
 business_hours: "月・火・水・木・土 17:00 - 00:00 L.O. 23:30 金 17:00 - 02:00 L.O. 01:30 日・祝日 17:00 - 23:30 L.O. 23:00 ■ ＜年中無休＞※1/1～1/3は除く■年末年始の営業時間については、HPをご確認ください。または、直接店舗へお問い合わせください。"
 lat: 35.663
@@ -43,9 +43,4 @@ ordered_items:
   - "{'name': '一口冷麺'}"
   - "{'name': 'ポテバニ'}"
   - "{'name': '俺じなるヨーグルト'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13168180/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001117343/?vos=nhppalsa000016"
 ---

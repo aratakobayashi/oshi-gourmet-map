@@ -41,7 +41,4 @@ ordered_items:
   - "{'name': 'チャーシュー麺（宮館涼太）'}"
   - "{'name': 'ラーメン（目黒連）'}"
   - "{'name': '肉野菜炒め（阿部亮平）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130905/13006446/"
 ---

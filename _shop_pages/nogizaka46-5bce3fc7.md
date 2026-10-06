@@ -26,7 +26,4 @@ members:
   - "大園桃子"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1404/A140402/14002091/"
 ---

@@ -39,7 +39,4 @@ ordered_items:
   - "{'name': 'いか丸焼き（950円）'}"
   - "{'name': '焼きはまぐり（1,900円）'}"
   - "{'name': 'はまぐり汁（950円）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
 ---

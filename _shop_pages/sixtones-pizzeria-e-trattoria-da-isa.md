@@ -24,7 +24,4 @@ members:
   - "ジェシー"
 groups:
   - "sixtones"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131701/13304230/"
 ---

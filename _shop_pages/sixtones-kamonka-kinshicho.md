@@ -34,7 +34,4 @@ tags:
   - "錦糸町"
   - "大食い"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13156723/"
 ---

@@ -26,7 +26,4 @@ groups:
   - "naniwa"
 ordered_items:
   - "{'name': 'カカオのデザートコース 5,500円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1302/A130202/13304544/"
 ---

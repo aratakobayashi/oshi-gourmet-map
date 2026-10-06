@@ -33,7 +33,4 @@ tags:
   - "焼津"
   - "聖地巡礼"
   - "松村北斗"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2203/A220301/22002876/"
 ---

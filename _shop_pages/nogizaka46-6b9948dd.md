@@ -25,7 +25,4 @@ members:
   - "田村真佑"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130103/13225231/"
 ---

@@ -25,7 +25,4 @@ groups:
   - "west"
 ordered_items:
   - "{'name': 'キラークイーン（超激辛チキンカレー）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131907/13255518/"
 ---

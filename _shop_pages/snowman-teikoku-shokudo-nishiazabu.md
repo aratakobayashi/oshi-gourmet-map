@@ -16,7 +16,7 @@ source_video_title: "Snow Man【フレンチを食べよう！】メンバーの
 source_video_url: "https://www.youtube.com/watch?v=8j6glqZxVzU"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13153906/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004444214/"
 thumbnail_url: "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
 business_hours: "月 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 料理23:00 ドリンク23:30 火・水 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 23:30 木・金 12:00 - 14:00 L.O. 13:30 18:00 - 00:00 L.O. 23:00 土・祝日 18:00 - 00:00 L.O. 23:0"
 lat: 35.6563
@@ -43,9 +43,4 @@ ordered_items:
   - "{'name': '本日のパスタ（みんなでシェア）'}"
   - "{'name': 'お肉だらけのハンバーグ（みんなでシェア）'}"
   - "{'name': '黒毛和牛モモ肉のグリル（みんなでシェア）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13153906/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ004444214/?vos=nhppalsa000016"
 ---

@@ -26,7 +26,4 @@ members:
   - "中丸雄一"
 groups:
   - "kattun"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270403/27114246/"
 ---

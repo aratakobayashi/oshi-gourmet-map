@@ -29,7 +29,4 @@ tags:
   - "定食"
   - "千駄木"
   - "大衆食堂"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132301/13008505/"
 ---

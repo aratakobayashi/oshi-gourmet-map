@@ -34,7 +34,4 @@ tags:
   - "小籠包"
   - "横浜中華街"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140103/14000580/"
 ---

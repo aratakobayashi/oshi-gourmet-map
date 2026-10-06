@@ -29,7 +29,4 @@ members:
   - "松倉海斗"
 groups:
   - "travisjapan"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13149710/"
 ---

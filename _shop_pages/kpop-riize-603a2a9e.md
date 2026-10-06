@@ -21,7 +21,4 @@ lng: 139.6514509
 tabelog_score: 3.31
 groups:
   - "kpop_riize"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140105/14055923/"
 ---

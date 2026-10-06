@@ -16,7 +16,7 @@ source_video_title: "#376【朝食!!】多感なお年頃だからワーワー�
 source_video_url: "https://www.youtube.com/watch?v=Usc8z4FfofQ"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13287935/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003851533/"
 thumbnail_url: "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg"
 business_hours: "月・火・水・木・金 16:00 - 23:00 L.O. 22:30 土・日・祝日 11:30 - 15:00 L.O. 14:30 16:00 - 22:30 L.O. 22:00 ■ 定休日年末年始〇ご入店は1F大通り沿いの横断歩道前のトビラよりお願い致します。"
 lat: 35.672
@@ -39,9 +39,4 @@ ordered_items:
   - "{'name': '烏龍茶'}"
   - "{'name': '烏龍茶'}"
   - "{'name': '烏龍茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13287935/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003851533/?vos=nhppalsa000016"
 ---

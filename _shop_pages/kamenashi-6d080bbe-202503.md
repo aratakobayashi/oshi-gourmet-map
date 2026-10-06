@@ -33,7 +33,4 @@ ordered_items:
   - "{'name': 'エノキベーコンバター'}"
   - "{'name': '上海焼きそば'}"
   - "{'name': '亀竹もんじゃ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131302/13283786/"
 ---

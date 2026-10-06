@@ -25,7 +25,4 @@ groups:
   - "naniwa"
 ordered_items:
   - "{'name': 'ラクレットチョコのドバイフレンチトースト\\n1980円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130103/13311006/"
 ---

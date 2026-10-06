@@ -20,7 +20,4 @@ lng: 139.4826923858568
 tabelog_score: 3.47
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1103/A110303/11056695/"
 ---

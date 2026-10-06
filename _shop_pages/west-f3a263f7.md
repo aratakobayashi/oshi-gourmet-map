@@ -24,7 +24,4 @@ groups:
   - "west"
 ordered_items:
   - "{'name': '土鍋ご飯'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130302/13211399/"
 ---

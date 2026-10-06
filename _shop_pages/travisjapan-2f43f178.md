@@ -21,7 +21,4 @@ lng: 130.4051299
 tabelog_score: 3.6
 groups:
   - "travisjapan"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400103/40000113/"
 ---

@@ -38,7 +38,4 @@ ordered_items:
   - "{'name': '奥久滋卵の生卵(追加)'}"
   - "{'name': '豚の生姜焼き定食…ご飯…お味噌汁…1品料理…お漬物'}"
   - "{'name': '梅干し(追加)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13112400/"
 ---

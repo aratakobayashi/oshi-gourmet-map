@@ -25,7 +25,4 @@ groups:
 ordered_items:
   - "{'name': 'ちまぐ（豚足）唐揚げ甘辛醤油ダレ'}"
   - "{'name': 'ふーちゃんぷる（麩の炒め物）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okinawa/A4702/A470202/47009741/"
 ---

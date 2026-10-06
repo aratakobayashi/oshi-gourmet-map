@@ -13,7 +13,7 @@ price_range: "￥3,000～￥3,999"
 source_url: "https://senublog.com/nogizaka46-sanctuary-summarize/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13024312/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000010716/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 business_hours: "月・火・水・木・金 11:00 - 16:00 L.O. 15:00 18:00 - 23:00 L.O. 22:00 土・日・祝日 定休日"
 lat: 35.6716786
@@ -25,9 +25,4 @@ members:
   - "田村真佑"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13024312/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000010716/?vos=nhppalsa000016"
 ---

@@ -16,7 +16,7 @@ source_video_title: "Snow Man【炉端焼きを食べたい！】足湯したく
 source_video_url: "https://www.youtube.com/watch?v=ueYUZJghOzw"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13308780/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004090694/"
 thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
 seating_note: "SnowManが座っていた席は、カウンターのお席でした。 炉端焼きを調理している様子が目の前で楽しめるお席です。 カウンター以外にもテーブル席があります。席数は全部で42席あります。"
 business_hours: "月・火・水・木・金・土 17:00 - 23:00 L.O. 料理22:00 ドリンク22:30 日・祝日 17:00 - 22:00 L.O. 料理21:00 ドリンク21:30 ■不定休■混雑時は２時間制とさせていただく場合がございます。"
@@ -47,9 +47,4 @@ ordered_items:
   - "{'name': '揚げじゃがバター（みんなでシェア）'}"
   - "{'name': '刺身5点盛合せ（みんなでシェア）'}"
   - "{'name': 'からすみ蕎麦（みんなでシェア）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130302/13308780/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ004090694/?vos=nhppalsa000016"
 ---

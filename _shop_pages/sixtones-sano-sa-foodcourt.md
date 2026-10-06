@@ -36,7 +36,4 @@ tags:
   - "栃木"
   - "佐野"
   - "アポなし旅"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tochigi/A0902/A090202/9021030/"
 ---

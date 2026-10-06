@@ -20,7 +20,4 @@ lng: 138.76077808200108
 tabelog_score: 3.51
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/yamanashi/A1903/A190303/19010099/"
 ---

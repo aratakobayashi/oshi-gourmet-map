@@ -21,7 +21,4 @@ lng: 140.882243171497
 tabelog_score: 3.42
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/miyagi/A0401/A040101/4012335/"
 ---

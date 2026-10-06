@@ -23,7 +23,4 @@ lng: 139.71191488308472
 tabelog_score: 3.55
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
 ---

@@ -19,7 +19,4 @@ lng: 138.858080877825
 tabelog_score: 3.41
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2205/A220501/22031391/"
 ---

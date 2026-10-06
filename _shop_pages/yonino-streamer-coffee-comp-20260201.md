@@ -22,7 +22,4 @@ lng: 139.7375415
 tabelog_score: 3.27
 groups:
   - "yonino"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13261009/"
 ---

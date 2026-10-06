@@ -16,7 +16,7 @@ source_video_title: "Snow Man【みんなでピザが食べたい】スタジア
 source_video_url: "https://www.youtube.com/watch?v=BVjwdZw66Ms"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000242914/"
 thumbnail_url: "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg"
 seating_note: "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
 business_hours: "火・水・木・金 11:30 - 15:00 L.O. 14:00 17:30 - 22:30 L.O. 21:30 土・日・祝日 11:30 - 15:30 L.O. 14:30 17:30 - 22:30 L.O. 21:30 月・祝後日 定休日"
@@ -43,9 +43,4 @@ ordered_items:
   - "{'name': 'アイスカフェラテ？（渡辺翔太）'}"
   - "{'name': 'オーガニックザクロソーダジュース（佐久間大介）'}"
   - "{'name': 'ナプレ公式オンラインショップ（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000242914/?vos=nhppalsa000016"
 ---

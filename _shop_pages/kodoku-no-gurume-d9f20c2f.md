@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'あんトースト'}"
   - "{'name': 'カラスブレンドコーヒー（モーニング）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230102/23006935/"
 ---

@@ -12,6 +12,7 @@ nearest_station: "美栄橋駅 徒歩5分"
 visited_date: "2024-08-15"
 youtube_id: "GZg8nO3EZ4E"
 group: "equal_love"
+tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47016925/"
 thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
 lat: 26.217854
 lng: 127.6818582
@@ -19,7 +20,4 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okinawa/A4701/A470101/47016925/"
 ---

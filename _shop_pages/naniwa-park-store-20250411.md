@@ -26,7 +26,4 @@ groups:
   - "naniwa"
 ordered_items:
   - "{'name': '▶抹茶クリームドーナツ 560円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131706/13255265/"
 ---

@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'かに面（雌ズワイガニの甲羅おでん）'}"
   - "{'name': '海鮮とろろ丼（ハーフ）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/toyama/A1601/A160101/16000307/"
 ---

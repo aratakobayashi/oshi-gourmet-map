@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'バイツェーチ（蒸し鶏）'}"
   - "{'name': '水餃子'}"
   - "{'name': 'ごま団子'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131902/13025878/"
 ---

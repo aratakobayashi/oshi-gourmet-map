@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': 'ハンバーガー×5個（渡辺翔太）'}"
   - "{'name': 'ポテトS×5個（渡辺翔太）'}"
   - "{'name': '烏龍茶×5個（渡辺翔太）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1314/A131401/13039658/"
 ---

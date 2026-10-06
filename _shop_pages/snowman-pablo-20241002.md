@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': '海老ミソのアヒージョ'}"
   - "{'name': '鮮魚のパリパリ包み揚げマッシュルームソース'}"
   - "{'name': '魚介とイカ墨のパエリア'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131701/13221213/"
 ---

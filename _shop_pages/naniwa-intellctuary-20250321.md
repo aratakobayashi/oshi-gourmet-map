@@ -27,7 +27,4 @@ groups:
 ordered_items:
   - "{'name': '▶4種のデリプレート スープ・パン付き 1200円'}"
   - "{'name': '▶桜えびと菜の花のペペロンチーノ 1500円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1316/A131604/13302242/"
 ---

@@ -24,7 +24,4 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140102/14082343/"
 ---

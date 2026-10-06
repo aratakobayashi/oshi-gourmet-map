@@ -25,7 +25,4 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1107/A110701/11019230/"
 ---

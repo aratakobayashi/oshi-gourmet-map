@@ -15,7 +15,7 @@ youtube_id: "chtW4R82cOg"
 source_video_title: "【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/osaka/A2705/A270501/27119941/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001266918/"
 thumbnail_url: "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg"
 business_hours: "17:00 - 23:00 L.O. 22:00 ■ 定休日不定休"
 lat: 34.579238
@@ -25,9 +25,4 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2705/A270501/27119941/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016"
 ---

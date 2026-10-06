@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': '焼き芋'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2204/A220401/22022695/"
 ---

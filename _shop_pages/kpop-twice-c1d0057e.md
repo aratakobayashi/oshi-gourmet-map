@@ -19,7 +19,4 @@ lng: 139.87816789385778
 tabelog_score: 3.26
 groups:
   - "kpop_twice"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1202/A120203/12021578/"
 ---

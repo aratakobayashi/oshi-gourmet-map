@@ -25,7 +25,4 @@ groups:
   - "west"
 ordered_items:
   - "{'name': 'きんぴらからみ鬼うどん'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1107/A110704/11003938/"
 ---

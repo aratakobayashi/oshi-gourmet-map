@@ -43,7 +43,4 @@ ordered_items:
   - "{'name': '旬菜ぬか漬け（深澤辰哉）'}"
   - "{'name': '十割そば(太打ち)鴨せいろ(大盛)（佐久間大介）'}"
   - "{'name': '焼き蕎麦味噌（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130702/13001226/"
 ---

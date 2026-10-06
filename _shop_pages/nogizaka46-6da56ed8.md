@@ -20,7 +20,4 @@ lng: 136.50040988485952
 tabelog_score: 3.13
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/ishikawa/A1702/A170203/17005151/"
 ---

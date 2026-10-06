@@ -22,7 +22,4 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13234969/"
 ---

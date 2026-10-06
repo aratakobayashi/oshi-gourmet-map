@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': '板わさ'}"
   - "{'name': '白子の天婦羅'}"
   - "{'name': '平打ち粗挽き蕎麦(2枚)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131301/13007659/"
 ---

@@ -21,7 +21,4 @@ members:
   - "藤ヶ谷太輔"
 groups:
   - "kismai"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1205/A120503/12005144/"
 ---

@@ -30,7 +30,4 @@ ordered_items:
   - "{'name': '豚バラ'}"
   - "{'name': '野菜盛り'}"
   - "{'name': 'ライス（梅干し付き）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/nagano/A2006/A200603/20008999/"
 ---

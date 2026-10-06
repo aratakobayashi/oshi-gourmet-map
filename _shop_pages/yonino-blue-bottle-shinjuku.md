@@ -30,7 +30,4 @@ tags:
   - "カフェ"
   - "新宿"
   - "スペシャルティコーヒー"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13193547/"
 ---

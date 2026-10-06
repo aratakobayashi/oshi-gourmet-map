@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': 'ミスキアーレ（ニンニクとマヨネーズのスパゲッティ）ハーフセット'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130803/13000423/"
 ---

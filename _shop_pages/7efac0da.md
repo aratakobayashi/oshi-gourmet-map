@@ -22,7 +22,4 @@ members:
   - "阿部亮平"
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230107/23081023/"
 ---

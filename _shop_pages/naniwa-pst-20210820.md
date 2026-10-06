@@ -24,7 +24,4 @@ members:
   - "西畑大吾"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13228723/"
 ---

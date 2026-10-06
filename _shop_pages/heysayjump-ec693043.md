@@ -23,7 +23,4 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131702/13094005/"
 ---

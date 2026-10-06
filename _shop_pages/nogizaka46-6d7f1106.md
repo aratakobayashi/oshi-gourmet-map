@@ -21,7 +21,4 @@ lng: 140.04139338272162
 tabelog_score: 3.27
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
 ---

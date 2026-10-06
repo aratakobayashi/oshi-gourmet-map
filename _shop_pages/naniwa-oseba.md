@@ -23,7 +23,4 @@ members:
   - "高橋恭平"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1302/A130201/13122282/"
 ---

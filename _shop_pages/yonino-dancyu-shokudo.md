@@ -40,7 +40,4 @@ ordered_items:
   - "{'name': '生姜焼き定食'}"
   - "{'name': '緑茶'}"
   - "{'name': '生姜焼き定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1302/A130201/13271151/"
 ---

@@ -34,7 +34,4 @@ ordered_items:
   - "{'name': 'ボンゴレ耳うどん'}"
   - "{'name': '大根そば'}"
   - "{'name': 'みかも山丼'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tochigi/A0902/A090202/9003268/"
 ---

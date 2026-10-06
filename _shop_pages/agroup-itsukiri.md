@@ -27,7 +27,4 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1204/A120402/12038574/"
 ---

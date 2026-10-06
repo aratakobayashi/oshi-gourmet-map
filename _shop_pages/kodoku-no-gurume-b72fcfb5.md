@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '九絵定食'}"
   - "{'name': 'なめろう冷茶漬け'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131711/13040797/"
 ---

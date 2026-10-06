@@ -30,7 +30,4 @@ tags:
   - "大久保"
   - "スパイス"
   - "予約困難"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130404/13286023/"
 ---

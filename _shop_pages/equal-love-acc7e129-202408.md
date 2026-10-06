@@ -26,7 +26,4 @@ members:
   - "山本杏奈"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131102/13110138/"
 ---

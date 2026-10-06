@@ -33,6 +33,4 @@ tags:
 affiliate_links:
   - label: "TableCheckで予約"
     url: "https://www.tablecheck.com/ja/shops/400-yonhyakudo-tokyo/reserve"
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130905/13294495/"
 ---

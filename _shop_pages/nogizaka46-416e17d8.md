@@ -21,7 +21,4 @@ lng: 138.38714114822304
 tabelog_score: 3.66
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2201/A220101/22021460/"
 ---

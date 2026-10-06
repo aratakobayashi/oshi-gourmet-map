@@ -21,7 +21,4 @@ lng: 139.63690838219262
 tabelog_score: 3.0
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140104/14030396/"
 ---

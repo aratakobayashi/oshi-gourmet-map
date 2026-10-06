@@ -14,7 +14,7 @@ youtube_id: "kU8SZpaXoBE"
 source_video_title: "かまいたちがロケで行った飲食店まとめ【関西編】"
 group: "kamaitachi"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270106/27092078/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003388892/"
 thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 business_hours: "月・木・金・土・日 11:30 - 16:00 L.O. 15:30 火 11:30 - 16:00 L.O. 15:30 18:00 - 21:00 L.O. 20:30 水 定休日 不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 34.6794
@@ -25,9 +25,4 @@ members:
   - "濱家隆一"
 groups:
   - "kamaitachi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270106/27092078/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
 ---

@@ -24,7 +24,4 @@ members:
   - "しおり"
 groups:
   - "shiori"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130403/13266611/"
 ---

@@ -27,7 +27,4 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270302/27085344/"
 ---

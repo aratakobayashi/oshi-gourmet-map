@@ -23,7 +23,4 @@ members:
   - "松倉海斗"
 groups:
   - "travisjapan"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400104/40043848/"
 ---

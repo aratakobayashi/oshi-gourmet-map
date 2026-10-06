@@ -25,7 +25,4 @@ members:
   - "有岡大貴"
 groups:
   - "heysayjump"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130702/13209965/"
 ---

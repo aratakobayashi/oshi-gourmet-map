@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': 'スラーメン'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tottori/A3101/A310101/31002791/"
 ---

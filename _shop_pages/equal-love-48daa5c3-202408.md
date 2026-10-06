@@ -14,7 +14,7 @@ visited_date: "2024-08-15"
 youtube_id: "ohdDJpMuBco"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010103/1005414/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000727405/"
 thumbnail_url: "https://img.youtube.com/vi/ohdDJpMuBco/hqdefault.jpg"
 business_hours: "月・火・水・木・金 12:00 - 15:00 L.O. 14:30 16:30 - 23:00 L.O. 22:30 土・日・祝日 11:00 - 23:00 L.O. 22:30 ■ 定休日不定休"
 lat: 43.0563633
@@ -25,9 +25,4 @@ members:
   - "野口衣織"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hokkaido/A0101/A010103/1005414/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000727405/?vos=nhppalsa000016"
 ---

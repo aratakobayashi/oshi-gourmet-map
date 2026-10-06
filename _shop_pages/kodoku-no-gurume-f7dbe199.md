@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'ちゃんこ鍋セット'}"
   - "{'name': 'かきバター焼き'}"
   - "{'name': 'かき天ぷら'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/ishikawa/A1704/A170403/17003854/"
 ---

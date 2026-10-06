@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': '焼鯖定食'}"
   - "{'name': '小刺身'}"
   - "{'name': '納豆'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130301/13024073/"
 ---

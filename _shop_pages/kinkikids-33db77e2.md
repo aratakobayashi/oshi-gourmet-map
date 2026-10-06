@@ -24,7 +24,4 @@ members:
   - "堂本剛"
 groups:
   - "kinkikids"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131301/13184159/"
 ---

@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'リブステーキ300g'}"
   - "{'name': 'ガーリックライス（ハーフ）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1202/A120204/12001065/"
 ---

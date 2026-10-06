@@ -29,7 +29,4 @@ groups:
 tags:
   - "海鮮"
   - "居酒屋"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131703/13256676/"
 ---

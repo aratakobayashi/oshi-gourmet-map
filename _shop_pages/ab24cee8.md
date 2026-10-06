@@ -19,7 +19,4 @@ lng: 139.99979241572208
 tabelog_score: 3.58
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tochigi/A0905/A090501/9000301/"
 ---

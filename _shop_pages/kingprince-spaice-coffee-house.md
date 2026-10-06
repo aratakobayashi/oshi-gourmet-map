@@ -26,7 +26,4 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1207/A120701/12057419/"
 ---

@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': 'チャーシューメン'}"
   - "{'name': 'ネギ皿'}"
   - "{'name': 'ネギバラチャーシューラーメン'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1329/A132904/13016383/"
 ---

@@ -14,7 +14,7 @@ visited_date: "2025-09-05"
 youtube_id: "o9YsRLOqsCI"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22035765/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003365080/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003365080/"
 thumbnail_url: "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
 business_hours: "月・火・水・木・金・祝前日・祝後日 11:30 - 15:30 L.O. 15:00 17:30 - 21:30 L.O. 21:00 土 11:00 - 15:30 L.O. 15:00 17:00 - 22:00 L.O. 21:30 日・祝日 11:00 - 15:30 L.O. 15:00 17:00 - 21:30 L.O. 21:00 ■ 定休日不定休"
 lat: 35.0967641
@@ -24,9 +24,4 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2205/A220502/22035765/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003365080/?vos=nhppalsa000016"
 ---

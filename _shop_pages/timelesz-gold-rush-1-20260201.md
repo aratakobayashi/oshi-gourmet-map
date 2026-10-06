@@ -26,7 +26,4 @@ groups:
   - "timelesz"
 ordered_items:
   - "{'name': 'ハンバーグ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1305/A130501/13040549/"
 ---

@@ -64,7 +64,4 @@ ordered_items:
   - "{'name': 'キムチ納豆／？（ラウール）'}"
   - "{'name': '明太子／？（ラウール）'}"
   - "{'name': 'おかず海苔（ラウール）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131305/13136164/"
 ---

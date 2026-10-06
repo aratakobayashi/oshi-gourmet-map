@@ -4809,3 +4809,6 @@ body {
 }
 .static-page .post-body table { border-collapse: collapse; }
 .static-page .post-body th, .static-page .post-body td { padding: 8px 12px; border: 1px solid var(--color-border); text-align: left; }
+
+/* ── PR表記（アフィリエイトリンクがあるページ） ── */
+.pr-notice { display: inline-block; margin-bottom: 8px; padding: 2px 10px; border-radius: 999px; font-size: 11px; color: #6b7280; background: #f3f4f6; }

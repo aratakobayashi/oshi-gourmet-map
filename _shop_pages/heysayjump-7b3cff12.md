@@ -22,7 +22,4 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131802/13246670/"
 ---

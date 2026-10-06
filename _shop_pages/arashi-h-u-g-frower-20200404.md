@@ -28,7 +28,4 @@ members:
   - "松本潤"
 groups:
   - "arashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140104/14077103/"
 ---

@@ -23,7 +23,4 @@ members:
   - "藤井流星"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tochigi/A0905/A090501/9020983/"
 ---

@@ -30,7 +30,4 @@ tags:
   - "アジフライ"
   - "市ヶ谷"
   - "定食"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130904/13269930/"
 ---

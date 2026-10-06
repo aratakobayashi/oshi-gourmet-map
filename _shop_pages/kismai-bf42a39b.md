@@ -28,7 +28,4 @@ members:
   - "横尾渉"
 groups:
   - "kismai"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1103/A110303/11024045/"
 ---

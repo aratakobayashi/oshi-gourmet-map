@@ -20,7 +20,4 @@ lng: 133.535951
 tabelog_score: 3.14
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kochi/A3901/A390101/39006303/"
 ---

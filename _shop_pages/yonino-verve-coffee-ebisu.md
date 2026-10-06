@@ -38,7 +38,4 @@ ordered_items:
   - "{'name': 'ハッシュドバター(アプリコット)'}"
   - "{'name': 'アイスラテ'}"
   - "{'name': 'ハッシュドバター(アプリコット)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130302/13299743/"
 ---

@@ -23,7 +23,4 @@ members:
   - "小瀧望"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140104/14077627/"
 ---

@@ -20,7 +20,4 @@ lng: 136.64707772541405
 tabelog_score: 3.51
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/ishikawa/A1701/A170101/17011103/"
 ---

@@ -25,7 +25,4 @@ groups:
   - "kimura"
 ordered_items:
   - "{'name': 'スッキリ系の白ワイン(グラス)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131701/13301076/"
 ---

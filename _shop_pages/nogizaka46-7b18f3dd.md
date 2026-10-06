@@ -21,7 +21,4 @@ lng: 136.75685661384523
 tabelog_score: 3.61
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gifu/A2101/A210101/21006119/"
 ---

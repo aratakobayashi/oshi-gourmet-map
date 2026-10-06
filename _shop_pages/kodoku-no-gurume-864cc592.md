@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'チーズ入りウインナー'}"
   - "{'name': 'ネギ肉イタメ'}"
   - "{'name': '海鮮春巻き'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1405/A140504/14003565/"
 ---

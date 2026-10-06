@@ -16,7 +16,7 @@ source_video_title: "Snow Man【アスレチックに行く前にまずはメシ
 source_video_url: "https://www.youtube.com/watch?v=R_fNfXp07H8"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13274875/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001231515/"
 thumbnail_url: "https://img.youtube.com/vi/DgRmrlrRUN8/hqdefault.jpg"
 business_hours: "月・火・木・金 11:30 - 15:00 L.O. 14:30 17:00 - 22:00 L.O. 21:00 土・日・祝日 11:30 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00 水 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.7116
@@ -38,9 +38,4 @@ ordered_items:
   - "{'name': 'トンペイ焼き'}"
   - "{'name': 'スペシャルもんじゃ'}"
   - "{'name': '焦がし明太子もちチーズ玉'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131102/13274875/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001231515/?vos=nhppalsa000016"
 ---

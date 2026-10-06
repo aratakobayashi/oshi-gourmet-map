@@ -22,7 +22,4 @@ lng: 135.5220024
 tabelog_score: 3.51
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270205/27002900/"
 ---

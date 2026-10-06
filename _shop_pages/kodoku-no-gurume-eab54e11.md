@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': '牛肉のスタミナ炒め定食'}"
   - "{'name': 'ねぎ玉'}"
   - "{'name': 'カツ煮'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1407/A140701/14015513/"
 ---

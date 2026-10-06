@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'ふーちゃんぷるー（麩・野菜・ゴーヤの沖縄風炒め）'}"
   - "{'name': 'トマトカレーつけそば'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131808/13041797/"
 ---

@@ -21,7 +21,4 @@ lng: 136.99259799354192
 tabelog_score: 3.03
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230114/23056870/"
 ---

@@ -24,7 +24,4 @@ members:
   - "桐山照史"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1202/A120201/12020358/"
 ---

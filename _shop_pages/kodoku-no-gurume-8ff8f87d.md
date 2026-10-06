@@ -25,7 +25,4 @@ groups:
   - "kodoku_no_gurume"
 ordered_items:
   - "{'name': '豚のすき焼き'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gunma/A1005/A100501/10005687/"
 ---

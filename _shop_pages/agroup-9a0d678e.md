@@ -28,7 +28,4 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130301/13223448/"
 ---

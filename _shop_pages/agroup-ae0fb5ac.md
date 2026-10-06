@@ -28,7 +28,4 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hokkaido/A0101/A010104/1043871/"
 ---

@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': 'ブラウンマッシュルームバーガー 760円'}"
   - "{'name': 'ナスアラビアータバーガー 660円'}"
   - "{'name': 'ブロッコリーチーズバーガー 660円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130602/13316356/"
 ---

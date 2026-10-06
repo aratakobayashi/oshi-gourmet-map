@@ -21,7 +21,4 @@ lng: 139.7657958831133
 tabelog_score: 3.49
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13010659/"
 ---

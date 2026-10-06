@@ -40,7 +40,4 @@ ordered_items:
   - "{'name': 'レバニラ炒めと幸せライス（阿部亮平）'}"
   - "{'name': '元祖のレバニラ炒め定食（向井康二）'}"
   - "{'name': 'レバニラ半分と特製やきとり丼（渡辺翔太）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1324/A132402/13288277/"
 ---

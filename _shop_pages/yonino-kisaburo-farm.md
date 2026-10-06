@@ -37,7 +37,4 @@ ordered_items:
   - "{'name': '地鶏のゆうやけ親子丼特上定食'}"
   - "{'name': '地鶏のゆうやけ親子丼特上定食'}"
   - "{'name': 'ご飯(大)＋卵2個(マイキシマム・二黄卵)'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132301/13093220/"
 ---

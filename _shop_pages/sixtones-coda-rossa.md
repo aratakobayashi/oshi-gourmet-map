@@ -33,7 +33,4 @@ ordered_items:
   - "{'name': '金目鯛フリット・レッジェーロ'}"
   - "{'name': 'アサリとヒラメの勢いパスタ'}"
   - "{'name': 'Pizzaマルゲリータ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/shizuoka/A2205/A220502/22039494/"
 ---

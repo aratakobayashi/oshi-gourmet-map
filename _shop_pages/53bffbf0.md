@@ -19,7 +19,4 @@ lng: 140.87057902968508
 tabelog_score: 3.44
 groups:
   - "snowman"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/miyagi/A0401/A040101/4024167/"
 ---

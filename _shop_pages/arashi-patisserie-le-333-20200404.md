@@ -24,7 +24,4 @@ members:
   - "二宮和也"
 groups:
   - "arashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130703/13238427/"
 ---

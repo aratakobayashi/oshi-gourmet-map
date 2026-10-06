@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'マッシュルームガーリック'}"
   - "{'name': 'カキグラタン'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131801/13020966/"
 ---

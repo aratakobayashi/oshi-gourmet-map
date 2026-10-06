@@ -28,7 +28,4 @@ tags:
   - "天然氷"
   - "長瀞"
   - "埼玉"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1107/A110704/11000259/"
 ---

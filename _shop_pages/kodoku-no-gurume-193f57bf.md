@@ -31,7 +31,4 @@ ordered_items:
   - "{'name': 'ミーアヤム'}"
   - "{'name': 'トランチャム（インドネシア野菜サラダ）'}"
   - "{'name': 'シオマイ コンプリート'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1316/A131601/13027513/"
 ---

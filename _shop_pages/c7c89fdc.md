@@ -26,7 +26,4 @@ members:
   - "藤井流星"
 groups:
   - "west"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132305/13249456/"
 ---

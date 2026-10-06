@@ -26,7 +26,4 @@ groups:
   - "naniwa"
 ordered_items:
   - "{'name': '「搾りたて！クワトロチーズのモンブランハンバーグ 2480円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1305/A130501/13121923/?cid=google_yoyaku"
 ---

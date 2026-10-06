@@ -16,7 +16,7 @@ source_video_title: "SixTONES【アポなし旅 2024夏～05～】爆笑ドラ�
 source_video_url: "https://www.youtube.com/watch?v=YaXa9d2okDE"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tochigi/A0901/A090101/9000221/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000102335/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000102335/"
 thumbnail_url: "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 20:30 L.O. 20:00 土・日・祝日 11:00 - 21:00 L.O. 20:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 36.556614
@@ -37,9 +37,4 @@ tags:
   - "栃木"
   - "ご当地グルメ"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tochigi/A0901/A090101/9000033/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000102335/?vos=nhppalsa000016"
 ---

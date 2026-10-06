@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': '鯖のくんせい'}"
   - "{'name': 'どんぶりしらす'}"
   - "{'name': 'ももハムとキムチ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132304/13044760/"
 ---

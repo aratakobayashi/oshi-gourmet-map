@@ -16,7 +16,7 @@ source_video_title: "Snow Man【贅沢ランチ】ザギンでシースー 笑"
 source_video_url: "https://www.youtube.com/watch?v=7M6V-X_f_kU"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13228726/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001223626/"
 thumbnail_url: "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg"
 business_hours: "月・火・水・木・金 18:00 - 21:00 祝日 12:00 - 14:00 L.O. 13:45 17:00 - 21:00 L.O. 20:45 土・日 定休日 祝日の営業についてのお知らせ平素より『羽田市場 GINZA SEVEN 』をご愛顧いただきまして誠にありがとうございます。より多くのお客様にご利用いただきたく祝日は昼12時からコースのご利用が可能となりディナー営業も17時から営業"
 lat: 35.6693
@@ -38,9 +38,4 @@ ordered_items:
   - "{'name': '特別コース（阿部亮平）'}"
   - "{'name': '特別コース（渡辺翔太）'}"
   - "{'name': '特別コース（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13228726/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001223626/?vos=nhppalsa000016"
 ---

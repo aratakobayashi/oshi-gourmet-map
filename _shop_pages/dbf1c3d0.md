@@ -20,7 +20,4 @@ lng: 139.68561276412478
 tabelog_score: 3.47
 groups:
   - "kodoku_no_gurume"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131705/13008148/"
 ---

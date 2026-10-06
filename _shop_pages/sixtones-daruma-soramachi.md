@@ -13,6 +13,7 @@ visited_date: "2025-04-11"
 youtube_id: "6WTMkZziBHw"
 source_video_title: "SixTONES official【もんじゃ忘年会】2024年のYouTube ベスト１は何？"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13178286/"
 thumbnail_url: "https://img.youtube.com/vi/6WTMkZziBHw/hqdefault.jpg"
 lat: 35.711025
 lng: 139.814476
@@ -31,7 +32,4 @@ tags:
   - "墨田区"
   - "忘年会"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13178286/"
 ---

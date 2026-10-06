@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '鱈の餃子'}"
   - "{'name': 'チャプチェ'}"
   - "{'name': '参鶏湯ラーメン'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130103/13129629/"
 ---

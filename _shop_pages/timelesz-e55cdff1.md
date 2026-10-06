@@ -23,7 +23,4 @@ groups:
   - "timelesz"
 ordered_items:
   - "{'name': 'ほうじ茶ラテ（アイス）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13193799/"
 ---

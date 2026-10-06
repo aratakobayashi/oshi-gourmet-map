@@ -32,7 +32,4 @@ members:
   - "阪口珠美"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1310/A131003/13284634/"
 ---

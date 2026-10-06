@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'せんちゃんサラダ'}"
   - "{'name': '明太クリームパスタ'}"
   - "{'name': '名物かつサンド'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131103/13100691/"
 ---

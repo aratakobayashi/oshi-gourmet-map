@@ -26,7 +26,4 @@ members:
   - "瀧脇笙古"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140104/14080675/"
 ---

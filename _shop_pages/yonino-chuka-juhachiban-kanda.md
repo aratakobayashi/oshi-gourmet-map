@@ -16,7 +16,7 @@ source_video_title: "#314【お初!!】やってみたかった朝中華の日"
 source_video_url: "https://www.youtube.com/watch?v=9qR7zTTlnEw"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13062433/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003340336/"
 thumbnail_url: "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg"
 business_hours: "月・水・土・日 11:00 - 14:30 17:00 - 20:30 金 11:00 - 15:00 17:00 - 20:30 火・木 定休日 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6941
@@ -38,9 +38,4 @@ ordered_items:
   - "{'name': '回鍋肉定食'}"
   - "{'name': '油淋鶏定食'}"
   - "{'name': '回鍋肉定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131905/13062433/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003340336/?vos=nhppalsa000016"
 ---

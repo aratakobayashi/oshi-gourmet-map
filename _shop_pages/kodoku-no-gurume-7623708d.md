@@ -29,7 +29,4 @@ ordered_items:
   - "{'name': '自家製漬物'}"
   - "{'name': 'きのこ汁'}"
   - "{'name': '棒鱈'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hokkaido/A0104/A010401/1014057/"
 ---

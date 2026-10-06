@@ -13,7 +13,7 @@ visited_date: "2024-11-25"
 youtube_id: "ZwwzPBGFK5c"
 group: "notme"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470304/47007592/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000987614/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000987614/"
 thumbnail_url: "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
 business_hours: "11:00 - 22:00"
 lat: 26.3270896
@@ -23,9 +23,4 @@ members:
   - "鈴木瞳美"
 groups:
   - "notme"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okinawa/A4703/A470304/47007592/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000987614/?vos=nhppalsa000016"
 ---

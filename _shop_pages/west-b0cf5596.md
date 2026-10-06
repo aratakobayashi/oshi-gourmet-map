@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'クジラのお肉'}"
   - "{'name': 'お蕎麦'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1206/A120602/12004380/"
 ---

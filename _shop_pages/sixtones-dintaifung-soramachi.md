@@ -14,6 +14,7 @@ youtube_id: "fflp-PypyQg"
 source_video_title: "SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会"
 source_video_url: "https://www.youtube.com/watch?v=fflp-PypyQg"
 group: "sixtones"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13148597/"
 thumbnail_url: "https://img.youtube.com/vi/fflp-PypyQg/hqdefault.jpg"
 lat: 35.710628
 lng: 139.814263
@@ -32,7 +33,4 @@ tags:
   - "台湾料理"
   - "東京ソラマチ"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13148597/"
 ---

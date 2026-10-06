@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'アメリカンソースのオムライス'}"
   - "{'name': 'ブルスケッタ'}"
   - "{'name': '自家製ババロア'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1102/A110204/11002717/"
 ---

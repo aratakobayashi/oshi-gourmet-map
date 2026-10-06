@@ -44,6 +44,4 @@ ordered_items:
 affiliate_links:
   - label: "公式サイト"
     url: "https://peterluger.co.jp/"
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130302/13258435/"
 ---

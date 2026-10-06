@@ -28,7 +28,4 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hyogo/A2803/A280301/28003309/"
 ---

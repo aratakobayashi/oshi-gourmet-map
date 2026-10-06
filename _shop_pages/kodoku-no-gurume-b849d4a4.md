@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': '焼肉定食'}"
   - "{'name': '和風オイル焼肉定食'}"
   - "{'name': 'ぞうりぱん'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukushima/A0702/A070201/7006634/"
 ---

@@ -16,7 +16,7 @@ source_video_title: "Snow Man【バルでランチ】ただただ幸せにご飯
 source_video_url: "https://www.youtube.com/watch?v=FmN8C7LhXvY"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13150186/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001078309/"
 thumbnail_url: "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
 seating_note: "4人が座ったのは、ソファのお席だと思われます。"
 business_hours: "月・火・水・木・金 11:30 - 14:30 L.O. 14:00 17:00 - 00:00 L.O. 23:00 土・日・祝日 11:30 - 15:00 L.O. 料理14:30 17:00 - 00:00 L.O. 23:00 ■ 営業時間その他の時間も、予約にてお気軽にご相談ください。■ 定休日不定休（年末年始休み）"
@@ -47,9 +47,4 @@ ordered_items:
   - "{'name': '瀬戸内ゆずスカッシュ（宮館涼太）'}"
   - "{'name': 'はちみつレモンサイダー（ラウール）'}"
   - "{'name': '瀬戸内ゆずスカッシュ（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131706/13150186/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001078309/?vos=nhppalsa000016"
 ---

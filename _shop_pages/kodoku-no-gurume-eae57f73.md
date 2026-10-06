@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '卵のブリック'}"
   - "{'name': 'ラム肉のハンバーグ'}"
   - "{'name': '野菜のクスクス'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131907/13245434/"
 ---

@@ -35,7 +35,4 @@ ordered_items:
   - "{'name': 'サンマーメン'}"
   - "{'name': '大海老天ぷら定食'}"
   - "{'name': '大海老天ぷら定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140310/14086910/"
 ---

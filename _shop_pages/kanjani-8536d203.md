@@ -20,7 +20,4 @@ lng: 139.8976942
 tabelog_score: 3.77
 groups:
   - "kanjani"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131106/13126796/"
 ---

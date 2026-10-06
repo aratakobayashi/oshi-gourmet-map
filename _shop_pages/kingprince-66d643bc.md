@@ -28,7 +28,4 @@ groups:
   - "agroup"
   - "kingprince"
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270108/27129373/"
 ---

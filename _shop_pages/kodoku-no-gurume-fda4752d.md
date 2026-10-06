@@ -32,7 +32,4 @@ ordered_items:
   - "{'name': '信玄袋'}"
   - "{'name': 'ほっけスティック'}"
   - "{'name': '焼きめし'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131303/13065350/"
 ---

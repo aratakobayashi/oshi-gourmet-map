@@ -26,7 +26,4 @@ groups:
   - "naniwa"
 ordered_items:
   - "{'name': '牛バラ煮込みの飲めるボロネーゼ 1958円'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131701/13318433/"
 ---

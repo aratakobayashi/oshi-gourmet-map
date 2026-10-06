@@ -14,7 +14,7 @@ youtube_id: "s1cgEj5JowM"
 source_video_title: "22nd帰り道は遠回りしたくなるType-A"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13166088/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001051955/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001051955/"
 thumbnail_url: "https://img.youtube.com/vi/s1cgEj5JowM/hqdefault.jpg"
 source_type: "tv"
 business_hours: "月・火・水・木・金 11:30 - 15:00 17:30 - 22:00 土・日・祝日 11:00 - 15:00 17:00 - 21:00"
@@ -25,9 +25,4 @@ members:
   - "与田祐希"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1310/A131003/13166088/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001051955/?vos=nhppalsa000016"
 ---

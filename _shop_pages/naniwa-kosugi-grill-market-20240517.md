@@ -24,7 +24,4 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1405/A140504/14091971/"
 ---

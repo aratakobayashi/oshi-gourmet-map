@@ -22,7 +22,4 @@ members:
   - "寺西拓人"
 groups:
   - "timelesz"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13227776/"
 ---

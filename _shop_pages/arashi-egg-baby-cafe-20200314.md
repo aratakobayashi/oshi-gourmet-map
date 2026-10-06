@@ -24,7 +24,4 @@ members:
   - "大野智"
 groups:
   - "arashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131101/13229207/"
 ---

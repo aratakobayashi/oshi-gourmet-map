@@ -14,7 +14,7 @@ visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17010862/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001220712/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001220712/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 business_hours: "火・水・木・金・土・日 17:00 - 23:00 L.O. 22:30 月 定休日 ■ 定休日月曜日"
 lat: 36.5750276
@@ -24,9 +24,4 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/ishikawa/A1701/A170101/17010862/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001220712/?vos=nhppalsa000016"
 ---

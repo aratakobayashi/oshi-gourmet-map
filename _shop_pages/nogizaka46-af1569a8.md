@@ -20,7 +20,4 @@ lng: 135.4914837
 tabelog_score: 3.46
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270301/27001878/"
 ---

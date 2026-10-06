@@ -39,7 +39,4 @@ ordered_items:
   - "{'name': '烏龍茶'}"
   - "{'name': '烏龍茶'}"
   - "{'name': '烏龍茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130102/13301312/"
 ---

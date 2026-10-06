@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '大あさり焼き'}"
   - "{'name': 'しらす天ぷら'}"
   - "{'name': 'たこめし'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2304/A230403/23007247/"
 ---

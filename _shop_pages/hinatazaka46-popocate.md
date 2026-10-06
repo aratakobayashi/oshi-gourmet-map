@@ -18,7 +18,4 @@ lng: 139.7422150826044
 tabelog_score: 3.29
 groups:
   - "hinatazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1314/A131405/13258777/"
 ---

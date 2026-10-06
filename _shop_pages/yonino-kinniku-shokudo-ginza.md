@@ -34,7 +34,4 @@ ordered_items:
   - "{'name': '牛赤身肉のハンバーグ(200g)目玉焼きのせ'}"
   - "{'name': '牛赤身肉のハンバーグ(200g)目玉焼きのせ'}"
   - "{'name': '牛赤身肉のハンバーグ(200g)目玉焼きのせ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1301/A130101/13229163/"
 ---

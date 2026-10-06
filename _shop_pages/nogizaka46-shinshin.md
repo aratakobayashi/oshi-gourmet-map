@@ -21,7 +21,4 @@ lng: 130.39685346869493
 tabelog_score: 3.57
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400103/40004980/"
 ---

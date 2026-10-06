@@ -23,7 +23,4 @@ members:
   - "ソヌ"
 groups:
   - "kpop_enhypen"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130602/13228701/"
 ---

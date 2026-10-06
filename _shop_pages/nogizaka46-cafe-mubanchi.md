@@ -19,7 +19,4 @@ lng: 143.10478681873283
 tabelog_score: 3.37
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hokkaido/A0111/A011104/1053080/"
 ---

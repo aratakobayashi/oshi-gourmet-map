@@ -25,7 +25,4 @@ members:
   - "稲垣吾郎"
 groups:
   - "smap"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1328/A132804/13290539/"
 ---

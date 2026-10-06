@@ -22,7 +22,4 @@ members:
   - "渋谷すばる"
 groups:
   - "kanjani"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2705/A270502/27105736/"
 ---

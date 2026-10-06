@@ -36,7 +36,4 @@ tags:
   - "新宿"
   - "大食い"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130401/13006736/"
 ---

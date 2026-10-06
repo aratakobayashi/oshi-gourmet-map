@@ -35,7 +35,4 @@ tags:
   - "名古屋"
   - "打ち上げ"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230104/23000212/"
 ---

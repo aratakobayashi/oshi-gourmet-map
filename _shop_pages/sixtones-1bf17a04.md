@@ -29,7 +29,4 @@ members:
   - "森本慎太郎"
 groups:
   - "sixtones"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131301/13147919/"
 ---

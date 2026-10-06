@@ -30,7 +30,4 @@ tags:
   - "豊洲市場"
   - "老舗"
   - "江戸前"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131307/13228423/"
 ---

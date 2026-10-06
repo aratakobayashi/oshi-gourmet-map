@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'ほうれん草とリコッタチーズのキッシュ'}"
   - "{'name': 'サルシッチャセット'}"
   - "{'name': '自家製黒糖ジンジャエール'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1321/A132101/13126515/"
 ---

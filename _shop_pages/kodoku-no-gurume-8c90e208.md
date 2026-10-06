@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '毛沢東スペアリブ'}"
   - "{'name': '黒チャーハン'}"
   - "{'name': '麻辣湯'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1304/A130403/13263163/"
 ---

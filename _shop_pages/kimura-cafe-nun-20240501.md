@@ -33,7 +33,4 @@ ordered_items:
   - "{'name': 'フロート系ドリンク'}"
   - "{'name': '生ハムサラダ'}"
   - "{'name': 'ガーリックライス牛肉添え'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
 ---

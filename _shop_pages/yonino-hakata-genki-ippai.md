@@ -39,7 +39,4 @@ ordered_items:
   - "{'name': 'チャーシュー麵'}"
   - "{'name': '追加で半熟ゆで卵'}"
   - "{'name': '追加ネギ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400106/40000488/"
 ---

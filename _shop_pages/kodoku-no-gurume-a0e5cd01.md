@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'モモ（ブータン式蒸し餃子）'}"
   - "{'name': 'エマダツィ'}"
   - "{'name': 'ツェリンマ茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131811/13039628/"
 ---

@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'タンスユク S（韓国式酢豚）'}"
   - "{'name': 'チャムチャ麺（海鮮チャンポンとジャジャン麺のハーフ＆ハーフ）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1324/A132401/13180444/"
 ---

@@ -24,7 +24,4 @@ members:
   - "濱家隆一"
 groups:
   - "kamaitachi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131101/13094256/"
 ---

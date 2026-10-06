@@ -26,7 +26,4 @@ members:
   - "猪俣周杜"
 groups:
   - "timelesz"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1314/A131401/13311076/"
 ---

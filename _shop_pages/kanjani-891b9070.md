@@ -19,7 +19,4 @@ lng: 135.5113657763896
 tabelog_score: 3.22
 groups:
   - "kanjani"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270103/27038011/"
 ---

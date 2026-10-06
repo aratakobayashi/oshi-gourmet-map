@@ -35,7 +35,4 @@ ordered_items:
   - "{'name': 'オムカレー'}"
   - "{'name': 'トルコライス(★店主オススメ)'}"
   - "{'name': 'カツカレー'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130905/13127692/"
 ---

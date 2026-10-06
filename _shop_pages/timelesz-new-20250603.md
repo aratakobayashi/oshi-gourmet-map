@@ -28,7 +28,4 @@ groups:
   - "timelesz"
 ordered_items:
   - "{'name': 'ハーフ川越三元豚カレー＆ハーフはつかり醤油ラーメン'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1103/A110303/11064993/"
 ---

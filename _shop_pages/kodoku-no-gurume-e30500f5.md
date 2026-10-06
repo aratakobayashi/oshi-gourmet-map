@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': 'タンドリーベジ'}"
   - "{'name': 'ラムミントカレー'}"
   - "{'name': 'マンゴーラッシー'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131303/13128960/"
 ---

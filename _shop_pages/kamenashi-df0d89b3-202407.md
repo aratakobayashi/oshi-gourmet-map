@@ -33,7 +33,4 @@ ordered_items:
   - "{'name': '上ロース(田村牛のサーロイン)'}"
   - "{'name': '古今ロイヤルバーガー(コース限定メニュー)'}"
   - "{'name': 'リンゴのシャーベット'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13293615/"
 ---

@@ -22,7 +22,4 @@ members:
   - "錦戸亮"
 groups:
   - "kanjani"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400101/40021108/"
 ---

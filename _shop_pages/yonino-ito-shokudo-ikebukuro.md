@@ -36,7 +36,4 @@ ordered_items:
   - "{'name': 'チーズカリカリ'}"
   - "{'name': 'カツカレー'}"
   - "{'name': 'ベーコンエッグ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1305/A130501/13089045/"
 ---

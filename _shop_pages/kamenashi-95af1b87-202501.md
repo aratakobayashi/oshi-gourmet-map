@@ -23,7 +23,4 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/okayama/A3305/A330501/33020227/"
 ---

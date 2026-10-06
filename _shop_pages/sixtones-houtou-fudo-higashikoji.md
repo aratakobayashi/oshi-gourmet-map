@@ -35,7 +35,4 @@ tags:
   - "富士河口湖"
   - "郷土料理"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/yamanashi/A1903/A190303/19004418/"
 ---

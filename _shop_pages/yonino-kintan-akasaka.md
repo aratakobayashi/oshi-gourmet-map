@@ -30,7 +30,4 @@ tags:
   - "牛タン"
   - "赤坂"
   - "完全個室"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13080895/"
 ---

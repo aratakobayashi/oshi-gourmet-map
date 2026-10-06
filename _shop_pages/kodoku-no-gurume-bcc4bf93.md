@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '麻婆豆腐'}"
   - "{'name': 'じゃがとろ'}"
   - "{'name': '泡菜魚'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131204/13020918/"
 ---

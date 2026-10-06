@@ -25,7 +25,4 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1320/A132001/13192815/"
 ---

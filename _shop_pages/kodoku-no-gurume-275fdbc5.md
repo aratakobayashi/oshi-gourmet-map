@@ -30,7 +30,4 @@ ordered_items:
   - "{'name': 'ジャージャー麺'}"
   - "{'name': '羊肉ボーズ（蒸しまん）'}"
   - "{'name': 'ごま団子'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132301/13005632/"
 ---

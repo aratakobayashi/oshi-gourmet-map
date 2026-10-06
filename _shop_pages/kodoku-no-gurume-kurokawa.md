@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'サザエとキノコのプロヴァンス風（バゲット付き）'}"
   - "{'name': '野菜のポタージュスープ（バジル風味）'}"
   - "{'name': '牛タンシチューのオムライス'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1103/A110301/11043457/"
 ---

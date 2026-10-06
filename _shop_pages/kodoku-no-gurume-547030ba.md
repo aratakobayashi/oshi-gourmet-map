@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'とんちゃん（味噌ダレ豚バラ肉の鉄板焼き）'}"
   - "{'name': 'けいちゃん（味噌ダレ鶏肉の鉄板焼き）'}"
   - "{'name': '生卵（追加・すき焼き風）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/gifu/A2104/A210403/21000415/"
 ---

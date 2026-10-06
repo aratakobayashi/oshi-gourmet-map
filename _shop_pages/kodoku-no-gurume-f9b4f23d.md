@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'ポパイベーコン'}"
   - "{'name': 'サンマクンセイ刺'}"
   - "{'name': '煮込み'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131303/13083755/"
 ---

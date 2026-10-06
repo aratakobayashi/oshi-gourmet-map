@@ -24,7 +24,4 @@ members:
   - "西野七瀬"
 groups:
   - "nogizaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1309/A130905/13310633/"
 ---

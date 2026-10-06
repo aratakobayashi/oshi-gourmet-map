@@ -14,7 +14,7 @@ visited_date: "2024-08-04"
 youtube_id: "o8PItsNaK7U"
 group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131802/13197095/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001259102/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001259102/"
 thumbnail_url: "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg"
 business_hours: "09:30 - 20:00 L.O. 料理19:00 1/14はテイクアウト、デリバリーのみの営業となります。On January 14, we will be open for togo and delivery only.On January 14, we will be open for togo and delivery only."
 lat: 35.661998
@@ -25,9 +25,4 @@ members:
   - "蟹沢萌子"
 groups:
   - "notme"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131802/13197095/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001259102/?vos=nhppalsa000016"
 ---

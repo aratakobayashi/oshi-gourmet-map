@@ -10,6 +10,15 @@ contact_form_url: ""
 # 参加しているアフィリエイトプログラム（/disclosure/ に表示）。提携が決まったら追記
 affiliate_programs: []
 
+# アフィリエイトリンク変換（_includes/affiliate-link.html）
+# 提携承認後に管理画面で sid / pid を確認して入力する。空の間は通常リンクのまま出力
+affiliate:
+  valuecommerce:
+    sid: ""
+    tabelog_pid: ""
+    hotpepper_pid: ""
+    ikyu_pid: ""
+
 # ビルド設定
 markdown: kramdown
 highlighter: rouge

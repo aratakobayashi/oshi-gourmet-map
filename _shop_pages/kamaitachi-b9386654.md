@@ -24,7 +24,4 @@ members:
   - "濱家隆一"
 groups:
   - "kamaitachi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/osaka/A2701/A270104/27137835/"
 ---

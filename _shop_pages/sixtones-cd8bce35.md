@@ -31,7 +31,4 @@ groups:
 ordered_items:
   - "{'name': 'たらこと湯葉とモッツァレラチーズのカルボナーラ'}"
   - "{'name': 'タコのペペロンチーノ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13123355/"
 ---

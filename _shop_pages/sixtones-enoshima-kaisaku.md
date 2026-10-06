@@ -16,7 +16,7 @@ source_video_title: "SixTONES【お告げに従い…開運の旅2025~最終話�
 source_video_url: "https://www.youtube.com/watch?v=XmZ9bVvVqA0"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000223878/"
 thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
 business_hours: "月・火・水・木・金 11:00 - 19:00 土・日 10:00 - 21:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.299508
@@ -37,9 +37,4 @@ tags:
   - "磯料理"
   - "神奈川"
   - "聖地巡礼"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ000223878/?vos=nhppalsa000016"
 ---

@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '豚足の唐揚げ'}"
   - "{'name': '高菜の油炒め'}"
   - "{'name': 'ウニたっぷりクリームパスタ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400104/40003961/"
 ---

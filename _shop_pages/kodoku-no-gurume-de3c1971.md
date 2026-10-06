@@ -28,7 +28,4 @@ ordered_items:
   - "{'name': '月見とろろ'}"
   - "{'name': 'クリームコロッケ'}"
   - "{'name': 'お刺身'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1318/A131813/13013832/"
 ---

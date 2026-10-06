@@ -16,7 +16,7 @@ source_video_title: "Snow Man【身体に良いらしい…ので食べてみた
 source_video_url: "https://www.youtube.com/watch?v=GpPJOgdEbhE"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13293862/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004049853/"
 thumbnail_url: "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
 seating_note: "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
 business_hours: "月・火・水・木・金・土・祝前日・祝後日 11:00 - 16:00 L.O. 15:30 17:00 - 22:00 L.O. 21:00 日・祝日 定休日 ■ 営業時間11:00~22:00※ラストオーダー21:00※16:00~17:00の間は一時お店をクローズします。(L.O. 15:30)祝日のある週は変動がある場合があります。詳しくはInstagramもしくはお店へお問い合わせください。"
@@ -42,9 +42,4 @@ ordered_items:
   - "{'name': '亀ゼリー（佐久間大介）'}"
   - "{'name': '高麗人参ゼリー（佐久間大介）'}"
   - "{'name': 'ヨーグルトアイス（佐久間大介）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130302/13293862/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ004049853/?vos=nhppalsa000016"
 ---

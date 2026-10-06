@@ -44,7 +44,4 @@ ordered_items:
   - "{'name': '・手羽塩焼き'}"
   - "{'name': '・焼き鳥'}"
   - "{'name': '・お好み焼き（豚玉）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/aichi/A2301/A230104/23000212/"
 ---

@@ -26,7 +26,4 @@ members:
   - "原田葵"
 groups:
   - "sakurazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1311/A131103/13259445/"
 ---

@@ -14,7 +14,7 @@ visited_date: "2024-10-20"
 youtube_id: "eZExpxh4C5A"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110203/11024070/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003324162/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003324162/"
 thumbnail_url: "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg"
 business_hours: "24時間営業 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.8837478
@@ -24,9 +24,4 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/saitama/A1102/A110203/11024070/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ003324162/?vos=nhppalsa000016"
 ---

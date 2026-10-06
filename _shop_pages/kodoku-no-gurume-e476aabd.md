@@ -31,7 +31,4 @@ ordered_items:
   - "{'name': 'ナスの冷麺'}"
   - "{'name': '3倍杏仁'}"
   - "{'name': 'カニあんかけ焼きそば'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1326/A132602/13058384/"
 ---

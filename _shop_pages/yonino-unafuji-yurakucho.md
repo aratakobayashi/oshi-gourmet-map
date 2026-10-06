@@ -30,7 +30,4 @@ tags:
   - "有楽町"
   - "日比谷"
   - "名古屋発"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1302/A130201/13261063/"
 ---

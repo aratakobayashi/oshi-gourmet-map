@@ -24,7 +24,4 @@ members:
   - "佐々木舞香"
 groups:
   - "equal_love"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/fukuoka/A4001/A400106/40000986/"
 ---

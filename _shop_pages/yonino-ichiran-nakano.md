@@ -30,7 +30,4 @@ tags:
   - "とんこつ"
   - "中野"
   - "一人飯"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131902/13201776/"
 ---

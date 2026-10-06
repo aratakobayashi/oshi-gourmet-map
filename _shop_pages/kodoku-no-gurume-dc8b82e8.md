@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '炎の酒鍋セット'}"
   - "{'name': 'とんかつ麦とろミニミニセット定食'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1323/A132303/13012282/"
 ---

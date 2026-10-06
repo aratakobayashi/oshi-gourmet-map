@@ -43,7 +43,4 @@ ordered_items:
   - "{'name': '「果実と米」ソーダ？'}"
   - "{'name': '挽肉と米 定食'}"
   - "{'name': '黒烏龍茶'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130301/13257261/"
 ---

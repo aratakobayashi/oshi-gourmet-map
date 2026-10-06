@@ -26,7 +26,4 @@ groups:
   - "west"
 ordered_items:
   - "{'name': '爆辛マグマ煮込みうどん'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1314/A131401/13067940/"
 ---

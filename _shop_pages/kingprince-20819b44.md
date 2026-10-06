@@ -13,7 +13,7 @@ price_range: "-"
 source_video_title: "【キントレバイトレロケ地】髙橋海人がバイトをしたドミノピザはどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-domino"
 group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1317/A131713/13239372/dtlrvwlst/B419943251/"
+tabelog_url: "https://tabelog.com/tokyo/A1317/A131713/13239372/"
 thumbnail_url: "https://tblg.k-img.com/restaurant/images/Rvw/238507/200x200_square_d138303f6b8e5babe4cd602bee3c514c.jpg"
 business_hours: "月・火・水・木 10:00 - 23:00 金・土 10:00 - 00:00 日 09:00 - 00:00 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.5850308787583
@@ -26,7 +26,4 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1317/A131713/13239372/dtlrvwlst/B419943251/?lid=unpickup_review"
 ---

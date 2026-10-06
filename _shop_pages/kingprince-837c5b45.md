@@ -12,7 +12,7 @@ price_range: "￥1,000～￥1,999"
 source_video_title: "キントレ【永瀬廉＆髙橋海人ロケ地】最高級ふぐ＆激安ふぐのお店はどこ？東京23区ピンキリ調査！"
 source_url: "https://kosodate-and.net/kintore-fugu"
 group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1319/A131906/13069433/dtlphotolst/smp2/"
+tabelog_url: "https://tabelog.com/tokyo/A1319/A131906/13069433/"
 thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/327316/5b3ec58deb628acf7f4115f9d40e286a.jpg?token=cf98ea5&api=v2"
 business_hours: "15:00 - 23:30 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.695904938659496
@@ -25,7 +25,4 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131906/13069433/dtlphotolst/smp2/"
 ---

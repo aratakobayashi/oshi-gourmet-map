@@ -30,7 +30,4 @@ ordered_items:
   - "{'name': '海老のサガナキ'}"
   - "{'name': 'バクラヴァ'}"
   - "{'name': 'ギリシャコーヒー'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130702/13093715/"
 ---

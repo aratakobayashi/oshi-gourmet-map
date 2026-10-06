@@ -40,6 +40,4 @@ ordered_items:
 affiliate_links:
   - label: "公式サイト"
     url: "https://www.gold-rush.jp/information/sibuya/"
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1303/A130301/13002070/"
 ---

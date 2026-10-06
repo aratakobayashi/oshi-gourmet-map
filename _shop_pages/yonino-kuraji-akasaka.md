@@ -30,7 +30,4 @@ tags:
   - "赤坂"
   - "熟成豚"
   - "専門店"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1308/A130801/13274387/"
 ---

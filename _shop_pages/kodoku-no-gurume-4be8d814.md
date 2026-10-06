@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'スペシャル友風焼き'}"
   - "{'name': 'とん汁'}"
   - "{'name': 'ハムポテトサラダ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1401/A140205/14002176/"
 ---

@@ -27,7 +27,4 @@ ordered_items:
   - "{'name': 'チャックロール ネギ塩焼き'}"
   - "{'name': 'ジンギスカンセット'}"
   - "{'name': 'ハム（骨付き）'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kanagawa/A1405/A140504/14003439/"
 ---

@@ -33,7 +33,4 @@ groups:
 tags:
   - "ファミレス"
   - "六本木"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1307/A130701/13159827/"
 ---

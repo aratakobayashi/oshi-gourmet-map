@@ -35,7 +35,4 @@ ordered_items:
   - "{'name': '焼きそば'}"
   - "{'name': '塩イベリコ焼きそば'}"
   - "{'name': '枝豆'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131203/13141242/"
 ---

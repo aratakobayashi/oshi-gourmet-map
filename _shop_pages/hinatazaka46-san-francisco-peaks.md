@@ -13,7 +13,7 @@ youtube_id: "KcpvHDt0bPc"
 source_video_title: "あくびLetter"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001017828/"
 thumbnail_url: "https://img.youtube.com/vi/KcpvHDt0bPc/hqdefault.jpg"
 business_hours: "月・火・水・木・金・土・日・祝日・祝前日・祝後日 11:00 - 18:00 L.O. 17:00 ■ 定休日年中無休(年末年始のみ休み)2024年12月31日〜2025年1月2日はお休みさせていただきます。 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
 lat: 35.6720008
@@ -21,9 +21,4 @@ lng: 139.7092408
 tabelog_score: 3.49
 groups:
   - "hinatazaka46"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
-  - label: "ホットペッパーで予約"
-    url: "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016"
 ---

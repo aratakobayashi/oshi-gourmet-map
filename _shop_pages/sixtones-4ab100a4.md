@@ -40,7 +40,4 @@ ordered_items:
   - "{'name': 'キムチ（ごま油で）'}"
   - "{'name': 'ごはん'}"
   - "{'name': '傳々特性すじカレー'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1313/A131302/13022287/"
 ---

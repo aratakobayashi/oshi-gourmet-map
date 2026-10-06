@@ -23,7 +23,4 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1319/A131902/13049750/"
 ---

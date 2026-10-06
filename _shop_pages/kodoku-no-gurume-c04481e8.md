@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': 'うどん1玉'}"
   - "{'name': 'コロッケ'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/kagawa/A3701/A370101/37000033/"
 ---

@@ -24,7 +24,4 @@ members:
   - "岸優太"
 groups:
   - "numberi"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/hiroshima/A3406/A340302/34022921/"
 ---

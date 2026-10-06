@@ -26,7 +26,4 @@ groups:
 ordered_items:
   - "{'name': '鳥そっぷ鍋'}"
   - "{'name': 'うどん'}"
-affiliate_links:
-  - label: "食べログで見る"
-    url: "https://tabelog.com/tokyo/A1312/A131201/13023529/"
 ---
