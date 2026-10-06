@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「あじろ食堂」"
-description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介されたshokuji「あじろ食堂」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱根ロケで紹介された食事「あじろ食堂」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-33e9989a-"
 name: "あじろ食堂"
 genre: "shokuji"

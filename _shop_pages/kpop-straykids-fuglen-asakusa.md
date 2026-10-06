@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「FUGLEN ASAKUSA」"
-description: "スンミン Instagramで紹介されたcafe「FUGLEN ASAKUSA」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "スンミン Instagramで紹介されたカフェ「FUGLEN ASAKUSA」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-fuglen_asakusa-"
 name: "FUGLEN ASAKUSA"
 genre: "cafe"

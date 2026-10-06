@@ -1,12 +1,11 @@
 ---
-title: "westが行ったchuka17選"
-description: "westのメンバーが実際に訪れたchukaスポットを17件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "WEST.が行った中華19選"
+description: "WEST.のメンバーが実際に訪れた中華スポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: chuka
-group_label: "west"
+group_label: "WEST."
 slug_id: west-chuka
-shop_count: 17
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/125518/125518097.jpg?token=5f183ce&api=v2"
+shop_count: 19
 related_genres:
   - west-shokuji
   - west-cafe

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「おにぎり ぼんご」"
-description: "SixTONESのYouTubeで紹介されたwashoku「おにぎり ぼんご」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「おにぎり ぼんご」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-onigiri-bongo"
 name: "おにぎり ぼんご"
 genre: "washoku"

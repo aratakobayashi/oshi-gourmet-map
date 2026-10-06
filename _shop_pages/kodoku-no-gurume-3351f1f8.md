@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「レストランブラジル 群馬県大泉店」"
-description: "孤独のグルメ Season2 第4話で紹介されたshokuji「レストランブラジル 群馬県大泉店」（群馬県邑楽郡大泉町）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第4話で紹介された食事「レストランブラジル 群馬県大泉店」（群馬県邑楽郡大泉町）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3351f1f8-"
 name: "レストランブラジル 群馬県大泉店"
 genre: "shokuji"

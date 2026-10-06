@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「総本家更科堀井 本店」"
-description: "Snow ManのYouTubeで紹介されたwashoku「総本家更科堀井 本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「総本家更科堀井 本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "washoku"

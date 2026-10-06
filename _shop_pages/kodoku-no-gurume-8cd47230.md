@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥椿 鶯谷朝顔通り店」"
-description: "孤独のグルメ Season3 第8話で紹介されたwashoku「鳥椿 鶯谷朝顔通り店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第8話で紹介された和食「鳥椿 鶯谷朝顔通り店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8cd47230-"
 name: "鳥椿 鶯谷朝顔通り店"
 genre: "washoku"

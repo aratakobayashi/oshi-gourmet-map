@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ヒルトン東京 マーブルラウンジ」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「ヒルトン東京 マーブルラウンジ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hilton-marble-lounge"
 name: "ヒルトン東京 マーブルラウンジ"
 genre: "shokuji"

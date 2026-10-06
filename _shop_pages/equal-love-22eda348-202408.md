@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ともや 鎌倉小町店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「ともや 鎌倉小町店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「ともや 鎌倉小町店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-22eda348-202408"
 name: "ともや 鎌倉小町店"
 genre: "washoku"

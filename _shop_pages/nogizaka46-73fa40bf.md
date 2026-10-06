@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「豚大学 新橋校舎」"
-description: "乃木坂どこへで紹介されたshokuji「豚大学 新橋校舎」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "乃木坂どこへで紹介された食事「豚大学 新橋校舎」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-73fa40bf-"
 name: "豚大学 新橋校舎"
 genre: "shokuji"

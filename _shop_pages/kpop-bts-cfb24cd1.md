@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「油井食堂（ユジョン食堂）」"
-description: "BTS 練習生時代の常連店で紹介されたshokuji「油井食堂（ユジョン食堂）」（韓国）。推し活グルメ巡礼スポット。"
+description: "BTS 練習生時代の常連店で紹介された食事「油井食堂（ユジョン食堂）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-cfb24cd1-"
 name: "油井食堂（ユジョン食堂）"
 genre: "shokuji"

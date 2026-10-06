@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「COZY PLACE」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チーズトンカツのお店はどこ？で紹介されたothers「COZY PLACE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チーズトンカツのお店はどこ？で紹介されたその他「COZY PLACE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cozy_place-"
 name: "COZY PLACE"
 genre: "others"

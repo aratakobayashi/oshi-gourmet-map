@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多元気一杯!!」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「博多元気一杯!!」（福岡県福岡市博多区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたラーメン「博多元気一杯!!」（福岡県福岡市博多区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hakata-genki-ippai"
 name: "博多元気一杯!!"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「新横浜ラーメン博物館」"
-description: "SixTONESのYouTubeで紹介されたramen「新横浜ラーメン博物館」（神奈川県横浜市港北区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたラーメン「新横浜ラーメン博物館」（神奈川県横浜市港北区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ramen-hakubutsukan"
 name: "新横浜ラーメン博物館"
 genre: "ramen"

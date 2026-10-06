@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「MARLOWE マーロウ 葉山マリーナ店」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたsweets「MARLOWE マーロウ 葉山マリーナ店」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたスイーツ「MARLOWE マーロウ 葉山マリーナ店」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-marlowe-"
 name: "MARLOWE マーロウ 葉山マリーナ店"
 genre: "sweets"

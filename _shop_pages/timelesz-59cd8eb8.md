@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「日光もなか」"
-description: "タイムレスマンで紹介されたsweets「日光もなか」（栃木県日光市）。推し活グルメ巡礼スポット。"
+description: "タイムレスマンで紹介されたスイーツ「日光もなか」（栃木県日光市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-59cd8eb8-"
 name: "日光もなか"
 genre: "sweets"

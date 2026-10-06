@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「スペイン料理 Pablo」"
-description: "Snow ManのYouTubeで紹介されたshokuji「スペイン料理 Pablo」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「スペイン料理 Pablo」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-meguro"
 name: "スペイン料理 Pablo"
 genre: "shokuji"

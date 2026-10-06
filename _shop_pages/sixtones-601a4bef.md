@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鉄板バル チェローナ」"
-description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたothers「鉄板バル チェローナ」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたその他「鉄板バル チェローナ」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-601a4bef-"
 name: "鉄板バル チェローナ"
 genre: "others"

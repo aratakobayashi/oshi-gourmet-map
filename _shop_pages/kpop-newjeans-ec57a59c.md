@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「とんかつ銀座梅林 本店」"
-description: "ミンジ 東京vlog（2023年12月26日公開）最終日で紹介されたwashoku「とんかつ銀座梅林 本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "ミンジ 東京vlog（2023年12月26日公開）最終日で紹介された和食「とんかつ銀座梅林 本店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-ec57a59c-"
 name: "とんかつ銀座梅林 本店"
 genre: "washoku"

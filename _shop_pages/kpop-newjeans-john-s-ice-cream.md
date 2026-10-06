@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「JOHN'S ICE CREAM」"
-description: "NewJeans 中目黒・代官山訪問（2023年8月）で紹介されたsweets「JOHN'S ICE CREAM」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "NewJeans 中目黒・代官山訪問（2023年8月）で紹介されたスイーツ「JOHN'S ICE CREAM」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-john_s_ice_cream-"
 name: "JOHN'S ICE CREAM"
 genre: "sweets"

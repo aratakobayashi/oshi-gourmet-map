@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥貴族 新宿東口店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「鳥貴族 新宿東口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された居酒屋「鳥貴族 新宿東口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-toriki-shinjuku"
 name: "鳥貴族 新宿東口店"
 genre: "izakaya"

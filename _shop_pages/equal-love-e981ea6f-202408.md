@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ひろしま夢ぷらざ」"
-description: "=LOVEのYouTubeで紹介されたothers「ひろしま夢ぷらざ」（広島県広島市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたその他「ひろしま夢ぷらざ」（広島県広島市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-e981ea6f-202408"
 name: "ひろしま夢ぷらざ"
 genre: "others"

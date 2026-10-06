@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「延南火路（ヨンナムファロ）」"
-description: "ジョングク 弘大エリア行きつけ焼肉で紹介されたyakiniku「延南火路（ヨンナムファロ）」（韓国）。推し活グルメ巡礼スポット。"
+description: "ジョングク 弘大エリア行きつけ焼肉で紹介された焼肉「延南火路（ヨンナムファロ）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-5c1f5bfd-"
 name: "延南火路（ヨンナムファロ）"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「グリルグランド」"
-description: "SixTONESのYouTubeで紹介されたshokuji「グリルグランド」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された食事「グリルグランド」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-grill-grand-asakusa"
 name: "グリルグランド"
 genre: "shokuji"

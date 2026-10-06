@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Trattoria e Pizzeria De salita 赤坂」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Trattoria e Pizzeria De salita 赤坂」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Trattoria e Pizzeria De salita 赤坂」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-de-salita-akasaka"
 name: "Trattoria e Pizzeria De salita 赤坂"
 genre: "shokuji"

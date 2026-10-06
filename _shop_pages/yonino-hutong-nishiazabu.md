@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「胡同 西麻布店」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「胡同 西麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された焼肉「胡同 西麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hutong-nishiazabu"
 name: "胡同 西麻布店"
 genre: "yakiniku"

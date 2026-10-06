@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "はり重グリル"
-description: "WEST.聖地巡礼（大阪）Jr時代松竹座千秋楽の思い出の味で紹介されたshokuji「はり重グリル」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "WEST.聖地巡礼（大阪）Jr時代松竹座千秋楽の思い出の味で紹介された食事「はり重グリル」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "west-6fdf76b1-"
 name: "はり重グリル"
 genre: "shokuji"

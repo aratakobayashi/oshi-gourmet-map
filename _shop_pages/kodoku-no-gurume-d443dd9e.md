@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「餃子菜苑」"
-description: "孤独のグルメ Season10 第2020話で紹介されたyakiniku「餃子菜苑」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2020話で紹介された焼肉「餃子菜苑」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d443dd9e-"
 name: "餃子菜苑"
 genre: "yakiniku"

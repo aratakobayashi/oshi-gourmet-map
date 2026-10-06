@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「TrickY’s駅前店」"
-description: "なにわ男子のどっち派 (2025-11-07)で紹介されたshokuji「TrickY’s駅前店」（栃木県日光市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-11-07)で紹介された食事「TrickY’s駅前店」（栃木県日光市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-trickys-20251107"
 name: "TrickY’s駅前店"
 genre: "shokuji"

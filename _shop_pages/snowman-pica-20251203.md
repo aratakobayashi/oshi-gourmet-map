@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「PICA富士西湖」"
-description: "Snow ManのYouTubeで紹介されたshokuji「PICA富士西湖」（山梨県）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「PICA富士西湖」（山梨県）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pica-20251203"
 name: "PICA富士西湖"
 genre: "shokuji"

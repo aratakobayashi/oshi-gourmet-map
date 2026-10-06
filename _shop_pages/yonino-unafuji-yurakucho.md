@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「炭焼 うな富士 有楽町店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「炭焼 うな富士 有楽町店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「炭焼 うな富士 有楽町店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-unafuji-yurakucho"
 name: "炭焼 うな富士 有楽町店"
 genre: "washoku"

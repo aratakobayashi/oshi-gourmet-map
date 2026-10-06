@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「七色手毬唄」"
-description: "めざましテレビ 2017.12.07で紹介されたshokuji「七色手毬唄」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介された食事「七色手毬唄」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-f83ecf9a-"
 name: "七色手毬唄"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「多け乃」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「多け乃」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された居酒屋「多け乃」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-takeno-tsukiji"
 name: "多け乃"
 genre: "izakaya"

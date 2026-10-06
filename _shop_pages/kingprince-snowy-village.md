@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「SNOWY VILLAGE」"
-description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたothers「SNOWY VILLAGE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】平子と新大久保デートのおみくじ＆チョコチュロスはどこ？で紹介されたその他「SNOWY VILLAGE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-snowy_village-"
 name: "SNOWY VILLAGE"
 genre: "others"

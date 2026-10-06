@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「うなぎの蒲の穂焼」"
-description: "バンチャン Bubble投稿で紹介されたwashoku「うなぎの蒲の穂焼」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "バンチャン Bubble投稿で紹介された和食「うなぎの蒲の穂焼」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-7e49b046-"
 name: "うなぎの蒲の穂焼"
 genre: "washoku"

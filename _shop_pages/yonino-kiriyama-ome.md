@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「きり山」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「きり山」（東京都青梅市）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「きり山」（東京都青梅市）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kiriyama-ome"
 name: "きり山"
 genre: "washoku"

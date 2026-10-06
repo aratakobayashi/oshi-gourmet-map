@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「厨 Sawa」"
-description: "孤独のグルメ Season5 第11話で紹介されたshokuji「厨 Sawa」（埼玉県越谷市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第11話で紹介された食事「厨 Sawa」（埼玉県越谷市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-sawa-"
 name: "厨 Sawa"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「cocochiyo cafe」"
-description: "タイムレスファミリア 地頭王企画（2025年11月25日）で紹介されたcafe「cocochiyo cafe」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "タイムレスファミリア 地頭王企画（2025年11月25日）で紹介されたカフェ「cocochiyo cafe」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-cocochiyo_cafe-20251125"
 name: "cocochiyo cafe"
 genre: "cafe"

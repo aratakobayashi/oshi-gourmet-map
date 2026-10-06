@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「GINZA ABCラーメン」"
-description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたramen「GINZA ABCラーメン」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？で紹介されたラーメン「GINZA ABCラーメン」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ginza_abc-"
 name: "GINZA ABCラーメン"
 genre: "ramen"

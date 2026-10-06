@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「いも吉館 鎌倉小町通店」"
-description: "地球が丸いならMVで紹介されたothers「いも吉館 鎌倉小町通店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "地球が丸いならMVで紹介されたその他「いも吉館 鎌倉小町通店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-34c9d2f5-"
 name: "いも吉館 鎌倉小町通店"
 genre: "others"

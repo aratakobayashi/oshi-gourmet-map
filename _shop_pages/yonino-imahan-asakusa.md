@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草今半 国際通り本店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草今半 国際通り本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「浅草今半 国際通り本店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-imahan-asakusa"
 name: "浅草今半 国際通り本店"
 genre: "washoku"

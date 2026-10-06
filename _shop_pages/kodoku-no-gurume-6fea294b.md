@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「一番」"
-description: "孤独のグルメ Season7 第4話で紹介されたshokuji「一番」（群馬県甘楽郡下仁田町）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第4話で紹介された食事「一番」（群馬県甘楽郡下仁田町）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6fea294b-"
 name: "一番"
 genre: "shokuji"

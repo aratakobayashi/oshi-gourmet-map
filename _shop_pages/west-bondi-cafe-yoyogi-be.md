@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Bondi Café Yoyogi Beach Park"
-description: "WEST. 東京ロケ地 代々木公園で紹介されたcafe「Bondi Café Yoyogi Beach Park」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST. 東京ロケ地 代々木公園で紹介されたカフェ「Bondi Café Yoyogi Beach Park」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-bondi_cafe_yoyogi_be-"
 name: "Bondi Café Yoyogi Beach Park"
 genre: "cafe"

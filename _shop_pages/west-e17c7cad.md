@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "trefle"
-description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたsweets「trefle」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたスイーツ「trefle」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-e17c7cad"
 name: "trefle"
 genre: "sweets"

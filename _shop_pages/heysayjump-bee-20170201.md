@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「ダイニングダーツバー Bee 新宿店」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたizakaya「ダイニングダーツバー Bee 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介された居酒屋「ダイニングダーツバー Bee 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-bee-20170201"
 name: "ダイニングダーツバー Bee 新宿店"
 genre: "izakaya"

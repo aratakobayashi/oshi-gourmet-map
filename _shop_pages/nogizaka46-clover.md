@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「アイス工房田村ファーム Clover」"
-description: "乃木坂工事中で紹介されたsweets「アイス工房田村ファーム Clover」（北海道上川郡東神楽町）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたスイーツ「アイス工房田村ファーム Clover」（北海道上川郡東神楽町）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-clover-"
 name: "アイス工房田村ファーム Clover"
 genre: "sweets"

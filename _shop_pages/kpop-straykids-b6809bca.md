@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「さくら亭」"
-description: "Stray Kids 東京ミッションツアーで紹介されたshokuji「さくら亭」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Stray Kids 東京ミッションツアーで紹介された食事「さくら亭」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-b6809bca-"
 name: "さくら亭"
 genre: "shokuji"

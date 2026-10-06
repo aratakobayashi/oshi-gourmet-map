@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「月島名物もんじゃ だるま ソラマチ店」"
-description: "SixTONESのYouTubeで紹介されたwashoku「月島名物もんじゃ だるま ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「月島名物もんじゃ だるま ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-daruma-soramachi"
 name: "月島名物もんじゃ だるま ソラマチ店"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「だるまや」"
-description: "孤独のグルメ Season3 第12話で紹介されたwashoku「だるまや」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第12話で紹介された和食「だるまや」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e1afada2-"
 name: "だるまや"
 genre: "washoku"

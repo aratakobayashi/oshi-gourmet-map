@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「SPICY CURRY 魯珈」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「SPICY CURRY 魯珈」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「SPICY CURRY 魯珈」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spicy-curry-roka"
 name: "SPICY CURRY 魯珈"
 genre: "shokuji"

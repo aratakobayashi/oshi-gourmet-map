@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「雷本店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「雷本店」（千葉県松戸市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「雷本店」（千葉県松戸市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c76f0dda-202408"
 name: "雷本店"
 genre: "shokuji"

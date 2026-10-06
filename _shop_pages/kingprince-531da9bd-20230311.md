@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「パティシエ シマ」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「パティシエ シマ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「パティシエ シマ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-531da9bd-20230311"
 name: "パティシエ シマ"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「博多らーめん ShinShin 天神本店」"
-description: "博多らーめん ShinShinで紹介されたramen「博多らーめん ShinShin 天神本店」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "博多らーめん ShinShinで紹介されたラーメン「博多らーめん ShinShin 天神本店」（福岡県福岡市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-shinshin-"
 name: "博多らーめん ShinShin 天神本店"
 genre: "ramen"

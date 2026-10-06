@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Smooch Coffee Stand（スムーチコーヒースタンド）"
-description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたcafe「Smooch Coffee Stand（スムーチコーヒースタンド）」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたカフェ「Smooch Coffee Stand（スムーチコーヒースタンド）」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-smooch_coffee_stand-"
 name: "Smooch Coffee Stand（スムーチコーヒースタンド）"
 genre: "cafe"

@@ -1,6 +1,6 @@
 ---
-title: "よにのちゃんねるが行ったwashoku25選"
-description: "よにのちゃんねるのメンバーが実際に訪れたwashokuスポットを25件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行った和食25選"
+description: "よにのちゃんねるのメンバーが実際に訪れた和食スポットを25件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
 genre: washoku
 group_label: "よにのちゃんねる"
@@ -15,6 +15,6 @@ related_genres:
   - yonino-others
 related_groups:
   - kodoku-no-gurume-washoku
-  - sixtones-washoku
   - snowman-washoku
+  - sixtones-washoku
 ---

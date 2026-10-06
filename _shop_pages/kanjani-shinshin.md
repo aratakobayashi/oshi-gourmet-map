@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "関ジャニ∞が行った「ShinShin 住吉店」"
-description: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜で紹介されたramen「ShinShin 住吉店」（福岡県）。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/2福岡⑤〜で紹介されたラーメン「ShinShin 住吉店」（福岡県）。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-shinshin-"
 name: "ShinShin 住吉店"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「味のレストラン えびすや 幸町店」"
-description: "孤独のグルメ Season7 第11話で紹介されたshokuji「味のレストラン えびすや 幸町店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第11話で紹介された食事「味のレストラン えびすや 幸町店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-97d9d218-"
 name: "味のレストラン えびすや 幸町店"
 genre: "shokuji"

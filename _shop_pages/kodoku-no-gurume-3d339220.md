@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「魚谷」"
-description: "孤独のグルメ Season3 第4話で紹介されたshokuji「魚谷」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第4話で紹介された食事「魚谷」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-3d339220-"
 name: "魚谷"
 genre: "shokuji"

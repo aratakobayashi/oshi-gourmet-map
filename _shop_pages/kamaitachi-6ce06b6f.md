@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「カプリチョーザ 渋谷本店」"
-description: "かまいたちのYouTubeで紹介されたshokuji「カプリチョーザ 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された食事「カプリチョーザ 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-6ce06b6f-"
 name: "カプリチョーザ 渋谷本店"
 genre: "shokuji"

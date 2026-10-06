@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「天ぷら 中山」"
-description: "孤独のグルメ Season2 第2話で紹介されたwashoku「天ぷら 中山」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第2話で紹介された和食「天ぷら 中山」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1804d39a-"
 name: "天ぷら 中山"
 genre: "washoku"

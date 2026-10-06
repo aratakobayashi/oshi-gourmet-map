@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「パーラービネフル銀座」"
-description: "嵐にしやがれで紹介されたothers「パーラービネフル銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「パーラービネフル銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-299aaae7-"
 name: "パーラービネフル銀座"
 genre: "others"

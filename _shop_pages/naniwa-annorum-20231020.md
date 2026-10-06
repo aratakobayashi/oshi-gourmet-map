@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「annorum」"
-description: "なにわ男子のどっち派 (2023-10-20)で紹介されたcafe「annorum」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-10-20)で紹介されたカフェ「annorum」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-annorum-20231020"
 name: "annorum"
 genre: "cafe"

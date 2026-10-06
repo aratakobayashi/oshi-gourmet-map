@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「CozyStyle COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「CozyStyle COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「CozyStyle COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-cozy-style-coffee"
 name: "CozyStyle COFFEE"
 genre: "cafe"

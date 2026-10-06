@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「一富」"
-description: "孤独のグルメ Season10 第2014話で紹介されたshokuji「一富」（福岡県博多市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2014話で紹介された食事「一富」（福岡県博多市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-afe6bc75-"
 name: "一富"
 genre: "shokuji"

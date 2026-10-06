@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ABC FARM」"
-description: "なにわ男子のどっち派 (2024-01-26)で紹介されたsweets「ABC FARM」（東京都昭島市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-01-26)で紹介されたスイーツ「ABC FARM」（東京都昭島市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-abc_farm-20240126"
 name: "ABC FARM"
 genre: "sweets"

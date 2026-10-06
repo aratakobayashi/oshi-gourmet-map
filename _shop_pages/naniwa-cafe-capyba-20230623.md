@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「cafe capyba」"
-description: "なにわ男子のどっち派 (2023-06-23)で紹介されたcafe「cafe capyba」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-06-23)で紹介されたカフェ「cafe capyba」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_capyba-20230623"
 name: "cafe capyba"
 genre: "cafe"

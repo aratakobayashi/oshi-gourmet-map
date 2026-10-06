@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中華蕎麦 にし乃」"
-description: "乃木坂46が訪れたramen「中華蕎麦 にし乃」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたラーメン「中華蕎麦 にし乃」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-84c802d9-"
 name: "中華蕎麦 にし乃"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「Cafebar.8」"
-description: "SEVENTEENで紹介されたothers「Cafebar.8」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたその他「Cafebar.8」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-cafebar_8-"
 name: "Cafebar.8"
 genre: "others"

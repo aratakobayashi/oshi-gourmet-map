@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「角車」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたyakiniku「角車」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介された焼肉「角車」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-e7e24ff8-"
 name: "角車"
 genre: "yakiniku"

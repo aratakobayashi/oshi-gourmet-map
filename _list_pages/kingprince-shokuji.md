@@ -1,6 +1,6 @@
 ---
-title: "King & Princeが行ったshokuji29選"
-description: "King & Princeのメンバーが実際に訪れたshokujiスポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行った食事29選"
+description: "King & Princeのメンバーが実際に訪れた食事スポットを29件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: shokuji
 group_label: "King & Prince"
@@ -14,7 +14,7 @@ related_genres:
   - kingprince-cafe
   - kingprince-washoku
 related_groups:
-  - arashi-shokuji
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
+  - arashi-shokuji
 ---

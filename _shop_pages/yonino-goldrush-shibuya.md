@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ゴールドラッシュ 渋谷本店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「ゴールドラッシュ 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「ゴールドラッシュ 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-goldrush-shibuya"
 name: "ゴールドラッシュ 渋谷本店"
 genre: "shokuji"

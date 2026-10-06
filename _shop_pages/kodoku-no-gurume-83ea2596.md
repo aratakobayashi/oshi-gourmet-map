@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「はまべ」"
-description: "孤独のグルメ Season6 第10話で紹介されたwashoku「はまべ」（千葉県富津市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第10話で紹介された和食「はまべ」（千葉県富津市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-83ea2596-"
 name: "はまべ"
 genre: "washoku"

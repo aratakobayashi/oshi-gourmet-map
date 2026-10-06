@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「JAM17 GELATERIA」"
-description: "timeleszの時間ですよ（2025年6月17日）で紹介されたsweets「JAM17 GELATERIA」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "timeleszの時間ですよ（2025年6月17日）で紹介されたスイーツ「JAM17 GELATERIA」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-jam17_gelateria-20250617"
 name: "JAM17 GELATERIA"
 genre: "sweets"

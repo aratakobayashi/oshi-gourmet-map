@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「壹銭洋食 本店」"
-description: "亀梨和也のYouTubeで紹介されたwashoku「壹銭洋食 本店」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された和食「壹銭洋食 本店」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-17aff7bc-202405"
 name: "壹銭洋食 本店"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「カフェ＆ダイニング mateki」"
-description: "=LOVEのYouTubeで紹介されたcafe「カフェ＆ダイニング mateki」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「カフェ＆ダイニング mateki」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-mateki-202408"
 name: "カフェ＆ダイニング mateki"
 genre: "cafe"

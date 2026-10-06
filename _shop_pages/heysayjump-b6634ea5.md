@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「寺カフェ」"
-description: "めざましテレビ 2018.10.04で紹介されたcafe「寺カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2018.10.04で紹介されたカフェ「寺カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b6634ea5-"
 name: "寺カフェ"
 genre: "cafe"

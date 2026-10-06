@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「三久飯店」"
-description: "timelesz project -AUDITION-で紹介されたshokuji「三久飯店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介された食事「三久飯店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-540cca88-"
 name: "三久飯店"
 genre: "shokuji"

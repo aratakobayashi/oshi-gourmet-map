@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「台湾ラーメン光陽」"
-description: "孤独のグルメ Season10 第2018話で紹介されたramen「台湾ラーメン光陽」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2018話で紹介されたラーメン「台湾ラーメン光陽」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4584ecd5-"
 name: "台湾ラーメン光陽"
 genre: "ramen"

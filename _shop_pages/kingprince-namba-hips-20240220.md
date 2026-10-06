@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「マリオンクレープ namBa HIPS店」"
-description: "【キントレ】マリオンクレープは関西・大阪にもある？で紹介されたcafe「マリオンクレープ namBa HIPS店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "【キントレ】マリオンクレープは関西・大阪にもある？で紹介されたカフェ「マリオンクレープ namBa HIPS店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-namba_hips-20240220"
 name: "マリオンクレープ namBa HIPS店"
 genre: "cafe"

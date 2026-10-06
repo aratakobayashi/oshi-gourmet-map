@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「elbe」"
-description: "嵐にしやがれで紹介されたothers「elbe」（宮城県仙台市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「elbe」（宮城県仙台市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-elbe-"
 name: "elbe"
 genre: "others"

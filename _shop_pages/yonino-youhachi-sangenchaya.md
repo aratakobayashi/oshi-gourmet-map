@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ジンギスカン羊はち 三軒茶屋店」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された焼肉「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-youhachi-sangenchaya"
 name: "ジンギスカン羊はち 三軒茶屋店"
 genre: "yakiniku"

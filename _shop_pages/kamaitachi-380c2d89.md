@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「もつ焼のんき」"
-description: "かまいたちのYouTubeで紹介されたizakaya「もつ焼のんき」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された居酒屋「もつ焼のんき」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-380c2d89-"
 name: "もつ焼のんき"
 genre: "izakaya"

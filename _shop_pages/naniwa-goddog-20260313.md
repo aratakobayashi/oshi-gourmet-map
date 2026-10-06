@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「goddog」"
-description: "なにわ男子のどっち派 (2026-03-13)で紹介されたshokuji「goddog」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-13)で紹介された食事「goddog」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-goddog-20260313"
 name: "goddog"
 genre: "shokuji"

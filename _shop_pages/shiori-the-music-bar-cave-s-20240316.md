@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「THE MUSIC BAR CAVE SHIBUYA」"
-description: "しおりのYouTubeで紹介されたizakaya「THE MUSIC BAR CAVE SHIBUYA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介された居酒屋「THE MUSIC BAR CAVE SHIBUYA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-the_music_bar_cave_s-20240316"
 name: "THE MUSIC BAR CAVE SHIBUYA"
 genre: "izakaya"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「新かどや」"
-description: "乃木坂工事中で紹介されたothers「新かどや」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたその他「新かどや」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-54c3973d-"
 name: "新かどや"
 genre: "others"

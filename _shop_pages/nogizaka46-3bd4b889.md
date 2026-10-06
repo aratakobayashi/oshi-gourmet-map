@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「浅草 花月堂 本店」"
-description: "乃木坂ってどこ？で紹介されたcafe「浅草 花月堂 本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "乃木坂ってどこ？で紹介されたカフェ「浅草 花月堂 本店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-3bd4b889-"
 name: "浅草 花月堂 本店"
 genre: "cafe"

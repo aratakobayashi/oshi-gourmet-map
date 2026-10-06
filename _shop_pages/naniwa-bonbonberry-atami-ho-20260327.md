@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「いちごBonBonBERRY ATAMI HOUSE.」"
-description: "なにわ男子のどっち派 (2026-03-27)で紹介されたcafe「いちごBonBonBERRY ATAMI HOUSE.」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2026-03-27)で紹介されたカフェ「いちごBonBonBERRY ATAMI HOUSE.」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-bonbonberry_atami_ho-20260327"
 name: "いちごBonBonBERRY ATAMI HOUSE."
 genre: "cafe"

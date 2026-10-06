@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「錦まるん」"
-description: "=LOVEのYouTubeで紹介されたshokuji「錦まるん」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「錦まるん」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c6d6b2f9-202408"
 name: "錦まるん"
 genre: "shokuji"

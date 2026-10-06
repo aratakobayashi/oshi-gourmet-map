@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「すし 台所家 三軒茶屋店」"
-description: "孤独のグルメ Season6 第5話で紹介されたwashoku「すし 台所家 三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第5話で紹介された和食「すし 台所家 三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-26de77d7-"
 name: "すし 台所家 三軒茶屋店"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「イワタコーヒー店」"
-description: "21thジコチューで行こう！Type-Dで紹介されたcafe「イワタコーヒー店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介されたカフェ「イワタコーヒー店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-5bce3fc7-"
 name: "イワタコーヒー店"
 genre: "cafe"

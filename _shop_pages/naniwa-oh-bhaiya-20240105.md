@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「OH BHAIYA！」"
-description: "なにわ男子のどっち派 (2024-01-05)で紹介されたsweets「OH BHAIYA！」（東京都江戸川区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-01-05)で紹介されたスイーツ「OH BHAIYA！」（東京都江戸川区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-oh_bhaiya-20240105"
 name: "OH BHAIYA！"
 genre: "sweets"

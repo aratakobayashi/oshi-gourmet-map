@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「原宿GLAMS BBQ Lounge」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「原宿GLAMS BBQ Lounge」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「原宿GLAMS BBQ Lounge」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-glams_bbq_lounge-202405"
 name: "原宿GLAMS BBQ Lounge"
 genre: "yakiniku"

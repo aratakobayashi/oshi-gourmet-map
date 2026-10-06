@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鬼太郎茶屋」"
-description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたothers「鬼太郎茶屋」（東京都調布市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたその他「鬼太郎茶屋」（東京都調布市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-fce1c71f-"
 name: "鬼太郎茶屋"
 genre: "others"

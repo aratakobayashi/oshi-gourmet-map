@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ユナイテッド・シネマ豊洲」"
-description: "=LOVEのYouTubeで紹介されたshokuji「ユナイテッド・シネマ豊洲」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「ユナイテッド・シネマ豊洲」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c64bb688-202408"
 name: "ユナイテッド・シネマ豊洲"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Cafe & Bar LIBER"
-description: "何するカトゥーン?（USJ打ち上げ / 亀梨和也・上田竜也・中丸雄一）で紹介されたcafe「Cafe & Bar LIBER」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "何するカトゥーン?（USJ打ち上げ / 亀梨和也・上田竜也・中丸雄一）で紹介されたカフェ「Cafe & Bar LIBER」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "aaabb96a"
 name: "Cafe & Bar LIBER"
 genre: "cafe"

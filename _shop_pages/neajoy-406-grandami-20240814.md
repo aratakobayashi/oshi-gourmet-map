@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「406_GrandAmi水道橋」"
-description: "≒JOYのYouTubeで紹介されたshokuji「406_GrandAmi水道橋」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「406_GrandAmi水道橋」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-406_grandami-20240814"
 name: "406_GrandAmi水道橋"
 genre: "shokuji"

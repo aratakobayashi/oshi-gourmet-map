@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Henim"
-description: "ドデスカ！【末澤誠也＆佐野晶哉ロケ地】カスタムキャップ専門店はどこ？予約制？で紹介されたothers「Henim」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "ドデスカ！【末澤誠也＆佐野晶哉ロケ地】カスタムキャップ専門店はどこ？予約制？で紹介されたその他「Henim」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-henim-"
 name: "Henim"
 genre: "others"

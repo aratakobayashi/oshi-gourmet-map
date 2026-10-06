@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤鬼」"
-description: "=LOVEのYouTubeで紹介されたizakaya「赤鬼」（福島県いわき市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「赤鬼」（福島県いわき市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-d377e2fc-202408"
 name: "赤鬼"
 genre: "izakaya"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "OKUDO"
-description: "WESTube【神山智洋×末澤誠也】新大久保スイーツカフェはどこ？韓国スイーツは何？で紹介されたshokuji「OKUDO」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "WESTube【神山智洋×末澤誠也】新大久保スイーツカフェはどこ？韓国スイーツは何？で紹介された食事「OKUDO」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "west-okudo-"
 name: "OKUDO"
 genre: "shokuji"

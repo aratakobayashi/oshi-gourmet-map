@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「二丁目食堂トレド」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「二丁目食堂トレド」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「二丁目食堂トレド」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nijome-shokudo-toledo"
 name: "二丁目食堂トレド"
 genre: "shokuji"

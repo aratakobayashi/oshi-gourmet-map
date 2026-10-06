@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「社食堂」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「社食堂」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された食事「社食堂」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4f784040-"
 name: "社食堂"
 genre: "shokuji"

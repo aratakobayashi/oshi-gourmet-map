@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「伊東食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「伊東食堂」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「伊東食堂」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ito-shokudo-ikebukuro"
 name: "伊東食堂"
 genre: "washoku"

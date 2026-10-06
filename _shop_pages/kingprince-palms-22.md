@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Palms 22」"
-description: "King & Princeキンプリ『MODERN LOVE』撮影ロケ地はどこ？海外？日本のスタジオ？で紹介されたothers「Palms 22」（千葉県富津市）。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ『MODERN LOVE』撮影ロケ地はどこ？海外？日本のスタジオ？で紹介されたその他「Palms 22」（千葉県富津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-palms_22-"
 name: "Palms 22"
 genre: "others"

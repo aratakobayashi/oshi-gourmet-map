@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「一蘭 渋谷店」"
-description: "SixTONESのYouTubeで紹介されたramen「一蘭 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたラーメン「一蘭 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3a0ff52-202003"
 name: "一蘭 渋谷店"
 genre: "ramen"

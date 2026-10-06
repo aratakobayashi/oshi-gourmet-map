@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「元祖仙台ひとくち餃子 あずま」"
-description: "それスノで紹介されたshokuji「元祖仙台ひとくち餃子 あずま」（宮城県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された食事「元祖仙台ひとくち餃子 あずま」（宮城県）。推し活グルメ巡礼スポット。"
 shop_id: "53bffbf0"
 name: "元祖仙台ひとくち餃子 あずま"
 genre: "shokuji"

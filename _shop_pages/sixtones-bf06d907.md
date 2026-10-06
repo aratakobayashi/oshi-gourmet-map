@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くるみ」"
-description: "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？で紹介されたramen「くるみ」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ】名古屋の打ち上げの居酒屋はどこ？食べたメニューは何？で紹介されたラーメン「くるみ」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-bf06d907-"
 name: "くるみ"
 genre: "ramen"

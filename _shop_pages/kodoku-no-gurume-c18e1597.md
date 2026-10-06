@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「テキサス津田沼」"
-description: "孤独のグルメ Season10 第2017話で紹介されたyakiniku「テキサス津田沼」（千葉県習志野市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介された焼肉「テキサス津田沼」（千葉県習志野市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c18e1597-"
 name: "テキサス津田沼"
 genre: "yakiniku"

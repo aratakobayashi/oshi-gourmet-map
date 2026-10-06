@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「旧エンバーソン住宅」"
-description: "考えないようにする MVで紹介されたizakaya「旧エンバーソン住宅」（静岡県静岡市）。推し活グルメ巡礼スポット。"
+description: "考えないようにする MVで紹介された居酒屋「旧エンバーソン住宅」（静岡県静岡市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-2337fa28-"
 name: "旧エンバーソン住宅"
 genre: "izakaya"

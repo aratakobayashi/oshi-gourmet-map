@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ライカノ」"
-description: "孤独のグルメ Season2 第11話で紹介されたshokuji「ライカノ」（東京都足立区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第11話で紹介された食事「ライカノ」（東京都足立区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-778413dd-"
 name: "ライカノ"
 genre: "shokuji"

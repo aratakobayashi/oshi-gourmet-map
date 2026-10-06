@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "天ぷら 阿部"
-description: "【KinKi Kidsのブンブブーンロケ地】銀座の天ぷらの名店はどこ？で紹介されたwashoku「天ぷら 阿部」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーンロケ地】銀座の天ぷらの名店はどこ？で紹介された和食「天ぷら 阿部」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-d831c178-"
 name: "天ぷら 阿部"
 genre: "washoku"

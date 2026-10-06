@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Antichi Sapori（アンティキ・サポーリ）"
-description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたothers「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "【トークィーンズロケ地】木村拓哉にウイカが事前取材したお店はどこ？で紹介されたその他「Antichi Sapori（アンティキ・サポーリ）」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "smap-antichi_sapori-20230302"
 name: "Antichi Sapori（アンティキ・サポーリ）"
 genre: "others"

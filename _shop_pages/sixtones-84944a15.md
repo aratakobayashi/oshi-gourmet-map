@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「食事処 たねいち」"
-description: "朝ごはんを食べに入ったお店です。で紹介されたothers「食事処 たねいち」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "朝ごはんを食べに入ったお店です。で紹介されたその他「食事処 たねいち」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-84944a15-"
 name: "食事処 たねいち"
 genre: "others"

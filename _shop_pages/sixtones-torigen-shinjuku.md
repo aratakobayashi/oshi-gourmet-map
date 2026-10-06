@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥元 新宿西口店」"
-description: "SixTONESのYouTubeで紹介されたizakaya「鳥元 新宿西口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された居酒屋「鳥元 新宿西口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
 genre: "izakaya"

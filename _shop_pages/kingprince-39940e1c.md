@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「鮨処木はら（すしどころきはら）」"
-description: "【永瀬廉＆ロウン Instagram】食事のお寿司屋さんは北海道？で紹介されたwashoku「鮨処木はら（すしどころきはら）」（北海道函館市）。推し活グルメ巡礼スポット。"
+description: "【永瀬廉＆ロウン Instagram】食事のお寿司屋さんは北海道？で紹介された和食「鮨処木はら（すしどころきはら）」（北海道函館市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-39940e1c-"
 name: "鮨処木はら（すしどころきはら）"
 genre: "washoku"

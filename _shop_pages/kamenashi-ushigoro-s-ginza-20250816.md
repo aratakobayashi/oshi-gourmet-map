@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「USHIGORO S. GINZA」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「USHIGORO S. GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「USHIGORO S. GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-ushigoro_s_ginza-20250816"
 name: "USHIGORO S. GINZA"
 genre: "yakiniku"

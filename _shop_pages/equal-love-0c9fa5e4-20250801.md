@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「麻布台ヒルズ」"
-description: "=LOVEのYouTubeで紹介されたshokuji「麻布台ヒルズ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「麻布台ヒルズ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-0c9fa5e4-20250801"
 name: "麻布台ヒルズ"
 genre: "shokuji"

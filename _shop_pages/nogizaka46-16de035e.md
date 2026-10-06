@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「らくだや」"
-description: "乃木坂、逃避行。で紹介されたothers「らくだや」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「らくだや」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-16de035e-"
 name: "らくだや"
 genre: "others"

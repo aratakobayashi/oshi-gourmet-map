@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「炭火焼うなぎ魚寅」"
-description: "乃木坂、逃避行。で紹介されたothers「炭火焼うなぎ魚寅」（岐阜県郡上市）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「炭火焼うなぎ魚寅」（岐阜県郡上市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9d08772e-"
 name: "炭火焼うなぎ魚寅"
 genre: "others"

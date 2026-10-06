@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「焼肉Meat it」"
-description: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明で紹介されたyakiniku「焼肉Meat it」（東京都町田市）。推し活グルメ巡礼スポット。"
+description: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明で紹介された焼肉「焼肉Meat it」（東京都町田市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-meat_it-20211029"
 name: "焼肉Meat it"
 genre: "yakiniku"

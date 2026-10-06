@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「亀戸系ホルモン やりなおし 亀戸本店」"
-description: "孤独のグルメ Season10 第2022話で紹介されたyakiniku「亀戸系ホルモン やりなおし 亀戸本店」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された焼肉「亀戸系ホルモン やりなおし 亀戸本店」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-16bbe494-"
 name: "亀戸系ホルモン やりなおし 亀戸本店"
 genre: "yakiniku"

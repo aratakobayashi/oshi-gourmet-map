@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ベンガル"
-description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介されたshokuji「ベンガル」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介された食事「ベンガル」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-a20cb490"
 name: "ベンガル"
 genre: "shokuji"

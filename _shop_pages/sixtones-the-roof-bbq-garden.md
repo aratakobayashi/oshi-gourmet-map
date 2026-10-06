@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」"
-description: "京本会のBBQのお店はどこ？【トラジャ×SixTONES（ストチューブ）YouTubeロケ地】で紹介されたyakiniku「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "京本会のBBQのお店はどこ？【トラジャ×SixTONES（ストチューブ）YouTubeロケ地】で紹介された焼肉「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-the_roof_bbq_garden-"
 name: "THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）"
 genre: "yakiniku"

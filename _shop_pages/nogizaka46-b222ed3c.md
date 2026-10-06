@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「こ寿々本店」"
-description: "地球が丸いならMVで紹介されたothers「こ寿々本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "地球が丸いならMVで紹介されたその他「こ寿々本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-b222ed3c-"
 name: "こ寿々本店"
 genre: "others"

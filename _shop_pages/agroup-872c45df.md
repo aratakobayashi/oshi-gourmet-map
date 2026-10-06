@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "サンライズ食堂"
-description: "あっちこっちAぇ!【Aぇ! group ロケ地】津軽名物ラーメン＆りんごピザはどこ？で紹介されたwashoku「サンライズ食堂」（青森県青森市）。推し活グルメ巡礼スポット。"
+description: "あっちこっちAぇ!【Aぇ! group ロケ地】津軽名物ラーメン＆りんごピザはどこ？で紹介された和食「サンライズ食堂」（青森県青森市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-872c45df-"
 name: "サンライズ食堂"
 genre: "washoku"

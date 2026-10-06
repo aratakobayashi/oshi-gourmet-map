@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "LESOLCA"
-description: "行列のできる相談所で紹介されたsweets「LESOLCA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "行列のできる相談所で紹介されたスイーツ「LESOLCA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-lesolca-"
 name: "LESOLCA"
 genre: "sweets"

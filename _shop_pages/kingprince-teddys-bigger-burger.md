@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「TEDDY’S BIGGER BURGERS」"
-description: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！アメリカ代表ハンバーガーのお店はどこ？で紹介されたyakiniku「TEDDY’S BIGGER BURGERS」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！アメリカ代表ハンバーガーのお店はどこ？で紹介された焼肉「TEDDY’S BIGGER BURGERS」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-teddys_bigger_burger-"
 name: "TEDDY’S BIGGER BURGERS"
 genre: "yakiniku"

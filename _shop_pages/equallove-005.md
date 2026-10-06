@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「2D Cafe 新大久保店」"
-description: "=LOVEのYouTubeで紹介されたcafe「2D Cafe 新大久保店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「2D Cafe 新大久保店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_005"
 name: "2D Cafe 新大久保店"
 genre: "cafe"

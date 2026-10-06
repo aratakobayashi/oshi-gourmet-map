@@ -1,6 +1,6 @@
 ---
-title: "King & Princeが行ったwashoku13選"
-description: "King & Princeのメンバーが実際に訪れたwashokuスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行った和食13選"
+description: "King & Princeのメンバーが実際に訪れた和食スポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: washoku
 group_label: "King & Prince"
@@ -15,6 +15,6 @@ related_genres:
   - kingprince-cafe
 related_groups:
   - kodoku-no-gurume-washoku
+  - snowman-washoku
   - yonino-washoku
-  - sixtones-washoku
 ---

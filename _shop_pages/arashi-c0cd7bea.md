@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ピクシー」"
-description: "嵐にしやがれで紹介されたothers「ピクシー」（東京都葛飾区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「ピクシー」（東京都葛飾区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-c0cd7bea-"
 name: "ピクシー"
 genre: "others"

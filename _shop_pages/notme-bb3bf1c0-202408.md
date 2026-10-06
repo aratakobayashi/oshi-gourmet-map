@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「かに道楽 道頓堀本店」"
-description: "≠MEのYouTubeで紹介されたshokuji「かに道楽 道頓堀本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介された食事「かに道楽 道頓堀本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "notme-bb3bf1c0-202408"
 name: "かに道楽 道頓堀本店"
 genre: "shokuji"

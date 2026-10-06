@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「鐘撞堂下 田中屋」"
-description: "2018.11.10 川越特集で紹介されたshokuji「鐘撞堂下 田中屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "2018.11.10 川越特集で紹介された食事「鐘撞堂下 田中屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-103aefa3-20181110"
 name: "鐘撞堂下 田中屋"
 genre: "shokuji"

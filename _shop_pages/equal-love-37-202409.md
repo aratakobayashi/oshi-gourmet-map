@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「37 ステーキハウス & バー」"
-description: "=LOVEのYouTubeで紹介されたshokuji「37 ステーキハウス & バー」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「37 ステーキハウス & バー」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-37-202409"
 name: "37 ステーキハウス & バー"
 genre: "shokuji"

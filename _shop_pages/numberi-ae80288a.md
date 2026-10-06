@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "牡蠣海鮮 かいり"
-description: "VS魂 背徳グルメで紹介されたshokuji「牡蠣海鮮 かいり」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメで紹介された食事「牡蠣海鮮 かいり」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-ae80288a-"
 name: "牡蠣海鮮 かいり"
 genre: "shokuji"

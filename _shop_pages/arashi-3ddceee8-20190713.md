@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「麺屋なごみ」"
-description: "嵐にしやがれで紹介されたramen「麺屋なごみ」（東京都葛飾区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたラーメン「麺屋なごみ」（東京都葛飾区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-3ddceee8-20190713"
 name: "麺屋なごみ"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「鮨 長島」"
-description: "かまいたちのYouTubeで紹介されたwashoku「鮨 長島」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された和食「鮨 長島」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-e20cd59a-"
 name: "鮨 長島"
 genre: "washoku"

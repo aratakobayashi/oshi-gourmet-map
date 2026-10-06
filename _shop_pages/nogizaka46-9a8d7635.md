@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「はとや」"
-description: "おいでシャンプー　白石個人PVで紹介されたothers「はとや」（栃木県足利市）。推し活グルメ巡礼スポット。"
+description: "おいでシャンプー　白石個人PVで紹介されたその他「はとや」（栃木県足利市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9a8d7635-"
 name: "はとや"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「金沢まいもん寿司 珠姫 玉川高島屋S･C店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「金沢まいもん寿司 珠姫 玉川高島屋S･C店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「金沢まいもん寿司 珠姫 玉川高島屋S･C店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-sc-202506"
 name: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
 genre: "washoku"

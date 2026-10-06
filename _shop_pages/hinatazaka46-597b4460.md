@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「プラスヴィーガニック自由が丘」"
-description: "自撮りTVで紹介されたshokuji「プラスヴィーガニック自由が丘」（東京都）。推し活グルメ巡礼スポット。"
+description: "自撮りTVで紹介された食事「プラスヴィーガニック自由が丘」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-597b4460-"
 name: "プラスヴィーガニック自由が丘"
 genre: "shokuji"

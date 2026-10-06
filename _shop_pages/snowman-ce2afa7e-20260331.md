@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「味芳」"
-description: "Snow ManのYouTubeで紹介されたshokuji「味芳」（愛媛県伊予市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「味芳」（愛媛県伊予市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ce2afa7e-20260331"
 name: "味芳"
 genre: "shokuji"

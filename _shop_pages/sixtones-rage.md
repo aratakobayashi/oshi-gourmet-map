@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「麺尊 RAGE 麻布台ヒルズ」"
-description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介されたothers「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト】二宮和也とのラーメン店はどこ？麻布台ヒルズで紹介されたその他「麺尊 RAGE 麻布台ヒルズ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-rage-"
 name: "麺尊 RAGE 麻布台ヒルズ"
 genre: "others"

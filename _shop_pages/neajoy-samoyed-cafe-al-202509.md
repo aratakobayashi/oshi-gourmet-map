@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「Samoyed cafe AL 横浜中華街店」"
-description: "≒JOYのYouTubeで紹介されたcafe「Samoyed cafe AL 横浜中華街店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたカフェ「Samoyed cafe AL 横浜中華街店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-samoyed_cafe_al-202509"
 name: "Samoyed cafe AL 横浜中華街店"
 genre: "cafe"

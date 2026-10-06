@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ブルーボトルコーヒー 新宿カフェ」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「ブルーボトルコーヒー 新宿カフェ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「ブルーボトルコーヒー 新宿カフェ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-bottle-shinjuku"
 name: "ブルーボトルコーヒー 新宿カフェ"
 genre: "cafe"

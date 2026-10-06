@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "JINNAN CAFE（ジンナンカフェ）渋谷"
-description: "初耳学【木村拓哉＆中島健人撮影】“インタビューアー林修”のカフェはどこ？で紹介されたcafe「JINNAN CAFE（ジンナンカフェ）渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "初耳学【木村拓哉＆中島健人撮影】“インタビューアー林修”のカフェはどこ？で紹介されたカフェ「JINNAN CAFE（ジンナンカフェ）渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "smap-jinnan_cafe-"
 name: "JINNAN CAFE（ジンナンカフェ）渋谷"
 genre: "cafe"

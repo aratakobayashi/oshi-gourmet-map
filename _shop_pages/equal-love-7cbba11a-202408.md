@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「らうめん侍 本丸」"
-description: "=LOVEのYouTubeで紹介されたramen「らうめん侍 本丸」（石川県金沢市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたラーメン「らうめん侍 本丸」（石川県金沢市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-7cbba11a-202408"
 name: "らうめん侍 本丸"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「銀座 佐藤養助」"
-description: "乃木坂46 絶品うどんを食すで紹介されたwashoku「銀座 佐藤養助」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46 絶品うどんを食すで紹介された和食「銀座 佐藤養助」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ginza-sato-yosuke"
 name: "銀座 佐藤養助"
 genre: "washoku"

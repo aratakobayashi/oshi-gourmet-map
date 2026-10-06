@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「平塚ジンギスカン すすきの店」"
-description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介されたshokuji「平塚ジンギスカン すすきの店」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブ ロケ地】北海道のジンギスカン 打ち上げはどこ？で紹介された食事「平塚ジンギスカン すすきの店」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-c1965cb5-"
 name: "平塚ジンギスカン すすきの店"
 genre: "shokuji"

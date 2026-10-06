@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ビストロ バイキング」"
-description: "孤独のグルメ Season10 第11話で紹介されたshokuji「ビストロ バイキング」（千葉県旭市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第11話で紹介された食事「ビストロ バイキング」（千葉県旭市）。推し活グルメ巡礼スポット。"
 shop_id: "4ee9cceb"
 name: "ビストロ バイキング"
 genre: "shokuji"

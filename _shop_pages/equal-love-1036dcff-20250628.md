@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ソルトウォート・ヴィンヤード」"
-description: "=LOVEのYouTubeで紹介されたshokuji「ソルトウォート・ヴィンヤード」（千葉県匝瑳市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「ソルトウォート・ヴィンヤード」（千葉県匝瑳市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1036dcff-20250628"
 name: "ソルトウォート・ヴィンヤード"
 genre: "shokuji"

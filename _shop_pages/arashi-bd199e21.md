@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「中国料理 保昌」"
-description: "嵐にしやがれで紹介されたothers「中国料理 保昌」（群馬県前橋市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「中国料理 保昌」（群馬県前橋市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-bd199e21-"
 name: "中国料理 保昌"
 genre: "others"

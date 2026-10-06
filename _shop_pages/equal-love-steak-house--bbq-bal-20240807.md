@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「STEAK HOUSE & BBQ BALCONIWA」"
-description: "=LOVEのYouTubeで紹介されたshokuji「STEAK HOUSE & BBQ BALCONIWA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「STEAK HOUSE & BBQ BALCONIWA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-steak_house__bbq_bal-20240807"
 name: "STEAK HOUSE & BBQ BALCONIWA"
 genre: "shokuji"

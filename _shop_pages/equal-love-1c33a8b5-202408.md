@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「からあげ まこちゃん 鎌倉本店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「からあげ まこちゃん 鎌倉本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「からあげ まこちゃん 鎌倉本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1c33a8b5-202408"
 name: "からあげ まこちゃん 鎌倉本店"
 genre: "washoku"

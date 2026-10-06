@@ -1,18 +1,17 @@
 ---
-title: "arashiが行ったshokuji96選"
-description: "arashiのメンバーが実際に訪れたshokujiスポットを96件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "嵐が行った食事100選"
+description: "嵐のメンバーが実際に訪れた食事スポットを100件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
 genre: shokuji
-group_label: "arashi"
+group_label: "嵐"
 slug_id: arashi-shokuji
-shop_count: 96
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104367/104367133.jpg?token=fa889b5&api=v2"
+shop_count: 100
 related_genres:
   - arashi-ramen
   - arashi-sweets
   - arashi-cafe
 related_groups:
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
   - west-shokuji
 ---

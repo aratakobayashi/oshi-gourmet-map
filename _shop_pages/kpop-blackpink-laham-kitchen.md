@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Laham Kitchen（라함키친）」"
-description: "BLACKPINK House Episode 7-5で紹介されたshokuji「Laham Kitchen（라함키친）」（韓国）。推し活グルメ巡礼スポット。"
+description: "BLACKPINK House Episode 7-5で紹介された食事「Laham Kitchen（라함키친）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-laham_kitchen-"
 name: "Laham Kitchen（라함키친）"
 genre: "shokuji"

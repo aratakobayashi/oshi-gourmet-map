@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Pacific DRIVE-IN」"
-description: "=LOVEのYouTubeで紹介されたshokuji「Pacific DRIVE-IN」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「Pacific DRIVE-IN」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "shokuji"

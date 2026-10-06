@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「海鮮丼 佐政」"
-description: "それスノで紹介されたshokuji「海鮮丼 佐政」（静岡県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された食事「海鮮丼 佐政」（静岡県）。推し活グルメ巡礼スポット。"
 shop_id: "3cb0dcda"
 name: "海鮮丼 佐政"
 genre: "shokuji"

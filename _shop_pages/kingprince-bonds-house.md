@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「BONDS HOUSE（ボンズハウス）」"
-description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたothers「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "シューイチプレミアム【永瀬廉ロケ地】日本食ハジメマシ亭のお店はどこ？で紹介されたその他「BONDS HOUSE（ボンズハウス）」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bonds_house-"
 name: "BONDS HOUSE（ボンズハウス）"
 genre: "others"

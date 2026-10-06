@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「しゃぶしゃぶ だるま」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「しゃぶしゃぶ だるま」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「しゃぶしゃぶ だるま」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daruma-azabu"
 name: "しゃぶしゃぶ だるま"
 genre: "washoku"

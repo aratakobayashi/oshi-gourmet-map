@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ピーター・ルーガー・ステーキハウス東京」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「ピーター・ルーガー・ステーキハウス東京」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された焼肉「ピーター・ルーガー・ステーキハウス東京」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-peter-luger"
 name: "ピーター・ルーガー・ステーキハウス東京"
 genre: "yakiniku"

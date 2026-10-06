@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「東京 芝 とうふ屋うかい」"
-description: "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？で紹介されたothers「東京 芝 とうふ屋うかい」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【ストチューブ】SixTONESママ会おやーんずの豆腐屋さんはどこ？で紹介されたその他「東京 芝 とうふ屋うかい」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-3c922385-"
 name: "東京 芝 とうふ屋うかい"
 genre: "others"

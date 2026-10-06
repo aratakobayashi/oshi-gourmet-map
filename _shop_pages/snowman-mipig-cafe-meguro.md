@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「mipig cafe 目黒店」"
-description: "Snow ManのYouTubeで紹介されたcafe「mipig cafe 目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたカフェ「mipig cafe 目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mipig-cafe-meguro"
 name: "mipig cafe 目黒店"
 genre: "cafe"

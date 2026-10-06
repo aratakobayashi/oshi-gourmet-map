@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「大阪焼肉・ホルモン ふたご 六本木店」"
-description: "Snow ManのYouTubeで紹介されたyakiniku「大阪焼肉・ホルモン ふたご 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された焼肉「大阪焼肉・ホルモン ふたご 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-futago-roppongi"
 name: "大阪焼肉・ホルモン ふたご 六本木店"
 genre: "yakiniku"

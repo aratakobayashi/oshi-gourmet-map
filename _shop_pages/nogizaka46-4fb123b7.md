@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和風レストラン 松竹」"
-description: "乃木坂配信中で紹介されたothers「和風レストラン 松竹」（岩手県一関市）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中で紹介されたその他「和風レストラン 松竹」（岩手県一関市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-4fb123b7-"
 name: "和風レストラン 松竹"
 genre: "others"

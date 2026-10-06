@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ちとせ」"
-description: "孤独のグルメ Season10 第2021話で紹介されたramen「ちとせ」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介されたラーメン「ちとせ」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c84527df-"
 name: "ちとせ"
 genre: "ramen"

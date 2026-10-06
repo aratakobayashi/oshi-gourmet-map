@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「KIZASU.COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「KIZASU.COFFEE」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「KIZASU.COFFEE」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kizasu-coffee"
 name: "KIZASU.COFFEE"
 genre: "cafe"

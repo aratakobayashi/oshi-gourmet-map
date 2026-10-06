@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「筋肉食堂 銀座コリドー街店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「筋肉食堂 銀座コリドー街店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「筋肉食堂 銀座コリドー街店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kinniku-shokudo-ginza"
 name: "筋肉食堂 銀座コリドー街店"
 genre: "shokuji"

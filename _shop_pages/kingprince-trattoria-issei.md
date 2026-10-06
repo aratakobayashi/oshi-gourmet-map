@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「TRATTORIA ISSEI（トラットリア イッセイ）」"
-description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたshokuji「TRATTORIA ISSEI（トラットリア イッセイ）」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介された食事「TRATTORIA ISSEI（トラットリア イッセイ）」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-trattoria_issei-"
 name: "TRATTORIA ISSEI（トラットリア イッセイ）"
 genre: "shokuji"

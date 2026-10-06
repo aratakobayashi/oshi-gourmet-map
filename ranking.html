@@ -118,7 +118,7 @@ description: よにのちゃんねる・Snow Man・SixTONESなど推しグルー
     if (!el) return;
     el.innerHTML = sorted.map(function(genre) {
       return '<a href="' + BASE + '/shops/?genre=' + esc(genre) + '" class="genre-chip">'
-        + '# ' + esc(genre)
+        + '# ' + esc(genreLabel(genre))
         + ' <span class="genre-chip__count">' + counts[genre] + '</span>'
         + '</a>';
     }).join('');

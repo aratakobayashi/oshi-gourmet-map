@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「創作漬物 川越・河村屋」"
-description: "2018.11.10 川越特集で紹介されたothers「創作漬物 川越・河村屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "2018.11.10 川越特集で紹介されたその他「創作漬物 川越・河村屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-86cc2d7d-20181110"
 name: "創作漬物 川越・河村屋"
 genre: "others"

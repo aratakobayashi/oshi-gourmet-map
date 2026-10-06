@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン ぴーなっつ」"
-description: "Snow Manが訪れたshokuji「キッチン ぴーなっつ」（東京都荒川区）。推し活グルメ巡礼スポット。"
+description: "Snow Manが訪れた食事「キッチン ぴーなっつ」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-peanuts-arakawa"
 name: "キッチン ぴーなっつ"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BWCAFE」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「BWCAFE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたカフェ「BWCAFE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-bwcafe-"
 name: "BWCAFE"
 genre: "cafe"

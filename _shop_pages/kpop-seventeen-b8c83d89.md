@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「一風堂 梅田店」"
-description: "SEVENTEENで紹介されたothers「一風堂 梅田店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたその他「一風堂 梅田店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-b8c83d89-"
 name: "一風堂 梅田店"
 genre: "others"

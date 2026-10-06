@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン南国」"
-description: "Snow ManのYouTubeで紹介されたwashoku「キッチン南国」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「キッチン南国」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "washoku"

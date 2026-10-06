@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キッチン友」"
-description: "孤独のグルメ Season2 第5話で紹介されたshokuji「キッチン友」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season2 第5話で紹介された食事「キッチン友」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4be8d814-"
 name: "キッチン友"
 genre: "shokuji"

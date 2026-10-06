@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「ヤキガキヤ oyster&wine」"
-description: "しおりのYouTubeで紹介されたizakaya「ヤキガキヤ oyster&wine」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介された居酒屋「ヤキガキヤ oyster&wine」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-oyster_wine-20250425"
 name: "ヤキガキヤ oyster&wine"
 genre: "izakaya"

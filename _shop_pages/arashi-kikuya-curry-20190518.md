@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
-description: "嵐にしやがれで紹介されたizakaya「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された居酒屋「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
 genre: "izakaya"

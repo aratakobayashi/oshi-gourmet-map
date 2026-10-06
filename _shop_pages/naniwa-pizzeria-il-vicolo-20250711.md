@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PIZZERIA IL VICOLO」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたshokuji「PIZZERIA IL VICOLO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介された食事「PIZZERIA IL VICOLO」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-pizzeria_il_vicolo-20250711"
 name: "PIZZERIA IL VICOLO"
 genre: "shokuji"

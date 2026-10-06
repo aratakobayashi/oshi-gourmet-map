@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "San Francisco Peaks（サン フランシスコ ピークス）"
-description: "河合郁人×藤ヶ谷太輔のハンバーガーショップカフェはどこ？食べたメニューは何？で紹介されたcafe「San Francisco Peaks（サン フランシスコ ピークス）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "河合郁人×藤ヶ谷太輔のハンバーガーショップカフェはどこ？食べたメニューは何？で紹介されたカフェ「San Francisco Peaks（サン フランシスコ ピークス）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-san_francisco_peaks-"
 name: "San Francisco Peaks（サン フランシスコ ピークス）"
 genre: "cafe"

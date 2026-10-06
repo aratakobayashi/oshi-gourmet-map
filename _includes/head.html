@@ -59,6 +59,13 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":{{ site.title | jsonify }},"url":"{{ site.url }}","description":{{ site.description | jsonify }}}</script>
 {% endif %}
 
+<script>
+  window.GENRE_LABELS = {{ site.data.genres | jsonify }};
+  window.SITE_GROUP_LABELS = {{ site.data.groups | jsonify }};
+  function genreLabel(g) { var x = window.GENRE_LABELS[g]; return x ? x.label : g; }
+  function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
+</script>
+
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8441554925079357"
      crossorigin="anonymous"></script>

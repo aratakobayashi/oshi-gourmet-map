@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「築地本願寺カフェ Tsumugi」"
-description: "めざましテレビ 2018.10.04で紹介されたcafe「築地本願寺カフェ Tsumugi」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2018.10.04で紹介されたカフェ「築地本願寺カフェ Tsumugi」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-tsumugi-"
 name: "築地本願寺カフェ Tsumugi"
 genre: "cafe"

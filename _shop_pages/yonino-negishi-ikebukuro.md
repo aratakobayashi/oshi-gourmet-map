@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ねぎし 池袋サンシャイン前店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「ねぎし 池袋サンシャイン前店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「ねぎし 池袋サンシャイン前店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negishi-ikebukuro"
 name: "ねぎし 池袋サンシャイン前店"
 genre: "washoku"

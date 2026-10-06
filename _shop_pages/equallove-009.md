@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「俏香（チャオシャン）」"
-description: "=LOVEのYouTubeで紹介されたchuka「俏香（チャオシャン）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された中華「俏香（チャオシャン）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_009"
 name: "俏香（チャオシャン）"
 genre: "chuka"

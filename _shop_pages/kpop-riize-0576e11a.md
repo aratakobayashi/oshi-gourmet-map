@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「北海道らーめん 味八」"
-description: "RIIZEで紹介されたothers「北海道らーめん 味八」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「北海道らーめん 味八」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-0576e11a-"
 name: "北海道らーめん 味八"
 genre: "others"

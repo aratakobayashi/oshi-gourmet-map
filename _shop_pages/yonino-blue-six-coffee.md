@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「BLUE SIX COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「BLUE SIX COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"
 genre: "cafe"

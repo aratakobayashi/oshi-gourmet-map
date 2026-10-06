@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「神ヶ谷茶家かねごん」"
-description: "旅スノ 浜松旅で紹介されたcafe「神ヶ谷茶家かねごん」（静岡県）。推し活グルメ巡礼スポット。"
+description: "旅スノ 浜松旅で紹介されたカフェ「神ヶ谷茶家かねごん」（静岡県）。推し活グルメ巡礼スポット。"
 shop_id: "9cefeacf"
 name: "神ヶ谷茶家かねごん"
 genre: "cafe"

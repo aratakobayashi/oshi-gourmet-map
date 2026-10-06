@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「韓国農林水産大臣賞受賞 アス 下北沢店」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「韓国農林水産大臣賞受賞 アス 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「韓国農林水産大臣賞受賞 アス 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-fc0eeee2-20220903"
 name: "韓国農林水産大臣賞受賞 アス 下北沢店"
 genre: "shokuji"

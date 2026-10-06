@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」"
-description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介されたshokuji「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "東京タワー【永瀬廉ロケ地】第1話のレストラン（透と詩史が食事）はどこ？席の予約は？で紹介された食事「TRATTORIA PER BACCO（トラットリア ペルバッコ ）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-trattoria_per_bacco-"
 name: "TRATTORIA PER BACCO（トラットリア ペルバッコ ）"
 genre: "shokuji"

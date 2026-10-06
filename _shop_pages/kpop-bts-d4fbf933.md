@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「カフェ休家（ヒガ）」"
-description: "BTS 元宿舎リノベカフェで紹介されたcafe「カフェ休家（ヒガ）」（韓国）。推し活グルメ巡礼スポット。"
+description: "BTS 元宿舎リノベカフェで紹介されたカフェ「カフェ休家（ヒガ）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-d4fbf933-"
 name: "カフェ休家（ヒガ）"
 genre: "cafe"

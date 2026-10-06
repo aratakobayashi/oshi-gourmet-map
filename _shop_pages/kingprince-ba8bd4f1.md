@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「きらら館」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたothers「きらら館」（茨城県笠間市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅第4弾茨城県笠間市で訪れた場所はどこ？で紹介されたその他「きらら館」（茨城県笠間市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ba8bd4f1-"
 name: "きらら館"
 genre: "others"

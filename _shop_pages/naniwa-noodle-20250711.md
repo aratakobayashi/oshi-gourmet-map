@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「サーモン noodle 三軒茶屋」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたramen「サーモン noodle 三軒茶屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介されたラーメン「サーモン noodle 三軒茶屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-noodle-20250711"
 name: "サーモン noodle 三軒茶屋"
 genre: "ramen"

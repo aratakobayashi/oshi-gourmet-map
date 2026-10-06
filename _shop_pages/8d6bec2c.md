@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "AMOUR（アムール）"
-description: "KinKi Kidsのブンブブーン スフレオムライス 2023年9月9日で紹介されたshokuji「AMOUR（アムール）」（東京都）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン スフレオムライス 2023年9月9日で紹介された食事「AMOUR（アムール）」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "8d6bec2c"
 name: "AMOUR（アムール）"
 genre: "shokuji"

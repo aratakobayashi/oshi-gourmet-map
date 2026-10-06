@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BLTステーキ 銀座」"
-description: "2016.07.20 グルメ探偵調査で紹介されたyakiniku「BLTステーキ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "2016.07.20 グルメ探偵調査で紹介された焼肉「BLTステーキ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"
 genre: "yakiniku"

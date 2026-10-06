@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥取市役所 食堂」"
-description: "孤独のグルメ Season8 第8話で紹介されたramen「鳥取市役所 食堂」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第8話で紹介されたラーメン「鳥取市役所 食堂」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f729085e-"
 name: "鳥取市役所 食堂"
 genre: "ramen"

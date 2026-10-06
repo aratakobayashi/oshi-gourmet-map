@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「味の五十番」"
-description: "孤独のグルメ Season10 第2022話で紹介されたramen「味の五十番」（北海道苫小牧市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介されたラーメン「味の五十番」（北海道苫小牧市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-287cf4f8-"
 name: "味の五十番"
 genre: "ramen"

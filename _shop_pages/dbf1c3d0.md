@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ステーキハウス鉄板焼 不二」"
-description: "孤独のグルメ Season11 第6話で紹介されたshokuji「ステーキハウス鉄板焼 不二」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season11 第6話で紹介された食事「ステーキハウス鉄板焼 不二」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "dbf1c3d0"
 name: "ステーキハウス鉄板焼 不二"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Mamma Mia（맘마미아）」"
-description: "ロゼ 狎鴎亭エリア訪問で紹介されたcafe「Mamma Mia（맘마미아）」（韓国）。推し活グルメ巡礼スポット。"
+description: "ロゼ 狎鴎亭エリア訪問で紹介されたカフェ「Mamma Mia（맘마미아）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-mamma_mia-"
 name: "Mamma Mia（맘마미아）"
 genre: "cafe"

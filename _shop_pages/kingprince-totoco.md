@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「漁港の駅 TOTOCO小田原」"
-description: "【キントレ】玉森裕太と道の駅３品クッキングはどこ？小田原編の撮影はいつ？遭遇情報は？で紹介されたothers「漁港の駅 TOTOCO小田原」（神奈川県小田原市）。推し活グルメ巡礼スポット。"
+description: "【キントレ】玉森裕太と道の駅３品クッキングはどこ？小田原編の撮影はいつ？遭遇情報は？で紹介されたその他「漁港の駅 TOTOCO小田原」（神奈川県小田原市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-totoco-"
 name: "漁港の駅 TOTOCO小田原"
 genre: "others"

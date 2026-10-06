@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「なじみ亭」"
-description: "孤独のグルメ Season4 第2話で紹介されたramen「なじみ亭」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第2話で紹介されたラーメン「なじみ亭」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4b835120-"
 name: "なじみ亭"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「榎本ハンバーグ研究所 春日後楽園店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-enomoto-hamburg-bunkyo"
 name: "榎本ハンバーグ研究所 春日後楽園店"
 genre: "shokuji"

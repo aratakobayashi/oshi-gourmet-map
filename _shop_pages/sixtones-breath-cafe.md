@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「breath cafe(ブレスカフェ)」"
-description: "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉で紹介されたcafe「breath cafe(ブレスカフェ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "【ストチューブ】ほくえまのカフェはどこ？松村北斗＆倉田瑛茉で紹介されたカフェ「breath cafe(ブレスカフェ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-breath_cafe-"
 name: "breath cafe(ブレスカフェ)"
 genre: "cafe"

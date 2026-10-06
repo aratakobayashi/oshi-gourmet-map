@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「動坂食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「動坂食堂」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「動坂食堂」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
 genre: "washoku"

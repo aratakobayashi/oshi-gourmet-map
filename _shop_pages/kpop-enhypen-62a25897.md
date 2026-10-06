@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「かしわ 渋谷ヒカリエ店」"
-description: "ENHYPENで紹介されたothers「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「かしわ 渋谷ヒカリエ店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-62a25897-"
 name: "かしわ 渋谷ヒカリエ店"
 genre: "others"

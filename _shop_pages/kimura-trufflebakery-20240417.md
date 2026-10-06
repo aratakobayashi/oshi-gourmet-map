@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「TruffleBAKERY三軒茶屋店」"
-description: "木村拓哉が訪れたshokuji「TruffleBAKERY三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた食事「TruffleBAKERY三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kimura-trufflebakery-20240417"
 name: "TruffleBAKERY三軒茶屋店"
 genre: "shokuji"

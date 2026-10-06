@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「前島商店」"
-description: "白米様 MVで紹介されたothers「前島商店」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたその他「前島商店」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6605b4f9-"
 name: "前島商店"
 genre: "others"

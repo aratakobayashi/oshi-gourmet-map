@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「一蘭 池袋店」"
-description: "=LOVEのYouTubeで紹介されたramen「一蘭 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたラーメン「一蘭 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-287b97eb-202506"
 name: "一蘭 池袋店"
 genre: "ramen"

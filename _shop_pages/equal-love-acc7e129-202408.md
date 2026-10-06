@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「舟和 仲見世1号店」"
-description: "=LOVEのYouTubeで紹介されたsweets「舟和 仲見世1号店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「舟和 仲見世1号店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-acc7e129-202408"
 name: "舟和 仲見世1号店"
 genre: "sweets"

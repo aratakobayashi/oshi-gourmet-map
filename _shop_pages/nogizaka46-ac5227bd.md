@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「すずめや」"
-description: "池袋東口【嫉妬の権利】で紹介されたsweets「すずめや」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "池袋東口【嫉妬の権利】で紹介されたスイーツ「すずめや」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ac5227bd-"
 name: "すずめや"
 genre: "sweets"

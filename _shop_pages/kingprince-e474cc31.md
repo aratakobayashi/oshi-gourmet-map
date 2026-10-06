@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「掲出場所」"
-description: "【King & Prince キンプリ】 原宿 竹下通りの『HEART』メッセージ広告看板パネルはどこ？掲出期間はいつまで？で紹介されたothers「掲出場所」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【King & Prince キンプリ】 原宿 竹下通りの『HEART』メッセージ広告看板パネルはどこ？掲出期間はいつまで？で紹介されたその他「掲出場所」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-e474cc31-"
 name: "掲出場所"
 genre: "others"

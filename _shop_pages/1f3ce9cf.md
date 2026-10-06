@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「麺屋 ようすけ」"
-description: "それスノで紹介されたramen「麺屋 ようすけ」（栃木県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたラーメン「麺屋 ようすけ」（栃木県）。推し活グルメ巡礼スポット。"
 shop_id: "1f3ce9cf"
 name: "麺屋 ようすけ"
 genre: "ramen"

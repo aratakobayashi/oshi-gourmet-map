@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「くら寿司 御殿場店」"
-description: "SixTONES【10万円アポなし旅】１泊2日弾丸バスツアー（2019/07/05配信）で紹介されたwashoku「くら寿司 御殿場店」（静岡県御殿場市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【10万円アポなし旅】１泊2日弾丸バスツアー（2019/07/05配信）で紹介された和食「くら寿司 御殿場店」（静岡県御殿場市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b10d3d18-"
 name: "くら寿司 御殿場店"
 genre: "washoku"

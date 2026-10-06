@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「おにやんま 新橋店」"
-description: "ENHYPENで紹介されたothers「おにやんま 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「おにやんま 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-255c5e9a-"
 name: "おにやんま 新橋店"
 genre: "others"

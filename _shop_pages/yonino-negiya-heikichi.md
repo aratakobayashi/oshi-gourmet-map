@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「葱や平吉 渋谷宇田川町店」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された居酒屋「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-negiya-heikichi"
 name: "葱や平吉 渋谷宇田川町店"
 genre: "izakaya"

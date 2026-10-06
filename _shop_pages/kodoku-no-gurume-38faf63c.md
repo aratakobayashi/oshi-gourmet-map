@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「中華料理 ミッキー飯店」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「中華料理 ミッキー飯店」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された食事「中華料理 ミッキー飯店」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-38faf63c-"
 name: "中華料理 ミッキー飯店"
 genre: "shokuji"

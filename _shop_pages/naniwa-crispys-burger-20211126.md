@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Crispy’s Burger」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介されたshokuji「Crispy’s Burger」（東京都）。推し活グルメ巡礼スポット。"
+description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された食事「Crispy’s Burger」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-crispys_burger-20211126"
 name: "Crispy’s Burger"
 genre: "shokuji"

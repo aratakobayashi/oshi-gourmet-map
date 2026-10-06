@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「広島っ子」"
-description: "だが、情熱はある【髙橋海人ロケ地】若林と春日のお好み焼き屋さんはどこ？で紹介されたothers「広島っ子」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "だが、情熱はある【髙橋海人ロケ地】若林と春日のお好み焼き屋さんはどこ？で紹介されたその他「広島っ子」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bacf4c89-"
 name: "広島っ子"
 genre: "others"

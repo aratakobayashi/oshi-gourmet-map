@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「パーバーン」"
-description: "かまいたちのYouTubeで紹介されたshokuji「パーバーン」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された食事「パーバーン」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-a10db015-"
 name: "パーバーン"
 genre: "shokuji"

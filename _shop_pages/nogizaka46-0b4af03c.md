@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「平城苑 銀座5丁目店」"
-description: "乃木坂工事中で紹介されたothers「平城苑 銀座5丁目店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたその他「平城苑 銀座5丁目店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-0b4af03c-"
 name: "平城苑 銀座5丁目店"
 genre: "others"

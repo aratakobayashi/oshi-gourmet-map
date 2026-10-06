@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「アートアクアリウム美術館GINZA」"
-description: "TWICEで紹介されたothers「アートアクアリウム美術館GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたその他「アートアクアリウム美術館GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-ginza-"
 name: "アートアクアリウム美術館GINZA"
 genre: "others"

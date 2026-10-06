@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「秋葉原 カリガリ」"
-description: "よにのちゃんねるのYouTubeで紹介されたothers「秋葉原 カリガリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたその他「秋葉原 カリガリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kaligari-akihabara"
 name: "秋葉原 カリガリ"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「阿左美冷蔵 金崎本店」"
-description: "よにのちゃんねるが訪れたsweets「阿左美冷蔵 金崎本店」（埼玉県秩父郡長瀞町）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるが訪れたスイーツ「阿左美冷蔵 金崎本店」（埼玉県秩父郡長瀞町）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-asami-reizo-nagatoro"
 name: "阿左美冷蔵 金崎本店"
 genre: "sweets"

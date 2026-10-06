@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「串若丸」"
-description: "SixTONESのYouTubeで紹介されたwashoku「串若丸」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「串若丸」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-yakitoritei-nakameguro"
 name: "串若丸"
 genre: "washoku"

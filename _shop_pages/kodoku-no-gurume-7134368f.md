@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「アナザーホリデー」"
-description: "孤独のグルメ Season10 第8話で紹介されたwashoku「アナザーホリデー」（富山県富山市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第8話で紹介された和食「アナザーホリデー」（富山県富山市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-7134368f-"
 name: "アナザーホリデー"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「チャオタイ 銀座店」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「チャオタイ 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「チャオタイ 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8c0bf4f0-20220813"
 name: "チャオタイ 銀座店"
 genre: "shokuji"

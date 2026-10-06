@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「浅草つる次郎 HANARE」"
-description: "Snow ManのYouTubeで紹介されたwashoku「浅草つる次郎 HANARE」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「浅草つる次郎 HANARE」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-tsurujiro-asakusa"
 name: "浅草つる次郎 HANARE"
 genre: "washoku"

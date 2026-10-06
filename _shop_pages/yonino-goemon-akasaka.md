@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「洋麺屋五右衛門 赤坂店」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「洋麺屋五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「洋麺屋五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-goemon-akasaka"
 name: "洋麺屋五右衛門 赤坂店"
 genre: "shokuji"

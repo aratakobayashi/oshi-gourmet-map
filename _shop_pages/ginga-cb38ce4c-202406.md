@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「和食いぶり別邸 新橋店」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたwashoku「和食いぶり別邸 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介された和食「和食いぶり別邸 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "ginga-cb38ce4c-202406"
 name: "和食いぶり別邸 新橋店"
 genre: "washoku"

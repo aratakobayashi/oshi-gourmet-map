@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「じゃんか」"
-description: "嵐にしやがれで紹介されたothers「じゃんか」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「じゃんか」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-6cfc01cf-"
 name: "じゃんか"
 genre: "others"

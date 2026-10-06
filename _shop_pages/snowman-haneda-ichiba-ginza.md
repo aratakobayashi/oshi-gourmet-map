@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「羽田市場 GINZA SEVEN」"
-description: "Snow ManのYouTubeで紹介されたwashoku「羽田市場 GINZA SEVEN」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「羽田市場 GINZA SEVEN」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"
 genre: "washoku"

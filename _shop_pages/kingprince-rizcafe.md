@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「RIZCAFE(リズカフェ)」"
-description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたcafe「RIZCAFE(リズカフェ)」（三重県津市）。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はある】若林が差し入れブラックカレーパンはどこで買える？オンラインショップは？で紹介されたカフェ「RIZCAFE(リズカフェ)」（三重県津市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-rizcafe-"
 name: "RIZCAFE(リズカフェ)"
 genre: "cafe"

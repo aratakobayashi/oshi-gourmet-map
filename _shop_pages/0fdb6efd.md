@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "APOCパンケーキ"
-description: "人生最高レストラン（堂本剛）で紹介されたcafe「APOCパンケーキ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "人生最高レストラン（堂本剛）で紹介されたカフェ「APOCパンケーキ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "0fdb6efd"
 name: "APOCパンケーキ"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「SPAiCE COFFEE HOUSE」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅千葉勝浦編で訪れたお店・コーヒーショップ・カフェはどこ？で紹介されたcafe「SPAiCE COFFEE HOUSE」（千葉県勝浦市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】炊飯器の旅千葉勝浦編で訪れたお店・コーヒーショップ・カフェはどこ？で紹介されたカフェ「SPAiCE COFFEE HOUSE」（千葉県勝浦市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-spaice_coffee_house-"
 name: "SPAiCE COFFEE HOUSE"
 genre: "cafe"

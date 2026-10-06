@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「不純喫茶ドープ 上野御徒町店」"
-description: "=LOVEのYouTubeで紹介されたcafe「不純喫茶ドープ 上野御徒町店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「不純喫茶ドープ 上野御徒町店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_003"
 name: "不純喫茶ドープ 上野御徒町店"
 genre: "cafe"

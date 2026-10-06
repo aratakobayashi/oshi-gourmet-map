@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "奥村茶屋"
-description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介されたshokuji「奥村茶屋」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
+description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介された食事「奥村茶屋」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
 shop_id: "west-fbe63b32-"
 name: "奥村茶屋"
 genre: "shokuji"

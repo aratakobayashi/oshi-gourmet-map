@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ちゃんこ 霧島」"
-description: "SixTONES【両国ちゃんこ回】で紹介されたwashoku「ちゃんこ 霧島」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONES【両国ちゃんこ回】で紹介された和食「ちゃんこ 霧島」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-shichifuku-jin-ryogoku"
 name: "ちゃんこ 霧島"
 genre: "washoku"

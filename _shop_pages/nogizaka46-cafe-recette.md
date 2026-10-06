@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「café recette 鎌倉(カフェ ルセット)」"
-description: "21thジコチューで行こう！Type-Dで紹介されたcafe「café recette 鎌倉(カフェ ルセット)」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介されたカフェ「café recette 鎌倉(カフェ ルセット)」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cafe_recette-"
 name: "café recette 鎌倉(カフェ ルセット)"
 genre: "cafe"

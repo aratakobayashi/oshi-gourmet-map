@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「龍茶 生タピオカ専門店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「龍茶 生タピオカ専門店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「龍茶 生タピオカ専門店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-875bdcd7-202408"
 name: "龍茶 生タピオカ専門店"
 genre: "shokuji"

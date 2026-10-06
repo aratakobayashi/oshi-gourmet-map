@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "関ジャニ∞が行った「若駒」"
-description: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～で紹介されたshokuji「若駒」（北海道）。推し活グルメ巡礼スポット。"
+description: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3日目～で紹介された食事「若駒」（北海道）。推し活グルメ巡礼スポット。"
 shop_id: "kanjani-bc91617f-"
 name: "若駒"
 genre: "shokuji"

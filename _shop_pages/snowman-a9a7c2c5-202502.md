@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂」"
-description: "Snow ManのYouTubeで紹介されたwashoku「伊勢屋食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「伊勢屋食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-a9a7c2c5-202502"
 name: "伊勢屋食堂"
 genre: "washoku"

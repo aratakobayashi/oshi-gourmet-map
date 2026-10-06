@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「タンドールバル カマルプール」"
-description: "孤独のグルメ Season4 第6話で紹介されたshokuji「タンドールバル カマルプール」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第6話で紹介された食事「タンドールバル カマルプール」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e30500f5-"
 name: "タンドールバル カマルプール"
 genre: "shokuji"

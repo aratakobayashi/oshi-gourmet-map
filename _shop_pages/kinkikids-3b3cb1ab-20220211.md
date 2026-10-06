@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "花かんざし"
-description: "KinKi Kidsのブンブブーン おまけグルメで紹介されたsweets「花かんざし」（大阪府門真市）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン おまけグルメで紹介されたスイーツ「花かんざし」（大阪府門真市）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-3b3cb1ab-20220211"
 name: "花かんざし"
 genre: "sweets"

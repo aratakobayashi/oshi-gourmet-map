@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TEDDY'S BIGGER BURGERS 原宿表参道店"
-description: "VS魂 背徳グルメワールドツアーで紹介されたshokuji「TEDDY'S BIGGER BURGERS 原宿表参道店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介された食事「TEDDY'S BIGGER BURGERS 原宿表参道店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-teddy_s_bigger_burge-"
 name: "TEDDY'S BIGGER BURGERS 原宿表参道店"
 genre: "shokuji"

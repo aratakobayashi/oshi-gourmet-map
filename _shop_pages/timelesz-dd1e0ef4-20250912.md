@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「成都姑娘」"
-description: "ニノさん 高田馬場麻辣グルメ（2025年9月12日）で紹介されたchuka「成都姑娘」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ニノさん 高田馬場麻辣グルメ（2025年9月12日）で紹介された中華「成都姑娘」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-dd1e0ef4-20250912"
 name: "成都姑娘"
 genre: "chuka"

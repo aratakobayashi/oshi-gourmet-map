@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "角打ち KAN（カン）"
-description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介されたizakaya「角打ち KAN（カン）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉のおでん 居酒屋はどこ？被っちゃダメよグルメで紹介された居酒屋「角打ち KAN（カン）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-kan-"
 name: "角打ち KAN（カン）"
 genre: "izakaya"

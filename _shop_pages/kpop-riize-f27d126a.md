@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「牛カツ京都勝牛 四谷三丁目店」"
-description: "RIIZEで紹介されたothers「牛カツ京都勝牛 四谷三丁目店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「牛カツ京都勝牛 四谷三丁目店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-f27d126a-"
 name: "牛カツ京都勝牛 四谷三丁目店"
 genre: "others"

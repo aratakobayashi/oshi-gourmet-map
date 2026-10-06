@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「チョルドゥンノム」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたshokuji「チョルドゥンノム」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介された食事「チョルドゥンノム」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b9d2eaed-"
 name: "チョルドゥンノム"
 genre: "shokuji"

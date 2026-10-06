@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「千里眼」"
-description: "=LOVEのYouTubeで紹介されたramen「千里眼」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたラーメン「千里眼」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-cd18dd9d-202408"
 name: "千里眼"
 genre: "ramen"

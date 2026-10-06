@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「朝日屋」"
-description: "乃木坂工事中で紹介されたshokuji「朝日屋」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介された食事「朝日屋」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13bedc86-"
 name: "朝日屋"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「馬場FLAT」"
-description: "Snow Man阿部亮平【ZIP!】パン屋情報まとめ｜馬場FLAT明太フランス・コーヒーアンドトーストで紹介されたshokuji「馬場FLAT」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Man阿部亮平【ZIP!】パン屋情報まとめ｜馬場FLAT明太フランス・コーヒーアンドトーストで紹介された食事「馬場FLAT」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-flat-20260506"
 name: "馬場FLAT"
 genre: "shokuji"

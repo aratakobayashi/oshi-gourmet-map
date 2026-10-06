@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「新潟漁業協同組合」"
-description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたothers「新潟漁業協同組合」（新潟県新潟市）。推し活グルメ巡礼スポット。"
+description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたその他「新潟漁業協同組合」（新潟県新潟市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7a1c9bf0-"
 name: "新潟漁業協同組合"
 genre: "others"

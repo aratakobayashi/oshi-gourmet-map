@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「挽肉と米 渋谷」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「挽肉と米 渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「挽肉と米 渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-hikiniku-to-kome"
 name: "挽肉と米 渋谷"
 genre: "shokuji"

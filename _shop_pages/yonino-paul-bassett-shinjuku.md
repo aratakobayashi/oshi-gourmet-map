@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Paul Bassett 新宿」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Paul Bassett 新宿」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Paul Bassett 新宿」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-paul-bassett-shinjuku"
 name: "Paul Bassett 新宿"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "泥人形"
-description: "喫茶と濵田。#003で紹介されたcafe「泥人形」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#003で紹介されたカフェ「泥人形」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-721bf3e8-"
 name: "泥人形"
 genre: "cafe"

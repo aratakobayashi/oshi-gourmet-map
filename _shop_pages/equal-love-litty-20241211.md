@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Litty」"
-description: "=LOVEのYouTubeで紹介されたizakaya「Litty」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「Litty」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-litty-20241211"
 name: "Litty"
 genre: "izakaya"

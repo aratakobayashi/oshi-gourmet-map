@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「五右衛門 赤坂店」"
-description: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？で紹介されたothers「五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？で紹介されたその他「五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cd8bce35-"
 name: "五右衛門 赤坂店"
 genre: "others"

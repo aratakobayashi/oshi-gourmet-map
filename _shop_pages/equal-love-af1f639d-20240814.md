@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「復興飲食店街 夜明け市場」"
-description: "=LOVEのYouTubeで紹介されたshokuji「復興飲食店街 夜明け市場」（福島県いわき市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「復興飲食店街 夜明け市場」（福島県いわき市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-af1f639d-20240814"
 name: "復興飲食店街 夜明け市場"
 genre: "shokuji"

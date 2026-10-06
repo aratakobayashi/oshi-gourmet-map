@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つり堀 武蔵野園」"
-description: "孤独のグルメ Season1 第5話で紹介されたramen「つり堀 武蔵野園」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第5話で紹介されたラーメン「つり堀 武蔵野園」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-aa6d4a25-"
 name: "つり堀 武蔵野園"
 genre: "ramen"

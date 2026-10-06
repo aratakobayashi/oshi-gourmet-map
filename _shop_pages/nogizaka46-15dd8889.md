@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「若鶏時代 なると 本店」"
-description: "乃木坂工事中で紹介されたothers「若鶏時代 なると 本店」（北海道小樽市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたその他「若鶏時代 なると 本店」（北海道小樽市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-15dd8889-"
 name: "若鶏時代 なると 本店"
 genre: "others"

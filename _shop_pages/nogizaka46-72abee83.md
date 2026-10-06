@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ほうとう小作 竜王玉川店」"
-description: "nogibingo10で紹介されたothers「ほうとう小作 竜王玉川店」（山梨県甲斐市）。推し活グルメ巡礼スポット。"
+description: "nogibingo10で紹介されたその他「ほうとう小作 竜王玉川店」（山梨県甲斐市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-72abee83-"
 name: "ほうとう小作 竜王玉川店"
 genre: "others"

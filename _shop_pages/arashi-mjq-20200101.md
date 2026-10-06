@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「MJQ」"
-description: "嵐にしやがれで紹介されたshokuji「MJQ」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「MJQ」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-mjq-20200101"
 name: "MJQ"
 genre: "shokuji"

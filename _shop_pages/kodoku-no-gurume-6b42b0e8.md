@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「とんかつしお田」"
-description: "孤独のグルメ Season9 第1話で紹介されたwashoku「とんかつしお田」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第1話で紹介された和食「とんかつしお田」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6b42b0e8-"
 name: "とんかつしお田"
 genre: "washoku"

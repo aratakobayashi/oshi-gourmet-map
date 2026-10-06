@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「干物割烹 あん梅」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「干物割烹 あん梅」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「干物割烹 あん梅」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-anume-azabujuban"
 name: "干物割烹 あん梅"
 genre: "washoku"

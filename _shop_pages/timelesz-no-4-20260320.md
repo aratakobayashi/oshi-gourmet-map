@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「No.4」"
-description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたcafe「No.4」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたカフェ「No.4」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-no_4-20260320"
 name: "No.4"
 genre: "cafe"

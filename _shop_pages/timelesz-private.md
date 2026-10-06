@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「牛の達人 Private 西新宿店」"
-description: "timelesz project -AUDITION-で紹介されたyakiniku「牛の達人 Private 西新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介された焼肉「牛の達人 Private 西新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-private-"
 name: "牛の達人 Private 西新宿店"
 genre: "yakiniku"

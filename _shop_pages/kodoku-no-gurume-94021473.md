@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「割烹・定食 さがら」"
-description: "孤独のグルメ Season9 第6話で紹介されたwashoku「割烹・定食 さがら」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第6話で紹介された和食「割烹・定食 さがら」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-94021473-"
 name: "割烹・定食 さがら"
 genre: "washoku"

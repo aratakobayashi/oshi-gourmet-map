@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草もんじゃ てっぱん大吉」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「浅草もんじゃ てっぱん大吉」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「浅草もんじゃ てっぱん大吉」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teppan-daikichi"
 name: "浅草もんじゃ てっぱん大吉"
 genre: "washoku"

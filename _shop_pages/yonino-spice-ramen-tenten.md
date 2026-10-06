@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「スパイスラーメン 点と線.」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「スパイスラーメン 点と線.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたラーメン「スパイスラーメン 点と線.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-spice-ramen-tenten"
 name: "スパイスラーメン 点と線."
 genre: "ramen"

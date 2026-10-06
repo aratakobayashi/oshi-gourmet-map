@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「THE MATCHA TOKYO HARAJUKU」"
-description: "なにわ男子のどっち派 (2025-12-12)で紹介されたcafe「THE MATCHA TOKYO HARAJUKU」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-12-12)で紹介されたカフェ「THE MATCHA TOKYO HARAJUKU」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-the_matcha_tokyo_har-20251212"
 name: "THE MATCHA TOKYO HARAJUKU"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bricolage bread ＆ co.」"
-description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたothers「Bricolage bread ＆ co.」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたその他「Bricolage bread ＆ co.」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bricolage_bread_co-"
 name: "Bricolage bread ＆ co."
 genre: "others"

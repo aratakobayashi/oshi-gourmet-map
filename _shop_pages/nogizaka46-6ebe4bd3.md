@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和栗や」"
-description: "乃木坂配信中　さくさんぽで紹介されたothers「和栗や」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中　さくさんぽで紹介されたその他「和栗や」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6ebe4bd3-"
 name: "和栗や"
 genre: "others"

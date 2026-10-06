@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「やきとん長良」"
-description: "=LOVEのYouTubeで紹介されたizakaya「やきとん長良」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「やきとん長良」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-bd15bb1d-202412"
 name: "やきとん長良"
 genre: "izakaya"

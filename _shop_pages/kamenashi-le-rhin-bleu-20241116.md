@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Le Rhin Bleu」"
-description: "亀梨和也のYouTubeで紹介されたshokuji「Le Rhin Bleu」（スイスバーゼル）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された食事「Le Rhin Bleu」（スイスバーゼル）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
 genre: "shokuji"

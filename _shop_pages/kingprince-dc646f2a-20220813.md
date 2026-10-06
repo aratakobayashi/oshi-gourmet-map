@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「沖縄懐石　赤坂潭亭」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「沖縄懐石　赤坂潭亭」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「沖縄懐石　赤坂潭亭」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-dc646f2a-20220813"
 name: "沖縄懐石　赤坂潭亭"
 genre: "shokuji"

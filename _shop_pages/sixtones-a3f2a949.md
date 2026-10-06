@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「網元丸福」"
-description: "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？で紹介されたothers「網元丸福」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "【6SixTONES シクスト ロケ地】熱海の商店街の干物・温泉まんじゅう・まぐろの生ハム・アワビ串はどこ？で紹介されたその他「網元丸福」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-a3f2a949-"
 name: "網元丸福"
 genre: "others"

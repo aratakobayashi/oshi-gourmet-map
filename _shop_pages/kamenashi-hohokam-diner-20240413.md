@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Hohokam DINER」"
-description: "亀梨和也のYouTubeで紹介されたramen「Hohokam DINER」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたラーメン「Hohokam DINER」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-hohokam_diner-20240413"
 name: "Hohokam DINER"
 genre: "ramen"

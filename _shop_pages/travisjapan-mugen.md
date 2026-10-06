@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉MUGEN 赤坂見附店"
-description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介されたyakiniku「焼肉MUGEN 赤坂見附店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介された焼肉「焼肉MUGEN 赤坂見附店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mugen-"
 name: "焼肉MUGEN 赤坂見附店"
 genre: "yakiniku"

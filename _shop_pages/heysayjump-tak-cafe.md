@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「TAK CAFE」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「TAK CAFE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたカフェ「TAK CAFE」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-tak_cafe-"
 name: "TAK CAFE"
 genre: "cafe"

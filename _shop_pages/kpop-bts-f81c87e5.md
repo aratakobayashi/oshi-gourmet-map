@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「キルモク（길목）」"
-description: "ジョングク 清潭エリア行きつけ焼肉で紹介されたyakiniku「キルモク（길목）」（韓国）。推し活グルメ巡礼スポット。"
+description: "ジョングク 清潭エリア行きつけ焼肉で紹介された焼肉「キルモク（길목）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-f81c87e5-"
 name: "キルモク（길목）"
 genre: "yakiniku"

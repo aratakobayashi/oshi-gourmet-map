@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「府中いちご狩り園」"
-description: "=LOVEのYouTubeで紹介されたshokuji「府中いちご狩り園」（東京都府中市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「府中いちご狩り園」（東京都府中市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-fddf14d2-20240815"
 name: "府中いちご狩り園"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「dancyu食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「dancyu食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「dancyu食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "washoku"

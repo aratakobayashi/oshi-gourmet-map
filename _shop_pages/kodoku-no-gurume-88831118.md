@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ボラーチョ」"
-description: "孤独のグルメ Season3 第7話で紹介されたshokuji「ボラーチョ」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第7話で紹介された食事「ボラーチョ」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-88831118-"
 name: "ボラーチョ"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「一蘭 中野店」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「一蘭 中野店」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたラーメン「一蘭 中野店」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ichiran-nakano"
 name: "一蘭 中野店"
 genre: "ramen"

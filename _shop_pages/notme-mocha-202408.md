@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「猫カフェ MOCHA 原宿店」"
-description: "≠MEのYouTubeで紹介されたcafe「猫カフェ MOCHA 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたカフェ「猫カフェ MOCHA 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-mocha-202408"
 name: "猫カフェ MOCHA 原宿店"
 genre: "cafe"

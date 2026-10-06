@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「La Maison du R」"
-description: "≒JOYのYouTubeで紹介されたshokuji「La Maison du R」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「La Maison du R」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-la_maison_du_r-20240814"
 name: "La Maison du R"
 genre: "shokuji"

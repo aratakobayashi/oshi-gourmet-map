@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ナプレ 南青山本店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「ナプレ 南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「ナプレ 南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-napure-minamiaoyama"
 name: "ナプレ 南青山本店"
 genre: "shokuji"

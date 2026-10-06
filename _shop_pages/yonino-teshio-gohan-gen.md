@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「手しおごはん 玄 新宿南口店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「手しおごはん 玄 新宿南口店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「手しおごはん 玄 新宿南口店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
 genre: "washoku"

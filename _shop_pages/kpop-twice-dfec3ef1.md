@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「月島もんじゃ たまとや下北沢店」"
-description: "TWICEで紹介されたothers「月島もんじゃ たまとや下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたその他「月島もんじゃ たまとや下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-dfec3ef1-"
 name: "月島もんじゃ たまとや下北沢店"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「エスサワダ西麻布」"
-description: "嵐にしやがれで紹介されたothers「エスサワダ西麻布」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「エスサワダ西麻布」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-2b1b7a85-"
 name: "エスサワダ西麻布"
 genre: "others"

@@ -1,6 +1,6 @@
 ---
-title: "SixTONESが行ったwashoku24選"
-description: "SixTONESのメンバーが実際に訪れたwashokuスポットを24件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行った和食24選"
+description: "SixTONESのメンバーが実際に訪れた和食スポットを24件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: washoku
 group_label: "SixTONES"
@@ -15,6 +15,6 @@ related_genres:
   - sixtones-ramen
 related_groups:
   - kodoku-no-gurume-washoku
-  - yonino-washoku
   - snowman-washoku
+  - yonino-washoku
 ---

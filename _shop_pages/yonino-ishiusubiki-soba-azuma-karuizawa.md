@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「石臼挽き蕎麦 東間」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「石臼挽き蕎麦 東間」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「石臼挽き蕎麦 東間」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ishiusubiki-soba-azuma-karuizawa"
 name: "石臼挽き蕎麦 東間"
 genre: "washoku"

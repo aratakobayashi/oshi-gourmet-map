@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「道の駅舞鶴港とれとれセンター  魚たつ」"
-description: "孤独のグルメ Season10 第2021話で紹介されたshokuji「道の駅舞鶴港とれとれセンター  魚たつ」（京都府舞鶴市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介された食事「道の駅舞鶴港とれとれセンター  魚たつ」（京都府舞鶴市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9f3210f3-"
 name: "道の駅舞鶴港とれとれセンター  魚たつ"
 genre: "shokuji"

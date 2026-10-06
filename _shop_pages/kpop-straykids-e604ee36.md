@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「鍋ぞう 浅草雷門店」"
-description: "スンミン Instagramで紹介されたshokuji「鍋ぞう 浅草雷門店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "スンミン Instagramで紹介された食事「鍋ぞう 浅草雷門店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-e604ee36-"
 name: "鍋ぞう 浅草雷門店"
 genre: "shokuji"

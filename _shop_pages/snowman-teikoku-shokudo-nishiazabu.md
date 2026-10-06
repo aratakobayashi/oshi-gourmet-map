@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「帝國食堂」"
-description: "Snow ManのYouTubeで紹介されたshokuji「帝國食堂」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「帝國食堂」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "shokuji"

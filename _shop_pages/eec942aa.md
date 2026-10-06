@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「CABE チャベ目黒店」"
-description: "孤独のグルメ Season10 Episode2で紹介されたshokuji「CABE チャベ目黒店」（東京都）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 Episode2で紹介された食事「CABE チャベ目黒店」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "eec942aa"
 name: "CABE チャベ目黒店"
 genre: "shokuji"

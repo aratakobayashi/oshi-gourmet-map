@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Lady Bugs」"
-description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたothers「Lady Bugs」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人ロケ地】お花屋さんはどこ？どっちが海人でSHOW！で紹介されたその他「Lady Bugs」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lady_bugs-"
 name: "Lady Bugs"
 genre: "others"

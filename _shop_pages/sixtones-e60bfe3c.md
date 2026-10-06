@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「山本商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたothers「山本商店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたその他「山本商店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-e60bfe3c-"
 name: "山本商店"
 genre: "others"

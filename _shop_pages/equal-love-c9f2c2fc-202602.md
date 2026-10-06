@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「晴れる屋 新橋店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「晴れる屋 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「晴れる屋 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c9f2c2fc-202602"
 name: "晴れる屋 新橋店"
 genre: "shokuji"

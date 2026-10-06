@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「鮨文」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「鮨文」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「鮨文」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sushi-bun"
 name: "鮨文"
 genre: "washoku"

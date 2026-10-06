@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「Boulangerie Sudo」"
-description: "日向坂で会いましょうで紹介されたsweets「Boulangerie Sudo」（東京都）。推し活グルメ巡礼スポット。"
+description: "日向坂で会いましょうで紹介されたスイーツ「Boulangerie Sudo」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-boulangerie_sudo-"
 name: "Boulangerie Sudo"
 genre: "sweets"

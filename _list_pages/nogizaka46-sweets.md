@@ -1,6 +1,6 @@
 ---
-title: "乃木坂46が行ったsweets15選"
-description: "乃木坂46のメンバーが実際に訪れたsweetsスポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行ったスイーツ15選"
+description: "乃木坂46のメンバーが実際に訪れたスイーツスポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
 genre: sweets
 group_label: "乃木坂46"
@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - arashi-sweets
   - naniwa-sweets
-  - equal-love-sweets
+  - west-sweets
 ---

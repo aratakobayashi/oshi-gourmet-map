@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン 南国」"
-description: "Snow ManのYouTubeで紹介されたshokuji「キッチン 南国」（宮城県石巻市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「キッチン 南国」（宮城県石巻市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-b8d6ca27-202405"
 name: "キッチン 南国"
 genre: "shokuji"

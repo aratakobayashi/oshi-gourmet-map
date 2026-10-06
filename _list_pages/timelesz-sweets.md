@@ -1,6 +1,6 @@
 ---
-title: "timeleszが行ったsweets8選"
-description: "timeleszのメンバーが実際に訪れたsweetsスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "timeleszが行ったスイーツ8選"
+description: "timeleszのメンバーが実際に訪れたスイーツスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: sweets
 group_label: "timelesz"

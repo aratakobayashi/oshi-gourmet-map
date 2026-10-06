@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「GINZA 過門香 錦糸町駅前プラザビル店」"
-description: "SixTONESのYouTubeで紹介されたchuka「GINZA 過門香 錦糸町駅前プラザビル店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された中華「GINZA 過門香 錦糸町駅前プラザビル店」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kamonka-kinshicho"
 name: "GINZA 過門香 錦糸町駅前プラザビル店"
 genre: "chuka"

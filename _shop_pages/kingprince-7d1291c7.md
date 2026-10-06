@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「深川つり舟」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！爆盛りかき揚げ丼のお店はどこ？で紹介されたothers「深川つり舟」（東京都国立市）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！爆盛りかき揚げ丼のお店はどこ？で紹介されたその他「深川つり舟」（東京都国立市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7d1291c7-"
 name: "深川つり舟"
 genre: "others"

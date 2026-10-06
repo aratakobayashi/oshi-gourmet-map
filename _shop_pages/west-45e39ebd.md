@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "PEGO&CO. 世田谷店"
-description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたsweets「PEGO&CO. 世田谷店」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたスイーツ「PEGO&CO. 世田谷店」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-45e39ebd"
 name: "PEGO&CO. 世田谷店"
 genre: "sweets"

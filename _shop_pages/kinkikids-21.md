@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "21時にアイス　上野店"
-description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたsweets「21時にアイス　上野店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたスイーツ「21時にアイス　上野店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-21-"
 name: "21時にアイス　上野店"
 genre: "sweets"

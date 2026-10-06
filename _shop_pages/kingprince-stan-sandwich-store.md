@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「STAN sandwich store（スタンサンドイッチストア）」"
-description: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？で紹介されたothers「STAN sandwich store（スタンサンドイッチストア）」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？で紹介されたその他「STAN sandwich store（スタンサンドイッチストア）」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-stan_sandwich_store-"
 name: "STAN sandwich store（スタンサンドイッチストア）"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「銀座サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたothers「銀座サンド」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたその他「銀座サンド」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-92fd8dab-"
 name: "銀座サンド"
 genre: "others"

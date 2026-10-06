@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「レバーランド」"
-description: "キントレガイドブック【髙橋海人＆那須雄登】蒲田のレバー料理の立ち飲み屋はどこ？で紹介されたizakaya「レバーランド」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "キントレガイドブック【髙橋海人＆那須雄登】蒲田のレバー料理の立ち飲み屋はどこ？で紹介された居酒屋「レバーランド」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-4ad4ffcc-"
 name: "レバーランド"
 genre: "izakaya"

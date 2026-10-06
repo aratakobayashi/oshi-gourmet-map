@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「瀬戸内バル Collabo」"
-description: "Snow ManのYouTubeで紹介されたshokuji「瀬戸内バル Collabo」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「瀬戸内バル Collabo」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-setouchi-bar-collabo"
 name: "瀬戸内バル Collabo"
 genre: "shokuji"

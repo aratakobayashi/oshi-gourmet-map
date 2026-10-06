@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「WOLFMAN JINGUMAE」"
-description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたothers「WOLFMAN JINGUMAE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【King＆Princeキンプリロケ地】『ピース』ツアーグッズパンフのバーバー（理容室）はどこ？で紹介されたその他「WOLFMAN JINGUMAE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-wolfman_jingumae-"
 name: "WOLFMAN JINGUMAE"
 genre: "others"

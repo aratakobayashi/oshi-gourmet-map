@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「AWkitchen GARDEN 鎌倉」"
-description: "帰り道は遠回りしたくなるTypeC 桜井個人PVで紹介されたothers「AWkitchen GARDEN 鎌倉」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "帰り道は遠回りしたくなるTypeC 桜井個人PVで紹介されたその他「AWkitchen GARDEN 鎌倉」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-awkitchen_garden-"
 name: "AWkitchen GARDEN 鎌倉"
 genre: "others"

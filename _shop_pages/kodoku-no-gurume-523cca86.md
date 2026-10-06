@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みゆき食堂」"
-description: "孤独のグルメ Season4 第1話で紹介されたshokuji「みゆき食堂」（東京都清瀬市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第1話で紹介された食事「みゆき食堂」（東京都清瀬市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-523cca86-"
 name: "みゆき食堂"
 genre: "shokuji"

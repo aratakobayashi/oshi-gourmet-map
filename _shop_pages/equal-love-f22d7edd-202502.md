@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「えどもんど中野」"
-description: "=LOVEのYouTubeで紹介されたizakaya「えどもんど中野」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「えどもんど中野」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-f22d7edd-202502"
 name: "えどもんど中野"
 genre: "izakaya"

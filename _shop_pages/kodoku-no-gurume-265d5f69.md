@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「コンマ コーヒー」"
-description: "孤独のグルメ Season8 第4話で紹介されたramen「コンマ コーヒー」（埼玉県新座市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第4話で紹介されたラーメン「コンマ コーヒー」（埼玉県新座市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-265d5f69-"
 name: "コンマ コーヒー"
 genre: "ramen"

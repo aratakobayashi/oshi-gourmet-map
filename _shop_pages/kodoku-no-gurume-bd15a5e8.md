@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「与倉ドライブイン」"
-description: "孤独のグルメ Season10 第24話で紹介されたwashoku「与倉ドライブイン」（千葉県香取市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された和食「与倉ドライブイン」（千葉県香取市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-bd15a5e8-"
 name: "与倉ドライブイン"
 genre: "washoku"

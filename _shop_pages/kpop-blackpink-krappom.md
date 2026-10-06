@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Krappom（까폼）」"
-description: "リサ 行きつけタイ料理で紹介されたshokuji「Krappom（까폼）」（韓国）。推し活グルメ巡礼スポット。"
+description: "リサ 行きつけタイ料理で紹介された食事「Krappom（까폼）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-krappom-"
 name: "Krappom（까폼）"
 genre: "shokuji"

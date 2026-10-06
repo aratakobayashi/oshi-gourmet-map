@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「串焼げん 江戸川橋店」"
-description: "Snow ManのYouTubeで紹介されたizakaya「串焼げん 江戸川橋店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された居酒屋「串焼げん 江戸川橋店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kushigen-edogawabashi"
 name: "串焼げん 江戸川橋店"
 genre: "izakaya"

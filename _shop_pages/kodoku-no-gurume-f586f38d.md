@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「とんかつ割烹 やすいみ～と」"
-description: "孤独のグルメ Season10 第24話で紹介されたwashoku「とんかつ割烹 やすいみ～と」（東京都府中市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された和食「とんかつ割烹 やすいみ～と」（東京都府中市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f586f38d-"
 name: "とんかつ割烹 やすいみ～と"
 genre: "washoku"

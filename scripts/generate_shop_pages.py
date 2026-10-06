@@ -8,6 +8,8 @@ import json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOPS_JSON = os.path.join(ROOT, "data", "shops.json")
 OUT_DIR = os.path.join(ROOT, "_shop_pages")
+with open(os.path.join(ROOT, "_data", "genres.json"), encoding="utf-8") as _f:
+    GENRE_LABELS = {k: v["label"] for k, v in json.load(_f).items()}  # 表示名の正: _data/genres.json
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -31,7 +33,7 @@ GROUP_LABELS_MAP = {
 
 def build_seo_description(shop):
     name       = shop.get('name', '')
-    genre      = shop.get('genre', '')
+    genre      = GENRE_LABELS.get(shop.get('genre', ''), shop.get('genre', ''))
     prefecture = shop.get('prefecture', '')
     city       = shop.get('city', '')
     price      = shop.get('price_range', '')

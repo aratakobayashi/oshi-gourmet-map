@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多もつ鍋 やま中 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「博多もつ鍋 やま中 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された居酒屋「博多もつ鍋 やま中 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-yamanaka-ginza"
 name: "博多もつ鍋 やま中 銀座店"
 genre: "izakaya"

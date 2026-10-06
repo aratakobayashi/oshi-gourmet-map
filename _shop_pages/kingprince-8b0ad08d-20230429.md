@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「マッサマン タイキッチン」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「マッサマン タイキッチン」（神奈川県中郡大磯町）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「マッサマン タイキッチン」（神奈川県中郡大磯町）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-8b0ad08d-20230429"
 name: "マッサマン タイキッチン"
 genre: "shokuji"

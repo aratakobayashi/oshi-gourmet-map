@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「USHIHACHI 渋谷店」"
-description: "=LOVEのYouTubeで紹介されたyakiniku「USHIHACHI 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された焼肉「USHIHACHI 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-ushihachi-202408"
 name: "USHIHACHI 渋谷店"
 genre: "yakiniku"

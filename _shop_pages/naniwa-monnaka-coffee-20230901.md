@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「MONNAKA COFFEE」"
-description: "なにわ男子のどっち派 (2023-09-01)で紹介されたcafe「MONNAKA COFFEE」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-09-01)で紹介されたカフェ「MONNAKA COFFEE」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-monnaka_coffee-20230901"
 name: "MONNAKA COFFEE"
 genre: "cafe"

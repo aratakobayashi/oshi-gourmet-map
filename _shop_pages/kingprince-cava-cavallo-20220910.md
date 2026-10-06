@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CAVA CAVALLO」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「CAVA CAVALLO」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「CAVA CAVALLO」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cava_cavallo-20220910"
 name: "CAVA CAVALLO"
 genre: "shokuji"

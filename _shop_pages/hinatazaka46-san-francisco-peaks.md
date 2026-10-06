@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「San Francisco Peaks」"
-description: "日向坂46のYouTubeで紹介されたshokuji「San Francisco Peaks」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "日向坂46のYouTubeで紹介された食事「San Francisco Peaks」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-san_francisco_peaks-"
 name: "San Francisco Peaks"
 genre: "shokuji"

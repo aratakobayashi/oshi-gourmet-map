@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「ナカメの手土産」"
-description: "ダニエル 中目黒訪問（2023年）で紹介されたcafe「ナカメの手土産」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "ダニエル 中目黒訪問（2023年）で紹介されたカフェ「ナカメの手土産」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-b23c73bc-"
 name: "ナカメの手土産"
 genre: "cafe"

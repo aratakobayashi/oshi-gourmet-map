@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "コシャリ屋コーピー"
-description: "イキスギさんについてった 2023-01-31で紹介されたshokuji「コシャリ屋コーピー」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-01-31で紹介された食事「コシャリ屋コーピー」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-ac2d4aef"
 name: "コシャリ屋コーピー"
 genre: "shokuji"

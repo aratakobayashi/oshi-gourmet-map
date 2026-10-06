@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "THE LIVING"
-description: "VS魂 背徳グルメワールドツアーで紹介されたcafe「THE LIVING」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介されたカフェ「THE LIVING」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-the_living-"
 name: "THE LIVING"
 genre: "cafe"

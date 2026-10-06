@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「大久堂 OKUDO カフェ」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「大久堂 OKUDO カフェ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたカフェ「大久堂 OKUDO カフェ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "ginga-okudo-202407"
 name: "大久堂 OKUDO カフェ"
 genre: "cafe"

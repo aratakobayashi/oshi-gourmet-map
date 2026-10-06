@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よろにく"
-description: "KinKi Kidsのブンブブーンで紹介されたyakiniku「よろにく」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介された焼肉「よろにく」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-6eda1c89-"
 name: "よろにく"
 genre: "yakiniku"

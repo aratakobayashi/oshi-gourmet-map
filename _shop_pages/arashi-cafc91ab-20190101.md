@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「うな富士」"
-description: "嵐にしやがれで紹介されたshokuji「うな富士」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「うな富士」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-cafc91ab-20190101"
 name: "うな富士"
 genre: "shokuji"

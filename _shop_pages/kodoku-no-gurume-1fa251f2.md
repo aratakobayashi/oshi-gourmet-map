@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ジンギスカン どぅー」"
-description: "孤独のグルメ Season8 第11話で紹介されたshokuji「ジンギスカン どぅー」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第11話で紹介された食事「ジンギスカン どぅー」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1fa251f2-"
 name: "ジンギスカン どぅー"
 genre: "shokuji"

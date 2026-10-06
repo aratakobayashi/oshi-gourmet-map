@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「Café Marly」"
-description: "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日）で紹介されたcafe「Café Marly」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日）で紹介されたカフェ「Café Marly」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-cafe_marly-20250425"
 name: "Café Marly"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ホンスチュクミ 新宿店"
-description: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼で紹介されたshokuji「ホンスチュクミ 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼で紹介された食事「ホンスチュクミ 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-f39d2ab4-20220702"
 name: "ホンスチュクミ 新宿店"
 genre: "shokuji"

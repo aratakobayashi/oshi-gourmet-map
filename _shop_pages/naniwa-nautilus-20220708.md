@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「アクアリウムレストラン Nautilus」"
-description: "エンタメレストランが増えているのなんでやねん！を解明で紹介されたwashoku「アクアリウムレストラン Nautilus」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "エンタメレストランが増えているのなんでやねん！を解明で紹介された和食「アクアリウムレストラン Nautilus」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-nautilus-20220708"
 name: "アクアリウムレストラン Nautilus"
 genre: "washoku"

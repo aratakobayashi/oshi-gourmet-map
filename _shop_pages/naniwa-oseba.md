@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「OSEBA」"
-description: "なにわ男子のどっち派で紹介されたshokuji「OSEBA」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介された食事「OSEBA」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-oseba-"
 name: "OSEBA"
 genre: "shokuji"

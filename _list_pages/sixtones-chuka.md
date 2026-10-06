@@ -1,6 +1,6 @@
 ---
-title: "SixTONESが行ったchuka7選"
-description: "SixTONESのメンバーが実際に訪れたchukaスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行った中華7選"
+description: "SixTONESのメンバーが実際に訪れた中華スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: chuka
 group_label: "SixTONES"

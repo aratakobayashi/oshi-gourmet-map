@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「阿佐ヶ谷バードランド」"
-description: "Snow ManのYouTubeで紹介されたizakaya「阿佐ヶ谷バードランド」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された居酒屋「阿佐ヶ谷バードランド」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-asagaya-birdland"
 name: "阿佐ヶ谷バードランド"
 genre: "izakaya"

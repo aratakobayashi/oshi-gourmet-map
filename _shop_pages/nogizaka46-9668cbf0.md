@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「二条市場」"
-description: "乃木坂工事中で紹介されたothers「二条市場」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたその他「二条市場」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9668cbf0-"
 name: "二条市場"
 genre: "others"

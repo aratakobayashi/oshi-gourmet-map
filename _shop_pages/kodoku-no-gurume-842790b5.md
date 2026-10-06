@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「居酒屋 舞子」"
-description: "孤独のグルメ Season10 第8話で紹介されたizakaya「居酒屋 舞子」（富山県富山市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第8話で紹介された居酒屋「居酒屋 舞子」（富山県富山市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-842790b5-"
 name: "居酒屋 舞子"
 genre: "izakaya"

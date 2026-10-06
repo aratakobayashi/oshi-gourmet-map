@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Homer（ホーマー）」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Homer（ホーマー）」（東京都小金井市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Homer（ホーマー）」（東京都小金井市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-homer-20250211"
 name: "Homer（ホーマー）"
 genre: "shokuji"

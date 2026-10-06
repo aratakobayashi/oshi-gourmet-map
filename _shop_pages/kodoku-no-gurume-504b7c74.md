@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まーさん」"
-description: "孤独のグルメ Season5 第7話で紹介されたshokuji「まーさん」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第7話で紹介された食事「まーさん」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-504b7c74-"
 name: "まーさん"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「焼肉宝来軒」"
-description: "孤独のグルメ Season8 第5話で紹介されたyakiniku「焼肉宝来軒」（群馬県藤岡市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第5話で紹介された焼肉「焼肉宝来軒」（群馬県藤岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a27b3ef5-"
 name: "焼肉宝来軒"
 genre: "yakiniku"

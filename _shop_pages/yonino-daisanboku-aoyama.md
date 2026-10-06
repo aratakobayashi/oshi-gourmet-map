@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大3木（ダイサンボク）」"
-description: "よにのちゃんねるのYouTubeで紹介されたizakaya「大3木（ダイサンボク）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された居酒屋「大3木（ダイサンボク）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
 genre: "izakaya"

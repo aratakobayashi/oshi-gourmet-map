@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「EVVIVA!」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介されたshokuji「EVVIVA!」（神奈川県海老名市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2024-05-17)で紹介された食事「EVVIVA!」（神奈川県海老名市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-evviva-20240517"
 name: "EVVIVA!"
 genre: "shokuji"

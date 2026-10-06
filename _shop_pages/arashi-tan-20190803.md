@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「赤坂Tan伍」"
-description: "嵐にしやがれで紹介されたshokuji「赤坂Tan伍」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「赤坂Tan伍」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-tan-20190803"
 name: "赤坂Tan伍"
 genre: "shokuji"

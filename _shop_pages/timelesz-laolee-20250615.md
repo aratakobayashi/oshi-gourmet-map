@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「台湾餃子LAOLEE 中目黒店」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介されたyakiniku「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介された焼肉「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-laolee-20250615"
 name: "台湾餃子LAOLEE 中目黒店"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「辛麺屋桝元 赤江店」"
-description: "亀梨和也のYouTubeで紹介されたramen「辛麺屋桝元 赤江店」（宮崎県宮崎市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたラーメン「辛麺屋桝元 赤江店」（宮崎県宮崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-7cbda6f7-202404"
 name: "辛麺屋桝元 赤江店"
 genre: "ramen"

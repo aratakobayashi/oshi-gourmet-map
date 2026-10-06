@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
-description: "あの頃からわたしたちは【Sexy松 ロケ地】レストランはどこ？松島聡×松田元太×松倉海斗で紹介されたcafe「MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "あの頃からわたしたちは【Sexy松 ロケ地】レストランはどこ？松島聡×松田元太×松倉海斗で紹介されたカフェ「MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mercer_brunch_roppon-"
 name: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「英国屋」"
-description: "白米様 MVで紹介されたothers「英国屋」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
+description: "白米様 MVで紹介されたその他「英国屋」（埼玉県飯能市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-900fe842-"
 name: "英国屋"
 genre: "others"

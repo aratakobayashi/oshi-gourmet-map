@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ピアット・スズキ」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「ピアット・スズキ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「ピアット・スズキ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6fc6f3d9-20220618"
 name: "ピアット・スズキ"
 genre: "shokuji"

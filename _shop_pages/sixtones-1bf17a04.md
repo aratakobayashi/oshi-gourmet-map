@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「国虎商店」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたothers「国虎商店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の築地で朝ごはんのお店はどこ？で紹介されたその他「国虎商店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-1bf17a04-"
 name: "国虎商店"
 genre: "others"

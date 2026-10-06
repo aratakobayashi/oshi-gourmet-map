@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Henry's PIZZA」"
-description: "ジェニ・ロゼ 大阪訪問（VERDYコラボ店）で紹介されたshokuji「Henry's PIZZA」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "ジェニ・ロゼ 大阪訪問（VERDYコラボ店）で紹介された食事「Henry's PIZZA」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-henry_s_pizza-"
 name: "Henry's PIZZA"
 genre: "shokuji"

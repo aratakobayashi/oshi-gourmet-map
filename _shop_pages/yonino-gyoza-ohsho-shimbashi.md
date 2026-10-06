@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「餃子の王将 新橋駅前店」"
-description: "よにのちゃんねるのYouTubeで紹介されたchuka「餃子の王将 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された中華「餃子の王将 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-gyoza-ohsho-shimbashi"
 name: "餃子の王将 新橋駅前店"
 genre: "chuka"

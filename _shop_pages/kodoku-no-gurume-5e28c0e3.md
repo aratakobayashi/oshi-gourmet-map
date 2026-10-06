@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「長崎飯店 渋谷店」"
-description: "孤独のグルメ Season6 第7話で紹介されたramen「長崎飯店 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第7話で紹介されたラーメン「長崎飯店 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5e28c0e3-"
 name: "長崎飯店 渋谷店"
 genre: "ramen"

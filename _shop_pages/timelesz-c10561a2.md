@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「舟和 本店」"
-description: "タイムレスマン 日光街道！脱落旅SP（2026年4月17日 フジテレビ系）で紹介されたsweets「舟和 本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン 日光街道！脱落旅SP（2026年4月17日 フジテレビ系）で紹介されたスイーツ「舟和 本店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-c10561a2-"
 name: "舟和 本店"
 genre: "sweets"

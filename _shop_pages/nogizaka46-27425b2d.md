@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「小樽たけの寿司」"
-description: "乃木坂、逃避行。で紹介されたwashoku「小樽たけの寿司」（北海道小樽市）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介された和食「小樽たけの寿司」（北海道小樽市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-27425b2d-"
 name: "小樽たけの寿司"
 genre: "washoku"

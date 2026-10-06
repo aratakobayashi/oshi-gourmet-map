@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「Swell Coffee Roasters」"
-description: "NewJeans 代官山・中目黒聖地で紹介されたcafe「Swell Coffee Roasters」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "NewJeans 代官山・中目黒聖地で紹介されたカフェ「Swell Coffee Roasters」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-swell_coffee_roaster-"
 name: "Swell Coffee Roasters"
 genre: "cafe"

@@ -1,6 +1,6 @@
 ---
-title: "乃木坂46が行ったwashoku8選"
-description: "乃木坂46のメンバーが実際に訪れたwashokuスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行った和食8選"
+description: "乃木坂46のメンバーが実際に訪れた和食スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
 genre: washoku
 group_label: "乃木坂46"
@@ -15,6 +15,6 @@ related_genres:
   - nogizaka46-shokuji
 related_groups:
   - kodoku-no-gurume-washoku
+  - snowman-washoku
   - yonino-washoku
-  - sixtones-washoku
 ---

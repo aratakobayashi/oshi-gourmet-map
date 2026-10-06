@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ハセガワストア 中道店」"
-description: "乃木坂工事中で紹介されたothers「ハセガワストア 中道店」（北海道函館市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介されたその他「ハセガワストア 中道店」（北海道函館市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cdfa7942-"
 name: "ハセガワストア 中道店"
 genre: "others"

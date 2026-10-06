@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "尾道ええもんや"
-description: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？で紹介されたothers「尾道ええもんや」（広島県尾道市）。推し活グルメ巡礼スポット。"
+description: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？で紹介されたその他「尾道ええもんや」（広島県尾道市）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-39dfe377-"
 name: "尾道ええもんや"
 genre: "others"

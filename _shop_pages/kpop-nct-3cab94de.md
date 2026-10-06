@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NCTが行った「道頓堀 テヨン」"
-description: "NCTで紹介されたothers「道頓堀 テヨン」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "NCTで紹介されたその他「道頓堀 テヨン」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_nct-3cab94de-"
 name: "道頓堀 テヨン"
 genre: "others"

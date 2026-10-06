@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「LAMB MEAT TENDER」"
-description: "嵐にしやがれで紹介されたothers「LAMB MEAT TENDER」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「LAMB MEAT TENDER」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-lamb_meat_tender-"
 name: "LAMB MEAT TENDER"
 genre: "others"

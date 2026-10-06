@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「nib(ニブ)」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「nib(ニブ)」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「nib(ニブ)」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-nib-20250411"
 name: "nib(ニブ)"
 genre: "sweets"

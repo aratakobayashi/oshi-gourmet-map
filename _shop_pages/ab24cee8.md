@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ペニーレイン 那須店」"
-description: "それスノで紹介されたcafe「ペニーレイン 那須店」（栃木県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたカフェ「ペニーレイン 那須店」（栃木県）。推し活グルメ巡礼スポット。"
 shop_id: "ab24cee8"
 name: "ペニーレイン 那須店"
 genre: "cafe"

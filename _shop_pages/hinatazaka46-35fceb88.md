@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「ザクリ珈琲」"
-description: "日向の休日で紹介されたcafe「ザクリ珈琲」（東京都）。推し活グルメ巡礼スポット。"
+description: "日向の休日で紹介されたカフェ「ザクリ珈琲」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-35fceb88-"
 name: "ザクリ珈琲"
 genre: "cafe"

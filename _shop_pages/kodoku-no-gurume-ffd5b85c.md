@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「寿苑」"
-description: "孤独のグルメ Season5 第1話で紹介されたshokuji「寿苑」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第1話で紹介された食事「寿苑」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ffd5b85c-"
 name: "寿苑"
 genre: "shokuji"

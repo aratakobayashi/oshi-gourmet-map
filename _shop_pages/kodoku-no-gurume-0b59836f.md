@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「オリタ焼まんじゅう店」"
-description: "孤独のグルメ Season9 第8話で紹介されたshokuji「オリタ焼まんじゅう店」（群馬県高崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第8話で紹介された食事「オリタ焼まんじゅう店」（群馬県高崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0b59836f-"
 name: "オリタ焼まんじゅう店"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Dosan Bunsik（도산분식 가로수길점）」"
-description: "ジス Instagramで紹介されたshokuji「Dosan Bunsik（도산분식 가로수길점）」（韓国）。推し活グルメ巡礼スポット。"
+description: "ジス Instagramで紹介された食事「Dosan Bunsik（도산분식 가로수길점）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-dosan_bunsik-"
 name: "Dosan Bunsik（도산분식 가로수길점）"
 genre: "shokuji"

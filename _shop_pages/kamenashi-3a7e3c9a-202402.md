@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「鳥焼 萬歳亭」"
-description: "亀梨和也のYouTubeで紹介されたizakaya「鳥焼 萬歳亭」（宮崎県宮崎市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された居酒屋「鳥焼 萬歳亭」（宮崎県宮崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-3a7e3c9a-202402"
 name: "鳥焼 萬歳亭"
 genre: "izakaya"

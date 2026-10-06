@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「THE LIVING （ザ・リビング）」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨大いちごパフェ」のお店はどこ？で紹介されたothers「THE LIVING （ザ・リビング）」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨大いちごパフェ」のお店はどこ？で紹介されたその他「THE LIVING （ザ・リビング）」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-the_living-"
 name: "THE LIVING （ザ・リビング）"
 genre: "others"

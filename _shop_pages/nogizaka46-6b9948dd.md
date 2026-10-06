@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「焼肉ライク 新橋本店」"
-description: "乃木坂どこへで紹介されたyakiniku「焼肉ライク 新橋本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "乃木坂どこへで紹介された焼肉「焼肉ライク 新橋本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6b9948dd-"
 name: "焼肉ライク 新橋本店"
 genre: "yakiniku"

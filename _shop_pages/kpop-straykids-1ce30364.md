@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「やきやき三輪 大阪堀江店」"
-description: "Stray Kids 2023年ドームツアー来日時 Instagramで紹介されたyakiniku「やきやき三輪 大阪堀江店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "Stray Kids 2023年ドームツアー来日時 Instagramで紹介された焼肉「やきやき三輪 大阪堀江店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-1ce30364-"
 name: "やきやき三輪 大阪堀江店"
 genre: "yakiniku"

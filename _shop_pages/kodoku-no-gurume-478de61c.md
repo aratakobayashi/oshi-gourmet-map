@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「南印度ダイニング」"
-description: "孤独のグルメ Season10 第24話で紹介されたshokuji「南印度ダイニング」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された食事「南印度ダイニング」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-478de61c-"
 name: "南印度ダイニング"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「熟豚 三代目 蔵司」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「熟豚 三代目 蔵司」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「熟豚 三代目 蔵司」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kuraji-akasaka"
 name: "熟豚 三代目 蔵司"
 genre: "washoku"

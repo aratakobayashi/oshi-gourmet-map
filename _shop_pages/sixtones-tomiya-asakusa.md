@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「とんかつ とみ家」"
-description: "SixTONESのYouTubeで紹介されたwashoku「とんかつ とみ家」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「とんかつ とみ家」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-tomiya-asakusa"
 name: "とんかつ とみ家"
 genre: "washoku"

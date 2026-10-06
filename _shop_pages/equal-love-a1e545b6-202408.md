@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転わんこそば くるくるわんこ」"
-description: "=LOVEのYouTubeで紹介されたwashoku「回転わんこそば くるくるわんこ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「回転わんこそば くるくるわんこ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a1e545b6-202408"
 name: "回転わんこそば くるくるわんこ"
 genre: "washoku"

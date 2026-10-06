@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ワインバー nomuno"
-description: "VS魂 背徳グルメで紹介されたshokuji「ワインバー nomuno」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメで紹介された食事「ワインバー nomuno」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-nomuno-"
 name: "ワインバー nomuno"
 genre: "shokuji"

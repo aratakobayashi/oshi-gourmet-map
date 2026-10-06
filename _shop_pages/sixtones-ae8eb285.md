@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「エオル」"
-description: "だが、情熱はあるロケ地【髙橋海人撮影】クレープ屋さんはどこ？で紹介されたothers「エオル」（東京都青梅市）。推し活グルメ巡礼スポット。"
+description: "だが、情熱はあるロケ地【髙橋海人撮影】クレープ屋さんはどこ？で紹介されたその他「エオル」（東京都青梅市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ae8eb285-"
 name: "エオル"
 genre: "others"

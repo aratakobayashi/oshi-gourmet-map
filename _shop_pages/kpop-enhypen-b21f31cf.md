@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鳴門鯛焼本舗 新橋駅前店」"
-description: "ENHYPENで紹介されたothers「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-b21f31cf-"
 name: "鳴門鯛焼本舗 新橋駅前店"
 genre: "others"

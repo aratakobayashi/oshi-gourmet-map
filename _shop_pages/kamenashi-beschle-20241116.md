@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Beschle」"
-description: "亀梨和也のYouTubeで紹介されたizakaya「Beschle」（スイスバーゼル）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された居酒屋「Beschle」（スイスバーゼル）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-beschle-20241116"
 name: "Beschle"
 genre: "izakaya"

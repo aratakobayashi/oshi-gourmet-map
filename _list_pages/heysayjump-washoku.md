@@ -1,6 +1,6 @@
 ---
-title: "Hey! Say! JUMPが行ったwashoku8選"
-description: "Hey! Say! JUMPのメンバーが実際に訪れたwashokuスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "Hey! Say! JUMPが行った和食8選"
+description: "Hey! Say! JUMPのメンバーが実際に訪れた和食スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: washoku
 group_label: "Hey! Say! JUMP"
@@ -15,6 +15,6 @@ related_genres:
   - heysayjump-sweets
 related_groups:
   - kodoku-no-gurume-washoku
+  - snowman-washoku
   - yonino-washoku
-  - sixtones-washoku
 ---

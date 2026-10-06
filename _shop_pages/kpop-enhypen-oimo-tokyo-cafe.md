@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「& OIMO TOKYO CAFE 中目黒店」"
-description: "ENHYPENで紹介されたothers「& OIMO TOKYO CAFE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「& OIMO TOKYO CAFE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-oimo_tokyo_cafe-"
 name: "& OIMO TOKYO CAFE 中目黒店"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「アントニオ 南青山本店」"
-description: "嵐にしやがれで紹介されたothers「アントニオ 南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「アントニオ 南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-0d55c6e8-"
 name: "アントニオ 南青山本店"
 genre: "others"

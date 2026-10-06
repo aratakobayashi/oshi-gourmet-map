@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「焼肉 零條」"
-description: "ENHYPENで紹介されたothers「焼肉 零條」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「焼肉 零條」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-399875a6-"
 name: "焼肉 零條"
 genre: "others"

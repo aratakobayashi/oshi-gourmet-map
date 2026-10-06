@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「cafe nun」"
-description: "木村拓哉が訪れたshokuji「cafe nun」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた食事「cafe nun」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "shokuji"

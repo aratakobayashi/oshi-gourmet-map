@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「俺の割烹 炉ばた 恵比寿」"
-description: "Snow ManのYouTubeで紹介されたizakaya「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された居酒屋「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
 genre: "izakaya"

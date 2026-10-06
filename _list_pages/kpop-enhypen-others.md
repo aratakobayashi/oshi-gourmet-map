@@ -1,12 +1,11 @@
 ---
-title: "kpop_enhypenが行ったothers9選"
-description: "kpop_enhypenのメンバーが実際に訪れたothersスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "ENHYPENが行ったその他9選"
+description: "ENHYPENのメンバーが実際に訪れたその他スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_enhypen
 genre: others
-group_label: "kpop_enhypen"
+group_label: "ENHYPEN"
 slug_id: kpop-enhypen-others
 shop_count: 9
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/95756/95756680.jpg?token=50b8daa&api=v2"
 related_groups:
   - kingprince-others
   - nogizaka46-others

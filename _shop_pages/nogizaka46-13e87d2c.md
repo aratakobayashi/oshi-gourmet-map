@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「中村屋惣菜製作所」"
-description: "さくさんぽ 京都嵐山で紹介されたshokuji「中村屋惣菜製作所」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "さくさんぽ 京都嵐山で紹介された食事「中村屋惣菜製作所」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13e87d2c-"
 name: "中村屋惣菜製作所"
 genre: "shokuji"

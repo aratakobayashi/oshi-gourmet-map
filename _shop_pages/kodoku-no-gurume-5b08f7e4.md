@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「屋台純ちゃん」"
-description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「屋台純ちゃん」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介された和食「屋台純ちゃん」（福岡県福岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5b08f7e4-"
 name: "屋台純ちゃん"
 genre: "washoku"

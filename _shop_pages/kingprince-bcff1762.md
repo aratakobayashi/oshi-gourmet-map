@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「北鎌倉たからの庭」"
-description: "【King & Princeのなつやすみ】ハニワ作り 陶芸体験はどこ？鎌倉？永瀬廉＆髙橋海人ロケ地で紹介されたothers「北鎌倉たからの庭」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "【King & Princeのなつやすみ】ハニワ作り 陶芸体験はどこ？鎌倉？永瀬廉＆髙橋海人ロケ地で紹介されたその他「北鎌倉たからの庭」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bcff1762-"
 name: "北鎌倉たからの庭"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「やきとり 大ちゃん」"
-description: "SKZ VLOG「Felix : Sunshine Vlog 6」で紹介されたshokuji「やきとり 大ちゃん」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Felix : Sunshine Vlog 6」で紹介された食事「やきとり 大ちゃん」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-df0b482a-"
 name: "やきとり 大ちゃん"
 genre: "shokuji"

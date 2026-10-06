@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「らーめんMAIKAGURA」"
-description: "【ゴールデンストーンズ】ご褒美の町中華兆徳はどこ？フルコースのメニューは何？で紹介されたramen「らーめんMAIKAGURA」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】ご褒美の町中華兆徳はどこ？フルコースのメニューは何？で紹介されたラーメン「らーめんMAIKAGURA」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-maikagura-20250617"
 name: "らーめんMAIKAGURA"
 genre: "ramen"

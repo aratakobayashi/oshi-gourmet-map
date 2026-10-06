@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あじわい回転寿司 禅"
-description: "westが訪れたwashoku「あじわい回転寿司 禅」（神奈川県）。推し活グルメ巡礼スポット。"
+description: "westが訪れた和食「あじわい回転寿司 禅」（神奈川県）。推し活グルメ巡礼スポット。"
 shop_id: "ce8d5aec"
 name: "あじわい回転寿司 禅"
 genre: "washoku"

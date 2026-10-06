@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛牛 西麻布 総本店」"
-description: "SixTONESのYouTubeで紹介されたyakiniku「牛牛 西麻布 総本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された焼肉「牛牛 西麻布 総本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-gyugyu-nishiazabu"
 name: "牛牛 西麻布 総本店"
 genre: "yakiniku"

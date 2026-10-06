@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大人食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「大人食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「大人食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-otona-shokudo"
 name: "大人食堂"
 genre: "washoku"

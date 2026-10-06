@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「大幸園 小宮本店」"
-description: "孤独のグルメ Season4 第4話で紹介されたshokuji「大幸園 小宮本店」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第4話で紹介された食事「大幸園 小宮本店」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b4ec36d5-"
 name: "大幸園 小宮本店"
 genre: "shokuji"

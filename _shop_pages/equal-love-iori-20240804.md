@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「IORI」"
-description: "=LOVEのYouTubeで紹介されたshokuji「IORI」（北海道千歳市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「IORI」（北海道千歳市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-iori-20240804"
 name: "IORI"
 genre: "shokuji"

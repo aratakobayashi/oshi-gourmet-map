@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「銀座 福祿壽」"
-description: "よにのちゃんねるが訪れたsweets「銀座 福祿壽」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるが訪れたスイーツ「銀座 福祿壽」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-ginza-fukukuju"
 name: "銀座 福祿壽"
 genre: "sweets"

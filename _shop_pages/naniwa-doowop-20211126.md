@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「DooWop」"
-description: "なにわ男子のYouTubeで紹介されたizakaya「DooWop」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介された居酒屋「DooWop」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-doowop-20211126"
 name: "DooWop"
 genre: "izakaya"

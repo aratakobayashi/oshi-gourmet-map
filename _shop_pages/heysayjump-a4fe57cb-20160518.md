@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「銀熊茶寮」"
-description: "2016.05.18 高級レストランのランチ特集で紹介されたwashoku「銀熊茶寮」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "2016.05.18 高級レストランのランチ特集で紹介された和食「銀熊茶寮」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-a4fe57cb-20160518"
 name: "銀熊茶寮"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「桂屋」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「桂屋」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「桂屋」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-9caaae7c-20230429"
 name: "桂屋"
 genre: "shokuji"

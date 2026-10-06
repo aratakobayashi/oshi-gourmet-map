@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「韓国酒場ハルハル」"
-description: "ジゼル 高円寺来訪で紹介されたizakaya「韓国酒場ハルハル」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "ジゼル 高円寺来訪で紹介された居酒屋「韓国酒場ハルハル」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-e6d7a34f-"
 name: "韓国酒場ハルハル"
 genre: "izakaya"

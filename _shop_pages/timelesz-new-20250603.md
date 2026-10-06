@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「NEWかれいど」"
-description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたramen「NEWかれいど」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 川越ロケ（2025年6月3日）で紹介されたラーメン「NEWかれいど」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-new-20250603"
 name: "NEWかれいど"
 genre: "ramen"

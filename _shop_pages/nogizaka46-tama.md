@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「工房TAMA」"
-description: "乃木坂、逃避行。で紹介されたothers「工房TAMA」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「工房TAMA」（沖縄県国頭郡恩納村）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-tama-"
 name: "工房TAMA"
 genre: "others"

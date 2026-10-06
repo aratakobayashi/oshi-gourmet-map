@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
-description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたcafe「GOOD MORNING CAFE 錦町」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "22nd帰り道は遠回りしたくなるType-Aで紹介されたカフェ「GOOD MORNING CAFE 錦町」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-good_morning_cafe-"
 name: "GOOD MORNING CAFE 錦町"
 genre: "cafe"

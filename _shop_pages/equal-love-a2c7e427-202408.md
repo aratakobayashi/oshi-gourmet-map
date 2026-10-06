@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「華正樓 本店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「華正樓 本店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「華正樓 本店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a2c7e427-202408"
 name: "華正樓 本店"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「浅草きんぎょ」"
-description: "≠MEのYouTubeで紹介されたshokuji「浅草きんぎょ」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介された食事「浅草きんぎょ」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-ff35be8a-202501"
 name: "浅草きんぎょ"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「前島食堂」"
-description: "孤独のグルメ Season10 第2021話で紹介されたyakiniku「前島食堂」（三重県松阪市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介された焼肉「前島食堂」（三重県松阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6b620ad2-"
 name: "前島食堂"
 genre: "yakiniku"

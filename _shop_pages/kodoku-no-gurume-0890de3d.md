@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カトリカ」"
-description: "孤独のグルメ Season7 第7話で紹介されたshokuji「カトリカ」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第7話で紹介された食事「カトリカ」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0890de3d-"
 name: "カトリカ"
 genre: "shokuji"

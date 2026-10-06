@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「New NEW YORK CLUB」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたshokuji「New NEW YORK CLUB」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "2016.10.26 秋のバスツアーおすすめグルメで紹介された食事「New NEW YORK CLUB」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-new_new_york_club-20161026"
 name: "New NEW YORK CLUB"
 genre: "shokuji"

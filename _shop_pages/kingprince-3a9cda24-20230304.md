@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「天然とらふぐ専門 六本木浜藤」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「天然とらふぐ専門 六本木浜藤」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「天然とらふぐ専門 六本木浜藤」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-3a9cda24-20230304"
 name: "天然とらふぐ専門 六本木浜藤"
 genre: "shokuji"

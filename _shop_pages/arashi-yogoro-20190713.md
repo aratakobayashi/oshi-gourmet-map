@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ヨゴロウ（YOGORO）」"
-description: "嵐にしやがれで紹介されたshokuji「ヨゴロウ（YOGORO）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「ヨゴロウ（YOGORO）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-yogoro-20190713"
 name: "ヨゴロウ（YOGORO）"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「甘辛や」"
-description: "孤独のグルメ Season6 第1話で紹介されたwashoku「甘辛や」（大阪府）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第1話で紹介された和食「甘辛や」（大阪府）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-51019084-"
 name: "甘辛や"
 genre: "washoku"

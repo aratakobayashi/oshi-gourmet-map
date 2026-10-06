@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「THI THI」"
-description: "孤独のグルメ Season4 第11話で紹介されたshokuji「THI THI」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第11話で紹介された食事「THI THI」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-thi_thi-"
 name: "THI THI"
 genre: "shokuji"

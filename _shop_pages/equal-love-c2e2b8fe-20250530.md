@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「軽井沢・プリンスショッピングプラザ」"
-description: "=LOVEのYouTubeで紹介されたshokuji「軽井沢・プリンスショッピングプラザ」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「軽井沢・プリンスショッピングプラザ」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-c2e2b8fe-20250530"
 name: "軽井沢・プリンスショッピングプラザ"
 genre: "shokuji"

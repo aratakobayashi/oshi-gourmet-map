@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛ひつまぶし専門 sakai」"
-description: "SixTONES髙地優吾＆松村北斗が食べた名古屋の牛ひつまぶしのお弁当はどこの？で紹介されたothers「牛ひつまぶし専門 sakai」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "SixTONES髙地優吾＆松村北斗が食べた名古屋の牛ひつまぶしのお弁当はどこの？で紹介されたその他「牛ひつまぶし専門 sakai」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sakai-20220807"
 name: "牛ひつまぶし専門 sakai"
 genre: "others"

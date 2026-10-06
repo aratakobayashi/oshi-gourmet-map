@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「陳家私菜 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介されたchuka「陳家私菜 銀座店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された中華「陳家私菜 銀座店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chinka-shisai-ginza"
 name: "陳家私菜 銀座店"
 genre: "chuka"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Little Papa Pho Hapjeong（리틀파파포 합정본점）」"
-description: "リサ・ロゼ 合井エリア訪問で紹介されたshokuji「Little Papa Pho Hapjeong（리틀파파포 합정본점）」（韓国）。推し活グルメ巡礼スポット。"
+description: "リサ・ロゼ 合井エリア訪問で紹介された食事「Little Papa Pho Hapjeong（리틀파파포 합정본점）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-little_papa_pho_hapj-"
 name: "Little Papa Pho Hapjeong（리틀파파포 합정본점）"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「うどんや藤」"
-description: "孤独のグルメ Season8 第4話で紹介されたramen「うどんや藤」（埼玉県新座市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第4話で紹介されたラーメン「うどんや藤」（埼玉県新座市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f06c8c10-"
 name: "うどんや藤"
 genre: "ramen"

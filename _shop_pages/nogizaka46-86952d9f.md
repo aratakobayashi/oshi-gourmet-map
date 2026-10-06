@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「御菓子司 荻野」"
-description: "乃木坂配信中　さくさんぽで紹介されたothers「御菓子司 荻野」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中　さくさんぽで紹介されたその他「御菓子司 荻野」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-86952d9f-"
 name: "御菓子司 荻野"
 genre: "others"

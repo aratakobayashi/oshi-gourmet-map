@@ -1,6 +1,6 @@
 ---
-title: "「孤独のグルメ」登場washoku37選"
-description: "ドラマ「孤独のグルメ」に登場したwashokuスポットを37件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場和食37選"
+description: "ドラマ「孤独のグルメ」に登場した和食スポットを37件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: washoku
 group_label: "孤独のグルメ"
@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-ramen
   - kodoku-no-gurume-yakiniku
 related_groups:
+  - snowman-washoku
   - yonino-washoku
   - sixtones-washoku
-  - snowman-washoku
 ---

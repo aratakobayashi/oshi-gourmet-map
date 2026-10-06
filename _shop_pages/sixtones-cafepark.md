@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「CAFE PARK」"
-description: "SixTONES - お洒落カフェでトークで紹介されたcafe「CAFE PARK」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONES - お洒落カフェでトークで紹介されたカフェ「CAFE PARK」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafepark"
 name: "CAFE PARK"
 genre: "cafe"

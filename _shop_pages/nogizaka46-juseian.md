@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「寿清庵」"
-description: "乃木坂46 浅草食べ歩きVlogで紹介されたsweets「寿清庵」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46 浅草食べ歩きVlogで紹介されたスイーツ「寿清庵」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-juseian"
 name: "寿清庵"
 genre: "sweets"

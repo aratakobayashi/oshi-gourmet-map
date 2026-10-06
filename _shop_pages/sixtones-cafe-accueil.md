@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「cafe accueil（カフェ アクイーユ） 恵比寿店」"
-description: "アンサンブル【松村北斗＆川口春奈 ロケ地】朝ごはんデートのカフェはどこ？ローブカフェで紹介されたcafe「cafe accueil（カフェ アクイーユ） 恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "アンサンブル【松村北斗＆川口春奈 ロケ地】朝ごはんデートのカフェはどこ？ローブカフェで紹介されたカフェ「cafe accueil（カフェ アクイーユ） 恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe_accueil-"
 name: "cafe accueil（カフェ アクイーユ） 恵比寿店"
 genre: "cafe"

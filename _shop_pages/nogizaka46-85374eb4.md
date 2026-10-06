@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ニューポピー」"
-description: "乃木坂46が訪れたcafe「喫茶ニューポピー」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたカフェ「喫茶ニューポピー」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-85374eb4-"
 name: "喫茶ニューポピー"
 genre: "cafe"

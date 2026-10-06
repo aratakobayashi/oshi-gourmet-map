@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「ISHINOYA 熱海 / 石のや 熱海」"
-description: "=LOVEのYouTubeで紹介されたshokuji「ISHINOYA 熱海 / 石のや 熱海」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「ISHINOYA 熱海 / 石のや 熱海」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-ishinoya-202509"
 name: "ISHINOYA 熱海 / 石のや 熱海"
 genre: "shokuji"

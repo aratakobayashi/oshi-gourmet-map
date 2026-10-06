@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「串カツ玩具-GANG-」"
-description: "=LOVEのYouTubeで紹介されたizakaya「串カツ玩具-GANG-」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「串カツ玩具-GANG-」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"
 genre: "izakaya"

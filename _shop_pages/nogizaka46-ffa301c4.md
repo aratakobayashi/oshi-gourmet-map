@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「えんそば 錦1丁目店」"
-description: "乃木坂46が訪れたramen「えんそば 錦1丁目店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたラーメン「えんそば 錦1丁目店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-ffa301c4-"
 name: "えんそば 錦1丁目店"
 genre: "ramen"

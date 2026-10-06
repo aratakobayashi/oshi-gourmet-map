@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「つるとんたん UDON NOODLE Brasserie 六本木」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたramen「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介されたラーメン「つるとんたん UDON NOODLE Brasserie 六本木」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-udon_noodle_brasseri-"
 name: "つるとんたん UDON NOODLE Brasserie 六本木"
 genre: "ramen"

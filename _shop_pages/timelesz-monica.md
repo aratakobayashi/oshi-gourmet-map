@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「MONICA」"
-description: "タイムレスマン「2択マン」表参道モニカで紹介されたcafe「MONICA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「2択マン」表参道モニカで紹介されたカフェ「MONICA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-monica-"
 name: "MONICA"
 genre: "cafe"

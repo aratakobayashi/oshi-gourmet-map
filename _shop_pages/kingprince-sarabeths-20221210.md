@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Sarabeth’s」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「Sarabeth’s」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「Sarabeth’s」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-sarabeths-20221210"
 name: "Sarabeth’s"
 genre: "shokuji"

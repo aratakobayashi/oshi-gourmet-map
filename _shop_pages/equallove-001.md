@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「いしがまや GOKU BURGER」"
-description: "=LOVEのYouTubeで紹介されたshokuji「いしがまや GOKU BURGER」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「いしがまや GOKU BURGER」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_001"
 name: "いしがまや GOKU BURGER"
 genre: "shokuji"

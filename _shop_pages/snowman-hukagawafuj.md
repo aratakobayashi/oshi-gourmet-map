@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「深川富士見」"
-description: "Snow ManのYouTubeで紹介されたshokuji「深川富士見」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-hukagawafuj"
 name: "深川富士見"
 genre: "shokuji"

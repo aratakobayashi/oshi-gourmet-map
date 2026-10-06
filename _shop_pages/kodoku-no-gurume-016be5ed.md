@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ちまぐ～」"
-description: "孤独のグルメ Season10 第2023話で紹介されたwashoku「ちまぐ～」（沖縄県国頭郡今帰仁村）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介された和食「ちまぐ～」（沖縄県国頭郡今帰仁村）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-016be5ed-"
 name: "ちまぐ～"
 genre: "washoku"

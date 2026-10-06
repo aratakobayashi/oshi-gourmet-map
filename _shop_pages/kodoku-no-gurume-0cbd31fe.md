@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「中国家庭料理 楊 2号店」"
-description: "孤独のグルメ Season1 第3話で紹介されたshokuji「中国家庭料理 楊 2号店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第3話で紹介された食事「中国家庭料理 楊 2号店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0cbd31fe-"
 name: "中国家庭料理 楊 2号店"
 genre: "shokuji"

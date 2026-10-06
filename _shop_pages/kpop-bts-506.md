@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「トッコギ506」"
-description: "V 行きつけ熟成豚肉店で紹介されたyakiniku「トッコギ506」（韓国）。推し活グルメ巡礼スポット。"
+description: "V 行きつけ熟成豚肉店で紹介された焼肉「トッコギ506」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-506-"
 name: "トッコギ506"
 genre: "yakiniku"

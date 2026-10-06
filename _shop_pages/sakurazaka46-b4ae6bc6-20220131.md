@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「銀座 柳寿司 三代目」"
-description: "そこ曲がったら、櫻坂？で紹介されたwashoku「銀座 柳寿司 三代目」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介された和食「銀座 柳寿司 三代目」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-b4ae6bc6-20220131"
 name: "銀座 柳寿司 三代目"
 genre: "washoku"

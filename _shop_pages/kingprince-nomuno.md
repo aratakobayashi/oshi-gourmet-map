@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ワインバー　nomuno」"
-description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介されたizakaya「ワインバー　nomuno」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介された居酒屋「ワインバー　nomuno」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-nomuno-"
 name: "ワインバー　nomuno"
 genre: "izakaya"

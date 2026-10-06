@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「512 カフェアンドグリル(512 CAFE & GRILL)」"
-description: "嵐にしやがれで紹介されたcafe「512 カフェアンドグリル(512 CAFE & GRILL)」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたカフェ「512 カフェアンドグリル(512 CAFE & GRILL)」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-512_512_cafe_grill-20201219"
 name: "512 カフェアンドグリル(512 CAFE & GRILL)"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「BUB RESORT Yatsugatake」"
-description: "なにわ男子のどっち派 (2025-01-24)で紹介されたshokuji「BUB RESORT Yatsugatake」（山梨県北杜市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-01-24)で紹介された食事「BUB RESORT Yatsugatake」（山梨県北杜市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-bub_resort_yatsugata-20250124"
 name: "BUB RESORT Yatsugatake"
 genre: "shokuji"

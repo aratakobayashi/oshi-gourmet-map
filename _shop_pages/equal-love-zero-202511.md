@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「沼津港海将 zero 上野店」"
-description: "=LOVEのYouTubeで紹介されたwashoku「沼津港海将 zero 上野店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「沼津港海将 zero 上野店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-zero-202511"
 name: "沼津港海将 zero 上野店"
 genre: "washoku"

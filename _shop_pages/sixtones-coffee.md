@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Coffee オリビエ」"
-description: "だが、情熱はあるロケ地【森本慎太郎撮影】高校生の山里が行った喫茶店は？で紹介されたcafe「Coffee オリビエ」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "だが、情熱はあるロケ地【森本慎太郎撮影】高校生の山里が行った喫茶店は？で紹介されたカフェ「Coffee オリビエ」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-coffee-"
 name: "Coffee オリビエ"
 genre: "cafe"

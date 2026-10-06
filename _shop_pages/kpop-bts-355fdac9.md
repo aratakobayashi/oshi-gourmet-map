@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「東莱ミルミョン」"
-description: "RM 釜山訪問で紹介されたshokuji「東莱ミルミョン」（韓国）。推し活グルメ巡礼スポット。"
+description: "RM 釜山訪問で紹介された食事「東莱ミルミョン」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-355fdac9-"
 name: "東莱ミルミョン"
 genre: "shokuji"

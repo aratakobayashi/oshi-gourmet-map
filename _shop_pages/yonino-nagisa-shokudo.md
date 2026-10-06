@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「なぎさ食堂」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「なぎさ食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「なぎさ食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
 genre: "washoku"

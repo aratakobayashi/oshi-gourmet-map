@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「オールド・デリー銀座店」"
-description: "乃木坂工事中で紹介されたshokuji「オールド・デリー銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介された食事「オールド・デリー銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-9c9e0e74-"
 name: "オールド・デリー銀座店"
 genre: "shokuji"

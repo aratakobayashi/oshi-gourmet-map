@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "白鳳"
-description: "westが訪れたchuka「白鳳」（神奈川県）。推し活グルメ巡礼スポット。"
+description: "westが訪れた中華「白鳳」（神奈川県）。推し活グルメ巡礼スポット。"
 shop_id: "f4a52aaa"
 name: "白鳳"
 genre: "chuka"

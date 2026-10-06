@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「土鍋炊ごはん なかよし 本店」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「土鍋炊ごはん なかよし 本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-nakayoshi-ebisu"
 name: "土鍋炊ごはん なかよし 本店"
 genre: "washoku"

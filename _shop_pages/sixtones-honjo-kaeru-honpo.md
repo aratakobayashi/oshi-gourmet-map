@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「本所かえる本舗」"
-description: "SixTONESのYouTubeで紹介されたwashoku「本所かえる本舗」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「本所かえる本舗」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
 genre: "washoku"

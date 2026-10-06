@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みっちゃん」"
-description: "孤独のグルメ Season10 第2017話で紹介されたramen「みっちゃん」（広島県広島市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2017話で紹介されたラーメン「みっちゃん」（広島県広島市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-16043b2f-"
 name: "みっちゃん"
 genre: "ramen"

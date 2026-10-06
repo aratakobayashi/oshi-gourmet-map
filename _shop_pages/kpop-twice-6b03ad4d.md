@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「トーホーベーカリー」"
-description: "TWICEで紹介されたothers「トーホーベーカリー」（東京都三鷹市）。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたその他「トーホーベーカリー」（東京都三鷹市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-6b03ad4d-"
 name: "トーホーベーカリー"
 genre: "others"

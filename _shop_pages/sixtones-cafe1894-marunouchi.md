@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Café 1894」"
-description: "SixTONESが訪れたcafe「Café 1894」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れたカフェ「Café 1894」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe1894-marunouchi"
 name: "Café 1894"
 genre: "cafe"

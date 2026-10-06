@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「THE COOKIE 594」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「THE COOKIE 594」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「THE COOKIE 594」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-the_cookie_594-20250411"
 name: "THE COOKIE 594"
 genre: "sweets"

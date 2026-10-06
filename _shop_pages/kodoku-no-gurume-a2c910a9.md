@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「肉の浅鞍」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「肉の浅鞍」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された食事「肉の浅鞍」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a2c910a9-"
 name: "肉の浅鞍"
 genre: "shokuji"

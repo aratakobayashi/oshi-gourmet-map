@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）」"
-description: "BLACKPINK 全員来店で紹介されたshokuji「Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）」（韓国）。推し活グルメ巡礼スポット。"
+description: "BLACKPINK 全員来店で紹介された食事「Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-jjukkumi_dal_in-"
 name: "Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）"
 genre: "shokuji"

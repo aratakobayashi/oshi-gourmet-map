@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Hamacho hotel」"
-description: "=LOVEのYouTubeで紹介されたshokuji「Hamacho hotel」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「Hamacho hotel」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-hamacho_hotel-20250315"
 name: "Hamacho hotel"
 genre: "shokuji"

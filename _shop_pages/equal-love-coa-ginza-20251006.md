@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「COA GINZA」"
-description: "=LOVEのYouTubeで紹介されたcafe「COA GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「COA GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-coa_ginza-20251006"
 name: "COA GINZA"
 genre: "cafe"

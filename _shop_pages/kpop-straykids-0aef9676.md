@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「コルモッ食堂」"
-description: "YouTube「FANDOM TOUR」練習生時代から常連で紹介されたshokuji「コルモッ食堂」（韓国）。推し活グルメ巡礼スポット。"
+description: "YouTube「FANDOM TOUR」練習生時代から常連で紹介された食事「コルモッ食堂」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-0aef9676-"
 name: "コルモッ食堂"
 genre: "shokuji"

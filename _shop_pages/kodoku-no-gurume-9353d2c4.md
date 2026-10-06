@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「居酒屋まめぞ」"
-description: "孤独のグルメ Season4 第7話で紹介されたizakaya「居酒屋まめぞ」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season4 第7話で紹介された居酒屋「居酒屋まめぞ」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9353d2c4-"
 name: "居酒屋まめぞ"
 genre: "izakaya"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「EATALY（イータリー）原宿店」"
-description: "【キントレ当たり前レストラン】マリトッツォのカフェはどこの？で紹介されたothers「EATALY（イータリー）原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【キントレ当たり前レストラン】マリトッツォのカフェはどこの？で紹介されたその他「EATALY（イータリー）原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-eataly-"
 name: "EATALY（イータリー）原宿店"
 genre: "others"

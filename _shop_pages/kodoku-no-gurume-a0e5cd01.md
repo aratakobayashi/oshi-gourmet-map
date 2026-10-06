@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ガテモタブン」"
-description: "孤独のグルメ Season5 第8話で紹介されたshokuji「ガテモタブン」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第8話で紹介された食事「ガテモタブン」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a0e5cd01-"
 name: "ガテモタブン"
 genre: "shokuji"

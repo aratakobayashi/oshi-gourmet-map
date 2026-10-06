@@ -1,6 +1,6 @@
 ---
-title: "=LOVEが行ったwashoku18選"
-description: "=LOVEのメンバーが実際に訪れたwashokuスポットを18件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行った和食18選"
+description: "=LOVEのメンバーが実際に訪れた和食スポットを18件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: washoku
 group_label: "=LOVE"
@@ -15,6 +15,6 @@ related_genres:
   - equal-love-cafe
 related_groups:
   - kodoku-no-gurume-washoku
+  - snowman-washoku
   - yonino-washoku
-  - sixtones-washoku
 ---

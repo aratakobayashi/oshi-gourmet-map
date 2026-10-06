@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「DAIGOMI」"
-description: "2016.03.03 体を温める食べ物実験で紹介されたshokuji「DAIGOMI」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "2016.03.03 体を温める食べ物実験で紹介された食事「DAIGOMI」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-daigomi-20160303"
 name: "DAIGOMI"
 genre: "shokuji"

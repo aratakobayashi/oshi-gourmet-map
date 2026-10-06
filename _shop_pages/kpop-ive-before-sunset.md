@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「before sunset」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたcafe「before sunset」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
+description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたカフェ「before sunset」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_ive-before_sunset-"
 name: "before sunset"
 genre: "cafe"

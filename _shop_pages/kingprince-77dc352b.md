@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「田園」"
-description: "King & Prince キンプリ『4月1日』ロケ地の喫茶店はどこ？で紹介されたothers「田園」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "King & Prince キンプリ『4月1日』ロケ地の喫茶店はどこ？で紹介されたその他「田園」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-77dc352b-"
 name: "田園"
 genre: "others"

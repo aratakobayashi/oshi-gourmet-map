@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ALAND TOKYO」"
-description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたothers「ALAND TOKYO」（東京都 渋谷区）。推し活グルメ巡礼スポット。"
+description: "【キンプるロケ地】韓国風コーデ対決のセレクトショップはどこ？関西にもある？で紹介されたその他「ALAND TOKYO」（東京都 渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-aland_tokyo-"
 name: "ALAND TOKYO"
 genre: "others"

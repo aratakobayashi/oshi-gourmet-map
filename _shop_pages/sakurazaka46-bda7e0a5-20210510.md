@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「コチンニヴァース」"
-description: "そこ曲がったら、櫻坂？で紹介されたothers「コチンニヴァース」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたその他「コチンニヴァース」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-bda7e0a5-20210510"
 name: "コチンニヴァース"
 genre: "others"

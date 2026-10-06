@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「西尾さん」"
-description: "CLASSY.11月号【松村北斗 ロケ地】静岡おでんの居酒屋はどこ？予約は？静岡ではなく東京？で紹介されたothers「西尾さん」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "CLASSY.11月号【松村北斗 ロケ地】静岡おでんの居酒屋はどこ？予約は？静岡ではなく東京？で紹介されたその他「西尾さん」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-84658c1e-"
 name: "西尾さん"
 genre: "others"

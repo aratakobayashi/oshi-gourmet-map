@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「麺散」"
-description: "TWICEで紹介されたothers「麺散」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "TWICEで紹介されたその他「麺散」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_twice-29cabaf0-"
 name: "麺散"
 genre: "others"

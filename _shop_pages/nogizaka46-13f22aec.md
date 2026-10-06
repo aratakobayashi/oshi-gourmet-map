@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「春華堂 本店」"
-description: "浜松駅周辺【君に叱られた】で紹介されたsweets「春華堂 本店」（静岡県浜松市）。推し活グルメ巡礼スポット。"
+description: "浜松駅周辺【君に叱られた】で紹介されたスイーツ「春華堂 本店」（静岡県浜松市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13f22aec-"
 name: "春華堂 本店"
 genre: "sweets"

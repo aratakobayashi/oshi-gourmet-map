@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「中華料理 十八番」"
-description: "よにのちゃんねるのYouTubeで紹介されたchuka「中華料理 十八番」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された中華「中華料理 十八番」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
 genre: "chuka"

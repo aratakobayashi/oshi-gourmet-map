@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「UCHOUTEN」"
-description: "嵐にしやがれで紹介されたothers「UCHOUTEN」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「UCHOUTEN」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-uchouten-"
 name: "UCHOUTEN"
 genre: "others"

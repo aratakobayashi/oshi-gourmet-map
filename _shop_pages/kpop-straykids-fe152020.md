@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「オールシーズンズコーヒー」"
-description: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」で紹介されたcafe「オールシーズンズコーヒー」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」で紹介されたカフェ「オールシーズンズコーヒー」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-fe152020-"
 name: "オールシーズンズコーヒー"
 genre: "cafe"

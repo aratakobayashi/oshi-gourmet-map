@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Katsuプリポー"
-description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介されたshokuji「Katsuプリポー」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介された食事「Katsuプリポー」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-a8058eb0"
 name: "Katsuプリポー"
 genre: "shokuji"

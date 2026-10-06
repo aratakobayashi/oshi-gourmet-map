@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「CABE（チャベ）」"
-description: "King&Princeる。当たり前レストランで紹介されたizakaya「CABE（チャベ）」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された居酒屋「CABE（チャベ）」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-cabe-20221015"
 name: "CABE（チャベ）"
 genre: "izakaya"

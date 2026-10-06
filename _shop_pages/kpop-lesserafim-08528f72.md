@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "LE SSERAFIMが行った「삼겹살 전문점 대통령（サムギョプサル大統領）」"
-description: "LENIVERSE YouTube「첫 회식 🍽️」で紹介されたyakiniku「삼겹살 전문점 대통령（サムギョプサル大統領）」（韓国）。推し活グルメ巡礼スポット。"
+description: "LENIVERSE YouTube「첫 회식 🍽️」で紹介された焼肉「삼겹살 전문점 대통령（サムギョプサル大統領）」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_lesserafim-08528f72-"
 name: "삼겹살 전문점 대통령（サムギョプサル大統領）"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「伊香保焼 処々や」"
-description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介されたothers「伊香保焼 処々や」（群馬県渋川市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅伊香保温泉のご飯屋さん（居酒屋）はどこ？で紹介されたその他「伊香保焼 処々や」（群馬県渋川市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cfdee4a9-"
 name: "伊香保焼 処々や"
 genre: "others"

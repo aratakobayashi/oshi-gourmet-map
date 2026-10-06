@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あぺたいと 赤羽店"
-description: "westが訪れたshokuji「あぺたいと 赤羽店」（東京都）。推し活グルメ巡礼スポット。"
+description: "westが訪れた食事「あぺたいと 赤羽店」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "c7c89fdc"
 name: "あぺたいと 赤羽店"
 genre: "shokuji"

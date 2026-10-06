@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "midダイニング"
-description: "私たちが恋する理由第7話【七五三掛龍也ロケ地】カフェ＆居酒屋はどこ？坂元と絢香で紹介されたshokuji「midダイニング」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "私たちが恋する理由第7話【七五三掛龍也ロケ地】カフェ＆居酒屋はどこ？坂元と絢香で紹介された食事「midダイニング」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-mid-"
 name: "midダイニング"
 genre: "shokuji"

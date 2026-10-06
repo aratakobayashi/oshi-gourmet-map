@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "笑姜や"
-description: "イキスギさんについてった 2022-10-25（重岡大毅）しょうが焼きで紹介されたshokuji「笑姜や」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-10-25（重岡大毅）しょうが焼きで紹介された食事「笑姜や」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-bdbf87be"
 name: "笑姜や"
 genre: "shokuji"

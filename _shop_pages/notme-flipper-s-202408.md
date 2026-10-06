@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「FLIPPER'S 下北沢店」"
-description: "≠MEのYouTubeで紹介されたsweets「FLIPPER'S 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたスイーツ「FLIPPER'S 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-flipper_s-202408"
 name: "FLIPPER'S 下北沢店"
 genre: "sweets"

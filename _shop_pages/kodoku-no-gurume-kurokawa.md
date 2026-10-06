@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ビストロ KUROKAWA」"
-description: "孤独のグルメ Season10 第4話で紹介されたshokuji「ビストロ KUROKAWA」（東京都練馬区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第4話で紹介された食事「ビストロ KUROKAWA」（東京都練馬区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-kurokawa-"
 name: "ビストロ KUROKAWA"
 genre: "shokuji"

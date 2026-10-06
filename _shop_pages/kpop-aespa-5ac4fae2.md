@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「ワンガーデン 西麻布店」"
-description: "カリナ・ウィンター 西麻布訪問（2023年）で紹介されたwashoku「ワンガーデン 西麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "カリナ・ウィンター 西麻布訪問（2023年）で紹介された和食「ワンガーデン 西麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-5ac4fae2-"
 name: "ワンガーデン 西麻布店"
 genre: "washoku"

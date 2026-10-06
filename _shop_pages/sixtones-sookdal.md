@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「SOOKDAL 新大久保店」"
-description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたothers「SOOKDAL 新大久保店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "オオカミ少年【ジェシー＆田中樹ロケ地】新大久保の韓国料理のお店はどこ？で紹介されたその他「SOOKDAL 新大久保店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sookdal-"
 name: "SOOKDAL 新大久保店"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「NEW LIGHT」"
-description: "しおりのYouTubeで紹介されたizakaya「NEW LIGHT」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介された居酒屋「NEW LIGHT」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-new_light-20240316"
 name: "NEW LIGHT"
 genre: "izakaya"

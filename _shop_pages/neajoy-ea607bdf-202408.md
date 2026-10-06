@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「喜久屋」"
-description: "≒JOYのYouTubeで紹介されたshokuji「喜久屋」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「喜久屋」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-ea607bdf-202408"
 name: "喜久屋"
 genre: "shokuji"

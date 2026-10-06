@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「ローズベーカリー 銀座店」"
-description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたcafe「ローズベーカリー 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたカフェ「ローズベーカリー 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-b9eabf58-"
 name: "ローズベーカリー 銀座店"
 genre: "cafe"

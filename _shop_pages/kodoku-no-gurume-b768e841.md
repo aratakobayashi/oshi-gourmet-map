@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「もつ焼きばん 高田馬場店」"
-description: "孤独のグルメ Season10 第2話で紹介されたizakaya「もつ焼きばん 高田馬場店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2話で紹介された居酒屋「もつ焼きばん 高田馬場店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b768e841-"
 name: "もつ焼きばん 高田馬場店"
 genre: "izakaya"

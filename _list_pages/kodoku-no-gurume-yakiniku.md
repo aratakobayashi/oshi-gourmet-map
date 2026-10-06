@@ -1,6 +1,6 @@
 ---
-title: "「孤独のグルメ」登場yakiniku14選"
-description: "ドラマ「孤独のグルメ」に登場したyakinikuスポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場焼肉14選"
+description: "ドラマ「孤独のグルメ」に登場した焼肉スポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: yakiniku
 group_label: "孤独のグルメ"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「TruffleBAKERY」"
-description: "なにわ男子が訪れたcafe「TruffleBAKERY」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子が訪れたカフェ「TruffleBAKERY」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-trufflebakery-20211001"
 name: "TruffleBAKERY"
 genre: "cafe"

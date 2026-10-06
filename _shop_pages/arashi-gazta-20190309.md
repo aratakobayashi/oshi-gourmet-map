@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「GAZTA」"
-description: "嵐にしやがれで紹介されたsweets「GAZTA」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたスイーツ「GAZTA」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-gazta-20190309"
 name: "GAZTA"
 genre: "sweets"

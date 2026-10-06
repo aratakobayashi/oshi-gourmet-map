@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「リワイルド リバーサイドグランピングヒル」"
-description: "毎日がbrand new daysで紹介されたizakaya「リワイルド リバーサイドグランピングヒル」（千葉県夷隅郡大多喜町）。推し活グルメ巡礼スポット。"
+description: "毎日がbrand new daysで紹介された居酒屋「リワイルド リバーサイドグランピングヒル」（千葉県夷隅郡大多喜町）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f908487f-"
 name: "リワイルド リバーサイドグランピングヒル"
 genre: "izakaya"

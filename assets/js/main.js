@@ -118,7 +118,7 @@ function renderGenrePills(genres) {
   if (!container) return;
   const currentGenre = document.getElementById('filter-genre')?.value || '';
   const pills = [{ value: '', label: 'すべて' }].concat(
-    genres.map(g => ({ value: g, label: (GENRE_ICONS[g] ? GENRE_ICONS[g] + ' ' : '') + g }))
+    genres.map(g => ({ value: g, label: (genreIcon(g) ? genreIcon(g) + ' ' : '') + genreLabel(g) }))
   );
   container.innerHTML = pills.map(({ value, label }) =>
     `<button class="genre-pill${value === currentGenre ? ' active' : ''}" data-genre="${escHtml(value)}">${escHtml(label)}</button>`
@@ -216,7 +216,7 @@ function fillSelect(id, options) {
   options.forEach(val => {
     const opt = document.createElement('option');
     opt.value = val;
-    opt.textContent = val;
+    opt.textContent = id === 'filter-genre' ? genreLabel(val) : val;
     el.appendChild(opt);
   });
 }
@@ -259,6 +259,11 @@ const GROUP_LABELS = {
   kpop_riize:       'RIIZE',
   kpop_nct:         'NCT',
 };
+// main.js に未登録のグループは _data/groups.json（head.html で出力）から補う
+Object.entries(window.SITE_GROUP_LABELS || {}).forEach(([k, v]) => {
+  if (!GROUP_LABELS[k]) GROUP_LABELS[k] = v;
+});
+
 
 const GROUP_SOLID_COLORS = {
   yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed', naniwa:'#f97316',
@@ -297,10 +302,7 @@ const GROUP_COLORS = {
   kpop_nct:         'linear-gradient(135deg, #10b981, #6ee7b7)',
 };
 
-const GENRE_ICONS = {
-  'カフェ':'☕','ラーメン':'🍜','焼肉':'🥩','食事':'🍽️','スイーツ':'🍰','寿司':'🍣',
-  'もんじゃ':'🍳','居酒屋':'🍺','和食':'🍱','中華':'🥟','カレー':'🍛','その他':'🍴',
-};
+// ジャンルの表示名・アイコンは _data/genres.json。genreLabel() / genreIcon() は head.html で定義
 
 const REGION_MAP = {
   '関東':         ['東京都','神奈川県','埼玉県','千葉県','茨城県','栃木県','群馬県'],
@@ -394,7 +396,7 @@ function updateFilterChips() {
 
   const genreChips = hasGenre ? [
     `<span class="fbar__chip fbar__chip--genre">
-      ${escHtml((GENRE_ICONS[currentGenre] || '') + ' ' + currentGenre)}
+      ${escHtml((genreIcon(currentGenre) ? genreIcon(currentGenre) + ' ' : '') + genreLabel(currentGenre))}
       <button class="fbar__chip__remove" id="genre-chip-remove" aria-label="${escHtml(currentGenre)}を外す">×</button>
     </span>`
   ] : [];
@@ -439,7 +441,8 @@ function applyFilters() {
     if (selectedPrefs.size  > 0 && !selectedPrefs.has(s.prefecture)) return false;
     if (selectedGroups.size > 0 && !(s.groups || []).some(g => selectedGroups.has(g))) return false;
     if (query) {
-      const hay = [s.name, s.description, s.address, ...(s.tags || []), ...(s.members || [])].join(' ').toLowerCase();
+      const hay = [s.name, s.description, s.address, genreLabel(s.genre), s.prefecture, s.city, s.nearest_station,
+                   ...(s.tags || []), ...(s.members || [])].join(' ').toLowerCase();
       if (!hay.includes(query)) return false;
     }
     return true;
@@ -590,7 +593,7 @@ function buildShopCard(shop) {
   const gradient   = GROUP_COLORS[group] || 'linear-gradient(135deg, #e8537a, #7c3aed)';
   const solidColor = GROUP_SOLID_COLORS[group] || '#b72a65';
   const groupLabel = GROUP_LABELS[group] || group;
-  const icon       = GENRE_ICONS[shop.genre] || '🍽️';
+  const icon       = genreIcon(shop.genre) || '🍽️';
   const base       = BASE_URL;
 
   const thumbHtml = thumb
@@ -598,7 +601,7 @@ function buildShopCard(shop) {
        <div class="shop-card__play" aria-hidden="true"><div class="shop-card__play-icon">▶</div></div>`
     : `<div class="shop-card__banner" style="background:${gradient}">
          <span class="shop-card__banner-icon">${icon}</span>
-         <span class="shop-card__banner-genre">${escHtml(shop.genre || '')}</span>
+         <span class="shop-card__banner-genre">${escHtml(genreLabel(shop.genre || ''))}</span>
        </div>`;
 
   const locationParts = [shop.prefecture, shop.city].filter(Boolean);
@@ -610,7 +613,7 @@ function buildShopCard(shop) {
     ? `<div class="shop-card__meta-row">
         ${group ? `<span class="shop-card__group-label" style="color:${solidColor}">${escHtml(groupLabel)}</span>` : ''}
         ${group && shop.genre ? `<span class="shop-card__sep">·</span>` : ''}
-        ${shop.genre ? `<span class="shop-card__genre">${escHtml(shop.genre)}</span>` : ''}
+        ${shop.genre ? `<span class="shop-card__genre">${escHtml(genreLabel(shop.genre))}</span>` : ''}
       </div>` : '';
 
   const memberFirst = (shop.members || [])[0] || '';
@@ -677,7 +680,7 @@ function openModal(shopId) {
   ).join('');
 
   const tags = [
-    shop.genre      ? `<span class="badge badge--genre">${escHtml(shop.genre)}</span>` : '',
+    shop.genre      ? `<span class="badge badge--genre">${escHtml(genreLabel(shop.genre))}</span>` : '',
     shop.prefecture ? `<span class="badge badge--pref">${escHtml(shop.prefecture)}</span>` : '',
     ...(shop.tags || []).map(t => `<span class="badge">${escHtml(t)}</span>`),
   ].join('');

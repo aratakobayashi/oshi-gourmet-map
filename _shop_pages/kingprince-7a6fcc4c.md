@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「フクモリ」"
-description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたothers「フクモリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたその他「フクモリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-7a6fcc4c-"
 name: "フクモリ"
 genre: "others"

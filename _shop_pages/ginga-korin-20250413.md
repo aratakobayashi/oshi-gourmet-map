@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「KORIN」"
-description: "銀河チャンネルで紹介されたizakaya「KORIN」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "銀河チャンネルで紹介された居酒屋「KORIN」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "ginga-korin-20250413"
 name: "KORIN"
 genre: "izakaya"

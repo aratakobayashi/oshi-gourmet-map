@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「龍公亭」"
-description: "嵐にしやがれで紹介されたothers「龍公亭」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「龍公亭」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-8a6cc21b-"
 name: "龍公亭"
 genre: "others"

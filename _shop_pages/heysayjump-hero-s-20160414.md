@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「HERO'S ステーキハウス 秋葉原店」"
-description: "2016.04.14 春の大盛りグルメで紹介されたyakiniku「HERO'S ステーキハウス 秋葉原店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "2016.04.14 春の大盛りグルメで紹介された焼肉「HERO'S ステーキハウス 秋葉原店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-hero_s-20160414"
 name: "HERO'S ステーキハウス 秋葉原店"
 genre: "yakiniku"

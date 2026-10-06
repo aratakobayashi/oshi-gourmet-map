@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「おゝ杉」"
-description: "かまいたちのYouTubeで紹介されたizakaya「おゝ杉」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された居酒屋「おゝ杉」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-394d7350-"
 name: "おゝ杉"
 genre: "izakaya"

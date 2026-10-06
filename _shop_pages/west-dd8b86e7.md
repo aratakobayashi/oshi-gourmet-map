@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SAND"
-description: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアーで紹介されたshokuji「SAND」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアーで紹介された食事「SAND」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "west-dd8b86e7"
 name: "SAND"
 genre: "shokuji"

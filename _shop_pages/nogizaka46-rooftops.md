@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鎌倉 ROOFTOPS(ルーフトップス)」"
-description: "21thジコチューで行こう！Type-Dで紹介されたizakaya「鎌倉 ROOFTOPS(ルーフトップス)」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "21thジコチューで行こう！Type-Dで紹介された居酒屋「鎌倉 ROOFTOPS(ルーフトップス)」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-rooftops-"
 name: "鎌倉 ROOFTOPS(ルーフトップス)"
 genre: "izakaya"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「400℃ PIZZA TOKYO」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「400℃ PIZZA TOKYO」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
 genre: "shokuji"

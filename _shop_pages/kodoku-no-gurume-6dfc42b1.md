@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「南粤美食」"
-description: "孤独のグルメ Season8 第1話で紹介されたshokuji「南粤美食」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第1話で紹介された食事「南粤美食」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-6dfc42b1-"
 name: "南粤美食"
 genre: "shokuji"

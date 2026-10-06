@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「京城園」"
-description: "孤独のグルメ Season10 第24話で紹介されたshokuji「京城園」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された食事「京城園」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1ff7385e-"
 name: "京城園"
 genre: "shokuji"

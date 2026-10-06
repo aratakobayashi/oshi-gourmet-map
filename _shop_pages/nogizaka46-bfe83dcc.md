@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ツヅキ」"
-description: "乃木坂46が訪れたcafe「喫茶ツヅキ」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れたカフェ「喫茶ツヅキ」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-bfe83dcc-"
 name: "喫茶ツヅキ"
 genre: "cafe"

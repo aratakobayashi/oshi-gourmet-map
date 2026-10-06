@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「あちらぼ」"
-description: "=LOVEのYouTubeで紹介されたizakaya「あちらぼ」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「あちらぼ」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-a9d4d24e-202412"
 name: "あちらぼ"
 genre: "izakaya"

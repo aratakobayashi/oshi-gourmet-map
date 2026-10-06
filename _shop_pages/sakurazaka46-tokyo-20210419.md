@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「麻婆豆腐TOKYO 神田本店」"
-description: "そこ曲がったら、櫻坂？で紹介されたothers「麻婆豆腐TOKYO 神田本店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "そこ曲がったら、櫻坂？で紹介されたその他「麻婆豆腐TOKYO 神田本店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-tokyo-20210419"
 name: "麻婆豆腐TOKYO 神田本店"
 genre: "others"

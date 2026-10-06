@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Feedy Diner&Arcade」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたizakaya「Feedy Diner&Arcade」（大阪府茨木市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介された居酒屋「Feedy Diner&Arcade」（大阪府茨木市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-feedy_diner_arcade-20250321"
 name: "Feedy Diner&Arcade"
 genre: "izakaya"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「CAFE CAMPTONG」"
-description: "Run BTS! EP.118-119で紹介されたcafe「CAFE CAMPTONG」（韓国）。推し活グルメ巡礼スポット。"
+description: "Run BTS! EP.118-119で紹介されたカフェ「CAFE CAMPTONG」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-cafe_camptong-"
 name: "CAFE CAMPTONG"
 genre: "cafe"

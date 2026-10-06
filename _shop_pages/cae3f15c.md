@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ナプレ南青山本店」"
-description: "すのちゅーぶ（Snow Man / 2025-04-16）で紹介されたothers「ナプレ南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "すのちゅーぶ（Snow Man / 2025-04-16）で紹介されたその他「ナプレ南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "cae3f15c"
 name: "ナプレ南青山本店"
 genre: "others"

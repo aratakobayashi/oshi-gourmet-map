@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「ワルン」"
-description: "かまいたちのYouTubeで紹介されたshokuji「ワルン」（大阪府大阪市西区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された食事「ワルン」（大阪府大阪市西区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1ca5fcf5-"
 name: "ワルン"
 genre: "shokuji"

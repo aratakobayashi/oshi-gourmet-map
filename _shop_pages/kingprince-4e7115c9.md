@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「くわっち〜家」"
-description: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖縄料理屋さん＆神社はどこ？いつ？で紹介されたothers「くわっち〜家」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖縄料理屋さん＆神社はどこ？いつ？で紹介されたその他「くわっち〜家」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-4e7115c9-"
 name: "くわっち〜家"
 genre: "others"

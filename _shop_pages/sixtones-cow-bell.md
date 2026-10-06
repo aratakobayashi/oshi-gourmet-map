@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「COW BELL（カウベル）」"
-description: "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）で紹介されたothers「COW BELL（カウベル）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）で紹介されたその他「COW BELL（カウベル）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cow_bell-"
 name: "COW BELL（カウベル）"
 genre: "others"

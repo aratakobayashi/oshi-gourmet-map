@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "Snow ManのYouTubeで紹介されたwashoku「薬膳キッチン やくぜんや」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「薬膳キッチン やくぜんや」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "washoku"

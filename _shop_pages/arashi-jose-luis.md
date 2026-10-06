@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「Jose Luis」"
-description: "嵐にしやがれで紹介されたothers「Jose Luis」（長野県長野市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「Jose Luis」（長野県長野市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-jose_luis-"
 name: "Jose Luis"
 genre: "others"

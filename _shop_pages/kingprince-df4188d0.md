@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「小菅写真館」"
-description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたothers「小菅写真館」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
+description: "キントレ「炊飯器の旅」髙橋海人が埼玉県秩父で撮影した日はいつ？で紹介されたその他「小菅写真館」（埼玉県秩父市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-df4188d0-"
 name: "小菅写真館"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「タケウチ 神保町本店」"
-description: "それスノで紹介されたshokuji「タケウチ 神保町本店」（東京都）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された食事「タケウチ 神保町本店」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "e9ac0dc6"
 name: "タケウチ 神保町本店"
 genre: "shokuji"

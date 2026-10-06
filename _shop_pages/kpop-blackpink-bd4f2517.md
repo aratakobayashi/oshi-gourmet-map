@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「原始炭焼 いろり家 東銀座本店」"
-description: "ジェニ YouTube Vlog（東京）で紹介されたizakaya「原始炭焼 いろり家 東銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "ジェニ YouTube Vlog（東京）で紹介された居酒屋「原始炭焼 いろり家 東銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_blackpink-bd4f2517-"
 name: "原始炭焼 いろり家 東銀座本店"
 genre: "izakaya"

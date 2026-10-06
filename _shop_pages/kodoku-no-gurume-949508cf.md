@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「眞実一路」"
-description: "孤独のグルメ Season7 第5話で紹介されたshokuji「眞実一路」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第5話で紹介された食事「眞実一路」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-949508cf-"
 name: "眞実一路"
 genre: "shokuji"

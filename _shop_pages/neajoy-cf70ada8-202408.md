@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「暴れん坊チキン」"
-description: "≒JOYのYouTubeで紹介されたshokuji「暴れん坊チキン」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「暴れん坊チキン」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-cf70ada8-202408"
 name: "暴れん坊チキン"
 genre: "shokuji"

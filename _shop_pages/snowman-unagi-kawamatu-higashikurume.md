@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "Snow ManのYouTubeで紹介されたwashoku「うなぎ川松」（東京都東久留米市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「うなぎ川松」（東京都東久留米市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "washoku"

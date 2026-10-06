@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "高田馬場 Ristorante En"
-description: "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ宝箱弁当で紹介されたshokuji「高田馬場 Ristorante En」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ宝箱弁当で紹介された食事「高田馬場 Ristorante En」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-ristorante_en-"
 name: "高田馬場 Ristorante En"
 genre: "shokuji"

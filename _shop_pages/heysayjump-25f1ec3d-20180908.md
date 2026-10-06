@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「うな達」"
-description: "2018.09.08 グルメ探偵調査で紹介されたwashoku「うな達」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "2018.09.08 グルメ探偵調査で紹介された和食「うな達」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-25f1ec3d-20180908"
 name: "うな達"
 genre: "washoku"

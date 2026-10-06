@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「やげんぼり 赤坂店」"
-description: "カリナ 東京赤坂訪問（SMアイドルの聖地）で紹介されたwashoku「やげんぼり 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "カリナ 東京赤坂訪問（SMアイドルの聖地）で紹介された和食「やげんぼり 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_aespa-5ffe7df2-"
 name: "やげんぼり 赤坂店"
 genre: "washoku"

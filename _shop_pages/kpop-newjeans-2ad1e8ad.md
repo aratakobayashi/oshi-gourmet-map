@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「とんかつ まるや 浜松町店」"
-description: "ミンジ 東京vlog（2023年12月26日公開）で紹介されたwashoku「とんかつ まるや 浜松町店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ミンジ 東京vlog（2023年12月26日公開）で紹介された和食「とんかつ まるや 浜松町店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-2ad1e8ad-"
 name: "とんかつ まるや 浜松町店"
 genre: "washoku"

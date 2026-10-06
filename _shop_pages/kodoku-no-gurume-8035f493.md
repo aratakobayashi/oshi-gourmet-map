@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「菜苑」"
-description: "孤独のグルメ Season5 第10話で紹介されたshokuji「菜苑」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第10話で紹介された食事「菜苑」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8035f493-"
 name: "菜苑"
 genre: "shokuji"

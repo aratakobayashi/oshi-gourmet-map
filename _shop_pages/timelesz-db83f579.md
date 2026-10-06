@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「団五郎茶屋」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介された食事「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-db83f579-"
 name: "団五郎茶屋"
 genre: "shokuji"

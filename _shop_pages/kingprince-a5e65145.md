@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「牡蠣海鮮　かいり」"
-description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介されたwashoku「牡蠣海鮮　かいり」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介された和食「牡蠣海鮮　かいり」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-a5e65145-"
 name: "牡蠣海鮮　かいり"
 genre: "washoku"

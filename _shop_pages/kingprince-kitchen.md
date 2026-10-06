@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「隠れ韓国kitchen カンス」"
-description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介されたshokuji「隠れ韓国kitchen カンス」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？で紹介された食事「隠れ韓国kitchen カンス」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-kitchen-"
 name: "隠れ韓国kitchen カンス"
 genre: "shokuji"

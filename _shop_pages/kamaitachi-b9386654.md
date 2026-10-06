@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「コロラド」"
-description: "かまいたちのYouTubeで紹介されたcafe「コロラド」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介されたカフェ「コロラド」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-b9386654-"
 name: "コロラド"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Pablo」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Pablo」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Pablo」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-pablo-20241002"
 name: "Pablo"
 genre: "shokuji"

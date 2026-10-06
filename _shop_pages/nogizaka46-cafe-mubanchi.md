@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「cafe mubanchi」"
-description: "乃木坂、逃避行。で紹介されたothers「cafe mubanchi」（北海道河東郡鹿追町）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「cafe mubanchi」（北海道河東郡鹿追町）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cafe_mubanchi-"
 name: "cafe mubanchi"
 genre: "others"

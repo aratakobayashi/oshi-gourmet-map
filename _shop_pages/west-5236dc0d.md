@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶サテラ"
-description: "喫茶と濵田。#002で紹介されたcafe「喫茶サテラ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#002で紹介されたカフェ「喫茶サテラ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-5236dc0d-"
 name: "喫茶サテラ"
 genre: "cafe"

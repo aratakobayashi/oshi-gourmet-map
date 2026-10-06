@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「大涌谷 駅の店」"
-description: "≒JOYのYouTubeで紹介されたshokuji「大涌谷 駅の店」（神奈川県足柄下郡箱根町）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介された食事「大涌谷 駅の店」（神奈川県足柄下郡箱根町）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-14f3ebca-202408"
 name: "大涌谷 駅の店"
 genre: "shokuji"

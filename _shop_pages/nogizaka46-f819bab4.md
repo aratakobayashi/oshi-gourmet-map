@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「紀の善」"
-description: "他の星からで紹介されたshokuji「紀の善」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "他の星からで紹介された食事「紀の善」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f819bab4-"
 name: "紀の善"
 genre: "shokuji"

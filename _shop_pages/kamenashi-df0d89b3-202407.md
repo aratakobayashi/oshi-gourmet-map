@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「焼肉古今」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「焼肉古今」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「焼肉古今」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-df0d89b3-202407"
 name: "焼肉古今"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Pizzeria e Trattoria da ISA」"
-description: "SixTONESのYouTubeで紹介されたothers「Pizzeria e Trattoria da ISA」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたその他「Pizzeria e Trattoria da ISA」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-pizzeria-e-trattoria-da-isa"
 name: "Pizzeria e Trattoria da ISA"
 genre: "others"

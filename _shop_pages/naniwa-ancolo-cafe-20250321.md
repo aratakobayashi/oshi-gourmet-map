@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ancolo cafe」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「ancolo cafe」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介された食事「ancolo cafe」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ancolo_cafe-20250321"
 name: "ancolo cafe"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umi cafe」"
-description: "17thインフルエンサーType-Cで紹介されたcafe「umi cafe」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "17thインフルエンサーType-Cで紹介されたカフェ「umi cafe」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
 genre: "cafe"

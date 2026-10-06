@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「YOKOO 大阪のれんめぐり店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「YOKOO 大阪のれんめぐり店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「YOKOO 大阪のれんめぐり店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-yokoo-202508"
 name: "YOKOO 大阪のれんめぐり店"
 genre: "shokuji"

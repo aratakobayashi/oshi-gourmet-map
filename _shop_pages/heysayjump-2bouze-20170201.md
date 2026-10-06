@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「2BOUZE」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介されたshokuji「2BOUZE」（千葉県船橋市）。推し活グルメ巡礼スポット。"
+description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介された食事「2BOUZE」（千葉県船橋市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-2bouze-20170201"
 name: "2BOUZE"
 genre: "shokuji"

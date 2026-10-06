@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「KOSARI TOKYO 東麻布店」"
-description: "ENHYPENで紹介されたothers「KOSARI TOKYO 東麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「KOSARI TOKYO 東麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-kosari_tokyo-"
 name: "KOSARI TOKYO 東麻布店"
 genre: "others"

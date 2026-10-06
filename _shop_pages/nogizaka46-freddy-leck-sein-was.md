@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「FREDDY LECK sein WASCHSALON TOKYO」"
-description: "20thシンクロニシティType-Bで紹介されたcafe「FREDDY LECK sein WASCHSALON TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "20thシンクロニシティType-Bで紹介されたカフェ「FREDDY LECK sein WASCHSALON TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-freddy_leck_sein_was-"
 name: "FREDDY LECK sein WASCHSALON TOKYO"
 genre: "cafe"

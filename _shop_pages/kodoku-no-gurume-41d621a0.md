@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「世味」"
-description: "孤独のグルメ Season10 第9話で紹介されたshokuji「世味」（東京都荒川区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第9話で紹介された食事「世味」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-41d621a0-"
 name: "世味"
 genre: "shokuji"

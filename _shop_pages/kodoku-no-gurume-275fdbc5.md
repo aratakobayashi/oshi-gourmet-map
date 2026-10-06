@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「シリンゴル」"
-description: "孤独のグルメ Season9 第11話で紹介されたshokuji「シリンゴル」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第11話で紹介された食事「シリンゴル」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-275fdbc5-"
 name: "シリンゴル"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ブラッスリー ポール・ボキューズ 銀座」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「ブラッスリー ポール・ボキューズ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「ブラッスリー ポール・ボキューズ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-41fc4dc8-20230304"
 name: "ブラッスリー ポール・ボキューズ 銀座"
 genre: "shokuji"

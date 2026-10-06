@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「泪橋」"
-description: "孤独のグルメ Season7 第8話で紹介されたshokuji「泪橋」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第8話で紹介された食事「泪橋」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-50e9e982-"
 name: "泪橋"
 genre: "shokuji"

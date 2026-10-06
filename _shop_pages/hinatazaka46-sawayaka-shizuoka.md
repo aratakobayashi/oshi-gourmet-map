@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「炭焼きレストランさわやか 静岡インター店」"
-description: "日向坂46 静岡遠征Vlog！さわやかのハンバーグで紹介されたyakiniku「炭焼きレストランさわやか 静岡インター店」（静岡県静岡市）。推し活グルメ巡礼スポット。"
+description: "日向坂46 静岡遠征Vlog！さわやかのハンバーグで紹介された焼肉「炭焼きレストランさわやか 静岡インター店」（静岡県静岡市）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-sawayaka-shizuoka"
 name: "炭焼きレストランさわやか 静岡インター店"
 genre: "yakiniku"

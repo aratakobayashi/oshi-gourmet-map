@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ガスト 六本木店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「ガスト 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「ガスト 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-gust-roppongi"
 name: "ガスト 六本木店"
 genre: "shokuji"

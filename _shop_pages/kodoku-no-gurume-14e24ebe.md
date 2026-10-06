@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「わさび園 かどや」"
-description: "孤独のグルメ Season3 第3話で紹介されたshokuji「わさび園 かどや」（静岡県賀茂郡河津町）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第3話で紹介された食事「わさび園 かどや」（静岡県賀茂郡河津町）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-14e24ebe-"
 name: "わさび園 かどや"
 genre: "shokuji"

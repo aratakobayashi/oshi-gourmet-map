@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "四つ角飯店"
-description: "VS魂 背徳グルメワールドツアーで紹介されたchuka「四つ角飯店」（東京都立川市）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介された中華「四つ角飯店」（東京都立川市）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-cb05c833-"
 name: "四つ角飯店"
 genre: "chuka"

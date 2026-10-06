@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「GOOD LUCK CURRY」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「GOOD LUCK CURRY」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介された食事「GOOD LUCK CURRY」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-good_luck_curry-"
 name: "GOOD LUCK CURRY"
 genre: "shokuji"

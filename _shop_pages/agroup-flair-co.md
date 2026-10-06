@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "flair.co（フレア）"
-description: "【Aぇちゅ〜ぶ in横浜】佐野晶哉の昼ごはん休憩のカフェはどこ？おにぎりを食べたお店で紹介されたothers「flair.co（フレア）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ in横浜】佐野晶哉の昼ごはん休憩のカフェはどこ？おにぎりを食べたお店で紹介されたその他「flair.co（フレア）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-flair_co-"
 name: "flair.co（フレア）"
 genre: "others"

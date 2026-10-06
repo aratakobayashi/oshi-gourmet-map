@@ -1,6 +1,6 @@
 ---
-title: "よにのちゃんねるが行ったshokuji13選"
-description: "よにのちゃんねるのメンバーが実際に訪れたshokujiスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よにのちゃんねるが行った食事13選"
+description: "よにのちゃんねるのメンバーが実際に訪れた食事スポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonino
 genre: shokuji
 group_label: "よにのちゃんねる"
@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-others
 related_groups:
-  - arashi-shokuji
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
+  - arashi-shokuji
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「うらりマルシェ」"
-description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介されたothers「うらりマルシェ」（神奈川県三浦市）。推し活グルメ巡礼スポット。"
+description: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？で紹介されたその他「うらりマルシェ」（神奈川県三浦市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-574d99fb-"
 name: "うらりマルシェ"
 genre: "others"

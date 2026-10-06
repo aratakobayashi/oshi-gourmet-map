@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "蜂の家 銀座本店"
-description: "VS魂 背徳グルメワールドツアーで紹介されたshokuji「蜂の家 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介された食事「蜂の家 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-a9a5b0f5-"
 name: "蜂の家 銀座本店"
 genre: "shokuji"

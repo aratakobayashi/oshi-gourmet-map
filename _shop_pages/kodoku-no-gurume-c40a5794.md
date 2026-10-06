@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「いづみ亭」"
-description: "孤独のグルメ Season10 第5話で紹介されたshokuji「いづみ亭」（千葉県柏市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第5話で紹介された食事「いづみ亭」（千葉県柏市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c40a5794-"
 name: "いづみ亭"
 genre: "shokuji"

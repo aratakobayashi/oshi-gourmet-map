@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「だるま」"
-description: "孤独のグルメ Season5 第2話で紹介されたshokuji「だるま」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第2話で紹介された食事「だるま」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f9b4f23d-"
 name: "だるま"
 genre: "shokuji"

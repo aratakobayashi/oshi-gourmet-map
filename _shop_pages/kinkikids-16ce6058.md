@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "おにぎり専門店 ぼんご"
-description: "KinKi Kidsのブンブブーンで紹介されたshokuji「おにぎり専門店 ぼんご」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーンで紹介された食事「おにぎり専門店 ぼんご」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-16ce6058-"
 name: "おにぎり専門店 ぼんご"
 genre: "shokuji"

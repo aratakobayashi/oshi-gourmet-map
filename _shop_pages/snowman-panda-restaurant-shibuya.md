@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「パンダレストラン」"
-description: "Snow Manが訪れたchuka「パンダレストラン」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow Manが訪れた中華「パンダレストラン」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-panda-restaurant-shibuya"
 name: "パンダレストラン"
 genre: "chuka"

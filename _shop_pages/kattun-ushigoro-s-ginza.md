@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "USHIGORO S. GINZA（うしごろエス銀座）"
-description: "【亀チャンネル】亀梨和也＆渡辺翔太の高級焼肉店はどこ？食べたコースは？で紹介されたothers「USHIGORO S. GINZA（うしごろエス銀座）」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "【亀チャンネル】亀梨和也＆渡辺翔太の高級焼肉店はどこ？食べたコースは？で紹介されたその他「USHIGORO S. GINZA（うしごろエス銀座）」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kattun-ushigoro_s_ginza-"
 name: "USHIGORO S. GINZA（うしごろエス銀座）"
 genre: "others"

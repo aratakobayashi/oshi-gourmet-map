@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RYU-RYU Primo（リュリュプリモ）"
-description: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ屋さんはどこ？好きなメニューは？で紹介されたothers「RYU-RYU Primo（リュリュプリモ）」（兵庫県西宮市）。推し活グルメ巡礼スポット。"
+description: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ屋さんはどこ？好きなメニューは？で紹介されたその他「RYU-RYU Primo（リュリュプリモ）」（兵庫県西宮市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-ryu_ryu_primo-"
 name: "RYU-RYU Primo（リュリュプリモ）"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「貴州火鍋」"
-description: "孤独のグルメ Season9 第7話で紹介されたwashoku「貴州火鍋」（東京都葛飾区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第7話で紹介された和食「貴州火鍋」（東京都葛飾区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dfde9625-"
 name: "貴州火鍋"
 genre: "washoku"

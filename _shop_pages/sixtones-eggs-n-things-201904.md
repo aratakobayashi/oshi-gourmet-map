@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Eggs 'n Things 原宿店」"
-description: "SixTONES - パンケーキで女子力アップ？で紹介されたsweets「Eggs 'n Things 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONES - パンケーキで女子力アップ？で紹介されたスイーツ「Eggs 'n Things 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-eggs_n_things-201904"
 name: "Eggs 'n Things 原宿店"
 genre: "sweets"

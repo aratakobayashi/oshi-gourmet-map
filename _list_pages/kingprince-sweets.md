@@ -1,6 +1,6 @@
 ---
-title: "King & Princeが行ったsweets5選"
-description: "King & Princeのメンバーが実際に訪れたsweetsスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったスイーツ5選"
+description: "King & Princeのメンバーが実際に訪れたスイーツスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: sweets
 group_label: "King & Prince"

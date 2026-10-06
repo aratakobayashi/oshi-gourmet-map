@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「新木場1stRING」"
-description: "Snow ManのYouTubeで紹介されたshokuji「新木場1stRING」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「新木場1stRING」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-1string-20250902"
 name: "新木場1stRING"
 genre: "shokuji"

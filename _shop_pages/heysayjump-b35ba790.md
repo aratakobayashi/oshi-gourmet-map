@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「王ろじ」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたshokuji「王ろじ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介された食事「王ろじ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-b35ba790-"
 name: "王ろじ"
 genre: "shokuji"

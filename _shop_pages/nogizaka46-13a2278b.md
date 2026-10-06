@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「かめや 新宿店」"
-description: "思い出横丁【夏のfree&easy】で紹介されたramen「かめや 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "思い出横丁【夏のfree&easy】で紹介されたラーメン「かめや 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-13a2278b-"
 name: "かめや 新宿店"
 genre: "ramen"

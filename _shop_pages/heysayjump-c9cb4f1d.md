@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「黒太鼓 池袋店」"
-description: "めざましテレビ 2017.12.07で紹介されたshokuji「黒太鼓 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介された食事「黒太鼓 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-c9cb4f1d-"
 name: "黒太鼓 池袋店"
 genre: "shokuji"

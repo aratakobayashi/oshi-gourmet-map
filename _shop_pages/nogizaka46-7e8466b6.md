@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「浅草 いづ美」"
-description: "松村沙友理ちゃんねるで紹介されたsweets「浅草 いづ美」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "松村沙友理ちゃんねるで紹介されたスイーツ「浅草 いづ美」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-7e8466b6-"
 name: "浅草 いづ美"
 genre: "sweets"

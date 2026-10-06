@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」"
-description: "あの頃からわたしたちは【髙橋海人ロケ地】湘南ダンサー同窓会のお店はどこ？で紹介されたizakaya「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
+description: "あの頃からわたしたちは【髙橋海人ロケ地】湘南ダンサー同窓会のお店はどこ？で紹介された居酒屋「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-diego_by_the_river-"
 name: "DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）"
 genre: "izakaya"

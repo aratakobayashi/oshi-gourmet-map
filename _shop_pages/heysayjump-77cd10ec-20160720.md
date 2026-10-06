@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「銀座 楼蘭」"
-description: "2016.07.20 グルメ探偵調査で紹介されたshokuji「銀座 楼蘭」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "2016.07.20 グルメ探偵調査で紹介された食事「銀座 楼蘭」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-77cd10ec-20160720"
 name: "銀座 楼蘭"
 genre: "shokuji"

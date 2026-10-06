@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「心斎橋サンド」"
-description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたothers「心斎橋サンド」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SixTONESライブに浜田雅功が差し入れたまごサンド（タマゴカツサンド）はどこで買える？で紹介されたその他「心斎橋サンド」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ae68486b-"
 name: "心斎橋サンド"
 genre: "others"

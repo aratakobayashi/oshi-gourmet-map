@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「水信フルーツパーラーラボ」"
-description: "嵐にしやがれで紹介されたshokuji「水信フルーツパーラーラボ」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「水信フルーツパーラーラボ」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-9ccdca0e-20190518"
 name: "水信フルーツパーラーラボ"
 genre: "shokuji"

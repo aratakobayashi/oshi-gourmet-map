@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「江の島 貝作」"
-description: "SixTONESのYouTubeで紹介されたwashoku「江の島 貝作」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された和食「江の島 貝作」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-enoshima-kaisaku"
 name: "江の島 貝作"
 genre: "washoku"

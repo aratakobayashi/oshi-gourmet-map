@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "LE SSERAFIMが行った「Pachamama Bakery」"
-description: "全知的おせっかい視点 ロケ地で紹介されたcafe「Pachamama Bakery」（韓国）。推し活グルメ巡礼スポット。"
+description: "全知的おせっかい視点 ロケ地で紹介されたカフェ「Pachamama Bakery」（韓国）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_lesserafim-pachamama_bakery-"
 name: "Pachamama Bakery"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「SO-TEN」"
-description: "J-Hope Weverse Live（東京滞在中）で紹介されたshokuji「SO-TEN」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "J-Hope Weverse Live（東京滞在中）で紹介された食事「SO-TEN」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-so_ten-"
 name: "SO-TEN"
 genre: "shokuji"

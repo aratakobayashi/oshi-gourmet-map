@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「山源」"
-description: "孤独のグルメ Season3 第6話で紹介されたyakiniku「山源」（東京都板橋区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第6話で紹介された焼肉「山源」（東京都板橋区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-4557cfac-"
 name: "山源"
 genre: "yakiniku"

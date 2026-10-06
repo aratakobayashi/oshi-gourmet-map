@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鱗商会 堺町店」"
-description: "乃木坂、逃避行。で紹介されたothers「鱗商会 堺町店」（北海道小樽市）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「鱗商会 堺町店」（北海道小樽市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c459374e-"
 name: "鱗商会 堺町店"
 genre: "others"

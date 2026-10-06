@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「つるや」"
-description: "孤独のグルメ Season1 第8話で紹介されたyakiniku「つるや」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第8話で紹介された焼肉「つるや」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-0b8d16e6-"
 name: "つるや"
 genre: "yakiniku"

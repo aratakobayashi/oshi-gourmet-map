@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「うさぎやCAFE」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「うさぎやCAFE」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたカフェ「うさぎやCAFE」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-cafe-"
 name: "うさぎやCAFE"
 genre: "cafe"

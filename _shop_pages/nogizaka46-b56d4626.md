@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「フライングガーデン」"
-description: "秘密のケンミンSHOW極で紹介されたshokuji「フライングガーデン」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
+description: "秘密のケンミンSHOW極で紹介された食事「フライングガーデン」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-b56d4626-"
 name: "フライングガーデン"
 genre: "shokuji"

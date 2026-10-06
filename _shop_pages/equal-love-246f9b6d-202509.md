@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「お肴野郎 清介」"
-description: "=LOVEのYouTubeで紹介されたizakaya「お肴野郎 清介」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「お肴野郎 清介」（静岡県熱海市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-246f9b6d-202509"
 name: "お肴野郎 清介"
 genre: "izakaya"

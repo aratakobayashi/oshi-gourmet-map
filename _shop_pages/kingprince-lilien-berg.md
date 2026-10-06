@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Lilien Berg（リリエンベルグ）」"
-description: "【キンプる】当たり前レストラン髙橋海人大好物のチョコケーキのお店はどこ？で紹介されたothers「Lilien Berg（リリエンベルグ）」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "【キンプる】当たり前レストラン髙橋海人大好物のチョコケーキのお店はどこ？で紹介されたその他「Lilien Berg（リリエンベルグ）」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lilien_berg-"
 name: "Lilien Berg（リリエンベルグ）"
 genre: "others"

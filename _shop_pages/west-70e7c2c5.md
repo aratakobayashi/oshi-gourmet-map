@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "タルトメッセ"
-description: "WEST.聖地巡礼（大阪）濵田以外全員訪問のタルト店で紹介されたsweets「タルトメッセ」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "WEST.聖地巡礼（大阪）濵田以外全員訪問のタルト店で紹介されたスイーツ「タルトメッセ」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "west-70e7c2c5-"
 name: "タルトメッセ"
 genre: "sweets"

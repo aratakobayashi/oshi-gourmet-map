@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「THE SMASH SCRAMBLE」"
-description: "=LOVEのYouTubeで紹介されたshokuji「THE SMASH SCRAMBLE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「THE SMASH SCRAMBLE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-the_smash_scramble-20250613"
 name: "THE SMASH SCRAMBLE"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「サルシータ」"
-description: "孤独のグルメ Season7 第3話で紹介されたshokuji「サルシータ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第3話で紹介された食事「サルシータ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-80dd2276-"
 name: "サルシータ"
 genre: "shokuji"

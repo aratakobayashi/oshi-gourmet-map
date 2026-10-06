@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「六花亭 小樽運河店」"
-description: "乃木坂、逃避行。で紹介されたothers「六花亭 小樽運河店」（北海道小樽市）。推し活グルメ巡礼スポット。"
+description: "乃木坂、逃避行。で紹介されたその他「六花亭 小樽運河店」（北海道小樽市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-eec95659-"
 name: "六花亭 小樽運河店"
 genre: "others"

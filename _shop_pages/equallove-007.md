@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「オガールインレストラン」"
-description: "【Vlog】岩手遠征の裏側！美味しいものたくさんで紹介されたshokuji「オガールインレストラン」（岩手県紫波町）。推し活グルメ巡礼スポット。"
+description: "【Vlog】岩手遠征の裏側！美味しいものたくさんで紹介された食事「オガールインレストラン」（岩手県紫波町）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_007"
 name: "オガールインレストラン"
 genre: "shokuji"

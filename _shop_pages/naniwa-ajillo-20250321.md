@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「AJILLO アヒージョ専門店 神田西口店」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたshokuji「AJILLO アヒージョ専門店 神田西口店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-03-21)で紹介された食事「AJILLO アヒージョ専門店 神田西口店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-ajillo-20250321"
 name: "AJILLO アヒージョ専門店 神田西口店"
 genre: "shokuji"

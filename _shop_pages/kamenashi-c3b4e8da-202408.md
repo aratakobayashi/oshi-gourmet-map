@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「布恒更科」"
-description: "亀梨和也のYouTubeで紹介されたwashoku「布恒更科」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された和食「布恒更科」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-c3b4e8da-202408"
 name: "布恒更科"
 genre: "washoku"

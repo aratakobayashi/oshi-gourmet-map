@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「笄軒（こうがいけん）」"
-description: "嵐にしやがれで紹介されたothers「笄軒（こうがいけん）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「笄軒（こうがいけん）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-efe8e571-"
 name: "笄軒（こうがいけん）"
 genre: "others"

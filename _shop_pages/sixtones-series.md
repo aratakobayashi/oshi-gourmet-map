@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Series（シリーズ）」"
-description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたothers「Series（シリーズ）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたその他「Series（シリーズ）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-series-"
 name: "Series（シリーズ）"
 genre: "others"

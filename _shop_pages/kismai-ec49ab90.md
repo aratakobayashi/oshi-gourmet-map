@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "こもれび工房"
-description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたcafe「こもれび工房」（大分県日田市）。推し活グルメ巡礼スポット。"
+description: "GO!GO!!キスマイクマモトオオイタ 日田豆田町で紹介されたカフェ「こもれび工房」（大分県日田市）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-ec49ab90-"
 name: "こもれび工房"
 genre: "cafe"

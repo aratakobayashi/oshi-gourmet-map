@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ステーキハウス RIBERA 目黒店」"
-description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介されたyakiniku「ステーキハウス RIBERA 目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "河合郁人＆田中樹のステーキハウスはどこ?食べたメニューは何？【かわいたちチャンネルロケ地】で紹介された焼肉「ステーキハウス RIBERA 目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ribera-"
 name: "ステーキハウス RIBERA 目黒店"
 genre: "yakiniku"

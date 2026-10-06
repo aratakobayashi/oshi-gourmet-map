@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「タイレストラン イサーン」"
-description: "孤独のグルメ Season8 第6話で紹介されたshokuji「タイレストラン イサーン」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第6話で紹介された食事「タイレストラン イサーン」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-028297e5-"
 name: "タイレストラン イサーン"
 genre: "shokuji"

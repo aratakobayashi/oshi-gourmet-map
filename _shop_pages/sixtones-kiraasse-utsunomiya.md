@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「来らっせ 本店」"
-description: "SixTONESのYouTubeで紹介されたchuka「来らっせ 本店」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された中華「来らっせ 本店」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
 genre: "chuka"

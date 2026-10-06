@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Beasty Coffee [ cafe laboratory ]」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Beasty Coffee [ cafe laboratory ]」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-beasty_coffee__cafe_-20251207"
 name: "Beasty Coffee [ cafe laboratory ]"
 genre: "cafe"

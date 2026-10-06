@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「独酌　三四郎」"
-description: "孤独のグルメ Season10 第2016話で紹介されたshokuji「独酌　三四郎」（北海道旭川市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2016話で紹介された食事「独酌　三四郎」（北海道旭川市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-7623708d-"
 name: "独酌　三四郎"
 genre: "shokuji"

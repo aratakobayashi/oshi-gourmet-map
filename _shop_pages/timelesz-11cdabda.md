@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「味の中華 羽衣 銀座本店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介されたchuka「味の中華 羽衣 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」で紹介された中華「味の中華 羽衣 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-11cdabda-"
 name: "味の中華 羽衣 銀座本店"
 genre: "chuka"

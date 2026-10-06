@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「嵐山さくら餅 稲」"
-description: "さくさんぽ 京都嵐山で紹介されたsweets「嵐山さくら餅 稲」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "さくさんぽ 京都嵐山で紹介されたスイーツ「嵐山さくら餅 稲」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-2dbd2fa5-"
 name: "嵐山さくら餅 稲"
 genre: "sweets"

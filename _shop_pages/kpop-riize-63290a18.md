@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「つけ麺屋やすべぇ 赤坂店」"
-description: "RIIZEで紹介されたothers「つけ麺屋やすべぇ 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「つけ麺屋やすべぇ 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-63290a18-"
 name: "つけ麺屋やすべぇ 赤坂店"
 genre: "others"

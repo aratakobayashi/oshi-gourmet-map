@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「富錦樹台菜香檳 コレド室町テラス店」"
-description: "King&Princeる。当たり前レストランで紹介されたizakaya「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された居酒屋「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"
 genre: "izakaya"

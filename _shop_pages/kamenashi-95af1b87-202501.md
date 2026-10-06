@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「日生家」"
-description: "亀梨和也のYouTubeで紹介されたshokuji「日生家」（岡山県備前市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された食事「日生家」（岡山県備前市）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-95af1b87-202501"
 name: "日生家"
 genre: "shokuji"

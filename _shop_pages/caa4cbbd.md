@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ほうとう蔵 歩成 河口湖店」"
-description: "それスノ 日帰りバスツアー in河口湖で紹介されたshokuji「ほうとう蔵 歩成 河口湖店」（山梨県）。推し活グルメ巡礼スポット。"
+description: "それスノ 日帰りバスツアー in河口湖で紹介された食事「ほうとう蔵 歩成 河口湖店」（山梨県）。推し活グルメ巡礼スポット。"
 shop_id: "caa4cbbd"
 name: "ほうとう蔵 歩成 河口湖店"
 genre: "shokuji"

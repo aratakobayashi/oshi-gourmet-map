@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
-description: "Snow ManのYouTubeで紹介されたwashoku「GINZA SUSHI BANYA KAI」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「GINZA SUSHI BANYA KAI」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
 genre: "washoku"

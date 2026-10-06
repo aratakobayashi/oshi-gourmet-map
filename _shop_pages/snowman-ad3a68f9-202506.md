@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「土鍋ご飯いくしか 中目黒」"
-description: "Snow ManのYouTubeで紹介されたwashoku「土鍋ご飯いくしか 中目黒」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「土鍋ご飯いくしか 中目黒」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ad3a68f9-202506"
 name: "土鍋ご飯いくしか 中目黒"
 genre: "washoku"

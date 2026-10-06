@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「華 千房 恵比寿ガーデンプレイス店」"
-description: "亀梨和也のYouTubeで紹介されたwashoku「華 千房 恵比寿ガーデンプレイス店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された和食「華 千房 恵比寿ガーデンプレイス店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-bb9f32ec-202408"
 name: "華 千房 恵比寿ガーデンプレイス店"
 genre: "washoku"

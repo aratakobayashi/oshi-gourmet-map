@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CoCo壱番屋 中目黒山手通店」"
-description: "なにわ男子のYouTubeで紹介されたshokuji「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のYouTubeで紹介された食事「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-coco-202412"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転すし活一鮮」"
-description: "=LOVEのYouTubeで紹介されたwashoku「回転すし活一鮮」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「回転すし活一鮮」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-48daa5c3-202408"
 name: "回転すし活一鮮"
 genre: "washoku"

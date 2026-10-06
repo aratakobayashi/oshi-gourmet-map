@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「清水順正 おかべ家」"
-description: "=LOVEのYouTubeで紹介されたwashoku「清水順正 おかべ家」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された和食「清水順正 おかべ家」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-93d5e98f-202408"
 name: "清水順正 おかべ家"
 genre: "washoku"

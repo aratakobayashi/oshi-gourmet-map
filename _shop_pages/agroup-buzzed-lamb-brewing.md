@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
-description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたothers「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたその他「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-buzzed_lamb_brewing-"
 name: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
 genre: "others"

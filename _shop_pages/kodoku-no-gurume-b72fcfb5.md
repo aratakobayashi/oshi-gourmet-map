@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「九絵」"
-description: "孤独のグルメ Season5 第6話で紹介されたwashoku「九絵」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season5 第6話で紹介された和食「九絵」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-b72fcfb5-"
 name: "九絵"
 genre: "washoku"

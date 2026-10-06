@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「AS CLASSICS DINER（エーエス クラシックス ダイナー）」"
-description: "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？で紹介されたothers「AS CLASSICS DINER（エーエス クラシックス ダイナー）」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？で紹介されたその他「AS CLASSICS DINER（エーエス クラシックス ダイナー）」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-as_classics_diner-"
 name: "AS CLASSICS DINER（エーエス クラシックス ダイナー）"
 genre: "others"

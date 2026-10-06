@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "五氣里-itsukiri-"
-description: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？で紹介されたothers「五氣里-itsukiri-」（千葉県いすみ市）。推し活グルメ巡礼スポット。"
+description: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？で紹介されたその他「五氣里-itsukiri-」（千葉県いすみ市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-itsukiri-"
 name: "五氣里-itsukiri-"
 genre: "others"

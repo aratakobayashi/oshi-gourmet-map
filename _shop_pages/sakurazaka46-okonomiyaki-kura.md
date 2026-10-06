@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「お好み焼 鉄板焼 蔵」"
-description: "【月島】櫻坂46 2期生がもんじゃを食べ尽くす！で紹介されたwashoku「お好み焼 鉄板焼 蔵」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "【月島】櫻坂46 2期生がもんじゃを食べ尽くす！で紹介された和食「お好み焼 鉄板焼 蔵」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sakurazaka46-okonomiyaki-kura"
 name: "お好み焼 鉄板焼 蔵"
 genre: "washoku"

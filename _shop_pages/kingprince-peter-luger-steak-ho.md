@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Peter Luger Steak House Tokyo」"
-description: "【日曜劇場 リブート ロケ地】ステーキレストランはどこ？よにのちゃんねると同じ？で紹介されたothers「Peter Luger Steak House Tokyo」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【日曜劇場 リブート ロケ地】ステーキレストランはどこ？よにのちゃんねると同じ？で紹介されたその他「Peter Luger Steak House Tokyo」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-peter_luger_steak_ho-"
 name: "Peter Luger Steak House Tokyo"
 genre: "others"

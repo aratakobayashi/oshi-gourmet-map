@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カフェアトランティス」"
-description: "夏のFree&Easy　白石 個人PVで紹介されたcafe「カフェアトランティス」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "夏のFree&Easy　白石 個人PVで紹介されたカフェ「カフェアトランティス」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-d1c66592-"
 name: "カフェアトランティス"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ミートファクトリーしまちゃん」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「ミートファクトリーしまちゃん」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「ミートファクトリーしまちゃん」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-41feca79-202505"
 name: "ミートファクトリーしまちゃん"
 genre: "yakiniku"

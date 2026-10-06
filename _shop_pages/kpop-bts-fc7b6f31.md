@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「一蘭 六本木店」"
-description: "BTS 東京訪問（2015年）で紹介されたramen「一蘭 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "BTS 東京訪問（2015年）で紹介されたラーメン「一蘭 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-fc7b6f31-"
 name: "一蘭 六本木店"
 genre: "ramen"

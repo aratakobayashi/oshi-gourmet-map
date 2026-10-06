@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮曇（うきぐもり）」"
-description: "SixTONESのYouTubeで紹介されたizakaya「浮曇（うきぐもり）」（群馬県渋川市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された居酒屋「浮曇（うきぐもり）」（群馬県渋川市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"
 genre: "izakaya"

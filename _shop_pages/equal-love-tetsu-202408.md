@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「焼肉 哲 TETSU 池袋店」"
-description: "=LOVEのYouTubeで紹介されたyakiniku「焼肉 哲 TETSU 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された焼肉「焼肉 哲 TETSU 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-tetsu-202408"
 name: "焼肉 哲 TETSU 池袋店"
 genre: "yakiniku"

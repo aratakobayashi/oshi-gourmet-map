@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「末ぜん」"
-description: "孤独のグルメ Season10 第2022話で紹介されたshokuji「末ぜん」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された食事「末ぜん」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-2eca520c-"
 name: "末ぜん"
 genre: "shokuji"

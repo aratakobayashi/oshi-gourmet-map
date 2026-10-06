@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「松島蒲鉾本舗 総本店」"
-description: "松島【Sing Out!】で紹介されたshokuji「松島蒲鉾本舗 総本店」（宮城県宮城郡松島町）。推し活グルメ巡礼スポット。"
+description: "松島【Sing Out!】で紹介された食事「松島蒲鉾本舗 総本店」（宮城県宮城郡松島町）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-05b5fd01-"
 name: "松島蒲鉾本舗 総本店"
 genre: "shokuji"

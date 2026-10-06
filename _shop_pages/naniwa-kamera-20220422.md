@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAMERA」"
-description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介されたchuka「KAMERA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介された中華「KAMERA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-kamera-20220422"
 name: "KAMERA"
 genre: "chuka"

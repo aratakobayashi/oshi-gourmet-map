@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「悪酔り大官 なべのしん」"
-description: "めざましテレビ 2017.12.07で紹介されたshokuji「悪酔り大官 なべのしん」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.12.07で紹介された食事「悪酔り大官 なべのしん」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-58cf69d2-"
 name: "悪酔り大官 なべのしん"
 genre: "shokuji"

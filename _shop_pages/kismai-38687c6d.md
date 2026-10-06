@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いさりび食堂"
-description: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼きで紹介されたshokuji「いさりび食堂」（千葉県）。推し活グルメ巡礼スポット。"
+description: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼きで紹介された食事「いさりび食堂」（千葉県）。推し活グルメ巡礼スポット。"
 shop_id: "kismai-38687c6d-"
 name: "いさりび食堂"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ゆたか銀座」"
-description: "嵐にしやがれで紹介されたothers「ゆたか銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「ゆたか銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-45b23f44-"
 name: "ゆたか銀座"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「キッチン・カフェ ばる」"
-description: "孤独のグルメ Season10 第3話で紹介されたcafe「キッチン・カフェ ばる」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第3話で紹介されたカフェ「キッチン・カフェ ばる」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-aa39fbb9-"
 name: "キッチン・カフェ ばる"
 genre: "cafe"

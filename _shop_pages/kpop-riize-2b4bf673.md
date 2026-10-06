@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「イマカツ赤坂店」"
-description: "RIIZEで紹介されたothers「イマカツ赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「イマカツ赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-2b4bf673-"
 name: "イマカツ赤坂店"
 genre: "others"

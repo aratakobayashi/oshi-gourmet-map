@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Series the Sky （シリーズザスカイ）」"
-description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたothers「Series the Sky （シリーズザスカイ）」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "【ゴールデンストーンズ】担々麺はどこ？ご褒美グルメ 菊池風磨・広瀬すず・久保田利伸で紹介されたその他「Series the Sky （シリーズザスカイ）」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-series_the_sky-"
 name: "Series the Sky （シリーズザスカイ）"
 genre: "others"

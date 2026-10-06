@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ここのつ 3号店」"
-description: "Snow ManのYouTubeで紹介されたwashoku「ここのつ 3号店」（東京都足立区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「ここのつ 3号店」（東京都足立区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kokonotsu-kitasenju"
 name: "ここのつ 3号店"
 genre: "washoku"

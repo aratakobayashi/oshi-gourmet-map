@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「鳥のいるカフェ 千駄木店」"
-description: "≒JOYのYouTubeで紹介されたcafe「鳥のいるカフェ 千駄木店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "≒JOYのYouTubeで紹介されたカフェ「鳥のいるカフェ 千駄木店」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "neajoy-b1d5f8cd-202408"
 name: "鳥のいるカフェ 千駄木店"
 genre: "cafe"

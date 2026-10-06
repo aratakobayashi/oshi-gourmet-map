@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「トーキョーアジフライ」"
-description: "よにのちゃんねるのYouTubeで紹介されたshokuji「トーキョーアジフライ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された食事「トーキョーアジフライ」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-tokyo-ajifurai"
 name: "トーキョーアジフライ"
 genre: "shokuji"

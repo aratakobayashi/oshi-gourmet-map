@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「三笠会館」"
-description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介されたothers「三笠会館」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "THE TIME【松たか子＆松村北斗】銀座のメガネ店とレストランかき氷はどこ？創業100周年＆130周年で紹介されたその他「三笠会館」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-57dde2bc-"
 name: "三笠会館"
 genre: "others"

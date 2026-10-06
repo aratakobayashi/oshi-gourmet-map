@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大新園"
-description: "westが訪れたchuka「大新園」（神奈川県）。推し活グルメ巡礼スポット。"
+description: "westが訪れた中華「大新園」（神奈川県）。推し活グルメ巡礼スポット。"
 shop_id: "cdeb9df5"
 name: "大新園"
 genre: "chuka"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「しゃぶ葉 渋谷駅前店」"
-description: "NOGIBINGO!9で紹介されたwashoku「しゃぶ葉 渋谷駅前店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "NOGIBINGO!9で紹介された和食「しゃぶ葉 渋谷駅前店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c29396b9-"
 name: "しゃぶ葉 渋谷駅前店"
 genre: "washoku"

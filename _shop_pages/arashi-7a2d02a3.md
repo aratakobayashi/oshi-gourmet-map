@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ボケリア」"
-description: "嵐にしやがれで紹介されたothers「ボケリア」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「ボケリア」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-7a2d02a3-"
 name: "ボケリア"
 genre: "others"

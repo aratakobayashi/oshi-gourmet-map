@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「明治生命館」"
-description: "King & Princeキンプリ『STARRING』ビジュアルのロケ地はどこ？で紹介されたothers「明治生命館」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ『STARRING』ビジュアルのロケ地はどこ？で紹介されたその他「明治生命館」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-559bd0b3-"
 name: "明治生命館"
 genre: "others"

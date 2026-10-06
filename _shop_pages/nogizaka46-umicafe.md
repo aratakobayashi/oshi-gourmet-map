@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「umicafe」"
-description: "インフルエンサーTypeC 齋藤個人PVで紹介されたothers「umicafe」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "インフルエンサーTypeC 齋藤個人PVで紹介されたその他「umicafe」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-umicafe-"
 name: "umicafe"
 genre: "others"

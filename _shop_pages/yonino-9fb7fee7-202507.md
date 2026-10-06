@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ヒルトン東京マーブルラウンジ」"
-description: "よにのちゃんねるのYouTubeで紹介されたothers「ヒルトン東京マーブルラウンジ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたその他「ヒルトン東京マーブルラウンジ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-9fb7fee7-202507"
 name: "ヒルトン東京マーブルラウンジ"
 genre: "others"

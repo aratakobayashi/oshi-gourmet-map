@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「千とせ 本店」"
-description: "King&Princeる。当たり前レストランで紹介されたshokuji「千とせ 本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「千とせ 本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-ddabeb42-20230429"
 name: "千とせ 本店"
 genre: "shokuji"

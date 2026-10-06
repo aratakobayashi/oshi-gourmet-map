@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鮨爽醇鳥ひだか」"
-description: "孤独のグルメ Season10 第2022話で紹介されたwashoku「鮨爽醇鳥ひだか」（北海道石狩市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2022話で紹介された和食「鮨爽醇鳥ひだか」（北海道石狩市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d3a1db31-"
 name: "鮨爽醇鳥ひだか"
 genre: "washoku"

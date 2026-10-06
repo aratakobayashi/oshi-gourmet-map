@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ちゃんこ鍋 一品料理 力」"
-description: "孤独のグルメ Season10 第2024話で紹介されたwashoku「ちゃんこ鍋 一品料理 力」（石川県鳳珠郡穴水町）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2024話で紹介された和食「ちゃんこ鍋 一品料理 力」（石川県鳳珠郡穴水町）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f7dbe199-"
 name: "ちゃんこ鍋 一品料理 力"
 genre: "washoku"

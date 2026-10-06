@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「USOTSUKI YOGURT」"
-description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたcafe「USOTSUKI YOGURT」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "松島聡 カフェ巡りまとめ（インスタ）で紹介されたカフェ「USOTSUKI YOGURT」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-usotsuki_yogurt-"
 name: "USOTSUKI YOGURT"
 genre: "cafe"

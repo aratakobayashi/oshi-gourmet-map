@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Donish Coffee Company 神楽坂」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「Donish Coffee Company 神楽坂」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Donish Coffee Company 神楽坂」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-donish-coffee-kagurazaka"
 name: "Donish Coffee Company 神楽坂"
 genre: "cafe"

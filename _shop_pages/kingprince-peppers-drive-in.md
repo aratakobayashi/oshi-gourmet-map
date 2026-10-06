@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」"
-description: "King & Princeキンプリ「Home, Stupid Home」『Stereo Love』撮影ロケ地はどこ？で紹介されたothers「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」（神奈川県平塚市）。推し活グルメ巡礼スポット。"
+description: "King & Princeキンプリ「Home, Stupid Home」『Stereo Love』撮影ロケ地はどこ？で紹介されたその他「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」（神奈川県平塚市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-peppers_drive_in-"
 name: "ペッパーズ ドライブイン（PEPPERS DRIVE-IN）"
 genre: "others"

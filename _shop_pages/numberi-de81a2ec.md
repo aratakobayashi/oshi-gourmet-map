@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大久手 山本屋"
-description: "キンプる 元旦SPで紹介されたwashoku「大久手 山本屋」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "キンプる 元旦SPで紹介された和食「大久手 山本屋」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-de81a2ec-"
 name: "大久手 山本屋"
 genre: "washoku"

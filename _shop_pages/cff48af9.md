@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「EATALY HARAJUKU」"
-description: "嵐にしやがれ グルメデスマッチで紹介されたshokuji「EATALY HARAJUKU」（東京都）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれ グルメデスマッチで紹介された食事「EATALY HARAJUKU」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "cff48af9"
 name: "EATALY HARAJUKU"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「EXPASA海老名（下り）」"
-description: "=LOVEのYouTubeで紹介されたshokuji「EXPASA海老名（下り）」（神奈川県海老名市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「EXPASA海老名（下り）」（神奈川県海老名市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-expasa-20250905"
 name: "EXPASA海老名（下り）"
 genre: "shokuji"

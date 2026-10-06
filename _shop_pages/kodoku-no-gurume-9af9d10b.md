@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「みやこや」"
-description: "孤独のグルメ Season1 第6話で紹介されたshokuji「みやこや」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第6話で紹介された食事「みやこや」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9af9d10b-"
 name: "みやこや"
 genre: "shokuji"

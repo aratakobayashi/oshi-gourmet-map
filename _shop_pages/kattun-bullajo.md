@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ガーリックステーキ Bullajo（ブラホ）"
-description: "【亀梨和也チャンネル】渋谷のステーキハウスはどこ？食べたメニューは？お店の閉店はいつ？で紹介されたyakiniku「ガーリックステーキ Bullajo（ブラホ）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【亀梨和也チャンネル】渋谷のステーキハウスはどこ？食べたメニューは？お店の閉店はいつ？で紹介された焼肉「ガーリックステーキ Bullajo（ブラホ）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kattun-bullajo-"
 name: "ガーリックステーキ Bullajo（ブラホ）"
 genre: "yakiniku"

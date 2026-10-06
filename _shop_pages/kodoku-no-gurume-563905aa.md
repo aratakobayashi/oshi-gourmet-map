@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「えんむすび」"
-description: "孤独のグルメ Season9 第8話で紹介されたshokuji「えんむすび」（群馬県高崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season9 第8話で紹介された食事「えんむすび」（群馬県高崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-563905aa-"
 name: "えんむすび"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「原宿乃豆柴カフェ」"
-description: "RIIZEで紹介されたothers「原宿乃豆柴カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「原宿乃豆柴カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-ed7bcd1e-"
 name: "原宿乃豆柴カフェ"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「西鉄リゾートイン那覇」"
-description: "=LOVEのYouTubeで紹介されたshokuji「西鉄リゾートイン那覇」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「西鉄リゾートイン那覇」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-734ae6ce-202408"
 name: "西鉄リゾートイン那覇"
 genre: "shokuji"

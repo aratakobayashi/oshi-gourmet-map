@@ -10,6 +10,8 @@ from collections import Counter
 ROOT      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOPS_JSON = os.path.join(ROOT, 'data', 'shops.json')
 OUT_DIR   = os.path.join(ROOT, '_group_pages')
+with open(os.path.join(ROOT, '_data', 'genres.json'), encoding='utf-8') as _f:
+    GENRE_LABELS = {k: v['label'] for k, v in json.load(_f).items()}  # 表示名の正: _data/genres.json
 os.makedirs(OUT_DIR, exist_ok=True)
 
 with open(SHOPS_JSON, encoding='utf-8') as f:
@@ -121,7 +123,7 @@ for group, label in GROUP_LABELS.items():
 
     # 上位ジャンル最大3つ
     genre_counts = Counter(s.get('genre', '') for s in group_shops if s.get('genre'))
-    top_genres = [g for g, _ in genre_counts.most_common(3) if g]
+    top_genres = [GENRE_LABELS.get(g, g) for g, _ in genre_counts.most_common(3) if g]
     genre_str = '・'.join(top_genres) if top_genres else 'グルメ'
 
     # 代表YouTubeサムネ（最初に見つかったyoutube_idを使用）

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Captain’s Grill and Bar」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Captain’s Grill and Bar」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Captain’s Grill and Bar」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-captains_grill_and_b-20250429"
 name: "Captain’s Grill and Bar"
 genre: "shokuji"

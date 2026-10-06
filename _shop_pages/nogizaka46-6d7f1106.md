@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ちばチャン 海浜幕張店」"
-description: "幕張メッセ周辺で紹介されたyakiniku「ちばチャン 海浜幕張店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
+description: "幕張メッセ周辺で紹介された焼肉「ちばチャン 海浜幕張店」（千葉県千葉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6d7f1106-"
 name: "ちばチャン 海浜幕張店"
 genre: "yakiniku"

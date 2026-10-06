@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「鶏たつ」"
-description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「鶏たつ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介された食事「鶏たつ」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-ceef2a90-"
 name: "鶏たつ"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「ANDY COFFEE」"
-description: "Moments from Summer in Tokyo（2024年9月公開）で紹介されたcafe「ANDY COFFEE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Moments from Summer in Tokyo（2024年9月公開）で紹介されたカフェ「ANDY COFFEE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_newjeans-andy_coffee-"
 name: "ANDY COFFEE"
 genre: "cafe"

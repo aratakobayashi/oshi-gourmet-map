@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「INITIAL （イニシャル）Omotesando」"
-description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたothers「INITIAL （イニシャル）Omotesando」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたその他「INITIAL （イニシャル）Omotesando」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-initial_omotesando-"
 name: "INITIAL （イニシャル）Omotesando"
 genre: "others"

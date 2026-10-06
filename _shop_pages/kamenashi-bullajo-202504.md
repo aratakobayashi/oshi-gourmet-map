@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「ガーリックステーキ Bullajo」"
-description: "亀梨和也のYouTubeで紹介されたyakiniku「ガーリックステーキ Bullajo」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介された焼肉「ガーリックステーキ Bullajo」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-bullajo-202504"
 name: "ガーリックステーキ Bullajo"
 genre: "yakiniku"

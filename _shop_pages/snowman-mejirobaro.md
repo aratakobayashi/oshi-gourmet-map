@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Baro (ベロ)」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Baro (ベロ)」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Baro (ベロ)」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-mejirobaro"
 name: "Baro (ベロ)"
 genre: "shokuji"

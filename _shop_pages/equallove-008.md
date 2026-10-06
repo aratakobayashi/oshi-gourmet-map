@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「move move (ムーブムーブ)」"
-description: "【Vlog】新大久保の素敵な抹茶ラテカフェで紹介されたcafe「move move (ムーブムーブ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "【Vlog】新大久保の素敵な抹茶ラテカフェで紹介されたカフェ「move move (ムーブムーブ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_008"
 name: "move move (ムーブムーブ)"
 genre: "cafe"

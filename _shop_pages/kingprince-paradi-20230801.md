@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「PARADI」"
-description: "【キントレバイトレロケ地】髙橋海人が漫画家アシスタント休憩中に訪れたカフェは？で紹介されたothers「PARADI」（兵庫県豊岡市）。推し活グルメ巡礼スポット。"
+description: "【キントレバイトレロケ地】髙橋海人が漫画家アシスタント休憩中に訪れたカフェは？で紹介されたその他「PARADI」（兵庫県豊岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-paradi-20230801"
 name: "PARADI"
 genre: "others"

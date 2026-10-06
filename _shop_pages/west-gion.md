@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶gion"
-description: "喫茶と濵田。#006で紹介されたcafe「喫茶gion」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "喫茶と濵田。#006で紹介されたカフェ「喫茶gion」（東京都杉並区）。推し活グルメ巡礼スポット。"
 shop_id: "west-gion-"
 name: "喫茶gion"
 genre: "cafe"

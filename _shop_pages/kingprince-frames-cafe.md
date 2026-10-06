@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「FRAMES （フレームス）CAFE」"
-description: "トークィーンズ【永瀬廉ロケ地】カフェレストランはどこ？アンミカ事前取材で紹介されたcafe「FRAMES （フレームス）CAFE」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【永瀬廉ロケ地】カフェレストランはどこ？アンミカ事前取材で紹介されたカフェ「FRAMES （フレームス）CAFE」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-frames_cafe-"
 name: "FRAMES （フレームス）CAFE"
 genre: "cafe"

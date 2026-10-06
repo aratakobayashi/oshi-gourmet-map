@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「鎌倉釜飯 かまかま本店」"
-description: "乃木坂工事中で紹介されたshokuji「鎌倉釜飯 かまかま本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介された食事「鎌倉釜飯 かまかま本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-4f25c3c5-"
 name: "鎌倉釜飯 かまかま本店"
 genre: "shokuji"

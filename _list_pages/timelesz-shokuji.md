@@ -1,6 +1,6 @@
 ---
-title: "timeleszが行ったshokuji9選"
-description: "timeleszのメンバーが実際に訪れたshokujiスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "timeleszが行った食事9選"
+description: "timeleszのメンバーが実際に訪れた食事スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: shokuji
 group_label: "timelesz"
@@ -14,7 +14,7 @@ related_genres:
   - timelesz-chuka
   - timelesz-yakiniku
 related_groups:
-  - arashi-shokuji
-  - kodoku-no-gurume-shokuji
   - snowman-shokuji
+  - kodoku-no-gurume-shokuji
+  - arashi-shokuji
 ---

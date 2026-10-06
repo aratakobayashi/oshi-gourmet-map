@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「東陽町 大衆焼肉 暴飲暴食」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「東陽町 大衆焼肉 暴飲暴食」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された焼肉「東陽町 大衆焼肉 暴飲暴食」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-bouinboshoku"
 name: "東陽町 大衆焼肉 暴飲暴食"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「福臨閣売店」"
-description: "=LOVEのYouTubeで紹介されたshokuji「福臨閣売店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「福臨閣売店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-3cc7d56c-202408"
 name: "福臨閣売店"
 genre: "shokuji"

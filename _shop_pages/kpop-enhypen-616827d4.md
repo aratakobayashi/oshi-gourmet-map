@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鉄板焼き やすむら」"
-description: "ENHYPENで紹介されたothers「鉄板焼き やすむら」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「鉄板焼き やすむら」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-616827d4-"
 name: "鉄板焼き やすむら"
 genre: "others"

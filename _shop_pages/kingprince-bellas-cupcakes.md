@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bellas Cupcakes」"
-description: "【だが、情熱はある】髙橋海人誕生日お祝いのカップケーキはどこの？で紹介されたothers「Bellas Cupcakes」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "【だが、情熱はある】髙橋海人誕生日お祝いのカップケーキはどこの？で紹介されたその他「Bellas Cupcakes」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-bellas_cupcakes-"
 name: "Bellas Cupcakes"
 genre: "others"

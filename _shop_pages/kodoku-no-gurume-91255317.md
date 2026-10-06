@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥獣菜魚 あい川」"
-description: "孤独のグルメ Season10 第24話で紹介されたshokuji「鳥獣菜魚 あい川」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された食事「鳥獣菜魚 あい川」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-91255317-"
 name: "鳥獣菜魚 あい川"
 genre: "shokuji"

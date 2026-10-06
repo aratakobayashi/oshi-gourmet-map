@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「LESOLCA（レゾルカ）」"
-description: "【行列のできる相談所】岸優太が食レポ1万円のチーズケーキは？オンラインショップはある？で紹介されたothers「LESOLCA（レゾルカ）」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "【行列のできる相談所】岸優太が食レポ1万円のチーズケーキは？オンラインショップはある？で紹介されたその他「LESOLCA（レゾルカ）」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-lesolca-"
 name: "LESOLCA（レゾルカ）"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Rapace」（東京都町田市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都町田市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "shokuji"

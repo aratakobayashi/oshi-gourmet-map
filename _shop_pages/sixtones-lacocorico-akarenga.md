@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」"
-description: "SixTONESのYouTubeで紹介されたcafe「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたカフェ「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-lacocorico-akarenga"
 name: "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店"
 genre: "cafe"

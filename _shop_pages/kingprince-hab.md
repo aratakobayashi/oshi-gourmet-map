@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ジュピター HAB＠熊本店」"
-description: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？で紹介されたothers「ジュピター HAB＠熊本店」（熊本県熊本市）。推し活グルメ巡礼スポット。"
+description: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？で紹介されたその他「ジュピター HAB＠熊本店」（熊本県熊本市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-hab-"
 name: "ジュピター HAB＠熊本店"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「餃子世界東京」"
-description: "ニノさん 神保町餃子ベスト3（2025年6月22日）で紹介されたchuka「餃子世界東京」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "ニノさん 神保町餃子ベスト3（2025年6月22日）で紹介された中華「餃子世界東京」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-cbeb9cad-20250622"
 name: "餃子世界東京"
 genre: "chuka"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Mr. CHEESECAKE GINZA SIX店」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたsweets「Mr. CHEESECAKE GINZA SIX店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「Mr. CHEESECAKE GINZA SIX店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-mr_cheesecake_ginza-20250411"
 name: "Mr. CHEESECAKE GINZA SIX店"
 genre: "sweets"

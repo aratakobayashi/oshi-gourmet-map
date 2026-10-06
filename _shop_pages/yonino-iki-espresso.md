@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「iki ESPRESSO」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「iki ESPRESSO」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「iki ESPRESSO」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「もやし専門店 もやし」"
-description: "めざましテレビ 2017.05.25で紹介されたshokuji「もやし専門店 もやし」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ 2017.05.25で紹介された食事「もやし専門店 もやし」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-7cd20f9d-"
 name: "もやし専門店 もやし"
 genre: "shokuji"

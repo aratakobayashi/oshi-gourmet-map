@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「揚州飯店 本店（横浜中華街）」"
-description: "RIIZEで紹介されたothers「揚州飯店 本店（横浜中華街）」。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「揚州飯店 本店（横浜中華街）」。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-6fb86582-"
 name: "揚州飯店 本店（横浜中華街）"
 genre: "others"

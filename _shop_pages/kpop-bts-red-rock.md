@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「Red Rock 原宿店」"
-description: "G.C.F in Tokyo（ジョングク動画）で紹介されたshokuji「Red Rock 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "G.C.F in Tokyo（ジョングク動画）で紹介された食事「Red Rock 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-red_rock-"
 name: "Red Rock 原宿店"
 genre: "shokuji"

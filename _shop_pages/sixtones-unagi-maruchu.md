@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「丸忠うなぎ」"
-description: "SixTONESが訪れたwashoku「丸忠うなぎ」（静岡県焼津市）。推し活グルメ巡礼スポット。"
+description: "SixTONESが訪れた和食「丸忠うなぎ」（静岡県焼津市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-unagi-maruchu"
 name: "丸忠うなぎ"
 genre: "washoku"

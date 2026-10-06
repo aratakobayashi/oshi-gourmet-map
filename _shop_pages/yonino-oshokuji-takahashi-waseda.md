@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「お食事処 たかはし」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「お食事処 たかはし」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「お食事処 たかはし」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-oshokuji-takahashi-waseda"
 name: "お食事処 たかはし"
 genre: "washoku"

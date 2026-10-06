@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「BALLPARK BURGER &9」"
-description: "=LOVEのYouTubeで紹介されたshokuji「BALLPARK BURGER &9」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「BALLPARK BURGER &9」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equallove_010"
 name: "BALLPARK BURGER &9"
 genre: "shokuji"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「PASSAGE COFFEE」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「PASSAGE COFFEE」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"
 genre: "cafe"

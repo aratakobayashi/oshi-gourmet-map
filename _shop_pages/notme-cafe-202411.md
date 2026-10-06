@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「タコライスcafe きじむなぁ デポアイランド店」"
-description: "≠MEのYouTubeで紹介されたcafe「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介されたカフェ「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。推し活グルメ巡礼スポット。"
 shop_id: "notme-cafe-202411"
 name: "タコライスcafe きじむなぁ デポアイランド店"
 genre: "cafe"

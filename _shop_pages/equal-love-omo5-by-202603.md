@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「OMO5横浜馬車道 by 星野リゾート」"
-description: "=LOVEのYouTubeで紹介されたshokuji「OMO5横浜馬車道 by 星野リゾート」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された食事「OMO5横浜馬車道 by 星野リゾート」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-omo5_by-202603"
 name: "OMO5横浜馬車道 by 星野リゾート"
 genre: "shokuji"

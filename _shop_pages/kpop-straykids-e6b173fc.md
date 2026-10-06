@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「金沢まいもん寿司 上野店」"
-description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介されたshokuji「金沢まいもん寿司 上野店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介された食事「金沢まいもん寿司 上野店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_straykids-e6b173fc-"
 name: "金沢まいもん寿司 上野店"
 genre: "shokuji"

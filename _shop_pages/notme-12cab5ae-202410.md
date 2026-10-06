@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「焼肉トラジ 池袋東口店」"
-description: "≠MEのYouTubeで紹介されたyakiniku「焼肉トラジ 池袋東口店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "≠MEのYouTubeで紹介された焼肉「焼肉トラジ 池袋東口店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "notme-12cab5ae-202410"
 name: "焼肉トラジ 池袋東口店"
 genre: "yakiniku"

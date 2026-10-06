@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「三燈舎」"
-description: "孤独のグルメ Season8 第9話で紹介されたshokuji「三燈舎」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第9話で紹介された食事「三燈舎」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-d48b48bf-"
 name: "三燈舎"
 genre: "shokuji"

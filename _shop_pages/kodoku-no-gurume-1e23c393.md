@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「きっちん大浪」"
-description: "孤独のグルメ Season10 第24話で紹介されたwashoku「きっちん大浪」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第24話で紹介された和食「きっちん大浪」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-1e23c393-"
 name: "きっちん大浪"
 genre: "washoku"

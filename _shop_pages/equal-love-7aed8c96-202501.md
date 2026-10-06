@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「蒙古タンメン中本 上板橋本店」"
-description: "=LOVEのYouTubeで紹介されたramen「蒙古タンメン中本 上板橋本店」（東京都板橋区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたラーメン「蒙古タンメン中本 上板橋本店」（東京都板橋区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-7aed8c96-202501"
 name: "蒙古タンメン中本 上板橋本店"
 genre: "ramen"

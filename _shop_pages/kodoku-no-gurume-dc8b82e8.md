@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「どん平」"
-description: "孤独のグルメ Season3 第10話で紹介されたwashoku「どん平」（東京都荒川区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第10話で紹介された和食「どん平」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-dc8b82e8-"
 name: "どん平"
 genre: "washoku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「熟成和牛焼肉 エイジング・ビーフ軽井沢」"
-description: "=LOVEのYouTubeで紹介されたyakiniku「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された焼肉「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-290f63cb-202505"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "yakiniku"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「ストロベリーマニア原宿店」"
-description: "日向の休日で紹介されたsweets「ストロベリーマニア原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "日向の休日で紹介されたスイーツ「ストロベリーマニア原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-cdf0d467-"
 name: "ストロベリーマニア原宿店"
 genre: "sweets"

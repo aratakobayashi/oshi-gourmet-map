@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「女川海の膳ニューこのり」"
-description: "孤独のグルメ Season10 第2016話で紹介されたwashoku「女川海の膳ニューこのり」（宮城県牡鹿郡女川町）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2016話で紹介された和食「女川海の膳ニューこのり」（宮城県牡鹿郡女川町）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c9473191-"
 name: "女川海の膳ニューこのり"
 genre: "washoku"

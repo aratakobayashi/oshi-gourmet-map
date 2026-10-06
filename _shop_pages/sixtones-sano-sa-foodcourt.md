@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「佐野サービスエリア（下り）フードコート」"
-description: "SixTONESのYouTubeで紹介されたramen「佐野サービスエリア（下り）フードコート」（栃木県佐野市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたラーメン「佐野サービスエリア（下り）フードコート」（栃木県佐野市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-sano-sa-foodcourt"
 name: "佐野サービスエリア（下り）フードコート"
 genre: "ramen"

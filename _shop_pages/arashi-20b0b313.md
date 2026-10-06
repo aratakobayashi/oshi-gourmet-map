@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「喜福世」"
-description: "嵐にしやがれで紹介されたothers「喜福世」（東京都狛江市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「喜福世」（東京都狛江市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-20b0b313-"
 name: "喜福世"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「松葉茶屋」"
-description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたothers「松葉茶屋」（東京都調布市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？で紹介されたその他「松葉茶屋」（東京都調布市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-182b33d7-"
 name: "松葉茶屋"
 genre: "others"

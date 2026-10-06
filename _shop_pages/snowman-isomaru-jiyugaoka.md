@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「磯丸水産食堂 自由が丘しらかば通り店」"
-description: "Snow ManのYouTubeで紹介されたshokuji「磯丸水産食堂 自由が丘しらかば通り店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「磯丸水産食堂 自由が丘しらかば通り店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-isomaru-jiyugaoka"
 name: "磯丸水産食堂 自由が丘しらかば通り店"
 genre: "shokuji"

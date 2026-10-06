@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「Snowy Village」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたcafe「Snowy Village」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたカフェ「Snowy Village」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-snowy_village-"
 name: "Snowy Village"
 genre: "cafe"

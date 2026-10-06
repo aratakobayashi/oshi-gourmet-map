@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「京都仁王門 嵐山わらびもち」"
-description: "乃木坂配信中で紹介されたothers「京都仁王門 嵐山わらびもち」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中で紹介されたその他「京都仁王門 嵐山わらびもち」（京都府京都市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-61d3ebed-"
 name: "京都仁王門 嵐山わらびもち"
 genre: "others"

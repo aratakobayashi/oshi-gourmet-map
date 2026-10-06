@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「相撲茶屋 寺尾」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「相撲茶屋 寺尾」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「相撲茶屋 寺尾」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sumo-chaya-terao"
 name: "相撲茶屋 寺尾"
 genre: "washoku"

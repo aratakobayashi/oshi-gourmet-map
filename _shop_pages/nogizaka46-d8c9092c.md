@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「乙女寿司」"
-description: "シンクロニシティ 特典映像で紹介されたwashoku「乙女寿司」（石川県金沢市）。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ 特典映像で紹介された和食「乙女寿司」（石川県金沢市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-d8c9092c-"
 name: "乙女寿司"
 genre: "washoku"

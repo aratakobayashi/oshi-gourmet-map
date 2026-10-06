@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「COCONEEL」"
-description: "歌舞伎町【スカウトマン】で紹介されたizakaya「COCONEEL」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "歌舞伎町【スカウトマン】で紹介された居酒屋「COCONEEL」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-coconeel-"
 name: "COCONEEL"
 genre: "izakaya"

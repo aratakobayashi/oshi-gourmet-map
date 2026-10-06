@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「PLUG」"
-description: "嵐にしやがれで紹介されたshokuji「PLUG」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介された食事「PLUG」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-plug-20180908"
 name: "PLUG"
 genre: "shokuji"

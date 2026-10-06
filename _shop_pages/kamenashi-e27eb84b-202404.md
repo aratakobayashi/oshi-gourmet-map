@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「九州じゃんがら原宿店」"
-description: "亀梨和也のYouTubeで紹介されたramen「九州じゃんがら原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也のYouTubeで紹介されたラーメン「九州じゃんがら原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kamenashi-e27eb84b-202404"
 name: "九州じゃんがら原宿店"
 genre: "ramen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「だし茶漬け えん 成田空港店」"
-description: "日向坂46 海外出発前のラスト日本食で紹介されたwashoku「だし茶漬け えん 成田空港店」（千葉県成田市）。推し活グルメ巡礼スポット。"
+description: "日向坂46 海外出発前のラスト日本食で紹介された和食「だし茶漬け えん 成田空港店」（千葉県成田市）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-dashi-chazuke-en-narita"
 name: "だし茶漬け えん 成田空港店"
 genre: "washoku"

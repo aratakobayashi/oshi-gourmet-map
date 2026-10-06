@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「鎌倉茶々本店」"
-description: "=LOVEのYouTubeで紹介されたsweets「鎌倉茶々本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「鎌倉茶々本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-1de9b314-202408"
 name: "鎌倉茶々本店"
 genre: "sweets"

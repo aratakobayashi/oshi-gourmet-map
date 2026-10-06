@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「東京油組総本店 銀座組」"
-description: "J-Hope 東京訪問で紹介されたramen「東京油組総本店 銀座組」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "J-Hope 東京訪問で紹介されたラーメン「東京油組総本店 銀座組」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-b61c20ce-"
 name: "東京油組総本店 銀座組"
 genre: "ramen"

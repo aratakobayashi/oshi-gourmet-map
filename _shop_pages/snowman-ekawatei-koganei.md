@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「江川亭 小金井本店」"
-description: "Snow ManのYouTubeで紹介されたramen「江川亭 小金井本店」（東京都小金井市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介されたラーメン「江川亭 小金井本店」（東京都小金井市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"
 genre: "ramen"

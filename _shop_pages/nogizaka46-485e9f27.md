@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「炎麻堂 赤坂店」"
-description: "乃木坂46が訪れたchuka「炎麻堂 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46が訪れた中華「炎麻堂 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-485e9f27-"
 name: "炎麻堂 赤坂店"
 genre: "chuka"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Club eX」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Club eX」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Club eX」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-club_ex-20250607"
 name: "Club eX"
 genre: "shokuji"

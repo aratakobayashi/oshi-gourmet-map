@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「唐戸市場」"
-description: "シンクロニシティ特典映像で紹介されたothers「唐戸市場」（山口県下関市）。推し活グルメ巡礼スポット。"
+description: "シンクロニシティ特典映像で紹介されたその他「唐戸市場」（山口県下関市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f91c726a-"
 name: "唐戸市場"
 genre: "others"

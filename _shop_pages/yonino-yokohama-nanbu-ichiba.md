@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「横浜南部市場 食の専門店街」"
-description: "よにのちゃんねるのYouTubeで紹介されたothers「横浜南部市場 食の専門店街」（神奈川県横浜市金沢区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたその他「横浜南部市場 食の専門店街」（神奈川県横浜市金沢区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-yokohama-nanbu-ichiba"
 name: "横浜南部市場 食の専門店街"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「マッシーナ メッシーナ」"
-description: "孤独のグルメ Season7 第2話で紹介されたshokuji「マッシーナ メッシーナ」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season7 第2話で紹介された食事「マッシーナ メッシーナ」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8fc55f6d-"
 name: "マッシーナ メッシーナ"
 genre: "shokuji"

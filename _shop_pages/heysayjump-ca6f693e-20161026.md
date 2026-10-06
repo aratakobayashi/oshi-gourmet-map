@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「汁いち」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたramen「汁いち」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたラーメン「汁いち」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-ca6f693e-20161026"
 name: "汁いち"
 genre: "ramen"

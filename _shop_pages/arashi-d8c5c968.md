@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「チョンギワ 新館」"
-description: "嵐にしやがれで紹介されたothers「チョンギワ 新館」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「チョンギワ 新館」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-d8c5c968-"
 name: "チョンギワ 新館"
 genre: "others"

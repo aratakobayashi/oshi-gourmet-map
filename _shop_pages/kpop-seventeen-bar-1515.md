@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「BAR 酒店 1515」"
-description: "SEVENTEENで紹介されたothers「BAR 酒店 1515」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介されたその他「BAR 酒店 1515」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-bar_1515-"
 name: "BAR 酒店 1515"
 genre: "others"

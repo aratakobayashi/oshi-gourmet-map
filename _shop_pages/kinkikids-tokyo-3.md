@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TOKYO焼肉ごぉ 3号店"
-description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介されたyakiniku「TOKYO焼肉ごぉ 3号店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？で紹介された焼肉「TOKYO焼肉ごぉ 3号店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-tokyo_3-"
 name: "TOKYO焼肉ごぉ 3号店"
 genre: "yakiniku"

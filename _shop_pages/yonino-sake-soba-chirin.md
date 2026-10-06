@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「酒と蕎麦ちりん」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「酒と蕎麦ちりん」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「酒と蕎麦ちりん」（東京都品川区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-sake-soba-chirin"
 name: "酒と蕎麦ちりん"
 genre: "washoku"

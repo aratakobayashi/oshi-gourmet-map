@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「キントレ」"
-description: "【キントレ当たり前レストラン】マルゲリータのピザ屋さんはどこ？で紹介されたothers「キントレ」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "【キントレ当たり前レストラン】マルゲリータのピザ屋さんはどこ？で紹介されたその他「キントレ」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-d7ab04df-"
 name: "キントレ"
 genre: "others"

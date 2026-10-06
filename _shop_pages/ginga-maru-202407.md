@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中丸雄一 銀河チャンネルが行った「スタジオカフェ MARU」"
-description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたcafe「スタジオカフェ MARU」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "中丸雄一 銀河チャンネルのYouTubeで紹介されたカフェ「スタジオカフェ MARU」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "ginga-maru-202407"
 name: "スタジオカフェ MARU"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「フツウニフルウツ」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたcafe「フツウニフルウツ」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介されたカフェ「フツウニフルウツ」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-7b3cff12-"
 name: "フツウニフルウツ"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「雀おどり 總本店」"
-description: "乃木坂配信中で紹介されたothers「雀おどり 總本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂配信中で紹介されたその他「雀おどり 總本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-6b31f43b-"
 name: "雀おどり 總本店"
 genre: "others"

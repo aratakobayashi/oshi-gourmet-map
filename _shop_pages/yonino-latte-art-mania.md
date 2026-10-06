@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「LATTE ART MANIA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたcafe「LATTE ART MANIA TOKYO」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたカフェ「LATTE ART MANIA TOKYO」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-latte-art-mania"
 name: "LATTE ART MANIA TOKYO"
 genre: "cafe"

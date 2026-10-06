@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「マイハウス」"
-description: "孤独のグルメ Season10 第2023話で紹介されたyakiniku「マイハウス」（沖縄県宜野湾市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2023話で紹介された焼肉「マイハウス」（沖縄県宜野湾市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-85463e91-"
 name: "マイハウス"
 genre: "yakiniku"

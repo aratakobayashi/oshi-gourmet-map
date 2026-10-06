@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "韓国屋台ハンサム 汐留店"
-description: "VS魂 背徳グルメワールドツアーで紹介されたshokuji「韓国屋台ハンサム 汐留店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "VS魂 背徳グルメワールドツアーで紹介された食事「韓国屋台ハンサム 汐留店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "numberi-56d780eb-"
 name: "韓国屋台ハンサム 汐留店"
 genre: "shokuji"

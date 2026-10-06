@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「恵比寿 ガパオ食堂」"
-description: "嵐にしやがれで紹介されたothers「恵比寿 ガパオ食堂」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「恵比寿 ガパオ食堂」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-8576ad62-"
 name: "恵比寿 ガパオ食堂"
 genre: "others"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂 金舌」"
-description: "よにのちゃんねるのYouTubeで紹介されたyakiniku「赤坂 金舌」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された焼肉「赤坂 金舌」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kintan-akasaka"
 name: "赤坂 金舌"
 genre: "yakiniku"

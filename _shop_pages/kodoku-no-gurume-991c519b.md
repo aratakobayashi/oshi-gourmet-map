@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「下総屋」"
-description: "孤独のグルメ Season10 第2021話で紹介されたramen「下総屋」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介されたラーメン「下総屋」（東京都墨田区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-991c519b-"
 name: "下総屋"
 genre: "ramen"

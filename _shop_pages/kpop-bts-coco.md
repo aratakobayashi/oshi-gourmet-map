@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「CoCo壱番屋 新宿歌舞伎町店」"
-description: "ジミン Instagram（2023年11月）で紹介されたshokuji「CoCo壱番屋 新宿歌舞伎町店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "ジミン Instagram（2023年11月）で紹介された食事「CoCo壱番屋 新宿歌舞伎町店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_bts-coco-"
 name: "CoCo壱番屋 新宿歌舞伎町店"
 genre: "shokuji"

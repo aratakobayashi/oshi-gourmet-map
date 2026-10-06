@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「丹波篠山 猪料理専門店 奥榮」"
-description: "孤独のグルメ Season10 第2021話で紹介されたwashoku「丹波篠山 猪料理専門店 奥榮」（兵庫県丹波篠山市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2021話で紹介された和食「丹波篠山 猪料理専門店 奥榮」（兵庫県丹波篠山市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f92d0f22-"
 name: "丹波篠山 猪料理専門店 奥榮"
 genre: "washoku"

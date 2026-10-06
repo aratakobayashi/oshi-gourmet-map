@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「ぐりるスズコウ」"
-description: "嵐にしやがれで紹介されたothers「ぐりるスズコウ」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「ぐりるスズコウ」（東京都大田区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-4be21947-"
 name: "ぐりるスズコウ"
 genre: "others"

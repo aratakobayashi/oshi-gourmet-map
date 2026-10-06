@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「サロン・ド・テ・カワムラ」"
-description: "旅スノ 金沢旅で紹介されたcafe「サロン・ド・テ・カワムラ」（石川県）。推し活グルメ巡礼スポット。"
+description: "旅スノ 金沢旅で紹介されたカフェ「サロン・ド・テ・カワムラ」（石川県）。推し活グルメ巡礼スポット。"
 shop_id: "0ff23edd"
 name: "サロン・ド・テ・カワムラ"
 genre: "cafe"

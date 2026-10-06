@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIBAYON ATTACK"
-description: "イキスギさんについてった 第14回で紹介されたchuka「RIBAYON ATTACK」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 第14回で紹介された中華「RIBAYON ATTACK」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "west-ribayon_attack-"
 name: "RIBAYON ATTACK"
 genre: "chuka"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「龍城飯店(リュウジョウハンテン) 香港路店」"
-description: "RIIZEで紹介されたothers「龍城飯店(リュウジョウハンテン) 香港路店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "RIIZEで紹介されたその他「龍城飯店(リュウジョウハンテン) 香港路店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_riize-603a2a9e-"
 name: "龍城飯店(リュウジョウハンテン) 香港路店"
 genre: "others"

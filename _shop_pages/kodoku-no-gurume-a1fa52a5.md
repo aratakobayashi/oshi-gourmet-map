@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「鳥勝牛肉店」"
-description: "孤独のグルメ Season10 第2025話で紹介されたshokuji「鳥勝牛肉店」（山形県米沢市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2025話で紹介された食事「鳥勝牛肉店」（山形県米沢市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-a1fa52a5-"
 name: "鳥勝牛肉店"
 genre: "shokuji"

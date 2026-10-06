@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「むかん横浜」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「むかん横浜」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたラーメン「むかん横浜」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-mukann-yokohama"
 name: "むかん横浜"
 genre: "ramen"

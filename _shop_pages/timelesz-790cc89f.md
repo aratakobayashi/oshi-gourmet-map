@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「五十鈴茶屋 本店」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介されたshokuji「五十鈴茶屋 本店」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介された食事「五十鈴茶屋 本店」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-790cc89f-"
 name: "五十鈴茶屋 本店"
 genre: "shokuji"

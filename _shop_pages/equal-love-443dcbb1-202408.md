@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤羽 もつ焼のんき」"
-description: "=LOVEのYouTubeで紹介されたizakaya「赤羽 もつ焼のんき」（東京都北区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介された居酒屋「赤羽 もつ焼のんき」（東京都北区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-443dcbb1-202408"
 name: "赤羽 もつ焼のんき"
 genre: "izakaya"

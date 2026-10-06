@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「亀戸餃子」"
-description: "2018.09.08 グルメ探偵調査で紹介されたshokuji「亀戸餃子」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "2018.09.08 グルメ探偵調査で紹介された食事「亀戸餃子」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-d5f50b8f-20180908"
 name: "亀戸餃子"
 genre: "shokuji"

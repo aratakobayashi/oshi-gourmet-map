@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「お宿 玉樹」"
-description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介されたothers「お宿 玉樹」（群馬県渋川市）。推し活グルメ巡礼スポット。"
+description: "SixTONES【ストチューブロケ地】アポなし旅の伊香保温泉・貸切露天風呂の温泉宿はどこ？で紹介されたその他「お宿 玉樹」（群馬県渋川市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-b5a1ece5-"
 name: "お宿 玉樹"
 genre: "others"

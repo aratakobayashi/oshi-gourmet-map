@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "かまいたちが行った「ツキノワ」"
-description: "かまいたちのYouTubeで紹介されたshokuji「ツキノワ」（大阪府大阪市中央区）。推し活グルメ巡礼スポット。"
+description: "かまいたちのYouTubeで紹介された食事「ツキノワ」（大阪府大阪市中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kamaitachi-1607d854-"
 name: "ツキノワ"
 genre: "shokuji"

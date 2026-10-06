@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「七沢荘」"
-description: "Snow ManのYouTubeで紹介されたshokuji「七沢荘」（神奈川県厚木市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「七沢荘」（神奈川県厚木市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-nanasawasou"
 name: "七沢荘"
 genre: "shokuji"

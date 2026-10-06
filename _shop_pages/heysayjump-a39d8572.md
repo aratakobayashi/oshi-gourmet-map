@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「原っぱ八分目」"
-description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介されたshokuji「原っぱ八分目」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "いただきハイジャンプ 2019.07.06 唐揚げブラックジャックで紹介された食事「原っぱ八分目」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-a39d8572-"
 name: "原っぱ八分目"
 genre: "shokuji"

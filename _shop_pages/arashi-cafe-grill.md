@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "嵐が行った「CAFE & GRILL」"
-description: "嵐にしやがれで紹介されたothers「CAFE & GRILL」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたその他「CAFE & GRILL」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-cafe_grill-"
 name: "CAFE & GRILL"
 genre: "others"

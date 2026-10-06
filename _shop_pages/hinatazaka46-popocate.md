@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "日向坂46が行った「POPOCATE」"
-description: "日向坂で会いましょうで紹介されたshokuji「POPOCATE」（東京都）。推し活グルメ巡礼スポット。"
+description: "日向坂で会いましょうで紹介された食事「POPOCATE」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "hinatazaka46-popocate-"
 name: "POPOCATE"
 genre: "shokuji"

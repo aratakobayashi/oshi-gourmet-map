@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カヤシマ」"
-description: "孤独のグルメ Season1 第7話で紹介されたshokuji「カヤシマ」（東京都）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第7話で紹介された食事「カヤシマ」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"
 genre: "shokuji"

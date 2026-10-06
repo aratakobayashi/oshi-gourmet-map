@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「釜元たん米衛恵比寿店」"
-description: "ENHYPENで紹介されたothers「釜元たん米衛恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介されたその他「釜元たん米衛恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-849120b7-"
 name: "釜元たん米衛恵比寿店"
 genre: "others"

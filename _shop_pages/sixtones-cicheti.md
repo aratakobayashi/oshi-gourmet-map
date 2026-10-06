@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cicheti」"
-description: "SixTONESのYouTubeで紹介されたothers「Cicheti」（シンガポールKandahar St）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたその他「Cicheti」（シンガポールKandahar St）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cicheti"
 name: "Cicheti"
 genre: "others"

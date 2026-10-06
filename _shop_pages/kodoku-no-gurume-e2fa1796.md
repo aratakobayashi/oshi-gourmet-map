@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「活海酒」"
-description: "孤独のグルメ Season10 第2019話で紹介されたwashoku「活海酒」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2019話で紹介された和食「活海酒」（福岡県福岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e2fa1796-"
 name: "活海酒"
 genre: "washoku"

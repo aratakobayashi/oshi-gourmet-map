@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「PRESQU’ILE chocolaterie」"
-description: "King&Princeる。当たり前レストランで紹介されたsweets「PRESQU’ILE chocolaterie」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介されたスイーツ「PRESQU’ILE chocolaterie」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-presquile_chocolater-20221210"
 name: "PRESQU’ILE chocolaterie"
 genre: "sweets"

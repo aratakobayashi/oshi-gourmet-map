@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「近江町市場」"
-description: "=LOVEのYouTubeで紹介されたothers「近江町市場」（石川県金沢市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたその他「近江町市場」（石川県金沢市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-82fa4e5f-202408"
 name: "近江町市場"
 genre: "others"

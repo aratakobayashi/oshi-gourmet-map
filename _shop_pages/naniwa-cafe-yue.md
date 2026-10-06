@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Cafe yue」"
-description: "なにわ男子のどっち派で紹介されたcafe「Cafe yue」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派で紹介されたカフェ「Cafe yue」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-cafe_yue-"
 name: "Cafe yue"
 genre: "cafe"

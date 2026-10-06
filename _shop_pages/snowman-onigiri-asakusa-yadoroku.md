@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「おにぎり浅草宿六」"
-description: "Snow ManのYouTubeで紹介されたwashoku「おにぎり浅草宿六」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された和食「おにぎり浅草宿六」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-onigiri-asakusa-yadoroku"
 name: "おにぎり浅草宿六"
 genre: "washoku"

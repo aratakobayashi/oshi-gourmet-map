@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「龍朋」"
-description: "Snow ManのYouTubeで紹介されたchuka「龍朋」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された中華「龍朋」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-ryuho-kagurazaka"
 name: "龍朋"
 genre: "chuka"

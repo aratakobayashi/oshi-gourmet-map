@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "スイート・レディ・ジェーン（SWEET LADY JANE）"
-description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたothers「スイート・レディ・ジェーン（SWEET LADY JANE）」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたその他「スイート・レディ・ジェーン（SWEET LADY JANE）」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-sweet_lady_jane-"
 name: "スイート・レディ・ジェーン（SWEET LADY JANE）"
 genre: "others"

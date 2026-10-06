@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「清月苑」"
-description: "孤独のグルメ Season10 第2020話で紹介されたyakiniku「清月苑」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season10 第2020話で紹介された焼肉「清月苑」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-8a664e79-"
 name: "清月苑"
 genre: "yakiniku"

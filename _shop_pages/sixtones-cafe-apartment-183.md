@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe Apartment 183」"
-description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたcafe「Cafe Apartment 183」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "トークィーンズ【京本大我ロケ地】カフェはどこ？ファーストサマーウイカが事前取材で紹介されたカフェ「Cafe Apartment 183」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-cafe_apartment_183-"
 name: "Cafe Apartment 183"
 genre: "cafe"

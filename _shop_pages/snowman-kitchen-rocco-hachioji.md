@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Kitchen ROCCO」"
-description: "Snow ManのYouTubeで紹介されたshokuji「Kitchen ROCCO」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「Kitchen ROCCO」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-kitchen-rocco-hachioji"
 name: "Kitchen ROCCO"
 genre: "shokuji"

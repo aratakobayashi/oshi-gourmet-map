@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Monkey Cafe（モンキーカフェ）"
-description: "私たちが恋する理由【七五三掛龍也ロケ地】坂元と絢香の初デートのカフェはどこ？クロサギロケ地？で紹介されたcafe「Monkey Cafe（モンキーカフェ）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "私たちが恋する理由【七五三掛龍也ロケ地】坂元と絢香の初デートのカフェはどこ？クロサギロケ地？で紹介されたカフェ「Monkey Cafe（モンキーカフェ）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "travisjapan-monkey_cafe-"
 name: "Monkey Cafe（モンキーカフェ）"
 genre: "cafe"

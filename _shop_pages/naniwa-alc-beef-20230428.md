@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ALC BEEF キッチン」"
-description: "なにわ男子のどっち派 (2023-04-28)で紹介されたyakiniku「ALC BEEF キッチン」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2023-04-28)で紹介された焼肉「ALC BEEF キッチン」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-alc_beef-20230428"
 name: "ALC BEEF キッチン"
 genre: "yakiniku"

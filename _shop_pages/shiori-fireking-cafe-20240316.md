@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「Fireking Cafe」"
-description: "しおりのYouTubeで紹介されたcafe「Fireking Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたカフェ「Fireking Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-fireking_cafe-20240316"
 name: "Fireking Cafe"
 genre: "cafe"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「かおたんラーメンえんとつ屋 南青山店」"
-description: "よにのちゃんねるのYouTubeで紹介されたramen「かおたんラーメンえんとつ屋 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介されたラーメン「かおたんラーメンえんとつ屋 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-kaotan-ramen"
 name: "かおたんラーメンえんとつ屋 南青山店"
 genre: "ramen"

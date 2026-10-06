@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「覚王山とんかつ わだ福」"
-description: "バナナマンのせかっくグルメ!!で紹介されたshokuji「覚王山とんかつ わだ福」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "バナナマンのせかっくグルメ!!で紹介された食事「覚王山とんかつ わだ福」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "7efac0da"
 name: "覚王山とんかつ わだ福"
 genre: "shokuji"

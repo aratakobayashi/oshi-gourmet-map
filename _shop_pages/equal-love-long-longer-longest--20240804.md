@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「LONG! LONGER!! LONGEST!!! 原宿本店」"
-description: "=LOVEのYouTubeで紹介されたsweets「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたスイーツ「LONG! LONGER!! LONGEST!!! 原宿本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-long_longer_longest_-20240804"
 name: "LONG! LONGER!! LONGEST!!! 原宿本店"
 genre: "sweets"

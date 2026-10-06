@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しおりが行った「Verdure 0831」"
-description: "しおりのYouTubeで紹介されたcafe「Verdure 0831」（福島県白河市）。推し活グルメ巡礼スポット。"
+description: "しおりのYouTubeで紹介されたカフェ「Verdure 0831」（福島県白河市）。推し活グルメ巡礼スポット。"
 shop_id: "shiori-verdure_0831-20251127"
 name: "Verdure 0831"
 genre: "cafe"

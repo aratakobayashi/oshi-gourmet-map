@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「STREET CHURROS 下北沢店」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたshokuji「STREET CHURROS 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子のどっち派 (2025-07-11)で紹介された食事「STREET CHURROS 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "naniwa-street_churros-20250711"
 name: "STREET CHURROS 下北沢店"
 genre: "shokuji"

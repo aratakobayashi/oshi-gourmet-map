@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「恵比寿 焼肉 うしみつ」"
-description: "SixTONESのYouTubeで紹介されたyakiniku「恵比寿 焼肉 うしみつ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された焼肉「恵比寿 焼肉 うしみつ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-ushimitsu-ebisu"
 name: "恵比寿 焼肉 うしみつ"
 genre: "yakiniku"

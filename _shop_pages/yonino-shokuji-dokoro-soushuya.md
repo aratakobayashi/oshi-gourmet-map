@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「食事処 相州屋」"
-description: "よにのちゃんねるのYouTubeで紹介されたwashoku「食事処 相州屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるのYouTubeで紹介された和食「食事処 相州屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "yonino-shokuji-dokoro-soushuya"
 name: "食事処 相州屋"
 genre: "washoku"
