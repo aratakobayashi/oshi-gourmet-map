@@ -290,10 +290,10 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
 
   function buildFeedCard(shop, i) {
     var group   = (shop.groups || [])[0] || shop.group || '';
-    var label   = LABELS[group] || group;
+    var label   = LABELS[group] || (window.SITE_GROUP_LABELS || {})[group] || group;
     var grad    = GRADS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
     var tape    = TAPES[i % TAPES.length];
-    var iconUrl = group ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
+    var iconUrl = group && (window.GROUP_PHOTOS || []).indexOf(group) >= 0 ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
     var bannerHtml = '<div class="feed-card__banner" style="background:' + grad + '">'
       + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
       + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(genreLabel(shop.genre || '')) + '</span>'

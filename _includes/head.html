@@ -62,6 +62,8 @@
 <script>
   window.GENRE_LABELS = {{ site.data.genres | jsonify }};
   window.SITE_GROUP_LABELS = {{ site.data.groups | jsonify }};
+  // assets/images/groups/ に写真があるグループ（無いグループの画像を読みに行かないため）
+  window.GROUP_PHOTOS = [{% for f in site.static_files %}{% if f.path contains '/assets/images/groups/' %}"{{ f.basename }}",{% endif %}{% endfor %}];
   function genreLabel(g) { var x = window.GENRE_LABELS[g]; return x ? x.label : g; }
   function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
 </script>

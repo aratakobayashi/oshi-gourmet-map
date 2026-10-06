@@ -96,14 +96,14 @@ description: よにのちゃんねる・Snow Man・SixTONESなど推しグルー
     var grid = document.getElementById('group-ranking');
     if (!grid) return;
     grid.innerHTML = sorted.map(function(group, i) {
-      var label = LABELS[group] || group;
+      var label = LABELS[group] || (window.SITE_GROUP_LABELS || {})[group] || group;
       var color = COLORS[group] || '#c4b5fd';
       var rank  = String(i + 1).padStart(2, '0');
       var cls   = i < 3 ? ' oshi-card--top' + (i + 1) : '';
-      var icon  = BASE + '/assets/images/groups/' + group + '.jpg';
+      var icon  = (window.GROUP_PHOTOS || []).indexOf(group) >= 0 ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
       return '<a class="oshi-card' + cls + '" href="' + BASE + '/shops/?group=' + esc(group) + '" style="--oshi-color:' + color + '">'
         + '<div class="oshi-card__rank">' + rank + '</div>'
-        + '<img class="oshi-card__img" src="' + esc(icon) + '" alt="' + esc(label) + '" onerror="this.style.opacity=\'0\'">'
+        + (icon ? '<img class="oshi-card__img" src="' + esc(icon) + '" alt="' + esc(label) + '" onerror="this.style.opacity=\'0\'">' : '<div class="oshi-card__img" aria-hidden="true"></div>')
         + '<div class="oshi-card__name">' + esc(label) + '</div>'
         + '<div class="oshi-card__count">訪問店 ' + counts[group] + ' 件</div>'
         + '</a>';
