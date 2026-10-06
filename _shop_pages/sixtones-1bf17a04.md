@@ -14,7 +14,6 @@ source_video_title: "SixTONES【ストチューブロケ地】アポなし旅の
 source_url: "https://kosodate-and.net/sixtones-tsukiji-asagohan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13147919/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/231802/be4aeaf9df34438c7eb8ca650991097d.jpg?token=2da0087&api=v2"
 lat: 35.666291
 lng: 139.769449
 members:

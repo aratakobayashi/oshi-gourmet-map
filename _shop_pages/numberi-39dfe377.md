@@ -12,7 +12,6 @@ source_video_title: "Number_i【広島 尾道】はっさくソフトクリー�
 source_url: "https://kosodate-and.net/numberi-hassaku-remon"
 group: "numberi"
 tabelog_url: "https://tabelog.com/hiroshima/A3406/A340302/34022921/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296775/5b6aad80ff67cd5f90d2037630ec6378.jpg?token=ccec6de&api=v2"
 lat: 34.4096178
 lng: 133.20241
 members:

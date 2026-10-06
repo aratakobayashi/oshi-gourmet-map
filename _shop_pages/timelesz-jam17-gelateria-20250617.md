@@ -14,7 +14,6 @@ source_video_title: "timeleszの時間ですよ（2025年6月17日）"
 source_url: "https://tabelog.com/tokyo/A1304/A130401/13284072/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13284072/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/315716/5c2077c93cb3e320f0698636f3997fdc.jpg?token=c09c513&api=v2"
 lat: 35.694
 lng: 139.7017
 members:

@@ -13,7 +13,6 @@ source_video_title: "キントレガイドブック【永瀬廉・福士蒼汰�
 source_url: "https://kosodate-and.net/kintore-ren-nerima-ramen"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132102/13253289/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362799/82d26fb972b2f03c51d57cafb9988532.jpg?token=2b5219a&api=v2"
 lat: 35.735580337832246
 lng: 139.62862658386825
 members:

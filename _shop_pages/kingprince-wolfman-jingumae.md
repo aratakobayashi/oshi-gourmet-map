@@ -13,7 +13,6 @@ source_video_title: "【King＆Princeキンプリロケ地】『ピース』ツ�
 source_url: "https://kosodate-and.net/kinpri-peace-barber"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13322521/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362313/3c20781a11b4d54d687b6cf6f62a13ec.jpg?token=7cafcc2&api=v2"
 lat: 35.6692039
 lng: 139.7072847
 members:

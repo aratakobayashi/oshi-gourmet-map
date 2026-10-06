@@ -13,7 +13,6 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チ�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-sonoda"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131603/13263126/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/162854/162854307.jpg?token=ebbe90a&api=v2"
 lat: 35.6261573295661
 lng: 139.72558967811742
 members:

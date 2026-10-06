@@ -13,7 +13,6 @@ source_video_title: "笑ってコラえて【永瀬廉×西畑大吾×正門良�
 source_url: "https://kosodate-and.net/ren-daigo-masakado-osaka"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27129373/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/188203/23a7fa2d7de69aa8b855425961167cf5.jpg?token=859fb76&api=v2"
 lat: 34.69434072904749
 lng: 135.48647352770016
 members:

@@ -15,7 +15,6 @@ source_video_title: "#380【ドライブ!!】ある種、北村匠海と意思�
 source_video_url: "https://www.youtube.com/watch?v=-jyOpZIJcn8"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13086847/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340007/b1117afd91723e44ab20d6cfa40ea674.jpg?token=bd77ef7&api=v2"
 lat: 35.6703
 lng: 139.737
 members:

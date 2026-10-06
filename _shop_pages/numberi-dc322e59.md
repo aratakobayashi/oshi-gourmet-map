@@ -12,7 +12,6 @@ source_video_title: "【平野紫耀＆神宮寺勇太インスタ】商店街�
 source_url: "https://kosodate-and.net/sho-jin-shotengai"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132401/13280564/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/263994/2a2da05c43e68f7feab8083486c53248.jpg?token=dfcbf7e&api=v2"
 lat: 35.733429437885164
 lng: 139.79051798373303
 members:

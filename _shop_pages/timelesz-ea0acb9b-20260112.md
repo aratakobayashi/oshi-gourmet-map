@@ -14,7 +14,6 @@ source_video_title: "timeleszファミリア 究極グルメ 団結か裏切り�
 source_url: "https://www.tvguide.or.jp/news/news-4277176/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13276093/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/286558/bb453ac6df2aad2afc7eb95ae2f9a3b6.jpg?token=cc76ee5&amp;api=v2"
 source_type: "tv"
 lat: 35.6537504
 lng: 139.7416761

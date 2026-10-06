@@ -13,7 +13,6 @@ source_video_title: "ENHYPEN"
 source_url: "https://oshito.online/news/15229.html"
 group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13199701/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/95756/95756680.jpg?token=50b8daa&api=v2"
 lat: 35.6309458
 lng: 139.7115442
 members:

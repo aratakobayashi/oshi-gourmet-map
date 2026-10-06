@@ -14,7 +14,6 @@ youtube_id: "qzz7SC88ywM"
 source_video_title: "【渋谷はしご酒】デートにもおすすめなオシャレ酒場を1人で3軒飲み歩きしてきたよ！"
 group: "shiori"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131811/13012564/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/10453/10453010.jpg?token=7fd4a2e&api=v2"
 lat: 35.6690181
 lng: 139.6843225
 members:

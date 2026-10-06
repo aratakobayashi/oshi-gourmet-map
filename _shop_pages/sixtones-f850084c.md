@@ -14,7 +14,6 @@ source_video_title: "【だが、情熱はあるロケ地】山里が花鈴に�
 source_url: "https://kosodate-and.net/daga-jyounetsu-yama-karin-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13087993/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348758/5ff95cce451737ce3c789c56ddf15858.jpg?token=1e8796b&api=v2"
 lat: 35.7175966
 lng: 139.7975626
 members:

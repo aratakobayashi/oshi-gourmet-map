@@ -12,7 +12,6 @@ source_video_title: "ジェニ・ロゼ 大阪訪問（VERDYコラボ店）"
 source_url: "https://oshito.online/news/14064.html"
 group: "kpop_blackpink"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270104/27136005/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/363663/43a3943f3cb22280f601f9611c566369.jpg?token=096feed&api=v2"
 lat: 34.666526
 lng: 135.5217554
 members:

@@ -13,7 +13,6 @@ source_video_title: "【だが、情熱はあるロケ地】山里がしずち�
 source_url: "https://kosodate-and.net/daga-jyounetsu-yamazato-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131707/13242776/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/258230/42ab75147ed7584c66b0525c6e3ed88f.jpg?token=89478ba&api=v2"
 lat: 35.63352
 lng: 139.6302503
 members:

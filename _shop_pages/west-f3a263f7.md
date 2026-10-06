@@ -13,7 +13,6 @@ source_video_title: "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠
 source_url: "https://kakaku.com/tv/channel=10/programID=115324/episodeID=1577645/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13211399/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/73260/73260831.jpg?token=285d287&api=v2"
 source_type: "tv"
 lat: 35.6507318
 lng: 139.7046751

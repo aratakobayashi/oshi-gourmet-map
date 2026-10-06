@@ -13,7 +13,6 @@ source_video_title: "Aぇǃgroup＆小瀧望【Aぇちゅ〜ぶ ロケ地】回�
 source_url: "https://kosodate-and.net/aqroup-kotaki-sushi"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13223448/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359935/af0cd282a210cd9e616be2abcdda5120.jpg?token=bce1ee2&api=v2"
 lat: 35.65657329871196
 lng: 139.70452838417876
 members:

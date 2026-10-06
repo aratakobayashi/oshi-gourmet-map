@@ -13,7 +13,6 @@ source_video_title: "SixTONES【ストチューブロケ地】アポなし旅の
 source_url: "https://kosodate-and.net/sixtones-ikaho-onsen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10001838/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/321540/3b03ca05e8438c6c086f4093da75d26c.jpg?token=3e272e1&api=v2"
 lat: 36.490004
 lng: 138.922353
 members:

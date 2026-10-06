@@ -11,7 +11,6 @@ address: "愛知県名古屋市中区栄３丁目２７−１５"
 source_video_title: "乃木坂配信中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230103/23001219/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/149151/149151373.jpg?token=c0e7490&api=v2"
 lat: 35.1638817
 lng: 136.9009899
 groups:

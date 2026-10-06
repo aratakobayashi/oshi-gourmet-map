@@ -11,7 +11,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - ひみつ堂∞〜9/1東�
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12524064320.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131106/13126796/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/184597/6c9e67d044acfc562fa6009130568424.jpg?token=d276824&api=v2"
 source_type: "blog"
 lat: 35.7845045
 lng: 139.8976942

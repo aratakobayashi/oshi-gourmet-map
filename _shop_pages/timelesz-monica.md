@@ -14,7 +14,6 @@ source_video_title: "タイムレスマン「2択マン」表参道モニカ"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-nitakuman-bread/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13274523/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/295045/3d950c09361f8fbf94f0c0d039709f99.jpg?token=5b2546c&api=v2"
 lat: 35.6596837
 lng: 139.706267
 members:

@@ -12,7 +12,6 @@ visited_date: "2021-11-26"
 source_video_title: " チキンバーガー専門店が急増してるのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13283647/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347805/6c029d8a88549000df88249154ac6b9f.jpg?token=6405908&api=v2"
 source_type: "tv"
 lat: 35.7067455
 lng: 139.7057185

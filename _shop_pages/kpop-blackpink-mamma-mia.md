@@ -11,7 +11,6 @@ source_video_title: "ロゼ 狎鴎亭エリア訪問"
 source_url: "https://creatrip.com/en/blog/7042"
 group: "kpop_blackpink"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13184854/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359133/1a14b97ad2166b4ee325dcb340f319f4.jpg?token=7db0af3&api=v2"
 lat: 37.5253
 lng: 127.0383
 members:

@@ -12,7 +12,6 @@ source_video_title: "めざましテレビ 2017.12.07"
 source_url: "https://medax.hatenablog.com/entry/mezamashi/20171207"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13017715/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/22603/22603545.jpg?token=822ff7f&api=v2"
 lat: 35.7298752
 lng: 139.7112955
 members:

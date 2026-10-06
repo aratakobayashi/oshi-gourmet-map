@@ -12,7 +12,6 @@ source_video_title: "メレンゲの気持ち 2017.07.29"
 source_url: "https://medax.hatenablog.com/entry/meringue/20170729"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13007822/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/116426/116426897.jpg?token=628e255&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

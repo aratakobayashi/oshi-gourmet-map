@@ -14,7 +14,6 @@ source_video_title: "櫻坂46 銀座でジェラート食べ歩き"
 source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
 group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13212493/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/332718/e56c9913c606f931e4d4f4683412d114.jpg?token=a465622&api=v2"
 source_type: "tv"
 lat: 35.6715
 lng: 139.7668

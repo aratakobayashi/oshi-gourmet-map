@@ -14,7 +14,6 @@ source_video_title: "【Vlog】新大久保の素敵な抹茶ラテカフェ"
 source_video_url: "https://www.tiktok.com/@equal_love_emiri/video/7538410055641615634"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13301054/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314737/1a78401da82ea3e78ebd4edc8d1c4494.jpg?token=be506e5&api=v2"
 lat: 35.6938
 lng: 139.7036
 members:

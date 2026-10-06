@@ -12,7 +12,6 @@ source_video_title: "【キンプるで紹介】クレームブリュレはど�
 source_url: "https://kosodate-and.net/kinpru-creme-brulee"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13000285/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/313669/b0c6e85cd874120960150a9439421e32.jpg?token=08abb07&api=v2"
 lat: 35.6838064
 lng: 139.7379229
 members:

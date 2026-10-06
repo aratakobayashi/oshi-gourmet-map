@@ -12,7 +12,6 @@ source_video_title: "VS魂 背徳グルメワールドツアー"
 source_url: "https://kosodate-and.net/vsdamashii-kishi-hamburger/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13097927/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/171169/9d23ee8a1d28ebd62de903bed454057e.jpg?token=c9d2a4e&api=v2"
 lat: 35.6692039
 lng: 139.7072847
 members:

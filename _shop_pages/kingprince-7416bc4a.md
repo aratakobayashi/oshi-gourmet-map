@@ -12,7 +12,6 @@ source_video_title: "キントレ【髙橋海人ロケ地】炊飯器の旅静�
 source_url: "https://kosodate-and.net/kintore-kaito-numazu"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220501/22030304/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277171/77e21b11e6aeb82771f1458ba9a89916.jpg?token=5e5ffe2&api=v2"
 lat: 35.02036233885279
 lng: 138.8779092783319
 members:

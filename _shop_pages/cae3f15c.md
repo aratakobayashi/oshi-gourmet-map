@@ -14,7 +14,6 @@ source_video_title: "すのちゅーぶ（Snow Man / 2025-04-16）"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%E7%B7%A8"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/104090/104090406.jpg?token=c5a18cd&api=v2"
 source_type: "youtube"
 lat: 35.663791937904364
 lng: 139.71191488308472

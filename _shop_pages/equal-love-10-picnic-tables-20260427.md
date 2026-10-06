@@ -12,7 +12,6 @@ visited_date: "2026-04-27"
 youtube_id: "w568Qw-pOE0"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090203/9017523/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/304017/83073834742aa7f62837e6f1b2ad4a0b.jpg?token=f486f19&api=v2"
 lat: 36.3907402
 lng: 139.8148805
 members:

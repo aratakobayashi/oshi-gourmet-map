@@ -13,7 +13,6 @@ source_video_title: "【日曜劇場 リブート ロケ地】ステーキレス
 source_url: "https://kosodate-and.net/reboot-steak-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13258435/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/165430/f34b25882de9126308e8e2e459ca9689.jpg?token=f911ced&api=v2"
 lat: 35.64388223791766
 lng: 139.71396238288222
 members:

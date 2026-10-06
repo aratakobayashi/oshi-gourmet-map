@@ -11,7 +11,6 @@ address: "香川県高松市成合町８"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kagawa/A3701/A370101/37007229/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/80921/80921113.jpg?token=d1121a1&api=v2"
 lat: 34.29603834776286
 lng: 134.01094371442716
 groups:

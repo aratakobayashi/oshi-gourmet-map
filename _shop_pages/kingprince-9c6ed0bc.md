@@ -12,7 +12,6 @@ source_video_title: "【だが、情熱はあるロケ地】若林（髙橋海�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-sushi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13250987/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137868/137868334.jpg?token=87d7292&api=v2"
 lat: 35.66393823790333
 lng: 139.70895538308827
 members:

@@ -11,7 +11,6 @@ nearest_station: "新福島駅 徒歩2分"
 source_video_title: "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27014207/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/335233/b7ac8061d039756348c11a8e187c1c99.jpg?token=7f2457d&api=v2"
 source_type: "tv"
 lat: 34.69475148797956
 lng: 135.48655562742016

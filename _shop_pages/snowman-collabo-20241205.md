@@ -14,7 +14,6 @@ youtube_id: "HksFKrub-_s"
 source_video_title: "【すのちゅーぶ】三軒茶屋・瀬戸内バル Collabo：SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13150186/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112692/112692297.jpg?token=f115c13&api=v2"
 lat: 35.6470592
 lng: 139.6699374
 members:

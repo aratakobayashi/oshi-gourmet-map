@@ -13,7 +13,6 @@ source_video_title: "だが、情熱はある【森本慎太郎撮影】山里�
 source_url: "https://kosodate-and.net/daga-jyounetsu-shintaro-bar"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/osaka/A2706/A270602/27011672/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/71257/71257871.jpg?token=59f78eb&api=v2"
 lat: 34.7802926
 lng: 135.5145654
 members:

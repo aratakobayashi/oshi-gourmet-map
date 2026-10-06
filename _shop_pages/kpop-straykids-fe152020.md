@@ -12,7 +12,6 @@ source_video_title: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13187981/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/309121/dc0595bdd2fb66784976517b7136ea83.jpg?token=62c7195&api=v2"
 lat: 35.6921592
 lng: 139.7006065
 members:

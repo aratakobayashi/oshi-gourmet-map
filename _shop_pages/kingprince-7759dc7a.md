@@ -13,7 +13,6 @@ source_video_title: "ヒルナンデス【岸優太ロケ地】豊洲のホテ�
 source_url: "https://kosodate-and.net/hirunan-kishi-hotel-cocktail"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131307/13270778/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348687/761c9f772a89304bbaff3b2c884931c8.jpg?token=62d99a6&api=v2"
 lat: 35.6501423
 lng: 139.7931179
 members:

@@ -15,7 +15,6 @@ source_video_title: "【すのちゅーぶ】古着屋「Baro (ベロ)」は『�
 source_video_url: "https://www.youtube.com/watch?v=ZcWG2Ra3RcI"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13251280/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/160764/160764311.jpg?token=83883a5&api=v2"
 lat: 35.7284313
 lng: 139.7017131
 members:

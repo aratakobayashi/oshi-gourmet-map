@@ -13,7 +13,6 @@ visited_date: "2019-12-04"
 source_video_url: "https://www.youtube.com/watch?v=K3f8M7-uPtg"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13012496/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/256209/251156473d9258245ec5f571e6763912.jpg?token=d3cf121&api=v2"
 seating_note: "SnowManメンバーが座った席は、パンダの絵が飾られている特徴的なお部屋でした。 こちらのお部屋は、【真珠（しんじゅ）】という個室だと思われます。 真珠個室についての詳細はこちら↓ お店のホームページに個室料がかかると記載されておりましたが、問い合わせたところ、15名以上かつ一人6000円以上飲食すると個室料はかからないとのことでした。※2024年12月時点の情報です。 パンダの絵の真珠個室は、トイレに向かう階段付近にありました"
 lat: 35.6574
 lng: 139.7

@@ -12,7 +12,6 @@ nearest_station: "小樽駅 徒歩16分"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0106/A010601/1006989/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/43853/43853781.jpg?token=6da21cd&api=v2"
 lat: 43.1961632
 lng: 141.0050315
 groups:

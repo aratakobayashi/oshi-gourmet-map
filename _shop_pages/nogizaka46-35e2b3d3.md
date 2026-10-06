@@ -11,7 +11,6 @@ address: "兵庫県神戸市中央区加納町４丁目５−１３"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hyogo/A2801/A280101/28002105/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/63364/63364265.jpg?token=df92e87&api=v2"
 lat: 34.695127
 lng: 135.1937319
 groups:

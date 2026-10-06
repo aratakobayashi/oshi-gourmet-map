@@ -13,7 +13,6 @@ source_video_title: "SixTONES【帰ってきたアポなし旅】（2023/10/06�
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2023/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13285238/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/318295/e1529ebd1b133f66e85eacb1af74128e.jpg?token=fe0a394&api=v2"
 lat: 35.666291
 lng: 139.769449
 members:

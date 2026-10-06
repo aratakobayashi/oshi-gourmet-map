@@ -12,7 +12,6 @@ source_video_title: "Stray Kids 東京ミッションツアー"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13007421/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/134221/134221885.jpg?token=3a343f2&api=v2"
 lat: 35.6692039
 lng: 139.7072847
 members:

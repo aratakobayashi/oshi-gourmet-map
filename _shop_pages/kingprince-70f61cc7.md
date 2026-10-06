@@ -12,7 +12,6 @@ source_video_title: "【キントレバイトレロケ地】永瀬廉がバイ�
 source_url: "https://kosodate-and.net/kintore-ren-yoshinoya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130102/13055273/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356983/25bc3bc08ed1660303c2ec97758537c9.jpg?token=157f7f3&api=v2"
 lat: 35.673888
 lng: 139.76281
 members:

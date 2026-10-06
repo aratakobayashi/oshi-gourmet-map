@@ -13,7 +13,6 @@ source_video_url: "https://www.youtube.com/watch?v=pX_D-vW7R8M"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13017997/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000103606/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/140022/140022250.jpg?token=949fbdb&api=v2"
 lat: 35.696
 lng: 139.7909
 groups:

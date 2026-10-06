@@ -13,7 +13,6 @@ source_video_title: "【Aぇちゅ〜ぶ in横浜】佐野晶哉の昼ごはん�
 source_url: "https://kosodate-and.net/sano-yokohama-onigiri-cafe"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140103/14096632/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/273290/f3bfe688f7f1461e6c850d99799d374d.jpg?token=8ab335d&api=v2"
 lat: 35.45687412131698
 lng: 139.62910641399517
 members:

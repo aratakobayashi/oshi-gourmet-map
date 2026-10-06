@@ -14,7 +14,6 @@ source_video_title: "SixTONES【ストチューブ ロケ地】北海道のジ�
 source_url: "https://kosodate-and.net/sixtones-genghis-khan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1081974/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219868/156d2a0c46ac86f9943c6ef096c7cdd3.jpg?token=693b16e&api=v2"
 lat: 43.0511219
 lng: 141.3350833
 members:

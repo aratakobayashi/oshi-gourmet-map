@@ -13,7 +13,6 @@ source_video_title: "トークィーンズ【永瀬廉ロケ地】カフェレ�
 source_url: "https://kosodate-and.net/talkqueens-ren-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13025901/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/227422/f1fbaee5cb91bff0f843ecdddf1e19c1.jpg?token=16422f7&api=v2"
 lat: 35.64532333791192
 lng: 139.69884008290734
 members:

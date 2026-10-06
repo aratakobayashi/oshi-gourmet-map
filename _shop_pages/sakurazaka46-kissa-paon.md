@@ -15,7 +15,6 @@ source_video_url: "https://www.youtube.com/watch?v=yZ3p3O_X_x0"
 source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
 group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131004/13008444/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/342286/9b48c898e37894bae6d14fbfe21b5210.jpg?token=829e740&api=v2"
 source_type: "tv"
 lat: 35.6481
 lng: 139.6291

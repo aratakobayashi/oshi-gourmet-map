@@ -12,7 +12,6 @@ source_video_title: "【キントレ 沖縄】タコライスはどこ？永瀬�
 source_url: "https://kosodate-and.net/kintore-renkai-taco-rice"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470302/47011602/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/279517/8f67fa0cdb42268522b1d0563813f9c1.jpg?token=e979d91&api=v2"
 lat: 26.453290810803317
 lng: 127.9172851594796
 members:

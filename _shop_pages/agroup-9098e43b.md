@@ -12,7 +12,6 @@ source_video_title: "Aぇ! group【Aぇちゅ〜ぶ】高級中華料理店は�
 source_url: "https://kosodate-and.net/agroup-chinese-dameyo"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13290682/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/290717/3111be651ce71267496088b7da504890.jpg?token=fe2f7c7&api=v2"
 lat: 35.6618167387185
 lng: 139.73550628421
 members:

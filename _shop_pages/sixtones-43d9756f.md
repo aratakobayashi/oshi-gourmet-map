@@ -14,7 +14,6 @@ source_video_title: "【6SixTONES シクスト】二宮和也との担々麺 麻
 source_url: "https://kosodate-and.net/6sixtones-nino-chinese"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13291567/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348391/a7784dd940e6de9e1dc55d471525dab8.jpg?token=2855256&api=v2"
 lat: 35.6596917
 lng: 139.7412077
 members:

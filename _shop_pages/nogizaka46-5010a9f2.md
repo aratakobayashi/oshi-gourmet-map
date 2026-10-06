@@ -11,7 +11,6 @@ address: "大阪市中央区道頓堀１丁目７−２４"
 source_video_title: "乃木坂配信中（山下美月）"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27092198/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/89008/89008069.jpg?token=0af9006&api=v2"
 lat: 34.6685063
 lng: 135.5032623
 groups:

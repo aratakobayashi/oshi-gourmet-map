@@ -12,7 +12,6 @@ nearest_station: "三沢駅 徒歩11分"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aomori/A0203/A020303/2006664/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339001/8b4cd0bf7a267ea907d96471056725b9.jpg?token=199ea9d&api=v2"
 lat: 40.6632544
 lng: 141.3544941
 groups:

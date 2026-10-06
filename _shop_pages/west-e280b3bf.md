@@ -13,7 +13,6 @@ source_video_title: "喫茶と濵田。#007"
 source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13250955/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352207/f5f5c5533f2a82ea3f59b8f0103071a9.jpg?token=2c337d5&api=v2"
 source_type: "youtube"
 lat: 35.7105571
 lng: 139.636261

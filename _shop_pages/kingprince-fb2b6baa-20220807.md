@@ -13,7 +13,6 @@ source_video_title: "【キンプる元旦SP】岸優太＆神宮寺勇太が訪
 source_url: "https://kosodate-and.net/kinpru-wyuta-nagoya-udon"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230106/23015873/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55319/55319988.jpg?token=4eb6023&api=v2"
 lat: 35.161491578144854
 lng: 136.93641522111835
 members:

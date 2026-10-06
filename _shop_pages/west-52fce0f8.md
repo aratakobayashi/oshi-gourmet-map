@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2023-09-05 中間淳�
 source_url: "https://ameblo.jp/ituki07/entry-12818403654.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131907/13255518/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/280649/ea3ab2cc28bb0d85c0e8cd7a40859992.jpg?token=02fd96d&api=v2"
 source_type: "tv"
 lat: 35.7010053
 lng: 139.6030934

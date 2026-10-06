@@ -12,7 +12,6 @@ source_video_title: "【キントレ】道の駅3品クッキングはどこ？�
 source_url: "https://kosodate-and.net/kintore-michinoeki-shizuoka"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2204/A220402/22022051/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/345343/3ac6cf5740fdb97083bb988950a5fd6b.jpg?token=2b54acd&api=v2"
 lat: 35.3450964
 lng: 138.9502278
 members:

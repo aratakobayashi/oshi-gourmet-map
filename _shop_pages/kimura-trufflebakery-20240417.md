@@ -13,7 +13,6 @@ visited_date: "2024-04-17"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%83%91%E3%83%B3"
 group: "kimura"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13229246/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/121123/121123710.jpg?token=a20e364&api=v2"
 lat: 35.6469025
 lng: 139.652531
 members:

@@ -13,7 +13,6 @@ source_video_title: "【トークィーンズロケ地】木村拓哉にウイ�
 source_url: "https://kosodate-and.net/talkqueens-kimura-restaurant"
 group: "smap"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13269295/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/170956/be3f82efc3904cff5f36781772b9c044.jpg?token=48581b7&api=v2"
 lat: 35.67926637870787
 lng: 139.73692046438526
 members:

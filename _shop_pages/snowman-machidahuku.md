@@ -15,7 +15,6 @@ source_video_title: "【すのちゅーぶ】フクロウカフェ町田「Rapac
 source_video_url: "https://www.youtube.com/watch?v=UhK_38vVRCU"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13054257/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/245071/c3ae92bd598b21d2a4206d8e355642a2.jpg?token=eebcfd2&api=v2"
 lat: 35.5390964
 lng: 139.4480922
 members:

@@ -13,7 +13,6 @@ source_video_title: "【Aぇちゅ〜ぶ in横浜】末澤誠也のたい焼き�
 source_url: "https://kosodate-and.net/sue-yokohama-taiyaki"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140101/14003788/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/180790/2185ac387a4b244bb35a0909b1812563.jpg?token=1017546&api=v2"
 lat: 35.46479237880692
 lng: 139.62021325230072
 members:

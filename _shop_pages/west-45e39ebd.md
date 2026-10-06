@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2022-08-09（小瀧望
 source_url: "https://www.activitv.com/entry/ikisugisan_220809-3/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131709/13250004/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349310/b716051635ed19521e859a9df10c02dd.jpg?token=ee28059&api=v2"
 source_type: "tv"
 lat: 35.64145973789905
 lng: 139.65069348290206

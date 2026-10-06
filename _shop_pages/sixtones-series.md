@@ -13,7 +13,6 @@ source_video_title: "【ゴールデンストーンズ】担々麺はどこ？�
 source_url: "https://kosodate-and.net/golden-sixtones-tantanmen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13246575/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/165408/d2cd0aec1ee90235c6114c130fb69c39.jpg?token=0cecb3d&api=v2"
 lat: 35.6596917
 lng: 139.7412077
 members:

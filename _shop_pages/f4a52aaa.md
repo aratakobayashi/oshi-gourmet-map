@@ -10,7 +10,6 @@ address: "神奈川県横浜市中区山下町"
 nearest_station: "元町・中華街"
 group: "west"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14001194/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339295/98606756a6ab836384917f121e1c6b70.jpg?token=a26d061&api=v2"
 source_type: "tv"
 lat: 35.443084088828826
 lng: 139.64571488206354

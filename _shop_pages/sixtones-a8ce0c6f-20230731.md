@@ -13,7 +13,6 @@ source_video_title: "SixTONES【ストチューブロケ地】新宿のパン屋
 source_url: "https://kosodate-and.net/sixtones-chiipan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/36333/36333784.jpg?token=132ea14&api=v2"
 lat: 35.6921592
 lng: 139.7006065
 members:

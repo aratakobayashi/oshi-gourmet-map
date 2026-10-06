@@ -12,7 +12,6 @@ source_video_title: "横山会【ラスト松竹座前夜祭】大阪の黒毛�
 source_url: "https://kosodate-and.net/yokoyamakai-shochikuza-osaka"
 group: "agroup"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270201/27004659/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/110747/110747716.jpg?token=f1642d4&api=v2"
 lat: 34.67890373718826
 lng: 135.49914277608949
 members:

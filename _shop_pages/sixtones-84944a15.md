@@ -12,7 +12,6 @@ source_video_title: "朝ごはんを食べに入ったお店です。"
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2023/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13020836/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185020/977546ed7c0b9a2d8d248f140ea0411b.jpg?token=6c99b95&api=v2"
 lat: 35.666291
 lng: 139.769449
 members:

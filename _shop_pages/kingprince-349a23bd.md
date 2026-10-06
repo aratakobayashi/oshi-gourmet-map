@@ -12,7 +12,6 @@ source_video_title: "キントレ【永瀬廉＆髙橋海人ロケ地】米と�
 source_url: "https://kosodate-and.net/kintore-menu-kome-steak"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13061833/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352233/bc807674e7fa3d140acd2f068af0e0a8.jpg?token=79b153c&api=v2"
 lat: 35.704828348694214
 lng: 139.7450256746378
 members:

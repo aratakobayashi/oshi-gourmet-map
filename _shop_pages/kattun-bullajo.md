@@ -12,7 +12,6 @@ source_video_title: "【亀梨和也チャンネル】渋谷のステーキハ�
 source_url: "https://kosodate-and.net/kame-steak-sibuya"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13159985/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/322374/fbcf27ea024b260b79142938b9a08731.jpg?token=1e39a1d&api=v2"
 lat: 35.66263853790045
 lng: 139.69730868308332
 members:

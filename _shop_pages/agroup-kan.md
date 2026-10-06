@@ -12,7 +12,6 @@ source_video_title: "【Aぇちゅ〜ぶ ロケ地】Aぇǃgroup＆西村拓哉�
 source_url: "https://kosodate-and.net/agroup-nishitaku-oden"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130802/13289968/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/276758/bf858f2402afd22269fe488e37dc0e09.jpg?token=6142cdb&api=v2"
 lat: 35.667880478718224
 lng: 139.74672835426338
 members:

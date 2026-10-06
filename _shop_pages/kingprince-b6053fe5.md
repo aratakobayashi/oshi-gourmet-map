@@ -13,7 +13,6 @@ source_video_title: "【VS魂ロケ地】渋谷ロクシタン・ハンズ・MEG
 source_url: "https://kosodate-and.net/vsdamashii-loccitane-hands"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13225574/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356028/0f9cad08d21fdd9d7754a2cf601a5b49.jpg?token=71a11ca&api=v2"
 lat: 35.65931963790337
 lng: 139.69989888304798
 members:

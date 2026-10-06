@@ -14,7 +14,6 @@ source_video_title: "timelesz project -REAL- VOL2 東京編（2026年2月Netflix
 source_url: "https://timeleszportal.com/archives/1173"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13038895/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/224629/92ed8daf05893fc770f90f79bd7f5bad.jpg?token=b73164a&amp;api=v2"
 lat: 35.6600266
 lng: 139.7238075
 members:

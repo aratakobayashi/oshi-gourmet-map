@@ -13,7 +13,6 @@ source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270304/27139805/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/232335/3d5e256257fe372d1d7c7a2e38788c9e.jpg?token=188e581&api=v2"
 lat: 34.7030541
 lng: 135.5209944
 members:

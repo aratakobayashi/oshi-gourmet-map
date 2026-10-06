@@ -12,7 +12,6 @@ source_video_title: "【キントレ当たり前レストラン】マルゲリ�
 source_url: "https://kosodate-and.net/kintore-atarimae-margherita"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13103245/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/4321/4321528.jpg?token=20d7179&api=v2"
 lat: 35.6472148253174
 lng: 139.69526428266843
 members:

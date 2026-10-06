@@ -12,7 +12,6 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾！韓�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-hangsome"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13275101/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/249805/e4349d16d28cd766f362811c7f47108f.jpg?token=7f25a07&api=v2"
 lat: 35.66464993791886
 lng: 139.75913728306028
 members:

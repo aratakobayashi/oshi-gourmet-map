@@ -14,7 +14,6 @@ youtube_id: "iymfDPJEDzE"
 source_video_title: "【それスノ】それスノ学園ロケ地の中学校は『OKUTAMA＋』SnowMan聖地巡礼"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1330/A133004/13184284/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/46295/46295145.jpg?token=c518dc3&api=v2"
 lat: 35.8100778
 lng: 139.0954588
 members:

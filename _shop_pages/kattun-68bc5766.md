@@ -12,7 +12,6 @@ source_video_title: "何するカトゥーン？何カツン【亀梨和也＆�
 source_url: "https://kosodate-and.net/nanisurukattun-kaiten-sushi"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13296103/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/252623/bcfe97854afcc4ed9edc8389de4ed5d2.jpg?token=4eb7084&api=v2"
 lat: 35.66840531870457
 lng: 139.704890724298
 members:

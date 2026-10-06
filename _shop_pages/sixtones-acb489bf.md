@@ -14,7 +14,6 @@ source_video_title: "【だが、情熱はあるロケ地】最終回で山里�
 source_url: "https://kosodate-and.net/daga-jyounetsu-yamazato-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13014224/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/183805/bd782012b7debe67c9334846c245f668.jpg?token=178282a&api=v2"
 lat: 35.6600266
 lng: 139.7238075
 members:

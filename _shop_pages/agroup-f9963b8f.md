@@ -13,7 +13,6 @@ source_video_title: "Aぇ! group【Aぇちゅ〜ぶ】しゃぶしゃぶはど�
 source_url: "https://kosodate-and.net/agroup-shabushabu"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13109022/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219089/c0d9edea740c24d9dc438c90afa2bcec.jpg?token=3e7f046&api=v2"
 lat: 35.664085937910166
 lng: 139.73074418307448
 members:

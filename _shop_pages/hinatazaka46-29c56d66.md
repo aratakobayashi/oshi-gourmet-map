@@ -10,7 +10,6 @@ nearest_station: "麻布十番駅 徒歩6分"
 source_video_title: "日向坂で会いましょう"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13097610/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/249080/36fc1eaa86a9bb8dc8282df74ad1078f.jpg?token=faea46a&api=v2"
 lat: 35.6528589687238
 lng: 139.7342804641204
 groups:

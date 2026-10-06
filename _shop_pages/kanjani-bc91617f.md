@@ -11,7 +11,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - 若駒∞～札幌⑤★3�
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12494981250.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010105/1065833/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/255332/48600e3b18c162fe3c9eb47f737daf49.jpg?token=940e49d&api=v2"
 source_type: "blog"
 lat: 43.06980543371293
 lng: 141.32047005676478

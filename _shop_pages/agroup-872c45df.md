@@ -12,7 +12,6 @@ source_video_title: "あっちこっちAぇ!【Aぇ! group ロケ地】津軽名
 source_url: "https://kosodate-and.net/agroup-apple-ramen-aomori"
 group: "agroup"
 tabelog_url: "https://tabelog.com/aomori/A0201/A020101/2005902/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/139175/ddc31da731fc9d094dd00ea3d3948171.jpg?token=5dc302c&api=v2"
 lat: 40.705823645783944
 lng: 140.58018059456705
 members:

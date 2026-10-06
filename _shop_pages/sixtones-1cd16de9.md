@@ -13,7 +13,6 @@ source_video_title: "SixTONES【ストチューブロケ地】アポなし旅伊
 source_url: "https://kosodate-and.net/sixtones-ikaho-gohan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10022984/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/252626/d792ad960d975d29a3780e8f4014042b.jpg?token=91867fa&api=v2"
 lat: 36.490004
 lng: 138.922353
 members:

@@ -11,7 +11,6 @@ address: "港区南青山３丁目１８−１９"
 source_video_title: "夏のFree&Easy　白石 個人PV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13148134/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/272307/e7eb4b05db2d9094b48ee7182b2ef1d5.jpg?token=9819140&api=v2"
 lat: 35.6665612
 lng: 139.7155917
 groups:

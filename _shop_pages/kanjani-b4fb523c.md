@@ -11,7 +11,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - 鉄板呑み屋ブッチ�
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12560728048.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/osaka/A2705/A270502/27105736/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/236418/b54f2ff8ede198a3a9448ef26cf2d2ce.jpg?token=43bbf9b&api=v2"
 source_type: "blog"
 lat: 34.44661217809563
 lng: 135.35617072500511

@@ -12,7 +12,6 @@ source_video_title: "【SixTONES】緊急で動画回してますwおいしい�
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2023/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/36333/36333784.jpg?token=132ea14&api=v2"
 lat: 35.6931613
 lng: 139.7081096
 members:

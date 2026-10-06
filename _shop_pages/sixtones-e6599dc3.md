@@ -13,7 +13,6 @@ source_video_title: "SixTONES【ストチューブ】名古屋の焼肉屋さん
 source_url: "https://kosodate-and.net/sixtones-nagoya-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230104/23060894/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/55958/55958056.jpg?token=017aac1&api=v2"
 lat: 35.21947
 lng: 136.981718
 members:

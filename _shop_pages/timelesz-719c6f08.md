@@ -14,7 +14,6 @@ source_video_title: "タイムレスマン「アーユーハングリーマン�
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13311076/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/323816/c25666a80314f6b61f3736a5b7fd00f9.jpg?token=f72a63a&api=v2"
 lat: 35.6564572
 lng: 139.7481
 members:

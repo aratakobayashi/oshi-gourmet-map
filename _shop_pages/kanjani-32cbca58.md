@@ -10,7 +10,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - ツナグ茶房〜俊徳�
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12960510668.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/osaka/A2707/A270703/27123477/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/163459/6904d812e18df7c286dccf93dafbf98b.jpg?token=db650a0&api=v2"
 source_type: "blog"
 lat: 34.6581056
 lng: 135.5726352

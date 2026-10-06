@@ -13,7 +13,6 @@ source_video_title: "SixTONES【お告げに従い…開運の旅2025~最終話�
 source_url: "https://fananablog.com/sixtones-seichi-youtube/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337129/125c29c5bafcb9b6a3d3977f506730e9.jpg?token=8b74b68&api=v2"
 lat: 35.3000475
 lng: 139.4822889
 members:

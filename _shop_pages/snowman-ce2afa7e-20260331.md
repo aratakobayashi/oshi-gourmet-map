@@ -14,7 +14,6 @@ youtube_id: "ih8tKyF5YBs"
 source_video_title: "【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼"
 group: "snowman"
 tabelog_url: "https://tabelog.com/ehime/A3801/A380103/38000744/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/211098/52d911854cd68e5321be8a481d7ff60a.jpg?token=7a07ba7&api=v2"
 lat: 33.7579
 lng: 132.7039
 members:

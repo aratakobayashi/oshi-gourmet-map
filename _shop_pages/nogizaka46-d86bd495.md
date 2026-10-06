@@ -11,7 +11,6 @@ address: "伊東市八幡野１０６４−６"
 source_video_title: "錆びたコンパスMV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22000369/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/133066/133066830.jpg?token=55fe216&api=v2"
 lat: 34.878274
 lng: 139.085521
 groups:

@@ -12,7 +12,6 @@ source_video_title: "ハマちゃんとコージのお上手です #43（2025年
 source_url: "https://fananablog.com/ojozu-seichi/"
 group: "west"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12004380/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/161245/161245590.jpg?token=345b977&api=v2"
 source_type: "tv"
 lat: 35.37799468897245
 lng: 139.96688830118094

@@ -14,7 +14,6 @@ youtube_id: "XIdVCsg7WB8"
 source_video_title: "【1人はしご酒】港区で4軒、1人ひたすらに酒場をはしごする女"
 group: "shiori"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13255665/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/283341/809f53fec57b0da22ef572b539fc40e9.jpg?token=ff0e59a&api=v2"
 lat: 35.646034337914315
 lng: 139.7077302829083
 members:

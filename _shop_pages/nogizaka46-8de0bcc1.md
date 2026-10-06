@@ -11,7 +11,6 @@ address: "愛知県名古屋市西区那古野１丁目３６−５２"
 source_video_title: "乃木坂配信中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168572/21634b7898de473c111aa309c9c5f67f.jpg?token=c20e088&api=v2"
 lat: 35.109589
 lng: 136.823719
 groups:

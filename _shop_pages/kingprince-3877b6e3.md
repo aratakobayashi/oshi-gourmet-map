@@ -13,7 +13,6 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメワールドツ
 source_url: "https://kosodate-and.net/vsdamashii-kishi-keranchim"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13271829/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/176956/3cabe84e574e7100bf354b56cbf46c2f.jpg?token=99e6e3b&api=v2"
 lat: 35.69993563788003
 lng: 139.70757918345282
 members:

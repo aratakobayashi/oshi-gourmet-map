@@ -14,7 +14,6 @@ source_video_title: "なにわ男子のどっち派 (2025-03-21)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131103/13281428/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214537/7a2652a7c18d3441df66d6bf9afbf83c.jpg?token=d2ab52d&api=v2"
 lat: 35.7030395
 lng: 139.7927535
 members:

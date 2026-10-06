@@ -13,7 +13,6 @@ source_video_title: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロ�
 source_url: "https://kosodate-and.net/puremise-renkai-shiga"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shiga/A2501/A250101/25005390/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/167078/4eb95eecca68a1178034e969044056a4.jpg?token=feacf31&api=v2"
 lat: 35.0123203
 lng: 135.8562216
 members:

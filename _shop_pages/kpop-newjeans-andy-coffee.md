@@ -12,7 +12,6 @@ source_video_title: "Moments from Summer in Tokyo（2024年9月公開）"
 source_url: "https://nomnom-korea.com/2024/09/08/minji-hanni-daikanyama-cafe/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13297856/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358146/555f2a326c11ac89f017d454dc151166.jpg?token=3a293a7&api=v2"
 lat: 35.6507318
 lng: 139.7046751
 members:

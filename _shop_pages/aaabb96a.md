@@ -13,7 +13,6 @@ source_video_title: "何するカトゥーン?（USJ打ち上げ / 亀梨和也�
 source_url: "https://kosodate-and.net/nanisurukattun-usj-hotel/"
 group: "kattun"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270403/27114246/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340560/5fb35529c5bfb1776308fcfc3f98a97b.jpg?token=46cc937&api=v2"
 source_type: "tv"
 lat: 34.66158883717826
 lng: 135.43322087596076

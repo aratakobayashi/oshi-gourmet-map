@@ -13,7 +13,6 @@ visited_date: "2025-06-13"
 youtube_id: "9g0At0uaJmc"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13305527/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/326465/62143a3fcd8ccef867dcfb156f872b00.jpg?token=7d5e431&api=v2"
 lat: 35.6620752
 lng: 139.6974957
 members:

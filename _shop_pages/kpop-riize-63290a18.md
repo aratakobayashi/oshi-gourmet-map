@@ -13,7 +13,6 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/14860.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13028670/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/331018/28bdf7e7e9c9c3d998fad444164a6867.jpg?token=4a7ff0d&api=v2"
 lat: 35.669419
 lng: 139.7356439
 members:

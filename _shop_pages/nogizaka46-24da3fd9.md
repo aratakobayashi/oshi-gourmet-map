@@ -13,7 +13,6 @@ source_video_title: "乃木坂配信中（さくさんぽ）"
 source_url: "https://senublog.com/nogizaka46-sanctuary-sakusanpo-curry-restaurant/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13040204/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/139895/139895668.jpg?token=8672cbf&amp;api=v2"
 source_type: "tv"
 lat: 35.69633909870481
 lng: 139.76137237454057

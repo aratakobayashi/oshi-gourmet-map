@@ -12,7 +12,6 @@ source_video_title: "LeeKnow VLOG（大阪）"
 source_url: "https://ameblo.jp/u-travel2/entry-12876132978.html"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27105974/"
-thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 lat: 34.6582847
 lng: 135.5057756
 members:

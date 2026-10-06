@@ -12,7 +12,6 @@ source_video_title: "ジゼル 高円寺来訪"
 source_url: "https://r.gnavi.co.jp/11t9rkgn0000/"
 group: "kpop_aespa"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13305396/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359858/f95cb89baaa4d2240058390987cb2eba.jpg?token=29fbc45&api=v2"
 lat: 35.7073164
 lng: 139.6548546
 members:

@@ -15,7 +15,6 @@ source_video_title: "#268【朝食シリーズ!!】静かに朝を迎える事�
 source_video_url: "https://www.youtube.com/watch?v=rdf_IJ0K9AU"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131710/13046262/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340552/331501d744466e7b7e8924dc7b1e0a0f.jpg?token=42e7257&api=v2"
 lat: 35.631
 lng: 139.7149
 members:

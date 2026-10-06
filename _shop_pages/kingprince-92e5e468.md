@@ -12,7 +12,6 @@ source_video_title: "キントレ バイトレ【髙橋海人 ロケ地】スタ
 source_url: "https://kosodate-and.net/kintore-kaito-starbucks"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13217514/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277183/7a3c92f112226085c873eb42caa78d04.jpg?token=7dca236&api=v2"
 lat: 35.63341845873057
 lng: 139.71675712393633
 members:

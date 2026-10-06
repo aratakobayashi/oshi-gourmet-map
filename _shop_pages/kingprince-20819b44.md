@@ -13,7 +13,6 @@ source_video_title: "【キントレバイトレロケ地】髙橋海人がバ�
 source_url: "https://kosodate-and.net/kintore-kaito-domino"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131713/13239372/"
-thumbnail_url: "https://tblg.k-img.com/restaurant/images/Rvw/238507/200x200_square_d138303f6b8e5babe4cd602bee3c514c.jpg"
 lat: 35.5850308787583
 lng: 139.70736420345415
 members:

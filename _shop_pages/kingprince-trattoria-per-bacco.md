@@ -13,7 +13,6 @@ source_video_title: "東京タワー【永瀬廉ロケ地】第1話のレスト�
 source_url: "https://kosodate-and.net/tokyotower-ren-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13258061/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/309315/ecec5489dee34325f8d4988d696523c6.jpg?token=e600026&api=v2"
 lat: 35.66973063790441
 lng: 139.72386638313634
 members:

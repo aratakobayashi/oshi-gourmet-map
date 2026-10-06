@@ -12,7 +12,6 @@ source_video_title: "Stray Kids 2023年ドームツアー来日時 Instagram"
 source_url: "https://ameblo.jp/u-travel2/entry-12876132978.html"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270201/27000782/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/193476/524e1a7d9394770156f76aab77a435b0.jpg?token=41a1923&api=v2"
 lat: 34.6813858
 lng: 135.4834849
 members:

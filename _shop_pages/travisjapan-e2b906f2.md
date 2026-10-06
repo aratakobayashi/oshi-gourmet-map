@@ -13,7 +13,6 @@ source_video_title: "私たちが恋する理由第7話【七五三掛龍也ロ�
 source_url: "https://kosodate-and.net/koisuru-shime-cafe-izakaya"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13250546/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361877/2a46e0acda4d82f59ae7fbdd7aaeabe5.jpg?token=084dd03&api=v2"
 lat: 35.684395098719406
 lng: 139.78336028440452
 members:

@@ -14,7 +14,6 @@ youtube_id: "oEsMgH5QhFQ"
 source_video_title: "【すのちゅーぶ】東久留米「うなぎ川松」決起集会で食べたメニューは？予約方法は？SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132802/13197749/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347941/b3f8df9d1fe786d93890699824056dfe.jpg?token=59a1f7b&api=v2"
 lat: 35.7433534
 lng: 139.513935
 members:

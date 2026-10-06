@@ -13,7 +13,6 @@ source_video_title: "King & Princeキンプリ『STARRING』ビジュアルの�
 source_url: "https://kosodate-and.net/kinpri-starring-renkai"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130102/13226770/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/235590/9c313d34d601bec3095f2d206c925859.jpg?token=2e675bd&api=v2"
 lat: 35.6790703
 lng: 139.7652988
 members:

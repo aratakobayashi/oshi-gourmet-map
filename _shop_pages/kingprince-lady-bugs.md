@@ -12,7 +12,6 @@ source_video_title: "キントレ【髙橋海人ロケ地】お花屋さんは�
 source_url: "https://kosodate-and.net/kintore-kaito-flower-shop"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13255870/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/211265/187c566c7bccfe158fa2b5f289f21bce.jpg?token=fc3fe3a&api=v2"
 lat: 35.6638493
 lng: 139.6914062
 members:

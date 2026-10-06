@@ -12,7 +12,6 @@ nearest_station: "東尾久三丁目駅 徒歩2分"
 visited_date: "2023-10-25"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13059703/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/259102/d4681aa165d9e817d550290566c9d9c4.jpg?token=e535984&api=v2"
 lat: 35.7464
 lng: 139.7744
 members:

@@ -12,7 +12,6 @@ source_video_title: "BTS 東京訪問（2015年）"
 source_url: "https://grapeejapan.com/99849"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13170532/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362947/3f8024cc53536be344dc2a395d66105a.jpg?token=9c45484&api=v2"
 lat: 35.6624568
 lng: 139.7334981
 members:

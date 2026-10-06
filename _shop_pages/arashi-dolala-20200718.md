@@ -13,7 +13,6 @@ visited_date: "2020-07-18"
 source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13228721/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/97772/97772297.jpg?token=d514dae&api=v2"
 source_type: "tv"
 lat: 35.615509
 lng: 139.674159

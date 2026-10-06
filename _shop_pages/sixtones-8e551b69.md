@@ -14,7 +14,6 @@ source_video_title: "【中丸銀河ちゃんねる】ジェシー＆髙地優�
 source_url: "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13271105/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/353695/8de51f65974701d25aaf610254b0bf00.jpg?token=e9eaa2d&api=v2"
 lat: 35.6945429
 lng: 139.7027105
 members:

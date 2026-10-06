@@ -11,7 +11,6 @@ address: "富山県富山市羽根１１２−１"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/toyama/A1601/A160101/16006021/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341826/f9a2e26075f0dcde2351fef41ddfa6b2.jpg?token=4055a0a&api=v2"
 lat: 36.6785185
 lng: 137.1848555
 groups:

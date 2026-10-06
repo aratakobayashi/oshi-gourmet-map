@@ -12,7 +12,6 @@ source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-tochigi/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9012617/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/157482/157482198.jpg?token=0d495b8&api=v2"
 lat: 36.29108136826427
 lng: 139.56416847068627
 groups:

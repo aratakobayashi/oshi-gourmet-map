@@ -14,7 +14,6 @@ source_video_title: "トークィーンズ【京本大我ロケ地】カフェ�
 source_url: "https://kosodate-and.net/talkqueens-taiga-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131814/13201663/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/145327/145327359.jpg?token=26b12a9&api=v2"
 lat: 35.6397064
 lng: 139.6115512
 members:

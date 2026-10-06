@@ -12,7 +12,6 @@ source_video_title: "【なにわからAぇ! 風吹かせます！】商店街�
 source_url: "https://kosodate-and.net/naniwa-a-kansaiisan"
 group: "agroup"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270302/27085344/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/239901/ba6cfe502eb39ce8cf03f52fe70431be.jpg?token=69f170f&api=v2"
 lat: 34.71978158261502
 lng: 135.48439114041005
 members:

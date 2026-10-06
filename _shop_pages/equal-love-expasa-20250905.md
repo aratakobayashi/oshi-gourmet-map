@@ -12,7 +12,6 @@ visited_date: "2025-09-05"
 youtube_id: "o9YsRLOqsCI"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1408/A140801/14041677/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/318093/7bb9e31fbf9e20e1b5d8e449b81fb711.jpg?token=c81645a&api=v2"
 lat: 35.4324003
 lng: 139.4025389
 members:

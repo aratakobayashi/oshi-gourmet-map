@@ -14,7 +14,6 @@ source_video_title: "いたジャン！1時間スペシャル（2025年8月20日
 source_url: "https://oshikatsu-time.com/itadaki-french-fries/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010302/1079815/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/346239/f13e49e6ea3f08f50d5649ab1f7d6d89.jpg?token=ac1f722&amp;api=v2"
 source_type: "tv"
 lat: 43.0391721
 lng: 141.4749065

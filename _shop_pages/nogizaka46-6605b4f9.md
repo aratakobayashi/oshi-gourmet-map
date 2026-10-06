@@ -12,7 +12,6 @@ nearest_station: "飯能駅 徒歩5分"
 source_video_title: "白米様 MV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/saitama/A1106/A110601/11050368/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112551/112551306.jpg?token=7d2d031&api=v2"
 lat: 35.853272
 lng: 139.317416
 groups:

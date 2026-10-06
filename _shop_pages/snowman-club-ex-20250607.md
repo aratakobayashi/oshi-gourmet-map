@@ -14,7 +14,6 @@ youtube_id: "xZuLeS4N4Ig"
 source_video_title: "【SnowMan】ドームツアーRAYS深澤辰哉オープニング撮影ロケ地は品川のどこ？"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13190566/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/45856/7464531d13fd1b7104c560430a5cc72c.jpg?token=71584be&api=v2"
 lat: 35.6349739
 lng: 139.7357164
 members:

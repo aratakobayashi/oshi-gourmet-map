@@ -12,7 +12,6 @@ source_video_title: "寺西拓人 ハンバーガーまとめ"
 source_url: "https://oshikatsu-time.com/timelesz-teranishitakuto-hamburger/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13227776/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/179610/64e5b5bba4284abcc25b94703e63055d.jpg?token=4916a62&api=v2"
 lat: 35.6940736
 lng: 139.7025304
 members:

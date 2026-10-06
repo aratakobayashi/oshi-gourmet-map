@@ -13,7 +13,6 @@ source_video_title: "厨房のありす【永瀬廉ロケ地】倖生と松浦�
 source_url: "https://kosodate-and.net/alice-ren-birthday-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13001209/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/78240/78240862.jpg?token=01ea39d&api=v2"
 lat: 35.66995081341458
 lng: 139.71612594774743
 members:

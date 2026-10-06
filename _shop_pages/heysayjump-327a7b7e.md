@@ -12,7 +12,6 @@ source_video_title: "いただきハイジャンプ 2018.06.30・07.07 伊豆箱
 source_url: "https://medax.hatenablog.com/entry/2018/07/07/120000"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22021371/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/279453/a7a1e7785f6bbbf40d02122b5214a7e5.jpg?token=56a4ed8&api=v2"
 lat: 34.972512
 lng: 139.098884
 members:

@@ -13,7 +13,6 @@ source_video_title: "KinKi Kidsのブンブブーン"
 source_url: "https://www.activitv.com/entry/category/tv/bunbuboon_/"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13042979/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/138371/138371991.jpg?token=9658d35&api=v2"
 lat: 35.6667236
 lng: 139.7188607
 members:

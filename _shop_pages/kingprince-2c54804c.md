@@ -13,7 +13,6 @@ source_video_title: "キントレ ピンキリin静岡【永瀬廉＆劇団ひ�
 source_url: "https://kosodate-and.net/kintore-pinkiri-ren-unagi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22002124/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/193023/e22505bbf26f34ffbe52cdb6b19ae6ed.jpg?token=c912efd&api=v2"
 lat: 35.13759576885198
 lng: 139.10917110935392
 members:

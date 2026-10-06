@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2023-03-28（小瀧望
 source_url: "https://www.activitv.com/entry/ikisugisan_230328_kin/"
 group: "west"
 tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47022342/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/103955/103955844.jpg?token=47de63a&api=v2"
 source_type: "tv"
 lat: 26.213576520882842
 lng: 127.68893290721833

@@ -13,7 +13,6 @@ source_video_title: "【亀梨和也チャンネル】藤井流星との大井�
 source_url: "https://kosodate-and.net/kame-ryusei-izakaya"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131501/13258533/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168809/2afa9fccf2c9e15914d5a8ad2a8cd582.jpg?token=15309d4&api=v2"
 lat: 35.607602437947726
 lng: 139.73600868250028
 members:

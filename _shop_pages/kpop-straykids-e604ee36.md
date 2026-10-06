@@ -12,7 +12,6 @@ source_video_title: "スンミン Instagram"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13019010/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355494/403acf90aa9ade3590ea3a31bcc63101.jpg?token=e26f8fe&api=v2"
 lat: 35.7111333
 lng: 139.7963683
 members:

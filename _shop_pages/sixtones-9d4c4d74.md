@@ -14,7 +14,6 @@ source_video_title: "ジェシーが札幌のパン屋さんで撮影はいつ�
 source_url: "https://kosodate-and.net/jesse-sapporo-panya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1050116/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362045/e2b50ed18754ea9d024d1a91e5af8e0e.jpg?token=48e6ea5&api=v2"
 lat: 43.0579464
 lng: 141.3343126
 members:

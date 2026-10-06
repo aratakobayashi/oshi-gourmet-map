@@ -12,7 +12,6 @@ source_video_title: "SixTONES【アポなし旅 2024夏～05～】爆笑ドラ�
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2024/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9003268/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/341730/c11a4c01a85a6ff5f2f35157e2ff17c0.jpg?token=8e568f5&api=v2"
 lat: 36.3170868
 lng: 139.6192795
 members:

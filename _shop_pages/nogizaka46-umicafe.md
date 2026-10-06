@@ -11,7 +11,6 @@ address: "鎌倉市由比ガ浜2-16-1"
 source_video_title: "インフルエンサーTypeC 齋藤個人PV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14010097/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/140210/140210973.jpg?token=24ff4c9&api=v2"
 lat: 35.3137738
 lng: 139.5410038
 groups:

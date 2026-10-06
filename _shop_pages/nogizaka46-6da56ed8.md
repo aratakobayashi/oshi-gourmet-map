@@ -12,7 +12,6 @@ nearest_station: "美川駅 徒歩19分"
 source_video_title: "乃木坂配信中　さくさんぽ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/ishikawa/A1702/A170203/17005151/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/294208/8559b29faf94e9def1188dc5afe66bfd.jpg?token=4d5bffa&api=v2"
 lat: 36.49162012716121
 lng: 136.50040988485952
 groups:

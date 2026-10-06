@@ -11,7 +11,6 @@ address: "北海道札幌市中央区南５条西３-８"
 source_video_title: "乃木坂ってどこ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010103/1023781/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340234/82169e79b53c556c4b39584010bc4b56.jpg?token=d3bac81&api=v2"
 lat: 43.0380928
 lng: 141.3372038
 groups:

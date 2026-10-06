@@ -13,7 +13,6 @@ source_video_title: "イキスギさんについてった 2023-04-11 牛タン�
 source_url: "https://jwest.jp/ikisugi_20230411/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13263819/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/161401/161401492.jpg?token=1e84f66&api=v2"
 source_type: "tv"
 lat: 35.7159557
 lng: 139.7913305

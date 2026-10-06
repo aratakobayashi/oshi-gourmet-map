@@ -14,7 +14,6 @@ source_video_title: "京本会のBBQのお店はどこ？【トラジャ×SixTON
 source_url: "https://kosodate-and.net/kyomotokai-bbq"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13286385/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/217238/ecbf571bbd1cfffedc43b5bafcd20f02.jpg?token=7150110&api=v2"
 lat: 35.6705999
 lng: 139.7159289
 members:

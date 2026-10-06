@@ -12,7 +12,6 @@ nearest_station: "大橋通駅 徒歩2分"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kochi/A3901/A390101/39006303/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/288764/d5def074edcc5d0ed6d7332933a7f6be.jpg?token=974ceaf&api=v2"
 lat: 33.55997
 lng: 133.535951
 groups:

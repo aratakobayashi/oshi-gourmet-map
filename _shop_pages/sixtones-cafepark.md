@@ -14,7 +14,6 @@ source_video_title: "SixTONES - お洒落カフェでトーク"
 source_video_url: "https://www.youtube.com/watch?v=UfW6GByY6Xk"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131810/13263736/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/202742/2ac1794fef79c54d3f5f2480ddc5d88b.jpg?token=7e35088&api=v2"
 lat: 35.6482
 lng: 139.7061
 members:

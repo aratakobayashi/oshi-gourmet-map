@@ -13,7 +13,6 @@ source_video_title: "【ニノさん】元寿司職人が作る究極の玉子�
 source_url: "https://kosodate-and.net/ninosan-ren-tamago"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131810/13176685/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/46554/46554269.jpg?token=fd33868&api=v2"
 lat: 35.66558703870233
 lng: 139.69223758427844
 members:

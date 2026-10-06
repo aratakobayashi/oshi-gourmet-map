@@ -12,7 +12,6 @@ source_video_title: "バンチャン Bubble投稿"
 source_url: "https://ameblo.jp/u-travel2/entry-12876132978.html"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27101583/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/266510/bbbbc9437b4f633a572de5ba3f167795.jpg?token=ede4081&api=v2"
 lat: 34.683921
 lng: 135.5207869
 members:

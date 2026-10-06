@@ -10,7 +10,6 @@ address: "神奈川県小田原市緑町"
 nearest_station: "小田原"
 group: "west"
 tabelog_url: "https://tabelog.com/kanagawa/A1409/A140901/14030491/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/153179/153179172.jpg?token=bb7b9cc&api=v2"
 source_type: "tv"
 lat: 35.255603088796676
 lng: 139.1708630805027

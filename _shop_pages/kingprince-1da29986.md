@@ -12,7 +12,6 @@ source_video_title: "【キンプるロケ地】茨城県の道の駅3品クッ�
 source_url: "https://kosodate-and.net/kinpru-michieki-hitachiomiya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0805/A080503/8017982/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361438/9ff32b6216a34a6d842e9b5d875cc8d4.jpg?token=201cfce&api=v2"
 lat: 36.597208
 lng: 140.413757
 members:

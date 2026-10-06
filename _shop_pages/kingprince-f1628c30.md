@@ -13,7 +13,6 @@ source_video_title: "【キンプリMr.5ロケ地】熱海旅行のカレー屋�
 source_url: "https://kosodate-and.net/kinpri-atami-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22000784/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348206/e01ea206a4f09e2a227b9867c33693ca.jpg?token=2bdd1ae&api=v2"
 lat: 35.0967641
 lng: 139.0736987
 members:

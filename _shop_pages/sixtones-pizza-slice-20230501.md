@@ -13,7 +13,6 @@ source_video_title: "西園寺さんは家事をしない【松村北斗 ロケ�
 source_url: "https://kosodate-and.net/saionji-hokuto-pizza"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13164019/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/235443/5abd5c16a482732681e6800f42f6ee7a.jpg?token=cc70728&api=v2"
 lat: 35.6501019
 lng: 139.7011319
 members:

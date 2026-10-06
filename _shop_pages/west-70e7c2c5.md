@@ -13,7 +13,6 @@ source_video_title: "WEST.聖地巡礼（大阪）濵田以外全員訪問のタ
 source_url: "https://note.com/yui_natade/n/nab20fd49aea6"
 group: "west"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270205/27002900/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/105020/105020956.jpg?token=50e4c9d&api=v2"
 source_type: "blog"
 lat: 34.666303
 lng: 135.5220024

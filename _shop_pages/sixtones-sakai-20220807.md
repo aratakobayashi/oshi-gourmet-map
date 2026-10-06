@@ -14,7 +14,6 @@ source_video_title: "SixTONES髙地優吾＆松村北斗が食べた名古屋の
 source_url: "https://kosodate-and.net/yugohoku-nagoya-gyu"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230105/23077575/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/350674/5c6ecae48c11e8282ac93775c7a43fa8.jpg?token=634de3f&api=v2"
 lat: 35.1593589
 lng: 136.901099
 members:

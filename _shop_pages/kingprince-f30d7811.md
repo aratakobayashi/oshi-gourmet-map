@@ -13,7 +13,6 @@ source_video_title: "キントレ バイトレ【髙橋海人ロケ地】築地�
 source_url: "https://kosodate-and.net/kintore-kaito-takoyaki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13294031/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330754/0391f0f55f4e9b849fafa51e06f50857.jpg?token=14a7d3e&api=v2"
 lat: 35.6650914
 lng: 139.7708281
 members:

@@ -13,7 +13,6 @@ source_video_title: "ヒルナンデス 2018.08.14 新大久保特集"
 source_url: "https://medax.hatenablog.com/entry/2018/08/27/205542"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132701/13136479/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337789/d88b58e95cc5ea7c39556c107740d9bb.jpg?token=b0f71a0&api=v2"
 lat: 35.7046389
 lng: 139.7052761
 members:

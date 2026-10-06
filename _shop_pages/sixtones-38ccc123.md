@@ -14,7 +14,6 @@ source_video_title: "SixTONESライブに浜田雅功が差し入れたまごサ
 source_url: "https://kosodate-and.net/sixtones-hamada-egg-sando"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13231045/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/136451/136451367.jpg?token=9d8742a&api=v2"
 lat: 34.6965666
 lng: 135.4954559
 members:

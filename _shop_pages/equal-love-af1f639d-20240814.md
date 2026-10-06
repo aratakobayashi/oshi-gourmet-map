@@ -13,7 +13,6 @@ visited_date: "2024-08-14"
 youtube_id: "YEfEA3jOgwE"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/fukushima/A0704/A070401/7010400/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/99651/99651592.jpg?token=fcd58d2&api=v2"
 lat: 37.0570275
 lng: 140.8954061
 members:

@@ -12,7 +12,6 @@ source_video_title: "【亀チャンネル】亀梨和也＆渡辺翔太の高�
 source_url: "https://kosodate-and.net/kame-shota-yakiniku"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13222093/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/206936/972de663ce9249307d42d5ad0400fa17.jpg?token=f1c26a2&api=v2"
 lat: 35.66931973791681
 lng: 139.76203118310542
 members:

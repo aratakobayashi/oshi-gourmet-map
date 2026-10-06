@@ -13,7 +13,6 @@ source_video_title: "イキスギさんについてった 2023-07-12 かき氷50
 source_url: "https://jwest.jp/ikisugi_20230712/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13270924/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320737/1ab949bc657951349f7467faa4ac2b5d.jpg?token=1acbe2e&api=v2"
 source_type: "tv"
 lat: 35.7022217
 lng: 139.5803829

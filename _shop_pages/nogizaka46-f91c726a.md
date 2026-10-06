@@ -11,7 +11,6 @@ address: "下関市唐戸町５−５０"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hiroshima/A3401/A340109/34018563/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/44157/44157802.jpg?token=1b5dff5&api=v2"
 lat: 33.957118
 lng: 130.943434
 groups:

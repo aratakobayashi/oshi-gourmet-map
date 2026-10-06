@@ -12,7 +12,6 @@ source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-ryusei1"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270206/27004322/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/185596/8ab7845e52b4c95bdb858b12015416ba.jpg?token=4f2573a&api=v2"
 lat: 34.6532201
 lng: 135.5066201
 members:

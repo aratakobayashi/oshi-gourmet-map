@@ -14,7 +14,6 @@ source_video_title: "【SixTONESストチューブロケ地】横浜中華街の
 source_url: "https://kosodate-and.net/sixtones-chinatown"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14080918/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/139360/139360579.jpg?token=f0e73dd&api=v2"
 lat: 35.4429058
 lng: 139.6514509
 members:

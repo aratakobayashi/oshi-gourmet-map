@@ -12,7 +12,6 @@ source_video_title: "めざましテレビ【末澤誠也＆佐野晶哉 ロケ�
 source_url: "https://kosodate-and.net/mezamashi-sanosue-yakiimo-soft"
 group: "agroup"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11040974/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/275231/d52464af9f92fae01c2648cc248f6930.jpg?token=2169a38&api=v2"
 lat: 35.92245053847233
 lng: 139.48231558702008
 members:

@@ -13,7 +13,6 @@ source_video_title: "timelesz 渋谷PARCOロケ（MARNI企画 2025年4月25日�
 source_url: "https://news.yahoo.co.jp/expert/articles/a4d18fe59f19ed425499c3d49d9456c8d63131f4"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13241220/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344759/4cfd5b26242692357017862cd88bc4c8.jpg?token=1400bb5&api=v2"
 lat: 35.6620752
 lng: 139.6974957
 members:

@@ -13,7 +13,6 @@ source_video_title: "【キントレ バイトレ】永瀬廉のユニクロは�
 source_url: "https://kosodate-and.net/kintore-ren-uniqlo"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13302791/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340790/fedc380a86d698f5bc07de3c91f3c1cd.jpg?token=8ee7d48&api=v2"
 lat: 35.6912419
 lng: 139.6996059
 members:

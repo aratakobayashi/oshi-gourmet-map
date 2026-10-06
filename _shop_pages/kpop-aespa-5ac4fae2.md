@@ -12,7 +12,6 @@ source_video_title: "カリナ・ウィンター 西麻布訪問（2023年）"
 source_url: "https://pro-otaku.com/2023-aespa-place/"
 group: "kpop_aespa"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13086478/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361683/6f336566b46b7c23ac2ab2dc127c8050.jpg?token=7b4f82e&api=v2"
 lat: 35.6600266
 lng: 139.7238075
 members:

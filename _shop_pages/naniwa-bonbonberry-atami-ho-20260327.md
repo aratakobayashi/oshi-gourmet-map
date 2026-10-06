@@ -14,7 +14,6 @@ source_video_title: "なにわ男子のどっち派 (2026-03-27)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2026-03-27"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22034667/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/130009/130009604.jpg?token=0b053d9&api=v2"
 lat: 35.1033354
 lng: 139.0782748
 members:

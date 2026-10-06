@@ -13,7 +13,6 @@ source_video_title: "キントレガイドブック【髙橋海人＆那須雄�
 source_url: "https://kosodate-and.net/kintore-kaito-nasu-liverland"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131503/13122368/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352120/ce2dc3df3de7e3ac9a8e30af1678ddad.jpg?token=7082777&api=v2"
 lat: 35.5624486379689
 lng: 139.71244648206067
 members:

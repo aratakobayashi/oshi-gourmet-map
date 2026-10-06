@@ -13,7 +13,6 @@ source_video_title: "WEST.聖地巡礼（大阪）重岡大毅がジャニーさ
 source_url: "https://note.com/yui_natade/n/nab20fd49aea6"
 group: "west"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27000801/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/38461/38461236.jpg?token=3fdd77e&api=v2"
 source_type: "blog"
 lat: 34.6899097
 lng: 135.4881046

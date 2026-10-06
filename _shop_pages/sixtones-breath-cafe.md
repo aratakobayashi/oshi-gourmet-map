@@ -14,7 +14,6 @@ source_video_title: "【ストチューブ】ほくえまのカフェはどこ�
 source_url: "https://kosodate-and.net/hokuto-ema-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13123537/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137746/137746103.jpg?token=0e44960&api=v2"
 lat: 35.6921592
 lng: 139.7006065
 members:

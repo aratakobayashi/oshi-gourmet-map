@@ -12,7 +12,6 @@ source_video_title: "【だが、情熱はある】若林が差し入れブラ�
 source_url: "https://kosodate-and.net/daga-jyounetsu-wakabayashi-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/mie/A2401/A240101/24001721/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/20113/20113030.jpg?token=51045d6&api=v2"
 lat: 34.743885537466234
 lng: 136.5015761760432
 members:

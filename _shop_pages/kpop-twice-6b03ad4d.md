@@ -12,7 +12,6 @@ source_video_title: "TWICE"
 source_url: "https://oshito.online/news/17750.html"
 group: "kpop_twice"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13048977/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/152623/152623903.jpg?token=a4fda7b&api=v2"
 lat: 35.69188900864657
 lng: 139.56960827463004
 members:

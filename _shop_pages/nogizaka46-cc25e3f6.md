@@ -12,7 +12,6 @@ nearest_station: "北須坂駅 徒歩7分"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/nagano/A2001/A200102/20006241/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355408/4004a9f5dbceb21007638119834523b0.jpg?token=b17912c&api=v2"
 lat: 36.678538
 lng: 138.313381
 groups:

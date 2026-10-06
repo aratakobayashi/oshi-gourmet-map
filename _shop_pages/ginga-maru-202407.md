@@ -15,7 +15,6 @@ source_video_title: "【中丸のグルメ】新大久保に乗り込んで、�
 source_video_url: "https://www.youtube.com/watch?v=RGbsQewaz4c"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13263955/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/354048/fe1265acce388bbb9625eadc433e53a3.jpg?token=d79ec5b&api=v2"
 lat: 35.703008
 lng: 139.6992999
 members:

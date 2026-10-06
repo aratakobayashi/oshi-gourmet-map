@@ -13,7 +13,6 @@ source_video_title: "キントレ【髙橋海人ロケ地】炊飯器の旅千�
 source_url: "https://kosodate-and.net/kintore-suihanki-katsuura-kaito"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120701/12057419/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344658/1add5da4b871516624313c502a8ea733.jpg?token=c55f101&api=v2"
 lat: 35.148688438423434
 lng: 140.31454377745928
 members:

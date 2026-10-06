@@ -11,7 +11,6 @@ source_video_title: "イキスギさんについてった 2023-04-12（桐山照
 source_url: "https://www.activitv.com/entry/ikisugisan_230412_don/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13252480/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/321380/c8bcdf2a19088418f3d1705587b686ac.jpg?token=2fb2e89&api=v2"
 source_type: "tv"
 lat: 35.710642437894755
 lng: 139.7752002835136

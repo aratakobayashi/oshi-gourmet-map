@@ -13,7 +13,6 @@ youtube_id: "bHRnkPGqALw"
 source_video_title: "【それスノ】キャンプ企画！PICA富士西湖で写真・キャンプ飯・告白対決｜SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190301/19010472/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/84523/d29eca3065ffca76650994c0c178ea76.jpg?token=7c90c60&api=v2"
 lat: 35.4985177
 lng: 138.6853744
 members:

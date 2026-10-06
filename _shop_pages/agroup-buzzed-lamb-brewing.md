@@ -12,7 +12,6 @@ source_video_title: "所さんお届けモノです！【末澤誠也＆小島�
 source_url: "https://kosodate-and.net/tokoro-otodoke-seiken-pasta"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131105/13300267/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/314119/946e054ededbc8efad625758f6bbf1d0.jpg?token=732a0c5&api=v2"
 lat: 35.723555122162196
 lng: 139.7682484985184
 members:

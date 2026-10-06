@@ -11,7 +11,6 @@ source_video_title: "イキスギさんについてった 2022-09-20（桐山照
 source_url: "https://www.activitv.com/entry/ikisugisan_220920_omu/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13234095/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/144314/144314821.jpg?token=d0b19ab&api=v2"
 source_type: "tv"
 lat: 35.70482573789787
 lng: 139.77337258345614

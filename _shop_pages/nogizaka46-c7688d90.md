@@ -11,7 +11,6 @@ address: "亀田郡七飯町峠下３３７−１１"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0105/A010502/1039884/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/59114/59114121.jpg?token=fda8e7a&api=v2"
 lat: 41.9243984
 lng: 140.6622932
 groups:

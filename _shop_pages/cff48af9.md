@@ -10,7 +10,6 @@ source_video_title: "嵐にしやがれ グルメデスマッチ"
 source_url: "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13245475/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/135407/135407177.jpg?token=54ab72e&api=v2"
 lat: 35.67073495208256
 lng: 139.70342196670856
 groups:

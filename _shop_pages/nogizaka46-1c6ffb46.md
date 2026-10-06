@@ -12,7 +12,6 @@ nearest_station: "通町筋駅 徒歩3分"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/fukuoka/A4008/A400806/40014949/"
-thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 lat: 32.804646
 lng: 130.7113862
 groups:

@@ -10,7 +10,6 @@ nearest_station: "自由が丘駅 徒歩11分"
 source_video_title: "自撮りTV"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13215139/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/117499/117499420.jpg?token=e664ec7&api=v2"
 lat: 35.61350353792296
 lng: 139.67000578260613
 groups:

@@ -14,7 +14,6 @@ source_video_title: "timeleszの時間ですよ（2025年6月17日）高円寺�
 source_url: "https://news.yahoo.co.jp/expert/articles/a0559f38288984eda07641c335db0505926a3a67"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13277894/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/304697/edbd42e7c888a5878dc7f0c97dfd5354.jpg?token=82bb102&api=v2"
 lat: 35.7073164
 lng: 139.6548546
 members:

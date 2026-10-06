@@ -13,7 +13,6 @@ source_video_title: "King & Prince キンプリ『4月1日』ロケ地の喫茶�
 source_url: "https://kosodate-and.net/renkai-april1-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13089403/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/118428/118428858.jpg?token=a6e05eb&api=v2"
 lat: 35.656600088595376
 lng: 139.33846210443565
 members:

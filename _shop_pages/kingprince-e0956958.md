@@ -12,7 +12,6 @@ source_video_title: "キントレ「炊飯器の旅」髙橋海人が埼玉県�
 source_url: "https://kosodate-and.net/kintore-suihanki-kaito-chichibu"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/saitama/A1107/A110701/11046144/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/349950/db1e1f8d45e1a24f2470deb90f076fe2.jpg?token=800481b&api=v2"
 lat: 35.989899898301665
 lng: 139.08090089798281
 members:

@@ -13,7 +13,6 @@ source_video_title: "キントレ バイトレ【永瀬廉ロケ地】オリジ�
 source_url: "https://kosodate-and.net/kintore-ren-origin"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132702/13284448/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362872/3c00af8a7c55c99e46f2b4ea229608d9.jpg?token=360644e&api=v2"
 lat: 35.631485
 lng: 139.445637
 members:

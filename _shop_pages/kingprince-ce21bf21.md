@@ -13,7 +13,6 @@ source_video_title: "【キンプるロケ地】静岡県の道の駅3品クッ�
 source_url: "https://kosodate-and.net/kinpuru-michinoeki-shizuoka"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22045320/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/344086/85822cd974ad08cf831bd1a4e10f3127.jpg?token=86f8eca&api=v2"
 lat: 35.0784409
 lng: 138.9325264
 members:

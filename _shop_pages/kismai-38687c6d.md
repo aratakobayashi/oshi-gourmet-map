@@ -11,7 +11,6 @@ source_video_title: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼�
 source_url: "https://filminglocation-star.com/hujigaya-isaribi/"
 group: "kismai"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120503/12005144/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360681/d4a3290b1cf0d95d651c735043b514a3.jpg?token=5df0a80&api=v2"
 lat: 35.535
 lng: 140.44
 members:

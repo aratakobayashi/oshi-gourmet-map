@@ -12,7 +12,6 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾！爆�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-tsuribune"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1325/A132503/13043865/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/180065/b3a069083f8988a2aaa24b3578dfab62.jpg?token=f72e4be&api=v2"
 lat: 35.69739443779882
 lng: 139.44754488360945
 members:

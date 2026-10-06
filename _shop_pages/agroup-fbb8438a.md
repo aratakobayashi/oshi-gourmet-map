@@ -13,7 +13,6 @@ source_video_title: "【ゴールデンホリデぇ！ ロケ地】千葉のグ�
 source_url: "https://kosodate-and.net/golden-holiday-glamping"
 group: "agroup"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120702/12036672/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/312821/003d5e08ecdbcf5669566aba0d66a518.jpg?token=e49a222&api=v2"
 lat: 35.1881892
 lng: 140.3576386
 members:

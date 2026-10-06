@@ -13,7 +13,6 @@ source_video_title: "厨房のありす第5話【永瀬廉ロケ地】倖生と�
 source_url: "https://kosodate-and.net/alice-ren-izakaya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140202/14000427/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/362210/beb09715f6d73268ec5281fa33ea8fcc.jpg?token=9bcb9b4&api=v2"
 lat: 35.549294498720236
 lng: 139.5165487132269
 members:

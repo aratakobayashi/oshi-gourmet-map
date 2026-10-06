@@ -13,7 +13,6 @@ source_video_title: "【アンサンブル ロケ地】お好み焼き屋さん�
 source_url: "https://kosodate-and.net/ensemble-okonomiyaki"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13271141/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/275451/e0c3fa74a73c4558e90c303ae5c1ca49.jpg?token=8946c39&api=v2"
 lat: 35.6945429
 lng: 139.7027105
 members:

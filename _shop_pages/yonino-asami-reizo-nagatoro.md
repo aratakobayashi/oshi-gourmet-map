@@ -12,7 +12,6 @@ nearest_station: "長瀞駅 徒歩17分"
 source_video_url: "https://www.youtube.com/watch?v=M99F-l7o8pA"
 group: "yonino"
 tabelog_url: "https://tabelog.com/saitama/A1107/A110704/11000259/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214411/72f09e42c809f242b2446b5f0d1c5aea.jpg?token=e41a698&api=v2"
 lat: 36.1029
 lng: 139.1061
 members:

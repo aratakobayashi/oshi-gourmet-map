@@ -13,7 +13,6 @@ source_video_title: "キントレ 炊飯器の旅【髙橋海人＆佐野勇斗�
 source_url: "https://kosodate-and.net/kintore-kaito-hayato-wagashi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13002803/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/72353/72353882.jpg?token=61fbd10&api=v2"
 lat: 35.6716786
 lng: 139.7356224
 members:

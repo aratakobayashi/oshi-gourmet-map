@@ -12,7 +12,6 @@ visited_date: "2024-11-29"
 youtube_id: "JxiV1tdmbgQ"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12055331/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/236202/6d4d7c490aa1487f493a85bf73b3e677.jpg?token=0bc5922&api=v2"
 lat: 35.463559
 lng: 139.875553
 members:

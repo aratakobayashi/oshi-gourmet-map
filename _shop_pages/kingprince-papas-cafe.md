@@ -12,7 +12,6 @@ source_video_title: "【だが、情熱はあるロケ地】若林（髙橋海�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-obento-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13014203/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/208454/ce4b7bea965bc86bb76efa2fb58d0f83.jpg?token=1c8f1b5&api=v2"
 lat: 35.65232242871752
 lng: 139.71348830412956
 members:

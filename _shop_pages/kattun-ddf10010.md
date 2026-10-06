@@ -12,7 +12,6 @@ source_video_title: "【亀チャンネル】亀梨和也の差し入れかめ�
 source_url: "https://kosodate-and.net/kamenashi-kame-monaka"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13021812/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340829/bf1c2c1a2d2018e6ae9786484ae33433.jpg?token=ebd6c9c&api=v2"
 lat: 35.69630160870384
 lng: 139.7582399545424
 members:

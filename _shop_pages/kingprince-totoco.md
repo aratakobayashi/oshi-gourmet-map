@@ -13,7 +13,6 @@ source_video_title: "【キントレ】玉森裕太と道の駅３品クッキ�
 source_url: "https://kosodate-and.net/kintore-tamamori-odawara"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1409/A140901/14077625/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/327298/c0d35bbb9b2c5d4ff2ea7925c8188692.jpg?token=2beedad&api=v2"
 lat: 35.2344853
 lng: 139.144916
 members:

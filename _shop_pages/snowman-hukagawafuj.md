@@ -15,7 +15,6 @@ source_video_title: "【すのちゅーぶ】東京湾海釣り「深川富士�
 source_video_url: "https://www.youtube.com/watch?v=EsGRecRQoZs"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13027424/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/58544/58544918.jpg?token=8484adf&api=v2"
 lat: 35.6680295
 lng: 139.7968481
 members:

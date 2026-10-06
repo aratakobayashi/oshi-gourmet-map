@@ -14,7 +14,6 @@ source_video_title: "だが、情熱はあるロケ地【髙橋海人撮影】�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-shintaro-crepe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1330/A133003/13075823/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339568/298ca4564b45cfbbc59a7520ddcf8f2d.jpg?token=6a4c354&api=v2"
 lat: 35.7810198
 lng: 139.2880925
 members:

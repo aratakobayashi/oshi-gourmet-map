@@ -13,7 +13,6 @@ source_video_title: "いただきハイジャンプ 2019.07.06 唐揚げブラ�
 source_url: "https://medax.hatenablog.com/entry/hijump/190707"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131402/13149100/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/119377/119377779.jpg?token=e450cb5&api=v2"
 lat: 35.6467874
 lng: 139.7414307
 members:

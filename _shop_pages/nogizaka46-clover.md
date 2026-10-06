@@ -11,7 +11,6 @@ address: "上川郡東神楽町東２線９７"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0104/A010405/1008263/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/296892/ecfb23e412631bb86e35170799e6c842.jpg?token=b3c3055&api=v2"
 lat: 43.672730484380615
 lng: 142.4569923565065
 groups:

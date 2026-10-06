@@ -13,7 +13,6 @@ source_video_title: "【とべばんロケ地】スシローはどこ？『キ�
 source_url: "https://kosodate-and.net/tobe-sushiro"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13268904/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348040/2ed1999a2dd1c5c8e103fb1b531dce11.jpg?token=d9bdc00&api=v2"
 lat: 35.6903697
 lng: 139.697924
 members:

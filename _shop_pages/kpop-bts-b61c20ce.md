@@ -12,7 +12,6 @@ source_video_title: "J-Hope 東京訪問"
 source_url: "https://ameblo.jp/j-hope19940218/entry-12896371954.html"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13107693/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/75264/75264053.jpg?token=f9de0d9&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

@@ -13,7 +13,6 @@ source_video_title: "【Vlog】岩手遠征の裏側！美味しいものたく�
 source_video_url: "https://www.tiktok.com/@equal_love_emiri/video/7514269331795102983"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/iwate/A0301/A030103/3008400/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/112872/112872250.jpg?token=833285c&api=v2"
 lat: 39.4583
 lng: 141.1275
 members:

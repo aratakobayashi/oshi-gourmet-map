@@ -13,7 +13,6 @@ source_video_title: "ヒルナンデス【京本大我＆横山裕】ハンバ�
 source_url: "https://kosodate-and.net/hirunan-yokoyama-taiga-bus"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131810/13282658/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/308203/6759815d728227ea5dd137c9000fefaa.jpg?token=12bc378&api=v2"
 lat: 35.682304
 lng: 139.6917362
 members:

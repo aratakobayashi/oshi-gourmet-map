@@ -14,7 +14,6 @@ source_video_title: "タイムレスの時間ですよ マリオンクレープ"
 source_url: "https://oshikatsu-time.com/timelesz-timelsznojikandesuyo-shinozukataiki-crepe-kitty/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13088711/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/297445/146442fbad166725c15c9d876bef437d.jpg?token=624e19b&api=v2"
 lat: 35.6712569
 lng: 139.7049064
 members:

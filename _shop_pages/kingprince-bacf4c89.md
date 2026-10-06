@@ -13,7 +13,6 @@ source_video_title: "だが、情熱はある【髙橋海人ロケ地】若林�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-okonomiyaki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13050746/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/110339/110339782.jpg?token=e674220&api=v2"
 lat: 35.70262633788889
 lng: 139.74079408345673
 members:

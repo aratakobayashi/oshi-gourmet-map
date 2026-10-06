@@ -13,7 +13,6 @@ visited_date: "2020-10-16"
 source_video_title: "ハンバーグにハマる女子急増のなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13246332/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/131943/131943917.jpg?token=9f84997&api=v2"
 source_type: "tv"
 lat: 35.7043267
 lng: 139.5775409

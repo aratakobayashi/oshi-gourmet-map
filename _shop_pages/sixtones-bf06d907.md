@@ -14,7 +14,6 @@ source_video_title: "SixTONES【ストチューブ】名古屋の打ち上げの
 source_url: "https://kosodate-and.net/sixtones-nagoya-izakaya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230104/23000212/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/217565/a18491fbb3183987292f3c77235bbbca.jpg?token=94c5a82&api=v2"
 lat: 35.1675607
 lng: 136.9256127
 members:

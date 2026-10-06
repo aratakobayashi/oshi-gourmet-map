@@ -13,7 +13,6 @@ source_video_title: "King & Princeキンプリ『MODERN LOVE』撮影ロケ地�
 source_url: "https://kosodate-and.net/renkai-modern-love-studio"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1202/A120201/12006865/"
-thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 lat: 35.2206546
 lng: 139.8719669
 members:

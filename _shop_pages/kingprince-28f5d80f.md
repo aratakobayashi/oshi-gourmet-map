@@ -12,7 +12,6 @@ source_video_title: "【キントレバイトレ】髙橋海人の丸亀製麺�
 source_url: "https://kosodate-and.net/kintore-baitore-kaito-udon"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13057270/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/92115/92115143.jpg?token=2c5ab4c&api=v2"
 lat: 35.708445278589146
 lng: 139.42234184490053
 members:

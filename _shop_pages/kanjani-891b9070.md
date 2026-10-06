@@ -10,7 +10,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - コロンボ.関テレ〜�
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12484971783.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270103/27038011/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/230408/32171c39caae19cd075ab193fabba3c6.jpg?token=6eee222&api=v2"
 source_type: "blog"
 lat: 34.70946333717273
 lng: 135.5113657763896

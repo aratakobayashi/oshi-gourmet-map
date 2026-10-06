@@ -13,7 +13,6 @@ source_video_title: "厨房のありす【永瀬廉ロケ地】商店街はど�
 source_url: "https://kosodate-and.net/alice-ren-shopping-street"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132104/13199022/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/288134/8a816a5426334b4200180f62a00c218d.jpg?token=2480a4d&api=v2"
 lat: 35.5678976
 lng: 139.6840261
 members:

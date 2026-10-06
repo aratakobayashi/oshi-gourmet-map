@@ -11,7 +11,6 @@ address: "甲斐市玉川２３４"
 source_video_title: "nogibingo10"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/yamanashi/A1901/A190101/19003489/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/358130/c38967f3a207085a03a7aa3cd4d05fb4.jpg?token=ce88f1c&api=v2"
 lat: 35.6363808
 lng: 138.5219521
 groups:

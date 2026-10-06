@@ -14,7 +14,6 @@ source_video_title: "エース・周杜の「ちゃんとやれるかな？」�
 source_url: "https://oshikatsu-time.com/timelesz-inomatashuto-chantoyarerukana-20250518-atami-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22009940/"
-thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 source_type: "tv"
 lat: 35.1033354
 lng: 139.0782748

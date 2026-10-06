@@ -13,7 +13,6 @@ source_video_title: "【亀梨和也チャンネル】横浜家系ラーメン�
 source_url: "https://kosodate-and.net/kame-wada-ramen"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13210416/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/347234/872970f521abd02b90ad16cd3b9f78bd.jpg?token=a767896&api=v2"
 lat: 35.628500038741926
 lng: 139.74262132386852
 members:

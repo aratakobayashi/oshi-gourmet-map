@@ -10,7 +10,6 @@ nearest_station: "新馬場駅 徒歩3分"
 source_video_title: "日向坂で会いましょう"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131405/13258777/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320431/80e7e57da5ac2b928deb102bdb31f1f3.jpg?token=807ea55&api=v2"
 lat: 35.61833793794288
 lng: 139.7422150826044
 groups:

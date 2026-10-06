@@ -13,7 +13,6 @@ source_video_title: "【永瀬廉×フェレロロシェ】等身大パネル展
 source_url: "https://kosodate-and.net/ferrerorocher-ren-jupiter-panel"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13282087/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/197109/b0a37de24603fc4dbf883cb61b943e4e.jpg?token=b378c91&api=v2"
 lat: 35.69343637868773
 lng: 139.70192423455293
 members:

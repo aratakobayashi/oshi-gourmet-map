@@ -12,7 +12,6 @@ source_video_title: "SixTONES【桜咲く季節に…忘年会】2024年の締�
 source_url: "https://fananablog.com/sixtones-seichi-youtube/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131203/13141242/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/348917/6be0a6d6c9e748ddbafb29ea1d812018.jpg?token=c3c1664&api=v2"
 lat: 35.710776
 lng: 139.813826
 members:

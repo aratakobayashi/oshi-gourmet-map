@@ -14,7 +14,6 @@ youtube_id: "LsocWDFXCKs"
 source_video_title: "【すのちゅーぶ】八王子白ナポリタン「キッチンロッコ」予約方法は？食べたメニューは？SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/137505/137505413.jpg?token=4e01f53&api=v2"
 lat: 35.6488542
 lng: 139.3385324
 members:

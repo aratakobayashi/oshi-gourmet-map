@@ -12,7 +12,6 @@ visited_date: "2021-10-29"
 source_video_title: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132701/13256902/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/188554/313376f54d4ad8c6916eab72b26b0f07.jpg?token=7fc5a7d&api=v2"
 source_type: "tv"
 lat: 35.5413685
 lng: 139.4520661

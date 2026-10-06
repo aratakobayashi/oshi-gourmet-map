@@ -14,7 +14,6 @@ source_video_title: "人生最高レストラン（堂本剛）"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13126818/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/13052/13052743.jpg?token=96af4d7&api=v2"
 source_type: "tv"
 lat: 35.66103643790689
 lng: 139.71438118305517

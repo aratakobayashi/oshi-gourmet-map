@@ -12,7 +12,6 @@ source_video_title: "帰れマンデー【永瀬廉＆松田元太ロケ地】�
 source_url: "https://kosodate-and.net/kaeremonday-ren-gen-dango"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190301/19004452/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/321373/869bac1e7a4be702d1d796507a120ece.jpg?token=5af8448&api=v2"
 lat: 35.45943337855961
 lng: 138.8329693127984
 members:

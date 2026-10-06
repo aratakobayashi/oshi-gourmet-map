@@ -12,7 +12,6 @@ source_video_title: "気になるマン【藤ヶ谷太輔】中華料理店は�
 source_url: "https://kosodate-and.net/kininaru-fujigaya-chinese"
 group: "kismai"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11024045/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/359969/4e0fcc1b09fdcdddf2d6883e62faef10.jpg?token=25e0657&api=v2"
 lat: 35.937843448448135
 lng: 139.43702846720734
 members:

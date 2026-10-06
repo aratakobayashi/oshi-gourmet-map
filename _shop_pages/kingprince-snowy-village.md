@@ -13,7 +13,6 @@ source_video_title: "VS魂【岸優太ロケ地】平子と新大久保デート
 source_url: "https://kosodate-and.net/vadamashii-kishi-shinokubo"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13232859/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/151851/151851342.jpg?token=fb958a2&api=v2"
 lat: 35.703008
 lng: 139.6992999
 members:

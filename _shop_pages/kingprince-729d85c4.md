@@ -13,7 +13,6 @@ source_video_title: "【キントレガイドブック】船橋市のコーヒ�
 source_url: "https://kosodate-and.net/kintore-renkai-kaito-funabashi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1202/A120201/12026854/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/9490/9490767.jpg?token=c4613ae&api=v2"
 lat: 35.7205418379571
 lng: 139.99066158346255
 members:

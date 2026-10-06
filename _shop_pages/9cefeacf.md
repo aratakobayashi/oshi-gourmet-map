@@ -11,7 +11,6 @@ source_video_title: "旅スノ 浜松旅"
 source_url: "https://fananablog.com/tabisuno-seichi-shizuoka/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/shizuoka/A2202/A220201/22035276/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/127991/127991312.jpg?token=342c31a&api=v2"
 lat: 34.72190549865957
 lng: 137.67596461615972
 groups:

@@ -13,7 +13,6 @@ source_video_title: "【だが、情熱はある】山里の差し入れたま�
 source_url: "https://kosodate-and.net/daga-jyounetsu-tamago-sando"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13182212/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/254671/bf9a0925bcc838e6e55ebd2fba3dac4a.jpg?token=146f389&api=v2"
 lat: 35.6620752
 lng: 139.6974957
 members:

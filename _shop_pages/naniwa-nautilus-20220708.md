@@ -12,7 +12,6 @@ visited_date: "2022-07-08"
 source_video_title: "エンタメレストランが増えているのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13267852/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/168533/7bee0381c3ea01211a2d965cf0781eaa.jpg?token=f586077&api=v2"
 source_type: "tv"
 lat: 35.7118219
 lng: 139.7776069

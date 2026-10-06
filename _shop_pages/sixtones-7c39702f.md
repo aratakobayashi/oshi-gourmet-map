@@ -13,7 +13,6 @@ source_video_title: "SixTONES【ストチューブ】八王子ラーメン「み
 source_url: "https://kosodate-and.net/sixtones-hachioji-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13016383/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/278984/a5746791f0588339ce88cad89eaa6bd1.jpg?token=ef2ef7b&api=v2"
 lat: 35.6838337
 lng: 139.3031207
 members:

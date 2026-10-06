@@ -12,7 +12,6 @@ nearest_station: "焼津駅 徒歩19分"
 visited_date: "2020-01-01"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/shizuoka/A2203/A220301/22002876/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/330380/de12076aaa2a0e67da1f2391854e7dd0.jpg?token=4385e92&api=v2"
 lat: 34.864562
 lng: 138.327041
 members:

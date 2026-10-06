@@ -13,7 +13,6 @@ source_video_title: "Travis Japan 福岡旅 もつ鍋"
 source_url: "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400104/40043848/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/148850/148850567.jpg?token=8daf0df&api=v2"
 lat: 33.5890805
 lng: 130.390363
 members:

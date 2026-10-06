@@ -13,7 +13,6 @@ youtube_id: "UKryrVthTSw"
 source_video_title: "日帰りプチ旅行in福島！朝から飲んで魅力に酔いしれた1日🍶"
 group: "shiori"
 tabelog_url: "https://tabelog.com/fukushima/A0703/A070301/7019625/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/342235/a2e3d0a0127ac6e2a3d85a4fa32d6582.jpg?token=71fa07d&api=v2"
 lat: 37.11422
 lng: 140.201392
 members:

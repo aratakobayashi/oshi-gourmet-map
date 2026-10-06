@@ -12,7 +12,6 @@ source_video_title: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖�
 source_url: "https://kosodate-and.net/kinki-kids-ren-okinawa"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13027399/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/63932/63932226.jpg?token=c24f3a9&api=v2"
 lat: 35.68815823791049
 lng: 139.77977448328326
 members:

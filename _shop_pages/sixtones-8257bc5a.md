@@ -13,7 +13,6 @@ source_video_title: "【アンサンブル ロケ地】MATO庵はどこ？古民
 source_url: "https://kosodate-and.net/ensemble-hokuto-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131714/13187460/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/161716/161716985.jpg?token=3da1e26&api=v2"
 lat: 35.574447
 lng: 139.7045511
 members:

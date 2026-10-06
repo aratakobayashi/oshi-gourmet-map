@@ -12,7 +12,6 @@ nearest_station: "二重橋前〈丸の内〉駅 徒歩2分"
 visited_date: "2023-01-01"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13096426/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/89832/89832718.jpg?token=203029d&api=v2"
 lat: 35.679823
 lng: 139.762921
 members:

@@ -13,7 +13,6 @@ source_video_title: "そこ曲がったら、櫻坂？"
 source_url: "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
 group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13239340/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/237515/16a5de105be23ad145824beff0b20679.jpg?token=43260f4&api=v2"
 source_type: "tv"
 lat: 35.648938837911906
 lng: 139.70596498293887

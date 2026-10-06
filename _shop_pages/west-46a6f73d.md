@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2023-05-16 郡山ブ�
 source_url: "https://jwest.jp/ikisugi_20230516/"
 group: "west"
 tabelog_url: "https://tabelog.com/fukushima/A0702/A070201/7002114/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/293216/dc7850bb1416cff2cc0324687e892318.jpg?token=f0bec0d&api=v2"
 source_type: "tv"
 lat: 37.3920392
 lng: 140.3432501

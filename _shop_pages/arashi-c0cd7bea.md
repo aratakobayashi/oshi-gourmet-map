@@ -13,7 +13,6 @@ source_video_title: "嵐にしやがれ"
 source_url: "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13214830/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/246856/028acf398e14b1ca2642763204b4f6e6.jpg?token=dc04357&api=v2"
 source_type: "tv"
 lat: 35.7666652
 lng: 139.8478007

@@ -13,7 +13,6 @@ source_video_title: "河合郁人＆田中樹のステーキハウスはどこ?�
 source_url: "https://kosodate-and.net/kawai-jyuri-steak"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13018560/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/8875/8875473.jpg?token=e9cbd73&api=v2"
 lat: 35.6300236
 lng: 139.7058982
 members:

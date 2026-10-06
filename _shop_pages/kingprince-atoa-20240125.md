@@ -14,7 +14,6 @@ source_video_title: "映画よめぼく【永瀬廉ロケ地】水族館・高�
 source_url: "https://kosodate-and.net/ren-kobe-aquarium"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/hyogo/A2801/A280101/28062867/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/307124/d65295b7f491c4be7bcfbbf36c0c40be.jpg?token=7bb4229&api=v2"
 lat: 34.683244
 lng: 135.1936099
 members:

@@ -12,7 +12,6 @@ source_video_title: "【キントレ 大食い】戸越銀座のお団子・ス�
 source_url: "https://kosodate-and.net/kintore-yase-oogui-ren"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131712/13174357/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/123116/123116801.jpg?token=6f64194&api=v2"
 lat: 35.614263937938986
 lng: 139.72189298257746
 members:

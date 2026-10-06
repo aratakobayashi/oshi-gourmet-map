@@ -13,7 +13,6 @@ source_video_title: "タイムレスマン ゴールデン特番「東海道中�
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24000873/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/210556/5643ccd32e4f837b25a6d554f611a2b6.jpg?token=f518d79&api=v2"
 lat: 34.462783
 lng: 136.7235288
 members:

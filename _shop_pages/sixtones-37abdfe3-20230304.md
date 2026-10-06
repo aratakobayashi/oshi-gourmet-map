@@ -13,7 +13,6 @@ source_video_title: "【ニノさん】川口春奈の気になるモノ おに�
 source_url: "https://kosodate-and.net/ninosan-haruna-onigiri"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/3620/3620534.jpg?token=6284787&api=v2"
 lat: 35.7175966
 lng: 139.7975626
 members:

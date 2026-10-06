@@ -12,7 +12,6 @@ source_video_title: "ジミン Instagram（2023年11月）"
 source_url: "https://bts613-bighit.com/jung-kook-jimin-gcf-in-japan-november-2023/"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13126200/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/317843/bffc8dd1a57b02d0984619ee3a986a06.jpg?token=291b0ea&api=v2"
 lat: 35.6945429
 lng: 139.7027105
 members:

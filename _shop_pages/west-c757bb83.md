@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2022-10-04（中間淳
 source_url: "https://www.activitv.com/entry/ikisugisan_221004-2/"
 group: "west"
 tabelog_url: "https://tabelog.com/aichi/A2306/A230601/23033166/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/247743/aac6dfe34b5ac432d2c5d78944aa6815.jpg?token=11244d9&api=v2"
 source_type: "tv"
 lat: 34.763868136515946
 lng: 137.38424429070903

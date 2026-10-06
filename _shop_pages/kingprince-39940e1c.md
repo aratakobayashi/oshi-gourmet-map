@@ -12,7 +12,6 @@ source_video_title: "【永瀬廉＆ロウン Instagram】食事のお寿司屋�
 source_url: "https://kosodate-and.net/ren-rowoon-hokkaido-sushi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/hokkaido/A0105/A010501/1010279/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/161442/161442014.jpg?token=33cf54e&api=v2"
 lat: 41.77472257517117
 lng: 140.78772296521845
 members:

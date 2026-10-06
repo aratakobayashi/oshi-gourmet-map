@@ -12,7 +12,6 @@ nearest_station: "千駄木駅 徒歩4分"
 source_video_title: "乃木坂配信中　さくさんぽ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131106/13103773/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/13733/13733062.jpg?token=85be48c&api=v2"
 lat: 35.726835
 lng: 139.7658348
 groups:

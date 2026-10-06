@@ -12,7 +12,6 @@ source_video_title: "NewJeans 中目黒・代官山訪問（2023年8月）"
 source_url: "https://pro-otaku.com/newjeans-nakame/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13272143/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/192182/37f53e46d0de06ee655d902e05dd61b0.jpg?token=e897420&api=v2"
 lat: 35.6428011
 lng: 139.6930849
 members:

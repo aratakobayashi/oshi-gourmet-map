@@ -14,7 +14,6 @@ youtube_id: "flzByEH1qc8"
 source_video_title: "【すのちゅーぶ】赤坂イタリアン「Trattoria e Pizzeria de salita」予約方法は？SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/169874/b0c372d24a817845c5a2ccc0e7383459.jpg?token=9364d8d&api=v2"
 lat: 35.6716786
 lng: 139.7356224
 members:

@@ -12,7 +12,6 @@ source_video_title: "【KinKi Kidsのブンブブーンロケ地】銀座の天�
 source_url: "https://kosodate-and.net/kinki-kids-bunbuboon-tenpura"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13092132/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/4109/4109974.jpg?token=99582ea&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

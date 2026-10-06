@@ -11,7 +11,6 @@ address: "足利市堀込町2579-3"
 source_video_title: "何度目の青空か　深川個人PV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0901/A090101/9020221/"
-thumbnail_url: "https://tblg.k-img.com/images/no_photo_350x350.gif"
 lat: 36.311665
 lng: 139.438687
 groups:

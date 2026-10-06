@@ -14,7 +14,6 @@ youtube_id: "tjZawfZNlUM"
 source_video_title: "【すのちゅーぶ】ドライブ企画で寄った「モスバーガー芝大門店」で食べたメニューは？SnowManロケ地"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13039658/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/125847/125847836.jpg?token=58b15ec&api=v2"
 lat: 35.6586692
 lng: 139.7543228
 members:

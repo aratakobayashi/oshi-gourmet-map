@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2023-02-21（桐山照
 source_url: "https://www.activitv.com/entry/ikisugisan_230221-2/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130504/13000048/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/206448/d0e322ba72fed738ad83968846bb132e.jpg?token=6e5ebff&api=v2"
 source_type: "tv"
 lat: 35.70653540868534
 lng: 139.72055662467218

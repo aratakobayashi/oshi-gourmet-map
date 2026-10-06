@@ -12,7 +12,6 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメワールドツ
 source_url: "https://kosodate-and.net/vsdamashii-kishi-cream-puff"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13033054/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/20835/20835075.jpg?token=2449917&api=v2"
 lat: 35.668940688724355
 lng: 139.76810239425913
 members:

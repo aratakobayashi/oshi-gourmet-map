@@ -12,7 +12,6 @@ source_video_title: "V S魂【岸優太ロケ地】背徳グルメ第4弾ワー�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-kakuni"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13045499/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/361473/261876a9c62ab067e39acf95194268cd.jpg?token=a5c1579&api=v2"
 lat: 35.698954698591265
 lng: 139.41003207481327
 members:

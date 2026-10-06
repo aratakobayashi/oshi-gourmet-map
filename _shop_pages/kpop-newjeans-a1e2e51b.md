@@ -12,7 +12,6 @@ source_video_title: "ミンジ 東京vlog（2023年12月26日公開）日本初�
 source_url: "https://moalabtxt.com/newjeans_minji_tokyovlog/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13240587/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/340636/fb7f509a63b4d6cb4365e13542eeb4ab.jpg?token=e950e13&api=v2"
 lat: 35.6921592
 lng: 139.7006065
 members:

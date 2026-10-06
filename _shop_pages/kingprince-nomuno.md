@@ -12,7 +12,6 @@ source_video_title: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々
 source_url: "https://kosodate-and.net/vs-damashii-kishi-gourmet"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13222543/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/169033/826050d0c88ebcd96dcb1c0f0b054f48.jpg?token=a9af80a&api=v2"
 lat: 35.675993537904425
 lng: 139.73644698319077
 members:

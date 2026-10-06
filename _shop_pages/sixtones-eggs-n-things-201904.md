@@ -14,7 +14,6 @@ source_video_title: "SixTONES - パンケーキで女子力アップ？"
 source_video_url: "https://www.youtube.com/watch?v=Xy_pX_uM8mQ"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131306/13128948/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/63552/63552749.jpg?token=54b819b&api=v2"
 lat: 35.6689
 lng: 139.7056
 members:

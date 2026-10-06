@@ -13,7 +13,6 @@ source_video_title: "平野紫耀のレモネードのお店・カフェはど�
 source_url: "https://kosodate-and.net/instagram-sho-lemonade"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131801/13220331/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/219008/ab6646313866d88fb7032bcd0bcadb0c.jpg?token=7ee6c38&api=v2"
 lat: 35.65745586870595
 lng: 139.68739697419966
 members:

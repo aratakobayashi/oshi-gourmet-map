@@ -14,7 +14,6 @@ source_video_title: "THE TIME【松たか子＆松村北斗】銀座のメガネ
 source_url: "https://kosodate-and.net/thetime-matsu-hokuto-100"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13269510/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216627/acc3ba58ed4864fa296a4534e6a14983.jpg?token=d889abd&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

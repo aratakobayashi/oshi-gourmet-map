@@ -13,7 +13,6 @@ source_video_title: "キントレ【髙橋海人ロケ地】炊飯器の旅栃�
 source_url: "https://kosodate-and.net/kintore-suihanki-kaito-nikko"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tochigi/A0903/A090301/9003450/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/209146/64244b90aed35d97efd943e5fb73f300.jpg?token=c469ba0&api=v2"
 lat: 36.7473122
 lng: 139.6176874
 members:

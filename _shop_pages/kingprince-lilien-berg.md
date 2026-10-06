@@ -13,7 +13,6 @@ source_video_title: "【キンプる】当たり前レストラン髙橋海人�
 source_url: "https://kosodate-and.net/kinpru-kaito-zahhatorute"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140508/14000034/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/323672/ebd8a733dd40b2b8847825bf88329728.jpg?token=b2736bd&api=v2"
 lat: 35.5920986
 lng: 139.5001888
 members:

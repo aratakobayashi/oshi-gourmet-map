@@ -10,7 +10,6 @@ source_video_title: "関ジャニ∞ロケ地巡り - ShinShin@住吉店∞〜8/
 source_url: "https://ameblo.jp/yocorino-caputino/entry-12503807640.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400101/40021108/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/117630/117630561.jpg?token=5b1cf3b&api=v2"
 source_type: "blog"
 lat: 33.58243483626615
 lng: 130.41698816857658

@@ -11,7 +11,6 @@ address: "石川県金沢市木倉町４−１０"
 source_video_title: "シンクロニシティ 特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17000107/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/122304/122304378.jpg?token=e234bf9&api=v2"
 lat: 36.5618288
 lng: 136.6520819
 groups:

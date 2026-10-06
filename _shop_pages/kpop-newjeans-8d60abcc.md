@@ -12,7 +12,6 @@ source_video_title: "ミン・ヒジン Instagram（NewJeansメンバーと来�
 source_url: "https://pro-otaku.com/newjeans-nakame/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13192261/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/214420/b5fe5bb47dc59f866b0a522c925ae5da.jpg?token=2fe881a&api=v2"
 lat: 35.6513684
 lng: 139.6934004
 members:

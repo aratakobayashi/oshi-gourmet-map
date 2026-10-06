@@ -12,7 +12,6 @@ nearest_station: "鎌倉駅 徒歩10分"
 source_video_title: "地球が丸いならMV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14000268/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/665/665300.jpg?token=cb9eda6&api=v2"
 lat: 35.3242675
 lng: 139.5524688
 groups:

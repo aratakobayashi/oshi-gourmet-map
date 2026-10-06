@@ -13,7 +13,6 @@ source_video_title: "イキスギさんについてった 2023-10-17 中間淳�
 source_url: "https://www.activitv.com/entry/ikisugisan_231017_udon/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13067940/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/352998/13dc51624892f868b39be1897c3e67c3.jpg?token=732a3f0&api=v2"
 source_type: "tv"
 lat: 35.6505871
 lng: 139.7495267

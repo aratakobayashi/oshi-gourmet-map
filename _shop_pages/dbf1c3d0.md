@@ -11,7 +11,6 @@ nearest_station: "池尻大橋駅 徒歩2分"
 source_video_title: "孤独のグルメ Season11 第6話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131705/13008148/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/320890/3e2c001bc175796a9b62f13d0d7bab8f.jpg?token=35c1622&api=v2"
 source_type: "tv"
 lat: 35.64991576871017
 lng: 139.68561276412478

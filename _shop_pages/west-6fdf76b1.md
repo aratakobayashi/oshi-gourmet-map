@@ -12,7 +12,6 @@ source_video_title: "WEST.聖地巡礼（大阪）Jr時代松竹座千秋楽の�
 source_url: "https://note.com/yui_natade/n/nab20fd49aea6"
 group: "west"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27001490/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/19628/19628194.jpg?token=bd79c83&api=v2"
 source_type: "blog"
 lat: 34.666303
 lng: 135.5220024

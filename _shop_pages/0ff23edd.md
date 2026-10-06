@@ -12,7 +12,6 @@ source_video_title: "旅スノ 金沢旅"
 source_url: "https://fananablog.com/tabisuno-seichi-gifu-ishikawa/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17011103/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/337861/3a97e3d292fd3c0fa20a1874ecb2764e.jpg?token=5c9e38b&api=v2"
 lat: 36.55669836716658
 lng: 136.64707772541405
 groups:

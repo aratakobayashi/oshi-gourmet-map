@@ -12,7 +12,6 @@ source_video_title: "ジェニ YouTube Vlog（東京）"
 source_url: "https://nomnom-korea.com/2023/09/16/blackpink-jennie-izakaya/"
 group: "kpop_blackpink"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13032924/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/98673/98673185.jpg?token=eedaa96&api=v2"
 lat: 35.6720135
 lng: 139.7647202
 members:

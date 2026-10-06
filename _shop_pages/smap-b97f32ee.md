@@ -12,7 +12,6 @@ source_video_title: "【中居正広が来店！？】「甘甘堂」は大阪�
 source_url: "https://kosodate-and.net/kankando-nakai"
 group: "smap"
 tabelog_url: "https://tabelog.com/osaka/A2705/A270502/27089709/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/46822/46822146.jpg?token=1cafcc1&api=v2"
 lat: 34.47972640809829
 lng: 135.43055118528747
 members:

@@ -14,7 +14,6 @@ source_video_title: "アンサンブル【松村北斗＆川口春奈 ロケ地�
 source_url: "https://kosodate-and.net/ensemble-asagohan-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13127590/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/357668/140756cefc4f36162bf2af2ec7090fb0.jpg?token=ed7d806&api=v2"
 lat: 35.6483517
 lng: 139.7065258
 members:

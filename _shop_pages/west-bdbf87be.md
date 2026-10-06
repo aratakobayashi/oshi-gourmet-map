@@ -12,7 +12,6 @@ source_video_title: "イキスギさんについてった 2022-10-25（重岡大
 source_url: "https://ameblo.jp/sigechiyo8/entry-12773146644.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132101/13146940/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/333610/0eaee797a0c5200a5d8f2207ded838b6.jpg?token=a4618cd&api=v2"
 source_type: "tv"
 lat: 35.73733097865038
 lng: 139.67218903501714

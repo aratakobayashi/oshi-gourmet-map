@@ -12,7 +12,6 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人ロケ地】茨�
 source_url: "https://kosodate-and.net/kintore-suihanki-kaito-panya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0802/A080201/8001304/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/62968/62968332.jpg?token=17e9811&api=v2"
 lat: 36.06126342858557
 lng: 140.11471239797896
 members:

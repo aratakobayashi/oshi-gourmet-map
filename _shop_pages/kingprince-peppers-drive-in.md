@@ -12,7 +12,6 @@ source_video_title: "King & Princeキンプリ「Home, Stupid Home」『Stereo L
 source_url: "https://kosodate-and.net/renkai-stereo-love-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140407/14006087/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/86095/03e9c374fc98892cd5b46287d8620c79.jpg?token=6b304b2&api=v2"
 lat: 35.36996178877215
 lng: 139.32193332155188
 members:

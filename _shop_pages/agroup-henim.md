@@ -13,7 +13,6 @@ source_video_title: "ドデスカ！【末澤誠也＆佐野晶哉ロケ地】�
 source_url: "https://kosodate-and.net/sue-sano-custom-cap"
 group: "agroup"
 tabelog_url: "https://tabelog.com/aichi/A2306/A230601/23039186/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/133859/133859590.jpg?token=74f7414&api=v2"
 lat: 35.1593589
 lng: 136.901099
 members:

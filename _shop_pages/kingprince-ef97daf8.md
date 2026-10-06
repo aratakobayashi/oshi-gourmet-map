@@ -13,7 +13,6 @@ source_video_title: "【キントレ当たり前レストラン】タイの屋�
 source_url: "https://kosodate-and.net/kintore-atarimae-kaomangai"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13276772/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/195861/5af0a30edffb0ab5b7b5992d2ca87454.jpg?token=97141aa&api=v2"
 lat: 35.716338808705046
 lng: 139.80201439471412
 members:

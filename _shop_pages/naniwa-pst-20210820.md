@@ -13,7 +13,6 @@ visited_date: "2021-08-20"
 source_video_title: "熱々グルメがひんやりグルメになっているのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13228723/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/102560/102560696.jpg?token=b01d28a&api=v2"
 source_type: "tv"
 lat: 35.6624568
 lng: 139.7334981

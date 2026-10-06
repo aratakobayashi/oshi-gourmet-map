@@ -11,7 +11,6 @@ source_video_title: "YouTube「FANDOM TOUR」練習生時代から常連"
 source_url: "https://creatrip.com/ja/news/13742"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13245670/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/277746/e1aaf2fc7323ba38746b92f3eb3d61c3.jpg?token=d163935&api=v2"
 lat: 37.5271
 lng: 127.0441
 members:

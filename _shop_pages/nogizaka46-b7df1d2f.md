@@ -11,7 +11,6 @@ address: "栃木県宇都宮市馬場通り3-3-1"
 source_video_title: "乃木坂46 1人全国キャンペーン"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0901/A090101/9000045/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216932/a56008d3f5352865588daa37b8ebdaf2.jpg?token=f4e8e98&api=v2"
 lat: 36.5608
 lng: 139.8852
 members:

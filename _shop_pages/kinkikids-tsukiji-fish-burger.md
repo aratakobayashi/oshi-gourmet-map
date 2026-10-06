@@ -13,7 +13,6 @@ source_video_title: "【KinKi Kidsのブンブブーン】築地のフィッシ�
 source_url: "https://kosodate-and.net/kinki-kids-momokuro-tsukiji"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13219939/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/302864/f9a93767d795374d9cefc349aecc7049.jpg?token=90c73e8&api=v2"
 lat: 35.6653299787273
 lng: 139.7701590142212
 members:

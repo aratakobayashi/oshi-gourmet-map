@@ -12,7 +12,6 @@ source_video_title: "KinKi Kidsのブンブブーン スフレオムライス 20
 source_url: "https://www.activitv.com/entry/bunbuboon_230909_omu-3/"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13142028/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/211088/bc4806fe67e5dc7130cbb9f071510a4a.jpg?token=d680767&api=v2"
 lat: 35.64876013791462
 lng: 139.7141585829313
 members:

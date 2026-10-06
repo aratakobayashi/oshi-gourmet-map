@@ -13,7 +13,6 @@ source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-kyohei2"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13122282/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/216686/e8a6f2a8877b82a2be49af83d5d95360.jpg?token=a3c8b8a&api=v2"
 lat: 35.6642256
 lng: 139.3594049
 members:

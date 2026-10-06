@@ -14,7 +14,6 @@ youtube_id: "oNwT7i2IlbM"
 source_video_title: "【MVロケ地】阿部亮平「Dear,」レストランHomer(ホーマー) SnowManベストアルバム"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1325/A132501/13035096/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/18816/18816906.jpg?token=f44168a&api=v2"
 lat: 35.6919631
 lng: 139.5075641
 members:

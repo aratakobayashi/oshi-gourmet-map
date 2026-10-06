@@ -12,7 +12,6 @@ source_video_title: "帰れマンデー【永瀬廉＆松田元太】山梨県 �
 source_url: "https://kosodate-and.net/kaeremonday-ren-genta"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190302/19007737/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/339288/503ce8d74bf3062e54141f0cf2a9a54b.jpg?token=e8fdcf7&api=v2"
 lat: 35.4586681
 lng: 138.8286613
 members:

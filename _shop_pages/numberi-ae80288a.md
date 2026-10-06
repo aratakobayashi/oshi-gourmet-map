@@ -12,7 +12,6 @@ source_video_title: "VS魂 背徳グルメ"
 source_url: "https://kosodate-and.net/vs-damashii-kishi-gourmet/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13192780/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/89445/89445204.jpg?token=b8c249a&api=v2"
 lat: 35.6589015
 lng: 139.6975367
 members:

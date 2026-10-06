@@ -13,7 +13,6 @@ source_video_title: "SixTONES【10万円アポなし旅】１泊2日弾丸バス
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2019/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/shizuoka/A2204/A220402/22015779/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/360728/7a0052b193496e2784ddd1be8e19f2c7.jpg?token=87b1ab4&api=v2"
 lat: 35.297328
 lng: 138.924175
 members:

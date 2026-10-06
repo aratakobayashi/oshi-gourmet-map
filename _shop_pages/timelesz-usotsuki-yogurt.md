@@ -14,7 +14,6 @@ source_video_title: "松島聡 カフェ巡りまとめ（インスタ）"
 source_url: "https://oshikatsu-time.com/timelesz-matsushimaso-cafe-matome/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13311029/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/355841/6bc80ef6cac128cc6e8ea5f65ec1f053.jpg?token=b2d1c8f&api=v2"
 lat: 35.6611721
 lng: 139.7258364
 members:

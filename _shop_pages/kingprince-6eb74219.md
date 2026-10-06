@@ -13,7 +13,6 @@ source_video_title: "あの頃からわたしたちは【髙橋海人ロケ地�
 source_url: "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14000795/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/10781/10781386.jpg?token=284464c&api=v2"
 lat: 35.30131885886681
 lng: 139.4822401607462
 members:

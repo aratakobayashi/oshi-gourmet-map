@@ -13,7 +13,6 @@ source_video_title: "WESTube【神山智洋×末澤誠也】新大久保スイ�
 source_url: "https://kosodate-and.net/westube-kami-sue-cafe"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13237717/"
-thumbnail_url: "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/356542/6b9185e8a907de12ee3cc0c3cc2267fe.jpg?token=c5f2448&api=v2"
 lat: 35.70016095868307
 lng: 139.7007157046217
 members:
