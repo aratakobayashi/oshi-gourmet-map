@@ -8,6 +8,14 @@
 - **技術**: Jekyll + GitHub Pages（静的サイト、コストゼロ）
 - **リポジトリ**: https://github.com/aratakobayashi/oshi-gourmet-map
 
+## 守るルール（全作業共通・最優先）
+- **食べログ**: ページへの自動アクセス・スクレイピングをしない。食べログ由来の情報（点数・画像・座標・住所・営業時間・価格帯・電話番号など）を取得・保存・掲載しない。食べログへのリンクを張るのは可（収益化はバリューコマース経由の公式アフィリエイト）。
+- 店舗情報の補完は、ホットペッパーグルメの公式API（規約とクレジット表記に従う）か自前の調査で行う。
+- 既存のURLは変えない。変える場合は必ず301リダイレクトを設定する。
+- アフィリエイトリンクには `rel="sponsored noopener"` を付け、該当ページにPR表記を入れる（ステマ規制対応）。
+- 体験談や口コミを捏造しない。
+- APIキーなどの秘密情報をリポジトリに入れない（公開リポジトリ）。キーは環境変数から読み、デフォルト値に実キーを書かない。
+
 ## ゴール
 - ファン向け聖地巡礼ガイドとして認知を獲得
 - SEO集客からアフィリエイト収益化
@@ -35,8 +43,9 @@
 ④ Python ジオコーディング
    住所 → 緯度・経度（Nominatim OpenStreetMap、無料）
           ↓
-⑤ Python アフィリエイトURL付与
-   店名で食べログ・ホットペッパーを検索してURL付与
+⑤ Python リンク整理（scripts/normalize_links.py）
+   tabelog_url / hotpepper_url を正とし affiliate_links の重複を除去
+   ※ 食べログの検索・ページ取得はしない（ファンブログ等に載っている食べログURLを使うのは可）
           ↓
 ⑥ shops.json 自動マージ
           ↓
@@ -44,6 +53,7 @@
    bash scripts/build_pages.sh --push
    → generate_shop_pages.py + generate_list_pages.py を実行
    → _shop_pages/ と _list_pages/ を再生成・コミット・push
+   ※ shops-lite.json は scripts/generate_lite.py で再生成する
    ※ データ追加後は必ずこのスクリプトを実行すること
 ```
 
@@ -76,14 +86,13 @@
   "group": "yonino",
   "description": "説明",
   "nearest_station": "渋谷駅",
-  "price_range": "〜3000円",
   "tabelog_url": "https://tabelog.com/...",
   "hotpepper_url": "https://www.hotpepper.jp/...",
   "google_maps_url": "https://maps.google.com/...",
   "tags": ["行列", "朝食"],
   "affiliate_links": [
-    {"label": "食べログで見る", "url": "https://tabelog.com/..."},
-    {"label": "ホットペッパーで予約", "url": "https://www.hotpepper.jp/..."}
+    {"label": "公式サイト", "url": "https://..."},
+    {"label": "一休で予約", "url": "https://restaurant.ikyu.com/..."}
   ],
   "thumbnail_url": "https://image.tmdb.org/t/p/w500/...",
   "source_type": "drama",
@@ -95,7 +104,18 @@
 ```
 
 ### ジャンル一覧
-`カフェ` `ラーメン` `焼肉` `食事` `スイーツ` `寿司` `もんじゃ` `居酒屋` `和食` `その他`
+genre は英語コードで保存し、表示名・アイコンは `_data/genres.json` が正（Liquid / JS / Python から参照）。
+`shokuji`（食事） `washoku`（和食） `cafe`（カフェ） `ramen`（ラーメン） `sweets`（スイーツ） `izakaya`（居酒屋） `yakiniku`（焼肉） `chuka`（中華） `others`（その他）
+
+### リンク項目のルール
+- 食べログは `tabelog_url`、ホットペッパーは `hotpepper_url` だけに入れる（店舗トップURL・追跡パラメータなし）
+- `affiliate_links` には公式サイト・一休など、それ以外のリンクだけを入れる
+- `tabelog_url_alt` は食い違いの確認用の一時フィールド（確認後に削除）
+- アフィリエイト変換は `_includes/affiliate-link.html` が `_config.yml` の `affiliate.valuecommerce` の sid/pid を見て行う。空の間は通常リンク
+- `tabelog_score` / `price_range` / `business_hours` / 食べログ画像の `thumbnail_url` は食べログ由来のため持たない
+
+### グループ名
+表示名は `_data/groups.json` が正（_group_pages の group_label と同じ）。新グループ追加時はここにも追加する。
 
 ---
 
@@ -177,8 +197,20 @@ heysayjump:        '#ef4444'  // レッド
 | `geocode_shiori.py` | しおり専用ジオコーダー（tabelog JSON-LD優先 + 丁目形式フォールバック） |
 | `extract_shiori_hashtags.py` | ハッシュタグから店名候補を抽出（#店名パターン・汎用タグ除外・連結タグ分割対応） |
 | `scrape_kinpri.py` | King & Prince「当たり前レストラン」スクレイピング（tsuzuki-fam.com / ValueCommerce経由tabelog URL対応） |
+| `normalize_links.py` | 外部リンクの正規化（重複削除・食べログURLの店舗トップ化・ホットペッパーの追跡パラメータ除去）。何度実行しても同じ結果 |
+| `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成 |
+| `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
+| `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
+
+**食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
 
 ---
+
+## 推し活ガイド（/guide/）
+- 旧 推し活ガイドブック（WordPress）の記事41本を `_guides/` コレクションに移行（2026-10）。レイアウトは `_layouts/guide.html`
+- カテゴリ: `_data/guide_categories.json`（venue / travel / basics / profile）
+- 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から shops-lite.json の店舗を距離順に表示
+- 旧URL→新URLの対応表: `redirects/guidebook_redirects.csv`（旧サイト側で301を設定する）
 
 ## 環境変数
 ```bash
@@ -189,7 +221,14 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 
 ---
 
-## 現在の状況（2026-05-26時点）
+## 現在の状況（2026-10-07時点）
+- 総店舗数: 2,329件（42グループ）。店舗ページ 2,360（うち孤立ページ31）・一覧ページ111・グループページ42
+- 推し活ガイド41本（/guide/）・特集記事42本（/articles/）
+- 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
+- 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 1,441件
+- アフィリエイトは仕組みのみ導入済み（_config.yml の affiliate に sid/pid を入れると有効化）
+
+## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
 - youtube_idあり: ~372件（50%）
 - thumbnail_urlあり: 0件（孤独のグルメ追加後に増える予定）
