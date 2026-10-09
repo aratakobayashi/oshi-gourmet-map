@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '鯖のくんせい'}"
-  - "{'name': 'どんぶりしらす'}"
-  - "{'name': 'ももハムとキムチ'}"
+  - "鯖のくんせい"
+  - "どんぶりしらす"
+  - "ももハムとキムチ"
 ---

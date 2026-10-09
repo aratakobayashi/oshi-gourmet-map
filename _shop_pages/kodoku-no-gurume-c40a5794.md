@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ネギレバ炒め定食'}"
-  - "{'name': '鶏皮餃子'}"
-  - "{'name': '青ネギラーメン'}"
+  - "ネギレバ炒め定食"
+  - "鶏皮餃子"
+  - "青ネギラーメン"
 ---

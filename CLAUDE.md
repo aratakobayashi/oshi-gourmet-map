@@ -51,8 +51,8 @@
           ↓
 ⑦ ページ生成（必須）
    bash scripts/build_pages.sh --push
-   → generate_shop_pages.py + generate_list_pages.py を実行
-   → _shop_pages/ と _list_pages/ を再生成・コミット・push
+   → generate_shop_pages.py + generate_list_pages.py + build_site_data.py を実行
+   → _shop_pages/ と _list_pages/、_data/（カード・近くの店・グループ集計）、data/explore.json を再生成・コミット・push
    ※ shops-lite.json は scripts/generate_lite.py で再生成する
    ※ データ追加後は必ずこのスクリプトを実行すること
 ```
@@ -139,7 +139,7 @@ genre は英語コードで保存し、表示名・アイコンは `_data/genres
 | heysayjump | Hey! Say! JUMP（いただきハイジャンプ） | UCZgJwFN1PeR8hZZ8A7huuTQ（ファン） | TMDB ID:197002 / e-nini08.hatenadiary.jp |
 | kingprince | King & Prince（当たり前レストラン） | - | tsuzuki-fam.com（ファンブログ）8エピソード（2022-08〜2023-05） |
 
-### グループカラー（main.js）
+### グループカラー（_group_pages の group_color が正。build_site_data.py が _data/group_ix.json に写す。下は参考）
 ```javascript
 shiori:       '#ec4899'  // ピンク
 yonino:       '#e8537a'  // ピンク
@@ -198,7 +198,8 @@ heysayjump:        '#ef4444'  // レッド
 | `extract_shiori_hashtags.py` | ハッシュタグから店名候補を抽出（#店名パターン・汎用タグ除外・連結タグ分割対応） |
 | `scrape_kinpri.py` | King & Prince「当たり前レストラン」スクレイピング（tsuzuki-fam.com / ValueCommerce経由tabelog URL対応） |
 | `normalize_links.py` | 外部リンクの正規化（重複削除・食べログURLの店舗トップ化・ホットペッパーの追跡パラメータ除去）。何度実行しても同じ結果 |
-| `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成 |
+| `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成（リニューアル後の画面では未使用） |
+| `build_site_data.py` | 画面用データを生成: _data/shop_cards・group_meta・group_ix・group_detail・nearby・venue_nearby・site_stats と data/explore.json（/shops/ の絞り込み用） |
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 
@@ -209,14 +210,24 @@ heysayjump:        '#ef4444'  // レッド
 ## 推し活ガイド（/guide/）
 - 旧 推し活ガイドブック（WordPress）の記事41本を `_guides/` コレクションに移行（2026-10）。レイアウトは `_layouts/guide.html`
 - カテゴリ: `_data/guide_categories.json`（venue / travel / basics / profile）
-- 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から shops-lite.json の店舗を距離順に表示
+- 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から build_site_data.py が近い順に計算（_data/venue_nearby.json）し、ページ生成時に表示
 - 旧URL→新URLの対応表: `redirects/guidebook_redirects.csv`（旧サイト側で301を設定する）
 
+## デザイン（2026-10 リニューアル「1a 巡礼帳」）
+- CSS は `assets/css/app.css` の1ファイル（色・文字・余白はファイル先頭の変数）。JS は `assets/js/app.js`（全ページ共通: 保存・動画・地図・共有・目次・店舗の行の組み立て）と `assets/js/explore.js`（/shops/ の絞り込み・地図）だけ。どちらも素のJS
+- 店舗カードの部品: `_includes/card.html`（グリッド）・`row.html`（行）・`mini.html`（小）・`thumb.html`。中身は `_data/shop_cards.json` から引く。JSで作る行は app.js の shopUI.row（row.html と同じ形に保つ）
+- include の中で使う変数は `_c` `_gi` のように _ を付ける（Jekyll の include は変数を呼び出し元と共有するため、付けないとページ側の値を上書きする）
+- 写真のない店はグループ色の面＋ジャンル印（`_data/genres.json` の mark）で表す
+- 店舗ページの「この店に行くなら」はリンクがある行だけ出す。「予約する」はホットペッパー・一休など予約できるリンクがあるときだけ（食べログは「食べログで見る」）。PR表記は提携IDが入っているリンクがあるときに自動で出る
+- 「泊まる」リンクは じゃらん（検索語は Shift_JIS。build_site_data.py でエンコード）と楽天トラベル。提携後に `_config.yml` の affiliate.valuecommerce.jalan_pid / affiliate.rakuten.id を入れると変換される
+- URL は Jekyll が :name を変換したもの（`_` → `-`、`--` → `-`）。リンクは `_data/group_ix.json` の u や shop_cards の u を使い、自分で組み立てない
+
 ## 表示速度のルール（PageSpeed Insights スマホ90点以上を維持）
-- Webフォントは読み込まない（端末標準フォント。style.css の --f-* 変数）
+- Webフォントは読み込まない（端末標準フォント。見出しは明朝、本文はゴシック。app.css の --serif / --sans）
 - AdSense は使わない（2026-10 に削除。地図・一覧に広告が重なり操作を妨げていたため）
-- Leaflet は一覧地図のあるページ（/shops/・グループページ）だけで読み込む。店舗ページは地図が画面に近づいたときに読み込む
-- shops-lite.json（約1.3MB）は表示直後に読み込まない。トップはページ表示後、記事・ガイドは店舗カードが画面に近づいたとき。一覧ページはグループ別ファイル data/shops-lite/<group>.json を使う
+- Leaflet は地図を表示するときに app.js が読み込む（店舗ページは「地図を表示」を押したとき・PCは画面に近づいたとき。/shops/ は地図表示またはPC）
+- 一覧はページ生成時に最初の20件を書き出す。/shops/ の絞り込み用データ data/explore.json（約160KB圧縮後）は表示が落ち着いてから読む。shops-lite.json は画面では使っていない
+- 記事内の店舗カードは `{% include inline-shop-card.html shop_id="..." %}` / `{% include inline-shop-grid.html ids="a,b" %}` でページ生成時に描画する
 - Google アナリティクスはページ表示完了の1.5秒後に読み込む（head.html）
 - ガイドの見出し画像は 600px 版（*_600.webp）を用意して srcset で出し分ける。新しいガイドを追加したら 600px 版も作る
 - 描画前にレイアウト計算をさせない（offsetTop / offsetHeight などの読み取りは load 後に）

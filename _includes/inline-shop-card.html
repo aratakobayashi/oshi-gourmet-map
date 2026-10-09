@@ -1,1 +1,14 @@
-<div class="inline-shop-card" data-shop-id="{{ include.shop_id }}"></div>
+{%- comment -%} 記事内の店舗カード。引数: shop_id {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.shop_id] -%}
+{%- if _c -%}
+{%- assign _gi = site.data.group_ix[_c.gr] -%}
+<div class="ecard" style="--g:{{ _gi.c }}">
+  {% include thumb.html c=_c %}
+  <div>
+    <p class="card__meta"><span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}</p>
+    <a class="ecard__name" href="{{ _c.u | relative_url }}">{{ _c.n }}</a>
+    <p class="card__st">{% if _c.st != '' %}{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}{% else %}{{ _c.p }}{% endif %}</p>
+    <div class="ecard__btns"><a class="btn btn--sm" href="{{ _c.u | relative_url }}">お店の詳細</a>{% if _c.r == 1 %}<a class="btn btn--sm btn--accent" href="{{ _c.u | relative_url }}#go">予約する</a>{% endif %}</div>
+  </div>
+</div>
+{%- endif -%}

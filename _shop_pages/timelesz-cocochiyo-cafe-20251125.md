@@ -21,5 +21,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': 'とろ～り半熟ここちよプリン極'}"
+  - "とろ～り半熟ここちよプリン極"
 ---

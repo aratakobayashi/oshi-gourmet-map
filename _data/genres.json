@@ -1,11 +1,47 @@
 {
-  "shokuji":  { "label": "食事",     "icon": "🍽️" },
-  "washoku":  { "label": "和食",     "icon": "🍱" },
-  "cafe":     { "label": "カフェ",   "icon": "☕" },
-  "ramen":    { "label": "ラーメン", "icon": "🍜" },
-  "sweets":   { "label": "スイーツ", "icon": "🍰" },
-  "izakaya":  { "label": "居酒屋",   "icon": "🍺" },
-  "yakiniku": { "label": "焼肉",     "icon": "🥩" },
-  "chuka":    { "label": "中華",     "icon": "🥟" },
-  "others":   { "label": "その他",   "icon": "🍴" }
+  "ramen": {
+    "label": "ラーメン",
+    "icon": "🍜",
+    "mark": "麺"
+  },
+  "cafe": {
+    "label": "カフェ",
+    "icon": "☕",
+    "mark": "珈"
+  },
+  "sweets": {
+    "label": "スイーツ",
+    "icon": "🍰",
+    "mark": "甘"
+  },
+  "yakiniku": {
+    "label": "焼肉",
+    "icon": "🥩",
+    "mark": "肉"
+  },
+  "izakaya": {
+    "label": "居酒屋",
+    "icon": "🍺",
+    "mark": "酒"
+  },
+  "washoku": {
+    "label": "和食",
+    "icon": "🍱",
+    "mark": "和"
+  },
+  "chuka": {
+    "label": "中華",
+    "icon": "🥟",
+    "mark": "中"
+  },
+  "shokuji": {
+    "label": "食事",
+    "icon": "🍽️",
+    "mark": "食"
+  },
+  "others": {
+    "label": "その他",
+    "icon": "🍴",
+    "mark": "他"
+  }
 }

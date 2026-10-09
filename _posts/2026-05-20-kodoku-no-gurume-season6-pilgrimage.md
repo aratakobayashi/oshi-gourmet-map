@@ -35,7 +35,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season6は2016年秋放送。第1話で大阪まで遠征し、千葉・富津の海辺まで足を伸ばしながら、東京ではシャン料理・スペイン料理・羊肉料理と多彩な異国グルメを堪能した10話分の記録だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-51019084-,kodoku_no_gurume-2f3b8de2-,kodoku_no_gurume-26de77d7-,kodoku_no_gurume-e8b0cb92-,kodoku_no_gurume-5e28c0e3-,kodoku_no_gurume-f2fdd7f6-,kodoku_no_gurume-dac2b4f0-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f7531f88-,kodoku_no_gurume-9ec04f1e-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-51019084-,kodoku_no_gurume-2f3b8de2-,kodoku_no_gurume-26de77d7-,kodoku_no_gurume-e8b0cb92-,kodoku_no_gurume-5e28c0e3-,kodoku_no_gurume-f2fdd7f6-,kodoku_no_gurume-dac2b4f0-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f7531f88-,kodoku_no_gurume-9ec04f1e-" %}
 
 ---
 
@@ -47,7 +47,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **大阪府大阪市浪速区**。大阪メトロ「難波駅」・「日本橋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-51019084-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-51019084-" %}
 
 ---
 
@@ -57,7 +57,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **目黒区エリア**。東急「学芸大学駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-2f3b8de2-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-2f3b8de2-" %}
 
 ---
 
@@ -67,7 +67,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **世田谷区三軒茶屋エリア**。東急田園都市線「三軒茶屋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-26de77d7-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-26de77d7-" %}
 
 ---
 
@@ -77,7 +77,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **新宿区大久保エリア**。JR「大久保駅」または東京メトロ「新宿三丁目駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-e8b0cb92-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-e8b0cb92-" %}
 
 ---
 
@@ -87,7 +87,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **渋谷区エリア**。JR・東急・東京メトロ「渋谷駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-5e28c0e3-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-5e28c0e3-" %}
 
 ---
 
@@ -97,7 +97,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **台東区浅草橋エリア**。JR「浅草橋駅」または都営浅草線「浅草橋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f2fdd7f6-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f2fdd7f6-" %}
 
 ---
 
@@ -107,7 +107,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **品川区戸越エリア**。東急大井町線「戸越公園駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-dac2b4f0-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-dac2b4f0-" %}
 
 ---
 
@@ -117,7 +117,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **千葉県富津市富津エリア**。JR内房線「青堀駅」からバスまたは車でアクセス。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-83ea2596-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-83ea2596-" %}
 
 ---
 
@@ -127,7 +127,7 @@ Season6の幕開けは大阪。関西のソウルフードを出す**甘辛や**
 
 > **文京区エリア**。東京メトロ「本郷三丁目駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f7531f88-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f7531f88-" %}
 
 ---
 
@@ -137,7 +137,7 @@ Season6最終話は品川区の創作和食店**食堂とだか**。五郎が頼
 
 > **品川区荏原エリア**。東急大井町線「荏原町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-9ec04f1e-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-9ec04f1e-" %}
 
 ---
 

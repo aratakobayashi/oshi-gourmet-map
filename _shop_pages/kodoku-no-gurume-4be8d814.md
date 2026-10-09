@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'スペシャル友風焼き'}"
-  - "{'name': 'とん汁'}"
-  - "{'name': 'ハムポテトサラダ'}"
+  - "スペシャル友風焼き"
+  - "とん汁"
+  - "ハムポテトサラダ"
 ---

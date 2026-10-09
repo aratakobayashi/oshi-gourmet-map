@@ -19,4 +19,5 @@ members:
   - "大谷映美里"
 groups:
   - "equal_love"
+closed: true
 ---

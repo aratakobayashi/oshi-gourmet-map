@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'HIROKIスペシャル'}"
-  - "{'name': 'タコ広島ネギ焼き'}"
-  - "{'name': 'ホタテガーリック焼き'}"
+  - "HIROKIスペシャル"
+  - "タコ広島ネギ焼き"
+  - "ホタテガーリック焼き"
 ---

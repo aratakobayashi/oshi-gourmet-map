@@ -37,7 +37,7 @@ faq:
 
 <mark>Hey! Say! JUMP の中島裕翔・有岡大貴・髙木雄也</mark>が2018年秋に2週連続で訪れた街が「小江戸」川越だった。蔵造りの街並みを歩きながら醤油蔵を覗き、菓子屋横丁でさつまいもスイーツをつまみ、老舗和菓子店を梯子する——グルメ旅ドラマ「いただきハイジャンプ」川越特集（前編・後編）に登場した全16店のうち、現在も営業中の主要8店を徒歩で一筆書きに回れるコースを紹介する。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-243a0b6a-20181124,heysayjump-20173f2d-20181124,heysayjump-eea6c892-20181110,heysayjump-fa5e2437-20181110,heysayjump-14cb2470-20181110,heysayjump-b9c7e0f2-20181110,heysayjump-0b963b6e-20181124,heysayjump-1b4619c1-20181110"></div>
+{% include inline-shop-grid.html ids="heysayjump-243a0b6a-20181124,heysayjump-20173f2d-20181124,heysayjump-eea6c892-20181110,heysayjump-fa5e2437-20181110,heysayjump-14cb2470-20181110,heysayjump-b9c7e0f2-20181110,heysayjump-0b963b6e-20181124,heysayjump-1b4619c1-20181110" %}
 
 ## コース全体図
 

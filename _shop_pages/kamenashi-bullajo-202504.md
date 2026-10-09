@@ -21,4 +21,5 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+closed: true
 ---

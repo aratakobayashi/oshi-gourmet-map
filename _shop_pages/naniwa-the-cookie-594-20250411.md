@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '▶焼き芋タオルケーキ 900円'}"
+  - "▶焼き芋タオルケーキ 900円"
 ---

@@ -51,13 +51,13 @@ faq:
 
 孤独のグルメの焼肉シーンは**ご当地肉グルメの宝庫**。神奈川・川崎の「つるや」、三重・松阪の「前島食堂」、山形・米沢の「焼肉みよし」、静岡・伊東の「焼肉ふじ」と、地方の名店が揃う。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-0b8d16e6-,kodoku_no_gurume-6b620ad2-,kodoku_no_gurume-9a1803af-,kodoku_no_gurume-7e51bfa4-,kodoku_no_gurume-4557cfac-,kodoku_no_gurume-a27b3ef5-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-0b8d16e6-,kodoku_no_gurume-6b620ad2-,kodoku_no_gurume-9a1803af-,kodoku_no_gurume-7e51bfa4-,kodoku_no_gurume-4557cfac-,kodoku_no_gurume-a27b3ef5-" %}
 
 郡山の「舞木ドライブイン」は東北ドライブ旅の途中に立ち寄る昭和感あふれる食堂スタイル。中野の「蔡菜食堂」は韓国系ホルモンの隠れた名店。沖縄・宜野湾の「マイハウス」は地元民に愛されるアットホームな焼肉店として登場した。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-b849d4a4-,kodoku_no_gurume-a960c5c7-,kodoku_no_gurume-85463e91-,kodoku_no_gurume-16bbe494-,kodoku_no_gurume-c18e1597-,kodoku_no_gurume-d443dd9e-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-b849d4a4-,kodoku_no_gurume-a960c5c7-,kodoku_no_gurume-85463e91-,kodoku_no_gurume-16bbe494-,kodoku_no_gurume-c18e1597-,kodoku_no_gurume-d443dd9e-" %}
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-92ab84a8-,kodoku_no_gurume-417ff61f-,kodoku_no_gurume-8a664e79-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-92ab84a8-,kodoku_no_gurume-417ff61f-,kodoku_no_gurume-8a664e79-" %}
 
 ---
 
@@ -67,11 +67,11 @@ faq:
 
 よにのちゃんねるの焼肉・肉料理は**ジャンルの幅広さ**が特徴。NYの名門「ピーター・ルーガー・ステーキハウス東京」（渋谷区）はアメリカンスタイルの豪快なステーキを体験できる一軒。ジンギスカン専門「羊はち」（三軒茶屋・高円寺）は羊肉の旨みを存分に楽しめる個性派だ。港区の「胡同 西麻布店」は北京ダック×焼肉の中華スタイルで、よにのらしい斜め上の選択が光る。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-peter-luger,yonino-kintan-akasaka,yonino-hutong-nishiazabu,yonino-youhachi-sangenchaya,yonino-d88e366f-202603,yonino-bouinboshoku"></div>
+{% include inline-shop-grid.html ids="yonino-peter-luger,yonino-kintan-akasaka,yonino-hutong-nishiazabu,yonino-youhachi-sangenchaya,yonino-d88e366f-202603,yonino-bouinboshoku" %}
 
 港区の「赤坂 金舌（きんたん）」は希少部位を丁寧に焼くカウンタースタイルの焼肉店で、2回登場するほどメンバーお気に入りの一軒。東陽町の「大衆焼肉 暴飲暴食」はその名のとおり、コスパ重視のガッツリ系として番組を盛り上げた。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-a980d36b-202601"></div>
+{% include inline-shop-grid.html ids="yonino-a980d36b-202601" %}
 
 ---
 
@@ -81,7 +81,7 @@ faq:
 
 亀梨和也のセレクトは**高品質・高単価**な店が揃う。銀座の「USHIGORO S. GINZA」は和牛の最高峰を個室でゆっくり味わえる名店。渋谷の「ガーリックステーキ Bullajo」は洋食×焼肉の新感覚スタイルが話題だ。原宿の「GLAMS BBQ Lounge」はBBQスタイルのアウトドア感ある肉料理で、デート向きの雰囲気が特徴。横浜みなとみらいの「大徳壽」は韓国式の本格カルビで人気の名店、大阪・堺の「ミートファクトリーしまちゃん」は地元で愛される行列店だ。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-ushigoro_s_ginza-20250816,kamenashi-bullajo-202504,kamenashi-df0d89b3-202407,kamenashi-glams_bbq_lounge-202405,kamenashi-b68dd10a-202410,kamenashi-41feca79-202505"></div>
+{% include inline-shop-grid.html ids="kamenashi-ushigoro_s_ginza-20250816,kamenashi-bullajo-202504,kamenashi-df0d89b3-202407,kamenashi-glams_bbq_lounge-202405,kamenashi-b68dd10a-202410,kamenashi-41feca79-202505" %}
 
 ---
 
@@ -91,7 +91,7 @@ faq:
 
 SixTONESの焼肉は**格式ある名店**が揃う。西麻布の「叙々苑 游玄亭 西麻布本館」は日本を代表する焼肉店。同じく西麻布の「牛牛 総本店」も肉好きなら外せない。名古屋ロケでは「極上松阪牛 牛追道中」が登場、全国最高峰の松阪牛を産地近くで味わえる。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-5de59474-202101,sixtones-gyugyu-nishiazabu,sixtones-ushioidochu-nagoya,sixtones-ushimitsu-ebisu"></div>
+{% include inline-shop-grid.html ids="sixtones-5de59474-202101,sixtones-gyugyu-nishiazabu,sixtones-ushioidochu-nagoya,sixtones-ushimitsu-ebisu" %}
 
 ---
 
@@ -101,7 +101,7 @@ SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全ま�
 
 King & Princeの「バルバッコア〈青山本店〉」はブラジルシュラスコ食べ放題の名店。Snow Manは「大阪焼肉・ホルモン ふたご 六本木店」という大衆ホルモンの人気チェーンに登場しており、グループのギャップが面白い。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,snowman-futago-roppongi,snowman-09af6680-202605"></div>
+{% include inline-shop-grid.html ids="kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,snowman-futago-roppongi,snowman-09af6680-202605" %}
 
 ---
 
@@ -113,19 +113,19 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 <mark>乃木坂46（新静岡セノバ店）と日向坂46（静岡インター店）</mark>の両方に登場したのが静岡のソウルフード**「炭焼きレストランさわやか」**。げんこつハンバーグが名物で、県外ファンからも聖地巡礼の問い合わせが絶えない人気店だ。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-416e17d8-,hinatazaka46-sawayaka-shizuoka"></div>
+{% include inline-shop-grid.html ids="nogizaka46-416e17d8-,hinatazaka46-sawayaka-shizuoka" %}
 
 ## 乃木坂46・=LOVE・なにわ男子・not me
 
 乃木坂は「焼肉ライク 新橋本店」（ひとり焼肉スタイル）と「ちばチャン」（千葉）が登場。=LOVEは滋賀・大津の「近江牛 かね吉」（産地直送の上質な近江牛）や軽井沢の「エイジング・ビーフ」など旅先グルメが充実している。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-6b9948dd-,nogizaka46-6d7f1106-,equal_love-571d4c2e-202408,equal_love-tetsu-202408,equal_love-ushihachi-202408,equal_love-290f63cb-202505"></div>
+{% include inline-shop-grid.html ids="nogizaka46-6b9948dd-,nogizaka46-6d7f1106-,equal_love-571d4c2e-202408,equal_love-tetsu-202408,equal_love-ushihachi-202408,equal_love-290f63cb-202505" %}
 
 なにわ男子は町田の「焼肉Meat it」と千代田区の「焼肉ストーリー」の2軒。前者は地元で人気のカジュアル焼肉、後者は都心の洗練されたスタイルと対照的だ。not meは「焼肉トラジ」（池袋・京橋）と「うしごろ 銀座並木通り店」を訪問。うしごろは銀座屈指の高級和牛焼肉として知られ、グループの特別感ある一面が見えた。Hey!Say!JUMPは秋葉原の「HERO'S ステーキハウス」と銀座の「BLTステーキ」でアメリカンスタイルのステーキを堪能。タイムレスは新宿の「牛の達人 Private 西新宿店」という完全個室の希少部位専門店に登場している。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,notme-b2f81d0e-202408,notme-12cab5ae-202410,notme-273b4aa9-202408,heysayjump-hero_s-20160414"></div>
+{% include inline-shop-grid.html ids="naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,notme-b2f81d0e-202408,notme-12cab5ae-202410,notme-273b4aa9-202408,heysayjump-hero_s-20160414" %}
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-blt-20160720,timelesz-private-"></div>
+{% include inline-shop-grid.html ids="heysayjump-blt-20160720,timelesz-private-" %}
 
 ## エリア別焼肉聖地巡礼ルート
 

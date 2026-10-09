@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '煮魚定食'}"
-  - "{'name': 'ひじき煮浸し'}"
-  - "{'name': 'ほうれん草のごま和え'}"
+  - "煮魚定食"
+  - "ひじき煮浸し"
+  - "ほうれん草のごま和え"
 ---

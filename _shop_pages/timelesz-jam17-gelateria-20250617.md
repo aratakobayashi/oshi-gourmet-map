@@ -21,5 +21,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '塩バニラ＆プレミアムミルク'}"
+  - "塩バニラ＆プレミアムミルク"
 ---

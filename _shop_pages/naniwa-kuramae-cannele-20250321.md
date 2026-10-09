@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '▶抹茶deカヌレサンデー 980円'}"
+  - "▶抹茶deカヌレサンデー 980円"
 ---

@@ -20,6 +20,6 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': 'パン'}"
-  - "{'name': 'アイスラテ'}"
+  - "パン"
+  - "アイスラテ"
 ---

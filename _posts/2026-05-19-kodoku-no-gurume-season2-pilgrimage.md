@@ -41,7 +41,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season2が放送されたのは2013年。Season1で確立した「ひとりで食べる、ひとりに集中する」フォーマットはそのままに、五郎の行動範囲はさらに広がった。川崎・横浜・群馬まで足を伸ばしながら、東京の下町・住宅街にも深く潜り込んでいく——11話分の食の記録がここに揃っている。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-864cc592-,kodoku_no_gurume-1804d39a-,kodoku_no_gurume-204cec7f-,kodoku_no_gurume-3351f1f8-,kodoku_no_gurume-4be8d814-,kodoku_no_gurume-bcc4bf93-,kodoku_no_gurume-6d621f1f-,kodoku_no_gurume-ffdd453f-,kodoku_no_gurume-77f7e1a5-,kodoku_no_gurume-778413dd-,kodoku_no_gurume-9ad73284-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-864cc592-,kodoku_no_gurume-1804d39a-,kodoku_no_gurume-204cec7f-,kodoku_no_gurume-3351f1f8-,kodoku_no_gurume-4be8d814-,kodoku_no_gurume-bcc4bf93-,kodoku_no_gurume-6d621f1f-,kodoku_no_gurume-ffdd453f-,kodoku_no_gurume-77f7e1a5-,kodoku_no_gurume-778413dd-,kodoku_no_gurume-9ad73284-" %}
 
 ---
 
@@ -55,7 +55,7 @@ Season2の第一歩は、神奈川県川崎市の**新丸子**エリア。五郎
 
 > **川崎市中原区新丸子**。東急東横線「新丸子駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-864cc592-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-864cc592-" %}
 
 ---
 
@@ -67,7 +67,7 @@ Season2屈指の名エピソード。五郎が訪れたのは日本橋人形町�
 
 > **中央区日本橋人形町**。東京メトロ「人形町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-1804d39a-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-1804d39a-" %}
 
 ---
 
@@ -79,7 +79,7 @@ Season2屈指の名エピソード。五郎が訪れたのは日本橋人形町�
 
 > **中野区沼袋**。西武新宿線「沼袋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-204cec7f-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-204cec7f-" %}
 
 ---
 
@@ -91,7 +91,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **群馬県邑楽郡大泉町**。東武伊勢崎線「西小泉駅」徒歩圏内。東京（浅草）から約1時間30分。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-3351f1f8-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-3351f1f8-" %}
 
 ---
 
@@ -103,7 +103,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **横浜市神奈川区白楽**。東急東横線「白楽駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-4be8d814-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-4be8d814-" %}
 
 ---
 
@@ -115,7 +115,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **江戸川区京成小岩**。京成本線「京成小岩駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-bcc4bf93-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-bcc4bf93-" %}
 
 ---
 
@@ -127,7 +127,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **墨田区両国**。JR総武線・都営大江戸線「両国駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-6d621f1f-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-6d621f1f-" %}
 
 ---
 
@@ -139,7 +139,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **江東区北砂**。東京メトロ東西線「南砂町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-ffdd453f-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-ffdd453f-" %}
 
 ---
 
@@ -151,7 +151,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **北区十条**。JR埼京線「十条駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-77f7e1a5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-77f7e1a5-" %}
 
 ---
 
@@ -163,7 +163,7 @@ Season2最大の異色エピソード——五郎が向かったのは、なん�
 
 > **足立区北千住**。JR常磐線・東京メトロ千代田線「北千住駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-778413dd-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-778413dd-" %}
 
 ---
 
@@ -175,7 +175,7 @@ Season2最終話の舞台は三鷹市。五郎が締めくくりに選んだの�
 
 > **三鷹市エリア**。JR中央線「三鷹駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-9ad73284-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-9ad73284-" %}
 
 ---
 

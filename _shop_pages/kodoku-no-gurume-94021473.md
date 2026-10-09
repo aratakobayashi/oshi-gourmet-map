@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '肉とナスの醤油炒め定食'}"
-  - "{'name': '鳥唐揚げ'}"
-  - "{'name': '冷やし中華'}"
+  - "肉とナスの醤油炒め定食"
+  - "鳥唐揚げ"
+  - "冷やし中華"
 ---

@@ -20,6 +20,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '米粉湯（ビーフンスープ）'}"
-  - "{'name': '乾拌麵（汁なし麺）'}"
+  - "米粉湯（ビーフンスープ）"
+  - "乾拌麵（汁なし麺）"
 ---

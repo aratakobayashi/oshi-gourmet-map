@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '特辛カレーライス'}"
-  - "{'name': '鶏の煮込み'}"
-  - "{'name': 'サバのサンドイッチ'}"
+  - "特辛カレーライス"
+  - "鶏の煮込み"
+  - "サバのサンドイッチ"
 ---

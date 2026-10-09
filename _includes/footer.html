@@ -1,12 +1,18 @@
-<footer class="site-footer">
-  <div class="container">
-    <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} 推しグルメ聖地巡礼MAP — MADE WITH ♡ FOR FANS</p>
-    <nav class="footer-links" aria-label="サイト情報">
-      <a href="{{ '/about/' | relative_url }}">運営者情報</a>
-      <a href="{{ '/contact/' | relative_url }}">お問い合わせ</a>
-      <a href="{{ '/privacy/' | relative_url }}">プライバシーポリシー</a>
-      <a href="{{ '/disclosure/' | relative_url }}">広告（PR）表記</a>
-    </nav>
-    <p class="footer-note">当サイトはアフィリエイト広告を利用しています。動画・画像の権利は各権利者に帰属します。</p>
+<footer class="ftr">
+  <div class="wrap ftr__in">
+    <div>
+      <a href="{{ '/' | relative_url }}" class="logo">推しグルメ<em>巡礼</em>MAP</a>
+      <p class="ftr__note">アイドル・芸人・YouTuber・ドラマで紹介されたお店を、地図とリストで探せる聖地巡礼ガイド。</p>
+    </div>
+    <div>
+      <nav class="ftr__links" aria-label="サイト情報">
+        <a href="{{ '/about/' | relative_url }}">運営者情報</a>
+        <a href="{{ '/contact/' | relative_url }}">お問い合わせ</a>
+        <a href="{{ '/privacy/' | relative_url }}">プライバシーポリシー</a>
+        <a href="{{ '/disclosure/' | relative_url }}">広告（PR）表記</a>
+      </nav>
+      <p class="ftr__note">当サイトはアフィリエイト広告を利用しています。動画・画像の権利は各権利者に帰属します。</p>
+      <p class="ftr__note">&copy; {{ site.time | date: "%Y" }} 推しグルメ巡礼MAP</p>
+    </div>
   </div>
 </footer>

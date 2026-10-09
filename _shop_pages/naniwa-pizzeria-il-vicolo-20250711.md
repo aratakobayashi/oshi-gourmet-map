@@ -20,5 +20,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '【サラミ・デビル 2310円'}"
+  - "【サラミ・デビル 2310円"
 ---

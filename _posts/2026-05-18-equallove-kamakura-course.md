@@ -39,7 +39,7 @@ faq:
 
 > **=LOVE（イコラブ）の全グルメスポット（117店）はこちら →** [=LOVE グルメ完全まとめ]({{ '/articles/2026/05/13/equallove-gourmet-matome/' | relative_url }})
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-pacific_drivein-20240809,equal_love-d556ceee-202408,equal_love-87c3ff9e-202408,equal_love-1c33a8b5-202408,equal_love-22eda348-202408,equal_love-1de9b314-202408,equal_love-cb7485f1-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-pacific_drivein-20240809,equal_love-d556ceee-202408,equal_love-87c3ff9e-202408,equal_love-1c33a8b5-202408,equal_love-22eda348-202408,equal_love-1de9b314-202408,equal_love-cb7485f1-202408" %}
 
 ## コース全体図
 
@@ -64,7 +64,7 @@ faq:
 
 > **江ノ電「七里ヶ浜駅」から徒歩約4分**。週末は早めの時間帯に入るのがベスト。テラス席希望の場合は特に早めの到着を。**予算目安：2,000〜2,500円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-pacific_drivein-20240809"></div>
+{% include inline-shop-card.html shop_id="equal_love-pacific_drivein-20240809" %}
 
 ---
 
@@ -78,7 +78,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > **JR鎌倉駅東口から徒歩約5分**、小町通り沿い。テイクアウト中心のため回転が早く、混んでいても比較的スムーズに購入できる。**予算目安：300〜600円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-d556ceee-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-d556ceee-202408" %}
 
 ### 八倉 -湘南の魚と鎌倉野菜-（和食）
 
@@ -86,7 +86,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > **さくらの夢見屋から徒歩1分以内**（同番地・小町2-7）。**予算目安：1,500〜2,500円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-87c3ff9e-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-87c3ff9e-202408" %}
 
 ### からあげ まこちゃん 鎌倉本店（テイクアウト）
 
@@ -94,7 +94,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > 雪ノ下1-5-33 リバスクビル1階。**予算目安：300〜500円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-1c33a8b5-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-1c33a8b5-202408" %}
 
 ### ともや 鎌倉小町店（和食）
 
@@ -102,7 +102,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > 雪ノ下1-6-8。からあげまこちゃんから徒歩1〜2分。**予算目安：500〜1,000円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-22eda348-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-22eda348-202408" %}
 
 ### 鎌倉茶々本店（スイーツ）
 
@@ -110,7 +110,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > 雪ノ下1-6-8（ともやと同番地）。**予算目安：400〜600円**
 
-<div class="inline-shop-card" data-shop-id="equal_love-1de9b314-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-1de9b314-202408" %}
 
 ### 鎌倉壱番屋 雪ノ下店（惣菜・お土産）
 
@@ -118,7 +118,7 @@ Pacific DRIVE-INを出たら江ノ電で鎌倉駅へ（約10分）。ここか�
 
 > 雪ノ下1-6-6。鶴岡八幡宮まで徒歩約3分。**参拝を最後に組み込んで帰路へ**
 
-<div class="inline-shop-card" data-shop-id="equal_love-cb7485f1-202408"></div>
+{% include inline-shop-card.html shop_id="equal_love-cb7485f1-202408" %}
 
 ---
 

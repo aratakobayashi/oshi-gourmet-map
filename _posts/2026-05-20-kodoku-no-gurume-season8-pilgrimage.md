@@ -37,7 +37,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season8は2018年秋放送。横浜中華街・埼玉新座・群馬藤岡・鳥取と縦横に動き回りながら、御茶ノ水の南インドミールス・浅草のタイ・イサーン料理など東京では異国の味にも深くはまった12話分の記録だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-6dfc42b1-,kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-f06c8c10-,kodoku_no_gurume-265d5f69-,kodoku_no_gurume-a27b3ef5-,kodoku_no_gurume-028297e5-,kodoku_no_gurume-f729085e-,kodoku_no_gurume-9f166978-,kodoku_no_gurume-d48b48bf-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-1fa251f2-,kodoku_no_gurume-0355d3c9-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-6dfc42b1-,kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-f06c8c10-,kodoku_no_gurume-265d5f69-,kodoku_no_gurume-a27b3ef5-,kodoku_no_gurume-028297e5-,kodoku_no_gurume-f729085e-,kodoku_no_gurume-9f166978-,kodoku_no_gurume-d48b48bf-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-1fa251f2-,kodoku_no_gurume-0355d3c9-" %}
 
 ---
 
@@ -49,7 +49,7 @@ Season8の幕開けは横浜中華街の広東料理店**南粤美食**。五郎
 
 > **横浜市中区横浜中華街**。みなとみらい線「元町・中華街駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-6dfc42b1-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-6dfc42b1-" %}
 
 ---
 
@@ -59,7 +59,7 @@ Season8の幕開けは横浜中華街の広東料理店**南粤美食**。五郎
 
 > **中央区銀座エリア**。東京メトロ「銀座駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-ae19e1a8-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-ae19e1a8-" %}
 
 ---
 
@@ -69,8 +69,8 @@ Season8の幕開けは横浜中華街の広東料理店**南粤美食**。五郎
 
 > **埼玉県新座市エリア**（うどんや藤）。西武池袋線「東久留米駅」または「清瀬駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f06c8c10-"></div>
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-265d5f69-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f06c8c10-" %}
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-265d5f69-" %}
 
 ---
 
@@ -80,7 +80,7 @@ Season8の幕開けは横浜中華街の広東料理店**南粤美食**。五郎
 
 > **群馬県藤岡市エリア**。JR八高線「群馬藤岡駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-a27b3ef5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-a27b3ef5-" %}
 
 ---
 
@@ -90,7 +90,7 @@ Season8の幕開けは横浜中華街の広東料理店**南粤美食**。五郎
 
 > **台東区浅草エリア**。東京メトロ「田原町駅」または「稲荷町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-028297e5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-028297e5-" %}
 
 ---
 
@@ -100,8 +100,8 @@ Season8屈指の個性派エピソード——鳥取ロケ。**鳥取市役所�
 
 > **鳥取県鳥取市エリア**。JR山陰本線「鳥取駅」から徒歩・バスでアクセス。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f729085e-"></div>
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-9f166978-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f729085e-" %}
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-9f166978-" %}
 
 ---
 
@@ -111,7 +111,7 @@ Season8屈指の個性派エピソード——鳥取ロケ。**鳥取市役所�
 
 > **千代田区御茶ノ水エリア**。JR・東京メトロ「御茶ノ水駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-d48b48bf-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-d48b48bf-" %}
 
 ---
 
@@ -121,7 +121,7 @@ Season8屈指の個性派エピソード——鳥取ロケ。**鳥取市役所�
 
 > **世田谷区豪徳寺エリア**。小田急「豪徳寺駅」または東急「山下駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-de3c1971-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-de3c1971-" %}
 
 ---
 
@@ -131,7 +131,7 @@ Season8屈指の個性派エピソード——鳥取ロケ。**鳥取市役所�
 
 > **川崎市中原区武蔵小杉エリア**。JR・東急「武蔵小杉駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-1fa251f2-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-1fa251f2-" %}
 
 ---
 
@@ -141,7 +141,7 @@ Season8の締めくくりは三ノ輪の**中華・洋食 やよい**。五郎�
 
 > **台東区三ノ輪エリア**。東京メトロ日比谷線「三ノ輪駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-0355d3c9-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-0355d3c9-" %}
 
 ---
 

@@ -67,19 +67,19 @@ faq:
 
 <mark>浅草駅</mark>を起点に徒歩圏内で巡れる3店がすの日常に登場した。創業60年超の老舗「おにぎり浅草宿六」、もんじゃの「浅草つる次郎 HANARE」、麦とろご飯の老舗「浅草むぎとろ本店」。浅草寺・仲見世通り観光と組み合わせた半日コースに自然に組み込める。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604"></div>
+{% include inline-shop-grid.html ids="snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604" %}
 
 ## ラーメン・中華【早稲田・小金井・神楽坂】
 
 **背脂系ラーメン**「武蔵野アブラ學会 早稲田別館」、地元密着型の醤油ラーメン「江川亭 小金井本店」、神楽坂の老舗中華「龍朋」の3店が登場。どれも「地元で長年愛されてきた店」という共通点があり、Snow Manらしい本物志向の選択が光る。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-ryuho-kagurazaka"></div>
+{% include inline-shop-grid.html ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-ryuho-kagurazaka" %}
 
 ## 焼肉・鍋【六本木・神楽坂】
 
 大阪発の人気焼肉チェーン<mark>大阪焼肉・ホルモン ふたご 六本木店</mark>は、ホルモン中心でコスパが高く六本木という立地ながらがっつり食べられると動画でも盛り上がっていた。神楽坂の「しゃぶ禅」は上質なしゃぶしゃぶが楽しめる専門店だ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-futago-roppongi,snowman-09af6680-202605"></div>
+{% include inline-shop-grid.html ids="snowman-futago-roppongi,snowman-09af6680-202605" %}
 
 ## 寿司・海鮮【銀座の2店】
 
@@ -87,43 +87,43 @@ faq:
 
 > 銀座一丁目〜銀座駅エリアに集中。**ランチとディナーで2店はしごする贅沢プランも可能**。どちらも予約推奨。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-ginza-sushi-banya-kai,snowman-haneda-ichiba-ginza"></div>
+{% include inline-shop-grid.html ids="snowman-ginza-sushi-banya-kai,snowman-haneda-ichiba-ginza" %}
 
 ## 和食・イタリアン【麻布・中目黒・南青山・目黒】
 
 創業240年超の老舗そば「総本家更科堀井 本店」、土鍋ご飯の「いくしか」（中目黒）、南青山の本格イタリアン「ナプレ」、目黒のスペイン料理「Pablo」と、港区〜目黒エリアに個性的な名店が並ぶ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-sarashina-horii-motoazabu,snowman-donabe-gohan-ikushika,snowman-napure-minamiaoyama,snowman-pablo-meguro"></div>
+{% include inline-shop-grid.html ids="snowman-sarashina-horii-motoazabu,snowman-donabe-gohan-ikushika,snowman-napure-minamiaoyama,snowman-pablo-meguro" %}
 
 ## カフェ【表参道】
 
 フランス・ブルターニュ発の本格ガレット・クレープ専門店<mark>ブレッツカフェ クレープリー 表参道店</mark>。「これが本物のガレット」とメンバーが感動した動画は女性ファンを中心に大きな反響を呼んだ。
 
-<div class="inline-shop-card" data-shop-id="snowman-brettz-cafe-omotesando"></div>
+{% include inline-shop-card.html shop_id="snowman-brettz-cafe-omotesando" %}
 
 ## 居酒屋【恵比寿・阿佐ヶ谷】
 
 恵比寿の「俺の割烹 炉ばた」と、阿佐ヶ谷の焼き鳥専門店「阿佐ヶ谷バードランド」が登場した。どちらも"静かで落ち着いた"雰囲気の居酒屋回で、6人・9人ではなく少人数で訪れたすの日常らしい親密な空気感が伝わる動画だ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-ore-no-kappo-ebisu,snowman-asagaya-birdland"></div>
+{% include inline-shop-grid.html ids="snowman-ore-no-kappo-ebisu,snowman-asagaya-birdland" %}
 
 ## 和食・定食【各エリア】
 
 葛西の「わが家の食堂」、恵比寿の「薬膳キッチン やくぜんや」、品川・立会川の「そば会席 吉田家」、早稲田の「キッチン南国」、北千住の「ここのつ 3号店」、東久留米の「うなぎ川松」と、東京各地の和食・定食店が幅広く登場した。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-wagaya-shokudo-kasai,snowman-yakuzenya-ebisu,snowman-yoshidaya-tachiaigawa,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-unagi-kawamatu-higashikurume"></div>
+{% include inline-shop-grid.html ids="snowman-wagaya-shokudo-kasai,snowman-yakuzenya-ebisu,snowman-yoshidaya-tachiaigawa,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-unagi-kawamatu-higashikurume" %}
 
 ## 洋食・食事・その他【各エリア】
 
 赤坂の「帝國食堂」「Trattoria De salita」、世田谷の「瀬戸内バル Collabo」、八王子の「Kitchen ROCCO」、荒川の「キッチン ぴーなっつ」、新宿の「伊勢屋食堂」、渋谷の「パンダレストラン」、六本木の「ガスト」など、ジャンルを問わない食べ歩きが続く。**9人いれば行ける店の幅も広がる**というすの日常らしい多様性だ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-teikoku-shokudo-nishiazabu,snowman-de-salita-akasaka,snowman-setouchi-bar-collabo,snowman-kitchen-rocco-hachioji,snowman-kitchen-peanuts-arakawa,snowman-iseyashokudo-yodobashi,snowman-panda-restaurant-shibuya,snowman-gust-roppongi"></div>
+{% include inline-shop-grid.html ids="snowman-teikoku-shokudo-nishiazabu,snowman-de-salita-akasaka,snowman-setouchi-bar-collabo,snowman-kitchen-rocco-hachioji,snowman-kitchen-peanuts-arakawa,snowman-iseyashokudo-yodobashi,snowman-panda-restaurant-shibuya,snowman-gust-roppongi" %}
 
 ## スイーツ
 
 「ケーキファクトリー・ホイップ」がすの日常初期の動画に登場。**スイーツ回も地味にある**Snow Manグルメの幅広さを象徴する一店だ。
 
-<div class="inline-shop-card" data-shop-id="snowman-d4d93a94-201810"></div>
+{% include inline-shop-card.html shop_id="snowman-d4d93a94-201810" %}
 
 ## エリア別巡礼ルート
 

@@ -18,6 +18,10 @@ affiliate:
     tabelog_pid: ""
     hotpepper_pid: ""
     ikyu_pid: ""
+    jalan_pid: ""
+  # 楽天アフィリエイトのアフィリエイトID（例: 1234abcd.5678efgh.1234abcd.5678efgh）
+  rakuten:
+    id: ""
 
 # ビルド設定
 markdown: kramdown

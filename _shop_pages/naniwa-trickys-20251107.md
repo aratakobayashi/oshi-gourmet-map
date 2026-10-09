@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '「ゆばクレープ 680円'}"
+  - "「ゆばクレープ 680円"
 ---

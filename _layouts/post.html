@@ -1,454 +1,73 @@
 ---
 layout: default
 ---
-{% assign hero_color = '#e8537a' %}
-{% if page.group == 'snowman'      %}{% assign hero_color = '#3b82f6' %}{% endif %}
-{% if page.group == 'sixtones'     %}{% assign hero_color = '#7c3aed' %}{% endif %}
-{% if page.group == 'naniwa'       %}{% assign hero_color = '#f97316' %}{% endif %}
-{% if page.group == 'kamenashi'    %}{% assign hero_color = '#059669' %}{% endif %}
-{% if page.group == 'kamaitachi'   %}{% assign hero_color = '#8b5cf6' %}{% endif %}
-{% if page.group == 'equal_love'   %}{% assign hero_color = '#f43f5e' %}{% endif %}
-{% if page.group == 'notme'        %}{% assign hero_color = '#f43f5e' %}{% endif %}
-{% if page.group == 'neajoy'       %}{% assign hero_color = '#ec4899' %}{% endif %}
-{% if page.group == 'nogizaka46'   %}{% assign hero_color = '#0ea5e9' %}{% endif %}
-{% if page.group == 'sakurazaka46' %}{% assign hero_color = '#e11d48' %}{% endif %}
-{% if page.group == 'hinatazaka46' %}{% assign hero_color = '#f59e0b' %}{% endif %}
-{% if page.group == 'ginga'             %}{% assign hero_color = '#0f766e' %}{% endif %}
-{% if page.group == 'kodoku_no_gurume' %}{% assign hero_color = '#92400e' %}{% endif %}
+{%- assign gx = site.data.group_ix[page.group] -%}
+{%- assign glabel = gx.l | default: site.data.groups[page.group] | default: page.group -%}
+{%- if page.faq %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}</script>
+{%- endif %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":"特集記事","item":"{{ site.url }}/articles/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
 
-{% assign group_label = page.group %}
-{% if page.group == 'yonino'       %}{% assign group_label = 'よにのちゃんねる' %}{% endif %}
-{% if page.group == 'snowman'      %}{% assign group_label = 'Snow Man' %}{% endif %}
-{% if page.group == 'sixtones'     %}{% assign group_label = 'SixTONES' %}{% endif %}
-{% if page.group == 'naniwa'       %}{% assign group_label = 'なにわ男子' %}{% endif %}
-{% if page.group == 'kamenashi'    %}{% assign group_label = '亀梨和也' %}{% endif %}
-{% if page.group == 'kamaitachi'   %}{% assign group_label = 'かまいたち' %}{% endif %}
-{% if page.group == 'equal_love'   %}{% assign group_label = 'イコラブ' %}{% endif %}
-{% if page.group == 'notme'        %}{% assign group_label = '≠ME' %}{% endif %}
-{% if page.group == 'neajoy'       %}{% assign group_label = '≒JOY' %}{% endif %}
-{% if page.group == 'nogizaka46'   %}{% assign group_label = '乃木坂46' %}{% endif %}
-{% if page.group == 'sakurazaka46' %}{% assign group_label = '櫻坂46' %}{% endif %}
-{% if page.group == 'hinatazaka46' %}{% assign group_label = '日向坂46' %}{% endif %}
-{% if page.group == 'ginga'             %}{% assign group_label = '中丸雄一 銀河チャンネル' %}{% endif %}
-{% if page.group == 'kodoku_no_gurume' %}{% assign group_label = '孤独のグルメ' %}{% endif %}
-{% if page.group == 'heysayjump'      %}{% assign group_label = 'Hey! Say! JUMP' %}{% endif %}
-{% if page.group == 'timelesz'        %}{% assign group_label = 'timelesz' %}{% endif %}
-{% if group_label == page.group and site.data.groups[page.group] %}{% assign group_label = site.data.groups[page.group] %}{% endif %}
-
-{% assign post_image = '' %}
-{% if page.thumbnail_video_id %}
-  {% assign post_image = page.thumbnail_video_id | prepend: 'https://i.ytimg.com/vi_webp/' | append: '/hqdefault.webp' %}
-{% elsif page.thumbnail %}
-  {% assign post_image = page.thumbnail | absolute_url %}
-{% endif %}
-
-<!-- JSON-LD: Article -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": {{ page.title | jsonify }},
-  "description": {{ page.description | default: site.description | jsonify }},
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  {% if post_image != '' %}"image": "{{ post_image }}",{% endif %}
-  "author": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" },
-  "publisher": { "@type": "Organization", "name": "{{ site.title }}", "url": "{{ site.url }}" },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" }
-}
-</script>
-
-{% if page.faq %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {% for item in page.faq %}
-    { "@type": "Question", "name": {{ item.q | jsonify }}, "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} } }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]
-}
-</script>
-{% endif %}
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ site.url }}" },
-    { "@type": "ListItem", "position": 2, "name": "特集記事", "item": "{{ site.url }}/articles/" }{% if page.group %},
-    { "@type": "ListItem", "position": 3, "name": "{{ group_label }}の記事", "item": "{{ site.url }}/articles/?group={{ page.group }}" },
-    { "@type": "ListItem", "position": 4, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }{% else %},
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }{% endif %}
-  ]
-}
-</script>
-
-<!-- 読書進捗バー -->
-<div class="reading-progress" id="reading-progress"></div>
-
-<!-- パンくずリスト -->
-<nav class="breadcrumb" aria-label="パンくずリスト">
-  <div class="container">
-    <ol class="breadcrumb__list">
-      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
-      <li class="breadcrumb__item"><a href="{{ '/articles/' | relative_url }}">特集記事</a></li>
-      {% if page.group %}<li class="breadcrumb__item"><a href="{{ '/articles/' | relative_url }}?group={{ page.group }}">{{ group_label }}の記事</a></li>{% endif %}
-      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">{{ page.title }}</li>
-    </ol>
-  </div>
-</nav>
-
-<!-- ヒーロー -->
-<section class="article-hero" style="background: linear-gradient(135deg, #1a1a2e 0%, {{ hero_color }} 100%)">
-  <div class="article-hero__inner{% if post_image == '' %} article-hero__inner--no-media{% endif %}">
-    <div class="article-hero__content">
-      <div class="article-hero__badges">
-        {% if page.genre %}<span class="badge badge--genre">{{ site.data.genres[page.genre].label | default: page.genre }}</span>{% endif %}
-        {% if page.group %}<span class="badge" style="background:{{ hero_color }}33;color:#fff;border:1px solid {{ hero_color }}80">{{ group_label }}</span>{% endif %}
-        {% if page.prefecture %}<span class="badge badge--pref">{{ page.prefecture }}</span>{% endif %}
-      </div>
-      <h1 class="article-hero__title">{{ page.title }}</h1>
-      <p class="article-hero__meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
-        {% if page.last_modified_at %}<span class="article-hero__updated">更新: {{ page.last_modified_at | date: "%Y年%m月%d日" }}</span>{% endif %}
+<div class="wrap art">
+  <ol class="crumbs" aria-label="パンくずリスト">
+    <li><a href="{{ '/' | relative_url }}">ホーム</a></li>
+    <li><a href="{{ '/articles/' | relative_url }}">特集記事</a></li>
+    {%- if gx %}<li><a href="{{ gx.u | relative_url }}">{{ glabel }}</a></li>{% endif %}
+  </ol>
+  <div class="artg">
+    <article class="artg__a">
+      {%- if page.thumbnail_video_id %}
+      <figure class="art__hero"><img src="https://i.ytimg.com/vi_webp/{{ page.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="270" fetchpriority="high"></figure>
+      {%- endif %}
+      <p class="art__badges">
+        {%- if page.article_type %}<span class="badge badge--ink">{{ site.data.article_types[page.article_type] | default: page.article_type }}</span>{% endif %}
+        {%- if gx %}<a class="badge badge--group" style="--g:{{ gx.c }}" href="{{ gx.u | relative_url }}">{{ glabel }}</a>{% endif %}
+        {%- if page.shop_count %}<span class="badge">{{ page.shop_count }}軒</span>{% endif %}
       </p>
+      <h1 class="art__title">{{ page.title }}</h1>
+      <p class="art__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }} 公開</time>{% if page.last_modified_at and page.last_modified_at != page.date %}・{{ page.last_modified_at | date: "%Y.%m.%d" }} 更新{% endif %}</p>
+      {%- if page.pr %}<p class="pr-note" style="margin-top:4px">本ページはプロモーションを含みます</p>{% endif %}
+
+      {%- if page.summary %}
+      <div class="points"><b>この記事の要点</b><ul>{% for item in page.summary %}<li>{{ item }}</li>{% endfor %}</ul></div>
+      {%- endif %}
+      <p class="notice">掲載情報は{{ page.last_modified_at | default: page.date | date: "%Y年%-m月" }}時点のものです。閉店・移転していることがあるので、行く前にお店の最新情報を確かめてください。</p>
+      {% include toc.html html=content %}
+      <div class="prose">{{ content }}</div>
+    </article>
+
+    <div class="artg__b">
+      {%- if page.shop_ids %}
+      <section class="section" id="shops">
+        <div class="section__head"><h2 class="h2">この記事のお店</h2>{% if gx %}<a class="link-more" href="{{ '/shops/' | relative_url }}?g={{ page.group }}&amp;view=map">地図で見る →</a>{% endif %}</div>
+        <div class="minis">{% for id in page.shop_ids %}{% include mini.html id=id %}{% endfor %}</div>
+      </section>
+      {%- endif %}
+
+      {%- if page.faq %}
+      <section class="section faq" id="faq">
+        <h2 class="h2" style="margin-bottom:12px">よくある質問</h2>
+        {%- for item in page.faq %}
+        <details><summary>{{ item.q }}</summary><p>{{ item.a }}</p></details>
+        {%- endfor %}
+      </section>
+      {%- endif %}
+
+      {%- assign rel = site.posts | where: "group", page.group | where_exp: "p", "p.url != page.url" %}
+      {%- if rel.size < 3 %}{% assign rel = site.posts | where_exp: "p", "p.url != page.url" %}{% endif %}
+      <section class="section">
+        <h2 class="h2" style="margin-bottom:8px">あわせて読みたい</h2>
+        <ul class="alist">{% for p in rel limit: 4 %}<li>{% include article-item.html p=p %}</li>{% endfor %}</ul>
+      </section>
     </div>
-    {% if post_image != '' %}
-    <div class="article-hero__media">
-      <img src="{{ post_image }}" alt="{{ page.title }}" width="1280" height="720" fetchpriority="high">
-    </div>
-    {% endif %}
-  </div>
-</section>
 
-<!-- 本文 + サイドバー -->
-<div class="article-layout">
-  <div class="article-layout__inner container">
-
-    <main class="article-main" id="article-main">
-
-      {% if page.summary %}
-      <div class="post-summary">
-        <p class="post-summary__title">📌 この記事でわかること</p>
-        <ul class="post-summary__list">
-          {% for item in page.summary %}
-          <li>{{ item }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
-
-      <div class="data-notice">
-        <span class="data-notice__icon">ℹ️</span>
-        <span>掲載情報は<strong>{{ page.last_modified_at | default: page.date | date: "%Y年%m月" }}時点</strong>のものです。閉店・移転の可能性があるため、訪問前に最新情報をご確認ください。</span>
-      </div>
-
-      <!-- SP 目次（PCはサイドバーに表示） -->
-      <nav class="toc-box toc-box--mobile" id="toc-wrapper-mobile" aria-label="目次" style="display:none">
-        <button class="toc-toggle" id="toc-toggle" aria-expanded="false">
-          <span class="toc-toggle__label">📋 目次</span>
-          <span class="toc-toggle__icon">▼</span>
-        </button>
-        <ol class="toc-list toc-list--mobile" id="toc-list-mobile" style="display:none"></ol>
-      </nav>
-
-      <div class="post-body">
-        {{ content }}
-      </div>
-
-      {% if page.shop_ids %}
-      <section class="article-shops">
-        <div class="article-shops__header">
-          <h2 class="article-shops__title">🍽️ 記事に登場したお店</h2>
-          {% if page.group %}<a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="article-shops__more">全店舗を見る →</a>{% endif %}
-        </div>
-        <div class="article-shops__scroll" id="related-shop-cards" data-shop-ids="{{ page.shop_ids | join: ',' }}"></div>
-      </section>
-      {% endif %}
-
-      {% if page.faq %}
-      <section class="faq" id="faq">
-        <h2 class="faq__title">よくある質問</h2>
-        {% for item in page.faq %}
-        <div class="faq__item">
-          <button class="faq__question" aria-expanded="false">{{ item.q }}</button>
-          <div class="faq__answer">{{ item.a }}</div>
-        </div>
-        {% endfor %}
-      </section>
-      {% endif %}
-
-      {% assign related_posts = site.posts | where: "group", page.group | where_exp: "item", "item.url != page.url" %}
-      {% if related_posts.size > 0 %}
-      <section class="related-posts">
-        <p class="related-posts__title">{{ group_label }}の関連記事</p>
-        <ul class="related-posts__list">
-          {% for rp in related_posts limit:6 %}
-          <li class="related-posts__card">
-            <a href="{{ rp.url | relative_url }}" class="related-posts__card-link">
-              <div class="related-posts__card-thumb">
-                {% if rp.thumbnail_video_id %}
-                <img src="https://i.ytimg.com/vi_webp/{{ rp.thumbnail_video_id }}/mqdefault.webp" alt="{{ rp.title }}" loading="lazy">
-                {% else %}
-                <div class="related-posts__thumb-placeholder">🍽️</div>
-                {% endif %}
-              </div>
-              <div class="related-posts__card-body">
-                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ site.data.genres[rp.genre].label | default: rp.genre }}</span>{% endif %}
-                <p class="related-posts__card-title">{{ rp.title }}</p>
-              </div>
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
-      {% endif %}
-
-      {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
-      {% if page.group %}
-        {% assign other_posts = other_posts | where_exp: "item", "item.group != page.group" %}
-      {% endif %}
-      {% if other_posts.size > 0 %}
-      <section class="related-posts related-posts--other">
-        <p class="related-posts__title">他のグループのまとめも読む</p>
-        <ul class="related-posts__list">
-          {% for rp in other_posts limit:4 %}
-          <li class="related-posts__card">
-            <a href="{{ rp.url | relative_url }}" class="related-posts__card-link">
-              <div class="related-posts__card-thumb">
-                {% if rp.thumbnail_video_id %}
-                <img src="https://i.ytimg.com/vi_webp/{{ rp.thumbnail_video_id }}/mqdefault.webp" alt="{{ rp.title }}" loading="lazy">
-                {% else %}
-                <div class="related-posts__thumb-placeholder">🍽️</div>
-                {% endif %}
-              </div>
-              <div class="related-posts__card-body">
-                {% if rp.genre %}<span class="badge badge--genre" style="font-size:0.65rem">{{ site.data.genres[rp.genre].label | default: rp.genre }}</span>{% endif %}
-                <p class="related-posts__card-title">{{ rp.title }}</p>
-              </div>
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
-      {% endif %}
-
-      {% if page.group %}
-      <section class="post-map-cta">
-        <p class="post-map-cta__text">他にも<strong>{{ group_label }}</strong>が訪れたスポットを地図でまとめて確認できます。</p>
-        <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="post-map-cta__btn">地図で全スポットを見る →</a>
-      </section>
-      {% endif %}
-
-      <footer class="post-footer article-post-footer">
-        <div class="post-footer__share">
-          <span>この記事をシェア：</span>
-          <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener">𝕏</a>
-          <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener">LINE</a>
-        </div>
-        <div class="post-footer__nav">
-          <a href="{{ '/articles/' | relative_url }}" class="btn btn--back">← 記事一覧に戻る</a>
-          <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
-        </div>
-      </footer>
-
-    </main>
-
-    <!-- PC サイドバー -->
-    <aside class="article-sidebar" id="article-sidebar">
-      <div class="article-sidebar__inner">
-
-        <nav class="toc-box toc-box--sidebar" id="toc-wrapper-sidebar" aria-label="目次" style="display:none">
-          <p class="toc-title">📋 目次</p>
-          <ol class="toc-list" id="toc-list-sidebar"></ol>
-        </nav>
-
-        {% if page.group %}
-        <div class="sidebar-cta">
-          <p class="sidebar-cta__group">{{ group_label }}</p>
-          <p class="sidebar-cta__text">が訪れた全グルメスポットを地図で確認できます</p>
-          <a href="{{ '/shops/' | relative_url }}?group={{ page.group }}" class="sidebar-cta__btn">地図で見る →</a>
-        </div>
-        {% endif %}
-
-      </div>
+    <aside class="artg__s">
+      {%- if gx %}
+      <a class="darkblock darkblock--link" href="{{ gx.u | relative_url }}"><span><span class="meta">{{ glabel }}</span><br><b>行ったお店 {{ gx.n }}軒を見る</b></span><span aria-hidden="true">→</span></a>
+      {%- else %}
+      <a class="darkblock darkblock--link" href="{{ '/shops/' | relative_url }}"><span><span class="meta">推しが行ったお店</span><br><b>{{ site.data.site_stats.shops }}軒を地図で探す</b></span><span aria-hidden="true">→</span></a>
+      {%- endif %}
+      <button type="button" class="btn btn--block" data-share>この記事を共有</button>
     </aside>
-
   </div>
 </div>
-
-<script>
-const SITE_BASEURL = '{{ site.baseurl }}';
-
-// 読書進捗バー
-(function() {
-  var bar = document.getElementById('reading-progress');
-  if (!bar) return;
-  function update() {
-    var main = document.getElementById('article-main');
-    if (!main) return;
-    var scrollTop = window.scrollY || document.documentElement.scrollTop;
-    var total = main.offsetTop + main.offsetHeight - window.innerHeight;
-    var pct = total > 0 ? Math.min(100, (scrollTop / total) * 100) : 0;
-    bar.style.width = pct + '%';
-  }
-  window.addEventListener('scroll', update, { passive: true });
-  // 初期計算は最初の描画のあとに行う（描画前のレイアウト計算を避ける）
-  window.addEventListener('load', function() { requestAnimationFrame(update); });
-})();
-
-// 目次自動生成
-(function() {
-  var headings = document.querySelectorAll('.post-body h2, .post-body h3');
-  if (headings.length < 2) return;
-  var tocSidebar  = document.getElementById('toc-list-sidebar');
-  var tocMobile   = document.getElementById('toc-list-mobile');
-  var wrapSidebar = document.getElementById('toc-wrapper-sidebar');
-  var wrapMobile  = document.getElementById('toc-wrapper-mobile');
-
-  headings.forEach(function(h, i) {
-    var id = 'section-' + i;
-    h.id = id;
-    var isH3 = h.tagName === 'H3';
-    [tocSidebar, tocMobile].forEach(function(list) {
-      if (!list) return;
-      var li = document.createElement('li');
-      if (isH3) li.classList.add('toc-item--h3');
-      var a  = document.createElement('a');
-      a.href = '#' + id;
-      a.textContent = h.textContent;
-      a.dataset.sectionId = id;
-      li.appendChild(a);
-      list.appendChild(li);
-    });
-  });
-
-  if (wrapSidebar) wrapSidebar.style.display = 'block';
-  if (wrapMobile)  wrapMobile.style.display  = 'block';
-
-  // サイドバー TOC アクティブ追跡
-  if (tocSidebar && 'IntersectionObserver' in window) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) {
-          tocSidebar.querySelectorAll('a').forEach(function(a) { a.classList.remove('toc-active'); });
-          var active = tocSidebar.querySelector('[data-section-id="' + entry.target.id + '"]');
-          if (active) active.classList.add('toc-active');
-        }
-      });
-    }, { rootMargin: '-10% 0px -80% 0px' });
-    headings.forEach(function(h) { observer.observe(h); });
-  }
-})();
-
-// SP 目次トグル
-(function() {
-  var btn  = document.getElementById('toc-toggle');
-  var list = document.getElementById('toc-list-mobile');
-  if (!btn || !list) return;
-  btn.addEventListener('click', function() {
-    var open = list.style.display !== 'none';
-    list.style.display = open ? 'none' : 'block';
-    btn.setAttribute('aria-expanded', String(!open));
-    btn.querySelector('.toc-toggle__icon').textContent = open ? '▼' : '▲';
-  });
-})();
-
-// FAQ アコーディオン
-document.querySelectorAll('.faq__question').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    var item = btn.closest('.faq__item');
-    var isOpen = item.classList.contains('open');
-    item.classList.toggle('open', !isOpen);
-    btn.setAttribute('aria-expanded', String(!isOpen));
-  });
-});
-
-// 店舗データを一度だけ取得してインライン・スクロール両方に使う
-(function() {
-  var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
-
-  function esc(s) {
-    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
-
-  function buildInlineCard(shop) {
-    var thumbSrc = shop.youtube_id
-      ? 'https://i.ytimg.com/vi_webp/' + esc(shop.youtube_id) + '/mqdefault.webp'
-      : (shop.thumbnail_url || '');
-    var thumb = thumbSrc
-      ? '<img src="' + thumbSrc + '" alt="' + esc(shop.name) + '" loading="lazy">'
-      : '<div class="inline-shop-card__banner" style="background:#f5eef0">🍽️</div>';
-    var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-    var shopSlug = shop.id.replace(/_/g, '-').replace(/-+$/g, '');
-    var url  = base + '/shops/' + shopSlug + '/';
-    return '<div class="inline-shop-card">'
-      + '<a class="inline-shop-card__inner" href="' + url + '">'
-      + '<div class="inline-shop-card__thumb">' + thumb + '</div>'
-      + '<div class="inline-shop-card__body">'
-      + (shop.genre ? '<span class="badge badge--genre" style="font-size:0.7rem">' + esc(genreLabel(shop.genre)) + '</span>' : '')
-      + '<p class="inline-shop-card__name">' + esc(shop.name) + '</p>'
-      + (area ? '<p class="inline-shop-card__meta">📍 ' + esc(area) + '</p>' : '')
-      + '<span class="inline-shop-card__cta">詳細・動画を見る →</span>'
-      + '</div></a></div>';
-  }
-
-  // 本文にインラインカード/グリッドがあれば記事下部スクロールを非表示にする
-  var hasInline = document.querySelectorAll(
-    '.post-body .inline-shop-card[data-shop-id], .post-body .inline-shop-grid[data-shop-ids]'
-  ).length > 0;
-  if (hasInline) {
-    var articleShops = document.querySelector('.article-shops');
-    if (articleShops) articleShops.style.display = 'none';
-  }
-
-  // 店舗カードの場所が画面に近づいたら店舗データを読み込む（表示速度のため）
-  function loadShops() {
-    fetch(base + '/data/shops-lite.json')
-      .then(function(r) { return r.json(); })
-      .then(function(shops) {
-        var byId = {};
-        shops.forEach(function(s) { byId[s.id] = s; });
-
-        // 記事下部・横スクロールカード（インラインカードなし記事のみ）
-        if (!hasInline) {
-          var scrollContainer = document.getElementById('related-shop-cards');
-          if (scrollContainer && typeof buildShopCard === 'function') {
-            var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
-            var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
-            if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-          }
-        }
-
-        // 記事本文インラインカード（単体）
-        document.querySelectorAll('.inline-shop-card[data-shop-id]').forEach(function(el) {
-          var shop = byId[el.dataset.shopId];
-          if (shop) el.outerHTML = buildInlineCard(shop);
-          else el.remove(); // ID不明・タイポ時は非表示
-        });
-
-        // 記事本文インライングリッド（複数横スクロール）
-        document.querySelectorAll('.inline-shop-grid[data-shop-ids]').forEach(function(el) {
-          var ids = el.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
-          var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
-          if (matched.length && typeof buildShopCard === 'function') {
-            el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-            el.removeAttribute('data-shop-ids'); // ローディング状態を解除
-          } else {
-            el.remove(); // 該当なし時は非表示
-          }
-        });
-      });
-  }
-  var targets = document.querySelectorAll('.inline-shop-card[data-shop-id], .inline-shop-grid[data-shop-ids], #related-shop-cards');
-  if (!targets.length) return;
-  if (!('IntersectionObserver' in window)) { loadShops(); return; }
-  var io = new IntersectionObserver(function(entries) {
-    if (entries.some(function(e) { return e.isIntersecting; })) { io.disconnect(); loadShops(); }
-  }, { rootMargin: '800px' });
-  targets.forEach(function(t) { io.observe(t); });
-})();
-</script>

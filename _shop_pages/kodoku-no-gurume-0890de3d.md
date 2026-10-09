@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '納豆のピザ'}"
-  - "{'name': '辛いパスタ'}"
+  - "納豆のピザ"
+  - "辛いパスタ"
 ---

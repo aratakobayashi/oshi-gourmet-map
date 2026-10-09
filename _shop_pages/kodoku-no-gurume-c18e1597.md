@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'リブステーキ300g'}"
-  - "{'name': 'ガーリックライス（ハーフ）'}"
+  - "リブステーキ300g"
+  - "ガーリックライス（ハーフ）"
 ---

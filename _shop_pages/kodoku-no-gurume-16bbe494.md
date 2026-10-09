@@ -20,4 +20,5 @@ members:
   - "井之頭五郎"
 groups:
   - "kodoku_no_gurume"
+closed: true
 ---

@@ -1,0 +1,9 @@
+{%- comment -%} 記事の行（一覧）。引数: p（記事） {%- endcomment -%}
+{%- assign _p = include.p -%}
+<a class="aitem" href="{{ _p.url | relative_url }}">
+  <div class="thumb">{% if _p.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ _p.thumbnail_video_id }}/mqdefault.webp" alt="" width="320" height="180" loading="lazy">{% elsif _p.thumbnail %}<img src="{{ _p.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="600" height="400" loading="lazy">{% endif %}</div>
+  <div>
+    {%- if _p.article_type %}<p class="aitem__cat">{{ site.data.article_types[_p.article_type] | default: _p.article_type }}</p>{% elsif _p.collection == 'guides' %}{% assign _cat = site.data.guide_categories | where: "key", _p.guide_category | first %}<p class="aitem__cat">{{ _cat.label }}</p>{% endif %}
+    <p class="aitem__title">{{ _p.title }}</p>
+  </div>
+</a>

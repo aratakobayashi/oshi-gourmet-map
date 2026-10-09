@@ -20,5 +20,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': '国産黒毛和牛ローストビーフの切り落とし'}"
+  - "国産黒毛和牛ローストビーフの切り落とし"
 ---

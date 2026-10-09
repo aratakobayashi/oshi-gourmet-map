@@ -21,5 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '宇治抹茶・パイナップル・マロンクリーム・コーンフレークの特製パフェ'}"
+  - "宇治抹茶・パイナップル・マロンクリーム・コーンフレークの特製パフェ"
+closed: true
 ---

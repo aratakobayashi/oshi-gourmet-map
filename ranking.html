@@ -1,159 +1,38 @@
 ---
 layout: default
 title: 推しグルメランキング｜グループ・ジャンル・エリア別
-description: よにのちゃんねる・Snow Man・SixTONESなど推しグループのグルメ訪問数ランキング。ジャンル別・都道府県別の聖地スポット数も確認できます。
+description: よにのちゃんねる・Snow Man・SixTONESなど、推しが訪れたお店の数をグループ別・ジャンル別・都道府県別にランキングしました。
 ---
-<script>window.SITE_BASEURL = '{{ site.baseurl }}';</script>
+{%- assign st = site.data.site_stats -%}
+<div class="wrap">
+  <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">ランキング</li></ol>
+  <h1 class="page-title">ランキング</h1>
+  <p class="page-lead">収録している{{ st.shops }}軒を、グループ・ジャンル・エリアごとに数えました。</p>
 
-<!-- ページヘッダー -->
-<section class="page-hero">
-  <div class="container page-hero__inner">
-    <p class="section-eyebrow" style="color:var(--c-blush)">RANKING</p>
-    <h1 class="page-hero__title">推しグルメ<span class="txt-berry">ランキング</span></h1>
-    <p class="page-hero__desc">グループ・ジャンル・エリアごとにスポット数を集計しました</p>
-  </div>
-</section>
-
-<!-- SECTION 01: グループランキング -->
-<section class="landing-section landing-section--alt" id="groups">
-  <div class="container">
-    <div class="section-header-row">
-      <div class="section-header">
-        <p class="section-eyebrow">RANKING 01 / GROUP</p>
-        <h2 class="section-title">グループ<span class="txt-berry">ランキング</span></h2>
-        <p class="section-desc">収録スポット数の多い順。推しを選んで絞り込もう</p>
-      </div>
-      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">全スポットを見る →</a>
-    </div>
-    <div class="ranking-grid" id="group-ranking">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 02: ジャンルランキング -->
-<section class="landing-section">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">RANKING 02 / GENRE</p>
-      <h2 class="section-title">ジャンル<span class="txt-highlight">ランキング</span></h2>
-      <p class="section-desc">収録スポット数の多いジャンルから探す</p>
-    </div>
-    <div class="genre-chips" id="genre-chips">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
+  <div class="rankcols">
+    <section class="section">
+      <h2 class="h2"><span class="num">01</span>お店の多い推し</h2>
+      <ol>{% for g in site.data.group_meta limit: 20 %}<li><a class="rank" href="{{ g.url | relative_url }}"><span class="rank__no">{{ forloop.index }}</span><span class="rank__name" style="--g:{{ g.color }}"><span class="dot"></span>{{ g.label }}</span><span class="rank__n">{{ g.count }}軒</span></a></li>{% endfor %}</ol>
+      <p class="more-wrap"><a class="link-more" href="{{ '/groups/' | relative_url }}">{{ st.groups }}組すべて見る →</a></p>
+    </section>
+    <div>
+      <section class="section">
+        <h2 class="h2"><span class="num">02</span>ジャンル</h2>
+        {%- assign top = 0 %}{% for g in st.genres %}{% if g[1] > top %}{% assign top = g[1] %}{% endif %}{% endfor %}
+        <div class="bars" style="margin-top:16px">
+          {%- for g in site.data.genres %}{% assign gk = g[0] %}{% assign n = st.genres[gk] %}{% if n %}
+          <a class="bar" href="{{ '/shops/' | relative_url }}?genre={{ g[0] }}"><span class="stamp stamp--sm">{{ g[1].mark }}</span><span>{{ g[1].label }}</span><span class="bar__track"><span class="bar__fill" style="width:{{ n | times: 100 | divided_by: top }}%"></span></span><span class="n">{{ n }}</span></a>
+          {%- endif %}{% endfor %}
+        </div>
+      </section>
+      <section class="section">
+        <h2 class="h2"><span class="num">03</span>都道府県</h2>
+        <ol>{% for p in st.prefectures %}<li><a class="rank" href="{{ '/shops/' | relative_url }}?pref={{ p.name | url_encode }}"><span class="rank__no">{{ forloop.index }}</span><span class="rank__name">{{ p.name }}</span><span class="rank__n">{{ p.count }}軒</span></a></li>{% endfor %}</ol>
+      </section>
+      <section class="section">
+        <h2 class="h2"><span class="num">04</span>駅</h2>
+        <ol>{% for p in st.stations limit: 10 %}<li><a class="rank" href="{{ '/shops/' | relative_url }}?st={{ p.name | url_encode }}"><span class="rank__no">{{ forloop.index }}</span><span class="rank__name">{{ p.name }}</span><span class="rank__n">{{ p.count }}軒</span></a></li>{% endfor %}</ol>
+      </section>
     </div>
   </div>
-</section>
-
-<!-- SECTION 03: エリアランキング -->
-<section class="landing-section landing-section--alt">
-  <div class="container">
-    <div class="section-header-row">
-      <div class="section-header">
-        <p class="section-eyebrow">RANKING 03 / AREA</p>
-        <h2 class="section-title">エリア<span class="txt-berry">ランキング</span></h2>
-        <p class="section-desc">都道府県別の収録スポット数 Top 10</p>
-      </div>
-      <a href="{{ '/shops/' | relative_url }}" class="section-more-link">地図で探す →</a>
-    </div>
-    <div class="area-ranking" id="area-ranking">
-      <p style="color:var(--c-muted);font-family:var(--f-sans);font-size:13px">読み込み中...</p>
-    </div>
-  </div>
-</section>
-
-<!-- JS: ランキング動的レンダリング -->
-<script>
-(function () {
-  var BASE = window.SITE_BASEURL || '';
-  var LABELS = {
-    yonino:'よにのちゃんねる', snowman:'Snow Man', sixtones:'SixTONES',
-    naniwa:'なにわ男子', kamenashi:'亀梨和也', equal_love:'イコラブ',
-    notme:'≠ME', neajoy:'≒JOY',
-    nogizaka46:'乃木坂46', hinatazaka46:'日向坂46', sakurazaka46:'櫻坂46',
-    ginga:'中丸雄一 銀河チャンネル', kamaitachi:'かまいたち'
-  };
-  var COLORS = {
-    yonino:'#e8537a', snowman:'#3b82f6', sixtones:'#7c3aed',
-    naniwa:'#f97316', kamenashi:'#059669', equal_love:'#f43f5e',
-    notme:'#0d9488', neajoy:'#d946ef',
-    nogizaka46:'#0ea5e9', hinatazaka46:'#f59e0b', sakurazaka46:'#e11d48',
-    ginga:'#6366f1', kamaitachi:'#eab308'
-  };
-
-  function esc(s) {
-    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
-
-  function renderGroupRanking(shops) {
-    var counts = {};
-    shops.forEach(function(s) {
-      ((s.groups && s.groups.length ? s.groups : (s.group ? [s.group] : []))).forEach(function(g) {
-        counts[g] = (counts[g] || 0) + 1;
-      });
-    });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
-    var grid = document.getElementById('group-ranking');
-    if (!grid) return;
-    grid.innerHTML = sorted.map(function(group, i) {
-      var label = LABELS[group] || (window.SITE_GROUP_LABELS || {})[group] || group;
-      var color = COLORS[group] || '#c4b5fd';
-      var rank  = String(i + 1).padStart(2, '0');
-      var cls   = i < 3 ? ' oshi-card--top' + (i + 1) : '';
-      var icon  = (window.GROUP_PHOTOS || []).indexOf(group) >= 0 ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
-      return '<a class="oshi-card' + cls + '" href="' + BASE + '/shops/?group=' + esc(group) + '" style="--oshi-color:' + color + '">'
-        + '<div class="oshi-card__rank">' + rank + '</div>'
-        + (icon ? '<img class="oshi-card__img" src="' + esc(icon) + '" alt="' + esc(label) + '" onerror="this.style.opacity=\'0\'">' : '<div class="oshi-card__img" aria-hidden="true"></div>')
-        + '<div class="oshi-card__name">' + esc(label) + '</div>'
-        + '<div class="oshi-card__count">訪問店 ' + counts[group] + ' 件</div>'
-        + '</a>';
-    }).join('');
-  }
-
-  function renderGenreChips(shops) {
-    var counts = {};
-    shops.forEach(function(s) { if (s.genre) counts[s.genre] = (counts[s.genre] || 0) + 1; });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; });
-    var el = document.getElementById('genre-chips');
-    if (!el) return;
-    el.innerHTML = sorted.map(function(genre) {
-      return '<a href="' + BASE + '/shops/?genre=' + esc(genre) + '" class="genre-chip">'
-        + '# ' + esc(genreLabel(genre))
-        + ' <span class="genre-chip__count">' + counts[genre] + '</span>'
-        + '</a>';
-    }).join('');
-  }
-
-  function renderAreaRanking(shops) {
-    var counts = {};
-    shops.forEach(function(s) { if (s.prefecture) counts[s.prefecture] = (counts[s.prefecture] || 0) + 1; });
-    var sorted = Object.keys(counts).sort(function(a, b) { return counts[b] - counts[a]; }).slice(0, 10);
-    var max = counts[sorted[0]] || 1;
-    var el = document.getElementById('area-ranking');
-    if (!el) return;
-    el.innerHTML = sorted.map(function(pref, i) {
-      var pct  = Math.round(counts[pref] / max * 100);
-      var rank = String(i + 1).padStart(2, '0');
-      var cls  = i < 3 ? ' area-row__rank--top' : '';
-      return '<div class="area-row">'
-        + '<span class="area-row__rank' + cls + '">' + rank + '</span>'
-        + '<span class="area-row__name">' + esc(pref) + '</span>'
-        + '<div class="area-row__bar-wrap"><div class="area-row__bar-fill" style="width:' + pct + '%"></div></div>'
-        + '<span class="area-row__count">' + counts[pref] + '件</span>'
-        + '</div>';
-    }).join('');
-  }
-
-  fetch(BASE + '/data/shops-lite.json')
-    .then(function(r) { return r.json(); })
-    .then(function(shops) {
-      renderGroupRanking(shops);
-      renderGenreChips(shops);
-      renderAreaRanking(shops);
-    })
-    .catch(function() {
-      var target = document.getElementById('group-ranking') || document.querySelector('main');
-      if (target) target.innerHTML = '<div style="padding:80px 16px;text-align:center;color:var(--c-muted)">データを読み込めませんでした。<br><a href="" onclick="location.reload();return false;" style="color:inherit;text-decoration:underline">再読み込み</a></div>';
-    });
-}());
-</script>
+</div>

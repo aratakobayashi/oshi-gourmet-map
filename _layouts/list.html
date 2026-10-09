@@ -1,119 +1,42 @@
 ---
 layout: default
 ---
+{%- assign gx = site.data.group_ix[page.group] -%}
+{%- assign genre = site.data.genres[page.genre] -%}
+{%- assign ids = site.data.group_detail[page.group].by_genre[page.genre] -%}
+{%- assign glabel = gx.l | default: page.group_label -%}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":{{ glabel | jsonify }},"item":"{{ site.url }}{{ gx.u }}"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
 
-<!-- ① ビジュアルヘッダーバナー -->
-<div class="list-banner{% unless page.group_color %} list-banner--default{% endunless %}"
-     {% if page.group_color %}style="--lbanner-color:{{ page.group_color }}"{% endif %}>
-  <div class="container">
-    <nav class="list-banner__breadcrumb" aria-label="breadcrumb">
-      <a href="{{ '/' | relative_url }}">トップ</a>
-      <span>›</span>
-      <a href="{{ '/shops/' | relative_url }}">お店一覧</a>
-      <span>›</span>
-      <span>{{ page.title }}</span>
-    </nav>
-    <div class="list-banner__inner">
-      <div class="list-banner__badges">
-        <span class="list-banner__badge">{{ page.group_label }}</span>
-        <span class="list-banner__badge list-banner__badge--genre">{{ site.data.genres[page.genre].label | default: page.genre }}</span>
-      </div>
-      <h1 class="list-banner__title">{{ page.title }}</h1>
-      <p class="list-banner__count" id="list-shop-count">
-        {{ page.shop_count }}件
-      </p>
-      {% if page.description %}
-        <p class="list-banner__desc">{{ page.description }}</p>
-      {% endif %}
+<div class="ghero" style="--g:{{ gx.c | default: page.group_color }}">
+  <div class="wrap">
+    <ol class="crumbs" aria-label="パンくずリスト">
+      <li><a href="{{ '/' | relative_url }}">ホーム</a></li>
+      <li><a href="{{ gx.u | relative_url }}">{{ glabel }}</a></li>
+      <li aria-current="page">{{ genre.label | default: page.genre }}</li>
+    </ol>
+    <div style="display:flex;gap:16px;align-items:center">
+      <span class="stamp stamp--tilt" style="--c:var(--g);flex:none" aria-hidden="true">{{ genre.mark }}</span>
+      <h1 class="ghero__title" style="font-size:clamp(24px,5vw,40px)">{{ page.title }}</h1>
     </div>
+    <p class="stats"><b>{{ ids.size }}</b><span>軒</span></p>
+    {%- if page.description %}<p class="page-lead">{{ page.description }}</p>{% endif %}
   </div>
 </div>
 
-<!-- ② グループ紹介文 -->
-{% if page.group_bio %}
-<div class="container">
-  <div class="list-group-bio">
-    <p>{{ page.group_bio }}</p>
-  </div>
+<div class="wrap">
+  <section class="section">
+    <div class="rows">{% for id in ids %}{% include row.html id=id eager=forloop.first %}{% endfor %}</div>
+    <div class="more-wrap"><a class="btn btn--ink btn--block" href="{{ '/shops/' | relative_url }}?g={{ page.group }}&amp;genre={{ page.genre }}&amp;view=map">地図で見る</a></div>
+  </section>
+
+  {%- assign rel = page.related_genres | concat: page.related_groups %}
+  {%- if rel.size > 0 %}
+  <section class="section">
+    <h2 class="h2" style="margin-bottom:16px">関連する一覧</h2>
+    <div class="linkcards">
+      {%- for slug in rel %}{% assign r = site.list_pages | where: "slug_id", slug | first %}{% if r %}<a class="linkcard" href="{{ r.url | relative_url }}">{{ r.title }}<span class="cnt">{{ r.shop_count }}軒</span></a>{% endif %}{% endfor %}
+    </div>
+  </section>
+  {%- endif %}
+  <p class="more-wrap"><a class="link-more" href="{{ gx.u | relative_url }}">{{ glabel }}が行ったお店をすべて見る →</a></p>
 </div>
-{% endif %}
-
-<!-- 店舗グリッド -->
-<div class="container">
-  <div class="shop-cards" id="list-shop-grid"
-       data-group="{{ page.group }}"
-       data-genre="{{ page.genre }}"></div>
-</div>
-
-<!-- ③ 関連リスト（カード形式） -->
-{% if page.related_genres or page.related_groups %}
-<div class="container" style="margin-top:3rem">
-  <h2 class="list-related__heading">関連する一覧</h2>
-  <div class="list-related-grid">
-    {% for slug in page.related_genres %}
-      {% assign rel = site.list_pages | where: "slug_id", slug | first %}
-      {% if rel %}
-        <a href="{{ rel.url | relative_url }}" class="list-related-card">
-          {% if rel.group_color %}
-            <span class="list-related-card__bar" style="background:{{ rel.group_color }}"></span>
-          {% endif %}
-          <span class="list-related-card__title">{{ rel.title }}</span>
-          <span class="list-related-card__count">{{ rel.shop_count }}件</span>
-        </a>
-      {% endif %}
-    {% endfor %}
-    {% for slug in page.related_groups %}
-      {% assign rel = site.list_pages | where: "slug_id", slug | first %}
-      {% if rel %}
-        <a href="{{ rel.url | relative_url }}" class="list-related-card">
-          {% if rel.group_color %}
-            <span class="list-related-card__bar" style="background:{{ rel.group_color }}"></span>
-          {% endif %}
-          <span class="list-related-card__title">{{ rel.title }}</span>
-          <span class="list-related-card__count">{{ rel.shop_count }}件</span>
-        </a>
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
-
-<div class="container" style="margin-top:2rem;padding-bottom:3rem">
-  <a href="{{ '/shops/' | relative_url }}" style="color:#6b7280;font-size:.9rem">← お店一覧に戻る</a>
-</div>
-
-<script>
-(function() {
-  var base = typeof SITE_BASEURL !== 'undefined' ? SITE_BASEURL : '';
-  var el = document.getElementById('list-shop-grid');
-  if (!el) return;
-  var group = el.dataset.group;
-  var genre = el.dataset.genre;
-
-  function stopShimmer() {
-    el.removeAttribute('data-group');
-    el.removeAttribute('data-genre');
-  }
-
-  // そのグループの店舗だけのファイルを読む（全店舗ファイルより大幅に軽い）
-  fetch(base + '/data/shops-lite/' + group + '.json')
-    .then(function(r) { return r.json(); })
-    .then(function(shops) {
-      var matched = shops.filter(function(s) {
-        return s.group === group && s.genre === genre && !s.closed;
-      });
-      stopShimmer();
-      if (matched.length && typeof buildShopCard === 'function') {
-        el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-        var countEl = document.getElementById('list-shop-count');
-        if (countEl) countEl.textContent = matched.length + '件';
-      } else {
-        el.innerHTML = '<p style="color:#6b7280;padding:2rem 0">お店情報が見つかりませんでした。</p>';
-      }
-    })
-    .catch(function() {
-      stopShimmer();
-      el.innerHTML = '<p style="color:#6b7280;padding:2rem 0">データの読み込みに失敗しました。</p>';
-    });
-})();
-</script>

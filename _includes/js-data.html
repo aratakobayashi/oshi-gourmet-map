@@ -1,0 +1,6 @@
+{%- comment -%} JS で店舗カードを組み立てるページだけで読み込む（グループ名・色・ジャンル） {%- endcomment -%}
+<script>
+  window.GIX = {{ site.data.group_ix | jsonify }};
+  window.GENRES = {{ site.data.genres | jsonify }};
+  window.BASE = {{ site.baseurl | default: '' | jsonify }};
+</script>

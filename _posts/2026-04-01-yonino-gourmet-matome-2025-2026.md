@@ -46,31 +46,31 @@ faq:
 
 一蘭の「**味集中カウンター**」でそれぞれ黙々と食べる様子がじわじわ面白い#480、昭和レトロな博物館の中で本場北海道の塩ラーメンをすする#507。2店でスタイルがまったく異なるのに、どちらも「メンバーらしい選択」という不思議な説得力がある。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-ichiran-nakano,yonino-rishiri-ramen"></div>
+{% include inline-shop-grid.html ids="yonino-ichiran-nakano,yonino-rishiri-ramen" %}
 
 ## 肉料理系
 
 よにのちゃんねるのグルメ動画をひと通り見ると、<mark>メンバーが肉料理を特別好んでいる</mark>ことがわかる。NYブルックリン発のステーキ、熟成牛タンの割烹焼肉、生ラムのジンギスカン、しゃぶしゃぶと、肉のジャンル制覇を目指しているかのような多彩さだ。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-peter-luger,yonino-kintan-akasaka,yonino-youhachi-sangenchaya,yonino-daruma-azabu"></div>
+{% include inline-shop-grid.html ids="yonino-peter-luger,yonino-kintan-akasaka,yonino-youhachi-sangenchaya,yonino-daruma-azabu" %}
 
 ## 話題の名店
 
 <mark>挽肉と米 渋谷</mark>はMrs. GREEN APPLEの大森元貴を交えた回で一気に注目度が跳ね上がり、動画公開後に行列が倍増したことでも有名。<mark>400℃ PIZZA TOKYO</mark>は中田英寿も通うと言われる神楽坂の予約困難店で、よにの登場後さらに予約が取りにくくなっている。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-hikiniku-to-kome,yonino-400-pizza"></div>
+{% include inline-shop-grid.html ids="yonino-hikiniku-to-kome,yonino-400-pizza" %}
 
 ## 浅草・豊洲の下町グルメ
 
 **てっぱん大吉**は#272から始まり#490の忘年会でも再登場した"よにの公認聖地"。鮨文は豊洲市場に程近い江戸前寿司の名店で、素材のレベルとメンバーの盛り上がり方が比例した動画になっている。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-teppan-daikichi,yonino-sushi-bun"></div>
+{% include inline-shop-grid.html ids="yonino-teppan-daikichi,yonino-sushi-bun" %}
 
 ## カフェ・居酒屋
 
 バリスタ世界チャンピオン監修の<mark>Paul Bassett 新宿</mark>は「コーヒーを真剣に選ぶ」よにのメンバーの別の顔が見えた回。葱や平吉は「葱だけでこんなに飲めるの？」という驚きが動画の軸になっている。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-paul-bassett-shinjuku,yonino-negiya-heikichi"></div>
+{% include inline-shop-grid.html ids="yonino-paul-bassett-shinjuku,yonino-negiya-heikichi" %}
 
 ## エリア別巡礼ルート
 

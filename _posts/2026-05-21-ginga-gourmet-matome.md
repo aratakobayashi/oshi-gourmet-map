@@ -44,25 +44,25 @@ KAT-TUNの**中丸雄一**が運営する「中丸銀河ちゃんねる」のグ
 
 <mark>大久堂 OKUDO カフェ</mark>（2025年7月）は東京の古民家を改装したユニークなカフェ。<mark>スタジオカフェ MARU</mark>は同じく2025年7月に訪れたおしゃれなスタジオカフェだ。
 
-<div class="inline-shop-grid" data-shop-ids="ginga-okudo-202407,ginga-maru-202407"></div>
+{% include inline-shop-grid.html ids="ginga-okudo-202407,ginga-maru-202407" %}
 
 ### 和食・海鮮・食事
 
 <mark>豊洲 千客万来</mark>（2025年6月）は豊洲市場に隣接する大型商業施設で、海鮮グルメが集結するスポット。<mark>和食いぶり別邸 新橋店</mark>（2025年6月）は新橋の上質な和食店。<mark>KORIN</mark>（2025年4月）は落ち着いた雰囲気の居酒屋。<mark>京都 瓢嘻（ひょうき）</mark>（2025年3月）は京都料理をベースとした東京の名店。<mark>GOLD RUSH（ゴールドラッシュ）</mark>（2025年2月）・<mark>ファムファム</mark>（2025年2月）と食事系の訪問も続く。
 
-<div class="inline-shop-grid" data-shop-ids="ginga-24823ef5-202406,ginga-cb38ce4c-202406,ginga-korin-20250413,ginga-44b85f76-202403,ginga-gold_rush-202402,ginga-810aafd0-202402"></div>
+{% include inline-shop-grid.html ids="ginga-24823ef5-202406,ginga-cb38ce4c-202406,ginga-korin-20250413,ginga-44b85f76-202403,ginga-gold_rush-202402,ginga-810aafd0-202402" %}
 
 ### カレー
 
 <mark>セイロン・イン</mark>（2025年3月）は東京の本格スリランカカレー専門店。中丸雄一がカレーへの深いこだわりを見せた回として知られる。
 
-<div class="inline-shop-card" data-shop-id="ginga-f50e5bd3-202403"></div>
+{% include inline-shop-card.html shop_id="ginga-f50e5bd3-202403" %}
 
 ## 地方遠征【長崎・鹿児島・高知 3店】
 
 全国各地へのロケも「中丸銀河ちゃんねる」の魅力のひとつ。<mark>活魚料理 小安丸</mark>（長崎・2025年3月）は長崎の新鮮な活魚を楽しめる名店。<mark>和懐 おお田</mark>（鹿児島・2025年5月）は鹿児島の郷土料理が堪能できる和食店。<mark>いつものところ十刻</mark>（高知・2025年2月）は高知の地酒・土佐料理の名店だ。
 
-<div class="inline-shop-grid" data-shop-ids="ginga-8f622a15-202403,ginga-9f375cca-202405,ginga-46244fe9-202402"></div>
+{% include inline-shop-grid.html ids="ginga-8f622a15-202403,ginga-9f375cca-202405,ginga-46244fe9-202402" %}
 
 ## 巡礼プランのヒント
 

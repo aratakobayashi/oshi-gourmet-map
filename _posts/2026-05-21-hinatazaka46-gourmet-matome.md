@@ -39,19 +39,19 @@ faq:
 
 <mark>築地虎杖 うに虎 中通り店</mark>（2024年2月）は東京・築地の大人気うに専門店。メンバーが濃厚なうに料理を楽しむ様子が動画で話題になった。
 
-<div class="inline-shop-card" data-shop-id="hinatazaka46-tsukiji-uniko"></div>
+{% include inline-shop-card.html shop_id="hinatazaka46-tsukiji-uniko" %}
 
 ## 静岡【炭火焼き 1店】
 
 <mark>炭焼きレストランさわやか 静岡インター店</mark>（2024年4月）は「げんこつハンバーグ」で全国的に名高い静岡のソウルフード店。行列必至の人気店に日向坂46が訪れたことで、さらに注目を集めた。
 
-<div class="inline-shop-card" data-shop-id="hinatazaka46-sawayaka-shizuoka"></div>
+{% include inline-shop-card.html shop_id="hinatazaka46-sawayaka-shizuoka" %}
 
 ## 千葉エリア【海鮮・スイーツ・食事 4店】
 
 2020年4月の銚子ロケ回は日向坂46グルメ動画の中でも特に人気の回。<mark>一山いけす</mark>の新鮮な活魚料理・<mark>元祖今川焼 さのや</mark>の銚子名物今川焼き・<mark>お食事処ゆうなぎ</mark>のローカルラーメンと、銚子市内に3店が集まる。成田空港では<mark>だし茶漬け えん 成田空港店</mark>（2024年6月）のだし茶漬けも話題になった。
 
-<div class="inline-shop-grid" data-shop-ids="hinatazaka46-dashi-chazuke-en-narita,hinatazaka46-039367a9-202004,hinatazaka46-e928610f-202004,hinatazaka46-8054cbca-202004"></div>
+{% include inline-shop-grid.html ids="hinatazaka46-dashi-chazuke-en-narita,hinatazaka46-039367a9-202004,hinatazaka46-e928610f-202004,hinatazaka46-8054cbca-202004" %}
 
 ## 巡礼プランのヒント
 

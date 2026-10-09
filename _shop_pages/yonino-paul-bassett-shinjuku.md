@@ -30,8 +30,8 @@ tags:
   - "西新宿"
   - "スペシャルティ"
 ordered_items:
-  - "{'name': 'カフェラテ'}"
-  - "{'name': 'フラットホワイト'}"
+  - "カフェラテ"
+  - "フラットホワイト"
 affiliate_links:
   - label: "公式サイト"
     url: "https://www.paulbassett.jp/store/shinjuku/"

@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '焼肉定食'}"
-  - "{'name': '和風オイル焼肉定食'}"
-  - "{'name': 'ぞうりぱん'}"
+  - "焼肉定食"
+  - "和風オイル焼肉定食"
+  - "ぞうりぱん"
 ---

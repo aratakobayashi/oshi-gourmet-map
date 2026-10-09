@@ -36,7 +36,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season7は2017年秋放送。シリーズ初の韓国ロケ（全州・ソウル）に加え、群馬・下仁田での2店はしご、南麻布のメキシコ料理、千代田区の2色麻婆豆腐——11話分の多彩な食の冒険が詰まっている。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-8fc55f6d-,kodoku_no_gurume-80dd2276-,kodoku_no_gurume-6fea294b-,kodoku_no_gurume-8ff8f87d-,kodoku_no_gurume-949508cf-,kodoku_no_gurume-0890de3d-,kodoku_no_gurume-50e9e982-,kodoku_no_gurume-e63b9158-,kodoku_no_gurume-1f04386e-,kodoku_no_gurume-97d9d218-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-8fc55f6d-,kodoku_no_gurume-80dd2276-,kodoku_no_gurume-6fea294b-,kodoku_no_gurume-8ff8f87d-,kodoku_no_gurume-949508cf-,kodoku_no_gurume-0890de3d-,kodoku_no_gurume-50e9e982-,kodoku_no_gurume-e63b9158-,kodoku_no_gurume-1f04386e-,kodoku_no_gurume-97d9d218-" %}
 
 ---
 
@@ -48,7 +48,7 @@ Season7の幕開けは埼玉・上尾。**キセキ食堂**で五郎が頼んだ
 
 > **埼玉県上尾市エリア**。JR高崎線「上尾駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-2d40fc9e-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-2d40fc9e-" %}
 
 ---
 
@@ -58,7 +58,7 @@ Season7の幕開けは埼玉・上尾。**キセキ食堂**で五郎が頼んだ
 
 > **世田谷区エリア**。小田急「経堂駅」または「千歳船橋駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8fc55f6d-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8fc55f6d-" %}
 
 ---
 
@@ -68,7 +68,7 @@ Season7の幕開けは埼玉・上尾。**キセキ食堂**で五郎が頼んだ
 
 > **港区南麻布エリア**。東京メトロ「広尾駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-80dd2276-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-80dd2276-" %}
 
 ---
 
@@ -78,8 +78,8 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **群馬県甘楽郡下仁田町**。上信電鉄「下仁田駅」徒歩圏内。高崎から約1時間。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-6fea294b-"></div>
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8ff8f87d-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-6fea294b-" %}
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8ff8f87d-" %}
 
 ---
 
@@ -89,7 +89,7 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **千代田区三河島エリア**。JR常磐線「三河島駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-949508cf-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-949508cf-" %}
 
 ---
 
@@ -99,7 +99,7 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **墨田区東向島エリア**。東武スカイツリーライン「東向島駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-0890de3d-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-0890de3d-" %}
 
 ---
 
@@ -109,7 +109,7 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **中野区百軒横丁エリア**。JR「中野駅」または東京メトロ「新中野駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-50e9e982-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-50e9e982-" %}
 
 ---
 
@@ -119,7 +119,7 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **韓国・全羅北道全州市**。ソウル（KTX）から約2時間。全州韓屋村も近くにある。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-e63b9158-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-e63b9158-" %}
 
 ---
 
@@ -129,7 +129,7 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 
 > **韓国・ソウル特別市**。地下鉄でアクセス可能。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-1f04386e-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-1f04386e-" %}
 
 ---
 
@@ -139,7 +139,7 @@ Season7の締めくくりは千葉市の**味のレストラン えびすや 幸
 
 > **千葉県千葉市幸町エリア**。JR京葉線「蘇我駅」または「千葉駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-97d9d218-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-97d9d218-" %}
 
 ---
 

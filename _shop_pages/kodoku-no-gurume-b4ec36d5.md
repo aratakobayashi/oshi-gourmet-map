@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '豚足'}"
-  - "{'name': 'ロースすき焼き'}"
-  - "{'name': 'ヒレカルビ'}"
-  - "{'name': '味ネギ'}"
+  - "豚足"
+  - "ロースすき焼き"
+  - "ヒレカルビ"
+  - "味ネギ"
 ---

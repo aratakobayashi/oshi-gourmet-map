@@ -19,6 +19,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '納豆チゲセット'}"
-  - "{'name': 'セルフビビンパ'}"
+  - "納豆チゲセット"
+  - "セルフビビンパ"
 ---

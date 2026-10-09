@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '豚ロース'}"
-  - "{'name': '豚カルビ'}"
-  - "{'name': '牛上カルビ'}"
-  - "{'name': 'キムチ'}"
+  - "豚ロース"
+  - "豚カルビ"
+  - "牛上カルビ"
+  - "キムチ"
 ---

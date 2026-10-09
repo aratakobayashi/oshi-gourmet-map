@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ロールキャベツ定食'}"
+  - "ロールキャベツ定食"
 ---

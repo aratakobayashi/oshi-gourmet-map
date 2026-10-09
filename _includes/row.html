@@ -1,0 +1,15 @@
+{%- comment -%} 店舗カード（行）。引数: id / eager {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}
+{%- assign _gi = site.data.group_ix[_c.gr] -%}
+<div class="row" style="--g:{{ _gi.c }}">
+  {% include thumb.html c=_c eager=include.eager %}
+  <div class="row__body">
+    <p class="card__meta"><span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}</p>
+    <a class="row__name" href="{{ _c.u | relative_url }}">{{ _c.n }}</a>
+    <p class="card__st">{% if _c.st != '' %}{{ _c.st }}{% else %}{{ _c.p }}{% endif %}{% if _c.m.size > 0 %}・{{ _c.m | join: '・' }}{% endif %}</p>
+    <p class="row__tags">{% if _c.r == 1 %}<span class="badge--ok badge">予約可</span>{% endif %}{% if _c.src != '' %}<span class="row__src">{{ _c.src }}</span>{% endif %}</p>
+  </div>
+  <button type="button" class="fav-btn" data-fav="{{ include.id }}" aria-pressed="false" aria-label="{{ _c.n }}を保存"><span>保存</span></button>
+</div>
+{%- endif -%}

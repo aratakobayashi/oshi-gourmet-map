@@ -1,0 +1,13 @@
+{%- comment -%} 周辺に泊まる。引数: hk（検索語） / hj（Shift_JIS でエンコードした検索語） / title {%- endcomment -%}
+{%- assign _vc = site.affiliate.valuecommerce -%}
+<div class="action">
+  <h2 class="h2">{{ include.title | default: include.hk | append: '周辺に泊まる' }}</h2>
+  {%- if _vc.sid != '' and _vc.jalan_pid != '' or site.affiliate.rakuten.id != '' %}<p class="pr-note">本ページはプロモーションを含みます</p>{% endif %}
+  <p class="meta">ライブ後に移動しなくていいように、会場の近くの宿を早めに押さえておくと安心です。</p>
+  <div class="btn-row">
+    {%- capture _j %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ include.hj }}{% endcapture %}
+    {%- capture _r %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ include.hk | url_encode }}{% endcapture %}
+    {% include affiliate-link.html url=_j label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+    {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn btn--accent" service="rakuten" %}
+  </div>
+</div>

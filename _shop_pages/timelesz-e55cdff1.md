@@ -18,5 +18,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': 'ほうじ茶ラテ（アイス）'}"
+  - "ほうじ茶ラテ（アイス）"
 ---

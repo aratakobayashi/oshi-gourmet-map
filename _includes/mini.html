@@ -1,0 +1,13 @@
+{%- comment -%} 店舗カード（小）。引数: id / m（この店からの距離 m） / label（上段の文字。省略時はグループ・ジャンル） {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}
+{%- assign _gi = site.data.group_ix[_c.gr] -%}
+<a class="mini" href="{{ _c.u | relative_url }}" style="--g:{{ _gi.c }}">
+  {% include thumb.html c=_c %}
+  <div>
+    <p class="card__meta">{% if include.label %}{{ include.label }}{% else %}<span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}{% endif %}</p>
+    <p class="card__name">{{ _c.n }}</p>
+    <p class="card__st">{% if _c.st != '' %}{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}{% else %}{{ _c.p }}{% endif %}{% if include.m >= 50 %}・この店から{% if include.m >= 1000 %}{{ include.m | divided_by: 100 | divided_by: 10.0 }}km{% else %}{{ include.m }}m{% endif %}{% endif %}</p>
+  </div>
+</a>
+{%- endif -%}

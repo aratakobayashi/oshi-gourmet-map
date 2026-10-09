@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'むし豚のニンニクソース'}"
-  - "{'name': 'シイタケそば（ラーメン）'}"
+  - "むし豚のニンニクソース"
+  - "シイタケそば（ラーメン）"
 ---

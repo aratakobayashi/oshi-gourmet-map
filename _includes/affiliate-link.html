@@ -2,7 +2,8 @@
   外部リンクを出力する。提携IDが _config.yml の affiliate に設定されていればアフィリエイトURLに変換し、
   rel="sponsored noopener" を付ける。未設定の間は通常リンク（rel="noopener"）のまま出力する。
 
-  引数: url（必須） / label（必須） / class / service（tabelog・hotpepper・ikyu。省略時はURLから判定）
+  引数: url（必須） / label（必須） / class / arrow（true で → を付ける）
+        service（tabelog・hotpepper・ikyu・jalan・rakuten。省略時はURLから判定）
   リンク形式は提携後に管理画面で確認して決める。変換方法を変えるときはこのファイルだけ直せばよい。
 {%- endcomment -%}
 {%- assign aff_service = include.service -%}
@@ -10,6 +11,8 @@
   {%- if include.url contains 'tabelog.com' -%}{%- assign aff_service = 'tabelog' -%}
   {%- elsif include.url contains 'hotpepper.jp' -%}{%- assign aff_service = 'hotpepper' -%}
   {%- elsif include.url contains 'restaurant.ikyu.com' -%}{%- assign aff_service = 'ikyu' -%}
+  {%- elsif include.url contains 'jalan.net' -%}{%- assign aff_service = 'jalan' -%}
+  {%- elsif include.url contains 'travel.rakuten.co.jp' -%}{%- assign aff_service = 'rakuten' -%}
   {%- endif -%}
 {%- endunless -%}
 {%- assign aff_vc = site.affiliate.valuecommerce -%}
@@ -17,9 +20,16 @@
 {%- if aff_service == 'tabelog' -%}{%- assign aff_pid = aff_vc.tabelog_pid -%}
 {%- elsif aff_service == 'hotpepper' -%}{%- assign aff_pid = aff_vc.hotpepper_pid -%}
 {%- elsif aff_service == 'ikyu' -%}{%- assign aff_pid = aff_vc.ikyu_pid -%}
+{%- elsif aff_service == 'jalan' -%}{%- assign aff_pid = aff_vc.jalan_pid -%}
 {%- endif -%}
-{%- if aff_vc.sid and aff_vc.sid != '' and aff_pid and aff_pid != '' -%}
-<a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={{ aff_vc.sid }}&amp;pid={{ aff_pid }}&amp;vc_url={{ include.url | url_encode }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener">{{ include.label }}</a>
+{%- assign aff_href = '' -%}
+{%- if aff_service == 'rakuten' and site.affiliate.rakuten.id and site.affiliate.rakuten.id != '' -%}
+  {%- capture aff_href %}https://hb.afl.rakuten.co.jp/hgc/{{ site.affiliate.rakuten.id }}/?pc={{ include.url | url_encode }}&amp;m={{ include.url | url_encode }}{% endcapture -%}
+{%- elsif aff_vc.sid and aff_vc.sid != '' and aff_pid and aff_pid != '' -%}
+  {%- capture aff_href %}https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={{ aff_vc.sid }}&amp;pid={{ aff_pid }}&amp;vc_url={{ include.url | url_encode }}{% endcapture -%}
+{%- endif -%}
+{%- if aff_href != '' -%}
+<a href="{{ aff_href }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
 {%- else -%}
-<a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="noopener">{{ include.label }}</a>
+<a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="noopener">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
 {%- endif -%}

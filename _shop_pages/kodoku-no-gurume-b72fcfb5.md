@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '九絵定食'}"
-  - "{'name': 'なめろう冷茶漬け'}"
+  - "九絵定食"
+  - "なめろう冷茶漬け"
 ---

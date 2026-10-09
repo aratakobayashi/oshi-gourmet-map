@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'もつ焼き'}"
-  - "{'name': 'ホッピー'}"
+  - "もつ焼き"
+  - "ホッピー"
 ---

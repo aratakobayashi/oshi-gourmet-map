@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '▶オリジナルアヒージョ 具材１種類 270円'}"
+  - "▶オリジナルアヒージョ 具材１種類 270円"
 ---

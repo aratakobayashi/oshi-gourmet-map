@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'チート（豚胃）のしょうが炒め'}"
-  - "{'name': 'パタン'}"
+  - "チート（豚胃）のしょうが炒め"
+  - "パタン"
 ---

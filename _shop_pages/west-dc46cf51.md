@@ -21,5 +21,5 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': '爆辛マグマ煮込みうどん'}"
+  - "爆辛マグマ煮込みうどん"
 ---

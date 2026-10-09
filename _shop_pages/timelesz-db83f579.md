@@ -21,6 +21,6 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '松阪牛 牛串'}"
-  - "{'name': 'おにぎり'}"
+  - "松阪牛 牛串"
+  - "おにぎり"
 ---

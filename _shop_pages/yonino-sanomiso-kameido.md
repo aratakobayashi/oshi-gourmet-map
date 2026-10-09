@@ -28,9 +28,9 @@ tags:
   - "老舗"
   - "専門店"
 ordered_items:
-  - "{'name': '具入り味噌汁(魚)+ご飯'}"
-  - "{'name': '具入り味噌汁(魚)+焼きおにぎり'}"
-  - "{'name': '具入り味噌汁(魚)+ご飯'}"
+  - "具入り味噌汁(魚)+ご飯"
+  - "具入り味噌汁(魚)+焼きおにぎり"
+  - "具入り味噌汁(魚)+ご飯"
 affiliate_links:
   - label: "公式サイト"
     url: "https://sanomiso.com/store/kameido-main-store/"

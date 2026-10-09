@@ -19,5 +19,5 @@ lng: 139.7046751
 groups:
   - "west"
 ordered_items:
-  - "{'name': '土鍋ご飯'}"
+  - "土鍋ご飯"
 ---

@@ -37,7 +37,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season3は2014年放送。東京の下町から横浜・静岡まで、そして中野のアフガン料理・練馬のカフェまで——五郎の食の旅は多彩さを増した11話分の記録だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-736a5d18-,kodoku_no_gurume-5cea7b76-,kodoku_no_gurume-14e24ebe-,kodoku_no_gurume-3d339220-,kodoku_no_gurume-bba64785-,kodoku_no_gurume-4557cfac-,kodoku_no_gurume-88831118-,kodoku_no_gurume-8cd47230-,kodoku_no_gurume-5e0f3652-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-e1afada2-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-736a5d18-,kodoku_no_gurume-5cea7b76-,kodoku_no_gurume-14e24ebe-,kodoku_no_gurume-3d339220-,kodoku_no_gurume-bba64785-,kodoku_no_gurume-4557cfac-,kodoku_no_gurume-88831118-,kodoku_no_gurume-8cd47230-,kodoku_no_gurume-5e0f3652-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-e1afada2-" %}
 
 ---
 
@@ -49,7 +49,7 @@ Season3の幕開けは赤羽。**ほろほろ鳥**専門の焼き鳥・うなぎ
 
 > **北区赤羽エリア**。JR京浜東北線・埼京線「赤羽駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-736a5d18-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-736a5d18-" %}
 
 ---
 
@@ -59,7 +59,7 @@ Season3の幕開けは赤羽。**ほろほろ鳥**専門の焼き鳥・うなぎ
 
 > **横浜市中区エリア**。JR根岸線「石川町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-5cea7b76-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-5cea7b76-" %}
 
 ---
 
@@ -69,7 +69,7 @@ Season3最大の遠征エピソード。五郎が向かったのは静岡県・�
 
 > **静岡県賀茂郡河津町**。伊豆急行線「河津駅」からアクセス。東京から約2時間。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-14e24ebe-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-14e24ebe-" %}
 
 ---
 
@@ -79,7 +79,7 @@ Season3最大の遠征エピソード。五郎が向かったのは静岡県・�
 
 > **文京区エリア**。東京メトロ丸ノ内線「茗荷谷駅」または「後楽園駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-3d339220-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-3d339220-" %}
 
 ---
 
@@ -89,7 +89,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **中野区エリア**。東京メトロ東西線「落合駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-bba64785-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-bba64785-" %}
 
 ---
 
@@ -99,7 +99,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **板橋区エリア**。東武東上線「大山駅」または「中板橋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-4557cfac-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-4557cfac-" %}
 
 ---
 
@@ -109,7 +109,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **目黒区エリア**。東急目黒線「不動前駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-88831118-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-88831118-" %}
 
 ---
 
@@ -119,7 +119,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **台東区鶯谷エリア**。JR山手線「鶯谷駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8cd47230-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8cd47230-" %}
 
 ---
 
@@ -129,7 +129,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **練馬区エリア**。西武池袋線・有楽町線「練馬駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-5e0f3652-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-5e0f3652-" %}
 
 ---
 
@@ -139,7 +139,7 @@ Season3で最も異色の食体験。中野のアフガニスタン・パキス�
 
 > **荒川区エリア**。東京メトロ千代田線「町屋駅」または京成本線「町屋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-dc8b82e8-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-dc8b82e8-" %}
 
 ---
 
@@ -149,7 +149,7 @@ Season3最終話の舞台は品川区。**だるまや**で五郎が頼んだの
 
 > **品川区エリア**。東急大井町線「荏原町駅」または「旗の台駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-e1afada2-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-e1afada2-" %}
 
 ---
 

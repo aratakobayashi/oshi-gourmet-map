@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '鯖ごま'}"
-  - "{'name': '変わり茶碗蒸し'}"
-  - "{'name': '若どりのスープ炊き'}"
+  - "鯖ごま"
+  - "変わり茶碗蒸し"
+  - "若どりのスープ炊き"
 ---

@@ -1,1 +1,3 @@
-<div class="inline-shop-grid" data-shop-ids="{{ include.shop_ids | join: ',' }}"></div>
+{%- comment -%} 記事内の店舗カード（横スクロール）。引数: shop_ids（配列） または ids（カンマ区切り） {%- endcomment -%}
+{%- assign _ids = include.shop_ids -%}{%- if include.ids -%}{%- assign _ids = include.ids | split: ',' -%}{%- endif -%}
+<div class="hscroll">{% for id in _ids %}{% include card.html id=id %}{% endfor %}</div>

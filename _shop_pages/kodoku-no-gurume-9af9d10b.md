@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ロースにんにく焼'}"
-  - "{'name': 'ミックスかつ定食'}"
+  - "ロースにんにく焼"
+  - "ミックスかつ定食"
 ---

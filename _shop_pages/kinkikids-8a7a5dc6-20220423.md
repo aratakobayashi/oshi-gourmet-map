@@ -21,5 +21,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': '揚げたて芋けんぴ'}"
+  - "揚げたて芋けんぴ"
 ---

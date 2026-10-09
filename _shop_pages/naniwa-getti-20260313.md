@@ -20,5 +20,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '牛バラ煮込みの飲めるボロネーゼ 1958円'}"
+  - "牛バラ煮込みの飲めるボロネーゼ 1958円"
 ---

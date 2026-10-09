@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ちゃんこ鍋セット'}"
-  - "{'name': 'かきバター焼き'}"
-  - "{'name': 'かき天ぷら'}"
+  - "ちゃんこ鍋セット"
+  - "かきバター焼き"
+  - "かき天ぷら"
 ---

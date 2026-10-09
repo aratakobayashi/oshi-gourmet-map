@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '舞鶴カニ刺身'}"
-  - "{'name': 'カニ焼き'}"
-  - "{'name': '京鰆の刺身'}"
+  - "舞鶴カニ刺身"
+  - "カニ焼き"
+  - "京鰆の刺身"
 ---

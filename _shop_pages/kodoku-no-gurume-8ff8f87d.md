@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '豚のすき焼き'}"
+  - "豚のすき焼き"
 ---

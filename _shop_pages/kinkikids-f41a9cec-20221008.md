@@ -20,5 +20,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': 'わらびもち'}"
+  - "わらびもち"
 ---

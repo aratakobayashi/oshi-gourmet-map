@@ -27,5 +27,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '赤福餅（税込400円）'}"
+  - "赤福餅（税込400円）"
 ---

@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '赤車海老'}"
-  - "{'name': '大あさり焼き'}"
-  - "{'name': 'しらす天ぷら'}"
-  - "{'name': 'たこめし'}"
+  - "赤車海老"
+  - "大あさり焼き"
+  - "しらす天ぷら"
+  - "たこめし"
 ---

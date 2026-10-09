@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '上州すきやき定食'}"
+  - "上州すきやき定食"
 ---

@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '海鮮五色丼'}"
-  - "{'name': '活穴子天ぷら'}"
+  - "海鮮五色丼"
+  - "活穴子天ぷら"
 ---

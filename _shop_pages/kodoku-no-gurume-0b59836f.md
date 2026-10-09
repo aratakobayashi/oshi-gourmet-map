@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '焼きまんじゅう（あんあり）'}"
-  - "{'name': '焼きまんじゅう（あんなし）'}"
+  - "焼きまんじゅう（あんあり）"
+  - "焼きまんじゅう（あんなし）"
 ---

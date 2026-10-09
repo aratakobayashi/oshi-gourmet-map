@@ -111,11 +111,11 @@ faq:
 
 大場花菜と瀧脇笙古による「**イコラブハンバーガー部**」。2人が動画の中で以前から「行きたい」と話し続けていた本命が、石窯で焼き上げたパティが名物の<mark>いしがまや GOKU BURGER</mark>だ。メニューを見た瞬間の花菜ちゃんの**「これよ、これ！」**は動画屈指の名場面で、ファンの間でも語り継がれている。放送後は「聖地に行ってきた」報告がSNSに相次いだ。
 
-<div class="inline-shop-card" data-shop-id="equallove_001"></div>
+{% include inline-shop-card.html shop_id="equallove_001" %}
 
 もう1店は横浜スタジアムのすぐそばのバーガーショップ。スタジアムの熱気が残る立地でのハンバーガーは、「**ハンバーガー部**」らしいセレクションだった。
 
-<div class="inline-shop-card" data-shop-id="equallove_010"></div>
+{% include inline-shop-card.html shop_id="equallove_010" %}
 
 ## きあまい：佐々木舞香＆齋藤樹愛羅の横浜中華街
 
@@ -123,7 +123,7 @@ faq:
 
 > 元町・中華街駅から徒歩圏内に4店が集まっているので、半日でまとめて巡れます。週末は混雑するため**平日の午後**がおすすめ。
 
-<div class="inline-shop-grid" data-shop-ids="equallove_009,equallove_002,equal_love-6e007468-202408,equal_love-875bdcd7-202408"></div>
+{% include inline-shop-grid.html ids="equallove_009,equallove_002,equal_love-6e007468-202408,equal_love-875bdcd7-202408" %}
 
 ## さなつんのはしご酒：高円寺編
 
@@ -131,13 +131,13 @@ faq:
 
 > 高円寺駅南口から徒歩10分以内に4店が収まっています。夕方17時スタートで、終電までに余裕をもって全店まわれます。
 
-<div class="inline-shop-grid" data-shop-ids="equallove_004,equal_love-bd15bb1d-202412,equal_love-a9d4d24e-202412,equal_love-17396234-202412"></div>
+{% include inline-shop-grid.html ids="equallove_004,equal_love-bd15bb1d-202412,equal_love-a9d4d24e-202412,equal_love-17396234-202412" %}
 
 ## さなつんのはしご酒：赤羽編
 
 高円寺編よりさらにディープな赤羽。もつ焼き・やきとん系の店が連なり、昭和の下町感がそのまま残るエリアだ。「赤鬼」「もつ焼のんき」「やきとん大王」と、赤羽を知っている人が見ると「よくぞここを選んだ」と唸るセレクション。さなつんのお酒と場所の選び方のセンスが、このシリーズを単なるグルメ動画で終わらせていない理由でもある。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-443dcbb1-202408,equal_love-67a09d04-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-443dcbb1-202408,equal_love-67a09d04-202408" %}
 
 ## 金沢ロケ（7店）：近江町市場を起点に
 
@@ -145,7 +145,7 @@ faq:
 
 > 市場は**午前10時ごろが活気のピーク**。週末は混みやすいので平日訪問がベター。らうめん侍は金沢百番街（駅構内）にあるため、帰りの新幹線前にも立ち寄れます。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-82fa4e5f-202408,equal_love-9546a908-202408,equal_love-c803c552-202408,equal_love-0d7bdac2-202408,equal_love-e334efa9-202408,equal_love-7cbba11a-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-82fa4e5f-202408,equal_love-9546a908-202408,equal_love-c803c552-202408,equal_love-0d7bdac2-202408,equal_love-e334efa9-202408,equal_love-7cbba11a-202408" %}
 
 ## 広島・宮島ロケ（11店）
 
@@ -155,13 +155,13 @@ faq:
 
 > 宮島は**潮の満ち引きで景色が変わる**ので、大鳥居の干潮時刻をあらかじめ調べてから訪問すると満足度がぐっと上がります。6店はいずれも徒歩15分圏内に収まっているのでまとめて巡れます。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-5778582a-202509,equal_love-2c58e013-202509,equal_love-gebura-20250915,equal_love-1a1850e6-202509,equal_love-182c15f9-202509,equal_love-962734e3-202509"></div>
+{% include inline-shop-grid.html ids="equal_love-5778582a-202509,equal_love-2c58e013-202509,equal_love-gebura-20250915,equal_love-1a1850e6-202509,equal_love-182c15f9-202509,equal_love-962734e3-202509" %}
 
 ### 広島市内：本場のお好み焼き
 
 広島市内のロケでは本通商店街周辺のお好み焼き店が登場。鉄板の前で**「これが本物か…」**と静かに感動するメンバーの表情が、広島お好み焼きの説得力を代弁していた。東京で食べるものとの違いは実際に食べてみないと分からない部分があるので、ここはグルメ体験として行く価値がある。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-16a33a28-202408,equal_love-dc047633-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-16a33a28-202408,equal_love-dc047633-202408" %}
 
 ## 鎌倉ロケ（6店）：小町通り食べ歩き
 
@@ -169,7 +169,7 @@ faq:
 
 > 週末の小町通りは人が多く、行列ができる店も。**平日の午前中〜昼すぎ**が一番ゆっくり巡れます。鎌倉駅から全店が徒歩10分圏内に収まっています。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-d556ceee-202408,equal_love-1c33a8b5-202408,equal_love-1de9b314-202408,equal_love-87c3ff9e-202408,equal_love-22eda348-202408,equal_love-cb7485f1-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-d556ceee-202408,equal_love-1c33a8b5-202408,equal_love-1de9b314-202408,equal_love-87c3ff9e-202408,equal_love-22eda348-202408,equal_love-cb7485f1-202408" %}
 
 ## 沖縄ロケ（6店）：那覇のリアルグルメ
 
@@ -177,7 +177,7 @@ faq:
 
 > カリフキッチン沖縄は北谷・美浜エリアにあるため、那覇から車で約20分。**レンタカーがあると回りやすい**です。那覇市内の店は公共交通（ゆいレール）でアクセス可。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-a8a055cd-202408,equal_love-mateki-202408,equal_love-eb79711c-202408,equal_love-a47973a5-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-a8a055cd-202408,equal_love-mateki-202408,equal_love-eb79711c-202408,equal_love-a47973a5-202408" %}
 
 ## 京都ロケ（5店）：錦市場〜清水〜祇園
 
@@ -185,7 +185,7 @@ faq:
 
 > 錦市場→清水→祇園の順に歩くと**下り坂で体が楽**。混雑する昼を避けて10時台にスタートし、ランチを清水周辺で食べるルートがおすすめです。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-1611bac7-202408,equal_love-c6d6b2f9-202408,equal_love-93d5e98f-202408,equal_love-b0d04596-202408,equal_love-a5ac4a24-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-1611bac7-202408,equal_love-c6d6b2f9-202408,equal_love-93d5e98f-202408,equal_love-b0d04596-202408,equal_love-a5ac4a24-202408" %}
 
 ## MV聖地：推しの世界観ごと体験できる2店
 
@@ -193,16 +193,16 @@ faq:
 
 16thシングル<mark>『呪って呪って』</mark>MVの**瀧脇笙古**ソロシーンの撮影場所。昼は純喫茶、夜は喫茶酒場として営業するレトロモダンな空間は、MVの世界観そのままに残っている。グルメ目当てというより「**推しが映った場所に立ちたい**」という気持ちで訪れるお店で、コーヒーを頼んで同じ席に座るだけで特別な時間になる。
 
-<div class="inline-shop-card" data-shop-id="equallove_003"></div>
+{% include inline-shop-card.html shop_id="equallove_003" %}
 
 ### 2D Cafe 新大久保店
 
 <mark>「Be Selfish」</mark>MV関連で**瀧脇笙古・大場花菜**が訪れた新大久保のカフェ。白黒の2D内装は絵本の中に迷い込んだような非現実感があり、推しが動画で見せていたのと同じ空間を体験できる数少ない場所のひとつ。
 
-<div class="inline-shop-card" data-shop-id="equallove_005"></div>
+{% include inline-shop-card.html shop_id="equallove_005" %}
 
 ## 最新の東京グルメ
 
 直近の動画でも東京各地の新しいスポットが続々と登場している。<mark>海底撈の火鍋</mark>やみそきん池袋店など、ファンの間で「次行ってみたい」と話題になっているお店をまとめて確認できる。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-38e32469-202603,equal_love-1296f01f-202603,equal_love-7aed8c96-202501,equal_love-287b97eb-202506,equal_love-a82124f4-202511"></div>
+{% include inline-shop-grid.html ids="equal_love-38e32469-202603,equal_love-1296f01f-202603,equal_love-7aed8c96-202501,equal_love-287b97eb-202506,equal_love-a82124f4-202511" %}

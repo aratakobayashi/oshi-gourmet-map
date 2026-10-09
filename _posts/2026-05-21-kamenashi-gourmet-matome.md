@@ -64,37 +64,37 @@ KAT-TUNの**亀梨和也**が全国各地のロケ地グルメを巡る「銀河
 
 亀梨和也グルメの代名詞ともいえる焼肉。<mark>USHIGORO S. GINZA</mark>（2025年8月）は銀座に構える上質な和牛焼肉の名店。<mark>ガーリックステーキ Bullajo</mark>・<mark>焼肉古今</mark>・<mark>原宿GLAMS BBQ Lounge</mark>と東京都内だけで4店が登場。横浜みなとみらいの<mark>大徳壽</mark>（韓国式焼肉）、大阪の<mark>ミートファクトリーしまちゃん</mark>も肉好きとして外せない訪問先だ。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-ushigoro_s_ginza-20250816,kamenashi-bullajo-202504,kamenashi-b68dd10a-202410,kamenashi-814e2aa9-202408,kamenashi-df0d89b3-202407,kamenashi-glams_bbq_lounge-202405,kamenashi-41feca79-202505"></div>
+{% include inline-shop-grid.html ids="kamenashi-ushigoro_s_ginza-20250816,kamenashi-bullajo-202504,kamenashi-b68dd10a-202410,kamenashi-814e2aa9-202408,kamenashi-df0d89b3-202407,kamenashi-glams_bbq_lounge-202405,kamenashi-41feca79-202505" %}
 
 ## ラーメン・麺類【10店】
 
 ラーメン好きとしても知られる亀梨は、全国各地の麺グルメを精力的に巡っている。岩手の冷麺名店<mark>盛楼閣</mark>、鳥取の<mark>牛骨ごっつおらーめん</mark>、宮崎の<mark>辛麺屋桝元</mark>など地方の個性的なラーメンが目立つ。東京では<mark>一蘭 原宿店</mark>・<mark>九州じゃんがら原宿店</mark>・<mark>Hohokam DINER</mark>・<mark>鶏そば２２３</mark>・<mark>自家製麺223</mark>と原宿〜渋谷エリアに集中。宮崎・福岡と九州の麺文化にも強い関心を示している。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-b2d66125-202507,kamenashi-95d73497-202504,kamenashi-0a3faf7a-202410,kamenashi-e27eb84b-202404,kamenashi-hohokam_diner-20240413,kamenashi-7cbda6f7-202404,kamenashi-6606003d-202407,kamenashi-223-202404,kamenashi-223-202401,kamenashi-e61d8104-202502"></div>
+{% include inline-shop-grid.html ids="kamenashi-b2d66125-202507,kamenashi-95d73497-202504,kamenashi-0a3faf7a-202410,kamenashi-e27eb84b-202404,kamenashi-hohokam_diner-20240413,kamenashi-7cbda6f7-202404,kamenashi-6606003d-202407,kamenashi-223-202404,kamenashi-223-202401,kamenashi-e61d8104-202502" %}
 
 ## もんじゃ・お好み焼き【3店】
 
 <mark>もんじゃ 竹の子</mark>（2025年3月）は東京・もんじゃの名店。恵比寿ガーデンプレイスの<mark>華 千房</mark>（大阪発のお好み焼きチェーン）、京都の<mark>壹銭洋食 本店</mark>（100年以上の歴史を持つ洋食焼き）と、"粉もの"への愛着が伝わるラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-6d080bbe-202503,kamenashi-bb9f32ec-202408,kamenashi-17aff7bc-202405"></div>
+{% include inline-shop-grid.html ids="kamenashi-6d080bbe-202503,kamenashi-bb9f32ec-202408,kamenashi-17aff7bc-202405" %}
 
 ## 和食・居酒屋【4店】
 
 <mark>布恒更科</mark>（2024年8月）は江戸時代から続く東京の老舗そば店。<mark>う福 大井町</mark>（2024年12月）は大井町の隠れ家的居酒屋。<mark>釣船茶屋 ざうお 新宿店</mark>は水槽から魚を釣って食べられるエンタメ居酒屋として知られ、<mark>鳥焼 萬歳亭</mark>は宮崎の地元密着型の焼き鳥店だ。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-c3b4e8da-202408,kamenashi-27f41658-202412,kamenashi-34069a08-202405,kamenashi-3a7e3c9a-202402"></div>
+{% include inline-shop-grid.html ids="kamenashi-c3b4e8da-202408,kamenashi-27f41658-202412,kamenashi-34069a08-202405,kamenashi-3a7e3c9a-202402" %}
 
 ## 洋食・カフェ・その他【7店】
 
 <mark>ALES SHOP</mark>（2024年11月）はベルギービールの専門店。<mark>Beschle</mark>と<mark>Le Rhin Bleu</mark>は海外の名店。岡山の<mark>日生家</mark>・兵庫の<mark>OFF KINOSAKI</mark>と地方の個性的な食事処も外さない。京都の<mark>夷川餃子なかじま</mark>は餃子専門の名店として名高い。<mark>リステア</mark>（2025年3月）は東京のおしゃれなカフェだ。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-95af1b87-202501,kamenashi-off_kinosaki-20241218,kamenashi-ales_shop-20241120,kamenashi-beschle-20241116,kamenashi-le_rhin_bleu-20241116,kamenashi-1f6dffde-202402,kamenashi-808fe940-202503"></div>
+{% include inline-shop-grid.html ids="kamenashi-95af1b87-202501,kamenashi-off_kinosaki-20241218,kamenashi-ales_shop-20241120,kamenashi-beschle-20241116,kamenashi-le_rhin_bleu-20241116,kamenashi-1f6dffde-202402,kamenashi-808fe940-202503" %}
 
 ## スイーツ【1店】
 
 <mark>銀座風香</mark>（2025年8月）は銀座のスイーツ専門店。銀座ロケの締めくくりとして訪れたデザートスポットだ。
 
-<div class="inline-shop-card" data-shop-id="kamenashi-9398d442-202508"></div>
+{% include inline-shop-card.html shop_id="kamenashi-9398d442-202508" %}
 
 ## 遠征まとめ
 

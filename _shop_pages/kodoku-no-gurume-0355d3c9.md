@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'カツ丼 上'}"
-  - "{'name': '冷し麻婆麺'}"
-  - "{'name': '餃子'}"
+  - "カツ丼 上"
+  - "冷し麻婆麺"
+  - "餃子"
 ---

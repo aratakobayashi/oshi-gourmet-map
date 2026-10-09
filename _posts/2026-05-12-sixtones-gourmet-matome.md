@@ -84,7 +84,7 @@ faq:
 
 <mark>西麻布エリア</mark>には高級焼肉店が集中しており、「牛牛 西麻布 総本店」「叙々苑 游玄亭 西麻布本館」「恵比寿 焼肉 うしみつ」の3店がストチューブに登場している。**厳選和牛・熟成肉・ホルモン**とスタイルが異なり、動画公開後に注目度が跳ね上がった店ばかりだ。六本木〜恵比寿エリアの「肉の半日コース」として計画しやすい。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-gyugyu-nishiazabu,sixtones-5de59474-202101,sixtones-ushimitsu-ebisu"></div>
+{% include inline-shop-grid.html ids="sixtones-gyugyu-nishiazabu,sixtones-5de59474-202101,sixtones-ushimitsu-ebisu" %}
 
 ## もんじゃ【ソラマチ・本所・月島の3店】
 
@@ -92,67 +92,67 @@ faq:
 
 > 押上駅はスカイツリー直結。**だるまソラマチとディンタイフォンをセット**で巡礼するのが最も効率の良いコース。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-daruma-soramachi,sixtones-honjo-kaeru-honpo,sixtones-c2272dd2-201906"></div>
+{% include inline-shop-grid.html ids="sixtones-daruma-soramachi,sixtones-honjo-kaeru-honpo,sixtones-c2272dd2-201906" %}
 
 ## 中華【ソラマチ・横浜中華街の4店】
 
 鼎泰豊（ディンタイフォン）のソラマチ店と、横浜中華街の<mark>鵬天閣・龍海飯店</mark>、錦糸町の過門香が登場。横浜ロケ回では中華街を2店はしごするSixTONESの「食への本気度」が伝わる構成だった。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-dintaifung-soramachi,sixtones-houtenkaku-chinatown,sixtones-ryukaihanten-chinatown,sixtones-kamonka-kinshicho"></div>
+{% include inline-shop-grid.html ids="sixtones-dintaifung-soramachi,sixtones-houtenkaku-chinatown,sixtones-ryukaihanten-chinatown,sixtones-kamonka-kinshicho" %}
 
 ## 和食【大塚・鎌倉】
 
 **大塚の「おにぎりぼんご」**はストチューブ登場後さらに行列が伸びた超人気店。50種類以上の具から選べる大ぶりのおにぎりがメンバーを魅了した。鎌倉の「無（むしゃ）」は鎌倉散策ロケで訪れた和食の名店だ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-onigiri-bongo,sixtones-kamakura-mushanan"></div>
+{% include inline-shop-grid.html ids="sixtones-onigiri-bongo,sixtones-kamakura-mushanan" %}
 
 ## カフェ・スイーツ【東京】
 
 丸の内の歴史的建築内にある<mark>Café 1894</mark>、恵比寿の「CAFE PARK」、新宿の「3丁目の小さなパン屋 ちいぱん」、原宿の「Eggs 'n Things」など、東京各地のカフェ・スイーツ店が登場した。動画ごとにメンバーの組み合わせが変わり、それぞれ異なる雰囲気が楽しめる。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-cafe1894-marunouchi,sixtones-cafepark,sixtones-53e6c3d6-202411,sixtones-eggs_n_things-201904,sixtones-0f6b2048-202411"></div>
+{% include inline-shop-grid.html ids="sixtones-cafe1894-marunouchi,sixtones-cafepark,sixtones-53e6c3d6-202411,sixtones-eggs_n_things-201904,sixtones-0f6b2048-202411" %}
 
 ## ラーメン【東京】
 
 一蘭の天然とんこつ（渋谷店）と、八王子の「みんみんラーメン」が登場。どちらも"ただ食べる"シンプルなラーメン回で、飾らないメンバーの食べっぷりが見どころだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-a3a0ff52-202003,sixtones-minmin-hachioji"></div>
+{% include inline-shop-grid.html ids="sixtones-a3a0ff52-202003,sixtones-minmin-hachioji" %}
 
 ## 居酒屋【東京】
 
 新宿の老舗焼き鳥「鳥元」、大森の「蘭蝶」、コスパで知られる「鳥貴族 新宿東口店」が動画に登場した。どれもメンバーが肩の力を抜いてわいわいと楽しむ居酒屋回で、6人の素顔が見えるシーンが多い。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-torigen-shinjuku,sixtones-bf58b791-202212,sixtones-toriki-shinjuku"></div>
+{% include inline-shop-grid.html ids="sixtones-torigen-shinjuku,sixtones-bf58b791-202212,sixtones-toriki-shinjuku" %}
 
 ## 和食・洋食【東京】
 
 渋谷の「うなぎ徳」、浅草の「とんかつ とみ家」「グリルグランド」、中目黒の「串若丸」、日本橋の「室町 砂場」、両国の「ちゃんこ 霧島」、中目黒の「Pizzeria da ISA」など、東京各地の多彩な和食・洋食店が登場した。旅ロケ以外でもジャンルを問わず食べ歩く6人の食への探求心がよく表れているラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-2ed2841e-202305,sixtones-2b41b180-202411,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-pizzeria-e-trattoria-da-isa"></div>
+{% include inline-shop-grid.html ids="sixtones-2ed2841e-202305,sixtones-2b41b180-202411,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-pizzeria-e-trattoria-da-isa" %}
 
 ## 旅ロケグルメ【関東近郊】
 
 江の島・横浜・宇都宮・秩父・佐野と、日帰り圏内でまとめて回れる関東近郊の聖地が多い。**横浜中華街 → 江の島**の1日コースや、**宇都宮餃子 → 佐野ラーメン**の餃子麺旅も計画しやすいエリアだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-ramen-hakubutsukan,sixtones-kiraasse-utsunomiya,sixtones-sano-sa-foodcourt,sixtones-sixtones-202108,sixtones-f52d4936-202108"></div>
+{% include inline-shop-grid.html ids="sixtones-enoshima-kaisaku,sixtones-lacocorico-akarenga,sixtones-ramen-hakubutsukan,sixtones-kiraasse-utsunomiya,sixtones-sano-sa-foodcourt,sixtones-sixtones-202108,sixtones-f52d4936-202108" %}
 
 ## 旅ロケグルメ【東海・信州・群馬】
 
 富士河口湖・焼津・島田（静岡）・伊香保（群馬）・名古屋（愛知）の5エリアが登場。<mark>名古屋・牛追道中</mark>は松阪牛の焼肉名店で名古屋旅行の際は要チェック。富士山ロケの「ほうとう不動」は富士山ビューで食べるほうとうが見どころだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-unagi-maruchu,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-ushioidochu-nagoya"></div>
+{% include inline-shop-grid.html ids="sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-unagi-maruchu,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-ushioidochu-nagoya" %}
 
 ## 旅ロケグルメ【金沢・京都】
 
 石川・京都は旅行のついでに自然に組み込めるエリア。金沢の<mark>もりもり寿司</mark>は新鮮な北陸海鮮が楽しめる人気回転寿司で、「手打ちそば こめや」とセットで金沢グルメ巡礼ができる。京都では老舗の「京料理 六盛」が登場した。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-4330a634-202204,sixtones-b647a3f1-202204,sixtones-b5dfc98a-202310"></div>
+{% include inline-shop-grid.html ids="sixtones-4330a634-202204,sixtones-b647a3f1-202204,sixtones-b5dfc98a-202310" %}
 
 ## シンガポールロケ
 
 ストチューブの海外ロケ編（シンガポール）で3店が登場。<mark>YY Kafei Dian 喜園咖啡店</mark>は老舗コーヒーショップ、Tian Tian Hainanese Chicken Riceはシンガポール名物チキンライスの名店、Cichetiはイタリアン。「海外でも食にブレがない」SixTONESらしい多彩なセレクションだ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti"></div>
+{% include inline-shop-grid.html ids="sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti" %}
 
 ## エリア別巡礼ルート
 

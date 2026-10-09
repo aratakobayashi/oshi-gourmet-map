@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '蒸し鶏'}"
-  - "{'name': '毛沢東スペアリブ'}"
-  - "{'name': '黒チャーハン'}"
-  - "{'name': '麻辣湯'}"
+  - "蒸し鶏"
+  - "毛沢東スペアリブ"
+  - "黒チャーハン"
+  - "麻辣湯"
 ---

@@ -25,5 +25,5 @@ members:
 groups:
   - "sakurazaka46"
 ordered_items:
-  - "{'name': '麻婆豆腐'}"
+  - "麻婆豆腐"
 ---
