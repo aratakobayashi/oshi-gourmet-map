@@ -12,6 +12,7 @@ nearest_station: "大橋通駅 徒歩2分"
 visited_date: "2022-04-23"
 source_video_title: "KinKi Kidsのブンブブーン 高知グルメ 広末涼子"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
 lat: 33.5602068
 lng: 133.5370049

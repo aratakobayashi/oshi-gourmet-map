@@ -13,6 +13,7 @@ source_video_title: "私たちが恋する理由【七五三掛龍也ロケ地�
 source_url: "https://kosodate-and.net/koisuru-shime-cafe"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13175597/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg"
 lat: 35.651068637909475
 lng: 139.70263588296274
 members:

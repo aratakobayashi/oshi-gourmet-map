@@ -11,6 +11,7 @@ address: "東京都江東区青海１丁目３−１２"
 source_video_title: "【キントレ 趣味トレ】レーシングカートのサーキットはどこ？永瀬廉＆髙橋海人ロケ地"
 source_url: "https://kosodate-and.net/kintore-shumi-circuit"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.625058
 lng: 139.778725
 members:

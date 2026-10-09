@@ -6,6 +6,7 @@ genre: chuka
 group_label: "WEST."
 slug_id: west-chuka
 shop_count: 19
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 related_genres:
   - west-shokuji
   - west-cafe

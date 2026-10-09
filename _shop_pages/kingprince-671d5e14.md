@@ -13,6 +13,7 @@ source_video_title: "東京タワー【永瀬廉＆松田元太ロケ地】第3�
 source_url: "https://kosodate-and.net/tokyotower-ren-genta-yakitori"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13041287/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
 lat: 35.659527637788344
 lng: 139.33909298330298
 members:

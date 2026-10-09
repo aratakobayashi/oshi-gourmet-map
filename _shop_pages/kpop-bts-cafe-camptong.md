@@ -10,6 +10,7 @@ address: "韓国ソウル市江南区狎鴎亭路464"
 source_video_title: "Run BTS! EP.118-119"
 source_url: "https://oshito.online/news/7523.html"
 group: "kpop_bts"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg"
 lat: 37.5287
 lng: 127.0437
 members:

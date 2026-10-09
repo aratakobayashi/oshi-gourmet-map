@@ -12,6 +12,7 @@ nearest_station: "覚王山駅 徒歩10分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230107/23091047/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.161262
 lng: 136.950583
 groups:

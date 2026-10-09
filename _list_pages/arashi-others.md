@@ -6,6 +6,7 @@ genre: others
 group_label: "嵐"
 slug_id: arashi-others
 shop_count: 21
+thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 related_genres:
   - arashi-shokuji
   - arashi-ramen

@@ -11,6 +11,7 @@ address: "神奈川県三浦市三崎2-4-4"
 source_video_title: "キントレ【髙橋海人】炊飯器の旅in神奈川三浦市で訪れた場所はどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-kanagawa"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.1778307
 lng: 139.6330533
 members:

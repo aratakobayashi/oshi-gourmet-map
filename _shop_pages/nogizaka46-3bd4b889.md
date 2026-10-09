@@ -11,6 +11,7 @@ address: "東京都台東区浅草2-7-13"
 source_video_title: "乃木坂ってどこ？"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13183985/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg"
 lat: 35.7115
 lng: 139.7961
 members:

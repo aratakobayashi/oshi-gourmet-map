@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2022-09-20"
 source_url: "https://www.activitv.com/entry/ikisugisan_220920_bijin/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13010659/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.67035943791734
 lng: 139.7657958831133

@@ -13,6 +13,7 @@ updated: 2026-10-07
 
 - 掲載店は、公式YouTube動画・テレビ番組・ドラマなどの公開情報、およびファンの方による公開ブログ等の情報をもとに、運営者が整理したものです。
 - 出典となる動画・番組は、各店舗ページに記載しています。
+- テレビ番組・ドラマの画像は [TMDB（The Movie Database）](https://www.themoviedb.org/) のAPIを利用して表示しています。This product uses the TMDB API but is not endorsed or certified by TMDB.
 - 営業時間・価格・閉店などは変わることがあります。お出かけ前に、店舗の公式情報や予約サイトでご確認ください。
 - 誤り、閉店、掲載削除のご依頼は、[お問い合わせ]({{ '/contact/' | relative_url }})からご連絡ください。確認のうえ対応します。
 

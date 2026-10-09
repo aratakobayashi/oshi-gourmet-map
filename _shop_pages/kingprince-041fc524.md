@@ -12,6 +12,7 @@ source_video_title: "【キンプる2時間SPロケ地】新潟1泊2日5人旅�
 source_url: "https://kosodate-and.net/kinpru-niigata"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/niigata/A1502/A150201/15020630/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 37.4555945
 lng: 138.8051754
 members:

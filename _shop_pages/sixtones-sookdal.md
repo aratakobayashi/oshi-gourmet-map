@@ -14,6 +14,7 @@ source_video_title: "オオカミ少年【ジェシー＆田中樹ロケ地】�
 source_url: "https://kosodate-and.net/ookami-jesse-jyuri-kankoku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13135397/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ArDNrCix7Zje5pbkQUbAF9kVxV8.jpg"
 lat: 35.7029971
 lng: 139.6986293
 members:

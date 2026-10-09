@@ -11,6 +11,7 @@ address: "静岡県沼津市蓼原町３５−１"
 source_video_title: "キントレ【髙橋海人ロケ地】炊飯器の旅静岡県沼津市のお魚屋さん・おでん屋さん・みかん直売所はどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-numazu"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.083144
 lng: 138.8605078
 members:

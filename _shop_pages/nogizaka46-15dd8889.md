@@ -12,6 +12,7 @@ nearest_station: "小樽駅 徒歩4分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0106/A010601/1000906/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 43.1994354
 lng: 140.9955981
 groups:

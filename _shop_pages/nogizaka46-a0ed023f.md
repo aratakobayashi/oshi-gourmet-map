@@ -12,6 +12,7 @@ nearest_station: "西線6条駅 徒歩2分"
 source_video_title: "乃木坂ってどこ"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010103/1001073/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg"
 lat: 43.0501774
 lng: 141.3359311
 groups:

@@ -13,6 +13,7 @@ source_video_title: "キントレ 大食い【永瀬廉＆宮近海斗 ロケ地
 source_url: "https://kosodate-and.net/kintore-ren-chaka-oogui"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14039020/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.443451538023446
 lng: 139.646410980905
 members:

@@ -129,7 +129,7 @@ for shop in shops:
                 "nearest_station","price_range","visited_date",
                 "youtube_id","source_video_title","source_video_url","source_url",
                 "group","tabelog_url","hotpepper_url","google_maps_url",
-                "thumbnail_url","source_type","seating_note",
+                "thumbnail_url","hotpepper_photo","source_type","seating_note",
                 "business_hours"]:
         v = shop.get(key)
         if v is not None and v != "":

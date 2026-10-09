@@ -11,6 +11,7 @@ source_video_title: "イキスギさんについてった 2023-05-16（小瀧望
 source_url: "https://activitv.com/entry/ikisugisan_230516_kohriyama-2/"
 group: "west"
 tabelog_url: "https://tabelog.com/fukushima/A0702/A070201/7008950/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 37.38598604782028
 lng: 140.35358086119246

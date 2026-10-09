@@ -12,6 +12,7 @@ nearest_station: "銀座駅 徒歩3分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13007650/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
 lat: 35.670156237917105
 lng: 139.76461788311207

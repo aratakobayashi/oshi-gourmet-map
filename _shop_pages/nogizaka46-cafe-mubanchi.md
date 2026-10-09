@@ -11,6 +11,7 @@ address: "河東郡鹿追町北瓜幕 然別湖畔"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0111/A011104/1053080/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 43.273458554957195
 lng: 143.10478681873283
 groups:

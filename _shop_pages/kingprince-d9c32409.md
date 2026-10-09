@@ -13,6 +13,7 @@ source_video_title: "【行列のできる相談所】永瀬廉が食べた漆�
 source_url: "https://kosodate-and.net/gyoretsu-ren-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131504/13133280/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg"
 lat: 35.55423394878858
 lng: 139.74099438311947
 members:

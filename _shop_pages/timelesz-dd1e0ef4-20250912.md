@@ -14,6 +14,7 @@ source_video_title: "ニノさん 高田馬場麻辣グルメ（2025年9月12日
 source_url: "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-location-mala/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130503/13273758/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
 lat: 35.7109696
 lng: 139.7069778
 members:

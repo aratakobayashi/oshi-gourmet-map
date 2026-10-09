@@ -12,6 +12,7 @@ nearest_station: "渋谷駅 徒歩10分"
 source_video_title: "めざましテレビ 2017.12.07"
 source_url: "https://medax.hatenablog.com/entry/mezamashi/20171207"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6633709
 lng: 139.6964952
 members:

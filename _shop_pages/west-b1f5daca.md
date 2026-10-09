@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-06-06 なのに�
 source_url: "https://jwest.jp/ikisugi_20230606/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13037870/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.6706504
 lng: 139.7734291

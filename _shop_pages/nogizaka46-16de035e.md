@@ -11,6 +11,7 @@ address: "鳥取市福部町湯山２１６４−８０６"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hiroshima/A3407/A340403/34027852/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 35.5425613
 lng: 134.2508319
 groups:

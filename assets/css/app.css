@@ -492,6 +492,8 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .shop__b { grid-area: b; }
 .shop__hero { margin: 0 calc(-1 * var(--s-4)); display: block; width: calc(100% + 2 * var(--s-4)); aspect-ratio: 16 / 9; overflow: hidden; background: var(--placeholder); border: 0; padding: 0; position: relative; }
 .shop__hero img { width: 100%; height: 100%; object-fit: cover; }
+.shop__credit { position: absolute; right: 0; bottom: 0; padding: 2px 8px; font-size: 11px; background: rgba(0, 0, 0, .55); color: #fff; }
+.shop__credit a { color: inherit; }
 .shop__hero--noimg { background: color-mix(in srgb, var(--g) 16%, #fff); border-top: 5px solid var(--g); display: flex; align-items: center; justify-content: center; gap: var(--s-6); padding: var(--s-4); }
 .shop__hero--noimg .stamp { --c: var(--g); color: color-mix(in srgb, var(--g) 75%, #000); border-color: currentColor; }
 .shop__hero-src { font-family: var(--serif); font-weight: 800; font-size: 20px; line-height: 1.5; color: color-mix(in srgb, var(--g) 75%, #000); max-width: 12em; }

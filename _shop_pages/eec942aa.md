@@ -12,6 +12,7 @@ source_video_title: "孤独のグルメ Season10 Episode2"
 source_url: "https://8888-info.hatenablog.com/entry/Season10"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13027513/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg"
 lat: 35.63453403792535
 lng: 139.71944618278388
 groups:

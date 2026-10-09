@@ -12,6 +12,7 @@ visited_date: "2023-06-26"
 source_video_title: "【だが、情熱はある】山里の差し入れたまごサンド（玉子サンド）はどこの？西武？"
 source_url: "https://kosodate-and.net/daga-jyounetsu-tamago-sando"
 group: "sixtones"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 lat: 34.662648
 lng: 135.495574
 members:

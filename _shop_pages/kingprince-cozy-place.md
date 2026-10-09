@@ -13,6 +13,7 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チ�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-cozyplace"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13282285/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.70150302318357
 lng: 139.7018867886979
 members:

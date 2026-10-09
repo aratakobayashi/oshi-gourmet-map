@@ -11,6 +11,7 @@ address: "東京都多摩市落合2-31-1"
 source_video_title: "キントレ【永瀬廉ロケ地】パイロットの学生寮はどこ？永瀬廉の寮ごはん"
 source_url: "https://kosodate-and.net/kintore-ren-pilot-ryo"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6147927
 lng: 139.4292765
 members:

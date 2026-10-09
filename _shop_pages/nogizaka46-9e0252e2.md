@@ -12,6 +12,7 @@ nearest_station: "古市駅 徒歩18分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/osaka/A2708/A270801/27003570/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 34.551504
 lng: 135.597465
 groups:

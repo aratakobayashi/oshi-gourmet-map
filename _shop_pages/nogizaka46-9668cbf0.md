@@ -12,6 +12,7 @@ nearest_station: "大通駅 徒歩6分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010103/1035973/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 43.0580179
 lng: 141.3584712
 groups:

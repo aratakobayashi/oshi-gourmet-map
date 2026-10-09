@@ -6,6 +6,7 @@ genre: others
 group_label: "SMAP"
 slug_id: smap-others
 shop_count: 9
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
 related_groups:
   - kingprince-others
   - nogizaka46-others

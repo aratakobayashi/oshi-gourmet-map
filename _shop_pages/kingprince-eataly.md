@@ -12,6 +12,7 @@ source_video_title: "【キントレ当たり前レストラン】マリトッ�
 source_url: "https://kosodate-and.net/kintore-atarimae-maritozzo"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13245475/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6692039
 lng: 139.7072847
 members:

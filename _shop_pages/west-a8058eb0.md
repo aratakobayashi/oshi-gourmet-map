@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-03-28（小瀧望
 source_url: "https://www.activitv.com/entry/ikisugisan_230328_katsu/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13264309/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.69475793788186
 lng: 139.70301258340376

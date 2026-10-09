@@ -13,6 +13,7 @@ source_video_title: "キントレ【永瀬廉ロケ地】まかないハンタ�
 source_url: "https://kosodate-and.net/kintore-ren-makanai-ramen"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13014912/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.67271253791604
 lng: 139.76637058313665
 members:

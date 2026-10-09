@@ -12,6 +12,7 @@ source_video_title: "キントレ【髙橋海人＆高橋恭平】炊飯器の�
 source_url: "https://kosodate-and.net/kintore-kaito-kyohei-softcream"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1409/A140901/14030902/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.2391784
 lng: 139.1451992
 members:

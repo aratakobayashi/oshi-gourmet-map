@@ -11,6 +11,7 @@ address: "栃木県宇都宮市西川田東町5-2-2"
 source_video_title: "秘密のケンミンSHOW極"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9009189/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/vYNrU9pbQBJ1U9JRglAwmGn5Aei.jpg"
 lat: 36.5052
 lng: 139.8659
 members:

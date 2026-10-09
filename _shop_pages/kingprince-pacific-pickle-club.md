@@ -12,6 +12,7 @@ source_video_title: "【キントレ 趣味トレ第2弾】ピックルボール
 source_url: "https://kosodate-and.net/kintore-shumi-pickleball"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131306/13302278/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.640906
 lng: 139.789578
 members:

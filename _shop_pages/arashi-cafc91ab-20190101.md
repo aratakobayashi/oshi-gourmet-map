@@ -13,6 +13,7 @@ visited_date: "2019-01-01"
 source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230105/23000105/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
 lat: 35.146554
 lng: 136.9146788

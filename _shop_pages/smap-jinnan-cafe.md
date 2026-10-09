@@ -13,6 +13,7 @@ source_video_title: "初耳学【木村拓哉＆中島健人撮影】“イン�
 source_url: "https://kosodate-and.net/hatsumimigaku-kimura-kento-cafe"
 group: "smap"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13130801/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/dDmyU4HmuYjQVWl1D6lf9QmkaJ7.jpg"
 lat: 35.66305073790103
 lng: 139.69994138308562
 members:

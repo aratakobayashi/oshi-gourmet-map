@@ -12,6 +12,7 @@ source_video_title: "東京タワー【永瀬廉ロケ地】軽井沢で透と�
 source_url: "https://kosodate-and.net/tokyotower-karuizawa-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/nagano/A2003/A200301/20020207/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
 lat: 36.36359610790841
 lng: 138.59134160210064
 members:

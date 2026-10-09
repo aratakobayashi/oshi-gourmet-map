@@ -11,6 +11,7 @@ address: "東京都台東区浅草1丁目"
 source_video_title: "イキスギさんについてった 2023-07-18 浅草グルメ300日"
 source_url: "https://jwest.jp/ikisugi_20230718/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.7119497
 lng: 139.7948545

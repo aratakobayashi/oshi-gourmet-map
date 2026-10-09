@@ -11,6 +11,7 @@ nearest_station: "新大久保駅 徒歩5分"
 source_video_title: "それSnow Manだから"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13232939/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 source_type: "tv"
 lat: 35.699367137878845
 lng: 139.70276558345049

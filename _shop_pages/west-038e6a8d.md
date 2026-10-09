@@ -13,6 +13,7 @@ source_video_title: "重岡大毅 人生最高レストラン（日生劇場舞�
 source_url: "https://note.com/yui_natade/n/n8b5a2ecb3334"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130102/13002736/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
 source_type: "blog"
 lat: 35.6736817
 lng: 139.7611853

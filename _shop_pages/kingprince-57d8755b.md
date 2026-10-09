@@ -13,6 +13,7 @@ source_video_title: "【キントレ「バイトレ」ロケ地】髙橋海人�
 source_url: "https://kosodate-and.net/kintore-kaito-donki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13232699/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6513684
 lng: 139.6934004
 members:

@@ -8,6 +8,7 @@ slug_id: kingprince-ramen
 shop_count: 7
 group_color: "#f472b6"
 group_bio: "King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
 related_genres:
   - kingprince-others
   - kingprince-shokuji

@@ -13,6 +13,7 @@ visited_date: "2023-06-18"
 source_video_title: "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）"
 source_url: "https://jwest.jp/riatotsu_20230618/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eha08jjB6clOlKMEaO4pUVjyYp.jpg"
 source_type: "tv"
 lat: 35.6601742
 lng: 139.7235797

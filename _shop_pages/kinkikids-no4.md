@@ -12,6 +12,7 @@ nearest_station: "市ケ谷駅 徒歩5分"
 source_video_title: "KinKi Kidsのブンブブーン 市ヶ谷 カフェ＆ベーカリー"
 source_url: "https://news.yahoo.co.jp/expert/articles/90ff51745144a5e5e1b45f77a1aff915a90eca32"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 lat: 35.689056
 lng: 139.737847
 members:

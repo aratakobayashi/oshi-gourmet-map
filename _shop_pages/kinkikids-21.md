@@ -12,6 +12,7 @@ source_video_title: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜�
 source_url: "https://kosodate-and.net/kinki-kids-momokuro-yakiniku"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132305/13299528/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 lat: 35.705712
 lng: 139.7691299
 members:

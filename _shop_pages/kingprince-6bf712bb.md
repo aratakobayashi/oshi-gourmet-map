@@ -13,6 +13,7 @@ source_video_title: "【キンプる】当たり前レストラン岸優太の�
 source_url: "https://kosodate-and.net/kinpru-kishi-soba"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13238484/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.697286537868244
 lng: 139.66530028345574
 members:

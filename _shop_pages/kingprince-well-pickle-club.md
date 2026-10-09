@@ -11,6 +11,7 @@ address: "東京都葛飾区西水元６－５－１"
 source_video_title: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地"
 source_url: "https://kosodate-and.net/kintore-shumi-pickleball"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.787324
 lng: 139.8518675
 members:

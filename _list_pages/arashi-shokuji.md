@@ -6,6 +6,7 @@ genre: shokuji
 group_label: "嵐"
 slug_id: arashi-shokuji
 shop_count: 100
+thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 related_genres:
   - arashi-ramen
   - arashi-sweets

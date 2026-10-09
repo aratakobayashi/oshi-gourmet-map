@@ -11,6 +11,7 @@ address: "熱海市小嵐町１４−８"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22001796/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.0904658
 lng: 139.0661348
 groups:

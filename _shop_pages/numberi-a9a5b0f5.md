@@ -12,6 +12,7 @@ source_video_title: "VS魂 背徳グルメワールドツアー"
 source_url: "https://kosodate-and.net/vsdamashii-kishi-cream-puff/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13033054/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.6720135
 lng: 139.7647202
 members:

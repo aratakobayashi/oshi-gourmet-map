@@ -10,6 +10,7 @@ city: "名古屋市"
 address: "愛知県名古屋市北区大杉１丁目１８−２１"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.186718
 lng: 136.916846
 groups:

@@ -6,6 +6,7 @@ genre: shokuji
 group_label: "Kis-My-Ft2"
 slug_id: kismai-shokuji
 shop_count: 6
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg"
 related_genres:
   - kismai-cafe
 related_groups:

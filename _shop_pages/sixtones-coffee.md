@@ -14,6 +14,7 @@ source_video_title: "だが、情熱はあるロケ地【森本慎太郎撮影�
 source_url: "https://kosodate-and.net/daga-jyounetsu-shintaro-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140310/14028140/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 lat: 35.3261418
 lng: 139.6250389
 members:

@@ -14,6 +14,7 @@ source_video_title: "めざましテレビ 川越ロケ（2025年6月3日）"
 source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-inomatashuto-shinozukataiki-mezamashitv-20250603-kawagoe-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11064993/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.918918
 lng: 139.482637
 members:

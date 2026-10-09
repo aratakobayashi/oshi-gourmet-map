@@ -6,6 +6,7 @@ genre: izakaya
 group_label: "WEST."
 slug_id: west-izakaya
 shop_count: 8
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 related_genres:
   - west-shokuji
   - west-cafe

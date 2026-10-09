@@ -13,6 +13,7 @@ source_video_title: "嵐にしやがれ"
 source_url: "https://meqqe.jp/books/1000825"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13003914/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
 lat: 35.7265922
 lng: 139.7157472

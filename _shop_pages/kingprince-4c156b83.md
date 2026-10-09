@@ -12,6 +12,7 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人ロケ地】山�
 source_url: "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/yamanashi/A1902/A190203/19004165/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6094235
 lng: 138.4706175
 members:

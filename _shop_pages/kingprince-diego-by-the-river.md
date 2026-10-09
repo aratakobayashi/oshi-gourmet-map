@@ -12,6 +12,7 @@ source_video_title: "あの頃からわたしたちは【髙橋海人ロケ地�
 source_url: "https://kosodate-and.net/anokoro-kaito-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14036704/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
 lat: 35.309558268862666
 lng: 139.48568536082698
 members:

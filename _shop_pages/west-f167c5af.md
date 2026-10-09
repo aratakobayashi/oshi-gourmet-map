@@ -11,6 +11,7 @@ address: "埼玉県さいたま市浦和区北浦和"
 source_video_title: "イキスギさんについてった 2023-05-23 餃子10000個"
 source_url: "https://jwest.jp/ikisugi_20230523/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.8721554
 lng: 139.6461059

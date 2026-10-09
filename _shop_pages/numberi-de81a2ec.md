@@ -7,13 +7,15 @@ name: "大久手 山本屋"
 genre: "washoku"
 prefecture: "愛知県"
 city: "名古屋市"
-address: "愛知県名古屋市千種区大久手5丁目9-2"
+address: "愛知県名古屋市千種区大久手町5-9-2"
+nearest_station: "吹上駅"
 source_video_title: "キンプる 元旦SP"
 source_url: "https://kosodate-and.net/kinpru-wyuta-nagoya-udon/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230112/23089744/"
-lat: 35.2031348
-lng: 136.9853024
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
+lat: 35.161491578144854
+lng: 136.93641522111835
 members:
   - "岸優太"
   - "神宮寺勇太"

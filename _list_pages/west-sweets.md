@@ -6,6 +6,7 @@ genre: sweets
 group_label: "WEST."
 slug_id: west-sweets
 shop_count: 11
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 related_genres:
   - west-shokuji
   - west-cafe

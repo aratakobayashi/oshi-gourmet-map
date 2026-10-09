@@ -197,6 +197,9 @@ heysayjump:        '#ef4444'  // レッド
 | `geocode_shiori.py` | しおり専用ジオコーダー（tabelog JSON-LD優先 + 丁目形式フォールバック） |
 | `extract_shiori_hashtags.py` | ハッシュタグから店名候補を抽出（#店名パターン・汎用タグ除外・連結タグ分割対応） |
 | `scrape_kinpri.py` | King & Prince「当たり前レストラン」スクレイピング（tsuzuki-fam.com / ValueCommerce経由tabelog URL対応） |
+| `fetch_program_thumbnails.py` | 画像なし店舗に、出典のテレビ番組・ドラマのTMDB画像を補完（番組名→TMDB IDの対応表 PROGRAMS。回が特定できればエピソード画像、なければポスター）。新しい番組はPROGRAMSに追加 |
+| `fetch_hotpepper_photos.py` | hotpepper_url のある店にホットペッパーAPIの店舗写真を hotpepper_photo として付ける（HOTPEPPER_API_KEY）。表示は 動画 → hotpepper_photo → thumbnail_url の順。写真を出すページとフッターに「Powered by ホットペッパー Webサービス」 |
+| `match_youtube_videos.py` | youtube_id のない店のうち、公式YouTube企画（すのちゅーぶ・Aぇちゅ〜ぶ・乃木坂配信中など）が出典の店をチャンネルの動画一覧と照合して youtube_id を付ける（YOUTUBE_API_KEY）。自信のないものは scripts/youtube_match_review.json に候補を出し、確認後 --apply-review |
 | `normalize_links.py` | 外部リンクの正規化（重複削除・食べログURLの店舗トップ化・ホットペッパーの追跡パラメータ除去）。何度実行しても同じ結果 |
 | `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成（リニューアル後の画面では未使用） |
 | `build_site_data.py` | 画面用データを生成: _data/shop_cards・group_meta・group_ix・group_detail・nearby・venue_nearby・site_stats と data/explore.json（/shops/ の絞り込み用） |
@@ -245,15 +248,17 @@ heysayjump:        '#ef4444'  // レッド
 export YOUTUBE_API_KEY="..."   # YouTube Data API v3
 export GEMINI_API_KEY="..."    # Gemini API（未取得）
 export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取得）登録: https://www.themoviedb.org/settings/api
+export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 登録: https://webservice.recruit.co.jp/
 ```
 
 ---
 
 ## 現在の状況（2026-10-07時点）
-- 総店舗数: 2,329件（42グループ）。店舗ページ 2,360（うち孤立ページ31）・一覧ページ111・グループページ42
+- 総店舗数: 2,328件（42グループ）。店舗ページ 2,360（うち孤立ページ32）・一覧ページ111・グループページ42
 - 推し活ガイド41本（/guide/）・特集記事42本（/articles/）
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
-- 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 1,441件
+- 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 465件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を976件補完。「なにわ男子のどっち派」「なにわ男子のなんでやねん」はめざましテレビ内のコーナー。残りはYouTube企画（match_youtube_videos.py の対象）・MV・SNS投稿などTMDBにない出典）
+- TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載
 - アフィリエイトは仕組みのみ導入済み（_config.yml の affiliate に sid/pid を入れると有効化）
 
 ## 過去の状況（2026-05-26時点）

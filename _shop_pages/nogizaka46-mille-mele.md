@@ -10,6 +10,7 @@ city: "鎌倉市"
 address: "鎌倉市小町2-10-4"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.3242675
 lng: 139.5524688
 groups:

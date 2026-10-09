@@ -12,6 +12,7 @@ nearest_station: "「有楽町駅」より徒歩3分「銀座1丁目駅」より
 visited_date: "2026-03-28"
 source_video_title: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめ"
 group: "snowman"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8WG3v2SgyJiXNnCZZibcY2uKVhn.jpg"
 lat: 35.6720135
 lng: 139.7647202
 members:

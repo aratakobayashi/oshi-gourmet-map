@@ -12,6 +12,7 @@ source_video_title: "モニタリング【永瀬廉ロケ地】ハンバーグ�
 source_url: "https://kosodate-and.net/monitoring-ren-hamburg"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13300124/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
 lat: 35.690243038711294
 lng: 139.76955458447327
 members:

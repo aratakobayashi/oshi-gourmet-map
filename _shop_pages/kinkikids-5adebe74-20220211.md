@@ -11,6 +11,7 @@ address: "東京都中央区月島1-20-8"
 visited_date: "2022-02-11"
 source_video_title: "KinKi Kidsのブンブブーン おまけグルメ"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
 lat: 35.6632293
 lng: 139.7822568

@@ -9,6 +9,7 @@ prefecture: "東京都"
 source_video_title: "日向坂で会いましょう"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131709/13098861/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
 lat: 35.64378658870429
 lng: 139.6549060740844
 members:

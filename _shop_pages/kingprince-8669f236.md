@@ -12,6 +12,7 @@ source_video_title: "【だが、情熱はあるロケ地】若林（髙橋海�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-pasta-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13091160/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 lat: 35.77728313785688
 lng: 139.78914588417695
 members:

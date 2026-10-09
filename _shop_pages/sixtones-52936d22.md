@@ -13,6 +13,7 @@ source_video_title: "【Game of SixTONES】孫さんの中華料理店はどこ�
 source_url: "https://kosodate-and.net/sixtones-son-chinese"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13005429/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/taDSwjMeOA7fv8rrlKNJSksAMxp.jpg"
 lat: 35.6624568
 lng: 139.7334981
 members:

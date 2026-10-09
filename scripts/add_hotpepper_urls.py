@@ -135,12 +135,8 @@ def main():
         print(f'  [{score:.2f}] {name} → {best["name"]}')
 
         if not args.dry_run:
+            # ホットペッパーは hotpepper_url だけに入れる（affiliate_links には入れない）
             shop['hotpepper_url'] = hp_url
-            # affiliate_linksにも追加
-            links = shop.get('affiliate_links', [])
-            if not any('ホットペッパー' in l.get('label', '') for l in links):
-                links.append({'label': 'ホットペッパーで予約', 'url': hp_url})
-                shop['affiliate_links'] = links
 
         if (i + 1) % 50 == 0:
             print(f'--- {i+1}/{len(targets)}件処理済み ---')

@@ -11,6 +11,7 @@ address: "東京都文京区千石４丁目９番地１"
 source_video_title: "キントレ【永瀬廉の寮ご飯ロケ地】山梨県人寮はどこ？"
 source_url: "https://kosodate-and.net/kintore-ren-yamanashi-ryo"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.7290907
 lng: 139.7411102
 members:

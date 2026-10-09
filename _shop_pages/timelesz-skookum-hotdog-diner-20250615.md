@@ -13,6 +13,7 @@ source_video_title: "かまいガチ 焼肉・中目黒食べ歩き（2025年6�
 source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-shinozukataiki-kamaigachi-20250615-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13263964/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
 lat: 35.6513684
 lng: 139.6934004
 members:

@@ -12,6 +12,7 @@ nearest_station: "鎌倉駅 徒歩10分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14014112/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.3242675
 lng: 139.5524688
 groups:

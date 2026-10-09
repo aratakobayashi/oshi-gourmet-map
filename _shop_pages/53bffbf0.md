@@ -11,6 +11,7 @@ source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-sendai/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/miyagi/A0401/A040101/4024167/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 lat: 38.26263847742815
 lng: 140.87057902968508
 groups:

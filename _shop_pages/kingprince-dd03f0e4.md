@@ -13,6 +13,7 @@ source_video_title: "東京タワー第5話【永瀬廉ロケ地】透＆耕二�
 source_url: "https://kosodate-and.net/tokyotower-ren-ramen"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110201/11007412/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
 lat: 35.83923365860541
 lng: 139.734191886003
 members:

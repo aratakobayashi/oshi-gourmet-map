@@ -13,6 +13,7 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人＆須賀健太�
 source_url: "https://kosodate-and.net/kintore-kaito-sugaken-pan"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14079455/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.320869138045225
 lng: 139.4703807797902
 members:

@@ -11,6 +11,7 @@ address: "群馬県利根郡みなかみ町湯原１６８０－１５"
 source_video_title: "【キンプるロケ地】かまくら作りのスキー場・スーパーはどこ？撮影日はいつ？"
 source_url: "https://kosodate-and.net/kinpru-ski-resort"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 36.6783
 lng: 138.9802
 members:

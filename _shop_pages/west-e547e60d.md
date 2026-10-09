@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2022-11-22（中間淳
 source_url: "https://seitaikarate.mondainashi.net/541.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13178762/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.70170073787903
 lng: 139.70793978347044

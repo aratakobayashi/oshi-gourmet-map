@@ -12,6 +12,7 @@ source_video_title: "【だが、情熱はある】髙橋海人誕生日お祝�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-birthday"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13155761/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 lat: 35.6402223387331
 lng: 139.73827735398996
 members:
