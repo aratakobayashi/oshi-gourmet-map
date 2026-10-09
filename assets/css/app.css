@@ -112,6 +112,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .ftr .logo { font-size: 18px; }
 .ftr__links { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-6); }
 .ftr__links a { color: var(--ink); font-size: 13px; }
+.ftr__links--sub { margin-top: var(--s-3); }
+.ftr__links--sub a { font-size: 12px; }
 .ftr__note { font-size: 12px; color: var(--ink-2); margin-top: var(--s-2); }
 @media (min-width: 768px) { .ftr__in { flex-direction: row; justify-content: space-between; align-items: flex-start; } }
 

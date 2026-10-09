@@ -121,6 +121,8 @@ body.page-lp { background: #FFF6EE; }
 .lp .landing-more { margin-top: 36px; text-align: center; }
 .lp .btn--outline { border: 1.5px solid var(--c-ink); color: var(--c-ink); font-family: var(--f-round); font-weight: 700; font-size: 13px; padding: 12px 28px; border-radius: var(--r-pill); }
 .lp .btn--outline:hover { background: var(--c-ink); color: var(--c-cream); text-decoration: none; }
+.lp .landing-sub { margin-top: 14px; font-size: 13px; font-weight: 700; }
+.lp .landing-sub a { color: var(--c-ink); text-decoration: underline; text-underline-offset: 3px; }
 @media (max-width: 1023px) { .lp .hero__collage { width: 360px; height: 380px; } }
 @media (max-width: 1023px) { .lp .polaroid--a { width: 180px; } }
 @media (max-width: 1023px) { .lp .polaroid--b { width: 168px; } }
