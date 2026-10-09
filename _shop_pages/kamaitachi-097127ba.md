@@ -14,6 +14,7 @@ group: "kamaitachi"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13291595/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003559518/"
 thumbnail_url: "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/04/79/P040710479/P040710479_238.jpg"
 lat: 35.6558
 lng: 139.7369
 members:

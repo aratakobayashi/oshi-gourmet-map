@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和風レストラン 松竹」"
-description: "乃木坂配信中で紹介されたその他「和風レストラン 松竹」（岩手県一関市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46のYouTubeで紹介されたその他「和風レストラン 松竹」（岩手県一関市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-4fb123b7-"
 name: "和風レストラン 松竹"
 genre: "others"
@@ -9,7 +9,10 @@ prefecture: "岩手県"
 city: "一関市"
 address: "岩手県一関市上大槻街２−１"
 nearest_station: "一ノ関駅 徒歩4分"
-source_video_title: "乃木坂配信中"
+visited_date: "2023-09-04"
+youtube_id: "BJSR_WwjQJ8"
+source_video_title: "ライブ翌日に岩手グルメ食べに行ってみた！【焼肉・カツ丼】"
+source_video_url: "https://www.youtube.com/watch?v=BJSR_WwjQJ8"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/iwate/A0303/A030301/3004228/"
 lat: 38.928782

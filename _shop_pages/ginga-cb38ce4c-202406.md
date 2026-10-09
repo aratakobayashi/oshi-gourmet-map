@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=5jBPMpJLR60"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13281809/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003498443/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/15/P048095915/P048095915_238.jpg"
 lat: 35.6655555
 lng: 139.7563666
 members:

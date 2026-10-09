@@ -17,6 +17,7 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13293862/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004049853/"
 thumbnail_url: "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/80/P051183380/P051183380_238.jpg"
 seating_note: "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
 lat: 35.6469
 lng: 139.7139

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「blinc base（ブリンクベース）」"
-description: "SixTONES【ストチューブ】メガネ屋さんはどこ？で紹介されたその他「blinc base（ブリンクベース）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたその他「blinc base（ブリンクベース）」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-blinc_base-"
 name: "blinc base（ブリンクベース）"
 genre: "others"
@@ -9,7 +9,9 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山３丁目５−１６ １F"
 visited_date: "2025-04-26"
-source_video_title: "SixTONES【ストチューブ】メガネ屋さんはどこ？"
+youtube_id: "iGdL-GyCcqE"
+source_video_title: "SixTONES【みんなでメガネ買ってみた】プレゼント交換会形式で👓"
+source_video_url: "https://www.youtube.com/watch?v=iGdL-GyCcqE"
 source_url: "https://kosodate-and.net/sixtones-megane-shop"
 group: "sixtones"
 lat: 35.666133

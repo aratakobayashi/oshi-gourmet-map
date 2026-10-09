@@ -16,6 +16,7 @@ group: "kamenashi"
 tabelog_url: "https://tabelog.com/miyazaki/A4501/A450101/45000085/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000030058/"
 thumbnail_url: "https://img.youtube.com/vi/Q-BcioViZcc/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/51/57/P034485157/P034485157_238.jpg"
 lat: 31.920779
 lng: 131.426335
 members:

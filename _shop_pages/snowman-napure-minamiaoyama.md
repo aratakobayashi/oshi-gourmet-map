@@ -17,6 +17,7 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000242914/"
 thumbnail_url: "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/90/P018036990/P018036990_238.jpg"
 seating_note: "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
 lat: 35.6651
 lng: 139.7184

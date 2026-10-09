@@ -15,6 +15,7 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/shiga/A2504/A250403/25012462/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000434758/"
 thumbnail_url: "https://img.youtube.com/vi/NcDizNoUVMs/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/26/P037163926/P037163926_238.jpg"
 lat: 35.0021553
 lng: 135.8825058
 members:

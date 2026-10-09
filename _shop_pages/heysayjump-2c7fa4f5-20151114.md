@@ -15,6 +15,7 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13283525/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000797448/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/07/38/P012300738/P012300738_238.jpg"
 source_type: "tv"
 lat: 35.6589015
 lng: 139.6975367

@@ -14,6 +14,7 @@ group: "notme"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470304/47007592/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000987614/"
 thumbnail_url: "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/03/P028996503/P028996503_238.jpg"
 lat: 26.3270896
 lng: 127.7538362
 members:

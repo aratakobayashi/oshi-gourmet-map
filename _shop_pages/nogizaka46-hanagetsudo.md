@@ -16,6 +16,7 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13183985/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000898725/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/76/79/P022697679/P022697679_238.jpg"
 source_type: "tv"
 lat: 35.7144
 lng: 139.7944

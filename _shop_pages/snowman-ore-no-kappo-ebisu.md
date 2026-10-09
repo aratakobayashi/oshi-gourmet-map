@@ -17,6 +17,7 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13308780/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004090694/"
 thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/57/70/P047845770/P047845770_238.jpg"
 seating_note: "SnowManが座っていた席は、カウンターのお席でした。 炉端焼きを調理している様子が目の前で楽しめるお席です。 カウンター以外にもテーブル席があります。席数は全部で42席あります。"
 lat: 35.6476
 lng: 139.7131

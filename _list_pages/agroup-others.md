@@ -6,7 +6,7 @@ genre: others
 group_label: "Aぇ!group"
 slug_id: agroup-others
 shop_count: 16
-thumbnail_url: "https://image.tmdb.org/t/p/w500/cpwapzXY6pJhdZun5WFjAYKWTHq.jpg"
+youtube_id: WXBhPBd6YBI
 related_genres:
   - agroup-washoku
 related_groups:

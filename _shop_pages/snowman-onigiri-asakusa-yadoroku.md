@@ -16,6 +16,7 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000126816/"
 thumbnail_url: "https://img.youtube.com/vi/RpcyxzXS4ww/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/48/P012808948/P012808948_238.jpg"
 lat: 35.7181
 lng: 139.8025
 members:
