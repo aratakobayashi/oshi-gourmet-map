@@ -11,6 +11,7 @@ address: "東京都渋谷区富ヶ谷1-9-15-101"
 source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
 group: "naniwa"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6658083
 lng: 139.6876001
 members:

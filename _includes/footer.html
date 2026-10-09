@@ -11,6 +11,9 @@
         <a href="{{ '/privacy/' | relative_url }}">プライバシーポリシー</a>
         <a href="{{ '/disclosure/' | relative_url }}">広告（PR）表記</a>
       </nav>
+      {%- if site.data.site_stats.hp_photos > 0 %}
+      <p class="ftr__note">店舗写真の一部：<a href="https://webservice.recruit.co.jp/" target="_blank" rel="noopener">Powered by ホットペッパー Webサービス</a></p>
+      {%- endif %}
       <p class="ftr__note">当サイトはアフィリエイト広告を利用しています。動画・画像の権利は各権利者に帰属します。</p>
       <p class="ftr__note">&copy; {{ site.time | date: "%Y" }} 推しグルメ巡礼MAP</p>
     </div>

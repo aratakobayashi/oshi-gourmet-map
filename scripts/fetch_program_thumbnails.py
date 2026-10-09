@@ -67,6 +67,8 @@ PROGRAMS = [
     (r'timelesz project -AUDITION', 271418, 'tv'),
     (r'timelesz project -REAL', 312921, 'tv'),
     (r'めざましテレビ', 6563, 'tv'),
+    # めざましテレビ内のコーナー（出典ブログのURLも mezamashi-日付）
+    (r'なにわ男子のどっち派|なんでやねん', 6563, 'tv'),
     (r'アナザースカイ', 112062, 'tv'),
     (r'モニタリング', 107105, 'tv'),
     (r'シューイチ', 123590, 'tv'),

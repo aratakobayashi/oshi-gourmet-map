@@ -117,7 +117,7 @@ def main():
         cards[s['id']] = {
             'n': s['name'], 'u': '/shops/' + slug(s['id']) + '/', 'g': s.get('genre', ''),
             'gr': s.get('group', ''), 'st': st, 'w': walk, 'v': s.get('youtube_id') or '',
-            't': s.get('thumbnail_url') or '', 'r': 1 if reservable else 0,
+            't': s.get('hotpepper_photo') or s.get('thumbnail_url') or '', 'r': 1 if reservable else 0,
             'm': (s.get('members') or [])[:2], 'p': s.get('prefecture', ''),
             'src': (s.get('source_video_title') or '')[:40],
         }
@@ -193,6 +193,7 @@ def main():
     genres = Counter(s.get('genre') for s in shops if s.get('genre'))
     stats = {
         'shops': len(shops), 'groups': len(meta), 'prefs': len(prefs),
+        'hp_photos': sum(1 for s in shops if s.get('hotpepper_photo')),  # 1件以上でフッターにクレジット
         'latest': latest,
         'latest_video': [s['id'] for s in sorted(shops, key=recent_key, reverse=True) if not s.get('closed') and s.get('youtube_id')][:6],
         'stations': [{'name': n, 'count': c} for n, c in stations.most_common(12)],

@@ -8,6 +8,7 @@ slug_id: naniwa-washoku
 shop_count: 5
 group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 related_genres:
   - naniwa-shokuji
   - naniwa-cafe

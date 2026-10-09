@@ -12,6 +12,7 @@ source_video_title: "なにわ男子のどっち派"
 source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13299806/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.7634903
 lng: 139.7893202
 members:

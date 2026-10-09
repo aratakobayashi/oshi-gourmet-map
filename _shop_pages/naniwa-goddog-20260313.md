@@ -14,6 +14,7 @@ source_video_title: "なにわ男子のどっち派 (2026-03-13)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2026-03-13"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131502/13294226/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.5905478
 lng: 139.7318083
 members:

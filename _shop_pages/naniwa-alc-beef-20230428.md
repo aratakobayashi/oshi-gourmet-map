@@ -13,6 +13,7 @@ source_video_title: "なにわ男子のどっち派 (2023-04-28)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2023-04-28"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140501/14088336/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.5302136
 lng: 139.6973611
 members:

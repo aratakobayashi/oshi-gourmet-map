@@ -13,6 +13,7 @@ visited_date: "2026-03-13"
 source_video_title: "なにわ男子のどっち派 (2026-03-13)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2026-03-13"
 group: "naniwa"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6593786
 lng: 139.6987796
 members:

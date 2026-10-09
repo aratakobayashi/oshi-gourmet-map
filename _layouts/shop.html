@@ -59,6 +59,8 @@ body_class: has-sticky
         <img src="https://i.ytimg.com/vi_webp/{{ s.youtube_id }}/hqdefault.webp" alt="" width="480" height="360" fetchpriority="high">
         <span class="play" aria-hidden="true"></span>
       </button>
+      {%- elsif s.hotpepper_photo %}
+      <figure class="shop__hero"><img src="{{ s.hotpepper_photo }}" alt="{{ s.name | escape }}" width="238" height="238" fetchpriority="high"><figcaption class="shop__credit">写真：<a href="https://webservice.recruit.co.jp/" target="_blank" rel="noopener">Powered by ホットペッパー Webサービス</a></figcaption></figure>
       {%- elsif s.thumbnail_url %}
       <figure class="shop__hero"><img src="{{ s.thumbnail_url }}" alt="{{ s.source_video_title | default: s.name | escape }}のシーン" width="500" height="281" fetchpriority="high"></figure>
       {%- else %}

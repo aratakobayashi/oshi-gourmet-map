@@ -13,6 +13,7 @@ visited_date: "2025-11-07"
 source_video_title: "なにわ男子のどっち派 (2025-11-07)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2025-11-07"
 group: "naniwa"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 36.720468
 lng: 139.6872715
 members:
