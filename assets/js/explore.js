@@ -36,8 +36,9 @@
     if (state.q) p.set('q', state.q);
     if (state.sort !== 'new') p.set('sort', state.sort);
     if (state.view === 'map') p.set('view', 'map');
+    if (openShop) p.set('shop', openShop);
     var s = p.toString();
-    history.replaceState(null, '', location.pathname + (s ? '?' + s.replace(/%2C/g, ',') : ''));
+    history.replaceState(history.state, '', location.pathname + (s ? '?' + s.replace(/%2C/g, ',') : ''));
   }
   function hasFilter(s) { return s.groups.length || s.prefs.length || s.stations.length || s.genres.length || s.q; }
 
@@ -112,6 +113,7 @@
     more.hidden = current.length <= shown;
     more.textContent = 'さらに' + Math.min(PAGE, current.length - shown) + '軒を表示（' + shown + ' / ' + current.length + '）';
     if (window.paintFavs) window.paintFavs($('rows'));
+    if (typeof markRow === 'function') markRow();
   }
   function drawChips() {
     var box = $('selchips'), h = [];
@@ -388,10 +390,117 @@
   });
   $('rows').addEventListener('mouseleave', function () { $('rows').dataset.hl = ''; if (hl && map) { map.removeLayer(hl); hl = null; } });
 
+  // ---------- PC: 一覧の店を押すと右側に詳細を開く（店ごとのページ /shops/<slug>/ はそのまま残す） ----------
+  var openShop = new URLSearchParams(location.search).get('shop') || '';
+  var detailCache = {}, lastRow = null;
+  function shopURL(slug) { return BASE + '/shops/' + slug + '/'; }
+  function slugOf(a) { var m = a && (a.getAttribute('href') || '').match(/\/shops\/([^/]+)\/$/); return m ? m[1] : ''; }
+  function fetchDetail(slug) {
+    if (!detailCache[slug]) {
+      detailCache[slug] = fetch(shopURL(slug)).then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); }).then(function (html) {
+        var doc = new DOMParser().parseFromString(html, 'text/html');
+        return { shop: doc.querySelector('.shop'), cta: doc.querySelector('.sticky-actions .btn--accent'), title: doc.title };
+      });
+      detailCache[slug].catch(function () { delete detailCache[slug]; });
+    }
+    return detailCache[slug];
+  }
+  function markRow() {
+    document.querySelectorAll('#rows .row').forEach(function (r) {
+      if (openShop && slugOf(r.querySelector('.row__name')) === openShop) r.setAttribute('aria-current', 'true');
+      else r.removeAttribute('aria-current');
+    });
+  }
+  function setShopURL(push) {
+    var u = new URL(location.href);
+    if (openShop) u.searchParams.set('shop', openShop); else u.searchParams.delete('shop');
+    history[push ? 'pushState' : 'replaceState']({ shop: openShop }, '', u.pathname + u.search.replace(/%2C/g, ','));
+  }
+  function openDetail(slug, push) {
+    var box = $('detail');
+    openShop = slug;
+    box.hidden = false;
+    box.setAttribute('aria-busy', 'true');
+    $('detail-open').href = shopURL(slug);
+    $('detail-body').innerHTML = '<p class="detail__loading">読み込み中…</p>';
+    markRow();
+    setShopURL(push);
+    fetchDetail(slug).then(function (d) {
+      if (openShop !== slug) return;
+      $('detail-body').innerHTML = '';
+      if (d.shop) $('detail-body').appendChild(document.importNode(d.shop, true));
+      // 上のバーに、店舗ページ（スマホ）の下部固定バーと同じメインボタンを出す
+      var slot = $('detail-cta');
+      slot.innerHTML = '';
+      if (d.cta) {
+        var c = document.importNode(d.cta, true);
+        var href = c.getAttribute('href') || '';
+        if (href.charAt(0) === '#') {
+          var btn = document.createElement('button');
+          btn.type = 'button'; btn.className = c.className + ' btn--sm'; btn.textContent = c.textContent;
+          btn.addEventListener('click', function () { var t = box.querySelector(href); if (t) t.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+          slot.appendChild(btn);
+        } else { c.classList.add('btn--sm'); slot.appendChild(c); }
+      }
+      box.removeAttribute('aria-busy');
+      box.scrollTop = 0;
+      if (window.paintFavs) window.paintFavs(box);
+      var h = box.querySelector('h1');
+      if (h) { h.setAttribute('tabindex', '-1'); h.focus({ preventScroll: true }); }
+      // アクセス解析: 詳細を開いたら店舗ページを見たものとして記録する
+      if (window.gtag) window.gtag('event', 'page_view', { page_location: location.origin + shopURL(slug), page_title: d.title });
+    }).catch(function () { location.href = shopURL(slug); });
+  }
+  function hideDetail() {
+    openShop = '';
+    $('detail').hidden = true;
+    $('detail-body').innerHTML = '';
+    markRow();
+    if (lastRow && document.contains(lastRow)) { var a = lastRow.querySelector('.row__name'); if (a) a.focus({ preventScroll: true }); }
+    if (map) setTimeout(function () { map.invalidateSize(); }, 50);
+  }
+  function closeDetail() {
+    if (history.state && history.state.shop) history.back();   // 開いたときの履歴を戻す（ブラウザの「戻る」と同じ）
+    else { hideDetail(); setShopURL(false); }
+  }
+  function onShopClick(e, a, row) {
+    if (!isPC.matches || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var slug = slugOf(a);
+    if (!slug) return;
+    e.preventDefault();
+    lastRow = row || null;
+    if (slug !== openShop) openDetail(slug, true);
+  }
+  $('rows').addEventListener('click', function (e) {
+    if (e.target.closest('[data-fav]')) return;
+    var row = e.target.closest('.row');
+    if (row) onShopClick(e, row.querySelector('.row__name'), row);
+  });
+  $('mapcard').addEventListener('click', function (e) { onShopClick(e, $('mapcard'), null); });
+  // マウスを乗せたら先に読み込んでおく（押したときすぐ開くように）
+  var pre;
+  $('rows').addEventListener('mouseover', function (e) {
+    if (!isPC.matches) return;
+    var row = e.target.closest('.row'), slug = row && slugOf(row.querySelector('.row__name'));
+    clearTimeout(pre);
+    if (slug) pre = setTimeout(function () { fetchDetail(slug).catch(function () {}); }, 120);
+  });
+  $('detail-close').addEventListener('click', closeDetail);
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && openShop && $('sheet').hidden) closeDetail(); });
+  window.addEventListener('popstate', function () {
+    var slug = new URLSearchParams(location.search).get('shop');
+    if (slug && isPC.matches) { if (slug !== openShop) openDetail(slug, false); }
+    else if (openShop) hideDetail();
+  });
+
   isPC.addEventListener && isPC.addEventListener('change', applyView);
 
   // ---------- 初期化 ----------
   readURL();
+  if (openShop) {
+    // 共有された「詳細を開いた状態」のURL。スマホでは店舗ページへ移る
+    if (isPC.matches) openDetail(openShop, false); else location.replace(shopURL(openShop));
+  }
   $('q').value = state.q;
   $('sort').value = state.sort;
   if (location.hash === '#q') $('q').focus();

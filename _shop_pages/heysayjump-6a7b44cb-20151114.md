@@ -12,7 +12,6 @@ visited_date: "2015-11-14"
 source_video_title: "2015.11.14/11.21 大盛りグルメ特集"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001128365/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
 lat: 35.8574303
