@@ -5,7 +5,14 @@
       <p class="ftr__note">アイドル・芸人・YouTuber・ドラマで紹介されたお店を、地図とリストで探せる聖地巡礼ガイド。</p>
     </div>
     <div>
-      <nav class="ftr__links" aria-label="サイト情報">
+      <nav class="ftr__links" aria-label="サイト内のページ">
+        <a href="{{ '/shops/' | relative_url }}">お店を探す</a>
+        <a href="{{ '/groups/' | relative_url }}">推しから探す</a>
+        <a href="{{ '/articles/' | relative_url }}">特集記事</a>
+        <a href="{{ '/guide/' | relative_url }}">推し活ガイド</a>
+        <a href="{{ '/ranking/' | relative_url }}">ランキング</a>
+      </nav>
+      <nav class="ftr__links ftr__links--sub" aria-label="サイト情報">
         <a href="{{ '/about/' | relative_url }}">運営者情報</a>
         <a href="{{ '/contact/' | relative_url }}">お問い合わせ</a>
         <a href="{{ '/privacy/' | relative_url }}">プライバシーポリシー</a>

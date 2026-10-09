@@ -85,6 +85,7 @@ inline_css: top.css
     <div class="feed-grid feed-panel" data-panel="video" hidden>{% for id in st.latest_video limit: 6 %}{% assign i = forloop.index0 %}{% include feed-card.html id=id i=i %}{% endfor %}</div>
     <div class="landing-more">
       <a href="{{ '/shops/' | relative_url }}" class="btn--outline">すべてのスポットを見る →</a>
+      <p class="landing-sub"><a href="{{ '/ranking/' | relative_url }}">人気のお店ランキングを見る →</a></p>
     </div>
   </div>
 </section>
