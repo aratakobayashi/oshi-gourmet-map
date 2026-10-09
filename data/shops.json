@@ -29587,7 +29587,8 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
     "source_type": "",
     "tmdb_id": 198097,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "location_unverified": true
   },
   {
     "id": "snowman-28ee7ba1-20250709",

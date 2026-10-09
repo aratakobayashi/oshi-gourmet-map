@@ -4,6 +4,9 @@ layout: default
 {%- assign cat = site.data.guide_categories | where: "key", page.guide_category | first -%}
 {%- assign venue = site.data.venues[page.slug] -%}
 {%- assign vn = site.data.venue_nearby[page.slug] -%}
+{%- if page.faq %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}</script>
+{%- endif %}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":"推し活ガイド","item":"{{ site.url }}/guide/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
 
 <div class="wrap art">
@@ -17,12 +20,18 @@ layout: default
     <nav class="artg__t" aria-label="目次"><p class="artg__t-title">目次</p><ol data-toc-list></ol></nav>
     <article class="artg__a">
       {%- if page.thumbnail %}{% assign t600 = page.thumbnail | replace: '.webp', '_600.webp' %}
-      <figure class="art__hero"><img src="{{ t600 | relative_url }}" srcset="{{ t600 | relative_url }} 600w, {{ page.thumbnail | relative_url }} 1200w" sizes="(min-width: 1024px) 760px, 100vw" alt="" width="1200" height="675" fetchpriority="high"></figure>
+      <figure class="art__hero"><img src="{{ t600 | relative_url }}" srcset="{{ t600 | relative_url }} 600w, {{ page.thumbnail | relative_url }} 1200w" sizes="(min-width: 1024px) 760px, 100vw" alt="" width="1200" height="675" fetchpriority="high">{% if page.thumbnail_note %}<figcaption class="art__cap">{{ page.thumbnail_note }}</figcaption>{% endif %}</figure>
       {%- endif %}
       <p class="art__badges">{% if cat %}<span class="badge badge--ink">{{ cat.label }}</span>{% endif %}</p>
       <h1 class="art__title">{{ page.title }}</h1>
       <p class="art__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }} 公開</time>{% if page.last_modified_at and page.last_modified_at != page.date %}・{{ page.last_modified_at | date: "%Y.%m.%d" }} 更新{% endif %}</p>
       {%- if page.pr %}<p class="pr-note" style="margin-top:4px">本ページはプロモーションを含みます</p>{% endif %}
+      {%- if page.summary %}
+      <div class="points"><b>この記事の要点</b><ul>{% for item in page.summary %}<li>{{ item }}</li>{% endfor %}</ul></div>
+      {%- endif %}
+      {%- if page.checked_at %}
+      <p class="notice">この記事は{{ page.checked_at | date: "%Y年%-m月%-d日" }}に{% if page.sources %}{% for src in page.sources %}<a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.label }}</a>{% unless forloop.last %}・{% endunless %}{% endfor %}{% else %}公式情報{% endif %}で確認した内容です。ルールや持ち込みの決まりは公演ごとに変わることがあるので、行く前に主催者の案内も確かめてください。</p>
+      {%- endif %}
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
     </article>
@@ -34,6 +43,15 @@ layout: default
         <p class="meta" style="margin:4px 0 8px">推しが訪れたお店のうち、会場から近い順（直線距離）。3km以内に{{ vn.n }}軒あります。</p>
         <div class="minis">{% for n in vn.ids %}{% include mini.html id=n.id m=n.m %}{% endfor %}</div>
         <p class="more-wrap"><a class="link-more" href="{{ '/shops/' | relative_url }}?view=map">地図で周辺のお店を探す →</a></p>
+      </section>
+      {%- endif %}
+
+      {%- if page.faq %}
+      <section class="section faq" id="faq">
+        <h2 class="h2" style="margin-bottom:12px">よくある質問</h2>
+        {%- for item in page.faq %}
+        <details><summary>{{ item.q }}</summary><p>{{ item.a }}</p></details>
+        {%- endfor %}
       </section>
       {%- endif %}
 

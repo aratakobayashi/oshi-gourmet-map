@@ -217,6 +217,9 @@ heysayjump:        '#ef4444'  // レッド
 - カテゴリ: `_data/guide_categories.json`（venue / travel / basics / profile）
 - 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から build_site_data.py が近い順に計算（_data/venue_nearby.json）し、ページ生成時に表示
 - 旧URL→新URLの対応表: `redirects/guidebook_redirects.csv`（旧サイト側で301を設定する）
+- 会場ガイドの新しい型（2026-10 東京ドームから）: 冒頭の要点 → 基本情報 → アクセス → ゲートと座席 → 持ち込み・ルール → お金・荷物・当日 → 泊まる → 周辺の聖地グルメ（自動）→ よくある質問。公式サイトで確かめた事実だけを書き、体験談風の内容（参戦ファッション・撮影スポットなど）は書かない。front matter: `summary`（要点）・`checked_at`（確認日）・`sources`（label/url の出典）・`faq`（FAQPage の構造化データにもなる）・`thumbnail_note`（画像の注記）。新しい会場は `_data/venues.json` に名前と座標を足す
+- 会場ガイドの見出し画像は写真を使わず、SVG で描いた写真風のイラスト（元データ `assets/img/guide/src/*.svg`）を 1200px と 600px の webp にして使う。画像の下に「イラスト」と注記する
+- 「近くの店」（会場ガイド・店舗ページ）には、住所が番地まであり座標がほかの店と重なっていない店だけを出す（区役所あたりの座標になっている店を除くため）。場所が怪しい店は shops.json で `location_unverified: true` を付けると除外される
 
 ## デザイン（2026-10 リニューアル「1a 巡礼帳」）
 - CSS は `assets/css/app.css` の1ファイル（色・文字・余白はファイル先頭の変数）。JS は `assets/js/app.js`（全ページ共通: 保存・動画・地図・共有・目次・店舗の行の組み立て）と `assets/js/explore.js`（/shops/ の絞り込み・地図）だけ。どちらも素のJS
