@@ -91,6 +91,7 @@ exclude:
   - redirects
   - CLAUDE.md
   - scripts/
+  - assets/img/guide/src
 
 # SNS / メタ情報
 github_username: aratakobayashi

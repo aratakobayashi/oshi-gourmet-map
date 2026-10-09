@@ -1,0 +1,23 @@
+<!-- サムネイルの元データ。tokyo-dome.svg を 1200x675 の PNG（tokyo-dome.png）にしてから、このHTMLを1200x675で撮影して webp にする。一覧のカードは4:3に切り抜かれるので、文字は左右150pxより内側に置く -->
+<!doctype html><html><head><meta charset="utf-8"><style>
+body{margin:0}
+#t{position:relative;width:1200px;height:675px;overflow:hidden;font-family:"IPAPGothic","IPAGothic",sans-serif}
+#t img{position:absolute;top:0;width:1200px;height:675px}
+#t .bg{left:-420px;filter:blur(3px)}
+#t .fg{left:260px;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 140px)}
+.shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(18,14,34,.97) 0%,rgba(18,14,34,.9) 42%,rgba(18,14,34,.35) 66%,rgba(18,14,34,0) 82%)}
+.badge{position:absolute;left:166px;top:62px;background:#E2653A;color:#fff;font-size:34px;font-weight:700;padding:10px 26px;border-radius:999px;letter-spacing:.06em}
+.t1{position:absolute;left:160px;top:128px;color:#fff;font-size:146px;font-weight:700;letter-spacing:.02em;-webkit-text-stroke:3px #fff;text-shadow:0 6px 24px rgba(0,0,0,.45)}
+.t2{position:absolute;left:166px;top:312px;color:#FFD27A;font-size:76px;font-weight:700;-webkit-text-stroke:1.5px #FFD27A}
+.chips{position:absolute;left:166px;top:436px;width:700px;display:flex;flex-wrap:wrap;gap:14px}
+.chips span{background:rgba(255,255,255,.95);color:#241F1A;font-size:32px;font-weight:700;padding:8px 20px;border-radius:12px;-webkit-text-stroke:.6px #241F1A}
+.chips span.hot{background:#E2653A;color:#fff;-webkit-text-stroke:.6px #fff}
+.site{position:absolute;right:166px;top:600px;color:rgba(255,255,255,.85);font-size:26px;background:rgba(18,14,34,.55);padding:6px 16px;border-radius:999px}
+</style></head><body><div id="t">
+<img class="bg" src="tokyo-dome.png"><img class="fg" src="tokyo-dome.png"><div class="shade"></div>
+<div class="badge">会場ガイド</div>
+<div class="t1">東京ドーム</div>
+<div class="t2">ライブ参戦ガイド</div>
+<div class="chips"><span>最寄り4駅と出口</span><span>座席のつくり</span><span>持ち込みNG</span><span>完全キャッシュレス</span><span class="hot">周辺の聖地グルメ106軒</span></div>
+<div class="site">推しグルメ巡礼MAP</div>
+</div></body></html>
