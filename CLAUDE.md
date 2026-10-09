@@ -215,11 +215,11 @@ heysayjump:        '#ef4444'  // レッド
 ## 推し活ガイド（/guide/）
 - 旧 推し活ガイドブック（WordPress）の記事41本を `_guides/` コレクションに移行（2026-10）。レイアウトは `_layouts/guide.html`
 - カテゴリ: `_data/guide_categories.json`（venue / travel / basics / profile）
-- 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から build_site_data.py が近い順に計算（_data/venue_nearby.json）し、ページ生成時に表示
+- 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から build_site_data.py が近い順に計算（_data/venue_nearby.json）し、ページ生成時に表示。3km以内が3軒未満の会場は10kmまで広げる（r に半径）
 - 旧URL→新URLの対応表: `redirects/guidebook_redirects.csv`（旧サイト側で301を設定する）
 - 会場ガイドの新しい型（2026-10 東京ドームから）: 冒頭の要点 → 基本情報 → アクセス → ゲートと座席 → 持ち込み・ルール → お金・荷物・当日 → 泊まる → 周辺の聖地グルメ（自動）→ よくある質問。公式サイトで確かめた事実だけを書き、体験談風の内容（参戦ファッション・撮影スポットなど）は書かない。front matter: `summary`（要点）・`checked_at`（確認日）・`sources`（label/url の出典）・`faq`（FAQPage の構造化データにもなる）・`thumbnail_note`（画像の注記）。新しい会場は `_data/venues.json` に名前と座標を足す
 - 会場ガイドの見出し画像（サムネイル）は写真を使わず、SVG で描いた写真風のイラストに、会場名・「ライブ参戦ガイド」・記事の中身（最寄り駅・座席・持ち込み・周辺グルメ○軒など）を大きく載せて、一覧でひと目で見たくなるものにする（元データ `assets/img/guide/src/`、1200px と 600px の webp）。画像の下に「イラスト」と注記する
-- 会場ガイドの本文には図を3枚以上入れる（駅との位置関係・座席のつくり・持ち込めないもの・当日の準備など）。図は SVG で作り（例: `scripts/make_tokyo_dome_figures.py` → `assets/img/guide/<会場>/*.svg`）、`<figure class="fig">` で載せ、alt に図の中身を文章で書く。図の内容も公式情報で確かめた事実だけにし、出典をキャプションに書く
+- 会場ガイドの本文には図を3枚以上入れる（駅との位置関係・座席のつくり・持ち込めないもの・当日の準備など）。図とサムネイルは会場データ `scripts/venue_data/<slug>.json`（駅・座席・持ち込み禁止・当日の準備・サムネイルの札。形は tokyo-dome.json を参照）から `python scripts/venue_guide_images.py <slug>` で作る（`assets/img/guide/<slug>/*.svg` と `<slug>.webp`。Chromium が要る: 環境変数 PW_CHROME と NODE_PATH、scripts/render_png.js）。記事の図の width/height も自動で合わせる。会場を足すときは `_data/venues.json` にも名前と座標を入れて build_site_data.py を先に実行（サムネイルの「周辺の聖地グルメ○軒」に使う）。`<figure class="fig">` で載せ、alt に図の中身を文章で書く。図の内容も公式情報で確かめた事実だけにし、出典をキャプションに書く
 - 「近くの店」（会場ガイド・店舗ページ）には、住所が番地まであり座標がほかの店と重なっていない店だけを出す（区役所あたりの座標になっている店を除くため）。場所が怪しい店は shops.json で `location_unverified: true` を付けると除外される
 
 ## デザイン（2026-10 リニューアル「1a 巡礼帳」）
@@ -267,7 +267,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 
 ## 現在の状況（2026-10-07時点）
 - 総店舗数: 2,328件（42グループ）。店舗ページ 2,360（うち孤立ページ32）・一覧ページ111・グループページ42
-- 推し活ガイド41本（/guide/）・特集記事42本（/articles/）
+- 推し活ガイド50本（/guide/。2026-10-09 に新しい型の会場ガイド10本: 東京ドーム・京セラドーム大阪・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・日本武道館・Kアリーナ横浜・東京ガーデンシアター・ベルーナドーム・幕張メッセ・LaLa arena TOKYO-BAY）・特集記事42本（/articles/）
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
 - 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 465件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を976件補完。「なにわ男子のどっち派」「なにわ男子のなんでやねん」はめざましテレビ内のコーナー。残りはYouTube企画（match_youtube_videos.py の対象）・MV・SNS投稿などTMDBにない出典）。2026-10-09 に match_youtube_videos.py で43件に youtube_id（残りの確認待ち74件は scripts/youtube_match_review.json）、fetch_hotpepper_photos.py で94件に hotpepper_photo を付与し、画像なし店舗は 421件
 - TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載

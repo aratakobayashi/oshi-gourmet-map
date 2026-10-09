@@ -53,6 +53,11 @@ def esc(s):
     return str(s).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
 
+def tw(s):
+    """文字列のおおよその幅（全角1・半角0.58）"""
+    return sum(.58 if ord(c) < 128 else 1 for c in str(s))
+
+
 def svg(w, h, body, title):
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" '
             f'role="img" aria-label="{esc(title)}" font-family="{FONT}">'
@@ -68,33 +73,41 @@ def access(v):
     lat0, lng0 = v['center']
     st = v['stations'][:6]
     W = 600
-    mx, my = 300, 410
-    # 一番遠い駅が地図に収まる縮尺（1m あたりの px）
+    # 会場と駅をまとめて囲む範囲の真ん中を地図の中心にする
+    lats = [lat0] + [s['lat'] for s in st]
+    lngs = [lng0] + [s['lng'] for s in st]
+    clat, clng = (max(lats) + min(lats)) / 2, (max(lngs) + min(lngs)) / 2
     # 駅の印が左右のラベルの間（中央の幅140px）に収まるように縮尺を決める
-    far_x = max([abs((s['lng'] - lng0) * 90600) for s in st] + [60])
-    far_y = max([abs((s['lat'] - lat0) * 111000) for s in st] + [150])
-    far = max(far_x, far_y)
-    k = min(0.6, 72 / far_x, 250 / far_y)
+    span_x = max(60, (max(lngs) - min(lngs)) * 90600 / 2)
+    span_y = max(150, (max(lats) - min(lats)) * 111000 / 2)
+    k = min(0.6, 72 / span_x, 250 / span_y)
+    mx = 300
+    half_h = max(150, span_y * k + 60)
+    top = 118
+    my = top + half_h + 10
+    bottom = int(my + half_h + 10)
 
-    def xy(s):
-        return mx + (s['lng'] - lng0) * 90600 * k, my - (s['lat'] - lat0) * 111000 * k
-    pts = [(s, *xy(s), COLORS[i % len(COLORS)]) for i, s in enumerate(st)]
-    b = text(30, 58, f"{v['name']}と最寄り駅", 30, INK, 700)
+    def xy(lat, lng):
+        return mx + (lng - clng) * 90600 * k, my - (lat - clat) * 111000 * k
+    vx, vy = xy(lat0, lng0)
+    pts = [(s, *xy(s['lat'], s['lng']), COLORS[i % len(COLORS)]) for i, s in enumerate(st)]
+    title = f"{v['name']}と最寄り駅"
+    b = text(30, 58, title, min(30, int(470 / tw(title))), INK, 700)
     b += text(30, 92, '北が上。位置関係のイメージです', 20, INK2)
-    # 方位と縮尺は地図の外（右上）
-    sb = 100 if far < 600 else 500
-    b += f'<path d="M548 30 L560 60 L548 53 L536 60 Z" fill="{INK}"/>' + text(548, 80, 'N', 16, INK, 700, 'middle')
-    b += f'<path d="M{510 - sb * k:.0f} 98 L510 98" stroke="{INK}" stroke-width="3"/>' + text(510 - sb * k / 2, 90, f'{sb}m', 15, INK2, 400, 'middle')
-    top, bottom = 118, 702
+    far = max(span_x, span_y) * 2
+    sb = 100 if far < 1200 else 500
+    b += f'<path d="M560 30 L572 60 L560 53 L548 60 Z" fill="{INK}"/>' + text(560, 80, 'N', 16, INK, 700, 'middle')
+    b += f'<path d="M{530 - sb * k:.0f} 98 L530 98" stroke="{INK}" stroke-width="3"/>' + text(530 - sb * k / 2, 90, f'{sb}m', 15, INK2, 400, 'middle')
     b += f'<rect x="20" y="{top}" width="560" height="{bottom - top}" rx="18" fill="{CARD}" stroke="{LINE}"/>'
     r = max(26, min(64, v.get('size_m', 100) * k))
-    b += f'<ellipse cx="{mx}" cy="{my}" rx="{r:.0f}" ry="{r * .9:.0f}" fill="#EEF2F7" stroke="#9AA8BA" stroke-width="3"/>'
+    b += f'<ellipse cx="{vx:.0f}" cy="{vy:.0f}" rx="{r:.0f}" ry="{r * .9:.0f}" fill="#EEF2F7" stroke="#9AA8BA" stroke-width="3"/>'
     for i in range(1, 3):
-        b += f'<ellipse cx="{mx}" cy="{my}" rx="{r - i * r / 3.2:.0f}" ry="{(r - i * r / 3.2) * .9:.0f}" fill="none" stroke="#C8D2DE" stroke-width="1.5"/>'
+        b += f'<ellipse cx="{vx:.0f}" cy="{vy:.0f}" rx="{r - i * r / 3.2:.0f}" ry="{(r - i * r / 3.2) * .9:.0f}" fill="none" stroke="#C8D2DE" stroke-width="1.5"/>'
     vn = v.get('short', v['name'])
-    vw = 24 + len(vn) * (18 if len(vn) <= 7 else 15)
-    b += f'<rect x="{mx - vw / 2:.0f}" y="{my + r * .9 + 6:.0f}" width="{vw:.0f}" height="32" rx="16" fill="#fff" stroke="#9AA8BA"/>'
-    b += text(mx, my + r * .9 + 28, vn, 18 if len(vn) <= 7 else 15, INK, 700, 'middle')
+    fs = 18 if tw(vn) <= 7 else 15
+    vw = 24 + tw(vn) * fs
+    b += f'<rect x="{vx - vw / 2:.0f}" y="{vy + r * .9 + 6:.0f}" width="{vw:.0f}" height="32" rx="16" fill="#fff" stroke="#9AA8BA"/>'
+    b += text(vx, vy + r * .9 + 28, vn, fs, INK, 700, 'middle')
     # ラベルは左右に振り分けて、重ならないように縦に並べる
     sides = {'L': [], 'R': []}
     for p in pts:
@@ -114,11 +127,11 @@ def access(v):
                 bx[1] -= over
         for (s, x, y, col), by in boxes:
             ex, ey = (lx + 190 if side == 'L' else lx), by + 32
-            b += f'<line x1="{x:.0f}" y1="{y:.0f}" x2="{ex}" y2="{ey}" stroke="{col}" stroke-width="2.5" stroke-dasharray="6 5"/>'
             nm, ex_t = s['name'], s.get('exit', '')
+            b += f'<line x1="{x:.0f}" y1="{y:.0f}" x2="{ex}" y2="{ey}" stroke="{col}" stroke-width="2.5" stroke-dasharray="6 5"/>'
             b += f'<rect x="{lx}" y="{by}" width="190" height="64" rx="12" fill="#fff" stroke="{col}" stroke-width="2.5"/>'
-            b += text(lx + 10, by + 27, nm, 19 if len(nm) <= 8 else (16 if len(nm) <= 10 else 14), col, 700)
-            b += text(lx + 10, by + 52, ex_t, 16 if len(ex_t) <= 10 else 13, INK2)
+            b += text(lx + 10, by + 27, nm, min(19, int(170 / max(1, tw(nm)))), col, 700)
+            b += text(lx + 10, by + 52, ex_t, min(16, int(170 / max(1, tw(ex_t)))), INK2)
         for (s, x, y, col), by in boxes:
             b += f'<circle cx="{x:.0f}" cy="{y:.0f}" r="11" fill="{col}" stroke="#fff" stroke-width="4"/>'
     note = v.get('access_note') or []
@@ -126,7 +139,7 @@ def access(v):
     if note:
         b += f'<rect x="20" y="{bottom + 12}" width="560" height="{14 + 28 * len(note)}" rx="12" fill="{ACC_L}"/>'
         for i, ln in enumerate(note):
-            b += text(36, bottom + 38 + i * 28, ln, 19, ACC, 700)
+            b += text(36, bottom + 38 + i * 28, ln, min(19, int(520 / max(1, tw(ln)))), ACC, 700)
         H = bottom + 40 + 28 * len(note)
     return W, H, svg(W, H, b, f"{v['name']}と最寄り駅の位置関係")
 
@@ -418,7 +431,7 @@ def build(slug, tmp):
     os.makedirs(out, exist_ok=True)
     sizes = {}
     for name, fn in [('access', access), ('seats', seats), ('rules', rules), ('prepare', prepare)]:
-        if name == 'seats' and not v.get('seats'):
+        if name in ('seats', 'rules') and not v.get(name):
             continue
         w, h, s = fn(v)
         open(os.path.join(out, name + '.svg'), 'w', encoding='utf-8').write(s)
