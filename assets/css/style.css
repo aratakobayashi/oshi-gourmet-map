@@ -496,7 +496,7 @@ img { max-width: 100%; display: block; }
   color: var(--color-primary); cursor: pointer; font-size: 0.88rem; font-weight: 600;
   transition: var(--transition); white-space: nowrap;
 }
-.tab-btn.active { background: var(--color-primary); color: #fff; }
+.tab-btn.active { background: #b83b56; color: #fff; }
 .tab-btn:hover:not(.active) { background: color-mix(in srgb, var(--color-primary) 10%, transparent); }
 
 /* ===========================
@@ -4889,3 +4889,6 @@ body {
 .guide-banner__text { flex: 1; display: flex; flex-direction: column; line-height: 1.5; }
 .guide-banner__text span { font-size: 0.82rem; color: var(--color-text-muted); }
 .guide-banner__arrow { color: var(--color-primary); font-weight: 700; }
+
+/* グループ名ラベル：グループ色を暗くして文字を読みやすく（コントラスト 4.5:1 以上） */
+.shop-card__group-label { color: color-mix(in srgb, var(--gc, #b83b56) 60%, #000); }

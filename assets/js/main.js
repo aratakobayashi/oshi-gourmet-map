@@ -551,6 +551,10 @@ function renderGrid(shops) {
   }
 
   grid.innerHTML = currentSortedShops.slice(0, displayCount).map(s => buildShopCard(s)).join('');
+  // 画面上部のカード画像は後回しにしない（表示速度：LCP）
+  grid.querySelectorAll('img[loading="lazy"]').forEach((img, i) => {
+    if (i < 4) { img.loading = 'eager'; if (i === 0) img.fetchPriority = 'high'; }
+  });
   restoreFavButtons();
   renderMoreButton();
 }
@@ -586,7 +590,7 @@ function renderMoreButton() {
 
 function buildShopCard(shop) {
   const thumb = shop.youtube_id
-    ? `https://img.youtube.com/vi/${shop.youtube_id}/hqdefault.jpg`
+    ? `https://i.ytimg.com/vi_webp/${shop.youtube_id}/hqdefault.webp`
     : shop.thumbnail_url || null;
 
   const group      = (shop.groups || [])[0] || shop.group || '';
@@ -611,7 +615,7 @@ function buildShopCard(shop) {
 
   const metaRow = group || shop.genre
     ? `<div class="shop-card__meta-row">
-        ${group ? `<span class="shop-card__group-label" style="color:${solidColor}">${escHtml(groupLabel)}</span>` : ''}
+        ${group ? `<span class="shop-card__group-label" style="--gc:${solidColor}">${escHtml(groupLabel)}</span>` : ''}
         ${group && shop.genre ? `<span class="shop-card__sep">·</span>` : ''}
         ${shop.genre ? `<span class="shop-card__genre">${escHtml(genreLabel(shop.genre))}</span>` : ''}
       </div>` : '';
