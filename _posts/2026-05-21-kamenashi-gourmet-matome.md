@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "亀梨和也が行ったお店まとめ｜銀河チャンネル全32店・焼肉からラーメンまで完全ガイド"
+title: "亀梨和也が行ったお店まとめ｜銀河チャンネル全31店・焼肉からラーメンまで完全ガイド"
 date: 2026-05-21
 last_modified_at: 2026-05-21
-description: "亀梨和也の「銀河チャンネル」ロケで実際に訪れた全32店を完全まとめ。銀座の高級焼肉からローカルラーメン・もんじゃ焼きまで、住所・YouTube動画リンクつきで聖地巡礼に役立てください。"
+description: "亀梨和也の「銀河チャンネル」ロケで実際に訪れた全31店を完全まとめ。銀座の高級焼肉からローカルラーメン・もんじゃ焼きまで、住所・YouTube動画リンクつきで聖地巡礼に役立てください。"
 group: kamenashi
 article_type: matome
 prefecture: 東京都
 tags: [亀梨和也, KAT-TUN, 銀河チャンネル, 聖地巡礼, グルメ, まとめ, 焼肉, ラーメン, もんじゃ, 東京]
 thumbnail_video_id: 2F4xUoo5GSM
 summary:
-  - "亀梨和也 銀河チャンネルの全32店を一覧で確認できる"
+  - "亀梨和也 銀河チャンネルの全31店を一覧で確認できる"
   - "焼肉・ラーメン・もんじゃなどジャンル別に整理"
   - "東京都内から全国各地への遠征グルメも掲載"
   - "住所・YouTube動画リンクつきで聖地巡礼計画が立てやすい"
@@ -39,7 +39,6 @@ shop_ids:
   - kamenashi-27f41658-202412
   - kamenashi-95af1b87-202501
   - kamenashi-off_kinosaki-20241218
-  - kamenashi-ales_shop-20241120
   - kamenashi-beschle-20241116
   - kamenashi-le_rhin_bleu-20241116
   - kamenashi-1f6dffde-202402
@@ -58,7 +57,7 @@ faq:
     a: "岩手「盛楼閣」（冷麺）、鳥取「牛骨ごっつおらーめん」、宮崎「辛麺屋桝元 赤江店」「鳥焼 萬歳亭」「手打釜揚げうどん 岩見」、福岡「屋台 ひでちゃんラーメン」など、全国各地の名物店が登場しています。"
 ---
 
-KAT-TUNの**亀梨和也**が全国各地のロケ地グルメを巡る「銀河チャンネル」。銀座の高級焼肉から地方の屋台ラーメンまで、亀梨らしい食への真剣なこだわりが感じられる32店を完全ガイド。
+KAT-TUNの**亀梨和也**が全国各地のロケ地グルメを巡る「銀河チャンネル」。銀座の高級焼肉から地方の屋台ラーメンまで、亀梨らしい食への真剣なこだわりが感じられる31店を完全ガイド。
 
 ## 焼肉・BBQ【7店】
 
@@ -84,11 +83,11 @@ KAT-TUNの**亀梨和也**が全国各地のロケ地グルメを巡る「銀河
 
 {% include inline-shop-grid.html ids="kamenashi-c3b4e8da-202408,kamenashi-27f41658-202412,kamenashi-34069a08-202405,kamenashi-3a7e3c9a-202402" %}
 
-## 洋食・カフェ・その他【7店】
+## 洋食・カフェ・その他【6店】
 
 <mark>ALES SHOP</mark>（2024年11月）はベルギービールの専門店。<mark>Beschle</mark>と<mark>Le Rhin Bleu</mark>は海外の名店。岡山の<mark>日生家</mark>・兵庫の<mark>OFF KINOSAKI</mark>と地方の個性的な食事処も外さない。京都の<mark>夷川餃子なかじま</mark>は餃子専門の名店として名高い。<mark>リステア</mark>（2025年3月）は東京のおしゃれなカフェだ。
 
-{% include inline-shop-grid.html ids="kamenashi-95af1b87-202501,kamenashi-off_kinosaki-20241218,kamenashi-ales_shop-20241120,kamenashi-beschle-20241116,kamenashi-le_rhin_bleu-20241116,kamenashi-1f6dffde-202402,kamenashi-808fe940-202503" %}
+{% include inline-shop-grid.html ids="kamenashi-95af1b87-202501,kamenashi-off_kinosaki-20241218,kamenashi-beschle-20241116,kamenashi-le_rhin_bleu-20241116,kamenashi-1f6dffde-202402,kamenashi-808fe940-202503" %}
 
 ## スイーツ【1店】
 

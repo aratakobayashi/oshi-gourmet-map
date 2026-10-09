@@ -1,16 +1,104 @@
 ---
 layout: post
 title: "アイドル・芸能人が行ったラーメン・麺類まとめ【85選】孤独のグルメ・乃木坂46・亀梨和也の聖地巡礼"
-description: "孤独のグルメ24件・乃木坂46の14件・亀梨和也11件など芸能人ロケ地のラーメン・うどん・そば85店を完全網羅。博多屋台・激辛二郎系・ラーメン博物館など聖地ルートを解説。"
+description: "孤独のグルメ24件・乃木坂46の14件・亀梨和也11件など芸能人ロケ地のラーメン・うどん・そば85店を紹介。博多屋台・激辛二郎系・ラーメン博物館など聖地ルートを解説。"
 date: 2026-05-27
 last_modified_at: 2026-05-27
 categories: [グルメ, ラーメン]
 tags: [孤独のグルメ, 乃木坂46, 亀梨和也, "=LOVE", よにのちゃんねる, ねあじょい, SixTONES, Snow Man, なにわ男子]
 article_type: genre
 genre: ラーメン
-shop_count: 85
-thumbnail_video_id:
-summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也（11件）を軸に85店を完全網羅。博多屋台・激辛二郎系・ラーメン博物館の聖地巡礼ルートを解説。"
+thumbnail_video_id: nBtgifut7vE
+summary:
+  - "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也（11件）を軸に、ラーメン・うどん・そば85店を紹介"
+  - "博多屋台・激辛二郎系・ラーメン博物館など聖地巡礼ルートを解説"
+  - "各店の詳細ページへのリンクつき"
+shop_ids:
+  - kodoku_no_gurume-4584ecd5-
+  - kodoku_no_gurume-5e28c0e3-
+  - kodoku_no_gurume-e8b0cb92-
+  - kodoku_no_gurume-18bcf79f-
+  - kodoku_no_gurume-4b835120-
+  - kodoku_no_gurume-d80cbad7-
+  - kodoku_no_gurume-991c519b-
+  - kodoku_no_gurume-f06c8c10-
+  - kodoku_no_gurume-e8e1b07c-
+  - kodoku_no_gurume-c04481e8-
+  - kodoku_no_gurume-04750cfb-
+  - kodoku_no_gurume-c8d36684-
+  - kodoku_no_gurume-f5a8fc06-
+  - kodoku_no_gurume-aa6d4a25-
+  - kodoku_no_gurume-sokabokka-
+  - kodoku_no_gurume-265d5f69-
+  - kodoku_no_gurume-f729085e-
+  - kodoku_no_gurume-9f166978-
+  - kodoku_no_gurume-13bbbbfb-
+  - kodoku_no_gurume-16043b2f-
+  - kodoku_no_gurume-f17863ed-
+  - kodoku_no_gurume-d9f20c2f-
+  - kodoku_no_gurume-c84527df-
+  - kodoku_no_gurume-287cf4f8-
+  - nogizaka46-84c802d9-
+  - nogizaka46-28d50565-
+  - nogizaka46-13a2278b-
+  - nogizaka46-9be54ae5-
+  - nogizaka46-e5fdf419-
+  - nogizaka46-9f892298-
+  - nogizaka46-7b18f3dd-
+  - nogizaka46-ab929a12-
+  - nogizaka46-ffa301c4-
+  - nogizaka46-shinshin-
+  - nogizaka46-6d41a5ca-
+  - nogizaka46-241b6933-
+  - nogizaka46-23d7a99a-
+  - nogizaka46-f36ca7b7-
+  - kamenashi-6606003d-202407
+  - kamenashi-e27eb84b-202404
+  - kamenashi-7cbda6f7-202404
+  - kamenashi-0a3faf7a-202410
+  - kamenashi-95d73497-202504
+  - kamenashi-223-202404
+  - kamenashi-223-202401
+  - kamenashi-b2d66125-202507
+  - kamenashi-814e2aa9-202408
+  - kamenashi-e61d8104-202502
+  - kamenashi-hohokam_diner-20240413
+  - equal_love-7aed8c96-202501
+  - equal_love-cd18dd9d-202408
+  - equal_love-1296f01f-202603
+  - equal_love-62bce5f5-202410
+  - equal_love-26520a35-202508
+  - equal_love-7cbba11a-202408
+  - equal_love-c2edb8b6-202408
+  - equal_love-85f871ac-202512
+  - equal_love-287b97eb-202506
+  - yonino-spice-ramen-tenten
+  - yonino-kaotan-ramen
+  - yonino-mukann-yokohama
+  - yonino-hakata-genki-ippai
+  - yonino-ichiran-nakano
+  - yonino-rishiri-ramen
+  - neajoy-9c15ea70-202510
+  - neajoy-ec121482-202408
+  - neajoy-403503b7-202408
+  - neajoy-085d4b4a-202506
+  - neajoy-6ad11682-202604
+  - sixtones-ramen-hakubutsukan
+  - sixtones-7c39702f-
+  - sixtones-a3a0ff52-202003
+  - sixtones-sano-sa-foodcourt
+  - snowman-abura-gakkai-waseda
+  - snowman-ekawatei-koganei
+  - snowman-2b4ef35a-20260129
+  - naniwa-b723a30f-202107
+  - naniwa-795165bd-20220520
+  - naniwa-56665469-20211217
+  - naniwa-269b1b4d-20220708
+  - heysayjump-96cbb03d-20161026
+  - heysayjump-ca6f693e-20161026
+  - heysayjump-d26f3f7f-20161026
+  - hinatazaka46-8054cbca-202004
+  - shiori-aa5f64ad-20240605
 ---
 
 **博多の屋台ラーメンに行くなら亀梨和也のロケ地から、激辛・二郎系を攻めるなら=LOVEの上板橋聖地から、全国のラーメンを一度に体験するなら新横浜ラーメン博物館（よにの・乃木坂・SixTONES）から**——ラーメン選びにはグループの個性が如実に出る。うどん・そば・焼きそばまで含む麺類85店をまとめた。
@@ -85,7 +173,7 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **なにわ男子**は「麺の多様性」が際立つ：「**そうめん そそそ 研究室**」（そうめん専門店というユニーク路線）・「**鳥藤 とりそばスタンド**」（鶏だし系）・「**むぎとオリーブ**」（オリーブオイル×麺のモダンスタイル）・「**回転わんこそば・くるくるわんこ**」（岩手わんこそばの体験型）と、4店すべてが個性的。
 
-{% include inline-shop-grid.html ids="sixtones-ramen-hakubutsukan,sixtones-minmin-hachioji,sixtones-a3a0ff52-202003,sixtones-sano-sa-foodcourt" %}
+{% include inline-shop-grid.html ids="sixtones-ramen-hakubutsukan,sixtones-7c39702f-,sixtones-a3a0ff52-202003,sixtones-sano-sa-foodcourt" %}
 
 {% include inline-shop-grid.html ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-2b4ef35a-20260129" %}
 
@@ -127,12 +215,12 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 ## 推し活グルメ別ガイド
 
-> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【87選】](/articles/2026/05/26/idol-cafe-matome/)
+> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【73選】](/articles/2026/05/26/idol-cafe-matome/)
 >
 > **「推しと同じ甘いものが食べたい」** → [アイドル・芸能人が行ったスイーツ聖地巡礼まとめ【56選】](/articles/2026/05/27/idol-sweets-matome/)
 >
-> **「推しが行った居酒屋で飲みたい」** → [アイドル・芸能人が行った居酒屋聖地巡礼まとめ【84選】](/articles/2026/05/27/idol-izakaya-matome/)
+> **「推しが行った居酒屋で飲みたい」** → [アイドル・芸能人が行った居酒屋・飲み屋まとめ【84選】](/articles/2026/05/27/idol-izakaya-matome/)
 >
-> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【109選】](/articles/2026/05/27/idol-washoku-matome/)
+> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【96選】](/articles/2026/05/27/idol-washoku-matome/)
 >
 > **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)

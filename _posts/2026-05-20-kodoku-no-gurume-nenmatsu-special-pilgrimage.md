@@ -5,6 +5,14 @@ description: "孤独のグルメ 年末スペシャル（2014〜2025年）に登
 date: 2026-05-20
 thumbnail: https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg
 groups: ["kodoku_no_gurume"]
+last_modified_at: 2026-05-20
+article_type: season
+group: kodoku_no_gurume
+summary:
+  - "2014〜2025年の大晦日スペシャルに登場した50店を、放送年ごとに確認できる"
+  - "福岡・北海道・京都など国内のほか、釜山・台北の海外ロケも収録"
+  - "1回の放送で複数の店を巡るので、旅行の行き先選びにも使える"
+  - "各店の詳細ページへのリンクつき。五郎が注文した料理も掲載"
 shop_ids:
   - kodoku_no_gurume-e8e1b07c-
   - kodoku_no_gurume-afe6bc75-

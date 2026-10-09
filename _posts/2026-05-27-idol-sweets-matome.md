@@ -4,15 +4,13 @@ title: "アイドル・芸能人が行ったスイーツ聖地巡礼まとめ【
 date: 2026-05-27
 last_modified_at: 2026-05-27
 description: "乃木坂46・Hey!Say!JUMP・=LOVE・not me・タイムレス・King & Princeなどが実際に訪れたスイーツ・和菓子・かき氷・プリン店を56件まとめました。浅草・川越・鎌倉・熱海・原宿の名店から全国のご当地スイーツまで、推し活・聖地巡礼・旅行プランに使えるガイドです。"
-group: nogizaka46
 genre: スイーツ
-shop_count: 56
 article_type: genre
 prefecture: 東京都
 tags: [スイーツ, 聖地巡礼, グルメ, 乃木坂46, "Hey!Say!JUMP", "=LOVE", not me, タイムレス, "King & Prince", 推し活, かき氷, 和菓子, 熱海]
 thumbnail_video_id: Lw2KlLWox6g
 summary:
-  - "乃木坂46のスイーツ12件・Hey!Say!JUMPの川越お菓子7件など全56店収録"
+  - "乃木坂46のスイーツ12件・Hey!Say!JUMPの川越お菓子7件など56店収録"
   - "よにの＆SixTONES両方が行った「阿左美冷蔵」など複数グループ共通の聖地も"
   - "熱海プリン3店（not me）・川越7店（HSJ）・鎌倉3店（=LOVE）とエリア特集が充実"
   - "フレデリックカッセル・すずめやなど人気店も厳選"
@@ -32,6 +30,47 @@ shop_ids:
   - yonino-asami-reizo-nagatoro
   - timelesz-1f9a394d-
   - timelesz-c10561a2-
+  - nogizaka46-7e8466b6-
+  - nogizaka46-juseian
+  - nogizaka46-1641c66f-
+  - nogizaka46-9c79a146-
+  - nogizaka46-13f22aec-
+  - nogizaka46-c062c929-
+  - nogizaka46-522fa8ed-
+  - nogizaka46-74933442-
+  - nogizaka46-18581f09-
+  - heysayjump-14cb2470-20181110
+  - heysayjump-300a1c2c-20181110
+  - heysayjump-6760425c-20181124
+  - heysayjump-986f7fa5-20181124
+  - heysayjump-dcaf8134-20170201
+  - equal_love-1de9b314-202408
+  - equal_love-long_longer_longest_-20240804
+  - equal_love-acc7e129-202408
+  - equal_love-93b29440-202408
+  - equal_love-5778582a-202509
+  - equal_love-b0d04596-202408
+  - equal_love-0d7bdac2-202408
+  - notme-41f4ca0a-202408
+  - notme-4e507645-202411
+  - notme-304ed516-202411
+  - notme-30129d4e-202411
+  - notme-9f107f1a-202408
+  - notme-db5ba582-202408
+  - timelesz-56bdf348-
+  - timelesz-59cd8eb8-
+  - yonino-ginza-fukukuju
+  - yonino-chocolat_trouver-20260204
+  - sixtones-0f6b2048-202411
+  - sixtones-eggs_n_things-201904
+  - snowman-welovedonut-20260513
+  - snowman-d4d93a94-201810
+  - neajoy-08395d58-202408
+  - neajoy-5d7a9b9d-202408
+  - sakurazaka46-ribisco-ginza
+  - kamenashi-9398d442-202508
+  - hinatazaka46-e928610f-202004
+  - kodoku_no_gurume-69029c00-
 faq:
   - q: "乃木坂46が行ったスイーツの名店を教えてください。"
     a: "豊島区の「すずめや」が代表格です。どら焼きの名店として地元でも人気が高く、乃木坂メンバーが訪れたことで全国区の知名度になりました。King & Princeの「フレデリックカッセル 銀座三越店」はパリ発の高級パティスリーで、手土産スイーツとしても人気です。"
@@ -59,7 +98,7 @@ faq:
 
 ---
 
-乃木坂グルメまとめ → [乃木坂46が行ったお店・グルメ完全まとめ](/articles/2026/05/21/nogizaka46-gourmet-matome/)
+乃木坂グルメまとめ → [乃木坂46が行ったお店・グルメまとめ](/articles/2026/05/21/nogizaka46-gourmet-matome/)
 
 ## Hey!Say!JUMP：川越お菓子横丁7選
 
@@ -71,7 +110,7 @@ Hey!Say!JUMPのスイーツは**全7店が川越に集中**する驚きの一点
 
 ---
 
-Hey!Say!JUMPグルメまとめ → [Hey!Say!JUMPが行ったお店・グルメ完全まとめ](/articles/2026/05/21/heysayjump-gourmet-matome/)
+Hey!Say!JUMPグルメまとめ → [Hey!Say!JUMPが行ったお店・グルメまとめ](/articles/2026/05/21/heysayjump-gourmet-matome/)
 
 ## =LOVE：鎌倉・原宿・京都・広島スイーツ9選
 
@@ -85,7 +124,7 @@ Hey!Say!JUMPグルメまとめ → [Hey!Say!JUMPが行ったお店・グルメ�
 
 ---
 
-=LOVEグルメまとめ → [=LOVE・ねあじょいが行ったお店・グルメ完全まとめ](/articles/2026/05/21/neajoy-gourmet-matome/)
+=LOVEグルメまとめ → [=LOVE（イコラブ）が行ったお店・グルメまとめ](/articles/2026/05/13/equallove-gourmet-matome/)
 
 ## not me：熱海プリン聖地3店＋全国スイーツ5選
 
@@ -99,7 +138,7 @@ not meのスイーツは**熱海スイーツ特集**が圧倒的。「熱海プ�
 
 ---
 
-not meグルメまとめ → [not meが行ったお店・グルメ完全まとめ](/articles/2026/05/14/notme-gourmet-matome/)
+not meグルメまとめ → [not meが行ったお店・グルメまとめ](/articles/2026/05/14/notme-gourmet-matome/)
 
 ## 2グループ共通：阿左美冷蔵のかき氷・揚げもみじ
 
@@ -119,9 +158,9 @@ King & Princeは銀座の「フレデリックカッセル 銀座三越店」（
 
 ---
 
-King & Princeグルメまとめ → [King & Princeが行ったお店・グルメ完全まとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
+King & Princeグルメまとめ → [King & Princeが行ったお店・グルメまとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
 
-タイムレスグルメまとめ → [タイムレスが行ったお店・グルメ完全まとめ](/articles/2026/05/21/timelesz-gourmet-matome/)
+タイムレスグルメまとめ → [タイムレスが行ったお店・グルメまとめ](/articles/2026/05/21/timelesz-gourmet-matome/)
 
 ## その他：よにの・SixTONES・Snow Man・ねあじょい・その他グループ
 
@@ -149,8 +188,8 @@ King & Princeグルメまとめ → [King & Princeが行ったお店・グルメ
 
 ## 推し活グルメ別ガイド
 
-> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【109選】](/articles/2026/05/27/idol-washoku-matome/)
+> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【96選】](/articles/2026/05/27/idol-washoku-matome/)
 >
-> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【87選】](/articles/2026/05/26/idol-cafe-matome/)
+> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【73選】](/articles/2026/05/26/idol-cafe-matome/)
 >
 > **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)

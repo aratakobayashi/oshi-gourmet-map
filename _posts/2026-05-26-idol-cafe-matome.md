@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "アイドル・芸能人が行ったカフェ聖地巡礼まとめ【東京〜全国87選】"
+title: "アイドル・芸能人が行ったカフェ聖地巡礼まとめ【東京〜全国73選】"
 date: 2026-05-26
 last_modified_at: 2026-05-27
-description: "よにのちゃんねる・乃木坂46・=LOVE・SixTONES・King & Prince・Snow Manなどアイドル・芸能人が実際に訪れたカフェを87件まとめました。スペシャルティコーヒーの名店から動物カフェ・体験型まで、推し活・聖地巡礼・デートプランに使えるカフェガイドです。"
-group: yonino
+description: "よにのちゃんねる・乃木坂46・=LOVE・SixTONES・King & Prince・Snow Manなどアイドル・芸能人が実際に訪れたカフェを73件まとめました。スペシャルティコーヒーの名店から動物カフェ・体験型まで、推し活・聖地巡礼・デートプランに使えるカフェガイドです。"
 genre: カフェ
-shop_count: 87
 article_type: genre
 prefecture: 東京都
 tags: [カフェ, 聖地巡礼, グルメ, よにのちゃんねる, 乃木坂46, "=LOVE", SixTONES, "King & Prince", Snow Man, なにわ男子, 推し活, デート]
 thumbnail_video_id: 1VN2TGo5uOM
 summary:
-  - "よにのちゃんねるが通うスペシャルティコーヒー22店を一挙掲載"
-  - "乃木坂46のロケ地カフェ21店・鎌倉〜名古屋〜東京を網羅"
-  - "推し活デートにも使いやすい東京・鎌倉・全国のカフェを87件収録"
+  - "よにのちゃんねるが通うスペシャルティコーヒー18店を一挙掲載"
+  - "乃木坂46のロケ地カフェ18店・鎌倉〜名古屋〜東京を網羅"
+  - "推し活デートにも使いやすい東京・鎌倉・全国のカフェを73件収録"
   - "複数グループが通った名店・体験型カフェ・個性派まで幅広く紹介"
 shop_ids:
   - yonino-starbucks-reserve-roastery
@@ -37,6 +35,59 @@ shop_ids:
   - neajoy-b1d5f8cd-202408
   - notme-mocha-202408
   - sakurazaka46-kissa-paon
+  - yonino-verve-coffee-ebisu
+  - yonino-passage-coffee
+  - yonino-blue-bottle-shinjuku
+  - yonino-maruyama-coffee-karuizawa
+  - yonino-iki-espresso
+  - yonino-latte-art-mania
+  - yonino-donish-coffee-kagurazaka
+  - yonino-blue-six-coffee
+  - yonino-cozy-style-coffee
+  - yonino-double-tall-coffee-shinjuku
+  - yonino-le-pain-quotidien
+  - yonino-streamer_coffee_comp-20260201
+  - yonino-0685dfb8-202506
+  - yonino-beasty_coffee__cafe_-20251207
+  - nogizaka46-cafe_recette-
+  - nogizaka46-freddy_leck_sein_was-
+  - nogizaka46-shibuya_tsutaya-
+  - nogizaka46-f23c267b-
+  - nogizaka46-e767374d-
+  - nogizaka46-85374eb4-
+  - nogizaka46-bfe83dcc-
+  - nogizaka46-4eba1f02-
+  - nogizaka46-flamingo-
+  - nogizaka46-ccecce7f-
+  - nogizaka46-9d97e3e3-
+  - nogizaka46-dcca8bec-
+  - nogizaka46-3d56208f-
+  - nogizaka46-milk-
+  - equallove_002
+  - equal_love-e732d9bf-202506
+  - equal_love-coa_ginza-20251006
+  - equallove_006
+  - equallove_008
+  - equal_love-mateki-202408
+  - equal_love-gebura-20250915
+  - equal_love-6e007468-202408
+  - sixtones-lacocorico-akarenga
+  - sixtones-horaibashi-chaya
+  - kingprince-racines_donut_ice_cr-20221015
+  - naniwa-muun_seoul-20201023
+  - naniwa-pst-20210820
+  - naniwa-le_bresso-202110
+  - snowman-d1966575-20251119
+  - snowman-jelly_jelly_cafe-20250320
+  - neajoy-samoyed_cafe_al-202509
+  - notme-sanrio_cafe-202408
+  - notme-cafe-202411
+  - notme-b9e687dc-202411
+  - ginga-okudo-202407
+  - ginga-maru-202407
+  - kamaitachi-b9386654-
+  - heysayjump-747256d6-20170201
+  - kodoku_no_gurume-aa39fbb9-
 faq:
   - q: "よにのちゃんねるが行ったカフェで特に人気の店はどこですか？"
     a: "STARBUCKS RESERVE ROASTERY TOKYO（目黒区）とBeasty Coffee（渋谷区）が特に人気です。スタバリザーブは世界に数店舗しかないプレミアム業態で、コーヒー好きのよにのメンバーお気に入りの一軒。Beasty Coffeeは渋谷の路地にあるコーヒーラボで、こだわりの抽出が楽しめます。"
@@ -50,9 +101,9 @@ faq:
     a: "渋谷〜表参道エリアが最もおすすめです。よにののBeasty Coffee・TAOCA COFFEE（青山）、King & Princeのブレッツカフェ・マンマーノ、Snow Manのブレッツカフェ表参道店など、半日で複数グループのカフェを巡れます。"
 ---
 
-**よにのちゃんねる・乃木坂46・=LOVE・SixTONES・King & Prince・Snow Man・なにわ男子**——人気グループのメンバーたちが実際に足を運んだカフェを全87件まとめた。スペシャルティコーヒーの名店から昭和レトロ喫茶、鎌倉の海カフェ、動物カフェまで、**グループごとの個性が色濃く出る**ラインナップだ。推し活の聖地巡礼はもちろん、**デートや女子旅のプランニング**にも活用してほしい。
+**よにのちゃんねる・乃木坂46・=LOVE・SixTONES・King & Prince・Snow Man・なにわ男子**——人気グループのメンバーたちが実際に足を運んだカフェを73件まとめた。スペシャルティコーヒーの名店から昭和レトロ喫茶、鎌倉の海カフェ、動物カフェまで、**グループごとの個性が色濃く出る**ラインナップだ。推し活の聖地巡礼はもちろん、**デートや女子旅のプランニング**にも活用してほしい。
 
-## よにのちゃんねる：スペシャルティコーヒー22選
+## よにのちゃんねる：スペシャルティコーヒー18選
 
 よにのちゃんねるの4人はコーヒー好きで知られており、登場するカフェもスペシャルティコーヒー専門店が中心。**世界に数店舗しかないSTARBUCKS RESERVE ROASTERY TOKYO**（目黒区）をはじめ、Beasty Coffee・TAOCA COFFEE・Paul Bassett・VERVE COFFEE ROASTERSなど**東京トップクラスのコーヒースポット**が勢揃いする。
 
@@ -68,9 +119,9 @@ faq:
 
 ---
 
-よにのグルメまとめ → [よにのちゃんねるが行ったお店・グルメ完全まとめ](/articles/2026/04/01/yonino-gourmet-matome-2025-2026/)
+よにのグルメまとめ → [よにのちゃんねるが行ったお店・グルメまとめ](/articles/2026/04/01/yonino-gourmet-matome-2025-2026/)
 
-## 乃木坂46：全国ロケ地カフェ21選
+## 乃木坂46：全国ロケ地カフェ18選
 
 乃木坂46は番組ロケで全国各地のカフェに登場しており、東京だけでなく**鎌倉・名古屋・沼津・函館・大阪**まで幅広い。なかでも鎌倉の**「umi cafe」**は海を見渡す絶景で放送後に予約が急増した人気店。同じく鎌倉の**「イワタコーヒー店」**は1948年創業の老舗で、厚焼きパンケーキが名物だ。
 
@@ -86,7 +137,7 @@ faq:
 
 ---
 
-乃木坂グルメまとめ → [乃木坂46が行ったお店・グルメ完全まとめ](/articles/2026/05/21/nogizaka46-gourmet-matome/)
+乃木坂グルメまとめ → [乃木坂46が行ったお店・グルメまとめ](/articles/2026/05/21/nogizaka46-gourmet-matome/)
 
 ## =LOVE：韓国カルチャー×個性派カフェ10選
 
@@ -98,7 +149,7 @@ faq:
 
 ---
 
-=LOVEグルメまとめ → [=LOVE・ねあじょいが行ったお店・グルメ完全まとめ](/articles/2026/05/21/neajoy-gourmet-matome/)
+=LOVEグルメまとめ → [=LOVE（イコラブ）が行ったお店・グルメまとめ](/articles/2026/05/13/equallove-gourmet-matome/)
 
 ## 2グループが通った名店：ブレッツカフェ クレープリー
 
@@ -114,9 +165,9 @@ SixTONESは**「Café 1894」**（千代田区・三菱一号館美術館内）�
 
 ---
 
-King & Princeグルメまとめ → [King & Princeが行ったお店・グルメ完全まとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
+King & Princeグルメまとめ → [King & Princeが行ったお店・グルメまとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
 
-SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全まとめ](/articles/2026/05/12/sixtones-gourmet-matome/)
+SixTONESグルメまとめ → [SixTONESが行ったお店・グルメまとめ](/articles/2026/05/12/sixtones-gourmet-matome/)
 
 ## なにわ男子・Snow Man：渋谷〜江東区のカフェ
 
@@ -128,9 +179,9 @@ SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全ま�
 
 ---
 
-なにわ男子グルメまとめ → [なにわ男子が行ったお店・グルメ完全まとめ](/articles/2026/05/21/naniwa-gourmet-matome/)
+なにわ男子グルメまとめ → [なにわ男子が行ったお店・グルメまとめ](/articles/2026/05/21/naniwa-gourmet-matome/)
 
-Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全まとめ](/articles/2026/05/12/snowman-gourmet-matome/)
+Snow Manグルメまとめ → [Snow Manが行ったお店・グルメまとめ](/articles/2026/05/12/snowman-gourmet-matome/)
 
 ## ねあじょい・not me・その他：動物カフェ・体験型カフェ
 
@@ -158,8 +209,8 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 ## 推し活グルメ別ガイド
 
-> **「推しが食べたラーメンを制覇したい」** → [アイドル・芸能人が行ったラーメン聖地巡礼まとめ【82選】](/articles/2026/05/27/idol-ramen-matome/)
+> **「推しが食べたラーメンを制覇したい」** → [アイドル・芸能人が行ったラーメン・麺類まとめ【85選】](/articles/2026/05/27/idol-ramen-matome/)
 >
-> **「推しと同じ焼肉・ステーキを楽しみたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【53選】](/articles/2026/05/27/idol-yakiniku-matome/)
+> **「推しと同じ焼肉・ステーキを楽しみたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【52選】](/articles/2026/05/27/idol-yakiniku-matome/)
 >
 > **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)

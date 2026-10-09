@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "SixTONESが行ったお店・グルメ完全まとめ【ストチューブ 全49店】"
+title: "SixTONESが行ったお店・グルメまとめ【ストチューブ 49店】"
 date: 2026-05-12
 last_modified_at: 2026-05-13
-description: "SixTONES（ストチューブ）が動画で実際に訪れたグルメスポットを全49件まとめました。東京の名焼肉・もんじゃ・中華から横浜・名古屋・富士山・シンガポールの旅ロケ飯まで住所・最寄り駅付きで紹介します。"
+description: "SixTONES（ストチューブ）が動画で実際に訪れたグルメスポットを49店まとめました。東京の名焼肉・もんじゃ・中華から横浜・名古屋・富士山・シンガポールの旅ロケ飯まで住所・最寄り駅付きで紹介します。"
 group: sixtones
 genre: まとめ
 article_type: matome
@@ -11,9 +11,9 @@ prefecture:
 tags: [SixTONES, ストチューブ, グルメ, 聖地巡礼, まとめ, 京本大我, 髙地優吾, 田中樹, 森本慎太郎, 松村北斗, ジェシー]
 thumbnail_video_id: Ssamk6Xf-gM
 summary:
-  - "ストチューブに登場したグルメスポットを全49件まとめて確認できる"
+  - "ストチューブに登場したグルメスポットを49店まとめて確認できる"
   - "東京の名焼肉・もんじゃ・中華から全国・海外ロケ飯まで網羅"
-  - "各店の住所・最寄り駅・価格帯をまとめて掲載"
+  - "各店の住所・最寄り駅つきで掲載"
   - "エリア別巡礼ルートで効率よく聖地めぐりできる"
 shop_ids:
   - sixtones-gyugyu-nishiazabu
@@ -34,7 +34,7 @@ shop_ids:
   - sixtones-eggs_n_things-201904
   - sixtones-0f6b2048-202411
   - sixtones-a3a0ff52-202003
-  - sixtones-minmin-hachioji
+  - sixtones-7c39702f-
   - sixtones-torigen-shinjuku
   - sixtones-bf58b791-202212
   - sixtones-toriki-shinjuku
@@ -53,7 +53,7 @@ shop_ids:
   - sixtones-horaibashi-chaya
   - sixtones-ukigumori-ikaho
   - sixtones-kurumi-shineimachi
-  - sixtones-ushioidochu-nagoya
+  - sixtones-e6599dc3-
   - sixtones-unagi-maruchu
   - sixtones-ramen-hakubutsukan
   - sixtones-sano-sa-foodcourt
@@ -116,7 +116,7 @@ faq:
 
 一蘭の天然とんこつ（渋谷店）と、八王子の「みんみんラーメン」が登場。どちらも"ただ食べる"シンプルなラーメン回で、飾らないメンバーの食べっぷりが見どころだ。
 
-{% include inline-shop-grid.html ids="sixtones-a3a0ff52-202003,sixtones-minmin-hachioji" %}
+{% include inline-shop-grid.html ids="sixtones-a3a0ff52-202003,sixtones-7c39702f-" %}
 
 ## 居酒屋【東京】
 
@@ -140,7 +140,7 @@ faq:
 
 富士河口湖・焼津・島田（静岡）・伊香保（群馬）・名古屋（愛知）の5エリアが登場。<mark>名古屋・牛追道中</mark>は松阪牛の焼肉名店で名古屋旅行の際は要チェック。富士山ロケの「ほうとう不動」は富士山ビューで食べるほうとうが見どころだ。
 
-{% include inline-shop-grid.html ids="sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-unagi-maruchu,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-ushioidochu-nagoya" %}
+{% include inline-shop-grid.html ids="sixtones-houtou-fudo-higashikoji,sixtones-horaibashi-chaya,sixtones-unagi-maruchu,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-e6599dc3-" %}
 
 ## 旅ロケグルメ【金沢・京都】
 

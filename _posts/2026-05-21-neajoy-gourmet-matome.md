@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "≒JOY が行ったお店まとめ｜全25店・東京＆箱根グルメ聖地巡礼ガイド"
+title: "≒JOY が行ったお店まとめ｜23店・東京＆箱根グルメ聖地巡礼ガイド"
 date: 2026-05-21
 last_modified_at: 2026-05-21
-description: "≒JOYのメンバーが実際に訪れた全25店を完全まとめ。ラーメン・カフェ・居酒屋から箱根・横浜・愛知の遠征グルメまで、住所・YouTube動画リンクつきで聖地巡礼に役立てください。"
+description: "≒JOYのメンバーが実際に訪れた23店をまとめ。ラーメン・カフェ・居酒屋から箱根・横浜・愛知の遠征グルメまで、住所・YouTube動画リンクつきで聖地巡礼に役立てください。"
 group: neajoy
 article_type: matome
 prefecture: 東京都
 tags: [≒JOY, ニアジョイ, 聖地巡礼, グルメ, まとめ, ラーメン, カフェ, 箱根, 東京, 神奈川]
 thumbnail_video_id: igZmyXp6zKI
 summary:
-  - "≒JOY の全25グルメスポットを一覧で確認できる"
+  - "≒JOY の23グルメスポットを一覧で確認できる"
   - "ラーメン・カフェ・居酒屋・もんじゃなどジャンル別に整理"
   - "箱根・横浜・大阪・愛知への遠征グルメも掲載"
   - "住所・YouTube動画リンクつきで聖地巡礼計画が立てやすい"
@@ -29,11 +29,9 @@ shop_ids:
   - neajoy-cc4ef957-202408
   - neajoy-f961d046-202408
   - neajoy-pippon-202408
-  - neajoy-d8279a41-202408
   - neajoy-brilliarunningstadiu-202602
-  - neajoy-78570ead-202408
-  - neajoy-14f3ebca-202408
   - neajoy-0ccad40f-202408
+  - neajoy-14f3ebca-202408
   - neajoy-5d7a9b9d-202408
   - neajoy-67083c58-202408
   - neajoy-seafood_grill_yakiya-202408
@@ -51,7 +49,7 @@ faq:
     a: "箱根湯本駅〜大涌谷エリアに6店が集中しています。徳造丸（海鮮）・杉養蜂園（はちみつスイーツ）・箱根おいも大学前（閉店）は箱根湯本駅周辺に集まっており、ロープウェイで大涌谷の駅の店へ移動するルートが効率的です。"
 ---
 
-=LOVE の姉妹グループ**≒JOY（ニアジョイ）**のメンバーが訪れたグルメスポット全25店を完全まとめ。ラーメンからカフェ・居酒屋まで幅広く、箱根・横浜・大阪・愛知への遠征グルメも見どころだ。
+=LOVE の姉妹グループ**≒JOY（ニアジョイ）**のメンバーが訪れたグルメスポット23店をまとめ。ラーメンからカフェ・居酒屋まで幅広く、箱根・横浜・大阪・愛知への遠征グルメも見どころだ。
 
 ## ラーメン【東京＆大阪 5店】
 
@@ -71,17 +69,17 @@ faq:
 
 {% include inline-shop-grid.html ids="neajoy-08395d58-202408,neajoy-b1d5f8cd-202408,neajoy-samoyed_cafe_al-202509" %}
 
-## 食事・その他【東京 6店】
+## 食事・その他【東京 5店】
 
 <mark>喜久屋</mark>・<mark>くろげ 浅草雷門店</mark>（2024年8月）は浅草エリアの食事処。<mark>エブリデイ多摩ノ国</mark>・<mark>PiPPon 中延店</mark>は地元密着型の食事スポット。<mark>コスメキッチン 代官山本店</mark>（代官山のセレクトショップ）・<mark>有明アーバンスポーツパーク</mark>（2026年2月）はグルメ以外のお出かけ先も含んだ≒JOY らしい多彩なラインナップだ。
 
-{% include inline-shop-grid.html ids="neajoy-ea607bdf-202408,neajoy-cc4ef957-202408,neajoy-f961d046-202408,neajoy-pippon-202408,neajoy-d8279a41-202408,neajoy-brilliarunningstadiu-202602" %}
+{% include inline-shop-grid.html ids="neajoy-ea607bdf-202408,neajoy-cc4ef957-202408,neajoy-f961d046-202408,neajoy-pippon-202408,neajoy-brilliarunningstadiu-202602" %}
 
-## 箱根・神奈川遠征【6店】
+## 箱根・神奈川遠征【5店】
 
 2024年8月の箱根ロケ回は≒JOY グルメ動画の中でも特に人気の高い回。<mark>徳造丸 海鮮家 箱根湯本店</mark>の金目鯛料理・<mark>杉養蜂園 箱根店</mark>のはちみつスイーツ・<mark>レストラン Seafood ＆ Grill YAKIYA</mark>と箱根湯本駅周辺に名店が集中。大涌谷では<mark>大涌谷 駅の店</mark>の黒たまごが定番。なお、さつまいも専門店「箱根おいも大学前」は現在**閉店**しているため訪問前にご注意ください。
 
-{% include inline-shop-grid.html ids="neajoy-78570ead-202408,neajoy-0ccad40f-202408,neajoy-5d7a9b9d-202408,neajoy-67083c58-202408,neajoy-14f3ebca-202408,neajoy-seafood_grill_yakiya-202408" %}
+{% include inline-shop-grid.html ids="neajoy-0ccad40f-202408,neajoy-5d7a9b9d-202408,neajoy-67083c58-202408,neajoy-14f3ebca-202408,neajoy-seafood_grill_yakiya-202408" %}
 
 ## 愛知遠征【2店】
 
