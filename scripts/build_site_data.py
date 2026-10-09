@@ -164,10 +164,18 @@ def main():
 
     # --- 近くの聖地グルメ（3km以内・最大6件） ---
     pts = [(s['id'], (s['lat'], s['lng'])) for s in shops if s.get('lat') and s.get('lng') and not s.get('closed')]
+    # 「近くの店」に出してよい店: 住所が番地まであり、座標がほかの店と重なっていないもの。
+    # 住所が「東京都文京区」までの店は区役所あたりの座標になっていて、実際の場所と離れているため
+    same_xy = Counter((round(q[0], 5), round(q[1], 5)) for _, q in pts)
+    addr = {s['id']: s.get('address') or '' for s in shops}
+    unverified = {s['id'] for s in shops if s.get('location_unverified')}  # 場所の確認待ち（shops.json で付ける）
+    pts_near = [(oid, q) for oid, q in pts
+                if re.search(r'[0-9０-９]', addr[oid]) and same_xy[(round(q[0], 5), round(q[1], 5))] < 3
+                and oid not in unverified]
     nearby = {}
     for sid, p in pts:
         cand = []
-        for oid, q in pts:
+        for oid, q in pts_near:
             if oid == sid or abs(q[0] - p[0]) > 0.03 or abs(q[1] - p[1]) > 0.04:
                 continue
             d = km(p, q)
@@ -181,7 +189,7 @@ def main():
     venue_nearby = {}
     for key, v in venues.items():
         p = (v['lat'], v['lng'])
-        cand = sorted((km(p, q), oid) for oid, q in pts
+        cand = sorted((km(p, q), oid) for oid, q in pts_near
                       if abs(q[0] - p[0]) < 0.03 and abs(q[1] - p[1]) < 0.04 and km(p, q) <= 3)
         venue_nearby[key] = {'n': len(cand), 'ids': [{'id': oid, 'm': int(round(d * 1000, -1))} for d, oid in cand[:8]],
                              'hk': v['name'], 'hj': urllib.parse.quote(v['name'], encoding='cp932', errors='ignore')}
