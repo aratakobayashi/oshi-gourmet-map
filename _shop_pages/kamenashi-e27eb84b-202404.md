@@ -16,6 +16,7 @@ group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000103008/"
 thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/07/P038540507/P038540507_238.jpg"
 lat: 35.6687049
 lng: 139.7053357
 members:

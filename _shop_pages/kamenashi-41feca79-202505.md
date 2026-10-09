@@ -16,6 +16,7 @@ group: "kamenashi"
 tabelog_url: "https://tabelog.com/osaka/A2705/A270501/27119941/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001266918/"
 thumbnail_url: "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/04/P037553504/P037553504_238.jpg"
 lat: 34.579238
 lng: 135.4764375
 members:

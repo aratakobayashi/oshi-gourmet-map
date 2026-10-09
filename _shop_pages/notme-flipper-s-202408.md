@@ -15,6 +15,7 @@ group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131802/13197095/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001259102/"
 thumbnail_url: "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/22/33/P036642233/P036642233_238.jpg"
 lat: 35.661998
 lng: 139.6683083
 members:

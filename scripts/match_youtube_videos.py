@@ -6,9 +6,15 @@ youtube_id が付くと、動画サムネイル（i.ytimg.com）が店舗の画�
 
 照合のしかた（youtube_id は API から取ったものだけを使う。推測で作らない）
 - 日付: visited_date / broadcast_date / タイトル中の日付と、動画の公開日の差
+  （description 中の「2024年8月16日配信」なども日付として使う）
+- 店名: 店名（支店名・読みがなを除いた部分）が動画のタイトルか概要欄に出てくるか
+  （店名の一部だけが出る場合は、概要欄の「撮影協力」より後に出てくるときだけ数える）
 - タイトル: 出典タイトルと動画タイトルの文字の重なり（2文字単位）
-- 自動で入れるのは「日付が2日以内で一致 かつ 候補が1本だけ」か
-  「タイトルがよく似ていて（--min-sim 以上）2位と差があり、日付が1週間以内（日付不明なら不問）」のときだけ
+- 自動で入れるのは次のどれかのときだけ
+  ・店名が出てくる動画が1本だけ（日付がわかっていれば1週間以内）
+  ・日付が2日以内で一致 かつ タイトルが少し似ていて（0.3以上）候補が1本だけ
+  ショート動画（#shorts・「〜 official【」の切り抜き）は本編があれば本編を選ぶので自動では選ばない
+  ・タイトルがよく似ていて（--min-sim 以上）2位と差があり、日付が1週間以内（日付不明なら不問）
 - それ以外は scripts/youtube_match_review.json に候補を書き出す。目で確認して
   "youtube_id" を書き込み、--apply-review で反映する
 
@@ -25,6 +31,7 @@ import argparse
 import json
 import os
 import re
+import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -38,10 +45,10 @@ REVIEW_PATH = 'scripts/youtube_match_review.json'
 # 複数に当たるときは上にあるものを使う
 SERIES = [
     (r'すのちゅーぶ|旅スノ', '@SnowMan.official.9'),
-    (r'ストチューブ|^SixTONES - ', '@SixTONES_st'),
+    (r'ストチューブ|^SixTONES ?(- |【)', 'UCwjAKjycHHT1QzHrQN5Stww'),  # @sixtones_official
     (r'Aぇちゅ', '@Aegroup_official'),  # 2024-04 より前の動画はジュニアチャンネルにある
     (r'乃木坂配信中|さくさんぽ', 'UCfvohDfHt1v5N8l3BzPRsWQ'),
-    (r'なにわTube', '@naniwadanshi_official'),
+    (r'なにわTube', 'UCDtVdj7sm41Ysg3XSiSUH3w'),  # @naniwadanshi
     (r'亀梨和也チャンネル|亀チャンネル', '@k_kamenashi_23'),
     (r'中丸銀河|銀河ちゃんねる', 'UCYTrZoOfDgoQo7Bdbttv9qw'),
     (r'よにの', 'UC2alHD2WkakOiTxCxF-uMAg'),
@@ -51,7 +58,9 @@ SERIES = [(re.compile(p), ch) for p, ch in SERIES]
 
 # 照合で無視する語（どの出典タイトルにも出る言葉）
 NOISE = re.compile(r'ロケ地|はどこ|どこ|食べた|メニュー|お店|店舗|撮影|いつ|何|聖地巡礼|まとめ|グルメ回|'
-                   r'すのちゅーぶ|Snow ?Man|SixTONES|ストチューブ|Aぇちゅ〜ぶ|Aぇ!? ?group|[【】「」『』？?！!、。・（）()\s]')
+                   r'すのちゅーぶ|Snow ?Man|SixTONES|ストチューブ|Aぇちゅ〜ぶ|Aぇ!? ?group|乃木坂配信中|さくさんぽ|'
+                   r'亀梨和也チャンネル|亀チャンネル|中丸銀河ちゃんねる|銀河ちゃんねる|よにのちゃんねる|なにわTube|旅スノ|'
+                   r'[【】「」『』？?！!、。・（）()\s]')
 
 
 def api(path, **params):
@@ -61,7 +70,16 @@ def api(path, **params):
     return json.loads(urllib.request.urlopen(req, timeout=20).read())
 
 
+_channels = {}
+
+
 def channel_videos(channel, refresh=False):
+    if channel not in _channels:
+        _channels[channel] = _channel_videos(channel, refresh)
+    return _channels[channel]
+
+
+def _channel_videos(channel, refresh=False):
     os.makedirs(CACHE_DIR, exist_ok=True)
     cache = os.path.join(CACHE_DIR, 'yt_' + re.sub(r'[^\w.-]', '', channel) + '.json')
     if os.path.exists(cache) and not refresh:
@@ -83,7 +101,8 @@ def channel_videos(channel, refresh=False):
         for it in page.get('items', []):
             sn = it['snippet']
             vid = sn['resourceId']['videoId']
-            videos.append({'youtube_id': vid, 'title': sn['title'], 'published_at': sn['publishedAt'][:10]})
+            videos.append({'youtube_id': vid, 'title': sn['title'], 'published_at': sn['publishedAt'][:10],
+                           'description': sn.get('description', '')})
         token = page.get('nextPageToken')
         if not token:
             break
@@ -99,7 +118,51 @@ def shop_dates(s):
             out.append(s[k])
     for y, m, d in re.findall(r'(\d{4})[-./年](\d{1,2})[-./月](\d{1,2})', s.get('source_video_title') or ''):
         out.append(f'{y}-{int(m):02d}-{int(d):02d}')
-    return [date.fromisoformat(x) for x in out]
+    for y, m, d in re.findall(r'(\d{4})年(\d{1,2})月(\d{1,2})日(?:に)?(?:配信|公開)', s.get('description') or ''):
+        out.append(f'{y}-{int(m):02d}-{int(d):02d}')
+    res = []
+    for x in dict.fromkeys(out):
+        try:
+            res.append(date.fromisoformat(x))
+        except ValueError:
+            pass
+    return res
+
+
+def norm(t):
+    return re.sub(r'[\s・･\'’&＆!！.。、ー〜~-]', '', unicodedata.normalize('NFKC', t or '').lower())
+
+
+# 店名の一部だけでは店が決まらない語
+GENERIC = re.compile(r'^(本店|総本店|總本店|別館|新館|カフェ|cafe|coffee|レストラン|restaurant|食堂|居酒屋|焼肉|寿司|鮨|すし|'
+                     r'ラーメン|らーめん|中華|喫茶|珈琲|うどん|そば|蕎麦|とんかつ|焼鳥|やきとり|ステーキ|steak|bar|ダイニング|'
+                     r'dining|kitchen|キッチン|ベーカリー|bakery|パン|定食|和食|洋食|割烹|料亭|茶屋|食事処|お食事処|'
+                     r'\S{1,8}(店|支店|号店))$')
+
+
+def name_keys(name):
+    """店名から照合に使う部分 (店名全体, 店名の一部の集合)。支店名・括弧内の読みがな・一般語は除く"""
+    base = re.sub(r'[（(「][^）)」]*[）)」]', ' ', unicodedata.normalize('NFKC', name or ''))
+    core = [p for p in re.split(r'\s+', base) if p and not GENERIC.match(p.lower())]
+    whole = norm(''.join(core))
+    # 英字だけの短い語（kai, sushi など）は別の動画にも出やすいので長めに
+    parts = {norm(p) for p in core if len(norm(p)) >= (6 if norm(p).isascii() else 3)} - {whole}
+    return (whole if len(whole) >= (5 if whole.isascii() else 3) else ''), parts
+
+
+def is_short(video):
+    t = video['title'] + ' ' + video.get('description', '')
+    return bool(re.search(r'#shorts?\b', t, re.I) or re.search(r'^\S+( group)? official【', video['title']))
+
+
+def name_hit(shop, video):
+    whole, parts = name_keys(shop.get('name'))
+    title = norm(video['title'])
+    desc = norm(video.get('description', ''))
+    if whole and (whole in title or whole in desc):
+        return True
+    credit = re.split(r'撮影協力|協力', desc, maxsplit=1)
+    return len(credit) == 2 and any(p in credit[1] for p in parts)
 
 
 def bigrams(t):
@@ -109,7 +172,8 @@ def bigrams(t):
 
 def similarity(a, b):
     A, B = bigrams(a), bigrams(b)
-    return len(A & B) / len(A) if A else 0.0
+    # 企画名だけの出典タイトル（「乃木坂配信中」など）は手がかりにならない
+    return len(A & B) / len(A) if len(A) >= 3 else 0.0
 
 
 def score(shop, video):
@@ -169,15 +233,23 @@ def main():
             if not ch:
                 continue
             videos = channel_videos(ch, args.refresh)
-            scored = []
+            scored, by_name = [], []
             for v in videos:
+                if is_short(v):
+                    continue
                 sim, days = score(s, v)
-                if (days is not None and days <= 2) or sim >= 0.3:
+                hit = name_hit(s, v)
+                if hit:
+                    by_name.append((sim, days, v))
+                if hit or (days is not None and days <= 2) or sim >= 0.3:
                     scored.append((sim, days, v))
-            scored.sort(key=lambda x: (x[1] if x[1] is not None else 99, -x[0]))
+            # 店名が出る動画 → 日付が近い → タイトルが似ている の順
+            scored.sort(key=lambda x: (not name_hit(s, x[2]), x[1] if x[1] is not None else 99, -x[0]))
             pick = None
-            near = [x for x in scored if x[1] is not None and x[1] <= 2]
-            if len(near) == 1:
+            near = [x for x in scored if x[1] is not None and x[1] <= 2 and x[0] >= 0.3]
+            if len(by_name) == 1 and (not shop_dates(s) or (by_name[0][1] is not None and by_name[0][1] <= 7)):
+                pick = by_name[0][2]
+            elif len(near) == 1:
                 pick = near[0][2]
             else:
                 by_sim = sorted(scored, key=lambda x: -x[0])
@@ -187,7 +259,8 @@ def main():
                         pick = by_sim[0][2]
             if pick:
                 auto += 1
-                print(f'  ✓ {s["name"]} ← [{pick["published_at"]}] {pick["title"]}')
+                why = '店名' if pick in [x[2] for x in by_name] else '日付/タイトル'
+                print(f'  ✓ {s["name"]} ← [{pick["published_at"]}] {pick["title"]}（{why}）')
                 if pick['youtube_id'] in used:
                     print('    （ほかの店と同じ動画。1本に複数店舗が出る回なら問題なし）')
                 if not args.dry_run:
@@ -197,7 +270,9 @@ def main():
                 review.append({
                     'shop_id': s['id'], 'name': s['name'], 'source_video_title': title,
                     'dates': [d.isoformat() for d in shop_dates(s)], 'youtube_id': '',
-                    'candidates': [dict(v, sim=round(sim, 2), days=days) for sim, days, v in scored[:5]],
+                    'candidates': [{'youtube_id': v['youtube_id'], 'title': v['title'], 'published_at': v['published_at'],
+                                    'name_hit': name_hit(s, v), 'sim': round(sim, 2), 'days': days}
+                                   for sim, days, v in scored[:5]],
                 })
         print(f'自動で付与: {auto}件 / 確認待ち: {len(review)}件 → {REVIEW_PATH}')
         if not args.dry_run:

@@ -6,6 +6,7 @@ genre: others
 group_label: "KAT-TUN"
 slug_id: kattun-others
 shop_count: 7
+youtube_id: Kv2-QX2HenQ
 related_groups:
   - kingprince-others
   - nogizaka46-others

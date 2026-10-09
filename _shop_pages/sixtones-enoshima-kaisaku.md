@@ -17,6 +17,7 @@ group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000223878/"
 thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/56/15/P033305615/P033305615_238.jpg"
 lat: 35.299508
 lng: 139.479397
 members:

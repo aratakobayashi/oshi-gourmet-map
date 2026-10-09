@@ -15,6 +15,7 @@ group: "notme"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27001451/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000018294/"
 thumbnail_url: "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/31/21/P051163121/P051163121_238.jpg"
 lat: 34.6685063
 lng: 135.5032623
 groups:

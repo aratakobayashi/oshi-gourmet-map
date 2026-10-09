@@ -15,6 +15,7 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22035765/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003365080/"
 thumbnail_url: "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/24/68/P040042468/P040042468_238.jpg"
 lat: 35.0967641
 lng: 139.0736987
 members:

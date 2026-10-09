@@ -17,6 +17,7 @@ group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13287935/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003851533/"
 thumbnail_url: "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/37/P044970537/P044970537_238.jpg"
 lat: 35.672
 lng: 139.7645
 members:

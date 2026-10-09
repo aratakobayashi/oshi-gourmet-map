@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「REEAST ROOM （リーストルーム）池袋店」"
-description: "SixTONES【ストチューブロケ地】斧投げができるアミューズメント施設はどこ？で紹介されたその他「REEAST ROOM （リーストルーム）池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介されたその他「REEAST ROOM （リーストルーム）池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-reeast_room-"
 name: "REEAST ROOM （リーストルーム）池袋店"
 genre: "others"
@@ -10,7 +10,9 @@ city: "豊島区"
 address: "東京都豊島区東池袋１丁目44−17"
 nearest_station: "池袋駅 徒歩5分"
 visited_date: "2023-09-02"
-source_video_title: "SixTONES【ストチューブロケ地】斧投げができるアミューズメント施設はどこ？"
+youtube_id: "p0NSYYgfXm0"
+source_video_title: "【SixTONES】斧投げまくってストレス発散!!"
+source_video_url: "https://www.youtube.com/watch?v=p0NSYYgfXm0"
 source_url: "https://kosodate-and.net/sixtones-ononage"
 group: "sixtones"
 lat: 35.7311554

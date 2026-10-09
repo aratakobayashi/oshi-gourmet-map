@@ -14,6 +14,7 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001236424/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/94/36/P038299436/P038299436_238.jpg"
 lat: 35.1749929
 lng: 136.8867635
 members:

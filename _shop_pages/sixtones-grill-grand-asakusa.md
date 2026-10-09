@@ -15,6 +15,7 @@ group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13008702/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000245367/"
 thumbnail_url: "https://img.youtube.com/vi/3_cm61ZXb2E/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/28/55/P051322855/P051322855_238.jpg"
 lat: 35.7176
 lng: 139.7976
 groups:

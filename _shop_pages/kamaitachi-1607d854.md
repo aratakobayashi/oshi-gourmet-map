@@ -15,6 +15,7 @@ group: "kamaitachi"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270106/27092078/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003388892/"
 thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/88/82/P040398882/P040398882_238.jpg"
 lat: 34.6794
 lng: 135.5106
 members:

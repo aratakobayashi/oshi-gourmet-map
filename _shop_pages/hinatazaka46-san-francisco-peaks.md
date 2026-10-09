@@ -14,6 +14,7 @@ group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001017828/"
 thumbnail_url: "https://img.youtube.com/vi/KcpvHDt0bPc/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg"
 lat: 35.6720008
 lng: 139.7092408
 groups:

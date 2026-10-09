@@ -15,6 +15,7 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/nagano/A2003/A200301/20017854/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001275602/"
 thumbnail_url: "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/89/P041693389/P041693389_238.jpg"
 lat: 36.3428502
 lng: 138.6341737
 members:

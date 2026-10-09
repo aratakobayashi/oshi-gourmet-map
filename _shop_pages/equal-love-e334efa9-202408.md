@@ -15,6 +15,7 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17010862/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001220712/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/89/P034195989/P034195989_238.jpg"
 lat: 36.5750276
 lng: 136.6529341
 members:

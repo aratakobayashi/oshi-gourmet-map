@@ -17,6 +17,7 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13150186/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001078309/"
 thumbnail_url: "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/70/P027493870/P027493870_238.jpg"
 seating_note: "4人が座ったのは、ソファのお席だと思われます。"
 lat: 35.6446
 lng: 139.6693

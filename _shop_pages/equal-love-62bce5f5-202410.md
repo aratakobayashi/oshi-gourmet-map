@@ -15,6 +15,7 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110203/11024070/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003324162/"
 thumbnail_url: "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/09/P038889509/P038889509_238.jpg"
 lat: 35.8837478
 lng: 139.8210025
 members:
