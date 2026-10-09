@@ -77,7 +77,7 @@
   // ---------- YouTube（タップしたときに埋め込みを読み込む） ----------
   document.addEventListener('click', function (e) {
     var b = e.target.closest('button.yt[data-yt]');
-    if (!b) return;
+    if (!b || b.querySelector('iframe')) return;
     var f = document.createElement('iframe');
     f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.yt + '?autoplay=1&rel=0';
     f.title = b.getAttribute('aria-label') || 'YouTube';

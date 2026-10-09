@@ -147,7 +147,7 @@
       return LISTS.indexOf(slug) > -1 ? '<a href="' + BASE + '/list/' + slug + '/">' + label + '</a>' : '<span>' + label + '</span>';
     });
     box.innerHTML = '<p class="meta">' + esc(gi.l) + ' × ジャンルのまとめ</p><p class="summary__items">' + items.join('<span aria-hidden="true">・</span>') + '</p>' +
-      '<p class="meta" style="margin-top:8px"><a href="' + BASE + '/groups/' + g + '/">' + esc(gi.l) + 'のページを見る →</a></p>';
+      '<p class="meta" style="margin-top:8px"><a href="' + BASE + (gi.u || '/groups/') + '">' + esc(gi.l) + 'のページを見る →</a></p>';
     box.hidden = false;
   }
 
@@ -158,7 +158,9 @@
   function clone(s) { return JSON.parse(JSON.stringify(s)); }
   function toggle(arr, v) { var i = arr.indexOf(v); if (i > -1) arr.splice(i, 1); else arr.push(v); }
 
+  var opener = null;
   function openSheet(t) {
+    opener = document.activeElement;
     load().then(function () {
       draft = clone(state);
       tab = t || 'oshi';
@@ -171,6 +173,7 @@
   function closeSheet() {
     $('sheet').hidden = true; $('sheet-bg').hidden = true;
     document.body.style.overflow = '';
+    if (opener && opener.focus) opener.focus();
   }
   function drawSheet() {
     document.querySelectorAll('#sheet [data-tab]').forEach(function (b) { b.setAttribute('aria-selected', b.dataset.tab === tab ? 'true' : 'false'); });
@@ -265,7 +268,18 @@
   });
   $('sheet-close').addEventListener('click', closeSheet);
   $('sheet-bg').addEventListener('click', closeSheet);
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !$('sheet').hidden) closeSheet(); });
+  document.addEventListener('keydown', function (e) {
+    if ($('sheet').hidden) return;
+    if (e.key === 'Escape') { closeSheet(); return; }
+    if (e.key !== 'Tab') return;
+    // シートが開いている間は、Tab で移る先をシートの中だけにする
+    var f = [].filter.call($('sheet').querySelectorAll('button, input, a[href]'), function (x) { return x.offsetParent !== null; });
+    if (!f.length) return;
+    var first = f[0], last = f[f.length - 1];
+    if (!$('sheet').contains(document.activeElement)) { e.preventDefault(); first.focus(); }
+    else if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  });
   $('sheet-reset').addEventListener('click', function () { var q = draft.q, so = draft.sort, v = draft.view; draft = emptyState(); draft.q = q; draft.sort = so; draft.view = v; refreshSheet(); if (tab === 'oshi') drawSheet(); });
   $('sheet-apply').addEventListener('click', function () { state = draft; draft = null; closeSheet(); render(); });
 
@@ -277,6 +291,8 @@
     timer = setTimeout(function () { load().then(function () { state.q = v.trim(); render(); }); }, 200);
   });
   $('q').addEventListener('focus', load, { once: true });
+  // スマホで「検索」を押したらキーボードを閉じて結果を見せる
+  $('q').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); this.blur(); } });
   $('sort').addEventListener('change', function () { var v = this.value; load().then(function () { state.sort = v; render(); }); });
   $('more').addEventListener('click', function () {
     load().then(function () {
@@ -284,6 +300,22 @@
       shown += PAGE; drawRows();
     });
   });
+
+  // お店ページから「戻る」で帰ってきたとき、広げた件数と見ていた位置を戻す
+  var KEY = 'explore:' + location.pathname;
+  function remember() {
+    try { sessionStorage.setItem(KEY, JSON.stringify({ q: location.search, shown: shown, y: scrollY })); } catch (e) {}
+  }
+  function restore() {
+    var saved = null;
+    try { saved = JSON.parse(sessionStorage.getItem(KEY) || 'null'); sessionStorage.removeItem(KEY); } catch (e) {}
+    var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+    if (!saved || saved.q !== location.search || (nav && nav.type !== 'back_forward')) return;
+    if (saved.shown > shown) { shown = saved.shown; drawRows(); }
+    requestAnimationFrame(function () { window.scrollTo(0, saved.y); });
+  }
+  $('rows').addEventListener('click', function (e) { if (e.target.closest('a')) remember(); });
+  window.addEventListener('pagehide', remember);
 
   // ---------- 地図 ----------
   var map, cluster;
@@ -308,6 +340,7 @@
     });
   }
   function drawMap() {
+    if (!DATA) return;
     loadCluster().then(function () {
       if (!map) {
         map = L.map('map', { zoomControl: true }).setView([35.68, 139.76], 11);
@@ -363,11 +396,11 @@
   $('sort').value = state.sort;
   if (location.hash === '#q') $('q').focus();
   var needNow = hasFilter(state) || state.sort !== 'new' || state.view === 'map';
-  if (needNow) load().then(render);
+  if (needNow) load().then(function () { render(); restore(); });
   applyView();
   if (!needNow) {
     // 最初の20軒はHTMLにある。データは表示が落ち着いてから読む
-    var later = function () { (window.requestIdleCallback || setTimeout)(function () { load().then(function () { current = sortRows(filtered(state), state.sort); $('count').textContent = current.length.toLocaleString(); drawRows(); }); }); };
+    var later = function () { (window.requestIdleCallback || setTimeout)(function () { load().then(function () { current = sortRows(filtered(state), state.sort); $('count').textContent = current.length.toLocaleString(); drawRows(); restore(); if (mapOn()) drawMap(); }); }); };
     if (document.readyState === 'complete') later(); else window.addEventListener('load', later);
   }
 })();
