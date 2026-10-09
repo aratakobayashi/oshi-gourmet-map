@@ -224,6 +224,8 @@ heysayjump:        '#ef4444'  // レッド
 - ヘッダーのメニューは1024px以上（それ未満は下部ナビ）。ヘッダーの検索欄は1180px以上（1024〜1179pxは虫めがねボタン）
 - /shops/ のスマホの「一覧／地図」切り替えは画面下に浮かぶボタン（#fab）
 - 存在しないURLは 404.html（検索欄と主要ページへの導線）
+- トップ（index.html）だけはリニューアル前のデザイン（写真コラージュ・マスキングテープ・ピンク）。CSSは `_includes/top.css`（旧 style.css からトップで使うルールだけを `.lp` の中に閉じ込めたもの）を head に埋め込む（front matter の inline_css）。「推し活ガイド」の黒いブロックだけ新デザインのまま残している。新着は site_stats.latest / latest_video からページ生成時に書き出す
+- トップのコラージュ・カードのグループ写真は assets/images/groups/<id>_480.webp / _120.webp（元の800px JPEGから作成）
 - 店舗ページの「この店に行くなら」はリンクがある行だけ出す。「予約する」はホットペッパー・一休など予約できるリンクがあるときだけ（食べログは「食べログで見る」）。PR表記は提携IDが入っているリンクがあるときに自動で出る
 - 「泊まる」リンクは じゃらん（検索語は Shift_JIS。build_site_data.py でエンコード）と楽天トラベル。提携後に `_config.yml` の affiliate.valuecommerce.jalan_pid / affiliate.rakuten.id を入れると変換される
 - URL は Jekyll が :name を変換したもの（`_` → `-`、`--` → `-`）。リンクは `_data/group_ix.json` の u や shop_cards の u を使い、自分で組み立てない
