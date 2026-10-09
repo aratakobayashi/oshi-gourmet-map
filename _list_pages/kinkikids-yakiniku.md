@@ -6,6 +6,7 @@ genre: yakiniku
 group_label: "KinKi Kids"
 slug_id: kinkikids-yakiniku
 shop_count: 6
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 related_genres:
   - kinkikids-shokuji
   - kinkikids-sweets

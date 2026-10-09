@@ -6,6 +6,7 @@ genre: shokuji
 group_label: "Number_i"
 slug_id: numberi-shokuji
 shop_count: 6
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 related_groups:
   - snowman-shokuji
   - kodoku-no-gurume-shokuji

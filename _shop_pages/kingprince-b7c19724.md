@@ -12,6 +12,7 @@ nearest_station: "茗荷谷駅 徒歩8分"
 source_video_title: "キントレ【永瀬廉ロケ地】男子寮はどこ？岡山県に縁がある学生が在住！？"
 source_url: "https://kosodate-and.net/kintore-ren-okayamaryou"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.7127304
 lng: 139.7386372
 members:

@@ -13,6 +13,7 @@ source_video_title: "キントレ【永瀬廉＆桐山照史】まかないハ�
 source_url: "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130802/13288588/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.670595007182
 lng: 139.74687418713137
 members:

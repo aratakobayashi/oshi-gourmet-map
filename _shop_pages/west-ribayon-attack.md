@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 第14回"
 source_url: "https://note.com/yui_natade/n/n82df0ef5cffd"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130202/13224686/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.687974
 lng: 139.772824

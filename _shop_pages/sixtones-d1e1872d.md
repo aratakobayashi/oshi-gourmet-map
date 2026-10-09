@@ -13,6 +13,7 @@ source_video_title: "トークィーンズ【髙地優吾ロケ地】居酒屋�
 source_url: "https://kosodate-and.net/talkqueens-kochi-izakaya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13070115/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg"
 lat: 35.6301291
 lng: 139.7507521
 members:

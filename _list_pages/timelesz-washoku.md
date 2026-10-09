@@ -8,6 +8,7 @@ slug_id: timelesz-washoku
 shop_count: 7
 group_color: "#0ea5e9"
 group_bio: "timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
 related_genres:
   - timelesz-cafe
   - timelesz-shokuji

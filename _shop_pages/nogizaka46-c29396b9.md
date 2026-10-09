@@ -12,6 +12,7 @@ nearest_station: "渋谷駅 徒歩2分"
 source_video_title: "NOGIBINGO!9"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13207838/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/7KGOg7mu4Ze483LLc4YqXQpjBpP.jpg"
 source_type: "tv"
 lat: 35.65931963790337
 lng: 139.69989888304798

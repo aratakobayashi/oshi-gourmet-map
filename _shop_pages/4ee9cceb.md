@@ -10,6 +10,7 @@ city: "旭市"
 source_video_title: "孤独のグルメ Season10 第11話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120502/12025317/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/j8DzkyMb28rjSTzMP3zrsG2JA5Q.jpg"
 source_type: "tv"
 lat: 35.72303693897155
 lng: 140.65221055418579

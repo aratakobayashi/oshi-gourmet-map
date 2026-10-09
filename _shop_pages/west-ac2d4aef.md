@@ -11,6 +11,7 @@ source_video_title: "イキスギさんについてった 2023-01-31"
 source_url: "https://jwest.jp/ikisugi2023/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13200703/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.69500873791764
 lng: 139.81587038332717

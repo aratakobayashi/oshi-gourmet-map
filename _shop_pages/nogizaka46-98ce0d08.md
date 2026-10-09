@@ -10,6 +10,7 @@ city: "鳥取市"
 address: "鳥取市賀露町西３丁目２７−２７−１"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 35.5342737
 lng: 134.182917
 groups:

@@ -10,6 +10,7 @@ city: "国頭郡恩納村"
 address: "国頭郡恩納村山田１３０９−１"
 source_video_title: "乃木坂工事中罰ポイント清算ツアー"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 26.434898
 lng: 127.7800727
 groups:

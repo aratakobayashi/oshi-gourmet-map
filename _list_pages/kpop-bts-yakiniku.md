@@ -6,6 +6,7 @@ genre: yakiniku
 group_label: "BTS"
 slug_id: kpop-bts-yakiniku
 shop_count: 6
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg"
 related_genres:
   - kpop-bts-shokuji
 related_groups:

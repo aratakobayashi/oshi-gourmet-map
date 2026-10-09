@@ -12,6 +12,7 @@ source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-tochigi/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9012617/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 lat: 36.29108136826427
 lng: 139.56416847068627
 groups:

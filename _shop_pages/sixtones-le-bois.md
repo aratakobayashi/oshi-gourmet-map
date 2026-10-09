@@ -14,6 +14,7 @@ source_video_title: "めざましテレビ【京本大我＆宮近海斗】清�
 source_url: "https://kosodate-and.net/mezamashi-taiga-kaito-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13289519/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6800594
 lng: 139.8039413
 members:

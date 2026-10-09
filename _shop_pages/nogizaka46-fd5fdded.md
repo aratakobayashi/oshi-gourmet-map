@@ -10,6 +10,7 @@ city: "中頭郡北谷町"
 address: "中頭郡北谷町美浜１丁目５−８"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 26.3116268
 lng: 127.7618337
 groups:

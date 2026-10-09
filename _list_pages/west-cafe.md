@@ -6,6 +6,7 @@ genre: cafe
 group_label: "WEST."
 slug_id: west-cafe
 shop_count: 23
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
 related_genres:
   - west-shokuji
   - west-chuka

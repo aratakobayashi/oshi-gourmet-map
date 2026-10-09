@@ -11,6 +11,7 @@ address: "北海道小樽市堺町２−２２"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0106/A010601/1040569/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 43.1961632
 lng: 141.0050315
 groups:

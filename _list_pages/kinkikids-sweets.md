@@ -6,6 +6,7 @@ genre: sweets
 group_label: "KinKi Kids"
 slug_id: kinkikids-sweets
 shop_count: 10
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 related_genres:
   - kinkikids-shokuji
   - kinkikids-washoku

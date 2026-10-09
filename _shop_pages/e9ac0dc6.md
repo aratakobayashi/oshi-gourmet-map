@@ -12,6 +12,7 @@ source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-curry/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13160882/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 lat: 35.69680328870394
 lng: 139.75953205454653
 groups:

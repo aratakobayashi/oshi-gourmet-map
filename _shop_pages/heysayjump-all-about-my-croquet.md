@@ -12,6 +12,7 @@ nearest_station: "松陰神社前駅 徒歩7分"
 source_video_title: "めざましテレビ 2017.05.25"
 source_url: "https://medax.hatenablog.com/entry/mezamashi/20170525"
 group: "heysayjump"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6469025
 lng: 139.652531
 members:

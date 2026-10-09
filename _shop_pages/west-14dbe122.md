@@ -12,6 +12,7 @@ nearest_station: "神保町駅 徒歩1分"
 source_video_title: "ヒルナンデス！ 中間淳太 神保町ロケ"
 source_url: "https://mequl-hibi.com/johnnys-west-sacred/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
 lat: 35.6956696
 lng: 139.7569835
 members:

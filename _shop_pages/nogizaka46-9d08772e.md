@@ -10,6 +10,7 @@ city: "郡上市"
 address: "郡上市八幡町新町953番地"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 35.7466
 lng: 136.9637
 groups:

@@ -12,6 +12,7 @@ source_video_title: "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ�
 source_url: "https://www.activitv.com/entry/category/tv/bunbuboon_/"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130503/13149621/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 lat: 35.7126839
 lng: 139.7036425
 members:

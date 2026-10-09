@@ -12,6 +12,7 @@ source_video_title: "VS魂"
 source_url: "https://kosodate-and.net/vsdamashii-kishi-shori-ramen/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13257298/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.6716786
 lng: 139.7356224
 members:

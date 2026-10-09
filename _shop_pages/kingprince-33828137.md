@@ -12,6 +12,7 @@ source_video_title: "めざましテレビ【岸優太ロケ地】廃校の小�
 source_url: "https://kosodate-and.net/mezamashi-kishi-glamping"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12060150/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.35403328739043
 lng: 140.03842832961044
 members:

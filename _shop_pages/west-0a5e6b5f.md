@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-06-13 羽田空�
 source_url: "https://jwest.jp/ikisugi_20230613/"
 group: "west"
 tabelog_url: "https://tabelog.com/tochigi/A0905/A090501/9020983/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 36.9621788
 lng: 140.0467207

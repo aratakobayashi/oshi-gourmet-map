@@ -11,6 +11,7 @@ address: "新潟県上越市大島区板山"
 source_video_title: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？"
 source_url: "https://kosodate-and.net/kinpru-niigata"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 37.179243
 lng: 138.513666
 members:

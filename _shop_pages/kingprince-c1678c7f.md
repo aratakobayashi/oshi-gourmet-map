@@ -13,6 +13,7 @@ source_video_title: "キントレ【髙橋海人ロケ地】炊飯器の旅第4�
 source_url: "https://kosodate-and.net/kintore-kaito-suihanki-kasamashi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0801/A080101/8002165/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 36.3780858284955
 lng: 140.4637460109345
 members:

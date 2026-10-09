@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-03-28（小瀧望
 source_url: "https://www.activitv.com/entry/ikisugisan_230328_yanbaru/"
 group: "west"
 tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47007952/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 26.214864070877727
 lng: 127.67543835724081

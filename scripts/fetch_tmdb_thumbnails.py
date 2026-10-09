@@ -21,9 +21,14 @@ SHOPS_PATH = 'data/shops.json'
 def fetch_poster(tmdb_id, cache):
     if tmdb_id in cache:
         return cache[tmdb_id]
-    url = f'https://api.themoviedb.org/3/tv/{tmdb_id}?api_key={TMDB_API_KEY}&language=ja'
+    url = f'https://api.themoviedb.org/3/tv/{tmdb_id}?language=ja'
+    headers = {'User-Agent': 'oshi-gourmet-map/1.0'}
+    if TMDB_API_KEY.startswith('eyJ'):  # v4 の読み取りトークン
+        headers['Authorization'] = f'Bearer {TMDB_API_KEY}'
+    else:
+        url += f'&api_key={TMDB_API_KEY}'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'oshi-gourmet-map/1.0'})
+        req = urllib.request.Request(url, headers=headers)
         data = json.loads(urllib.request.urlopen(req, timeout=10).read())
         poster = data.get('poster_path')
         result = f'{TMDB_BASE_IMG}{poster}' if poster else None

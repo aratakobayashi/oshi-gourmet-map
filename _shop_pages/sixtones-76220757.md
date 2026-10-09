@@ -13,6 +13,7 @@ source_video_title: "【6SixTONES シクスト ロケ地】熱海の商店街の
 source_url: "https://kosodate-and.net/6sixtones-atami"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22021407/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg"
 lat: 35.1033354
 lng: 139.0782748
 members:

@@ -11,6 +11,7 @@ address: "東京都世田谷区"
 source_video_title: "イキスギ 小瓧龍市 世田谷ロケ"
 source_url: "https://mequl-hibi.com/johnnys-west-sacred/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 lat: 35.6469025
 lng: 139.652531
 members:

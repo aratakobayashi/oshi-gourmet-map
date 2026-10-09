@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-03-07（中間淳
 source_url: "https://www.activitv.com/entry/ikisugisan_230307_momomaru/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13222107/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.656406999223975
 lng: 139.70107809882936

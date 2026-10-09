@@ -197,6 +197,7 @@ heysayjump:        '#ef4444'  // レッド
 | `geocode_shiori.py` | しおり専用ジオコーダー（tabelog JSON-LD優先 + 丁目形式フォールバック） |
 | `extract_shiori_hashtags.py` | ハッシュタグから店名候補を抽出（#店名パターン・汎用タグ除外・連結タグ分割対応） |
 | `scrape_kinpri.py` | King & Prince「当たり前レストラン」スクレイピング（tsuzuki-fam.com / ValueCommerce経由tabelog URL対応） |
+| `fetch_program_thumbnails.py` | 画像なし店舗に、出典のテレビ番組・ドラマのTMDB画像を補完（番組名→TMDB IDの対応表 PROGRAMS。回が特定できればエピソード画像、なければポスター）。新しい番組はPROGRAMSに追加 |
 | `normalize_links.py` | 外部リンクの正規化（重複削除・食べログURLの店舗トップ化・ホットペッパーの追跡パラメータ除去）。何度実行しても同じ結果 |
 | `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成（リニューアル後の画面では未使用） |
 | `build_site_data.py` | 画面用データを生成: _data/shop_cards・group_meta・group_ix・group_detail・nearby・venue_nearby・site_stats と data/explore.json（/shops/ の絞り込み用） |
@@ -253,7 +254,8 @@ export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取
 - 総店舗数: 2,329件（42グループ）。店舗ページ 2,360（うち孤立ページ31）・一覧ページ111・グループページ42
 - 推し活ガイド41本（/guide/）・特集記事42本（/articles/）
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
-- 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 1,441件
+- 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 605件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を836件補完。残りはYouTube企画・MV・ファンブログ由来などTMDBにない出典）
+- TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載
 - アフィリエイトは仕組みのみ導入済み（_config.yml の affiliate に sid/pid を入れると有効化）
 
 ## 過去の状況（2026-05-26時点）

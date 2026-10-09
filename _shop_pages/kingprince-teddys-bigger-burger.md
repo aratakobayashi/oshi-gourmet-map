@@ -13,6 +13,7 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメワールドツ
 source_url: "https://kosodate-and.net/vsdamashii-kishi-hamburger"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13097927/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.667187437899734
 lng: 139.70416978312446
 members:

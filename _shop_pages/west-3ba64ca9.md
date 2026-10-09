@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-02-14（藤井流
 source_url: "https://www.activitv.com/entry/ikisugisan_230214-2/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13141463/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.64345604372673
 lng: 139.71019571567564

@@ -14,6 +14,7 @@ source_video_title: "ニノさん 神保町餃子ベスト3（2025年6月22日�
 source_url: "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250622-location-gyoza/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13269188/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
 lat: 35.70076
 lng: 139.754353
 members:

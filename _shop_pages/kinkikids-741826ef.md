@@ -11,6 +11,7 @@ address: "東京都渋谷区宇田川町"
 source_video_title: "KinKi Kidsのブンブブーン 2024.01.06 奥渋谷"
 source_url: "https://www.activitv.com/entry/category/tv/bunbuboon_/"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 lat: 35.6620752
 lng: 139.6974957
 members:

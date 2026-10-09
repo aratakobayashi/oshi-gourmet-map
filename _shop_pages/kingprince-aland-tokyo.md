@@ -13,6 +13,7 @@ source_video_title: "【キンプるロケ地】韓国風コーデ対決のセ�
 source_url: "https://kosodate-and.net/kinpru-aland"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13294653/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.6620752
 lng: 139.6974957
 members:

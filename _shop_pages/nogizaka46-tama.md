@@ -11,6 +11,7 @@ address: "国頭郡恩納村真栄田３３２３−１"
 source_video_title: "乃木坂、逃避行。"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/okinawa/A4703/A470301/47026148/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
 lat: 26.431891
 lng: 127.7636468
 groups:

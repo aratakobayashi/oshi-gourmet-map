@@ -12,6 +12,7 @@ source_video_title: "キンプる 元旦SP"
 source_url: "https://kosodate-and.net/kinpru-wyuta-nagoya-udon/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230112/23089744/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.2031348
 lng: 136.9853024
 members:

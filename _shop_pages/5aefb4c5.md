@@ -12,6 +12,7 @@ visited_date: "2023-05-21"
 source_video_title: "リア突WEST ベトナムPart4 2023-05-21（神山智洋）"
 source_url: "https://jwest.jp/riatotsu_20230521-2/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eha08jjB6clOlKMEaO4pUVjyYp.jpg"
 source_type: "tv"
 lat: 9.9988135
 lng: 105.7433324

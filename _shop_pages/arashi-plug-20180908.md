@@ -13,6 +13,7 @@ visited_date: "2018-09-08"
 source_video_title: "嵐にしやがれ"
 group: "arashi"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27087169/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
 lat: 34.7074828
 lng: 135.5036637

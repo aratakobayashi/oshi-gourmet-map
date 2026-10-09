@@ -12,6 +12,7 @@ nearest_station: "金山駅 徒歩1分"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23041534/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 35.1442054
 lng: 136.9020905
 groups:

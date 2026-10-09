@@ -14,6 +14,7 @@ source_video_title: "アンサンブル最終回【松村北斗＆川口春奈 �
 source_url: "https://kosodate-and.net/ensemble-senamato-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140103/14053139/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/auRHdqwCV8ZP3LKikPcHCzccZef.jpg"
 lat: 35.4542512
 lng: 139.6402057
 members:

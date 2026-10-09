@@ -11,6 +11,7 @@ address: "東京都文京区本郷3-22-9"
 source_video_title: "KinKi Kidsのブンブブーン 麹町ロケ"
 source_url: "https://healthyhawaiifood.com/kinki-kids-rokechi-koujimachi/"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 lat: 35.7077379
 lng: 139.760167
 members:

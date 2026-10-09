@@ -11,6 +11,7 @@ address: "大阪府門真市北岸和田2-10-20"
 visited_date: "2022-02-11"
 source_video_title: "KinKi Kidsのブンブブーン おまけグルメ"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
 lat: 34.730402
 lng: 135.617292

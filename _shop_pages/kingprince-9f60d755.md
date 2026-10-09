@@ -12,6 +12,7 @@ source_video_title: "【モニタリング】永瀬廉と北村匠海が訪れ�
 source_url: "https://kosodate-and.net/monitoring-ren-takumi-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131806/13085456/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
 lat: 35.677460437864696
 lng: 139.61463178329097
 members:

@@ -10,6 +10,7 @@ address: "韓国ソウル市龍山区三角地"
 source_video_title: "全知的おせっかい視点 ロケ地"
 source_url: "https://ameblo.jp/treportal/entry-12912288854.html"
 group: "kpop_lesserafim"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/oRoGuuYiyQmxc1fU5oV5dPKlnAz.jpg"
 lat: 37.5392
 lng: 126.9762
 members:

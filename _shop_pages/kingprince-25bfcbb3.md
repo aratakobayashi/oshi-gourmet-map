@@ -13,6 +13,7 @@ source_video_title: "キントレ 炊飯器の旅【髙橋海人 ロケ地】千
 source_url: "https://kosodate-and.net/kintore-kaito-narita-matcha"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1204/A120401/12047708/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.783802068826226
 lng: 140.31705562503453
 members:

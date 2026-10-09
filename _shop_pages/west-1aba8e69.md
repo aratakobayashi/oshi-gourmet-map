@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-07-25 謎の料�
 source_url: "https://jwest.jp/ikisugi_20230725/"
 group: "west"
 tabelog_url: "https://tabelog.com/gifu/A2101/A210101/21000687/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.428194
 lng: 136.767945

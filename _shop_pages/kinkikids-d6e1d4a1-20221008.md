@@ -11,6 +11,7 @@ address: "岐阜県岐阜市神田町8-18"
 visited_date: "2022-10-08"
 source_video_title: "KinKi Kidsのブンブブーン 即完売グルメ"
 group: "kinkikids"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
 lat: 35.427761
 lng: 136.754164

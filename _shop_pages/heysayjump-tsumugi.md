@@ -13,6 +13,7 @@ source_video_title: "めざましテレビ 2018.10.04"
 source_url: "https://medax.hatenablog.com/entry/2018/10/04/084807"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13215158/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 lat: 35.6650914
 lng: 139.7708281
 members:

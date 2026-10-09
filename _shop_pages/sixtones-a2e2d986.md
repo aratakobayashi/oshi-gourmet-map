@@ -14,6 +14,7 @@ source_video_title: "【だが、情熱はあるロケ地】第6話で山里が�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kikuyoshi"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13077589/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 lat: 35.671134298635764
 lng: 139.49428768447322
 members:

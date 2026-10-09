@@ -12,6 +12,7 @@ source_video_title: "【キンプる】当たり前レストラン神宮寺勇�
 source_url: "https://kosodate-and.net/kinpru-jinguji-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140408/14048869/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.310538038002726
 lng: 139.31628557979388
 members:

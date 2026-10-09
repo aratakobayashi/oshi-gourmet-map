@@ -12,6 +12,7 @@ source_video_title: "VS魂 背徳グルメワールドツアー"
 source_url: "https://kosodate-and.net/vsdamashii-kishi-kakuni/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13045499/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.6991763
 lng: 139.410881
 members:

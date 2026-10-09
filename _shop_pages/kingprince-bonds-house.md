@@ -13,6 +13,7 @@ source_video_title: "シューイチプレミアム【永瀬廉ロケ地】日�
 source_url: "https://kosodate-and.net/shu1-ren-mugi-space"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13222142/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
 lat: 35.701459152823205
 lng: 139.79809518950893
 members:

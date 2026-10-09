@@ -12,6 +12,7 @@ source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-kawagoe/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11056695/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 lat: 35.922321337667164
 lng: 139.4826923858568
 groups:

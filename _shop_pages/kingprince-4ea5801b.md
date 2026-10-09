@@ -13,6 +13,7 @@ source_video_title: "【キンプるロケ地】恵比寿ガーデンプレイ�
 source_url: "https://kosodate-and.net/kinpru-joelrobuchon"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13009310/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 lat: 35.64193966872446
 lng: 139.71459105402388
 members:

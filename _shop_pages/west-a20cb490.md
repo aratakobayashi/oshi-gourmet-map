@@ -11,6 +11,7 @@ source_video_title: "イキスギさんについてった 2022-08-23（濵田崇
 source_url: "https://ameblo.jp/sigechiyo8/entry-12764917623.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13006361/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 lat: 35.70217313789832
 lng: 139.76952108343204

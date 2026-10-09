@@ -12,6 +12,7 @@ nearest_station: "浅草橋駅 徒歩5分"
 source_video_title: "キントレ バイトレ【髙橋海人 ロケ地】 修理ショップミスターミニットはどこ？"
 source_url: "https://kosodate-and.net/kintore-kaito-minit"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6986832
 lng: 139.7896756
 members:

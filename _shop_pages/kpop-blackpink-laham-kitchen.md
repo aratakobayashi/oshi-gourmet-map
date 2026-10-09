@@ -10,6 +10,7 @@ address: "韓国ソウル市麻浦区独幕路3キル24-10"
 source_video_title: "BLACKPINK House Episode 7-5"
 source_url: "https://creatrip.com/en/blog/7042"
 group: "kpop_blackpink"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/7Lc6zrq5f2OJGDUGCYyncjgIYds.jpg"
 lat: 37.5484
 lng: 126.9079
 members:

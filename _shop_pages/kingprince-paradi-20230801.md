@@ -14,6 +14,7 @@ source_video_title: "【キントレバイトレロケ地】髙橋海人が漫�
 source_url: "https://kosodate-and.net/kintore-kaito-kinosaki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/hyogo/A2808/A280801/28068910/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.624955
 lng: 134.8075427
 members:

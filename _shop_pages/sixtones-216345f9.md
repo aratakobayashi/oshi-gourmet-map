@@ -14,6 +14,7 @@ source_video_title: "西園寺さんは家事をしない【松村北斗ロケ�
 source_url: "https://kosodate-and.net/saionji-hokuto-monjya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13185100/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/76lXSkmudqkQqgvxhl55kgDGYa9.jpg"
 lat: 35.6590102
 lng: 139.7771121
 members:

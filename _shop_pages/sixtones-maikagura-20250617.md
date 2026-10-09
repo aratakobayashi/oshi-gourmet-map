@@ -13,6 +13,7 @@ source_video_title: "【ゴールデンストーンズ】ご褒美の町中華�
 source_url: "https://kosodate-and.net/golden-sixtones-kazushige-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131813/13218425/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/c59A7voDT22pAeH6zwxTltceGjn.jpg"
 lat: 35.6499984
 lng: 139.6219057
 members:

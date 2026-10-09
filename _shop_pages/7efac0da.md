@@ -11,6 +11,7 @@ nearest_station: "覚王山駅 徒歩1分"
 source_video_title: "バナナマンのせかっくグルメ!!"
 group: "snowman"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230107/23081023/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
 source_type: "tv"
 lat: 35.16683168814662
 lng: 136.95263459116092

@@ -12,6 +12,7 @@ source_video_title: "リア突WEST 2023-01-08 山小屋グルメはしご（飯�
 source_url: "https://jwest.jp/riatotsu2023/"
 group: "west"
 tabelog_url: "https://tabelog.com/saitama/A1106/A110603/11003385/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eha08jjB6clOlKMEaO4pUVjyYp.jpg"
 source_type: "tv"
 lat: 35.94187544835767
 lng: 139.1609982374416

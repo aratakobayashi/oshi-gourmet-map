@@ -11,6 +11,7 @@ address: "東京都千代田区有楽町1-2-2 日比谷シャンテ B1F"
 source_video_title: "【キントレゴールデンSP】劇団ひとりが歯を白くしたホワイトニング専門店サロンはどこ？"
 source_url: "https://kosodate-and.net/kintore-hitori-whitening"
 group: "kingprince"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 lat: 35.6736817
 lng: 139.7611853
 members:

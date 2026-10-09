@@ -12,6 +12,7 @@ source_video_title: "行列のできる相談所"
 source_url: "https://kosodate-and.net/gyoretsu-kishi-cheese/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13135740/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg"
 lat: 35.7360069
 lng: 139.7468276
 members:

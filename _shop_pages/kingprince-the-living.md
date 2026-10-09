@@ -13,6 +13,7 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-ichigo-pafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131714/13135826/"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 lat: 35.5706647
 lng: 139.6923407
 members:

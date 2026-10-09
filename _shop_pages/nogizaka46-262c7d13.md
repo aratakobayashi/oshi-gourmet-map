@@ -10,6 +10,7 @@ city: "福岡市"
 address: "福岡市東区志賀島７３６−５３"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 lat: 33.6645246
 lng: 130.3077587
 groups:

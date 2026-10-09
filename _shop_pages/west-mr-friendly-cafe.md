@@ -12,6 +12,7 @@ nearest_station: "恵比寿駅 徒歩4分"
 source_video_title: "ヒルナンデス！ WEST.出演回"
 source_url: "https://mequl-hibi.com/johnnys-west-sacred/"
 group: "west"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
 lat: 35.6483517
 lng: 139.7065258
 members:
