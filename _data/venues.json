@@ -14,25 +14,60 @@
     "lat": 34.65963,
     "lng": 135.44485
   },
+  "belluna-dome": {
+    "name": "ベルーナドーム",
+    "lat": 35.76854,
+    "lng": 139.42047
+  },
   "hokkai-kitaeru": {
     "name": "北海きたえーる",
     "lat": 43.043985,
     "lng": 141.376249
+  },
+  "k-arena-yokohama": {
+    "name": "Kアリーナ横浜",
+    "lat": 35.464638,
+    "lng": 139.631409
   },
   "kobe-world-kinen-hall": {
     "name": "神戸ワールド記念ホール",
     "lat": 34.663981,
     "lng": 135.210142
   },
+  "kyocera-dome-osaka": {
+    "name": "京セラドーム大阪",
+    "lat": 34.669445,
+    "lng": 135.477173
+  },
+  "lala-arena-tokyo-bay": {
+    "name": "LaLa arena TOKYO-BAY",
+    "lat": 35.684605,
+    "lng": 139.987
+  },
+  "makuhari-messe": {
+    "name": "幕張メッセ",
+    "lat": 35.647194,
+    "lng": 140.034561
+  },
   "marine-messe-fukuoka": {
     "name": "マリンメッセ福岡",
     "lat": 33.607279,
     "lng": 130.402104
   },
+  "mizuho-paypay-dome": {
+    "name": "みずほPayPayドーム福岡",
+    "lat": 33.594341,
+    "lng": 130.362411
+  },
   "musashino-forest-sport-plaza": {
     "name": "武蔵野の森総合スポーツプラザ",
     "lat": 35.666291,
     "lng": 139.523877
+  },
+  "nippon-budokan": {
+    "name": "日本武道館",
+    "lat": 35.6931,
+    "lng": 139.75071
   },
   "nippon-gaishi-hall": {
     "name": "日本ガイシホール",
@@ -78,6 +113,16 @@
     "name": "東京ドーム",
     "lat": 35.705639,
     "lng": 139.751891
+  },
+  "tokyo-garden-theater": {
+    "name": "東京ガーデンシアター",
+    "lat": 35.637161,
+    "lng": 139.790894
+  },
+  "vantelin-dome-nagoya": {
+    "name": "バンテリンドーム ナゴヤ",
+    "lat": 35.185009,
+    "lng": 136.945374
   },
   "xebio-arena-sendai": {
     "name": "ゼビオアリーナ仙台",

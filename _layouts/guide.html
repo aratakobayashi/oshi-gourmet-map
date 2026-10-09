@@ -40,7 +40,7 @@ layout: default
       {%- if vn and vn.ids.size > 0 %}
       <section class="section" id="nearby">
         <h2 class="h2">{{ venue.name }}周辺の聖地グルメ</h2>
-        <p class="meta" style="margin:4px 0 8px">推しが訪れたお店のうち、会場から近い順（直線距離）。3km以内に{{ vn.n }}軒あります。</p>
+        <p class="meta" style="margin:4px 0 8px">推しが訪れたお店のうち、会場から近い順（直線距離）。{{ vn.r | default: 3 }}km以内に{{ vn.n }}軒あります。</p>
         <div class="minis">{% for n in vn.ids %}{% include mini.html id=n.id m=n.m %}{% endfor %}</div>
         <p class="more-wrap"><a class="link-more" href="{{ '/shops/' | relative_url }}?view=map">地図で周辺のお店を探す →</a></p>
       </section>
