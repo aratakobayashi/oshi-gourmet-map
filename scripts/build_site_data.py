@@ -8,7 +8,7 @@ JS でデータを読み込む前に、最初の一覧や「近くの聖地グ�
   _data/group_meta.json  グループ一覧（件数順）: id, label, color, kana, count, prefs, members[{name,count}]
   _data/shop_cards.json  店舗カード用の最小データ（id → {n,u,g,gr,st,w,v,t,r,m,p,src,hk,hj}）
   _data/group_ix.json    グループID → {l: 表示名, c: 色, n: 件数}（Liquid から引く用）
-  _data/group_detail.json グループID → {ids: 新着20件, genres/prefs/stations: [[名前, 件数]], by_genre: {ジャンル: [ID]}}
+  _data/group_detail.json グループID → {ids: 新着24件, genres/prefs/stations: [[名前, 件数]], by_genre: {ジャンル: [ID]}}
   _data/nearby.json      店舗ID → 近い順の店舗ID（3km以内・最大6件）と距離m
   _data/venue_nearby.json 会場キー → {n: 3km以内の件数, ids: 近い順8件}
   data/explore.json      /shops/ の絞り込み用（配列: id,name,slug,genre,groups,pref,city,station,walk,lat,lng,
@@ -148,7 +148,7 @@ def main():
     for g, items in by_group.items():
         live = [s for s in items if not s.get('closed')]
         detail[g] = {
-            'ids': [s['id'] for s in sorted(live, key=recent_key, reverse=True)[:20]],
+            'ids': [s['id'] for s in sorted(live, key=recent_key, reverse=True)[:24]],
             'genres': Counter(s.get('genre') for s in items if s.get('genre')).most_common(),
             'prefs': Counter(s.get('prefecture') for s in items if s.get('prefecture')).most_common(6),
             'stations': Counter(st for st in (station_of(s)[0] for s in items) if st).most_common(6),

@@ -18,7 +18,7 @@ description: ライブ会場の行き方・座席と会場周辺の聖地グル�
     <h2 class="h2">{{ cat.label }}</h2>
     <p class="meta" style="margin:4px 0 12px">{{ cat.desc }}</p>
     {%- if cat.key == 'venue' %}
-    <ul class="vlist gcols2">
+    <ul class="vlist vlist--cards">
       {%- for g in items %}{% assign vn = site.data.venue_nearby[g.slug] %}
       <li><a class="vitem" href="{{ g.url | relative_url }}">
         <div class="thumb">{% if g.thumbnail %}<img src="{{ g.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="600" height="450" loading="lazy">{% endif %}</div>

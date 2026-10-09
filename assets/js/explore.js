@@ -9,7 +9,7 @@
   var isPC = matchMedia('(min-width: 1024px)');
 
   var I = window.shopUI.I;
-  var DATA = null, loading = null, shown = PAGE, current = [];
+  var BYID = {}, DATA = null, loading = null, shown = PAGE, current = [];
 
   function emptyState() { return { groups: [], members: [], prefs: [], stations: [], genres: [], q: '', sort: 'new', view: 'list' }; }
   var state = emptyState(), draft = null;
@@ -47,6 +47,7 @@
     loading = fetch(BASE + '/data/explore.json').then(function (r) { return r.json(); }).then(function (rows) {
       DATA = rows;
       rows.forEach(function (r) {
+        BYID[r[I.id]] = r;
         var labels = r[I.gr].map(function (g) { return GIX[g] ? GIX[g].l : g; }).join(' ');
         r.hay = [r[I.n], r[I.m].join(' '), r[I.st], r[I.c], r[I.p], labels, r[I.src]].join(' ').toLowerCase();
       });
@@ -336,6 +337,21 @@
     c.innerHTML = thumb(r) + '<div>' + meta(r) + '<p class="card__name">' + esc(r[I.n]) + '</p><p class="card__st">' + esc(r[I.st] || r[I.p]) + '</p><p class="link-more" style="margin-top:4px">詳しく見る →</p></div>';
     c.hidden = false;
   }
+  // 一覧の店にマウスを乗せると、地図上の位置を強調する（まとまっていても見えるよう別のピンを重ねる）
+  var hl = null;
+  function highlight(id) {
+    if (hl) { map.removeLayer(hl); hl = null; }
+    var r = BYID[id];
+    if (!map || !r || !r[I.la]) return;
+    var gi = GIX[r[I.gr][0]] || {};
+    hl = L.marker([r[I.la], r[I.ln]], { icon: L.divIcon({ html: '<div class="pin pin--hl" style="--g:' + (gi.c || '#9a8f80') + '"></div>', className: '', iconSize: [40, 40] }), zIndexOffset: 1000, interactive: false }).addTo(map);
+  }
+  $('rows').addEventListener('mouseover', function (e) {
+    var row = e.target.closest('.row'), b = row && row.querySelector('[data-fav]');
+    if (b && b.dataset.fav !== $('rows').dataset.hl) { $('rows').dataset.hl = b.dataset.fav; load().then(function () { highlight(b.dataset.fav); }); }
+  });
+  $('rows').addEventListener('mouseleave', function () { $('rows').dataset.hl = ''; if (hl && map) { map.removeLayer(hl); hl = null; } });
+
   isPC.addEventListener && isPC.addEventListener('change', applyView);
 
   // ---------- 初期化 ----------
