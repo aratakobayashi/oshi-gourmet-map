@@ -1,0 +1,33 @@
+{
+  "slug": "belluna-dome",
+  "name": "ベルーナドーム",
+  "short": "ベルーナドーム",
+  "type": "dome",
+  "center": [35.76854, 139.42047],
+  "size_m": 120,
+  "stations": [
+    {"name": "西武 西武球場前駅", "exit": "メインゲート近く", "lat": 35.77045, "lng": 139.41978}
+  ],
+  "access_note": ["大型イベントの日は公共交通機関で", "西武バスはプロ野球一軍公式戦の日だけ"],
+  "rules": {
+    "note": "野球開催時のルール。公演は主催者の案内で",
+    "items": [
+      {"icon": "bottle_can", "label": "ビン・缶"},
+      {"icon": "alcohol", "label": "アルコール飲料<br>（主催者販売を除く）"},
+      {"icon": "food", "label": "クーラー<br>ボックス"},
+      {"icon": "pet", "label": "ペット<br>（補助犬をのぞく）"},
+      {"icon": "danger", "label": "危険物・<br>大きすぎる荷物"}
+    ]
+  },
+  "prepare": {
+    "source": "ベルーナドーム公式サイトの案内より",
+    "items": [
+      {"icon": "locker", "title": "ドーム内にロッカーなし", "lines": ["西武鉄道の駅構内の", "ロッカーを使う"]},
+      {"icon": "card", "title": "施設内にATMなし", "lines": ["必要なお金は", "来る前に用意しておく"]},
+      {"icon": "bus", "title": "コンサート時はバスなし", "lines": ["西武バスはプロ野球の", "一軍公式戦の日だけ"]},
+      {"icon": "train", "title": "来場は電車がおすすめ", "lines": ["大型イベントの日は", "駐車場に限りがある"]}
+    ]
+  },
+  "thumb": {"chips": ["最寄り駅と行き方", "持ち込みNG", "ロッカー・ATM", "バス・車の注意"], "sky": "blue"},
+  "illust": {"forest": true, "open_sides": true}
+}

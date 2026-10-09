@@ -10,7 +10,7 @@ JS でデータを読み込む前に、最初の一覧や「近くの聖地グ�
   _data/group_ix.json    グループID → {l: 表示名, c: 色, n: 件数}（Liquid から引く用）
   _data/group_detail.json グループID → {ids: 新着24件, genres/prefs/stations: [[名前, 件数]], by_genre: {ジャンル: [ID]}}
   _data/nearby.json      店舗ID → 近い順の店舗ID（3km以内・最大6件）と距離m
-  _data/venue_nearby.json 会場キー → {n: 3km以内の件数, ids: 近い順8件}
+  _data/venue_nearby.json 会場キー → {n: r km以内の件数, r: 3（少ない会場は10）, ids: 近い順8件}
   data/explore.json      /shops/ の絞り込み用（配列: id,name,slug,genre,groups,pref,city,station,walk,lat,lng,
                          youtube_id,thumb,reservable,members,source,visited_date,closed）
   _data/site_stats.json  件数・新着・よく出る駅・都道府県・ジャンル件数
@@ -191,7 +191,13 @@ def main():
         p = (v['lat'], v['lng'])
         cand = sorted((km(p, q), oid) for oid, q in pts_near
                       if abs(q[0] - p[0]) < 0.03 and abs(q[1] - p[1]) < 0.04 and km(p, q) <= 3)
-        venue_nearby[key] = {'n': len(cand), 'ids': [{'id': oid, 'm': int(round(d * 1000, -1))} for d, oid in cand[:8]],
+        radius = 3
+        if len(cand) < 3:
+            # 3km以内に少ない会場は10kmまで広げて近い順に出す（件数 n も10km以内の数）
+            cand = sorted((km(p, q), oid) for oid, q in pts_near
+                          if abs(q[0] - p[0]) < 0.1 and abs(q[1] - p[1]) < 0.12 and km(p, q) <= 10)
+            radius = 10
+        venue_nearby[key] = {'n': len(cand), 'r': radius, 'ids': [{'id': oid, 'm': int(round(d * 1000, -1))} for d, oid in cand[:8]],
                              'hk': v['name'], 'hj': urllib.parse.quote(v['name'], encoding='cp932', errors='ignore')}
 
     # --- サイト全体の数字 ---
