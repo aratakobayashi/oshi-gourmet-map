@@ -13,3 +13,4 @@ scripts/videos_*.json
 .github/workflows/pages.yml
 .bundle/
 __pycache__/
+scripts/.cache/
