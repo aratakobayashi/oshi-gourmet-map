@@ -14,7 +14,8 @@ layout: default
     <li><a href="{{ '/articles/' | relative_url }}">特集記事</a></li>
     {%- if gx %}<li><a href="{{ gx.u | relative_url }}">{{ glabel }}</a></li>{% endif %}
   </ol>
-  <div class="artg">
+  <div class="artg artg--toc">
+    <nav class="artg__t" aria-label="目次"><p class="artg__t-title">目次</p><ol data-toc-list></ol></nav>
     <article class="artg__a">
       {%- if page.thumbnail_video_id %}
       <figure class="art__hero"><img src="https://i.ytimg.com/vi_webp/{{ page.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="270" fetchpriority="high"></figure>

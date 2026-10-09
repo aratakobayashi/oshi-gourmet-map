@@ -189,7 +189,7 @@ button.chip { cursor: pointer; }
 .row { position: relative; }
 .row__name { font-size: var(--fs-card); font-weight: 700; line-height: 1.4; color: var(--ink); }
 .row__name::after { content: ""; position: absolute; inset: 0; }
-.row .fav-btn { position: relative; z-index: 1; }
+.row .fav-btn { position: relative; z-index: 2; }
 .row__src { font-size: 12px; color: var(--ink-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .row__tags { display: flex; align-items: center; gap: 6px; min-width: 0; }
 .fav-btn { width: 44px; height: 44px; border: 0; background: none; display: grid; place-items: center; }
@@ -602,3 +602,92 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .prose .card__meta, .prose .card__st { margin: 0; }
 .prose .hscroll { margin: 1.4em 0; }
 .prose .card p, .prose .ecard p { margin-top: 0; }
+
+/* 一覧: スマホは行、PCは写真カードのグリッド（同じHTML。.rows--grid を付ける） */
+@media (min-width: 1024px) {
+  .rows--grid { border-top: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-4); }
+  .rows--grid.rows--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .rows--grid > .row { display: flex; flex-direction: column; align-items: stretch; gap: 0; padding: 0; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); overflow: hidden; }
+  .rows--grid > .row:hover { border-color: var(--line-strong); }
+  .rows--grid > .row:hover .row__name { text-decoration: underline; text-underline-offset: 3px; }
+  .rows--grid > .row .thumb { width: 100%; height: auto; aspect-ratio: 16 / 10; border-radius: 0; }
+  .rows--grid > .row .thumb .stamp { width: 64px; height: 64px; font-size: 30px; border-width: 2px; }
+  .rows--grid > .row .thumb--noimg { border-top-width: 5px; }
+  .rows--grid .row__body { padding: var(--s-3) var(--s-3) var(--s-4); gap: 3px; }
+  .rows--grid .row__name { font-size: 16px; }
+  .rows--grid .fav-btn { position: absolute; top: 6px; right: 6px; z-index: 2; }
+  .rows--grid > .row > .empty, .rows--grid > .empty { grid-column: 1 / -1; }
+}
+
+/* グループページ・一覧ページ（PC-04） */
+.ghero__row .stats { margin-bottom: 0; }
+.listpage__btns { display: grid; gap: var(--s-2); }
+.listpage__btns [hidden] { display: none; }
+.section__head .sel { flex: none; }
+@media (min-width: 1024px) {
+  .ghero { padding: var(--s-4) 0 var(--s-8); }
+  .ghero__row { display: flex; justify-content: space-between; align-items: flex-end; gap: var(--s-8); }
+  .ghero__row .stats { flex: none; margin: 0; }
+  .ghero__row .stats b { font-size: 34px; }
+  .ghero__row .stats span { font-size: 14px; }
+  .ghero .page-lead { margin-top: var(--s-3); font-size: 15px; color: var(--ink); }
+  .cols__side { position: sticky; top: 76px; max-height: calc(100vh - 92px); overflow-y: auto; scrollbar-width: thin; padding-bottom: var(--s-6); }
+  .listpage__btns { grid-template-columns: 1fr 1fr; }
+  .listpage__btns > :only-child { grid-column: 1 / -1; }
+}
+@media (min-width: 1024px) { .linkcards--grid, .section .linkcards { display: grid; grid-template-columns: repeat(2, 1fr); } .artg .linkcards { grid-template-columns: 1fr; } }
+
+/* お店を探す（PC-02）: 画面いっぱいに広げ、ヘッダー・絞り込み・一覧の左端を揃える */
+.pin--hl { width: 40px; height: 40px; border-width: 4px; box-shadow: 0 0 0 4px rgba(36,31,26,.85), 0 2px 8px rgba(0,0,0,.35); }
+@media (min-width: 1024px) {
+  .page-wide .wrap { max-width: none; }
+  .page-wide .explore--split { grid-template-columns: minmax(560px, 42%) 1fr; }
+  .page-wide .explore--split .explore__list { padding: 0 var(--s-6) 0 var(--s-12); }
+  .explore--split .row { grid-template-columns: 148px 1fr 44px; gap: var(--s-4); padding: var(--s-4) 0; }
+  .explore--split .row .thumb { width: 148px; height: 111px; }
+  .explore--split .row__name { font-size: 16px; }
+  .explore--split .row:hover { background: color-mix(in srgb, var(--g) 7%, transparent); }
+}
+
+/* PC: 推し活ガイド一覧（PC-05）・特集記事一覧（PC-06）・記事（PC-07） */
+.artg__t { display: none; }
+.thumb--noimg .stamp--sm { --c: var(--g); }
+.aitem .thumb--noimg { border-top-width: 3px; }
+@media (min-width: 1024px) {
+  .vlist--cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--s-6) var(--s-4); }
+  .vlist--cards > li { border: 0; }
+  .vlist--cards .vitem { grid-template-columns: 1fr; gap: var(--s-2); padding: 0; align-items: start; }
+  .vlist--cards .vitem .thumb { aspect-ratio: 16 / 10; }
+  .vlist--cards .vitem:hover .vitem__name { text-decoration: underline; text-underline-offset: 3px; }
+  .atop { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-6); margin: var(--s-4) 0 var(--s-8); align-items: start; }
+  .atop .feature { display: block; margin: 0; }
+  .atop .feature .thumb { aspect-ratio: 4 / 3; margin-bottom: var(--s-3); }
+  .atop .feature__title { font-size: 26px; }
+  .alist--top { grid-template-columns: 1fr 1fr !important; gap: var(--s-6) var(--s-4) !important; }
+  .alist--top .aitem .thumb { aspect-ratio: 16 / 10; }
+  .alist--top .aitem__title { font-size: 14px; }
+  .gcard .thumb { aspect-ratio: 4 / 3; }
+  .shop__hero--noimg { aspect-ratio: 21 / 9; }
+  .ftr { background: var(--ink); color: #B8AE9F; border-top: 0; }
+  .ftr .logo, .ftr__links a { color: #fff; }
+  .ftr .logo em { color: #F0A584; }
+  .ftr__note { color: #B8AE9F; }
+}
+@media (min-width: 1200px) {
+  .artg--toc { grid-template-areas: "t a s" "t b s"; grid-template-columns: 200px minmax(0, 1fr) 320px; column-gap: var(--s-8); }
+  .artg__t { display: block; grid-area: t; position: sticky; top: 92px; max-height: calc(100vh - 110px); overflow-y: auto; scrollbar-width: thin; }
+  .artg__t-title { font-weight: 700; font-size: 14px; margin-bottom: var(--s-3); }
+  .artg__t ol { counter-reset: t; display: flex; flex-direction: column; gap: 10px; }
+  .artg__t li { counter-increment: t; display: grid; grid-template-columns: 26px 1fr; font-size: 13px; line-height: 1.5; }
+  .artg__t li::before { content: counter(t, decimal-leading-zero); font: 700 11px var(--mono); color: var(--accent-ink); padding-top: 3px; }
+  .artg__t a { color: var(--ink-2); }
+  .artg__t a[aria-current] { color: var(--ink); font-weight: 700; }
+  .artg--toc .toc { display: none; }
+}
+/* ガイドの画像は正方形と3:2が混在するため、切らずに全体を見せる */
+.gcard .thumb img { object-fit: contain; }
+.stats { gap: 0; flex-wrap: wrap; }
+.stats span { margin: 0 var(--s-6) 0 4px; }
+.stats span:last-child { margin-right: 0; }
+.artg__s .btn-row { grid-template-columns: 1fr; }
+@media (min-width: 1024px) { .atop .feature .thumb { aspect-ratio: 16 / 9; } }

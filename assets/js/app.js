@@ -56,7 +56,23 @@
       '<p class="row__tags">' + (r[I.x] ? '<span class="badge badge--closed">閉店</span>' : '') + (r[I.r] ? '<span class="badge--ok badge">予約可</span>' : '') + (r[I.src] ? '<span class="row__src">' + esc(r[I.src]) + '</span>' : '') + '</p>' +
       '</div><button type="button" class="fav-btn" data-fav="' + esc(r[I.id]) + '" aria-pressed="false" aria-label="' + esc(r[I.n]) + 'を保存"><span>保存</span></button></div>';
   }
-  window.shopUI = { I: I, esc: esc, thumb: thumb, meta: meta, row: row, favs: favs };
+  // 並び替え（閉店は最後）。how: new / video / book / name
+  function sortRows(rows, how) {
+    var cmpNew = function (a, b) { return (b[I.d] > a[I.d]) - (b[I.d] < a[I.d]) || (!!b[I.v]) - (!!a[I.v]); };
+    var f = {
+      new: cmpNew,
+      video: function (a, b) { return (!!b[I.v]) - (!!a[I.v]) || cmpNew(a, b); },
+      book: function (a, b) { return b[I.r] - a[I.r] || cmpNew(a, b); },
+      name: function (a, b) { return a[I.n].localeCompare(b[I.n], 'ja'); }
+    }[how] || cmpNew;
+    return rows.sort(function (a, b) { return a[I.x] - b[I.x] || f(a, b); });
+  }
+  var dataReady = null;
+  function loadData() {
+    if (!dataReady) dataReady = fetch(BASE + '/data/explore.json').then(function (r) { return r.json(); });
+    return dataReady;
+  }
+  window.shopUI = { I: I, esc: esc, thumb: thumb, meta: meta, row: row, favs: favs, sort: sortRows, load: loadData };
 
   // ---------- YouTube（タップしたときに埋め込みを読み込む） ----------
   document.addEventListener('click', function (e) {
@@ -126,19 +142,35 @@
     });
   });
 
-  // ---------- 目次（記事本文の h2 / h3 から作る。目次の枠は最初から出しておく） ----------
-  var toc = document.querySelector('[data-toc]');
-  if (toc) {
-    var ol = toc.querySelector('ol');
-    document.querySelectorAll('.prose h2, .prose h3').forEach(function (h, i) {
-      if (h.closest('.ecard, .faq')) return;
-      if (!h.id) h.id = 'h-' + i;
+  // ---------- 目次（記事本文の h2 / h3 から作る。スマホは本文上の開閉式、PCは左の列） ----------
+  var heads = [].filter.call(document.querySelectorAll('.prose h2, .prose h3'), function (h) { return !h.closest('.ecard, .faq'); });
+  var toc = document.querySelector('[data-toc]'), side = document.querySelector('[data-toc-list]');
+  heads.forEach(function (h, i) { if (!h.id) h.id = 'h-' + i; });
+  function fill(ol, withH3) {
+    heads.forEach(function (h) {
+      if (h.tagName === 'H3' && !withH3) return;
       var li = document.createElement('li'), a = document.createElement('a');
       if (h.tagName === 'H3') li.className = 'h3';
       a.href = '#' + h.id; a.textContent = h.textContent.trim();
       li.appendChild(a); ol.appendChild(li);
     });
-    if (!ol.children.length) toc.hidden = true;
+  }
+  if (toc) { fill(toc.querySelector('ol'), true); if (!heads.length) toc.hidden = true; }
+  if (side) {
+    fill(side, false);
+    if (!side.children.length) side.parentNode.hidden = true;
+    else if ('IntersectionObserver' in window) {
+      var links = {};
+      side.querySelectorAll('a').forEach(function (a) { links[a.getAttribute('href').slice(1)] = a; });
+      var io2 = new IntersectionObserver(function (es) {
+        es.forEach(function (e) {
+          if (!e.isIntersecting || !links[e.target.id]) return;
+          side.querySelectorAll('a[aria-current]').forEach(function (x) { x.removeAttribute('aria-current'); });
+          links[e.target.id].setAttribute('aria-current', 'true');
+        });
+      }, { rootMargin: '0px 0px -70% 0px' });
+      heads.forEach(function (h) { if (h.tagName === 'H2') io2.observe(h); });
+    }
   }
 
   window.paintFavs();

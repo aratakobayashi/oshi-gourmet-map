@@ -15,14 +15,19 @@ description: アイドル・芸人・YouTuber・ドラマで紹介されたお�
     {%- for t in types %}{% if t.name != '' %}<button type="button" class="chip" aria-pressed="false" data-type="{{ t.name }}">{{ site.data.article_types[t.name] | default: t.name }} <span class="cnt">{{ t.size }}</span></button>{% endif %}{% endfor %}
   </div>
 
-  <a class="feature" href="{{ first.url | relative_url }}" data-t="{{ first.article_type }}">
-    <div class="thumb">{% if first.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ first.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="360" fetchpriority="high">{% endif %}</div>
-    <p class="aitem__cat">{{ site.data.article_types[first.article_type] }} <span class="meta">{{ first.date | date: "%Y.%m.%d" }}{% if first.shop_count %}・{{ first.shop_count }}軒{% endif %}</span></p>
-    <p class="feature__title">{{ first.title }}</p>
-  </a>
+  <div class="atop">
+    <a class="feature" href="{{ first.url | relative_url }}" data-t="{{ first.article_type }}">
+      <div class="thumb">{% if first.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ first.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="360" fetchpriority="high">{% endif %}</div>
+      <p class="aitem__cat">{{ site.data.article_types[first.article_type] }} <span class="meta">{{ first.date | date: "%Y.%m.%d" }}{% if first.shop_count %}・{{ first.shop_count }}軒{% endif %}</span></p>
+      <p class="feature__title">{{ first.title }}</p>
+    </a>
+    <ul class="alist alist--grid alist--top">
+      {%- for p in site.posts offset: 1 limit: 4 %}<li data-t="{{ p.article_type }}">{% include article-item.html p=p %}</li>{% endfor %}
+    </ul>
+  </div>
 
   <ul class="alist alist--grid" id="alist">
-    {%- for p in site.posts offset: 1 %}<li data-t="{{ p.article_type }}">{% include article-item.html p=p %}</li>{% endfor %}
+    {%- for p in site.posts offset: 5 %}<li data-t="{{ p.article_type }}">{% include article-item.html p=p %}</li>{% endfor %}
   </ul>
 
   <a class="darkblock darkblock--link" href="{{ '/guide/' | relative_url }}">
