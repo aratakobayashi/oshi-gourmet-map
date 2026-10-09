@@ -212,6 +212,15 @@ heysayjump:        '#ef4444'  // レッド
 - 会場ガイドの「会場周辺の聖地グルメ」は `_data/venues.json` の座標から shops-lite.json の店舗を距離順に表示
 - 旧URL→新URLの対応表: `redirects/guidebook_redirects.csv`（旧サイト側で301を設定する）
 
+## 表示速度のルール（PageSpeed Insights スマホ90点以上を維持）
+- Webフォントは読み込まない（端末標準フォント。style.css の --f-* 変数）
+- AdSense は使わない（2026-10 に削除。地図・一覧に広告が重なり操作を妨げていたため）
+- Leaflet は一覧地図のあるページ（/shops/・グループページ）だけで読み込む。店舗ページは地図が画面に近づいたときに読み込む
+- shops-lite.json（約1.3MB）は表示直後に読み込まない。トップはページ表示後、記事・ガイドは店舗カードが画面に近づいたとき。一覧ページはグループ別ファイル data/shops-lite/<group>.json を使う
+- Google アナリティクスはページ表示完了の1.5秒後に読み込む（head.html）
+- ガイドの見出し画像は 600px 版（*_600.webp）を用意して srcset で出し分ける。新しいガイドを追加したら 600px 版も作る
+- 描画前にレイアウト計算をさせない（offsetTop / offsetHeight などの読み取りは load 後に）
+
 ## 環境変数
 ```bash
 export YOUTUBE_API_KEY="..."   # YouTube Data API v3

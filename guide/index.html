@@ -32,7 +32,7 @@ description: ライブ会場のアクセス・座席・周辺の聖地グルメ�
     <div class="guide-grid">
       {% for g in items %}
       <a href="{{ g.url | relative_url }}" class="guide-card">
-        {% if g.thumbnail %}<img src="{{ g.thumbnail | relative_url }}" alt="" loading="lazy" class="guide-card__img">{% endif %}
+        {% if g.thumbnail %}<img src="{{ g.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" loading="lazy" width="600" height="600" class="guide-card__img">{% endif %}
         <span class="guide-card__title">{{ g.title }}</span>
       </a>
       {% endfor %}

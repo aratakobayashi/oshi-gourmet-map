@@ -13,9 +13,11 @@
   {% include footer.html %}
   {% include bottom-nav.html %}
 
-  <!-- Leaflet.js (self-hosted) -->
+  {%- if page.url == '/shops/' or page.layout == 'group' %}
+  <!-- Leaflet.js（一覧地図があるページだけ） -->
   <script src="{{ '/assets/vendor/leaflet/leaflet.js' | relative_url }}"></script>
   <script src="{{ '/assets/vendor/leaflet/leaflet.markercluster.js' | relative_url }}"></script>
+  {%- endif %}
   <!-- メインスクリプト -->
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>

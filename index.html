@@ -341,25 +341,30 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
     });
   }
 
-  fetch(BASE + '/data/shops-lite.json')
-    .then(function(r) { return r.json(); })
-    .then(function(shops) {
-      renderFeed(shops, 'recent');
-      initFeedTabs(shops);
+  // 店舗データはページの表示が終わってから読み込む（表示速度のため）
+  function loadFeed() {
+    fetch(BASE + '/data/shops-lite.json')
+      .then(function(r) { return r.json(); })
+      .then(function(shops) {
+        renderFeed(shops, 'recent');
+        initFeedTabs(shops);
 
-      // ヒーロー統計数字を動的に更新
-      var spots  = document.getElementById('stat-spots');
-      var groups = document.getElementById('stat-groups');
-      var prefs  = document.getElementById('stat-prefs');
-      if (spots)  spots.textContent  = shops.length;
-      var badgeNum = document.getElementById('hero-badge-num');
-      if (badgeNum) badgeNum.textContent = shops.length;
-      if (groups) groups.textContent = new Set(shops.flatMap(function(s) { return s.groups || (s.group ? [s.group] : []); })).size;
-      if (prefs)  prefs.textContent  = new Set(shops.map(function(s) { return s.prefecture; }).filter(Boolean)).size;
-    })
-    .catch(function() {
-      var s = document.getElementById('latest-feed-section');
-      if (s) s.style.display = 'none';
-    });
+        // ヒーロー統計数字を動的に更新
+        var spots  = document.getElementById('stat-spots');
+        var groups = document.getElementById('stat-groups');
+        var prefs  = document.getElementById('stat-prefs');
+        if (spots)  spots.textContent  = shops.length;
+        var badgeNum = document.getElementById('hero-badge-num');
+        if (badgeNum) badgeNum.textContent = shops.length;
+        if (groups) groups.textContent = new Set(shops.flatMap(function(s) { return s.groups || (s.group ? [s.group] : []); })).size;
+        if (prefs)  prefs.textContent  = new Set(shops.map(function(s) { return s.prefecture; }).filter(Boolean)).size;
+      })
+      .catch(function() {
+        var s = document.getElementById('latest-feed-section');
+        if (s) s.style.display = 'none';
+      });
+  }
+  if (document.readyState === 'complete') loadFeed();
+  else window.addEventListener('load', loadFeed);
 }());
 </script>

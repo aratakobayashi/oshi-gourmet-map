@@ -68,28 +68,32 @@
   function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
 </script>
 
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8441554925079357"
-     crossorigin="anonymous"></script>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PFYMG6S0Q1"></script>
+<!-- Google tag (gtag.js)：計測は今までどおり。スクリプト本体はページ表示後に読み込む（表示速度のため） -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-PFYMG6S0Q1');
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-PFYMG6S0Q1';
+      document.head.appendChild(s);
+    }, 1500);
+  });
 </script>
 
-<!-- Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700;900&family=Zen+Maru+Gothic:wght@500;700&family=Noto+Sans+JP:wght@400;500&family=DM+Mono&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<!-- フォントは端末標準（Webフォントは読み込まない：表示速度のため） -->
+<link rel="preconnect" href="https://img.youtube.com">
 
-<!-- Leaflet CSS (self-hosted) -->
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.Default.css' | relative_url }}">
+<!-- Leaflet CSS（一覧地図があるページだけ。店舗ページは地図が見えたときに読み込む） -->
+{%- if page.url == '/shops/' or page.layout == 'group' %}
+{%- comment -%} 地図は初期表示では見えないため、CSSは表示を止めずに読み込む {%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.css' | relative_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.Default.css' | relative_url }}" media="print" onload="this.media='all'">
+{%- endif %}
 
 <!-- サイトスタイル -->
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">

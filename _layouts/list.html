@@ -95,7 +95,8 @@ layout: default
     el.removeAttribute('data-genre');
   }
 
-  fetch(base + '/data/shops-lite.json')
+  // そのグループの店舗だけのファイルを読む（全店舗ファイルより大幅に軽い）
+  fetch(base + '/data/shops-lite/' + group + '.json')
     .then(function(r) { return r.json(); })
     .then(function(shops) {
       var matched = shops.filter(function(s) {

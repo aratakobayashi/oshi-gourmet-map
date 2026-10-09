@@ -118,7 +118,7 @@ layout: default
     </div>
     {% if post_image != '' %}
     <div class="article-hero__media">
-      <img src="{{ post_image }}" alt="{{ page.title }}" width="1280" height="720">
+      <img src="{{ post_image }}" alt="{{ page.title }}" width="1280" height="720" fetchpriority="high">
     </div>
     {% endif %}
   </div>
@@ -296,7 +296,8 @@ const SITE_BASEURL = '{{ site.baseurl }}';
     bar.style.width = pct + '%';
   }
   window.addEventListener('scroll', update, { passive: true });
-  update();
+  // 初期計算は最初の描画のあとに行う（描画前のレイアウト計算を避ける）
+  window.addEventListener('load', function() { requestAnimationFrame(update); });
 })();
 
 // 目次自動生成
@@ -404,40 +405,50 @@ document.querySelectorAll('.faq__question').forEach(function(btn) {
     if (articleShops) articleShops.style.display = 'none';
   }
 
-  fetch(base + '/data/shops-lite.json')
-    .then(function(r) { return r.json(); })
-    .then(function(shops) {
-      var byId = {};
-      shops.forEach(function(s) { byId[s.id] = s; });
+  // 店舗カードの場所が画面に近づいたら店舗データを読み込む（表示速度のため）
+  function loadShops() {
+    fetch(base + '/data/shops-lite.json')
+      .then(function(r) { return r.json(); })
+      .then(function(shops) {
+        var byId = {};
+        shops.forEach(function(s) { byId[s.id] = s; });
 
-      // 記事下部・横スクロールカード（インラインカードなし記事のみ）
-      if (!hasInline) {
-        var scrollContainer = document.getElementById('related-shop-cards');
-        if (scrollContainer && typeof buildShopCard === 'function') {
-          var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+        // 記事下部・横スクロールカード（インラインカードなし記事のみ）
+        if (!hasInline) {
+          var scrollContainer = document.getElementById('related-shop-cards');
+          if (scrollContainer && typeof buildShopCard === 'function') {
+            var ids = scrollContainer.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
+            var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
+            if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+          }
+        }
+
+        // 記事本文インラインカード（単体）
+        document.querySelectorAll('.inline-shop-card[data-shop-id]').forEach(function(el) {
+          var shop = byId[el.dataset.shopId];
+          if (shop) el.outerHTML = buildInlineCard(shop);
+          else el.remove(); // ID不明・タイポ時は非表示
+        });
+
+        // 記事本文インライングリッド（複数横スクロール）
+        document.querySelectorAll('.inline-shop-grid[data-shop-ids]').forEach(function(el) {
+          var ids = el.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
           var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
-          if (matched.length) scrollContainer.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-        }
-      }
-
-      // 記事本文インラインカード（単体）
-      document.querySelectorAll('.inline-shop-card[data-shop-id]').forEach(function(el) {
-        var shop = byId[el.dataset.shopId];
-        if (shop) el.outerHTML = buildInlineCard(shop);
-        else el.remove(); // ID不明・タイポ時は非表示
+          if (matched.length && typeof buildShopCard === 'function') {
+            el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
+            el.removeAttribute('data-shop-ids'); // ローディング状態を解除
+          } else {
+            el.remove(); // 該当なし時は非表示
+          }
+        });
       });
-
-      // 記事本文インライングリッド（複数横スクロール）
-      document.querySelectorAll('.inline-shop-grid[data-shop-ids]').forEach(function(el) {
-        var ids = el.dataset.shopIds.split(',').map(function(s) { return s.trim(); });
-        var matched = ids.map(function(id) { return byId[id]; }).filter(Boolean);
-        if (matched.length && typeof buildShopCard === 'function') {
-          el.innerHTML = matched.map(function(s) { return buildShopCard(s); }).join('');
-          el.removeAttribute('data-shop-ids'); // ローディング状態を解除
-        } else {
-          el.remove(); // 該当なし時は非表示
-        }
-      });
-    });
+  }
+  var targets = document.querySelectorAll('.inline-shop-card[data-shop-id], .inline-shop-grid[data-shop-ids], #related-shop-cards');
+  if (!targets.length) return;
+  if (!('IntersectionObserver' in window)) { loadShops(); return; }
+  var io = new IntersectionObserver(function(entries) {
+    if (entries.some(function(e) { return e.isIntersecting; })) { io.disconnect(); loadShops(); }
+  }, { rootMargin: '800px' });
+  targets.forEach(function(t) { io.observe(t); });
 })();
 </script>
