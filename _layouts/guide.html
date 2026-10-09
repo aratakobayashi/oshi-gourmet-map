@@ -31,7 +31,8 @@ layout: default
     </div>
     {% if page.thumbnail %}
     <div class="article-hero__media">
-      <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" width="1200" height="1200">
+      {%- assign thumb_600 = page.thumbnail | replace: '.webp', '_600.webp' -%}
+      <img src="{{ thumb_600 | relative_url }}" srcset="{{ thumb_600 | relative_url }} 600w, {{ page.thumbnail | relative_url }} 1200w" sizes="(max-width: 768px) 100vw, 480px" alt="{{ page.title }}" width="1200" height="1200" fetchpriority="high">
     </div>
     {% endif %}
   </div>
@@ -135,7 +136,8 @@ layout: default
     bar.style.width = pct + '%';
   }
   window.addEventListener('scroll', update, { passive: true });
-  update();
+  // 初期計算は最初の描画のあとに行う（描画前のレイアウト計算を避ける）
+  window.addEventListener('load', function() { requestAnimationFrame(update); });
 })();
 
 // 目次自動生成（記事本文の h2 / h3）
@@ -186,7 +188,7 @@ layout: default
   function esc(s) {
     return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
-  fetch(base + '/data/shops-lite.json').then(function(r) { return r.json(); }).then(function(shops) {
+  function load() { fetch(base + '/data/shops-lite.json').then(function(r) { return r.json(); }).then(function(shops) {
     var near = shops.filter(function(s) { return s.lat && s.lng && !s.closed; })
       .map(function(s) { return { s: s, d: km(lat, lng, s.lat, s.lng) }; })
       .filter(function(x) { return x.d <= MAX_KM; })
@@ -213,7 +215,13 @@ layout: default
     }).join('');
   }).catch(function() {
     listEl.innerHTML = '<p class="guide-nearby__empty">お店の情報を読み込めませんでした。</p>';
-  });
+  }); }
+  // 周辺グルメの欄が画面に近づいたら読み込む（表示速度のため）
+  if (!('IntersectionObserver' in window)) { load(); return; }
+  var io = new IntersectionObserver(function(entries) {
+    if (entries.some(function(e) { return e.isIntersecting; })) { io.disconnect(); load(); }
+  }, { rootMargin: '600px' });
+  io.observe(sec);
 })();
 </script>
 

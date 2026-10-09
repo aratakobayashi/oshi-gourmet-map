@@ -429,15 +429,34 @@ layout: default
 <!-- 地図初期化 -->
 {% if s.lat and s.lng %}
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  var map = L.map('shop-map', { scrollWheelZoom: false }).setView([{{ s.lat }}, {{ s.lng }}], 16);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-  L.marker([{{ s.lat }}, {{ s.lng }}]).addTo(map)
-    .bindPopup({{ s.name | jsonify }})
-    .openPopup();
-});
+// 地図が画面に近づいたときに Leaflet を読み込む（表示速度のため）
+(function() {
+  var el = document.getElementById('shop-map');
+  if (!el) return;
+  var base = '{{ "/assets/vendor/leaflet/" | relative_url }}';
+  function init() {
+    var map = L.map('shop-map', { scrollWheelZoom: false }).setView([{{ s.lat }}, {{ s.lng }}], 16);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+    L.marker([{{ s.lat }}, {{ s.lng }}]).addTo(map)
+      .bindPopup({{ s.name | jsonify }})
+      .openPopup();
+  }
+  function load() {
+    var css = document.createElement('link');
+    css.rel = 'stylesheet'; css.href = base + 'leaflet.css';
+    document.head.appendChild(css);
+    var js = document.createElement('script');
+    js.src = base + 'leaflet.js'; js.onload = init;
+    document.body.appendChild(js);
+  }
+  if (!('IntersectionObserver' in window)) { load(); return; }
+  var io = new IntersectionObserver(function(entries) {
+    if (entries.some(function(e) { return e.isIntersecting; })) { io.disconnect(); load(); }
+  }, { rootMargin: '300px' });
+  io.observe(el);
+})();
 </script>
 {% endif %}
 

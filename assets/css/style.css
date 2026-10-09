@@ -1922,11 +1922,12 @@ img { max-width: 100%; display: block; }
   --c-butter:     #FFE08A;
   --c-white:      #FFFFFF;
 
-  --f-serif: "Noto Serif JP", "Hiragino Mincho ProN", serif;
-  --f-round: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
-  --f-sans:  "Noto Sans JP", system-ui, sans-serif;
-  --f-mono:  "DM Mono", ui-monospace, monospace;
-  --f-hand:  "Caveat", cursive;
+  /* 端末標準フォント（Webフォントは表示速度のため使わない） */
+  --f-serif: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif JP", "Noto Serif CJK JP", serif;
+  --f-round: "Hiragino Maru Gothic ProN", "Hiragino Sans", "Yu Gothic", YuGothic, "Noto Sans JP", sans-serif;
+  --f-sans:  "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, "Noto Sans JP", Meiryo, system-ui, sans-serif;
+  --f-mono:  ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --f-hand:  "Hiragino Maru Gothic ProN", "Yu Gothic", sans-serif;
 
   --r-sm:   8px;
   --r-md:   12px;
