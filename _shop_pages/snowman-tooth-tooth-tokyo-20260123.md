@@ -1,9 +1,9 @@
 ---
 layout: shop
-title: "Snow Manが行った「トークィーンズ事前インタビュー 『TOOTH TOOTH TOKYO』」"
-description: "岩本照【トークィーンズ】事前インタビューロケ地は「TOOTH TOOTH TOKYO」｜SnowMan聖地巡礼で紹介された食事「トークィーンズ事前インタビュー 『TOOTH TOOTH TOKYO』」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+title: "Snow Manが行った「TOOTH TOOTH TOKYO」"
+description: "岩本照【トークィーンズ】事前インタビューロケ地は「TOOTH TOOTH TOKYO」｜SnowMan聖地巡礼で紹介された食事「TOOTH TOOTH TOKYO」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-tooth_tooth_tokyo-20260123"
-name: "トークィーンズ事前インタビュー 『TOOTH TOOTH TOKYO』"
+name: "TOOTH TOOTH TOKYO"
 genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"

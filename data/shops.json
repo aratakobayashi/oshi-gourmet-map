@@ -10936,7 +10936,7 @@
   },
   {
     "id": "equal_love-ef034477-202411",
-    "name": "#ヒロキヤ 六本木",
+    "name": "ヒロキヤ 六本木",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "港区",
@@ -14140,7 +14140,7 @@
   },
   {
     "id": "neajoy-67083c58-202408",
-    "name": "【閉店】さつまいも専門店 箱根おいも大学前",
+    "name": "さつまいも専門店 箱根おいも大学前",
     "genre": "shokuji",
     "prefecture": "神奈川県",
     "city": "足柄下郡箱根町",
@@ -14166,7 +14166,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14080998/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
+    "closed": true
   },
   {
     "id": "neajoy-f961d046-202408",
@@ -28395,7 +28396,7 @@
   },
   {
     "id": "snowman-6dc19258-20260123",
-    "name": "トークィーンズ事前インタビュー 『バビーズ ニューヨーク アークヒルズ』",
+    "name": "バビーズ ニューヨーク アークヒルズ",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "港区",
@@ -28432,7 +28433,7 @@
   },
   {
     "id": "snowman-tooth_tooth_tokyo-20260123",
-    "name": "トークィーンズ事前インタビュー 『TOOTH TOOTH TOKYO』",
+    "name": "TOOTH TOOTH TOKYO",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "渋谷区",
@@ -28748,7 +28749,7 @@
   },
   {
     "id": "snowman-roju_nakameguro-20250121",
-    "name": "【岩本照】ROJU NAKAMEGURO",
+    "name": "ROJU NAKAMEGURO",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "目黒区",
@@ -28821,7 +28822,7 @@
   },
   {
     "id": "snowman-factory-20251209",
-    "name": "ーンズ事前インタビューのカフェ 渋谷『factory』",
+    "name": "factory 渋谷",
     "genre": "cafe",
     "prefecture": "東京都",
     "city": "渋谷区",
@@ -30319,7 +30320,7 @@
   },
   {
     "id": "snowman-collabo-20241205",
-    "name": "お店 【瀬戸内バル Collabo】",
+    "name": "瀬戸内バル Collabo",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "世田谷区",
@@ -52753,7 +52754,7 @@
   },
   {
     "id": "kingprince-c9da85cf-",
-    "name": "【天のや 玉子サンド】オリエタルベーカリー大阪直売店 予約ページ",
+    "name": "オリエタルベーカリー 大阪直売店",
     "genre": "cafe",
     "prefecture": "大阪府",
     "city": "大阪市",

@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'チキン南蛮'}"
-  - "{'name': '地鶏もも串'}"
-  - "{'name': '地鶏もも丼'}"
+  - "チキン南蛮"
+  - "地鶏もも串"
+  - "地鶏もも丼"
 ---
