@@ -203,6 +203,7 @@ heysayjump:        '#ef4444'  // レッド
 | `normalize_links.py` | 外部リンクの正規化（重複削除・食べログURLの店舗トップ化・ホットペッパーの追跡パラメータ除去）。何度実行しても同じ結果 |
 | `generate_lite.py` | shops.json から shops-lite.json / shops-lite/*.json を生成（リニューアル後の画面では未使用） |
 | `build_site_data.py` | 画面用データを生成: _data/shop_cards・group_meta・group_ix・group_detail・nearby・venue_nearby・site_stats と data/explore.json（/shops/ の絞り込み用） |
+| `geocode_gsi.py` | 住所から座標を取り直す（国土地理院アドレス検索API・キー不要）。番地まで一致したとき等だけ更新。既定は試算のみ、--write で書き込み |
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 
@@ -226,6 +227,8 @@ heysayjump:        '#ef4444'  // レッド
 - レイアウトの front matter の body_class は default.html が layout.body_class として読む
 - ヘッダーのメニューは1024px以上（それ未満は下部ナビ）。ヘッダーの検索欄は1180px以上（1024〜1179pxは虫めがねボタン）
 - /shops/ のスマホの「一覧／地図」切り替えは画面下に浮かぶボタン（#fab）
+- /shops/ のPC（1024px以上）は、一覧の店を押すと地図の上に詳細パネルを開く（explore.js。店舗ページを fetch して .shop を差し込む。URLは ?shop=<slug>、戻る・Escで閉じる）。スマホや ?shop= 付きURLをスマホで開いたときは店舗ページへ移る
+- 店舗ページのルート案内・Googleマップは「店名＋住所」で検索（座標が地域の中心になっている店があるため）。住所がない店だけ座標
 - 存在しないURLは 404.html（検索欄と主要ページへの導線）
 - トップ（index.html）だけはリニューアル前のデザイン（写真コラージュ・マスキングテープ・ピンク）。CSSは `_includes/top.css`（旧 style.css からトップで使うルールだけを `.lp` の中に閉じ込めたもの）を head に埋め込む（front matter の inline_css）。「推し活ガイド」の黒いブロックだけ新デザインのまま残している。新着は site_stats.latest / latest_video からページ生成時に書き出す
 - トップのコラージュ・カードのグループ写真は assets/images/groups/<id>_480.webp / _120.webp（元の800px JPEGから作成）

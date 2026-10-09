@@ -48,6 +48,13 @@ scripts:
     <div id="map"></div>
     <a class="mapcard" id="mapcard" href="#" aria-label="選んだお店" hidden></a>
   </div>
+  <section class="detail" id="detail" aria-label="お店の詳細" hidden>
+    <div class="detail__bar">
+      <button type="button" class="btn btn--sm" id="detail-close">× 地図に戻る</button>
+      <span class="detail__actions"><span id="detail-cta"></span><a class="link-more" id="detail-open" href="#">ページを開く ↗</a></span>
+    </div>
+    <div class="detail__body" id="detail-body"></div>
+  </section>
 </div>
 
 <button type="button" class="fab" id="fab" data-view-fab>地図で見る</button>

@@ -33,12 +33,17 @@ body_class: has-sticky
 {%- endif -%}
 {%- if c.hk and site.affiliate.rakuten.id != '' -%}{%- assign has_promo = true -%}{%- endif -%}
 
-{%- if s.lat and s.lng -%}
+{%- comment -%}
+  ルート・Googleマップは「店名＋住所」で案内する（座標が地域の中心になっている店があり、座標だと別の場所へ案内されるため）。
+  住所がない店だけ座標を使う
+{%- endcomment -%}
+{%- if s.address -%}
+  {%- assign place_q = s.name | append: ' ' | append: s.address -%}
+  {%- capture route_url %}https://www.google.com/maps/dir/?api=1&amp;destination={{ place_q | url_encode }}{% endcapture -%}
+  {%- capture gmap_url %}{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://www.google.com/maps/search/?api=1&amp;query={{ place_q | url_encode }}{% endif %}{% endcapture -%}
+{%- elsif s.lat and s.lng -%}
   {%- capture route_url %}https://www.google.com/maps/dir/?api=1&amp;destination={{ s.lat }},{{ s.lng }}{% endcapture -%}
-  {%- capture gmap_url %}{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://www.google.com/maps/search/?api=1&amp;query={{ s.name | append: ' ' | append: s.address | url_encode }}{% endif %}{% endcapture -%}
-{%- elsif s.address -%}
-  {%- capture route_url %}https://www.google.com/maps/dir/?api=1&amp;destination={{ s.address | url_encode }}{% endcapture -%}
-  {%- capture gmap_url %}{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://www.google.com/maps/search/?api=1&amp;query={{ s.name | append: ' ' | append: s.address | url_encode }}{% endif %}{% endcapture -%}
+  {%- capture gmap_url %}{% if s.google_maps_url %}{{ s.google_maps_url }}{% else %}https://www.google.com/maps/search/?api=1&amp;query={{ s.name | append: ' ' | append: s.prefecture | url_encode }}{% endif %}{% endcapture -%}
 {%- endif -%}
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Restaurant","name":{{ s.name | jsonify }}{% if s.description %},"description":{{ s.description | jsonify }}{% endif %}{% if s.address %},"address":{"@type":"PostalAddress","streetAddress":{{ s.address | jsonify }},"addressRegion":{{ s.prefecture | jsonify }},"addressCountry":"JP"}{% endif %}{% if s.lat and s.lng %},"geo":{"@type":"GeoCoordinates","latitude":{{ s.lat }},"longitude":{{ s.lng }}}{% endif %}{% if genre %},"servesCuisine":{{ genre.label | jsonify }}{% endif %},"url":"{{ page.url | absolute_url }}"}</script>
