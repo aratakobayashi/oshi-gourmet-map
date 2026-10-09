@@ -137,7 +137,7 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
         {% when 3 %}<div class="washi-tape washi-tape--mint" style="top:-8px;left:60px;bottom:auto"></div>
         {% endcase %}
         {% if post.thumbnail_video_id %}
-          <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg"
+          <img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp"
                alt="{{ post.title }}" class="article-card__thumb--landing" loading="lazy">
         {% else %}
           <div class="post-hero post-hero--{{ post.group | default: 'default' }} article-card__hero--landing"></div>
@@ -300,7 +300,7 @@ description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメ
       + '</div>';
     var imgHtml;
     if (shop.youtube_id) {
-      imgHtml = '<img class="feed-card__img" src="https://img.youtube.com/vi/' + esc(shop.youtube_id) + '/mqdefault.jpg" alt="' + esc(shop.name) + '" loading="lazy">';
+      imgHtml = '<img class="feed-card__img" src="https://i.ytimg.com/vi_webp/' + esc(shop.youtube_id) + '/mqdefault.webp" alt="' + esc(shop.name) + '" loading="lazy">';
     } else if (shop.thumbnail_url) {
       imgHtml = '<img class="feed-card__img" src="' + esc(shop.thumbnail_url) + '" alt="' + esc(shop.name) + '" loading="lazy" onerror="this.outerHTML=this.dataset.fb" data-fb="' + esc(bannerHtml) + '">';
     } else {

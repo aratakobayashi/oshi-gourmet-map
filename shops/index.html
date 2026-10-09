@@ -21,7 +21,7 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
 </div>
 
 <!-- 統合フィルターモーダル（推し・エリア・人気 3タブ） -->
-<div class="fmodal-overlay fmodal--filter-overlay" id="filter-modal-overlay" aria-hidden="true">
+<div class="fmodal-overlay fmodal--filter-overlay" id="filter-modal-overlay" aria-hidden="true" inert>
   <div class="fmodal fmodal--filter" role="dialog" aria-modal="true" aria-label="絞り込む">
 
     <!-- ヘッダー -->
@@ -127,7 +127,7 @@ description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・
   <div class="shop-controls-bar">
     <p class="result-count" id="result-count"></p>
     <div class="shop-controls-right">
-      <select id="sort-select" class="filter-select filter-select--sort">
+      <select id="sort-select" class="filter-select filter-select--sort" aria-label="並び順">
         <option value="recent">新着順 ▾</option>
         <option value="video">動画あり順</option>
         <option value="nearby">📍 近い順</option>

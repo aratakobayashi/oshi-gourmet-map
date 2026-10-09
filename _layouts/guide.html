@@ -201,7 +201,7 @@ layout: default
     var labels = window.SITE_GROUP_LABELS || {};
     listEl.innerHTML = near.map(function(x) {
       var s = x.s;
-      var thumb = s.youtube_id ? 'https://img.youtube.com/vi/' + esc(s.youtube_id) + '/mqdefault.jpg' : (s.thumbnail_url || '');
+      var thumb = s.youtube_id ? 'https://i.ytimg.com/vi_webp/' + esc(s.youtube_id) + '/mqdefault.webp' : (s.thumbnail_url || '');
       var slug = s.id.replace(/_/g, '-').replace(/-+$/g, '');
       var dist = x.d < 1 ? Math.round(x.d * 1000) + 'm' : x.d.toFixed(1) + 'km';
       return '<div class="inline-shop-card"><a class="inline-shop-card__inner" href="' + base + '/shops/' + slug + '/">'

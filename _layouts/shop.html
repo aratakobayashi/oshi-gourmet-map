@@ -143,7 +143,7 @@ layout: default
   <div class="shop-hero__inner">
     <div class="shop-hero__media">
       {% if s.youtube_id != "" and s.youtube_id %}
-        <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/hqdefault.jpg" alt="{{ s.name }}" fetchpriority="high">
+        <img src="https://i.ytimg.com/vi_webp/{{ s.youtube_id }}/hqdefault.webp" alt="{{ s.name }}" fetchpriority="high">
       {% elsif s.thumbnail_url != "" and s.thumbnail_url %}
         <img src="{{ s.thumbnail_url }}" alt="{{ s.name }}" fetchpriority="high">
       {% else %}
@@ -221,7 +221,7 @@ layout: default
     <div class="shop-videos">
       <a href="https://www.youtube.com/watch?v={{ s.youtube_id }}" class="shop-video-card" target="_blank" rel="noopener">
         <div class="shop-video-card__thumb">
-          <img src="https://img.youtube.com/vi/{{ s.youtube_id }}/mqdefault.jpg" alt="{{ s.source_video_title | default: s.name }}" loading="lazy">
+          <img src="https://i.ytimg.com/vi_webp/{{ s.youtube_id }}/mqdefault.webp" alt="{{ s.source_video_title | default: s.name }}" loading="lazy">
           <div class="shop-video-card__play"><span>▶</span></div>
         </div>
         <div class="shop-video-card__body">
@@ -307,7 +307,7 @@ layout: default
       <a href="{{ post.url | relative_url }}" class="shop-article-card">
         {% if post.thumbnail_video_id %}
         <div class="shop-article-card__thumb">
-          <img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+          <img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
         </div>
         {% endif %}
         <div class="shop-article-card__body">

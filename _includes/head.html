@@ -66,6 +66,13 @@
   window.GROUP_PHOTOS = [{% for f in site.static_files %}{% if f.path contains '/assets/images/groups/' %}"{{ f.basename }}",{% endif %}{% endfor %}];
   function genreLabel(g) { var x = window.GENRE_LABELS[g]; return x ? x.label : g; }
   function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
+  // YouTubeサムネイルのWebP版が無い動画はJPEG版に切り替える
+  document.addEventListener('error', function(e) {
+    var t = e.target;
+    if (t && t.tagName === 'IMG' && t.src.indexOf('/vi_webp/') > -1) {
+      t.src = t.src.replace('/vi_webp/', '/vi/').replace('.webp', '.jpg');
+    }
+  }, true);
 </script>
 
 <!-- Google tag (gtag.js)：計測は今までどおり。スクリプト本体はページ表示後に読み込む（表示速度のため） -->
@@ -85,7 +92,12 @@
 </script>
 
 <!-- フォントは端末標準（Webフォントは読み込まない：表示速度のため） -->
-<link rel="preconnect" href="https://img.youtube.com">
+<link rel="preconnect" href="https://i.ytimg.com">
+{%- if page.layout == 'shop' and page.youtube_id %}
+<link rel="preload" as="image" href="https://i.ytimg.com/vi_webp/{{ page.youtube_id }}/hqdefault.webp" fetchpriority="high">
+{%- elsif page.layout == 'post' and page.thumbnail_video_id %}
+<link rel="preload" as="image" href="https://i.ytimg.com/vi_webp/{{ page.thumbnail_video_id }}/hqdefault.webp" fetchpriority="high">
+{%- endif %}
 
 <!-- Leaflet CSS（一覧地図があるページだけ。店舗ページは地図が見えたときに読み込む） -->
 {%- if page.url == '/shops/' or page.layout == 'group' %}

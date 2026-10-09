@@ -171,7 +171,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
             <div class="ap-crl__item" data-group="{{ post.group }}">
               <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
                 <div class="alc__thumb">
-                  {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                  {% if post.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
                   {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
                   {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
                 </div>
@@ -212,7 +212,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
             {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
             <a href="{{ post.url | relative_url }}" class="alc" data-group="{{ post.group }}" style="--gcolor:{{ gc }}">
               <div class="alc__thumb">
-                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                {% if post.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
                 {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
                 {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
@@ -258,7 +258,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
             <div class="ap-crl__item" data-group="{{ post.group }}">
               <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
                 <div class="alc__thumb">
-                  {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                  {% if post.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
                   {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
                   {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
                 </div>
@@ -299,7 +299,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
             {% for pair in group_labels %}{% assign kv2 = pair | split: ":" %}{% if kv2[0] == post.group %}{% assign gl = kv2[1] %}{% endif %}{% endfor %}
             <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
               <div class="alc__thumb">
-                {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                {% if post.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
                 {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
                 {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
               </div>
@@ -345,7 +345,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
             <div class="ap-crl__item" data-group="{{ post.group }}">
               <a href="{{ post.url | relative_url }}" class="alc" style="--gcolor:{{ gc }}">
                 <div class="alc__thumb">
-                  {% if post.thumbnail_video_id %}<img src="https://img.youtube.com/vi/{{ post.thumbnail_video_id }}/mqdefault.jpg" alt="{{ post.title }}" loading="lazy">
+                  {% if post.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp" alt="{{ post.title }}" loading="lazy">
                   {% elsif post.thumbnail %}<img src="{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy">
                   {% else %}<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,{{ gc }} 100%)"><span>🍽️</span></div>{% endif %}
                 </div>
@@ -404,7 +404,7 @@ description: アイドル・芸人・YouTuberが訪れたグルメスポット�
   var TYPE_CLASSES = { matome: 'alc__type-badge--matome', area: 'alc__type-badge--area', genre: 'alc__type-badge--genre', course: 'alc__type-badge--course', member: 'alc__type-badge--member', season: 'alc__type-badge--season' };
 
   function buildThumb(p) {
-    if (p.vid) return '<img src="https://img.youtube.com/vi/' + p.vid + '/mqdefault.jpg" alt="" loading="lazy">';
+    if (p.vid) return '<img src="https://i.ytimg.com/vi_webp/' + p.vid + '/mqdefault.webp" alt="" loading="lazy">';
     if (p.thumb) return '<img src="' + p.thumb + '" alt="" loading="lazy">';
     var icon = p.genreIcon || '🍽️';
     return '<div class="alc__thumb-placeholder" style="background:linear-gradient(135deg,#1a1a2e 0%,' + p.groupColor + ' 100%)"><span>' + icon + '</span></div>';

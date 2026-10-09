@@ -70,7 +70,7 @@ function renderMapMarkers(shops) {
     const marker = L.marker([shop.lat, shop.lng], { icon });
 
     const thumbSrc = shop.youtube_id
-      ? `https://img.youtube.com/vi/${shop.youtube_id}/mqdefault.jpg`
+      ? `https://i.ytimg.com/vi_webp/${shop.youtube_id}/mqdefault.webp`
       : shop.thumbnail_url || '';
     const thumb = thumbSrc
       ? `<img src="${thumbSrc}" style="width:100%;border-radius:6px;margin-bottom:6px;" loading="eager">`

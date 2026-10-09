@@ -168,6 +168,7 @@ function openFilterModal(tab) {
   if (!overlay) return;
   overlay.classList.add('open');
   overlay.setAttribute('aria-hidden', 'false');
+  overlay.removeAttribute('inert');
   document.body.style.overflow = 'hidden';
   _filterOpen = true;
 
@@ -222,6 +223,7 @@ function _close() {
   if (overlay) {
     overlay.classList.remove('open');
     overlay.setAttribute('aria-hidden', 'true');
+    overlay.setAttribute('inert', '');
   }
   document.body.style.overflow = '';
   _filterOpen = false;
