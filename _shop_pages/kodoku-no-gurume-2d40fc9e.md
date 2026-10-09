@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '肩ロースカツ定食'}"
+  - "肩ロースカツ定食"
 ---

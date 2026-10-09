@@ -35,7 +35,7 @@ faq:
 
 > 24時間営業なので、混雑を避けるなら**深夜か早朝の訪問**がおすすめ。予約不可のため当日並びが基本。中野駅北口から徒歩2分とアクセス抜群。
 
-<div class="inline-shop-card" data-shop-id="yonino-ichiran-nakano"></div>
+{% include inline-shop-card.html shop_id="yonino-ichiran-nakano" %}
 
 ## 利尻らーめん味楽 新横浜ラーメン博物館店（#507・2026年3月）
 
@@ -43,7 +43,7 @@ faq:
 
 > 入館料（大人450円）が別途必要。館内には複数の有名ラーメン店があるので、**利尻以外にも1〜2杯食べ比べる計画**で訪れると満足度が高い。新横浜駅から徒歩5分。
 
-<div class="inline-shop-card" data-shop-id="yonino-rishiri-ramen"></div>
+{% include inline-shop-card.html shop_id="yonino-rishiri-ramen" %}
 
 ## 2店を巡る訪問プラン
 

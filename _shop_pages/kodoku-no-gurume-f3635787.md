@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '牛タン焼き'}"
-  - "{'name': 'テール焼き'}"
-  - "{'name': 'テールスープ'}"
+  - "牛タン焼き"
+  - "テール焼き"
+  - "テールスープ"
 ---

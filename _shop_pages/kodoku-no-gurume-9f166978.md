@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'オーカク（塩）'}"
-  - "{'name': 'ホルモンそば'}"
-  - "{'name': 'サイコロステーキ'}"
+  - "オーカク（塩）"
+  - "ホルモンそば"
+  - "サイコロステーキ"
 ---

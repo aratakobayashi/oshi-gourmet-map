@@ -28,7 +28,7 @@ faq:
 
 よにのちゃんねるのファンなら一度は聞いたことがある名前、<mark>浅草もんじゃ てっぱん大吉</mark>。**#272から始まり#490の忘年会でも再登場**した「よにの公認聖地」と呼ばれるほどの名店だ。1店が動画に2回登場するのはよにのチャンネルでも珍しく、それだけメンバーが気に入っていることの証明でもある。
 
-<div class="inline-shop-card" data-shop-id="yonino-teppan-daikichi"></div>
+{% include inline-shop-card.html shop_id="yonino-teppan-daikichi" %}
 
 ## #272の夜ごはんと#490の忘年会
 

@@ -21,5 +21,5 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': '味噌バターラーメン'}"
+  - "味噌バターラーメン"
 ---

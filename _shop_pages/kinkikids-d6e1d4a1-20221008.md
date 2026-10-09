@@ -20,5 +20,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': '焼餃子'}"
+  - "焼餃子"
 ---

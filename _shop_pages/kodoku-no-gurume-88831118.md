@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'マッシュルームガーリック'}"
-  - "{'name': 'カキグラタン'}"
+  - "マッシュルームガーリック"
+  - "カキグラタン"
 ---

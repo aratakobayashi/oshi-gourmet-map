@@ -25,11 +25,11 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 ユニークなロケ地も多い。「**つり堀 武蔵野園**」（釣り堀併設の食事処）・「**コンマ コーヒー**」（カフェ系）・「**鳥取市役所 食堂**」（市役所内の食堂）はその代表格。さらに「**みっちゃん**」（広島風お好み焼きの名店・そばを重ねる広島スタイルは麺料理の一形態）・「**まつやホルモン店**」（ホルモン料理×麺の大衆的な一軒）・「**さかな工房 丸万**」（魚介メインの食事処）・「**喫茶カラス**」（昭和の純喫茶・スパゲッティなど洋食麺が並ぶ）・「**多津美**」「**ちとせ**」「**味の五十番**」（大衆中華）も。チェーン店ではなく「街の名もない一軒」を選び続けるのが孤独のグルメらしさだ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-4584ecd5-,kodoku_no_gurume-5e28c0e3-,kodoku_no_gurume-e8b0cb92-,kodoku_no_gurume-18bcf79f-,kodoku_no_gurume-4b835120-,kodoku_no_gurume-d80cbad7-,kodoku_no_gurume-991c519b-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-4584ecd5-,kodoku_no_gurume-5e28c0e3-,kodoku_no_gurume-e8b0cb92-,kodoku_no_gurume-18bcf79f-,kodoku_no_gurume-4b835120-,kodoku_no_gurume-d80cbad7-,kodoku_no_gurume-991c519b-" %}
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-f06c8c10-,kodoku_no_gurume-e8e1b07c-,kodoku_no_gurume-c04481e8-,kodoku_no_gurume-04750cfb-,kodoku_no_gurume-c8d36684-,kodoku_no_gurume-f5a8fc06-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-f06c8c10-,kodoku_no_gurume-e8e1b07c-,kodoku_no_gurume-c04481e8-,kodoku_no_gurume-04750cfb-,kodoku_no_gurume-c8d36684-,kodoku_no_gurume-f5a8fc06-" %}
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-aa6d4a25-,kodoku_no_gurume-sokabokka-,kodoku_no_gurume-265d5f69-,kodoku_no_gurume-f729085e-,kodoku_no_gurume-9f166978-,kodoku_no_gurume-13bbbbfb-,kodoku_no_gurume-16043b2f-,kodoku_no_gurume-f17863ed-,kodoku_no_gurume-d9f20c2f-,kodoku_no_gurume-c84527df-,kodoku_no_gurume-287cf4f8-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-aa6d4a25-,kodoku_no_gurume-sokabokka-,kodoku_no_gurume-265d5f69-,kodoku_no_gurume-f729085e-,kodoku_no_gurume-9f166978-,kodoku_no_gurume-13bbbbfb-,kodoku_no_gurume-16043b2f-,kodoku_no_gurume-f17863ed-,kodoku_no_gurume-d9f20c2f-,kodoku_no_gurume-c84527df-,kodoku_no_gurume-287cf4f8-" %}
 
 ## 乃木坂46（14件）：全国麺グルメ探訪
 
@@ -41,9 +41,9 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **全国・その他**は「**博多らーめん ShinShin 天神本店**」（博多を代表する豚骨ラーメン）・横浜ラーメン博物館内「**利尻らーめん味楽**」（昆布だし醤油ラーメン・よにのとも共通）・「**竹やぶ**」（打ちたてにこだわる本格手打ちそばの名店）・「**焼きそば たつみ亭**」（ソース焼きそば専門・地元に根付いた昭和の味）・「**和風カレー さや**」（和出汁×スパイスの個性的なカレーうどん系）も。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-84c802d9-,nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-9be54ae5-,nogizaka46-e5fdf419-,nogizaka46-9f892298-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-84c802d9-,nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-9be54ae5-,nogizaka46-e5fdf419-,nogizaka46-9f892298-" %}
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-7b18f3dd-,nogizaka46-ab929a12-,nogizaka46-ffa301c4-,nogizaka46-shinshin-,nogizaka46-6d41a5ca-,nogizaka46-241b6933-,nogizaka46-23d7a99a-,nogizaka46-f36ca7b7-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-7b18f3dd-,nogizaka46-ab929a12-,nogizaka46-ffa301c4-,nogizaka46-shinshin-,nogizaka46-6d41a5ca-,nogizaka46-241b6933-,nogizaka46-23d7a99a-,nogizaka46-f36ca7b7-" %}
 
 ## 亀梨和也（11件）：博多屋台から全国麺探訪
 
@@ -53,9 +53,9 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **全国の個性派麺**では「**鶏そば２２３**」「**自家製麺223**」（同系列・鶏だしの清湯ラーメン）・「**一蘭 原宿店**」（一人で集中して食べる味集中カウンター）・「**牛骨ごっつおらーめん 鳥取店**」（鳥取のご当地牛骨ラーメン）・「**盛楼閣**」（盛岡冷麺の名店）・「**焼肉 冷麺 ユッチャン。銀座店**」（銀座の韓国冷麺）・「**手打釜揚げうどん 岩見**」（手打ちのこだわりうどん）・「**Hohokam DINER**」（2024年4月）の幅広い麺文化をカバー。
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-6606003d-202407,kamenashi-e27eb84b-202404,kamenashi-7cbda6f7-202404,kamenashi-0a3faf7a-202410,kamenashi-95d73497-202504"></div>
+{% include inline-shop-grid.html ids="kamenashi-6606003d-202407,kamenashi-e27eb84b-202404,kamenashi-7cbda6f7-202404,kamenashi-0a3faf7a-202410,kamenashi-95d73497-202504" %}
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-223-202404,kamenashi-223-202401,kamenashi-b2d66125-202507,kamenashi-814e2aa9-202408,kamenashi-e61d8104-202502,kamenashi-hohokam_diner-20240413"></div>
+{% include inline-shop-grid.html ids="kamenashi-223-202404,kamenashi-223-202401,kamenashi-b2d66125-202507,kamenashi-814e2aa9-202408,kamenashi-e61d8104-202502,kamenashi-hohokam_diner-20240413" %}
 
 ## =LOVE（9件）：激辛・二郎系・がっつり系
 
@@ -63,9 +63,9 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 「**ラーメン山岡家**」を越谷レイクタウン・青梅の2店舗コンプリートしているのも印象的。他に「**らうめん侍 本丸**」（豪快な一杯）・「**油そば春日亭 神田店**」（油そば専門）・「**らーめん ぽっぽっ屋 水道橋店**」・「**一蘭 池袋店**」と、池袋〜板橋エリアに聖地が集まっている。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-7aed8c96-202501,equal_love-cd18dd9d-202408,equal_love-1296f01f-202603,equal_love-62bce5f5-202410,equal_love-26520a35-202508"></div>
+{% include inline-shop-grid.html ids="equal_love-7aed8c96-202501,equal_love-cd18dd9d-202408,equal_love-1296f01f-202603,equal_love-62bce5f5-202410,equal_love-26520a35-202508" %}
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-7cbba11a-202408,equal_love-c2edb8b6-202408,equal_love-85f871ac-202512,equal_love-287b97eb-202506"></div>
+{% include inline-shop-grid.html ids="equal_love-7cbba11a-202408,equal_love-c2edb8b6-202408,equal_love-85f871ac-202512,equal_love-287b97eb-202506" %}
 
 ## よにのちゃんねる（6件）・ねあじょい（5件）
 
@@ -73,9 +73,9 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **ねあじょい**は「**みそきん**」（=LOVEと共通店・HIKAKINコラボ）・「**人類みな麺類**」（大阪の人気高評価店）・「**天下一品 中野店**」（こってり系の定番）・「**目黒魂心家**」（家系ラーメン）・「**北ノ醤油チーホー**」（2026年4月・北海道醤油系）の5店。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-spice-ramen-tenten,yonino-kaotan-ramen,yonino-mukann-yokohama,yonino-hakata-genki-ippai,yonino-ichiran-nakano,yonino-rishiri-ramen"></div>
+{% include inline-shop-grid.html ids="yonino-spice-ramen-tenten,yonino-kaotan-ramen,yonino-mukann-yokohama,yonino-hakata-genki-ippai,yonino-ichiran-nakano,yonino-rishiri-ramen" %}
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-9c15ea70-202510,neajoy-ec121482-202408,neajoy-403503b7-202408,neajoy-085d4b4a-202506,neajoy-6ad11682-202604"></div>
+{% include inline-shop-grid.html ids="neajoy-9c15ea70-202510,neajoy-ec121482-202408,neajoy-403503b7-202408,neajoy-085d4b4a-202506,neajoy-6ad11682-202604" %}
 
 ## SixTONES（4件）・Snow Man（3件）・なにわ男子（4件）
 
@@ -85,11 +85,11 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **なにわ男子**は「麺の多様性」が際立つ：「**そうめん そそそ 研究室**」（そうめん専門店というユニーク路線）・「**鳥藤 とりそばスタンド**」（鶏だし系）・「**むぎとオリーブ**」（オリーブオイル×麺のモダンスタイル）・「**回転わんこそば・くるくるわんこ**」（岩手わんこそばの体験型）と、4店すべてが個性的。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-ramen-hakubutsukan,sixtones-minmin-hachioji,sixtones-a3a0ff52-202003,sixtones-sano-sa-foodcourt"></div>
+{% include inline-shop-grid.html ids="sixtones-ramen-hakubutsukan,sixtones-minmin-hachioji,sixtones-a3a0ff52-202003,sixtones-sano-sa-foodcourt" %}
 
-<div class="inline-shop-grid" data-shop-ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-2b4ef35a-20260129"></div>
+{% include inline-shop-grid.html ids="snowman-abura-gakkai-waseda,snowman-ekawatei-koganei,snowman-2b4ef35a-20260129" %}
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-b723a30f-202107,naniwa-795165bd-20220520,naniwa-56665469-20211217,naniwa-269b1b4d-20220708"></div>
+{% include inline-shop-grid.html ids="naniwa-b723a30f-202107,naniwa-795165bd-20220520,naniwa-56665469-20211217,naniwa-269b1b4d-20220708" %}
 
 ## 複数グループが訪れた共通店
 
@@ -99,15 +99,15 @@ summary: "孤独のグルメ（24件）・乃木坂46（14件）・亀梨和也�
 
 **「みそきん」**は=LOVE（池袋）とねあじょいの2グループ共通。HIKAKIN監修ラーメンはアイドルファンにも定着した現代の定番聖地。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-ichiran-nakano,sixtones-a3a0ff52-202003,kamenashi-0a3faf7a-202410,equal_love-287b97eb-202506"></div>
+{% include inline-shop-grid.html ids="yonino-ichiran-nakano,sixtones-a3a0ff52-202003,kamenashi-0a3faf7a-202410,equal_love-287b97eb-202506" %}
 
-<div class="inline-shop-grid" data-shop-ids="yonino-rishiri-ramen,nogizaka46-6d41a5ca-,sixtones-ramen-hakubutsukan,equal_love-1296f01f-202603,neajoy-9c15ea70-202510"></div>
+{% include inline-shop-grid.html ids="yonino-rishiri-ramen,nogizaka46-6d41a5ca-,sixtones-ramen-hakubutsukan,equal_love-1296f01f-202603,neajoy-9c15ea70-202510" %}
 
 ## Hey!Say!JUMP・日向坂46・しおり
 
 **Hey!Say!JUMP**は2016年の3店：新宿の「**爆裂石焼らーめん一兆**」「**汁いち**」・赤坂の「**秀ちゃんラーメン赤坂**」。ロケが古いため現在の営業状況は訪問前に要確認。**日向坂46**は千葉・銚子の「**お食事処ゆうなぎ**」、**しおり**は「**竹虎**」（2024年6月）の各1店。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605"></div>
+{% include inline-shop-grid.html ids="heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605" %}
 
 ## エリア別ラーメン聖地巡礼ルート
 

@@ -19,5 +19,6 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': 'チャーシューホットサンド\\n400円'}"
+  - "チャーシューホットサンド
+400円"
 ---

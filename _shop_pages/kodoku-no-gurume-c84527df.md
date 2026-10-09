@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '伊勢うどん（肉月見・えび天トッピング）'}"
+  - "伊勢うどん（肉月見・えび天トッピング）"
 ---

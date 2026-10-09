@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '米沢牛そぼろ（精肉店テイクアウト）'}"
+  - "米沢牛そぼろ（精肉店テイクアウト）"
 ---

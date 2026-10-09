@@ -1,25 +1,42 @@
 ---
 layout: default
-title: お気に入り | 推しグルメ聖地MAP
-description: ハートで保存したグルメスポットの一覧です。
+title: 保存したお店
+description: 保存したお店の一覧です。保存した内容はこのブラウザだけに記録されます。
+js_data: true
 ---
-
-<div class="container">
-  <div class="fav-page-header">
-    <h1 class="fav-page-header__title">♡ お気に入り</h1>
-    <div class="fav-page-header__sub">
-      <span id="fav-count" class="fav-count"></span>
-      <button id="fav-clear-btn" class="fav-clear-btn" style="display:none">すべて削除</button>
-    </div>
-  </div>
-  <p class="fav-note">このブラウザ・端末のみで保存されます。</p>
-</div>
-
-<div class="container">
-  <div class="shop-cards" id="fav-grid">
-    <p class="loading">読み込み中...</p>
+<div class="wrap">
+  <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">保存</li></ol>
+  <h1 class="page-title">保存したお店</h1>
+  <p class="page-lead">保存した内容は、このブラウザ・端末だけに記録されます。</p>
+  <div class="resbar"><p><strong id="fav-count">0</strong> 軒</p><button type="button" class="linkbtn" id="fav-clear" hidden>すべて削除</button></div>
+  <div class="rows" id="fav-rows"></div>
+  <div class="empty" id="fav-empty" hidden>
+    <p>まだ保存したお店はありません。<br>お店のページや一覧の「保存」を押すと、ここに並びます。</p>
+    <p style="margin-top:16px"><a class="btn btn--ink" href="{{ '/shops/' | relative_url }}">お店を探す</a></p>
   </div>
 </div>
-
-<script>const SITE_BASEURL = '{{ site.baseurl }}';</script>
-<script src="{{ '/assets/js/favorites.js' | relative_url }}"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  var ui = window.shopUI, rows = document.getElementById('fav-rows');
+  function ids() { return ui.favs(); }
+  function show(data) {
+    var saved = ids(), map = {};
+    data.forEach(function (r) { map[r[0]] = r; });
+    var list = saved.slice().reverse().map(function (id) { return map[id]; }).filter(Boolean);
+    document.getElementById('fav-count').textContent = list.length;
+    document.getElementById('fav-empty').hidden = list.length > 0;
+    document.getElementById('fav-clear').hidden = !list.length;
+    rows.innerHTML = list.map(ui.row).join('');
+    window.paintFavs(rows);
+  }
+  if (!ids().length) { show([]); return; }
+  fetch((window.BASE || '') + '/data/explore.json').then(function (r) { return r.json(); }).then(function (data) {
+    show(data);
+    document.getElementById('fav-clear').onclick = function () {
+      if (!confirm('保存したお店をすべて削除しますか？')) return;
+      try { localStorage.removeItem('fav_shops'); } catch (e) {}
+      show(data);
+    };
+  });
+});
+</script>

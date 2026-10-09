@@ -18,4 +18,5 @@ lat: 34.97552797872497
 lng: 138.38714114822304
 groups:
   - "nogizaka46"
+closed: true
 ---

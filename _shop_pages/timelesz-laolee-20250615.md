@@ -22,5 +22,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '台湾餃子LAOLEE（ラオリー）'}"
+  - "台湾餃子LAOLEE（ラオリー）"
 ---

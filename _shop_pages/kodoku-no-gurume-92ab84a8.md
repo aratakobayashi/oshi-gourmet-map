@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ステーキ丼'}"
-  - "{'name': '旬野菜のゴマ和え'}"
-  - "{'name': 'ワカサギの南蛮漬け'}"
+  - "ステーキ丼"
+  - "旬野菜のゴマ和え"
+  - "ワカサギの南蛮漬け"
 ---

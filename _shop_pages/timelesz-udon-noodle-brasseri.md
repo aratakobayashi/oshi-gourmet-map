@@ -23,5 +23,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '徳島直送 すだちのおうどん'}"
+  - "徳島直送 すだちのおうどん"
 ---

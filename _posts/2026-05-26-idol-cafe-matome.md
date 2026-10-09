@@ -56,13 +56,13 @@ faq:
 
 よにのちゃんねるの4人はコーヒー好きで知られており、登場するカフェもスペシャルティコーヒー専門店が中心。**世界に数店舗しかないSTARBUCKS RESERVE ROASTERY TOKYO**（目黒区）をはじめ、Beasty Coffee・TAOCA COFFEE・Paul Bassett・VERVE COFFEE ROASTERSなど**東京トップクラスのコーヒースポット**が勢揃いする。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-starbucks-reserve-roastery,yonino-beasty-coffee,yonino-taoca-coffee,yonino-paul-bassett-shinjuku,yonino-verve-coffee-ebisu,yonino-passage-coffee"></div>
+{% include inline-shop-grid.html ids="yonino-starbucks-reserve-roastery,yonino-beasty-coffee,yonino-taoca-coffee,yonino-paul-bassett-shinjuku,yonino-verve-coffee-ebisu,yonino-passage-coffee" %}
 
 軽井沢ロケでは**丸山珈琲 ハルニレテラス店**が登場。長野・軽井沢を代表するスペシャルティコーヒーの聖地で、観光ついでの立ち寄りにも最適だ。都内ではブルーボトルコーヒー新宿カフェ・LATTE ART MANIA・神楽坂コーヒースタンドなど、バラエティ豊かな選択肢が揃う。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-blue-bottle-shinjuku,yonino-maruyama-coffee-karuizawa,yonino-iki-espresso,yonino-latte-art-mania,yonino-donish-coffee-kagurazaka,yonino-blue-six-coffee"></div>
+{% include inline-shop-grid.html ids="yonino-blue-bottle-shinjuku,yonino-maruyama-coffee-karuizawa,yonino-iki-espresso,yonino-latte-art-mania,yonino-donish-coffee-kagurazaka,yonino-blue-six-coffee" %}
 
-<div class="inline-shop-grid" data-shop-ids="yonino-cozy-style-coffee,yonino-double-tall-coffee-shinjuku,yonino-le-pain-quotidien,yonino-streamer_coffee_comp-20260201,yonino-0685dfb8-202506,yonino-beasty_coffee__cafe_-20251207"></div>
+{% include inline-shop-grid.html ids="yonino-cozy-style-coffee,yonino-double-tall-coffee-shinjuku,yonino-le-pain-quotidien,yonino-streamer_coffee_comp-20260201,yonino-0685dfb8-202506,yonino-beasty_coffee__cafe_-20251207" %}
 
 > **よにのカフェ巡礼メモ**：よにのが選ぶカフェは「コーヒーの質にこだわる店」が共通点。スタバリザーブ・Paul Bassett・TAOCA COFFEEはいずれも豆の産地・焙煎にこだわるスペシャルティ系。コーヒー好きな推しと共通の話題づくりにも使える。
 
@@ -74,15 +74,15 @@ faq:
 
 乃木坂46は番組ロケで全国各地のカフェに登場しており、東京だけでなく**鎌倉・名古屋・沼津・函館・大阪**まで幅広い。なかでも鎌倉の**「umi cafe」**は海を見渡す絶景で放送後に予約が急増した人気店。同じく鎌倉の**「イワタコーヒー店」**は1948年創業の老舗で、厚焼きパンケーキが名物だ。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-3bd4b889-,nogizaka46-freddy_leck_sein_was-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-3bd4b889-,nogizaka46-freddy_leck_sein_was-" %}
 
 東京では千代田区の**「GOOD MORNING CAFE 錦町」**や浅草の**「花月堂 本店」**、渋谷パルコの**「アメージングコーヒー」**など個性派が揃う。名古屋ロケでは**「喫茶ニューポピー」「喫茶ツヅキ」**の昭和レトロ喫茶2軒が話題を呼んだ。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-shibuya_tsutaya-,nogizaka46-f23c267b-,nogizaka46-e767374d-,nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-4eba1f02-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-shibuya_tsutaya-,nogizaka46-f23c267b-,nogizaka46-e767374d-,nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-4eba1f02-" %}
 
 渋谷の「FLAMINGO」はアメリカンヴィンテージ雑貨と一体化したユニークなカフェ。中央区の「数寄屋橋茶房」は銀座の老舗茶房で落ち着いた雰囲気が魅力。函館の「スナッフルス 金森洋物館店」と札幌の「乃木坂な妻たち」は全国ロケならではのご当地カフェとして記憶に残る。名古屋の「つばめパン＆Milk 尼ケ坂本店」はご当地モーニングが名物の地元密着型カフェだ。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-flamingo-,nogizaka46-ccecce7f-,nogizaka46-9d97e3e3-,nogizaka46-dcca8bec-,nogizaka46-3d56208f-,nogizaka46-milk-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-flamingo-,nogizaka46-ccecce7f-,nogizaka46-9d97e3e3-,nogizaka46-dcca8bec-,nogizaka46-3d56208f-,nogizaka46-milk-" %}
 
 ---
 
@@ -92,9 +92,9 @@ faq:
 
 =LOVEのカフェ選びは**韓国系・個性派**が目立つ。新大久保の**「2D Cafe」**は2次元風のインテリアで有名で、推しのうちわを持ち込んでの撮影スポットとしても人気。上野御徒町の**「不純喫茶ドープ」**はレトロ喫茶とインスタ映えが融合した話題店だ。
 
-<div class="inline-shop-grid" data-shop-ids="equallove_005,equallove_003,equallove_002,equal_love-e732d9bf-202506,equal_love-coa_ginza-20251006,equallove_006"></div>
+{% include inline-shop-grid.html ids="equallove_005,equallove_003,equallove_002,equal_love-e732d9bf-202506,equal_love-coa_ginza-20251006,equallove_006" %}
 
-<div class="inline-shop-grid" data-shop-ids="equallove_008,equal_love-mateki-202408,equal_love-gebura-20250915,equal_love-6e007468-202408"></div>
+{% include inline-shop-grid.html ids="equallove_008,equal_love-mateki-202408,equal_love-gebura-20250915,equal_love-6e007468-202408" %}
 
 ---
 
@@ -104,13 +104,13 @@ faq:
 
 <mark>King & Prince（渋谷店）とSnow Man（表参道店）</mark>の両方に登場したのが**「ブレッツカフェ クレープリー」**。フランス・ブルターニュ発祥のガレット・クレープ専門店で、東京を代表するカフェのひとつ。推し被りスポットとして聖地巡礼の定番になっている。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-6b77790e-20221022,snowman-brettz-cafe-omotesando"></div>
+{% include inline-shop-grid.html ids="kingprince-6b77790e-20221022,snowman-brettz-cafe-omotesando" %}
 
 ## SixTONES・King & Prince：東京カフェ名店
 
 SixTONESは**「Café 1894」**（千代田区・三菱一号館美術館内）のような格式ある名店が印象的。King & Princeは渋谷の**「ブーランジェリー＆カフェ マンマーノ」**と浅草の**「珈琲 王城」**という人気店が揃う。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-cafe1894-marunouchi,sixtones-lacocorico-akarenga,sixtones-horaibashi-chaya,kingprince-9ca66867-20220618,kingprince-6ee5087d-20221203,kingprince-racines_donut_ice_cr-20221015"></div>
+{% include inline-shop-grid.html ids="sixtones-cafe1894-marunouchi,sixtones-lacocorico-akarenga,sixtones-horaibashi-chaya,kingprince-9ca66867-20220618,kingprince-6ee5087d-20221203,kingprince-racines_donut_ice_cr-20221015" %}
 
 ---
 
@@ -122,9 +122,9 @@ SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全ま�
 
 なにわ男子は**「TruffleBAKERY」**（江東区）と**「MUUN seoul」**（渋谷区）が代表格。Snow Manは**「mipig cafe 目黒店」**（ミニブタカフェ）や埼玉・秩父の**「カフェ 武甲庵」**など、王道とユニークを使い分けるセレクトが特徴だ。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-trufflebakery-20211001,naniwa-muun_seoul-20201023,naniwa-pst-20210820,naniwa-le_bresso-202110,snowman-mipig-cafe-meguro,snowman-d1966575-20251119"></div>
+{% include inline-shop-grid.html ids="naniwa-trufflebakery-20211001,naniwa-muun_seoul-20201023,naniwa-pst-20210820,naniwa-le_bresso-202110,snowman-mipig-cafe-meguro,snowman-d1966575-20251119" %}
 
-<div class="inline-shop-grid" data-shop-ids="snowman-jelly_jelly_cafe-20250320"></div>
+{% include inline-shop-grid.html ids="snowman-jelly_jelly_cafe-20250320" %}
 
 ---
 
@@ -138,11 +138,11 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 **not me**の沖縄ロケでは**「タコライスcafe きじむなぁ」**と**「ブルーシールカフェ」**が登場。原宿の**「猫カフェ MOCHA」**や池袋の**「SANRIO CAFE」**など、ビジュアル映えする体験型カフェも揃う。
 
-<div class="inline-shop-grid" data-shop-ids="neajoy-b1d5f8cd-202408,neajoy-samoyed_cafe_al-202509,notme-mocha-202408,notme-sanrio_cafe-202408,notme-cafe-202411,notme-b9e687dc-202411"></div>
+{% include inline-shop-grid.html ids="neajoy-b1d5f8cd-202408,neajoy-samoyed_cafe_al-202509,notme-mocha-202408,notme-sanrio_cafe-202408,notme-cafe-202411,notme-b9e687dc-202411" %}
 
 **桜坂46**の**「喫茶パオーン」**（世田谷区）、**中丸雄一（銀河チャンネル）**の**「大久堂 OKUDO カフェ」「スタジオカフェ MARU」**（新宿区）、**かまいたち**の**「コロラド」**（大阪）と、グループを問わず個性的なカフェが並ぶ。
 
-<div class="inline-shop-grid" data-shop-ids="sakurazaka46-kissa-paon,ginga-okudo-202407,ginga-maru-202407,kamaitachi-b9386654-,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-"></div>
+{% include inline-shop-grid.html ids="sakurazaka46-kissa-paon,ginga-okudo-202407,ginga-maru-202407,kamaitachi-b9386654-,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-" %}
 
 ## エリア別推しカフェ巡礼ルート
 

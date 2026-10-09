@@ -29,6 +29,6 @@ members:
 groups:
   - "snowman"
 ordered_items:
-  - "{'name': '八王子ナポリタン'}"
-  - "{'name': '八王子白ナポリタン'}"
+  - "八王子ナポリタン"
+  - "八王子白ナポリタン"
 ---

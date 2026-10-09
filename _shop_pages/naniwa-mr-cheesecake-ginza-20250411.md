@@ -20,5 +20,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '▶デザートコース 6,930円'}"
+  - "▶デザートコース 6,930円"
 ---

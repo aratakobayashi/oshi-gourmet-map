@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'タンメン'}"
-  - "{'name': '餃子'}"
+  - "タンメン"
+  - "餃子"
 ---

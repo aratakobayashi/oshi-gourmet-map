@@ -1,0 +1,6 @@
+{%- if include.html contains '<h2' %}
+<details class="toc" data-toc{% if include.open %} open{% endif %}>
+  <summary>目次</summary>
+  <ol></ol>
+</details>
+{%- endif %}

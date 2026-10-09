@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'わさびカルビ'}"
-  - "{'name': '卵かけご飯'}"
+  - "わさびカルビ"
+  - "卵かけご飯"
 ---

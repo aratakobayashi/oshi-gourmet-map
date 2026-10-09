@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '牛肉のスタミナ炒め定食'}"
-  - "{'name': 'ねぎ玉'}"
-  - "{'name': 'カツ煮'}"
+  - "牛肉のスタミナ炒め定食"
+  - "ねぎ玉"
+  - "カツ煮"
 ---

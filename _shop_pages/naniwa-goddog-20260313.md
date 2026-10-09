@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': 'ゴッドドッグ 700円'}"
+  - "ゴッドドッグ 700円"
 ---

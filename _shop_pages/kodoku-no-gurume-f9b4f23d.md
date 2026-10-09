@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ポパイベーコン'}"
-  - "{'name': 'サンマクンセイ刺'}"
-  - "{'name': '煮込み'}"
+  - "ポパイベーコン"
+  - "サンマクンセイ刺"
+  - "煮込み"
 ---

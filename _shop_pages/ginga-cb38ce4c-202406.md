@@ -23,5 +23,5 @@ members:
 groups:
   - "ginga"
 ordered_items:
-  - "{'name': '『金目鯛と仙台牛の銘々会席』'}"
+  - "『金目鯛と仙台牛の銘々会席』"
 ---

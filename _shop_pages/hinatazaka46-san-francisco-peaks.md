@@ -18,4 +18,5 @@ lat: 35.6720008
 lng: 139.7092408
 groups:
   - "hinatazaka46"
+closed: true
 ---

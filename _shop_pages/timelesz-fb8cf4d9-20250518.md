@@ -22,5 +22,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '金目鯛の紅白二色丼定食'}"
+  - "金目鯛の紅白二色丼定食"
 ---

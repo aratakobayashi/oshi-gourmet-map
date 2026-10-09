@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ぼたん鍋'}"
-  - "{'name': '山の芋とろろ'}"
-  - "{'name': '〆ごはん（生卵入り）'}"
+  - "ぼたん鍋"
+  - "山の芋とろろ"
+  - "〆ごはん（生卵入り）"
 ---

@@ -1,370 +1,103 @@
 ---
 layout: default
-title: 推しグルメ巡礼MAP｜聖地めぐりガイド
-description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメなど人気アイドル・芸人・YouTuberが訪れた2,300件以上のグルメスポットを地図で探せる聖地巡礼ガイド。
+title: 推しグルメ巡礼MAP｜推しが行ったお店の聖地めぐりガイド
+description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメなど、アイドル・芸人・YouTuber・ドラマで紹介された2,300件以上のお店を地図とリストで探せる聖地巡礼ガイド。
 ---
-<script>window.SITE_BASEURL = '{{ site.baseurl }}';</script>
-
-<!-- ヒーロー -->
-<section class="hero">
-  <div class="container hero__inner">
-    <div class="hero__text">
-      <p class="hero__eyebrow">✦ TODAY'S 推しめし</p>
-      <h1 class="hero__title">
-        推しが食べた、<br>
-        <span class="hero__highlight">あの一皿</span>を、<br>
-        わたしも。
-      </h1>
-      <p class="hero__sub">
-        アイドル・芸人・YouTuberが訪れたお店を<br>
-        YouTube・テレビ番組からリサーチしてマッピング。
-      </p>
-      <div class="hero__actions">
-        <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す →</a>
-        <a href="#groups" class="hero__btn hero__btn--secondary">グループで絞る</a>
-      </div>
-      <div class="hero__stats">
-        <div class="hero__stat">
-          <span class="hero__stat-num" id="stat-spots">—</span>
-          <span class="hero__stat-label">収録スポット</span>
+{%- assign st = site.data.site_stats -%}
+{%- assign gm = site.data.group_meta -%}
+<section class="wrap hero">
+  <div class="hero__grid">
+    <div>
+      <p class="meta">{{ st.shops | default: 0 }}軒・{{ st.groups }}組の推しが訪れたお店</p>
+      <h1 class="hero__title">推しが食べた一皿を、<br>巡りにいこう。</h1>
+      <p class="hero__lead">アイドル・芸人・YouTuber・ドラマで紹介されたお店を、地図とリストで探せます。</p>
+      <form class="hero__search" action="{{ '/shops/' | relative_url }}" method="get" role="search">
+        <label class="searchbox"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" name="q" placeholder="推し・駅・店名で探す" aria-label="推し・駅・店名で探す"><button class="btn btn--ink" type="submit">探す</button></label>
+      </form>
+      <div class="entry">
+        <div class="seg" role="tablist" aria-label="探し方">
+          <button type="button" role="tab" aria-selected="true" aria-controls="ent-oshi" data-ent="ent-oshi">推しから<small>{{ st.groups }}組</small></button>
+          <button type="button" role="tab" aria-selected="false" aria-controls="ent-area" data-ent="ent-area">エリア・駅<small>{{ st.prefs }}地域</small></button>
+          <button type="button" role="tab" aria-selected="false" aria-controls="ent-genre" data-ent="ent-genre">ジャンル<small>{{ site.data.genres.size }}種</small></button>
         </div>
-        <div class="hero__stat">
-          <span class="hero__stat-num" id="stat-groups">—</span>
-          <span class="hero__stat-label">グループ</span>
+        <div class="entry__panel chips" id="ent-oshi" role="tabpanel">
+          {%- for g in gm limit: 8 %}<a class="chip" style="--g:{{ g.color }}" href="{{ g.url | relative_url }}"><span class="dot"></span>{{ g.label }}<span class="cnt">{{ g.count }}</span></a>{% endfor %}
+          <a class="link-more entry__all" href="{{ '/groups/' | relative_url }}">{{ st.groups }}組すべて →</a>
         </div>
-        <div class="hero__stat">
-          <span class="hero__stat-num" id="stat-prefs">—</span>
-          <span class="hero__stat-label">都道府県</span>
+        <div class="entry__panel chips" id="ent-area" role="tabpanel" hidden>
+          {%- for p in st.prefectures limit: 4 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?pref={{ p.name | url_encode }}">{{ p.name }}<span class="cnt">{{ p.count }}</span></a>{% endfor %}
+          {%- for s in st.stations limit: 6 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?st={{ s.name | url_encode }}">{{ s.name }}<span class="cnt">{{ s.count }}</span></a>{% endfor %}
+        </div>
+        <div class="entry__panel chips" id="ent-genre" role="tabpanel" hidden>
+          {%- for g in site.data.genres %}{% assign gk = g[0] %}{% assign n = st.genres[gk] %}{% if n %}<a class="chip" href="{{ '/shops/' | relative_url }}?genre={{ g[0] }}">{{ g[1].label }}<span class="cnt">{{ n }}</span></a>{% endif %}{% endfor %}
         </div>
       </div>
     </div>
-    <div class="hero__collage" aria-hidden="true">
-      <div class="polaroid polaroid--a">
-        <div class="washi-tape washi-tape--butter"></div>
-        <img src="{{ '/assets/images/groups/yonino.jpg' | relative_url }}" alt="">
-        <p class="polaroid__caption">よにのちゃんねる ♡</p>
-      </div>
-      <div class="polaroid polaroid--b">
-        <div class="washi-tape washi-tape--blush"></div>
-        <img src="{{ '/assets/images/groups/nogizaka46.jpg' | relative_url }}" alt="">
-        <p class="polaroid__caption">乃木坂46 ♡</p>
-      </div>
-      <div class="polaroid polaroid--c">
-        <div class="washi-tape washi-tape--mint"></div>
-        <img src="{{ '/assets/images/groups/equal_love.jpg' | relative_url }}" alt="">
-        <p class="polaroid__caption">=LOVE ♡</p>
-      </div>
-      <div class="hero__badge">
-        <span class="hero__badge-label">NEW</span>
-        <span class="hero__badge-num" id="hero-badge-num">—</span>
-        <span class="hero__badge-unit">SPOTS</span>
-      </div>
+    <a class="mapbox hero__map" href="{{ '/shops/' | relative_url }}?view=map" aria-label="地図で探す">
+      <span class="hero__pins" aria-hidden="true">{% for g in gm limit: 6 %}<i style="--g:{{ g.color }}"></i>{% endfor %}</span>
+      <span class="btn btn--ink">地図で探す →</span>
+    </a>
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="section__head"><h2 class="h2">新しく追加された聖地</h2><a class="link-more" href="{{ '/shops/' | relative_url }}">すべて見る →</a></div>
+  <div class="cards cards--4">
+    {%- for id in st.latest limit: 8 %}{% include card.html id=id eager=forloop.first %}{% endfor %}
+  </div>
+</section>
+
+<div class="wrap home-2col">
+  <section class="section">
+    <div class="section__head"><h2 class="h2">ジャンルから巡る</h2></div>
+    <div class="genre-grid">
+      {%- for g in site.data.genres %}{% if g[0] != 'others' %}<a href="{{ '/shops/' | relative_url }}?genre={{ g[0] }}"><span class="stamp">{{ g[1].mark }}</span>{{ g[1].label }}</a>{% endif %}{% endfor %}
+    </div>
+  </section>
+  <section class="section">
+    <div class="section__head"><h2 class="h2">エリア・駅から巡る</h2></div>
+    <div class="chips">
+      {%- for p in st.prefectures limit: 4 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?pref={{ p.name | url_encode }}">{{ p.name }}<span class="cnt">{{ p.count }}</span></a>{% endfor %}
+      {%- for s in st.stations limit: 8 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?st={{ s.name | url_encode }}">{{ s.name }}<span class="cnt">{{ s.count }}</span></a>{% endfor %}
+    </div>
+  </section>
+</div>
+
+{%- assign venues = site.guides | where: "guide_category", "venue" %}
+<section class="wrap section">
+  <div class="darkblock">
+    <div>
+      <p class="meta">推し活ガイド・{{ site.guides.size }}本</p>
+      <h2 class="h2">ライブ会場と、<br>その周りの聖地</h2>
+      <div class="chips chips--sp">{% for v in venues limit: 6 %}<a class="chip" href="{{ v.url | relative_url }}">{{ site.data.venues[v.slug].name | default: v.title | truncate: 16 }}</a>{% endfor %}</div>
+      <a class="link-more" href="{{ '/guide/' | relative_url }}#venue">会場ガイド{{ venues.size }}本を見る →</a>
+    </div>
+    <div class="venue-cards">
+      {%- assign top_venues = "yoyogi-national-gymnasium,pia-arena-mm,osaka-jo-hall" | split: ',' %}
+      {%- for key in top_venues %}{% assign v = venues | where: "slug", key | first %}{% if v %}
+      <a href="{{ v.url | relative_url }}">
+        <div class="thumb">{% if v.thumbnail %}<img src="{{ v.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" loading="lazy" width="600" height="400">{% endif %}</div>
+        <b>{{ site.data.venues[key].name }}</b><span>周辺の聖地 {{ site.data.venue_nearby[key].n }}軒</span>
+      </a>{% endif %}{% endfor %}
     </div>
   </div>
 </section>
 
-<!-- SECTION 01: 新着スポット（JS） -->
-<section class="landing-section" id="latest-feed-section">
-  <div class="container">
-    <div class="section-header-row">
-      <div class="section-header">
-        <p class="section-eyebrow">SECTION 01 / FEED</p>
-        <h2 class="section-title">推しが訪れた<span class="txt-berry">最新スポット</span></h2>
-        <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
-      </div>
-      <div class="feed-tabs">
-        <button class="feed-tab active" data-mode="recent">新着</button>
-        <button class="feed-tab" data-mode="video">動画あり</button>
-      </div>
-    </div>
-    <div class="feed-grid" id="latest-feed"></div>
-    <div class="landing-more">
-      <a href="{{ '/shops/' | relative_url }}" class="btn--outline">すべてのスポットを見る →</a>
-    </div>
-  </div>
+<section class="wrap section">
+  <div class="section__head"><h2 class="h2">特集記事</h2><a class="link-more" href="{{ '/articles/' | relative_url }}">{{ site.posts.size }}本すべて →</a></div>
+  <ul class="alist alist--grid">
+    {%- for p in site.posts limit: 3 %}<li>{% include article-item.html p=p %}</li>{% endfor %}
+  </ul>
 </section>
 
-<!-- SECTION 02: MAP誘導 -->
-<section class="landing-section">
-  <div class="container">
-    <div class="map-cta__card">
-      <div class="map-cta__text">
-        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 02 / MAP</p>
-        <h2 class="section-title">地図で<span class="txt-highlight">聖地めぐり</span></h2>
-        <p class="section-desc">推しごとにピンの色が変わる。タップして聖地の詳細を確認しよう。</p>
-        <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す ↗</a>
-      </div>
-      <div class="map-pin-legend">
-        <div class="pin-item"><span class="pin-dot" style="background:#92400e"></span>孤独のグルメ</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#3b82f6"></span>Snow Man</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#f43f5e"></span>イコラブ</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#e8537a"></span>よにのちゃんねる</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#0ea5e9"></span>乃木坂46</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#7c3aed"></span>SixTONES</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#ef4444"></span>Hey! Say! JUMP</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#0d9488"></span>≠ME</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#f472b6"></span>King &amp; Prince</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#f97316"></span>なにわ男子</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#059669"></span>亀梨和也</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#ec4899"></span>しおり</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#d946ef"></span>≒JOY</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#6366f1"></span>銀河チャンネル</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#8b5cf6"></span>かまいたち</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#f59e0b"></span>日向坂46</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#1d4ed8"></span>timelesz</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#e11d48"></span>櫻坂46</div>
-        <div class="pin-item"><span class="pin-dot" style="background:#dc2626"></span>嵐</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 06: 特集記事 -->
-{% if site.posts.size > 0 %}
-<section class="landing-section landing-section--alt">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 03 / ARTICLES</p>
-      <h2 class="section-title">推しゆかりの<span class="txt-berry">特集記事</span></h2>
-      <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
-    </div>
-    <div class="article-grid--landing">
-      {% for post in site.posts limit:3 %}
-      <article class="article-card--landing">
-        {% case forloop.index %}
-        {% when 1 %}<div class="washi-tape washi-tape--butter" style="top:-8px;left:40px"></div>
-        {% when 2 %}<div class="washi-tape washi-tape--blush" style="top:-7px;right:28px;left:auto"></div>
-        {% when 3 %}<div class="washi-tape washi-tape--mint" style="top:-8px;left:60px;bottom:auto"></div>
-        {% endcase %}
-        {% if post.thumbnail_video_id %}
-          <img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp"
-               alt="{{ post.title }}" class="article-card__thumb--landing" loading="lazy">
-        {% else %}
-          <div class="post-hero post-hero--{{ post.group | default: 'default' }} article-card__hero--landing"></div>
-        {% endif %}
-        <div class="article-card__body--landing">
-          <div class="article-card__meta--landing">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
-            {% if post.genre %}<span class="post-badge post-badge--genre">{{ site.data.genres[post.genre].label | default: post.genre }}</span>{% endif %}
-          </div>
-          <h3 class="article-card__title--landing">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
-          <p class="article-card__excerpt--landing">{{ post.excerpt | strip_html | truncate: 70 }}</p>
-          <a href="{{ post.url | relative_url }}" class="article-card__cta">詳細を見る →</a>
-        </div>
-      </article>
-      {% endfor %}
-    </div>
-    <div class="landing-more">
-      <a href="{{ '/articles/' | relative_url }}" class="btn--outline">記事をもっと見る →</a>
-    </div>
-  </div>
-</section>
-{% endif %}
-
-<!-- SECTION 03.5: グループ別まとめページ -->
-{% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
-{% if sorted_groups.size > 0 %}
-<section class="landing-section" id="group-pages">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 03 / GROUPS</p>
-      <h2 class="section-title">推しの<span class="txt-berry">グループ</span>で探す</h2>
-      <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう</p>
-    </div>
-    <div class="group-index-grid">
-      {% for gp in sorted_groups %}
-      <a href="{{ gp.url | relative_url }}" class="group-index-card"
-         style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
-        <div class="group-index-card__bg group-index-card__bg--gradient"></div>
-        <div class="group-index-card__overlay"></div>
-        <div class="group-index-card__body">
-          <span class="group-index-card__name">{{ gp.group_label }}</span>
-          <span class="group-index-card__count">{{ gp.shop_count }}件</span>
-        </div>
-      </a>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-{% endif %}
-
-<!-- SECTION 04: 推し×ジャンル一覧 -->
-{% assign sorted_lists = site.list_pages | sort: "shop_count" | reverse %}
-{% if sorted_lists.size > 0 %}
-<section class="landing-section landing-section--alt" id="groups">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 04 / LISTS</p>
-      <h2 class="section-title">推し × ジャンルで<span class="txt-berry">絞り込む</span></h2>
-      <p class="section-desc">グループとジャンルの組み合わせから聖地を探せます</p>
-    </div>
-    <div class="list-chips">
-      {% for lp in sorted_lists limit: 24 %}
-        <a href="{{ lp.url | relative_url }}" class="list-chip">
-          {% if lp.group_color %}<span class="list-chip__dot" style="background:{{ lp.group_color }}"></span>{% endif %}
-          <span class="list-chip__label">{{ lp.group_label }} × {{ site.data.genres[lp.genre].label | default: lp.genre }}</span>
-          <span class="list-chip__count">{{ lp.shop_count }}件</span>
-        </a>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-{% endif %}
-
-<!-- SECTION 07: 使い方 -->
-<section class="landing-section">
-  <div class="container">
-    <div class="section-header">
-      <p class="section-eyebrow">SECTION 05 / HOW TO</p>
-      <h2 class="section-title">3ステップで<span class="txt-highlight">巡礼</span>へ</h2>
-    </div>
-    <div class="howto-steps">
-      <div class="howto-step">
-        <span class="howto-step__num">01</span>
-        <h3 class="howto-step__title">推しを選ぶ</h3>
-        <p class="howto-step__desc">グループやタレントを選んで聖地を絞り込もう</p>
-      </div>
-      <div class="howto-step">
-        <span class="howto-step__num">02</span>
-        <h3 class="howto-step__title">お店を見つける</h3>
-        <p class="howto-step__desc">YouTubeや番組で推しが実際に訪れた一皿を発見</p>
-      </div>
-      <div class="howto-step">
-        <span class="howto-step__num">03</span>
-        <h3 class="howto-step__title">聖地巡礼へ</h3>
-        <p class="howto-step__desc">同じ場所を訪れて、推しと同じ体験をしよう</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- JS: フィード動的レンダリング -->
 <script>
-(function () {
-  var BASE = window.SITE_BASEURL || '';
-  var LABELS = {
-    yonino:'よにのちゃんねる', snowman:'Snow Man', sixtones:'SixTONES',
-    naniwa:'なにわ男子', kamenashi:'亀梨和也', equal_love:'イコラブ',
-    notme:'≠ME', neajoy:'≒JOY',
-    nogizaka46:'乃木坂46', hinatazaka46:'日向坂46', sakurazaka46:'櫻坂46',
-    ginga:'中丸雄一 銀河チャンネル', kamaitachi:'かまいたち',
-    kodoku_no_gurume:'孤独のグルメ', heysayjump:'Hey! Say! JUMP',
-    kingprince:'King & Prince', shiori:'しおり', timelesz:'timelesz',
-    arashi:'嵐'
-  };
-  var GRADS = {
-    yonino:'linear-gradient(135deg,#e8537a,#f7a1b5)',
-    snowman:'linear-gradient(135deg,#3b82f6,#93c5fd)',
-    sixtones:'linear-gradient(135deg,#7c3aed,#a78bfa)',
-    equal_love:'linear-gradient(135deg,#f43f5e,#fb923c)',
-    notme:'linear-gradient(135deg,#0d9488,#5eead4)',
-    neajoy:'linear-gradient(135deg,#d946ef,#f0abfc)',
-    sakurazaka46:'linear-gradient(135deg,#e11d48,#fda4af)',
-    nogizaka46:'linear-gradient(135deg,#0ea5e9,#7dd3fc)',
-    hinatazaka46:'linear-gradient(135deg,#f59e0b,#fde68a)',
-    naniwa:'linear-gradient(135deg,#f97316,#fbbf24)',
-    kamenashi:'linear-gradient(135deg,#059669,#6ee7b7)',
-    ginga:'linear-gradient(135deg,#6366f1,#a5b4fc)',
-    kamaitachi:'linear-gradient(135deg,#eab308,#fde68a)',
-    kodoku_no_gurume:'linear-gradient(135deg,#92400e,#d97706)',
-    heysayjump:'linear-gradient(135deg,#0369a1,#38bdf8)',
-    kingprince:'linear-gradient(135deg,#be185d,#f9a8d4)',
-    shiori:'linear-gradient(135deg,#7e22ce,#c4b5fd)',
-    timelesz:'linear-gradient(135deg,#0f766e,#5eead4)',
-    arashi:'linear-gradient(135deg,#dc2626,#fb923c)'
-  };
-  var TAPES = [
-    { c:'#FFE08A', s:'top:-8px;left:40px;transform:rotate(-10deg)' },
-    { c:'#FFD4DE', s:'top:-7px;right:28px;left:auto;transform:rotate(8deg)' },
-    { c:'#BFE3CF', s:'top:-8px;left:70px;transform:rotate(-6deg)' },
-    { c:'#FFE08A', s:'top:-8px;left:55px;transform:rotate(12deg)' },
-    { c:'#FFD4DE', s:'top:-7px;left:35px;transform:rotate(-9deg)' },
-    { c:'#BFE3CF', s:'top:-8px;right:40px;left:auto;transform:rotate(7deg)' }
-  ];
-
-  function esc(s) {
-    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
-
-  function buildFeedCard(shop, i) {
-    var group   = (shop.groups || [])[0] || shop.group || '';
-    var label   = LABELS[group] || (window.SITE_GROUP_LABELS || {})[group] || group;
-    var grad    = GRADS[group] || 'linear-gradient(135deg,#e8537a,#7c3aed)';
-    var tape    = TAPES[i % TAPES.length];
-    var iconUrl = group && (window.GROUP_PHOTOS || []).indexOf(group) >= 0 ? BASE + '/assets/images/groups/' + group + '.jpg' : '';
-    var bannerHtml = '<div class="feed-card__banner" style="background:' + grad + '">'
-      + (iconUrl ? '<img class="feed-card__banner-icon" src="' + esc(iconUrl) + '" alt="" onerror="this.style.display=\'none\'">' : '')
-      + '<span style="font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.85);letter-spacing:.08em">' + esc(genreLabel(shop.genre || '')) + '</span>'
-      + '</div>';
-    var imgHtml;
-    if (shop.youtube_id) {
-      imgHtml = '<img class="feed-card__img" src="https://i.ytimg.com/vi_webp/' + esc(shop.youtube_id) + '/mqdefault.webp" alt="' + esc(shop.name) + '" loading="lazy">';
-    } else if (shop.thumbnail_url) {
-      imgHtml = '<img class="feed-card__img" src="' + esc(shop.thumbnail_url) + '" alt="' + esc(shop.name) + '" loading="lazy" onerror="this.outerHTML=this.dataset.fb" data-fb="' + esc(bannerHtml) + '">';
-    } else {
-      imgHtml = bannerHtml;
-    }
-    var area = [shop.prefecture, shop.nearest_station].filter(Boolean).join(' · ');
-    var shopUrl = BASE + '/shops/' + shop.id.replace(/_/g, '-').replace(/-+$/, '') + '/';
-    return '<a class="feed-card" href="' + shopUrl + '" title="' + esc(shop.name) + '">'
-      + '<div class="feed-card__tape" style="background-color:' + tape.c + ';' + tape.s + '"></div>'
-      + imgHtml
-      + '<div class="feed-card__body">'
-      + '<p class="feed-card__group">' + esc(label) + '</p>'
-      + '<p class="feed-card__name">' + esc(shop.name) + '</p>'
-      + '<p class="feed-card__area">' + esc(area) + '</p>'
-      + '<p class="feed-card__cta">行きたい →</p>'
-      + '</div></a>';
-  }
-
-  function renderFeed(shops, mode) {
-    var list = mode === 'video'
-      ? shops.filter(function(s) { return !!s.youtube_id; })
-      : shops.slice();
-    list.sort(function(a, b) {
-      return (b.visited_date || '').localeCompare(a.visited_date || '');
-    });
-    list = list.slice(0, 6);
-    var grid = document.getElementById('latest-feed');
-    if (grid) grid.innerHTML = list.map(buildFeedCard).join('');
-  }
-
-  function initFeedTabs(shops) {
-    document.querySelectorAll('.feed-tab').forEach(function(tab) {
-      tab.addEventListener('click', function() {
-        document.querySelectorAll('.feed-tab').forEach(function(t) { t.classList.remove('active'); });
-        tab.classList.add('active');
-        renderFeed(shops, tab.dataset.mode);
+  document.querySelectorAll('[data-ent]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.querySelectorAll('[data-ent]').forEach(function (x) {
+        var on = x === b;
+        x.setAttribute('aria-selected', on ? 'true' : 'false');
+        document.getElementById(x.dataset.ent).hidden = !on;
       });
     });
-  }
-
-  // 店舗データはページの表示が終わってから読み込む（表示速度のため）
-  function loadFeed() {
-    fetch(BASE + '/data/shops-lite.json')
-      .then(function(r) { return r.json(); })
-      .then(function(shops) {
-        renderFeed(shops, 'recent');
-        initFeedTabs(shops);
-
-        // ヒーロー統計数字を動的に更新
-        var spots  = document.getElementById('stat-spots');
-        var groups = document.getElementById('stat-groups');
-        var prefs  = document.getElementById('stat-prefs');
-        if (spots)  spots.textContent  = shops.length;
-        var badgeNum = document.getElementById('hero-badge-num');
-        if (badgeNum) badgeNum.textContent = shops.length;
-        if (groups) groups.textContent = new Set(shops.flatMap(function(s) { return s.groups || (s.group ? [s.group] : []); })).size;
-        if (prefs)  prefs.textContent  = new Set(shops.map(function(s) { return s.prefecture; }).filter(Boolean)).size;
-      })
-      .catch(function() {
-        var s = document.getElementById('latest-feed-section');
-        if (s) s.style.display = 'none';
-      });
-  }
-  if (document.readyState === 'complete') loadFeed();
-  else window.addEventListener('load', loadFeed);
-}());
+  });
 </script>

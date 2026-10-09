@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '炎の酒鍋セット'}"
-  - "{'name': 'とんかつ麦とろミニミニセット定食'}"
+  - "炎の酒鍋セット"
+  - "とんかつ麦とろミニミニセット定食"
 ---

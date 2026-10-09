@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '焼うどん'}"
-  - "{'name': '親子丼'}"
-  - "{'name': 'おしるこ'}"
+  - "焼うどん"
+  - "親子丼"
+  - "おしるこ"
 ---

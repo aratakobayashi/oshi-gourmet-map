@@ -1,0 +1,13 @@
+{%- comment -%} 店舗カード（グリッド）。引数: id / eager {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}
+{%- assign _gi = site.data.group_ix[_c.gr] -%}
+<a class="card" href="{{ _c.u | relative_url }}" style="--g:{{ _gi.c }}">
+  {% include thumb.html c=_c eager=include.eager %}
+  <div class="card__body">
+    <p class="card__meta"><span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}</p>
+    <p class="card__name">{{ _c.n }}</p>
+    {%- if _c.st != '' %}<p class="card__st">{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}</p>{% endif %}
+  </div>
+</a>
+{%- endif -%}

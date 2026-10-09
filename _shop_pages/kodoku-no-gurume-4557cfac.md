@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '和風キムチ'}"
-  - "{'name': 'ホルモン'}"
-  - "{'name': 'ナンコツ'}"
-  - "{'name': 'コメカミ'}"
+  - "和風キムチ"
+  - "ホルモン"
+  - "ナンコツ"
+  - "コメカミ"
 ---

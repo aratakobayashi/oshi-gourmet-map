@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': 'ひものオーバーライス 1500円'}"
+  - "ひものオーバーライス 1500円"
 ---

@@ -20,6 +20,6 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': '正丸丼'}"
-  - "{'name': 'ジンギスカン'}"
+  - "正丸丼"
+  - "ジンギスカン"
 ---

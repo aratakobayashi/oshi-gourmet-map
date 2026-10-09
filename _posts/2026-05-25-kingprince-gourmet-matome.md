@@ -74,43 +74,43 @@ faq:
 
 <mark>フレンチ・イタリアン</mark>の名店が目立つのがキンプリのグルメの特徴のひとつ。銀座の老舗「ブラッスリー ポール・ボキューズ 銀座」、銀座の名店「ラ・ベットラ・ダ・オチアイ」、目黒の「ICARO miyamoto」、品川の「ビストロカニッシュ」と、各エリアに一軒ずつ本格派が揃っている。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-41fc4dc8-20230304,kingprince-174af58e-20230311,kingprince-icaro_miyamoto-20220903,kingprince-47c41cd2-20230304,kingprince-la_tripletta-20221015,kingprince-678c6452-20221203"></div>
+{% include inline-shop-grid.html ids="kingprince-41fc4dc8-20230304,kingprince-174af58e-20230311,kingprince-icaro_miyamoto-20220903,kingprince-47c41cd2-20230304,kingprince-la_tripletta-20221015,kingprince-678c6452-20221203" %}
 
 ## アジアングルメ【韓国・タイ・中華】
 
 韓国料理が特に多く登場するのがキンプリ番組の特色。**渋谷の「陳家私菜」「韓国食堂 入ル坂上ル」、世田谷の「アス 下北沢店」**と韓国3店をはじめ、銀座のタイ料理「チャオタイ」、中華の「精陽軒」「赤坂四川飯店」「富錦樹台菜香檳」と多彩なアジアンラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-516fb6ba-20220618,kingprince-a7ca9129-20220813,kingprince-fc0eeee2-20220903,kingprince-8c0bf4f0-20220813,kingprince-717d1f2d-20220910,kingprince-2f025d31-20221210,kingprince-6513cfda-20221022"></div>
+{% include inline-shop-grid.html ids="kingprince-516fb6ba-20220618,kingprince-a7ca9129-20220813,kingprince-fc0eeee2-20220903,kingprince-8c0bf4f0-20220813,kingprince-717d1f2d-20220910,kingprince-2f025d31-20221210,kingprince-6513cfda-20221022" %}
 
 ## 和食・魚・鍋
 
 港区赤坂の「沖縄懐石 赤坂潭亭」は沖縄食材を使った懐石料理の名店で、放送後に予約が急増。六本木の「天然とらふぐ専門 六本木浜藤」はふぐ専門店として名高く、番組フィナーレに近い回での登場だった。渋谷・奥渋エリアの「奥渋 魚力」は鮮魚を使った居酒屋として根強い人気を誇る。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-dc646f2a-20220813,kingprince-3a9cda24-20230304,kingprince-f9639215-20220813,kingprince-367cb2f4-20220903"></div>
+{% include inline-shop-grid.html ids="kingprince-dc646f2a-20220813,kingprince-3a9cda24-20230304,kingprince-f9639215-20220813,kingprince-367cb2f4-20220903" %}
 
 ## 焼肉・もんじゃ
 
 青山の「バルバッコア〈青山本店〉」は本格ブラジルシュラスコを食べ放題で楽しめる有名店。新宿の「韓国家庭料理ハレルヤ」は本格的な韓国式焼肉が味わえる。千代田区の「88（パチパチ）」はもんじゃ一品で番組を盛り上げた。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,kingprince-88-20221210"></div>
+{% include inline-shop-grid.html ids="kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,kingprince-88-20221210" %}
 
 ## カフェ・スイーツ
 
 <mark>カフェ・スイーツ</mark>は6店と充実のラインナップ。「フレデリック カッセル 銀座三越店」はパリ発の高級パティスリーで手土産としても人気。「PRESQU'ILE chocolaterie」（吉祥寺）はチョコレート専門店として地元でも愛される一軒だ。渋谷の「ブレッツカフェ クレープリー」はフランス風クレープの名店で、デートスポットとしても定番。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-9ca66867-20220618,kingprince-5400b983-20220813,kingprince-b3b48364-20220910,kingprince-racines_donut_ice_cr-20221015,kingprince-6b77790e-20221022,kingprince-6ee5087d-20221203,kingprince-2b00f277-20230311,kingprince-presquile_chocolater-20221210"></div>
+{% include inline-shop-grid.html ids="kingprince-9ca66867-20220618,kingprince-5400b983-20220813,kingprince-b3b48364-20220910,kingprince-racines_donut_ice_cr-20221015,kingprince-6b77790e-20221022,kingprince-6ee5087d-20221203,kingprince-2b00f277-20230311,kingprince-presquile_chocolater-20221210" %}
 
 ## その他の名店【洋食・カフェ・スイーツ】
 
 「Sarabeth's」（千代田区）はNY発のブランチの名店。「CAVA CAVALLO」（渋谷）はスペインバルスタイルの洋食店。「パティシエ シマ」（麹町）は老舗パティスリー。「CABE（チャベ）」（品川）は隠れた名居酒屋として登場した。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-sarabeths-20221210,kingprince-cava_cavallo-20220910,kingprince-531da9bd-20230311,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6fc6f3d9-20220618"></div>
+{% include inline-shop-grid.html ids="kingprince-sarabeths-20221210,kingprince-cava_cavallo-20220910,kingprince-531da9bd-20230311,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6fc6f3d9-20220618" %}
 
 ## 関東近郊・大阪のお店
 
 ほとんどが東京都内のなか、**川崎・大磯・大阪**にも登場した店舗がある。「FUJIMORI 鷺沼店」（川崎）は地元で愛されるレストラン、「リリエンベルグ」（川崎）はドイツ菓子の名店として全国的に知られる。大磯の「マッサマン タイキッチン」は湘南の海辺に佇む本格タイ料理店。大阪の「千とせ 本店」は「肉吸い」発祥として有名な老舗だ。
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-fujimori-20220903,kingprince-973526af-20230429,kingprince-8b0ad08d-20230429,kingprince-ddabeb42-20230429,kingprince-9caaae7c-20230429"></div>
+{% include inline-shop-grid.html ids="kingprince-fujimori-20220903,kingprince-973526af-20230429,kingprince-8b0ad08d-20230429,kingprince-ddabeb42-20230429,kingprince-9caaae7c-20230429" %}
 
 ## エリア別巡礼ルート
 

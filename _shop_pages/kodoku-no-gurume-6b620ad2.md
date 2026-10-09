@@ -21,8 +21,8 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '若どり'}"
-  - "{'name': '親どり'}"
-  - "{'name': 'きも'}"
-  - "{'name': 'とり野菜（鶏焼肉各種）'}"
+  - "若どり"
+  - "親どり"
+  - "きも"
+  - "とり野菜（鶏焼肉各種）"
 ---

@@ -1,43 +1,37 @@
 ---
 layout: default
-title: 推し活ガイド｜会場ガイド・遠征準備・推し活の基本｜推しグルメ巡礼MAP
-description: ライブ会場のアクセス・座席・周辺の聖地グルメ、遠征の交通・持ち物、推し活の始め方まで。推し活に役立つガイド記事をまとめています。
+title: 推し活ガイド｜ライブ会場・遠征準備・推し活の基本
+description: ライブ会場の行き方・座席と会場周辺の聖地グルメ、遠征の交通・持ち物、推し活の始め方まで。推し活に役立つガイド記事をまとめています。
 ---
-<nav class="breadcrumb" aria-label="パンくずリスト">
-  <div class="container">
-    <ol class="breadcrumb__list">
-      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
-      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">推し活ガイド</li>
-    </ol>
-  </div>
-</nav>
+<div class="wrap">
+  <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">推し活ガイド</li></ol>
+  <h1 class="page-title">推し活ガイド</h1>
+  <p class="page-lead">ライブ会場の行き方と、会場周辺の聖地グルメ・宿。遠征の準備もここで。</p>
+  <nav class="tabs" aria-label="カテゴリ" style="margin-top:16px">
+    {%- for cat in site.data.guide_categories %}{% assign n = site.guides | where: "guide_category", cat.key %}{% if n.size > 0 %}<a href="#{{ cat.key }}">{{ cat.label }}<span class="cnt">{{ n.size }}</span></a>{% endif %}{% endfor %}
+  </nav>
 
-<div class="container guide-index">
-  <header class="guide-index__header">
-    <h1 class="guide-index__title">推し活ガイド</h1>
-    <p class="guide-index__lead">ライブ会場の攻略と会場周辺の聖地グルメ、遠征準備、推し活の基本をまとめました。</p>
-    <nav class="guide-index__jump" aria-label="カテゴリ">
-      {% for cat in site.data.guide_categories %}
-      <a href="#{{ cat.key }}" class="genre-pill">{{ cat.icon }} {{ cat.label }}</a>
-      {% endfor %}
-    </nav>
-  </header>
-
-  {% for cat in site.data.guide_categories %}
-  {% assign items = site.guides | where: "guide_category", cat.key | sort: "title" %}
-  {% if items.size > 0 %}
-  <section class="guide-index__section" id="{{ cat.key }}">
-    <h2 class="guide-index__section-title">{{ cat.icon }} {{ cat.label }} <span class="guide-index__count">{{ items.size }}</span></h2>
-    <p class="guide-index__section-desc">{{ cat.desc }}</p>
-    <div class="guide-grid">
-      {% for g in items %}
-      <a href="{{ g.url | relative_url }}" class="guide-card">
-        {% if g.thumbnail %}<img src="{{ g.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" loading="lazy" width="600" height="600" class="guide-card__img">{% endif %}
-        <span class="guide-card__title">{{ g.title }}</span>
-      </a>
-      {% endfor %}
-    </div>
+  {%- for cat in site.data.guide_categories %}
+  {%- assign items = site.guides | where: "guide_category", cat.key | sort: "title" %}
+  {%- if items.size > 0 %}
+  <section class="section" id="{{ cat.key }}">
+    <h2 class="h2">{{ cat.label }}</h2>
+    <p class="meta" style="margin:4px 0 12px">{{ cat.desc }}</p>
+    {%- if cat.key == 'venue' %}
+    <ul class="vlist gcols2">
+      {%- for g in items %}{% assign vn = site.data.venue_nearby[g.slug] %}
+      <li><a class="vitem" href="{{ g.url | relative_url }}">
+        <div class="thumb">{% if g.thumbnail %}<img src="{{ g.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="600" height="450" loading="lazy">{% endif %}</div>
+        <div><p class="vitem__name">{{ site.data.venues[g.slug].name | default: g.title | truncate: 30 }}</p>{% if vn and vn.n > 0 %}<p class="vitem__cnt">周辺の聖地 {{ vn.n }}軒</p>{% else %}<p class="meta">会場ガイド</p>{% endif %}</div>
+      </a></li>
+      {%- endfor %}
+    </ul>
+    {%- elsif cat.key == 'travel' %}
+    <div class="linkcards">{% for g in items %}<a class="linkcard" href="{{ g.url | relative_url }}">{{ g.title | truncate: 50 }}<span class="cnt" aria-hidden="true">→</span></a>{% endfor %}</div>
+    {%- else %}
+    <div class="gcards">{% for g in items %}<a class="gcard" href="{{ g.url | relative_url }}"><div class="thumb">{% if g.thumbnail %}<img src="{{ g.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="600" height="450" loading="lazy">{% endif %}</div>{{ g.title | truncate: 40 }}</a>{% endfor %}</div>
+    {%- endif %}
   </section>
-  {% endif %}
-  {% endfor %}
+  {%- endif %}
+  {%- endfor %}
 </div>

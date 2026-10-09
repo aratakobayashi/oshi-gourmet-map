@@ -21,5 +21,5 @@ members:
 groups:
   - "sakurazaka46"
 ordered_items:
-  - "{'name': 'フォアグラの黒糖ブリュレクレープ包み'}"
+  - "フォアグラの黒糖ブリュレクレープ包み"
 ---

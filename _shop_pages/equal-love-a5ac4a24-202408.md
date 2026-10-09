@@ -18,4 +18,5 @@ lat: 35.0038
 lng: 135.7657
 groups:
   - "equal_love"
+closed: true
 ---

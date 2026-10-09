@@ -37,7 +37,7 @@ faq:
 
 > 完全予約制。週末は1〜2か月先まで埋まるため、**平日のランチ枠を狙う**のがおすすめ。恵比寿ガーデンプレイス方面と合わせた午後プランに組みやすい。
 
-<div class="inline-shop-card" data-shop-id="yonino-peter-luger"></div>
+{% include inline-shop-card.html shop_id="yonino-peter-luger" %}
 
 ## 赤坂 金舌（#501・2026年1月）
 
@@ -45,7 +45,7 @@ faq:
 
 > 赤坂見附駅から徒歩4分。**完全個室のため聖地巡礼も気兼ねなく楽しめる**。コース料理中心なので予算は1人15,000〜20,000円を想定しておくと安心。
 
-<div class="inline-shop-card" data-shop-id="yonino-kintan-akasaka"></div>
+{% include inline-shop-card.html shop_id="yonino-kintan-akasaka" %}
 
 ## ジンギスカン羊はち 三軒茶屋店（#509・2026年3月）
 
@@ -53,7 +53,7 @@ faq:
 
 > 三軒茶屋駅から徒歩3分。**予約は公式サイトまたは電話**が確実。週末は行列になるため、平日の夕方に訪問するとスムーズ。
 
-<div class="inline-shop-card" data-shop-id="yonino-youhachi-sangenchaya"></div>
+{% include inline-shop-card.html shop_id="yonino-youhachi-sangenchaya" %}
 
 ## しゃぶしゃぶ だるま 麻布十番（#476・2025年11月）
 
@@ -61,7 +61,7 @@ faq:
 
 > 麻布十番は飲食店が充実しているエリア。**赤坂 金舌と組み合わせた「港区肉ルート」**として1日かけて巡るのがおすすめ。どちらも予約が必要なので事前確保を。
 
-<div class="inline-shop-card" data-shop-id="yonino-daruma-azabu"></div>
+{% include inline-shop-card.html shop_id="yonino-daruma-azabu" %}
 
 ## 4店を巡るルート
 

@@ -21,5 +21,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '台湾ラーメン（中辛）'}"
+  - "台湾ラーメン（中辛）"
 ---

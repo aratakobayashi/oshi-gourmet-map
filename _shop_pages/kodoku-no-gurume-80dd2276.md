@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'チョリソのケソフンディード'}"
-  - "{'name': '鶏肉のピピアンベルデ'}"
+  - "チョリソのケソフンディード"
+  - "鶏肉のピピアンベルデ"
 ---

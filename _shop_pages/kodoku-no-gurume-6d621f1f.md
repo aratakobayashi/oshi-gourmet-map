@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '鳥そっぷ鍋'}"
-  - "{'name': 'うどん'}"
+  - "鳥そっぷ鍋"
+  - "うどん"
 ---

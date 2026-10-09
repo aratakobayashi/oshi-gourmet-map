@@ -29,5 +29,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '炊き込みご飯'}"
+  - "炊き込みご飯"
 ---

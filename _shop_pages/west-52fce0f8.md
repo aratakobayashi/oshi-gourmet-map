@@ -20,5 +20,5 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': 'キラークイーン（超激辛チキンカレー）'}"
+  - "キラークイーン（超激辛チキンカレー）"
 ---

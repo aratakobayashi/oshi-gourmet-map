@@ -35,7 +35,7 @@ faq:
 
 > 予約不可・当日並び制。**開店30分前から並ぶのが基本**で、平日の開店直後が最もスムーズ。渋谷駅ハチ公口から徒歩3分のため、並びながら渋谷の朝の空気を楽しめる。
 
-<div class="inline-shop-card" data-shop-id="yonino-hikiniku-to-kome"></div>
+{% include inline-shop-card.html shop_id="yonino-hikiniku-to-kome" %}
 
 ## 葱や平吉 渋谷宇田川町店
 
@@ -43,7 +43,7 @@ faq:
 
 > 渋谷駅から徒歩7分。**ランチ営業あり（火〜金 11:30〜14:30）**なので、昼の聖地巡礼にも対応できる。夜は混雑するため事前予約推奨。月曜定休に注意。
 
-<div class="inline-shop-card" data-shop-id="yonino-negiya-heikichi"></div>
+{% include inline-shop-card.html shop_id="yonino-negiya-heikichi" %}
 
 ## 渋谷1日巡礼ルート
 

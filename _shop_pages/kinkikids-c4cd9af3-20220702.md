@@ -21,5 +21,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': '濃厚とろとろサムゲタン'}"
+  - "濃厚とろとろサムゲタン"
 ---

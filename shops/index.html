@@ -1,199 +1,70 @@
 ---
 layout: default
-title: 推しグルメ聖地MAP｜お店を探す
-description: よにのちゃんねる・Snow Man・SixTONESなどアイドル・芸人・YouTuberが実際に訪れた2,300件以上のグルメスポットを地図と一覧で探せます。グループ・ジャンル・エリアで絞り込み対応。
+title: お店を探す｜推しが行ったお店を地図と一覧で
+description: アイドル・芸人・YouTuber・ドラマで紹介された2,300件以上のお店を、推し・エリア・駅・ジャンルで絞り込んで地図と一覧で探せます。
+js_data: true
+scripts:
+  - /assets/js/explore.js
 ---
-
-<!-- コンパクトフィルターバー -->
-<div class="fbar" id="fbar">
-  <div class="container fbar__row">
-    <div class="fbar__group-dots" id="fbar-group-dots"></div>
-    <p class="fbar__summary" id="fbar-summary">全グループ表示中</p>
-    <button class="fbar__btn fbar__btn--change" id="group-modal-open">推し ▾</button>
-    <button class="fbar__btn" id="area-modal-open">📍 エリア</button>
-  </div>
-  <!-- 選択中チップ -->
-  <div class="fbar__chips-row" id="fbar-chips-row" style="display:none">
-    <div class="container">
-      <div class="fbar__chips" id="fbar-chips"></div>
+{%- assign st = site.data.site_stats -%}
+<div class="fbar">
+  <div class="wrap">
+    <div class="fbar__row">
+      <label class="searchbox searchbox--sm fbar__search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" id="q" placeholder="店名・メンバー・駅で絞り込む" aria-label="店名・メンバー・駅で絞り込む" autocomplete="off"></label>
     </div>
-  </div>
-</div>
-
-<!-- 統合フィルターモーダル（推し・エリア・人気 3タブ） -->
-<div class="fmodal-overlay fmodal--filter-overlay" id="filter-modal-overlay" aria-hidden="true" inert>
-  <div class="fmodal fmodal--filter" role="dialog" aria-modal="true" aria-label="絞り込む">
-
-    <!-- ヘッダー -->
-    <div class="fmodal__filter-head">
-      <div class="fmodal__filter-tabs" role="tablist">
-        <button class="fmodal__filter-tab fmodal__filter-tab--active" data-tab="popular" role="tab" aria-selected="true">人気</button>
-        <button class="fmodal__filter-tab" data-tab="talent" role="tab" aria-selected="false">推し</button>
-        <button class="fmodal__filter-tab" data-tab="pref" role="tab" aria-selected="false">エリア</button>
+    <div class="fbar__row">
+      <button type="button" class="fbtn" data-open="oshi" id="btn-oshi">推し</button>
+      <button type="button" class="fbtn" data-open="area" id="btn-area">エリア・駅</button>
+      <button type="button" class="fbtn" data-open="genre" id="btn-genre">ジャンル</button>
+      <div class="viewtoggle" role="group" aria-label="表示の切り替え">
+        <button type="button" data-view="list" aria-pressed="true">一覧</button>
+        <button type="button" data-view="map" aria-pressed="false">地図</button>
       </div>
-      <button class="fmodal__close" id="filter-modal-close" aria-label="閉じる">✕</button>
     </div>
-
-    <!-- 検索バー -->
-    <div class="fmodal__filter-search-row">
-      <input type="text" id="filter-modal-search" class="fmodal__search-input" placeholder="グループ・エリア名で検索...">
-    </div>
-
-    <!-- 選択中チップ -->
-    <div class="fmodal-selected-stack" id="filter-selected" hidden></div>
-
-    <!-- ボディ（スクロール領域） -->
-    <div class="fmodal__filter-body">
-
-      <!-- ===== 人気タブ ===== -->
-      <div id="pane-popular" class="fmodal__pane" role="tabpanel">
-        <section class="fmodal-section">
-          <p class="fmodal-section__label">トレンド</p>
-          <div class="fmodal-trend-cards" id="pane-popular-trending"></div>
-        </section>
-
-        <section class="fmodal-section">
-          <p class="fmodal-section__label">グループ TOP 10</p>
-          <div class="fmodal-top10-grid" id="pane-popular-top10"></div>
-        </section>
-
-        <section class="fmodal-section">
-          <p class="fmodal-section__label">人気エリア</p>
-          <div class="fmodal-area-chips" id="pane-popular-areas"></div>
-        </section>
-
-        <section class="fmodal-section" id="pane-popular-recent-section" hidden>
-          <p class="fmodal-section__label">最近見た推し</p>
-          <div class="fmodal-top10-grid" id="pane-popular-recent"></div>
-        </section>
-      </div>
-
-      <!-- ===== 推しタブ ===== -->
-      <div id="pane-talent" class="fmodal__pane fmodal__pane--two-col" role="tabpanel" hidden>
-        <!-- SP: 50音水平タブ -->
-        <div class="fmodal-kana-sp-tabs-wrap">
-          <div class="fmodal-kana-sp-tabs" id="talent-kana-sp-tabs"></div>
-        </div>
-        <!-- PC: 左ペイン -->
-        <div class="fmodal-kana-pane" id="talent-kana-pane"></div>
-        <!-- 右ペイン / SP全幅 -->
-        <div class="fmodal-talent-list" id="talent-group-list"></div>
-      </div>
-
-      <!-- ===== エリアタブ ===== -->
-      <div id="pane-pref" class="fmodal__pane fmodal__pane--two-col" role="tabpanel" hidden>
-        <!-- SP: 地方水平スクロール -->
-        <div class="fmodal-region-sp-scroll-wrap">
-          <div class="fmodal-region-sp-scroll" id="pref-region-sp-scroll"></div>
-        </div>
-        <!-- PC: 左ペイン -->
-        <div class="fmodal-region-pane" id="pref-region-pane"></div>
-        <!-- 都道府県リスト -->
-        <div class="fmodal-pref-list" id="pref-list"></div>
-      </div>
-
-    </div><!-- /.fmodal__filter-body -->
-
-    <!-- フッター -->
-    <div class="fmodal__filter-footer">
-      <button class="fmodal__reset-btn" id="filter-reset-all">リセット</button>
-      <button class="fmodal__apply-btn" id="filter-apply-btn">お店を見る →</button>
-    </div>
-
-  </div><!-- /.fmodal--filter -->
-</div><!-- /#filter-modal-overlay -->
-
-<!-- hidden: ジャンルフィルター（URLパラメーター対応） -->
-<div style="display:none">
-  <select id="filter-genre"><option value=""></option></select>
-</div>
-
-<!-- サーチバー -->
-<div class="search-hero">
-  <div class="container">
-    <div class="search-hero__wrap">
-      <svg class="search-hero__icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.8"/>
-        <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
-      </svg>
-      <input type="text" id="search-input" class="search-hero__input" placeholder="お店名・メンバー名・エリアで探す">
-      <button class="search-hero__clear" id="search-clear" aria-label="検索をクリア" hidden>✕</button>
-    </div>
+    <div class="selchips" id="selchips" hidden></div>
   </div>
 </div>
 
-<!-- 件数 + タブ + ソート -->
-<div class="container">
-  <div class="shop-controls-bar">
-    <p class="result-count" id="result-count"></p>
-    <div class="shop-controls-right">
-      <select id="sort-select" class="filter-select filter-select--sort" aria-label="並び順">
-        <option value="recent">新着順 ▾</option>
-        <option value="video">動画あり順</option>
-        <option value="nearby">📍 近い順</option>
+<div class="explore" id="explore">
+  <div class="explore__list wrap">
+    <div class="resbar">
+      <p><strong id="count">{{ st.shops }}</strong> 軒</p>
+      <select class="sel" id="sort" aria-label="並び順">
+        <option value="new">新着順</option>
+        <option value="video">動画ありを先に</option>
+        <option value="book">予約できる店を先に</option>
+        <option value="name">名前順</option>
       </select>
-      <div class="view-tabs">
-        <button class="tab-btn active" data-view="grid">写真</button>
-        <button class="tab-btn" data-view="map">地図</button>
-      </div>
     </div>
-  </div>
-</div>
-
-<!-- ジャンルピル -->
-<div class="genre-pills-bar">
-  <div class="container">
-    <div class="genre-pills" id="genre-pills"></div>
-  </div>
-</div>
-
-<!-- カードグリッド -->
-<div id="shop-list-wrap">
-  <div class="container">
-    <div class="shop-cards" id="shop-grid">
-      {% for i in (1..6) %}
-      <div class="shop-card shop-card--skeleton" aria-hidden="true">
-        <div class="shop-card__thumb"><div class="skel-block"></div></div>
-        <div class="shop-card__body">
-          <div class="skel-line skel-line--s"></div>
-          <div class="skel-line skel-line--l"></div>
-          <div class="skel-line skel-line--m"></div>
-          <div class="skel-line skel-line--s"></div>
-        </div>
-      </div>
-      {% endfor %}
+    <div class="rows" id="rows">
+      {%- for id in st.latest %}{% include row.html id=id eager=forloop.first %}{% endfor %}
     </div>
+    <div class="more-wrap"><button type="button" class="btn btn--block" id="more">さらに20軒を表示（20 / {{ st.shops }}）</button></div>
+    <div class="box" id="summary" hidden></div>
+  </div>
+  <div class="mapview" id="mapview" hidden>
+    <div id="map"></div>
+    <a class="mapcard" id="mapcard" hidden></a>
   </div>
 </div>
 
-<div id="more-btn-wrap" class="more-btn-wrap"></div>
-
-<!-- グループ別まとめページへのリンク -->
-{% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
-{% if sorted_groups.size > 0 %}
-<div id="group-mini-chips-section" class="container" style="margin-top:3rem;padding-bottom:1rem">
-  <p style="font-size:0.8rem;color:#6b7280;margin-bottom:0.75rem;font-weight:600;letter-spacing:0.05em">グループ別まとめ</p>
-  <div class="group-mini-chips">
-    {% for gp in sorted_groups %}
-    <a href="{{ gp.url | relative_url }}" class="group-mini-chip"
-       style="border-color:{{ gp.group_color }};color:{{ gp.group_color }}">
-      {{ gp.group_label }}<span class="group-mini-chip__count">{{ gp.shop_count }}</span>
-    </a>
-    {% endfor %}
+<div class="sheet-bg" id="sheet-bg" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="絞り込み" hidden>
+  <div class="sheet__head">
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" data-tab="oshi" aria-selected="true">推し</button>
+      <button type="button" role="tab" data-tab="area" aria-selected="false">エリア・駅</button>
+      <button type="button" role="tab" data-tab="genre" aria-selected="false">ジャンル</button>
+    </div>
+    <button type="button" class="sheet__close" id="sheet-close" aria-label="閉じる">×</button>
+  </div>
+  <div class="sheet__body" id="sheet-body"></div>
+  <div class="sheet__foot">
+    <button type="button" class="btn" id="sheet-reset">リセット</button>
+    <button type="button" class="btn btn--ink" id="sheet-apply">{{ st.shops }}軒を見る</button>
   </div>
 </div>
-{% endif %}
-
-<!-- 地図 -->
-<section class="map-section" id="view-map" style="display:none">
-  <div class="map-count-bar">
-    <span id="map-count"></span>
-    <button class="map-refocus-btn" id="map-refocus-btn" title="表示範囲をリセット">⊙ 全体を表示</button>
-  </div>
-  <div id="map"></div>
-</section>
-
-<script>const SITE_BASEURL = '{{ site.baseurl }}';</script>
-<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/map.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/filter.js' | relative_url }}"></script>
+<script>
+  window.GMETA = {{ site.data.group_meta | jsonify }};
+  window.LISTS = [{% for l in site.list_pages %}"{{ l.url | split: '/' | last }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+</script>

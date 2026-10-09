@@ -20,5 +20,5 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '黒糖ミルクぜんざい（かき氷）'}"
+  - "黒糖ミルクぜんざい（かき氷）"
 ---

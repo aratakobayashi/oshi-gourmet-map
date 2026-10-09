@@ -23,11 +23,11 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 **東京エリア**は幅広い。渋谷の「**NEW LIGHT**」「**THE MUSIC BAR CAVE SHIBUYA**」（音楽系バー2店）・恵比寿の「**Flamingo**」・新橋の「**ニュー新橋ビル****（昭和飲み屋街）**・新宿の「**思い出横丁**」「**赤札屋**」と、渋谷〜新宿を幅広くカバー。代々木エリアでは「**ヤキガキヤ oyster&wine**」（生牡蠣×ワインの洒落た立ち飲み）・「**サンカク**」（代々木の個性派バー）・「**う福 代々木店**」（串焼き・鶏料理）の3店も登場。新宿の「**テルマー湯**」（天然温泉施設内の飲食エリア・風呂上がりの一杯が楽しめる）も2022年に記録されている。静岡・沼津では「**沼津倶楽部**」（2026年1月）、2021年ロケでは「**沼田**」「**しげ吉**」「**はなたれ**」の3軒をまとめて訪問している。
 
-<div class="inline-shop-grid" data-shop-ids="shiori-97aca417-20260331,shiori-e7501534-20260331,shiori-73e7f83a-20260331,shiori-773474f9-20260322,shiori-b57ee974-20260322"></div>
+{% include inline-shop-grid.html ids="shiori-97aca417-20260331,shiori-e7501534-20260331,shiori-73e7f83a-20260331,shiori-773474f9-20260322,shiori-b57ee974-20260322" %}
 
-<div class="inline-shop-grid" data-shop-ids="shiori-new_light-20240316,shiori-the_music_bar_cave_s-20240316,shiori-flamingo-20260514,shiori-e3c454bd-20240914,shiori-a5bba78c-20230903,shiori-4119a061-20220305,shiori-b0e7ec20-20220912"></div>
+{% include inline-shop-grid.html ids="shiori-new_light-20240316,shiori-the_music_bar_cave_s-20240316,shiori-flamingo-20260514,shiori-e3c454bd-20240914,shiori-a5bba78c-20230903,shiori-4119a061-20220305,shiori-b0e7ec20-20220912" %}
 
-<div class="inline-shop-grid" data-shop-ids="shiori-oyster_wine-20250425,shiori-cd799a2d-20250425,shiori-b838be7c-20250425,shiori-1265afbe-20260120,shiori-52fdb689-20220606,shiori-af65a7dc-20211105,shiori-57dd9722-20211105,shiori-d49febf1-20211105,shiori-5fd9a689-20211105"></div>
+{% include inline-shop-grid.html ids="shiori-oyster_wine-20250425,shiori-cd799a2d-20250425,shiori-b838be7c-20250425,shiori-1265afbe-20260120,shiori-52fdb689-20220606,shiori-af65a7dc-20211105,shiori-57dd9722-20211105,shiori-d49febf1-20211105,shiori-5fd9a689-20211105" %}
 
 ## =LOVE（15件）：赤羽居酒屋街 × 串カツ × やきとん文化
 
@@ -37,15 +37,15 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 その他：中野の「**えどもんど中野**」（昭和風大衆居酒屋）・「**お肴野郎 清介**」（魚介を中心にした居酒屋・2025年9月）・「**酒処えびす**」（日本酒が充実した和風居酒屋）・「**あちらぼ**」（創作料理系）・「**まんまじぃま**」（沖縄風の家庭料理が揃う）・「**Litty**」（カジュアルなバー居酒屋）と2024〜2025年にかけて精力的に通い続けている。大久保の「**鳥貴族 大久保駅西店**」も。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-443dcbb1-202408,equal_love-67a09d04-202408,equal_love-e9976172-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-443dcbb1-202408,equal_love-67a09d04-202408,equal_love-e9976172-202408" %}
 
-<div class="inline-shop-grid" data-shop-ids="equallove_004,equal_love-a6665704-202408,equal_love-c9547500-202408,equal_love-246f9b6d-202509,equal_love-01641645-202504,equal_love-f22d7edd-202502,equal_love-a9d4d24e-202412,equal_love-bd15bb1d-202412,equal_love-17396234-202412,equal_love-litty-20241211"></div>
+{% include inline-shop-grid.html ids="equallove_004,equal_love-a6665704-202408,equal_love-c9547500-202408,equal_love-246f9b6d-202509,equal_love-01641645-202504,equal_love-f22d7edd-202502,equal_love-a9d4d24e-202412,equal_love-bd15bb1d-202412,equal_love-17396234-202412,equal_love-litty-20241211" %}
 
 ## 孤独のグルメ（6件）：渋い一人飲みの美学
 
 孤独のグルメの居酒屋は大衆的な雰囲気の名店揃い。高田馬場の「**もつ焼きばん 高田馬場店**」（老舗もつ焼き）・「**居酒屋まめぞ**」「**居酒屋 舞子**」はドラマの一人飲みシーンが印象的。変わり種は「**キッチンオニオン**」（玉ねぎ料理専門のユニーク店）、「**タムタム**」「**すみれ**」も静かに名を連ねる。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-b768e841-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-842790b5-,kodoku_no_gurume-8dd15d33-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-e09c3ed5-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-b768e841-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-842790b5-,kodoku_no_gurume-8dd15d33-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-e09c3ed5-" %}
 
 ## Snow Man（5件）・SixTONES（5件）
 
@@ -53,9 +53,9 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 **SixTONES**は群馬・伊香保温泉の「**浮曇（うきぐもり）**」（温泉地の情緒ある一軒）が異色。ほかは新宿が多く「**鳥元 新宿西口店**」（鶏料理専門）・「**鳥貴族 新宿東口店**」、名古屋遠征の「**くるみ 新栄店**」（名古屋の人気地元居酒屋）、「**蘭蝶**」（和の情緒ある昭和系居酒屋）も。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-ore-no-kappo-ebisu,snowman-asagaya-birdland,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,snowman-e4da675e-20251011"></div>
+{% include inline-shop-grid.html ids="snowman-ore-no-kappo-ebisu,snowman-asagaya-birdland,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,snowman-e4da675e-20251011" %}
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-ukigumori-ikaho,sixtones-torigen-shinjuku,sixtones-toriki-shinjuku,sixtones-kurumi-shineimachi,sixtones-bf58b791-202212"></div>
+{% include inline-shop-grid.html ids="sixtones-ukigumori-ikaho,sixtones-torigen-shinjuku,sixtones-toriki-shinjuku,sixtones-kurumi-shineimachi,sixtones-bf58b791-202212" %}
 
 ## なにわ男子（6件）・乃木坂46（6件）
 
@@ -63,9 +63,9 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 **乃木坂46**は個性派揃い：鎌倉の「**ROOFTOPS（ルーフトップス）**」（海を望むルーフトップバー）・福生の「**デモデダイナー**」（アメリカン）・汐留の「**プロント ウインズ汐留店**」・「**COCONEEL**」・「**味楽**」・さいたまの「**Serafina NEW YORK**」（NY系イタリアン居酒屋）。
 
-<div class="inline-shop-grid" data-shop-ids="naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,naniwa-doowop-20211126,naniwa-2c2e760f-202410"></div>
+{% include inline-shop-grid.html ids="naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,naniwa-doowop-20211126,naniwa-2c2e760f-202410" %}
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-rooftops-,nogizaka46-76d7ba94-,nogizaka46-ca63b74a-,nogizaka46-coconeel-,nogizaka46-644a3895-,nogizaka46-serafina_new_york-"></div>
+{% include inline-shop-grid.html ids="nogizaka46-rooftops-,nogizaka46-76d7ba94-,nogizaka46-ca63b74a-,nogizaka46-coconeel-,nogizaka46-644a3895-,nogizaka46-serafina_new_york-" %}
 
 ## よにのちゃんねる（4件）・亀梨和也（4件）・King & Prince（4件）
 
@@ -75,11 +75,11 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 **King & Prince**は多国籍居酒屋路線：「**奥渋 魚力**」（渋谷の隠れた魚居酒屋）・「**CABE（チャベ）**」（スペインバル）・「**Andhra Dining GINZA**」（南インド料理）・コレド室町の「**富錦樹台菜香檳**」（台湾料理）と、和・洋・アジアをまたぐ高感度4店。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-negiya-heikichi,yonino-yamanaka-ginza,yonino-takeno-tsukiji,yonino-daisanboku-aoyama"></div>
+{% include inline-shop-grid.html ids="yonino-negiya-heikichi,yonino-yamanaka-ginza,yonino-takeno-tsukiji,yonino-daisanboku-aoyama" %}
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-3a7e3c9a-202402,kamenashi-34069a08-202405,kamenashi-27f41658-202412,kamenashi-beschle-20241116"></div>
+{% include inline-shop-grid.html ids="kamenashi-3a7e3c9a-202402,kamenashi-34069a08-202405,kamenashi-27f41658-202412,kamenashi-beschle-20241116" %}
 
-<div class="inline-shop-grid" data-shop-ids="kingprince-f9639215-20220813,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6513cfda-20221022"></div>
+{% include inline-shop-grid.html ids="kingprince-f9639215-20220813,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6513cfda-20221022" %}
 
 ## 複数グループが訪れた共通店
 
@@ -89,7 +89,7 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 **「鳥貴族」**は=LOVE（大久保）・SixTONES（新宿東口）・ねあじょい（新宿小滝橋）の3グループ3店舗が記録されており、均一価格の鳥貴族が芸能人にも愛されるコスパの良い選択肢であることが分かる。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-443dcbb1-202408,kamaitachi-380c2d89-,kamenashi-34069a08-202405,notme-4bae4322-202505,equal_love-c9547500-202408,sixtones-toriki-shinjuku,neajoy-afc14d66-202409"></div>
+{% include inline-shop-grid.html ids="equal_love-443dcbb1-202408,kamaitachi-380c2d89-,kamenashi-34069a08-202405,notme-4bae4322-202505,equal_love-c9547500-202408,sixtones-toriki-shinjuku,neajoy-afc14d66-202409" %}
 
 ## かまいたち・ねあじょい・その他
 
@@ -99,7 +99,7 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 そのほか、**ginga**は銀座の「**KORIN**」（2025年4月）、**not me**は渋谷の「**釣船茶屋ざうお 渋谷店**」、**Hey!Say!JUMP**は新宿の「**ダイニングダーツバー Bee**」（ダーツバー兼居酒屋・2017年）の各1店。
 
-<div class="inline-shop-grid" data-shop-ids="kamaitachi-394d7350-,kamaitachi-097127ba-,neajoy-afc14d66-202409,neajoy-9538e782-202510,ginga-korin-20250413,notme-4bae4322-202505,heysayjump-bee-20170201"></div>
+{% include inline-shop-grid.html ids="kamaitachi-394d7350-,kamaitachi-097127ba-,neajoy-afc14d66-202409,neajoy-9538e782-202510,ginga-korin-20250413,notme-4bae4322-202505,heysayjump-bee-20170201" %}
 
 ## エリア別居酒屋聖地巡礼ルート
 

@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'もやしと肉のピリ辛イタメ'}"
-  - "{'name': 'ジャンボ餃子'}"
-  - "{'name': 'やきとり'}"
+  - "もやしと肉のピリ辛イタメ"
+  - "ジャンボ餃子"
+  - "やきとり"
 ---

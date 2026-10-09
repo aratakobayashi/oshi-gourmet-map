@@ -21,5 +21,6 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '生しらすとびっちょ丼\\n2,200円'}"
+  - "生しらすとびっちょ丼
+2,200円"
 ---

@@ -1,230 +1,59 @@
 ---
 layout: default
 ---
-{%- assign guide_cat = site.data.guide_categories | where: "key", page.guide_category | first -%}
+{%- assign cat = site.data.guide_categories | where: "key", page.guide_category | first -%}
 {%- assign venue = site.data.venues[page.slug] -%}
+{%- assign vn = site.data.venue_nearby[page.slug] -%}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"{{ site.url }}/"},{"@type":"ListItem","position":2,"name":"推し活ガイド","item":"{{ site.url }}/guide/"},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}</script>
 
-<div class="reading-progress" id="reading-progress"></div>
+<div class="wrap art">
+  <ol class="crumbs" aria-label="パンくずリスト">
+    <li><a href="{{ '/' | relative_url }}">ホーム</a></li>
+    <li><a href="{{ '/guide/' | relative_url }}">推し活ガイド</a></li>
+    {%- if cat %}<li><a href="{{ '/guide/' | relative_url }}#{{ cat.key }}">{{ cat.label }}</a></li>{% endif %}
+    <li aria-current="page">{{ venue.name | default: page.title | truncate: 24 }}</li>
+  </ol>
+  <div class="artg">
+    <article class="artg__a">
+      {%- if page.thumbnail %}{% assign t600 = page.thumbnail | replace: '.webp', '_600.webp' %}
+      <figure class="art__hero"><img src="{{ t600 | relative_url }}" srcset="{{ t600 | relative_url }} 600w, {{ page.thumbnail | relative_url }} 1200w" sizes="(min-width: 1024px) 760px, 100vw" alt="" width="1200" height="675" fetchpriority="high"></figure>
+      {%- endif %}
+      <p class="art__badges">{% if cat %}<span class="badge badge--ink">{{ cat.label }}</span>{% endif %}</p>
+      <h1 class="art__title">{{ page.title }}</h1>
+      <p class="art__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }} 公開</time>{% if page.last_modified_at and page.last_modified_at != page.date %}・{{ page.last_modified_at | date: "%Y.%m.%d" }} 更新{% endif %}</p>
+      {%- if page.pr %}<p class="pr-note" style="margin-top:4px">本ページはプロモーションを含みます</p>{% endif %}
+      {% include toc.html html=content %}
+      <div class="prose">{{ content }}</div>
+    </article>
 
-<nav class="breadcrumb" aria-label="パンくずリスト">
-  <div class="container">
-    <ol class="breadcrumb__list">
-      <li class="breadcrumb__item"><a href="{{ '/' | relative_url }}">ホーム</a></li>
-      <li class="breadcrumb__item"><a href="{{ '/guide/' | relative_url }}">推し活ガイド</a></li>
-      {% if guide_cat %}<li class="breadcrumb__item"><a href="{{ '/guide/' | relative_url }}#{{ guide_cat.key }}">{{ guide_cat.label }}</a></li>{% endif %}
-      <li class="breadcrumb__item breadcrumb__item--current" aria-current="page">{{ page.title }}</li>
-    </ol>
-  </div>
-</nav>
-
-<section class="article-hero" style="background: linear-gradient(135deg, #1a1a2e 0%, #e8537a 100%)">
-  <div class="article-hero__inner{% unless page.thumbnail %} article-hero__inner--no-media{% endunless %}">
-    <div class="article-hero__content">
-      <div class="article-hero__badges">
-        {% if guide_cat %}<span class="badge badge--genre">{{ guide_cat.icon }} {{ guide_cat.label }}</span>{% endif %}
-      </div>
-      <h1 class="article-hero__title">{{ page.title }}</h1>
-      <p class="article-hero__meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
-        {% if page.last_modified_at and page.last_modified_at != page.date %}<span class="article-hero__updated">更新: {{ page.last_modified_at | date: "%Y年%m月%d日" }}</span>{% endif %}
-      </p>
-    </div>
-    {% if page.thumbnail %}
-    <div class="article-hero__media">
-      {%- assign thumb_600 = page.thumbnail | replace: '.webp', '_600.webp' -%}
-      <img src="{{ thumb_600 | relative_url }}" srcset="{{ thumb_600 | relative_url }} 600w, {{ page.thumbnail | relative_url }} 1200w" sizes="(max-width: 768px) 100vw, 480px" alt="{{ page.title }}" width="1200" height="1200" fetchpriority="high">
-    </div>
-    {% endif %}
-  </div>
-</section>
-
-<div class="article-layout">
-  <div class="article-layout__inner container">
-
-    <main class="article-main" id="article-main">
-
-      {% if page.pr %}<p class="pr-notice">本ページはプロモーションを含みます</p>{% endif %}
-
-      <nav class="toc-box toc-box--mobile" id="toc-wrapper-mobile" aria-label="目次" style="display:none">
-        <button class="toc-toggle" id="toc-toggle" aria-expanded="false">
-          <span class="toc-toggle__label">📋 目次</span>
-          <span class="toc-toggle__icon">▼</span>
-        </button>
-        <ol class="toc-list toc-list--mobile" id="toc-list-mobile" style="display:none"></ol>
-      </nav>
-
-      <div class="post-body guide-body">
-        {{ content }}
-      </div>
-
-      {% if venue %}
-      <section class="guide-nearby" id="guide-nearby"
-               data-lat="{{ venue.lat }}" data-lng="{{ venue.lng }}" data-name="{{ venue.name }}">
-        <h2 class="guide-nearby__title">🍽️ {{ venue.name }}周辺の聖地グルメ</h2>
-        <p class="guide-nearby__lead">推しが訪れたお店のうち、会場から近い順に表示しています（直線距離）。</p>
-        <div class="guide-nearby__list" id="guide-nearby-list"><p class="loading">読み込み中...</p></div>
-        <a href="{{ '/shops/' | relative_url }}" class="post-map-cta__btn guide-nearby__more">地図で全スポットを見る →</a>
+    <div class="artg__b">
+      {%- if vn and vn.ids.size > 0 %}
+      <section class="section" id="nearby">
+        <h2 class="h2">{{ venue.name }}周辺の聖地グルメ</h2>
+        <p class="meta" style="margin:4px 0 8px">推しが訪れたお店のうち、会場から近い順（直線距離）。3km以内に{{ vn.n }}軒あります。</p>
+        <div class="minis">{% for n in vn.ids %}{% include mini.html id=n.id m=n.m %}{% endfor %}</div>
+        <p class="more-wrap"><a class="link-more" href="{{ '/shops/' | relative_url }}?view=map">地図で周辺のお店を探す →</a></p>
       </section>
-      {% endif %}
+      {%- endif %}
 
-      {% assign related = site.guides | where: "guide_category", page.guide_category %}
-      {% if related.size > 1 %}
-      <section class="guide-related">
-        <h2 class="guide-related__title">{{ guide_cat.label }}の記事</h2>
-        <ul class="guide-related__list">
-          {% for g in related %}{% unless g.url == page.url %}
-          <li><a href="{{ g.url | relative_url }}">{{ g.title }}</a></li>
-          {% endunless %}{% endfor %}
-        </ul>
+      {%- assign related = site.guides | where: "guide_category", page.guide_category %}
+      {%- if related.size > 1 %}
+      <section class="section">
+        <h2 class="h2" style="margin-bottom:12px">{{ cat.label }}のほかの記事</h2>
+        <div class="linkcards">{% for g in related %}{% unless g.url == page.url %}<a class="linkcard" href="{{ g.url | relative_url }}">{{ g.title | truncate: 46 }}<span class="cnt" aria-hidden="true">→</span></a>{% endunless %}{% endfor %}</div>
       </section>
-      {% endif %}
+      {%- endif %}
+    </div>
 
-      <footer class="post-footer article-post-footer">
-        <div class="post-footer__share">
-          <span>この記事をシェア：</span>
-          <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--x" target="_blank" rel="noopener">𝕏</a>
-          <a href="https://line.me/R/msg/text/?{{ page.url | absolute_url | url_encode }}" class="share-btn share-btn--line" target="_blank" rel="noopener">LINE</a>
-        </div>
-        <div class="post-footer__nav">
-          <a href="{{ '/guide/' | relative_url }}" class="btn btn--back">← 推し活ガイド一覧</a>
-          <a href="{{ '/' | relative_url }}" class="btn btn--back">← トップへ</a>
-        </div>
-      </footer>
-
-    </main>
-
-    <aside class="article-sidebar" id="article-sidebar">
-      <div class="article-sidebar__inner">
-        <nav class="toc-box toc-box--sidebar" id="toc-wrapper-sidebar" aria-label="目次" style="display:none">
-          <p class="toc-title">📋 目次</p>
-          <ol class="toc-list" id="toc-list-sidebar"></ol>
-        </nav>
-        {% if venue %}
-        <div class="sidebar-cta">
-          <p class="sidebar-cta__group">{{ venue.name }}</p>
-          <p class="sidebar-cta__text">周辺の聖地グルメをチェック</p>
-          <a href="#guide-nearby" class="sidebar-cta__btn">周辺のお店を見る ↓</a>
-        </div>
-        {% endif %}
-      </div>
+    <aside class="artg__s">
+      {%- if venue and vn %}
+      {% include stay-block.html hk=vn.hk hj=vn.hj %}
+      {%- else %}
+      <a class="darkblock darkblock--link" href="{{ '/shops/' | relative_url }}"><span><span class="meta">推しが行ったお店</span><br><b>{{ site.data.site_stats.shops }}軒を地図で探す</b></span><span aria-hidden="true">→</span></a>
+      {%- endif %}
     </aside>
-
   </div>
 </div>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "{{ site.url }}/" },
-    { "@type": "ListItem", "position": 2, "name": "推し活ガイド", "item": "{{ site.url }}/guide/" },
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
-  ]
-}
-</script>
-
-<script>
-// 読書進捗バー
-(function() {
-  var bar = document.getElementById('reading-progress');
-  var main = document.getElementById('article-main');
-  if (!bar || !main) return;
-  function update() {
-    var total = main.offsetTop + main.offsetHeight - window.innerHeight;
-    var pct = total > 0 ? Math.min(100, ((window.scrollY || document.documentElement.scrollTop) / total) * 100) : 0;
-    bar.style.width = pct + '%';
-  }
-  window.addEventListener('scroll', update, { passive: true });
-  // 初期計算は最初の描画のあとに行う（描画前のレイアウト計算を避ける）
-  window.addEventListener('load', function() { requestAnimationFrame(update); });
-})();
-
-// 目次自動生成（記事本文の h2 / h3）
-(function() {
-  var headings = document.querySelectorAll('.guide-body h2, .guide-body h3');
-  if (headings.length < 2) return;
-  var lists = [document.getElementById('toc-list-sidebar'), document.getElementById('toc-list-mobile')];
-  headings.forEach(function(h, i) {
-    if (!h.id) h.id = 'section-' + i;
-    lists.forEach(function(list) {
-      if (!list) return;
-      var li = document.createElement('li');
-      if (h.tagName === 'H3') li.classList.add('toc-item--h3');
-      var a = document.createElement('a');
-      a.href = '#' + h.id;
-      a.textContent = h.textContent;
-      li.appendChild(a);
-      list.appendChild(li);
-    });
-  });
-  ['toc-wrapper-sidebar', 'toc-wrapper-mobile'].forEach(function(id) {
-    var el = document.getElementById(id);
-    if (el) el.style.display = 'block';
-  });
-  var btn = document.getElementById('toc-toggle');
-  var list = document.getElementById('toc-list-mobile');
-  if (btn && list) btn.addEventListener('click', function() {
-    var open = list.style.display !== 'none';
-    list.style.display = open ? 'none' : 'block';
-    btn.setAttribute('aria-expanded', String(!open));
-    btn.querySelector('.toc-toggle__icon').textContent = open ? '▼' : '▲';
-  });
-})();
-
-// 会場周辺の聖地グルメ（shops-lite.json から直線距離で近い順に表示）
-(function() {
-  var sec = document.getElementById('guide-nearby');
-  if (!sec) return;
-  var lat = parseFloat(sec.dataset.lat), lng = parseFloat(sec.dataset.lng);
-  var listEl = document.getElementById('guide-nearby-list');
-  var base = '{{ site.baseurl }}';
-  var MAX_KM = 15, MAX_ITEMS = 6;
-  function km(a, b, c, d) {
-    var r = Math.PI / 180, dLat = (c - a) * r, dLng = (d - b) * r;
-    var h = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(a * r) * Math.cos(c * r) * Math.sin(dLng / 2) * Math.sin(dLng / 2);
-    return 12742 * Math.asin(Math.sqrt(h));
-  }
-  function esc(s) {
-    return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-  }
-  function load() { fetch(base + '/data/shops-lite.json').then(function(r) { return r.json(); }).then(function(shops) {
-    var near = shops.filter(function(s) { return s.lat && s.lng && !s.closed; })
-      .map(function(s) { return { s: s, d: km(lat, lng, s.lat, s.lng) }; })
-      .filter(function(x) { return x.d <= MAX_KM; })
-      .sort(function(a, b) { return a.d - b.d; })
-      .slice(0, MAX_ITEMS);
-    if (!near.length) {
-      listEl.innerHTML = '<p class="guide-nearby__empty">会場の近く（' + MAX_KM + 'km以内）に掲載中のお店はまだありません。地図から周辺エリアのお店を探せます。</p>';
-      return;
-    }
-    var labels = window.SITE_GROUP_LABELS || {};
-    listEl.innerHTML = near.map(function(x) {
-      var s = x.s;
-      var thumb = s.youtube_id ? 'https://i.ytimg.com/vi_webp/' + esc(s.youtube_id) + '/mqdefault.webp' : (s.thumbnail_url || '');
-      var slug = s.id.replace(/_/g, '-').replace(/-+$/g, '');
-      var dist = x.d < 1 ? Math.round(x.d * 1000) + 'm' : x.d.toFixed(1) + 'km';
-      return '<div class="inline-shop-card"><a class="inline-shop-card__inner" href="' + base + '/shops/' + slug + '/">'
-        + '<div class="inline-shop-card__thumb">' + (thumb ? '<img src="' + thumb + '" alt="' + esc(s.name) + '" loading="lazy">'
-          : '<div class="inline-shop-card__banner" style="background:#f5eef0">' + (genreIcon(s.genre) || '🍽️') + '</div>') + '</div>'
-        + '<div class="inline-shop-card__body">'
-        + '<span class="badge badge--genre" style="font-size:0.7rem">' + esc(genreLabel(s.genre)) + '</span>'
-        + '<p class="inline-shop-card__name">' + esc(s.name) + '</p>'
-        + '<p class="inline-shop-card__meta">📍 会場から約' + dist + (labels[s.group] ? ' · ' + esc(labels[s.group]) : '') + '</p>'
-        + '</div></a></div>';
-    }).join('');
-  }).catch(function() {
-    listEl.innerHTML = '<p class="guide-nearby__empty">お店の情報を読み込めませんでした。</p>';
-  }); }
-  // 周辺グルメの欄が画面に近づいたら読み込む（表示速度のため）
-  if (!('IntersectionObserver' in window)) { load(); return; }
-  var io = new IntersectionObserver(function(entries) {
-    if (entries.some(function(e) { return e.isIntersecting; })) { io.disconnect(); load(); }
-  }, { rootMargin: '600px' });
-  io.observe(sec);
-})();
-</script>
-
 {% if page.embeds contains 'twitter' %}<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{% endif %}
 {% if page.embeds contains 'instagram' %}<script async src="https://www.instagram.com/embed.js"></script>{% endif %}
 {% if page.embeds contains 'tiktok' %}<script async src="https://www.tiktok.com/embed.js"></script>{% endif %}

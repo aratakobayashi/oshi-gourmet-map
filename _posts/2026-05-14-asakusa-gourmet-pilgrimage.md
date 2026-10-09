@@ -38,7 +38,7 @@ faq:
 
 浅草は<mark>よにのちゃんねる</mark>と<mark>Snow Man（すの日常）</mark>の2グループが、それぞれ独立して何度も選んできたエリアだ。2グループ合わせて6店・10本以上の動画に浅草のお店が登場しており、もんじゃ・すき焼き・おにぎり・うなぎ・麦とろという浅草らしい老舗食文化が揃っている。1エリアで異なるグループの聖地を一気に巡れる、ファンにとって効率のいい聖地だ。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-teppan-daikichi,yonino-imahan-asakusa,snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604,snowman-unagi-kawamatu-higashikurume"></div>
+{% include inline-shop-grid.html ids="yonino-teppan-daikichi,yonino-imahan-asakusa,snowman-onigiri-asakusa-yadoroku,snowman-tsurujiro-asakusa,snowman-41d7688e-202604,snowman-unagi-kawamatu-higashikurume" %}
 
 ## よにのちゃんねるの浅草【2店】
 
@@ -52,7 +52,7 @@ faq:
 
 > **電話予約（03-5826-7021）推奨**。週末・忘年会シーズンは行列必至。**営業時間 11:00〜23:00（火・水は17:00〜）**。つくばエクスプレス浅草駅A1-1出口から**徒歩約3分**。
 
-<div class="inline-shop-card" data-shop-id="yonino-teppan-daikichi"></div>
+{% include inline-shop-card.html shop_id="yonino-teppan-daikichi" %}
 
 ### 浅草今半 国際通り本店（すき焼き）
 
@@ -60,7 +60,7 @@ faq:
 
 > **予約必須**（公式サイトまたは電話）。ランチ・ディナーともに営業。**最寄り：東京メトロ銀座線浅草駅 徒歩約5分**。
 
-<div class="inline-shop-card" data-shop-id="yonino-imahan-asakusa"></div>
+{% include inline-shop-card.html shop_id="yonino-imahan-asakusa" %}
 
 ## Snow Man（すの日常）の浅草【4店】
 
@@ -72,13 +72,13 @@ faq:
 
 > **営業時間 10:00〜18:00（売り切れ次第終了）**。人気のため**午前中の早い時間帯**に並ぶのがベスト。**最寄り：東京メトロ銀座線浅草駅 徒歩約8分**。
 
-<div class="inline-shop-card" data-shop-id="snowman-onigiri-asakusa-yadoroku"></div>
+{% include inline-shop-card.html shop_id="snowman-onigiri-asakusa-yadoroku" %}
 
 ### 浅草つる次郎 HANARE（もんじゃ・お好み焼き）
 
 <mark>渡辺翔太・阿部亮平・目黒蓮・佐久間大介</mark>がアスレチック前の腹ごしらえとして2024年5月に訪れたもんじゃ・お好み焼き店。「アスレチックに行く前にまずはメシ！」というタイトルが示す通り、4人でにぎやかに鉄板を囲む様子が収められている。よにのとは別の4人が浅草のもんじゃ文化を楽しんだ回でもある。
 
-<div class="inline-shop-card" data-shop-id="snowman-tsurujiro-asakusa"></div>
+{% include inline-shop-card.html shop_id="snowman-tsurujiro-asakusa" %}
 
 ### 浅草むぎとろ本店（麦とろ）
 
@@ -86,13 +86,13 @@ faq:
 
 > **最寄り：東武スカイツリーライン浅草駅 徒歩約2分**。雷門のすぐそば。**11:00〜21:00**営業（土日は〜20:30）。浅草観光の昼食にも使いやすい。
 
-<div class="inline-shop-card" data-shop-id="snowman-41d7688e-202604"></div>
+{% include inline-shop-card.html shop_id="snowman-41d7688e-202604" %}
 
 ### うなぎ川松（うなぎ）
 
 <mark>岩本照・深澤辰哉・佐久間大介・目黒蓮</mark>が「釣り部結成記念食事会」として2024年2月に訪れたうなぎ専門店。40年以上継ぎ足し続ける秘伝タレで焼くうなぎが名物で、浅草の老舗として地元ファンにも愛されてきた一店だ。「釣りをする → 浅草でうなぎを食う」という流れが、すの日常らしい食への本気度を物語っている。
 
-<div class="inline-shop-card" data-shop-id="snowman-unagi-kawamatu-higashikurume"></div>
+{% include inline-shop-card.html shop_id="snowman-unagi-kawamatu-higashikurume" %}
 
 ## グループ別モデルコース
 

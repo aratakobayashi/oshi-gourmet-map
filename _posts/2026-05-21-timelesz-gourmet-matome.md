@@ -36,19 +36,19 @@ faq:
 
 timelesszグルメの最大の見どころは浅草エリアの和スイーツ三傑。<mark>亀十</mark>（台東区）は明治時代創業の老舗で、ふっくらしたどら焼きが名物。行列必至の東京土産の定番だ。<mark>舟和 本店</mark>（台東区）は芋ようかんと羊羹で知られる浅草の老舗甘味処。<mark>常盤堂雷おこし本舗 雷門本店</mark>（台東区）は江戸時代から続く雷おこしの名店で、浅草雷門の真前に位置する。
 
-<div class="inline-shop-grid" data-shop-ids="timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-"></div>
+{% include inline-shop-grid.html ids="timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-" %}
 
 ## 食事・焼肉【2店】
 
 <mark>三久飯店</mark>（東京都目黒区）は目黒の中華食事処。<mark>牛の達人 Private 西新宿店</mark>（新宿区）は厳選和牛を堪能できるプレミアム個室焼肉として知られ、timelesszのメンバーが訪れたことで話題になった。
 
-<div class="inline-shop-grid" data-shop-ids="timelesz-540cca88-,timelesz-private-"></div>
+{% include inline-shop-grid.html ids="timelesz-540cca88-,timelesz-private-" %}
 
 ## 栃木遠征【もなか 1店】
 
 <mark>日光もなか</mark>（栃木県日光市）は日光の名物もなかの老舗。timelesszの日光ロケで訪れた和菓子の聖地で、日光東照宮観光と組み合わせた聖地巡礼が人気だ。
 
-<div class="inline-shop-card" data-shop-id="timelesz-59cd8eb8-"></div>
+{% include inline-shop-card.html shop_id="timelesz-59cd8eb8-" %}
 
 ## 巡礼プランのヒント
 

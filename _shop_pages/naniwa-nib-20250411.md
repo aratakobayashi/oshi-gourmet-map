@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': 'カカオのデザートコース 5,500円'}"
+  - "カカオのデザートコース 5,500円"
 ---

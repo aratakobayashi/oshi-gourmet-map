@@ -19,5 +19,5 @@ members:
 groups:
   - "kimura"
 ordered_items:
-  - "{'name': 'スッキリ系の白ワイン(グラス)'}"
+  - "スッキリ系の白ワイン(グラス)"
 ---

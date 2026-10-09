@@ -36,7 +36,7 @@ faq:
 
 <mark>SixTONES</mark> がストチューブで繰り返し訪れてきたのが、浅草・月島・両国・錦糸町という東京の"下町ライン"だ。洋食・とんかつ・もんじゃ・ちゃんこ・小籠包と、ジャンルも店の個性もバラバラなのに、全部が「この街らしさ」でつながっている。ストチューブの下町回で登場した7店を、都営地下鉄1本で巡る聖地巡礼コースにまとめた。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-grill-grand-asakusa,sixtones-tomiya-asakusa,sixtones-daruma-soramachi,sixtones-dintaifung-soramachi,sixtones-shichifuku-jin-ryogoku,sixtones-c2272dd2-201906"></div>
+{% include inline-shop-grid.html ids="sixtones-grill-grand-asakusa,sixtones-tomiya-asakusa,sixtones-daruma-soramachi,sixtones-dintaifung-soramachi,sixtones-shichifuku-jin-ryogoku,sixtones-c2272dd2-201906" %}
 
 ## コース全体図
 

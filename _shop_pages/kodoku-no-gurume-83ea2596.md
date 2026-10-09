@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'アジフライ定食'}"
-  - "{'name': 'さんが焼き'}"
-  - "{'name': '肉じゃが'}"
+  - "アジフライ定食"
+  - "さんが焼き"
+  - "肉じゃが"
 ---

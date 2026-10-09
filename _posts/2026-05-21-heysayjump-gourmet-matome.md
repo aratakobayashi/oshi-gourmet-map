@@ -80,37 +80,37 @@ faq:
 
 2016年7月放送の銀座特集回は「いただきハイジャンプ」屈指の人気回。<mark>てんぷら阿部 銀座本店</mark>・<mark>BLTステーキ 銀座</mark>・<mark>東京銀座フォワグラ</mark>・<mark>銀座 楼蘭</mark>と、銀座を代表する高級店が1回に凝縮された。ランチ〜ディナーをはしごする計画にも対応できるエリアだ。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-e23d17b2-20160720,heysayjump-blt-20160720,heysayjump-1e541157-20160720,heysayjump-77cd10ec-20160720"></div>
+{% include inline-shop-grid.html ids="heysayjump-e23d17b2-20160720,heysayjump-blt-20160720,heysayjump-1e541157-20160720,heysayjump-77cd10ec-20160720" %}
 
 ## 赤坂・渋谷・新宿エリア
 
 <mark>赤坂鮨兆</mark>（2016年5月放送）・<mark>銀熊茶寮</mark>・<mark>Sun-mi 高松本店 EMU</mark>の3店が赤坂・六本木エリアに集中。渋谷では<mark>赤ちり亭 渋谷本店</mark>が登場し、新宿では<mark>秀ちゃんラーメン赤坂</mark>・<mark>ダイニングダーツバー Bee 新宿店</mark>・<mark>パセラリゾーツ 銀座店</mark>など個性的な店が続く。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-b2922bdd-20160518,heysayjump-a4fe57cb-20160518,heysayjump-sun_mi_emu-20160518,heysayjump-d26f3f7f-20161026,heysayjump-a5e442e2-201603,heysayjump-bee-20170201,heysayjump-747256d6-20170201"></div>
+{% include inline-shop-grid.html ids="heysayjump-b2922bdd-20160518,heysayjump-a4fe57cb-20160518,heysayjump-sun_mi_emu-20160518,heysayjump-d26f3f7f-20161026,heysayjump-a5e442e2-201603,heysayjump-bee-20170201,heysayjump-747256d6-20170201" %}
 
 ## 目黒・大田区・テイクアウトエリア
 
 <mark>New NEW YORK CLUB</mark>は目黒区緑が丘に構えるハンバーガー専門店。2016年10月放送回ではテイクアウトスタイルで登場した。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-new_new_york_club-20161026,heysayjump-new_new_york_club-201610"></div>
+{% include inline-shop-grid.html ids="heysayjump-new_new_york_club-20161026,heysayjump-new_new_york_club-201610" %}
 
 ## 秋葉原・深川・亀戸エリア【下町グルメ】
 
 <mark>HERO'S ステーキハウス 秋葉原店</mark>（2016年4月放送）・<mark>深川 つり舟</mark>と、下町エリアの個性派グルメが登場。2018年9月放送の亀戸回では<mark>うな達</mark>・<mark>亀戸餃子</mark>・<mark>ひき肉少年</mark>・<mark>路地裏</mark>と4店が一気に集まった。亀戸エリアだけで半日コースが組める。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-hero_s-20160414,heysayjump-aad59291-20160414,heysayjump-25f1ec3d-20180908,heysayjump-d5f50b8f-20180908,heysayjump-e83e8430-20180908,heysayjump-078efd60-20180908"></div>
+{% include inline-shop-grid.html ids="heysayjump-hero_s-20160414,heysayjump-aad59291-20160414,heysayjump-25f1ec3d-20180908,heysayjump-d5f50b8f-20180908,heysayjump-e83e8430-20180908,heysayjump-078efd60-20180908" %}
 
 ## 池袋・北東エリア
 
 2015年11月放送の「大盛りグルメ特集」回では池袋エリアに集中。<mark>スパゲッティーのパンチョ</mark>・<mark>TOM BOY 池袋2号店</mark>・<mark>中華料理 蘭州</mark>と、池袋の名物グルメが揃った。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-2c7fa4f5-20151114,heysayjump-tom_boy_2-20151114,heysayjump-36021fa8-20151114"></div>
+{% include inline-shop-grid.html ids="heysayjump-2c7fa4f5-20151114,heysayjump-tom_boy_2-20151114,heysayjump-36021fa8-20151114" %}
 
 ## 渋谷・青山・その他東京
 
 <mark>DAIGOMI</mark>（2016年3月）・<mark>くう</mark>と、渋谷〜青山エリアのおしゃれな店も登場している。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-daigomi-20160303,heysayjump-0286c585-20160303"></div>
+{% include inline-shop-grid.html ids="heysayjump-daigomi-20160303,heysayjump-0286c585-20160303" %}
 
 ## 川越特集【埼玉・小江戸の16店】
 
@@ -118,13 +118,13 @@ faq:
 
 > 川越特集の全16店と徒歩ルートは **[川越聖地巡礼コース記事](/articles/2026/05/18/heysayjump-kawagoe-course/)** で詳しく紹介しています。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-14cb2470-20181110,heysayjump-1b4619c1-20181110,heysayjump-fa5e2437-20181110,heysayjump-103aefa3-20181110,heysayjump-86cc2d7d-20181110,heysayjump-b9c7e0f2-20181110,heysayjump-300a1c2c-20181110,heysayjump-eea6c892-20181110,heysayjump-0b963b6e-20181124,heysayjump-243a0b6a-20181124,heysayjump-6760425c-20181124,heysayjump-20173f2d-20181124,heysayjump-e8d40d3c-20181124,heysayjump-e371a87e-20181124,heysayjump-cocoro-20181124,heysayjump-986f7fa5-20181124"></div>
+{% include inline-shop-grid.html ids="heysayjump-14cb2470-20181110,heysayjump-1b4619c1-20181110,heysayjump-fa5e2437-20181110,heysayjump-103aefa3-20181110,heysayjump-86cc2d7d-20181110,heysayjump-b9c7e0f2-20181110,heysayjump-300a1c2c-20181110,heysayjump-eea6c892-20181110,heysayjump-0b963b6e-20181124,heysayjump-243a0b6a-20181124,heysayjump-6760425c-20181124,heysayjump-20173f2d-20181124,heysayjump-e8d40d3c-20181124,heysayjump-e371a87e-20181124,heysayjump-cocoro-20181124,heysayjump-986f7fa5-20181124" %}
 
 ## 地方遠征【千葉・茨城・神奈川・静岡・福岡】
 
 いただきハイジャンプは東京・埼玉だけでなく、各地へも遠征。千葉・茨城・神奈川・静岡・福岡と幅広いエリアに聖地が点在している。
 
-<div class="inline-shop-grid" data-shop-ids="heysayjump-6a7b44cb-20151114,heysayjump-2bouze-20170201,heysayjump-448a0ff6-20180825,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-dcaf8134-20170201,heysayjump-471bb502-20180101,heysayjump-69bd605c-20170201"></div>
+{% include inline-shop-grid.html ids="heysayjump-6a7b44cb-20151114,heysayjump-2bouze-20170201,heysayjump-448a0ff6-20180825,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-dcaf8134-20170201,heysayjump-471bb502-20180101,heysayjump-69bd605c-20170201" %}
 
 ## 聖地巡礼プランのヒント
 

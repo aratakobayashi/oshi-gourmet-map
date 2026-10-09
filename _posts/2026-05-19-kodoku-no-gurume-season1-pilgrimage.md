@@ -42,7 +42,7 @@ faq:
 
 Season1に登場した10店は、いずれも東京の下町・住宅街・繁華街に実在する店ばかりだ。有名チェーンではなく、地元の常連客が通う個人店が中心——それが「孤独のグルメ」の聖地巡礼が今も続く理由のひとつでもある。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-fda4752d-,kodoku_no_gurume-916014a2-,kodoku_no_gurume-0cbd31fe-,kodoku_no_gurume-aa6d4a25-,kodoku_no_gurume-9af9d10b-,kodoku_no_gurume-82cde556-,kodoku_no_gurume-0b8d16e6-,kodoku_no_gurume-8a525c29-,kodoku_no_gurume-e09c3ed5-,kodoku_no_gurume-sokabokka-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-fda4752d-,kodoku_no_gurume-916014a2-,kodoku_no_gurume-0cbd31fe-,kodoku_no_gurume-aa6d4a25-,kodoku_no_gurume-9af9d10b-,kodoku_no_gurume-82cde556-,kodoku_no_gurume-0b8d16e6-,kodoku_no_gurume-8a525c29-,kodoku_no_gurume-e09c3ed5-,kodoku_no_gurume-sokabokka-" %}
 
 ---
 
@@ -56,7 +56,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **江東区門前仲町エリア**。東京メトロ東西線・都営大江戸線「門前仲町駅」から徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-fda4752d-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-fda4752d-" %}
 
 ---
 
@@ -68,7 +68,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **豊島区駒込エリア**。JR山手線・東京メトロ南北線「駒込駅」から徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-916014a2-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-916014a2-" %}
 
 ---
 
@@ -80,7 +80,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **豊島区要町**。東京メトロ有楽町線「要町駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-0cbd31fe-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-0cbd31fe-" %}
 
 ---
 
@@ -92,7 +92,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **杉並区久我山**。京王井の頭線「久我山駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-aa6d4a25-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-aa6d4a25-" %}
 
 ---
 
@@ -104,7 +104,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **中野区鷺ノ宮**。西武新宿線「鷺ノ宮駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-9af9d10b-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-9af9d10b-" %}
 
 ---
 
@@ -116,7 +116,7 @@ Season1の幕開けを飾る第1話の舞台は、江東区門前仲町の下町
 
 > **武蔵野市吉祥寺**。JR・京王「吉祥寺駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-82cde556-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-82cde556-" %}
 
 ---
 
@@ -130,7 +130,7 @@ Season1唯一の東京都外エピソード。五郎が向かったのは川崎�
 
 > **川崎市八丁畷エリア**。JR南武線「八丁畷駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-0b8d16e6-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-0b8d16e6-" %}
 
 ---
 
@@ -142,7 +142,7 @@ Season1唯一の東京都外エピソード。五郎が向かったのは川崎�
 
 > **世田谷区北沢**。小田急・京王「下北沢駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8a525c29-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8a525c29-" %}
 
 ---
 
@@ -156,7 +156,7 @@ Season1唯一の東京都外エピソード。五郎が向かったのは川崎�
 
 > **文京区根津エリア**。東京メトロ千代田線「根津駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-e09c3ed5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-e09c3ed5-" %}
 
 ---
 
@@ -170,7 +170,7 @@ Season1最終話の舞台は目黒区。五郎が締めくくりに選んだの�
 
 > **目黒区中目黒エリア**。東急東横線・東京メトロ「中目黒駅」から徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-sokabokka-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-sokabokka-" %}
 
 ---
 

@@ -51,19 +51,19 @@ faq:
 
 孤独のグルメの和食は**ご当地グルメと東京下町の名店**が二本柱。文京区の「豊栄」は知る人ぞ知る割烹で放送後に予約困難に。千葉・富津の「はまべ」は漁師町の海鮮定食として圧倒的な存在感だ。仙台「萃萃」、埼玉・上尾「キセキ食堂」と地方名店も見逃せない。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-f7531f88-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f3635787-,kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-6b42b0e8-,kodoku_no_gurume-8cd47230-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-f7531f88-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f3635787-,kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-6b42b0e8-,kodoku_no_gurume-8cd47230-" %}
 
 とんかつは川崎「しお田」と府中「やすいみ～と」が登場。割烹・定食では豊島区「和食亭」「割烹・定食 さがら」、荒川区「どん平」、世田谷「旬菜魚 いなだ」と都内の渋い名店が揃う。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-94021473-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-f586f38d-,kodoku_no_gurume-6d621f1f-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-94021473-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-f586f38d-,kodoku_no_gurume-6d621f1f-" %}
 
 全国ロケでは福岡「活海酒」・「屋台純ちゃん」、宮城・女川「ニューこのり」、三重「乙姫」（海鮮）、兵庫・丹波篠山「奥榮」（猪料理）と郷土料理のオンパレード。浜松「鰻の名店割烹 松の家」は孤独のグルメ×うなぎの代表格だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-e2fa1796-,kodoku_no_gurume-c9473191-,kodoku_no_gurume-5fe3fbab-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-f92d0f22-,kodoku_no_gurume-bba64785-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-e2fa1796-,kodoku_no_gurume-c9473191-,kodoku_no_gurume-5fe3fbab-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-f92d0f22-,kodoku_no_gurume-bba64785-" %}
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-46f60530-,kodoku_no_gurume-dfde9625-,kodoku_no_gurume-016be5ed-,kodoku_no_gurume-bd15a5e8-,kodoku_no_gurume-916014a2-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-46f60530-,kodoku_no_gurume-dfde9625-,kodoku_no_gurume-016be5ed-,kodoku_no_gurume-bd15a5e8-,kodoku_no_gurume-916014a2-" %}
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-1e23c393-,kodoku_no_gurume-f7dbe199-,kodoku_no_gurume-7134368f-,kodoku_no_gurume-5b08f7e4-,kodoku_no_gurume-43db0070-,kodoku_no_gurume-a9a7c2c5-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-1e23c393-,kodoku_no_gurume-f7dbe199-,kodoku_no_gurume-7134368f-,kodoku_no_gurume-5b08f7e4-,kodoku_no_gurume-43db0070-,kodoku_no_gurume-a9a7c2c5-" %}
 
 ---
 
@@ -73,13 +73,13 @@ faq:
 
 よにのの和食はバラエティ豊か。「浅草今半 国際通り本店」（すき焼き・明治28年創業）、「炭焼 うな富士 有楽町店」（うなぎ）、「しゃぶしゃぶ だるま」（麻布十番）と老舗・名店が揃う。「相撲茶屋 寺尾」（両国）は元力士が営む本格ちゃんこで、よにのらしい遊び心ある選択だ。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-imahan-asakusa,yonino-unafuji-yurakucho,yonino-daruma-azabu,yonino-sumo-chaya-terao,yonino-anume-azabujuban,yonino-nakayoshi-ebisu"></div>
+{% include inline-shop-grid.html ids="yonino-imahan-asakusa,yonino-unafuji-yurakucho,yonino-daruma-azabu,yonino-sumo-chaya-terao,yonino-anume-azabujuban,yonino-nakayoshi-ebisu" %}
 
 定食・食堂系では文京区「動坂食堂」、世田谷「食事処 相州屋」・「おひつ膳 田んぼ」、新宿「大人食堂」・「お食事処 たかはし」と、町の名店が点在。そば系は品川「酒と蕎麦ちりん」、軽井沢「石臼挽き蕎麦 東間」、「蕎麦割烹 こうもと」の3軒と充実している。
 
-<div class="inline-shop-grid" data-shop-ids="yonino-dousaka-shokudo,yonino-shokuji-dokoro-soushuya,yonino-otona-shokudo,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-nagisa-shokudo"></div>
+{% include inline-shop-grid.html ids="yonino-dousaka-shokudo,yonino-shokuji-dokoro-soushuya,yonino-otona-shokudo,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-nagisa-shokudo" %}
 
-<div class="inline-shop-grid" data-shop-ids="yonino-dancyu-shokudo,yonino-teshio-gohan-gen,yonino-ohitsuzen-tanbo-sangenchaya,yonino-kuraji-akasaka,yonino-negishi-ikebukuro,yonino-5d0b703c-202604"></div>
+{% include inline-shop-grid.html ids="yonino-dancyu-shokudo,yonino-teshio-gohan-gen,yonino-ohitsuzen-tanbo-sangenchaya,yonino-kuraji-akasaka,yonino-negishi-ikebukuro,yonino-5d0b703c-202604" %}
 
 ---
 
@@ -91,17 +91,17 @@ faq:
 
 <mark>Snow Manと孤独のグルメの両方</mark>に登場したのが新宿区の**「伊勢屋食堂」**。昔ながらの定食スタイルが残る下町の名店で、ふたつの全く異なる番組に選ばれたことがその普遍的な旨さを証明している。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-onigiri-bongo,nogizaka46-84891d52-,snowman-a9a7c2c5-202502,kodoku_no_gurume-a9a7c2c5-"></div>
+{% include inline-shop-grid.html ids="sixtones-onigiri-bongo,nogizaka46-84891d52-,snowman-a9a7c2c5-202502,kodoku_no_gurume-a9a7c2c5-" %}
 
 ## SixTONES：うなぎ・郷土料理・そばの旅13選
 
 SixTONESの和食は**全国の名物料理を制覇する旅グルメ**が特徴。うなぎは静岡・焼津「丸忠うなぎ」（漁港の老舗）と渋谷「うなぎ徳」の2軒。山梨・河口湖の「ほうとう不動」では郷土料理ほうとうを体験。秩父の「豚みそ丼本舗 野さか」は秩父B級グルメの代表格として地元で絶大な人気を誇る。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-unagi-maruchu,sixtones-2ed2841e-202305,sixtones-houtou-fudo-higashikoji,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-b647a3f1-202204"></div>
+{% include inline-shop-grid.html ids="sixtones-unagi-maruchu,sixtones-2ed2841e-202305,sixtones-houtou-fudo-higashikoji,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-b647a3f1-202204" %}
 
 墨田区「ちゃんこ 霧島」（元力士経営）、藤沢・江の島「貝作」（海鮮）、鎌倉「無（むしゃ）」、中央区「室町 砂場」（老舗そば）、目黒「串若丸」（串焼き）と多彩だ。
 
-<div class="inline-shop-grid" data-shop-ids="sixtones-shichifuku-jin-ryogoku,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan,sixtones-muromachi-tanakaya,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa"></div>
+{% include inline-shop-grid.html ids="sixtones-shichifuku-jin-ryogoku,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan,sixtones-muromachi-tanakaya,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa" %}
 
 ---
 
@@ -111,11 +111,11 @@ SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全ま�
 
 Snow Manの和食は**ヘルシー・こだわり系**が充実。浅草の「おにぎり 浅草 宿六」は創業1954年の老舗おにぎり専門店で、握りたての大粒おにぎりが名物。中目黒の「土鍋ご飯いくしか」は炊きたての土鍋ご飯にこだわる人気店だ。港区の「総本家更科堀井 本店」は元禄年間創業の江戸そばの名門。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-onigiri-asakusa-yadoroku,snowman-donabe-gohan-ikushika,snowman-sarashina-horii-motoazabu,snowman-yakuzenya-ebisu,snowman-unagi-kawamatu-higashikurume,snowman-ab957c1f-20250414"></div>
+{% include inline-shop-grid.html ids="snowman-onigiri-asakusa-yadoroku,snowman-donabe-gohan-ikushika,snowman-sarashina-horii-motoazabu,snowman-yakuzenya-ebisu,snowman-unagi-kawamatu-higashikurume,snowman-ab957c1f-20250414" %}
 
 渋谷「薬膳キッチン やくぜんや」は体に優しい薬膳定食の専門店。東久留米「うなぎ川松」は都内近郊のうなぎ名店として地元ファンも多い。京都・祇園の「天ぷら圓堂 八坂本店」は全国ロケならではの本格京料理だ。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-yoshidaya-tachiaigawa,snowman-wagaya-shokudo-kasai,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-3b39dc89-202409,snowman-ad3a68f9-202506"></div>
+{% include inline-shop-grid.html ids="snowman-yoshidaya-tachiaigawa,snowman-wagaya-shokudo-kasai,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-3b39dc89-202409,snowman-ad3a68f9-202506" %}
 
 ---
 
@@ -125,11 +125,11 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 =LOVEの和食は**鎌倉グルメ**と**そば専門店**が二大テーマ。鎌倉では「八倉 -湘南の魚と鎌倉野菜-」「鎌倉壱番屋 雪ノ下店」「ともや 鎌倉小町店」の3店を訪問。湘南の鮮魚・鎌倉野菜を使った料理を半日で巡れる充実のラインナップだ。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-93d5e98f-202408,equal_love-e334efa9-202408,equal_love-323e7d79-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-93d5e98f-202408,equal_love-e334efa9-202408,equal_love-323e7d79-202408" %}
 
 そば系は府中「手打ちそば ふるた」、金沢「加賀百万石の味 げんかん」、那覇「そば街角」（沖縄そば）、軽井沢「信州そば処 やまへい」と全国制覇の勢い。京都・清水の「清水順正 おかべ家」は豆腐料理の名店として異色の存在感だ。
 
-<div class="inline-shop-grid" data-shop-ids="equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408,equal_love-a1e545b6-202408,equal_love-4151a4c5-202408,equal_love-360fc2f3-202408"></div>
+{% include inline-shop-grid.html ids="equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408,equal_love-a1e545b6-202408,equal_love-4151a4c5-202408,equal_love-360fc2f3-202408" %}
 
 ---
 
@@ -139,9 +139,9 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 乃木坂は鎌倉「段葛 こ寿々」（葛きり）と銀座「佐藤養助」（稲庭うどん）の2店が和の名店として登場。Hey!Say!JUMPは銀座「てんぷら阿部 銀座本店」「銀熊茶寮」、木更津「海鮮茶屋 活き活き亭」と海鮮・天ぷらが中心だ。亀梨和也は品川「布恒更科」（そば）、ねあじょいは箱根「徳造丸 海鮮家」、not meは広島・宮島「あなごめし ふじたや」とそれぞれ旅先の名品を楽しんでいる。
 
-<div class="inline-shop-grid" data-shop-ids="nogizaka46-49c01557-,nogizaka46-ginza-sato-yosuke,heysayjump-e23d17b2-20160720,heysayjump-a4fe57cb-20160518,heysayjump-448a0ff6-20180825,heysayjump-25f1ec3d-20180908"></div>
+{% include inline-shop-grid.html ids="nogizaka46-49c01557-,nogizaka46-ginza-sato-yosuke,heysayjump-e23d17b2-20160720,heysayjump-a4fe57cb-20160518,heysayjump-448a0ff6-20180825,heysayjump-25f1ec3d-20180908" %}
 
-<div class="inline-shop-grid" data-shop-ids="kamenashi-c3b4e8da-202408,neajoy-0ccad40f-202408,notme-46637985-202408,ginga-cb38ce4c-202406,hinatazaka46-dashi-chazuke-en-narita,heysayjump-aad59291-20160414"></div>
+{% include inline-shop-grid.html ids="kamenashi-c3b4e8da-202408,neajoy-0ccad40f-202408,notme-46637985-202408,ginga-cb38ce4c-202406,hinatazaka46-dashi-chazuke-en-narita,heysayjump-aad59291-20160414" %}
 
 ## エリア別和食聖地巡礼ルート
 

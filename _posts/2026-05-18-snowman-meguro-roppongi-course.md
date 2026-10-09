@@ -34,7 +34,7 @@ faq:
 
 <mark>Snow Man</mark> がすの日常チャンネルで訪れてきた東京の食のレパートリーは、ミニブタカフェから本格フレンチまで驚くほど幅広い。目黒でミニブタに癒やされ、中目黒の土鍋ご飯で身体を整え、恵比寿で薬膳を試し、六本木でフレンチや焼肉を楽しむ——大人の東京を一日かけて巡る、すの日常ゆかりの全6店コースを紹介する。
 
-<div class="inline-shop-grid" data-shop-ids="snowman-mipig-cafe-meguro,snowman-ad3a68f9-202506,snowman-brettz-cafe-omotesando,snowman-yakuzenya-ebisu,snowman-futago-roppongi,snowman-gust-roppongi"></div>
+{% include inline-shop-grid.html ids="snowman-mipig-cafe-meguro,snowman-ad3a68f9-202506,snowman-brettz-cafe-omotesando,snowman-yakuzenya-ebisu,snowman-futago-roppongi,snowman-gust-roppongi" %}
 
 ## コース全体図
 

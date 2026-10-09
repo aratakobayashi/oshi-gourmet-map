@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'うどん1玉'}"
-  - "{'name': 'コロッケ'}"
+  - "うどん1玉"
+  - "コロッケ"
 ---

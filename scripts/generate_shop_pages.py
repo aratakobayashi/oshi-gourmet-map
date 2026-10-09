@@ -144,8 +144,15 @@ for shop in shops:
     # list fields
     for key in ["members","groups","tags","ordered_items"]:
         v = shop.get(key)
+        if key == "ordered_items" and v:
+            # {"name": "..."} 形式は名前だけにする（そのまま出すと {'name': ...} と表示される）
+            v = [i.get("name", "") if isinstance(i, dict) else i for i in v]
+            v = [i for i in v if i]
         if v:
             lines.append(f"{key}:{yaml_list(v)}")
+
+    if shop.get("closed"):
+        lines.append("closed: true")
 
     # affiliate_links
     al = shop.get("affiliate_links")

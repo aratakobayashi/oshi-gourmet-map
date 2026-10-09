@@ -21,5 +21,5 @@ members:
 groups:
   - "nogizaka46"
 ordered_items:
-  - "{'name': 'チキンカリー'}"
+  - "チキンカリー"
 ---

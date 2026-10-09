@@ -36,7 +36,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season5は2015年放送。シリーズ初の海外ロケ（台湾）を含み、ブータン料理・チュニジア料理・ジンギスカンと異国グルメのオンパレード。国内では亀戸・越谷・千歳船橋と、東京周辺の「知る人ぞ知る店」を五郎が発掘した11話分の記録だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-ffd5b85c-,kodoku_no_gurume-f9b4f23d-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-7cec1f08-,kodoku_no_gurume-f6f011b2-,kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-504b7c74-,kodoku_no_gurume-a0e5cd01-,kodoku_no_gurume-8035f493-,kodoku_no_gurume-sawa-,kodoku_no_gurume-3b5684a9-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-ffd5b85c-,kodoku_no_gurume-f9b4f23d-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-7cec1f08-,kodoku_no_gurume-f6f011b2-,kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-504b7c74-,kodoku_no_gurume-a0e5cd01-,kodoku_no_gurume-8035f493-,kodoku_no_gurume-sawa-,kodoku_no_gurume-3b5684a9-" %}
 
 ---
 
@@ -48,7 +48,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **川崎市エリア**。JR南武線「稲田堤駅」または「武蔵溝ノ口駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-ffd5b85c-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-ffd5b85c-" %}
 
 ---
 
@@ -58,7 +58,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **江東区清澄白河エリア**。東京メトロ半蔵門線「清澄白河駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f9b4f23d-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f9b4f23d-" %}
 
 ---
 
@@ -68,7 +68,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **杉並区西荻窪エリア**。JR中央線「西荻窪駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-eae57f73-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-eae57f73-" %}
 
 ---
 
@@ -78,7 +78,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **台湾・宜蘭県三星郷**。台北から車で約1.5時間。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-7cec1f08-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-7cec1f08-" %}
 
 ---
 
@@ -88,7 +88,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **台湾・台北市大同区迪化街**。台北MRT「北門駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-f6f011b2-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-f6f011b2-" %}
 
 ---
 
@@ -98,7 +98,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **目黒区大岡山エリア**。東急目黒線・大井町線「大岡山駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-b72fcfb5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-b72fcfb5-" %}
 
 ---
 
@@ -108,7 +108,7 @@ Season5の幕開けは川崎の韓国焼肉店**寿苑**。五郎が頼んだの
 
 > **世田谷区千歳船橋エリア**。小田急小田原線「千歳船橋駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-504b7c74-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-504b7c74-" %}
 
 ---
 
@@ -118,7 +118,7 @@ Season5の異色筆頭——代々木上原のブータン料理店**ガテモ�
 
 > **渋谷区代々木上原エリア**。東京メトロ千代田線「代々木上原駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-a0e5cd01-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-a0e5cd01-" %}
 
 ---
 
@@ -128,7 +128,7 @@ Season5の異色筆頭——代々木上原のブータン料理店**ガテモ�
 
 > **江東区亀戸エリア**。JR総武線「亀戸駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8035f493-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8035f493-" %}
 
 ---
 
@@ -138,7 +138,7 @@ Season5の異色筆頭——代々木上原のブータン料理店**ガテモ�
 
 > **埼玉県越谷市せんげん台エリア**。東武スカイツリーライン「せんげん台駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-sawa-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-sawa-" %}
 
 ---
 
@@ -148,7 +148,7 @@ Season5の締めくくりは西巣鴨のしゃぶしゃぶ・すき焼き店**�
 
 > **豊島区西巣鴨エリア**。都営三田線「西巣鴨駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-3b5684a9-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-3b5684a9-" %}
 
 ---
 

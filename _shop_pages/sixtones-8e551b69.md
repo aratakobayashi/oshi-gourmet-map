@@ -26,5 +26,5 @@ members:
 groups:
   - "sixtones"
 ordered_items:
-  - "{'name': 'トリプルチーズハンバーグ'}"
+  - "トリプルチーズハンバーグ"
 ---

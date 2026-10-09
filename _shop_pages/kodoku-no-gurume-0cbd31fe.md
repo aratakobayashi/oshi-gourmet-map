@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '汁なし担々麺'}"
-  - "{'name': '焼き餃子'}"
-  - "{'name': '拌三絲'}"
+  - "汁なし担々麺"
+  - "焼き餃子"
+  - "拌三絲"
 ---

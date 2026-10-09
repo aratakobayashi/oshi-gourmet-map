@@ -19,22 +19,26 @@ echo "=== ② グループ×ジャンル一覧ページ生成 ==="
 python scripts/generate_list_pages.py
 
 echo ""
-echo "=== ③ git add ==="
-git add _shop_pages/ _list_pages/
+echo "=== ③ 一覧・近くの店・検索用データ生成（_data/*.json と data/explore.json） ==="
+python scripts/build_site_data.py
+
+echo ""
+echo "=== ④ git add ==="
+git add _shop_pages/ _list_pages/ _data/ data/explore.json
 
 # 変更がある場合のみコミット
 if git diff --cached --quiet; then
   echo "変更なし。コミットをスキップします。"
 else
   echo ""
-  echo "=== ④ git commit ==="
+  echo "=== ⑤ git commit ==="
   git commit -m "build: ページ自動生成（shop_pages + list_pages）
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
 
   if [[ "$1" == "--push" ]]; then
     echo ""
-    echo "=== ⑤ git push ==="
+    echo "=== ⑥ git push ==="
     git push
     echo ""
     echo "✓ 完了: ビルド＆プッシュしました"

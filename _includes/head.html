@@ -60,12 +60,6 @@
 {% endif %}
 
 <script>
-  window.GENRE_LABELS = {{ site.data.genres | jsonify }};
-  window.SITE_GROUP_LABELS = {{ site.data.groups | jsonify }};
-  // assets/images/groups/ に写真があるグループ（無いグループの画像を読みに行かないため）
-  window.GROUP_PHOTOS = [{% for f in site.static_files %}{% if f.path contains '/assets/images/groups/' %}"{{ f.basename }}",{% endif %}{% endfor %}];
-  function genreLabel(g) { var x = window.GENRE_LABELS[g]; return x ? x.label : g; }
-  function genreIcon(g) { var x = window.GENRE_LABELS[g]; return x ? x.icon : ''; }
   // YouTubeサムネイルのWebP版が無い動画はJPEG版に切り替える
   document.addEventListener('error', function(e) {
     var t = e.target;
@@ -99,13 +93,8 @@
 <link rel="preload" as="image" href="https://i.ytimg.com/vi_webp/{{ page.thumbnail_video_id }}/hqdefault.webp" fetchpriority="high">
 {%- endif %}
 
-<!-- Leaflet CSS（一覧地図があるページだけ。店舗ページは地図が見えたときに読み込む） -->
-{%- if page.url == '/shops/' or page.layout == 'group' %}
-{%- comment -%} 地図は初期表示では見えないため、CSSは表示を止めずに読み込む {%- endcomment -%}
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.css' | relative_url }}" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="{{ '/assets/vendor/leaflet/MarkerCluster.Default.css' | relative_url }}" media="print" onload="this.media='all'">
-{%- endif %}
+<!-- Leaflet は地図を表示するときに assets/js/app.js が読み込む -->
 
-<!-- サイトスタイル -->
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<!-- サイトスタイル（1a 巡礼帳） -->
+<meta name="theme-color" content="#F7F3EC">
+<link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}">

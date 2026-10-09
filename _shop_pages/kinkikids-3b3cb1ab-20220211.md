@@ -20,5 +20,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': 'どら焼きの皮だけ'}"
+  - "どら焼きの皮だけ"
 ---

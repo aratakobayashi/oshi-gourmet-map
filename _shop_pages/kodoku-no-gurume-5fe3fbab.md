@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '二色まぶし丼（蒸し蒲焼き＋白焼き）'}"
-  - "{'name': 'ミニ牡蠣カバ丼'}"
+  - "二色まぶし丼（蒸し蒲焼き＋白焼き）"
+  - "ミニ牡蠣カバ丼"
 ---

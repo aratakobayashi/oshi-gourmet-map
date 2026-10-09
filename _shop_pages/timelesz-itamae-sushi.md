@@ -23,5 +23,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '選抜極上にぎりセット'}"
+  - "選抜極上にぎりセット"
 ---

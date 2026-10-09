@@ -23,7 +23,7 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '焼き餃子'}"
-  - "{'name': '蒸し餃子'}"
-  - "{'name': '揚げ餃子'}"
+  - "焼き餃子"
+  - "蒸し餃子"
+  - "揚げ餃子"
 ---

@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '塩わさびの豚ロースソテー（いも豚300g）'}"
-  - "{'name': 'ミルクセーキ'}"
+  - "塩わさびの豚ロースソテー（いも豚300g）"
+  - "ミルクセーキ"
 ---

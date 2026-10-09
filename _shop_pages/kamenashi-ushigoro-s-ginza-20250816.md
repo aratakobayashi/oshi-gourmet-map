@@ -22,6 +22,6 @@ members:
 groups:
   - "kamenashi"
 ordered_items:
-  - "{'name': 'Kコース'}"
-  - "{'name': '烏龍茶'}"
+  - "Kコース"
+  - "烏龍茶"
 ---

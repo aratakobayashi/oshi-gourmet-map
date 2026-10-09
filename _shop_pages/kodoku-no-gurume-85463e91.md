@@ -20,6 +20,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'タコス（チリソース付き）'}"
-  - "{'name': 'ステーキ200g'}"
+  - "タコス（チリソース付き）"
+  - "ステーキ200g"
 ---

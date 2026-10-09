@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '丸天うどん'}"
-  - "{'name': 'ごぼう天トッピング'}"
+  - "丸天うどん"
+  - "ごぼう天トッピング"
 ---

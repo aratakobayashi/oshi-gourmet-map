@@ -34,7 +34,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season4は2014年秋放送。清瀬・箱根・八王子・日間賀島と東京圏外への遠征が増え、インド・ベトナム・韓国と異国料理のバリエーションも豊かになった9話分の記録だ。
 
-<div class="inline-shop-grid" data-shop-ids="kodoku_no_gurume-523cca86-,kodoku_no_gurume-4b835120-,kodoku_no_gurume-92ab84a8-,kodoku_no_gurume-b4ec36d5-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-e30500f5-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-8c90e208-,kodoku_no_gurume-thi_thi-"></div>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-523cca86-,kodoku_no_gurume-4b835120-,kodoku_no_gurume-92ab84a8-,kodoku_no_gurume-b4ec36d5-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-e30500f5-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-8c90e208-,kodoku_no_gurume-thi_thi-" %}
 
 ---
 
@@ -46,7 +46,7 @@ Season4の幕開けは清瀬市。**みゆき食堂**で五郎が頼んだのは
 
 > **清瀬市エリア**。西武池袋線「清瀬駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-523cca86-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-523cca86-" %}
 
 ---
 
@@ -56,7 +56,7 @@ Season4の幕開けは清瀬市。**みゆき食堂**で五郎が頼んだのは
 
 > **中央区日本橋エリア**。東京メトロ「三越前駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-4b835120-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-4b835120-" %}
 
 ---
 
@@ -66,7 +66,7 @@ Season4唯一の温泉地ロケ。箱根の**いろり家**で五郎が頼んだ
 
 > **神奈川県足柄下郡箱根町**。箱根登山鉄道「宮ノ下駅」または「小涌谷駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-92ab84a8-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-92ab84a8-" %}
 
 ---
 
@@ -76,7 +76,7 @@ Season4唯一の温泉地ロケ。箱根の**いろり家**で五郎が頼んだ
 
 > **八王子市小宮エリア**。JR八高線「小宮駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-b4ec36d5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-b4ec36d5-" %}
 
 ---
 
@@ -86,7 +86,7 @@ Season4最大の遠征——愛知県の離島・日間賀島。**乙姫**で五
 
 > **愛知県知多郡南知多町日間賀島**。名鉄河和駅から高速船約15分。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-980f8c82-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-980f8c82-" %}
 
 ---
 
@@ -96,7 +96,7 @@ Season4最大の遠征——愛知県の離島・日間賀島。**乙姫**で五
 
 > **江東区エリア**。東京メトロ東西線「木場駅」または「東陽町駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-e30500f5-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-e30500f5-" %}
 
 ---
 
@@ -106,7 +106,7 @@ Season4最大の遠征——愛知県の離島・日間賀島。**乙姫**で五
 
 > **台東区エリア**。JR山手線「上野駅」または東京メトロ「稲荷町駅」圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-9353d2c4-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-9353d2c4-" %}
 
 ---
 
@@ -116,7 +116,7 @@ Season4最大の遠征——愛知県の離島・日間賀島。**乙姫**で五
 
 > **渋谷区エリア**。東急「代官山駅」または「中目黒駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-8c90e208-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-8c90e208-" %}
 
 ---
 
@@ -126,7 +126,7 @@ Season4の締めくくりは大田区のベトナム料理店**THI THI**。五�
 
 > **大田区エリア**。東急多摩川線「矢口渡駅」徒歩圏内。
 
-<div class="inline-shop-card" data-shop-id="kodoku_no_gurume-thi_thi-"></div>
+{% include inline-shop-card.html shop_id="kodoku_no_gurume-thi_thi-" %}
 
 ---
 

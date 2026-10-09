@@ -20,6 +20,6 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': 'クジラのお肉'}"
-  - "{'name': 'お蕎麦'}"
+  - "クジラのお肉"
+  - "お蕎麦"
 ---

@@ -21,5 +21,5 @@ members:
 groups:
   - "kinkikids"
 ordered_items:
-  - "{'name': 'チュクミ'}"
+  - "チュクミ"
 ---

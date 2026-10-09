@@ -21,7 +21,7 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': 'ヒレかつ御膳'}"
-  - "{'name': '魚介クリームコロッケ'}"
-  - "{'name': 'エビフライ'}"
+  - "ヒレかつ御膳"
+  - "魚介クリームコロッケ"
+  - "エビフライ"
 ---

@@ -21,6 +21,6 @@ members:
 groups:
   - "kodoku_no_gurume"
 ordered_items:
-  - "{'name': '肉朝鮮焼定食'}"
-  - "{'name': '生タマゴ'}"
+  - "肉朝鮮焼定食"
+  - "生タマゴ"
 ---

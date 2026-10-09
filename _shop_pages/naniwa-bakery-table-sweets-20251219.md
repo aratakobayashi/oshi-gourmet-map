@@ -20,5 +20,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "{'name': '▶道枝くんは足湯に入りながら手作りドーナツ「Sugar 330円'}"
+  - "▶道枝くんは足湯に入りながら手作りドーナツ「Sugar 330円"
 ---

@@ -26,5 +26,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "{'name': '特製ステーキ丼（150g）'}"
+  - "特製ステーキ丼（150g）"
 ---

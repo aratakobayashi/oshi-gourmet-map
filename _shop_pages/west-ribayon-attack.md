@@ -20,5 +20,5 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': 'パラパラチャーハン'}"
+  - "パラパラチャーハン"
 ---

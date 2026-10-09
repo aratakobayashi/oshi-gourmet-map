@@ -20,5 +20,5 @@ members:
 groups:
   - "west"
 ordered_items:
-  - "{'name': 'きんぴらからみ鬼うどん'}"
+  - "きんぴらからみ鬼うどん"
 ---
