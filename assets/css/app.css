@@ -49,7 +49,7 @@ body {
   -webkit-font-smoothing: antialiased;
   padding-bottom: calc(var(--nav-h) + var(--safe-b));
 }
-@media (min-width: 768px) { body { padding-bottom: 0; } }
+@media (min-width: 1024px) { body { padding-bottom: 0; } }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--accent-ink); text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -85,7 +85,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .hdr__search-btn { width: 44px; height: 44px; border: 0; background: none; display: grid; place-items: center; color: var(--ink); }
 .hdr__search-form { display: none; }
 .hdr__count { margin-left: auto; font-size: var(--fs-meta); color: var(--ink-2); }
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .hdr__in { height: 68px; }
   .logo { font-size: 22px; }
   .hdr__nav { display: flex; }
@@ -105,7 +105,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .bnav svg { width: 22px; height: 22px; }
 .bnav a[aria-current="page"] { color: var(--accent-ink); }
 .bnav a[aria-current="page"]::before { content: ""; position: absolute; top: 6px; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
-@media (min-width: 768px) { .bnav { display: none; } }
+@media (min-width: 1024px) { .bnav { display: none; } }
 
 .ftr { margin-top: var(--s-12); border-top: 1px solid var(--line); color: var(--ink-2); padding: var(--s-8) 0; }
 .ftr__in { display: flex; flex-direction: column; gap: var(--s-4); }
@@ -268,7 +268,7 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 
 /* 絞り込みバー・シート */
 .fbar { position: sticky; top: 56px; z-index: 30; background: var(--paper); border-bottom: 1px solid var(--line); padding: var(--s-3) 0; }
-@media (min-width: 768px) { .fbar { top: 68px; } }
+@media (min-width: 1024px) { .fbar { top: 68px; } }
 .fbar__row { display: flex; gap: var(--s-2); align-items: center; overflow-x: auto; scrollbar-width: none; }
 .fbar__row::-webkit-scrollbar { display: none; }
 .fbar__row + .fbar__row { margin-top: var(--s-2); }
@@ -691,3 +691,30 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .stats span:last-child { margin-right: 0; }
 .artg__s .btn-row { grid-template-columns: 1fr; }
 @media (min-width: 1024px) { .atop .feature .thumb { aspect-ratio: 16 / 9; } }
+
+/* 固定ヘッダーの下に見出しが隠れないようにする（目次・#go など） */
+[id] { scroll-margin-top: 80px; }
+@media (min-width: 1024px) { [id] { scroll-margin-top: 92px; } }
+.fbar ~ * [id] { scroll-margin-top: 150px; }
+
+/* QA: タブレット幅でヘッダーがはみ出さないよう、検索欄は1100px以上で出す（それまでは虫めがねボタン） */
+/* ヘッダーのメニューは1024px以上。1024〜1179px は検索欄の代わりに虫めがねボタン */
+@media (min-width: 1024px) and (max-width: 1179px) {
+  .hdr__search-form { display: none; }
+  .hdr__search-btn { display: grid; margin-left: auto; }
+}
+/* QA: スマホで押しやすい大きさに（44px前後） */
+.logo { display: inline-flex; align-items: center; min-height: 44px; }
+.link-more { display: inline-flex; align-items: center; min-height: 44px; }
+.fav-btn span { font-size: 11px; }
+.toc a, .artg__t a { display: inline-block; padding: 6px 0; }
+.toc ol { gap: 0; }
+.shop__rel { gap: 0; }
+.shop__rel a { display: inline-block; padding: 10px 0; }
+.box .meta a { display: inline-block; padding: 8px 0; }
+a.badge { min-height: 32px; }
+/* お店を探す（スマホ）: 一覧と地図の切り替えは画面下の浮いたボタンで（上の切り替えは小さい画面で見切れるため） */
+.fbar .viewtoggle { display: none; }
+.fab { position: fixed; left: 50%; translate: -50% 0; bottom: calc(var(--nav-h) + var(--safe-b) + 16px); z-index: 60; height: 48px; padding: 0 var(--s-6); border: 0; border-radius: var(--r-pill); background: var(--ink); color: #fff; font-weight: 700; font-size: 15px; box-shadow: 0 6px 18px rgba(36,31,26,.3); }
+.mapview .mapcard { bottom: 76px; }
+@media (min-width: 1024px) { .fab { display: none; } .mapview .mapcard { bottom: var(--s-4); } }

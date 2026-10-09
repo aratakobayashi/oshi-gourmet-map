@@ -1,9 +1,9 @@
 ---
 layout: shop
-title: "Snow Manが行った「【岩本照】ROJU NAKAMEGURO」"
-description: "Snow ManのYouTubeで紹介された食事「【岩本照】ROJU NAKAMEGURO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+title: "Snow Manが行った「ROJU NAKAMEGURO」"
+description: "Snow ManのYouTubeで紹介された食事「ROJU NAKAMEGURO」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-roju_nakameguro-20250121"
-name: "【岩本照】ROJU NAKAMEGURO"
+name: "ROJU NAKAMEGURO"
 genre: "shokuji"
 prefecture: "東京都"
 city: "目黒区"

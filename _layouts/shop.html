@@ -60,7 +60,7 @@ body_class: has-sticky
         <span class="play" aria-hidden="true"></span>
       </button>
       {%- elsif s.thumbnail_url %}
-      <figure class="shop__hero"><img src="{{ s.thumbnail_url }}" alt="{{ s.source_video_title | default: s.name | escape }}のシーン" fetchpriority="high"></figure>
+      <figure class="shop__hero"><img src="{{ s.thumbnail_url }}" alt="{{ s.source_video_title | default: s.name | escape }}のシーン" width="500" height="281" fetchpriority="high"></figure>
       {%- else %}
       <div class="shop__hero shop__hero--noimg">
         <span class="stamp stamp--lg" aria-hidden="true">{{ genre.mark | default: '食' }}</span>

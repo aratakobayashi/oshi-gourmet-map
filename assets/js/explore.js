@@ -243,6 +243,7 @@
     if ((b = t.closest('[data-rm]'))) { var a = state[b.dataset.rm]; a.splice(a.indexOf(b.dataset.v), 1); if (b.dataset.rm === 'groups') state.members = state.members.filter(function (m) { return m.indexOf(b.dataset.v + ':') !== 0; }); render(); return; }
     if (t.closest('[data-clear]')) { var v = state.view, so = state.sort; state = emptyState(); state.view = v; state.sort = so; $('q').value = ''; render(); return; }
     if ((b = t.closest('[data-view]'))) { state.view = b.dataset.view; applyView(); writeURL(); return; }
+    if (t.closest('[data-view-fab]')) { state.view = state.view === 'map' ? 'list' : 'map'; applyView(); writeURL(); window.scrollTo(0, 0); return; }
     if (!draft || $('sheet').hidden) return;
     if ((b = t.closest('#sheet [data-tab]'))) { tab = b.dataset.tab; drawSheet(); return; }
     if ((b = t.closest('[data-kana]'))) { kana = b.dataset.kana; gsearch = ''; drawSheet(); return; }
@@ -293,6 +294,7 @@
     $('mapview').hidden = !mapOn();
     document.querySelector('.explore__list').hidden = !split && state.view === 'map';
     document.querySelectorAll('[data-view]').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.view === state.view ? 'true' : 'false'); });
+    $('fab').textContent = state.view === 'map' ? '一覧で見る' : '地図で見る';
     if (mapOn()) load().then(drawMap);
   }
   function loadCluster() {
@@ -333,6 +335,7 @@
   function showCard(r) {
     var c = $('mapcard'), gi = GIX[r[I.gr][0]] || {};
     c.href = BASE + '/shops/' + r[I.u] + '/';
+    c.removeAttribute('aria-label');
     c.style.setProperty('--g', gi.c || '#9a8f80');
     c.innerHTML = thumb(r) + '<div>' + meta(r) + '<p class="card__name">' + esc(r[I.n]) + '</p><p class="card__st">' + esc(r[I.st] || r[I.p]) + '</p><p class="link-more" style="margin-top:4px">詳しく見る →</p></div>';
     c.hidden = false;

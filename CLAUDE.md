@@ -221,6 +221,9 @@ heysayjump:        '#ef4444'  // レッド
 - 一覧は `.rows`（スマホは行）に `.rows--grid` を付けるとPC（1024px以上）で写真カードのグリッドになる（`.rows--4` で4列）。グループ・一覧ページの並び替え・メンバー絞り込み・もっと見るは `assets/js/listpage.js`
 - PCの記事・ガイドは1200px以上で「目次｜本文｜サイド」の3列。/shops/ は body_class: page-wide で画面いっぱいに広げる
 - レイアウトの front matter の body_class は default.html が layout.body_class として読む
+- ヘッダーのメニューは1024px以上（それ未満は下部ナビ）。ヘッダーの検索欄は1180px以上（1024〜1179pxは虫めがねボタン）
+- /shops/ のスマホの「一覧／地図」切り替えは画面下に浮かぶボタン（#fab）
+- 存在しないURLは 404.html（検索欄と主要ページへの導線）
 - 店舗ページの「この店に行くなら」はリンクがある行だけ出す。「予約する」はホットペッパー・一休など予約できるリンクがあるときだけ（食べログは「食べログで見る」）。PR表記は提携IDが入っているリンクがあるときに自動で出る
 - 「泊まる」リンクは じゃらん（検索語は Shift_JIS。build_site_data.py でエンコード）と楽天トラベル。提携後に `_config.yml` の affiliate.valuecommerce.jalan_pid / affiliate.rakuten.id を入れると変換される
 - URL は Jekyll が :name を変換したもの（`_` → `-`、`--` → `-`）。リンクは `_data/group_ix.json` の u や shop_cards の u を使い、自分で組み立てない

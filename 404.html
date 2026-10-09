@@ -1,0 +1,23 @@
+---
+layout: default
+title: ページが見つかりません
+description: お探しのページは見つかりませんでした。推しが行ったお店は「お店を探す」から探せます。
+permalink: /404.html
+sitemap: false
+---
+<div class="wrap" style="max-width:720px">
+  <section class="section" style="text-align:center;padding-bottom:16px">
+    <span class="stamp stamp--lg stamp--tilt" aria-hidden="true">迷</span>
+    <h1 class="page-title" style="padding-top:16px">ページが見つかりません</h1>
+    <p class="page-lead">URLが変わったか、ページが削除された可能性があります。<br>推し・駅・店名で探してみてください。</p>
+  </section>
+  <form action="{{ '/shops/' | relative_url }}" method="get" role="search" style="margin:8px 0 24px">
+    <label class="searchbox"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" name="q" placeholder="推し・駅・店名で探す" aria-label="推し・駅・店名で探す"><button class="btn btn--ink" type="submit">探す</button></label>
+  </form>
+  <div class="linkcards">
+    <a class="linkcard" href="{{ '/shops/' | relative_url }}">お店を探す（地図・一覧）<span class="cnt" aria-hidden="true">→</span></a>
+    <a class="linkcard" href="{{ '/groups/' | relative_url }}">推しから探す<span class="cnt" aria-hidden="true">→</span></a>
+    <a class="linkcard" href="{{ '/guide/' | relative_url }}">推し活ガイド（会場・遠征）<span class="cnt" aria-hidden="true">→</span></a>
+    <a class="linkcard" href="{{ '/' | relative_url }}">トップページ<span class="cnt" aria-hidden="true">→</span></a>
+  </div>
+</div>
