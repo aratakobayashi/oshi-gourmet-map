@@ -12,7 +12,7 @@ summary:
   - "Season7（2017年放送）に登場した11店がエピソード順でまとめて確認できる"
   - "韓国2話（全州・ソウル）・群馬下仁田の1話2店はしごが見どころ"
   - "メキシコ料理・多国籍バイキング・2色の麻婆豆腐など異国グルメが豊富"
-  - "全店に食べログリンクつき。五郎が注文した料理も掲載"
+  - "各店の詳細ページへのリンクつき。五郎が注文した料理も掲載"
 shop_ids:
   - kodoku_no_gurume-2d40fc9e-
   - kodoku_no_gurume-8fc55f6d-
@@ -21,7 +21,6 @@ shop_ids:
   - kodoku_no_gurume-8ff8f87d-
   - kodoku_no_gurume-949508cf-
   - kodoku_no_gurume-0890de3d-
-  - kodoku_no_gurume-50e9e982-
   - kodoku_no_gurume-e63b9158-
   - kodoku_no_gurume-1f04386e-
   - kodoku_no_gurume-97d9d218-
@@ -36,7 +35,7 @@ faq:
 
 <mark>孤独のグルメ</mark> Season7は2017年秋放送。シリーズ初の韓国ロケ（全州・ソウル）に加え、群馬・下仁田での2店はしご、南麻布のメキシコ料理、千代田区の2色麻婆豆腐——11話分の多彩な食の冒険が詰まっている。
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-8fc55f6d-,kodoku_no_gurume-80dd2276-,kodoku_no_gurume-6fea294b-,kodoku_no_gurume-8ff8f87d-,kodoku_no_gurume-949508cf-,kodoku_no_gurume-0890de3d-,kodoku_no_gurume-50e9e982-,kodoku_no_gurume-e63b9158-,kodoku_no_gurume-1f04386e-,kodoku_no_gurume-97d9d218-" %}
+{% include inline-shop-grid.html ids="kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-8fc55f6d-,kodoku_no_gurume-80dd2276-,kodoku_no_gurume-6fea294b-,kodoku_no_gurume-8ff8f87d-,kodoku_no_gurume-949508cf-,kodoku_no_gurume-0890de3d-,kodoku_no_gurume-e63b9158-,kodoku_no_gurume-1f04386e-,kodoku_no_gurume-97d9d218-" %}
 
 ---
 
@@ -108,8 +107,6 @@ Season7唯一の1話2店エピソード。群馬県・下仁田町で五郎は**
 中野の鶏料理居酒屋**泪橋**が第8話の舞台。五郎が頼んだのは**チキン南蛮・地鶏もも串**——さらに地鶏もも串を追加注文し、ご飯の上に乗せて「地鶏もも丼」として食べた。「自分でアレンジして食べるのが孤独のグルメの醍醐味だ」と感じさせる一話。
 
 > **中野区百軒横丁エリア**。JR「中野駅」または東京メトロ「新中野駅」圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-50e9e982-" %}
 
 ---
 

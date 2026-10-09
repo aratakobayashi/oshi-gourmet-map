@@ -18,7 +18,7 @@ description: アイドル・芸人・YouTuber・ドラマで紹介されたお�
   <div class="atop">
     <a class="feature" href="{{ first.url | relative_url }}" data-t="{{ first.article_type }}">
       <div class="thumb">{% if first.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ first.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="360" fetchpriority="high">{% endif %}</div>
-      <p class="aitem__cat">{{ site.data.article_types[first.article_type] }} <span class="meta">{{ first.date | date: "%Y.%m.%d" }}{% if first.shop_count %}・{{ first.shop_count }}軒{% endif %}</span></p>
+      <p class="aitem__cat">{{ site.data.article_types[first.article_type] }} <span class="meta">{{ first.date | date: "%Y.%m.%d" }}{% if first.shop_ids.size > 0 %}・{{ first.shop_ids.size }}軒{% endif %}</span></p>
       <p class="feature__title">{{ first.title }}</p>
     </a>
     <ul class="alist alist--grid alist--top">

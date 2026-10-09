@@ -5,6 +5,14 @@ description: "孤独のグルメ Season9（2021年）に登場した全11店舗�
 date: 2026-05-20
 thumbnail: https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg
 groups: ["kodoku_no_gurume"]
+last_modified_at: 2026-05-20
+article_type: season
+group: kodoku_no_gurume
+summary:
+  - "Season9（2021年放送）に登場した11店をエピソード順に確認できる"
+  - "川崎のとんかつ・二宮のパフェ・巣鴨のモンゴル料理など多彩なラインナップ"
+  - "静岡・伊東、福島・郡山などの県外ロケも収録"
+  - "各店の詳細ページへのリンクつき。五郎が注文した料理も掲載"
 shop_ids:
   - kodoku_no_gurume-6b42b0e8-
   - kodoku_no_gurume-9dee537b-

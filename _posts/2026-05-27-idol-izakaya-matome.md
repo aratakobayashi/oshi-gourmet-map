@@ -1,16 +1,103 @@
 ---
 layout: post
 title: "アイドル・芸能人が行った居酒屋・飲み屋まとめ【84選】しおり・=LOVE・なにわ男子の聖地巡礼"
-description: "しおり21件・=LOVE15件・なにわ男子6件など芸能人ロケ地の居酒屋・飲み屋84店を完全網羅。函館・赤羽など聖地エリアをエリア別ルートで紹介。"
+description: "しおり21件・=LOVE15件・なにわ男子6件など芸能人ロケ地の居酒屋・飲み屋84店を紹介。函館・赤羽など聖地エリアをエリア別ルートで紹介。"
 date: 2026-05-27
 last_modified_at: 2026-05-27
 categories: [グルメ, 居酒屋]
 tags: [しおり, "=LOVE", なにわ男子, 乃木坂46, 孤独のグルメ, Snow Man, SixTONES, よにのちゃんねる, 亀梨和也, "King & Prince", かまいたち]
 article_type: genre
 genre: 居酒屋
-shop_count: 84
-thumbnail_video_id:
-summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を完全網羅。函館ロケ地・赤羽居酒屋街・東京名店の聖地巡礼ルートを解説。"
+thumbnail_video_id: Yi_rqj9FDOA
+summary:
+  - "しおり（21件）・=LOVE（15件）を筆頭に、居酒屋・飲み屋84店を紹介"
+  - "函館ロケ地・赤羽の居酒屋街・東京の名店をエリア別に解説"
+  - "各店の詳細ページへのリンクつき"
+shop_ids:
+  - shiori-97aca417-20260331
+  - shiori-e7501534-20260331
+  - shiori-73e7f83a-20260331
+  - shiori-773474f9-20260322
+  - shiori-b57ee974-20260322
+  - shiori-new_light-20240316
+  - shiori-the_music_bar_cave_s-20240316
+  - shiori-flamingo-20260514
+  - shiori-e3c454bd-20240914
+  - shiori-a5bba78c-20230903
+  - shiori-4119a061-20220305
+  - shiori-b0e7ec20-20220912
+  - shiori-oyster_wine-20250425
+  - shiori-cd799a2d-20250425
+  - shiori-b838be7c-20250425
+  - shiori-1265afbe-20260120
+  - shiori-52fdb689-20220606
+  - shiori-af65a7dc-20211105
+  - shiori-57dd9722-20211105
+  - shiori-d49febf1-20211105
+  - shiori-5fd9a689-20211105
+  - equal_love-d377e2fc-202408
+  - equal_love-227419b6-202408
+  - equal_love-443dcbb1-202408
+  - equal_love-67a09d04-202408
+  - equal_love-e9976172-202408
+  - equallove_004
+  - equal_love-a6665704-202408
+  - equal_love-c9547500-202408
+  - equal_love-246f9b6d-202509
+  - equal_love-01641645-202504
+  - equal_love-f22d7edd-202502
+  - equal_love-a9d4d24e-202412
+  - equal_love-bd15bb1d-202412
+  - equal_love-17396234-202412
+  - equal_love-litty-20241211
+  - kodoku_no_gurume-b768e841-
+  - kodoku_no_gurume-9353d2c4-
+  - kodoku_no_gurume-842790b5-
+  - kodoku_no_gurume-8dd15d33-
+  - kodoku_no_gurume-eae57f73-
+  - kodoku_no_gurume-e09c3ed5-
+  - snowman-ore-no-kappo-ebisu
+  - snowman-asagaya-birdland
+  - snowman-41d7688e-202604
+  - snowman-kushigen-edogawabashi
+  - snowman-e4da675e-20251011
+  - sixtones-ukigumori-ikaho
+  - sixtones-torigen-shinjuku
+  - sixtones-toriki-shinjuku
+  - sixtones-kurumi-shineimachi
+  - sixtones-bf58b791-202212
+  - naniwa-f5c2bfbf-20201016
+  - naniwa-637d6485-20201016
+  - naniwa-ecf1fc97-20220708
+  - naniwa-883c81e1-202204
+  - naniwa-doowop-20211126
+  - naniwa-2c2e760f-202410
+  - nogizaka46-rooftops-
+  - nogizaka46-76d7ba94-
+  - nogizaka46-ca63b74a-
+  - nogizaka46-coconeel-
+  - nogizaka46-644a3895-
+  - nogizaka46-serafina_new_york-
+  - yonino-negiya-heikichi
+  - yonino-yamanaka-ginza
+  - yonino-takeno-tsukiji
+  - yonino-daisanboku-aoyama
+  - kamenashi-3a7e3c9a-202402
+  - kamenashi-34069a08-202405
+  - kamenashi-27f41658-202412
+  - kamenashi-beschle-20241116
+  - kingprince-f9639215-20220813
+  - kingprince-cabe-20221015
+  - kingprince-andhra_dining_ginza-20221022
+  - kingprince-6513cfda-20221022
+  - kamaitachi-380c2d89-
+  - notme-4bae4322-202505
+  - neajoy-afc14d66-202409
+  - kamaitachi-394d7350-
+  - kamaitachi-097127ba-
+  - neajoy-9538e782-202510
+  - ginga-korin-20250413
+  - heysayjump-bee-20170201
 ---
 
 **ライブ後の打ち上げ気分なら赤羽の=LOVE聖地、推し旅行なら函館のしおりロケ地、渋い一人飲みなら孤独のグルメ聖地**——居酒屋選びにはその人のキャラクターが如実に表れる。コスパで選ぶなら3グループ共通の鳥貴族、エンタメ重視なら釣り体験ができる亀梨和也の「釣船茶屋ざうお」、本気の名店ならSnow Manの阿佐ヶ谷バードランドと、推し活のシーンや目的ごとに使い分けてほしい。
@@ -121,10 +208,10 @@ summary: "しおり（21件）・=LOVE（15件）を筆頭に居酒屋84店を�
 
 ## 推し活グルメ別ガイド
 
-> **「推しと同じ焼肉を食べたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【53選】](/articles/2026/05/27/idol-yakiniku-matome/)
+> **「推しと同じ焼肉を食べたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【52選】](/articles/2026/05/27/idol-yakiniku-matome/)
 >
-> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【87選】](/articles/2026/05/26/idol-cafe-matome/)
+> **「推しが行ったカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【73選】](/articles/2026/05/26/idol-cafe-matome/)
 >
-> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【109選】](/articles/2026/05/27/idol-washoku-matome/)
+> **「推しと同じ和食・定食を食べたい」** → [アイドル・芸能人が行った和食聖地巡礼まとめ【96選】](/articles/2026/05/27/idol-washoku-matome/)
 >
 > **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)

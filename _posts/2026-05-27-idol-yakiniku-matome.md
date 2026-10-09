@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った焼肉聖地巡礼まとめ【東京〜全国53選】"
+title: "アイドル・芸能人が行った焼肉聖地巡礼まとめ【東京〜全国52選】"
 date: 2026-05-27
 last_modified_at: 2026-05-27
-description: "孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・乃木坂46・日向坂46などが実際に訪れた焼肉・ステーキ・ホルモン店を53件まとめました。叙々苑・さわやか・ピーターラーガーから地方の名店まで、推し活・聖地巡礼に使えるグルメガイドです。"
-group: yonino
+description: "孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・乃木坂46・日向坂46などが実際に訪れた焼肉・ステーキ・ホルモン店を52件まとめました。叙々苑・さわやか・ピーターラーガーから地方の名店まで、推し活・聖地巡礼に使えるグルメガイドです。"
 genre: 焼肉
-shop_count: 53
 article_type: genre
 prefecture: 東京都
 tags: [焼肉, 聖地巡礼, グルメ, よにのちゃんねる, 孤独のグルメ, 亀梨和也, SixTONES, 乃木坂46, 日向坂46, "King & Prince", Snow Man, 推し活]
@@ -32,6 +30,43 @@ shop_ids:
   - hinatazaka46-sawayaka-shizuoka
   - equal_love-571d4c2e-202408
   - notme-b2f81d0e-202408
+  - kodoku_no_gurume-7e51bfa4-
+  - kodoku_no_gurume-4557cfac-
+  - kodoku_no_gurume-a27b3ef5-
+  - kodoku_no_gurume-b849d4a4-
+  - kodoku_no_gurume-a960c5c7-
+  - kodoku_no_gurume-85463e91-
+  - kodoku_no_gurume-16bbe494-
+  - kodoku_no_gurume-c18e1597-
+  - kodoku_no_gurume-d443dd9e-
+  - kodoku_no_gurume-92ab84a8-
+  - kodoku_no_gurume-417ff61f-
+  - kodoku_no_gurume-8a664e79-
+  - yonino-youhachi-sangenchaya
+  - yonino-d88e366f-202603
+  - yonino-bouinboshoku
+  - yonino-a980d36b-202601
+  - kamenashi-bullajo-202504
+  - kamenashi-glams_bbq_lounge-202405
+  - kamenashi-b68dd10a-202410
+  - kamenashi-41feca79-202505
+  - sixtones-e6599dc3-
+  - sixtones-ushimitsu-ebisu
+  - kingprince-0cbe6433-20221203
+  - snowman-futago-roppongi
+  - snowman-09af6680-202605
+  - nogizaka46-6b9948dd-
+  - nogizaka46-6d7f1106-
+  - equal_love-tetsu-202408
+  - equal_love-ushihachi-202408
+  - equal_love-290f63cb-202505
+  - naniwa-meat_it-20211029
+  - naniwa-22c5cab0-20211029
+  - notme-12cab5ae-202410
+  - notme-273b4aa9-202408
+  - heysayjump-hero_s-20160414
+  - heysayjump-blt-20160720
+  - timelesz-private-
 faq:
   - q: "孤独のグルメが行った焼肉で特におすすめの店はどこですか？"
     a: "「前島食堂」（三重・松阪）と「つるや」（川崎）が代表的です。前島食堂は松阪牛の産地で味わう本格焼肉で、聖地巡礼を兼ねた旅先グルメとしても人気。「焼肉みよし」（山形・米沢）も米沢牛の名店として根強い人気があります。"
@@ -45,7 +80,7 @@ faq:
     a: "SixTONESの「叙々苑 游玄亭 西麻布本館」やKing & Princeの「バルバッコア〈青山本店〉」（シュラスコ食べ放題）、亀梨和也の「USHIGORO S. GINZA」が記念日・デートにおすすめです。日常使いなら「焼肉トラジ」（not me登場）や「USHIHACHI 渋谷店」（=LOVE登場）も人気です。"
 ---
 
-**孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・King & Prince・乃木坂46・日向坂46**——芸能人・アイドルが実際に訪れた焼肉・ステーキ・ホルモン店を全53件まとめた。東京の高級焼肉から松阪・米沢・近江の地方名物牛、静岡の「さわやか」まで、**グループごとの肉へのこだわりが味わい深い**ラインナップだ。
+**孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・King & Prince・乃木坂46・日向坂46**——芸能人・アイドルが実際に訪れた焼肉・ステーキ・ホルモン店を52件まとめた。東京の高級焼肉から松阪・米沢・近江の地方名物牛、静岡の「さわやか」まで、**グループごとの肉へのこだわりが味わい深い**ラインナップだ。
 
 ## 孤独のグルメ：全国焼肉・ホルモン名店15選
 
@@ -75,7 +110,7 @@ faq:
 
 ---
 
-よにのグルメまとめ → [よにのちゃんねるが行ったお店・グルメ完全まとめ](/articles/2026/04/01/yonino-gourmet-matome-2025-2026/)
+よにのグルメまとめ → [よにのちゃんねるが行ったお店・グルメまとめ](/articles/2026/04/01/yonino-gourmet-matome-2025-2026/)
 
 ## 亀梨和也：銀座〜渋谷の高級焼肉6選
 
@@ -85,17 +120,17 @@ faq:
 
 ---
 
-亀梨和也グルメまとめ → [亀梨和也が行ったお店・グルメ完全まとめ](/articles/2026/05/21/kamenashi-gourmet-matome/)
+亀梨和也グルメまとめ → [亀梨和也が行ったお店・グルメまとめ](/articles/2026/05/21/kamenashi-gourmet-matome/)
 
 ## SixTONES：叙々苑・松阪牛・西麻布の名店4選
 
 SixTONESの焼肉は**格式ある名店**が揃う。西麻布の「叙々苑 游玄亭 西麻布本館」は日本を代表する焼肉店。同じく西麻布の「牛牛 総本店」も肉好きなら外せない。名古屋ロケでは「極上松阪牛 牛追道中」が登場、全国最高峰の松阪牛を産地近くで味わえる。
 
-{% include inline-shop-grid.html ids="sixtones-5de59474-202101,sixtones-gyugyu-nishiazabu,sixtones-ushioidochu-nagoya,sixtones-ushimitsu-ebisu" %}
+{% include inline-shop-grid.html ids="sixtones-5de59474-202101,sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,sixtones-ushimitsu-ebisu" %}
 
 ---
 
-SixTONESグルメまとめ → [SixTONESが行ったお店・グルメ完全まとめ](/articles/2026/05/12/sixtones-gourmet-matome/)
+SixTONESグルメまとめ → [SixTONESが行ったお店・グルメまとめ](/articles/2026/05/12/sixtones-gourmet-matome/)
 
 ## King & Prince・Snow Man：シュラスコ〜六本木ホルモン
 
@@ -105,9 +140,9 @@ King & Princeの「バルバッコア〈青山本店〉」はブラジルシュ�
 
 ---
 
-King & Princeグルメまとめ → [King & Princeが行ったお店・グルメ完全まとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
+King & Princeグルメまとめ → [King & Princeが行ったお店・グルメまとめ](/articles/2026/05/25/kingprince-gourmet-matome/)
 
-Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全まとめ](/articles/2026/05/12/snowman-gourmet-matome/)
+Snow Manグルメまとめ → [Snow Manが行ったお店・グルメまとめ](/articles/2026/05/12/snowman-gourmet-matome/)
 
 ## 2グループ聖地：炭焼きレストランさわやか
 
@@ -141,8 +176,8 @@ Snow Manグルメまとめ → [Snow Manが行ったお店・グルメ完全ま�
 
 ## 推し活グルメ別ガイド
 
-> **「推しと同じカフェでまったりしたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【87選】](/articles/2026/05/26/idol-cafe-matome/)
+> **「推しと同じカフェでまったりしたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【73選】](/articles/2026/05/26/idol-cafe-matome/)
 >
-> **「推しが食べたラーメンを再現したい」** → [アイドル・芸能人が行ったラーメン聖地巡礼まとめ【82選】](/articles/2026/05/27/idol-ramen-matome/)
+> **「推しが食べたラーメンを再現したい」** → [アイドル・芸能人が行ったラーメン・麺類まとめ【85選】](/articles/2026/05/27/idol-ramen-matome/)
 >
 > **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)

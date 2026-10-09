@@ -23,6 +23,10 @@ echo "=== ③ 一覧・近くの店・検索用データ生成（_data/*.json �
 python scripts/build_site_data.py
 
 echo ""
+echo "=== ③' 特集記事の店舗IDの確認（shops.json にないIDがあれば表示。直すときは --fix） ==="
+python scripts/check_articles.py
+
+echo ""
 echo "=== ④ git add ==="
 git add _shop_pages/ _list_pages/ _data/ data/explore.json
 

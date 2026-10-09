@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Snow Manが行ったお店・グルメ完全まとめ【すの日常 全32店】"
+title: "Snow Manが行ったお店・グルメまとめ【すの日常 32店】"
 date: 2026-05-12
 last_modified_at: 2026-05-13
-description: "Snow Man（すの日常）が動画で実際に訪れたグルメスポットを全32件まとめました。和食・ラーメン・焼肉・寿司など東京を中心に掲載。住所・最寄り駅付きで聖地巡礼計画に役立てください。"
+description: "Snow Man（すの日常）が動画で実際に訪れたグルメスポットを32店まとめました。和食・ラーメン・焼肉・寿司など東京を中心に掲載。住所・最寄り駅付きで聖地巡礼計画に役立てください。"
 group: snowman
 genre: まとめ
 article_type: matome
@@ -11,9 +11,9 @@ prefecture: 東京都
 tags: [Snow Man, すの日常, グルメ, 聖地巡礼, まとめ, 岩本照, 深澤辰哉, ラウール]
 thumbnail_video_id: RpcyxzXS4ww
 summary:
-  - "すの日常に登場したグルメスポットを全32件まとめて確認できる"
+  - "すの日常に登場したグルメスポットを32店まとめて確認できる"
   - "浅草・港区・銀座など東京エリア別の巡礼ルートがわかる"
-  - "各店の住所・最寄り駅・価格帯をまとめて掲載"
+  - "各店の住所・最寄り駅つきで掲載"
   - "よくある質問（FAQ）でSnow Man聖地巡礼の疑問を解決"
 shop_ids:
   - snowman-onigiri-asakusa-yadoroku
@@ -35,7 +35,7 @@ shop_ids:
   - snowman-09af6680-202605
   - snowman-wagaya-shokudo-kasai
   - snowman-yakuzenya-ebisu
-  - snowman-yoshidaya-tachiaigawa
+  - snowman-07838f1d-20250505
   - snowman-kitchen-nanagoku-waseda
   - snowman-kokonotsu-kitasenju
   - snowman-unagi-kawamatu-higashikurume
@@ -111,7 +111,7 @@ faq:
 
 葛西の「わが家の食堂」、恵比寿の「薬膳キッチン やくぜんや」、品川・立会川の「そば会席 吉田家」、早稲田の「キッチン南国」、北千住の「ここのつ 3号店」、東久留米の「うなぎ川松」と、東京各地の和食・定食店が幅広く登場した。
 
-{% include inline-shop-grid.html ids="snowman-wagaya-shokudo-kasai,snowman-yakuzenya-ebisu,snowman-yoshidaya-tachiaigawa,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-unagi-kawamatu-higashikurume" %}
+{% include inline-shop-grid.html ids="snowman-wagaya-shokudo-kasai,snowman-yakuzenya-ebisu,snowman-07838f1d-20250505,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-unagi-kawamatu-higashikurume" %}
 
 ## 洋食・食事・その他【各エリア】
 

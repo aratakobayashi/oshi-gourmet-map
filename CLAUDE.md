@@ -205,6 +205,7 @@ heysayjump:        '#ef4444'  // レッド
 | `build_site_data.py` | 画面用データを生成: _data/shop_cards・group_meta・group_ix・group_detail・nearby・venue_nearby・site_stats と data/explore.json（/shops/ の絞り込み用） |
 | `geocode_gsi.py` | 住所から座標を取り直す（国土地理院アドレス検索API・キー不要）。番地まで一致したとき等だけ更新。既定は試算のみ、--write で書き込み |
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
+| `check_articles.py` | 特集記事（_posts/）の shop_ids と本文の inline-shop-card/grid のIDを shops.json と照合。--fix で、IDの付け替え（REMAP）・ないIDの削除・shop_ids を本文の店と一致させる。build_pages.sh で確認だけ実行 |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 
 **食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
@@ -242,6 +243,9 @@ heysayjump:        '#ef4444'  // レッド
 - AdSense は使わない（2026-10 に削除。地図・一覧に広告が重なり操作を妨げていたため）
 - Leaflet は地図を表示するときに app.js が読み込む（店舗ページは「地図を表示」を押したとき・PCは画面に近づいたとき。/shops/ は地図表示またはPC）
 - 一覧はページ生成時に最初の20件を書き出す。/shops/ の絞り込み用データ data/explore.json（約160KB圧縮後）は表示が落ち着いてから読む。shops-lite.json は画面では使っていない
+- 特集記事の店数は shop_ids から出す（front matter に shop_count を書かない）。本文に「全○店」などグループ全体の店数を書かない（データが増えると食い違うため）。グループ全体の数が要るときは `{{ site.data.group_ix.<group>.n }}` を使う。グループの記事には、グループ全体の店数と記事の店数を並べた案内（post.html の .livecount）が自動で出る
+- 特集記事に値段・営業時間・電話番号を書かない（変わりやすく出典が残らないため）
+- 複数グループを扱う記事（ジャンル横断のまとめ）には group を付けない
 - 記事内の店舗カードは `{% include inline-shop-card.html shop_id="..." %}` / `{% include inline-shop-grid.html ids="a,b" %}` でページ生成時に描画する
 - Google アナリティクスはページ表示完了の1.5秒後に読み込む（head.html）
 - ガイドの見出し画像は 600px 版（*_600.webp）を用意して srcset で出し分ける。新しいガイドを追加したら 600px 版も作る
