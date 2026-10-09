@@ -94,13 +94,16 @@ def main():
     labels = json.load(open(os.path.join(DATA, 'groups.json'), encoding='utf-8'))
 
     # グループ色は _group_pages の group_color が正
-    colors, gurls = {}, {}
+    colors, colors2, gurls = {}, {}, {}
     for f in os.listdir(os.path.join(ROOT, '_group_pages')):
         t = open(os.path.join(ROOT, '_group_pages', f), encoding='utf-8').read()
         k = re.search(r'^group_key: "(.*?)"', t, re.M)
         c = re.search(r'^group_color: "(.*?)"', t, re.M)
+        c2 = re.search(r'^group_color2: "(.*?)"', t, re.M)
         if k and c:
             colors[k.group(1)] = c.group(1)
+        if k and c2:
+            colors2[k.group(1)] = c2.group(1)
         if k:
             gurls[k.group(1)] = '/groups/' + jekyll_slug(f[:-3]) + '/'
 
@@ -191,6 +194,7 @@ def main():
     stats = {
         'shops': len(shops), 'groups': len(meta), 'prefs': len(prefs),
         'latest': latest,
+        'latest_video': [s['id'] for s in sorted(shops, key=recent_key, reverse=True) if not s.get('closed') and s.get('youtube_id')][:6],
         'stations': [{'name': n, 'count': c} for n, c in stations.most_common(12)],
         'prefectures': [{'name': n, 'count': c} for n, c in prefs.most_common(10)],
         'genres': dict(genres),
@@ -218,7 +222,9 @@ def main():
 
     dump('shop_cards.json', cards)
     dump('group_meta.json', meta)
-    dump('group_ix.json', {g['id']: {'l': g['label'], 'c': g['color'], 'n': g['count'], 'u': g['url']} for g in meta})
+    dump('group_ix.json', {g['id']: {'l': g['label'], 'c': g['color'], 'c2': colors2.get(g['id'], g['color']), 'n': g['count'], 'u': g['url'],
+                                  'ph': 1 if os.path.exists(os.path.join(ROOT, 'assets', 'images', 'groups', g['id'] + '_120.webp')) else 0}
+                            for g in meta})
     dump('nearby.json', nearby)
     dump('group_detail.json', detail)
     dump('venue_nearby.json', venue_nearby)

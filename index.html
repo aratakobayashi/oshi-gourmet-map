@@ -2,102 +2,264 @@
 layout: default
 title: 推しグルメ巡礼MAP｜推しが行ったお店の聖地めぐりガイド
 description: よにのちゃんねる・Snow Man・SixTONES・孤独のグルメなど、アイドル・芸人・YouTuber・ドラマで紹介された2,300件以上のお店を地図とリストで探せる聖地巡礼ガイド。
+body_class: page-lp
+inline_css: top.css
 ---
 {%- assign st = site.data.site_stats -%}
-{%- assign gm = site.data.group_meta -%}
-<section class="wrap hero">
-  <div class="hero__grid">
-    <div>
-      <p class="meta">{{ st.shops | default: 0 }}軒・{{ st.groups }}組の推しが訪れたお店</p>
-      <h1 class="hero__title">推しが食べた一皿を、<br>巡りにいこう。</h1>
-      <p class="hero__lead">アイドル・芸人・YouTuber・ドラマで紹介されたお店を、地図とリストで探せます。</p>
-      <form class="hero__search" action="{{ '/shops/' | relative_url }}" method="get" role="search">
-        <label class="searchbox"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" name="q" placeholder="推し・駅・店名で探す" aria-label="推し・駅・店名で探す"><button class="btn btn--ink" type="submit">探す</button></label>
-      </form>
-      <div class="entry">
-        <div class="seg" role="tablist" aria-label="探し方">
-          <button type="button" role="tab" aria-selected="true" aria-controls="ent-oshi" data-ent="ent-oshi">推しから<small>{{ st.groups }}組</small></button>
-          <button type="button" role="tab" aria-selected="false" aria-controls="ent-area" data-ent="ent-area">エリア・駅<small>{{ st.prefs }}地域</small></button>
-          <button type="button" role="tab" aria-selected="false" aria-controls="ent-genre" data-ent="ent-genre">ジャンル<small>{{ site.data.genres.size }}種</small></button>
+<div class="lp">
+
+
+<!-- ヒーロー -->
+<section class="hero">
+  <div class="container hero__inner">
+    <div class="hero__text">
+      <p class="hero__eyebrow">✦ TODAY'S 推しめし</p>
+      <h1 class="hero__title">
+        推しが食べた、<br>
+        <span class="hero__highlight">あの一皿</span>を、<br>
+        わたしも。
+      </h1>
+      <p class="hero__sub">
+        アイドル・芸人・YouTuberが訪れたお店を<br>
+        YouTube・テレビ番組からリサーチしてマッピング。
+      </p>
+      <div class="hero__actions">
+        <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す →</a>
+        <a href="{{ '/groups/' | relative_url }}" class="hero__btn hero__btn--secondary">グループで絞る</a>
+      </div>
+      <div class="hero__stats">
+        <div class="hero__stat">
+          <span class="hero__stat-num">{{ st.shops }}</span>
+          <span class="hero__stat-label">収録スポット</span>
         </div>
-        <div class="entry__panel chips" id="ent-oshi" role="tabpanel">
-          {%- for g in gm limit: 8 %}<a class="chip" style="--g:{{ g.color }}" href="{{ g.url | relative_url }}"><span class="dot"></span>{{ g.label }}<span class="cnt">{{ g.count }}</span></a>{% endfor %}
-          <a class="link-more entry__all" href="{{ '/groups/' | relative_url }}">{{ st.groups }}組すべて →</a>
+        <div class="hero__stat">
+          <span class="hero__stat-num">{{ st.groups }}</span>
+          <span class="hero__stat-label">グループ</span>
         </div>
-        <div class="entry__panel chips" id="ent-area" role="tabpanel" hidden>
-          {%- for p in st.prefectures limit: 4 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?pref={{ p.name | url_encode }}">{{ p.name }}<span class="cnt">{{ p.count }}</span></a>{% endfor %}
-          {%- for s in st.stations limit: 6 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?st={{ s.name | url_encode }}">{{ s.name }}<span class="cnt">{{ s.count }}</span></a>{% endfor %}
-        </div>
-        <div class="entry__panel chips" id="ent-genre" role="tabpanel" hidden>
-          {%- for g in site.data.genres %}{% assign gk = g[0] %}{% assign n = st.genres[gk] %}{% if n %}<a class="chip" href="{{ '/shops/' | relative_url }}?genre={{ g[0] }}">{{ g[1].label }}<span class="cnt">{{ n }}</span></a>{% endif %}{% endfor %}
+        <div class="hero__stat">
+          <span class="hero__stat-num">{{ st.prefs }}</span>
+          <span class="hero__stat-label">都道府県</span>
         </div>
       </div>
     </div>
-    <a class="mapbox hero__map" href="{{ '/shops/' | relative_url }}?view=map" aria-label="地図で探す">
-      <span class="hero__pins" aria-hidden="true">{% for g in gm limit: 6 %}<i style="--g:{{ g.color }}"></i>{% endfor %}</span>
-      <span class="btn btn--ink">地図で探す →</span>
-    </a>
+    <div class="hero__collage" aria-hidden="true">
+      <div class="polaroid polaroid--a">
+        <div class="washi-tape washi-tape--butter"></div>
+        <img src="{{ '/assets/images/groups/yonino_480.webp' | relative_url }}" alt="" width="480" height="480" fetchpriority="high">
+        <p class="polaroid__caption">よにのちゃんねる ♡</p>
+      </div>
+      <div class="polaroid polaroid--b">
+        <div class="washi-tape washi-tape--blush"></div>
+        <img src="{{ '/assets/images/groups/nogizaka46_480.webp' | relative_url }}" alt="" width="480" height="480" loading="lazy">
+        <p class="polaroid__caption">乃木坂46 ♡</p>
+      </div>
+      <div class="polaroid polaroid--c">
+        <div class="washi-tape washi-tape--mint"></div>
+        <img src="{{ '/assets/images/groups/equal_love_480.webp' | relative_url }}" alt="" width="480" height="480" loading="lazy">
+        <p class="polaroid__caption">=LOVE ♡</p>
+      </div>
+      <div class="hero__badge">
+        <span class="hero__badge-label">NEW</span>
+        <span class="hero__badge-num">{{ st.shops }}</span>
+        <span class="hero__badge-unit">SPOTS</span>
+      </div>
+    </div>
   </div>
 </section>
 
-<section class="wrap section">
-  <div class="section__head"><h2 class="h2">新しく追加された聖地</h2><a class="link-more" href="{{ '/shops/' | relative_url }}">すべて見る →</a></div>
-  <div class="cards cards--4">
-    {%- for id in st.latest limit: 8 %}{% include card.html id=id eager=forloop.first %}{% endfor %}
+<!-- SECTION 01: 新着スポット（JS） -->
+<section class="landing-section" id="latest-feed-section">
+  <div class="container">
+    <div class="section-header-row">
+      <div class="section-header">
+        <p class="section-eyebrow">SECTION 01 / FEED</p>
+        <h2 class="section-title">推しが訪れた<span class="txt-berry">最新スポット</span></h2>
+        <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
+      </div>
+      <div class="feed-tabs" role="tablist" aria-label="表示">
+        <button type="button" class="feed-tab active" data-mode="recent" role="tab" aria-selected="true">新着</button>
+        <button type="button" class="feed-tab" data-mode="video" role="tab" aria-selected="false">動画あり</button>
+      </div>
+    </div>
+    <div class="feed-grid feed-panel" data-panel="recent">{% for id in st.latest limit: 6 %}{% assign i = forloop.index0 %}{% include feed-card.html id=id i=i %}{% endfor %}</div>
+    <div class="feed-grid feed-panel" data-panel="video" hidden>{% for id in st.latest_video limit: 6 %}{% assign i = forloop.index0 %}{% include feed-card.html id=id i=i %}{% endfor %}</div>
+    <div class="landing-more">
+      <a href="{{ '/shops/' | relative_url }}" class="btn--outline">すべてのスポットを見る →</a>
+    </div>
   </div>
 </section>
 
-<div class="wrap home-2col">
-  <section class="section">
-    <div class="section__head"><h2 class="h2">ジャンルから巡る</h2></div>
-    <div class="genre-grid">
-      {%- for g in site.data.genres %}{% if g[0] != 'others' %}<a href="{{ '/shops/' | relative_url }}?genre={{ g[0] }}"><span class="stamp">{{ g[1].mark }}</span>{{ g[1].label }}</a>{% endif %}{% endfor %}
+<!-- SECTION 02: MAP誘導 -->
+<section class="landing-section">
+  <div class="container">
+    <div class="map-cta__card">
+      <div class="map-cta__text">
+        <p class="section-eyebrow" style="color:var(--c-berry)">SECTION 02 / MAP</p>
+        <h2 class="section-title">地図で<span class="txt-highlight">聖地めぐり</span></h2>
+        <p class="section-desc">推しごとにピンの色が変わる。タップして聖地の詳細を確認しよう。</p>
+        <a href="{{ '/shops/' | relative_url }}" class="hero__btn hero__btn--primary">MAPで聖地を探す ↗</a>
+      </div>
+      <div class="map-pin-legend">
+        {%- for g in site.data.group_meta limit: 20 %}
+        <a class="pin-item" href="{{ g.url | relative_url }}"><span class="pin-dot" style="background:{{ g.color }}"></span>{{ g.label }}</a>
+        {%- endfor %}
+      </div>
     </div>
-  </section>
-  <section class="section">
-    <div class="section__head"><h2 class="h2">エリア・駅から巡る</h2></div>
-    <div class="chips">
-      {%- for p in st.prefectures limit: 4 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?pref={{ p.name | url_encode }}">{{ p.name }}<span class="cnt">{{ p.count }}</span></a>{% endfor %}
-      {%- for s in st.stations limit: 8 %}<a class="chip chip--area" href="{{ '/shops/' | relative_url }}?st={{ s.name | url_encode }}">{{ s.name }}<span class="cnt">{{ s.count }}</span></a>{% endfor %}
-    </div>
-  </section>
-</div>
+  </div>
+</section>
 
+
+<!-- 推し活ガイドの入口（リニューアル後のトップから残したブロック） -->
 {%- assign venues = site.guides | where: "guide_category", "venue" %}
-<section class="wrap section">
-  <div class="darkblock">
-    <div>
-      <p class="meta">推し活ガイド・{{ site.guides.size }}本</p>
-      <h2 class="h2">ライブ会場と、<br>その周りの聖地</h2>
-      <div class="chips chips--sp">{% for v in venues limit: 6 %}<a class="chip" href="{{ v.url | relative_url }}">{{ site.data.venues[v.slug].name | default: v.title | truncate: 16 }}</a>{% endfor %}</div>
-      <a class="link-more" href="{{ '/guide/' | relative_url }}#venue">会場ガイド{{ venues.size }}本を見る →</a>
-    </div>
-    <div class="venue-cards">
-      {%- assign top_venues = "yoyogi-national-gymnasium,pia-arena-mm,osaka-jo-hall" | split: ',' %}
-      {%- for key in top_venues %}{% assign v = venues | where: "slug", key | first %}{% if v %}
-      <a href="{{ v.url | relative_url }}">
-        <div class="thumb">{% if v.thumbnail %}<img src="{{ v.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" loading="lazy" width="600" height="400">{% endif %}</div>
-        <b>{{ site.data.venues[key].name }}</b><span>周辺の聖地 {{ site.data.venue_nearby[key].n }}軒</span>
-      </a>{% endif %}{% endfor %}
+<section class="guide-block">
+  <div class="wrap">
+    <div class="darkblock">
+      <div>
+        <p class="meta">推し活ガイド・{{ site.guides.size }}本</p>
+        <h2 class="h2">ライブ会場と、<br>その周りの聖地</h2>
+        <div class="chips chips--sp">{% for v in venues limit: 6 %}<a class="chip" href="{{ v.url | relative_url }}">{{ site.data.venues[v.slug].name | default: v.title | truncate: 16 }}</a>{% endfor %}</div>
+        <a class="link-more" href="{{ '/guide/' | relative_url }}#venue">会場ガイド{{ venues.size }}本を見る →</a>
+      </div>
+      <div class="venue-cards">
+        {%- assign top_venues = "yoyogi-national-gymnasium,pia-arena-mm,osaka-jo-hall" | split: ',' %}
+        {%- for key in top_venues %}{% assign v = venues | where: "slug", key | first %}{% if v %}
+        <a href="{{ v.url | relative_url }}">
+          <div class="thumb">{% if v.thumbnail %}<img src="{{ v.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" loading="lazy" width="600" height="400">{% endif %}</div>
+          <b>{{ site.data.venues[key].name }}</b><span>周辺の聖地 {{ site.data.venue_nearby[key].n }}軒</span>
+        </a>{% endif %}{% endfor %}
+      </div>
     </div>
   </div>
 </section>
 
-<section class="wrap section">
-  <div class="section__head"><h2 class="h2">特集記事</h2><a class="link-more" href="{{ '/articles/' | relative_url }}">{{ site.posts.size }}本すべて →</a></div>
-  <ul class="alist alist--grid">
-    {%- for p in site.posts limit: 3 %}<li>{% include article-item.html p=p %}</li>{% endfor %}
-  </ul>
+<!-- SECTION 06: 特集記事 -->
+{% if site.posts.size > 0 %}
+<section class="landing-section landing-section--alt">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 03 / ARTICLES</p>
+      <h2 class="section-title">推しゆかりの<span class="txt-berry">特集記事</span></h2>
+      <p class="section-desc">番組・YouTubeからスタッフが調べて掲載しています</p>
+    </div>
+    <div class="article-grid--landing">
+      {% for post in site.posts limit:3 %}
+      <article class="article-card--landing">
+        {% case forloop.index %}
+        {% when 1 %}<div class="washi-tape washi-tape--butter" style="top:-8px;left:40px"></div>
+        {% when 2 %}<div class="washi-tape washi-tape--blush" style="top:-7px;right:28px;left:auto"></div>
+        {% when 3 %}<div class="washi-tape washi-tape--mint" style="top:-8px;left:60px;bottom:auto"></div>
+        {% endcase %}
+        {% if post.thumbnail_video_id %}
+          <img src="https://i.ytimg.com/vi_webp/{{ post.thumbnail_video_id }}/mqdefault.webp"
+               alt="" class="article-card__thumb--landing" width="320" height="180" loading="lazy">
+        {% else %}
+          <div class="post-hero post-hero--{{ post.group | default: 'default' }} article-card__hero--landing"></div>
+        {% endif %}
+        <div class="article-card__body--landing">
+          <div class="article-card__meta--landing">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+            {% if post.genre %}<span class="post-badge post-badge--genre">{{ site.data.genres[post.genre].label | default: post.genre }}</span>{% endif %}
+          </div>
+          <h3 class="article-card__title--landing">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          <p class="article-card__excerpt--landing">{{ post.excerpt | strip_html | truncate: 70 }}</p>
+          <a href="{{ post.url | relative_url }}" class="article-card__cta">詳細を見る →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="landing-more">
+      <a href="{{ '/articles/' | relative_url }}" class="btn--outline">記事をもっと見る →</a>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- SECTION 03.5: グループ別まとめページ -->
+{% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
+{% if sorted_groups.size > 0 %}
+<section class="landing-section" id="group-pages">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 03 / GROUPS</p>
+      <h2 class="section-title">推しの<span class="txt-berry">グループ</span>で探す</h2>
+      <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう</p>
+    </div>
+    <div class="group-index-grid">
+      {% for gp in sorted_groups %}
+      <a href="{{ gp.url | relative_url }}" class="group-index-card"
+         style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
+        <div class="group-index-card__bg group-index-card__bg--gradient"></div>
+        <div class="group-index-card__overlay"></div>
+        <div class="group-index-card__body">
+          <span class="group-index-card__name">{{ gp.group_label }}</span>
+          <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- SECTION 04: 推し×ジャンル一覧 -->
+{% assign sorted_lists = site.list_pages | sort: "shop_count" | reverse %}
+{% if sorted_lists.size > 0 %}
+<section class="landing-section landing-section--alt" id="groups">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 04 / LISTS</p>
+      <h2 class="section-title">推し × ジャンルで<span class="txt-berry">絞り込む</span></h2>
+      <p class="section-desc">グループとジャンルの組み合わせから聖地を探せます</p>
+    </div>
+    <div class="list-chips">
+      {% for lp in sorted_lists limit: 24 %}
+        <a href="{{ lp.url | relative_url }}" class="list-chip">
+          {% if lp.group_color %}<span class="list-chip__dot" style="background:{{ lp.group_color }}"></span>{% endif %}
+          <span class="list-chip__label">{{ lp.group_label }} × {{ site.data.genres[lp.genre].label | default: lp.genre }}</span>
+          <span class="list-chip__count">{{ lp.shop_count }}件</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- SECTION 07: 使い方 -->
+<section class="landing-section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-eyebrow">SECTION 05 / HOW TO</p>
+      <h2 class="section-title">3ステップで<span class="txt-highlight">巡礼</span>へ</h2>
+    </div>
+    <div class="howto-steps">
+      <div class="howto-step">
+        <span class="howto-step__num" data-n="01" aria-hidden="true"></span>
+        <h3 class="howto-step__title">推しを選ぶ</h3>
+        <p class="howto-step__desc">グループやタレントを選んで聖地を絞り込もう</p>
+      </div>
+      <div class="howto-step">
+        <span class="howto-step__num" data-n="02" aria-hidden="true"></span>
+        <h3 class="howto-step__title">お店を見つける</h3>
+        <p class="howto-step__desc">YouTubeや番組で推しが実際に訪れた一皿を発見</p>
+      </div>
+      <div class="howto-step">
+        <span class="howto-step__num" data-n="03" aria-hidden="true"></span>
+        <h3 class="howto-step__title">聖地巡礼へ</h3>
+        <p class="howto-step__desc">同じ場所を訪れて、推しと同じ体験をしよう</p>
+      </div>
+    </div>
+  </div>
 </section>
 
+</div>
 <script>
-  document.querySelectorAll('[data-ent]').forEach(function (b) {
-    b.addEventListener('click', function () {
-      document.querySelectorAll('[data-ent]').forEach(function (x) {
-        var on = x === b;
-        x.setAttribute('aria-selected', on ? 'true' : 'false');
-        document.getElementById(x.dataset.ent).hidden = !on;
-      });
+  // 「新着」「動画あり」の切り替え（どちらもページ生成時に書き出してある）
+  document.querySelectorAll('.feed-tab').forEach(function (t) {
+    t.addEventListener('click', function () {
+      document.querySelectorAll('.feed-tab').forEach(function (x) { var on = x === t; x.classList.toggle('active', on); x.setAttribute('aria-selected', on); });
+      document.querySelectorAll('.feed-panel').forEach(function (p) { p.hidden = p.dataset.panel !== t.dataset.mode; });
     });
   });
 </script>

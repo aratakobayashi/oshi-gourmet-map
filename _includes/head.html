@@ -98,3 +98,6 @@
 <!-- サイトスタイル（1a 巡礼帳） -->
 <meta name="theme-color" content="#F7F3EC">
 <link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}">
+{%- if page.inline_css %}
+<style>{% capture _css %}{% include {{ page.inline_css }} %}{% endcapture %}{{ _css | strip_newlines }}</style>
+{%- endif %}

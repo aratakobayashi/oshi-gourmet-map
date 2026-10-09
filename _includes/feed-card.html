@@ -1,0 +1,28 @@
+{%- comment -%} トップの「最新スポット」カード（リニューアル前のデザイン）。引数: id / i（0始まりの順番。テープの色と角度） {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}
+{%- assign _gi = site.data.group_ix[_c.gr] -%}
+{%- assign _tapes = "#FFE08A|top:-8px;left:40px;transform:rotate(-10deg),#FFD4DE|top:-7px;right:28px;left:auto;transform:rotate(8deg),#BFE3CF|top:-8px;left:70px;transform:rotate(-6deg),#FFE08A|top:-8px;left:55px;transform:rotate(12deg),#FFD4DE|top:-7px;left:35px;transform:rotate(-9deg),#BFE3CF|top:-8px;right:40px;left:auto;transform:rotate(7deg)" | split: ',' -%}
+{%- assign _t = _tapes[include.i] | split: '|' -%}
+<a class="feed-card" href="{{ _c.u | relative_url }}">
+  <div class="feed-card__tape" style="background-color:{{ _t[0] }};{{ _t[1] }}"></div>
+  {%- if _c.v != '' %}
+  <img class="feed-card__img" src="https://i.ytimg.com/vi_webp/{{ _c.v }}/mqdefault.webp" alt="" width="320" height="180" loading="lazy" decoding="async">
+  {%- elsif _c.t != '' and _c.t contains 'youtube' %}
+  <img class="feed-card__img" src="{{ _c.t }}" alt="" width="320" height="180" loading="lazy" decoding="async">
+  {%- elsif _c.t != '' %}
+  <img class="feed-card__img" src="{{ _c.t }}" alt="" width="320" height="180" loading="lazy" decoding="async">
+  {%- else %}
+  <div class="feed-card__banner" style="background:linear-gradient(135deg,{{ _gi.c | default: '#e8537a' }},{{ _gi.c2 | default: '#7c3aed' }})">
+    {%- if _gi.ph == 1 %}<img class="feed-card__banner-icon" src="{{ '/assets/images/groups/' | append: _c.gr | append: '_120.webp' | relative_url }}" alt="" width="60" height="60" loading="lazy">{% endif %}
+    <span class="feed-card__banner-genre">{{ site.data.genres[_c.g].label | default: _c.g }}</span>
+  </div>
+  {%- endif %}
+  <div class="feed-card__body">
+    <p class="feed-card__group">{{ _gi.l | default: _c.gr }}</p>
+    <p class="feed-card__name">{{ _c.n }}</p>
+    <p class="feed-card__area">{{ _c.p }}{% if _c.st != '' %} · {{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}{% endif %}</p>
+    <p class="feed-card__cta">行きたい →</p>
+  </div>
+</a>
+{%- endif -%}
