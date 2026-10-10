@@ -13,7 +13,6 @@ visited_date: "2024-04-13"
 source_video_title: "銀河チャンネル"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13014855/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000004777/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.669261
 lng: 139.764429
