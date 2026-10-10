@@ -7,6 +7,6 @@
   "acees-profile": {"label": "グループ紹介", "title": "ACEes", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー5人", "結成からの歩み", "ツアー"], "color": "#be185d"},
   "bandzai-profile": {"label": "グループ紹介", "title": "B&ZAI", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー8人", "結成からの歩み", "武道館公演"], "color": "#b45309"},
   "key-to-lit-profile": {"label": "グループ紹介", "title": "KEY TO LIT", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー5人", "結成からの歩み", "CDデビュー発表"], "color": "#7c3aed"},
-  "star-song-special": {"label": "番組紹介", "title": "Star Song Special", "sub": "ジュニアが出演する音楽番組", "chips": ["シーズンと配信", "各回の出演者"], "color": "#0369a1"},
+  "star-song-special": {"label": "番組紹介", "title": "Star Song Special", "sub": "ジュニアが出演する音楽番組", "chips": ["Season1〜4", "見られる配信", "各回の出演者"], "color": "#0369a1"},
   "timelesz-arena-tour-guide": {"label": "遠征準備", "title": "timeleszのツアー", "sub": "これまでの公演と参戦の準備", "chips": ["公演の一覧", "会場ガイド", "遠征の準備"], "color": "#1d4ed8"}
 }

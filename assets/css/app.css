@@ -424,6 +424,8 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .prose table { display: block; overflow-x: auto; border-collapse: collapse; font-size: 14px; max-width: 100%; }
 .prose th, .prose td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; background: var(--surface); }
 .prose th { background: #F1EBE0; }
+.prose th, .prose td { overflow-wrap: normal; min-width: 4.5em; }
+.prose th, .prose td:first-child { white-space: nowrap; }
 .prose img { border-radius: var(--r-md); height: auto; }
 .prose .fig { margin: var(--s-6) 0; }
 .prose .fig img { display: block; width: 100%; max-width: 600px; margin: 0 auto; border: 1px solid var(--line); }
