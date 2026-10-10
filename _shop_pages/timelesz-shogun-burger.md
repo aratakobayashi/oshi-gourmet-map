@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「SHOGUN BURGER」"
-description: "寺西拓人 ハンバーガーまとめで紹介された焼肉「SHOGUN BURGER」（東京都）。推し活グルメ巡礼スポット。"
+description: "寺西拓人 ハンバーガーまとめで紹介された食事「SHOGUN BURGER」（東京都）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-shogun_burger-"
 name: "SHOGUN BURGER"
-genre: "yakiniku"
+genre: "shokuji"
 prefecture: "東京都"
 nearest_station: "新宿駅 徒歩4分"
 visited_date: "2025-06-25"

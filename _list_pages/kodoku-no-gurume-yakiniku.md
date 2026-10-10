@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - naniwa-yakiniku
   - sixtones-yakiniku
-  - timelesz-yakiniku
+  - yonino-yakiniku
 ---
