@@ -43,7 +43,7 @@
 <rect x="216" y="584" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="602" font-size="13.5" fill="#241F1A">港区</text><text x="388" y="602" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">5軒</text>
 <rect x="20" y="616" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="634" font-size="13.5" fill="#241F1A">京 京都市</text><text x="192" y="634" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">5軒</text>
+<text x="32" y="634" font-size="13.5" fill="#241F1A">京都 京都市</text><text x="192" y="634" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">5軒</text>
 <rect x="216" y="616" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="634" font-size="13.5" fill="#241F1A">杉並区</text><text x="388" y="634" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">4軒</text>
 <rect x="20" y="648" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
@@ -63,7 +63,7 @@
 <rect x="216" y="744" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="762" font-size="13.5" fill="#241F1A">豊島区</text><text x="388" y="762" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">2軒</text>
 <rect x="20" y="776" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="794" font-size="13.5" fill="#241F1A">沖縄</text><text x="192" y="794" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">1軒</text>
+<text x="32" y="794" font-size="13.5" fill="#241F1A">沖縄 中頭郡北谷町</text><text x="192" y="794" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">1軒</text>
 <rect x="216" y="776" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="794" font-size="13.5" fill="#241F1A">世田谷区</text><text x="388" y="794" font-size="14" font-weight="800" text-anchor="end" fill="#f43f5e">1軒</text>
 <rect x="20" y="808" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>

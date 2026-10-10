@@ -116,7 +116,7 @@ faq:
 <div class="pf-quote"><p>シーズンの各話は1話1軒が基本ですが、スペシャルは1本で2〜7軒。2021年の大晦日は京都府伊根町から東京まで車で帰る道中に、舞鶴・丹波篠山・松阪・伊勢・浜松・富士宮・墨田と7軒をはしごしています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/kodoku-no-gurume-nenmatsu-special-pilgrimage/genre.svg" alt="お店のジャンルと場所：食事15軒、ラーメン13軒、和食12軒、焼肉9軒、スイーツ1軒。場所は福岡の博多・北海道旭川市・中野区・千葉県成田市・愛知県名古屋市・福岡県福岡市・沖縄県（今帰仁村・読谷村）・台湾台北市・山形県米沢市・渋谷区が2軒ずつ、ほかの30か所が1軒ずつ" width="420" height="1014" loading="lazy" decoding="async"><figcaption>この記事の50軒を、推しグルメ巡礼MAPのジャンル分けで数えました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kodoku-no-gurume-nenmatsu-special-pilgrimage/genre.svg" alt="お店のジャンルと場所：食事15軒、ラーメン13軒、和食12軒、焼肉9軒、スイーツ1軒。場所は福岡の博多・北海道旭川市・中野区・千葉県成田市・愛知県名古屋市・福岡県福岡市・沖縄県（今帰仁村・読谷村）・台湾台北市・山形県米沢市・渋谷区が2軒ずつ、ほかの30か所が1軒ずつ" width="420" height="1046" loading="lazy" decoding="async"><figcaption>この記事の50軒を、推しグルメ巡礼MAPのジャンル分けで数えました</figcaption></figure>
 
 <h2>2014〜2016年：博多・旭川・宮城の出張編</h2>
 <p>最初のスペシャルは2014年8月9日の「孤独のグルメ特別編！真夏の博多出張スペシャル」。2016年は元日の「真冬の北海道・旭川出張編」と、8月の「真夏の東北・宮城出張編」の2本です。</p>

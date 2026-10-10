@@ -10,7 +10,7 @@
 <text x="132" y="163" font-size="16" font-weight="800" fill="#15803d">1軒</text>
 <text x="20" y="198" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
 <rect x="20" y="212" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="230" font-size="13.5" fill="#241F1A">群馬</text><text x="192" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">2軒</text>
+<text x="32" y="230" font-size="13.5" fill="#241F1A">群馬 甘楽郡下仁田町</text><text x="192" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">2軒</text>
 <rect x="216" y="212" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="230" font-size="13.5" fill="#241F1A">埼玉 上尾市</text><text x="388" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
 <rect x="20" y="244" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>

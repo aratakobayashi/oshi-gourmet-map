@@ -227,6 +227,12 @@ heysayjump:        '#ef4444'  // レッド
 - お役立ちガイド（遠征準備・推し活の基本）の新しい型（2026-10 遠征準備3本・推し活の基本10本）: 本文を `.pf` で囲み、ひと目でわかるまとめ（.pf-card/.pf-nums）・図4〜5枚（記事ごとに手で描いたSVG、幅420・背景 #F7F3EC・12px未満の文字なし。assets/img/guide/<slug>/）・編集部のメモ（.pf-quote、事実にもとづく助言。架空の体験談は書かない）・会場ガイドやお店探しへの .pf-cta。値段は書かず公式へ。見出し画像は `python scripts/howto_thumbs.py <slug>`（データ scripts/howto_data/<slug>.json。アイコンのイラスト）。A8リンクは行き先と表示名が一致するものだけ（旧記事は表示名と行き先が食い違うものが多かった）
 - 「近くの店」（会場ガイド・店舗ページ）には、住所が番地まであり座標がほかの店と重なっていない店だけを出す（区役所あたりの座標になっている店を除くため）。場所が怪しい店は shops.json で `location_unverified: true` を付けると除外される
 
+## 特集記事（/articles/）の新しい型（2026-10 全42本）
+- お手本 `_posts/2026-04-01-yonino-gourmet-matome-2025-2026.md`。本文はHTMLで `.pf` に包み、ひと目でわかるカード・数字で見る・年表図／ジャンルと場所の図（`python scripts/post_figures.py <slug> --color '<色>' --title '<…の年表>'`。assets/img/posts/<slug>/）・テーマ別の .pf-works（回・動画タイトル・注文したもの）＋inline-shop-grid・公式動画・エリアで巡る・地図への .pf-cta
+- 事実の土台は店舗データと公式（YouTube oEmbed・TMDB・番組公式）。data/shops.json の description の評判（行列・名店・ミシュランなど）は書き写さない
+- 動画タイトルが空の店は `python scripts/fill_video_titles.py --write`（YouTube oEmbed。source_video_title と source_video_channel）
+- 食べログボタンは、`tabelog_verified: true` を付けた店だけ店のページへ。ほかは「店名＋市区町村」の食べログ検索（集めた tabelog_url に別の店が多かったため）。ホットペッパーは `scripts/add_hotpepper_urls.py`（名前が完全一致なら1.5km以内、部分一致なら300m以内だけ採用。迷うものは scripts/hotpepper_match_review.json）
+
 ## デザイン（2026-10 リニューアル「1a 巡礼帳」）
 - CSS は `assets/css/app.css` の1ファイル（色・文字・余白はファイル先頭の変数）。JS は `assets/js/app.js`（全ページ共通: 保存・動画・地図・共有・目次・店舗の行の組み立て）と `assets/js/explore.js`（/shops/ の絞り込み・地図）だけ。どちらも素のJS
 - 店舗カードの部品: `_includes/card.html`（グリッド）・`row.html`（行）・`mini.html`（小）・`thumb.html`。中身は `_data/shop_cards.json` から引く。JSで作る行は app.js の shopUI.row（row.html と同じ形に保つ）

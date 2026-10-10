@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った和食聖地巡礼まとめ【東京〜全国96選】"
+title: "アイドル・芸能人が行った和食まとめ【96軒】よにのの朝定食・両国のちゃんこに3組・うなぎとそばまで12組"
 date: 2026-05-27
-last_modified_at: 2026-05-27
-description: "孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVEなどが実際に訪れた和食・定食・うなぎ・そば・おにぎり店を96件まとめました。東京の名店から全国のご当地和食まで、推し活・聖地巡礼・旅行プランに使えるグルメガイドです。"
+last_modified_at: 2026-10-10
+description: "孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVE・Hey! Say! JUMPなど12組の動画や番組に登場した和食・定食・そば・うなぎのお店96軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。何組も訪れたお店や、どのグループのお店かは図でひと目で。"
 genre: 和食
 article_type: genre
 prefecture: 東京都
-tags: [和食, 聖地巡礼, グルメ, よにのちゃんねる, 孤独のグルメ, SixTONES, Snow Man, "=LOVE", 乃木坂46, 推し活, うなぎ, そば, おにぎり]
-thumbnail_video_id: 1VN2TGo5uOM
+tags: [和食, 定食, そば, うなぎ, ちゃんこ, おにぎり, 聖地巡礼, 孤独のグルメ, よにのちゃんねる, SixTONES, Snow Man, "=LOVE", "Hey! Say! JUMP", 乃木坂46, 推し活]
+thumbnail_video_id: Ax1f_OVispA
 summary:
-  - "孤独のグルメ30件・よにの18件・SixTONES12件・Snow Man11件など96店収録"
-  - "うなぎ・そば・おにぎり・定食・割烹と和食ジャンルを幅広くカバー"
-  - "SixTONES＆乃木坂両方が通った「おにぎりぼんご」など複数グループ共通店も"
-  - "孤独のグルメ地方名店・鎌倉和食コース・東京定食名店など旅行プランにも活用できる"
+  - "12組のグループ・番組に登場した和食のお店96軒。孤独のグルメ29軒、よにのちゃんねる18軒、SixTONES13軒、Snow Man12軒"
+  - "両国のちゃんこには、よにのちゃんねる・SixTONES・孤独のグルメの3組。おにぎり ぼんごにはSixTONESと乃木坂46"
+  - "うなぎは5組、そば・うどんは6組のお店が登場。よにのちゃんねるは朝ごはんの定食の回が多い"
+  - "96軒のうち59軒が東京都。鎌倉・金沢・京都・軽井沢など旅先の和食も"
 shop_ids:
   - kodoku_no_gurume-f7531f88-
   - kodoku_no_gurume-83ea2596-
@@ -112,134 +112,221 @@ shop_ids:
   - hinatazaka46-dashi-chazuke-en-narita
   - heysayjump-aad59291-20160414
 faq:
-  - q: "孤独のグルメが行った和食の名店を教えてください。"
-    a: "「豊栄」（文京区）、「はまべ」（千葉・富津）、「萃萃」（仙台）、「キセキ食堂 上尾店」（埼玉）が代表的です。豊栄は東京・本郷の知る人ぞ知る割烹で、放送後に予約が困難になりました。"
-  - q: "SixTONESが行ったうなぎの名店を教えてください。"
-    a: "「丸忠うなぎ」（静岡・焼津）と「うなぎ徳 渋谷店」の2軒が登場しています。焼津の丸忠は漁港の町・焼津にある老舗で、うなぎ聖地巡礼の旅先としても人気。渋谷のうなぎ徳は都内で本格うなぎを手軽に楽しめる名店です。"
-  - q: "複数のグループが行った和食店はありますか？"
-    a: "「おにぎり ぼんご」（豊島区）がSixTONESと乃木坂46の両方に登場しています。また「伊勢屋食堂」（新宿区）はSnow Manと孤独のグルメの両方が訪れた定食の名店です。推し被りスポットとして聖地巡礼の定番になっています。"
-  - q: "=LOVEが行った鎌倉の和食を教えてください。"
-    a: "「八倉 -湘南の魚と鎌倉野菜-」「鎌倉壱番屋 雪ノ下店」「ともや 鎌倉小町店」の3軒が鎌倉で登場しています。湘南の鮮魚と鎌倉野菜を使った料理や地元グルメが揃い、半日で3店を巡る鎌倉和食コースとして計画できます。"
-  - q: "よにのちゃんねるが行った和食でおすすめはどこですか？"
-    a: "「浅草今半 国際通り本店」（すき焼き）と「炭焼 うな富士 有楽町店」（うなぎ）が特におすすめです。浅草今半は明治28年創業の老舗すき焼き店で、よにのメンバーも大絶賛した一軒。うな富士はリーズナブルに本格うなぎが楽しめる有楽町の人気店です。"
+  - q: "アイドル・芸能人が行った和食のお店は、どのグループが多いですか？"
+    a: "この記事の96軒では、孤独のグルメが29軒で最も多く、よにのちゃんねるが18軒、SixTONESが13軒、Snow Manが12軒、=LOVEが11軒、Hey! Say! JUMPが5軒です。"
+  - q: "何組も訪れた和食のお店はありますか？"
+    a: "おにぎり ぼんごには、SixTONES（2022年7月の公式YouTube）と乃木坂46（日本テレビの番組「乃木坂どこへ」）が訪れています。両国では、よにのちゃんねるが相撲茶屋 寺尾（#336）、SixTONESがちゃんこ 霧島、孤独のグルメがSeason2 第8話で割烹ちゃんこ 大内と、3組がちゃんこのお店に行っています。"
+  - q: "よにのちゃんねるが行った和食のお店は？"
+    a: "おひつ膳 田んぼ（#135）、なぎさ食堂（#288）、食事処 相州屋（#310）、干物割烹 あん梅（#320）、相撲茶屋 寺尾（#336）、浅草今半 国際通り本店（#366）、しゃぶしゃぶ だるま（#476）など18軒。タイトルに【朝食】【朝飯】が付いた回が多く、朝の定食を食べています。"
+  - q: "推しが行ったうなぎのお店は？"
+    a: "よにのちゃんねるの炭焼 うな富士 有楽町店（#452）、SixTONESのうなぎ徳 渋谷店と丸忠うなぎ（焼津）、Snow Manのうなぎ川松（東久留米）、Hey! Say! JUMPのうな達（池袋）、孤独のグルメの鰻の名店割烹 松の家（浜松）の6軒です。"
+  - q: "推しが行った和食のお店を地図で見られますか？"
+    a: "「お店を探す」でジャンルを和食にすると、この記事の96軒を含め、推しグルメ巡礼MAPに登録されている和食のお店を地図で見られます。"
 ---
 
-**孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVE・乃木坂46**——芸能人・アイドルが実際に足を運んだ和食・定食・うなぎ・そば・おにぎり店を96件まとめた。東京の割烹・老舗から、仙台・焼津・鎌倉・金沢まで**全国のご当地和食が一堂に揃う**最大規模のジャンルだ。旅行プランにも、推し活デートにも活用してほしい。
+<div class="pf" style="--pc:#15803d">
 
-## 孤独のグルメ：全国定食・割烹・郷土料理30選
+<p>朝の焼き魚定食、両国のちゃんこ、創業の古いおそば屋さん。和食の回には、推しがほっとひと息つく表情がよく映ります。</p>
 
-孤独のグルメの和食は**ご当地グルメと東京下町の名店**が二本柱。文京区の「豊栄」は知る人ぞ知る割烹で放送後に予約困難に。千葉・富津の「はまべ」は漁師町の海鮮定食として圧倒的な存在感だ。仙台「萃萃」、埼玉・上尾「キセキ食堂」と地方名店も見逃せない。
+<p>この記事では、<strong>12組</strong>のグループ・番組の動画や放送に登場した和食・定食・そば・うなぎのお店<strong>96軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-f7531f88-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f3635787-,kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-6b42b0e8-,kodoku_no_gurume-8cd47230-" %}
+<h2>ひと目でわかる 推しの和食</h2>
+<div class="pf-card">
+  <div class="pf-card__head">
+    <small>アイドル・芸能人が行ったお店</small>
+    <p class="pf-card__name">推しの和食</p>
+    <p class="pf-card__yomi">12組の動画・番組から96軒</p>
+    <span class="pf-card__color"><i></i>和食</span>
+  </div>
+  <dl class="pf-card__facts">
+    <div><dt>お店の数</dt><dd>96軒</dd></div>
+    <div><dt>グループ・番組</dt><dd>12組</dd></div>
+    <div><dt>多いグループ</dt><dd>孤独のグルメ（29軒）・よにの（18軒）</dd></div>
+    <div><dt>3組が行った街</dt><dd>両国（ちゃんこ）</dd></div>
+    <div><dt>うなぎ</dt><dd>5組・6軒</dd></div>
+    <div><dt>東京の外</dt><dd>37軒（鎌倉・金沢・京都など）</dd></div>
+  </dl>
+</div>
 
-とんかつは川崎「しお田」と府中「やすいみ～と」が登場。割烹・定食では豊島区「和食亭」「割烹・定食 さがら」、荒川区「どん平」、世田谷「旬菜魚 いなだ」と都内の渋い名店が揃う。
+<div class="pf-nums">
+  <div><b>96<small>軒</small></b><span>この記事の和食のお店</span></div>
+  <div><b>12<small>組</small></b><span>登場したグループ・番組</span></div>
+  <div><b>10<small>本</small></b><span>よにのちゃんねるの18本のうち、タイトルに【朝食】【朝飯】が付いた回</span></div>
+  <div><b>{{ site.data.site_stats.genres.washoku }}<small>軒</small></b><span>このサイトに登録されている和食のお店ぜんぶ</span></div>
+</div>
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-94021473-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-f586f38d-,kodoku_no_gurume-6d621f1f-" %}
+<h2>どのグループの和食？</h2>
+<p>孤独のグルメの29軒に、よにのちゃんねる18軒、SixTONES13軒、Snow Man12軒が続きます。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/groups.svg" alt="どのグループの和食か：孤独のグルメ29軒、よにのちゃんねる18軒、SixTONES 13軒、Snow Man 12軒、=LOVE 11軒、Hey! Say! JUMP 5軒、乃木坂46 3軒、亀梨和也・≒JOY・≠ME・銀河チャンネル・日向坂46が1軒ずつ" width="420" height="568" loading="lazy" decoding="async"><figcaption>この記事の96軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
-全国ロケでは福岡「活海酒」・「屋台純ちゃん」、宮城・女川「ニューこのり」、三重「乙姫」（海鮮）、兵庫・丹波篠山「奥榮」（猪料理）と郷土料理のオンパレード。浜松「鰻の名店割烹 松の家」は孤独のグルメ×うなぎの代表格だ。
+<h2>お店はどこにある？</h2>
+<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/area.svg" alt="お店の場所：東京59軒、関東（東京以外）15軒、中部10軒、近畿4軒、九州・沖縄4軒、北海道・東北2軒、中国・四国1軒、海外1軒。東京都のなかでは港区6軒、豊島区6軒、台東区・中央区・渋谷区が5軒ずつ、目黒区・新宿区が4軒ずつなど。東京都のほかでは神奈川県8軒、千葉県5軒、京都府3軒、石川県3軒など" width="420" height="726" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-e2fa1796-,kodoku_no_gurume-c9473191-,kodoku_no_gurume-5fe3fbab-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-f92d0f22-,kodoku_no_gurume-bba64785-" %}
+<h2>何組も訪れた：両国のちゃんこ・おにぎり ぼんご</h2>
+<p>両国では3組がそれぞれ別のちゃんこのお店へ。大塚のおにぎり ぼんごには、SixTONESと乃木坂46が訪れています。</p>
+<ul class="pf-works">
+  <li><span class="k">#336</span><div><b>相撲茶屋 寺尾（両国）</b><span>よにのちゃんねる #336【朝飯!!】ちゃんこはええで…の日／醤油ちゃんこ、味噌ちゃんこ</span></div></li>
+  <li><span class="k">両国</span><div><b>ちゃんこ 霧島</b><span>SixTONES「両国ちゃんこ回」（推しグルメ巡礼MAPのデータより）</span></div></li>
+  <li><span class="k">S2<br>8話</span><div><b>割烹ちゃんこ 大内（両国）</b><span>孤独のグルメ Season2 第8話／鳥そっぷ鍋、うどん</span></div></li>
+  <li><span class="k">2022<br>7月</span><div><b>おにぎり ぼんご</b><span>SixTONES【SixTONES】最強おにぎりの具を考えてみたら…ワチャワチャした</span></div></li>
+  <li><span class="k">2019<br>10月</span><div><b>おにぎり ぼんご 大塚本店</b><span>乃木坂46 日本テレビ「乃木坂どこへ」（日テレ公式チャンネル）</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="yonino-sumo-chaya-terao,sixtones-shichifuku-jin-ryogoku,kodoku_no_gurume-6d621f1f-,sixtones-onigiri-bongo,nogizaka46-84891d52-" %}
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-46f60530-,kodoku_no_gurume-dfde9625-,kodoku_no_gurume-016be5ed-,kodoku_no_gurume-bd15a5e8-,kodoku_no_gurume-916014a2-" %}
+<div class="pf-quote"><p>両国駅のまわりだけで、3組のちゃんこが食べ比べられます。よにのちゃんねるは「朝飯」の回で、朝からちゃんこでした。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-1e23c393-,kodoku_no_gurume-f7dbe199-,kodoku_no_gurume-7134368f-,kodoku_no_gurume-5b08f7e4-,kodoku_no_gurume-43db0070-,snowman-a9a7c2c5-202502" %}
+<h2>うなぎ：5組の6軒</h2>
+<ul class="pf-works">
+  <li><span class="k">#452</span><div><b>炭焼 うな富士 有楽町店</b><span>よにのちゃんねる #452【飯!!】山田様の奢りの日</span></div></li>
+  <li><span class="k">2019<br>10月</span><div><b>うなぎ徳 渋谷店</b><span>SixTONES - Tokyo Drive Vol.2</span></div></li>
+  <li><span class="k">焼津</span><div><b>丸忠うなぎ</b><span>SixTONES／静岡県焼津市</span></div></li>
+  <li><span class="k">2024<br>2月</span><div><b>うなぎ川松（東久留米）</b><span>Snow Man【釣り部結成記念食事会】鰻を食べよう‼／うな重、う巻卵焼き、白子ポン酢、あん肝ポン酢</span></div></li>
+  <li><span class="k">2018<br>9月</span><div><b>うな達（池袋）</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2018年9月8日）</span></div></li>
+  <li><span class="k">SP<br>2021</span><div><b>鰻の名店割烹 松の家（浜松）</b><span>孤独のグルメ スペシャル（2021年）／二色まぶし丼、ミニ牡蠣カバ丼</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="yonino-unafuji-yurakucho,sixtones-2ed2841e-202305,sixtones-unagi-maruchu,snowman-unagi-kawamatu-higashikurume,heysayjump-25f1ec3d-20180908,kodoku_no_gurume-5fe3fbab-" %}
 
----
+<h2>そば・うどん：わんこそばから老舗のせいろまで</h2>
+<ul class="pf-works">
+  <li><span class="k">2023<br>9月</span><div><b>室町 砂場</b><span>SixTONES【そば大食い企画】ジェシーが熱望…わんこそば全員で666杯食べろ!!</span></div></li>
+  <li><span class="k">2022<br>9月</span><div><b>回転わんこそば くるくるわんこ（歌舞伎町）</b><span>=LOVE【イコラブ大食い大会】早朝から大食い！アイドルの限界に挑戦！【わんこそば】</span></div></li>
+  <li><span class="k">2025<br>3月</span><div><b>総本家更科堀井 本店（麻布十番）</b><span>Snow Man【創業200年の蕎麦屋さん】美味しすぎて…ただ食べる／さらしなそば、鴨せいろ、板わさ、卵焼き</span></div></li>
+  <li><span class="k">2023<br>10月</span><div><b>立会川 吉田家</b><span>Snow Man【幕末の志士も食べた名店】こんな美味しい蕎麦は初めてだ／鴨せいろ、天せいろ、鴨南蛮、くずきり</span></div></li>
+  <li><span class="k">2024<br>8月</span><div><b>布恒更科（大森海岸）</b><span>亀梨和也【爆食】Travis Japan七五三掛龍也 初の蕎麦打ち体験！お互いの蕎麦を食べ比べてみました。／平打ち粗挽き蕎麦、白子の天婦羅、板わさ</span></div></li>
+  <li><span class="k">#268</span><div><b>酒と蕎麦ちりん（目黒）</b><span>よにのちゃんねる #268【朝食シリーズ!!】静かに朝を迎える事が出来た日</span></div></li>
+  <li><span class="k">#289</span><div><b>石臼挽き蕎麦 東間（軽井沢）</b><span>よにのちゃんねる #289【軽井沢!】に向けて練習した日</span></div></li>
+  <li><span class="k">#519</span><div><b>蕎麦割烹 こうもと（広尾）</b><span>よにのちゃんねる #519【猫舌回避の極意】やまふま2人で昼飯に行った日</span></div></li>
+  <li><span class="k">2019<br>12月</span><div><b>手打ちそば こめや（金沢）</b><span>SixTONES - Kanazawa Travel Vol.1</span></div></li>
+  <li><span class="k">2019<br>7月</span><div><b>ほうとう不動 東恋路店（河口湖）</b><span>SixTONES アポなし旅「1泊2日弾丸バスツアー第3弾」</span></div></li>
+  <li><span class="k">2023<br>4月</span><div><b>手打ちそば ふるた（府中）</b><span>=LOVE【完全プライベート】あんまいでいちごを狩る（チャンネル「イコラブのあんまい」）</span></div></li>
+  <li><span class="k">2025<br>5月</span><div><b>信州そば処 やまへい 軽井沢店</b><span>=LOVE ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
+  <li><span class="k">2022<br>2月</span><div><b>そば街角（那覇）</b><span>=LOVE【vlog】お仕事で沖縄に行かせていただきました（みりにゃと申します。）</span></div></li>
+  <li><span class="k">2023<br>8月</span><div><b>銀座 佐藤養助</b><span>乃木坂46「絶品うどんを食す」</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="sixtones-muromachi-tanakaya,equal_love-a1e545b6-202408,snowman-sarashina-horii-motoazabu,snowman-07838f1d-20250505,kamenashi-c3b4e8da-202408,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-5d0b703c-202604,sixtones-b647a3f1-202204,sixtones-houtou-fudo-higashikoji,equal_love-323e7d79-202408,equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408,nogizaka46-ginza-sato-yosuke" %}
+<p>くるくるわんこは、なにわ男子の回（<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン・麺のまとめ</a>に掲載）にも登場しています。</p>
 
-孤独のグルメ聖地巡礼まとめ → [孤独のグルメ シーズン1〜最新作 全聖地まとめ](/articles/2026/05/19/kodoku-no-gurume-season1-pilgrimage/)
+<h2>よにのちゃんねる：朝の定食</h2>
+<p>二宮和也・山田涼介・菊池風磨のYouTubeチャンネル。焼き魚やアジフライの定食を、朝から食べる回が続きます。</p>
+<ul class="pf-works">
+  <li><span class="k">#135</span><div><b>おひつ膳 田んぼ（三軒茶屋）</b><span>#135【新シリーズ】折角だから朝飯だけ食べてみた／銀鱈おひつ膳、キンキのおひつ膳、豚角煮おひつ膳</span></div></li>
+  <li><span class="k">#160</span><div><b>動坂食堂（千駄木）</b><span>#160【朝食シリーズ】左利き苦悩が爆裂した日</span></div></li>
+  <li><span class="k">#269</span><div><b>手しおごはん 玄 新宿南口店</b><span>#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。</span></div></li>
+  <li><span class="k">#274</span><div><b>土鍋炊ごはん なかよし 本店（恵比寿）</b><span>#274【朝食シリーズ!!】自発光と卍の指輪がお揃いだと発覚した日</span></div></li>
+  <li><span class="k">#288</span><div><b>なぎさ食堂（神保町）</b><span>#288【朝飯!!】久々に4人で食べた日／アジフライセット、なめろうと梅和えセット、お刺身セット、タコの唐揚げ</span></div></li>
+  <li><span class="k">#310</span><div><b>食事処 相州屋（代田橋）</b><span>#310【朝食】アジのフライニキの意思を継いだ日／アジフライ定食、鶏の唐揚げ定食、マグロのカツレツ</span></div></li>
+  <li><span class="k">#320</span><div><b>干物割烹 あん梅（麻布十番）</b><span>#320【朝食!!】本当に普通に喋って終わった日／鮭ハラス焼定食、銀タラの西京焼定食</span></div></li>
+  <li><span class="k">#348</span><div><b>ねぎし 池袋サンシャイン前店</b><span>#348【朝食!!】もはやこの朝が日常になった日</span></div></li>
+  <li><span class="k">#366</span><div><b>浅草今半 国際通り本店</b><span>#366【夜飯!!】打ち上げをしてみた日／銘柄牛すき焼御膳、神戸牛ハンバーグ 炭火焼き</span></div></li>
+  <li><span class="k">#369</span><div><b>dancyu食堂（東京駅）</b><span>#369【イノッチ祭!!】とんでもない思い出が出てきた日／生姜焼き定食</span></div></li>
+  <li><span class="k">#397</span><div><b>熟豚 三代目 蔵司（赤坂）</b><span>#397【トンカツな朝は２人で】こりゃ大変プロジェクトですな!?</span></div></li>
+  <li><span class="k">#455</span><div><b>大人食堂（新宿三丁目）</b><span>#455【自発光!!】数少ない心を許せる後輩の日／チキン南蛮定食、和風ガパオライス定食、豚の角煮定食</span></div></li>
+  <li><span class="k">#476</span><div><b>しゃぶしゃぶ だるま（麻布十番）</b><span>#476【朝食!!】卍奢りの日／上しゃぶしゃぶ、すき焼き</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="yonino-ohitsuzen-tanbo-sangenchaya,yonino-dousaka-shokudo,yonino-teshio-gohan-gen,yonino-nakayoshi-ebisu,yonino-nagisa-shokudo,yonino-shokuji-dokoro-soushuya,yonino-anume-azabujuban,yonino-negishi-ikebukuro,yonino-imahan-asakusa,yonino-dancyu-shokudo,yonino-kuraji-akasaka,yonino-otona-shokudo,yonino-daruma-azabu" %}
 
-## よにのちゃんねる：東京和食・定食・うなぎ18選
+<div class="pf-quote"><p>アジフライの定食が#288と#310の2回。#310のタイトルは「アジのフライニキの意思を継いだ日」と、前の回を受けた続きになっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-よにのの和食はバラエティ豊か。「浅草今半 国際通り本店」（すき焼き・明治28年創業）、「炭焼 うな富士 有楽町店」（うなぎ）、「しゃぶしゃぶ だるま」（麻布十番）と老舗・名店が揃う。「相撲茶屋 寺尾」（両国）は元力士が営む本格ちゃんこで、よにのらしい遊び心ある選択だ。
+<h2>SixTONES・Snow Man：定食とごはんの回</h2>
+<ul class="pf-works">
+  <li><span class="k">2024<br>4月</span><div><b>ここのつ 3号店（北千住）</b><span>Snow Man【人生最高のレバニラに出会った!?】／特盛レバニラ重とタルタルアジフライ、山芋ステーキ、とろろ納豆、ぬか漬け</span></div></li>
+  <li><span class="k">2024<br>5月</span><div><b>キッチン南国（早稲田）</b><span>Snow Man【俺たちが大学生だったら…】こんな感じでメシ食うよね！／しょうが焼き、若鶏ささみフライ、カニコロ、チキンカツ</span></div></li>
+  <li><span class="k">2024<br>9月</span><div><b>おにぎり浅草宿六</b><span>Snow Man【東京で最古…元祖にぎりめし】やっぱ「おにぎり」ってサイコーだ／塩辛、紅生姜、たらこ、いくら</span></div></li>
+  <li><span class="k">2025<br>2月</span><div><b>伊勢屋食堂（新宿区・市場内）</b><span>Snow Man【市場内の食堂で昼メシ】定食ってたまらんね‼／豚バラ生姜焼き定食、白子ポン酢、トマト酢漬け</span></div></li>
+  <li><span class="k">2025<br>3月</span><div><b>わが家の食堂 葛西店</b><span>Snow Man【街の定食屋さんで極上ランチ】美味すぎて…黙っちゃう／鯖味噌ハーフ、ハムエッグ、豚汁</span></div></li>
+  <li><span class="k">2025<br>6月</span><div><b>土鍋ご飯いくしか 中目黒店</b><span>Snow Man【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節／唐揚げ、豚の角煮、西京焼き定食、牛たた定食</span></div></li>
+  <li><span class="k">2025<br>9月</span><div><b>薬膳キッチン やくぜんや（恵比寿）</b><span>Snow Man【身体に良いらしい…ので食べてみたい】薬膳料理でランチ／薬膳定食、高麗人参ゼリー、亀ゼリー</span></div></li>
+  <li><span class="k">2019<br>2月</span><div><b>京都祇園 天ぷら圓堂 八坂本店</b><span>Snow Man【新メンバー企画】京都の老舗天ぷら屋さんで大盛上がり！前編（ジュニアCHANNEL）</span></div></li>
+  <li><span class="k">2019<br>5月</span><div><b>豚みそ丼本舗 野さか（秩父）</b><span>SixTONES【1年ぶりの復活】第3回！ドライブ企画ー秩父編ー1/5</span></div></li>
+  <li><span class="k">2019<br>11月</span><div><b>京料理 六盛（京都）</b><span>SixTONES - Kyoto Drive Vol.2</span></div></li>
+  <li><span class="k">2024<br>8月</span><div><b>とんかつ とみ家（浅草）</b><span>SixTONES【アポなし旅 2024夏～01～】列車の旅で駅弁食べた</span></div></li>
+  <li><span class="k">2024<br>11月</span><div><b>串若丸（中目黒）</b><span>SixTONES【無限シリーズ~焼き鳥】オレたち…永遠に食える！</span></div></li>
+  <li><span class="k">2025<br>4月</span><div><b>江の島 貝作</b><span>SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?</span></div></li>
+  <li><span class="k">2025<br>9月</span><div><b>鎌倉 無（むしゃ）</b><span>SixTONES【サマソニ直後に夏ドライブ】色々語りたいタイミングなんだよね!?</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-a9a7c2c5-202502,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-ad3a68f9-202506,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-tomiya-asakusa,sixtones-yakitoritei-nakameguro,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan" %}
 
-{% include inline-shop-grid.html ids="yonino-imahan-asakusa,yonino-unafuji-yurakucho,yonino-daruma-azabu,yonino-sumo-chaya-terao,yonino-anume-azabujuban,yonino-nakayoshi-ebisu" %}
+<h2>=LOVE・≠ME・≒JOY：旅先の和食</h2>
+<ul class="pf-works">
+  <li><span class="k">2021<br>1月</span><div><b>安立屋（浅草）</b><span>=LOVE【初詣】お寺にたどり着かない初詣動画 in 浅草</span></div></li>
+  <li><span class="k">2023<br>1月</span><div><b>清水順正 おかべ家（京都）</b><span>=LOVE メンバーだけで旅行に行ってきました！！！【大阪&amp;京都旅】</span></div></li>
+  <li><span class="k">2023<br>5月</span><div><b>八倉・鎌倉壱番屋 雪ノ下店・ともや 鎌倉小町店</b><span>=LOVE【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜【#しょこりさの日常】【鎌倉旅#1】</span></div></li>
+  <li><span class="k">2023<br>7月</span><div><b>磯丸水産 初台南口店</b><span>=LOVE【Vlog】みりにゃのとある休日。（みりにゃと申します。）</span></div></li>
+  <li><span class="k">2023<br>12月</span><div><b>加賀百万石の味 げんかん（金沢）</b><span>=LOVE【休日Vlog】金沢でおいしいものをひたすら食べまくりました（みりにゃと申します。）</span></div></li>
+  <li><span class="k">2023<br>6月</span><div><b>あなごめし ふじたや（宮島）</b><span>≠ME【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】</span></div></li>
+  <li><span class="k">2023<br>11月</span><div><b>徳造丸 海鮮家 箱根湯本店</b><span>≒JOY メンバーだけで箱根でロケしてみた【ノープラン旅】</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="equal_love-4151a4c5-202408,equal_love-93d5e98f-202408,equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-360fc2f3-202408,equal_love-e334efa9-202408,notme-46637985-202408,neajoy-0ccad40f-202408" %}
 
-定食・食堂系では文京区「動坂食堂」、世田谷「食事処 相州屋」・「おひつ膳 田んぼ」、新宿「大人食堂」・「お食事処 たかはし」と、町の名店が点在。そば系は品川「酒と蕎麦ちりん」、軽井沢「石臼挽き蕎麦 東間」、「蕎麦割烹 こうもと」の3軒と充実している。
+<h2>Hey! Say! JUMP・乃木坂46・中丸雄一・日向坂46</h2>
+<ul class="pf-works">
+  <li><span class="k">2016<br>4月</span><div><b>深川 つり舟（国立）</b><span>Hey! Say! JUMP『いただきハイジャンプ』春の大盛りグルメ（2016年4月14日）</span></div></li>
+  <li><span class="k">2016<br>5月</span><div><b>銀熊茶寮（銀座）</b><span>Hey! Say! JUMP『いただきハイジャンプ』高級レストランのランチ特集（2016年5月18日）</span></div></li>
+  <li><span class="k">2016<br>7月</span><div><b>てんぷら阿部 銀座本店</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2016年7月20日）</span></div></li>
+  <li><span class="k">2018<br>8月</span><div><b>海鮮茶屋 活き活き亭（木更津）</b><span>Hey! Say! JUMP『いただきハイジャンプ』日帰りサイクリング千葉房総（2018年8月25日・9月1日）</span></div></li>
+  <li><span class="k">鎌倉</span><div><b>段葛 こ寿々（鎌倉）</b><span>乃木坂46『ジコチューで行こう！』（21stシングル Type-D）</span></div></li>
+  <li><span class="k">2024<br>6月</span><div><b>和食いぶり別邸 新橋店</b><span>中丸雄一 銀河チャンネル「HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった」／金目鯛と仙台牛の銘々会席</span></div></li>
+  <li><span class="k">2024<br>6月</span><div><b>だし茶漬け えん 成田空港店</b><span>日向坂46「海外出発前のラスト日本食」</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="heysayjump-aad59291-20160414,heysayjump-a4fe57cb-20160518,heysayjump-e23d17b2-20160720,heysayjump-448a0ff6-20180825,nogizaka46-49c01557-,ginga-cb38ce4c-202406,hinatazaka46-dashi-chazuke-en-narita" %}
 
-{% include inline-shop-grid.html ids="yonino-dousaka-shokudo,yonino-shokuji-dokoro-soushuya,yonino-otona-shokudo,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-nagisa-shokudo" %}
+<h2>孤独のグルメ：定食と、旅先の和食</h2>
+<p>五郎さんが訪れた27軒（両国の大内と浜松の松の家は上に掲載）。「SP」はスペシャル回（年は推しグルメ巡礼MAPのデータより）。</p>
+<ul class="pf-works">
+  <li><span class="k">S1<br>2話</span><div><b>和食亭（駒込）</b><span>煮魚定食、ひじき煮浸し、ほうれん草のごま和え</span></div></li>
+  <li><span class="k">S3<br>5話</span><div><b>キャラヴァンサライ包（東中野）</b><span>カバブ、コフタ、ラムロースのたたき、カラヒィ</span></div></li>
+  <li><span class="k">S3<br>8話</span><div><b>鳥椿 鶯谷朝顔通り店</b><span>ユリニク、ハムカツ、アボカド鶏メンチ、鳥鍋めし</span></div></li>
+  <li><span class="k">S3<br>10話</span><div><b>どん平（荒川区）</b><span>炎の酒鍋セット、とんかつ麦とろミニミニセット定食</span></div></li>
+  <li><span class="k">S4<br>5話</span><div><b>乙姫（日間賀島）</b><span>赤車海老、大あさり焼き、しらす天ぷら、たこめし</span></div></li>
+  <li><span class="k">S5<br>6話</span><div><b>九絵（大岡山）</b><span>九絵定食、なめろう冷茶漬け</span></div></li>
+  <li><span class="k">S6<br>10話</span><div><b>はまべ（富津）</b><span>アジフライ定食、さんが焼き、肉じゃが</span></div></li>
+  <li><span class="k">S6<br>11話</span><div><b>豊栄（文京区・移転）</b><span>冷やしタンタン麺、アボカドのセイロ蒸し、日高四元豚の回鍋肉、白御飯</span></div></li>
+  <li><span class="k">S7<br>1話</span><div><b>キセキ食堂 上尾店</b><span>肩ロースカツ定食</span></div></li>
+  <li><span class="k">S8<br>3話</span><div><b>四馬路（銀座）</b><span>ロールキャベツ定食</span></div></li>
+  <li><span class="k">S8<br>10話</span><div><b>旬菜魚 いなだ（豪徳寺）</b><span>ぶりの照焼き定食、月見とろろ、クリームコロッケ、お刺身</span></div></li>
+  <li><span class="k">S9<br>1話</span><div><b>とんかつしお田（宮前平）</b><span>ヒレかつ御膳、魚介クリームコロッケ、エビフライ</span></div></li>
+  <li><span class="k">S9<br>6話</span><div><b>割烹・定食 さがら（東長崎）</b><span>肉とナスの醤油炒め定食、鳥唐揚げ、冷やし中華</span></div></li>
+  <li><span class="k">S9<br>7話</span><div><b>貴州火鍋（新小岩）</b><span>貴州前菜三種盛り、厚揚げの回鍋肉、納豆火鍋、羊肉</span></div></li>
+  <li><span class="k">S10<br>8話</span><div><b>アナザーホリデー（富山）</b><span>かに面、海鮮とろろ丼</span></div></li>
+  <li><span class="k">SP<br>2016</span><div><b>萃萃（仙台）</b><span>牛タン焼き、テール焼き、テールスープ</span></div></li>
+  <li><span class="k">SP<br>2016</span><div><b>女川海の膳ニューこのり（女川）</b><span>海鮮五色丼、活穴子天ぷら</span></div></li>
+  <li><span class="k">SP<br>2019</span><div><b>活海酒（福岡）</b><span>カワハギの活き造り定食、豚足の唐揚げ、高菜の油炒め、ウニたっぷりクリームパスタ</span></div></li>
+  <li><span class="k">SP<br>2019</span><div><b>屋台純ちゃん（福岡）</b><span>ラーメン、おでん、焼き物</span></div></li>
+  <li><span class="k">SP<br>2019</span><div><b>栗原軒（成田）</b><span>肉朝鮮焼定食、生タマゴ</span></div></li>
+  <li><span class="k">SP<br>2021</span><div><b>丹波篠山 猪料理専門店 奥榮</b><span>ぼたん鍋、山の芋とろろ、〆ごはん</span></div></li>
+  <li><span class="k">SP<br>2023</span><div><b>ちまぐ～（沖縄・今帰仁）</b><span>ちまぐ（豚足）唐揚げ甘辛醤油ダレ、ふーちゃんぷる</span></div></li>
+  <li><span class="k">SP<br>2023</span><div><b>長白小館（台北）</b><span>酸菜白肉火鍋</span></div></li>
+  <li><span class="k">SP<br>2024</span><div><b>ちゃんこ鍋 一品料理 力（能登・穴水）</b><span>ちゃんこ鍋セット、かきバター焼き、かき天ぷら</span></div></li>
+  <li><span class="k">府中</span><div><b>とんかつ割烹 やすいみ～と</b><span>東京都府中市</span></div></li>
+  <li><span class="k">香取</span><div><b>与倉ドライブイン</b><span>千葉県香取市</span></div></li>
+  <li><span class="k">吉祥寺</span><div><b>きっちん大浪</b><span>東京都武蔵野市</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-916014a2-,kodoku_no_gurume-bba64785-,kodoku_no_gurume-8cd47230-,kodoku_no_gurume-dc8b82e8-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-b72fcfb5-,kodoku_no_gurume-83ea2596-,kodoku_no_gurume-f7531f88-,kodoku_no_gurume-2d40fc9e-,kodoku_no_gurume-ae19e1a8-,kodoku_no_gurume-de3c1971-,kodoku_no_gurume-6b42b0e8-,kodoku_no_gurume-94021473-,kodoku_no_gurume-dfde9625-,kodoku_no_gurume-7134368f-,kodoku_no_gurume-f3635787-,kodoku_no_gurume-c9473191-,kodoku_no_gurume-e2fa1796-,kodoku_no_gurume-5b08f7e4-,kodoku_no_gurume-46f60530-,kodoku_no_gurume-f92d0f22-,kodoku_no_gurume-016be5ed-,kodoku_no_gurume-43db0070-,kodoku_no_gurume-f7dbe199-,kodoku_no_gurume-f586f38d-,kodoku_no_gurume-bd15a5e8-,kodoku_no_gurume-1e23c393-" %}
 
-{% include inline-shop-grid.html ids="yonino-dancyu-shokudo,yonino-teshio-gohan-gen,yonino-ohitsuzen-tanbo-sangenchaya,yonino-kuraji-akasaka,yonino-negishi-ikebukuro,yonino-5d0b703c-202604" %}
+<h2>はじめて見るならこの4本</h2>
+<p>公式チャンネルの動画から、和食が登場する4本を選びました（タップすると再生します）。</p>
+<div class="pf-videos">
+  <figure><button type="button" class="yt" data-yt="Ax1f_OVispA" aria-label="Snow Man 更科堀井の回を再生"><img src="https://i.ytimg.com/vi_webp/Ax1f_OVispA/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>Snow Man 総本家更科堀井</b>「創業200年の蕎麦屋さん」</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="ZxvmVJeY39U" aria-label="よにのちゃんねる #336を再生"><img src="https://i.ytimg.com/vi_webp/ZxvmVJeY39U/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>よにのちゃんねる #336</b>両国・相撲茶屋 寺尾で朝ちゃんこ</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="Ya8aKNX5vOs" aria-label="SixTONES わんこそばの回を再生"><img src="https://i.ytimg.com/vi_webp/Ya8aKNX5vOs/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>SixTONES 室町 砂場</b>わんこそば「全員で666杯」</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="iIYXvfNAA4U" aria-label="SixTONES おにぎりの回を再生"><img src="https://i.ytimg.com/vi_webp/iIYXvfNAA4U/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>SixTONES おにぎり ぼんご</b>最強おにぎりの具を考える回</figcaption></figure>
+</div>
 
----
+<h2>エリアで巡るなら</h2>
+<p>最寄り駅は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<ul>
+  <li><strong>両国</strong>：よにのちゃんねるの相撲茶屋 寺尾（両国駅 徒歩2分）、孤独のグルメの割烹ちゃんこ 大内（両国駅）、SixTONESのちゃんこ 霧島。</li>
+  <li><strong>麻布十番</strong>：しゃぶしゃぶ だるま（麻布十番駅 徒歩2分）・干物割烹 あん梅（よにのちゃんねる）と、Snow Manの総本家更科堀井 本店（麻布十番駅 徒歩7分）。</li>
+  <li><strong>大塚・池袋</strong>：おにぎり ぼんご（大塚駅 徒歩1分）、ねぎし 池袋サンシャイン前店、うな達（向原駅 徒歩6分）。</li>
+  <li><strong>中目黒・恵比寿</strong>：Snow Manの土鍋ご飯いくしか（中目黒駅 徒歩5分）・やくぜんや（恵比寿駅 徒歩2分）、SixTONESの串若丸（中目黒駅 徒歩1分）、よにのちゃんねるのなかよし（恵比寿駅 徒歩5分）。</li>
+  <li><strong>鎌倉</strong>：=LOVEの八倉（鎌倉駅 徒歩6分）・鎌倉壱番屋・ともや、乃木坂46の段葛 こ寿々（鎌倉駅 徒歩2分）、SixTONESの鎌倉 無（鎌倉駅 徒歩5分）。</li>
+</ul>
 
-よにのグルメまとめ → [よにのちゃんねるが行ったお店・グルメまとめ](/articles/2026/04/01/yonino-gourmet-matome-2025-2026/)
+<div class="pf-cta">
+  <p>推しが行った和食のお店を、地図でぜんぶ見る</p>
+  <span>この記事の96軒のほかにも、グループや番組に登場した和食のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <a class="btn" href="/shops/?genre=washoku&amp;view=map">地図で和食のお店を見る</a>
+</div>
+<p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメ</a>・<a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねる</a>・<a href="{{ site.data.group_ix.sixtones.u }}">SixTONES</a>・<a href="{{ site.data.group_ix.snowman.u }}">Snow Man</a>のページからも探せます。</p>
 
-## 2グループ共通の名店：おにぎりぼんご・伊勢屋食堂
-
-<mark>SixTONESと乃木坂46の両方</mark>が訪れたのが豊島区の**「おにぎり ぼんご」**。具材の豊富さと大きさで知られる東京を代表するおにぎり専門店で、連日行列が絶えない。乃木坂は大塚本店、SixTONESは大塚駅近くの店舗に登場した。
-
-<mark>Snow Manと孤独のグルメの両方</mark>に登場したのが新宿区の**「伊勢屋食堂」**。昔ながらの定食スタイルが残る下町の名店で、ふたつの全く異なる番組に選ばれたことがその普遍的な旨さを証明している。
-
-{% include inline-shop-grid.html ids="sixtones-onigiri-bongo,nogizaka46-84891d52-,snowman-a9a7c2c5-202502" %}
-
-## SixTONES：うなぎ・郷土料理・そばの旅12選
-
-SixTONESの和食は**全国の名物料理を制覇する旅グルメ**が特徴。うなぎは静岡・焼津「丸忠うなぎ」（漁港の老舗）と渋谷「うなぎ徳」の2軒。山梨・河口湖の「ほうとう不動」では郷土料理ほうとうを体験。秩父の「豚みそ丼本舗 野さか」は秩父B級グルメの代表格として地元で絶大な人気を誇る。
-
-{% include inline-shop-grid.html ids="sixtones-unagi-maruchu,sixtones-2ed2841e-202305,sixtones-houtou-fudo-higashikoji,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-b647a3f1-202204" %}
-
-墨田区「ちゃんこ 霧島」（元力士経営）、藤沢・江の島「貝作」（海鮮）、鎌倉「無（むしゃ）」、中央区「室町 砂場」（老舗そば）、目黒「串若丸」（串焼き）と多彩だ。
-
-{% include inline-shop-grid.html ids="sixtones-shichifuku-jin-ryogoku,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan,sixtones-muromachi-tanakaya,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa" %}
-
----
-
-SixTONESグルメまとめ → [SixTONESが行ったお店・グルメまとめ](/articles/2026/05/12/sixtones-gourmet-matome/)
-
-## Snow Man：おにぎり・土鍋ご飯・薬膳・うなぎ11選
-
-Snow Manの和食は**ヘルシー・こだわり系**が充実。浅草の「おにぎり 浅草 宿六」は創業1954年の老舗おにぎり専門店で、握りたての大粒おにぎりが名物。中目黒の「土鍋ご飯いくしか」は炊きたての土鍋ご飯にこだわる人気店だ。港区の「総本家更科堀井 本店」は元禄年間創業の江戸そばの名門。
-
-{% include inline-shop-grid.html ids="snowman-onigiri-asakusa-yadoroku,snowman-donabe-gohan-ikushika,snowman-sarashina-horii-motoazabu,snowman-yakuzenya-ebisu,snowman-unagi-kawamatu-higashikurume,snowman-ab957c1f-20250414" %}
-
-渋谷「薬膳キッチン やくぜんや」は体に優しい薬膳定食の専門店。東久留米「うなぎ川松」は都内近郊のうなぎ名店として地元ファンも多い。京都・祇園の「天ぷら圓堂 八坂本店」は全国ロケならではの本格京料理だ。
-
-{% include inline-shop-grid.html ids="snowman-07838f1d-20250505,snowman-wagaya-shokudo-kasai,snowman-kitchen-nanagoku-waseda,snowman-kokonotsu-kitasenju,snowman-ad3a68f9-202506" %}
-
----
-
-Snow Manグルメまとめ → [Snow Manが行ったお店・グルメまとめ](/articles/2026/05/12/snowman-gourmet-matome/)
-
-## =LOVE：鎌倉和食＋全国のそば旅11選
-
-=LOVEの和食は**鎌倉グルメ**と**そば専門店**が二大テーマ。鎌倉では「八倉 -湘南の魚と鎌倉野菜-」「鎌倉壱番屋 雪ノ下店」「ともや 鎌倉小町店」の3店を訪問。湘南の鮮魚・鎌倉野菜を使った料理を半日で巡れる充実のラインナップだ。
-
-{% include inline-shop-grid.html ids="equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-93d5e98f-202408,equal_love-e334efa9-202408,equal_love-323e7d79-202408" %}
-
-そば系は府中「手打ちそば ふるた」、金沢「加賀百万石の味 げんかん」、那覇「そば街角」（沖縄そば）、軽井沢「信州そば処 やまへい」と全国制覇の勢い。京都・清水の「清水順正 おかべ家」は豆腐料理の名店として異色の存在感だ。
-
-{% include inline-shop-grid.html ids="equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408,equal_love-a1e545b6-202408,equal_love-4151a4c5-202408,equal_love-360fc2f3-202408" %}
-
----
-
-=LOVEグルメまとめ → [=LOVE（イコラブ）が行ったお店・グルメまとめ](/articles/2026/05/13/equallove-gourmet-matome/)
-
-## 乃木坂46・Hey!Say!JUMP・その他
-
-乃木坂は鎌倉「段葛 こ寿々」（葛きり）と銀座「佐藤養助」（稲庭うどん）の2店が和の名店として登場。Hey!Say!JUMPは銀座「てんぷら阿部 銀座本店」「銀熊茶寮」、木更津「海鮮茶屋 活き活き亭」と海鮮・天ぷらが中心だ。亀梨和也は品川「布恒更科」（そば）、ねあじょいは箱根「徳造丸 海鮮家」、not meは広島・宮島「あなごめし ふじたや」とそれぞれ旅先の名品を楽しんでいる。
-
-{% include inline-shop-grid.html ids="nogizaka46-49c01557-,nogizaka46-ginza-sato-yosuke,heysayjump-e23d17b2-20160720,heysayjump-a4fe57cb-20160518,heysayjump-448a0ff6-20180825,heysayjump-25f1ec3d-20180908" %}
-
-{% include inline-shop-grid.html ids="kamenashi-c3b4e8da-202408,neajoy-0ccad40f-202408,notme-46637985-202408,ginga-cb38ce4c-202406,hinatazaka46-dashi-chazuke-en-narita,heysayjump-aad59291-20160414" %}
-
-## エリア別和食聖地巡礼ルート
-
-> **浅草〜上野ルート**（4店舗）：よにのの「浅草今半」（すき焼き）、Snow Manの「おにぎり宿六」、SixTONESの「おにぎりぼんご」（大塚）など和の名店が集中。半日で東京の老舗和食を満喫できる。
->
-> **鎌倉ルート**（5店舗）：=LOVEの「八倉」「壱番屋」「ともや」＋乃木坂の「段葛こ寿々」を組み合わせた鎌倉和食コース。湘南魚介・鎌倉野菜・葛きりを一日で制覇。
->
-> **孤独のグルメ地方旅ルート**：松阪（焼肉と合わせて）→ 仙台「萃萃」→ 女川「ニューこのり」など東北・東海・九州の郷土料理をつなぐ旅グルメルート。
->
-> **有楽町〜銀座ルート**（3店舗）：よにの「うな富士」（有楽町）、乃木坂「佐藤養助」（銀座・稲庭うどん）、HSJ「てんぷら阿部」（銀座）でランチ〜ディナーをはしご。
-
-すべての和食店を地図で確認 → [和食一覧を地図で見る](/shops/?genre=和食)
-
-## 推し活グルメ別ガイド
-
-> **「推しと同じカフェでくつろぎたい」** → [アイドル・芸能人が行ったカフェ聖地巡礼まとめ【73選】](/articles/2026/05/26/idol-cafe-matome/)
->
-> **「推しが行った焼肉・ステーキを楽しみたい」** → [アイドル・芸能人が行った焼肉聖地巡礼まとめ【52選】](/articles/2026/05/27/idol-yakiniku-matome/)
->
-> **「推しと同じラーメンを食べたい」** → [アイドル・芸能人が行ったラーメン・麺類まとめ【85選】](/articles/2026/05/27/idol-ramen-matome/)
->
-> **「グループ全店を網羅したい」** → [記事一覧でグループ別まとめを確認する](/articles/)
+</div>
