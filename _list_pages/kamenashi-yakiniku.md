@@ -11,6 +11,7 @@ group_bio: "亀梨和也はKAT-TUNのメンバーで俳優・タレント。ド�
 youtube_id: 2F4xUoo5GSM
 related_genres:
   - kamenashi-ramen
+  - kamenashi-shokuji
 related_groups:
   - naniwa-yakiniku
   - kodoku-no-gurume-yakiniku
