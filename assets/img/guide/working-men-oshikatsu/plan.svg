@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 648" width="420" height="648" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="648" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">ライブまでの予定の立て方</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">公演の発表から当日まで、仕事と重ねて考える</text>
+<rect x="92" y="90" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="118" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">1. 公演の発表</text>
+<rect x="350.0" y="102" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="118" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">すぐ</text>
+<circle cx="114" cy="136" r="3" fill="#475569"/>
+<text x="124" y="141" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">日程と申込期間をカレンダーへ</text>
+<circle cx="114" cy="158" r="3" fill="#475569"/>
+<text x="124" y="163" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">仕事の繁忙期と重ならないか</text>
+<rect x="92" y="200" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="228" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">2. 申し込み</text>
+<rect x="338.0" y="212" width="54.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="365.0" y="228" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">期限内</text>
+<circle cx="114" cy="246" r="3" fill="#475569"/>
+<text x="124" y="251" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">当落の発表日もメモする</text>
+<circle cx="114" cy="268" r="3" fill="#475569"/>
+<text x="124" y="273" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">入金の期限にアラームを</text>
+<rect x="92" y="310" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="338" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">3. 当選したら</text>
+<rect x="338.0" y="322" width="54.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="365.0" y="338" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">早めに</text>
+<circle cx="114" cy="356" r="3" fill="#475569"/>
+<text x="124" y="361" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">休みを職場に早めに相談</text>
+<circle cx="114" cy="378" r="3" fill="#475569"/>
+<text x="124" y="383" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">時間単位の休みが使えるか確認</text>
+<rect x="92" y="420" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="448" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">4. 交通と宿</text>
+<rect x="338.0" y="432" width="54.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="365.0" y="448" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">早めに</text>
+<circle cx="114" cy="466" r="3" fill="#475569"/>
+<text x="124" y="471" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">平日の夜公演は帰りの便も確認</text>
+<circle cx="114" cy="488" r="3" fill="#475569"/>
+<text x="124" y="493" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">翌日の仕事に響かない計画に</text>
+<rect x="92" y="530" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="558" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">5. 前日・当日</text>
+<rect x="350.0" y="542" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="558" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">本番</text>
+<circle cx="114" cy="576" r="3" fill="#475569"/>
+<text x="124" y="581" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">仕事の引き継ぎをすませておく</text>
+<circle cx="114" cy="598" r="3" fill="#475569"/>
+<text x="124" y="603" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">定時で出られるよう調整する</text>
+<line x1="52" y1="116" x2="52" y2="556" stroke="#475569" stroke-width="4" stroke-dasharray="2 9" stroke-linecap="round"/>
+<circle cx="52" cy="116" r="24" fill="#475569"/>
+<g><rect x="40" y="107" width="24" height="21" rx="4" fill="#fff"/><rect x="40" y="107" width="24" height="6" rx="2" fill="#fff"/><rect x="45" y="103" width="3" height="7" rx="1.5" fill="#fff"/><rect x="56" y="103" width="3" height="7" rx="1.5" fill="#fff"/><rect x="44" y="115" width="4" height="4" rx="1" fill="#475569"/><rect x="50" y="115" width="4" height="4" rx="1" fill="#475569"/><rect x="56" y="115" width="4" height="4" rx="1" fill="#475569"/><rect x="44" y="121" width="4" height="4" rx="1" fill="#475569"/><rect x="50" y="121" width="4" height="4" rx="1" fill="#475569"/><rect x="56" y="121" width="4" height="4" rx="1" fill="#475569"/></g>
+<circle cx="52" cy="226" r="24" fill="#475569"/>
+<g transform="translate(38,217)"><path d="M0 0h28v6a3 3 0 0 0 0 6v6H0v-6a3 3 0 0 0 0-6z" fill="#fff"/><line x1="18" y1="2" x2="18" y2="16" stroke="#475569" stroke-width="1.6" stroke-dasharray="2 2"/></g>
+<circle cx="52" cy="336" r="24" fill="#475569"/>
+<path d="M43 336L49 343L62 329" stroke="#fff" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="52" cy="446" r="24" fill="#475569"/>
+<g><rect x="42" y="434" width="20" height="20" rx="5" fill="#fff"/><rect x="46" y="438" width="12" height="6" rx="1.5" fill="#475569"/><circle cx="47" cy="449" r="1.8" fill="#475569"/><circle cx="57" cy="449" r="1.8" fill="#475569"/><path d="M46 456l-3 4M58 456l3 4" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g>
+<circle cx="52" cy="556" r="24" fill="#475569"/>
+<polygon points="52.0,544.0 55.1,551.8 63.4,552.3 56.9,557.6 59.1,565.7 52.0,561.2 44.9,565.7 47.1,557.6 40.6,552.3 48.9,551.8" fill="#fff"/>
+</svg>

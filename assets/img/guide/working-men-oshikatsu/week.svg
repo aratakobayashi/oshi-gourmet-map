@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 538" width="420" height="538" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="538" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">1週間の推し活タイム（例）</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">すき間時間と週末で、無理なく続ける</text>
+<rect x="92" y="90" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="118" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">朝・通勤</text>
+<rect x="350.0" y="102" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="118" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">平日</text>
+<circle cx="114" cy="136" r="3" fill="#475569"/>
+<text x="124" y="141" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">音楽や配信を聴きながら移動</text>
+<circle cx="114" cy="158" r="3" fill="#475569"/>
+<text x="124" y="163" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">公式SNSの新しいお知らせを確認</text>
+<rect x="92" y="200" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="228" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">昼休み</text>
+<rect x="350.0" y="212" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="228" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">平日</text>
+<circle cx="114" cy="246" r="3" fill="#475569"/>
+<text x="124" y="251" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">申し込みの期限をチェック</text>
+<circle cx="114" cy="268" r="3" fill="#475569"/>
+<text x="124" y="273" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">カレンダーに予定を入れる</text>
+<rect x="92" y="310" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="338" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">夜</text>
+<rect x="350.0" y="322" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="338" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">平日</text>
+<circle cx="114" cy="356" r="3" fill="#475569"/>
+<text x="124" y="361" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">番組や動画を1本だけ見る</text>
+<circle cx="114" cy="378" r="3" fill="#475569"/>
+<text x="124" y="383" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">早めに寝て、翌日に響かせない</text>
+<rect x="92" y="420" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="448" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">週末</text>
+<rect x="350.0" y="432" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="371.0" y="448" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">休日</text>
+<circle cx="114" cy="466" r="3" fill="#475569"/>
+<text x="124" y="471" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ライブ・イベントに出かける</text>
+<circle cx="114" cy="488" r="3" fill="#475569"/>
+<text x="124" y="493" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">推しが行ったお店をめぐる</text>
+<line x1="52" y1="116" x2="52" y2="446" stroke="#475569" stroke-width="4" stroke-dasharray="2 9" stroke-linecap="round"/>
+<circle cx="52" cy="116" r="24" fill="#475569"/>
+<g><circle cx="52" cy="116" r="5.5" fill="#fff"/><line x1="60.0" y1="116.0" x2="64.5" y2="116.0" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="57.7" y1="121.7" x2="60.8" y2="124.8" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="52.0" y1="124.0" x2="52.0" y2="128.5" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="46.3" y1="121.7" x2="43.2" y2="124.8" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="44.0" y1="116.0" x2="39.5" y2="116.0" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="46.3" y1="110.3" x2="43.2" y2="107.2" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="52.0" y1="108.0" x2="52.0" y2="103.5" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><line x1="57.7" y1="110.3" x2="60.8" y2="107.2" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g>
+<circle cx="52" cy="226" r="24" fill="#475569"/>
+<g><circle cx="52" cy="226" r="12" fill="#fff"/><path d="M52 219V226L57 230" stroke="#475569" stroke-width="2.4" fill="none" stroke-linecap="round"/></g>
+<circle cx="52" cy="336" r="24" fill="#475569"/>
+<path d="M55 325A11 11 0 1 0 63 341A8.5 8.5 0 0 1 55 325z" fill="#fff"/>
+<circle cx="52" cy="446" r="24" fill="#475569"/>
+<polygon points="52.0,434.0 55.1,441.8 63.4,442.3 56.9,447.6 59.1,455.7 52.0,451.2 44.9,455.7 47.1,447.6 40.6,442.3 48.9,441.8" fill="#fff"/>
+</svg>

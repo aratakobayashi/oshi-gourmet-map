@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 648" width="420" height="648" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="648" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推し活のはじめ方 5ステップ</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">見るところから、自分のペースで少しずつ広げる</text>
+<rect x="92" y="90" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="118" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">1. 公式を見る</text>
+<rect x="338.0" y="102" width="54.0" height="22" rx="11" fill="#DBEAFE"/>
+<text x="365.0" y="118" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">まずは</text>
+<circle cx="114" cy="136" r="3" fill="#2563eb"/>
+<text x="124" y="141" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">公式サイト・公式SNSをフォロー</text>
+<circle cx="114" cy="158" r="3" fill="#2563eb"/>
+<text x="124" y="163" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">出演予定は公式のお知らせで</text>
+<rect x="92" y="200" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="228" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">2. 好きを深める</text>
+<rect x="326.0" y="212" width="66.0" height="22" rx="11" fill="#DBEAFE"/>
+<text x="359.0" y="228" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">少しずつ</text>
+<circle cx="114" cy="246" r="3" fill="#2563eb"/>
+<text x="124" y="251" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">過去の動画や出演作を見る</text>
+<circle cx="114" cy="268" r="3" fill="#2563eb"/>
+<text x="124" y="273" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">好きな曲・好きな回をメモ</text>
+<rect x="92" y="310" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="338" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">3. 記録する</text>
+<rect x="338.0" y="322" width="54.0" height="22" rx="11" fill="#DBEAFE"/>
+<text x="365.0" y="338" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">自分用</text>
+<circle cx="114" cy="356" r="3" fill="#2563eb"/>
+<text x="124" y="361" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">見た作品・行った場所を残す</text>
+<circle cx="114" cy="378" r="3" fill="#2563eb"/>
+<text x="124" y="383" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">写真やメモは自分のペースで</text>
+<rect x="92" y="420" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="448" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">4. 行ってみる</text>
+<rect x="326.0" y="432" width="66.0" height="22" rx="11" fill="#DBEAFE"/>
+<text x="359.0" y="448" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">一人でも</text>
+<circle cx="114" cy="466" r="3" fill="#2563eb"/>
+<text x="124" y="471" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">推しが訪れたお店へ行く</text>
+<circle cx="114" cy="488" r="3" fill="#2563eb"/>
+<text x="124" y="493" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ライブやイベントに申し込む</text>
+<rect x="92" y="530" width="314" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<text x="108" y="558" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">5. 語る・つながる</text>
+<rect x="326.0" y="542" width="66.0" height="22" rx="11" fill="#DBEAFE"/>
+<text x="359.0" y="558" font-size="12" font-weight="700" fill="#2563eb" text-anchor="middle">好きなら</text>
+<circle cx="114" cy="576" r="3" fill="#2563eb"/>
+<text x="124" y="581" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">感想を書く・話せる人を探す</text>
+<circle cx="114" cy="598" r="3" fill="#2563eb"/>
+<text x="124" y="603" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">話すかどうかは自分で決める</text>
+<line x1="52" y1="116" x2="52" y2="556" stroke="#2563eb" stroke-width="4" stroke-dasharray="2 9" stroke-linecap="round"/>
+<circle cx="52" cy="116" r="24" fill="#2563eb"/>
+<g><path d="M39 116Q52 104 65 116Q52 128 39 116z" fill="#fff"/><circle cx="52" cy="116" r="5" fill="#2563eb"/><circle cx="52" cy="116" r="2" fill="#fff"/></g>
+<circle cx="52" cy="226" r="24" fill="#2563eb"/>
+<path d="M52 236C38 227 40 215 47 216C50 216 52 219 52 221C52 219 54 216 57 216C64 215 66 227 52 236z" fill="#fff"/>
+<circle cx="52" cy="336" r="24" fill="#2563eb"/>
+<g><rect x="43" y="324" width="18" height="24" rx="3" fill="#fff"/><rect x="47" y="330" width="10" height="2" rx="1" fill="#2563eb"/><rect x="47" y="335" width="10" height="2" rx="1" fill="#2563eb"/><rect x="47" y="340" width="6" height="2" rx="1" fill="#2563eb"/></g>
+<circle cx="52" cy="446" r="24" fill="#2563eb"/>
+<g><path d="M52 459C48 452 42 447 42 442A10 10 0 0 1 62 442C62 447 56 452 52 459z" fill="#fff"/><circle cx="52" cy="442" r="4" fill="#2563eb"/></g>
+<circle cx="52" cy="556" r="24" fill="#2563eb"/>
+<g><rect x="40" y="546" width="24" height="17" rx="6" fill="#fff"/><polygon points="46,562 44,568 52,562" fill="#fff"/><circle cx="46" cy="554.5" r="1.8" fill="#2563eb"/><circle cx="52" cy="554.5" r="1.8" fill="#2563eb"/><circle cx="58" cy="554.5" r="1.8" fill="#2563eb"/></g>
+</svg>

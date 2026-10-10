@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 516" width="420" height="516" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="516" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推しが行ったお店をめぐる</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">このサイトでの探し方と、出かける前の確認</text>
+<rect x="20" y="90" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="121.0" r="16" fill="#2563eb"/>
+<text x="48" y="126.0" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="76" y="117" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">推しを選ぶ</text>
+<text x="76" y="139" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">「推しから探す」でグループ・番組を選ぶ</text>
+<line x1="210" y1="155" x2="210" y2="166" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,164 217,164 210,173" fill="#2563eb"/>
+<rect x="20" y="176" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="207.0" r="16" fill="#2563eb"/>
+<text x="48" y="212.0" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="76" y="203" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">動画や番組を見返す</text>
+<text x="76" y="225" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">何を食べていたか、どの席だったか</text>
+<line x1="210" y1="241" x2="210" y2="252" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,250 217,250 210,259" fill="#2563eb"/>
+<rect x="20" y="262" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="293.0" r="16" fill="#2563eb"/>
+<text x="48" y="298.0" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="76" y="289" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">地図で場所を見る</text>
+<text x="76" y="311" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">近くのお店もまとめてチェック</text>
+<line x1="210" y1="327" x2="210" y2="338" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,336 217,336 210,345" fill="#2563eb"/>
+<rect x="20" y="348" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="379.0" r="16" fill="#2563eb"/>
+<text x="48" y="384.0" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="76" y="375" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">営業を公式で確かめる</text>
+<text x="76" y="397" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">営業時間や定休日は変わることも</text>
+<line x1="210" y1="413" x2="210" y2="424" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,422 217,422 210,431" fill="#2563eb"/>
+<rect x="20" y="434" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="465.0" r="16" fill="#2563eb"/>
+<text x="48" y="470.0" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">5</text>
+<text x="76" y="461" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">食べて、記録する</text>
+<text x="76" y="483" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">気になるお店はサイトで保存できる</text>
+</svg>
