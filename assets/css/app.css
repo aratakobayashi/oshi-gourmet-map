@@ -791,7 +791,7 @@ a.badge { min-height: 32px; }
 .prose .pf-cta { margin: var(--s-6) 0; padding: 18px; border-radius: var(--r-lg); background: #1b2236; color: #fff; display: grid; gap: 10px; }
 .pf-cta p { font-family: var(--serif); font-weight: 800; font-size: 19px; line-height: 1.5; }
 .pf-cta span { font-size: 13px; opacity: .85; }
-.prose .pf-cta a.btn { text-decoration: none; background: var(--pc); border-color: var(--pc); color: #10202c; }
+.prose .pf-cta a.btn { text-decoration: none; background: #fff; border-color: #fff; color: #1b2236; }
 @media (min-width: 768px) {
   .prose .pf-nums { grid-template-columns: repeat(4, 1fr); }
   .prose .pf-videos { grid-template-columns: 1fr 1fr; }

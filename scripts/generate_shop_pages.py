@@ -128,7 +128,7 @@ for shop in shops:
     for key in ["name","genre","prefecture","city","address",
                 "nearest_station","price_range","visited_date",
                 "youtube_id","source_video_title","source_video_url","source_url",
-                "group","tabelog_url","hotpepper_url","google_maps_url",
+                "group","tabelog_url","tabelog_verified","hotpepper_url","google_maps_url",
                 "thumbnail_url","hotpepper_photo","source_type","seating_note",
                 "business_hours"]:
         v = shop.get(key)

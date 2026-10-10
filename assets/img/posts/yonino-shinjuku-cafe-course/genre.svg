@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 274" width="420" height="274" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="274" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店6軒を数えました</text>
+<text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
+<rect x="100" y="100" width="220" height="26" rx="8" fill="#0891b2"/>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#0891b2">5軒</text>
+<text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">その他</text>
+<rect x="100" y="144" width="44" height="26" rx="8" fill="#64748b"/>
+<text x="152" y="163" font-size="16" font-weight="800" fill="#64748b">1軒</text>
+<text x="20" y="198" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
+<rect x="20" y="212" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="230" font-size="13.5" fill="#241F1A">新宿区</text><text x="192" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">6軒</text>
+</svg>

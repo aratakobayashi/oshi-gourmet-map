@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 682" width="420" height="682" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="682" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">浅草グルメ年表</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
+<line x1="86" y1="88" x2="86" y2="656" stroke="#d9480f" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
+<circle cx="86" cy="107" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="88" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">うなぎ川松</text>
+<text x="118" y="134" font-size="12.5" fill="#d9480f">Snow Man【釣り部結成記念食事会】鰻を</text>
+<text x="118" y="152" font-size="12.5" fill="#d9480f">食べよう</text>
+<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="231" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="209" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="190" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">浅草つる次郎 HANARE</text>
+<text x="118" y="236" font-size="12.5" fill="#d9480f">Snow Man【アスレチックに行く前にまず</text>
+<text x="118" y="254" font-size="12.5" fill="#d9480f">はメシ！ 】ある意味…ソウルフードだね!</text>
+<text x="70" y="316" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="333" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="311" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="292" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="316" font-size="16" font-weight="800" fill="#241F1A">おにぎり浅草宿六</text>
+<text x="118" y="338" font-size="12.5" fill="#d9480f">Snow Man【東京で最古…元祖にぎりめし】</text>
+<text x="118" y="356" font-size="12.5" fill="#d9480f">やっぱ「おにぎり」ってサイコーだ</text>
+<text x="70" y="418" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="435" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="413" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="394" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="418" font-size="16" font-weight="800" fill="#241F1A">浅草今半 国際通り本店</text>
+<text x="118" y="440" font-size="12.5" fill="#d9480f">#366【夜飯!!】打ち上げをしてみた日</text>
+<text x="70" y="502" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="519" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="497" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="478" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="502" font-size="16" font-weight="800" fill="#241F1A">浅草もんじゃ てっぱん大吉</text>
+<text x="118" y="524" font-size="12.5" fill="#d9480f">#490【2025!!】忘年会しでた！の日</text>
+<text x="70" y="586" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="603" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="581" r="7" fill="#fff" stroke="#d9480f" stroke-width="4"/>
+<rect x="104" y="562" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="586" font-size="16" font-weight="800" fill="#241F1A">浅草むぎとろ本店</text>
+<text x="118" y="608" font-size="12.5" fill="#d9480f">Snow Man【むぎとろを食べたい！】すの</text>
+<text x="118" y="626" font-size="12.5" fill="#d9480f">ちゅーぶ初の飲酒！？</text>
+</svg>

@@ -89,7 +89,8 @@ def genre(shops, color, title, genres):
         p, c = s.get('prefecture') or '', s.get('city') or ''
         if p == main_pref and c:
             return c
-        return (p.rstrip('都府県') if p not in ('北海道',) else p) + (' ' + c if c and tw(p + c) <= 8 else '') or '不明'
+        short = p[:-1] if p[-1:] in ('都', '府', '県') else p
+        return (short + ' ' + c if c and tw(short + c) <= 9 else short) or '不明'
     area = collections.Counter(place(s) for s in shops)
     W = 420
     H = 112 + 44 * len(cnt) + 28 + 32 * ((len(area) + 1) // 2) + 14

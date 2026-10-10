@@ -12,6 +12,12 @@ body_class: has-sticky
 {%- assign station = c.st -%}{%- assign walk = c.w -%}
 {%- assign area = s.city | default: s.prefecture -%}
 
+{%- comment -%} 食べログ: 確かめた店（tabelog_verified）だけ店のページへ。ほかは「店名＋市区町村」の検索結果（違う店に飛ばないように）。海外の店・閉店は出さない {%- endcomment -%}
+{%- assign tb_url = nil -%}{%- assign tb_label = "食べログで探す" -%}
+{%- if s.tabelog_verified and s.tabelog_url -%}{%- assign tb_url = s.tabelog_url -%}{%- assign tb_label = "食べログで見る" -%}
+{%- elsif s.prefecture and s.closed != true -%}{%- assign _pl = s.prefecture | slice: -1 -%}
+  {%- if _pl == '都' or _pl == '道' or _pl == '府' or _pl == '県' -%}{%- assign _tbname = s.name | split: '（' | first | split: '(' | first | strip -%}{%- capture tb_url %}https://tabelog.com/rstLst/?sa={{ area | url_encode }}&sk={{ _tbname | url_encode }}{% endcapture -%}{%- endif -%}
+{%- endif -%}
 {%- comment -%} リンクの有無（無い行は出さない） {%- endcomment -%}
 {%- assign book_links = '' | split: '' -%}
 {%- assign other_links = '' | split: '' -%}
@@ -20,13 +26,13 @@ body_class: has-sticky
 {%- endfor -%}
 {%- assign can_book = false -%}{%- if s.hotpepper_url or book_links.size > 0 -%}{%- assign can_book = true -%}{%- endif -%}
 {%- if s.closed -%}{%- assign can_book = false -%}{%- endif -%}
-{%- assign has_go = false -%}{%- if can_book or s.tabelog_url or other_links.size > 0 or c.hk -%}{%- assign has_go = true -%}{%- endif -%}
+{%- assign has_go = false -%}{%- if can_book or tb_url or other_links.size > 0 or c.hk -%}{%- assign has_go = true -%}{%- endif -%}
 
 {%- comment -%} PR表記: 提携IDが入っているリンクが1つでもあれば出す {%- endcomment -%}
 {%- assign vc = site.affiliate.valuecommerce -%}
 {%- assign has_promo = false -%}
 {%- if vc.sid != '' -%}
-  {%- if s.tabelog_url and vc.tabelog_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+  {%- if tb_url and vc.tabelog_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
   {%- if s.hotpepper_url and vc.hotpepper_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
   {%- if c.hk and vc.jalan_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
   {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' and vc.ikyu_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
@@ -141,12 +147,12 @@ body_class: has-sticky
           <p class="action__label">予約する</p>
           {%- if s.hotpepper_url %}{% include affiliate-link.html url=s.hotpepper_url label="ホットペッパーで予約" class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endif %}
           {%- for l in book_links %}{% include affiliate-link.html url=l.url label=l.label class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endfor %}
-          {%- if s.tabelog_url %}{% include affiliate-link.html url=s.tabelog_url label="食べログで見る" class="btn btn--block btn--arrow" arrow=true %}{% endif %}
+          {%- if tb_url %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
         </div>
-        {%- elsif s.tabelog_url or other_links.size > 0 %}
+        {%- elsif tb_url or other_links.size > 0 %}
         <div class="action__group">
           <p class="action__label">お店の情報を見る</p>
-          {%- if s.tabelog_url %}{% include affiliate-link.html url=s.tabelog_url label="食べログで見る" class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endif %}
+          {%- if tb_url %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--accent btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
         </div>
         {%- endif %}
         {%- if other_links.size > 0 %}
@@ -212,7 +218,7 @@ body_class: has-sticky
   {%- if can_book %}
   {%- if route_url %}<a class="btn" href="{{ route_url }}" target="_blank" rel="noopener">ルート</a>{% else %}<button type="button" class="btn" data-share>共有</button>{% endif %}
   <a class="btn btn--accent" href="#go">予約する</a>
-  {%- elsif s.tabelog_url %}
+  {%- elsif tb_url %}
   {%- if route_url %}<a class="btn" href="{{ route_url }}" target="_blank" rel="noopener">ルート</a>{% else %}<button type="button" class="btn" data-share>共有</button>{% endif %}
   <a class="btn btn--accent" href="#go">お店の情報</a>
   {%- else %}

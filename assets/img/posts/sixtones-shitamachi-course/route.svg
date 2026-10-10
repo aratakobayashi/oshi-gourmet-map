@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 536" width="420" height="536" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="536" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">SixTONES 忘年会の2軒</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">東京ソラマチ7Fの2軒と東京スカイツリーを回る一例</text>
+<line x1="46" y1="110" x2="46" y2="474" stroke="#7c3aed" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 9"/>
+<rect x="32" y="96" width="28" height="28" rx="6" fill="#241F1A"/>
+<text x="46" y="115" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">発</text>
+<text x="72" y="115" font-size="15" font-weight="800" fill="#241F1A">押上〈スカイツリー前〉駅</text>
+<text x="72" y="152" font-size="12.5" fill="#6B6258">↓ 徒歩2分（データより）</text>
+<rect x="20" y="168" width="380" height="30" rx="15" fill="#7c3aed"/>
+<text x="210" y="188" font-size="14.5" font-weight="800" fill="#fff" text-anchor="middle">東京ソラマチ 7F</text>
+<rect x="64" y="210" width="336" height="76" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="230" r="15" fill="#7c3aed"/>
+<text x="46" y="236" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="78" y="236" font-size="16" font-weight="800" fill="#241F1A">鼎泰豊 東京ソラマチ店</text>
+<rect x="332.5" y="219" width="55.5" height="22" rx="11" fill="#7c3aed" fill-opacity=".12"/>
+<text x="360.25" y="235" font-size="12.5" font-weight="700" fill="#7c3aed" text-anchor="middle">小籠包</text>
+<text x="78" y="258" font-size="12.5" fill="#6B6258">2023年大晦日の忘年会</text>
+<text x="78" y="276" font-size="12.5" fill="#6B6258">2024年1月公開「念願の小籠包でメシ会」</text>
+<text x="72" y="310" font-size="12.5" fill="#6B6258">↓ 同じ7Fのなかを移動</text>
+<rect x="64" y="326" width="336" height="76" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="346" r="15" fill="#7c3aed"/>
+<text x="46" y="352" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="78" y="352" font-size="16" font-weight="800" fill="#241F1A">もんじゃ だるま ソラマチ店</text>
+<rect x="320.0" y="335" width="68.0" height="22" rx="11" fill="#7c3aed" fill-opacity=".12"/>
+<text x="354.0" y="351" font-size="12.5" font-weight="700" fill="#7c3aed" text-anchor="middle">もんじゃ</text>
+<text x="78" y="374" font-size="12.5" fill="#6B6258">2024年の忘年会</text>
+<text x="78" y="392" font-size="12.5" fill="#6B6258">2025年4月公開「もんじゃ忘年会」</text>
+<text x="72" y="426" font-size="12.5" fill="#6B6258">↓ 2023年3月の動画</text>
+<text x="72" y="444" font-size="12.5" fill="#6B6258">「スカイツリー顔バレせずに登れるか？」の舞台へ</text>
+<rect x="32" y="460" width="28" height="28" rx="6" fill="#241F1A"/>
+<text x="46" y="479" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">着</text>
+<text x="72" y="479" font-size="15" font-weight="800" fill="#241F1A">東京スカイツリー</text>
+<text x="20" y="520" font-size="12" fill="#6B6258">店の場所は推しグルメ巡礼MAPのデータより</text>
+</svg>

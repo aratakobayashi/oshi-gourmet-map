@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 274" width="420" height="274" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="274" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">よにのの渋谷年表</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
+<line x1="86" y1="88" x2="86" y2="248" stroke="#e8537a" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="107" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="88" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">挽肉と米 渋谷</text>
+<text x="118" y="134" font-size="12.5" fill="#e8537a">#408【ゲスト!!】凄い人が来た日</text>
+<text x="70" y="196" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="213" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="191" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="172" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="196" font-size="16" font-weight="800" fill="#241F1A">葱や平吉 渋谷宇田川町店</text>
+<text x="118" y="218" font-size="12.5" fill="#e8537a">#494【朝飯!!】山田がハマった日</text>
+</svg>

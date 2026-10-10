@@ -74,16 +74,30 @@ def search_hotpepper(api_key, name, lat, lng):
     if not candidates:
         return None, 0.0
 
-    # 名前スコアが最も高い候補を選ぶ
-    best = max(candidates, key=lambda c: name_match_score(name, c['name']))
+    # 名前スコアが最も高い候補を選ぶ（同点なら近いほう）
+    best = max(candidates, key=lambda c: (name_match_score(name, c['name']), -dist_m(lat, lng, c)))
     score = name_match_score(name, best['name'])
     return best, score
+
+
+def dist_m(lat, lng, c):
+    """候補の店までの距離（m）"""
+    import math
+    try:
+        la, ln = float(c['lat']), float(c['lng'])
+    except (KeyError, TypeError, ValueError):
+        return 1e9
+    dy = (la - lat) * 111000
+    dx = (ln - lng) * 111000 * math.cos(math.radians(lat))
+    return (dx * dx + dy * dy) ** .5
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true', help='書き込まずに結果だけ表示')
-    parser.add_argument('--min-score', type=float, default=0.6, help='採用する最低一致スコア（デフォルト0.6）')
+    parser.add_argument('--min-score', type=float, default=0.8, help='採用する最低一致スコア（デフォルト0.8）')
+    parser.add_argument('--max-dist', type=float, default=300, help='採用する最大距離m（デフォルト300）')
+    parser.add_argument('--max-dist-exact', type=float, default=1500, help='店名が完全に一致するときの最大距離m（こちらの座標がずれている店があるため。デフォルト1500）')
     parser.add_argument('--overwrite', action='store_true', help='既存のhotpepper_urlも上書き')
     args = parser.parse_args()
 
@@ -101,7 +115,8 @@ def main():
         s for s in shops
         if s.get('lat') and s.get('lng')
         and (not s.get('hotpepper_url') or args.overwrite)
-        and s.get('group') not in ('kodoku_no_gurume',)  # ドラマ系は除外
+        and not s.get('closed')
+        and str(s.get('prefecture', ''))[-1:] in ('都', '道', '府', '県')  # 海外の店は除く
     ]
 
     print(f'対象: {len(targets)}件 / 全{len(shops)}件')
@@ -109,6 +124,7 @@ def main():
     print()
 
     matched = []
+    review = []
     skipped_score = 0
     skipped_no_result = 0
 
@@ -124,7 +140,11 @@ def main():
             skipped_no_result += 1
             continue
 
-        if score < args.min_score:
+        d = dist_m(lat, lng, best)
+        ok = (score >= 1.0 and d <= args.max_dist_exact) or (score >= args.min_score and d <= args.max_dist)
+        if score >= 0.6 and not ok:
+            review.append({'id': shop['id'], 'name': name, 'candidate': best['name'], 'score': round(score, 2), 'dist_m': int(d), 'url': best['urls']['pc']})
+        if not ok:
             skipped_score += 1
             if score > 0.3:  # 惜しいものは表示
                 print(f'  スコア低（{score:.2f}）: {name} ≠ {best["name"]}')
@@ -141,8 +161,11 @@ def main():
         if (i + 1) % 50 == 0:
             print(f'--- {i+1}/{len(targets)}件処理済み ---')
 
+    with open('scripts/hotpepper_match_review.json', 'w', encoding='utf-8') as f:
+        json.dump(review, f, ensure_ascii=False, indent=1)
     print()
     print('=== 結果 ===')
+    print(f'確認待ち（scripts/hotpepper_match_review.json）: {len(review)}件')
     print(f'マッチ成功:       {len(matched)}件')
     print(f'スコア不足でスキップ: {skipped_score}件')
     print(f'検索結果なし:    {skipped_no_result}件')
