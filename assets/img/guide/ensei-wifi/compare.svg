@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" width="420" height="720" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="720" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">通信を確保する4つの方法</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">料金や容量は各社の公式サイトで確かめてください</text>
+<rect x="20" y="92" width="380" height="140" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<rect x="20" y="92" width="10" height="140" rx="5" fill="#0891b2"/>
+<circle cx="58" cy="122" r="16" fill="#0891b2"/>
+<text x="58" y="128" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">A</text>
+<text x="84" y="128" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">スマホのデータ量を追加</text>
+<text x="44" y="162" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">○ 今の契約のまま、アプリなどで</text>
+<text x="60" y="182" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">手続きできることが多い</text>
+<rect x="40" y="194" width="344" height="26" rx="8" fill="#E0F4F8"/>
+<text x="50" y="212" font-size="13" font-weight="700" fill="#0e5f74" text-anchor="start">注意  会場が混むと遅くなるのは同じ</text>
+<rect x="20" y="242" width="380" height="140" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<rect x="20" y="242" width="10" height="140" rx="5" fill="#0891b2"/>
+<circle cx="58" cy="272" r="16" fill="#0891b2"/>
+<text x="58" y="278" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">B</text>
+<text x="84" y="278" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">ポケットWi-Fiを借りる</text>
+<text x="44" y="312" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">○ 必要な日数だけ借りられる。</text>
+<text x="60" y="332" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">同行者とも一緒に使える</text>
+<rect x="40" y="344" width="344" height="26" rx="8" fill="#E0F4F8"/>
+<text x="50" y="362" font-size="13" font-weight="700" fill="#0e5f74" text-anchor="start">注意  機器の充電と、返却の手間がある</text>
+<rect x="20" y="392" width="380" height="140" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<rect x="20" y="392" width="10" height="140" rx="5" fill="#0891b2"/>
+<circle cx="58" cy="422" r="16" fill="#0891b2"/>
+<text x="58" y="428" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">C</text>
+<text x="84" y="428" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">会場・駅の無料Wi-Fi</text>
+<text x="44" y="462" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">○ 会場によってはある。</text>
+<text x="60" y="482" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">登録が必要なことが多い</text>
+<rect x="40" y="494" width="344" height="26" rx="8" fill="#E0F4F8"/>
+<text x="50" y="512" font-size="13" font-weight="700" fill="#0e5f74" text-anchor="start">注意  ない会場や、使える場所が限られる会場も</text>
+<rect x="20" y="542" width="380" height="140" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<rect x="20" y="542" width="10" height="140" rx="5" fill="#0891b2"/>
+<circle cx="58" cy="572" r="16" fill="#0891b2"/>
+<text x="58" y="578" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">D</text>
+<text x="84" y="578" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">通信なしで出せる準備</text>
+<text x="44" y="612" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">○ チケットの表示や地図・</text>
+<text x="60" y="632" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">乗換を前もって確かめる</text>
+<rect x="40" y="644" width="344" height="26" rx="8" fill="#E0F4F8"/>
+<text x="50" y="662" font-size="13" font-weight="700" fill="#0e5f74" text-anchor="start">注意  公演の案内に合う方法で</text>
+<text x="210" y="704" font-size="13" font-weight="700" fill="#6B6258" text-anchor="middle">いくつか組み合わせておくと安心です（編集部）</text>
+</svg>
