@@ -11,6 +11,7 @@ address: "東京都杉並区高円寺南３丁目５８−１８ 山本ビル 1F
 nearest_station: "JR高円寺駅 徒歩１分"
 visited_date: "2024-12-15"
 youtube_id: "BPvNgGIKoeU"
+source_video_title: "【はしご酒】高円寺で飲むお酒がとにかく最高すぎました"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13291085/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003516082/"

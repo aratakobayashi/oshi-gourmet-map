@@ -11,6 +11,7 @@ address: "東京都中央区日本橋浜町３丁目２０−２"
 nearest_station: "浜町駅 徒歩6分"
 visited_date: "2025-03-15"
 youtube_id: "hHDk2mEa4Sc"
+source_video_title: "誕生日を超盛大にお祝いされてみた"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13231192/"
 lat: 35.685222

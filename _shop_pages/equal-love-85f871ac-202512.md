@@ -11,6 +11,7 @@ address: "東京都千代田区神田三崎町２丁目２１−１１ ゑびす
 nearest_station: "水道橋駅 徒歩3分"
 visited_date: "2025-12-05"
 youtube_id: "TI71ENfUCZQ"
+source_video_title: "【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/TI71ENfUCZQ/hqdefault.jpg"
 lat: 35.70076

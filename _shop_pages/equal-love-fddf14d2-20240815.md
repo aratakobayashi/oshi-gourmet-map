@@ -10,6 +10,7 @@ city: "府中市"
 address: "東京都府中市美好町３丁目１６−２"
 visited_date: "2024-08-15"
 youtube_id: "aD0Q4-d-Ntg"
+source_video_title: "【完全プライベート】あんまいでいちごを狩る"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13243991/"
 lat: 35.6700214

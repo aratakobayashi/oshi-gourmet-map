@@ -11,6 +11,7 @@ address: "東京都豊島区東池袋１丁目２８−１ サンシャインシ
 nearest_station: "池袋駅 徒歩5分"
 visited_date: "2024-08-06"
 youtube_id: "gQ8M3JURXOY"
+source_video_title: "【爆食】サンリオカフェで1万円分食べ放題してきました♡"
 group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13247285/"
 thumbnail_url: "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg"

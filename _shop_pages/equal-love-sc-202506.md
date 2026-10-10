@@ -11,6 +11,7 @@ address: "東京都世田谷区玉川３丁目１７−１ 南館 6階 高島屋
 nearest_station: "二子玉川駅 徒歩5分"
 visited_date: "2025-06-28"
 youtube_id: "rI97Y8OW8K0"
+source_video_title: "【1日密着】こんな感じでお仕事してます！みりにゃの裏側大公開🐈♡"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131708/13009772/"
 thumbnail_url: "https://img.youtube.com/vi/rI97Y8OW8K0/hqdefault.jpg"

@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市雪ノ下１丁目５−３３ リバスクビル
 nearest_station: "鎌倉駅 徒歩9分"
 visited_date: "2024-08-09"
 youtube_id: "Evw3lyphfcM"
+source_video_title: "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14077913/"
 thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"

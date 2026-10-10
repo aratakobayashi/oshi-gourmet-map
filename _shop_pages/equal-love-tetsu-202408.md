@@ -11,6 +11,7 @@ address: "東京都豊島区南池袋２丁目１２−５ 第３中野ビル 1F
 nearest_station: "都電雑司ヶ谷駅 徒歩5分"
 visited_date: "2024-08-14"
 youtube_id: "FfoCq5L1SRg"
+source_video_title: "【Vlog】好きなだけお肉を食べて最高すぎました🥩♡【焼肉デート】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13254443/"
 thumbnail_url: "https://img.youtube.com/vi/FfoCq5L1SRg/hqdefault.jpg"

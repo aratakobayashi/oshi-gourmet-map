@@ -10,6 +10,7 @@ city: "下野市"
 address: "栃木県下野市国分寺８２１−１"
 visited_date: "2026-04-27"
 youtube_id: "w568Qw-pOE0"
+source_video_title: "【とちブラ 2026 #3】とちぎでお花見（＝LOVE 齋藤樹愛羅）"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090203/9017523/"
 lat: 36.3907402

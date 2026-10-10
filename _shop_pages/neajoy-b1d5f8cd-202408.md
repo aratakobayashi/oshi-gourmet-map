@@ -11,6 +11,7 @@ address: "東京都文京区千駄木３丁目４２−１６"
 nearest_station: "千駄木駅 徒歩4分"
 visited_date: "2024-08-14"
 youtube_id: "HrmydlHejtk"
+source_video_title: "【癒やし回と思ったら】あゆみんが鳥カフェに連れて行ってくれました🐤【事件発生！？】"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/HrmydlHejtk/hqdefault.jpg"
 lat: 35.7277266

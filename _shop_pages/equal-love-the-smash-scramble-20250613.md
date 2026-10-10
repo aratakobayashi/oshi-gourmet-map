@@ -11,6 +11,7 @@ address: "東京都渋谷区宇田川町２６−１１ 白馬ビル"
 nearest_station: "渋谷駅 徒歩7分"
 visited_date: "2025-06-13"
 youtube_id: "9g0At0uaJmc"
+source_video_title: "【わくわく】イコラブボートレース部から重大なお知らせです！"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13305527/"
 lat: 35.6620752

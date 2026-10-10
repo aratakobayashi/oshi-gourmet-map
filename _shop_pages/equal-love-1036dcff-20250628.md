@@ -10,6 +10,7 @@ city: "匝瑳市"
 address: "千葉県匝瑳市吉崎６５６－１"
 visited_date: "2025-06-28"
 youtube_id: "cYFtNVKcXKc"
+source_video_title: "【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします👗【メイキング】"
 group: "equal_love"
 lat: 35.673999
 lng: 140.611738

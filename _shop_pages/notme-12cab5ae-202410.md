@@ -11,6 +11,7 @@ address: "東京都豊島区南池袋２丁目２７−５ 共和ビル Ｂ１�
 nearest_station: "都電雑司ヶ谷駅 徒歩5分"
 visited_date: "2024-10-02"
 youtube_id: "Btsp0ae5Tzc"
+source_video_title: "大好きなお肉を好きなだけ食べる"
 group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13155152/"
 thumbnail_url: "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg"

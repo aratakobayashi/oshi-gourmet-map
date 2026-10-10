@@ -11,6 +11,7 @@ address: "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西
 nearest_station: "金沢駅 徒歩3分"
 visited_date: "2024-08-15"
 youtube_id: "6loT5JM_yQo"
+source_video_title: "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17000958/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
