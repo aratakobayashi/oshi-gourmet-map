@@ -798,3 +798,4 @@ a.badge { min-height: 32px; }
   .prose .pf-works { grid-template-columns: 1fr 1fr; }
   .pf-card__facts { grid-template-columns: repeat(3, 1fr); }
 }
+.pf .prose td, .prose .pf td { white-space: nowrap; }
