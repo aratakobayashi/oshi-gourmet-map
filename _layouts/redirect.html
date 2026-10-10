@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>移動しました｜{{ site.title }}</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+<meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
+</head>
+<body>
+<p>このページは移動しました。<a href="{{ page.redirect_to | relative_url }}">{{ page.redirect_label | default: '移動先のページ' }}</a>へ進んでください。</p>
+</body>
+</html>
