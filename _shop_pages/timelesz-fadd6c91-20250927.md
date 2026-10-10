@@ -24,6 +24,8 @@ members:
   - "寺西拓人"
   - "原嘉孝"
   - "橋本将生"
+  - "猪俣周杜"
+  - "篠塚大輝"
 groups:
   - "timelesz"
 ordered_items:

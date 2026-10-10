@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
 related_genres:
   - timelesz-cafe
   - timelesz-shokuji
-  - timelesz-yakiniku
+  - timelesz-sweets
 related_groups:
   - west-chuka
   - sixtones-chuka

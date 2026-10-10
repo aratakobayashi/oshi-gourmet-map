@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-yakiniku
   - sixtones-yakiniku
-  - timelesz-yakiniku
+  - yonino-yakiniku
 ---
