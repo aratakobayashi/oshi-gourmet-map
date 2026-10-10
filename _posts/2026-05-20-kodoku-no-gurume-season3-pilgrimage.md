@@ -123,7 +123,7 @@ faq:
 <div class="pf-cta">
   <p>孤独のグルメのお店を、地図でぜんぶ見る</p>
   <span>Season3の11軒のほかにも、ほかのシーズンやスペシャルのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
-  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map" style="color:#fff">地図で孤独のグルメのお店を見る</a>
+  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map">地図で孤独のグルメのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメのお店一覧（グループのページ）</a>もどうぞ。前後のシーズンは<a href="/articles/2026/05/19/kodoku-no-gurume-season2-pilgrimage/">Season2</a>・<a href="/articles/2026/05/20/kodoku-no-gurume-season4-pilgrimage/">Season4</a>の聖地巡礼ガイドへ。</p>
 

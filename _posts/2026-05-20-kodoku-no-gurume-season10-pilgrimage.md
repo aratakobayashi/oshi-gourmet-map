@@ -124,7 +124,7 @@ faq:
 <div class="pf-cta">
   <p>孤独のグルメのお店を、地図でぜんぶ見る</p>
   <span>Season10の14軒のほかにも、ほかのシーズンやスペシャルのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
-  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map" style="color:#fff">地図で孤独のグルメのお店を見る</a>
+  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map">地図で孤独のグルメのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメのお店一覧（グループのページ）</a>もどうぞ。前のシーズンは<a href="/articles/2026/05/20/kodoku-no-gurume-season9-pilgrimage/">Season9</a>、大晦日などのスペシャルは<a href="/articles/2026/05/20/kodoku-no-gurume-nenmatsu-special-pilgrimage/">スペシャルの聖地巡礼ガイド</a>へ。</p>
 

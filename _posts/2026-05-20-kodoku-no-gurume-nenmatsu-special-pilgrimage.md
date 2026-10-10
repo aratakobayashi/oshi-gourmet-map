@@ -226,7 +226,7 @@ faq:
 <div class="pf-cta">
   <p>孤独のグルメのお店を、地図でぜんぶ見る</p>
   <span>スペシャルの50軒のほかにも、各シーズンのお店を地図で探せます。旅先の近くにあるお店を保存して、巡礼の計画に。</span>
-  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map" style="color:#fff">地図で孤独のグルメのお店を見る</a>
+  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map">地図で孤独のグルメのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメのお店一覧（グループのページ）</a>もどうぞ。シーズンごとのお店は<a href="/articles/2026/05/19/kodoku-no-gurume-season1-pilgrimage/">Season1</a>から<a href="/articles/2026/05/20/kodoku-no-gurume-season10-pilgrimage/">Season10</a>までの聖地巡礼ガイドへ。</p>
 
