@@ -35,9 +35,6 @@ shop_ids:
   - neajoy-cc4ef957-202408
   - neajoy-samoyed_cafe_al-202509
   - neajoy-b1d5f8cd-202408
-  - neajoy-pippon-202408
-  - neajoy-f961d046-202408
-  - neajoy-brilliarunningstadiu-202602
 faq:
   - q: "≒JOYのグルメ動画はどこで見られますか？"
     a: "おもに、=LOVE・≠ME・≒JOY合同の公式YouTubeチャンネル「イコラブ ノイミー ニアジョイ チャンネル」で公開されています。この記事では、各お店に動画の公開年月とタイトルを載せています。"
@@ -124,7 +121,6 @@ faq:
   <li><span class="k">2023.10</span><div><b>エブリデイ多摩ノ国</b><span>超巨大！クレーンゲーム専門店で景品いくつ取れるか対決してみた！【ニアジョイ】（天野香乃愛・山田杏佳・山野愛月）</span></div></li>
   <li><span class="k">2026.2</span><div><b>有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM</b><span>≒JOY（ニアリーイコールジョイ）/ 4th Single 表題曲『電話番号教えて！』Special Dance Ver.</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="neajoy-pippon-202408,neajoy-f961d046-202408,neajoy-brilliarunningstadiu-202602" %}
 <p class="note">動画のタイトルはYouTubeの動画ページのものです（絵文字は省きました）。左の数字は動画の公開年月。出演メンバーは公式チャンネルの動画の説明欄より。</p>
 
 <h2>はじめて見るならこの4本</h2>

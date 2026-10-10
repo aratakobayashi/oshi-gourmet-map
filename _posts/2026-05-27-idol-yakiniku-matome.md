@@ -23,11 +23,9 @@ shop_ids:
   - kodoku_no_gurume-9a1803af-
   - kamenashi-ushigoro_s_ginza-20250816
   - kamenashi-df0d89b3-202407
-  - sixtones-5de59474-202101
   - sixtones-gyugyu-nishiazabu
   - kingprince-291d6518-20221015
   - nogizaka46-416e17d8-
-  - hinatazaka46-sawayaka-shizuoka
   - equal_love-571d4c2e-202408
   - notme-b2f81d0e-202408
   - kodoku_no_gurume-7e51bfa4-
@@ -45,7 +43,6 @@ shop_ids:
   - yonino-youhachi-sangenchaya
   - yonino-d88e366f-202603
   - yonino-bouinboshoku
-  - yonino-a980d36b-202601
   - kamenashi-bullajo-202504
   - kamenashi-glams_bbq_lounge-202405
   - kamenashi-b68dd10a-202410
@@ -126,7 +123,7 @@ faq:
   <li><span class="k">2024<br>8月</span><div><b>うしごろ 銀座並木通り店</b><span>≠ME【ちょこもなか】菜々風の誕生日お祝い焼肉会をしてました！【うしごろ】</span></div></li>
   <li><span class="k">2025<br>8月</span><div><b>USHIGORO S. GINZA</b><span>亀梨和也【夏休み】Snow Man渡辺翔太と東京の高級焼肉店でディナー！ゲスト松原タニシさんも迎えてゾクっとする話。</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-416e17d8-,hinatazaka46-sawayaka-shizuoka,notme-b2f81d0e-202408,kamenashi-ushigoro_s_ginza-20250816" %}
+{% include inline-shop-grid.html ids="nogizaka46-416e17d8-,notme-b2f81d0e-202408,kamenashi-ushigoro_s_ginza-20250816" %}
 
 <h2>亀梨和也：後輩との焼肉と、ひとり焼肉</h2>
 <p>亀梨和也さんのYouTubeチャンネルから。なにわ男子・Snow Manの後輩との焼肉の回と、「ぼっち」「一人焼肉」の回があります。</p>
@@ -149,7 +146,7 @@ faq:
   <li><span class="k">#497</span><div><b>赤坂 金舌</b><span>#497【飯!!】どんでもない豪華な日／ハンバーグ御膳、雲丹ユッケと牛肉寿司御膳、牛タンカレー</span></div></li>
   <li><span class="k">#509</span><div><b>ジンギスカン羊はち</b><span>#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-hutong-nishiazabu,yonino-bouinboshoku,yonino-peter-luger,yonino-kintan-akasaka,yonino-a980d36b-202601,yonino-youhachi-sangenchaya,yonino-d88e366f-202603" %}
+{% include inline-shop-grid.html ids="yonino-hutong-nishiazabu,yonino-bouinboshoku,yonino-peter-luger,yonino-kintan-akasaka,yonino-youhachi-sangenchaya,yonino-d88e366f-202603" %}
 
 <h2>SixTONES・Snow Man・King & Prince・なにわ男子ほか</h2>
 <ul class="pf-works">
@@ -166,7 +163,7 @@ faq:
   <li><span class="k">2016<br>7月</span><div><b>BLTステーキ 銀座</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2016年7月20日）</span></div></li>
   <li><span class="k">西新宿</span><div><b>牛の達人 Private 西新宿店</b><span>timelesz「timelesz project -AUDITION-」</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-5de59474-202101,sixtones-ushimitsu-ebisu,sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720,timelesz-private-" %}
+{% include inline-shop-grid.html ids="sixtones-ushimitsu-ebisu,sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720,timelesz-private-" %}
 
 <h2>=LOVE・≠ME・乃木坂46</h2>
 <ul class="pf-works">

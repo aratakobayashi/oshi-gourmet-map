@@ -19,8 +19,7 @@ shop_ids:
   - yonino-blue-bottle-shinjuku
   - yonino-paul-bassett-shinjuku
   - yonino-donish-coffee-kagurazaka
-  - yonino-0685dfb8-202506
-  - yonino-400c_pizza_tokyo-202506
+  - yonino-400-pizza
 faq:
   - q: "このコースではどんな順番で回りますか？"
     a: "一例として、新宿1丁目のDOUBLE TALL COFFEE → ルミネエスト新宿のブルーボトルコーヒー → 新宿野村ビルのPaul Bassett 新宿と歩き、都営大江戸線で新宿西口駅から牛込神楽坂駅へ移って、袋町のコーヒースタンド → 若宮町の400℃ Pizza Tokyo 神楽坂店と回ります。"
@@ -93,7 +92,7 @@ faq:
   <li><span class="k">#434</span><div><b>神楽坂コーヒースタンド</b><span>【朝食!!】ドライブの日／同じ住所（袋町5-1 Faro神楽坂1F）</span></div></li>
   <li><span class="k">#431</span><div><b>400℃ Pizza Tokyo 神楽坂店</b><span>【朝食!!】やまだとざーぴーな日／マルゲリータ、ネーヴェ、レモンソーダ</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-donish-coffee-kagurazaka,yonino-0685dfb8-202506,yonino-400c_pizza_tokyo-202506" %}
+{% include inline-shop-grid.html ids="yonino-donish-coffee-kagurazaka,yonino-400-pizza" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>よにのちゃんねるの公式動画です（タップすると再生します）。</p>

@@ -37,25 +37,15 @@ shop_ids:
   - sixtones-honjo-kaeru-honpo
   - sixtones-gyugyu-nishiazabu
   - sixtones-pizzeria-e-trattoria-da-isa
-  - sixtones-5de59474-202101
   - sixtones-ushimitsu-ebisu
   - sixtones-c2272dd2-201906
   - sixtones-onigiri-bongo
-  - sixtones-cafe1894-marunouchi
-  - sixtones-cafepark
-  - sixtones-53e6c3d6-202411
-  - sixtones-eggs_n_things-201904
+  - sixtones-af622cfe-
   - sixtones-0f6b2048-202411
   - sixtones-a3a0ff52-202003
   - sixtones-bf58b791-202212
-  - sixtones-toriki-shinjuku
   - sixtones-2ed2841e-202305
   - sixtones-2b41b180-202411
-  - sixtones-yakitoritei-nakameguro
-  - sixtones-tomiya-asakusa
-  - sixtones-muromachi-tanakaya
-  - sixtones-shichifuku-jin-ryogoku
-  - sixtones-grill-grand-asakusa
   - sixtones-unagi-maruchu
   - sixtones-sixtones-202108
   - sixtones-f52d4936-202108
@@ -172,7 +162,7 @@ faq:
   <li><span class="k">旅先</span><div><b>埼玉・静岡・石川・京都</b><span>阿左美冷蔵 金崎本店、豚みそ丼本舗 野さか（秩父）、丸忠うなぎ（焼津）、手打ちそば こめや、もりもり寿司 金沢駅前店（金沢）、京料理 六盛（京都）</span></div></li>
   <li><span class="k">海外</span><div><b>シンガポール</b><span>YY Kafei Dian 喜園咖啡店、Tian Tian Hainanese Chicken Rice、Cicheti</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-5de59474-202101,sixtones-ushimitsu-ebisu,sixtones-c2272dd2-201906,sixtones-onigiri-bongo,sixtones-2ed2841e-202305,sixtones-yakitoritei-nakameguro,sixtones-tomiya-asakusa,sixtones-muromachi-tanakaya,sixtones-shichifuku-jin-ryogoku,sixtones-grill-grand-asakusa,sixtones-cafe1894-marunouchi,sixtones-cafepark,sixtones-53e6c3d6-202411,sixtones-eggs_n_things-201904,sixtones-0f6b2048-202411,sixtones-2b41b180-202411,sixtones-a3a0ff52-202003,sixtones-bf58b791-202212,sixtones-toriki-shinjuku,sixtones-sixtones-202108,sixtones-f52d4936-202108,sixtones-unagi-maruchu,sixtones-b647a3f1-202204,sixtones-4330a634-202204,sixtones-b5dfc98a-202310,sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti" %}
+{% include inline-shop-grid.html ids="sixtones-ushimitsu-ebisu,sixtones-c2272dd2-201906,sixtones-onigiri-bongo,sixtones-2ed2841e-202305,sixtones-af622cfe-,sixtones-0f6b2048-202411,sixtones-2b41b180-202411,sixtones-a3a0ff52-202003,sixtones-bf58b791-202212,sixtones-sixtones-202108,sixtones-f52d4936-202108,sixtones-unagi-maruchu,sixtones-b647a3f1-202204,sixtones-4330a634-202204,sixtones-b5dfc98a-202310,sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>SixTONESの公式YouTubeチャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>

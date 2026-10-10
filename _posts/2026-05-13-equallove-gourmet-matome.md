@@ -31,13 +31,11 @@ shop_ids:
   - equallove_001
   - equal_love-a330c186-202409
   - equal_love-37-202409
-  - equallove_010
-  - equallove_002
+  - equal_love-6e007468-202408
   - equal_love-a2c7e427-202408
   - equal_love-875bdcd7-202408
   - equal_love-3cc7d56c-202408
   - equallove_009
-  - equal_love-6e007468-202408
   - equal_love-d556ceee-202408
   - equal_love-87c3ff9e-202408
   - equal_love-cb7485f1-202408
@@ -45,12 +43,9 @@ shop_ids:
   - equal_love-1c33a8b5-202408
   - equal_love-1de9b314-202408
   - equal_love-93d5e98f-202408
-  - equal_love-1611bac7-202408
   - equal_love-b0d04596-202408
   - equal_love-c6d6b2f9-202408
   - equal_love-a5ac4a24-202408
-  - equal_love-c9294339-202408
-  - equal_love-e981ea6f-202408
   - equal_love-dc047633-202408
   - equal_love-16a33a28-202408
   - equal_love-acc7e129-202408
@@ -61,11 +56,9 @@ shop_ids:
   - equal_love-a8a055cd-202408
   - equal_love-a47973a5-202408
   - equal_love-sc-202506
-  - equal_love-82fa4e5f-202408
   - equal_love-c803c552-202408
   - equal_love-0d7bdac2-202408
   - equal_love-e334efa9-202408
-  - equal_love-7c808339-202408
   - equal_love-7cbba11a-202408
   - equal_love-9546a908-202408
   - equal_love-ab8c67a3-202505
@@ -159,7 +152,7 @@ faq:
   <li><span class="k">2024.9</span><div><b>オービカ モッツァレラバー・37 ステーキハウス &amp; バー</b><span>【感動】おいしすぎて衝撃のハンバーガーに出会ってしまいました【イコラブハンバーガー部】</span></div></li>
   <li><span class="k">2025.6</span><div><b>BALLPARK BURGER &amp;9（コラボのお知らせ）</b><span>イコラブハンバーガー部からとっても嬉しいお知らせあります</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equallove_001,equal_love-a330c186-202409,equal_love-37-202409,equallove_010" %}
+{% include inline-shop-grid.html ids="equallove_001,equal_love-a330c186-202409,equal_love-37-202409" %}
 
 <h2>2人で食べ歩き：横浜中華街と鎌倉</h2>
 <p>中華街は齋藤樹愛羅さんと佐々木舞香さん（きあまい）、鎌倉は音嶋莉沙さんと瀧脇笙古さん（しょこりさ）。どちらも1本の動画で何軒もまわっています。</p>
@@ -168,7 +161,7 @@ faq:
   <li><span class="k">2023.6</span><div><b>俏香（チャオシャン）・ガーデンテラスカフェ</b><span>【日常】中華街のカフェでひたすらお喋り 占いにも行ったよー！！【きあまい】【中華街旅#2】</span></div></li>
   <li><span class="k">2023.5</span><div><b>さくらの夢見屋 小町通り本店・八倉 -湘南の魚と鎌倉野菜-・鎌倉壱番屋 雪ノ下店・ともや 鎌倉小町店・からあげ まこちゃん 鎌倉本店・鎌倉茶々本店</b><span>【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜【#しょこりさの日常】【鎌倉旅#1】</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equallove_002,equal_love-a2c7e427-202408,equal_love-875bdcd7-202408,equal_love-3cc7d56c-202408,equallove_009,equal_love-6e007468-202408,equal_love-d556ceee-202408,equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-1c33a8b5-202408,equal_love-1de9b314-202408" %}
+{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-a2c7e427-202408,equal_love-875bdcd7-202408,equal_love-3cc7d56c-202408,equallove_009,equal_love-d556ceee-202408,equal_love-87c3ff9e-202408,equal_love-cb7485f1-202408,equal_love-22eda348-202408,equal_love-1c33a8b5-202408,equal_love-1de9b314-202408" %}
 
 <h2>メンバーの旅とおでかけ：京都・広島・浅草</h2>
 <ul class="pf-works">
@@ -177,7 +170,7 @@ faq:
   <li><span class="k">2021.1</span><div><b>舟和 仲見世1号店・舟和 仲見世2号店・安立屋</b><span>【初詣】お寺にたどり着かない初詣動画 in 浅草（髙松瞳・瀧脇笙古・野口衣織・山本杏奈）</span></div></li>
   <li><span class="k">2023.12</span><div><b>パスティス広尾ハウス</b><span>【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします【メイキング】</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-93d5e98f-202408,equal_love-1611bac7-202408,equal_love-b0d04596-202408,equal_love-c6d6b2f9-202408,equal_love-a5ac4a24-202408,equal_love-c9294339-202408,equal_love-e981ea6f-202408,equal_love-dc047633-202408,equal_love-16a33a28-202408,equal_love-acc7e129-202408,equal_love-93b29440-202408,equal_love-4151a4c5-202408,equal_love-e732d9bf-202506" %}
+{% include inline-shop-grid.html ids="equal_love-93d5e98f-202408,equal_love-b0d04596-202408,equal_love-c6d6b2f9-202408,equal_love-a5ac4a24-202408,equal_love-dc047633-202408,equal_love-16a33a28-202408,equal_love-acc7e129-202408,equal_love-93b29440-202408,equal_love-4151a4c5-202408,equal_love-e732d9bf-202506" %}
 
 <h2>宮島の旅：イコラブのあんまい</h2>
 <p>YouTubeチャンネル「イコラブのあんまい」の広島旅の回。宮島の6軒が登場します。</p>
@@ -195,7 +188,7 @@ faq:
   <li><span class="k">2025.5</span><div><b>信州そば処 やまへい 軽井沢店・熟成和牛焼肉 エイジング・ビーフ軽井沢</b><span>ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】</span></div></li>
   <li><span class="k">2025.8</span><div><b>（有）丸福食堂（熱海）</b><span>旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-mateki-202408,equal_love-a8a055cd-202408,equal_love-a47973a5-202408,equal_love-sc-202506,equal_love-82fa4e5f-202408,equal_love-c803c552-202408,equal_love-0d7bdac2-202408,equal_love-e334efa9-202408,equal_love-7c808339-202408,equal_love-7cbba11a-202408,equal_love-9546a908-202408,equal_love-ab8c67a3-202505,equal_love-290f63cb-202505,equal_love-dc15f6aa-202508" %}
+{% include inline-shop-grid.html ids="equal_love-mateki-202408,equal_love-a8a055cd-202408,equal_love-a47973a5-202408,equal_love-sc-202506,equal_love-c803c552-202408,equal_love-0d7bdac2-202408,equal_love-e334efa9-202408,equal_love-7cbba11a-202408,equal_love-9546a908-202408,equal_love-ab8c67a3-202505,equal_love-290f63cb-202505,equal_love-dc15f6aa-202508" %}
 
 <h2>みりにゃと申します。（大谷映美里）：東京のラーメンとごはん</h2>
 <p>二郎系ラーメンが2本、激辛の中本、一蘭、みそきんと、ラーメンの回が続きます。</p>

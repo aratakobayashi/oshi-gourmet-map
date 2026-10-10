@@ -33,7 +33,6 @@ shop_ids:
   - heysayjump-77cd10ec-20160720
   - heysayjump-d26f3f7f-20161026
   - heysayjump-new_new_york_club-20161026
-  - heysayjump-new_new_york_club-201610
   - heysayjump-96cbb03d-20161026
   - heysayjump-ca6f693e-20161026
   - heysayjump-bee-20170201
@@ -127,7 +126,7 @@ faq:
   <li><span class="k">2016.7</span><div><b>てんぷら阿部 銀座本店・BLTステーキ 銀座・東京銀座フォワグラ・銀座 楼蘭</b><span>グルメ探偵調査（7月20日）／八乙女光</span></div></li>
   <li><span class="k">2016.10</span><div><b>秀ちゃんラーメン赤坂・New NEW YORK CLUB・爆裂石焼らーめん一兆・汁いち</b><span>秋のバスツアーおすすめグルメ（10月26日）／有岡大貴・髙木雄也</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="heysayjump-e23d17b2-20160720,heysayjump-blt-20160720,heysayjump-1e541157-20160720,heysayjump-77cd10ec-20160720,heysayjump-d26f3f7f-20161026,heysayjump-new_new_york_club-20161026,heysayjump-new_new_york_club-201610,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026" %}
+{% include inline-shop-grid.html ids="heysayjump-e23d17b2-20160720,heysayjump-blt-20160720,heysayjump-1e541157-20160720,heysayjump-77cd10ec-20160720,heysayjump-d26f3f7f-20161026,heysayjump-new_new_york_club-20161026,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026" %}
 
 <h2>2017〜2018年：女子会スイーツ・絶景の旅・サイクリング・グルメ探偵</h2>
 <ul class="pf-works">

@@ -16,7 +16,7 @@ summary:
   - "56軒のうち31軒は東京都の外。川越6軒（Hey! Say! JUMP）・熱海3軒（≠ME）と食べ歩きの街が多い"
 shop_ids:
   - nogizaka46-ac5227bd-
-  - nogizaka46-hanagetsudo
+  - nogizaka46-3bd4b889-
   - nogizaka46-e109a250-
   - kingprince-5400b983-20220813
   - kingprince-presquile_chocolater-20221210
@@ -31,7 +31,6 @@ shop_ids:
   - timelesz-1f9a394d-
   - timelesz-c10561a2-
   - nogizaka46-7e8466b6-
-  - nogizaka46-juseian
   - nogizaka46-1641c66f-
   - nogizaka46-9c79a146-
   - nogizaka46-13f22aec-
@@ -62,7 +61,6 @@ shop_ids:
   - yonino-ginza-fukukuju
   - yonino-chocolat_trouver-20260204
   - sixtones-0f6b2048-202411
-  - sixtones-eggs_n_things-201904
   - snowman-welovedonut-20260513
   - snowman-d4d93a94-201810
   - neajoy-08395d58-202408
@@ -131,7 +129,7 @@ faq:
   <li><span class="k">浅草</span><div><b>浅草 いづ美</b><span>乃木坂46「松村沙友理ちゃんねる」</span></div></li>
   <li><span class="k">2026<br>4月</span><div><b>亀十・舟和 本店・常盤堂雷おこし本舗 雷門本店</b><span>timelesz『タイムレスマン』日光街道！脱落旅SP（2026年4月17日 フジテレビ系）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-93b29440-202408,nogizaka46-hanagetsudo,nogizaka46-juseian,nogizaka46-7e8466b6-,timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-" %}
+{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-93b29440-202408,nogizaka46-3bd4b889-,nogizaka46-7e8466b6-,timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-" %}
 
 <div class="pf-quote"><p>=LOVEの初詣の動画は、タイトルどおり「お寺にたどり着かない」ほど仲見世で寄り道。同じ道を歩けば、つい足が止まる気持ちが分かります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -203,7 +201,7 @@ faq:
   <li><span class="k">日光</span><div><b>日光もなか</b><span>timelesz『タイムレスマン』</span></div></li>
   <li><span class="k">SP<br>2022</span><div><b>手作りアイス 花茶（千歳）</b><span>孤独のグルメ スペシャル（2022年）／ジェラート</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-sixtones-202108,sixtones-eggs_n_things-201904,sixtones-0f6b2048-202411,snowman-welovedonut-20260513,snowman-d4d93a94-201810,kingprince-5400b983-20220813,kingprince-presquile_chocolater-20221210,yonino-chocolat_trouver-20260204,yonino-asami-reizo-nagatoro,yonino-ginza-fukukuju,kamenashi-9398d442-202508,sakurazaka46-ribisco-ginza,hinatazaka46-e928610f-202004,timelesz-59cd8eb8-,kodoku_no_gurume-69029c00-" %}
+{% include inline-shop-grid.html ids="sixtones-sixtones-202108,sixtones-0f6b2048-202411,snowman-welovedonut-20260513,snowman-d4d93a94-201810,kingprince-5400b983-20220813,kingprince-presquile_chocolater-20221210,yonino-chocolat_trouver-20260204,yonino-asami-reizo-nagatoro,yonino-ginza-fukukuju,kamenashi-9398d442-202508,sakurazaka46-ribisco-ginza,hinatazaka46-e928610f-202004,timelesz-59cd8eb8-,kodoku_no_gurume-69029c00-" %}
 
 <div class="pf-quote"><p>銀座は、亀梨和也さんと渡辺翔太さんのかき氷、櫻坂46のジェラート、King & Princeのフレデリック カッセルと、ひんやり系と洋菓子が集まるエリアです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 

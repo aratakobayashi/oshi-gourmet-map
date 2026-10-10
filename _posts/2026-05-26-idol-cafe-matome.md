@@ -25,7 +25,6 @@ shop_ids:
   - nogizaka46-3bd4b889-
   - equallove_005
   - equallove_003
-  - sixtones-cafe1894-marunouchi
   - kingprince-9ca66867-20220618
   - kingprince-6b77790e-20221022
   - kingprince-6ee5087d-20221203
@@ -47,8 +46,6 @@ shop_ids:
   - yonino-double-tall-coffee-shinjuku
   - yonino-le-pain-quotidien
   - yonino-streamer_coffee_comp-20260201
-  - yonino-0685dfb8-202506
-  - yonino-beasty_coffee__cafe_-20251207
   - nogizaka46-cafe_recette-
   - nogizaka46-freddy_leck_sein_was-
   - nogizaka46-shibuya_tsutaya-
@@ -63,14 +60,13 @@ shop_ids:
   - nogizaka46-dcca8bec-
   - nogizaka46-3d56208f-
   - nogizaka46-milk-
-  - equallove_002
+  - equal_love-6e007468-202408
   - equal_love-e732d9bf-202506
   - equal_love-coa_ginza-20251006
   - equallove_006
   - equallove_008
   - equal_love-mateki-202408
   - equal_love-gebura-20250915
-  - equal_love-6e007468-202408
   - sixtones-lacocorico-akarenga
   - sixtones-horaibashi-chaya
   - kingprince-racines_donut_ice_cr-20221015
@@ -152,7 +148,7 @@ faq:
   <li><span class="k">#434</span><div><b>Donish Coffee Company 神楽坂</b><span>#434【朝食!!】ドライブの日／神楽坂ブレンド（アイス）、いちご風味（アイス）</span></div></li>
   <li><span class="k">#457</span><div><b>DOUBLE TALL COFFEE 新宿御苑</b><span>#457【初道枝!!】初めてがこのドライブはイカつ過ぎた日</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-starbucks-reserve-roastery,yonino-cozy-style-coffee,yonino-paul-bassett-shinjuku,yonino-passage-coffee,yonino-beasty-coffee,yonino-beasty_coffee__cafe_-20251207,yonino-donish-coffee-kagurazaka,yonino-0685dfb8-202506,yonino-double-tall-coffee-shinjuku" %}
+{% include inline-shop-grid.html ids="yonino-starbucks-reserve-roastery,yonino-cozy-style-coffee,yonino-paul-bassett-shinjuku,yonino-passage-coffee,yonino-beasty-coffee,yonino-donish-coffee-kagurazaka,yonino-double-tall-coffee-shinjuku" %}
 
 <ul class="pf-works">
   <li><span class="k">#289</span><div><b>丸山珈琲 ハルニレテラス店（軽井沢）</b><span>#289【軽井沢!】に向けて練習した日</span></div></li>
@@ -209,7 +205,7 @@ faq:
   <li><span class="k">上野</span><div><b>不純喫茶ドープ 上野御徒町店</b><span>=LOVE／台東区上野</span></div></li>
   <li><span class="k">浅草</span><div><b>DOG DEPT CAFE 浅草隅田川テラス店</b><span>=LOVE／台東区駒形</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equallove_002,equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_005,equallove_008,equallove_003,equallove_006" %}
+{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_005,equallove_008,equallove_003,equallove_006" %}
 
 <ul class="pf-works">
   <li><span class="k">2020<br>11月</span><div><b>猫カフェ MOCHA 原宿店</b><span>≠ME／【もふもふ】猫カフェデートしてきました♡【癒し】</span></div></li>
@@ -247,7 +243,7 @@ faq:
   <li><span class="k">2021<br>10月</span><div><b>TruffleBAKERY</b><span>なにわ男子／門前仲町</span></div></li>
   <li><span class="k">2021<br>10月</span><div><b>Le BRESSO 木場公園前店</b><span>なにわ男子／江東区平野</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-mipig-cafe-meguro,snowman-jelly_jelly_cafe-20250320,snowman-d1966575-20251119,sixtones-lacocorico-akarenga,sixtones-horaibashi-chaya,sixtones-cafe1894-marunouchi,kingprince-9ca66867-20220618,kingprince-racines_donut_ice_cr-20221015,kingprince-6ee5087d-20221203,naniwa-muun_seoul-20201023,naniwa-pst-20210820,naniwa-trufflebakery-20211001,naniwa-le_bresso-202110" %}
+{% include inline-shop-grid.html ids="snowman-mipig-cafe-meguro,snowman-jelly_jelly_cafe-20250320,snowman-d1966575-20251119,sixtones-lacocorico-akarenga,sixtones-horaibashi-chaya,kingprince-9ca66867-20220618,kingprince-racines_donut_ice_cr-20221015,kingprince-6ee5087d-20221203,naniwa-muun_seoul-20201023,naniwa-pst-20210820,naniwa-trufflebakery-20211001,naniwa-le_bresso-202110" %}
 
 <h2>ほかのグループ・番組</h2>
 <ul class="pf-works">

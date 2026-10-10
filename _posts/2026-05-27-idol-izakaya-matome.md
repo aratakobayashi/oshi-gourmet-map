@@ -50,7 +50,6 @@ shop_ids:
   - equal_love-a9d4d24e-202412
   - equal_love-bd15bb1d-202412
   - equal_love-17396234-202412
-  - equal_love-litty-20241211
   - kodoku_no_gurume-b768e841-
   - kodoku_no_gurume-9353d2c4-
   - kodoku_no_gurume-842790b5-
@@ -61,10 +60,8 @@ shop_ids:
   - snowman-asagaya-birdland
   - snowman-41d7688e-202604
   - snowman-kushigen-edogawabashi
-  - snowman-e4da675e-20251011
   - sixtones-ukigumori-ikaho
   - sixtones-torigen-shinjuku
-  - sixtones-toriki-shinjuku
   - sixtones-kurumi-shineimachi
   - sixtones-bf58b791-202212
   - naniwa-f5c2bfbf-20201016
@@ -163,7 +160,7 @@ faq:
   <li><span class="k">う福</span><div><b>うな串 焼鳥 う福 代々木店</b><span>しおりのなんとなく日常（2025年4月）新宿・代々木のはしご酒の回</span></div></li>
   <li><span class="k">う福</span><div><b>う福 大井町</b><span>亀梨和也（2024年12月）【語る】WEST.藤井流星としっぽり2軒目。</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-c9547500-202408,neajoy-afc14d66-202409,sixtones-toriki-shinjuku,equal_love-a6665704-202408,neajoy-9538e782-202510,kamenashi-34069a08-202405,notme-4bae4322-202505,shiori-b838be7c-20250425,kamenashi-27f41658-202412" %}
+{% include inline-shop-grid.html ids="equal_love-c9547500-202408,neajoy-afc14d66-202409,equal_love-a6665704-202408,neajoy-9538e782-202510,kamenashi-34069a08-202405,notme-4bae4322-202505,shiori-b838be7c-20250425,kamenashi-27f41658-202412" %}
 
 <div class="pf-quote"><p>鳥貴族は3組、ざうおは「釣って食べる」が2組。タイトルに【爆食】【大漁】が並ぶのを見ると、みんなで盛り上がれるお店が動画に向いているのが分かります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -197,7 +194,7 @@ faq:
   <li><span class="k">2025<br>2月</span><div><b>えどもんど中野</b><span>【二郎系ラーメン】ニンニクアブラは魔法の呪文【えどもんど】（みりにゃと申します。）</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>お肴野郎 清介（熱海）</b><span>熱海1泊2日旅行の完全版【ナイトルーティンも紹介するよ】（みりにゃと申します。）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-443dcbb1-202408,equal_love-67a09d04-202408,equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-a9d4d24e-202412,equal_love-bd15bb1d-202412,equal_love-17396234-202412,equallove_004,equal_love-01641645-202504,equal_love-e9976172-202408,equal_love-litty-20241211,equal_love-f22d7edd-202502,equal_love-246f9b6d-202509" %}
+{% include inline-shop-grid.html ids="equal_love-443dcbb1-202408,equal_love-67a09d04-202408,equal_love-d377e2fc-202408,equal_love-227419b6-202408,equal_love-a9d4d24e-202412,equal_love-bd15bb1d-202412,equal_love-17396234-202412,equallove_004,equal_love-01641645-202504,equal_love-e9976172-202408,equal_love-f22d7edd-202502,equal_love-246f9b6d-202509" %}
 
 <div class="pf-quote"><p>赤羽・高円寺・浅草ホッピー通り。=LOVEのはしご酒は、駅の近くに飲み屋が集まる街ばかり。1本の動画をなぞるだけで、そのまま一晩の巡礼コースになります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -222,7 +219,7 @@ faq:
   <li><span class="k">#376</span><div><b>博多もつ鍋 やま中 銀座店</b><span>よにのちゃんねる #376【朝食!!】多感なお年頃だからワーワー言ってきた日／もつ鍋（味噌味）、もつ野菜セット、炙り明太子</span></div></li>
   <li><span class="k">#494</span><div><b>葱や平吉 渋谷宇田川町店</b><span>よにのちゃんねる #494【朝飯!!】山田がハマった日／味噌煮込みうどん、葱やの得々定食、焼鯖定食、小刺身</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-asagaya-birdland,snowman-ore-no-kappo-ebisu,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,snowman-e4da675e-20251011,sixtones-bf58b791-202212,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-torigen-shinjuku,naniwa-doowop-20211126,naniwa-2c2e760f-202410,naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,yonino-takeno-tsukiji,yonino-daisanboku-aoyama,yonino-yamanaka-ginza,yonino-negiya-heikichi" %}
+{% include inline-shop-grid.html ids="snowman-asagaya-birdland,snowman-ore-no-kappo-ebisu,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,sixtones-bf58b791-202212,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-torigen-shinjuku,naniwa-doowop-20211126,naniwa-2c2e760f-202410,naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,yonino-takeno-tsukiji,yonino-daisanboku-aoyama,yonino-yamanaka-ginza,yonino-negiya-heikichi" %}
 
 <h2>King & Prince・亀梨和也・Hey! Say! JUMP・中丸雄一</h2>
 <ul class="pf-works">

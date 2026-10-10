@@ -19,9 +19,6 @@ shop_ids:
   - hinatazaka46-e928610f-202004
   - hinatazaka46-8054cbca-202004
   - hinatazaka46-san_francisco_peaks-
-  - hinatazaka46-tsukiji-uniko
-  - hinatazaka46-dashi-chazuke-en-narita
-  - hinatazaka46-sawayaka-shizuoka
 faq:
   - q: "日向坂46のお店はどのエリアに多いですか？"
     a: "この記事の7軒では千葉県が4軒で最も多く、そのうち3軒が銚子市、1軒が成田空港の中です。ほかに東京都が2軒（中央区の築地と渋谷区の原宿）、静岡県静岡市に1軒あります。"
@@ -93,7 +90,6 @@ faq:
   <li><span class="k">成田</span><div><b>だし茶漬け えん 成田空港店</b><span>和食・成田空港 第1ターミナル／成田空港駅 徒歩2分</span></div></li>
   <li><span class="k">静岡</span><div><b>炭焼きレストランさわやか 静岡インター店</b><span>静岡市駿河区</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="hinatazaka46-tsukiji-uniko,hinatazaka46-dashi-chazuke-en-narita,hinatazaka46-sawayaka-shizuoka" %}
 
 <h2>はじめて見るならこの1本</h2>
 <p>日向坂46 OFFICIAL YouTube CHANNELの公式MVです（タップすると再生します）。</p>

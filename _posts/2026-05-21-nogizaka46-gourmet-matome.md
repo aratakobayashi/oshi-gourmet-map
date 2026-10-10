@@ -39,12 +39,8 @@ shop_ids:
   - nogizaka46-84c802d9-
   - nogizaka46-85374eb4-
   - nogizaka46-bfe83dcc-
-  - nogizaka46-hanagetsudo
-  - nogizaka46-juseian
-  - nogizaka46-ginza-sato-yosuke
-  - nogizaka46-bondy-jimbocho
   - nogizaka46-9b697f1b-
-  - nogizaka46-ffa301c4-
+  - nogizaka46-d53395ac-
 faq:
   - q: "乃木坂46のお店はどのエリアに多いですか？"
     a: "この記事の30軒では神奈川県鎌倉市が7軒で最も多く、東京都の台東区（浅草）と港区（新橋・赤坂）が4軒ずつ、千代田区と愛知県名古屋市が3軒ずつです。"
@@ -155,7 +151,7 @@ faq:
   <li><span class="k">立川</span><div><b>高尾亭 立川本店</b><span>立川南駅 徒歩11分</span></div></li>
   <li><span class="k">名古屋</span><div><b>えんそば 錦1丁目店</b><span>名古屋城駅 徒歩7分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-hanagetsudo,nogizaka46-juseian,nogizaka46-ginza-sato-yosuke,nogizaka46-bondy-jimbocho,nogizaka46-9b697f1b-,nogizaka46-ffa301c4-" %}
+{% include inline-shop-grid.html ids="nogizaka46-3bd4b889-,nogizaka46-9b697f1b-,nogizaka46-d53395ac-" %}
 
 <h2>はじめて見るならこの2本</h2>
 <p>公式チャンネルの動画です（タップすると再生します）。</p>

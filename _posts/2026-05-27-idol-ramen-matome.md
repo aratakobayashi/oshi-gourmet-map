@@ -47,7 +47,7 @@ shop_ids:
   - nogizaka46-9f892298-
   - nogizaka46-7b18f3dd-
   - nogizaka46-ab929a12-
-  - nogizaka46-ffa301c4-
+  - nogizaka46-d53395ac-
   - nogizaka46-shinshin-
   - nogizaka46-6d41a5ca-
   - nogizaka46-241b6933-
@@ -277,7 +277,7 @@ faq:
   <li><span class="k">名古屋</span><div><b>焼きそば たつみ亭</b><span>喜多山駅 徒歩6分</span></div></li>
   <li><span class="k">岐阜</span><div><b>丸デブ 総本店</b><span>名鉄岐阜駅 徒歩14分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-e5fdf419-,nogizaka46-9f892298-,nogizaka46-241b6933-,nogizaka46-f36ca7b7-,nogizaka46-84c802d9-,nogizaka46-9be54ae5-,nogizaka46-shinshin-,nogizaka46-ab929a12-,nogizaka46-ffa301c4-,nogizaka46-23d7a99a-,nogizaka46-7b18f3dd-" %}
+{% include inline-shop-grid.html ids="nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-e5fdf419-,nogizaka46-9f892298-,nogizaka46-241b6933-,nogizaka46-f36ca7b7-,nogizaka46-84c802d9-,nogizaka46-9be54ae5-,nogizaka46-shinshin-,nogizaka46-ab929a12-,nogizaka46-d53395ac-,nogizaka46-23d7a99a-,nogizaka46-7b18f3dd-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>公式チャンネルの動画から、ラーメンが主役の4本を選びました（タップすると再生します）。</p>

@@ -1,7 +1,7 @@
 ---
 layout: redirect
 shop_id: "nogizaka46-ffa301c4-"
-redirect_to: "/groups/nogizaka46/"
-redirect_label: "乃木坂46のお店一覧"
+redirect_to: "/shops/nogizaka46-d53395ac/"
+redirect_label: "路麺えんそば錦一丁目店のページ"
 sitemap: false
 ---

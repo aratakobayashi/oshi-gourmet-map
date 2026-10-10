@@ -37,10 +37,8 @@ shop_ids:
   - notme-55b10f69-202408
   - notme-9293ad0d-202408
   - notme-897b73f1-202408
-  - notme-6b8de214-202408
   - notme-78097fab-202408
   - notme-bb3bf1c0-202408
-  - notme-fc500dbe-202408
   - notme-c1966798-202408
   - notme-9f107f1a-202408
   - notme-46637985-202408
@@ -50,7 +48,6 @@ shop_ids:
   - notme-720f6f5f-202412
   - notme-sanrio_cafe-202408
   - notme-mocha-202408
-  - notme-dog_cat_joker_avenue-202408
 faq:
   - q: "≠MEのグルメ動画はどこで見られますか？"
     a: "おもに、=LOVE・≠ME・≒JOY合同の公式YouTubeチャンネル「イコラブ ノイミー ニアジョイ チャンネル」で公開されています。沖縄・熱海・浅草のVlogと焼肉の回は、鈴木瞳美さんの個人チャンネル「わたしはすずき。」の動画です。"
@@ -132,7 +129,7 @@ faq:
   <li><span class="k">2023.6</span><div><b>揚げもみじの紅葉堂 弐番屋・あなごめし ふじたや</b><span>【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】（櫻井もも・永田詩央里・本田珠由記）</span></div></li>
   <li><span class="k">2023.4</span><div><b>すごう農園直売所「ピアッツァ」</b><span>【ご褒美】千葉でいちご狩りに！100個食べれるか挑戦！？（落合希来里・冨田菜々風・本田珠由記）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="notme-41f4ca0a-202408,notme-f0a8c1b8-202408,notme-4c1956bb-202408,notme-55b10f69-202408,notme-9293ad0d-202408,notme-897b73f1-202408,notme-6b8de214-202408,notme-78097fab-202408,notme-bb3bf1c0-202408,notme-fc500dbe-202408,notme-c1966798-202408,notme-9f107f1a-202408,notme-46637985-202408,notme-2d3e71a8-202408" %}
+{% include inline-shop-grid.html ids="notme-41f4ca0a-202408,notme-f0a8c1b8-202408,notme-4c1956bb-202408,notme-55b10f69-202408,notme-9293ad0d-202408,notme-897b73f1-202408,notme-78097fab-202408,notme-bb3bf1c0-202408,notme-c1966798-202408,notme-9f107f1a-202408,notme-46637985-202408,notme-2d3e71a8-202408" %}
 
 <h2>東京で：かき氷・釣り・忘年会・サンリオカフェ</h2>
 <ul class="pf-works">
@@ -143,7 +140,7 @@ faq:
   <li><span class="k">2020.11</span><div><b>猫カフェ MOCHA 原宿店</b><span>【もふもふ】猫カフェデートしてきました【癒し】（菅波美玲・谷崎早耶）</span></div></li>
   <li><span class="k">2024.7</span><div><b>DOG&amp;CAT JOKER二子玉川 -AVENUE&amp;CARE-</b><span>大好きなワンちゃんとお散歩 かわいすぎました【うしみと萌子】【ボストン・テリア】（蟹沢萌子）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="notme-304ed516-202411,notme-4bae4322-202505,notme-720f6f5f-202412,notme-sanrio_cafe-202408,notme-mocha-202408,notme-dog_cat_joker_avenue-202408" %}
+{% include inline-shop-grid.html ids="notme-304ed516-202411,notme-4bae4322-202505,notme-720f6f5f-202412,notme-sanrio_cafe-202408,notme-mocha-202408" %}
 <p class="note">動画のタイトルはYouTubeの動画ページのものです（絵文字は省きました）。左の数字は動画の公開年月。出演メンバーは公式チャンネルの動画の説明欄より。</p>
 
 <h2>はじめて見るならこの4本</h2>

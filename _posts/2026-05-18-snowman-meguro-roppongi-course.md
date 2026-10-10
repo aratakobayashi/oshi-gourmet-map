@@ -16,7 +16,7 @@ summary:
   - "2023年7月から2026年3月までの6本。注文したものもデータから載せています"
 shop_ids:
   - snowman-mipig-cafe-meguro
-  - snowman-ad3a68f9-202506
+  - snowman-donabe-gohan-ikushika
   - snowman-yakuzenya-ebisu
   - snowman-brettz-cafe-omotesando
   - snowman-futago-roppongi
@@ -84,7 +84,7 @@ faq:
   <li><span class="k">2023年<br>7月</span><div><b>mipig cafe 目黒店</b><span>【可愛いブタちゃんと触れ合い】そこには癒し愛しかない／目黒区目黒4丁目（目黒駅）</span></div></li>
   <li><span class="k">2025年<br>6月</span><div><b>土鍋ご飯いくしか 中目黒</b><span>【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節／唐揚げ、豚の角煮、サバの味噌煮定食、西京焼き定食、牛たた定食、から揚げの揚げ浸し定食（中目黒駅 徒歩5分）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-mipig-cafe-meguro,snowman-ad3a68f9-202506" %}
+{% include inline-shop-grid.html ids="snowman-mipig-cafe-meguro,snowman-donabe-gohan-ikushika" %}
 
 <h2>恵比寿・表参道：薬膳とガレット</h2>
 <p>薬膳は岩本照さんのpresents。ガレットはラウールさんのセレクトで、公式の概要欄によると、パリで食べてハマったそば粉のクレープです。</p>

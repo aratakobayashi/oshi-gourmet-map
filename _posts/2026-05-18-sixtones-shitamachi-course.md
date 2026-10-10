@@ -17,9 +17,6 @@ summary:
 shop_ids:
   - sixtones-dintaifung-soramachi
   - sixtones-daruma-soramachi
-  - sixtones-grill-grand-asakusa
-  - sixtones-tomiya-asakusa
-  - sixtones-shichifuku-jin-ryogoku
   - sixtones-c2272dd2-201906
 faq:
   - q: "SixTONESが忘年会をしたお店はどこですか？"
@@ -101,7 +98,7 @@ faq:
   <li><span class="k">確認中</span><div><b>ちゃんこ 霧島</b><span>墨田区両国（データの登録）</span></div></li>
   <li><span class="k">確認中</span><div><b>もんじゃ まぐろ家</b><span>中央区月島（データの登録）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-grill-grand-asakusa,sixtones-tomiya-asakusa,sixtones-shichifuku-jin-ryogoku,sixtones-c2272dd2-201906" %}
+{% include inline-shop-grid.html ids="sixtones-c2272dd2-201906" %}
 
 <h2>エリアで巡るなら</h2>
 <ul>

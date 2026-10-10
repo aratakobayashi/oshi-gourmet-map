@@ -55,12 +55,7 @@ def main():
             for k in o['fields']:
                 s.pop(k, None)
         elif a == 'remove':
-            keep = o.get('keep')
-            if keep and keep in by:
-                k = by[keep]
-                for m in s.get('members') or []:
-                    if m not in (k.get('members') or []):
-                        k.setdefault('members', []).append(m)
+            keep = o.get('keep')  # 残す店に足す項目（members など）は set で指定する
             removed.append((s, keep))
             del by[o['id']]
         n[a] += 1

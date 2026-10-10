@@ -55,7 +55,7 @@ shop_ids:
   - kodoku_no_gurume-7134368f-
   - kodoku_no_gurume-5b08f7e4-
   - kodoku_no_gurume-43db0070-
-  - snowman-a9a7c2c5-202502
+  - snowman-iseyashokudo-yodobashi
   - yonino-sumo-chaya-terao
   - yonino-anume-azabujuban
   - yonino-nakayoshi-ebisu
@@ -75,12 +75,8 @@ shop_ids:
   - sixtones-houtou-fudo-higashikoji
   - sixtones-b5dfc98a-202310
   - sixtones-b647a3f1-202204
-  - sixtones-shichifuku-jin-ryogoku
   - sixtones-enoshima-kaisaku
   - sixtones-kamakura-mushanan
-  - sixtones-muromachi-tanakaya
-  - sixtones-yakitoritei-nakameguro
-  - sixtones-tomiya-asakusa
   - snowman-donabe-gohan-ikushika
   - snowman-yakuzenya-ebisu
   - snowman-unagi-kawamatu-higashikurume
@@ -88,7 +84,6 @@ shop_ids:
   - snowman-wagaya-shokudo-kasai
   - snowman-kitchen-nanagoku-waseda
   - snowman-kokonotsu-kitasenju
-  - snowman-ad3a68f9-202506
   - equal_love-cb7485f1-202408
   - equal_love-22eda348-202408
   - equal_love-93d5e98f-202408
@@ -100,7 +95,6 @@ shop_ids:
   - equal_love-4151a4c5-202408
   - equal_love-360fc2f3-202408
   - nogizaka46-49c01557-
-  - nogizaka46-ginza-sato-yosuke
   - heysayjump-e23d17b2-20160720
   - heysayjump-a4fe57cb-20160518
   - heysayjump-448a0ff6-20180825
@@ -109,7 +103,6 @@ shop_ids:
   - neajoy-0ccad40f-202408
   - notme-46637985-202408
   - ginga-cb38ce4c-202406
-  - hinatazaka46-dashi-chazuke-en-narita
   - heysayjump-aad59291-20160414
 faq:
   - q: "アイドル・芸能人が行った和食のお店は、どのグループが多いですか？"
@@ -171,7 +164,7 @@ faq:
   <li><span class="k">2022<br>7月</span><div><b>おにぎり ぼんご</b><span>SixTONES【SixTONES】最強おにぎりの具を考えてみたら…ワチャワチャした</span></div></li>
   <li><span class="k">2019<br>10月</span><div><b>おにぎり ぼんご 大塚本店</b><span>乃木坂46 日本テレビ「乃木坂どこへ」（日テレ公式チャンネル）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-sumo-chaya-terao,sixtones-shichifuku-jin-ryogoku,kodoku_no_gurume-6d621f1f-,sixtones-onigiri-bongo,nogizaka46-84891d52-" %}
+{% include inline-shop-grid.html ids="yonino-sumo-chaya-terao,kodoku_no_gurume-6d621f1f-,sixtones-onigiri-bongo,nogizaka46-84891d52-" %}
 
 <div class="pf-quote"><p>両国駅のまわりだけで、3組のちゃんこが食べ比べられます。よにのちゃんねるは「朝飯」の回で、朝からちゃんこでした。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -203,7 +196,7 @@ faq:
   <li><span class="k">2022<br>2月</span><div><b>そば街角（那覇）</b><span>=LOVE【vlog】お仕事で沖縄に行かせていただきました（みりにゃと申します。）</span></div></li>
   <li><span class="k">2023<br>8月</span><div><b>銀座 佐藤養助</b><span>乃木坂46「絶品うどんを食す」</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-muromachi-tanakaya,equal_love-a1e545b6-202408,snowman-sarashina-horii-motoazabu,snowman-07838f1d-20250505,kamenashi-c3b4e8da-202408,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-5d0b703c-202604,sixtones-b647a3f1-202204,sixtones-houtou-fudo-higashikoji,equal_love-323e7d79-202408,equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408,nogizaka46-ginza-sato-yosuke" %}
+{% include inline-shop-grid.html ids="equal_love-a1e545b6-202408,snowman-sarashina-horii-motoazabu,snowman-07838f1d-20250505,kamenashi-c3b4e8da-202408,yonino-sake-soba-chirin,yonino-ishiusubiki-soba-azuma-karuizawa,yonino-5d0b703c-202604,sixtones-b647a3f1-202204,sixtones-houtou-fudo-higashikoji,equal_love-323e7d79-202408,equal_love-ab8c67a3-202505,equal_love-a8a055cd-202408" %}
 <p>くるくるわんこは、なにわ男子の回（<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン・麺のまとめ</a>に掲載）にも登場しています。</p>
 
 <h2>よにのちゃんねる：朝の定食</h2>
@@ -244,7 +237,7 @@ faq:
   <li><span class="k">2025<br>4月</span><div><b>江の島 貝作</b><span>SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>鎌倉 無（むしゃ）</b><span>SixTONES【サマソニ直後に夏ドライブ】色々語りたいタイミングなんだよね!?</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-a9a7c2c5-202502,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-ad3a68f9-202506,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-tomiya-asakusa,sixtones-yakitoritei-nakameguro,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan" %}
+{% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-iseyashokudo-yodobashi,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan" %}
 
 <h2>=LOVE・≠ME・≒JOY：旅先の和食</h2>
 <ul class="pf-works">
@@ -268,7 +261,7 @@ faq:
   <li><span class="k">2024<br>6月</span><div><b>和食いぶり別邸 新橋店</b><span>中丸雄一 銀河チャンネル「HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった」／金目鯛と仙台牛の銘々会席</span></div></li>
   <li><span class="k">2024<br>6月</span><div><b>だし茶漬け えん 成田空港店</b><span>日向坂46「海外出発前のラスト日本食」</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="heysayjump-aad59291-20160414,heysayjump-a4fe57cb-20160518,heysayjump-e23d17b2-20160720,heysayjump-448a0ff6-20180825,nogizaka46-49c01557-,ginga-cb38ce4c-202406,hinatazaka46-dashi-chazuke-en-narita" %}
+{% include inline-shop-grid.html ids="heysayjump-aad59291-20160414,heysayjump-a4fe57cb-20160518,heysayjump-e23d17b2-20160720,heysayjump-448a0ff6-20180825,nogizaka46-49c01557-,ginga-cb38ce4c-202406" %}
 
 <h2>孤独のグルメ：定食と、旅先の和食</h2>
 <p>五郎さんが訪れた27軒（両国の大内と浜松の松の家は上に掲載）。「SP」はスペシャル回（年は推しグルメ巡礼MAPのデータより）。</p>
