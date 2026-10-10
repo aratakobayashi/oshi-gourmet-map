@@ -16,14 +16,6 @@
   "url": "https://www.hotpepper.jp/strJ001110705/?vos=nhppalsa000016"
  },
  {
-  "id": "nogizaka46-juseian",
-  "name": "寿清庵",
-  "candidate": "寿清庵 茶室 FOCUS蔵前",
-  "score": 0.8,
-  "dist_m": 1197,
-  "url": "https://www.hotpepper.jp/strJ001268153/?vos=nhppalsa000016"
- },
- {
   "id": "yonino-4d3c0923-202409",
   "name": "ル・パン・コティディアン",
   "candidate": "ル・パン・コティディアン Le Pain Quotidien 芝公園店",
@@ -40,12 +32,12 @@
   "url": "https://www.hotpepper.jp/strJ003388892/?vos=nhppalsa000016"
  },
  {
-  "id": "equal_love-1611bac7-202408",
-  "name": "錦市場",
-  "candidate": "丼と手巻き 玄海 錦市場店",
+  "id": "kamaitachi-380c2d89-",
+  "name": "もつ焼のんき",
+  "candidate": "もつ焼 のんき 綾瀬店",
   "score": 0.8,
-  "dist_m": 662,
-  "url": "https://www.hotpepper.jp/strJ004492028/?vos=nhppalsa000016"
+  "dist_m": 1493,
+  "url": "https://www.hotpepper.jp/strJ001226456/?vos=nhppalsa000016"
  },
  {
   "id": "kodoku_no_gurume-778413dd-",
@@ -78,14 +70,6 @@
   "score": 1.0,
   "dist_m": 2295,
   "url": "https://www.hotpepper.jp/strJ000678127/?vos=nhppalsa000016"
- },
- {
-  "id": "kodoku_no_gurume-949508cf-",
-  "name": "眞実一路",
-  "candidate": "麻婆豆腐専門酒家 眞実一路",
-  "score": 0.8,
-  "dist_m": 1532,
-  "url": "https://www.hotpepper.jp/strJ004402265/?vos=nhppalsa000016"
  },
  {
   "id": "kodoku_no_gurume-84b06962-",
@@ -168,6 +152,14 @@
   "url": "https://www.hotpepper.jp/strJ000119983/?vos=nhppalsa000016"
  },
  {
+  "id": "shiori-2f2eed85-20250425",
+  "name": "炭火焼アジアン酒場 アローイ兄弟",
+  "candidate": "アローイ兄弟",
+  "score": 0.8,
+  "dist_m": 1,
+  "url": "https://www.hotpepper.jp/strJ003829824/?vos=nhppalsa000016"
+ },
+ {
   "id": "shiori-97aca417-20260331",
   "name": "ラッキーピエロ",
   "candidate": "ラッキーピエロ 五稜郭公園前店",
@@ -184,6 +176,30 @@
   "url": "https://www.hotpepper.jp/strJ001275116/?vos=nhppalsa000016"
  },
  {
+  "id": "shiori-a5bba78c-20230903",
+  "name": "思い出横丁",
+  "candidate": "新宿思い出横丁 ばんしゃく家",
+  "score": 0.8,
+  "dist_m": 18,
+  "url": "https://www.hotpepper.jp/strJ000006161/?vos=nhppalsa000016"
+ },
+ {
+  "id": "shiori-4119a061-20220305",
+  "name": "赤札屋",
+  "candidate": "赤札屋 赤坂店",
+  "score": 0.8,
+  "dist_m": 5,
+  "url": "https://www.hotpepper.jp/strJ000231924/?vos=nhppalsa000016"
+ },
+ {
+  "id": "shiori-af65a7dc-20211105",
+  "name": "横浜西口一番街",
+  "candidate": "野毛焼きそばセンターまるき 横浜西口一番街店",
+  "score": 0.8,
+  "dist_m": 4,
+  "url": "https://www.hotpepper.jp/strJ003517053/?vos=nhppalsa000016"
+ },
+ {
   "id": "shiori-57dd9722-20211105",
   "name": "沼田",
   "candidate": "もつ煮込み専門店 沼田 横浜西口一番街店",
@@ -192,12 +208,44 @@
   "url": "https://www.hotpepper.jp/strJ003959074/?vos=nhppalsa000016"
  },
  {
+  "id": "shiori-d49febf1-20211105",
+  "name": "しげ吉",
+  "candidate": "しげ吉 青葉台店",
+  "score": 0.8,
+  "dist_m": 6,
+  "url": "https://www.hotpepper.jp/strJ001057438/?vos=nhppalsa000016"
+ },
+ {
+  "id": "shiori-5fd9a689-20211105",
+  "name": "はなたれ",
+  "candidate": "魚と酒はなたれ 横浜東口店",
+  "score": 0.8,
+  "dist_m": 86,
+  "url": "https://www.hotpepper.jp/strJ000762476/?vos=nhppalsa000016"
+ },
+ {
+  "id": "nogizaka46-coconeel-",
+  "name": "COCONEEL",
+  "candidate": "ココニール COCONEEL 新宿",
+  "score": 0.8,
+  "dist_m": 2,
+  "url": "https://www.hotpepper.jp/strJ000001512/?vos=nhppalsa000016"
+ },
+ {
   "id": "nogizaka46-644a3895-",
   "name": "味楽",
   "candidate": "味楽",
   "score": 1.0,
   "dist_m": 2831,
   "url": "https://www.hotpepper.jp/strJ004698736/?vos=nhppalsa000016"
+ },
+ {
+  "id": "nogizaka46-6d7f1106-",
+  "name": "ちばチャン 海浜幕張店",
+  "candidate": "大衆酒場 ちばチャン 海浜幕張店",
+  "score": 0.8,
+  "dist_m": 3,
+  "url": "https://www.hotpepper.jp/strJ000725593/?vos=nhppalsa000016"
  },
  {
   "id": "nogizaka46-serafina_new_york-",
@@ -216,12 +264,36 @@
   "url": "https://www.hotpepper.jp/strJ000767447/?vos=nhppalsa000016"
  },
  {
+  "id": "kingprince-367cb2f4-20220903",
+  "name": "香味",
+  "candidate": "台湾料理 香味",
+  "score": 0.8,
+  "dist_m": 5,
+  "url": "https://www.hotpepper.jp/strJ000120903/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kingprince-fc0eeee2-20220903",
+  "name": "韓国農林水産大臣賞受賞 アス 下北沢店",
+  "candidate": "アス 下北沢店",
+  "score": 0.8,
+  "dist_m": 2,
+  "url": "https://www.hotpepper.jp/strJ001145308/?vos=nhppalsa000016"
+ },
+ {
   "id": "naniwa-637d6485-20201016",
   "name": "鉄板和食とワイン 萬鉄",
   "candidate": "鉄板和食とワイン 萬鉄 VIN TETSU",
   "score": 0.8,
   "dist_m": 371,
   "url": "https://www.hotpepper.jp/strJ001187459/?vos=nhppalsa000016"
+ },
+ {
+  "id": "naniwa-kamera-20220422",
+  "name": "KAMERA",
+  "candidate": "KAMERA 熟成焼売 道玄坂",
+  "score": 0.8,
+  "dist_m": 202,
+  "url": "https://www.hotpepper.jp/strJ003829570/?vos=nhppalsa000016"
  },
  {
   "id": "naniwa-nautilus-20220708",
@@ -248,6 +320,14 @@
   "url": "https://www.hotpepper.jp/strJ001266818/?vos=nhppalsa000016"
  },
  {
+  "id": "naniwa-22c5cab0-20211029",
+  "name": "焼肉ストーリー",
+  "candidate": "焼肉ストーリー 水道橋店",
+  "score": 0.8,
+  "dist_m": 153,
+  "url": "https://www.hotpepper.jp/strJ001257982/?vos=nhppalsa000016"
+ },
+ {
   "id": "snowman-ginza_cafe-20260328",
   "name": "GINZA CAFE",
   "candidate": "GINZA CAFE(ギンザ カフェ)",
@@ -272,6 +352,46 @@
   "url": "https://www.hotpepper.jp/strJ000002238/?vos=nhppalsa000016"
  },
  {
+  "id": "snowman-e551e03d-20251229",
+  "name": "中日ビル",
+  "candidate": "名古屋コーチン鉄板酒場とりしげ 中日ビル店",
+  "score": 0.8,
+  "dist_m": 12,
+  "url": "https://www.hotpepper.jp/strJ003941759/?vos=nhppalsa000016"
+ },
+ {
+  "id": "snowman-the_apollo-20250709",
+  "name": "THE APOLLO",
+  "candidate": "THE APOLLO 銀座",
+  "score": 0.8,
+  "dist_m": 214,
+  "url": "https://www.hotpepper.jp/strJ001209257/?vos=nhppalsa000016"
+ },
+ {
+  "id": "snowman-ab35bfac-20250425",
+  "name": "芝大門店",
+  "candidate": "焼肉とみひさ 芝大門店",
+  "score": 0.8,
+  "dist_m": 125,
+  "url": "https://www.hotpepper.jp/strJ001223438/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-35c71c69-20200704",
+  "name": "ごっつり",
+  "candidate": "ごっつり 浅草橋店",
+  "score": 0.8,
+  "dist_m": 45,
+  "url": "https://www.hotpepper.jp/strJ004660651/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-35b5807f-20200328",
+  "name": "ホセ・ルイス",
+  "candidate": "Jose Luis ホセルイス 渋谷スクランブルスクエア店",
+  "score": 0.8,
+  "dist_m": 278,
+  "url": "https://www.hotpepper.jp/strJ003851578/?vos=nhppalsa000016"
+ },
+ {
   "id": "arashi-79df193b-20200208",
   "name": "光春",
   "candidate": "台湾料理 光春",
@@ -286,6 +406,14 @@
   "score": 0.8,
   "dist_m": 2866,
   "url": "https://www.hotpepper.jp/strJ003916204/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-82d823db-20191207",
+  "name": "バターミルクチャネル",
+  "candidate": "バターミルクチャネル Buttermilk Channel 原宿",
+  "score": 0.8,
+  "dist_m": 210,
+  "url": "https://www.hotpepper.jp/strJ001215809/?vos=nhppalsa000016"
  },
  {
   "id": "arashi-0424b761-20191207",
@@ -304,12 +432,44 @@
   "url": "https://www.hotpepper.jp/strJ003649296/?vos=nhppalsa000016"
  },
  {
+  "id": "arashi-4000-20190817",
+  "name": "ファイヤーホール4000",
+  "candidate": "ファイヤーホール4000 五反田",
+  "score": 0.8,
+  "dist_m": 264,
+  "url": "https://www.hotpepper.jp/strJ001224683/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-2442b2c8-20190817",
+  "name": "陳家私菜",
+  "candidate": "陳家私菜 ちんかしさい 渋谷店",
+  "score": 0.8,
+  "dist_m": 291,
+  "url": "https://www.hotpepper.jp/strJ000973841/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-28689a1e-20190810",
+  "name": "アランチーノ",
+  "candidate": "アランチーノ OSAKA【個室×イタリアン】",
+  "score": 0.8,
+  "dist_m": 168,
+  "url": "https://www.hotpepper.jp/strJ003657003/?vos=nhppalsa000016"
+ },
+ {
   "id": "arashi-aca9469f-20190720",
   "name": "クールカフェ",
   "candidate": "究極の塩麹ふわとろハンバーグ クールカフェ",
   "score": 0.8,
   "dist_m": 589,
   "url": "https://www.hotpepper.jp/strJ001261941/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-f099eb39-20190720",
+  "name": "バンタイ",
+  "candidate": "THAI RESTAURANT BAN-THAI タイレストラン バンタイ",
+  "score": 0.8,
+  "dist_m": 163,
+  "url": "https://www.hotpepper.jp/strJ000103034/?vos=nhppalsa000016"
  },
  {
   "id": "arashi-816e8d42-20190713",
@@ -336,12 +496,28 @@
   "url": "https://www.hotpepper.jp/strJ001142665/?vos=nhppalsa000016"
  },
  {
+  "id": "arashi-2475aed7-20190518",
+  "name": "パイ ホリック",
+  "candidate": "Pie Holic（パイホリック）",
+  "score": 0.8,
+  "dist_m": 171,
+  "url": "https://www.hotpepper.jp/strJ003624050/?vos=nhppalsa000016"
+ },
+ {
   "id": "arashi-fa73bca1-20190427",
   "name": "ポワンタージュ",
   "candidate": "麻布十番 ポワンタージュ",
   "score": 0.8,
   "dist_m": 321,
   "url": "https://www.hotpepper.jp/strJ000103922/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-94101ee8-20190330",
+  "name": "ロマン",
+  "candidate": "カフェ ロマン JAZZ BAR&cafe ROMAN",
+  "score": 0.8,
+  "dist_m": 200,
+  "url": "https://www.hotpepper.jp/strJ000157628/?vos=nhppalsa000016"
  },
  {
   "id": "arashi-e95e8d9b-20190202",
@@ -376,12 +552,52 @@
   "url": "https://www.hotpepper.jp/strJ003941151/?vos=nhppalsa000016"
  },
  {
+  "id": "arashi-plug-20180908",
+  "name": "PLUG",
+  "candidate": "食堂PLUG",
+  "score": 0.8,
+  "dist_m": 86,
+  "url": "https://www.hotpepper.jp/strJ001127835/?vos=nhppalsa000016"
+ },
+ {
   "id": "arashi-5531a449-20180804",
   "name": "萬福",
   "candidate": "萬福 マンプク",
   "score": 0.8,
   "dist_m": 437,
   "url": "https://www.hotpepper.jp/strJ000103150/?vos=nhppalsa000016"
+ },
+ {
+  "id": "sakurazaka46-d4d4f41d-20210920",
+  "name": "中山亭",
+  "candidate": "中山亭 ちゅうざんてい 鹿児島中央駅店",
+  "score": 0.8,
+  "dist_m": 8,
+  "url": "https://www.hotpepper.jp/strJ000602735/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kpop_enhypen-62a25897-",
+  "name": "かしわ 渋谷ヒカリエ店",
+  "candidate": "鉄板焼 お好み焼 かしわ 渋谷ヒカリエ店",
+  "score": 0.8,
+  "dist_m": 238,
+  "url": "https://www.hotpepper.jp/strJ003851854/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kpop_seventeen-be6b4ba0-",
+  "name": "天麩羅 えびのや 南森町",
+  "candidate": "えびのや 南森町",
+  "score": 0.8,
+  "dist_m": 104,
+  "url": "https://www.hotpepper.jp/strJ001157960/?vos=nhppalsa000016"
+ },
+ {
+  "id": "arashi-jose_luis-",
+  "name": "Jose Luis",
+  "candidate": "Jose Luis Karuizawa ホセルイスカルイザワ",
+  "score": 0.8,
+  "dist_m": 8,
+  "url": "https://www.hotpepper.jp/strJ004591270/?vos=nhppalsa000016"
  },
  {
   "id": "timelesz-57478bac-20250912",
@@ -392,12 +608,68 @@
   "url": "https://www.hotpepper.jp/strJ001278550/?vos=nhppalsa000016"
  },
  {
+  "id": "timelesz-cocochiyo_cafe-20251125",
+  "name": "cocochiyo cafe",
+  "candidate": "カフェオレと手作りプリンのお店 cocochiyo cafe",
+  "score": 0.8,
+  "dist_m": 88,
+  "url": "https://www.hotpepper.jp/strJ001116932/?vos=nhppalsa000016"
+ },
+ {
+  "id": "naniwa-intellctuary-20250321",
+  "name": "intellctuary",
+  "candidate": "intellctuary アンテレクチュアリー",
+  "score": 0.8,
+  "dist_m": 161,
+  "url": "https://www.hotpepper.jp/strJ003893084/?vos=nhppalsa000016"
+ },
+ {
+  "id": "naniwa-9ebc7581-20240517",
+  "name": "グランツリー武蔵小杉",
+  "candidate": "石臼挽きそば 石月 グランツリー 武蔵小杉",
+  "score": 0.8,
+  "dist_m": 126,
+  "url": "https://www.hotpepper.jp/strJ001149900/?vos=nhppalsa000016"
+ },
+ {
+  "id": "naniwa-785ed299-20230623",
+  "name": "あうるぱーく フクロウカフェ",
+  "candidate": "あうるぱーく フクロウカフェ 池袋西口",
+  "score": 0.8,
+  "dist_m": 280,
+  "url": "https://www.hotpepper.jp/strJ001162414/?vos=nhppalsa000016"
+ },
+ {
+  "id": "naniwa-alc_beef-20230428",
+  "name": "ALC BEEF キッチン",
+  "candidate": "居酒屋 ALC BEEFキッチン 川崎駅前店",
+  "score": 0.8,
+  "dist_m": 218,
+  "url": "https://www.hotpepper.jp/strJ001261224/?vos=nhppalsa000016"
+ },
+ {
   "id": "naniwa-bf845096-20230428",
   "name": "神戸牛ダイア",
   "candidate": "神戸牛ダイア 東京駅店",
   "score": 0.8,
   "dist_m": 692,
   "url": "https://www.hotpepper.jp/strJ004660722/?vos=nhppalsa000016"
+ },
+ {
+  "id": "sixtones-4ab100a4-",
+  "name": "焼肉酒家 傳々（ヤキニクシュカ デンデン）",
+  "candidate": "焼肉酒家 傳々",
+  "score": 0.8,
+  "dist_m": 166,
+  "url": "https://www.hotpepper.jp/strJ000243474/?vos=nhppalsa000016"
+ },
+ {
+  "id": "sixtones-57dde2bc-",
+  "name": "三笠会館",
+  "candidate": "揚州名菜 秦淮春 シンワイシュン 三笠会館本店",
+  "score": 0.8,
+  "dist_m": 114,
+  "url": "https://www.hotpepper.jp/strJ000229363/?vos=nhppalsa000016"
  },
  {
   "id": "sixtones-c1965cb5-",
@@ -416,12 +688,76 @@
   "url": "https://www.hotpepper.jp/strJ003716019/?vos=nhppalsa000016"
  },
  {
+  "id": "sixtones-a8a4e092-",
+  "name": "築地場外市場",
+  "candidate": "まぐろや黒銀 築地場外市場本店",
+  "score": 0.8,
+  "dist_m": 114,
+  "url": "https://www.hotpepper.jp/strJ001195517/?vos=nhppalsa000016"
+ },
+ {
+  "id": "nogizaka46-b7df1d2f-",
+  "name": "宇都宮みんみん",
+  "candidate": "宇都宮みんみん 本店",
+  "score": 0.8,
+  "dist_m": 196,
+  "url": "https://www.hotpepper.jp/strJ000102295/?vos=nhppalsa000016"
+ },
+ {
+  "id": "nogizaka46-9668cbf0-",
+  "name": "二条市場",
+  "candidate": "札幌二条市場 じんぎすかんクラブ",
+  "score": 0.8,
+  "dist_m": 39,
+  "url": "https://www.hotpepper.jp/strJ004591690/?vos=nhppalsa000016"
+ },
+ {
   "id": "nogizaka46-d86bd495-",
   "name": "ケニーズハウスカフェ伊豆高原本店",
   "candidate": "ケニーズハウスカフェ伊豆高原本店",
   "score": 1.0,
   "dist_m": 2419,
   "url": "https://www.hotpepper.jp/strJ002654009/?vos=nhppalsa000016"
+ },
+ {
+  "id": "nogizaka46-594b5aa3-",
+  "name": "ひろめ市場",
+  "candidate": "司食堂 ひろめ市場店",
+  "score": 0.8,
+  "dist_m": 73,
+  "url": "https://www.hotpepper.jp/strJ001233529/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kattun-68bc5766-",
+  "name": "寿司 まぐろ問屋恵み ハラカド店",
+  "candidate": "まぐろ問屋 恵み ハラカド店",
+  "score": 0.8,
+  "dist_m": 11,
+  "url": "https://www.hotpepper.jp/strJ004025852/?vos=nhppalsa000016"
+ },
+ {
+  "id": "agroup-94c8ca88-",
+  "name": "牛牛 西麻布 総本店（ぎゅうぎゅう）",
+  "candidate": "牛牛 西麻布 総本店",
+  "score": 0.8,
+  "dist_m": 2,
+  "url": "https://www.hotpepper.jp/strJ001098601/?vos=nhppalsa000016"
+ },
+ {
+  "id": "agroup-ryu_ryu_primo-",
+  "name": "RYU-RYU Primo（リュリュプリモ）",
+  "candidate": "リュリュプリモ RYU‐RYU Primo",
+  "score": 0.95,
+  "dist_m": 4,
+  "url": "https://www.hotpepper.jp/strJ000496099/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kingprince-bellas_cupcakes-",
+  "name": "Bellas Cupcakes",
+  "candidate": "ベラズカップケーキ Bellas Cupcakes",
+  "score": 0.8,
+  "dist_m": 7,
+  "url": "https://www.hotpepper.jp/strJ001266726/?vos=nhppalsa000016"
  },
  {
   "id": "kingprince-7759dc7a-",
@@ -432,12 +768,44 @@
   "url": "https://www.hotpepper.jp/strJ003388502/?vos=nhppalsa000016"
  },
  {
+  "id": "kingprince-39940e1c-",
+  "name": "鮨処木はら（すしどころきはら）",
+  "candidate": "鮨処 木はら",
+  "score": 0.8,
+  "dist_m": 6,
+  "url": "https://www.hotpepper.jp/strJ000100345/?vos=nhppalsa000016"
+ },
+ {
   "id": "kingprince-a5e65145-",
   "name": "牡蠣海鮮　かいり",
   "candidate": "牡蠣貝鮮 かいり 渋谷店",
   "score": 0.6,
   "dist_m": 126,
   "url": "https://www.hotpepper.jp/strJ001143843/?vos=nhppalsa000016"
+ },
+ {
+  "id": "equal_love-0c9fa5e4-20250801",
+  "name": "麻布台ヒルズ",
+  "candidate": "ペルー料理 ALDO麻布台ヒルズ店",
+  "score": 0.8,
+  "dist_m": 72,
+  "url": "https://www.hotpepper.jp/strJ004067036/?vos=nhppalsa000016"
+ },
+ {
+  "id": "equal_love-1567b0c3-20250607",
+  "name": "横浜ポルタ",
+  "candidate": "吾照里 オジョリ 横浜 ポルタ店",
+  "score": 0.8,
+  "dist_m": 169,
+  "url": "https://www.hotpepper.jp/strJ000768906/?vos=nhppalsa000016"
+ },
+ {
+  "id": "equal_love-a425d725-20240814",
+  "name": "御殿場プレミアム・アウトレット",
+  "candidate": "静岡ご当地グルメ屋台 御殿場プレミアムアウトレット店",
+  "score": 0.8,
+  "dist_m": 297,
+  "url": "https://www.hotpepper.jp/strJ001263795/?vos=nhppalsa000016"
  },
  {
   "id": "notme-47fde15e-20240813",
@@ -448,12 +816,36 @@
   "url": "https://www.hotpepper.jp/strJ000021005/?vos=nhppalsa000016"
  },
  {
+  "id": "notme-6985eb5c-20240804",
+  "name": "中座くいだおれビル",
+  "candidate": "鉄板焼き ぼんくら家+ PLUS 中座くいだおれビル店",
+  "score": 0.8,
+  "dist_m": 73,
+  "url": "https://www.hotpepper.jp/strJ004050087/?vos=nhppalsa000016"
+ },
+ {
   "id": "kpop_twice-6b03ad4d-",
   "name": "トーホーベーカリー",
   "candidate": "トーホーベーカリー Toho BAKERY",
   "score": 0.8,
   "dist_m": 494,
   "url": "https://www.hotpepper.jp/strJ000949197/?vos=nhppalsa000016"
+ },
+ {
+  "id": "travisjapan-c6b35fc4-",
+  "name": "中華街餃子館",
+  "candidate": "中華街餃子館 KOKI",
+  "score": 0.8,
+  "dist_m": 1,
+  "url": "https://www.hotpepper.jp/strJ001203822/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kanjani-bc91617f-",
+  "name": "若駒",
+  "candidate": "大漁寿し 若駒",
+  "score": 0.8,
+  "dist_m": 5,
+  "url": "https://www.hotpepper.jp/strJ000100398/?vos=nhppalsa000016"
  },
  {
   "id": "heysayjump-mushroom_tokyo-",
@@ -496,12 +888,28 @@
   "url": "https://www.hotpepper.jp/strJ001291775/?vos=nhppalsa000016"
  },
  {
+  "id": "west-f167c5af-",
+  "name": "餃子専門 丸虎",
+  "candidate": "餃子専門 丸虎 MARCO",
+  "score": 0.8,
+  "dist_m": 141,
+  "url": "https://www.hotpepper.jp/strJ001208403/?vos=nhppalsa000016"
+ },
+ {
   "id": "west-963-",
   "name": "963",
   "candidate": "ラーメンバー 963",
   "score": 0.8,
   "dist_m": 879,
   "url": "https://www.hotpepper.jp/strJ000761237/?vos=nhppalsa000016"
+ },
+ {
+  "id": "west-ribayon_attack-",
+  "name": "RIBAYON ATTACK",
+  "candidate": "RIBAYON ATTACK リバヨンアタック OVOL日本橋ビル",
+  "score": 0.8,
+  "dist_m": 62,
+  "url": "https://www.hotpepper.jp/strJ001202040/?vos=nhppalsa000016"
  },
  {
   "id": "west-a8058eb0",
@@ -520,12 +928,76 @@
   "url": "https://www.hotpepper.jp/strJ001277480/?vos=nhppalsa000016"
  },
  {
+  "id": "52c97668",
+  "name": "景徳鎮",
+  "candidate": "景徳鎮 けいとくちん 新館",
+  "score": 0.8,
+  "dist_m": 62,
+  "url": "https://www.hotpepper.jp/strJ000763073/?vos=nhppalsa000016"
+ },
+ {
+  "id": "dc3a86f8",
+  "name": "512 CAFE & GRILL",
+  "candidate": "512 CAFE&GRILL 六本木ミッドタウン前",
+  "score": 0.8,
+  "dist_m": 28,
+  "url": "https://www.hotpepper.jp/strJ000796565/?vos=nhppalsa000016"
+ },
+ {
   "id": "93e70793",
   "name": "トネリコ",
   "candidate": "ビストロ トネリコ 池ノ上",
   "score": 0.8,
   "dist_m": 653,
   "url": "https://www.hotpepper.jp/strJ001203317/?vos=nhppalsa000016"
+ },
+ {
+  "id": "2e7fec09",
+  "name": "小川藤",
+  "candidate": "うなぎ 小川藤",
+  "score": 0.8,
+  "dist_m": 3,
+  "url": "https://www.hotpepper.jp/strJ000182252/?vos=nhppalsa000016"
+ },
+ {
+  "id": "421545c3",
+  "name": "深川冨士見",
+  "candidate": "屋形船 深川 冨士見",
+  "score": 0.8,
+  "dist_m": 0,
+  "url": "https://www.hotpepper.jp/strJ000232178/?vos=nhppalsa000016"
+ },
+ {
+  "id": "f2f04416",
+  "name": "THE BAGUS PLACE",
+  "candidate": "THE BAGUS PLACE バグースプレイス",
+  "score": 0.8,
+  "dist_m": 10,
+  "url": "https://www.hotpepper.jp/strJ000955112/?vos=nhppalsa000016"
+ },
+ {
+  "id": "af1377cf",
+  "name": "海ぼうず",
+  "candidate": "銚子近海産 旬の地魚料理と美味しい地酒の店 海ぼうず",
+  "score": 0.8,
+  "dist_m": 4,
+  "url": "https://www.hotpepper.jp/strJ000203853/?vos=nhppalsa000016"
+ },
+ {
+  "id": "1f3ce9cf",
+  "name": "麺屋 ようすけ",
+  "candidate": "麺屋ようすけ 田島町",
+  "score": 0.8,
+  "dist_m": 8,
+  "url": "https://www.hotpepper.jp/strJ001030918/?vos=nhppalsa000016"
+ },
+ {
+  "id": "kpop_straykids-b6809bca-",
+  "name": "さくら亭",
+  "candidate": "原宿 さくら亭",
+  "score": 0.8,
+  "dist_m": 184,
+  "url": "https://www.hotpepper.jp/strJ000000652/?vos=nhppalsa000016"
  },
  {
   "id": "kpop_straykids-7e49b046-",
