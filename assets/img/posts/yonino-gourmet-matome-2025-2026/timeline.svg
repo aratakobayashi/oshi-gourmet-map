@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1150" width="420" height="1150" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="1150" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">よにのグルメ年表</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
+<line x1="86" y1="88" x2="86" y2="1124" stroke="#e8537a" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="107" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="88" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">挽肉と米 渋谷</text>
+<text x="118" y="134" font-size="12.5" fill="#e8537a">#408【ゲスト!!】凄い人が来た日</text>
+<text x="70" y="196" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="213" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="191" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="172" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="196" font-size="16" font-weight="800" fill="#241F1A">Paul Bassett 新宿</text>
+<text x="118" y="218" font-size="12.5" fill="#e8537a">#422 【ドライブ!!】ダラダラと…ありが</text>
+<text x="118" y="236" font-size="12.5" fill="#e8537a">とうございますの日</text>
+<text x="70" y="298" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="315" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="293" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="274" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="298" font-size="16" font-weight="800" fill="#241F1A">400℃ PIZZA TOKYO</text>
+<text x="118" y="320" font-size="12.5" fill="#e8537a">#431【朝食!!】やまだとざーぴーな日</text>
+<text x="70" y="382" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="399" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="377" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="358" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="382" font-size="16" font-weight="800" fill="#241F1A">鮨文</text>
+<text x="118" y="404" font-size="12.5" fill="#e8537a">#464【朝飯!!】シースの日</text>
+<text x="70" y="466" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="483" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="461" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="442" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="466" font-size="16" font-weight="800" fill="#241F1A">ピーター・ルーガー・ステーキハ…</text>
+<text x="118" y="488" font-size="12.5" fill="#e8537a">#468 【朝飯!!】ははははは、、、の日</text>
+<text x="70" y="550" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="567" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="545" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="526" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="550" font-size="16" font-weight="800" fill="#241F1A">しゃぶしゃぶ だるま</text>
+<text x="118" y="572" font-size="12.5" fill="#e8537a">#476【朝食!!】卍奢りの日</text>
+<text x="70" y="634" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="651" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="629" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="610" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="634" font-size="16" font-weight="800" fill="#241F1A">一蘭 中野店</text>
+<text x="118" y="656" font-size="12.5" fill="#e8537a">#480【朝食!!】朝ラーだよな、、、の日</text>
+<text x="70" y="718" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="735" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="713" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="694" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="718" font-size="16" font-weight="800" fill="#241F1A">浅草もんじゃ てっぱん大吉</text>
+<text x="118" y="740" font-size="12.5" fill="#e8537a">#490【2025!!】忘年会しでた！の日</text>
+<text x="70" y="802" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="819" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="797" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="778" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="802" font-size="16" font-weight="800" fill="#241F1A">葱や平吉 渋谷宇田川町店</text>
+<text x="118" y="824" font-size="12.5" fill="#e8537a">#494【朝飯!!】山田がハマった日</text>
+<text x="70" y="886" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="903" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="881" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="862" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="886" font-size="16" font-weight="800" fill="#241F1A">赤坂 金舌</text>
+<text x="118" y="908" font-size="12.5" fill="#e8537a">#497【飯!!】どんでもない豪華な日</text>
+<text x="70" y="970" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="987" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="965" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="946" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="970" font-size="16" font-weight="800" fill="#241F1A">利尻らーめん味楽（新横浜ラーメ…</text>
+<text x="118" y="992" font-size="12.5" fill="#e8537a">#507【博物館!!】山田史上最高が出た日</text>
+<text x="70" y="1054" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="1071" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="1049" r="7" fill="#fff" stroke="#e8537a" stroke-width="4"/>
+<rect x="104" y="1030" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1054" font-size="16" font-weight="800" fill="#241F1A">ジンギスカン羊はち 三軒茶屋店</text>
+<text x="118" y="1076" font-size="12.5" fill="#e8537a">#509【朝飯!!】ジン♪ジン♪ジンギスカ〜</text>
+<text x="118" y="1094" font-size="12.5" fill="#e8537a">ン♪の日</text>
+</svg>
