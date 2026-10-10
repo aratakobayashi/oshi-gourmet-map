@@ -12,7 +12,9 @@ nearest_station: "栗林公園北口駅"
 source_video_title: "孤独のグルメ 大晦日スペシャル～食べ納め！瀬戸内出張編～"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/kagawa/A3701/A370101/37000033/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000112152/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hU3n7Agrw7F0kVllIX3gXRzXr0x.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/51/P020017951/P020017951_238.jpg"
 source_type: "drama"
 lat: 34.3425592
 lng: 134.0465338

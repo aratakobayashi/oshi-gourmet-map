@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=WXBhPBd6YBI"
 source_url: "https://kosodate-and.net/agroup-chinese-dameyo"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13290682/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003693216/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg"
 lat: 35.6618167387185
 lng: 139.73550628421
 members:

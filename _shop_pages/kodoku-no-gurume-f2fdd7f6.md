@@ -12,7 +12,9 @@ nearest_station: "御徒町駅"
 source_video_title: "孤独のグルメ Season6 第8話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13200566/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001281408/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/5oy81tlQqDcZT8uykZ7D7kcJlA1.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/58/15/P040505815/P040505815_238.jpg"
 source_type: "drama"
 lat: 35.7125805
 lng: 139.7800712

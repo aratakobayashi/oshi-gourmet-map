@@ -12,7 +12,9 @@ nearest_station: "赤坂駅 徒歩1分"
 visited_date: "2022-07-02"
 source_video_title: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼"
 group: "kinkikids"
+hotpepper_url: "https://www.hotpepper.jp/strJ001269923/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/61/P044643961/P044643961_238.jpg"
 source_type: "tv"
 lat: 35.6716786
 lng: 139.7356224

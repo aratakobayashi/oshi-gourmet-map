@@ -12,7 +12,9 @@ nearest_station: "福島駅 徒歩1分"
 source_video_title: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？"
 source_url: "https://kosodate-and.net/ren-daigo-masakado-osaka"
 group: "kingprince"
+hotpepper_url: "https://www.hotpepper.jp/strJ003473718/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/21/86/P041152186/P041152186_238.jpg"
 lat: 34.6962835
 lng: 135.4869214
 members:

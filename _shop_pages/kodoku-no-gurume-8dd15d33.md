@@ -12,7 +12,9 @@ nearest_station: "川口駅"
 source_video_title: "それぞれの孤独のグルメ 第4話「埼玉県川口市の目玉焼きハンバーグと雲丹クリームコロッケ」"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110201/11051211/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003901003/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cNFkbxa7bnbqJQaB3jrSZNjnEK7.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/90/21/P045389021/P045389021_238.jpg"
 source_type: "drama"
 lat: 35.8078228
 lng: 139.7241054

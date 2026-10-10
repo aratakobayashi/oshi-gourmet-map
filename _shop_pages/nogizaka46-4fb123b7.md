@@ -15,6 +15,8 @@ source_video_title: "ライブ翌日に岩手グルメ食べに行ってみた�
 source_video_url: "https://www.youtube.com/watch?v=BJSR_WwjQJ8"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/iwate/A0303/A030301/3004228/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000271881/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/87/P025996887/P025996887_238.jpg"
 lat: 38.928782
 lng: 141.138057
 groups:

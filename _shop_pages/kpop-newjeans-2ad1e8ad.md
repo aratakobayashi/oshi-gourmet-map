@@ -12,6 +12,8 @@ source_video_title: "ミンジ 東京vlog（2023年12月26日公開）"
 source_url: "https://moalabtxt.com/newjeans_minji_tokyovlog/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13226862/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001292391/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/88/66/P039038866/P039038866_238.jpg"
 lat: 35.6452654
 lng: 139.7573804
 members:
