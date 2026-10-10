@@ -89,6 +89,84 @@ def km(a, b):
     return 12742 * math.asin(math.sqrt(h))
 
 
+def front_matter(path):
+    t = open(path, encoding='utf-8').read()
+    if not t.startswith('---'):
+        return {}
+    import yaml
+    return yaml.safe_load(t.split('---', 2)[1]) or {}
+
+
+def build_article_rel(shops, venues, venue_nearby, by_id):
+    """記事（_posts）とガイド（_guides）ごとに、関連する記事・ガイドを並べる。
+    キーは 'p:<記事のslug>' / 'g:<ガイドのslug>'。値は {'posts': [...], 'guides': [...]}（各要素は表示用のカード）"""
+    docs = {}
+    for f in sorted(os.listdir(os.path.join(ROOT, '_posts'))):
+        if not f.endswith('.md'):
+            continue
+        fm = front_matter(os.path.join(ROOT, '_posts', f))
+        y, mo, d, name = f[:4], f[5:7], f[8:10], f[11:-3]
+        thumb = ''
+        if fm.get('thumbnail_video_id'):
+            thumb = f"https://i.ytimg.com/vi_webp/{fm['thumbnail_video_id']}/mqdefault.webp"
+        elif fm.get('thumbnail'):
+            thumb = fm['thumbnail']
+        ids = [i for i in (fm.get('shop_ids') or []) if i in by_id]
+        docs['p:' + name] = {'u': f'/articles/{y}/{mo}/{d}/{name}/', 't': fm.get('title', ''), 'img': thumb,
+                             'cat': fm.get('article_type') or '', 'group': fm.get('group') or '', 'ids': ids,
+                             'date': f'{y}-{mo}-{d}', 'kind': 'post'}
+    for f in sorted(os.listdir(os.path.join(ROOT, '_guides'))):
+        if not f.endswith('.html'):
+            continue
+        fm = front_matter(os.path.join(ROOT, '_guides', f))
+        name = f[:-5]
+        th = fm.get('thumbnail') or ''
+        if th.startswith('/') and th.endswith('.webp'):
+            th = th[:-5] + '_600.webp'
+        docs['g:' + name] = {'u': f'/guide/{jekyll_slug(name)}/', 't': fm.get('title', ''), 'img': th,
+                             'cat': fm.get('guide_category') or '', 'group': '', 'ids': [], 'kind': 'guide',
+                             'new': 1 if fm.get('checked_at') else 0}
+
+    def card(k, meta=''):
+        d = docs[k]
+        return {'u': d['u'], 't': d['t'], 'img': d['img'], 'cat': d['cat'], 'kind': d['kind'], 'meta': meta}
+
+    venue_shops = {k: set(v.get('all', [])) for k, v in venue_nearby.items()}
+    venue_shops3 = {k: set(v.get('all3', [])) for k, v in venue_nearby.items()}  # 記事→会場は3km以内だけ
+    rel = {}
+    for k, d in docs.items():
+        posts, guides = [], []
+        if d['kind'] == 'post':
+            mine = set(d['ids'])
+            score = []
+            for k2, d2 in docs.items():
+                if k2 == k or d2['kind'] != 'post':
+                    continue
+                s = (3 if d['group'] and d2['group'] == d['group'] else 0) + len(mine & set(d2['ids'])) + (1 if d2['cat'] == d['cat'] else 0)
+                score.append((-s, d2['date'] and -int(d2['date'].replace('-', '')), k2))
+            posts = [card(k2, f"{len(docs[k2]['ids'])}軒" if docs[k2]['ids'] else '') for _, _, k2 in sorted(score)[:6]]
+            # 記事のお店の近くにある会場のガイド（近くのお店が多い順）
+            vs = sorted(((len(mine & venue_shops3.get(vk, set())), vk) for vk in venues if 'g:' + vk in docs), reverse=True)
+            guides = [card('g:' + vk, f'この記事のお店{c}軒が近く') for c, vk in vs if c > 0][:3]
+        else:
+            slug = k[2:]
+            if slug in venues:
+                v0 = venues[slug]
+                near = sorted((km((v0['lat'], v0['lng']), (v['lat'], v['lng'])), vk) for vk, v in venues.items() if vk != slug and 'g:' + vk in docs)
+                guides = [card('g:' + vk, f'ここから{dk:.0f}km' if dk >= 1 else f'ここから{dk * 1000:.0f}m') for dk, vk in near[:6]]
+                mine = venue_shops.get(slug, set())
+                ps = sorted(((len(mine & set(docs[pk]['ids'])), pk) for pk in docs if pk.startswith('p:')), reverse=True)
+                posts = [card(pk, f'会場の近くのお店{c}軒') for c, pk in ps if c > 0][:4]
+            else:
+                same = [k2 for k2, d2 in docs.items() if d2['kind'] == 'guide' and k2 != k and d2['cat'] == d['cat']]
+                guides = [card(k2) for k2 in same[:6]]
+                newv = sorted((k2 for k2, d2 in docs.items() if d2['kind'] == 'guide' and d2.get('new') and d2['cat'] == 'venue'),
+                              key=lambda k2: -venue_nearby.get(k2[2:], {}).get('n', 0))
+                posts = [card(k2, f"周辺の聖地{venue_nearby.get(k2[2:], {}).get('n', 0)}軒") for k2 in newv[:4]]
+        rel[k] = {'posts': posts, 'guides': guides}
+    return rel
+
+
 def main():
     shops = json.load(open(os.path.join(ROOT, 'data', 'shops.json'), encoding='utf-8'))
     labels = json.load(open(os.path.join(DATA, 'groups.json'), encoding='utf-8'))
@@ -163,6 +241,7 @@ def main():
             detail[g]['by_genre'].setdefault(s.get('genre') or 'others', []).append(s['id'])
 
     # --- 近くの聖地グルメ（3km以内・最大6件） ---
+    by_id = {s['id']: s for s in shops}
     pts = [(s['id'], (s['lat'], s['lng'])) for s in shops if s.get('lat') and s.get('lng') and not s.get('closed')]
     # 「近くの店」に出してよい店: 住所が番地まであり、座標がほかの店と重なっていないもの。
     # 住所が「東京都文京区」までの店は区役所あたりの座標になっていて、実際の場所と離れているため
@@ -192,13 +271,23 @@ def main():
         cand = sorted((km(p, q), oid) for oid, q in pts_near
                       if abs(q[0] - p[0]) < 0.03 and abs(q[1] - p[1]) < 0.04 and km(p, q) <= 3)
         radius = 3
+        within3 = [oid for _, oid in cand]
         if len(cand) < 3:
             # 3km以内に少ない会場は10kmまで広げて近い順に出す（件数 n も10km以内の数）
             cand = sorted((km(p, q), oid) for oid, q in pts_near
                           if abs(q[0] - p[0]) < 0.1 and abs(q[1] - p[1]) < 0.12 and km(p, q) <= 10)
             radius = 10
+        gc = Counter(g for _, oid in cand for g in (by_id[oid].get('groups') or [by_id[oid].get('group')]) if g)
         venue_nearby[key] = {'n': len(cand), 'r': radius, 'ids': [{'id': oid, 'm': int(round(d * 1000, -1))} for d, oid in cand[:8]],
+                             'all': [oid for _, oid in cand], 'all3': within3,
+                             'gc': [[g, c] for g, c in gc.most_common(6)], 'lat': v['lat'], 'lng': v['lng'],
                              'hk': v['name'], 'hj': urllib.parse.quote(v['name'], encoding='cp932', errors='ignore')}
+
+    # --- 記事どうしの関連（サムネイルつきの「あわせて読みたい」用）---
+    article_rel = build_article_rel(shops, venues, venue_nearby, by_id)
+    for v in venue_nearby.values():
+        v.pop('all', None)
+        v.pop('all3', None)
 
     # --- サイト全体の数字 ---
     latest = [s['id'] for s in sorted(shops, key=recent_key, reverse=True) if not s.get('closed')][:20]
@@ -243,6 +332,7 @@ def main():
     dump('nearby.json', nearby)
     dump('group_detail.json', detail)
     dump('venue_nearby.json', venue_nearby)
+    dump('article_rel.json', article_rel)
     dump('site_stats.json', stats)
     print(f'cards {len(cards)} / groups {len(meta)} / nearby {sum(1 for v in nearby.values() if v)}件に近くの店あり')
 

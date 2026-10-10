@@ -1,4 +1,4 @@
-{%- comment -%} 店舗カード（グリッド）。引数: id / eager {%- endcomment -%}
+{%- comment -%} 店舗カード（グリッド）。引数: id / eager / m（距離 m）/ from（距離の起点の名前） {%- endcomment -%}
 {%- assign _c = site.data.shop_cards[include.id] -%}
 {%- if _c -%}
 {%- assign _gi = site.data.group_ix[_c.gr] -%}
@@ -8,6 +8,7 @@
     <p class="card__meta"><span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}</p>
     <p class="card__name">{{ _c.n }}</p>
     {%- if _c.st != '' %}<p class="card__st">{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}</p>{% endif %}
+    {%- if include.m %}<p class="card__dist">{{ include.from | default: 'ここ' }}から{% if include.m >= 1000 %}{{ include.m | divided_by: 100 | divided_by: 10.0 }}km{% else %}{{ include.m }}m{% endif %}</p>{% endif %}
   </div>
 </a>
 {%- endif -%}

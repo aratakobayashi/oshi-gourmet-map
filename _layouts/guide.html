@@ -38,11 +38,17 @@ layout: default
 
     <div class="artg__b">
       {%- if vn and vn.ids.size > 0 %}
+      {%- capture near_q %}near={{ vn.lat }},{{ vn.lng }}&amp;nl={{ venue.name | url_encode }}{% endcapture %}
       <section class="section" id="nearby">
         <h2 class="h2">{{ venue.name }}周辺の聖地グルメ</h2>
-        <p class="meta" style="margin:4px 0 8px">推しが訪れたお店のうち、会場から近い順（直線距離）。{{ vn.r | default: 3 }}km以内に{{ vn.n }}軒あります。</p>
-        <div class="minis">{% for n in vn.ids %}{% include mini.html id=n.id m=n.m %}{% endfor %}</div>
-        <p class="more-wrap"><a class="link-more" href="{{ '/shops/' | relative_url }}?view=map">地図で周辺のお店を探す →</a></p>
+        <p class="meta" style="margin:4px 0 12px">推しが訪れたお店のうち、会場から近い順（直線距離）。{{ vn.r | default: 3 }}km以内に{{ vn.n }}軒あります。</p>
+        {%- if vn.gc.size > 1 %}
+        <div class="nearby-oshi" aria-label="この周辺で推しが訪れたお店">
+          {%- for g in vn.gc %}{% assign _gx = site.data.group_ix[g[0]] %}{% if _gx %}<a class="selchip" style="--g:{{ _gx.c }}" href="{{ '/shops/' | relative_url }}?g={{ g[0] }}&amp;view=map&amp;{{ near_q }}"><span class="dot"></span>{{ _gx.l }} {{ g[1] }}軒</a>{% endif %}{% endfor %}
+        </div>
+        {%- endif %}
+        <div class="cards">{% for n in vn.ids limit: 6 %}{% include card.html id=n.id m=n.m from=venue.name %}{% endfor %}</div>
+        <p class="more-wrap"><a class="btn btn--block" href="{{ '/shops/' | relative_url }}?view=map&amp;{{ near_q }}">地図で{{ venue.name }}の近くのお店を見る（{{ vn.n }}軒）</a></p>
       </section>
       {%- endif %}
 
@@ -55,11 +61,18 @@ layout: default
       </section>
       {%- endif %}
 
-      {%- assign related = site.guides | where: "guide_category", page.guide_category %}
-      {%- if related.size > 1 %}
+      {%- assign rel_key = "g:" | append: page.slug %}
+      {%- assign rel = site.data.article_rel[rel_key] %}
+      {%- if rel.guides.size > 0 %}
       <section class="section">
-        <h2 class="h2" style="margin-bottom:12px">{{ cat.label }}のほかの記事</h2>
-        <div class="linkcards">{% for g in related %}{% unless g.url == page.url %}<a class="linkcard" href="{{ g.url | relative_url }}">{{ g.title | truncate: 46 }}<span class="cnt" aria-hidden="true">→</span></a>{% endunless %}{% endfor %}</div>
+        <h2 class="h2" style="margin-bottom:12px">{% if venue %}近くの会場のガイド{% else %}{{ cat.label }}のほかの記事{% endif %}</h2>
+        {% include rel-cards.html items=rel.guides %}
+      </section>
+      {%- endif %}
+      {%- if rel.posts.size > 0 %}
+      <section class="section">
+        <h2 class="h2" style="margin-bottom:12px">{% if venue %}会場の近くのお店が載っている特集{% else %}人気の会場ガイド{% endif %}</h2>
+        {% include rel-cards.html items=rel.posts %}
       </section>
       {%- endif %}
     </div>

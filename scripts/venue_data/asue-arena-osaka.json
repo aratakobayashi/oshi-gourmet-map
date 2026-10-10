@@ -1,0 +1,31 @@
+{
+  "slug": "asue-arena-osaka",
+  "name": "Asueアリーナ大阪",
+  "short": "Asueアリーナ",
+  "type": "arena",
+  "center": [34.65906, 135.44658],
+  "size_m": 70,
+  "stations": [
+    {"name": "Osaka Metro 朝潮橋駅", "exit": "2号A出口・約260m", "lat": 34.66061, "lng": 135.44895}
+  ],
+  "access_note": ["駅の階段が使えないときは2号B出口のスロープへ", "周辺の道路でのバスの乗り降りはできません"],
+  "seats": {
+    "note": "席の使い方は公演ごとに変わります",
+    "tiers": [
+      {"label": "固定席", "desc": "5,932席"},
+      {"label": "可動席", "desc": "1,390席。2026年3月から使用中止"},
+      {"label": "メインアリーナ（地下3階）", "desc": "フロアは77m×46m"}
+    ]
+  },
+  "prepare": {
+    "source": "Asueアリーナ大阪公式サイトの案内より",
+    "items": [
+      {"icon": "food", "title": "館内に飲食店・売店はない", "lines": ["レストランと売店は", "2024年12月に閉店"]},
+      {"icon": "smoke", "title": "館内は全面禁煙", "lines": ["吸うときは朝潮橋駅前の", "喫煙ブースへ"]},
+      {"icon": "train", "title": "朝潮橋駅から約260m", "lines": ["Osaka Metro中央線", "2号A出口から道路沿いに"]},
+      {"icon": "info", "title": "車いすは貸し出しあり", "lines": ["貸出用は2台。管理事務所で", "数に限りあり"]}
+    ]
+  },
+  "thumb": {"chips": ["駅から約260m", "固定席と可動席", "館内に売店なし", "館内は全面禁煙"], "sky": "dusk"},
+  "illust": {"forest": true}
+}

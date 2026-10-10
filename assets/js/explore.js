@@ -11,7 +11,7 @@
   var I = window.shopUI.I;
   var BYID = {}, DATA = null, loading = null, shown = PAGE, current = [];
 
-  function emptyState() { return { groups: [], members: [], prefs: [], stations: [], genres: [], q: '', sort: 'new', view: 'list' }; }
+  function emptyState() { return { groups: [], members: [], prefs: [], stations: [], genres: [], q: '', sort: 'new', view: 'list', near: null, nl: '' }; }
   var state = emptyState(), draft = null;
 
   // ---------- URL ⇄ 状態 ----------
@@ -25,6 +25,10 @@
     state.q = p.get('q') || '';
     state.sort = p.get('sort') || 'new';
     state.view = p.get('view') === 'map' ? 'map' : 'list';
+    // ?near=緯度,経度&nl=会場名 … 会場ガイドなどから「この場所の近く順」で開く
+    var nr = (p.get('near') || '').split(',').map(Number);
+    state.near = nr.length === 2 && !isNaN(nr[0]) && !isNaN(nr[1]) ? nr : null;
+    state.nl = state.near ? (p.get('nl') || '') : '';
   }
   function writeURL() {
     var p = new URLSearchParams();
@@ -36,11 +40,17 @@
     if (state.q) p.set('q', state.q);
     if (state.sort !== 'new') p.set('sort', state.sort);
     if (state.view === 'map') p.set('view', 'map');
+    if (state.near) { p.set('near', state.near.join(',')); if (state.nl) p.set('nl', state.nl); }
     if (openShop) p.set('shop', openShop);
     var s = p.toString();
     history.replaceState(history.state, '', location.pathname + (s ? '?' + s.replace(/%2C/g, ',') : ''));
   }
   function hasFilter(s) { return s.groups.length || s.prefs.length || s.stations.length || s.genres.length || s.q; }
+  function dist(r) {  // near からの距離（km）。座標のない店は後ろへ
+    if (!state.near || !r[I.la]) return 1e9;
+    var dy = (r[I.la] - state.near[0]) * 111, dx = (r[I.ln] - state.near[1]) * 111 * Math.cos(state.near[0] * Math.PI / 180);
+    return Math.sqrt(dx * dx + dy * dy);
+  }
 
   // ---------- データ ----------
   function load() {
@@ -86,6 +96,7 @@
       book: function (a, b) { return b[I.r] - a[I.r] || cmpNew(a, b); },
       name: function (a, b) { return a[I.n].localeCompare(b[I.n], 'ja'); }
     }[how] || cmpNew;
+    if (state.near) return rows.sort(function (a, b) { return a[I.x] - b[I.x] || dist(a) - dist(b); });
     return rows.sort(function (a, b) { return a[I.x] - b[I.x] || f(a, b); });
   }
 
@@ -97,6 +108,7 @@
 
   function render() {
     current = sortRows(filtered(state), state.sort);
+    $('sort').hidden = !!state.near;
     shown = PAGE;
     $('count').textContent = current.length.toLocaleString();
     drawRows();
@@ -125,6 +137,7 @@
     state.prefs.forEach(function (p) { h.push('<button type="button" class="selchip" data-rm="prefs" data-v="' + esc(p) + '">' + esc(p) + ' ×</button>'); });
     state.stations.forEach(function (p) { h.push('<button type="button" class="selchip" data-rm="stations" data-v="' + esc(p) + '">' + esc(p) + ' ×</button>'); });
     state.genres.forEach(function (g) { h.push('<button type="button" class="selchip" data-rm="genres" data-v="' + esc(g) + '">' + esc(genreLabel(g)) + ' ×</button>'); });
+    if (state.near) h.push('<button type="button" class="selchip" data-rm-near>' + esc((state.nl || 'この場所') + 'の近く順') + ' ×</button>');
     if (h.length) h.push('<button type="button" class="linkbtn" data-clear>クリア</button>');
     box.innerHTML = h.join('');
     box.hidden = !h.length;
@@ -246,6 +259,7 @@
     var t = e.target, b;
     if ((b = t.closest('[data-open]'))) { openSheet(b.dataset.open); return; }
     if ((b = t.closest('[data-rm]'))) { var a = state[b.dataset.rm]; a.splice(a.indexOf(b.dataset.v), 1); if (b.dataset.rm === 'groups') state.members = state.members.filter(function (m) { return m.indexOf(b.dataset.v + ':') !== 0; }); render(); return; }
+    if (t.closest('[data-rm-near]')) { state.near = null; state.nl = ''; render(); return; }
     if (t.closest('[data-clear]')) { var v = state.view, so = state.sort; state = emptyState(); state.view = v; state.sort = so; $('q').value = ''; render(); return; }
     if ((b = t.closest('[data-view]'))) { state.view = b.dataset.view; applyView(); writeURL(); return; }
     if (t.closest('[data-view-fab]')) { state.view = state.view === 'map' ? 'list' : 'map'; applyView(); writeURL(); window.scrollTo(0, 0); return; }
@@ -320,7 +334,7 @@
   window.addEventListener('pagehide', remember);
 
   // ---------- 地図 ----------
-  var map, cluster;
+  var map, cluster, nearMark;
   function mapOn() { return state.view === 'map' || isPC.matches; }
   function applyView() {
     var split = isPC.matches;
@@ -364,7 +378,12 @@
         cluster.addLayer(m); pts.push([r[I.la], r[I.ln]]);
       });
       map.addLayer(cluster);
-      if (pts.length && hasFilter(state)) map.fitBounds(pts, { padding: [30, 30], maxZoom: 15 });
+      if (state.near) {
+        map.setView(state.near, 15);
+        if (nearMark) map.removeLayer(nearMark);
+        nearMark = L.circleMarker(state.near, { radius: 10, color: '#241F1A', weight: 3, fillColor: '#fff', fillOpacity: 1 }).addTo(map);
+        if (state.nl) nearMark.bindTooltip(state.nl, { permanent: true, direction: 'top', offset: [0, -10] });
+      } else if (pts.length && hasFilter(state)) map.fitBounds(pts, { padding: [30, 30], maxZoom: 15 });
     });
   }
   function showCard(r) {
@@ -504,7 +523,7 @@
   $('q').value = state.q;
   $('sort').value = state.sort;
   if (location.hash === '#q') $('q').focus();
-  var needNow = hasFilter(state) || state.sort !== 'new' || state.view === 'map';
+  var needNow = hasFilter(state) || state.sort !== 'new' || state.view === 'map' || state.near;
   if (needNow) load().then(function () { render(); restore(); });
   applyView();
   if (!needNow) {
