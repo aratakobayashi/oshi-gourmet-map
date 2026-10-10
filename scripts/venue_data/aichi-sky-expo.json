@@ -1,0 +1,29 @@
+{
+  "slug": "aichi-sky-expo",
+  "name": "Aichi Sky Expo",
+  "short": "Aichi Sky Expo",
+  "type": "messe",
+  "center": [34.85632, 136.82120],
+  "size_m": 200,
+  "stations": [
+    {"name": "名鉄 中部国際空港駅", "exit": "徒歩約5分", "lat": 34.86039, "lng": 136.81598}
+  ],
+  "access_note": ["駅から会場までバリアフリー対応", "空港の連絡通路を通って歩く"],
+  "seats": {
+    "note": "客席の並びは公演ごとに主催者が決めます",
+    "tiers": [
+      {"label": "展示ホール（平らな床）", "desc": "ホールA〜Fの6つ。各約10,000㎡"}
+    ]
+  },
+  "prepare": {
+    "source": "Aichi Sky Expo公式サイトの案内より",
+    "items": [
+      {"icon": "locker", "title": "ロッカーは現金のみ", "lines": ["100円硬貨だけ使える", "両替はビジネスセンター"]},
+      {"icon": "luggage", "title": "手荷物預かり所はなし", "lines": ["貴重品ボックスもない", "貴重品は身につけて"]},
+      {"icon": "card", "title": "ATMは空港の中", "lines": ["施設内にATMはない", "中部国際空港内にある"]},
+      {"icon": "smoke", "title": "館内は全館禁煙", "lines": ["喫煙所は屋外に1か所", "決められた場所で"]}
+    ]
+  },
+  "thumb": {"chips": ["空港駅から徒歩5分", "ホールのつくり", "ロッカーは現金のみ", "ATMは空港に"], "sky": "blue"},
+  "illust": {"sea": true}
+}

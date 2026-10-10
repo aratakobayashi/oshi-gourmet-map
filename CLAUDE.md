@@ -220,6 +220,8 @@ heysayjump:        '#ef4444'  // レッド
 - 会場ガイドの新しい型（2026-10 東京ドームから）: 冒頭の要点 → 基本情報 → アクセス → ゲートと座席 → 持ち込み・ルール → お金・荷物・当日 → 泊まる → 周辺の聖地グルメ（自動）→ よくある質問。公式サイトで確かめた事実だけを書き、体験談風の内容（参戦ファッション・撮影スポットなど）は書かない。front matter: `summary`（要点）・`checked_at`（確認日）・`sources`（label/url の出典）・`faq`（FAQPage の構造化データにもなる）・`thumbnail_note`（画像の注記）。新しい会場は `_data/venues.json` に名前と座標を足す
 - 会場ガイドの見出し画像（サムネイル）は写真を使わず、SVG で描いた写真風のイラストに、会場名・「ライブ参戦ガイド」・記事の中身（最寄り駅・座席・持ち込み・周辺グルメ○軒など）を大きく載せて、一覧でひと目で見たくなるものにする（元データ `assets/img/guide/src/`、1200px と 600px の webp）。画像の下に「イラスト」と注記する
 - 会場ガイドの本文には図を3枚以上入れる（駅との位置関係・座席のつくり・持ち込めないもの・当日の準備など）。図とサムネイルは会場データ `scripts/venue_data/<slug>.json`（駅・座席・持ち込み禁止・当日の準備・サムネイルの札。形は tokyo-dome.json を参照）から `python scripts/venue_guide_images.py <slug>` で作る（`assets/img/guide/<slug>/*.svg` と `<slug>.webp`。Chromium が要る: 環境変数 PW_CHROME と NODE_PATH、scripts/render_png.js）。記事の図の width/height も自動で合わせる。会場を足すときは `_data/venues.json` にも名前と座標を入れて build_site_data.py を先に実行（サムネイルの「周辺の聖地グルメ○軒」に使う）。`<figure class="fig">` で載せ、alt に図の中身を文章で書く。図の内容も公式情報で確かめた事実だけにし、出典をキャプションに書く
+- 会場の type は dome / arena / hall / budokan / messe / stadium（屋根なし）。2026-10-10 に旧型の会場ガイド18本も新しい型に書き直した（URLはそのまま）。名称変更: 日本ガイシホール→クロコくんホール、さいたまスーパーアリーナ→GMOアリーナさいたま、武蔵野の森総合スポーツプラザ→京王アリーナTOKYO、札幌ドーム→大和ハウス プレミストドーム、神戸ワールド記念ホール→ワールド記念ホール（_data/venues.json の name も新しい名前。slug は旧名のまま）
+- 回遊: build_site_data.py が _data/article_rel.json（キー `p:<記事slug>` / `g:<ガイドslug>` → posts・guides のサムネイル付きカード）を作り、`_includes/rel-cards.html` で記事・ガイドの末尾に出す（特集→近くの会場のガイド・あわせて読みたい／会場ガイド→近くの会場・会場の近くの店が載っている特集）。会場ガイドの周辺グルメは card.html に会場からの距離（`from`/`m`）を出し、推しごとのチップと「地図で近くのお店を見る」は /shops/?near=緯度,経度&nl=会場名（explore.js が近い順に並べ、地図をその場所に寄せる）
 - 「近くの店」（会場ガイド・店舗ページ）には、住所が番地まであり座標がほかの店と重なっていない店だけを出す（区役所あたりの座標になっている店を除くため）。場所が怪しい店は shops.json で `location_unverified: true` を付けると除外される
 
 ## デザイン（2026-10 リニューアル「1a 巡礼帳」）
@@ -267,7 +269,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 
 ## 現在の状況（2026-10-07時点）
 - 総店舗数: 2,328件（42グループ）。店舗ページ 2,360（うち孤立ページ32）・一覧ページ111・グループページ42
-- 推し活ガイド50本（/guide/。2026-10-09 に新しい型の会場ガイド10本: 東京ドーム・京セラドーム大阪・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・日本武道館・Kアリーナ横浜・東京ガーデンシアター・ベルーナドーム・幕張メッセ・LaLa arena TOKYO-BAY）・特集記事42本（/articles/）
+- 推し活ガイド50本（/guide/。2026-10-10 に旧型の会場ガイド18本を新しい型へ書き直し。2026-10-09 に新しい型の会場ガイド10本: 東京ドーム・京セラドーム大阪・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・日本武道館・Kアリーナ横浜・東京ガーデンシアター・ベルーナドーム・幕張メッセ・LaLa arena TOKYO-BAY）・特集記事42本（/articles/）
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
 - 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 465件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を976件補完。「なにわ男子のどっち派」「なにわ男子のなんでやねん」はめざましテレビ内のコーナー。残りはYouTube企画（match_youtube_videos.py の対象）・MV・SNS投稿などTMDBにない出典）。2026-10-09 に match_youtube_videos.py で43件に youtube_id（残りの確認待ち74件は scripts/youtube_match_review.json）、fetch_hotpepper_photos.py で94件に hotpepper_photo を付与し、画像なし店舗は 421件
 - TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載

@@ -471,6 +471,18 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .linkcard { display: flex; justify-content: space-between; align-items: center; gap: var(--s-3); padding: var(--s-4); background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); color: var(--ink); font-weight: 700; font-size: 14px; line-height: 1.5; }
 .linkcard:hover { text-decoration: none; border-color: var(--line-strong); }
 .linkcard .cnt { font-weight: 400; font-size: 12px; color: var(--ink-2); flex: none; }
+.relcards { display: grid; grid-auto-flow: column; grid-auto-columns: 68%; gap: var(--s-3); overflow-x: auto; padding-bottom: var(--s-2); scroll-snap-type: x mandatory; scrollbar-width: thin; }
+.relcard { scroll-snap-align: start; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); overflow: hidden; display: flex; flex-direction: column; }
+.relcard:hover { text-decoration: none; border-color: var(--accent); }
+.relcard .thumb { aspect-ratio: 16 / 9; border-radius: 0; }
+.relcard .thumb img { width: 100%; height: 100%; object-fit: cover; }
+.relcard__cat { padding: 10px 12px 0; font-size: 11px; font-weight: 700; color: var(--accent-ink); display: flex; gap: 8px; flex-wrap: wrap; }
+.relcard__meta { color: var(--ink-2); font-weight: 700; }
+.relcard__title { padding: 4px 12px 12px; font-size: 14px; font-weight: 700; line-height: 1.5; }
+@media (min-width: 768px) { .relcards { grid-auto-flow: row; grid-template-columns: repeat(3, 1fr); grid-auto-columns: auto; overflow: visible; } }
+.card__dist { font-size: 12px; font-weight: 700; color: var(--accent-ink); margin-top: 2px; }
+.nearby-oshi { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px; margin-bottom: 12px; scrollbar-width: thin; }
+.nearby-oshi .selchip { flex: none; text-decoration: none; color: var(--ink); }
 .gcards { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--s-3); }
 .gcard { color: var(--ink); font-size: 13px; font-weight: 700; line-height: 1.5; }
 .gcard:hover { text-decoration: none; }

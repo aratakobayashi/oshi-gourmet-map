@@ -1,0 +1,13 @@
+{%- comment -%} 関連する記事・ガイドのサムネイルつきカード（スマホは横スクロール、PCは3列）。引数: items（_data/article_rel.json の posts / guides） {%- endcomment -%}
+<div class="relcards">
+  {%- for _r in include.items %}
+  <a class="relcard" href="{{ _r.u | relative_url }}">
+    <div class="thumb{% if _r.img == '' %} thumb--noimg{% endif %}">
+      {%- if _r.img != '' %}<img src="{% if _r.img contains '://' %}{{ _r.img }}{% else %}{{ _r.img | relative_url }}{% endif %}" alt="" width="320" height="180" loading="lazy" decoding="async">{% else %}<span class="stamp stamp--sm stamp--tilt" aria-hidden="true">{% if _r.kind == 'guide' %}案{% else %}特{% endif %}</span>{% endif %}
+    </div>
+    {%- if _r.kind == 'guide' %}{% assign _rc = site.data.guide_categories | where: "key", _r.cat | first %}{% assign _rl = _rc.label | default: '推し活ガイド' %}{% else %}{% assign _rl = site.data.article_types[_r.cat] | default: '特集記事' %}{% endif %}
+    <p class="relcard__cat">{{ _rl }}{% if _r.meta != '' %}<span class="relcard__meta">{{ _r.meta }}</span>{% endif %}</p>
+    <p class="relcard__title">{{ _r.t | truncate: 46 }}</p>
+  </a>
+  {%- endfor %}
+</div>

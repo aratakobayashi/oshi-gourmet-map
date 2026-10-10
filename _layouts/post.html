@@ -47,7 +47,7 @@ layout: default
       {%- if page.shop_ids %}
       <section class="section" id="shops">
         <div class="section__head"><h2 class="h2">この記事のお店</h2>{% if gx %}<a class="link-more" href="{{ '/shops/' | relative_url }}?g={{ page.group }}&amp;view=map">地図で見る →</a>{% endif %}</div>
-        <div class="minis">{% for id in page.shop_ids limit: 12 %}{% include mini.html id=id %}{% endfor %}</div>
+        <div class="cards">{% for id in page.shop_ids limit: 12 %}{% include card.html id=id %}{% endfor %}</div>
         {%- if n_shops > 12 %}<p class="more-wrap">{% if gx %}<a class="link-more" href="{{ gx.u | relative_url }}">{{ glabel }}のお店をすべて見る（{{ gx.n }}軒） →</a>{% else %}<span class="meta">ほか{{ n_shops | minus: 12 }}軒は本文で紹介しています</span>{% endif %}</p>{% endif %}
       </section>
       {%- endif %}
@@ -61,12 +61,20 @@ layout: default
       </section>
       {%- endif %}
 
-      {%- assign rel = site.posts | where: "group", page.group | where_exp: "p", "p.url != page.url" %}
-      {%- if rel.size < 3 %}{% assign rel = site.posts | where_exp: "p", "p.url != page.url" %}{% endif %}
+      {%- assign rel_key = "p:" | append: page.slug %}
+      {%- assign rel = site.data.article_rel[rel_key] %}
+      {%- if rel.guides.size > 0 %}
       <section class="section">
-        <h2 class="h2" style="margin-bottom:8px">あわせて読みたい</h2>
-        <ul class="alist">{% for p in rel limit: 4 %}<li>{% include article-item.html p=p %}</li>{% endfor %}</ul>
+        <h2 class="h2" style="margin-bottom:12px">この記事のお店の近くでライブがあるなら</h2>
+        {% include rel-cards.html items=rel.guides %}
       </section>
+      {%- endif %}
+      {%- if rel.posts.size > 0 %}
+      <section class="section">
+        <h2 class="h2" style="margin-bottom:12px">あわせて読みたい</h2>
+        {% include rel-cards.html items=rel.posts %}
+      </section>
+      {%- endif %}
     </div>
 
     <aside class="artg__s">
