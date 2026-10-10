@@ -135,6 +135,22 @@ def thumb_html(d, n):
     import random
     rnd = random.Random(7)
     dots = ''.join(f'<circle cx="{rnd.randint(0, 1200)}" cy="{rnd.randint(560, 675)}" r="{rnd.choice([2, 2.5, 3, 3.5])}" fill="{c if rnd.random() < .7 else "#fff"}" opacity="{rnd.uniform(.5, 1):.2f}"/>' for _ in range(420))
+    nl = len(d['name'])
+    fs = 128 if nl <= 5 else 100 if nl <= 10 else 84
+    k = int(t.get('people', 1))
+    if k <= 1:
+        people = (f'<g fill="#0a0c18"><circle cx="900" cy="378" r="30"/><path d="M866 412 Q900 398 934 412 L950 505 L850 505 Z"/><path d="M934 420 L990 360 L998 368 L948 440 Z"/></g>'
+                  f'<circle cx="996" cy="356" r="9" fill="{c}"/><circle cx="996" cy="356" r="22" fill="{c}" opacity=".35"/>')
+    else:
+        # 横に並んだ人影（グループ）。真ん中ほど少し大きく
+        people = ''
+        span = min(520, 110 * k)
+        for i in range(k):
+            x = 900 - span / 2 + span * (i + .5) / k
+            sc = 1 - abs(i - (k - 1) / 2) / k * .35
+            r, top = 24 * sc, 505 - 130 * sc
+            people += (f'<g fill="#0a0c18"><circle cx="{x:.0f}" cy="{top:.0f}" r="{r:.0f}"/>'
+                       f'<path d="M{x - 28 * sc:.0f} {top + 30 * sc:.0f} Q{x:.0f} {top + 20 * sc:.0f} {x + 28 * sc:.0f} {top + 30 * sc:.0f} L{x + 40 * sc:.0f} 505 L{x - 40 * sc:.0f} 505 Z"/></g>')
     return f"""<!doctype html><meta charset="utf-8"><style>
 *{{margin:0;box-sizing:border-box}}body{{width:1200px;height:675px;overflow:hidden;font-family:{FONT};background:#0d1020}}
 #t{{position:relative;width:1200px;height:675px;overflow:hidden}}
@@ -142,7 +158,7 @@ svg.bg{{position:absolute;inset:0}}
 .w{{position:absolute;left:72px;top:58px;right:420px}}
 .l{{display:inline-block;background:#e2553f;color:#fff;font-weight:700;font-size:26px;padding:5px 16px;border-radius:999px}}
 .k{{color:{c};font-weight:800;font-size:34px;margin-top:26px;text-shadow:0 2px 12px rgba(0,0,0,.5)}}
-h1{{color:#fff;font-family:{SERIF};font-weight:900;font-size:128px;line-height:1.1;margin-top:6px;letter-spacing:.04em;text-shadow:0 4px 24px rgba(0,0,0,.55)}}
+h1{{color:#fff;font-family:{SERIF};font-weight:900;font-size:{fs}px;line-height:1.1;margin-top:6px;letter-spacing:.04em;text-shadow:0 4px 24px rgba(0,0,0,.55)}}
 .s{{color:#fff;font-weight:700;font-size:30px;margin-top:10px;opacity:.92}}
 .c{{position:absolute;left:72px;bottom:46px;display:flex;gap:12px;flex-wrap:wrap;right:360px}}
 .c span{{background:#fff;color:#14161f;font-weight:800;font-size:26px;padding:7px 15px;border-radius:8px}}
@@ -158,8 +174,7 @@ h1{{color:#fff;font-family:{SERIF};font-weight:900;font-size:128px;line-height:1
 <polygon points="560,0 620,0 900,520 640,520" fill="url(#sp)" opacity=".3"/>
 <ellipse cx="900" cy="520" rx="300" ry="34" fill="#fff" opacity=".10"/>
 <rect x="600" y="505" width="600" height="20" fill="#2a3150"/>
-<g fill="#0a0c18"><circle cx="900" cy="378" r="30"/><path d="M866 412 Q900 398 934 412 L950 505 L850 505 Z"/><path d="M934 420 L990 360 L998 368 L948 440 Z"/></g>
-<circle cx="996" cy="356" r="9" fill="{c}"/><circle cx="996" cy="356" r="22" fill="{c}" opacity=".35"/>
+{people}
 {dots}
 </svg>
 <div class="w"><span class="l">{esc(t['label'])}</span><div class="k">{esc(t['catch'])}</div><h1>{esc(d['name'])}</h1><div class="s">{esc(t['sub'])}</div></div>

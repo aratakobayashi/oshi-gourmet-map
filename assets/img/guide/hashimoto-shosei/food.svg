@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 634" width="420" height="634" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="634" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="20" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">橋本将生が訪れたお店のジャンル</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">推しグルメ巡礼MAPに登録されているお店23軒</text><text x="20" y="80" font-size="12" fill="#6B6258">（2026年10月10日時点）を数えました</text>
+<text x="20" y="126" font-size="15" font-weight="700" fill="#241F1A">食事</text>
+<rect x="100" y="108" width="220" height="26" rx="8" fill="#2563eb"/>
+<text x="328" y="127" font-size="16" font-weight="800" fill="#2563eb">4軒</text>
+<text x="20" y="170" font-size="15" font-weight="700" fill="#241F1A">和食</text>
+<rect x="100" y="152" width="220" height="26" rx="8" fill="#15803d"/>
+<text x="328" y="171" font-size="16" font-weight="800" fill="#15803d">4軒</text>
+<text x="20" y="214" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
+<rect x="100" y="196" width="165" height="26" rx="8" fill="#db2777"/>
+<text x="273" y="215" font-size="16" font-weight="800" fill="#db2777">3軒</text>
+<text x="20" y="258" font-size="15" font-weight="700" fill="#241F1A">中華</text>
+<rect x="100" y="240" width="165" height="26" rx="8" fill="#dc2626"/>
+<text x="273" y="259" font-size="16" font-weight="800" fill="#dc2626">3軒</text>
+<text x="20" y="302" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
+<rect x="100" y="284" width="165" height="26" rx="8" fill="#9a3412"/>
+<text x="273" y="303" font-size="16" font-weight="800" fill="#9a3412">3軒</text>
+<text x="20" y="346" font-size="15" font-weight="700" fill="#241F1A">ラーメン</text>
+<rect x="100" y="328" width="110" height="26" rx="8" fill="#ca8a04"/>
+<text x="218" y="347" font-size="16" font-weight="800" fill="#ca8a04">2軒</text>
+<text x="20" y="390" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
+<rect x="100" y="372" width="110" height="26" rx="8" fill="#0891b2"/>
+<text x="218" y="391" font-size="16" font-weight="800" fill="#0891b2">2軒</text>
+<text x="20" y="434" font-size="15" font-weight="700" fill="#241F1A">その他</text>
+<rect x="100" y="416" width="110" height="26" rx="8" fill="#64748b"/>
+<text x="218" y="435" font-size="16" font-weight="800" fill="#64748b">2軒</text>
+<text x="20" y="470" font-size="14" font-weight="700" fill="#6B6258">訪れた場所</text>
+<rect x="20" y="484" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="502" font-size="14" fill="#241F1A">東京</text><text x="190" y="502" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">13軒</text>
+<rect x="216" y="484" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="230" y="502" font-size="14" fill="#241F1A">三重</text><text x="386" y="502" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">3軒</text>
+<rect x="20" y="516" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="534" font-size="14" fill="#241F1A">栃木</text><text x="190" y="534" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="516" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="230" y="534" font-size="14" fill="#241F1A">埼玉</text><text x="386" y="534" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="548" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="566" font-size="14" fill="#241F1A">大阪</text><text x="190" y="566" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="548" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="230" y="566" font-size="14" fill="#241F1A">静岡</text><text x="386" y="566" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="580" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="598" font-size="14" fill="#241F1A">北海道</text><text x="190" y="598" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+</svg>
