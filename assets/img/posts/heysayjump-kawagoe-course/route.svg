@@ -56,8 +56,8 @@
 <circle cx="46" cy="680" r="15" fill="#ef4444"/>
 <text x="46" y="686" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">7</text>
 <text x="78" y="686" font-size="16" font-weight="800" fill="#241F1A">松陸製菓</text>
-<rect x="332.5" y="669" width="55.5" height="22" rx="11" fill="#ef4444" fill-opacity=".12"/>
-<text x="360.25" y="685" font-size="12.5" font-weight="700" fill="#ef4444" text-anchor="middle">駄菓子</text>
+<rect x="345.0" y="669" width="43.0" height="22" rx="11" fill="#ef4444" fill-opacity=".12"/>
+<text x="366.5" y="685" font-size="12.5" font-weight="700" fill="#ef4444" text-anchor="middle">菓子</text>
 <text x="78" y="708" font-size="12.5" fill="#6B6258">元町2丁目（菓子屋横丁）・第164回</text>
 <text x="20" y="746" font-size="12" fill="#6B6258">住所はお店の公式サイトなどで確かめたもの（町名まで）</text>
 </svg>
