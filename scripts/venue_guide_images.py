@@ -21,7 +21,7 @@ NODE_PATH に playwright のある node_modules を指定する（scripts/render
 venue_data の形（例は scripts/venue_data/tokyo-dome.json）
 {
   "slug": "tokyo-dome", "name": "東京ドーム", "short": "東京ドーム",   # short はサムネイルの大見出し
-  "type": "dome",            # dome / arena / hall / budokan / messe（イラストと断面図の形）
+  "type": "dome",            # dome / arena / hall / budokan / messe / stadium（イラストと断面図の形）
   "center": [35.70557, 139.75197], "size_m": 120,
   "stations": [{"name": "JR 水道橋駅", "exit": "西口", "lat": 35.7019, "lng": 139.75369}, ...],  # 最大6
   "access_note": ["1行目（26文字まで）", "2行目"],
@@ -153,7 +153,9 @@ def seats(v):
     b = text(30, 58, '座席のつくり（断面のイメージ）', 28, INK, 700)
     b += text(30, 92, v['seats'].get('note', ''), 20, INK2)
     b += f'<rect x="20" y="118" width="560" height="300" rx="18" fill="{CARD}" stroke="{LINE}"/>'
-    if typ in ('dome', 'arena', 'budokan'):
+    if typ == 'stadium':
+        b += '<rect x="40" y="170" width="520" height="230" fill="#E6F0FA"/>'  # 屋根なし
+    elif typ in ('dome', 'arena', 'budokan'):
         peak = 120 if typ == 'dome' else 150
         b += f'<path d="M40 400 L40 220 Q300 {peak - 10} 560 220 L560 400 Z" fill="#EEF2F7"/>'
         b += f'<path d="M40 220 Q300 {peak - 10} 560 220" fill="none" stroke="#9AA8BA" stroke-width="4"/>'
@@ -321,6 +323,18 @@ def building(typ, cx, base, rnd, opt):
         s += f'<path d="M{cx - 300},{base - 16} L{cx + 300},{base - 16}" stroke="#e8edf3" stroke-width="6"/>'
         s += f'<path d="M{cx - 60},{base - 150} L{cx + 60},{base - 150}" stroke="#cfd8e4" stroke-width="4"/>'
         s += f'<circle cx="{cx}" cy="{base - 178}" r="20" fill="#e3b54a"/><path d="M{cx},{base - 220} Q{cx + 10},{base - 198} {cx},{base - 192} Q{cx - 10},{base - 198} {cx},{base - 220} Z" fill="#e3b54a"/><rect x="{cx - 8}" y="{base - 162}" width="16" height="14" fill="#c99a35"/>'
+        return s
+    if typ == 'stadium':
+        # 屋根のない競技場: すり鉢形のスタンドと照明塔
+        w = 760
+        x0 = cx - w / 2
+        s = f'<path d="M{x0},{base + 62} L{x0 + 40},{base - 70} L{x0 + w - 40},{base - 70} L{x0 + w},{base + 62} Z" fill="url(#wall)"/>'
+        s += f'<path d="M{x0 + 40},{base - 70} Q{cx},{base - 110} {x0 + w - 40},{base - 70}" fill="none" stroke="#e8edf3" stroke-width="8"/>'
+        s += f'<path d="M{x0 + 60},{base - 60} L{x0 + w - 60},{base - 60} L{x0 + w - 110},{base + 10} L{x0 + 110},{base + 10} Z" fill="#3a4a66" opacity=".8"/>'
+        s += ''.join(f'<rect x="{x0 + 30 + i * 26}" y="{base + 24}" width="14" height="20" fill="#ffe2b0" opacity="{r(.45, 1):.2f}"/>' for i in range(28))
+        for lx in (x0 + 20, x0 + w - 20):
+            s += f'<path d="M{lx},{base - 40} L{lx},{base - 200}" stroke="#cfd8e4" stroke-width="6"/>'
+            s += f'<rect x="{lx - 34}" y="{base - 230}" width="68" height="34" rx="4" fill="#fff7dc"/><ellipse cx="{lx}" cy="{base - 214}" rx="120" ry="60" fill="url(#lamp)" opacity=".7"/>'
         return s
     if typ == 'messe':
         w = 980
