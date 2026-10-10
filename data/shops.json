@@ -41264,46 +41264,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
   },
   {
-    "id": "timelesz-3330b34c-20250927",
-    "name": "松坂まるよし 鎌田本店",
-    "genre": "yakiniku",
-    "prefecture": "三重県",
-    "city": "松阪市",
-    "address": "三重県松阪市鎌田町239-2",
-    "lat": 34.5817082,
-    "lng": 136.5351675,
-    "youtube_id": "",
-    "source_video_title": "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日）",
-    "source_url": "https://kosodate-and.net/timeleszman-matsusakaushi/",
-    "visited_date": "2025-09-27",
-    "members": [
-      "佐藤勝利",
-      "松島聡",
-      "寺西拓人",
-      "原嘉孝",
-      "猪俣周杜",
-      "篠塚大輝"
-    ],
-    "groups": [
-      "timelesz"
-    ],
-    "group": "timelesz",
-    "nearest_station": "",
-    "description": "三重県の焼肉。timeleszの佐藤勝利・松島聡らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/mie/A2401/A240102/24000603/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 289474,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      {
-        "name": "松阪牛ステーキ丼"
-      }
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
-  },
-  {
     "id": "timelesz-fb8cf4d9-20250518",
     "name": "金目鯛とくぞう 熱海本店",
     "genre": "washoku",
@@ -41718,7 +41678,9 @@
       "松島聡",
       "寺西拓人",
       "原嘉孝",
-      "橋本将生"
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
     ],
     "groups": [
       "timelesz"

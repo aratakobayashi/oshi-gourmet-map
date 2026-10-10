@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 448" width="600" height="448" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="600" height="448" rx="18" fill="#F7F3EC"/>
-<text x="28" y="44" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">寺西拓人が訪れたお店のジャンル</text>
-<text x="28" y="68" font-size="13" fill="#6B6258">推しグルメ巡礼MAPに登録されているお店14軒（2026年10月10日時点）を数えました</text>
-<text x="28" y="122" font-size="15" font-weight="700" fill="#241F1A">中華</text>
-<rect x="130" y="104" width="330" height="26" rx="8" fill="#dc2626"/>
-<text x="470" y="123" font-size="16" font-weight="800" fill="#dc2626">4軒</text>
-<text x="28" y="168" font-size="15" font-weight="700" fill="#241F1A">食事</text>
-<rect x="130" y="150" width="247" height="26" rx="8" fill="#2563eb"/>
-<text x="387" y="169" font-size="16" font-weight="800" fill="#2563eb">3軒</text>
-<text x="28" y="214" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
-<rect x="130" y="196" width="247" height="26" rx="8" fill="#9a3412"/>
-<text x="387" y="215" font-size="16" font-weight="800" fill="#9a3412">3軒</text>
-<text x="28" y="260" font-size="15" font-weight="700" fill="#241F1A">和食</text>
-<rect x="130" y="242" width="165" height="26" rx="8" fill="#15803d"/>
-<text x="305" y="261" font-size="16" font-weight="800" fill="#15803d">2軒</text>
-<text x="28" y="306" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
-<rect x="130" y="288" width="82" height="26" rx="8" fill="#7c3aed"/>
-<text x="222" y="307" font-size="16" font-weight="800" fill="#7c3aed">1軒</text>
-<text x="28" y="352" font-size="15" font-weight="700" fill="#241F1A">その他</text>
-<rect x="130" y="334" width="82" height="26" rx="8" fill="#64748b"/>
-<text x="222" y="353" font-size="16" font-weight="800" fill="#64748b">1軒</text>
-<text x="28" y="390" font-size="14" font-weight="700" fill="#6B6258">訪れた場所</text>
-<rect x="28" y="404" width="172" height="24" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="42" y="421" font-size="13" fill="#241F1A">東京</text><text x="186" y="421" font-size="13" font-weight="800" text-anchor="end" fill="#38bdf8">10軒</text>
-<rect x="212" y="404" width="172" height="24" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="226" y="421" font-size="13" fill="#241F1A">三重</text><text x="370" y="421" font-size="13" font-weight="800" text-anchor="end" fill="#38bdf8">3軒</text>
-<rect x="396" y="404" width="172" height="24" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="410" y="421" font-size="13" fill="#241F1A">栃木</text><text x="554" y="421" font-size="13" font-weight="800" text-anchor="end" fill="#38bdf8">1軒</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 482" width="420" height="482" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="482" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="20" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">寺西拓人が訪れたお店のジャンル</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">推しグルメ巡礼MAPに登録されているお店13軒</text><text x="20" y="80" font-size="12" fill="#6B6258">（2026年10月10日時点）を数えました</text>
+<text x="20" y="126" font-size="15" font-weight="700" fill="#241F1A">食事</text>
+<rect x="100" y="108" width="220" height="26" rx="8" fill="#2563eb"/>
+<text x="328" y="127" font-size="16" font-weight="800" fill="#2563eb">4軒</text>
+<text x="20" y="170" font-size="15" font-weight="700" fill="#241F1A">中華</text>
+<rect x="100" y="152" width="220" height="26" rx="8" fill="#dc2626"/>
+<text x="328" y="171" font-size="16" font-weight="800" fill="#dc2626">4軒</text>
+<text x="20" y="214" font-size="15" font-weight="700" fill="#241F1A">和食</text>
+<rect x="100" y="196" width="110" height="26" rx="8" fill="#15803d"/>
+<text x="218" y="215" font-size="16" font-weight="800" fill="#15803d">2軒</text>
+<text x="20" y="258" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
+<rect x="100" y="240" width="55" height="26" rx="8" fill="#7c3aed"/>
+<text x="163" y="259" font-size="16" font-weight="800" fill="#7c3aed">1軒</text>
+<text x="20" y="302" font-size="15" font-weight="700" fill="#241F1A">その他</text>
+<rect x="100" y="284" width="55" height="26" rx="8" fill="#64748b"/>
+<text x="163" y="303" font-size="16" font-weight="800" fill="#64748b">1軒</text>
+<text x="20" y="346" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
+<rect x="100" y="328" width="55" height="26" rx="8" fill="#9a3412"/>
+<text x="163" y="347" font-size="16" font-weight="800" fill="#9a3412">1軒</text>
+<text x="20" y="382" font-size="14" font-weight="700" fill="#6B6258">訪れた場所</text>
+<rect x="20" y="396" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="414" font-size="14" fill="#241F1A">東京</text><text x="190" y="414" font-size="14" font-weight="800" text-anchor="end" fill="#38bdf8">10軒</text>
+<rect x="216" y="396" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="230" y="414" font-size="14" fill="#241F1A">三重</text><text x="386" y="414" font-size="14" font-weight="800" text-anchor="end" fill="#38bdf8">2軒</text>
+<rect x="20" y="428" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="34" y="446" font-size="14" fill="#241F1A">栃木</text><text x="190" y="446" font-size="14" font-weight="800" text-anchor="end" fill="#38bdf8">1軒</text>
 </svg>

@@ -52,38 +52,38 @@ def timeline(d):
     """縦の道のり。左に年、右に出来事。highlight は色付きの大きな印"""
     c = d['color']
     items = d['timeline']
-    W, top, gap = 600, 96, 18
+    W, top, gap = 420, 92, 16
     rows = []
     y = top
     for it in items:
-        lines = wrap(it['d'], 25) if it.get('d') else []
+        lines = wrap(it['d'], 17) if it.get('d') else []
         h = 62 + 20 * (len(lines) - 1) if lines else 40
         rows.append((y, h, it, lines))
         y += h + gap
     H = y + 20
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="{FONT}">',
          f'<rect width="{W}" height="{H}" rx="18" fill="{PAPER}"/>',
-         f'<text x="28" y="44" font-size="22" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(d["timeline_title"])}</text>',
-         f'<text x="28" y="68" font-size="13" fill="{INK2}">{esc(d.get("timeline_note", ""))}</text>']
-    x = 128
+         f'<text x="20" y="42" font-size="22" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(d["timeline_title"])}</text>',
+         f'<text x="20" y="64" font-size="12" fill="{INK2}">{esc(d.get("timeline_note", ""))}</text>']
+    x = 82
     s.append(f'<line x1="{x}" y1="{top - 6}" x2="{x}" y2="{y - gap}" stroke="{c}" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 12" opacity=".9"/>')
     for (yy, h, it, lines) in rows:
         cy = yy + 16
         big = it.get('hl')
-        s.append(f'<text x="96" y="{cy + 6}" font-size="{19 if big else 16}" font-weight="800" text-anchor="end" fill="{c if big else INK}">{esc(it["y"])}</text>')
+        s.append(f'<text x="66" y="{cy + 6}" font-size="{18 if big else 16}" font-weight="800" text-anchor="end" fill="{c if big else INK}">{esc(it["y"])}</text>')
         if it.get('m'):
-            s.append(f'<text x="96" y="{cy + 24}" font-size="12" text-anchor="end" fill="{INK2}">{esc(it["m"])}</text>')
+            s.append(f'<text x="66" y="{cy + 24}" font-size="11" text-anchor="end" fill="{INK2}">{esc(it["m"])}</text>')
         if big:
             s.append(f'<circle cx="{x}" cy="{cy}" r="13" fill="{c}"/><circle cx="{x}" cy="{cy}" r="5" fill="#fff"/>')
         else:
             s.append(f'<circle cx="{x}" cy="{cy}" r="8" fill="#fff" stroke="{c}" stroke-width="4"/>')
-        bx = 152
+        bx = 104
         fill = '#fff'
         stroke = c if big else LINE
-        s.append(f'<rect x="{bx}" y="{yy - 4}" width="{W - bx - 24}" height="{h}" rx="12" fill="{fill}" stroke="{stroke}" stroke-width="{2 if big else 1}"/>')
-        s.append(f'<text x="{bx + 16}" y="{yy + 22}" font-size="17" font-weight="800" fill="{INK}">{esc(it["t"])}</text>')
+        s.append(f'<rect x="{bx}" y="{yy - 4}" width="{W - bx - 14}" height="{h}" rx="12" fill="{fill}" stroke="{stroke}" stroke-width="{2 if big else 1}"/>')
+        s.append(f'<text x="{bx + 14}" y="{yy + 22}" font-size="16" font-weight="800" fill="{INK}">{esc(it["t"])}</text>')
         for i, ln in enumerate(lines):
-            s.append(f'<text x="{bx + 16}" y="{yy + 44 + 20 * i}" font-size="13.5" fill="{INK2}">{esc(ln)}</text>')
+            s.append(f'<text x="{bx + 14}" y="{yy + 44 + 20 * i}" font-size="13.5" fill="{INK2}">{esc(ln)}</text>')
     s.append('</svg>')
     return '\n'.join(s), W, H
 
@@ -97,32 +97,32 @@ def food(d, shops, genres):
     mine = [s for s in shops if d['member'] in (s.get('members') or [])]
     cnt = collections.Counter(s.get('genre', 'others') for s in mine)
     pref = collections.Counter((s.get('prefecture') or '').replace('都', '').replace('府', '').replace('県', '') for s in mine if s.get('prefecture'))
-    W = 600
+    W = 420
     s_ = []
     n = len(mine)
-    H = 100 + 46 * len(cnt) + 28 + 30 * ((len(pref) + 2) // 3) + 14
+    H = 112 + 44 * len(cnt) + 28 + 32 * ((len(pref) + 1) // 2) + 14
     s_.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="{FONT}">')
     s_.append(f'<rect width="{W}" height="{H}" rx="18" fill="{PAPER}"/>')
-    s_.append(f'<text x="28" y="44" font-size="22" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(d["food_title"])}</text>')
-    s_.append(f'<text x="28" y="68" font-size="13" fill="{INK2}">推しグルメ巡礼MAPに登録されているお店{n}軒（{d["checked"]}時点）を数えました</text>')
-    y = 100
+    s_.append(f'<text x="20" y="42" font-size="20" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(d["food_title"])}</text>')
+    s_.append(f'<text x="20" y="64" font-size="12" fill="{INK2}">推しグルメ巡礼MAPに登録されているお店{n}軒</text><text x="20" y="80" font-size="12" fill="{INK2}">（{d["checked"]}時点）を数えました</text>')
+    y = 104
     mx = max(cnt.values()) if cnt else 1
     for g, k in cnt.most_common():
         label = genres.get(g, {}).get('label', g)
         col = GENRE_COLORS.get(g, '#64748b')
-        bw = int(330 * k / mx)
-        s_.append(f'<text x="28" y="{y + 22}" font-size="15" font-weight="700" fill="{INK}">{esc(label)}</text>')
-        s_.append(f'<rect x="130" y="{y + 4}" width="{bw}" height="26" rx="8" fill="{col}"/>')
-        s_.append(f'<text x="{130 + bw + 10}" y="{y + 23}" font-size="16" font-weight="800" fill="{col}">{k}軒</text>')
-        y += 46
+        bw = int(220 * k / mx)
+        s_.append(f'<text x="20" y="{y + 22}" font-size="15" font-weight="700" fill="{INK}">{esc(label)}</text>')
+        s_.append(f'<rect x="100" y="{y + 4}" width="{bw}" height="26" rx="8" fill="{col}"/>')
+        s_.append(f'<text x="{100 + bw + 8}" y="{y + 23}" font-size="16" font-weight="800" fill="{col}">{k}軒</text>')
+        y += 44
     y += 14
-    s_.append(f'<text x="28" y="{y}" font-size="14" font-weight="700" fill="{INK2}">訪れた場所</text>')
+    s_.append(f'<text x="20" y="{y}" font-size="14" font-weight="700" fill="{INK2}">訪れた場所</text>')
     y += 14
     for i, (p, k) in enumerate(pref.most_common()):
-        cx = 28 + (i % 3) * 184
-        cy = y + (i // 3) * 30
-        s_.append(f'<rect x="{cx}" y="{cy}" width="172" height="24" rx="12" fill="#fff" stroke="{LINE}"/>')
-        s_.append(f'<text x="{cx + 14}" y="{cy + 17}" font-size="13" fill="{INK}">{esc(p)}</text><text x="{cx + 158}" y="{cy + 17}" font-size="13" font-weight="800" text-anchor="end" fill="{d["color"]}">{k}軒</text>')
+        cx = 20 + (i % 2) * 196
+        cy = y + (i // 2) * 32
+        s_.append(f'<rect x="{cx}" y="{cy}" width="184" height="26" rx="13" fill="#fff" stroke="{LINE}"/>')
+        s_.append(f'<text x="{cx + 14}" y="{cy + 18}" font-size="14" fill="{INK}">{esc(p)}</text><text x="{cx + 170}" y="{cy + 18}" font-size="14" font-weight="800" text-anchor="end" fill="{d["color"]}">{k}軒</text>')
     s_.append('</svg>')
     return '\n'.join(s_), W, H, n
 

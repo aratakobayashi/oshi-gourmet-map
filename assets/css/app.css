@@ -597,6 +597,12 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
   .artg { grid-template-areas: "a s" "b s"; grid-template-columns: minmax(0, 1fr) 340px; column-gap: var(--s-12); align-items: start; }
   .artg__s { margin-top: 0; position: sticky; top: 92px; }
 }
+.notice--src summary { cursor: pointer; list-style: none; }
+.notice--src summary::-webkit-details-marker { display: none; }
+.notice--src summary span { display: inline-block; margin-left: 6px; color: var(--accent-ink); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+.notice--src[open] summary span { display: none; }
+.notice--src ul { margin-top: 8px; padding-left: 1.2em; list-style: disc; }
+.notice--src li + li { margin-top: 4px; }
 .notice { margin: var(--s-4) 0; padding: var(--s-3) var(--s-4); border-left: 3px solid var(--ink-3); background: var(--surface); font-size: 13px; color: var(--ink-2); border-radius: 0 var(--r-sm) var(--r-sm) 0; }
 .art__hero { margin-bottom: 0; }
 @media (min-width: 1024px) { .gcols2 { display: grid; grid-template-columns: 1fr 1fr; column-gap: var(--s-8); } }
@@ -757,7 +763,7 @@ a.badge { min-height: 32px; }
 .pf-card__facts { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--line); }
 .pf-card__facts div { background: var(--surface); padding: 12px 14px; }
 .pf-card__facts dt { font-size: 11px; color: var(--ink-3); letter-spacing: .06em; }
-.pf-card__facts dd { font-weight: 700; font-size: 15px; line-height: 1.5; margin-top: 2px; }
+.pf-card__facts dd { font-weight: 700; font-size: 14px; line-height: 1.5; margin-top: 2px; }
 .prose .pf-nums { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: var(--s-6) 0; }
 .pf-nums div { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 14px 12px 12px; text-align: center; border-top: 4px solid var(--pc); }
 .pf-nums b { display: block; font-family: var(--serif); font-size: 34px; line-height: 1.1; font-weight: 800; color: var(--ink); }
