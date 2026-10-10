@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「元祖仙台ひとくち餃子 あずま」"
-description: "それスノで紹介された食事「元祖仙台ひとくち餃子 あずま」（宮城県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された中華「元祖仙台ひとくち餃子 あずま」（宮城県仙台市）。推し活グルメ巡礼スポット。"
 shop_id: "53bffbf0"
 name: "元祖仙台ひとくち餃子 あずま"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "宮城県"
+city: "仙台市"
 address: "宮城県仙台市青葉区一番町4丁目4-1"
 source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-sendai/"

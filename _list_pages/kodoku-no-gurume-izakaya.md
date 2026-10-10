@@ -1,20 +1,20 @@
 ---
-title: "「孤独のグルメ」登場居酒屋7選"
-description: "ドラマ「孤独のグルメ」に登場した居酒屋スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "「孤独のグルメ」登場居酒屋11選"
+description: "ドラマ「孤独のグルメ」に登場した居酒屋スポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: izakaya
 group_label: "孤独のグルメ"
 slug_id: kodoku-no-gurume-izakaya
-shop_count: 7
+shop_count: 11
 group_color: "#78716c"
 group_bio: "「孤独のグルメ」はテレビ東京系のドラマ。松重豊演じる井之頭五郎が全国各地の飲食店を一人で堪能する。"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/eLNrfVMEm71T3ela425R3UfsId0.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ci2QXaPyYOf5EtQAF1CUGQOMUG4.jpg"
 related_genres:
   - kodoku-no-gurume-shokuji
   - kodoku-no-gurume-washoku
-  - kodoku-no-gurume-ramen
+  - kodoku-no-gurume-chuka
 related_groups:
   - shiori-izakaya
   - equal-love-izakaya
-  - kingprince-izakaya
+  - naniwa-izakaya
 ---

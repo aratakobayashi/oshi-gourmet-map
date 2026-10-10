@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "=LOVEが行った「ひろしま夢ぷらざ」"
-description: "=LOVEのYouTubeで紹介されたその他「ひろしま夢ぷらざ」（広島県広島市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "equal_love-e981ea6f-202408"
-name: "ひろしま夢ぷらざ"
-genre: "others"
-prefecture: "広島県"
-city: "広島市"
-address: "広島県広島市中区本通８−２８"
-nearest_station: "本通駅 徒歩1分"
-visited_date: "2024-08-14"
-youtube_id: "FFILw3D41B8"
-source_video_title: "【Vlog】杏奈の地元広島で遊び尽くしました🎶たくさん食べてイルミネーションも見たよ🍜🌟【いおあん超自由旅】"
-group: "equal_love"
-tabelog_url: "https://tabelog.com/hiroshima/A3401/A340113/34024679/"
-thumbnail_url: "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
-lat: 34.3931587
-lng: 132.4569775
-members:
-  - "野口衣織"
-  - "山本杏奈"
-groups:
-  - "equal_love"
+redirect_to: "/groups/equal-love/"
+redirect_label: "=LOVEのお店一覧"
+sitemap: false
 ---

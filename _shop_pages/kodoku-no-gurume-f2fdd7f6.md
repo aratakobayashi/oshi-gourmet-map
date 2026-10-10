@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「羊香味坊」"
-description: "孤独のグルメ Season6 第8話で紹介された食事「羊香味坊」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第8話で紹介された中華「羊香味坊」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f2fdd7f6-"
 name: "羊香味坊"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区"
@@ -12,7 +12,9 @@ nearest_station: "御徒町駅"
 source_video_title: "孤独のグルメ Season6 第8話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13200566/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001281408/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/5oy81tlQqDcZT8uykZ7D7kcJlA1.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/58/15/P040505815/P040505815_238.jpg"
 source_type: "drama"
 lat: 35.7125805
 lng: 139.7800712

@@ -12,7 +12,9 @@ visited_date: "2023-03-04"
 source_video_title: "King&Princeる。当たり前レストラン"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13042760/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000689266/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/48/P045007948/P045007948_238.jpg"
 source_type: "tv"
 lat: 35.674202638720146
 lng: 139.7653572643142

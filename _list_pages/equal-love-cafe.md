@@ -1,14 +1,14 @@
 ---
-title: "=LOVEが行ったカフェ9選"
-description: "=LOVEのメンバーが実際に訪れたカフェスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行ったカフェ8選"
+description: "=LOVEのメンバーが実際に訪れたカフェスポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: cafe
 group_label: "=LOVE"
 slug_id: equal-love-cafe
-shop_count: 9
+shop_count: 8
 group_color: "#ec4899"
 group_bio: "=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。"
-youtube_id: UT4dNcRffPY
+youtube_id: GZg8nO3EZ4E
 related_genres:
   - equal-love-shokuji
   - equal-love-washoku

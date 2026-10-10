@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "乃木坂46のグルメ聖地まとめ｜『地球が丸いなら』の鎌倉、乃木坂工事中・乃木坂どこへのお店、MVのロケ地まで30軒"
+title: "乃木坂46のグルメ聖地まとめ｜『地球が丸いなら』の鎌倉、乃木坂工事中・乃木坂どこへのお店、MVのロケ地まで26軒"
 date: 2026-05-21
 last_modified_at: 2026-10-10
-description: "乃木坂46ゆかりのお店30軒を、MV・特典映像、乃木坂工事中、乃木坂どこへ、そのほかの番組と出典ごとに、ジャンルと場所の図でまとめました。鎌倉の7軒、新橋の3軒、名古屋の喫茶店まで。"
+description: "乃木坂46ゆかりのお店26軒を、MV・特典映像、乃木坂工事中、乃木坂どこへ、そのほかの番組と出典ごとに、ジャンルと場所の図でまとめました。鎌倉の7軒、新橋の3軒、名古屋の喫茶店まで。"
 group: nogizaka46
 article_type: matome
 prefecture: 東京都
 tags: [乃木坂46, 乃木坂工事中, 乃木坂どこへ, 聖地巡礼, グルメ, まとめ, 浅草, 鎌倉, 新橋, 東京, 神奈川, 名古屋]
 thumbnail_video_id: 5gtHfCYK0Aw
 summary:
-  - "乃木坂46ゆかりのお店30軒を、出典ごとに5つに分けて紹介"
+  - "乃木坂46ゆかりのお店26軒を、出典ごとに5つに分けて紹介"
   - "10軒はMV・特典映像のロケ地。うち5軒は鎌倉で撮影された『地球が丸いなら』のお店"
   - "乃木坂工事中の5軒、日本テレビ『乃木坂どこへ』で4期生が訪れた4軒"
-  - "東京20軒・神奈川7軒・愛知3軒。最寄り駅つきで地図でまとめて巡れる"
+  - "東京16軒・神奈川7軒・愛知3軒。最寄り駅つきで地図でまとめて巡れる"
 shop_ids:
   - nogizaka46-5bce3fc7-
   - nogizaka46-cafe_recette-
@@ -39,15 +39,11 @@ shop_ids:
   - nogizaka46-84c802d9-
   - nogizaka46-85374eb4-
   - nogizaka46-bfe83dcc-
-  - nogizaka46-hanagetsudo
-  - nogizaka46-juseian
-  - nogizaka46-ginza-sato-yosuke
-  - nogizaka46-bondy-jimbocho
   - nogizaka46-9b697f1b-
-  - nogizaka46-ffa301c4-
+  - nogizaka46-d53395ac-
 faq:
   - q: "乃木坂46のお店はどのエリアに多いですか？"
-    a: "この記事の30軒では神奈川県鎌倉市が7軒で最も多く、東京都の台東区（浅草）と港区（新橋・赤坂）が4軒ずつ、千代田区と愛知県名古屋市が3軒ずつです。"
+    a: "この記事の26軒では神奈川県鎌倉市が7軒で最も多く、東京都の港区（新橋・赤坂）が4軒、愛知県名古屋市が3軒、東京都の千代田区と台東区（浅草）が2軒ずつです。"
   - q: "MVに登場したお店はどこですか？"
     a: "推しグルメ巡礼MAPのデータでは、『地球が丸いなら』（21stシングル『ジコチューで行こう！』Type-D収録）のMVに鎌倉のイワタコーヒー店・café recette 鎌倉・鎌倉 ROOFTOPS・段葛 こ寿々・くずきり みのわ、『他の星から』のMVに神楽坂の紀の善が登場しています。"
   - q: "乃木坂工事中に関係するお店はどこですか？"
@@ -55,14 +51,14 @@ faq:
   - q: "乃木坂どこへのお店はどこですか？"
     a: "日本テレビの『乃木坂どこへ』（4期生とさらば青春の光のぶらり旅）で4期生が訪れたお店として、おにぎり ぼんご 大塚本店、カレーは飲み物。ニュー新橋ビル店、豚大学 新橋校舎、焼肉ライク 新橋本店の4軒を登録しています。新橋の3軒は新橋駅から徒歩1分です。"
   - q: "乃木坂46のお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で乃木坂46を選ぶと、この記事の30軒を含め、乃木坂46ゆかりのお店を地図で見られます。"
+    a: "「お店を探す」で乃木坂46を選ぶと、この記事の26軒を含め、乃木坂46ゆかりのお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#0ea5e9">
 
 <p><strong>乃木坂46</strong>のMVや特典映像、冠番組『乃木坂工事中』、4期生の『乃木坂どこへ』。画面の向こうでメンバーが食べていたホットケーキやくずきり、新橋の豚丼は、実際に訪ねられるお店です。</p>
 
-<p>この記事では、推しグルメ巡礼MAPのデータにある<strong>30軒</strong>を、出典ごとに5つに分けてまとめました。出典を確かめきれていないお店は、そのことも書いています。</p>
+<p>この記事では、推しグルメ巡礼MAPのデータにある<strong>26軒</strong>を、出典ごとに5つに分けてまとめました。出典を確かめきれていないお店は、そのことも書いています。</p>
 
 <h2>ひと目でわかる 乃木坂46のグルメ聖地</h2>
 <div class="pf-card">
@@ -73,7 +69,7 @@ faq:
     <span class="pf-card__color"><i></i>乃木坂46</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>30軒</dd></div>
+    <div><dt>お店の数</dt><dd>26軒</dd></div>
     <div><dt>MV・特典映像</dt><dd>10軒</dd></div>
     <div><dt>乃木坂工事中</dt><dd>5軒</dd></div>
     <div><dt>乃木坂どこへ</dt><dd>4軒</dd></div>
@@ -83,7 +79,7 @@ faq:
 </div>
 
 <div class="pf-nums">
-  <div><b>30<small>軒</small></b><span>この記事のお店</span></div>
+  <div><b>26<small>軒</small></b><span>この記事のお店</span></div>
   <div><b>10<small>軒</small></b><span>MV・特典映像のロケ地</span></div>
   <div><b>7<small>軒</small></b><span>鎌倉市のお店（うち5軒は『地球が丸いなら』）</span></div>
   <div><b>{{ site.data.group_ix.nogizaka46.n }}<small>軒</small></b><span>このサイトに登録されている、乃木坂46のお店ぜんぶ</span></div>
@@ -92,7 +88,7 @@ faq:
 <div class="pf-quote"><p>鎌倉の7軒のうち5軒は『地球が丸いなら』のMVのお店。ホットケーキ、フレンチトースト、スウィーツバーガー、わらび餅、くずきりと、MVをなぞるだけで甘いもののはしごになります。5軒のうち3軒は鎌倉駅から徒歩2分です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：カフェ8軒、食事8軒、スイーツ4軒、和食3軒、焼肉2軒、ラーメン2軒、その他・中華・居酒屋が1軒ずつ。場所は神奈川県鎌倉市7軒、台東区4軒、港区4軒、千代田区3軒、愛知県名古屋市3軒、中央区2軒、豊島区・品川区・渋谷区・新宿区・文京区・目黒区・立川市が1軒ずつ" width="420" height="774" loading="lazy" decoding="async"><figcaption>この記事の30軒を数えました（ジャンルは推しグルメ巡礼MAPのデータの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事9軒、カフェ8軒、和食・スイーツ・ラーメンが2軒ずつ、居酒屋・中華・焼肉が1軒ずつ。場所は神奈川県鎌倉市7軒、港区4軒、愛知県名古屋市3軒、千代田区2軒、台東区2軒、品川区・新宿区・目黒区・中央区・渋谷区・豊島区・文京区・立川市が1軒ずつ" width="420" height="730" loading="lazy" decoding="async"><figcaption>この記事の26軒を数えました（ジャンルは推しグルメ巡礼MAPのデータの分類）</figcaption></figure>
 
 <h2>『地球が丸いなら』の鎌倉：甘いものをはしご</h2>
 <p>21stシングル『ジコチューで行こう！』Type-Dに収録された『地球が丸いなら』のMVのお店です。食べていたものは推しグルメ巡礼MAPのデータより。</p>
@@ -147,15 +143,12 @@ faq:
 {% include inline-shop-grid.html ids="nogizaka46-3bd4b889-,nogizaka46-7e8466b6-,nogizaka46-84c802d9-,nogizaka46-85374eb4-,nogizaka46-bfe83dcc-" %}
 
 <h2>出典を確認中のお店</h2>
-<p>次の6軒は、推しグルメ巡礼MAPのデータに番組や動画の回がはっきり入っていないお店です。公式の情報で確かめられたら、ここに書き足します。</p>
+<p>次の2軒は、推しグルメ巡礼MAPのデータに番組や動画の回がはっきり入っていないお店です。公式の情報で確かめられたら、ここに書き足します。</p>
 <ul class="pf-works">
-  <li><span class="k">浅草</span><div><b>浅草 花月堂・寿清庵</b><span>浅草駅の近く、浅草2丁目の2軒</span></div></li>
-  <li><span class="k">銀座</span><div><b>銀座 佐藤養助</b><span>稲庭うどん／銀座駅 徒歩3分</span></div></li>
-  <li><span class="k">神保町</span><div><b>欧風カレー ボンディ 神保町本店</b><span>神田神保町2丁目</span></div></li>
   <li><span class="k">立川</span><div><b>高尾亭 立川本店</b><span>立川南駅 徒歩11分</span></div></li>
   <li><span class="k">名古屋</span><div><b>えんそば 錦1丁目店</b><span>名古屋城駅 徒歩7分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-hanagetsudo,nogizaka46-juseian,nogizaka46-ginza-sato-yosuke,nogizaka46-bondy-jimbocho,nogizaka46-9b697f1b-,nogizaka46-ffa301c4-" %}
+{% include inline-shop-grid.html ids="nogizaka46-9b697f1b-,nogizaka46-d53395ac-" %}
 
 <h2>はじめて見るならこの2本</h2>
 <p>公式チャンネルの動画です（タップすると再生します）。</p>
@@ -169,13 +162,13 @@ faq:
 <ul>
   <li><strong>鎌倉</strong>：イワタコーヒー店・鎌倉 ROOFTOPS・段葛 こ寿々・鎌倉釜飯 かまかま本店（どれも鎌倉駅 徒歩2分）。少し歩いてくずきり みのわ（佐助）、江ノ電でumi cafe（由比ヶ浜駅 徒歩7分）とcafé recette 鎌倉（長谷駅 徒歩6分）。</li>
   <li><strong>新橋・赤坂・日比谷</strong>：カレーは飲み物。・豚大学・焼肉ライク（どれも新橋駅 徒歩1分）、炎麻堂 赤坂店（赤坂駅 徒歩1分）、ティム・ホー・ワン（日比谷駅 徒歩2分）。</li>
-  <li><strong>浅草</strong>：浅草 花月堂 本店・寿清庵・浅草 いづ美（浅草駅 徒歩5分）。</li>
+  <li><strong>浅草</strong>：浅草 花月堂 本店・浅草 いづ美（浅草駅 徒歩5分）。</li>
   <li><strong>名古屋</strong>：喫茶ツヅキ（太閤通駅 徒歩1分）・喫茶ニューポピー（国際センター駅 徒歩6分）・えんそば 錦1丁目店（名古屋城駅 徒歩7分）。</li>
 </ul>
 
 <div class="pf-cta">
   <p>乃木坂46のお店を、地図でぜんぶ見る</p>
-  <span>この記事の30軒のほかにも、乃木坂46ゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の26軒のほかにも、乃木坂46ゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=nogizaka46&amp;view=map">地図で乃木坂46のお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.nogizaka46.u }}">乃木坂46のお店一覧（グループのページ）</a>もどうぞ。</p>

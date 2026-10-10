@@ -1,18 +1,21 @@
 ---
 layout: shop
 title: "山西亭"
-description: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアーで紹介された食事「山西亭」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアーで紹介された食事「山西亭」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "west-e547e60d"
 name: "山西亭"
 genre: "shokuji"
 prefecture: "東京都"
+city: "新宿区"
 address: "東京都新宿区大久保2-6-10"
 nearest_station: "東新宿駅 徒歩5分"
 source_video_title: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアー"
 source_url: "https://seitaikarate.mondainashi.net/541.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13178762/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001134893/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/58/P023340158/P023340158_238.jpg"
 source_type: "tv"
 lat: 35.70170073787903
 lng: 139.70793978347044

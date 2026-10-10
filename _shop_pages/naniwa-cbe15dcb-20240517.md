@@ -22,6 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "生しらすとびっちょ丼
-2,200円"
+  - "生しらすとびっちょ丼"
 ---

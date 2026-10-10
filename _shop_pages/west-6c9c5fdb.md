@@ -1,23 +1,7 @@
 ---
-layout: shop
-title: "郡山中華そば しょうや"
-description: "イキスギさんについてった 2023-05-16 郡山ブラックラーメンで紹介されたラーメン「郡山中華そば しょうや」（福島県郡山市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "west-6c9c5fdb-"
-name: "郡山中華そば しょうや"
-genre: "ramen"
-prefecture: "福島県"
-city: "郡山市"
-address: "福島県郡山市"
-source_video_title: "イキスギさんについてった 2023-05-16 郡山ブラックラーメン"
-source_url: "https://jwest.jp/ikisugi_20230516/"
-group: "west"
-tabelog_url: "https://tabelog.com/fukushima/A0702/A070201/7008950/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
-source_type: "tv"
-lat: 37.404937
-lng: 140.333381
-members:
-  - "小瀧望"
-groups:
-  - "west"
+redirect_to: "/shops/west-ff680eb7/"
+redirect_label: "しょうやのページ"
+sitemap: false
 ---

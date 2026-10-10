@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "かまいたちが行った「肉＆麺」"
-description: "街グルメをマジ探索!かまいまち（かまいたち）で紹介されたラーメン「肉＆麺」（東京都）。推し活グルメ巡礼スポット。"
+description: "街グルメをマジ探索!かまいまち（かまいたち）で紹介されたラーメン「肉＆麺」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "4eefdbb5"
 name: "肉＆麺"
 genre: "ramen"
 prefecture: "東京都"
+city: "新宿区"
 address: "東京都新宿区大久保1-12-24"
 nearest_station: "新大久保駅 徒歩4分"
 source_video_title: "街グルメをマジ探索!かまいまち（かまいたち）"

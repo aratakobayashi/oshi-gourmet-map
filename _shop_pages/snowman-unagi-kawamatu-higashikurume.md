@@ -7,18 +7,18 @@ name: "うなぎ川松"
 genre: "washoku"
 prefecture: "東京都"
 city: "東久留米市"
-address: "東京都台東区浅草1丁目4-1"
+address: "東京都東久留米市前沢1-6-10"
 nearest_station: "「前沢十字路」バス停下車徒歩3分"
 visited_date: "2024-02-07"
 youtube_id: "oEsMgH5QhFQ"
-source_video_title: "Snow Man【釣り部結成記念食事会】鰻を食べよう"
+source_video_title: "Snow Man【釣り部結成記念食事会】鰻を食べよう‼️"
 source_video_url: "https://www.youtube.com/watch?v=oEsMgH5QhFQ"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132802/13197749/"
 thumbnail_url: "https://img.youtube.com/vi/oEsMgH5QhFQ/hqdefault.jpg"
 seating_note: "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。"
-lat: 35.759
-lng: 139.5303
+lat: 35.74622
+lng: 139.515533
 members:
   - "岩本照"
   - "深澤辰哉"

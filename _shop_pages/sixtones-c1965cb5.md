@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「平塚ジンギスカン すすきの店」"
-description: "SixTONESのYouTubeで紹介された食事「平塚ジンギスカン すすきの店」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された焼肉「平塚ジンギスカン すすきの店」（北海道札幌市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-c1965cb5-"
 name: "平塚ジンギスカン すすきの店"
-genre: "shokuji"
+genre: "yakiniku"
 prefecture: "北海道"
 city: "札幌市"
 address: "北海道札幌市中央区南四条西2-2-4 メルキュールホテル札幌 1F"

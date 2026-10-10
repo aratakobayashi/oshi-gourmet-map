@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「テキサス津田沼」"
-description: "孤独のグルメ Season10 第2017話で紹介された焼肉「テキサス津田沼」（千葉県習志野市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ お正月スペシャル！～井之頭五郎の長い一日～で紹介された焼肉「テキサス津田沼」（千葉県習志野市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c18e1597-"
 name: "テキサス津田沼"
 genre: "yakiniku"
@@ -9,10 +9,10 @@ prefecture: "千葉県"
 city: "習志野市"
 address: "千葉県習志野市"
 nearest_station: "津田沼駅"
-source_video_title: "孤独のグルメ Season10 第2017話"
+source_video_title: "孤独のグルメ お正月スペシャル！～井之頭五郎の長い一日～"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/chiba/A1202/A120204/12001065/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/eMuLN2CnnUDYiv6lXHzX86P9L9H.jpg"
 source_type: "drama"
 lat: 35.6816753
 lng: 140.0272065

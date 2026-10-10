@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ちとせ」"
-description: "孤独のグルメ Season10 第2021話で紹介されたラーメン「ちとせ」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ 2021大晦日スペシャル～激走！絶景絶品・年忘れロードムービー～で紹介されたラーメン「ちとせ」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-c84527df-"
 name: "ちとせ"
 genre: "ramen"
@@ -9,10 +9,10 @@ prefecture: "三重県"
 city: "伊勢市"
 address: "三重県伊勢市"
 nearest_station: "宇治山田駅"
-source_video_title: "孤独のグルメ Season10 第2021話"
+source_video_title: "孤独のグルメ 2021大晦日スペシャル～激走！絶景絶品・年忘れロードムービー～"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24001056/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/7PoZDAa5uHkQIrTS8HQ6m2P6ghn.jpg"
 source_type: "drama"
 lat: 34.4875944
 lng: 136.7092334

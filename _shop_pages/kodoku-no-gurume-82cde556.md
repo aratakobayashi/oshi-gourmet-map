@@ -1,12 +1,13 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「カヤシマ」"
-description: "孤独のグルメ Season1 第7話で紹介された食事「カヤシマ」（東京都）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第7話で紹介されたカフェ「カヤシマ」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-82cde556-"
 name: "カヤシマ"
-genre: "shokuji"
+genre: "cafe"
 prefecture: "東京都"
-address: "東京都吉祥寺"
+city: "武蔵野市"
+address: "東京都武蔵野市"
 nearest_station: "吉祥寺駅"
 source_video_title: "孤独のグルメ Season1 第7話"
 group: "kodoku_no_gurume"

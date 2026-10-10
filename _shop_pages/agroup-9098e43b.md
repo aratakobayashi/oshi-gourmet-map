@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "賛田飯店"
-description: "agroupのYouTubeで紹介されたその他「賛田飯店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "agroupのYouTubeで紹介された中華「賛田飯店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-9098e43b-"
 name: "賛田飯店"
-genre: "others"
+genre: "chuka"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木5-16-4"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=WXBhPBd6YBI"
 source_url: "https://kosodate-and.net/agroup-chinese-dameyo"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13290682/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003693216/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg"
 lat: 35.6618167387185
 lng: 139.73550628421
 members:

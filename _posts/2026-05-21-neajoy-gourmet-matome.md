@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "≒JOY（ニアジョイ）が行ったお店まとめ｜ニアジョイらーめん部5軒・箱根の旅・食べ放題まで23軒を企画ごとに"
+title: "≒JOY（ニアジョイ）が行ったお店まとめ｜ニアジョイらーめん部5軒・箱根の旅・食べ放題まで20軒を企画ごとに"
 date: 2026-05-21
 last_modified_at: 2026-10-10
-description: "≒JOY（ニアリーイコールジョイ）のメンバーが公式YouTubeで訪れたお店23軒を、企画ごとにまとめました。大信田美月の「ニアジョイらーめん部」、鳥貴族・串カツ田中・スイパラの回、箱根・岡崎・浅草の旅まで、動画のタイトルと出演メンバー、ジャンルと場所の図つき。"
+description: "≒JOY（ニアリーイコールジョイ）のメンバーが公式YouTubeで訪れたお店20軒を、企画ごとにまとめました。大信田美月の「ニアジョイらーめん部」、鳥貴族・串カツ田中・スイパラの回、箱根・岡崎・浅草の旅まで、動画のタイトルと出演メンバー、ジャンルと場所の図つき。"
 group: neajoy
 article_type: matome
 prefecture: 東京都
 tags: [≒JOY, ニアジョイ, ニアリーイコールジョイ, 聖地巡礼, グルメ, まとめ, ラーメン, ニアジョイらーめん部, 大信田美月, 江角怜音, 箱根, 東京]
 thumbnail_video_id: igZmyXp6zKI
 summary:
-  - "≒JOYのメンバーが公式YouTubeで訪れたお店など23軒。すべて動画のタイトルと出演メンバーを動画ページで確かめて載せています"
+  - "≒JOYのメンバーが公式YouTubeで訪れたお店など20軒。すべて動画のタイトルと出演メンバーを動画ページで確かめて載せています"
   - "大信田美月が出演する「ニアジョイらーめん部」は5軒。天下一品・人類みな麺類・魂心家・みそきん・北ノ醤油チーホー"
-  - "東京14軒、神奈川6軒（箱根4・横浜2）、愛知2軒、大阪1軒"
+  - "東京11軒、神奈川6軒（箱根4・横浜2）、愛知2軒、大阪1軒"
   - "動画ごとに公開年月と出演メンバーを載せ、地図でまとめて巡れる"
 shop_ids:
   - neajoy-ec121482-202408
@@ -35,9 +35,6 @@ shop_ids:
   - neajoy-cc4ef957-202408
   - neajoy-samoyed_cafe_al-202509
   - neajoy-b1d5f8cd-202408
-  - neajoy-pippon-202408
-  - neajoy-f961d046-202408
-  - neajoy-brilliarunningstadiu-202602
 faq:
   - q: "≒JOYのグルメ動画はどこで見られますか？"
     a: "おもに、=LOVE・≠ME・≒JOY合同の公式YouTubeチャンネル「イコラブ ノイミー ニアジョイ チャンネル」で公開されています。この記事では、各お店に動画の公開年月とタイトルを載せています。"
@@ -48,14 +45,14 @@ faq:
   - q: "旅の回ではどこへ行っていますか？"
     a: "箱根のノープラン旅（2023年11月）で4軒、愛知県岡崎市の旅（2024年5月）で2軒、八景島シーパラダイスの回（2023年10月）で1軒が登場します。上京組の3人で浅草を回った回（2022年11月）もあります。"
   - q: "≒JOYが行ったお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で≒JOYを選ぶと、この記事の23軒を地図で見られます。"
+    a: "「お店を探す」で≒JOYを選ぶと、この記事の20軒を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#d946ef">
 
 <p><strong>≒JOY（ニアリーイコールジョイ）</strong>は、指原莉乃さんがプロデュースする=LOVE、≠MEに続く3つめのグループとして、2022年に始動しました（公式チャンネルの紹介より）。=LOVE・≠ME・≒JOYの合同公式YouTubeチャンネルでは、大信田美月さんが「部長」の<strong>ニアジョイらーめん部</strong>や、食べ放題、メンバーだけで出かける旅の回でお店が登場します。</p>
 
-<p>この記事では、推しグルメ巡礼MAPに登録している<strong>23軒</strong>を企画ごとにまとめました。すべて動画ページでタイトルと出演メンバーを確かめています。</p>
+<p>この記事では、推しグルメ巡礼MAPに登録している<strong>20軒</strong>を企画ごとにまとめました。すべて動画ページでタイトルと出演メンバーを確かめています。</p>
 
 <h2>ひと目でわかる ニアジョイのグルメ</h2>
 <div class="pf-card">
@@ -66,26 +63,26 @@ faq:
     <span class="pf-card__color"><i></i>らーめん部・食べ放題・旅</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>23軒</dd></div>
-    <div><dt>動画の数</dt><dd>18本</dd></div>
+    <div><dt>お店の数</dt><dd>20軒</dd></div>
+    <div><dt>動画の数</dt><dd>15本</dd></div>
     <div><dt>ニアジョイらーめん部</dt><dd>5軒</dd></div>
-    <div><dt>多いエリア</dt><dd>東京（14軒）</dd></div>
+    <div><dt>多いエリア</dt><dd>東京（11軒）</dd></div>
     <div><dt>旅先</dt><dd>箱根（4軒）・岡崎（2軒）</dd></div>
-    <div><dt>ジャンル</dt><dd>食事9軒・ラーメン5軒</dd></div>
+    <div><dt>ジャンル</dt><dd>食事7軒・ラーメン5軒</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>23<small>軒</small></b><span>この記事のお店</span></div>
+  <div><b>20<small>軒</small></b><span>この記事のお店</span></div>
   <div><b>5<small>軒</small></b><span>ニアジョイらーめん部のお店</span></div>
-  <div><b>14<small>軒</small></b><span>東京都内のお店</span></div>
+  <div><b>11<small>軒</small></b><span>東京都内のお店</span></div>
   <div><b>{{ site.data.group_ix.neajoy.n }}<small>軒</small></b><span>このサイトに登録されている、≒JOYのお店ぜんぶ</span></div>
 </div>
 
 <div class="pf-quote"><p>ラーメンの回は5本すべてに大信田美月さんが出ていて、相方が毎回かわります。こってりの天下一品から、地元・大阪の人類みな麺類、家系の魂心家まで、1杯ずつたどるだけで「らーめん部」の歩みになります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/neajoy-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事9軒、ラーメン5軒、居酒屋・和食・スイーツ・カフェが2軒ずつ、その他1軒。場所は神奈川県箱根町4軒、東京都千代田区3軒、台東区3軒、横浜市2軒、愛知県岡崎市2軒、ほかの区市と大阪市が1軒ずつ" width="420" height="686" loading="lazy" decoding="async"><figcaption>この記事の23軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/neajoy-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事7軒、ラーメン5軒、居酒屋・和食・スイーツ・カフェが2軒ずつ。場所は神奈川県箱根町4軒、東京都千代田区3軒、台東区3軒、横浜市2軒、愛知県岡崎市2軒、ほかの区市と大阪市が1軒ずつ" width="420" height="610" loading="lazy" decoding="async"><figcaption>この記事の20軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>ニアジョイらーめん部</h2>
 <ul class="pf-works">
@@ -117,14 +114,6 @@ faq:
 </ul>
 {% include inline-shop-grid.html ids="neajoy-0ccad40f-202408,neajoy-14f3ebca-202408,neajoy-5d7a9b9d-202408,neajoy-67083c58-202408,neajoy-cf70ada8-202408,neajoy-la_maison_du_r-20240814,neajoy-seafood_grill_yakiya-202408,neajoy-ea607bdf-202408,neajoy-cc4ef957-202408,neajoy-samoyed_cafe_al-202509,neajoy-b1d5f8cd-202408" %}
 
-<h2>自販機・クレーンゲーム・ダンス動画の場所</h2>
-<p>食べるお店ではありませんが、≒JOYの動画に登場した場所として登録しています。有明アーバンスポーツパークは、≒JOY公式チャンネルのダンス動画の場所です。</p>
-<ul class="pf-works">
-  <li><span class="k">2023.3</span><div><b>PiPPon 中延店</b><span>【1万円】高級自販機で大当たりのキャビアを狙う！【ニアジョイ】（大信田美月・大西葵・村山結香・山野愛月）</span></div></li>
-  <li><span class="k">2023.10</span><div><b>エブリデイ多摩ノ国</b><span>超巨大！クレーンゲーム専門店で景品いくつ取れるか対決してみた！【ニアジョイ】（天野香乃愛・山田杏佳・山野愛月）</span></div></li>
-  <li><span class="k">2026.2</span><div><b>有明アーバンスポーツパーク BrilliaRUNNINGSTADIUM</b><span>≒JOY（ニアリーイコールジョイ）/ 4th Single 表題曲『電話番号教えて！』Special Dance Ver.</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="neajoy-pippon-202408,neajoy-f961d046-202408,neajoy-brilliarunningstadiu-202602" %}
 <p class="note">動画のタイトルはYouTubeの動画ページのものです（絵文字は省きました）。左の数字は動画の公開年月。出演メンバーは公式チャンネルの動画の説明欄より。</p>
 
 <h2>はじめて見るならこの4本</h2>
@@ -147,7 +136,7 @@ faq:
 
 <div class="pf-cta">
   <p>≒JOYのお店を、地図でぜんぶ見る</p>
-  <span>この記事の23軒を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の20軒を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=neajoy&amp;view=map">地図で≒JOYのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.neajoy.u }}">≒JOYのお店一覧（グループのページ）</a>もどうぞ。</p>

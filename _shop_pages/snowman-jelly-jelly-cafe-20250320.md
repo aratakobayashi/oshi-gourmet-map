@@ -9,10 +9,12 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区宇田川町10-2 新東京ビル202"
 nearest_station: "「渋谷駅」より徒歩7分"
-visited_date: "2025-03-20"
+visited_date: "2018-05-16"
 youtube_id: "siVHcoKNfY4"
-source_video_title: "【すのちゅーぶ】渋谷ボードゲームカフェ「JELLY JELLY CAFE」SnowManロケ地"
+source_video_title: "Snow Man 話題！【ボードゲームカフェ】に行ってみた"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ003410064/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/20/P040544820/P040544820_238.jpg"
 lat: 35.6691
 lng: 139.689
 members:

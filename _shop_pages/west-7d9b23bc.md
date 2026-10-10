@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "定峰峠の鬼うどん"
-description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介されたラーメン「定峰峠の鬼うどん」（埼玉県秩父郡東秩父村）。推し活グルメ巡礼スポット。"
+description: "リア突WEST 2023-01-08 山小屋グルメはしご（飯能市）で紹介された和食「定峰峠の鬼うどん」（埼玉県秩父郡東秩父村）。推し活グルメ巡礼スポット。"
 shop_id: "west-7d9b23bc-"
 name: "定峰峠の鬼うどん"
-genre: "ramen"
+genre: "washoku"
 prefecture: "埼玉県"
 city: "秩父郡東秩父村"
 address: "埼玉県秩父郡東秩父村白石333"

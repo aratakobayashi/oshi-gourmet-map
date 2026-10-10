@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「庄助」"
-description: "孤独のグルメ Season1 第1話で紹介された和食「庄助」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season1 第1話で紹介された居酒屋「庄助」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-fda4752d-"
 name: "庄助"
-genre: "washoku"
+genre: "izakaya"
 prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区"

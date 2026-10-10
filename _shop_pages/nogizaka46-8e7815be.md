@@ -1,12 +1,12 @@
 ---
 layout: shop
 title: "乃木坂46が行った「レストランあすか野」"
-description: "ここにはないものヒット祈願で紹介されたその他「レストランあすか野」（奈良県高市）。推し活グルメ巡礼スポット。"
+description: "ここにはないものヒット祈願で紹介されたその他「レストランあすか野」（奈良県高市郡明日香村）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-8e7815be-"
 name: "レストランあすか野"
 genre: "others"
 prefecture: "奈良県"
-city: "高市"
+city: "高市郡明日香村"
 address: "奈良県高市郡明日香村島庄165-1"
 source_video_title: "ここにはないものヒット祈願"
 group: "nogizaka46"

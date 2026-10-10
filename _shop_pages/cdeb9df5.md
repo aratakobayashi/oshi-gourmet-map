@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "大新園"
-description: "westが訪れた中華「大新園」（神奈川県）。推し活グルメ巡礼スポット。"
+description: "westが訪れた中華「大新園」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "cdeb9df5"
 name: "大新園"
 genre: "chuka"
 prefecture: "神奈川県"
+city: "横浜市"
 address: "神奈川県横浜市中区山下町"
 nearest_station: "元町・中華街"
 group: "west"

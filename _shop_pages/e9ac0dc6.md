@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「タケウチ 神保町本店」"
-description: "それスノで紹介された食事「タケウチ 神保町本店」（東京都）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された食事「タケウチ 神保町本店」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "e9ac0dc6"
 name: "タケウチ 神保町本店"
 genre: "shokuji"
 prefecture: "東京都"
+city: "千代田区"
 address: "東京都千代田区神田神保町1丁目20-3"
 nearest_station: "神保町駅 徒歩2分"
 source_video_title: "それスノ"

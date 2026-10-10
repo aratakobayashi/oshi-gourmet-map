@@ -1,19 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「カフェラボハマダ」"
-description: "帰り道は遠回りしたくなる MVで紹介されたカフェ「カフェラボハマダ」（栃木県足利市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-3e1e84d1-"
-name: "カフェラボハマダ"
-genre: "cafe"
-prefecture: "栃木県"
-city: "足利市"
-address: "足利市通2-12-11"
-nearest_station: "ちんちん電車のりば駅 徒歩10分"
-source_video_title: "帰り道は遠回りしたくなる MV"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9014646/"
-lat: 34.9819033
-lng: 135.7465807
-groups:
-  - "nogizaka46"
+redirect_to: "/shops/nogizaka46-d20044af/"
+redirect_label: "カフェ ラボ ハマダのページ"
+sitemap: false
 ---

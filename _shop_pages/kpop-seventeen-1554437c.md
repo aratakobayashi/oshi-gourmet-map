@@ -12,6 +12,8 @@ nearest_station: "恵美須町駅 徒歩4分"
 source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
+hotpepper_url: "https://www.hotpepper.jp/strJ001178129/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/50/85/P044455085/P044455085_238.jpg"
 lat: 34.6517376
 lng: 135.5061633
 members:

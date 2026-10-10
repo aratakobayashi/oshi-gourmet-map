@@ -28,6 +28,11 @@ tags:
   - "神楽坂"
   - "予約困難"
   - "ミシュラン"
+ordered_items:
+  - "マルゲリータ"
+  - "レモンソーダ"
+  - "ネーヴェ"
+  - "レモンソーダ"
 affiliate_links:
   - label: "TableCheckで予約"
     url: "https://www.tablecheck.com/ja/shops/400-yonhyakudo-tokyo/reserve"

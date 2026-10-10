@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "嵐が行った「CAFE & GRILL」"
-description: "嵐にしやがれで紹介されたその他「CAFE & GRILL」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "嵐にしやがれで紹介されたカフェ「CAFE & GRILL」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "arashi-cafe_grill-"
 name: "CAFE & GRILL"
-genre: "others"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 nearest_station: "神保町駅 徒歩3分"

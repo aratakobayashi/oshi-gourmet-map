@@ -11,7 +11,7 @@ address: "東京都中央区銀座1丁目5-10 銀座ファーストファイブ�
 nearest_station: "「銀座1丁目駅」より徒歩1分「有楽町駅」より徒歩3分"
 visited_date: "2025-12-17"
 youtube_id: "5TbjbC6I9vY"
-source_video_title: "Snow Man【ザギンでシースー】北海道直前のご褒美タイム"
+source_video_title: "Snow Man【ザギンでシースー】北海道直前のご褒美タイム🍣"
 source_video_url: "https://www.youtube.com/watch?v=5TbjbC6I9vY"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13277198/"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「四馬路」"
-description: "孤独のグルメ Season8 第3話で紹介された和食「四馬路」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第3話で紹介された食事「四馬路」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-ae19e1a8-"
 name: "四馬路"
-genre: "washoku"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区"

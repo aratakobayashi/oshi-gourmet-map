@@ -9,13 +9,13 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神南1-22-7"
 nearest_station: "渋谷駅 徒歩3分"
-visited_date: "2020-03-10"
-youtube_id: "fjljPstbzAw"
-source_video_title: "SixTONES - ラーメン大好きグループ"
+visited_date: "2025-01-24"
+youtube_id: "HDBtAkYKNM4"
+source_video_title: "SixTONES【６人念願の朝ラー】並んで食べるって久々じゃね？🍜"
 source_video_url: "https://www.youtube.com/watch?v=f5pC2GkKq78"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13001762/"
-thumbnail_url: "https://img.youtube.com/vi/fjljPstbzAw/hqdefault.jpg"
+thumbnail_url: "https://img.youtube.com/vi/HDBtAkYKNM4/hqdefault.jpg"
 lat: 35.6611
 lng: 139.7008
 members:

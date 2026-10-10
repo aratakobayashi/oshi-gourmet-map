@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "焼餃子専門店 岐州"
-description: "KinKi Kidsのブンブブーン 即完売グルメで紹介された食事「焼餃子専門店 岐州」（岐阜県岐阜市）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsのブンブブーン 即完売グルメで紹介された中華「焼餃子専門店 岐州」（岐阜県岐阜市）。推し活グルメ巡礼スポット。"
 shop_id: "kinkikids-d6e1d4a1-20221008"
 name: "焼餃子専門店 岐州"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "岐阜県"
 city: "岐阜市"
 address: "岐阜県岐阜市神田町8-18"

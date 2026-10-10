@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「長崎飯店 渋谷店」"
-description: "孤独のグルメ Season6 第7話で紹介されたラーメン「長崎飯店 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第7話で紹介された中華「長崎飯店 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5e28c0e3-"
 name: "長崎飯店 渋谷店"
-genre: "ramen"
+genre: "chuka"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区"
@@ -12,7 +12,9 @@ nearest_station: "渋谷駅"
 source_video_title: "孤独のグルメ Season6 第7話"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13281342/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000005277/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/5GcMEKRVXugxQoa79Ye6rkPwJYg.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/86/89/P024638689/P024638689_238.jpg"
 source_type: "drama"
 lat: 35.6633709
 lng: 139.6964952

@@ -1,11 +1,11 @@
 ---
-title: "嵐が行ったその他21選"
-description: "嵐のメンバーが実際に訪れたその他スポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "嵐が行ったその他16選"
+description: "嵐のメンバーが実際に訪れたその他スポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
 genre: others
 group_label: "嵐"
 slug_id: arashi-others
-shop_count: 21
+shop_count: 16
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 related_genres:
   - arashi-shokuji

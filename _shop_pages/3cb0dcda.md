@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「海鮮丼 佐政」"
-description: "それスノで紹介された食事「海鮮丼 佐政」（静岡県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された食事「海鮮丼 佐政」（静岡県沼津市）。推し活グルメ巡礼スポット。"
 shop_id: "3cb0dcda"
 name: "海鮮丼 佐政"
 genre: "shokuji"
 prefecture: "静岡県"
+city: "沼津市"
 address: "静岡県沼津市千本港町83"
 source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-kaisendon/"

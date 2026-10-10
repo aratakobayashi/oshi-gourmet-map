@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=f7B8Wj-FfS0"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130504/13279399/"
 thumbnail_url: "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg"
+seating_note: "4人が座ったのは、真ん中のテーブル席だと思われます。"
 lat: 35.7072
 lng: 139.721
 members:

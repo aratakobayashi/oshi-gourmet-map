@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=Z3VYctb_6uo"
 source_url: "https://kosodate-and.net/kyomotokai-bbq"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13286385/"
+hotpepper_url: "https://www.hotpepper.jp/strJ004089157/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/78/P047365478/P047365478_238.jpg"
 lat: 35.6705999
 lng: 139.7159289
 members:

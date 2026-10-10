@@ -1,20 +1,20 @@
 ---
-title: "=LOVEが行った食事52選"
-description: "=LOVEのメンバーが実際に訪れた食事スポットを52件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "=LOVEが行った食事50選"
+description: "=LOVEのメンバーが実際に訪れた食事スポットを50件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: shokuji
 group_label: "=LOVE"
 slug_id: equal-love-shokuji
-shop_count: 52
+shop_count: 50
 group_color: "#ec4899"
 group_bio: "=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。"
 youtube_id: evDdxOemuh8
 related_genres:
   - equal-love-washoku
   - equal-love-izakaya
-  - equal-love-cafe
+  - equal-love-ramen
 related_groups:
-  - snowman-shokuji
-  - kodoku-no-gurume-shokuji
   - arashi-shokuji
+  - snowman-shokuji
+  - west-shokuji
 ---

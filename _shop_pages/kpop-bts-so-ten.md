@@ -12,6 +12,8 @@ source_video_title: "J-Hope Weverse Live（東京滞在中）"
 source_url: "https://ameblo.jp/j-hope19940218/entry-12896371954.html"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13020624/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001217467/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/85/95/P047308595/P047308595_238.jpg"
 lat: 35.6469738
 lng: 139.7086461
 members:

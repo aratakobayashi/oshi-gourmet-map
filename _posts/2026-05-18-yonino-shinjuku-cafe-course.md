@@ -19,8 +19,7 @@ shop_ids:
   - yonino-blue-bottle-shinjuku
   - yonino-paul-bassett-shinjuku
   - yonino-donish-coffee-kagurazaka
-  - yonino-0685dfb8-202506
-  - yonino-400c_pizza_tokyo-202506
+  - yonino-400-pizza
 faq:
   - q: "このコースではどんな順番で回りますか？"
     a: "一例として、新宿1丁目のDOUBLE TALL COFFEE → ルミネエスト新宿のブルーボトルコーヒー → 新宿野村ビルのPaul Bassett 新宿と歩き、都営大江戸線で新宿西口駅から牛込神楽坂駅へ移って、袋町のコーヒースタンド → 若宮町の400℃ Pizza Tokyo 神楽坂店と回ります。"
@@ -60,7 +59,7 @@ faq:
 
 <div class="pf-nums">
   <div><b>5<small>本</small></b><span>この記事のお店が登場する動画</span></div>
-  <div><b>4<small>か所</small></b><span>コーヒーのお店（神楽坂の1か所はデータに2つの店名で登録）</span></div>
+  <div><b>4<small>か所</small></b><span>コーヒーのお店</span></div>
   <div><b>2<small>エリア</small></b><span>新宿と神楽坂。間は大江戸線でひと駅ずつ</span></div>
   <div><b>{{ site.data.group_ix.yonino.n }}<small>軒</small></b><span>このサイトに登録されている、よにのちゃんねるのお店ぜんぶ</span></div>
 </div>
@@ -71,12 +70,12 @@ faq:
 
 <h2>よにののカフェ年表</h2>
 <p>動画が公開された順です。2025年の2月から9月まで、コーヒーの回が続きました。</p>
-<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/timeline.svg" alt="よにののカフェ年表：2025年2月 ブルーボトルコーヒー 新宿カフェ（#399）、5月 Paul Bassett 新宿（#422）、6月 400℃ Pizza Tokyo 神楽坂店（#431）、神楽坂コーヒースタンドとDonish Coffee Company 神楽坂（#434）、9月 DOUBLE TALL COFFEE 新宿御苑（#457）" width="420" height="664" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「よにのちゃんねる」より</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/timeline.svg" alt="よにのカフェ年表：2025年2月 ブルーボトルコーヒー 新宿カフェ（#399）、5月 Paul Bassett 新宿（#422）、6月 400℃ PIZZA TOKYO（#431）とDonish Coffee Company 神楽坂（#434）、9月 DOUBLE TALL COFFEE 新宿御苑（#457）" width="420" height="580" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「よにのちゃんねる」より</figcaption></figure>
 
 <div class="pf-quote"><p>#422の公式の概要欄には「#コーヒー巡り」、#434には「#神楽坂散歩」。ドライブや散歩の途中でコーヒーを買う、肩の力が抜けた回が多いのが、このコースのお店の共通点です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/genre.svg" alt="お店のジャンルと場所：カフェ5軒、その他1軒（ピザ）。場所は6軒とも新宿区" width="420" height="274" loading="lazy" decoding="async"><figcaption>この記事のお店（データの6件）を数えました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/genre.svg" alt="お店のジャンルと場所：カフェ4軒、食事1軒（ピザ）。場所は5軒とも新宿区" width="420" height="274" loading="lazy" decoding="async"><figcaption>この記事のお店5軒を数えました</figcaption></figure>
 
 <h2>新宿エリア：歩いてコーヒー3か所</h2>
 <ul class="pf-works">
@@ -87,13 +86,12 @@ faq:
 {% include inline-shop-grid.html ids="yonino-double-tall-coffee-shinjuku,yonino-blue-bottle-shinjuku,yonino-paul-bassett-shinjuku" %}
 
 <h2>神楽坂エリア：朝のコーヒーとピザ</h2>
-<p>#431と#434は、公式の概要欄に「#にのやま」のハッシュタグが付いた二宮さん・山田さんの【朝食!!】回です。#434のコーヒースタンドは、推しグルメ巡礼MAPのデータに「Donish Coffee Company 神楽坂」と「神楽坂コーヒースタンド」の2つの店名で、同じ住所（袋町5-1 Faro神楽坂1F）に登録されています。</p>
+<p>#431と#434は、公式の概要欄に「#にのやま」のハッシュタグが付いた二宮さん・山田さんの【朝食!!】回です。</p>
 <ul class="pf-works">
   <li><span class="k">#434</span><div><b>Donish Coffee Company 神楽坂</b><span>【朝食!!】ドライブの日／神楽坂ブレンド（アイス）、いちご風味（アイス）</span></div></li>
-  <li><span class="k">#434</span><div><b>神楽坂コーヒースタンド</b><span>【朝食!!】ドライブの日／同じ住所（袋町5-1 Faro神楽坂1F）</span></div></li>
   <li><span class="k">#431</span><div><b>400℃ Pizza Tokyo 神楽坂店</b><span>【朝食!!】やまだとざーぴーな日／マルゲリータ、ネーヴェ、レモンソーダ</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-donish-coffee-kagurazaka,yonino-0685dfb8-202506,yonino-400c_pizza_tokyo-202506" %}
+{% include inline-shop-grid.html ids="yonino-donish-coffee-kagurazaka,yonino-400-pizza" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>よにのちゃんねるの公式動画です（タップすると再生します）。</p>

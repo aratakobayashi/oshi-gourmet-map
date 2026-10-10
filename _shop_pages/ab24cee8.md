@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "Snow Manが行った「ペニーレイン 那須店」"
-description: "それスノで紹介されたカフェ「ペニーレイン 那須店」（栃木県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介されたカフェ「ペニーレイン 那須店」（栃木県那須郡那須町）。推し活グルメ巡礼スポット。"
 shop_id: "ab24cee8"
 name: "ペニーレイン 那須店"
 genre: "cafe"
 prefecture: "栃木県"
+city: "那須郡那須町"
 address: "栃木県那須郡那須町湯本656-2"
 source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-tochigi/"

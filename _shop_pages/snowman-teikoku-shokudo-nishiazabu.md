@@ -7,7 +7,7 @@ name: "帝國食堂"
 genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
-address: "東京都港区赤坂9丁目6-30 乃木坂ビル B1F"
+address: "東京都港区西麻布2-15-13 天崎ビル 1F"
 nearest_station: "千代田線「乃木坂駅」より徒歩9分日比谷線「六本木駅」より徒歩13分"
 visited_date: "2026-02-11"
 youtube_id: "8j6glqZxVzU"
@@ -18,8 +18,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13153906/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004444214/"
 thumbnail_url: "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/11/P048221411/P048221411_238.jpg"
-lat: 35.6563
-lng: 139.724
+lat: 35.661324
+lng: 139.721634
 members:
   - "佐久間大介"
   - "深澤辰哉"

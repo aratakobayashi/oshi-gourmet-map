@@ -1,19 +1,7 @@
 ---
-layout: shop
-title: "孤独のグルメが行った「ビストロ バイキング」"
-description: "孤独のグルメ Season10 第11話で紹介された食事「ビストロ バイキング」（千葉県旭市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "4ee9cceb"
-name: "ビストロ バイキング"
-genre: "shokuji"
-prefecture: "千葉県"
-city: "旭市"
-source_video_title: "孤独のグルメ Season10 第11話"
-group: "kodoku_no_gurume"
-tabelog_url: "https://tabelog.com/chiba/A1205/A120502/12025317/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/j8DzkyMb28rjSTzMP3zrsG2JA5Q.jpg"
-source_type: "tv"
-lat: 35.72303693897155
-lng: 140.65221055418579
-groups:
-  - "kodoku_no_gurume"
+redirect_to: "/shops/kodoku-no-gurume-0ddde1a8/"
+redirect_label: "レストラン バイキングのページ"
+sitemap: false
 ---

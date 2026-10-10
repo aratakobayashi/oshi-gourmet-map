@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "=LOVEが行った「えどもんど中野」"
-description: "=LOVEのYouTubeで紹介された居酒屋「えどもんど中野」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたラーメン「えどもんど中野」（東京都中野区）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-f22d7edd-202502"
 name: "えどもんど中野"
-genre: "izakaya"
+genre: "ramen"
 prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区中野５丁目５６−１２"

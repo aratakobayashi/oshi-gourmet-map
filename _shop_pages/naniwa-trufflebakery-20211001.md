@@ -12,7 +12,6 @@ nearest_station: "門前仲町駅 徒歩1分"
 visited_date: "2021-10-01"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13310407/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.6722765
 lng: 139.7950555
 members:

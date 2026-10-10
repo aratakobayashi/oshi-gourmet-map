@@ -12,6 +12,8 @@ source_video_title: "ジゼル 高円寺来訪"
 source_url: "https://r.gnavi.co.jp/11t9rkgn0000/"
 group: "kpop_aespa"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13305396/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003671556/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/85/36/P043508536/P043508536_238.jpg"
 lat: 35.7073164
 lng: 139.6548546
 members:

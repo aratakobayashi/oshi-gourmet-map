@@ -1,18 +1,21 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ傳米」"
-description: "それスノで紹介された和食「うなぎ傳米」（埼玉県）。推し活グルメ巡礼スポット。"
+description: "それスノで紹介された和食「うなぎ傳米」（埼玉県川越市）。推し活グルメ巡礼スポット。"
 shop_id: "ebe1f3a0"
 name: "うなぎ傳米"
 genre: "washoku"
 prefecture: "埼玉県"
+city: "川越市"
 address: "埼玉県川越市幸町1-10"
 nearest_station: "本川越駅 徒歩15分"
 source_video_title: "それスノ"
 source_url: "https://fananablog.com/soresuno-seichi-kawagoe/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11056695/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001294415/?vos=nhppalsa000016"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/36/25/P039153625/P039153625_238.jpg"
 lat: 35.922321337667164
 lng: 139.4826923858568
 groups:

@@ -9,14 +9,13 @@ prefecture: "神奈川県"
 city: "鎌倉市"
 address: "神奈川県鎌倉市小町2-11-8"
 nearest_station: "鎌倉駅 徒歩2分"
-youtube_id: "Nm_W7Ii-eW8"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14014112/"
-thumbnail_url: "https://img.youtube.com/vi/Nm_W7Ii-eW8/hqdefault.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
-lat: 35.319456
-lng: 139.5490021
+lat: 35.32066
+lng: 139.552414
 members:
   - "新内眞衣"
   - "衛藤美彩"

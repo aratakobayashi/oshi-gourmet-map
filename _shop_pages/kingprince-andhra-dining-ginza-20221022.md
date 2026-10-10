@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "King & Princeが行った「Andhra Dining GINZA」"
-description: "King&Princeる。当たり前レストランで紹介された居酒屋「Andhra Dining GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "King&Princeる。当たり前レストランで紹介された食事「Andhra Dining GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "kingprince-andhra_dining_ginza-20221022"
 name: "Andhra Dining GINZA"
-genre: "izakaya"
+genre: "shokuji"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座1-8-2 銀座プルミエビル２Ｆ"

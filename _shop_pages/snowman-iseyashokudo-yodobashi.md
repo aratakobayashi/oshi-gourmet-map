@@ -1,19 +1,21 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂（淀橋市場内）」"
-description: "Snow ManのYouTubeで紹介されたその他「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow ManのYouTubeで紹介された食事「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "snowman-iseyashokudo-yodobashi"
 name: "伊勢屋食堂（淀橋市場内）"
-genre: "others"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区北新宿4-2-1 淀橋市場内"
+nearest_station: "「大久保駅」より徒歩7分"
 visited_date: "2025-02-05"
 youtube_id: "1cQeue2ITFU"
 source_video_title: "Snow Man【市場内の食堂で昼メシ】定食ってたまらんね‼️"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"
 thumbnail_url: "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg"
+seating_note: "店内入って左手のテーブル席に座りました。 手前壁寄りが向井さん、通路寄りが渡辺さん、奥壁寄りがラウールさん、通路寄りが阿部さんという席順でした。"
 lat: 35.7014
 lng: 139.6931
 members:

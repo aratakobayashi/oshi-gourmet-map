@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和風カレー さや」"
-description: "谷村町駅【今、話したい誰かがいる】で紹介されたラーメン「和風カレー さや」（山梨県都留市）。推し活グルメ巡礼スポット。"
+description: "谷村町駅【今、話したい誰かがいる】で紹介された食事「和風カレー さや」（山梨県都留市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-f36ca7b7-"
 name: "和風カレー さや"
-genre: "ramen"
+genre: "shokuji"
 prefecture: "山梨県"
 city: "都留市"
 address: "山梨県都留市中央2-4-3"

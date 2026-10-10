@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「屋台純ちゃん」"
-description: "孤独のグルメ Season10 第2019話で紹介された和食「屋台純ちゃん」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ 2019大晦日スペシャル～緊急指令！成田～福岡～釜山 弾丸出張編！～で紹介された和食「屋台純ちゃん」（福岡県福岡市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5b08f7e4-"
 name: "屋台純ちゃん"
 genre: "washoku"
@@ -9,10 +9,10 @@ prefecture: "福岡県"
 city: "福岡市"
 address: "福岡県福岡市"
 nearest_station: "呉服町駅"
-source_video_title: "孤独のグルメ Season10 第2019話"
+source_video_title: "孤独のグルメ 2019大晦日スペシャル～緊急指令！成田～福岡～釜山 弾丸出張編！～"
 group: "kodoku_no_gurume"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400106/40039152/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3DEWsJv0OxHON7AEy4Us6m3e7fS.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/ufekOdDnRCJehkoSbuoOloPi3Qj.jpg"
 source_type: "drama"
 lat: 33.5898988
 lng: 130.4017509

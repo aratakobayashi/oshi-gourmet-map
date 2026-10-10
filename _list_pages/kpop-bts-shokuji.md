@@ -9,7 +9,7 @@ shop_count: 7
 related_genres:
   - kpop-bts-yakiniku
 related_groups:
-  - snowman-shokuji
-  - kodoku-no-gurume-shokuji
   - arashi-shokuji
+  - snowman-shokuji
+  - west-shokuji
 ---

@@ -22,6 +22,6 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶Feedyチキンバーガー 1188円"
-  - "▶クラッシュゼリーソーダ 583円"
+  - "Feedyチキンバーガー"
+  - "クラッシュゼリーソーダ"
 ---

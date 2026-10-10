@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "牛タン専門店 タン治郎 上野本店"
-description: "イキスギさんについてった 2023-04-12（桐山照史）で紹介された食事「牛タン専門店 タン治郎 上野本店」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-04-12（桐山照史）で紹介された食事「牛タン専門店 タン治郎 上野本店」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "west-ef2b075c"
 name: "牛タン専門店 タン治郎 上野本店"
 genre: "shokuji"
 prefecture: "東京都"
+city: "台東区"
 address: "東京都台東区上野6-13-5 3F"
 source_video_title: "イキスギさんについてった 2023-04-12（桐山照史）"
 source_url: "https://www.activitv.com/entry/ikisugisan_230412_don/"

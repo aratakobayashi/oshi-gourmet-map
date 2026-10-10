@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "PEGO&CO. 世田谷店"
-description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたスイーツ「PEGO&CO. 世田谷店」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-09（小瀧望）で紹介されたスイーツ「PEGO&CO. 世田谷店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-45e39ebd"
 name: "PEGO&CO. 世田谷店"
 genre: "sweets"
 prefecture: "東京都"
+city: "世田谷区"
 address: "東京都世田谷区世田谷1-16-24"
 nearest_station: "世田谷駅 徒歩4分"
 source_video_title: "イキスギさんについてった 2022-08-09（小瀧望）"

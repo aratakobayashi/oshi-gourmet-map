@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "ゴッドドッグ 700円"
+  - "ゴッドドッグ"
 ---

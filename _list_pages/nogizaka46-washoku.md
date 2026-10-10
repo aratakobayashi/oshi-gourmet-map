@@ -1,11 +1,11 @@
 ---
-title: "乃木坂46が行った和食8選"
-description: "乃木坂46のメンバーが実際に訪れた和食スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行った和食9選"
+description: "乃木坂46のメンバーが実際に訪れた和食スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
 genre: washoku
 group_label: "乃木坂46"
 slug_id: nogizaka46-washoku
-shop_count: 8
+shop_count: 9
 group_color: "#ef4444"
 group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。"
 youtube_id: ellqj4rVq6g

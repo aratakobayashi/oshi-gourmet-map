@@ -21,7 +21,4 @@ members:
   - "道枝駿佑"
 groups:
   - "naniwa"
-ordered_items:
-  - "最初の30分　　 1,250円"
-  - "以降10分毎　　 330円"
 ---

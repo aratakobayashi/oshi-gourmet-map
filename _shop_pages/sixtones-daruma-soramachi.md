@@ -10,11 +10,12 @@ city: "墨田区"
 address: "東京都墨田区押上1-1-2 東京ソラマチ7F"
 nearest_station: "押上〈スカイツリー前〉駅 徒歩2分"
 visited_date: "2025-04-11"
-youtube_id: "6WTMkZziBHw"
-source_video_title: "SixTONES official【もんじゃ忘年会】2024年のYouTube ベスト１は何？"
+youtube_id: "nPERYL83TWE"
+source_video_title: "SixTONES【桜咲く季節に…忘年会】2024年の締めくくりです 笑"
+source_video_url: "https://www.youtube.com/watch?v=nPERYL83TWE"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13178286/"
-thumbnail_url: "https://img.youtube.com/vi/6WTMkZziBHw/hqdefault.jpg"
+thumbnail_url: "https://img.youtube.com/vi/nPERYL83TWE/hqdefault.jpg"
 lat: 35.711025
 lng: 139.814476
 members:

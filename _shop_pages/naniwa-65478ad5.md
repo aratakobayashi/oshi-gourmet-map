@@ -20,6 +20,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "チャーシューホットサンド
-400円"
+  - "チャーシューホットサンド"
 ---

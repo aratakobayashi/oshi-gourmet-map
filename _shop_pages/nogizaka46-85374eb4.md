@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ニューポピー」"
-description: "乃木坂46が訪れたカフェ「喫茶ニューポピー」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46のYouTubeで紹介されたカフェ「喫茶ニューポピー」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-85374eb4-"
 name: "喫茶ニューポピー"
 genre: "cafe"
@@ -9,6 +9,7 @@ prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市西区那古野1-36-52"
 nearest_station: "地下鉄桜通線 国際センター駅 徒歩6分"
+youtube_id: "MN7J-qPEsso"
 source_url: "https://senublog.com/nogizaka46-sanctuary-summarize/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23069929/"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「焼肉 吉田 新館」"
-description: "SEVENTEENで紹介されたその他「焼肉 吉田 新館」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介された焼肉「焼肉 吉田 新館」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-081d7855-"
 name: "焼肉 吉田 新館"
-genre: "others"
+genre: "yakiniku"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市天王寺区東上町３−１５"

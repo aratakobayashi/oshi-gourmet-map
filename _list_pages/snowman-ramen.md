@@ -15,6 +15,6 @@ related_genres:
   - snowman-cafe
 related_groups:
   - arashi-ramen
-  - kodoku-no-gurume-ramen
+  - west-ramen
   - nogizaka46-ramen
 ---

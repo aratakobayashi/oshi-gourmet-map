@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ENHYPENが行った「焼肉 零條」"
-description: "ENHYPENで紹介されたその他「焼肉 零條」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENで紹介された焼肉「焼肉 零條」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_enhypen-399875a6-"
 name: "焼肉 零條"
-genre: "others"
+genre: "yakiniku"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区北青山3-13-3 R’s AOYAMA B1F"
@@ -13,6 +13,8 @@ source_video_title: "ENHYPEN"
 source_url: "https://oshito.online/news/15229.html"
 group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13228701/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003410482/?vos=nhppalsa000016"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/90/88/P040519088/P040519088_238.jpg"
 lat: 35.6705999
 lng: 139.7159289
 members:

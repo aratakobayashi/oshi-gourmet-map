@@ -10,7 +10,7 @@ city: "美方郡香美町"
 address: "兵庫県美方郡香美町香住区"
 nearest_station: "香住駅"
 youtube_id: "kU8SZpaXoBE"
-source_video_title: "かまいたちがロケで行った飲食店まとめ【関西編】"
+source_video_title: "【忘れられないグルメ】かまいたちがもう一度行きたい！ロケで行った飲食店〜関西編〜"
 group: "kamaitachi"
 thumbnail_url: "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
 lat: 35.6483

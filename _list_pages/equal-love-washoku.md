@@ -12,7 +12,7 @@ youtube_id: aD0Q4-d-Ntg
 related_genres:
   - equal-love-shokuji
   - equal-love-izakaya
-  - equal-love-cafe
+  - equal-love-ramen
 related_groups:
   - kodoku-no-gurume-washoku
   - snowman-washoku
