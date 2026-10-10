@@ -1,0 +1,12 @@
+{
+  "inomata-shuto": {"label": "メンバー紹介", "title": "猪俣周杜", "sub": "元timeleszメンバーのプロフィールと経歴", "chips": ["プロフィール", "経歴の年表", "2026年10月の発表"], "color": "#1d4ed8"},
+  "shonen-ninja-profile": {"label": "グループ紹介", "title": "少年忍者", "sub": "グループの歩みとメンバーのその後", "chips": ["結成から活動終了まで", "最後のメンバー16人", "Howzit"], "color": "#0f766e"},
+  "teranishi-takuto": {"label": "メンバー紹介", "title": "寺西拓人", "sub": "timelesz｜プロフィール・経歴・出演作", "chips": ["プロフィール", "経歴の年表", "主な出演作", "最新の活動"], "color": "#1d4ed8"},
+  "hashimoto-shosei": {"label": "メンバー紹介", "title": "橋本将生", "sub": "timelesz｜プロフィール・経歴・出演作", "chips": ["プロフィール", "経歴の年表", "主な出演作", "最新の活動"], "color": "#1d4ed8"},
+  "shinozuka-taiki": {"label": "メンバー紹介", "title": "篠塚大輝", "sub": "timelesz｜プロフィール・経歴・出演作", "chips": ["プロフィール", "経歴の年表", "主な出演作", "最新の活動"], "color": "#1d4ed8"},
+  "acees-profile": {"label": "グループ紹介", "title": "ACEes", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー5人", "結成からの歩み", "ツアー"], "color": "#be185d"},
+  "bandzai-profile": {"label": "グループ紹介", "title": "B&ZAI", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー8人", "結成からの歩み", "武道館公演"], "color": "#b45309"},
+  "key-to-lit-profile": {"label": "グループ紹介", "title": "KEY TO LIT", "sub": "メンバー・歩み・最新の活動", "chips": ["メンバー5人", "結成からの歩み", "CDデビュー発表"], "color": "#7c3aed"},
+  "star-song-special": {"label": "番組紹介", "title": "Star Song Special", "sub": "ジュニアが出演する音楽番組", "chips": ["シーズンと配信", "各回の出演者"], "color": "#0369a1"},
+  "timelesz-arena-tour-guide": {"label": "遠征準備", "title": "timeleszのツアー", "sub": "これまでの公演と参戦の準備", "chips": ["公演の一覧", "会場ガイド", "遠征の準備"], "color": "#1d4ed8"}
+}
