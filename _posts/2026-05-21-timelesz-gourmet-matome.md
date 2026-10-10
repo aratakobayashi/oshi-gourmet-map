@@ -1,57 +1,106 @@
 ---
 layout: post
-title: "timelessが行ったお店まとめ｜6店・東京スイーツ＆グルメ聖地巡礼ガイド"
+title: "timeleszのグルメ聖地まとめ｜『タイムレスマン』日光街道 脱落旅SPの浅草・日光と、オーディションのお店6軒"
 date: 2026-05-21
-last_modified_at: 2026-05-21
-description: "timelesszのメンバーが実際に訪れた6店をまとめ。浅草の和スイーツ名店・目黒の食事処・日光もなかまで、住所つきで聖地巡礼に役立てください。"
+last_modified_at: 2026-10-10
+description: "timeleszゆかりのお店6軒を、ジャンルと場所の図・最寄り駅つきでまとめました。フジテレビ系『タイムレスマン』日光街道 脱落旅SP（2026年4月17日）の浅草・日光の4軒と、timelesz project -AUDITION-のお店2軒。"
 group: timelesz
 article_type: matome
 prefecture: 東京都
-tags: [timelesz, タイムレス, 中島健人, 松島聡, 菊池風磨, 聖地巡礼, グルメ, まとめ, 浅草, スイーツ, 東京]
+tags: [timelesz, タイムレス, タイムレスマン, 菊池風磨, 佐藤勝利, 聖地巡礼, グルメ, まとめ, 浅草, 日光, スイーツ, 東京]
 thumbnail: "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg"
 summary:
-  - "timelesszの6グルメスポットを一覧で確認できる"
-  - "浅草・台東区の和スイーツ名店が3店まとまって掲載"
-  - "焼肉・食事処・日光もなかなどバラエティ豊か"
-  - "住所つきで聖地巡礼計画が立てやすい"
+  - "timeleszゆかりのお店6軒を、番組ごとに紹介"
+  - "4軒は『タイムレスマン』日光街道 脱落旅SP（2026年4月17日 フジテレビ系）から"
+  - "浅草の3軒（亀十・舟和 本店・常盤堂雷おこし本舗）と、日光の日光もなか"
+  - "timelesz project -AUDITION-のお店2軒（祐天寺・西新宿）も"
 shop_ids:
-  - timelesz-540cca88-
-  - timelesz-private-
+  - timelesz-56bdf348-
   - timelesz-1f9a394d-
   - timelesz-c10561a2-
-  - timelesz-56bdf348-
   - timelesz-59cd8eb8-
+  - timelesz-540cca88-
+  - timelesz-private-
 faq:
-  - q: "timelesszのグルメ聖地はどのエリアが多いですか？"
-    a: "東京都が5店（台東区・新宿区・目黒区）と多数を占めます。台東区（浅草エリア）に和スイーツ名店が3店集まっており、浅草聖地巡礼との組み合わせがおすすめです。栃木県日光市に「日光もなか」1店があります。"
-  - q: "timelesszが行った浅草のスイーツ店はどこですか？"
-    a: "「亀十」（どら焼き）・「舟和 本店」（芋ようかん）・「常盤堂雷おこし本舗 雷門本店」（雷おこし）の3店が台東区（浅草エリア）にまとまっています。いずれも100年以上の歴史を持つ老舗です。"
-  - q: "timelesszが行った焼肉店はどこですか？"
-    a: "「牛の達人 Private 西新宿店」（東京都新宿区）が登場しています。プレミアムな個室焼肉として知られる店です。"
+  - q: "『タイムレスマン』の日光街道 脱落旅SPはいつ放送されましたか？"
+    a: "2026年4月17日（金）21時から、フジテレビ系の2時間スペシャルとして放送されました。浅草から日光へ向かう「脱落旅」の第2弾です。"
+  - q: "日光街道 脱落旅SPに登場したお店はどこですか？"
+    a: "推しグルメ巡礼MAPのデータでは、浅草の常盤堂雷おこし本舗 雷門本店・亀十・舟和 本店と、栃木県日光市の日光もなかの4軒です。"
+  - q: "メンバーはどのお店を訪れましたか？"
+    a: "推しグルメ巡礼MAPのデータでは、常盤堂雷おこし本舗 雷門本店に菊池風磨、亀十に橋本将生、日光もなかに原嘉孝と橋本将生が訪れています。timelesz project -AUDITION-では、三久飯店に佐藤勝利、牛の達人 Private 西新宿店に菊池風磨が訪れています。"
+  - q: "浅草の3軒の最寄り駅は？"
+    a: "推しグルメ巡礼MAPのデータでは、亀十・舟和 本店・常盤堂雷おこし本舗 雷門本店の3軒とも浅草駅が最寄りです。"
+  - q: "timeleszのお店をまとめて地図で見られますか？"
+    a: "「お店を探す」でtimeleszを選ぶと、この記事の6軒を含め、timeleszゆかりのお店を地図で見られます。"
 ---
 
-**timelesz**（タイムレス）のメンバーが訪れたグルメスポット6店をまとめ。浅草の老舗和スイーツ・西新宿の個室焼肉・日光もなかと、timelesszらしいこだわりのグルメセレクションが揃う。
+<div class="pf" style="--pc:#1d4ed8">
 
-## 浅草・台東区【和スイーツ 3店】
+<p>2026年10月から7人で活動している<strong>timelesz</strong>。冠番組『タイムレスマン』が2026年4月17日にフジテレビ系で放送した2時間スペシャル<strong>「日光街道 脱落旅SP」</strong>は、浅草から日光へ向かう旅でした。</p>
 
-timelesszグルメの最大の見どころは浅草エリアの和スイーツ三傑。<mark>亀十</mark>（台東区）は明治時代創業の老舗で、ふっくらしたどら焼きが名物。行列必至の東京土産の定番だ。<mark>舟和 本店</mark>（台東区）は芋ようかんと羊羹で知られる浅草の老舗甘味処。<mark>常盤堂雷おこし本舗 雷門本店</mark>（台東区）は江戸時代から続く雷おこしの名店で、浅草雷門の真前に位置する。
+<p>この記事では、その旅に登場したお店と、Netflixの<strong>timelesz project -AUDITION-</strong>のお店をあわせた<strong>6軒</strong>をまとめました。</p>
 
-{% include inline-shop-grid.html ids="timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-56bdf348-" %}
+<h2>ひと目でわかる timeleszのグルメ聖地</h2>
+<div class="pf-card">
+  <div class="pf-card__head">
+    <small>timelesz</small>
+    <p class="pf-card__name">timeleszグルメ</p>
+    <p class="pf-card__yomi">タイムレスマンとオーディションから</p>
+    <span class="pf-card__color"><i></i>timelesz</span>
+  </div>
+  <dl class="pf-card__facts">
+    <div><dt>お店の数</dt><dd>6軒</dd></div>
+    <div><dt>脱落旅SP</dt><dd>4軒（2026年4月17日）</dd></div>
+    <div><dt>オーディション</dt><dd>2軒</dd></div>
+    <div><dt>多いエリア</dt><dd>浅草（3軒）</dd></div>
+    <div><dt>ジャンル</dt><dd>スイーツが4軒</dd></div>
+    <div><dt>東京以外</dt><dd>栃木県日光市（1軒）</dd></div>
+  </dl>
+</div>
 
-## 食事・焼肉【2店】
+<div class="pf-nums">
+  <div><b>6<small>軒</small></b><span>この記事のお店</span></div>
+  <div><b>4<small>軒</small></b><span>『タイムレスマン』日光街道 脱落旅SPのお店</span></div>
+  <div><b>3<small>軒</small></b><span>浅草駅が最寄りのお店</span></div>
+  <div><b>{{ site.data.group_ix.timelesz.n }}<small>軒</small></b><span>このサイトに登録されている、timeleszのお店ぜんぶ</span></div>
+</div>
 
-<mark>三久飯店</mark>（東京都目黒区）は目黒の中華食事処。<mark>牛の達人 Private 西新宿店</mark>（新宿区）は厳選和牛を堪能できるプレミアム個室焼肉として知られ、timelesszのメンバーが訪れたことで話題になった。
+<div class="pf-quote"><p>脱落旅SPの4軒は、雷おこし・どら焼きの亀十・舟和、そして日光もなかと、ぜんぶ甘いもののお店。浅草の3軒はどれも浅草駅が最寄りなので、旅のスタートをなぞって歩いて回れます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
+<h2>ジャンルと場所</h2>
+<figure class="fig"><img src="/assets/img/posts/timelesz-gourmet-matome/genre.svg" alt="お店のジャンルと場所：スイーツ4軒、食事1軒、焼肉1軒。場所は台東区3軒、目黒区1軒、新宿区1軒、栃木県日光市1軒" width="420" height="350" loading="lazy" decoding="async"><figcaption>この記事の6軒を数えました（ジャンルは推しグルメ巡礼MAPのデータの分類）</figcaption></figure>
+
+<h2>『タイムレスマン』日光街道 脱落旅SP：浅草から日光へ</h2>
+<p>2026年4月17日（金）21時からフジテレビ系で放送された2時間スペシャル。2025年9月の東海道の旅に続く「脱落旅」の第2弾です。訪れたメンバーは推しグルメ巡礼MAPのデータより。</p>
+<ul class="pf-works">
+  <li><span class="k">浅草</span><div><b>常盤堂雷おこし本舗 雷門本店</b><span>雷おこし／菊池風磨</span></div></li>
+  <li><span class="k">浅草</span><div><b>亀十</b><span>どら焼き／橋本将生</span></div></li>
+  <li><span class="k">浅草</span><div><b>舟和 本店</b><span>和菓子／浅草で登場したお店</span></div></li>
+  <li><span class="k">日光</span><div><b>日光もなか</b><span>もなか／原嘉孝・橋本将生</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="timelesz-56bdf348-,timelesz-1f9a394d-,timelesz-c10561a2-,timelesz-59cd8eb8-" %}
+
+<h2>timelesz project -AUDITION- のお店</h2>
+<p>Netflixで配信された、新メンバーを選ぶオーディション番組です。お店と訪れたメンバーは推しグルメ巡礼MAPのデータより。</p>
+<ul class="pf-works">
+  <li><span class="k">祐天寺</span><div><b>三久飯店</b><span>中華／佐藤勝利</span></div></li>
+  <li><span class="k">西新宿</span><div><b>牛の達人 Private 西新宿店</b><span>焼肉／菊池風磨</span></div></li>
+</ul>
 {% include inline-shop-grid.html ids="timelesz-540cca88-,timelesz-private-" %}
 
-## 栃木遠征【もなか 1店】
+<h2>エリアで巡るなら</h2>
+<p>最寄り駅は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<ul>
+  <li><strong>浅草</strong>：常盤堂雷おこし本舗 雷門本店・亀十・舟和 本店（3軒とも浅草駅）。</li>
+  <li><strong>日光</strong>：日光もなか（日光駅）。浅草から日光へ、番組と同じ方向の旅に。</li>
+  <li><strong>祐天寺・西新宿</strong>：三久飯店（祐天寺駅）・牛の達人 Private 西新宿店（西新宿駅）。</li>
+</ul>
 
-<mark>日光もなか</mark>（栃木県日光市）は日光の名物もなかの老舗。timelesszの日光ロケで訪れた和菓子の聖地で、日光東照宮観光と組み合わせた聖地巡礼が人気だ。
+<div class="pf-cta">
+  <p>timeleszのお店を、地図でぜんぶ見る</p>
+  <span>この記事の6軒のほかにも、timeleszゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <a class="btn" href="/shops/?g=timelesz&amp;view=map">地図でtimeleszのお店を見る</a>
+</div>
+<p><a href="{{ site.data.group_ix.timelesz.u }}">timeleszのお店一覧（グループのページ）</a>もどうぞ。</p>
 
-{% include inline-shop-card.html shop_id="timelesz-59cd8eb8-" %}
-
-## 巡礼プランのヒント
-
-> **浅草スイーツコース**（亀十 → 舟和本店 → 常盤堂雷おこし本舗）：浅草寺・雷門周辺を歩いて巡れる和スイーツ三傑コース。浅草観光と組み合わせた半日聖地巡礼の定番ルートだ。
->
-> **日光遠征**：日光もなかは日光東照宮から徒歩圏内。timelesszの聖地巡礼ついでに世界遺産・日光の観光も楽しめる日帰り遠征コースとして人気。
+</div>
