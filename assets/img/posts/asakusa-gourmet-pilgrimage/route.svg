@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 630" width="420" height="630" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="630" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">浅草の聖地 歩く順番</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">雷門から北へ歩く一例。行きたいお店を選んで回ってください</text>
+<line x1="46" y1="110" x2="46" y2="548" stroke="#d9480f" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 9"/>
+<rect x="32" y="96" width="28" height="28" rx="6" fill="#241F1A"/>
+<text x="46" y="115" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">発</text>
+<text x="72" y="115" font-size="15" font-weight="800" fill="#241F1A">浅草駅（雷門のあたり）</text>
+<rect x="64" y="136" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="156" r="15" fill="#d9480f"/>
+<text x="46" y="162" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="78" y="162" font-size="16" font-weight="800" fill="#241F1A">浅草むぎとろ本店</text>
+<rect x="320.0" y="145" width="68.0" height="22" rx="11" fill="#d9480f" fill-opacity=".12"/>
+<text x="354.0" y="161" font-size="12.5" font-weight="700" fill="#d9480f" text-anchor="middle">むぎとろ</text>
+<text x="78" y="184" font-size="12.5" fill="#6B6258">雷門2丁目・Snow Man（2026年4月）</text>
+<text x="72" y="218" font-size="12.5" fill="#6B6258">↓ 徒歩</text>
+<rect x="64" y="234" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="254" r="15" fill="#d9480f"/>
+<text x="46" y="260" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="78" y="260" font-size="16" font-weight="800" fill="#241F1A">浅草つる次郎 HANARE</text>
+<rect x="320.0" y="243" width="68.0" height="22" rx="11" fill="#d9480f" fill-opacity=".12"/>
+<text x="354.0" y="259" font-size="12.5" font-weight="700" fill="#d9480f" text-anchor="middle">もんじゃ</text>
+<text x="78" y="282" font-size="12.5" fill="#6B6258">浅草1丁目・Snow Man（2024年5月）</text>
+<text x="72" y="316" font-size="12.5" fill="#6B6258">↓ 徒歩</text>
+<rect x="64" y="332" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="352" r="15" fill="#d9480f"/>
+<text x="46" y="358" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="78" y="358" font-size="16" font-weight="800" fill="#241F1A">てっぱん大吉</text>
+<rect x="320.0" y="341" width="68.0" height="22" rx="11" fill="#d9480f" fill-opacity=".12"/>
+<text x="354.0" y="357" font-size="12.5" font-weight="700" fill="#d9480f" text-anchor="middle">もんじゃ</text>
+<text x="78" y="380" font-size="12.5" fill="#6B6258">浅草1丁目・よにの #490（2026年1月）</text>
+<text x="72" y="414" font-size="12.5" fill="#6B6258">↓ 徒歩で国際通りへ</text>
+<rect x="64" y="430" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="450" r="15" fill="#d9480f"/>
+<text x="46" y="456" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="78" y="456" font-size="16" font-weight="800" fill="#241F1A">浅草今半 国際通り本店</text>
+<rect x="320.0" y="439" width="68.0" height="22" rx="11" fill="#d9480f" fill-opacity=".12"/>
+<text x="354.0" y="455" font-size="12.5" font-weight="700" fill="#d9480f" text-anchor="middle">すき焼き</text>
+<text x="78" y="478" font-size="12.5" fill="#6B6258">西浅草3丁目・よにの #366（2024年10月）</text>
+<text x="72" y="512" font-size="12.5" fill="#6B6258">↓ 徒歩で浅草寺の北側へ</text>
+<rect x="64" y="528" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="548" r="15" fill="#d9480f"/>
+<text x="46" y="554" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">5</text>
+<text x="78" y="554" font-size="16" font-weight="800" fill="#241F1A">おにぎり浅草宿六</text>
+<rect x="320.0" y="537" width="68.0" height="22" rx="11" fill="#d9480f" fill-opacity=".12"/>
+<text x="354.0" y="553" font-size="12.5" font-weight="700" fill="#d9480f" text-anchor="middle">おにぎり</text>
+<text x="78" y="576" font-size="12.5" fill="#6B6258">浅草3丁目・Snow Man（2024年9月）</text>
+<text x="20" y="614" font-size="12" fill="#6B6258">住所は推しグルメ巡礼MAPのデータより</text>
+</svg>

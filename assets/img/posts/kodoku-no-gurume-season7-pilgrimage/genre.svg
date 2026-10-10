@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 402" width="420" height="402" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="402" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店10軒を数えました</text>
+<text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">食事</text>
+<rect x="100" y="100" width="220" height="26" rx="8" fill="#2563eb"/>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#2563eb">9軒</text>
+<text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">和食</text>
+<rect x="100" y="144" width="24" height="26" rx="8" fill="#15803d"/>
+<text x="132" y="163" font-size="16" font-weight="800" fill="#15803d">1軒</text>
+<text x="20" y="198" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
+<rect x="20" y="212" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="230" font-size="13.5" fill="#241F1A">群馬</text><text x="192" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">2軒</text>
+<rect x="216" y="212" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="230" font-size="13.5" fill="#241F1A">埼玉 上尾市</text><text x="388" y="230" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="20" y="244" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="262" font-size="13.5" fill="#241F1A">世田谷区</text><text x="192" y="262" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="216" y="244" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="262" font-size="13.5" fill="#241F1A">港区</text><text x="388" y="262" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="20" y="276" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="294" font-size="13.5" fill="#241F1A">千代田区</text><text x="192" y="294" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="216" y="276" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="294" font-size="13.5" fill="#241F1A">墨田区</text><text x="388" y="294" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="20" y="308" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="326" font-size="13.5" fill="#241F1A">韓国 全州市</text><text x="192" y="326" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="216" y="308" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="326" font-size="13.5" fill="#241F1A">韓国 ソウル特別市</text><text x="388" y="326" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+<rect x="20" y="340" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="358" font-size="13.5" fill="#241F1A">千葉 千葉市</text><text x="192" y="358" font-size="14" font-weight="800" text-anchor="end" fill="#92400e">1軒</text>
+</svg>

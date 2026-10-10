@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 682" width="420" height="682" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="682" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">しょこりさ鎌倉旅 巡る順番</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">動画の前編・後編に合わせた一例。動画の中の順番とは限りません</text>
+<line x1="46" y1="152" x2="46" y2="600" stroke="#f43f5e" stroke-width="4" stroke-linecap="round" stroke-dasharray="1 9"/>
+<rect x="20" y="96" width="380" height="30" rx="15" fill="#f43f5e"/>
+<text x="210" y="116" font-size="14.5" font-weight="800" fill="#fff" text-anchor="middle">前編（鎌倉旅#1）食べ歩き</text>
+<rect x="32" y="138" width="28" height="28" rx="6" fill="#241F1A"/>
+<text x="46" y="157" font-size="12" font-weight="800" fill="#fff" text-anchor="middle">発</text>
+<text x="72" y="157" font-size="15" font-weight="800" fill="#241F1A">JR鎌倉駅</text>
+<text x="72" y="194" font-size="12.5" fill="#6B6258">↓ 徒歩で小町通りへ</text>
+<rect x="64" y="210" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="230" r="15" fill="#f43f5e"/>
+<text x="46" y="236" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="78" y="236" font-size="16" font-weight="800" fill="#241F1A">さくらの夢見屋 小町通り本店</text>
+<rect x="320.0" y="219" width="68.0" height="22" rx="11" fill="#f43f5e" fill-opacity=".12"/>
+<text x="354.0" y="235" font-size="12.5" font-weight="700" fill="#f43f5e" text-anchor="middle">スイーツ</text>
+<text x="78" y="258" font-size="12.5" fill="#6B6258">小町2丁目（鎌倉駅 徒歩7分）</text>
+<rect x="64" y="276" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="296" r="15" fill="#f43f5e"/>
+<text x="46" y="302" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="78" y="302" font-size="16" font-weight="800" fill="#241F1A">八倉 -湘南の魚と鎌倉野菜-</text>
+<rect x="345.0" y="285" width="43.0" height="22" rx="11" fill="#f43f5e" fill-opacity=".12"/>
+<text x="366.5" y="301" font-size="12.5" font-weight="700" fill="#f43f5e" text-anchor="middle">和食</text>
+<text x="78" y="324" font-size="12.5" fill="#6B6258">小町2丁目（鎌倉駅 徒歩6分）</text>
+<text x="72" y="358" font-size="12.5" fill="#6B6258">↓ 徒歩で雪ノ下1丁目へ</text>
+<rect x="64" y="374" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="394" r="15" fill="#f43f5e"/>
+<text x="46" y="400" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="78" y="400" font-size="16" font-weight="800" fill="#241F1A">からあげ まこちゃん 鎌倉本店</text>
+<rect x="320.0" y="383" width="68.0" height="22" rx="11" fill="#f43f5e" fill-opacity=".12"/>
+<text x="354.0" y="399" font-size="12.5" font-weight="700" fill="#f43f5e" text-anchor="middle">からあげ</text>
+<text x="78" y="422" font-size="12.5" fill="#6B6258">雪ノ下1丁目</text>
+<rect x="64" y="440" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="460" r="15" fill="#f43f5e"/>
+<text x="46" y="466" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="78" y="466" font-size="16" font-weight="800" fill="#241F1A">ともや・鎌倉茶々・鎌倉壱番屋</text>
+<rect x="350.0" y="449" width="38.0" height="22" rx="11" fill="#f43f5e" fill-opacity=".12"/>
+<text x="369.0" y="465" font-size="12.5" font-weight="700" fill="#f43f5e" text-anchor="middle">3軒</text>
+<text x="78" y="488" font-size="12.5" fill="#6B6258">雪ノ下1丁目（3軒とも鎌倉駅 徒歩9分）</text>
+<rect x="20" y="506" width="380" height="30" rx="15" fill="#f43f5e"/>
+<text x="210" y="526" font-size="14.5" font-weight="800" fill="#fff" text-anchor="middle">後編（鎌倉旅#2）海沿いのカフェ</text>
+<text x="72" y="564" font-size="12.5" fill="#6B6258">↓ 鎌倉駅から江ノ電で七里ヶ浜方面へ</text>
+<rect x="64" y="580" width="336" height="58" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="46" cy="600" r="15" fill="#f43f5e"/>
+<text x="46" y="606" font-size="15" font-weight="800" fill="#fff" text-anchor="middle">5</text>
+<text x="78" y="606" font-size="16" font-weight="800" fill="#241F1A">Pacific DRIVE-IN</text>
+<rect x="345.0" y="589" width="43.0" height="22" rx="11" fill="#f43f5e" fill-opacity=".12"/>
+<text x="366.5" y="605" font-size="12.5" font-weight="700" fill="#f43f5e" text-anchor="middle">海辺</text>
+<text x="78" y="628" font-size="12.5" fill="#6B6258">七里ガ浜東2丁目</text>
+<text x="20" y="666" font-size="12" fill="#6B6258">住所と最寄り駅は推しグルメ巡礼MAPのデータより</text>
+</svg>

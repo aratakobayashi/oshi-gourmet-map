@@ -71,12 +71,12 @@ faq:
 
 <h2>よにののカフェ年表</h2>
 <p>動画が公開された順です。2025年の2月から9月まで、コーヒーの回が続きました。</p>
-<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/timeline.svg" alt="よにののカフェ年表：2025年2月 ブルーボトルコーヒー 新宿カフェ（#399）、5月 Paul Bassett 新宿（#422）、6月 400℃ Pizza Tokyo 神楽坂店（#431）、神楽坂コーヒースタンドとDonish Coffee Company 神楽坂（#434）、9月 DOUBLE TALL COFFEE 新宿御苑（#457）" width="420" height="900" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「よにのちゃんねる」より</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/timeline.svg" alt="よにののカフェ年表：2025年2月 ブルーボトルコーヒー 新宿カフェ（#399）、5月 Paul Bassett 新宿（#422）、6月 400℃ Pizza Tokyo 神楽坂店（#431）、神楽坂コーヒースタンドとDonish Coffee Company 神楽坂（#434）、9月 DOUBLE TALL COFFEE 新宿御苑（#457）" width="420" height="664" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「よにのちゃんねる」より</figcaption></figure>
 
 <div class="pf-quote"><p>#422の公式の概要欄には「#コーヒー巡り」、#434には「#神楽坂散歩」。ドライブや散歩の途中でコーヒーを買う、肩の力が抜けた回が多いのが、このコースのお店の共通点です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/genre.svg" alt="お店のジャンルと場所：カフェ5件、その他（ピザ）1軒。場所はすべて新宿区" width="420" height="300" loading="lazy" decoding="async"><figcaption>この記事のお店（データの6件）を数えました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/genre.svg" alt="お店のジャンルと場所：カフェ5軒、その他1軒（ピザ）。場所は6軒とも新宿区" width="420" height="274" loading="lazy" decoding="async"><figcaption>この記事のお店（データの6件）を数えました</figcaption></figure>
 
 <h2>新宿エリア：歩いてコーヒー3か所</h2>
 <ul class="pf-works">
