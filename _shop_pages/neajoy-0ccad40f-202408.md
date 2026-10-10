@@ -11,6 +11,7 @@ address: "神奈川県足柄下郡箱根町湯本７０３"
 nearest_station: "箱根湯本駅 徒歩4分"
 visited_date: "2024-08-14"
 youtube_id: "TAQI0WEyy7k"
+source_video_title: "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
 lat: 35.2329

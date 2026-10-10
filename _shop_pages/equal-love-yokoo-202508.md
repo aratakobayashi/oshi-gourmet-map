@@ -11,6 +11,7 @@ address: "大阪府大阪市淀川区西中島５丁目１６−１ JR 新大阪
 nearest_station: "新大阪駅 徒歩4分"
 visited_date: "2025-08-27"
 youtube_id: "eqfZmabiZ0A"
+source_video_title: "みりにゃに1日完全密着してみた"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270301/27095351/"
 thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"

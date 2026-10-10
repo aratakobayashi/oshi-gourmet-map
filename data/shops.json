@@ -69,7 +69,9 @@
         "name": "ウーロン茶"
       }
     ],
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1311/A131102/13093827/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1311/A131102/13093827/",
+    "source_video_title": "#490【2025!!】忘年会しでた！の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-hikiniku-to-kome",
@@ -203,7 +205,9 @@
       {
         "name": "レモネード"
       }
-    ]
+    ],
+    "source_video_title": "#468 【朝飯!!】ははははは、、、の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-ichiran-nakano",
@@ -234,7 +238,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/0EUU9_553aM/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13201776/",
-    "nearest_station": "中野駅 徒歩3分"
+    "nearest_station": "中野駅 徒歩3分",
+    "source_video_title": "#480【朝食!!】朝ラーだよな、、、の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-400-pizza",
@@ -271,7 +277,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13294495/",
-    "nearest_station": "牛込神楽坂駅 徒歩6分"
+    "nearest_station": "牛込神楽坂駅 徒歩6分",
+    "source_video_title": "#431【朝食!!】やまだとざーぴーな日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-sushi-bun",
@@ -302,7 +310,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/WKk-0zqTC74/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131307/13228423/",
-    "nearest_station": "市場前駅 徒歩3分"
+    "nearest_station": "市場前駅 徒歩3分",
+    "source_video_title": "#464【朝飯!!】シースの日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-youhachi-sangenchaya",
@@ -332,7 +342,9 @@
       "コスパ"
     ],
     "thumbnail_url": "https://img.youtube.com/vi/Our3JGeWP7k/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13288611/"
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13288611/",
+    "source_video_title": "#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-kintan-akasaka",
@@ -363,7 +375,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/Aza7c0Akdns/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13080895/",
-    "nearest_station": "六本木一丁目駅 徒歩4分"
+    "nearest_station": "六本木一丁目駅 徒歩4分",
+    "source_video_title": "#497【飯!!】どんでもない豪華な日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-daruma-azabu",
@@ -412,7 +426,9 @@
         "name": "ウーロン茶"
       }
     ],
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1307/A130702/13013251/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1307/A130702/13013251/",
+    "source_video_title": "#476【朝食!!】卍奢りの日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-paul-bassett-shinjuku",
@@ -460,7 +476,9 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ000660203/",
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13026041/",
     "nearest_station": "新宿西口駅 徒歩3分",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/66/73/P015966673/P015966673_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/66/73/P015966673/P015966673_238.jpg",
+    "source_video_title": "#422 【ドライブ!!】ダラダラと…ありがとうございますの日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-negiya-heikichi",
@@ -508,7 +526,9 @@
       {
         "name": "納豆"
       }
-    ]
+    ],
+    "source_video_title": "#494【朝飯!!】山田がハマった日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-rishiri-ramen",
@@ -565,7 +585,9 @@
       {
         "name": "マスカットサイダー"
       }
-    ]
+    ],
+    "source_video_title": "#507【博物館!!】山田史上最高が出た日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-beasty-coffee",
@@ -707,7 +729,9 @@
       {
         "name": "ご飯(大)＋卵2個(マイキシマム・二黄卵)"
       }
-    ]
+    ],
+    "source_video_title": "#474【コラボ!!】三男と四男が人見知り発動の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-verve-coffee-ebisu",
@@ -836,7 +860,9 @@
     "thumbnail_url": "https://img.youtube.com/vi/sDxdoLUksaY/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13250032/",
     "nearest_station": "内幸町駅 徒歩3分",
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1302/A130201/13261063/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1302/A130201/13261063/",
+    "source_video_title": "#452【飯!!】山田様の奢りの日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-bouinboshoku",
@@ -878,7 +904,9 @@
       {
         "name": "肝入り特上うな重(限定)"
       }
-    ]
+    ],
+    "source_video_title": "#446【朝食!!】肉肉肉肉肉肉肉日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-goldrush-shibuya",
@@ -935,7 +963,9 @@
       {
         "name": "目玉焼きトッピング"
       }
-    ]
+    ],
+    "source_video_title": "#444【青春!!】山田さんだけ知らなかった日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-otona-shokudo",
@@ -979,7 +1009,9 @@
         "name": "豚の角煮定食"
       }
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/30/P037380230/P037380230_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/30/P037380230/P037380230_238.jpg",
+    "source_video_title": "#455 【自発光!!】数少ない心を許せる後輩の日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-spicy-curry-roka",
@@ -1010,7 +1042,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/jK0wBUV9HV8/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13286023/",
-    "nearest_station": "新大久保駅 徒歩3分"
+    "nearest_station": "新大久保駅 徒歩3分",
+    "source_video_title": "#421【朝飯!!】スパイシーがビックバンだった日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-iki-espresso",
@@ -1088,7 +1122,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/gs9Wm4uzulk/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13274387/",
-    "nearest_station": "赤坂駅 徒歩1分"
+    "nearest_station": "赤坂駅 徒歩1分",
+    "source_video_title": "#397【トンカツな朝は２人で】こりゃ大変プロジェクトですな!?",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-goemon-akasaka",
@@ -1140,7 +1176,9 @@
         "name": "烏龍茶"
       }
     ],
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1308/A130801/13123355/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1308/A130801/13123355/",
+    "source_video_title": "#389【朝食!!】卍が所望していたお店に行った日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-kaotan-ramen",
@@ -1188,7 +1226,9 @@
       {
         "name": "チャーシュー麵（菊池風磨）"
       }
-    ]
+    ],
+    "source_video_title": "#387 【朝食!!】広い意味で正解な日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-sanomiso-kameido",
@@ -1236,7 +1276,9 @@
       {
         "name": "具入り味噌汁(魚)+ご飯"
       }
-    ]
+    ],
+    "source_video_title": "#400 【祝!400回!!】なのに通常運転だった日",
+    "source_video_channel": "よにのちゃんねる"
   },
   {
     "id": "yonino-sumo-chaya-terao",
@@ -2256,7 +2298,9 @@
         "name": "魚介とイカ墨のパエリア（4人でシェア）"
       }
     ],
-    "nearest_station": "恵比寿駅 徒歩6分"
+    "nearest_station": "恵比寿駅 徒歩6分",
+    "source_video_title": "Snow Man【思い出の味…スペイン料理】バルセロナに到着です🇪🇸",
+    "source_video_channel": "Snow Man"
   },
   {
     "id": "snowman-donabe-gohan-ikushika",
@@ -2306,7 +2350,9 @@
       {
         "name": "から揚げの揚げ浸し定食（阿部亮平）"
       }
-    ]
+    ],
+    "source_video_title": "Snow Man【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節🍚",
+    "source_video_channel": "Snow Man"
   },
   {
     "id": "snowman-iseyashokudo-yodobashi",
@@ -2381,7 +2427,9 @@
       {
         "name": "トマト酢漬け（阿部亮平）"
       }
-    ]
+    ],
+    "source_video_title": "Snow Man【市場内の食堂で昼メシ】定食ってたまらんね‼️",
+    "source_video_channel": "Snow Man"
   },
   {
     "id": "snowman-ryuho-kagurazaka",
@@ -4330,7 +4378,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/u5IbOEy-HqA/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13243483/",
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1312/A131201/13156723/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1312/A131201/13156723/",
+    "source_video_title": "SixTONES【わんこ小籠包100皿食い尽くせ】これは無限に食える！",
+    "source_video_channel": "SixTONES"
   },
   {
     "id": "sixtones-enoshima-kaisaku",
@@ -4583,7 +4633,9 @@
     ],
     "thumbnail_url": "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14070710/",
-    "nearest_station": "馬車道駅 徒歩14分"
+    "nearest_station": "馬車道駅 徒歩14分",
+    "source_video_title": "【SixTONES】MV撮影の合間に…カメラ回してみた!!",
+    "source_video_channel": "SixTONES"
   },
   {
     "id": "sixtones-houtenkaku-chinatown",
@@ -4619,7 +4671,9 @@
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14040668/",
     "nearest_station": "元町・中華街駅 徒歩5分",
     "source_url": "https://kosodate-and.net/sixtones-chinatown",
-    "tabelog_url_alt": "https://tabelog.com/kanagawa/A1401/A140103/14000580/"
+    "tabelog_url_alt": "https://tabelog.com/kanagawa/A1401/A140103/14000580/",
+    "source_video_title": "【SixTONES】MV撮影の合間に…カメラ回してみた!!",
+    "source_video_channel": "SixTONES"
   },
   {
     "id": "sixtones-ryukaihanten-chinatown",
@@ -4653,7 +4707,9 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ001041630/",
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14052949/",
     "tabelog_url_alt": "https://tabelog.com/kanagawa/A1401/A140103/14038753/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/22/P032604322/P032604322_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/22/P032604322/P032604322_238.jpg",
+    "source_video_title": "【SixTONES】MV撮影の合間に…カメラ回してみた!!",
+    "source_video_channel": "SixTONES"
   },
   {
     "id": "sixtones-daruma-soramachi",
@@ -10653,7 +10709,7 @@
     "lat": 35.6591,
     "lng": 139.7026,
     "youtube_id": "q-UKt66uFp8",
-    "source_video_title": "",
+    "source_video_title": "【カプリチョーザ】かまいたちが久しぶりにカプリチョーザで食事したら懐かしすぎて感激！",
     "visited_date": "",
     "members": [
       "山内健司",
@@ -10668,7 +10724,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13013708/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/q-UKt66uFp8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/q-UKt66uFp8/hqdefault.jpg",
+    "source_video_channel": "かまいたちチャンネル"
   },
   {
     "id": "kamaitachi-097127ba-",
@@ -10680,7 +10737,7 @@
     "lat": 35.6558,
     "lng": 139.7369,
     "youtube_id": "M_IWhptZ4vs",
-    "source_video_title": "",
+    "source_video_title": "【高級串カツ】かまいたちが思い入れのある串揚げ六覺燈で贅沢コースを堪能！",
     "visited_date": "",
     "members": [
       "山内健司",
@@ -10696,7 +10753,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13291595/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003559518/",
     "thumbnail_url": "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/79/P040710479/P040710479_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/79/P040710479/P040710479_238.jpg",
+    "source_video_channel": "かまいたちチャンネル"
   },
   {
     "id": "kamaitachi-e20cd59a-",
@@ -10708,7 +10766,7 @@
     "lat": 35.6022,
     "lng": 139.6989,
     "youtube_id": "A2u0TZpDQ8A",
-    "source_video_title": "",
+    "source_video_title": "【高級寿司】かまいたちが2人で白金の高級寿司を堪能！",
     "visited_date": "",
     "members": [
       "山内健司",
@@ -10723,7 +10781,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131602/13220741/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/A2u0TZpDQ8A/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/A2u0TZpDQ8A/hqdefault.jpg",
+    "source_video_channel": "かまいたちチャンネル"
   },
   {
     "id": "neajoy-6ad11682-202604",
@@ -10735,7 +10794,7 @@
     "lat": 35.70076,
     "lng": 139.754353,
     "youtube_id": "igZmyXp6zKI",
-    "source_video_title": "",
+    "source_video_title": "【#ニアジョイらーめん部】SUSURUさんのお店で爆食したら色々見れて大興奮でした【北ノ醤油チーホー】",
     "visited_date": "2026-04-29",
     "members": [
       "江角怜音",
@@ -10750,7 +10809,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13320219/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/igZmyXp6zKI/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/igZmyXp6zKI/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-38e32469-202603",
@@ -10762,7 +10822,7 @@
     "lat": 35.6953799,
     "lng": 139.7017233,
     "youtube_id": "eMXdBOC3YE4",
-    "source_video_title": "",
+    "source_video_title": "念願の火鍋屋さんに来て緊急で動画を回しました",
     "visited_date": "2026-03-28",
     "members": [
       "大谷映美里"
@@ -10777,7 +10837,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13213528/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001187042/",
     "thumbnail_url": "https://img.youtube.com/vi/eMXdBOC3YE4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/95/P047965295/P047965295_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/95/P047965295/P047965295_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-1296f01f-202603",
@@ -10789,7 +10850,7 @@
     "lat": 35.7316774,
     "lng": 139.7031757,
     "youtube_id": "MvkQiclEHMY",
-    "source_video_title": "",
+    "source_video_title": "みそきん店主と朝ラー活【ヒカキンさん】",
     "visited_date": "2026-03-06",
     "members": [
       "大谷映美里"
@@ -10803,7 +10864,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13319902/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/MvkQiclEHMY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/MvkQiclEHMY/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "neajoy-brilliarunningstadiu-202602",
@@ -10815,7 +10877,7 @@
     "lat": 35.640906,
     "lng": 139.789578,
     "youtube_id": "9HdlqerBf5Q",
-    "source_video_title": "",
+    "source_video_title": "≒JOY（ニアリーイコールジョイ）/ 4th Single 表題曲『電話番号教えて！』Special Dance Ver.",
     "visited_date": "2026-02-26",
     "members": [],
     "groups": [
@@ -10827,7 +10889,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/9HdlqerBf5Q/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/9HdlqerBf5Q/hqdefault.jpg",
+    "source_video_channel": "NEARLY EQUAL JOY ニアリーイコールジョイ 公式チャンネル"
   },
   {
     "id": "equal_love-c9f2c2fc-202602",
@@ -10839,7 +10902,7 @@
     "lat": 35.6653482,
     "lng": 139.7598936,
     "youtube_id": "K7CCROY8Xm4",
-    "source_video_title": "",
+    "source_video_title": "【祝初ゲスト】元AKB48村山彩希×イコラブ諸橋沙夏の新橋はしご酒！仲良すぎてもはやカメラを忘れてほぼプライベート動画です【マブ】",
     "visited_date": "2026-02-07",
     "members": [
       "諸橋沙夏"
@@ -10854,7 +10917,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13293516/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003737219/",
     "thumbnail_url": "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/60/P044063360/P044063360_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/60/P044063360/P044063360_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-40432413-202602",
@@ -10866,7 +10930,7 @@
     "lat": 35.6668663,
     "lng": 139.7574154,
     "youtube_id": "K7CCROY8Xm4",
-    "source_video_title": "",
+    "source_video_title": "【祝初ゲスト】元AKB48村山彩希×イコラブ諸橋沙夏の新橋はしご酒！仲良すぎてもはやカメラを忘れてほぼプライベート動画です【マブ】",
     "visited_date": "2026-02-07",
     "members": [
       "諸橋沙夏"
@@ -10881,7 +10945,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13047799/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000711062/",
     "thumbnail_url": "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/32/65/P030263265/P030263265_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/32/65/P030263265/P030263265_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-cafe-202411",
@@ -10893,7 +10958,7 @@
     "lat": 26.3270896,
     "lng": 127.7538362,
     "youtube_id": "ZwwzPBGFK5c",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜",
     "visited_date": "2024-11-25",
     "members": [
       "鈴木瞳美"
@@ -10908,7 +10973,8 @@
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47007592/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000987614/",
     "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/03/P028996503/P028996503_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/03/P028996503/P028996503_238.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-b9e687dc-202411",
@@ -10920,7 +10986,7 @@
     "lat": 26.3270896,
     "lng": 127.7538362,
     "youtube_id": "ZwwzPBGFK5c",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜",
     "visited_date": "2024-11-25",
     "members": [
       "鈴木瞳美"
@@ -10934,7 +11000,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-30129d4e-202411",
@@ -10946,7 +11013,7 @@
     "lat": 26.3270896,
     "lng": 127.7538362,
     "youtube_id": "ZwwzPBGFK5c",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜",
     "visited_date": "2024-11-25",
     "members": [
       "鈴木瞳美"
@@ -10960,7 +11027,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47033637/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-304ed516-202411",
@@ -10972,7 +11040,7 @@
     "lat": 35.7341105,
     "lng": 139.7353515,
     "youtube_id": "ZSCnrDeujnM",
-    "source_video_title": "",
+    "source_video_title": "【かき氷】念願🥹！かき氷が好きすぎる二人で大人気店に行ってきました🍧普段のかき氷ルーティンを紹介します！",
     "visited_date": "2024-11-08",
     "members": [
       "尾木波菜",
@@ -10987,7 +11055,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13169371/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ZSCnrDeujnM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ZSCnrDeujnM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-ef034477-202411",
@@ -11027,7 +11096,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "IwPmbzmNeQg",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
       "鈴木瞳美"
@@ -11041,7 +11110,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22002100/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-a542cec1-202411",
@@ -11053,7 +11123,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "IwPmbzmNeQg",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
       "鈴木瞳美"
@@ -11067,7 +11137,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22026322/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-4e507645-202411",
@@ -11079,7 +11150,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "IwPmbzmNeQg",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
       "鈴木瞳美"
@@ -11093,7 +11164,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22043577/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-1st-202411",
@@ -11105,7 +11177,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "IwPmbzmNeQg",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
       "鈴木瞳美"
@@ -11119,7 +11191,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22031988/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "equal_love-62bce5f5-202410",
@@ -11131,7 +11204,7 @@
     "lat": 35.8837478,
     "lng": 139.8210025,
     "youtube_id": "eZExpxh4C5A",
-    "source_video_title": "",
+    "source_video_title": "【深夜ラーメン】ドライブ デート 山岡家",
     "visited_date": "2024-10-20",
     "members": [
       "大谷映美里"
@@ -11146,7 +11219,8 @@
     "tabelog_url": "https://tabelog.com/saitama/A1102/A110203/11024070/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003324162/",
     "thumbnail_url": "https://img.youtube.com/vi/eZExpxh4C5A/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/95/09/P038889509/P038889509_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/95/09/P038889509/P038889509_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "notme-12cab5ae-202410",
@@ -11158,7 +11232,7 @@
     "lat": 35.7265922,
     "lng": 139.7157472,
     "youtube_id": "Btsp0ae5Tzc",
-    "source_video_title": "",
+    "source_video_title": "大好きなお肉を好きなだけ食べる",
     "visited_date": "2024-10-02",
     "members": [
       "鈴木瞳美"
@@ -11172,7 +11246,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13155152/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "equal_love-a330c186-202409",
@@ -11184,7 +11259,7 @@
     "lat": 35.6603048,
     "lng": 139.7308226,
     "youtube_id": "LXebPFtWQhE",
-    "source_video_title": "",
+    "source_video_title": "【感動】おいしすぎて衝撃のハンバーガーに出会ってしまいました🥹🍔【イコラブハンバーガー部】",
     "visited_date": "2024-09-25",
     "members": [
       "瀧脇笙古",
@@ -11199,7 +11274,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13058961/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LXebPFtWQhE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LXebPFtWQhE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-37-202409",
@@ -11211,7 +11287,7 @@
     "lat": 35.6603048,
     "lng": 139.7308226,
     "youtube_id": "LXebPFtWQhE",
-    "source_video_title": "",
+    "source_video_title": "【感動】おいしすぎて衝撃のハンバーガーに出会ってしまいました🥹🍔【イコラブハンバーガー部】",
     "visited_date": "2024-09-25",
     "members": [
       "瀧脇笙古",
@@ -11226,7 +11302,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13108155/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LXebPFtWQhE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LXebPFtWQhE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-afc14d66-202409",
@@ -11238,7 +11315,7 @@
     "lat": 35.6955705,
     "lng": 139.6977013,
     "youtube_id": "qH_unOQG65g",
-    "source_video_title": "",
+    "source_video_title": "【鳥貴族】メンバーの大好きなメニューからニアジョイ最推し3品を決めよう！！",
     "visited_date": "2024-09-10",
     "members": [
       "小澤愛実",
@@ -11255,7 +11332,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13282850/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/qH_unOQG65g/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/qH_unOQG65g/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-b2f81d0e-202408",
@@ -11267,7 +11345,7 @@
     "lat": 35.670113,
     "lng": 139.765481,
     "youtube_id": "2K6Hh_G1uZg",
-    "source_video_title": "",
+    "source_video_title": "【ちょこもなか】菜々風の誕生日お祝い焼肉会をしてました！【うしごろ】",
     "visited_date": "2024-08-21",
     "members": [
       "蟹沢萌子",
@@ -11282,7 +11360,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13226719/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/2K6Hh_G1uZg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/2K6Hh_G1uZg/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-323e7d79-202408",
@@ -11294,7 +11373,7 @@
     "lat": 35.6700214,
     "lng": 139.4652109,
     "youtube_id": "aD0Q4-d-Ntg",
-    "source_video_title": "",
+    "source_video_title": "【完全プライベート】あんまいでいちごを狩る",
     "visited_date": "2024-08-15",
     "members": [
       "佐々木舞香",
@@ -11309,7 +11388,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1326/A132602/13067969/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/aD0Q4-d-Ntg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/aD0Q4-d-Ntg/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-cd18dd9d-202408",
@@ -11321,7 +11401,7 @@
     "lat": 35.6617507,
     "lng": 139.679068,
     "youtube_id": "J49luXyD-q4",
-    "source_video_title": "",
+    "source_video_title": "【二郎系】千里眼で念願のニンニクザンマイ食べてきた🍜【ラー活】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11335,7 +11415,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13099150/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/J49luXyD-q4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/J49luXyD-q4/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-a6665704-202408",
@@ -11347,7 +11428,7 @@
     "lat": 35.6690181,
     "lng": 139.6843225,
     "youtube_id": "xdDGkIR78r4",
-    "source_video_title": "",
+    "source_video_title": "念願の串カツ田中、100本目指して食べにきた。",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11362,7 +11443,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13181254/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001117446/",
     "thumbnail_url": "https://img.youtube.com/vi/xdDGkIR78r4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-c9547500-202408",
@@ -11374,7 +11456,7 @@
     "lat": 35.6999128,
     "lng": 139.6997412,
     "youtube_id": "8gKHzO_Jdhs",
-    "source_video_title": "",
+    "source_video_title": "人生初の鳥貴族でひたすら爆食【トリキ】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11389,7 +11471,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13186932/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001164547/",
     "thumbnail_url": "https://img.youtube.com/vi/8gKHzO_Jdhs/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/29/83/P036032983/P036032983_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/29/83/P036032983/P036032983_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-82fa4e5f-202408",
@@ -11401,7 +11484,7 @@
     "lat": 35.1142069,
     "lng": 136.1958936,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11415,7 +11498,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000005/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-c803c552-202408",
@@ -11427,7 +11511,7 @@
     "lat": 36.5712116,
     "lng": 136.6554986,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11441,7 +11525,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000822/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-0d7bdac2-202408",
@@ -11453,7 +11538,7 @@
     "lat": 31.9247486,
     "lng": 131.4329591,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11467,7 +11552,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17003147/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-e334efa9-202408",
@@ -11479,7 +11565,7 @@
     "lat": 36.5750276,
     "lng": 136.6529341,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11494,7 +11580,8 @@
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17010862/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001220712/",
     "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/89/P034195989/P034195989_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/89/P034195989/P034195989_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-7c808339-202408",
@@ -11506,7 +11593,7 @@
     "lat": 36.5700088,
     "lng": 136.6550428,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11520,7 +11607,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17012968/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-7cbba11a-202408",
@@ -11532,7 +11620,7 @@
     "lat": 36.5790275,
     "lng": 136.6465437,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11546,7 +11634,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000958/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-c2edb8b6-202408",
@@ -11558,7 +11647,7 @@
     "lat": 35.6907664,
     "lng": 139.7696653,
     "youtube_id": "lemqlWyw_Cw",
-    "source_video_title": "",
+    "source_video_title": "【ラー活】私の原点の場所です【春日亭】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11572,7 +11661,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13285551/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/lemqlWyw_Cw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/lemqlWyw_Cw/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-e6c17388-202408",
@@ -11584,7 +11674,7 @@
     "lat": 35.665153,
     "lng": 139.781855,
     "youtube_id": "peEcYliutz0",
-    "source_video_title": "",
+    "source_video_title": "お休みの日のオフすぎる動画【Vlog】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11599,7 +11689,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131302/13253307/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001262229/",
     "thumbnail_url": "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/26/P037186226/P037186226_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/26/P037186226/P037186226_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-c64bb688-202408",
@@ -11611,7 +11702,7 @@
     "lat": 35.655271,
     "lng": 139.792777,
     "youtube_id": "peEcYliutz0",
-    "source_video_title": "",
+    "source_video_title": "お休みの日のオフすぎる動画【Vlog】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11625,7 +11716,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131307/13173798/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-360fc2f3-202408",
@@ -11637,7 +11729,7 @@
     "lat": 35.6798471,
     "lng": 139.6866238,
     "youtube_id": "t_uRDbGf36E",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】みりにゃのとある休日。",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11651,7 +11743,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1328/A132801/13183462/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/t_uRDbGf36E/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/t_uRDbGf36E/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-c76f0dda-202408",
@@ -11663,7 +11756,7 @@
     "lat": 35.801834,
     "lng": 139.915647,
     "youtube_id": "MYDcp3vSmxI",
-    "source_video_title": "",
+    "source_video_title": "【ラー活】この二郎系ラーメン、本当にやばい。【雷本店】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11677,7 +11770,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1203/A120302/12020862/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/MYDcp3vSmxI/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/MYDcp3vSmxI/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-48daa5c3-202408",
@@ -11689,7 +11783,7 @@
     "lat": 43.0563633,
     "lng": 141.3508023,
     "youtube_id": "ohdDJpMuBco",
-    "source_video_title": "",
+    "source_video_title": "寝起きお寿司デート in北海道【いおみり】",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里",
@@ -11705,7 +11799,8 @@
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010103/1005414/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000727405/",
     "thumbnail_url": "https://img.youtube.com/vi/ohdDJpMuBco/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/91/P024479291/P024479291_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/91/P024479291/P024479291_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-mateki-202408",
@@ -11717,7 +11812,7 @@
     "lat": 26.217854,
     "lng": 127.6818582,
     "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
+    "source_video_title": "【vlog】お仕事で沖縄に行かせていただきました🌴🌺🌈",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11731,7 +11826,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47016925/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-a8a055cd-202408",
@@ -11743,7 +11839,7 @@
     "lat": 26.2153394,
     "lng": 127.6902428,
     "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
+    "source_video_title": "【vlog】お仕事で沖縄に行かせていただきました🌴🌺🌈",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11758,7 +11854,8 @@
     "tabelog_url": "https://tabelog.com/okinawa/A4701/A470101/47000229/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
-    "tabelog_url_alt": "https://tabelog.com/okinawa/A4701/A470101/47000064/"
+    "tabelog_url_alt": "https://tabelog.com/okinawa/A4701/A470101/47000064/",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-a47973a5-202408",
@@ -11770,7 +11867,7 @@
     "lat": 26.3270896,
     "lng": 127.7538362,
     "youtube_id": "GZg8nO3EZ4E",
-    "source_video_title": "",
+    "source_video_title": "【vlog】お仕事で沖縄に行かせていただきました🌴🌺🌈",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -11784,7 +11881,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47019840/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "notme-dog_cat_joker_avenue-202408",
@@ -11796,7 +11894,7 @@
     "lat": 35.6141434,
     "lng": 139.6247439,
     "youtube_id": "Sn79vTeVxSU",
-    "source_video_title": "",
+    "source_video_title": "大好きなワンちゃんとお散歩🐾かわいすぎました♡【うしみと萌子】【ボストン・テリア】",
     "visited_date": "2024-08-14",
     "members": [
       "蟹沢萌子"
@@ -11810,7 +11908,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Sn79vTeVxSU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Sn79vTeVxSU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-d377e2fc-202408",
@@ -11822,7 +11921,7 @@
     "lat": 37.0592434,
     "lng": 140.8930352,
     "youtube_id": "YEfEA3jOgwE",
-    "source_video_title": "",
+    "source_video_title": "【念願】地元ではしご酒、最高に楽しみすぎてしまいました🍶",
     "visited_date": "2024-08-14",
     "members": [
       "諸橋沙夏"
@@ -11836,7 +11935,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukushima/A0704/A070401/7002616/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-227419b6-202408",
@@ -11848,7 +11948,7 @@
     "lat": 37.0592434,
     "lng": 140.8930352,
     "youtube_id": "YEfEA3jOgwE",
-    "source_video_title": "",
+    "source_video_title": "【念願】地元ではしご酒、最高に楽しみすぎてしまいました🍶",
     "visited_date": "2024-08-14",
     "members": [
       "諸橋沙夏"
@@ -11862,7 +11962,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukushima/A0704/A070401/7014293/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-443dcbb1-202408",
@@ -11874,7 +11975,7 @@
     "lat": 35.7806673,
     "lng": 139.7206438,
     "youtube_id": "sn9-GWZQ5ps",
-    "source_video_title": "",
+    "source_video_title": "【赤羽】昼飲みで念願のはしご酒してきました🍻🤍最高！！！",
     "visited_date": "2024-08-14",
     "members": [
       "諸橋沙夏"
@@ -11888,7 +11989,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13044298/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-67a09d04-202408",
@@ -11900,7 +12002,7 @@
     "lat": 35.7806673,
     "lng": 139.7206438,
     "youtube_id": "sn9-GWZQ5ps",
-    "source_video_title": "",
+    "source_video_title": "【赤羽】昼飲みで念願のはしご酒してきました🍻🤍最高！！！",
     "visited_date": "2024-08-14",
     "members": [
       "諸橋沙夏"
@@ -11915,7 +12017,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13173601/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003491001/",
     "thumbnail_url": "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/78/P046162278/P046162278_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/78/P046162278/P046162278_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-e9976172-202408",
@@ -11927,7 +12030,7 @@
     "lat": 34.3942162,
     "lng": 132.4621961,
     "youtube_id": "gOJ_jjaT__4",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】ふたりで山本杏奈の地元 広島に行ってきました！【マツダ スタジアム】",
     "visited_date": "2024-08-14",
     "members": [
       "髙松瞳",
@@ -11943,7 +12046,8 @@
     "tabelog_url": "https://tabelog.com/hiroshima/A3401/A340114/34002268/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000520814/",
     "thumbnail_url": "https://img.youtube.com/vi/gOJ_jjaT__4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/95/42/P012359542/P012359542_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/95/42/P012359542/P012359542_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-08395d58-202408",
@@ -11955,7 +12059,7 @@
     "lat": 35.671513,
     "lng": 139.7057319,
     "youtube_id": "lp8-ltk3kN4",
-    "source_video_title": "",
+    "source_video_title": "【激ウマ】スイパラさんに皆で行ってきました！！コラボカフェメニューが美味しすぎる🍰",
     "visited_date": "2024-08-14",
     "members": [],
     "groups": [
@@ -11967,7 +12071,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13049884/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/lp8-ltk3kN4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/lp8-ltk3kN4/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-b1d5f8cd-202408",
@@ -11979,7 +12084,7 @@
     "lat": 35.7277266,
     "lng": 139.7628857,
     "youtube_id": "HrmydlHejtk",
-    "source_video_title": "",
+    "source_video_title": "【癒やし回と思ったら】あゆみんが鳥カフェに連れて行ってくれました🐤【事件発生！？】",
     "visited_date": "2024-08-14",
     "members": [
       "市原愛弓",
@@ -11994,7 +12099,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/HrmydlHejtk/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/HrmydlHejtk/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-c9294339-202408",
@@ -12006,7 +12112,7 @@
     "lat": 34.3931587,
     "lng": 132.4569775,
     "youtube_id": "FFILw3D41B8",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】杏奈の地元広島で遊び尽くしました🎶たくさん食べてイルミネーションも見たよ🍜🌟【いおあん超自由旅】",
     "visited_date": "2024-08-14",
     "members": [
       "野口衣織",
@@ -12021,7 +12127,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-e981ea6f-202408",
@@ -12033,7 +12140,7 @@
     "lat": 34.3931587,
     "lng": 132.4569775,
     "youtube_id": "FFILw3D41B8",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】杏奈の地元広島で遊び尽くしました🎶たくさん食べてイルミネーションも見たよ🍜🌟【いおあん超自由旅】",
     "visited_date": "2024-08-14",
     "members": [
       "野口衣織",
@@ -12048,7 +12155,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3401/A340113/34024679/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-dc047633-202408",
@@ -12060,7 +12168,7 @@
     "lat": 34.3948813,
     "lng": 132.4588869,
     "youtube_id": "FFILw3D41B8",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】杏奈の地元広島で遊び尽くしました🎶たくさん食べてイルミネーションも見たよ🍜🌟【いおあん超自由旅】",
     "visited_date": "2024-08-14",
     "members": [
       "野口衣織",
@@ -12075,7 +12183,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3401/A340111/34005624/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-16a33a28-202408",
@@ -12087,7 +12196,7 @@
     "lat": 34.3942162,
     "lng": 132.4621961,
     "youtube_id": "FFILw3D41B8",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】杏奈の地元広島で遊び尽くしました🎶たくさん食べてイルミネーションも見たよ🍜🌟【いおあん超自由旅】",
     "visited_date": "2024-08-14",
     "members": [
       "野口衣織",
@@ -12102,7 +12211,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3401/A340114/34002268/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FFILw3D41B8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-571d4c2e-202408",
@@ -12114,7 +12224,7 @@
     "lat": 35.0021553,
     "lng": 135.8825058,
     "youtube_id": "NcDizNoUVMs",
-    "source_video_title": "",
+    "source_video_title": "VRでボートレース対決🚤🔥！ガチすぎてもちろん大絶叫！絶品の近江牛すき焼きに大感動...🥹【イコラブボートレース部】",
     "visited_date": "2024-08-14",
     "members": [
       "髙松瞳",
@@ -12130,7 +12240,8 @@
     "tabelog_url": "https://tabelog.com/shiga/A2504/A250403/25012462/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000434758/",
     "thumbnail_url": "https://img.youtube.com/vi/NcDizNoUVMs/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/39/26/P037163926/P037163926_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/39/26/P037163926/P037163926_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-ec121482-202408",
@@ -12142,7 +12253,7 @@
     "lat": 34.7251571,
     "lng": 135.4999741,
     "youtube_id": "9LRdo4bj-ww",
-    "source_video_title": "",
+    "source_video_title": "【人類みな麺類】地元、大阪の大行列店へ！究極の一杯いただきます！【ニアジョイらーめん部🍜】",
     "visited_date": "2024-08-14",
     "members": [
       "大信田美月",
@@ -12157,7 +12268,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27064584/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/9LRdo4bj-ww/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/9LRdo4bj-ww/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-14f3ebca-202408",
@@ -12169,7 +12281,7 @@
     "lat": 35.2710625,
     "lng": 139.01225,
     "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
     "visited_date": "2024-08-14",
     "members": [
       "天野香乃愛",
@@ -12187,7 +12299,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14053358/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-273b4aa9-202408",
@@ -12199,7 +12312,7 @@
     "lat": 35.675404,
     "lng": 139.769895,
     "youtube_id": "8Ydv8IXxHjE",
-    "source_video_title": "",
+    "source_video_title": "【トラジ】「イコノイジョイ2023の裏話！」「大感謝祭！」「この秋冬やりたいこと！」焼肉食べながら語ります💎",
     "visited_date": "2024-08-14",
     "members": [
       "蟹沢萌子",
@@ -12214,7 +12327,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130201/13154977/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8Ydv8IXxHjE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8Ydv8IXxHjE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-37c541ad-202408",
@@ -12226,7 +12340,7 @@
     "lat": 36.3425512,
     "lng": 138.6351092,
     "youtube_id": "UC_nxGtuqAg",
-    "source_video_title": "",
+    "source_video_title": "【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】",
     "visited_date": "2024-08-14",
     "members": [
       "蟹沢萌子",
@@ -12241,7 +12355,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-db5ba582-202408",
@@ -12253,7 +12368,7 @@
     "lat": 36.3624355,
     "lng": 138.6397246,
     "youtube_id": "UC_nxGtuqAg",
-    "source_video_title": "",
+    "source_video_title": "【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】",
     "visited_date": "2024-08-14",
     "members": [
       "蟹沢萌子",
@@ -12268,7 +12383,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20019057/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-403503b7-202408",
@@ -12280,7 +12396,7 @@
     "lat": 35.712125,
     "lng": 139.6674111,
     "youtube_id": "vr2cC8gr6HM",
-    "source_video_title": "",
+    "source_video_title": "【天下一品】朝からラーメン！衝撃のこってりの世界へ！【ニアジョイらーめん部🍜】",
     "visited_date": "2024-08-14",
     "members": [
       "大信田美月",
@@ -12295,7 +12411,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13253244/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/vr2cC8gr6HM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/vr2cC8gr6HM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-tetsu-202408",
@@ -12307,7 +12424,7 @@
     "lat": 35.7265922,
     "lng": 139.7157472,
     "youtube_id": "FfoCq5L1SRg",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】好きなだけお肉を食べて最高すぎました🥩♡【焼肉デート】",
     "visited_date": "2024-08-14",
     "members": [
       "大谷映美里",
@@ -12322,7 +12439,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13254443/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/FfoCq5L1SRg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/FfoCq5L1SRg/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-41f4ca0a-202408",
@@ -12334,7 +12452,7 @@
     "lat": 35.0631541,
     "lng": 139.0709965,
     "youtube_id": "fSBicVF8TfQ",
-    "source_video_title": "",
+    "source_video_title": "【お泊りロケ】熱海で1泊2日の旅！超巨大プリン！？足湯で妄想デート！？そしてお部屋紹介も！【熱海旅#1】",
     "visited_date": "2024-08-05",
     "members": [
       "蟹沢萌子",
@@ -12351,7 +12469,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22035146/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/fSBicVF8TfQ/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/fSBicVF8TfQ/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-93d5e98f-202408",
@@ -12363,7 +12482,7 @@
     "lat": 34.9956993,
     "lng": 135.7811947,
     "youtube_id": "YgOd8ZpFaUU",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで旅行に行ってきました！！！【大阪&京都旅】",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -12375,7 +12494,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001215/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-1611bac7-202408",
@@ -12387,7 +12507,7 @@
     "lat": 35.0108986,
     "lng": 135.7688702,
     "youtube_id": "YgOd8ZpFaUU",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで旅行に行ってきました！！！【大阪&京都旅】",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -12400,7 +12520,8 @@
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26042189/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003941061/",
     "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/18/31/P046441831/P046441831_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/18/31/P046441831/P046441831_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-9293ad0d-202408",
@@ -12412,7 +12533,7 @@
     "lat": 35.1601877,
     "lng": 136.8998373,
     "youtube_id": "xPGJTsYsPvk",
-    "source_video_title": "",
+    "source_video_title": "【名古屋来た】お仕事の合間に大須商店街へ！グルメを堪能😋そして何やら不思議なことが起こる・・？",
     "visited_date": "2024-08-04",
     "members": [
       "鈴木瞳美",
@@ -12429,7 +12550,8 @@
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230105/23077899/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001260432/",
     "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/10/91/P046261091/P046261091_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/10/91/P046261091/P046261091_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-897b73f1-202408",
@@ -12441,7 +12563,7 @@
     "lat": 35.1601877,
     "lng": 136.8998373,
     "youtube_id": "xPGJTsYsPvk",
-    "source_video_title": "",
+    "source_video_title": "【名古屋来た】お仕事の合間に大須商店街へ！グルメを堪能😋そして何やら不思議なことが起こる・・？",
     "visited_date": "2024-08-04",
     "members": [
       "鈴木瞳美",
@@ -12457,7 +12579,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230105/23053194/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-ea607bdf-202408",
@@ -12469,7 +12592,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "LSUtYiOct4c",
-    "source_video_title": "",
+    "source_video_title": "【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】",
     "visited_date": "2024-08-04",
     "members": [
       "髙橋舞",
@@ -12485,7 +12608,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13049685/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-cc4ef957-202408",
@@ -12497,7 +12621,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "LSUtYiOct4c",
-    "source_video_title": "",
+    "source_video_title": "【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】",
     "visited_date": "2024-08-04",
     "members": [
       "髙橋舞",
@@ -12513,7 +12637,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13231645/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-a1e545b6-202408",
@@ -12525,7 +12650,7 @@
     "lat": 35.6953799,
     "lng": 139.7017233,
     "youtube_id": "r57aY-wm1k8",
-    "source_video_title": "",
+    "source_video_title": "【イコラブ大食い大会】早朝から大食い！アイドルの限界に挑戦！【わんこそば】",
     "visited_date": "2024-08-04",
     "members": [
       "大谷映美里",
@@ -12541,7 +12666,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13273517/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/r57aY-wm1k8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/r57aY-wm1k8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-iori-20240804",
@@ -12553,7 +12679,7 @@
     "lat": 42.832672,
     "lng": 141.661228,
     "youtube_id": "tSU-TMf1mE0",
-    "source_video_title": "",
+    "source_video_title": "Vlog）全国ツアー初日翌日！２人で北海道を満喫しました♡【北海道旅#1】",
     "visited_date": "2024-08-04",
     "members": [
       "大谷映美里",
@@ -12568,7 +12694,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0107/A010701/1029291/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/tSU-TMf1mE0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/tSU-TMf1mE0/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-6b8de214-202408",
@@ -12580,7 +12707,7 @@
     "lat": 35.015144,
     "lng": 135.675153,
     "youtube_id": "zIST21lyxR0",
-    "source_video_title": "",
+    "source_video_title": "【女子旅】京都でお着物を着てきました！！【京都旅#1】",
     "visited_date": "2024-08-04",
     "members": [
       "尾木波菜",
@@ -12596,7 +12723,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26032050/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/zIST21lyxR0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/zIST21lyxR0/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-bb3bf1c0-202408",
@@ -12608,7 +12736,7 @@
     "lat": 34.6685063,
     "lng": 135.5032623,
     "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "",
+    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -12621,7 +12749,8 @@
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001451/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000018294/",
     "thumbnail_url": "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/21/P051163121/P051163121_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/21/P051163121/P051163121_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-fc500dbe-202408",
@@ -12633,7 +12762,7 @@
     "lat": 34.6685063,
     "lng": 135.5032623,
     "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "",
+    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -12645,7 +12774,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-bcaeeee2-202408",
@@ -12657,7 +12787,7 @@
     "lat": 33.6069789,
     "lng": 130.4056838,
     "youtube_id": "HoSaJsed33M",
-    "source_video_title": "",
+    "source_video_title": "【本音トーク】夜ご飯食べながら二人で語り合ってきました【福岡旅#2】",
     "visited_date": "2024-08-04",
     "members": [
       "音嶋莉沙",
@@ -12672,7 +12802,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400106/40000986/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/HoSaJsed33M/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/HoSaJsed33M/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-ushihachi-202408",
@@ -12684,7 +12815,7 @@
     "lat": 35.6593786,
     "lng": 139.6987796,
     "youtube_id": "WGNuE6STf5c",
-    "source_video_title": "",
+    "source_video_title": "【一人焼肉】齊藤なぎさが朝から焼肉食べ放題してきた！【なーたん】",
     "visited_date": "2024-08-04",
     "members": [
       "齊藤なぎさ"
@@ -12698,7 +12829,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13208724/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/WGNuE6STf5c/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/WGNuE6STf5c/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-flipper_s-202408",
@@ -12710,7 +12842,7 @@
     "lat": 35.661998,
     "lng": 139.6683083,
     "youtube_id": "o8PItsNaK7U",
-    "source_video_title": "",
+    "source_video_title": "【極貧旅！？】難問に答えてロケ費を稼げ！クイズの旅in下北沢",
     "visited_date": "2024-08-04",
     "members": [
       "冨田菜々風",
@@ -12726,7 +12858,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13197095/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001259102/",
     "thumbnail_url": "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/33/P036642233/P036642233_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/33/P036642233/P036642233_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-c1966798-202408",
@@ -12738,7 +12871,7 @@
     "lat": 35.4429058,
     "lng": 139.6514509,
     "youtube_id": "z7JkgbJj-sY",
-    "source_video_title": "",
+    "source_video_title": "【幸せ】夜の横浜中華街で食べ歩きしながら語ってきました！",
     "visited_date": "2024-08-04",
     "members": [
       "蟹沢萌子",
@@ -12755,7 +12888,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14074121/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/z7JkgbJj-sY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/z7JkgbJj-sY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-acc7e129-202408",
@@ -12767,7 +12901,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "YRwk6TmnUmU",
-    "source_video_title": "",
+    "source_video_title": "【初詣】お寺にたどり着かない初詣動画 in 浅草",
     "visited_date": "2024-08-04",
     "members": [
       "瀧脇笙古",
@@ -12784,7 +12918,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13110138/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-93b29440-202408",
@@ -12796,7 +12931,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "YRwk6TmnUmU",
-    "source_video_title": "",
+    "source_video_title": "【初詣】お寺にたどり着かない初詣動画 in 浅草",
     "visited_date": "2024-08-04",
     "members": [
       "瀧脇笙古",
@@ -12813,7 +12948,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13128423/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-4151a4c5-202408",
@@ -12825,7 +12961,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "YRwk6TmnUmU",
-    "source_video_title": "",
+    "source_video_title": "【初詣】お寺にたどり着かない初詣動画 in 浅草",
     "visited_date": "2024-08-04",
     "members": [
       "瀧脇笙古",
@@ -12842,7 +12978,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13016865/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YRwk6TmnUmU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-long_longer_longest_-20240804",
@@ -12854,7 +12991,7 @@
     "lat": 35.671513,
     "lng": 139.7057319,
     "youtube_id": "JCPvDX7y3-k",
-    "source_video_title": "",
+    "source_video_title": "【原宿お散歩ロケ】休日の竹下通りで食べまくる！原宿ロケ#3",
     "visited_date": "2024-08-04",
     "members": [
       "音嶋莉沙",
@@ -12871,7 +13008,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13218655/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-marion_crepes-202408",
@@ -12883,7 +13021,7 @@
     "lat": 35.671513,
     "lng": 139.7057319,
     "youtube_id": "JCPvDX7y3-k",
-    "source_video_title": "",
+    "source_video_title": "【原宿お散歩ロケ】休日の竹下通りで食べまくる！原宿ロケ#3",
     "visited_date": "2024-08-04",
     "members": [
       "音嶋莉沙",
@@ -12900,7 +13038,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-mocha-202408",
@@ -12912,7 +13051,7 @@
     "lat": 35.671513,
     "lng": 139.7057319,
     "youtube_id": "Iz_DvhCMMwU",
-    "source_video_title": "",
+    "source_video_title": "【もふもふ】猫カフェデートしてきました♡【癒し】",
     "visited_date": "2024-08-04",
     "members": [
       "菅波美玲",
@@ -12927,7 +13066,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Iz_DvhCMMwU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Iz_DvhCMMwU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-27c61836-202601",
@@ -12939,7 +13079,7 @@
     "lat": 35.4503381,
     "lng": 139.6343802,
     "youtube_id": "QMulxshbfPI",
-    "source_video_title": "",
+    "source_video_title": "しゃぶしゃぶからの深夜マックって、かくべチュすぎないか？",
     "visited_date": "2026-01-31",
     "members": [
       "大谷映美里"
@@ -12954,7 +13094,8 @@
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140102/14094973/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003829019/",
     "thumbnail_url": "https://img.youtube.com/vi/QMulxshbfPI/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/69/P044500169/P044500169_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/69/P044500169/P044500169_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-85f871ac-202512",
@@ -12966,7 +13107,7 @@
     "lat": 35.70076,
     "lng": 139.754353,
     "youtube_id": "TI71ENfUCZQ",
-    "source_video_title": "",
+    "source_video_title": "【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】",
     "visited_date": "2025-12-05",
     "members": [
       "大谷映美里"
@@ -12980,7 +13121,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TI71ENfUCZQ/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/TI71ENfUCZQ/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-a82124f4-202511",
@@ -12992,7 +13134,7 @@
     "lat": 35.6997092,
     "lng": 139.7053014,
     "youtube_id": "FeTUjMoiCc4",
-    "source_video_title": "",
+    "source_video_title": "新大久保で高まるみりにゃ",
     "visited_date": "2025-11-22",
     "members": [
       "大谷映美里"
@@ -13007,7 +13149,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13028917/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001268139/",
     "thumbnail_url": "https://img.youtube.com/vi/FeTUjMoiCc4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/93/77/P049639377/P049639377_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/93/77/P049639377/P049639377_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-zero-202511",
@@ -13019,7 +13162,7 @@
     "lat": 35.7092137,
     "lng": 139.7758327,
     "youtube_id": "Hj0HB_c5yKw",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】さなつんが上野に上陸🍻楽しく好きなだけ飲みました！！！【重大発表あり】",
     "visited_date": "2025-11-14",
     "members": [
       "諸橋沙夏"
@@ -13033,7 +13176,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13219268/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Hj0HB_c5yKw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Hj0HB_c5yKw/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-9c15ea70-202510",
@@ -13045,7 +13189,7 @@
     "lat": 35.68156,
     "lng": 139.767201,
     "youtube_id": "lJog7xVHLH4",
-    "source_video_title": "",
+    "source_video_title": "【ドッキリ】みそきんでラーメンを食べようとしたらまさかのヒカキンさん登場に2人はどうする・・・！？【ニアジョイらーめん部】",
     "visited_date": "2025-10-27",
     "members": [
       "大信田美月",
@@ -13060,7 +13204,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13319902/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/lJog7xVHLH4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/lJog7xVHLH4/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-9538e782-202510",
@@ -13072,7 +13217,7 @@
     "lat": 35.676952,
     "lng": 139.763476,
     "youtube_id": "cnXygUoYIIE",
-    "source_video_title": "",
+    "source_video_title": "【爆食】串カツ田中で食べ放題！好きなだけ食べてみたらすごい本数に・・・！？",
     "visited_date": "2025-10-10",
     "members": [
       "髙橋舞",
@@ -13090,7 +13235,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13241046/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001257922/",
     "thumbnail_url": "https://img.youtube.com/vi/cnXygUoYIIE/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-coa_ginza-20251006",
@@ -13102,7 +13248,7 @@
     "lat": 35.669261,
     "lng": 139.764429,
     "youtube_id": "PWBxeT4_NNk",
-    "source_video_title": "",
+    "source_video_title": "朝からみりにゃの美容DAYに密着してみた🪞【肌治療 / 美容院】",
     "visited_date": "2025-10-06",
     "members": [
       "大谷映美里"
@@ -13116,7 +13262,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13217298/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/PWBxeT4_NNk/hqdefault.jpg",
-    "closed": true
+    "closed": true,
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-2c58e013-202509",
@@ -13128,7 +13275,7 @@
     "lat": 34.2999284,
     "lng": 132.3214858,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13143,7 +13290,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34013258/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-gebura-20250915",
@@ -13155,7 +13303,7 @@
     "lat": 34.2988011,
     "lng": 132.3212291,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13170,7 +13318,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34024899/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-1a1850e6-202509",
@@ -13182,7 +13331,7 @@
     "lat": 34.298185,
     "lng": 132.3215829,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13197,7 +13346,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34011680/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-182c15f9-202509",
@@ -13209,7 +13359,7 @@
     "lat": 34.2975,
     "lng": 132.32,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13224,7 +13374,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3404/A340401/34013336/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-962734e3-202509",
@@ -13236,7 +13387,7 @@
     "lat": 34.2975,
     "lng": 132.32,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13251,7 +13402,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34020635/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-5778582a-202509",
@@ -13263,7 +13415,7 @@
     "lat": 34.2988011,
     "lng": 132.3212291,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "visited_date": "2025-09-15",
     "members": [
       "山本杏奈",
@@ -13278,7 +13430,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34010095/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg",
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-ishinoya-202509",
@@ -13290,7 +13443,7 @@
     "lat": 35.1037499,
     "lng": 139.0782076,
     "youtube_id": "o9YsRLOqsCI",
-    "source_video_title": "",
+    "source_video_title": "熱海1泊2日旅行の完全版 【ナイトルーティンも紹介するよ】",
     "visited_date": "2025-09-05",
     "members": [
       "大谷映美里"
@@ -13304,7 +13457,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22037719/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-246f9b6d-202509",
@@ -13316,7 +13470,7 @@
     "lat": 35.0967641,
     "lng": 139.0736987,
     "youtube_id": "o9YsRLOqsCI",
-    "source_video_title": "",
+    "source_video_title": "熱海1泊2日旅行の完全版 【ナイトルーティンも紹介するよ】",
     "visited_date": "2025-09-05",
     "members": [
       "大谷映美里"
@@ -13331,7 +13485,8 @@
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22035765/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003365080/",
     "thumbnail_url": "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/24/68/P040042468/P040042468_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/24/68/P040042468/P040042468_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "neajoy-samoyed_cafe_al-202509",
@@ -13343,7 +13498,7 @@
     "lat": 35.4438,
     "lng": 139.6508,
     "youtube_id": "vQjP4UKBzqY",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】ももじゅり2人で中華街で遊んできました🐼🎶普段の2人の様子を大公開🤍",
     "visited_date": "2025-09-03",
     "members": [
       "逢田珠里依",
@@ -13358,7 +13513,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-26520a35-202508",
@@ -13370,7 +13526,7 @@
     "lat": 35.7850971,
     "lng": 139.3057829,
     "youtube_id": "T8Epe6pq3e4",
-    "source_video_title": "",
+    "source_video_title": "ドライブデート 山岡家 vol.2【夜食にはラーメン♪】",
     "visited_date": "2025-08-29",
     "members": [
       "大谷映美里"
@@ -13384,7 +13540,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1330/A133002/13297759/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/T8Epe6pq3e4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/T8Epe6pq3e4/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-yokoo-202508",
@@ -13396,7 +13553,7 @@
     "lat": 34.7313185,
     "lng": 135.500552,
     "youtube_id": "eqfZmabiZ0A",
-    "source_video_title": "",
+    "source_video_title": "みりにゃに1日完全密着してみた",
     "visited_date": "2025-08-27",
     "members": [
       "大谷映美里"
@@ -13410,7 +13567,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27095351/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-juicer_bar-202508",
@@ -13422,7 +13580,7 @@
     "lat": 34.7313185,
     "lng": 135.500552,
     "youtube_id": "eqfZmabiZ0A",
-    "source_video_title": "",
+    "source_video_title": "みりにゃに1日完全密着してみた",
     "visited_date": "2025-08-27",
     "members": [
       "大谷映美里"
@@ -13436,7 +13594,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27068279/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-495bc766-202508",
@@ -13448,7 +13607,7 @@
     "lat": 35.6593786,
     "lng": 139.6987796,
     "youtube_id": "eqfZmabiZ0A",
-    "source_video_title": "",
+    "source_video_title": "みりにゃに1日完全密着してみた",
     "visited_date": "2025-08-27",
     "members": [
       "大谷映美里"
@@ -13462,7 +13621,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13213452/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-dc15f6aa-202508",
@@ -13474,7 +13634,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "7N3fbKMpQaU",
-    "source_video_title": "",
+    "source_video_title": "旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】",
     "visited_date": "2025-08-20",
     "members": [
       "大谷映美里"
@@ -13488,7 +13648,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22015003/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-usagiiya_by-202508",
@@ -13500,7 +13661,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "7N3fbKMpQaU",
-    "source_video_title": "",
+    "source_video_title": "旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】",
     "visited_date": "2025-08-20",
     "members": [
       "大谷映美里"
@@ -13514,7 +13675,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-e732d9bf-202506",
@@ -13526,7 +13688,7 @@
     "lat": 35.6515458,
     "lng": 139.7156936,
     "youtube_id": "cYFtNVKcXKc",
-    "source_video_title": "",
+    "source_video_title": "【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします👗【メイキング】",
     "visited_date": "2025-06-28",
     "members": [],
     "groups": [
@@ -13538,7 +13700,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/cYFtNVKcXKc/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/cYFtNVKcXKc/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-sc-202506",
@@ -13550,7 +13713,7 @@
     "lat": 35.6141434,
     "lng": 139.6247439,
     "youtube_id": "rI97Y8OW8K0",
-    "source_video_title": "",
+    "source_video_title": "【1日密着】こんな感じでお仕事してます！みりにゃの裏側大公開🐈♡",
     "visited_date": "2025-06-28",
     "members": [
       "大谷映美里"
@@ -13564,7 +13727,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131708/13009772/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/rI97Y8OW8K0/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/rI97Y8OW8K0/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-51127111-202506",
@@ -13576,7 +13740,7 @@
     "lat": 35.6661069,
     "lng": 139.7041199,
     "youtube_id": "ioRcB5L2g3g",
-    "source_video_title": "",
+    "source_video_title": "【爆食】サウナの後の最高飯【バーミヤン】",
     "visited_date": "2025-06-27",
     "members": [
       "大谷映美里"
@@ -13590,7 +13754,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13145993/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ioRcB5L2g3g/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ioRcB5L2g3g/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "neajoy-085d4b4a-202506",
@@ -13602,7 +13767,7 @@
     "lat": 35.6361342,
     "lng": 139.7110641,
     "youtube_id": "aEKmiuXtZx8",
-    "source_video_title": "",
+    "source_video_title": "【魂心家】家系ラーメン&ライス爆食🍜🍚大信田部長も初めて見る、天野の食べ方とは...!?【ニアジョイらーめん部】",
     "visited_date": "2025-06-13",
     "members": [
       "大信田美月",
@@ -13617,7 +13782,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13118047/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/aEKmiuXtZx8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/aEKmiuXtZx8/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-287b97eb-202506",
@@ -13629,7 +13795,7 @@
     "lat": 35.7311554,
     "lng": 139.7149383,
     "youtube_id": "Y1zrFlbwhy8",
-    "source_video_title": "",
+    "source_video_title": "みりにゃ流 一蘭の最高の食べ方",
     "visited_date": "2025-06-08",
     "members": [
       "大谷映美里"
@@ -13643,7 +13809,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13019994/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Y1zrFlbwhy8/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Y1zrFlbwhy8/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "neajoy-944f9665-202506",
@@ -13655,7 +13822,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "9ZWbXuY-nc4",
-    "source_video_title": "",
+    "source_video_title": "【浅草】最高においしいもんじゃ焼きを食べながら超雑談",
     "visited_date": "2025-06-04",
     "members": [
       "市原愛弓",
@@ -13671,7 +13838,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13300191/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003893135/",
     "thumbnail_url": "https://img.youtube.com/vi/9ZWbXuY-nc4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/73/P045544573/P045544573_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/73/P045544573/P045544573_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-ab8c67a3-202505",
@@ -13683,7 +13851,7 @@
     "lat": 36.3395,
     "lng": 138.6324,
     "youtube_id": "_TClQ4Pf4sg",
-    "source_video_title": "",
+    "source_video_title": "ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】",
     "visited_date": "2025-05-30",
     "members": [
       "大谷映美里"
@@ -13697,7 +13865,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-290f63cb-202505",
@@ -13709,7 +13878,7 @@
     "lat": 36.3428502,
     "lng": 138.6341737,
     "youtube_id": "_TClQ4Pf4sg",
-    "source_video_title": "",
+    "source_video_title": "ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】",
     "visited_date": "2025-05-30",
     "members": [
       "大谷映美里"
@@ -13724,7 +13893,8 @@
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20017854/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001275602/",
     "thumbnail_url": "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/89/P041693389/P041693389_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/89/P041693389/P041693389_238.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "notme-4bae4322-202505",
@@ -13736,7 +13906,7 @@
     "lat": 35.6635006,
     "lng": 139.7001582,
     "youtube_id": "ySSbRZtJti8",
-    "source_video_title": "",
+    "source_video_title": "【大漁】自分で釣ってすぐ食べる！釣りができるお店に行ってみたら楽しすぎた🐟🎶",
     "visited_date": "2025-05-04",
     "members": [
       "冨田菜々風",
@@ -13752,7 +13922,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13006709/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001127647/",
     "thumbnail_url": "https://img.youtube.com/vi/ySSbRZtJti8/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/00/P036845200/P036845200_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/00/P036845200/P036845200_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-68911978-202504",
@@ -13764,7 +13935,7 @@
     "lat": 35.714955,
     "lng": 139.7957367,
     "youtube_id": "tvUBTJDvKQI",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】現役アイドルが浅草ホッピー通りでガチ飲みしたら素で楽しみ過ぎてしまいました。",
     "visited_date": "2025-04-10",
     "members": [
       "諸橋沙夏"
@@ -13779,7 +13950,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1324/A132401/13008435/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tvUBTJDvKQI/hqdefault.jpg",
-    "tabelog_url_alt": "https://tabelog.com/tokyo/A1311/A131102/13078496/"
+    "tabelog_url_alt": "https://tabelog.com/tokyo/A1311/A131102/13078496/",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-01641645-202504",
@@ -13791,7 +13963,7 @@
     "lat": 35.714955,
     "lng": 139.7957367,
     "youtube_id": "tvUBTJDvKQI",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】現役アイドルが浅草ホッピー通りでガチ飲みしたら素で楽しみ過ぎてしまいました。",
     "visited_date": "2025-04-10",
     "members": [
       "諸橋沙夏"
@@ -13806,7 +13978,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13260809/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004004433/",
     "thumbnail_url": "https://img.youtube.com/vi/tvUBTJDvKQI/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/10/P046375710/P046375710_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/10/P046375710/P046375710_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-9cc892b4-202503",
@@ -13818,7 +13991,7 @@
     "lat": 35.686841,
     "lng": 139.773767,
     "youtube_id": "hHDk2mEa4Sc",
-    "source_video_title": "",
+    "source_video_title": "誕生日を超盛大にお祝いされてみた",
     "visited_date": "2025-03-15",
     "members": [
       "大谷映美里"
@@ -13832,7 +14005,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/hHDk2mEa4Sc/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/hHDk2mEa4Sc/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-f22d7edd-202502",
@@ -13844,7 +14018,7 @@
     "lat": 35.7079412,
     "lng": 139.6692565,
     "youtube_id": "1QLZfSE6X3Q",
-    "source_video_title": "",
+    "source_video_title": "【二郎系ラーメン】ニンニクアブラは魔法の呪文♪【えどもんど】",
     "visited_date": "2025-02-15",
     "members": [
       "大谷映美里"
@@ -13858,7 +14032,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13283099/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/1QLZfSE6X3Q/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/1QLZfSE6X3Q/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-7aed8c96-202501",
@@ -13870,7 +14045,7 @@
     "lat": 35.763645,
     "lng": 139.679446,
     "youtube_id": "B-BrYhxEh9I",
-    "source_video_title": "",
+    "source_video_title": "【激辛】中本で北極やさいシャキシャキ食べてきた",
     "visited_date": "2025-01-31",
     "members": [
       "大谷映美里"
@@ -13884,7 +14059,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1322/A132203/13004380/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/B-BrYhxEh9I/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/B-BrYhxEh9I/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "notme-ff35be8a-202501",
@@ -13896,7 +14072,7 @@
     "lat": 35.714955,
     "lng": 139.7957367,
     "youtube_id": "LdUACXvOHqE",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】浅草で、ひと巫女さんになりました🦊",
     "visited_date": "2025-01-12",
     "members": [
       "鈴木瞳美"
@@ -13910,7 +14086,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130502/13268468/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-4ab42c47-202501",
@@ -13922,7 +14099,7 @@
     "lat": 35.7119497,
     "lng": 139.7948545,
     "youtube_id": "LdUACXvOHqE",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】浅草で、ひと巫女さんになりました🦊",
     "visited_date": "2025-01-12",
     "members": [
       "鈴木瞳美"
@@ -13936,7 +14113,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13258203/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg",
+    "source_video_channel": "わたしはすずき。"
   },
   {
     "id": "notme-720f6f5f-202412",
@@ -13948,7 +14126,7 @@
     "lat": 35.7014604,
     "lng": 139.740964,
     "youtube_id": "5pW7TxTE93g",
-    "source_video_title": "",
+    "source_video_title": "【ノイミー忘年会】2024年を振り返りながら楽しくご飯を食べました🥩❣️",
     "visited_date": "2024-12-21",
     "members": [
       "鈴木瞳美",
@@ -13966,7 +14144,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13019275/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000045327/",
     "thumbnail_url": "https://img.youtube.com/vi/5pW7TxTE93g/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/88/P041698088/P041698088_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/88/P041698088/P041698088_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-a9d4d24e-202412",
@@ -13978,7 +14157,7 @@
     "lat": 35.7078454,
     "lng": 139.6482776,
     "youtube_id": "BPvNgGIKoeU",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】高円寺で飲むお酒がとにかく最高すぎました",
     "visited_date": "2024-12-15",
     "members": [
       "諸橋沙夏"
@@ -13992,7 +14171,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13282053/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-bd15bb1d-202412",
@@ -14004,7 +14184,7 @@
     "lat": 35.7014789,
     "lng": 139.6462284,
     "youtube_id": "BPvNgGIKoeU",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】高円寺で飲むお酒がとにかく最高すぎました",
     "visited_date": "2024-12-15",
     "members": [
       "諸橋沙夏"
@@ -14019,7 +14199,8 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13291085/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003516082/",
     "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/22/P049030622/P049030622_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/22/P049030622/P049030622_238.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-17396234-202412",
@@ -14031,7 +14212,7 @@
     "lat": 35.70417,
     "lng": 139.6527502,
     "youtube_id": "BPvNgGIKoeU",
-    "source_video_title": "",
+    "source_video_title": "【はしご酒】高円寺で飲むお酒がとにかく最高すぎました",
     "visited_date": "2024-12-15",
     "members": [
       "諸橋沙夏"
@@ -14045,7 +14226,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13171225/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-litty-20241211",
@@ -14057,7 +14239,7 @@
     "lat": 35.6682031,
     "lng": 139.7098397,
     "youtube_id": "Rr19JP-FZek",
-    "source_video_title": "",
+    "source_video_title": "【美容室Vlog】音嶋莉沙がこだわりの触覚をついにカット✂︎❣️ドキドキのイメチェン体験！",
     "visited_date": "2024-12-11",
     "members": [
       "音嶋莉沙"
@@ -14071,7 +14253,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131502/13046492/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Rr19JP-FZek/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Rr19JP-FZek/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-9546a908-202408",
@@ -14083,7 +14266,7 @@
     "lat": 36.5781,
     "lng": 136.6538,
     "youtube_id": "6loT5JM_yQo",
-    "source_video_title": "",
+    "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2024-08-15",
     "members": [
       "大谷映美里"
@@ -14097,7 +14280,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000911/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg",
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "neajoy-cf70ada8-202408",
@@ -14109,7 +14293,7 @@
     "lat": 34.9511,
     "lng": 137.1706,
     "youtube_id": "rEJ08q9MkuE",
-    "source_video_title": "",
+    "source_video_title": "【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！",
     "visited_date": "2024-08-14",
     "members": [
       "江角怜音",
@@ -14126,7 +14310,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23059923/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-la_maison_du_r-20240814",
@@ -14138,7 +14323,7 @@
     "lat": 34.9511,
     "lng": 137.1706,
     "youtube_id": "rEJ08q9MkuE",
-    "source_video_title": "",
+    "source_video_title": "【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！",
     "visited_date": "2024-08-14",
     "members": [
       "江角怜音",
@@ -14155,7 +14340,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23088223/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-0ccad40f-202408",
@@ -14167,7 +14353,7 @@
     "lat": 35.2329,
     "lng": 139.1062,
     "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
     "visited_date": "2024-08-14",
     "members": [
       "天野香乃愛",
@@ -14185,7 +14371,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-5d7a9b9d-202408",
@@ -14197,7 +14384,7 @@
     "lat": 35.2329,
     "lng": 139.1062,
     "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
     "visited_date": "2024-08-14",
     "members": [
       "天野香乃愛",
@@ -14215,7 +14402,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14009412/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-67083c58-202408",
@@ -14227,7 +14415,7 @@
     "lat": 35.2329,
     "lng": 139.1062,
     "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
     "visited_date": "2024-08-14",
     "members": [
       "天野香乃愛",
@@ -14246,7 +14434,8 @@
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14080998/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "closed": true
+    "closed": true,
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-f961d046-202408",
@@ -14258,7 +14447,7 @@
     "lat": 35.6274,
     "lng": 139.4528,
     "youtube_id": "kexMR_Jzw1k",
-    "source_video_title": "",
+    "source_video_title": "超巨大！クレーンゲーム専門店で景品いくつ取れるか対決してみた！【ニアジョイ】",
     "visited_date": "2024-08-14",
     "members": [
       "天野香乃愛",
@@ -14274,7 +14463,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/kexMR_Jzw1k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/kexMR_Jzw1k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-seafood_grill_yakiya-202408",
@@ -14286,7 +14476,7 @@
     "lat": 35.377,
     "lng": 139.626,
     "youtube_id": "1Cs9GQ0hRm4",
-    "source_video_title": "",
+    "source_video_title": "【シーパラ】みんなで水族館行ってきた！夜にはBBQも🍖",
     "visited_date": "2024-08-14",
     "members": [
       "逢田珠里依",
@@ -14305,7 +14495,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/1Cs9GQ0hRm4/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/1Cs9GQ0hRm4/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-6e007468-202408",
@@ -14317,7 +14508,7 @@
     "lat": 35.4438,
     "lng": 139.6508,
     "youtube_id": "Dp0KTso3Suw",
-    "source_video_title": "",
+    "source_video_title": "【日常】中華街のカフェでひたすらお喋り♡占いにも行ったよー🔮！！【きあまい】【中華街旅#2】",
     "visited_date": "2024-08-12",
     "members": [
       "齋藤樹愛羅",
@@ -14332,7 +14523,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14052920/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-a2c7e427-202408",
@@ -14344,7 +14536,7 @@
     "lat": 35.4438,
     "lng": 139.6508,
     "youtube_id": "UT4dNcRffPY",
-    "source_video_title": "",
+    "source_video_title": "【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡いっぱい食べた☺︎【イコラブ】【中華街旅#1】",
     "visited_date": "2024-08-12",
     "members": [
       "齋藤樹愛羅",
@@ -14359,7 +14551,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14000495/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-875bdcd7-202408",
@@ -14371,7 +14564,7 @@
     "lat": 35.4438,
     "lng": 139.6508,
     "youtube_id": "UT4dNcRffPY",
-    "source_video_title": "",
+    "source_video_title": "【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡いっぱい食べた☺︎【イコラブ】【中華街旅#1】",
     "visited_date": "2024-08-12",
     "members": [
       "齋藤樹愛羅",
@@ -14386,7 +14579,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14091449/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-3cc7d56c-202408",
@@ -14398,7 +14592,7 @@
     "lat": 35.4429058,
     "lng": 139.6514509,
     "youtube_id": "UT4dNcRffPY",
-    "source_video_title": "",
+    "source_video_title": "【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡いっぱい食べた☺︎【イコラブ】【中華街旅#1】",
     "visited_date": "2024-08-12",
     "members": [
       "齋藤樹愛羅",
@@ -14413,7 +14607,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14043662/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-9f107f1a-202408",
@@ -14425,7 +14620,7 @@
     "lat": 34.2988011,
     "lng": 132.3212291,
     "youtube_id": "9bPMIjNEq8k",
-    "source_video_title": "",
+    "source_video_title": "【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】",
     "visited_date": "2024-08-12",
     "members": [
       "櫻井もも",
@@ -14441,7 +14636,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34001086/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-46637985-202408",
@@ -14453,7 +14649,7 @@
     "lat": 34.2988011,
     "lng": 132.3212291,
     "youtube_id": "9bPMIjNEq8k",
-    "source_video_title": "",
+    "source_video_title": "【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】",
     "visited_date": "2024-08-12",
     "members": [
       "櫻井もも",
@@ -14469,7 +14665,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34001087/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-pacific_drivein-20240809",
@@ -14481,7 +14678,7 @@
     "lat": 35.3072853,
     "lng": 139.5128395,
     "youtube_id": "dX1BJYop8aQ",
-    "source_video_title": "",
+    "source_video_title": "【自由】しょこりさ鎌倉旅！🚃♡海沿いのカフェでひたすらおしゃべりしたよ【#しょこりさの日常】【鎌倉旅#2】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14495,7 +14692,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14057844/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/dX1BJYop8aQ/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/dX1BJYop8aQ/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-d556ceee-202408",
@@ -14507,7 +14705,7 @@
     "lat": 35.3215127,
     "lng": 139.5531174,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14522,7 +14720,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14028007/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-87c3ff9e-202408",
@@ -14534,7 +14733,7 @@
     "lat": 35.3215127,
     "lng": 139.5531174,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14549,7 +14748,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-cb7485f1-202408",
@@ -14561,7 +14761,7 @@
     "lat": 35.3234843,
     "lng": 139.5537226,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14576,7 +14776,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14062183/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-22eda348-202408",
@@ -14588,7 +14789,7 @@
     "lat": 35.3234843,
     "lng": 139.5537226,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14603,7 +14804,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14049147/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-1c33a8b5-202408",
@@ -14615,7 +14817,7 @@
     "lat": 35.3234843,
     "lng": 139.5537226,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14630,7 +14832,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14077913/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-1de9b314-202408",
@@ -14642,7 +14845,7 @@
     "lat": 35.3234843,
     "lng": 139.5537226,
     "youtube_id": "Evw3lyphfcM",
-    "source_video_title": "",
+    "source_video_title": "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】",
     "visited_date": "2024-08-09",
     "members": [
       "音嶋莉沙",
@@ -14657,7 +14860,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14057490/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-2d3e71a8-202408",
@@ -14669,7 +14873,7 @@
     "lat": 35.730495,
     "lng": 140.090714,
     "youtube_id": "MsDUT0xeXeo",
-    "source_video_title": "",
+    "source_video_title": "【ご褒美♡】千葉でいちご狩りに！100個食べれるか挑戦！？",
     "visited_date": "2024-08-08",
     "members": [
       "落合希来里",
@@ -14685,7 +14889,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/MsDUT0xeXeo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/MsDUT0xeXeo/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-steak_house__bbq_bal-20240807",
@@ -14697,7 +14902,7 @@
     "lat": 35.6804288,
     "lng": 139.7064427,
     "youtube_id": "Ev-wsPc9Q68",
-    "source_video_title": "",
+    "source_video_title": "【BBQ】さなつん舞台お疲れ様パーティー！🍻お肉食べてお酒も飲んでワイワイしてきた❣️",
     "visited_date": "2024-08-07",
     "members": [
       "大谷映美里",
@@ -14712,7 +14917,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130403/13222832/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/Ev-wsPc9Q68/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/Ev-wsPc9Q68/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-pippon-202408",
@@ -14724,7 +14930,7 @@
     "lat": 35.6051526,
     "lng": 139.7111875,
     "youtube_id": "-AmzofyMvTk",
-    "source_video_title": "",
+    "source_video_title": "【1万円】高級自販機で大当たりのキャビアを狙う！【ニアジョイ】",
     "visited_date": "2024-08-07",
     "members": [
       "大信田美月",
@@ -14741,7 +14947,8 @@
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/-AmzofyMvTk/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/-AmzofyMvTk/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-sanrio_cafe-202408",
@@ -14753,7 +14960,7 @@
     "lat": 35.7311554,
     "lng": 139.7149383,
     "youtube_id": "gQ8M3JURXOY",
-    "source_video_title": "",
+    "source_video_title": "【爆食】サンリオカフェで1万円分食べ放題してきました♡",
     "visited_date": "2024-08-06",
     "members": [
       "谷崎早耶",
@@ -14768,7 +14975,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13247285/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-f0a8c1b8-202408",
@@ -14780,7 +14988,7 @@
     "lat": 35.1025312,
     "lng": 139.0802967,
     "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "",
+    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
     "visited_date": "2024-08-05",
     "members": [
       "蟹沢萌子",
@@ -14797,7 +15005,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22039517/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-4c1956bb-202408",
@@ -14809,7 +15018,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "",
+    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
     "visited_date": "2024-08-05",
     "members": [
       "蟹沢萌子",
@@ -14826,7 +15035,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22016593/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-55b10f69-202408",
@@ -14838,7 +15048,7 @@
     "lat": 35.1033354,
     "lng": 139.0782748,
     "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "",
+    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
     "visited_date": "2024-08-05",
     "members": [
       "蟹沢萌子",
@@ -14855,7 +15065,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22024762/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-b0d04596-202408",
@@ -14867,7 +15078,7 @@
     "lat": 35.0037,
     "lng": 135.7775,
     "youtube_id": "YgOd8ZpFaUU",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで旅行に行ってきました！！！【大阪&京都旅】",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -14879,7 +15090,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26037570/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-c6d6b2f9-202408",
@@ -14891,7 +15103,7 @@
     "lat": 35.0038,
     "lng": 135.7657,
     "youtube_id": "YgOd8ZpFaUU",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで旅行に行ってきました！！！【大阪&京都旅】",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -14903,7 +15115,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26030031/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-a5ac4a24-202408",
@@ -14915,7 +15128,7 @@
     "lat": 35.0038,
     "lng": 135.7657,
     "youtube_id": "YgOd8ZpFaUU",
-    "source_video_title": "",
+    "source_video_title": "メンバーだけで旅行に行ってきました！！！【大阪&京都旅】",
     "visited_date": "2024-08-04",
     "members": [],
     "groups": [
@@ -14928,7 +15141,8 @@
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26031224/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
-    "closed": true
+    "closed": true,
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-78097fab-202408",
@@ -14940,7 +15154,7 @@
     "lat": 35.0168,
     "lng": 135.6727,
     "youtube_id": "ltMYDQsJ5YQ",
-    "source_video_title": "",
+    "source_video_title": "【センス対決】≠MEメンバーが好きなお土産って何？イケてるお土産で喜ばせよう！【京都旅#3】",
     "visited_date": "2024-08-04",
     "members": [
       "尾木波菜",
@@ -14956,7 +15170,8 @@
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26016174/",
     "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ltMYDQsJ5YQ/hqdefault.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/ltMYDQsJ5YQ/hqdefault.jpg",
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "snowman-mipig-cafe-meguro",
@@ -59973,7 +60188,7 @@
     "lat": 36.3907402,
     "lng": 139.8148805,
     "youtube_id": "w568Qw-pOE0",
-    "source_video_title": "",
+    "source_video_title": "【とちブラ 2026 #3】とちぎでお花見（＝LOVE 齋藤樹愛羅）",
     "source_url": "",
     "visited_date": "2026-04-27",
     "members": [
@@ -59991,7 +60206,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "15Tube〜栃木県公式〜"
   },
   {
     "id": "equal_love-1_deli_dish-20260320",
@@ -60003,7 +60219,7 @@
     "lat": 35.7079826,
     "lng": 139.7497188,
     "youtube_id": "vj9XVEydBW4",
-    "source_video_title": "",
+    "source_video_title": "【爆食】2人でたくさん食べてたくさんはしゃぎました❣️inラクーア🎡",
     "source_url": "",
     "visited_date": "2026-03-20",
     "members": [
@@ -60023,7 +60239,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-464c094d-20260320",
@@ -60035,7 +60252,7 @@
     "lat": 35.7045413,
     "lng": 139.7508319,
     "youtube_id": "vj9XVEydBW4",
-    "source_video_title": "",
+    "source_video_title": "【爆食】2人でたくさん食べてたくさんはしゃぎました❣️inラクーア🎡",
     "source_url": "",
     "visited_date": "2026-03-20",
     "members": [
@@ -60054,7 +60271,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-mid_century_house_yo-20251215",
@@ -60066,7 +60284,7 @@
     "lat": 26.3128482,
     "lng": 127.8089815,
     "youtube_id": "ksQHvvr2eYY",
-    "source_video_title": "",
+    "source_video_title": "【祝表紙】逢田珠里依の週プレ表紙撮影に密着！📹サプライズ発表の瞬間も！【沖縄】",
     "source_url": "",
     "visited_date": "2025-12-15",
     "members": [
@@ -60085,7 +60303,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-fineday-20251212",
@@ -60097,7 +60316,7 @@
     "lat": 35.6586692,
     "lng": 139.7543228,
     "youtube_id": "2syYhM8sGHg",
-    "source_video_title": "",
+    "source_video_title": "【ノイミー】シェフおぎはなの手料理パーティ🧑‍🍳🎶平和にたくさん食べます！！！",
     "source_url": "",
     "visited_date": "2025-12-12",
     "members": [
@@ -60116,7 +60335,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-81870948-20250915",
@@ -60128,7 +60348,7 @@
     "lat": 34.381395,
     "lng": 132.461438,
     "youtube_id": "0Strh5AKapM",
-    "source_video_title": "",
+    "source_video_title": "【ツアー翌日に】るんるん広島旅じゃけん！",
     "source_url": "",
     "visited_date": "2025-09-15",
     "members": [
@@ -60147,7 +60367,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-expasa-20250905",
@@ -60159,7 +60380,7 @@
     "lat": 35.4324003,
     "lng": 139.4025389,
     "youtube_id": "o9YsRLOqsCI",
-    "source_video_title": "",
+    "source_video_title": "熱海1泊2日旅行の完全版 【ナイトルーティンも紹介するよ】",
     "source_url": "",
     "visited_date": "2025-09-05",
     "members": [
@@ -60177,7 +60398,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-416da8b0-20250829",
@@ -60189,7 +60411,7 @@
     "lat": 35.6635006,
     "lng": 139.7001582,
     "youtube_id": "48Xa8MX5fFo",
-    "source_video_title": "",
+    "source_video_title": "イコラブでNGワードゲームやったら笑いすぎて泣きました【山本杏奈、壊れる】",
     "source_url": "",
     "visited_date": "2025-08-29",
     "members": [
@@ -60210,7 +60432,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-0c9fa5e4-20250801",
@@ -60222,7 +60445,7 @@
     "lat": 35.6614009,
     "lng": 139.7407776,
     "youtube_id": "OpcGTqxhxcg",
-    "source_video_title": "",
+    "source_video_title": "アフヌンの後のお散歩は最高⭐",
     "source_url": "",
     "visited_date": "2025-08-01",
     "members": [
@@ -60240,7 +60463,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-1036dcff-20250628",
@@ -60252,7 +60476,7 @@
     "lat": 35.673999,
     "lng": 140.611738,
     "youtube_id": "cYFtNVKcXKc",
-    "source_video_title": "",
+    "source_video_title": "【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします👗【メイキング】",
     "source_url": "",
     "visited_date": "2025-06-28",
     "members": [],
@@ -60269,7 +60493,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-the_smash_scramble-20250613",
@@ -60281,7 +60506,7 @@
     "lat": 35.6620752,
     "lng": 139.6974957,
     "youtube_id": "9g0At0uaJmc",
-    "source_video_title": "",
+    "source_video_title": "【わくわく】イコラブボートレース部から重大なお知らせです！",
     "source_url": "",
     "visited_date": "2025-06-13",
     "members": [
@@ -60299,7 +60524,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-1567b0c3-20250607",
@@ -60311,7 +60537,7 @@
     "lat": 35.4632822,
     "lng": 139.6225744,
     "youtube_id": "xUoPnF8uUXY",
-    "source_video_title": "",
+    "source_video_title": "イコラブハンバーガー部からとっても嬉しいお知らせあります🍔",
     "source_url": "",
     "visited_date": "2025-06-07",
     "members": [
@@ -60330,7 +60556,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-c2e2b8fe-20250530",
@@ -60342,7 +60569,7 @@
     "lat": 36.3428502,
     "lng": 138.6341737,
     "youtube_id": "_TClQ4Pf4sg",
-    "source_video_title": "",
+    "source_video_title": "ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】",
     "source_url": "",
     "visited_date": "2025-05-30",
     "members": [
@@ -60360,7 +60587,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-hamacho_hotel-20250315",
@@ -60372,7 +60600,7 @@
     "lat": 35.685222,
     "lng": 139.789481,
     "youtube_id": "hHDk2mEa4Sc",
-    "source_video_title": "",
+    "source_video_title": "誕生日を超盛大にお祝いされてみた",
     "source_url": "",
     "visited_date": "2025-03-15",
     "members": [
@@ -60390,7 +60618,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-pa-20241129",
@@ -60402,7 +60631,7 @@
     "lat": 35.463559,
     "lng": 139.875553,
     "youtube_id": "JxiV1tdmbgQ",
-    "source_video_title": "",
+    "source_video_title": "【Vlog】木更津アウトレットとコストコと海ほたるに行ってきたよ👜♡【購入品紹介】",
     "source_url": "",
     "visited_date": "2024-11-29",
     "members": [
@@ -60420,7 +60649,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-fddf14d2-20240815",
@@ -60432,7 +60662,7 @@
     "lat": 35.6700214,
     "lng": 139.4652109,
     "youtube_id": "aD0Q4-d-Ntg",
-    "source_video_title": "",
+    "source_video_title": "【完全プライベート】あんまいでいちごを狩る",
     "source_url": "",
     "visited_date": "2024-08-15",
     "members": [
@@ -60451,7 +60681,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブのあんまい"
   },
   {
     "id": "equal_love-97d597db-20240815",
@@ -60463,7 +60694,7 @@
     "lat": 35.6895408,
     "lng": 139.7130248,
     "youtube_id": "yfI59irVOsk",
-    "source_video_title": "",
+    "source_video_title": "【vlog】母とお出かけしてきました📸🍃",
     "source_url": "",
     "visited_date": "2024-08-15",
     "members": [
@@ -60481,7 +60712,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-playful_fishing-20240815",
@@ -60493,7 +60725,7 @@
     "lat": 35.5538173,
     "lng": 139.7495806,
     "youtube_id": "dBQtXEDWXqw",
-    "source_video_title": "",
+    "source_video_title": "みんなで釣りに行ってきたよ🎣【イコラブ】",
     "source_url": "",
     "visited_date": "2024-08-15",
     "members": [
@@ -60515,7 +60747,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "みりにゃと申します。"
   },
   {
     "id": "equal_love-af1f639d-20240814",
@@ -60527,7 +60760,7 @@
     "lat": 37.0570275,
     "lng": 140.8954061,
     "youtube_id": "YEfEA3jOgwE",
-    "source_video_title": "",
+    "source_video_title": "【念願】地元ではしご酒、最高に楽しみすぎてしまいました🍶",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60545,7 +60778,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-hokulani_elua-20240814",
@@ -60557,7 +60791,7 @@
     "lat": 35.3137761,
     "lng": 140.4081031,
     "youtube_id": "6pTomzNnQwI",
-    "source_video_title": "",
+    "source_video_title": "【コストコ🍖】ノイミー同い年組が別荘でBBQ！名言連発で面白すぎました😂",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60578,7 +60812,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-a425d725-20240814",
@@ -60590,7 +60825,7 @@
     "lat": 35.3077919,
     "lng": 138.9650827,
     "youtube_id": "jtuw4evVaaM",
-    "source_video_title": "",
+    "source_video_title": "【プチ旅行】御殿場プレミアムアウトレットでお買い物🛍️🎶お互いにプレゼントも買いました🤍",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60610,7 +60845,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-218969f7-20240814",
@@ -60622,7 +60858,7 @@
     "lat": 35.029313,
     "lng": 137.1951686,
     "youtube_id": "rEJ08q9MkuE",
-    "source_video_title": "",
+    "source_video_title": "【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60643,7 +60879,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-73f05293-20240814",
@@ -60655,7 +60892,7 @@
     "lat": 34.9715985,
     "lng": 137.1672189,
     "youtube_id": "P9Wh9kcLuTY",
-    "source_video_title": "",
+    "source_video_title": "【神回】てつや社長サプライズ登場！ほてる小栁津ルームツアーで凄いことが起こりました！！【ほておや】",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60676,7 +60913,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-975be88d-20240814",
@@ -60688,7 +60926,7 @@
     "lat": 35.212222,
     "lng": 139.663172,
     "youtube_id": "SJMTbQjrbMY",
-    "source_video_title": "",
+    "source_video_title": "【ゆる企画🍠】一番でっかいサツマイモを掘り当てよう選手権！！【秋本番】",
     "source_url": "",
     "visited_date": "2024-08-14",
     "members": [
@@ -60710,7 +60948,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-47fde15e-20240813",
@@ -60722,7 +60961,7 @@
     "lat": 35.74746,
     "lng": 140.136456,
     "youtube_id": "TzQ1DATNl8k",
-    "source_video_title": "",
+    "source_video_title": "【夏休み🌞♡】同級生3人で流しそうめん&BBQ🍖笑いの神が舞い降りた😂",
     "source_url": "",
     "visited_date": "2024-08-13",
     "members": [
@@ -60743,7 +60982,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "neajoy-12381372-20240804",
@@ -60755,7 +60995,7 @@
     "lat": 35.710776,
     "lng": 139.813826,
     "youtube_id": "LSUtYiOct4c",
-    "source_video_title": "",
+    "source_video_title": "【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】",
     "source_url": "",
     "visited_date": "2024-08-04",
     "members": [
@@ -60776,7 +61016,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "equal_love-210c4d15-20240804",
@@ -60788,7 +61029,7 @@
     "lat": 42.8797171,
     "lng": 141.6090537,
     "youtube_id": "MACQAREqCJQ",
-    "source_video_title": "",
+    "source_video_title": "【女子旅】イコラブが北海道を遊び尽くす！【北海道旅#2】",
     "source_url": "",
     "visited_date": "2024-08-04",
     "members": [
@@ -60807,7 +61048,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-d306f55d-20240804",
@@ -60819,7 +61061,7 @@
     "lat": 35.028498647823575,
     "lng": 135.66237553066804,
     "youtube_id": "Dz787fY6GjQ",
-    "source_video_title": "",
+    "source_video_title": "【京都】人力車に乗りながらガールズトーク！【京都旅#2】",
     "source_url": "",
     "visited_date": "2024-08-04",
     "members": [
@@ -60839,7 +61081,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-4a84ef00-20240804",
@@ -60851,7 +61094,7 @@
     "lat": 34.6685063,
     "lng": 135.5032623,
     "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "",
+    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
     "source_url": "",
     "visited_date": "2024-08-04",
     "members": [],
@@ -60867,7 +61110,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "notme-6985eb5c-20240804",
@@ -60879,7 +61123,7 @@
     "lat": 34.6685063,
     "lng": 135.5032623,
     "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "",
+    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
     "source_url": "",
     "visited_date": "2024-08-04",
     "members": [],
@@ -60895,7 +61139,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "smap-jinnan_cafe-",

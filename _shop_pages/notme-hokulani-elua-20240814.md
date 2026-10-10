@@ -10,6 +10,7 @@ city: "いすみ市"
 address: "千葉県いすみ市岬町和泉３３４－３"
 visited_date: "2024-08-14"
 youtube_id: "6pTomzNnQwI"
+source_video_title: "【コストコ🍖】ノイミー同い年組が別荘でBBQ！名言連発で面白すぎました😂"
 group: "notme"
 lat: 35.3137761
 lng: 140.4081031

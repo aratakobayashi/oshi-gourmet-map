@@ -11,6 +11,7 @@ address: "東京都渋谷区神宮前１丁目６−１５ ジュネスビル 1F
 nearest_station: "明治神宮前〈原宿〉駅 徒歩5分"
 visited_date: "2024-08-04"
 youtube_id: "JCPvDX7y3-k"
+source_video_title: "【原宿お散歩ロケ】休日の竹下通りで食べまくる！原宿ロケ#3"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
 lat: 35.671513

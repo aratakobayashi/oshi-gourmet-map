@@ -11,6 +11,7 @@ address: "東京都中央区日本橋室町２丁目１−１"
 nearest_station: "三越前駅 徒歩1分"
 visited_date: "2025-03-15"
 youtube_id: "hHDk2mEa4Sc"
+source_video_title: "誕生日を超盛大にお祝いされてみた"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/hHDk2mEa4Sc/hqdefault.jpg"
 lat: 35.686841

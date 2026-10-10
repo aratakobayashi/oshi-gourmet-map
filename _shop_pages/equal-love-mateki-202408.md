@@ -11,6 +11,7 @@ address: "沖縄県那覇市久茂地２丁目３−１０ RBC・QABメディア
 nearest_station: "美栄橋駅 徒歩5分"
 visited_date: "2024-08-15"
 youtube_id: "GZg8nO3EZ4E"
+source_video_title: "【vlog】お仕事で沖縄に行かせていただきました🌴🌺🌈"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47016925/"
 thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"

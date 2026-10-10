@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市小町２丁目７−２８"
 nearest_station: "鎌倉駅 徒歩6分"
 visited_date: "2024-08-09"
 youtube_id: "Evw3lyphfcM"
+source_video_title: "【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜☺︎【#しょこりさの日常】【鎌倉旅#1】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
 lat: 35.3215127

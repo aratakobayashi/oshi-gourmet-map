@@ -11,6 +11,7 @@ address: "長野県北佐久郡軽井沢町軽井沢１１７８−１６１ 軽
 nearest_station: "軽井沢駅 徒歩1分"
 visited_date: "2025-05-30"
 youtube_id: "_TClQ4Pf4sg"
+source_video_title: "ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/nagano/A2003/A200301/20017854/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001275602/"

@@ -11,6 +11,7 @@ address: "神奈川県横浜市港北区新横浜2-14-21 新横浜ラーメン�
 nearest_station: "新横浜駅 徒歩5分"
 visited_date: "2026-03-04"
 youtube_id: "Lw2KlLWox6g"
+source_video_title: "#507【博物館!!】山田史上最高が出た日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
 thumbnail_url: "https://img.youtube.com/vi/Lw2KlLWox6g/hqdefault.jpg"

@@ -11,6 +11,7 @@ address: "静岡県熱海市田原本町３−１０"
 nearest_station: "熱海駅 徒歩1分"
 visited_date: "2025-08-20"
 youtube_id: "7N3fbKMpQaU"
+source_video_title: "旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
 lat: 35.1033354

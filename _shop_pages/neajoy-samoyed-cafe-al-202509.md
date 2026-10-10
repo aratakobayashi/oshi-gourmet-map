@@ -11,6 +11,7 @@ address: "神奈川県横浜市中区山下町１４７ ヒナガタビル 2階"
 nearest_station: "元町・中華街駅 徒歩3分"
 visited_date: "2025-09-03"
 youtube_id: "vQjP4UKBzqY"
+source_video_title: "【Vlog】ももじゅり2人で中華街で遊んできました🐼🎶普段の2人の様子を大公開🤍"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg"
 lat: 35.4438

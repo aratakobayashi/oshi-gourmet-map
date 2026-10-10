@@ -10,6 +10,7 @@ city: "港区"
 address: "東京都港区麻布台１丁目"
 visited_date: "2025-08-01"
 youtube_id: "OpcGTqxhxcg"
+source_video_title: "アフヌンの後のお散歩は最高⭐"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13294784/"
 lat: 35.6614009

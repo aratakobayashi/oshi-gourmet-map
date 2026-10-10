@@ -11,6 +11,7 @@ address: "東京都文京区春日１丁目１−１"
 nearest_station: "後楽園駅 徒歩2分"
 visited_date: "2026-03-20"
 youtube_id: "vj9XVEydBW4"
+source_video_title: "【爆食】2人でたくさん食べてたくさんはしゃぎました❣️inラクーア🎡"
 group: "equal_love"
 lat: 35.7079826
 lng: 139.7497188

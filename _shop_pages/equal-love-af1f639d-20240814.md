@@ -11,6 +11,7 @@ address: "福島県いわき市平白銀町２−１０"
 nearest_station: "いわき駅 徒歩5分"
 visited_date: "2024-08-14"
 youtube_id: "YEfEA3jOgwE"
+source_video_title: "【念願】地元ではしご酒、最高に楽しみすぎてしまいました🍶"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/fukushima/A0704/A070401/7010400/"
 lat: 37.0570275

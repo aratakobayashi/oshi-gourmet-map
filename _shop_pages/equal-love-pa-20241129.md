@@ -10,6 +10,7 @@ city: "木更津市"
 address: "千葉県木更津市中島 地先 海ほたる"
 visited_date: "2024-11-29"
 youtube_id: "JxiV1tdmbgQ"
+source_video_title: "【Vlog】木更津アウトレットとコストコと海ほたるに行ってきたよ👜♡【購入品紹介】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/chiba/A1206/A120602/12055331/"
 lat: 35.463559

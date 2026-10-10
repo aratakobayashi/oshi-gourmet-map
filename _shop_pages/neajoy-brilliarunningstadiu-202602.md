@@ -11,6 +11,7 @@ address: "東京都江東区有明１丁目１３−７"
 nearest_station: "有明テニスの森駅 徒歩2分"
 visited_date: "2026-02-26"
 youtube_id: "9HdlqerBf5Q"
+source_video_title: "≒JOY（ニアリーイコールジョイ）/ 4th Single 表題曲『電話番号教えて！』Special Dance Ver."
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/9HdlqerBf5Q/hqdefault.jpg"
 lat: 35.640906

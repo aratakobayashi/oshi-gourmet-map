@@ -11,6 +11,7 @@ address: "北海道札幌市中央区南３条西５丁目１−１ ノルベサ
 nearest_station: "札幌市営地下鉄南北線 すすきの駅 徒歩2分"
 visited_date: "2024-08-15"
 youtube_id: "ohdDJpMuBco"
+source_video_title: "寝起きお寿司デート in北海道【いおみり】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010103/1005414/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000727405/"

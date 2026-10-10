@@ -10,6 +10,7 @@ city: "大田区"
 address: "東京都大田区羽田旭町１１−１"
 visited_date: "2024-08-15"
 youtube_id: "dBQtXEDWXqw"
+source_video_title: "みんなで釣りに行ってきたよ🎣【イコラブ】"
 group: "equal_love"
 lat: 35.5538173
 lng: 139.7495806

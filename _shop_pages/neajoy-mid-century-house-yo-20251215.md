@@ -10,6 +10,7 @@ city: "沖縄市"
 address: "沖縄県沖縄市与儀２丁目１５−２５"
 visited_date: "2025-12-15"
 youtube_id: "ksQHvvr2eYY"
+source_video_title: "【祝表紙】逢田珠里依の週プレ表紙撮影に密着！📹サプライズ発表の瞬間も！【沖縄】"
 group: "neajoy"
 lat: 26.3128482
 lng: 127.8089815

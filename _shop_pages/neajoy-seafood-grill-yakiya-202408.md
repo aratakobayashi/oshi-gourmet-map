@@ -11,6 +11,7 @@ address: "神奈川県横浜市金沢区八景島 ベイマーケットB棟"
 nearest_station: "南部市場駅 徒歩12分"
 visited_date: "2024-08-14"
 youtube_id: "1Cs9GQ0hRm4"
+source_video_title: "【シーパラ】みんなで水族館行ってきた！夜にはBBQも🍖"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/1Cs9GQ0hRm4/hqdefault.jpg"
 lat: 35.377

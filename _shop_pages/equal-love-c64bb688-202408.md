@@ -11,6 +11,7 @@ address: "東京都江東区豊洲２丁目４−９ 三井ショッピングパ
 nearest_station: "豊洲駅 徒歩5分"
 visited_date: "2024-08-15"
 youtube_id: "peEcYliutz0"
+source_video_title: "お休みの日のオフすぎる動画【Vlog】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131307/13173798/"
 thumbnail_url: "https://img.youtube.com/vi/peEcYliutz0/hqdefault.jpg"
