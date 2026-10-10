@@ -2035,7 +2035,6 @@
     ],
     "source_video_title": "#288【朝飯!!】久々に4人で食べた日",
     "thumbnail_url": "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ004004280/",
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13257962/",
     "nearest_station": "神保町駅 徒歩3分",
     "ordered_items": [
@@ -2057,8 +2056,7 @@
       {
         "name": "アジフライセット…ごはん…お味噌汁…小鉢4品付き"
       }
-    ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/05/P046516805/P046516805_238.jpg"
+    ]
   },
   {
     "id": "yonino-nijome-shokudo-toledo",
@@ -2672,7 +2670,6 @@
     "source_video_url": "https://www.youtube.com/watch?v=N6A_5_8fX30",
     "source_video_title": "Snow Man【八王子でジモメシをいただく❗️】新発見!?白ナポリタンって何❓",
     "thumbnail_url": "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001110705/",
     "nearest_station": "「八王子駅」より徒歩7分",
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13178091/",
     "ordered_items": [
@@ -2682,8 +2679,7 @@
       {
         "name": "八王子白ナポリタン（4人でシェア）"
       }
-    ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/51/P042743151/P042743151_238.jpg"
+    ]
   },
   {
     "id": "snowman-abura-gakkai-waseda",
@@ -6600,13 +6596,11 @@
     "group": "nogizaka46",
     "description": "台東区のスイーツショップ。梅澤美波・与田祐希が2023年11月に訪れた。濃厚な抹茶クレープが話題。ビジュアルも良く聖地巡礼に最適。",
     "tags": [],
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001268153/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13239832/",
-    "source_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/21/10/P037732110/P037732110_238.jpg"
+    "source_type": "tv"
   },
   {
     "id": "hinatazaka46-tsukiji-uniko",
@@ -7660,7 +7654,6 @@
     "description": "東京都のカフェ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#354「朝食!!」に登場したカフェ。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000962760/",
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13120999/",
     "ordered_items": [
       {
@@ -7681,8 +7674,7 @@
       {
         "name": "チョコ入りの人気No.1トースト？"
       }
-    ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/47/25/P028184725/P028184725_238.jpg"
+    ]
   },
   {
     "id": "kamenashi-ushigoro_s_ginza-20250816",
@@ -9216,7 +9208,6 @@
     "description": "静岡市のレストラン。なにわ男子が訪れたロケ地。なにわ男子「2024夏の静岡旅~10~」に登場した飲食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000428028/",
     "thumbnail_url": "https://img.youtube.com/vi/bf6HUKQE23c/hqdefault.jpg"
   },
   {
@@ -9267,7 +9258,6 @@
     "description": "浜松市の中華料理店。なにわ男子が訪れたロケ地。なにわ男子「2024夏の静岡旅~02~」に登場した飲食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22036677/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000107182/",
     "thumbnail_url": "https://img.youtube.com/vi/NtqgUCZdgwA/hqdefault.jpg",
     "ordered_items": [
       {
@@ -10211,7 +10201,6 @@
     "description": "中央区の居酒屋。中丸雄一が2024年4月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13014855/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000004777/",
     "tmdb_id": 197195,
     "tmdb_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
@@ -10304,7 +10293,6 @@
     "description": "西海市の和食店。中丸雄一が2024年3月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagasaki/A4201/A420102/42004589/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000577523/",
     "source_video_url": "https://www.youtube.com/watch?v=ASHXCtJu93Y"
   },
   {
@@ -10587,9 +10575,7 @@
     "description": "大阪市中央区のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27092078/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ003388892/",
-    "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/88/82/P040398882/P040398882_238.jpg"
+    "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg"
   },
   {
     "id": "kamaitachi-4a7bd41f-",
@@ -12518,9 +12504,7 @@
     "description": "京都市のグルメスポット。=LOVEが訪れたロケ地。京都市のグルメスポット。=LOVEが訪れたロケ地。=LOVEが訪れたお店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26042189/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ003941061/",
     "thumbnail_url": "https://img.youtube.com/vi/YgOd8ZpFaUU/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/18/31/P046441831/P046441831_238.jpg",
     "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
@@ -22754,12 +22738,10 @@
     "description": "船橋市のレストラン。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1202/A120201/12022832/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000821407/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/42/P016207642/P016207642_238.jpg"
+    "tmdb_type": "tv"
   },
   {
     "id": "heysayjump-dcaf8134-20170201",
@@ -23034,12 +23016,10 @@
     "description": "東京都のレストラン。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13027173/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000119983/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/96/60/P010419660/P010419660_238.jpg"
+    "tmdb_type": "tv"
   },
   {
     "id": "heysayjump-14cb2470-20181110",

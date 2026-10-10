@@ -1,142 +1,123 @@
 ---
 layout: post
-title: "よにのちゃんねるで行く新宿〜神楽坂カフェ聖地巡礼コース【全6店・コーヒー＆ランチ】"
+title: "よにのちゃんねるで行く新宿〜神楽坂カフェ聖地巡礼コース【コーヒー巡りの5か所とピザ】回る順番の図つき"
 date: 2026-05-18
-last_modified_at: 2026-05-18
+last_modified_at: 2026-10-10
 thumbnail_video_id: FsiF7DW603g
-description: "よにのちゃんねるに登場した新宿・神楽坂のカフェ&グルメスポット6店を聖地巡礼コースに。Paul Bassett・ブルーボトル・DOUBLE TALL・神楽坂コーヒースタンドほか、よにのメンバーが選んだ「本当に美味いコーヒー」が全部回れるルートを紹介します。"
+description: "よにのちゃんねる（二宮和也・山田涼介・菊池風磨）が新宿と神楽坂で立ち寄ったコーヒーのお店とピザのお店を、回る順番の図・年表・動画の回とタイトル・注文したものでまとめた聖地巡礼コースです。"
 group: yonino
 article_type: course
 prefecture: 東京都
-tags: [よにのちゃんねる, よにの, 聖地巡礼, 新宿, 神楽坂, カフェ, コーヒー, グルメ, 東京, コース, ブルーボトル, Paul Bassett]
+tags: [よにのちゃんねる, よにの, 聖地巡礼, 新宿, 神楽坂, カフェ, コーヒー, ピザ, コース, ブルーボトル, Paul Bassett, 道枝駿佑]
 summary:
-  - "よにのちゃんねるに登場した新宿〜神楽坂の6店舗がまとめてわかる"
-  - "新宿駅（西口・東口）から神楽坂まで徒歩＋地下鉄でまとめて回れる"
-  - "コーヒー専門店からランチ（ピザ・カレー）まで組み込んだ半日コース"
-  - "よにのメンバーが訪れた「本物のコーヒー」店ばかりを厳選"
+  - "よにのちゃんねるの#399・#422・#431・#434・#457に登場した、新宿と神楽坂のコーヒーとピザのお店"
+  - "新宿は歩いて3か所、大江戸線で牛込神楽坂へ移って2か所。回る順番を図にしました"
+  - "#457は道枝駿佑さんがゲストの【初道枝!!】回、#431と#434は二宮さん・山田さんの【朝食!!】回"
+  - "Paul Bassettではカフェラテとフラットホワイト、神楽坂では神楽坂ブレンドなどを注文"
 shop_ids:
-  - yonino-paul-bassett-shinjuku
-  - yonino-blue-bottle-shinjuku
   - yonino-double-tall-coffee-shinjuku
-  - yonino-400c_pizza_tokyo-202506
-  - yonino-0685dfb8-202506
+  - yonino-blue-bottle-shinjuku
+  - yonino-paul-bassett-shinjuku
   - yonino-donish-coffee-kagurazaka
+  - yonino-0685dfb8-202506
+  - yonino-400c_pizza_tokyo-202506
 faq:
-  - q: "Paul Bassett 新宿はよにのちゃんねるのどの動画に登場しましたか？"
-    a: "2025年5月公開の動画（YouTube ID: FsiF7DW603g）に登場します。Paul Bassettはオーストラリア発のスペシャルティコーヒー専門店で、ラテアートが得意なバリスタとして知られるポール・バセット氏が監修したブランドです。"
-  - q: "ブルーボトルコーヒー新宿店はどこにありますか？"
-    a: "新宿ルミネエスト新宿のB1Fにあります（新宿区新宿3-38-1）。新宿駅東口から徒歩すぐでアクセスが良く、ショッピングと組み合わせやすいのが特徴です。"
-  - q: "神楽坂コーヒースタンドとDonish Coffeeは同じエリアにありますか？"
-    a: "どちらも神楽坂のFaro神楽坂ビル（新宿区袋町5-1）1Fに入っています。よにのちゃんねるでは渡辺翔太・大橋和也らが2025年6月にこのエリアを訪問しており、神楽坂の石畳の路地と組み合わせて散策できます。"
-  - q: "新宿駅から神楽坂までの移動は？"
-    a: "都営大江戸線「牛込神楽坂駅」（新宿駅から1本）、または東京メトロ東西線「神楽坂駅」が便利です。徒歩なら新宿駅から約20分。地下鉄なら5〜7分です。"
-  - q: "このコースはコーヒー好き以外でも楽しめますか？"
-    a: "400℃ Pizza Tokyo 神楽坂店（ランチ）やスパイシーカレー魯珈（オプション）など食事系も組み込めます。カフェ文化に興味があれば十分楽しめますが、コーヒー専門店が多いためコーヒー好きはより深く楽しめます。"
+  - q: "このコースではどんな順番で回りますか？"
+    a: "一例として、新宿1丁目のDOUBLE TALL COFFEE → ルミネエスト新宿のブルーボトルコーヒー → 新宿野村ビルのPaul Bassett 新宿と歩き、都営大江戸線で新宿西口駅から牛込神楽坂駅へ移って、袋町のコーヒースタンド → 若宮町の400℃ Pizza Tokyo 神楽坂店と回ります。"
+  - q: "それぞれ何話に登場しましたか？"
+    a: "ブルーボトルコーヒー 新宿カフェは#399、Paul Bassett 新宿は#422、400℃ Pizza Tokyo 神楽坂店は#431、神楽坂のコーヒースタンドは#434、DOUBLE TALL COFFEE 新宿御苑は#457です。"
+  - q: "道枝駿佑さんが出ている回はどれですか？"
+    a: "#457【初道枝!!】初めてがこのドライブはイカつ過ぎた日です。公式の概要欄には #道枝駿佑 #運転姿初披露 のハッシュタグが付いています。この回にDOUBLE TALL COFFEE 新宿御苑が登場します。"
+  - q: "メンバーは何を注文しましたか？"
+    a: "推しグルメ巡礼MAPのデータでは、Paul Bassett 新宿でカフェラテとフラットホワイト、神楽坂のコーヒースタンドで神楽坂ブレンド（アイス）といちご風味（アイス）、400℃ Pizza Tokyo 神楽坂店でマルゲリータ、ネーヴェ、レモンソーダが登場しています。"
+  - q: "神楽坂の回はだれが出ていますか？"
+    a: "#431と#434の公式の概要欄には #にのやま のハッシュタグがあり、二宮和也さんと山田涼介さんの回です。#434には #神楽坂散歩 のハッシュタグも付いています。"
 ---
 
-<mark>よにのちゃんねる</mark> のカフェ動画を眺めていると、メンバーが東京でコーヒーを飲む場所には一定のこだわりがあることに気づく。大手チェーンも選ぶが、スペシャルティコーヒーや独立系カフェへの目線が光る。新宿駅周辺から神楽坂にかけてよにのメンバーが訪れたカフェ6店を、半日で歩いて回れるコースにまとめた。
+<div class="pf" style="--pc:#e8537a">
 
-{% include inline-shop-grid.html ids="yonino-paul-bassett-shinjuku,yonino-blue-bottle-shinjuku,yonino-double-tall-coffee-shinjuku,yonino-400c_pizza_tokyo-202506,yonino-0685dfb8-202506,yonino-donish-coffee-kagurazaka" %}
+<p><strong>二宮和也・山田涼介・菊池風磨</strong>の「よにのちゃんねる」には、ドライブや朝ごはんの途中でコーヒーを買いに寄る回がたびたびあります。新宿と神楽坂には、そんな回のお店が歩いて回れる距離に集まっています。</p>
 
-## コース全体図
+<p>この記事では、5本の動画に登場した<strong>コーヒーのお店とピザのお店</strong>を、回る順番の図と一緒にまとめました。</p>
 
-| ブロック | エリア | 店舗 | 移動 |
-|----------|--------|------|------|
-| ① 午前 | 新宿西口・駅周辺 | Paul Bassett・ブルーボトル | 新宿駅スタート |
-| ② 昼前 | 新宿御苑・南新宿 | DOUBLE TALL COFFEE | 徒歩10分 |
-| ③ ランチ〜午後 | 神楽坂 | 400℃ Pizza・神楽坂CS・Donish | 地下鉄5分 |
+<h2>ひと目でわかる 新宿〜神楽坂コース</h2>
+<div class="pf-card">
+  <div class="pf-card__head">
+    <small>よにのちゃんねる 巡礼コース</small>
+    <p class="pf-card__name">新宿〜神楽坂 カフェ巡り</p>
+    <p class="pf-card__yomi">2025年2月〜9月の動画から</p>
+    <span class="pf-card__color"><i></i>二宮・山田・菊池</span>
+  </div>
+  <dl class="pf-card__facts">
+    <div><dt>回る場所</dt><dd>新宿3か所・神楽坂2か所</dd></div>
+    <div><dt>動画の回</dt><dd>#399〜#457</dd></div>
+    <div><dt>移動</dt><dd>徒歩＋都営大江戸線</dd></div>
+    <div><dt>テーマ</dt><dd>コーヒーとピザ</dd></div>
+    <div><dt>ゲスト回</dt><dd>#457 道枝駿佑さん</dd></div>
+    <div><dt>神楽坂の回</dt><dd>二宮さん・山田さん</dd></div>
+  </dl>
+</div>
 
-新宿〜神楽坂は直線距離3km、地下鉄なら5分。カフェ巡りに最適な"コンパクト都市旅"ルート。
+<div class="pf-nums">
+  <div><b>5<small>本</small></b><span>この記事のお店が登場する動画</span></div>
+  <div><b>4<small>か所</small></b><span>コーヒーのお店（神楽坂の1か所はデータに2つの店名で登録）</span></div>
+  <div><b>2<small>エリア</small></b><span>新宿と神楽坂。間は大江戸線でひと駅ずつ</span></div>
+  <div><b>{{ site.data.group_ix.yonino.n }}<small>軒</small></b><span>このサイトに登録されている、よにのちゃんねるのお店ぜんぶ</span></div>
+</div>
 
----
+<h2>回る順番</h2>
+<p>新宿は歩いて3か所、大江戸線で牛込神楽坂駅へ移って2か所。下の図は回る順番の一例です。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/route.svg" alt="新宿〜神楽坂 巡る順番：新宿エリアを歩いて、1 DOUBLE TALL COFFEE（新宿1丁目・#457）、2 ブルーボトルコーヒー（ルミネエスト新宿B1F・#399）、3 Paul Bassett 新宿（新宿野村ビルB1F・#422）。都営大江戸線で新宿西口駅から牛込神楽坂駅へ移り、神楽坂エリアで4 神楽坂のコーヒースタンド（袋町5-1 Faro神楽坂1F・#434）、5 400℃ Pizza Tokyo 神楽坂店（若宮町・#431）" width="420" height="692" loading="lazy" decoding="async"><figcaption>回る順番の一例。所要時間は人それぞれなので書いていません</figcaption></figure>
 
-## ① よにのが選んだ新宿エリア
+<h2>よにののカフェ年表</h2>
+<p>動画が公開された順です。2025年の2月から9月まで、コーヒーの回が続きました。</p>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/timeline.svg" alt="よにののカフェ年表：2025年2月 ブルーボトルコーヒー 新宿カフェ（#399）、5月 Paul Bassett 新宿（#422）、6月 400℃ Pizza Tokyo 神楽坂店（#431）、神楽坂コーヒースタンドとDonish Coffee Company 神楽坂（#434）、9月 DOUBLE TALL COFFEE 新宿御苑（#457）" width="420" height="900" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「よにのちゃんねる」より</figcaption></figure>
 
-### Paul Bassett 新宿
-**新宿区西新宿1-26-2 新宿野村ビルB1F**
+<div class="pf-quote"><p>#422の公式の概要欄には「#コーヒー巡り」、#434には「#神楽坂散歩」。ドライブや散歩の途中でコーヒーを買う、肩の力が抜けた回が多いのが、このコースのお店の共通点です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-2025年5月によにのちゃんねるの四人（二宮和也・向井康二・渡辺翔太・大橋和也）が訪れたオーストラリア発のスペシャルティコーヒーブランド。「ワールドバリスタチャンピオン」のポール・バセット氏が監修するラテが名物で、ミルクの泡がきめ細かくてシルキー。西新宿という場所柄、ビジネス客から観光客まで幅広い客層が集まる。モーニング利用もできるためコースのスタートに最適。
+<h2>ジャンルと場所</h2>
+<figure class="fig"><img src="/assets/img/posts/yonino-shinjuku-cafe-course/genre.svg" alt="お店のジャンルと場所：カフェ5件、その他（ピザ）1軒。場所はすべて新宿区" width="420" height="300" loading="lazy" decoding="async"><figcaption>この記事のお店（データの6件）を数えました</figcaption></figure>
 
-### ブルーボトルコーヒー 新宿カフェ
-**新宿区新宿3-38-1 ルミネエスト新宿B1F**
+<h2>新宿エリア：歩いてコーヒー3か所</h2>
+<ul class="pf-works">
+  <li><span class="k">#457</span><div><b>DOUBLE TALL COFFEE 新宿御苑</b><span>【初道枝!!】初めてがこのドライブはイカつ過ぎた日／道枝駿佑さんがゲスト。新宿区新宿1丁目</span></div></li>
+  <li><span class="k">#399</span><div><b>ブルーボトルコーヒー 新宿カフェ</b><span>【山田回!!】山田が山田で山田だった日／ルミネエスト新宿B1F（新宿駅 徒歩2分）</span></div></li>
+  <li><span class="k">#422</span><div><b>Paul Bassett 新宿</b><span>【ドライブ!!】ダラダラと…ありがとうございますの日／カフェラテ、フラットホワイト（新宿西口駅 徒歩3分）</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="yonino-double-tall-coffee-shinjuku,yonino-blue-bottle-shinjuku,yonino-paul-bassett-shinjuku" %}
 
-よにのちゃんねる（2025年2月、動画ID: HVxmVgBcpCY）に登場したサンフランシスコ発のスペシャルティコーヒーチェーンの新宿店。二宮和也が「豆の個性が出る」とコメントした。ルミネエスト地下というショッピングモール内の立地ながら、豆にこだわったシングルオリジンコーヒーが楽しめる。サクッと立ち寄れるのが魅力。
+<h2>神楽坂エリア：朝のコーヒーとピザ</h2>
+<p>#431と#434は、公式の概要欄に「#にのやま」のハッシュタグが付いた二宮さん・山田さんの【朝食!!】回です。#434のコーヒースタンドは、推しグルメ巡礼MAPのデータに「Donish Coffee Company 神楽坂」と「神楽坂コーヒースタンド」の2つの店名で、同じ住所（袋町5-1 Faro神楽坂1F）に登録されています。</p>
+<ul class="pf-works">
+  <li><span class="k">#434</span><div><b>Donish Coffee Company 神楽坂</b><span>【朝食!!】ドライブの日／神楽坂ブレンド（アイス）、いちご風味（アイス）</span></div></li>
+  <li><span class="k">#434</span><div><b>神楽坂コーヒースタンド</b><span>【朝食!!】ドライブの日／同じ住所（袋町5-1 Faro神楽坂1F）</span></div></li>
+  <li><span class="k">#431</span><div><b>400℃ Pizza Tokyo 神楽坂店</b><span>【朝食!!】やまだとざーぴーな日／マルゲリータ、ネーヴェ、レモンソーダ</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="yonino-donish-coffee-kagurazaka,yonino-0685dfb8-202506,yonino-400c_pizza_tokyo-202506" %}
 
-### DOUBLE TALL COFFEE 新宿御苑
-**新宿区新宿1-23-11 御苑メインビル1F**
+<h2>はじめて見るならこの4本</h2>
+<p>よにのちゃんねるの公式動画です（タップすると再生します）。</p>
+<div class="pf-videos">
+  <figure><button type="button" class="yt" data-yt="FsiF7DW603g" aria-label="#422を再生"><img src="https://i.ytimg.com/vi_webp/FsiF7DW603g/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>#422 Paul Bassett 新宿</b>3人でドライブとコーヒー巡り</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="Q0nbL46ckIc" aria-label="#457を再生"><img src="https://i.ytimg.com/vi_webp/Q0nbL46ckIc/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>#457 DOUBLE TALL COFFEE</b>道枝駿佑さんがゲストの回</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="0-BzQux_iIg" aria-label="#434を再生"><img src="https://i.ytimg.com/vi_webp/0-BzQux_iIg/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>#434 神楽坂</b>二宮さん・山田さんの神楽坂散歩</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="AsbV0ZAiFMQ" aria-label="#431を再生"><img src="https://i.ytimg.com/vi_webp/AsbV0ZAiFMQ/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>#431 400℃ Pizza</b>「やまだとざーぴーな日」</figcaption></figure>
+</div>
 
-2025年9月のよにの動画（動画ID: Q0nbL46ckIc）で訪れた新宿御苑そばのコーヒースタンド。「ダブルトール」という名前の通り、濃度高めのエスプレッソが得意な独立系カフェ。新宿御苑の緑を眺めながらテラスでコーヒーを飲む体験はよにのらしい"リアルな東京の休日"感が漂う。
+<h2>エリアで巡るなら</h2>
+<p>最寄り駅は推しグルメ巡礼MAPのデータより。</p>
+<ul>
+  <li><strong>新宿駅のまわり</strong>：ブルーボトルコーヒー 新宿カフェ（新宿駅 徒歩2分）・Paul Bassett 新宿（新宿西口駅 徒歩3分）。</li>
+  <li><strong>新宿1丁目</strong>：DOUBLE TALL COFFEE 新宿御苑。</li>
+  <li><strong>神楽坂</strong>：袋町のコーヒースタンド（牛込神楽坂駅 徒歩5分）・400℃ Pizza Tokyo 神楽坂店（若宮町）。</li>
+</ul>
+<p>中央線で中野まで足をのばせば、#480の一蘭 中野店もあります（<a href="/articles/2026/04/02/yonino-ramen-matome/">よにのちゃんねるのラーメン聖地巡礼</a>）。2025〜2026年のほかの回は<a href="/articles/2026/04/01/yonino-gourmet-matome-2025-2026/">よにのちゃんねるが行ったグルメまとめ【2025〜2026年】</a>をどうぞ。</p>
 
----
+<div class="pf-cta">
+  <p>よにのちゃんねるのお店を、地図でぜんぶ見る</p>
+  <span>新宿と神楽坂のほかにも、チャンネルに登場したお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <a class="btn" href="/shops/?g=yonino&amp;view=map">地図でよにのちゃんねるのお店を見る</a>
+</div>
+<p><a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねるのお店一覧（グループのページ）</a>もどうぞ。</p>
 
-## ② よにのが選んだ神楽坂エリア
-
-### 400℃ Pizza Tokyo 神楽坂店
-**新宿区若宮町13-1 Kif Annex 102**
-
-2025年6月によにのが訪れた（動画ID: AsbV0ZAiFMQ）神楽坂のナポリピッツァ専門店。石窯を400℃の高温で焼く本格スタイルで、焼き上がりは90秒。薄くてもちもちの生地が特徴で、神楽坂ランチの定番スポットとして機能している。カフェコースの途中でのランチに最適。
-
-### 神楽坂コーヒースタンド
-**新宿区袋町5-1 Faro神楽坂1F**
-
-2025年6月のよにの動画（動画ID: 0-BzQux_iIg）で登場した神楽坂の路面型コーヒースタンド。Faro神楽坂ビルの1Fにあり、石畳の神楽坂らしい雰囲気の中でテイクアウトコーヒーを片手に散策できる。よにのメンバーがコーヒーを持って神楽坂の路地を歩くシーンは動画の見どころ。
-
-### Donish Coffee Company 神楽坂
-**新宿区袋町5-1 Faro神楽坂1F**
-
-同じくFaro神楽坂1Fに入るコーヒー専門店。スペシャルティコーヒーを扱う独立系ロースターで、豆の産地や焙煎度の説明をバリスタから直接聞ける。2025年6月のよにの訪問時は同エリアのカフェを梯子した様子が収録されており、神楽坂コーヒースタンドとセットで訪れるのが定番になっている。
-
----
-
-## タイムライン（半日コース：約4〜5時間）
-
-| 時刻 | スポット | 所要時間 | 移動 |
-|------|----------|----------|------|
-| 9:00 | Paul Bassett 新宿（モーニングコーヒー） | 30分 | 新宿駅西口スタート |
-| 9:40 | ブルーボトルコーヒー 新宿（2杯目） | 20分 | 徒歩5分（東口へ） |
-| 10:10 | DOUBLE TALL COFFEE 新宿御苑（散策＋コーヒー） | 40分 | 徒歩10分 |
-| 11:15 | 神楽坂へ移動 | — | 地下鉄5分 |
-| 11:30 | 400℃ Pizza Tokyo（ランチ） | 60分 | 神楽坂駅徒歩5分 |
-| 12:40 | 神楽坂コーヒースタンド（石畳散策） | 30分 | Faro神楽坂ビル |
-| 13:15 | Donish Coffee Company（〆の1杯） | 30分 | 同ビル1F |
-| 14:00 | 神楽坂駅 解散 | — | |
-
----
-
-
----
-
-## よにのの神楽坂オプション
-
-2025年の動画には神楽坂エリアのグルメが他にも登場している。
-
-| 店舗 | ジャンル | 動画月 |
-|------|----------|--------|
-| スパイシーカレー 魯珈 | カレー | 2025年5月 |
-| BLUE SIX COFFEE | コーヒー（明治公園） | 2025年3月 |
-| ヒルトン東京 マーブルラウンジ | ハイティー | 2025年7月 |
-
-時間と予算に余裕があれば組み合わせてみよう。
-
----
-
-## 季節ごとの訪問ポイント
-
-| 季節 | 見どころ | 注意点 |
-|------|----------|--------|
-| 春 | 神楽坂の石畳×桜の散歩道が最高 | 3月末〜4月の週末は混雑 |
-| 夏 | アイスコーヒーが映える。DOUBLE TALL御苑はテラスあり | 酷暑の昼間はカフェ内休憩を |
-| 秋 | 石畳×落ち葉のフォトジェニックなシーズン | 神楽坂は観光客が増える10〜11月 |
-| 冬 | ホットコーヒーが染みる。クリスマスの神楽坂は雰囲気◎ | 年末は閉店時間が変わる店もあり |
-
-**よにのが訪れた5〜6月（初夏）** は気候が過ごしやすく、テラスでのコーヒーが最も楽しい時期。
-
----
-
-## 持ち物チェックリスト
-
-- [ ] Suica / PASMO
-- [ ] カメラ（神楽坂の石畳・Faro神楽坂エリアは映えスポット）
-- [ ] カフェ用メモ / スタンプカード（各店ポイントあり）
-- [ ] エコバッグ（神楽坂で和菓子・お土産購入も）
-- [ ] 時間に余裕のある服装（コーヒーは急がず楽しむのが◎）
+</div>

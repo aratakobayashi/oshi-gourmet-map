@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "孤独のグルメ Season4 全9店 聖地巡礼ガイド【2014年放送】"
+title: "孤独のグルメ Season4 聖地巡礼ガイド【2014年夏放送】日間賀島・箱根・八王子へ、9軒を全12話の図で"
 date: 2026-05-20
-last_modified_at: 2026-05-20
-description: "孤独のグルメ Season4（2014年）に登場した全9店の聖地巡礼ガイド。箱根のいろり家、愛知・日間賀島の乙姫、渋谷の中国料理シャンウェイ、大田区のベトナム料理まで五郎の注文メニュー付きで完全網羅。"
+last_modified_at: 2026-10-10
+description: "孤独のグルメ Season4（2014年7月〜9月・テレビ東京）に登場したお店9軒を、話数・各話タイトル・五郎が注文したものと一緒にまとめました。愛知県日間賀島のたこめし、箱根のステーキ丼、清瀬・八王子の多摩の味まで、全12話の図とエリア別の巡り方つき。"
 group: kodoku_no_gurume
 article_type: season
-tags: [孤独のグルメ, Season4, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 箱根, 愛知, 2014年, ドラマ]
+tags: [孤独のグルメ, Season4, 聖地巡礼, 井之頭五郎, 松重豊, グルメ, 東京, 箱根, 愛知, 日間賀島, 2014年, ドラマ]
 thumbnail: https://image.tmdb.org/t/p/w500/dbrWREgU5gr1XBPoBo71VuJfZO6.jpg
 summary:
-  - "Season4（2014年放送）に登場した9店がエピソード順でまとめて確認できる"
-  - "箱根・愛知日間賀島・八王子など東京圏外への遠征が多いシーズン"
-  - "インド料理・ベトナム料理・韓国料理など異国グルメが充実"
-  - "各店の詳細ページへのリンクつき。五郎が注文した料理も掲載"
+  - "2014年7月〜9月に放送されたSeason4・全12話のうち、9話のお店9軒を話数順に"
+  - "第5話は愛知県の日間賀島でたこめし、第3話は箱根でステーキ丼。島と温泉地へ出かけた夏"
+  - "清瀬市・八王子市の多摩の2軒に、韓国風・インド・中国・ベトナムの料理の回も"
+  - "お店ごとに話数・各話タイトル・五郎が注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - kodoku_no_gurume-523cca86-
   - kodoku_no_gurume-4b835120-
@@ -25,138 +25,101 @@ shop_ids:
   - kodoku_no_gurume-thi_thi-
 faq:
   - q: "孤独のグルメ Season4はいつ放送されましたか？"
-    a: "2014年10月〜12月にテレビ東京系で放送されました。全12話構成（一部話数はデータ未収録）です。"
-  - q: "Season4で東京以外のロケ地はありますか？"
-    a: "2か所あります。第3話が神奈川県箱根町、第5話が愛知県知多郡南知多町（日間賀島）です。日間賀島はタコとフグで有名な離島で、渡船で渡る必要があります。"
-  - q: "愛知・日間賀島へのアクセスは？"
-    a: "名古屋から名鉄で河和駅（約40分）、河和港から高速船で約15分です。東京から日帰りも可能ですが、余裕を持って1泊2日がおすすめです。"
+    a: "TMDBの番組情報では、テレビ東京で2014年7月9日の第1話から9月24日の第12話まで、全12話が放送されました。"
+  - q: "Season4のお店はこの記事に何軒載っていますか？"
+    a: "全12話のうち9話のお店、9軒です。第8話（杉並区阿佐ヶ谷）、第10話（江東区枝川）、第12話（渋谷区恵比寿）のお店は、推しグルメ巡礼MAPにまだ登録していません。"
+  - q: "東京以外のお店はどこですか？"
+    a: "第3話のいろり家（神奈川県足柄下郡箱根町・宮ノ下駅）と、第5話の乙姫（愛知県知多郡南知多町の日間賀島・日間賀島西港）の2軒です。"
+  - q: "五郎は何を注文していましたか？"
+    a: "推しグルメ巡礼MAPのデータでは、第3話のいろり家でステーキ丼、第5話の乙姫で赤車海老・大あさり焼き・しらす天ぷら・たこめし、第11話のTHI THIで海老の生春巻きととりおこわなどを注文しています。"
+  - q: "Season4のお店をまとめて地図で見られますか？"
+    a: "「お店を探す」で孤独のグルメを選ぶと、この記事の9軒を含め、ほかのシーズンやスペシャルのお店も地図で見られます。"
 ---
 
-<mark>孤独のグルメ</mark> Season4は2014年秋放送。清瀬・箱根・八王子・日間賀島と東京圏外への遠征が増え、インド・ベトナム・韓国と異国料理のバリエーションも豊かになった9話分の記録だ。
+<div class="pf" style="--pc:#92400e">
 
-{% include inline-shop-grid.html ids="kodoku_no_gurume-523cca86-,kodoku_no_gurume-4b835120-,kodoku_no_gurume-92ab84a8-,kodoku_no_gurume-b4ec36d5-,kodoku_no_gurume-980f8c82-,kodoku_no_gurume-e30500f5-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-8c90e208-,kodoku_no_gurume-thi_thi-" %}
+<p>2014年の夏に放送された「孤独のグルメ」Season4。第3話は<strong>箱根</strong>、第5話は愛知県の<strong>日間賀島</strong>と、温泉地と島へ出かける回がそろいました。</p>
 
----
+<p>この記事では、全12話のうち9話に登場した<strong>9軒</strong>を、話数と各話タイトル、五郎が注文したものと一緒にまとめました。</p>
 
-## Season4 全話エピソードガイド
+<h2>ひと目でわかる Season4</h2>
+<div class="pf-card">
+  <div class="pf-card__head">
+    <small>孤独のグルメ</small>
+    <p class="pf-card__name">Season4</p>
+    <p class="pf-card__yomi">2014年7月9日〜9月24日放送・全12話</p>
+    <span class="pf-card__color"><i></i>テレビ東京</span>
+  </div>
+  <dl class="pf-card__facts">
+    <div><dt>お店の数</dt><dd>9軒</dd></div>
+    <div><dt>載っている話</dt><dd>12話のうち9話</dd></div>
+    <div><dt>いちばん遠く</dt><dd>愛知県 日間賀島（第5話）</dd></div>
+    <div><dt>東京以外</dt><dd>箱根1軒・愛知1軒</dd></div>
+    <div><dt>多摩の街</dt><dd>清瀬市・八王子市</dd></div>
+    <div><dt>アジアの料理</dt><dd>韓国風・インド・中国・ベトナム</dd></div>
+  </dl>
+</div>
 
-### 第1話｜みゆき食堂（東京都清瀬市）
+<div class="pf-nums">
+  <div><b>9<small>軒</small></b><span>この記事のお店</span></div>
+  <div><b>7<small>軒</small></b><span>東京都内のお店（うち多摩の市に2軒）</span></div>
+  <div><b>4<small>回</small></b><span>アジアの料理の回（第2話・第6話・第9話・第11話）</span></div>
+  <div><b>{{ site.data.group_ix.kodoku_no_gurume.n }}<small>軒</small></b><span>このサイトに登録されている、孤独のグルメのお店ぜんぶ</span></div>
+</div>
 
-Season4の幕開けは清瀬市。**みゆき食堂**で五郎が頼んだのは**もやしと肉のピリ辛イタメ・ジャンボ餃子・やきとり**。郊外の大衆食堂らしいボリューム感と値頃感に、五郎が「こういう店が駅前にあるだけで救われる」と感じる一話。
+<h2>全12話と巡れるお店</h2>
+<p>放送順に並べました。色の薄い話は、まだこのサイトにお店を登録していない回です。</p>
+<figure class="fig"><img src="/assets/img/posts/kodoku-no-gurume-season4-pilgrimage/episodes.svg" alt="Season4全12話と巡れるお店：第1話 みゆき食堂（東京都清瀬市のもやしと肉のピリ辛イタメ）、第2話 なじみ亭（中央区銀座の韓国風天ぷらと参鶏湯ラーメン）、第3話 いろり家（箱根町のステーキ丼）、第4話 大幸園 小宮本店（東京都八王子市小宮町のヒレカルビとロースすき焼き風）、第5話 乙姫（愛知県知多郡日間賀島のしらすの天ぷらとたこめし）、第6話 タンドールバル カマルプール（江東区木場のチーズクルチャとラムミントカレー）、第7話 居酒屋まめぞ（台東区鳥越の明太クリームパスタとかつサンド）、第8話は未登録、第9話 シャンウェイ 本店（渋谷区神宮前の毛沢東スペアリブと黒チャーハン）、第10話は未登録、第11話 THI THI（大田区蒲田の海老の生春巻きととりおこわ）、第12話は未登録" width="420" height="1038" loading="lazy" decoding="async"><figcaption>各話タイトルと放送日はTMDBの番組情報より</figcaption></figure>
 
-> **清瀬市エリア**。西武池袋線「清瀬駅」徒歩圏内。
+<div class="pf-quote"><p>第5話の乙姫の最寄りは「日間賀島西港」。島へは船で渡ります。五郎の注文は赤車海老・大あさり・しらす・たこめしと、海のものばかり。巡礼なら船の時刻を先に確かめておきたい行き先です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-523cca86-" %}
+<h2>ジャンルと場所</h2>
+<figure class="fig"><img src="/assets/img/posts/kodoku-no-gurume-season4-pilgrimage/genre.svg" alt="お店のジャンルと場所：食事5軒、ラーメン・焼肉・和食・居酒屋が1軒ずつ。場所は清瀬市・中央区・八王子市・江東区・台東区・渋谷区・大田区・神奈川県箱根町・愛知県南知多町が1軒ずつ" width="420" height="534" loading="lazy" decoding="async"><figcaption>この記事の9軒を、推しグルメ巡礼MAPのジャンル分けで数えました</figcaption></figure>
 
----
+<h2>島と温泉地へ：日間賀島と箱根</h2>
+<ul class="pf-works">
+  <li><span class="k">第5話</span><div><b>乙姫</b><span>愛知県知多郡日間賀島のしらすの天ぷらとたこめし／赤車海老、大あさり焼き、しらす天ぷら、たこめし</span></div></li>
+  <li><span class="k">第3話</span><div><b>いろり家</b><span>神奈川県足柄下郡箱根町のステーキ丼／ステーキ丼、旬野菜のゴマ和え、ワカサギの南蛮漬け</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-980f8c82-,kodoku_no_gurume-92ab84a8-" %}
 
-### 第2話｜なじみ亭（東京都中央区日本橋）
+<h2>多摩の街へ：清瀬と八王子</h2>
+<ul class="pf-works">
+  <li><span class="k">第1話</span><div><b>みゆき食堂</b><span>東京都清瀬市のもやしと肉のピリ辛イタメ／もやしと肉のピリ辛イタメ、ジャンボ餃子、やきとり</span></div></li>
+  <li><span class="k">第4話</span><div><b>大幸園 小宮本店</b><span>東京都八王子市小宮町のヒレカルビとロースすき焼き風／豚足、ロースすき焼き、ヒレカルビ、味ネギ</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-523cca86-,kodoku_no_gurume-b4ec36d5-" %}
 
-日本橋の韓国料理店**なじみ亭**が第2話の舞台。五郎が頼んだのは**韓国風天ぷら・鱈の餃子・チャプチェ・参鶏湯ラーメン**と多品目にわたる。「韓国料理は天ぷらもあるのか」という発見が五郎の食への興味を広げる一話だ。
+<h2>アジアの料理の回：韓国風・インド・中国・ベトナム</h2>
+<ul class="pf-works">
+  <li><span class="k">第2話</span><div><b>なじみ亭</b><span>中央区銀座の韓国風天ぷらと参鶏湯ラーメン／韓国風天ぷら、鱈の餃子、チャプチェ、参鶏湯ラーメン</span></div></li>
+  <li><span class="k">第6話</span><div><b>タンドールバル カマルプール</b><span>江東区木場のチーズクルチャとラムミントカレー／チーズクルチャ、タンドリーベジ、ラムミントカレー、マンゴーラッシー</span></div></li>
+  <li><span class="k">第9話</span><div><b>シャンウェイ 本店</b><span>渋谷区神宮前の毛沢東スペアリブと黒チャーハン／蒸し鶏、毛沢東スペアリブ、黒チャーハン、麻辣湯</span></div></li>
+  <li><span class="k">第11話</span><div><b>THI THI</b><span>大田区蒲田の海老の生春巻きととりおこわ／海老の生春巻き、とりおこわ、ブンボーフエ、ベトナムコーヒー</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-4b835120-,kodoku_no_gurume-e30500f5-,kodoku_no_gurume-8c90e208-,kodoku_no_gurume-thi_thi-" %}
 
-> **中央区日本橋エリア**。東京メトロ「三越前駅」徒歩圏内。
+<h2>居酒屋のかつサンド</h2>
+<ul class="pf-works">
+  <li><span class="k">第7話</span><div><b>居酒屋まめぞ</b><span>台東区鳥越の明太クリームパスタとかつサンド／生ハム、せんちゃんサラダ、明太クリームパスタ、名物かつサンド</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="kodoku_no_gurume-9353d2c4-" %}
 
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-4b835120-" %}
+<h2>エリアで巡るなら</h2>
+<p>最寄り駅は推しグルメ巡礼MAPのデータより。放送から10年以上たっているので、行く前に各お店の公式情報などで営業を確かめてください。</p>
+<ul>
+  <li><strong>都心と下町</strong>：なじみ亭（新橋駅）・居酒屋まめぞ（新御徒町駅）・タンドールバル カマルプール（木場駅）・シャンウェイ 本店（代々木駅）。</li>
+  <li><strong>蒲田</strong>：THI THI（蒲田駅）。</li>
+  <li><strong>多摩</strong>：みゆき食堂（清瀬駅）と大幸園 小宮本店（小宮駅）。</li>
+  <li><strong>箱根</strong>：いろり家（箱根登山鉄道 宮ノ下駅）。</li>
+  <li><strong>日間賀島</strong>：乙姫（日間賀島西港）。</li>
+</ul>
 
----
+<div class="pf-cta">
+  <p>孤独のグルメのお店を、地図でぜんぶ見る</p>
+  <span>Season4の9軒のほかにも、ほかのシーズンやスペシャルのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <a class="btn" href="/shops/?g=kodoku_no_gurume&amp;view=map" style="color:#fff">地図で孤独のグルメのお店を見る</a>
+</div>
+<p><a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメのお店一覧（グループのページ）</a>もどうぞ。前後のシーズンは<a href="/articles/2026/05/20/kodoku-no-gurume-season3-pilgrimage/">Season3</a>・<a href="/articles/2026/05/20/kodoku-no-gurume-season5-pilgrimage/">Season5</a>の聖地巡礼ガイドへ。</p>
 
-### 第3話｜いろり家（神奈川県箱根町）
-
-Season4唯一の温泉地ロケ。箱根の**いろり家**で五郎が頼んだのは**ステーキ丼・旬野菜のゴマ和え・ワカサギの南蛮漬け**。山と温泉の雰囲気の中でいろりを囲みながら食べる——観光地ではなく地元食堂としての箱根を五郎が静かに楽しむ一話。
-
-> **神奈川県足柄下郡箱根町**。箱根登山鉄道「宮ノ下駅」または「小涌谷駅」圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-92ab84a8-" %}
-
----
-
-### 第4話｜大幸園 小宮本店（東京都八王子市）
-
-八王子の焼肉店**大幸園 小宮本店**が第4話の舞台。五郎が頼んだのは**豚足・ロースすき焼き・ヒレカルビ・味ネギ**。豚足をじっくり焼きながら食べるスタイルに五郎が「これは時間をかけて食べるものだ」と悟る場面が印象的だ。
-
-> **八王子市小宮エリア**。JR八高線「小宮駅」徒歩圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-b4ec36d5-" %}
-
----
-
-### 第5話｜乙姫（愛知県知多郡南知多町・日間賀島）
-
-Season4最大の遠征——愛知県の離島・日間賀島。**乙姫**で五郎が頼んだのは**赤車海老・大あさり焼き・しらす天ぷら・たこめし**。島の名物を惜しみなく注文する五郎に、「食のために旅をする」という孤独のグルメの真髄が凝縮されている。
-
-> **愛知県知多郡南知多町日間賀島**。名鉄河和駅から高速船約15分。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-980f8c82-" %}
-
----
-
-### 第6話｜タンドールバル カマルプール（東京都江東区）
-
-江東区のインド料理店**タンドールバル カマルプール**が第6話の舞台。五郎が頼んだのは**チーズクルチャ・タンドリーベジ・ラムミントカレー・マンゴーラッシー**。タンドール窯で焼いたパンとラムカレーの組み合わせに、五郎が「インド料理の奥深さ」を感じる一話だ。
-
-> **江東区エリア**。東京メトロ東西線「木場駅」または「東陽町駅」圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-e30500f5-" %}
-
----
-
-### 第7話｜居酒屋まめぞ（東京都台東区）
-
-台東区の創作居酒屋**まめぞ**が第7話の舞台。五郎が頼んだのは**生ハム・明太クリームパスタ・名物かつサンド**というバラエティ豊かな構成。「居酒屋でかつサンドが名物というのは面白い」という五郎の独白がこの店の個性を際立たせる。
-
-> **台東区エリア**。JR山手線「上野駅」または東京メトロ「稲荷町駅」圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-9353d2c4-" %}
-
----
-
-### 第9話｜シャンウェイ 本店（東京都渋谷区）
-
-渋谷の中国料理店**シャンウェイ 本店**が第9話の舞台。五郎が頼んだのは**蒸し鶏・毛沢東スペアリブ・黒チャーハン・麻辣湯**。「毛沢東スペアリブ」という名前への五郎の反応と、黒チャーハンの色への驚きが見どころだ。
-
-> **渋谷区エリア**。東急「代官山駅」または「中目黒駅」徒歩圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-8c90e208-" %}
-
----
-
-### 第11話｜THI THI（東京都大田区）
-
-Season4の締めくくりは大田区のベトナム料理店**THI THI**。五郎が頼んだのは**海老の生春巻き・とりおこわ・ブンボーフエ（レモングラスのビーフン）・ベトナムコーヒー**。大田区という下町に本格ベトナム料理があることへの五郎の驚きと満足感が静かに伝わる最終話だ。
-
-> **大田区エリア**。東急多摩川線「矢口渡駅」徒歩圏内。
-
-{% include inline-shop-card.html shop_id="kodoku_no_gurume-thi_thi-" %}
-
----
-
-## エリア別まとめ
-
-| エリア | 話数 | 店名 | アクセス |
-|--------|------|------|----------|
-| **清瀬市（東京）** | 第1話 | みゆき食堂 | 西武「清瀬駅」 |
-| **中央区（日本橋）** | 第2話 | なじみ亭 | 東京メトロ「三越前駅」 |
-| **箱根（神奈川）** | 第3話 | いろり家 | 箱根登山鉄道 |
-| **八王子市（東京）** | 第4話 | 大幸園 小宮本店 | JR「小宮駅」 |
-| **日間賀島（愛知）** | 第5話 | 乙姫 | 名鉄+高速船 |
-| **江東区** | 第6話 | タンドールバル カマルプール | 東京メトロ「木場駅」 |
-| **台東区** | 第7話 | 居酒屋まめぞ | JR「上野駅」 |
-| **渋谷区** | 第9話 | シャンウェイ 本店 | 東急「代官山駅」 |
-| **大田区** | 第11話 | THI THI | 東急「矢口渡駅」 |
-
-
----
-
-## 他のシーズンの聖地巡礼
-
-- [Season1 聖地巡礼マップ](/articles/2026/05/19/kodoku-no-gurume-season1-pilgrimage/)
-- [Season2 聖地巡礼マップ](/articles/2026/05/19/kodoku-no-gurume-season2-pilgrimage/)
-- [Season3 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season3-pilgrimage/)
-- [Season4 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season4-pilgrimage/)
-- [Season5 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season5-pilgrimage/)
-- [Season6 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season6-pilgrimage/)
-- [Season7 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season7-pilgrimage/)
-- [Season8 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season8-pilgrimage/)
-- [Season9 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season9-pilgrimage/)
-- [Season10 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-season10-pilgrimage/)
-- [年末スペシャル 聖地巡礼マップ](/articles/2026/05/20/kodoku-no-gurume-nenmatsu-special-pilgrimage/)
+</div>
