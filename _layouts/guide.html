@@ -30,7 +30,7 @@ layout: default
       <div class="points"><b>この記事の要点</b><ul>{% for item in page.summary %}<li>{{ item }}</li>{% endfor %}</ul></div>
       {%- endif %}
       {%- if page.checked_at %}
-      <p class="notice">この記事は{{ page.checked_at | date: "%Y年%-m月%-d日" }}に{% if page.sources %}{% for src in page.sources %}<a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.label }}</a>{% unless forloop.last %}・{% endunless %}{% endfor %}{% else %}公式情報{% endif %}で確認した内容です。ルールや持ち込みの決まりは公演ごとに変わることがあるので、行く前に主催者の案内も確かめてください。</p>
+      <p class="notice">この記事は{{ page.checked_at | date: "%Y年%-m月%-d日" }}に{% if page.sources %}{% for src in page.sources %}<a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.label }}</a>{% unless forloop.last %}・{% endunless %}{% endfor %}{% else %}公式情報{% endif %}で確認した内容です。{% if page.guide_category == 'venue' %}ルールや持ち込みの決まりは公演ごとに変わることがあるので、行く前に主催者の案内も確かめてください。{% else %}その後の発表で変わることがあります。{% endif %}</p>
       {%- endif %}
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
