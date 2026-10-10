@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "PEGO&CO."
-description: "イキスギ 小瓧龍市 世田谷ロケで紹介されたカフェ「PEGO&CO.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "west-pego_co-"
-name: "PEGO&CO."
-genre: "cafe"
-prefecture: "東京都"
-city: "世田谷区"
-address: "東京都世田谷区"
-source_video_title: "イキスギ 小瓧龍市 世田谷ロケ"
-source_url: "https://mequl-hibi.com/johnnys-west-sacred/"
-group: "west"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
-lat: 35.6469025
-lng: 139.652531
-members:
-  - "小瓧龍市"
-groups:
-  - "west"
+redirect_to: "/shops/west-45e39ebd/"
+redirect_label: "PEGO&CO. 世田谷店のページ"
+sitemap: false
 ---

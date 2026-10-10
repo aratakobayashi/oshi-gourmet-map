@@ -1,12 +1,12 @@
 ---
 layout: shop
 title: "=LOVEが行った「GEBURA」"
-description: "=LOVEのYouTubeで紹介されたカフェ「GEBURA」（広島県廿日市）。推し活グルメ巡礼スポット。"
+description: "=LOVEのYouTubeで紹介されたカフェ「GEBURA」（広島県廿日市市）。推し活グルメ巡礼スポット。"
 shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
 genre: "cafe"
 prefecture: "広島県"
-city: "廿日市"
+city: "廿日市市"
 address: "広島県廿日市市宮島町５２８−３"
 visited_date: "2025-09-15"
 youtube_id: "0Strh5AKapM"

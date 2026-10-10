@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "賛田飯店"
-description: "agroupのYouTubeで紹介されたその他「賛田飯店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "agroupのYouTubeで紹介された中華「賛田飯店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-9098e43b-"
 name: "賛田飯店"
-genre: "others"
+genre: "chuka"
 prefecture: "東京都"
 city: "港区"
 address: "東京都港区六本木5-16-4"

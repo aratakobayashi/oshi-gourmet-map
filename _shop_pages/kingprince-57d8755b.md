@@ -1,26 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「ドン・キホーテ 中目黒本店」"
-description: "【キントレ「バイトレ」ロケ地】髙橋海人がバイトで働いたドンキホーテはどこ？撮影日はいつ？で紹介されたその他「ドン・キホーテ 中目黒本店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-57d8755b-"
-name: "ドン・キホーテ 中目黒本店"
-genre: "others"
-prefecture: "東京都"
-city: "目黒区"
-address: "東京都目黒区青葉台2-19-10"
-nearest_station: "神泉駅 徒歩11分"
-source_video_title: "【キントレ「バイトレ」ロケ地】髙橋海人がバイトで働いたドンキホーテはどこ？撮影日はいつ？"
-source_url: "https://kosodate-and.net/kintore-kaito-donki"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13232699/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
-lat: 35.6513684
-lng: 139.6934004
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店一覧"
+sitemap: false
 ---

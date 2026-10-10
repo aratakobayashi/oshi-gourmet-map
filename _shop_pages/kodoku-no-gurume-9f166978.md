@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「まつやホルモン店」"
-description: "孤独のグルメ Season8 第8話で紹介されたラーメン「まつやホルモン店」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season8 第8話で紹介された焼肉「まつやホルモン店」（鳥取県鳥取市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-9f166978-"
 name: "まつやホルモン店"
-genre: "ramen"
+genre: "yakiniku"
 prefecture: "鳥取県"
 city: "鳥取市"
 address: "鳥取県鳥取市"

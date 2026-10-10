@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "▶抹茶クリームドーナツ 560円"
+  - "抹茶クリームドーナツ"
 ---

@@ -1,11 +1,11 @@
 ---
-title: "King & Princeが行ったラーメン7選"
-description: "King & Princeのメンバーが実際に訪れたラーメンスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeが行ったラーメン6選"
+description: "King & Princeのメンバーが実際に訪れたラーメンスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: ramen
 group_label: "King & Prince"
 slug_id: kingprince-ramen
-shop_count: 7
+shop_count: 6
 group_color: "#f472b6"
 group_bio: "King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
@@ -15,6 +15,6 @@ related_genres:
   - kingprince-cafe
 related_groups:
   - arashi-ramen
-  - kodoku-no-gurume-ramen
+  - west-ramen
   - nogizaka46-ramen
 ---

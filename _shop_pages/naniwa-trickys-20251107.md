@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "「ゆばクレープ 680円"
+  - "ゆばクレープ"
 ---

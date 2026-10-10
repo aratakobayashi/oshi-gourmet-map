@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "【オリジナルチュロス 350円"
+  - "オリジナルチュロス"
 ---

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "スパゲッ亭チャオ 本店"
-description: "イキスギさんについてった 2022-10-04（中間淳太）で紹介された食事「スパゲッ亭チャオ 本店」（愛知県）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-10-04（中間淳太）で紹介された食事「スパゲッ亭チャオ 本店」（愛知県豊橋市）。推し活グルメ巡礼スポット。"
 shop_id: "west-c757bb83"
 name: "スパゲッ亭チャオ 本店"
 genre: "shokuji"
 prefecture: "愛知県"
+city: "豊橋市"
 address: "愛知県豊橋市広小路1-45 OGIYA 2F"
 nearest_station: "駅前駅 徒歩2分"
 source_video_title: "イキスギさんについてった 2022-10-04（中間淳太）"

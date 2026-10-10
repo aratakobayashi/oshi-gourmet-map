@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ラッキーピエロ峠下総本店」"
-description: "乃木坂工事中で紹介されたその他「ラッキーピエロ峠下総本店」（北海道亀田郡七飯町）。推し活グルメ巡礼スポット。"
+description: "乃木坂工事中で紹介された食事「ラッキーピエロ峠下総本店」（北海道亀田郡七飯町）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-c7688d90-"
 name: "ラッキーピエロ峠下総本店"
-genre: "others"
+genre: "shokuji"
 prefecture: "北海道"
 city: "亀田郡七飯町"
 address: "亀田郡七飯町峠下３３７−１１"

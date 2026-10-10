@@ -19,7 +19,4 @@ members:
   - "高橋恭平"
 groups:
   - "naniwa"
-ordered_items:
-  - "50分食べ放題　3,000円"
-  - "ジャム作り(3瓶)　2,500円"
 ---

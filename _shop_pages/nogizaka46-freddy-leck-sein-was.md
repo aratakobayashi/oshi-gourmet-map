@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「FREDDY LECK sein WASCHSALON TOKYO」"
-description: "20thシンクロニシティType-Bで紹介されたカフェ「FREDDY LECK sein WASCHSALON TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46 『シンクロニシティ』で紹介されたカフェ「FREDDY LECK sein WASCHSALON TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-freddy_leck_sein_was-"
 name: "FREDDY LECK sein WASCHSALON TOKYO"
 genre: "cafe"
@@ -10,7 +10,7 @@ city: "目黒区"
 address: "東京都目黒区中央町1-3-13"
 nearest_station: "学芸大学駅 徒歩9分"
 youtube_id: "f0wbnQw89J0"
-source_video_title: "20thシンクロニシティType-B"
+source_video_title: "乃木坂46 『シンクロニシティ』"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131702/13212264/"
 thumbnail_url: "https://img.youtube.com/vi/f0wbnQw89J0/hqdefault.jpg"

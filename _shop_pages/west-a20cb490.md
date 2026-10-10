@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "ベンガル"
-description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介された食事「ベンガル」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSPで紹介された食事「ベンガル」（東京都千代田区）。推し活グルメ巡礼スポット。"
 shop_id: "west-a20cb490"
 name: "ベンガル"
 genre: "shokuji"
 prefecture: "東京都"
+city: "千代田区"
 address: "東京都千代田区外神田3-6-1 丸山ビル1F"
 source_video_title: "イキスギさんについてった 2022-08-23（濵田崇裕）カレーSP"
 source_url: "https://ameblo.jp/sigechiyo8/entry-12764917623.html"

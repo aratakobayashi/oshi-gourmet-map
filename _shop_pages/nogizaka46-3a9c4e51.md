@@ -9,11 +9,10 @@ prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区有楽町1-2-2 日比谷シャンテ別館1F"
 nearest_station: "日比谷駅 徒歩2分"
-youtube_id: "Nm_W7Ii-eW8"
 source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13284634/"
-thumbnail_url: "https://img.youtube.com/vi/Nm_W7Ii-eW8/hqdefault.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
 lat: 35.6736817
 lng: 139.7611853

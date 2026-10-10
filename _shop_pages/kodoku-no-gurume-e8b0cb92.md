@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「ノング インレイ」"
-description: "孤独のグルメ Season6 第6話で紹介されたラーメン「ノング インレイ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第6話で紹介された食事「ノング インレイ」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-e8b0cb92-"
 name: "ノング インレイ"
-genre: "ramen"
+genre: "shokuji"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区"

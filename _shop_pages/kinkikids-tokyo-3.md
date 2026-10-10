@@ -8,6 +8,7 @@ genre: "yakiniku"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区上野2-1-7 HIROKOJI BLUE BLDG 1F"
+nearest_station: "御徒町"
 source_video_title: "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？"
 source_url: "https://kosodate-and.net/kinki-kids-momokuro-yakiniku"
 group: "kinkikids"
@@ -20,4 +21,7 @@ members:
   - "堂本剛"
 groups:
   - "kinkikids"
+ordered_items:
+  - "ミルフィーユユッケ"
+  - "ごぉ赤壁"
 ---

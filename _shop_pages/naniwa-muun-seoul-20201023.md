@@ -12,7 +12,6 @@ nearest_station: "明治神宮前〈原宿〉駅 徒歩3分"
 visited_date: "2020-10-23"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13261664/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/6ELW5sORfrRSw8EiS595nnRiJUq.jpg"
 lat: 35.6692039
 lng: 139.7072847
 members:

@@ -1,35 +1,7 @@
 ---
-layout: shop
-title: "Snow Manが行った「土鍋ご飯いくしか 中目黒」"
-description: "Snow ManのYouTubeで紹介された和食「土鍋ご飯いくしか 中目黒」（東京都目黒区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "snowman-ad3a68f9-202506"
-name: "土鍋ご飯いくしか 中目黒"
-genre: "washoku"
-prefecture: "東京都"
-city: "目黒区"
-address: "東京都目黒区上目黒2丁目14-1"
-nearest_station: "東京メトロ日比谷線（東急東横線）中目黒駅 徒歩5分"
-visited_date: "2025-06-11"
-youtube_id: "8R-AlLRghJc"
-source_video_title: "Snow Man【土鍋ごはんを食べよう！】向井康二…和食が恋しい季節"
-source_video_url: "https://www.youtube.com/watch?v=8R-AlLRghJc"
-group: "snowman"
-tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13306139/"
-thumbnail_url: "https://img.youtube.com/vi/8R-AlLRghJc/hqdefault.jpg"
-lat: 35.6438
-lng: 139.6985
-members:
-  - "向井康二"
-  - "深澤辰哉"
-  - "ラウール"
-  - "阿部亮平"
-groups:
-  - "snowman"
-ordered_items:
-  - "唐揚げ（皆さんでシェア）"
-  - "豚の角煮（皆さんでシェア）"
-  - "西京焼き定食（岩本照）"
-  - "牛たた定食（深澤辰哉）"
-  - "サバの味噌煮定食（向井康二）"
-  - "から揚げの揚げ浸し定食（阿部亮平）"
+redirect_to: "/shops/snowman-donabe-gohan-ikushika/"
+redirect_label: "土鍋ご飯いくしか 中目黒店のページ"
+sitemap: false
 ---

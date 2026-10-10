@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "【トラディショナル スラビ ソロ 150円"
+  - "トラディショナル スラビ ソロ"
 ---

@@ -1,22 +1,7 @@
 ---
-layout: shop
-title: "SixTONESが行った「串若丸」"
-description: "SixTONESのYouTubeで紹介された和食「串若丸」（東京都目黒区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "sixtones-yakitoritei-nakameguro"
-name: "串若丸"
-genre: "washoku"
-prefecture: "東京都"
-city: "目黒区"
-address: "東京都目黒区中目黒"
-nearest_station: "中目黒駅 徒歩1分"
-youtube_id: "0dnJrRmFRXo"
-source_video_title: "SixTONES【中目黒焼き鳥回】"
-source_video_url: "https://www.youtube.com/watch?v=rWl-fB_R20M"
-group: "sixtones"
-tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13003193/"
-thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
-lat: 35.6442
-lng: 139.6987
-groups:
-  - "sixtones"
+redirect_to: "/groups/sixtones/"
+redirect_label: "SixTONESのお店一覧"
+sitemap: false
 ---

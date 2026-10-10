@@ -21,4 +21,6 @@ members:
   - "桐山照史"
 groups:
   - "west"
+ordered_items:
+  - "ラーメン963"
 ---

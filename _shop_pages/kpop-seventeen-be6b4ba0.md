@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「天麩羅 えびのや 南森町」"
-description: "SEVENTEENで紹介されたその他「天麩羅 えびのや 南森町」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENで紹介された和食「天麩羅 えびのや 南森町」（大阪府大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "kpop_seventeen-be6b4ba0-"
 name: "天麩羅 えびのや 南森町"
-genre: "others"
+genre: "washoku"
 prefecture: "大阪府"
 city: "大阪市"
 address: "大阪府大阪市北区天神橋2丁目3-21黒石ビル"

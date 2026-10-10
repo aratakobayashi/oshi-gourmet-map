@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「豊栄(移転)」"
-description: "孤独のグルメ Season6 第11話で紹介された和食「豊栄(移転)」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第11話で紹介された中華「豊栄(移転)」（東京都文京区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f7531f88-"
 name: "豊栄(移転)"
-genre: "washoku"
+genre: "chuka"
 prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区"

@@ -1,26 +1,7 @@
 ---
-layout: shop
-title: "よにのちゃんねるが行った「400℃ Pizza Tokyo 神楽坂店」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「400℃ Pizza Tokyo 神楽坂店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "yonino-400c_pizza_tokyo-202506"
-name: "400℃ Pizza Tokyo 神楽坂店"
-genre: "others"
-prefecture: "東京都"
-city: "新宿区"
-address: "東京都新宿区若宮町１３−１Kif Annex 102☎情報なし"
-nearest_station: "東京都飯田坂駅のB3口から徒歩5分"
-visited_date: "2025-06-15"
-youtube_id: "AsbV0ZAiFMQ"
-source_video_title: "#431【朝食!!】やまだとざーぴーな日"
-group: "yonino"
-thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
-lat: 35.6995251
-lng: 139.7395197
-groups:
-  - "yonino"
-ordered_items:
-  - "マルゲリータ"
-  - "レモンソーダ"
-  - "ネーヴェ"
-  - "レモンソーダ"
+redirect_to: "/shops/yonino-400-pizza/"
+redirect_label: "400℃ PIZZA TOKYOのページ"
+sitemap: false
 ---

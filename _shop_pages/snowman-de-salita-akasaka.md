@@ -7,7 +7,7 @@ name: "Trattoria e Pizzeria De salita 赤坂"
 genre: "shokuji"
 prefecture: "東京都"
 city: "港区"
-address: "東京都港区赤坂3丁目10-6 雪華堂ビル B1F"
+address: "東京都港区赤坂3-10-17 マーカスビル1F"
 nearest_station: "東京メトロ銀座線赤坂見附駅徒歩1分"
 visited_date: "2020-03-25"
 youtube_id: "flzByEH1qc8"
@@ -18,8 +18,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001146764/"
 thumbnail_url: "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/35/P044483535/P044483535_238.jpg"
-lat: 35.6757
-lng: 139.7367
+lat: 35.675938
+lng: 139.736816
 members:
   - "岩本照"
   - "深澤辰哉"

@@ -1,14 +1,14 @@
 ---
-title: "乃木坂46が行ったスイーツ15選"
-description: "乃木坂46のメンバーが実際に訪れたスイーツスポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "乃木坂46が行ったスイーツ13選"
+description: "乃木坂46のメンバーが実際に訪れたスイーツスポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: nogizaka46
 genre: sweets
 group_label: "乃木坂46"
 slug_id: nogizaka46-sweets
-shop_count: 15
+shop_count: 13
 group_color: "#ef4444"
 group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグループ。バラエティやSNSで話題になった店舗が多数。"
-youtube_id: 7eoiyP4kaAQ
+youtube_id: tHRvTFcsGF4
 related_genres:
   - nogizaka46-others
   - nogizaka46-cafe

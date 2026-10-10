@@ -10,10 +10,11 @@ group_color: "#f59e0b"
 group_bio: "亀梨和也はKAT-TUNのメンバーで俳優・タレント。ドラマやバラエティで訪れる名店情報が集まる。"
 youtube_id: 8-pKbYjUTc4
 related_genres:
-  - kamenashi-ramen
   - kamenashi-yakiniku
+  - kamenashi-ramen
+  - kamenashi-washoku
 related_groups:
-  - snowman-shokuji
-  - kodoku-no-gurume-shokuji
   - arashi-shokuji
+  - snowman-shokuji
+  - west-shokuji
 ---

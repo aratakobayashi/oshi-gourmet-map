@@ -21,5 +21,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "【サラミ・デビル 2310円"
+  - "サラミ・デビル"
 ---

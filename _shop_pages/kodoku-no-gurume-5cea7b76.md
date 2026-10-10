@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「第一亭」"
-description: "孤独のグルメ Season3 第2話で紹介された食事「第一亭」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season3 第2話で紹介された中華「第一亭」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-5cea7b76-"
 name: "第一亭"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市"

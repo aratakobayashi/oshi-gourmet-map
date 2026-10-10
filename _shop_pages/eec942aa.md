@@ -1,20 +1,7 @@
 ---
-layout: shop
-title: "孤独のグルメが行った「CABE チャベ目黒店」"
-description: "孤独のグルメ Season10 Episode2で紹介された食事「CABE チャベ目黒店」（東京都）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "eec942aa"
-name: "CABE チャベ目黒店"
-genre: "shokuji"
-prefecture: "東京都"
-address: "東京都品川区上大崎3丁目5-4"
-nearest_station: "目黒駅 徒歩6分"
-source_video_title: "孤独のグルメ Season10 Episode2"
-source_url: "https://8888-info.hatenablog.com/entry/Season10"
-group: "kodoku_no_gurume"
-tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13027513/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3fCOucDZEAoDagOC4UfXwF1zTiq.jpg"
-lat: 35.63453403792535
-lng: 139.71944618278388
-groups:
-  - "kodoku_no_gurume"
+redirect_to: "/shops/kodoku-no-gurume-193f57bf/"
+redirect_label: "チャベ 目黒店のページ"
+sitemap: false
 ---

@@ -1,24 +1,7 @@
 ---
-layout: shop
-title: "Snow Manが行った「ナプレ南青山本店」"
-description: "Snow ManのYouTubeで紹介されたその他「ナプレ南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "cae3f15c"
-name: "ナプレ南青山本店"
-genre: "others"
-prefecture: "東京都"
-city: "港区"
-address: "東京都港区南青山5-6-24 林ビル"
-nearest_station: "表参道駅 徒歩3分"
-visited_date: "2025-04-16"
-youtube_id: "BVjwdZw66Ms"
-source_video_title: "Snow Man【みんなでピザが食べたい🍕】スタジアムライブ直前です🎵"
-source_video_url: "https://www.youtube.com/watch?v=BVjwdZw66Ms"
-source_url: "https://8888-info.hatenablog.com/entry/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%E7%B7%A8"
-group: "snowman"
-tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13003493/"
-source_type: "youtube"
-lat: 35.663791937904364
-lng: 139.71191488308472
-groups:
-  - "snowman"
+redirect_to: "/shops/snowman-napure-minamiaoyama/"
+redirect_label: "ナプレ 南青山本店のページ"
+sitemap: false
 ---

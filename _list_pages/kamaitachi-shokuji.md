@@ -12,7 +12,7 @@ youtube_id: kU8SZpaXoBE
 related_genres:
   - kamaitachi-izakaya
 related_groups:
-  - snowman-shokuji
-  - kodoku-no-gurume-shokuji
   - arashi-shokuji
+  - snowman-shokuji
+  - west-shokuji
 ---

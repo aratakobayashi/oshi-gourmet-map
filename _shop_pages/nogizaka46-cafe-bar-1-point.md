@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "乃木坂46が行った「CAFE&BAR 1-Point」"
-description: "バレッタ 斉藤優里 個人PVで紹介されたその他「CAFE&BAR 1-Point」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "バレッタ 斉藤優里 個人PVで紹介されたカフェ「CAFE&BAR 1-Point」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "nogizaka46-cafe_bar_1_point-"
 name: "CAFE&BAR 1-Point"
-genre: "others"
+genre: "cafe"
 prefecture: "東京都"
 city: "台東区"
 address: "台東区西浅草３丁目７−６"

@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "カカオのデザートコース 5,500円"
+  - "カカオのデザートコース"
 ---

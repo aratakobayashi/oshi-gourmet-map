@@ -12,6 +12,7 @@ nearest_station: "京王井の頭線「神泉駅」より徒歩9分京王井の�
 visited_date: "2025-05-23"
 source_video_title: "【それスノ】木梨憲武バスツアーまとめ：サーキット、うなぎ、カフェ：SnowManロケ地"
 group: "snowman"
+tabelog_url: "https://tabelog.com/tokyo/A1318/A131801/13260390/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 lat: 35.6566832
 lng: 139.6868033

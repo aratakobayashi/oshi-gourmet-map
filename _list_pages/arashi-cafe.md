@@ -1,11 +1,11 @@
 ---
-title: "嵐が行ったカフェ25選"
-description: "嵐のメンバーが実際に訪れたカフェスポットを25件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "嵐が行ったカフェ26選"
+description: "嵐のメンバーが実際に訪れたカフェスポットを26件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
 genre: cafe
 group_label: "嵐"
 slug_id: arashi-cafe
-shop_count: 25
+shop_count: 26
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 related_genres:
   - arashi-shokuji

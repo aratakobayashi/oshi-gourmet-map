@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "しょうや"
-description: "イキスギさんについてった 2023-05-16（小瀧望）郡山ブラックで紹介されたラーメン「しょうや」（福島県）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-05-16（小瀧望）郡山ブラックで紹介されたラーメン「しょうや」（福島県郡山市）。推し活グルメ巡礼スポット。"
 shop_id: "west-ff680eb7"
 name: "しょうや"
 genre: "ramen"
 prefecture: "福島県"
+city: "郡山市"
 address: "福島県郡山市大槻町字御十日1-1"
 source_video_title: "イキスギさんについてった 2023-05-16（小瀧望）郡山ブラック"
 source_url: "https://activitv.com/entry/ikisugisan_230516_kohriyama-2/"

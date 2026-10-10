@@ -14,7 +14,7 @@ related_genres:
   - sixtones-washoku
   - sixtones-cafe
 related_groups:
+  - kodoku-no-gurume-chuka
   - west-chuka
   - timelesz-chuka
-  - equal-love-chuka
 ---

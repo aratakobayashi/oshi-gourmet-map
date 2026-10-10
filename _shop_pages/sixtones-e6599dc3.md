@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛追道中 （ウシオイドウチュウ）」"
-description: "SixTONESのYouTubeで紹介された和食「牛追道中 （ウシオイドウチュウ）」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "SixTONESのYouTubeで紹介された焼肉「牛追道中 （ウシオイドウチュウ）」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
 shop_id: "sixtones-e6599dc3-"
 name: "牛追道中 （ウシオイドウチュウ）"
-genre: "washoku"
+genre: "yakiniku"
 prefecture: "愛知県"
 city: "名古屋市"
 address: "愛知県名古屋市東区泉1-9-21"

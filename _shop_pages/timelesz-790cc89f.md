@@ -28,5 +28,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "赤福餅（税込400円）"
+  - "赤福餅"
 ---

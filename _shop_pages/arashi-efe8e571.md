@@ -1,22 +1,7 @@
 ---
-layout: shop
-title: "嵐が行った「笄軒（こうがいけん）」"
-description: "嵐にしやがれで紹介されたその他「笄軒（こうがいけん）」（東京都港区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "arashi-efe8e571-"
-name: "笄軒（こうがいけん）"
-genre: "others"
-prefecture: "東京都"
-city: "港区"
-address: "東京都港区西麻布4-6-5 1F"
-nearest_station: "六本木駅 徒歩12分"
-source_video_title: "嵐にしやがれ"
-source_url: "https://meqqe.jp/books/1000825"
-group: "arashi"
-tabelog_url: "https://tabelog.com/tokyo/A1309/A130906/13279040/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
-source_type: "tv"
-lat: 35.6600266
-lng: 139.7238075
-groups:
-  - "arashi"
+redirect_to: "/shops/arashi-edf7b183-20201226/"
+redirect_label: "笄軒のページ"
+sitemap: false
 ---

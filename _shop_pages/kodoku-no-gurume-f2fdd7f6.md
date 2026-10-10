@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "孤独のグルメが行った「羊香味坊」"
-description: "孤独のグルメ Season6 第8話で紹介された食事「羊香味坊」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "孤独のグルメ Season6 第8話で紹介された中華「羊香味坊」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "kodoku_no_gurume-f2fdd7f6-"
 name: "羊香味坊"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区"

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "ニイガタスタイル マサト"
-description: "イキスギさんについてった 2023-03-07（濵田崇裕）で紹介された居酒屋「ニイガタスタイル マサト」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-03-07（濵田崇裕）で紹介された居酒屋「ニイガタスタイル マサト」（東京都荒川区）。推し活グルメ巡礼スポット。"
 shop_id: "west-4ff1c3e6"
 name: "ニイガタスタイル マサト"
 genre: "izakaya"
 prefecture: "東京都"
+city: "荒川区"
 address: "東京都荒川区南千住1-13-19"
 source_video_title: "イキスギさんについてった 2023-03-07（濵田崇裕）"
 source_url: "https://www.activitv.com/entry/ikisugisan_230307-2/"

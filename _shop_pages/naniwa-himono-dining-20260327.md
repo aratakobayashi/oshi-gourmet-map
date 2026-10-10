@@ -22,5 +22,5 @@ members:
 groups:
   - "naniwa"
 ordered_items:
-  - "ひものオーバーライス 1500円"
+  - "ひものオーバーライス"
 ---

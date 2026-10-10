@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "デリツィオーゾ 0141"
-description: "イキスギさんについてった 2022-09-20（桐山照史）で紹介された食事「デリツィオーゾ 0141」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-09-20（桐山照史）で紹介された食事「デリツィオーゾ 0141」（東京都台東区）。推し活グルメ巡礼スポット。"
 shop_id: "west-b0e67ba7"
 name: "デリツィオーゾ 0141"
 genre: "shokuji"
 prefecture: "東京都"
+city: "台東区"
 address: "東京都台東区上野3-7-5 中戸川ビル1F"
 source_video_title: "イキスギさんについてった 2022-09-20（桐山照史）"
 source_url: "https://www.activitv.com/entry/ikisugisan_220920_omu/"

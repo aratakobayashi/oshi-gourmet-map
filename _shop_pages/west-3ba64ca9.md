@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "レストラン 間"
-description: "イキスギさんについてった 2023-02-14（藤井流星）パフェで紹介された食事「レストラン 間」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-02-14（藤井流星）パフェで紹介された食事「レストラン 間」（東京都渋谷区）。推し活グルメ巡礼スポット。"
 shop_id: "west-3ba64ca9"
 name: "レストラン 間"
 genre: "shokuji"
 prefecture: "東京都"
+city: "渋谷区"
 address: "東京都渋谷区恵比寿南2-25-3 EBISU HANA BLDG 1F"
 nearest_station: "恵比寿駅 徒歩5分"
 source_video_title: "イキスギさんについてった 2023-02-14（藤井流星）パフェ"

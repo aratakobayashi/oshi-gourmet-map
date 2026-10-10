@@ -8,16 +8,16 @@ genre: "chuka"
 prefecture: "神奈川県"
 city: "横浜市"
 address: "神奈川県横浜市中区山下町146-2"
-nearest_station: "東京駅 徒歩1分"
+nearest_station: "元町・中華街駅"
 visited_date: "2023-06-23"
 youtube_id: "Dp0KTso3Suw"
-source_video_title: "【きあまい】中華街旅#2 完食制覇！"
+source_video_title: "【日常】中華街のカフェでひたすらお喋り♡占いにも行ったよー🔮！！【きあまい】【中華街旅#2】"
 source_video_url: "https://www.youtube.com/watch?v=Dp0KTso3Suw"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14091339/"
 thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
-lat: 35.6812
-lng: 139.7671
+lat: 35.443104
+lng: 139.645386
 members:
   - "佐々木舞香"
   - "齋藤樹愛羅"

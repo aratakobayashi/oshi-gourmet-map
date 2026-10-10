@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "あじわい回転寿司 禅"
-description: "westが訪れた和食「あじわい回転寿司 禅」（神奈川県）。推し活グルメ巡礼スポット。"
+description: "westが訪れた和食「あじわい回転寿司 禅」（神奈川県小田原市）。推し活グルメ巡礼スポット。"
 shop_id: "ce8d5aec"
 name: "あじわい回転寿司 禅"
 genre: "washoku"
 prefecture: "神奈川県"
+city: "小田原市"
 address: "神奈川県小田原市緑町"
 nearest_station: "小田原"
 group: "west"

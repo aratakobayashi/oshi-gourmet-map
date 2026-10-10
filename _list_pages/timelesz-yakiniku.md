@@ -10,11 +10,11 @@ group_color: "#0ea5e9"
 group_bio: "timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg"
 related_genres:
-  - timelesz-shokuji
   - timelesz-cafe
   - timelesz-chuka
+  - timelesz-shokuji
 related_groups:
-  - naniwa-yakiniku
   - kodoku-no-gurume-yakiniku
+  - naniwa-yakiniku
   - sixtones-yakiniku
 ---

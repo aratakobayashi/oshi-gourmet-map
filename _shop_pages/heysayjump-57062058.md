@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「五代目花山うどん」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたラーメン「五代目花山うどん」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "メレンゲの気持ち 2017.07.29で紹介された和食「五代目花山うどん」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-57062058-"
 name: "五代目花山うどん"
-genre: "ramen"
+genre: "washoku"
 prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区銀座"

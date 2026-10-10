@@ -1,12 +1,12 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「ちばチャン」"
-description: "2015.11.14/11.21 大盛りグルメ特集で紹介された食事「ちばチャン」（千葉県柏市旭町）。推し活グルメ巡礼スポット。"
+description: "2015.11.14/11.21 大盛りグルメ特集で紹介された食事「ちばチャン」（千葉県柏市）。推し活グルメ巡礼スポット。"
 shop_id: "heysayjump-6a7b44cb-20151114"
 name: "ちばチャン"
 genre: "shokuji"
 prefecture: "千葉県"
-city: "柏市旭町"
+city: "柏市"
 address: "千葉県柏市旭町1-5-4 プラザパスカ B1"
 visited_date: "2015-11-14"
 source_video_title: "2015.11.14/11.21 大盛りグルメ特集"

@@ -8,11 +8,12 @@ genre: "ramen"
 prefecture: "千葉県"
 city: "銚子市"
 address: "千葉県銚子市川口町2-6528-2"
-visited_date: "2020-04-05"
+visited_date: "2020-09-20"
 source_video_title: "バナナマンのせっかくグルメ"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120501/12014356/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
+source_type: "tv"
 lat: 35.740998
 lng: 140.8648586
 members:

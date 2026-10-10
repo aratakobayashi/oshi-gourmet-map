@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "trefle"
-description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたスイーツ「trefle」（東京都）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSPで紹介されたスイーツ「trefle」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "west-e17c7cad"
 name: "trefle"
 genre: "sweets"
 prefecture: "東京都"
+city: "新宿区"
 address: "東京都新宿区四谷三栄町2-1 第一萬寿ビル1F"
 nearest_station: "四ツ谷駅 徒歩5分"
 source_video_title: "イキスギさんについてった 2022-11-08（小瀧望）フルーツサンドSP"

@@ -1,11 +1,12 @@
 ---
 layout: shop
 title: "豚々ジャッキー"
-description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介された食事「豚々ジャッキー」（沖縄県）。推し活グルメ巡礼スポット。"
+description: "イキスギさんについてった 2023-03-28（小瀧望）とんかつで紹介された食事「豚々ジャッキー」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
 shop_id: "west-b539b3a9"
 name: "豚々ジャッキー"
 genre: "shokuji"
 prefecture: "沖縄県"
+city: "那覇市"
 address: "沖縄県那覇市久米2-9-11 abc久米ビル2F"
 nearest_station: "旭橋駅 徒歩5分"
 source_video_title: "イキスギさんについてった 2023-03-28（小瀧望）とんかつ"

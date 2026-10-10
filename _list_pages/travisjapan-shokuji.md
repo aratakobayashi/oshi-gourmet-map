@@ -8,7 +8,7 @@ slug_id: travisjapan-shokuji
 shop_count: 6
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg"
 related_groups:
-  - snowman-shokuji
-  - kodoku-no-gurume-shokuji
   - arashi-shokuji
+  - snowman-shokuji
+  - west-shokuji
 ---

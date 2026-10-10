@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "timeleszが行った「三久飯店」"
-description: "timelesz project -AUDITION-で紹介された食事「三久飯店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "timelesz project -AUDITION-で紹介された中華「三久飯店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-540cca88-"
 name: "三久飯店"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区祐天寺2-17-11"

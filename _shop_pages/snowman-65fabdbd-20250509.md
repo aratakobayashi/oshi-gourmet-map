@@ -1,39 +1,7 @@
 ---
-layout: shop
-title: "Snow Manが行った「うなぎ 川松」"
-description: "Snow ManのYouTubeで紹介された和食「うなぎ 川松」（東京都東久留米市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "snowman-65fabdbd-20250509"
-name: "うなぎ 川松"
-genre: "washoku"
-prefecture: "東京都"
-city: "東久留米市"
-address: "東京都東久留米市前沢1-6-10"
-nearest_station: "「前沢十字路」バス停下車徒歩3分"
-visited_date: "2025-05-09"
-youtube_id: "oEsMgH5QhFQ"
-source_video_title: "【すのちゅーぶ】東久留米「うなぎ川松」決起集会で食べたメニューは？予約方法は？SnowManロケ地"
-group: "snowman"
-tabelog_url: "https://tabelog.com/tokyo/A1328/A132802/13197749/"
-lat: 35.7433534
-lng: 139.513935
-members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
-groups:
-  - "snowman"
-ordered_items:
-  - "う巻卵焼き×2(シェア)（深澤辰哉）"
-  - "うな重(桐)（深澤辰哉）"
-  - "うな重(桐)（目黒蓮）"
-  - "白子ポン酢×2(シェア)（佐久間大介）"
-  - "あん肝ポン酢×2(シェア)（佐久間大介）"
-  - "うな重(桐)（佐久間大介）"
-  - "うな重(桐)（阿部亮平）"
+redirect_to: "/shops/snowman-unagi-kawamatu-higashikurume/"
+redirect_label: "うなぎ川松のページ"
+sitemap: false
 ---
