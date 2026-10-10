@@ -157,10 +157,10 @@ faq:
 <ul class="pf-works">
   <li><span class="k">一蘭</span><div><b>一蘭 中野店</b><span>よにのちゃんねる #480【朝食!!】朝ラーだよな、、、の日</span></div></li>
   <li><span class="k">一蘭</span><div><b>一蘭 原宿店</b><span>亀梨和也（2024年10月）【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！</span></div></li>
-  <li><span class="k">一蘭</span><div><b>一蘭 池袋店</b><span>=LOVE（2025年6月）みりにゃ流 一蘭の最高の食べ方（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
+  <li><span class="k">一蘭</span><div><b>一蘭 池袋店</b><span>=LOVE（2025年4月）みりにゃ流 一蘭の最高の食べ方（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
   <li><span class="k">ラー博</span><div><b>利尻らーめん味楽（新横浜ラーメン博物館）</b><span>よにのちゃんねる #507【博物館!!】山田史上最高が出た日／焼き醤油らーめん、とろ海焼き醤油（大盛）</span></div></li>
   <li><span class="k">ラー博</span><div><b>利尻らーめん味楽 新横浜ラーメン博物館店</b><span>乃木坂46／横浜アリーナの近く（推しグルメ巡礼MAPのデータより）</span></div></li>
-  <li><span class="k">ラー博</span><div><b>新横浜ラーメン博物館</b><span>SixTONES（2022年1月）【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇</span></div></li>
+  <li><span class="k">ラー博</span><div><b>新横浜ラーメン博物館</b><span>SixTONES（2022年11月）【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇</span></div></li>
   <li><span class="k">みそきん</span><div><b>みそきん 池袋店</b><span>=LOVE（2026年3月）みそきん店主と朝ラー活【ヒカキンさん】（みりにゃと申します。）</span></div></li>
   <li><span class="k">みそきん</span><div><b>みそきん（東京駅）</b><span>≒JOY（2025年10月）【ドッキリ】みそきんでラーメンを食べようとしたらまさかのヒカキンさん登場に2人はどうする・・・！？【ニアジョイらーめん部】</span></div></li>
 </ul>
@@ -224,15 +224,15 @@ faq:
 <h2>=LOVE・≒JOY：ラー活と、らーめん部</h2>
 <p>=LOVEの大谷映美里さんは個人チャンネル「みりにゃと申します。」の「ラー活」で、≒JOYは公式チャンネルの企画「ニアジョイらーめん部」で、ラーメン店をめぐっています。</p>
 <ul class="pf-works">
-  <li><span class="k">2024<br>8月</span><div><b>油そば春日亭 神田店</b><span>=LOVE【ラー活】私の原点の場所です【春日亭】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>千里眼（池ノ上）</b><span>=LOVE【二郎系】千里眼で念願のニンニクザンマイ食べてきた【ラー活】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>らうめん侍 本丸（金沢）</b><span>=LOVE【休日Vlog】金沢でおいしいものをひたすら食べまくりました</span></div></li>
+  <li><span class="k">2023<br>11月</span><div><b>油そば春日亭 神田店</b><span>=LOVE【ラー活】私の原点の場所です【春日亭】</span></div></li>
+  <li><span class="k">2024<br>5月</span><div><b>千里眼（池ノ上）</b><span>=LOVE【二郎系】千里眼で念願のニンニクザンマイ食べてきた【ラー活】</span></div></li>
+  <li><span class="k">2023<br>12月</span><div><b>らうめん侍 本丸（金沢）</b><span>=LOVE【休日Vlog】金沢でおいしいものをひたすら食べまくりました</span></div></li>
   <li><span class="k">2024<br>10月</span><div><b>ラーメン山岡家 越谷レイクタウン店</b><span>=LOVE【深夜ラーメン】ドライブ デート 山岡家</span></div></li>
   <li><span class="k">2025<br>1月</span><div><b>蒙古タンメン中本 上板橋本店</b><span>=LOVE【激辛】中本で北極やさいシャキシャキ食べてきた</span></div></li>
   <li><span class="k">2025<br>8月</span><div><b>ラーメン山岡家 青梅店</b><span>=LOVE ドライブデート 山岡家 vol.2【夜食にはラーメン】</span></div></li>
   <li><span class="k">2025<br>12月</span><div><b>らーめん ぽっぽっ屋 水道橋店</b><span>=LOVE【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>人類みな麺類（大阪）</b><span>≒JOY【人類みな麺類】地元、大阪の…究極の一杯いただきます！【ニアジョイらーめん部】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>天下一品 中野店</b><span>≒JOY【天下一品】朝からラーメン！衝撃のこってりの世界へ！【ニアジョイらーめん部】</span></div></li>
+  <li><span class="k">2024<br>2月</span><div><b>人類みな麺類（大阪）</b><span>≒JOY【人類みな麺類】地元、大阪の…究極の一杯いただきます！【ニアジョイらーめん部】</span></div></li>
+  <li><span class="k">2023<br>10月</span><div><b>天下一品 中野店</b><span>≒JOY【天下一品】朝からラーメン！衝撃のこってりの世界へ！【ニアジョイらーめん部】</span></div></li>
   <li><span class="k">2025<br>6月</span><div><b>目黒魂心家</b><span>≒JOY【魂心家】家系ラーメン&amp;ライス爆食 大信田部長も初めて見る、天野の食べ方とは...!?【ニアジョイらーめん部】</span></div></li>
   <li><span class="k">2026<br>4月</span><div><b>北ノ醤油チーホー（水道橋）</b><span>≒JOY【#ニアジョイらーめん部】SUSURUさんのお店で爆食したら色々見れて大興奮でした【北ノ醤油チーホー】</span></div></li>
 </ul>
@@ -244,7 +244,7 @@ faq:
   <li><span class="k">#352</span><div><b>むかん横浜</b><span>よにのちゃんねる #352【朝食!!】新しい食べ物だった日／雲丹バターたまご麺、牡蠣バターたまご麺、肉丼</span></div></li>
   <li><span class="k">#387</span><div><b>かおたんラーメンえんとつ屋 南青山店</b><span>よにのちゃんねる #387【朝食!!】広い意味で正解な日／五目野菜麵、チャーシュー麵、餃子、おつまみ角煮</span></div></li>
   <li><span class="k">#410</span><div><b>博多元気一杯!!（福岡）</b><span>よにのちゃんねる #410【朝食!!】大好評だった日／キクラゲラーメン、チャーシュー麵</span></div></li>
-  <li><span class="k">2020<br>3月</span><div><b>一蘭 渋谷店</b><span>SixTONES【豚骨を８時間煮込んで作った究極のラーメン】史上最高の一杯が完成!!</span></div></li>
+  <li><span class="k">2024<br>5月</span><div><b>一蘭 渋谷店</b><span>SixTONES【豚骨を８時間煮込んで作った究極のラーメン】史上最高の一杯が完成!!</span></div></li>
   <li><span class="k">2024<br>2月</span><div><b>みんみんラーメン 本店（八王子）</b><span>SixTONES【八王子ラーメンを食べまくる】バクバクモグモグ動画です／ネギメンマラーメン、ネギチャーシューメンマラーメン</span></div></li>
   <li><span class="k">2024<br>9月</span><div><b>佐野サービスエリア（下り）フードコート</b><span>SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>江川亭 小金井本店</b><span>Snow Man【地元で有名なラーメン店】なんだかサイコーの日になりました／角煮麺、炒飯、中華麺味玉</span></div></li>

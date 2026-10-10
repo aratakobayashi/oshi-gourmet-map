@@ -1,133 +1,120 @@
 ---
 layout: post
-title: "SixTONES と行く東京下町グルメ聖地巡礼コース【浅草〜スカイツリー〜月島】"
+title: "SixTONESと行く東京下町グルメ聖地巡礼【東京ソラマチ7Fの忘年会2軒とスカイツリー】"
 date: 2026-05-18
 last_modified_at: 2026-10-10
-thumbnail_video_id: 3_cm61ZXb2E
-description: "ストチューブに登場したSixTONESの東京下町グルメを聖地巡礼コースに。浅草の洋食・とんかつ、スカイツリーのもんじゃ・小籠包、錦糸町・月島まで都営地下鉄で1日でまとめて回れるルートを紹介します。"
+thumbnail_video_id: fflp-PypyQg
+description: "SixTONESの公式YouTubeで6人が忘年会をした東京ソラマチ7Fの2軒、鼎泰豊（2024年1月公開）と月島名物もんじゃ だるま（2025年4月公開）を、回る順番の図と動画のタイトルでまとめました。浅草・両国・月島の下町のお店の確認状況もあわせて載せています。"
 group: sixtones
 article_type: course
 prefecture: 東京都
-tags: [SixTONES, ストチューブ, 聖地巡礼, 浅草, 月島, 錦糸町, 両国, スカイツリー, もんじゃ, 下町, グルメ, 東京, コース]
+tags: [SixTONES, 聖地巡礼, 東京ソラマチ, スカイツリー, 押上, 忘年会, もんじゃ, 小籠包, 下町, コース, 東京]
 summary:
-  - "ストチューブ（SixTONESのYouTube）に登場した東京下町グルメのお店がわかる"
-  - "浅草〜押上（スカイツリー）〜月島を都営地下鉄・大江戸線で一本でつなぐルート"
-  - "洋食・とんかつ・もんじゃ・ちゃんこ・小籠包とジャンルも多彩"
-  - "所要時間は昼食込みで5〜6時間"
+  - "SixTONESの公式YouTubeで6人が忘年会をした、東京ソラマチ7Fの2軒が主役のコース"
+  - "鼎泰豊は2023年大晦日の忘年会（2024年1月公開）、もんじゃ だるまは2024年の忘年会（2025年4月公開）"
+  - "押上駅からソラマチ7F、そして2023年の動画の舞台・東京スカイツリーへ。回る順番を図にしました"
+  - "浅草・両国・月島のお店は、出典の動画を確かめている途中です"
 shop_ids:
+  - sixtones-dintaifung-soramachi
+  - sixtones-daruma-soramachi
   - sixtones-grill-grand-asakusa
   - sixtones-tomiya-asakusa
-  - sixtones-daruma-soramachi
-  - sixtones-dintaifung-soramachi
   - sixtones-shichifuku-jin-ryogoku
   - sixtones-c2272dd2-201906
 faq:
-  - q: "SixTONESのストチューブで浅草が登場したのはどの動画ですか？"
-    a: "グリルグランドととんかつとみ家は「SixTONES【浅草アポなし旅】」シリーズ（2024年夏）に登場しました。浅草に予告なしで乗り込んでお店を探す企画です。"
-  - q: "月島のもんじゃ まぐろ家はどの動画で紹介されましたか？"
-    a: "「SixTONES - 月島でもんじゃ！」（動画ID: _vywZByqAdw）の「SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!」に登場します。本所かえる本舗も同動画で紹介されています。"
-  - q: "東京スカイツリーのもんじゃ屋・鼎泰豊はどの動画ですか？"
-    a: "だるまソラマチ店は「SixTONES official【もんじゃ忘年会】2024年のYouTube」、鼎泰豊ソラマチ店は「SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会」でそれぞれ登場した2024年末の忘年会シリーズです。"
-  - q: "このコースの移動はどうすればいいですか？"
-    a: "浅草駅（都営浅草線）を起点に、押上（スカイツリー）は徒歩またはバスで15分、錦糸町・両国は都営大江戸線で移動、月島も大江戸線で一本です。1日乗車券（東京メトロ＋都営地下鉄共通・1,000円）を使うとお得です。"
+  - q: "SixTONESが忘年会をしたお店はどこですか？"
+    a: "推しグルメ巡礼MAPのデータでは、2024年1月19日公開の「【ガチリアルな忘年会】念願の小籠包でメシ会」が鼎泰豊 東京ソラマチ店、2025年4月公開の「【もんじゃ忘年会】2024年のYouTube ベスト１は何？」が月島名物もんじゃ だるま ソラマチ店です。どちらも東京ソラマチの7Fにあります。"
+  - q: "小籠包の忘年会はいつのことですか？"
+    a: "公式の概要欄によると、昨年の大晦日、生配信の前に6人でごはんを食べた様子です。動画は2024年1月19日に公開されました。"
+  - q: "2軒の最寄り駅は？"
+    a: "どちらも押上〈スカイツリー前〉駅から徒歩2分です（推しグルメ巡礼MAPのデータより）。行く前に各お店の公式情報で営業日を確かめてください。"
+  - q: "東京スカイツリーが出てくる動画はありますか？"
+    a: "2023年3月31日公開の「【SixTONES】スカイツリー顔バレせずに登れるか？」と、4月7日公開の完結編があります。"
+  - q: "浅草・両国・月島のお店は？"
+    a: "グリルグランド、とんかつ とみ家、ちゃんこ 霧島、もんじゃ まぐろ家もデータに登録されていますが、出典の動画を確かめている途中です。2019年2月公開の「【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!」は、公式の概要欄によると両国の駄菓子ともんじゃ焼きのお店が舞台です。"
 ---
 
-<mark>SixTONES</mark> がストチューブで繰り返し訪れてきたのが、浅草・月島・両国・錦糸町という東京の"下町ライン"だ。洋食・とんかつ・もんじゃ・ちゃんこ・小籠包と、ジャンルも店の個性もバラバラなのに、全部が「この街らしさ」でつながっている。ストチューブの下町回で登場した7店を、都営地下鉄1本で巡る聖地巡礼コースにまとめた。
+<div class="pf" style="--pc:#7c3aed">
 
-{% include inline-shop-grid.html ids="sixtones-grill-grand-asakusa,sixtones-tomiya-asakusa,sixtones-daruma-soramachi,sixtones-dintaifung-soramachi,sixtones-shichifuku-jin-ryogoku,sixtones-c2272dd2-201906" %}
+<p><strong>SixTONES</strong>の6人は、2年続けて東京ソラマチの7Fで忘年会をしています。1年目は念願の小籠包、2年目はもんじゃ。どちらも6人がそろった、にぎやかな回です。</p>
 
-## コース全体図
+<p>この記事では、その<strong>2軒</strong>と、2023年の動画の舞台になった東京スカイツリーを回る順番を図にまとめました。</p>
 
-| ブロック | エリア | 店数 | 移動 |
-|----------|--------|------|------|
-| ① 午前 | 浅草（台東区） | 2店 | 浅草駅スタート |
-| ② 昼〜午後 | 押上・スカイツリー（墨田区） | 2店 | 浅草〜押上 徒歩15分 |
-| ③ 午後 | 両国（墨田区） | 1店（夕食追加可） | 都営大江戸線 |
-| ④ 夕方 | 月島（中央区） | 1店 | 都営大江戸線 月島駅 |
+<h2>ひと目でわかる SixTONESの忘年会コース</h2>
+<div class="pf-card">
+  <div class="pf-card__head">
+    <small>SixTONES 公式YouTube</small>
+    <p class="pf-card__name">ソラマチ忘年会コース</p>
+    <p class="pf-card__yomi">2024年1月・2025年4月公開の動画から</p>
+    <span class="pf-card__color"><i></i>ジェシー・京本・松村・髙地・田中・森本</span>
+  </div>
+  <dl class="pf-card__facts">
+    <div><dt>お店の数</dt><dd>2軒（同じ7F）</dd></div>
+    <div><dt>1年目</dt><dd>鼎泰豊で小籠包</dd></div>
+    <div><dt>2年目</dt><dd>だるまでもんじゃ</dd></div>
+    <div><dt>最寄り駅</dt><dd>押上〈スカイツリー前〉駅</dd></div>
+    <div><dt>あわせて</dt><dd>東京スカイツリー</dd></div>
+    <div><dt>確認中</dt><dd>浅草・両国・月島の4軒</dd></div>
+  </dl>
+</div>
 
-浅草から月島まで直線距離は約6km。大江戸線を使えば全エリアを1路線でカバーできる。
+<div class="pf-nums">
+  <div><b>2<small>年</small></b><span>続けてソラマチ7Fで忘年会</span></div>
+  <div><b>6<small>人</small></b><span>2本とも全員がそろった回（データより）</span></div>
+  <div><b>2<small>分</small></b><span>押上〈スカイツリー前〉駅から（徒歩）</span></div>
+  <div><b>{{ site.data.group_ix.sixtones.n }}<small>軒</small></b><span>このサイトに登録されている、SixTONESのお店ぜんぶ</span></div>
+</div>
 
----
+<h2>回る順番</h2>
+<p>押上駅からソラマチ7Fの2軒へ、そして東京スカイツリーへ。2軒とも同じ7Fなので、どちらか1軒を選んで、もう1軒はのぞいてみるだけでも楽しめます。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/sixtones-shitamachi-course/route.svg" alt="SixTONES 忘年会の2軒：押上〈スカイツリー前〉駅から徒歩2分で東京ソラマチ7Fへ。1 鼎泰豊 東京ソラマチ店（2023年大晦日の忘年会・2024年1月公開「念願の小籠包でメシ会」）、2 もんじゃ だるま ソラマチ店（2024年の忘年会・2025年4月公開「もんじゃ忘年会」）、最後に2023年3月の動画「スカイツリー顔バレせずに登れるか？」の舞台、東京スカイツリーへ" width="420" height="536" loading="lazy" decoding="async"><figcaption>店の場所は推しグルメ巡礼MAPのデータ、動画のタイトルはYouTubeの「SixTONES」より</figcaption></figure>
 
-## ① SixTONES が選んだ浅草エリア
+<div class="pf-quote"><p>小籠包の回の概要欄には「ただ飯食ってるだけ…忘年会です！」。気取らない6人のごはん会を、同じフロアで2年分たどれるのがこのコースのいいところです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-### グリルグランド
-**台東区浅草**
+<h2>1年目：鼎泰豊で小籠包</h2>
+<p>2024年1月19日公開。公式の概要欄によると、昨年の大晦日、生配信の前に6人でごはんを食べた様子です。</p>
+<ul class="pf-works">
+  <li><span class="k">2024年<br>1月</span><div><b>鼎泰豊（ディンタイフォン）東京ソラマチ店</b><span>SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会／東京ソラマチ7F</span></div></li>
+</ul>
+{% include inline-shop-card.html shop_id="sixtones-dintaifung-soramachi" %}
 
-ストチューブ「浅草アポなし旅」（2024年夏）でメンバーが飛び込んだ浅草の老舗洋食屋。昭和の食堂の雰囲気をそのまま残した店内で、ハンバーグやオムライスといった定番洋食を楽しめる。SixTONESが「アポなし」で探し当てたという展開が番組の見どころのひとつ。
+<h2>2年目：もんじゃで忘年会</h2>
+<p>2025年4月公開。タイトルのとおり、2024年のYouTubeをふり返る忘年会です。</p>
+<ul class="pf-works">
+  <li><span class="k">2025年<br>4月</span><div><b>月島名物もんじゃ だるま ソラマチ店</b><span>SixTONES official【もんじゃ忘年会】2024年のYouTube ベスト１は何？／東京ソラマチ7F</span></div></li>
+</ul>
+{% include inline-shop-card.html shop_id="sixtones-daruma-soramachi" %}
 
-### とんかつ とみ家
-**台東区浅草**
+<h2>はじめて見るならこの3本</h2>
+<p>SixTONESの公式YouTubeの動画です（タップすると再生します）。</p>
+<div class="pf-videos">
+  <figure><button type="button" class="yt" data-yt="fflp-PypyQg" aria-label="小籠包の忘年会を再生"><img src="https://i.ytimg.com/vi_webp/fflp-PypyQg/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>鼎泰豊 東京ソラマチ店</b>念願の小籠包でメシ会</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="6WTMkZziBHw" aria-label="もんじゃ忘年会を再生"><img src="https://i.ytimg.com/vi_webp/6WTMkZziBHw/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>もんじゃ だるま ソラマチ店</b>2024年のYouTube ベスト１は何？</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="qPlZw7e7YBE" aria-label="スカイツリーの回を再生"><img src="https://i.ytimg.com/vi_webp/qPlZw7e7YBE/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>東京スカイツリー</b>顔バレせずに登れるか？（2023年3月）</figcaption></figure>
+</div>
 
-同じく「浅草アポなし旅」に登場した浅草のとんかつ専門店。浅草らしい地元密着型の店構えで、揚げたてのとんかつが食べられる。グリルグランドとあわせて浅草の「昭和グルメ」をダブルで体験できるのがこのコースの醍醐味。
+<h2>確かめている途中のお店：浅草・両国・月島</h2>
+<p>推しグルメ巡礼MAPには、下町のお店がほかに4軒登録されていますが、どの動画に登場したかを確かめている途中です。わかりしだい、このページに書き足します。なお、2019年2月8日公開の「SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!」は、公式の概要欄によると両国の駄菓子ともんじゃ焼きのお店が舞台です。</p>
+<ul class="pf-works">
+  <li><span class="k">確認中</span><div><b>グリルグランド</b><span>台東区浅草（データの登録）</span></div></li>
+  <li><span class="k">確認中</span><div><b>とんかつ とみ家</b><span>台東区浅草（データの登録）</span></div></li>
+  <li><span class="k">確認中</span><div><b>ちゃんこ 霧島</b><span>墨田区両国（データの登録）</span></div></li>
+  <li><span class="k">確認中</span><div><b>もんじゃ まぐろ家</b><span>中央区月島（データの登録）</span></div></li>
+</ul>
+{% include inline-shop-grid.html ids="sixtones-grill-grand-asakusa,sixtones-tomiya-asakusa,sixtones-shichifuku-jin-ryogoku,sixtones-c2272dd2-201906" %}
 
----
+<h2>エリアで巡るなら</h2>
+<ul>
+  <li><strong>押上</strong>：東京ソラマチ7Fの鼎泰豊・もんじゃ だるま（押上〈スカイツリー前〉駅 徒歩2分）と東京スカイツリー。</li>
+  <li><strong>浅草</strong>：押上から近い浅草には、よにのちゃんねるやSnow Manのお店も。<a href="/articles/2026/05/14/asakusa-gourmet-pilgrimage/">浅草グルメ聖地巡礼ガイド</a>にまとめています。</li>
+</ul>
+<p>SixTONESのほかのお店は<a href="/articles/2026/05/12/sixtones-gourmet-matome/">SixTONESのグルメまとめ</a>をどうぞ。</p>
 
-## ② SixTONES が選んだスカイツリーエリア
+<div class="pf-cta">
+  <p>SixTONESのお店を、地図でぜんぶ見る</p>
+  <span>ソラマチの2軒のほかにも、メンバーが訪れたお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <a class="btn" href="/shops/?g=sixtones&amp;view=map">地図でSixTONESのお店を見る</a>
+</div>
+<p><a href="{{ site.data.group_ix.sixtones.u }}">SixTONESのお店一覧（グループのページ）</a>もどうぞ。</p>
 
-### 月島名物もんじゃ だるま ソラマチ店
-**墨田区押上1-1-2 東京ソラマチ7F**
-
-SixTONESが2024年末の「もんじゃ忘年会」で訪れたスカイツリー内のもんじゃ屋。東京ソラマチの7Fにあり、スカイツリーを見上げながらもんじゃを焼けるロケーションは観光客にも人気。メンバーがわいわい焼き方を教え合う場面が番組の和やかハイライトだった。
-
-### 鼎泰豊（ディンタイフォン）東京ソラマチ店
-**墨田区押上1-1-2 東京ソラマチ7F イーストヤード**
-
-同じくスカイツリー内の台湾発の有名小籠包専門店。「SixTONES【ガチリアルな忘年会】念願の小籠包でメシ会」で登場し、メンバーが小籠包の上手な食べ方を議論した回は多くのファンの間で語り草になっている。だるまとはフロアが同じなので、はしごも可能。
-
----
-
-## ③ SixTONES が選んだ両国エリア
-
-### ちゃんこ 霧島
-**墨田区両国**
-
-「SixTONES【両国ちゃんこ回】」に登場した両国の相撲部屋御用達のちゃんこ鍋専門店。両国という立地と相まって力士文化の香りが漂う一軒。SixTONESが大鍋を囲んで食べる場面は、グループの仲の良さが出る定番コンテンツのひとつ。**夜営業が中心のため、月島を先に回ってから夕食で訪れるのがおすすめ。**
-
----
-
-## ④ SixTONES が選んだ月島エリア
-
-### もんじゃ まぐろ家
-**中央区月島3-7-4**
-
-「SixTONES - 月島でもんじゃ！」（TOKYOグルメガイドシリーズ）でメンバーが訪れた月島本通り商店街のもんじゃ屋。月島にもんじゃ屋は70軒以上あるなかでSixTONESが選んだ一軒。月島駅（大江戸線）から徒歩すぐ。
-
----
-
-## タイムライン（5〜6時間コース）
-
-| 時刻 | スポット | 所要時間 | 移動 |
-|------|----------|----------|------|
-| 10:30 | 浅草駅スタート | — | 都営浅草線 浅草駅 |
-| 10:40 | グリルグランド（洋食ブランチ） | 60分 | — |
-| 11:50 | とんかつ とみ家（散策ついでに） | 40分 | 徒歩 |
-| 12:40 | 東京ソラマチ到着 | — | 徒歩15分 |
-| 13:00 | 鼎泰豊 or だるま（ランチ） | 60分 | 7Fエレベーター |
-| 14:15 | もんじゃ まぐろ家（月島） | 60分 | 都営大江戸線 月島駅 |
-| 15:30 | 月島もんじゃストリート散策 | 30分 | — |
-| 16:00 | 月島駅 解散 | — | — |
-| ★夕食追加 | ちゃんこ 霧島（両国） | 90分 | 都営大江戸線 両国駅 |
-
----
-
-
----
-
-## 季節ごとの訪問ポイント
-
-| 季節 | 見どころ | 注意点 |
-|------|----------|--------|
-| 春（3〜5月） | 隅田川の桜。浅草寺周辺が特に映える | 三社祭（5月第3週）は混雑ピーク |
-| 夏（6〜8月） | 隅田川花火大会（7月末）、浅草サンバカーニバル | 熱中症対策必須 |
-| 秋（9〜11月） | 観光シーズン。スカイツリーと紅葉のコラボ | 週末は外国人観光客で混雑 |
-| 冬（12〜2月） | 空いていてゆったり。もんじゃ・ちゃんこが染みる季節 | 年末はスカイツリー周辺が混雑 |
-
----
-
-## 持ち物チェックリスト
-
-- [ ] Suica / PASMO（都営地下鉄1日乗車券はカード購入可）
-- [ ] 動きやすい服装（もんじゃで油はねあり）
-- [ ] カメラ（スカイツリー・浅草寺は撮影スポット多数）
-- [ ] 水分（浅草〜スカイツリー間は炎天下の徒歩あり）
+</div>

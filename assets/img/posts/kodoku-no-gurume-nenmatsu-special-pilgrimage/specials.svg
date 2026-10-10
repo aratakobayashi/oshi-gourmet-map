@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 984" width="420" height="984" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="984" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">スペシャル13本と巡れるお店</text>
+<text x="20" y="66" font-size="12" fill="#6B6258">放送順に13本。色は 大晦日・お正月・夏</text>
+<rect x="20" y="96" width="64" height="58" rx="10" fill="#0e7490"/>
+<text x="52" y="121" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2014</text>
+<text x="52" y="141" font-size="12" text-anchor="middle" fill="#fff">夏</text>
+<rect x="92" y="96" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="120" font-size="14.5" font-weight="800" fill="#241F1A">真夏の博多出張</text>
+<text x="104" y="141" font-size="12.5" fill="#0e7490">福岡（博多・中洲）</text>
+<text x="388" y="120" font-size="15" font-weight="800" text-anchor="end" fill="#0e7490">2軒</text>
+<rect x="20" y="162" width="64" height="58" rx="10" fill="#b45309"/>
+<text x="52" y="187" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2016</text>
+<text x="52" y="207" font-size="12" text-anchor="middle" fill="#fff">お正月</text>
+<rect x="92" y="162" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="186" font-size="14.5" font-weight="800" fill="#241F1A">真冬の北海道・旭川出張</text>
+<text x="104" y="207" font-size="12.5" fill="#b45309">北海道 旭川</text>
+<text x="388" y="186" font-size="15" font-weight="800" text-anchor="end" fill="#b45309">2軒</text>
+<rect x="20" y="228" width="64" height="58" rx="10" fill="#0e7490"/>
+<text x="52" y="253" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2016</text>
+<text x="52" y="273" font-size="12" text-anchor="middle" fill="#fff">夏</text>
+<rect x="92" y="228" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="252" font-size="14.5" font-weight="800" fill="#241F1A">真夏の東北・宮城出張</text>
+<text x="104" y="273" font-size="12.5" fill="#0e7490">宮城 仙台・女川</text>
+<text x="388" y="252" font-size="15" font-weight="800" text-anchor="end" fill="#0e7490">2軒</text>
+<rect x="20" y="294" width="64" height="58" rx="10" fill="#b45309"/>
+<text x="52" y="319" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2017</text>
+<text x="52" y="339" font-size="12" text-anchor="middle" fill="#fff">お正月</text>
+<rect x="92" y="294" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="318" font-size="14.5" font-weight="800" fill="#241F1A">井之頭五郎の長い一日</text>
+<text x="104" y="339" font-size="12.5" fill="#b45309">中野・千葉 津田沼</text>
+<text x="388" y="318" font-size="15" font-weight="800" text-anchor="end" fill="#b45309">2軒</text>
+<rect x="20" y="360" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="385" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2017</text>
+<text x="52" y="405" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="360" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="384" font-size="14.5" font-weight="800" fill="#241F1A">食べ納め！瀬戸内出張</text>
+<text x="104" y="405" font-size="12.5" fill="#92400e">香川・愛媛・広島・千葉 成田</text>
+<text x="388" y="384" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">4軒</text>
+<rect x="20" y="426" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="451" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2018</text>
+<text x="52" y="471" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="426" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="450" font-size="14.5" font-weight="800" fill="#241F1A">京都・名古屋出張</text>
+<text x="104" y="471" font-size="12.5" fill="#92400e">京都・名古屋</text>
+<text x="388" y="450" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">3軒</text>
+<rect x="20" y="492" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="517" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2019</text>
+<text x="52" y="537" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="492" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="516" font-size="14.5" font-weight="800" fill="#241F1A">成田〜福岡〜釜山 弾丸出張</text>
+<text x="104" y="537" font-size="12.5" fill="#92400e">成田・福岡・韓国 釜山</text>
+<text x="388" y="516" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">4軒</text>
+<rect x="20" y="558" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="583" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2020</text>
+<text x="52" y="603" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="558" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="582" font-size="14.5" font-weight="800" fill="#241F1A">孤独の花火大作戦</text>
+<text x="104" y="603" font-size="12.5" fill="#92400e">川崎・埼玉 秩父</text>
+<text x="388" y="582" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">2軒</text>
+<rect x="20" y="624" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="649" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2021</text>
+<text x="52" y="669" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="624" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="648" font-size="14.5" font-weight="800" fill="#241F1A">絶景絶品・年忘れロードムービー</text>
+<text x="104" y="669" font-size="12.5" fill="#92400e">舞鶴・丹波篠山・三重・静岡・墨田</text>
+<text x="388" y="648" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">7軒</text>
+<rect x="20" y="690" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="715" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2022</text>
+<text x="52" y="735" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="690" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="714" font-size="14.5" font-weight="800" fill="#241F1A">カニの使いはあらたいへん</text>
+<text x="104" y="735" font-size="12.5" fill="#92400e">北海道（苫小牧〜小樽）</text>
+<text x="388" y="714" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">5軒</text>
+<rect x="20" y="756" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="781" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2023</text>
+<text x="52" y="801" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="756" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="780" font-size="14.5" font-weight="800" fill="#241F1A">南へ逃避行</text>
+<text x="104" y="801" font-size="12.5" fill="#92400e">沖縄・台湾 台北</text>
+<text x="388" y="780" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">5軒</text>
+<rect x="20" y="822" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="847" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2024</text>
+<text x="52" y="867" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="822" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="846" font-size="14.5" font-weight="800" fill="#241F1A">太平洋から日本海 五郎、北へ</text>
+<text x="104" y="867" font-size="12.5" fill="#92400e">日野・長野 飯田・石川 穴水</text>
+<text x="388" y="846" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">3軒</text>
+<rect x="20" y="888" width="64" height="58" rx="10" fill="#92400e"/>
+<text x="52" y="913" font-size="16" font-weight="800" text-anchor="middle" fill="#fff">2025</text>
+<text x="52" y="933" font-size="12" text-anchor="middle" fill="#fff">大晦日</text>
+<rect x="92" y="888" width="308" height="58" rx="10" fill="#fff" stroke="#E2D9CC"/>
+<text x="104" y="912" font-size="14.5" font-weight="800" fill="#241F1A">おかわりは、五郎セルフで</text>
+<text x="104" y="933" font-size="12.5" fill="#92400e">新潟 佐渡・山形 米沢・千葉 旭</text>
+<text x="388" y="912" font-size="15" font-weight="800" text-anchor="end" fill="#92400e">4軒</text>
+<text x="20" y="972" font-size="12" fill="#6B6258">放送日・番組名はTMDBより。行き先と軒数はこのサイトのデータ</text>
+</svg>

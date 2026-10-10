@@ -153,10 +153,10 @@ faq:
 <h2>同じチェーンに、別のグループが</h2>
 <p>店舗は別々でも、同じ看板のお店に何組も訪れています。推しどうしの「同じもの」を食べ比べられるのは、チェーン店ならではです。</p>
 <ul class="pf-works">
-  <li><span class="k">鳥貴族</span><div><b>鳥貴族 大久保駅西店</b><span>=LOVE（2024年8月）人生初の鳥貴族でひたすら爆食【トリキ】（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
+  <li><span class="k">鳥貴族</span><div><b>鳥貴族 大久保駅西店</b><span>=LOVE（2024年1月）人生初の鳥貴族でひたすら爆食【トリキ】（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
   <li><span class="k">鳥貴族</span><div><b>鳥貴族 新宿小滝橋通り店</b><span>≒JOY（2024年9月）【鳥貴族】メンバーの大好きなメニューからニアジョイ最推し3品を決めよう！！</span></div></li>
   <li><span class="k">鳥貴族</span><div><b>鳥貴族 新宿東口店</b><span>SixTONES【無限シリーズ~焼き鳥】オレたち…永遠に食える！</span></div></li>
-  <li><span class="k">串カツ<br>田中</span><div><b>串カツ田中 代々木上原店</b><span>=LOVE（2024年8月）念願の串カツ田中、100本目指して食べにきた。（みりにゃと申します。）</span></div></li>
+  <li><span class="k">串カツ<br>田中</span><div><b>串カツ田中 代々木上原店</b><span>=LOVE（2024年2月）念願の串カツ田中、100本目指して食べにきた。（みりにゃと申します。）</span></div></li>
   <li><span class="k">串カツ<br>田中</span><div><b>串カツ田中 有楽町店</b><span>≒JOY（2025年10月）【爆食】串カツ田中で食べ放題！好きなだけ食べてみたらすごい本数に・・・！？</span></div></li>
   <li><span class="k">ざうお</span><div><b>釣船茶屋 ざうお 新宿店</b><span>亀梨和也（2024年5月）【大漁】なにわ男子 高橋恭平と釣りができる居酒屋で釣って食べまくる！／アワビ、サザエ</span></div></li>
   <li><span class="k">ざうお</span><div><b>釣船茶屋ざうお 渋谷店</b><span>≠ME（2025年5月）【大漁】自分で釣ってすぐ食べる！釣りができるお店に行ってみたら楽しすぎた</span></div></li>
@@ -188,11 +188,11 @@ faq:
 <h2>=LOVE：赤羽・高円寺・浅草のはしご酒</h2>
 <p>諸橋沙夏さんのはしご酒の回を中心に、公式チャンネル「イコラブ ノイミー ニアジョイ チャンネル」や大谷映美里さんのチャンネルに登場したお店です。</p>
 <ul class="pf-works">
-  <li><span class="k">2024<br>8月</span><div><b>赤羽 もつ焼のんき・やきとん 大王 赤羽店</b><span>【赤羽】昼飲みで念願のはしご酒してきました最高！！！</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>赤鬼・情熱居酒屋じゃじゃ馬（いわき）</b><span>【念願】地元ではしご酒、最高に楽しみすぎてしまいました</span></div></li>
+  <li><span class="k">2024<br>6月</span><div><b>赤羽 もつ焼のんき・やきとん 大王 赤羽店</b><span>【赤羽】昼飲みで念願のはしご酒してきました最高！！！</span></div></li>
+  <li><span class="k">2024<br>7月</span><div><b>赤鬼・情熱居酒屋じゃじゃ馬（いわき）</b><span>【念願】地元ではしご酒、最高に楽しみすぎてしまいました</span></div></li>
   <li><span class="k">2024<br>12月</span><div><b>あちらぼ・やきとん長良・まんまじぃま・串カツ玩具-GANG-</b><span>【はしご酒】高円寺で飲むお酒がとにかく最高すぎました</span></div></li>
   <li><span class="k">2025<br>4月</span><div><b>酒処えびす</b><span>【はしご酒】現役アイドルが浅草ホッピー通りでガチ飲みしたら素で楽しみ過ぎてしまいました。</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>あとむ（広島）</b><span>【Vlog】ふたりで山本杏奈の地元 広島に行ってきました！【マツダ スタジアム】</span></div></li>
+  <li><span class="k">2024<br>6月</span><div><b>あとむ（広島）</b><span>【Vlog】ふたりで山本杏奈の地元 広島に行ってきました！【マツダ スタジアム】</span></div></li>
   <li><span class="k">2024<br>12月</span><div><b>Litty</b><span>【美容室Vlog】音嶋莉沙がこだわりの触覚をついにカット︎ドキドキのイメチェン体験！</span></div></li>
   <li><span class="k">2025<br>2月</span><div><b>えどもんど中野</b><span>【二郎系ラーメン】ニンニクアブラは魔法の呪文【えどもんど】（みりにゃと申します。）</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>お肴野郎 清介（熱海）</b><span>熱海1泊2日旅行の完全版【ナイトルーティンも紹介するよ】（みりにゃと申します。）</span></div></li>
@@ -207,7 +207,7 @@ faq:
   <li><span class="k">2026<br>1月</span><div><b>俺の割烹 炉ばた 恵比寿</b><span>Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？／フォアグラとトリュフの土鍋ご飯、蟹といくらの土鍋ご飯、大トロ鰯原始焼き、大海老原始焼き</span></div></li>
   <li><span class="k">2026<br>4月</span><div><b>浅草むぎとろ本店</b><span>Snow Man【むぎとろを食べたい！】すのちゅーぶ初の飲酒！？</span></div></li>
   <li><span class="k">2019<br>10月</span><div><b>串焼げん 江戸川橋店</b><span>Snow Man【絶品串焼き】渡辺翔太の食べたいものは？（ジュニアCHANNEL）</span></div></li>
-  <li><span class="k">2025<br>10月</span><div><b>フェイクマミー（池袋）</b><span>Snow Man／ドラマ『フェイクマミー』のロケ地（推しグルメ巡礼MAPのデータより）</span></div></li>
+  <li><span class="k">池袋</span><div><b>フェイクマミー（池袋）</b><span>Snow Man／ドラマ『フェイクマミー』のロケ地（推しグルメ巡礼MAPのデータより）</span></div></li>
   <li><span class="k">2022<br>12月</span><div><b>蘭蝶（大森）</b><span>SixTONES／【SixTONES】下北沢で朝メシ食おうと散歩したら...</span></div></li>
   <li><span class="k">2023<br>11月</span><div><b>浮曇（うきぐもり・伊香保）</b><span>SixTONES【帰ってきたアポなし旅~最終話~】ただメシ食って…温泉入る</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>くるみ 新栄店（名古屋）</b><span>SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！</span></div></li>

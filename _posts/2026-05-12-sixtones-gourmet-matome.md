@@ -112,7 +112,7 @@ faq:
 <div class="pf-quote"><p>動画を確かめられた21軒を並べると、「大食い」「忘年会・打ち上げ」「アポなし旅」の3つで半分以上。6人がそろって同じテーブルを囲む回が多いのが、SixTONESのグルメ動画の特徴です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食18軒、カフェ6軒、中華5軒、居酒屋5軒、ラーメン4軒、焼肉3軒、スイーツ3軒、その他3軒、食事2軒。東京都内は渋谷区6軒、墨田区5軒、新宿区・台東区3軒ずつなど。東京の外は横浜市中区3軒、金沢市2軒、シンガポール3軒など" width="420" height="998" loading="lazy" decoding="async"><figcaption>この記事の49軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。もんじゃのお店は和食に入れています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食18軒、カフェ6軒、中華5軒、居酒屋5軒、ラーメン4軒、焼肉3軒、スイーツ3軒、その他3軒、食事2軒。東京都内は渋谷区6軒、墨田区5軒、新宿区・台東区3軒ずつなど。東京の外は横浜市を中心に神奈川県4軒（ほかに藤沢市・鎌倉市が1軒ずつ）、シンガポール3軒、石川県金沢市2軒など" width="420" height="998" loading="lazy" decoding="async"><figcaption>この記事の49軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。もんじゃのお店は和食に入れています）</figcaption></figure>
 
 <h2>大食い企画：小籠包100皿・焼き鳥・八王子ラーメン</h2>
 <p>「無限シリーズ」などの大食い企画。6人で何皿、何本食べられるかに挑みます。</p>

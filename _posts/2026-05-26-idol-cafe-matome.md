@@ -199,9 +199,9 @@ faq:
 <p>3組の公式チャンネル「イコラブ ノイミー ニアジョイ チャンネル」やメンバー個人のチャンネルの動画に登場したお店です。横浜中華街、沖縄、広島・宮島と、旅のVlogが多いのも特徴です。</p>
 <ul class="pf-works">
   <li><span class="k">2023<br>6月</span><div><b>横浜博覧館（ガーデンテラスカフェ）</b><span>=LOVE／【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜♡【中華街旅#1】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>ガーデンテラスカフェ</b><span>=LOVE／【日常】中華街のカフェでひたすらお喋り♡占いにも行ったよー！！【きあまい】【中華街旅#2】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>カフェ＆ダイニング mateki（那覇）</b><span>=LOVE／【vlog】お仕事で沖縄に行かせていただきました（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
-  <li><span class="k">2025<br>6月</span><div><b>パスティス広尾ハウス</b><span>=LOVE／【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします【メイキング】</span></div></li>
+  <li><span class="k">2023<br>6月</span><div><b>ガーデンテラスカフェ</b><span>=LOVE／【日常】中華街のカフェでひたすらお喋り♡占いにも行ったよー！！【きあまい】【中華街旅#2】</span></div></li>
+  <li><span class="k">2022<br>2月</span><div><b>カフェ＆ダイニング mateki（那覇）</b><span>=LOVE／【vlog】お仕事で沖縄に行かせていただきました（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
+  <li><span class="k">2023<br>12月</span><div><b>パスティス広尾ハウス</b><span>=LOVE／【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします【メイキング】</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>GEBURA（宮島）</b><span>=LOVE／【ツアー翌日に】るんるん広島旅じゃけん！（チャンネル「イコラブのあんまい」）</span></div></li>
   <li><span class="k">2025<br>10月</span><div><b>COA GINZA</b><span>=LOVE／朝からみりにゃの美容DAYに密着してみた【肌治療 / 美容院】</span></div></li>
   <li><span class="k">新大久保</span><div><b>2D Cafe 新大久保店</b><span>=LOVE／新宿区百人町</span></div></li>
@@ -212,11 +212,11 @@ faq:
 {% include inline-shop-grid.html ids="equallove_002,equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_005,equallove_008,equallove_003,equallove_006" %}
 
 <ul class="pf-works">
-  <li><span class="k">2024<br>8月</span><div><b>猫カフェ MOCHA 原宿店</b><span>≠ME／【もふもふ】猫カフェデートしてきました♡【癒し】</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>SANRIO CAFE 池袋店</b><span>≠ME／サンリオカフェで食べ放題をした回</span></div></li>
+  <li><span class="k">2020<br>11月</span><div><b>猫カフェ MOCHA 原宿店</b><span>≠ME／【もふもふ】猫カフェデートしてきました♡【癒し】</span></div></li>
+  <li><span class="k">2023<br>3月</span><div><b>SANRIO CAFE 池袋店</b><span>≠ME／サンリオカフェで食べ放題をした回</span></div></li>
   <li><span class="k">2024<br>11月</span><div><b>タコライスcafe きじむなぁ デポアイランド店</b><span>≠ME／【Vlog】沖縄アメリカンビレッジで遊んできたよ〜（鈴木瞳美さんのチャンネル「わたしはすずき。」）</span></div></li>
   <li><span class="k">2024<br>11月</span><div><b>ブルーシールカフェ デポアイランド</b><span>≠ME／同じ沖縄のVlogから</span></div></li>
-  <li><span class="k">2024<br>8月</span><div><b>鳥のいるカフェ 千駄木店</b><span>≒JOY／【癒やし回と思ったら】あゆみんが鳥カフェに連れて行ってくれました【事件発生！？】</span></div></li>
+  <li><span class="k">2024<br>4月</span><div><b>鳥のいるカフェ 千駄木店</b><span>≒JOY／【癒やし回と思ったら】あゆみんが鳥カフェに連れて行ってくれました【事件発生！？】</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>Samoyed cafe AL 横浜中華街店</b><span>≒JOY／【Vlog】ももじゅり2人で中華街で遊んできました</span></div></li>
 </ul>
 {% include inline-shop-grid.html ids="notme-mocha-202408,notme-sanrio_cafe-202408,notme-cafe-202411,notme-b9e687dc-202411,neajoy-b1d5f8cd-202408,neajoy-samoyed_cafe_al-202509" %}
@@ -234,10 +234,10 @@ faq:
 <h2>Snow Man・SixTONES・King & Prince・なにわ男子</h2>
 <ul class="pf-works">
   <li><span class="k">2023<br>7月</span><div><b>mipig cafe 目黒店</b><span>Snow Man【可愛いブタちゃんと触れ合い】そこには癒し愛しかない</span></div></li>
-  <li><span class="k">2025<br>3月</span><div><b>JELLY JELLY CAFE 渋谷本店</b><span>Snow Man 話題！【ボードゲームカフェ】に行ってみた（ジュニアCHANNEL）</span></div></li>
+  <li><span class="k">2018<br>5月</span><div><b>JELLY JELLY CAFE 渋谷本店</b><span>Snow Man 話題！【ボードゲームカフェ】に行ってみた（ジュニアCHANNEL）</span></div></li>
   <li><span class="k">2025<br>11月</span><div><b>カフェ 武甲庵（秩父）</b><span>Snow Man／岩本照さんの秩父旅｜第一話｜特急ラビューで秩父へ（西武鉄道公式チャンネル）</span></div></li>
   <li><span class="k">2023<br>3月</span><div><b>Cafe &amp; Rotisserie LA COCORICO 横浜赤レンガ倉庫店</b><span>SixTONES／【SixTONES】MV撮影の合間に…カメラ回してみた!!</span></div></li>
-  <li><span class="k">2024<br>1月</span><div><b>蓬莱橋897.4茶屋（島田）</b><span>SixTONES／【６人ドライブ】北斗出身が静岡じゃなくグアムだったら？笑笑</span></div></li>
+  <li><span class="k">2024<br>6月</span><div><b>蓬莱橋897.4茶屋（島田）</b><span>SixTONES／【６人ドライブ】北斗出身が静岡じゃなくグアムだったら？笑笑</span></div></li>
   <li><span class="k">2023<br>1月</span><div><b>Café 1894</b><span>SixTONES／三菱一号館美術館の中のカフェ</span></div></li>
   <li><span class="k">2022<br>6月</span><div><b>ブーランジェリー&amp;カフェ マンマーノ</b><span>King & Prince『King&amp;Princeる。』当たり前レストラン</span></div></li>
   <li><span class="k">2022<br>10月</span><div><b>RACINES DONUT&amp;ICE CREAM</b><span>King & Prince『King&amp;Princeる。』当たり前レストラン</span></div></li>
