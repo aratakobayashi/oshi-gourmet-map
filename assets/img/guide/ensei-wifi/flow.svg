@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 650" width="420" height="650" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="650" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">ポケットWi-Fiを借りる流れ</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">各サービスの公式サイトの案内（2026年10月10日確認）</text>
+<rect x="20" y="88" width="380" height="244" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="36" y="118" font-size="17" font-weight="800" fill="#0891b2" text-anchor="start">宅配で受け取る（例：WiFi GO!）</text>
+<text x="36" y="140" font-size="13" font-weight="400" fill="#6B6258" text-anchor="start">家や宿泊先など、指定した場所に届く</text>
+<rect x="36" y="158" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="175" r="11" fill="#0891b2"/>
+<text x="56" y="180" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="76" y="180" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">申込</tspan>　Webで日程を選ぶ</text>
+<path d="M56,194 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="200" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="217" r="11" fill="#0891b2"/>
+<text x="56" y="222" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="76" y="222" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">受取</tspan>　宅急便で届く</text>
+<path d="M56,236 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="242" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="259" r="11" fill="#0891b2"/>
+<text x="56" y="264" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="76" y="264" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">使う</tspan>　電源を入れて接続</text>
+<path d="M56,278 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="284" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="301" r="11" fill="#0891b2"/>
+<text x="56" y="306" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="76" y="306" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">返却</tspan>　同封の袋でポストへ</text>
+<rect x="20" y="344" width="380" height="244" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="36" y="374" font-size="17" font-weight="800" fill="#0891b2" text-anchor="start">機械で受け取る（例：WiFiBOX）</text>
+<text x="36" y="396" font-size="13" font-weight="400" fill="#6B6258" text-anchor="start">空港や駅などに置かれた受取機を使う</text>
+<rect x="36" y="414" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="431" r="11" fill="#0891b2"/>
+<text x="56" y="436" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="76" y="436" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">予約</tspan>　Webで予約</text>
+<path d="M56,450 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="456" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="473" r="11" fill="#0891b2"/>
+<text x="56" y="478" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="76" y="478" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">受取</tspan>　受取機でQRを読む</text>
+<path d="M56,492 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="498" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="515" r="11" fill="#0891b2"/>
+<text x="56" y="520" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="76" y="520" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">使う</tspan>　電源を入れて接続</text>
+<path d="M56,534 l0,6" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="36" y="540" width="348" height="34" rx="10" fill="#E0F4F8"/>
+<circle cx="56" cy="557" r="11" fill="#0891b2"/>
+<text x="56" y="562" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="76" y="562" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start"><tspan font-weight="800">返却</tspan>　どこのWiFiBOXでも</text>
+<text x="210" y="612" font-size="13" font-weight="700" fill="#6B6258" text-anchor="middle">返却の期限や送料のきまりは、</text>
+<text x="210" y="632" font-size="13" font-weight="700" fill="#6B6258" text-anchor="middle">申し込む前に各社の公式サイトで確認を</text>
+</svg>

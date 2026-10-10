@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 540" width="420" height="540" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="540" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">遠征でスマホを使う場面</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">ライブの日は、通信と電池の両方が頼り</text>
+<rect x="20" y="96" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="56" cy="134" r="22" fill="#E0F4F8"/>
+<rect x="42" y="125" width="28" height="18" rx="3" fill="#0891b2"/><line x1="60" y1="125" x2="60" y2="143" stroke="#fff" stroke-width="2" stroke-dasharray="3 2"/>
+<text x="88" y="140" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">チケット</text>
+<text x="36" y="182" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">電子チケットを</text>
+<text x="36" y="202" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">入場口で表示</text>
+<rect x="214" y="96" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="250" cy="134" r="22" fill="#E0F4F8"/>
+<rect x="236" y="125" width="28" height="19" rx="3" fill="#0891b2"/><rect x="236" y="130" width="28" height="4" fill="#fff"/>
+<text x="282" y="140" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">支払い</text>
+<text x="230" y="182" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">キャッシュレスの</text>
+<text x="230" y="202" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">会場でグッズ・飲食</text>
+<rect x="20" y="232" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="56" cy="270" r="22" fill="#E0F4F8"/>
+<path d="M56,284 C44,270 46,256 56,256 C66,256 68,270 56,284Z" fill="#0891b2"/><circle cx="56" cy="266" r="4" fill="#fff"/>
+<text x="88" y="276" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">地図</text>
+<text x="36" y="318" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">駅から会場、</text>
+<text x="36" y="338" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">宿までの道を調べる</text>
+<rect x="214" y="232" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="250" cy="270" r="22" fill="#E0F4F8"/>
+<rect x="238" y="257" width="24" height="22" rx="5" fill="#0891b2"/><rect x="242" y="261" width="16" height="7" rx="1.5" fill="#fff"/><circle cx="244" cy="274" r="2" fill="#fff"/><circle cx="256" cy="274" r="2" fill="#fff"/><line x1="242" y1="280" x2="238" y2="285" stroke="#0891b2" stroke-width="2.5"/><line x1="258" y1="280" x2="262" y2="285" stroke="#0891b2" stroke-width="2.5"/>
+<text x="282" y="276" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">乗換</text>
+<text x="230" y="318" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">帰りの電車や</text>
+<text x="230" y="338" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">バスの時刻を確かめる</text>
+<rect x="20" y="368" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="56" cy="406" r="22" fill="#E0F4F8"/>
+<path d="M42,395 h28 a3,3 0 0 1 3,3 v14 a3,3 0 0 1 -3,3 h-16 l-7,6 v-6 h-5 a3,3 0 0 1 -3,-3 v-14 a3,3 0 0 1 3,-3z" fill="#0891b2"/>
+<text x="88" y="412" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">連絡</text>
+<text x="36" y="454" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">同行者と</text>
+<text x="36" y="474" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">待ち合わせ・連絡</text>
+<rect x="214" y="368" width="186" height="124" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<circle cx="250" cy="406" r="22" fill="#E0F4F8"/>
+<rect x="238" y="394" width="24" height="26" rx="2" fill="#0891b2"/><rect x="243" y="399" width="5" height="5" fill="#fff"/><rect x="252" y="399" width="5" height="5" fill="#fff"/><rect x="243" y="408" width="5" height="5" fill="#fff"/><rect x="252" y="408" width="5" height="5" fill="#fff"/>
+<text x="282" y="412" font-size="16" font-weight="800" fill="#0891b2" text-anchor="start">宿・予約</text>
+<text x="230" y="454" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ホテルや交通の</text>
+<text x="230" y="474" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">予約画面を出す</text>
+<text x="210" y="524" font-size="13" font-weight="700" fill="#6B6258" text-anchor="middle">どれも、通信がないと出せない画面があります</text>
+</svg>
