@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 508" width="420" height="508" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="508" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推し活のお金は3つに分ける</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">金額ではなく「分け方」の例（編集部のおすすめ）</text>
+<rect x="20" y="90" width="380" height="58" rx="12" fill="#475569" stroke="#475569" stroke-width="1"/>
+<g><circle cx="50" cy="119" r="12" fill="#fff"/><circle cx="50" cy="119" r="8.5" fill="none" stroke="#475569" stroke-width="1.6"/><path d="M46 114L50 119L54 114M50 119V125M46 120H54M46 123H54" stroke="#475569" stroke-width="1.8" fill="none" stroke-linecap="round"/></g>
+<text x="76" y="116" font-size="16" font-weight="800" fill="#fff" text-anchor="start">給料日に、先に推し活の分を分ける</text>
+<text x="76" y="136" font-size="14" font-weight="400" fill="#fff" text-anchor="start">残りで使うより、続けやすい</text>
+<line x1="210" y1="151" x2="210" y2="164" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,162 217,162 210,171" fill="#475569"/>
+<rect x="20" y="176" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="206" r="18" fill="#475569"/>
+<g><rect x="38" y="197" width="24" height="21" rx="4" fill="#fff"/><rect x="38" y="197" width="24" height="6" rx="2" fill="#fff"/><rect x="43" y="193" width="3" height="7" rx="1.5" fill="#fff"/><rect x="54" y="193" width="3" height="7" rx="1.5" fill="#fff"/><rect x="42" y="205" width="4" height="4" rx="1" fill="#475569"/><rect x="48" y="205" width="4" height="4" rx="1" fill="#475569"/><rect x="54" y="205" width="4" height="4" rx="1" fill="#475569"/><rect x="42" y="211" width="4" height="4" rx="1" fill="#475569"/><rect x="48" y="211" width="4" height="4" rx="1" fill="#475569"/><rect x="54" y="211" width="4" height="4" rx="1" fill="#475569"/></g>
+<text x="80" y="208" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">毎月決まって出る</text>
+<rect x="346.0" y="191" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="367.0" y="207" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">固定</text>
+<circle cx="86" cy="227" r="2.6" fill="#475569"/>
+<text x="95" y="232" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ファンクラブの会費</text>
+<circle cx="86" cy="248" r="2.6" fill="#475569"/>
+<text x="95" y="253" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">動画・音楽の配信サービス</text>
+<rect x="20" y="274" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="304" r="18" fill="#475569"/>
+<g><path d="M45 299V296a5 5 0 0 1 10 0v3" fill="none" stroke="#fff" stroke-width="2.4"/><path d="M39 299H61L59 316H41z" fill="#fff"/></g>
+<text x="80" y="306" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">その月の楽しみ</text>
+<rect x="346.0" y="289" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="367.0" y="305" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">変動</text>
+<circle cx="86" cy="325" r="2.6" fill="#475569"/>
+<text x="95" y="330" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">グッズ・CD・映像作品</text>
+<circle cx="86" cy="346" r="2.6" fill="#475569"/>
+<text x="95" y="351" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">映画や舞台、コラボカフェ</text>
+<rect x="20" y="372" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="402" r="18" fill="#475569"/>
+<g><rect x="40" y="390" width="20" height="20" rx="5" fill="#fff"/><rect x="44" y="394" width="12" height="6" rx="1.5" fill="#475569"/><circle cx="45" cy="405" r="1.8" fill="#475569"/><circle cx="55" cy="405" r="1.8" fill="#475569"/><path d="M44 412l-3 4M56 412l3 4" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></g>
+<text x="80" y="404" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">積み立てておく</text>
+<rect x="346.0" y="387" width="42.0" height="22" rx="11" fill="#E2E8F0"/>
+<text x="367.0" y="403" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">将来</text>
+<circle cx="86" cy="423" r="2.6" fill="#475569"/>
+<text x="95" y="428" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">遠征の交通・宿・チケット</text>
+<circle cx="86" cy="444" r="2.6" fill="#475569"/>
+<text x="95" y="449" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">当選してからあわてない</text>
+<text x="210" y="484" font-size="14" font-weight="700" fill="#475569" text-anchor="middle">使っていないサービスは、ときどき見直す</text>
+</svg>

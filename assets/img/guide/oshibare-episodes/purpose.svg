@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 538" width="420" height="538" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="538" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">目的別：使えるSNSの設定</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">X・Instagramの公式ヘルプで確かめた機能</text>
+<rect x="20" y="90" width="380" height="116" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="116" r="17" fill="#db2777"/>
+<g><path d="M42 113V109a6 6 0 0 1 12 0v4" fill="none" stroke="#fff" stroke-width="2.6"/><rect x="38" y="113" width="20" height="15" rx="4" fill="#fff"/><circle cx="48" cy="120" r="2.4" fill="#db2777"/></g>
+<text x="76" y="122" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">知り合いに見つかりにくく</text>
+<circle cx="82" cy="143" r="2.6" fill="#db2777"/>
+<text x="92" y="148" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">X：ポストを非公開にする</text>
+<circle cx="82" cy="165" r="2.6" fill="#db2777"/>
+<text x="92" y="170" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">X：メール・電話番号で見つかる設定をオフ</text>
+<circle cx="82" cy="187" r="2.6" fill="#db2777"/>
+<text x="92" y="192" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">Instagram：非公開アカウント</text>
+<rect x="20" y="216" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="242" r="17" fill="#db2777"/>
+<g><path d="M35 242Q48 230 61 242Q48 254 35 242z" fill="#fff"/><circle cx="48" cy="242" r="4.5" fill="#db2777"/><line x1="37" y1="252" x2="59" y2="232" stroke="#db2777" stroke-width="5"/><line x1="37" y1="252" x2="59" y2="232" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="76" y="248" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">特定の人に見せない</text>
+<circle cx="82" cy="269" r="2.6" fill="#db2777"/>
+<text x="92" y="274" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">Instagram：ストーリーズを非表示</text>
+<circle cx="82" cy="291" r="2.6" fill="#db2777"/>
+<text x="92" y="296" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">Instagram：親しい友達だけに公開</text>
+<rect x="20" y="320" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="346" r="17" fill="#db2777"/>
+<g><path d="M37 342H43L50 335V357L43 350H37z" fill="#fff"/><path d="M54 341L61 351M61 341L54 351" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="76" y="352" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">自分が見たくない</text>
+<circle cx="82" cy="373" r="2.6" fill="#db2777"/>
+<text x="92" y="378" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">X：ミュート・キーワードのミュート</text>
+<circle cx="82" cy="395" r="2.6" fill="#db2777"/>
+<text x="92" y="400" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">Instagram：投稿・ストーリーズのミュート</text>
+<rect x="20" y="424" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="48" cy="450" r="17" fill="#db2777"/>
+<g><circle cx="48" cy="450" r="11" fill="none" stroke="#fff" stroke-width="3"/><line x1="40.5" y1="457.5" x2="55.5" y2="442.5" stroke="#fff" stroke-width="3"/></g>
+<text x="76" y="456" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">やり取りしたくない</text>
+<circle cx="82" cy="477" r="2.6" fill="#db2777"/>
+<text x="92" y="482" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">X：ブロック</text>
+<circle cx="82" cy="499" r="2.6" fill="#db2777"/>
+<text x="92" y="504" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">Instagram：制限・ブロック</text>
+</svg>

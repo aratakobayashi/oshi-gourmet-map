@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 512" width="420" height="512" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="512" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推し活が知られたときの考え方</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">話すかどうかは、自分で決めてよい（編集部の考え）</text>
+<rect x="90" y="90" width="240" height="50" rx="12" fill="#db2777" stroke="#db2777" stroke-width="1"/>
+<text x="210" y="121" font-size="16" font-weight="800" fill="#fff" text-anchor="middle">推し活が周りに知られた</text>
+<line x1="210" y1="143" x2="210" y2="156" stroke="#db2777" stroke-width="3" stroke-linecap="round"/>
+<polygon points="203,154 217,154 210,163" fill="#db2777"/>
+<rect x="110" y="166" width="200" height="44" rx="12" fill="#fff" stroke="#db2777" stroke-width="2"/>
+<text x="210" y="194" font-size="16" font-weight="800" fill="#db2777" text-anchor="middle">もっと話したい？</text>
+<path d="M210 210 V222 H112 V236" fill="none" stroke="#db2777" stroke-width="3"/>
+<path d="M210 222 H308 V236" fill="none" stroke="#db2777" stroke-width="3"/>
+<polygon points="105,234 119,234 112,243" fill="#db2777"/><polygon points="301,234 315,234 308,243" fill="#db2777"/>
+<rect x="20" y="246" width="184" height="136" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="34.0" y="258" width="66.0" height="22" rx="11" fill="#FCE7F3"/>
+<text x="67.0" y="274" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">話したい</text>
+<text x="36" y="306" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">好きなところを一言で</text>
+<text x="36" y="327" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">伝えてみる</text>
+<text x="36" y="348" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">おすすめの1曲・1本を</text>
+<text x="36" y="369" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">紹介するのも手</text>
+<rect x="216" y="246" width="184" height="136" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="230.0" y="258" width="102.0" height="22" rx="11" fill="#FCE7F3"/>
+<text x="281.0" y="274" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">話さなくていい</text>
+<text x="232" y="306" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">「趣味の一つ」と</text>
+<text x="232" y="327" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">短く答えればOK</text>
+<text x="232" y="348" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">話題を変えても</text>
+<text x="232" y="369" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">失礼ではない</text>
+<rect x="20" y="396" width="380" height="96" rx="12" fill="#FCE7F3" stroke="#FCE7F3" stroke-width="1"/>
+<text x="36" y="424" font-size="15" font-weight="800" fill="#db2777" text-anchor="start">どちらの場合も</text>
+<circle cx="42" cy="443" r="3" fill="#db2777"/>
+<text x="52" y="448" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手の趣味や好きなものも大切にする</text>
+<circle cx="42" cy="465" r="3" fill="#db2777"/>
+<text x="52" y="470" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ほかの人の推し活を勝手に広めない</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 488" width="420" height="488" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="488" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推し活の楽しみ方いろいろ</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">どれから始めても、組み合わせてもOK</text>
+<rect x="20" y="90" width="184" height="118" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="122" r="20" fill="#2563eb"/>
+<g><path d="M37 122Q50 110 63 122Q50 134 37 122z" fill="#fff"/><circle cx="50" cy="122" r="5" fill="#2563eb"/><circle cx="50" cy="122" r="2" fill="#fff"/></g>
+<text x="80" y="128" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">見る</text>
+<text x="36" y="164" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">配信・番組・動画</text>
+<text x="36" y="185" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">出演作を追いかける</text>
+<rect x="216" y="90" width="184" height="118" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="246" cy="122" r="20" fill="#2563eb"/>
+<g><rect x="249" y="110" width="3" height="18" fill="#fff"/><path d="M249 110L258 114V118L252 116z" fill="#fff"/><ellipse cx="245" cy="129" rx="6" ry="4.5" fill="#fff"/></g>
+<text x="276" y="128" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">聴く</text>
+<text x="232" y="164" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">曲を聴きこむ</text>
+<text x="232" y="185" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ライブ映像も楽しむ</text>
+<rect x="20" y="220" width="184" height="118" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="252" r="20" fill="#2563eb"/>
+<g transform="translate(36,243)"><path d="M0 0h28v6a3 3 0 0 0 0 6v6H0v-6a3 3 0 0 0 0-6z" fill="#fff"/><line x1="18" y1="2" x2="18" y2="16" stroke="#2563eb" stroke-width="1.6" stroke-dasharray="2 2"/></g>
+<text x="80" y="258" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">行く</text>
+<text x="36" y="294" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ライブ・イベント</text>
+<text x="36" y="315" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">決まりは主催者の案内で</text>
+<rect x="216" y="220" width="184" height="118" rx="12" fill="#DBEAFE" stroke="#2563eb" stroke-width="2"/>
+<circle cx="246" cy="252" r="20" fill="#2563eb"/>
+<g><path d="M233 251H259A13 12 0 0 1 233 251z" fill="#fff"/><line x1="244" y1="249" x2="254" y2="238" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><line x1="249" y1="249" x2="258" y2="240" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="276" y="258" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">食べる</text>
+<text x="232" y="294" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">推しが行ったお店へ</text>
+<text x="232" y="315" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">一人でも入りやすい</text>
+<rect x="20" y="350" width="184" height="118" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="382" r="20" fill="#2563eb"/>
+<g><path d="M45 377V374a5 5 0 0 1 10 0v3" fill="none" stroke="#fff" stroke-width="2.4"/><path d="M39 377H61L59 394H41z" fill="#fff"/></g>
+<text x="80" y="388" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">集める</text>
+<text x="36" y="424" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">公式グッズ</text>
+<text x="36" y="445" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">使うものから選ぶ</text>
+<rect x="216" y="350" width="184" height="118" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="246" cy="382" r="20" fill="#2563eb"/>
+<g><path d="M236 392L238 385L252 371L257 376L243 390z" fill="#fff"/><line x1="234" y1="395" x2="248" y2="395" stroke="#fff" stroke-width="2" stroke-linecap="round"/></g>
+<text x="276" y="388" font-size="17" font-weight="800" fill="#241F1A" text-anchor="start">書く</text>
+<text x="232" y="424" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">感想や記録を残す</text>
+<text x="232" y="445" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">SNSは公開範囲を確認</text>
+</svg>

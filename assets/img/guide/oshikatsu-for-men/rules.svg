@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 388" width="420" height="388" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="388" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">推し活のきほんルール</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">国民生活センター・総務省の注意喚起と主催者の案内から</text>
+<rect x="20" y="90" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="108.0" width="26" height="26" rx="6" fill="#fff" stroke="#2563eb" stroke-width="2.4"/>
+<path d="M40 121.0L46 128.0L59 114.0" stroke="#2563eb" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="117" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">チケットは公式の販売ルートで</text>
+<text x="76" y="139" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">主催者・公式プレイガイド・ファンクラブ</text>
+<rect x="20" y="162" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="180.0" width="26" height="26" rx="6" fill="#fff" stroke="#2563eb" stroke-width="2.4"/>
+<path d="M40 193.0L46 200.0L59 186.0" stroke="#2563eb" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="189" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">転売チケットは買わない</text>
+<text x="76" y="211" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">本人確認などで入場できないことがある</text>
+<rect x="20" y="234" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="252.0" width="26" height="26" rx="6" fill="#fff" stroke="#2563eb" stroke-width="2.4"/>
+<path d="M40 265.0L46 272.0L59 258.0" stroke="#2563eb" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="261" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">撮影・録音は主催者の決まりに</text>
+<text x="76" y="283" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">公演ごとに決まりが違う</text>
+<rect x="20" y="306" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="324.0" width="26" height="26" rx="6" fill="#fff" stroke="#2563eb" stroke-width="2.4"/>
+<path d="M40 337.0L46 344.0L59 330.0" stroke="#2563eb" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="333" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">SNSは公開範囲を確かめる</text>
+<text x="76" y="355" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">写真の背景から場所がわかることも</text>
+</svg>
