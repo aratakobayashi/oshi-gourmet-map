@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 386" width="420" height="386" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="386" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 398" width="420" height="398" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="398" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">買う前の3つの質問</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">グッズや配信で迷ったときの編集部のチェック</text>
-<rect x="20" y="90" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="108.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
-<path d="M40 121.0L46 128.0L59 114.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="117" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">使う？ 飾る場所はある？</text>
-<text x="76" y="139" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">しまいこむだけにならないか</text>
-<rect x="20" y="162" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="180.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
-<path d="M40 193.0L46 200.0L59 186.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="189" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">今月の予算の中？</text>
-<text x="76" y="211" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">3つに分けた「楽しみ」の分から</text>
-<rect x="20" y="234" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="252.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
-<path d="M40 265.0L46 272.0L59 258.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="261" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">今しか買えない？</text>
-<text x="76" y="283" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">会場限定・受注期間などを確かめる</text>
-<rect x="20" y="316" width="380" height="50" rx="12" fill="#E2E8F0" stroke="#E2E8F0" stroke-width="1"/>
-<text x="210" y="347" font-size="16" font-weight="800" fill="#475569" text-anchor="middle">迷ったら、ひと晩おいてから決める</text>
+<rect x="20" y="90" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="110.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
+<path d="M40 123.0L46 130.0L59 116.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="119" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">使う？ 飾る場所はある？</text>
+<text x="76" y="141" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">しまいこむだけにならないか</text>
+<rect x="20" y="166" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="186.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
+<path d="M40 199.0L46 206.0L59 192.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="195" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">今月の予算の中？</text>
+<text x="76" y="217" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">3つに分けた「楽しみ」の分から</text>
+<rect x="20" y="242" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="262.0" width="26" height="26" rx="6" fill="#fff" stroke="#475569" stroke-width="2.4"/>
+<path d="M40 275.0L46 282.0L59 268.0" stroke="#475569" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="271" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">今しか買えない？</text>
+<text x="76" y="293" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">会場限定・受注期間などを確かめる</text>
+<rect x="20" y="328" width="380" height="50" rx="12" fill="#E2E8F0" stroke="#E2E8F0" stroke-width="1"/>
+<text x="210" y="359" font-size="16" font-weight="800" fill="#475569" text-anchor="middle">迷ったら、ひと晩おいてから決める</text>
 </svg>

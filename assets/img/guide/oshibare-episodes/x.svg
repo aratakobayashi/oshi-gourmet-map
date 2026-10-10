@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 513" width="420" height="513" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="513" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 537" width="420" height="537" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="537" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">Xで使える4つの設定</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">X ヘルプセンターの説明から（2026年10月確認）</text>
-<rect x="20" y="90" width="380" height="109" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="20" y="90" width="380" height="115" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
 <circle cx="50" cy="120" r="18" fill="#db2777"/>
 <g><path d="M44 117V113a6 6 0 0 1 12 0v4" fill="none" stroke="#fff" stroke-width="2.6"/><rect x="40" y="117" width="20" height="15" rx="4" fill="#fff"/><circle cx="50" cy="124" r="2.4" fill="#db2777"/></g>
 <text x="80" y="122" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ポストを非公開</text>
@@ -14,32 +14,32 @@
 <text x="95" y="167" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">新しいフォローは承認制になる</text>
 <circle cx="86" cy="183" r="2.6" fill="#db2777"/>
 <text x="95" y="188" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">非公開にする前のフォロワーは見られる</text>
-<rect x="20" y="209" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="239" r="18" fill="#db2777"/>
-<g><path d="M39 235H45L52 228V250L45 243H39z" fill="#fff"/><path d="M56 234L63 244M63 234L56 244" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
-<text x="80" y="241" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ミュート</text>
-<rect x="322.0" y="224" width="66.0" height="22" rx="11" fill="#FCE7F3"/>
-<text x="355.0" y="240" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">通知なし</text>
-<circle cx="86" cy="260" r="2.6" fill="#db2777"/>
-<text x="95" y="265" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手のポストを自分の画面から外す</text>
-<circle cx="86" cy="281" r="2.6" fill="#db2777"/>
-<text x="95" y="286" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ミュートしたことは相手にわからない</text>
-<rect x="20" y="307" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="337" r="18" fill="#db2777"/>
-<g><path d="M37 337Q50 325 63 337Q50 349 37 337z" fill="#fff"/><circle cx="50" cy="337" r="4.5" fill="#db2777"/><line x1="39" y1="347" x2="61" y2="327" stroke="#db2777" stroke-width="5"/><line x1="39" y1="347" x2="61" y2="327" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
-<text x="80" y="339" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">キーワードのミュート</text>
-<rect x="298.0" y="322" width="90.0" height="22" rx="11" fill="#FCE7F3"/>
-<text x="343.0" y="338" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">期間も選べる</text>
-<circle cx="86" cy="358" r="2.6" fill="#db2777"/>
-<text x="95" y="363" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">言葉やハッシュタグでポストを隠す</text>
-<circle cx="86" cy="379" r="2.6" fill="#db2777"/>
-<text x="95" y="384" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">検索結果には表示される</text>
-<rect x="20" y="405" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="435" r="18" fill="#db2777"/>
-<g><circle cx="50" cy="435" r="11" fill="none" stroke="#fff" stroke-width="3"/><line x1="42.5" y1="442.5" x2="57.5" y2="427.5" stroke="#fff" stroke-width="3"/></g>
-<text x="80" y="437" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ブロック</text>
-<circle cx="86" cy="456" r="2.6" fill="#db2777"/>
-<text x="95" y="461" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手はフォロー・返信・DMができない</text>
-<circle cx="86" cy="477" r="2.6" fill="#db2777"/>
-<text x="95" y="482" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">公開のポストは相手も見られる</text>
+<rect x="20" y="215" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="245" r="18" fill="#db2777"/>
+<g><path d="M39 241H45L52 234V256L45 249H39z" fill="#fff"/><path d="M56 240L63 250M63 240L56 250" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="80" y="247" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ミュート</text>
+<rect x="322.0" y="230" width="66.0" height="22" rx="11" fill="#FCE7F3"/>
+<text x="355.0" y="246" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">通知なし</text>
+<circle cx="86" cy="266" r="2.6" fill="#db2777"/>
+<text x="95" y="271" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手のポストを自分の画面から外す</text>
+<circle cx="86" cy="287" r="2.6" fill="#db2777"/>
+<text x="95" y="292" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ミュートしたことは相手にわからない</text>
+<rect x="20" y="319" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="349" r="18" fill="#db2777"/>
+<g><path d="M37 349Q50 337 63 349Q50 361 37 349z" fill="#fff"/><circle cx="50" cy="349" r="4.5" fill="#db2777"/><line x1="39" y1="359" x2="61" y2="339" stroke="#db2777" stroke-width="5"/><line x1="39" y1="359" x2="61" y2="339" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="80" y="351" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">キーワードのミュート</text>
+<rect x="298.0" y="334" width="90.0" height="22" rx="11" fill="#FCE7F3"/>
+<text x="343.0" y="350" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">期間も選べる</text>
+<circle cx="86" cy="370" r="2.6" fill="#db2777"/>
+<text x="95" y="375" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">言葉やハッシュタグでポストを隠す</text>
+<circle cx="86" cy="391" r="2.6" fill="#db2777"/>
+<text x="95" y="396" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">検索結果には表示される</text>
+<rect x="20" y="423" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="453" r="18" fill="#db2777"/>
+<g><circle cx="50" cy="453" r="11" fill="none" stroke="#fff" stroke-width="3"/><line x1="42.5" y1="460.5" x2="57.5" y2="445.5" stroke="#fff" stroke-width="3"/></g>
+<text x="80" y="455" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ブロック</text>
+<circle cx="86" cy="474" r="2.6" fill="#db2777"/>
+<text x="95" y="479" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手はフォロー・返信・DMができない</text>
+<circle cx="86" cy="495" r="2.6" fill="#db2777"/>
+<text x="95" y="500" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">公開のポストは相手も見られる</text>
 </svg>

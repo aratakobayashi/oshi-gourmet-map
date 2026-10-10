@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 590" width="420" height="590" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="590" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 620" width="420" height="620" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="620" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">Instagramで使える5つの設定</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">Instagram ヘルプセンターの説明から（2026年10月確認）</text>
-<rect x="20" y="90" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="20" y="90" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
 <circle cx="50" cy="120" r="18" fill="#db2777"/>
 <g><path d="M44 117V113a6 6 0 0 1 12 0v4" fill="none" stroke="#fff" stroke-width="2.6"/><rect x="40" y="117" width="20" height="15" rx="4" fill="#fff"/><circle cx="50" cy="124" r="2.4" fill="#db2777"/></g>
 <text x="80" y="122" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">非公開アカウント</text>
@@ -10,38 +10,38 @@
 <text x="95" y="146" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">承認したフォロワーだけが</text>
 <circle cx="86" cy="162" r="2.6" fill="#db2777"/>
 <text x="95" y="167" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">投稿・リール・ストーリーズを見られる</text>
-<rect x="20" y="188" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="218" r="18" fill="#db2777"/>
-<polygon points="50.0,206.0 53.1,213.8 61.4,214.3 54.9,219.6 57.1,227.7 50.0,223.2 42.9,227.7 45.1,219.6 38.6,214.3 46.9,213.8" fill="#fff"/>
-<text x="80" y="220" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">親しい友達</text>
-<circle cx="86" cy="239" r="2.6" fill="#db2777"/>
-<text x="95" y="244" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">選んだ人だけにストーリーズなどを公開</text>
-<circle cx="86" cy="260" r="2.6" fill="#db2777"/>
-<text x="95" y="265" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">リストの追加・削除は相手に通知なし</text>
-<rect x="20" y="286" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="316" r="18" fill="#db2777"/>
-<g><path d="M37 316Q50 304 63 316Q50 328 37 316z" fill="#fff"/><circle cx="50" cy="316" r="4.5" fill="#db2777"/><line x1="39" y1="326" x2="61" y2="306" stroke="#db2777" stroke-width="5"/><line x1="39" y1="326" x2="61" y2="306" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
-<text x="80" y="318" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ストーリーズを非表示</text>
-<circle cx="86" cy="337" r="2.6" fill="#db2777"/>
-<text x="95" y="342" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">特定の人にストーリーズを見せない</text>
-<circle cx="86" cy="358" r="2.6" fill="#db2777"/>
-<text x="95" y="363" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ブロックとは別。投稿は見られる</text>
-<rect x="20" y="384" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="414" r="18" fill="#db2777"/>
-<g><path d="M39 410H45L52 403V425L45 418H39z" fill="#fff"/><path d="M56 409L63 419M63 409L56 419" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
-<text x="80" y="416" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ミュート</text>
-<rect x="322.0" y="399" width="66.0" height="22" rx="11" fill="#FCE7F3"/>
-<text x="355.0" y="415" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">通知なし</text>
-<circle cx="86" cy="435" r="2.6" fill="#db2777"/>
-<text x="95" y="440" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手の投稿・ストーリーズを画面から外す</text>
-<circle cx="86" cy="456" r="2.6" fill="#db2777"/>
-<text x="95" y="461" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">フォローはそのまま</text>
-<rect x="20" y="482" width="380" height="88" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<circle cx="50" cy="512" r="18" fill="#db2777"/>
-<g><circle cx="50" cy="512" r="11" fill="none" stroke="#fff" stroke-width="3"/><line x1="42.5" y1="519.5" x2="57.5" y2="504.5" stroke="#fff" stroke-width="3"/></g>
-<text x="80" y="514" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">制限</text>
-<circle cx="86" cy="533" r="2.6" fill="#db2777"/>
-<text x="95" y="538" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手のコメントはその人にだけ表示</text>
-<circle cx="86" cy="554" r="2.6" fill="#db2777"/>
-<text x="95" y="559" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">既読やオンライン状態が相手に見えない</text>
+<rect x="20" y="194" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="224" r="18" fill="#db2777"/>
+<polygon points="50.0,212.0 53.1,219.8 61.4,220.3 54.9,225.6 57.1,233.7 50.0,229.2 42.9,233.7 45.1,225.6 38.6,220.3 46.9,219.8" fill="#fff"/>
+<text x="80" y="226" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">親しい友達</text>
+<circle cx="86" cy="245" r="2.6" fill="#db2777"/>
+<text x="95" y="250" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">選んだ人だけにストーリーズなどを公開</text>
+<circle cx="86" cy="266" r="2.6" fill="#db2777"/>
+<text x="95" y="271" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">リストの追加・削除は相手に通知なし</text>
+<rect x="20" y="298" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="328" r="18" fill="#db2777"/>
+<g><path d="M37 328Q50 316 63 328Q50 340 37 328z" fill="#fff"/><circle cx="50" cy="328" r="4.5" fill="#db2777"/><line x1="39" y1="338" x2="61" y2="318" stroke="#db2777" stroke-width="5"/><line x1="39" y1="338" x2="61" y2="318" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="80" y="330" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ストーリーズを非表示</text>
+<circle cx="86" cy="349" r="2.6" fill="#db2777"/>
+<text x="95" y="354" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">特定の人にストーリーズを見せない</text>
+<circle cx="86" cy="370" r="2.6" fill="#db2777"/>
+<text x="95" y="375" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">ブロックとは別。投稿は見られる</text>
+<rect x="20" y="402" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="432" r="18" fill="#db2777"/>
+<g><path d="M39 428H45L52 421V443L45 436H39z" fill="#fff"/><path d="M56 427L63 437M63 427L56 437" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="80" y="434" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ミュート</text>
+<rect x="322.0" y="417" width="66.0" height="22" rx="11" fill="#FCE7F3"/>
+<text x="355.0" y="433" font-size="12" font-weight="700" fill="#db2777" text-anchor="middle">通知なし</text>
+<circle cx="86" cy="453" r="2.6" fill="#db2777"/>
+<text x="95" y="458" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手の投稿・ストーリーズを画面から外す</text>
+<circle cx="86" cy="474" r="2.6" fill="#db2777"/>
+<text x="95" y="479" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">フォローはそのまま</text>
+<rect x="20" y="506" width="380" height="94" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<circle cx="50" cy="536" r="18" fill="#db2777"/>
+<g><circle cx="50" cy="531" r="6" fill="#fff"/><path d="M39 548a11 10 0 0 1 22 0z" fill="#fff"/></g>
+<text x="80" y="538" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">制限</text>
+<circle cx="86" cy="557" r="2.6" fill="#db2777"/>
+<text x="95" y="562" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">相手のコメントはその人にだけ表示</text>
+<circle cx="86" cy="578" r="2.6" fill="#db2777"/>
+<text x="95" y="583" font-size="14" font-weight="400" fill="#241F1A" text-anchor="start">既読やオンライン状態が相手に見えない</text>
 </svg>

@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 460" width="420" height="460" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="460" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 480" width="420" height="480" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="480" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="22" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">投稿する前のチェック</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">総務省の注意喚起から</text>
-<rect x="20" y="90" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="108.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
-<path d="M40 121.0L46 128.0L59 114.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="117" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">背景に建物や看板が写っていない？</text>
-<text x="76" y="139" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">写ったものから場所が特定されることがある</text>
-<rect x="20" y="162" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="180.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
-<path d="M40 193.0L46 200.0L59 186.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="189" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">写真の位置情報は大丈夫？</text>
-<text x="76" y="211" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">設定によって撮影場所の情報が付くことも</text>
-<rect x="20" y="234" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="252.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
-<path d="M40 265.0L46 272.0L59 258.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="261" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">公開範囲は合っている？</text>
-<text x="76" y="283" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">見せたい人だけに届く設定か確かめる</text>
-<rect x="20" y="306" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="324.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
-<path d="M40 337.0L46 344.0L59 330.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="333" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ほかの人が写っていない？</text>
-<text x="76" y="355" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">写っている人には先に許可をとる</text>
-<rect x="20" y="378" width="380" height="62" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
-<rect x="36" y="396.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
-<path d="M40 409.0L46 416.0L59 402.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="76" y="405" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">非公開の投稿を広げていない？</text>
-<text x="76" y="427" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">スクリーンショットで勝手に広めない</text>
+<rect x="20" y="90" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="110.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
+<path d="M40 123.0L46 130.0L59 116.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="119" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">背景に建物や看板が写っていない？</text>
+<text x="76" y="141" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">写ったものから場所が特定されることがある</text>
+<rect x="20" y="166" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="186.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
+<path d="M40 199.0L46 206.0L59 192.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="195" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">写真の位置情報は大丈夫？</text>
+<text x="76" y="217" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">設定によって撮影場所の情報が付くことも</text>
+<rect x="20" y="242" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="262.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
+<path d="M40 275.0L46 282.0L59 268.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="271" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">公開範囲は合っている？</text>
+<text x="76" y="293" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">見せたい人だけに届く設定か確かめる</text>
+<rect x="20" y="318" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="338.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
+<path d="M40 351.0L46 358.0L59 344.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="347" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">ほかの人が写っていない？</text>
+<text x="76" y="369" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">写っている人には先に許可をとる</text>
+<rect x="20" y="394" width="380" height="66" rx="12" fill="#fff" stroke="#E2D9CC" stroke-width="1"/>
+<rect x="36" y="414.0" width="26" height="26" rx="6" fill="#fff" stroke="#db2777" stroke-width="2.4"/>
+<path d="M40 427.0L46 434.0L59 420.0" stroke="#db2777" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="76" y="423" font-size="16" font-weight="800" fill="#241F1A" text-anchor="start">非公開の投稿を広げていない？</text>
+<text x="76" y="445" font-size="14" font-weight="400" fill="#6B6258" text-anchor="start">スクリーンショットで勝手に広めない</text>
 </svg>
