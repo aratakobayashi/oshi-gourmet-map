@@ -50,15 +50,8 @@ shop_ids:
   - timelesz-9004c8f3-20260112
   - timelesz-ea0acb9b-20260112
   - timelesz-0ade3661-20260216
-  - timelesz-12bd4e83-20241001
-  - timelesz-540cca88-
-  - timelesz-private-
-  - timelesz-gold_rush_1-20260201
-  - timelesz-azabu-20260201
-  - timelesz-jam17_gelateria-20250617
   - timelesz-a8cdf34b-20250617
   - timelesz-7800b7f9-
-  - timelesz-edb196ff-
   - timelesz-3686de20-20250425
   - timelesz-e0858214-20250425
   - timelesz-cbeb9cad-20250622
@@ -76,17 +69,11 @@ shop_ids:
   - timelesz-e9304b8e-20250629
   - timelesz-e6304bf1-20250603
   - timelesz-new-20250603
-  - timelesz-zzz365_bivi-20250820
   - timelesz-ee55e45a-20240301
   - timelesz-cafe_marly-20250425
   - timelesz-f73889d0-20250823
   - timelesz-74fca107-20250501
-  - timelesz-772a99c9-20250401
-  - timelesz-latte_art_mania_toky-20250101
-  - timelesz-c812a934-20250416
-  - timelesz-shogun_burger-
   - timelesz-usotsuki_yogurt-
-  - timelesz-e55cdff1-
   - timelesz-no_4-20260320
 faq:
   - q: "timeleszの聖地巡礼で、東京で回りやすいのはどこですか？"
@@ -199,7 +186,6 @@ faq:
   <li><span class="k">2026.2</span><div><b>GOLD RUSH 池袋1号店</b><span>timelesz project -REAL- VOL2 東京編（2026年2月 Netflix配信）／菊池風磨・寺西拓人／ハンバーグ</span></div></li>
   <li><span class="k">2026.2</span><div><b>AZABU 草ふえ（西麻布）</b><span>timelesz project -REAL- VOL2 東京編（2026年2月 Netflix配信）／菊池風磨・寺西拓人</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="timelesz-12bd4e83-20241001,timelesz-540cca88-,timelesz-private-,timelesz-gold_rush_1-20260201,timelesz-azabu-20260201" %}
 
 <h2>『timeleszの時間ですよ』（TBS）：歌舞伎町・高円寺・原宿</h2>
 <p>TBSのゴールデン・プライム帯で初めての冠番組。2025年6月17日の第1弾と、10月13日の第2弾のお店です。</p>
@@ -209,7 +195,7 @@ faq:
   <li><span class="k">2025<br>10.13</span><div><b>マリオンクレープ 原宿竹下通り店</b><span>timeleszの時間ですよ マリオンクレープ／篠塚大輝</span></div></li>
   <li><span class="k">2025<br>10.13</span><div><b>レディキティハウス（多摩）</b><span>timeleszの時間ですよ マリオンクレープ／篠塚大輝</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="timelesz-jam17_gelateria-20250617,timelesz-a8cdf34b-20250617,timelesz-7800b7f9-,timelesz-edb196ff-" %}
+{% include inline-shop-grid.html ids="timelesz-a8cdf34b-20250617,timelesz-7800b7f9-" %}
 
 <h2>『ニノさん』（日本テレビ）：神保町の餃子・高田馬場の麻辣・茨城</h2>
 <p>原嘉孝が出演した回の8軒。神保町・水道橋の餃子と、高田馬場の麻辣グルメは3軒ずつ近くにまとまっています。</p>
@@ -249,7 +235,7 @@ faq:
   <li><span class="k">2025<br>6.3</span><div><b>NEWかれいど（川越）</b><span>めざましテレビ 川越ロケ／同じ3人／ハーフ川越三元豚カレー＆ハーフはつかり醤油ラーメン</span></div></li>
   <li><span class="k">2025<br>8.20</span><div><b>zzz365 BiVi新さっぽろ店（札幌）</b><span>いたジャン！1時間スペシャル（テレビ朝日系）／橋本将生／ディープソルト フライドポテト</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="timelesz-e6304bf1-20250603,timelesz-new-20250603,timelesz-zzz365_bivi-20250820" %}
+{% include inline-shop-grid.html ids="timelesz-e6304bf1-20250603,timelesz-new-20250603" %}
 
 <h2>CM・企画・メンバーのロケ地</h2>
 <p>番組名のわからないロケや、CM・ブランドの企画で訪れたお店です。葱や平吉 宇田川町店とLatte Art Mania Tokyoは、菊池風磨が出演する<a href="/articles/2026/04/01/yonino-gourmet-matome-2025-2026/">よにのちゃんねる</a>にも登場しています。</p>
@@ -261,7 +247,7 @@ faq:
   <li><span class="k">渋谷</span><div><b>葱や平吉 宇田川町店</b><span>菊池風磨 渋谷ネギ専門店ロケ地／菊池風磨</span></div></li>
   <li><span class="k">外苑前</span><div><b>Latte Art Mania Tokyo</b><span>菊池風磨 国立競技場カフェロケ地／菊池風磨／ラテアート</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="timelesz-ee55e45a-20240301,timelesz-cafe_marly-20250425,timelesz-f73889d0-20250823,timelesz-74fca107-20250501,timelesz-772a99c9-20250401,timelesz-latte_art_mania_toky-20250101" %}
+{% include inline-shop-grid.html ids="timelesz-ee55e45a-20240301,timelesz-cafe_marly-20250425,timelesz-f73889d0-20250823,timelesz-74fca107-20250501" %}
 
 <h2>メンバーのSNSから：差し入れ・ハンバーガー・カフェ巡り</h2>
 <ul class="pf-works">
@@ -271,7 +257,7 @@ faq:
   <li><span class="k">三田</span><div><b>タリーズコーヒー</b><span>松島聡 カフェ巡りまとめ（インスタ）／松島聡／ほうじ茶ラテ（アイス）</span></div></li>
   <li><span class="k">四番町</span><div><b>No.4</b><span>松島聡 カフェ巡りまとめ（インスタ）／松島聡／パン、アイスラテ</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="timelesz-c812a934-20250416,timelesz-shogun_burger-,timelesz-usotsuki_yogurt-,timelesz-e55cdff1-,timelesz-no_4-20260320" %}
+{% include inline-shop-grid.html ids="timelesz-usotsuki_yogurt-,timelesz-no_4-20260320" %}
 <p class="note">番組名・企画名は推しグルメ巡礼MAPのデータの表記をもとに、番組の公式の表記（『timelesz ファミリア』『timeleszの時間ですよ』）にそろえました。左の数字はデータの日付です。</p>
 
 <h2>エリアで巡るなら：まずは東京</h2>
