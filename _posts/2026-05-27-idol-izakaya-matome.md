@@ -16,9 +16,6 @@ summary:
   - "お店ごとに動画の回・タイトル・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - shiori-97aca417-20260331
-  - shiori-e7501534-20260331
-  - shiori-73e7f83a-20260331
-  - shiori-773474f9-20260322
   - shiori-b57ee974-20260322
   - shiori-new_light-20240316
   - shiori-the_music_bar_cave_s-20240316
@@ -63,7 +60,6 @@ shop_ids:
   - sixtones-ukigumori-ikaho
   - sixtones-torigen-shinjuku
   - sixtones-kurumi-shineimachi
-  - sixtones-bf58b791-202212
   - naniwa-f5c2bfbf-20201016
   - naniwa-637d6485-20201016
   - naniwa-ecf1fc97-20220708
@@ -83,7 +79,6 @@ shop_ids:
   - kamenashi-3a7e3c9a-202402
   - kamenashi-34069a08-202405
   - kamenashi-27f41658-202412
-  - kamenashi-beschle-20241116
   - kingprince-f9639215-20220813
   - kingprince-cabe-20221015
   - kingprince-andhra_dining_ginza-20221022
@@ -179,7 +174,7 @@ faq:
   <li><span class="k">2026<br>3月</span><div><b>ラッキーピエロ・ハセガワストア・セイコーマート</b><span>【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！</span></div></li>
   <li><span class="k">2026<br>5月</span><div><b>Flamingo 恵比寿</b><span>【1人はしご酒】港区で4軒、1人ひたすらに酒場をはしごする女</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="shiori-af65a7dc-20211105,shiori-57dd9722-20211105,shiori-d49febf1-20211105,shiori-5fd9a689-20211105,shiori-4119a061-20220305,shiori-52fdb689-20220606,shiori-b0e7ec20-20220912,shiori-a5bba78c-20230903,shiori-new_light-20240316,shiori-the_music_bar_cave_s-20240316,shiori-e3c454bd-20240914,shiori-oyster_wine-20250425,shiori-cd799a2d-20250425,shiori-1265afbe-20260120,shiori-773474f9-20260322,shiori-b57ee974-20260322,shiori-97aca417-20260331,shiori-e7501534-20260331,shiori-73e7f83a-20260331,shiori-flamingo-20260514" %}
+{% include inline-shop-grid.html ids="shiori-af65a7dc-20211105,shiori-57dd9722-20211105,shiori-d49febf1-20211105,shiori-5fd9a689-20211105,shiori-4119a061-20220305,shiori-52fdb689-20220606,shiori-b0e7ec20-20220912,shiori-a5bba78c-20230903,shiori-new_light-20240316,shiori-the_music_bar_cave_s-20240316,shiori-e3c454bd-20240914,shiori-oyster_wine-20250425,shiori-cd799a2d-20250425,shiori-1265afbe-20260120,shiori-b57ee974-20260322,shiori-97aca417-20260331,shiori-flamingo-20260514" %}
 
 <h2>=LOVE：赤羽・高円寺・浅草のはしご酒</h2>
 <p>諸橋沙夏さんのはしご酒の回を中心に、公式チャンネル「イコラブ ノイミー ニアジョイ チャンネル」や大谷映美里さんのチャンネルに登場したお店です。</p>
@@ -216,7 +211,7 @@ faq:
   <li><span class="k">#376</span><div><b>博多もつ鍋 やま中 銀座店</b><span>よにのちゃんねる #376【朝食!!】多感なお年頃だからワーワー言ってきた日／もつ鍋（味噌味）、もつ野菜セット、炙り明太子</span></div></li>
   <li><span class="k">#494</span><div><b>葱や平吉 渋谷宇田川町店</b><span>よにのちゃんねる #494【朝飯!!】山田がハマった日／味噌煮込みうどん、葱やの得々定食、焼鯖定食、小刺身</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-asagaya-birdland,snowman-ore-no-kappo-ebisu,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,sixtones-bf58b791-202212,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-torigen-shinjuku,naniwa-doowop-20211126,naniwa-2c2e760f-202410,naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,yonino-takeno-tsukiji,yonino-daisanboku-aoyama,yonino-yamanaka-ginza,yonino-negiya-heikichi" %}
+{% include inline-shop-grid.html ids="snowman-asagaya-birdland,snowman-ore-no-kappo-ebisu,snowman-41d7688e-202604,snowman-kushigen-edogawabashi,sixtones-ukigumori-ikaho,sixtones-kurumi-shineimachi,sixtones-torigen-shinjuku,naniwa-doowop-20211126,naniwa-2c2e760f-202410,naniwa-f5c2bfbf-20201016,naniwa-637d6485-20201016,naniwa-ecf1fc97-20220708,naniwa-883c81e1-202204,yonino-takeno-tsukiji,yonino-daisanboku-aoyama,yonino-yamanaka-ginza,yonino-negiya-heikichi" %}
 
 <h2>King & Prince・亀梨和也・Hey! Say! JUMP・中丸雄一</h2>
 <ul class="pf-works">
@@ -229,7 +224,7 @@ faq:
   <li><span class="k">2017<br>2月</span><div><b>ダイニングダーツバー Bee 新宿店</b><span>Hey! Say! JUMP『いただきハイジャンプ』女子会向けスイーツ特集</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>KORIN</b><span>中丸雄一 銀河チャンネル／銀座</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="kingprince-f9639215-20220813,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6513cfda-20221022,kamenashi-3a7e3c9a-202402,kamenashi-beschle-20241116,heysayjump-bee-20170201,ginga-korin-20250413" %}
+{% include inline-shop-grid.html ids="kingprince-f9639215-20220813,kingprince-cabe-20221015,kingprince-andhra_dining_ginza-20221022,kingprince-6513cfda-20221022,kamenashi-3a7e3c9a-202402,heysayjump-bee-20170201,ginga-korin-20250413" %}
 
 <h2>孤独のグルメ・かまいたち・乃木坂46</h2>
 <ul class="pf-works">

@@ -25,11 +25,7 @@ shop_ids:
   - nogizaka46-f819bab4-
   - nogizaka46-freddy_leck_sein_was-
   - nogizaka46-good_morning_cafe-
-  - nogizaka46-9c9e0e74-
-  - nogizaka46-13bedc86-
-  - nogizaka46-3a9c4e51-
   - nogizaka46-485e9f27-
-  - nogizaka46-4f25c3c5-
   - nogizaka46-84891d52-
   - nogizaka46-14c97cb0-
   - nogizaka46-73fa40bf-
@@ -39,8 +35,6 @@ shop_ids:
   - nogizaka46-84c802d9-
   - nogizaka46-85374eb4-
   - nogizaka46-bfe83dcc-
-  - nogizaka46-9b697f1b-
-  - nogizaka46-d53395ac-
 faq:
   - q: "乃木坂46のお店はどのエリアに多いですか？"
     a: "この記事の26軒では神奈川県鎌倉市が7軒で最も多く、東京都の港区（新橋・赤坂）が4軒、愛知県名古屋市が3軒、東京都の千代田区と台東区（浅草）が2軒ずつです。"
@@ -119,7 +113,7 @@ faq:
   <li><span class="k">すごろく</span><div><b>炎麻堂 赤坂店</b><span>芸能界すごろくでチーム賀喜（賀喜遥香・筒井あやめ・田村真佑）が挑んだ激辛メニュー</span></div></li>
   <li><span class="k">ツアー</span><div><b>鎌倉釜飯 かまかま本店</b><span>春の1万円ツアーで秋元真夏が食事をしたお店</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-9c9e0e74-,nogizaka46-13bedc86-,nogizaka46-3a9c4e51-,nogizaka46-485e9f27-,nogizaka46-4f25c3c5-" %}
+{% include inline-shop-grid.html ids="nogizaka46-485e9f27-" %}
 <p>企画の中身と出演メンバーは推しグルメ巡礼MAPのデータより。放送回は確認中です。</p>
 
 <h2>乃木坂どこへ：4期生のぶらり旅</h2>
@@ -148,7 +142,6 @@ faq:
   <li><span class="k">立川</span><div><b>高尾亭 立川本店</b><span>立川南駅 徒歩11分</span></div></li>
   <li><span class="k">名古屋</span><div><b>えんそば 錦1丁目店</b><span>名古屋城駅 徒歩7分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-9b697f1b-,nogizaka46-d53395ac-" %}
 
 <h2>はじめて見るならこの2本</h2>
 <p>公式チャンネルの動画です（タップすると再生します）。</p>

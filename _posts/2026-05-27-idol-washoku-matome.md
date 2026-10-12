@@ -22,8 +22,6 @@ shop_ids:
   - yonino-imahan-asakusa
   - yonino-unafuji-yurakucho
   - yonino-daruma-azabu
-  - sixtones-onigiri-bongo
-  - sixtones-unagi-maruchu
   - sixtones-f52d4936-202108
   - snowman-onigiri-asakusa-yadoroku
   - snowman-sarashina-horii-motoazabu
@@ -71,7 +69,6 @@ shop_ids:
   - yonino-kuraji-akasaka
   - yonino-negishi-ikebukuro
   - yonino-5d0b703c-202604
-  - sixtones-2ed2841e-202305
   - sixtones-houtou-fudo-higashikoji
   - sixtones-b5dfc98a-202310
   - sixtones-b647a3f1-202204
@@ -163,7 +160,7 @@ faq:
   <li><span class="k">2022<br>7月</span><div><b>おにぎり ぼんご</b><span>SixTONES【SixTONES】最強おにぎりの具を考えてみたら…ワチャワチャした</span></div></li>
   <li><span class="k">2019<br>10月</span><div><b>おにぎり ぼんご 大塚本店</b><span>乃木坂46 日本テレビ「乃木坂どこへ」（日テレ公式チャンネル）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-sumo-chaya-terao,kodoku_no_gurume-6d621f1f-,sixtones-onigiri-bongo,nogizaka46-84891d52-" %}
+{% include inline-shop-grid.html ids="yonino-sumo-chaya-terao,kodoku_no_gurume-6d621f1f-,nogizaka46-84891d52-" %}
 
 <div class="pf-quote"><p>両国駅のまわりだけで、2組のちゃんこが食べ比べられます。よにのちゃんねるは「朝飯」の回で、朝からちゃんこでした。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -176,7 +173,7 @@ faq:
   <li><span class="k">2018<br>9月</span><div><b>うな達（池袋）</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2018年9月8日）</span></div></li>
   <li><span class="k">SP<br>2021</span><div><b>鰻の名店割烹 松の家（浜松）</b><span>孤独のグルメ スペシャル（2021年）／二色まぶし丼、ミニ牡蠣カバ丼</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-unafuji-yurakucho,sixtones-2ed2841e-202305,sixtones-unagi-maruchu,snowman-unagi-kawamatu-higashikurume,heysayjump-25f1ec3d-20180908,kodoku_no_gurume-5fe3fbab-" %}
+{% include inline-shop-grid.html ids="yonino-unafuji-yurakucho,snowman-unagi-kawamatu-higashikurume,heysayjump-25f1ec3d-20180908,kodoku_no_gurume-5fe3fbab-" %}
 
 <h2>そば・うどん：わんこそばから老舗のせいろまで</h2>
 <ul class="pf-works">

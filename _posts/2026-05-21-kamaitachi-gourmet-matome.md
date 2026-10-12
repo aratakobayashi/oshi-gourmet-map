@@ -18,7 +18,6 @@ shop_ids:
   - kamaitachi-394d7350-
   - kamaitachi-1ca5fcf5-
   - kamaitachi-1607d854-
-  - kamaitachi-b9386654-
   - kamaitachi-4a7bd41f-
   - kamaitachi-380c2d89-
   - kamaitachi-a10db015-
@@ -83,7 +82,7 @@ faq:
   <li><span class="k">2024.11</span><div><b>コロラド</b><span>同じ関西編／概要欄では京都</span></div></li>
   <li><span class="k">2024.11</span><div><b>香住・かどや</b><span>同じ関西編／概要欄では「香住のシロイカ」（兵庫）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="kamaitachi-394d7350-,kamaitachi-1ca5fcf5-,kamaitachi-1607d854-,kamaitachi-b9386654-,kamaitachi-4a7bd41f-" %}
+{% include inline-shop-grid.html ids="kamaitachi-394d7350-,kamaitachi-1ca5fcf5-,kamaitachi-1607d854-,kamaitachi-4a7bd41f-" %}
 
 <h2>関東編：東京進出後のロケの店</h2>
 <ul class="pf-works">

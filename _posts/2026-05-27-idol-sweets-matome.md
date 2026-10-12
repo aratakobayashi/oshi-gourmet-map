@@ -27,7 +27,6 @@ shop_ids:
   - notme-1st-202411
   - notme-flipper_s-202408
   - sixtones-sixtones-202108
-  - yonino-asami-reizo-nagatoro
   - timelesz-1f9a394d-
   - timelesz-c10561a2-
   - nogizaka46-7e8466b6-
@@ -58,9 +57,7 @@ shop_ids:
   - notme-db5ba582-202408
   - timelesz-56bdf348-
   - timelesz-59cd8eb8-
-  - yonino-ginza-fukukuju
   - yonino-chocolat_trouver-20260204
-  - sixtones-0f6b2048-202411
   - snowman-welovedonut-20260513
   - snowman-d4d93a94-201810
   - neajoy-08395d58-202408
@@ -200,7 +197,7 @@ faq:
   <li><span class="k">日光</span><div><b>日光もなか</b><span>timelesz『タイムレスマン』</span></div></li>
   <li><span class="k">SP<br>2022</span><div><b>手作りアイス 花茶（千歳）</b><span>孤独のグルメ スペシャル（2022年）／ジェラート</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-sixtones-202108,sixtones-0f6b2048-202411,snowman-welovedonut-20260513,snowman-d4d93a94-201810,kingprince-5400b983-20220813,kingprince-presquile_chocolater-20221210,yonino-chocolat_trouver-20260204,yonino-asami-reizo-nagatoro,yonino-ginza-fukukuju,kamenashi-9398d442-202508,sakurazaka46-ribisco-ginza,hinatazaka46-e928610f-202004,timelesz-59cd8eb8-,kodoku_no_gurume-69029c00-" %}
+{% include inline-shop-grid.html ids="sixtones-sixtones-202108,snowman-welovedonut-20260513,snowman-d4d93a94-201810,kingprince-5400b983-20220813,kingprince-presquile_chocolater-20221210,yonino-chocolat_trouver-20260204,kamenashi-9398d442-202508,sakurazaka46-ribisco-ginza,hinatazaka46-e928610f-202004,timelesz-59cd8eb8-,kodoku_no_gurume-69029c00-" %}
 
 <div class="pf-quote"><p>銀座は、亀梨和也さんと渡辺翔太さんのかき氷、櫻坂46のジェラート、King & Princeのフレデリック カッセルと、ひんやり系と洋菓子が集まるエリアです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 

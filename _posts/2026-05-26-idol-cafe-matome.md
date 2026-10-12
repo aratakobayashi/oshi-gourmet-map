@@ -23,8 +23,6 @@ shop_ids:
   - nogizaka46-5bce3fc7-
   - nogizaka46-good_morning_cafe-
   - nogizaka46-3bd4b889-
-  - equallove_005
-  - equallove_003
   - kingprince-9ca66867-20220618
   - kingprince-6b77790e-20221022
   - kingprince-6ee5087d-20221203
@@ -53,17 +51,14 @@ shop_ids:
   - nogizaka46-e767374d-
   - nogizaka46-85374eb4-
   - nogizaka46-bfe83dcc-
-  - nogizaka46-4eba1f02-
   - nogizaka46-flamingo-
   - nogizaka46-ccecce7f-
   - nogizaka46-9d97e3e3-
   - nogizaka46-dcca8bec-
-  - nogizaka46-3d56208f-
   - nogizaka46-milk-
   - equal_love-6e007468-202408
   - equal_love-e732d9bf-202506
   - equal_love-coa_ginza-20251006
-  - equallove_006
   - equallove_008
   - equal_love-mateki-202408
   - equal_love-gebura-20250915
@@ -81,7 +76,6 @@ shop_ids:
   - notme-b9e687dc-202411
   - ginga-okudo-202407
   - ginga-maru-202407
-  - kamaitachi-b9386654-
   - heysayjump-747256d6-20170201
   - kodoku_no_gurume-aa39fbb9-
 faq:
@@ -180,7 +174,7 @@ faq:
   <li><span class="k">青山</span><div><b>シェイクシャック 外苑いちょう並木</b><span>明治神宮野球場の近く</span></div></li>
   <li><span class="k">浅草</span><div><b>浅草 花月堂 本店</b><span>『乃木坂ってどこ？』</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-freddy_leck_sein_was-,nogizaka46-ccecce7f-,nogizaka46-shibuya_tsutaya-,nogizaka46-e767374d-,nogizaka46-flamingo-,nogizaka46-f23c267b-,nogizaka46-4eba1f02-,nogizaka46-9d97e3e3-,nogizaka46-3bd4b889-" %}
+{% include inline-shop-grid.html ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-freddy_leck_sein_was-,nogizaka46-ccecce7f-,nogizaka46-shibuya_tsutaya-,nogizaka46-e767374d-,nogizaka46-flamingo-,nogizaka46-f23c267b-,nogizaka46-9d97e3e3-,nogizaka46-3bd4b889-" %}
 
 <ul class="pf-works">
   <li><span class="k">名古屋</span><div><b>喫茶ニューポピー</b><span>名古屋市西区（国際センター駅 徒歩6分）</span></div></li>
@@ -189,7 +183,7 @@ faq:
   <li><span class="k">函館</span><div><b>函館洋菓子スナッフルス 金森洋物館店</b><span>函館ロケ</span></div></li>
   <li><span class="k">札幌</span><div><b>乃木坂な妻たち</b><span>札幌市中央区</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-milk-,nogizaka46-dcca8bec-,nogizaka46-3d56208f-" %}
+{% include inline-shop-grid.html ids="nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-milk-,nogizaka46-dcca8bec-" %}
 
 <h2>=LOVE・≠ME・≒JOY：Vlogで出かけたカフェ</h2>
 <p>3組の公式チャンネル「イコラブ ノイミー ニアジョイ チャンネル」やメンバー個人のチャンネルの動画に登場したお店です。横浜中華街、沖縄、広島・宮島と、旅のVlogが多いのも特徴です。</p>
@@ -204,7 +198,7 @@ faq:
   <li><span class="k">上野</span><div><b>不純喫茶ドープ 上野御徒町店</b><span>=LOVE／台東区上野</span></div></li>
   <li><span class="k">浅草</span><div><b>DOG DEPT CAFE 浅草隅田川テラス店</b><span>=LOVE／台東区駒形</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_005,equallove_008,equallove_003,equallove_006" %}
+{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_008" %}
 
 <ul class="pf-works">
   <li><span class="k">2020<br>11月</span><div><b>猫カフェ MOCHA 原宿店</b><span>≠ME／【もふもふ】猫カフェデートしてきました♡【癒し】</span></div></li>
@@ -252,7 +246,7 @@ faq:
   <li><span class="k">S10<br>3話</span><div><b>キッチン・カフェ ばる（横浜）</b><span>孤独のグルメ Season10 第3話／真鯛のソテー オーロラソース、まぐろのユッケどんぶり、いくらとしらすのどんぶり、メンチカツ</span></div></li>
   <li><span class="k">関西</span><div><b>コロラド（大阪）</b><span>かまいたち【忘れられないグルメ】かまいたちがもう一度行きたい！ロケで行った飲食店〜関西編〜</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="ginga-okudo-202407,ginga-maru-202407,sakurazaka46-kissa-paon,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-,kamaitachi-b9386654-" %}
+{% include inline-shop-grid.html ids="ginga-okudo-202407,ginga-maru-202407,sakurazaka46-kissa-paon,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>各グループの公式チャンネルの動画から、カフェが登場する4本を選びました（タップすると再生します）。</p>

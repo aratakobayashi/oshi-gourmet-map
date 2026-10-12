@@ -41,14 +41,12 @@ shop_ids:
   - kodoku_no_gurume-417ff61f-
   - kodoku_no_gurume-8a664e79-
   - yonino-youhachi-sangenchaya
-  - yonino-d88e366f-202603
   - yonino-bouinboshoku
   - kamenashi-bullajo-202504
   - kamenashi-glams_bbq_lounge-202405
   - kamenashi-b68dd10a-202410
   - kamenashi-41feca79-202505
   - sixtones-e6599dc3-
-  - sixtones-ushimitsu-ebisu
   - kingprince-0cbe6433-20221203
   - snowman-futago-roppongi
   - snowman-09af6680-202605
@@ -144,7 +142,7 @@ faq:
   <li><span class="k">#497</span><div><b>赤坂 金舌</b><span>#497【飯!!】どんでもない豪華な日／ハンバーグ御膳、雲丹ユッケと牛肉寿司御膳、牛タンカレー</span></div></li>
   <li><span class="k">#509</span><div><b>ジンギスカン羊はち</b><span>#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-hutong-nishiazabu,yonino-bouinboshoku,yonino-peter-luger,yonino-kintan-akasaka,yonino-youhachi-sangenchaya,yonino-d88e366f-202603" %}
+{% include inline-shop-grid.html ids="yonino-hutong-nishiazabu,yonino-bouinboshoku,yonino-peter-luger,yonino-kintan-akasaka,yonino-youhachi-sangenchaya" %}
 
 <h2>SixTONES・Snow Man・King & Prince・なにわ男子ほか</h2>
 <ul class="pf-works">
@@ -160,7 +158,7 @@ faq:
   <li><span class="k">2016<br>7月</span><div><b>BLTステーキ 銀座</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2016年7月20日）</span></div></li>
   <li><span class="k">西新宿</span><div><b>牛の達人 Private 西新宿店</b><span>timelesz「timelesz project -AUDITION-」</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-ushimitsu-ebisu,sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720,timelesz-private-" %}
+{% include inline-shop-grid.html ids="sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720,timelesz-private-" %}
 
 <h2>=LOVE・≠ME・乃木坂46</h2>
 <ul class="pf-works">

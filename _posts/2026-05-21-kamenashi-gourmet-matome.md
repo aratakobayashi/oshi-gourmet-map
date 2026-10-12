@@ -39,7 +39,6 @@ shop_ids:
   - kamenashi-223-202404
   - kamenashi-17aff7bc-202405
   - kamenashi-6606003d-202407
-  - kamenashi-beschle-20241116
   - kamenashi-le_rhin_bleu-20241116
   - kamenashi-off_kinosaki-20241218
   - kamenashi-95d73497-202504
@@ -149,7 +148,7 @@ faq:
   <li><span class="k">2025.5</span><div><b>ミートファクトリーしまちゃん（大阪府堺市）</b><span>【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。</span></div></li>
   <li><span class="k">2025.7</span><div><b>盛楼閣（岩手県盛岡市）</b><span>【🍜】亀梨和也、本場岩手の盛岡冷麺を食べる。／牛タン（塩）、極上ロース、テグタンスープ、冷麺（辛み別）、温麺</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="kamenashi-6606003d-202407,kamenashi-beschle-20241116,kamenashi-le_rhin_bleu-20241116,kamenashi-off_kinosaki-20241218,kamenashi-95d73497-202504,kamenashi-41feca79-202505,kamenashi-b2d66125-202507" %}
+{% include inline-shop-grid.html ids="kamenashi-6606003d-202407,kamenashi-le_rhin_bleu-20241116,kamenashi-off_kinosaki-20241218,kamenashi-95d73497-202504,kamenashi-41feca79-202505,kamenashi-b2d66125-202507" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>YouTubeチャンネル「亀梨和也」の公式動画から、雰囲気の違う4本を選びました（タップすると再生します）。</p>

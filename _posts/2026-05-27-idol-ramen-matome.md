@@ -47,7 +47,6 @@ shop_ids:
   - nogizaka46-9f892298-
   - nogizaka46-7b18f3dd-
   - nogizaka46-ab929a12-
-  - nogizaka46-d53395ac-
   - nogizaka46-shinshin-
   - nogizaka46-6d41a5ca-
   - nogizaka46-241b6933-
@@ -86,7 +85,6 @@ shop_ids:
   - neajoy-6ad11682-202604
   - sixtones-ramen-hakubutsukan
   - sixtones-7c39702f-
-  - sixtones-a3a0ff52-202003
   - sixtones-sano-sa-foodcourt
   - snowman-abura-gakkai-waseda
   - snowman-ekawatei-koganei
@@ -258,7 +256,7 @@ faq:
   <li><span class="k">2020<br>4月</span><div><b>お食事処ゆうなぎ（銚子）</b><span>日向坂46『バナナマンのせっかくグルメ!!』</span></div></li>
   <li><span class="k">2024<br>6月</span><div><b>竹虎（新宿）</b><span>しおりのなんとなく日常【ラーメン飲み】大好きなラーメン屋で1人勝手に食べ飲み放題が幸せすぎたから見て</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-spice-ramen-tenten,yonino-mukann-yokohama,yonino-kaotan-ramen,yonino-hakata-genki-ippai,sixtones-a3a0ff52-202003,sixtones-7c39702f-,sixtones-sano-sa-foodcourt,snowman-ekawatei-koganei,snowman-abura-gakkai-waseda,snowman-2b4ef35a-20260129,naniwa-b723a30f-202107,naniwa-56665469-20211217,naniwa-795165bd-20220520,naniwa-269b1b4d-20220708,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605" %}
+{% include inline-shop-grid.html ids="yonino-spice-ramen-tenten,yonino-mukann-yokohama,yonino-kaotan-ramen,yonino-hakata-genki-ippai,sixtones-7c39702f-,sixtones-sano-sa-foodcourt,snowman-ekawatei-koganei,snowman-abura-gakkai-waseda,snowman-2b4ef35a-20260129,naniwa-b723a30f-202107,naniwa-56665469-20211217,naniwa-795165bd-20220520,naniwa-269b1b4d-20220708,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605" %}
 
 <h2>乃木坂46：MVと番組のロケ地</h2>
 <p>シングルのMVやメンバーの個人映像、番組のロケで登場したお店です（作品名は推しグルメ巡礼MAPのデータより）。名古屋と岐阜のお店がまとまっています。</p>
@@ -277,7 +275,7 @@ faq:
   <li><span class="k">名古屋</span><div><b>焼きそば たつみ亭</b><span>喜多山駅 徒歩6分</span></div></li>
   <li><span class="k">岐阜</span><div><b>丸デブ 総本店</b><span>名鉄岐阜駅 徒歩14分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-e5fdf419-,nogizaka46-9f892298-,nogizaka46-241b6933-,nogizaka46-f36ca7b7-,nogizaka46-84c802d9-,nogizaka46-9be54ae5-,nogizaka46-shinshin-,nogizaka46-ab929a12-,nogizaka46-d53395ac-,nogizaka46-23d7a99a-,nogizaka46-7b18f3dd-" %}
+{% include inline-shop-grid.html ids="nogizaka46-28d50565-,nogizaka46-13a2278b-,nogizaka46-e5fdf419-,nogizaka46-9f892298-,nogizaka46-241b6933-,nogizaka46-f36ca7b7-,nogizaka46-84c802d9-,nogizaka46-9be54ae5-,nogizaka46-shinshin-,nogizaka46-ab929a12-,nogizaka46-23d7a99a-,nogizaka46-7b18f3dd-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>公式チャンネルの動画から、ラーメンが主役の4本を選びました（タップすると再生します）。</p>

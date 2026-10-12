@@ -17,7 +17,6 @@ summary:
 shop_ids:
   - sixtones-dintaifung-soramachi
   - sixtones-daruma-soramachi
-  - sixtones-c2272dd2-201906
 faq:
   - q: "SixTONESが忘年会をしたお店はどこですか？"
     a: "推しグルメ巡礼MAPのデータでは、2024年1月19日公開の「【ガチリアルな忘年会】念願の小籠包でメシ会」が鼎泰豊 東京ソラマチ店、2025年4月公開の「【もんじゃ忘年会】2024年のYouTube ベスト１は何？」が月島名物もんじゃ だるま ソラマチ店です。どちらも東京ソラマチの7Fにあります。"
@@ -95,7 +94,6 @@ faq:
 <ul class="pf-works">
   <li><span class="k">確認中</span><div><b>もんじゃ まぐろ家</b><span>中央区月島（データの登録）</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-c2272dd2-201906" %}
 
 <h2>エリアで巡るなら</h2>
 <ul>

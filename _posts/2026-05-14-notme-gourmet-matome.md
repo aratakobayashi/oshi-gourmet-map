@@ -24,7 +24,6 @@ shop_ids:
   - notme-4e507645-202411
   - notme-1st-202411
   - notme-12cab5ae-202410
-  - notme-ff35be8a-202501
   - notme-4ab42c47-202501
   - notme-b2f81d0e-202408
   - notme-273b4aa9-202408
@@ -105,7 +104,7 @@ faq:
   <li><span class="k">2024.10</span><div><b>焼肉トラジ 池袋東口店</b><span>大好きなお肉を好きなだけ食べる</span></div></li>
   <li><span class="k">2025.1</span><div><b>浅草きんぎょ・フルーツ果物王国</b><span>【Vlog】浅草で、ひと巫女さんになりました</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="notme-cafe-202411,notme-b9e687dc-202411,notme-30129d4e-202411,notme-d25dc737-202411,notme-a542cec1-202411,notme-4e507645-202411,notme-1st-202411,notme-12cab5ae-202410,notme-ff35be8a-202501,notme-4ab42c47-202501" %}
+{% include inline-shop-grid.html ids="notme-cafe-202411,notme-b9e687dc-202411,notme-30129d4e-202411,notme-d25dc737-202411,notme-a542cec1-202411,notme-4e507645-202411,notme-1st-202411,notme-12cab5ae-202410,notme-4ab42c47-202501" %}
 
 <h2>ちょこもなか（蟹沢萌子・冨田菜々風）：焼肉と軽井沢</h2>
 <p>蟹沢萌子さんと冨田菜々風さんの2人の回。焼肉が2本あります。</p>
