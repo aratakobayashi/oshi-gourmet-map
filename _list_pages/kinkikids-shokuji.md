@@ -13,6 +13,6 @@ related_genres:
   - kinkikids-yakiniku
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

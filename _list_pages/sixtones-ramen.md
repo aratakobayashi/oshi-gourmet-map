@@ -1,20 +1,20 @@
 ---
-title: "SixTONESが行ったラーメン7選"
-description: "SixTONESのメンバーが実際に訪れたラーメンスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESが行ったラーメン5選"
+description: "SixTONESのメンバーが実際に訪れたラーメンスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: ramen
 group_label: "SixTONES"
 slug_id: sixtones-ramen
-shop_count: 7
+shop_count: 5
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
 youtube_id: Y0HPj8hZk-Q
 related_genres:
   - sixtones-others
-  - sixtones-washoku
   - sixtones-cafe
+  - sixtones-washoku
 related_groups:
   - arashi-ramen
   - west-ramen
-  - nogizaka46-ramen
+  - naniwa-ramen
 ---

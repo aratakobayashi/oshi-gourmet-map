@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「鎌倉釜飯 かまかま本店」"
-description: "乃木坂工事中で紹介された食事「鎌倉釜飯 かまかま本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-4f25c3c5-"
-name: "鎌倉釜飯 かまかま本店"
-genre: "shokuji"
-prefecture: "神奈川県"
-city: "鎌倉市"
-address: "神奈川県鎌倉市小町2-11-8"
-nearest_station: "鎌倉駅 徒歩2分"
-source_video_title: "乃木坂工事中"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14014112/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-source_type: "tv"
-lat: 35.32066
-lng: 139.552414
-members:
-  - "新内眞衣"
-  - "衛藤美彩"
-  - "秋元真夏"
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店一覧"
+sitemap: false
 ---

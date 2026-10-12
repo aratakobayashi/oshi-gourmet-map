@@ -9,6 +9,6 @@ shop_count: 6
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

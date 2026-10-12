@@ -8,6 +8,6 @@ slug_id: kpop-straykids-shokuji
 shop_count: 5
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

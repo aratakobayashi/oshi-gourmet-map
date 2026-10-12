@@ -1,11 +1,11 @@
 ---
-title: "≠MEが行った食事20選"
-description: "≠MEのメンバーが実際に訪れた食事スポットを20件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "≠MEが行った食事19選"
+description: "≠MEのメンバーが実際に訪れた食事スポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: notme
 genre: shokuji
 group_label: "≠ME"
 slug_id: notme-shokuji
-shop_count: 20
+shop_count: 19
 group_color: "#8b5cf6"
 group_bio: "≠ME（ノットイコールミー）は指原莉乃プロデュースの女性アイドルグループ。"
 youtube_id: IwPmbzmNeQg
@@ -13,6 +13,6 @@ related_genres:
   - notme-sweets
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

@@ -1,31 +1,7 @@
 ---
-layout: shop
-title: "Snow Manが行った「味芳」"
-description: "Snow ManのYouTubeで紹介された食事「味芳」（愛媛県伊予市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "snowman-ce2afa7e-20260331"
-name: "味芳"
-genre: "shokuji"
-prefecture: "愛媛県"
-city: "伊予市"
-address: "愛媛県伊予市市場132-3"
-nearest_station: "JR予讃線「伊予市駅」より徒歩15分伊予鉄道郡中線「郡中港駅」より徒歩15分"
-visited_date: "2026-03-31"
-youtube_id: "ih8tKyF5YBs"
-source_video_title: "【せっかくグルメ】目黒蓮が愛媛県伊予市で訪れたロケ地まとめ｜SnowMan聖地巡礼"
-group: "snowman"
-tabelog_url: "https://tabelog.com/ehime/A3801/A380103/38000744/"
-lat: 33.7579
-lng: 132.7039
-members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
-groups:
-  - "snowman"
+redirect_to: "/groups/snowman/"
+redirect_label: "Snow Manのお店一覧"
+sitemap: false
 ---

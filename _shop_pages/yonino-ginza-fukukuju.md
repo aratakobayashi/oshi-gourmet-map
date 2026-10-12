@@ -1,24 +1,7 @@
 ---
-layout: shop
-title: "よにのちゃんねるが行った「銀座 福祿壽」"
-description: "よにのちゃんねるが訪れたスイーツ「銀座 福祿壽」（東京都中央区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "yonino-ginza-fukukuju"
-name: "銀座 福祿壽"
-genre: "sweets"
-prefecture: "東京都"
-city: "中央区"
-address: "東京都中央区銀座"
-source_video_url: "https://www.youtube.com/watch?v=VId_YpYm-I8"
-group: "yonino"
-tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13223247/"
-lat: 35.6717
-lng: 139.7653
-members:
-  - "二宮和也"
-groups:
-  - "yonino"
-tags:
-  - "かき氷"
-  - "スイーツ"
-  - "銀座"
+redirect_to: "/groups/yonino/"
+redirect_label: "よにのちゃんねるのお店一覧"
+sitemap: false
 ---

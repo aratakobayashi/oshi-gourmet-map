@@ -13,6 +13,6 @@ related_genres:
   - arashi-cafe
 related_groups:
   - west-ramen
-  - nogizaka46-ramen
   - naniwa-ramen
+  - nogizaka46-ramen
 ---
