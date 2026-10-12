@@ -38,10 +38,12 @@ def base(a):
 def same_place(addr, title):
     a, b = base(addr), base(title)
     return bool(b) and (a.startswith(b) or b.startswith(a))
+def key(s):  # 同じ店かどうか: 店名＋町名まで（同じ名前の別の店を残すため）
+    return n(s['name']) + '|' + base(s.get('address') or '')
 names = {}
 for s in shops:
     for gg in (s.get('groups') or [s.get('group')]):
-        names.setdefault(gg, set()).add(n(s['name']))
+        names.setdefault(gg, set()).add(key(s))
 added, attached, skipped = [], 0, []
 for x in d.get('new', []):
     g = x.get('group') if group == '-' else group
@@ -53,7 +55,7 @@ for x in d.get('new', []):
     elif not re.fullmatch(r'[\w-]{11}', x.get('youtube_id') or '') and not (x.get('thumbnail_url') or '').startswith('https://image.tmdb.org/'): why = 'no-image'
     elif not x.get('prefecture'): why = 'overseas'
     elif not g: why = 'no-group'
-    elif n(x['name']) in names.get(g, set()): why = 'dup-name'
+    elif key(x) in names.get(g, set()): why = 'dup-name'
     if why: skipped.append((why, x['name'])); continue
     addr = x['address']
     q = urllib.parse.quote(re.split(r'[\s　]', addr)[0])
@@ -92,7 +94,7 @@ for x in d.get('new', []):
         s['description'] = (f"{mem}が" if mem else '') + f"『{x.get('program') or x['source_video_title']}』で訪れたお店。"
     if x.get('ordered_items'): s['ordered_items'] = x['ordered_items']
     if unver: s['location_unverified'] = True
-    shops.append(s); names.setdefault(g, set()).add(n(x['name'])); added.append(s)
+    shops.append(s); names.setdefault(g, set()).add(key(x)); added.append(s)
 for a in d.get('attach', []):
     s = by.get(a.get('shop_id'))
     if not s or s.get('youtube_id') or a.get('confidence', 'low') not in ('high', 'mid'): continue

@@ -102453,5 +102453,2551 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
     "tmdb_id": 273426,
     "tmdb_type": "tv"
+  },
+  {
+    "id": "chotokkyu-111cb65c-20261009",
+    "name": "兜 中目黒店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒3-3-13 ラフィーネ中目黒2F",
+    "lat": 35.644459,
+    "lng": 139.698181,
+    "source_video_title": "【ウソがバレたら奢り決定🤩】真っ直ぐアロハはどこまで信じる!?アロハチキンレース🐓",
+    "visited_date": "2026-10-09",
+    "members": [
+      "アロハ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "アロハがYouTubeの動画で訪れたお店。",
+    "source_url": "https://kabtonakameguro.owst.jp/",
+    "source_type": "youtube",
+    "youtube_id": "4LMRjbZX5VQ",
+    "source_video_url": "https://www.youtube.com/watch?v=4LMRjbZX5VQ"
+  },
+  {
+    "id": "chotokkyu-4b334226-20260925",
+    "name": "徳島 甲羅本店",
+    "genre": "washoku",
+    "prefecture": "徳島県",
+    "city": "徳島市",
+    "address": "徳島県徳島市川内町大松236-1",
+    "lat": 34.11504,
+    "lng": 134.578339,
+    "source_video_title": "【ユーキの徳島旅🔥】1泊2日の弾丸帰省でメンバー全員にお土産を買おう❣️",
+    "visited_date": "2026-09-25",
+    "members": [
+      "ユーキ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "ユーキがYouTubeの動画で訪れたお店。",
+    "source_url": "https://kora-honten.jp/store/tokushima/",
+    "source_type": "youtube",
+    "youtube_id": "ZsD20TlnazM",
+    "source_video_url": "https://www.youtube.com/watch?v=ZsD20TlnazM"
+  },
+  {
+    "id": "chotokkyu-0c30c1ac-20260508",
+    "name": "焼肉 にくだらけ",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西麻布1-12-5 SW六本木通りビル 2F",
+    "lat": 35.660233,
+    "lng": 139.723923,
+    "source_video_title": "【サシ飯】二人で焼肉食べて盛り上がったのにラストに一人が破産したwww【パロディ版😎】",
+    "visited_date": "2026-05-08",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ003596000/",
+    "source_type": "youtube",
+    "youtube_id": "PuOxLAUQaSU",
+    "source_video_url": "https://www.youtube.com/watch?v=PuOxLAUQaSU"
+  },
+  {
+    "id": "chotokkyu-e83f1210-20260807",
+    "name": "博多味処 水たき いろは 博多本店",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "address": "福岡県福岡市博多区上川端町14-27 いろはビル",
+    "lat": 33.595474,
+    "lng": 130.408249,
+    "source_video_title": "【福岡編完結✨】ライブ前夜の食事会🍲2組に別れて行動したのでお土産交換もしました!!😆",
+    "visited_date": "2026-08-07",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://hakata-iroha.net/",
+    "source_type": "youtube",
+    "youtube_id": "3Dx9th9KGfo",
+    "source_video_url": "https://www.youtube.com/watch?v=3Dx9th9KGfo"
+  },
+  {
+    "id": "chotokkyu-78a57703-20260410",
+    "name": "博多かんべえ 春吉天神邸",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区春吉3-5-7 リバーフロント中洲西 ウエストサイド2階",
+    "lat": 33.589321,
+    "lng": 130.407913,
+    "source_video_title": "【リョウガ密着in福岡🌟】長期密着遂に完結❣️最後にポップアップストアにもお邪魔しました😆",
+    "visited_date": "2026-04-10",
+    "members": [
+      "リョウガ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "リョウガがYouTubeの動画で訪れたお店。",
+    "source_url": "https://hakata-kanbe.jp/store/haruyoshi/",
+    "source_type": "youtube",
+    "youtube_id": "97jH0D3b9Vs",
+    "source_video_url": "https://www.youtube.com/watch?v=97jH0D3b9Vs"
+  },
+  {
+    "id": "chotokkyu-5450d9d9-20260313",
+    "name": "横浜大飯店",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町154",
+    "lat": 35.443405,
+    "lng": 139.644485,
+    "source_video_title": "【冬旅企画第4弾✨】全員集合❣️中華街でご褒美フカヒレ&裏メニューをかけて食べ放題対決🔥",
+    "visited_date": "2026-03-13",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000104769/",
+    "source_type": "youtube",
+    "youtube_id": "vhl9u31794c",
+    "source_video_url": "https://www.youtube.com/watch?v=vhl9u31794c",
+    "ordered_items": [
+      "フカヒレ"
+    ]
+  },
+  {
+    "id": "chotokkyu-0fb0fb20-20260213",
+    "name": "CAFE SHU（MURE Beppu）",
+    "genre": "cafe",
+    "prefecture": "大分県",
+    "city": "別府市",
+    "address": "大分県別府市楠町19-15",
+    "lat": 33.275703,
+    "lng": 131.506851,
+    "source_video_title": "【大阪〜大分👀】仲良しマネージャーがお仕事の裏側密着❣️休憩時間もみんなで楽しみました!!😆",
+    "visited_date": "2026-02-13",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.mure-beppu.com/cafe/",
+    "source_type": "youtube",
+    "youtube_id": "Y_lfEl-H5gc",
+    "source_video_url": "https://www.youtube.com/watch?v=Y_lfEl-H5gc"
+  },
+  {
+    "id": "chotokkyu-60f7575a-20250822",
+    "name": "伊豆浜焼本舗 道の駅伊東マリンタウン",
+    "genre": "washoku",
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "address": "静岡県伊東市湯川571-19",
+    "lat": 34.984665,
+    "lng": 139.093628,
+    "source_video_title": "【伊東旅第2弾✨】絶品!!飯テロ波状攻撃!!😆海の幸VS山の幸チームで写真撮り対決開幕🔥",
+    "visited_date": "2025-08-22",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://ito-marinetown.co.jp/restaurant/izuhamayakihonpo/",
+    "source_type": "youtube",
+    "youtube_id": "DLqAkePdBF4",
+    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4"
+  },
+  {
+    "id": "chotokkyu-3c8f0272-20250822",
+    "name": "cafe TATI",
+    "genre": "cafe",
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "address": "静岡県伊東市渚町2-6",
+    "lat": 34.971004,
+    "lng": 139.098953,
+    "source_video_title": "【伊東旅第2弾✨】絶品!!飯テロ波状攻撃!!😆海の幸VS山の幸チームで写真撮り対決開幕🔥",
+    "visited_date": "2025-08-22",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=DLqAkePdBF4",
+    "source_type": "youtube",
+    "youtube_id": "DLqAkePdBF4",
+    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4"
+  },
+  {
+    "id": "chotokkyu-13009b9f-20240913",
+    "name": "和kitchen かんな",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区下馬2-43-11 2F",
+    "lat": 35.643337,
+    "lng": 139.679657,
+    "source_video_title": "【EBiDANmuseum初潜入🔥】知る人ぞ知る絶品かき氷店でメンバーに緊急電話凸も⁉【和kitchen かんな🍧】",
+    "visited_date": "2024-09-13",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://kanna-kakigori.jp/",
+    "source_type": "youtube",
+    "youtube_id": "tkGsUPabuN0",
+    "source_video_url": "https://www.youtube.com/watch?v=tkGsUPabuN0",
+    "ordered_items": [
+      "かき氷"
+    ]
+  },
+  {
+    "id": "chotokkyu-6876a800-20240531",
+    "name": "くら寿司 原宿店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前4-31-10",
+    "lat": 35.669201,
+    "lng": 139.70607,
+    "source_video_title": "【くら寿司】この中の誰かが全奢り！NGワードゲームをしながら食べまくったら盛り上がりすぎたꉂ🤣𐤔【超特急】",
+    "visited_date": "2024-05-31",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.kurasushi.co.jp/harajyuku/",
+    "source_type": "youtube",
+    "youtube_id": "hSRTKPlyEN8",
+    "source_video_url": "https://www.youtube.com/watch?v=hSRTKPlyEN8"
+  },
+  {
+    "id": "chotokkyu-1b866432-20230829",
+    "name": "BEACHEND CAFE",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "三浦市",
+    "address": "神奈川県三浦市南下浦町菊名1089-18",
+    "lat": 35.173576,
+    "lng": 139.654922,
+    "source_video_title": "【Vlog】海が見えるレストランにランチ行ってきた！_超特急",
+    "visited_date": "2023-08-29",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=CjsZhcANcz0",
+    "source_type": "youtube",
+    "youtube_id": "CjsZhcANcz0",
+    "source_video_url": "https://www.youtube.com/watch?v=CjsZhcANcz0"
+  },
+  {
+    "id": "chotokkyu-b7af9e44-20230818",
+    "name": "Reg-On Diner（レッグオンダイナー）",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区東1-8-1 K HOUSE 1F",
+    "lat": 35.655575,
+    "lng": 139.709885,
+    "source_video_title": "【2人っきりデート】想定外！㊙️初出しトークでメンバー愛爆漏れ_超特急ビジレポ",
+    "visited_date": "2023-08-18",
+    "members": [
+      "タカシ",
+      "アロハ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "タカシ・アロハがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=e1rMsKUdRhw",
+    "source_type": "youtube",
+    "youtube_id": "e1rMsKUdRhw",
+    "source_video_url": "https://www.youtube.com/watch?v=e1rMsKUdRhw"
+  },
+  {
+    "id": "chotokkyu-fc156cfc-20230728",
+    "name": "雪うさぎ",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区駒沢3-18-2",
+    "lat": 35.630543,
+    "lng": 139.653183,
+    "source_video_title": "かき氷🍧食べたい！【雪うさぎ】_超特急",
+    "visited_date": "2023-07-28",
+    "members": [
+      "ユーキ",
+      "マサヒロ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "ユーキ・マサヒロがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=9-5r3J-zVz8",
+    "source_type": "youtube",
+    "youtube_id": "9-5r3J-zVz8",
+    "source_video_url": "https://www.youtube.com/watch?v=9-5r3J-zVz8",
+    "ordered_items": [
+      "かき氷"
+    ]
+  },
+  {
+    "id": "chotokkyu-e4d80f21-20230414",
+    "name": "Cafe Restaurant BENGAL（カフェレストラン ベンガル）",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "address": "神奈川県厚木市七沢243-4",
+    "lat": 35.441971,
+    "lng": 139.300247,
+    "source_video_title": "緊急開催！ランチドッキリで食べるまでが長い！？【超特急の\"超旅\"】",
+    "visited_date": "2023-04-14",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "http://cafe-restaurant-bengal.com/",
+    "source_type": "youtube",
+    "youtube_id": "yQAd-PGuEhE",
+    "source_video_url": "https://www.youtube.com/watch?v=yQAd-PGuEhE"
+  },
+  {
+    "id": "chotokkyu-a4121ca1-20230217",
+    "name": "北極星 心斎橋本店",
+    "genre": "shokuji",
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "address": "大阪府大阪市中央区西心斎橋2-7-27",
+    "lat": 34.669731,
+    "lng": 135.498779,
+    "source_video_title": "大阪のど真ん中！心斎橋《北極星》のオムライスを食べに行ったら仰天の出来事が山盛り【超特急】",
+    "visited_date": "2023-02-17",
+    "members": [
+      "タカシ",
+      "マサヒロ",
+      "ハル"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "タカシ・マサヒロ・ハルがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000109256/",
+    "source_type": "youtube",
+    "youtube_id": "yBxVQElayEQ",
+    "source_video_url": "https://www.youtube.com/watch?v=yBxVQElayEQ",
+    "ordered_items": [
+      "オムライス"
+    ]
+  },
+  {
+    "id": "chotokkyu-ee0ba1e9-20220916",
+    "name": "ダカフェ 恵比寿店",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南3-11-25 1F",
+    "lat": 35.644878,
+    "lng": 139.707214,
+    "source_video_title": "#超特急ビジレポ 第3弾🎉 ユーキの『絶品かき氷を食べたい❗️』",
+    "visited_date": "2022-09-16",
+    "members": [
+      "タクヤ",
+      "ユーキ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "タクヤ・ユーキがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=zpgfSd8b0Ko",
+    "source_type": "youtube",
+    "youtube_id": "zpgfSd8b0Ko",
+    "source_video_url": "https://www.youtube.com/watch?v=zpgfSd8b0Ko",
+    "ordered_items": [
+      "かき氷"
+    ]
+  },
+  {
+    "id": "chotokkyu-ed3e3827-20220819",
+    "name": "Fleur Universelle × Les Grands Arbres",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区南麻布5-15-11",
+    "lat": 35.651104,
+    "lng": 139.722763,
+    "source_video_title": "超特急ビジレポ 第2弾🎉 タカシの『自然を感じたい❗️』",
+    "visited_date": "2022-08-19",
+    "members": [
+      "タカシ",
+      "リョウガ"
+    ],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "タカシ・リョウガがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=9eNctRYe4Kw",
+    "source_type": "youtube",
+    "youtube_id": "9eNctRYe4Kw",
+    "source_video_url": "https://www.youtube.com/watch?v=9eNctRYe4Kw"
+  },
+  {
+    "id": "chotokkyu-b170c172-20220617",
+    "name": "Factory & Labo 神乃珈琲",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中央町1-4-14",
+    "lat": 35.628399,
+    "lng": 139.694122,
+    "source_video_title": "【★☆超特急ビジレポ☆★　美味しいアイスコーヒーを飲みたい！】",
+    "visited_date": "2022-06-17",
+    "members": [],
+    "groups": [
+      "chotokkyu"
+    ],
+    "group": "chotokkyu",
+    "description": "YouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=TmA_UphBDKc",
+    "source_type": "youtube",
+    "youtube_id": "TmA_UphBDKc",
+    "source_video_url": "https://www.youtube.com/watch?v=TmA_UphBDKc"
+  },
+  {
+    "id": "befirst-fe0e4d77-20241115",
+    "name": "炭火焼きホルモンまんてん 中目黒店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒3-1-4 グリーンプラザ 3F",
+    "lat": 35.645283,
+    "lng": 139.697739,
+    "source_video_title": "BE:FIRST / もぐもぐSHUNTO “ホルモン編” w/ SOTA [BTO #16 \"Dig deeper into SHUNTO\"]",
+    "visited_date": "2024-11-15",
+    "members": [
+      "SHUNTO",
+      "SOTA"
+    ],
+    "groups": [
+      "befirst"
+    ],
+    "group": "befirst",
+    "description": "SHUNTO・SOTAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://horumon-manten.jp/shops/m-nakameguro.html",
+    "source_type": "youtube",
+    "youtube_id": "1otmZzxeOYY",
+    "source_video_url": "https://www.youtube.com/watch?v=1otmZzxeOYY",
+    "ordered_items": [
+      "ホルモン"
+    ]
+  },
+  {
+    "id": "befirst-0fc6b4d5-20230831",
+    "name": "兜 奥座",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-13-9 グランビル恵比寿ビルB1F",
+    "lat": 35.647682,
+    "lng": 139.70784,
+    "source_video_title": "BE:FIRST / もぐもぐSHUNTO w/ MANATO [BTO #3 \"Dig deeper into SHUNTO\"]",
+    "visited_date": "2023-08-31",
+    "members": [
+      "SHUNTO",
+      "MANATO"
+    ],
+    "groups": [
+      "befirst"
+    ],
+    "group": "befirst",
+    "description": "SHUNTO・MANATOがYouTubeの動画で訪れたお店。",
+    "source_url": "https://kabuto-okuza.owst.jp/",
+    "source_type": "youtube",
+    "youtube_id": "7_ldqMTfhWw",
+    "source_video_url": "https://www.youtube.com/watch?v=7_ldqMTfhWw",
+    "ordered_items": [
+      "冷麺"
+    ]
+  },
+  {
+    "id": "befirst-d8080786-20231117",
+    "name": "鳥とう",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿西1-30-1 シーズ代官山 B1F",
+    "lat": 35.648735,
+    "lng": 139.706329,
+    "source_video_title": "BE:FIRST / RYOKI & SOTAとしっぽり飲み [BTO #5 \"Dig deeper into RYOKI & SOTA\"]",
+    "visited_date": "2023-11-17",
+    "members": [
+      "RYOKI",
+      "SOTA"
+    ],
+    "groups": [
+      "befirst"
+    ],
+    "group": "befirst",
+    "description": "RYOKI・SOTAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=iv6D36Nielo",
+    "source_type": "youtube",
+    "youtube_id": "iv6D36Nielo",
+    "source_video_url": "https://www.youtube.com/watch?v=iv6D36Nielo"
+  },
+  {
+    "id": "befirst-0abea1a7-20230722",
+    "name": "RIVERSIDE CLUB（ALL DAY LOUNGE）",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区青葉台3-18-3 THE WORKS 1F",
+    "lat": 35.650429,
+    "lng": 139.690781,
+    "source_video_title": "BE:FIRST / RYUHEIのコーヒー研修 Part.1 [BTO #1 \"Dig deeper into RYUHEI\"]",
+    "visited_date": "2023-07-22",
+    "members": [
+      "RYUHEI"
+    ],
+    "groups": [
+      "befirst"
+    ],
+    "group": "befirst",
+    "description": "RYUHEIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=NfO4cjDdh4M",
+    "source_type": "youtube",
+    "youtube_id": "NfO4cjDdh4M",
+    "source_video_url": "https://www.youtube.com/watch?v=NfO4cjDdh4M"
+  },
+  {
+    "id": "befirst-d66421fe-20241025",
+    "name": "tent",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区代沢5-6-14 1F",
+    "lat": 35.655922,
+    "lng": 139.667435,
+    "source_video_title": "BE:FIRST / LEO’s Bar [BTO #15 \"Dig deeper into LEO\"]",
+    "visited_date": "2024-10-25",
+    "members": [
+      "LEO"
+    ],
+    "groups": [
+      "befirst"
+    ],
+    "group": "befirst",
+    "description": "LEOがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=1xEXmlzOpHs",
+    "source_type": "youtube",
+    "youtube_id": "1xEXmlzOpHs",
+    "source_video_url": "https://www.youtube.com/watch?v=1xEXmlzOpHs"
+  },
+  {
+    "id": "bokuao-f54b5d12-20250830",
+    "name": "喫茶 ニット",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区江東橋4-26-12",
+    "lat": 35.695484,
+    "lng": 139.816498,
+    "source_video_title": "【三角関係】杉浦 英恋を誘ってデート対決！！💘【ノンフィクション】",
+    "visited_date": "2025-08-30",
+    "members": [
+      "杉浦英恋",
+      "塩釜菜那",
+      "金澤亜美"
+    ],
+    "groups": [
+      "bokuao"
+    ],
+    "group": "bokuao",
+    "description": "杉浦英恋・塩釜菜那・金澤亜美がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=GgXkF0Nc9Ao",
+    "source_type": "youtube",
+    "youtube_id": "GgXkF0Nc9Ao",
+    "source_video_url": "https://www.youtube.com/watch?v=GgXkF0Nc9Ao"
+  },
+  {
+    "id": "bokuao-9224e9c8-20250826",
+    "name": "スシロー 経堂店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区経堂1-23-14 オムニクス経堂ビル2F",
+    "lat": 35.649872,
+    "lng": 139.636734,
+    "source_video_title": "【大食い】回転寿司大食い対決！！🍣  〜最年少トリオに最強の刺客現る！〜 【合計100皿超え】",
+    "visited_date": "2025-08-26",
+    "members": [
+      "工藤唯愛",
+      "八重樫美伊咲",
+      "木下藍",
+      "山口結杏",
+      "柳堀花怜"
+    ],
+    "groups": [
+      "bokuao"
+    ],
+    "group": "bokuao",
+    "description": "工藤唯愛・八重樫美伊咲・木下藍・山口結杏・柳堀花怜がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2335",
+    "source_type": "youtube",
+    "youtube_id": "Oeh0aTfS2hg",
+    "source_video_url": "https://www.youtube.com/watch?v=Oeh0aTfS2hg"
+  },
+  {
+    "id": "bokuao-1a2dfddb-20250304",
+    "name": "伊東食堂",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区東池袋5-11-10 塚田ビル1F",
+    "lat": 35.725677,
+    "lng": 139.721741,
+    "source_video_title": "【大食い】はじめての2.5kg超大盛りカレーに挑戦！！🍛【助っ人参戦！】",
+    "visited_date": "2025-03-04",
+    "members": [
+      "工藤唯愛",
+      "八重樫美伊咲",
+      "塩釜菜那"
+    ],
+    "groups": [
+      "bokuao"
+    ],
+    "group": "bokuao",
+    "description": "工藤唯愛・八重樫美伊咲・塩釜菜那がYouTubeの動画で訪れたお店。",
+    "source_url": "https://macaro-ni.jp/159958?page=2",
+    "source_type": "youtube",
+    "youtube_id": "odYWqsY-OBc",
+    "source_video_url": "https://www.youtube.com/watch?v=odYWqsY-OBc"
+  },
+  {
+    "id": "bokuao-8dc7aa87-20250204",
+    "name": "ステーキハウス リベラ 目黒店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区下目黒6-17-20",
+    "lat": 35.629028,
+    "lng": 139.697266,
+    "source_video_title": "【大食い】僕青中3トリオが有名ステーキ1ポンド食べてみた！🥩🍴",
+    "visited_date": "2025-02-04",
+    "members": [
+      "木下藍",
+      "工藤唯愛",
+      "八重樫美伊咲"
+    ],
+    "groups": [
+      "bokuao"
+    ],
+    "group": "bokuao",
+    "description": "木下藍・工藤唯愛・八重樫美伊咲がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=2txeyfIb3v0",
+    "source_type": "youtube",
+    "youtube_id": "2txeyfIb3v0",
+    "source_video_url": "https://www.youtube.com/watch?v=2txeyfIb3v0"
+  },
+  {
+    "id": "hinatazaka46-f9ce9946-20250715",
+    "name": "珈琲専門館 伯爵 巣鴨店",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区巣鴨1-12-3",
+    "lat": 35.732616,
+    "lng": 139.739914,
+    "source_video_title": "【マブダチ】なのほーの巣鴨デート🍵",
+    "visited_date": "2025-07-15",
+    "members": [
+      "上村ひなの",
+      "平尾帆夏"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "上村ひなの・平尾帆夏がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000144910/",
+    "source_type": "youtube",
+    "youtube_id": "ctL0FLB8RN4",
+    "source_video_url": "https://www.youtube.com/watch?v=ctL0FLB8RN4"
+  },
+  {
+    "id": "hinatazaka46-db1f58b6-20241223",
+    "name": "ブタカラ ことぶき食堂",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区桃井1-13-16",
+    "lat": 35.710743,
+    "lng": 139.614685,
+    "source_video_title": "【荻窪】リアル一人定食【唐揚げ】",
+    "visited_date": "2024-12-23",
+    "members": [
+      "清水理央"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "清水理央がYouTubeの動画で訪れたお店。",
+    "source_url": "https://news.mynavi.jp/article/syouwafood_chuoLine-22",
+    "source_type": "youtube",
+    "youtube_id": "LalRXLT3-e8",
+    "source_video_url": "https://www.youtube.com/watch?v=LalRXLT3-e8"
+  },
+  {
+    "id": "hinatazaka46-300c42a1-20260328",
+    "name": "ぎおん徳屋",
+    "genre": "sweets",
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "address": "京都府京都市東山区祇園町南側570-127",
+    "lat": 35.003597,
+    "lng": 135.774017,
+    "source_video_title": "【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】",
+    "visited_date": "2026-03-28",
+    "members": [
+      "平岡海月"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "平岡海月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://co-trip.jp/post/626020",
+    "source_type": "youtube",
+    "youtube_id": "0Ourd7b83lo",
+    "source_video_url": "https://www.youtube.com/watch?v=0Ourd7b83lo"
+  },
+  {
+    "id": "hinatazaka46-6a0e232f-20260328",
+    "name": "祇園NITI",
+    "genre": "sweets",
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "address": "京都府京都市東山区祇園町南側570-8",
+    "lat": 35.003597,
+    "lng": 135.774017,
+    "source_video_title": "【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】",
+    "visited_date": "2026-03-28",
+    "members": [
+      "平岡海月"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "平岡海月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://rurubu.jp/andmore/spot/80026706",
+    "source_type": "youtube",
+    "youtube_id": "0Ourd7b83lo",
+    "source_video_url": "https://www.youtube.com/watch?v=0Ourd7b83lo",
+    "ordered_items": [
+      "あわぜんざい"
+    ]
+  },
+  {
+    "id": "hinatazaka46-bcf80f50-20230520",
+    "name": "千八寿司 与野",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "さいたま市浦和区",
+    "address": "埼玉県さいたま市浦和区上木崎1-2-8",
+    "lat": 35.884743,
+    "lng": 139.639404,
+    "source_video_title": "【地元】埼玉県のお寿司屋さんを推すしかない！",
+    "visited_date": "2023-05-20",
+    "members": [
+      "金村美玖"
+    ],
+    "groups": [
+      "hinatazaka46"
+    ],
+    "group": "hinatazaka46",
+    "description": "金村美玖がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000102753/",
+    "source_type": "youtube",
+    "youtube_id": "fn2qFy4pWZ0",
+    "source_video_url": "https://www.youtube.com/watch?v=fn2qFy4pWZ0"
+  },
+  {
+    "id": "machichuka-f6a4e36f-20190902",
+    "name": "十八番",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区両国2-10-5 東繊ビル 1F",
+    "lat": 35.694096,
+    "lng": 139.791199,
+    "source_video_title": "町中華で飲ろうぜ #22 両国編（2019-09-02 BS-TBS）",
+    "visited_date": "2019-09-02",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0022-jyuhachiban/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-ee6ff316-20191114",
+    "name": "幸楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒2-44-3",
+    "lat": 35.641769,
+    "lng": 139.696976,
+    "source_video_title": "町中華で飲ろうぜ #34 中目黒編（2019-11-14 BS-TBS）",
+    "visited_date": "2019-11-14",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0034-koraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-1de8297b-20191202",
+    "name": "菜来軒",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "川口市",
+    "address": "埼玉県川口市栄町3丁目5-17",
+    "lat": 35.803802,
+    "lng": 139.718811,
+    "source_video_title": "町中華で飲ろうぜ #41 川口編（2019-12-02 BS-TBS）",
+    "visited_date": "2019-12-02",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0041-sairaiken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-93f54342-20191216",
+    "name": "幸楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "北区",
+    "address": "東京都北区赤羽1-51-3",
+    "lat": 35.78294,
+    "lng": 139.721634,
+    "source_video_title": "町中華で飲ろうぜ #45 赤羽編（2019-12-16 BS-TBS）",
+    "visited_date": "2019-12-16",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0045-koraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-aed9e030-20200113",
+    "name": "菜来軒",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "川口市",
+    "address": "埼玉県川口市芝4-1-2",
+    "lat": 35.83213,
+    "lng": 139.690765,
+    "source_video_title": "町中華で飲ろうぜ #50 埼玉県蕨編（2020-01-13 BS-TBS）",
+    "visited_date": "2020-01-13",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0050-sairaiken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-8a770550-20200113",
+    "name": "三幸苑",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区野毛町3-135 中屋ビル 1F",
+    "lat": 35.448013,
+    "lng": 139.627762,
+    "source_video_title": "町中華で飲ろうぜ #51 横浜市野毛編（2020-01-13 BS-TBS）",
+    "visited_date": "2020-01-13",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0051-sankoen/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-2abb97e9-20200127",
+    "name": "北京飯店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "address": "東京都板橋区仲宿44-3",
+    "lat": 35.753777,
+    "lng": 139.709564,
+    "source_video_title": "町中華で飲ろうぜ #54 仲宿編（2020-01-27 BS-TBS）",
+    "visited_date": "2020-01-27",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0054-pekinhanten/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-5c9e0a76-20200224",
+    "name": "桃園",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "調布市",
+    "address": "東京都調布市布田1-49-26",
+    "lat": 35.651993,
+    "lng": 139.546371,
+    "source_video_title": "町中華で飲ろうぜ #62 調布編（2020-02-24 BS-TBS）",
+    "visited_date": "2020-02-24",
+    "members": [
+      "高田秋",
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋・清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0062-toen/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-b829bf9a-20200302",
+    "name": "生駒軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝2-8-10",
+    "lat": 35.652092,
+    "lng": 139.750671,
+    "source_video_title": "町中華で飲ろうぜ #65 芝編（2020-03-02 BS-TBS）",
+    "visited_date": "2020-03-02",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0065-ikomaken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-04b22c43-20200803",
+    "name": "北京飯店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂5-17-19",
+    "lat": 35.64867,
+    "lng": 139.668259,
+    "source_video_title": "町中華で飲ろうぜ #86 三軒茶屋編（2020-08-03 BS-TBS）",
+    "visited_date": "2020-08-03",
+    "members": [
+      "高田秋",
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋・坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0086-pekinhanten/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-4b037ae8-20200810",
+    "name": "青龍",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区羽根木1-12-6 ハネギ プラザ 1F",
+    "lat": 35.666912,
+    "lng": 139.659836,
+    "source_video_title": "町中華で飲ろうぜ #88 代田橋編（2020-08-10 BS-TBS）",
+    "visited_date": "2020-08-10",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0088-seiryu/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-30821d3d-20200817",
+    "name": "幸楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区大崎1-19-9",
+    "lat": 35.618149,
+    "lng": 139.73114,
+    "source_video_title": "町中華で飲ろうぜ #90 大崎編（2020-08-17 BS-TBS）",
+    "visited_date": "2020-08-17",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0090-koraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e56f76c5-20200907",
+    "name": "十八番",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田美倉町9",
+    "lat": 35.69104,
+    "lng": 139.774216,
+    "source_video_title": "町中華で飲ろうぜ #93 神田編（2020-09-07 BS-TBS）",
+    "visited_date": "2020-09-07",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0093-juhachiban/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-4a9fb93b-20200914",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区大森北1-7-4",
+    "lat": 35.587147,
+    "lng": 139.727203,
+    "source_video_title": "町中華で飲ろうぜ #95 大森編（2020-09-14 BS-TBS）",
+    "visited_date": "2020-09-14",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0095-kiraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-7d5621b3-20201116",
+    "name": "萬来軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区新井1-35-12",
+    "lat": 35.713051,
+    "lng": 139.668076,
+    "source_video_title": "町中華で飲ろうぜ #108 中野編（2020-11-16 BS-TBS）",
+    "visited_date": "2020-11-16",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0108-banraiken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-af3de196-20210111",
+    "name": "天龍",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "address": "東京都足立区加平3-14-14",
+    "lat": 35.780758,
+    "lng": 139.830399,
+    "source_video_title": "町中華で飲ろうぜ #114 北綾瀬編（2021-01-11 BS-TBS）",
+    "visited_date": "2021-01-11",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0114-tenryu/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-75b7386d-20210125",
+    "name": "平和軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区中央町2-3-8",
+    "lat": 35.632381,
+    "lng": 139.691788,
+    "source_video_title": "町中華で飲ろうぜ #116 祐天寺編（2021-01-25 BS-TBS）",
+    "visited_date": "2021-01-25",
+    "members": [
+      "坂ノ上茜",
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜・玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0116-heiwaken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-093fdf29-20210208",
+    "name": "宝来",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "address": "東京都江戸川区西一之江4-8-21",
+    "lat": 35.695107,
+    "lng": 139.872513,
+    "source_video_title": "町中華で飲ろうぜ #117 リクエストSP編（2021-02-08 BS-TBS）",
+    "visited_date": "2021-02-08",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0117_horai/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-65421939-20210322",
+    "name": "生駒軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "北区",
+    "address": "東京都北区堀船3丁目32-3",
+    "lat": 35.751472,
+    "lng": 139.748886,
+    "source_video_title": "町中華で飲ろうぜ #124 王子編（2021-03-22 BS-TBS）",
+    "visited_date": "2021-03-22",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0124-ikomaken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-fbe8b7aa-20210726",
+    "name": "玉泉亭",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "address": "神奈川県横浜市西区高島2-16-1 横浜ポルタ Ｂ１Ｆ",
+    "lat": 35.465988,
+    "lng": 139.623001,
+    "source_video_title": "町中華で飲ろうぜ #136 冷やし中華SＰ編（2021-07-26 BS-TBS）",
+    "visited_date": "2021-07-26",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0136-gyokusentei/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-cf8ed4bf-20210823",
+    "name": "珍満",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野3-28-10",
+    "lat": 35.707718,
+    "lng": 139.774109,
+    "source_video_title": "町中華で飲ろうぜ #143 緊急企画・焼きそば編（2021-08-23 BS-TBS）",
+    "visited_date": "2021-08-23",
+    "members": [
+      "玉袋筋太郎",
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎・坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0143-chinman/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-c94749e5-20211102",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "address": "東京都江戸川区松江3-12-11-202",
+    "lat": 35.697964,
+    "lng": 139.868423,
+    "source_video_title": "町中華で飲ろうぜ #158 船堀SP編（2021-11-02 BS-TBS）",
+    "visited_date": "2021-11-02",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0158-kiraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-746271cd-20211116",
+    "name": "新華楼",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区中央2-2-22",
+    "lat": 35.698254,
+    "lng": 139.681824,
+    "source_video_title": "町中華で飲ろうぜ #159 中野坂上編（2021-11-16 BS-TBS）",
+    "visited_date": "2021-11-16",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0159-shinkarou/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-340c4d54-20211130",
+    "name": "金華",
+    "genre": "chuka",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市藤原2-17-17",
+    "lat": 35.731441,
+    "lng": 139.968567,
+    "source_video_title": "町中華で飲ろうぜ #162 千葉県船橋編（2021-11-30 BS-TBS）",
+    "visited_date": "2021-11-30",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0162-kinka/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-5744443b-20220111",
+    "name": "三陽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区新橋2-13-4",
+    "lat": 35.666847,
+    "lng": 139.755173,
+    "source_video_title": "町中華で飲ろうぜ #168 新橋編（2022-01-11 BS-TBS）",
+    "visited_date": "2022-01-11",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0168-sanyo/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-20ec2b96-20220215",
+    "name": "萬来軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区平河町1-1-1",
+    "lat": 35.6833,
+    "lng": 139.741608,
+    "source_video_title": "町中華で飲ろうぜ #173 半蔵門編（2022-02-15 BS-TBS）",
+    "visited_date": "2022-02-15",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0173-banraiken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-8ddf91d2-20220215",
+    "name": "幸楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区小島2-1-3",
+    "lat": 35.704937,
+    "lng": 139.784317,
+    "source_video_title": "町中華で飲ろうぜ #174 御徒町編（2022-02-15 BS-TBS）",
+    "visited_date": "2022-02-15",
+    "members": [
+      "坂ノ上茜",
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜・清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0174-kouraku/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-8d6ac7f4-20220222",
+    "name": "永新",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番2-2-7",
+    "lat": 35.655411,
+    "lng": 139.735657,
+    "source_video_title": "町中華で飲ろうぜ #176 麻布十番編（2022-02-22 BS-TBS）",
+    "visited_date": "2022-02-22",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0176-eishin/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-9f347e26-20220222",
+    "name": "来々軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区元麻布2丁目1-17 坂本ビル1F",
+    "lat": 35.655155,
+    "lng": 139.726807,
+    "source_video_title": "町中華で飲ろうぜ #176 麻布十番編（2022-02-22 BS-TBS）",
+    "visited_date": "2022-02-22",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0176-rairaiken/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-a97b6797-20220510",
+    "name": "来々軒",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "address": "神奈川県横浜市西区中央1-35-22",
+    "lat": 35.456966,
+    "lng": 139.617798,
+    "source_video_title": "町中華で飲ろうぜ #190 横浜編（2022-05-10 BS-TBS）",
+    "visited_date": "2022-05-10",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0190-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-ca56a41a-20220614",
+    "name": "味の横綱",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区西蒲田7-63-5",
+    "lat": 35.561943,
+    "lng": 139.713104,
+    "source_video_title": "町中華で飲ろうぜ #196 蒲田編（2022-06-14 BS-TBS）",
+    "visited_date": "2022-06-14",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0196-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-3428f95f-20220712",
+    "name": "一番",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "address": "東京都葛飾区西新小岩4-34-10",
+    "lat": 35.719589,
+    "lng": 139.853867,
+    "source_video_title": "町中華で飲ろうぜ #200 新小岩SP（2022-07-12 BS-TBS）",
+    "visited_date": "2022-07-12",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0200-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-de8bd005-20230328",
+    "name": "天下一",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "府中市",
+    "address": "東京都府中市矢崎町4-13-14",
+    "lat": 35.658146,
+    "lng": 139.477341,
+    "source_video_title": "町中華で飲ろうぜ お酒にこだわる町中華SP（2023-03-28 BS-TBS）",
+    "visited_date": "2023-03-28",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/sp-osakenikodawaru-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-743515de-20230403",
+    "name": "正華",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "address": "東京都足立区弘道1-1-18",
+    "lat": 35.76635,
+    "lng": 139.809311,
+    "source_video_title": "町中華で飲ろうぜ #235 五反野SP（2023-04-03 BS-TBS）",
+    "visited_date": "2023-04-03",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0235-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-4cfe9019-20230403",
+    "name": "珍来",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "足立区",
+    "address": "東京都足立区中央本町2-24-18 五反野籐やビル 1F",
+    "lat": 35.767784,
+    "lng": 139.809448,
+    "source_video_title": "町中華で飲ろうぜ #236 五反野SP（2023-04-03 BS-TBS）",
+    "visited_date": "2023-04-03",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0236-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-1205631c-20230529",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区目白5-18-14",
+    "lat": 35.724567,
+    "lng": 139.696198,
+    "source_video_title": "町中華で飲ろうぜ #242 椎名町編（2023-05-29 BS-TBS）",
+    "visited_date": "2023-05-29",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0242-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-bd6f5007-20230703",
+    "name": "一番",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町堀内1052",
+    "lat": 35.271217,
+    "lng": 139.570969,
+    "source_video_title": "町中華で飲ろうぜ #248 湘南SP 逗子・葉山（2023-07-03 BS-TBS）",
+    "visited_date": "2023-07-03",
+    "members": [
+      "高田秋"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "高田秋が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0248-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-1ab70203-20230717",
+    "name": "天龍",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "川崎市中原区",
+    "address": "神奈川県川崎市中原区苅宿41-12",
+    "lat": 35.561684,
+    "lng": 139.661163,
+    "source_video_title": "町中華で飲ろうぜ #249 リクエストSP（2023-07-17 BS-TBS）",
+    "visited_date": "2023-07-17",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0249-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-ab5fdf4c-20230717",
+    "name": "珍来",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "富士見市",
+    "address": "埼玉県富士見市鶴馬2606-2",
+    "lat": 35.845211,
+    "lng": 139.537827,
+    "source_video_title": "町中華で飲ろうぜ #250 リクエストSP（2023-07-17 BS-TBS）",
+    "visited_date": "2023-07-17",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0250-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-57e33957-20230731",
+    "name": "海龍",
+    "genre": "chuka",
+    "prefecture": "青森県",
+    "city": "青森市",
+    "address": "青森県青森市金沢3-26-20",
+    "lat": 40.811146,
+    "lng": 140.736389,
+    "source_video_title": "町中華で飲ろうぜ #252 青森SP（2023-07-31 BS-TBS）",
+    "visited_date": "2023-07-31",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0252-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-a5f7273f-20230821",
+    "name": "昇龍",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "熊谷市",
+    "address": "埼玉県熊谷市筑波2-56-1",
+    "lat": 36.140999,
+    "lng": 139.389313,
+    "source_video_title": "町中華で飲ろうぜ #255 アツい町SP（2023-08-21 BS-TBS）",
+    "visited_date": "2023-08-21",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0255-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-c7a131d4-20230821",
+    "name": "栄華",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市御幸町2-15",
+    "lat": 35.791222,
+    "lng": 139.469513,
+    "source_video_title": "町中華で飲ろうぜ #256 所沢編（2023-08-21 BS-TBS）",
+    "visited_date": "2023-08-21",
+    "members": [
+      "坂ノ上茜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "坂ノ上茜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0256-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-b0d545ae-20230925",
+    "name": "萬里",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区外神田1-9-8 木村ビルB1F",
+    "lat": 35.69894,
+    "lng": 139.770508,
+    "source_video_title": "町中華で飲ろうぜ #259 秋葉原編（2023-09-25 BS-TBS）",
+    "visited_date": "2023-09-25",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0259-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-11dc8b07-20240205",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "川崎市多摩区",
+    "address": "神奈川県川崎市多摩区南生田7-20-10",
+    "lat": 35.606918,
+    "lng": 139.540619,
+    "source_video_title": "町中華で飲ろうぜ #279 プロ野球の日SP 川崎編（2024-02-05 BS-TBS）",
+    "visited_date": "2024-02-05",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0279-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e029a95f-20240422",
+    "name": "鳳龍",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "address": "東京都葛飾区立石1-18-9",
+    "lat": 35.737865,
+    "lng": 139.848953,
+    "source_video_title": "町中華で飲ろうぜ #289 京成線SP（2024-04-22 BS-TBS）",
+    "visited_date": "2024-04-22",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0289-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e269dc7d-20240902",
+    "name": "香蘭",
+    "genre": "chuka",
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "address": "茨城県ひたちなか市大成町15-8",
+    "lat": 36.385632,
+    "lng": 140.53389,
+    "source_video_title": "町中華で飲ろうぜ #307 宝くじの日SP  ひたちなか（2024-09-02 BS-TBS）",
+    "visited_date": "2024-09-02",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0307-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-f65c08de-20240902",
+    "name": "熊ぼっこ",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区東上野1-1-11 大野ビル 1F",
+    "lat": 35.70779,
+    "lng": 139.781906,
+    "source_video_title": "町中華で飲ろうぜ #308 都営大江戸線 新御徒町編（2024-09-02 BS-TBS）",
+    "visited_date": "2024-09-02",
+    "members": [
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0308-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-70d49c95-20250113",
+    "name": "萬来軒",
+    "genre": "chuka",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "address": "千葉県市川市国府台1-4-6 1F",
+    "lat": 35.742344,
+    "lng": 139.905884,
+    "source_video_title": "町中華で飲ろうぜ #323 市川SP（2025-01-13 BS-TBS）",
+    "visited_date": "2025-01-13",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0323-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-b94ba65c-20250224",
+    "name": "北京",
+    "genre": "chuka",
+    "prefecture": "広島県",
+    "city": "広島市南区",
+    "address": "広島県広島市南区皆実町1-10-14 中村ビル 1F",
+    "lat": 34.378445,
+    "lng": 132.466187,
+    "source_video_title": "町中華で飲ろうぜ #329 広島SP（2025-02-24 BS-TBS）",
+    "visited_date": "2025-02-24",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0329-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-24ad99de-20250224",
+    "name": "来々軒",
+    "genre": "chuka",
+    "prefecture": "広島県",
+    "city": "広島市東区",
+    "address": "広島県広島市東区牛田本町3-5-15",
+    "lat": 34.410221,
+    "lng": 132.470444,
+    "source_video_title": "町中華で飲ろうぜ #330 広島SP（2025-02-24 BS-TBS）",
+    "visited_date": "2025-02-24",
+    "members": [
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0330-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e49947d0-20250407",
+    "name": "昇龍",
+    "genre": "chuka",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "address": "石川県七尾市細口町ろ80-1",
+    "lat": 37.025234,
+    "lng": 136.940735,
+    "source_video_title": "町中華で飲ろうぜ #339 七尾市SP（2025-04-07 BS-TBS）",
+    "visited_date": "2025-04-07",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0339-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-1c889443-20250421",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-17-6",
+    "lat": 35.659073,
+    "lng": 139.696823,
+    "source_video_title": "町中華で飲ろうぜ #341 渋谷編（2025-04-21 BS-TBS）",
+    "visited_date": "2025-04-21",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0341-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e629ca97-20250421",
+    "name": "一番",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "神奈川県鎌倉市手広5丁目2-1",
+    "lat": 35.324841,
+    "lng": 139.507523,
+    "source_video_title": "町中華で飲ろうぜ #342 七里ヶ浜編（2025-04-21 BS-TBS）",
+    "visited_date": "2025-04-21",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0342-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-ccfadc20-20250602",
+    "name": "味楽",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "address": "神奈川県横浜市鶴見区下末吉4-4-21",
+    "lat": 35.520679,
+    "lng": 139.671051,
+    "source_video_title": "町中華で飲ろうぜ #347 リクエストSP（2025-06-02 BS-TBS）",
+    "visited_date": "2025-06-02",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0347-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-c1b94ac5-20250602",
+    "name": "龍",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区上池台2-37-5 1F",
+    "lat": 35.598194,
+    "lng": 139.693024,
+    "source_video_title": "町中華で飲ろうぜ #348 リクエストSP（2025-06-02 BS-TBS）",
+    "visited_date": "2025-06-02",
+    "members": [
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0348-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-329a9747-20250922",
+    "name": "味楽",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "address": "東京都板橋区中板橋7-9",
+    "lat": 35.756695,
+    "lng": 139.698334,
+    "source_video_title": "町中華で飲ろうぜ #364 中板橋編（2025-09-22 BS-TBS）",
+    "visited_date": "2025-09-22",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0364-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e728a6b5-20251110",
+    "name": "楽楽",
+    "genre": "chuka",
+    "prefecture": "山梨県",
+    "city": "甲府市",
+    "address": "山梨県甲府市中央1-20-20",
+    "lat": 35.658974,
+    "lng": 138.569595,
+    "source_video_title": "町中華で飲ろうぜ #370 お礼参りSP 甲府（2025-11-10 BS-TBS）",
+    "visited_date": "2025-11-10",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0370-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-ef098cd9-20251117",
+    "name": "栄華",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区上野毛4-39-9",
+    "lat": 35.61882,
+    "lng": 139.635117,
+    "source_video_title": "町中華で飲ろうぜ #372 用賀編（2025-11-17 BS-TBS）",
+    "visited_date": "2025-11-17",
+    "members": [
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0372-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-01ea0d0f-20260105",
+    "name": "熊ぼっこ",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区文花3-24-14",
+    "lat": 35.71183,
+    "lng": 139.828461,
+    "source_video_title": "町中華で飲ろうぜ #378 小村井編（2026-01-05 BS-TBS）",
+    "visited_date": "2026-01-05",
+    "members": [
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0378-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-eb7bef95-20260119",
+    "name": "萬福飯店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区矢口1-13-6",
+    "lat": 35.56797,
+    "lng": 139.690979,
+    "source_video_title": "町中華で飲ろうぜ #379 待たせてごめんねSP（2026-01-19 BS-TBS）",
+    "visited_date": "2026-01-19",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0379-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-3846d8af-20260119",
+    "name": "北京亭",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区東糀谷1-19-12",
+    "lat": 35.557186,
+    "lng": 139.74231,
+    "source_video_title": "町中華で飲ろうぜ #379 待たせてごめんねSP（2026-01-19 BS-TBS）",
+    "visited_date": "2026-01-19",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0379-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-b69e974b-20260119",
+    "name": "栄来軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区上高井戸1-20-4",
+    "lat": 35.670986,
+    "lng": 139.6091,
+    "source_video_title": "町中華で飲ろうぜ #380 待たせてごめんねSP（2026-01-19 BS-TBS）",
+    "visited_date": "2026-01-19",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0380-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-67861901-20260322",
+    "name": "華山",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区等々力5-5-8",
+    "lat": 35.607513,
+    "lng": 139.653427,
+    "source_video_title": "町中華で飲ろうぜ サヨナラ7年目　故郷に錦を飾れSP（2026-03-22 BS-TBS）",
+    "visited_date": "2026-03-22",
+    "members": [
+      "樋口日奈",
+      "樋口柚子"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈・樋口柚子が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/20260322-03/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-f98d570d-20260322",
+    "name": "喜楽",
+    "genre": "chuka",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "address": "和歌山県和歌山市南材木丁3-32",
+    "lat": 34.229683,
+    "lng": 135.181015,
+    "source_video_title": "町中華で飲ろうぜ サヨナラ7年目　故郷に錦を飾れSP（2026-03-22 BS-TBS）",
+    "visited_date": "2026-03-22",
+    "members": [
+      "玉袋筋太郎",
+      "清田みくり"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎・清田みくりが『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/20260322-05/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-27e75ded-20260511",
+    "name": "昇龍",
+    "genre": "chuka",
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "address": "埼玉県八潮市中央1-21-30",
+    "lat": 35.82309,
+    "lng": 139.835892,
+    "source_video_title": "町中華で飲ろうぜ #396 八潮編（2026-05-11 BS-TBS）",
+    "visited_date": "2026-05-11",
+    "members": [
+      "谷口彩菜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "谷口彩菜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0396-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-1950ecc5-20260601",
+    "name": "開々亭",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区桜上水4-25-14",
+    "lat": 35.663406,
+    "lng": 139.63028,
+    "source_video_title": "町中華で飲ろうぜ #400 桜上水編（2026-06-01 BS-TBS）",
+    "visited_date": "2026-06-01",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0400-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-04fada1c-20260615",
+    "name": "北京亭",
+    "genre": "chuka",
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "address": "千葉県千葉市稲毛区弥生町2-21",
+    "lat": 35.623196,
+    "lng": 140.103439,
+    "source_video_title": "町中華で飲ろうぜ #402 千葉市編（2026-06-15 BS-TBS）",
+    "visited_date": "2026-06-15",
+    "members": [
+      "谷口彩菜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "谷口彩菜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0402-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-413b6f09-20260622",
+    "name": "昭和軒",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "中野区",
+    "address": "東京都中野区南台4-56-1",
+    "lat": 35.678471,
+    "lng": 139.66568,
+    "source_video_title": "町中華で飲ろうぜ #404 中野富士見町編（2026-06-22 BS-TBS）",
+    "visited_date": "2026-06-22",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0404-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "machichuka-e2570268-20260706",
+    "name": "天津飯店",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横須賀市",
+    "address": "神奈川県横須賀市根岸町3-12-1",
+    "lat": 35.249897,
+    "lng": 139.68306,
+    "source_video_title": "町中華で飲ろうぜ #406 横須賀市編（2026-07-06 BS-TBS）",
+    "visited_date": "2026-07-06",
+    "members": [
+      "鈴木美羽"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "鈴木美羽が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0406-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv"
   }
 ]
