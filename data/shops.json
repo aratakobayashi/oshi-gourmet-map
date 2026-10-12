@@ -73720,5 +73720,462 @@
     "description": "しおりがYouTubeの動画で訪れたお店。",
     "source_url": "https://www.hotpepper.jp/strJ004090069/",
     "source_type": "youtube"
+  },
+  {
+    "id": "sakurazaka46-12da6055-20230809",
+    "name": "Curry Spice Gelateria KALPASI",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区北沢2-12-2 サウスウェーブ下北沢 1F",
+    "lat": 35.660679,
+    "lng": 139.668137,
+    "source_video_title": "【Vlog】下北沢人気No.1のカレー＆古着屋さんで〇万円ガチ購入【感激】",
+    "visited_date": "2023-08-09",
+    "members": [
+      "土生瑞穂"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "土生瑞穂がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=5NLci3utIH0",
+    "source_type": "youtube",
+    "youtube_id": "5NLci3utIH0",
+    "source_video_url": "https://www.youtube.com/watch?v=5NLci3utIH0"
+  },
+  {
+    "id": "sakurazaka46-7d31a281-20231101",
+    "name": "千里眼",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区駒場4-6-8 佐藤ビル1F",
+    "lat": 35.664047,
+    "lng": 139.678497,
+    "source_video_title": "【千里眼】ラーメン大好き的野美青と山下瞳月が二郎系に初挑戦！【第1弾】",
+    "visited_date": "2023-11-01",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://r.gnavi.co.jp/r1a6d09d0000/",
+    "source_type": "youtube",
+    "youtube_id": "fyTT_thpGkw",
+    "source_video_url": "https://www.youtube.com/watch?v=fyTT_thpGkw"
+  },
+  {
+    "id": "sakurazaka46-fb1b4b65-20240229",
+    "name": "浅草 炭火焼肉 本とさや",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区西浅草3-1-9",
+    "lat": 35.71431,
+    "lng": 139.792313,
+    "source_video_title": "【一人焼肉】浅草で一人焼肉を村山美羽が大満喫！【本とさや】",
+    "visited_date": "2024-02-29",
+    "members": [
+      "村山美羽"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "村山美羽がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000103551/",
+    "source_type": "youtube",
+    "youtube_id": "zGWLK7eqYUQ",
+    "source_video_url": "https://www.youtube.com/watch?v=zGWLK7eqYUQ"
+  },
+  {
+    "id": "sakurazaka46-abfde076-20240321",
+    "name": "ふくちゃんラーメン 田隈本店",
+    "genre": "ramen",
+    "prefecture": "福岡県",
+    "city": "福岡市早良区",
+    "address": "福岡県福岡市早良区田隈2-24-2",
+    "lat": 33.547215,
+    "lng": 130.336853,
+    "source_video_title": "【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】",
+    "visited_date": "2024-03-21",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000112750/",
+    "source_type": "youtube",
+    "youtube_id": "wP99krJqGf4",
+    "source_video_url": "https://www.youtube.com/watch?v=wP99krJqGf4"
+  },
+  {
+    "id": "sakurazaka46-2c6bc291-20240321",
+    "name": "一蘭 本社総本店",
+    "genre": "ramen",
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "address": "福岡県福岡市博多区中洲5-3-2",
+    "lat": 33.593231,
+    "lng": 130.404648,
+    "source_video_title": "【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】",
+    "visited_date": "2024-03-21",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ichiran.com/shop/kyushu/sohonten/",
+    "source_type": "youtube",
+    "youtube_id": "wP99krJqGf4",
+    "source_video_url": "https://www.youtube.com/watch?v=wP99krJqGf4"
+  },
+  {
+    "id": "sakurazaka46-0b12e7c6-20240403",
+    "name": "カドヤ食堂 総本店",
+    "genre": "ramen",
+    "prefecture": "大阪府",
+    "city": "大阪市西区",
+    "address": "大阪府大阪市西区新町4-16-13 キャピタル西長堀1F",
+    "lat": 34.676201,
+    "lng": 135.483704,
+    "source_video_title": "【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】",
+    "visited_date": "2024-04-03",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.timeout.com/osaka/restaurants/kadoya-shokudo",
+    "source_type": "youtube",
+    "youtube_id": "i8xUo4Q61Ag",
+    "source_video_url": "https://www.youtube.com/watch?v=i8xUo4Q61Ag"
+  },
+  {
+    "id": "sakurazaka46-64170cf0-20240403",
+    "name": "ストライク軒",
+    "genre": "ramen",
+    "prefecture": "大阪府",
+    "city": "大阪市北区",
+    "address": "大阪府大阪市北区天神橋5-8-8",
+    "lat": 34.708141,
+    "lng": 135.510971,
+    "source_video_title": "【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】",
+    "visited_date": "2024-04-03",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.timeout.jp/osaka/ja/レストラン/strike-ken",
+    "source_type": "youtube",
+    "youtube_id": "i8xUo4Q61Ag",
+    "source_video_url": "https://www.youtube.com/watch?v=i8xUo4Q61Ag"
+  },
+  {
+    "id": "sakurazaka46-e1b9d5a4-20240411",
+    "name": "味仙 JR名古屋駅店",
+    "genre": "ramen",
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "address": "愛知県名古屋市中村区名駅1-1-4",
+    "lat": 35.17075,
+    "lng": 136.883423,
+    "source_video_title": "【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】",
+    "visited_date": "2024-04-11",
+    "members": [
+      "的野美青",
+      "向井純葉",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・向井純葉・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.mapion.co.jp/phonebook/M01006/23105/G7378204-001/",
+    "source_type": "youtube",
+    "youtube_id": "N7d76_LZV_A",
+    "source_video_url": "https://www.youtube.com/watch?v=N7d76_LZV_A"
+  },
+  {
+    "id": "sakurazaka46-8e79d4b5-20240411",
+    "name": "元祖ニュータンタンメン本舗 京町店",
+    "genre": "ramen",
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "address": "神奈川県川崎市川崎区京町1-18-7",
+    "lat": 35.516888,
+    "lng": 139.695251,
+    "source_video_title": "【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】",
+    "visited_date": "2024-04-11",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://gfg1000.gorp.jp/",
+    "source_type": "youtube",
+    "youtube_id": "N7d76_LZV_A",
+    "source_video_url": "https://www.youtube.com/watch?v=N7d76_LZV_A"
+  },
+  {
+    "id": "sakurazaka46-f0e69c0c-20250409",
+    "name": "赤い壺",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山3-5-9 レイカーズ青山3階",
+    "lat": 35.665634,
+    "lng": 139.712769,
+    "source_video_title": "【激辛】遠藤理子と山下瞳月が激辛料理に賞状を賭けて挑戦！【激辛チャレンジ】",
+    "visited_date": "2025-04-09",
+    "members": [
+      "遠藤理子",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "遠藤理子・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://akaitsubo.tokyo/",
+    "source_type": "youtube",
+    "youtube_id": "1uUrAnz0EU8",
+    "source_video_url": "https://www.youtube.com/watch?v=1uUrAnz0EU8"
+  },
+  {
+    "id": "sakurazaka46-b1d8c3ae-20250701",
+    "name": "一蘭の森 糸島店",
+    "genre": "ramen",
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "address": "福岡県糸島市志摩松隈256-10",
+    "lat": 33.594578,
+    "lng": 130.201859,
+    "source_video_title": "【一蘭の森】的野・山下の日本ラーメン旅 一蘭の本拠地に潜入 福岡編【第5弾】",
+    "visited_date": "2025-07-01",
+    "members": [
+      "的野美青",
+      "山下瞳月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "的野美青・山下瞳月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ichiran.com/shop/kyushu/mori/",
+    "source_type": "youtube",
+    "youtube_id": "Mm_1ib8hRJA",
+    "source_video_url": "https://www.youtube.com/watch?v=Mm_1ib8hRJA"
+  },
+  {
+    "id": "sakurazaka46-96d84d89-20250807",
+    "name": "焼肉しみず",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区西五反田4-29-13 TYビル 2F",
+    "lat": 35.626011,
+    "lng": 139.71286,
+    "source_video_title": "【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】",
+    "visited_date": "2025-08-07",
+    "members": [
+      "村山美羽"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "村山美羽がYouTubeの動画で訪れたお店。",
+    "source_url": "https://yakiniku-shimizu.net/reserve",
+    "source_type": "youtube",
+    "youtube_id": "JXi2D8aMKVE",
+    "source_video_url": "https://www.youtube.com/watch?v=JXi2D8aMKVE"
+  },
+  {
+    "id": "sakurazaka46-69f9635b-20250219",
+    "name": "cafe&gallery LUPOPO",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区三軒茶屋1-35-20",
+    "lat": 35.642952,
+    "lng": 139.672882,
+    "source_video_title": "【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋",
+    "visited_date": "2025-02-19",
+    "members": [
+      "石森璃花",
+      "中嶋優月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "石森璃花・中嶋優月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://lupopocafe.net/",
+    "source_type": "youtube",
+    "youtube_id": "0V7iUeKZrCo",
+    "source_video_url": "https://www.youtube.com/watch?v=0V7iUeKZrCo",
+    "ordered_items": [
+      "ケーキ"
+    ]
+  },
+  {
+    "id": "sakurazaka46-2713b811-20260616",
+    "name": "日の出製麺所",
+    "genre": "washoku",
+    "prefecture": "香川県",
+    "city": "坂出市",
+    "address": "香川県坂出市富士見町1丁目8-5",
+    "lat": 34.310398,
+    "lng": 133.850281,
+    "source_video_title": "【グルメ】ちょっとお先に香川を観光＆会場視察！「マチ★アソビ Vol.30」に登壇！【カワウソと握手】",
+    "visited_date": "2026-06-16",
+    "members": [
+      "松田里奈",
+      "的野美青"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "松田里奈・的野美青がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hinode.net/",
+    "source_type": "youtube",
+    "youtube_id": "irlxdNA-gxs",
+    "source_video_url": "https://www.youtube.com/watch?v=irlxdNA-gxs"
+  },
+  {
+    "id": "sakurazaka46-1c293b31-20260914",
+    "name": "ラーメン我馬 五日市店",
+    "genre": "ramen",
+    "prefecture": "広島県",
+    "city": "広島市佐伯区",
+    "address": "広島県広島市佐伯区五日市7-3-24",
+    "lat": 34.379589,
+    "lng": 132.360291,
+    "source_video_title": "【思い出旅】中国地方コンビでまったり広島旅！本当にずっと食べてます…！",
+    "visited_date": "2026-09-14",
+    "members": [
+      "谷口愛季",
+      "向井純葉"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "谷口愛季・向井純葉がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.gaba-2000.com/shop/itsukaichi/",
+    "source_type": "youtube",
+    "youtube_id": "HX2ezjOU12A",
+    "source_video_url": "https://www.youtube.com/watch?v=HX2ezjOU12A"
+  },
+  {
+    "id": "sakurazaka46-a464129e-20251211",
+    "name": "回転寿司 根室花まる JRタワーステラプレイス店",
+    "genre": "washoku",
+    "prefecture": "北海道",
+    "city": "札幌市中央区",
+    "address": "北海道札幌市中央区北5条西2丁目 札幌ステラプレイス センター6F",
+    "lat": 43.067902,
+    "lng": 141.352829,
+    "source_video_title": "【札幌グルメ】井上との思い出に…いのまちゅでアポなしグルメ旅！【北海道】",
+    "visited_date": "2025-12-11",
+    "members": [
+      "井上梨名",
+      "武元唯衣",
+      "松田里奈"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "井上梨名・武元唯衣・松田里奈がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.sushi-hanamaru.com/store/details/s03.html",
+    "source_type": "youtube",
+    "youtube_id": "3PBB6NlVdjI",
+    "source_video_url": "https://www.youtube.com/watch?v=3PBB6NlVdjI"
+  },
+  {
+    "id": "sakurazaka46-3a7fe23d-20260324",
+    "name": "うなぎ料理 若松屋",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "柳川市",
+    "address": "福岡県柳川市沖端町26",
+    "lat": 33.158195,
+    "lng": 130.396347,
+    "source_video_title": "【第2弾】ゆーづの西鉄ひとり旅！柳川のうなぎを求めて！【福岡】",
+    "visited_date": "2026-03-24",
+    "members": [
+      "中嶋優月"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "中嶋優月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ002648056/",
+    "source_type": "youtube",
+    "youtube_id": "FCMrKuziVjA",
+    "source_video_url": "https://www.youtube.com/watch?v=FCMrKuziVjA",
+    "ordered_items": [
+      "うなぎのせいろ蒸し"
+    ]
+  },
+  {
+    "id": "sakurazaka46-1049962f-20250516",
+    "name": "あつた蓬莱軒 松坂屋店",
+    "genre": "washoku",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区栄3-30-8 松坂屋名古屋店南館10F",
+    "lat": 35.164845,
+    "lng": 136.908249,
+    "source_video_title": "【サッカー観戦】いとこの勝利を願い名古屋グランパスの必勝祈願！ほのりこ名古屋Vlog！",
+    "visited_date": "2025-05-16",
+    "members": [
+      "田村保乃",
+      "遠藤理子"
+    ],
+    "groups": [
+      "sakurazaka46"
+    ],
+    "group": "sakurazaka46",
+    "description": "田村保乃・遠藤理子がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000796446/",
+    "source_type": "youtube",
+    "youtube_id": "o_CEG63gTCg",
+    "source_video_url": "https://www.youtube.com/watch?v=o_CEG63gTCg",
+    "ordered_items": [
+      "ひつまぶし"
+    ]
   }
 ]
