@@ -17,6 +17,7 @@ d = json.load(open(path))
 raw = open(ROOT + '/data/shops.json').read(); shops = json.loads(raw)
 by = {s['id']: s for s in shops}
 def n(a): return re.sub(r'[\s　]', '', unicodedata.normalize('NFKC', a or ''))
+def first(a): return re.split(r'[\s　]', unicodedata.normalize('NFKC', a or '').strip())[0]  # 建物名・階の前まで
 KAN = {'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9,'十':10}
 def kan2(s):
     s = n(s)
@@ -25,8 +26,8 @@ def kan2(s):
         if '十' in t:
             a, _, b = t.partition('十'); return str((KAN.get(a,1) if a else 1)*10 + (KAN.get(b,0) if b else 0))
         return str(KAN[t])
-    return re.sub(r'([一二三四五六七八九十]+)(?=丁目)', rep, s)
-def nums(a): return re.findall(r'\d+', kan2(a))
+    return re.sub(r'([一二三四五六七八九十]+)(?=丁目|条)', rep, s)
+def nums(a): return re.findall(r'\d+', kan2(first(a)))
 names = {}
 for s in shops:
     for gg in (s.get('groups') or [s.get('group')]):
