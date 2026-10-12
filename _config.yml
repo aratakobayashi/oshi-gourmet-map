@@ -9,7 +9,8 @@ operator_name: "推しグルメ巡礼MAP 編集部"
 contact_form_url: ""
 # 参加しているアフィリエイトプログラム（/disclosure/ に表示）。提携が決まったら追記
 affiliate_programs:
-  - "バリューコマース（食べログ・じゃらんnet など）"
+  - "バリューコマース（食べログ・一休.comレストラン など）"
+  - "楽天アフィリエイト（楽天トラベル）"
 
 # アフィリエイトリンク変換（_includes/affiliate-link.html）
 # 提携承認後に管理画面で sid / pid を確認して入力する。空の間は通常リンクのまま出力
@@ -26,7 +27,7 @@ affiliate:
     jalan_pid: ""
   # 楽天アフィリエイトのアフィリエイトID（例: 1234abcd.5678efgh.1234abcd.5678efgh）
   rakuten:
-    id: ""
+    id: "55ce4838.51cda7a6.55ce4839.35153394"
 
 # ビルド設定
 markdown: kramdown
