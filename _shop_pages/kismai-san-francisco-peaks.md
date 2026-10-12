@@ -13,7 +13,7 @@ source_video_title: "河合郁人×藤ヶ谷太輔のハンバーガーショッ
 source_url: "https://kosodate-and.net/kawai-fujigaya-hamburger"
 group: "kismai"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001017828/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001017828/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg"
 lat: 35.67197436481817
 lng: 139.7091961523204

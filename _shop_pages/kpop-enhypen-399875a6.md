@@ -13,7 +13,7 @@ source_video_title: "ENHYPEN"
 source_url: "https://oshito.online/news/15229.html"
 group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13228701/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003410482/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003410482/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/90/88/P040519088/P040519088_238.jpg"
 lat: 35.6705999
 lng: 139.7159289

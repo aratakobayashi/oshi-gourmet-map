@@ -13,7 +13,7 @@ source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27003206/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000449898/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000449898/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/75/49/P019937549/P019937549_238.jpg"
 lat: 34.7037444
 lng: 135.4993314

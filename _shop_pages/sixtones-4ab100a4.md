@@ -14,7 +14,9 @@ source_video_title: "【木村さ〜〜ん！】木村拓哉とジェシーの�
 source_url: "https://kosodate-and.net/kimura-jesse-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13022287/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000243474/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/26/P021441426/P021441426_238.jpg"
 lat: 35.6632293
 lng: 139.7822568
 members:

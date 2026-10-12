@@ -12,7 +12,7 @@ source_video_title: "Aぇ! group【Aぇちゅ〜ぶ】新宿の焼肉屋さん�
 source_url: "https://kosodate-and.net/agroup-yakiniku-shinjyuku"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13189068/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001147488/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001147488/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/99/38/P024969938/P024969938_238.jpg"
 lat: 35.6913669378848
 lng: 139.70548098336778

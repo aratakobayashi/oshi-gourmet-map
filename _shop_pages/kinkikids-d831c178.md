@@ -12,7 +12,7 @@ source_video_title: "【KinKi Kidsのブンブブーンロケ地】銀座の天�
 source_url: "https://kosodate-and.net/kinki-kids-bunbuboon-tenpura"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13092132/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000747251/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000747251/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/43/P020886543/P020886543_238.jpg"
 lat: 35.6720135

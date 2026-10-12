@@ -13,7 +13,7 @@ source_video_title: "アニマリング【佐久間大介＆髙地優吾】焼�
 source_url: "https://kosodate-and.net/animaling-saku-kochi-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131712/13174357/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001263979/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001263979/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/20/09/P046502009/P046502009_238.jpg"
 lat: 35.6145052
 lng: 139.7164218

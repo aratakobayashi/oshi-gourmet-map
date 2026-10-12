@@ -12,7 +12,7 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメワールドツ
 source_url: "https://kosodate-and.net/vsdamashii-kishi-gratin-hamburger"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13057144/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000725297/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000725297/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/78/P046470578/P046470578_238.jpg"
 lat: 35.733513737859035

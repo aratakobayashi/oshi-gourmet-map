@@ -11,7 +11,7 @@ address: "兵庫県神戸市中央区加納町４丁目５−１３"
 source_video_title: "シンクロニシティ特典映像"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hyogo/A2801/A280101/28002105/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000635452/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000635452/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/44/P028697944/P028697944_238.jpg"
 lat: 34.695127
 lng: 135.1937319

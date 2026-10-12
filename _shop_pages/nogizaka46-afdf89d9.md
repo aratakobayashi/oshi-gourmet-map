@@ -10,7 +10,7 @@ city: "大垣市"
 address: "大垣市本町１丁目７７"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
-hotpepper_url: "https://www.hotpepper.jp/strJ000373664/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000373664/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/28/94/P018572894/P018572894_238.jpg"
 lat: 35.362087
 lng: 136.619165

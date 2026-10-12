@@ -14,7 +14,7 @@ youtube_id: "3bVqyOhEmjc"
 source_video_title: "【外飲みキモチエ〜】穴場はしご酒スポットで四軒はしご酒！in新宿・代々木"
 group: "shiori"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130403/13266611/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004558955/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004558955/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/34/P049403334/P049403334_238.jpg"
 lat: 35.68318153788932
 lng: 139.7033334832866

@@ -12,6 +12,8 @@ source_video_title: "【永瀬廉＆ロウン Instagram】食事のお寿司屋�
 source_url: "https://kosodate-and.net/ren-rowoon-hokkaido-sushi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/hokkaido/A0105/A010501/1010279/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000100345/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/04/P012216804/P012216804_238.jpg"
 lat: 41.77472257517117
 lng: 140.78772296521845
 members:

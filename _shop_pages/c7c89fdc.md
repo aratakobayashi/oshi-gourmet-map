@@ -11,7 +11,7 @@ address: "東京都北区赤羽1丁目"
 nearest_station: "赤羽"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132305/13249456/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001266204/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001266204/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/34/75/P037523475/P037523475_238.jpg"
 source_type: "tv"
 lat: 35.78162473783194

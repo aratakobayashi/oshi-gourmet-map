@@ -11,7 +11,9 @@ address: "東京都新宿区歌舞伎町1-23-13 下村ビル　Ｂ１Ｆ"
 source_video_title: "歌舞伎町【スカウトマン】"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13031808/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000001512/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/44/37/P030774437/P030774437_238.jpg"
 source_type: "tv"
 lat: 35.69422767592237
 lng: 139.70106663622622

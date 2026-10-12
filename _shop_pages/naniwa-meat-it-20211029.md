@@ -12,7 +12,9 @@ visited_date: "2021-10-29"
 source_video_title: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132701/13256902/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001266818/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/16/13/P040711613/P040711613_238.jpg"
 source_type: "tv"
 lat: 35.5413685
 lng: 139.4520661

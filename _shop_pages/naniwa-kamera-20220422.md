@@ -13,7 +13,9 @@ visited_date: "2022-04-22"
 source_video_title: " シューマイの存在感が増しているのなんでやねん！を解明"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13264889/"
+hotpepper_url: "https://www.hotpepper.jp/strJ003829570/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/82/33/P045258233/P045258233_238.jpg"
 source_type: "tv"
 lat: 35.6593786
 lng: 139.6987796

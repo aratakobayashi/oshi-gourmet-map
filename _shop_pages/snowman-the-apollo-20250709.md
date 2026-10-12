@@ -12,7 +12,9 @@ nearest_station: "「銀座駅」C2・C3出より徒歩1分「日比谷駅」A1�
 visited_date: "2025-07-09"
 source_video_title: "【ゴチになります】SnowMan阿部＆佐久間 銀座ギリシャ料理「THE APOLLO」食べたメニュー・予約方法"
 group: "snowman"
+hotpepper_url: "https://www.hotpepper.jp/strJ001209257/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/47/P031348947/P031348947_238.jpg"
 lat: 35.6720135
 lng: 139.7647202
 members:

@@ -13,7 +13,7 @@ visited_date: "2018-05-16"
 youtube_id: "siVHcoKNfY4"
 source_video_title: "Snow Man 話題！【ボードゲームカフェ】に行ってみた"
 group: "snowman"
-hotpepper_url: "https://www.hotpepper.jp/strJ003410064/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003410064/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/20/P040544820/P040544820_238.jpg"
 lat: 35.6691
 lng: 139.689
