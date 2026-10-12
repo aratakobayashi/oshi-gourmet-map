@@ -14,6 +14,8 @@ source_video_title: "タイムレスファミリア 地頭王企画（2025年11�
 source_url: "https://oshikatsu-time.com/timelesz-timelesfamilia-kikuchifuma-pudding/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130402/13177228/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001116932/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/20/P040566320/P040566320_238.jpg"
 lat: 35.6895408
 lng: 139.7130248
 members:

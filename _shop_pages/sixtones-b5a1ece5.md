@@ -15,7 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=iL3LjxeRpX4"
 source_url: "https://kosodate-and.net/sixtones-ikaho-onsen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10001838/"
-hotpepper_url: "https://www.hotpepper.jp/strJ002648316/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ002648316/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/70/33/P039477033/P039477033_238.jpg"
 lat: 36.490004
 lng: 138.922353

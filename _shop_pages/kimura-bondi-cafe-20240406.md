@@ -12,7 +12,7 @@ visited_date: "2024-04-06"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%83%AF%E3%82%A4%E3%83%B3"
 group: "kimura"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13301076/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000805707/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000805707/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/30/63/P012333063/P012333063_238.jpg"
 lat: 35.6514717
 lng: 139.722772

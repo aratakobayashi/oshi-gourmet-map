@@ -13,7 +13,7 @@ source_video_title: "それスノ 日帰りバスツアー in河口湖"
 source_url: "https://fananablog.com/soresuno-seichi-kawaguchiko/"
 group: "snowman"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190303/19010099/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001228522/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001228522/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/53/55/P039175355/P039175355_238.jpg"
 lat: 35.49050343771152

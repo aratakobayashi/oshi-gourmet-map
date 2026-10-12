@@ -11,6 +11,8 @@ address: "伊東市八幡野１０６４−６"
 source_video_title: "錆びたコンパスMV"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22000369/"
+hotpepper_url: "https://www.hotpepper.jp/strJ002654009/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/55/67/P039625567/P039625567_238.jpg"
 lat: 34.878274
 lng: 139.085521
 groups:

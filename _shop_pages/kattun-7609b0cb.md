@@ -16,7 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=chtW4R82cOg"
 source_url: "https://kosodate-and.net/kame-osaka-yakiniku"
 group: "kattun"
 tabelog_url: "https://tabelog.com/osaka/A2705/A270501/27119941/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001266918/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001266918/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/04/P037553504/P037553504_238.jpg"
 lat: 34.57932814514955
 lng: 135.47711348932836

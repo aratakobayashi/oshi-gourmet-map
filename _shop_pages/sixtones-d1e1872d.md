@@ -13,7 +13,7 @@ source_video_title: "トークィーンズ【髙地優吾ロケ地】居酒屋�
 source_url: "https://kosodate-and.net/talkqueens-kochi-izakaya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13070115/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000740363/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000740363/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/41/71/P038064171/P038064171_238.jpg"
 lat: 35.6301291

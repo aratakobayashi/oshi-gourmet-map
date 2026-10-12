@@ -13,7 +13,9 @@ source_video_title: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ
 source_url: "https://kosodate-and.net/sano-nishinomiya-pasta"
 group: "agroup"
 tabelog_url: "https://tabelog.com/hyogo/A2803/A280301/28003309/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000496099/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cpwapzXY6pJhdZun5WFjAYKWTHq.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/56/02/P046485602/P046485602_238.jpg"
 lat: 34.74476810790683
 lng: 135.3579302680155
 members:

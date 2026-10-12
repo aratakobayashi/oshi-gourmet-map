@@ -14,7 +14,7 @@ source_video_title: "CLASSY.11月号【松村北斗 ロケ地】静岡おでん�
 source_url: "https://kosodate-and.net/classy-hokuto-shizuoka-oden"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13026389/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000238283/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ000238283/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/81/62/P027348162/P027348162_238.jpg"
 lat: 35.6921592
 lng: 139.7006065

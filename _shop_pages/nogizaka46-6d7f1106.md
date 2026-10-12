@@ -11,7 +11,9 @@ address: "千葉県千葉市美浜区中瀬1-3 幕張テクノガーデン 1F"
 source_video_title: "幕張メッセ周辺"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000725593/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/84/P043790184/P043790184_238.jpg"
 source_type: "tv"
 lat: 35.65070793801761
 lng: 140.04139338272162

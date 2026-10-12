@@ -13,7 +13,7 @@ source_video_title: "グータンヌーボ2【松田元太×ウエンツ瑛士×
 source_url: "https://kosodate-and.net/gutan-genta-wentz-shinnosuke"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13206678/"
-hotpepper_url: "https://www.hotpepper.jp/strJ004678768/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ004678768/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jfMTNVDdiwCIrv8WtP3YbDAqnbE.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/25/13/P051072513/P051072513_238.jpg"
 lat: 35.67456383790578

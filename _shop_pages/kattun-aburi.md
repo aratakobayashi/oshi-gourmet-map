@@ -12,7 +12,7 @@ source_video_title: "何するカトゥーン？何カツン【亀梨和也＆�
 source_url: "https://kosodate-and.net/nanisurukattun-kaiten-sushi"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131306/13248096/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001250503/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ001250503/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg"
 lat: 35.63844709875144
 lng: 139.7923381339341

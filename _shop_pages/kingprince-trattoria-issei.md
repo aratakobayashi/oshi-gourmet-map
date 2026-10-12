@@ -12,7 +12,7 @@ source_video_title: "モニタリング【永瀬廉ロケ地】ハンバーグ�
 source_url: "https://kosodate-and.net/monitoring-ren-hamburg"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13300124/"
-hotpepper_url: "https://www.hotpepper.jp/strJ003942924/?vos=nhppalsa000016"
+hotpepper_url: "https://www.hotpepper.jp/strJ003942924/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/64/P051486664/P051486664_238.jpg"
 lat: 35.690243038711294
