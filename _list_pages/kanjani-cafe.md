@@ -8,6 +8,6 @@ slug_id: kanjani-cafe
 shop_count: 5
 related_groups:
   - naniwa-cafe
-  - kingprince-cafe
   - nogizaka46-cafe
+  - kingprince-cafe
 ---

@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-chuka
   - west-chuka
-  - arashi-chuka
+  - sixtones-chuka
 ---

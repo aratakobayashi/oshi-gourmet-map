@@ -8524,7 +8524,7 @@
     "lat": 35.1749929,
     "lng": 136.8867635,
     "youtube_id": "MN7J-qPEsso",
-    "source_video_title": "",
+    "source_video_title": "TSUTSUI went to morning in Aichi!",
     "visited_date": "",
     "members": [
       "筒井あやめ"
@@ -8542,7 +8542,8 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/36/P038299436/P038299436_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/36/P038299436/P038299436_238.jpg",
+    "source_video_channel": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-bfe83dcc-",
@@ -70839,7 +70840,8 @@
     "group": "nogizaka46",
     "description": "田村真佑・池田瑛紗・一ノ瀬美空・小川彩・菅原咲月がYouTubeの動画で訪れたお店。",
     "source_url": "https://www.hotpepper.jp/strJ003410825/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003410825/"
   },
   {
     "id": "nogizaka46-65b993cb-20250311",
@@ -70996,7 +70998,8 @@
     "group": "nogizaka46",
     "description": "池田瑛紗がYouTubeの動画で訪れたお店。",
     "source_url": "https://www.hotpepper.jp/strJ003762152/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003762152/"
   },
   {
     "id": "nogizaka46-07ae6d77-20230630",
@@ -71085,7 +71088,8 @@
     "group": "sixtones",
     "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
     "source_url": "https://www.hotpepper.jp/strJ000874544/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000874544/"
   },
   {
     "id": "sixtones-d5eb52bc-20191026",
@@ -71184,7 +71188,8 @@
     "source_type": "youtube",
     "ordered_items": [
       "ふりそで御前"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000232200/"
   },
   {
     "id": "sixtones-1040c0d2-20220429",
@@ -71219,7 +71224,8 @@
       "ラザニア",
       "サーモンタルティーヌ",
       "グリルチキンタルティーヌ"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000962760/"
   },
   {
     "id": "sixtones-57696988-20230310",
@@ -71379,7 +71385,8 @@
     "ordered_items": [
       "しいたけ串焼き"
     ],
-    "location_unverified": true
+    "location_unverified": true,
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000871200/"
   },
   {
     "id": "sixtones-16042c85-20190607",
@@ -71473,7 +71480,8 @@
       "チャンジャ",
       "とりの唐揚げ",
       "目黒の夜サワー"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000031332/"
   },
   {
     "id": "west-096c1053-20240212",
@@ -71595,7 +71603,8 @@
       "水タコのカルパッチョ",
       "キスのしそ香味天ぷら",
       "チーズin焼きおにぎり"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000788745/"
   },
   {
     "id": "west-f81dea2f-20240506",
@@ -71835,7 +71844,8 @@
       "苺のショートケーキパフェ",
       "とろける苺シフォンケーキ",
       "バラのラメソーダ"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003648395/"
   },
   {
     "id": "west-eaa13701-20241212",
@@ -71931,7 +71941,8 @@
       "出汁巻き",
       "白飯",
       "しじみの味噌汁"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003806015/"
   },
   {
     "id": "west-f4127b2d-20250529",
@@ -71991,7 +72002,8 @@
       "つくね串",
       "アサリの酒蒸し",
       "鉄板炒飯"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000741828/"
   },
   {
     "id": "west-3d98a248-20250619",
@@ -72025,7 +72037,8 @@
       "なんこつから揚げ",
       "霜降り和牛のジュージュー焼き",
       "冷やしザル讃岐うどん"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000000770/"
   },
   {
     "id": "west-c3ca1b5b-20251120",
@@ -72382,7 +72395,8 @@
       "厚切り柔らか茹でタン",
       "燻製卵",
       "本日のお任せパスタ（カルボナーラ）"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004470385/"
   },
   {
     "id": "west-96851ce9-20260720",
@@ -72479,7 +72493,8 @@
       "極上ひとくちすき焼き",
       "海宝焼売",
       "丸ごとウナギもろこしバター土鍋飯"
-    ]
+    ],
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004576689/"
   },
   {
     "id": "west-8a20700c-20260803",

@@ -12,7 +12,7 @@ youtube_id: n6aabEP44lU
 related_genres:
   - kamaitachi-shokuji
 related_groups:
+  - west-izakaya
   - shiori-izakaya
   - equal-love-izakaya
-  - kodoku-no-gurume-izakaya
 ---

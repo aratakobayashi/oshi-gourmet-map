@@ -3,8 +3,8 @@ group_key: "sixtones"
 group_label: "SixTONES"
 group_color: "#7c3aed"
 group_color2: "#a78bfa"
-shop_count: 109
-title: "SixTONESの聖地巡礼・ロケ地グルメ109選（東京ほか）"
-description: "SixTONESが訪れたお店109軒の聖地巡礼・ロケ地まとめ。東京都を中心に、カフェ・和食・焼肉などのお店を、出てきた動画・番組つきで地図から探せます。"
+shop_count: 121
+title: "SixTONESの聖地巡礼・ロケ地グルメ121選（東京ほか）"
+description: "SixTONESが訪れたお店121軒の聖地巡礼・ロケ地まとめ。東京都を中心に、和食・カフェ・中華などのお店を、出てきた動画・番組つきで地図から探せます。"
 group_youtube_id: "u5IbOEy-HqA"
 ---

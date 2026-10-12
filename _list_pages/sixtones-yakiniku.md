@@ -11,8 +11,8 @@ group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性
 youtube_id: Ssamk6Xf-gM
 related_genres:
   - sixtones-others
-  - sixtones-cafe
   - sixtones-washoku
+  - sixtones-cafe
 related_groups:
   - kodoku-no-gurume-yakiniku
   - naniwa-yakiniku
