@@ -44681,8 +44681,8 @@
     "address": "〒104-0045 東京都中央区築地４丁目９−５",
     "lat": 35.666291,
     "lng": 139.769449,
-    "youtube_id": "",
-    "source_video_title": "朝ごはんを食べに入ったお店です。",
+    "youtube_id": "TvDS06awArE",
+    "source_video_title": "SixTONES【帰ってきたアポなし旅~01~】朝メシはパン？白飯？",
     "source_url": "https://fananablog.com/sixtones-seichi-youtube-2023/",
     "visited_date": "",
     "members": [
@@ -44704,7 +44704,8 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "source_video_url": "https://www.youtube.com/watch?v=TvDS06awArE"
   },
   {
     "id": "sixtones-b10d3d18-",
@@ -71011,5 +71012,398 @@
     "description": "清宮レイがYouTubeの動画で訪れたお店。",
     "source_url": "https://www.travelbook.co.jp/t-253/topic-19686/?p=4",
     "source_type": "youtube"
+  },
+  {
+    "id": "sixtones-0b5ae958-20260925",
+    "name": "キッチンABC 西池袋店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋3-26-6",
+    "lat": 35.730446,
+    "lng": 139.707611,
+    "youtube_id": "N8v3vr518YI",
+    "source_video_title": "SixTONES【街洋食の名店で平和な朝メシ】のはずが…撮れ高欲しさに 笑笑",
+    "source_video_url": "https://www.youtube.com/watch?v=N8v3vr518YI",
+    "visited_date": "2026-09-25",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://tf-abc.co.jp/shop/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "オリエンタルライス＆黒カレー",
+      "インディアンライス",
+      "オムカレー",
+      "元祖ポークたれ焼肉定食",
+      "オムライスセット"
+    ]
+  },
+  {
+    "id": "sixtones-69893b9a-20190503",
+    "name": "シャトードール 奈良店（本店）",
+    "genre": "cafe",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "address": "奈良県奈良市小西町39",
+    "lat": 34.68293,
+    "lng": 135.827957,
+    "youtube_id": "nvDMaBfbrNs",
+    "source_video_title": "SixTONES【初めての朝活】鹿に囲まれ大ピンチ!?",
+    "source_video_url": "https://www.youtube.com/watch?v=nvDMaBfbrNs",
+    "visited_date": "2019-05-03",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000874544/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "sixtones-d5eb52bc-20191026",
+    "name": "うなぎ 徳 渋谷店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ6F",
+    "lat": 35.659267,
+    "lng": 139.703964,
+    "youtube_id": "IL6OX1NjzsM",
+    "source_video_title": "SixTONES - Tokyo Drive Vol.2",
+    "source_video_url": "https://www.youtube.com/watch?v=IL6OX1NjzsM",
+    "visited_date": "2019-10-26",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ003297285/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "うな重",
+      "名物お櫃うなぎ茶漬け"
+    ]
+  },
+  {
+    "id": "sixtones-e7a0b26f-20200214",
+    "name": "丸忠うなぎ",
+    "genre": "washoku",
+    "prefecture": "静岡県",
+    "city": "焼津市",
+    "address": "静岡県焼津市下江留1450-1",
+    "lat": 34.811646,
+    "lng": 138.274734,
+    "youtube_id": "b1ytqd1_cDA",
+    "source_video_title": "SixTONES - Shizuoka Travel Vol.3",
+    "source_video_url": "https://www.youtube.com/watch?v=b1ytqd1_cDA",
+    "visited_date": "2020-02-14",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://unagi-maruchu.com/access/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "うな重 竹",
+      "うな重 松",
+      "たれアイス"
+    ]
+  },
+  {
+    "id": "sixtones-fe00963e-20201127",
+    "name": "屋形船 晴海屋",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区横網1-2-13",
+    "lat": 35.697655,
+    "lng": 139.792419,
+    "youtube_id": "cX29tH2Eb9M",
+    "source_video_title": "SixTONES -  First episode in Johnnys- ジャニーズ入所㊙︎話を語る!?",
+    "source_video_url": "https://www.youtube.com/watch?v=cX29tH2Eb9M",
+    "visited_date": "2020-11-27",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000232200/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "ふりそで御前"
+    ]
+  },
+  {
+    "id": "sixtones-1040c0d2-20220429",
+    "name": "ル・パン・コティディアン 芝公園店",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区芝公園3-3-1",
+    "lat": 35.65889,
+    "lng": 139.748795,
+    "youtube_id": "Aj1eS-xv6_I",
+    "source_video_title": "SixTONES【アポなしキャンプ旅】まずは素敵な朝食から！~01~",
+    "source_video_url": "https://www.youtube.com/watch?v=Aj1eS-xv6_I",
+    "visited_date": "2022-04-29",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000962760/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "マカロニ＆チーズ",
+      "ラザニア",
+      "サーモンタルティーヌ",
+      "グリルチキンタルティーヌ"
+    ]
+  },
+  {
+    "id": "sixtones-57696988-20230310",
+    "name": "香港飲茶専門店 西遊記",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町149-1-4",
+    "lat": 35.443638,
+    "lng": 139.645752,
+    "youtube_id": "yqk_6iuc8F0",
+    "source_video_title": "【SixTONES】MV撮影の合間に…カメラ回してみた!!",
+    "source_video_url": "https://www.youtube.com/watch?v=yqk_6iuc8F0",
+    "visited_date": "2023-03-10",
+    "members": [
+      "髙地優吾",
+      "田中樹",
+      "松村北斗",
+      "森本慎太郎"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "髙地優吾・田中樹・松村北斗・森本慎太郎がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ001259444/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "叉焼メロンパン",
+      "エッグタルト"
+    ]
+  },
+  {
+    "id": "sixtones-f05aec86-20230407",
+    "name": "ストロベリーマニア 東京ソラマチ店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区押上1-1-2 東京ソラマチ4F",
+    "lat": 35.710083,
+    "lng": 139.808609,
+    "youtube_id": "RT-ITDp34x0",
+    "source_video_title": "【SixTONES】スカイツリー顔バレせずに登れるか？〜完結編〜",
+    "source_video_url": "https://www.youtube.com/watch?v=RT-ITDp34x0",
+    "visited_date": "2023-04-07",
+    "members": [
+      "田中樹",
+      "松村北斗"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "田中樹・松村北斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://solatsuki.jp/strawberrymania",
+    "source_type": "youtube",
+    "ordered_items": [
+      "いちご大福カスタード",
+      "白いちご大福こしあん",
+      "いちご大福つぶあん",
+      "いちごミルキーソフト"
+    ]
+  },
+  {
+    "id": "sixtones-428441dc-20250124",
+    "name": "一蘭 原宿店",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前6-5-6 サンポウ綜合ビル2F",
+    "lat": 35.667889,
+    "lng": 139.705078,
+    "youtube_id": "HDBtAkYKNM4",
+    "source_video_title": "SixTONES【６人念願の朝ラー】並んで食べるって久々じゃね？🍜",
+    "source_video_url": "https://www.youtube.com/watch?v=HDBtAkYKNM4",
+    "visited_date": "2025-01-24",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ghfm800.gorp.jp/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "ラーメン",
+      "ゆで卵"
+    ]
+  },
+  {
+    "id": "sixtones-b64075df-20230916",
+    "name": "回転わんこそば くるくるわんこ",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-22-9 Jゴールドビル5F",
+    "lat": 35.694832,
+    "lng": 139.701309,
+    "youtube_id": "Ya8aKNX5vOs",
+    "source_video_title": "SixTONES【そば大食い企画】ジェシーが熱望…わんこそば全員で666杯食べろ!!",
+    "source_video_url": "https://www.youtube.com/watch?v=Ya8aKNX5vOs",
+    "visited_date": "2023-09-16",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://note.com/kurukurwnk/n/nb564baf13656",
+    "source_type": "youtube",
+    "ordered_items": [
+      "わんこそば"
+    ]
+  },
+  {
+    "id": "sixtones-2dde5c37-20190621",
+    "name": "きのこの里 鈴加園",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市荒川小野原178",
+    "lat": 35.968487,
+    "lng": 139.005692,
+    "youtube_id": "IcaaFTZNjWs",
+    "source_video_title": "SixTONES【サプライズ】歌あり踊りありの秩父旅！4/5",
+    "source_video_url": "https://www.youtube.com/watch?v=IcaaFTZNjWs",
+    "visited_date": "2019-06-21",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000871200/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "しいたけ串焼き"
+    ],
+    "location_unverified": true
+  },
+  {
+    "id": "sixtones-16042c85-20190607",
+    "name": "高坂SA（下り）",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "東松山市",
+    "address": "埼玉県東松山市田木字駒堀981-3",
+    "lat": 35.987839,
+    "lng": 139.393005,
+    "youtube_id": "g8s5QjDu0sw",
+    "source_video_title": "SixTONES【サービスエリアグルメ】第3回！ドライブ企画ー秩父編ー2/5",
+    "source_video_url": "https://www.youtube.com/watch?v=g8s5QjDu0sw",
+    "visited_date": "2019-06-07",
+    "members": [
+      "ジェシー",
+      "京本大我",
+      "松村北斗",
+      "髙地優吾",
+      "森本慎太郎",
+      "田中樹"
+    ],
+    "groups": [
+      "sixtones"
+    ],
+    "group": "sixtones",
+    "description": "ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹がYouTubeの動画で訪れたお店。",
+    "source_url": "https://fananablog.com/sixtones-seichi-youtube-2019/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "えびマヨスティック",
+      "揚げもち"
+    ],
+    "location_unverified": true
   }
 ]
