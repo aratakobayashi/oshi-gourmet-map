@@ -120,8 +120,8 @@ faq:
 
 <h2>WEST.の聖地 年表</h2>
 <p>日付のわかるお店を古い順に並べました（日付は動画の公開日です）。</p>
-<div class="faq"><details><summary>年表をひらく（35軒・公開日の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/timeline.svg" alt="WEST.の聖地 年表：2024年1月と2月 のんべぇさんぽ 目黒編（目黒 友・べったこ・菜の花・いと をかし）、3月と5月 KAMI Sweets（cois espresso club・CAFE iN・ニホンバシ ブルワリー）、4月 新橋編、6月 大食い企画 牛角、7月 新潟編、8月 KAMI Sweets 新大久保、10月 名古屋、12月 KAMI Sweets 銀座・三軒茶屋と大食い ジョナサン。2025年4月 大井町編、5月 カプリチョーザ、6月 麻布十番編、11月 無添蔵、12月 赤坂編。2026年2月 喫茶と濵田。（錦糸町・上野）、3月 恵比寿編、4月 横山会（大阪）と下北沢編、6月 麻辣湯・なか学ぶ・ラーメン山岡家、7月 月島編・喫茶二十世紀・ヨーグルトアイス、8月 神楽坂編" width="420" height="3568" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのデータに日付のない『喫茶と濵田。』の8軒とOKUDOは年表に入れていません（公開日は本文に載せています）</figcaption></figure>
+<div class="faq"><details><summary>年表をひらく（44軒・公開日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/timeline.svg" alt="WEST.の聖地 年表（44軒）。『喫茶と濵田。』と KAMI Sweets の OKUDO は2024年6月から2025年9月の回。ほか：2024年1月と2月 のんべぇさんぽ 目黒編（目黒 友・べったこ・菜の花・いと をかし）、3月と5月 KAMI Sweets（cois espresso club・CAFE iN・ニホンバシ ブルワリー）、4月 新橋編、6月 大食い企画 牛角、7月 新潟編、8月 KAMI Sweets 新大久保、10月 名古屋、12月 KAMI Sweets 銀座・三軒茶屋と大食い ジョナサン。2025年4月 大井町編、5月 カプリチョーザ、6月 麻布十番編、11月 無添蔵、12月 赤坂編。2026年2月 喫茶と濵田。（錦糸町・上野）、3月 恵比寿編、4月 横山会（大阪）と下北沢編、6月 麻辣湯・なか学ぶ・ラーメン山岡家、7月 月島編・喫茶二十世紀・ヨーグルトアイス、8月 神楽坂編" width="420" height="4486" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのデータに日付のない『喫茶と濵田。』の8軒とOKUDOは年表に入れていません（公開日は本文に載せています）</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
