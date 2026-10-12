@@ -40,6 +40,7 @@ faq:
     a: "Aichi Sky Expo、エコパアリーナ、ららアリーナ 東京ベイ、横浜アリーナ、真駒内セキスイハイムアイスアリーナ、大阪城ホール、マリンメッセ福岡A館、セキスイハイムスーパーアリーナの8会場・28公演です。2026年5月16日に始まり、8月30日に終わりました。"
   - q: "timeleszのメンバーは何人ですか？"
     a: "2026年10月1日から7人です。佐藤勝利さん、菊池風磨さん、松島聡さん、寺西拓人さん、原嘉孝さん、橋本将生さん、篠塚大輝さんです。"
+pr: true
 ---
 <h2>timeleszの概要</h2>
 <table>
@@ -140,6 +141,17 @@ faq:
   <li><a href="/guide/osaka-jo-hall/">大阪城ホール ライブ参戦ガイド</a></li>
   <li><a href="/guide/marine-messe-fukuoka/">マリンメッセ福岡A館 ライブ参戦ガイド</a></li>
 </ul>
+
+<h3>会場の近くに泊まる</h3>
+<p>これまでの会場の名前で、近くの宿を探せます。終演の時間や帰りの交通は、それぞれの会場ガイドで確かめてください。</p>
+<table class="stay-tbl"><thead><tr><th>会場</th><th colspan="2">宿を探す</th></tr></thead><tbody>
+{%- assign _vs = "tokyo-dome,kyocera-dome-osaka,lala-arena-tokyo-bay,aichi-sky-expo,shizuoka-ecopa-arena,yokohama-arena,osaka-jo-hall,marine-messe-fukuoka" | split: ',' -%}
+{%- for _v in _vs %}{% assign _n = site.data.venue_nearby[_v] %}{% if _n %}
+{%- capture _j %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ _n.hj }}{% endcapture %}
+{%- capture _r %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ _n.hk | url_encode }}{% endcapture %}
+<tr><td>{{ _n.hk }}</td><td>{% include affiliate-link.html url=_j label="じゃらん" service="jalan" %}</td><td>{% include affiliate-link.html url=_r label="楽天トラベル" service="rakuten" %}</td></tr>
+{%- endif %}{% endfor %}
+</tbody></table>
 
 <h3>遠征の交通と持ち物</h3>
 <ul>

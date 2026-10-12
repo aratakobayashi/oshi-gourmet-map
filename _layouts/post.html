@@ -30,7 +30,9 @@ layout: default
       </p>
       <h1 class="art__title">{{ page.title }}</h1>
       <p class="art__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }} 公開</time>{% if page.last_modified_at and page.last_modified_at != page.date %}・{{ page.last_modified_at | date: "%Y.%m.%d" }} 更新{% endif %}</p>
-      {%- if page.pr %}<p class="pr-note" style="margin-top:4px">本ページはプロモーションを含みます</p>{% endif %}
+      {%- assign _promo = page.pr -%}
+      {%- if page.stay_area -%}{%- if site.affiliate.rakuten.id != '' or site.affiliate.valuecommerce.linkswitch_pid != '' -%}{%- assign _promo = true -%}{%- endif -%}{%- endif -%}
+      {%- if _promo %}<p class="pr-note pr-note--top">#アフィリエイト広告　本ページはプロモーションを含みます</p>{% endif %}
 
       {%- if page.summary %}
       <div class="points"><b>この記事の要点</b><ul>{% for item in page.summary %}<li>{{ item }}</li>{% endfor %}</ul></div>
@@ -41,6 +43,9 @@ layout: default
       <p class="notice">掲載情報は{{ page.last_modified_at | default: page.date | date: "%Y年%-m月" }}時点のものです。閉店・移転していることがあるので、行く前にお店の最新情報を確かめてください。</p>
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
+      {%- if page.stay_area %}{% assign _sa = page.stay_area %}{% assign _sj = site.data.stay_kw[_sa] %}
+      <div class="post-stay">{% include stay-block.html hk=_sa hj=_sj title=page.stay_title note=page.stay_note %}</div>
+      {%- endif %}
     </article>
 
     <div class="artg__b">

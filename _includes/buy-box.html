@@ -1,0 +1,19 @@
+{%- comment -%}
+  記事内の「探す」ボタンの箱（楽天市場の検索結果へ。楽天アフィリエイトIDがあれば広告リンクに変わる）。
+  引数: title（見出し） / note（説明） / kw（検索語をカンマ区切り） / links（「表示名|URL」を ; 区切り。検索以外の行き先）
+  商品の感想やおすすめ順位は書かない。値段も書かない（変わるので、リンク先で確かめてもらう）
+{%- endcomment -%}
+<div class="buybox">
+  <p class="buybox__t">{{ include.title }}</p>
+  {%- if include.note %}<p class="buybox__n">{{ include.note }}</p>{% endif %}
+  <div class="buybox__btns">
+    {%- if include.kw %}{% assign _kws = include.kw | split: ',' %}{% for _k in _kws %}{% assign _k = _k | strip %}
+    {%- capture _u %}https://search.rakuten.co.jp/search/mall/{{ _k | uri_escape | replace: ' ', '%20' }}/{% endcapture %}
+    {%- capture _l %}{{ _k }}を楽天市場で探す{% endcapture %}
+    {% include affiliate-link.html url=_u label=_l class="btn btn--sm" service="rakuten" %}
+    {%- endfor %}{% endif %}
+    {%- if include.links %}{% assign _ls = include.links | split: ';' %}{% for _x in _ls %}{% assign _p = _x | split: "|" %}{% assign _pl = _p[0] %}{% assign _pu = _p[1] %}
+    {% include affiliate-link.html url=_pu label=_pl class="btn btn--sm" %}
+    {%- endfor %}{% endif %}
+  </div>
+</div>
