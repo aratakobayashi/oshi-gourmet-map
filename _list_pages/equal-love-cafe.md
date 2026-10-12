@@ -15,6 +15,6 @@ related_genres:
   - equal-love-izakaya
 related_groups:
   - naniwa-cafe
-  - kingprince-cafe
   - nogizaka46-cafe
+  - kingprince-cafe
 ---

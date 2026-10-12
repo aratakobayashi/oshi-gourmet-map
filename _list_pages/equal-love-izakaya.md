@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-ramen
 related_groups:
+  - west-izakaya
   - shiori-izakaya
   - kodoku-no-gurume-izakaya
-  - naniwa-izakaya
 ---

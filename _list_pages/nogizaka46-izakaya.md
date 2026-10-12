@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji
 related_groups:
+  - west-izakaya
   - shiori-izakaya
   - equal-love-izakaya
-  - kodoku-no-gurume-izakaya
 ---

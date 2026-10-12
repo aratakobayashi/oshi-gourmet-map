@@ -1,18 +1,18 @@
 ---
-title: "WEST.のカフェ聖地巡礼｜行ったカフェ22選"
-description: "WEST.のメンバーが実際に訪れたカフェスポットを22件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "WEST.のカフェ聖地巡礼｜行ったカフェ28選"
+description: "WEST.のメンバーが実際に訪れたカフェスポットを28件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: cafe
 group_label: "WEST."
 slug_id: west-cafe
-shop_count: 22
-thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+shop_count: 28
+youtube_id: FrzpfIfMWKE
 related_genres:
   - west-shokuji
+  - west-izakaya
   - west-chuka
-  - west-ramen
 related_groups:
   - naniwa-cafe
-  - kingprince-cafe
   - nogizaka46-cafe
+  - kingprince-cafe
 ---

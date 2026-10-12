@@ -15,6 +15,6 @@ related_genres:
   - timelesz-chuka
 related_groups:
   - naniwa-cafe
-  - kingprince-cafe
   - nogizaka46-cafe
+  - kingprince-cafe
 ---

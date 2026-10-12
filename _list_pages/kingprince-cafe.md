@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - naniwa-cafe
   - nogizaka46-cafe
-  - arashi-cafe
+  - west-cafe
 ---

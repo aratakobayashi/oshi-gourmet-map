@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - west-chuka
   - timelesz-chuka
-  - arashi-chuka
+  - sixtones-chuka
 ---

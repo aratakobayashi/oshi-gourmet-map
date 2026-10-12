@@ -10,9 +10,9 @@ group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
 youtube_id: QxC80mUBnpQ
 related_genres:
-  - sixtones-cafe
   - sixtones-washoku
-  - sixtones-yakiniku
+  - sixtones-cafe
+  - sixtones-chuka
 related_groups:
   - kingprince-others
   - nogizaka46-others

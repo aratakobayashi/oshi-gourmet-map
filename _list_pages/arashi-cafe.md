@@ -13,6 +13,6 @@ related_genres:
   - arashi-sweets
 related_groups:
   - naniwa-cafe
-  - kingprince-cafe
   - nogizaka46-cafe
+  - kingprince-cafe
 ---
