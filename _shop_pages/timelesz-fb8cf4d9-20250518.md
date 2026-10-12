@@ -15,8 +15,8 @@ source_url: "https://oshikatsu-time.com/timelesz-inomatashuto-chantoyarerukana-2
 group: "timelesz"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22009940/"
 source_type: "tv"
-lat: 35.1033354
-lng: 139.0782748
+lat: 35.102264
+lng: 139.077011
 members:
   - "猪俣周杜"
 groups:

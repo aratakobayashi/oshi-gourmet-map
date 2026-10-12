@@ -1,15 +1,15 @@
 ---
 layout: shop
 title: "timeleszが行った「東京寿司 ITAMAE SUSHI 愛宕店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介された和食「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」（2025年8月26日・9月2日 フジテレビ）で紹介された和食「東京寿司 ITAMAE SUSHI 愛宕店」（東京都港区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-itamae_sushi-"
 name: "東京寿司 ITAMAE SUSHI 愛宕店"
 genre: "washoku"
 prefecture: "東京都"
 city: "港区"
 address: "〒105-0001 東京都港区虎ノ門3丁目21−5 愛宕グリーンヒルズプラザ1F"
-visited_date: "2025-09-02"
-source_video_title: "タイムレスマン「アーユーハングリーマン」"
+visited_date: "2025-08-26"
+source_video_title: "タイムレスマン「アーユーハングリーマン」（2025年8月26日・9月2日 フジテレビ）"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13118655/"

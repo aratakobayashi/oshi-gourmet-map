@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った焼肉・ステーキの聖地巡礼まとめ【47軒】亀梨和也の後輩と焼肉・うしごろに2組・孤独のグルメまで12組"
+title: "アイドル・芸能人が行った焼肉・ステーキの聖地巡礼まとめ【46軒】亀梨和也の後輩と焼肉・うしごろに2組・孤独のグルメまで11組"
 date: 2026-05-27
 last_modified_at: 2026-10-10
-description: "孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・=LOVE・≠ME・乃木坂46など12組の動画や番組に登場した焼肉・ステーキ・しゃぶしゃぶのお店47軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。何組も訪れた看板や、どのグループのお店かは図でひと目で。"
+description: "孤独のグルメ・よにのちゃんねる・亀梨和也・SixTONES・=LOVE・≠ME・乃木坂46など11組の動画や番組に登場した焼肉・ステーキ・しゃぶしゃぶのお店46軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。何組も訪れた看板や、どのグループのお店かは図でひと目で。"
 genre: 焼肉
 article_type: genre
 prefecture: 東京都
 tags: [焼肉, ステーキ, しゃぶしゃぶ, 聖地巡礼, 孤独のグルメ, よにのちゃんねる, 亀梨和也, SixTONES, "=LOVE", "≠ME", 乃木坂46, "King & Prince", Snow Man, 推し活]
 thumbnail_video_id: 33tz7AoUPuU
 summary:
-  - "12組のグループ・番組に登場した焼肉・ステーキのお店47軒。孤独のグルメ15軒、亀梨和也6軒、よにのちゃんねる5軒"
+  - "11組のグループ・番組に登場した焼肉・ステーキのお店46軒。孤独のグルメ15軒、亀梨和也6軒、よにのちゃんねる5軒"
   - "亀梨和也は、なにわ男子の藤原丈一郎・道枝駿佑、Snow Manの渡辺翔太と焼肉。ひとり焼肉の回も"
   - "うしごろには≠MEと亀梨和也（店舗は別）"
-  - "47軒のうち28軒が東京都。港区6・渋谷区5。米沢・飯田・伊東など孤独のグルメの旅先の焼肉も"
+  - "46軒のうち27軒が東京都。港区6・渋谷区5。米沢・飯田・伊東など孤独のグルメの旅先の焼肉も"
 shop_ids:
   - yonino-peter-luger
   - yonino-kintan-akasaka
@@ -61,10 +61,9 @@ shop_ids:
   - notme-273b4aa9-202408
   - heysayjump-hero_s-20160414
   - heysayjump-blt-20160720
-  - timelesz-private-
 faq:
   - q: "アイドル・芸能人が行った焼肉のお店は、どのグループが多いですか？"
-    a: "この記事の47軒では、孤独のグルメが15軒で最も多く、亀梨和也が6軒、よにのちゃんねるが5軒、=LOVEが4軒、乃木坂46・≠MEが3軒ずつです。"
+    a: "この記事の46軒では、孤独のグルメが15軒で最も多く、亀梨和也が6軒、よにのちゃんねるが5軒、=LOVEが4軒、乃木坂46・≠MEが3軒ずつです。"
   - q: "亀梨和也さんは誰と焼肉に行っていますか？"
     a: "YouTubeでは、なにわ男子の藤原丈一郎さんと原宿GLAMS BBQ Lounge（2024年5月）、なにわ男子の道枝駿佑さんと大徳壽 みなとみらい店（2024年10月）、Snow Manの渡辺翔太さんとUSHIGORO S. GINZA（2025年8月）に行っています。焼肉古今（2024年7月）と大阪・堺のミートファクトリーしまちゃん（2025年5月）は、ひとり焼肉の回です。"
   - q: "何組も訪れた焼肉・ステーキの看板はありますか？"
@@ -72,26 +71,26 @@ faq:
   - q: "よにのちゃんねるが行った焼肉・ステーキのお店は？"
     a: "胡同 西麻布店（#361）、東陽町 大衆焼肉 暴飲暴食（#446）、ピーター・ルーガー・ステーキハウス東京（#468）、赤坂 金舌（#497）、ジンギスカン羊はち 三軒茶屋店（#509）です。#468ではドライエイジのTボーンステーキを注文しています。"
   - q: "推しが行った焼肉のお店を地図で見られますか？"
-    a: "「お店を探す」でジャンルを焼肉にすると、この記事の47軒を含め、推しグルメ巡礼MAPに登録されている焼肉のお店を地図で見られます。"
+    a: "「お店を探す」でジャンルを焼肉にすると、この記事の46軒を含め、推しグルメ巡礼MAPに登録されている焼肉のお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#9a3412">
 
 <p>ツアーの打ち上げ、誕生日のお祝い、後輩との焼肉会、そしてひとり焼肉。網の上の肉が焼けるまでの時間には、推しの本音がこぼれます。</p>
 
-<p>この記事では、<strong>12組</strong>のグループ・番組の動画や放送に登場した焼肉・ステーキ・しゃぶしゃぶのお店<strong>47軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>11組</strong>のグループ・番組の動画や放送に登場した焼肉・ステーキ・しゃぶしゃぶのお店<strong>46軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しの焼肉</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しの焼肉</p>
-    <p class="pf-card__yomi">12組の動画・番組から47軒</p>
+    <p class="pf-card__yomi">11組の動画・番組から46軒</p>
     <span class="pf-card__color"><i></i>焼肉・ステーキ</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>47軒</dd></div>
-    <div><dt>グループ・番組</dt><dd>12組</dd></div>
+    <div><dt>お店の数</dt><dd>46軒</dd></div>
+    <div><dt>グループ・番組</dt><dd>11組</dd></div>
     <div><dt>多いグループ</dt><dd>孤独のグルメ（15軒）</dd></div>
     <div><dt>多いエリア</dt><dd>港区（6軒）・渋谷区（5軒）</dd></div>
     <div><dt>2組が行った看板</dt><dd>うしごろ</dd></div>
@@ -100,18 +99,18 @@ faq:
 </div>
 
 <div class="pf-nums">
-  <div><b>47<small>軒</small></b><span>この記事の焼肉・ステーキのお店</span></div>
-  <div><b>12<small>組</small></b><span>登場したグループ・番組</span></div>
+  <div><b>46<small>軒</small></b><span>この記事の焼肉・ステーキのお店</span></div>
+  <div><b>11<small>組</small></b><span>登場したグループ・番組</span></div>
   <div><b>3<small>人</small></b><span>亀梨和也と焼肉に行った後輩（藤原丈一郎・道枝駿佑・渡辺翔太）</span></div>
   <div><b>{{ site.data.site_stats.genres.yakiniku }}<small>軒</small></b><span>このサイトに登録されている焼肉のお店ぜんぶ</span></div>
 </div>
 
 <h2>どのグループの焼肉？</h2>
 <p>孤独のグルメの15軒に、亀梨和也の6軒、よにのちゃんねるの5軒が続きます。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-yakiniku-matome/groups.svg" alt="どのグループの焼肉か：孤独のグルメ15軒、亀梨和也6軒、よにのちゃんねる5軒、=LOVE 4軒、乃木坂46・≠MEが3軒ずつ、SixTONES・King &amp; Prince・Snow Man・なにわ男子・Hey! Say! JUMPが2軒ずつ、timelesz 1軒" width="420" height="568" loading="lazy" decoding="async"><figcaption>この記事の47軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-yakiniku-matome/groups.svg" alt="どのグループの焼肉か：孤独のグルメ15軒、亀梨和也6軒、よにのちゃんねる5軒、=LOVE 4軒、乃木坂46・≠MEが3軒ずつ、SixTONES・King &amp; Prince・Snow Man・なにわ男子・Hey! Say! JUMPが2軒ずつ" width="420" height="530" loading="lazy" decoding="async"><figcaption>この記事の46軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<figure class="fig"><img src="/assets/img/posts/idol-yakiniku-matome/area.svg" alt="お店の場所：東京28軒、関東（東京以外）8軒、中部5軒、近畿3軒、北海道・東北2軒、九州・沖縄1軒。東京都のなかでは港区6軒、渋谷区5軒、中央区4軒、新宿区3軒、江東区・豊島区・千代田区が2軒ずつなど。東京都のほかでは神奈川県4軒、静岡県・千葉県・長野県が2軒ずつなど" width="420" height="654" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-yakiniku-matome/area.svg" alt="お店の場所：東京27軒、関東（東京以外）8軒、中部5軒、近畿3軒、北海道・東北2軒、九州・沖縄1軒。東京都のなかでは港区6軒、渋谷区5軒、中央区4軒、新宿区・江東区・豊島区・千代田区が2軒ずつなど。東京都のほかでは神奈川県4軒、静岡県・千葉県・長野県が2軒ずつなど" width="420" height="654" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>同じ看板に、別のグループが</h2>
 <p>うしごろには≠MEと亀梨和也が、それぞれ別の店舗に訪れています。</p>
@@ -155,9 +154,8 @@ faq:
   <li><span class="k">2021<br>10月</span><div><b>焼肉Meat it（町田）・焼肉ストーリー（水道橋）</b><span>なにわ男子「新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明」</span></div></li>
   <li><span class="k">2016<br>4月</span><div><b>HERO'S ステーキハウス 秋葉原店</b><span>Hey! Say! JUMP『いただきハイジャンプ』春の大盛りグルメ（2016年4月14日）</span></div></li>
   <li><span class="k">2016<br>7月</span><div><b>BLTステーキ 銀座</b><span>Hey! Say! JUMP『いただきハイジャンプ』グルメ探偵調査（2016年7月20日）</span></div></li>
-  <li><span class="k">西新宿</span><div><b>牛の達人 Private 西新宿店</b><span>timelesz「timelesz project -AUDITION-」</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720,timelesz-private-" %}
+{% include inline-shop-grid.html ids="sixtones-gyugyu-nishiazabu,sixtones-e6599dc3-,snowman-futago-roppongi,snowman-09af6680-202605,kingprince-291d6518-20221015,kingprince-0cbe6433-20221203,naniwa-meat_it-20211029,naniwa-22c5cab0-20211029,heysayjump-hero_s-20160414,heysayjump-blt-20160720" %}
 
 <h2>=LOVE・≠ME・乃木坂46</h2>
 <ul class="pf-works">
@@ -216,7 +214,7 @@ faq:
 
 <div class="pf-cta">
   <p>推しが行った焼肉のお店を、地図でぜんぶ見る</p>
-  <span>この記事の47軒のほかにも、グループや番組に登場した焼肉・ステーキのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の46軒のほかにも、グループや番組に登場した焼肉・ステーキのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?genre=yakiniku&amp;view=map">地図で焼肉のお店を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメ</a>・<a href="{{ site.data.group_ix.kamenashi.u }}">亀梨和也</a>・<a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねる</a>のページからも探せます。</p>

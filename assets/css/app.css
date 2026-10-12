@@ -793,6 +793,18 @@ a.badge { min-height: 32px; }
 .pf-cta p { font-family: var(--serif); font-weight: 800; font-size: 19px; line-height: 1.5; }
 .pf-cta span { font-size: 13px; opacity: .85; }
 .prose .pf-cta a.btn { text-decoration: none; background: #fff; border-color: #fff; color: #1b2236; }
+/* お取り寄せ・通販のお店（推しが行った回・買えるもの・公式通販へのボタン） */
+.prose .pf-buy { display: grid; gap: 12px; margin: var(--s-6) 0; list-style: none; padding: 0; }
+.prose .pf-buy li { margin: 0; padding: 14px 14px 12px; background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--g, var(--pc)); border-radius: var(--r-md); }
+.pf-buy__who { font-size: 12px; font-weight: 700; color: var(--g, var(--ink-2)); }
+.pf-buy b { display: block; font-size: 16px; line-height: 1.45; margin-top: 2px; }
+.pf-buy b em { font-style: normal; font-size: 11px; font-weight: 700; color: #fff; background: var(--ink-2); border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: 2px; }
+.pf-buy dl { display: grid; gap: 6px; margin: 8px 0 0; }
+.pf-buy dt { font-size: 11.5px; font-weight: 700; color: var(--ink-3); }
+.pf-buy dd { margin: 0; font-size: 13.5px; line-height: 1.6; }
+.prose .pf-buy__note { margin: 8px 0 0; font-size: 12.5px; line-height: 1.6; color: var(--ink-2); }
+.prose .pf-buy__btns { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 0; }
+.prose .pf-buy__btns a.btn { text-decoration: none; }
 @media (min-width: 768px) {
   .prose .pf-nums { grid-template-columns: repeat(4, 1fr); }
   .prose .pf-videos { grid-template-columns: 1fr 1fr; }

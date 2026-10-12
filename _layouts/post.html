@@ -41,6 +41,9 @@ layout: default
       <a class="livecount" href="{{ gx.u | relative_url }}"><span>{{ glabel }}が訪れたお店は現在<b>{{ gx.n }}軒</b>。この記事ではそのうち{{ n_shops }}軒を紹介しています。</span><span class="livecount__go">すべて見る →</span></a>
       {%- endif %}
       <p class="notice">掲載情報は{{ page.last_modified_at | default: page.date | date: "%Y年%-m月" }}時点のものです。閉店・移転していることがあるので、行く前にお店の最新情報を確かめてください。</p>
+      {%- if page.checked_at and page.sources %}
+      <details class="notice notice--src"><summary>{{ page.checked_label | default: "この記事の情報" }}は{{ page.checked_at | date: "%Y年%-m月%-d日" }}に公式サイト（{{ page.sources.size }}件）で確かめた内容です。<span>確かめたページを見る</span></summary><ul>{% for src in page.sources %}<li><a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.label }}</a></li>{% endfor %}</ul></details>
+      {%- endif %}
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
       {%- if page.stay_area %}{% assign _sa = page.stay_area %}{% assign _sj = site.data.stay_kw[_sa] %}

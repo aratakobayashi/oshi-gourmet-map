@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「五十鈴茶屋 本店」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介された食事「五十鈴茶屋 本店」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）で紹介された食事「五十鈴茶屋 本店」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-790cc89f-"
 name: "五十鈴茶屋 本店"
 genre: "shokuji"
@@ -9,7 +9,7 @@ prefecture: "三重県"
 city: "伊勢市"
 address: "〒516-0025 三重県伊勢市宇治中之切町３０"
 visited_date: "2025-09-27"
-source_video_title: "タイムレスマン ゴールデン特番「東海道中！脱落旅」"
+source_video_title: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24000873/"

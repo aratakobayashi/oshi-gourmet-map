@@ -22,4 +22,6 @@ members:
   - "橋本将生"
 groups:
   - "timelesz"
+ordered_items:
+  - "どら焼き"
 ---
