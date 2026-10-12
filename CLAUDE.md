@@ -294,6 +294,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 次にデータを集める順: SixTONESの抜けている回 → WEST.・乃木坂配信中 → 亀梨・しおりの続き → ジュニアCHANNEL。Search Console では「グループ名＋聖地巡礼／ロケ地＋東京／ご飯」で探されている
 - timelesz は Sexy Zone 時代（2024年3月以前）の回は載せない。番組のスタジオで料理が出ただけの店は残し、記事では訪問と分けて書く
 - 出典が確かめられない店・どの店舗か分からない店（差し入れ・インスタの写真だけ等）は載せない
+- グループを広げる範囲（2026-10-12 決定）: アイドルを優先しつつ、芸人・タレントが出るグルメ番組（酒場放浪記・町中華で飲ろうぜ・オモウマい店・せっかくグルメ など。番組ごとに1グループ）も足す。食べ歩き系YouTuber（SUSURU TV. など）は後回し。目標はグループ数・店数とも今の2倍以上
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

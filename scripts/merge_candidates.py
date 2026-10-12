@@ -5,7 +5,7 @@ merge_candidates.py
 attach: high/mid で、既存店に youtube_id がない場合だけ付ける。
 使い方: python scripts/merge_candidates.py <候補.json> <group> [--write]
   group に - を渡すと、候補ごとの group 項目を使う（ジュニアCHANNELなど複数グループの候補）。
-  候補の項目: name address prefecture city genre members visited_date youtube_id source_video_title
+  候補の項目: name address prefecture city genre members visited_date youtube_id（または thumbnail_url=TMDB画像・tmdb_id・program） source_video_title
              source_url confidence(high/mid/low) visit_type(visit/...) needs_address closed ordered_items
 書き込んだあとは bash scripts/build_pages.sh でページを作り直す。"""
 import json, re, sys, time, hashlib, unicodedata, urllib.request, urllib.parse
@@ -40,7 +40,7 @@ for x in d.get('new', []):
     elif x.get('visit_type') != 'visit': why = 'visit_type'
     elif x.get('closed'): why = 'closed'
     elif x.get('needs_address') or not x.get('address'): why = 'address'
-    elif not re.fullmatch(r'[\w-]{11}', x.get('youtube_id') or ''): why = 'youtube_id'
+    elif not re.fullmatch(r'[\w-]{11}', x.get('youtube_id') or '') and not (x.get('thumbnail_url') or '').startswith('https://image.tmdb.org/'): why = 'no-image'
     elif not x.get('prefecture'): why = 'overseas'
     elif not g: why = 'no-group'
     elif n(x['name']) in names.get(g, set()): why = 'dup-name'
@@ -60,13 +60,22 @@ for x in d.get('new', []):
         unver = True  # 大字までしか分からない地方の住所。座標は地区の中心なので「近くの店」には出さない
     elif not b or (len(b) < 2 and '番地' not in title) or a[:len(b)] != b or n(title)[:5] != n(addr)[:5]:
         skipped.append(('geocode-mismatch', x['name'] + ' / ' + title)); continue
-    sid = f"{g}-{hashlib.md5((x['name']+x['youtube_id']).encode()).hexdigest()[:8]}-{x['visited_date'].replace('-','')}"
+    sid = f"{g}-{hashlib.md5((x['name']+(x.get('youtube_id') or x['source_video_title'])).encode()).hexdigest()[:8]}-{(x.get('visited_date') or '').replace('-','')}"
     mem = '・'.join(x.get('members') or [])
+    yt = x.get('youtube_id') or ''
     s = {'id': sid, 'name': x['name'], 'genre': x['genre'], 'prefecture': x['prefecture'], 'city': x.get('city',''),
-         'address': addr, 'lat': lat, 'lng': lng, 'youtube_id': x['youtube_id'],
-         'source_video_title': x['source_video_title'], 'source_video_url': 'https://www.youtube.com/watch?v=' + x['youtube_id'],
-         'visited_date': x['visited_date'], 'members': x.get('members') or [], 'groups': [g], 'group': g,
+         'address': addr, 'lat': lat, 'lng': lng,
+         'source_video_title': x['source_video_title'],
+         'visited_date': x.get('visited_date') or '', 'members': x.get('members') or [], 'groups': [g], 'group': g,
          'description': (f"{mem}が" if mem else '') + 'YouTubeの動画で訪れたお店。', 'source_url': x.get('source_url',''), 'source_type': 'youtube'}
+    if sid in {s0['id'] for s0 in shops}: skipped.append(('dup-id', x['name'])); continue
+    if yt:
+        s['youtube_id'] = yt; s['source_video_url'] = 'https://www.youtube.com/watch?v=' + yt
+    else:  # テレビ番組・ドラマ（TMDBの画像）
+        s['source_type'] = x.get('source_type') or 'tv'
+        s['thumbnail_url'] = x['thumbnail_url']
+        if x.get('tmdb_id'): s['tmdb_id'] = x['tmdb_id']; s['tmdb_type'] = x.get('tmdb_type') or 'tv'
+        s['description'] = (f"{mem}が" if mem else '') + f"『{x.get('program') or x['source_video_title']}』で訪れたお店。"
     if x.get('ordered_items'): s['ordered_items'] = x['ordered_items']
     if unver: s['location_unverified'] = True
     shops.append(s); names.setdefault(g, set()).add(n(x['name'])); added.append(s)
