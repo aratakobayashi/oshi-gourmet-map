@@ -85,6 +85,22 @@
   });
 </script>
 
+{%- if site.affiliate.valuecommerce.linkswitch_pid != '' %}
+<!-- バリューコマース LinkSwitch：提携先（食べログ・じゃらん等）へのリンクがあるページだけ、表示後に読み込む -->
+<script>
+  var vc_pid = "{{ site.affiliate.valuecommerce.linkswitch_pid }}";
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      if (!document.querySelector('a[data-aff]:not([data-aff="other"])') && location.pathname.indexOf('/shops/') !== 0) return;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://aml.valuecommerce.com/vcdal.js';
+      document.head.appendChild(s);
+    }, 1500);
+  });
+</script>
+{%- endif %}
+
 <!-- フォントは端末標準（Webフォントは読み込まない：表示速度のため） -->
 <link rel="preconnect" href="https://i.ytimg.com">
 {%- if page.layout == 'shop' and page.youtube_id %}

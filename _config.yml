@@ -8,13 +8,18 @@ operator_name: "推しグルメ巡礼MAP 編集部"
 # お問い合わせフォームのURL（Googleフォーム等）。空の間は「準備中」と表示
 contact_form_url: ""
 # 参加しているアフィリエイトプログラム（/disclosure/ に表示）。提携が決まったら追記
-affiliate_programs: []
+affiliate_programs:
+  - "バリューコマース（食べログ・じゃらんnet など）"
 
 # アフィリエイトリンク変換（_includes/affiliate-link.html）
 # 提携承認後に管理画面で sid / pid を確認して入力する。空の間は通常リンクのまま出力
 affiliate:
   valuecommerce:
-    sid: ""
+    sid: "3784026"
+    # LinkSwitch（ページ内の提携先リンクを自動でアフィリエイトリンクにする）の vc_pid。
+    # 入っていれば食べログ・ホットペッパー・一休・じゃらんへのリンクに rel="sponsored" と PR表記を付け、
+    # app 側で LinkSwitch のスクリプトをページ表示後に読み込む。提携していない広告主のリンクは変換されない
+    linkswitch_pid: "892725044"
     tabelog_pid: ""
     hotpepper_pid: ""
     ikyu_pid: ""

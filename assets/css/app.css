@@ -65,6 +65,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .meta { font-size: var(--fs-meta); color: var(--ink-2); }
 .note { font-size: var(--fs-note); color: var(--ink-3); }
 .pr-note { font-size: var(--fs-note); color: var(--ink-3); }
+.pr-note--top { display: inline-block; margin: 6px 0 0; padding: 3px 10px; border: 1px solid var(--line, #E2D9CC); border-radius: 999px; font-size: 13px; color: var(--ink-2, #6B6258); background: #fff; }
 .link-more { font-size: var(--fs-ui); font-weight: 700; color: var(--accent-ink); white-space: nowrap; }
 .section { padding-top: var(--s-8); }
 .section__head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-3); margin-bottom: var(--s-4); }
