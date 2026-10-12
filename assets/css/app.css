@@ -803,3 +803,10 @@ a.badge { min-height: 32px; }
 .pf-card__facts dd { margin: 0; }
 
 .card__bk { margin-top: 4px; line-height: 1; }
+/* 記事内の「探す」ボタンの箱（_includes/buy-box.html） */
+.prose .buybox { margin: var(--s-6) 0; padding: 16px; border: 1px solid var(--line); border-radius: var(--r-lg); background: #fff; }
+.buybox__t { font-family: var(--serif); font-weight: 800; font-size: 17px; margin: 0 0 4px; }
+.buybox__n { font-size: 13px; color: var(--ink-2); margin: 0 0 10px; }
+.buybox__btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.prose .buybox__btns a.btn { text-decoration: none; }
+.prose .stay-tbl td a { white-space: nowrap; }

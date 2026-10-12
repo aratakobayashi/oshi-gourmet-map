@@ -333,6 +333,15 @@ def main():
     dump('group_detail.json', detail)
     dump('venue_nearby.json', venue_nearby)
     dump('article_rel.json', article_rel)
+
+    # --- 記事・ガイドの「この街に泊まる」の検索語（front matter の stay_area）。じゃらんは Shift_JIS ---
+    stay_kw = {}
+    for d in ('_posts', '_guides'):
+        for f in sorted(os.listdir(os.path.join(ROOT, d))):
+            areas = front_matter(os.path.join(ROOT, d, f)).get('stay_area') or []
+            for a in ([areas] if isinstance(areas, str) else areas):
+                stay_kw[a] = urllib.parse.quote(a, encoding='cp932', errors='ignore')
+    dump('stay_kw.json', stay_kw)
     dump('site_stats.json', stats)
     print(f'cards {len(cards)} / groups {len(meta)} / nearby {sum(1 for v in nearby.values() if v)}件に近くの店あり')
 

@@ -284,6 +284,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載
 - アフィリエイト（2026-10-12〜）: バリューコマースのサイトID 3784026。LinkSwitch（_config.yml の affiliate.valuecommerce.linkswitch_pid）で、食べログ・じゃらん・ホットペッパー・一休へのリンクをクリック時に自動変換。提携済み: 食べログ・一休.comレストラン。じゃらんは未提携、ホットペッパーは審査待ち。楽天アフィリエイト（楽天トラベルの「泊まる」）は affiliate.rakuten.id で変換。A8は未設定
 - PR表記: 広告リンクのあるページはタイトルのすぐ下に「#アフィリエイト広告 本ページはプロモーションを含みます」（.pr-note--top。ホットペッパー・じゃらんの規約で、ページ上部に分かる大きさで出す）
+- 記事の収益動線: 特集記事の front matter に `stay_area: "鎌倉"`（＋`stay_note`）を書くと本文の後に「○○周辺に泊まる」（じゃらん・楽天トラベル）が出る（じゃらんの Shift_JIS は build_site_data.py が _data/stay_kw.json に作る）。ガイドの商品は `{% include buy-box.html title=… note=… kw="検索語,…" %}`（楽天市場の検索）や `links="表示名|URL;…"`。使った感想・おすすめ順位・値段は書かない。広告リンクを足したガイドは front matter に `pr: true`
 - 食べログの報酬は「ネット予約できる店のページ」からの予約だけ（検索結果・エリアページ経由は対象外）。tabelog_verified の店を増やすほど効く
 
 ## 過去の状況（2026-05-26時点）
