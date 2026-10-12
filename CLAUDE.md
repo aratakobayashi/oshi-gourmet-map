@@ -206,6 +206,9 @@ heysayjump:        '#ef4444'  // レッド
 | `geocode_gsi.py` | 住所から座標を取り直す（国土地理院アドレス検索API・キー不要）。番地まで一致したとき等だけ更新。既定は試算のみ、--write で書き込み |
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
 | `check_articles.py` | 特集記事（_posts/）の shop_ids と本文の inline-shop-card/grid のIDを shops.json と照合。--fix で、IDの付け替え（REMAP）・ないIDの削除・shop_ids を本文の店と一致させる。build_pages.sh で確認だけ実行 |
+| `merge_candidates.py` | 調べた店の候補JSON（{"new":[...],"attach":[...]}）を確かめて shops.json に足す。採用は confidence high/mid・店に行った回・住所が国土地理院で番地まで一致・youtube_id 11文字だけ（地方の大字までの high は location_unverified）。attach は既存店に動画を付ける。group に - で候補ごとの group |
+| `add_group.py` | 新しいグループを足す（_data/groups.json と _group_pages/<id>.md）。`python scripts/add_group.py <id> <表示名> <色>` |
+| `refresh_group_titles.py` | グループページのタイトル・説明・店数を店のデータから書き直す（build_pages.sh で実行） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 
 **食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
