@@ -13,6 +13,6 @@ related_genres:
   - omouma-chuka
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - arashi-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

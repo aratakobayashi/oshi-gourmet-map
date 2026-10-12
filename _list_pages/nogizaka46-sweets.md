@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

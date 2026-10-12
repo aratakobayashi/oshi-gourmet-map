@@ -13,6 +13,6 @@ related_genres:
   - burari-washoku
 related_groups:
   - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
   - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
 ---

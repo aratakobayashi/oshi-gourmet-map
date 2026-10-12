@@ -12,7 +12,7 @@ youtube_id: ZwwzPBGFK5c
 related_genres:
   - notme-shokuji
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

@@ -12,7 +12,7 @@ related_genres:
   - sakaba-horoki-sweets
   - sakaba-horoki-cafe
 related_groups:
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
   - burari-izakaya
-  - jinsei-saiko-izakaya
-  - shiori-izakaya
 ---

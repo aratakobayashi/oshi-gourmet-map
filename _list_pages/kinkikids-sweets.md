@@ -12,7 +12,7 @@ related_genres:
   - kinkikids-washoku
   - kinkikids-yakiniku
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

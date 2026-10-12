@@ -11,6 +11,6 @@ related_genres:
   - hihijets-cafe
 related_groups:
   - jinsei-saiko-washoku
-  - burari-washoku
-  - omouma-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

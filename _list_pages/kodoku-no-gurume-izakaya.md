@@ -15,6 +15,6 @@ related_genres:
   - kodoku-no-gurume-chuka
 related_groups:
   - sakaba-horoki-izakaya
-  - burari-izakaya
-  - jinsei-saiko-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

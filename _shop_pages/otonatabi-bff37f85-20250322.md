@@ -1,0 +1,29 @@
+---
+layout: shop
+title: "串本旬彩 おおはし"
+description: "おとな旅あるき旅 第775回 和歌山・串本（2025-03-22 テレビ大阪）で紹介された和食「串本旬彩 おおはし」（和歌山県東牟婁郡串本町）。推し活グルメ巡礼スポット。"
+shop_id: "otonatabi-bff37f85-20250322"
+name: "串本旬彩 おおはし"
+genre: "washoku"
+prefecture: "和歌山県"
+city: "東牟婁郡串本町"
+address: "和歌山県東牟婁郡串本町串本2304"
+visited_date: "2025-03-22"
+source_video_title: "おとな旅あるき旅 第775回 和歌山・串本（2025-03-22 テレビ大阪）"
+source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2162845_6111.html"
+group: "otonatabi"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+source_type: "tv"
+lat: 33.470917
+lng: 135.781601
+members:
+  - "三田村邦彦"
+groups:
+  - "otonatabi"
+ordered_items:
+  - "本日のお造り盛り合わせ 大"
+  - "串本のモズク"
+  - "ヒラスズキと彩り野菜の天ぷら"
+  - "平井の里 濃厚しぼり柚子のチューハイ"
+  - "和歌山湯浅ワイナリー TOA200風 白"
+---

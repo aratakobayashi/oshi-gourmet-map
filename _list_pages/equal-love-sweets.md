@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-izakaya
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

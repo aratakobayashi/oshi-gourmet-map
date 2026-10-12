@@ -12,7 +12,7 @@ related_genres:
   - shojikisanpo-washoku
   - shojikisanpo-cafe
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - arashi-sweets
 ---

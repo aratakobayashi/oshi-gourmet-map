@@ -12,7 +12,7 @@ related_genres:
   - jinsei-saiko-washoku
   - jinsei-saiko-ramen
 related_groups:
+  - otonatabi-yakiniku
   - burari-yakiniku
   - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
 ---

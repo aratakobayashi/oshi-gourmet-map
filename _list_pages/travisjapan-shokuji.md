@@ -9,6 +9,6 @@ shop_count: 6
 youtube_id: 49CwXq_NElE
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

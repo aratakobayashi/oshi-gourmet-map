@@ -10,7 +10,7 @@ group_color: "#f59e0b"
 group_bio: "日向坂46は秋元康プロデュースの女性アイドルグループ。メンバーのグルメ発信が活発。"
 youtube_id: 0Ourd7b83lo
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

@@ -13,6 +13,6 @@ related_genres:
   - arashi-sweets
 related_groups:
   - sakaba-horoki-izakaya
-  - burari-izakaya
-  - jinsei-saiko-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

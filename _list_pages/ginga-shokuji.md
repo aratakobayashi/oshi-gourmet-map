@@ -11,6 +11,6 @@ group_bio: "中丸雄一（KAT-TUN）の個人YouTubeチャンネル「中丸銀
 youtube_id: TNKBGNdwqKw
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

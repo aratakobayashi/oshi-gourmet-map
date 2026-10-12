@@ -15,6 +15,6 @@ related_genres:
   - snowman-ramen
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

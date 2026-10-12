@@ -12,7 +12,7 @@ related_genres:
   - omouma-washoku
   - omouma-ramen
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

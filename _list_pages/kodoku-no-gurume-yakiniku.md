@@ -15,6 +15,6 @@ related_genres:
   - kodoku-no-gurume-chuka
 related_groups:
   - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
   - burari-yakiniku
-  - naniwa-yakiniku
 ---

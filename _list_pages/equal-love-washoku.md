@@ -15,6 +15,6 @@ related_genres:
   - equal-love-ramen
 related_groups:
   - jinsei-saiko-washoku
-  - burari-washoku
-  - omouma-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

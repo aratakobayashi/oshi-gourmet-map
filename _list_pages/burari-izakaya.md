@@ -13,6 +13,6 @@ related_genres:
   - burari-washoku
 related_groups:
   - sakaba-horoki-izakaya
-  - jinsei-saiko-izakaya
-  - shiori-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

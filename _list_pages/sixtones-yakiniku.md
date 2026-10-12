@@ -15,6 +15,6 @@ related_genres:
   - sixtones-cafe
 related_groups:
   - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
   - burari-yakiniku
-  - kodoku-no-gurume-yakiniku
 ---

@@ -15,6 +15,6 @@ related_genres:
   - nogizaka46-shokuji
 related_groups:
   - sakaba-horoki-izakaya
-  - burari-izakaya
-  - jinsei-saiko-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

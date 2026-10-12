@@ -1,0 +1,27 @@
+---
+layout: shop
+title: "漁師酒場あらき バルチカ03店"
+description: "おとな旅あるき旅 第762回 大阪・御堂筋（2024-12-14 テレビ大阪）で紹介された居酒屋「漁師酒場あらき バルチカ03店」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+shop_id: "otonatabi-dfceb8a4-20241214"
+name: "漁師酒場あらき バルチカ03店"
+genre: "izakaya"
+prefecture: "大阪府"
+city: "大阪市北区"
+address: "大阪府大阪市北区梅田3-2-123 イノゲート大阪5F"
+visited_date: "2024-12-14"
+source_video_title: "おとな旅あるき旅 第762回 大阪・御堂筋（2024-12-14 テレビ大阪）"
+source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2157738_6111.html"
+group: "otonatabi"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+source_type: "tv"
+lat: 34.702171
+lng: 135.493668
+members:
+  - "三田村邦彦"
+groups:
+  - "otonatabi"
+ordered_items:
+  - "土佐鶴"
+  - "鰹わら焼きたたき 塩"
+  - "刺し盛り 7種"
+---

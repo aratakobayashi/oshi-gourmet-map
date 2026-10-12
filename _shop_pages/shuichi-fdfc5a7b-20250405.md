@@ -1,0 +1,24 @@
+---
+layout: shop
+title: "nORIA"
+description: "シューイチ 【シューイチ★セブン】「札幌アップデートグルメ」（2025-04-05 日本テレビ）で紹介された焼肉「nORIA」（北海道札幌市中央区）。推し活グルメ巡礼スポット。"
+shop_id: "shuichi-fdfc5a7b-20250405"
+name: "nORIA"
+genre: "yakiniku"
+prefecture: "北海道"
+city: "札幌市中央区"
+address: "北海道札幌市中央区南3条西5丁目1−1 7F"
+visited_date: "2025-04-05"
+source_video_title: "シューイチ 【シューイチ★セブン】「札幌アップデートグルメ」（2025-04-05 日本テレビ）"
+source_url: "https://www.ntv.co.jp/shu-ichi/articles/5834wfo4pyrhxpy3apq.html"
+group: "shuichi"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
+source_type: "tv"
+lat: 43.056099
+lng: 141.350815
+members:
+  - "田辺大智"
+  - "坂巻有紗"
+groups:
+  - "shuichi"
+---

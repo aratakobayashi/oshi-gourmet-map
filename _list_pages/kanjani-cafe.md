@@ -8,6 +8,6 @@ slug_id: kanjani-cafe
 shop_count: 5
 related_groups:
   - burari-cafe
-  - shojikisanpo-cafe
-  - naniwa-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

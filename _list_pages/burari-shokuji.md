@@ -13,6 +13,6 @@ related_genres:
   - burari-sweets
 related_groups:
   - jinsei-saiko-shokuji
-  - omouma-shokuji
-  - arashi-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

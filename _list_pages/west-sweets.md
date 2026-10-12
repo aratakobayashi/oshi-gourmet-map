@@ -12,7 +12,7 @@ related_genres:
   - west-cafe
   - west-izakaya
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

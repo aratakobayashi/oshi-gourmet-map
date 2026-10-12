@@ -13,6 +13,6 @@ related_genres:
   - jinsei-saiko-ramen
 related_groups:
   - sakaba-horoki-izakaya
-  - burari-izakaya
-  - shiori-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

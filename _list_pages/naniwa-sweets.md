@@ -14,7 +14,7 @@ related_genres:
   - naniwa-cafe
   - naniwa-yakiniku
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

@@ -13,6 +13,6 @@ related_genres:
   - arashi-cafe
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

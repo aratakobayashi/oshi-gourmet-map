@@ -13,6 +13,6 @@ related_genres:
   - omouma-ramen
 related_groups:
   - burari-cafe
-  - shojikisanpo-cafe
-  - naniwa-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

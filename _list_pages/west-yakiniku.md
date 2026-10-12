@@ -13,6 +13,6 @@ related_genres:
   - west-izakaya
 related_groups:
   - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
   - burari-yakiniku
-  - kodoku-no-gurume-yakiniku
 ---

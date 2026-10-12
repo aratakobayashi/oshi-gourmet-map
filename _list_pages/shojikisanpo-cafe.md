@@ -13,6 +13,6 @@ related_genres:
   - shojikisanpo-washoku
 related_groups:
   - burari-cafe
-  - naniwa-cafe
-  - jinsei-saiko-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

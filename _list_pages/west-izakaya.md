@@ -13,6 +13,6 @@ related_genres:
   - west-chuka
 related_groups:
   - sakaba-horoki-izakaya
-  - burari-izakaya
-  - jinsei-saiko-izakaya
+  - yuyake-sakaba-izakaya
+  - otonatabi-izakaya
 ---

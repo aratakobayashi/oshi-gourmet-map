@@ -12,6 +12,6 @@ related_genres:
   - agroup-shokuji
 related_groups:
   - jinsei-saiko-washoku
-  - burari-washoku
-  - omouma-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

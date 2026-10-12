@@ -12,7 +12,7 @@ related_genres:
   - jinsei-saiko-washoku
   - jinsei-saiko-ramen
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

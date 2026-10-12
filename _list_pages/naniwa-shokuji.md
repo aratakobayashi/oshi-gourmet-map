@@ -15,6 +15,6 @@ related_genres:
   - naniwa-yakiniku
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

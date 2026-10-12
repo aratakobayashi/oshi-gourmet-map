@@ -13,6 +13,6 @@ related_genres:
   - omouma-chuka
 related_groups:
   - jinsei-saiko-washoku
-  - burari-washoku
-  - shojikisanpo-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

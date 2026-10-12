@@ -14,7 +14,7 @@ related_genres:
   - kingprince-shokuji
   - kingprince-cafe
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

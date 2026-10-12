@@ -12,7 +12,7 @@ related_genres:
   - burari-shokuji
   - burari-washoku
 related_groups:
+  - rosenbus-sweets
   - sakaba-horoki-sweets
   - shojikisanpo-sweets
-  - arashi-sweets
 ---

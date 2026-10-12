@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "べっちんさん"
+description: "おとな旅あるき旅 第841回 和歌山・海南（2026-07-18 テレビ大阪）で紹介された和食「べっちんさん」（和歌山県海南市）。推し活グルメ巡礼スポット。"
+shop_id: "otonatabi-965d2eee-20260718"
+name: "べっちんさん"
+genre: "washoku"
+prefecture: "和歌山県"
+city: "海南市"
+address: "和歌山県海南市黒江659"
+visited_date: "2026-07-18"
+source_video_title: "おとな旅あるき旅 第841回 和歌山・海南（2026-07-18 テレビ大阪）"
+source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2194493_6111.html"
+group: "otonatabi"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+source_type: "tv"
+lat: 34.162392
+lng: 135.206039
+members:
+  - "三田村邦彦"
+groups:
+  - "otonatabi"
+ordered_items:
+  - "早なれ寿司 1個（3切）"
+  - "名手酒造店 黒牛 300ml"
+---

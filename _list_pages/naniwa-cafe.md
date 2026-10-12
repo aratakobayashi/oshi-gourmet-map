@@ -15,6 +15,6 @@ related_genres:
   - naniwa-yakiniku
 related_groups:
   - burari-cafe
-  - shojikisanpo-cafe
-  - jinsei-saiko-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

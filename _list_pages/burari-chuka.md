@@ -14,5 +14,5 @@ related_genres:
 related_groups:
   - machichuka-chuka
   - jinsei-saiko-chuka
-  - omouma-chuka
+  - seyanen-chuka
 ---

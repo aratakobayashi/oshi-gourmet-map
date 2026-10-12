@@ -11,6 +11,6 @@ related_genres:
   - kpop-bts-shokuji
 related_groups:
   - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
   - burari-yakiniku
-  - kodoku-no-gurume-yakiniku
 ---

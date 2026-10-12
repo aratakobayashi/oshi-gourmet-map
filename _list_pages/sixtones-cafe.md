@@ -15,6 +15,6 @@ related_genres:
   - sixtones-chuka
 related_groups:
   - burari-cafe
-  - shojikisanpo-cafe
-  - naniwa-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

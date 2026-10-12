@@ -9,6 +9,6 @@ shop_count: 687
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 related_groups:
   - jinsei-saiko-chuka
+  - seyanen-chuka
   - omouma-chuka
-  - burari-chuka
 ---

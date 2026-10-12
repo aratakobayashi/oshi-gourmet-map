@@ -10,6 +10,6 @@ related_genres:
   - kpop-bts-yakiniku
 related_groups:
   - jinsei-saiko-shokuji
-  - burari-shokuji
-  - omouma-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

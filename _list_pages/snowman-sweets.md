@@ -14,7 +14,7 @@ related_genres:
   - snowman-washoku
   - snowman-cafe
 related_groups:
+  - rosenbus-sweets
   - burari-sweets
   - sakaba-horoki-sweets
-  - shojikisanpo-sweets
 ---

@@ -15,6 +15,6 @@ related_genres:
   - equal-love-izakaya
 related_groups:
   - burari-cafe
-  - shojikisanpo-cafe
-  - naniwa-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

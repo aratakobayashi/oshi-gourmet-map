@@ -13,6 +13,6 @@ related_genres:
   - burari-sweets
 related_groups:
   - jinsei-saiko-washoku
-  - omouma-washoku
-  - shojikisanpo-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---
