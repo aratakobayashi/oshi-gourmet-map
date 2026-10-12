@@ -13,6 +13,6 @@ related_genres:
   - west-ramen
 related_groups:
   - naniwa-cafe
-  - nogizaka46-cafe
   - kingprince-cafe
+  - nogizaka46-cafe
 ---

@@ -11,6 +11,6 @@ related_genres:
   - kismai-cafe
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

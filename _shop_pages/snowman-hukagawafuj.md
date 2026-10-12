@@ -1,32 +1,7 @@
 ---
-layout: shop
-title: "Snow Manが行った「深川富士見」"
-description: "Snow ManのYouTubeで紹介された食事「深川富士見」（東京都江東区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "snowman-hukagawafuj"
-name: "深川富士見"
-genre: "shokuji"
-prefecture: "東京都"
-city: "江東区"
-address: "東京都江東区古石場2-18-5"
-nearest_station: "「門前仲町駅」より徒歩13分※送迎バスあり"
-visited_date: "2025-05-04"
-youtube_id: "EsGRecRQoZs"
-source_video_title: "【すのちゅーぶ】東京湾海釣り「深川富士見」予約方法は？作った料理は？SnowManロケ地"
-source_video_url: "https://www.youtube.com/watch?v=EsGRecRQoZs"
-group: "snowman"
-tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13027424/"
-lat: 35.6680295
-lng: 139.7968481
-members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
-groups:
-  - "snowman"
+redirect_to: "/groups/snowman/"
+redirect_label: "Snow Manのお店一覧"
+sitemap: false
 ---

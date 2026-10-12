@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 690" width="420" height="690" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <rect width="420" height="690" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店はどこにある？</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店85軒の場所（地方ごと）</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店83軒の場所（地方ごと）</text>
 <text x="132" y="112" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">北海道・東北</text>
 <rect x="142" y="95" width="9" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
 <text x="159" y="113" font-size="15" font-weight="800" fill="#241F1A">2軒</text>
 <text x="132" y="148" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">東京</text>
 <rect x="142" y="131" width="200" height="24" rx="7" fill="#ca8a04" fill-opacity="0.95"/>
-<text x="350" y="149" font-size="15" font-weight="800" fill="#241F1A">42軒</text>
+<text x="350" y="149" font-size="15" font-weight="800" fill="#241F1A">41軒</text>
 <text x="132" y="184" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">関東（東京以外）</text>
-<rect x="142" y="167" width="71" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
-<text x="221" y="185" font-size="15" font-weight="800" fill="#241F1A">15軒</text>
+<rect x="142" y="167" width="73" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
+<text x="223" y="185" font-size="15" font-weight="800" fill="#241F1A">15軒</text>
 <text x="132" y="220" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">中部</text>
-<rect x="142" y="203" width="38" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
-<text x="188" y="221" font-size="15" font-weight="800" fill="#241F1A">8軒</text>
+<rect x="142" y="203" width="34" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
+<text x="184" y="221" font-size="15" font-weight="800" fill="#241F1A">7軒</text>
 <text x="132" y="256" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">近畿</text>
 <rect x="142" y="239" width="19" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
 <text x="169" y="257" font-size="15" font-weight="800" fill="#241F1A">4軒</text>
 <text x="132" y="292" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">中国・四国</text>
-<rect x="142" y="275" width="38" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
-<text x="188" y="293" font-size="15" font-weight="800" fill="#241F1A">8軒</text>
+<rect x="142" y="275" width="39" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
+<text x="189" y="293" font-size="15" font-weight="800" fill="#241F1A">8軒</text>
 <text x="132" y="328" font-size="13.5" font-weight="700" text-anchor="end" fill="#241F1A">九州・沖縄</text>
-<rect x="142" y="311" width="28" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
-<text x="178" y="329" font-size="15" font-weight="800" fill="#241F1A">6軒</text>
+<rect x="142" y="311" width="29" height="24" rx="7" fill="#ca8a04" fill-opacity="0.6"/>
+<text x="179" y="329" font-size="15" font-weight="800" fill="#241F1A">6軒</text>
 <text x="20" y="366" font-size="14" font-weight="700" fill="#6B6258">東京都のなかで多いところ</text>
 <rect x="20" y="378" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="397" font-size="13.5" fill="#241F1A">渋谷区</text><text x="192" y="397" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">7軒</text>
+<text x="32" y="397" font-size="13.5" fill="#241F1A">渋谷区</text><text x="192" y="397" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">6軒</text>
 <rect x="216" y="378" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
 <text x="228" y="397" font-size="13.5" fill="#241F1A">新宿区</text><text x="388" y="397" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">6軒</text>
 <rect x="20" y="412" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
@@ -44,7 +44,7 @@
 <rect x="20" y="540" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="559" font-size="13.5" fill="#241F1A">神奈川県</text><text x="192" y="559" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">6軒</text>
 <rect x="216" y="540" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="559" font-size="13.5" fill="#241F1A">愛知県</text><text x="388" y="559" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">5軒</text>
+<text x="228" y="559" font-size="13.5" fill="#241F1A">愛知県</text><text x="388" y="559" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">4軒</text>
 <rect x="20" y="574" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="593" font-size="13.5" fill="#241F1A">福岡県</text><text x="192" y="593" font-size="14" font-weight="800" text-anchor="end" fill="#ca8a04">4軒</text>
 <rect x="216" y="574" width="184" height="28" rx="14" fill="#fff" stroke="#E2D9CC"/>

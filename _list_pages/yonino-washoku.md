@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - kodoku-no-gurume-washoku
   - snowman-washoku
-  - sixtones-washoku
+  - equal-love-washoku
 ---

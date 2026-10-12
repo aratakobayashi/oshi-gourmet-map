@@ -13,6 +13,6 @@ related_genres:
   - west-chuka
 related_groups:
   - arashi-ramen
-  - nogizaka46-ramen
   - naniwa-ramen
+  - nogizaka46-ramen
 ---

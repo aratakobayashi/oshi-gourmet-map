@@ -15,6 +15,6 @@ related_genres:
   - timelesz-sweets
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

@@ -15,6 +15,6 @@ related_genres:
   - sixtones-yakiniku
 related_groups:
   - naniwa-cafe
-  - nogizaka46-cafe
   - kingprince-cafe
+  - nogizaka46-cafe
 ---

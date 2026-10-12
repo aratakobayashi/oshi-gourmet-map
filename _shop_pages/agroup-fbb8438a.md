@@ -1,27 +1,7 @@
 ---
-layout: shop
-title: "スーパーおおたや"
-description: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？で紹介されたその他「スーパーおおたや」（千葉県夷隅郡御宿町）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "agroup-fbb8438a-"
-name: "スーパーおおたや"
-genre: "others"
-prefecture: "千葉県"
-city: "夷隅郡御宿町"
-address: "千葉県夷隅郡御宿町新町４９８"
-nearest_station: "御宿駅 徒歩9分"
-source_video_title: "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？"
-source_url: "https://kosodate-and.net/golden-holiday-glamping"
-group: "agroup"
-tabelog_url: "https://tabelog.com/chiba/A1207/A120702/12036672/"
-lat: 35.1881892
-lng: 140.3576386
-members:
-  - "正門良規"
-  - "草間リチャード敬太"
-  - "末澤誠也"
-  - "小島健"
-  - "福本大晴"
-  - "佐野晶哉"
-groups:
-  - "agroup"
+redirect_to: "/groups/agroup/"
+redirect_label: "Aぇ!groupのお店一覧"
+sitemap: false
 ---

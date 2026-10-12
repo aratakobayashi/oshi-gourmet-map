@@ -4,7 +4,7 @@ title: "SixTONESと行く東京下町グルメ聖地巡礼【東京ソラマチ7
 date: 2026-05-18
 last_modified_at: 2026-10-10
 thumbnail_video_id: fflp-PypyQg
-description: "SixTONESの公式YouTubeで6人が忘年会をした東京ソラマチ7Fの2軒、鼎泰豊（2024年1月公開）と月島名物もんじゃ だるま（2025年4月公開）を、回る順番の図と動画のタイトルでまとめました。月島のお店の確認状況もあわせて載せています。"
+description: "SixTONESの公式YouTubeで6人が忘年会をした東京ソラマチ7Fの2軒、鼎泰豊（2024年1月公開）と月島名物もんじゃ だるま（2025年4月公開）を、回る順番の図と動画のタイトルでまとめました。"
 group: sixtones
 article_type: course
 prefecture: 東京都
@@ -13,11 +13,9 @@ summary:
   - "SixTONESの公式YouTubeで6人が忘年会をした、東京ソラマチ7Fの2軒が主役のコース"
   - "鼎泰豊は2023年大晦日の忘年会（2024年1月公開）、もんじゃ だるまは2024年の忘年会（2025年4月公開）"
   - "押上駅からソラマチ7F、そして2023年の動画の舞台・東京スカイツリーへ。回る順番を図にしました"
-  - "月島のもんじゃ まぐろ家は、出典の動画を確かめている途中です"
 shop_ids:
   - sixtones-dintaifung-soramachi
   - sixtones-daruma-soramachi
-  - sixtones-c2272dd2-201906
 faq:
   - q: "SixTONESが忘年会をしたお店はどこですか？"
     a: "推しグルメ巡礼MAPのデータでは、2024年1月19日公開の「【ガチリアルな忘年会】念願の小籠包でメシ会」が鼎泰豊 東京ソラマチ店、2025年4月公開の「【もんじゃ忘年会】2024年のYouTube ベスト１は何？」が月島名物もんじゃ だるま ソラマチ店です。どちらも東京ソラマチの7Fにあります。"
@@ -27,8 +25,6 @@ faq:
     a: "どちらも押上〈スカイツリー前〉駅から徒歩2分です（推しグルメ巡礼MAPのデータより）。行く前に各お店の公式情報で営業日を確かめてください。"
   - q: "東京スカイツリーが出てくる動画はありますか？"
     a: "2023年3月31日公開の「【SixTONES】スカイツリー顔バレせずに登れるか？」と、4月7日公開の完結編があります。"
-  - q: "月島のお店は？"
-    a: "もんじゃ まぐろ家もデータに登録されていますが、出典の動画を確かめている途中です。2019年2月公開の「【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!」は、公式の概要欄によると両国の駄菓子ともんじゃ焼きのお店が舞台です。"
 ---
 
 <div class="pf" style="--pc:#7c3aed">
@@ -51,7 +47,6 @@ faq:
     <div><dt>2年目</dt><dd>だるまでもんじゃ</dd></div>
     <div><dt>最寄り駅</dt><dd>押上〈スカイツリー前〉駅</dd></div>
     <div><dt>あわせて</dt><dd>東京スカイツリー</dd></div>
-    <div><dt>確認中</dt><dd>月島の1軒</dd></div>
   </dl>
 </div>
 
@@ -89,13 +84,6 @@ faq:
   <figure><button type="button" class="yt" data-yt="6WTMkZziBHw" aria-label="もんじゃ忘年会を再生"><img src="https://i.ytimg.com/vi_webp/6WTMkZziBHw/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>もんじゃ だるま ソラマチ店</b>2024年のYouTube ベスト１は何？</figcaption></figure>
   <figure><button type="button" class="yt" data-yt="qPlZw7e7YBE" aria-label="スカイツリーの回を再生"><img src="https://i.ytimg.com/vi_webp/qPlZw7e7YBE/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>東京スカイツリー</b>顔バレせずに登れるか？（2023年3月）</figcaption></figure>
 </div>
-
-<h2>確かめている途中のお店：月島</h2>
-<p>推しグルメ巡礼MAPには、下町のお店がほかに1軒登録されていますが、どの動画に登場したかを確かめている途中です。わかりしだい、このページに書き足します。なお、2019年2月8日公開の「SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!」は、公式の概要欄によると両国の駄菓子ともんじゃ焼きのお店が舞台です。</p>
-<ul class="pf-works">
-  <li><span class="k">確認中</span><div><b>もんじゃ まぐろ家</b><span>中央区月島（データの登録）</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="sixtones-c2272dd2-201906" %}
 
 <h2>エリアで巡るなら</h2>
 <ul>

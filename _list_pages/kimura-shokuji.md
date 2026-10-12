@@ -9,6 +9,6 @@ shop_count: 8
 thumbnail_url: "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoyaku_com/20240426/20240426135041.jpg"
 related_groups:
   - arashi-shokuji
-  - snowman-shokuji
   - west-shokuji
+  - kodoku-no-gurume-shokuji
 ---

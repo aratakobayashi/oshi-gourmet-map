@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "アイドル・芸能人が行ったカフェまとめ【69軒】よにのちゃんねるのコーヒー・乃木坂46のMVロケ地・=LOVEのVlogまで14組"
+title: "アイドル・芸能人が行ったカフェまとめ【63軒】よにのちゃんねるのコーヒー・乃木坂46のMVロケ地・=LOVEのVlogまで13組"
 date: 2026-05-26
 last_modified_at: 2026-10-10
-description: "よにのちゃんねる・乃木坂46・=LOVE・Snow Man・SixTONES・King & Princeなど14組の動画や番組に登場したカフェ69軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。どのグループのお店か・どこにあるかは図でひと目で。"
+description: "よにのちゃんねる・乃木坂46・=LOVE・Snow Man・SixTONES・King & Princeなど13組の動画や番組に登場したカフェ63軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。どのグループのお店か・どこにあるかは図でひと目で。"
 genre: カフェ
 article_type: genre
 prefecture: 東京都
 tags: [カフェ, 聖地巡礼, グルメ, よにのちゃんねる, 乃木坂46, "=LOVE", "≠ME", "≒JOY", Snow Man, SixTONES, "King & Prince", なにわ男子, 推し活]
 thumbnail_video_id: Q2GrO9mPWIc
 summary:
-  - "14組のグループ・番組に登場したカフェ69軒。いちばん多いのは乃木坂46（18軒）、次がよにのちゃんねる（16軒）"
+  - "13組のグループ・番組に登場したカフェ63軒。いちばん多いのは乃木坂46とよにのちゃんねる（16軒ずつ）"
   - "よにのちゃんねるはコーヒーの店が中心。タイトルに【ドライブ!!】が付いた回だけで5本"
-  - "69軒のうち49軒が東京都（渋谷区12・新宿区10・港区9）。鎌倉・横浜中華街・名古屋・沖縄にも"
+  - "63軒のうち45軒が東京都（渋谷区12・新宿区9・港区9）。鎌倉・横浜中華街・名古屋・沖縄にも"
   - "ブレッツカフェ クレープリーは、King & PrinceとSnow Manの両方の番組・動画に登場"
 shop_ids:
   - yonino-starbucks-reserve-roastery
@@ -23,8 +23,6 @@ shop_ids:
   - nogizaka46-5bce3fc7-
   - nogizaka46-good_morning_cafe-
   - nogizaka46-3bd4b889-
-  - equallove_005
-  - equallove_003
   - kingprince-9ca66867-20220618
   - kingprince-6b77790e-20221022
   - kingprince-6ee5087d-20221203
@@ -53,17 +51,14 @@ shop_ids:
   - nogizaka46-e767374d-
   - nogizaka46-85374eb4-
   - nogizaka46-bfe83dcc-
-  - nogizaka46-4eba1f02-
   - nogizaka46-flamingo-
   - nogizaka46-ccecce7f-
   - nogizaka46-9d97e3e3-
   - nogizaka46-dcca8bec-
-  - nogizaka46-3d56208f-
   - nogizaka46-milk-
   - equal_love-6e007468-202408
   - equal_love-e732d9bf-202506
   - equal_love-coa_ginza-20251006
-  - equallove_006
   - equallove_008
   - equal_love-mateki-202408
   - equal_love-gebura-20250915
@@ -81,61 +76,60 @@ shop_ids:
   - notme-b9e687dc-202411
   - ginga-okudo-202407
   - ginga-maru-202407
-  - kamaitachi-b9386654-
   - heysayjump-747256d6-20170201
   - kodoku_no_gurume-aa39fbb9-
 faq:
   - q: "アイドル・芸能人が行ったカフェは、どのグループのお店が多いですか？"
-    a: "この記事の69軒では、乃木坂46が18軒で最も多く、よにのちゃんねるが16軒、=LOVEが9軒で続きます。King & Prince・Snow Man・なにわ男子・≠MEが4軒ずつ、SixTONESが2軒です。"
+    a: "この記事の63軒では、乃木坂46とよにのちゃんねるが16軒ずつで最も多く、=LOVEが6軒で続きます。King & Prince・Snow Man・なにわ男子・≠MEが4軒ずつ、SixTONESが2軒です。"
   - q: "よにのちゃんねるが行ったカフェにはどんなお店がありますか？"
     a: "STARBUCKS RESERVE ROASTERY TOKYO（#391）、Paul Bassett 新宿（#422）、VERVE COFFEE ROASTERS EBISU（#469）、TAOCA COFFEE 南青山店（#477）、Beasty Coffee（#481）など、コーヒーのお店が中心です。タイトルに【ドライブ!!】が付いた回で立ち寄ったお店が5軒あります。"
   - q: "2つのグループが行ったカフェはありますか？"
     a: "ブレッツカフェ クレープリーです。King & Princeは2022年10月の「King&Princeる。」の当たり前レストランで、Snow Manは2024年3月の公式YouTubeの動画で訪れています（推しグルメ巡礼MAPのデータでは住所が同じ渋谷区神宮前3-5-4）。"
   - q: "乃木坂46のカフェはどんなお店ですか？"
-    a: "この記事の乃木坂46の18軒には、『インフルエンサー』『ジコチューで行こう！』『帰り道は遠回りしたくなる』『シンクロニシティ』などの映像に関わるお店が多く含まれます。鎌倉（umi cafe・イワタコーヒー店・café recette）、名古屋（喫茶ニューポピー・喫茶ツヅキ・つばめパン＆Milk）、函館・札幌のお店もあります。"
+    a: "この記事の乃木坂46の16軒には、『インフルエンサー』『ジコチューで行こう！』『帰り道は遠回りしたくなる』『シンクロニシティ』などの映像に関わるお店が多く含まれます。鎌倉（umi cafe・イワタコーヒー店・café recette）、名古屋（喫茶ニューポピー・喫茶ツヅキ・つばめパン＆Milk）、函館のお店もあります。"
   - q: "カフェ巡りをするならどのエリアがいいですか？"
-    a: "この記事の69軒のうち49軒が東京都で、渋谷区が12軒、新宿区が10軒、港区が9軒です。東京の外では、神奈川県（鎌倉・横浜）に7軒、愛知県と沖縄県に3軒ずつあります。"
+    a: "この記事の63軒のうち45軒が東京都で、渋谷区が12軒、新宿区が9軒、港区が9軒です。東京の外では、神奈川県（鎌倉・横浜）に7軒、愛知県と沖縄県に3軒ずつあります。"
 ---
 
 <div class="pf" style="--pc:#0891b2">
 
 <p>朝のドライブで寄るコーヒースタンド、MVの舞台になった海辺のカフェ、メンバーどうしで出かけたVlogの動物カフェ。推しが座ったあの席には、どんなお店があるのでしょうか。</p>
 
-<p>この記事では、<strong>14組</strong>のグループ・番組の動画や放送に登場したカフェ<strong>69軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>13組</strong>のグループ・番組の動画や放送に登場したカフェ<strong>63軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しのカフェ</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しのカフェ</p>
-    <p class="pf-card__yomi">14組の動画・番組から69軒</p>
+    <p class="pf-card__yomi">13組の動画・番組から63軒</p>
     <span class="pf-card__color"><i></i>カフェ</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>69軒</dd></div>
-    <div><dt>グループ・番組</dt><dd>14組</dd></div>
-    <div><dt>多いグループ</dt><dd>乃木坂46（18軒）・よにの（16軒）</dd></div>
+    <div><dt>お店の数</dt><dd>63軒</dd></div>
+    <div><dt>グループ・番組</dt><dd>13組</dd></div>
+    <div><dt>多いグループ</dt><dd>乃木坂46・よにの（16軒ずつ）</dd></div>
     <div><dt>多いエリア</dt><dd>渋谷区（12軒）</dd></div>
-    <div><dt>東京の外</dt><dd>20軒（鎌倉・横浜・名古屋・沖縄など）</dd></div>
+    <div><dt>東京の外</dt><dd>18軒（鎌倉・横浜・名古屋・沖縄など）</dd></div>
     <div><dt>2組が訪れた店</dt><dd>ブレッツカフェ クレープリー</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>69<small>軒</small></b><span>この記事のカフェ</span></div>
-  <div><b>14<small>組</small></b><span>登場したグループ・番組</span></div>
-  <div><b>49<small>軒</small></b><span>東京都のお店</span></div>
+  <div><b>63<small>軒</small></b><span>この記事のカフェ</span></div>
+  <div><b>13<small>組</small></b><span>登場したグループ・番組</span></div>
+  <div><b>45<small>軒</small></b><span>東京都のお店</span></div>
   <div><b>{{ site.data.site_stats.genres.cafe }}<small>軒</small></b><span>このサイトに登録されているカフェぜんぶ</span></div>
 </div>
 
 <h2>どのグループのカフェ？</h2>
-<p>乃木坂46が18軒でいちばん多く、よにのちゃんねるが16軒、=LOVEが9軒で続きます。イコラブ・ノイミー・ニアジョイの3組を合わせると15軒です。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-cafe-matome/groups.svg" alt="どのグループのカフェか：乃木坂46 18軒、よにのちゃんねる16軒、=LOVE 9軒、King &amp; Prince・Snow Man・なにわ男子・≠MEが4軒ずつ、≒JOY・SixTONES・銀河チャンネルが2軒ずつ、櫻坂46・かまいたち・Hey! Say! JUMP・孤独のグルメが1軒ずつ" width="420" height="644" loading="lazy" decoding="async"><figcaption>この記事の69軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<p>乃木坂46とよにのちゃんねるが16軒ずつでいちばん多く、=LOVEが6軒で続きます。イコラブ・ノイミー・ニアジョイの3組を合わせると12軒です。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-cafe-matome/groups.svg" alt="どのグループのカフェか：よにのちゃんねる・乃木坂46が16軒ずつ、=LOVE 6軒、King &amp; Prince・Snow Man・なにわ男子・≠MEが4軒ずつ、≒JOY・SixTONES・銀河チャンネルが2軒ずつ、櫻坂46・Hey! Say! JUMP・孤独のグルメが1軒ずつ" width="420" height="606" loading="lazy" decoding="async"><figcaption>この記事の63軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <div class="pf-quote"><p>よにのちゃんねるの16軒は、ほとんどがコーヒーのお店。ドライブの回でコーヒーのお店に寄ることが多いのが、データからも分かります。</p><footer>— 推しグルメ巡礼MAP 編集部（タイトルに【ドライブ!!】が付いた回で立ち寄ったお店が5軒）</footer></div>
 
 <h2>お店はどこにある？</h2>
-<figure class="fig"><img src="/assets/img/posts/idol-cafe-matome/area.svg" alt="お店の場所：東京49軒、関東（東京以外）8軒、中部5軒、九州・沖縄3軒、北海道・東北2軒、中国・四国1軒、近畿1軒。東京都のなかでは渋谷区12軒、新宿区10軒、港区9軒、台東区4軒、目黒区・江東区・中央区が3軒ずつ、豊島区2軒。東京都のほかでは神奈川県7軒、愛知県3軒、沖縄県3軒、北海道2軒など" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-cafe-matome/area.svg" alt="お店の場所：東京45軒、関東（東京以外）8軒、中部5軒、九州・沖縄3軒、北海道・東北1軒、中国・四国1軒。東京都のなかでは渋谷区12軒、新宿区9軒、港区9軒、目黒区・江東区・中央区が3軒ずつ、台東区2軒、千代田区1軒。東京都のほかでは神奈川県7軒、愛知県3軒、沖縄県3軒、長野県・北海道・広島県・静岡県・埼玉県が1軒ずつ" width="420" height="654" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>よにのちゃんねる：ドライブとコーヒー</h2>
 <p>二宮和也・山田涼介・菊池風磨のYouTubeチャンネル。スペシャルティコーヒーのお店から、ベーカリーカフェまで並びます。</p>
@@ -164,7 +158,7 @@ faq:
 {% include inline-shop-grid.html ids="yonino-maruyama-coffee-karuizawa,yonino-le-pain-quotidien,yonino-blue-bottle-shinjuku,yonino-iki-espresso,yonino-latte-art-mania,yonino-blue-six-coffee,yonino-verve-coffee-ebisu,yonino-taoca-coffee,yonino-streamer_coffee_comp-20260201" %}
 
 <h2>乃木坂46：映像の舞台になったカフェ</h2>
-<p>シングルのMVや特典映像、番組に登場したお店です。鎌倉の3軒は『インフルエンサー』『ジコチューで行こう！』の映像に関わるお店で、名古屋・函館・札幌のお店もあります（作品名は推しグルメ巡礼MAPのデータより）。</p>
+<p>シングルのMVや特典映像、番組に登場したお店です。鎌倉の3軒は『インフルエンサー』『ジコチューで行こう！』の映像に関わるお店で、名古屋・函館のお店もあります（作品名は推しグルメ巡礼MAPのデータより）。</p>
 <ul class="pf-works">
   <li><span class="k">鎌倉</span><div><b>umi cafe</b><span>『インフルエンサー』（17thシングル Type-C）</span></div></li>
   <li><span class="k">鎌倉</span><div><b>イワタコーヒー店</b><span>『ジコチューで行こう！』（21stシングル Type-D）</span></div></li>
@@ -176,20 +170,18 @@ faq:
   <li><span class="k">渋谷</span><div><b>アメージングコーヒー 渋谷パルコ店</b><span>渋谷パルコ（『偶然を言い訳にして』『僕は僕を好きになる』）</span></div></li>
   <li><span class="k">渋谷</span><div><b>FLAMINGO</b><span>『ロマンスのスタート』『逃げ水』</span></div></li>
   <li><span class="k">乃木坂</span><div><b>ダウンステアーズコーヒー</b><span>港区・乃木坂（『乃木坂の詩』『ハルジオンが咲く頃』『じゃあね』）</span></div></li>
-  <li><span class="k">池袋</span><div><b>自由学園明日館</b><span>『おいでシャンプー』</span></div></li>
   <li><span class="k">青山</span><div><b>シェイクシャック 外苑いちょう並木</b><span>明治神宮野球場の近く</span></div></li>
   <li><span class="k">浅草</span><div><b>浅草 花月堂 本店</b><span>『乃木坂ってどこ？』</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-freddy_leck_sein_was-,nogizaka46-ccecce7f-,nogizaka46-shibuya_tsutaya-,nogizaka46-e767374d-,nogizaka46-flamingo-,nogizaka46-f23c267b-,nogizaka46-4eba1f02-,nogizaka46-9d97e3e3-,nogizaka46-3bd4b889-" %}
+{% include inline-shop-grid.html ids="nogizaka46-umi_cafe-,nogizaka46-5bce3fc7-,nogizaka46-cafe_recette-,nogizaka46-good_morning_cafe-,nogizaka46-freddy_leck_sein_was-,nogizaka46-ccecce7f-,nogizaka46-shibuya_tsutaya-,nogizaka46-e767374d-,nogizaka46-flamingo-,nogizaka46-f23c267b-,nogizaka46-9d97e3e3-,nogizaka46-3bd4b889-" %}
 
 <ul class="pf-works">
   <li><span class="k">名古屋</span><div><b>喫茶ニューポピー</b><span>名古屋市西区（国際センター駅 徒歩6分）</span></div></li>
   <li><span class="k">名古屋</span><div><b>喫茶ツヅキ</b><span>名古屋市中村区（太閤通駅 徒歩1分）</span></div></li>
   <li><span class="k">名古屋</span><div><b>つばめパン＆Milk 尼ケ坂本店</b><span>『乃木坂どこへ』</span></div></li>
   <li><span class="k">函館</span><div><b>函館洋菓子スナッフルス 金森洋物館店</b><span>函館ロケ</span></div></li>
-  <li><span class="k">札幌</span><div><b>乃木坂な妻たち</b><span>札幌市中央区</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-milk-,nogizaka46-dcca8bec-,nogizaka46-3d56208f-" %}
+{% include inline-shop-grid.html ids="nogizaka46-85374eb4-,nogizaka46-bfe83dcc-,nogizaka46-milk-,nogizaka46-dcca8bec-" %}
 
 <h2>=LOVE・≠ME・≒JOY：Vlogで出かけたカフェ</h2>
 <p>3組の公式チャンネル「イコラブ ノイミー ニアジョイ チャンネル」やメンバー個人のチャンネルの動画に登場したお店です。横浜中華街、沖縄、広島・宮島と、旅のVlogが多いのも特徴です。</p>
@@ -199,12 +191,9 @@ faq:
   <li><span class="k">2023<br>12月</span><div><b>パスティス広尾ハウス</b><span>=LOVE／【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします【メイキング】</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>GEBURA（宮島）</b><span>=LOVE／【ツアー翌日に】るんるん広島旅じゃけん！（チャンネル「イコラブのあんまい」）</span></div></li>
   <li><span class="k">2025<br>10月</span><div><b>COA GINZA</b><span>=LOVE／朝からみりにゃの美容DAYに密着してみた【肌治療 / 美容院】</span></div></li>
-  <li><span class="k">新大久保</span><div><b>2D Cafe 新大久保店</b><span>=LOVE／新宿区百人町</span></div></li>
   <li><span class="k">新大久保</span><div><b>move move（ムーブムーブ）</b><span>=LOVE／新宿区大久保</span></div></li>
-  <li><span class="k">上野</span><div><b>不純喫茶ドープ 上野御徒町店</b><span>=LOVE／台東区上野</span></div></li>
-  <li><span class="k">浅草</span><div><b>DOG DEPT CAFE 浅草隅田川テラス店</b><span>=LOVE／台東区駒形</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_005,equallove_008,equallove_003,equallove_006" %}
+{% include inline-shop-grid.html ids="equal_love-6e007468-202408,equal_love-mateki-202408,equal_love-e732d9bf-202506,equal_love-gebura-20250915,equal_love-coa_ginza-20251006,equallove_008" %}
 
 <ul class="pf-works">
   <li><span class="k">2020<br>11月</span><div><b>猫カフェ MOCHA 原宿店</b><span>≠ME／【もふもふ】猫カフェデートしてきました♡【癒し】</span></div></li>
@@ -250,9 +239,8 @@ faq:
   <li><span class="k">2025<br>1月</span><div><b>喫茶パオーン</b><span>櫻坂46「休日まったりカフェ巡り」</span></div></li>
   <li><span class="k">2017<br>2月</span><div><b>パセラリゾーツ 銀座店</b><span>Hey! Say! JUMP『いただきハイジャンプ』女子会向けスイーツ特集</span></div></li>
   <li><span class="k">S10<br>3話</span><div><b>キッチン・カフェ ばる（横浜）</b><span>孤独のグルメ Season10 第3話／真鯛のソテー オーロラソース、まぐろのユッケどんぶり、いくらとしらすのどんぶり、メンチカツ</span></div></li>
-  <li><span class="k">関西</span><div><b>コロラド（大阪）</b><span>かまいたち【忘れられないグルメ】かまいたちがもう一度行きたい！ロケで行った飲食店〜関西編〜</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="ginga-okudo-202407,ginga-maru-202407,sakurazaka46-kissa-paon,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-,kamaitachi-b9386654-" %}
+{% include inline-shop-grid.html ids="ginga-okudo-202407,ginga-maru-202407,sakurazaka46-kissa-paon,heysayjump-747256d6-20170201,kodoku_no_gurume-aa39fbb9-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>各グループの公式チャンネルの動画から、カフェが登場する4本を選びました（タップすると再生します）。</p>
@@ -276,7 +264,7 @@ faq:
 
 <div class="pf-cta">
   <p>推しが行ったカフェを、地図でぜんぶ見る</p>
-  <span>この記事の69軒のほかにも、グループや番組に登場したカフェを地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の63軒のほかにも、グループや番組に登場したカフェを地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?genre=cafe&amp;view=map">地図でカフェを見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねる</a>・<a href="{{ site.data.group_ix.nogizaka46.u }}">乃木坂46</a>・<a href="{{ site.data.group_ix.equal_love.u }}">=LOVE</a>のページからも探せます。</p>

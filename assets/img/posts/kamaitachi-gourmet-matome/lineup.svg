@@ -19,7 +19,7 @@
 <circle cx="38" cy="288" r="7" fill="#fff" stroke="#8b5cf6" stroke-width="2.5"/>
 <text x="54" y="293" font-size="14.5" font-weight="700" fill="#241F1A">大貫本店</text>
 <text x="390" y="293" font-size="12.5" text-anchor="end" fill="#6B6258">ラーメン・チャーハン・兵庫</text>
-<circle cx="38" cy="322" r="7" fill="#8b5cf6" stroke="#8b5cf6" stroke-width="2.5"/>
+<circle cx="38" cy="322" r="7" fill="#fff" stroke="#8b5cf6" stroke-width="2.5"/>
 <text x="54" y="327" font-size="14.5" font-weight="700" fill="#241F1A">コロラド</text>
 <text x="390" y="327" font-size="12.5" text-anchor="end" fill="#6B6258">京都</text>
 <circle cx="38" cy="356" r="7" fill="#8b5cf6" stroke="#8b5cf6" stroke-width="2.5"/>

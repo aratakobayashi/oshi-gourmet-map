@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "SixTONESが行ったお店まとめ｜ストチューブの大食い・忘年会・アポなし旅から39軒をジャンル図と動画で"
+title: "SixTONESが行ったお店まとめ｜ストチューブの大食い・忘年会・アポなし旅から31軒をジャンル図と動画で"
 date: 2026-05-12
 last_modified_at: 2026-10-10
-description: "SixTONESの公式YouTubeチャンネルに登場したお店など39軒をまとめました。わんこ小籠包・無限焼き鳥の大食い企画、忘年会と打ち上げ、アポなし旅の旅先グルメを、動画のタイトルとジャンル・場所の図で。"
+description: "SixTONESの公式YouTubeチャンネルに登場したお店など31軒をまとめました。わんこ小籠包・無限焼き鳥の大食い企画、忘年会と打ち上げ、アポなし旅の旅先グルメを、動画のタイトルとジャンル・場所の図で。"
 group: sixtones
 genre: まとめ
 article_type: matome
@@ -11,9 +11,9 @@ prefecture:
 tags: [SixTONES, ストチューブ, グルメ, 聖地巡礼, まとめ, 京本大我, 髙地優吾, 田中樹, 森本慎太郎, 松村北斗, ジェシー]
 thumbnail_video_id: 0dnJrRmFRXo
 summary:
-  - "SixTONESの公式YouTubeチャンネルに登場したお店など39軒。うち21軒は動画のタイトルを公式チャンネルで確かめて載せています"
+  - "SixTONESの公式YouTubeチャンネルに登場したお店など31軒。うち21軒は動画のタイトルを公式チャンネルで確かめて載せています"
   - "大食い（わんこ小籠包・無限焼き鳥・八王子ラーメン）、忘年会と打ち上げ、アポなし旅・ドライブの旅先グルメまで"
-  - "東京17軒のほか、神奈川・栃木・静岡・愛知など9府県とシンガポールにも"
+  - "東京10軒のほか、神奈川・栃木・静岡・愛知など9府県とシンガポールにも"
   - "お店ごとに公開年月と動画のタイトルを載せ、地図でまとめて巡れる"
 shop_ids:
   - sixtones-kamonka-kinshicho
@@ -37,16 +37,8 @@ shop_ids:
   - sixtones-honjo-kaeru-honpo
   - sixtones-gyugyu-nishiazabu
   - sixtones-pizzeria-e-trattoria-da-isa
-  - sixtones-ushimitsu-ebisu
-  - sixtones-c2272dd2-201906
-  - sixtones-onigiri-bongo
   - sixtones-af622cfe-
-  - sixtones-0f6b2048-202411
-  - sixtones-a3a0ff52-202003
-  - sixtones-bf58b791-202212
-  - sixtones-2ed2841e-202305
   - sixtones-2b41b180-202411
-  - sixtones-unagi-maruchu
   - sixtones-sixtones-202108
   - sixtones-f52d4936-202108
   - sixtones-b647a3f1-202204
@@ -65,14 +57,14 @@ faq:
   - q: "旅ロケではどこへ行っていますか？"
     a: "動画を確かめられたお店では、山梨の富士河口湖（10万円アポなし旅）、群馬の伊香保（帰ってきたアポなし旅）、栃木の宇都宮と佐野SA（アポなし旅 2024夏）、神奈川の江の島（開運の旅2025）、静岡の島田（6人ドライブ）、鎌倉（サマソニ直後に夏ドライブ）などです。"
   - q: "SixTONESが行ったお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でSixTONESを選ぶと、この記事の39軒を含め、SixTONESに関連するお店を地図で見られます。"
+    a: "「お店を探す」でSixTONESを選ぶと、この記事の31軒を含め、SixTONESに関連するお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#7c3aed">
 
 <p><strong>ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹</strong>の6人のSixTONES。公式YouTubeチャンネルでは、小籠包や焼き鳥を何皿・何本食べられるかに挑む大食い企画、6人の忘年会やドームツアーの打ち上げ、行き先を決めない「アポなし旅」まで、食べる場面がたくさん登場します。</p>
 
-<p>この記事では、推しグルメ巡礼MAPに登録している<strong>39軒</strong>をまとめました。そのうち<strong>21軒</strong>は、公式チャンネルで動画のタイトルと公開日を確かめて載せています。</p>
+<p>この記事では、推しグルメ巡礼MAPに登録している<strong>31軒</strong>をまとめました。そのうち<strong>21軒</strong>は、公式チャンネルで動画のタイトルと公開日を確かめて載せています。</p>
 
 <h2>ひと目でわかる SixTONESのグルメ</h2>
 <div class="pf-card">
@@ -83,17 +75,17 @@ faq:
     <span class="pf-card__color"><i></i>SixTONES 6人</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>39軒</dd></div>
+    <div><dt>お店の数</dt><dd>31軒</dd></div>
     <div><dt>動画を確かめたお店</dt><dd>21軒</dd></div>
     <div><dt>名物企画</dt><dd>大食い・アポなし旅</dd></div>
-    <div><dt>多いエリア</dt><dd>東京（17軒）</dd></div>
-    <div><dt>ジャンル</dt><dd>和食が13軒</dd></div>
+    <div><dt>多いエリア</dt><dd>東京（10軒）</dd></div>
+    <div><dt>ジャンル</dt><dd>和食が9軒</dd></div>
     <div><dt>海外</dt><dd>シンガポール（3軒）</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>39<small>軒</small></b><span>この記事のお店</span></div>
+  <div><b>31<small>軒</small></b><span>この記事のお店</span></div>
   <div><b>21<small>軒</small></b><span>動画のタイトルを公式チャンネルで確かめたお店</span></div>
   <div><b>10<small>都府県</small></b><span>東京・神奈川・栃木・静岡・愛知など（ほかにシンガポール）</span></div>
   <div><b>{{ site.data.group_ix.sixtones.n }}<small>軒</small></b><span>このサイトに登録されている、SixTONESのお店ぜんぶ</span></div>
@@ -102,7 +94,7 @@ faq:
 <div class="pf-quote"><p>動画を確かめられた21軒を並べると、「大食い」「忘年会・打ち上げ」「アポなし旅」の3つで半分以上。6人がそろって同じテーブルを囲む回が多いのが、SixTONESのグルメ動画の特徴です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食13軒、中華5軒、居酒屋4軒、ラーメン4軒、カフェ4軒、焼肉3軒、その他3軒、スイーツ2軒、食事1軒。東京都内は墨田区・渋谷区4軒ずつ、新宿区2軒など。東京の外は横浜市を中心に神奈川県4軒（ほかに藤沢市・鎌倉市が1軒ずつ）、シンガポール3軒、石川県金沢市2軒など" width="420" height="998" loading="lazy" decoding="async"><figcaption>この記事の39軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。もんじゃのお店は和食に入れています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食9軒、中華5軒、カフェ4軒、居酒屋3軒、ラーメン3軒、その他3軒、焼肉2軒、スイーツ1軒、食事1軒。東京都内は墨田区4軒、新宿区2軒など。東京の外は横浜市を中心に神奈川県4軒（ほかに藤沢市・鎌倉市が1軒ずつ）、シンガポール3軒、石川県金沢市2軒など" width="420" height="902" loading="lazy" decoding="async"><figcaption>この記事の31軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。もんじゃのお店は和食に入れています）</figcaption></figure>
 
 <h2>大食い企画：小籠包100皿・焼き鳥・八王子ラーメン</h2>
 <p>「無限シリーズ」などの大食い企画。6人で何皿、何本食べられるかに挑みます。</p>
@@ -155,14 +147,13 @@ faq:
 <p class="note">動画のタイトルは公式チャンネルのものです（先頭の「SixTONES」は省きました）。左の数字は動画の公開年月です。</p>
 
 <h2>動画の回を確かめているお店</h2>
-<p>次の18軒は推しグルメ巡礼MAPに登録していますが、どの動画に登場したかを公式チャンネルでまだ確かめられていません。確かめられたら、動画のタイトルを書き足します。</p>
+<p>次の10軒は推しグルメ巡礼MAPに登録していますが、どの動画に登場したかを公式チャンネルでまだ確かめられていません。確かめられたら、動画のタイトルを書き足します。</p>
 <ul class="pf-works">
-  <li><span class="k">東京</span><div><b>焼肉・和食</b><span>恵比寿 焼肉 うしみつ、もんじゃ まぐろ家、おにぎり ぼんご、うなぎ徳 渋谷店</span></div></li>
-  <li><span class="k">東京</span><div><b>カフェ・スイーツ・ラーメン・居酒屋</b><span>3丁目の小さなパン屋 ちいぱん、本処 かえる本舗、笑たこ 原宿表参道店、一蘭 渋谷店、蘭蝶</span></div></li>
-  <li><span class="k">旅先</span><div><b>埼玉・静岡・石川・京都</b><span>阿左美冷蔵 金崎本店、豚みそ丼本舗 野さか（秩父）、丸忠うなぎ（焼津）、手打ちそば こめや、もりもり寿司 金沢駅前店（金沢）、京料理 六盛（京都）</span></div></li>
+  <li><span class="k">東京</span><div><b>カフェ・その他</b><span>3丁目の小さなパン屋 ちいぱん、笑たこ 原宿表参道店</span></div></li>
+  <li><span class="k">旅先</span><div><b>埼玉・石川・京都</b><span>阿左美冷蔵 金崎本店、豚みそ丼本舗 野さか（秩父）、手打ちそば こめや、もりもり寿司 金沢駅前店（金沢）、京料理 六盛（京都）</span></div></li>
   <li><span class="k">海外</span><div><b>シンガポール</b><span>YY Kafei Dian 喜園咖啡店、Tian Tian Hainanese Chicken Rice、Cicheti</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-ushimitsu-ebisu,sixtones-c2272dd2-201906,sixtones-onigiri-bongo,sixtones-2ed2841e-202305,sixtones-af622cfe-,sixtones-0f6b2048-202411,sixtones-2b41b180-202411,sixtones-a3a0ff52-202003,sixtones-bf58b791-202212,sixtones-sixtones-202108,sixtones-f52d4936-202108,sixtones-unagi-maruchu,sixtones-b647a3f1-202204,sixtones-4330a634-202204,sixtones-b5dfc98a-202310,sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti" %}
+{% include inline-shop-grid.html ids="sixtones-af622cfe-,sixtones-2b41b180-202411,sixtones-sixtones-202108,sixtones-f52d4936-202108,sixtones-b647a3f1-202204,sixtones-4330a634-202204,sixtones-b5dfc98a-202310,sixtones-yy_kafei_dian-202403,sixtones-tiantianhainanesechickenrice,sixtones-cicheti" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>SixTONESの公式YouTubeチャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -185,7 +176,7 @@ faq:
 
 <div class="pf-cta">
   <p>SixTONESのお店を、地図でぜんぶ見る</p>
-  <span>この記事の39軒のほかにも、SixTONESに関連するお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の31軒のほかにも、SixTONESに関連するお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=sixtones&amp;view=map">地図でSixTONESのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.sixtones.u }}">SixTONESのお店一覧（グループのページ）</a>もどうぞ。</p>

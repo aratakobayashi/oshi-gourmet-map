@@ -12,7 +12,7 @@ related_genres:
   - arashi-sweets
   - arashi-cafe
 related_groups:
-  - snowman-shokuji
   - west-shokuji
   - kodoku-no-gurume-shokuji
+  - snowman-shokuji
 ---

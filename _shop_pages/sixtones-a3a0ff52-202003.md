@@ -1,30 +1,7 @@
 ---
-layout: shop
-title: "SixTONESが行った「一蘭 渋谷店」"
-description: "SixTONESのYouTubeで紹介されたラーメン「一蘭 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "sixtones-a3a0ff52-202003"
-name: "一蘭 渋谷店"
-genre: "ramen"
-prefecture: "東京都"
-city: "渋谷区"
-address: "東京都渋谷区神南1-22-7"
-nearest_station: "渋谷駅 徒歩3分"
-visited_date: "2025-01-24"
-youtube_id: "HDBtAkYKNM4"
-source_video_title: "SixTONES【６人念願の朝ラー】並んで食べるって久々じゃね？🍜"
-source_video_url: "https://www.youtube.com/watch?v=f5pC2GkKq78"
-group: "sixtones"
-tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13001762/"
-thumbnail_url: "https://img.youtube.com/vi/HDBtAkYKNM4/hqdefault.jpg"
-lat: 35.6611
-lng: 139.7008
-members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "森本慎太郎"
-  - "田中樹"
-groups:
-  - "sixtones"
+redirect_to: "/groups/sixtones/"
+redirect_label: "SixTONESのお店一覧"
+sitemap: false
 ---
