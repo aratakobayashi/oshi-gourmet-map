@@ -5008,49 +5008,6 @@
     "source_video_channel": "SixTONES"
   },
   {
-    "id": "sixtones-ramen-hakubutsukan",
-    "name": "新横浜ラーメン博物館",
-    "genre": "ramen",
-    "prefecture": "神奈川県",
-    "city": "横浜市港北区",
-    "address": "神奈川県横浜市港北区新横浜2-14-21",
-    "lat": 35.510089,
-    "lng": 139.616478,
-    "youtube_id": "Y0HPj8hZk-Q",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "田中樹",
-      "森本慎太郎"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2022-11-04",
-    "description": "昭和レトロな屋内ラーメンテーマパーク。ストチューブで2本の動画に登場し、館内かくれんぼや人気ラーメンを食べる企画を実施。多数のジャニーズが訪れる有名ロケ地。",
-    "tags": [
-      "ラーメン",
-      "横浜",
-      "新横浜",
-      "テーマパーク",
-      "聖地巡礼"
-    ],
-    "affiliate_links": [
-      {
-        "label": "公式サイト",
-        "url": "https://www.raumen.co.jp/"
-      }
-    ],
-    "source_video_title": "【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇😂",
-    "thumbnail_url": "https://img.youtube.com/vi/Y0HPj8hZk-Q/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140206/14047083/",
-    "nearest_station": "新横浜駅 徒歩2分",
-    "source_video_channel": "SixTONES"
-  },
-  {
     "id": "sixtones-sano-sa-foodcourt",
     "name": "佐野サービスエリア（下り）フードコート",
     "genre": "ramen",
@@ -18541,8 +18498,8 @@
     "prefecture": "神奈川県",
     "city": "横浜市",
     "address": "神奈川県横浜市都筑区北山田",
-    "lat": 35.562157,
-    "lng": 139.591003,
+    "lat": 35.5706417027,
+    "lng": 139.5990317926,
     "youtube_id": "",
     "source_video_title": "孤独のグルメ 2020大晦日スペシャル～俺の食事に密はない、孤独の花火大作戦！～",
     "visited_date": "",
@@ -71306,8 +71263,8 @@
     "prefecture": "埼玉県",
     "city": "秩父市",
     "address": "埼玉県秩父市荒川小野原178",
-    "lat": 35.968487,
-    "lng": 139.005692,
+    "lat": 35.9589947134,
+    "lng": 139.0094981881,
     "youtube_id": "IcaaFTZNjWs",
     "source_video_title": "SixTONES【サプライズ】歌あり踊りありの秩父旅！4/5",
     "source_video_url": "https://www.youtube.com/watch?v=IcaaFTZNjWs",
@@ -71497,9 +71454,9 @@
     "genre": "cafe",
     "prefecture": "東京都",
     "city": "新宿区",
-    "address": "東京都新宿区新宿1-5-9 新宿一丁目ビル1F",
-    "lat": 35.688171,
-    "lng": 139.710892,
+    "address": "東京都新宿区新宿1-6-11",
+    "lat": 35.688438,
+    "lng": 139.710617,
     "youtube_id": "_3I5FnMkpNM",
     "source_video_title": "WEST.【KAMI🍰Sweets①】人気スイーツを爆食する神ちゃん単独企画が始動！【WESTubeのおまけ】17/100",
     "source_video_url": "https://www.youtube.com/watch?v=_3I5FnMkpNM",
@@ -74139,10 +74096,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ログ丸太ソーセージ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4608ad2e-20210413",
@@ -74165,10 +74119,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "黒毛和牛ホルモン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f654d8cf-20210427",
@@ -74191,11 +74142,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ミックス「グリル」",
-      "ミックスグリル"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-319db84e-20210427",
@@ -74218,11 +74165,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "握り盛り合わせ(7貫)",
-      "上にぎり(小ネタ10貫)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b738defc-20210427",
@@ -74245,10 +74188,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "餃子(2ヶ)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5ed355e8-20210427",
@@ -74271,11 +74211,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "豚ちゃんの角煮ランチ",
-      "サイコロステーキランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-1a56efa5-20210427",
@@ -74298,11 +74234,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "唐揚げ弁当",
-      "森林公園"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ddfa121d-20210427",
@@ -74325,10 +74257,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "うな重"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ca8194be-20210504",
@@ -74351,10 +74280,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チンジャオロース丼(スープ付き・デカ盛り丼バージョン)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-96f1e069-20210504",
@@ -74377,10 +74303,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "親子丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d42c1f0e-20210504",
@@ -74403,10 +74326,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉天重"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4c34e4ec-20210504",
@@ -74429,11 +74349,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン",
-      "ラーメン・玉子チャーハンセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9b60479b-20210511",
@@ -74456,11 +74372,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チャンポン",
-      "からあげ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-06624c80-20210511",
@@ -74483,10 +74395,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3a45de12-20210518",
@@ -74509,10 +74418,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "アジタタキ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ada6699c-20210518",
@@ -74535,15 +74441,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "W唐揚げ(豚肉と鶏肉)",
-      "Wから揚げ(豚肉と鶏肉)",
-      "元祖ぶたから",
-      "ニラニンニクチャーハン(大盛り)",
-      "レバニラ炒め定食",
-      "考案中の新メニュー「よくばりチャーハン」"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-724c9140-20210525",
@@ -74566,10 +74464,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツカレー(デカ盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d6de3fcf-20210525",
@@ -74592,10 +74487,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "アートスムージー各"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-eb85572d-20210525",
@@ -74618,10 +74510,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "さしみ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6a29541a-20210601",
@@ -74644,10 +74533,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-debf9981-20210608",
@@ -74670,10 +74556,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "けんちんそば(大)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f68f94df-20210608",
@@ -74696,10 +74579,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "7段ランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a4e8e434-20210615",
@@ -74722,10 +74602,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スタミナ麺"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b6eeae17-20210615",
@@ -74748,11 +74625,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ミニ天丼",
-      "ミニ天丼セット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e9a6f417-20210615",
@@ -74775,10 +74648,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "サムギョプサル"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6aac684b-20210622",
@@ -74802,9 +74672,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "畑で完熟とちおとめ"
-    ],
     "location_unverified": true
   },
   {
@@ -74828,10 +74695,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "刺身定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d51d03a0-20210622",
@@ -74854,13 +74718,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ワラサのカマ焼",
-      "真鯛かぶと煮",
-      "日替わりランチ",
-      "オムライス唐揚げ・刺し身定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-02b140f6-20210629",
@@ -74883,10 +74741,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "エビチャーハン(大)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-195cf4b3-20210629",
@@ -74909,10 +74764,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ソフトクリーム"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-59f201f9-20210629",
@@ -74935,10 +74787,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "醤油ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d8e269d2-20210629",
@@ -74961,10 +74810,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "厚切りハムかつ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ad5352db-20210629",
@@ -74988,9 +74834,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "しょうゆラーメン"
-    ],
     "location_unverified": true
   },
   {
@@ -75014,10 +74857,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-de1ad7f6-20210713",
@@ -75040,10 +74880,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "穴子天重"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3413351e-20210713",
@@ -75066,10 +74903,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ナポリタン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7314adb6-20210720",
@@ -75092,10 +74926,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スーラ—タンメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-46f26eaf-20210720",
@@ -75118,13 +74949,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ジャンボエビフライ御膳",
-      "ロング牡蠣フライ御膳",
-      "ジャンボ海老フライ御膳",
-      "ジャンボなすカツ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6ba2d1d2-20210810",
@@ -75147,10 +74972,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おでん各種"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3b5e4c23-20210817",
@@ -75173,11 +74995,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スタミナホルモン定食",
-      "ねぎ塩唐揚げ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-55b80906-20210817",
@@ -75200,10 +75018,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン付きラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5b4e367a-20210824",
@@ -75226,10 +75041,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-83e0bf1c-20210824",
@@ -75252,10 +75064,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせ刺身9点盛り"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7032279e-20210824",
@@ -75279,9 +75088,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "天盛そば"
-    ],
     "location_unverified": true
   },
   {
@@ -75305,10 +75111,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カルボ風ら~めん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-243651b6-20210907",
@@ -75331,10 +75134,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "刺身定食(竹)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f4e902b8-20210907",
@@ -75357,10 +75157,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "びんびんラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-786b8bb0-20210921",
@@ -75383,10 +75180,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ミックスフライ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-37199297-20210921",
@@ -75409,10 +75203,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "フルーツポンチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-dce49249-20210928",
@@ -75435,11 +75226,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鯛かぶと煮",
-      "刺し身盛り合わせ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5dde77d9-20211012",
@@ -75462,10 +75249,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "上にぎり寿司定食(ランチ)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a0c0e488-20211019",
@@ -75488,11 +75272,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "半々チャーハン",
-      "チャーハン(並)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-82782d34-20211019",
@@ -75515,10 +75295,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "特盛もどき"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-be62fde2-20211019",
@@ -75541,10 +75318,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ポテト丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-893201bc-20211026",
@@ -75567,10 +75341,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "海鮮丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ee3297f7-20211026",
@@ -75593,37 +75364,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チャーシューエッグ丼"
-    ]
-  },
-  {
-    "id": "omouma-937fa314-20211102",
-    "name": "ひまわり市場",
-    "genre": "shokuji",
-    "prefecture": "山梨県",
-    "city": "北杜市",
-    "address": "山梨県北杜市大泉町谷戸2008",
-    "lat": 35.894646,
-    "lng": 138.371689,
-    "source_video_title": "オモウマい店 ロングトークスーパー（2021年11月2日 中京テレビ・日本テレビ系）",
-    "visited_date": "2021-11-02",
-    "members": [],
-    "groups": [
-      "omouma"
-    ],
-    "group": "omouma",
-    "description": "『オモウマい店』で訪れたお店。",
-    "source_url": "https://www.ctv.co.jp/omouma/article/lcp52vsehg534d7s.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
-    "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "歴史的メンチカツ"
-    ],
-    "location_unverified": true
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7e825494-20211109",
@@ -75646,10 +75387,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ランチバイキング"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-1d7e8fa0-20211116",
@@ -75672,10 +75410,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カレーライス"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ab501f33-20211123",
@@ -75698,11 +75433,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼肉定食(並)",
-      "焼肉定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-90c427f3-20211130",
@@ -75725,10 +75456,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ジャンボエビフライ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ca12d36e-20211130",
@@ -75751,10 +75479,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "日替わりランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8a13de18-20211207",
@@ -75777,12 +75502,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ランチコース(鶏モモのコンフィ)",
-      "ランチコース",
-      "ディナーコース"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c01a3efb-20211214",
@@ -75805,10 +75525,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "寄せ鍋"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-98ce189f-20211214",
@@ -75831,11 +75548,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ホルモンうどん",
-      "そばめし"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7d6b438b-20220111",
@@ -75858,10 +75571,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チャンポン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-13db1829-20220111",
@@ -75884,10 +75594,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7df86973-20220118",
@@ -75910,10 +75617,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "山ほこ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-463dd294-20220201",
@@ -75937,9 +75641,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "天ぷらうどん"
-    ],
     "location_unverified": true
   },
   {
@@ -75963,10 +75664,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "元祖みそ中華"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c9d77160-20220215",
@@ -75989,10 +75687,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "お好み焼ぶた玉"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3a9ca55a-20220222",
@@ -76015,11 +75710,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "うどん",
-      "うどん(からあげ)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-867cc931-20220301",
@@ -76043,9 +75734,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "オムレツカレー"
-    ],
     "location_unverified": true
   },
   {
@@ -76069,10 +75757,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かけうどんランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-07a7bb85-20220315",
@@ -76095,10 +75780,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "オードブル"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f26c378d-20220329",
@@ -76121,10 +75803,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "とり唐揚丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e8def168-20220412",
@@ -76147,10 +75826,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉トリプル定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-73130567-20220412",
@@ -76173,10 +75849,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きまんじゅう"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-aaae6385-20220419",
@@ -76199,10 +75872,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7c63351e-20220517",
@@ -76225,10 +75895,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ガラパゴス定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9d0da0e2-20220607",
@@ -76252,9 +75919,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "から揚げ定食"
-    ],
     "location_unverified": true
   },
   {
@@ -76278,10 +75942,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "刺身定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-88e52038-20220614",
@@ -76304,11 +75965,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きそば(小盛)",
-      "焼きそば(大皿盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-94fab05c-20220719",
@@ -76331,10 +75988,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ねぎとろ番長(サバの煮つけ付き)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8928a473-20220719",
@@ -76357,11 +76011,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "牛すじチャーハン",
-      "牛タン塩チャーハン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2a4b03c9-20220802",
@@ -76384,10 +76034,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かき揚げ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c19aeba6-20220802",
@@ -76410,11 +76057,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "からあげ串(3本セット)",
-      "からあげ串"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-338cb994-20220809",
@@ -76437,10 +76080,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鶏唐ニンニク塩ダレ飯"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6cfb3f25-20220809",
@@ -76463,11 +76103,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツサンド",
-      "野菜チャンポン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6a6dd9f7-20220809",
@@ -76491,14 +76127,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "かき氷(単色)",
-      "かき氷(レインボー)",
-      "特製百姓うどん",
-      "レインボータワーかき氷",
-      "なみうどん将軍盛",
-      "ごぼう天うどん"
-    ],
     "location_unverified": true
   },
   {
@@ -76522,11 +76150,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "豚ロース1人前",
-      "ミックス(1人前)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-1ee0dfca-20220906",
@@ -76549,10 +76173,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きそば(特盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5fce991b-20220913",
@@ -76575,10 +76196,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4aa1f9ec-20220920",
@@ -76601,10 +76219,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "刺し身定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-120d8234-20220927",
@@ -76627,10 +76242,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "花すしセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-36daf998-20221004",
@@ -76653,15 +76265,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "中華そば半チャーハンセット",
-      "岩塩のしおそば",
-      "牛肉のはちみつソース定食",
-      "中華そば",
-      "本格四川マーボー豆腐定食",
-      "揚げ焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6b8049f1-20221011",
@@ -76684,10 +76288,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "夏一番ジョッキめん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d134d6d3-20221011",
@@ -76710,10 +76311,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ピッチャーコロ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7efa3c6a-20221101",
@@ -76736,11 +76334,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツカレー(普通盛り)",
-      "カツカレー普通盛り"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-71bdfb64-20221108",
@@ -76763,10 +76357,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "豚からラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-28abfb23-20221115",
@@ -76790,10 +76381,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "半チャーハン",
-      "チャーハン(普盛り)"
-    ],
     "location_unverified": true
   },
   {
@@ -76817,10 +76404,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "二刀流(寿司+海鮮丼)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-86f416b2-20221122",
@@ -76843,10 +76427,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ベーコンエッグカレー(激盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b4548403-20221122",
@@ -76869,10 +76450,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ポークチャップ(ごはん・サラダ・スープ付)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-22dc06af-20221129",
@@ -76895,10 +76473,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "でかまる"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7ba62831-20221129",
@@ -76921,10 +76496,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "豚ロース肉の生姜焼き"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-be4ff90b-20221206",
@@ -76947,10 +76519,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ざるそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-331dc304-20221220",
@@ -76973,11 +76542,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ホットロイヤルミルクティー(キャラメルコーンホイップ)",
-      "ちりめんじゃこのスパゲティー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e207fc8a-20221220",
@@ -77000,10 +76565,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "あんバターサンド"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-70c463e2-20221227",
@@ -77026,12 +76588,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "たこ焼",
-      "さっぱりレモンネギ",
-      "ネギマヨ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8f913d6c-20221227",
@@ -77054,10 +76611,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "クレープ焼きそば(ミックス・大盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-cf270dff-20221227",
@@ -77080,10 +76634,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "超巨大ゴマ団子"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-de5c0e44-20230119",
@@ -77106,10 +76657,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ランチバイキング"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b28a0471-20230119",
@@ -77132,10 +76680,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かけうどん(2玉)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-696e58b3-20230119",
@@ -77158,10 +76703,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ぶりしゃぶ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-dbb8dd9e-20230124",
@@ -77184,10 +76726,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ハンバーグ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-96812ac5-20230207",
@@ -77210,10 +76749,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ステーキ定食W"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f23121ea-20230221",
@@ -77236,10 +76772,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "絶望"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3c5b28d1-20230221",
@@ -77262,10 +76795,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "煮込みハンバーグ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8cfb81f4-20230228",
@@ -77288,10 +76818,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "日替わりランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d069dff7-20230307",
@@ -77314,10 +76841,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツチャーシュー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c2e2b93c-20230307",
@@ -77340,10 +76864,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "手作りケーキ各"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-52354c62-20230411",
@@ -77367,9 +76888,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "4倍チャーハン"
-    ],
     "location_unverified": true
   },
   {
@@ -77393,16 +76911,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉団子(日替り定食)",
-      "スタミナニララーメン",
-      "もつ鍋(日替り定食)",
-      "日替わり揚げハンバーグ定食",
-      "特大うなぎ丼",
-      "肉団子(日替わり定食)",
-      "思い出のオムライス丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ec9e248a-20230502",
@@ -77426,9 +76935,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "刺身定食"
-    ],
     "location_unverified": true
   },
   {
@@ -77452,10 +76958,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "から揚げ(1個)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8d8c1152-20230523",
@@ -77478,10 +76981,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "生シュークリーム"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-39226c97-20230530",
@@ -77504,10 +77004,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "手作りカレーとかき揚げうどん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0935c4e1-20230606",
@@ -77530,11 +77027,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉ソバ",
-      "メンマチャーハン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-af12572f-20230613",
@@ -77558,9 +77051,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ジャンボそば"
-    ],
     "location_unverified": true
   },
   {
@@ -77584,10 +77074,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせコース"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-21fe85bc-20230704",
@@ -77610,10 +77097,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "Aランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-90c7ad6d-20230704",
@@ -77636,10 +77120,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "大盛りランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8b96f4d6-20230718",
@@ -77662,13 +77143,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "うな重",
-      "海鮮丼(上)",
-      "海鮮丼上",
-      "ローストビーフ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-28afb4fd-20230808",
@@ -77691,10 +77166,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラセゾン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-37517abf-20230822",
@@ -77717,10 +77189,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "デミオムドライカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-bc3b5ab9-20230829",
@@ -77743,10 +77212,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "御殿様重"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-fd10414a-20230912",
@@ -77769,10 +77235,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ビジネスターリランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-71dc7c41-20230926",
@@ -77795,10 +77258,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキン南蛮定食(増盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-333c7b59-20231003",
@@ -77821,10 +77281,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ざるそば(大盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-406188b4-20231017",
@@ -77847,10 +77304,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かしら"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9f5df047-20231024",
@@ -77873,10 +77327,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "三日丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d29040bc-20231031",
@@ -77899,10 +77350,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "麻婆飯"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-cd04c9dc-20231107",
@@ -77925,10 +77373,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "とり天定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0904c880-20231114",
@@ -77951,10 +77396,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンカツ定食(小めし)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-dc183938-20231114",
@@ -77977,10 +77419,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "からあげ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c2cc8c6e-20231121",
@@ -78003,10 +77442,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "少し大きなお弁当"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-03a2e97e-20231121",
@@ -78029,10 +77465,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせ定食(鯛の山椒焼き)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b050af1c-20231219",
@@ -78055,11 +77488,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "野菜炒め(単品)",
-      "チャーハン(大盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2ade1b5e-20231219",
@@ -78082,10 +77511,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "くぅぅのこれでもか!?天ぷらうどん(温)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7114aca7-20231219",
@@ -78109,10 +77535,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チャーシューメン",
-      "五目そば"
-    ],
     "location_unverified": true
   },
   {
@@ -78136,11 +77558,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ぜいたく海鮮重 【会員カード提示】",
-      "常陸牛のビーフシチュー【会員カード提示】"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-54b0e69e-20240206",
@@ -78163,10 +77581,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "相模豚重定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b6a60c69-20240206",
@@ -78189,11 +77604,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ヤング",
-      "マヨヤング"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e1a2a233-20240220",
@@ -78216,10 +77627,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e35d692d-20240220",
@@ -78242,10 +77650,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼き鳥各種"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6306ff46-20240227",
@@ -78268,10 +77673,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ハマチ刺身定食(マンガ盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2387df59-20240312",
@@ -78294,10 +77696,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "日替り定食ハンバーグ(小鉢取り放題)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e1a6bd26-20240326",
@@ -78320,10 +77719,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鍋カツカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a1ee6b30-20240326",
@@ -78346,10 +77742,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "超特大ジャンボシュー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-220535ce-20240326",
@@ -78372,10 +77765,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鬼ごろし"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6547782e-20240402",
@@ -78398,10 +77788,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-fde3efeb-20240416",
@@ -78425,9 +77812,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チャンポン(並)"
-    ],
     "location_unverified": true
   },
   {
@@ -78451,10 +77835,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン(大)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c33c8dd2-20240430",
@@ -78477,10 +77858,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ミソラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-36049772-20240521",
@@ -78503,10 +77881,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "満腹らーめん定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-dcd6c1f2-20240618",
@@ -78530,9 +77905,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チキン野菜カレー"
-    ],
     "location_unverified": true
   },
   {
@@ -78556,10 +77928,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チーズinチーズハンバーグ Lサイズセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9b625b2e-20240625",
@@ -78582,10 +77951,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "本当のにんにくラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-eea1bbdc-20240702",
@@ -78608,10 +77974,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "一晩寝かせたラザニア"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2dca17bd-20240709",
@@ -78634,10 +77997,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "馬肉かけ(もっこり盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-69743ccb-20240709",
@@ -78660,10 +78020,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かつカレー定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-366ff233-20240709",
@@ -78686,10 +78043,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "エビチリ玉炒飯"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ae9c6444-20240709",
@@ -78712,10 +78066,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "餃子あんカケー(5個)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ae8c9f0e-20240723",
@@ -78738,11 +78089,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "天然バチマグロ・カニ食べ放題",
-      "天然本マグロ祭り!!"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-fd195090-20240806",
@@ -78765,11 +78112,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "手打ち中華そば",
-      "手打中華そば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-07947b48-20240813",
@@ -78792,11 +78135,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "1枚ソースカツ丼",
-      "1枚たれカツ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-448249f5-20240820",
@@ -78819,11 +78158,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "満腹唐揚げカレー",
-      "おまかせ4kg朝ごはんセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e96aa212-20240827",
@@ -78846,10 +78181,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "パラパラ焼めし"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-60ecf56b-20240903",
@@ -78872,10 +78204,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "元祖熟成樽仕込みコーヒー29年物"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8c6a73e1-20240917",
@@ -78898,10 +78227,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "うまやん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a3677f05-20241001",
@@ -78924,10 +78250,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "もつ煮定食大大"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-78cd90c4-20241001",
@@ -78950,10 +78273,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "麺8種類食べ放題"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9b31edc6-20241001",
@@ -78976,10 +78296,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ネギ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2f7a8a9f-20241008",
@@ -79002,10 +78319,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "メガ盛りチャーハン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-eef5c417-20241008",
@@ -79028,10 +78342,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン+無限半チャーハンラーメン代+"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e5f27339-20241008",
@@ -79054,10 +78365,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "半チャーハン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8bc146cb-20241008",
@@ -79080,10 +78388,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン付きチャーハン・チャーハン付きラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d420c5b1-20241029",
@@ -79129,13 +78434,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "お魚定食",
-      "おでん定食",
-      "お魚定食(サバ)",
-      "ハンバーグ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4f333742-20241119",
@@ -79158,10 +78457,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5d68a570-20241203",
@@ -79185,9 +78481,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "からあげ定食"
-    ],
     "location_unverified": true
   },
   {
@@ -79211,10 +78504,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "からあげ弁当(伝説)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-699a6b86-20241217",
@@ -79237,11 +78527,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ロコモコ(大盛)",
-      "ロコモコ(レギュラー)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0836d43c-20241217",
@@ -79264,10 +78550,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "球磨川ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-1e9e2bbb-20241217",
@@ -79290,10 +78573,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "豪華客船コース1人"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-35a437db-20250114",
@@ -79316,12 +78596,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "五目チャーハン(ギガ盛)",
-      "チャーシュー丼(ギガ盛)",
-      "五目チャーハンギガ盛"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-010895ee-20250121",
@@ -79344,10 +78619,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "エビそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4097ae31-20250128",
@@ -79370,10 +78642,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉うどん 3玉"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5c484b68-20250211",
@@ -79396,10 +78665,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ビーフシチューがけオムライス"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-500158f8-20250225",
@@ -79422,10 +78688,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鯛のあら汁付き刺身定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ee88b998-20250304",
@@ -79448,10 +78711,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "らーめん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4088b1d8-20250325",
@@ -79474,10 +78734,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせランチ(からあげ)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c6703491-20250325",
@@ -79501,9 +78758,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "超特大どら焼き"
-    ],
     "location_unverified": true
   },
   {
@@ -79527,12 +78781,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "勝肉(しょうろう)メン",
-      "冷やしタンタン",
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-cda10577-20250408",
@@ -79555,10 +78804,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ロースかつ膳(150g)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0d6ff148-20250422",
@@ -79581,10 +78827,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "もつ煮定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-ac471deb-20250429",
@@ -79607,10 +78850,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-43cc096f-20250513",
@@ -79656,10 +78896,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "煮かつ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4162a367-20250610",
@@ -79682,10 +78919,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "海鮮丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a28bc3d2-20250610",
@@ -79708,10 +78942,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スペシャルボブドッグ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-414b311b-20250610",
@@ -79734,10 +78965,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-44609227-20250617",
@@ -79761,9 +78989,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チャーハン"
-    ],
     "location_unverified": true
   },
   {
@@ -79787,10 +79012,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "マグロ(2貫)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b8b0e87b-20250617",
@@ -79813,10 +79035,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "オムライス"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4d7ca831-20250624",
@@ -79840,9 +79059,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "カツオ丼"
-    ],
     "location_unverified": true
   },
   {
@@ -79867,10 +79083,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "レモン天津飯",
-      "天津飯"
-    ],
     "location_unverified": true
   },
   {
@@ -79894,10 +79106,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "特製極厚肉山賊麺"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b637e654-20250715",
@@ -79920,10 +79129,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "じゃばいもぱん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-706b5008-20250805",
@@ -79946,10 +79152,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "デミグラスハンバーグ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d81a46a8-20250812",
@@ -79972,10 +79175,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "普通中華そばやきめし小のセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-210cea5e-20250819",
@@ -79998,12 +79198,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かけうどん",
-      "あさり塩ラーメン",
-      "香味中華そば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-15e92657-20250902",
@@ -80026,10 +79221,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "肉汁うどん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e8fa8172-20250909",
@@ -80052,10 +79244,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "やきそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-530bd3b8-20250916",
@@ -80078,10 +79267,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "久絵定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d64e958c-20250923",
@@ -80104,10 +79290,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "テフタンメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b4b395b2-20250923",
@@ -80130,10 +79313,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ヤマタくん朝SP定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a518cf7b-20250930",
@@ -80156,10 +79336,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンステーキ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e032c8d8-20251007",
@@ -80182,10 +79359,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "本日の塩焼き定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f49943e4-20251007",
@@ -80208,10 +79382,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "Aランチセット"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0b31e727-20251007",
@@ -80234,10 +79405,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "冷麺特大"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-bcf88d60-20251014",
@@ -80260,10 +79428,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "バイク丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-23902af4-20251028",
@@ -80286,10 +79451,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせ牛焼定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6ccef074-20251104",
@@ -80312,10 +79474,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "からあげ定食(ハニーバター)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9e79754d-20251111",
@@ -80338,10 +79497,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼肉ランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2340ab7c-20251125",
@@ -80364,10 +79520,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "特製焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a0fa8bc9-20251230",
@@ -80390,10 +79543,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンカツタワー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-45c44fe8-20251230",
@@ -80416,10 +79566,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5d0b80d6-20251230",
@@ -80442,10 +79589,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "まかないラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-18d8a4f5-20251230",
@@ -80468,10 +79612,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ごぼう天うどん"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-aa901186-20251230",
@@ -80494,10 +79635,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "イカの活き造り定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e1990846-20251230",
@@ -80520,10 +79658,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "みそバターチャーシューメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d27f660f-20251230",
@@ -80546,10 +79681,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ロングパフェ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9fad06c6-20251230",
@@ -80573,9 +79705,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ラーメン"
-    ],
     "location_unverified": true
   },
   {
@@ -80599,10 +79728,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "かさねとんこつ極味"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b1a4dc25-20251230",
@@ -80625,10 +79751,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ユッケジャン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d049a661-20251230",
@@ -80651,10 +79774,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツカレー(大盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-1ba96c63-20251230",
@@ -80677,10 +79797,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ビーフカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-271df698-20260113",
@@ -80703,10 +79820,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "屋台カレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5926d212-20260127",
@@ -80729,10 +79843,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "とんかつ唐揚定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9dc264fa-20260210",
@@ -80755,11 +79866,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "八家スペシャル",
-      "ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-85cfd1ed-20260217",
@@ -80782,10 +79889,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "大ちゃん弁当"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-fa1b0a5f-20260303",
@@ -80808,10 +79912,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "天せいろ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-5625d244-20260310",
@@ -80834,10 +79935,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "角煮重"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-530e3864-20260317",
@@ -80860,10 +79958,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ホルモン煮込定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-46b443a8-20260331",
@@ -80886,10 +79981,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "いちごチョコソースクレープ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-4e72c9c3-20260331",
@@ -80912,11 +80004,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "食べさせ放題",
-      "チーズファイヤーカレー(2人前)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9e5b7494-20260414",
@@ -80939,10 +80027,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スペシャル定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c03414ef-20260414",
@@ -80965,10 +80050,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "焼き芋1袋(6個)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-78b6bfe1-20260512",
@@ -80991,10 +80073,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ドライカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a69ed2d3-20260519",
@@ -81017,10 +80096,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スペシャル月見天"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-cf9d94d4-20260526",
@@ -81043,10 +80119,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鶏ネギ塩ラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-da136311-20260602",
@@ -81069,10 +80142,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "常陸牛焼肉定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-7966155e-20260609",
@@ -81095,10 +80165,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ニラ塩焼きそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3a7519a0-20260609",
@@ -81121,10 +80188,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "牛あぶり焼き定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d8ac3e00-20260609",
@@ -81147,10 +80211,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カタヤキそば(大盛)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-b45ff8ef-20260609",
@@ -81173,10 +80234,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ダブルカツ丼(大盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-34b71dc7-20260609",
@@ -81199,12 +80257,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "アゲアゲ丼",
-      "くまちゃんのスイーツ屋さん(青森県青森市合浦公園内屋台) ※桜祭り開催時のみ営業",
-      "ウルトラやわいちごタワー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-9fc646a9-20260609",
@@ -81227,10 +80280,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "骨なしザンギ定食(特大)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-809815a7-20260623",
@@ -81253,10 +80303,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ダブルかつ丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3dd6c193-20260630",
@@ -81279,10 +80326,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "日替わりランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3d145639-20260714",
@@ -81305,10 +80349,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "卵かけご飯 20"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d9b2e0f0-20260721",
@@ -81332,9 +80373,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "天もりそば"
-    ],
     "location_unverified": true
   },
   {
@@ -81358,10 +80396,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせディナーコース"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a67b2870-20260818",
@@ -81385,9 +80420,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "流しそうめん"
-    ],
     "location_unverified": true
   },
   {
@@ -81412,9 +80444,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "献上鮎唐揚げセット"
-    ],
     "location_unverified": true
   },
   {
@@ -81439,9 +80468,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ナナイロ流しそうめん"
-    ],
     "location_unverified": true
   },
   {
@@ -81465,10 +80491,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "流しそうめんもんじゃ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-713386c3-20260818",
@@ -81492,9 +80515,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "スイカ食べ比べ"
-    ],
     "location_unverified": true
   },
   {
@@ -81518,10 +80538,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "大人様定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-fbd76b38-20260825",
@@ -81544,10 +80561,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせコース"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f41fbf3a-20260901",
@@ -81570,10 +80584,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "お好み焼(かしわ)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-e466e4f3-20260901",
@@ -81596,10 +80607,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鶏の唐揚げ定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-833784eb-20260901",
@@ -81622,10 +80630,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "キングパフェ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-84c61927-20260915",
@@ -81649,9 +80654,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "焼肉定食"
-    ],
     "location_unverified": true
   },
   {
@@ -81675,10 +80677,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-f845ee2e-20260922",
@@ -81701,10 +80700,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせ海鮮丼(大盛り)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6fa0c9cd-20260929",
@@ -81727,10 +80723,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ざんぎカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "sekkaku_gourmet-4ae79ebc-20251026",
@@ -84080,10 +83073,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ミックス天丼",
-      "海鮮丼"
-    ],
     "location_unverified": true
   },
   {
@@ -84107,11 +83096,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "パフェ",
-      "夢パフェ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-bd95c28c-20210511",
@@ -84134,10 +83119,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "カツカレー"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-a00bf6cc-20210518",
@@ -84161,9 +83143,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チャーハン(大盛)"
-    ],
     "location_unverified": true
   },
   {
@@ -84188,9 +83167,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ジャンボプリンセット"
-    ],
     "location_unverified": true
   },
   {
@@ -84214,10 +83190,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ネギトロ(2貫)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d393bc94-20210810",
@@ -84241,11 +83214,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "山盛りヤマタくん飯(おかず付)",
-      "エンドレスツナ",
-      "スペシャル天丼"
-    ],
     "location_unverified": true
   },
   {
@@ -84269,10 +83237,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "オムライス"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d279a2a7-20210928",
@@ -84295,10 +83260,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "日替りランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0e48b847-20211012",
@@ -84321,10 +83283,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "たんたん焼きそば(揚げ麺)"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-067197c2-20211012",
@@ -84370,10 +83329,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "もりそば"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2d2ad284-20211109",
@@ -84396,11 +83352,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "オムライス",
-      "ナポリタン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-edd75cce-20211109",
@@ -84424,10 +83376,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "天ぷらザルそば",
-      "天ぷらざザルそば"
-    ],
     "location_unverified": true
   },
   {
@@ -84452,10 +83400,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "焼き鳥各種",
-      "半身"
-    ],
     "location_unverified": true
   },
   {
@@ -84480,10 +83424,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "マルトマ丼",
-      "超甘エビ丼"
-    ],
     "location_unverified": true
   },
   {
@@ -84508,9 +83448,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "野菜炒め定食"
-    ],
     "location_unverified": true
   },
   {
@@ -84534,10 +83471,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "おまかせランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-946e4f93-20220531",
@@ -84560,10 +83494,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "三国大漁船"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2fc5e292-20220614",
@@ -84587,9 +83518,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チキン南蛮"
-    ],
     "location_unverified": true
   },
   {
@@ -84614,9 +83542,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "うどんセット(中)※天ぷら付き"
-    ],
     "location_unverified": true
   },
   {
@@ -84641,9 +83566,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ビッグハンバーガーダブル"
-    ],
     "location_unverified": true
   },
   {
@@ -84667,11 +83589,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "チキンポークカレー",
-      "焼豚玉子飯"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-c98e0d8e-20220823",
@@ -84695,11 +83613,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "大盛寿司ランチ",
-      "出張寿司食べ放題",
-      "寿司ランチ(10貫)"
-    ],
     "location_unverified": true
   },
   {
@@ -84724,10 +83637,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "オムライス",
-      "餅姫アイス最中(ふどう)"
-    ],
     "location_unverified": true
   },
   {
@@ -84751,10 +83660,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "にぎり寿司"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-44f0b3c1-20220927",
@@ -84778,10 +83684,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "お子様御膳",
-      "焼きうどん"
-    ],
     "location_unverified": true
   },
   {
@@ -84805,10 +83707,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "塩むすび 1個"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-2ee45ac8-20230119",
@@ -84832,11 +83731,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "野菜皿",
-      "フルーツサンド",
-      "エリンギ"
-    ],
     "location_unverified": true
   },
   {
@@ -84861,9 +83755,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "海鮮丼"
-    ],
     "location_unverified": true
   },
   {
@@ -84887,10 +83778,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "鬼の目玉"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-3c23a7da-20230523",
@@ -84914,9 +83802,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "深山セット"
-    ],
     "location_unverified": true
   },
   {
@@ -84940,10 +83825,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "スペシャルランチ"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-d3718575-20240604",
@@ -84967,9 +83849,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "天津飯(大盛り)"
-    ],
     "location_unverified": true
   },
   {
@@ -84994,9 +83873,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "よくばり中華丼"
-    ],
     "location_unverified": true
   },
   {
@@ -85020,11 +83896,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "贅沢山盛り海鮮丼セット",
-      "50代目海鮮丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-24f53bb8-20250325",
@@ -85047,10 +83919,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "海鮮丼"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-8fbc852a-20250401",
@@ -85074,9 +83943,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "チャーハン(大盛り)"
-    ],
     "location_unverified": true
   },
   {
@@ -85100,10 +83966,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "定食"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-123c61b6-20250610",
@@ -85127,9 +83990,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "アイス3種類"
-    ],
     "location_unverified": true
   },
   {
@@ -85154,9 +84014,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "バリジロー"
-    ],
     "location_unverified": true
   },
   {
@@ -85180,10 +84037,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "にんにくラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-0acd516c-20251230",
@@ -85207,9 +84061,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "ハンバーグランチ"
-    ],
     "location_unverified": true
   },
   {
@@ -85233,10 +84084,7 @@
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "ホルモンラーメン"
-    ]
+    "tmdb_type": "tv"
   },
   {
     "id": "omouma-6e6ab46c-20260818",
@@ -85260,9 +84108,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "流しそば"
-    ],
     "location_unverified": true
   },
   {
@@ -85287,9 +84132,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "流しそうめん"
-    ],
     "location_unverified": true
   },
   {
@@ -85314,9 +84156,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKhI5P8VlGJzjw35BJUvdvSaJrI.jpg",
     "tmdb_id": 290707,
     "tmdb_type": "tv",
-    "ordered_items": [
-      "刺身定食"
-    ],
     "location_unverified": true
   },
   {
@@ -85832,34 +84671,6 @@
     "source_video_url": "https://www.youtube.com/watch?v=WFaQ8FEhY5I"
   },
   {
-    "id": "hihijets-c4f4c74d-20190721",
-    "name": "新横浜ラーメン博物館",
-    "genre": "ramen",
-    "prefecture": "神奈川県",
-    "city": "横浜市港北区",
-    "address": "神奈川県横浜市港北区新横浜2-14-21",
-    "lat": 35.509949,
-    "lng": 139.614166,
-    "source_video_title": "HiHi Jets【ガチ対決】激旨ラーメンを食すのは誰!?",
-    "visited_date": "2019-07-21",
-    "members": [
-      "髙橋優斗",
-      "井上瑞稀",
-      "橋本涼",
-      "猪狩蒼弥",
-      "作間龍斗"
-    ],
-    "groups": [
-      "hihijets"
-    ],
-    "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
-    "source_url": "https://ameblo.jp/rrayd/entry-12851403403.html",
-    "source_type": "youtube",
-    "youtube_id": "QqTb6zUuOQk",
-    "source_video_url": "https://www.youtube.com/watch?v=QqTb6zUuOQk"
-  },
-  {
     "id": "hihijets-415b341e-20191208",
     "name": "タイ村889",
     "genre": "others",
@@ -86189,34 +85000,6 @@
     "ordered_items": [
       "カニ"
     ]
-  },
-  {
-    "id": "hihijets-fba8cfa6-20241124",
-    "name": "羽生PA（上り）鬼平江戸処",
-    "genre": "others",
-    "prefecture": "埼玉県",
-    "city": "羽生市",
-    "address": "埼玉県羽生市弥勒字五軒1686",
-    "lat": 36.180504,
-    "lng": 139.585556,
-    "source_video_title": "HiHi Jets【高速道路のPAグルメ】飛んだ後の昼飯は格別‼️",
-    "visited_date": "2024-11-24",
-    "members": [
-      "井上瑞稀",
-      "橋本涼",
-      "猪狩蒼弥",
-      "作間龍斗"
-    ],
-    "groups": [
-      "hihijets"
-    ],
-    "group": "hihijets",
-    "description": "井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
-    "source_url": "https://kosodate-and.net/hihi-jets-pa-onihei/",
-    "source_type": "youtube",
-    "youtube_id": "OFecYVao7jY",
-    "source_video_url": "https://www.youtube.com/watch?v=OFecYVao7jY",
-    "location_unverified": true
   },
   {
     "id": "juniors-03050f2f-20240720",
@@ -112738,31 +111521,6 @@
     "tmdb_type": "tv"
   },
   {
-    "id": "sakaba_horoki-2d471c43-20110328",
-    "name": "長浜鮮魚市場市民感謝デー",
-    "genre": "others",
-    "prefecture": "福岡県",
-    "city": "福岡市中央区",
-    "address": "福岡県福岡市中央区長浜3-11-3",
-    "lat": 33.594299,
-    "lng": 130.389816,
-    "source_video_title": "吉田類の酒場放浪記 #418 赤坂「第三共進丸」（2011-03-28 BS-TBS）",
-    "visited_date": "2011-03-28",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/418.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv"
-  },
-  {
     "id": "sakaba_horoki-a6454b4e-20110321",
     "name": "久村の酒場",
     "genre": "izakaya",
@@ -113271,31 +112029,6 @@
     "address": "東京都文京区根津2-18-2",
     "lat": 35.718372,
     "lng": 139.765366,
-    "source_video_title": "吉田類の酒場放浪記 #440 根津「車屋」（2011-08-29 BS-TBS）",
-    "visited_date": "2011-08-29",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/440.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "sakaba_horoki-ea3d7a96-20110829",
-    "name": "下町風俗博物館付設展示場(旧吉田酒店)",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "台東区",
-    "address": "東京都台東区上野桜木2-10-6",
-    "lat": 35.721169,
-    "lng": 139.770935,
     "source_video_title": "吉田類の酒場放浪記 #440 根津「車屋」（2011-08-29 BS-TBS）",
     "visited_date": "2011-08-29",
     "members": [
@@ -135017,31 +133750,6 @@
     "tmdb_type": "tv"
   },
   {
-    "id": "sakaba_horoki-0bae8851-20250929",
-    "name": "サッポロビール博物館",
-    "genre": "others",
-    "prefecture": "北海道",
-    "city": "札幌市東区",
-    "address": "北海道札幌市東区北7条東9-1-1",
-    "lat": 43.072433,
-    "lng": 141.366852,
-    "source_video_title": "吉田類の酒場放浪記 #1262 札幌「伏見」（2025-09-29 BS-TBS）",
-    "visited_date": "2025-09-29",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1262.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv"
-  },
-  {
     "id": "sakaba_horoki-66b5a9a2-20250929",
     "name": "ほがら家",
     "genre": "izakaya",
@@ -136695,32 +135403,6 @@
     "tmdb_type": "tv"
   },
   {
-    "id": "sakaba_horoki-0d640471-20261012",
-    "name": "道の駅 酒蔵奥出雲交流館",
-    "genre": "others",
-    "prefecture": "島根県",
-    "city": "仁多郡奥出雲町",
-    "address": "島根県仁多郡奥出雲町亀嵩1380-1",
-    "lat": 35.225025,
-    "lng": 133.081482,
-    "source_video_title": "吉田類の酒場放浪記 #1323 出雲横田 「賀松園 横田店」（2026-10-12 BS-TBS）",
-    "visited_date": "2026-10-12",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1323.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv",
-    "location_unverified": true
-  },
-  {
     "id": "hihijets-4f4a13af-20231210",
     "name": "スシロー 新宿三丁目店",
     "genre": "washoku",
@@ -137367,7 +136049,7 @@
   {
     "id": "shojikisanpo-75501697-20120526",
     "name": "キクヤパン店",
-    "genre": "cafe",
+    "genre": "others",
     "prefecture": "東京都",
     "city": "台東区",
     "address": "東京都台東区台東4-7-8",
@@ -139467,7 +138149,7 @@
   {
     "id": "shojikisanpo-418e7acf-20150221",
     "name": "デンマークベーカリー 練馬店",
-    "genre": "cafe",
+    "genre": "others",
     "prefecture": "東京都",
     "city": "練馬区",
     "address": "東京都練馬区練馬1-5-7サンライズビル1階",
@@ -140207,7 +138889,7 @@
   {
     "id": "shojikisanpo-bf000ab1-20150822",
     "name": "チリパーラー9",
-    "genre": "sweets",
+    "genre": "shokuji",
     "prefecture": "東京都",
     "city": "千代田区",
     "address": "東京都千代田区九段南3-7-12",
@@ -140706,7 +139388,7 @@
   {
     "id": "shojikisanpo-a83dcfe2-20160305",
     "name": "カフェ＆ベーカリー MIYABI",
-    "genre": "cafe",
+    "genre": "others",
     "prefecture": "東京都",
     "city": "千代田区",
     "address": "東京都千代田区西神田2-1-13",
@@ -142893,7 +141575,7 @@
   {
     "id": "burari-74ec009d-20260829",
     "name": "大島牛乳ベーカリー&ミルクカフェ",
-    "genre": "cafe",
+    "genre": "others",
     "prefecture": "東京都",
     "city": "江東区",
     "address": "東京都江東区白河1-2-14",
@@ -147702,7 +146384,7 @@
   {
     "id": "burari-cce40e8d-20240921",
     "name": "カフェ パンセ",
-    "genre": "cafe",
+    "genre": "others",
     "prefecture": "神奈川県",
     "city": "藤沢市",
     "address": "神奈川県藤沢市鵠沼橘1-1-6 ネオヤマダビル2F",
@@ -169050,13 +167732,13 @@
     "source_video_title": "人生最高レストラン ごちそう様 東京03角田晃広さん（2023-11-04 TBS）",
     "visited_date": "2023-11-04",
     "members": [
-      "東京03角田晃広"
+      "角田晃広"
     ],
     "groups": [
       "jinsei_saiko"
     ],
     "group": "jinsei_saiko",
-    "description": "東京03角田晃広が『人生最高レストラン』で紹介したお店。",
+    "description": "角田晃広が『人生最高レストラン』で紹介したお店。",
     "source_url": "https://www.tbs.co.jp/saikourestaurant/oldv8/202311041/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
@@ -169075,13 +167757,13 @@
     "source_video_title": "人生最高レストラン ごちそう様 東京03角田晃広さん（2023-11-04 TBS）",
     "visited_date": "2023-11-04",
     "members": [
-      "東京03角田晃広"
+      "角田晃広"
     ],
     "groups": [
       "jinsei_saiko"
     ],
     "group": "jinsei_saiko",
-    "description": "東京03角田晃広が『人生最高レストラン』で紹介したお店。",
+    "description": "角田晃広が『人生最高レストラン』で紹介したお店。",
     "source_url": "https://www.tbs.co.jp/saikourestaurant/oldv8/202311041/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
