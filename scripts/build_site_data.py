@@ -334,6 +334,23 @@ def main():
     dump('venue_nearby.json', venue_nearby)
     dump('article_rel.json', article_rel)
 
+    # --- 店舗ページの「関連」用の対応表（ページごとに全記事・全一覧を検索しないで済むように。1万ページでの生成時間対策） ---
+    list_ix = {}
+    for f in sorted(os.listdir(os.path.join(ROOT, '_list_pages'))):
+        fm = front_matter(os.path.join(ROOT, '_list_pages', f))
+        if fm.get('group') and fm.get('genre'):
+            list_ix[f"{fm['group']}|{fm['genre']}"] = {'u': f'/list/{jekyll_slug(f[:-3])}/', 'n': fm.get('shop_count', 0)}
+    dump('list_ix.json', list_ix)
+    shop_posts = {}
+    for f in sorted(os.listdir(os.path.join(ROOT, '_posts')), reverse=True):
+        fm = front_matter(os.path.join(ROOT, '_posts', f))
+        y, mo, d, pslug = f[:4], f[5:7], f[8:10], f[11:].rsplit('.', 1)[0]
+        for sid in fm.get('shop_ids') or []:
+            lst = shop_posts.setdefault(sid, [])
+            if len(lst) < 3:
+                lst.append([f'/articles/{y}/{mo}/{d}/{pslug}/', fm.get('title', '')])
+    dump('shop_posts.json', shop_posts)
+
     # --- 記事・ガイドの「この街に泊まる」の検索語（front matter の stay_area）。じゃらんは Shift_JIS ---
     stay_kw = {}
     for d in ('_posts', '_guides'):

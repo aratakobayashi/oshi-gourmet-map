@@ -203,14 +203,14 @@ body_class: has-sticky
       </section>
       {%- endif %}
 
-      {%- assign related_posts = site.posts | where_exp: "p", "p.shop_ids contains s.shop_id" %}
+      {%- assign related_posts = site.data.shop_posts[s.shop_id] %}
       <section class="section">
         <p class="meta">関連</p>
         <ul class="shop__rel">
           {%- if gi %}<li><a href="{{ gi.u | relative_url }}">{{ glabel }}が行ったお店（{{ gi.n }}軒）→</a></li>{% endif %}
-          {%- assign lp = site.list_pages | where: "group", s.group | where: "genre", s.genre | first %}
-          {%- if lp %}<li><a href="{{ lp.url | relative_url }}">{{ glabel }}が行った{{ genre.label | default: s.genre }}（{{ lp.shop_count }}軒）→</a></li>{% endif %}
-          {%- for p in related_posts limit: 3 %}<li><a href="{{ p.url | relative_url }}">特集：{{ p.title }} →</a></li>{% endfor %}
+          {%- capture _lk %}{{ s.group }}|{{ s.genre }}{% endcapture %}{% assign lp = site.data.list_ix[_lk] %}
+          {%- if lp %}<li><a href="{{ lp.u | relative_url }}">{{ glabel }}が行った{{ genre.label | default: s.genre }}（{{ lp.n }}軒）→</a></li>{% endif %}
+          {%- for p in related_posts %}<li><a href="{{ p[0] | relative_url }}">特集：{{ p[1] }} →</a></li>{% endfor %}
         </ul>
       </section>
     </div>
