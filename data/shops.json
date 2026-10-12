@@ -136796,5 +136796,366 @@
     "tmdb_id": 227203,
     "tmdb_type": "tv",
     "location_unverified": true
+  },
+  {
+    "id": "hihijets-4f4a13af-20231210",
+    "name": "スシロー 新宿三丁目店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-13-3 新宿文化ビル B1F",
+    "lat": 35.691875,
+    "lng": 139.705612,
+    "source_video_title": "HiHi Jets【回転寿司で大食い企画】100皿食い尽くせ〜🍣",
+    "visited_date": "2023-12-10",
+    "members": [
+      "髙橋優斗",
+      "井上瑞稀",
+      "橋本涼",
+      "猪狩蒼弥",
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "Hn3kvz9l4jI",
+    "source_video_url": "https://www.youtube.com/watch?v=Hn3kvz9l4jI"
+  },
+  {
+    "id": "hihijets-4822ccb7-20240211",
+    "name": "ブルーボトルコーヒー 清澄白河フラッグシップカフェ",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区平野1-4-8",
+    "lat": 35.677773,
+    "lng": 139.800735,
+    "source_video_title": "HiHi Jets【朝活カフェ巡り】清澄白河はオシャレタウン☕️",
+    "visited_date": "2024-02-11",
+    "members": [
+      "井上瑞稀",
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "井上瑞稀・作間龍斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "ynoklTykQiQ",
+    "source_video_url": "https://www.youtube.com/watch?v=ynoklTykQiQ",
+    "ordered_items": [
+      "コーヒー"
+    ]
+  },
+  {
+    "id": "hihijets-19eeb329-20240211",
+    "name": "もんなか がっちゃん's CAFE & SPACE",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区冬木21-21",
+    "lat": 35.675365,
+    "lng": 139.801895,
+    "source_video_title": "HiHi Jets【朝活カフェ巡り】清澄白河はオシャレタウン☕️",
+    "visited_date": "2024-02-11",
+    "members": [
+      "井上瑞稀",
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "井上瑞稀・作間龍斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "ynoklTykQiQ",
+    "source_video_url": "https://www.youtube.com/watch?v=ynoklTykQiQ"
+  },
+  {
+    "id": "hihijets-3bb3a601-20240218",
+    "name": "teiOUT",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区平野1-8-1 SAN-IWAビル 1F",
+    "lat": 35.679115,
+    "lng": 139.798859,
+    "source_video_title": "HiHi Jets【朝活カフェ巡り完結編in清澄白河】緑の藤井茶葉登場に…爆笑☕️",
+    "visited_date": "2024-02-18",
+    "members": [
+      "髙橋優斗",
+      "橋本涼",
+      "猪狩蒼弥"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "髙橋優斗・橋本涼・猪狩蒼弥がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "IZFpp5uEeBU",
+    "source_video_url": "https://www.youtube.com/watch?v=IZFpp5uEeBU"
+  },
+  {
+    "id": "hihijets-0ce13172-20240519",
+    "name": "漁火-isaribi-",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区豊洲6-5-1 千客万来 2F",
+    "lat": 35.643154,
+    "lng": 139.780136,
+    "source_video_title": "HiHi Jets【千客万来】豊洲の人気スポットを食い尽くせ！",
+    "visited_date": "2024-05-19",
+    "members": [
+      "髙橋優斗",
+      "井上瑞稀",
+      "橋本涼",
+      "猪狩蒼弥",
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "JuzfoQCNxHg",
+    "source_video_url": "https://www.youtube.com/watch?v=JuzfoQCNxHg",
+    "ordered_items": [
+      "炉端焼き"
+    ]
+  },
+  {
+    "id": "hihijets-2adf2f8b-20240519",
+    "name": "Seafood Burger 島童子",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区豊洲6-5-1",
+    "lat": 35.643154,
+    "lng": 139.780136,
+    "source_video_title": "HiHi Jets【千客万来】豊洲の人気スポットを食い尽くせ！",
+    "visited_date": "2024-05-19",
+    "members": [
+      "髙橋優斗",
+      "井上瑞稀",
+      "橋本涼",
+      "猪狩蒼弥",
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
+    "source_type": "youtube",
+    "youtube_id": "JuzfoQCNxHg",
+    "source_video_url": "https://www.youtube.com/watch?v=JuzfoQCNxHg"
+  },
+  {
+    "id": "sevenmen_samurai-72791f81-20240126",
+    "name": "焼肉の名門 天壇 赤坂店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂4-3-6 赤坂一ツ木通りビル 2F",
+    "lat": 35.674438,
+    "lng": 139.735504,
+    "source_video_title": "7 MEN 侍【忘年会だけど新年会❗️】完全プライベートでゴメンなさい",
+    "visited_date": "2024-01-26",
+    "members": [
+      "中村嶺亜",
+      "本髙克樹",
+      "菅田琳寧",
+      "佐々木大光",
+      "今野大輝",
+      "矢花黎"
+    ],
+    "groups": [
+      "sevenmen_samurai"
+    ],
+    "group": "sevenmen_samurai",
+    "description": "中村嶺亜・本髙克樹・菅田琳寧・佐々木大光・今野大輝・矢花黎がYouTubeの動画で訪れたお店。",
+    "source_url": "https://ameblo.jp/jumbo2heart/entry-12842475746.html",
+    "source_type": "youtube",
+    "youtube_id": "kQ1dPn3r-Lg",
+    "source_video_url": "https://www.youtube.com/watch?v=kQ1dPn3r-Lg"
+  },
+  {
+    "id": "agroup-02ea4de6-20230327",
+    "name": "ココス 有明パークビル店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区有明3-7-11 有明パークビル 2F",
+    "lat": 35.632969,
+    "lng": 139.79425,
+    "source_video_title": "Aぇ! group【被っちゃダメよグルメ🍴】誠也くん…笑いはいらんのよ～💦",
+    "visited_date": "2023-03-27",
+    "members": [
+      "正門良規",
+      "末澤誠也",
+      "草間リチャード敬太",
+      "小島健",
+      "福本大晴",
+      "佐野晶哉"
+    ],
+    "groups": [
+      "agroup"
+    ],
+    "group": "agroup",
+    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "source_url": "https://fananablog.com/agroup-youtube-seichi/",
+    "source_type": "youtube",
+    "youtube_id": "OT2I80YFJ8w",
+    "source_video_url": "https://www.youtube.com/watch?v=OT2I80YFJ8w"
+  },
+  {
+    "id": "agroup-0e90eb03-20230328",
+    "name": "Itacica Ku",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区桜丘町24-3 インエステートビル B1F",
+    "lat": 35.656673,
+    "lng": 139.70079,
+    "source_video_title": "Aぇ! group【少数派グルメ…最終回??】ケンカ芸は封印します 笑",
+    "visited_date": "2023-03-28",
+    "members": [
+      "正門良規",
+      "末澤誠也",
+      "草間リチャード敬太",
+      "小島健",
+      "福本大晴",
+      "佐野晶哉"
+    ],
+    "groups": [
+      "agroup"
+    ],
+    "group": "agroup",
+    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "source_url": "https://fananablog.com/agroup-youtube-seichi/",
+    "source_type": "youtube",
+    "youtube_id": "eBhPunl-IvY",
+    "source_video_url": "https://www.youtube.com/watch?v=eBhPunl-IvY",
+    "ordered_items": [
+      "牛タンシチューのパイ包み",
+      "エビミソのクリームスパゲティ",
+      "鴨フィレ肉ロースト",
+      "フォンダンショコラ"
+    ]
+  },
+  {
+    "id": "agroup-6a811f35-20231212",
+    "name": "レストラン大宮 浅草本店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草2-1-3",
+    "lat": 35.712788,
+    "lng": 139.797302,
+    "source_video_title": "Aぇ! group【今日でFINAL…被っちゃダメよグルメ】トゥクトゥクで浅草散策🛺",
+    "visited_date": "2023-12-12",
+    "members": [
+      "正門良規",
+      "末澤誠也",
+      "草間リチャード敬太",
+      "小島健",
+      "福本大晴",
+      "佐野晶哉"
+    ],
+    "groups": [
+      "agroup"
+    ],
+    "group": "agroup",
+    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "source_url": "https://fananablog.com/agroup-youtube-seichi/",
+    "source_type": "youtube",
+    "youtube_id": "i93uIQRAH_w",
+    "source_video_url": "https://www.youtube.com/watch?v=i93uIQRAH_w",
+    "ordered_items": [
+      "タンシチュー",
+      "ビーフカレー",
+      "ハンバーグステーキ",
+      "ハヤシライス",
+      "ビーフストロガノフ",
+      "ビーフシチュー"
+    ]
+  },
+  {
+    "id": "keytolit-c3845662-20250817",
+    "name": "花のや",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市市場1-8-1",
+    "lat": 35.705147,
+    "lng": 139.993393,
+    "source_video_title": "KEY TO LIT【市場で極上朝メシを食い尽くせ】今日も大光がやらかします💦",
+    "visited_date": "2025-08-17",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.nododama-news.com/keytolit-hananoya/",
+    "source_type": "youtube",
+    "youtube_id": "Y6c167N9JIY",
+    "source_video_url": "https://www.youtube.com/watch?v=Y6c167N9JIY",
+    "ordered_items": [
+      "アジフライ定食",
+      "海鮮丼",
+      "すし屋の海鮮丼",
+      "お刺身定食"
+    ]
+  },
+  {
+    "id": "keytolit-5430db80-20260531",
+    "name": "ぎょうざの龍門",
+    "genre": "chuka",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "address": "栃木県宇都宮市御幸町154-2",
+    "lat": 36.578278,
+    "lng": 139.921021,
+    "source_video_title": "KEY TO LIT【瑞稀大食いへの道🥟宇都宮餃子編】瑞稀がついに覚醒⁉️",
+    "visited_date": "2026-05-31",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/keytolit-gyoza-utsunomiya/",
+    "source_type": "youtube",
+    "youtube_id": "qDbJIKa8SXg",
+    "source_video_url": "https://www.youtube.com/watch?v=qDbJIKa8SXg",
+    "ordered_items": [
+      "餃子"
+    ]
   }
 ]
