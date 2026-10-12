@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "サルマメ咖喱"
-description: "おとな旅あるき旅 第806回 奈良・奈良市内（2025-11-01 テレビ大阪）で紹介されたスイーツ「サルマメ咖喱」（奈良県奈良市）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第806回 奈良・奈良市内（2025-11-01 テレビ大阪）で紹介された食事「サルマメ咖喱」（奈良県奈良市）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-9ebd1d25-20251101"
 name: "サルマメ咖喱"
-genre: "sweets"
+genre: "shokuji"
 prefecture: "奈良県"
 city: "奈良市"
 address: "奈良県奈良市法蓮町1232"
@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "3種あいがけ"
-  - "スパイス半熟卵"
-  - "赤星"
 ---

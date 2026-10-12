@@ -8,7 +8,7 @@ slug_id: yonchan-tv-yakiniku
 shop_count: 11
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pRBhOAS6HV2HAbZl4HRqYdmnb0Y.jpg"
 related_genres:
-  - yonchan-tv-shokuji
+  - yonchan-tv-izakaya
   - yonchan-tv-cafe
   - yonchan-tv-washoku
 related_groups:

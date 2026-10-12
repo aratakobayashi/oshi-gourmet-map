@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "山形県 六歌仙 山法師 爆雷 グラス"
-  - "京丹後市 白杉酒造 CHIMERA グラス"
 ---

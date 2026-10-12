@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "まぐろ５種にぎり"
-  - "春の幸 三昧にぎり"
 ---

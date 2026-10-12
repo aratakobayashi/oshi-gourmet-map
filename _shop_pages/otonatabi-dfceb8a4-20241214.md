@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "土佐鶴"
-  - "鰹わら焼きたたき 塩"
-  - "刺し盛り 7種"
 ---

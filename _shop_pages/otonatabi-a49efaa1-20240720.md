@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "月鳴亭 多かはし"
-description: "おとな旅あるき旅 第741回 山口・防府（2024-07-20 テレビ大阪）で紹介された食事「月鳴亭 多かはし」（山口県防府市）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第741回 山口・防府（2024-07-20 テレビ大阪）で紹介された和食「月鳴亭 多かはし」（山口県防府市）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-a49efaa1-20240720"
 name: "月鳴亭 多かはし"
-genre: "shokuji"
+genre: "washoku"
 prefecture: "山口県"
 city: "防府市"
 address: "山口県防府市大字奈美9-19"
@@ -20,6 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "すっぽんコース"
 ---

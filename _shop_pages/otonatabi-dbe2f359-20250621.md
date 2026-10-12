@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "卵チャーハン"
-  - "猫耳麺の五色炒め"
-  - "汾酒 白壺 グラス"
 ---

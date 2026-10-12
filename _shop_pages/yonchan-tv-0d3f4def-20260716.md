@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "あっちゃんの唐揚げ"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-16公開 MBS）で紹介された食事「あっちゃんの唐揚げ」（兵庫県尼崎市）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-16公開 MBS）で紹介された居酒屋「あっちゃんの唐揚げ」（兵庫県尼崎市）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-0d3f4def-20260716"
 name: "あっちゃんの唐揚げ"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "兵庫県"
 city: "尼崎市"
 address: "兵庫県尼崎市神田北通6-169"

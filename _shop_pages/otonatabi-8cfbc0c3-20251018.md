@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "生本鮪3種："
-  - "サイコロ2つを振って出た目×"
 ---

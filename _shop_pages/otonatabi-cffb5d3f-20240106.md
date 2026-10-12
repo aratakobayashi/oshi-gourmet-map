@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "城崎地ビール 雪のビール"
-  - "新大阪・大阪発着 おひとり"
 ---

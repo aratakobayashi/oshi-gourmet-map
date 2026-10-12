@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "カレーうどん"
-  - "まぐろ丼セット（玉子入りみそ汁付き）"
 ---

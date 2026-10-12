@@ -1,11 +1,11 @@
 ---
-title: "食彩の王国のカフェ聖地巡礼｜行ったカフェ16選"
-description: "食彩の王国のメンバーが実際に訪れたカフェスポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "食彩の王国のカフェ聖地巡礼｜行ったカフェ11選"
+description: "食彩の王国のメンバーが実際に訪れたカフェスポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: syokusai
 genre: cafe
 group_label: "食彩の王国"
 slug_id: syokusai-cafe
-shop_count: 16
+shop_count: 11
 thumbnail_url: "https://image.tmdb.org/t/p/w500/45EZ4BQMBgeVadnlKA4Abx3IuOm.jpg"
 related_genres:
   - syokusai-shokuji

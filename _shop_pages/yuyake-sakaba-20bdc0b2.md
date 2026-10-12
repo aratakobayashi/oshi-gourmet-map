@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区百人町1-15-24"
 source_video_title: "夕焼け酒場 #206 新宿区新大久保「九州料理 かんちゃん」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num206"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,8 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "がめ煮"
+  - "からし蓮根"
+  - "特製チキン南蛮"
 ---

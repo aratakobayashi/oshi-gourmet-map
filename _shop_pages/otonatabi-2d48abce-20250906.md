@@ -14,13 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2175321_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 35.139389
-lng: 136.091766
+lat: 35.139515
+lng: 136.091919
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "みそ冷麺（9月中旬までのメニュー）："
-  - "ざる中華（9月中旬までのメニュー）："
 ---

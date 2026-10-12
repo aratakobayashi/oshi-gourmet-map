@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "足立区"
 address: "東京都足立区西新井本町4-5-14"
 source_video_title: "夕焼け酒場 #30 足立区西新井「魚人」（2014年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html#num30"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "のどぐろの煮付け"
+  - "いしりみぞれ鍋"
 ---

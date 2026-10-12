@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "黒鯛のしょうゆラーメン"
-  - "鯛の塩ラーメン"
 ---

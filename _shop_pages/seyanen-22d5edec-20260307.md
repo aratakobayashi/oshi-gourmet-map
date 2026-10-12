@@ -18,6 +18,4 @@ lat: 34.707531
 lng: 135.525223
 groups:
   - "seyanen"
-ordered_items:
-  - "大海老穴子天丼"
 ---

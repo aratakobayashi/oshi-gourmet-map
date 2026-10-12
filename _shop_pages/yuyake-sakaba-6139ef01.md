@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区入船2-8-10"
 source_video_title: "夕焼け酒場 #187 中央区入船「入船 鳥福」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num187"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "う巻"
+  - "醤油ラーメン"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "とん彩や 福島店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-06-25公開 MBS）で紹介された食事「とん彩や 福島店」（大阪府大阪市福島区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-06-25公開 MBS）で紹介された居酒屋「とん彩や 福島店」（大阪府大阪市福島区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-d14a1db0-20260625"
 name: "とん彩や 福島店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市福島区"
 address: "大阪府大阪市福島区福島暢啓5丁目10-13"

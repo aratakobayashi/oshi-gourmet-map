@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田神保町1-25"
 source_video_title: "夕焼け酒場 #190 千代田区神田神保町「酔の助」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num190"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "玉ねぎの玉ねぎソース"
+  - "鉄板焼きコロッケ"
 ---

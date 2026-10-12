@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "北区"
 address: "東京都北区王子1-9-2"
 source_video_title: "夕焼け酒場 #41 北区王子「半平」（2015年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num41"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "玉子焼き"
+  - "牛すき焼き"
 ---

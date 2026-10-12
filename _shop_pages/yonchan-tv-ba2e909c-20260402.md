@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "コニシ酒販 立花駅前店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-04-02公開 MBS）で紹介された食事「コニシ酒販 立花駅前店」（兵庫県尼崎市）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-04-02公開 MBS）で紹介された居酒屋「コニシ酒販 立花駅前店」（兵庫県尼崎市）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-ba2e909c-20260402"
 name: "コニシ酒販 立花駅前店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "兵庫県"
 city: "尼崎市"
 address: "兵庫県尼崎市七松町1丁目1-1 立花ジョイタウン1階"

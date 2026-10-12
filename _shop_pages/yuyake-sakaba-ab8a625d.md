@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋人形町3-13-1"
 source_video_title: "夕焼け酒場 #319 中央区人形町「食彩酒房 蕾」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num319"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "串揚げ"
+  - "アジフライ"
+  - "アボカド漬け"
+  - "のりチーズ"
+  - "ソースカツ丼"
 ---

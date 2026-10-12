@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中野区"
 address: "東京都中野区本町3-11-6 中野新橋ビル一兆1F"
 source_video_title: "夕焼け酒場 #342 中野区中野新橋「炭火串焼き鶏料理 富所」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num342"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "鶏刺し"
+  - "焼き鳥"
+  - "チーズ焼き"
+  - "長茄子の九条ネギまみれ"
+  - "鶏白湯ラーメン"
 ---

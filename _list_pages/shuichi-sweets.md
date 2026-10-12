@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
 related_genres:
   - shuichi-shokuji
   - shuichi-washoku
-  - shuichi-cafe
+  - shuichi-chuka
 related_groups:
   - rosenbus-sweets
   - burari-sweets

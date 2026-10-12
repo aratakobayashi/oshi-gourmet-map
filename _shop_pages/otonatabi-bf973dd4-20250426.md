@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "サーロインユッケ"
-  - "ねぎ塩チマキ"
-  - "ロース焼きすき 1枚"
 ---

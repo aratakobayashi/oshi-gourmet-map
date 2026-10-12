@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "すいば 四条河原町店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2025-12-22公開 MBS）で紹介された食事「すいば 四条河原町店」（京都府京都市中京区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2025-12-22公開 MBS）で紹介された居酒屋「すいば 四条河原町店」（京都府京都市中京区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-d380e6ac-20251222"
 name: "すいば 四条河原町店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "京都府"
 city: "京都市中京区"
 address: "京都府京都市中京区中之町569-2"

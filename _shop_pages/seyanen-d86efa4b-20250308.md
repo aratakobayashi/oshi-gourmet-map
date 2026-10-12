@@ -18,6 +18,4 @@ lat: 34.662338
 lng: 135.503967
 groups:
   - "seyanen"
-ordered_items:
-  - "創作天定食"
 ---

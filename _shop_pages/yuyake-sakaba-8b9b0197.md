@@ -9,7 +9,7 @@ prefecture: "愛媛県"
 city: "松山市"
 address: "愛媛県松山市一番町2-1-4 朝日ビル1F"
 source_video_title: "夕焼け酒場 #450 愛媛県松山市「酒菜 ゆうじろう」（2023年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num450"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "昆布〆"
+  - "牛テール煮込み"
+  - "おでん"
+  - "たこ天"
+  - "鯛めし"
 ---

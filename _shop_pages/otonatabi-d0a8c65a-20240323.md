@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "王祿 八〇 グラス"
-  - "割子そば 3枚"
 ---

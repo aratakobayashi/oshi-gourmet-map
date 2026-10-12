@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "九重雜賀酒造 雜賀孫市"
-  - "足赤えび 1匹"
 ---

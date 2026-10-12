@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "国分寺市"
 address: "東京都国分寺市泉町3-37-25"
 source_video_title: "夕焼け酒場 #268 国分寺市「炭火焼串処 鳥芳」（2020年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num268"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "チレヌタ"
+  - "鳥芳サラダ"
 ---

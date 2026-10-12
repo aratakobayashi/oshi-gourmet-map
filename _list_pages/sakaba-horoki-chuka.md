@@ -13,6 +13,6 @@ related_genres:
   - sakaba-horoki-sweets
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

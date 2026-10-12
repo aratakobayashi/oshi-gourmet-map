@@ -20,10 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "平目"
-  - "しまあじ"
-  - "ビンビール"
-  - "生たこ"
-  - "出汁わり"
 ---

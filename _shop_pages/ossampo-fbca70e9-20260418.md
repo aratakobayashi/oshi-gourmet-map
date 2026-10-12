@@ -14,8 +14,12 @@ source_url: "https://www.tv-osaka.co.jp/ip4/ossampo/2189424_15452.html"
 group: "ossampo"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xgBG1MkVxfpk7t927F1fL1I3ebQ.jpg"
 source_type: "tv"
-lat: 34.592903
-lng: 135.542648
+lat: 34.592348
+lng: 135.542281
+members:
+  - "黒田有"
+  - "武田真治"
+  - "ケンドーコバヤシ"
 groups:
   - "ossampo"
 ---

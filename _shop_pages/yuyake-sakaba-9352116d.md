@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区新橋3-22-2 つるやTKビル4F"
 source_video_title: "夕焼け酒場 #15 港区新橋「和ごころ あまみ」（2014年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html#num15"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -17,4 +17,6 @@ lat: 35.664879
 lng: 139.757889
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "切腹もなか"
 ---

@@ -14,15 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2177895_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 34.719196
-lng: 135.480316
+lat: 34.719162
+lng: 135.480637
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "紹興酒 古越龍山 陳醸20年"
-  - "溢汁蒸し小籠包 4個"
-  - "焼き小籠包 4個"
-  - "上海黒酢の香味スペアリブ"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区荏原4-6-1"
 source_video_title: "夕焼け酒場 #305 品川区荏原「居酒屋つき」（2020年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num305"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "きんちゃく納豆"
+  - "もちてりチーズ焼き"
 ---

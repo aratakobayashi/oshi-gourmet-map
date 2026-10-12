@@ -13,6 +13,6 @@ related_genres:
   - sekkaku-gourmet-yakiniku
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

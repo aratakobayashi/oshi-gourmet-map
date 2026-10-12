@@ -13,6 +13,6 @@ related_genres:
   - west-izakaya
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "オイスティー"
-description: "せやねん！ どこいこ「ラーメン激戦区　大阪・日本橋」（2023-11-25 MBS）で紹介されたカフェ「オイスティー」（大阪府大阪市浪速区）。推し活グルメ巡礼スポット。"
+description: "せやねん！ どこいこ「ラーメン激戦区　大阪・日本橋」（2023-11-25 MBS）で紹介されたラーメン「オイスティー」（大阪府大阪市浪速区）。推し活グルメ巡礼スポット。"
 shop_id: "seyanen-7aacaec6-20231125"
 name: "オイスティー"
-genre: "cafe"
+genre: "ramen"
 prefecture: "大阪府"
 city: "大阪市浪速区"
 address: "大阪府大阪市浪速区日本橋4-15-25 BRIGHTビル1F"
@@ -18,6 +18,4 @@ lat: 34.661392
 lng: 135.50528
 groups:
   - "seyanen"
-ordered_items:
-  - "プレミアム牡蠣(かき)塩らぁ麺"
 ---

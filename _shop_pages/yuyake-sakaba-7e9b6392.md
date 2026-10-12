@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区江東橋3-5-4"
 source_video_title: "夕焼け酒場 #422 墨田区錦糸町「三四郎」（2023年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num422"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "くりから焼き"
+  - "串焼き"
+  - "五色いも"
+  - "アジフライ"
+  - "どぜう鍋"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草1-11-2御所コーポ1階"
 source_video_title: "夕焼け酒場 #198 台東区浅草「炉端 炭男」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num198"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "手まり握り"
 ---

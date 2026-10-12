@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "抱き身（胸）"
-  - "ねぎま"
-  - "鳥節の卵かけご飯"
 ---

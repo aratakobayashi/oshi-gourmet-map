@@ -1,11 +1,11 @@
 ---
-title: "news every.のラーメン聖地巡礼｜行ったラーメン20選"
-description: "news every.のメンバーが実際に訪れたラーメンスポットを20件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "news every.のラーメン聖地巡礼｜行ったラーメン21選"
+description: "news every.のメンバーが実際に訪れたラーメンスポットを21件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: every
 genre: ramen
 group_label: "news every."
 slug_id: every-ramen
-shop_count: 20
+shop_count: 21
 thumbnail_url: "https://image.tmdb.org/t/p/w500/67Ha8yFFxzaVPzIMpY8ZQQLGXUF.jpg"
 related_genres:
   - every-shokuji
@@ -13,6 +13,6 @@ related_genres:
   - every-cafe
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

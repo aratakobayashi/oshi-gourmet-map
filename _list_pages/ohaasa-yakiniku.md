@@ -1,11 +1,11 @@
 ---
-title: "おはよう朝日ですの焼肉聖地巡礼｜行った焼肉6選"
-description: "おはよう朝日ですのメンバーが実際に訪れた焼肉スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "おはよう朝日ですの焼肉聖地巡礼｜行った焼肉8選"
+description: "おはよう朝日ですのメンバーが実際に訪れた焼肉スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: ohaasa
 genre: yakiniku
 group_label: "おはよう朝日です"
 slug_id: ohaasa-yakiniku
-shop_count: 6
+shop_count: 8
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iTa3f7mNEyeoKNAR9D8728F8m4d.jpg"
 related_genres:
   - ohaasa-shokuji

@@ -9,7 +9,7 @@ prefecture: "千葉県"
 city: "松戸市"
 address: "千葉県松戸市小根本20-39"
 source_video_title: "夕焼け酒場 #320 千葉県松戸市「炭火焼鳥あほうどり」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num320"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "矢切ネギ"
+  - "焼とり丼"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区駒込2-2-1 駒込二丁目アパート105"
 source_video_title: "夕焼け酒場 #307 豊島区駒込「燻製居酒屋 くゆり」（2020年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num307"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "ベーコンの燻製"
+  - "牛ハラミの燻製"
+  - "ほっけの燻製"
+  - "燻製カレー"
 ---

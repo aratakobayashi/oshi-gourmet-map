@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "有馬茅店 Bécassine"
-description: "おとな旅あるき旅 第744回 兵庫・有馬（2024-08-10 テレビ大阪）で紹介された和食「有馬茅店 Bécassine」（兵庫県神戸市北区）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第744回 兵庫・有馬（2024-08-10 テレビ大阪）で紹介されたスイーツ「有馬茅店 Bécassine」（兵庫県神戸市北区）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-7bab81cc-20240810"
 name: "有馬茅店 Bécassine"
-genre: "washoku"
+genre: "sweets"
 prefecture: "兵庫県"
 city: "神戸市北区"
 address: "兵庫県神戸市北区有馬町1068"
@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "天ぷらみたらし"
-  - "山椒醤油 2本"
 ---

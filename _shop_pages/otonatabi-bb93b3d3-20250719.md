@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "ビール"
-  - "レッドアイ"
-  - "京都府産 万願寺とうがらし"
 ---

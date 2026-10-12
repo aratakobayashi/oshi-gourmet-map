@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区亀戸6-24-1 ヴィラハイツ亀戸104"
 source_video_title: "夕焼け酒場 #448 江東区亀戸「青森Souls」（2023年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num448"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "馬刺し"
+  - "貝焼き味噌"
+  - "イカメンチ"
+  - "酢だこ"
+  - "ラーメン"
 ---

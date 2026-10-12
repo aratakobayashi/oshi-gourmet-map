@@ -14,14 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2164442_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 34.680679
-lng: 135.82756
+lat: 34.68058
+lng: 135.828064
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "チャージ料"
-  - "かぎろひ"
-  - "奈良のいちご 古都華 のカクテル："
 ---

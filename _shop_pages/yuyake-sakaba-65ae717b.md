@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区北沢2-1-9"
 source_video_title: "夕焼け酒場 #355 世田谷区下北沢「つ串亭」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num355"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "やきおにぎり"
 ---

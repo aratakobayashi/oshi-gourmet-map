@@ -18,6 +18,4 @@ lat: 34.677147
 lng: 135.496857
 groups:
   - "seyanen"
-ordered_items:
-  - "かつ丼 上"
 ---

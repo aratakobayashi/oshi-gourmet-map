@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "葛飾区"
 address: "東京都葛飾区新小岩1-34-6"
 source_video_title: "夕焼け酒場 #398 葛飾区新小岩「酒彩処 鳥益」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num398"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "焼き鳥"
+  - "手羽っ唐"
+  - "牛すじ煮込み"
+  - "鶏そぼろ丼"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区三軒茶屋2-13-10"
 source_video_title: "夕焼け酒場 #380 世田谷区三軒茶屋「いざかや ほしぐみ」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num380"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "ポテサラ"
+  - "ひな鶏半身揚げ"
+  - "生ハムのカプレーゼ"
+  - "塩煮込み"
 ---

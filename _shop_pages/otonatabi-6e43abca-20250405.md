@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "おまかせコース"
-  - "篠峯 山田錦 純米 1合"
 ---

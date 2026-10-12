@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋人形町1-5-10"
 source_video_title: "夕焼け酒場 #363 中央区人形町「いわ瀬」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num363"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "お造り盛り合わせ"
+  - "和風コロッケ"
+  - "銀ダラ西京味噌幽庵焼き"
+  - "雲丹茶碗蒸し"
+  - "カレーライス"
 ---

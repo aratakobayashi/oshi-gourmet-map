@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "ハイボール"
-  - "黒毛和牛ヒレタタキ"
-  - "松坂牛 すき焼き"
 ---

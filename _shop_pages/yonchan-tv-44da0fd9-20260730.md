@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "鉄板真夏 大阪天満店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-30公開 MBS）で紹介された食事「鉄板真夏 大阪天満店」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-30公開 MBS）で紹介された居酒屋「鉄板真夏 大阪天満店」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-44da0fd9-20260730"
 name: "鉄板真夏 大阪天満店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市北区"
 address: "大阪府大阪市北区浪花町11-6"

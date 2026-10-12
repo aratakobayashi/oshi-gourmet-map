@@ -14,13 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2164442_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 34.683174
-lng: 135.827621
+lat: 34.683456
+lng: 135.827957
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "橘花ジン 流転 ホット"
-  - "フィッシュ＆チップス"
 ---

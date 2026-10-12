@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "江東区"
 address: "東京都江東区門前仲町1-4-9"
 source_video_title: "夕焼け酒場 #517 江東区門前仲町「たつや」（2025年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num517"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "刺身盛り"
+  - "豚の角煮"
+  - "ちくわの明石揚げ"
+  - "海老ざんまい鍋"
 ---

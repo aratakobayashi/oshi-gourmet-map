@@ -18,6 +18,4 @@ lat: 34.663761
 lng: 135.505127
 groups:
   - "seyanen"
-ordered_items:
-  - "バラカツ丼セット"
 ---

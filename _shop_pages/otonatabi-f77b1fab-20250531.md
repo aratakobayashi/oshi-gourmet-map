@@ -20,10 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "だし巻"
-  - "たたきごぼう"
-  - "大根漬"
-  - "いわし煮"
-  - "あじ南蛮"
 ---

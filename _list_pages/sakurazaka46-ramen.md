@@ -14,6 +14,6 @@ related_genres:
   - sakurazaka46-washoku
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

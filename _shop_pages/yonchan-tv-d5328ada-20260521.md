@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "立ち呑み 直福"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-05-21公開 MBS）で紹介された食事「立ち呑み 直福」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-05-21公開 MBS）で紹介された居酒屋「立ち呑み 直福」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-d5328ada-20260521"
 name: "立ち呑み 直福"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市北区"
 address: "大阪府大阪市北区角田町7 梅田地下街2-4 ホワイティ梅田ノースモール1"

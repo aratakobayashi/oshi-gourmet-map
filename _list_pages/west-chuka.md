@@ -13,6 +13,6 @@ related_genres:
   - west-izakaya
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

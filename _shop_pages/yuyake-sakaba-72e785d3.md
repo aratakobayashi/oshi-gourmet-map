@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "足立区"
 address: "東京都足立区西竹の塚1-15-7"
 source_video_title: "夕焼け酒場 #178 足立区竹の塚「ひよこ」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num178"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "天然とらふぐ"
 ---

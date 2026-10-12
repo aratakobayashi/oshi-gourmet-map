@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区寿2-2-7"
 source_video_title: "夕焼け酒場 #57 台東区「浅草魚料理 遠州屋」（2015年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num57"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "鮎の塩焼き"
+  - "ハゼの天ぷら"
 ---

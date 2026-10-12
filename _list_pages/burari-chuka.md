@@ -13,6 +13,6 @@ related_genres:
   - burari-washoku
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

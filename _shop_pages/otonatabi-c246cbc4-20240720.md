@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "どぶろく瀧水 イートイン"
-  - "どぶろく瀧水(300ml)"
 ---

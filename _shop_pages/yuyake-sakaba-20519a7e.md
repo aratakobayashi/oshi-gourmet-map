@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区千鳥2-36-1"
 source_video_title: "夕焼け酒場 #310 大田区武蔵新田「小料理 とめ丸ブルース」（2020年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num310"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "たまめし"
 ---

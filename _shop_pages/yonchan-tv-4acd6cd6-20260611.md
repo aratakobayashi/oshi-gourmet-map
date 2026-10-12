@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "桝屋商店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-06-11公開 MBS）で紹介された食事「桝屋商店」（大阪府大阪市西成区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-06-11公開 MBS）で紹介された居酒屋「桝屋商店」（大阪府大阪市西成区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-4acd6cd6-20260611"
 name: "桝屋商店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市西成区"
 address: "大阪府大阪市西成区聖天下1-11-21"

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "鹿の子"
-description: "おとな旅あるき旅 第750回 奈良・法隆寺（2024-09-21 テレビ大阪）で紹介された食事「鹿の子」（奈良県奈良市）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第750回 奈良・法隆寺（2024-09-21 テレビ大阪）で紹介された和食「鹿の子」（奈良県奈良市）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-e57d55bc-20240921"
 name: "鹿の子"
-genre: "shokuji"
+genre: "washoku"
 prefecture: "奈良県"
 city: "奈良市"
 address: "奈良県奈良市高畑町1307-1"
@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "にゅうめん＋山菜丼"
-  - "エビ天入りにゅうめん"
 ---

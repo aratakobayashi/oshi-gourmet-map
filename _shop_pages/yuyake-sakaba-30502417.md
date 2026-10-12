@@ -9,7 +9,7 @@ prefecture: "京都府"
 city: "京都市東山区"
 address: "京都府京都市東山区花見小路末吉町入清本町374-2"
 source_video_title: "夕焼け酒場 #44 花見「山口西店」（2015年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num44_02"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "すき焼き"
 ---

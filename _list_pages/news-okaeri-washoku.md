@@ -9,6 +9,7 @@ shop_count: 13
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pbbvU3kdY0bo4pC14X3GJVI7EWy.jpg"
 related_genres:
   - news-okaeri-shokuji
+  - news-okaeri-cafe
 related_groups:
   - jinsei-saiko-washoku
   - seyanen-washoku

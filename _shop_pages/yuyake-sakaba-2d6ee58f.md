@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区三軒茶屋2-15-15"
 source_video_title: "夕焼け酒場 #280 世田谷区「仙太」（2020年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num280"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "胡麻つくね"
+  - "角煮チャーシュー"
 ---

@@ -18,6 +18,4 @@ lat: 34.671242
 lng: 135.460266
 groups:
   - "seyanen"
-ordered_items:
-  - "麻婆カツ丼〈スープ・サラダ付き〉"
 ---

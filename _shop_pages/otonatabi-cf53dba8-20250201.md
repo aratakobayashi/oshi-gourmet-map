@@ -20,9 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "なにわ黒牛タタキ"
-  - "ホルモンタレ焼き"
-  - "クリステーキ"
-  - "お好み焼き牛玉"
 ---

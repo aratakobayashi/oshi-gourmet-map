@@ -16,6 +16,10 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/xgBG1MkVxfpk7t927F1fL1I3ebQ.jpg"
 source_type: "tv"
 lat: 34.692459
 lng: 135.474915
+members:
+  - "黒田有"
+  - "吉田敬"
+  - "松尾諭"
 groups:
   - "ossampo"
 ---

@@ -20,6 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "ロケット饅頭 そらのかけはし 5本入り"
 ---

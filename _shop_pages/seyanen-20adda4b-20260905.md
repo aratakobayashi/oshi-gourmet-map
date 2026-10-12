@@ -18,6 +18,4 @@ lat: 34.664093
 lng: 135.537643
 groups:
   - "seyanen"
-ordered_items:
-  - "いもいか豚ロール"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区東3-25-3 B1"
 source_video_title: "夕焼け酒場 #368 渋谷区恵比寿「酒処 ふくみ」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num368"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "豆腐入りもつ煮込み"
+  - "ポテトマカロニサラダ"
+  - "手作りコロッケ"
+  - "カレー"
 ---

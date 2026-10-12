@@ -18,6 +18,4 @@ lat: 34.656235
 lng: 135.50412
 groups:
   - "seyanen"
-ordered_items:
-  - "韓国チャジャン麺"
 ---

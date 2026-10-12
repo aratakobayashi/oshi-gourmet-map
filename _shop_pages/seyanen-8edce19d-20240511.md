@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "雨食堂"
-description: "せやねん！ どこいこ「ピリ辛ッ！ジュワ～がうまい！韓国グルメ」（2024-05-11 MBS）で紹介された和食「雨食堂」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+description: "せやねん！ どこいこ「ピリ辛ッ！ジュワ～がうまい！韓国グルメ」（2024-05-11 MBS）で紹介された食事「雨食堂」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
 shop_id: "seyanen-8edce19d-20240511"
 name: "雨食堂"
-genre: "washoku"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "大阪市北区"
 address: "大阪府大阪市北区中津1-15-37 キタの北ナガヤ103"
@@ -18,6 +18,4 @@ lat: 34.711823
 lng: 135.496658
 groups:
   - "seyanen"
-ordered_items:
-  - "コンナムルプルコギ"
 ---

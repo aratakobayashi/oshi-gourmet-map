@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "魚屋 Fish.K"
-description: "おとな旅あるき旅 第810回 大阪・堺（2025-11-29 テレビ大阪）で紹介された和食「魚屋 Fish.K」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第810回 大阪・堺（2025-11-29 テレビ大阪）で紹介された居酒屋「魚屋 Fish.K」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-d6aea7e7-20251129"
 name: "魚屋 Fish.K"
-genre: "washoku"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "堺市堺区"
 address: "大阪府堺市堺区栄橋町1-7-7"
@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "カツオの藁焼き"
-  - "マグロのすき身"
 ---

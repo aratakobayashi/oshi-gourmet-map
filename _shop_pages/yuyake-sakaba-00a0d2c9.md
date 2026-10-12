@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋人形町2-20-3"
 source_video_title: "夕焼け酒場 #180 中央区人形町「酒の店 笹新」（2018年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num180"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "江戸の味葱鮪"
 ---

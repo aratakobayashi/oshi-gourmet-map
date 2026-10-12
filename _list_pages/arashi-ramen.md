@@ -13,6 +13,6 @@ related_genres:
   - arashi-cafe
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - burari-ramen
-  - omouma-ramen
 ---

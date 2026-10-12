@@ -1,16 +1,16 @@
 ---
-title: "よんチャンTVの居酒屋聖地巡礼｜行った居酒屋64選"
-description: "よんチャンTVのメンバーが実際に訪れた居酒屋スポットを64件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "よんチャンTVの居酒屋聖地巡礼｜行った居酒屋129選"
+description: "よんチャンTVのメンバーが実際に訪れた居酒屋スポットを129件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: yonchan_tv
 genre: izakaya
 group_label: "よんチャンTV"
 slug_id: yonchan-tv-izakaya
-shop_count: 64
+shop_count: 129
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pRBhOAS6HV2HAbZl4HRqYdmnb0Y.jpg"
 related_genres:
-  - yonchan-tv-shokuji
   - yonchan-tv-cafe
   - yonchan-tv-washoku
+  - yonchan-tv-shokuji
 related_groups:
   - sakaba-horoki-izakaya
   - yuyake-sakaba-izakaya

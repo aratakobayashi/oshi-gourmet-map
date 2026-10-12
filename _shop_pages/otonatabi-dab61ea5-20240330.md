@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "黒霧島（ロック、お湯割り） 各"
-  - "おでん三種盛り"
-  - "鮭皮塩焼き"
 ---

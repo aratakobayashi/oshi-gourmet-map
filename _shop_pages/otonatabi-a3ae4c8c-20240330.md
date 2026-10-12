@@ -14,14 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2142244_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 34.695992
-lng: 135.52861
+lat: 34.698135
+lng: 135.534103
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "自家製ハンバーグ"
-  - "ガーリックトースト"
-  - "ズッキーニ焼"
 ---

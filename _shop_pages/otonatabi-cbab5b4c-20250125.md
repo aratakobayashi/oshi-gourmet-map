@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "イカの天ぷら(小)"
-  - "水ギョーザ(8ヶ)"
 ---

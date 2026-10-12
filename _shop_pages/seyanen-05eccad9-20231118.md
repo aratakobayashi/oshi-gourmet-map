@@ -18,6 +18,4 @@ lat: 34.698292
 lng: 135.486908
 groups:
   - "seyanen"
-ordered_items:
-  - "極みレアハンバーグ 200ｇ"
 ---

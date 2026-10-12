@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "美濃部寿司"
-  - "棒鯖寿司"
-  - "干瓢天ぷら"
 ---

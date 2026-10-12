@@ -9,7 +9,7 @@ prefecture: "神奈川県"
 city: "横須賀市"
 address: "神奈川県横須賀市若松町2-7"
 source_video_title: "夕焼け酒場 #396 神奈川県横須賀市「酒蔵 お太幸」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num396"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "シューマイ"
+  - "湯豆腐"
+  - "トン玉団子串"
+  - "うなぎの玉子とじ"
+  - "洋風あげまん"
 ---

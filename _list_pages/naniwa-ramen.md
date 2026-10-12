@@ -15,6 +15,6 @@ related_genres:
   - naniwa-sweets
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

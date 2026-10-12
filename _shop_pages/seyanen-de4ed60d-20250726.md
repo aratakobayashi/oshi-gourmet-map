@@ -18,6 +18,4 @@ lat: 34.69804
 lng: 135.497177
 groups:
   - "seyanen"
-ordered_items:
-  - "スペシャルタコライス"
 ---

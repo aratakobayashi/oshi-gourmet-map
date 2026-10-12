@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区駒込3-3-21 小松ビルB1"
 source_video_title: "夕焼け酒場 #407 豊島区駒込「山鯨屋」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num407"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -23,6 +23,5 @@ groups:
 ordered_items:
   - "串焼き3種盛り"
   - "鹿あぶり"
-  - "焼き？？？"
   - "ニコライス"
 ---

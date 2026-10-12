@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "たこ焼き 10個"
-  - "洋しょく（たまご入り）"
 ---

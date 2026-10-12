@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "北区"
 address: "東京都北区赤羽1-41-16"
 source_video_title: "夕焼け酒場 #330 北区赤羽「鮮魚と手仕事 海里（みさと）」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num330"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "パンDEチーズフォンデュ"
+  - "ビーフシチューの天ぷら"
+  - "赤羽餃子"
+  - "とん豚ひつまぶし"
 ---

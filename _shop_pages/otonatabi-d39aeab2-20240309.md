@@ -20,6 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "近江日野牛メンチカツ"
 ---

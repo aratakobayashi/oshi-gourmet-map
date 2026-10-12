@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "つまんでちょんまげ 輪切りドライトマト"
-  - "岩国 酒井酒造 五橋 紙カップ"
 ---

@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "しじみかき揚げそば"
-  - "しじみのかき玉丼"
-  - "瀬田しじみの赤出汁"
 ---

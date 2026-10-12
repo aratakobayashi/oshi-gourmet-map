@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区日本橋人形町2-2-6"
 source_video_title: "夕焼け酒場 #373 中央区人形町「焼酎処 さつま」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num373"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "さつま鶏の刺身"
+  - "さつま揚げ"
+  - "黒豚の角煮"
+  - "灰干し海老"
+  - "さつま鶏の水炊き"
 ---

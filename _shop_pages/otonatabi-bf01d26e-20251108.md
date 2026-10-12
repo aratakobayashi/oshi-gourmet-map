@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "生ビール"
-  - "健康と五感の和食御膳"
 ---

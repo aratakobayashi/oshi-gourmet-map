@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "千代田区"
 address: "東京都千代田区神田佐久間町2-22"
 source_video_title: "夕焼け酒場 #362 千代田区秋葉原「殿」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num362"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -19,4 +19,10 @@ members:
   - "きたろう"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "煮込み"
+  - "ハムカツ"
+  - "ハラミ炙り"
+  - "納豆刺し"
+  - "焼きラーメン"
 ---

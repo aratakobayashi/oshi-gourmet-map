@@ -8,9 +8,9 @@ slug_id: zip-washoku
 shop_count: 5
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jubZAwFlffMPxwYU55YWCphK7ze.jpg"
 related_genres:
+  - zip-sweets
   - zip-shokuji
   - zip-cafe
-  - zip-sweets
 related_groups:
   - jinsei-saiko-washoku
   - seyanen-washoku

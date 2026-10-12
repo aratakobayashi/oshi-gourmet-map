@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "刺⾝3点盛り"
-  - "下津井タコの天ぷら"
-  - "ミニ真鯛の出汁茶漬け"
 ---

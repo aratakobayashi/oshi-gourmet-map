@@ -20,9 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "剣菱 熱燗 一合"
-  - "すじ"
-  - "大根"
-  - "たこ"
 ---

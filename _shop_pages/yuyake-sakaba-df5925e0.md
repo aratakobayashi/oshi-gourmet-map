@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区西池袋1-22-4"
 source_video_title: "夕焼け酒場 #99 豊島区「居酒屋 八丈島」（2016年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2016.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2016.html#num99"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "ウミガメの刺身"
 ---

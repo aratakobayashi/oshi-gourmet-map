@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区円山町5-13 ヴィータ道玄坂1F"
 source_video_title: "夕焼け酒場 #27 渋谷区「からから」（2014年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html#num27"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "水炊き餃子"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "自家製京ゆば料理 高台寺 羽柴"
-description: "よんチャンTV ぶら参道（2024-09-25公開 MBS）で紹介された食事「自家製京ゆば料理 高台寺 羽柴」（京都府京都市東山区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV ぶら参道（2024-09-25公開 MBS）で紹介された和食「自家製京ゆば料理 高台寺 羽柴」（京都府京都市東山区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-f89bcbac-20240925"
 name: "自家製京ゆば料理 高台寺 羽柴"
-genre: "shokuji"
+genre: "washoku"
 prefecture: "京都府"
 city: "京都市東山区"
 address: "京都府京都市東山区下河原町530"

@@ -18,6 +18,4 @@ lat: 34.665504
 lng: 135.504669
 groups:
   - "seyanen"
-ordered_items:
-  - "付き出し代"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "えびす大黒 新開地南店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2025-11-10公開 MBS）で紹介された食事「えびす大黒 新開地南店」（兵庫県神戸市兵庫区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2025-11-10公開 MBS）で紹介された居酒屋「えびす大黒 新開地南店」（兵庫県神戸市兵庫区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-f5e52aed-20251110"
 name: "えびす大黒 新開地南店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "兵庫県"
 city: "神戸市兵庫区"
 address: "兵庫県神戸市兵庫区新開地3丁目3-6"

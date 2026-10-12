@@ -18,7 +18,4 @@ lat: 34.463997
 lng: 135.360367
 groups:
   - "seyanen"
-ordered_items:
-  - "しらす三色丼"
-  - "しらすかき揚げ丼"
 ---

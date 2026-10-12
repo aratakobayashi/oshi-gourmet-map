@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "冷やし梅蒸し"
-  - "焼きとろろ"
-  - "特選 和牛ヒレ 石板焼き"
 ---

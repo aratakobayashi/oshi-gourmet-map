@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "小浜ちゃんぽん 卵入り"
-  - "ビール中瓶"
 ---

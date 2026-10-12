@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "BAR VIA COSTA"
-description: "食彩の王国 第1137回『淡路島の麦わらダコ』（2026-08-29 テレビ朝日）で紹介された居酒屋「BAR VIA COSTA」（兵庫県洲本市）。推し活グルメ巡礼スポット。"
+description: "食彩の王国 第1137回『淡路島の麦わらダコ』（2026-08-29 テレビ朝日）で紹介された食事「BAR VIA COSTA」（兵庫県洲本市）。推し活グルメ巡礼スポット。"
 shop_id: "syokusai-acab8fb0-20260829"
 name: "BAR VIA COSTA"
-genre: "izakaya"
+genre: "shokuji"
 prefecture: "兵庫県"
 city: "洲本市"
 address: "兵庫県洲本市海岸通2-6-22"

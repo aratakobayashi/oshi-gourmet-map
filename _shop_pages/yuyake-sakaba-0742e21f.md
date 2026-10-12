@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "港区"
 address: "東京都港区赤坂5-1-38"
 source_video_title: "夕焼け酒場 #357 港区赤坂「まぐろダイニングやまと」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num357"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "まぐろ刺し"
+  - "竜田揚げ"
+  - "まぐろカマ焼き"
+  - "炊き込みご飯"
 ---

@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
 related_genres:
   - shuichi-sweets
   - shuichi-washoku
-  - shuichi-cafe
+  - shuichi-chuka
 related_groups:
   - jinsei-saiko-shokuji
   - syokusai-shokuji

@@ -10,9 +10,9 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/45EZ4BQMBgeVadnlKA4Abx3IuOm.jpg"
 related_genres:
   - syokusai-shokuji
   - syokusai-washoku
-  - syokusai-cafe
+  - syokusai-sweets
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

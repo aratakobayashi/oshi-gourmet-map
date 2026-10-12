@@ -18,6 +18,4 @@ lat: 34.689415
 lng: 135.50563
 groups:
   - "seyanen"
-ordered_items:
-  - "牛すじネギカレー"
 ---

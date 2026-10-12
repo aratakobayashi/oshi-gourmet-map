@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "但馬屋"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-30公開 MBS）で紹介された食事「但馬屋」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-30公開 MBS）で紹介された居酒屋「但馬屋」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-7e75af3c-20260730"
 name: "但馬屋"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市北区"
 address: "大阪府大阪市北区天神橋4丁目12-5"

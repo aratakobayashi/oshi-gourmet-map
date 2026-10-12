@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区西池袋3-29-4 大成ビルB1"
 source_video_title: "夕焼け酒場 #449 豊島区池袋「酒喰処 かぼす」（2023年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num449"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "りゅうきゅう"
+  - "がめ煮"
+  - "とり天"
+  - "ステーキ"
+  - "出汁茶漬け"
 ---

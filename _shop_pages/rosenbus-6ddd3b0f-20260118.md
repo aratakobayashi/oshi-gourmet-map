@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "atelier BASEL"
-description: "路線バスで寄り道の旅 笹野さんプレゼンツ!徳さんを連れていきたい国道16号沿いを巡る旅（2026-01-18 テレビ朝日）で紹介された和食「atelier BASEL」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "路線バスで寄り道の旅 笹野さんプレゼンツ!徳さんを連れていきたい国道16号沿いを巡る旅（2026-01-18 テレビ朝日）で紹介されたスイーツ「atelier BASEL」（東京都八王子市）。推し活グルメ巡礼スポット。"
 shop_id: "rosenbus-6ddd3b0f-20260118"
 name: "atelier BASEL"
-genre: "washoku"
+genre: "sweets"
 prefecture: "東京都"
 city: "八王子市"
 address: "東京都八王子市上柚木2-7-5"

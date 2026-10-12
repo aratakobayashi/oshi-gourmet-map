@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "ハイボール"
-  - "チキンカツ麻婆麺【３辛】"
-  - "汁なし担々麺"
 ---

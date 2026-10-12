@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "しらす丼"
-  - "穴子丼"
-  - "焼き牡蠣 5個"
 ---

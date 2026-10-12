@@ -15,6 +15,6 @@ related_genres:
   - equal-love-izakaya
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

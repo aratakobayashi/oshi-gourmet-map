@@ -20,9 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "あいご一夜干し"
-  - "とまとベーコン"
-  - "特大えび"
-  - "黒霧島 ロック"
 ---

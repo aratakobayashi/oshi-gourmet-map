@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "鮎 塩焼き（子持ち）"
-  - "とんちゃん鉄板焼 1人前"
 ---

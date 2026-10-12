@@ -18,6 +18,4 @@ lat: 34.707249
 lng: 135.512695
 groups:
   - "seyanen"
-ordered_items:
-  - "うな重 特上"
 ---

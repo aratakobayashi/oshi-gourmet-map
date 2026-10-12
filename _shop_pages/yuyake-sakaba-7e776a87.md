@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "葛飾区"
 address: "東京都葛飾区柴又1-43-15"
 source_video_title: "夕焼け酒場 #36 葛飾区柴又「さくら」（2015年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num36"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "豚バラベーコンブロック焼き"
 ---

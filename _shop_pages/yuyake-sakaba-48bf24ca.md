@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "西東京市"
 address: "東京都西東京市田無町2-9-1"
 source_video_title: "夕焼け酒場 #383 西東京市田無町「大衆酒場 三六」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num383"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "牛もつ煮込み"
+  - "えんがわ柚子胡椒"
+  - "熱々チーズ舞茸"
+  - "三六焼き"
 ---

@@ -20,6 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "和牛火山（雲丹、イクラトッピング）"
 ---

@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "なまこ酢"
-  - "早寿司(鯖)"
-  - "寄せ鍋1人前"
 ---

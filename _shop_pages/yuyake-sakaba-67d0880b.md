@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "八王子市"
 address: "東京都八王子市子安町1-2-1"
 source_video_title: "夕焼け酒場 #148 八王子市「やきとり小太郎」（2017年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html#num148"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "もつ煮込み"
 ---

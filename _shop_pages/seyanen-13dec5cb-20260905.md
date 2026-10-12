@@ -18,6 +18,4 @@ lat: 34.691319
 lng: 135.501068
 groups:
   - "seyanen"
-ordered_items:
-  - "すき焼きそば"
 ---

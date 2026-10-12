@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区北品川1-25-9"
 source_video_title: "夕焼け酒場 #263 品川区「炭火焼き ことしろ」（2019年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2019.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2019.html#num263"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "月見つくね"
 ---

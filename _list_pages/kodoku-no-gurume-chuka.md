@@ -15,6 +15,6 @@ related_genres:
   - kodoku-no-gurume-yakiniku
 related_groups:
   - machichuka-chuka
-  - jinsei-saiko-chuka
   - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

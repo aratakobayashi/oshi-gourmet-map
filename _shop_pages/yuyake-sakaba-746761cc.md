@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "杉並区"
 address: "東京都杉並区西荻南3-12-1"
 source_video_title: "夕焼け酒場 #384 杉並区西荻窪「沖縄料理 まあさんどう」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num384"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "海ぶどう"
+  - "アグー豚のサラダ"
+  - "ゴーヤーチャンプルー"
+  - "グルクンの唐揚げ"
+  - "まあさん丼"
 ---

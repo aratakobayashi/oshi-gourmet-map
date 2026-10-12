@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "日本酒 2合"
-  - "猪焼肉"
-  - "ぼたん鍋"
 ---

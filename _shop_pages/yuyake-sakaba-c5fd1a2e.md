@@ -9,7 +9,7 @@ prefecture: "埼玉県"
 city: "さいたま市大宮区"
 address: "埼玉県さいたま市大宮区仲町1-7-1"
 source_video_title: "夕焼け酒場 #315 さいたま市大宮「もつ焼 大阪屋」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num315"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "もつ煮込み"
+  - "もつ焼き"
+  - "レバステーキ"
+  - "焼きおにぎり"
 ---

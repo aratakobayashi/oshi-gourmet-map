@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "世田谷区"
 address: "東京都世田谷区経堂1-22-18 タイムポート経堂103"
 source_video_title: "夕焼け酒場 #317 世田谷区経堂「もつやき 優貴」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num317"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "チーズもつ煮込み"
+  - "もつ焼き"
+  - "つくピー"
+  - "ぶれんずの天ぷら"
+  - "もつ飯"
 ---

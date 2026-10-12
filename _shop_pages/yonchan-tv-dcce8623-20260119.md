@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "さかば おやじ"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-01-19公開 MBS）で紹介された食事「さかば おやじ」（大阪府大阪市都島区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-01-19公開 MBS）で紹介された居酒屋「さかば おやじ」（大阪府大阪市都島区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-dcce8623-20260119"
 name: "さかば おやじ"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市都島区"
 address: "大阪府大阪市都島区東野田町3-2-14"

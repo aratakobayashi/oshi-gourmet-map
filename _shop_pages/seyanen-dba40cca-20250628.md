@@ -18,6 +18,4 @@ lat: 34.697525
 lng: 135.494553
 groups:
   - "seyanen"
-ordered_items:
-  - "つけとろそば"
 ---

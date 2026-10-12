@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "台東区"
 address: "東京都台東区浅草橋1-10-7 B1F"
 source_video_title: "夕焼け酒場 #534 台東区浅草橋「酒小屋」（2025年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num534"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -21,7 +21,6 @@ members:
 groups:
   - "yuyake_sakaba"
 ordered_items:
-  - "かつをの叩き"
   - "じゃこ天"
   - "ウツボの唐揚"
   - "竹ちくわ"

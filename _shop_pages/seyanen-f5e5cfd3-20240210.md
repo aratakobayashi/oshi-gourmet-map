@@ -18,7 +18,4 @@ lat: 34.6749
 lng: 135.475708
 groups:
   - "seyanen"
-ordered_items:
-  - "韃靼(だったん)そば選択"
-  - "二八そば選択"
 ---

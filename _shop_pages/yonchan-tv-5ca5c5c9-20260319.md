@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "おしゃん亭"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-03-19公開 MBS）で紹介された食事「おしゃん亭」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-03-19公開 MBS）で紹介された居酒屋「おしゃん亭」（大阪府大阪市北区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-5ca5c5c9-20260319"
 name: "おしゃん亭"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市北区"
 address: "大阪府大阪市北区梅田1-11-4 大阪駅前第4ビルB1"

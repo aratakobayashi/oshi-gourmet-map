@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "赤垣屋 野田阪神店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-04-30公開 MBS）で紹介された食事「赤垣屋 野田阪神店」（大阪府大阪市福島区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-04-30公開 MBS）で紹介された居酒屋「赤垣屋 野田阪神店」（大阪府大阪市福島区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-7dffb311-20260430"
 name: "赤垣屋 野田阪神店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "大阪市福島区"
 address: "大阪府大阪市福島区海老江1丁目1-11"

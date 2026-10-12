@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "蓮根饅頭あんかけ"
-  - "鯛めし 1合"
-  - "目板鰈唐揚げ"
 ---

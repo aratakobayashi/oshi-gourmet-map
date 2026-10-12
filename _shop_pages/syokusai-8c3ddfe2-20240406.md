@@ -14,8 +14,8 @@ source_url: "https://www.tv-asahi.co.jp/syokusai/shop/4864/"
 group: "syokusai"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/45EZ4BQMBgeVadnlKA4Abx3IuOm.jpg"
 source_type: "tv"
-lat: 34.265087
-lng: 134.724289
+lat: 34.257069
+lng: 134.719711
 groups:
   - "syokusai"
 ---

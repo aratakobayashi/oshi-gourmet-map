@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "大田区"
 address: "東京都大田区北千束1-62-2"
 source_video_title: "夕焼け酒場 #372 大田区北千束「大衆酒場 やかん」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num372"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "アボガリ"
+  - "塩もつ煮込み"
+  - "手羽先"
+  - "肉団子トマト煮"
+  - "キムチ豆腐鍋"
 ---

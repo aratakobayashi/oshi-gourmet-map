@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区目黒本町5-33-27"
 source_video_title: "夕焼け酒場 #378 目黒区目黒本町「酒菜と炭 てりや」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num378"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,9 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "のど黒の炭火焼き"
+  - "白海老のかき揚げ"
+  - "ホタルイカのしゃぶしゃぶ"
+  - "カルボナーラ"
 ---

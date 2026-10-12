@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "鱧のわら炙り"
-  - "万願寺とうがらし焼き"
-  - "よこわのわら炙り"
 ---

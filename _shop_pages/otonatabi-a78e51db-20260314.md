@@ -14,13 +14,10 @@ source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2187401_6111.html"
 group: "otonatabi"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
 source_type: "tv"
-lat: 34.992729
-lng: 135.753479
+lat: 34.992864
+lng: 135.745786
 members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "※大きさによる【時価】"
-  - "京山椒なべ® 一人前"
 ---

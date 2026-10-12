@@ -14,8 +14,8 @@ source_url: "https://www.mbs.jp/4chantv/corner/burasandou/article/2025/09/108031
 group: "yonchan_tv"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pRBhOAS6HV2HAbZl4HRqYdmnb0Y.jpg"
 source_type: "tv"
-lat: 34.992943
-lng: 135.759583
+lat: 34.987563
+lng: 135.759335
 groups:
   - "yonchan_tv"
 ---

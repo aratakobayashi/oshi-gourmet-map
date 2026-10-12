@@ -15,6 +15,6 @@ related_genres:
   - yonino-shokuji
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "定番３種飲み比べ"
-  - "島のフィッシュ＆イカリング"
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区神楽坂1-14 神楽小路みちくさ横町"
 source_video_title: "夕焼け酒場 #93 新宿区「神楽小路 月夜野」（2016年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2016.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2016.html#num93"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "天然ブリのグリル"
 ---

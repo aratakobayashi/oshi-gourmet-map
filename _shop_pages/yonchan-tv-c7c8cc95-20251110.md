@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "八喜為 新開地本店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2025-11-10公開 MBS）で紹介された食事「八喜為 新開地本店」（兵庫県神戸市兵庫区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2025-11-10公開 MBS）で紹介された居酒屋「八喜為 新開地本店」（兵庫県神戸市兵庫区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-c7c8cc95-20251110"
 name: "八喜為 新開地本店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "兵庫県"
 city: "神戸市兵庫区"
 address: "兵庫県神戸市兵庫区新開地3丁目3-17 101"

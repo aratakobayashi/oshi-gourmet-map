@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "やみつきスパイスカレーCAMP"
-description: "よんチャンTV ぶら参道（2024-10-30公開 MBS）で紹介されたスイーツ「やみつきスパイスカレーCAMP」（大阪府藤井寺市）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV ぶら参道（2024-10-30公開 MBS）で紹介された食事「やみつきスパイスカレーCAMP」（大阪府藤井寺市）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-a2668dcf-20241030"
 name: "やみつきスパイスカレーCAMP"
-genre: "sweets"
+genre: "shokuji"
 prefecture: "大阪府"
 city: "藤井寺市"
 address: "大阪府藤井寺市藤井寺1丁目16-39"

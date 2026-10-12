@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "雁木 純米吟醸 みずのわ 1本"
-  - "造り盛り合わせ"
-  - "ハモしゃぶコース"
 ---

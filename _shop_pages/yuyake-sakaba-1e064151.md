@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "目黒区"
 address: "東京都目黒区上目黒2-14-3"
 source_video_title: "夕焼け酒場 #223 目黒区中目黒「もつ焼きばん 中目黒本店」（2019年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2019.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2019.html#num223"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,7 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "激辛トンビ豆腐"
+  - "豚の尾"
 ---

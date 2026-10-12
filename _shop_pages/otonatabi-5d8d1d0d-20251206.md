@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "プレミアム かに尽くし会席 1人前："
-  - "甲羅酒 1合："
 ---

@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "品川区"
 address: "東京都品川区南品川6-18-16"
 source_video_title: "夕焼け酒場 #374 品川区大井町「おでん鶏料理 八幸」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num374"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -23,7 +23,6 @@ groups:
 ordered_items:
   - "なめろう"
   - "鶏刺し"
-  - "おでん"
   - "地養鶏の岩塩焼き"
   - "とうめし"
 ---

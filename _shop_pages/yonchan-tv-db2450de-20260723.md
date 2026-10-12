@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "ステイハングリー 堺東店"
-description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-23公開 MBS）で紹介された食事「ステイハングリー 堺東店」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
+description: "よんチャンTV 昼飲みサンにはワケがある（2026-07-23公開 MBS）で紹介された居酒屋「ステイハングリー 堺東店」（大阪府堺市堺区）。推し活グルメ巡礼スポット。"
 shop_id: "yonchan_tv-db2450de-20260723"
 name: "ステイハングリー 堺東店"
-genre: "shokuji"
+genre: "izakaya"
 prefecture: "大阪府"
 city: "堺市堺区"
 address: "大阪府堺市堺区中瓦町2-3-20"

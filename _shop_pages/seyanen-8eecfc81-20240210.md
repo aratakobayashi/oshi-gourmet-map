@@ -18,6 +18,4 @@ lat: 34.670521
 lng: 135.495148
 groups:
   - "seyanen"
-ordered_items:
-  - "きのこのあんかけ蕎麦"
 ---

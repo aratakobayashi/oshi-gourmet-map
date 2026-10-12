@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "鶏醤油らぁ麺"
-  - "鶏醤油つけそば"
 ---

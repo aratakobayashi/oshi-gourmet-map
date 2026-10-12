@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "特選近江牛4種盛り※内容は日替わり"
-  - "近江牛サーロイン焼しゃぶ"
 ---

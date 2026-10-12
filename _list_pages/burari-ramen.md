@@ -13,6 +13,6 @@ related_genres:
   - burari-washoku
 related_groups:
   - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - omouma-ramen
 ---

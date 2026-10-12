@@ -18,6 +18,4 @@ lat: 34.685745
 lng: 135.499084
 groups:
   - "seyanen"
-ordered_items:
-  - "チヂミランチセット"
 ---

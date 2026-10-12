@@ -18,6 +18,4 @@ lat: 34.690704
 lng: 135.494781
 groups:
   - "seyanen"
-ordered_items:
-  - "松山鯛めし"
 ---

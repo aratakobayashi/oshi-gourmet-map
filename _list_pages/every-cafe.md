@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/67Ha8yFFxzaVPzIMpY8ZQQLGXUF.jpg"
 related_genres:
   - every-shokuji
   - every-washoku
-  - every-ramen
+  - every-chuka
 related_groups:
   - burari-cafe
   - yonchan-tv-cafe

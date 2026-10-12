@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "生ビール"
-  - "牛すじ"
-  - "豚玉（イモ・天ぷらトッピング）"
 ---

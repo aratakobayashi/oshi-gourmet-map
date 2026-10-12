@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "NITOのポテトサラダ"
-  - "鮮魚の塩タタキ"
-  - "宮崎県産きなこ豚のポッサム"
 ---

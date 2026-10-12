@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "1泊2食付き 1人"
-  - "鯨フルコース"
 ---

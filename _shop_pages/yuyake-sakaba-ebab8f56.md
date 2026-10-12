@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "板橋区"
 address: "東京都板橋区高島平8-14-5"
 source_video_title: "夕焼け酒場 #325 板橋区高島平「地鶏・焼酎ウイング」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num325"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "もつ煮込み"
+  - "ミックスピザ"
+  - "焼き鳥"
+  - "悪魔焼き"
+  - "鴨鍋"
 ---

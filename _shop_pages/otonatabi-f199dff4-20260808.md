@@ -20,10 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "M"
-  - "M 100ml"
-  - "M 100ml"
-  - "ボトル 250ml"
-  - "牛すじの煮込み"
 ---

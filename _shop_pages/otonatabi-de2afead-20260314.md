@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "定番 深蒸し茶IPA（"
-  - "限定 Abbey Ale（"
-  - "限定 祝杯（"
 ---

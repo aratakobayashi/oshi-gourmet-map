@@ -20,9 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "マッコリ"
-  - "刺身３種盛り"
-  - "特選タン厚切"
-  - "粋なりステーキ【ひうち】"
 ---

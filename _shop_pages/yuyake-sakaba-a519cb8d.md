@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "豊島区"
 address: "東京都豊島区南池袋1-12-6"
 source_video_title: "夕焼け酒場 #155 豊島区「やきとり 母屋」（2017年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html#num155"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,6 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "親鳥のたたき"
 ---

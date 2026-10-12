@@ -18,6 +18,4 @@ lat: 34.68882
 lng: 135.476517
 groups:
   - "seyanen"
-ordered_items:
-  - "豚吸い出汁巻きとニブタ定食"
 ---

@@ -1,10 +1,10 @@
 ---
 layout: shop
 title: "CHINA進(しん)"
-description: "おとな旅あるき旅 第759回 大阪・中河内石切（2024-11-23 テレビ大阪）で紹介された食事「CHINA進(しん)」（大阪府東大阪市）。推し活グルメ巡礼スポット。"
+description: "おとな旅あるき旅 第759回 大阪・中河内石切（2024-11-23 テレビ大阪）で紹介された中華「CHINA進(しん)」（大阪府東大阪市）。推し活グルメ巡礼スポット。"
 shop_id: "otonatabi-daab68f2-20241123"
 name: "CHINA進(しん)"
-genre: "shokuji"
+genre: "chuka"
 prefecture: "大阪府"
 city: "東大阪市"
 address: "大阪府東大阪市永和2-2-29 1F"
@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "おすすめランチ麻婆豆腐"
-  - "おすすめランチ酢豚"
 ---

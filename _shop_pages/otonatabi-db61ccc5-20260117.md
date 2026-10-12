@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "熱燗 純米 福正宗"
-  - "鶏肝の生姜煮"
-  - "和牛すじと淀大根の炊いたん"
 ---

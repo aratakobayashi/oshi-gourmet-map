@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "ミルク牡蠣のフライ"
-  - "インドマグロ 大トロ 二貫"
-  - "大蛤スープ"
 ---

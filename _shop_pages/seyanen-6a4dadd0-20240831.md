@@ -18,6 +18,4 @@ lat: 34.667313
 lng: 135.503387
 groups:
   - "seyanen"
-ordered_items:
-  - "濃厚エビカレー"
 ---

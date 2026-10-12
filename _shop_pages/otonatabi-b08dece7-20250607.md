@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "四川麻婆豆腐（ライスセット）激辛"
-  - "四川麻婆豆腐（ライスセット）悶絶"
 ---

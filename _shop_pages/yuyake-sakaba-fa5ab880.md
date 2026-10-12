@@ -9,7 +9,7 @@ prefecture: "福島県"
 city: "会津若松市"
 address: "福島県会津若松市上町1-27"
 source_video_title: "夕焼け酒場 #360 福島県会津若松市「さぶろく亭」（2021年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num360"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "さくら刺し"
+  - "にしんの山椒漬け"
+  - "こづゆ"
+  - "揚げ出しもち"
+  - "芋汁"
 ---

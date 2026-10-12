@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "文京区"
 address: "東京都文京区湯島3-39-3"
 source_video_title: "夕焼け酒場 #366 文京区湯島「絵馬亭」（2022年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num366"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,10 @@ members:
   - "武藤十夢"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "手巻きサラダ"
+  - "本まぐろ中落ち"
+  - "海老もろこし揚げ"
+  - "いわし刺し"
+  - "麦とろご飯"
 ---

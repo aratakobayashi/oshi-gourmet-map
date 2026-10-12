@@ -14,8 +14,8 @@ source_url: "https://www.ntv.co.jp/every/feature/20261008.html"
 group: "every"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/67Ha8yFFxzaVPzIMpY8ZQQLGXUF.jpg"
 source_type: "tv"
-lat: 35.657562
-lng: 139.319595
+lat: 35.657158
+lng: 139.314667
 groups:
   - "every"
 ---

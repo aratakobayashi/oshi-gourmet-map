@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "東京都中央区八重洲1-4-9"
 source_video_title: "夕焼け酒場 #31 中央区八重洲「うたげ」（2014年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2014.html#num31"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -20,4 +20,8 @@ members:
   - "西島まどか"
 groups:
   - "yuyake_sakaba"
+ordered_items:
+  - "からしれんこん"
+  - "白さつまあげ"
+  - "すいとん"
 ---

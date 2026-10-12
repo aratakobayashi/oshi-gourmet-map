@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "墨田区"
 address: "東京都墨田区菊川3-17-1"
 source_video_title: "夕焼け酒場 #588 墨田区菊川「焼き鳥はじめ」（2026年 BS-TBS）"
-source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html"
+source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num588"
 group: "yuyake_sakaba"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
 source_type: "tv"
@@ -21,7 +21,6 @@ members:
 groups:
   - "yuyake_sakaba"
 ordered_items:
-  - "焼き鳥"
   - "れんこん肉詰め"
   - "唐揚げ"
   - "ゆびき"

@@ -20,7 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "早なれ寿司 1個（3切）"
-  - "名手酒造店 黒牛 300ml"
 ---

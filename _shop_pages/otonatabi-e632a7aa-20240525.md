@@ -20,8 +20,4 @@ members:
   - "三田村邦彦"
 groups:
   - "otonatabi"
-ordered_items:
-  - "たこ珍味三種"
-  - "明石鯛のお造り"
-  - "伝助穴子のお造り"
 ---

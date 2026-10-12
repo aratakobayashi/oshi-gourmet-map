@@ -18,6 +18,4 @@ lat: 34.686085
 lng: 135.504868
 groups:
   - "seyanen"
-ordered_items:
-  - "麻婆天津飯定食"
 ---
