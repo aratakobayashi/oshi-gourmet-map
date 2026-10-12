@@ -74,6 +74,19 @@
   }
   window.shopUI = { I: I, esc: esc, thumb: thumb, meta: meta, row: row, favs: favs, sort: sortRows, load: loadData };
 
+  // ---------- 外部の予約・宿・広告リンクのクリックを GA4 に記録（どのページのどのボタンが押されたか） ----------
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a[data-aff], a[rel~="sponsored"]');
+    if (!a || typeof window.gtag !== 'function') return;
+    var svc = a.getAttribute('data-aff') || (/a8\.net/.test(a.href) ? 'a8' : /moshimo/.test(a.href) ? 'moshimo' : 'other');
+    window.gtag('event', 'affiliate_click', {
+      aff_service: svc,
+      link_text: (a.textContent || '').trim().slice(0, 40),
+      link_domain: a.hostname,
+      page_type: location.pathname.split('/')[1] || 'top'
+    });
+  });
+
   // ---------- YouTube（タップしたときに埋め込みを読み込む） ----------
   document.addEventListener('click', function (e) {
     var b = e.target.closest('button.yt[data-yt]');

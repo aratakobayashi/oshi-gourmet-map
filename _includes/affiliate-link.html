@@ -29,7 +29,7 @@
   {%- capture aff_href %}https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={{ aff_vc.sid }}&amp;pid={{ aff_pid }}&amp;vc_url={{ include.url | url_encode }}{% endcapture -%}
 {%- endif -%}
 {%- if aff_href != '' -%}
-<a href="{{ aff_href }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
+<a href="{{ aff_href }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener" data-aff="{{ aff_service | default: 'other' }}">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
 {%- else -%}
-<a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="noopener">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
+<a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="noopener" data-aff="{{ aff_service | default: 'other' }}">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
 {%- endif -%}
