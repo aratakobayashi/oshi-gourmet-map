@@ -72531,5 +72531,272 @@
       "牛ほほ肉のコンフィ",
       "夏野菜のトマトソース"
     ]
+  },
+  {
+    "id": "kamenashi-29d930fb-20250514",
+    "name": "Bird",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市鶴見区",
+    "address": "大阪府大阪市鶴見区緑4-1-16",
+    "lat": 34.717537,
+    "lng": 135.562897,
+    "youtube_id": "a9ePEW_lu6A",
+    "source_video_title": "【最高】こだわりの極み。お仕事のついでにずっと行ってみたかった家具屋さんにやっと行けました！",
+    "source_video_url": "https://www.youtube.com/watch?v=a9ePEW_lu6A",
+    "visited_date": "2025-05-14",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://bird-coffee.com/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "ドーナツ カスタード",
+      "アイスコーヒー"
+    ]
+  },
+  {
+    "id": "kamenashi-203ea352-20241218",
+    "name": "をり鶴",
+    "genre": "washoku",
+    "prefecture": "兵庫県",
+    "city": "豊岡市",
+    "address": "兵庫県豊岡市城崎町湯島396",
+    "lat": 35.625694,
+    "lng": 134.808258,
+    "youtube_id": "10CFRaEzqS8",
+    "source_video_title": "【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。",
+    "source_video_url": "https://www.youtube.com/watch?v=10CFRaEzqS8",
+    "visited_date": "2024-12-18",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://fananablog.com/kamenashiyoutube-seichi/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "カニ味噌",
+      "日本酒",
+      "炙ったカニと刺身",
+      "焼きガニ",
+      "セコガニの炙り焼き"
+    ]
+  },
+  {
+    "id": "kamenashi-90116a3d-20241030",
+    "name": "浅草たい焼き工房 求楽",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区西浅草2-3-2",
+    "lat": 35.71209,
+    "lng": 139.789917,
+    "youtube_id": "Z47xKaCmLhM",
+    "source_video_title": "【爆笑】Snow Man 向井康二と浅草でたい焼き作り！一発ギャグ連発で笑いが止まらない。",
+    "source_video_url": "https://www.youtube.com/watch?v=Z47xKaCmLhM",
+    "visited_date": "2024-10-30",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ001279728/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "たい焼き作り体験（チーズ）"
+    ]
+  },
+  {
+    "id": "kamenashi-5a0737a4-20240127",
+    "name": "浅草 もんじゃ かっぱ祭り",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区西浅草1-3-14",
+    "lat": 35.710762,
+    "lng": 139.789841,
+    "youtube_id": "eJcmJmyDR5E",
+    "source_video_title": "【飯テロ】鈴木福と浅草で最高のもんじゃをひたすらにお腹いっぱい食べる。",
+    "source_video_url": "https://www.youtube.com/watch?v=eJcmJmyDR5E",
+    "visited_date": "2024-01-27",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000841486/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "kamenashi-a69bae32-20231213",
+    "name": "東京夢の島マリーナ アウトドアスクウェア",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区夢の島3-2-1",
+    "lat": 35.651981,
+    "lng": 139.832092,
+    "youtube_id": "GEvkhzHTY8E",
+    "source_video_title": "亀梨和也の眉毛が少しずつ太くなっていったら後輩の宮舘涼太はどんな反応をする？",
+    "source_video_url": "https://www.youtube.com/watch?v=GEvkhzHTY8E",
+    "visited_date": "2023-12-13",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kame-date-bbq/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "kamenashi-be0b36e8-20260530",
+    "name": "楊国福マーラータン 東京銀座店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座5-11-13 幸田ビル 1F",
+    "lat": 35.669624,
+    "lng": 139.765533,
+    "youtube_id": "aSEfpZQiqM4",
+    "source_video_title": "【美味】亀梨、初めての麻辣湯。何も分からず周りのお客様に助けてもらいました。",
+    "source_video_url": "https://www.youtube.com/watch?v=aSEfpZQiqM4",
+    "visited_date": "2026-05-30",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kame-malatan/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "麻辣湯（牛すじ麺・麻辣スープ・辛さ1）"
+    ]
+  },
+  {
+    "id": "kamenashi-90e70f7e-20260725",
+    "name": "朝食場 nagayado（HOSTEL NAGAYADO OSAKA）",
+    "genre": "shokuji",
+    "prefecture": "大阪府",
+    "city": "大阪市大正区",
+    "address": "大阪府大阪市大正区三軒家西2-2-15",
+    "lat": 34.666088,
+    "lng": 135.475693,
+    "youtube_id": "EtfW2ImJrcU",
+    "source_video_title": "【大阪】朝から飛ぶほどウマい。築100年の古民家で味わう至福の朝ごはん。",
+    "source_video_url": "https://www.youtube.com/watch?v=EtfW2ImJrcU",
+    "visited_date": "2026-07-25",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kame-osaka-asagohan/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "卵かけごはんセット"
+    ]
+  },
+  {
+    "id": "kamenashi-b569fad1-20260815",
+    "name": "へぎそば地酒処 こんごう庵 湯島店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区湯島3-36-3",
+    "lat": 35.707428,
+    "lng": 139.77034,
+    "youtube_id": "iiTBh8mXD0o",
+    "source_video_title": "【街ブラ】鈴木福とノープラン旅。湯島天神にお参り＆お蕎麦ランチを満喫。",
+    "source_video_url": "https://www.youtube.com/watch?v=iiTBh8mXD0o",
+    "visited_date": "2026-08-15",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000004247/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "夏の冷やしネバトロそば",
+      "天ぷら盛合せ"
+    ]
+  },
+  {
+    "id": "kamenashi-e2f413b9-20260822",
+    "name": "サカノウエカフェ",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区湯島2-22-14 ビュークレスト御茶ノ水 1F",
+    "lat": 35.705021,
+    "lng": 139.767258,
+    "youtube_id": "dvgmf9qO2_E",
+    "source_video_title": "【行列店】2000円超えのかき氷を鈴木福とただただ食べるだけ動画",
+    "source_video_url": "https://www.youtube.com/watch?v=dvgmf9qO2_E",
+    "visited_date": "2026-08-22",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kame-fuku-kakigori/",
+    "source_type": "youtube",
+    "ordered_items": [
+      "かき氷 ももウーロン"
+    ]
+  },
+  {
+    "id": "kamenashi-4008e42e-20261010",
+    "name": "ホルモン・焼き肉 ぼん",
+    "genre": "yakiniku",
+    "prefecture": "山梨県",
+    "city": "富士吉田市",
+    "address": "山梨県富士吉田市下吉田3-12-72",
+    "lat": 35.492092,
+    "lng": 138.802521,
+    "youtube_id": "9KJhCPSnI2U",
+    "source_video_title": "【至福】ストック切れのピンチ！ということで撮影後、焼肉を食べに行ったら最高の味に出会えました",
+    "source_video_url": "https://www.youtube.com/watch?v=9KJhCPSnI2U",
+    "visited_date": "2026-10-10",
+    "members": [
+      "亀梨和也"
+    ],
+    "groups": [
+      "kamenashi"
+    ],
+    "group": "kamenashi",
+    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kame-yamanashi-yakiniku/",
+    "source_type": "youtube"
   }
 ]
