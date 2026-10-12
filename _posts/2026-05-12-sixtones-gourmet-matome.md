@@ -118,8 +118,8 @@ faq:
 
 <h2>SixTONESの聖地 年表</h2>
 <p>お店を動画の公開日の古い順に並べました（日付は推しグルメ巡礼MAPのデータの日付です）。</p>
-<div class="faq"><details><summary>年表をひらく（50軒・日付の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/timeline.svg" alt="SixTONESの聖地 年表：2019年 本所かえる本舗（TOKYOグルメガイド）、奈良のシャトードール（初めての朝活）、ドライブ企画 秩父編の4軒、10万円アポなし旅の御殿場・富士河口湖、Tokyo Drive（渋谷）・Kyoto Drive・Kanazawa Travel。2020年 Shizuoka Travel（焼津）・原宿散歩・屋形船。2022年 アポなしキャンプ旅の朝食（芝公園）、新横浜ラーメン博物館、メンバーだけの忘年会（下北沢）。2023年 MV撮影の合間の横浜中華街・赤レンガ倉庫、スカイツリー（ソラマチ）、パン屋探し、わんこそば、帰ってきたアポなし旅（築地・伊香保）、京本会。2024年 ソラマチの忘年会、八王子ラーメン、西麻布、名古屋の打ち上げ、幕張、わんこ小籠包、アポなし旅 2024夏（宇都宮・佐野SA）、無限焼き鳥。2025年 原宿の朝ラー、江の島、もんじゃ忘年会、名古屋の打上げ、新宿のカフェ。2026年 シンガポール、札幌の打ち上げ、池袋の朝メシ" width="420" height="5116" loading="lazy" decoding="async"><figcaption>日付のない食事処 たねいち・鎌倉 無・Pizzeria e Trattoria da ISAは年表に入れていません。蓬莱橋897.4茶屋はデータの日付（2024年1月）の位置にありますが、動画の公開は2024年6月です</figcaption></figure>
+<div class="faq"><details><summary>年表をひらく（51軒・日付の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/timeline.svg" alt="SixTONESの聖地 年表：2019年 本所かえる本舗（TOKYOグルメガイド）、奈良のシャトードール（初めての朝活）、ドライブ企画 秩父編の4軒、10万円アポなし旅の御殿場・富士河口湖、Tokyo Drive（渋谷）・Kyoto Drive・Kanazawa Travel。2020年 Shizuoka Travel（焼津）・原宿散歩・屋形船。2022年 アポなしキャンプ旅の朝食（芝公園）、新横浜ラーメン博物館、メンバーだけの忘年会（下北沢）。2023年 MV撮影の合間の横浜中華街・赤レンガ倉庫、スカイツリー（ソラマチ）、パン屋探し、わんこそば、帰ってきたアポなし旅（築地・伊香保）、京本会。2024年 ソラマチの忘年会、八王子ラーメン、西麻布、名古屋の打ち上げ、幕張、わんこ小籠包、アポなし旅 2024夏（宇都宮・佐野SA）、無限焼き鳥。2025年 原宿の朝ラー、江の島、もんじゃ忘年会、名古屋の打上げ、新宿のカフェ。2026年 シンガポール、札幌の打ち上げ、池袋の朝メシ" width="420" height="5218" loading="lazy" decoding="async"><figcaption>日付のない鎌倉 無・Pizzeria e Trattoria da ISAは年表に入れていません</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
