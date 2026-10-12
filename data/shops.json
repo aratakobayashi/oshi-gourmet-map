@@ -73168,5 +73168,557 @@
       "チーズキムチチヂミ",
       "カンジャンケジャン"
     ]
+  },
+  {
+    "id": "shiori-71a159f7-20250625",
+    "name": "大甚本店",
+    "genre": "izakaya",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区栄1-5-6",
+    "lat": 35.168068,
+    "lng": 136.897003,
+    "youtube_id": "otcKzVhKH1g",
+    "source_video_title": "【はしご酒】弾丸名古屋で5軒飲み食い倒れ！〆は大盛り魚介つけ麺♩",
+    "source_video_url": "https://www.youtube.com/watch?v=otcKzVhKH1g",
+    "visited_date": "2025-06-25",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://page.line.me/960uauwg",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-d8cd9382-20260514",
+    "name": "CARAVAN TORANOMON",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区虎ノ門1-17-1 虎ノ門ヒルズ ビジネスタワー 3階 横丁",
+    "lat": 35.667774,
+    "lng": 139.749924,
+    "youtube_id": "XIdVCsg7WB8",
+    "source_video_title": "【1人はしご酒】港区で4軒、1人ひたすらに酒場をはしごする女",
+    "source_video_url": "https://www.youtube.com/watch?v=XIdVCsg7WB8",
+    "visited_date": "2026-05-14",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ004403292/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-cea7cf88-20251120",
+    "name": "大衆食堂2.0 とぽす",
+    "genre": "izakaya",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区桜木町1-1 ぴおシティビル B",
+    "lat": 35.453564,
+    "lng": 139.629242,
+    "youtube_id": "-ogh2ojyfFE",
+    "source_video_title": "【横浜はしご酒】安！早！旨！1人4軒はしご酒in野毛ぴおシティ🍶",
+    "source_video_url": "https://www.youtube.com/watch?v=-ogh2ojyfFE",
+    "visited_date": "2025-11-20",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ001266753/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-03b9f4cd-20250417",
+    "name": "豚坊",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野6-11-6",
+    "lat": 35.710968,
+    "lng": 139.774567,
+    "youtube_id": "GodYqBEtTio",
+    "source_video_title": "【花より団子】ソロ花見に行ったつもりがあれ？なんでかはしご酒【上野】",
+    "source_video_url": "https://www.youtube.com/watch?v=GodYqBEtTio",
+    "visited_date": "2025-04-17",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000814016/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-8d370a9e-20251009",
+    "name": "えどもんど 新橋",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区新橋4-6-7",
+    "lat": 35.664906,
+    "lng": 139.755234,
+    "youtube_id": "2ktgonUyFBQ",
+    "source_video_title": "【デビュー戦】初めての二郎系ラーメンに挑戦！ビビりながら食べてきたんだけど完全に沼…",
+    "source_video_url": "https://www.youtube.com/watch?v=2ktgonUyFBQ",
+    "visited_date": "2025-10-09",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://sauna-ikitai.com/restaurants/221323",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-393c116c-20251127",
+    "name": "花月（元祖南湖だんご）",
+    "genre": "sweets",
+    "prefecture": "福島県",
+    "city": "白河市",
+    "address": "福島県白河市南湖2",
+    "lat": 37.11021,
+    "lng": 140.219833,
+    "youtube_id": "UKryrVthTSw",
+    "source_video_title": "日帰りプチ旅行in福島！朝から飲んで魅力に酔いしれた1日🍶",
+    "source_video_url": "https://www.youtube.com/watch?v=UKryrVthTSw",
+    "visited_date": "2025-11-27",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://shirakawa315.com/recommendcp/%E8%8A%B1%E6%9C%88/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-8b126e63-20241202",
+    "name": "玄鷹斎 武蔵小山",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区小山3-5-19",
+    "lat": 35.621399,
+    "lng": 139.704422,
+    "youtube_id": "5q3bWbm64qA",
+    "source_video_title": "【ムサコ】武蔵小山で１人、四軒はしご酒",
+    "source_video_url": "https://www.youtube.com/watch?v=5q3bWbm64qA",
+    "visited_date": "2024-12-02",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000812515/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-6fe822e4-20240327",
+    "name": "上野 和牛焼肉 USHIHACHI 極",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野7-2-4 FUNDES上野 10F",
+    "lat": 35.712669,
+    "lng": 139.77739,
+    "youtube_id": "59h3OAganxk",
+    "source_video_title": "【一人焼肉】たまにはいいよね！黒毛和牛を焼いて飲む♩",
+    "source_video_url": "https://www.youtube.com/watch?v=59h3OAganxk",
+    "visited_date": "2024-03-27",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://ushihachiueno.owst.jp",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-b2a8ea86-20231111",
+    "name": "ESOLA 代々木上原店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区上原1-35-2 上原銀座ビル1F",
+    "lat": 35.669758,
+    "lng": 139.682114,
+    "youtube_id": "ykFo1VkamDE",
+    "source_video_title": "【無限ワイン】最高なお店を見つけて過去一の飲みっぷりを発揮した夜です！！！",
+    "source_video_url": "https://www.youtube.com/watch?v=ykFo1VkamDE",
+    "visited_date": "2023-11-11",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ003614016/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-ff3029a5-20240513",
+    "name": "東京ギョーザスタンド ウーロン",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区丸の内1-9-1 グランスタ東京 B1F",
+    "lat": 35.681252,
+    "lng": 139.767242,
+    "youtube_id": "ZRsiGOtbeoU",
+    "source_video_title": "東京駅構内で3軒はしご酒！最後はウイスキーバーで〆て大満足な仕事終わり",
+    "source_video_url": "https://www.youtube.com/watch?v=ZRsiGOtbeoU",
+    "visited_date": "2024-05-13",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=ZRsiGOtbeoU",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-d9f4a0c6-20240425",
+    "name": "杜記 中華第一家 横浜中華街",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町147 ヒナガタビル1F",
+    "lat": 35.443027,
+    "lng": 139.64595,
+    "youtube_id": "4DUgsFdRQso",
+    "source_video_title": "【横浜中華街】制限時間1時間半、全力で食べ飲み歩いてきたよ！！！！",
+    "source_video_url": "https://www.youtube.com/watch?v=4DUgsFdRQso",
+    "visited_date": "2024-04-25",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ003984540/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-1b45d585-20231009",
+    "name": "魚屋ナチュラルスタンド 潮騒 学芸大学店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区鷹番3-1-4 1階",
+    "lat": 35.629452,
+    "lng": 139.686066,
+    "youtube_id": "_vfKJC2gj4Y",
+    "source_video_title": "【はしご酒】イケてる飲み屋街！学大で飲んどけばとりあえずオシャレ！！(偏見",
+    "source_video_url": "https://www.youtube.com/watch?v=_vfKJC2gj4Y",
+    "visited_date": "2023-10-09",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ004049094/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-82c86563-20201014",
+    "name": "中華厨房 らんたな",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区三軒茶屋1-36-13 1F",
+    "lat": 35.643169,
+    "lng": 139.671432,
+    "youtube_id": "Dtws1MXX_VQ",
+    "source_video_title": "【三茶はしご酒】三軒茶屋にて女1人で飲み歩いてきた！",
+    "source_video_url": "https://www.youtube.com/watch?v=Dtws1MXX_VQ",
+    "visited_date": "2020-10-14",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ000138194/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-ce992dbe-20211024",
+    "name": "鯉とうなぎのまるます家 総本店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "北区",
+    "address": "東京都北区赤羽1-17-7",
+    "lat": 35.779945,
+    "lng": 139.720535,
+    "youtube_id": "ydMhH-U3AmQ",
+    "source_video_title": "【赤羽はしご酒】赤羽一人昼飲みは楽しすぎて危ないよ！！！",
+    "source_video_url": "https://www.youtube.com/watch?v=ydMhH-U3AmQ",
+    "visited_date": "2021-10-24",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://allabout.co.jp/gm/gc/463889/image/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-5c5440ac-20211024",
+    "name": "もつ焼のんき 赤羽",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "北区",
+    "address": "東京都北区赤羽1-19-16",
+    "lat": 35.780136,
+    "lng": 139.720169,
+    "youtube_id": "ydMhH-U3AmQ",
+    "source_video_title": "【赤羽はしご酒】赤羽一人昼飲みは楽しすぎて危ないよ！！！",
+    "source_video_url": "https://www.youtube.com/watch?v=ydMhH-U3AmQ",
+    "visited_date": "2021-10-24",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=ydMhH-U3AmQ",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-94967a87-20211125",
+    "name": "立呑風太くん",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区阿佐谷北2-12-5",
+    "lat": 35.705128,
+    "lng": 139.634705,
+    "youtube_id": "b6tLNyOfbjY",
+    "source_video_title": "【阿佐ヶ谷はしご酒】阿佐ヶ谷で女1人、昼から三軒はしご酒！日本酒も飲んだよ",
+    "source_video_url": "https://www.youtube.com/watch?v=b6tLNyOfbjY",
+    "visited_date": "2021-11-25",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.tv-tokyo.co.jp/adomachi/backnumber/20140419/101031.html",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-34a78885-20211125",
+    "name": "Gift食堂 阿佐ヶ谷",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "東京都杉並区阿佐谷南1-34-12",
+    "lat": 35.701687,
+    "lng": 139.636658,
+    "youtube_id": "b6tLNyOfbjY",
+    "source_video_title": "【阿佐ヶ谷はしご酒】阿佐ヶ谷で女1人、昼から三軒はしご酒！日本酒も飲んだよ",
+    "source_video_url": "https://www.youtube.com/watch?v=b6tLNyOfbjY",
+    "visited_date": "2021-11-25",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://aumo.jp/articles/31902",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-8381712c-20211117",
+    "name": "ソルティカージャガル",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町2-9-15 ライオンズマンション2F",
+    "lat": 35.702244,
+    "lng": 139.699783,
+    "youtube_id": "4TLy8em6654",
+    "source_video_title": "【シブウマい店】新大久保のあまりにディープで入るのをためらう店に1人で突撃する女",
+    "source_video_url": "https://www.youtube.com/watch?v=4TLy8em6654",
+    "visited_date": "2021-11-17",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://san-tatsu.jp/spots/136467/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-05322e88-20211017",
+    "name": "沸騰小吃城",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区西池袋1-43-7 3F",
+    "lat": 35.73304,
+    "lng": 139.710938,
+    "youtube_id": "ai6Tt8nK-ro",
+    "source_video_title": "【ガチ中華】ニューオープン！池袋に中国あった【チャイナタウン】",
+    "source_video_url": "https://www.youtube.com/watch?v=ai6Tt8nK-ro",
+    "visited_date": "2021-10-17",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ001286531/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-00b3aeca-20220424",
+    "name": "魚三酒場 富岡店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区富岡1-5-4",
+    "lat": 35.67104,
+    "lng": 139.797577,
+    "youtube_id": "Zf7VIQF-xmM",
+    "source_video_title": "【門前仲町はしご酒】行列のできる伝説居酒屋から大衆系まで！昼から一人はしご酒",
+    "source_video_url": "https://www.youtube.com/watch?v=Zf7VIQF-xmM",
+    "visited_date": "2022-04-24",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://retty.me/restaurant/100000020994/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-a950dbd9-20220730",
+    "name": "おすすめ屋 池袋店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区南池袋2-26-10 アクティオーレ南池袋8階",
+    "lat": 35.727943,
+    "lng": 139.713608,
+    "youtube_id": "099SAxYemGc",
+    "source_video_title": "【爆安】2時間2000円でしこたま食べ飲み放題できちゃうお店知ってる？【おすすめ屋】",
+    "source_video_url": "https://www.youtube.com/watch?v=099SAxYemGc",
+    "visited_date": "2022-07-30",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ001179668/",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-1e45dcc9-20221007",
+    "name": "スリマンガラム A/C 祖師ヶ谷大蔵",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区祖師谷3-33-2 三興ビル 地下1階",
+    "lat": 35.643711,
+    "lng": 139.608475,
+    "youtube_id": "xcjwygDWeyc",
+    "source_video_title": "素手で食べるカレー、5倍おいしい",
+    "source_video_url": "https://www.youtube.com/watch?v=xcjwygDWeyc",
+    "visited_date": "2022-10-07",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.timeout.jp/tokyo/ja/news/sri-mangalam-soshigayaookura-061622",
+    "source_type": "youtube"
+  },
+  {
+    "id": "shiori-17ea769b-20250911",
+    "name": "おさしみ天国 小田原海鮮ゴーゴー",
+    "genre": "washoku",
+    "prefecture": "神奈川県",
+    "city": "小田原市",
+    "address": "神奈川県小田原市早川1-28 漁港の駅 TOTOCO小田原 3F",
+    "lat": 35.230835,
+    "lng": 139.142639,
+    "youtube_id": "6miLz9bHJgk",
+    "source_video_title": "【日帰り小田原】1人でふらっと旅に出たくなったので。おすすめ海鮮食べ放題で爆食も🦞",
+    "source_video_url": "https://www.youtube.com/watch?v=6miLz9bHJgk",
+    "visited_date": "2025-09-11",
+    "members": [
+      "しおり"
+    ],
+    "groups": [
+      "shiori"
+    ],
+    "group": "shiori",
+    "description": "しおりがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.hotpepper.jp/strJ004090069/",
+    "source_type": "youtube"
   }
 ]
