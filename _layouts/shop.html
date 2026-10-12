@@ -38,6 +38,10 @@ body_class: has-sticky
   {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' and vc.ikyu_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
 {%- endif -%}
 {%- if c.hk and site.affiliate.rakuten.id != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+{%- if vc.linkswitch_pid != '' -%}
+  {%- if tb_url or s.hotpepper_url or c.hk -%}{%- assign has_promo = true -%}{%- endif -%}
+  {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
+{%- endif -%}
 
 {%- comment -%}
   ルート・Googleマップは「店名＋住所」で案内する（座標が地域の中心になっている店があり、座標だと別の場所へ案内されるため）。
@@ -89,6 +93,7 @@ body_class: has-sticky
         {%- if s.closed %}<span class="badge badge--closed">閉店</span>{% endif %}
       </p>
       <h1 class="shop__name">{{ s.name }}</h1>
+      {%- if has_promo %}<p class="pr-note pr-note--top">#アフィリエイト広告　本ページはプロモーションを含みます</p>{% endif %}
       {%- if s.description %}<p class="shop__desc">{{ s.description }}</p>{% endif %}
 
       <dl class="facts facts--row">
@@ -141,7 +146,6 @@ body_class: has-sticky
     <aside class="shop__s" id="go">
       <div class="action">
         <h2 class="h2">この店に行くなら</h2>
-        {%- if has_promo %}<p class="pr-note">本ページはプロモーションを含みます</p>{% endif %}
         {%- if can_book %}
         <div class="action__group">
           <p class="action__label">予約する</p>

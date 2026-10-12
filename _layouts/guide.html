@@ -25,7 +25,9 @@ layout: default
       <p class="art__badges">{% if cat %}<span class="badge badge--ink">{{ cat.label }}</span>{% endif %}</p>
       <h1 class="art__title">{{ page.title }}</h1>
       <p class="art__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }} 公開</time>{% if page.last_modified_at and page.last_modified_at != page.date %}・{{ page.last_modified_at | date: "%Y.%m.%d" }} 更新{% endif %}</p>
-      {%- if page.pr %}<p class="pr-note" style="margin-top:4px">本ページはプロモーションを含みます</p>{% endif %}
+      {%- assign _promo = page.pr -%}
+      {%- if venue and vn and site.affiliate.valuecommerce.linkswitch_pid != '' -%}{%- assign _promo = true -%}{%- endif -%}
+      {%- if _promo %}<p class="pr-note pr-note--top">#アフィリエイト広告　本ページはプロモーションを含みます</p>{% endif %}
       {%- if page.summary %}
       <div class="points"><b>この記事の要点</b><ul>{% for item in page.summary %}<li>{{ item }}</li>{% endfor %}</ul></div>
       {%- endif %}

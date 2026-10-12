@@ -28,7 +28,14 @@
 {%- elsif aff_vc.sid and aff_vc.sid != '' and aff_pid and aff_pid != '' -%}
   {%- capture aff_href %}https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={{ aff_vc.sid }}&amp;pid={{ aff_pid }}&amp;vc_url={{ include.url | url_encode }}{% endcapture -%}
 {%- endif -%}
-{%- if aff_href != '' -%}
+{%- comment -%} LinkSwitch: URLはそのまま（クリック時にバリューコマースのスクリプトが変換する）。広告なので rel="sponsored" {%- endcomment -%}
+{%- assign aff_ls = false -%}
+{%- if aff_href == '' and aff_vc.linkswitch_pid and aff_vc.linkswitch_pid != '' -%}
+  {%- if aff_service == 'tabelog' or aff_service == 'hotpepper' or aff_service == 'ikyu' or aff_service == 'jalan' -%}{%- assign aff_ls = true -%}{%- endif -%}
+{%- endif -%}
+{%- if aff_ls -%}
+<a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener" data-aff="{{ aff_service }}">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
+{%- elsif aff_href != '' -%}
 <a href="{{ aff_href }}" class="{{ include.class }}" target="_blank" rel="sponsored noopener" data-aff="{{ aff_service | default: 'other' }}">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
 {%- else -%}
 <a href="{{ include.url }}" class="{{ include.class }}" target="_blank" rel="noopener" data-aff="{{ aff_service | default: 'other' }}">{{ include.label }}{% if include.arrow %}<span aria-hidden="true">→</span>{% endif %}</a>
