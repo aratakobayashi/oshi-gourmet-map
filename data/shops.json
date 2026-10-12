@@ -70426,31 +70426,6 @@
     "tmdb_type": "tv"
   },
   {
-    "id": "timelesz-2fee741b-20260726",
-    "name": "フレンチ串揚げ BEIGNET 東京",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区大手町2-6-4 常盤橋タワー1F",
-    "lat": 35.684868,
-    "lng": 139.769455,
-    "source_video_title": "timeleszファミリア「大人の嗜みファミリア Petit」（2026年7月26日 日本テレビ）",
-    "visited_date": "2026-07-26",
-    "members": [
-      "橋本将生"
-    ],
-    "groups": [
-      "timelesz"
-    ],
-    "group": "timelesz",
-    "description": "timeleszファミリア「大人の嗜みファミリア Petit」（2026年7月26日 日本テレビ）で橋本将生が訪れたお店。",
-    "source_url": "https://idol-portal.com/archives/885",
-    "source_type": "tv",
-    "ordered_items": [
-      "コース「Floraison 開花」"
-    ]
-  },
-  {
     "id": "timelesz-e8f00d91-20240919",
     "name": "もんじゃ 大木屋 日暮里本店",
     "genre": "washoku",
@@ -70524,7 +70499,8 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000243570/"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000243570/",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/15/93/P022581593/P022581593_238.jpg"
   },
   {
     "id": "timelesz-9610d641-20240919",
@@ -70550,7 +70526,8 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ003497544/"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003497544/",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/53/49/P041215349/P041215349_238.jpg"
   },
   {
     "id": "timelesz-6b864d4d-20260728",
@@ -70601,7 +70578,8 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ004510232/"
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004510232/",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/16/08/P049481608/P049481608_238.jpg"
   },
   {
     "id": "timelesz-7d382f6a-20260728",
