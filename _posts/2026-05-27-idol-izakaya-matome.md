@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った居酒屋まとめ【81軒】しおりのはしご酒・=LOVEの赤羽と高円寺・鳥貴族に2組まで15組"
-description: "しおりのなんとなく日常・=LOVE・Snow Man・SixTONES・亀梨和也・孤独のグルメなど15組の動画や番組に登場した居酒屋・飲み屋81軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。同じチェーンに別々のグループが行った店や、はしご酒のエリアは図と一覧でひと目で。"
+title: "アイドル・芸能人が行った居酒屋まとめ【76軒】しおりのはしご酒・=LOVEの赤羽と高円寺・鳥貴族に2組まで15組"
+description: "しおりのなんとなく日常・=LOVE・Snow Man・SixTONES・亀梨和也・孤独のグルメなど15組の動画や番組に登場した居酒屋・飲み屋76軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。同じチェーンに別々のグループが行った店や、はしご酒のエリアは図と一覧でひと目で。"
 date: 2026-05-27
 last_modified_at: 2026-10-10
 categories: [グルメ, 居酒屋]
@@ -10,9 +10,9 @@ article_type: genre
 genre: 居酒屋
 thumbnail_video_id: 3bVqyOhEmjc
 summary:
-  - "15組のグループ・番組に登場した居酒屋・飲み屋81軒。しおりのなんとなく日常が21軒、=LOVEが14軒"
+  - "15組のグループ・番組に登場した居酒屋・飲み屋76軒。しおりのなんとなく日常が18軒、=LOVEが14軒"
   - "鳥貴族・串カツ田中・釣船茶屋ざうお・う福に2組ずつ（店舗は別）"
-  - "81軒のうち58軒が東京都。渋谷区13・新宿区9、高円寺・赤羽・函館・横浜西口ははしご酒の回でまとまって登場"
+  - "76軒のうち57軒が東京都。渋谷区13・新宿区9、高円寺・赤羽・函館・横浜西口ははしご酒の回でまとまって登場"
   - "お店ごとに動画の回・タイトル・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - shiori-97aca417-20260331
@@ -93,7 +93,7 @@ shop_ids:
   - heysayjump-bee-20170201
 faq:
   - q: "アイドル・芸能人が行った居酒屋は、どのグループのお店が多いですか？"
-    a: "この記事の81軒では、しおりのなんとなく日常が21軒で最も多く、=LOVEが14軒で続きます。孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・SixTONES・よにのちゃんねる・亀梨和也・King & Princeが4軒ずつです。"
+    a: "この記事の76軒では、しおりのなんとなく日常が18軒で最も多く、=LOVEが14軒で続きます。孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・よにのちゃんねる・King & Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつです。"
   - q: "いくつものグループが行った居酒屋チェーンはありますか？"
     a: "鳥貴族には=LOVE（大久保駅西店）と≒JOY（新宿小滝橋通り店）の2組が訪れています。串カツ田中は=LOVEと≒JOY、釣船茶屋ざうおは亀梨和也と≠ME、う福はしおりのなんとなく日常と亀梨和也が、それぞれ別の店舗に行っています。"
   - q: "=LOVEのはしご酒の回ではどこに行きましたか？"
@@ -101,27 +101,27 @@ faq:
   - q: "しおりのなんとなく日常のはしご酒はどのエリアですか？"
     a: "横浜西口（2021年11月）、新橋（2022年3月・2024年9月）、新宿の思い出横丁（2023年9月）、渋谷（2024年3月）、新宿・代々木（2025年4月）、沼津（2026年1月）、函館（2026年3月）、恵比寿（2026年5月）などの回があります。"
   - q: "推しが行った居酒屋を地図で見られますか？"
-    a: "「お店を探す」でジャンルを居酒屋にすると、この記事の81軒を含め、推しグルメ巡礼MAPに登録されている居酒屋を地図で見られます。"
+    a: "「お店を探す」でジャンルを居酒屋にすると、この記事の76軒を含め、推しグルメ巡礼MAPに登録されている居酒屋を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#7c3aed">
 
 <p>昼から飲み歩くはしご酒、ライブの打ち上げ、自分で釣った魚をその場で食べる居酒屋。推しのグラスが空くたびに、次のお店が気になってきます。</p>
 
-<p>この記事では、<strong>15組</strong>のグループ・番組の動画や放送に登場した居酒屋・飲み屋<strong>81軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>15組</strong>のグループ・番組の動画や放送に登場した居酒屋・飲み屋<strong>76軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しの居酒屋</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しの居酒屋</p>
-    <p class="pf-card__yomi">15組の動画・番組から81軒</p>
+    <p class="pf-card__yomi">15組の動画・番組から76軒</p>
     <span class="pf-card__color"><i></i>居酒屋</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>81軒</dd></div>
+    <div><dt>お店の数</dt><dd>76軒</dd></div>
     <div><dt>グループ・番組</dt><dd>15組</dd></div>
-    <div><dt>多いグループ</dt><dd>しおり（21軒）・=LOVE（14軒）</dd></div>
+    <div><dt>多いグループ</dt><dd>しおり（18軒）・=LOVE（14軒）</dd></div>
     <div><dt>多いエリア</dt><dd>渋谷区（13軒）・新宿区（9軒）</dd></div>
     <div><dt>2組が行ったチェーン</dt><dd>鳥貴族・串カツ田中・ざうお・う福</dd></div>
     <div><dt>はしご酒の街</dt><dd>高円寺・赤羽・函館・横浜西口</dd></div>
@@ -129,18 +129,18 @@ faq:
 </div>
 
 <div class="pf-nums">
-  <div><b>81<small>軒</small></b><span>この記事の居酒屋・飲み屋</span></div>
+  <div><b>76<small>軒</small></b><span>この記事の居酒屋・飲み屋</span></div>
   <div><b>15<small>組</small></b><span>登場したグループ・番組</span></div>
   <div><b>4<small>つ</small></b><span>2組以上が別々の店舗に行ったチェーン</span></div>
   <div><b>{{ site.data.site_stats.genres.izakaya }}<small>軒</small></b><span>このサイトに登録されている居酒屋ぜんぶ</span></div>
 </div>
 
 <h2>どのグループの居酒屋？</h2>
-<p>ひとりでも飲み歩くYouTuber「しおりのなんとなく日常」が21軒、メンバーのはしご酒の回が多い=LOVEが14軒。この2組で81軒のうち35軒です。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/groups.svg" alt="どのグループの居酒屋か：しおり21軒、=LOVE 14軒、孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・SixTONES・よにのちゃんねる・亀梨和也・King &amp; Princeが4軒ずつ、かまいたち3軒、≒JOY 2軒、≠ME・銀河チャンネル・Hey! Say! JUMPが1軒ずつ" width="420" height="682" loading="lazy" decoding="async"><figcaption>この記事の81軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<p>ひとりでも飲み歩くYouTuber「しおりのなんとなく日常」が18軒、メンバーのはしご酒の回が多い=LOVEが14軒。この2組で76軒のうち32軒です。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/groups.svg" alt="どのグループの居酒屋か：しおり18軒、=LOVE 14軒、孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・よにのちゃんねる・King &amp; Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつ、≒JOY 2軒、≠ME・銀河チャンネル・Hey! Say! JUMPが1軒ずつ" width="420" height="682" loading="lazy" decoding="async"><figcaption>この記事の76軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/area.svg" alt="お店の場所：東京58軒、関東（東京以外）8軒、北海道・東北7軒、中部4軒、中国・四国・九州・沖縄・近畿・海外が1軒ずつ。東京都のなかでは渋谷区13軒、新宿区9軒、港区6軒、杉並区6軒、中央区5軒、台東区4軒、品川区4軒など。東京都のほかでは北海道5軒、神奈川県5軒、静岡県・福島県・埼玉県が2軒ずつなど" width="420" height="726" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/area.svg" alt="お店の場所：東京57軒、関東（東京以外）8軒、北海道・東北4軒、中部4軒、近畿・中国・四国・九州・沖縄が1軒ずつ。東京都のなかでは渋谷区13軒、新宿区9軒、港区6軒、杉並区6軒、中央区5軒、台東区4軒、品川区4軒など。東京都のほかでは神奈川県5軒、北海道・静岡県・福島県・埼玉県が2軒ずつなど" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>同じチェーンに、別のグループが</h2>
 <p>店舗は別々でも、同じ看板のお店に何組も訪れています。推しどうしの「同じもの」を食べ比べられるのは、チェーン店ならではです。</p>
@@ -159,7 +159,7 @@ faq:
 <div class="pf-quote"><p>鳥貴族は2組、ざうおは「釣って食べる」が2組。タイトルに【爆食】【大漁】が並ぶのを見ると、みんなで盛り上がれるお店が動画に向いているのが分かります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>しおりのなんとなく日常：ひとりのはしご酒</h2>
-<p>ひとりで、昼から、何軒も。YouTubeチャンネル「しおりのなんとなく日常」のはしご酒の回から20軒です。</p>
+<p>ひとりで、昼から、何軒も。YouTubeチャンネル「しおりのなんとなく日常」のはしご酒の回から17軒です。</p>
 <ul class="pf-works">
   <li><span class="k">2021<br>11月</span><div><b>横浜西口一番街・沼田・しげ吉・はなたれ</b><span>【横浜西口はしご酒】横浜のはしご酒スポットで昼からしこたま飲み食いしてきた！！！</span></div></li>
   <li><span class="k">2022<br>3月</span><div><b>赤札屋</b><span>【新橋】学生時代通い詰めた大衆居酒屋はやっぱり最強でした【1人飲み】</span></div></li>
@@ -170,8 +170,8 @@ faq:
   <li><span class="k">2024<br>9月</span><div><b>ニュー新橋ビル</b><span>【新橋】昭和香るカオスなビルで昼から3軒はしご酒！【たのしい】</span></div></li>
   <li><span class="k">2025<br>4月</span><div><b>ヤキガキヤ oyster&amp;wine・サンカク</b><span>【外飲みキモチエ〜】穴場はしご酒スポットで四軒はしご酒！in新宿・代々木</span></div></li>
   <li><span class="k">2026<br>1月</span><div><b>沼津倶楽部</b><span>【酒豪】朝から晩まで飲み続けて過去一酔っ払ったご褒美旅静岡･沼津</span></div></li>
-  <li><span class="k">2026<br>3月</span><div><b>自由市場・大門横丁（函館）</b><span>【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】</span></div></li>
-  <li><span class="k">2026<br>3月</span><div><b>ラッキーピエロ・ハセガワストア・セイコーマート</b><span>【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！</span></div></li>
+  <li><span class="k">2026<br>3月</span><div><b>大門横丁（函館）</b><span>【北海道】1人でうまいもん食べて飲んで、ひたすら自由を謳歌する旅【デトックス】</span></div></li>
+  <li><span class="k">2026<br>3月</span><div><b>ラッキーピエロ</b><span>【北海道】函館名物を買いまくってホテル飲みがあまりに楽しかったので見てー！</span></div></li>
   <li><span class="k">2026<br>5月</span><div><b>Flamingo 恵比寿</b><span>【1人はしご酒】港区で4軒、1人ひたすらに酒場をはしごする女</span></div></li>
 </ul>
 {% include inline-shop-grid.html ids="shiori-af65a7dc-20211105,shiori-57dd9722-20211105,shiori-d49febf1-20211105,shiori-5fd9a689-20211105,shiori-4119a061-20220305,shiori-52fdb689-20220606,shiori-b0e7ec20-20220912,shiori-a5bba78c-20230903,shiori-new_light-20240316,shiori-the_music_bar_cave_s-20240316,shiori-e3c454bd-20240914,shiori-oyster_wine-20250425,shiori-cd799a2d-20250425,shiori-1265afbe-20260120,shiori-b57ee974-20260322,shiori-97aca417-20260331,shiori-flamingo-20260514" %}
@@ -197,7 +197,6 @@ faq:
   <li><span class="k">2026<br>1月</span><div><b>俺の割烹 炉ばた 恵比寿</b><span>Snow Man【炉端焼きを食べたい！】足湯したくなるほどのおいしさ！？／フォアグラとトリュフの土鍋ご飯、蟹といくらの土鍋ご飯、大トロ鰯原始焼き、大海老原始焼き</span></div></li>
   <li><span class="k">2026<br>4月</span><div><b>浅草むぎとろ本店</b><span>Snow Man【むぎとろを食べたい！】すのちゅーぶ初の飲酒！？</span></div></li>
   <li><span class="k">2019<br>10月</span><div><b>串焼げん 江戸川橋店</b><span>Snow Man【絶品串焼き】渡辺翔太の食べたいものは？（ジュニアCHANNEL）</span></div></li>
-  <li><span class="k">2022<br>12月</span><div><b>蘭蝶（大森）</b><span>SixTONES／【SixTONES】下北沢で朝メシ食おうと散歩したら...</span></div></li>
   <li><span class="k">2023<br>11月</span><div><b>浮曇（うきぐもり・伊香保）</b><span>SixTONES【帰ってきたアポなし旅~最終話~】ただメシ食って…温泉入る</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>くるみ 新栄店（名古屋）</b><span>SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！</span></div></li>
   <li><span class="k">2024<br>11月</span><div><b>鳥元 新宿西口店</b><span>SixTONES【無限シリーズ~焼き鳥】オレたち…永遠に食える！</span></div></li>
@@ -220,7 +219,6 @@ faq:
   <li><span class="k">2022<br>10月</span><div><b>Andhra Dining GINZA</b><span>King & Prince『King&amp;Princeる。』当たり前レストラン</span></div></li>
   <li><span class="k">2022<br>10月</span><div><b>富錦樹台菜香檳 コレド室町テラス店</b><span>King & Prince『King&amp;Princeる。』当たり前レストラン</span></div></li>
   <li><span class="k">2024<br>2月</span><div><b>鳥焼 萬歳亭（宮崎）</b><span>亀梨和也【晩酌】亀梨和也、宮崎の地鶏としっぽり1人飲み。</span></div></li>
-  <li><span class="k">2024<br>11月</span><div><b>Beschle（スイス・バーゼル）</b><span>亀梨和也／スイスを訪れた回から</span></div></li>
   <li><span class="k">2017<br>2月</span><div><b>ダイニングダーツバー Bee 新宿店</b><span>Hey! Say! JUMP『いただきハイジャンプ』女子会向けスイーツ特集</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>KORIN</b><span>中丸雄一 銀河チャンネル／銀座</span></div></li>
 </ul>
@@ -262,12 +260,12 @@ faq:
   <li><strong>赤羽</strong>：=LOVEの赤羽 もつ焼のんき・やきとん 大王 赤羽店（どちらも赤羽駅 徒歩5分）。</li>
   <li><strong>新宿</strong>：しおりの思い出横丁（新宿西口駅 徒歩1分）、SixTONESの鳥元 新宿西口店（新宿駅 徒歩2分）、亀梨和也の釣船茶屋 ざうお 新宿店（新宿駅 徒歩1分）、≒JOYの鳥貴族 新宿小滝橋通り店（西武新宿駅 徒歩3分）。</li>
   <li><strong>代々木・恵比寿</strong>：しおりのヤキガキヤ・サンカク（代々木駅 徒歩2分）・う福 代々木店（代々木駅 徒歩3分）。恵比寿駅の近くにはSnow Manの俺の割烹 炉ばた 恵比寿（徒歩2分）としおりのFlamingo 恵比寿（徒歩2分）。</li>
-  <li><strong>函館</strong>：しおりの大門横丁（函館駅前駅 徒歩3分）・自由市場（新川町駅 徒歩1分）。</li>
+  <li><strong>函館</strong>：しおりの大門横丁（函館駅前駅 徒歩3分）。</li>
 </ul>
 
 <div class="pf-cta">
   <p>推しが行った居酒屋を、地図でぜんぶ見る</p>
-  <span>この記事の81軒のほかにも、グループや番組に登場した居酒屋を地図で探せます。行きたいお店は保存して、はしご酒の計画に。</span>
+  <span>この記事の76軒のほかにも、グループや番組に登場した居酒屋を地図で探せます。行きたいお店は保存して、はしご酒の計画に。</span>
   <a class="btn" href="/shops/?genre=izakaya&amp;view=map">地図で居酒屋を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>。グループごとのお店は<a href="{{ site.data.group_ix.shiori.u }}">しおりのなんとなく日常</a>・<a href="{{ site.data.group_ix.equal_love.u }}">=LOVE</a>のページからも探せます。</p>
