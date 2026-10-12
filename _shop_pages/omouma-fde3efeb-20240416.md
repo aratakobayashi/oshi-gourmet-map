@@ -18,6 +18,4 @@ lat: 34.941456
 lng: 132.305237
 groups:
   - "omouma"
-ordered_items:
-  - "チャンポン(並)"
 ---

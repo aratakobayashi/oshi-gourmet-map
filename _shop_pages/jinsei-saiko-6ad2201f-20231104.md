@@ -17,7 +17,7 @@ source_type: "tv"
 lat: 35.668625
 lng: 139.689041
 members:
-  - "東京03角田晃広"
+  - "角田晃広"
 groups:
   - "jinsei_saiko"
 ---

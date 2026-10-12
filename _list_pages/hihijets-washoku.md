@@ -8,7 +8,6 @@ slug_id: hihijets-washoku
 shop_count: 5
 youtube_id: zupvBJujQzo
 related_genres:
-  - hihijets-others
   - hihijets-cafe
 related_groups:
   - jinsei-saiko-washoku

@@ -18,6 +18,4 @@ lat: 35.670444
 lng: 139.81958
 groups:
   - "omouma"
-ordered_items:
-  - "一晩寝かせたラザニア"
 ---

@@ -18,6 +18,4 @@ lat: 36.396057
 lng: 140.525314
 groups:
   - "omouma"
-ordered_items:
-  - "マグロ(2貫)"
 ---

@@ -18,6 +18,4 @@ lat: 36.418419
 lng: 139.080429
 groups:
   - "omouma"
-ordered_items:
-  - "焼きそば(特盛)"
 ---

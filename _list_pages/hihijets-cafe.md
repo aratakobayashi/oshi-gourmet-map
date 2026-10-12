@@ -8,7 +8,6 @@ slug_id: hihijets-cafe
 shop_count: 5
 youtube_id: VqworjxIMlE
 related_genres:
-  - hihijets-others
   - hihijets-washoku
 related_groups:
   - burari-cafe

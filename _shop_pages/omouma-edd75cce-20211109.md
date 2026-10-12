@@ -18,7 +18,4 @@ lat: 38.840485
 lng: 140.218475
 groups:
   - "omouma"
-ordered_items:
-  - "天ぷらザルそば"
-  - "天ぷらざザルそば"
 ---

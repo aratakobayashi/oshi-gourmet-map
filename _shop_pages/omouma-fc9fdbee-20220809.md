@@ -18,7 +18,4 @@ lat: 34.349213
 lng: 134.028793
 groups:
   - "omouma"
-ordered_items:
-  - "チキンポークカレー"
-  - "焼豚玉子飯"
 ---

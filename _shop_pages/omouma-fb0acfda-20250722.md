@@ -18,6 +18,4 @@ lat: 35.09333
 lng: 136.093369
 groups:
   - "omouma"
-ordered_items:
-  - "バリジロー"
 ---

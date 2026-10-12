@@ -18,6 +18,4 @@ lat: 34.692745
 lng: 135.515335
 groups:
   - "omouma"
-ordered_items:
-  - "アートスムージー各"
 ---

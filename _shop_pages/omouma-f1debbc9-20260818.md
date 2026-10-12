@@ -18,6 +18,4 @@ lat: 38.17432
 lng: 140.417908
 groups:
   - "omouma"
-ordered_items:
-  - "ナナイロ流しそうめん"
 ---

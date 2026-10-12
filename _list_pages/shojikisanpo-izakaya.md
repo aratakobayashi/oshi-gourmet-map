@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
 related_genres:
   - shojikisanpo-sweets
   - shojikisanpo-shokuji
-  - shojikisanpo-cafe
+  - shojikisanpo-washoku
 related_groups:
   - sakaba-horoki-izakaya
   - burari-izakaya

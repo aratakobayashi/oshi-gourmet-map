@@ -18,6 +18,4 @@ lat: 36.315655
 lng: 139.80481
 groups:
   - "omouma"
-ordered_items:
-  - "ハンバーグ定食"
 ---
