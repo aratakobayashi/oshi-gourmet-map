@@ -1,5 +1,5 @@
 ---
-title: "SixTONESが行ったその他48選"
+title: "SixTONESのグルメ聖地巡礼｜行ったお店（そのほか）48選"
 description: "SixTONESのメンバーが実際に訪れたその他スポットを48件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: others

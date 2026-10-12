@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行ったスイーツ10選"
+title: "WEST.のスイーツ聖地巡礼｜行ったスイーツ10選"
 description: "WEST.のメンバーが実際に訪れたスイーツスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: sweets

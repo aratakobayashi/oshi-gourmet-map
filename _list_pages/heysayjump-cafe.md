@@ -1,5 +1,5 @@
 ---
-title: "Hey! Say! JUMPが行ったカフェ12選"
+title: "Hey! Say! JUMPのカフェ聖地巡礼｜行ったカフェ12選"
 description: "Hey! Say! JUMPのメンバーが実際に訪れたカフェスポットを12件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: cafe

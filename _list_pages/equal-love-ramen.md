@@ -1,5 +1,5 @@
 ---
-title: "=LOVEが行ったラーメン10選"
+title: "=LOVEのラーメン聖地巡礼｜行ったラーメン10選"
 description: "=LOVEのメンバーが実際に訪れたラーメンスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: ramen

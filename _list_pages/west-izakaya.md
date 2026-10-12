@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行った居酒屋7選"
+title: "WEST.の居酒屋聖地巡礼｜行った居酒屋7選"
 description: "WEST.のメンバーが実際に訪れた居酒屋スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: izakaya

@@ -1,5 +1,5 @@
 ---
-title: "timeleszが行ったカフェ11選"
+title: "timeleszのカフェ聖地巡礼｜行ったカフェ11選"
 description: "timeleszのメンバーが実際に訪れたカフェスポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: cafe

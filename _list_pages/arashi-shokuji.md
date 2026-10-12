@@ -1,5 +1,5 @@
 ---
-title: "嵐が行った食事98選"
+title: "嵐の食事聖地巡礼｜行った食事98選"
 description: "嵐のメンバーが実際に訪れた食事スポットを98件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: arashi
 genre: shokuji

@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行ったカフェ22選"
+title: "WEST.のカフェ聖地巡礼｜行ったカフェ22選"
 description: "WEST.のメンバーが実際に訪れたカフェスポットを22件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: cafe

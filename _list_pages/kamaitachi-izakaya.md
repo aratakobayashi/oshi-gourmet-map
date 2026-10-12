@@ -1,5 +1,5 @@
 ---
-title: "かまいたちが行った居酒屋5選"
+title: "かまいたちの居酒屋聖地巡礼｜行った居酒屋5選"
 description: "かまいたちが実際に訪れた居酒屋スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kamaitachi
 genre: izakaya

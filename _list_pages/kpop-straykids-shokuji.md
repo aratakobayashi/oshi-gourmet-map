@@ -1,5 +1,5 @@
 ---
-title: "Stray Kidsが行った食事5選"
+title: "Stray Kidsの食事聖地巡礼｜行った食事5選"
 description: "Stray Kidsのメンバーが実際に訪れた食事スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_straykids
 genre: shokuji

@@ -1,5 +1,5 @@
 ---
-title: "=LOVEが行った食事47選"
+title: "=LOVEの食事聖地巡礼｜行った食事47選"
 description: "=LOVEのメンバーが実際に訪れた食事スポットを47件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: shokuji

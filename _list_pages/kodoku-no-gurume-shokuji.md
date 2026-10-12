@@ -1,5 +1,5 @@
 ---
-title: "「孤独のグルメ」登場食事80選"
+title: "「孤独のグルメ」の食事聖地巡礼・ロケ地80選"
 description: "ドラマ「孤独のグルメ」に登場した食事スポットを80件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: shokuji

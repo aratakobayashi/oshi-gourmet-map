@@ -1,5 +1,5 @@
 ---
-title: "≒JOYが行った食事10選"
+title: "≒JOYの食事聖地巡礼｜行った食事10選"
 description: "≒JOYのメンバーが実際に訪れた食事スポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: neajoy
 genre: shokuji

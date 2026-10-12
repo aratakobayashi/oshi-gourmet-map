@@ -1,5 +1,5 @@
 ---
-title: "亀梨和也が行った焼肉7選"
+title: "亀梨和也の焼肉聖地巡礼｜行った焼肉7選"
 description: "亀梨和也が実際に訪れた焼肉スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kamenashi
 genre: yakiniku

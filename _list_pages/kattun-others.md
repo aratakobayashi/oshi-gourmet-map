@@ -1,5 +1,5 @@
 ---
-title: "KAT-TUNが行ったその他7選"
+title: "KAT-TUNのグルメ聖地巡礼｜行ったお店（そのほか）7選"
 description: "KAT-TUNのメンバーが実際に訪れたその他スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kattun
 genre: others

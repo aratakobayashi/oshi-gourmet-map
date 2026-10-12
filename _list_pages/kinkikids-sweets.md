@@ -1,5 +1,5 @@
 ---
-title: "KinKi Kidsが行ったスイーツ9選"
+title: "KinKi Kidsのスイーツ聖地巡礼｜行ったスイーツ9選"
 description: "KinKi Kidsのメンバーが実際に訪れたスイーツスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kinkikids
 genre: sweets

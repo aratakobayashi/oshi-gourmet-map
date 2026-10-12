@@ -1,5 +1,5 @@
 ---
-title: "Kis-My-Ft2が行った食事6選"
+title: "Kis-My-Ft2の食事聖地巡礼｜行った食事6選"
 description: "Kis-My-Ft2のメンバーが実際に訪れた食事スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kismai
 genre: shokuji

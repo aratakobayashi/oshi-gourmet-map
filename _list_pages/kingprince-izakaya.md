@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行った居酒屋9選"
+title: "King & Princeの居酒屋聖地巡礼｜行った居酒屋9選"
 description: "King & Princeのメンバーが実際に訪れた居酒屋スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: izakaya

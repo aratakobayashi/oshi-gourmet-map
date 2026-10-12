@@ -1,5 +1,5 @@
 ---
-title: "Aぇ!groupが行った和食7選"
+title: "Aぇ!groupの和食聖地巡礼｜行った和食7選"
 description: "Aぇ!groupのメンバーが実際に訪れた和食スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: agroup
 genre: washoku

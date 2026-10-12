@@ -1,5 +1,5 @@
 ---
-title: "≒JOYが行ったラーメン5選"
+title: "≒JOYのラーメン聖地巡礼｜行ったラーメン5選"
 description: "≒JOYのメンバーが実際に訪れたラーメンスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: neajoy
 genre: ramen

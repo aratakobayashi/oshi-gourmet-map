@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行ったラーメン15選"
+title: "WEST.のラーメン聖地巡礼｜行ったラーメン15選"
 description: "WEST.のメンバーが実際に訪れたラーメンスポットを15件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: ramen

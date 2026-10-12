@@ -1,5 +1,5 @@
 ---
-title: "SixTONESが行ったラーメン5選"
+title: "SixTONESのラーメン聖地巡礼｜行ったラーメン5選"
 description: "SixTONESのメンバーが実際に訪れたラーメンスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: ramen

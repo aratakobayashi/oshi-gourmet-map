@@ -1,5 +1,5 @@
 ---
-title: "timeleszが行った焼肉5選"
+title: "timeleszの焼肉聖地巡礼｜行った焼肉5選"
 description: "timeleszのメンバーが実際に訪れた焼肉スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: yakiniku

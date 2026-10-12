@@ -1,5 +1,5 @@
 ---
-title: "SixTONESが行ったカフェ17選"
+title: "SixTONESのカフェ聖地巡礼｜行ったカフェ17選"
 description: "SixTONESのメンバーが実際に訪れたカフェスポットを17件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: cafe

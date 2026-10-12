@@ -1,5 +1,5 @@
 ---
-title: "BLACKPINKが行った食事6選"
+title: "BLACKPINKの食事聖地巡礼｜行った食事6選"
 description: "BLACKPINKのメンバーが実際に訪れた食事スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_blackpink
 genre: shokuji

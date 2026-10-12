@@ -1,5 +1,5 @@
 ---
-title: "Hey! Say! JUMPが行った和食9選"
+title: "Hey! Say! JUMPの和食聖地巡礼｜行った和食9選"
 description: "Hey! Say! JUMPのメンバーが実際に訪れた和食スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: washoku

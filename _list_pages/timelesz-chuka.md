@@ -1,5 +1,5 @@
 ---
-title: "timeleszが行った中華10選"
+title: "timeleszの中華聖地巡礼｜行った中華10選"
 description: "timeleszのメンバーが実際に訪れた中華スポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: chuka

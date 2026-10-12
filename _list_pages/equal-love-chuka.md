@@ -1,5 +1,5 @@
 ---
-title: "=LOVEが行った中華6選"
+title: "=LOVEの中華聖地巡礼｜行った中華6選"
 description: "=LOVEのメンバーが実際に訪れた中華スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: chuka

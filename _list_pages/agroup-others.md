@@ -1,5 +1,5 @@
 ---
-title: "Aぇ!groupが行ったその他14選"
+title: "Aぇ!groupのグルメ聖地巡礼｜行ったお店（そのほか）14選"
 description: "Aぇ!groupのメンバーが実際に訪れたその他スポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: agroup
 genre: others

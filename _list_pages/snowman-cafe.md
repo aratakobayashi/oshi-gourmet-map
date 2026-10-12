@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行ったカフェ16選"
+title: "Snow Manのカフェ聖地巡礼｜行ったカフェ16選"
 description: "Snow Manのメンバーが実際に訪れたカフェスポットを16件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: cafe

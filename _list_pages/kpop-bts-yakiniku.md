@@ -1,5 +1,5 @@
 ---
-title: "BTSが行った焼肉6選"
+title: "BTSの焼肉聖地巡礼｜行った焼肉6選"
 description: "BTSのメンバーが実際に訪れた焼肉スポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_bts
 genre: yakiniku

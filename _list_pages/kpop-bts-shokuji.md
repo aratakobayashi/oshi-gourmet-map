@@ -1,5 +1,5 @@
 ---
-title: "BTSが行った食事7選"
+title: "BTSの食事聖地巡礼｜行った食事7選"
 description: "BTSのメンバーが実際に訪れた食事スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kpop_bts
 genre: shokuji

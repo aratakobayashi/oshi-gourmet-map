@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行った食事75選"
+title: "Snow Manの食事聖地巡礼｜行った食事75選"
 description: "Snow Manのメンバーが実際に訪れた食事スポットを75件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: shokuji
