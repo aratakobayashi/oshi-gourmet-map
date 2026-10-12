@@ -26,8 +26,18 @@ def kan2(s):
         if '十' in t:
             a, _, b = t.partition('十'); return str((KAN.get(a,1) if a else 1)*10 + (KAN.get(b,0) if b else 0))
         return str(KAN[t])
-    return re.sub(r'([一二三四五六七八九十]+)(?=丁目|条)', rep, s)
+    return re.sub(r'([一二三四五六七八九十]+)(?=丁目|丁|条|地割|号)', rep, s)
 def nums(a): return re.findall(r'\d+', kan2(first(a)))
+def base(a):
+    # 比べやすい形: 郡の名前・大字・字を除き、数字より前（町名まで）だけ
+    s = kan2(first(a))
+    s = re.sub(r'(?<=[都道府県])[^都道府県市区町村]{1,6}郡', '', s)
+    s = s.replace('大字', '').replace('ヶ', 'ケ').replace('ゝ', 'ス')
+    s = re.sub(r'(?<=[市区町村])字', '', s)
+    return re.split(r'\d', s)[0].rstrip('丁目番地号の第')
+def same_place(addr, title):
+    a, b = base(addr), base(title)
+    return bool(b) and (a.startswith(b) or b.startswith(a))
 names = {}
 for s in shops:
     for gg in (s.get('groups') or [s.get('group')]):
@@ -56,9 +66,13 @@ for x in d.get('new', []):
     title = r[0]['properties']['title']; lng, lat = r[0]['geometry']['coordinates']
     a, b = nums(addr), nums(title)
     unver = False
-    if not b and n(addr).startswith(n(title)) and x.get('confidence') == 'high':
-        unver = True  # 大字までしか分からない地方の住所。座標は地区の中心なので「近くの店」には出さない
-    elif not b or (len(b) < 2 and '番地' not in title) or a[:len(b)] != b or n(title)[:5] != n(addr)[:5]:
+    if not same_place(addr, title) and not (len(b) >= 2 and a[:len(b)] == b and n(title)[:3] == n(addr)[:3]):
+        skipped.append(('geocode-mismatch', x['name'] + ' / ' + title)); continue
+    if not b or (len(b) < 2 and not re.search(r'番地?$|番\d', kan2(title))):
+        if x.get('confidence') != 'high':
+            skipped.append(('geocode-coarse', x['name'] + ' / ' + title)); continue
+        unver = True  # 町名・大字までしか分からない住所。座標はその地区なので「近くの店」には出さない
+    elif a[:len(b)] != b:
         skipped.append(('geocode-mismatch', x['name'] + ' / ' + title)); continue
     sid = f"{g}-{hashlib.md5((x['name']+(x.get('youtube_id') or x['source_video_title'])).encode()).hexdigest()[:8]}-{(x.get('visited_date') or '').replace('-','')}"
     mem = '・'.join(x.get('members') or [])
