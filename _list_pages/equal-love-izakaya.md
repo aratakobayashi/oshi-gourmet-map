@@ -1,5 +1,5 @@
 ---
-title: "=LOVEが行った居酒屋13選"
+title: "=LOVEの居酒屋聖地巡礼｜行った居酒屋13選"
 description: "=LOVEのメンバーが実際に訪れた居酒屋スポットを13件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: izakaya

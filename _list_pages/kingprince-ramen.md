@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行ったラーメン6選"
+title: "King & Princeのラーメン聖地巡礼｜行ったラーメン6選"
 description: "King & Princeのメンバーが実際に訪れたラーメンスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: ramen

@@ -1,5 +1,5 @@
 ---
-title: "亀梨和也が行った和食5選"
+title: "亀梨和也の和食聖地巡礼｜行った和食5選"
 description: "亀梨和也が実際に訪れた和食スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kamenashi
 genre: washoku

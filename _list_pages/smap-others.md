@@ -1,5 +1,5 @@
 ---
-title: "SMAPが行ったその他9選"
+title: "SMAPのグルメ聖地巡礼｜行ったお店（そのほか）9選"
 description: "SMAPのメンバーが実際に訪れたその他スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: smap
 genre: others

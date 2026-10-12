@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行った中華5選"
+title: "Snow Manの中華聖地巡礼｜行った中華5選"
 description: "Snow Manのメンバーが実際に訪れた中華スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: chuka

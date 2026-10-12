@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行ったラーメン7選"
+title: "Snow Manのラーメン聖地巡礼｜行ったラーメン7選"
 description: "Snow Manのメンバーが実際に訪れたラーメンスポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: ramen

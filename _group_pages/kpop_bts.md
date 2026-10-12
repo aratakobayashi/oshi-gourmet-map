@@ -4,6 +4,6 @@ group_label: "BTS"
 group_color: "#6d28d9"
 group_color2: "#c4b5fd"
 shop_count: 18
-title: "BTSのグルメ聖地18選｜推しグルメ巡礼MAP"
-description: "BTSが実際に訪れたグルメスポット18件をまとめています。食事・焼肉・ラーメンなど多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+title: "BTSの聖地巡礼・ロケ地グルメ18選"
+description: "BTSが訪れたお店18軒の聖地巡礼・ロケ地まとめ。韓国を中心に、食事・焼肉・ラーメンなどのお店を、出てきた動画・番組つきで地図から探せます。"
 ---

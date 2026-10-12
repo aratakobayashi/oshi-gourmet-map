@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行った和食14選"
+title: "King & Princeの和食聖地巡礼｜行った和食14選"
 description: "King & Princeのメンバーが実際に訪れた和食スポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: washoku

@@ -1,5 +1,5 @@
 ---
-title: "「孤独のグルメ」登場居酒屋11選"
+title: "「孤独のグルメ」の居酒屋聖地巡礼・ロケ地11選"
 description: "ドラマ「孤独のグルメ」に登場した居酒屋スポットを11件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: izakaya

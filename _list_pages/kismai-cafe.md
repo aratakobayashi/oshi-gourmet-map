@@ -1,5 +1,5 @@
 ---
-title: "Kis-My-Ft2が行ったカフェ5選"
+title: "Kis-My-Ft2のカフェ聖地巡礼｜行ったカフェ5選"
 description: "Kis-My-Ft2のメンバーが実際に訪れたカフェスポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kismai
 genre: cafe

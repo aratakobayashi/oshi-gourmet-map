@@ -1,5 +1,5 @@
 ---
-title: "timeleszが行った食事9選"
+title: "timeleszの食事聖地巡礼｜行った食事9選"
 description: "timeleszのメンバーが実際に訪れた食事スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: shokuji

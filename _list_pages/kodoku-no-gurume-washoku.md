@@ -1,5 +1,5 @@
 ---
-title: "「孤独のグルメ」登場和食33選"
+title: "「孤独のグルメ」の和食聖地巡礼・ロケ地33選"
 description: "ドラマ「孤独のグルメ」に登場した和食スポットを33件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kodoku_no_gurume
 genre: washoku

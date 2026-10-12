@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行ったその他125選"
+title: "King & Princeのグルメ聖地巡礼｜行ったお店（そのほか）125選"
 description: "King & Princeのメンバーが実際に訪れたその他スポットを125件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: others

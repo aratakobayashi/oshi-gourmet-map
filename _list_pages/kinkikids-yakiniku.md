@@ -1,5 +1,5 @@
 ---
-title: "KinKi Kidsが行った焼肉5選"
+title: "KinKi Kidsの焼肉聖地巡礼｜行った焼肉5選"
 description: "KinKi Kidsのメンバーが実際に訪れた焼肉スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kinkikids
 genre: yakiniku

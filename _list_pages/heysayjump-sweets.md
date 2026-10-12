@@ -1,5 +1,5 @@
 ---
-title: "Hey! Say! JUMPが行ったスイーツ9選"
+title: "Hey! Say! JUMPのスイーツ聖地巡礼｜行ったスイーツ9選"
 description: "Hey! Say! JUMPのメンバーが実際に訪れたスイーツスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: sweets

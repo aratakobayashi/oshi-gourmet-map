@@ -21,6 +21,7 @@ python scripts/generate_list_pages.py
 echo ""
 echo "=== ③ 一覧・近くの店・検索用データ生成（_data/*.json と data/explore.json） ==="
 python scripts/build_site_data.py
+python scripts/refresh_group_titles.py
 
 echo ""
 echo "=== ③' 特集記事の店舗IDの確認（shops.json にないIDがあれば表示。直すときは --fix） ==="
@@ -28,7 +29,7 @@ python scripts/check_articles.py
 
 echo ""
 echo "=== ④ git add ==="
-git add _shop_pages/ _list_pages/ _data/ data/explore.json
+git add _shop_pages/ _list_pages/ _group_pages/ _data/ data/explore.json
 
 # 変更がある場合のみコミット
 if git diff --cached --quiet; then

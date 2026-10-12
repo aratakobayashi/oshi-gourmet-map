@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行ったカフェ28選"
+title: "King & Princeのカフェ聖地巡礼｜行ったカフェ28選"
 description: "King & Princeのメンバーが実際に訪れたカフェスポットを28件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: cafe

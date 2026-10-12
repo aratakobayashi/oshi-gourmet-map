@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行った中華20選"
+title: "WEST.の中華聖地巡礼｜行った中華20選"
 description: "WEST.のメンバーが実際に訪れた中華スポットを20件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: chuka

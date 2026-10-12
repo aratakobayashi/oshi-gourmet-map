@@ -180,14 +180,15 @@ def main():
         filename = f'{slug_id}.md'
 
         gtype = GROUP_TYPE.get(group, 'group')
+        gw = 'グルメ' if genre == 'その他' else genre  # タイトル用（「その他聖地巡礼」にならないように）
         if gtype == 'drama':
-            title = f'「{label}」登場{genre}{len(ids)}選'
+            title = f'「{label}」の{gw}聖地巡礼・ロケ地{len(ids)}選'
             description = f'ドラマ「{label}」に登場した{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
         elif gtype in ('individual', 'duo'):
-            title = f'{label}が行った{genre}{len(ids)}選'
+            title = f'{label}の{gw}聖地巡礼｜行った{genre if gw == genre else "お店（そのほか）"}{len(ids)}選'
             description = f'{label}が実際に訪れた{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
         else:
-            title = f'{label}が行った{genre}{len(ids)}選'
+            title = f'{label}の{gw}聖地巡礼｜行った{genre if gw == genre else "お店（そのほか）"}{len(ids)}選'
             description = f'{label}のメンバーが実際に訪れた{genre}スポットを{len(ids)}件まとめました。聖地巡礼・ロケ地めぐりの参考に。'
 
         # 関連ページ: 同グループの他ジャンル上位3件

@@ -4,6 +4,6 @@ group_label: "Stray Kids"
 group_color: "#1e293b"
 group_color2: "#94a3b8"
 shop_count: 14
-title: "Stray Kidsのグルメ聖地14選｜推しグルメ巡礼MAP"
-description: "Stray Kidsが実際に訪れたグルメスポット14件をまとめています。食事・カフェ・焼肉など多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+title: "Stray Kidsの聖地巡礼・ロケ地グルメ14選（東京ほか）"
+description: "Stray Kidsが訪れたお店14軒の聖地巡礼・ロケ地まとめ。東京都を中心に、食事・カフェ・焼肉などのお店を、出てきた動画・番組つきで地図から探せます。"
 ---

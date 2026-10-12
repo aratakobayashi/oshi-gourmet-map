@@ -1,5 +1,5 @@
 ---
-title: "Hey! Say! JUMPが行った食事32選"
+title: "Hey! Say! JUMPの食事聖地巡礼｜行った食事32選"
 description: "Hey! Say! JUMPのメンバーが実際に訪れた食事スポットを32件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: shokuji

@@ -1,5 +1,5 @@
 ---
-title: "King & Princeが行った食事30選"
+title: "King & Princeの食事聖地巡礼｜行った食事30選"
 description: "King & Princeのメンバーが実際に訪れた食事スポットを30件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: shokuji

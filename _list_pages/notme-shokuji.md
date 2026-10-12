@@ -1,5 +1,5 @@
 ---
-title: "≠MEが行った食事19選"
+title: "≠MEの食事聖地巡礼｜行った食事19選"
 description: "≠MEのメンバーが実際に訪れた食事スポットを19件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: notme
 genre: shokuji

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SixTONESと行く東京下町グルメ聖地巡礼【東京ソラマチ7Fの忘年会2軒とスカイツリー】"
+title: "SixTONESの東京下町グルメ聖地巡礼・ロケ地｜東京ソラマチ7Fの忘年会2軒とスカイツリー"
 date: 2026-05-18
 last_modified_at: 2026-10-10
 thumbnail_video_id: fflp-PypyQg

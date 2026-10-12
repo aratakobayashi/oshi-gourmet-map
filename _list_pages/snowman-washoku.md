@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行った和食27選"
+title: "Snow Manの和食聖地巡礼｜行った和食27選"
 description: "Snow Manのメンバーが実際に訪れた和食スポットを27件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: washoku

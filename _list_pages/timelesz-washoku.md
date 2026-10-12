@@ -1,5 +1,5 @@
 ---
-title: "timeleszが行った和食7選"
+title: "timeleszの和食聖地巡礼｜行った和食7選"
 description: "timeleszのメンバーが実際に訪れた和食スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: timelesz
 genre: washoku

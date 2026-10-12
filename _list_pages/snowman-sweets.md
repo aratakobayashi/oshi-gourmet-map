@@ -1,5 +1,5 @@
 ---
-title: "Snow Manが行ったスイーツ6選"
+title: "Snow Manのスイーツ聖地巡礼｜行ったスイーツ6選"
 description: "Snow Manのメンバーが実際に訪れたスイーツスポットを6件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: snowman
 genre: sweets

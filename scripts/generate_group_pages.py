@@ -135,7 +135,7 @@ for group, label in GROUP_LABELS.items():
         f'聖地巡礼の参考にどうぞ。'
     )[:160]
 
-    title = f'{label}のグルメ聖地{count}選｜推しグルメ巡礼MAP'
+    title = f'{label}の聖地巡礼・ロケ地グルメ{count}選'  # 実際の値は refresh_group_titles.py が更新
 
     lines = [
         '---',

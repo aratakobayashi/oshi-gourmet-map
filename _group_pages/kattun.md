@@ -4,6 +4,6 @@ group_label: "KAT-TUN"
 group_color: "#374151"
 group_color2: "#9ca3af"
 shop_count: 15
-title: "KAT-TUNのグルメ聖地15選｜推しグルメ巡礼MAP"
-description: "KAT-TUNが実際に訪れたグルメスポット15件をまとめています。その他・和食・居酒屋など多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+title: "KAT-TUNの聖地巡礼・ロケ地グルメ15選（東京ほか）"
+description: "KAT-TUNが訪れたお店15軒の聖地巡礼・ロケ地まとめ。東京都を中心に、和食・居酒屋・焼肉などのお店を、出てきた動画・番組つきで地図から探せます。"
 ---

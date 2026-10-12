@@ -1,5 +1,5 @@
 ---
-title: "WEST.が行った食事84選"
+title: "WEST.の食事聖地巡礼｜行った食事84選"
 description: "WEST.のメンバーが実際に訪れた食事スポットを84件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: west
 genre: shokuji

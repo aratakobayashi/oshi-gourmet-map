@@ -1,5 +1,5 @@
 ---
-title: "KinKi Kidsが行った和食8選"
+title: "KinKi Kidsの和食聖地巡礼｜行った和食8選"
 description: "KinKi Kidsのメンバーが実際に訪れた和食スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kinkikids
 genre: washoku

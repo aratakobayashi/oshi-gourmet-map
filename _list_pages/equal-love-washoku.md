@@ -1,5 +1,5 @@
 ---
-title: "=LOVEが行った和食18選"
+title: "=LOVEの和食聖地巡礼｜行った和食18選"
 description: "=LOVEのメンバーが実際に訪れた和食スポットを18件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: equal_love
 genre: washoku

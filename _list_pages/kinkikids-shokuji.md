@@ -1,5 +1,5 @@
 ---
-title: "KinKi Kidsが行った食事14選"
+title: "KinKi Kidsの食事聖地巡礼｜行った食事14選"
 description: "KinKi Kidsのメンバーが実際に訪れた食事スポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kinkikids
 genre: shokuji

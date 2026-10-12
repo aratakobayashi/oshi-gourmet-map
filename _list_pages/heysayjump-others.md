@@ -1,5 +1,5 @@
 ---
-title: "Hey! Say! JUMPが行ったその他5選"
+title: "Hey! Say! JUMPのグルメ聖地巡礼｜行ったお店（そのほか）5選"
 description: "Hey! Say! JUMPのメンバーが実際に訪れたその他スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: heysayjump
 genre: others

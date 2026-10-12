@@ -4,7 +4,7 @@ group_label: "≠ME"
 group_color: "#0d9488"
 group_color2: "#5eead4"
 shop_count: 37
-title: "≠MEのグルメ聖地37選｜推しグルメ巡礼MAP"
-description: "≠MEが実際に訪れたグルメスポット37件をまとめています。食事・スイーツ・カフェなど多彩なお店をYouTube・テレビ番組から調査。聖地巡礼の参考にどうぞ。"
+title: "≠MEの聖地巡礼・ロケ地グルメ37選（東京ほか）"
+description: "≠MEが訪れたお店37軒の聖地巡礼・ロケ地まとめ。東京都を中心に、食事・スイーツ・カフェなどのお店を、出てきた動画・番組つきで地図から探せます。"
 group_youtube_id: "ZwwzPBGFK5c"
 ---
