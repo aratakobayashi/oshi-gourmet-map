@@ -800,3 +800,5 @@ a.badge { min-height: 32px; }
 }
 .pf .prose td, .prose .pf td { white-space: nowrap; }
 .pf-card__facts dd { margin: 0; }
+
+.card__bk { margin-top: 4px; line-height: 1; }
