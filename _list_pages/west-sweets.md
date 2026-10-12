@@ -12,7 +12,7 @@ related_genres:
   - west-cafe
   - west-izakaya
 related_groups:
-  - arashi-sweets
-  - naniwa-sweets
-  - nogizaka46-sweets
+  - burari-sweets
+  - sakaba-horoki-sweets
+  - shojikisanpo-sweets
 ---

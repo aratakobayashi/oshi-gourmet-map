@@ -1,14 +1,16 @@
 ---
 layout: shop
 title: "熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店"
-description: "Aぇ! group【Aぇちゅ〜ぶ】新宿の焼肉屋さんはどこ？利き焼肉のお店は？「エイジングビーフ」で紹介された焼肉「熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "agroupのYouTubeで紹介された焼肉「熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店」（東京都新宿区）。推し活グルメ巡礼スポット。"
 shop_id: "agroup-tokyo-"
 name: "熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店"
 genre: "yakiniku"
 prefecture: "東京都"
 city: "新宿区"
 address: "東京都新宿区新宿3-5-4 レインボービレッジ 6F"
-source_video_title: "Aぇ! group【Aぇちゅ〜ぶ】新宿の焼肉屋さんはどこ？利き焼肉のお店は？「エイジングビーフ」"
+youtube_id: "tqdNGNUmf2A"
+source_video_title: "Aぇ! group【利き焼肉で奇跡が起こる✨】神の舌を持つ男がいた🍖"
+source_video_url: "https://www.youtube.com/watch?v=tqdNGNUmf2A"
 source_url: "https://kosodate-and.net/agroup-yakiniku-shinjyuku"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13189068/"

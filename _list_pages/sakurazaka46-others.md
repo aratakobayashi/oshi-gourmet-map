@@ -9,8 +9,11 @@ shop_count: 9
 group_color: "#e11d48"
 group_bio: "櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/n7Ag35a1d0MBDDEWSzOgBEzLfjz.jpg"
+related_genres:
+  - sakurazaka46-ramen
+  - sakurazaka46-washoku
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - nogizaka46-others
-  - sixtones-others
 ---

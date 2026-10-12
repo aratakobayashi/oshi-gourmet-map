@@ -15,6 +15,6 @@ related_genres:
   - nogizaka46-sweets
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - sixtones-others
-  - arashi-others
 ---

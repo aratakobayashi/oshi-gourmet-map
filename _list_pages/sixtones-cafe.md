@@ -14,7 +14,7 @@ related_genres:
   - sixtones-washoku
   - sixtones-chuka
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
 ---

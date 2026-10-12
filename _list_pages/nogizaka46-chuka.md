@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji
 related_groups:
-  - kodoku-no-gurume-chuka
-  - west-chuka
-  - timelesz-chuka
+  - machichuka-chuka
+  - jinsei-saiko-chuka
+  - omouma-chuka
 ---

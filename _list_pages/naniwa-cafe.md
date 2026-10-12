@@ -14,7 +14,7 @@ related_genres:
   - naniwa-sweets
   - naniwa-yakiniku
 related_groups:
-  - nogizaka46-cafe
-  - kingprince-cafe
-  - west-cafe
+  - burari-cafe
+  - shojikisanpo-cafe
+  - jinsei-saiko-cafe
 ---

@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-washoku
   - kodoku-no-gurume-yakiniku
 related_groups:
-  - west-chuka
-  - timelesz-chuka
-  - sixtones-chuka
+  - machichuka-chuka
+  - jinsei-saiko-chuka
+  - omouma-chuka
 ---

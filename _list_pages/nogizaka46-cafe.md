@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-shokuji
   - nogizaka46-sweets
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - kingprince-cafe
-  - west-cafe
 ---

@@ -14,7 +14,7 @@ related_genres:
   - kingprince-shokuji
   - kingprince-cafe
 related_groups:
-  - west-izakaya
-  - shiori-izakaya
-  - equal-love-izakaya
+  - sakaba-horoki-izakaya
+  - burari-izakaya
+  - jinsei-saiko-izakaya
 ---

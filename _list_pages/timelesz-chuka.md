@@ -14,7 +14,7 @@ related_genres:
   - timelesz-sweets
   - timelesz-cafe
 related_groups:
-  - kodoku-no-gurume-chuka
-  - west-chuka
-  - sixtones-chuka
+  - machichuka-chuka
+  - jinsei-saiko-chuka
+  - omouma-chuka
 ---

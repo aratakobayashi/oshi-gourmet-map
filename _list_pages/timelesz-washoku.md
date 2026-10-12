@@ -14,7 +14,7 @@ related_genres:
   - timelesz-chuka
   - timelesz-cafe
 related_groups:
-  - kodoku-no-gurume-washoku
-  - snowman-washoku
-  - yonino-washoku
+  - jinsei-saiko-washoku
+  - burari-washoku
+  - omouma-washoku
 ---

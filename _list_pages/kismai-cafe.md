@@ -9,7 +9,7 @@ shop_count: 5
 related_genres:
   - kismai-shokuji
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
 ---

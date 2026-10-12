@@ -14,7 +14,7 @@ related_genres:
   - sixtones-washoku
   - sixtones-cafe
 related_groups:
+  - jinsei-saiko-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
+  - burari-ramen
 ---

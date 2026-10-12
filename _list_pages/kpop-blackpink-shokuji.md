@@ -8,7 +8,7 @@ slug_id: kpop-blackpink-shokuji
 shop_count: 6
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7Lc6zrq5f2OJGDUGCYyncjgIYds.jpg"
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

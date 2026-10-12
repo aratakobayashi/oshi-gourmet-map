@@ -14,7 +14,7 @@ related_genres:
   - naniwa-cafe
   - naniwa-sweets
 related_groups:
+  - jinsei-saiko-yakiniku
+  - burari-yakiniku
   - kodoku-no-gurume-yakiniku
-  - sixtones-yakiniku
-  - kamenashi-yakiniku
 ---

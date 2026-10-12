@@ -14,7 +14,7 @@ related_genres:
   - snowman-washoku
   - snowman-ramen
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
 ---

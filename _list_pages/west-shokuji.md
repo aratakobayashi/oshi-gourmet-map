@@ -12,7 +12,7 @@ related_genres:
   - west-izakaya
   - west-chuka
 related_groups:
-  - arashi-shokuji
-  - kodoku-no-gurume-shokuji
-  - snowman-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

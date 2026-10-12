@@ -9,6 +9,6 @@ shop_count: 7
 youtube_id: Kv2-QX2HenQ
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - nogizaka46-others
-  - sixtones-others
 ---

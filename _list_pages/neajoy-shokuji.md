@@ -12,7 +12,7 @@ youtube_id: TAQI0WEyy7k
 related_genres:
   - neajoy-ramen
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

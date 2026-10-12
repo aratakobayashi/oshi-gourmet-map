@@ -6,9 +6,9 @@ genre: shokuji
 group_label: "Travis Japan"
 slug_id: travisjapan-shokuji
 shop_count: 6
-thumbnail_url: "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg"
+youtube_id: 49CwXq_NElE
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

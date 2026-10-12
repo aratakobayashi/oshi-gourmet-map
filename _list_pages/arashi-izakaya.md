@@ -12,7 +12,7 @@ related_genres:
   - arashi-ramen
   - arashi-sweets
 related_groups:
-  - west-izakaya
-  - shiori-izakaya
-  - equal-love-izakaya
+  - sakaba-horoki-izakaya
+  - burari-izakaya
+  - jinsei-saiko-izakaya
 ---

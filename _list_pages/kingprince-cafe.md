@@ -14,7 +14,7 @@ related_genres:
   - kingprince-shokuji
   - kingprince-washoku
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - west-cafe
 ---

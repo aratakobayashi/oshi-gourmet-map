@@ -14,7 +14,7 @@ related_genres:
   - sixtones-cafe
   - sixtones-chuka
 related_groups:
-  - kodoku-no-gurume-washoku
-  - snowman-washoku
-  - yonino-washoku
+  - jinsei-saiko-washoku
+  - burari-washoku
+  - omouma-washoku
 ---

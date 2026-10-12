@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-izakaya
 related_groups:
+  - jinsei-saiko-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
+  - burari-ramen
 ---

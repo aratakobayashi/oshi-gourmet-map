@@ -14,7 +14,7 @@ related_genres:
   - snowman-cafe
   - snowman-ramen
 related_groups:
-  - kodoku-no-gurume-washoku
-  - yonino-washoku
-  - sixtones-washoku
+  - jinsei-saiko-washoku
+  - burari-washoku
+  - omouma-washoku
 ---

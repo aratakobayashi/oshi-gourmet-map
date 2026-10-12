@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "旬の料理 中華そば きんぐ"
+description: "バナナマンのせっかくグルメ!! 島根県出雲市で絶品グルメ探し!（2026年5月24日 TBS）で紹介されたラーメン「旬の料理 中華そば きんぐ」（島根県出雲市）。推し活グルメ巡礼スポット。"
+shop_id: "sekkaku_gourmet-da593d54-20260524"
+name: "旬の料理 中華そば きんぐ"
+genre: "ramen"
+prefecture: "島根県"
+city: "出雲市"
+address: "島根県出雲市大社町杵築東599"
+visited_date: "2026-05-24"
+source_video_title: "バナナマンのせっかくグルメ!! 島根県出雲市で絶品グルメ探し!（2026年5月24日 TBS）"
+source_url: "https://www.tbs.co.jp/sekkaku-g/archive/202605241/"
+group: "sekkaku_gourmet"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
+source_type: "tv"
+lat: 35.398037
+lng: 132.679855
+members:
+  - "日村勇紀"
+groups:
+  - "sekkaku_gourmet"
+ordered_items:
+  - "焼きそば(並)"
+  - "かつ丼(並)"
+---

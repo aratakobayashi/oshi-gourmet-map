@@ -12,7 +12,7 @@ related_genres:
   - arashi-ramen
   - arashi-cafe
 related_groups:
-  - naniwa-sweets
-  - nogizaka46-sweets
-  - west-sweets
+  - burari-sweets
+  - sakaba-horoki-sweets
+  - shojikisanpo-sweets
 ---

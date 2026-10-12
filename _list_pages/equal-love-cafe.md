@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-izakaya
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
 ---

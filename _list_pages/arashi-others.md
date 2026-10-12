@@ -13,6 +13,6 @@ related_genres:
   - arashi-sweets
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - nogizaka46-others
-  - sixtones-others
 ---

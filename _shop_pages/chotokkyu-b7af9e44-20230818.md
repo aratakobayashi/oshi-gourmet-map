@@ -1,0 +1,25 @@
+---
+layout: shop
+title: "Reg-On Diner（レッグオンダイナー）"
+description: "chotokkyuのYouTubeで紹介された食事「Reg-On Diner（レッグオンダイナー）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+shop_id: "chotokkyu-b7af9e44-20230818"
+name: "Reg-On Diner（レッグオンダイナー）"
+genre: "shokuji"
+prefecture: "東京都"
+city: "渋谷区"
+address: "東京都渋谷区東1-8-1 K HOUSE 1F"
+visited_date: "2023-08-18"
+youtube_id: "e1rMsKUdRhw"
+source_video_title: "【2人っきりデート】想定外！㊙️初出しトークでメンバー愛爆漏れ_超特急ビジレポ"
+source_video_url: "https://www.youtube.com/watch?v=e1rMsKUdRhw"
+source_url: "https://www.youtube.com/watch?v=e1rMsKUdRhw"
+group: "chotokkyu"
+source_type: "youtube"
+lat: 35.655575
+lng: 139.709885
+members:
+  - "タカシ"
+  - "アロハ"
+groups:
+  - "chotokkyu"
+---

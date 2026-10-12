@@ -1,0 +1,23 @@
+---
+layout: shop
+title: "はむら"
+description: "吉田類の酒場放浪記 #890 京成小岩「はむら」（2019-04-01 BS-TBS）で紹介された居酒屋「はむら」（東京都江戸川区）。推し活グルメ巡礼スポット。"
+shop_id: "sakaba_horoki-3ba3bc9e-20190401"
+name: "はむら"
+genre: "izakaya"
+prefecture: "東京都"
+city: "江戸川区"
+address: "東京都江戸川区北小岩3-13-4"
+visited_date: "2019-04-01"
+source_video_title: "吉田類の酒場放浪記 #890 京成小岩「はむら」（2019-04-01 BS-TBS）"
+source_url: "https://bs.tbs.co.jp/sakaba/shop/890.html"
+group: "sakaba_horoki"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+source_type: "tv"
+lat: 35.737125
+lng: 139.891586
+members:
+  - "吉田類"
+groups:
+  - "sakaba_horoki"
+---

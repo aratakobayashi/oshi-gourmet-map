@@ -14,7 +14,7 @@ related_genres:
   - kamenashi-washoku
   - kamenashi-shokuji
 related_groups:
+  - jinsei-saiko-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
+  - burari-ramen
 ---

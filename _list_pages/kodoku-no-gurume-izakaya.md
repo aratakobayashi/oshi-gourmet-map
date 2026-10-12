@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-washoku
   - kodoku-no-gurume-chuka
 related_groups:
-  - west-izakaya
-  - shiori-izakaya
-  - equal-love-izakaya
+  - sakaba-horoki-izakaya
+  - burari-izakaya
+  - jinsei-saiko-izakaya
 ---

@@ -12,7 +12,7 @@ youtube_id: kU8SZpaXoBE
 related_genres:
   - kamaitachi-izakaya
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

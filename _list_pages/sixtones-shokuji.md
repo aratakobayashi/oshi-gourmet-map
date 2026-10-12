@@ -14,7 +14,7 @@ related_genres:
   - sixtones-washoku
   - sixtones-cafe
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

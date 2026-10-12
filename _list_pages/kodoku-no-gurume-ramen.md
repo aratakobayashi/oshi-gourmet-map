@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-washoku
   - kodoku-no-gurume-chuka
 related_groups:
+  - jinsei-saiko-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
+  - burari-ramen
 ---

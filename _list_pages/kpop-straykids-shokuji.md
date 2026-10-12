@@ -7,7 +7,7 @@ group_label: "Stray Kids"
 slug_id: kpop-straykids-shokuji
 shop_count: 5
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - burari-shokuji
+  - omouma-shokuji
 ---

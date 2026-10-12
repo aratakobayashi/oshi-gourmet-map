@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-izakaya
 related_groups:
-  - arashi-sweets
-  - naniwa-sweets
-  - nogizaka46-sweets
+  - burari-sweets
+  - sakaba-horoki-sweets
+  - shojikisanpo-sweets
 ---

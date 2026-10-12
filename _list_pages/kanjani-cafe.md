@@ -7,7 +7,7 @@ group_label: "関ジャニ∞"
 slug_id: kanjani-cafe
 shop_count: 5
 related_groups:
+  - burari-cafe
+  - shojikisanpo-cafe
   - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
 ---
