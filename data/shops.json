@@ -70208,5 +70208,481 @@
       "生姜ミルクシェイク"
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/60/40/P039336040/P039336040_238.jpg"
+  },
+  {
+    "id": "timelesz-6c0597af-20250902",
+    "name": "寿司 魚がし日本一 有楽町店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座1丁目3番先 北有楽ビル1階",
+    "lat": 35.675285,
+    "lng": 139.766205,
+    "source_video_title": "タイムレスマン「アーユーハングリーマン」後編（2025年9月2日 フジテレビ）",
+    "visited_date": "2025-09-02",
+    "members": [
+      "橋本将生",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「アーユーハングリーマン」後編（2025年9月2日 フジテレビ）で橋本将生・篠塚大輝が訪れたお店。",
+    "source_url": "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/",
+    "source_type": "tv",
+    "ordered_items": [
+      "握り寿司"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-b0ae9656-20260626",
+    "name": "中国料理 チャイナルーム（グランド ハイアット 東京）",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木6-10-3 グランド ハイアット 東京 6階",
+    "lat": 35.660206,
+    "lng": 139.729202,
+    "source_video_title": "タイムレスマン「腹ペコ2択マン」第2弾 ゲスト梅沢富美男（2026年6月26日 フジテレビ系）",
+    "visited_date": "2026-06-26",
+    "members": [
+      "佐藤勝利",
+      "菊池風磨",
+      "松島聡",
+      "寺西拓人",
+      "原嘉孝",
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「腹ペコ2択マン」第2弾 ゲスト梅沢富美男（2026年6月26日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡・寺西拓人・原嘉孝・橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/831",
+    "source_type": "tv",
+    "ordered_items": [
+      "海老蒸し餃子・トリュフ小籠包",
+      "釜焼き北京ダック",
+      "伊勢海老チリソース"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-6d806cbf-20260814",
+    "name": "レストラン ラリューム（Restaurant L'allium）",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区白金台4-9-23 B1F",
+    "lat": 35.637966,
+    "lng": 139.723572,
+    "source_video_title": "タイムレスマン「腹ペコ2択マン」第3弾 ゲスト坂上忍（2026年8月14日 フジテレビ系）",
+    "visited_date": "2026-08-14",
+    "members": [
+      "佐藤勝利",
+      "菊池風磨",
+      "松島聡",
+      "寺西拓人",
+      "原嘉孝",
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「腹ペコ2択マン」第3弾 ゲスト坂上忍（2026年8月14日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡・寺西拓人・原嘉孝・橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/890",
+    "source_type": "tv",
+    "ordered_items": [
+      "春野菜のタルタルと蛤、車海老を添えて",
+      "茨城県産活伊勢海老のミ・キュイ"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-b1cf986a-20260724",
+    "name": "築地さのきや",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区築地4-11-9",
+    "lat": 35.665955,
+    "lng": 139.770615,
+    "source_video_title": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）",
+    "visited_date": "2026-07-24",
+    "members": [
+      "寺西拓人",
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で寺西拓人・原嘉孝が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/844",
+    "source_type": "tv",
+    "ordered_items": [
+      "まぐろやき 中トロ"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-a44d3976-20260724",
+    "name": "デリカぱくぱく 浅草店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-43-8",
+    "lat": 35.713657,
+    "lng": 139.792664,
+    "source_video_title": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）",
+    "visited_date": "2026-07-24",
+    "members": [
+      "佐藤勝利",
+      "菊池風磨",
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/844",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-34f1b72f-20260724",
+    "name": "肉の石川",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区入谷1-3-8",
+    "lat": 35.719513,
+    "lng": 139.786285,
+    "source_video_title": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）",
+    "visited_date": "2026-07-24",
+    "members": [
+      "佐藤勝利",
+      "菊池風磨",
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/844",
+    "source_type": "tv",
+    "ordered_items": [
+      "ポテトフライ",
+      "ウインナーフライ"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-b3879ae3-20260724",
+    "name": "銀座コージーコーナー 川口直売店",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "川口市",
+    "address": "埼玉県川口市上青木6-35-7",
+    "lat": 35.835293,
+    "lng": 139.720749,
+    "source_video_title": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）",
+    "visited_date": "2026-07-24",
+    "members": [
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/844",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "tmdb_id": 289474,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-2fee741b-20260726",
+    "name": "フレンチ串揚げ BEIGNET 東京",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区大手町2-6-4 常盤橋タワー1F",
+    "lat": 35.684868,
+    "lng": 139.769455,
+    "source_video_title": "timeleszファミリア「大人の嗜みファミリア Petit」（2026年7月26日 日本テレビ）",
+    "visited_date": "2026-07-26",
+    "members": [
+      "橋本将生"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "timeleszファミリア「大人の嗜みファミリア Petit」（2026年7月26日 日本テレビ）で橋本将生が訪れたお店。",
+    "source_url": "https://idol-portal.com/archives/885",
+    "source_type": "tv",
+    "ordered_items": [
+      "コース「Floraison 開花」"
+    ]
+  },
+  {
+    "id": "timelesz-e8f00d91-20240919",
+    "name": "もんじゃ 大木屋 日暮里本店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "address": "東京都荒川区西日暮里3-13-5",
+    "lat": 35.72802,
+    "lng": 139.766739,
+    "source_video_title": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）",
+    "visited_date": "2024-09-19",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-974821d6-20240919",
+    "name": "黒姫山麓",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "address": "東京都荒川区西日暮里3-15-2",
+    "lat": 35.727707,
+    "lng": 139.766418,
+    "source_video_title": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）",
+    "visited_date": "2024-09-19",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-87e9f39a-20240919",
+    "name": "鳥つね自然洞",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区外神田5-5-2",
+    "lat": 35.703983,
+    "lng": 139.772629,
+    "source_video_title": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）",
+    "visited_date": "2024-09-19",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000243570/"
+  },
+  {
+    "id": "timelesz-9610d641-20240919",
+    "name": "海鮮丼 ころ九",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区蔵前4-20-7 1F",
+    "lat": 35.704597,
+    "lng": 139.789871,
+    "source_video_title": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）",
+    "visited_date": "2024-09-19",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003497544/"
+  },
+  {
+    "id": "timelesz-6b864d4d-20260728",
+    "name": "珈琲館 旦念亭",
+    "genre": "cafe",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町軽井沢東4-2",
+    "lat": 36.343742,
+    "lng": 138.636353,
+    "source_video_title": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）",
+    "visited_date": "2026-07-28",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-466a6542-20260728",
+    "name": "信州十割そば てん 軽井沢",
+    "genre": "washoku",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町軽井沢東6-1 芦沢ビル",
+    "lat": 36.34409,
+    "lng": 138.634033,
+    "source_video_title": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）",
+    "visited_date": "2026-07-28",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004510232/"
+  },
+  {
+    "id": "timelesz-7d382f6a-20260728",
+    "name": "KAGARIBI（ホテルインディゴ軽井沢）",
+    "genre": "shokuji",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町長倉屋敷添18-39",
+    "lat": 36.338917,
+    "lng": 138.591049,
+    "source_video_title": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）",
+    "visited_date": "2026-07-28",
+    "members": [
+      "原嘉孝"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/",
+    "source_type": "tv",
+    "location_unverified": true,
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-f7aa615f-20240526",
+    "name": "とんかつ 井泉 本店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区湯島3-40-3",
+    "lat": 35.707493,
+    "lng": 139.772202,
+    "source_video_title": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）",
+    "visited_date": "2024-05-26",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.activitv.com/entry/nino_240526_nasunaka/",
+    "source_type": "tv",
+    "ordered_items": [
+      "とんかつ"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "tmdb_id": 82913,
+    "tmdb_type": "tv"
+  },
+  {
+    "id": "timelesz-b536a232-20240526",
+    "name": "甘味処 みつばち",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区湯島3-38-10 ハニービル1F",
+    "lat": 35.708069,
+    "lng": 139.771011,
+    "source_video_title": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）",
+    "visited_date": "2024-05-26",
+    "members": [
+      "松島聡"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "description": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）で松島聡が訪れたお店。",
+    "source_url": "https://www.activitv.com/entry/nino_240526_ice-ogura/",
+    "source_type": "tv",
+    "ordered_items": [
+      "小倉アイス"
+    ],
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "tmdb_id": 82913,
+    "tmdb_type": "tv"
   }
 ]
