@@ -14,5 +14,5 @@ related_genres:
 related_groups:
   - naniwa-sweets
   - nogizaka46-sweets
-  - west-sweets
+  - timelesz-sweets
 ---

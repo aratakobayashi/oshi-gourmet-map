@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「台湾餃子LAOLEE 中目黒店」"
-description: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）で紹介された中華「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "かまいガチ 1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で紹介された中華「台湾餃子LAOLEE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-laolee-20250615"
 name: "台湾餃子LAOLEE 中目黒店"
 genre: "chuka"
@@ -10,7 +10,7 @@ city: "目黒区"
 address: "〒153-0051 東京都目黒区上目黒1丁目13-6"
 nearest_station: "中目黒駅 徒歩3分"
 visited_date: "2025-06-15"
-source_video_title: "かまいガチ 焼肉・中目黒食べ歩き（2025年6月15日）"
+source_video_title: "かまいガチ 1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）"
 source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-shinozukataiki-kamaigachi-20250615-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13306628/"
@@ -23,5 +23,5 @@ members:
 groups:
   - "timelesz"
 ordered_items:
-  - "台湾餃子LAOLEE（ラオリー）"
+  - "元祖台湾肉汁水餃子"
 ---

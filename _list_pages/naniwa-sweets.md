@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - arashi-sweets
   - nogizaka46-sweets
-  - west-sweets
+  - timelesz-sweets
 ---

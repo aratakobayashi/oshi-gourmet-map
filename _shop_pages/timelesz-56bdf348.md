@@ -16,10 +16,12 @@ group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13016818/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
 source_type: "tv"
-lat: 35.7175966
-lng: 139.7975626
+lat: 35.711071
+lng: 139.796005
 members:
   - "菊池風磨"
 groups:
   - "timelesz"
+ordered_items:
+  - "雷おこし"
 ---

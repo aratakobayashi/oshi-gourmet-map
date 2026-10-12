@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「団五郎茶屋」"
-description: "タイムレスマン ゴールデン特番「東海道中！脱落旅」で紹介された食事「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）で紹介された食事「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-db83f579-"
 name: "団五郎茶屋"
 genre: "shokuji"
@@ -9,7 +9,7 @@ prefecture: "三重県"
 city: "伊勢市"
 address: "〒516-8558 三重県伊勢市宇治中之切町５２"
 visited_date: "2025-09-27"
-source_video_title: "タイムレスマン ゴールデン特番「東海道中！脱落旅」"
+source_video_title: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24002012/"

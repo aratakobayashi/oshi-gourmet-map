@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「味の中華 羽衣 銀座本店」"
-description: "タイムレスマン「アーユーハングリーマン」で紹介された中華「味の中華 羽衣 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "タイムレスマン「アーユーハングリーマン」（2025年8月26日・9月2日 フジテレビ）で紹介された中華「味の中華 羽衣 銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
 shop_id: "timelesz-11cdabda-"
 name: "味の中華 羽衣 銀座本店"
 genre: "chuka"
@@ -9,7 +9,7 @@ prefecture: "東京都"
 city: "中央区"
 address: "〒104-0061 東京都中央区銀座7丁目12−14 大栄会館 地下1階"
 visited_date: "2025-09-02"
-source_video_title: "タイムレスマン「アーユーハングリーマン」"
+source_video_title: "タイムレスマン「アーユーハングリーマン」（2025年8月26日・9月2日 フジテレビ）"
 source_url: "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13013277/"
@@ -19,14 +19,10 @@ hotpepper_photo: "https://imgfp.hotp.jp/IMGH/80/06/P047988006/P047988006_238.jpg
 lat: 35.668438
 lng: 139.763386
 members:
-  - "松島聡"
-  - "篠塚大輝"
   - "橋本将生"
-  - "猪俣周杜"
+  - "篠塚大輝"
 groups:
   - "timelesz"
 ordered_items:
-  - "焼き餃子"
-  - "蒸し餃子"
-  - "揚げ餃子"
+  - "餃子"
 ---

@@ -8,11 +8,11 @@ slug_id: timelesz-chuka
 shop_count: 10
 group_color: "#0ea5e9"
 group_bio: "timelesz（タイムレス）はSTARTO ENTERTAINMENTの男性グループ（元Sexy Zone）。"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/uHHjlnwVNYgxcKUcBxhRgObJfw5.jpg"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
 related_genres:
-  - timelesz-cafe
-  - timelesz-shokuji
+  - timelesz-washoku
   - timelesz-sweets
+  - timelesz-cafe
 related_groups:
   - kodoku-no-gurume-chuka
   - west-chuka
