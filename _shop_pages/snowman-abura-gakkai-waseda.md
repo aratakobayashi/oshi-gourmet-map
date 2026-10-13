@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「武蔵野アブラ學会 早稲田別館」"
-description: "Snow ManのYouTubeで紹介されたラーメン「武蔵野アブラ學会 早稲田別館」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【油そばブーム到来】」（2025年4月）で、岩本照・ラウール・阿部亮平・宮舘涼太の4人が訪れた早稲田の油そば店。"
 shop_id: "snowman-abura-gakkai-waseda"
 name: "武蔵野アブラ學会 早稲田別館"
 genre: "ramen"
@@ -17,6 +17,8 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130504/13286314/"
 thumbnail_url: "https://img.youtube.com/vi/owkOeu-efg4/hqdefault.jpg"
 seating_note: "2階の座敷席。無限ライスとお水が置いてあるカウンターのすぐそばのテーブルに着席。券売機で先に注文するシステム。昼時は学生・近隣客で混雑するため時間帯をずらすのがおすすめ。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7072
 lng: 139.7192
 members:

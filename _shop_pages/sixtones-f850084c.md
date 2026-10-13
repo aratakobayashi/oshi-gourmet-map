@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「コーヒーラウンジジョイ」"
-description: "【だが、情熱はあるロケ地】山里が花鈴に告白した喫茶店はどこ？で紹介されたカフェ「コーヒーラウンジジョイ」（東京都台東区）。推し活グルメ巡礼スポット。"
+title: "森本慎太郎出演『だが、情熱はある』のロケ地「コーヒーラウンジジョイ」"
+description: "SixTONESの森本慎太郎が出演したドラマ『だが、情熱はある』（2023年）第7話で、山里（森本慎太郎）が花鈴（渋谷凪咲）に告白する場面に使われた浅草の喫茶店。"
 shop_id: "sixtones-f850084c-"
 name: "コーヒーラウンジジョイ"
 genre: "cafe"
@@ -15,14 +15,11 @@ source_url: "https://kosodate-and.net/daga-jyounetsu-yama-karin-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13087993/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
+visit_kind: "drama"
+program: "だが、情熱はある"
 lat: 35.7175966
 lng: 139.7975626
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
 groups:
   - "sixtones"

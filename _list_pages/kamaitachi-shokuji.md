@@ -13,6 +13,6 @@ related_genres:
   - kamaitachi-izakaya
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

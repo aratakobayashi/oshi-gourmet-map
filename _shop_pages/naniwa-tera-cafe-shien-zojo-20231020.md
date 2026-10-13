@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「TERA CAFE SHIEN -ZOJOJI-」"
-description: "なにわ男子のどっち派 (2023-10-20)で紹介されたカフェ「TERA CAFE SHIEN -ZOJOJI-」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2023年10月20日放送）で西畑大吾がモンブランを食べた増上寺境内のカフェ。"
 shop_id: "naniwa-tera_cafe_shien_zojo-20231020"
 name: "TERA CAFE SHIEN -ZOJOJI-"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2023-10-20"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13272452/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6564572
 lng: 139.7481
 members:

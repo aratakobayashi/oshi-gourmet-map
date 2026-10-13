@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「浮曇（うきぐもり）」"
-description: "SixTONESのYouTubeで紹介された居酒屋「浮曇（うきぐもり）」（群馬県渋川市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「帰ってきたアポなし旅～最終話～」（2023年11月）で、6人が温泉に入る前に夕食をとった伊香保温泉石段街の居酒屋。"
 shop_id: "sixtones-ukigumori-ikaho"
 name: "浮曇（うきぐもり）"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=iL3LjxeRpX4"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10022984/"
 thumbnail_url: "https://img.youtube.com/vi/iL3LjxeRpX4/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 36.567381
 lng: 138.983521
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

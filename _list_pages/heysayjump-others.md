@@ -14,7 +14,7 @@ related_genres:
   - heysayjump-cafe
   - heysayjump-washoku
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - nogizaka46-others
 ---

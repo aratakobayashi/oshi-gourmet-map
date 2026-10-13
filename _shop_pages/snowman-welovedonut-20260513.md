@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「WeLoveDonut 神楽坂店」"
-description: "Snow ManのYouTubeで紹介されたスイーツ「WeLoveDonut 神楽坂店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【アドリブほのぼのドライブ！】」（2026年5月）で、ラウール・渡辺翔太・向井康二・宮舘涼太の4人がドライブ中に立ち寄り、テイクアウトしたドーナツ店。"
 shop_id: "snowman-welovedonut-20260513"
 name: "WeLoveDonut 神楽坂店"
 genre: "sweets"
@@ -13,18 +13,15 @@ visited_date: "2026-05-13"
 youtube_id: "p4gDz-rva-8"
 source_video_title: "Snow Man【アドリブほのぼのドライブ！】舘様さんって何！？"
 group: "snowman"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7049
 lng: 139.7353
 members:
-  - "岩本照"
   - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
   - "渡辺翔太"
   - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
+  - "宮舘涼太"
 groups:
   - "snowman"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「フォルクス　高井戸東店」"
-description: "【モニタリング】永瀬廉と北村匠海が訪れたファミレスはどこ？頼んだメニューは？で紹介されたその他「フォルクス　高井戸東店」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "永瀬廉が出演した『ニンゲン観察バラエティ モニタリング』（TBS、2023年11月9日放送）で、永瀬廉が北村匠海とチーズケーキを注文したファミリーレストラン。"
 shop_id: "kingprince-9f60d755-"
 name: "フォルクス　高井戸東店"
 genre: "others"
@@ -15,13 +15,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1318/A131806/13085456/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000143923/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/04/86/P037870486/P037870486_238.jpg"
+visit_kind: "guest_tv"
+program: "モニタリング"
 lat: 35.677460437864696
 lng: 139.61463178329097
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

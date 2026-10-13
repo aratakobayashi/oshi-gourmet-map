@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「lattencos」"
-description: "なにわ男子のどっち派 (2024-01-05)で紹介されたカフェ「lattencos」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年1月5日放送）で長尾謙杜がミカンタンフルと猫プリンを食べた、コスメ店を併設した新宿のカフェ。"
 shop_id: "naniwa-lattencos-20240105"
 name: "lattencos"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2024-01-05"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13249665/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6999128
 lng: 139.6997412
 members:

@@ -13,6 +13,6 @@ related_genres:
   - max-suzuki-chuka
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

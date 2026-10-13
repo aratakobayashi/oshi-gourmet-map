@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「3丁目の小さなパン屋さん「ちいパン」」"
-description: "SixTONESのYouTubeで紹介されたカフェ「3丁目の小さなパン屋さん「ちいパン」」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「緊急で動画回してますw おいしいパン屋さんを探して」（2023年7月）で、朝食を探して訪れた新宿のパン屋。"
 shop_id: "sixtones-a8ce0c6f-20230731"
 name: "3丁目の小さなパン屋さん「ちいパン」"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=EX93VXsmLsI"
 source_url: "https://kosodate-and.net/sixtones-chiipan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6921592
 lng: 139.7006065
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ---

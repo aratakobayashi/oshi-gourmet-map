@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「イカルカフェ」"
-description: "東京タワー【永瀬廉ロケ地】軽井沢で透と詩史が訪れたカフェ・池・ワインショップはどこ？で紹介されたカフェ「イカルカフェ」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+title: "永瀬廉出演『東京タワー』のロケ地「イカルカフェ」"
+description: "永瀬廉が主演したドラマ『東京タワー』（テレビ朝日、2024年）第7話で、透（永瀬廉）と詩史（板谷由夏）が軽井沢でコーヒーを飲んだカフェ。"
 shop_id: "kingprince-6a87d740-"
 name: "イカルカフェ"
 genre: "cafe"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/tokyotower-karuizawa-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/nagano/A2003/A200301/20020207/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
+visit_kind: "drama"
+program: "東京タワー"
 lat: 36.36359610790841
 lng: 138.59134160210064
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

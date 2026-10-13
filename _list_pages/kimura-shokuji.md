@@ -9,6 +9,6 @@ shop_count: 8
 thumbnail_url: "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoyaku_com/20240426/20240426135041.jpg"
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

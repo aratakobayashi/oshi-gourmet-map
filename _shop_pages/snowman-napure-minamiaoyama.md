@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ナプレ 南青山本店」"
-description: "Snow ManのYouTubeで紹介された食事「ナプレ 南青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【みんなでピザが食べたい】」（2025年4月）で、渡辺翔太・阿部亮平・宮舘涼太・佐久間大介の4人が訪れた南青山のピッツェリア。"
 shop_id: "snowman-napure-minamiaoyama"
 name: "ナプレ 南青山本店"
 genre: "shokuji"
@@ -19,12 +19,14 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000242914/"
 thumbnail_url: "https://img.youtube.com/vi/BVjwdZw66Ms/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/90/P018036990/P018036990_238.jpg"
 seating_note: "SnowManが座っていたのは3階の窓際のお席です。 予約時にお席の指定はできないようです。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6651
 lng: 139.7184
 members:
+  - "渡辺翔太"
   - "阿部亮平"
   - "宮舘涼太"
-  - "渡辺翔太"
   - "佐久間大介"
 groups:
   - "snowman"

@@ -13,6 +13,6 @@ related_genres:
   - zousan-washoku
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

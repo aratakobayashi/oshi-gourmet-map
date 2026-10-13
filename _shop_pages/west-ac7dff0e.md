@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ももまる 渋谷店"
-description: "イキスギさんについてった 2023-03-07（中間淳太）ドッキリ居酒屋で紹介された居酒屋「ももまる 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2023年3月7日放送）で、「“お客さん愛”がすぎる店SP」で中間淳太が密着した、常連さんにドッキリを仕掛ける居酒屋。"
 shop_id: "west-ac7dff0e"
 name: "ももまる 渋谷店"
 genre: "izakaya"
@@ -15,6 +15,8 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13222107/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.656406999223975
 lng: 139.70107809882936
 members:

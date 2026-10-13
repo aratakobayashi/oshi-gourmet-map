@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「平塚ジンギスカン すすきの店」"
-description: "SixTONESのYouTubeで紹介された焼肉「平塚ジンギスカン すすきの店」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「アリーナツアー打ち上げin札幌」（2026年5月）で、6人が北海道公演のあとにジンギスカンを食べた店。"
 shop_id: "sixtones-c1965cb5-"
 name: "平塚ジンギスカン すすきの店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=fZDShCN5fxM"
 source_url: "https://kosodate-and.net/sixtones-genghis-khan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1081974/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 43.0511219
 lng: 141.3350833
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ordered_items:

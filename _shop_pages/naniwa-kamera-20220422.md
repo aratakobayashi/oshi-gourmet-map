@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAMERA」"
-description: " シューマイの存在感が増しているのなんでやねん！を解明で紹介された中華「KAMERA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2022年4月22日放送）の「シューマイの存在感が増しているのなんでやねん！」で、高橋恭平が富士鶏と豆腐の水焼売を食べた店。"
 shop_id: "naniwa-kamera-20220422"
 name: "KAMERA"
 genre: "chuka"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ003829570/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/82/33/P045258233/P045258233_238.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.6593786
 lng: 139.6987796
 members:

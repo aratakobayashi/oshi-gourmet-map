@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス」"
-description: "【VS魂ロケ地】渋谷ロクシタン・ハンズ・MEGAドンキ・PARCO・ボウリングはどこ？で紹介されたカフェ「ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年5月18日放送）の渋谷スペシャルのロケで使われた、渋谷駅前のロクシタンのカフェ。"
 shop_id: "kingprince-b6053fe5-"
 name: "ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス"
 genre: "cafe"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/vsdamashii-loccitane-hands"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13225574/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.65931963790337
 lng: 139.69989888304798
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Crispy’s Burger」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された食事「Crispy’s Burger」（東京都）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2021年11月26日放送）の「チキンバーガー専門店が急増してるのなんでやねん！」で、長尾謙杜がクリスピーチキンバーガーを食べた店。"
 shop_id: "naniwa-crispys_burger-20211126"
 name: "Crispy’s Burger"
 genre: "shokuji"
@@ -14,6 +14,8 @@ group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13283647/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.7067455
 lng: 139.7057185
 members:

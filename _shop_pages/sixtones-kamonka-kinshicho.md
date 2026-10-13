@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「GINZA 過門香 錦糸町駅前プラザビル店」"
-description: "SixTONESのYouTubeで紹介された中華「GINZA 過門香 錦糸町駅前プラザビル店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「わんこ小籠包100皿食い尽くせ」（2024年8月）で、6人が小籠包の大食いに挑んだ中華料理店。"
 shop_id: "sixtones-kamonka-kinshicho"
 name: "GINZA 過門香 錦糸町駅前プラザビル店"
 genre: "chuka"
@@ -14,6 +14,8 @@ source_video_title: "SixTONES【わんこ小籠包100皿食い尽くせ】これ
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13243483/"
 thumbnail_url: "https://img.youtube.com/vi/u5IbOEy-HqA/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.695997
 lng: 139.813881
 members:
@@ -21,8 +23,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

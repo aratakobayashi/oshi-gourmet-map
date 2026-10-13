@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-shokuji
   - nogizaka46-sweets
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - sixtones-others
 ---

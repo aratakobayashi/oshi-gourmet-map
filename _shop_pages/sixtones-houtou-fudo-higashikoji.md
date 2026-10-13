@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「ほうとう不動 東恋路店」"
-description: "SixTONESのYouTubeで紹介された和食「ほうとう不動 東恋路店」（山梨県南都留郡富士河口湖町）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「10万円アポなし旅」（2019年7月）で、6人が山梨のほうとうを食べた店。"
 shop_id: "sixtones-houtou-fudo-higashikoji"
 name: "ほうとう不動 東恋路店"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=OopPFZk9LHs"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190303/19004418/"
 thumbnail_url: "https://img.youtube.com/vi/OopPFZk9LHs/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.506083
 lng: 138.749277
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

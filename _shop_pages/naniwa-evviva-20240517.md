@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「EVVIVA!」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介された食事「EVVIVA!」（神奈川県海老名市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年5月17日放送）で藤原丈一郎がミラーボールの下で踊った、ららぽーと海老名のフードコート。"
 shop_id: "naniwa-evviva-20240517"
 name: "EVVIVA!"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2024-05-17"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/kanagawa/A1408/A140801/14061258/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.4557271
 lng: 139.3887716
 members:

@@ -13,7 +13,7 @@ related_genres:
   - sakurazaka46-ramen
   - sakurazaka46-washoku
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - nogizaka46-others
 ---

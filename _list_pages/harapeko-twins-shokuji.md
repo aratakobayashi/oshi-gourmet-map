@@ -13,6 +13,6 @@ related_genres:
   - harapeko-twins-chuka
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

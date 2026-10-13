@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「炭火ホルモン焼のネバーランド」"
-description: "アニマリング【佐久間大介＆髙地優吾】焼肉屋さん・居酒屋はどこ？で紹介された焼肉「炭火ホルモン焼のネバーランド」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの髙地優吾が『モニタリング×アニマリング』（2026年4月）の戸越銀座ロケで、Snow Manの佐久間大介と焼肉を食べた店。"
 shop_id: "sixtones-f292e213-"
 name: "炭火ホルモン焼のネバーランド"
 genre: "yakiniku"
@@ -15,15 +15,12 @@ group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131712/13174357/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001263979/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/20/09/P046502009/P046502009_238.jpg"
+visit_kind: "guest_tv"
+program: "モニタリング×アニマリング"
 lat: 35.6145052
 lng: 139.7164218
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

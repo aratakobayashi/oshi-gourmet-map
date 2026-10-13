@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「わが家の食堂 葛西店」"
-description: "Snow ManのYouTubeで紹介された和食「わが家の食堂 葛西店」（東京都江戸川区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【街の定食屋さんで極上ランチ】」（2025年3月）で、岩本照・深澤辰哉・目黒蓮・ラウールの4人が訪れた葛西の定食屋。"
 shop_id: "snowman-wagaya-shokudo-kasai"
 name: "わが家の食堂 葛西店"
 genre: "washoku"
@@ -17,13 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131305/13136164/"
 thumbnail_url: "https://img.youtube.com/vi/qSQOsjs5ve8/hqdefault.jpg"
 seating_note: "4人が座ったのは、入口から左手のテーブル席ゾーンの中、真ん中の島になっているテーブル席だと思います。 ↓こちらのGoogleマップのお写真の真ん中テーブル席 座り順：右奥が深澤さん・その左隣が岩本さん・右手前がラウールさん・その左隣が目黒さん"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6551
 lng: 139.8727
 members:
-  - "目黒蓮"
-  - "ラウール"
-  - "深澤辰哉"
   - "岩本照"
+  - "深澤辰哉"
+  - "ラウール"
+  - "目黒蓮"
 groups:
   - "snowman"
 tags:

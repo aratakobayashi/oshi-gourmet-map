@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「俺の割烹 炉ばた 恵比寿」"
-description: "Snow ManのYouTubeで紹介された居酒屋「俺の割烹 炉ばた 恵比寿」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【炉端焼きを食べたい！】」（2026年1月）で、岩本照・深澤辰哉・阿部亮平・宮舘涼太の4人が訪れた恵比寿の炉端焼き店。"
 shop_id: "snowman-ore-no-kappo-ebisu"
 name: "俺の割烹 炉ばた 恵比寿"
 genre: "izakaya"
@@ -19,13 +19,15 @@ hotpepper_url: "https://www.hotpepper.jp/strJ004090694/"
 thumbnail_url: "https://img.youtube.com/vi/ueYUZJghOzw/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/57/70/P047845770/P047845770_238.jpg"
 seating_note: "SnowManが座っていた席は、カウンターのお席でした。 炉端焼きを調理している様子が目の前で楽しめるお席です。 カウンター以外にもテーブル席があります。席数は全部で42席あります。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6476
 lng: 139.7131
 members:
   - "岩本照"
   - "深澤辰哉"
-  - "宮舘涼太"
   - "阿部亮平"
+  - "宮舘涼太"
 groups:
   - "snowman"
 tags:

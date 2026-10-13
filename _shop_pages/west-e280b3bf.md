@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶 天文図舘"
-description: "westのYouTubeで紹介されたカフェ「喫茶 天文図舘」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "WEST.の濵田崇裕が公式YouTubeの企画「喫茶と濵田。」（2025年8月）で訪れた喫茶店。"
 shop_id: "west-e280b3bf-"
 name: "喫茶 天文図舘"
 genre: "cafe"
@@ -17,6 +17,8 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13250955/"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.7105571
 lng: 139.636261
 members:

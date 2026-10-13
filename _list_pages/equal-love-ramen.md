@@ -16,5 +16,5 @@ related_genres:
 related_groups:
   - susuru-ramen
   - jinsei-saiko-ramen
-  - seyanen-ramen
+  - haiji-ramen
 ---

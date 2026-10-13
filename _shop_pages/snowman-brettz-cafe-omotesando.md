@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ブレッツカフェ クレープリー 表参道店」"
-description: "Snow ManのYouTubeで紹介されたカフェ「ブレッツカフェ クレープリー 表参道店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【パリから来た伝説の男登場】ガレットってこんなに美味いのか」（2024年3月）で、ラウール・渡辺翔太・阿部亮平・宮舘涼太の4人が訪れたガレットの店。"
 shop_id: "snowman-brettz-cafe-omotesando"
 name: "ブレッツカフェ クレープリー 表参道店"
 genre: "cafe"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=j_N1y5O3wI0"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13001968/"
 thumbnail_url: "https://img.youtube.com/vi/F_8ppM90cTA/hqdefault.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6705
 lng: 139.7128
 members:

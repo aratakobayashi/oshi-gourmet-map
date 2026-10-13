@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "泥人形"
-description: "westのYouTubeで紹介されたカフェ「泥人形」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST.の濵田崇裕が公式YouTubeの企画「喫茶と濵田。」#003（2024年6月）で訪れた喫茶店。"
 shop_id: "west-721bf3e8-"
 name: "泥人形"
 genre: "cafe"
@@ -16,6 +16,8 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130403/13111716/"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.6818379
 lng: 139.7074785
 members:

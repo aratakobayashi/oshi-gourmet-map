@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「みんみんラーメン 本店」"
-description: "SixTONESのYouTubeで紹介されたラーメン「みんみんラーメン 本店」（東京都八王子市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「八王子ラーメンを食べまくる」（2024年2月）で、6人が八王子ラーメンを食べた店。"
 shop_id: "sixtones-7c39702f-"
 name: "みんみんラーメン 本店"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=3QQBHdy3Apg"
 source_url: "https://kosodate-and.net/sixtones-hachioji-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13016383/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6838337
 lng: 139.3031207
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ordered_items:

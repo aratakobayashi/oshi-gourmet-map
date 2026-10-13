@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「月島名物もんじゃ だるま ソラマチ店」"
-description: "SixTONESのYouTubeで紹介された和食「月島名物もんじゃ だるま ソラマチ店」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「桜咲く季節に…忘年会」（2025年4月）で、6人が2024年の大晦日に忘年会をしたもんじゃ焼きの店。"
 shop_id: "sixtones-daruma-soramachi"
 name: "月島名物もんじゃ だるま ソラマチ店"
 genre: "washoku"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=nPERYL83TWE"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13178286/"
 thumbnail_url: "https://img.youtube.com/vi/nPERYL83TWE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.711025
 lng: 139.814476
 members:
@@ -23,8 +25,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

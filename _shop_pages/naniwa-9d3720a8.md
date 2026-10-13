@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「喫茶 アメリカン」"
-description: "なにわ男子のどっち派で紹介されたカフェ「喫茶 アメリカン」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年10月18日放送）で藤原丈一郎がタマゴサンドを食べた銀座の喫茶店。"
 shop_id: "naniwa-9d3720a8-"
 name: "喫茶 アメリカン"
 genre: "cafe"
@@ -16,6 +16,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13051375/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000116884/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/11/66/P012081166/P012081166_238.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.67117
 lng: 139.766249
 members:

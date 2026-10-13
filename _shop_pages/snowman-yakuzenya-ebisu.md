@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「薬膳キッチン やくぜんや」"
-description: "Snow ManのYouTubeで紹介された和食「薬膳キッチン やくぜんや」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【身体に良いらしい…ので食べてみたい】薬膳料理でランチ」（2025年9月）で、岩本照・深澤辰哉・渡辺翔太・佐久間大介の4人が訪れた恵比寿の薬膳料理店。"
 shop_id: "snowman-yakuzenya-ebisu"
 name: "薬膳キッチン やくぜんや"
 genre: "washoku"
@@ -19,6 +19,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ004049853/"
 thumbnail_url: "https://img.youtube.com/vi/GpPJOgdEbhE/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/80/P051183380/P051183380_238.jpg"
 seating_note: "SnowManの4人が座ったお席は、レジとトイレの間にある4人掛けのテーブル席。 お席の指定はできないそうですが、お店の席数は多くないので同じお席に座れる可能性もありそうですね♪"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6469
 lng: 139.7139
 members:

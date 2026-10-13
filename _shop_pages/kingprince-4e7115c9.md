@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「くわっち〜家」"
-description: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖縄料理屋さん＆神社はどこ？いつ？で紹介されたその他「くわっち〜家」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "永瀬廉が出演した『KinKi Kidsのブンブブーン』（フジテレビ、2023年7月15日放送）で、KinKi Kidsと沖縄料理を味わった店（店の公式Xで収録を告知）。"
 shop_id: "kingprince-4e7115c9-"
 name: "くわっち〜家"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/kinki-kids-ren-okinawa"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13027399/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+visit_kind: "guest_tv"
+program: "KinKi Kidsのブンブブーン"
 lat: 35.68815823791049
 lng: 139.77977448328326
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

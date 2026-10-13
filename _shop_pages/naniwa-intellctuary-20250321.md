@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「intellctuary」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介されたカフェ「intellctuary」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年3月21日放送）で大西流星が訪れた、プロジェクションマッピングの空間で食事ができる大崎のカフェレストラン。"
 shop_id: "naniwa-intellctuary-20250321"
 name: "intellctuary"
 genre: "cafe"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1316/A131604/13302242/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003893084/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/72/81/P049527281/P049527281_238.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6193903
 lng: 139.7284866
 members:

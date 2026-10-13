@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「THE LIVING （ザ・リビング）」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾「巨大いちごパフェ」のお店はどこ？で紹介されたその他「THE LIVING （ザ・リビング）」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年5月11日放送）の「背徳グルメ第3弾」で、岸優太が平子祐希（アルコ＆ピース）と巨大いちごパフェを食べた店。"
 shop_id: "kingprince-the_living-"
 name: "THE LIVING （ザ・リビング）"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/vsdamashii-kishi-ichigo-pafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131714/13135826/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.5706647
 lng: 139.6923407
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

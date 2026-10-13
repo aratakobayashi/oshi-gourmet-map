@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「Andhra Dining GINZA」"
-description: "King&Princeる。当たり前レストランで紹介された食事「Andhra Dining GINZA」（東京都中央区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「Andhra Dining GINZA」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年10月22日放送）で、この店の「ハイデラバード・ダム・ビリヤニ」がスタジオに出題されたインド料理店。"
 shop_id: "kingprince-andhra_dining_ginza-20221022"
 name: "Andhra Dining GINZA"
 genre: "shokuji"
@@ -15,14 +15,16 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13136701/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.6745331187211
 lng: 139.76903003431494
 members:
   - "平野紫耀"
-  - "神宮寺勇太"
-  - "岸優太"
-  - "髙橋海人"
   - "永瀬廉"
+  - "髙橋海人"
+  - "岸優太"
+  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

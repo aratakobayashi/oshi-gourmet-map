@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「本所かえる本舗」"
-description: "SixTONESのYouTubeで紹介された和食「本所かえる本舗」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「TOKYOグルメガイド 下町の味！駄菓子もんじゃ!!」（2019年2月）で、6人が両国の駄菓子ともんじゃ焼きを楽しんだ店。"
 shop_id: "sixtones-honjo-kaeru-honpo"
 name: "本所かえる本舗"
 genre: "washoku"
@@ -18,6 +18,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13126861/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000234919/"
 thumbnail_url: "https://img.youtube.com/vi/_vywZByqAdw/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/40/31/P021354031/P021354031_238.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.694572
 lng: 139.793251
 members:
@@ -25,8 +27,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

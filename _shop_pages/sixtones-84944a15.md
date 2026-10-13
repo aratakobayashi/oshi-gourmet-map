@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「食事処 たねいち」"
-description: "SixTONESのYouTubeで紹介されたその他「食事処 たねいち」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「帰ってきたアポなし旅～01～ 朝メシはパン？白飯？」（2023年10月）で、6人が朝食をとった築地場外の海鮮の店。"
 shop_id: "sixtones-84944a15-"
 name: "食事処 たねいち"
 genre: "others"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=TvDS06awArE"
 source_url: "https://fananablog.com/sixtones-seichi-youtube-2023/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13020836/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.666291
 lng: 139.769449
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ---

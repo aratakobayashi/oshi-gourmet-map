@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "さぼうる"
-description: "ヒルナンデス！ 中間淳太 神保町ロケで紹介されたカフェ「さぼうる」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "日本テレビ『ヒルナンデス！』の神保町ロケで、WEST.の中間淳太がピザトーストを食べた喫茶店。"
 shop_id: "west-14dbe122-"
 name: "さぼうる"
 genre: "cafe"
@@ -13,6 +13,8 @@ source_video_title: "ヒルナンデス！ 中間淳太 神保町ロケ"
 source_url: "https://mequl-hibi.com/johnnys-west-sacred/"
 group: "west"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+visit_kind: "guest_tv"
+program: "ヒルナンデス！"
 lat: 35.6956696
 lng: 139.7569835
 members:

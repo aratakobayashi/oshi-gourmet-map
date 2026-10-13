@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「牛追道中 （ウシオイドウチュウ）」"
-description: "SixTONESのYouTubeで紹介された焼肉「牛追道中 （ウシオイドウチュウ）」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「撮れたてほやほや YOUNG OLD５大ドームツアー打上げ！」（2025年4月）で、6人がツアーの打ち上げをした名古屋の焼肉店。"
 shop_id: "sixtones-e6599dc3-"
 name: "牛追道中 （ウシオイドウチュウ）"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=CcwwsKelz6M"
 source_url: "https://kosodate-and.net/sixtones-nagoya-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230104/23060894/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.21947
 lng: 136.981718
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ordered_items:

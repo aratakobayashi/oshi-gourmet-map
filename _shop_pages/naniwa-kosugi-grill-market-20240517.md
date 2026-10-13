@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KOSUGI GRILL MARKET」"
-description: "なにわ男子のどっち派 (2024-05-17)で紹介された焼肉「KOSUGI GRILL MARKET」（神奈川県川崎市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年5月17日放送）で藤原丈一郎が買った肉や魚介を席のグリルで焼いて食べた、武蔵小杉のフードコート。"
 shop_id: "naniwa-kosugi_grill_market-20240517"
 name: "KOSUGI GRILL MARKET"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2024-05-17"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140504/14091971/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.574686
 lng: 139.657252
 members:

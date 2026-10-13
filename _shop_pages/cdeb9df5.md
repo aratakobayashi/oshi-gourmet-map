@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "大新園"
-description: "westが訪れた中華「大新園」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2022年10月11日放送）で、小瀧望が横浜中華街に詳しい常連さんに密着した回で紹介された中華料理店。"
 shop_id: "cdeb9df5"
 name: "大新園"
 genre: "chuka"
@@ -12,6 +12,8 @@ nearest_station: "元町・中華街"
 group: "west"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14001864/"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.442293938024356
 lng: 139.6469802808929
 members:

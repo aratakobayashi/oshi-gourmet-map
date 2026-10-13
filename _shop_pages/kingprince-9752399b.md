@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「魚清楼（うおせいろう）」"
-description: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロケ地】滋賀県琵琶湖のお店・ホテルはどこ？で紹介された和食「魚清楼（うおせいろう）」（滋賀県大津市）。推し活グルメ巡礼スポット。"
+description: "永瀬廉・髙橋海人が出演したNHK BS『プレミセ！』（2023年11月24日放送）の滋賀ロケで、湖魚を焼く場面が撮られた堅田の料理旅館。"
 shop_id: "kingprince-9752399b-"
 name: "魚清楼（うおせいろう）"
 genre: "washoku"
@@ -13,13 +13,13 @@ source_video_title: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロ�
 source_url: "https://kosodate-and.net/puremise-renkai-shiga"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shiga/A2501/A250101/25000290/"
+visit_kind: "guest_tv"
+program: "プレミセ！"
 lat: 35.00316363709936
 lng: 135.86667617910717
 members:
   - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

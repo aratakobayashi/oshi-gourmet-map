@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ハイカラ フライド チキン ヨドバシAkiba店」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された食事「ハイカラ フライド チキン ヨドバシAkiba店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2021年11月26日放送）の「チキンバーガー専門店が急増してるのなんでやねん！」で、長尾謙杜がハイカラオリジナルチキンバーガーを食べた秋葉原の店。"
 shop_id: "naniwa-akiba-20211126"
 name: "ハイカラ フライド チキン ヨドバシAkiba店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131001/13264291/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.698802
 lng: 139.773971
 members:

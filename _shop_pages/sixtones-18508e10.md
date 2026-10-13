@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「麦酒倶楽部 ポパイ（バクシュクラブ ポパイ）」"
-description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたその他「麦酒倶楽部 ポパイ（バクシュクラブ ポパイ）」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの冠番組『SixTONESの今日からプロデューサーズ！』（2024年9月）で、田中樹と松村北斗がビール選びのために訪れた両国のビアバー。"
 shop_id: "sixtones-18508e10-"
 name: "麦酒倶楽部 ポパイ（バクシュクラブ ポパイ）"
 genre: "others"
@@ -13,15 +13,13 @@ source_video_title: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ�
 source_url: "https://kosodate-and.net/sixtones-hokujuri-beer"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13007996/"
+visit_kind: "own_tv"
+program: "SixTONESの今日からプロデューサーズ！（ストP）"
 lat: 35.696861
 lng: 139.7974842
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
   - "田中樹"
-  - "森本慎太郎"
+  - "松村北斗"
 groups:
   - "sixtones"
 ---

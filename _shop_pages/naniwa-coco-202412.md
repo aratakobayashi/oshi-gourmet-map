@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CoCo壱番屋 中目黒山手通店」"
-description: "なにわ男子のYouTubeで紹介された食事「CoCo壱番屋 中目黒山手通店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "なにわ男子の公式YouTube「ココイチで被っちゃダメよカレー」（2024年12月）で7人が注文を被らないように食べたカレー店。"
 shop_id: "naniwa-coco-202412"
 name: "CoCo壱番屋 中目黒山手通店"
 genre: "shokuji"
@@ -16,8 +16,18 @@ source_video_url: "https://www.youtube.com/watch?v=wvv-EUPN6_8"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13236641/"
 thumbnail_url: "https://img.youtube.com/vi/wvv-EUPN6_8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "なにわTube（なにわ男子公式YouTube）"
 lat: 35.6441592
 lng: 139.6950848
+members:
+  - "西畑大吾"
+  - "大西流星"
+  - "道枝駿佑"
+  - "高橋恭平"
+  - "長尾謙杜"
+  - "藤原丈一郎"
+  - "大橋和也"
 groups:
   - "naniwa"
 ordered_items:

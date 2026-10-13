@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「クーロンヌつくば」"
-description: "キントレ炊飯器の旅【髙橋海人ロケ地】茨城県つくば市のパン屋さんはどこ？食べたパンは何？で紹介されたその他「クーロンヌつくば」（茨城県つくば市）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2025年5月31日放送）の「炊飯器の旅」つくば編で、髙橋海人がソーセージフランスを買ったパン店。"
 shop_id: "kingprince-65fc5a18-"
 name: "クーロンヌつくば"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/kintore-suihanki-kaito-panya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0802/A080201/8001304/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（炊飯器の旅）"
 lat: 36.06126342858557
 lng: 140.11471239797896
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

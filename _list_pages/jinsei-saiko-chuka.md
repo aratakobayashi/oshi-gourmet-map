@@ -13,6 +13,6 @@ related_genres:
   - jinsei-saiko-ramen
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
-  - omouma-chuka
+  - gyoza-tv-chuka
+  - gochi-chuka
 ---

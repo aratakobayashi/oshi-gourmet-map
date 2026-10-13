@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ここのつ 3号店」"
-description: "Snow ManのYouTubeで紹介された和食「ここのつ 3号店」（東京都足立区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【人生最高のレバニラに出会った!?】」（2024年4月）で、渡辺翔太・向井康二・阿部亮平・佐久間大介の4人が訪れた北千住の定食店。"
 shop_id: "snowman-kokonotsu-kitasenju"
 name: "ここのつ 3号店"
 genre: "washoku"
@@ -16,11 +16,13 @@ source_video_url: "https://www.youtube.com/watch?v=Y-P2-nK7_Xo"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132402/13288277/"
 thumbnail_url: "https://img.youtube.com/vi/8ZQTzKfmMrM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7491
 lng: 139.8025
 members:
-  - "向井康二"
   - "渡辺翔太"
+  - "向井康二"
   - "阿部亮平"
   - "佐久間大介"
 groups:

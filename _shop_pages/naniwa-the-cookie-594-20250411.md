@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「THE COOKIE 594」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「THE COOKIE 594」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年4月11日放送）で大橋和也がタオルの形のケーキを食べた新宿の店。"
 shop_id: "naniwa-the_cookie_594-20250411"
 name: "THE COOKIE 594"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-04-11"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13272852/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6999128
 lng: 139.6997412
 members:

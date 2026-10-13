@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "山西亭"
-description: "イキスギさんについてった 2022-11-22（中間淳太）焼きそばワールドツアーで紹介された食事「山西亭」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2022年11月22日放送）で、中間淳太が焼きそば好きの常連さんに密着し、刀削麺の焼きそばを食べた中華料理店。"
 shop_id: "west-e547e60d"
 name: "山西亭"
 genre: "shokuji"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001134893/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/58/P023340158/P023340158_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.70170073787903
 lng: 139.70793978347044
 members:

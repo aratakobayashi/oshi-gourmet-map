@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「シェ・カザマ」"
-description: "『わが家は楽し』ロケ地のパン屋さんはどこ？【髙橋海人（和夫）＆山田杏奈（美鈴）】で紹介されたその他「シェ・カザマ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+title: "髙橋海人出演『わが家は楽し』のロケ地「シェ・カザマ」"
+description: "髙橋海人が出演したドラマ特別企画『わが家は楽し』（2025年3月13日放送）で、美鈴（山田杏奈）が働くパン店として使われた麹町のパン店。和夫（髙橋海人）と美鈴の撮影が行われた。"
 shop_id: "kingprince-d94dcf02-"
 name: "シェ・カザマ"
 genre: "others"
@@ -12,13 +12,12 @@ source_video_title: "『わが家は楽し』ロケ地のパン屋さんはど�
 source_url: "https://kosodate-and.net/wagaya-panya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13000429/"
+visit_kind: "drama"
+program: "わが家は楽し"
 lat: 35.686593918704126
 lng: 139.7397844544573
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

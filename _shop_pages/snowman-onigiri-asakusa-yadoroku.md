@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「おにぎり浅草宿六」"
-description: "Snow ManのYouTubeで紹介された和食「おにぎり浅草宿六」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【東京で最古…元祖にぎりめし】」（2024年9月）で、深澤辰哉・ラウール・渡辺翔太・向井康二の4人が訪れた浅草のおにぎり店。"
 shop_id: "snowman-onigiri-asakusa-yadoroku"
 name: "おにぎり浅草宿六"
 genre: "washoku"
@@ -17,13 +17,15 @@ tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000126816/"
 thumbnail_url: "https://img.youtube.com/vi/5B1_1ipNkJE/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/48/P012808948/P012808948_238.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7181
 lng: 139.8025
 members:
   - "深澤辰哉"
+  - "ラウール"
   - "渡辺翔太"
   - "向井康二"
-  - "ラウール"
 groups:
   - "snowman"
 tags:

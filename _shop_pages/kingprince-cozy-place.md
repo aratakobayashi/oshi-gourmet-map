@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「COZY PLACE」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！チーズトンカツのお店はどこ？で紹介されたその他「COZY PLACE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年5月11日放送）の「背徳グルメ第3弾」で、岸優太が平子祐希（アルコ＆ピース）とチーズトンカツを食べた店。"
 shop_id: "kingprince-cozy_place-"
 name: "COZY PLACE"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/vsdamashii-kishi-cozyplace"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13282285/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.70150302318357
 lng: 139.7018867886979
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "あじわい回転寿司 禅"
-description: "westが訪れた和食「あじわい回転寿司 禅」（神奈川県小田原市）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2023年2月21日放送）で、「なのにツアー」で桐山照史が常連さんと巡った回転寿司店。"
 shop_id: "ce8d5aec"
 name: "あじわい回転寿司 禅"
 genre: "washoku"
@@ -12,6 +12,8 @@ nearest_station: "小田原"
 group: "west"
 tabelog_url: "https://tabelog.com/kanagawa/A1409/A140901/14030491/"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.255603088796676
 lng: 139.1708630805027
 members:

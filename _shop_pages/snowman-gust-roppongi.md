@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「ガスト 六本木店」"
-description: "Snow ManのYouTubeで紹介された食事「ガスト 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【ガストでお腹いっぱいになろう！】」（2026年3月）で、岩本照・深澤辰哉・ラウール・渡辺翔太・向井康二の5人が訪れたファミリーレストラン。"
 shop_id: "snowman-gust-roppongi"
 name: "ガスト 六本木店"
 genre: "shokuji"
@@ -17,6 +17,8 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13159827/"
 thumbnail_url: "https://img.youtube.com/vi/SVXHY5KpPuA/hqdefault.jpg"
 seating_note: "SnowManメンバーがガスト六本木店で座った席は、53番のテーブル席です。 壁沿いのソファがある広いお席でしたね。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.663
 lng: 139.7302
 members:

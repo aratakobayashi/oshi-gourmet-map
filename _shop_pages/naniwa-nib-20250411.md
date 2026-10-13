@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「nib(ニブ)」"
-description: "なにわ男子のどっち派 (2025-04-11)で紹介されたスイーツ「nib(ニブ)」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年4月11日放送）で大橋和也がカカオのデザートコースを食べた店。"
 shop_id: "naniwa-nib-20250411"
 name: "nib(ニブ)"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-04-11"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130202/13304544/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.681076
 lng: 139.777678
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「羽田市場 GINZA SEVEN」"
-description: "Snow ManのYouTubeで紹介された和食「羽田市場 GINZA SEVEN」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【贅沢ランチ】ザギンでシースー」（2025年7月）で、渡辺翔太・阿部亮平・宮舘涼太・佐久間大介の4人が訪れた銀座の寿司店。"
 shop_id: "snowman-haneda-ichiba-ginza"
 name: "羽田市場 GINZA SEVEN"
 genre: "washoku"
@@ -17,13 +17,15 @@ tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13228726/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001223626/"
 thumbnail_url: "https://img.youtube.com/vi/WplSm1TEzbI/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/46/P038210146/P038210146_238.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6693
 lng: 139.7633
 members:
-  - "岩本照"
+  - "渡辺翔太"
+  - "阿部亮平"
   - "宮舘涼太"
   - "佐久間大介"
-  - "目黒蓮"
 groups:
   - "snowman"
 tags:

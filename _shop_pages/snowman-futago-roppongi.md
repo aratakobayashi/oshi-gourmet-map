@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「大阪焼肉・ホルモン ふたご 六本木店」"
-description: "Snow ManのYouTubeで紹介された焼肉「大阪焼肉・ホルモン ふたご 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【思い出のあの場所で…焼肉】」（2025年12月）で、阿部亮平・目黒蓮の2人が訪れた六本木の焼肉店。"
 shop_id: "snowman-futago-roppongi"
 name: "大阪焼肉・ホルモン ふたご 六本木店"
 genre: "yakiniku"
@@ -18,11 +18,13 @@ tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13168180/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001117343/"
 thumbnail_url: "https://img.youtube.com/vi/m357q_FwBCE/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/46/P050736546/P050736546_238.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.663
 lng: 139.7302
 members:
-  - "目黒蓮"
   - "阿部亮平"
+  - "目黒蓮"
 groups:
   - "snowman"
 tags:

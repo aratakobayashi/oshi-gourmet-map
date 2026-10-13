@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "中華料理あさひ"
-description: "イキスギさんについてった 2022-09-06（重岡大毅）チャーハンで紹介された中華「中華料理あさひ」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2022年9月6日放送）で、重岡大毅がチャーハン好きの常連さんに密着し、肉ニラ炒めとチャーハンを食べた中華料理店。"
 shop_id: "west-cda14ab3"
 name: "中華料理あさひ"
 genre: "chuka"
@@ -15,6 +15,8 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13057892/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.71753258870262
 lng: 139.79673360472987
 members:

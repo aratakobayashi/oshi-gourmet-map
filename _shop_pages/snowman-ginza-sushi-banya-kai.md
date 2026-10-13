@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA SUSHI BANYA KAI」"
-description: "Snow ManのYouTubeで紹介された和食「GINZA SUSHI BANYA KAI」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【ザギンでシースー】北海道直前のご褒美タイム」（2025年12月）で、ラウール・渡辺翔太・向井康二の3人が訪れた銀座の寿司店。"
 shop_id: "snowman-ginza-sushi-banya-kai"
 name: "GINZA SUSHI BANYA KAI"
 genre: "washoku"
@@ -16,12 +16,14 @@ source_video_url: "https://www.youtube.com/watch?v=5TbjbC6I9vY"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13277198/"
 thumbnail_url: "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6727
 lng: 139.7683
 members:
+  - "ラウール"
   - "渡辺翔太"
   - "向井康二"
-  - "ラウール"
 groups:
   - "snowman"
 tags:

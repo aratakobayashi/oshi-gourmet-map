@@ -11,6 +11,6 @@ related_genres:
   - yuyake-sakaba-washoku
 related_groups:
   - sakaba-horoki-izakaya
-  - yonchan-tv-izakaya
+  - shiyago-izakaya
   - otonatabi-izakaya
 ---

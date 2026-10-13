@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「クレープとエスプレッソと」"
-description: "ヒルナンデス【京本大我＆横山裕】ハンバーグ・パリパリクレープ・サーモンレアカツ丼・トースティ・ヨーグルトはどこ？で紹介されたカフェ「クレープとエスプレッソと」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの京本大我が『ヒルナンデス！』（2024年6月）のバス旅企画で、横山裕とクレープを食べた表参道の店。"
 shop_id: "sixtones-5d896d96-"
 name: "クレープとエスプレッソと"
 genre: "cafe"
@@ -15,15 +15,12 @@ source_url: "https://kosodate-and.net/hirunan-yokoyama-taiga-bus"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13294987/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+visit_kind: "guest_tv"
+program: "ヒルナンデス！"
 lat: 35.6692039
 lng: 139.7072847
 members:
-  - "ジェシー"
   - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

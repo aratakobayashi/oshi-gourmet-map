@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「お好み焼幸永 おうさか苑」"
-description: "【アンサンブル ロケ地】お好み焼き屋さんはどこ？真戸原（松村北斗）＆宇井（田中圭）で紹介されたその他「お好み焼幸永 おうさか苑」（東京都新宿区）。推し活グルメ巡礼スポット。"
+title: "松村北斗出演『アンサンブル』のロケ地「お好み焼幸永 おうさか苑」"
+description: "SixTONESの松村北斗が出演したドラマ『アンサンブル』（2025年）第8話で、真戸原（松村北斗）と宇井（田中圭）がお好み焼きを食べる場面に使われた歌舞伎町の店。"
 shop_id: "sixtones-1bf9c12c-"
 name: "お好み焼幸永 おうさか苑"
 genre: "others"
@@ -16,15 +16,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13271141/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000001567/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/auRHdqwCV8ZP3LKikPcHCzccZef.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/34/66/P044593466/P044593466_238.jpg"
+visit_kind: "drama"
+program: "アンサンブル"
 lat: 35.6945429
 lng: 139.7027105
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

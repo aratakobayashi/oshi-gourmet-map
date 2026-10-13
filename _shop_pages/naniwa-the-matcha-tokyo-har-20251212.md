@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「THE MATCHA TOKYO HARAJUKU」"
-description: "なにわ男子のどっち派 (2025-12-12)で紹介されたカフェ「THE MATCHA TOKYO HARAJUKU」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年12月12日放送）で藤原丈一郎が抹茶ドリンクと抹茶どらやきを食べ、茶室で茶道を体験した原宿の抹茶専門店。"
 shop_id: "naniwa-the_matcha_tokyo_har-20251212"
 name: "THE MATCHA TOKYO HARAJUKU"
 genre: "cafe"
@@ -13,6 +13,8 @@ source_video_title: "なにわ男子のどっち派 (2025-12-12)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2025-12-12"
 group: "naniwa"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6692039
 lng: 139.7072847
 members:

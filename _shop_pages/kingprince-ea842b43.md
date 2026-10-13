@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「スターバックス コーヒー 目黒店」"
-description: "キントレ バイトレ【髙橋海人 ロケ地】スタバ（スターバックス コーヒー）はどこ？で紹介されたカフェ「スターバックス コーヒー 目黒店」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2025年9月27日放送）の「バイトレ」スターバックス回で、髙橋海人が訪れた本社ビル1階の店舗。"
 shop_id: "kingprince-ea842b43-"
 name: "スターバックス コーヒー 目黒店"
 genre: "cafe"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/kintore-kaito-starbucks"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13155889/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（バイトレ）"
 lat: 35.634418548729116
 lng: 139.7142066939482
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

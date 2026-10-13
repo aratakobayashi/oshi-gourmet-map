@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「AJILLO アヒージョ専門店 神田西口店」"
-description: "なにわ男子のどっち派 (2025-03-21)で紹介された食事「AJILLO アヒージョ専門店 神田西口店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年3月21日放送）で大西流星が卓上でアヒージョを作って食べた神田の専門店。"
 shop_id: "naniwa-ajillo-20250321"
 name: "AJILLO アヒージョ専門店 神田西口店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13303536/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.690601
 lng: 139.768027
 members:

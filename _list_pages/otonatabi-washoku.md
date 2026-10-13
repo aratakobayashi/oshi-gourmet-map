@@ -13,6 +13,6 @@ related_genres:
   - otonatabi-yakiniku
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - burari-washoku
+  - rosenbus-washoku
 ---

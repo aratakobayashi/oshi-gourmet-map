@@ -12,6 +12,6 @@ related_genres:
   - gochi-washoku
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

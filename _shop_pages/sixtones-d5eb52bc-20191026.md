@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「うなぎ 徳 渋谷店」"
-description: "SixTONESのYouTubeで紹介された和食「うなぎ 徳 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「Tokyo Drive Vol.2」（2019年10月）で、6人がうなぎを食べた渋谷ヒカリエの店。"
 shop_id: "sixtones-d5eb52bc-20191026"
 name: "うなぎ 徳 渋谷店"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=IL6OX1NjzsM"
 source_url: "https://www.hotpepper.jp/strJ003297285/"
 group: "sixtones"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.659267
 lng: 139.703964
 members:

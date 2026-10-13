@@ -9,6 +9,6 @@ shop_count: 6
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7Lc6zrq5f2OJGDUGCYyncjgIYds.jpg"
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

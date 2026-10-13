@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「おにぎり浅草宿六（おにぎり あさくさやどろく）」"
-description: "【ニノさん】川口春奈の気になるモノ おにぎり専門店はどこ？Snow Manと同じおにぎり屋さん？で紹介されたその他「おにぎり浅草宿六（おにぎり あさくさやどろく）」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの松村北斗が川口春奈とゲスト出演した『ニノさん』（2025年1月）で、「川口春奈の今一番気になるモノ」として紹介されたおにぎり専門店。"
 shop_id: "sixtones-37abdfe3-20230304"
 name: "おにぎり浅草宿六（おにぎり あさくさやどろく）"
 genre: "others"
@@ -14,15 +14,12 @@ source_url: "https://kosodate-and.net/ninosan-haruna-onigiri"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+visit_kind: "guest_tv"
+program: "ニノさん"
 lat: 35.7175966
 lng: 139.7975626
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

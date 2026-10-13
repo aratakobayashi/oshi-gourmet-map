@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「焼肉Meat it」"
-description: "新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明で紹介された焼肉「焼肉Meat it」（東京都町田市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2021年10月29日放送）の「新しいタイプの焼き肉店が拡大しているのなんでやねん！」で取り上げられた焼肉店。"
 shop_id: "naniwa-meat_it-20211029"
 name: "焼肉Meat it"
 genre: "yakiniku"
@@ -16,6 +16,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001266818/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/16/13/P040711613/P040711613_238.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.5413685
 lng: 139.4520661
 members:

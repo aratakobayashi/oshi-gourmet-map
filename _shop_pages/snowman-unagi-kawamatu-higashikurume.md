@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「うなぎ川松」"
-description: "Snow ManのYouTubeで紹介された和食「うなぎ川松」（東京都東久留米市）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【釣り部結成記念食事会】鰻を食べよう」（2024年2月）で、深澤辰哉・阿部亮平・目黒蓮・佐久間大介の4人が訪れた東久留米のうなぎ店。"
 shop_id: "snowman-unagi-kawamatu-higashikurume"
 name: "うなぎ川松"
 genre: "washoku"
@@ -17,13 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132802/13197749/"
 thumbnail_url: "https://img.youtube.com/vi/oEsMgH5QhFQ/hqdefault.jpg"
 seating_note: "SnowManが座った席は、3階の個室席です。 お店のホームページに下記注意書きがあります↓ SnowMan席の指定はできないようですが、空いていればお席を見させていただけるという口コミもありました。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.74622
 lng: 139.515533
 members:
-  - "岩本照"
   - "深澤辰哉"
-  - "佐久間大介"
+  - "阿部亮平"
   - "目黒蓮"
+  - "佐久間大介"
 groups:
   - "snowman"
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」"
-description: "SixTONESのYouTubeで紹介されたカフェ「Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「MV撮影の合間に…カメラ回してみた!!」（2023年3月）で、髙地優吾・京本大我・ジェシー・森本慎太郎が訪れた横浜赤レンガ倉庫のレストラン。"
 shop_id: "sixtones-lacocorico-akarenga"
 name: "Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "【SixTONES】MV撮影の合間に…カメラ回してみ�
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140104/14070710/"
 thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.454237
 lng: 139.644074
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「ブラッスリー ポール・ボキューズ 銀座」"
-description: "King&Princeる。当たり前レストランで紹介された食事「ブラッスリー ポール・ボキューズ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「ブラッスリー ポール・ボキューズ 銀座」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2023年3月4日放送）で、この店の「ロッシーニ」がスタジオに出題され、正解した髙橋海人・神宮寺勇太が試食したフランス料理店。"
 shop_id: "kingprince-41fc4dc8-20230304"
 name: "ブラッスリー ポール・ボキューズ 銀座"
 genre: "shokuji"
@@ -16,14 +16,13 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000689266/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/48/P045007948/P045007948_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.674202638720146
 lng: 139.7653572643142
 members:
-  - "平野紫耀"
-  - "神宮寺勇太"
-  - "岸優太"
   - "髙橋海人"
-  - "永瀬廉"
+  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

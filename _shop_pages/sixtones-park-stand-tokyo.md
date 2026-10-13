@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「PARK STAND TOKYO 清澄白河」"
-description: "めざましテレビ【京本大我＆宮近海斗】清澄白河のカフェはどこ？盆栽プリン・抹茶パンケーキ・バスクチーズケーキで紹介されたその他「PARK STAND TOKYO 清澄白河」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの京本大我が『めざましテレビ』（2024年5月）の「リポーターやってください！」で、Travis Japanの宮近海斗とリポートした清澄白河のカフェ。"
 shop_id: "sixtones-park_stand_tokyo-"
 name: "PARK STAND TOKYO 清澄白河"
 genre: "others"
@@ -15,15 +15,12 @@ source_url: "https://kosodate-and.net/mezamashi-taiga-kaito-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13293018/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "めざましテレビ"
 lat: 35.6826914
 lng: 139.7960478
 members:
-  - "ジェシー"
   - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

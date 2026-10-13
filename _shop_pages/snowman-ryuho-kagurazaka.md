@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「龍朋」"
-description: "Snow ManのYouTubeで紹介された中華「龍朋」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【街中華の名店で朝食】」（2024年12月）で、岩本照・阿部亮平・目黒蓮・宮舘涼太の4人が訪れた神楽坂の中華料理店。"
 shop_id: "snowman-ryuho-kagurazaka"
 name: "龍朋"
 genre: "chuka"
@@ -17,13 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13006446/"
 thumbnail_url: "https://img.youtube.com/vi/EWIafNjEYU4/hqdefault.jpg"
 seating_note: "4人が座った席は、入口入って右手エリア、入口から2個目のテーブル席（店内真ん中あたり）。 ショート動画に映っていたお席は、入り口から入って右手のソファ席です。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.703
 lng: 139.7383
 members:
-  - "宮舘涼太"
   - "岩本照"
   - "阿部亮平"
   - "目黒蓮"
+  - "宮舘涼太"
 groups:
   - "snowman"
   - "kodoku_no_gurume"

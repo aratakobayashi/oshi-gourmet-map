@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「YY Kafei Dian 喜園咖啡店」"
-description: "SixTONESのYouTubeで紹介されたカフェ「YY Kafei Dian 喜園咖啡店」（シンガポールBeach Rd）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「明日も来たい!! 絶品朝メシinシンガポール」（2026年1月）で、6人がシンガポール到着後に朝食をとったカフェ。"
 shop_id: "sixtones-yy_kafei_dian-202403"
 name: "YY Kafei Dian 喜園咖啡店"
 genre: "cafe"
@@ -14,6 +14,8 @@ source_video_title: "SixTONES【明日も来たい!!】絶品朝メシinシン�
 source_video_url: "https://www.youtube.com/watch?v=H-D82p_T8Xo"
 group: "sixtones"
 thumbnail_url: "https://img.youtube.com/vi/BK4o1X5khKU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 1.2965
 lng: 103.8549
 members:

@@ -14,6 +14,6 @@ related_genres:
   - sakurazaka46-others
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

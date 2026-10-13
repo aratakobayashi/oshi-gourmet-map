@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「焼肉酒家 傳々（ヤキニクシュカ デンデン）」"
-description: "【木村さ〜〜ん！】木村拓哉とジェシーの焼肉屋さんはどこ？食べたメニューは何？で紹介された焼肉「焼肉酒家 傳々（ヤキニクシュカ デンデン）」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "木村拓哉のYouTube『木村さ〜〜ん！』（2024年2月）で、ジェシーが木村拓哉と訪れた月島の焼肉店。"
 shop_id: "sixtones-4ab100a4-"
 name: "焼肉酒家 傳々（ヤキニクシュカ デンデン）"
 genre: "yakiniku"
@@ -17,15 +17,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13022287/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000243474/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/26/P021441426/P021441426_238.jpg"
+visit_kind: "youtube"
+program: "木村さ〜〜ん！（木村拓哉の公式YouTube）"
 lat: 35.6632293
 lng: 139.7822568
 members:
   - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ordered_items:

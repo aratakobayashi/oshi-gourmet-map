@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「五右衛門 赤坂店」"
-description: "【SixTONES】五右衛門はどこ？赤坂？6人全員が食べたメニューは何？で紹介されたその他「五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの6人が『CDTVライブ！ライブ！』の空き時間に訪れたと伝えられる赤坂のパスタ店。"
 shop_id: "sixtones-cd8bce35-"
 name: "五右衛門 赤坂店"
 genre: "others"
@@ -13,6 +13,7 @@ source_video_title: "【SixTONES】五右衛門はどこ？赤坂？6人全員�
 source_url: "https://kosodate-and.net/sixtones-goemon"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13123355/"
+visit_kind: "other"
 lat: 35.6716786
 lng: 139.7356224
 members:
@@ -20,8 +21,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ordered_items:

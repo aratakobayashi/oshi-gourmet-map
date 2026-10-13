@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "香港料理店 福全徳"
-description: "キントレ【永瀬廉＆桐山照史】まかないハンターの天ぷら屋・フレンチ・お寿司屋さん・香港料理店はどこ？で紹介された中華「香港料理店 福全徳」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』の企画「まかないハンター」（2025年11月22日放送）で、WEST.の桐山照史が永瀬廉と訪れた香港料理店。"
 shop_id: "west-afb128a1-"
 name: "香港料理店 福全徳"
 genre: "chuka"
@@ -13,16 +13,12 @@ source_url: "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13228340/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "guest_tv"
+program: "キントレ"
 lat: 35.70226306201968
 lng: 139.74056965220763
 members:
-  - "重岡大毅"
   - "桐山照史"
-  - "神山智洋"
-  - "濵田崇裕"
-  - "小瀧望"
-  - "藤井流星"
-  - "中間淳太"
 groups:
   - "west"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「牡蠣海鮮　かいり」"
-description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介された和食「牡蠣海鮮　かいり」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年3月16日放送）の「背徳グルメ」第2弾で、岸優太が痛風鍋を食べた店。"
 shop_id: "kingprince-a5e65145-"
 name: "牡蠣海鮮　かいり"
 genre: "washoku"
@@ -15,13 +15,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13233312/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001143843/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/96/P050029596/P050029596_238.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.65910333790264
 lng: 139.6971362830477
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

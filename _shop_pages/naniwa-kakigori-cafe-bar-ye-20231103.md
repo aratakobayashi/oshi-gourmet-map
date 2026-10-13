@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「KAKIGORI CAFE&BAR yelo」"
-description: "なにわ男子のどっち派 (2023-11-03)で紹介されたスイーツ「KAKIGORI CAFE&BAR yelo」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2023年11月3日放送）で大西流星がティラミスのかき氷を食べた六本木のかき氷店。"
 shop_id: "naniwa-kakigori_cafe_bar_ye-20231103"
 name: "KAKIGORI CAFE&BAR yelo"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2023-11-03"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13166459/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6624568
 lng: 139.7334981
 members:
