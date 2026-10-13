@@ -11,7 +11,9 @@ address: "東京都葛飾区新小岩1-36-6"
 source_video_title: "夕焼け酒場 #573 葛飾区新小岩「響処 だんだん」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num573"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001013502/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/60/52/P020696052/P020696052_238.jpg"
 source_type: "tv"
 lat: 35.714249
 lng: 139.860138

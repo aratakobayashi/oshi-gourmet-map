@@ -12,7 +12,9 @@ visited_date: "2019-12-07"
 source_video_title: "ぶらり途中下車の旅 東葉高速線・東西線の旅 旅人：かとうかず子（2019-12-07 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227xgzbhw36mq5hghs8.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ001154588/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/74/29/P032747429/P032747429_238.jpg"
 source_type: "tv"
 lat: 35.668766
 lng: 139.885696

@@ -16,6 +16,8 @@ source_url: "https://www.youtube.com/watch?v=I3PQjfmn0lU"
 group: "max_suzuki"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11034457/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ001258462/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/86/21/P040608621/P040608621_238.jpg"
 source_type: "youtube"
 lat: 35.912258
 lng: 139.484589

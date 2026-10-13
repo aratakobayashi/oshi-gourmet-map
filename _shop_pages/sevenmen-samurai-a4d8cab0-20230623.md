@@ -14,6 +14,8 @@ source_video_title: "7 MEN 侍【お願いだから食べさせて!!】超高級
 source_video_url: "https://www.youtube.com/watch?v=gSBR5nxEtOg"
 source_url: "https://reastar6.hatenablog.jp/entry/2023/10/13/103720"
 group: "sevenmen_samurai"
+hotpepper_url: "https://www.hotpepper.jp/strJ001128341/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/75/P027676675/P027676675_238.jpg"
 source_type: "youtube"
 lat: 35.715366
 lng: 139.793701

@@ -12,7 +12,9 @@ visited_date: "2025-07-12"
 source_video_title: "大阪おっさんぽ 今回のおっさんぽの舞台は…\"南森町\"（2025-07-12 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/ossampo/2171512_15452.html"
 group: "ossampo"
+hotpepper_url: "https://www.hotpepper.jp/strJ001265533/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xgBG1MkVxfpk7t927F1fL1I3ebQ.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/74/61/P046237461/P046237461_238.jpg"
 source_type: "tv"
 lat: 34.700058
 lng: 135.511536

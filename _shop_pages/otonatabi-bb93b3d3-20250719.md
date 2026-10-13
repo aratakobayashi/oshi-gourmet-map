@@ -12,7 +12,9 @@ visited_date: "2025-07-19"
 source_video_title: "おとな旅あるき旅 第791回 夏の京都 1（2025-07-19 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2171888_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ003366087/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/30/72/P040123072/P040123072_238.jpg"
 source_type: "tv"
 lat: 35.019318
 lng: 135.719025

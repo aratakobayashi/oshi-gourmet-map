@@ -14,6 +14,8 @@ source_video_title: "【大食い】初☆北海道！北海道ラーメン巡�
 source_video_url: "https://www.youtube.com/watch?v=_0K9o4V1nI8"
 source_url: "https://www.youtube.com/watch?v=_0K9o4V1nI8"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000727409/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/19/P037580519/P037580519_238.jpg"
 source_type: "youtube"
 lat: 43.066715
 lng: 141.354721

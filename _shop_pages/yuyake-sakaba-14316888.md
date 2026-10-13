@@ -11,7 +11,9 @@ address: "東京都墨田区江東橋4-29-15"
 source_video_title: "夕焼け酒場 #502 墨田区錦糸町「海鮮居酒屋MARU」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num502"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000051475/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/71/60/P039617160/P039617160_238.jpg"
 source_type: "tv"
 lat: 35.695965
 lng: 139.816559

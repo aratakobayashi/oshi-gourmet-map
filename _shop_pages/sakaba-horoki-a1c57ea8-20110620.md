@@ -12,7 +12,9 @@ visited_date: "2011-06-20"
 source_video_title: "吉田類の酒場放浪記 #430 神田「居酒屋若竹」（2011-06-20 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/430.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000606774/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/90/P033476890/P033476890_238.jpg"
 source_type: "tv"
 lat: 35.692593
 lng: 139.770401

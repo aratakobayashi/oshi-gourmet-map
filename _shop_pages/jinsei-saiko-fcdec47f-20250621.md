@@ -12,7 +12,9 @@ visited_date: "2025-06-21"
 source_video_title: "人生最高レストラン ごちそう様 石田ひかりさん（2025-06-21 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202506211/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ003693147/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/18/P043988918/P043988918_238.jpg"
 source_type: "tv"
 lat: 34.670181
 lng: 135.502258

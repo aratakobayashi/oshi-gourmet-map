@@ -14,6 +14,8 @@ source_video_title: "【仙台】仙台と言えば牛たん🐮極上牛た�
 source_video_url: "https://www.youtube.com/watch?v=bhOkfL-YaIE"
 source_url: "https://www.youtube.com/watch?v=bhOkfL-YaIE"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001168811/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/85/35/P046428535/P046428535_238.jpg"
 source_type: "youtube"
 lat: 38.26313
 lng: 140.871262

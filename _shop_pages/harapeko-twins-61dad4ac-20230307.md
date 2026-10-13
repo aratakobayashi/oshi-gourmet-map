@@ -14,6 +14,8 @@ source_video_title: "【大食い】唐揚げ食べ放題！！デカ�
 source_video_url: "https://www.youtube.com/watch?v=saM8l5fr9Ew"
 source_url: "https://www.youtube.com/watch?v=saM8l5fr9Ew"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001154782/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/36/40/P025563640/P025563640_238.jpg"
 source_type: "youtube"
 lat: 35.676208
 lng: 139.736084

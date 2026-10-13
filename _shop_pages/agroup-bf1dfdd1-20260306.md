@@ -14,6 +14,8 @@ source_video_title: "Aぇ! group【横山万博打ち上げ🎉】㊙︎サプ�
 source_video_url: "https://www.youtube.com/watch?v=uDEC2fY1vx8"
 source_url: "https://kosodate-and.net/yokoyamakai-ryotei/"
 group: "agroup"
+hotpepper_url: "https://www.hotpepper.jp/strJ000731800/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/48/P048713548/P048713548_238.jpg"
 source_type: "youtube"
 lat: 35.67527
 lng: 139.738388

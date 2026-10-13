@@ -11,7 +11,9 @@ address: "東京都江東区亀戸1-34-7"
 source_video_title: "夕焼け酒場 #477 江東区亀戸「遊食こいずみ」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num477"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000032089/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/24/51/P012982451/P012982451_238.jpg"
 source_type: "tv"
 lat: 35.695614
 lng: 139.824799

@@ -11,7 +11,9 @@ address: "東京都江東区北砂6-10-3"
 source_video_title: "夕焼け酒場 #572 江東区大島「居酒屋 和ちゃん」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num572"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ003450605/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/83/P040966583/P040966583_238.jpg"
 source_type: "tv"
 lat: 35.683254
 lng: 139.836517

@@ -11,7 +11,9 @@ address: "東京都足立区新田1-10-15 新田ウイーンハイツ1F"
 source_video_title: "夕焼け酒場 #341 足立区新田「彩彩」（2021年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num341"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ003715188/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/00/P043436600/P043436600_238.jpg"
 source_type: "tv"
 lat: 35.773685
 lng: 139.740234

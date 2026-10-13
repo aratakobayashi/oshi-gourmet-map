@@ -12,7 +12,9 @@ visited_date: "2012-06-16"
 source_video_title: "有吉くんの正直さんぽ 隠れた名店に出会える 門前仲町を散歩して再発見の巻（2012-06-16 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-11.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ003984375/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/04/03/P046230403/P046230403_238.jpg"
 source_type: "tv"
 lat: 35.673267
 lng: 139.795898

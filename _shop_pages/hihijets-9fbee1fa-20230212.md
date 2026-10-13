@@ -14,6 +14,8 @@ source_video_title: "HiHi Jets【たこ焼き500個】これはイケる!!"
 source_video_url: "https://www.youtube.com/watch?v=hqfYzm-YWwQ"
 source_url: "https://ameblo.jp/rrayd/entry-12851651665.html"
 group: "hihijets"
+hotpepper_url: "https://www.hotpepper.jp/strJ001246402/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/92/76/P035629276/P035629276_238.jpg"
 source_type: "youtube"
 lat: 34.655739
 lng: 135.432327

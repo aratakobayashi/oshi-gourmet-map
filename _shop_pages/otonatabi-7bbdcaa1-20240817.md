@@ -12,7 +12,9 @@ visited_date: "2024-08-17"
 source_video_title: "おとな旅あるき旅 第745回 奈良・吉野（2024-08-17 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2151176_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ001275851/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/75/03/P038097503/P038097503_238.jpg"
 source_type: "tv"
 lat: 34.366894
 lng: 135.860505

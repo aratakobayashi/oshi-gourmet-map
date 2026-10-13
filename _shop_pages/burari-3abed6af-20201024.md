@@ -12,7 +12,9 @@ visited_date: "2020-10-24"
 source_video_title: "ぶらり途中下車の旅 京王線の旅 旅人：木下ほうか（2020-10-24 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227y9hemy9e8rt3et7y.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ004422005/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/23/24/P047882324/P047882324_238.jpg"
 source_type: "tv"
 lat: 35.646572
 lng: 139.321854

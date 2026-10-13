@@ -12,7 +12,9 @@ visited_date: "2025-06-28"
 source_video_title: "ぶらり途中下車の旅 こどもの国線・田園都市線の旅 旅人：舞の海（2025-06-28 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227vco468e87b22kx2w.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ000817788/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/40/67/P023814067/P023814067_238.jpg"
 source_type: "tv"
 lat: 35.537693
 lng: 139.51683

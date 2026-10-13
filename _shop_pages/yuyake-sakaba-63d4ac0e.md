@@ -11,7 +11,9 @@ address: "東京都板橋区成増3-41-17"
 source_video_title: "夕焼け酒場 #364 板橋区成増「瓦焼き ひとたらし」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num364"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001202410/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/57/58/P030585758/P030585758_238.jpg"
 source_type: "tv"
 lat: 35.782421
 lng: 139.629669

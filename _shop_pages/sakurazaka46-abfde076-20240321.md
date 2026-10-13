@@ -14,6 +14,8 @@ source_video_title: "【ふくちゃんラーメン・一蘭】的野・山下�
 source_video_url: "https://www.youtube.com/watch?v=wP99krJqGf4"
 source_url: "https://www.hotpepper.jp/strJ000112750/"
 group: "sakurazaka46"
+hotpepper_url: "https://www.hotpepper.jp/strJ000112750/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/26/92/P018242692/P018242692_238.jpg"
 source_type: "youtube"
 lat: 33.547215
 lng: 130.336853

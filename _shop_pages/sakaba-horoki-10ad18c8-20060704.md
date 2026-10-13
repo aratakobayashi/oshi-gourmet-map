@@ -12,7 +12,9 @@ visited_date: "2006-07-04"
 source_video_title: "吉田類の酒場放浪記 #142 西小山「八十八」（移転）（2006-07-04 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/142.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000843918/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/92/77/P044989277/P044989277_238.jpg"
 source_type: "tv"
 lat: 35.614944
 lng: 139.698624

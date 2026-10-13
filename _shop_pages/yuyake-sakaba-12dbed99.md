@@ -11,7 +11,9 @@ address: "東京都大田区蒲田5丁目1-5"
 source_video_title: "夕焼け酒場 #63 大田区「蒲田物語」（2015年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num63"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000960800/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/12/18/P030281218/P030281218_238.jpg"
 source_type: "tv"
 lat: 35.564068
 lng: 139.717087

@@ -11,7 +11,9 @@ address: "新潟県新潟市中央区沼垂東2-10-7"
 source_video_title: "夕焼け酒場 #400 新潟県新潟市「大佐渡 たむら」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num400"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ004576039/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/70/P049703970/P049703970_238.jpg"
 source_type: "tv"
 lat: 37.920406
 lng: 139.070099

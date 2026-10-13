@@ -12,7 +12,9 @@ visited_date: "2021-03-08"
 source_video_title: "吉田類の酒場放浪記 #1002 立飛「織田島酒店」（2021-03-08 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1002.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ004444425/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/83/58/P048008358/P048008358_238.jpg"
 source_type: "tv"
 lat: 35.712318
 lng: 139.438416

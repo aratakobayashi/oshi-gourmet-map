@@ -12,7 +12,9 @@ visited_date: "2018-01-02"
 source_video_title: "有吉くんの正直さんぽ 新春さんぽ初めin城崎温泉（2018-01-02 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-284.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000110525/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/93/27/P019809327/P019809327_238.jpg"
 source_type: "tv"
 lat: 35.62587
 lng: 134.804062

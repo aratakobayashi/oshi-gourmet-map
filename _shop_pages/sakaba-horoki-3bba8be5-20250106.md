@@ -12,7 +12,9 @@ visited_date: "2025-01-06"
 source_video_title: "吉田類の酒場放浪記 #1225 大師前「どぜう 季節料理 大門」（2025-01-06 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1225.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000245380/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/44/45/P041984445/P041984445_238.jpg"
 source_type: "tv"
 lat: 35.77816
 lng: 139.779709

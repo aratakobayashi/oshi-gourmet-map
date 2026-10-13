@@ -11,7 +11,9 @@ address: "東京都目黒区上目黒3-1-4 2F"
 source_video_title: "夕焼け酒場 #418 目黒区中目黒「大衆割烹 藤八」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num418"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001261993/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/00/P049559500/P049559500_238.jpg"
 source_type: "tv"
 lat: 35.645283
 lng: 139.697739

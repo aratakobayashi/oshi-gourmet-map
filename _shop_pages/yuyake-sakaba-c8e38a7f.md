@@ -11,7 +11,9 @@ address: "東京都目黒区青葉台1-27-11 3F"
 source_video_title: "夕焼け酒場 #461 目黒区中目黒「酒とつまみ じょうご」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num461"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ003341110/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/91/P039899591/P039899591_238.jpg"
 source_type: "tv"
 lat: 35.647678
 lng: 139.694351

@@ -11,7 +11,9 @@ address: "神奈川県横浜市中区野毛町2-71-9 1F"
 source_video_title: "夕焼け酒場 #430 横浜市野毛町「うみとはたけ」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num430"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000727179/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/82/43/P012298243/P012298243_238.jpg"
 source_type: "tv"
 lat: 35.448528
 lng: 139.630219

@@ -12,7 +12,9 @@ visited_date: "2025-12-06"
 source_video_title: "おとな旅あるき旅 第811回 石川・金沢（2025-12-06 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2181817_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ000032022/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/13/27/P050971327/P050971327_238.jpg"
 source_type: "tv"
 lat: 36.560951
 lng: 136.649292

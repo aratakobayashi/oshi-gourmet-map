@@ -12,7 +12,9 @@ visited_date: "2011-03-21"
 source_video_title: "吉田類の酒場放浪記 #419 酒田「久村の酒場」（2011-03-21 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/419.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000289291/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/53/39/P019765339/P019765339_238.jpg"
 source_type: "tv"
 lat: 38.918842
 lng: 139.834763

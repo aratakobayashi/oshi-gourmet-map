@@ -12,7 +12,9 @@ visited_date: "2018-10-01"
 source_video_title: "吉田類の酒場放浪記 #858 都城「おでんジャングル」（2018-10-01 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/858.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000590497/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/14/P021306514/P021306514_238.jpg"
 source_type: "tv"
 lat: 31.735079
 lng: 131.076279

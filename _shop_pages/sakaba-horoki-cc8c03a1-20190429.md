@@ -12,7 +12,9 @@ visited_date: "2019-04-29"
 source_video_title: "吉田類の酒場放浪記 #894 新田「地蔵屋」（2019-04-29 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/894.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000180213/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/62/57/P017316257/P017316257_238.jpg"
 source_type: "tv"
 lat: 35.854301
 lng: 139.795471

@@ -12,7 +12,9 @@ visited_date: "2024-12-15"
 source_video_title: "路線バスで寄り道の旅 東急東横線沿いの萬田さんオススメスポットを巡る旅（2024-12-15 テレビ朝日）"
 source_url: "https://www.tv-asahi.co.jp/rosenbus/backnumber2/0175/"
 group: "rosenbus"
+hotpepper_url: "https://www.hotpepper.jp/strJ000134188/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uMscnwyuhZNV4AmoWnru9HzNkwG.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/49/67/P026814967/P026814967_238.jpg"
 source_type: "tv"
 lat: 35.629765
 lng: 139.698975

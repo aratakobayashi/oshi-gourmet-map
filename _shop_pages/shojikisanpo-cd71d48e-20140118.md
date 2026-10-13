@@ -12,7 +12,9 @@ visited_date: "2014-01-18"
 source_video_title: "有吉くんの正直さんぽ 浅草の裏通りのグルメを発見！（2014-01-18 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-88.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000245739/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/62/54/P012816254/P012816254_238.jpg"
 source_type: "tv"
 lat: 35.713932
 lng: 139.791977
