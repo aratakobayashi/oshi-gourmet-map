@@ -15,3 +15,4 @@ scripts/videos_*.json
 __pycache__/
 scripts/cache/
 scripts/.cache/
+.claude/worktrees/
