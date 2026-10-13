@@ -201,7 +201,7 @@ faq:
 <figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/timeline.svg" alt="Snow Manの聖地 年表（公式YouTubeの回）：2018年5月 JELLY JELLY CAFE 渋谷本店、10月 ケーキファクトリー・ホイップ、2019年2月 京都祇園 天ぷら圓堂、8月 6年4組渋谷分校、12月 パンダレストラン、2020年3月 Trattoria e Pizzeria De salita 赤坂、2023年7月 mipig cafe 目黒店、10月 立会川 吉田家とキッチン ぴーなっつ、11月 阿佐ヶ谷バードランド、12月 Rapace と Kitchen ROCCO、2024年はうなぎ川松からガレット・ラーメン・レバニラ・もんじゃ・洋食・おにぎり・スペイン料理・バル・龍朋までの10軒、2025年は伊勢屋食堂から総本家更科堀井・ナプレ・武蔵野アブラ學会・土鍋ご飯いくしか・羽田市場・やくぜんや・ふたご・GINZA SUSHI BANYA KAIまでの10軒、2026年は1月 俺の割烹 炉ばた 恵比寿、2月 帝國食堂、3月 ガスト、4月 浅草むぎとろ本店、5月 しゃぶ禅 神楽坂店と WeLoveDonut 神楽坂店" width="420" height="3946" loading="lazy" decoding="async"><figcaption>公式YouTube（すのちゅーぶ・ジュニアCHANNEL）で公開日が分かる回を、推しグルメ巡礼MAPのデータから並べました</figcaption></figure></details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/genre.svg" alt="GENRE_ALT" width="420" height="1510" loading="lazy" decoding="async"><figcaption>この記事の123軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事59軒、和食25軒、カフェ16軒、ラーメン7軒、中華5軒、スイーツ4軒、焼肉3軒、居酒屋3軒、その他1軒。場所は東京都の港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒、目黒区・千代田区4軒ずつ、台東区3軒ほか。東京の外は静岡県浜松市・埼玉県川越市が4軒ずつ、愛知県名古屋市・京都市・神奈川県三浦市・千葉県銚子市・宮城県仙台市が3軒ずつ、ほか北海道から沖縄県まで" width="420" height="1510" loading="lazy" decoding="async"><figcaption>この記事の123軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>公式YouTube「Snow Man」（すのちゅーぶ）で行ったお店</h2>
 <p>Snow Manの公式YouTubeチャンネルの回です。左の数字は動画の公開年月。（ ）の中は注文したメンバーです。</p>
@@ -319,7 +319,7 @@ faq:
 
 <h3>変装企画・借り物競争・ゲストとの回（2023〜2026年）</h3>
 <ul class="pf-works">
-  <li><span class="k">2023.7</span><div><b>OTOWA FUJIYA</b><span>都内変装企画／目黒蓮／ミッションで店員おすすめのパイシュークリームをイートイン（文京区 音羽）</span></div></li>
+  <li><span class="k">2023.7</span><div><b>OTOWA FUJIYA</b><span>都内変装企画／目黒蓮／ミッションで店員おすすめのパイシュークリームをイートイン（文京区）</span></div></li>
   <li><span class="k">2023.7</span><div><b>Seoul Cafe</b><span>都内変装企画／向井康二がグルメロケのディレクター役になり、今田美桜さんのロケを回した韓国カフェ（新大久保）</span></div></li>
   <li><span class="k">2023.10</span><div><b>ペニーレイン 那須店</b><span>栃木変装PR企画／深澤辰哉が行列に並んでパンを買ったパン屋（栃木県那須町）</span></div></li>
   <li><span class="k">2023.10</span><div><b>麺屋 ようすけ</b><span>栃木変装PR企画／岩本照がラーメンを食べ、食リポ動画を撮ってもらったお店（栃木県佐野市）</span></div></li>
