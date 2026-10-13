@@ -12,6 +12,8 @@ visited_date: "2023-01-17"
 source_video_title: "町中華で飲ろうぜ #225 立川編（2023-01-17 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0225-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13016255/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.705246

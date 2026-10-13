@@ -12,6 +12,8 @@ visited_date: "2021-08-23"
 source_video_title: "町中華で飲ろうぜ #143 緊急企画・焼きそば編（2021-08-23 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0143-chinman/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13016725/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.707718

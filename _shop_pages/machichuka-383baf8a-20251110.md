@@ -12,6 +12,8 @@ visited_date: "2025-11-10"
 source_video_title: "町中華で飲ろうぜ #369 お礼参りSP 甲府（2025-11-10 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0369-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/yamanashi/A1901/A190101/19005126/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.649162

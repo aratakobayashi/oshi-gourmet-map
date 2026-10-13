@@ -12,6 +12,8 @@ visited_date: "2026-06-15"
 source_video_title: "町中華で飲ろうぜ #402 千葉市編（2026-06-15 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0402-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/chiba/A1201/A120101/12003407/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.610882

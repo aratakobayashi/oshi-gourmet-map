@@ -12,6 +12,8 @@ visited_date: "2020-12-01"
 source_video_title: "町中華で飲ろうぜ 町中華で飲ろうぜ　ファン感謝2時間スペシャル編（2020-12-01 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/sp-20-anniv-momotaro/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1317/A131714/13253408/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.580307

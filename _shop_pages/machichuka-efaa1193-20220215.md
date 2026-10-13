@@ -12,6 +12,8 @@ visited_date: "2022-02-15"
 source_video_title: "町中華で飲ろうぜ #173 半蔵門編（2022-02-15 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0173-mikien/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13041014/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.685211

@@ -12,6 +12,8 @@ visited_date: "2023-03-14"
 source_video_title: "町中華で飲ろうぜ #234 下北沢編（2023-03-14 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0234-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1318/A131803/13062334/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.664009

@@ -12,6 +12,8 @@ visited_date: "2021-09-25"
 source_video_title: "町中華で飲ろうぜ #149 緊急企画・カレーライス編（2021-09-25 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0149-daimon/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1328/A132805/13066398/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.753799

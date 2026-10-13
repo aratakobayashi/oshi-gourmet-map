@@ -12,6 +12,8 @@ visited_date: "2026-06-22"
 source_video_title: "町中華で飲ろうぜ #403 お礼参りSP 山口（2026-06-22 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0403-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/yamaguchi/A3502/A350201/35002281/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 33.95126

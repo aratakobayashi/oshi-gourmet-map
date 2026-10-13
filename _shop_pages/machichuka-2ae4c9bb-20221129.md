@@ -12,6 +12,8 @@ visited_date: "2022-11-29"
 source_video_title: "町中華で飲ろうぜ #220 金町編（2022-11-29 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0220-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1324/A132403/13182250/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.770947

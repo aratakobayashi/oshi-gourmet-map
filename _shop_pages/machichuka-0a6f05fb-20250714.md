@@ -12,6 +12,8 @@ visited_date: "2025-07-14"
 source_video_title: "町中華で飲ろうぜ #353 お礼参りSP 福岡（2025-07-14 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0353-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/fukuoka/A4001/A400104/40011492/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 33.566658

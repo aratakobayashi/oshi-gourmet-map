@@ -12,6 +12,8 @@ visited_date: "2026-01-05"
 source_video_title: "町中華で飲ろうぜ #378 小村井編（2026-01-05 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0378-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131203/13310480/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.71183

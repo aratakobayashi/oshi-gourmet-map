@@ -12,6 +12,8 @@ visited_date: "2022-11-15"
 source_video_title: "町中華で飲ろうぜ #217 京セラドーム編（2022-11-15 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0217-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270401/27046895/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 34.669815

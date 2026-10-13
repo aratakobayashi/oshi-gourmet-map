@@ -12,6 +12,8 @@ visited_date: "2025-03-17"
 source_video_title: "町中華で飲ろうぜ #333 MLB開幕SP 岩手（2025-03-17 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0333-03/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/iwate/A0302/A030201/3000448/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 39.397739

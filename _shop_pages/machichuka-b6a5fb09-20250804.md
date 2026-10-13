@@ -12,6 +12,8 @@ visited_date: "2025-08-04"
 source_video_title: "町中華で飲ろうぜ #356 糀谷 後編（2025-08-04 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0356-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1315/A131504/13278793/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.557892

@@ -12,6 +12,8 @@ visited_date: "2021-08-16"
 source_video_title: "町中華で飲ろうぜ #142 緊急企画・カツカレー編（2021-08-16 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0142-eiraku/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13061738/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.681351

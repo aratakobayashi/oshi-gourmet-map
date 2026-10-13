@@ -12,6 +12,8 @@ visited_date: "2021-12-28"
 source_video_title: "町中華で飲ろうぜ #165 西新宿編（2021-12-28 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0165-shoheiramen/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13041214/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.693497

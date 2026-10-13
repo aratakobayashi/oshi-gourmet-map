@@ -12,6 +12,8 @@ visited_date: "2020-03-02"
 source_video_title: "町中華で飲ろうぜ #64 押上編（2020-03-02 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0064-ariake/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131203/13066172/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.710899

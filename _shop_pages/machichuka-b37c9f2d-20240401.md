@@ -12,6 +12,8 @@ visited_date: "2024-04-01"
 source_video_title: "町中華で飲ろうぜ 4月1日はよいの日「吉田類の酒場放浪記」＋「町中華で飲ろうぜ」3時間SP（2024-04-01 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/20240401-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13105021/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.785309

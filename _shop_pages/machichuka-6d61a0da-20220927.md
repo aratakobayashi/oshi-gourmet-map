@@ -12,6 +12,8 @@ visited_date: "2022-09-27"
 source_video_title: "町中華で飲ろうぜ #209 故郷に錦を飾れSP（2022-09-27 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0209-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/hokkaido/A0107/A010703/1048749/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 43.091328
