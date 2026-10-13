@@ -14,6 +14,7 @@ youtube_id: "r57aY-wm1k8"
 source_video_title: "【イコラブ大食い大会】早朝から大食い！アイドルの限界に挑戦！【わんこそば】"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13273517/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/r57aY-wm1k8/hqdefault.jpg"
 lat: 35.6953799
 lng: 139.7017233

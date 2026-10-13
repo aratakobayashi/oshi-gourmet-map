@@ -13,7 +13,7 @@ related_genres:
   - sakurazaka46-others
   - sakurazaka46-washoku
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-shokuji
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

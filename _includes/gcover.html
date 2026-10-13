@@ -1,0 +1,6 @@
+{%- comment -%} グループのカード（表紙の画像＋名前＋店数）。引数: g（site.data.group_meta の1件） / eager {%- endcomment -%}
+{%- assign _gg = include.g -%}
+<a class="gcover" style="--g:{{ _gg.color }}" href="{{ _gg.url | relative_url }}">
+  <span class="gcover__img">{% if _gg.img and _gg.img != '' %}<img src="{{ _gg.img | relative_url }}" alt="" width="320" height="180"{% unless include.eager %} loading="lazy"{% endunless %} decoding="async">{% else %}<span class="gcover__mark" aria-hidden="true">{{ _gg.label | slice: 0, 1 }}</span>{% endif %}</span>
+  <span class="gcover__body"><b>{{ _gg.label }}</b><small>{{ _gg.count }}軒{% if _gg.prefs > 1 %}・{{ _gg.prefs }}都道府県{% endif %}</small></span>
+</a>

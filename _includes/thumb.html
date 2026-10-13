@@ -1,12 +1,15 @@
 {%- comment -%}
-  店舗サムネイル。動画 → TMDB等の画像 → 写真なし（グループ色の面＋ジャンル印）の順。
+  店舗サムネイル。動画 → 店の写真・TMDB等の画像 → 看板風（暖簾に店名＋ジャンル印）の順。
+  番組のポスターなど同じ画像を何軒もで使っている店（c.sp）も、一覧で同じ絵が並ばないよう看板風にする。
   引数: c（site.data.shop_cards の1件） / eager（true で先に読み込む） / play（true で再生マーク）
 {%- endcomment -%}
 {%- assign _tg = site.data.group_ix[include.c.gr] -%}
 {%- if include.c.v != '' -%}
 <div class="thumb"><img src="https://i.ytimg.com/vi_webp/{{ include.c.v }}/mqdefault.webp" alt="" width="320" height="180"{% if include.eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async">{% if include.play %}<span class="play" aria-hidden="true"></span>{% endif %}</div>
-{%- elsif include.c.t != '' -%}
+{%- elsif include.c.t != '' and include.c.sp != 1 -%}
 <div class="thumb"><img src="{{ include.c.t }}" alt="" width="300" height="200"{% unless include.eager %} loading="lazy"{% endunless %} decoding="async"></div>
 {%- else -%}
-<div class="thumb thumb--noimg" style="--g:{{ _tg.c | default: '#9a8f80' }}"><span class="stamp stamp--tilt" aria-hidden="true">{{ site.data.genres[include.c.g].mark | default: '食' }}</span></div>
+{%- assign _sn = include.c.n | replace: '　', ' ' -%}
+{%- if _sn.size <= 3 %}{% assign _sl = 1 %}{% elsif _sn.size <= 5 %}{% assign _sl = 2 %}{% elsif _sn.size <= 9 %}{% assign _sl = 3 %}{% else %}{% assign _sl = 4 %}{% endif -%}
+<div class="thumb thumb--sign" style="--g:{{ _tg.c | default: '#9a8f80' }}"><span class="noren noren--{{ _sl }}" aria-hidden="true"><b>{{ _sn | truncate: 18, '…' }}</b></span><span class="stamp stamp--tilt" aria-hidden="true">{{ site.data.genres[include.c.g].mark | default: '食' }}</span></div>
 {%- endif -%}

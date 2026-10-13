@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "ダイニングまさ坊"
+description: "zousanのYouTubeで紹介された和食「ダイニングまさ坊」（群馬県太田市）。推し活グルメ巡礼スポット。"
+shop_id: "zousan-bef7e1fa-20260214"
+name: "ダイニングまさ坊"
+genre: "washoku"
+prefecture: "群馬県"
+city: "太田市"
+address: "群馬県太田市藪塚町1111-1"
+visited_date: "2026-02-14"
+youtube_id: "dqXd4EqEGXs"
+source_video_title: "【大食い】一貫が通常の2倍…。群馬にある回らない寿司屋で100貫を制限時間30分で完食できるのか？【寿司処まさ坊】"
+source_video_url: "https://www.youtube.com/watch?v=dqXd4EqEGXs"
+source_url: "https://www.youtube.com/watch?v=dqXd4EqEGXs"
+group: "zousan"
+tabelog_url: "https://tabelog.com/gunma/A1002/A100203/10020212/"
+tabelog_verified: "True"
+source_type: "youtube"
+lat: 36.363907
+lng: 139.309708
+members:
+  - "ぞうさんパクパク"
+groups:
+  - "zousan"
+---

@@ -164,6 +164,16 @@ button.chip { cursor: pointer; }
 .thumb img { width: 100%; height: 100%; object-fit: cover; }
 .thumb--noimg { --g: var(--ink-3); background: color-mix(in srgb, var(--g) 16%, #fff); display: grid; place-items: center; border-top: 5px solid var(--g); }
 .thumb--noimg .stamp { --c: var(--g); }
+/* 看板風（写真のない店・番組ポスターを何軒もで使っている店）: 暖簾に店名＋ジャンル印。文字の大きさはサムネイルの幅に合わせる */
+.thumb--sign { --g: var(--ink-3); container-type: size; background: #efe6d8 radial-gradient(circle at 20% 15%, rgba(255,255,255,.55), transparent 60%); }
+.thumb--sign .noren { position: absolute; left: 11%; right: 11%; top: 15%; bottom: 20%; display: flex; align-items: center; justify-content: center; padding: 0 6% 9%; border-radius: 0 0 3px 3px; background: color-mix(in srgb, var(--g) 80%, #20160f); box-shadow: 0 3px 0 rgba(32,22,15,.12); }
+.thumb--sign .noren::before { content: ""; position: absolute; left: -7%; right: -7%; top: -6cqh; height: max(3px, 5cqh); border-radius: 3px; background: #6b5440; }
+.thumb--sign .noren::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30%; background: linear-gradient(90deg, transparent calc(33.3% - .8px), #efe6d8 calc(33.3% - .8px) calc(33.3% + .8px), transparent calc(33.3% + .8px) calc(66.6% - .8px), #efe6d8 calc(66.6% - .8px) calc(66.6% + .8px), transparent calc(66.6% + .8px)); }
+.thumb--sign .noren b { position: relative; z-index: 1; color: #fff; font-family: var(--serif); font-weight: 800; line-height: 1.18; letter-spacing: .02em; text-align: center; word-break: keep-all; overflow-wrap: anywhere; text-wrap: balance; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-size: 9cqw; }
+.thumb--sign .noren--1 b { font-size: 17cqw; letter-spacing: .12em; }
+.thumb--sign .noren--2 b { font-size: 11.5cqw; letter-spacing: .03em; }
+.thumb--sign .noren--3 b { font-size: 10cqw; }
+.thumb--sign .stamp { position: absolute; right: 5%; bottom: 5%; width: 24cqw; height: 24cqw; max-width: 64px; max-height: 64px; font-size: min(12cqw, 30px); border-width: max(1.5px, .8cqw); --c: color-mix(in srgb, var(--g) 70%, #20160f); background: #efe6d8; }
 .thumb .play { position: absolute; left: 50%; top: 50%; translate: -50% -50%; width: 44px; height: 44px; border-radius: 50%; background: rgba(36,31,26,.85); display: grid; place-items: center; }
 .thumb .play::after { content: ""; border-left: 13px solid #fff; border-top: 8px solid transparent; border-bottom: 8px solid transparent; margin-left: 3px; }
 
@@ -186,7 +196,7 @@ button.chip { cursor: pointer; }
 .row { display: grid; grid-template-columns: 108px 1fr 44px; gap: var(--s-3); padding: var(--s-3) 0; border-bottom: 1px solid var(--line); align-items: start; color: var(--ink); }
 .row:hover { text-decoration: none; }
 .row .thumb { width: 108px; height: 81px; aspect-ratio: auto; border-radius: 8px; }
-.row .thumb .stamp { width: 40px; height: 40px; font-size: 19px; border-width: 1.5px; }
+.row .thumb--noimg .stamp { width: 40px; height: 40px; font-size: 19px; border-width: 1.5px; }
 .row .thumb--noimg { border-top-width: 4px; }
 .row__body { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
 .row { position: relative; }
@@ -204,7 +214,7 @@ button.chip { cursor: pointer; }
 .mini { display: grid; grid-template-columns: 72px 1fr; gap: var(--s-3); padding: var(--s-3) 0; border-bottom: 1px solid var(--line); align-items: center; color: var(--ink); }
 .mini:hover { text-decoration: none; }
 .mini .thumb { width: 72px; height: 72px; aspect-ratio: 1; border-radius: 8px; }
-.mini .thumb .stamp { width: 40px; height: 40px; font-size: 19px; border-width: 1.5px; }
+.mini .thumb--noimg .stamp { width: 40px; height: 40px; font-size: 19px; border-width: 1.5px; }
 .mini .thumb--noimg { border-top-width: 3px; }
 
 /* 入口タブ・セグメント */
@@ -456,7 +466,7 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 /* 記事内の店舗カード */
 .ecard { display: grid; grid-template-columns: 84px 1fr; gap: var(--s-3); padding: var(--s-2); border: 1.5px solid var(--ink); border-radius: var(--r-md); background: var(--surface); margin: 1.4em 0; color: var(--ink); align-items: center; }
 .ecard .thumb { aspect-ratio: 1; border-radius: 6px; }
-.ecard .thumb .stamp { width: 40px; height: 40px; font-size: 19px; }
+.ecard .thumb--noimg .stamp { width: 40px; height: 40px; font-size: 19px; }
 .ecard__name { font-weight: 700; font-size: 15px; color: var(--ink); display: block; }
 .ecard__btns { display: flex; gap: 6px; margin-top: 6px; }
 .prose .ecard a { text-decoration: none; }
@@ -620,7 +630,7 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
   .rows--grid > .row:hover { border-color: var(--line-strong); }
   .rows--grid > .row:hover .row__name { text-decoration: underline; text-underline-offset: 3px; }
   .rows--grid > .row .thumb { width: 100%; height: auto; aspect-ratio: 16 / 10; border-radius: 0; }
-  .rows--grid > .row .thumb .stamp { width: 64px; height: 64px; font-size: 30px; border-width: 2px; }
+  .rows--grid > .row .thumb--noimg .stamp { width: 64px; height: 64px; font-size: 30px; border-width: 2px; }
   .rows--grid > .row .thumb--noimg { border-top-width: 5px; }
   .rows--grid .row__body { padding: var(--s-3) var(--s-3) var(--s-4); gap: 3px; }
   .rows--grid .row__name { font-size: 16px; }
@@ -822,3 +832,22 @@ a.badge { min-height: 32px; }
 .buybox__btns { display: flex; flex-wrap: wrap; gap: 8px; }
 .prose .buybox__btns a.btn { text-decoration: none; }
 .prose .stay-tbl td a { white-space: nowrap; }
+
+/* グループのカード（/groups/）: 表紙の画像はそのグループが訪れたお店の動画・番組の画像 */
+.gjump { margin-bottom: var(--s-2); }
+.gcovers { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-4) var(--s-3); }
+.gcover { display: block; color: var(--ink); }
+.gcover:hover { text-decoration: none; }
+.gcover__img { position: relative; display: grid; place-items: center; aspect-ratio: 16 / 10; overflow: hidden; border-radius: var(--r-md); background: color-mix(in srgb, var(--g) 22%, #efe6d8); border-bottom: 4px solid var(--g); }
+.gcover__img img { width: 100%; height: 100%; object-fit: cover; object-position: center 30%; transition: transform .3s; }
+.gcover:hover .gcover__img img { transform: scale(1.04); }
+.gcover__mark { font-family: var(--serif); font-weight: 800; font-size: 40px; color: color-mix(in srgb, var(--g) 80%, #20160f); }
+.gcover__body { display: block; padding-top: 6px; }
+.gcover__body b { display: block; font-size: 14px; line-height: 1.35; }
+.gcover__body small { font-size: 12px; color: var(--ink-2); }
+@media (min-width: 768px) { .gcovers { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 1024px) { .gcovers { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--s-6) var(--s-4); } }
+/* グループページ上部の写真（訪れたお店の動画・店の写真） */
+.gstrip { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; margin-top: var(--s-4); }
+.gstrip img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 6px; background: color-mix(in srgb, var(--g) 22%, #efe6d8); }
+@media (max-width: 599px) { .gstrip { grid-template-columns: repeat(2, minmax(0, 1fr)); } .gstrip img:nth-child(n+3) { display: none; } }

@@ -388,7 +388,7 @@
   }
   function showCard(r) {
     var c = $('mapcard'), gi = GIX[r[I.gr][0]] || {};
-    c.href = BASE + '/shops/' + r[I.u] + '/';
+    c.href = BASE + '/shops/' + (r[I.u] || r[I.id]) + '/';
     c.removeAttribute('aria-label');
     c.style.setProperty('--g', gi.c || '#9a8f80');
     c.innerHTML = thumb(r) + '<div>' + meta(r) + '<p class="card__name">' + esc(r[I.n]) + '</p><p class="card__st">' + esc(r[I.st] || r[I.p]) + '</p><p class="link-more" style="margin-top:4px">詳しく見る →</p></div>';
@@ -528,7 +528,16 @@
   applyView();
   if (!needNow) {
     // 最初の20軒はHTMLにある。データは表示が落ち着いてから読む
-    var later = function () { (window.requestIdleCallback || setTimeout)(function () { load().then(function () { current = sortRows(filtered(state), state.sort); $('count').textContent = current.length.toLocaleString(); drawRows(); restore(); if (mapOn()) drawMap(); }); }); };
-    if (document.readyState === 'complete') later(); else window.addEventListener('load', later);
+    var started = false;
+    var later = function () { if (started) return; started = true; (window.requestIdleCallback || setTimeout)(function () { load().then(function () { current = sortRows(filtered(state), state.sort); $('count').textContent = current.length.toLocaleString(); drawRows(); restore(); if (mapOn()) drawMap(); }); }); };
+    // スマホの一覧だけのときは、操作されるまで読まない（約3MBのデータの読み込みで表示直後に固まらないように）。
+    // 地図を出すとき・店舗ページから戻ってきたときはすぐ読む
+    var back = false;
+    try { back = !!sessionStorage.getItem(KEY); } catch (e) {}
+    if (mapOn() || back) {
+      if (document.readyState === 'complete') later(); else window.addEventListener('load', later);
+    } else {
+      ['scroll', 'pointerdown', 'keydown', 'focusin'].forEach(function (ev) { window.addEventListener(ev, later, { once: true, passive: true }); });
+    }
   }
 })();

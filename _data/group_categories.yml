@@ -1,38 +1,106 @@
-- label: "STARTO所属"
+# /groups/ の分け方（並びは各分類の中の表示順の目安。実際は店の多い順に並べる）
+
+- label: "STARTO所属（旧ジャニーズ）"
   groups:
-    - { key: arashi,       photo: false }
-    - { key: snowman,      photo: true  }
-    - { key: sixtones,     photo: true  }
-    - { key: heysayjump,   photo: false }
-    - { key: kingprince,   photo: false }
-    - { key: naniwa,       photo: true  }
-    - { key: kamenashi,    photo: true  }
-    - { key: timelesz,     photo: false }
-    - { key: ginga,        photo: false }
-    - { key: kimura,       photo: false }
+    - { key: sixtones }
+    - { key: snowman }
+    - { key: arashi }
+    - { key: west }
+    - { key: naniwa }
+    - { key: kingprince }
+    - { key: heysayjump }
+    - { key: timelesz }
+    - { key: agroup }
+    - { key: kinkikids }
+    - { key: kamenashi }
+    - { key: hihijets }
+    - { key: numberi }
+    - { key: travisjapan }
+    - { key: kismai }
+    - { key: kanjani }
+    - { key: ginga }
+    - { key: smap }
+    - { key: kimura }
+    - { key: keytolit }
+    - { key: kattun }
+    - { key: sevenmen_samurai }
+    - { key: acees }
+    - { key: juniors }
+    - { key: shonen_ninja }
+    - { key: v6 }
 
 - label: "坂道・アイドル"
   groups:
-    - { key: nogizaka46,   photo: true  }
-    - { key: sakurazaka46, photo: true  }
-    - { key: hinatazaka46, photo: true  }
-    - { key: equal_love,   photo: true  }
-    - { key: notme,        photo: false }
-    - { key: neajoy,       photo: false }
+    - { key: nogizaka46 }
+    - { key: equal_love }
+    - { key: notme }
+    - { key: sakurazaka46 }
+    - { key: neajoy }
+    - { key: chotokkyu }
+    - { key: hinatazaka46 }
+    - { key: befirst }
+    - { key: bokuao }
 
 - label: "K-POP"
   groups:
-    - { key: kpop_seventeen, photo: false }
-    - { key: kpop_enhypen,   photo: false }
-    - { key: kpop_riize,     photo: false }
-    - { key: kpop_nct,       photo: false }
+    - { key: kpop_bts }
+    - { key: kpop_straykids }
+    - { key: kpop_enhypen }
+    - { key: kpop_blackpink }
+    - { key: kpop_newjeans }
+    - { key: kpop_riize }
+    - { key: kpop_seventeen }
+    - { key: kpop_aespa }
+    - { key: kpop_ive }
+    - { key: kpop_nct }
+    - { key: kpop_twice }
+    - { key: kpop_lesserafim }
 
-- label: "芸人・YouTuber"
+- label: "YouTuber・芸人"
   groups:
-    - { key: yonino,     photo: true  }
-    - { key: kamaitachi, photo: false }
-    - { key: shiori,     photo: false }
+    - { key: yonino }
+    - { key: shiori }
+    - { key: kamaitachi }
+    - { key: susuru }
+    - { key: max_suzuki }
+    - { key: zousan }
+    - { key: shinoken }
+    - { key: harapeko_twins }
+    - { key: sannen_shokutaro }
+    - { key: haiji }
+    - { key: gyoza_tv }
+    - { key: shiyago }
+    - { key: tokyo_cafe_ch }
+    - { key: katappashi_kissa }
+
+- label: "グルメ番組・旅番組"
+  groups:
+    - { key: sakaba_horoki }
+    - { key: jinsei_saiko }
+    - { key: burari }
+    - { key: machichuka }
+    - { key: syokusai }
+    - { key: otonatabi }
+    - { key: yuyake_sakaba }
+    - { key: rosenbus }
+    - { key: omouma }
+    - { key: shojikisanpo }
+    - { key: gochi }
+    - { key: sekkaku_gourmet }
+    - { key: ossampo }
+
+- label: "情報番組"
+  groups:
+    - { key: every }
+    - { key: seyanen }
+    - { key: yonchan_tv }
+    - { key: switch }
+    - { key: ohaasa }
+    - { key: shuichi }
+    - { key: news_okaeri }
+    - { key: asapara }
+    - { key: zip }
 
 - label: "ドラマ"
   groups:
-    - { key: kodoku_no_gurume, photo: false }
+    - { key: kodoku_no_gurume }

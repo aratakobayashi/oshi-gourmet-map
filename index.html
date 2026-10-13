@@ -177,9 +177,9 @@ inline_css: top.css
 </section>
 {% endif %}
 
-<!-- SECTION 03.5: グループ別まとめページ -->
-{% assign sorted_groups = site.group_pages | sort: "shop_count" | reverse %}
-{% if sorted_groups.size > 0 %}
+<!-- SECTION 03.5: グループ別まとめページ（アイドル・YouTuber の店の多い順に12組。表紙は訪れたお店の動画・グループ写真） -->
+{%- assign _fk = '' | split: '' -%}
+{%- for cat in site.data.group_categories limit: 4 %}{% assign _ck = cat.groups | map: 'key' %}{% assign _fk = _fk | concat: _ck %}{% endfor -%}
 <section class="landing-section" id="group-pages">
   <div class="container">
     <div class="section-header">
@@ -188,21 +188,21 @@ inline_css: top.css
       <p class="section-desc">グループ別の聖地まとめページ。お気に入りの推しからお店を探そう</p>
     </div>
     <div class="group-index-grid">
-      {% for gp in sorted_groups %}
-      <a href="{{ gp.url | relative_url }}" class="group-index-card"
-         style="--gic1:{{ gp.group_color }};--gic2:{{ gp.group_color2 | default: gp.group_color }}">
-        <div class="group-index-card__bg group-index-card__bg--gradient"></div>
+      {%- assign _n = 0 %}
+      {%- for g in site.data.group_meta %}{% if _fk contains g.id and _n < 12 %}{% assign _n = _n | plus: 1 %}
+      <a href="{{ g.url | relative_url }}" class="group-index-card" style="--gic1:{{ g.color }}">
+        <div class="group-index-card__bg">{% if g.img and g.img != '' %}<img src="{{ g.img | relative_url }}" alt="" width="320" height="180" loading="lazy" decoding="async">{% endif %}</div>
         <div class="group-index-card__overlay"></div>
         <div class="group-index-card__body">
-          <span class="group-index-card__name">{{ gp.group_label }}</span>
-          <span class="group-index-card__count">{{ gp.shop_count }}件</span>
+          <span class="group-index-card__name">{{ g.label }}</span>
+          <span class="group-index-card__count">{{ g.count }}件</span>
         </div>
       </a>
-      {% endfor %}
+      {%- endif %}{% endfor %}
     </div>
+    <p class="group-index-more"><a href="{{ '/groups/' | relative_url }}">すべての推し・番組を見る（{{ site.data.site_stats.groups }}組）→</a></p>
   </div>
 </section>
-{% endif %}
 
 <!-- SECTION 04: 推し×ジャンル一覧 -->
 {% assign sorted_lists = site.list_pages | sort: "shop_count" | reverse %}

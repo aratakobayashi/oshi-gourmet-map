@@ -12,7 +12,7 @@ related_genres:
   - otonatabi-izakaya
   - otonatabi-shokuji
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

@@ -14,7 +14,7 @@ related_genres:
   - kingprince-shokuji
   - kingprince-cafe
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---
