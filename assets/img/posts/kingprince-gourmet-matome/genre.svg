@@ -1,55 +1,137 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 686" width="420" height="686" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="686" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1382" width="420" height="1382" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="1382" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店39軒を数えました</text>
-<text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">食事</text>
-<rect x="100" y="100" width="220" height="26" rx="8" fill="#2563eb"/>
-<text x="328" y="119" font-size="16" font-weight="800" fill="#2563eb">22軒</text>
-<text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
-<rect x="100" y="144" width="60" height="26" rx="8" fill="#0891b2"/>
-<text x="168" y="163" font-size="16" font-weight="800" fill="#0891b2">6軒</text>
-<text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
-<rect x="100" y="188" width="40" height="26" rx="8" fill="#7c3aed"/>
-<text x="148" y="207" font-size="16" font-weight="800" fill="#7c3aed">4軒</text>
-<text x="20" y="250" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
-<rect x="100" y="232" width="20" height="26" rx="8" fill="#db2777"/>
-<text x="128" y="251" font-size="16" font-weight="800" fill="#db2777">2軒</text>
-<text x="20" y="294" font-size="15" font-weight="700" fill="#241F1A">中華</text>
-<rect x="100" y="276" width="20" height="26" rx="8" fill="#dc2626"/>
-<text x="128" y="295" font-size="16" font-weight="800" fill="#dc2626">2軒</text>
-<text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
-<rect x="100" y="320" width="20" height="26" rx="8" fill="#9a3412"/>
-<text x="128" y="339" font-size="16" font-weight="800" fill="#9a3412">2軒</text>
-<text x="20" y="382" font-size="15" font-weight="700" fill="#241F1A">和食</text>
-<rect x="100" y="364" width="10" height="26" rx="8" fill="#15803d"/>
-<text x="118" y="383" font-size="16" font-weight="800" fill="#15803d">1軒</text>
-<text x="20" y="418" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
-<rect x="20" y="432" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="450" font-size="13.5" fill="#241F1A">渋谷区</text><text x="192" y="450" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">9軒</text>
-<rect x="216" y="432" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="450" font-size="13.5" fill="#241F1A">中央区</text><text x="388" y="450" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">6軒</text>
-<rect x="20" y="464" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="482" font-size="13.5" fill="#241F1A">港区</text><text x="192" y="482" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">5軒</text>
-<rect x="216" y="464" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="482" font-size="13.5" fill="#241F1A">千代田区</text><text x="388" y="482" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">4軒</text>
-<rect x="20" y="496" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="514" font-size="13.5" fill="#241F1A">品川区</text><text x="192" y="514" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">3軒</text>
-<rect x="216" y="496" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="514" font-size="13.5" fill="#241F1A">目黒区</text><text x="388" y="514" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
-<rect x="20" y="528" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="546" font-size="13.5" fill="#241F1A">神奈川 川崎市</text><text x="192" y="546" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
-<rect x="216" y="528" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="546" font-size="13.5" fill="#241F1A">台東区</text><text x="388" y="546" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
-<rect x="20" y="560" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="578" font-size="13.5" fill="#241F1A">世田谷区</text><text x="192" y="578" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
-<rect x="216" y="560" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="578" font-size="13.5" fill="#241F1A">新宿区</text><text x="388" y="578" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
-<rect x="20" y="592" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="610" font-size="13.5" fill="#241F1A">武蔵野市</text><text x="192" y="610" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
-<rect x="216" y="592" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="610" font-size="13.5" fill="#241F1A">神奈川 中郡大磯町</text><text x="388" y="610" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
-<rect x="20" y="624" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="642" font-size="13.5" fill="#241F1A">中野区</text><text x="192" y="642" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
-<rect x="216" y="624" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="642" font-size="13.5" fill="#241F1A">大阪 大阪市</text><text x="388" y="642" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店149軒を数えました</text>
+<text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">その他</text>
+<rect x="100" y="100" width="220" height="26" rx="8" fill="#64748b"/>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#64748b">64軒</text>
+<text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">食事</text>
+<rect x="100" y="144" width="99" height="26" rx="8" fill="#2563eb"/>
+<text x="207" y="163" font-size="16" font-weight="800" fill="#2563eb">29軒</text>
+<text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
+<rect x="100" y="188" width="75" height="26" rx="8" fill="#0891b2"/>
+<text x="183" y="207" font-size="16" font-weight="800" fill="#0891b2">22軒</text>
+<text x="20" y="250" font-size="15" font-weight="700" fill="#241F1A">和食</text>
+<rect x="100" y="232" width="41" height="26" rx="8" fill="#15803d"/>
+<text x="149" y="251" font-size="16" font-weight="800" fill="#15803d">12軒</text>
+<text x="20" y="294" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
+<rect x="100" y="276" width="27" height="26" rx="8" fill="#7c3aed"/>
+<text x="135" y="295" font-size="16" font-weight="800" fill="#7c3aed">8軒</text>
+<text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
+<rect x="100" y="320" width="20" height="26" rx="8" fill="#db2777"/>
+<text x="128" y="339" font-size="16" font-weight="800" fill="#db2777">6軒</text>
+<text x="20" y="382" font-size="15" font-weight="700" fill="#241F1A">ラーメン</text>
+<rect x="100" y="364" width="13" height="26" rx="8" fill="#ca8a04"/>
+<text x="121" y="383" font-size="16" font-weight="800" fill="#ca8a04">4軒</text>
+<text x="20" y="426" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
+<rect x="100" y="408" width="6" height="26" rx="8" fill="#9a3412"/>
+<text x="114" y="427" font-size="16" font-weight="800" fill="#9a3412">2軒</text>
+<text x="20" y="470" font-size="15" font-weight="700" fill="#241F1A">中華</text>
+<rect x="100" y="452" width="6" height="26" rx="8" fill="#dc2626"/>
+<text x="114" y="471" font-size="16" font-weight="800" fill="#dc2626">2軒</text>
+<text x="20" y="506" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
+<rect x="20" y="520" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="538" font-size="13.5" fill="#241F1A">渋谷区</text><text x="192" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">14軒</text>
+<rect x="216" y="520" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="538" font-size="13.5" fill="#241F1A">港区</text><text x="388" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">12軒</text>
+<rect x="20" y="552" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="570" font-size="13.5" fill="#241F1A">品川区</text><text x="192" y="570" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">11軒</text>
+<rect x="216" y="552" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="570" font-size="13.5" fill="#241F1A">中央区</text><text x="388" y="570" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">10軒</text>
+<rect x="20" y="584" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="602" font-size="13.5" fill="#241F1A">千代田区</text><text x="192" y="602" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">9軒</text>
+<rect x="216" y="584" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="602" font-size="13.5" fill="#241F1A">大阪 大阪市</text><text x="388" y="602" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">9軒</text>
+<rect x="20" y="616" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="634" font-size="13.5" fill="#241F1A">目黒区</text><text x="192" y="634" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">6軒</text>
+<rect x="216" y="616" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="634" font-size="13.5" fill="#241F1A">滋賀 大津市</text><text x="388" y="634" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">5軒</text>
+<rect x="20" y="648" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="666" font-size="13.5" fill="#241F1A">神奈川 藤沢市</text><text x="192" y="666" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">4軒</text>
+<rect x="216" y="648" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="666" font-size="13.5" fill="#241F1A">大田区</text><text x="388" y="666" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">4軒</text>
+<rect x="20" y="680" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="698" font-size="13.5" fill="#241F1A">台東区</text><text x="192" y="698" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">4軒</text>
+<rect x="216" y="680" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="698" font-size="13.5" fill="#241F1A">新宿区</text><text x="388" y="698" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">4軒</text>
+<rect x="20" y="712" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="730" font-size="13.5" fill="#241F1A">埼玉 秩父市</text><text x="192" y="730" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">3軒</text>
+<rect x="216" y="712" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="730" font-size="13.5" fill="#241F1A">山梨 南アルプス市</text><text x="388" y="730" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">3軒</text>
+<rect x="20" y="744" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="762" font-size="13.5" fill="#241F1A">千葉 船橋市</text><text x="192" y="762" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">3軒</text>
+<rect x="216" y="744" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="762" font-size="13.5" fill="#241F1A">千葉 勝浦市</text><text x="388" y="762" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="776" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="794" font-size="13.5" fill="#241F1A">茨城 笠間市</text><text x="192" y="794" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="776" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="794" font-size="13.5" fill="#241F1A">静岡 沼津市</text><text x="388" y="794" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="808" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="826" font-size="13.5" fill="#241F1A">栃木 日光市</text><text x="192" y="826" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="808" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="826" font-size="13.5" fill="#241F1A">神奈川 三浦市</text><text x="388" y="826" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="840" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="858" font-size="13.5" fill="#241F1A">神奈川 小田原市</text><text x="192" y="858" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="840" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="858" font-size="13.5" fill="#241F1A">杉並区</text><text x="388" y="858" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="872" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="890" font-size="13.5" fill="#241F1A">静岡 熱海市</text><text x="192" y="890" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="872" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="890" font-size="13.5" fill="#241F1A">山梨 富士吉田市</text><text x="388" y="890" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="904" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="922" font-size="13.5" fill="#241F1A">八王子市</text><text x="192" y="922" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="216" y="904" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="922" font-size="13.5" fill="#241F1A">神奈川 川崎市</text><text x="388" y="922" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">2軒</text>
+<rect x="20" y="936" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="954" font-size="13.5" fill="#241F1A">愛知 名古屋市</text><text x="192" y="954" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="936" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="954" font-size="13.5" fill="#241F1A">茨城 常陸大宮市</text><text x="388" y="954" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="968" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="986" font-size="13.5" fill="#241F1A">静岡 田方郡函南町</text><text x="192" y="986" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="968" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="986" font-size="13.5" fill="#241F1A">新潟 長岡市</text><text x="388" y="986" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1000" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1018" font-size="13.5" fill="#241F1A">茨城 つくば市</text><text x="192" y="1018" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1000" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1018" font-size="13.5" fill="#241F1A">千葉 成田市</text><text x="388" y="1018" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1032" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1050" font-size="13.5" fill="#241F1A">兵庫 豊岡市</text><text x="192" y="1050" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1032" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1050" font-size="13.5" fill="#241F1A">多摩市</text><text x="388" y="1050" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1064" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1082" font-size="13.5" fill="#241F1A">立川市</text><text x="192" y="1082" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1064" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1082" font-size="13.5" fill="#241F1A">練馬区</text><text x="388" y="1082" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1096" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1114" font-size="13.5" fill="#241F1A">江戸川区</text><text x="192" y="1114" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1096" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1114" font-size="13.5" fill="#241F1A">文京区</text><text x="388" y="1114" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1128" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1146" font-size="13.5" fill="#241F1A">静岡 駿東郡小山町</text><text x="192" y="1146" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1128" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1146" font-size="13.5" fill="#241F1A">国立市</text><text x="388" y="1146" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1160" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1178" font-size="13.5" fill="#241F1A">神奈川 伊勢原市</text><text x="192" y="1178" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1160" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1178" font-size="13.5" fill="#241F1A">山梨 南都留郡忍野村</text><text x="388" y="1178" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1192" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1210" font-size="13.5" fill="#241F1A">大阪 八尾市</text><text x="192" y="1210" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1192" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1210" font-size="13.5" fill="#241F1A">神奈川 平塚市</text><text x="388" y="1210" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1224" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1242" font-size="13.5" fill="#241F1A">足立区</text><text x="192" y="1242" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1224" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1242" font-size="13.5" fill="#241F1A">神奈川 横浜市</text><text x="388" y="1242" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1256" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1274" font-size="13.5" fill="#241F1A">埼玉 川口市</text><text x="192" y="1274" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1256" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1274" font-size="13.5" fill="#241F1A">長野</text><text x="388" y="1274" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1288" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1306" font-size="13.5" fill="#241F1A">世田谷区</text><text x="192" y="1306" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1288" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1306" font-size="13.5" fill="#241F1A">武蔵野市</text><text x="388" y="1306" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="20" y="1320" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="1338" font-size="13.5" fill="#241F1A">神奈川 中郡大磯町</text><text x="192" y="1338" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
+<rect x="216" y="1320" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="1338" font-size="13.5" fill="#241F1A">中野区</text><text x="388" y="1338" font-size="14" font-weight="800" text-anchor="end" fill="#f472b6">1軒</text>
 </svg>
