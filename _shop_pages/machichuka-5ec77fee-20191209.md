@@ -12,6 +12,8 @@ visited_date: "2019-12-09"
 source_video_title: "町中華で飲ろうぜ #43 森下SP編（2019-12-09 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0043-rakuraku/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13062013/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.685547

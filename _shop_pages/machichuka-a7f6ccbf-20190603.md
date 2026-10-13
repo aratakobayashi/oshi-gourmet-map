@@ -12,6 +12,8 @@ visited_date: "2019-06-03"
 source_video_title: "町中華で飲ろうぜ #10 荻窪SP編（2019-06-03 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0010-fujichukasoba/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1319/A131906/13065846/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.704723

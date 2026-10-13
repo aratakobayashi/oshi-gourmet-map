@@ -12,6 +12,8 @@ visited_date: "2026-08-10"
 source_video_title: "町中華で飲ろうぜ #415 鳩ヶ谷編（2026-08-10 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0415-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/saitama/A1102/A110201/11008888/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.836308

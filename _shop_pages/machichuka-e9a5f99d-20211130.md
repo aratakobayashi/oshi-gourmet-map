@@ -12,6 +12,8 @@ visited_date: "2021-11-30"
 source_video_title: "町中華で飲ろうぜ #161 千葉県柏編（2021-11-30 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0161-akamon/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/chiba/A1203/A120301/12008326/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.864254

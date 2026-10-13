@@ -12,6 +12,8 @@ visited_date: "2025-01-02"
 source_video_title: "町中華で飲ろうぜ 町中華で飲ろうぜ新年SP 〜男はつらいよ 筋太郎ロケ地でマドンナと乾杯〜（2025-01-02 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/20250102-03/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/hokkaido/A0106/A010601/1007228/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 43.202545

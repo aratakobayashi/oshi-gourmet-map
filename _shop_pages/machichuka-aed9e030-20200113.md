@@ -12,6 +12,8 @@ visited_date: "2020-01-13"
 source_video_title: "町中華で飲ろうぜ #50 埼玉県蕨編（2020-01-13 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0050-sairaiken/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/saitama/A1102/A110202/11006996/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.83213

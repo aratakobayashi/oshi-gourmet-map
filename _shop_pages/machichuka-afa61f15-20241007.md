@@ -12,6 +12,8 @@ visited_date: "2024-10-07"
 source_video_title: "町中華で飲ろうぜ #312 新座編（2024-10-07 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0312-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/saitama/A1103/A110301/11000098/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.807068

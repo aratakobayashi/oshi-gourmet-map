@@ -12,6 +12,8 @@ visited_date: "2022-05-31"
 source_video_title: "町中華で飲ろうぜ #193 仙台SP（2022-05-31 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0193-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/miyagi/A0401/A040101/4008177/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 38.26646

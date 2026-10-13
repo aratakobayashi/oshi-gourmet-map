@@ -12,6 +12,8 @@ visited_date: "2023-07-17"
 source_video_title: "町中華で飲ろうぜ #250 リクエストSP（2023-07-17 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0250-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/saitama/A1103/A110302/11007507/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.845211

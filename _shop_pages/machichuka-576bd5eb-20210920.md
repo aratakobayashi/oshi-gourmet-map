@@ -12,6 +12,8 @@ visited_date: "2021-09-20"
 source_video_title: "町中華で飲ろうぜ #147 のれん分け「生駒軒」編（2021-09-20 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0147-ikomaken1/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13060210/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.652092

@@ -12,6 +12,8 @@ visited_date: "2024-03-11"
 source_video_title: "町中華で飲ろうぜ #283 新丸子編（2024-03-11 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0283-01/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/kanagawa/A1405/A140504/14016378/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.581802

@@ -12,6 +12,8 @@ visited_date: "2025-06-16"
 source_video_title: "町中華で飲ろうぜ #350 大阪万博記念SP（2025-06-16 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0350-02/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270304/27144035/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 34.720802

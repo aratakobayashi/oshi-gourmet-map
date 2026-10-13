@@ -12,6 +12,8 @@ visited_date: "2019-11-25"
 source_video_title: "町中華で飲ろうぜ #39 竹ノ塚編（2019-11-25 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0039-chukamarumi/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13192212/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.791595

@@ -12,6 +12,8 @@ visited_date: "2019-09-02"
 source_video_title: "町中華で飲ろうぜ #21 東中野編（2019-09-02 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0021-oomoriken/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tokyo/A1319/A131901/13006882/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 35.706009

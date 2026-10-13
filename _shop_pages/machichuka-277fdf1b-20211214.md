@@ -12,6 +12,8 @@ visited_date: "2021-12-14"
 source_video_title: "町中華で飲ろうぜ #164 栃木県宇都宮編（2021-12-14 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/machichuka/store/0164-mintei/"
 group: "machichuka"
+tabelog_url: "https://tabelog.com/tochigi/A0901/A090101/9000306/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
 source_type: "tv"
 lat: 36.557037
