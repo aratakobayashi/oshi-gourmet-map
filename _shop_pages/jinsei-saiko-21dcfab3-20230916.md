@@ -12,7 +12,9 @@ visited_date: "2023-09-16"
 source_video_title: "人生最高レストラン ごちそう様 水川あさみさん（2023-09-16 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202309161/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001284411/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/86/83/P048228683/P048228683_238.jpg"
 source_type: "tv"
 lat: 34.671288
 lng: 135.494263

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「CABE（チャベ）」"
-description: "King&Princeる。当たり前レストランで紹介された食事「CABE（チャベ）」（東京都品川区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「CABE（チャベ）」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年10月15日放送）で、この店の「ナシゴレン」がスタジオに出題され、正解した永瀬廉・髙橋海人・平野紫耀が試食したインドネシア料理店。"
 shop_id: "kingprince-cabe-20221015"
 name: "CABE（チャベ）"
 genre: "shokuji"
@@ -15,12 +15,14 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13027513/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.6316729
 lng: 139.7185743
 members:
-  - "平野紫耀"
   - "永瀬廉"
   - "髙橋海人"
+  - "平野紫耀"
 groups:
   - "kingprince"
 ---

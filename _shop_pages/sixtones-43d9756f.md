@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「希須林 麻布台」"
-description: "【6SixTONES シクスト】二宮和也との担々麺 麻婆豆腐の中華料理店はどこ？麻布台ヒルズで紹介されたその他「希須林 麻布台」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの冠番組『6SixTONES』（2026年4月）で、6人と二宮和也が担々麺と麻婆豆腐のゲームをした麻布台ヒルズの中国料理店。"
 shop_id: "sixtones-43d9756f-"
 name: "希須林 麻布台"
 genre: "others"
@@ -15,6 +15,8 @@ source_url: "https://kosodate-and.net/6sixtones-nino-chinese"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13291567/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg"
+visit_kind: "own_tv"
+program: "6SixTONES"
 lat: 35.6596917
 lng: 139.7412077
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ---

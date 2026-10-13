@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "OKUDO"
-description: "westのYouTubeで紹介された食事「OKUDO」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "WEST.の神山智洋が公式YouTubeの「KAMI Sweets #003」（2024年8月）で、Aぇ! groupの末澤誠也と訪れた新大久保の韓国スイーツカフェ。"
 shop_id: "west-okudo-"
 name: "OKUDO"
 genre: "shokuji"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=WTBHdJpcICc"
 source_url: "https://kosodate-and.net/westube-kami-sue-cafe"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13237717/"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「KAMI Sweets」"
 lat: 35.70016095868307
 lng: 139.7007157046217
 members:

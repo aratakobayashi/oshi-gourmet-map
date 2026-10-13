@@ -11,7 +11,9 @@ address: "東京都中央区京橋2-6-13 B1F"
 source_video_title: "夕焼け酒場 #419 中央区京橋「酒処 舌菜魚」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num419"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000238582/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/37/92/P026243792/P026243792_238.jpg"
 source_type: "tv"
 lat: 35.676296
 lng: 139.771225

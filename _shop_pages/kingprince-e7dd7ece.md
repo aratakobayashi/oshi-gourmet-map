@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「夢てらす みよまつ」"
-description: "キントレ【髙橋海人ロケ地】炊飯器の旅千葉勝浦編で訪れたお店・コーヒーショップ・カフェはどこ？で紹介されたその他「夢てらす みよまつ」（千葉県勝浦市）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2023年8月26日放送）の「炊飯器の旅」勝浦編で、髙橋海人がトコブシとにんじんを譲ってもらった、勝浦朝市近くの飲食店。"
 shop_id: "kingprince-e7dd7ece-"
 name: "夢てらす みよまつ"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/kintore-suihanki-katsuura-kaito"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120701/12028260/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（炊飯器の旅）"
 lat: 35.14755757922921
 lng: 140.3135740786103
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

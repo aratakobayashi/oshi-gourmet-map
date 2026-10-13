@@ -851,3 +851,6 @@ a.badge { min-height: 32px; }
 .gstrip { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; margin-top: var(--s-4); }
 .gstrip img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 6px; background: color-mix(in srgb, var(--g) 22%, #efe6d8); }
 @media (max-width: 599px) { .gstrip { grid-template-columns: repeat(2, minmax(0, 1fr)); } .gstrip img:nth-child(n+3) { display: none; } }
+/* 記事の店のカード列は、画面に近づくまで描画しない（店の多いまとめ記事で表示直後に固まらないように） */
+.hscroll { content-visibility: auto; contain-intrinsic-size: auto 290px; }
+.pf-works { content-visibility: auto; contain-intrinsic-size: auto 480px; }

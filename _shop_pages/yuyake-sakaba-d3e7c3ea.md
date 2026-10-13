@@ -11,7 +11,9 @@ address: "東京都目黒区目黒本町3-5-1 シェーネ1F"
 source_video_title: "夕焼け酒場 #59 目黒区「炭火串焼 昌」（2015年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2015.html#num59"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000741588/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/06/14/P020260614/P020260614_238.jpg"
 source_type: "tv"
 lat: 35.621372
 lng: 139.702087

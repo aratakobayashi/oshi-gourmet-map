@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "恵比寿 米ル"
-description: "リア突WEST 2022-07-10 渋谷・恵比寿・代官山 隠れレストラン回で紹介された食事「恵比寿 米ル」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『リア突WEST』（2022年7月10日放送）で、重岡大毅が渋谷周辺の隠れ家レストランを探した回で登場した店。"
 shop_id: "west-f3a263f7-"
 name: "恵比寿 米ル"
 genre: "shokuji"
@@ -15,8 +15,12 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13211399/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/eha08jjB6clOlKMEaO4pUVjyYp.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "あなたの代わりに見てきます！リア突WEST"
 lat: 35.6507318
 lng: 139.7046751
+members:
+  - "重岡大毅"
 groups:
   - "west"
 ordered_items:

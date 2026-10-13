@@ -12,7 +12,7 @@ related_genres:
   - jinsei-saiko-ramen
   - jinsei-saiko-izakaya
 related_groups:
-  - syokusai-shokuji
-  - every-shokuji
   - burari-shokuji
+  - haiji-shokuji
+  - shinoken-shokuji
 ---

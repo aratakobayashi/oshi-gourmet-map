@@ -11,7 +11,9 @@ address: "東京都品川区東大井2-23-1"
 source_video_title: "夕焼け酒場 #393 品川区立会川「いっぱちや」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num393"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000641340/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/52/95/P051035295/P051035295_238.jpg"
 source_type: "tv"
 lat: 35.598053
 lng: 139.738617

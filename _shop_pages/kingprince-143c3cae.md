@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店」"
-description: "VS魂【岸優太ロケ地】パスタ・鰻牛丼・担々麺・海鮮丼・痛風鍋のお店はどこ？で紹介された和食「吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年3月16日放送）の「背徳グルメ」第2弾で、岸優太が肉ドレス海鮮丼を食べた店。"
 shop_id: "kingprince-143c3cae-"
 name: "吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店"
 genre: "washoku"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/vs-damashii-kishi-gourmet"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13233312/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.65910333790264
 lng: 139.6971362830477
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

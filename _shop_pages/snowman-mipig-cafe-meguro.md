@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「mipig cafe 目黒店」"
-description: "Snow ManのYouTubeで紹介されたカフェ「mipig cafe 目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【可愛いブタちゃんと触れ合い】」（2023年7月）で、深澤辰哉・渡辺翔太・阿部亮平・佐久間大介の4人が訪れたマイクロブタカフェ。"
 shop_id: "snowman-mipig-cafe-meguro"
 name: "mipig cafe 目黒店"
 genre: "cafe"
@@ -17,8 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13233871/"
 thumbnail_url: "https://img.youtube.com/vi/Qh0RSkK-s4E/hqdefault.jpg"
 seating_note: "SnowManがいたお部屋は「2F living」だと思われます。 お席の指定はできないそうです"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6313577
 lng: 139.7035686
+members:
+  - "深澤辰哉"
+  - "渡辺翔太"
+  - "阿部亮平"
+  - "佐久間大介"
 groups:
   - "snowman"
 tags:

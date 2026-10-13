@@ -14,6 +14,8 @@ source_video_title: "【大食い】３.５ポンド肉たっぷり！�
 source_video_url: "https://www.youtube.com/watch?v=wY40s5b1Xz0"
 source_url: "https://www.youtube.com/watch?v=wY40s5b1Xz0"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001280952/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/03/19/P038410319/P038410319_238.jpg"
 source_type: "youtube"
 lat: 35.734707
 lng: 139.711929

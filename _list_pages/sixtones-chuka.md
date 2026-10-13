@@ -1,11 +1,11 @@
 ---
-title: "SixTONESの中華聖地巡礼｜行った中華8選"
-description: "SixTONESのメンバーが実際に訪れた中華スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESの中華聖地巡礼｜行った中華7選"
+description: "SixTONESのメンバーが実際に訪れた中華スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: chuka
 group_label: "SixTONES"
 slug_id: sixtones-chuka
-shop_count: 8
+shop_count: 7
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
 youtube_id: u5IbOEy-HqA
@@ -15,6 +15,6 @@ related_genres:
   - sixtones-cafe
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

@@ -11,7 +11,9 @@ address: "東京都葛飾区立石4-27-8"
 source_video_title: "夕焼け酒場 #389 葛飾区立石「名もなき店 ふくすけ」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num389"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001128601/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/46/08/P048164608/P048164608_238.jpg"
 source_type: "tv"
 lat: 35.73988
 lng: 139.848862

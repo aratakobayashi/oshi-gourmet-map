@@ -11,7 +11,9 @@ address: "東京都中央区日本橋人形町2-20-3"
 source_video_title: "夕焼け酒場 #180 中央区人形町「酒の店 笹新」（2018年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2018.html#num180"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000118580/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/73/51/P036587351/P036587351_238.jpg"
 source_type: "tv"
 lat: 35.685745
 lng: 139.784607

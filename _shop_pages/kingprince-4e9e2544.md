@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「リストランテサバティーニ青山」"
-description: "厨房のありす【永瀬廉ロケ地】倖生と松浦百花が誕生日に行ったレストランはどこ？で紹介されたその他「リストランテサバティーニ青山」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "永瀬廉出演『厨房のありす』のロケ地「リストランテサバティーニ青山」"
+description: "永瀬廉が出演したドラマ『厨房のありす』（日本テレビ、2024年）第7話で、倖生（永瀬廉）が誕生日に松浦百花（大友花恋）と食事をしたイタリア料理店。"
 shop_id: "kingprince-4e9e2544-"
 name: "リストランテサバティーニ青山"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/alice-ren-birthday-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13001209/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2QNM3lYJAE9TngETDAQPnIg7pbX.jpg"
+visit_kind: "drama"
+program: "厨房のありす"
 lat: 35.66995081341458
 lng: 139.71612594774743
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -12,7 +12,7 @@ related_genres:
   - ossampo-izakaya
   - ossampo-washoku
 related_groups:
+  - tokyo-cafe-ch-cafe
+  - katappashi-kissa-cafe
   - burari-cafe
-  - yonchan-tv-cafe
-  - rosenbus-cafe
 ---

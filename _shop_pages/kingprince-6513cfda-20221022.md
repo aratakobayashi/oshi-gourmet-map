@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「富錦樹台菜香檳 コレド室町テラス店」"
-description: "King&Princeる。当たり前レストランで紹介された中華「富錦樹台菜香檳 コレド室町テラス店」（東京都中央区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「富錦樹台菜香檳 コレド室町テラス店」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年10月22日放送）で、この店の「富錦樹トウファ」がスタジオに出題され、正解した永瀬廉・髙橋海人・神宮寺勇太が試食した台湾料理店。"
 shop_id: "kingprince-6513cfda-20221022"
 name: "富錦樹台菜香檳 コレド室町テラス店"
 genre: "chuka"
@@ -14,13 +14,14 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130202/13238618/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.68729843790863
 lng: 139.7722172832799
 members:
-  - "神宮寺勇太"
-  - "岸優太"
   - "永瀬廉"
   - "髙橋海人"
+  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「ABC FARM」"
-description: "なにわ男子のどっち派 (2024-01-26)で紹介されたスイーツ「ABC FARM」（東京都昭島市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年1月26日放送）で高橋恭平がいちご狩りをした昭島の農園。"
 shop_id: "naniwa-abc_farm-20240126"
 name: "ABC FARM"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2024-01-26"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13299171/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.7202101
 lng: 139.3767428
 members:

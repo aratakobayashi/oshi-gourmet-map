@@ -304,6 +304,18 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - secrets（Settings → Secrets and variables → Actions）: `YOUTUBE_API_KEY`・`HOTPEPPER_API_KEY`（TMDB_API_KEY は今は使わない）。キーはログに出さない（common.redact）
 - Summary の見方: 表の「候補」＝新しい回で拾った店、「足した」＝shops.json に入った店、「見送り（確認で）」＝merge_candidates が外した店（住所が国土地理院と食い違う・番地まで確かめられない など。理由別の件数と一覧）、「見送り（読んだ段階）」＝飲食店でない・閉店・ホットペッパーで1軒に決まらない など。「登録済みで外した」は前回までに足した店（正常）。状態が「失敗」の情報源はサイトの形が変わった可能性があるので、アダプタを直す
 
+## 載せる店の決まり（2026-10-13 決定）
+- 有名人（グループ・番組の出演者）と結びつかない店は載せない。情報番組の特集・リポーターだけの紹介・ナレーションだけの番組（食彩の王国・せやねん！・news every.・よんチャンTV・オモウマい店・あさパラS）は外した（URLは転送ページ）。スイッチ！・シューイチ・news おかえり は出演者の記録がある店だけ
+- 食べ歩き系YouTuberは登録者1万人以上
+- グループの店は1軒ずつ確かめる（5グループ済み: SixTONES・King & Prince・WEST.・Snow Man・なにわ男子）。外すもの: 差し入れ・ケータリング・取り寄せだけ／他人の話／メンバーが出ていない場面のロケ地／推測だけ／飲食店でない／重複。members は実際に行った・出たメンバーだけ
+- 店の種類 `visit_kind`: youtube / own_tv（冠番組）/ guest_tv（出演番組）/ drama（出演ドラマのロケ地）/ magazine / other。`program` に番組・作品名、`with` に一緒にいた人。スタジオに料理が出ただけの店は `studio_only: true`（残すが「行った」とは書かない）。確かめきれない点は `qa_note`。ドラマのロケ地・スタジオの店はページの題名が変わる（generate_shop_pages.py）
+
+## グループのまとめ記事の型（2026-10-13〜）
+- 「<グループ>の聖地巡礼・ロケ地まとめ｜<主な出典>で行った東京のご飯ほか<N>軒」。そのグループの店（閉店を除く）を全部 shop_ids に入れる
+- 章は 公式YouTube → 冠番組 → 出演した番組 → ドラマのロケ地 → スタジオに料理が出た店 の順。各章は .pf-works ＋ inline-shop-grid（12軒まで）。ほかは「特集記事の新しい型」と同じ（ひと目でわかる・数字・年表と場所の図・はじめて見るなら・エリアで巡る・地図へ）
+- 済み: SixTONES・Snow Man・King & Prince・WEST.・なにわ男子。次は残りのグループ（嵐・Aぇ!group・KinKi Kids・櫻坂46・K-POP …）を、先に店を確かめてから
+- 店の多い記事でも速さを保つため、.hscroll と .pf-works は content-visibility: auto（画面に近づいてから描く）
+
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
 - youtube_idあり: ~372件（50%）

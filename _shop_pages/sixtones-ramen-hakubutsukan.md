@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「新横浜ラーメン博物館」"
-description: "SixTONESのYouTubeで紹介されたラーメン「新横浜ラーメン博物館」（神奈川県横浜市港北区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「新横浜ラーメン博物館で少数派グルメ」（2022年11月）で、6人が企画をしたラーメンのテーマパーク。"
 shop_id: "sixtones-ramen-hakubutsukan"
 name: "新横浜ラーメン博物館"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "【SixTONES】新横浜ラーメン博物館で少数派グ
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140206/14047083/"
 thumbnail_url: "https://img.youtube.com/vi/Y0HPj8hZk-Q/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.510089
 lng: 139.616478
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

@@ -15,6 +15,6 @@ related_genres:
   - kodoku-no-gurume-yakiniku
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

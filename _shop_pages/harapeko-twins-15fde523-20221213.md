@@ -14,6 +14,8 @@ source_video_title: "【大食い】じゅうじゅうカルビさん�
 source_video_url: "https://www.youtube.com/watch?v=eJoPgd1Vv7s"
 source_url: "https://www.youtube.com/watch?v=eJoPgd1Vv7s"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001027792/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/99/79/P041659979/P041659979_238.jpg"
 source_type: "youtube"
 lat: 35.547829
 lng: 139.714706

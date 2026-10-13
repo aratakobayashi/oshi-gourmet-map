@@ -11,7 +11,9 @@ address: "東京都北区東十条2-3-8"
 source_video_title: "夕焼け酒場 #545 北区東十条「つち活」（2025年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num545"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000031160/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/01/P027920501/P027920501_238.jpg"
 source_type: "tv"
 lat: 35.762947
 lng: 139.728745

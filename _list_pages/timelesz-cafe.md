@@ -14,7 +14,7 @@ related_genres:
   - timelesz-sweets
   - timelesz-chuka
 related_groups:
+  - tokyo-cafe-ch-cafe
+  - katappashi-kissa-cafe
   - burari-cafe
-  - yonchan-tv-cafe
-  - rosenbus-cafe
 ---

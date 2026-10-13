@@ -11,7 +11,9 @@ address: "東京都板橋区板橋3-7-6"
 source_video_title: "夕焼け酒場 #104 板橋区「かわ津」（2016年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2016.html#num104"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000148653/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/16/77/P019461677/P019461677_238.jpg"
 source_type: "tv"
 lat: 35.751308
 lng: 139.710495

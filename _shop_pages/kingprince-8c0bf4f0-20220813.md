@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「チャオタイ 銀座店」"
-description: "King&Princeる。当たり前レストランで紹介された食事「チャオタイ 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「チャオタイ 銀座店」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年8月13日放送）で、この店の「ガパオライス」がスタジオに出題され、正解した永瀬廉・神宮寺勇太・岸優太が試食したタイ料理店。"
 shop_id: "kingprince-8c0bf4f0-20220813"
 name: "チャオタイ 銀座店"
 genre: "shokuji"
@@ -16,12 +16,14 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000010227/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/80/P042200280/P042200280_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.675054488719525
 lng: 139.76511432432298
 members:
+  - "永瀬廉"
   - "神宮寺勇太"
   - "岸優太"
-  - "永瀬廉"
 groups:
   - "kingprince"
 ---

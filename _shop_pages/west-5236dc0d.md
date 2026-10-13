@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "喫茶サテラ"
-description: "westのYouTubeで紹介されたカフェ「喫茶サテラ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST.の濵田崇裕が公式YouTubeの企画「喫茶と濵田。」#002（2024年6月）で訪れた喫茶店。"
 shop_id: "west-5236dc0d-"
 name: "喫茶サテラ"
 genre: "cafe"
@@ -16,6 +16,8 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13253683/"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.6585428
 lng: 139.7015098
 members:

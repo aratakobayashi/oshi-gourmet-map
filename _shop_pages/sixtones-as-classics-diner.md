@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「AS CLASSICS DINER（エーエス クラシックス ダイナー）」"
-description: "西園寺さんは家事をしない【松村北斗ロケ地】アメリカの大学はどこ？で紹介されたその他「AS CLASSICS DINER（エーエス クラシックス ダイナー）」（東京都目黒区）。推し活グルメ巡礼スポット。"
+title: "松村北斗出演『西園寺さんは家事をしない』のロケ地「AS CLASSICS DINER（エーエス クラシックス ダイナー）」"
+description: "SixTONESの松村北斗が出演したドラマ『西園寺さんは家事をしない』（2024年）第8話で、アメリカのカフェとして楠見（松村北斗）たちの場面に使われたダイナー。"
 shop_id: "sixtones-as_classics_diner-"
 name: "AS CLASSICS DINER（エーエス クラシックス ダイナー）"
 genre: "others"
@@ -15,15 +15,12 @@ source_url: "https://kosodate-and.net/saionji-hokuto-america"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131707/13022762/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3j0rQJewZCkutdlSDEObVClp1oj.jpg"
+visit_kind: "drama"
+program: "西園寺さんは家事をしない"
 lat: 35.6203425
 lng: 139.6690718
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

@@ -11,7 +11,9 @@ address: "東京都中央区日本橋人形町2-2-6"
 source_video_title: "夕焼け酒場 #373 中央区人形町「焼酎処 さつま」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num373"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000812329/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/58/55/P038345855/P038345855_238.jpg"
 source_type: "tv"
 lat: 35.684982
 lng: 139.784012

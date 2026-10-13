@@ -14,6 +14,8 @@ source_video_title: "【大食い】鉄板イタスパを巨大化！１人�
 source_video_url: "https://www.youtube.com/watch?v=PbFaKVw5tEE"
 source_url: "https://www.youtube.com/watch?v=PbFaKVw5tEE"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001033626/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/47/66/P039004766/P039004766_238.jpg"
 source_type: "youtube"
 lat: 35.054363
 lng: 136.687302

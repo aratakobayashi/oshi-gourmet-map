@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「BIER REISE ’98」"
-description: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ地】ビール選び＆ビールの注ぎ方習得のお店ビアバーはどこ？で紹介されたその他「BIER REISE ’98」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの冠番組『SixTONESの今日からプロデューサーズ！』（2024年9月）で、田中樹と松村北斗がビールの注ぎ方を教わった新橋のビアバー。"
 shop_id: "sixtones-bier_reise_98-"
 name: "BIER REISE ’98"
 genre: "others"
@@ -13,15 +13,13 @@ source_video_title: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ�
 source_url: "https://kosodate-and.net/sixtones-hokujuri-beer"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13007996/"
+visit_kind: "own_tv"
+program: "SixTONESの今日からプロデューサーズ！（ストP）"
 lat: 35.6661689
 lng: 139.7582206
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
   - "田中樹"
-  - "森本慎太郎"
+  - "松村北斗"
 groups:
   - "sixtones"
 ---

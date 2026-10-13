@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0202-02/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120704/12044524/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ001276741/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/67/43/P038056743/P038056743_238.jpg"
 source_type: "tv"
 lat: 34.989471
 lng: 139.866287

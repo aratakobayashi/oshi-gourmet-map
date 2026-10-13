@@ -12,7 +12,9 @@ visited_date: "2021-10-18"
 source_video_title: "吉田類の酒場放浪記 #1034 下高井戸「居酒屋 たつみ本店」（2021-10-18 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1034.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000137171/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/41/74/P037594174/P037594174_238.jpg"
 source_type: "tv"
 lat: 35.665527
 lng: 139.638779

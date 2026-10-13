@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「Surabi 蒸し焼きおやつ 吉祥寺店」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたスイーツ「Surabi 蒸し焼きおやつ 吉祥寺店」（東京都武蔵野市）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年7月11日放送）で西畑大吾がインドネシアの伝統菓子スラビを食べた吉祥寺の店。"
 shop_id: "naniwa-surabi-20250711"
 name: "Surabi 蒸し焼きおやつ 吉祥寺店"
 genre: "sweets"
@@ -14,6 +14,8 @@ source_video_title: "なにわ男子のどっち派 (2025-07-11)"
 source_url: "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
 group: "naniwa"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.700145
 lng: 139.571834
 members:

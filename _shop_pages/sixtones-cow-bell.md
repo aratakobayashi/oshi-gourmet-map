@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「COW BELL（カウベル）」"
-description: "アンサンブル 第5話【松村北斗 ロケ地】レストランはどこ？（真戸原優と元カノが別れ話）で紹介されたその他「COW BELL（カウベル）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+title: "松村北斗出演『アンサンブル』のロケ地「COW BELL（カウベル）」"
+description: "SixTONESの松村北斗が出演したドラマ『アンサンブル』（2025年）第5話で、真戸原（松村北斗）と元恋人（横田真悠）が別れ話をする場面に使われたレストラン。"
 shop_id: "sixtones-cow_bell-"
 name: "COW BELL（カウベル）"
 genre: "others"
@@ -15,15 +15,12 @@ source_url: "https://kosodate-and.net/ensemble-hokuto-restaurant"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140309/14007061/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/skYCNsXI77d7D1GBHraLllUhq3z.jpg"
+visit_kind: "drama"
+program: "アンサンブル"
 lat: 35.3651189
 lng: 139.5807512
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

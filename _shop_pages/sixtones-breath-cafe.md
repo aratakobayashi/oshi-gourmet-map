@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「breath cafe(ブレスカフェ)」"
-description: "SixTONESのYouTubeで紹介されたカフェ「breath cafe(ブレスカフェ)」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「子育てVlog Cafe編」（2025年8月）で、松村北斗がドラマで共演した倉田瑛茉と再会した新宿のカフェ。"
 shop_id: "sixtones-breath_cafe-"
 name: "breath cafe(ブレスカフェ)"
 genre: "cafe"
@@ -16,15 +16,12 @@ source_video_url: "https://www.youtube.com/watch?v=I8-fMkNe004"
 source_url: "https://kosodate-and.net/hokuto-ema-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13123537/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6921592
 lng: 139.7006065
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

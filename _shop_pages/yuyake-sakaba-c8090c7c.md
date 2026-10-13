@@ -11,7 +11,9 @@ address: "東京都台東区台東4-18-8 B1F"
 source_video_title: "夕焼け酒場 #475 台東区御徒町「さかな家 嬉八」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num475"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ004403070/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/15/28/P047761528/P047761528_238.jpg"
 source_type: "tv"
 lat: 35.706585
 lng: 139.778061

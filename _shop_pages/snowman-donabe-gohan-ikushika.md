@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「土鍋ご飯いくしか 中目黒店」"
-description: "Snow ManのYouTubeで紹介された和食「土鍋ご飯いくしか 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【土鍋ごはんを食べよう！】」（2025年6月）で、岩本照・深澤辰哉・向井康二・阿部亮平の4人が訪れた土鍋ご飯の定食店。"
 shop_id: "snowman-donabe-gohan-ikushika"
 name: "土鍋ご飯いくしか 中目黒店"
 genre: "washoku"
@@ -15,13 +15,15 @@ source_video_title: "Snow Man【土鍋ごはんを食べよう！】向井康二
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13306139/"
 thumbnail_url: "https://img.youtube.com/vi/8R-AlLRghJc/hqdefault.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6443
 lng: 139.7003
 members:
-  - "深澤辰哉"
   - "岩本照"
-  - "阿部亮平"
+  - "深澤辰哉"
   - "向井康二"
+  - "阿部亮平"
 groups:
   - "snowman"
 tags:

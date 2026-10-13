@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PST　六本木店」"
-description: "熱々グルメがひんやりグルメになっているのなんでやねん！を解明で紹介されたカフェ「PST　六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2021年8月20日放送）で、西畑大吾がトマトのかき氷をのせた「冷やしPizza」を食べたピザ店。"
 shop_id: "naniwa-pst-20210820"
 name: "PST　六本木店"
 genre: "cafe"
@@ -15,6 +15,8 @@ group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13228723/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.6624568
 lng: 139.7334981
 members:

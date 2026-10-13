@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「フクモリ」"
-description: "モニタリング【永瀬廉ロケ地】ハンバーグ定食ランチのカフェはどこ？で紹介されたその他「フクモリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "永瀬廉が出演した『ニンゲン観察バラエティ モニタリング』（TBS、2026年3月19日放送）で、永瀬廉がハンバーグ定食を食べた定食カフェ。"
 shop_id: "kingprince-7a6fcc4c-"
 name: "フクモリ"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/monitoring-ren-hamburg"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13090984/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
+visit_kind: "guest_tv"
+program: "モニタリング"
 lat: 35.693516837907474
 lng: 139.78097278333655
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -15,6 +15,6 @@ related_genres:
   - nogizaka46-shokuji
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

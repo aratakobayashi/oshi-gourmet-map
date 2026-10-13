@@ -11,7 +11,9 @@ address: "東京都大田区西蒲田5-3-1"
 source_video_title: "夕焼け酒場 #492 大田区蒲田「太郎の台所」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num492"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001104077/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/18/84/P034471884/P034471884_238.jpg"
 source_type: "tv"
 lat: 35.567688
 lng: 139.716415

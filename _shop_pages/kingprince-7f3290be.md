@@ -1,23 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「ジュピター ピオニウォーク東松山店」"
-description: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？で紹介されたその他「ジュピター ピオニウォーク東松山店」（埼玉県東松山市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-7f3290be-"
-name: "ジュピター ピオニウォーク東松山店"
-genre: "others"
-prefecture: "埼玉県"
-city: "東松山市"
-address: "埼玉県東松山市あずま町4−3 ピオニウォーク 1階"
-source_video_title: "【永瀬廉×フェレロロシェ】等身大パネル展示のジュピター店舗はどこ？"
-source_url: "https://kosodate-and.net/ferrerorocher-ren-jupiter-panel"
-group: "kingprince"
-lat: 36.0298
-lng: 139.3996
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

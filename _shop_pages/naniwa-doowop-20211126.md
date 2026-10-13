@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「DooWop」"
-description: " チキンバーガー専門店が急増してるのなんでやねん！を解明で紹介された居酒屋「DooWop」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のなんでやねん！」（2021年11月26日放送）の「チキンバーガー専門店が急増してるのなんでやねん！」で、長尾謙杜がBBQエッグを食べたハンバーガー店（代官山店）。"
 shop_id: "naniwa-doowop-20211126"
 name: "DooWop"
 genre: "izakaya"
@@ -15,10 +15,13 @@ group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13299024/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "なにわ男子のなんでやねん！（めざましテレビ）"
 lat: 35.6483517
 lng: 139.7065258
 members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+closed: true
 ---

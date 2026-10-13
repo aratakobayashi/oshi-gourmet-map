@@ -14,6 +14,8 @@ source_video_title: "【大食い】【高難度】未だに成功者がいな�
 source_video_url: "https://www.youtube.com/watch?v=Ur9B7OzZG48"
 source_url: "https://www.youtube.com/watch?v=Ur9B7OzZG48"
 group: "shinoken"
+hotpepper_url: "https://www.hotpepper.jp/strJ001280364/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/40/P040723340/P040723340_238.jpg"
 source_type: "youtube"
 lat: 35.011086
 lng: 135.86554

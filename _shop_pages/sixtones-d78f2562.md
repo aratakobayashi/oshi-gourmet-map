@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「大衆割烹 すみれ」"
-description: "だが、情熱はあるロケ地【髙橋海人＆森本慎太郎撮影】若林と山里が出会った居酒屋は？で紹介された和食「大衆割烹 すみれ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+title: "森本慎太郎出演『だが、情熱はある』のロケ地「大衆割烹 すみれ」"
+description: "SixTONESの森本慎太郎が出演したドラマ『だが、情熱はある』（2023年）で、若林（髙橋海人）と山里（森本慎太郎）が初めて出会う居酒屋として使われた店。"
 shop_id: "sixtones-d78f2562-"
 name: "大衆割烹 すみれ"
 genre: "washoku"
@@ -14,14 +14,11 @@ source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-shintaro-izakaya"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13126812/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
+visit_kind: "drama"
+program: "だが、情熱はある"
 lat: 35.7078786
 lng: 139.7299978
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
 groups:
   - "sixtones"

@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0275-01/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/toyama/A1601/A160101/16001051/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ000339063/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/29/P013960229/P013960229_238.jpg"
 source_type: "tv"
 lat: 36.687519
 lng: 137.223007

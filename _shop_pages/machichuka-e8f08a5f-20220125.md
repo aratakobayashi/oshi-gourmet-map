@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0170-chinmin/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13012674/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ000064323/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/06/48/P012330648/P012330648_238.jpg"
 source_type: "tv"
 lat: 35.633987
 lng: 139.7146

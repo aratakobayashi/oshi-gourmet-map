@@ -12,7 +12,9 @@ visited_date: "2021-04-22"
 source_video_title: "ぐるぐるナインティナイン ゴチになります22 第7戦 佐藤健が参戦したゴチ第7戦！果たして結果は？（2021-04-22 日本テレビ）"
 source_url: "https://www.ntv.co.jp/gurunai/articles/471mhthhetlsz73vy6h.html"
 group: "gochi"
+hotpepper_url: "https://www.hotpepper.jp/strJ001040066/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/10/19/P020311019/P020311019_238.jpg"
 source_type: "tv"
 lat: 35.652897
 lng: 139.762466

@@ -12,7 +12,9 @@ visited_date: "2016-10-29"
 source_video_title: "有吉くんの正直さんぽ 昭和の町並みが残る東向島・曳舟さんぽ下町グルメを堪能（2016-10-29 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-222.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000104074/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/79/P014829579/P014829579_238.jpg"
 source_type: "tv"
 lat: 35.727932
 lng: 139.813583

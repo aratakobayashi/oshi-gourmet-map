@@ -14,6 +14,8 @@ source_video_title: "KEY TO LIT【瑞稀大食いへの道🐿️ 北海道編�
 source_video_url: "https://www.youtube.com/watch?v=SeMsbMYcLoE"
 source_url: "https://ameblo.jp/rrayd/entry-12941664767.html"
 group: "keytolit"
+hotpepper_url: "https://www.hotpepper.jp/strJ000028086/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg"
 source_type: "youtube"
 lat: 43.094334
 lng: 141.375473

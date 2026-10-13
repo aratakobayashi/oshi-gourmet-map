@@ -11,7 +11,9 @@ address: "東京都品川区荏原4-6-1"
 source_video_title: "夕焼け酒場 #305 品川区荏原「居酒屋つき」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num305"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ004025552/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/55/68/P046655568/P046655568_238.jpg"
 source_type: "tv"
 lat: 35.614323
 lng: 139.707932

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "牛タン専門店 タン治郎 上野本店"
-description: "イキスギさんについてった 2023-04-12（桐山照史）で紹介された食事「牛タン専門店 タン治郎 上野本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS、2023年4月11日放送）で、桐山照史が「牛タン先生」と呼ばれる常連さんに密着した回で紹介された牛タン専門店。"
 shop_id: "west-ef2b075c"
 name: "牛タン専門店 タン治郎 上野本店"
 genre: "shokuji"
@@ -14,6 +14,8 @@ group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13252480/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "DEEPな店の常連さんに密着 イキスギさんについてった"
 lat: 35.710642437894755
 lng: 139.7752002835136
 members:

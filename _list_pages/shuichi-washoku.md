@@ -8,11 +8,11 @@ slug_id: shuichi-washoku
 shop_count: 21
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
 related_genres:
-  - shuichi-shokuji
   - shuichi-sweets
+  - shuichi-shokuji
   - shuichi-chuka
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

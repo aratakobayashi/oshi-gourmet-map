@@ -1,20 +1,20 @@
 ---
-title: "なにわ男子のカフェ聖地巡礼｜行ったカフェ37選"
-description: "なにわ男子のメンバーが実際に訪れたカフェスポットを37件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子のカフェ聖地巡礼｜行ったカフェ30選"
+description: "なにわ男子のメンバーが実際に訪れたカフェスポットを30件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
 genre: cafe
 group_label: "なにわ男子"
 slug_id: naniwa-cafe
-shop_count: 37
+shop_count: 30
 group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 related_genres:
   - naniwa-shokuji
   - naniwa-sweets
-  - naniwa-yakiniku
+  - naniwa-ramen
 related_groups:
+  - tokyo-cafe-ch-cafe
+  - katappashi-kissa-cafe
   - burari-cafe
-  - yonchan-tv-cafe
-  - rosenbus-cafe
 ---

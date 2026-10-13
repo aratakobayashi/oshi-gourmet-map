@@ -10,11 +10,11 @@ group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
 youtube_id: NtqgUCZdgwA
 related_genres:
-  - naniwa-shokuji
   - naniwa-cafe
+  - naniwa-shokuji
   - naniwa-sweets
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

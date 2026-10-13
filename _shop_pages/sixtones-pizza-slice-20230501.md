@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「PIZZA SLICE （ピザスライス）」"
-description: "西園寺さんは家事をしない【松村北斗 ロケ地】ピザ屋さんはどこ？ピザスライス？SixTONES生配信でも！？で紹介された食事「PIZZA SLICE （ピザスライス）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+title: "松村北斗出演『西園寺さんは家事をしない』のロケ地「PIZZA SLICE （ピザスライス）」"
+description: "SixTONESの松村北斗が出演したドラマ『西園寺さんは家事をしない』（2024年）第10話で、西園寺（松本若菜）と楠見（松村北斗）たちが訪れる場面に使われたピザ店。"
 shop_id: "sixtones-pizza_slice-20230501"
 name: "PIZZA SLICE （ピザスライス）"
 genre: "shokuji"
@@ -14,15 +14,12 @@ source_url: "https://kosodate-and.net/saionji-hokuto-pizza"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13164019/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3j0rQJewZCkutdlSDEObVClp1oj.jpg"
+visit_kind: "drama"
+program: "西園寺さんは家事をしない"
 lat: 35.6501019
 lng: 139.7011319
 members:
-  - "ジェシー"
-  - "京本大我"
   - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

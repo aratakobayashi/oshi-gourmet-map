@@ -12,7 +12,7 @@ related_genres:
   - arashi-ramen
   - arashi-sweets
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - nogizaka46-others
 ---

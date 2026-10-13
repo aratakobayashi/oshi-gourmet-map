@@ -12,7 +12,9 @@ visited_date: "2019-10-21"
 source_video_title: "吉田類の酒場放浪記 #919 神田「尾張家」（2019-10-21 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/919.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000114901/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/49/P020805449/P020805449_238.jpg"
 source_type: "tv"
 lat: 35.690174
 lng: 139.771164

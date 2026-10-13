@@ -1,0 +1,24 @@
+---
+layout: shop
+title: "TORAYA TOKYO"
+description: "tokyo_cafe_chのYouTubeで紹介されたカフェ「TORAYA TOKYO」（東京都千代田区）。推し活グルメ巡礼スポット。"
+shop_id: "tokyo_cafe_ch-fc083d3b-20231117"
+name: "TORAYA TOKYO"
+genre: "cafe"
+prefecture: "東京都"
+city: "千代田区"
+address: "東京都千代田区丸の内1-9-1 東京ステーションホテル2階"
+visited_date: "2023-11-17"
+youtube_id: "v8if1BtXzaU"
+source_video_title: "【東京駅/丸の内】もう迷わない！東京駅おすすめカフェ巡り５選／実力店・人気店・最新カフェなど～Tokyo station cafe tour(with English subtitles)"
+source_video_url: "https://www.youtube.com/watch?v=v8if1BtXzaU"
+source_url: "https://www.youtube.com/watch?v=v8if1BtXzaU"
+group: "tokyo_cafe_ch"
+source_type: "youtube"
+lat: 35.681252
+lng: 139.767242
+members:
+  - "東京カフェちゃんねる"
+groups:
+  - "tokyo_cafe_ch"
+---

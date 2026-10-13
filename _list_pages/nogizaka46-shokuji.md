@@ -15,6 +15,6 @@ related_genres:
   - nogizaka46-sweets
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

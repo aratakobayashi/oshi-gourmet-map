@@ -12,7 +12,9 @@ visited_date: "2019-11-02"
 source_video_title: "人生最高レストラン #132 ごちそう様 松尾スズキさん（2019-11-02 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20191102.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000557551/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/47/P037466347/P037466347_238.jpg"
 source_type: "tv"
 lat: 33.581963
 lng: 130.404236

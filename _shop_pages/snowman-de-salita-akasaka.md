@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Trattoria e Pizzeria De salita 赤坂」"
-description: "Snow ManのYouTubeで紹介された食事「Trattoria e Pizzeria De salita 赤坂」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「宮舘の食べたいものを当てろ！」イタリアン編（2020年3月）で、9人が訪れた赤坂のイタリアン。"
 shop_id: "snowman-de-salita-akasaka"
 name: "Trattoria e Pizzeria De salita 赤坂"
 genre: "shokuji"
@@ -18,18 +18,20 @@ tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13184822/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001146764/"
 thumbnail_url: "https://img.youtube.com/vi/flzByEH1qc8/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/35/P044483535/P044483535_238.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.675938
 lng: 139.736816
 members:
   - "岩本照"
   - "深澤辰哉"
+  - "ラウール"
   - "渡辺翔太"
   - "向井康二"
   - "阿部亮平"
+  - "目黒蓮"
   - "宮舘涼太"
   - "佐久間大介"
-  - "目黒蓮"
-  - "ラウール"
 groups:
   - "snowman"
 tags:

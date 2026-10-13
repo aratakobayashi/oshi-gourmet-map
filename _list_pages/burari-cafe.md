@@ -12,7 +12,7 @@ related_genres:
   - burari-washoku
   - burari-sweets
 related_groups:
-  - yonchan-tv-cafe
+  - tokyo-cafe-ch-cafe
+  - katappashi-kissa-cafe
   - rosenbus-cafe
-  - shojikisanpo-cafe
 ---

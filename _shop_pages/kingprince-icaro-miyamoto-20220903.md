@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「ICARO miyamoto」"
-description: "King&Princeる。当たり前レストランで紹介された食事「ICARO miyamoto」（東京都目黒区）。推し活グルメ巡礼スポット。"
+title: "King & Prince『King & Princeる。（当たり前レストラン）』に登場した「ICARO miyamoto」"
+description: "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年9月3日放送）で、この店の「ジェノベーゼ」がスタジオに出題され、正解した岸優太が試食したイタリア料理店。"
 shop_id: "kingprince-icaro_miyamoto-20220903"
 name: "ICARO miyamoto"
 genre: "shokuji"
@@ -15,14 +15,12 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13050216/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "King & Princeる。（当たり前レストラン）"
 lat: 35.64194173791345
 lng: 139.69689618287455
 members:
-  - "平野紫耀"
-  - "神宮寺勇太"
   - "岸優太"
-  - "髙橋海人"
-  - "永瀬廉"
 groups:
   - "kingprince"
 ---

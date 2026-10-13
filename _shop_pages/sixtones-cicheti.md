@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Cicheti」"
-description: "SixTONESのYouTubeで紹介されたその他「Cicheti」（シンガポールKandahar St）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「俺たちに絆はあるのか!?inシンガポール」（2026年1月）で、京本大我が訪れたイタリア料理店。"
 shop_id: "sixtones-cicheti"
 name: "Cicheti"
 genre: "others"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=H-D82p_T8Xo"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13258995/"
 thumbnail_url: "https://img.youtube.com/vi/RtDfRvCiBEo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 1.3015
 lng: 103.8596
 members:

@@ -13,6 +13,6 @@ related_genres:
   - jinsei-saiko-izakaya
 related_groups:
   - susuru-ramen
-  - seyanen-ramen
+  - haiji-ramen
   - arashi-ramen
 ---

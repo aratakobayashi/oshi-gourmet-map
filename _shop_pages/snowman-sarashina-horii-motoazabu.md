@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「総本家更科堀井 本店」"
-description: "Snow ManのYouTubeで紹介された和食「総本家更科堀井 本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【創業200年の蕎麦屋さん】」（2025年3月）で、岩本照・深澤辰哉・宮舘涼太・佐久間大介の4人が訪れた麻布十番のそば店。"
 shop_id: "snowman-sarashina-horii-motoazabu"
 name: "総本家更科堀井 本店"
 genre: "washoku"
@@ -17,13 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13001226/"
 thumbnail_url: "https://img.youtube.com/vi/Ax1f_OVispA/hqdefault.jpg"
 seating_note: "小上がりのお席に座っていました。 富士山の絵が目印です。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6544
 lng: 139.7336
 members:
   - "岩本照"
   - "深澤辰哉"
-  - "佐久間大介"
   - "宮舘涼太"
+  - "佐久間大介"
 groups:
   - "snowman"
 tags:

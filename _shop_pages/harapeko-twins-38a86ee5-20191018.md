@@ -14,6 +14,8 @@ source_video_title: "【大食い】激安ランチのデカ盛り！バ�
 source_video_url: "https://www.youtube.com/watch?v=FHJZ-h3-t8Q"
 source_url: "https://www.youtube.com/watch?v=FHJZ-h3-t8Q"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ003763214/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/02/P043823802/P043823802_238.jpg"
 source_type: "youtube"
 lat: 35.951309
 lng: 139.633789

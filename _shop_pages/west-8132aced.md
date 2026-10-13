@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "道頓堀 今井 リーガロイヤルホテル店"
-description: "WEST.聖地巡礼（大阪）重岡大毅がジャニーさんに連れて行ってもらった思い出の店で紹介された食事「道頓堀 今井 リーガロイヤルホテル店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "WEST.の重岡大毅がJr.時代にジャニー喜多川さんによく連れて行ってもらったと『人生最高レストラン』（TBS、2021年8月）で語ったうどん店。"
 shop_id: "west-8132aced-"
 name: "道頓堀 今井 リーガロイヤルホテル店"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_url: "https://note.com/yui_natade/n/nab20fd49aea6"
 group: "west"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27000801/"
 source_type: "blog"
+visit_kind: "other"
+program: "人生最高レストラン（TBS、2021年8月7日放送）での本人の話"
 lat: 34.6899097
 lng: 135.4881046
 members:

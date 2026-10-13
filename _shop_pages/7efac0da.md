@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「覚王山とんかつ わだ福」"
-description: "バナナマンのせかっくグルメ!!で紹介された食事「覚王山とんかつ わだ福」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "Snow Manの阿部亮平が嵐の櫻井翔と『バナナマンのせっかくグルメ!!』名古屋編（2026年1月放送）で、上ヒレ御膳を食べた覚王山のとんかつ店。"
 shop_id: "7efac0da"
 name: "覚王山とんかつ わだ福"
 genre: "shokuji"
@@ -13,6 +13,8 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230107/23081023/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "バナナマンのせっかくグルメ!!"
 lat: 35.16683168814662
 lng: 136.95263459116092
 members:

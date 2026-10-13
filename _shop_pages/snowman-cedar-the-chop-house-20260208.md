@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "Snow Manが行った「CEDAR THE CHOP HOUSE＆BAR」"
-description: "【SnowMan聖地巡礼】阿部亮平『あなたを奪ったその日から』ロケ地・六本木のバーCEDARでランチで紹介された食事「CEDAR THE CHOP HOUSE＆BAR」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "阿部亮平出演『あなたを奪ったその日から』のロケ地「CEDAR THE CHOP HOUSE＆BAR」"
+description: "Snow Manの阿部亮平が出演したドラマ『あなたを奪ったその日から』（2025年）で、阿部が演じる玖村がデートの場面に使われた六本木のレストラン＆バー。"
 shop_id: "snowman-cedar_the_chop_house-20260208"
 name: "CEDAR THE CHOP HOUSE＆BAR"
 genre: "shokuji"
@@ -13,18 +13,12 @@ visited_date: "2026-02-08"
 source_video_title: "【SnowMan聖地巡礼】阿部亮平『あなたを奪ったその日から』ロケ地・六本木のバーCEDARでランチ"
 group: "snowman"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/UkGkMqQWhg3MaqKO5tfdcFHD29.jpg"
+visit_kind: "drama"
+program: "あなたを奪ったその日から"
 lat: 35.6642481
 lng: 139.7279271
 members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
   - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
 groups:
   - "snowman"
 ---

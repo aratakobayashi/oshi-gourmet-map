@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「GINZA CAFE」"
-description: "【ヒロミのおせっ買い】SnowMan佐久間大介が訪れたロケ地・買ったものまとめで紹介された食事「GINZA CAFE」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの佐久間大介が『ヒロミのおせっ買い』（2026年3月放送）で、ゲストの横山裕と待ち合わせをした銀座のカフェ。"
 shop_id: "snowman-ginza_cafe-20260328"
 name: "GINZA CAFE"
 genre: "shokuji"
@@ -15,17 +15,11 @@ group: "snowman"
 hotpepper_url: "https://www.hotpepper.jp/strJ003512005/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8WG3v2SgyJiXNnCZZibcY2uKVhn.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/50/29/P043785029/P043785029_238.jpg"
+visit_kind: "guest_tv"
+program: "ヒロミのおせっ買い"
 lat: 35.6720135
 lng: 139.7647202
 members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
   - "佐久間大介"
 groups:
   - "snowman"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」"
-description: "あの頃からわたしたちは【髙橋海人ロケ地】湘南ダンサー同窓会のお店はどこ？で紹介された居酒屋「DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
+description: "髙橋海人が出演した『あの頃からわたしたちは』（日本テレビ、2023年12月26日放送）で、湘南のダンサー仲間との同窓会が開かれたダイニングバー。"
 shop_id: "kingprince-diego_by_the_river-"
 name: "DIEGO BY THE RIVER（ディエゴ・バイ・ザ・リバー）"
 genre: "izakaya"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/anokoro-kaito-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14036704/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
+visit_kind: "guest_tv"
+program: "あの頃からわたしたちは"
 lat: 35.309558268862666
 lng: 139.48568536082698
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

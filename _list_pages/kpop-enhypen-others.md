@@ -7,7 +7,7 @@ group_label: "ENHYPEN"
 slug_id: kpop-enhypen-others
 shop_count: 7
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - nogizaka46-others
 ---

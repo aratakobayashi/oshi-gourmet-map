@@ -12,7 +12,9 @@ visited_date: "2010-05-17"
 source_video_title: "吉田類の酒場放浪記 #362 雪が谷大塚「若鳥しぶや」（2010-05-17 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/362.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000137013/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/75/P028473575/P028473575_238.jpg"
 source_type: "tv"
 lat: 35.59169
 lng: 139.682022

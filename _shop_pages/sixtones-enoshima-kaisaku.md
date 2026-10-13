@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「江の島 貝作」"
-description: "SixTONESのYouTubeで紹介された和食「江の島 貝作」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「お告げに従い…開運の旅2025～最終話」（2025年4月）で、6人が江の島名物の海鮮料理を食べた店。"
 shop_id: "sixtones-enoshima-kaisaku"
 name: "江の島 貝作"
 genre: "washoku"
@@ -18,6 +18,8 @@ tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14014127/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000223878/"
 thumbnail_url: "https://img.youtube.com/vi/EhYbUENdLKE/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/56/15/P033305615/P033305615_238.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.299508
 lng: 139.479397
 members:
@@ -25,8 +27,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

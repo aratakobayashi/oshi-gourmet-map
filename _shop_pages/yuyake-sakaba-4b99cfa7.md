@@ -11,7 +11,9 @@ address: "東京都文京区湯島3-39-3"
 source_video_title: "夕焼け酒場 #366 文京区湯島「絵馬亭」（2022年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2022.html#num366"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000002377/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/61/P039296361/P039296361_238.jpg"
 source_type: "tv"
 lat: 35.707321
 lng: 139.771759

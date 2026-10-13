@@ -12,7 +12,9 @@ visited_date: "2013-10-05"
 source_video_title: "有吉くんの正直さんぽ 名店ずらりの神楽坂で路地裏を本気ぶらり！（2013-10-05 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-75.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000229237/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/06/35/P039680635/P039680635_238.jpg"
 source_type: "tv"
 lat: 35.702229
 lng: 139.738541

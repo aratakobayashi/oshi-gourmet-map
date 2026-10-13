@@ -12,6 +12,6 @@ related_genres:
   - susuru-washoku
 related_groups:
   - jinsei-saiko-ramen
-  - seyanen-ramen
+  - haiji-ramen
   - arashi-ramen
 ---

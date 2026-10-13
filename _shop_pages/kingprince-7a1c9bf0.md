@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「新潟漁業協同組合」"
-description: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？で紹介されたその他「新潟漁業協同組合」（新潟県新潟市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-7a1c9bf0-"
-name: "新潟漁業協同組合"
-genre: "others"
-prefecture: "新潟県"
-city: "新潟市"
-address: "新潟県新潟市北区島見町1-135"
-source_video_title: "【キンプる2時間SPロケ地】新潟1泊2日5人旅はどこ？撮影日はいつ？"
-source_url: "https://kosodate-and.net/kinpru-niigata"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/niigata/A1501/A150101/15012067/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
-lat: 37.96852
-lng: 139.194893
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

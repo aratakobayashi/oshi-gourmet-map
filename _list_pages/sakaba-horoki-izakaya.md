@@ -13,6 +13,6 @@ related_genres:
   - sakaba-horoki-cafe
 related_groups:
   - yuyake-sakaba-izakaya
-  - yonchan-tv-izakaya
+  - shiyago-izakaya
   - otonatabi-izakaya
 ---

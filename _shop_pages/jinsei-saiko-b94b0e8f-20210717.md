@@ -12,7 +12,9 @@ visited_date: "2021-07-17"
 source_video_title: "人生最高レストラン #216 ごちそう様 ハライチ 岩井勇気さん・澤部佑さん（2021-07-17 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20210717.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000805248/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/42/20/P012294220/P012294220_238.jpg"
 source_type: "tv"
 lat: 35.655575
 lng: 139.706848

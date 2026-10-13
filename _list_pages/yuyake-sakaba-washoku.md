@@ -11,6 +11,6 @@ related_genres:
   - yuyake-sakaba-izakaya
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

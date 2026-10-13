@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "青山壹番館 渋谷店"
-description: "westのYouTubeで紹介されたカフェ「青山壹番館 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "WEST.の濵田崇裕が公式YouTubeの企画「喫茶と濵田。」#001（2024年6月）で訪れた喫茶店。"
 shop_id: "west-aa9f583c-"
 name: "青山壹番館 渋谷店"
 genre: "cafe"
@@ -17,6 +17,8 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13013016/"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.6531376
 lng: 139.7114585
 members:

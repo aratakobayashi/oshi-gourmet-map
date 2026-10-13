@@ -11,7 +11,9 @@ address: "東京都墨田区業平5-10-2"
 source_video_title: "夕焼け酒場 #514 墨田区押上「押上よしかつ」（2025年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num514"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000104266/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/58/P033954358/P033954358_238.jpg"
 source_type: "tv"
 lat: 35.707916
 lng: 139.816528

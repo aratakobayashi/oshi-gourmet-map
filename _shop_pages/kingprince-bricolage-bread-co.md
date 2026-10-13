@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「Bricolage bread ＆ co.」"
-description: "【永瀬廉インスタ】クロワッサンのカフェはどこ？パン屋さん？オンラインショップはある？で紹介されたその他「Bricolage bread ＆ co.」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "永瀬廉が2024年3月1日のInstagramでクロワッサンを食べている写真を投稿した、六本木のカフェ併設ベーカリー。"
 shop_id: "kingprince-bricolage_bread_co-"
 name: "Bricolage bread ＆ co."
 genre: "others"
@@ -13,13 +13,12 @@ source_video_title: "【永瀬廉インスタ】クロワッサンのカフェ�
 source_url: "https://kosodate-and.net/ren-croissant-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13222793/"
+visit_kind: "other"
+program: "永瀬廉 Instagram"
 lat: 35.65919527871786
 lng: 139.72824834418861
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

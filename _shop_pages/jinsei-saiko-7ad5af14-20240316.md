@@ -12,7 +12,9 @@ visited_date: "2024-03-16"
 source_video_title: "人生最高レストラン ごちそう様 新木優子さん（2024-03-16 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202403161/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000102295/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/52/72/P014275272/P014275272_238.jpg"
 source_type: "tv"
 lat: 36.561665
 lng: 139.887329

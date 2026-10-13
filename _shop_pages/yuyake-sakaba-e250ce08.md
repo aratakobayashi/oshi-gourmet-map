@@ -11,7 +11,9 @@ address: "東京都狛江市岩戸4-5-7"
 source_video_title: "夕焼け酒場 #332 東京都狛江市「炭火焼鳥 三日月」（2021年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num332"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001267835/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/84/P037683884/P037683884_238.jpg"
 source_type: "tv"
 lat: 35.635878
 lng: 139.585347

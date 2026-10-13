@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「渡辺食品」"
-description: "帰れマンデー【永瀬廉＆松田元太ロケ地】忍野八海名物草餅＆お団子屋さんはどこ？で紹介されたその他「渡辺食品」（山梨県南都留郡忍野村）。推し活グルメ巡礼スポット。"
+description: "永瀬廉が出演した『帰れマンデー見っけ隊!!』（テレビ朝日、2024年6月10日放送）で、松田元太（Travis Japan）と串団子を食べた忍野八海の団子・草餅の店。"
 shop_id: "kingprince-1953138f-"
 name: "渡辺食品"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/kaeremonday-ren-gen-dango"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190301/19004452/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/z4xtxeP1dXlDTkDEOGfAamchYMi.jpg"
+visit_kind: "guest_tv"
+program: "帰れマンデー見っけ隊!!"
 lat: 35.45943337855961
 lng: 138.8329693127984
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

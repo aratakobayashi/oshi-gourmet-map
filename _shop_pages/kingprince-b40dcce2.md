@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「忍野八海（おしのはっかい）」"
-description: "帰れマンデー【永瀬廉＆松田元太】山梨県 富士吉田市のロケ日はいつ？放送日は？で紹介されたその他「忍野八海（おしのはっかい）」（山梨県南都留郡忍野村）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-b40dcce2-"
-name: "忍野八海（おしのはっかい）"
-genre: "others"
-prefecture: "山梨県"
-city: "南都留郡忍野村"
-address: "山梨県南都留郡忍野村忍草"
-source_video_title: "帰れマンデー【永瀬廉＆松田元太】山梨県 富士吉田市のロケ日はいつ？放送日は？"
-source_url: "https://kosodate-and.net/kaeremonday-ren-genta"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/yamanashi/A1903/A190302/19007737/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/z4xtxeP1dXlDTkDEOGfAamchYMi.jpg"
-lat: 35.4586681
-lng: 138.8286613
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

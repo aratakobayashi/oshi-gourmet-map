@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「深川つり舟」"
-description: "VS魂【岸優太ロケ地】背徳グルメ第3弾！爆盛りかき揚げ丼のお店はどこ？で紹介されたその他「深川つり舟」（東京都国立市）。推し活グルメ巡礼スポット。"
+description: "岸優太が出演した『VS魂』（フジテレビ、2023年5月11日放送）の「背徳グルメ第3弾」で、岸優太が平子祐希（アルコ＆ピース）と爆盛りかき揚げ丼を食べた店。"
 shop_id: "kingprince-7d1291c7-"
 name: "深川つり舟"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/vsdamashii-kishi-tsuribune"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1325/A132503/13043865/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.69739443779882
 lng: 139.44754488360945
 members:
-  - "永瀬廉"
-  - "髙橋海人"
   - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

@@ -12,7 +12,9 @@ visited_date: "2025-05-24"
 source_video_title: "人生最高レストラン ごちそう様 寺尾聰さん（2025-05-24 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202505241/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000101385/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/66/P016073966/P016073966_238.jpg"
 source_type: "tv"
 lat: 38.242878
 lng: 140.325958

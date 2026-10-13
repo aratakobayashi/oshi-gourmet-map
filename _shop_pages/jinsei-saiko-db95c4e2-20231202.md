@@ -12,7 +12,9 @@ visited_date: "2023-12-02"
 source_video_title: "人生最高レストラン ごちそう様 JUJUさん（2023-12-02 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202312021/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000113144/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/49/07/P012974907/P012974907_238.jpg"
 source_type: "tv"
 lat: 32.742134
 lng: 129.874985

@@ -1,0 +1,24 @@
+---
+layout: shop
+title: "カメダセイカ"
+description: "tokyo_cafe_chのYouTubeで紹介されたカフェ「カメダセイカ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+shop_id: "tokyo_cafe_ch-d9bfb02c-20240329"
+name: "カメダセイカ"
+genre: "cafe"
+prefecture: "東京都"
+city: "千代田区"
+address: "東京都千代田区丸の内1丁目9−1"
+visited_date: "2024-03-29"
+youtube_id: "5yNAXlOxwUg"
+source_video_title: "【東 京 駅】おすすめ食べ歩きスイーツ・グルメ１０選＼東京駅限定メニュー多数紹介／Tokyo station food tour(with English subtitles)"
+source_video_url: "https://www.youtube.com/watch?v=5yNAXlOxwUg"
+source_url: "https://www.youtube.com/watch?v=5yNAXlOxwUg"
+group: "tokyo_cafe_ch"
+source_type: "youtube"
+lat: 35.681252
+lng: 139.767242
+members:
+  - "東京カフェちゃんねる"
+groups:
+  - "tokyo_cafe_ch"
+---

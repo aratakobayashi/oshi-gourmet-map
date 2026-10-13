@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「getti 中目黒」"
-description: "なにわ男子のどっち派 (2026-03-13)で紹介された食事「getti 中目黒」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2026年3月13日放送）で長尾謙杜が飲めるボロネーゼを食べた中目黒のスープパスタ店。"
 shop_id: "naniwa-getti-20260313"
 name: "getti 中目黒"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2026-03-13"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13318433/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6450659
 lng: 139.7003219
 members:

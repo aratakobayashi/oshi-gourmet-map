@@ -13,6 +13,6 @@ related_genres:
   - arashi-sweets
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

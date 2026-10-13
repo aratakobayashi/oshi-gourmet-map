@@ -12,7 +12,9 @@ visited_date: "2018-04-21"
 source_video_title: "有吉くんの正直さんぽ 染物の街・中井・落合をさんぽ 赤塚不二夫が愛した洋食店（2018-04-21 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-299.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000124425/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/37/92/P023423792/P023423792_238.jpg"
 source_type: "tv"
 lat: 35.71574
 lng: 139.688629

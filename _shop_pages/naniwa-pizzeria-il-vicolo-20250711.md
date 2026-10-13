@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「PIZZERIA IL VICOLO」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介された食事「PIZZERIA IL VICOLO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年7月11日放送）で西畑大吾が高加水のピザを食べた目黒のピッツェリア。"
 shop_id: "naniwa-pizzeria_il_vicolo-20250711"
 name: "PIZZERIA IL VICOLO"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13305868/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6441395
 lng: 139.6988317
 members:

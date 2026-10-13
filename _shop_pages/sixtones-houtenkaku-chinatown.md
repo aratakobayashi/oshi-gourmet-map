@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「上海小籠包専門店 鵬天閣」"
-description: "SixTONESのYouTubeで紹介された中華「上海小籠包専門店 鵬天閣」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「MV撮影の合間に…カメラ回してみた!!」（2023年3月）で、髙地優吾・田中樹・松村北斗・森本慎太郎が焼き小籠包を食べた横浜中華街の店。"
 shop_id: "sixtones-houtenkaku-chinatown"
 name: "上海小籠包専門店 鵬天閣"
 genre: "chuka"
@@ -16,15 +16,15 @@ source_url: "https://kosodate-and.net/sixtones-chinatown"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14040668/"
 thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.443398
 lng: 139.647622
 members:
-  - "松村北斗"
   - "髙地優吾"
-  - "森本慎太郎"
   - "田中樹"
-  - "ジェシー"
-  - "京本大我"
+  - "松村北斗"
+  - "森本慎太郎"
 groups:
   - "sixtones"
 tags:

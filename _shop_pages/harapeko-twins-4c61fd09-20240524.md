@@ -14,6 +14,8 @@ source_video_title: "【大食い】三重の有名デカ盛り店でスーパ�
 source_video_url: "https://www.youtube.com/watch?v=jgRruMMqlmo"
 source_url: "https://www.youtube.com/watch?v=jgRruMMqlmo"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000425355/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/71/34/P016827134/P016827134_238.jpg"
 source_type: "youtube"
 lat: 34.5037
 lng: 136.756042

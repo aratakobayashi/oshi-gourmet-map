@@ -12,7 +12,9 @@ visited_date: "2022-09-26"
 source_video_title: "吉田類の酒場放浪記 #1089 大泉学園「居酒屋 遊遊」（2022-09-26 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1089.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ001149350/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/21/P037507921/P037507921_238.jpg"
 source_type: "tv"
 lat: 35.761974
 lng: 139.598083

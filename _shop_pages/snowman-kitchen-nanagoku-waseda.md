@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「キッチン南国」"
-description: "Snow ManのYouTubeで紹介された和食「キッチン南国」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【俺たちが大学生だったら…】」（2024年5月）で、深澤辰哉・目黒蓮・宮舘涼太・佐久間大介の4人が訪れた早稲田の洋食店。"
 shop_id: "snowman-kitchen-nanagoku-waseda"
 name: "キッチン南国"
 genre: "washoku"
@@ -17,13 +17,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130504/13279399/"
 thumbnail_url: "https://img.youtube.com/vi/iTskjw-fo_I/hqdefault.jpg"
 seating_note: "4人が座ったのは、真ん中のテーブル席だと思われます。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7072
 lng: 139.721
 members:
-  - "佐久間大介"
   - "深澤辰哉"
-  - "宮舘涼太"
   - "目黒蓮"
+  - "宮舘涼太"
+  - "佐久間大介"
 groups:
   - "snowman"
 tags:

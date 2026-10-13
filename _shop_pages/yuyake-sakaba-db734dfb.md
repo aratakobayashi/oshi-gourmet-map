@@ -11,7 +11,9 @@ address: "東京都墨田区墨田3-6-16"
 source_video_title: "夕焼け酒場 #577 墨田区東向島「向じま ごっ馳走」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num577"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001118386/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/88/78/P021768878/P021768878_238.jpg"
 source_type: "tv"
 lat: 35.727978
 lng: 139.820724

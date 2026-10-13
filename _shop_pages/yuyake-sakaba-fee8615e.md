@@ -11,7 +11,9 @@ address: "東京都大田区仲六郷2-14-2"
 source_video_title: "夕焼け酒場 #581 大田区雑色「より舟」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num581"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000855819/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/54/P038765454/P038765454_238.jpg"
 source_type: "tv"
 lat: 35.55035
 lng: 139.715057

@@ -1,26 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「鮨処木はら（すしどころきはら）」"
-description: "【永瀬廉＆ロウン Instagram】食事のお寿司屋さんは北海道？で紹介された和食「鮨処木はら（すしどころきはら）」（北海道函館市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-39940e1c-"
-name: "鮨処木はら（すしどころきはら）"
-genre: "washoku"
-prefecture: "北海道"
-city: "函館市"
-address: "北海道函館市湯川町2丁目1-2"
-source_video_title: "【永瀬廉＆ロウン Instagram】食事のお寿司屋さんは北海道？"
-source_url: "https://kosodate-and.net/ren-rowoon-hokkaido-sushi"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/hokkaido/A0105/A010501/1010279/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000100345/"
-hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/04/P012216804/P012216804_238.jpg"
-lat: 41.77472257517117
-lng: 140.78772296521845
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

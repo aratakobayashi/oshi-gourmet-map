@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「RahmenEddie」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介されたラーメン「RahmenEddie」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年7月11日放送）で西畑大吾がバーニャカウダつけ麺を食べたイタリアン風ラーメン店。"
 shop_id: "naniwa-rahmeneddie-20250711"
 name: "RahmenEddie"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130402/13279624/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6899223
 lng: 139.6996683
 members:

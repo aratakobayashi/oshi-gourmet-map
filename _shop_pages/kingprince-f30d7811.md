@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「築地銀だこ 本店」"
-description: "キントレ バイトレ【髙橋海人ロケ地】築地銀だこ たこ焼き屋はどこ？で紹介されたその他「築地銀だこ 本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2025年6月28日放送）の「バイトレ」で、髙橋海人が働いた築地銀だこの本店。"
 shop_id: "kingprince-f30d7811-"
 name: "築地銀だこ 本店"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/kintore-kaito-takoyaki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13294031/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（バイトレ）"
 lat: 35.6650914
 lng: 139.7708281
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

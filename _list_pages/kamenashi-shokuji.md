@@ -15,6 +15,6 @@ related_genres:
   - kamenashi-ramen
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

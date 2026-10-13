@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「合奇苑 （アイキエン）」"
-description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたその他「合奇苑 （アイキエン）」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "SixTONES『シューイチ』に登場した「合奇苑 （アイキエン）」"
+description: "SixTONESの森本慎太郎がゲスト出演した『シューイチ』（2024年6月）の「日本食ハジメマシ亭」で、ご褒美グルメとして出たハンバーガーの焼肉店。"
 shop_id: "sixtones-8aa515cd-"
 name: "合奇苑 （アイキエン）"
 genre: "others"
@@ -15,14 +15,11 @@ source_url: "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13274776/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
+visit_kind: "guest_tv"
+program: "シューイチ"
 lat: 35.6667236
 lng: 139.7188607
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
 groups:
   - "sixtones"

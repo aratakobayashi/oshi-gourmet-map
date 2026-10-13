@@ -1,27 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「蜂の家　銀座本店」"
-description: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！フランス代表カレー屋さんの軍艦シュークリームで紹介されたその他「蜂の家　銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-a26f850b-"
-name: "蜂の家　銀座本店"
-genre: "others"
-prefecture: "東京都"
-city: "中央区"
-address: "東京都中央区銀座4-13-11"
-source_video_title: "VS魂【岸優太ロケ地】背徳グルメワールドツアー！フランス代表カレー屋さんの軍艦シュークリーム"
-source_url: "https://kosodate-and.net/vsdamashii-kishi-cream-puff"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13033054/"
-hotpepper_url: "https://www.hotpepper.jp/strJ000658854/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
-hotpepper_photo: "https://imgfp.hotp.jp/IMGH/25/42/P012102542/P012102542_238.jpg"
-lat: 35.668940688724355
-lng: 139.76810239425913
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

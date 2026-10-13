@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「伊勢屋食堂（淀橋市場内）」"
-description: "Snow ManのYouTubeで紹介された食事「伊勢屋食堂（淀橋市場内）」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【市場内の食堂で昼メシ】」（2025年2月）で、渡辺翔太・向井康二・阿部亮平・ラウールの4人が訪れた淀橋市場内の食堂。"
 shop_id: "snowman-iseyashokudo-yodobashi"
 name: "伊勢屋食堂（淀橋市場内）"
 genre: "shokuji"
@@ -16,13 +16,15 @@ group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13081288/"
 thumbnail_url: "https://img.youtube.com/vi/1cQeue2ITFU/hqdefault.jpg"
 seating_note: "店内入って左手のテーブル席に座りました。 手前壁寄りが向井さん、通路寄りが渡辺さん、奥壁寄りがラウールさん、通路寄りが阿部さんという席順でした。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7014
 lng: 139.6931
 members:
-  - "渡辺翔太"
-  - "阿部亮平"
-  - "向井康二"
   - "ラウール"
+  - "渡辺翔太"
+  - "向井康二"
+  - "阿部亮平"
 groups:
   - "snowman"
 tags:

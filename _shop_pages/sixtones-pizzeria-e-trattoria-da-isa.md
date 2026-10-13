@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「Pizzeria e Trattoria da ISA」"
-description: "SixTONESのYouTubeで紹介されたその他「Pizzeria e Trattoria da ISA」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「クリスマスイブイブにチキン＆ピザ!!」（2022年12月）に関係する中目黒のピザ店。"
 shop_id: "sixtones-pizzeria-e-trattoria-da-isa"
 name: "Pizzeria e Trattoria da ISA"
 genre: "others"
@@ -14,6 +14,8 @@ source_video_url: "https://www.youtube.com/watch?v=kY6vPIdYp_o"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13304230/"
 thumbnail_url: "https://img.youtube.com/vi/gVrUjNQzPNA/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6442
 lng: 139.6987
 members:

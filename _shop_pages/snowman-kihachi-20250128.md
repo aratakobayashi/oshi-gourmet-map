@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「KIHACHI 青山本店」"
-description: "【トークィーンズ】宮舘涼太ロケ地調査：デートで訪れたスーパー・イルミネーションはどこ？で紹介された食事「KIHACHI 青山本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの宮舘涼太がフジテレビ『トークィーンズ』（2025年1月放送）のデート企画で、事前取材をした青山のカフェレストラン（1階）。"
 shop_id: "snowman-kihachi-20250128"
 name: "KIHACHI 青山本店"
 genre: "shokuji"
@@ -13,18 +13,12 @@ visited_date: "2025-01-28"
 source_video_title: "【トークィーンズ】宮舘涼太ロケ地調査：デートで訪れたスーパー・イルミネーションはどこ？"
 group: "snowman"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg"
+visit_kind: "guest_tv"
+program: "トークィーンズ"
 lat: 35.6705999
 lng: 139.7159289
 members:
-  - "岩本照"
-  - "ラウール"
-  - "深澤辰哉"
   - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
-  - "佐久間大介"
 groups:
   - "snowman"
 ---

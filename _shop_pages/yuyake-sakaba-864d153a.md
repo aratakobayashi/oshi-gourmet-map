@@ -11,7 +11,9 @@ address: "東京都墨田区江東橋4-9-4"
 source_video_title: "夕焼け酒場 #563 墨田区錦糸町「だいにんぐ ひなた」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num563"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001010953/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/61/77/P041806177/P041806177_238.jpg"
 source_type: "tv"
 lat: 35.69384
 lng: 139.815628

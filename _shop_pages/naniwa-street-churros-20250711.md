@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「STREET CHURROS 下北沢店」"
-description: "なにわ男子のどっち派 (2025-07-11)で紹介された食事「STREET CHURROS 下北沢店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年7月11日放送）で西畑大吾がチュロスを食べた下北沢の店。"
 shop_id: "naniwa-street_churros-20250711"
 name: "STREET CHURROS 下北沢店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131802/13304752/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.661998
 lng: 139.6683083
 members:

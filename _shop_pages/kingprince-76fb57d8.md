@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ななかふぇ 戸越銀座」"
-description: "【キントレ 大食い】戸越銀座のお団子・ステーキ・角煮丼・ラーメン・おにぎり・コロッケ・肉団子はどこ？で紹介されたその他「ななかふぇ 戸越銀座」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2025年11月8日放送）の「痩せの大食い三銃士！」で、永瀬廉が戸塚純貴・バッテリィズ エースと戸越銀座で大玉の焼き団子を食べた団子店。"
 shop_id: "kingprince-76fb57d8-"
 name: "ななかふぇ 戸越銀座"
 genre: "others"
@@ -13,13 +13,12 @@ source_url: "https://kosodate-and.net/kintore-yase-oogui-ren"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131712/13309373/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（痩せの大食い三銃士！）"
 lat: 35.614115148744766
 lng: 139.72283025373707
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

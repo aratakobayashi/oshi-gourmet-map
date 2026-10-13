@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「帝國食堂」"
-description: "Snow ManのYouTubeで紹介された食事「帝國食堂」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【フレンチを食べよう！】」（2026年2月）で、深澤辰哉・渡辺翔太・向井康二・佐久間大介の4人が訪れた西麻布のビストロ。"
 shop_id: "snowman-teikoku-shokudo-nishiazabu"
 name: "帝國食堂"
 genre: "shokuji"
@@ -18,13 +18,15 @@ tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13153906/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004444214/"
 thumbnail_url: "https://img.youtube.com/vi/8j6glqZxVzU/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/11/P048221411/P048221411_238.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.661324
 lng: 139.721634
 members:
-  - "佐久間大介"
   - "深澤辰哉"
   - "渡辺翔太"
   - "向井康二"
+  - "佐久間大介"
 groups:
   - "snowman"
 tags:

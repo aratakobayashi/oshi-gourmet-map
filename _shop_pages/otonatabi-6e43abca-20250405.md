@@ -12,7 +12,9 @@ visited_date: "2025-04-05"
 source_video_title: "おとな旅あるき旅 第777回 奈良・奈良市内（2025-04-05 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2164442_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ000497444/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/20/66/P018652066/P018652066_238.jpg"
 source_type: "tv"
 lat: 34.678078
 lng: 135.820084

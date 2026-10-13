@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「和菓子店 瓦屋」"
-description: "キントレ炊飯器の旅【髙橋海人ロケ地】山梨県南アルプス市のパン屋・和菓子屋・サバサンド・写真館・自転車屋・ぶどう農園はどこ？で紹介されたスイーツ「和菓子店 瓦屋」（山梨県南アルプス市）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2023年11月11日放送）の「炊飯器の旅」南アルプス市編で、髙橋海人が訪れた和菓子店。"
 shop_id: "kingprince-ece47ef8-"
 name: "和菓子店 瓦屋"
 genre: "sweets"
@@ -12,13 +12,12 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人ロケ地】山�
 source_url: "https://kosodate-and.net/kintore-kaito-suihanki-yamanashi"
 group: "kingprince"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "own_tv"
+program: "キントレ（炊飯器の旅）"
 lat: 35.7098
 lng: 138.3876
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

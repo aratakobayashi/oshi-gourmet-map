@@ -13,6 +13,6 @@ related_genres:
   - rosenbus-cafe
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

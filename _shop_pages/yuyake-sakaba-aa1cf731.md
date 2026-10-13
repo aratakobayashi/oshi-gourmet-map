@@ -11,7 +11,9 @@ address: "東京都渋谷区恵比寿1-14-2"
 source_video_title: "夕焼け酒場 #141 渋谷区「恵比寿 栃木屋」（2017年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html#num141"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000004507/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/33/P012313833/P012313833_238.jpg"
 source_type: "tv"
 lat: 35.647858
 lng: 139.712021

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "鮨 りんだ"
-description: "キントレ【永瀬廉＆桐山照史】まかないハンターの天ぷら屋・フレンチ・お寿司屋さん・香港料理店はどこ？で紹介された食事「鮨 りんだ」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』の企画「まかないハンター」（2025年11月22日放送）で、WEST.の桐山照史が永瀬廉と訪れた寿司店。"
 shop_id: "west-b359f6d6-"
 name: "鮨 りんだ"
 genre: "shokuji"
@@ -14,16 +14,12 @@ source_url: "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130802/13288588/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+visit_kind: "guest_tv"
+program: "キントレ"
 lat: 35.670595007182
 lng: 139.74687418713137
 members:
-  - "重岡大毅"
   - "桐山照史"
-  - "神山智洋"
-  - "濵田崇裕"
-  - "小瀧望"
-  - "藤井流星"
-  - "中間淳太"
 groups:
   - "west"
 ---

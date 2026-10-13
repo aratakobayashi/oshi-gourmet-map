@@ -12,7 +12,9 @@ visited_date: "2025-09-08"
 source_video_title: "吉田類の酒場放浪記 #1259 横浜「大衆割烹　松」（2025-09-08 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1259.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ003599237/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/20/P049754820/P049754820_238.jpg"
 source_type: "tv"
 lat: 35.46323
 lng: 139.617249

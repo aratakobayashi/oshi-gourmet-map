@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「CheeseTable 池袋店」"
-description: "なにわ男子のどっち派 (2025-10-17)で紹介された居酒屋「CheeseTable 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2025年10月17日放送）で長尾謙杜がモンブランのようなチーズハンバーグを食べた池袋の店。"
 shop_id: "naniwa-cheesetable-20251017"
 name: "CheeseTable 池袋店"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2025-10-17"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13121923/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.7268304
 lng: 139.7106565
 members:

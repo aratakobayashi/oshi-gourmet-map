@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "珈琲亭 ルアン"
-description: "westのYouTubeで紹介されたカフェ「珈琲亭 ルアン」（東京都大田区）。推し活グルメ巡礼スポット。"
+description: "WEST.の濵田崇裕が公式YouTubeの企画「喫茶と濵田。」（2024年8月）で訪れた喫茶店。"
 shop_id: "west-91ed6f5c-"
 name: "珈琲亭 ルアン"
 genre: "cafe"
@@ -17,6 +17,8 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131502/13008294/"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.5833459
 lng: 139.7298435
 members:

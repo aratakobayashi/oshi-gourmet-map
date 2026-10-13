@@ -1,24 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「Well Pickle Club」"
-description: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地で紹介されたその他「Well Pickle Club」（東京都葛飾区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-well_pickle_club-"
-name: "Well Pickle Club"
-genre: "others"
-prefecture: "東京都"
-city: "葛飾区"
-address: "東京都葛飾区西水元６－５－１"
-source_video_title: "【キントレ 趣味トレ第2弾】ピックルボールはどこ？利用方法は？永瀬廉＆髙橋海人ロケ地"
-source_url: "https://kosodate-and.net/kintore-shumi-pickleball"
-group: "kingprince"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
-lat: 35.787324
-lng: 139.8518675
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

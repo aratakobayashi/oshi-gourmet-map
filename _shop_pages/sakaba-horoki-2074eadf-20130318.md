@@ -12,7 +12,9 @@ visited_date: "2013-03-18"
 source_video_title: "吉田類の酒場放浪記 #536 青物横丁「葉月」（2013-03-18 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/536.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000133139/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/63/P025016963/P025016963_238.jpg"
 source_type: "tv"
 lat: 35.611023
 lng: 139.745132

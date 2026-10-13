@@ -13,6 +13,6 @@ related_genres:
   - harapeko-twins-chuka
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

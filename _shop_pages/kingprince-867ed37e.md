@@ -1,27 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「キングタコス 金武本店」"
-description: "【キントレ 沖縄】タコライスはどこ？永瀬廉＆髙橋海人が食べたタコライスは？で紹介されたその他「キングタコス 金武本店」（沖縄県国頭郡金武町）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-867ed37e-"
-name: "キングタコス 金武本店"
-genre: "others"
-prefecture: "沖縄県"
-city: "国頭郡金武町"
-address: "沖縄県国頭郡金武町字金武4244-4"
-source_video_title: "【キントレ 沖縄】タコライスはどこ？永瀬廉＆髙橋海人が食べたタコライスは？"
-source_url: "https://kosodate-and.net/kintore-renkai-taco-rice"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/okinawa/A4703/A470302/47011602/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001037225/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
-hotpepper_photo: "https://imgfp.hotp.jp/IMGH/52/94/P017785294/P017785294_238.jpg"
-lat: 26.453290810803317
-lng: 127.9172851594796
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

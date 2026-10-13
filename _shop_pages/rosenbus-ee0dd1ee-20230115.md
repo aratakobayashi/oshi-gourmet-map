@@ -12,7 +12,9 @@ visited_date: "2023-01-15"
 source_video_title: "路線バスで寄り道の旅 徳さん一行は貸切バスで、目黒～浅草～日本橋人生で一度はやってみたい体験ツアー（2023-01-15 テレビ朝日）"
 source_url: "https://www.tv-asahi.co.jp/rosenbus/backnumber2/0087/"
 group: "rosenbus"
+hotpepper_url: "https://www.hotpepper.jp/strJ000103082/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uMscnwyuhZNV4AmoWnru9HzNkwG.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/17/14/P031251714/P031251714_238.jpg"
 source_type: "tv"
 lat: 35.69183
 lng: 139.780594

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「瀬戸内バル Collabo」"
-description: "Snow ManのYouTubeで紹介された食事「瀬戸内バル Collabo」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【バルでランチ】」（2024年11月）で、岩本照・ラウール・宮舘涼太・佐久間大介の4人が訪れた三軒茶屋のバル。"
 shop_id: "snowman-setouchi-bar-collabo"
 name: "瀬戸内バル Collabo"
 genre: "shokuji"
@@ -19,6 +19,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001078309/"
 thumbnail_url: "https://img.youtube.com/vi/HksFKrub-_s/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/70/P027493870/P027493870_238.jpg"
 seating_note: "4人が座ったのは、ソファのお席だと思われます。"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.6446
 lng: 139.6693
 members:

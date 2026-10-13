@@ -46,7 +46,9 @@ def build_seo_description(shop):
     group_label = GROUP_LABELS_MAP.get(group, group)
     location = f'{prefecture}{city}' if (prefecture or city) else ''
 
-    # Opening: context of visit
+    # Opening: context of visit（見直し済みの説明文があればそれを使う）
+    if shop.get('visit_kind') and shop.get('description'):
+        return shop['description'][:160]
     if source_vid and (source_type in ('tv', 'drama') or not youtube_id):
         opener = f'{source_vid}で紹介された'
     elif youtube_id and group_label:
@@ -110,7 +112,14 @@ for shop in shops:
 
     group_label = GROUP_LABELS_MAP.get(shop.get('group', ''), '')
     name = shop.get('name', '')
-    if group_label:
+    vk = shop.get('visit_kind', '')
+    prog = shop.get('program', '')
+    mem1 = (shop.get('members') or [''])[0]
+    if group_label and vk == 'drama' and prog and mem1:
+        page_title = f'{mem1}出演『{prog}』のロケ地「{name}」'
+    elif group_label and shop.get('studio_only') and prog:
+        page_title = f'{group_label}『{prog}』に登場した「{name}」'
+    elif group_label:
         page_title = f'{group_label}が行った「{name}」'
     else:
         page_title = name
@@ -130,7 +139,7 @@ for shop in shops:
                 "youtube_id","source_video_title","source_video_url","source_url",
                 "group","tabelog_url","tabelog_verified","hotpepper_url","google_maps_url",
                 "thumbnail_url","hotpepper_photo","source_type","seating_note",
-                "business_hours"]:
+                "business_hours","visit_kind","program"]:
         v = shop.get(key)
         if v is not None and v != "":
             lines.append(f"{key}: {yaml_str(v)}")

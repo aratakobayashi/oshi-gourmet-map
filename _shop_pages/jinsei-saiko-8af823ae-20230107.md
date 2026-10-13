@@ -12,7 +12,9 @@ visited_date: "2023-01-07"
 source_video_title: "人生最高レストラン ごちそう様 笹野高史さん（2023-01-07 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202301071/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001101405/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/15/80/P019951580/P019951580_238.jpg"
 source_type: "tv"
 lat: 35.475918
 lng: 138.791702

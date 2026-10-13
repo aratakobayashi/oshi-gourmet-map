@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「INITIAL （イニシャル）Omotesando」"
-description: "【シューイチ日本食ハジメマシ亭第7弾】ご褒美グルメのいちごモンブランパフェ＆トリュフバーガーはどこの？で紹介されたその他「INITIAL （イニシャル）Omotesando」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+title: "SixTONES『シューイチ』に登場した「INITIAL （イニシャル）Omotesando」"
+description: "SixTONESの森本慎太郎がゲスト出演した『シューイチ』（2024年6月）の「日本食ハジメマシ亭」で、ご褒美グルメとして出たパフェの店。"
 shop_id: "sixtones-initial_omotesando-"
 name: "INITIAL （イニシャル）Omotesando"
 genre: "others"
@@ -14,14 +14,11 @@ source_url: "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13233470/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
+visit_kind: "guest_tv"
+program: "シューイチ"
 lat: 35.6692039
 lng: 139.7072847
 members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
 groups:
   - "sixtones"

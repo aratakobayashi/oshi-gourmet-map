@@ -12,7 +12,9 @@ visited_date: "2024-11-04"
 source_video_title: "吉田類の酒場放浪記 #1213 社町「やきとり一休」（2024-11-04 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1213.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ004402258/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/10/94/P047491094/P047491094_238.jpg"
 source_type: "tv"
 lat: 34.917355
 lng: 134.967285

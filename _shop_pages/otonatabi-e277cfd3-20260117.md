@@ -12,7 +12,9 @@ visited_date: "2026-01-17"
 source_video_title: "おとな旅あるき旅 第815回 冬の京都1（2026-01-17 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2184130_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ001014250/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/97/44/P034419744/P034419744_238.jpg"
 source_type: "tv"
 lat: 35.038456
 lng: 135.733459

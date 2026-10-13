@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "SixTONESが行った「らーめんMAIKAGURA」"
-description: "【ゴールデンストーンズ】ご褒美の町中華兆徳はどこ？フルコースのメニューは何？で紹介されたラーメン「らーめんMAIKAGURA」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+title: "SixTONES『Golden SixTONES』に登場した「らーめんMAIKAGURA」"
+description: "SixTONESの冠番組『Golden SixTONES』（2025年6月）で、ゲームのご褒美グルメとして出たラーメンの店。"
 shop_id: "sixtones-maikagura-20250617"
 name: "らーめんMAIKAGURA"
 genre: "ramen"
@@ -14,6 +14,8 @@ source_url: "https://kosodate-and.net/golden-sixtones-kazushige-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131813/13218425/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c59A7voDT22pAeH6zwxTltceGjn.jpg"
+visit_kind: "own_tv"
+program: "Golden SixTONES"
 lat: 35.6499984
 lng: 139.6219057
 members:
@@ -21,8 +23,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ---

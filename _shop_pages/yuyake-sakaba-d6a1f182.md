@@ -11,7 +11,9 @@ address: "東京都千代田区一番町15-20 フェニックスビル1F"
 source_video_title: "夕焼け酒場 #304 千代田区半蔵門「麹町酒場 まんで屋」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num304"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001192291/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/09/34/P029800934/P029800934_238.jpg"
 source_type: "tv"
 lat: 35.686073
 lng: 139.73967

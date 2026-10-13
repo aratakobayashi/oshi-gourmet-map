@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「伊香保焼 処々や」"
-description: "SixTONESのYouTubeで紹介されたその他「伊香保焼 処々や」（群馬県渋川市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「帰ってきたアポなし旅」（2023年11月）で、6人が伊香保温泉石段街で伊香保焼（たこ焼き）を食べた店。"
 shop_id: "sixtones-cfdee4a9-"
 name: "伊香保焼 処々や"
 genre: "others"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=iL3LjxeRpX4"
 source_url: "https://kosodate-and.net/sixtones-ikaho-gohan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10009873/"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 36.4996088
 lng: 138.9235424
 members:
@@ -22,8 +24,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 ---

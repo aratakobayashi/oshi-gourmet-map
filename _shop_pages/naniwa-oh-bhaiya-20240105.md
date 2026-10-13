@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "なにわ男子が行った「OH BHAIYA！」"
-description: "なにわ男子のどっち派 (2024-01-05)で紹介されたスイーツ「OH BHAIYA！」（東京都江戸川区）。推し活グルメ巡礼スポット。"
+description: "めざましテレビ「なにわ男子のどっち派！？」（2024年1月5日放送）で長尾謙杜がインドの菓子グラブジャムンを食べた江戸川区の店。"
 shop_id: "naniwa-oh_bhaiya-20240105"
 name: "OH BHAIYA！"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://www.chiicrane-life.fun/mezamashi-2024-01-05"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131305/13283505/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "なにわ男子のどっち派！？（めざましテレビ）"
 lat: 35.6674208
 lng: 139.8580746
 members:

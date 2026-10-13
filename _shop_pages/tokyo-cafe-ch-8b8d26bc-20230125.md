@@ -1,0 +1,24 @@
+---
+layout: shop
+title: "ペドラブランカ"
+description: "tokyo_cafe_chのYouTubeで紹介されたカフェ「ペドラブランカ」（東京都品川区）。推し活グルメ巡礼スポット。"
+shop_id: "tokyo_cafe_ch-8b8d26bc-20230125"
+name: "ペドラブランカ"
+genre: "cafe"
+prefecture: "東京都"
+city: "品川区"
+address: "東京都品川区戸越4‐8‐6"
+visited_date: "2023-01-25"
+youtube_id: "TSWyQJ0G8uU"
+source_video_title: "【東京・ホットケーキ】ほっこり懐かしい𓂃𓈒𓏸大好きなホットケーキ6選！人気店／名店／老舗"
+source_video_url: "https://www.youtube.com/watch?v=TSWyQJ0G8uU"
+source_url: "https://www.youtube.com/watch?v=TSWyQJ0G8uU"
+group: "tokyo_cafe_ch"
+source_type: "youtube"
+lat: 35.611107
+lng: 139.718857
+members:
+  - "東京カフェちゃんねる"
+groups:
+  - "tokyo_cafe_ch"
+---

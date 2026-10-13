@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」"
-description: "SixTONESのYouTubeで紹介された焼肉「THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "京本大我とTravis Japanの宮近海斗・七五三掛龍也・松倉海斗の「京本会」が、公式YouTube（2023年10月）でバーベキューをした表参道の屋上BBQ場。"
 shop_id: "sixtones-the_roof_bbq_garden-"
 name: "THE ROOF BBQ GARDEN （ザ ルーフ バーベキューガーデン）"
 genre: "yakiniku"
@@ -18,15 +18,12 @@ group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13286385/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004089157/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/78/P047365478/P047365478_238.jpg"
+visit_kind: "youtube"
+program: "京本会（SixTONES・Travis Japan公式YouTube）"
 lat: 35.6705999
 lng: 139.7159289
 members:
-  - "ジェシー"
   - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
 groups:
   - "sixtones"
 ---

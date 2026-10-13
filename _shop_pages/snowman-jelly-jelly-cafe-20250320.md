@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「JELLY JELLY CAFE 渋谷本店」"
-description: "Snow ManのYouTubeで紹介されたカフェ「JELLY JELLY CAFE 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "ジュニアCHANNELのSnow Man「話題！【ボードゲームカフェ】に行ってみた」（2018年5月）で、6人時代のメンバーがボードゲームをしたカフェ。"
 shop_id: "snowman-jelly_jelly_cafe-20250320"
 name: "JELLY JELLY CAFE 渋谷本店"
 genre: "cafe"
@@ -15,17 +15,16 @@ source_video_title: "Snow Man 話題！【ボードゲームカフェ】に行�
 group: "snowman"
 hotpepper_url: "https://www.hotpepper.jp/strJ003410064/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/20/P040544820/P040544820_238.jpg"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（Snow Man）"
 lat: 35.6691
 lng: 139.689
 members:
   - "岩本照"
-  - "ラウール"
   - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
   - "渡辺翔太"
-  - "向井康二"
-  - "目黒蓮"
+  - "阿部亮平"
+  - "宮舘涼太"
   - "佐久間大介"
 groups:
   - "snowman"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「鳥元 新宿西口店」"
-description: "SixTONESのYouTubeで紹介された居酒屋「鳥元 新宿西口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「無限シリーズ～焼き鳥」（2024年11月）で、6人が焼き鳥100本に挑んだ居酒屋。"
 shop_id: "sixtones-torigen-shinjuku"
 name: "鳥元 新宿西口店"
 genre: "izakaya"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=0dnJrRmFRXo"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13006736/"
 thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.690528
 lng: 139.697924
 members:
@@ -23,8 +25,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

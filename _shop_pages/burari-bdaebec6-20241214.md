@@ -12,7 +12,9 @@ visited_date: "2024-12-14"
 source_video_title: "ぶらり途中下車の旅 日比谷線の旅 旅人：石井正則（2024-12-14 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227151gaq30jepya578.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ003762095/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/53/62/P043985362/P043985362_238.jpg"
 source_type: "tv"
 lat: 35.746956
 lng: 139.805695

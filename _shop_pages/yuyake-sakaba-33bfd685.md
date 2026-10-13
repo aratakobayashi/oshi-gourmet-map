@@ -11,7 +11,9 @@ address: "東京都葛飾区亀有5-33-12 JOYビル1F"
 source_video_title: "夕焼け酒場 #318 葛飾区亀有「かずき本店」（2021年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num318"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000642162/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/00/84/P037690084/P037690084_238.jpg"
 source_type: "tv"
 lat: 35.766621
 lng: 139.847336

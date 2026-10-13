@@ -12,7 +12,9 @@ visited_date: "2011-02-07"
 source_video_title: "吉田類の酒場放浪記 #411 町屋「大衆酒場栃木屋」（2011-02-07 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/411.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ001116624/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/30/P023343330/P023343330_238.jpg"
 source_type: "tv"
 lat: 35.743862
 lng: 139.783127

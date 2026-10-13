@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "TEN.TEN.CAFE"
-description: "よんチャンTV ぶら参道（2023-07-05公開 MBS）で紹介されたカフェ「TEN.TEN.CAFE」（奈良県奈良市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "yonchan_tv-f4d62cfa-20230705"
-name: "TEN.TEN.CAFE"
-genre: "cafe"
-prefecture: "奈良県"
-city: "奈良市"
-address: "奈良県奈良市春日野町16"
-visited_date: "2023-07-05"
-source_video_title: "よんチャンTV ぶら参道（2023-07-05公開 MBS）"
-source_url: "https://www.mbs.jp/4chantv/corner/burasandou/article/2023/07/095510.shtml"
-group: "yonchan_tv"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/pRBhOAS6HV2HAbZl4HRqYdmnb0Y.jpg"
-source_type: "tv"
-lat: 34.684177
-lng: 135.839111
-groups:
-  - "yonchan_tv"
+redirect_to: "/groups/"
+redirect_label: "推しから探すのページ"
+sitemap: false
 ---

@@ -15,6 +15,6 @@ related_genres:
   - timelesz-cafe
 related_groups:
   - machichuka-chuka
-  - seyanen-chuka
+  - gyoza-tv-chuka
   - jinsei-saiko-chuka
 ---

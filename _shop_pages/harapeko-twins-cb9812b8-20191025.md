@@ -14,6 +14,8 @@ source_video_title: "【大食い】新大久保で韓国料理食べ放題�
 source_video_url: "https://www.youtube.com/watch?v=txRhoHGDI4g"
 source_url: "https://www.youtube.com/watch?v=txRhoHGDI4g"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000952111/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/27/P049637927/P049637927_238.jpg"
 source_type: "youtube"
 lat: 35.701233
 lng: 139.702667

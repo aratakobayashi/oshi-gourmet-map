@@ -79,11 +79,9 @@
     - { key: jinsei_saiko }
     - { key: burari }
     - { key: machichuka }
-    - { key: syokusai }
     - { key: otonatabi }
     - { key: yuyake_sakaba }
     - { key: rosenbus }
-    - { key: omouma }
     - { key: shojikisanpo }
     - { key: gochi }
     - { key: sekkaku_gourmet }
@@ -91,14 +89,10 @@
 
 - label: "情報番組"
   groups:
-    - { key: every }
-    - { key: seyanen }
-    - { key: yonchan_tv }
     - { key: switch }
     - { key: ohaasa }
     - { key: shuichi }
     - { key: news_okaeri }
-    - { key: asapara }
     - { key: zip }
 
 - label: "ドラマ"

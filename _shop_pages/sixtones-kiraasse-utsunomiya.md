@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「来らっせ 本店」"
-description: "SixTONESのYouTubeで紹介された中華「来らっせ 本店」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「アポなし旅2024夏」で、6人が宇都宮餃子を食べた餃子の店。"
 shop_id: "sixtones-kiraasse-utsunomiya"
 name: "来らっせ 本店"
 genre: "chuka"
@@ -18,6 +18,8 @@ tabelog_url: "https://tabelog.com/tochigi/A0901/A090101/9000221/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000102335/"
 thumbnail_url: "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/32/35/P037103235/P037103235_238.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 36.556614
 lng: 139.882847
 members:
@@ -25,8 +27,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「Rapace」"
-description: "Snow ManのYouTubeで紹介された食事「Rapace」（東京都町田市）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【フクロウカフェで癒された】」（2023年12月）で、ラウール・目黒蓮・宮舘涼太・佐久間大介の4人が訪れた町田のフクロウカフェ。"
 shop_id: "snowman-machidahuku"
 name: "Rapace"
 genre: "shokuji"
@@ -15,17 +15,14 @@ source_video_title: "Snow Man【フクロウカフェで癒された🦉】た�
 source_video_url: "https://www.youtube.com/watch?v=UhK_38vVRCU"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13054257/"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.5390964
 lng: 139.4480922
 members:
-  - "岩本照"
   - "ラウール"
-  - "深澤辰哉"
-  - "宮舘涼太"
-  - "阿部亮平"
-  - "渡辺翔太"
-  - "向井康二"
   - "目黒蓮"
+  - "宮舘涼太"
   - "佐久間大介"
 groups:
   - "snowman"

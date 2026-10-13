@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「喜烙亭 （きらくてい）」"
-description: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロケ地】滋賀県琵琶湖のお店・ホテルはどこ？で紹介されたその他「喜烙亭 （きらくてい）」（滋賀県大津市）。推し活グルメ巡礼スポット。"
+description: "永瀬廉・髙橋海人が出演したNHK BS『プレミセ！』（2023年11月24日放送）の滋賀ロケで訪れた、ビワマス親子丼の店。"
 shop_id: "kingprince-7e81f474-"
 name: "喜烙亭 （きらくてい）"
 genre: "others"
@@ -13,13 +13,13 @@ source_video_title: "プレミセ！【キンプリ永瀬廉＆髙橋海人ロ�
 source_url: "https://kosodate-and.net/puremise-renkai-shiga"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shiga/A2501/A250101/25000290/"
+visit_kind: "guest_tv"
+program: "プレミセ！"
 lat: 35.00316363709936
 lng: 135.86667617910717
 members:
   - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

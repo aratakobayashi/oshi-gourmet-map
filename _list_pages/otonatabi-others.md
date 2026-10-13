@@ -12,7 +12,7 @@ related_genres:
   - otonatabi-izakaya
   - otonatabi-shokuji
 related_groups:
-  - kingprince-others
   - sakaba-horoki-others
+  - kingprince-others
   - nogizaka46-others
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SixTONESが行った「佐野サービスエリア（下り）フードコート」"
-description: "SixTONESのYouTubeで紹介されたラーメン「佐野サービスエリア（下り）フードコート」（栃木県佐野市）。推し活グルメ巡礼スポット。"
+description: "SixTONESの公式YouTube「アポなし旅2024夏～05～ 爆笑ドライブに絶品SAグルメ！」（2024年9月）で、6人がご当地グルメを食べた東北道・佐野SA（下り）のフードコート。"
 shop_id: "sixtones-sano-sa-foodcourt"
 name: "佐野サービスエリア（下り）フードコート"
 genre: "ramen"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=YaXa9d2okDE"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9021030/"
 thumbnail_url: "https://img.youtube.com/vi/YaXa9d2okDE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "ストチューブ（SixTONES公式YouTube）"
 lat: 36.374212
 lng: 139.595841
 members:
@@ -23,8 +25,8 @@ members:
   - "京本大我"
   - "松村北斗"
   - "髙地優吾"
-  - "田中樹"
   - "森本慎太郎"
+  - "田中樹"
 groups:
   - "sixtones"
 tags:

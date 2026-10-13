@@ -1,11 +1,11 @@
 ---
-title: "King & Princeの和食聖地巡礼｜行った和食14選"
-description: "King & Princeのメンバーが実際に訪れた和食スポットを14件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "King & Princeの和食聖地巡礼｜行った和食12選"
+description: "King & Princeのメンバーが実際に訪れた和食スポットを12件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kingprince
 genre: washoku
 group_label: "King & Prince"
 slug_id: kingprince-washoku
-shop_count: 14
+shop_count: 12
 group_color: "#f472b6"
 group_bio: "King & Prince（キンプリ）は永瀬廉・髙橋海人の2人組男性グループ（STARTO ENTERTAINMENT）。2023年5月から現体制で活動。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
@@ -15,6 +15,6 @@ related_genres:
   - kingprince-cafe
 related_groups:
   - jinsei-saiko-washoku
-  - seyanen-washoku
   - otonatabi-washoku
+  - burari-washoku
 ---

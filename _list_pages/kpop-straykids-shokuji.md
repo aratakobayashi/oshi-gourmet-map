@@ -8,6 +8,6 @@ slug_id: kpop-straykids-shokuji
 shop_count: 5
 related_groups:
   - jinsei-saiko-shokuji
-  - syokusai-shokuji
-  - every-shokuji
+  - burari-shokuji
+  - haiji-shokuji
 ---

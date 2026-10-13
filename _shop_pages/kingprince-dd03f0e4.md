@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "King & Princeが行った「東龍」"
-description: "東京タワー第5話【永瀬廉ロケ地】透＆耕二が高校時代通っていたラーメン屋さんはどこ？で紹介されたその他「東龍」（埼玉県川口市）。推し活グルメ巡礼スポット。"
+title: "永瀬廉出演『東京タワー』のロケ地「東龍」"
+description: "永瀬廉が主演したドラマ『東京タワー』（テレビ朝日、2024年）第5話で、透（永瀬廉）が耕二の彼女・ゆり（なえなの）と訪れた、高校時代に通っていたという設定のラーメン店。"
 shop_id: "kingprince-dd03f0e4-"
 name: "東龍"
 genre: "others"
@@ -14,13 +14,12 @@ source_url: "https://kosodate-and.net/tokyotower-ren-ramen"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/saitama/A1102/A110201/11007412/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
+visit_kind: "drama"
+program: "東京タワー"
 lat: 35.83923365860541
 lng: 139.734191886003
 members:
   - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

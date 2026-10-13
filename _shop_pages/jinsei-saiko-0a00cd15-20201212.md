@@ -12,7 +12,9 @@ visited_date: "2020-12-12"
 source_video_title: "人生最高レストラン #188 ごちそう様 霜降り明星 粗品さん・せいやさん（2020-12-12 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20201212.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001018898/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/20/P048837920/P048837920_238.jpg"
 source_type: "tv"
 lat: 34.708813
 lng: 135.618683

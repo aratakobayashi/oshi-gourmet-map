@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0166-tenshinhanten/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131903/13148650/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ003298140/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/25/P039615925/P039615925_238.jpg"
 source_type: "tv"
 lat: 35.691109
 lng: 139.666275

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Snow Manが行った「江川亭 小金井本店」"
-description: "Snow ManのYouTubeで紹介されたラーメン「江川亭 小金井本店」（東京都小金井市）。推し活グルメ巡礼スポット。"
+description: "Snow Manの公式YouTube「【地元で有名なラーメン店】」（2024年4月）で、岩本照・深澤辰哉・渡辺翔太・向井康二の4人が訪れた小金井のラーメン店。"
 shop_id: "snowman-ekawatei-koganei"
 name: "江川亭 小金井本店"
 genre: "ramen"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=G_H9oT6u7_k"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1325/A132501/13005961/"
 thumbnail_url: "https://img.youtube.com/vi/HGSvw6srgNU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "すのちゅーぶ（Snow Man公式YouTube）"
 lat: 35.7027
 lng: 139.5136
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」"
-description: "King & Princeキンプリ「Home, Stupid Home」『Stereo Love』撮影ロケ地はどこ？で紹介されたその他「ペッパーズ ドライブイン（PEPPERS DRIVE-IN）」（神奈川県平塚市）。推し活グルメ巡礼スポット。"
+description: "King & Princeのアルバム『STARRING』（2025年）収録映像「Home, Stupid Home」（『Stereo Love』）の撮影に使われた、平塚のアメリカンダイナー風カレー店。"
 shop_id: "kingprince-peppers_drive_in-"
 name: "ペッパーズ ドライブイン（PEPPERS DRIVE-IN）"
 genre: "others"
@@ -12,13 +12,13 @@ source_video_title: "King & Princeキンプリ「Home, Stupid Home」『Stereo L
 source_url: "https://kosodate-and.net/renkai-stereo-love-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140407/14006087/"
+visit_kind: "other"
+program: "King & Prince『STARRING』収録映像「Home, Stupid Home」"
 lat: 35.36996178877215
 lng: 139.32193332155188
 members:
   - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

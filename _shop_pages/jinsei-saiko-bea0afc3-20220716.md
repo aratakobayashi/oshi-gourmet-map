@@ -12,7 +12,9 @@ visited_date: "2022-07-16"
 source_video_title: "人生最高レストラン ごちそう様 梨花さん（2022-07-16 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202207161/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000613495/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/26/17/P021172617/P021172617_238.jpg"
 source_type: "tv"
 lat: 35.644115
 lng: 139.721268

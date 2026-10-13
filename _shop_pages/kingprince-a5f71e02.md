@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「臼杵ふぐ 山田屋 丸の内」"
-description: "キントレ【永瀬廉＆髙橋海人ロケ地】最高級ふぐ＆激安ふぐのお店はどこ？東京23区ピンキリ調査！で紹介されたその他「臼杵ふぐ 山田屋 丸の内」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "King & Princeの冠番組『キントレ』（日本テレビ、2023年11月4日放送）の「東京23区ピンキリ調査」で、髙橋海人が山崎弘也・ファーストサマーウイカと訪れた丸ビルのふぐ料理店。"
 shop_id: "kingprince-a5f71e02-"
 name: "臼杵ふぐ 山田屋 丸の内"
 genre: "others"
@@ -15,13 +15,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13204262/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001223088/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/80/93/P033108093/P033108093_238.jpg"
+visit_kind: "own_tv"
+program: "キントレ（東京23区ピンキリ調査）"
 lat: 35.68120613790981
 lng: 139.7637542832243
 members:
-  - "永瀬廉"
   - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

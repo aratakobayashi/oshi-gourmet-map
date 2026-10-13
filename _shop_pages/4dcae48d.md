@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "権八 西麻布"
-description: "リア突WEST 東京観光コーディネーター回 2023-06-18（濵田崇裕）で紹介された食事「権八 西麻布」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "WEST.の冠番組『リア突WEST』（2023年6月18日放送）で、濵田崇裕を海外VIPに見立てた東京観光企画で訪れた和食店。"
 shop_id: "4dcae48d"
 name: "権八 西麻布"
 genre: "shokuji"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000103824/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/eha08jjB6clOlKMEaO4pUVjyYp.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/74/P040726374/P040726374_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "あなたの代わりに見てきます！リア突WEST"
 lat: 35.6601742
 lng: 139.7235797
 members:

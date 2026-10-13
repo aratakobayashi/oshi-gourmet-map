@@ -1,0 +1,26 @@
+---
+layout: shop
+title: "徳島らぁ麺 堂の浦 駅前店"
+description: "shiyagoのYouTubeで紹介されたラーメン「徳島らぁ麺 堂の浦 駅前店」（徳島県徳島市）。推し活グルメ巡礼スポット。"
+shop_id: "shiyago-d1ab2a1f-20250402"
+name: "徳島らぁ麺 堂の浦 駅前店"
+genre: "ramen"
+prefecture: "徳島県"
+city: "徳島市"
+address: "徳島県徳島市寺島本町西1丁目45−1"
+visited_date: "2025-04-02"
+youtube_id: "jSLjPbYbGKs"
+source_video_title: "【徳島】ラーメン４軒巡り！地元で愛される名店で濃厚豚骨を味わい尽くす"
+source_video_url: "https://www.youtube.com/watch?v=jSLjPbYbGKs"
+source_url: "https://www.youtube.com/watch?v=jSLjPbYbGKs"
+group: "shiyago"
+source_type: "youtube"
+lat: 34.074863
+lng: 134.549835
+members:
+  - "しやご"
+groups:
+  - "shiyago"
+ordered_items:
+  - "名物 鯛の塩らぁ麺"
+---
