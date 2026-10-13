@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 846" width="420" height="846" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <rect width="420" height="846" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店32軒を数えました</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店31軒を数えました</text>
 <text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
 <rect x="100" y="100" width="220" height="26" rx="8" fill="#db2777"/>
-<text x="328" y="119" font-size="16" font-weight="800" fill="#db2777">9軒</text>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#db2777">8軒</text>
 <text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">和食</text>
-<rect x="100" y="144" width="171" height="26" rx="8" fill="#15803d"/>
-<text x="279" y="163" font-size="16" font-weight="800" fill="#15803d">7軒</text>
+<rect x="100" y="144" width="192" height="26" rx="8" fill="#15803d"/>
+<text x="300" y="163" font-size="16" font-weight="800" fill="#15803d">7軒</text>
 <text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">ラーメン</text>
-<rect x="100" y="188" width="122" height="26" rx="8" fill="#ca8a04"/>
-<text x="230" y="207" font-size="16" font-weight="800" fill="#ca8a04">5軒</text>
+<rect x="100" y="188" width="137" height="26" rx="8" fill="#ca8a04"/>
+<text x="245" y="207" font-size="16" font-weight="800" fill="#ca8a04">5軒</text>
 <text x="20" y="250" font-size="15" font-weight="700" fill="#241F1A">中華</text>
-<rect x="100" y="232" width="122" height="26" rx="8" fill="#dc2626"/>
-<text x="230" y="251" font-size="16" font-weight="800" fill="#dc2626">5軒</text>
+<rect x="100" y="232" width="137" height="26" rx="8" fill="#dc2626"/>
+<text x="245" y="251" font-size="16" font-weight="800" fill="#dc2626">5軒</text>
 <text x="20" y="294" font-size="15" font-weight="700" fill="#241F1A">その他</text>
-<rect x="100" y="276" width="73" height="26" rx="8" fill="#64748b"/>
-<text x="181" y="295" font-size="16" font-weight="800" fill="#64748b">3軒</text>
+<rect x="100" y="276" width="82" height="26" rx="8" fill="#64748b"/>
+<text x="190" y="295" font-size="16" font-weight="800" fill="#64748b">3軒</text>
 <text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">食事</text>
-<rect x="100" y="320" width="48" height="26" rx="8" fill="#2563eb"/>
-<text x="156" y="339" font-size="16" font-weight="800" fill="#2563eb">2軒</text>
+<rect x="100" y="320" width="55" height="26" rx="8" fill="#2563eb"/>
+<text x="163" y="339" font-size="16" font-weight="800" fill="#2563eb">2軒</text>
 <text x="20" y="382" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
-<rect x="100" y="364" width="24" height="26" rx="8" fill="#0891b2"/>
-<text x="132" y="383" font-size="16" font-weight="800" fill="#0891b2">1軒</text>
+<rect x="100" y="364" width="27" height="26" rx="8" fill="#0891b2"/>
+<text x="135" y="383" font-size="16" font-weight="800" fill="#0891b2">1軒</text>
 <text x="20" y="418" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
 <rect x="20" y="432" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="450" font-size="13.5" fill="#241F1A">台東区</text><text x="192" y="450" font-size="14" font-weight="800" text-anchor="end" fill="#e2553f">3軒</text>
 <rect x="216" y="432" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="450" font-size="13.5" fill="#241F1A">中央区</text><text x="388" y="450" font-size="14" font-weight="800" text-anchor="end" fill="#e2553f">3軒</text>
+<text x="228" y="450" font-size="13.5" fill="#241F1A">中央区</text><text x="388" y="450" font-size="14" font-weight="800" text-anchor="end" fill="#e2553f">2軒</text>
 <rect x="20" y="464" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="482" font-size="13.5" fill="#241F1A">長野</text><text x="192" y="482" font-size="14" font-weight="800" text-anchor="end" fill="#e2553f">2軒</text>
 <rect x="216" y="464" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>

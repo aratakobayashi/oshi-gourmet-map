@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った和食まとめ【86軒】よにのの朝定食・両国のちゃんこに2組・うなぎとそばまで11組"
+title: "アイドル・芸能人が行った和食まとめ【85軒】よにのの朝定食・両国のちゃんこに2組・うなぎとそばまで11組"
 date: 2026-05-27
 last_modified_at: 2026-10-10
-description: "孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVE・Hey! Say! JUMPなど11組の動画や番組に登場した和食・定食・そば・うなぎのお店86軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。何組も訪れたお店や、どのグループのお店かは図でひと目で。"
+description: "孤独のグルメ・よにのちゃんねる・SixTONES・Snow Man・=LOVE・Hey! Say! JUMPなど11組の動画や番組に登場した和食・定食・そば・うなぎのお店85軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。何組も訪れたお店や、どのグループのお店かは図でひと目で。"
 genre: 和食
 article_type: genre
 prefecture: 東京都
 tags: [和食, 定食, そば, うなぎ, ちゃんこ, おにぎり, 聖地巡礼, 孤独のグルメ, よにのちゃんねる, SixTONES, Snow Man, "=LOVE", "Hey! Say! JUMP", 乃木坂46, 推し活]
 thumbnail_video_id: Ax1f_OVispA
 summary:
-  - "11組のグループ・番組に登場した和食のお店86軒。孤独のグルメ29軒、よにのちゃんねる18軒、Snow Man11軒、=LOVE11軒"
+  - "11組のグループ・番組に登場した和食のお店85軒。孤独のグルメ29軒、よにのちゃんねる18軒、Snow Man11軒、=LOVE11軒"
   - "両国のちゃんこには、よにのちゃんねると孤独のグルメの2組"
   - "うなぎは4組、そば・うどんは5組のお店が登場。よにのちゃんねるは朝ごはんの定食の回が多い"
-  - "86軒のうち51軒が東京都。鎌倉・金沢・京都・軽井沢など旅先の和食も"
+  - "85軒のうち51軒が東京都。鎌倉・金沢・京都・軽井沢など旅先の和食も"
 shop_ids:
   - kodoku_no_gurume-f7531f88-
   - kodoku_no_gurume-83ea2596-
@@ -102,7 +102,7 @@ shop_ids:
   - heysayjump-aad59291-20160414
 faq:
   - q: "アイドル・芸能人が行った和食のお店は、どのグループが多いですか？"
-    a: "この記事の86軒では、孤独のグルメが29軒で最も多く、よにのちゃんねるが18軒、Snow Manと=LOVEが11軒ずつ、SixTONESが6軒、Hey! Say! JUMPが5軒です。"
+    a: "この記事の85軒では、孤独のグルメが29軒で最も多く、よにのちゃんねるが18軒、Snow Manと=LOVEが11軒ずつ、SixTONESとHey! Say! JUMPが5軒ずつです。"
   - q: "何組も訪れた和食のお店はありますか？"
     a: "両国では、よにのちゃんねるが相撲茶屋 寺尾（#336）、孤独のグルメがSeason2 第8話で割烹ちゃんこ 大内と、2組がちゃんこのお店に行っています。"
   - q: "よにのちゃんねるが行った和食のお店は？"
@@ -110,46 +110,46 @@ faq:
   - q: "推しが行ったうなぎのお店は？"
     a: "よにのちゃんねるの炭焼 うな富士 有楽町店（#452）、Snow Manのうなぎ川松（東久留米）、Hey! Say! JUMPのうな達（池袋）、孤独のグルメの鰻の名店割烹 松の家（浜松）の4軒です。"
   - q: "推しが行った和食のお店を地図で見られますか？"
-    a: "「お店を探す」でジャンルを和食にすると、この記事の86軒を含め、推しグルメ巡礼MAPに登録されている和食のお店を地図で見られます。"
+    a: "「お店を探す」でジャンルを和食にすると、この記事の85軒を含め、推しグルメ巡礼MAPに登録されている和食のお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#15803d">
 
 <p>朝の焼き魚定食、両国のちゃんこ、創業の古いおそば屋さん。和食の回には、推しがほっとひと息つく表情がよく映ります。</p>
 
-<p>この記事では、<strong>11組</strong>のグループ・番組の動画や放送に登場した和食・定食・そば・うなぎのお店<strong>86軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>11組</strong>のグループ・番組の動画や放送に登場した和食・定食・そば・うなぎのお店<strong>85軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しの和食</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しの和食</p>
-    <p class="pf-card__yomi">11組の動画・番組から86軒</p>
+    <p class="pf-card__yomi">11組の動画・番組から85軒</p>
     <span class="pf-card__color"><i></i>和食</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>86軒</dd></div>
+    <div><dt>お店の数</dt><dd>85軒</dd></div>
     <div><dt>グループ・番組</dt><dd>11組</dd></div>
     <div><dt>多いグループ</dt><dd>孤独のグルメ（29軒）・よにの（18軒）</dd></div>
     <div><dt>2組が行った街</dt><dd>両国（ちゃんこ）</dd></div>
     <div><dt>うなぎ</dt><dd>4組・4軒</dd></div>
-    <div><dt>東京の外</dt><dd>35軒（鎌倉・金沢・京都など）</dd></div>
+    <div><dt>東京の外</dt><dd>34軒（鎌倉・金沢・京都など）</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>86<small>軒</small></b><span>この記事の和食のお店</span></div>
+  <div><b>85<small>軒</small></b><span>この記事の和食のお店</span></div>
   <div><b>11<small>組</small></b><span>登場したグループ・番組</span></div>
   <div><b>10<small>本</small></b><span>よにのちゃんねるの18本のうち、タイトルに【朝食】【朝飯】が付いた回</span></div>
   <div><b>{{ site.data.site_stats.genres.washoku }}<small>軒</small></b><span>このサイトに登録されている和食のお店ぜんぶ</span></div>
 </div>
 
 <h2>どのグループの和食？</h2>
-<p>孤独のグルメの29軒に、よにのちゃんねる18軒、Snow Man・=LOVE11軒ずつ、SixTONES6軒が続きます。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/groups.svg" alt="どのグループの和食か：孤独のグルメ29軒、よにのちゃんねる18軒、Snow Man 11軒、=LOVE 11軒、SixTONES 6軒、Hey! Say! JUMP 5軒、乃木坂46 2軒、亀梨和也・≒JOY・≠ME・銀河チャンネルが1軒ずつ" width="420" height="530" loading="lazy" decoding="async"><figcaption>この記事の86軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<p>孤独のグルメの29軒に、よにのちゃんねる18軒、Snow Man・=LOVE11軒ずつ、SixTONES・Hey! Say! JUMP5軒ずつが続きます。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/groups.svg" alt="どのグループの和食か：孤独のグルメ29軒、よにのちゃんねる18軒、Snow Man 11軒、=LOVE 11軒、SixTONES 5軒、Hey! Say! JUMP 5軒、乃木坂46 2軒、亀梨和也・≒JOY・≠ME・銀河チャンネルが1軒ずつ" width="420" height="530" loading="lazy" decoding="async"><figcaption>この記事の85軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/area.svg" alt="お店の場所：東京51軒、関東（東京以外）14軒、中部9軒、近畿4軒、九州・沖縄4軒、北海道・東北2軒、中国・四国1軒、海外1軒。東京都のなかでは港区6軒、豊島区5軒、台東区・新宿区・渋谷区が4軒ずつ、千代田区・世田谷区・中央区が3軒ずつなど。東京都のほかでは神奈川県8軒、千葉県4軒、京都府3軒、石川県3軒など" width="420" height="726" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-washoku-matome/area.svg" alt="お店の場所：東京51軒、関東（東京以外）13軒、中部9軒、近畿4軒、九州・沖縄4軒、北海道・東北2軒、中国・四国1軒、海外1軒。東京都のなかでは港区6軒、豊島区5軒、台東区・新宿区・渋谷区が4軒ずつ、千代田区・世田谷区・中央区が3軒ずつなど。東京都のほかでは神奈川県7軒、千葉県4軒、京都府3軒、石川県3軒など" width="420" height="726" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>何組も訪れた：両国のちゃんこ</h2>
 <p>両国では2組がそれぞれ別のちゃんこのお店へ。</p>
@@ -222,7 +222,6 @@ faq:
   <li><span class="k">2019<br>5月</span><div><b>豚みそ丼本舗 野さか（秩父）</b><span>SixTONES【1年ぶりの復活】第3回！ドライブ企画ー秩父編ー1/5</span></div></li>
   <li><span class="k">2019<br>11月</span><div><b>京料理 六盛（京都）</b><span>SixTONES - Kyoto Drive Vol.2</span></div></li>
   <li><span class="k">2025<br>4月</span><div><b>江の島 貝作</b><span>SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?</span></div></li>
-  <li><span class="k">2025<br>9月</span><div><b>鎌倉 無（むしゃ）</b><span>SixTONES【サマソニ直後に夏ドライブ】色々語りたいタイミングなんだよね!?</span></div></li>
 </ul>
 {% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-iseyashokudo-yodobashi,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-enoshima-kaisaku" %}
 
@@ -297,12 +296,12 @@ faq:
   <li><strong>麻布十番</strong>：しゃぶしゃぶ だるま（麻布十番駅 徒歩2分）・干物割烹 あん梅（よにのちゃんねる）と、Snow Manの総本家更科堀井 本店（麻布十番駅 徒歩7分）。</li>
   <li><strong>大塚・池袋</strong>：乃木坂46のおにぎり ぼんご 大塚本店（巣鴨新田駅 徒歩3分）、ねぎし 池袋サンシャイン前店、うな達（向原駅 徒歩6分）。</li>
   <li><strong>中目黒・恵比寿</strong>：Snow Manの土鍋ご飯いくしか（中目黒駅 徒歩5分）・やくぜんや（恵比寿駅 徒歩2分）、よにのちゃんねるのなかよし（恵比寿駅 徒歩5分）。</li>
-  <li><strong>鎌倉</strong>：=LOVEの八倉（鎌倉駅 徒歩6分）・鎌倉壱番屋・ともや、乃木坂46の段葛 こ寿々（鎌倉駅 徒歩2分）、SixTONESの鎌倉 無（鎌倉駅 徒歩5分）。</li>
+  <li><strong>鎌倉</strong>：=LOVEの八倉（鎌倉駅 徒歩6分）・鎌倉壱番屋・ともや、乃木坂46の段葛 こ寿々（鎌倉駅 徒歩2分）。</li>
 </ul>
 
 <div class="pf-cta">
   <p>推しが行った和食のお店を、地図でぜんぶ見る</p>
-  <span>この記事の86軒のほかにも、グループや番組に登場した和食のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の85軒のほかにも、グループや番組に登場した和食のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?genre=washoku&amp;view=map">地図で和食のお店を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメ</a>・<a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねる</a>・<a href="{{ site.data.group_ix.sixtones.u }}">SixTONES</a>・<a href="{{ site.data.group_ix.snowman.u }}">Snow Man</a>のページからも探せます。</p>

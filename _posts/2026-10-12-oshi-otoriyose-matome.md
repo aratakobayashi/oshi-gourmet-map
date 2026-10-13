@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販32軒"
+title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販31軒"
 date: 2026-10-12
 last_modified_at: 2026-10-12
-description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど15組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる32軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
+description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど14組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる31軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
 genre: まとめ
 article_type: matome
 prefecture:
@@ -13,8 +13,8 @@ checked_label: 通販の情報
 tags: [お取り寄せ, 通販, 公式オンラインショップ, 聖地巡礼, 推し活, よにのちゃんねる, 乃木坂46, Snow Man, "=LOVE", "King & Prince", 嵐, SixTONES]
 thumbnail: /assets/img/posts/oshi-otoriyose-matome/thumb.webp
 summary:
-  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある32軒（15組）"
-  - "スイーツ・和菓子・コーヒー12軒、ラーメン・そば・うどん7軒、餃子・中華4軒、肉・うなぎ・おかず・調味料9軒"
+  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある31軒（14組）"
+  - "スイーツ・和菓子・コーヒー11軒、ラーメン・そば・うどん7軒、餃子・中華4軒、肉・うなぎ・おかず・調味料9軒"
   - "お店ごとに「推しが行った回」と「通販で買えるもの」を、2026年10月12日に各店の公式サイトで確かめて載せています"
   - "チェーン店や支店は、そのお店ではなくブランドの公式通販です。価格や送料は公式通販で確かめてください"
 shop_ids:
@@ -70,8 +70,6 @@ sources:
     url: "https://www.obusedo.com/"
   - label: "芋屋金次郎 高知本店（公式サイト）"
     url: "https://www.imokin.co.jp/"
-  - label: "Mr. CHEESECAKE GINZA SIX店（公式サイト）"
-    url: "https://mr-cheesecake.com/"
   - label: "丸山珈琲 ハルニレテラス店（公式サイト）"
     url: "https://www.maruyamacoffee.com/"
   - label: "一蘭 中野店（公式サイト）"
@@ -116,7 +114,7 @@ sources:
     url: "https://www.houraiken.com/houraiken_chimaki.html"
 faq:
   - q: "推しが行ったお店の商品を通販で買えますか？"
-    a: "この記事の32軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
+    a: "この記事の31軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
   - q: "支店やチェーン店に行った回でも、同じ商品が買えますか？"
     a: "通販はお店（支店）ごとではなく、ブランドの公式通販です。たとえば一蘭 中野店・天下一品 中野店・ラーメン山岡家 青梅店などは、それぞれのブランドの公式通販を案内しています。お店で食べたメニューと通販の商品は同じとは限りません。"
   - q: "価格や送料はいくらですか？"
@@ -131,7 +129,7 @@ faq:
 
 <p>推しが動画や番組で訪れた、あのお店。遠くてなかなか行けないお店でも、公式のオンラインショップがあれば、家でお取り寄せできます。</p>
 
-<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店32軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
+<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店31軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
 
 <h2>ひと目でわかる 推しのお店のお取り寄せ</h2>
 <div class="pf-card">
@@ -139,12 +137,12 @@ faq:
     <small>推しが行ったお店の公式通販</small>
     <p class="pf-card__name">おうちで聖地グルメ</p>
     <p class="pf-card__yomi">2026年10月12日に公式サイトで確認</p>
-    <span class="pf-card__color"><i></i>15組の推し</span>
+    <span class="pf-card__color"><i></i>14組の推し</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>32軒</dd></div>
-    <div><dt>推しのグループ・番組</dt><dd>15組</dd></div>
-    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子（12軒）</dd></div>
+    <div><dt>お店の数</dt><dd>31軒</dd></div>
+    <div><dt>推しのグループ・番組</dt><dd>14組</dd></div>
+    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子（11軒）</dd></div>
     <div><dt>チェーン店</dt><dd>5軒（ブランドの通販）</dd></div>
     <div><dt>お店の場所</dt><dd>13都道府県</dd></div>
     <div><dt>楽天市場にも店</dt><dd>2軒</dd></div>
@@ -152,14 +150,14 @@ faq:
 </div>
 
 <div class="pf-nums">
-  <div><b>32<small>軒</small></b><span>公式の通販があるお店</span></div>
-  <div><b>15<small>組</small></b><span>よにのちゃんねる・乃木坂46・Snow Manなど</span></div>
-  <div><b>12<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
-  <div><b>13<small>都道府県</small></b><span>東京都15軒・神奈川県3軒・京都府2軒など</span></div>
+  <div><b>31<small>軒</small></b><span>公式の通販があるお店</span></div>
+  <div><b>14<small>組</small></b><span>よにのちゃんねる・乃木坂46・Snow Manなど</span></div>
+  <div><b>11<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
+  <div><b>13<small>都道府県</small></b><span>東京都14軒・神奈川県3軒・京都府2軒など</span></div>
 </div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：スイーツ9軒、和食7軒、ラーメン5軒、中華5軒、その他3軒、食事2軒、カフェ1軒。場所は東京都15軒（台東区・中央区3軒ずつ、中野区2軒ほか）、東京の外は長野県・宇都宮市・横浜市が2軒ずつ、ほかに仙台市・福岡市・小樽市・京都市・福知山市・成田市・名古屋市・廿日市市・長崎市・高知市・川崎市" width="420" height="846" loading="lazy" decoding="async"><figcaption>この記事の32軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：スイーツ8軒、和食7軒、ラーメン5軒、中華5軒、その他3軒、食事2軒、カフェ1軒。場所は東京都14軒（台東区3軒、中央区・中野区2軒ずつほか）、東京の外は長野県・宇都宮市・横浜市が2軒ずつ、ほかに仙台市・福岡市・小樽市・京都市・福知山市・成田市・名古屋市・廿日市市・長崎市・高知市・川崎市" width="420" height="846" loading="lazy" decoding="async"><figcaption>この記事の31軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
 
 <h2>注文する前に</h2>
 <ul>
@@ -170,7 +168,7 @@ faq:
 </ul>
 <p class="note">楽天市場へのリンクは広告（アフィリエイト）リンクです。公式オンラインショップへのリンクは広告ではありません。</p>
 
-<h2>スイーツ・和菓子・コーヒー（12軒）</h2>
+<h2>スイーツ・和菓子・コーヒー（11軒）</h2>
 <p>洋菓子・和菓子・ご当地のお菓子と、コーヒー豆。詰め合わせやギフトを用意しているお店もあります。</p>
 <ul class="pf-buy">
   <li style="--g:#f43f5e">
@@ -272,16 +270,6 @@ faq:
     </dl>
     <p class="pf-buy__note">高知本店は芋屋金次郎の店舗のひとつ。通販は芋屋金次郎の公式通販です。</p>
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.imokin.jp/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
-  </li>
-  <li style="--g:#f97316">
-    <p class="pf-buy__who">なにわ男子</p>
-    <b>Mr. CHEESECAKE GINZA SIX店</b>
-    <dl>
-      <div><dt>推しが行った回</dt><dd>大橋和也が、めざましテレビのコーナー「なにわ男子のどっち派」（2025年4月11日）で訪問</dd></div>
-      <div><dt>通販で買えるもの</dt><dd>チーズケーキ</dd></div>
-    </dl>
-    <p class="pf-buy__note">GINZA SIX店はMr. CHEESECAKEの店舗のひとつ。公式サイトの「ONLINE STORE」で買えます。</p>
-    <p class="pf-buy__btns"><a class="btn btn--sm" href="https://mr-cheesecake.com/collections" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
   <li style="--g:#e8537a">
     <p class="pf-buy__who">よにのちゃんねる</p>
@@ -518,7 +506,7 @@ faq:
 <p>お取り寄せで気になったら、次はお店へ。行く前に、各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>浅草</strong>：浅草今半 国際通り本店・浅草むぎとろ本店・舟和 仲見世1号店。よにのちゃんねる・Snow Man・=LOVEのお店が同じ街にあります。</li>
-  <li><strong>銀座・麻布十番</strong>：フレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Mr. CHEESECAKE GINZA SIX店と、麻布十番の総本家更科堀井 本店。</li>
+  <li><strong>銀座・麻布十番</strong>：フレデリック カッセル 銀座三越店（銀座駅 徒歩1分）と、麻布十番の総本家更科堀井 本店。</li>
   <li><strong>横浜中華街</strong>：萬珍樓 本店（孤独のグルメ）と重慶飯店 新館（WEST.）。</li>
   <li><strong>宇都宮</strong>：来らっせ 本店（SixTONES）と宇都宮みんみん（乃木坂46）。</li>
   <li><strong>小布施・軽井沢</strong>：小布施堂本店（嵐）と丸山珈琲 ハルニレテラス店（よにのちゃんねる）。どちらも長野県です。</li>
