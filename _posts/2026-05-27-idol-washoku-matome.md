@@ -73,7 +73,6 @@ shop_ids:
   - sixtones-b5dfc98a-202310
   - sixtones-b647a3f1-202204
   - sixtones-enoshima-kaisaku
-  - sixtones-kamakura-mushanan
   - snowman-donabe-gohan-ikushika
   - snowman-yakuzenya-ebisu
   - snowman-unagi-kawamatu-higashikurume
@@ -225,7 +224,7 @@ faq:
   <li><span class="k">2025<br>4月</span><div><b>江の島 貝作</b><span>SixTONES【お告げに従い…開運の旅2025~最終話】江の島の海鮮を食べ尽くす!?</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>鎌倉 無（むしゃ）</b><span>SixTONES【サマソニ直後に夏ドライブ】色々語りたいタイミングなんだよね!?</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-iseyashokudo-yodobashi,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-enoshima-kaisaku,sixtones-kamakura-mushanan" %}
+{% include inline-shop-grid.html ids="snowman-kokonotsu-kitasenju,snowman-kitchen-nanagoku-waseda,snowman-onigiri-asakusa-yadoroku,snowman-iseyashokudo-yodobashi,snowman-wagaya-shokudo-kasai,snowman-donabe-gohan-ikushika,snowman-yakuzenya-ebisu,snowman-ab957c1f-20250414,sixtones-f52d4936-202108,sixtones-b5dfc98a-202310,sixtones-enoshima-kaisaku" %}
 
 <h2>=LOVE・≠ME・≒JOY：旅先の和食</h2>
 <ul class="pf-works">

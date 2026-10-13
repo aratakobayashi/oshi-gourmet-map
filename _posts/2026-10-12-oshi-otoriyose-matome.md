@@ -28,7 +28,6 @@ shop_ids:
   - arashi-2f44be15-20200523
   - arashi-2483adfd-20190921
   - kinkikids-8a7a5dc6-20220423
-  - naniwa-mr_cheesecake_ginza-20250411
   - yonino-maruyama-coffee-karuizawa
   - yonino-ichiran-nakano
   - equal_love-26520a35-202508
@@ -295,7 +294,7 @@ faq:
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.maruyamacoffee.com/ec/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-9c79a146-,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2f44be15-20200523,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,naniwa-mr_cheesecake_ginza-20250411,yonino-maruyama-coffee-karuizawa" %}
+{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-9c79a146-,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2f44be15-20200523,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,yonino-maruyama-coffee-karuizawa" %}
 
 <h2>ラーメン・そば・うどん（7軒）</h2>
 <p>お店の味を家で作れる袋麺・生麺・冷凍麺など。チェーン店はブランドの公式通販です。</p>
