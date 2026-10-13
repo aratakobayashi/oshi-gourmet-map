@@ -14,7 +14,7 @@ related_genres:
   - equal-love-washoku
   - equal-love-izakaya
 related_groups:
-  - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
+  - burari-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

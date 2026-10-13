@@ -14,7 +14,7 @@ related_genres:
   - kingprince-cafe
   - kingprince-washoku
 related_groups:
+  - sakaba-horoki-others
   - nogizaka46-others
   - sixtones-others
-  - arashi-others
 ---

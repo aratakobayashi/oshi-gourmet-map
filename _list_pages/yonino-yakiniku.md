@@ -14,7 +14,7 @@ related_genres:
   - yonino-cafe
   - yonino-shokuji
 related_groups:
-  - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
-  - sixtones-yakiniku
+  - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
+  - burari-yakiniku
 ---

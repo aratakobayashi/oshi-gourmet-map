@@ -9,6 +9,6 @@ shop_count: 9
 thumbnail_url: "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - nogizaka46-others
-  - sixtones-others
 ---

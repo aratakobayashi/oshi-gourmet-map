@@ -12,7 +12,7 @@ related_genres:
   - arashi-ramen
   - arashi-sweets
 related_groups:
-  - kodoku-no-gurume-chuka
-  - west-chuka
-  - timelesz-chuka
+  - machichuka-chuka
+  - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

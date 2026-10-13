@@ -14,7 +14,7 @@ related_genres:
   - sixtones-washoku
   - sixtones-cafe
 related_groups:
-  - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
-  - kamenashi-yakiniku
+  - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
+  - burari-yakiniku
 ---

@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "割烹 うめ笹"
+description: "食彩の王国 第1136回『北見の玉ねぎ』（2026-08-22 テレビ朝日）で紹介された和食「割烹 うめ笹」（北海道北見市）。推し活グルメ巡礼スポット。"
+shop_id: "syokusai-8eee3bc8-20260822"
+name: "割烹 うめ笹"
+genre: "washoku"
+prefecture: "北海道"
+city: "北見市"
+address: "北海道北見市北7条西4-13-1"
+visited_date: "2026-08-22"
+source_video_title: "食彩の王国 第1136回『北見の玉ねぎ』（2026-08-22 テレビ朝日）"
+source_url: "https://www.tv-asahi.co.jp/syokusai/shop/5463/"
+group: "syokusai"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/45EZ4BQMBgeVadnlKA4Abx3IuOm.jpg"
+source_type: "tv"
+lat: 43.804688
+lng: 143.889191
+groups:
+  - "syokusai"
+---

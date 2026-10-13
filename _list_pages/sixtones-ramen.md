@@ -8,13 +8,13 @@ slug_id: sixtones-ramen
 shop_count: 6
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
-youtube_id: Y0HPj8hZk-Q
+youtube_id: YaXa9d2okDE
 related_genres:
   - sixtones-others
   - sixtones-washoku
   - sixtones-cafe
 related_groups:
+  - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
 ---

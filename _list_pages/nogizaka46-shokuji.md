@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-sweets
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

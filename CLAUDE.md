@@ -206,6 +206,9 @@ heysayjump:        '#ef4444'  // レッド
 | `geocode_gsi.py` | 住所から座標を取り直す（国土地理院アドレス検索API・キー不要）。番地まで一致したとき等だけ更新。既定は試算のみ、--write で書き込み |
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
 | `check_articles.py` | 特集記事（_posts/）の shop_ids と本文の inline-shop-card/grid のIDを shops.json と照合。--fix で、IDの付け替え（REMAP）・ないIDの削除・shop_ids を本文の店と一致させる。build_pages.sh で確認だけ実行 |
+| `merge_candidates.py` | 調べた店の候補JSON（{"new":[...],"attach":[...]}）を確かめて shops.json に足す。採用は confidence high/mid・店に行った回・住所が国土地理院で番地まで一致・youtube_id 11文字だけ（地方の大字までの high は location_unverified）。attach は既存店に動画を付ける。group に - で候補ごとの group |
+| `add_group.py` | 新しいグループを足す（_data/groups.json と _group_pages/<id>.md）。`python scripts/add_group.py <id> <表示名> <色>` |
+| `refresh_group_titles.py` | グループページのタイトル・説明・店数を店のデータから書き直す（build_pages.sh で実行） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 
 **食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
@@ -291,6 +294,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 次にデータを集める順: SixTONESの抜けている回 → WEST.・乃木坂配信中 → 亀梨・しおりの続き → ジュニアCHANNEL。Search Console では「グループ名＋聖地巡礼／ロケ地＋東京／ご飯」で探されている
 - timelesz は Sexy Zone 時代（2024年3月以前）の回は載せない。番組のスタジオで料理が出ただけの店は残し、記事では訪問と分けて書く
 - 出典が確かめられない店・どの店舗か分からない店（差し入れ・インスタの写真だけ等）は載せない
+- グループを広げる範囲（2026-10-12 決定）: アイドルを優先しつつ、芸人・タレントが出るグルメ番組（酒場放浪記・町中華で飲ろうぜ・オモウマい店・せっかくグルメ など。番組ごとに1グループ）も足す。食べ歩き系YouTuber（SUSURU TV. など）は後回し。目標はグループ数・店数とも今の2倍以上
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

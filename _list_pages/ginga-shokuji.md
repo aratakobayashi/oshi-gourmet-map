@@ -10,7 +10,7 @@ group_color: "#8b5cf6"
 group_bio: "中丸雄一（KAT-TUN）の個人YouTubeチャンネル「中丸銀河ちゃんねる」。ゲストを招いた対談企画が人気。"
 youtube_id: TNKBGNdwqKw
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

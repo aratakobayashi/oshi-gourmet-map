@@ -14,7 +14,7 @@ related_genres:
   - equal-love-izakaya
   - equal-love-ramen
 related_groups:
-  - kodoku-no-gurume-washoku
-  - snowman-washoku
-  - yonino-washoku
+  - jinsei-saiko-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

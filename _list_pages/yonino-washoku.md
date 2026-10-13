@@ -14,7 +14,7 @@ related_genres:
   - yonino-shokuji
   - yonino-others
 related_groups:
-  - kodoku-no-gurume-washoku
-  - snowman-washoku
-  - sixtones-washoku
+  - jinsei-saiko-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

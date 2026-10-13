@@ -14,7 +14,7 @@ related_genres:
   - naniwa-cafe
   - naniwa-sweets
 related_groups:
-  - kodoku-no-gurume-chuka
-  - west-chuka
-  - timelesz-chuka
+  - machichuka-chuka
+  - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

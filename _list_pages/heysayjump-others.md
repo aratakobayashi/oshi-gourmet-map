@@ -15,6 +15,6 @@ related_genres:
   - heysayjump-washoku
 related_groups:
   - kingprince-others
+  - sakaba-horoki-others
   - nogizaka46-others
-  - sixtones-others
 ---

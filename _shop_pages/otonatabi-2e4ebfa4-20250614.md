@@ -1,0 +1,23 @@
+---
+layout: shop
+title: "家庭料理とお酒 えふ"
+description: "おとな旅あるき旅 第786回 大阪・茨木（2025-06-14 テレビ大阪）で紹介された居酒屋「家庭料理とお酒 えふ」（大阪府茨木市）。推し活グルメ巡礼スポット。"
+shop_id: "otonatabi-2e4ebfa4-20250614"
+name: "家庭料理とお酒 えふ"
+genre: "izakaya"
+prefecture: "大阪府"
+city: "茨木市"
+address: "大阪府茨木市松ケ本町3-22"
+visited_date: "2025-06-14"
+source_video_title: "おとな旅あるき旅 第786回 大阪・茨木（2025-06-14 テレビ大阪）"
+source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2169801_6111.html"
+group: "otonatabi"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+source_type: "tv"
+lat: 34.814201
+lng: 135.558487
+members:
+  - "三田村邦彦"
+groups:
+  - "otonatabi"
+---

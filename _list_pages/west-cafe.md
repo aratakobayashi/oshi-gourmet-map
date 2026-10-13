@@ -12,7 +12,7 @@ related_genres:
   - west-izakaya
   - west-chuka
 related_groups:
-  - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
+  - burari-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

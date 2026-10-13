@@ -1,0 +1,21 @@
+---
+layout: shop
+title: "白いタイヤキ 布施店"
+description: "よんチャンTV 昼飲みサンにはワケがある（2025-11-24公開 MBS）で紹介されたスイーツ「白いタイヤキ 布施店」（大阪府東大阪市）。推し活グルメ巡礼スポット。"
+shop_id: "yonchan_tv-1acb1c1f-20251124"
+name: "白いタイヤキ 布施店"
+genre: "sweets"
+prefecture: "大阪府"
+city: "東大阪市"
+address: "大阪府東大阪市長堂1丁目2-1"
+visited_date: "2025-11-24"
+source_video_title: "よんチャンTV 昼飲みサンにはワケがある（2025-11-24公開 MBS）"
+source_url: "https://www.mbs.jp/4chantv/corner/hirunomi/article/2025/11/108994.shtml"
+group: "yonchan_tv"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/pRBhOAS6HV2HAbZl4HRqYdmnb0Y.jpg"
+source_type: "tv"
+lat: 34.664379
+lng: 135.561981
+groups:
+  - "yonchan_tv"
+---

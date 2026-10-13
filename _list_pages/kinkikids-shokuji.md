@@ -12,7 +12,7 @@ related_genres:
   - kinkikids-washoku
   - kinkikids-yakiniku
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

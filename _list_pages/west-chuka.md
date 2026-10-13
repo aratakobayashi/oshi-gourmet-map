@@ -12,7 +12,7 @@ related_genres:
   - west-cafe
   - west-izakaya
 related_groups:
-  - kodoku-no-gurume-chuka
-  - timelesz-chuka
-  - sixtones-chuka
+  - machichuka-chuka
+  - seyanen-chuka
+  - jinsei-saiko-chuka
 ---

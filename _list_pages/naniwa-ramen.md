@@ -14,7 +14,7 @@ related_genres:
   - naniwa-cafe
   - naniwa-sweets
 related_groups:
+  - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - west-ramen
-  - nogizaka46-ramen
 ---

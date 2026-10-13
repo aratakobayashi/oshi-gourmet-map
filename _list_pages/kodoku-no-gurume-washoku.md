@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-chuka
   - kodoku-no-gurume-yakiniku
 related_groups:
-  - snowman-washoku
-  - yonino-washoku
-  - sixtones-washoku
+  - jinsei-saiko-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

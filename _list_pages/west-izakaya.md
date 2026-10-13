@@ -12,7 +12,7 @@ related_genres:
   - west-cafe
   - west-chuka
 related_groups:
-  - shiori-izakaya
-  - equal-love-izakaya
-  - kodoku-no-gurume-izakaya
+  - sakaba-horoki-izakaya
+  - yuyake-sakaba-izakaya
+  - yonchan-tv-izakaya
 ---

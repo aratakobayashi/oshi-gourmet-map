@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji
 related_groups:
+  - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - west-ramen
-  - naniwa-ramen
 ---

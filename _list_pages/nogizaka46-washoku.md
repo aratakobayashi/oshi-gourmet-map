@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-cafe
   - nogizaka46-shokuji
 related_groups:
-  - kodoku-no-gurume-washoku
-  - snowman-washoku
-  - yonino-washoku
+  - jinsei-saiko-washoku
+  - seyanen-washoku
+  - otonatabi-washoku
 ---

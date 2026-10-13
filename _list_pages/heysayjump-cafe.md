@@ -14,7 +14,7 @@ related_genres:
   - heysayjump-washoku
   - heysayjump-sweets
 related_groups:
-  - naniwa-cafe
-  - nogizaka46-cafe
-  - kingprince-cafe
+  - burari-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg"
 related_genres:
   - kpop-bts-shokuji
 related_groups:
-  - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
-  - sixtones-yakiniku
+  - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
+  - burari-yakiniku
 ---

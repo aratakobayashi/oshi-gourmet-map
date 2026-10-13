@@ -1,0 +1,23 @@
+---
+layout: shop
+title: "とん兵衛"
+description: "吉田類の酒場放浪記 #209 大森「とん兵衛」（2007-08-09 BS-TBS）で紹介された居酒屋「とん兵衛」（東京都大田区）。推し活グルメ巡礼スポット。"
+shop_id: "sakaba_horoki-cd618ea6-20070809"
+name: "とん兵衛"
+genre: "izakaya"
+prefecture: "東京都"
+city: "大田区"
+address: "東京都大田区大森北1-9-4"
+visited_date: "2007-08-09"
+source_video_title: "吉田類の酒場放浪記 #209 大森「とん兵衛」（2007-08-09 BS-TBS）"
+source_url: "https://bs.tbs.co.jp/sakaba/shop/209.html"
+group: "sakaba_horoki"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+source_type: "tv"
+lat: 35.586628
+lng: 139.727966
+members:
+  - "吉田類"
+groups:
+  - "sakaba_horoki"
+---

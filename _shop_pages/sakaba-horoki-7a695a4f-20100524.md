@@ -1,0 +1,23 @@
+---
+layout: shop
+title: "よっちゃん"
+description: "吉田類の酒場放浪記 #363 西船橋「よっちゃん」（2010-05-24 BS-TBS）で紹介された居酒屋「よっちゃん」（千葉県船橋市）。推し活グルメ巡礼スポット。"
+shop_id: "sakaba_horoki-7a695a4f-20100524"
+name: "よっちゃん"
+genre: "izakaya"
+prefecture: "千葉県"
+city: "船橋市"
+address: "千葉県船橋市印内町599-3"
+visited_date: "2010-05-24"
+source_video_title: "吉田類の酒場放浪記 #363 西船橋「よっちゃん」（2010-05-24 BS-TBS）"
+source_url: "https://bs.tbs.co.jp/sakaba/shop/363.html"
+group: "sakaba_horoki"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+source_type: "tv"
+lat: 35.706688
+lng: 139.958176
+members:
+  - "吉田類"
+groups:
+  - "sakaba_horoki"
+---

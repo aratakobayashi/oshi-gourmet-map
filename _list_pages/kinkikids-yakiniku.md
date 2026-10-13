@@ -12,7 +12,7 @@ related_genres:
   - kinkikids-sweets
   - kinkikids-washoku
 related_groups:
-  - kodoku-no-gurume-yakiniku
-  - naniwa-yakiniku
-  - sixtones-yakiniku
+  - jinsei-saiko-yakiniku
+  - otonatabi-yakiniku
+  - burari-yakiniku
 ---

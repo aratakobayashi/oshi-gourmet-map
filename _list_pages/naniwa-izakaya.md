@@ -14,7 +14,7 @@ related_genres:
   - naniwa-cafe
   - naniwa-sweets
 related_groups:
-  - west-izakaya
-  - shiori-izakaya
-  - equal-love-izakaya
+  - sakaba-horoki-izakaya
+  - yuyake-sakaba-izakaya
+  - yonchan-tv-izakaya
 ---

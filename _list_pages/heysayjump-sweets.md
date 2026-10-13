@@ -14,7 +14,7 @@ related_genres:
   - heysayjump-cafe
   - heysayjump-washoku
 related_groups:
-  - arashi-sweets
-  - naniwa-sweets
-  - nogizaka46-sweets
+  - rosenbus-sweets
+  - burari-sweets
+  - sakaba-horoki-sweets
 ---

@@ -10,7 +10,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg"
 related_genres:
   - kismai-cafe
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

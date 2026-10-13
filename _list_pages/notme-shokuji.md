@@ -12,7 +12,7 @@ youtube_id: IwPmbzmNeQg
 related_genres:
   - notme-sweets
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - kodoku-no-gurume-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

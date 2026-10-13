@@ -14,7 +14,7 @@ related_genres:
   - nogizaka46-shokuji
   - nogizaka46-sweets
 related_groups:
-  - naniwa-cafe
-  - kingprince-cafe
-  - west-cafe
+  - burari-cafe
+  - yonchan-tv-cafe
+  - rosenbus-cafe
 ---

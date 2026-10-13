@@ -12,7 +12,7 @@ related_genres:
   - west-cafe
   - west-izakaya
 related_groups:
+  - jinsei-saiko-ramen
+  - seyanen-ramen
   - arashi-ramen
-  - naniwa-ramen
-  - nogizaka46-ramen
 ---

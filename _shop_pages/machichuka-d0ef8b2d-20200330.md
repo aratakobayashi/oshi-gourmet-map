@@ -1,0 +1,24 @@
+---
+layout: shop
+title: "珍々軒"
+description: "町中華で飲ろうぜ #69 上野編（2020-03-30 BS-TBS）で紹介された中華「珍々軒」（東京都台東区）。推し活グルメ巡礼スポット。"
+shop_id: "machichuka-d0ef8b2d-20200330"
+name: "珍々軒"
+genre: "chuka"
+prefecture: "東京都"
+city: "台東区"
+address: "東京都台東区上野6-12-2"
+visited_date: "2020-03-30"
+source_video_title: "町中華で飲ろうぜ #69 上野編（2020-03-30 BS-TBS）"
+source_url: "https://bs.tbs.co.jp/machichuka/store/0069-chinchinken/"
+group: "machichuka"
+thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+source_type: "tv"
+lat: 35.710499
+lng: 139.774826
+members:
+  - "玉袋筋太郎"
+  - "高田秋"
+groups:
+  - "machichuka"
+---

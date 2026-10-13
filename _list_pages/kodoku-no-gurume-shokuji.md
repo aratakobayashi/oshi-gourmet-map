@@ -14,7 +14,7 @@ related_genres:
   - kodoku-no-gurume-chuka
   - kodoku-no-gurume-yakiniku
 related_groups:
-  - arashi-shokuji
-  - west-shokuji
-  - snowman-shokuji
+  - jinsei-saiko-shokuji
+  - syokusai-shokuji
+  - every-shokuji
 ---

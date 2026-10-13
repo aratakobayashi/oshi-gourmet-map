@@ -16,8 +16,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000208641/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/5pl42WVnSNnl3032SGp1AcuCQY6.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/60/38/P020156038/P020156038_238.jpg"
 source_type: "drama"
-lat: 35.562157
-lng: 139.591003
+lat: 35.5706417027
+lng: 139.5990317926
 members:
   - "井之頭五郎"
 groups:
