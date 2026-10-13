@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "なにわ男子が行った「Onigily Cafe」"
-description: "なにわ男子のどっち派で紹介されたカフェ「Onigily Cafe」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "naniwa-onigily_cafe-"
-name: "Onigily Cafe"
-genre: "cafe"
-prefecture: "東京都"
-city: "渋谷区"
-address: "東京都渋谷区富ヶ谷1-9-15-101"
-source_video_title: "なにわ男子のどっち派"
-source_url: "https://www.chiicrane-life.fun/mezamashi-jyo1"
-group: "naniwa"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
-lat: 35.6658083
-lng: 139.6876001
-members:
-  - "藤原丈一郎"
-groups:
-  - "naniwa"
+redirect_to: "/groups/naniwa/"
+redirect_label: "なにわ男子のお店のページ"
+sitemap: false
 ---

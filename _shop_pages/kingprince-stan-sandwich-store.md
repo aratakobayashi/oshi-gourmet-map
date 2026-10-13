@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「STAN sandwich store（スタンサンドイッチストア）」"
-description: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？で紹介されたその他「STAN sandwich store（スタンサンドイッチストア）」（東京都目黒区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-stan_sandwich_store-"
-name: "STAN sandwich store（スタンサンドイッチストア）"
-genre: "others"
-prefecture: "東京都"
-city: "目黒区"
-address: "東京都目黒区駒場1-11-16 ハウスカシノ"
-nearest_station: "駒場東大前駅 徒歩5分"
-source_video_title: "平野紫耀のレモネードのお店・カフェはどこ？予約方法は？"
-source_url: "https://kosodate-and.net/instagram-sho-lemonade"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1318/A131801/13220331/"
-lat: 35.65745586870595
-lng: 139.68739697419966
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

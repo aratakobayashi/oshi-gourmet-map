@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「吉祥ラーメン 江の島店」"
-description: "あの頃からわたしたちは【髙橋海人ロケ地】ラーメン屋さん＆江の島のしらすパン・海鮮の網焼きはどこ？で紹介されたラーメン「吉祥ラーメン 江の島店」（神奈川県藤沢市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-f7b5aeec-"
-name: "吉祥ラーメン 江の島店"
-genre: "ramen"
-prefecture: "神奈川県"
-city: "藤沢市"
-address: "神奈川県藤沢市江の島2-1-6 江の島アイランドスパ 別館 1F"
-source_video_title: "あの頃からわたしたちは【髙橋海人ロケ地】ラーメン屋さん＆江の島のしらすパン・海鮮の網焼きはどこ？"
-source_url: "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/kanagawa/A1408/A140803/14031879/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
-lat: 35.397820938745845
-lng: 139.29485961185227
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

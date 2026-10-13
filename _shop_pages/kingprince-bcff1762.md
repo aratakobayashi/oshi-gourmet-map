@@ -1,24 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「北鎌倉たからの庭」"
-description: "【King & Princeのなつやすみ】ハニワ作り 陶芸体験はどこ？鎌倉？永瀬廉＆髙橋海人ロケ地で紹介されたその他「北鎌倉たからの庭」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-bcff1762-"
-name: "北鎌倉たからの庭"
-genre: "others"
-prefecture: "神奈川県"
-city: "鎌倉市"
-address: "神奈川県鎌倉市山ノ内1418"
-source_video_title: "【King & Princeのなつやすみ】ハニワ作り 陶芸体験はどこ？鎌倉？永瀬廉＆髙橋海人ロケ地"
-source_url: "https://kosodate-and.net/renkai-haniwa-togei"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/kanagawa/A1404/A140401/14084501/"
-lat: 35.33178734698753
-lng: 139.54609758269262
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

@@ -1,22 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「立ち呑みぽっぽ亭」"
-description: "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）で紹介された居酒屋「立ち呑みぽっぽ亭」（大阪府大阪市福島区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "cda4be8d"
-name: "立ち呑みぽっぽ亭"
-genre: "izakaya"
-prefecture: "大阪府"
-city: "大阪市福島区"
-nearest_station: "新福島駅 徒歩2分"
-source_video_title: "笑ってコラえて！大阪福島ハシゴ旅（2024年8月28日放送）"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27014207/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
-source_type: "tv"
-lat: 34.69475148797956
-lng: 135.48655562742016
-groups:
-  - "agroup"
-  - "kingprince"
-  - "naniwa"
+redirect_to: "/shops/kingprince-8d5d65c4/"
+redirect_label: "立呑み ぽっぽ亭のページ"
+sitemap: false
 ---

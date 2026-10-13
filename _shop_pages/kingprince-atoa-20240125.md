@@ -1,27 +1,7 @@
 ---
-layout: shop
-title: "King & Princeが行った「アトア（átoa）」"
-description: "映画よめぼく【永瀬廉ロケ地】水族館・高校・カフェ・公園・花屋は神戸？撮影はいつ？遭遇情報は？で紹介されたその他「アトア（átoa）」（兵庫県神戸市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kingprince-atoa-20240125"
-name: "アトア（átoa）"
-genre: "others"
-prefecture: "兵庫県"
-city: "神戸市"
-address: "兵庫県神戸市中央区新港町7番2号 神戸ポートミュージアム２F～4F"
-nearest_station: "旧居留地・大丸前駅 徒歩12分"
-visited_date: "2024-01-25"
-source_video_title: "映画よめぼく【永瀬廉ロケ地】水族館・高校・カフェ・公園・花屋は神戸？撮影はいつ？遭遇情報は？"
-source_url: "https://kosodate-and.net/ren-kobe-aquarium"
-group: "kingprince"
-tabelog_url: "https://tabelog.com/hyogo/A2801/A280101/28062867/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/sVVud8qevESafda49Id2AdClSj7.jpg"
-lat: 34.683244
-lng: 135.1936099
-members:
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
-groups:
-  - "kingprince"
+redirect_to: "/groups/kingprince/"
+redirect_label: "King & Princeのお店のページ"
+sitemap: false
 ---

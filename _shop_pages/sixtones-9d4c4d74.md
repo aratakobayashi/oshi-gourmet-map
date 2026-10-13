@@ -1,28 +1,7 @@
 ---
-layout: shop
-title: "SixTONESが行った「どんぐり大通店」"
-description: "ジェシーが札幌のパン屋さんで撮影はいつ？どこ？何の撮影？で紹介されたその他「どんぐり大通店」（北海道札幌市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "sixtones-9d4c4d74-"
-name: "どんぐり大通店"
-genre: "others"
-prefecture: "北海道"
-city: "札幌市"
-address: "北海道札幌市中央区大通西1-13 ル･トロワ 1F 【アクセス】 市営地下鉄東西線・南北線・東豊線大通駅より徒歩約3分"
-nearest_station: "西15丁目駅 徒歩3分"
-visited_date: "2025-10-22"
-source_video_title: "ジェシーが札幌のパン屋さんで撮影はいつ？どこ？何の撮影？"
-source_url: "https://kosodate-and.net/jesse-sapporo-panya"
-group: "sixtones"
-tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1050116/"
-lat: 43.0579464
-lng: 141.3343126
-members:
-  - "ジェシー"
-  - "京本大我"
-  - "松村北斗"
-  - "髙地優吾"
-  - "田中樹"
-  - "森本慎太郎"
-groups:
-  - "sixtones"
+redirect_to: "/groups/sixtones/"
+redirect_label: "SixTONESのお店のページ"
+sitemap: false
 ---
