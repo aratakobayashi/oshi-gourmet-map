@@ -140,8 +140,17 @@ faq:
   - q: "SixTONESのお店をまとめて地図で見られますか？"
     a: "「お店を探す」でSixTONESを選ぶと、この記事の100軒を含めSixTONESのお店を地図で見られます。"
 pr: true
+techo: true
+cover_ids: "sixtones-428441dc-20250124,sixtones-dintaifung-soramachi,sixtones-kamonka-kinshicho"
+cover_title: "SixTONES 聖地巡礼帳"
+cover_sub: "ストチューブ・冠番組・ドラマの100軒"
+courses:
+  - title: "押上から両国へ：忘年会と大食いの東側"
+    stops: [sixtones-dintaifung-soramachi, sixtones-kamonka-kinshicho, sixtones-honjo-kaeru-honpo, sixtones-fe00963e-20201127]
+    labels: ["東京ソラマチ（鼎泰豊・だるま）", "錦糸町 過門香", "両国 本所かえる本舗", "屋形船 晴海屋（横網）"]
+    legs: ["押上→錦糸町は半蔵門線で1駅", "錦糸町→両国はJR総武線で1駅", ""]
 ---
-<div class="pf" style="--pc:#7c3aed">
+<div class="pf pf--techo" style="--pc:#7c3aed">
 
 <p><strong>ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹</strong>の6人のSixTONES。公式YouTubeチャンネル（ストチューブ）では、小籠包やわんこそばに挑む大食い企画、6人だけの忘年会やツアーの打ち上げ、行き先を決めない「アポなし旅」、東京の街での朝メシまで、6人で食べる回がたくさんあります。</p>
 
@@ -153,30 +162,17 @@ pr: true
 </div>
 {% include matome-members.html group="sixtones" %}
 
-<h2>ひと目でわかる SixTONESのグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>SixTONES の聖地巡礼</small>
-    <p class="pf-card__name">ストチューブと番組・ドラマのお店</p>
-    <p class="pf-card__yomi">2019年〜2026年の回から</p>
-    <span class="pf-card__color"><i></i>SixTONES 6人</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>100軒</dd></div>
-    <div><dt>公式YouTube</dt><dd>ストチューブ 53軒（ほかのチャンネル3軒）</dd></div>
-    <div><dt>冠番組</dt><dd>6SixTONES・ストP 8軒</dd></div>
-    <div><dt>出演番組</dt><dd>10軒</dd></div>
-    <div><dt>ドラマのロケ地</dt><dd>17軒（3作品）</dd></div>
-    <div><dt>多いエリア</dt><dd>東京（63軒）</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>100軒のなかから、東京で行きやすく、6人そろって食べた回のお店を3つ選びました。</p>
+<div class="picks">
+{% include pick.html id="sixtones-428441dc-20250124" no="其の一" why="「６人念願の朝ラー」（2025年1月）の回。6人で並んで入り、ラーメンとゆで卵を頼んでいます。お店は神宮前（原宿）です。" %}
+{% include pick.html id="sixtones-dintaifung-soramachi" no="其の二" why="「ガチリアルな忘年会」（2024年1月）で、念願の小籠包を囲んだお店。同じ東京ソラマチには、次の年の忘年会のもんじゃ だるまも入っています。" %}
+{% include pick.html id="sixtones-0b5ae958-20260925" no="其の三" why="「街洋食の名店で平和な朝メシ」（2026年9月）の回。オリエンタルライス＆黒カレー、オムカレー、ポークたれ焼肉定食など、6人が頼んだものが動画で分かります。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>100<small>軒</small></b><span>この記事のお店（行ったお店・ドラマのロケ地・スタジオに料理が出たお店）</span></div>
-  <div><b>63<small>軒</small></b><span>東京都内のお店（港区12軒・新宿区8軒・渋谷区8軒など）</span></div>
-  <div><b>14<small>都道府県</small></b><span>東京・神奈川・静岡・埼玉など（ほかにシンガポール）</span></div>
-  <div><b>{{ site.data.group_ix.sixtones.n }}<small>軒</small></b><span>このサイトに登録されている、SixTONESのお店ぜんぶ</span></div>
-</div>
+<h2>半日で巡るなら：押上から両国へ</h2>
+<p>スカイツリーのふもとの忘年会のお店から、大食い企画の錦糸町、ストチューブの最初のころの両国まで。電車なら1駅ずつでつながっています。</p>
+<figure class="fig course"><img src="/assets/img/posts/sixtones-gourmet-matome/course-1.svg" alt="押上から両国へのコース図。1 東京ソラマチ（鼎泰豊・だるま）、2 錦糸町のGINZA 過門香（押上から半蔵門線で1駅）、3 両国の本所かえる本舗（錦糸町からJR総武線で1駅）、4 横網の屋形船 晴海屋" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>ストチューブの53軒は、6人そろって同じテーブルを囲む回が中心です。2019〜2020年は秩父・京都・金沢・静岡などのドライブと旅の回、2022年からは忘年会・打ち上げ、大食い企画、東京での朝メシの回が増えます。一方、テレビ番組のロケは京本大我・髙地優吾など1〜2人の回が多く、ドラマのロケ地は森本慎太郎の『だが、情熱はある』と、松村北斗の2作品のものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -367,7 +363,7 @@ pr: true
   <li class="wr">{% include wr-open.html id="sixtones-37abdfe3-20230304" %}<span class="wr__k">2025.1</span><b class="wr__name">おにぎり浅草宿六</b><span class="wr__t">松村北斗が川口春奈とゲスト出演した『ニノさん』で、「川口春奈の今一番気になるモノ」として紹介されたおにぎり専門店（台東区 浅草）</span>{% include wr-close.html id="sixtones-37abdfe3-20230304" %}</li>
 </ul>
 
-<p class="note">ストチューブの動画のタイトルは公式チャンネルのものです（先頭の「SixTONES」と絵文字は省きました）。店名の上の日付は、YouTubeは動画の公開年月、テレビ番組は放送年月、ドラマは放送年です。回の特定がまだのお店は年だけ、またはシリーズ名だけを書いています。「6人」などはその回に出たメンバーで、推しグルメ巡礼MAPのデータに記録のある回だけ載せています。</p>
+<p class="note">ストチューブの動画のタイトルは公式チャンネルのものです（先頭の「SixTONES」と絵文字は省きました）。店名の上の日付は、YouTubeは動画の公開年月、テレビ番組は放送年月、ドラマは放送年です。回の特定がまだのお店は年だけ、またはシリーズ名だけを書いています。「6人」などはその回に出たメンバーです。</p>
 
 <h2>SixTONESの聖地 年表</h2>
 <p>ストチューブのお店のうち、回と公開日を確かめられたお店を、動画の公開日の古い順に並べました。</p>
@@ -388,8 +384,8 @@ pr: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/map.svg" alt="SixTONESが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>最寄り駅と住所は推しグルメ巡礼MAPのデータより。スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/map.svg" alt="SixTONESが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>押上（東京ソラマチ）</strong>：鼎泰豊 東京ソラマチ店・月島名物もんじゃ だるま ソラマチ店（どちらも押上〈スカイツリー前〉駅 徒歩2分）と、同じソラマチ4階のストロベリーマニア。2つの忘年会の会場がまとまっています。</li>
   <li><strong>両国・錦糸町</strong>：本所かえる本舗（両国駅 徒歩2分）、屋形船 晴海屋（墨田区横網）、ストPの麦酒倶楽部 ポパイ（両国2丁目）と、錦糸町駅前のGINZA 過門香。</li>

@@ -1,0 +1,14 @@
+{%- comment -%} 「はじめての3軒」の1枚（切符ふう）。引数: id / no（其の一 など） / why（選んだ理由・事実だけ） {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}
+<a class="pick" href="{{ _c.u | relative_url }}" style="--g:{{ site.data.group_ix[_c.gr].c }}">
+  <span class="pick__ph">{% if _c.v != '' %}<img src="https://i.ytimg.com/vi_webp/{{ _c.v }}/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async">{% elsif _c.t != '' %}<img src="{{ _c.t }}" alt="" width="300" height="200" loading="lazy" decoding="async">{% endif %}</span>
+  <span class="pick__body">
+    <span class="pick__no">{{ include.no }}</span>
+    <b class="pick__name">{{ _c.n }}</b>
+    <span class="pick__st">{% if _c.st != '' %}{{ _c.st }}{% else %}{{ _c.p }}{% endif %}</span>
+    <span class="pick__why">{{ include.why }}</span>
+    <span class="pick__go">お店の詳細を見る<span aria-hidden="true"> ›</span></span>
+  </span>
+</a>
+{%- endif -%}

@@ -317,6 +317,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 冒頭（ひと目でわかるの前）に「出典で選ぶ」（.cnav。章へのリンクとアイコン {% include chico.html kind="yt|tv|guest|drama|studio|other" %}）と {% include matome-members.html group="…" %}（メンバー別に /shops/ の絞り込みへ）
 - 書いた記事は `python scripts/matome_rows.py <slug> --color '<色>'` で上の形にそろう（.pf-works＋grid → .wrs、章の id とアイコン、冒頭の案内、図の章の移動、東京の聖地マップ `scripts/post_map.py`、ジャンルの図 `post_figures.py --only-genre`。何度実行しても同じ）
 - グループページの上部に、そのグループのまとめ記事（article_type: matome。URLに gourmet-matome を含むものを優先）へのリンクが出る
+- 巡礼帳の見た目（2026-10-13 SixTONES で試作）: front matter `techo: true` と `cover_ids`（写真3枚の店ID）・`cover_title`・`cover_sub` で、表紙（写真をテープで留めたコラージュ＋題の札 `_includes/techo-cover.html`）。本文は `<div class="pf pf--techo">`（見出しにマスキングテープ・付箋の編集部メモ・紙の行）。「ひと目でわかる」の箱と数字の箱は使わず、「はじめての3軒」（`{% include pick.html id=… no="其の一" why="選んだ理由（回・頼んだ物など事実だけ）" %}` を `.picks` に）と「半日で巡るなら」（front matter `courses` → `python scripts/post_course.py <slug> --color …` で手描き風のコース図 course-<n>.svg。移動は確かな事実だけ、距離は直線）。店の行の写真には訪れた年月の判子（.hanko）。掲載時点・確認元の注記は本文のあと。データの出どころの言い回し（「推しグルメ巡礼MAPのデータより」など）は本文に何度も書かない
 - 済み: SixTONES・Snow Man・King & Prince・WEST.・なにわ男子。次は残りのグループ（嵐・Aぇ!group・KinKi Kids・櫻坂46・K-POP …）を、先に店を確かめてから
 - 店の多い記事でも速さを保つため、.hscroll と .pf-works は content-visibility: auto（画面に近づいてから描く）
 
