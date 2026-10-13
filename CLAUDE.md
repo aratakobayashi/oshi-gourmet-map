@@ -207,6 +207,7 @@ heysayjump:        '#ef4444'  // レッド
 | `clean_orphan_pages.py` | shops.json にない店舗の _shop_pages（孤立ページ）から指定フィールドを除去（URLは残す） |
 | `check_articles.py` | 特集記事（_posts/）の shop_ids と本文の inline-shop-card/grid のIDを shops.json と照合。--fix で、IDの付け替え（REMAP）・ないIDの削除・shop_ids を本文の店と一致させる。build_pages.sh で確認だけ実行 |
 | `merge_candidates.py` | 調べた店の候補JSON（{"new":[...],"attach":[...]}）を確かめて shops.json に足す。採用は confidence high/mid・店に行った回・住所が国土地理院で番地まで一致・youtube_id 11文字だけ（地方の大字までの high は location_unverified）。attach は既存店に動画を付ける。group に - で候補ごとの group |
+| `weekly/run.py` | 週1回の自動更新（情報源ごとのアダプタ→merge_candidates.py）。GitHub Actions の weekly-update.yml が実行。`--dry-run` で書き込みなし |
 | `add_group.py` | 新しいグループを足す（_data/groups.json と _group_pages/<id>.md）。`python scripts/add_group.py <id> <表示名> <色>` |
 | `refresh_group_titles.py` | グループページのタイトル・説明・店数を店のデータから書き直す（build_pages.sh で実行） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
@@ -295,6 +296,13 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - timelesz は Sexy Zone 時代（2024年3月以前）の回は載せない。番組のスタジオで料理が出ただけの店は残し、記事では訪問と分けて書く
 - 出典が確かめられない店・どの店舗か分からない店（差し入れ・インスタの写真だけ等）は載せない
 - グループを広げる範囲（2026-10-12 決定）: アイドルを優先しつつ、芸人・タレントが出るグルメ番組（酒場放浪記・町中華で飲ろうぜ・オモウマい店・せっかくグルメ など。番組ごとに1グループ）も足す。食べ歩き系YouTuber（SUSURU TV. など）は後回し。目標はグループ数・店数とも今の2倍以上
+
+## 週1回の自動更新（2026-10-13〜。.github/workflows/weekly-update.yml）
+- 毎週月曜 日本時間5:50ごろ（手動は Actions → Weekly update → Run workflow。dry_run にチェックで書き込みなし）。`scripts/weekly/run.py` が情報源ごとに新しい回の店を候補にし、`scripts/merge_candidates.py`（国土地理院で番地まで一致・同じグループの重複なし・画像あり）を通った店だけ data/shops.json に足す → `build_pages.sh --no-commit` → `check_articles.py --strict`（エラーなら commit しない）→ main に commit・push → 同じワークフローでサイトを作って公開（GITHUB_TOKEN の push では deploy-site.yml が動かないため）。足した店が0件なら commit しない
+- 情報源は `scripts/weekly/sources.json`（1情報源＝`scripts/weekly/<adapter>.py`。`collect(cfg, state, log)` が `{"new":[候補], "skipped":[(理由, 名前)], "state":{...}}` を返す）。今あるもの: 町中華で飲ろうぜ（公式XML）・吉田類の酒場放浪記（店ページ番号の続き。未放送ページで止まる）・ぶらり途中下車の旅（articles.js）・食彩の王国（api/shop.json。ジャンルは公式の見出し優先）・オモウマい店（feed/onair-1.json。紹介メニューは ordered_items にしない）・YouTube（乃木坂配信中の「撮影協力」をホットペッパーAPIで1軒に決める）。どこまで読んだかは `scripts/weekly/state.json`（`--init-state` で今の shops.json の最新回から作り直せる）。lookback_days 分は読み直す（足し済みは merge_candidates が重複として外す）
+- 情報源を足すとき: 店名と住所が決まった形で載る公式ページだけ。robots.txt を守り1.2秒以上あける（common.fetch）。食べログ・テレビ東京系・名古屋テレビにはアクセスしない。飲食店でないもの（物販・施設・工房）は外す。YouTube の食べ歩きチャンネルは sources.json の youtube の channels に足す（format: name_address＝説明文に「店名：」「住所：」がある／credit_hotpepper。group は先に add_group.py で作る）。手元で `python scripts/weekly/run.py --dry-run [--only <id>]` で確かめる
+- secrets（Settings → Secrets and variables → Actions）: `YOUTUBE_API_KEY`・`HOTPEPPER_API_KEY`（TMDB_API_KEY は今は使わない）。キーはログに出さない（common.redact）
+- Summary の見方: 表の「候補」＝新しい回で拾った店、「足した」＝shops.json に入った店、「見送り（確認で）」＝merge_candidates が外した店（住所が国土地理院と食い違う・番地まで確かめられない など。理由別の件数と一覧）、「見送り（読んだ段階）」＝飲食店でない・閉店・ホットペッパーで1軒に決まらない など。「登録済みで外した」は前回までに足した店（正常）。状態が「失敗」の情報源はサイトの形が変わった可能性があるので、アダプタを直す
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

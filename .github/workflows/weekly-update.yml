@@ -1,0 +1,102 @@
+# 週1回の自動更新（月曜 日本時間 5:50ごろ）。
+# 店名と住所が決まった形で載っている情報源（scripts/weekly/sources.json）から新しい回の店を候補にし、
+# scripts/merge_candidates.py の確認（国土地理院で番地まで一致・重複なし・画像あり）を通った店だけ data/shops.json に足す。
+# 足した店があれば、ページを作り直して main に commit・push し、このワークフローの中でサイトを作って公開する
+# （GITHUB_TOKEN の push では deploy-site.yml が動かないため。手順は deploy-site.yml と同じ）。
+# 結果（足した店・見送った店と理由）は実行ページの Summary に出る。
+# secrets: YOUTUBE_API_KEY（YouTube Data API）・HOTPEPPER_API_KEY（ホットペッパーグルメ）。TMDB_API_KEY は今は使わない（任意）。
+name: Weekly update
+
+on:
+  schedule:
+    - cron: '50 20 * * 0'   # UTC 日曜 20:50 = 日本時間 月曜 5:50
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '書き込まずに候補と見送り理由だけ Summary に出す'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    outputs:
+      added: ${{ steps.run.outputs.added }}
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+
+      - name: 情報源を読んで店を足す
+        id: run
+        run: python scripts/weekly/run.py ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          HOTPEPPER_API_KEY: ${{ secrets.HOTPEPPER_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: ページを作る
+        if: steps.run.outputs.added != '0'
+        run: bash scripts/build_pages.sh --no-commit
+
+      - name: 特集記事の店舗IDを確かめる（エラーなら commit しない）
+        if: steps.run.outputs.added != '0'
+        run: python scripts/check_articles.py --strict
+
+      - name: commit・push
+        id: commit
+        if: steps.run.outputs.added != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/shops.json scripts/weekly/state.json _shop_pages/ _list_pages/ _group_pages/ _data/ data/explore.json
+          git commit -m "週1回の自動更新: 店を${{ steps.run.outputs.added }}軒追加"
+          git push origin HEAD:main || (git pull --rebase origin main && git push origin HEAD:main)
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "main に commit しました: $(git rev-parse --short HEAD)" >> "$GITHUB_STEP_SUMMARY"
+
+  build:
+    needs: update
+    if: needs.update.outputs.added != '0' && needs.update.outputs.sha != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.update.outputs.sha }}
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - uses: actions/configure-pages@v5
+      - name: Build
+        run: bundle exec jekyll build --baseurl ""
+        env:
+          JEKYLL_ENV: production
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -5,6 +5,7 @@
 # 使い方:
 #   bash scripts/build_pages.sh
 #   bash scripts/build_pages.sh --push   # git pushまで自動実行
+#   bash scripts/build_pages.sh --no-commit  # ページを作るだけ（git add/commit しない。週1回の自動更新が使う）
 
 set -e
 
@@ -26,6 +27,12 @@ python scripts/refresh_group_titles.py
 echo ""
 echo "=== ③' 特集記事の店舗IDの確認（shops.json にないIDがあれば表示。直すときは --fix） ==="
 python scripts/check_articles.py
+
+if [[ "$1" == "--no-commit" ]]; then
+  echo ""
+  echo "✓ 完了: ページを作りました（--no-commit のため git には触れていません）"
+  exit 0
+fi
 
 echo ""
 echo "=== ④ git add ==="
