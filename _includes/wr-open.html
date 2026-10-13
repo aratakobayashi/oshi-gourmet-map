@@ -1,0 +1,6 @@
+{%- comment -%}
+  記事の店の行（まとめ記事の .wrs の1行）の前半。写真と、お店のページへのリンクを開く。
+  使い方: <li class="wr">{% include wr-open.html id="店のID" %}<span class="wr__k">年.月</span><b class="wr__name">店名</b><span class="wr__t">回・メンバー・食べた物</span>{% include wr-close.html id="店のID" %}</li>
+{%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}<a class="wr__link" href="{{ _c.u | relative_url }}" style="--g:{{ site.data.group_ix[_c.gr].c }}">{% include thumb.html c=_c %}<span class="wr__body">{%- else -%}<span class="wr__link wr__link--none"><span class="wr__body">{%- endif -%}

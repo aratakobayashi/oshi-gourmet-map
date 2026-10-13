@@ -312,7 +312,11 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 
 ## グループのまとめ記事の型（2026-10-13〜）
 - 「<グループ>の聖地巡礼・ロケ地まとめ｜<主な出典>で行った東京のご飯ほか<N>軒」。そのグループの店（閉店を除く）を全部 shop_ids に入れる
-- 章は 公式YouTube → 冠番組 → 出演した番組 → ドラマのロケ地 → スタジオに料理が出た店 の順。各章は .pf-works ＋ inline-shop-grid（12軒まで）。ほかは「特集記事の新しい型」と同じ（ひと目でわかる・数字・年表と場所の図・はじめて見るなら・エリアで巡る・地図へ）
+- 章は 公式YouTube → 冠番組 → 出演した番組 → ドラマのロケ地 → スタジオに料理が出た店 の順。そのあと 年表・ジャンルと場所の図 → はじめて見るなら → エリアで巡る（東京の聖地マップ）→ 地図へ
+- お店は「お店の行」（`<ul class="wrs"><li class="wr">{% include wr-open.html id="…" %}<span class="wr__k">年.月</span><b class="wr__name">店名</b><span class="wr__t">回／メンバー／食べた物（場所）</span>{% include wr-close.html id="…" %}</li></ul>`）。写真・押すとお店のページ・「お店の詳細を見る」・予約／食べログのボタン（hotpepper_url と tabelog_verified の店だけ。front matter に pr: true）。同じ店を文字とカードで2回並べない
+- 冒頭（ひと目でわかるの前）に「出典で選ぶ」（.cnav。章へのリンクとアイコン {% include chico.html kind="yt|tv|guest|drama|studio|other" %}）と {% include matome-members.html group="…" %}（メンバー別に /shops/ の絞り込みへ）
+- 書いた記事は `python scripts/matome_rows.py <slug> --color '<色>'` で上の形にそろう（.pf-works＋grid → .wrs、章の id とアイコン、冒頭の案内、図の章の移動、東京の聖地マップ `scripts/post_map.py`、ジャンルの図 `post_figures.py --only-genre`。何度実行しても同じ）
+- グループページの上部に、そのグループのまとめ記事（article_type: matome。URLに gourmet-matome を含むものを優先）へのリンクが出る
 - 済み: SixTONES・Snow Man・King & Prince・WEST.・なにわ男子。次は残りのグループ（嵐・Aぇ!group・KinKi Kids・櫻坂46・K-POP …）を、先に店を確かめてから
 - 店の多い記事でも速さを保つため、.hscroll と .pf-works は content-visibility: auto（画面に近づいてから描く）
 

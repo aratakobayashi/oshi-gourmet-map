@@ -5,7 +5,7 @@ post_figures.py
 - genre.svg     お店のジャンルと場所（都道府県・市区町村）
 
 書き出し: assets/img/posts/<slug>/。記事の本文にある同じ図の width/height も合わせる。
-使い方: python scripts/post_figures.py <記事のslug（ファイル名の日付のあと）> [--color '#e8537a'] [--title '…の年表']
+使い方: python scripts/post_figures.py <記事のslug（ファイル名の日付のあと）> [--color '#e8537a'] [--title '…の年表'] [--only-genre]
 """
 import collections
 import json
@@ -92,6 +92,12 @@ def genre(shops, color, title, genres):
         short = p[:-1] if p[-1:] in ('都', '府', '県') else p
         return (short + ' ' + c if c and tw(short + c) <= 9 else short) or '不明'
     area = collections.Counter(place(s) for s in shops)
+    # 場所は多い順に14か所まで（残りは「ほか○か所」にまとめる。1軒ずつの場所が何十行も並ばないように）
+    top = area.most_common(14)
+    rest = area.most_common()[14:]
+    if rest:
+        top.append((f'ほか{len(rest)}か所', sum(k for _, k in rest)))
+    area = collections.Counter(dict(top))
     W = 420
     H = 112 + 44 * len(cnt) + 28 + 32 * ((len(area) + 1) // 2) + 14
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="{FONT}">',
@@ -110,7 +116,7 @@ def genre(shops, color, title, genres):
     y += 14
     o.append(f'<text x="20" y="{y}" font-size="14" font-weight="700" fill="{INK2}">お店の場所</text>')
     y += 14
-    for i, (a, k) in enumerate(area.most_common()):
+    for i, (a, k) in enumerate(top):
         cx, cy = 20 + (i % 2) * 196, y + (i // 2) * 32
         a = a if tw(a) <= 10 else wrap(a, 10)[0] + '…'
         o.append(f'<rect x="{cx}" y="{cy}" width="184" height="26" rx="13" fill="#fff" stroke="{LINE}"/>')
@@ -137,10 +143,11 @@ def main():
     out = os.path.join(ROOT, 'assets', 'img', 'posts', slug)
     os.makedirs(out, exist_ok=True)
     sizes = {}
-    tl = sorted([s for s in shops if s.get('visited_date')], key=lambda s: s['visited_date'])
-    svg, w, h = timeline(tl, color, ttl, '動画が公開された順（推しグルメ巡礼MAPのデータより）')
-    open(os.path.join(out, 'timeline.svg'), 'w', encoding='utf-8').write(svg)
-    sizes['timeline'] = (w, h)
+    if '--only-genre' not in args:  # 年表を手で作り直した記事は --only-genre でジャンルの図だけ作る
+        tl = sorted([s for s in shops if s.get('visited_date')], key=lambda s: s['visited_date'])
+        svg, w, h = timeline(tl, color, ttl, '動画が公開された順（推しグルメ巡礼MAPのデータより）')
+        open(os.path.join(out, 'timeline.svg'), 'w', encoding='utf-8').write(svg)
+        sizes['timeline'] = (w, h)
     svg, w, h = genre(shops, color, 'お店のジャンルと場所', genres)
     open(os.path.join(out, 'genre.svg'), 'w', encoding='utf-8').write(svg)
     sizes['genre'] = (w, h)

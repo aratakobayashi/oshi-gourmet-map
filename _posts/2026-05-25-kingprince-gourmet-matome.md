@@ -188,6 +188,7 @@ faq:
     a: "はい。3人は2023年5月にKing & Princeを脱退しました。この記事では、3人がグループに在籍していたころの放送（当たり前レストラン、元旦SP、道の駅3品クッキング、VS魂の背徳グルメなど）のお店を、「当時のメンバー」として載せています。脱退後の活動で訪れたお店は載せていません。"
   - q: "King & Princeのお店を地図で見られますか？"
     a: "「お店を探す」でKing & Princeを選ぶと、この記事のお店を地図で見られます。行きたいお店は保存して、巡礼の計画に使えます。"
+pr: true
 ---
 
 <div class="pf" style="--pc:#f472b6">
@@ -195,6 +196,12 @@ faq:
 <p>King &amp; Princeは、いま<strong>永瀬廉・髙橋海人</strong>の2人で活動しています。2023年5月までは<strong>平野紫耀・神宮寺勇太・岸優太</strong>も在籍していて、その時期の番組には5人の名前が並びます（この記事では「当時のメンバー」と書いています）。お店が出てくるのは、冠番組の『King &amp; Princeる。』と『キントレ』（どちらも日本テレビ）、メンバーが出演したバラエティ番組、アルバムの特典映像、そしてドラマの撮影です。</p>
 
 <p>なかでも多いのは、『キントレ』で髙橋海人が炊飯器ひとつを持って各地を回る「炊飯器の旅」と、2人がお店で働く「バイトレ」。一方、「当たり前レストラン」はお店の料理がスタジオに出てくる企画で、メンバーはお店には行っていません。この記事では<strong>149軒</strong>を、出典ごとに分けてまとめました。</p>
+
+<div class="cnav">
+<p class="cnav__h">出典で選ぶ</p>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組「King &amp; Princeる。」<small>4軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「キントレ」<small>49軒</small></span></a><a href="#src3">{% include chico.html kind="guest" %}<span>出演した番組<small>39軒</small></span></a><a href="#src4">{% include chico.html kind="other" %}<span>アルバムの映像・SNSに出てきたお店<small>4軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>11軒</small></span></a><a href="#src6">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>42軒</small></span></a></div>
+</div>
+{% include matome-members.html group="kingprince" %}
 
 <h2>ひと目でわかる King &amp; Princeのグルメ</h2>
 <div class="pf-card">
@@ -223,6 +230,248 @@ faq:
 
 <div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の42軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
+<h2 id="src1">{% include chico.html kind="tv" %}冠番組「King &amp; Princeる。」で行ったお店</h2>
+<p>日本テレビの『King &amp; Princeる。』のロケで、メンバーが訪れたお店です。どれも5人が在籍していたころの放送です。道の駅の3軒は、料理に使う食材を選んだり買ったりしたロケです。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-fb2b6baa-20220807" %}<span class="wr__k">2023<br>1.1</span><b class="wr__name">大久手 山本屋（名古屋市）</b><span class="wr__t">元旦SP／岸優太・神宮寺勇太（当時のメンバー）が訪れた味噌煮込みうどんの店。岸優太が自分で店に電話して撮影の許可を取ったと紹介されました</span>{% include wr-close.html id="kingprince-fb2b6baa-20220807" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-1da29986-" %}<span class="wr__k">2023<br>2.25</span><b class="wr__name">道の駅常陸大宮～かわプラザ～（茨城県常陸大宮市）</b><span class="wr__t">道の駅3品クッキング／平野紫耀・岸優太・神宮寺勇太（当時のメンバー）が料理用の特産品を選んだ道の駅</span>{% include wr-close.html id="kingprince-1da29986-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-ce21bf21-" %}<span class="wr__k">2023<br>4.15</span><b class="wr__name">道の駅 伊豆ゲートウェイ函南（静岡県函南町）</b><span class="wr__t">道の駅3品クッキング／平野紫耀・岸優太・神宮寺勇太（当時のメンバー）が食材を選んだ道の駅</span>{% include wr-close.html id="kingprince-ce21bf21-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-041fc524-" %}<span class="wr__k">2023<br>5.20</span><b class="wr__name">道の駅ながおか花火館（新潟県長岡市）</b><span class="wr__t">ゴールデン2時間SPの新潟旅／神宮寺勇太（当時のメンバー）・永瀬廉・髙橋海人がピザ作りの食材を買った道の駅</span>{% include wr-close.html id="kingprince-041fc524-" %}</li>
+</ul>
+
+<h2 id="src2">{% include chico.html kind="tv" %}冠番組「キントレ」で行ったお店</h2>
+<p>日本テレビの『キントレ』で、永瀬廉・髙橋海人が訪れたお店です。企画ごとに分けました。</p>
+
+<h3>炊飯器の旅（髙橋海人）：20軒</h3>
+<p>髙橋海人が炊飯器を持って各地を回り、出会った人から食材を譲ってもらう企画です。食材を譲ってもらったお店では、店の料理を食べたかどうかがわからないものもあるので、わかっていることだけを書いています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-e7dd7ece-" %}<span class="wr__k">2023<br>8.26</span><b class="wr__name">夢てらす みよまつ（千葉県勝浦市）</b><span class="wr__t">勝浦編／トコブシとにんじんを譲ってもらった、勝浦朝市の近くの飲食店</span>{% include wr-close.html id="kingprince-e7dd7ece-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-spaice_coffee_house-" %}<span class="wr__k">2023<br>8.26</span><b class="wr__name">SPAiCE COFFEE HOUSE（千葉県勝浦市）</b><span class="wr__t">勝浦編／訪れたコーヒースタンド</span>{% include wr-close.html id="kingprince-spaice_coffee_house-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-cb8b1705-" %}<span class="wr__k">2023<br>9.30</span><b class="wr__name">ちちぶベーカリー（埼玉県秩父市）</b><span class="wr__t">秩父編／最初に訪れて、クルミデニッシュを買ったパン店</span>{% include wr-close.html id="kingprince-cb8b1705-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-e0956958-" %}<span class="wr__k">2023<br>9.30</span><b class="wr__name">ニューみとや（埼玉県秩父市）</b><span class="wr__t">秩父編／訪れた洋菓子店</span>{% include wr-close.html id="kingprince-e0956958-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-a8b94a8a-" %}<span class="wr__k">2023<br>9.30</span><b class="wr__name">季節の酵母パン *苺*じるし（埼玉県秩父市）</b><span class="wr__t">秩父編／アポなしで訪れ、鹿肉のミンチを譲ってもらったパン店</span>{% include wr-close.html id="kingprince-a8b94a8a-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-silver_lake_club_tea-" %}<span class="wr__k">2023<br>11.11</span><b class="wr__name">Silver Lake Club + Tea（山梨県南アルプス市）</b><span class="wr__t">南アルプス市編／鞄店が営むサバサンドの店</span>{% include wr-close.html id="kingprince-silver_lake_club_tea-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-ece47ef8-" %}<span class="wr__k">2023<br>11.11</span><b class="wr__name">和菓子店 瓦屋（山梨県南アルプス市）</b><span class="wr__t">南アルプス市編／シャインマスカットを譲ってもらった和菓子店</span>{% include wr-close.html id="kingprince-ece47ef8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4c156b83-" %}<span class="wr__k">2023<br>11.11</span><b class="wr__name">ベーカリー ルーブル（山梨県南アルプス市）</b><span class="wr__t">南アルプス市編／ワイン・チーズ・生ハムを譲ってもらったパン店</span>{% include wr-close.html id="kingprince-4c156b83-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-71514552-" %}<span class="wr__k">2023<br>12.16</span><b class="wr__name">胡桃饅頭 吉田屋（茨城県笠間市）</b><span class="wr__t">笠間編／野菜を譲ってもらい、くるみ饅頭を買った饅頭店</span>{% include wr-close.html id="kingprince-71514552-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-c65e5e76-" %}<span class="wr__k">2023<br>12.16</span><b class="wr__name">ほんまや（茨城県笠間市）</b><span class="wr__t">笠間編／「もんじゃまん」を買った店</span>{% include wr-close.html id="kingprince-c65e5e76-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-f5d9ad03-" %}<span class="wr__k">2024<br>2.10</span><b class="wr__name">お食事処せきの（静岡県沼津市）</b><span class="wr__t">沼津編／訪れた沼津港の食堂（娘さんが髙橋海人のファンという店主の店）</span>{% include wr-close.html id="kingprince-f5d9ad03-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4c6c635a-" %}<span class="wr__k">2024<br>2.10</span><b class="wr__name">静岡おでんごっちゃん（静岡県沼津市）</b><span class="wr__t">沼津編／訪れた静岡おでんの店</span>{% include wr-close.html id="kingprince-4c6c635a-" %}</li>
+</ul>
+
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-aeafee63-" %}<span class="wr__k">2024<br>3.2</span><b class="wr__name">日光さかえや 揚げゆばまんじゅう本舗（栃木県日光市）</b><span class="wr__t">日光編／揚げゆばまんじゅうを食べた、東武日光駅前の店</span>{% include wr-close.html id="kingprince-aeafee63-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-a12a3311-" %}<span class="wr__k">2024<br>3.2</span><b class="wr__name">日光けんちん汁 古はし（栃木県日光市）</b><span class="wr__t">日光編／訪れたけんちん汁の定食店（アイスホッケー選手の実家）</span>{% include wr-close.html id="kingprince-a12a3311-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-574d99fb-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">うらりマルシェ（神奈川県三浦市）</b><span class="wr__t">地元・三浦市編／まぐろ入りの「とろまん」を食べた三崎港の産直センター</span>{% include wr-close.html id="kingprince-574d99fb-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4ff22d20-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">ミサキプレッソ（神奈川県三浦市）</b><span class="wr__t">三浦市編／訪れた三崎の商店街のカフェ（児童合唱団が練習していた店）</span>{% include wr-close.html id="kingprince-4ff22d20-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9bb07d77-" %}<span class="wr__k">2024<br>9.14</span><b class="wr__name">小田原さかなセンター（神奈川県小田原市）</b><span class="wr__t">小田原編／高橋恭平（なにわ男子）と店の前でソフトクリームを食べた鮮魚センター</span>{% include wr-close.html id="kingprince-9bb07d77-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-65fc5a18-" %}<span class="wr__k">2025<br>5.31</span><b class="wr__name">クーロンヌつくば（茨城県つくば市）</b><span class="wr__t">つくば編／ソーセージフランスを買ったパン店</span>{% include wr-close.html id="kingprince-65fc5a18-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-603381f1-" %}<span class="wr__k">2025<br>7.26</span><b class="wr__name">チコパン×クゲヌマ（神奈川県藤沢市）</b><span class="wr__t">藤沢編／須賀健太とパンを食べた、鵠沼海岸のパン店</span>{% include wr-close.html id="kingprince-603381f1-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-25bfcbb3-" %}<span class="wr__k">2026<br>3.21</span><b class="wr__name">茶和々 成田店（千葉県成田市）</b><span class="wr__t">成田編／残ったお金で抹茶アイスと煎茶を買った、成田山参道の抹茶スイーツ店</span>{% include wr-close.html id="kingprince-25bfcbb3-" %}</li>
+</ul>
+
+<h3>バイトレ：メンバーが働いたお店（9軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-paradi-20230801" %}<span class="wr__k">2023<br>7.15</span><b class="wr__name">PARADI（兵庫県豊岡市）</b><span class="wr__t">髙橋海人／漫画家ひうらさとるのアシスタントをした回で、休憩中に訪れた城崎温泉のベーカリーカフェ</span>{% include wr-close.html id="kingprince-paradi-20230801" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-70f61cc7-" %}<span class="wr__k">2023<br>7.22</span><b class="wr__name">吉野家 有楽町店</b><span class="wr__t">永瀬廉が働いた吉野家の店舗</span>{% include wr-close.html id="kingprince-70f61cc7-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-20819b44-" %}<span class="wr__k">2023<br>7.29</span><b class="wr__name">ドミノピザ 南馬込店</b><span class="wr__t">髙橋海人が働いた、イートインのあるドミノ・ピザの店舗</span>{% include wr-close.html id="kingprince-20819b44-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-352bfb01-" %}<span class="wr__k">2024<br>10.19</span><b class="wr__name">キッチンオリジン 京王永山店</b><span class="wr__t">永瀬廉が働いた、お弁当の持ち帰りの店舗</span>{% include wr-close.html id="kingprince-352bfb01-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-28f5d80f-" %}<span class="wr__k">2025<br>1.18</span><b class="wr__name">丸亀製麺 立川店</b><span class="wr__t">髙橋海人が働いた店舗（高校時代によく通っていたと話しました）</span>{% include wr-close.html id="kingprince-28f5d80f-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-f30d7811-" %}<span class="wr__k">2025<br>6.28</span><b class="wr__name">築地銀だこ 本店</b><span class="wr__t">髙橋海人が働いた本店</span>{% include wr-close.html id="kingprince-f30d7811-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-92e5e468-" %}<span class="wr__k">2025<br>9.27</span><b class="wr__name">スターバックス コーヒー 目黒セントラルスクエア店</b><span class="wr__t">スターバックス回／髙橋海人が店員として働いた店舗</span>{% include wr-close.html id="kingprince-92e5e468-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-ea842b43-" %}<span class="wr__k">2025<br>9.27</span><b class="wr__name">スターバックス コーヒー 目黒店</b><span class="wr__t">スターバックス回に出てきた、本社ビル1階の店舗</span>{% include wr-close.html id="kingprince-ea842b43-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-starbucks_reserve_r-" %}<span class="wr__k">2025<br>9.27</span><b class="wr__name">STARBUCKS RESERVE ROASTERY TOKYO</b><span class="wr__t">スターバックス回／髙橋海人が撮影で訪れたロースタリー</span>{% include wr-close.html id="kingprince-starbucks_reserve_r-" %}</li>
+</ul>
+
+<h3>キントレガイドブック：船橋・練馬・蒲田（5軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-bf29f5cc-" %}<span class="wr__k">2025<br>10.25</span><b class="wr__name">駄菓子屋リュウ君の店（千葉県船橋市）</b><span class="wr__t">船橋編／永瀬廉・髙橋海人が松倉海斗（Travis Japan）と、駄菓子のアレンジ料理を食べた駄菓子店</span>{% include wr-close.html id="kingprince-bf29f5cc-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-729d85c4-" %}<span class="wr__k">2025<br>10.25</span><b class="wr__name">喫茶いずみ（千葉県船橋市）</b><span class="wr__t">船橋編／永瀬廉・髙橋海人が松倉海斗と訪れた喫茶店</span>{% include wr-close.html id="kingprince-729d85c4-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-963-" %}<span class="wr__k">2025<br>10.25</span><b class="wr__name">963（くろさん）（千葉県船橋市）</b><span class="wr__t">船橋編で紹介された、クラムチャウダーのあるラーメン＆バー</span>{% include wr-close.html id="kingprince-963-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-cdf24a3b-" %}<span class="wr__k">2025<br>12.6</span><b class="wr__name">麺屋有希（練馬区）</b><span class="wr__t">練馬編／永瀬廉が福士蒼汰・福原遥と、背脂納豆つけ麺を食べたラーメン店</span>{% include wr-close.html id="kingprince-cdf24a3b-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4ad4ffcc-" %}<span class="wr__k">2025<br>12.13</span><b class="wr__name">レバーランド（蒲田）</b><span class="wr__t">蒲田編／髙橋海人が那須雄登（ACEes）とレバー料理を食べた立ち飲み店</span>{% include wr-close.html id="kingprince-4ad4ffcc-" %}</li>
+</ul>
+
+<h3>痩せの大食い三銃士！：戸越銀座（5軒）</h3>
+<p>2025年11月8日の放送で、永瀬廉が戸塚純貴・バッテリィズ エースと戸越銀座を食べ歩きました。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-76fb57d8-" %}<span class="wr__k">2025<br>11.8</span><b class="wr__name">ななかふぇ 戸越銀座</b><span class="wr__t">大玉の焼き団子</span>{% include wr-close.html id="kingprince-76fb57d8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-785776a2-" %}<span class="wr__k">2025<br>11.8</span><b class="wr__name">かたばみ精肉店</b><span class="wr__t">コロッケや肉団子</span>{% include wr-close.html id="kingprince-785776a2-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-8b19d7db-" %}<span class="wr__k">2025<br>11.8</span><b class="wr__name">おにぎり戸越屋 戸越銀座本店</b><span class="wr__t">大きいサイズのおにぎり</span>{% include wr-close.html id="kingprince-8b19d7db-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-fd7d4301-" %}<span class="wr__k">2025<br>11.8</span><b class="wr__name">らーめん えにし</b><span class="wr__t">冷やしつけそばなど</span>{% include wr-close.html id="kingprince-fd7d4301-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-92626c7f-" %}<span class="wr__k">2025<br>11.8</span><b class="wr__name">後藤かまぼこ店</b><span class="wr__t">3人で立ち寄ったかまぼこ店</span>{% include wr-close.html id="kingprince-92626c7f-" %}</li>
+</ul>
+
+<h3>ピンキリ調査：ふぐ・ステーキ・町中華・自然薯（5軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-837c5b45-" %}<span class="wr__k">2023<br>11.4</span><b class="wr__name">もみぢ（荻窪）</b><span class="wr__t">東京23区ピンキリ調査／永瀬廉が劇団ひとり・ヒコロヒーと訪れた、ふぐ・すっぽん料理の店</span>{% include wr-close.html id="kingprince-837c5b45-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-a5f71e02-" %}<span class="wr__k">2023<br>11.4</span><b class="wr__name">臼杵ふぐ 山田屋 丸の内</b><span class="wr__t">東京23区ピンキリ調査／髙橋海人が山崎弘也・ファーストサマーウイカと訪れた、丸ビルのふぐ料理店</span>{% include wr-close.html id="kingprince-a5f71e02-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-764ad1f6-" %}<span class="wr__k">2023<br>11.4</span><b class="wr__name">コメトステーキ（江戸川区）</b><span class="wr__t">東京23区ピンキリ調査／永瀬廉が劇団ひとり・ヒコロヒーと訪れた、メニューが米とステーキだけの店</span>{% include wr-close.html id="kingprince-764ad1f6-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-349a23bd-" %}<span class="wr__k">2023<br>11.4</span><b class="wr__name">長崎 雲仙楼（文京区）</b><span class="wr__t">東京23区ピンキリ調査／髙橋海人が山崎弘也・ファーストサマーウイカと、ちゃんぽんやチャーハンを食べた町中華</span>{% include wr-close.html id="kingprince-349a23bd-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-2c54804c-" %}<span class="wr__k">2024<br>12.21</span><b class="wr__name">自然薯専門店 麦とろ童子（静岡県熱海市）</b><span class="wr__t">ピンキリ調査隊in静岡／永瀬廉が劇団ひとりと、自然薯料理を食べた専門店</span>{% include wr-close.html id="kingprince-2c54804c-" %}</li>
+</ul>
+
+<h3>まかないハンター・道の駅3品クッキング（5軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-ginza_abc-" %}<span class="wr__k">2023<br>12.9</span><b class="wr__name">GINZA ABCラーメン</b><span class="wr__t">まかないハンター／永瀬廉がなすなかにしと訪れた銀座のラーメン店</span>{% include wr-close.html id="kingprince-ginza_abc-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-el_chateo-" %}<span class="wr__k">2023<br>12.9</span><b class="wr__name">EL CHATEO 銀座店</b><span class="wr__t">まかないハンター／永瀬廉が訪れた銀座のスペイン料理店</span>{% include wr-close.html id="kingprince-el_chateo-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-aa01a4f8-" %}<span class="wr__k">2023<br>12.9</span><b class="wr__name">私厨房 勇（白金）</b><span class="wr__t">まかないハンター／永瀬廉が「オムライス天津飯」を食べた中華料理店</span>{% include wr-close.html id="kingprince-aa01a4f8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6968d4d4-" %}<span class="wr__k">2025<br>3.22</span><b class="wr__name">道の駅ふじおやま（静岡県小山町）</b><span class="wr__t">道の駅3品クッキング／永瀬廉・髙橋海人が中村海人（Travis Japan）と食材を選んだ道の駅</span>{% include wr-close.html id="kingprince-6968d4d4-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-totoco-" %}<span class="wr__k">2025<br>5.3</span><b class="wr__name">漁港の駅 TOTOCO小田原（神奈川県小田原市）</b><span class="wr__t">道の駅3品クッキング 小田原編／永瀬廉・髙橋海人が玉森裕太（Kis-My-Ft2）と食材を選んだ漁港の駅。永瀬廉はここでソフトクリームを食べました</span>{% include wr-close.html id="kingprince-totoco-" %}</li>
+</ul>
+
+<h2 id="src3">{% include chico.html kind="guest" %}出演した番組で行ったお店</h2>
+<p>メンバーがゲストやロケで出演した、ほかの番組のお店です。</p>
+
+<h3>VS魂（フジテレビ）：岸優太の背徳グルメ（12軒）</h3>
+<p>岸優太（当時のメンバー）が出演した回です。どれもKing &amp; Princeに在籍していたころの放送です。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-nomuno-" %}<span class="wr__k">2023<br>3.16</span><b class="wr__name">ワインバー nomuno（赤坂）</b><span class="wr__t">背徳グルメ 第2弾／チーズたっぷりのボロネーゼ</span>{% include wr-close.html id="kingprince-nomuno-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-11c39259-" %}<span class="wr__k">2023<br>3.16</span><b class="wr__name">居酒屋 うっちゃり（新橋）</b><span class="wr__t">背徳グルメ 第2弾／鰻牛丼</span>{% include wr-close.html id="kingprince-11c39259-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6216ca59-" %}<span class="wr__k">2023<br>3.16</span><b class="wr__name">エニシスタンド 御徒町店</b><span class="wr__t">背徳グルメ 第2弾／肉チーズ担々麺</span>{% include wr-close.html id="kingprince-6216ca59-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-143c3cae-" %}<span class="wr__k">2023<br>3.16</span><b class="wr__name">吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店</b><span class="wr__t">背徳グルメ 第2弾／肉ドレス海鮮丼</span>{% include wr-close.html id="kingprince-143c3cae-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-a5e65145-" %}<span class="wr__k">2023<br>3.16</span><b class="wr__name">牡蠣海鮮 かいり（渋谷）</b><span class="wr__t">背徳グルメ 第2弾／痛風鍋</span>{% include wr-close.html id="kingprince-a5e65145-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-snowy_village-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">SNOWY VILLAGE（新大久保）</b><span class="wr__t">背徳グルメ 第3弾／平子祐希（アルコ＆ピース）とチョコチュロス</span>{% include wr-close.html id="kingprince-snowy_village-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-cozy_place-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">COZY PLACE（新大久保）</b><span class="wr__t">背徳グルメ 第3弾／平子祐希とチーズトンカツ</span>{% include wr-close.html id="kingprince-cozy_place-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-957158d8-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">韓国屋台ハンサム 汐留店</b><span class="wr__t">背徳グルメ 第3弾／平子祐希とチーズラッポッキ鍋</span>{% include wr-close.html id="kingprince-957158d8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-the_living-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">THE LIVING（大田区千鳥）</b><span class="wr__t">背徳グルメ 第3弾／巨大いちごパフェ</span>{% include wr-close.html id="kingprince-the_living-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-95f9e823-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">大衆食堂スタンド そのだ 五反田店</b><span class="wr__t">背徳グルメ 第3弾／平子祐希とチャーシューエッグ</span>{% include wr-close.html id="kingprince-95f9e823-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-7d1291c7-" %}<span class="wr__k">2023<br>5.11</span><b class="wr__name">深川つり舟（国立市）</b><span class="wr__t">背徳グルメ 第3弾／平子祐希と爆盛りかき揚げ丼</span>{% include wr-close.html id="kingprince-7d1291c7-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-b6053fe5-" %}<span class="wr__k">2023<br>5.18</span><b class="wr__name">ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス</b><span class="wr__t">渋谷スペシャル（相葉雅紀・風間俊介・佐藤勝利・藤井流星・浮所飛貴と）のロケで使われた、渋谷駅前のカフェ</span>{% include wr-close.html id="kingprince-b6053fe5-" %}</li>
+</ul>
+
+<h3>笑ってコラえて！（日本テレビ）：朝までハシゴの旅 大阪・福島（7軒）</h3>
+<p>2024年8月28日の放送で、永瀬廉が西畑大吾（なにわ男子）・正門良規（Aぇ! group）と大阪・福島の店をハシゴしました。訪れた順に並べています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-8d5d65c4-" %}<span class="wr__k">1軒目</span><b class="wr__name">立呑み ぽっぽ亭</b><span class="wr__t">最初に飲んだ立ち飲みの店</span>{% include wr-close.html id="kingprince-8d5d65c4-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-kitchen-" %}<span class="wr__k">2軒目</span><b class="wr__name">隠れ韓国kitchen カンス</b><span class="wr__t">韓国料理の居酒屋</span>{% include wr-close.html id="kingprince-kitchen-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-0102bcf9-" %}<span class="wr__k">3軒目</span><b class="wr__name">はち福</b><span class="wr__t">居酒屋（ニッポンの社長・辻と居合わせた店）</span>{% include wr-close.html id="kingprince-0102bcf9-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-66d643bc-" %}<span class="wr__k">4軒目</span><b class="wr__name">お酒とイタリやん</b><span class="wr__t">イタリアンの居酒屋</span>{% include wr-close.html id="kingprince-66d643bc-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-25d8fc80-" %}<span class="wr__k">5軒目</span><b class="wr__name">カフェアンドバー サボテン</b><span class="wr__t">カフェバー</span>{% include wr-close.html id="kingprince-25d8fc80-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-bar_lil_farm-" %}<span class="wr__k">6軒目</span><b class="wr__name">Bar Lil farm</b><span class="wr__t">あいがけ麻婆カレーを食べたバー</span>{% include wr-close.html id="kingprince-bar_lil_farm-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-c0675074-" %}<span class="wr__k">7軒目</span><b class="wr__name">大衆酒場うおまるスタンド 新福島店</b><span class="wr__t">最後に訪れた大衆酒場</span>{% include wr-close.html id="kingprince-c0675074-" %}</li>
+</ul>
+
+<h3>プレミセ！（NHK BS）：永瀬廉・髙橋海人の滋賀（5軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-6e95a860-" %}<span class="wr__k">2023<br>11.24</span><b class="wr__name">からっ風（大津市）</b><span class="wr__t">2人がビールで乾杯した店</span>{% include wr-close.html id="kingprince-6e95a860-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-ba0ed6c3-" %}<span class="wr__k">2023<br>11.24</span><b class="wr__name">元祖 阪本屋（大津市）</b><span class="wr__t">クイズの撮影場所になった、ふなずしの老舗</span>{% include wr-close.html id="kingprince-ba0ed6c3-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-7e81f474-" %}<span class="wr__k">2023<br>11.24</span><b class="wr__name">喜烙亭（大津市）</b><span class="wr__t">ビワマス親子丼の店（大津駅 徒歩3分）</span>{% include wr-close.html id="kingprince-7e81f474-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9752399b-" %}<span class="wr__k">2023<br>11.24</span><b class="wr__name">魚清楼（大津市堅田）</b><span class="wr__t">湖魚を焼く場面が撮られた料理旅館</span>{% include wr-close.html id="kingprince-9752399b-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4484df0c-" %}<span class="wr__k">2023<br>11.24</span><b class="wr__name">寿長生の郷（大津市）</b><span class="wr__t">茶室の場面が撮られた和菓子の里</span>{% include wr-close.html id="kingprince-4484df0c-" %}</li>
+</ul>
+
+<h3>あの頃からわたしたちは（日本テレビ）：髙橋海人の湘南（4軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-diego_by_the_river-" %}<span class="wr__k">2023<br>12.26</span><b class="wr__name">DIEGO BY THE RIVER（神奈川県藤沢市）</b><span class="wr__t">湘南のダンサー仲間との同窓会が開かれたダイニングバー</span>{% include wr-close.html id="kingprince-diego_by_the_river-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6eb74219-" %}<span class="wr__k">2024<br>6.23</span><b class="wr__name">しらす問屋 とびっちょ（江の島）</b><span class="wr__t">SOTA（BE:FIRST）・KAITAと江の島で立ち寄った、しらすパンの店（SOTAの思い出の味）</span>{% include wr-close.html id="kingprince-6eb74219-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-11d8f601-" %}<span class="wr__k">2024<br>6.23</span><b class="wr__name">魚華（江の島）</b><span class="wr__t">SOTA・KAITAと海鮮の網焼きを食べた店</span>{% include wr-close.html id="kingprince-11d8f601-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-08444027-" %}<span class="wr__k">2024<br>6.23</span><b class="wr__name">手もみラーメン たんぽぽ（神奈川県伊勢原市）</b><span class="wr__t">髙橋海人が15年ぶりに訪れた、思い出のラーメン店</span>{% include wr-close.html id="kingprince-08444027-" %}</li>
+</ul>
+
+<h3>そのほかの出演番組（11軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-4e7115c9-" %}<span class="wr__k">2023<br>7.15</span><b class="wr__name">くわっち〜家（日本橋堀留町）</b><span class="wr__t">KinKi Kidsのブンブブーン（フジテレビ）／永瀬廉がKinKi Kidsと沖縄料理を味わった店</span>{% include wr-close.html id="kingprince-4e7115c9-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-d9c32409-" %}<span class="wr__k">2023<br>11.5</span><b class="wr__name">キッチンさん太（大田区）</b><span class="wr__t">行列のできる相談所（日本テレビ）のカレー企画／永瀬廉が真っ黒なカツカレーを食べた洋食店</span>{% include wr-close.html id="kingprince-d9c32409-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9f60d755-" %}<span class="wr__k">2023<br>11.9</span><b class="wr__name">フォルクス 高井戸東店</b><span class="wr__t">モニタリング（TBS）／永瀬廉が北村匠海とチーズケーキを注文したファミリーレストラン</span>{% include wr-close.html id="kingprince-9f60d755-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-1953138f-" %}<span class="wr__k">2024<br>6.10</span><b class="wr__name">渡辺食品（山梨県忍野村）</b><span class="wr__t">帰れマンデー見っけ隊!!（テレビ朝日）／永瀬廉が松田元太（Travis Japan）と串団子を食べた、忍野八海の団子・草餅の店</span>{% include wr-close.html id="kingprince-1953138f-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-5056bbfd-" %}<span class="wr__k">2024<br>6.10</span><b class="wr__name">寿司華（山梨県富士吉田市）</b><span class="wr__t">帰れマンデー見っけ隊!!／永瀬廉と松田元太が訪れた1軒目の寿司店</span>{% include wr-close.html id="kingprince-5056bbfd-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-78afc2ee-" %}<span class="wr__k">2024<br>6.10</span><b class="wr__name">蔵寿し（山梨県富士吉田市）</b><span class="wr__t">帰れマンデー見っけ隊!!／2軒目の寿司店</span>{% include wr-close.html id="kingprince-78afc2ee-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-frames_cafe-" %}<span class="wr__k">2025<br>1.16</span><b class="wr__name">FRAMES CAFE（中目黒）</b><span class="wr__t">トークィーンズ（フジテレビ）／永瀬廉が事前取材の撮影でアイスティーとフライドポテトを頼んだカフェ</span>{% include wr-close.html id="kingprince-frames_cafe-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-7a6fcc4c-" %}<span class="wr__k">2026<br>3.19</span><b class="wr__name">フクモリ（東神田）</b><span class="wr__t">モニタリング／永瀬廉がハンバーグ定食を食べた定食カフェ</span>{% include wr-close.html id="kingprince-7a6fcc4c-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-trattoria_issei-" %}<span class="wr__k">2026<br>3.19</span><b class="wr__name">TRATTORIA ISSEI（内神田）</b><span class="wr__t">モニタリング／ダイアン津田へのドッキリの舞台になったイタリア料理店</span>{% include wr-close.html id="kingprince-trattoria_issei-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-76d19a8c-20240306" %}<span class="wr__k">2026<br>3.21</span><b class="wr__name">金龍ラーメン 御堂筋店（大阪・難波）</b><span class="wr__t">アナザースカイ（日本テレビ）／永瀬廉が松竹座の近くで訪れたラーメン店</span>{% include wr-close.html id="kingprince-76d19a8c-20240306" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-419e4ff8-20240306" %}<span class="wr__k">2026<br>3.21</span><b class="wr__name">お好み焼き とも（大阪府八尾市）</b><span class="wr__t">アナザースカイ／番組で紹介された、八尾の友人の実家のお好み焼き店</span>{% include wr-close.html id="kingprince-419e4ff8-20240306" %}</li>
+</ul>
+
+<h2 id="src4">{% include chico.html kind="other" %}アルバムの映像・SNSに出てきたお店</h2>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-f1628c30-" %}<span class="wr__k">2023</span><b class="wr__name">カレーレストラン 宝亭（静岡県熱海市）</b><span class="wr__t">ベストアルバム『Mr.5』Dear Tiara盤の特典映像「熱海小旅行」／当時の5人が訪れ、カツカレーやハヤシライスを食べたカレー店（店の公式投稿で5人の注文が紹介されています）</span>{% include wr-close.html id="kingprince-f1628c30-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-bricolage_bread_co-" %}<span class="wr__k">2024<br>3.1</span><b class="wr__name">Bricolage bread &amp; co.（六本木）</b><span class="wr__t">永瀬廉がInstagramに、クロワッサンを食べている写真を投稿したカフェ併設のベーカリー</span>{% include wr-close.html id="kingprince-bricolage_bread_co-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-77dc352b-" %}<span class="wr__k">2025</span><b class="wr__name">田園（八王子）</b><span class="wr__t">アルバム『STARRING』STARRING盤に収録された映像「4月1日」の撮影に使われた、八王子駅前の純喫茶</span>{% include wr-close.html id="kingprince-77dc352b-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-peppers_drive_in-" %}<span class="wr__k">2025</span><b class="wr__name">ペッパーズ ドライブイン（神奈川県平塚市）</b><span class="wr__t">アルバム『STARRING』収録の映像「Home, Stupid Home」（『Stereo Love』）の撮影に使われた、アメリカンダイナー風のカレー店</span>{% include wr-close.html id="kingprince-peppers_drive_in-" %}</li>
+</ul>
+
+<h2 id="src5">{% include chico.html kind="drama" %}メンバーが出演したドラマのロケ地</h2>
+<p>メンバーが出演したドラマの撮影に使われたお店です。役として食事をした場面の撮影場所で、メンバーが食べに行ったお店ではありません。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-bacf4c89-" %}<span class="wr__k">2023</span><b class="wr__name">広島っ子（神楽坂・飯田橋）</b><span class="wr__t">『だが、情熱はある』（日本テレビ）第2話／若林（髙橋海人）と春日（戸塚純貴）がオーディションのあとに行ったお好み焼き店</span>{% include wr-close.html id="kingprince-bacf4c89-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-papas_cafe-" %}<span class="wr__k">2023</span><b class="wr__name">PAPAS CAFE（広尾）</b><span class="wr__t">『だが、情熱はある』第7話／若林（髙橋海人）が木箱に入ってお弁当を売っていたカフェ</span>{% include wr-close.html id="kingprince-papas_cafe-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9c6ed0bc-" %}<span class="wr__k">2023</span><b class="wr__name">意気な寿し処阿部 青山店</b><span class="wr__t">『だが、情熱はある』第7話／若林と春日が事務所の社長と行った寿司店</span>{% include wr-close.html id="kingprince-9c6ed0bc-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-8669f236-" %}<span class="wr__k">2023</span><b class="wr__name">喫茶シルビア 西新井店</b><span class="wr__t">『だが、情熱はある』第11話／若林がパソコンで原稿を書いていた喫茶店</span>{% include wr-close.html id="kingprince-8669f236-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-e615ef2c-" %}<span class="wr__k">2024</span><b class="wr__name">横濱 鳥鮮（横浜市）</b><span class="wr__t">『厨房のありす』（日本テレビ）第5話／倖生（永瀬廉）と優作（前原瑞樹）が飲みに行った居酒屋の場面</span>{% include wr-close.html id="kingprince-e615ef2c-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4e9e2544-" %}<span class="wr__k">2024</span><b class="wr__name">リストランテサバティーニ青山</b><span class="wr__t">『厨房のありす』第7話／倖生（永瀬廉）が誕生日に松浦百花（大友花恋）と食事をしたイタリア料理店</span>{% include wr-close.html id="kingprince-4e9e2544-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-trattoria_per_bacco-" %}<span class="wr__k">2024</span><b class="wr__name">TRATTORIA PER BACCO（南青山）</b><span class="wr__t">『東京タワー』（テレビ朝日。永瀬廉主演）第1話／透（永瀬廉）と詩史（板谷由夏）が食事をしたイタリア料理店</span>{% include wr-close.html id="kingprince-trattoria_per_bacco-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-671d5e14-" %}<span class="wr__k">2024</span><b class="wr__name">関根精肉店 八王子店</b><span class="wr__t">『東京タワー』第3話／透が耕二（松田元太）・楓（永瀬莉子）と同窓会をした居酒屋の撮影場所（実際はホルモン焼肉の店）</span>{% include wr-close.html id="kingprince-671d5e14-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-dd03f0e4-" %}<span class="wr__k">2024</span><b class="wr__name">東龍（埼玉県川口市）</b><span class="wr__t">『東京タワー』第5話／透が耕二の彼女・ゆり（なえなの）と訪れた、高校時代に通っていたという設定のラーメン店</span>{% include wr-close.html id="kingprince-dd03f0e4-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6a87d740-" %}<span class="wr__k">2024</span><b class="wr__name">イカルカフェ（長野県軽井沢町）</b><span class="wr__t">『東京タワー』第7話／透と詩史が軽井沢でコーヒーを飲んだカフェ</span>{% include wr-close.html id="kingprince-6a87d740-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-d94dcf02-" %}<span class="wr__k">2025<br>3.13</span><b class="wr__name">シェ・カザマ（麹町）</b><span class="wr__t">ドラマ特別企画『わが家は楽し』／美鈴（山田杏奈）が働くパン店として使われ、和夫（髙橋海人）と美鈴の撮影が行われたパン店</span>{% include wr-close.html id="kingprince-d94dcf02-" %}</li>
+</ul>
+
+<h2 id="src6">{% include chico.html kind="studio" %}スタジオに料理が登場したお店</h2>
+<p>『King &amp; Princeる。』と『キントレ』の<strong>「当たり前レストラン」</strong>は、お店の料理がスタジオに出題され、料理名を当てたメンバーが試食するクイズ企画です。<strong>メンバーがお店に行ったわけではありません。</strong>料理と正解したメンバーは、わかっている回だけ載せています。2022〜2023年の放送は5人が在籍していたころで、平野紫耀・神宮寺勇太・岸優太は当時のメンバーです。スタジオの進行は劇団ひとり・山崎弘也です。</p>
+
+<h3>『King &amp; Princeる。』2022年6月〜9月（14軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-6fc6f3d9-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">ピアット・スズキ（麻布十番）</b><span class="wr__t">料理が出題されたイタリア料理店</span>{% include wr-close.html id="kingprince-6fc6f3d9-20220618" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-516fb6ba-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">陳家私菜 渋谷店</b><span class="wr__t">料理が出題された中華料理店</span>{% include wr-close.html id="kingprince-516fb6ba-20220618" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9ca66867-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">ブーランジェリー&amp;カフェ マンマーノ（代々木上原）</b><span class="wr__t">料理が出題されたベーカリーカフェ</span>{% include wr-close.html id="kingprince-9ca66867-20220618" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-f9639215-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">奥渋 魚力</b><span class="wr__t">あじなめろう定食／正解した5人が試食</span>{% include wr-close.html id="kingprince-f9639215-20220813" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-dc646f2a-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">沖縄懐石 赤坂潭亭</b><span class="wr__t">ラフテー／正解：平野紫耀・髙橋海人</span>{% include wr-close.html id="kingprince-dc646f2a-20220813" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-8c0bf4f0-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">チャオタイ 銀座店</b><span class="wr__t">ガパオライス／正解：永瀬廉・神宮寺勇太・岸優太</span>{% include wr-close.html id="kingprince-8c0bf4f0-20220813" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-a7ca9129-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">韓国食堂 入ル 坂上ル（恵比寿）</b><span class="wr__t">参鶏湯／正解：永瀬廉</span>{% include wr-close.html id="kingprince-a7ca9129-20220813" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-5400b983-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">フレデリック カッセル 銀座三越店</b><span class="wr__t">ミルフイユ・ヴァニーユ／正解：永瀬廉・髙橋海人・神宮寺勇太</span>{% include wr-close.html id="kingprince-5400b983-20220813" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-367cb2f4-20220903" %}<span class="wr__k">2022<br>9.3</span><b class="wr__name">香味（新橋）</b><span class="wr__t">魯肉飯／正解：平野紫耀・永瀬廉・岸優太・神宮寺勇太</span>{% include wr-close.html id="kingprince-367cb2f4-20220903" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-icaro_miyamoto-20220903" %}<span class="wr__k">2022<br>9.3</span><b class="wr__name">ICARO miyamoto（中目黒）</b><span class="wr__t">ジェノベーゼ／正解：岸優太</span>{% include wr-close.html id="kingprince-icaro_miyamoto-20220903" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-fc0eeee2-20220903" %}<span class="wr__k">2022<br>9.3</span><b class="wr__name">韓国農林水産大臣賞受賞 アス 下北沢店</b><span class="wr__t">サムギョプサル／正解した5人が試食</span>{% include wr-close.html id="kingprince-fc0eeee2-20220903" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-fujimori-20220903" %}<span class="wr__k">2022<br>9.3</span><b class="wr__name">FUJIMORI 鷺沼店（川崎市）</b><span class="wr__t">カヌレ／正解：髙橋海人・岸優太</span>{% include wr-close.html id="kingprince-fujimori-20220903" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-b3b48364-20220910" %}<span class="wr__k">2022<br>9.10</span><b class="wr__name">ごごチキン（浅草）</b><span class="wr__t">ヤンニョムチキン／正解：平野紫耀・神宮寺勇太・岸優太</span>{% include wr-close.html id="kingprince-b3b48364-20220910" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-cava_cavallo-20220910" %}<span class="wr__k">2022<br>9.10</span><b class="wr__name">CAVA CAVALLO（原宿）</b><span class="wr__t">ラザニア／正解した5人が試食</span>{% include wr-close.html id="kingprince-cava_cavallo-20220910" %}</li>
+</ul>
+
+<h3>『King &amp; Princeる。』2022年10月〜12月（14軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-291d6518-20221015" %}<span class="wr__k">2022<br>10.15</span><b class="wr__name">バルバッコア 青山本店</b><span class="wr__t">シュラスコ／正解：髙橋海人</span>{% include wr-close.html id="kingprince-291d6518-20221015" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-cabe-20221015" %}<span class="wr__k">2022<br>10.15</span><b class="wr__name">CABE（チャベ）（目黒）</b><span class="wr__t">ナシゴレン／正解：永瀬廉・髙橋海人・平野紫耀</span>{% include wr-close.html id="kingprince-cabe-20221015" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-la_tripletta-20221015" %}<span class="wr__k">2022<br>10.15</span><b class="wr__name">La TRIPLETTA（武蔵小山）</b><span class="wr__t">クアトロフォルマッジ／正解：髙橋海人</span>{% include wr-close.html id="kingprince-la_tripletta-20221015" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-racines_donut_ice_cr-20221015" %}<span class="wr__k">2022<br>10.15</span><b class="wr__name">RACINES DONUT&amp;ICE CREAM（表参道）</b><span class="wr__t">フレンチクルーラー／正解：髙橋海人・岸優太</span>{% include wr-close.html id="kingprince-racines_donut_ice_cr-20221015" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6b77790e-20221022" %}<span class="wr__k">2022<br>10.22</span><b class="wr__name">ブレッツカフェ クレープリー</b><span class="wr__t">ガレット コンプレット／正解：平野紫耀・神宮寺勇太・岸優太・髙橋海人（ゲストは田中圭）</span>{% include wr-close.html id="kingprince-6b77790e-20221022" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-andhra_dining_ginza-20221022" %}<span class="wr__k">2022<br>10.22</span><b class="wr__name">Andhra Dining GINZA</b><span class="wr__t">ハイデラバード・ダム・ビリヤニ／正解はゲストの田中圭だけで、メンバーは試食していません</span>{% include wr-close.html id="kingprince-andhra_dining_ginza-20221022" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6513cfda-20221022" %}<span class="wr__k">2022<br>10.22</span><b class="wr__name">富錦樹台菜香檳 コレド室町テラス店</b><span class="wr__t">富錦樹トウファ／正解：永瀬廉・髙橋海人・神宮寺勇太</span>{% include wr-close.html id="kingprince-6513cfda-20221022" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-0cbe6433-20221203" %}<span class="wr__k">2022<br>12.3</span><b class="wr__name">韓国家庭料理ハレルヤ（新大久保）</b><span class="wr__t">プルコギ／正解：髙橋海人・神宮寺勇太</span>{% include wr-close.html id="kingprince-0cbe6433-20221203" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-678c6452-20221203" %}<span class="wr__k">2022<br>12.3</span><b class="wr__name">ピッツェリア ダ グランツァ 洗足本店</b><span class="wr__t">ビスマルク／正解：神宮寺勇太</span>{% include wr-close.html id="kingprince-678c6452-20221203" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-6ee5087d-20221203" %}<span class="wr__k">2022<br>12.3</span><b class="wr__name">珈琲 王城（上野）</b><span class="wr__t">アフォガード／正解：神宮寺勇太・岸優太・髙橋海人</span>{% include wr-close.html id="kingprince-6ee5087d-20221203" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-88-20221210" %}<span class="wr__k">2022<br>12.10</span><b class="wr__name">88（パチパチ）（有楽町）</b><span class="wr__t">とんぺい焼／正解：永瀬廉・髙橋海人・神宮寺勇太・岸優太</span>{% include wr-close.html id="kingprince-88-20221210" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-2f025d31-20221210" %}<span class="wr__k">2022<br>12.10</span><b class="wr__name">赤坂 四川飯店（平河町）</b><span class="wr__t">油淋鶏／正解：永瀬廉・髙橋海人・平野紫耀・神宮寺勇太</span>{% include wr-close.html id="kingprince-2f025d31-20221210" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-sarabeths-20221210" %}<span class="wr__k">2022<br>12.10</span><b class="wr__name">Sarabeth’s（東京駅）</b><span class="wr__t">エッグベネディクト／正解：髙橋海人・岸優太</span>{% include wr-close.html id="kingprince-sarabeths-20221210" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-presquile_chocolater-20221210" %}<span class="wr__k">2022<br>12.10</span><b class="wr__name">PRESQU’ILE chocolaterie（吉祥寺）</b><span class="wr__t">フォンダンショコラ／正解：髙橋海人・岸優太</span>{% include wr-close.html id="kingprince-presquile_chocolater-20221210" %}</li>
+</ul>
+
+<h3>『King &amp; Princeる。』2023年3月〜5月（11軒）</h3>
+<p>3月4日は高級料理のスペシャルでした。5月20日のゴールデン2時間SPの「当たり前レストラン」は、スタジオではなく恵比寿のジョエル・ロブションで収録されています（ゲストは満島ひかり）。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-47c41cd2-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">ビストロカニッシュ（目黒）</b><span class="wr__t">ブイヤベース／正解：神宮寺勇太</span>{% include wr-close.html id="kingprince-47c41cd2-20230304" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-3a9cda24-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">天然とらふぐ専門 六本木浜藤</b><span class="wr__t">てっちり／正解：永瀬廉・髙橋海人</span>{% include wr-close.html id="kingprince-3a9cda24-20230304" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-41fc4dc8-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">ブラッスリー ポール・ボキューズ 銀座</b><span class="wr__t">ロッシーニ／正解：髙橋海人・神宮寺勇太</span>{% include wr-close.html id="kingprince-41fc4dc8-20230304" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-174af58e-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">ラ・ベットラ・ダ・オチアイ（銀座）</b><span class="wr__t">料理が出題されたイタリア料理店</span>{% include wr-close.html id="kingprince-174af58e-20230311" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-2b00f277-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">エビス バインミー ベーカリー</b><span class="wr__t">料理が出題されたバインミーの店</span>{% include wr-close.html id="kingprince-2b00f277-20230311" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-531da9bd-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">パティシエ シマ（麹町）</b><span class="wr__t">料理が出題された洋菓子店</span>{% include wr-close.html id="kingprince-531da9bd-20230311" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-8b0ad08d-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">マッサマン タイキッチン（神奈川県大磯町）</b><span class="wr__t">料理が出題されたタイ料理店</span>{% include wr-close.html id="kingprince-8b0ad08d-20230429" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-9caaae7c-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">桂屋（中野区）</b><span class="wr__t">料理が出題された飲食店</span>{% include wr-close.html id="kingprince-9caaae7c-20230429" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-ddabeb42-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">千とせ 本店（大阪・難波）</b><span class="wr__t">料理が出題された飲食店</span>{% include wr-close.html id="kingprince-ddabeb42-20230429" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-973526af-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">リリエンベルグ（川崎市）</b><span class="wr__t">料理が出題された洋菓子店</span>{% include wr-close.html id="kingprince-973526af-20230429" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-4ea5801b-" %}<span class="wr__k">2023<br>5.20</span><b class="wr__name">ジョエル・ロブション（恵比寿ガーデンプレイス）</b><span class="wr__t">ゴールデン2時間SPの「当たり前レストラン」が収録されたフランス料理店</span>{% include wr-close.html id="kingprince-4ea5801b-" %}</li>
+</ul>
+
+<h3>『キントレ』の当たり前レストラン 2024年4月（3軒）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="kingprince-ef97daf8-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">トーキョー カオマンガイ食堂（浅草）</b><span class="wr__t">カオマンガイ／正解：永瀬廉</span>{% include wr-close.html id="kingprince-ef97daf8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-d7ab04df-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">Pizzeria e trattoria da ISA（目黒区青葉台）</b><span class="wr__t">マルゲリータが出題されたピッツェリア</span>{% include wr-close.html id="kingprince-d7ab04df-" %}</li>
+  <li class="wr">{% include wr-open.html id="kingprince-eataly-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">EATALY 原宿店</b><span class="wr__t">マリトッツォが出題された、イータリー原宿店の中のカフェ</span>{% include wr-close.html id="kingprince-eataly-" %}</li>
+</ul>
+
+<p class="note">店名の上の日付は放送日（年・月.日）です。ドラマとアルバムの映像は年だけを書いています。放送日・料理・正解したメンバーは推しグルメ巡礼MAPのデータ（番組を記録したファンのブログをもとに確かめたもの）より。データのないものは書いていません。</p>
+
 <h2>King &amp; Princeの聖地 年表</h2>
 <p>放送・公開された時期ごとに、どの番組でお店が出てきたかを並べました。</p>
 <div class="faq"><details><summary>年表をひらく（2022年6月〜2026年3月）</summary>
@@ -230,270 +479,10 @@ faq:
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他64軒、食事29軒、カフェ22軒、和食12軒、居酒屋8軒、スイーツ6軒、ラーメン4軒、焼肉・中華2軒ずつ。場所は渋谷区14軒、港区12軒、品川区11軒、中央区10軒、千代田区9軒、大阪市9軒、目黒区6軒、大津市5軒、藤沢市・大田区・台東区・新宿区4軒ずつ、秩父市・南アルプス市・船橋市3軒ずつ、ほかは2軒以下の市区町村" width="420" height="1382" loading="lazy" decoding="async"><figcaption>この記事の149軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
-
-<h2>冠番組「King &amp; Princeる。」で行ったお店</h2>
-<p>日本テレビの『King &amp; Princeる。』のロケで、メンバーが訪れたお店です。どれも5人が在籍していたころの放送です。道の駅の3軒は、料理に使う食材を選んだり買ったりしたロケです。</p>
-<ul class="pf-works">
-  <li><span class="k">2023<br>1.1</span><div><b>大久手 山本屋（名古屋市）</b><span>元旦SP／岸優太・神宮寺勇太（当時のメンバー）が訪れた味噌煮込みうどんの店。岸優太が自分で店に電話して撮影の許可を取ったと紹介されました</span></div></li>
-  <li><span class="k">2023<br>2.25</span><div><b>道の駅常陸大宮～かわプラザ～（茨城県常陸大宮市）</b><span>道の駅3品クッキング／平野紫耀・岸優太・神宮寺勇太（当時のメンバー）が料理用の特産品を選んだ道の駅</span></div></li>
-  <li><span class="k">2023<br>4.15</span><div><b>道の駅 伊豆ゲートウェイ函南（静岡県函南町）</b><span>道の駅3品クッキング／平野紫耀・岸優太・神宮寺勇太（当時のメンバー）が食材を選んだ道の駅</span></div></li>
-  <li><span class="k">2023<br>5.20</span><div><b>道の駅ながおか花火館（新潟県長岡市）</b><span>ゴールデン2時間SPの新潟旅／神宮寺勇太（当時のメンバー）・永瀬廉・髙橋海人がピザ作りの食材を買った道の駅</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-fb2b6baa-20220807,kingprince-1da29986-,kingprince-ce21bf21-,kingprince-041fc524-" %}
-
-<h2>冠番組「キントレ」で行ったお店</h2>
-<p>日本テレビの『キントレ』で、永瀬廉・髙橋海人が訪れたお店です。企画ごとに分けました。</p>
-
-<h3>炊飯器の旅（髙橋海人）：20軒</h3>
-<p>髙橋海人が炊飯器を持って各地を回り、出会った人から食材を譲ってもらう企画です。食材を譲ってもらったお店では、店の料理を食べたかどうかがわからないものもあるので、わかっていることだけを書いています。</p>
-<ul class="pf-works">
-  <li><span class="k">2023<br>8.26</span><div><b>夢てらす みよまつ（千葉県勝浦市）</b><span>勝浦編／トコブシとにんじんを譲ってもらった、勝浦朝市の近くの飲食店</span></div></li>
-  <li><span class="k">2023<br>8.26</span><div><b>SPAiCE COFFEE HOUSE（千葉県勝浦市）</b><span>勝浦編／訪れたコーヒースタンド</span></div></li>
-  <li><span class="k">2023<br>9.30</span><div><b>ちちぶベーカリー（埼玉県秩父市）</b><span>秩父編／最初に訪れて、クルミデニッシュを買ったパン店</span></div></li>
-  <li><span class="k">2023<br>9.30</span><div><b>ニューみとや（埼玉県秩父市）</b><span>秩父編／訪れた洋菓子店</span></div></li>
-  <li><span class="k">2023<br>9.30</span><div><b>季節の酵母パン *苺*じるし（埼玉県秩父市）</b><span>秩父編／アポなしで訪れ、鹿肉のミンチを譲ってもらったパン店</span></div></li>
-  <li><span class="k">2023<br>11.11</span><div><b>Silver Lake Club + Tea（山梨県南アルプス市）</b><span>南アルプス市編／鞄店が営むサバサンドの店</span></div></li>
-  <li><span class="k">2023<br>11.11</span><div><b>和菓子店 瓦屋（山梨県南アルプス市）</b><span>南アルプス市編／シャインマスカットを譲ってもらった和菓子店</span></div></li>
-  <li><span class="k">2023<br>11.11</span><div><b>ベーカリー ルーブル（山梨県南アルプス市）</b><span>南アルプス市編／ワイン・チーズ・生ハムを譲ってもらったパン店</span></div></li>
-  <li><span class="k">2023<br>12.16</span><div><b>胡桃饅頭 吉田屋（茨城県笠間市）</b><span>笠間編／野菜を譲ってもらい、くるみ饅頭を買った饅頭店</span></div></li>
-  <li><span class="k">2023<br>12.16</span><div><b>ほんまや（茨城県笠間市）</b><span>笠間編／「もんじゃまん」を買った店</span></div></li>
-  <li><span class="k">2024<br>2.10</span><div><b>お食事処せきの（静岡県沼津市）</b><span>沼津編／訪れた沼津港の食堂（娘さんが髙橋海人のファンという店主の店）</span></div></li>
-  <li><span class="k">2024<br>2.10</span><div><b>静岡おでんごっちゃん（静岡県沼津市）</b><span>沼津編／訪れた静岡おでんの店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-e7dd7ece-,kingprince-spaice_coffee_house-,kingprince-cb8b1705-,kingprince-e0956958-,kingprince-a8b94a8a-,kingprince-silver_lake_club_tea-,kingprince-ece47ef8-,kingprince-4c156b83-,kingprince-71514552-,kingprince-c65e5e76-,kingprince-f5d9ad03-,kingprince-4c6c635a-" %}
-<ul class="pf-works">
-  <li><span class="k">2024<br>3.2</span><div><b>日光さかえや 揚げゆばまんじゅう本舗（栃木県日光市）</b><span>日光編／揚げゆばまんじゅうを食べた、東武日光駅前の店</span></div></li>
-  <li><span class="k">2024<br>3.2</span><div><b>日光けんちん汁 古はし（栃木県日光市）</b><span>日光編／訪れたけんちん汁の定食店（アイスホッケー選手の実家）</span></div></li>
-  <li><span class="k">2024<br>4.13</span><div><b>うらりマルシェ（神奈川県三浦市）</b><span>地元・三浦市編／まぐろ入りの「とろまん」を食べた三崎港の産直センター</span></div></li>
-  <li><span class="k">2024<br>4.13</span><div><b>ミサキプレッソ（神奈川県三浦市）</b><span>三浦市編／訪れた三崎の商店街のカフェ（児童合唱団が練習していた店）</span></div></li>
-  <li><span class="k">2024<br>9.14</span><div><b>小田原さかなセンター（神奈川県小田原市）</b><span>小田原編／高橋恭平（なにわ男子）と店の前でソフトクリームを食べた鮮魚センター</span></div></li>
-  <li><span class="k">2025<br>5.31</span><div><b>クーロンヌつくば（茨城県つくば市）</b><span>つくば編／ソーセージフランスを買ったパン店</span></div></li>
-  <li><span class="k">2025<br>7.26</span><div><b>チコパン×クゲヌマ（神奈川県藤沢市）</b><span>藤沢編／須賀健太とパンを食べた、鵠沼海岸のパン店</span></div></li>
-  <li><span class="k">2026<br>3.21</span><div><b>茶和々 成田店（千葉県成田市）</b><span>成田編／残ったお金で抹茶アイスと煎茶を買った、成田山参道の抹茶スイーツ店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-aeafee63-,kingprince-a12a3311-,kingprince-574d99fb-,kingprince-4ff22d20-,kingprince-9bb07d77-,kingprince-65fc5a18-,kingprince-603381f1-,kingprince-25bfcbb3-" %}
-
-<h3>バイトレ：メンバーが働いたお店（9軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>7.15</span><div><b>PARADI（兵庫県豊岡市）</b><span>髙橋海人／漫画家ひうらさとるのアシスタントをした回で、休憩中に訪れた城崎温泉のベーカリーカフェ</span></div></li>
-  <li><span class="k">2023<br>7.22</span><div><b>吉野家 有楽町店</b><span>永瀬廉が働いた吉野家の店舗</span></div></li>
-  <li><span class="k">2023<br>7.29</span><div><b>ドミノピザ 南馬込店</b><span>髙橋海人が働いた、イートインのあるドミノ・ピザの店舗</span></div></li>
-  <li><span class="k">2024<br>10.19</span><div><b>キッチンオリジン 京王永山店</b><span>永瀬廉が働いた、お弁当の持ち帰りの店舗</span></div></li>
-  <li><span class="k">2025<br>1.18</span><div><b>丸亀製麺 立川店</b><span>髙橋海人が働いた店舗（高校時代によく通っていたと話しました）</span></div></li>
-  <li><span class="k">2025<br>6.28</span><div><b>築地銀だこ 本店</b><span>髙橋海人が働いた本店</span></div></li>
-  <li><span class="k">2025<br>9.27</span><div><b>スターバックス コーヒー 目黒セントラルスクエア店</b><span>スターバックス回／髙橋海人が店員として働いた店舗</span></div></li>
-  <li><span class="k">2025<br>9.27</span><div><b>スターバックス コーヒー 目黒店</b><span>スターバックス回に出てきた、本社ビル1階の店舗</span></div></li>
-  <li><span class="k">2025<br>9.27</span><div><b>STARBUCKS RESERVE ROASTERY TOKYO</b><span>スターバックス回／髙橋海人が撮影で訪れたロースタリー</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-paradi-20230801,kingprince-70f61cc7-,kingprince-20819b44-,kingprince-352bfb01-,kingprince-28f5d80f-,kingprince-f30d7811-,kingprince-92e5e468-,kingprince-ea842b43-,kingprince-starbucks_reserve_r-" %}
-
-<h3>キントレガイドブック：船橋・練馬・蒲田（5軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2025<br>10.25</span><div><b>駄菓子屋リュウ君の店（千葉県船橋市）</b><span>船橋編／永瀬廉・髙橋海人が松倉海斗（Travis Japan）と、駄菓子のアレンジ料理を食べた駄菓子店</span></div></li>
-  <li><span class="k">2025<br>10.25</span><div><b>喫茶いずみ（千葉県船橋市）</b><span>船橋編／永瀬廉・髙橋海人が松倉海斗と訪れた喫茶店</span></div></li>
-  <li><span class="k">2025<br>10.25</span><div><b>963（くろさん）（千葉県船橋市）</b><span>船橋編で紹介された、クラムチャウダーのあるラーメン＆バー</span></div></li>
-  <li><span class="k">2025<br>12.6</span><div><b>麺屋有希（練馬区）</b><span>練馬編／永瀬廉が福士蒼汰・福原遥と、背脂納豆つけ麺を食べたラーメン店</span></div></li>
-  <li><span class="k">2025<br>12.13</span><div><b>レバーランド（蒲田）</b><span>蒲田編／髙橋海人が那須雄登（ACEes）とレバー料理を食べた立ち飲み店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-bf29f5cc-,kingprince-729d85c4-,kingprince-963-,kingprince-cdf24a3b-,kingprince-4ad4ffcc-" %}
-
-<h3>痩せの大食い三銃士！：戸越銀座（5軒）</h3>
-<p>2025年11月8日の放送で、永瀬廉が戸塚純貴・バッテリィズ エースと戸越銀座を食べ歩きました。</p>
-<ul class="pf-works">
-  <li><span class="k">2025<br>11.8</span><div><b>ななかふぇ 戸越銀座</b><span>大玉の焼き団子</span></div></li>
-  <li><span class="k">2025<br>11.8</span><div><b>かたばみ精肉店</b><span>コロッケや肉団子</span></div></li>
-  <li><span class="k">2025<br>11.8</span><div><b>おにぎり戸越屋 戸越銀座本店</b><span>大きいサイズのおにぎり</span></div></li>
-  <li><span class="k">2025<br>11.8</span><div><b>らーめん えにし</b><span>冷やしつけそばなど</span></div></li>
-  <li><span class="k">2025<br>11.8</span><div><b>後藤かまぼこ店</b><span>3人で立ち寄ったかまぼこ店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-76fb57d8-,kingprince-785776a2-,kingprince-8b19d7db-,kingprince-fd7d4301-,kingprince-92626c7f-" %}
-
-<h3>ピンキリ調査：ふぐ・ステーキ・町中華・自然薯（5軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>11.4</span><div><b>もみぢ（荻窪）</b><span>東京23区ピンキリ調査／永瀬廉が劇団ひとり・ヒコロヒーと訪れた、ふぐ・すっぽん料理の店</span></div></li>
-  <li><span class="k">2023<br>11.4</span><div><b>臼杵ふぐ 山田屋 丸の内</b><span>東京23区ピンキリ調査／髙橋海人が山崎弘也・ファーストサマーウイカと訪れた、丸ビルのふぐ料理店</span></div></li>
-  <li><span class="k">2023<br>11.4</span><div><b>コメトステーキ（江戸川区）</b><span>東京23区ピンキリ調査／永瀬廉が劇団ひとり・ヒコロヒーと訪れた、メニューが米とステーキだけの店</span></div></li>
-  <li><span class="k">2023<br>11.4</span><div><b>長崎 雲仙楼（文京区）</b><span>東京23区ピンキリ調査／髙橋海人が山崎弘也・ファーストサマーウイカと、ちゃんぽんやチャーハンを食べた町中華</span></div></li>
-  <li><span class="k">2024<br>12.21</span><div><b>自然薯専門店 麦とろ童子（静岡県熱海市）</b><span>ピンキリ調査隊in静岡／永瀬廉が劇団ひとりと、自然薯料理を食べた専門店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-837c5b45-,kingprince-a5f71e02-,kingprince-764ad1f6-,kingprince-349a23bd-,kingprince-2c54804c-" %}
-
-<h3>まかないハンター・道の駅3品クッキング（5軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>12.9</span><div><b>GINZA ABCラーメン</b><span>まかないハンター／永瀬廉がなすなかにしと訪れた銀座のラーメン店</span></div></li>
-  <li><span class="k">2023<br>12.9</span><div><b>EL CHATEO 銀座店</b><span>まかないハンター／永瀬廉が訪れた銀座のスペイン料理店</span></div></li>
-  <li><span class="k">2023<br>12.9</span><div><b>私厨房 勇（白金）</b><span>まかないハンター／永瀬廉が「オムライス天津飯」を食べた中華料理店</span></div></li>
-  <li><span class="k">2025<br>3.22</span><div><b>道の駅ふじおやま（静岡県小山町）</b><span>道の駅3品クッキング／永瀬廉・髙橋海人が中村海人（Travis Japan）と食材を選んだ道の駅</span></div></li>
-  <li><span class="k">2025<br>5.3</span><div><b>漁港の駅 TOTOCO小田原（神奈川県小田原市）</b><span>道の駅3品クッキング 小田原編／永瀬廉・髙橋海人が玉森裕太（Kis-My-Ft2）と食材を選んだ漁港の駅。永瀬廉はここでソフトクリームを食べました</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-ginza_abc-,kingprince-el_chateo-,kingprince-aa01a4f8-,kingprince-6968d4d4-,kingprince-totoco-" %}
-
-<h2>出演した番組で行ったお店</h2>
-<p>メンバーがゲストやロケで出演した、ほかの番組のお店です。</p>
-
-<h3>VS魂（フジテレビ）：岸優太の背徳グルメ（12軒）</h3>
-<p>岸優太（当時のメンバー）が出演した回です。どれもKing &amp; Princeに在籍していたころの放送です。</p>
-<ul class="pf-works">
-  <li><span class="k">2023<br>3.16</span><div><b>ワインバー nomuno（赤坂）</b><span>背徳グルメ 第2弾／チーズたっぷりのボロネーゼ</span></div></li>
-  <li><span class="k">2023<br>3.16</span><div><b>居酒屋 うっちゃり（新橋）</b><span>背徳グルメ 第2弾／鰻牛丼</span></div></li>
-  <li><span class="k">2023<br>3.16</span><div><b>エニシスタンド 御徒町店</b><span>背徳グルメ 第2弾／肉チーズ担々麺</span></div></li>
-  <li><span class="k">2023<br>3.16</span><div><b>吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店</b><span>背徳グルメ 第2弾／肉ドレス海鮮丼</span></div></li>
-  <li><span class="k">2023<br>3.16</span><div><b>牡蠣海鮮 かいり（渋谷）</b><span>背徳グルメ 第2弾／痛風鍋</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>SNOWY VILLAGE（新大久保）</b><span>背徳グルメ 第3弾／平子祐希（アルコ＆ピース）とチョコチュロス</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>COZY PLACE（新大久保）</b><span>背徳グルメ 第3弾／平子祐希とチーズトンカツ</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>韓国屋台ハンサム 汐留店</b><span>背徳グルメ 第3弾／平子祐希とチーズラッポッキ鍋</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>THE LIVING（大田区千鳥）</b><span>背徳グルメ 第3弾／巨大いちごパフェ</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>大衆食堂スタンド そのだ 五反田店</b><span>背徳グルメ 第3弾／平子祐希とチャーシューエッグ</span></div></li>
-  <li><span class="k">2023<br>5.11</span><div><b>深川つり舟（国立市）</b><span>背徳グルメ 第3弾／平子祐希と爆盛りかき揚げ丼</span></div></li>
-  <li><span class="k">2023<br>5.18</span><div><b>ロクシタンカフェ 渋谷店 ブーケ・ド・プロヴァンス</b><span>渋谷スペシャル（相葉雅紀・風間俊介・佐藤勝利・藤井流星・浮所飛貴と）のロケで使われた、渋谷駅前のカフェ</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-nomuno-,kingprince-11c39259-,kingprince-6216ca59-,kingprince-143c3cae-,kingprince-a5e65145-,kingprince-snowy_village-,kingprince-cozy_place-,kingprince-957158d8-,kingprince-the_living-,kingprince-95f9e823-,kingprince-7d1291c7-,kingprince-b6053fe5-" %}
-
-<h3>笑ってコラえて！（日本テレビ）：朝までハシゴの旅 大阪・福島（7軒）</h3>
-<p>2024年8月28日の放送で、永瀬廉が西畑大吾（なにわ男子）・正門良規（Aぇ! group）と大阪・福島の店をハシゴしました。訪れた順に並べています。</p>
-<ul class="pf-works">
-  <li><span class="k">1軒目</span><div><b>立呑み ぽっぽ亭</b><span>最初に飲んだ立ち飲みの店</span></div></li>
-  <li><span class="k">2軒目</span><div><b>隠れ韓国kitchen カンス</b><span>韓国料理の居酒屋</span></div></li>
-  <li><span class="k">3軒目</span><div><b>はち福</b><span>居酒屋（ニッポンの社長・辻と居合わせた店）</span></div></li>
-  <li><span class="k">4軒目</span><div><b>お酒とイタリやん</b><span>イタリアンの居酒屋</span></div></li>
-  <li><span class="k">5軒目</span><div><b>カフェアンドバー サボテン</b><span>カフェバー</span></div></li>
-  <li><span class="k">6軒目</span><div><b>Bar Lil farm</b><span>あいがけ麻婆カレーを食べたバー</span></div></li>
-  <li><span class="k">7軒目</span><div><b>大衆酒場うおまるスタンド 新福島店</b><span>最後に訪れた大衆酒場</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-8d5d65c4-,kingprince-kitchen-,kingprince-0102bcf9-,kingprince-66d643bc-,kingprince-25d8fc80-,kingprince-bar_lil_farm-,kingprince-c0675074-" %}
-
-<h3>プレミセ！（NHK BS）：永瀬廉・髙橋海人の滋賀（5軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>11.24</span><div><b>からっ風（大津市）</b><span>2人がビールで乾杯した店</span></div></li>
-  <li><span class="k">2023<br>11.24</span><div><b>元祖 阪本屋（大津市）</b><span>クイズの撮影場所になった、ふなずしの老舗</span></div></li>
-  <li><span class="k">2023<br>11.24</span><div><b>喜烙亭（大津市）</b><span>ビワマス親子丼の店（大津駅 徒歩3分）</span></div></li>
-  <li><span class="k">2023<br>11.24</span><div><b>魚清楼（大津市堅田）</b><span>湖魚を焼く場面が撮られた料理旅館</span></div></li>
-  <li><span class="k">2023<br>11.24</span><div><b>寿長生の郷（大津市）</b><span>茶室の場面が撮られた和菓子の里</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-6e95a860-,kingprince-ba0ed6c3-,kingprince-7e81f474-,kingprince-9752399b-,kingprince-4484df0c-" %}
-
-<h3>あの頃からわたしたちは（日本テレビ）：髙橋海人の湘南（4軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>12.26</span><div><b>DIEGO BY THE RIVER（神奈川県藤沢市）</b><span>湘南のダンサー仲間との同窓会が開かれたダイニングバー</span></div></li>
-  <li><span class="k">2024<br>6.23</span><div><b>しらす問屋 とびっちょ（江の島）</b><span>SOTA（BE:FIRST）・KAITAと江の島で立ち寄った、しらすパンの店（SOTAの思い出の味）</span></div></li>
-  <li><span class="k">2024<br>6.23</span><div><b>魚華（江の島）</b><span>SOTA・KAITAと海鮮の網焼きを食べた店</span></div></li>
-  <li><span class="k">2024<br>6.23</span><div><b>手もみラーメン たんぽぽ（神奈川県伊勢原市）</b><span>髙橋海人が15年ぶりに訪れた、思い出のラーメン店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-diego_by_the_river-,kingprince-6eb74219-,kingprince-11d8f601-,kingprince-08444027-" %}
-
-<h3>そのほかの出演番組（11軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2023<br>7.15</span><div><b>くわっち〜家（日本橋堀留町）</b><span>KinKi Kidsのブンブブーン（フジテレビ）／永瀬廉がKinKi Kidsと沖縄料理を味わった店</span></div></li>
-  <li><span class="k">2023<br>11.5</span><div><b>キッチンさん太（大田区）</b><span>行列のできる相談所（日本テレビ）のカレー企画／永瀬廉が真っ黒なカツカレーを食べた洋食店</span></div></li>
-  <li><span class="k">2023<br>11.9</span><div><b>フォルクス 高井戸東店</b><span>モニタリング（TBS）／永瀬廉が北村匠海とチーズケーキを注文したファミリーレストラン</span></div></li>
-  <li><span class="k">2024<br>6.10</span><div><b>渡辺食品（山梨県忍野村）</b><span>帰れマンデー見っけ隊!!（テレビ朝日）／永瀬廉が松田元太（Travis Japan）と串団子を食べた、忍野八海の団子・草餅の店</span></div></li>
-  <li><span class="k">2024<br>6.10</span><div><b>寿司華（山梨県富士吉田市）</b><span>帰れマンデー見っけ隊!!／永瀬廉と松田元太が訪れた1軒目の寿司店</span></div></li>
-  <li><span class="k">2024<br>6.10</span><div><b>蔵寿し（山梨県富士吉田市）</b><span>帰れマンデー見っけ隊!!／2軒目の寿司店</span></div></li>
-  <li><span class="k">2025<br>1.16</span><div><b>FRAMES CAFE（中目黒）</b><span>トークィーンズ（フジテレビ）／永瀬廉が事前取材の撮影でアイスティーとフライドポテトを頼んだカフェ</span></div></li>
-  <li><span class="k">2026<br>3.19</span><div><b>フクモリ（東神田）</b><span>モニタリング／永瀬廉がハンバーグ定食を食べた定食カフェ</span></div></li>
-  <li><span class="k">2026<br>3.19</span><div><b>TRATTORIA ISSEI（内神田）</b><span>モニタリング／ダイアン津田へのドッキリの舞台になったイタリア料理店</span></div></li>
-  <li><span class="k">2026<br>3.21</span><div><b>金龍ラーメン 御堂筋店（大阪・難波）</b><span>アナザースカイ（日本テレビ）／永瀬廉が松竹座の近くで訪れたラーメン店</span></div></li>
-  <li><span class="k">2026<br>3.21</span><div><b>お好み焼き とも（大阪府八尾市）</b><span>アナザースカイ／番組で紹介された、八尾の友人の実家のお好み焼き店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-4e7115c9-,kingprince-d9c32409-,kingprince-9f60d755-,kingprince-1953138f-,kingprince-5056bbfd-,kingprince-78afc2ee-,kingprince-frames_cafe-,kingprince-7a6fcc4c-,kingprince-trattoria_issei-,kingprince-76d19a8c-20240306,kingprince-419e4ff8-20240306" %}
-
-<h2>アルバムの映像・SNSに出てきたお店</h2>
-<ul class="pf-works">
-  <li><span class="k">2023</span><div><b>カレーレストラン 宝亭（静岡県熱海市）</b><span>ベストアルバム『Mr.5』Dear Tiara盤の特典映像「熱海小旅行」／当時の5人が訪れ、カツカレーやハヤシライスを食べたカレー店（店の公式投稿で5人の注文が紹介されています）</span></div></li>
-  <li><span class="k">2024<br>3.1</span><div><b>Bricolage bread &amp; co.（六本木）</b><span>永瀬廉がInstagramに、クロワッサンを食べている写真を投稿したカフェ併設のベーカリー</span></div></li>
-  <li><span class="k">2025</span><div><b>田園（八王子）</b><span>アルバム『STARRING』STARRING盤に収録された映像「4月1日」の撮影に使われた、八王子駅前の純喫茶</span></div></li>
-  <li><span class="k">2025</span><div><b>ペッパーズ ドライブイン（神奈川県平塚市）</b><span>アルバム『STARRING』収録の映像「Home, Stupid Home」（『Stereo Love』）の撮影に使われた、アメリカンダイナー風のカレー店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-f1628c30-,kingprince-bricolage_bread_co-,kingprince-77dc352b-,kingprince-peppers_drive_in-" %}
-
-<h2>メンバーが出演したドラマのロケ地</h2>
-<p>メンバーが出演したドラマの撮影に使われたお店です。役として食事をした場面の撮影場所で、メンバーが食べに行ったお店ではありません。</p>
-<ul class="pf-works">
-  <li><span class="k">2023</span><div><b>広島っ子（神楽坂・飯田橋）</b><span>『だが、情熱はある』（日本テレビ）第2話／若林（髙橋海人）と春日（戸塚純貴）がオーディションのあとに行ったお好み焼き店</span></div></li>
-  <li><span class="k">2023</span><div><b>PAPAS CAFE（広尾）</b><span>『だが、情熱はある』第7話／若林（髙橋海人）が木箱に入ってお弁当を売っていたカフェ</span></div></li>
-  <li><span class="k">2023</span><div><b>意気な寿し処阿部 青山店</b><span>『だが、情熱はある』第7話／若林と春日が事務所の社長と行った寿司店</span></div></li>
-  <li><span class="k">2023</span><div><b>喫茶シルビア 西新井店</b><span>『だが、情熱はある』第11話／若林がパソコンで原稿を書いていた喫茶店</span></div></li>
-  <li><span class="k">2024</span><div><b>横濱 鳥鮮（横浜市）</b><span>『厨房のありす』（日本テレビ）第5話／倖生（永瀬廉）と優作（前原瑞樹）が飲みに行った居酒屋の場面</span></div></li>
-  <li><span class="k">2024</span><div><b>リストランテサバティーニ青山</b><span>『厨房のありす』第7話／倖生（永瀬廉）が誕生日に松浦百花（大友花恋）と食事をしたイタリア料理店</span></div></li>
-  <li><span class="k">2024</span><div><b>TRATTORIA PER BACCO（南青山）</b><span>『東京タワー』（テレビ朝日。永瀬廉主演）第1話／透（永瀬廉）と詩史（板谷由夏）が食事をしたイタリア料理店</span></div></li>
-  <li><span class="k">2024</span><div><b>関根精肉店 八王子店</b><span>『東京タワー』第3話／透が耕二（松田元太）・楓（永瀬莉子）と同窓会をした居酒屋の撮影場所（実際はホルモン焼肉の店）</span></div></li>
-  <li><span class="k">2024</span><div><b>東龍（埼玉県川口市）</b><span>『東京タワー』第5話／透が耕二の彼女・ゆり（なえなの）と訪れた、高校時代に通っていたという設定のラーメン店</span></div></li>
-  <li><span class="k">2024</span><div><b>イカルカフェ（長野県軽井沢町）</b><span>『東京タワー』第7話／透と詩史が軽井沢でコーヒーを飲んだカフェ</span></div></li>
-  <li><span class="k">2025<br>3.13</span><div><b>シェ・カザマ（麹町）</b><span>ドラマ特別企画『わが家は楽し』／美鈴（山田杏奈）が働くパン店として使われ、和夫（髙橋海人）と美鈴の撮影が行われたパン店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-bacf4c89-,kingprince-papas_cafe-,kingprince-9c6ed0bc-,kingprince-8669f236-,kingprince-e615ef2c-,kingprince-4e9e2544-,kingprince-trattoria_per_bacco-,kingprince-671d5e14-,kingprince-dd03f0e4-,kingprince-6a87d740-,kingprince-d94dcf02-" %}
-
-<h2>スタジオに料理が登場したお店</h2>
-<p>『King &amp; Princeる。』と『キントレ』の<strong>「当たり前レストラン」</strong>は、お店の料理がスタジオに出題され、料理名を当てたメンバーが試食するクイズ企画です。<strong>メンバーがお店に行ったわけではありません。</strong>料理と正解したメンバーは、わかっている回だけ載せています。2022〜2023年の放送は5人が在籍していたころで、平野紫耀・神宮寺勇太・岸優太は当時のメンバーです。スタジオの進行は劇団ひとり・山崎弘也です。</p>
-
-<h3>『King &amp; Princeる。』2022年6月〜9月（14軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2022<br>6.18</span><div><b>ピアット・スズキ（麻布十番）</b><span>料理が出題されたイタリア料理店</span></div></li>
-  <li><span class="k">2022<br>6.18</span><div><b>陳家私菜 渋谷店</b><span>料理が出題された中華料理店</span></div></li>
-  <li><span class="k">2022<br>6.18</span><div><b>ブーランジェリー&amp;カフェ マンマーノ（代々木上原）</b><span>料理が出題されたベーカリーカフェ</span></div></li>
-  <li><span class="k">2022<br>8.13</span><div><b>奥渋 魚力</b><span>あじなめろう定食／正解した5人が試食</span></div></li>
-  <li><span class="k">2022<br>8.13</span><div><b>沖縄懐石 赤坂潭亭</b><span>ラフテー／正解：平野紫耀・髙橋海人</span></div></li>
-  <li><span class="k">2022<br>8.13</span><div><b>チャオタイ 銀座店</b><span>ガパオライス／正解：永瀬廉・神宮寺勇太・岸優太</span></div></li>
-  <li><span class="k">2022<br>8.13</span><div><b>韓国食堂 入ル 坂上ル（恵比寿）</b><span>参鶏湯／正解：永瀬廉</span></div></li>
-  <li><span class="k">2022<br>8.13</span><div><b>フレデリック カッセル 銀座三越店</b><span>ミルフイユ・ヴァニーユ／正解：永瀬廉・髙橋海人・神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>9.3</span><div><b>香味（新橋）</b><span>魯肉飯／正解：平野紫耀・永瀬廉・岸優太・神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>9.3</span><div><b>ICARO miyamoto（中目黒）</b><span>ジェノベーゼ／正解：岸優太</span></div></li>
-  <li><span class="k">2022<br>9.3</span><div><b>韓国農林水産大臣賞受賞 アス 下北沢店</b><span>サムギョプサル／正解した5人が試食</span></div></li>
-  <li><span class="k">2022<br>9.3</span><div><b>FUJIMORI 鷺沼店（川崎市）</b><span>カヌレ／正解：髙橋海人・岸優太</span></div></li>
-  <li><span class="k">2022<br>9.10</span><div><b>ごごチキン（浅草）</b><span>ヤンニョムチキン／正解：平野紫耀・神宮寺勇太・岸優太</span></div></li>
-  <li><span class="k">2022<br>9.10</span><div><b>CAVA CAVALLO（原宿）</b><span>ラザニア／正解した5人が試食</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-6fc6f3d9-20220618,kingprince-516fb6ba-20220618,kingprince-9ca66867-20220618,kingprince-f9639215-20220813,kingprince-dc646f2a-20220813,kingprince-8c0bf4f0-20220813,kingprince-a7ca9129-20220813,kingprince-5400b983-20220813,kingprince-367cb2f4-20220903,kingprince-icaro_miyamoto-20220903,kingprince-fc0eeee2-20220903,kingprince-fujimori-20220903" %}
-{% include inline-shop-grid.html ids="kingprince-b3b48364-20220910,kingprince-cava_cavallo-20220910" %}
-
-<h3>『King &amp; Princeる。』2022年10月〜12月（14軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2022<br>10.15</span><div><b>バルバッコア 青山本店</b><span>シュラスコ／正解：髙橋海人</span></div></li>
-  <li><span class="k">2022<br>10.15</span><div><b>CABE（チャベ）（目黒）</b><span>ナシゴレン／正解：永瀬廉・髙橋海人・平野紫耀</span></div></li>
-  <li><span class="k">2022<br>10.15</span><div><b>La TRIPLETTA（武蔵小山）</b><span>クアトロフォルマッジ／正解：髙橋海人</span></div></li>
-  <li><span class="k">2022<br>10.15</span><div><b>RACINES DONUT&amp;ICE CREAM（表参道）</b><span>フレンチクルーラー／正解：髙橋海人・岸優太</span></div></li>
-  <li><span class="k">2022<br>10.22</span><div><b>ブレッツカフェ クレープリー</b><span>ガレット コンプレット／正解：平野紫耀・神宮寺勇太・岸優太・髙橋海人（ゲストは田中圭）</span></div></li>
-  <li><span class="k">2022<br>10.22</span><div><b>Andhra Dining GINZA</b><span>ハイデラバード・ダム・ビリヤニ／正解はゲストの田中圭だけで、メンバーは試食していません</span></div></li>
-  <li><span class="k">2022<br>10.22</span><div><b>富錦樹台菜香檳 コレド室町テラス店</b><span>富錦樹トウファ／正解：永瀬廉・髙橋海人・神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>12.3</span><div><b>韓国家庭料理ハレルヤ（新大久保）</b><span>プルコギ／正解：髙橋海人・神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>12.3</span><div><b>ピッツェリア ダ グランツァ 洗足本店</b><span>ビスマルク／正解：神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>12.3</span><div><b>珈琲 王城（上野）</b><span>アフォガード／正解：神宮寺勇太・岸優太・髙橋海人</span></div></li>
-  <li><span class="k">2022<br>12.10</span><div><b>88（パチパチ）（有楽町）</b><span>とんぺい焼／正解：永瀬廉・髙橋海人・神宮寺勇太・岸優太</span></div></li>
-  <li><span class="k">2022<br>12.10</span><div><b>赤坂 四川飯店（平河町）</b><span>油淋鶏／正解：永瀬廉・髙橋海人・平野紫耀・神宮寺勇太</span></div></li>
-  <li><span class="k">2022<br>12.10</span><div><b>Sarabeth’s（東京駅）</b><span>エッグベネディクト／正解：髙橋海人・岸優太</span></div></li>
-  <li><span class="k">2022<br>12.10</span><div><b>PRESQU’ILE chocolaterie（吉祥寺）</b><span>フォンダンショコラ／正解：髙橋海人・岸優太</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-291d6518-20221015,kingprince-cabe-20221015,kingprince-la_tripletta-20221015,kingprince-racines_donut_ice_cr-20221015,kingprince-6b77790e-20221022,kingprince-andhra_dining_ginza-20221022,kingprince-6513cfda-20221022,kingprince-0cbe6433-20221203,kingprince-678c6452-20221203,kingprince-6ee5087d-20221203,kingprince-88-20221210,kingprince-2f025d31-20221210" %}
-{% include inline-shop-grid.html ids="kingprince-sarabeths-20221210,kingprince-presquile_chocolater-20221210" %}
-
-<h3>『King &amp; Princeる。』2023年3月〜5月（11軒）</h3>
-<p>3月4日は高級料理のスペシャルでした。5月20日のゴールデン2時間SPの「当たり前レストラン」は、スタジオではなく恵比寿のジョエル・ロブションで収録されています（ゲストは満島ひかり）。</p>
-<ul class="pf-works">
-  <li><span class="k">2023<br>3.4</span><div><b>ビストロカニッシュ（目黒）</b><span>ブイヤベース／正解：神宮寺勇太</span></div></li>
-  <li><span class="k">2023<br>3.4</span><div><b>天然とらふぐ専門 六本木浜藤</b><span>てっちり／正解：永瀬廉・髙橋海人</span></div></li>
-  <li><span class="k">2023<br>3.4</span><div><b>ブラッスリー ポール・ボキューズ 銀座</b><span>ロッシーニ／正解：髙橋海人・神宮寺勇太</span></div></li>
-  <li><span class="k">2023<br>3.11</span><div><b>ラ・ベットラ・ダ・オチアイ（銀座）</b><span>料理が出題されたイタリア料理店</span></div></li>
-  <li><span class="k">2023<br>3.11</span><div><b>エビス バインミー ベーカリー</b><span>料理が出題されたバインミーの店</span></div></li>
-  <li><span class="k">2023<br>3.11</span><div><b>パティシエ シマ（麹町）</b><span>料理が出題された洋菓子店</span></div></li>
-  <li><span class="k">2023<br>4.29</span><div><b>マッサマン タイキッチン（神奈川県大磯町）</b><span>料理が出題されたタイ料理店</span></div></li>
-  <li><span class="k">2023<br>4.29</span><div><b>桂屋（中野区）</b><span>料理が出題された飲食店</span></div></li>
-  <li><span class="k">2023<br>4.29</span><div><b>千とせ 本店（大阪・難波）</b><span>料理が出題された飲食店</span></div></li>
-  <li><span class="k">2023<br>4.29</span><div><b>リリエンベルグ（川崎市）</b><span>料理が出題された洋菓子店</span></div></li>
-  <li><span class="k">2023<br>5.20</span><div><b>ジョエル・ロブション（恵比寿ガーデンプレイス）</b><span>ゴールデン2時間SPの「当たり前レストラン」が収録されたフランス料理店</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-47c41cd2-20230304,kingprince-3a9cda24-20230304,kingprince-41fc4dc8-20230304,kingprince-174af58e-20230311,kingprince-2b00f277-20230311,kingprince-531da9bd-20230311,kingprince-8b0ad08d-20230429,kingprince-9caaae7c-20230429,kingprince-ddabeb42-20230429,kingprince-973526af-20230429,kingprince-4ea5801b-" %}
-
-<h3>『キントレ』の当たり前レストラン 2024年4月（3軒）</h3>
-<ul class="pf-works">
-  <li><span class="k">2024<br>4.13</span><div><b>トーキョー カオマンガイ食堂（浅草）</b><span>カオマンガイ／正解：永瀬廉</span></div></li>
-  <li><span class="k">2024<br>4.13</span><div><b>Pizzeria e trattoria da ISA（目黒区青葉台）</b><span>マルゲリータが出題されたピッツェリア</span></div></li>
-  <li><span class="k">2024<br>4.13</span><div><b>EATALY 原宿店</b><span>マリトッツォが出題された、イータリー原宿店の中のカフェ</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="kingprince-ef97daf8-,kingprince-d7ab04df-,kingprince-eataly-" %}
-<p class="note">左の数字は放送日（年・月.日）です。ドラマとアルバムの映像は年だけを書いています。放送日・料理・正解したメンバーは推しグルメ巡礼MAPのデータ（番組を記録したファンのブログをもとに確かめたもの）より。データのないものは書いていません。</p>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他64軒、食事29軒、カフェ22軒、和食12軒、居酒屋8軒、スイーツ6軒、ラーメン4軒、焼肉・中華2軒ずつ。場所は渋谷区14軒、港区12軒、品川区11軒、中央区10軒、千代田区9軒、大阪市9軒、目黒区6軒、大津市5軒、藤沢市・大田区・台東区・新宿区4軒ずつ、秩父市・南アルプス市・船橋市3軒ずつ、ほかは2軒以下の市区町村" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の149軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら：まずは東京（88軒）</h2>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/map.svg" alt="King & Princeが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
 <p>住所・最寄り駅は推しグルメ巡礼MAPのデータより。「当たり前レストラン」のお店は、メンバーが行ったお店ではなく、料理がスタジオに出たお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・築地・日本橋（12軒）</strong>：キントレのまかないハンターのGINZA ABCラーメン（銀座3丁目）とEL CHATEO 銀座店（銀座駅 徒歩3分）、バイトレの吉野家 有楽町店と築地銀だこ 本店（築地市場駅 徒歩6分）、ブンブブーンのくわっち〜家（日本橋堀留町）。当たり前レストランのフレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Andhra Dining GINZA（銀座一丁目駅 徒歩3分）・チャオタイ 銀座店・ブラッスリー ポール・ボキューズ 銀座・ラ・ベットラ・ダ・オチアイ・88（有楽町1丁目）・富錦樹台菜香檳（日本橋室町）。</li>
