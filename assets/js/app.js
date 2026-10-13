@@ -57,7 +57,7 @@
       '<div class="row__body">' + meta(r) +
       '<a class="row__name" href="' + BASE + '/shops/' + (r[I.u] || r[I.id]) + '/">' + esc(r[I.n]) + '</a>' +
       '<p class="card__st">' + esc(r[I.st] || r[I.p]) + (mem ? '・' + esc(mem) : '') + '</p>' +
-      '<p class="row__tags">' + (r[I.x] ? '<span class="badge badge--closed">閉店</span>' : '') + (r[I.r] ? '<span class="badge--ok badge">予約可</span>' : '') + (r[I.src] ? '<span class="row__src">' + esc(r[I.src]) + '</span>' : '') + '</p>' +
+      '<p class="row__tags">' + (r[I.x] ? '<span class="badge badge--closed">閉店</span>' : '') + (r[I.r] ? '<span class="badge--ok badge">予約可</span>' : '') + (r[I.src] ? '<span class="row__src">' + esc(r[I.src]) + '</span>' : '') + '<span class="row__go">詳しく<span aria-hidden="true"> ›</span></span></p>' +
       '</div><button type="button" class="fav-btn" data-fav="' + esc(r[I.id]) + '" aria-pressed="false" aria-label="' + esc(r[I.n]) + 'を保存"><span>保存</span></button></div>';
   }
   // 並び替え（閉店は最後）。how: new / video / book / name

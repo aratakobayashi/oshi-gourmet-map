@@ -204,6 +204,11 @@ def main():
             'm': (s.get('members') or [])[:2], 'p': s.get('prefecture', ''),
             'src': (s.get('source_video_title') or '')[:40],
         }
+        # 記事の店の行に出す予約・食べログのボタン（食べログは店ページを確かめた店だけ）
+        if s.get('hotpepper_url'):
+            cards[s['id']]['hp'] = s['hotpepper_url']
+        if s.get('tabelog_verified') and s.get('tabelog_url'):
+            cards[s['id']]['tb'] = s['tabelog_url']
         if not s.get('youtube_id') and not s.get('hotpepper_photo') and shared_img[s.get('thumbnail_url')] >= 4:
             cards[s['id']]['sp'] = 1
         hk = hotel_keyword(s, st)

@@ -185,7 +185,7 @@ button.chip { cursor: pointer; }
 .card:hover { text-decoration: none; border-color: var(--line-strong); }
 .card .thumb { border-radius: 0; }
 @media (min-width: 1024px) { .card .thumb { aspect-ratio: 16 / 10; } }
-.card__body { padding: var(--s-3); display: flex; flex-direction: column; gap: 2px; }
+.card__body { padding: var(--s-3); display: flex; flex-direction: column; gap: 2px; flex: 1; }
 .card__meta { display: flex; align-items: center; gap: 5px; font-size: 12px; color: var(--ink-2); line-height: 1.4; }
 .card__meta .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--g); flex: none; }
 .card__name { font-size: var(--fs-card); font-weight: 700; line-height: 1.4; }
@@ -854,3 +854,57 @@ a.badge { min-height: 32px; }
 /* 記事の店のカード列は、画面に近づくまで描画しない（店の多いまとめ記事で表示直後に固まらないように） */
 .hscroll { content-visibility: auto; contain-intrinsic-size: auto 290px; }
 .pf-works { content-visibility: auto; contain-intrinsic-size: auto 480px; }
+
+/* まとめ記事: お店の行（写真＋店名＋回・メンバー・食べた物。押すとお店のページ） */
+.wrs { list-style: none; padding: 0; margin: var(--s-4) 0 var(--s-6); display: grid; gap: var(--s-3); content-visibility: auto; contain-intrinsic-size: auto 900px; }
+.wr { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); overflow: hidden; }
+.wr__link { display: grid; grid-template-columns: 112px 1fr; gap: var(--s-3); padding: var(--s-3); color: var(--ink); align-items: start; }
+.wr__link:hover { text-decoration: none; background: color-mix(in srgb, var(--g, var(--accent)) 6%, var(--surface)); }
+.wr__link--none { grid-template-columns: 1fr; }
+.wr__link .thumb { width: 112px; height: 84px; aspect-ratio: auto; border-radius: 8px; }
+.wr__body { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.wr__k { font-size: 12px; font-weight: 700; color: var(--ink-2); letter-spacing: .02em; }
+.wr__name { font-size: 16px; line-height: 1.4; }
+.wr__t { font-size: 13px; line-height: 1.6; color: var(--ink-2); }
+.wr__go { margin-top: 4px; font-size: 13px; font-weight: 700; color: var(--accent-ink); }
+.wr__link:hover .wr__go { text-decoration: underline; }
+.wr__btns { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 var(--s-3) var(--s-3); }
+.wr__btn { display: inline-flex; align-items: center; height: 32px; padding: 0 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); font-size: 12.5px; font-weight: 700; }
+.wr__btn:hover { text-decoration: none; border-color: var(--ink-2); }
+.wr__btn--book { background: var(--accent); border-color: var(--accent); color: #fff; }
+@media (min-width: 768px) { .wr__link { grid-template-columns: 160px 1fr; } .wr__link .thumb { width: 160px; height: 120px; } .wr__btns { padding-left: calc(160px + var(--s-3) * 2); margin-top: -6px; } }
+
+/* まとめ記事: 冒頭の「出典で選ぶ」「メンバーで選ぶ」 */
+.cnav, .mnav { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: var(--s-4); margin: var(--s-4) 0; }
+.cnav__h, .mnav__h { font-size: 14px; font-weight: 800; margin-bottom: var(--s-2); }
+.cnav__list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.cnav__list a { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 10px; background: color-mix(in srgb, var(--pc, var(--accent)) 8%, #fff); color: var(--ink); font-size: 13.5px; font-weight: 700; line-height: 1.35; }
+.cnav__list a:hover { text-decoration: none; background: color-mix(in srgb, var(--pc, var(--accent)) 16%, #fff); }
+.cnav__list svg { flex: none; width: 26px; height: 26px; }
+.cnav__list small { display: block; font-weight: 400; font-size: 12px; color: var(--ink-2); }
+.mnav__list { display: flex; flex-wrap: wrap; gap: 8px; }
+.mnav__m { display: inline-flex; align-items: baseline; gap: 6px; padding: 8px 12px; border-radius: var(--r-pill); border: 1.5px solid color-mix(in srgb, var(--g) 50%, #fff); color: var(--ink); font-size: 13.5px; }
+.mnav__m:hover { text-decoration: none; background: color-mix(in srgb, var(--g) 10%, #fff); }
+.mnav__m span { font-size: 12px; color: var(--ink-2); }
+.mnav__note { font-size: 12px; color: var(--ink-2); margin-top: var(--s-2); }
+.pf h2 .chico { display: inline-block; width: 30px; height: 30px; vertical-align: -6px; margin-right: 6px; }
+
+/* お店のカード・行に「詳しく見る」をはっきり */
+.card__go { margin-top: auto; padding-top: 6px; font-size: 12.5px; font-weight: 700; color: var(--accent-ink); }
+.row__go { font-size: 12px; font-weight: 700; color: var(--accent-ink); margin-left: auto; white-space: nowrap; }
+/* グループページ上部の「まとめ記事」 */
+.gfeat { display: grid; grid-template-columns: 128px 1fr; gap: var(--s-3); align-items: center; margin: var(--s-4) 0 0; padding: var(--s-3); background: var(--surface); border: 1.5px solid color-mix(in srgb, var(--g) 45%, #fff); border-radius: var(--r-md); color: var(--ink); }
+.gfeat:hover { text-decoration: none; background: color-mix(in srgb, var(--g) 6%, var(--surface)); }
+.gfeat img { width: 128px; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 8px; }
+.gfeat__body { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.gfeat__body small { font-size: 12px; font-weight: 800; color: color-mix(in srgb, var(--g) 80%, #20160f); }
+.gfeat__body b { font-size: 14px; line-height: 1.45; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+.gfeat__go { font-size: 12.5px; font-weight: 700; color: var(--accent-ink); }
+@media (min-width: 768px) { .gfeat { grid-template-columns: 200px 1fr; } .gfeat img { width: 200px; } .gfeat__body b { font-size: 16px; } }
+.prose .wrs { list-style: none; padding-left: 0; }
+.prose .wrs li + li { margin-top: 0; }
+.prose .wr a, .prose .cnav a, .prose .mnav a, .gfeat { text-decoration: none; }
+.cnav__list { grid-template-columns: 1fr; }
+.cnav__list a span { flex: 1; display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.cnav__list small { white-space: nowrap; }
+@media (min-width: 768px) { .cnav__list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }

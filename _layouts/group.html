@@ -29,6 +29,16 @@ layout: default
   </div>
 </div>
 
+{%- assign _gms = site.posts | where: "group", key | where: "article_type", "matome" %}
+{%- assign _gm = _gms | where_exp: "p", "p.url contains 'gourmet-matome'" | first | default: _gms.first %}
+{%- if _gm %}
+<div class="wrap">
+  <a class="gfeat" href="{{ _gm.url | relative_url }}" style="--g:{{ gcolor }}">
+    {%- if _gm.thumbnail_video_id %}<img src="https://i.ytimg.com/vi_webp/{{ _gm.thumbnail_video_id }}/mqdefault.webp" alt="" width="320" height="180" decoding="async">{% elsif _gm.thumbnail %}<img src="{{ _gm.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="320" height="180" decoding="async">{% endif %}
+    <span class="gfeat__body"><small>まとめ記事</small><b>{{ _gm.title }}</b><span class="gfeat__go">回・メンバー・食べた物つきで読む<span aria-hidden="true"> ›</span></span></span>
+  </a>
+</div>
+{%- endif %}
 <div class="wrap">
   <div class="cols">
     <div class="cols__side">

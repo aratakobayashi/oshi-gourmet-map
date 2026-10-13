@@ -1,0 +1,5 @@
+{%- comment -%} 記事の店の行の後半（wr-open.html と組で使う）。お店のページへの案内と、予約・食べログのボタン {%- endcomment -%}
+{%- assign _c = site.data.shop_cards[include.id] -%}
+{%- if _c -%}<span class="wr__go">お店の詳細を見る<span aria-hidden="true"> ›</span></span></span></a>
+{%- if _c.hp or _c.tb %}<span class="wr__btns">{% if _c.hp %}{% include affiliate-link.html url=_c.hp label="ホットペッパーで予約" class="wr__btn wr__btn--book" %}{% endif %}{% if _c.tb %}{% include affiliate-link.html url=_c.tb label="食べログで見る" class="wr__btn" service="tabelog" %}{% endif %}</span>{% endif %}
+{%- else -%}</span></span>{%- endif -%}

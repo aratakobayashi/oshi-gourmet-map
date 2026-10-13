@@ -1,0 +1,9 @@
+{%- comment -%} まとめ記事の「メンバーで選ぶ」。グループのメンバーごとの店の数と、地図・一覧での絞り込みへのリンク。引数: group {%- endcomment -%}
+{%- assign _mg = site.data.group_meta | where: "id", include.group | first -%}
+{%- if _mg and _mg.members.size > 1 -%}
+<div class="mnav">
+  <p class="mnav__h">メンバーで選ぶ</p>
+  <div class="mnav__list">{% for _m in _mg.members %}<a class="mnav__m" style="--g:{{ _mg.color }}" href="/shops/?g={{ include.group }}&amp;m={{ include.group }}:{{ _m.name | url_encode }}"><b>{{ _m.name }}</b><span>{{ _m.count }}軒</span></a>{% endfor %}</div>
+  <p class="mnav__note">押すと、そのメンバーが行ったお店を地図と一覧で見られます。</p>
+</div>
+{%- endif -%}

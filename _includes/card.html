@@ -9,6 +9,7 @@
     <p class="card__name">{{ _c.n }}</p>
     {%- if _c.st != '' %}<p class="card__st">{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}</p>{% endif %}
     {%- if _c.r == 1 %}<p class="card__bk"><span class="badge--ok badge">予約可</span></p>{% endif %}
+    <p class="card__go">詳しく見る<span aria-hidden="true"> ›</span></p>
     {%- if include.m %}<p class="card__dist">{{ include.from | default: 'ここ' }}から{% if include.m >= 1000 %}{{ include.m | divided_by: 100 | divided_by: 10.0 }}km{% else %}{{ include.m }}m{% endif %}</p>{% endif %}
   </div>
 </a>
