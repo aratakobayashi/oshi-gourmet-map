@@ -11,6 +11,7 @@ check_articles.py
 使い方:
   python scripts/check_articles.py          # 確認だけ
   python scripts/check_articles.py --fix    # 直して保存
+  python scripts/check_articles.py --strict # ないIDがあれば終了コード1（週1回の自動更新で commit を止める）
 """
 
 import argparse
@@ -54,6 +55,7 @@ def set_fm_ids(fm, ids):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--fix', action='store_true')
+    ap.add_argument('--strict', action='store_true')
     args = ap.parse_args()
     known = {s['id'] for s in json.load(open(SHOPS_PATH, encoding='utf-8'))}
 
@@ -96,6 +98,8 @@ def main():
             print(f'  → 修正: shop_ids {len(before)} → {len(ids)}')
     if not args.fix:
         print(f'shops.json にないID: 計{problems}件' + ('（--fix で直せます）' if problems else ''))
+    if args.strict and problems:
+        raise SystemExit(1)
 
 
 if __name__ == '__main__':

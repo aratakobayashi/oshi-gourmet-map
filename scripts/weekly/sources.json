@@ -1,0 +1,21 @@
+{
+  "_説明": "週1回の自動更新（scripts/weekly/run.py）が読む情報源。adapter は scripts/weekly/<adapter>.py。enabled を false にすると止まる。lookback_days は前回読んだ日より何日前から読み直すか（店ページが後から埋まる回を拾い直す。足し済みの店は merge_candidates.py が重複として外す）。",
+  "sources": [
+    {"id": "machichuka", "adapter": "machichuka", "name": "町中華で飲ろうぜ（BS-TBS 公式XML）", "enabled": true, "lookback_days": 14},
+    {"id": "sakaba_horoki", "adapter": "sakaba", "name": "吉田類の酒場放浪記（BS-TBS 店ページの番号の続き）", "enabled": true, "lookback": 2, "max_missing": 4},
+    {"id": "burari", "adapter": "burari", "name": "ぶらり途中下車の旅（日本テレビ articles.js）", "enabled": true, "lookback_days": 14},
+    {"id": "syokusai", "adapter": "syokusai", "name": "食彩の王国（テレビ朝日 api/shop.json）", "enabled": true, "lookback_days": 14},
+    {"id": "omouma", "adapter": "omouma", "name": "オモウマい店（中京テレビ feed/onair-1.json）", "enabled": true, "lookback_days": 14},
+    {
+      "id": "youtube",
+      "adapter": "youtube",
+      "name": "YouTube チャンネルの説明文",
+      "enabled": true,
+      "_channels_の書き方": "channel_id（UC…）・name（表示用）・group（_data/groups.json にあるID）・format（credit_hotpepper＝「撮影協力」の店名をホットペッパーAPIで1軒に決める / name_address＝説明文に「店名：」「住所：」の行がある。name_label・address_label で見出しの言葉を正規表現で変えられる）・members（「出演」の行がないときの出演者）・skip_title（題名がこれに当たる動画は読まない。正規表現）。書式が分からないチャンネルは format を空にしておくと、Summary に「書式が未設定」と出るだけで何も足さない。",
+      "channels": [
+        {"channel_id": "UCfvohDfHt1v5N8l3BzPRsWQ", "name": "乃木坂配信中", "group": "nogizaka46", "format": "credit_hotpepper", "lookback_days": 14}
+      ],
+      "_食べ歩きYouTuberの候補": "説明文に店名と住所が決まった形で載るチャンネルが見つかったら channels に足す（group は先に python scripts/add_group.py で作る）。例: {\"channel_id\": \"UC...\", \"name\": \"…\", \"group\": \"…\", \"format\": \"name_address\", \"members\": [\"…\"]}"
+    }
+  ]
+}

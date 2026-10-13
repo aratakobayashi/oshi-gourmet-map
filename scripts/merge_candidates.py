@@ -3,10 +3,11 @@ merge_candidates.py
 調べた候補JSON（{"new":[...],"attach":[...]}）を確かめて data/shops.json に足す。
 採用: confidence high/mid・visit_type visit・住所あり（needs_address でない）・youtube_id 11文字・国土地理院で番地まで一致（海外は除外）
 attach: high/mid で、既存店に youtube_id がない場合だけ付ける。
-使い方: python scripts/merge_candidates.py <候補.json> <group> [--write]
+使い方: python scripts/merge_candidates.py <候補.json> <group> [--write] [--report <結果.json>]
   group に - を渡すと、候補ごとの group 項目を使う（ジュニアCHANNELなど複数グループの候補）。
   候補の項目: name address prefecture city genre members visited_date youtube_id（または thumbnail_url=TMDB画像・tmdb_id・program） source_video_title
              source_url confidence(high/mid/low) visit_type(visit/...) needs_address closed ordered_items
+             tabelog_url＋tabelog_verified（番組公式ページに載っている食べログ） hotpepper_url（ホットペッパーAPIで決めた店）
 書き込んだあとは bash scripts/build_pages.sh でページを作り直す。"""
 import json, re, sys, time, hashlib, unicodedata, urllib.request, urllib.parse
 import os
@@ -56,7 +57,7 @@ for x in d.get('new', []):
     elif not x.get('prefecture'): why = 'overseas'
     elif not g: why = 'no-group'
     elif key(x) in names.get(g, set()): why = 'dup-name'
-    if why: skipped.append((why, x['name'])); continue
+    if why: skipped.append(dict(why=why, name=x['name'], group=g, detail='')); continue
     addr = x['address']
     q = urllib.parse.quote(re.split(r'[\s　]', addr)[0])
     try:
@@ -64,18 +65,18 @@ for x in d.get('new', []):
     except Exception:
         r = []
     time.sleep(0.4)
-    if not r: skipped.append(('geocode', x['name'])); continue
+    if not r: skipped.append(dict(why='geocode', name=x['name'], group=g, detail=addr)); continue
     title = r[0]['properties']['title']; lng, lat = r[0]['geometry']['coordinates']
     a, b = nums(addr), nums(title)
     unver = False
     if not same_place(addr, title) and not (len(b) >= 2 and a[:len(b)] == b and n(title)[:3] == n(addr)[:3]):
-        skipped.append(('geocode-mismatch', x['name'] + ' / ' + title)); continue
+        skipped.append(dict(why='geocode-mismatch', name=x['name'], group=g, detail=addr + ' → ' + title)); continue
     if not b or (len(b) < 2 and not re.search(r'番地?$|番\d', kan2(title))):
         if x.get('confidence') != 'high':
-            skipped.append(('geocode-coarse', x['name'] + ' / ' + title)); continue
+            skipped.append(dict(why='geocode-coarse', name=x['name'], group=g, detail=addr + ' → ' + title)); continue
         unver = True  # 町名・大字までしか分からない住所。座標はその地区なので「近くの店」には出さない
     elif a[:len(b)] != b:
-        skipped.append(('geocode-mismatch', x['name'] + ' / ' + title)); continue
+        skipped.append(dict(why='geocode-mismatch', name=x['name'], group=g, detail=addr + ' → ' + title)); continue
     sid = f"{g}-{hashlib.md5((x['name']+(x.get('youtube_id') or x['source_video_title'])).encode()).hexdigest()[:8]}-{(x.get('visited_date') or '').replace('-','')}"
     mem = '・'.join(x.get('members') or [])
     yt = x.get('youtube_id') or ''
@@ -84,7 +85,7 @@ for x in d.get('new', []):
          'source_video_title': x['source_video_title'],
          'visited_date': x.get('visited_date') or '', 'members': x.get('members') or [], 'groups': [g], 'group': g,
          'description': (f"{mem}が" if mem else '') + 'YouTubeの動画で訪れたお店。', 'source_url': x.get('source_url',''), 'source_type': 'youtube'}
-    if sid in {s0['id'] for s0 in shops}: skipped.append(('dup-id', x['name'])); continue
+    if sid in {s0['id'] for s0 in shops}: skipped.append(dict(why='dup-id', name=x['name'], group=g, detail='')); continue
     if yt:
         s['youtube_id'] = yt; s['source_video_url'] = 'https://www.youtube.com/watch?v=' + yt
     else:  # テレビ番組・ドラマ（TMDBの画像）
@@ -94,6 +95,11 @@ for x in d.get('new', []):
         verb = '紹介した' if x.get('relation') == 'guest_favorite' else '訪れた'  # ゲストが番組で挙げた店（人生最高レストランなど）
         s['description'] = (f"{mem}が" if mem else '') + f"『{x.get('program') or x['source_video_title']}』で{verb}お店。"
     if x.get('ordered_items'): s['ordered_items'] = x['ordered_items']
+    m = re.match(r'https://tabelog\.com/[a-z]+/A\d+/A\d+/\d+/', x.get('tabelog_url') or '')
+    if m and x.get('tabelog_verified'):  # 番組公式ページが載せている食べログの店ページ（食べログにはアクセスしない）
+        s['tabelog_url'] = m.group(0); s['tabelog_verified'] = True
+    if re.match(r'https://www\.hotpepper\.jp/strJ\d+/$', x.get('hotpepper_url') or ''):  # ホットペッパーAPIで決めた店
+        s['hotpepper_url'] = x['hotpepper_url']
     if unver: s['location_unverified'] = True
     shops.append(s); names.setdefault(g, set()).add(key(x)); added.append(s)
 for a in d.get('attach', []):
@@ -104,7 +110,11 @@ for a in d.get('attach', []):
     attached += 1
 print(f'追加 {len(added)} / 動画を付けた {attached} / 見送り {len(skipped)}')
 for s in added: print('  +', s['name'], '|', s['address'])
-for w, nm in skipped: print('  -', w, nm)
+for k in skipped: print('  -', k['why'], k['name'] + (' / ' + k['detail'] if k['detail'] else ''))
+if '--report' in sys.argv:  # scripts/weekly/run.py が Summary に使う
+    json.dump({'added': [{k: a.get(k, '') for k in ('id', 'name', 'group', 'address', 'source_video_title')} for a in added],
+               'attached': attached, 'skipped': skipped},
+              open(sys.argv[sys.argv.index('--report') + 1], 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 if write:
     open(ROOT + '/data/shops.json', 'w').write(json.dumps(shops, ensure_ascii=False, indent=2 if raw.startswith('[\n  {') else None) + ('\n' if raw.endswith('\n') else ''))
     print('書き込みました')
