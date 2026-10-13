@@ -10,7 +10,7 @@ Gemfile.lock
 # スクリプトで取得したAPI生データ（大容量・コミット不要）
 scripts/videos_*.json
 .env.local
-.github/workflows/pages.yml
+# .github/workflows/pages.yml（旧。今は deploy-site.yml で公開）
 .bundle/
 __pycache__/
 scripts/cache/
