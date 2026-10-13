@@ -17,8 +17,10 @@ layout: default
   </ol>
   <div class="artg artg--toc">
     <nav class="artg__t" aria-label="目次"><p class="artg__t-title">目次</p><ol data-toc-list></ol></nav>
-    <article class="artg__a">
-      {%- if page.thumbnail_video_id %}
+    <article class="artg__a{% if page.techo %} art--techo{% endif %}">
+      {%- if page.techo and page.cover_ids %}
+      {% include techo-cover.html ids=page.cover_ids title=page.cover_title sub=page.cover_sub color=gx.c %}
+      {%- elsif page.thumbnail_video_id %}
       <figure class="art__hero"><img src="https://i.ytimg.com/vi_webp/{{ page.thumbnail_video_id }}/hqdefault.webp" alt="" width="480" height="270" fetchpriority="high"></figure>
       {%- elsif page.thumbnail %}
       <figure class="art__hero art__hero--poster"><img src="{{ page.thumbnail | relative_url }}" alt="" width="500" height="281" fetchpriority="high"></figure>
@@ -40,12 +42,16 @@ layout: default
       {%- if gx and gx.n > n_shops and n_shops > 0 %}
       <a class="livecount" href="{{ gx.u | relative_url }}"><span>{{ glabel }}が訪れたお店は現在<b>{{ gx.n }}軒</b>。この記事ではそのうち{{ n_shops }}軒を紹介しています。</span><span class="livecount__go">すべて見る →</span></a>
       {%- endif %}
+      {%- capture _notes %}
       <p class="notice">掲載情報は{{ page.last_modified_at | default: page.date | date: "%Y年%-m月" }}時点のものです。閉店・移転していることがあるので、行く前にお店の最新情報を確かめてください。</p>
       {%- if page.checked_at and page.sources %}
       <details class="notice notice--src"><summary>{{ page.checked_label | default: "この記事の情報" }}は{{ page.checked_at | date: "%Y年%-m月%-d日" }}に公式サイト（{{ page.sources.size }}件）で確かめた内容です。<span>確かめたページを見る</span></summary><ul>{% for src in page.sources %}<li><a href="{{ src.url }}" target="_blank" rel="noopener">{{ src.label }}</a></li>{% endfor %}</ul></details>
       {%- endif %}
+      {%- endcapture %}
+      {%- unless page.techo %}{{ _notes }}{% endunless %}
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
+      {%- if page.techo %}<div class="art__notes">{{ _notes }}</div>{% endif %}
       {%- if page.stay_area %}{% assign _sa = page.stay_area %}{% assign _sj = site.data.stay_kw[_sa] %}
       <div class="post-stay">{% include stay-block.html hk=_sa hj=_sj title=page.stay_title note=page.stay_note %}</div>
       {%- endif %}

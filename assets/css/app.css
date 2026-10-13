@@ -908,3 +908,62 @@ a.badge { min-height: 32px; }
 .cnav__list a span { flex: 1; display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
 .cnav__list small { white-space: nowrap; }
 @media (min-width: 768px) { .cnav__list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* ===== 巡礼帳（まとめ記事の手ざわり）===== */
+/* 写真の右下の判子（行った年月） */
+.wr__ph { position: relative; display: block; }
+.hanko { position: absolute; right: -8px; bottom: -8px; width: 50px; height: 50px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; color: color-mix(in srgb, var(--g, #b91c1c) 85%, #3a0d0d); border: 2px solid currentColor; box-shadow: inset 0 0 0 2px #fff, inset 0 0 0 3.5px currentColor; background: rgba(255, 253, 248, .9); transform: rotate(-14deg); font-family: var(--serif); line-height: 1; opacity: .92; pointer-events: none; }
+.hanko i { font-style: normal; font-size: 10px; font-weight: 800; letter-spacing: .15em; }
+.hanko b { font-size: 10.5px; font-weight: 800; letter-spacing: -.02em; }
+@media (min-width: 768px) { .hanko { width: 58px; height: 58px; } .hanko b { font-size: 12px; } }
+
+/* 巡礼帳ふうの記事（.pf--techo）: 紙・マスキングテープ・付箋 */
+.pf--techo { --paper: #fbf7ee; }
+.pf--techo h2 { position: relative; padding: 14px 0 6px; margin-top: 2.6em; }
+.pf--techo h2::before { content: ""; position: absolute; left: -6px; top: 0; width: 92px; height: 18px; background: color-mix(in srgb, var(--pc) 35%, #fff); opacity: .75; transform: rotate(-3deg); clip-path: polygon(3% 0, 97% 4%, 100% 50%, 96% 100%, 2% 94%, 0 45%); }
+.pf--techo h3 { display: inline-block; background: linear-gradient(transparent 62%, color-mix(in srgb, var(--pc) 22%, #fff) 62%); padding: 0 4px; border-left: 0 !important; }
+.pf--techo .pf-quote { position: relative; background: #fff7c2; border: 0; border-radius: 2px; box-shadow: 0 6px 14px -8px rgba(60, 40, 0, .35); transform: rotate(-.6deg); padding: 22px 20px 16px; }
+.pf--techo .pf-quote::before { content: ""; position: absolute; left: 50%; top: -10px; width: 96px; height: 22px; translate: -50% 0; background: rgba(255, 255, 255, .62); box-shadow: 0 1px 2px rgba(0,0,0,.08); transform: rotate(2deg); }
+.pf--techo .pf-quote p { font-weight: 600; font-size: 15.5px; }
+.pf--techo .wr { background: var(--paper); border-color: #e9dfcc; box-shadow: 0 1px 0 #e9dfcc; }
+.pf--techo .wr:nth-child(3n+2) { transform: rotate(.25deg); }
+.pf--techo .wr:nth-child(3n) { transform: rotate(-.2deg); }
+
+/* 表紙（写真をテープで留めたコラージュ＋題の札） */
+.tcover { position: relative; margin: 0 0 var(--s-6); padding: 20px 10px 18px; background: #f4ecdc radial-gradient(circle at 18% 22%, rgba(255,255,255,.7), transparent 55%); border-radius: 6px; overflow: hidden; }
+.tcover__photos { position: relative; height: 230px; }
+.tcover__ph { position: absolute; width: 56%; background: #fff; padding: 6px 6px 22px; box-shadow: 0 8px 18px -10px rgba(40,25,10,.55); }
+.tcover__ph img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.tcover__ph::after { content: ""; position: absolute; top: -9px; left: 50%; width: 64px; height: 18px; translate: -50% 0; background: color-mix(in srgb, var(--g) 40%, #fff); opacity: .8; transform: rotate(-4deg); }
+.tcover__cap { position: absolute; left: 8px; right: 8px; bottom: 4px; font-size: 11px; font-weight: 700; color: #5b5045; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tcover__ph--1 { left: 2%; top: 4px; transform: rotate(-5deg); z-index: 2; }
+.tcover__ph--2 { right: 2%; top: 26px; transform: rotate(4deg); z-index: 1; }
+.tcover__ph--3 { left: 24%; top: 110px; transform: rotate(-1.5deg); z-index: 3; }
+.tcover__label { position: relative; z-index: 4; margin: -18px auto 0; width: max-content; max-width: 92%; padding: 10px 22px 12px; background: var(--g); color: #fff; text-align: center; border-radius: 3px; box-shadow: 0 6px 14px -8px rgba(0,0,0,.5); transform: rotate(-1deg); }
+.tcover__label::before, .tcover__label::after { content: ""; position: absolute; top: 50%; width: 14px; height: 14px; border-radius: 50%; background: #f4ecdc; translate: 0 -50%; }
+.tcover__label::before { left: -7px; } .tcover__label::after { right: -7px; }
+.tcover__label small { display: block; font-size: 11.5px; letter-spacing: .12em; opacity: .9; }
+.tcover__label b { display: block; font-family: var(--serif); font-size: 24px; letter-spacing: .08em; line-height: 1.3; }
+.tcover__no { position: absolute; right: 10px; top: -14px; font-size: 10.5px; font-family: var(--serif); background: #fff; color: var(--g); border: 1px solid var(--g); padding: 1px 6px; border-radius: 2px; }
+@media (min-width: 768px) { .tcover__photos { height: 330px; } .tcover__ph { width: 46%; } .tcover__ph--3 { left: 28%; top: 150px; } .tcover__label b { font-size: 30px; } }
+
+/* はじめての3軒（切符） */
+.picks { display: grid; gap: var(--s-4); margin: var(--s-4) 0 var(--s-6); }
+.pick { position: relative; display: grid; grid-template-columns: 1fr; background: var(--paper, #fbf7ee); border: 1px solid #e3d6bd; border-radius: 6px; overflow: hidden; color: var(--ink); text-decoration: none !important; }
+.pick:hover { box-shadow: 0 8px 20px -12px rgba(40,25,10,.5); }
+.pick__ph img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.pick__body { position: relative; display: flex; flex-direction: column; gap: 4px; padding: 16px 16px 14px; border-top: 2px dashed #d9c9a8; }
+.pick__body::before, .pick__body::after { content: ""; position: absolute; top: -9px; width: 16px; height: 16px; border-radius: 50%; background: #F7F3EC; border: 1px solid #e3d6bd; }
+.pick__body::before { left: -9px; } .pick__body::after { right: -9px; }
+.pick__no { align-self: flex-start; font-family: var(--serif); font-size: 13px; font-weight: 800; color: #fff; background: var(--g); padding: 2px 10px; border-radius: 2px; letter-spacing: .1em; }
+.pick__name { font-family: var(--serif); font-size: 20px; line-height: 1.35; }
+.pick__st { font-size: 12.5px; color: var(--ink-2); }
+.pick__why { font-size: 14.5px; line-height: 1.8; }
+.pick__go { font-size: 13px; font-weight: 700; color: var(--accent-ink); }
+@media (min-width: 900px) { .pick { grid-template-columns: 300px 1fr; } .pick__ph img { height: 100%; aspect-ratio: auto; } .pick__body { border-top: 0; border-left: 2px dashed #d9c9a8; } .pick__body::before { left: -9px; top: -9px; } .pick__body::after { left: -9px; right: auto; top: auto; bottom: -9px; } }
+
+/* 手描き風のコース図 */
+.course { margin: var(--s-4) 0 var(--s-6); }
+.art--techo .points { position: relative; background: #fffdf4; border: 1px solid #eadfca; border-radius: 3px; box-shadow: 0 6px 14px -10px rgba(60,40,0,.4); }
+.art--techo .points::before { content: ""; position: absolute; right: 18px; top: -9px; width: 70px; height: 18px; background: rgba(255,255,255,.7); transform: rotate(3deg); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
+.art__notes { margin-top: var(--s-8); }
