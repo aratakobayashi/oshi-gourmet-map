@@ -23,6 +23,9 @@ layout: default
       </div>
       <p class="stats"><b>{{ count }}</b><span>軒</span> <b>{{ gm.prefs }}</b><span>都道府県</span>{% if gm.members.size > 0 %} <b>{{ gm.members.size }}</b><span>人</span>{% endif %}</p>
     </div>
+    {%- if gd.strip.size > 0 %}
+    <div class="gstrip" aria-hidden="true">{% for im in gd.strip %}<img src="{{ im }}" alt="" width="320" height="180" decoding="async"{% if forloop.index > 2 %} loading="lazy"{% endif %}>{% endfor %}</div>
+    {%- endif %}
   </div>
 </div>
 

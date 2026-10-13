@@ -12,7 +12,7 @@ related_genres:
   - ohaasa-cafe
   - ohaasa-washoku
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

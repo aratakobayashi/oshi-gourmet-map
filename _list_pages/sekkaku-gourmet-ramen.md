@@ -12,7 +12,7 @@ related_genres:
   - sekkaku-gourmet-washoku
   - sekkaku-gourmet-yakiniku
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

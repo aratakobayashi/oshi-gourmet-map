@@ -12,7 +12,7 @@ related_genres:
   - syokusai-washoku
   - syokusai-chuka
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

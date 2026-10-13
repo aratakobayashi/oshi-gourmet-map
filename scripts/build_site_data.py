@@ -186,6 +186,9 @@ def main():
             gurls[k.group(1)] = '/groups/' + jekyll_slug(f[:-3]) + '/'
 
     # --- 店舗カード ---
+    # 動画も店の写真もなく、番組のポスターなど同じ画像を4軒以上で使っている店（一覧では看板風のサムネイルにする）
+    shared_img = Counter(s.get('thumbnail_url') for s in shops
+                         if not s.get('youtube_id') and not s.get('hotpepper_photo') and s.get('thumbnail_url'))
     cards = {}
     for s in shops:
         st, walk = station_of(s)
@@ -195,10 +198,14 @@ def main():
         cards[s['id']] = {
             'n': s['name'], 'u': '/shops/' + slug(s['id']) + '/', 'g': s.get('genre', ''),
             'gr': s.get('group', ''), 'st': st, 'w': walk, 'v': s.get('youtube_id') or '',
-            't': s.get('hotpepper_photo') or s.get('thumbnail_url') or '', 'r': 1 if reservable else 0,
+            # TMDB は一覧の大きさに合わせて w300（元は w500）
+            't': (s.get('hotpepper_photo') or s.get('thumbnail_url') or '').replace('image.tmdb.org/t/p/w500/', 'image.tmdb.org/t/p/w300/'),
+            'r': 1 if reservable else 0,
             'm': (s.get('members') or [])[:2], 'p': s.get('prefecture', ''),
             'src': (s.get('source_video_title') or '')[:40],
         }
+        if not s.get('youtube_id') and not s.get('hotpepper_photo') and shared_img[s.get('thumbnail_url')] >= 4:
+            cards[s['id']]['sp'] = 1
         hk = hotel_keyword(s, st)
         if hk:
             # じゃらんの検索は Shift_JIS のため、ここでエンコードしておく
@@ -223,9 +230,24 @@ def main():
         })
     meta.sort(key=lambda x: -x['count'])
 
-    # グループページ用: 新着20件・よく行くジャンル／エリア／駅
+    # グループの表紙の画像: いちばん新しい動画のサムネイル（assets/images/groups のロゴ画像は使わない） → 店の写真 → 番組の画像（いちばん多く使われているもの）
     def recent_key(s):
         return (s.get('visited_date') or '', 1 if s.get('youtube_id') else 0)
+    for m in meta:
+        items = sorted(by_group[m['id']], key=recent_key, reverse=True)
+        img = ''
+        if True:
+            v = next((s['youtube_id'] for s in items if s.get('youtube_id') and not s.get('closed')), '')
+            img = f'https://i.ytimg.com/vi_webp/{v}/mqdefault.webp' if v else ''
+        if not img:
+            tm = Counter(s.get('thumbnail_url') for s in items if s.get('thumbnail_url'))
+            if tm:
+                img = tm.most_common(1)[0][0].replace('image.tmdb.org/t/p/w500/', 'image.tmdb.org/t/p/w342/')
+        if not img:
+            img = next((s['hotpepper_photo'] for s in items if s.get('hotpepper_photo')), '')
+        m['img'] = img
+
+    # グループページ用: 新着20件・よく行くジャンル／エリア／駅
     detail = {}
     for g, items in by_group.items():
         live = [s for s in items if not s.get('closed')]
@@ -239,6 +261,16 @@ def main():
         }
         for s in sorted(items, key=lambda s: (0 if s.get('closed') else 1,) + recent_key(s), reverse=True):
             detail[g]['by_genre'].setdefault(s.get('genre') or 'others', []).append(s['id'])
+        # グループページ上部の写真（新しい順に、違う画像を4枚まで: 動画のサムネイル・店の写真・回ごとの画像）
+        strip = []
+        for s in sorted(live, key=recent_key, reverse=True):
+            c = cards[s['id']]
+            img = f"https://i.ytimg.com/vi_webp/{c['v']}/mqdefault.webp" if c['v'] else (c['t'] if c['t'] and not c.get('sp') else '')
+            if img and img not in strip:
+                strip.append(img)
+            if len(strip) == 4:
+                break
+        detail[g]['strip'] = strip if len(strip) >= 2 else []
 
     # --- 近くの聖地グルメ（3km以内・最大6件） ---
     by_id = {s['id']: s for s in shops}
@@ -308,14 +340,15 @@ def main():
     explore = []
     for sh in shops:
         cd = cards[sh['id']]
-        t = cd['t'] if cd['t'] and 'youtube.com' not in cd['t'] and 'ytimg' not in cd['t'] else ''
+        t = cd['t'] if cd['t'] and 'youtube.com' not in cd['t'] and 'ytimg' not in cd['t'] and not cd.get('sp') else ''
         explore.append([
-            sh['id'], cd['n'], cd['u'][len('/shops/'):-1], cd['g'],
+            # u は店舗IDと同じなら空（データを軽くするため。JS は空なら id を使う）
+            sh['id'], cd['n'], '' if cd['u'][len('/shops/'):-1] == sh['id'] else cd['u'][len('/shops/'):-1], cd['g'],
             [g for g in (sh.get('groups') or [sh.get('group')]) if g],
             cd['p'], sh.get('city') or '', cd['st'], cd['w'],
-            round(sh['lat'], 5) if sh.get('lat') else 0, round(sh['lng'], 5) if sh.get('lng') else 0,
+            round(sh['lat'], 4) if sh.get('lat') else 0, round(sh['lng'], 4) if sh.get('lng') else 0,
             cd['v'], t, cd['r'], [m for m in (sh.get('members') or []) if m and len(m) < 15],
-            cd['src'], sh.get('visited_date') or '', 1 if sh.get('closed') else 0,
+            cd['src'][:28], sh.get('visited_date') or '', 1 if sh.get('closed') else 0, cd.get('sp', 0),
         ])
     with open(os.path.join(ROOT, 'data', 'explore.json'), 'w', encoding='utf-8') as f:
         json.dump(explore, f, ensure_ascii=False, separators=(',', ':'))

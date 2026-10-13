@@ -12,7 +12,7 @@ related_genres:
   - omouma-washoku
   - omouma-chuka
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

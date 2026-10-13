@@ -12,7 +12,7 @@ related_genres:
   - jinsei-saiko-washoku
   - jinsei-saiko-izakaya
 related_groups:
+  - susuru-ramen
   - seyanen-ramen
   - arashi-ramen
-  - burari-ramen
 ---

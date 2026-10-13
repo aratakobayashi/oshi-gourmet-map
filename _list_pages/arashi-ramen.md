@@ -12,7 +12,7 @@ related_genres:
   - arashi-sweets
   - arashi-cafe
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - burari-ramen
 ---

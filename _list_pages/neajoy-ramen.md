@@ -12,7 +12,7 @@ youtube_id: igZmyXp6zKI
 related_genres:
   - neajoy-shokuji
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

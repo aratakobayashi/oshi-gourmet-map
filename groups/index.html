@@ -1,36 +1,33 @@
 ---
 layout: default
-title: 推しから探す｜グループ別の聖地グルメまとめ
-description: Snow Man・SixTONES・乃木坂46・よにのちゃんねる・孤独のグルメなど40組以上の推しが実際に訪れたお店を、グループ別に探せます。
+title: 推しから探す｜グループ・番組別の聖地グルメまとめ
+description: SixTONES・Snow Man・乃木坂46・よにのちゃんねる・孤独のグルメ・酒場放浪記など、推しやグルメ番組が実際に訪れたお店を、グループ・番組別に探せます。
 ---
 {%- assign listed = '' | split: '' -%}
 <div class="wrap">
   <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">推しから探す</li></ol>
   <h1 class="page-title">推しから探す</h1>
-  <p class="page-lead">{{ site.data.site_stats.groups }}組の推しが訪れたお店を、グループ別にまとめています。</p>
+  <p class="page-lead">{{ site.data.site_stats.groups }}組の推し・番組が訪れたお店を、グループ別にまとめています。</p>
 
-  <section class="section">
-    <h2 class="h2" style="margin-bottom:12px">お店の多い推し</h2>
-    <div class="chips">{% for g in site.data.group_meta limit: 12 %}<a class="chip" style="--g:{{ g.color }}" href="{{ g.url | relative_url }}"><span class="dot"></span>{{ g.label }}<span class="cnt">{{ g.count }}</span></a>{% endfor %}</div>
-  </section>
+  <nav class="chips gjump" aria-label="分類">{% for cat in site.data.group_categories %}<a class="chip" href="#gc{{ forloop.index }}">{{ cat.label }}</a>{% endfor %}</nav>
 
-  <div class="gcols">
   {%- for cat in site.data.group_categories %}
-  <section class="section">
-    <h2 class="h2" style="margin-bottom:8px">{{ cat.label }}</h2>
-    <ul class="glinks">
-      {%- for item in cat.groups %}{% assign g = site.data.group_meta | where: "id", item.key | first %}{% if g %}{% assign listed = listed | push: g.id %}
-      <li><a class="glink" style="--g:{{ g.color }}" href="{{ g.url | relative_url }}"><span class="dot"></span><span><b>{{ g.label }}</b><small>{{ g.kana }}</small></span><span class="cnt">{{ g.count }}軒</span></a></li>
+  {%- assign _keys = cat.groups | map: 'key' %}
+  <section class="section" id="gc{{ forloop.index }}">
+    <h2 class="h2" style="margin-bottom:12px">{{ cat.label }}</h2>
+    <div class="gcovers">
+      {%- assign _outer = forloop.index %}
+      {%- for g in site.data.group_meta %}{% if _keys contains g.id %}{% assign listed = listed | push: g.id %}
+      {% if _outer == 1 and forloop.index0 < 4 %}{% include gcover.html g=g eager=true %}{% else %}{% include gcover.html g=g %}{% endif %}
       {%- endif %}{% endfor %}
-    </ul>
+    </div>
   </section>
   {%- endfor %}
-  {%- capture rest %}{% for g in site.data.group_meta %}{% unless listed contains g.id %}<li><a class="glink" style="--g:{{ g.color }}" href="{{ g.url | relative_url }}"><span class="dot"></span><span><b>{{ g.label }}</b><small>{{ g.kana }}</small></span><span class="cnt">{{ g.count }}軒</span></a></li>{% endunless %}{% endfor %}{% endcapture %}
-  {%- if rest != '' %}
+  {%- capture rest %}{% for g in site.data.group_meta %}{% unless listed contains g.id %}{% include gcover.html g=g %}{% endunless %}{% endfor %}{% endcapture %}
+  {%- if rest contains 'gcover' %}
   <section class="section">
-    <h2 class="h2" style="margin-bottom:8px">そのほか</h2>
-    <ul class="glinks">{{ rest }}</ul>
+    <h2 class="h2" style="margin-bottom:12px">そのほか</h2>
+    <div class="gcovers">{{ rest }}</div>
   </section>
   {%- endif %}
-  </div>
 </div>

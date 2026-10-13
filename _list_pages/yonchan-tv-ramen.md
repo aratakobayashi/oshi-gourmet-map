@@ -12,7 +12,7 @@ related_genres:
   - yonchan-tv-cafe
   - yonchan-tv-washoku
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - seyanen-ramen
-  - arashi-ramen
 ---

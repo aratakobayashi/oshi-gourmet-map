@@ -12,7 +12,7 @@ related_genres:
   - seyanen-shokuji
   - seyanen-chuka
 related_groups:
+  - susuru-ramen
   - jinsei-saiko-ramen
   - arashi-ramen
-  - burari-ramen
 ---

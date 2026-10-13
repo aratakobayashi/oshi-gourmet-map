@@ -32,15 +32,19 @@
   });
 
   // ---------- 店舗の行（_includes/row.html と同じ形。data/explore.json の1件から作る） ----------
-  var I = { id: 0, n: 1, u: 2, g: 3, gr: 4, p: 5, c: 6, st: 7, w: 8, la: 9, ln: 10, v: 11, t: 12, r: 13, m: 14, src: 15, d: 16, x: 17 };
+  var I = { id: 0, n: 1, u: 2, g: 3, gr: 4, p: 5, c: 6, st: 7, w: 8, la: 9, ln: 10, v: 11, t: 12, r: 13, m: 14, src: 15, d: 16, x: 17, sp: 18 };
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
   var GIX = function () { return window.GIX || {}; }, GEN = function () { return window.GENRES || {}; };
   function genreLabel(g) { return GEN()[g] ? GEN()[g].label : g; }
   function thumb(r) {
     var gi = GIX()[r[I.gr][0]] || {};
     if (r[I.v]) return '<div class="thumb"><img src="https://i.ytimg.com/vi_webp/' + r[I.v] + '/mqdefault.webp" alt="" width="320" height="180" loading="lazy" decoding="async"></div>';
-    if (r[I.t]) return '<div class="thumb"><img src="' + esc(r[I.t]) + '" alt="" width="300" height="200" loading="lazy" decoding="async"></div>';
-    return '<div class="thumb thumb--noimg" style="--g:' + (gi.c || '#9a8f80') + '"><span class="stamp stamp--tilt" aria-hidden="true">' + (GEN()[r[I.g]] ? GEN()[r[I.g]].mark : '食') + '</span></div>';
+    if (r[I.t] && !r[I.sp]) return '<div class="thumb"><img src="' + esc(r[I.t]) + '" alt="" width="300" height="200" loading="lazy" decoding="async"></div>';
+    // 看板風（_includes/thumb.html と同じ形）
+    var n = r[I.n].replace(/　/g, ' ');
+    var l = n.length <= 3 ? 1 : n.length <= 5 ? 2 : n.length <= 9 ? 3 : 4;
+    if (n.length > 18) n = n.slice(0, 17) + '…';
+    return '<div class="thumb thumb--sign" style="--g:' + (gi.c || '#9a8f80') + '"><span class="noren noren--' + l + '" aria-hidden="true"><b>' + esc(n) + '</b></span><span class="stamp stamp--tilt" aria-hidden="true">' + (GEN()[r[I.g]] ? GEN()[r[I.g]].mark : '食') + '</span></div>';
   }
   function meta(r) {
     var gi = GIX()[r[I.gr][0]] || {};
@@ -51,7 +55,7 @@
     var mem = r[I.m].slice(0, 2).join('・');
     return '<div class="row" style="--g:' + (gi.c || '#9a8f80') + '">' + thumb(r) +
       '<div class="row__body">' + meta(r) +
-      '<a class="row__name" href="' + BASE + '/shops/' + r[I.u] + '/">' + esc(r[I.n]) + '</a>' +
+      '<a class="row__name" href="' + BASE + '/shops/' + (r[I.u] || r[I.id]) + '/">' + esc(r[I.n]) + '</a>' +
       '<p class="card__st">' + esc(r[I.st] || r[I.p]) + (mem ? '・' + esc(mem) : '') + '</p>' +
       '<p class="row__tags">' + (r[I.x] ? '<span class="badge badge--closed">閉店</span>' : '') + (r[I.r] ? '<span class="badge--ok badge">予約可</span>' : '') + (r[I.src] ? '<span class="row__src">' + esc(r[I.src]) + '</span>' : '') + '</p>' +
       '</div><button type="button" class="fav-btn" data-fav="' + esc(r[I.id]) + '" aria-pressed="false" aria-label="' + esc(r[I.n]) + 'を保存"><span>保存</span></button></div>';
