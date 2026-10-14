@@ -177,7 +177,7 @@ shop_ids:
   - kingprince-eataly-
 faq:
   - q: "King & Princeが行ったお店はどこですか？"
-    a: "推しグルメ巡礼MAPのデータでは、冠番組『キントレ』（髙橋海人の「炊飯器の旅」20軒、「バイトレ」9軒など）と『King & Princeる。』のロケ、VS魂・笑ってコラえて！・プレミセ！などの出演番組、ベストアルバム『Mr.5』の特典映像「熱海小旅行」などでメンバーが訪れたお店があります。この記事では、ドラマのロケ地と、スタジオに料理が出た「当たり前レストラン」のお店も、訪問とは分けて載せています。"
+    a: "冠番組『キントレ』（髙橋海人の「炊飯器の旅」20軒、「バイトレ」9軒など）と『King & Princeる。』のロケ、VS魂・笑ってコラえて！・プレミセ！などの出演番組、ベストアルバム『Mr.5』の特典映像「熱海小旅行」などでメンバーが訪れたお店があります。この記事では、ドラマのロケ地と、スタジオに料理が出た「当たり前レストラン」のお店も、訪問とは分けて載せています。"
   - q: "東京で巡りやすいのはどこですか？"
     a: "この記事の149軒のうち88軒が東京都です。銀座・有楽町には『キントレ』まかないハンターのGINZA ABCラーメンとEL CHATEO 銀座店、バイトレの吉野家 有楽町店、戸越銀座には「痩せの大食い三銃士！」の5軒、新大久保には岸優太（当時のメンバー）がVS魂で訪れたSNOWY VILLAGEとCOZY PLACEが近くにまとまっています。"
   - q: "「当たり前レストラン」のお店には、メンバーが行ったのですか？"
@@ -189,9 +189,18 @@ faq:
   - q: "King & Princeのお店を地図で見られますか？"
     a: "「お店を探す」でKing & Princeを選ぶと、この記事のお店を地図で見られます。行きたいお店は保存して、巡礼の計画に使えます。"
 pr: true
+techo: true
+cover_ids: "kingprince-a5f71e02-,kingprince-70f61cc7-,kingprince-9f60d755-"
+cover_title: "King & Prince 聖地巡礼帳"
+cover_sub: "キントレ・キンプる・出演番組の149軒"
+courses:
+  - title: "丸の内から築地へ：キントレの銀座かいわい"
+    stops: [kingprince-a5f71e02-, kingprince-70f61cc7-, kingprince-ginza_abc-, kingprince-f30d7811-]
+    labels: ["丸ビル 臼杵ふぐ 山田屋", "吉野家 有楽町店", "銀座3丁目 ABCラーメン・EL CHATEO", "築地銀だこ 本店"]
+    legs: ["", "", "銀座駅→築地駅は日比谷線で2駅"]
 ---
 
-<div class="pf" style="--pc:#f472b6">
+<div class="pf pf--techo" style="--pc:#f472b6">
 
 <p>King &amp; Princeは、いま<strong>永瀬廉・髙橋海人</strong>の2人で活動しています。2023年5月までは<strong>平野紫耀・神宮寺勇太・岸優太</strong>も在籍していて、その時期の番組には5人の名前が並びます（この記事では「当時のメンバー」と書いています）。お店が出てくるのは、冠番組の『King &amp; Princeる。』と『キントレ』（どちらも日本テレビ）、メンバーが出演したバラエティ番組、アルバムの特典映像、そしてドラマの撮影です。</p>
 
@@ -203,30 +212,17 @@ pr: true
 </div>
 {% include matome-members.html group="kingprince" %}
 
-<h2>ひと目でわかる King &amp; Princeのグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>King &amp; Prince</small>
-    <p class="pf-card__name">キンプリの聖地</p>
-    <p class="pf-card__yomi">2022年〜2026年の番組・映像から</p>
-    <span class="pf-card__color"><i></i>永瀬廉・髙橋海人</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>149軒</dd></div>
-    <div><dt>冠番組</dt><dd>キントレ49軒・キンプる4軒</dd></div>
-    <div><dt>出演番組</dt><dd>39軒（VS魂12軒ほか）</dd></div>
-    <div><dt>ドラマのロケ地</dt><dd>11軒（4作品）</dd></div>
-    <div><dt>スタジオに料理</dt><dd>42軒（当たり前レストラン）</dd></div>
-    <div><dt>多いエリア</dt><dd>渋谷区14軒・港区12軒</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>149軒のなかから、東京で行きやすく、いまの2人（永瀬廉・髙橋海人）が実際にお店へ行った回を3つ選びました。</p>
+<div class="picks">
+{% include pick.html id="kingprince-70f61cc7-" no="其の一" why="『キントレ』の「バイトレ」（2023年7月22日放送）で、永瀬廉が働いた吉野家の店舗。お店は東京の有楽町です。" %}
+{% include pick.html id="kingprince-f30d7811-" no="其の二" why="『キントレ』の「バイトレ」（2025年6月28日放送）で、髙橋海人が働いた築地銀だこの本店。お店は東京の築地です。" %}
+{% include pick.html id="kingprince-76fb57d8-" no="其の三" why="『キントレ』の「痩せの大食い三銃士！」（2025年11月8日放送）で、永瀬廉が戸塚純貴・バッテリィズ エースと大玉の焼き団子を食べたお店。同じ回のおにぎり戸越屋・かたばみ精肉店も戸越銀座にあります。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>149<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>88<small>軒</small></b><span>東京都のお店</span></div>
-  <div><b>14<small>都府県</small></b><span>お店のある都府県</span></div>
-  <div><b>{{ site.data.group_ix.kingprince.n }}<small>軒</small></b><span>このサイトに登録されている、King &amp; Princeのお店ぜんぶ</span></div>
-</div>
+<h2>半日で巡るなら：丸の内から築地へ</h2>
+<p>髙橋海人がふぐを食べた丸ビルから、永瀬廉が働いた有楽町の吉野家、まかないハンターの銀座、髙橋海人が働いた築地銀だこまで。『キントレ』の4つの回のお店が、東京駅から築地のあいだに並んでいます。</p>
+<figure class="fig course"><img src="/assets/img/posts/kingprince-gourmet-matome/course-1.svg" alt="丸の内から築地へのコース図。1 丸ビルの臼杵ふぐ 山田屋 丸の内、2 吉野家 有楽町店、3 銀座3丁目のGINZA ABCラーメンとEL CHATEO 銀座店、4 築地銀だこ 本店（銀座駅から日比谷線で2駅の築地駅の近く）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の42軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -470,7 +466,7 @@ pr: true
   <li class="wr">{% include wr-open.html id="kingprince-eataly-" %}<span class="wr__k">2024<br>4.13</span><b class="wr__name">EATALY 原宿店</b><span class="wr__t">マリトッツォが出題された、イータリー原宿店の中のカフェ</span>{% include wr-close.html id="kingprince-eataly-" %}</li>
 </ul>
 
-<p class="note">店名の上の日付は放送日（年・月.日）です。ドラマとアルバムの映像は年だけを書いています。放送日・料理・正解したメンバーは推しグルメ巡礼MAPのデータ（番組を記録したファンのブログをもとに確かめたもの）より。データのないものは書いていません。</p>
+<p class="note">店名の上の日付は放送日（年・月.日）です。ドラマとアルバムの映像は年だけを書いています。放送日・料理・正解したメンバーは、番組を記録したファンのブログをもとに確かめたものです。確かめられないものは書いていません。</p>
 
 <h2>King &amp; Princeの聖地 年表</h2>
 <p>放送・公開された時期ごとに、どの番組でお店が出てきたかを並べました。</p>
@@ -483,7 +479,7 @@ pr: true
 
 <h2>エリアで巡るなら：まずは東京（88軒）</h2>
 <figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/map.svg" alt="King & Princeが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>住所・最寄り駅は推しグルメ巡礼MAPのデータより。「当たり前レストラン」のお店は、メンバーが行ったお店ではなく、料理がスタジオに出たお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<p>「当たり前レストラン」のお店は、メンバーが行ったお店ではなく、料理がスタジオに出たお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・築地・日本橋（12軒）</strong>：キントレのまかないハンターのGINZA ABCラーメン（銀座3丁目）とEL CHATEO 銀座店（銀座駅 徒歩3分）、バイトレの吉野家 有楽町店と築地銀だこ 本店（築地市場駅 徒歩6分）、ブンブブーンのくわっち〜家（日本橋堀留町）。当たり前レストランのフレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Andhra Dining GINZA（銀座一丁目駅 徒歩3分）・チャオタイ 銀座店・ブラッスリー ポール・ボキューズ 銀座・ラ・ベットラ・ダ・オチアイ・88（有楽町1丁目）・富錦樹台菜香檳（日本橋室町）。</li>
   <li><strong>丸の内・麹町・神田（7軒）</strong>：ピンキリ調査の臼杵ふぐ 山田屋 丸の内（丸ビル）、モニタリングのフクモリ（東神田）とTRATTORIA ISSEI（内神田）、『わが家は楽し』のシェ・カザマ（一番町）。当たり前レストランのSarabeth’s（東京駅 徒歩1分）・パティシエ シマ（麹町駅 徒歩2分）・赤坂 四川飯店（永田町駅 徒歩4分）。</li>
