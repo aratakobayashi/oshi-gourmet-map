@@ -158,13 +158,22 @@ faq:
   - q: "すのちゅーぶ（Snow Manの公式YouTube）で行ったお店は？"
     a: "この記事では35軒を載せています。立会川 吉田家や総本家更科堀井 本店などの蕎麦、龍朋の街中華、伊勢屋食堂やわが家の食堂の定食、羽田市場 GINZA SEVENやGINZA SUSHI BANYA KAIの寿司など、回ごとにジャンルが変わります。多くは4人で訪れた回です。"
   - q: "メンバーは何を注文していましたか？"
-    a: "推しグルメ巡礼MAPのデータでは、たとえば総本家更科堀井 本店（2025年3月）では岩本照さんがさらしなそば、ここのつ 3号店（2024年4月）では佐久間大介さんが特盛レバニラ重、ブレッツカフェ クレープリー 表参道店（2024年3月）では宮舘涼太さんがコンフィドカナールのガレットを注文しています。"
+    a: "たとえば総本家更科堀井 本店（2025年3月）では岩本照さんがさらしなそば、ここのつ 3号店（2024年4月）では佐久間大介さんが特盛レバニラ重、ブレッツカフェ クレープリー 表参道店（2024年3月）では宮舘涼太さんがコンフィドカナールのガレットを注文しています。"
   - q: "Snow Manが行ったお店をまとめて地図で見られますか？"
     a: "「お店を探す」でSnow Manを選ぶと、この記事の123軒を含め、Snow Manに関連するお店を地図で見られます。"
 pr: true
+techo: true
+cover_ids: "snowman-sarashina-horii-motoazabu,snowman-ryuho-kagurazaka,snowman-onigiri-asakusa-yadoroku"
+cover_title: "Snow Man 聖地巡礼帳"
+cover_sub: "すのちゅーぶ・それスノ・旅スノの123軒"
+courses:
+  - title: "雷門から浅草三丁目へ：すのちゅーぶの浅草"
+    stops: [snowman-41d7688e-202604, snowman-tsurujiro-asakusa, snowman-onigiri-asakusa-yadoroku]
+    labels: ["雷門 浅草むぎとろ本店", "浅草 つる次郎 HANARE", "浅草三丁目 おにぎり浅草宿六"]
+    legs: ["", ""]
 ---
 
-<div class="pf" style="--pc:#3b82f6">
+<div class="pf pf--techo" style="--pc:#3b82f6">
 
 <p><strong>岩本照・深澤辰哉・ラウール・渡辺翔太・向井康二・阿部亮平・目黒蓮・宮舘涼太・佐久間大介</strong>の9人のSnow Man。公式YouTubeチャンネル（すのちゅーぶ）では4人ほどでお店を訪ねる回がたびたび公開され、ジュニアCHANNEL時代の動画にもお店が登場します。</p>
 
@@ -176,30 +185,17 @@ pr: true
 </div>
 {% include matome-members.html group="snowman" %}
 
-<h2>ひと目でわかる Snow Manのグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>Snow Man 聖地巡礼</small>
-    <p class="pf-card__name">スノグルメ</p>
-    <p class="pf-card__yomi">2018年〜2026年の動画・番組から</p>
-    <span class="pf-card__color"><i></i>Snow Man 9人</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>123軒</dd></div>
-    <div><dt>公式YouTube</dt><dd>すのちゅーぶ35軒・ジュニアCHANNEL12軒</dd></div>
-    <div><dt>冠番組</dt><dd>それスノ35軒・旅スノ13軒</dd></div>
-    <div><dt>出演番組・CM</dt><dd>23軒（せっかくグルメ8軒ほか）</dd></div>
-    <div><dt>ドラマのロケ地</dt><dd>4軒</dd></div>
-    <div><dt>多いエリア</dt><dd>港区10軒・渋谷区9軒・新宿区8軒</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>123軒のなかから、東京で行きやすく、すのちゅーぶでメンバーが食べに行った回のお店を3つ選びました。</p>
+<div class="picks">
+{% include pick.html id="snowman-sarashina-horii-motoazabu" no="其の一" why="「創業200年の蕎麦屋さん」（2025年3月）の回。岩本照・深澤辰哉・宮舘涼太・佐久間大介の4人で訪れ、岩本照がさらしなそば、深澤辰哉が蛤そば、宮舘涼太と佐久間大介が鴨せいろを頼んでいます。お店は東京の麻布十番です。" %}
+{% include pick.html id="snowman-ryuho-kagurazaka" no="其の二" why="「街中華の名店で朝食」（2024年12月）の回。岩本照・阿部亮平・目黒蓮・宮舘涼太の4人で、目黒蓮がラーメン、宮舘涼太がチャーシュー麺、阿部亮平が肉野菜炒めを頼み、チャーハンの大も並びました。お店は東京の神楽坂です。" %}
+{% include pick.html id="snowman-onigiri-asakusa-yadoroku" no="其の三" why="「東京で最古…元祖にぎりめし」（2024年9月）の回。深澤辰哉・ラウール・渡辺翔太・向井康二の4人が、塩辛・たらこ・いくら・しらす・昆布などのおにぎりをそれぞれ選んでいます。お店は東京の浅草です。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>123<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>62<small>軒</small></b><span>東京都内のお店</span></div>
-  <div><b>19<small>都道府県</small></b><span>お店のある都道府県</span></div>
-  <div><b>{{ site.data.group_ix.snowman.n }}<small>軒</small></b><span>このサイトに登録されている、Snow Manのお店ぜんぶ</span></div>
-</div>
+<h2>半日で巡るなら：雷門から浅草三丁目へ</h2>
+<p>浅草には、すのちゅーぶで訪れたお店が3軒あります。雷門近くのむぎとろ、もんじゃのつる次郎 HANARE、そして浅草三丁目のおにぎり屋さんへ。</p>
+<figure class="fig course"><img src="/assets/img/posts/snowman-gourmet-matome/course-1.svg" alt="雷門から浅草三丁目へのコース図。1 雷門の浅草むぎとろ本店（2026年4月の回）、2 浅草の浅草つる次郎 HANARE（2024年5月の回）、3 浅草三丁目のおにぎり浅草宿六（2024年9月の回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>出典ごとに、お店の登場のしかたがはっきり違います。すのちゅーぶは東京のお店に4人ほどで行く回が中心で、蕎麦・定食・ガレット・油そばと毎回ジャンルが変わります。それスノは三崎・沼津・銚子の海鮮丼や、浜松と宇都宮の餃子のように、チームに分かれて同じ料理を食べ比べる企画が多く、旅スノは2人ずつで各地を巡る旅の途中のお店です。注文したものが分かるお店は、メンバーごとに載せました。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -418,7 +414,7 @@ pr: true
 
 <h2>エリアで巡るなら</h2>
 <figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/map.svg" alt="Snow Manが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>最寄り駅と徒歩の分数は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>浅草</strong>：おにぎり浅草宿六・浅草つる次郎 HANARE（浅草駅 徒歩4分）・浅草むぎとろ本店（浅草駅 徒歩1〜3分）。すのちゅーぶの3つの回がまとまっています。隅田川の向こうの本所吾妻橋には、ドラマのロケ地のひもの 炉端焼き 未蔵や。</li>
   <li><strong>六本木・麻布・赤坂</strong>：大阪焼肉・ホルモン ふたご 六本木店（六本木駅 徒歩3分）、CEDAR THE CHOP HOUSE＆BAR（六本木駅 徒歩1分・ドラマのロケ地）、バビーズ ニューヨーク アークヒルズ（六本木一丁目駅 徒歩1分）、総本家更科堀井 本店（麻布十番駅 徒歩7分）、帝國食堂（乃木坂駅 徒歩9分）、Trattoria e Pizzeria De salita 赤坂（赤坂見附駅 徒歩1分）、四十八漁場 山王パークタワー店（溜池山王駅 徒歩1分）。</li>
