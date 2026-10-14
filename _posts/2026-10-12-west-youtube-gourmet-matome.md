@@ -214,7 +214,7 @@ shop_ids:
   - west-8132aced-
 faq:
   - q: "WEST.が番組や動画で行ったお店はどこですか？"
-    a: "推しグルメ巡礼MAPには、この記事の182軒が載っています。冠番組『イキスギさんについてった』（TBS）が93軒、『リア突WEST』が28軒、公式YouTubeの動画が46軒（小瀧望の『のんべぇさんぽ』17軒、濵田崇裕の『喫茶と濵田。』11軒、神山智洋の『KAMI Sweets』7軒、大食い・爆食などみんなで行った回9軒ほか）、ほかのグループの冠番組などに出演した回が12軒、雑誌の取材などが3軒です。"
+    a: "この記事では182軒を載せています。冠番組『イキスギさんについてった』（TBS）が93軒、『リア突WEST』が28軒、公式YouTubeの動画が46軒（小瀧望の『のんべぇさんぽ』17軒、濵田崇裕の『喫茶と濵田。』11軒、神山智洋の『KAMI Sweets』7軒、大食い・爆食などみんなで行った回9軒ほか）、ほかのグループの冠番組などに出演した回が12軒、雑誌の取材などが3軒です。"
   - q: "東京でWEST.の聖地巡礼をするなら、どこを回れますか？"
     a: "182軒のうち108軒が東京都です。新宿区と港区が16軒ずつ、渋谷区が13軒。新大久保では大久保1丁目12番の同じ建物にCAFE iN（KAMI Sweets）とテーハンミング（7人の回）があり、港区の芝2丁目には『イキスギさんについてった』の「中間淳太の激辛、どう？」Part3の3軒、赤坂3丁目12番には牛角 赤坂店と赤坂焼鳥 鳳があります。目黒駅のまわりには『のんべぇさんぽ』目黒編の4軒、西荻窪の西荻南3丁目15番にはそれいゆ（喫茶と濵田。）とタリカロ（激辛、どう？）があります。"
   - q: "『イキスギさんについてった』ではどんなお店に行きましたか？"
@@ -226,13 +226,22 @@ faq:
   - q: "WEST.のお店をまとめて地図で見られますか？"
     a: "「お店を探す」でWEST.を選ぶと、この記事のお店を地図で見られます。行きたいお店を保存して、巡礼の計画に使えます。"
 pr: true
+techo: true
+cover_ids: "west-b244f3a1-20260212,west-60740016-20240129,west-aa9f583c-"
+cover_title: "WEST. 聖地巡礼帳"
+cover_sub: "冠番組と公式YouTubeの182軒"
+courses:
+  - title: "新大久保の3軒：KAMI Sweets・7人の回・イキスギ"
+    stops: [west-1f9d5a10-20240805, west-b244f3a1-20260212, west-e547e60d]
+    labels: ["2D Cafe 新大久保店", "大久保1丁目（テーハンミング・CAFE iN）", "山西亭（大久保2丁目）"]
+    legs: ["", ""]
 ---
 
-<div class="pf" style="--pc:#2563eb">
+<div class="pf pf--techo" style="--pc:#2563eb">
 
 <p><strong>重岡大毅・桐山照史・中間淳太・神山智洋・藤井流星・濵田崇裕・小瀧望</strong>の7人で、2026年9月30日までグループで活動したWEST.。お店が出てくるのは、メンバーが常連さんに密着してついて行く冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS）、メンバーが国内外の気になる場所に突撃する冠番組『あなたの代わりに見てきます！リア突WEST』、そして公式YouTubeチャンネル（WESTube）の『のんべぇさんぽ』『喫茶と濵田。』『KAMI Sweets』や大食い企画です。</p>
 
-<p>ほかのグループの冠番組や情報番組に出演した回、雑誌の取材で訪れたお店もあります。この記事では、推しグルメ巡礼MAPに登録しているWEST.のお店<strong>182軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>ほかのグループの冠番組や情報番組に出演した回、雑誌の取材で訪れたお店もあります。この記事では、WEST.のお店<strong>182軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <p class="note">WEST.は、2026年8月30日に所属事務所が藤井流星・小瀧望の脱退を発表し（<a href="https://www.daily.co.jp/gossip/2026/08/30/0020765195.shtml" target="_blank" rel="noopener">デイリースポーツ</a>）、9月24日にSTARTO ENTERTAINMENTが、グループ活動を9月30日で終えると発表しました（<a href="https://kumanichi.com/articles/2039047" target="_blank" rel="noopener">共同通信</a>）。この記事では、番組・動画に出た当時のメンバーとして名前を載せています。</p>
 
@@ -242,30 +251,17 @@ pr: true
 </div>
 {% include matome-members.html group="west" %}
 
-<h2>ひと目でわかる WEST.のグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>WEST.</small>
-    <p class="pf-card__name">WEST.の聖地・ロケ地</p>
-    <p class="pf-card__yomi">2022年〜2026年の冠番組・公式YouTubeから</p>
-    <span class="pf-card__color"><i></i>WEST.</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>182軒</dd></div>
-    <div><dt>冠番組</dt><dd>イキスギさんについてった 93軒・リア突WEST 28軒</dd></div>
-    <div><dt>公式YouTube</dt><dd>46軒（のんべぇさんぽ 17軒ほか）</dd></div>
-    <div><dt>出演した番組</dt><dd>12軒（シューイチ・キントレ・ヒルナンデス！ほか）</dd></div>
-    <div><dt>ドラマのロケ地</dt><dd>0軒（登録なし）</dd></div>
-    <div><dt>多いエリア</dt><dd>新宿区・港区（16軒ずつ）・渋谷区（13軒）</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>182軒のなかから、東京で行きやすいお店を、公式YouTube・『イキスギさんについてった』・『リア突WEST』から1軒ずつ選びました。</p>
+<div class="picks">
+{% include pick.html id="west-b244f3a1-20260212" no="其の一" why="公式YouTube「【まさかの展開！】ミナリサムギョプサル食べてみよう！」（2026年2月）の回。7人そろって、ミナリサムギョプサル・チーズキムチチヂミ・カンジャンケジャンなどを頼んでいます。お店は東京の新大久保（大久保1丁目）で、同じ建物の2階にはKAMI SweetsのCAFE iNがあります。" %}
+{% include pick.html id="west-cda14ab3" no="其の二" why="『イキスギさんについてった』2022年9月6日放送のチャーハンの回。重岡大毅がチャーハン好きの常連さんについて行き、肉ニラ炒めとチャーハンを食べたお店です。場所は東京の浅草3丁目です。" %}
+{% include pick.html id="4dcae48d" no="其の三" why="『リア突WEST』2023年6月18日放送の、濵田崇裕を海外VIPに見立てた東京観光の回で訪れた和食店。黒毛和牛サーロインステーキ・和牛炙り串・だし巻き玉子が出てきます。場所は東京の西麻布です。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>182<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>108<small>軒</small></b><span>東京都のお店</span></div>
-  <div><b>14<small>都府県</small></b><span>国内のお店がある都府県（ほかに海外21軒）</span></div>
-  <div><b>{{ site.data.group_ix.west.n }}<small>軒</small></b><span>このサイトに登録されている、WEST.のお店ぜんぶ</span></div>
-</div>
+<h2>半日で巡るなら：新大久保の3軒</h2>
+<p>KAMI Sweets#003のタピオカの2D Cafe、7人の回のテーハンミングとKAMI SweetsのCAFE iNが入る大久保1丁目の建物、『イキスギさんについてった』の焼きそばの回の山西亭まで。順に回ると、点と点のあいだはまっすぐ結んで300〜500mほどです。</p>
+<figure class="fig course"><img src="/assets/img/posts/west-youtube-gourmet-matome/course-1.svg" alt="新大久保のコース図。1 百人町1丁目の2D Cafe 新大久保店（KAMI Sweets#003）、2 大久保1丁目の同じ建物のテーハンミング（7人の回）とCAFE iN（KAMI Sweets#002）、3 大久保2丁目の山西亭（イキスギさんについてった 中間淳太の焼きそばの回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>『イキスギさんについてった』は、メンバーひとりが常連さんについて行く番組なので、同じ回のお店が同じ街にまとまっています。小瀧望の横浜中華街の回は9軒、郡山ブラックの回は5軒、中間淳太の「激辛、どう？」Part3は港区芝2丁目の3軒です。『リア突WEST』は28軒のうち21軒が香港・ベトナム・フィジー・タイ。公式YouTubeは東京の居酒屋と喫茶店が中心で、ジャンルでは全体の75軒が「食事」、カフェ26軒、居酒屋24軒、中華20軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -342,7 +338,7 @@ pr: true
   <li class="wr">{% include wr-open.html id="west-960ca128-20260608" %}<span class="wr__k">2026<br>6.8</span><b class="wr__name">orca 銀座醸造所（中央区）</b><span class="wr__t">【新企画】中間淳太のなか学ぶ クラフトビール編／中間淳太</span>{% include wr-close.html id="west-960ca128-20260608" %}</li>
 </ul>
 
-<p class="note">動画のタイトル・公開日は公式YouTubeチャンネルで確かめました。注文したものは推しグルメ巡礼MAPのデータより（データのないお店は書いていません）。</p>
+<p class="note">動画のタイトル・公開日は公式YouTubeチャンネルで確かめました。注文したものは、記録のあるお店だけ書いています。</p>
 
 <h2 id="src2">{% include chico.html kind="tv" %}冠番組「イキスギさんについてった」で行ったお店（93軒）</h2>
 <p>『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS）は、ある店やジャンルに通いすぎている常連さん（イキスギさん）に、メンバーがひとりで密着してロケに行く番組です。この記事には2022年5月から2023年10月までの放送回のお店を、放送日の順に載せています。店名の上の日付は放送日です。メンバーが店で食べたかどうかが番組の紹介からわからないお店は「紹介された店」と書いています。</p>
@@ -548,11 +544,11 @@ pr: true
 <h2>WEST.の聖地 年表</h2>
 <p>日付のわかるお店を古い順に並べました（日付は動画の公開日、番組は放送日です）。</p>
 <div class="faq"><details><summary>年表をひらく（85軒・古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/timeline.svg" alt="WEST.の聖地 年表（日付のわかる85軒）。2023年4月〜9月はリア突WESTの香港（藤井流星）・ベトナム（神山智洋）・東京観光と生姜（濵田崇裕ほか）・フィジー（桐山照史）・タイ（濵田崇裕）の回と、イキスギさんについてったの郡山ブラック・CoCo壱番屋・なのにツアー第2弾・羽田空港・かき氷・そうめんと激辛の回、公式YouTubeのドライブ企画の屋形船。2024年1月はシューイチの3軒とのんべぇさんぽ 目黒編①、2月 目黒編②、3月と5月 KAMI Sweets、4月 新橋編、6月 喫茶と濵田。#001〜#003と大食いの牛角、7月 新潟編、8月 KAMI Sweets 新大久保と喫茶と濵田。大森、10月 名古屋編、11月 喫茶と濵田。下北沢、12月 KAMI Sweets 銀座・三軒茶屋と大食いのジョナサン。2025年4月 大井町編、5月 カプリチョーザ、6月 麻布十番編、7〜9月 喫茶と濵田。阿佐ヶ谷・西荻窪、11月 無添蔵、12月 赤坂編。2026年2月 テーハンミングと喫茶と濵田。錦糸町・上野、3月 恵比寿編、4月 横山会と下北沢編、6月 麻辣湯・なか学ぶ・ラーメン山岡家、7月 月島編・喫茶二十世紀・ヨーグルトアイス、8月 神楽坂編" width="420" height="8650" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのデータに日付が入っているお店だけを並べました。『イキスギさんについてった』の多くのお店や出演番組の一部など、データに日付のないお店は年表に入れていません（放送日は本文に載せています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/timeline.svg" alt="WEST.の聖地 年表（日付のわかる85軒）。2023年4月〜9月はリア突WESTの香港（藤井流星）・ベトナム（神山智洋）・東京観光と生姜（濵田崇裕ほか）・フィジー（桐山照史）・タイ（濵田崇裕）の回と、イキスギさんについてったの郡山ブラック・CoCo壱番屋・なのにツアー第2弾・羽田空港・かき氷・そうめんと激辛の回、公式YouTubeのドライブ企画の屋形船。2024年1月はシューイチの3軒とのんべぇさんぽ 目黒編①、2月 目黒編②、3月と5月 KAMI Sweets、4月 新橋編、6月 喫茶と濵田。#001〜#003と大食いの牛角、7月 新潟編、8月 KAMI Sweets 新大久保と喫茶と濵田。大森、10月 名古屋編、11月 喫茶と濵田。下北沢、12月 KAMI Sweets 銀座・三軒茶屋と大食いのジョナサン。2025年4月 大井町編、5月 カプリチョーザ、6月 麻布十番編、7〜9月 喫茶と濵田。阿佐ヶ谷・西荻窪、11月 無添蔵、12月 赤坂編。2026年2月 テーハンミングと喫茶と濵田。錦糸町・上野、3月 恵比寿編、4月 横山会と下北沢編、6月 麻辣湯・なか学ぶ・ラーメン山岡家、7月 月島編・喫茶二十世紀・ヨーグルトアイス、8月 神楽坂編" width="420" height="8650" loading="lazy" decoding="async"><figcaption>日付の分かっているお店だけを並べました。『イキスギさんについてった』の多くのお店や出演番組の一部など、データに日付のないお店は年表に入れていません（放送日は本文に載せています）</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事75軒、カフェ26軒、居酒屋24軒、中華20軒、スイーツとラーメン13軒ずつ、焼肉5軒、和食4軒、その他2軒。場所は東京の港区・新宿区16軒ずつ、渋谷区13軒、神奈川県横浜市13軒、中央区・台東区9軒ずつ、目黒区8軒、千代田区6軒、世田谷区・杉並区・福島県郡山市・ベトナムのホーチミン5軒ずつ、品川区・大田区・タイのバンコク4軒ずつなど。ほかに国内の各地と、香港・フィジー・タイ・ベトナムの店が1〜3軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の182軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事75軒、カフェ26軒、居酒屋24軒、中華20軒、スイーツとラーメン13軒ずつ、焼肉5軒、和食4軒、その他2軒。場所は東京の港区・新宿区16軒ずつ、渋谷区13軒、神奈川県横浜市13軒、中央区・台東区9軒ずつ、目黒区8軒、千代田区6軒、世田谷区・杉並区・福島県郡山市・ベトナムのホーチミン5軒ずつ、品川区・大田区・タイのバンコク4軒ずつなど。ほかに国内の各地と、香港・フィジー・タイ・ベトナムの店が1〜3軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の182軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <div class="pf-videos">
@@ -563,8 +559,8 @@ pr: true
 </div>
 
 <h2>エリアで巡るなら：まずは東京</h2>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/map.svg" alt="WEST.が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>住所・最寄り駅は推しグルメ巡礼MAPのデータより。番組名は「イキスギ」（イキスギさんについてった）・「リア突」（リア突WEST）と略しています。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/map.svg" alt="WEST.が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<p>番組名は「イキスギ」（イキスギさんについてった）・「リア突」（リア突WEST）と略しています。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>新大久保・新宿・高田馬場・早稲田（新宿区・9軒）</strong>：大久保1丁目12番の同じ建物に、KAMI SweetsのCAFE iN（2階）と7人の回のテーハンミング（1階）。KAMI SweetsのOKUDO（新大久保駅 徒歩2分）・2D Cafe 新大久保店（百人町1丁目）、イキスギの山西亭（大久保2丁目）。新宿ではKAMI Sweetsのcois espresso club（新宿1丁目）とイキスギのKatsuプリポー（歌舞伎町1丁目）。シューイチの角煮丼屋 くろしろ（高田馬場3丁目）、イキスギのメルシー（早稲田駅 徒歩2分）。</li>
   <li><strong>神楽坂・四谷・曙橋（新宿区・7軒）</strong>：のんべぇさんぽ 神楽坂編の神楽坂 阿酒羅場（津久戸町）・神楽坂アッカ（神楽坂6丁目）、イキスギのTAPiR（神楽坂5丁目）・果房 メロンとロマン（神楽坂3丁目）、キントレの香港料理店 福全徳（神楽坂3丁目）。イキスギのtrefle（四ツ谷駅 徒歩5分）・定食酒場食堂（片町）。</li>
@@ -597,6 +593,6 @@ pr: true
 </div>
 <p><a href="{{ site.data.group_ix.west.u }}">WEST.のお店一覧（グループのページ）</a>もどうぞ。</p>
 
-<p class="note">公式YouTubeの動画のタイトル・公開日は<a href="https://www.youtube.com/channel/UCR0UabnHWweW4AU_j_0A_tw" target="_blank" rel="noopener">WEST. 公式YouTubeチャンネル</a>で、グループの活動終了は<a href="https://www.daily.co.jp/gossip/2026/08/30/0020765195.shtml" target="_blank" rel="noopener">デイリースポーツ</a>・<a href="https://kumanichi.com/articles/2039047" target="_blank" rel="noopener">共同通信</a>の報道で確かめました。『イキスギさんについてった』『リア突WEST』などテレビ番組の放送日・内容は、ファンサイト・ファンブログの放送回のまとめで確かめた推しグルメ巡礼MAPのデータをもとにまとめています（2026年10月13日）。</p>
+<p class="note">公式YouTubeの動画のタイトル・公開日は<a href="https://www.youtube.com/channel/UCR0UabnHWweW4AU_j_0A_tw" target="_blank" rel="noopener">WEST. 公式YouTubeチャンネル</a>で、グループの活動終了は<a href="https://www.daily.co.jp/gossip/2026/08/30/0020765195.shtml" target="_blank" rel="noopener">デイリースポーツ</a>・<a href="https://kumanichi.com/articles/2039047" target="_blank" rel="noopener">共同通信</a>の報道で確かめました。『イキスギさんについてった』『リア突WEST』などテレビ番組の放送日・内容は、ファンサイト・ファンブログの放送回のまとめで確かめたデータをもとにまとめています（2026年10月13日）。</p>
 
 </div>

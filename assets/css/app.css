@@ -967,3 +967,5 @@ a.badge { min-height: 32px; }
 .art--techo .points { position: relative; background: #fffdf4; border: 1px solid #eadfca; border-radius: 3px; box-shadow: 0 6px 14px -10px rgba(60,40,0,.4); }
 .art--techo .points::before { content: ""; position: absolute; right: 18px; top: -9px; width: 70px; height: 18px; background: rgba(255,255,255,.7); transform: rotate(3deg); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
 .art__notes { margin-top: var(--s-8); }
+.tcover__label b { word-break: keep-all; }
+.tcover__label b span { font-size: .78em; letter-spacing: .2em; }
