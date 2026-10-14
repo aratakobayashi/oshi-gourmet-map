@@ -8,5 +8,5 @@
     <span class="tcover__ph tcover__ph--{{ forloop.index }}">{% if _c.v != '' %}<img src="https://i.ytimg.com/vi_webp/{{ _c.v }}/mqdefault.webp" alt="" width="320" height="180"{% if forloop.first %} fetchpriority="high"{% endif %} decoding="async">{% elsif _c.t != '' %}<img src="{{ _c.t }}" alt="" width="300" height="200" decoding="async">{% endif %}<span class="tcover__cap">{{ _c.n | truncate: 16, '…' }}</span></span>
   {%- endif %}{% endfor %}
   </div>
-  <div class="tcover__label"><small>{{ include.sub }}</small><b>{{ include.title }}</b><span class="tcover__no">No.{{ page.date | date: "%y%m" }}</span></div>
+  <div class="tcover__label"><small>{{ include.sub }}</small><b>{{ include.title | replace: ' 聖地巡礼帳', '<br><span>聖地巡礼帳</span>' }}</b><span class="tcover__no">No.{{ page.date | date: "%y%m" }}</span></div>
 </figure>

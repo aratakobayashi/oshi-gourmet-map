@@ -67,7 +67,7 @@ def draw(course, shops, color):
          f'<rect width="{W}" height="{H}" rx="14" fill="#fbf6ea"/>',
          # 方眼のノート
          '<g stroke="#eadfca" stroke-width="1">' + ''.join(f'<line x1="0" y1="{y}" x2="{W}" y2="{y}"/>' for y in range(20, H, 20)) + '</g>',
-         f'<text x="22" y="44" font-size="20" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(course["title"])}</text>',
+         f'<text x="22" y="44" font-size="{min(20, (W - 44) / max(1, sum(1 if ord(ch) > 255 else .55 for ch in course["title"]))):.1f}" font-weight="800" fill="{INK}" font-family="{SERIF}">{esc(course["title"])}</text>',
          f'<text x="22" y="68" font-size="12.5" fill="{INK2}">点の位置は実際の向き・距離の比のとおり（手描き風の図）</text>']
     total = 0.0
     dists = []

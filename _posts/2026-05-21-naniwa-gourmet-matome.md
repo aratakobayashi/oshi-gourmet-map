@@ -152,7 +152,7 @@ faq:
   - q: "なにわ男子が行ったお店はどこで探せますか？"
     a: "この記事では、めざましテレビのコーナー「なにわ男子のどっち派！？」（83軒）と「なにわ男子のなんでやねん！」（27軒）、なにわ男子の公式YouTube（4軒）、『笑ってコラえて！』の朝までハシゴの旅（6軒）に出てきた120軒を、放送日・出たメンバー・食べたものと一緒に載せています。メンバーがロケで訪れたお店が中心ですが、なんでやねん！にはメンバーが店に行ったか確かめきれていないお店もあり、本文にそのことを書いています。"
   - q: "「なにわ男子のどっち派！？」ではどんなお店に行っていますか？"
-    a: "2023年5月から2026年3月までの放送で、メンバーがひとりずつロケに出ています。推しグルメ巡礼MAPのデータでは、大橋和也18軒、長尾謙杜16軒、西畑大吾13軒、大西流星12軒、道枝駿佑12軒、藤原丈一郎8軒、高橋恭平4軒。谷中や府中の古民家・お寺のカフェ（西畑）、熱海駅まわりの6軒（道枝）、かき氷やスイーツのコース（大橋）、パンやハンバーグ（長尾）などがあります。"
+    a: "2023年5月から2026年3月までの放送で、メンバーがひとりずつロケに出ています。大橋和也18軒、長尾謙杜16軒、西畑大吾13軒、大西流星12軒、道枝駿佑12軒、藤原丈一郎8軒、高橋恭平4軒。谷中や府中の古民家・お寺のカフェ（西畑）、熱海駅まわりの6軒（道枝）、かき氷やスイーツのコース（大橋）、パンやハンバーグ（長尾）などがあります。"
   - q: "「なにわ男子のなんでやねん！」のお店はどこですか？"
     a: "2020年10月から2023年2月までの放送の27軒で、すべて東京都です。チキンバーガー（長尾謙杜）、銀座のラーメン（高橋恭平）、池袋の中華（西畑大吾）、大衆食堂や駅ナカ・立ち食い寿司（藤原丈一郎）、エンタメレストラン（高橋恭平）などのテーマがあります。"
   - q: "公式YouTubeに出てきたお店はどこですか？"
@@ -162,9 +162,18 @@ faq:
   - q: "なにわ男子のお店をまとめて地図で見られますか？"
     a: "「お店を探す」でなにわ男子を選ぶと、この記事のお店を地図で見られます。行きたいお店を保存して、巡礼の計画に使えます。"
 pr: true
+techo: true
+cover_ids: "naniwa-coco-202412,naniwa-9d3720a8-,naniwa-kamera-20220422"
+cover_title: "なにわ男子 聖地巡礼帳"
+cover_sub: "めざまし・公式YouTubeの120軒"
+courses:
+  - title: "銀座から東京駅へ：めざましの4軒"
+    stops: [naniwa-376379fa-20230505, naniwa-9d3720a8-, naniwa-1d6e8883-20230602, naniwa-a9a20a89-20220520]
+    labels: ["銀座朝食ラボ（銀座7丁目）", "喫茶 アメリカン（銀座4丁目）", "ジョリッティカフェ（有楽町）", "ギョーザ スタンド ウーロン（東京駅）"]
+    legs: ["", "", "有楽町→東京はJR山手線で1駅"]
 ---
 
-<div class="pf" style="--pc:#f97316">
+<div class="pf pf--techo" style="--pc:#f97316">
 
 <p><strong>西畑大吾・大西流星・道枝駿佑・高橋恭平・長尾謙杜・藤原丈一郎・大橋和也</strong>の7人のなにわ男子。お店がいちばん多く出てくるのは、フジテレビ「めざましテレビ」のコーナーです。2020年から2023年の「なにわ男子のなんでやねん！」、2023年からの「なにわ男子のどっち派！？」で、メンバーがひとりずつ東京や近くの街のお店をロケで訪れています。</p>
 
@@ -176,30 +185,17 @@ pr: true
 </div>
 {% include matome-members.html group="naniwa" %}
 
-<h2>ひと目でわかる なにわ男子のグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>なにわ男子</small>
-    <p class="pf-card__name">なにわ男子のロケ地</p>
-    <p class="pf-card__yomi">2020年〜2026年の放送・動画から</p>
-    <span class="pf-card__color"><i></i>なにわ男子の7人</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>120軒</dd></div>
-    <div><dt>どっち派！？</dt><dd>83軒（2023〜2026年）</dd></div>
-    <div><dt>なんでやねん！</dt><dd>27軒（2020〜2023年）</dd></div>
-    <div><dt>公式YouTube</dt><dd>4軒（2024年）</dd></div>
-    <div><dt>出演した番組</dt><dd>笑ってコラえて！（大阪・福島6軒）</dd></div>
-    <div><dt>多いエリア</dt><dd>港区11軒、渋谷区・新宿区10軒ずつ</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>120軒のなかから、東京で行きやすく、メンバーがロケで訪れたお店を、公式YouTube・「どっち派！？」・「なんでやねん！」から1軒ずつ選びました。</p>
+<div class="picks">
+{% include pick.html id="naniwa-coco-202412" no="其の一" why="公式YouTube「ココイチで被っちゃダメよカレー」（2024年12月）の回。7人が注文を被らないように選び、納豆カレー（道枝）、The海老スープカレー（高橋）、カキフライカレー（大橋）などを頼んでいます。お店は東京の中目黒です。" %}
+{% include pick.html id="naniwa-9d3720a8-" no="其の二" why="めざましテレビ「なにわ男子のどっち派！？」（2024年10月18日放送）で、藤原丈一郎がタマゴサンドを食べた喫茶店。お店は東京の銀座4丁目です。" %}
+{% include pick.html id="naniwa-kamera-20220422" no="其の三" why="めざましテレビ「なにわ男子のなんでやねん！」の「シューマイの存在感が増しているのなんでやねん！」（2022年4月22日放送）で、高橋恭平が富士鶏と豆腐の水焼売を食べたお店。お店は東京の渋谷・道玄坂です。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>120<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>90<small>軒</small></b><span>東京都のお店</span></div>
-  <div><b>7<small>都府県</small></b><span>東京・静岡・大阪・埼玉・神奈川・千葉・栃木</span></div>
-  <div><b>{{ site.data.group_ix.naniwa.n }}<small>軒</small></b><span>このサイトに登録されている、なにわ男子のお店ぜんぶ</span></div>
-</div>
+<h2>半日で巡るなら：銀座から東京駅へ</h2>
+<p>「どっち派！？」の長尾謙杜・藤原丈一郎・大橋和也の回のお店と、「なんでやねん！」で藤原丈一郎が訪れた東京駅の駅ナカのお店。銀座から有楽町、東京駅まで、4軒がまとまっています。</p>
+<figure class="fig course"><img src="/assets/img/posts/naniwa-gourmet-matome/course-1.svg" alt="銀座から東京駅へのコース図。1 銀座7丁目の銀座朝食ラボ（長尾謙杜）、2 銀座4丁目の喫茶 アメリカン（藤原丈一郎）、3 有楽町のジョリッティカフェ（大橋和也）、4 東京駅 グランスタ東京の東京ギョーザ スタンド ウーロン（藤原丈一郎。有楽町からJR山手線で1駅）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>「どっち派！？」は、1回の放送でひとりのメンバーが2〜6軒を回る回が多くあります。同じ回のお店は同じ街や沿線にまとまっていることが多く、2026年3月の道枝駿佑の回は6軒すべてが熱海市、2025年3月の大西流星の回は神田に2軒、2023年10月の西畑大吾の回は谷中・浅草・芝公園・府中のお寺や古民家のカフェでした。推しの回をひとつ選んで、そのまま巡るのがおすすめです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -213,7 +209,7 @@ pr: true
 </ul>
 
 <h3>ココイチの回：7人の「被っちゃダメよ」</h3>
-<p>推しグルメ巡礼MAPのデータにある、メンバーごとの注文です。</p>
+<p>メンバーごとの注文です。</p>
 <ul class="pf-works">
   <li><span class="k">西畑</span><div><b>パリパリチキンカレー</b><span>2辛、ほうれん草、CoCo deチキン。ほかに手仕込みとんかつカレー、ローストチキンスープカレー</span></div></li>
   <li><span class="k">大西</span><div><b>ロースカツカレー＋野菜</b><span>ソーセージサラダ、低糖質カレー、チキンカツ</span></div></li>
@@ -338,14 +334,14 @@ pr: true
   <li class="wr">{% include wr-open.html id="naniwa-87719514-20260123" %}<span class="wr__k">2026<br>1.23</span><b class="wr__name">おひつごはん四六時中 板橋店</b><span class="wr__t">ほうじ茶御膳</span>{% include wr-close.html id="naniwa-87719514-20260123" %}</li>
 </ul>
 
-<p class="note">日付は放送日です。食べたものは推しグルメ巡礼MAPのデータと、確認に使ったファンブログより（わからないお店は書いていません）。</p>
+<p class="note">日付は放送日です。食べたものは店のデータと、確認に使ったファンブログより（わからないお店は書いていません）。</p>
 
 <h2 id="src3">{% include chico.html kind="other" %}めざましテレビ「なにわ男子のなんでやねん！」で行ったお店</h2>
 <p>「〜のなんでやねん！を解明」として、はやりの理由をメンバーが調べに行くコーナーです（2020〜2023年）。テーマごとに分けました。放送の中身をファンブログなどで確かめきれなかったお店や、メンバーが店に行ったか確かめきれなかったお店は、そう書いています。</p>
 
 <h3>ハンバーグ・ハンバーガー・ピザ（6軒）</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="naniwa-f5c2bfbf-20201016" %}<span class="wr__k">2020<br>10.16</span><b class="wr__name">挽肉と米 吉祥寺店</b><span class="wr__t">「ハンバーグにハマる女子急増のなんでやねん！を解明」／推しグルメ巡礼MAPのデータでは藤原丈一郎がハンバーグ定食を食べた回（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-f5c2bfbf-20201016" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-f5c2bfbf-20201016" %}<span class="wr__k">2020<br>10.16</span><b class="wr__name">挽肉と米 吉祥寺店</b><span class="wr__t">「ハンバーグにハマる女子急増のなんでやねん！を解明」／記録では藤原丈一郎がハンバーグ定食を食べた回（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-f5c2bfbf-20201016" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-637d6485-20201016" %}<span class="wr__k">2020<br>10.16</span><b class="wr__name">鉄板和食とワイン 萬鉄（汐留）</b><span class="wr__t">同じ回で紹介されたお店（メンバーが食べたかは確かめきれていません）</span>{% include wr-close.html id="naniwa-637d6485-20201016" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-pst-20210820" %}<span class="wr__k">2021<br>8.20</span><b class="wr__name">PST 六本木店</b><span class="wr__t">「熱々グルメがひんやりグルメになっているのなんでやねん！を解明」／西畑大吾がトマトのかき氷をのせた「冷やしPizza」をひとくち（お店の公式ブログで確認。六本木店か東麻布店かは確かめきれていません）</span>{% include wr-close.html id="naniwa-pst-20210820" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-doowop-20211126" %}<span class="wr__k">2021<br>11.26</span><b class="wr__name">DooWop</b><span class="wr__t">「チキンバーガー専門店が急増してるのなんでやねん！を解明」／長尾謙杜／BBQエッグ（放送は代官山店。ファンブログでは代官山店は閉業とあります）</span>{% include wr-close.html id="naniwa-doowop-20211126" %}</li>
@@ -355,10 +351,10 @@ pr: true
 
 <h3>そうめん・焼肉・中華・ラーメン・シューマイ（9軒）</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="naniwa-b723a30f-202107" %}<span class="wr__k">2021<br>7.9</span><b class="wr__name">そうめん そそそ 研究室（渋谷ヒカリエ）</b><span class="wr__t">推しグルメ巡礼MAPのデータでは高橋恭平が訪れた回（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-b723a30f-202107" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-b723a30f-202107" %}<span class="wr__k">2021<br>7.9</span><b class="wr__name">そうめん そそそ 研究室（渋谷ヒカリエ）</b><span class="wr__t">記録では高橋恭平が訪れた回（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-b723a30f-202107" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-meat_it-20211029" %}<span class="wr__k">2021<br>10.29</span><b class="wr__name">焼肉Meat it（町田）</b><span class="wr__t">「新しいタイプの焼き肉店が拡大しているのなんでやねん！を解明」で取り上げた焼肉店（大西流星が店に行ったかは確かめきれていません）</span>{% include wr-close.html id="naniwa-meat_it-20211029" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-22c5cab0-20211029" %}<span class="wr__k">2021<br>10.29</span><b class="wr__name">焼肉ストーリー（水道橋）</b><span class="wr__t">同じ回で取り上げた焼肉店（大西流星が店に行ったかは確かめきれていません）</span>{% include wr-close.html id="naniwa-22c5cab0-20211029" %}</li>
-  <li class="wr">{% include wr-open.html id="naniwa-4cfc66d4-20211119" %}<span class="wr__k">2021<br>11.19</span><b class="wr__name">沸騰 小吃城（池袋）</b><span class="wr__t">「池袋が中華街になっているのなんでやねん！を解明」／推しグルメ巡礼MAPのデータでは西畑大吾が揚げUFOを食べた中華フードコート（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-4cfc66d4-20211119" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-4cfc66d4-20211119" %}<span class="wr__k">2021<br>11.19</span><b class="wr__name">沸騰 小吃城（池袋）</b><span class="wr__t">「池袋が中華街になっているのなんでやねん！を解明」／記録では西畑大吾が揚げUFOを食べた中華フードコート（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-4cfc66d4-20211119" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-9b0684c4-20211119" %}<span class="wr__k">2021<br>11.19</span><b class="wr__name">四季香（池袋）</b><span class="wr__t">同じ回／データでは西畑大吾がカエルの足の鉄板焼きを食べた店（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-9b0684c4-20211119" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-56665469-20211217" %}<span class="wr__k">2021<br>12.17</span><b class="wr__name">むぎとオリーブ（銀座）</b><span class="wr__t">「銀座におしゃれ系ラーメン店が増えているのなんでやねん！を解明」／高橋恭平／蛤SOBA</span>{% include wr-close.html id="naniwa-56665469-20211217" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-987ebf82-20211217" %}<span class="wr__k">2021<br>12.17</span><b class="wr__name">ウミノイロ</b><span class="wr__t">同じ回／高橋恭平／濃厚海老ソバ（ファンブログでは中央区豊海町へ移転とあります）</span>{% include wr-close.html id="naniwa-987ebf82-20211217" %}</li>
@@ -368,7 +364,7 @@ pr: true
 
 <h3>カフェとパン（3軒）</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="naniwa-muun_seoul-20201023" %}<span class="wr__k">2020<br>10.23</span><b class="wr__name">MUUN seoul（原宿）</b><span class="wr__t">推しグルメ巡礼MAPのデータでは長尾謙杜が訪れた韓国カフェ（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-muun_seoul-20201023" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-muun_seoul-20201023" %}<span class="wr__k">2020<br>10.23</span><b class="wr__name">MUUN seoul（原宿）</b><span class="wr__t">記録では長尾謙杜が訪れた韓国カフェ（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-muun_seoul-20201023" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-trufflebakery-20211001" %}<span class="wr__k">2021<br>10.1</span><b class="wr__name">TruffleBAKERY（門前仲町）</b><span class="wr__t">データでは大橋和也が訪れたベーカリー（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-trufflebakery-20211001" %}</li>
   <li class="wr">{% include wr-open.html id="naniwa-le_bresso-202110" %}<span class="wr__k">2021<br>10.1</span><b class="wr__name">Le BRESSO 木場公園前店</b><span class="wr__t">データでは同じ日に大橋和也が訪れた、食パンとコーヒーの店（放送の中身は確かめきれていません）</span>{% include wr-close.html id="naniwa-le_bresso-202110" %}</li>
 </ul>
@@ -400,11 +396,11 @@ pr: true
 <h2>なにわ男子の聖地 年表</h2>
 <p>日付のわかるお店を古い順に並べました（テレビは放送日、YouTubeは公開日です）。</p>
 <div class="faq"><details><summary>年表をひらく（109軒・日付の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/timeline.svg" alt="なにわ男子の聖地 年表（109軒）。2020年10月 なんでやねん！のハンバーグの回（挽肉と米 吉祥寺店・萬鉄）とMUUN seoul。2021年 そうめん そそそ 研究室、PSTの冷やしPizza、TruffleBAKERYとLe BRESSO、焼肉の回、池袋の中華の回、チキンバーガーの回、銀座のラーメンの回。2022年 大衆食堂、シューマイ（KAMERA）、駅ナカ、立ち食い寿司、エンタメレストランの回。2023年2月 牡蠣と魚。2023年5月から どっち派！？：銀座朝食ラボ、かき氷とジェラート、動物カフェ、ラーメン、立ち食い・半個室のお店、パン、古民家とお寺のカフェ、デニーズ、夜のシメ。2024年 新大久保と西葛西のスイーツ、いちご、オムライス、道の駅しょうなん、フードコート、公式YouTubeの静岡旅（石松餃子・富士屋）と打ち上げ（もんじゃと酒膳 かりん）、ココイチの回。2025年 神田・朝霞の回、スイーツのコース、ファミレスのコラボ、ピザやチュロス、千葉・埼玉の回、池袋のハンバーグとラーメン、日光もなか、抹茶、伊豆。2026年1月 ハンバーガーとラーメン、3月 ヨーグルトの回と熱海の6軒" width="420" height="9676" loading="lazy" decoding="async"><figcaption>テレビの回は放送日の順です。推しグルメ巡礼MAPのデータに日付のない11軒（2024年10月の「どっち派！？」の5軒と、2024年8月放送の『笑ってコラえて！』の6軒）は年表に入れていません（放送日は本文に載せています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/timeline.svg" alt="なにわ男子の聖地 年表（109軒）。2020年10月 なんでやねん！のハンバーグの回（挽肉と米 吉祥寺店・萬鉄）とMUUN seoul。2021年 そうめん そそそ 研究室、PSTの冷やしPizza、TruffleBAKERYとLe BRESSO、焼肉の回、池袋の中華の回、チキンバーガーの回、銀座のラーメンの回。2022年 大衆食堂、シューマイ（KAMERA）、駅ナカ、立ち食い寿司、エンタメレストランの回。2023年2月 牡蠣と魚。2023年5月から どっち派！？：銀座朝食ラボ、かき氷とジェラート、動物カフェ、ラーメン、立ち食い・半個室のお店、パン、古民家とお寺のカフェ、デニーズ、夜のシメ。2024年 新大久保と西葛西のスイーツ、いちご、オムライス、道の駅しょうなん、フードコート、公式YouTubeの静岡旅（石松餃子・富士屋）と打ち上げ（もんじゃと酒膳 かりん）、ココイチの回。2025年 神田・朝霞の回、スイーツのコース、ファミレスのコラボ、ピザやチュロス、千葉・埼玉の回、池袋のハンバーグとラーメン、日光もなか、抹茶、伊豆。2026年1月 ハンバーガーとラーメン、3月 ヨーグルトの回と熱海の6軒" width="420" height="9676" loading="lazy" decoding="async"><figcaption>テレビの回は放送日の順です。日付の記録がない11軒（2024年10月の「どっち派！？」の5軒と、2024年8月放送の『笑ってコラえて！』の6軒）は年表に入れていません（放送日は本文に載せています）</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事31軒、カフェ31軒、スイーツ15軒、ラーメン11軒、居酒屋10軒、焼肉9軒、中華5軒、和食5軒、その他3軒。場所は港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒、大阪府大阪市7軒、中央区7軒、熱海市6軒、台東区・豊島区5軒ずつなど" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の120軒を数えました（ジャンルは推しグルメ巡礼MAPのデータの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事31軒、カフェ31軒、スイーツ15軒、ラーメン11軒、居酒屋10軒、焼肉9軒、中華5軒、和食5軒、その他3軒。場所は港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒、大阪府大阪市7軒、中央区7軒、熱海市6軒、台東区・豊島区5軒ずつなど" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の120軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>なにわ男子の公式YouTubeから、お店が登場する4本です（タップすると再生します）。</p>
@@ -417,7 +413,7 @@ pr: true
 
 <h2>エリアで巡るなら：まずは東京（90軒）</h2>
 <figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/map.svg" alt="なにわ男子が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>住所・最寄り駅は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・新橋・汐留（8軒）</strong>：喫茶 アメリカン（銀座駅 徒歩1分）・銀座朝食ラボ（東銀座駅 徒歩6分）・むぎとオリーブ（銀座駅 徒歩1分）・銀座 創龍（銀座6丁目）・ウミノイロ（移転の情報あり）・ジョリッティカフェ（有楽町マルイ）・はるちゃんラーメン（新橋駅 徒歩2分）・萬鉄（カレッタ汐留）。</li>
   <li><strong>人形町・茅場町・門前仲町・木場（5軒）</strong>：ふわり（人形町駅 徒歩1分）・nib（茅場町駅 徒歩3分）・TruffleBAKERY（門前仲町駅 徒歩1分）・MONNAKA COFFEE（門前仲町2丁目）・Le BRESSO 木場公園前店（清澄白河駅 徒歩11分）。</li>
