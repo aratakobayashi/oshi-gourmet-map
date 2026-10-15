@@ -19,7 +19,7 @@
     ],
     "group": "yonino",
     "visited_date": "2026-01-04",
-    "description": "浅草の人気もんじゃ・鉄板焼き店。特選明太スペシャルもんじゃや浅草のりもんじゃが名物。よにのちゃんねる#272・#490で登場。",
+    "description": "よにのちゃんねるの「#490【2025!!】忘年会しでた！の日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたもんじゃ焼き店。",
     "tags": [
       "もんじゃ",
       "鉄板焼き",
@@ -71,7 +71,10 @@
     ],
     "source_video_title": "#490【2025!!】忘年会しでた！の日",
     "source_video_channel": "よにのちゃんねる",
-    "nearest_station": "浅草駅"
+    "nearest_station": "浅草駅",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "2023年の#272（もんじゃ回）にも登場とする元データの記載は未確認"
   },
   {
     "id": "yonino-hikiniku-to-kome",
@@ -93,7 +96,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-03-26",
-    "description": "渋谷区のレストラン。二宮和也・山田涼介・菊池風磨が2025年3月に訪れた。ハンバーグ・行列店が楽しめる。2021年11月の動画で登場。朝食シリーズとしてメンバーが絶賛したハンバーグ専門店。",
+    "description": "よにのちゃんねるの「#408【ゲスト!!】凄い人が来た日」（2025年3月）で二宮和也・山田涼介・菊池風磨の3人がゲストの大森元貴と訪れたハンバーグ定食の店。",
     "tags": [
       "ハンバーグ",
       "渋谷",
@@ -137,7 +140,12 @@
         "name": "黒烏龍茶"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "大森元貴"
+    ]
   },
   {
     "id": "yonino-peter-luger",
@@ -159,7 +167,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-10-22",
-    "description": "NY・ブルックリン発、創業136年の伝説のステーキ専門店。ドライエイジングビーフの名店。よにのちゃんねる#468で登場。",
+    "description": "よにのちゃんねるの「#468 【朝飯!!】ははははは、、、の日」（2025年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れたステーキハウス。",
     "tags": [
       "ステーキ",
       "恵比寿",
@@ -208,7 +216,9 @@
       }
     ],
     "source_video_title": "#468 【朝飯!!】ははははは、、、の日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-ichiran-nakano",
@@ -230,7 +240,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-12-03",
-    "description": "天然とんこつラーメンの名店・一蘭の中野店。一人一人仕切られた「味集中カウンター」スタイルで有名。よにのちゃんねる#480で登場。",
+    "description": "よにのちゃんねるの「#480【朝食!!】朝ラーだよな、、、の日」（2025年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。",
     "tags": [
       "ラーメン",
       "とんこつ",
@@ -241,7 +251,9 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13201776/",
     "nearest_station": "中野駅 徒歩3分",
     "source_video_title": "#480【朝食!!】朝ラーだよな、、、の日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-400-pizza",
@@ -255,15 +267,14 @@
     "youtube_id": "AsbV0ZAiFMQ",
     "members": [
       "二宮和也",
-      "山田涼介",
-      "菊池風磨"
+      "山田涼介"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2025-06-15",
-    "description": "神楽坂の予約困難ピッツェリア。400℃の高温で焼き上げるサクサクふわふわの生地が絶品。ミシュランビブグルマン受賞。よにのちゃんねる#431で登場。",
+    "description": "よにのちゃんねるの「#431【朝食!!】やまだとざーぴーな日」（2025年6月）で二宮和也・山田涼介が訪れたピッツェリア。",
     "tags": [
       "ピザ",
       "神楽坂",
@@ -294,7 +305,10 @@
       {
         "name": "レモンソーダ"
       }
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "コメント欄から二宮・山田の2人回と判断（菊池は不在）"
   },
   {
     "id": "yonino-sushi-bun",
@@ -316,7 +330,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-10-08",
-    "description": "豊洲市場内に構える江戸時代創業の老舗寿司店。天然物にこだわった本格江戸前寿司が朝から楽しめる。よにのちゃんねる#464で登場。",
+    "description": "よにのちゃんねるの「#464【朝飯!!】シースの日」（2025年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れた寿司店。",
     "tags": [
       "寿司",
       "豊洲市場",
@@ -327,17 +341,19 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131307/13228423/",
     "nearest_station": "市場前駅 徒歩3分",
     "source_video_title": "#464【朝飯!!】シースの日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-youhachi-sangenchaya",
     "name": "ジンギスカン羊はち 三軒茶屋店",
     "genre": "yakiniku",
     "prefecture": "東京都",
-    "city": "世田谷区",
-    "address": "東京都世田谷区三軒茶屋2-14-1 三茶ダイニングビル1F",
-    "lat": 35.642117,
-    "lng": 139.668789,
+    "city": "杉並区",
+    "address": "東京都杉並区高円寺北3-24-10",
+    "lat": 35.707264,
+    "lng": 139.649857,
     "youtube_id": "Our3JGeWP7k",
     "members": [
       "二宮和也",
@@ -349,7 +365,7 @@
     ],
     "group": "yonino",
     "visited_date": "2026-03-11",
-    "description": "冷凍なしの新鮮な生ラム・マトンを手頃な価格で楽しめる人気ジンギスカン店。ラムタンや飲めるジンギスカンが名物。よにのちゃんねる#509で登場。",
+    "description": "よにのちゃんねるの「#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日」（2026年3月）で二宮和也・山田涼介・菊池風磨の3人が訪れたジンギスカン店。",
     "tags": [
       "ジンギスカン",
       "三軒茶屋",
@@ -360,7 +376,10 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13288611/",
     "source_video_title": "#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日",
     "source_video_channel": "よにのちゃんねる",
-    "nearest_station": "三軒茶屋駅"
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "動画の概要欄・関連動画のタイトルは「高円寺」。登録の三軒茶屋店ではなく高円寺店（杉並区高円寺北3-24-10）の可能性が高い。住所・店名の修正が必要",
+    "tabelog_verified": null
   },
   {
     "id": "yonino-kintan-akasaka",
@@ -382,7 +401,7 @@
     ],
     "group": "yonino",
     "visited_date": "2026-01-28",
-    "description": "30日間熟成させた牛タン「金舌」が看板の赤坂の名店。完全個室で楽しめる割烹スタイルの焼肉。よにのちゃんねる2026年1月回で登場。",
+    "description": "よにのちゃんねるの「#497【飯!!】どんでもない豪華な日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れた牛タン料理店。",
     "tags": [
       "焼肉",
       "牛タン",
@@ -413,7 +432,9 @@
       {
         "name": "黒烏龍茶"
       }
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-daruma-azabu",
@@ -435,7 +456,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-11-19",
-    "description": "麻布十番駅徒歩1分の人気しゃぶしゃぶ・すき焼き店。こだわり食材で少し優雅なひとときを。よにのちゃんねる#476で登場。",
+    "description": "よにのちゃんねるの「#476【朝食!!】卍奢りの日」（2025年11月）で二宮和也・山田涼介・菊池風磨の3人が訪れたしゃぶしゃぶ・すき焼き店。",
     "tags": [
       "しゃぶしゃぶ",
       "すき焼き",
@@ -463,7 +484,9 @@
       }
     ],
     "source_video_title": "#476【朝食!!】卍奢りの日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-paul-bassett-shinjuku",
@@ -485,7 +508,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-05-14",
-    "description": "バリスタ世界チャンピオンのポール・バセットが手がけるエスプレッソカフェ。スペシャルティコーヒーの名店。よにのちゃんねる#422で登場。",
+    "description": "よにのちゃんねるの「#422 【ドライブ!!】ダラダラと…ありがとうございますの日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -513,7 +536,9 @@
     "nearest_station": "新宿西口駅 徒歩3分",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/66/73/P015966673/P015966673_238.jpg",
     "source_video_title": "#422 【ドライブ!!】ダラダラと…ありがとうございますの日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-negiya-heikichi",
@@ -535,7 +560,7 @@
     ],
     "group": "yonino",
     "visited_date": "2026-01-18",
-    "description": "炭火で焼き上げた名物葱焼きをはじめ、葱を使った創作料理が楽しめる葱専門居酒屋。よにのちゃんねる2026年1月回で登場。",
+    "description": "よにのちゃんねるの「#494【朝飯!!】山田がハマった日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れた葱料理の店。",
     "tags": [
       "居酒屋",
       "葱料理",
@@ -563,7 +588,9 @@
       }
     ],
     "source_video_title": "#494【朝飯!!】山田がハマった日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-rishiri-ramen",
@@ -577,15 +604,14 @@
     "youtube_id": "Lw2KlLWox6g",
     "members": [
       "二宮和也",
-      "山田涼介",
-      "菊池風磨"
+      "山田涼介"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2026-03-04",
-    "description": "北海道・利尻島発の利尻昆布だしが効いた塩ラーメンの名店。新横浜ラーメン博物館内に出店。よにのちゃんねる#507で登場。",
+    "description": "よにのちゃんねるの「#507【博物館!!】山田史上最高が出た日」（2026年3月）で二宮和也・山田涼介が訪れたラーメン店（新横浜ラーメン博物館内）。",
     "tags": [
       "ラーメン",
       "塩ラーメン",
@@ -622,7 +648,10 @@
       }
     ],
     "source_video_title": "#507【博物館!!】山田史上最高が出た日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "スノーボード帰りの二宮・山田の2人回（コメント欄・概要欄より）"
   },
   {
     "id": "yonino-beasty-coffee",
@@ -644,7 +673,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-12-07",
-    "description": "渋谷区のカフェ。二宮和也・山田涼介・菊池風磨が2025年12月に訪れた。コーヒー・スペシャルティが楽しめる。代々木公園近くのカフェ。朝食シリーズでこだわりのコーヒーとテリーヌを堪能。",
+    "description": "よにのちゃんねるの「#481【ドライブ!!】遅れました。ごめんなさいの日」（2025年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -670,7 +699,10 @@
         "name": "カカオエッグタルト"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "店名は動画の説明文・コメントでは確かめられず（元データの記載のまま）"
   },
   {
     "id": "yonino-taoca-coffee",
@@ -692,7 +724,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-11-23",
-    "description": "兵庫・西宮で人気の実力派スペシャルティコーヒーロースターの東京1号店。南青山の洗練されたエリアに2024年オープン。よにのちゃんねる#477で登場。",
+    "description": "よにのちゃんねるの「#477【新誕!!】お金払いチャンネルの日」（2025年11月）で二宮和也・山田涼介・菊池風磨の3人が訪れたコーヒー店。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -714,7 +746,9 @@
         "name": "エチオピアアイスコーヒー"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-kisaburo-farm",
@@ -736,7 +770,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-11-12",
-    "description": "「タマリエ（卵のソムリエ）」資格を持つ店主が厳選した全国の卵を使った卵料理・親子丼専門店。甲斐路軍鶏を使った親子丼が絶品。よにのちゃんねる#474で登場。",
+    "description": "よにのちゃんねるの「#474【コラボ!!】三男と四男が人見知り発動の日」（2025年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの杏と訪れた卵料理・親子丼の店。",
     "tags": [
       "親子丼",
       "卵料理",
@@ -767,7 +801,12 @@
       }
     ],
     "source_video_title": "#474【コラボ!!】三男と四男が人見知り発動の日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "杏"
+    ]
   },
   {
     "id": "yonino-verve-coffee-ebisu",
@@ -789,7 +828,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-10-26",
-    "description": "米カリフォルニア発のスペシャルティコーヒーロースター。恵比寿ガーデンプレイス内の開放的な空間で上質なコーヒーを楽しめる。よにのちゃんねる#469で登場。",
+    "description": "よにのちゃんねるの「#469【続き!!】しんどくて発狂した日」（2025年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れたコーヒー店。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -820,7 +859,10 @@
         "name": "ハッシュドバター(アプリコット)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "#468（ピーター・ルーガー）の続きの回"
   },
   {
     "id": "yonino-passage-coffee",
@@ -842,7 +884,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-10-12",
-    "description": "田町・三田エリアの人気スペシャルティコーヒースタンド。厳選した豆を丁寧に抽出した一杯が楽しめる。よにのちゃんねる#465で登場。",
+    "description": "よにのちゃんねるの「#465【ドライブ!!】久しぶりの3人の日」（2025年10月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "コーヒー",
@@ -864,7 +906,10 @@
         "name": "アイスカフェラテ(L)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "ドライブ中のコーヒー休憩。店で買ったのはじゃんけんで負けた山田（コメントより）"
   },
   {
     "id": "yonino-unafuji-yurakucho",
@@ -886,7 +931,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-08-27",
-    "description": "名古屋発の炭焼きうなぎ専門店の有楽町・日比谷OKUROJI店。ひつまぶしと蒲焼きが人気。よにのちゃんねる#452で登場。",
+    "description": "よにのちゃんねるの「#452【飯!!】山田様の奢りの日」（2025年8月）で二宮和也・山田涼介・菊池風磨の3人が訪れたうなぎ店。",
     "tags": [
       "うなぎ",
       "有楽町",
@@ -897,7 +942,9 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13250032/",
     "nearest_station": "内幸町駅 徒歩3分",
     "source_video_title": "#452【飯!!】山田様の奢りの日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-bouinboshoku",
@@ -919,7 +966,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-08-06",
-    "description": "東陽町の大衆焼肉店。手頃な価格でがっつり焼肉が楽しめる。2024年オープンの新進気鋭の焼肉店。よにのちゃんねる#446で登場。",
+    "description": "よにのちゃんねるの「#446【朝食!!】肉肉肉肉肉肉肉日」（2025年8月）で二宮和也・山田涼介・菊池風磨の3人が訪れた焼肉店。",
     "tags": [
       "焼肉",
       "東陽町",
@@ -941,7 +988,9 @@
       }
     ],
     "source_video_title": "#446【朝食!!】肉肉肉肉肉肉肉日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-goldrush-shibuya",
@@ -963,7 +1012,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-07-30",
-    "description": "昭和55年創業の老舗ハンバーグ専門店。ビーフ100%の手づくりハンバーグが看板。渋谷東急ハンズ近くに位置する不動の名店。よにのちゃんねる#444で登場。",
+    "description": "よにのちゃんねるの「#444【青春!!】山田さんだけ知らなかった日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れたハンバーグ店。",
     "tags": [
       "ハンバーグ",
       "渋谷",
@@ -1000,7 +1049,9 @@
       }
     ],
     "source_video_title": "#444【青春!!】山田さんだけ知らなかった日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-otona-shokudo",
@@ -1014,15 +1065,14 @@
     "youtube_id": "gTzHfVLn3Ro",
     "members": [
       "二宮和也",
-      "山田涼介",
-      "菊池風磨"
+      "山田涼介"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2025-09-07",
-    "description": "新宿三丁目の人気定食・おばんざい店。チキン南蛮やからあげなど家庭的な料理が揃う。白米・玄米から選べる。よにのちゃんねる#455で登場。",
+    "description": "よにのちゃんねるの「#455 【自発光!!】数少ない心を許せる後輩の日」（2025年9月）で二宮和也・山田涼介がゲストの道枝駿佑と訪れた定食店。",
     "tags": [
       "定食",
       "新宿",
@@ -1046,7 +1096,13 @@
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/30/P037380230/P037380230_238.jpg",
     "source_video_title": "#455 【自発光!!】数少ない心を許せる後輩の日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "道枝駿佑"
+    ],
+    "qa_note": "二宮・山田と道枝駿佑の回（菊池は不在。概要欄・コメントより）"
   },
   {
     "id": "yonino-spicy-curry-roka",
@@ -1068,7 +1124,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-05-11",
-    "description": "大久保の予約困難スパイスカレー店。南インド仕込みのチキンカレーと台湾魯肉飯を組み合わせた「魯珈プレート」が名物。よにのちゃんねる#421で登場。",
+    "description": "よにのちゃんねるの「#421【朝飯!!】スパイシーがビックバンだった日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたスパイスカレー店。",
     "tags": [
       "カレー",
       "大久保",
@@ -1079,7 +1135,9 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13286023/",
     "nearest_station": "新大久保駅 徒歩3分",
     "source_video_title": "#421【朝飯!!】スパイシーがビックバンだった日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-iki-espresso",
@@ -1101,7 +1159,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-02-26",
-    "description": "江東区のカフェ。二宮和也・山田涼介・菊池風磨が2025年2月に訪れた。清澄白河・NZ発が楽しめる。清澄白河のおしゃれカフェ。エッグベネディクトなどの朝食メニューが登場。",
+    "description": "よにのちゃんねるの「#400 【祝!400回!!】なのに通常運転だった日」（2025年2月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。",
     "tags": [
       "カフェ",
       "清澄白河",
@@ -1127,7 +1185,10 @@
         "name": "アイスラテ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "同じ#400で佐野みそ亀戸本店にも寄っている"
   },
   {
     "id": "yonino-kuraji-akasaka",
@@ -1140,16 +1201,16 @@
     "lng": 139.735622,
     "youtube_id": "gs9Wm4uzulk",
     "members": [
-      "二宮和也",
       "山田涼介",
-      "菊池風磨"
+      "菊池風磨",
+      "二宮和也"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2025-02-16",
-    "description": "長期低温熟成豚を使ったとんかつ専門店。熟成による柔らかさと旨みの深さが特徴。赤坂見附駅徒歩2分。よにのちゃんねる#397・#398で登場。",
+    "description": "よにのちゃんねるの「#397【トンカツな朝は２人で】こりゃ大変プロジェクトですな!?」（2025年2月）で二宮和也・山田涼介・菊池風磨の3人が訪れたとんかつ店。",
     "tags": [
       "とんかつ",
       "赤坂",
@@ -1171,7 +1232,10 @@
       {
         "name": "極みの熟豚御膳"
       }
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "前編#397は山田・菊池の2人で始まり、後編#398（K-pO_IpJSc0）で二宮が合流"
   },
   {
     "id": "yonino-goemon-akasaka",
@@ -1193,7 +1257,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-01-19",
-    "description": "和の食材を使った創作パスタで人気の「洋麺屋五右衛門」赤坂店。和風だしと洋麺の組み合わせが特徴。よにのちゃんねる#389で登場。",
+    "description": "よにのちゃんねるの「#389【朝食!!】卍が所望していたお店に行った日」（2025年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたパスタ店。",
     "tags": [
       "パスタ",
       "赤坂",
@@ -1224,7 +1288,9 @@
       }
     ],
     "source_video_title": "#389【朝食!!】卍が所望していたお店に行った日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-kaotan-ramen",
@@ -1246,7 +1312,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-01-12",
-    "description": "バブル時代から続く南青山の老舗ラーメン店。夜遊びのシメのラーメンとして長年親しまれてきた名店。よにのちゃんねる#387で登場。",
+    "description": "よにのちゃんねるの「#387 【朝食!!】広い意味で正解な日」（2025年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。",
     "tags": [
       "ラーメン",
       "南青山",
@@ -1274,7 +1340,9 @@
       }
     ],
     "source_video_title": "#387 【朝食!!】広い意味で正解な日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-sanomiso-kameido",
@@ -1296,7 +1364,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-02-26",
-    "description": "70種類以上の味噌を取り揃える老舗味噌専門店。「みそムリエ」資格保有者が常駐し、プロの料理人も信頼を寄せる。よにのちゃんねる#400で登場。",
+    "description": "よにのちゃんねるの「#400 【祝!400回!!】なのに通常運転だった日」（2025年2月）で二宮和也・山田涼介・菊池風磨の3人が味噌を味見した味噌の専門店。",
     "tags": [
       "味噌",
       "亀戸",
@@ -1324,7 +1392,10 @@
       }
     ],
     "source_video_title": "#400 【祝!400回!!】なのに通常運転だった日",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "味噌の専門店（物販）。動画内で味噌のテイスティングをしているため keep"
   },
   {
     "id": "yonino-sumo-chaya-terao",
@@ -1338,6 +1409,7 @@
     "youtube_id": "ZxvmVJeY39U",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -1346,7 +1418,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-06-19",
-    "description": "墨田区の和食店。二宮和也・山田涼介・菊池風磨が2024年6月に訪れた。ちゃんこ鍋が楽しめる。元関取が営むちゃんこ鍋店。中丸さんの誕生日企画などで訪れています。",
+    "description": "よにのちゃんねるの「#336【朝飯!!】ちゃんこはええで…の日」（2024年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたちゃんこ鍋店。",
     "tags": [
       "ちゃんこ鍋",
       "両国",
@@ -1379,7 +1451,9 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/48/P042643348/P042643348_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-spice-ramen-tenten",
@@ -1393,6 +1467,7 @@
     "youtube_id": "5ELNlEgsC2g",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -1401,7 +1476,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-07-14",
-    "description": "世田谷区のラーメン店。二宮和也・山田涼介・菊池風磨が2024年7月に訪れた。スパイスラーメンが楽しめる。下北沢にあるスパイスラーメン店。二宮さんたちが独特のスープに驚いていました。",
+    "description": "よにのちゃんねるの「#343【スポンサー!!】が来て飯を奢ってくれた日」（2024年7月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたスパイスラーメン店。",
     "tags": [
       "スパイスラーメン",
       "下北沢",
@@ -1438,7 +1513,10 @@
         "name": "コーラ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "中丸は遅刻して途中から合流（コメントより）"
   },
   {
     "id": "yonino-negishi-ikebukuro",
@@ -1452,6 +1530,7 @@
     "youtube_id": "BtPB0wv2l3k",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -1460,7 +1539,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-07-31",
-    "description": "豊島区の和食店。二宮和也・山田涼介・菊池風磨が2024年7月に訪れた。牛タンが楽しめる。牛たん・とろろ・麦めしの専門店。朝食シリーズの第1回目として登場。",
+    "description": "よにのちゃんねるの「#348【朝食!!】もはやこの朝が日常になった日」（2024年7月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた牛たん・とろろ・麦めしの店。",
     "tags": [
       "牛タン",
       "池袋",
@@ -1471,7 +1550,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/BtPB0wv2l3k/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13019184/",
     "nearest_station": "向原駅 徒歩7分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "元の説明文の「朝食シリーズの第1回目」は誤り"
   },
   {
     "id": "yonino-mukann-yokohama",
@@ -1493,7 +1575,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-09-11",
-    "description": "横浜市中区のラーメン店。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。牡蠣塩ラーメンが楽しめる。牡蠣塩ラーメンが看板の人気店。名店。よにのちゃんねる#352に登場。",
+    "description": "よにのちゃんねるの「#352【朝食!!】新しい食べ物だった日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。",
     "tags": [
       "牡蠣塩ラーメン",
       "横浜",
@@ -1517,7 +1599,9 @@
         "name": "肉丼"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-le-pain-quotidien",
@@ -1539,7 +1623,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-09-18",
-    "description": "港区のカフェ。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。ベルギー発祥のベーカリーレストラン。テラス席での朝食シーンが印象的です。",
+    "description": "よにのちゃんねるの「#354【朝食!!】RIKACO(さん)に会った日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が朝食に訪れたベーカリーレストラン。店でRIKACOに会った。",
     "tags": [
       "カフェ",
       "ミッドタウン",
@@ -1549,7 +1633,13 @@
     "source_video_title": "#354【朝食!!】RIKACO(さん)に会った日",
     "thumbnail_url": "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg",
     "nearest_station": "六本木駅 徒歩3分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "RIKACO"
+    ],
+    "qa_note": "RIKACOとは店で偶然会った（コメントより）。同店の重複 yonino-4d3c0923-202409 あり"
   },
   {
     "id": "yonino-kinniku-shokudo-ginza",
@@ -1571,7 +1661,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-09-25",
-    "description": "中央区のレストラン。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。筋肉食堂・高タンパクが楽しめる。高タンパク質・低糖質メニューが揃う健康志向の食堂。よにのちゃんねる#356に登場。",
+    "description": "よにのちゃんねるの「#356【朝食!!】めちゃくちゃ美味かった日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が訪れた高たんぱくメニューの食堂。",
     "tags": [
       "筋肉食堂",
       "銀座",
@@ -1592,7 +1682,9 @@
         "name": "牛赤身肉のハンバーグ(200g)目玉焼きのせ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-hutong-nishiazabu",
@@ -1614,7 +1706,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-10-13",
-    "description": "港区の焼肉店。二宮和也・山田涼介・菊池風磨が2024年10月に訪れた。韓国焼肉・西麻布が楽しめる。西麻布の路地裏で30年続く韓国炭火焼き居酒屋。ネギタン塩が名物。よにのちゃんねる#361に登場。",
+    "description": "よにのちゃんねるの「#361【ガチ!!】飯回でかなり素に近い日」（2024年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れた韓国料理・焼肉の店。",
     "tags": [
       "韓国焼肉",
       "西麻布",
@@ -1623,7 +1715,10 @@
     "source_video_title": "#361【ガチ!!】飯回でかなり素に近い日",
     "thumbnail_url": "https://img.youtube.com/vi/BZwFY5MOyMI/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13033496/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "同店の重複 yonino-192078ac-202410 あり"
   },
   {
     "id": "yonino-imahan-asakusa",
@@ -1645,7 +1740,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-10-30",
-    "description": "浅草の老舗すき焼き店。よにのちゃんねる#366「打ち上げをしてみた日」（2024年10月30日配信）で、オールナイトニッポンの打ち上げとして菊池風磨が行きたい店に3人で訪れ、すき焼き・しゃぶしゃぶの御膳などを注文した。",
+    "description": "よにのちゃんねるの「#366【夜飯!!】打ち上げをしてみた日」（2024年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れたすき焼き店。",
     "tags": [
       "すき焼き",
       "しゃぶしゃぶ",
@@ -1673,7 +1768,9 @@
         "name": "銘柄牛しゃぶしゃぶ御膳"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-enomoto-hamburg-bunkyo",
@@ -1695,7 +1792,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-11-20",
-    "description": "文京区のレストラン。二宮和也・山田涼介・菊池風磨が2024年11月に訪れた。ハンバーグが楽しめる。文京区にあるハンバーグ専門店。朝食（ランチ）シリーズとして絶品の肉汁を堪能。",
+    "description": "よにのちゃんねるの「#372【田中圭呼んだら】本当に来てくれた日」（2024年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの田中圭と訪れたハンバーグ店。",
     "tags": [
       "ハンバーグ",
       "後楽園",
@@ -1720,7 +1817,12 @@
         "name": "焦がしチーズのせ特製オニオンソースハンバーグ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "田中圭"
+    ]
   },
   {
     "id": "yonino-yamanaka-ginza",
@@ -1742,7 +1844,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-12-04",
-    "description": "中央区の居酒屋。二宮和也・山田涼介・菊池風磨が2024年12月に訪れた。もつ鍋が楽しめる。銀座三越近くの名店。ランチタイムに「やま中御膳」を堪能し、その味にメンバーが感動。",
+    "description": "よにのちゃんねるの「#376【朝食!!】多感なお年頃だからワーワー言ってきた日」（2024年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたもつ鍋店。",
     "tags": [
       "もつ鍋",
       "銀座",
@@ -1775,7 +1877,9 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/05/37/P044970537/P044970537_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-chinka-shisai-ginza",
@@ -1797,7 +1901,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-12-15",
-    "description": "千代田区の中華料理店。二宮和也・山田涼介・菊池風磨が2024年12月に訪れた。四川料理が楽しめる。本格四川料理の名店。北村匠海もゲスト出演。よにのちゃんねる#379に登場。",
+    "description": "よにのちゃんねるの「#379【なんで??】北村匠海がやって来た…!!の日」（2024年12月）で二宮和也・山田涼介・菊池風磨の3人がゲストの北村匠海と訪れた中華料理店。",
     "tags": [
       "四川料理",
       "中華",
@@ -1833,7 +1937,12 @@
         "name": "烏龍茶"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "北村匠海"
+    ]
   },
   {
     "id": "yonino-cozy-style-coffee",
@@ -1855,7 +1964,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-05-04",
-    "description": "新宿区のカフェ。二宮和也・山田涼介・菊池風磨が2025年5月に訪れた。ティラミスが楽しめる。落合にある小さなカフェ。ティラミスも人気。よにのちゃんねる#419に登場。",
+    "description": "よにのちゃんねるの「#419【ドライブ!!】これがよにのクオリティーだっ！の日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。",
     "tags": [
       "カフェ",
       "落合",
@@ -1885,7 +1994,9 @@
         "name": "瓶詰ティラミス"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-kizasu-coffee",
@@ -1907,7 +2018,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-07-23",
-    "description": "港区のカフェ。二宮和也・山田涼介・菊池風磨が2025年7月に訪れた。御成門駅すぐのコスパ高めのコーヒースタンド。よにのちゃんねる#442に登場。",
+    "description": "よにのちゃんねるの「#442【ドライブ!!】よにのマップ作れそうな日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れたコーヒースタンド。",
     "tags": [
       "カフェ",
       "新橋",
@@ -1928,7 +2039,9 @@
         "name": "カフェラテ(L)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-donish-coffee-kagurazaka",
@@ -1949,7 +2062,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-06-25",
-    "description": "新宿区のカフェ。二宮和也・山田涼介が2025年6月に訪れた。スペシャルティコーヒーが楽しめる。神楽坂の路地裏にある自家焙煎スペシャルティコーヒースタンド。よにのちゃんねる#434に登場。",
+    "description": "よにのちゃんねるの「#434【朝食!!】ドライブの日」（2025年6月）で二宮和也・山田涼介が訪れたコーヒースタンド。",
     "tags": [
       "カフェ",
       "神楽坂",
@@ -1967,7 +2080,9 @@
         "name": "いちご風味(ice)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-kaligari-akihabara",
@@ -1989,7 +2104,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-01-17",
-    "description": "千代田区のグルメスポット。二宮和也・山田涼介・菊池風磨が2024年1月に訪れた。カレーが楽しめる。秋葉原の有名カレー店。ねぎしの後に立ち寄り、本格的なカレーの香りに包まれました。",
+    "description": "よにのちゃんねるの「#292【朝!!】だからカレーでしょの日」（2024年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカレー店。",
     "tags": [
       "カレー",
       "秋葉原",
@@ -2000,7 +2115,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/OvgqN-sckKE/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130201/13314983/",
     "nearest_station": "秋葉原駅 徒歩2分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "中丸は不在の3人回（コメントより）"
   },
   {
     "id": "yonino-tokyo-ajifurai",
@@ -2014,6 +2132,7 @@
     "youtube_id": "PpuwpT20uhM",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2022,7 +2141,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-04-10",
-    "description": "千代田区のレストラン。二宮和也・山田涼介・菊池風磨が2024年4月に訪れた。アジフライが楽しめる。市ヶ谷のアジフライ専門店。骨煎餅・釜炊きご飯も人気。よにのちゃんねる#316に登場。",
+    "description": "よにのちゃんねるの「#316【遂に!!】思いっきりストレートに行った日」（2024年4月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたアジフライ専門店。",
     "tags": [
       "アジフライ",
       "市ヶ谷",
@@ -2033,7 +2152,9 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130904/13269930/",
     "nearest_station": "九段下駅 徒歩1分",
     "ordered_items": [],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-takeno-tsukiji",
@@ -2047,6 +2168,7 @@
     "youtube_id": "QjkBTKEHcGE",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2055,7 +2177,7 @@
     ],
     "group": "yonino",
     "visited_date": "2022-11-16",
-    "description": "中央区の居酒屋。二宮和也・山田涼介・菊池風磨が2022年11月に訪れた。築地場外市場の老舗海鮮居酒屋。金目鯛などの朝定食が有名。よにのちゃんねる#180に登場。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#180【全員集合】友達ですよね？と確認された日」（2022年11月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた海鮮の店。",
     "tags": [
       "海鮮",
       "築地",
@@ -2068,7 +2190,10 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13007634/",
     "nearest_station": "築地駅 徒歩5分",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/61/63/P028786163/P028786163_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "当時のチャンネル名はジャにのちゃんねる"
   },
   {
     "id": "yonino-nagisa-shokudo",
@@ -2082,6 +2207,7 @@
     "youtube_id": "jDTiroXb9RU",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2090,7 +2216,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-01-03",
-    "description": "千代田区の和食店。二宮和也・山田涼介・菊池風磨が2024年1月に訪れた。水道橋の海鮮系定食屋。よにのちゃんねる#288に登場。",
+    "description": "よにのちゃんねるの「#288【朝飯!!】久々に4人で食べた日」（2024年1月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた定食店。",
     "tags": [
       "定食",
       "水道橋",
@@ -2120,7 +2246,9 @@
         "name": "アジフライセット…ごはん…お味噌汁…小鉢4品付き"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-nijome-shokudo-toledo",
@@ -2133,6 +2261,7 @@
     "lng": 139.7383,
     "youtube_id": "5Hm39uw13C4",
     "members": [
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2141,7 +2270,7 @@
     ],
     "group": "yonino",
     "visited_date": "2023-12-13",
-    "description": "1972年創業の神楽坂老舗洋食店。継ぎ足しカレーとトルコライスが名物。よにのちゃんねる#282に登場。",
+    "description": "よにのちゃんねるの「#282【洋食パラダイス♪】開口一番を探り合った日!!!」（2023年12月）で中丸雄一・山田涼介・菊池風磨が訪れた洋食店。",
     "tags": [
       "洋食",
       "神楽坂",
@@ -2166,7 +2295,10 @@
         "name": "カツカレー"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "二宮は不在（概要欄に明記）"
   },
   {
     "id": "yonino-nakayoshi-ebisu",
@@ -2179,6 +2311,7 @@
     "lng": 139.7135,
     "youtube_id": "ohQSfk7RquY",
     "members": [
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2187,7 +2320,7 @@
     ],
     "group": "yonino",
     "visited_date": "2023-09-24",
-    "description": "渋谷区の和食店。山田涼介・菊池風磨が2023年9月に訪れた。恵比寿・土鍋ご飯が楽しめる。恵比寿の土鍋ご飯が自慢の店。美味しいご飯のお供にメンバーも大満足。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#274【朝食シリーズ!!】自発光と卍の指輪がお揃いだと発覚した日」（2023年9月）で中丸雄一・山田涼介・菊池風磨が訪れた土鍋ご飯の定食店。",
     "tags": [
       "定食",
       "恵比寿",
@@ -2198,7 +2331,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/ohQSfk7RquY/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13080656/",
     "nearest_station": "恵比寿駅 徒歩5分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "二宮はドラマ撮影で不在（概要欄に明記）"
   },
   {
     "id": "yonino-dousaka-shokudo",
@@ -2212,6 +2348,7 @@
     "youtube_id": "8rYGXSOk-60",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "菊池風磨"
     ],
     "groups": [
@@ -2219,7 +2356,7 @@
     ],
     "group": "yonino",
     "visited_date": "2022-09-14",
-    "description": "文京区の和食店。二宮和也・菊池風磨が2022年9月に訪れた。大衆食堂が楽しめる。千駄木の昔ながらの定食屋。よにのちゃんねる#160に登場。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#160【朝食シリーズ】左利き苦悩が爆裂した日」（2022年9月）で二宮和也・中丸雄一・菊池風磨が訪れた定食店。",
     "tags": [
       "定食",
       "千駄木",
@@ -2229,7 +2366,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/8rYGXSOk-60/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13008505/",
     "nearest_station": "千駄木駅 徒歩2分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "山田は不在（コメントより）。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-anume-azabujuban",
@@ -2243,6 +2383,7 @@
     "youtube_id": "XeLem4774FE",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -2251,7 +2392,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-04-24",
-    "description": "港区の和食店。二宮和也・山田涼介・菊池風磨が2024年4月に訪れた。麻布十番が楽しめる。麻布十番の干物専門店。絶品の焼き魚定食が登場した朝食シリーズの一軒。",
+    "description": "よにのちゃんねるの「#320【朝食!!】本当に普通に喋って終わった日」（2024年4月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた干物の割烹。",
     "tags": [
       "干物",
       "割烹",
@@ -2281,7 +2422,9 @@
         "name": "鮭ハラス焼(単品)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-daisanboku-aoyama",
@@ -2303,7 +2446,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-03-13",
-    "description": "港区の居酒屋。二宮和也・山田涼介・菊池風磨が2024年3月に訪れた。海鮮居酒屋が楽しめる。青山一丁目の海鮮系居酒屋。よにのちゃんねる#308に登場。",
+    "description": "よにのちゃんねるの「#308【えっ!!】唐揚げがなくなった日」（2024年3月）で二宮和也・山田涼介・菊池風磨の3人が訪れた唐揚げの店。",
     "tags": [
       "海鮮居酒屋",
       "青山",
@@ -2314,7 +2457,10 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13291288/",
     "nearest_station": "乃木坂駅 徒歩4分",
     "ordered_items": [],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "中丸は不在の3人回（コメントより）"
   },
   {
     "id": "snowman-pablo-meguro",
@@ -3713,7 +3859,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-07-16",
-    "description": "港区の中華料理店。二宮和也・山田涼介・菊池風磨が2025年7月に訪れた。庶民派の味を求めて新橋へ。ジャストサイズメニューをたくさん並べて宴会気分を楽しみました。",
+    "description": "よにのちゃんねるの「#440【初!!】意外と食べてなかったのを知った日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れた中華料理店。",
     "tags": [
       "餃子",
       "新橋",
@@ -3759,7 +3905,9 @@
         "name": "ウーロン茶"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-hilton-marble-lounge",
@@ -3781,7 +3929,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-07-13",
-    "description": "新宿区のレストラン。二宮和也・山田涼介・菊池風磨が2025年7月に訪れた。ビュッフェ・ホテル朝食が楽しめる。よにのちゃんねる#439登場。ヒルトン東京の朝食ビュッフェ。",
+    "description": "よにのちゃんねるの「#439【セレブ!!】ホテルブッヘった日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れたホテルのビュッフェレストラン。",
     "tags": [
       "ビュッフェ",
       "ホテル朝食",
@@ -3804,7 +3952,9 @@
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/06/P051177706/P051177706_238.jpg",
     "source_video_channel": "よにのちゃんねる",
-    "nearest_station": "東京都西新宿駅から徒歩5分"
+    "nearest_station": "東京都西新宿駅から徒歩5分",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-blue-six-coffee",
@@ -3826,7 +3976,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-03-30",
-    "description": "よにのちゃんねる#409登場。Mrs.GREEN APPLE大森元貴ゲスト回。国立競技場隣の都立明治公園内カフェ。",
+    "description": "よにのちゃんねるの「#409【ゲスト!!】スターがコーヒーを買いに行った日」（2025年3月）で、ゲストの大森元貴が3人のコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "明治公園",
@@ -3850,7 +4000,13 @@
         "name": "アイスカフェラテ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "大森元貴"
+    ],
+    "qa_note": "コーヒーを店に買いに行ったのはゲストの大森元貴だけ。メンバーは車で待っていた（コメントより）。行った扱いにしてよいか要確認"
   },
   {
     "id": "yonino-latte-art-mania",
@@ -3864,7 +4020,6 @@
     "youtube_id": "suj-8ZxTzY0",
     "members": [
       "二宮和也",
-      "山田涼介",
       "菊池風磨"
     ],
     "groups": [
@@ -3872,7 +4027,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-03-16",
-    "description": "港区のカフェ。二宮和也・山田涼介・菊池風磨が2025年3月に訪れた。ラテアート・外苑前が楽しめる。よにのちゃんねる#405登場。外苑前のラテアート大会チャンピオンが手がけるコーヒー専門店。",
+    "description": "よにのちゃんねるの「#405【考察!!】意外と経理がちゃんと考えていた日」（2025年3月）で二宮和也・菊池風磨が訪れたコーヒー店。",
     "tags": [
       "カフェ",
       "ラテアート",
@@ -3890,7 +4045,10 @@
         "name": "アイスラテ(ブレンド)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "二宮・菊池の2人回（コメントより。山田は不在）"
   },
   {
     "id": "yonino-blue-bottle-shinjuku",
@@ -3912,7 +4070,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-02-23",
-    "description": "新宿区のカフェ。二宮和也・山田涼介・菊池風磨が2025年2月に訪れた。スペシャルティコーヒーが楽しめる。よにのちゃんねる#399登場。新宿のブルーボトルコーヒーでスペシャルティコーヒーをテイクアウト。",
+    "description": "よにのちゃんねるの「#399【山田回!!】山田が山田で山田だった日」（2025年2月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "新宿",
@@ -3922,7 +4080,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/HVxmVgBcpCY/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13193547/",
     "nearest_station": "新宿駅 徒歩2分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "ゲームに負けた山田が1人で買いに行った（コメントより）"
   },
   {
     "id": "yonino-starbucks-reserve-roastery",
@@ -3944,7 +4105,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-01-26",
-    "description": "目黒区のカフェ。二宮和也・山田涼介・菊池風磨が2025年1月に訪れた。中目黒・スターバックスが楽しめる。よにのちゃんねる#391/#392登場。中目黒川沿いのスタバ世界5店舗限定ロースタリー。",
+    "description": "よにのちゃんねるの「#391 【ドライブ!!】経理がゴネにゴネた日」（2025年1月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に二宮和也がコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "中目黒",
@@ -3954,7 +4115,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/Q2GrO9mPWIc/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13231942/",
     "nearest_station": "代官山駅 徒歩8分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "ドライブ中に二宮が1人で買いに行った（コメントより）。店がリザーブ ロースタリーかは動画の説明文では確かめられず"
   },
   {
     "id": "yonino-hakata-genki-ippai",
@@ -3976,7 +4140,7 @@
     ],
     "group": "yonino",
     "visited_date": "2025-04-02",
-    "description": "よにのちゃんねる#410/#411登場。福岡ロケ。食べログラーメンWEST百名店6年連続選出の豚骨ラーメン名店。",
+    "description": "よにのちゃんねるの「#410【朝食!!】大好評だった日」（2025年4月）で二宮和也・山田涼介・菊池風磨の3人が訪れたとんこつラーメン店。",
     "tags": [
       "ラーメン",
       "福岡",
@@ -4010,7 +4174,10 @@
         "name": "追加ネギ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "福岡弾丸旅。#411（G-P8WtEiiZk）に続く"
   },
   {
     "id": "yonino-double-tall-coffee-shinjuku",
@@ -4024,15 +4191,14 @@
     "youtube_id": "Q0nbL46ckIc",
     "members": [
       "二宮和也",
-      "山田涼介",
-      "菊池風磨"
+      "山田涼介"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2025-09-14",
-    "description": "新宿区のカフェ。二宮和也・山田涼介・菊池風磨が2025年9月に訪れた。コーヒーが楽しめる。よにのちゃんねる#457登場。なにわ男子・道枝駿佑ゲスト回。新宿御苑前のセルフロースターカフェ。",
+    "description": "よにのちゃんねるの「#457【初道枝!!】初めてがこのドライブはイカつ過ぎた日」（2025年9月）で二宮和也・山田涼介がゲストの道枝駿佑と訪れたコーヒー店。",
     "tags": [
       "カフェ",
       "新宿",
@@ -4041,7 +4207,13 @@
     "source_video_title": "#457【初道枝!!】初めてがこのドライブはイカつ過ぎた日",
     "thumbnail_url": "https://img.youtube.com/vi/Q0nbL46ckIc/hqdefault.jpg",
     "nearest_station": "新宿御苑前駅",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "道枝駿佑"
+    ],
+    "qa_note": "二宮・山田と道枝駿佑のドライブ回（菊池は不在）"
   },
   {
     "id": "yonino-dancyu-shokudo",
@@ -4063,7 +4235,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-11-10",
-    "description": "千代田区の和食店。二宮和也・山田涼介・菊池風磨が2024年11月に訪れた。dancyuが楽しめる。東京駅構内にある食堂。生姜焼き定食など、こだわりの朝食を実食。",
+    "description": "よにのちゃんねるの「#369【イノッチ祭!!】とんでもない思い出が出てきた日」（2024年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの井ノ原快彦と訪れた定食店。",
     "tags": [
       "定食",
       "東京駅",
@@ -4100,7 +4272,12 @@
         "name": "生姜焼き定食"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "井ノ原快彦"
+    ]
   },
   {
     "id": "yonino-akasaka-gohan-yamaneya",
@@ -4114,6 +4291,7 @@
     "youtube_id": "uWh7fTQSG1k",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -4122,7 +4300,7 @@
     ],
     "group": "yonino",
     "visited_date": "2023-06-28",
-    "description": "港区の和食店。二宮和也・山田涼介・菊池風磨が2023年6月に訪れた。よにのちゃんねる#249登場。赤坂の家庭的な和定食店。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#249【朝食!!】最近ずっと朝飯を食べているなと思った日」（2023年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた定食店。",
     "tags": [
       "和食",
       "定食",
@@ -4154,7 +4332,10 @@
         "name": "梅干し(追加)"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-teshio-gohan-gen",
@@ -4167,16 +4348,14 @@
     "lng": 139.702,
     "youtube_id": "htb_epSGs_E",
     "members": [
-      "二宮和也",
-      "山田涼介",
-      "菊池風磨"
+      "中丸雄一"
     ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "visited_date": "2023-09-06",
-    "description": "渋谷区の和食店。二宮和也・山田涼介・菊池風磨が2023年9月に訪れた。ごはんが楽しめる。新宿にある定食屋。健康的なメニューが多く、メンバーがリラックスして食事。",
+    "description": "よにのちゃんねる（当時ジャにのちゃんねる）の「#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。」（2023年9月）に関連づけられている定食店。中丸雄一の回。",
     "tags": [
       "和食",
       "定食",
@@ -4190,7 +4369,10 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13248277/",
     "nearest_station": "代々木駅 徒歩2分",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/55/25/P039295525/P039295525_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "#269は中丸がわっしょいCAMP（東京ドーム）の楽屋を訪ねる回。山田・菊池は出ておらず、この店が動画に出るかは説明文・コメントで確かめられない。要確認"
   },
   {
     "id": "snowman-gust-roppongi",
@@ -5199,7 +5381,6 @@
     "lng": 139.737,
     "youtube_id": "-jyOpZIJcn8",
     "members": [
-      "北村匠海",
       "二宮和也",
       "山田涼介",
       "菊池風磨"
@@ -5209,7 +5390,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-12-18",
-    "description": "港区のカフェ。北村匠海・二宮和也・山田涼介らが2024年12月に訪れた。ドトールが楽しめる。よにのちゃんねる#380登場。北村匠海ゲスト回。",
+    "description": "よにのちゃんねるの「#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日」（2024年12月）で、二宮和也・山田涼介・菊池風磨の3人（ゲストの北村匠海も同乗）のドライブ中に二宮和也がコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "赤坂",
@@ -5219,7 +5400,13 @@
     "source_video_url": "https://www.youtube.com/watch?v=-jyOpZIJcn8",
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13086847/",
     "nearest_station": "赤坂駅 徒歩4分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "with": [
+      "北村匠海"
+    ],
+    "qa_note": "ドライブ中に二宮がコーヒーを買いに行った（コメントより）。北村匠海は members から with へ移す"
   },
   {
     "id": "yonino-chuka-juhachiban-kanda",
@@ -5233,6 +5420,7 @@
     "youtube_id": "9qR7zTTlnEw",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -5241,7 +5429,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-04-03",
-    "description": "千代田区の中華料理店。二宮和也・山田涼介・菊池風磨が2024年4月に訪れた。よにのちゃんねる#314登場。神田の老舗中華料理店。",
+    "description": "よにのちゃんねるの「#314【お初!!】やってみたかった朝中華の日」（2024年4月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた中華料理店。",
     "tags": [
       "中華",
       "神田"
@@ -5273,7 +5461,9 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/20/49/P039992049/P039992049_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-shokuji-dokoro-soushuya",
@@ -5286,6 +5476,7 @@
     "lng": 139.6617,
     "youtube_id": "O47Osoi2H_A",
     "members": [
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -5294,7 +5485,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-03-20",
-    "description": "世田谷区の和食店。山田涼介・菊池風磨が2024年3月に訪れた。明大前が楽しめる。よにのちゃんねる#310登場。明大前の昔ながらの定食屋。",
+    "description": "よにのちゃんねるの「#310【朝食】アジのフライニキの意思を継いだ日」（2024年3月）で中丸雄一・山田涼介・菊池風磨が訪れた定食店。",
     "tags": [
       "定食",
       "明大前"
@@ -5318,7 +5509,10 @@
         "name": "鶏の唐揚げ定食…味噌汁…キャベツ盛り＆マカロニサラダ…お漬物＆お浸し"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "二宮は不在（概要欄に明記）"
   },
   {
     "id": "yonino-sake-soba-chirin",
@@ -5332,6 +5526,7 @@
     "youtube_id": "rdf_IJ0K9AU",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介"
     ],
     "groups": [
@@ -5339,7 +5534,7 @@
     ],
     "group": "yonino",
     "visited_date": "2023-09-03",
-    "description": "品川区の和食店。二宮和也・山田涼介が2023年9月に訪れた。よにのちゃんねる#268登場。武蔵小山の蕎麦居酒屋。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#268【朝食シリーズ!!】静かに朝を迎える事が出来た日」（2023年9月）で二宮和也・中丸雄一・山田涼介が訪れた蕎麦の店。",
     "tags": [
       "そば",
       "居酒屋",
@@ -5349,7 +5544,10 @@
     "source_video_url": "https://www.youtube.com/watch?v=rdf_IJ0K9AU",
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131710/13046262/",
     "nearest_station": "目黒駅 徒歩3分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "菊池は不在（概要欄に明記）。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-ito-shokudo-ikebukuro",
@@ -5363,6 +5561,7 @@
     "youtube_id": "WuYIFXP7wCA",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "菊池風磨"
     ],
     "groups": [
@@ -5370,7 +5569,7 @@
     ],
     "group": "yonino",
     "visited_date": "2023-05-24",
-    "description": "豊島区の和食店。二宮和也・菊池風磨が2023年5月に訪れた。ボリューム満点の定食が人気。二宮さんが注文したカレーが話題になりました。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#238【朝食シリーズ!!】やっぱ飯は最高だよなの日」（2023年5月）で二宮和也・中丸雄一・菊池風磨が訪れた定食店。",
     "tags": [
       "定食",
       "池袋"
@@ -5400,7 +5599,10 @@
         "name": "ベーコンエッグ"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "山田は不在（コメントより）。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-oshokuji-takahashi-waseda",
@@ -5411,9 +5613,10 @@
     "address": "東京都新宿区早稲田",
     "lat": 35.7072,
     "lng": 139.721,
-    "youtube_id": "mpOrQ2gl8_E",
+    "youtube_id": "noFLrXm7_0E",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介"
     ],
     "groups": [
@@ -5421,12 +5624,12 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "新宿区の和食店。二宮和也・山田涼介が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#218登場。早稲田の定食屋。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#218【朝食!!】卍がいなかったからしっかり食えた日」（2023年3月）で二宮和也・中丸雄一・山田涼介が訪れた定食店。",
     "tags": [
       "定食",
       "早稲田"
     ],
-    "source_video_title": "#219【直帰】今後の小さな展望を言い合った日",
+    "source_video_title": "#218【朝食!!】卍がいなかったからしっかり食えた日",
     "thumbnail_url": "https://img.youtube.com/vi/mpOrQ2gl8_E/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130504/13051173/",
     "nearest_station": "早稲田駅 徒歩3分",
@@ -5441,7 +5644,11 @@
         "name": "生姜焼き定食…一口サイズの卵焼き…味噌汁…お漬物…デザート"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "元データの説明は#218。youtube_id は#219（mpOrQ2gl8_E）になっているが、食事の回は#218「卍がいなかったからしっかり食えた日」（noFLrXm7_0E）。店名は説明文・コメントでは確かめられず（youtube_id を noFLrXm7_0E に直す）",
+    "source_video_url": "https://www.youtube.com/watch?v=noFLrXm7_0E"
   },
   {
     "id": "yonino-kiriyama-ome",
@@ -5455,6 +5662,7 @@
     "youtube_id": "uZ7a37YzWBo",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "菊池風磨"
     ],
     "groups": [
@@ -5462,7 +5670,7 @@
     ],
     "group": "yonino",
     "visited_date": "2022-10-16",
-    "description": "青梅市の和食店。二宮和也・菊池風磨が2022年10月に訪れた。よにのちゃんねる#170登場。青梅の蕎麦店。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#170【ジャにのの夏！】運動してご飯食べたら動けなくなった日」（2022年10月）で二宮和也・中丸雄一・菊池風磨が訪れた蕎麦店。",
     "tags": [
       "そば",
       "青梅"
@@ -5472,7 +5680,10 @@
     "thumbnail_url": "https://img.youtube.com/vi/uZ7a37YzWBo/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1330/A133003/13067142/",
     "nearest_station": "青梅駅 徒歩6分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "山田は不在（コメントより）。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-tocho-shokudo",
@@ -5486,6 +5697,7 @@
     "youtube_id": "F6Xn4BqJ4Wo",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "菊池風磨"
     ],
     "groups": [
@@ -5493,7 +5705,7 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "新宿区のレストラン。二宮和也・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#150登場。東京都庁32階の職員食堂。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#150【朝飯】やっぱり皆で飯を食べると美味い。」（2022年8月）で二宮和也・中丸雄一・菊池風磨が訪れた都庁の職員食堂。",
     "tags": [
       "食堂",
       "都庁",
@@ -5502,7 +5714,10 @@
     "source_video_title": "#150【朝飯】やっぱり皆で飯を食べると美味い。",
     "thumbnail_url": "https://img.youtube.com/vi/F6Xn4BqJ4Wo/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13051287/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "山田は不在（概要欄に明記）。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-ohitsuzen-tanbo-sangenchaya",
@@ -5516,6 +5731,7 @@
     "youtube_id": "wyEDShKJ3ig",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -5524,7 +5740,7 @@
     ],
     "group": "yonino",
     "visited_date": "2022-06-12",
-    "description": "世田谷区の和食店。二宮和也・山田涼介・菊池風磨が2022年6月に訪れた。おひつ・三軒茶屋が楽しめる。よにのちゃんねる#135登場。三軒茶屋のおひつごはん定食店。",
+    "description": "ジャにのちゃんねる（現・よにのちゃんねる）の「#135【新シリーズ】折角だから朝飯だけ食べてみた」（2022年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたおひつご飯の定食店。",
     "tags": [
       "定食",
       "おひつ",
@@ -5554,7 +5770,10 @@
         "name": "銀タラ単品追加"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "中丸は遅れて合流。当時はジャにのちゃんねる"
   },
   {
     "id": "yonino-maruyama-coffee-karuizawa",
@@ -5565,8 +5784,9 @@
     "address": "長野県北佐久郡軽井沢町星野 ハルニレテラス",
     "lat": 36.356,
     "lng": 138.6348,
-    "youtube_id": "9GSuuUqsNnM",
+    "youtube_id": "5j5g9KyBOrA",
     "members": [
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -5575,16 +5795,20 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "北佐久郡軽井沢町のカフェ。山田涼介・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#306登場。軽井沢・ハルニレテラスの人気カフェ。",
+    "description": "よにのちゃんねるの「#306【よにの旅!!】始まりがあれば終わりが来る…の日」（2024年3月）で中丸雄一・山田涼介・菊池風磨が訪れたコーヒー店。",
     "tags": [
       "カフェ",
       "軽井沢",
       "長野"
     ],
-    "source_video_title": "#289【軽井沢!】に向けて練習した日",
+    "source_video_title": "#306【よにの旅!!】始まりがあれば終わりが来る…の日",
     "thumbnail_url": "https://img.youtube.com/vi/9GSuuUqsNnM/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20009458/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "youtube_id が#289（東京での練習ドライブ回）になっていて誤り。軽井沢旅の最終回#306（5j5g9KyBOrA）で中丸・山田・菊池がコーヒーを飲む場面あり（二宮は#305の朝に帰京）。店名は説明文・コメントでは確かめられず（youtube_id を 5j5g9KyBOrA に直す）",
+    "source_video_url": "https://www.youtube.com/watch?v=5j5g9KyBOrA"
   },
   {
     "id": "yonino-ishiusubiki-soba-azuma-karuizawa",
@@ -5595,9 +5819,10 @@
     "address": "長野県北佐久郡軽井沢町",
     "lat": 36.348,
     "lng": 138.62,
-    "youtube_id": "9GSuuUqsNnM",
+    "youtube_id": "cS-nyMbgjSI",
     "members": [
       "二宮和也",
+      "中丸雄一",
       "山田涼介",
       "菊池風磨"
     ],
@@ -5606,16 +5831,20 @@
     ],
     "group": "yonino",
     "visited_date": "",
-    "description": "北佐久郡軽井沢町の和食店。二宮和也・山田涼介・菊池風磨が訪れたよにのちゃんねるのロケ地。よにのちゃんねる#301登場。軽井沢の石臼挽き蕎麦店。",
+    "description": "よにのちゃんねるの「#301【よにの旅!!】生配信前にまずは腹ごしらえだ！の日」（2024年2月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた蕎麦店。",
     "tags": [
       "そば",
       "軽井沢",
       "長野"
     ],
-    "source_video_title": "#289【軽井沢!】に向けて練習した日",
+    "source_video_title": "#301【よにの旅!!】生配信前にまずは腹ごしらえだ！の日",
     "thumbnail_url": "https://img.youtube.com/vi/9GSuuUqsNnM/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20017854/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "youtube_id が#289（東京での練習ドライブ回）になっていて誤り。軽井沢旅の#301（cS-nyMbgjSI、「#そば #夜メシ」）で4人が蕎麦を食べている。店名は説明文・コメントでは確かめられず（youtube_id を cS-nyMbgjSI に直す）",
+    "source_video_url": "https://www.youtube.com/watch?v=cS-nyMbgjSI"
   },
   {
     "id": "yonino-yokohama-nanbu-ichiba",
@@ -5637,7 +5866,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-05-15",
-    "description": "横浜市金沢区のグルメスポット。二宮和也・山田涼介・菊池風磨が2024年5月に訪れた。よにのちゃんねる#326/#328登場。横浜南部市場内の飲食専門店街。",
+    "description": "よにのちゃんねるの「#326【案件!?】奢り確変に入った日」（2024年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れた市場の飲食店街。",
     "tags": [
       "市場",
       "横浜",
@@ -5658,7 +5887,10 @@
         "name": "大海老天ぷら定食"
       }
     ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "中丸は遅刻で不在の3人回（#326・#328）。1軒の店ではなく市場の専門店街としての登録"
   },
   {
     "id": "yonino-starbucks-roppongi-7",
@@ -5680,7 +5912,7 @@
     ],
     "group": "yonino",
     "visited_date": "2024-09-29",
-    "description": "港区のカフェ。二宮和也・山田涼介・菊池風磨が2024年9月に訪れた。スターバックスが楽しめる。よにのちゃんねる#357登場。六本木のスターバックス。",
+    "description": "よにのちゃんねるの「#357【ドライブ!!】山田一少年ではなく山田涼介だった日」（2024年9月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。",
     "tags": [
       "カフェ",
       "六本木",
@@ -5689,7 +5921,10 @@
     "source_video_title": "#357【ドライブ!!】山田一少年ではなく山田涼介だった日",
     "source_video_url": "https://www.youtube.com/watch?v=alXopgGyIsc",
     "nearest_station": "六本木駅 徒歩2分",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "ドライブ中に山田が買いに行った（コメントより）"
   },
   {
     "id": "equallove_001",
@@ -6245,19 +6480,24 @@
     "youtube_id": "d6bqOMxtttA",
     "source_video_title": "#519【猫舌回避の極意】やまふま2人で昼飯に行った日",
     "visited_date": "2026-04-15",
-    "members": [],
+    "members": [
+      "山田涼介",
+      "菊池風磨"
+    ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "nearest_station": "広尾駅 徒歩5分",
-    "description": "東京都の和食店。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#519「猫舌回避の極意」に登場した和食店。",
+    "description": "よにのちゃんねるの「#519【猫舌回避の極意】やまふま2人で昼飯に行った日」（2026年4月）で山田涼介・菊池風磨が訪れた蕎麦割烹。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/d6bqOMxtttA/hqdefault.jpg",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000862001/",
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13256138/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/03/P034870403/P034870403_238.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
   },
   {
     "id": "yonino-7a8fd231-202603",
@@ -6268,20 +6508,28 @@
     "address": "東京都大田区羽田空港３丁目４−２羽田空港 第2旅客ターミナル 4F",
     "lat": 35.5440559,
     "lng": 139.786874,
-    "youtube_id": "Our3JGeWP7k",
-    "source_video_title": "#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日",
+    "youtube_id": "4o7Dt_iLs_k",
+    "source_video_title": "#515【送り!!】羽田メシの日",
     "visited_date": "2026-03-11",
-    "members": [],
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "nearest_station": "羽田空港第1・第2ターミナル駅 徒歩5分",
-    "description": "大田区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#509「朝飯!!」に登場したお店。",
+    "description": "よにのちゃんねるの「#515【送り!!】羽田メシの日」（2026年4月）で二宮和也・山田涼介・菊池風磨の3人が訪れた空港のレストラン。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/Our3JGeWP7k/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131504/13114699/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "youtube_id が#509（高円寺のジンギスカン回）になっていて誤り。羽田空港でハンバーグを食べる回は#515「【送り!!】羽田メシの日」（4o7Dt_iLs_k）。店名は説明文・コメントでは確かめられず（youtube_id を 4o7Dt_iLs_k に直す）",
+    "source_video_url": "https://www.youtube.com/watch?v=4o7Dt_iLs_k"
   },
   {
     "id": "yonino-northernwood_ginza-20260308",
@@ -6295,16 +6543,22 @@
     "youtube_id": "YVPO-Cp78Wc",
     "source_video_title": "#508【ドライブ!!】山田を送った日",
     "visited_date": "2026-03-08",
-    "members": [],
+    "members": [
+      "二宮和也",
+      "山田涼介"
+    ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "nearest_station": "新橋駅徒歩6分",
-    "description": "中央区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#508「ドライブ!!」に登場したお店。",
+    "description": "よにのちゃんねるの「#508【ドライブ!!】山田を送った日」（2026年3月）で二宮和也・山田涼介が訪れたコーヒー店。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/YVPO-Cp78Wc/hqdefault.jpg",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "#508は二宮・山田の2人のドライブ回（概要欄「#最強コーヒー」）。店名は説明文・コメントでは確かめられず"
   },
   {
     "id": "yonino-chocolat_trouver-20260204",
@@ -6318,17 +6572,24 @@
     "youtube_id": "ZRCRbvpLm1s",
     "source_video_title": "#499【チョコ!!】もうそんな時期ですね！の日",
     "visited_date": "2026-02-04",
-    "members": [],
+    "members": [
+      "二宮和也",
+      "山田涼介",
+      "菊池風磨"
+    ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "nearest_station": "表参道駅徒歩2分",
-    "description": "東京都のスイーツショップ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#499「チョコ!!」に登場したスイーツ店。",
+    "description": "よにのちゃんねるの「#499【チョコ!!】もうそんな時期ですね！の日」（2026年2月）で二宮和也・山田涼介・菊池風磨の3人が訪れたチョコレートのセレクトショップ。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/ZRCRbvpLm1s/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13300922/",
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "チョコレートを買う店（物販）。店で選んで試食した様子はあるが、物販だけの店として外すかは要確認"
   },
   {
     "id": "yonino-streamer_coffee_comp-20260201",
@@ -6342,222 +6603,23 @@
     "youtube_id": "EhAzZAITxIU",
     "source_video_title": "#498【初じゃない!!】二宮くんを送ろう！の日",
     "visited_date": "2026-02-01",
-    "members": [],
+    "members": [
+      "山田涼介",
+      "菊池風磨"
+    ],
     "groups": [
       "yonino"
     ],
     "group": "yonino",
     "nearest_station": "赤坂見附駅徒歩4分",
-    "description": "東京都のカフェ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#498「初じゃない!!」に登場したカフェ。",
+    "description": "よにのちゃんねるの「#498【初じゃない!!】二宮くんを送ろう！の日」（2026年2月）で山田涼介・菊池風磨が訪れたコーヒースタンド。",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/EhAzZAITxIU/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13261009/",
-    "source_video_channel": "よにのちゃんねる"
-  },
-  {
-    "id": "yonino-junky_special-20250813",
-    "name": "JUNKY SPECIAL",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区歌舞伎町２丁目４６−５ＫＭ新宿ビル１F",
-    "lat": 35.696554,
-    "lng": 139.7043747,
-    "youtube_id": "qiO0bKGdK8g",
-    "source_video_title": "#448【遅刻!!】ごめんなさいの日",
-    "visited_date": "2025-08-13",
-    "members": [],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "nearest_station": "西部新宿駅の北口から徒歩1分",
-    "description": "新宿区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#448「遅刻!!」に登場したお店。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/qiO0bKGdK8g/hqdefault.jpg",
-    "source_video_channel": "よにのちゃんねる"
-  },
-  {
-    "id": "yonino-override-202507",
-    "name": "OVERRIDE 神宮前",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前６丁目１８−１１明治ビルディング",
-    "lat": 35.6661069,
-    "lng": 139.7041199,
-    "youtube_id": "IW6S61tn3T0",
-    "source_video_title": "#438【買い物!!】経理の帽子が悲鳴をあげていた日",
-    "visited_date": "2025-07-09",
-    "members": [],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "nearest_station": "JR原宿駅から徒歩10分",
-    "description": "渋谷区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#438「買い物!!」に登場したお店。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/IW6S61tn3T0/hqdefault.jpg",
-    "source_video_channel": "よにのちゃんねる"
-  },
-  {
-    "id": "yonino-7659e42e-202505",
-    "name": "スパイシー カレー 魯珈(ろか)",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区百人町１丁目２４−８新宿タウンプラザBF-J 地下1階",
-    "lat": 35.6999128,
-    "lng": 139.6997412,
-    "youtube_id": "jK0wBUV9HV8",
-    "source_video_title": "#421【朝飯!!】スパイシーがビックバンだった日",
-    "visited_date": "2025-05-11",
-    "members": [],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "nearest_station": "JR大久保駅から徒歩3分",
-    "description": "新宿区のグルメスポット。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#421「朝飯!!」に登場したお店。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/jK0wBUV9HV8/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13286023/",
-    "ordered_items": [
-      {
-        "name": "ろかプレート(チキン)"
-      },
-      {
-        "name": "ジャスミンティー"
-      },
-      {
-        "name": "ろかプレート(ラム)"
-      },
-      {
-        "name": "ジャスミンティー"
-      },
-      {
-        "name": "ろかプレート(チキン)"
-      },
-      {
-        "name": "ジャスミンティー"
-      }
-    ],
-    "source_video_channel": "よにのちゃんねる"
-  },
-  {
-    "id": "yonino-192078ac-202410",
-    "name": "フートン西麻布",
-    "genre": "chuka",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区西麻布４丁目１−８",
-    "lat": 35.6576798,
-    "lng": 139.7217339,
-    "youtube_id": "BZwFY5MOyMI",
-    "source_video_title": "#361【ガチ!!】飯回でかなり素に近い日",
-    "visited_date": "2024-10-13",
-    "members": [],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "nearest_station": " 広尾駅から徒歩10分",
-    "description": "東京都の中華料理店。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#361「ガチ!!」に登場した飲食店。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/BZwFY5MOyMI/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131708/13227263/",
-    "ordered_items": [
-      {
-        "name": "黒烏龍茶"
-      },
-      {
-        "name": "厚切り上タン塩1人前"
-      },
-      {
-        "name": "ネギタン塩1人前"
-      },
-      {
-        "name": "牛ハラミ1人前"
-      },
-      {
-        "name": "鶏セセリ1人前"
-      },
-      {
-        "name": "和牛カルビ1人前"
-      },
-      {
-        "name": "春菊サラダ1人前"
-      },
-      {
-        "name": "キムチ盛合わせ1人前"
-      },
-      {
-        "name": "韓国のり1人前"
-      },
-      {
-        "name": "ユッケ(タレ)2人前"
-      },
-      {
-        "name": "チーズトッポギ1人前合計"
-      },
-      {
-        "name": "黒烏龍茶"
-      },
-      {
-        "name": "レモンサワー"
-      },
-      {
-        "name": "黒烏龍茶"
-      },
-      {
-        "name": "レモンサワー"
-      }
-    ],
-    "source_video_channel": "よにのちゃんねる"
-  },
-  {
-    "id": "yonino-4d3c0923-202409",
-    "name": "ル・パン・コティディアン",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区赤坂９丁目７−１東京ミッドタウンプラザ 1F",
-    "lat": 35.6667323,
-    "lng": 139.7309312,
-    "youtube_id": "Oe3fdhOhEnc",
-    "source_video_title": "#354【朝食!!】RIKACO(さん)に会った日",
-    "visited_date": "2024-09-18",
-    "members": [],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "nearest_station": " 大江戸線の六本木駅8番口から徒歩4分",
-    "description": "東京都のカフェ。よにのちゃんねるが訪れたロケ地。よにのちゃんねる#354「朝食!!」に登場したカフェ。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13120999/",
-    "ordered_items": [
-      {
-        "name": "アイスコーヒー"
-      },
-      {
-        "name": "フレンチトースト"
-      },
-      {
-        "name": "アイスコーヒー"
-      },
-      {
-        "name": "フレンチトースト"
-      },
-      {
-        "name": "カフェオレ？カフェラテ？"
-      },
-      {
-        "name": "チョコ入りの人気No.1トースト？"
-      }
-    ],
-    "source_video_channel": "よにのちゃんねる"
+    "source_video_channel": "よにのちゃんねる",
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる",
+    "qa_note": "#498は二宮を送るドライブ回。コーヒーの場面は二宮が降りた後の山田・菊池と思われるが確証なし"
   },
   {
     "id": "kamenashi-ushigoro_s_ginza-20250816",
