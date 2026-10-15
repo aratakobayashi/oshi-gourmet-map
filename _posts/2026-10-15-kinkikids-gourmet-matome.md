@@ -194,7 +194,7 @@ courses:
 <h2>KinKi Kidsの聖地 年表</h2>
 <p>放送日を確かめられたお店を、放送日の古い順に並べました。スタジオに料理が出たお店も入っています。</p>
 <div class="faq"><details><summary>年表をひらく（35軒・放送日の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/timeline.svg" alt="KinKi Kidsの聖地 年表：2022年 ブンブブーンの高知グルメ（4軒）・韓国グルメ（2軒）・即完売グルメ（5軒）。2023年 おまけグルメ（2軒）、おにぎり企画、沖縄料理のくわっちー家、川越の小川藤と菓匠右門、人生最高レストランで堂本剛が紹介した3軒、創作オムライス（3軒）、熟成焼肉、銀座の天ぷら、築地の2軒、上野の焼肉。2024年 奥渋谷の2軒、お好み焼き。2025年 ニノさんのだしいなり。2026年 ごぶごぶの大阪の3軒" width="420" height="3550" loading="lazy" decoding="async"><figcaption>放送回の特定がまだのお店（麹町のそばうさ・市ヶ谷のカフェ NO4・天童の水車生そば）は年表に入れていません。図の上の「動画が公開された順」は、この記事では放送日の順です</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/timeline.svg" alt="KinKi Kidsの聖地 年表：2022年 ブンブブーンの高知グルメ（4軒）・韓国グルメ（2軒）・即完売グルメ（5軒）。2023年 おまけグルメ（2軒）、おにぎり企画、沖縄料理のくわっちー家、川越の小川藤と菓匠右門、人生最高レストランで堂本剛が紹介した3軒、創作オムライス（3軒）、熟成焼肉、銀座の天ぷら、築地の2軒、上野の焼肉。2024年 奥渋谷の2軒、お好み焼き。2025年 ニノさんのだしいなり。2026年 ごぶごぶの大阪の3軒" width="420" height="1522" loading="lazy" decoding="async"><figcaption>放送回の特定がまだのお店（麹町のそばうさ・市ヶ谷のカフェ NO4・天童の水車生そば）は年表に入れていません。図の上の「動画が公開された順」は、この記事では放送日の順です</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>

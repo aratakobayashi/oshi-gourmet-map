@@ -1,244 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 3550" width="420" height="3550" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="3550" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1522" width="420" height="1522" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="1522" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">KinKi Kidsの聖地 年表</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="3524" stroke="#6d28d9" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
-<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">番組の放送日の順（ロケと紹介のお店）</text>
+<line x1="86" y1="88" x2="86" y2="1496" stroke="#6d28d9" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="88" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">上町池澤本店</text>
-<text x="118" y="134" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 高知グルメ </text>
-<text x="118" y="152" font-size="12.5" fill="#6d28d9">広末涼子</text>
-<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="231" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="209" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="190" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">いまどき安兵衛</text>
-<text x="118" y="236" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 高知グルメ </text>
-<text x="118" y="254" font-size="12.5" fill="#6d28d9">広末涼子</text>
-<text x="70" y="316" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="333" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="311" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="292" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="316" font-size="16" font-weight="800" fill="#241F1A">1×1=1（イチカケルイチ）</text>
-<text x="118" y="338" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 高知グルメ </text>
-<text x="118" y="356" font-size="12.5" fill="#6d28d9">広末涼子</text>
-<text x="70" y="418" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="435" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="413" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="394" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="418" font-size="16" font-weight="800" fill="#241F1A">芋屋金次郎 高知本店</text>
-<text x="118" y="440" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 高知グルメ </text>
-<text x="118" y="458" font-size="12.5" fill="#6d28d9">広末涼子</text>
-<text x="70" y="520" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="537" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="515" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="496" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="520" font-size="16" font-weight="800" fill="#241F1A">ホンスチュクミ 新宿店</text>
-<text x="118" y="542" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 韓国グルメ </text>
-<text x="118" y="560" font-size="12.5" fill="#6d28d9">勝地涼</text>
-<text x="70" y="622" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="617" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="598" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">赤坂おんがね</text>
-<text x="118" y="644" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 韓国グルメ </text>
-<text x="118" y="662" font-size="12.5" fill="#6d28d9">勝地涼</text>
-<text x="70" y="724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="719" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="700" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">点香苑</text>
-<text x="118" y="746" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 即完売グル</text>
-<text x="118" y="764" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="826" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="821" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="802" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">御所雲月 南青山店</text>
-<text x="118" y="848" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 即完売グル</text>
-<text x="118" y="866" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="928" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="945" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="923" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="904" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">焼餃子専門店 岐州</text>
-<text x="118" y="950" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 即完売グル</text>
-<text x="118" y="968" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="1030" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="1025" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1006" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">フルフール御殿場</text>
-<text x="118" y="1052" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 即完売グル</text>
-<text x="118" y="1070" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="1132" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="1149" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="1127" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1108" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">エシレ・メゾン デュ ブール</text>
-<text x="118" y="1154" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 即完売グル</text>
-<text x="118" y="1172" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="1234" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1251" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="1229" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1210" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">肉のたかさご</text>
-<text x="118" y="1256" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン おまけグル</text>
-<text x="118" y="1274" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="1336" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1353" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="1331" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1312" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1336" font-size="16" font-weight="800" fill="#241F1A">花かんざし</text>
-<text x="118" y="1358" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン おまけグル</text>
-<text x="118" y="1376" font-size="12.5" fill="#6d28d9">メ</text>
-<text x="70" y="1438" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1455" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="1433" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1414" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1438" font-size="16" font-weight="800" fill="#241F1A">おにぎり専門店 ぼんご</text>
-<text x="118" y="1460" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン</text>
-<text x="70" y="1522" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1539" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="1517" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1498" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1522" font-size="16" font-weight="800" fill="#241F1A">くわっちー家</text>
-<text x="118" y="1544" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 沖縄料理 20</text>
-<text x="118" y="1562" font-size="12.5" fill="#6d28d9">23年7月15日</text>
-<text x="70" y="1624" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1641" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
-<circle cx="86" cy="1619" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1600" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1624" font-size="16" font-weight="800" fill="#241F1A">小川藤</text>
-<text x="118" y="1646" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン うな重 川越</text>
-<text x="118" y="1664" font-size="12.5" fill="#6d28d9"> 2023年8月5日</text>
-<text x="70" y="1726" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1743" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
-<circle cx="86" cy="1721" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1702" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1726" font-size="16" font-weight="800" fill="#241F1A">菓匠右門 時の鐘店</text>
-<text x="118" y="1748" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 紫芋ソフト</text>
-<text x="118" y="1766" font-size="12.5" fill="#6d28d9">クリーム 川越 2023年8月5日</text>
-<text x="70" y="1828" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1845" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="1823" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1804" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1828" font-size="16" font-weight="800" fill="#241F1A">焼肉きみや</text>
-<text x="118" y="1850" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛）</text>
-<text x="70" y="1912" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="1929" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="1907" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1888" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1912" font-size="16" font-weight="800" fill="#241F1A">御蕎麦 玄</text>
-<text x="118" y="1934" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛）</text>
-<text x="70" y="1996" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2013" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="1991" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="1972" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1996" font-size="16" font-weight="800" fill="#241F1A">APOCパンケーキ</text>
-<text x="118" y="2018" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛）</text>
-<text x="70" y="2080" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2097" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="2075" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2056" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2080" font-size="16" font-weight="800" fill="#241F1A">神田 雲林</text>
-<text x="118" y="2102" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン フカヒレ炒</text>
-<text x="118" y="2120" font-size="12.5" fill="#6d28d9">飯オムライス 2023年9月9日</text>
-<text x="70" y="2182" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2199" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="2177" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2158" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2182" font-size="16" font-weight="800" fill="#241F1A">AMOUR（アムール）</text>
-<text x="118" y="2204" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン スフレオム</text>
-<text x="118" y="2222" font-size="12.5" fill="#6d28d9">ライス 2023年9月9日</text>
-<text x="70" y="2284" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2301" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="2279" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2260" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2284" font-size="16" font-weight="800" fill="#241F1A">能登金沢の幸 銀座 ふる田</text>
-<text x="118" y="2306" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン オムライス </text>
-<text x="118" y="2324" font-size="12.5" fill="#6d28d9">2023年9月9日</text>
-<text x="70" y="2386" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2403" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="2381" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2362" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2386" font-size="16" font-weight="800" fill="#241F1A">熟成焼肉 格之進R+</text>
-<text x="118" y="2408" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 熟成焼肉・</text>
-<text x="118" y="2426" font-size="12.5" fill="#6d28d9">希少部位 2023年9月23日</text>
-<text x="70" y="2488" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2505" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="2483" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2464" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2488" font-size="16" font-weight="800" fill="#241F1A">天ぷら 阿部</text>
-<text x="118" y="2510" font-size="12.5" fill="#6d28d9">【KinKi Kidsのブンブブーンロケ地】銀</text>
-<text x="118" y="2528" font-size="12.5" fill="#6d28d9">座の天ぷらの名店はどこ？</text>
-<text x="70" y="2590" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2607" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="2585" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2566" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2590" font-size="16" font-weight="800" fill="#241F1A">築地 魚政 Tsukiji Fish Burge…</text>
-<text x="118" y="2612" font-size="12.5" fill="#6d28d9">【KinKi Kidsのブンブブーン】築地のフ</text>
-<text x="118" y="2630" font-size="12.5" fill="#6d28d9">ィッシュバーガーのお店はどこ？</text>
-<text x="70" y="2692" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2709" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="2687" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2668" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2692" font-size="16" font-weight="800" fill="#241F1A">東印度カレー商会 築地場外店</text>
-<text x="118" y="2714" font-size="12.5" fill="#6d28d9">【KinKi Kidsのブンブブーン】築地のフ</text>
-<text x="118" y="2732" font-size="12.5" fill="#6d28d9">ィッシュバーガーのお店はどこ？</text>
-<text x="70" y="2794" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2811" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="2789" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2770" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2794" font-size="16" font-weight="800" fill="#241F1A">TOKYO焼肉ごぉ 3号店</text>
-<text x="118" y="2816" font-size="12.5" fill="#6d28d9">【KinKi Kidsのブンブブーン】焼肉屋さ</text>
-<text x="118" y="2834" font-size="12.5" fill="#6d28d9">んと夜アイスはどこ？</text>
-<text x="70" y="2896" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="2913" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="2891" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2872" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2896" font-size="16" font-weight="800" fill="#241F1A">魚力 奥渋谷店</text>
-<text x="118" y="2918" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 2024.01.06</text>
-<text x="118" y="2936" font-size="12.5" fill="#6d28d9"> 奥渋谷</text>
-<text x="70" y="2998" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="3015" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="2993" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="2974" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2998" font-size="16" font-weight="800" fill="#241F1A">肉の栄屋</text>
-<text x="118" y="3020" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 奥渋谷ロケ </text>
-<text x="118" y="3038" font-size="12.5" fill="#6d28d9">2024年1月6日</text>
-<text x="70" y="3100" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="3117" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="3095" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="3076" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3100" font-size="16" font-weight="800" fill="#241F1A">電光石火 銀座店</text>
-<text x="118" y="3122" font-size="12.5" fill="#6d28d9">KinKi Kidsのブンブブーン 電光石火（</text>
-<text x="118" y="3140" font-size="12.5" fill="#6d28d9">お好み焼き） 2024年2月24日</text>
-<text x="70" y="3202" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3219" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="3197" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="3178" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3202" font-size="16" font-weight="800" fill="#241F1A">だしいなり海木　日本橋店</text>
-<text x="118" y="3224" font-size="12.5" fill="#6d28d9">【ニノさん】堂本光一が大好きないなり寿</text>
-<text x="118" y="3242" font-size="12.5" fill="#6d28d9">司 だしいなりはどこで買える？</text>
-<text x="70" y="3304" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="3321" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="3299" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="3280" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3304" font-size="16" font-weight="800" fill="#241F1A">喫茶サンシャイン</text>
-<text x="118" y="3326" font-size="12.5" fill="#6d28d9">ごぶごぶ（堂本剛）</text>
-<text x="70" y="3388" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="3405" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="3383" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="3364" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3388" font-size="16" font-weight="800" fill="#241F1A">心斎橋よかろ</text>
-<text x="118" y="3410" font-size="12.5" fill="#6d28d9">ごぶごぶ（堂本剛）</text>
-<text x="70" y="3472" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="3489" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="3467" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
-<rect x="104" y="3448" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3472" font-size="16" font-weight="800" fill="#241F1A">心斎橋でりしゃす</text>
-<text x="118" y="3494" font-size="12.5" fill="#6d28d9">ごぶごぶ（堂本剛）</text>
+<rect x="104" y="88" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">くわっちー家</text>
+<text x="118" y="134" font-size="12.5" fill="#6d28d9">ブンブブーン 沖縄料理の回（永瀬廉）</text>
+<text x="70" y="196" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="213" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="191" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="172" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="196" font-size="16" font-weight="800" fill="#241F1A">小川藤</text>
+<text x="118" y="218" font-size="12.5" fill="#6d28d9">ブンブブーン 小江戸川越散策ツアー</text>
+<text x="70" y="280" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="297" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="275" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="256" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="280" font-size="16" font-weight="800" fill="#241F1A">菓匠右門 時の鐘店</text>
+<text x="118" y="302" font-size="12.5" fill="#6d28d9">ブンブブーン 小江戸川越散策ツアー</text>
+<text x="70" y="364" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="381" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="359" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="340" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="364" font-size="16" font-weight="800" fill="#241F1A">焼肉きみや</text>
+<text x="118" y="386" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛が紹介）</text>
+<text x="70" y="448" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="465" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="443" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="424" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="448" font-size="16" font-weight="800" fill="#241F1A">御蕎麦 玄</text>
+<text x="118" y="470" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛が紹介）</text>
+<text x="70" y="532" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="549" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="527" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="508" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="532" font-size="16" font-weight="800" fill="#241F1A">APOCパンケーキ</text>
+<text x="118" y="554" font-size="12.5" fill="#6d28d9">人生最高レストラン（堂本剛が紹介）</text>
+<text x="70" y="616" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="633" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="611" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="592" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="616" font-size="16" font-weight="800" fill="#241F1A">熟成焼肉 格之進R+</text>
+<text x="118" y="638" font-size="12.5" fill="#6d28d9">ブンブブーン 焼肉の希少部位の食べ比べ</text>
+<text x="118" y="656" font-size="12.5" fill="#6d28d9">（ロケかは未確認）</text>
+<text x="70" y="718" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="735" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="713" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="694" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="718" font-size="16" font-weight="800" fill="#241F1A">天ぷら 阿部</text>
+<text x="118" y="740" font-size="12.5" fill="#6d28d9">ブンブブーン 天ぷらの揚げ方を教わった</text>
+<text x="118" y="758" font-size="12.5" fill="#6d28d9">回（ロケかは未確認）</text>
+<text x="70" y="820" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="837" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="815" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="796" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="820" font-size="16" font-weight="800" fill="#241F1A">築地 魚政 Tsukiji Fish Burge…</text>
+<text x="118" y="842" font-size="12.5" fill="#6d28d9">ブンブブーン 築地グルメ企画（ももクロ</text>
+<text x="118" y="860" font-size="12.5" fill="#6d28d9">）</text>
+<text x="70" y="922" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="939" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="917" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="898" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="922" font-size="16" font-weight="800" fill="#241F1A">東印度カレー商会 築地場外店</text>
+<text x="118" y="944" font-size="12.5" fill="#6d28d9">ブンブブーン 築地グルメ企画（ももクロ</text>
+<text x="118" y="962" font-size="12.5" fill="#6d28d9">）</text>
+<text x="70" y="1024" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="1041" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="1019" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1000" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1024" font-size="16" font-weight="800" fill="#241F1A">TOKYO焼肉ごぉ 3号店</text>
+<text x="118" y="1046" font-size="12.5" fill="#6d28d9">ブンブブーン 心残りグルメ（ももクロ）</text>
+<text x="70" y="1108" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="1125" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="1103" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1084" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1108" font-size="16" font-weight="800" fill="#241F1A">魚力 奥渋谷店</text>
+<text x="118" y="1130" font-size="12.5" fill="#6d28d9">ブンブブーン 奥渋谷ロケ（柳沢慎吾）</text>
+<text x="70" y="1192" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="1209" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="1187" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1168" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1192" font-size="16" font-weight="800" fill="#241F1A">肉の栄屋</text>
+<text x="118" y="1214" font-size="12.5" fill="#6d28d9">ブンブブーン 奥渋谷ロケ（柳沢慎吾）</text>
+<text x="70" y="1276" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="1293" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="1271" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1252" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1276" font-size="16" font-weight="800" fill="#241F1A">喫茶サンシャイン</text>
+<text x="118" y="1298" font-size="12.5" fill="#6d28d9">ごぶごぶ 正月SP（堂本剛）</text>
+<text x="70" y="1360" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="1377" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="1355" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1336" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1360" font-size="16" font-weight="800" fill="#241F1A">心斎橋よかろ</text>
+<text x="118" y="1382" font-size="12.5" fill="#6d28d9">ごぶごぶ 正月SP（堂本剛）</text>
+<text x="70" y="1444" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="1461" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="1439" r="7" fill="#fff" stroke="#6d28d9" stroke-width="4"/>
+<rect x="104" y="1420" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1444" font-size="16" font-weight="800" fill="#241F1A">心斎橋でりしゃす</text>
+<text x="118" y="1466" font-size="12.5" fill="#6d28d9">ごぶごぶ 正月SP（堂本剛）</text>
 </svg>
