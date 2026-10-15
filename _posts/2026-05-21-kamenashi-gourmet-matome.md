@@ -111,9 +111,8 @@ courses:
 </div>
 
 <h2>半日で巡るなら：原宿・神宮前の3軒</h2>
-<p>宮舘涼太と食べた一蘭から、越岡裕貴とジュニア時代を語ったじゃんがら、そのあとに立ち寄ったHohokam DINERまで。3軒とも神宮前にあります。</p>
+<p>宮舘涼太と食べた一蘭から、越岡裕貴とジュニア時代に通ったじゃんがら、そのあとに立ち寄ったHohokam DINERまで。3軒とも神宮前にあります。</p>
 <figure class="fig course"><img src="/assets/img/posts/kamenashi-gourmet-matome/course-1.svg" alt="原宿・神宮前のコース図。1 一蘭 原宿店（神宮前6丁目）、2 九州じゃんがら原宿店（神宮前1丁目）、3 Hohokam DINER（神宮前1丁目）。3軒とも原宿駅・明治神宮前駅の近く" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
-
 
 <div class="pf-quote"><p>41軒のうち19軒は、後輩・仲間や共演者・ゲストと一緒の回です。一方で、タイトルに「ぼっち」「1人」が入るひとりごはんの回も続いていて、東京の焼肉から宮崎・京都・福岡・堺まで登場します。2025年からは大阪の回が増え、2026年は鈴木福との湯島の回や、初めての麻辣湯の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 

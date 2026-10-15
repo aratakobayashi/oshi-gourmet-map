@@ -159,7 +159,7 @@ def main():
     body = head + ''.join(secs)
 
     # --- 3) 冒頭の「出典で選ぶ」「メンバーで選ぶ」 ---
-    body = re.sub(r'<div class="cnav">.*?</div>\n</div>\n\{% include matome-members\.html group="\w+" %\}\n', '', body, flags=re.S)
+    body = re.sub(r'<div class="cnav">.*?</div>\n</div>\n(\{% include matome-members\.html group="\w+" %\}\n)?\n?', '', body, flags=re.S)
     items = ''.join(f'<a href="#{c}">{{% include chico.html kind="{k}" %}}<span>{l}<small>{n}軒</small></span></a>' for c, k, l, n in nav if n)
     block = (f'<div class="cnav">\n<p class="cnav__h">出典で選ぶ</p>\n<div class="cnav__list">{items}</div>\n</div>\n'
              f'{{% include matome-members.html group="{group}" %}}\n')
