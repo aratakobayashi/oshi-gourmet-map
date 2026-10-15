@@ -20279,7 +20279,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "浅草駅",
-    "description": "タイムレスマン「日光街道！脱落旅SP」（2026年4月17日 フジテレビ）で、ゲームの景品として亀十のどら焼きが登場し、橋本将生が勝ち取った。",
+    "description": "timeleszの冠番組『タイムレスマン』の「日光街道！脱落旅SP」（2026年4月17日）で、ゲームの景品として亀十のどら焼きが登場し、橋本将生が勝ち取った。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003655/",
     "hotpepper_url": "",
@@ -20292,7 +20292,11 @@
       {
         "name": "どら焼き"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。ゲームの景品として品物が出ただけ。"
   },
   {
     "id": "timelesz-c10561a2-",
@@ -20314,7 +20318,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "浅草駅",
-    "description": "タイムレスマン「日光街道！脱落旅SP」（2026年4月17日 フジテレビ）で、ゲームの景品として舟和のあんみつが登場し、猪俣周杜が勝ち取った。",
+    "description": "timeleszの冠番組『タイムレスマン』の「日光街道！脱落旅SP」（2026年4月17日）で、ゲームの景品として舟和のあんみつが登場し、猪俣周杜が勝ち取った。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13003683/",
     "hotpepper_url": "",
@@ -20327,7 +20331,11 @@
       {
         "name": "あんみつ"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。ゲームの景品として品物が出ただけ。"
   },
   {
     "id": "timelesz-56bdf348-",
@@ -20349,7 +20357,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "浅草駅",
-    "description": "タイムレスマン「日光街道！脱落旅SP」（2026年4月17日 フジテレビ）で、ゲームの景品として常盤堂の雷おこしが登場し、菊池風磨が勝ち取った。",
+    "description": "timeleszの冠番組『タイムレスマン』の「日光街道！脱落旅SP」（2026年4月17日）で、ゲームの景品として常盤堂の雷おこしが登場し、菊池風磨が勝ち取った。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13016818/",
     "hotpepper_url": "",
@@ -20362,7 +20370,11 @@
       {
         "name": "雷おこし"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。ゲームの景品として品物が出ただけ。"
   },
   {
     "id": "timelesz-59cd8eb8-",
@@ -20385,7 +20397,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "日光駅",
-    "description": "タイムレスマン「日光街道！脱落旅SP」（2026年4月17日 フジテレビ）で立ち寄った和スイーツ店。いちご大福もなかをめぐる信頼じゃんけんで、橋本将生が支払うことになった。",
+    "description": "timeleszの冠番組『タイムレスマン』の「日光街道！脱落旅SP」（2026年4月17日）で、いちご大福もなかをめぐる信頼じゃんけんの舞台になった和スイーツ店。原嘉孝のチョキで橋本将生がおごることになった。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tochigi/A0903/A090301/9023212/",
     "hotpepper_url": "",
@@ -20397,7 +20409,10 @@
       {
         "name": "いちご大福もなか"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "出典（idol-portal.com/archives/394）は原・橋本の名前だけ。じゃんけんにほかのメンバーもいた可能性あり。source_url が空なので idol-portal.com/archives/394 を入れるとよい"
   },
   {
     "id": "heysayjump-2c7fa4f5-20151114",
@@ -36230,14 +36245,17 @@
     ],
     "group": "timelesz",
     "nearest_station": "六本木駅 徒歩9分",
-    "description": "松島聡が2025年9月15日にInstagramに投稿した、西麻布のグリークヨーグルト専門店。",
+    "description": "timeleszの松島聡が2025年9月15日にInstagramに投稿した、西麻布のグリークヨーグルト専門店。仕事の合間にスタッフと訪れた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13311029/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "松島聡 Instagram",
+    "qa_note": "出典はファンブログ経由のInstagram投稿。インスタは整理されることがあるとの記載あり"
   },
   {
     "id": "timelesz-db83f579-",
@@ -36261,7 +36279,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "タイムレスマン「東海道中！脱落旅」（2025年9月27日 フジテレビ）で、菊池風磨と橋本将生が伊勢・おかげ横丁で立ち寄り、松阪牛の牛串などを食べた茶屋。",
+    "description": "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、菊池風磨と橋本将生が伊勢・おかげ横丁で立ち寄り、松阪牛の牛串やおにぎりを食べた茶屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/mie/A2403/A240301/24002012/",
     "hotpepper_url": "",
@@ -36276,7 +36294,9 @@
         "name": "おにぎり"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン"
   },
   {
     "id": "timelesz-790cc89f-",
@@ -36292,8 +36312,8 @@
     "source_url": "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-location-food/",
     "visited_date": "2025-09-27",
     "members": [
-      "菊池風磨",
       "佐藤勝利",
+      "菊池風磨",
       "松島聡",
       "寺西拓人",
       "原嘉孝",
@@ -36306,7 +36326,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "タイムレスマン「東海道中！脱落旅」（2025年9月27日 フジテレビ）で、timeleszの8人がゲストの山下智久と対面した伊勢・おかげ横丁の茶屋。赤福餅が出された。",
+    "description": "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、timeleszの8人が山下智久と対面した伊勢・おかげ横丁の赤福の茶屋。トークの席に赤福餅が出された。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/mie/A2403/A240301/24000873/",
     "hotpepper_url": "",
@@ -36318,7 +36338,12 @@
         "name": "赤福餅"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "with": [
+      "山下智久"
+    ]
   },
   {
     "id": "timelesz-udon_noodle_brasseri-",
@@ -36340,7 +36365,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「アーユーハングリーマン」で、松島聡・猪俣周杜が外国人観光客と一緒に訪れ、すだちのおうどんを食べた。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」（2025年8・9月）で、松島聡と猪俣周杜が外国人観光客と訪れ、すだちのおうどんを分け合って食べたうどん店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13299475/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000104330/",
@@ -36353,7 +36378,10 @@
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/34/00/P012153400/P012153400_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/34/00/P012153400/P012153400_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "visited_date が空。松島・猪俣チームの最初の店で、前編（2025-08-26）とみられるが確定できず"
   },
   {
     "id": "timelesz-itamae_sushi-",
@@ -36370,15 +36398,15 @@
     "visited_date": "2025-08-26",
     "members": [
       "松島聡",
-      "篠塚大輝",
       "橋本将生",
-      "猪俣周杜"
+      "猪俣周杜",
+      "篠塚大輝"
     ],
     "groups": [
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「アーユーハングリーマン」の前編（2025年8月26日）で橋本将生・篠塚大輝が、完結編（9月2日）で松島聡・猪俣周杜が、外国人観光客と訪れた寿司店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」で、前編（2025年8月26日）に橋本将生・篠塚大輝が、完結編（9月2日）に松島聡・猪俣周杜が、それぞれ外国人観光客と訪れた寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130704/13118655/",
     "hotpepper_url": "",
@@ -36390,7 +36418,10 @@
         "name": "選抜極上にぎりセット"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "番組公式Xで両チームの来店を確認"
   },
   {
     "id": "timelesz-11cdabda-",
@@ -36413,7 +36444,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「アーユーハングリーマン」完結編（2025年9月2日）で、橋本将生・篠塚大輝が外国人観光客と訪れ、餃子を食べた中華料理店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」完結編（2025年9月2日）で、橋本将生と篠塚大輝が外国人観光客と訪れ、餃子を食べた中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13013277/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000006614/",
@@ -36426,7 +36457,9 @@
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/06/P047988006/P047988006_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/06/P047988006/P047988006_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン"
   },
   {
     "id": "timelesz-719c6f08-",
@@ -36450,7 +36483,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "芝公園駅 徒歩5分",
-    "description": "タイムレスマン「アーユーハングリーマン」完結編（2025年9月2日）で、松島聡・猪俣周杜が外国人観光客の家族と訪れ、クレープを食べた。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」完結編（2025年9月2日）で、松島聡と猪俣周杜がアメリカ人の家族と訪れ、クレープを食べた東京タワーのクレープ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13311076/",
     "hotpepper_url": "",
@@ -36462,7 +36495,9 @@
         "name": "クレープ"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン"
   },
   {
     "id": "timelesz-d63959b2-20250912",
@@ -36484,7 +36519,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ニノさん（2025年9月12日 日本テレビ）の「高田馬場の麻辣グルメBEST3」で、原嘉孝がロケで訪れた第3位の店。麻辣牛肉麺が紹介された。",
+    "description": "『ニノさん』（2025年9月12日）の「高田馬場の麻辣グルメBEST3」で、timeleszの原嘉孝がロケで訪れた第3位の店。麻辣牛肉麺を紹介した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13275665/",
     "hotpepper_url": "",
@@ -36496,7 +36531,10 @@
         "name": "楽山マーラー牛肉麺"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "番組では「孫二郎」と紹介されたとの記載あり。スタジオに寺西拓人・篠塚大輝がいたが店には行っていない"
   },
   {
     "id": "timelesz-dd1e0ef4-20250912",
@@ -36519,7 +36557,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "高田馬場駅 徒歩5分",
-    "description": "ニノさん（2025年9月12日 日本テレビ）の「高田馬場の麻辣グルメBEST3」で、原嘉孝がロケで訪れた第2位の四川料理店。麻婆豆腐が紹介された。",
+    "description": "『ニノさん』（2025年9月12日）の「高田馬場の麻辣グルメBEST3」で、timeleszの原嘉孝がロケで訪れた第2位の四川料理店。麻婆豆腐を紹介した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13273758/",
     "hotpepper_url": "",
@@ -36534,7 +36572,10 @@
         "name": "炎の揚州チャーハン"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "店名は出典では「四川料理専門店 成都娘酸菜魚 高田馬場店」、番組では「成都姑娘」と紹介。寺西・篠塚はスタジオで試食のみ"
   },
   {
     "id": "timelesz-57478bac-20250912",
@@ -36557,7 +36598,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "高田馬場駅 徒歩7分",
-    "description": "ニノさん（2025年9月12日 日本テレビ）の「高田馬場の麻辣グルメBEST3」で、原嘉孝がロケで訪れた第1位の火鍋店。",
+    "description": "『ニノさん』（2025年9月12日）の「高田馬場の麻辣グルメBEST3」で、timeleszの原嘉孝がロケで訪れ、火鍋しゃぶしゃぶを食べた第1位の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13261198/",
     "hotpepper_url": "",
@@ -36572,7 +36613,10 @@
         "name": "スペシャルピリ牛肉"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "寺西・篠塚はスタジオで試食のみ"
   },
   {
     "id": "timelesz-e9304b8e-20250629",
@@ -36595,7 +36639,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "『未来人に残したい！ふるさとタイムレスカプセル』（2025年6月29日 読売テレビ）で、松島聡が訪れ、二段式生うに丼を食べた稚内の海鮮食堂。",
+    "description": "timeleszの冠特番『未来人に残したい！ふるさとタイムレスカプセル』（2025年6月29日 読売テレビ）で、松島聡が訪れ、二段式生うに丼を食べた稚内・ノシャップ岬の海鮮食堂。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0109/A010901/1004013/",
     "hotpepper_url": "",
@@ -36606,7 +36650,9 @@
       {
         "name": "二段式生うに丼"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "未来人に残したい！ふるさとタイムレスカプセル"
   },
   {
     "id": "timelesz-cbeb9cad-20250622",
@@ -36629,7 +36675,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "水道橋駅 徒歩3分",
-    "description": "ニノさん（2025年6月20日 日本テレビ）の「神保町の餃子がうまい店ベスト3」で、原嘉孝がロケで訪れた第3位の店。",
+    "description": "『ニノさん』の「神保町の餃子がうまい店ベスト3」で、timeleszの原嘉孝がロケで訪れ、日式餃子と北京式焼餃子を紹介した第3位の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13269188/",
     "hotpepper_url": "",
@@ -36644,7 +36690,10 @@
         "name": "北京式焼餃子"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "放送日: 番組公式Xの告知（6/19付「今夜」）から2025-06-20とみられる。出典ブログは6/22と表記"
   },
   {
     "id": "timelesz-4c07b0de-20250622",
@@ -36666,7 +36715,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ニノさん（2025年6月20日 日本テレビ）の「神保町の餃子がうまい店ベスト3」で、原嘉孝がロケで訪れた第2位の店。",
+    "description": "『ニノさん』の「神保町の餃子がうまい店ベスト3」で、timeleszの原嘉孝がロケで訪れ、スタンダード餃子とラムパクチー餃子を紹介した第2位の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13288913/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003624081/",
@@ -36682,7 +36731,10 @@
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/82/P043007682/P043007682_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/82/P043007682/P043007682_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "放送日は2025-06-20とみられる（出典ブログは6/22）"
   },
   {
     "id": "timelesz-183396ac-20250622",
@@ -36705,7 +36757,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "神保町駅 徒歩2分",
-    "description": "ニノさん（2025年6月20日 日本テレビ）の「神保町の餃子がうまい店ベスト3」で、原嘉孝がロケで訪れた第1位の店。",
+    "description": "『ニノさん』の「神保町の餃子がうまい店ベスト3」で、timeleszの原嘉孝がロケで訪れ、黒豚餃子を紹介した第1位の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13025041/",
     "hotpepper_url": "",
@@ -36717,7 +36769,10 @@
         "name": "黒豚餃子"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "qa_note": "放送日は2025-06-20とみられる（出典ブログは6/22）"
   },
   {
     "id": "timelesz-laolee-20250615",
@@ -36741,7 +36796,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "中目黒駅 徒歩3分",
-    "description": "かまいガチ（2025年6月15日 テレビ朝日）の大食い企画で、橋本将生・篠塚大輝が濱家隆一と訪れ、水餃子を食べた台湾料理店。",
+    "description": "『かまいガチ』1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で、timeleszの橋本将生と篠塚大輝が濱家隆一と訪れ、水餃子を食べた台湾料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13306628/",
     "hotpepper_url": "",
@@ -36753,7 +36808,12 @@
         "name": "元祖台湾肉汁水餃子"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg",
+    "visit_kind": "guest_tv",
+    "program": "かまいガチ",
+    "with": [
+      "濱家隆一"
+    ]
   },
   {
     "id": "timelesz-skookum_hotdog_diner-20250615",
@@ -36776,7 +36836,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "かまいガチ（2025年6月15日 テレビ朝日）の大食い企画で、橋本将生・篠塚大輝が濱家隆一と訪れ、チリドッグを食べたホットドッグ店。",
+    "description": "『かまいガチ』1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で、timeleszの橋本将生と篠塚大輝が濱家隆一と訪れ、チリドッグを食べたホットドッグ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13263964/",
     "hotpepper_url": "",
@@ -36788,7 +36848,12 @@
         "name": "チリドッグ"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg",
+    "visit_kind": "guest_tv",
+    "program": "かまいガチ",
+    "with": [
+      "濱家隆一"
+    ]
   },
   {
     "id": "timelesz-new-20250603",
@@ -36813,7 +36878,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "本川越駅 徒歩9分",
-    "description": "めざましテレビ（2025年6月3日 フジテレビ）の川越ロケで、橋本将生・猪俣周杜・篠塚大輝が訪れ、カレーとラーメンを食べた店。",
+    "description": "『めざましテレビ』（2025年6月3日 フジテレビ）の川越ロケで、timeleszの橋本将生・猪俣周杜・篠塚大輝が訪れ、カレーとラーメンのハーフセットを食べた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11064993/",
     "hotpepper_url": "",
@@ -36825,7 +36890,9 @@
         "name": "ハーフ川越三元豚カレー＆ハーフはつかり醤油ラーメン"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ"
   },
   {
     "id": "timelesz-1427d948-20250518",
@@ -36847,7 +36914,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "「ちゃんとやれるかな？」（2025年5月18日 日本テレビ）の熱海ロケで、猪俣周杜が朝食をとったリゾナーレ熱海のビュッフェレストラン。",
+    "description": "『エース・周杜の「ちゃんとやれるかな？」』（2025年5月18日 日本テレビ）の熱海ロケで、timeleszの猪俣周杜が朝食に海鮮朝ラーメンや鯛ご飯を食べた、リゾナーレ熱海のビュッフェレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22033291/",
     "hotpepper_url": "",
@@ -36864,7 +36931,13 @@
       {
         "name": "ぐり茶トースト"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "エース・周杜の「ちゃんとやれるかな？」",
+    "with": [
+      "バッテリィズ エース"
+    ],
+    "qa_note": "猪俣の名を冠した特番なので own_tv とした。ホテル内レストラン"
   },
   {
     "id": "timelesz-7800b7f9-",
@@ -36887,14 +36960,17 @@
     ],
     "group": "timelesz",
     "nearest_station": "原宿駅 徒歩4分",
-    "description": "timeleszの時間ですよ（2025年10月13日 TBS）で、篠塚大輝が店員として働いたクレープ店。",
+    "description": "timeleszの冠番組『timeleszの時間ですよ』（2025年10月13日 TBS）で、篠塚大輝が店員として働き、気づかれるまでの時間を検証したクレープ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13088711/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "timeleszの時間ですよ",
+    "qa_note": "働いた店。食べたクレープは本人のインスタのストーリーズで紹介とのこと"
   },
   {
     "id": "timelesz-monica-",
@@ -36910,14 +36986,21 @@
     "source_url": "https://oshikatsu-time.com/timelesz-timeleszman-nitakuman-bread/",
     "visited_date": "2026-03-20",
     "members": [
-      "菊池風磨"
+      "佐藤勝利",
+      "菊池風磨",
+      "松島聡",
+      "寺西拓人",
+      "原嘉孝",
+      "橋本将生",
+      "猪俣周杜",
+      "篠塚大輝"
     ],
     "groups": [
       "timelesz"
     ],
     "group": "timelesz",
     "nearest_station": "渋谷駅 徒歩5分",
-    "description": "タイムレスマン プレオープンSP「2択マン」（2026年3月20日 フジテレビ）で、ご褒美のパンとして登場したベーカリー。",
+    "description": "timeleszの冠番組『タイムレスマン』のプレオープンSP「2択マン」（2026年3月20日）で、ご褒美として海老フライのヴィエノワが出されたベーカリー。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13274523/",
     "hotpepper_url": "",
@@ -36929,7 +37012,11 @@
         "name": "海老フライのヴィエノワ"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。現 members は菊池風磨のみだが、出典は「timeleszが食べた」とあり8人の企画。篠塚は食べられなかった可能性ありとの記載"
   },
   {
     "id": "timelesz-a8cdf34b-20250617",
@@ -36952,7 +37039,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "高円寺駅",
-    "description": "timeleszの時間ですよ（2025年6月17日 TBS）の高円寺ロケで、篠塚大輝が訪れた居酒屋。",
+    "description": "timeleszの冠番組『timeleszの時間ですよ』（2025年6月17日 TBS）の高円寺ロケで、篠塚大輝が訪れた居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13277894/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003497769/",
@@ -36960,7 +37047,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/78/70/P041337870/P041337870_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/78/70/P041337870/P041337870_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "timeleszの時間ですよ",
+    "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。要確認"
   },
   {
     "id": "timelesz-ee55e45a-20240301",
@@ -36984,13 +37074,16 @@
     ],
     "group": "timelesz",
     "nearest_station": "高円寺駅",
-    "description": "猪俣周杜が出演した Google Pixel 10 のテレビCM「AIで作る4コマ漫画」篇の撮影に使われた高円寺の喫茶店。",
+    "description": "timeleszの猪俣周杜が出演した Google Pixel 10 のテレビCM「AIで作る4コマ漫画」篇（2026年2月放映開始）の撮影に使われた高円寺の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13000675/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "visit_kind": "other",
+    "program": "Google Pixel 10 CM「AIで作る4コマ漫画」篇",
+    "qa_note": "CMで猪俣が都内の喫茶店を訪れたことは報道で確認できたが、それが七つ森かは出典（Yahoo!ニュース エキスパート、取得不可）でしか確かめられない。要確認。IDの日付（20240301）は実際の日付と無関係"
   },
   {
     "id": "timelesz-cocochiyo_cafe-20251125",
@@ -37013,7 +37106,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "新宿御苑前駅",
-    "description": "timeleszファミリア（2025年11月24日 日本テレビ）の地頭王決定戦で、優勝した菊池風磨がご褒美に食べたプリンの店。",
+    "description": "timeleszの冠番組『timeleszファミリア』の地頭王決定戦（2025年11月24日 日本テレビ）で、優勝した菊池風磨がご褒美に食べたプリンの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130402/13177228/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001116932/",
@@ -37025,7 +37118,11 @@
         "name": "とろ～り半熟ここちよプリン極"
       }
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/63/20/P040566320/P040566320_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/63/20/P040566320/P040566320_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "timeleszファミリア",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。ご褒美のプリンが出ただけ"
   },
   {
     "id": "timelesz-74fca107-20250501",
@@ -37048,13 +37145,21 @@
     ],
     "group": "timelesz",
     "nearest_station": "入谷駅",
-    "description": "相葉◎×部（2025年5月24日 フジテレビ）で、原嘉孝が相葉雅紀・末澤誠也・えなりかずきと訪れた入谷の喫茶店。",
+    "description": "『相葉◎×部』（2025年5月24日 フジテレビ）で、timeleszの原嘉孝が相葉雅紀・末澤誠也・えなりかずきと訪れた入谷の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131104/13012252/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "visit_kind": "guest_tv",
+    "program": "相葉◎×部",
+    "with": [
+      "相葉雅紀",
+      "末澤誠也",
+      "えなりかずき"
+    ],
+    "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。要確認"
   },
   {
     "id": "timelesz-f73889d0-20250823",
@@ -37079,14 +37184,20 @@
     ],
     "group": "timelesz",
     "nearest_station": "渡辺橋駅",
-    "description": "timeleszの公式Instagramで、2024年8月23日に3人がマリウス葉と訪れたと紹介された大阪・堂島の焼肉店。",
+    "description": "timeleszの公式Instagramで紹介された、2024年8月23日にtimeleszの3人がマリウス葉と大阪で訪れた焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27098972/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "timelesz 公式Instagram",
+    "with": [
+      "マリウス葉"
+    ],
+    "qa_note": "2024年4月以降（timelesz改名後）なので残す。出典ブログは公式Instagram投稿の埋め込み"
   },
   {
     "id": "timelesz-cafe_marly-20250425",
@@ -37110,13 +37221,16 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "渋谷PARCOの企画「菊池風磨＆橋本将生（timelesz）×MARNI」（2025年4月25日公開）で、2人が撮影に訪れた渋谷PARCO 1階のカフェ。",
+    "description": "渋谷PARCOの企画「菊池風磨＆橋本将生（timelesz）×MARNI」（2025年4月公開）の撮影に使われた、渋谷PARCO 1階のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13241220/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
-    "tmdb_type": ""
+    "tmdb_type": "",
+    "visit_kind": "other",
+    "program": "渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MARNI」",
+    "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。撮影場所のみで食事したかは不明。要確認"
   },
   {
     "id": "timelesz-3686de20-20250425",
@@ -37139,14 +37253,19 @@
     ],
     "group": "timelesz",
     "nearest_station": "土浦駅 徒歩6分",
-    "description": "ニノさん（2025年4月25日 日本テレビ）で、原嘉孝が若槻千夏と「幻のお肉」を求めて訪れた土浦の洋食店。",
+    "description": "『ニノさん』（2025年4月25日 日本テレビ）で、timeleszの原嘉孝が若槻千夏と「幻のお肉」飯村牛を求めて訪れた土浦の洋食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ibaraki/A0802/A080202/8001370/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 82913,
     "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "with": [
+      "若槻千夏"
+    ]
   },
   {
     "id": "timelesz-e0858214-20250425",
@@ -37169,7 +37288,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "ニノさん（2025年4月25日 日本テレビ）の茨城ロケで、原嘉孝が立ち寄ったつくばの洋菓子店。",
+    "description": "『ニノさん』（2025年4月25日 日本テレビ）の茨城ロケで、timeleszの原嘉孝が若槻千夏と訪れ、日替わりジェラートを紹介したつくばの洋菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ibaraki/A0802/A080201/8027852/",
     "hotpepper_url": "",
@@ -37181,7 +37300,12 @@
         "name": "ジェラート"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "with": [
+      "若槻千夏"
+    ]
   },
   {
     "id": "timelesz-01b6e1f7-20250615",
@@ -37205,7 +37329,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "駒沢大学駅 徒歩18分",
-    "description": "かまいガチ（2025年6月15日 テレビ朝日）の大食い企画で、橋本将生・篠塚大輝が濱家隆一と食べた焼肉店。",
+    "description": "『かまいガチ』1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で、timeleszの橋本将生と篠塚大輝が濱家隆一と大食いに挑んだ焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131707/13122165/",
     "hotpepper_url": "",
@@ -37217,7 +37341,12 @@
         "name": "壺漬けドラゴンハラミ"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg",
+    "visit_kind": "guest_tv",
+    "program": "かまいガチ",
+    "with": [
+      "濱家隆一"
+    ]
   },
   {
     "id": "timelesz-no_4-20260320",
@@ -37239,7 +37368,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "松島聡が2026年3月20日にInstagramに投稿した、四番町のベーカリーカフェ。",
+    "description": "timeleszの松島聡が2026年3月20日にInstagramに投稿した、四番町のベーカリーカフェ。仕事の合間にスタッフと訪れた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130904/13189835/",
     "hotpepper_url": "",
@@ -37250,7 +37379,9 @@
       {
         "name": "パン"
       }
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "松島聡 Instagram"
   },
   {
     "id": "timelesz-858616e9-20250927",
@@ -37273,7 +37404,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "",
-    "description": "タイムレスマン「東海道中！脱落旅」（2025年9月27日 フジテレビ）で、勝負に負けた橋本将生が買い出しに訪れ、うな重弁当を持ち帰った浜松のうなぎ店。",
+    "description": "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、勝負に負けた橋本将生が買い出しに訪れ、うな重弁当を持ち帰った浜松のうなぎ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22000099/",
     "hotpepper_url": "",
@@ -37285,7 +37416,10 @@
         "name": "うな重弁当"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "店で買って持ち帰り（移動中に食べた）"
   },
   {
     "id": "timelesz-fb8cf4d9-20250518",
@@ -37308,7 +37442,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "「ちゃんとやれるかな？」（2025年5月18日 日本テレビ）の熱海ロケで、猪俣周杜がバッテリィズのエースと海鮮丼の定食を食べた金目鯛料理の店。",
+    "description": "『エース・周杜の「ちゃんとやれるかな？」』（2025年5月18日 日本テレビ）の熱海ロケで、timeleszの猪俣周杜がバッテリィズのエースと海鮮丼の定食を食べた金目鯛料理の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22009940/",
     "hotpepper_url": "",
@@ -37319,7 +37453,13 @@
       {
         "name": "金目鯛の紅白二色丼定食"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "エース・周杜の「ちゃんとやれるかな？」",
+    "with": [
+      "バッテリィズ エース"
+    ],
+    "qa_note": "出典では「金目鯛とくぞう熱海駅前店」（田原本町4-8-102）。店名「熱海本店」が正しいか確認を"
   },
   {
     "id": "timelesz-806f751c-20250518",
@@ -37342,7 +37482,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "「ちゃんとやれるかな？」（2025年5月18日 日本テレビ）の熱海ロケで、猪俣周杜がえびみりんを食べた干物店。",
+    "description": "『エース・周杜の「ちゃんとやれるかな？」』（2025年5月18日 日本テレビ）の熱海ロケで、timeleszの猪俣周杜がえびみりんを食べた熱海・平和通り商店街の干物店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22020933/",
     "hotpepper_url": "",
@@ -37353,7 +37493,13 @@
       {
         "name": "えびみりん"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "エース・周杜の「ちゃんとやれるかな？」",
+    "with": [
+      "バッテリィズ エース"
+    ],
+    "qa_note": "干物店で食べ歩き（ルールどおり keep）"
   },
   {
     "id": "timelesz-0ade3661-20260216",
@@ -37369,8 +37515,8 @@
     "source_url": "https://www.tvguide.or.jp/news/news-4392874/",
     "visited_date": "2026-02-16",
     "members": [
-      "菊池風磨",
       "佐藤勝利",
+      "菊池風磨",
       "松島聡",
       "寺西拓人",
       "原嘉孝",
@@ -37383,7 +37529,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "西八王子駅",
-    "description": "timeleszファミリア（2026年2月16日 日本テレビ）で、この店のあんかけ五目焼きそばをかけてスタジオで対決した。",
+    "description": "timeleszの冠番組『timeleszファミリア』（2026年2月16日 日本テレビ）で、この店のあんかけ五目焼きそばを懸けてtimeleszの8人がドンデコルテとスタジオで対決した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132904/13010459/",
     "hotpepper_url": "",
@@ -37394,7 +37540,14 @@
       {
         "name": "あんかけ五目焼きそば（デカ盛り）"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "timeleszファミリア",
+    "with": [
+      "ドンデコルテ"
+    ],
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。"
   },
   {
     "id": "timelesz-9004c8f3-20260112",
@@ -37410,8 +37563,8 @@
     "source_url": "https://www.tvguide.or.jp/news/news-4277176/",
     "visited_date": "2026-01-12",
     "members": [
-      "菊池風磨",
       "佐藤勝利",
+      "菊池風磨",
       "松島聡",
       "寺西拓人",
       "原嘉孝",
@@ -37424,7 +37577,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "広尾駅",
-    "description": "timeleszファミリア（2026年1月12日 日本テレビ）の「究極の2択ダイニング」で、この店のビステッカが選択肢として登場したイタリア料理店。",
+    "description": "timeleszの冠番組『timeleszファミリア』（2026年1月12日 日本テレビ）の「究極の2択ダイニング」で、この店のビステッカが選択肢として出されたイタリア料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13001647/",
     "hotpepper_url": "",
@@ -37435,7 +37588,11 @@
       {
         "name": "超豪快ビステッカ"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "timeleszファミリア",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。"
   },
   {
     "id": "timelesz-ea0acb9b-20260112",
@@ -37451,8 +37608,8 @@
     "source_url": "https://www.tvguide.or.jp/news/news-4277176/",
     "visited_date": "2026-01-12",
     "members": [
-      "菊池風磨",
       "佐藤勝利",
+      "菊池風磨",
       "松島聡",
       "寺西拓人",
       "原嘉孝",
@@ -37465,7 +37622,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "赤羽橋駅",
-    "description": "timeleszファミリア（2026年1月12日 日本テレビ）の「究極の2択ダイニング」で、この店の炊き込みご飯が選択肢として登場した日本料理店。",
+    "description": "timeleszの冠番組『timeleszファミリア』（2026年1月12日 日本テレビ）の「究極の2択ダイニング」で、この店の炊き込みご飯が選択肢として出された日本料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13276093/",
     "hotpepper_url": "",
@@ -37476,7 +37633,11 @@
       {
         "name": "炊き込みご飯"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "timeleszファミリア",
+    "studio_only": true,
+    "qa_note": "スタジオ扱い（店には行っていない）。"
   },
   {
     "id": "timelesz-e6304bf1-20250603",
@@ -37501,7 +37662,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "本川越駅",
-    "description": "めざましテレビ（2025年6月3日 フジテレビ）の川越ロケで、橋本将生・猪俣周杜・篠塚大輝が訪れたさつまいもスイーツの店。",
+    "description": "『めざましテレビ』（2025年6月3日 フジテレビ）の川越ロケで、timeleszの橋本将生・猪俣周杜・篠塚大輝が飲む焼き芋と焼き芋ソフトを食べたさつまいもスイーツの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11065353/",
     "hotpepper_url": "",
@@ -37519,52 +37680,9 @@
         "name": "くねくねソフト"
       }
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
-  },
-  {
-    "id": "timelesz-a8b01696-20260417",
-    "name": "早見商店",
-    "genre": "others",
-    "prefecture": "栃木県",
-    "city": "日光市",
-    "address": "栃木県日光市松原町12-5",
-    "lat": 36.7473122,
-    "lng": 139.6176874,
-    "youtube_id": "",
-    "source_video_title": "タイムレスマン 日光街道！脱落旅SP（2026年4月17日 フジテレビ系）",
-    "source_url": "https://idol-portal.com/archives/394",
-    "visited_date": "2026-04-17",
-    "members": [
-      "菊池風磨",
-      "佐藤勝利",
-      "松島聡",
-      "寺西拓人",
-      "原嘉孝",
-      "橋本将生",
-      "猪俣周杜",
-      "篠塚大輝"
-    ],
-    "groups": [
-      "timelesz"
-    ],
-    "group": "timelesz",
-    "nearest_station": "東武日光駅",
-    "description": "タイムレスマン「日光街道！脱落旅SP」（2026年4月17日 フジテレビ）に登場した、東武日光駅近くのみやげ店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tochigi/A0904/A090402/9020965/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 289474,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      {
-        "name": "ワインらっきょう"
-      },
-      {
-        "name": "しいたけ"
-      }
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ"
   },
   {
     "id": "timelesz-de950d9e-20260522",
@@ -37580,8 +37698,8 @@
     "source_url": "https://datazoo.jp/n/%E4%BA%88%E7%B4%847%E5%B9%B4%E5%BE%85%E3%81%A1%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E7%A7%98%E5%86%85%E9%83%A8%E3%81%B8/25002106",
     "visited_date": "2026-05-22",
     "members": [
-      "菊池風磨",
       "佐藤勝利",
+      "菊池風磨",
       "松島聡",
       "寺西拓人",
       "原嘉孝",
@@ -37593,14 +37711,20 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「腹ペコ2択マン」（2026年5月22日 フジテレビ）で、ゲストのROLANDと2択クイズに挑んだ会員制の肉料理店。",
+    "description": "timeleszの冠番組『タイムレスマン』の「腹ペコ2択マン」第1弾（2026年5月22日）で、timeleszの8人がゲストのROLANDと2択クイズに挑んだ会員制の肉料理店。",
     "tags": [],
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 289474,
     "tmdb_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "with": [
+      "ROLAND"
+    ],
+    "qa_note": "第1弾の舞台が「完全会員制で予約7年待ちの肉懐石レストラン」であることは idol-portal.com/archives/890 で確認。店名クロッサムモリタは出典（datazoo、robots.txt で取得不可）でしか確かめられず。住所が根岸1丁目までで番地なし。要確認"
   },
   {
     "id": "timelesz-fadd6c91-20250927",
@@ -37628,7 +37752,7 @@
     ],
     "group": "timelesz",
     "nearest_station": "JR松阪駅から徒歩約10分",
-    "description": "タイムレスマン「東海道中！脱落旅」（2025年9月27日 フジテレビ）で、菊池風磨・橋本将生を除く6人が特製ステーキ丼を食べた松阪牛の店。",
+    "description": "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、菊池風磨・橋本将生を除く6人が番組用の特製ステーキ丼を食べた松阪牛の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/mie/A2401/A240102/24000603/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001027027/",
@@ -37641,7 +37765,9 @@
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/59/P020309259/P020309259_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/59/P020309259/P020309259_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン"
   },
   {
     "id": "naniwa-bonbonberry_atami_ho-20260327",
@@ -66404,7 +66530,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「アーユーハングリーマン」後編（2025年9月2日 フジテレビ）で橋本将生・篠塚大輝が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」完結編（2025年9月2日）で、橋本将生と篠塚大輝が外国人カップルと訪れ、カウンターで握りを食べた立ち食い寿司店。",
     "source_url": "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-location-food/",
     "source_type": "tv",
     "ordered_items": [
@@ -66412,7 +66538,10 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "番組公式Xで確認"
   },
   {
     "id": "timelesz-b0ae9656-20260626",
@@ -66439,7 +66568,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「腹ペコ2択マン」第2弾 ゲスト梅沢富美男（2026年6月26日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡・寺西拓人・原嘉孝・橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の「腹ペコ2択マン」第2弾（2026年6月26日）の舞台になった、グランド ハイアット 東京の中国料理店。8人がゲストの梅沢富美男と2択クイズに挑み、正解した北京ダックや小籠包を食べた。",
     "source_url": "https://idol-portal.com/archives/831",
     "source_type": "tv",
     "ordered_items": [
@@ -66449,7 +66578,12 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "with": [
+      "梅沢富美男"
+    ]
   },
   {
     "id": "timelesz-6d806cbf-20260814",
@@ -66476,7 +66610,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「腹ペコ2択マン」第3弾 ゲスト坂上忍（2026年8月14日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡・寺西拓人・原嘉孝・橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の「腹ペコ2択マン」第3弾（2026年8月14日）の舞台になった白金台のフレンチレストラン。8人がゲストの坂上忍と2択クイズに挑み、正解した前菜2品を食べた。",
     "source_url": "https://idol-portal.com/archives/890",
     "source_type": "tv",
     "ordered_items": [
@@ -66485,7 +66619,12 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "with": [
+      "坂上忍"
+    ]
   },
   {
     "id": "timelesz-b1cf986a-20260724",
@@ -66506,7 +66645,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で寺西拓人・原嘉孝が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「1000円差し入れマン」（2026年7月24日）で、寺西拓人と原嘉孝が松田元太への差し入れにまぐろやきを買った築地場外の今川焼き店。",
     "source_url": "https://idol-portal.com/archives/844",
     "source_type": "tv",
     "ordered_items": [
@@ -66514,7 +66653,10 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "差し入れを買いに店へ行った（店に行っていない差し入れとは違うので keep）。店で食べたかは不明"
   },
   {
     "id": "timelesz-a44d3976-20260724",
@@ -66536,12 +66678,14 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「1000円差し入れマン」（2026年7月24日）で、佐藤勝利・菊池風磨・松島聡が訪れ、コロッケとメンチカツを味見した浅草の弁当・惣菜店。",
     "source_url": "https://idol-portal.com/archives/844",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン"
   },
   {
     "id": "timelesz-34f1b72f-20260724",
@@ -66563,7 +66707,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で佐藤勝利・菊池風磨・松島聡が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「1000円差し入れマン」（2026年7月24日）で、佐藤勝利・菊池風磨・松島聡がポテトフライとウインナーフライを味見し、差し入れにメンチカツを買った入谷の精肉店。",
     "source_url": "https://idol-portal.com/archives/844",
     "source_type": "tv",
     "ordered_items": [
@@ -66572,7 +66716,10 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "精肉店だが揚げ物をその場で味見（食べ歩きに準じて keep）"
   },
   {
     "id": "timelesz-b3879ae3-20260724",
@@ -66594,12 +66741,15 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "タイムレスマン「1000円差し入れマン」（2026年7月24日 フジテレビ系）で橋本将生・猪俣周杜・篠塚大輝が訪れたお店。",
+    "description": "timeleszの冠番組『タイムレスマン』の企画「1000円差し入れマン」（2026年7月24日）で、橋本将生・猪俣周杜・篠塚大輝が訪れた、工場に併設された洋菓子の直売店。",
     "source_url": "https://idol-portal.com/archives/844",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg",
     "tmdb_id": 289474,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "タイムレスマン",
+    "qa_note": "出典では店を訪れて品ぞろえを見ただけで、買った物・食べた物の記載なし（差し入れリストにも入っていない）"
   },
   {
     "id": "timelesz-e8f00d91-20240919",
@@ -66619,12 +66769,15 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年9月19日 日本テレビ）で、timeleszの松島聡が訪れたもんじゃ焼き店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典が番組トップページだけで、この回の内容を確かめられなかった（検索でも見つからず）。2024年9月はtimelesz改名後。要確認"
   },
   {
     "id": "timelesz-974821d6-20240919",
@@ -66644,12 +66797,15 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年9月19日 日本テレビ）で、timeleszの松島聡が訪れた喫茶店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典が番組トップページだけで、この回の内容を確かめられなかった。要確認"
   },
   {
     "id": "timelesz-87e9f39a-20240919",
@@ -66669,14 +66825,17 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年9月19日 日本テレビ）で、timeleszの松島聡が訪れた鶏料理店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000243570/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/15/93/P022581593/P022581593_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/15/93/P022581593/P022581593_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典が番組トップページだけで、この回の内容を確かめられなかった。要確認"
   },
   {
     "id": "timelesz-9610d641-20240919",
@@ -66696,14 +66855,17 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「今行きたい1日乗車券の旅」谷中・上野・蔵前（2024年9月19日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年9月19日 日本テレビ）で、timeleszの松島聡が訪れた蔵前の海鮮丼店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003497544/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/53/49/P041215349/P041215349_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/53/49/P041215349/P041215349_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典が番組トップページだけで、この回の内容を確かめられなかった。要確認"
   },
   {
     "id": "timelesz-6b864d4d-20260728",
@@ -66723,12 +66885,19 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "description": "『ヒルナンデス！』の「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で、timeleszの原嘉孝がいとうあさこ・八乙女光と訪れた、軽井沢駅近くの喫茶店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "with": [
+      "いとうあさこ",
+      "八乙女光"
+    ],
+    "qa_note": "放送内容は報道（さきがけ・ORICON配信）と検索で確認。source_url は番組トップなので差し替え推奨"
   },
   {
     "id": "timelesz-466a6542-20260728",
@@ -66748,14 +66917,21 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "description": "『ヒルナンデス！』の「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で、50代の口コミで挙がり、timeleszの原嘉孝が取材交渉に挑んだそば店。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004510232/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/16/08/P049481608/P049481608_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/16/08/P049481608/P049481608_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "with": [
+      "いとうあさこ",
+      "八乙女光"
+    ],
+    "qa_note": "放送内容は報道で確認。source_url は番組トップなので差し替え推奨"
   },
   {
     "id": "timelesz-7d382f6a-20260728",
@@ -66775,13 +66951,20 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ヒルナンデス！「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で原嘉孝が訪れたお店。",
+    "description": "『ヒルナンデス！』の「全世代口コミコンプリート旅 in 軽井沢」（2026年7月28日 日本テレビ）で、timeleszの原嘉孝らがスイーツを求めて訪れたホテルインディゴ軽井沢のレストラン。",
     "source_url": "https://www.ntv.co.jp/hirunan/",
     "source_type": "tv",
     "location_unverified": true,
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "tmdb_id": 45931,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "with": [
+      "いとうあさこ",
+      "八乙女光"
+    ],
+    "qa_note": "検索で確かめられたのは「ホテルインディゴ軽井沢」のスイーツまで。店がKAGARIBIか（ホテル内の別のラウンジか）は未確認"
   },
   {
     "id": "timelesz-f7aa615f-20240526",
@@ -66801,7 +66984,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ニノさん』（2024年5月26日 日本テレビ）で、timeleszの松島聡がなすなかにしの中西茂樹と上野・湯島ロケで訪れ、箸で切れるヒレかつを紹介したとんかつ店。",
     "source_url": "https://www.activitv.com/entry/nino_240526_nasunaka/",
     "source_type": "tv",
     "ordered_items": [
@@ -66811,7 +66994,13 @@
     "tmdb_id": 82913,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000003373/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/24/P012536224/P012536224_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/24/P012536224/P012536224_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "with": [
+      "中西茂樹（なすなかにし）"
+    ],
+    "qa_note": "2024年5月（timelesz改名後）"
   },
   {
     "id": "timelesz-b536a232-20240526",
@@ -66831,7 +67020,7 @@
       "timelesz"
     ],
     "group": "timelesz",
-    "description": "ニノさん なすなかにし那須復帰祝いSP 中西＆松島聡 上野ロケ（2024年5月26日 日本テレビ）で松島聡が訪れたお店。",
+    "description": "『ニノさん』（2024年5月26日 日本テレビ）で、timeleszの松島聡がなすなかにしの中西茂樹と上野・湯島ロケで訪れ、小倉白玉あんみつを紹介した甘味処。",
     "source_url": "https://www.activitv.com/entry/nino_240526_ice-ogura/",
     "source_type": "tv",
     "ordered_items": [
@@ -66839,7 +67028,13 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
     "tmdb_id": 82913,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "with": [
+      "中西茂樹（なすなかにし）"
+    ],
+    "qa_note": "2024年5月（timelesz改名後）"
   },
   {
     "id": "nogizaka46-fab9169b-20230127",
