@@ -1,18 +1,7 @@
 ---
-layout: shop
-title: "日向坂46が行った「ル・ポミエ」"
-description: "日向坂で会いましょうで紹介されたスイーツ「ル・ポミエ」（東京都）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "hinatazaka46-29c56d66-"
-name: "ル・ポミエ"
-genre: "sweets"
-prefecture: "東京都"
-nearest_station: "麻布十番駅 徒歩6分"
-source_video_title: "日向坂で会いましょう"
-group: "hinatazaka46"
-tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13097610/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
-lat: 35.6528589687238
-lng: 139.7342804641204
-groups:
-  - "hinatazaka46"
+redirect_to: "/groups/hinatazaka46/"
+redirect_label: "日向坂46のお店のページ"
+sitemap: false
 ---
