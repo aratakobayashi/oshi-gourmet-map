@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "嵐が行った「CAFE & GRILL」"
-description: "嵐にしやがれで紹介されたカフェ「CAFE & GRILL」（東京都台東区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "arashi-cafe_grill-"
-name: "CAFE & GRILL"
-genre: "cafe"
-prefecture: "東京都"
-city: "台東区"
-nearest_station: "神保町駅 徒歩3分"
-source_video_title: "嵐にしやがれ"
-source_url: "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
-group: "arashi"
-tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13174478/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
-source_type: "tv"
-lat: 35.6975984
-lng: 139.759538
-groups:
-  - "arashi"
+redirect_to: "/shops/arashi-512-512-cafe-grill-20201219/"
+redirect_label: "512 カフェアンドグリル(512 CAFE & GRILL)のページ"
+sitemap: false
 ---
