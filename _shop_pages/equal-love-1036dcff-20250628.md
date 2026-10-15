@@ -1,19 +1,7 @@
 ---
-layout: shop
-title: "=LOVEが行った「ソルトウォート・ヴィンヤード」"
-description: "=LOVEのYouTubeで紹介された食事「ソルトウォート・ヴィンヤード」（千葉県匝瑳市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "equal_love-1036dcff-20250628"
-name: "ソルトウォート・ヴィンヤード"
-genre: "shokuji"
-prefecture: "千葉県"
-city: "匝瑳市"
-address: "千葉県匝瑳市吉崎６５６－１"
-visited_date: "2023-12-17"
-youtube_id: "cYFtNVKcXKc"
-source_video_title: "【=LOVE】衣装本の撮影に密着！裏側をたっぷりお見せします👗【メイキング】"
-group: "equal_love"
-lat: 35.673999
-lng: 140.611738
-groups:
-  - "equal_love"
+redirect_to: "/groups/equal-love/"
+redirect_label: "=LOVEのお店のページ"
+sitemap: false
 ---

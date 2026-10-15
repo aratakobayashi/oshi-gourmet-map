@@ -1,24 +1,7 @@
 ---
-layout: shop
-title: "=LOVEが行った「PLAYFUL FISHING」"
-description: "=LOVEのYouTubeで紹介された食事「PLAYFUL FISHING」（東京都大田区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "equal_love-playful_fishing-20240815"
-name: "PLAYFUL FISHING"
-genre: "shokuji"
-prefecture: "東京都"
-city: "大田区"
-address: "東京都大田区羽田旭町１１−１"
-visited_date: "2023-06-16"
-youtube_id: "dBQtXEDWXqw"
-source_video_title: "みんなで釣りに行ってきたよ🎣【イコラブ】"
-group: "equal_love"
-lat: 35.5538173
-lng: 139.7495806
-members:
-  - "大谷映美里"
-  - "佐々木舞香"
-  - "諸橋沙夏"
-  - "山本杏奈"
-groups:
-  - "equal_love"
+redirect_to: "/groups/equal-love/"
+redirect_label: "=LOVEのお店のページ"
+sitemap: false
 ---
