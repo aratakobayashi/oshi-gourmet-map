@@ -20413,14 +20413,16 @@
     "visited_date": "2015-11-14",
     "members": [
       "山田涼介",
-      "知念侑李"
+      "知念侑李",
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "渋谷駅 徒歩2分",
-    "description": "渋谷区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「食欲の秋！都内デカ盛りのお店で1番ハイカロパなお店を教えて！」（2015年11月14日・21日放送）で紹介されたデカ盛りの店。ナポリタン星人盛り全部のせが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13283525/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000797448/",
@@ -20428,7 +20430,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/07/38/P012300738/P012300738_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/07/38/P012300738/P012300738_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は山田・知念・有岡・八乙女（やまちねありひか）。どのメンバーがこの店に行ったかの内訳は出典になく、回の4人を入れた。元データは山田・知念のみ（ちばチャンは空）"
   },
   {
     "id": "heysayjump-6a7b44cb-20151114",
@@ -20442,18 +20447,26 @@
     "youtube_id": "",
     "source_video_title": "2015.11.14/11.21 大盛りグルメ特集",
     "visited_date": "2015-11-14",
-    "members": [],
+    "members": [
+      "山田涼介",
+      "知念侑李",
+      "有岡大貴",
+      "八乙女光"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "柏市旭町のレストラン。Hey! Say! JUMPが訪れたロケ地。2015.11.14/11.21 大盛りグルメ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「食欲の秋！都内デカ盛りのお店で1番ハイカロパなお店を教えて！」（2015年11月14日・21日放送）で紹介されたデカ盛りの店。若鶏のから揚げ大バカ盛りが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1201/A120102/12007098/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は山田・知念・有岡・八乙女（やまちねありひか）。どのメンバーがこの店に行ったかの内訳は出典になく、回の4人を入れた。元データは山田・知念のみ（ちばチャンは空）"
   },
   {
     "id": "heysayjump-tom_boy_2-20151114",
@@ -20469,20 +20482,25 @@
     "visited_date": "2015-11-14",
     "members": [
       "山田涼介",
-      "知念侑李"
+      "知念侑李",
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "豊島区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「食欲の秋！都内デカ盛りのお店で1番ハイカロパなお店を教えて！」（2015年11月14日・21日放送）で紹介されたデカ盛りの店。モーモーパフェが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13101662/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は山田・知念・有岡・八乙女（やまちねありひか）。どのメンバーがこの店に行ったかの内訳は出典になく、回の4人を入れた。元データは山田・知念のみ（ちばチャンは空）"
   },
   {
     "id": "heysayjump-36021fa8-20151114",
@@ -20498,21 +20516,26 @@
     "visited_date": "2015-11-14",
     "members": [
       "山田涼介",
-      "知念侑李"
+      "知念侑李",
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のレストラン。山田涼介・知念侑李が2015年11月に訪れた。2015.11.14/11.21 大盛りグルメ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「食欲の秋！都内デカ盛りのお店で1番ハイカロパなお店を教えて！」（2015年11月14日・21日放送）で紹介されたデカ盛りの店。ホイコーロー丼 特盛りが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131905/13062433/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は山田・知念・有岡・八乙女（やまちねありひか）。どのメンバーがこの店に行ったかの内訳は出典になく、回の4人を入れた。元データは山田・知念のみ（ちばチャンは空）"
   },
   {
     "id": "heysayjump-daigomi-20160303",
@@ -20536,14 +20559,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "池袋駅 徒歩1分",
-    "description": "豊島区のレストラン。有岡大貴・髙木雄也・八乙女光が2016年3月に訪れた。2016.03.03 体を温める食べ物実験",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「本当に体があったまる食材はどれ！？－10℃の冷凍車で徹底調査」（2016年3月3日放送）で、有岡大貴・髙木雄也・八乙女光がチーズフォンデュを試した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13273538/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。冷凍車での実験回のため、店で食べたか冷凍車に持ち込んだかは出典で確認できず"
   },
   {
     "id": "heysayjump-0286c585-20160303",
@@ -20567,14 +20593,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "西武新宿駅 徒歩4分",
-    "description": "新宿区のレストラン。有岡大貴・髙木雄也・八乙女光が2016年3月に訪れた。2016.03.03 体を温める食べ物実験",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「本当に体があったまる食材はどれ！？－10℃の冷凍車で徹底調査」（2016年3月3日放送）で、有岡大貴・髙木雄也・八乙女光が生姜しゃぶしゃぶを試した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13119785/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。冷凍車での実験回のため、店で食べたか冷凍車に持ち込んだかは出典で確認できず"
   },
   {
     "id": "heysayjump-hero_s-20160414",
@@ -20599,7 +20628,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "末広町駅 徒歩3分",
-    "description": "千代田区の焼肉店。有岡大貴・髙木雄也・八乙女光らが2016年4月に訪れた。いただきハイジャンプ 春の大盛りグルメに登場した焼肉店。有岡大貴・髙木雄也らが訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「春だから出会いたい ハイカロパデカ盛り！！」（2016年4月14日放送）で、有岡大貴・髙木雄也・八乙女光・岡本圭人が訪れたステーキ店。3ポンドチャックステーキが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13049711/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001066911/",
@@ -20607,7 +20636,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/07/28/P037450728/P037450728_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/07/28/P037450728/P037450728_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。岡本圭人は在籍中の回。どのメンバーがこの店に行ったかの内訳は出典にない"
   },
   {
     "id": "heysayjump-aad59291-20160414",
@@ -20632,14 +20664,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "国立駅 徒歩13分",
-    "description": "国立市の和食店。有岡大貴・髙木雄也・八乙女光らが2016年4月に訪れた。いただきハイジャンプ 春の大盛りグルメに登場した和食店。有岡大貴・髙木雄也らが訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「春だから出会いたい ハイカロパデカ盛り！！」（2016年4月14日放送）で、有岡大貴・髙木雄也・八乙女光・岡本圭人が訪れた和食店。かき揚げ丼が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1325/A132503/13043865/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。岡本圭人は在籍中の回。どのメンバーがこの店に行ったかの内訳は出典にない"
   },
   {
     "id": "heysayjump-sun_mi_emu-20160518",
@@ -20656,21 +20691,25 @@
     "members": [
       "薮宏太",
       "伊野尾慧",
-      "知念侑李"
+      "八乙女光",
+      "中島裕翔"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のレストラン。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「超高級店のランチはお得！？」（2016年5月18日放送）で、薮宏太・伊野尾慧・八乙女光・中島裕翔が高級店のランチを調べたレストラン。ビーフシチューのランチコースが登場した。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。出典は回の出演を「やぶいのひかゆと」と記載。元データの知念侑李は誤りとみて中島裕翔・八乙女光に直した。店ごとの内訳は出典にない"
   },
   {
     "id": "heysayjump-b2922bdd-20160518",
@@ -20687,14 +20726,15 @@
     "members": [
       "薮宏太",
       "伊野尾慧",
-      "知念侑李"
+      "八乙女光",
+      "中島裕翔"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "赤坂駅 徒歩1分",
-    "description": "東京都の寿司店。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「超高級店のランチはお得！？」（2016年5月18日放送）で、薮宏太・伊野尾慧・八乙女光・中島裕翔が高級店のランチを調べた寿司店。ランチのおまぜが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13320896/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000796674/",
@@ -20702,7 +20742,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/79/54/P029527954/P029527954_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/79/54/P029527954/P029527954_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。出典は回の出演を「やぶいのひかゆと」と記載。元データの知念侑李は誤りとみて中島裕翔・八乙女光に直した。店ごとの内訳は出典にない"
   },
   {
     "id": "heysayjump-a4fe57cb-20160518",
@@ -20719,21 +20762,25 @@
     "members": [
       "薮宏太",
       "伊野尾慧",
-      "知念侑李"
+      "八乙女光",
+      "中島裕翔"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区の和食店。薮宏太・伊野尾慧・知念侑李が2016年5月に訪れた。2016.05.18 高級レストランのランチ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「超高級店のランチはお得！？」（2016年5月18日放送）で、薮宏太・伊野尾慧・八乙女光・中島裕翔が高級店のランチを調べた和食店。黒毛和牛ハンバーグ御膳が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13039211/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。出典は回の出演を「やぶいのひかゆと」と記載。元データの知念侑李は誤りとみて中島裕翔・八乙女光に直した。店ごとの内訳は出典にない"
   },
   {
     "id": "heysayjump-e23d17b2-20160720",
@@ -20754,14 +20801,17 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "中央区の和食店。八乙女光が2016年7月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した和食店。八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）に大海老天丼が登場した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13092132/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（八乙女光中心のまとめ）。他の出演メンバーは出典に記載なし。メンバーが店に行ったか、スタジオ（超くい亭）で料理を食べただけかは確認できず。studioの可能性あり、要確認"
   },
   {
     "id": "heysayjump-blt-20160720",
@@ -20783,14 +20833,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "東銀座駅 徒歩2分",
-    "description": "中央区の焼肉店。八乙女光が2016年7月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した焼肉店。八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）にプレミアム・リブアイステーキが登場した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13181490/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（八乙女光中心のまとめ）。他の出演メンバーは出典に記載なし。メンバーが店に行ったか、スタジオ（超くい亭）で料理を食べただけかは確認できず。studioの可能性あり、要確認"
   },
   {
     "id": "heysayjump-1e541157-20160720",
@@ -20812,14 +20865,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のレストラン。八乙女光が2016年7月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）にフォワグラのせオムライスが登場した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13155422/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（八乙女光中心のまとめ）。他の出演メンバーは出典に記載なし。メンバーが店に行ったか、スタジオ（超くい亭）で料理を食べただけかは確認できず。studioの可能性あり、要確認"
   },
   {
     "id": "heysayjump-77cd10ec-20160720",
@@ -20841,14 +20897,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のレストラン。八乙女光が2016年7月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）にふかひれ姿煮御膳が登場した店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13282692/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（八乙女光中心のまとめ）。他の出演メンバーは出典に記載なし。メンバーが店に行ったか、スタジオ（超くい亭）で料理を食べただけかは確認できず。studioの可能性あり、要確認"
   },
   {
     "id": "heysayjump-96cbb03d-20161026",
@@ -20864,21 +20923,25 @@
     "visited_date": "2016-10-26",
     "members": [
       "髙木雄也",
-      "有岡大貴"
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "つくば市のラーメン店。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったラーメン店。石焼一兆らーめんが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ibaraki/A0802/A080201/8012185/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は「たかありひか」。元データに八乙女光が抜けていたので足した"
   },
   {
     "id": "heysayjump-new_new_york_club-20161026",
@@ -20894,21 +20957,25 @@
     "visited_date": "2016-10-26",
     "members": [
       "髙木雄也",
-      "有岡大貴"
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "緑が丘駅 徒歩1分",
-    "description": "目黒区のレストラン。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったベーグル店。レインボーカラーベーグル（テイクアウト）が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13209965/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は「たかありひか」。元データに八乙女光が抜けていたので足した"
   },
   {
     "id": "heysayjump-ca6f693e-20161026",
@@ -20924,21 +20991,25 @@
     "visited_date": "2016-10-26",
     "members": [
       "髙木雄也",
-      "有岡大貴"
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "三ツ沢下町駅 徒歩9分",
-    "description": "横浜市のラーメン店。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったおでん店。冷やしおでんが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140101/14013332/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は「たかありひか」。元データに八乙女光が抜けていたので足した"
   },
   {
     "id": "heysayjump-d26f3f7f-20161026",
@@ -20954,21 +21025,25 @@
     "visited_date": "2016-10-26",
     "members": [
       "髙木雄也",
-      "有岡大貴"
+      "有岡大貴",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "赤坂駅 徒歩1分",
-    "description": "東京都のラーメン店。髙木雄也・有岡大貴が2016年10月に訪れた。2016.10.26 秋のバスツアーおすすめグルメ",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったラーメン店。ラーキャベバリネギが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13222288/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。回の出演は「たかありひか」。元データに八乙女光が抜けていたので足した"
   },
   {
     "id": "heysayjump-bee-20170201",
@@ -20992,7 +21067,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "新宿区の居酒屋。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、髙木雄也・八乙女光・中島裕翔・知念侑李の回に登場したダイニングダーツバー。トランスヒマラヤサンデーが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13036299/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000011656/",
@@ -21000,7 +21075,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/29/P044034329/P044034329_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/29/P044034329/P044034329_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。店ごとのメンバーの内訳は出典にない"
   },
   {
     "id": "heysayjump-2bouze-20170201",
@@ -21025,7 +21103,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "京成船橋駅 徒歩18分",
-    "description": "船橋市のレストラン。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、髙木雄也・八乙女光・中島裕翔・知念侑李の回に登場した店。スーパーマンモスクレームブリュレが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1202/A120201/12022832/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
@@ -21033,7 +21111,10 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000821407/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/42/P016207642/P016207642_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/42/P016207642/P016207642_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。店ごとのメンバーの内訳は出典にない"
   },
   {
     "id": "heysayjump-dcaf8134-20170201",
@@ -21049,55 +21130,26 @@
     "visited_date": "2017-02-01",
     "members": [
       "髙木雄也",
-      "八乙女光",
-      "中島裕翔",
-      "知念侑李"
+      "有岡大貴",
+      "伊野尾慧",
+      "八乙女光"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "静岡駅 徒歩15分",
-    "description": "静岡市のスイーツショップ。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
+    "description": "Hey! Say! JUMPの冠番組で、2017年2月の「女子会で食べたいハイグラムスイーツ」に60cm鯛焼きがお取り寄せで登場し、2018年1月1日放送の「日本で発見！世界のそっくり絶景スポットSP」のロケ地一覧にも載っている鯛焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220101/22019641/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "heysayjump-69bd605c-20170201",
-    "name": "創作寿司工房 竜宮城",
-    "genre": "washoku",
-    "prefecture": "福岡県",
-    "city": "糟屋郡志免町",
-    "address": "福岡県糟屋郡志免町志免2-13-4",
-    "lat": 33.6050905,
-    "lng": 130.4486705,
-    "youtube_id": "",
-    "source_video_title": "2017.02.01/02.08 女子会向けスイーツ特集",
-    "visited_date": "2017-02-01",
-    "members": [
-      "髙木雄也",
-      "八乙女光",
-      "中島裕翔",
-      "知念侑李"
-    ],
-    "groups": [
-      "heysayjump"
-    ],
-    "group": "heysayjump",
-    "nearest_station": "福岡空港駅 徒歩14分",
-    "description": "糟屋郡志免町の寿司店。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/fukuoka/A4003/A400303/40020689/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。2017年回は【お取り寄せ】の見出しの下（店には行っていない）。2018.01.01（たかありいのひか）の回にも同じ店・同じ品が並ぶが、立ち寄ったかは本文に記載なし。取り寄せだけならremove。要確認。visited_dateは2017-02-01のまま"
   },
   {
     "id": "heysayjump-747256d6-20170201",
@@ -21122,13 +21174,16 @@
     ],
     "group": "heysayjump",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のカフェ。髙木雄也・八乙女光・中島裕翔らが2017年2月に訪れた。2017.02.01/02.08 女子会向けスイーツ特集",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、ハニートーストが登場したカラオケ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13033139/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。出典では【お取り寄せ】の見出しの下（丸子峠鯛焼き屋・竜宮城と同じ並び）にあり、店に行ったかは不明。お取り寄せならremove。要確認。飲食店というよりカラオケ店"
   },
   {
     "id": "heysayjump-471bb502-20180101",
@@ -21153,14 +21208,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "賀茂郡西伊豆町の和食店。髙木雄也・有岡大貴・伊野尾慧らが2018年1月に訪れた。2018.01.01 世界の絶景そっくり旅",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「日本で発見！世界のそっくり絶景スポットSP」（2018年1月1日放送）で、髙木雄也・有岡大貴・伊野尾慧・八乙女光の回に登場した食堂。塩カツオ茶漬け定食が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220505/22026031/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
   },
   {
     "id": "heysayjump-448a0ff6-20180825",
@@ -21184,7 +21242,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "木更津駅 徒歩8分",
-    "description": "木更津市の和食店。髙木雄也・八乙女光・有岡大貴が2018年8月に訪れた。2018.08.25/09.01 日帰りサイクリング千葉房総",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「日帰りで楽しめる！○○たてサイクリングin千葉・房総半島」（2018年8月25日・9月1日放送）で、髙木雄也・八乙女光・有岡大貴が立ち寄った海鮮の店。アジの塩焼き・サザエ・はまぐり・伊勢海老のお造りが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1206/A120602/12000900/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000247819/",
@@ -21192,7 +21250,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/50/P017013750/P017013750_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/50/P017013750/P017013750_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
   },
   {
     "id": "heysayjump-25f1ec3d-20180908",
@@ -21215,14 +21276,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "向原駅 徒歩6分",
-    "description": "豊島区の和食店。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した和食店。山田涼介・八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「潜入！グルメ刑事 謎多き店を徹底捜査！！」（2018年9月8日放送）で、山田涼介・八乙女光が捜査したうなぎ店。金曜日だけのカレーが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13037960/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（回の出演は「やまひか」）"
   },
   {
     "id": "heysayjump-d5f50b8f-20180908",
@@ -21245,14 +21309,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "亀戸駅 徒歩1分",
-    "description": "江東区のレストラン。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「潜入！グルメ刑事 謎多き店を徹底捜査！！」（2018年9月8日放送）で、山田涼介・八乙女光が捜査した餃子店。焼き餃子が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131202/13003078/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（回の出演は「やまひか」）"
   },
   {
     "id": "heysayjump-e83e8430-20180908",
@@ -21275,14 +21342,17 @@
     ],
     "group": "heysayjump",
     "nearest_station": "白金高輪駅 徒歩10分",
-    "description": "東京都のレストラン。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「潜入！グルメ刑事 謎多き店を徹底捜査！！」（2018年9月8日放送）で、山田涼介・八乙女光が捜査したひき肉料理の店。ひき肉ライスが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13257806/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（回の出演は「やまひか」）"
   },
   {
     "id": "heysayjump-078efd60-20180908",
@@ -21305,13 +21375,16 @@
     ],
     "group": "heysayjump",
     "nearest_station": "天王洲アイル駅 徒歩13分",
-    "description": "東京都のレストラン。山田涼介・八乙女光が2018年9月に訪れた。いただきハイジャンプ グルメ探偵調査に登場した飲食店。山田涼介・八乙女光が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「潜入！グルメ刑事 謎多き店を徹底捜査！！」（2018年9月8日放送）で、山田涼介・八乙女光が捜査した定食店。激辛牛すじ煮込み定食が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13027173/",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "source_type": "tv",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437（回の出演は「やまひか」）"
   },
   {
     "id": "heysayjump-14cb2470-20181110",
@@ -21334,7 +21407,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したスイーツ店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄ったせんべい店。フライせんべいが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11029624/",
     "hotpepper_url": "",
@@ -21342,7 +21415,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-1b4619c1-20181110",
@@ -21365,7 +21441,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したスイーツ店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄った飴の店。純黒飴が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11024414/",
     "hotpepper_url": "",
@@ -21373,7 +21449,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-fa5e2437-20181110",
@@ -21396,7 +21475,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場した飲食店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄った和菓子店。和菓子の山茶花・唐錦が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11027752/",
     "hotpepper_url": "",
@@ -21404,7 +21483,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-103aefa3-20181110",
@@ -21427,7 +21509,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場した飲食店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った団子店。焼きだんごが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11020315/",
     "hotpepper_url": "",
@@ -21435,7 +21517,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-86cc2d7d-20181110",
@@ -21458,7 +21543,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のグルメスポット。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った漬物店。大福神漬が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11025164/",
     "hotpepper_url": "",
@@ -21466,7 +21551,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。物販中心の店だが食べ物を買って食べ歩き→keep"
   },
   {
     "id": "heysayjump-b9c7e0f2-20181110",
@@ -21489,7 +21577,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したスイーツ店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った和菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11005847/",
     "hotpepper_url": "",
@@ -21497,7 +21585,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。食べた物は出典に記載なし"
   },
   {
     "id": "heysayjump-300a1c2c-20181110",
@@ -21520,7 +21611,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したスイーツ店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄ったせんべい・駄菓子の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11025288/",
     "hotpepper_url": "",
@@ -21528,7 +21619,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。食べた物は出典に記載なし。業種はせんべい・駄菓子の店とみられる"
   },
   {
     "id": "heysayjump-eea6c892-20181110",
@@ -21551,7 +21645,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のグルメスポット。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集に登場したお店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った醤油店。川越醤油プリンが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11038254/",
     "hotpepper_url": "",
@@ -21559,7 +21653,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。物販中心の店だが食べ物を買って食べ歩き→keep"
   },
   {
     "id": "heysayjump-0b963b6e-20181124",
@@ -21582,7 +21679,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄った食事処。小江戸ぉむ・焼きそばが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11020258/",
     "hotpepper_url": "",
@@ -21590,7 +21687,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-243a0b6a-20181124",
@@ -21613,7 +21713,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のグルメスポット。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場したお店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄った店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11044505/",
     "hotpepper_url": "",
@@ -21621,7 +21721,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。食べた物は出典で「団子？」と不確か。業種は醤油関連の店とみられるが未確認"
   },
   {
     "id": "heysayjump-6760425c-20181124",
@@ -21644,7 +21747,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場したスイーツ店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄ったせんべい店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11029625/",
     "hotpepper_url": "",
@@ -21652,7 +21755,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。食べた物は出典で「いもせんべい？」と不確か"
   },
   {
     "id": "heysayjump-20173f2d-20181124",
@@ -21675,7 +21781,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。伊野尾慧・髙木雄也が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。伊野尾慧・髙木雄也が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、伊野尾慧・髙木雄也が食べ歩きで立ち寄った中華料理店。紫いも餃子が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11000929/",
     "hotpepper_url": "",
@@ -21683,7 +21789,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-e8d40d3c-20181124",
@@ -21706,7 +21815,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った豆腐・おからの店。おからドーナツが登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11003518/",
     "hotpepper_url": "",
@@ -21714,7 +21823,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "heysayjump-e371a87e-20181124",
@@ -21736,7 +21848,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った和菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11019660/",
     "hotpepper_url": "",
@@ -21745,7 +21857,10 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "closed": true,
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。食べた物は出典に記載なし。shops.jsonでclosed=true"
   },
   {
     "id": "heysayjump-cocoro-20181124",
@@ -21768,7 +21883,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のレストラン。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場した飲食店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11040808/",
     "hotpepper_url": "",
@@ -21776,7 +21891,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）。業種・食べた物は出典に記載なし"
   },
   {
     "id": "heysayjump-986f7fa5-20181124",
@@ -21799,7 +21917,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "川越市のスイーツショップ。薮宏太・山田涼介が2018年11月に訪れた。いただきハイジャンプ 川越特集後編に登場したスイーツ店。薮宏太・山田涼介が訪問。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った麩菓子の店。巨大麩菓子 焼き芋味が登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11032418/",
     "hotpepper_url": "",
@@ -21807,7 +21925,10 @@
     "source_type": "tv",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "location_unverified": true
+    "location_unverified": true,
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump（川越回）"
   },
   {
     "id": "snowman-64-20250421",
@@ -22019,12 +22140,16 @@
     "source_video_title": "2016.03.03",
     "source_video_url": "",
     "visited_date": "2016-03-03",
-    "members": [],
+    "members": [
+      "有岡大貴",
+      "髙木雄也",
+      "八乙女光"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都のレストラン。Hey! Say! JUMPが訪れたロケ地。いただきハイジャンプ・HeySayJUMPが楽しめる。Hey! Say! JUMP（いただきハイジャンプ）が訪れた渋谷の飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「本当に体があったまる食材はどれ！？－10℃の冷凍車で徹底調査」（2016年3月3日放送）で、有岡大貴・髙木雄也・八乙女光がスーパーハバネロチキン レベルMAXを試した店。",
     "nearest_station": "渋谷駅 徒歩3分",
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -22032,7 +22157,10 @@
     "tags": [
       "いただきハイジャンプ",
       "HeySayJUMP"
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。冷凍車での実験回のため、店で食べたか冷凍車に持ち込んだかは出典で確認できず。元データはmembersが空・visited_dateが2016-03-03"
   },
   {
     "id": "shiori-fireking_cafe-20240316",
@@ -53580,7 +53708,7 @@
   },
   {
     "id": "heysayjump-a39d8572-",
-    "name": "原っぱ八分目",
+    "name": "腹八分目 渋谷道玄坂店",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "渋谷区",
@@ -53600,7 +53728,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧・知念侑李らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「からあげブラックジャック」（2019年7月6日放送、伊野尾&知念vs髙木&八乙女）で、伊野尾慧・知念侑李が2軒目に訪れた唐揚げの店。どデカ唐揚げを注文した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13130057/",
     "hotpepper_url": "",
@@ -53608,7 +53736,10 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典の店名表記は「腹八分目 渋谷道玄坂店」で、データの「原っぱ八分目」と食い違う。要確認。visited_dateが空（放送2019-07-06）"
   },
   {
     "id": "heysayjump-ec693043-",
@@ -53624,15 +53755,15 @@
     "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
     "visited_date": "",
     "members": [
-      "髙木雄也",
-      "八乙女光"
+      "伊野尾慧",
+      "知念侑李"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "東京都の食事。Hey! Say! JUMPの髙木雄也・八乙女光らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「からあげブラックジャック」（2019年7月6日放送、伊野尾&知念vs髙木&八乙女）で、伊野尾慧・知念侑李が3軒目に訪れた唐揚げ店。骨なしももを注文した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131702/13094005/",
     "hotpepper_url": "",
@@ -53640,11 +53771,14 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典は伊野尾&知念の4軒を記載（髙木&八乙女の行き先は記載なし）ので、元データの髙木・八乙女を伊野尾・知念に直した。出典の店名は「元祖中津からあげ もり山 学芸大学店」（データは「中洲唐揚もりやま」で表記ゆれ）。visited_dateが空（放送2019-07-06）"
   },
   {
     "id": "heysayjump-ceef2a90-",
-    "name": "鶏たつ",
+    "name": "とり多津",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "港区",
@@ -53656,15 +53790,15 @@
     "source_url": "https://medax.hatenablog.com/entry/hijump/190707",
     "visited_date": "",
     "members": [
-      "髙木雄也",
-      "八乙女光"
+      "伊野尾慧",
+      "知念侑李"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "田町駅 徒歩9分",
-    "description": "東京都の食事。Hey! Say! JUMPの髙木雄也・八乙女光らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「からあげブラックジャック」（2019年7月6日放送、伊野尾&知念vs髙木&八乙女）で、伊野尾慧・知念侑李が4軒目に訪れた唐揚げの店。選り取りからあげを注文した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131402/13149100/",
     "hotpepper_url": "",
@@ -53672,7 +53806,10 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。元データの髙木・八乙女を伊野尾・知念に直した（出典は伊野尾&知念の4軒目として記載）。出典の店名は「とり多津（三田）」でデータの「鶏たつ」と表記ゆれ。visited_dateが空（放送2019-07-06）"
   },
   {
     "id": "heysayjump-bwcafe-",
@@ -53695,7 +53832,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "西早稲田駅 徒歩8分",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れたそばカフェ。ソルティトマトのフローズンつけsobaと蕎麦茶ミルクの冷やしフルーツ鍋を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1327/A132701/13136479/",
     "hotpepper_url": "",
@@ -53703,7 +53840,10 @@
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/08/27/205542。一緒にロケした出演者は出典に記載なし。visited_dateが空（放送2018-08-14）"
   },
   {
     "id": "heysayjump-tak_cafe-",
@@ -53725,7 +53865,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れたカフェ。トッポギチーズプルコギブレッドとチーズハラミパンケーキを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13163113/",
     "hotpepper_url": "",
@@ -53733,7 +53873,10 @@
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/08/27/205542。一緒にロケした出演者は出典に記載なし。visited_dateが空（放送2018-08-14）"
   },
   {
     "id": "heysayjump-snowy_village-",
@@ -53756,7 +53899,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れたかき氷カフェ。スイカビンスとパインビンスを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13232859/",
     "hotpepper_url": "",
@@ -53764,7 +53907,10 @@
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/08/27/205542。一緒にロケした出演者は出典に記載なし。visited_dateが空（放送2018-08-14）"
   },
   {
     "id": "heysayjump-b9d2eaed-",
@@ -53787,7 +53933,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れた韓国料理店。レインボータッカルビを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13135397/",
     "hotpepper_url": "",
@@ -53795,7 +53941,10 @@
     "tmdb_id": 45931,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/08/27/205542。一緒にロケした出演者は出典に記載なし。visited_dateが空（放送2018-08-14）"
   },
   {
     "id": "heysayjump-good_luck_curry-",
@@ -53817,14 +53966,20 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『メレンゲの気持ち』（2017年7月29日放送）で、長野博のおすすめの旨辛グルメのロケで訪れたカレー店。エビカレーのカレーパンを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13209474/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "with": [
+      "長野博"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）"
   },
   {
     "id": "heysayjump-5f35bf24-",
@@ -53847,14 +54002,20 @@
     ],
     "group": "heysayjump",
     "nearest_station": "大門駅 徒歩2分",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『メレンゲの気持ち』（2017年7月29日放送）で、長野博のおすすめの旨辛グルメのロケで訪れた中華料理店。牛肉飯を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13013153/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "with": [
+      "長野博"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）"
   },
   {
     "id": "heysayjump-0c6ac448-",
@@ -53876,14 +54037,20 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『メレンゲの気持ち』（2017年7月29日放送）で、長野博のおすすめの旨辛グルメのロケで訪れた中華料理店。四川特製辛味噌の海鮮麺を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13007822/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "with": [
+      "長野博"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）"
   },
   {
     "id": "heysayjump-b35ba790-",
@@ -53906,14 +54073,18 @@
     ],
     "group": "heysayjump",
     "nearest_station": "新宿三丁目駅 徒歩1分",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『メレンゲの気持ち』（2017年7月29日放送）のスタジオで、林家たい平のおすすめとしてとん丼が出され、Hey! Say! JUMPの伊野尾慧が食べたとんかつ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13000860/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "studio_only": true,
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。studio（スタジオに料理が出ただけで、店には行っていない）。studio_only: true にする。visited_dateが空"
   },
   {
     "id": "heysayjump-57062058-",
@@ -53935,14 +54106,18 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都のラーメン。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『メレンゲの気持ち』（2017年7月29日放送）のスタジオで、長野博のおすすめとして鬼ひも川が出され、Hey! Say! JUMPの伊野尾慧が食べたうどん店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13200630/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "studio_only": true,
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。studio（スタジオに料理が出ただけで、店には行っていない）。studio_only: true にする。visited_dateが空"
   },
   {
     "id": "heysayjump-cafe-",
@@ -53965,14 +54140,18 @@
     ],
     "group": "heysayjump",
     "nearest_station": "湯島駅 徒歩3分",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『メレンゲの気持ち』（2017年7月29日放送）のスタジオで、林家たい平のおすすめとして水飯が出され、Hey! Say! JUMPの伊野尾慧が食べたカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13184732/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "studio_only": true,
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。studio（スタジオに料理が出ただけで、店には行っていない）。studio_only: true にする。visited_dateが空"
   },
   {
     "id": "heysayjump-7b3cff12-",
@@ -53995,18 +54174,22 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『メレンゲの気持ち』（2017年7月29日放送）のスタジオで、ギャル曽根のおすすめとしてフツウニフルウツが出され、Hey! Say! JUMPの伊野尾慧が食べたフルーツサンドの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13246670/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "メレンゲの気持ち",
+    "studio_only": true,
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。studio（スタジオに料理が出ただけで、店には行っていない）。studio_only: true にする。visited_dateが空"
   },
   {
     "id": "heysayjump-58cf69d2-",
-    "name": "悪酔り大官 なべのしん",
+    "name": "あくとり代官 鍋之進",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "渋谷区",
@@ -54025,7 +54208,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "渋谷駅 徒歩10分",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『めざましテレビ』の「イノ調」（2017年12月7日放送）で、Hey! Say! JUMPの伊野尾慧の調査コーナーに登場した鍋料理店。うにく鍋とフルーツサングリア鍋が紹介された。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -54033,7 +54216,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20171207。出典の店名表記は「あくとり代官 鍋之進（渋谷）」。データの「悪酔り大官 なべのしん」は誤記とみられる。要確認。出典は店と料理の一覧だけで、伊野尾が店で食べた描写はない（イノ調は伊野尾のロケ企画）。visited_dateが空"
   },
   {
     "id": "heysayjump-c9cb4f1d-",
@@ -54055,7 +54241,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『めざましテレビ』の「イノ調」（2017年12月7日放送）で、Hey! Say! JUMPの伊野尾慧の調査コーナーに登場した鍋料理店。チーズ鍋や牛肉の豪華鍋が紹介された。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13017715/",
     "hotpepper_url": "",
@@ -54063,11 +54249,14 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20171207。出典の店名表記は「九州黒太鼓（池袋）」。出典は店と料理の一覧だけで、伊野尾が店で食べた描写はない（イノ調は伊野尾のロケ企画）。visited_dateが空"
   },
   {
     "id": "heysayjump-f83ecf9a-",
-    "name": "七色手毬唄",
+    "name": "七色てまりうた",
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "新宿区",
@@ -54086,7 +54275,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "新宿三丁目駅 徒歩5分",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "『めざましテレビ』の「イノ調」（2017年12月7日放送）で、Hey! Say! JUMPの伊野尾慧の調査コーナーに登場した鍋料理店。15種緑黄色野菜とローストチキンの雪山鍋が紹介された。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13022043/",
     "hotpepper_url": "",
@@ -54094,7 +54283,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20171207。出典の店名表記は「七色てまりうた（新宿）」。出典は店と料理の一覧だけで、伊野尾が店で食べた描写はない（イノ調は伊野尾のロケ企画）。visited_dateが空"
   },
   {
     "id": "heysayjump-8456dd80-",
@@ -54110,14 +54302,15 @@
     "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
     "visited_date": "",
     "members": [
-      "伊野尾慧"
+      "伊野尾慧",
+      "山田涼介"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "大磯駅 徒歩17分",
-    "description": "神奈川県のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の伊豆箱根バイクツーリングロケ（2018年6月30日・7月7日放送）で、一緒にツーリングしたおとうさんのパン店。伊野尾慧・山田涼介がさつま揚げ入りの揚げパン「イノウエ」を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140408/14072447/",
     "hotpepper_url": "",
@@ -54125,7 +54318,13 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "with": [
+      "レイザーラモンRG"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/07/07/120000。元データは伊野尾のみ。山田涼介を足した。visited_dateが空"
   },
   {
     "id": "heysayjump-e3968f82-",
@@ -54141,14 +54340,15 @@
     "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
     "visited_date": "",
     "members": [
-      "伊野尾慧"
+      "伊野尾慧",
+      "山田涼介"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "出山信号場駅 徒歩19分",
-    "description": "神奈川県のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の伊豆箱根バイクツーリングロケ（2018年6月30日・7月7日放送）で、伊野尾慧・山田涼介がラクレットチーズトーストを食べたパン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14004864/",
     "hotpepper_url": "",
@@ -54156,7 +54356,13 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "with": [
+      "レイザーラモンRG"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/07/07/120000。元データは伊野尾のみ。visited_dateが空"
   },
   {
     "id": "heysayjump-327a7b7e-",
@@ -54172,14 +54378,15 @@
     "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
     "visited_date": "",
     "members": [
-      "伊野尾慧"
+      "伊野尾慧",
+      "山田涼介"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "静岡県の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の伊豆箱根バイクツーリングロケ（2018年6月30日・7月7日放送）で、伊野尾慧・山田涼介が干物を試食した干物店。アブラボウズやトロさばのみりんなどを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22021371/",
     "hotpepper_url": "",
@@ -54187,7 +54394,13 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "with": [
+      "レイザーラモンRG"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/07/07/120000。干物店だが店で試食（白飯も）→keep。visited_dateが空"
   },
   {
     "id": "heysayjump-1ad96303-",
@@ -54203,6 +54416,7 @@
     "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
     "visited_date": "",
     "members": [
+      "山田涼介",
       "伊野尾慧"
     ],
     "groups": [
@@ -54210,7 +54424,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "静岡県の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の伊豆箱根バイクツーリングロケ（2018年6月30日・7月7日放送）で立ち寄った店。山田涼介が漁師の漬けどんぶりを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22003088/",
     "hotpepper_url": "",
@@ -54218,7 +54432,13 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "with": [
+      "レイザーラモンRG"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/07/07/120000。伊野尾慧は同行したが、干物店で白飯を食べたためこの店では食事させてもらえなかったと出典にある。visited_dateが空"
   },
   {
     "id": "heysayjump-33e9989a-",
@@ -54234,14 +54454,15 @@
     "source_url": "https://medax.hatenablog.com/entry/2018/07/07/120000",
     "visited_date": "",
     "members": [
-      "伊野尾慧"
+      "伊野尾慧",
+      "山田涼介"
     ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "nearest_station": "",
-    "description": "静岡県の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の伊豆箱根バイクツーリングロケ（2018年6月30日・7月7日放送）で、温泉として名前が挙がった熱海市網代の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22000016/",
     "hotpepper_url": "",
@@ -54249,7 +54470,13 @@
     "tmdb_id": 197002,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "with": [
+      "レイザーラモンRG"
+    ],
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/07/07/120000。出典では「温泉」の見出しの下（URLはajiroonsen.com）にあり、食事をしたかは記載なし。温泉（入浴）だけなら飲食店として載せないのでremove候補。要確認"
   },
   {
     "id": "heysayjump-7cd20f9d-",
@@ -54271,7 +54498,7 @@
       "heysayjump"
     ],
     "group": "heysayjump",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『めざましテレビ』の「イノ調」（2017年5月25日放送）で訪れたもやし料理の店。もやしのキッシュや大鰐温泉もやし炒めを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13030989/",
     "hotpepper_url": "",
@@ -54279,7 +54506,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空"
   },
   {
     "id": "heysayjump-all_about_my_croquet-",
@@ -54302,7 +54532,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "松陰神社前駅 徒歩7分",
-    "description": "東京都の食事。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『めざましテレビ』の「イノ調」（2017年5月25日放送）で訪れたコロッケ専門店。ビーツ＆クリームチーズのコロッケを食べた。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -54310,7 +54540,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空"
   },
   {
     "id": "heysayjump-mushroom_tokyo-",
@@ -54333,7 +54566,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "渋谷駅 徒歩10分",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『めざましテレビ』の「イノ調」（2017年5月25日放送）で訪れたマッシュルーム料理の店。生マッシュルームのサラダやGIGAマッシュルームのまるごとステーキを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13166680/",
     "hotpepper_url": "",
@@ -54341,7 +54574,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空"
   },
   {
     "id": "heysayjump-tsumugi-",
@@ -54364,7 +54600,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "築地市場駅 徒歩6分",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『めざましテレビ』の「イノ調」（2018年10月4日放送）で訪れた築地本願寺のカフェ。18品の朝ごはんとほうじ茶ゼリーソフトを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13215158/",
     "hotpepper_url": "",
@@ -54372,7 +54608,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/10/04/084807。visited_dateが空"
   },
   {
     "id": "heysayjump-b6634ea5-",
@@ -54395,7 +54634,7 @@
     ],
     "group": "heysayjump",
     "nearest_station": "代官山駅 徒歩1分",
-    "description": "東京都のカフェ。Hey! Say! JUMPの伊野尾慧らが訪れた飲食店。",
+    "description": "Hey! Say! JUMPの伊野尾慧が『めざましテレビ』の「イノ調」（2018年10月4日放送）で訪れた代官山の寺カフェ。ブッダボウルを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13215158/",
     "hotpepper_url": "",
@@ -54403,7 +54642,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "出典: medax.hatenablog.com/entry/2018/10/04/084807。出典の店名は「寺カフェ代官山」。visited_dateが空"
   },
   {
     "id": "west-mr_friendly_cafe-",
@@ -60678,14 +60920,19 @@
     "source_video_title": "Hey!Say!JUMP ロケ地",
     "source_url": "https://vitamin-day.com/11511/",
     "visited_date": "2024-01-01",
-    "members": [],
+    "members": [
+      "中島裕翔"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13201844/",
-    "description": "食べログハンバーガー百名店選出。ドラマSUITS等にも登場したアメリカンダイナー。Hey!Say!JUMPロケ地。"
+    "description": "Hey! Say! JUMPの中島裕翔が出演したドラマ『SUITS/スーツ』で、第4話のクイズ大会の場面に使われたカフェ。",
+    "visit_kind": "drama",
+    "program": "SUITS/スーツ",
+    "qa_note": "出典: vitamin-day.com/11511/。出典は中島の名前を見出しに出すが、その場面に中島が出ているかは本文で確かめられない。要確認。visited_date 2024-01-01は仮の値。descriptionの食べログ百名店などの評判は削除"
   },
   {
     "id": "069d6a42",
@@ -60699,17 +60946,23 @@
     "source_video_title": "いただきハイジャンプ（Hey!Say!JUMP）",
     "source_url": "https://vitamin-day.com/11511/",
     "visited_date": "2024-01-01",
-    "members": [],
+    "members": [
+      "八乙女光",
+      "中島裕翔"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13006478/",
-    "description": "1576年創業の老舗和菓子店。虎家喜（とらやき）が名物。Hey!Say!JUMPのいただきハイジャンプロケ地。",
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「街を発掘！隠れた名店探し対決」で、八乙女光・中島裕翔が訪れた和菓子店。八乙女光が虎家㐂（とらやき）を食べた。",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "tmdb_id": 197002,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: vitamin-day.com/11511/。放送日は出典に記載なし（visited_date 2024-01-01は仮の値）"
   },
   {
     "id": "dc3a86f8",
@@ -60723,16 +60976,22 @@
     "source_video_title": "Hey!Say!JUMP ロケ地",
     "source_url": "https://vitamin-day.com/11511/",
     "visited_date": "2024-01-01",
-    "members": [],
+    "members": [
+      "山田涼介",
+      "中島裕翔"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13174478/",
-    "description": "Hey!Say!JUMPロケ地の赤坂のカフェ&グリル。ふわふわパンケーキとイタリアンが人気。",
+    "description": "Hey! Say! JUMPの山田涼介が出演した『もみ消して冬』、中島裕翔が出演した『デート～恋とはどんなものかしら～』『しずかちゃんとパパ』のロケ地として紹介されたカフェ&グリル。",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000796565/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/35/61/P034793561/P034793561_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/35/61/P034793561/P034793561_238.jpg",
+    "visit_kind": "drama",
+    "program": "もみ消して冬 / デート～恋とはどんなものかしら～ / しずかちゃんとパパ",
+    "qa_note": "出典: vitamin-day.com/11511/。どのドラマのどの場面に山田・中島が出ているかは出典で確かめられない。要確認。出典の住所は赤坂9-5-2（データは9-5-12）。visited_date 2024-01-01は仮の値"
   },
   {
     "id": "6a73cac3",
@@ -60746,14 +61005,21 @@
     "source_video_title": "Hey!Say!JUMP ロケ地",
     "source_url": "https://vitamin-day.com/11511/",
     "visited_date": "2024-01-01",
-    "members": [],
+    "members": [
+      "薮宏太",
+      "髙木雄也",
+      "岡本圭人"
+    ],
     "groups": [
       "heysayjump"
     ],
     "group": "heysayjump",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1324/A132402/13033094/",
-    "description": "食べログハンバーガー百名店。北千住の国産牛100%ハンバーガーの名店。Hey!Say!JUMPロケ地。"
+    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「北千住グルメバーガーを全店舗制覇」で、薮宏太・髙木雄也・岡本圭人が訪れたハンバーガー店。薮宏太が1リットルのコーラを飲み干した。",
+    "visit_kind": "own_tv",
+    "program": "いただきハイジャンプ",
+    "qa_note": "出典: vitamin-day.com/11511/。岡本圭人は在籍中の回。放送日は出典に記載なし（visited_date 2024-01-01は仮の値）。descriptionの百名店などの評判は削除"
   },
   {
     "id": "42097406",
