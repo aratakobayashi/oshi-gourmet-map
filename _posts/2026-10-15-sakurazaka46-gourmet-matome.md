@@ -86,7 +86,7 @@ courses:
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src2">{% include chico.html kind="yt" %}<span>公式YouTube「櫻坂チャンネル」<small>18軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』<small>1軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で紹介したお店<small>11軒</small></span></a></div>
+<div class="cnav__list"><a href="#src2">{% include chico.html kind="yt" %}<span>公式YouTube「櫻坂チャンネル」<small>18軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で行ったお店<small>1軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で紹介したお店<small>11軒</small></span></a></div>
 </div>
 {% include matome-members.html group="sakurazaka46" %}
 
@@ -174,7 +174,7 @@ courses:
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：ラーメン9軒、その他8軒、和食6軒、食事2軒、焼肉2軒、カフェ2軒、スイーツ1軒。東京都11軒、福岡県4軒、北海道・大阪府・愛知県が2軒ずつ、静岡県・滋賀県・京都府・兵庫県・佐賀県・鹿児島県・神奈川県・香川県・広島県が1軒ずつ" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の30軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：ラーメン10軒、その他7軒、和食5軒、カフェ3軒、焼肉2軒、食事2軒、スイーツ1軒。東京都11軒、福岡県4軒、北海道・大阪府・愛知県が2軒ずつ、静岡県・滋賀県・京都府・兵庫県・佐賀県・鹿児島県・神奈川県・香川県・広島県が1軒ずつ" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の30軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>櫻坂46の公式YouTubeチャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -186,8 +186,8 @@ courses:
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/map.svg" alt="櫻坂46が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
-<p>番組で紹介しただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/map.svg" alt="櫻坂46の東京のお店（番組で紹介したお店を含む）を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<p>地図には番組で紹介したお店も点で入っていますが、下の一覧には入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>駒場・下北沢・三軒茶屋</strong>：「日本ラーメン旅」第1弾の千里眼（目黒区駒場）、土生瑞穂のVlogのCurry Spice Gelateria KALPASI（世田谷区北沢）、石森璃花・中嶋優月の三軒茶屋の散歩の回のお店。</li>
   <li><strong>浅草・不動前</strong>：村山美羽の一人焼肉の2軒。第1弾が浅草 炭火焼肉 本とさや（台東区西浅草）、第2弾が焼肉しみず（品川区西五反田）。</li>
