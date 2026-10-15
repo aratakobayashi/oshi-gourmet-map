@@ -6515,7 +6515,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "銀座一丁目駅 徒歩1分",
-    "description": "中央区の焼肉店。亀梨和也が2025年8月に訪れた。Snow Manの渡辺翔太くん、松原タニシさんと一緒に来た焼肉屋さんです。",
+    "description": "亀梨和也の公式YouTube「【夏休み】Snow Man渡辺翔太と東京の高級焼肉店でディナー！ゲスト松原タニシさんも迎えてゾクっとする話。」（2025年8月）で、Snow Manの渡辺翔太と、ゲストの松原タニシとディナーを食べた銀座の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13222093/",
     "hotpepper_url": "",
@@ -6528,7 +6528,13 @@
         "name": "烏龍茶"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "渡辺翔太",
+      "松原タニシ"
+    ]
   },
   {
     "id": "kamenashi-9398d442-202508",
@@ -6550,7 +6556,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "「東銀座駅」より徒歩7分「築地駅」「新富町駅」より徒歩2分",
-    "description": "中央区のスイーツショップ。亀梨和也が2025年8月に訪れた。Snow Manの渡辺翔太くんと来た、高級かき氷店です。",
+    "description": "亀梨和也の公式YouTube「【贅沢】Snow Man渡辺翔太と絶品かき氷屋さんへ！神のクオリティの味に2人とも悶絶してしまいました。」（2025年8月）で、Snow Manの渡辺翔太と訪れたかき氷店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13310531/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004421357/",
@@ -6571,7 +6577,12 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/07/P047894507/P047894507_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "渡辺翔太"
+    ]
   },
   {
     "id": "kamenashi-b2d66125-202507",
@@ -6593,7 +6604,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "盛岡駅 徒歩2分",
-    "description": "盛岡市のラーメン店。亀梨和也が2025年7月に訪れた。亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！",
+    "description": "亀梨和也の公式YouTube「【🍜】亀梨和也、本場岩手の盛岡冷麺を食べる。お仕事の前日に絶品焼肉と冷麺爆食いで優勝！」（2025年7月）で、岩手・盛岡で焼肉と盛岡冷麺を食べた焼肉・冷麺店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/iwate/A0301/A030101/3000020/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000874659/",
@@ -6637,7 +6648,10 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/47/60/P025954760/P025954760_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "genreはyakiniku。旧descriptionの『ラーメン店』は誤り"
   },
   {
     "id": "kamenashi-bullajo-202504",
@@ -6659,13 +6673,16 @@
     ],
     "group": "kamenashi",
     "nearest_station": "渋谷駅 徒歩8分",
-    "description": "亀梨くんがステーキを食べに行ったお店です。 2025/06/24で閉店してしまうので、気になる方はぜひ食べに行ってくださいね。",
+    "description": "亀梨和也の公式YouTube「【絶品】大量ガーリックが罪深い。。。渋谷の奥に潜む隠れ家ステーキハウスで爆食いして過酷な撮影に向けたパワーをチャージしてきました！」（2025年4月）で、渋谷のステーキハウスで、ガーリックステーキを食べた回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13159985/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/zlVJ4MBzmuw/hqdefault.jpg",
     "closed": true,
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "ファンブログでは2025年6月24日に閉店とある（closed未設定）"
   },
   {
     "id": "kamenashi-95d73497-202504",
@@ -6687,12 +6704,14 @@
     ],
     "group": "kamenashi",
     "nearest_station": "鳥取駅 徒歩6分",
-    "description": "鳥取市のラーメン店。亀梨和也が2025年4月に訪れた。亀梨和也「【旨】撮影終わりのラーメンが沁みる。。。鳥取で仕事」に登場したラーメン店。",
+    "description": "亀梨和也の公式YouTube「【旨】撮影終わりのラーメンが沁みる。。。鳥取で仕事終わりに牛骨ラーメンを食べに行きました！」（2025年4月）で、鳥取での撮影終わりに牛骨ラーメンを食べたラーメン店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/QJNOclrBszU/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-6d080bbe-202503",
@@ -6714,7 +6733,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "月島駅 徒歩2分",
-    "description": "中央区のもんじゃ焼き店。亀梨和也が2025年3月に訪れた。【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！",
+    "description": "亀梨和也の公式YouTube「【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！」（2025年3月）で、東京・月島の、おたけさんのお店でもんじゃ焼きを食べた回の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131302/13283786/",
     "hotpepper_url": "",
@@ -6745,7 +6764,9 @@
         "name": "亀竹もんじゃ"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-95af1b87-202501",
@@ -6767,12 +6788,18 @@
     ],
     "group": "kamenashi",
     "nearest_station": "",
-    "description": "備前市のレストラン。亀梨和也が2025年1月に訪れた。牡蠣を食べに来たお店です。 予約はお電話か公式InstagramのDMでも受付しています。",
+    "description": "亀梨和也の公式YouTube「【1周年企画】Snow Man 宮舘涼太と鈴木福と豪華岡山旅！カキとビールで最高の昼飲み！」（2025年1月）で、チャンネル1周年企画の岡山旅で、Snow Manの宮舘涼太、鈴木福とカキとビールの昼飲みをした店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okayama/A3305/A330501/33020227/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/8-pKbYjUTc4/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "宮舘涼太",
+      "鈴木福"
+    ]
   },
   {
     "id": "kamenashi-off_kinosaki-20241218",
@@ -6794,12 +6821,14 @@
     ],
     "group": "kamenashi",
     "nearest_station": "城崎温泉駅 徒歩9分",
-    "description": "豊岡市のレストラン。亀梨和也が2024年12月に訪れた。亀梨くんが夕食を食べた、とてもおしゃれなレストランです。",
+    "description": "亀梨和也の公式YouTube「【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。」（2024年12月）で、雑誌『MAQUIA』の撮影で訪れた兵庫・城崎温泉で、夕食を食べたレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hyogo/A2808/A280801/28052279/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/10CFRaEzqS8/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-27f41658-202412",
@@ -6821,12 +6850,17 @@
     ],
     "group": "kamenashi",
     "nearest_station": "大井町駅 徒歩2分",
-    "description": "品川区の居酒屋。亀梨和也が2024年12月に訪れた。藤井流星くんと一緒に、うな串焼き鳥屋さんに行きました。",
+    "description": "亀梨和也の公式YouTube「【語る】WEST.藤井流星としっぽり2軒目。仕事論や人生論、今後の人生について語りました。」（2024年12月）で、WEST.の藤井流星と大井町で飲んだ2軒目のうな串・焼き鳥店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13258533/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/vV651O-moMA/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "藤井流星"
+    ]
   },
   {
     "id": "kamenashi-le_rhin_bleu-20241116",
@@ -6848,12 +6882,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "Marktplatz駅 徒歩4分",
-    "description": "レストラン。亀梨和也が2024年11月に訪れた。スイスでディナーを食べに来た、ライン川の上にあるお店です。",
+    "description": "亀梨和也の公式YouTube「【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。」（2024年11月）で、スイス・バーゼルを訪れた回で、ディナーを食べたライン川沿いのレストラン。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/3ZnxNCg-uHg/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "海外店舗。動画の主題は時計店（パテック フィリップ）。店名はファンブログ（fananablog）による"
   },
   {
     "id": "kamenashi-0a3faf7a-202410",
@@ -6875,12 +6912,17 @@
     ],
     "group": "kamenashi",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩1分",
-    "description": "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！（2024/10/16配信回） 【亀梨流オーダー表】 【宮舘流オーダー表】",
+    "description": "亀梨和也の公式YouTube「【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。」（2024年10月）で、Snow Manの宮舘涼太と、数年ぶりに一蘭でラーメンを食べた回の店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13125736/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "宮舘涼太"
+    ]
   },
   {
     "id": "kamenashi-b68dd10a-202410",
@@ -6902,12 +6944,17 @@
     ],
     "group": "kamenashi",
     "nearest_station": "JR桜木町駅北改札直結JR/横浜市営地下鉄桜木町駅から徒歩1分みなとみらい線みなとみらい駅 徒歩7分",
-    "description": "夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！（2024/10/02配信回） なにわ男子の道枝駿佑と横浜ドライブを楽しんだ後、ご飯を食べに来た焼肉店です。",
+    "description": "亀梨和也の公式YouTube「【夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！」（2024年10月）で、なにわ男子の道枝駿佑と横浜をドライブしたあと、夜景の見える焼肉店で食事をした回の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140102/14082343/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/LaNwtYYQ3Wo/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "道枝駿佑"
+    ]
   },
   {
     "id": "kamenashi-814e2aa9-202408",
@@ -6929,7 +6976,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "銀座駅 徒歩2分",
-    "description": "【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。（2024/08/24配信回）",
+    "description": "亀梨和也の公式YouTube「【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。」（2024年8月）で、1人ごはんの回で、ハワイの思い出の冷麺を食べた銀座の焼肉・冷麺店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13261510/",
     "hotpepper_url": "",
@@ -6948,7 +6995,9 @@
         "name": "ビビン麺ハーフ"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-bb9f32ec-202408",
@@ -6970,13 +7019,20 @@
     ],
     "group": "kamenashi",
     "nearest_station": "恵比寿駅 徒歩1分",
-    "description": "渋谷区のもんじゃ焼き店。亀梨和也が2024年8月に訪れた。妖怪人間ベムで共演した、鈴木福くんと杏さんと再会し行ったお店です。",
+    "description": "亀梨和也の公式YouTube「【妖怪人間】かつての仲間、杏ちゃんと鈴木福くんと再会してディナーに向かってドライブをします！」（2024年8月）で、ドラマ『妖怪人間ベム』で共演した杏、鈴木福と再会し、ディナーを食べたお好み焼き・鉄板焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13004492/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001189354/",
     "thumbnail_url": "https://img.youtube.com/vi/7EV_r_en6RA/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/08/P046162508/P046162508_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "杏",
+      "鈴木福"
+    ],
+    "qa_note": "杏のYouTubeチャンネルにも続きの動画あり"
   },
   {
     "id": "kamenashi-df0d89b3-202407",
@@ -6998,7 +7054,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "六本木駅 徒歩9分",
-    "description": "東京都の焼肉店。亀梨和也が2024年7月に訪れた。東京都の焼肉店。亀梨和也が2024年7月に訪れた。亀梨和也「ぼっち」に登場した焼肉店。",
+    "description": "亀梨和也の公式YouTube「【ぼっち】亀梨和也がひとりで焼肉を食べるだけの動画。」（2024年7月）で、ひとりで焼肉を食べる回で訪れた西麻布の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13293615/",
     "hotpepper_url": "",
@@ -7029,7 +7085,9 @@
         "name": "リンゴのシャーベット"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-6606003d-202407",
@@ -7051,12 +7109,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "櫛田神社前駅 徒歩5分",
-    "description": "福岡市のラーメン店。亀梨和也が2024年7月に訪れた。福岡市のラーメン店。亀梨和也が2024年7月に訪れた。亀梨和也「爆飲み」に登場したラーメン店。",
+    "description": "亀梨和也の公式YouTube「【爆飲み】福岡の屋台で1人飲みをしていたらお客さんとのトークが楽しすぎてどんどん飲んで酔っ払ってしまいました。」（2024年7月）で、福岡・中洲の屋台で、ほかのお客さんと話しながら1人飲みをした屋台。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400102/40035784/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/nBtgifut7vE/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "住所が『中洲1丁目8−番 清流公園内』と不完全"
   },
   {
     "id": "kamenashi-glams_bbq_lounge-202405",
@@ -7078,12 +7139,17 @@
     ],
     "group": "kamenashi",
     "nearest_station": "JR原宿駅 徒歩7分",
-    "description": "なにわ男子の藤原丈一郎くんと行ったバーベキュー専門店です。 亀梨ファームで収獲した野菜たちを使ってバーベキューを楽しみました。",
+    "description": "亀梨和也の公式YouTube「【グローブあり】なにわ男子 藤原丈一郎と東京のど真ん中でBBQをしたら幸せすぎた！」（2024年5月）で、なにわ男子の藤原丈一郎と、亀梨ファームで収穫した野菜を持ち込んでバーベキューをした原宿のBBQ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13233425/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/qWliiMG-FZA/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "藤原丈一郎"
+    ]
   },
   {
     "id": "kamenashi-17aff7bc-202405",
@@ -7105,12 +7171,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "祇園四条駅",
-    "description": "京都市のもんじゃ焼き店。亀梨和也が2024年5月に訪れた。亀梨和也「vlog」に登場したもんじゃ店。",
+    "description": "亀梨和也の公式YouTube「【vlog】久しぶりのオフの日京都旅vlog🌸たくさん食べて、リフレッシュしてきました！」（2024年5月）で、オフの日の京都旅vlogで立ち寄った、祇園の洋食焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001384/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/mOC7wSoPSyc/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "genre・旧descriptionの『もんじゃ』は誤り（壹銭洋食）"
   },
   {
     "id": "kamenashi-34069a08-202405",
@@ -7132,7 +7201,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "新宿駅 徒歩1分",
-    "description": "新宿区の居酒屋。亀梨和也が2024年5月に訪れた。なにわ男子の高橋恭平くんと行ったお店です。 店内で魚介類を釣り、その場で料理してくれます。",
+    "description": "亀梨和也の公式YouTube「【大漁】なにわ男子 高橋恭平と釣りができる居酒屋で釣って食べまくる！」（2024年5月）で、なにわ男子の高橋恭平と、店内で魚を釣って料理してもらった釣り居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13006709/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000124766/",
@@ -7164,7 +7233,12 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/51/39/P038425139/P038425139_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "高橋恭平"
+    ]
   },
   {
     "id": "kamenashi-e27eb84b-202404",
@@ -7186,7 +7260,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩1分",
-    "description": "渋谷区のラーメン店。亀梨和也が2024年4月に訪れた。ふぉ～ゆ～の越岡くんと来たラーメン屋さんです。",
+    "description": "亀梨和也の公式YouTube「【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。」（2024年4月）で、ふぉ～ゆ～の越岡裕貴と、ジュニア時代に通った思い出の店として豚骨ラーメンを食べたラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13039603/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000103008/",
@@ -7200,7 +7274,12 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/05/07/P038540507/P038540507_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "越岡裕貴"
+    ]
   },
   {
     "id": "kamenashi-hohokam_diner-20240413",
@@ -7222,13 +7301,18 @@
     ],
     "group": "kamenashi",
     "nearest_station": "原宿駅 徒歩2分",
-    "description": "じゃんがらでラーメンを食べた後来たカフェです。 テラス席でコーヒーとパンケーキを食べながら2人でお喋りしました。",
+    "description": "亀梨和也の公式YouTube「【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。」（2024年4月）で、ふぉ～ゆ～の越岡裕貴とラーメンを食べたあとに立ち寄り、テラス席で話したカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13281700/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000855350/",
     "thumbnail_url": "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/37/P046181337/P046181337_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "越岡裕貴"
+    ]
   },
   {
     "id": "kamenashi-7cbda6f7-202404",
@@ -7250,13 +7334,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "田吉駅 徒歩14分",
-    "description": "宮崎市のラーメン店。亀梨和也が2024年4月に訪れた。宮崎に来るときは毎回食べているという辛麵を食べにきました。",
+    "description": "亀梨和也の公式YouTube「【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺を食べる。」（2024年4月）で、宮崎で真っ赤な辛麺を食べた辛麺店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyazaki/A4501/A450101/45008630/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001159336/",
     "thumbnail_url": "https://img.youtube.com/vi/fqUI15scR4o/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/82/P038029482/P038029482_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-3a7e3c9a-202402",
@@ -7278,13 +7364,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "宮崎駅 徒歩13分",
-    "description": "宮崎市の居酒屋。亀梨和也が2024年2月に訪れた。宮崎に着いた後、亀梨くんがご飯を食べに行った焼き鳥屋さんです。",
+    "description": "亀梨和也の公式YouTube「【晩酌】亀梨和也、宮崎の地鶏としっぽり1人飲み。」（2024年2月）で、宮崎で地鶏を食べながら1人飲みをした焼き鳥店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyazaki/A4501/A450101/45000085/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000030058/",
     "thumbnail_url": "https://img.youtube.com/vi/Q-BcioViZcc/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/51/57/P034485157/P034485157_238.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-1f6dffde-202402",
@@ -7306,12 +7394,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "二条城前駅 徒歩5分",
-    "description": "中華料理店。亀梨和也が2024年2月に訪れた。中華料理店。亀梨和也が2024年2月に訪れた。大奥撮影の合間、ご飯を食べに行ったお店です。",
+    "description": "亀梨和也の公式YouTube「【大奥】ドラマ撮影の空き時間はこんな感じ。京都で餃子を食べたり街を散歩したり。」（2024年2月）で、ドラマ『大奥』の撮影の空き時間に、京都で餃子を食べた店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/V3HCRaq5zYs/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "住所が空。ファンブログ（kosodate-and.net）では本店: 京都府京都市中京区西洞院通夷川下る薬師町652-1。マネージャーと食事"
   },
   {
     "id": "snowman-09af6680-202605",
@@ -7435,40 +7526,15 @@
     ],
     "group": "kamenashi",
     "nearest_station": "大小路駅 徒歩3分",
-    "description": "堺市堺区の焼肉店。亀梨和也が2025年5月に訪れた。【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。",
+    "description": "亀梨和也の公式YouTube「【一人焼肉】亀梨和也、大阪の街でぼっち焼肉。幸せな時間。」（2025年5月）で、大阪で1人焼肉をした堺市の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27119941/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001266918/",
     "thumbnail_url": "https://img.youtube.com/vi/chtW4R82cOg/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/35/04/P037553504/P037553504_238.jpg",
-    "source_video_channel": "亀梨和也"
-  },
-  {
-    "id": "kamenashi-808fe940-202503",
-    "name": "リステア",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区赤坂９丁目６−１７",
-    "lat": 35.6667323,
-    "lng": 139.7309312,
-    "youtube_id": "G921cu9t2DM",
-    "source_video_title": "【買い物】高級セレクトショップリステアで過去イチの爆買い！亀梨の財布の紐は完全に崩壊してしまいました。",
-    "visited_date": "2025-03-12",
-    "members": [
-      "亀梨和也"
-    ],
-    "groups": [
-      "kamenashi"
-    ],
-    "group": "kamenashi",
-    "nearest_station": "六本木駅 徒歩6分",
-    "description": "東京都のレストラン。亀梨和也が2025年3月に訪れた。東京都のレストラン。亀梨和也が2025年3月に訪れた。亀梨くんがこちらのお店で爆買いしています。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130402/13289988/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/G921cu9t2DM/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-e61d8104-202502",
@@ -7490,12 +7556,14 @@
     ],
     "group": "kamenashi",
     "nearest_station": "JR日豊本線・日向住吉駅 徒歩13分",
-    "description": "亀梨くんが毎年言っているといううどん屋さんです。 こちらのお店の魚ずしが大好きだと話されていました。",
+    "description": "亀梨和也の公式YouTube「【至福】亀梨が10年以上通い続ける、宮崎の絶品うどん屋さんに今年もお邪魔します。」（2025年2月）で、10年以上通い続けているという宮崎・青島のうどん店で、釜揚げうどんと魚ずしを食べた回。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyazaki/A4501/A450101/45000536/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/A55nuJrv8yE/hqdefault.jpg",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-c3b4e8da-202408",
@@ -7517,7 +7585,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "大森海岸駅 徒歩5分",
-    "description": "お蕎麦好きな、Travis Japanの七五三掛龍也くんと一緒に行ったお蕎麦屋さんです。 2人で蕎麦打ちを体験し、一緒に食べています。",
+    "description": "亀梨和也の公式YouTube「【爆食】Travis Japan七五三掛龍也 初の蕎麦打ち体験！お互いの蕎麦を食べ比べてみました。」（2024年8月）で、Travis Japanの七五三掛龍也と蕎麦打ちを体験し、お互いの蕎麦を食べ比べたそば店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13007659/",
     "hotpepper_url": "",
@@ -7536,7 +7604,12 @@
         "name": "平打ち粗挽き蕎麦(2枚)"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "七五三掛龍也"
+    ]
   },
   {
     "id": "kamenashi-223-202404",
@@ -7558,7 +7631,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "北大路駅 徒歩11分",
-    "description": "京都市のラーメン店。亀梨和也が2024年4月に訪れた。京都にある塩ラーメン専門店です。 味変で特製オリーブソースを入れ、洋風ラーメンを楽しんでいます。",
+    "description": "亀梨和也の公式YouTube「【朝食】京都の朝。一人で濃厚ラーメンをすすります。」（2024年4月）で、京都の朝に、ひとりでラーメンを食べたラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260503/26034568/",
     "hotpepper_url": "",
@@ -7571,7 +7644,10 @@
         "name": "〆のリゾット"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "自家製麺223（東京・北新宿）とは別店舗"
   },
   {
     "id": "kamenashi-223-202401",
@@ -7593,7 +7669,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "大久保駅 徒歩10分",
-    "description": "亀梨くんが二郎系ラーメンを食べに行ったお店です。 二郎系の「小ラーメン」は普通のラーメン屋さんの大盛りくらいの量で、ボリュームたっぷりです。 初心者の方は小ラーメンから試しましょう。",
+    "description": "亀梨和也の公式YouTube「【ニンニク】亀梨和也、初めての！？二郎系ラーメン」（2024年1月）で、初めての二郎系ラーメンを食べた北新宿のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13283964/",
     "hotpepper_url": "",
@@ -7606,7 +7682,10 @@
         "name": "小ラーメン●無料のトッピング…ニンニク●味変…お酢／一味"
       }
     ],
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "鶏そば223（京都）とは別店舗"
   },
   {
     "id": "naniwa-muun_seoul-20201023",
@@ -45818,7 +45897,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "",
-    "description": "亀梨和也が公式YouTubeチャンネルの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【🍻】大阪のお好み焼き屋さんにフラッと入ってお客さんと楽しく話しながらたくさん飲んでしまいました。」（2025年4月）で、大阪・梅田のお好み焼き店にふらっと入り、お客さんと話しながら飲んだ回の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27001891/",
     "hotpepper_url": "",
@@ -45827,7 +45906,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=Kv2-QX2HenQ",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kattun-bfde3236-",
@@ -45838,10 +45919,10 @@
     "address": "東京都品川区大井1-8-4",
     "lat": 35.60711221875251,
     "lng": 139.73320765365906,
-    "youtube_id": "",
+    "youtube_id": "SkIMIAt-W2g",
     "source_video_title": "【亀梨和也チャンネル】藤井流星との大井町の居酒屋 1軒目はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/kame-ryusei-izakaya",
-    "visited_date": "",
+    "visited_date": "2024-12-07",
     "members": [
       "亀梨和也"
     ],
@@ -45850,14 +45931,21 @@
     ],
     "group": "kamenashi",
     "nearest_station": "大井町駅 徒歩2分",
-    "description": "亀梨和也が公式YouTubeチャンネルの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【ハプニング】WEST.藤井流星と東京のせんべろ街で飲み歩き！まさかの展開になります。」（2024年12月）で、WEST.の藤井流星と大井町のせんべろ街で飲み歩いた回で、1軒目に入った居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1315/A131501/13023086/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "藤井流星"
+    ],
+    "qa_note": "youtube_id・visited_dateが空。該当動画は SkIMIAt-W2g『【ハプニング】WEST.藤井流星と東京のせんべろ街で飲み歩き！まさかの展開になります。』（2024-12-07）。店名はファンブログ（kosodate-and.net）による特定",
+    "source_video_url": "https://www.youtube.com/watch?v=SkIMIAt-W2g"
   },
   {
     "id": "kattun-c44a048d-",
@@ -45880,7 +45968,7 @@
     ],
     "group": "kamenashi",
     "nearest_station": "品川駅 徒歩4分",
-    "description": "亀梨和也が公式YouTubeチャンネルの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【麺】和田さん、人生初の家系ラーメン！元メジャーリーガー和田毅さんと野球解説のお仕事終わりにこってりラーメンをお腹いっぱい食べました！」（2025年5月）で、元メジャーリーガーの和田毅と、野球解説の仕事終わりに家系ラーメンを食べた店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131403/13210416/",
     "hotpepper_url": "",
@@ -45889,7 +45977,12 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=9BZhVltYM7c",
-    "source_video_channel": "亀梨和也"
+    "source_video_channel": "亀梨和也",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "和田毅"
+    ]
   },
   {
     "id": "kattun-aburi-",
@@ -69456,13 +69549,16 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【最高】こだわりの極み。お仕事のついでにずっと行ってみたかった家具屋さんにやっと行けました！」（2025年5月）で、大阪の家具店を訪れた回で、家具を見たあとに立ち寄り、ドーナツとコーヒーを頼んだカフェ。",
     "source_url": "https://bird-coffee.com/",
     "source_type": "youtube",
     "ordered_items": [
       "ドーナツ カスタード",
       "アイスコーヒー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "動画の主題は隣の家具店（Truck Furniture）。カフェでの飲食はファンブログ（fananablog）による"
   },
   {
     "id": "kamenashi-203ea352-20241218",
@@ -69484,7 +69580,7 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。」（2024年12月）で、雑誌『MAQUIA』の撮影で訪れた兵庫・城崎温泉で、初競り直後の松葉ガニを食べた寿司店。",
     "source_url": "https://fananablog.com/kamenashiyoutube-seichi/",
     "source_type": "youtube",
     "ordered_items": [
@@ -69493,7 +69589,9 @@
       "炙ったカニと刺身",
       "焼きガニ",
       "セコガニの炙り焼き"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-90116a3d-20241030",
@@ -69515,14 +69613,19 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【爆笑】Snow Man 向井康二と浅草でたい焼き作り！一発ギャグ連発で笑いが止まらない。」（2024年10月）で、Snow Manの向井康二と、浅草でたい焼き作りを体験した店。",
     "source_url": "https://www.hotpepper.jp/strJ001279728/",
     "source_type": "youtube",
     "ordered_items": [
       "たい焼き作り体験（チーズ）"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ001279728/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/47/91/P038294791/P038294791_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/47/91/P038294791/P038294791_238.jpg",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "向井康二"
+    ]
   },
   {
     "id": "kamenashi-5a0737a4-20240127",
@@ -69544,9 +69647,14 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【飯テロ】鈴木福と浅草で最高のもんじゃをひたすらにお腹いっぱい食べる。」（2024年1月）で、鈴木福と浅草でもんじゃ焼きを食べた店。",
     "source_url": "https://www.hotpepper.jp/strJ000841486/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "鈴木福"
+    ]
   },
   {
     "id": "kamenashi-a69bae32-20231213",
@@ -69568,9 +69676,15 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「亀梨和也の眉毛が少しずつ太くなっていったら後輩の宮舘涼太はどんな反応をする？」（2023年12月）で、Snow Manの宮舘涼太とバーベキューをした夢の島のBBQ施設。",
     "source_url": "https://kosodate-and.net/kame-date-bbq/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "宮舘涼太"
+    ],
+    "qa_note": "飲食店というよりBBQ場（施設）。採否を人が確認。動画タイトルは眉毛のドッキリ企画。ファンブログでは河合郁人も同行とあるが未確認。施設公式Xが来店を告知"
   },
   {
     "id": "kamenashi-be0b36e8-20260530",
@@ -69592,12 +69706,14 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【美味】亀梨、初めての麻辣湯。何も分からず周りのお客様に助けてもらいました。」（2026年5月）で、初めての麻辣湯を、周りのお客さんに教わりながら食べた銀座の店。",
     "source_url": "https://kosodate-and.net/kame-malatan/",
     "source_type": "youtube",
     "ordered_items": [
       "麻辣湯（牛すじ麺・麻辣スープ・辛さ1）"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "kamenashi-90e70f7e-20260725",
@@ -69619,12 +69735,15 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【大阪】朝から飛ぶほどウマい。築100年の古民家で味わう至福の朝ごはん。」（2026年7月）で、大阪で、築100年の古民家の朝食場で朝ごはん（卵かけごはんのセット）を食べた回の店。",
     "source_url": "https://kosodate-and.net/kame-osaka-asagohan/",
     "source_type": "youtube",
     "ordered_items": [
       "卵かけごはんセット"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "qa_note": "ホステル併設の朝食場（食事のみの利用可）"
   },
   {
     "id": "kamenashi-b569fad1-20260815",
@@ -69646,12 +69765,17 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【街ブラ】鈴木福とノープラン旅。湯島天神にお参り＆お蕎麦ランチを満喫。」（2026年8月）で、鈴木福とのノープラン旅で、湯島天神にお参りしたあとにランチを食べたへぎそば店。",
     "source_url": "https://www.hotpepper.jp/strJ000004247/",
     "source_type": "youtube",
     "ordered_items": [
       "夏の冷やしネバトロそば",
       "天ぷら盛合せ"
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "鈴木福"
     ]
   },
   {
@@ -69674,11 +69798,16 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【行列店】2000円超えのかき氷を鈴木福とただただ食べるだけ動画」（2026年8月）で、鈴木福とかき氷を食べた湯島のカフェ。",
     "source_url": "https://kosodate-and.net/kame-fuku-kakigori/",
     "source_type": "youtube",
     "ordered_items": [
       "かき氷 ももウーロン"
+    ],
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル",
+    "with": [
+      "鈴木福"
     ]
   },
   {
@@ -69701,9 +69830,11 @@
       "kamenashi"
     ],
     "group": "kamenashi",
-    "description": "亀梨和也がYouTubeの動画で訪れたお店。",
+    "description": "亀梨和也の公式YouTube「【至福】ストック切れのピンチ！ということで撮影後、焼肉を食べに行ったら最高の味に出会えました」（2026年10月）で、山梨での撮影終わりに焼肉を食べた富士吉田の焼肉店。",
     "source_url": "https://kosodate-and.net/kame-yamanashi-yakiniku/",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "亀梨和也チャンネル"
   },
   {
     "id": "agroup-dfc862b8-20240712",
