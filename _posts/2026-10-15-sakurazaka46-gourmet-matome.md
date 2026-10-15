@@ -84,6 +84,12 @@ courses:
 
 <p>冠番組『そこ曲がったら、櫻坂？』では、武元唯衣・藤吉夏鈴・森田ひかる・増本綺良が銀座の寿司店を訪れた回のほか、メンバーが出身地のお店や好きなお店を紹介する企画がありました。この記事では<strong>30軒</strong>を、メンバーが行ったお店と番組で紹介したお店に分けてまとめました。</p>
 
+<div class="cnav">
+<p class="cnav__h">出典で選ぶ</p>
+<div class="cnav__list"><a href="#src2">{% include chico.html kind="yt" %}<span>公式YouTube「櫻坂チャンネル」<small>18軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』<small>1軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で紹介したお店<small>11軒</small></span></a></div>
+</div>
+{% include matome-members.html group="sakurazaka46" %}
+
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
 <p>30軒のなかから、東京にあって、メンバーが実際に訪れた回のお店を3つ選びました。</p>
 <div class="picks">
@@ -98,83 +104,77 @@ courses:
 
 <div class="pf-quote"><p>櫻坂チャンネルの18軒のうち8軒は、的野美青・山下瞳月の「日本ラーメン旅」（2023年11月〜2025年7月）のお店で、東京から福岡・大阪・愛知・神奈川まで足をのばしています。冠番組『そこ曲がったら、櫻坂？』のお店は、2021年のプレゼン企画で、メンバーが静岡・兵庫・滋賀・鹿児島など出身地のお店を紹介したものが多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-<h2>公式YouTube「櫻坂チャンネル」で行ったお店</h2>
+<h2 id="src2">{% include chico.html kind="yt" %}公式YouTube「櫻坂チャンネル」で行ったお店</h2>
 <p>櫻坂46の公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月です。</p>
 
 <h3>的野・山下の日本ラーメン旅：駒場・福岡・大阪・愛知・川崎</h3>
-<ul class="pf-works">
-  <li><span class="k">2023.11</span><div><b>千里眼</b><span>【千里眼】ラーメン大好き的野美青と山下瞳月が二郎系に初挑戦！【第1弾】／的野美青・山下瞳月（目黒区 駒場）</span></div></li>
-  <li><span class="k">2024.3</span><div><b>ふくちゃんラーメン 田隈本店</b><span>【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】／的野美青・山下瞳月（福岡市早良区）</span></div></li>
-  <li><span class="k">2024.3</span><div><b>一蘭 本社総本店</b><span>【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】／的野美青・山下瞳月（福岡市博多区 中洲）</span></div></li>
-  <li><span class="k">2024.4</span><div><b>カドヤ食堂 総本店</b><span>【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】／的野美青・山下瞳月（大阪市西区）</span></div></li>
-  <li><span class="k">2024.4</span><div><b>ストライク軒</b><span>【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】／的野美青・山下瞳月（大阪市北区 天神橋）</span></div></li>
-  <li><span class="k">2024.4</span><div><b>味仙 JR名古屋駅店</b><span>【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】／的野美青・山下瞳月・向井純葉（名古屋市中村区）</span></div></li>
-  <li><span class="k">2024.4</span><div><b>元祖ニュータンタンメン本舗 京町店</b><span>【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】／的野美青・山下瞳月（川崎市川崎区）</span></div></li>
-  <li><span class="k">2025.7</span><div><b>一蘭の森 糸島店</b><span>【一蘭の森】的野・山下の日本ラーメン旅 一蘭の本拠地に潜入 福岡編【第5弾】／的野美青・山下瞳月（福岡県糸島市）</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-7d31a281-20231101" %}<span class="wr__k">2023.11</span><b class="wr__name">千里眼</b><span class="wr__t">【千里眼】ラーメン大好き的野美青と山下瞳月が二郎系に初挑戦！【第1弾】／的野美青・山下瞳月（目黒区 駒場）</span>{% include wr-close.html id="sakurazaka46-7d31a281-20231101" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-abfde076-20240321" %}<span class="wr__k">2024.3</span><b class="wr__name">ふくちゃんラーメン 田隈本店</b><span class="wr__t">【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】／的野美青・山下瞳月（福岡市早良区）</span>{% include wr-close.html id="sakurazaka46-abfde076-20240321" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-2c6bc291-20240321" %}<span class="wr__k">2024.3</span><b class="wr__name">一蘭 本社総本店</b><span class="wr__t">【ふくちゃんラーメン・一蘭】的野・山下の日本ラーメン旅 福岡編【第2弾】／的野美青・山下瞳月（福岡市博多区 中洲）</span>{% include wr-close.html id="sakurazaka46-2c6bc291-20240321" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-0b12e7c6-20240403" %}<span class="wr__k">2024.4</span><b class="wr__name">カドヤ食堂 総本店</b><span class="wr__t">【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】／的野美青・山下瞳月（大阪市西区）</span>{% include wr-close.html id="sakurazaka46-0b12e7c6-20240403" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-64170cf0-20240403" %}<span class="wr__k">2024.4</span><b class="wr__name">ストライク軒</b><span class="wr__t">【カドヤ食堂・ストライク軒】的野・山下の日本ラーメン旅 大阪編【第3弾】／的野美青・山下瞳月（大阪市北区 天神橋）</span>{% include wr-close.html id="sakurazaka46-64170cf0-20240403" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-e1b9d5a4-20240411" %}<span class="wr__k">2024.4</span><b class="wr__name">味仙 JR名古屋駅店</b><span class="wr__t">【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】／的野美青・山下瞳月・向井純葉（名古屋市中村区）</span>{% include wr-close.html id="sakurazaka46-e1b9d5a4-20240411" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-8e79d4b5-20240411" %}<span class="wr__k">2024.4</span><b class="wr__name">元祖ニュータンタンメン本舗 京町店</b><span class="wr__t">【味仙・元祖ニュータンタンメン本舗】的野・山下の日本ラーメン旅 激辛の愛知・神奈川編【第4弾】／的野美青・山下瞳月（川崎市川崎区）</span>{% include wr-close.html id="sakurazaka46-8e79d4b5-20240411" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-b1d8c3ae-20250701" %}<span class="wr__k">2025.7</span><b class="wr__name">一蘭の森 糸島店</b><span class="wr__t">【一蘭の森】的野・山下の日本ラーメン旅 一蘭の本拠地に潜入 福岡編【第5弾】／的野美青・山下瞳月（福岡県糸島市）</span>{% include wr-close.html id="sakurazaka46-b1d8c3ae-20250701" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-7d31a281-20231101,sakurazaka46-abfde076-20240321,sakurazaka46-2c6bc291-20240321,sakurazaka46-0b12e7c6-20240403,sakurazaka46-64170cf0-20240403,sakurazaka46-e1b9d5a4-20240411,sakurazaka46-8e79d4b5-20240411,sakurazaka46-b1d8c3ae-20250701" %}
 
 <h3>村山美羽の一人焼肉：浅草・不動前</h3>
-<ul class="pf-works">
-  <li><span class="k">2024.2</span><div><b>浅草 炭火焼肉 本とさや</b><span>【一人焼肉】浅草で一人焼肉を村山美羽が大満喫！【本とさや】／村山美羽（台東区 西浅草）</span></div></li>
-  <li><span class="k">2025.8</span><div><b>焼肉しみず</b><span>【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】／村山美羽（品川区 西五反田）</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-fb1b4b65-20240229" %}<span class="wr__k">2024.2</span><b class="wr__name">浅草 炭火焼肉 本とさや</b><span class="wr__t">【一人焼肉】浅草で一人焼肉を村山美羽が大満喫！【本とさや】／村山美羽（台東区 西浅草）</span>{% include wr-close.html id="sakurazaka46-fb1b4b65-20240229" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-96d84d89-20250807" %}<span class="wr__k">2025.8</span><b class="wr__name">焼肉しみず</b><span class="wr__t">【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】／村山美羽（品川区 西五反田）</span>{% include wr-close.html id="sakurazaka46-96d84d89-20250807" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-fb1b4b65-20240229,sakurazaka46-96d84d89-20250807" %}
 
 <h3>東京の街で：下北沢・三軒茶屋・北青山</h3>
 <p>三軒茶屋の回は、動画の説明文に店名がないため、回のタイトルと出たメンバーだけを書いています。</p>
-<ul class="pf-works">
-  <li><span class="k">2023.8</span><div><b>Curry Spice Gelateria KALPASI</b><span>【Vlog】下北沢人気No.1のカレー＆古着屋さんで〇万円ガチ購入【感激】／土生瑞穂（世田谷区 北沢）</span></div></li>
-  <li><span class="k">2025.2</span><div><b>cafe&amp;gallery LUPOPO</b><span>【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋／石森璃花・中嶋優月</span></div></li>
-  <li><span class="k">2025.4</span><div><b>赤い壺</b><span>【激辛】遠藤理子と山下瞳月が激辛料理に賞状を賭けて挑戦！【激辛チャレンジ】／遠藤理子・山下瞳月（港区 北青山）</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-12da6055-20230809" %}<span class="wr__k">2023.8</span><b class="wr__name">Curry Spice Gelateria KALPASI</b><span class="wr__t">【Vlog】下北沢人気No.1のカレー＆古着屋さんで〇万円ガチ購入【感激】／土生瑞穂（世田谷区 北沢）</span>{% include wr-close.html id="sakurazaka46-12da6055-20230809" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-69f9635b-20250219" %}<span class="wr__k">2025.2</span><b class="wr__name">cafe&amp;gallery LUPOPO</b><span class="wr__t">【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋／石森璃花・中嶋優月</span>{% include wr-close.html id="sakurazaka46-69f9635b-20250219" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-f0e69c0c-20250409" %}<span class="wr__k">2025.4</span><b class="wr__name">赤い壺</b><span class="wr__t">【激辛】遠藤理子と山下瞳月が激辛料理に賞状を賭けて挑戦！【激辛チャレンジ】／遠藤理子・山下瞳月（港区 北青山）</span>{% include wr-close.html id="sakurazaka46-f0e69c0c-20250409" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-12da6055-20230809,sakurazaka46-69f9635b-20250219,sakurazaka46-f0e69c0c-20250409" %}
 
 <h3>旅のVlog：名古屋・札幌・柳川・香川・広島</h3>
 <p>どの回も動画の説明文に店名がないため、回のタイトルと出たメンバーだけを書いています。</p>
-<ul class="pf-works">
-  <li><span class="k">2025.5</span><div><b>あつた蓬莱軒 松坂屋店</b><span>【サッカー観戦】いとこの勝利を願い名古屋グランパスの必勝祈願！ほのりこ名古屋Vlog！／田村保乃・遠藤理子</span></div></li>
-  <li><span class="k">2025.12</span><div><b>回転寿司 根室花まる JRタワーステラプレイス店</b><span>【札幌グルメ】井上との思い出に…いのまちゅでアポなしグルメ旅！【北海道】／井上梨名・武元唯衣・松田里奈</span></div></li>
-  <li><span class="k">2026.3</span><div><b>うなぎ料理 若松屋</b><span>【第2弾】ゆーづの西鉄ひとり旅！柳川のうなぎを求めて！【福岡】／中嶋優月</span></div></li>
-  <li><span class="k">2026.6</span><div><b>日の出製麺所</b><span>【グルメ】ちょっとお先に香川を観光＆会場視察！「マチ★アソビ Vol.30」に登壇！【カワウソと握手】／松田里奈・的野美青</span></div></li>
-  <li><span class="k">2026.9</span><div><b>ラーメン我馬 五日市店</b><span>【思い出旅】中国地方コンビでまったり広島旅！本当にずっと食べてます…！／谷口愛季・向井純葉</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-1049962f-20250516" %}<span class="wr__k">2025.5</span><b class="wr__name">あつた蓬莱軒 松坂屋店</b><span class="wr__t">【サッカー観戦】いとこの勝利を願い名古屋グランパスの必勝祈願！ほのりこ名古屋Vlog！／田村保乃・遠藤理子</span>{% include wr-close.html id="sakurazaka46-1049962f-20250516" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-a464129e-20251211" %}<span class="wr__k">2025.12</span><b class="wr__name">回転寿司 根室花まる JRタワーステラプレイス店</b><span class="wr__t">【札幌グルメ】井上との思い出に…いのまちゅでアポなしグルメ旅！【北海道】／井上梨名・武元唯衣・松田里奈</span>{% include wr-close.html id="sakurazaka46-a464129e-20251211" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-3a7fe23d-20260324" %}<span class="wr__k">2026.3</span><b class="wr__name">うなぎ料理 若松屋</b><span class="wr__t">【第2弾】ゆーづの西鉄ひとり旅！柳川のうなぎを求めて！【福岡】／中嶋優月</span>{% include wr-close.html id="sakurazaka46-3a7fe23d-20260324" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-2713b811-20260616" %}<span class="wr__k">2026.6</span><b class="wr__name">日の出製麺所</b><span class="wr__t">【グルメ】ちょっとお先に香川を観光＆会場視察！「マチ★アソビ Vol.30」に登壇！【カワウソと握手】／松田里奈・的野美青</span>{% include wr-close.html id="sakurazaka46-2713b811-20260616" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-1c293b31-20260914" %}<span class="wr__k">2026.9</span><b class="wr__name">ラーメン我馬 五日市店</b><span class="wr__t">【思い出旅】中国地方コンビでまったり広島旅！本当にずっと食べてます…！／谷口愛季・向井純葉</span>{% include wr-close.html id="sakurazaka46-1c293b31-20260914" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-1049962f-20250516,sakurazaka46-a464129e-20251211,sakurazaka46-3a7fe23d-20260324,sakurazaka46-2713b811-20260616,sakurazaka46-1c293b31-20260914" %}
 
-<h2>冠番組『そこ曲がったら、櫻坂？』で行ったお店</h2>
+<h2 id="src3">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で行ったお店</h2>
 <p>店名の上の日付は放送年月です。</p>
-<ul class="pf-works">
-  <li><span class="k">2022.1</span><div><b>銀座 柳寿司 三代目</b><span>「祝！成人メンバー大人力チェック！後半」／武元唯衣・藤吉夏鈴・森田ひかる・増本綺良（中央区 銀座）</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-b4ae6bc6-20220131" %}<span class="wr__k">2022.1</span><b class="wr__name">銀座 柳寿司 三代目</b><span class="wr__t">「祝！成人メンバー大人力チェック！後半」／武元唯衣・藤吉夏鈴・森田ひかる・増本綺良（中央区 銀座）</span>{% include wr-close.html id="sakurazaka46-b4ae6bc6-20220131" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-b4ae6bc6-20220131" %}
 
-<h2>冠番組『そこ曲がったら、櫻坂？』で紹介したお店</h2>
+<h2 id="src4">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で紹介したお店</h2>
 <p>プレゼン企画やトークで、メンバーがおすすめのお店・好きなお店として紹介したお店です。メンバーが番組でお店に行ったかは確かめられていないため、「行ったお店」とは分けて載せています。店名の上の日付は放送年月です。</p>
-<ul class="pf-works">
-  <li><span class="k">2021.4</span><div><b>麻婆豆腐TOKYO 神田本店</b><span>「まだ出していない私の一面発表会！！前半」／激辛クイーンの座をかけて、菅井友香・守屋茜・原田葵・大園玲が麻婆豆腐を食べた（千代田区 神田司町）</span></div></li>
-  <li><span class="k">2021.5</span><div><b>コチンニヴァース</b><span>「あの子のレア情報教えます！櫻坂ここだけの話！後半」／渡辺梨加がおすすめのカレー店として名前を挙げた（新宿区 西新宿）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>いけすや</b><span>「食欲の秋！どっちのグルメプレゼンショー！前半」／静岡県出身の大沼晶保がアジフライを紹介（静岡県沼津市）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>西脇大橋ラーメン</b><span>「食欲の秋！どっちのグルメプレゼンショー！前半」／兵庫県出身の井上梨名が播州ラーメンを紹介（兵庫県西脇市）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>中山亭</b><span>「食欲の秋！どっちのグルメプレゼンショー！前半」／鹿児島県出身の大園玲が肉寿司を紹介（鹿児島市）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>代官山レガーレ</b><span>「食欲の秋！どっちのグルメプレゼンショー！後半」／菅井友香が「お嬢様グルメ」としてフォアグラの黒糖ブリュレクレープ包みを紹介（渋谷区 恵比寿西）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>ビヤンネートル</b><span>「食欲の秋！どっちのグルメプレゼンショー！後半」／渡辺梨加がパフェを紹介（渋谷区 上原）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>糸切餅元祖莚寿堂</b><span>「食欲の秋！どっちのグルメプレゼンショー！後半」／滋賀県出身の武元唯衣が糸切餅を紹介（滋賀県多賀町）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>ぎおん徳屋</b><span>「食欲の秋！どっちのグルメプレゼンショー！後半」／守屋茜が修学旅行で訪れたお店として本わらびもちを紹介（京都市東山区 祇園）</span></div></li>
-  <li><span class="k">2021.9</span><div><b>佐賀牛レストラン季楽</b><span>「食欲の秋！どっちのグルメプレゼンショー！後半」／関有美子が「お嬢様グルメ」として佐賀牛のヒレステーキを紹介（佐賀市）</span></div></li>
-  <li><span class="k">2021.12</span><div><b>パフェ、珈琲、酒、佐藤</b><span>守屋茜・渡辺梨加の卒業企画／渡辺梨加がいちばん好きなパフェのお店として挙げた（札幌市中央区）</span></div></li>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="sakurazaka46-tokyo-20210419" %}<span class="wr__k">2021.4</span><b class="wr__name">麻婆豆腐TOKYO 神田本店</b><span class="wr__t">「まだ出していない私の一面発表会！！前半」／激辛クイーンの座をかけて、菅井友香・守屋茜・原田葵・大園玲が麻婆豆腐を食べた（千代田区 神田司町）</span>{% include wr-close.html id="sakurazaka46-tokyo-20210419" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-bda7e0a5-20210510" %}<span class="wr__k">2021.5</span><b class="wr__name">コチンニヴァース</b><span class="wr__t">「あの子のレア情報教えます！櫻坂ここだけの話！後半」／渡辺梨加がおすすめのカレー店として名前を挙げた（新宿区 西新宿）</span>{% include wr-close.html id="sakurazaka46-bda7e0a5-20210510" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-cd3765d1-20210920" %}<span class="wr__k">2021.9</span><b class="wr__name">いけすや</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！前半」／静岡県出身の大沼晶保がアジフライを紹介（静岡県沼津市）</span>{% include wr-close.html id="sakurazaka46-cd3765d1-20210920" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-a192e6c7-20210920" %}<span class="wr__k">2021.9</span><b class="wr__name">西脇大橋ラーメン</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！前半」／兵庫県出身の井上梨名が播州ラーメンを紹介（兵庫県西脇市）</span>{% include wr-close.html id="sakurazaka46-a192e6c7-20210920" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-d4d4f41d-20210920" %}<span class="wr__k">2021.9</span><b class="wr__name">中山亭</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！前半」／鹿児島県出身の大園玲が肉寿司を紹介（鹿児島市）</span>{% include wr-close.html id="sakurazaka46-d4d4f41d-20210920" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-bbfd13f7-20210927" %}<span class="wr__k">2021.9</span><b class="wr__name">代官山レガーレ</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！後半」／菅井友香が「お嬢様グルメ」としてフォアグラの黒糖ブリュレクレープ包みを紹介（渋谷区 恵比寿西）</span>{% include wr-close.html id="sakurazaka46-bbfd13f7-20210927" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-fa2fc099-20210927" %}<span class="wr__k">2021.9</span><b class="wr__name">ビヤンネートル</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！後半」／渡辺梨加がパフェを紹介（渋谷区 上原）</span>{% include wr-close.html id="sakurazaka46-fa2fc099-20210927" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-d51b7934-20210927" %}<span class="wr__k">2021.9</span><b class="wr__name">糸切餅元祖莚寿堂</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！後半」／滋賀県出身の武元唯衣が糸切餅を紹介（滋賀県多賀町）</span>{% include wr-close.html id="sakurazaka46-d51b7934-20210927" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-9a070f3f-20210927" %}<span class="wr__k">2021.9</span><b class="wr__name">ぎおん徳屋</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！後半」／守屋茜が修学旅行で訪れたお店として本わらびもちを紹介（京都市東山区 祇園）</span>{% include wr-close.html id="sakurazaka46-9a070f3f-20210927" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-718f1556-20210927" %}<span class="wr__k">2021.9</span><b class="wr__name">佐賀牛レストラン季楽</b><span class="wr__t">「食欲の秋！どっちのグルメプレゼンショー！後半」／関有美子が「お嬢様グルメ」として佐賀牛のヒレステーキを紹介（佐賀市）</span>{% include wr-close.html id="sakurazaka46-718f1556-20210927" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-29f01218-20211217" %}<span class="wr__k">2021.12</span><b class="wr__name">パフェ、珈琲、酒、佐藤</b><span class="wr__t">守屋茜・渡辺梨加の卒業企画／渡辺梨加がいちばん好きなパフェのお店として挙げた（札幌市中央区）</span>{% include wr-close.html id="sakurazaka46-29f01218-20211217" %}</li>
 </ul>
-{% include inline-shop-grid.html ids="sakurazaka46-tokyo-20210419,sakurazaka46-bda7e0a5-20210510,sakurazaka46-cd3765d1-20210920,sakurazaka46-a192e6c7-20210920,sakurazaka46-d4d4f41d-20210920,sakurazaka46-bbfd13f7-20210927,sakurazaka46-fa2fc099-20210927,sakurazaka46-d51b7934-20210927,sakurazaka46-9a070f3f-20210927,sakurazaka46-718f1556-20210927,sakurazaka46-29f01218-20211217" %}
 
 <p class="note">櫻坂チャンネルの動画のタイトルは公式チャンネルのものです。『そこ曲がったら、櫻坂？』の企画名は確認に使った資料のものです。この記事でいちばん古いのは2021年4月放送の回のお店で、欅坂46時代の回のお店はまだ載っていません。</p>
 
 <h2>櫻坂46の聖地 年表</h2>
 <p>この記事のお店を、動画の公開日・番組の放送日の古い順に並べました。</p>
 <div class="faq"><details><summary>年表をひらく（30軒・古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/timeline.svg" alt="櫻坂46の聖地 年表：2021年 『そこ曲がったら、櫻坂？』で紹介した麻婆豆腐TOKYO、コチンニヴァース、プレゼンショーの沼津・西脇・鹿児島・代官山・代々木上原・滋賀・京都・佐賀のお店、札幌のパフェ店。2022年 銀座 柳寿司 三代目。2023年 下北沢のカレー店、ラーメン旅第1弾の千里眼。2024年 浅草の一人焼肉、ラーメン旅の福岡・大阪・愛知・川崎。2025年 三軒茶屋の散歩、北青山の激辛チャレンジ、名古屋のVlog、ラーメン旅第5弾の糸島、不動前の一人焼肉、札幌のアポなしグルメ旅。2026年 柳川、香川、広島の旅" width="420" height="2000" loading="lazy" decoding="async"><figcaption>『そこ曲がったら、櫻坂？』のお店は放送日、櫻坂チャンネルのお店は動画の公開日です</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/timeline.svg" alt="櫻坂46の聖地 年表：2021年 『そこ曲がったら、櫻坂？』で紹介した麻婆豆腐TOKYO、コチンニヴァース、プレゼンショーの沼津・西脇・鹿児島・代官山・代々木上原・滋賀・京都・佐賀のお店、札幌のパフェ店。2022年 銀座 柳寿司 三代目。2023年 下北沢のカレー店、ラーメン旅第1弾の千里眼。2024年 浅草の一人焼肉、ラーメン旅の福岡・大阪・愛知・川崎。2025年 三軒茶屋の散歩、北青山の激辛チャレンジ、名古屋のVlog、ラーメン旅第5弾の糸島、不動前の一人焼肉、札幌のアポなしグルメ旅。2026年 柳川、香川、広島の旅" width="420" height="2950" loading="lazy" decoding="async"><figcaption>『そこ曲がったら、櫻坂？』のお店は放送日、櫻坂チャンネルのお店は動画の公開日です</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：ラーメン9軒、その他8軒、和食6軒、食事2軒、焼肉2軒、カフェ2軒、スイーツ1軒。東京都11軒、福岡県4軒、北海道・大阪府・愛知県が2軒ずつ、静岡県・滋賀県・京都府・兵庫県・佐賀県・鹿児島県・神奈川県・香川県・広島県が1軒ずつ" width="420" height="600" loading="lazy" decoding="async"><figcaption>この記事の30軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：ラーメン9軒、その他8軒、和食6軒、食事2軒、焼肉2軒、カフェ2軒、スイーツ1軒。東京都11軒、福岡県4軒、北海道・大阪府・愛知県が2軒ずつ、静岡県・滋賀県・京都府・兵庫県・佐賀県・鹿児島県・神奈川県・香川県・広島県が1軒ずつ" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の30軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>櫻坂46の公式YouTubeチャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -186,6 +186,7 @@ courses:
 </div>
 
 <h2>エリアで巡るなら</h2>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/map.svg" alt="櫻坂46が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
 <p>番組で紹介しただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>駒場・下北沢・三軒茶屋</strong>：「日本ラーメン旅」第1弾の千里眼（目黒区駒場）、土生瑞穂のVlogのCurry Spice Gelateria KALPASI（世田谷区北沢）、石森璃花・中嶋優月の三軒茶屋の散歩の回のお店。</li>
