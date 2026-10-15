@@ -201,7 +201,7 @@ courses:
 <figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事12軒、和食8軒、スイーツ7軒、焼肉4軒、カフェ3軒、中華2軒、居酒屋1軒、その他1軒。東京都内は中央区8軒、千代田区4軒、港区4軒、渋谷区3軒、台東区・豊島区・新宿区が1軒ずつ。東京の外は高知県4軒、大阪府4軒、奈良県2軒、埼玉県2軒、北海道・岐阜県・静岡県・山形県が1軒ずつ" width="420" height="762" loading="lazy" decoding="async"><figcaption>この記事の38軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/map.svg" alt="KinKi Kidsが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/map.svg" alt="この記事に載っているKinKi Kidsの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>築地</strong>：築地 魚政 Tsukiji Fish Burger MASA と東印度カレー商会 築地場外店（どちらも築地市場駅 徒歩5分）。ももいろクローバーZとの築地グルメ企画の2軒です。</li>

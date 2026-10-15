@@ -239,7 +239,7 @@ courses:
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/map.svg" alt="Aぇ!groupが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/map.svg" alt="この記事に載っているAぇ! groupの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>六本木・麻布十番・西麻布</strong>：賛田飯店（六本木5丁目）、しゃぶしゃぶ温野菜 六本木店（六本木駅 徒歩2分）、牛牛 西麻布 総本店（六本木駅 徒歩6分）、麻布十番の福島屋。Aぇちゅ〜ぶの4軒がまとまっています。</li>
