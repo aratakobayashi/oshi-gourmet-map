@@ -46,9 +46,18 @@ faq:
   - q: "中丸銀河ちゃんねるのお店をまとめて地図で見られますか？"
     a: "「お店を探す」で中丸雄一 銀河チャンネルを選ぶと、この記事の12軒を地図で見られます。高知・長崎・鹿児島の3軒もまとめて表示されます。"
 pr: true
+techo: true
+cover_ids: "ginga-46244fe9-202402,ginga-24823ef5-202406,ginga-okudo-202407"
+cover_title: "中丸銀河ちゃんねる 聖地巡礼帳"
+cover_sub: "【中丸のグルメ】ほか12軒"
+courses:
+  - title: "豊洲から新橋へ：千客万来と猪狩蒼弥との2軒"
+    stops: [ginga-24823ef5-202406, ginga-44b85f76-202403, ginga-cb38ce4c-202406]
+    labels: ["豊洲 千客万来", "京都 瓢嘻（新橋）", "和食いぶり別邸 新橋店"]
+    legs: ["市場前→新橋はゆりかもめで乗り換えなし", ""]
 ---
 
-<div class="pf" style="--pc:#6366f1">
+<div class="pf pf--techo" style="--pc:#6366f1">
 
 <p><strong>中丸雄一</strong>のYouTubeチャンネル「中丸銀河ちゃんねる」。タイトルに<strong>【中丸のグルメ】</strong>と付いた回では、高知のカツオ、長崎のクジラ、鹿児島の旅、東京の豊洲や新大久保へと出かけて食べています。</p>
 
@@ -60,7 +69,18 @@ pr: true
 </div>
 {% include matome-members.html group="ginga" %}
 
-<h2>ひと目でわかる 中丸銀河ちゃんねるのグルメ</h2>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>12軒のなかから、東京にあって、中丸雄一がお店で食べた回の3軒を選びました。</p>
+<div class="picks">
+{% include pick.html id="ginga-okudo-202407" no="其の一" why="【中丸のグルメ】「新大久保に乗り込んで、話題になってそうなスイーツを探してみた」（2024年7月）の回。ソボロパン（ブラックココアチーズ）とクァベキ（ストロベリー生クリーム）、アールグレイを頼んでいます。新宿区の新大久保です。" %}
+{% include pick.html id="ginga-44b85f76-202403" no="其の二" why="「猪狩蒼弥とメシ」（2024年3月公開）の回。猪狩蒼弥と【銘柄豚】出汁しゃぶ会席「京 きょう」を食べたお店です。港区の新橋です。" %}
+{% include pick.html id="ginga-cb38ce4c-202406" no="其の三" why="「HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった」（2024年6月）の回。猪狩蒼弥と金目鯛と仙台牛の銘々会席を食べたお店です。港区の新橋です。" %}
+</div>
+
+<h2>半日で巡るなら：豊洲から新橋へ</h2>
+<p>昼は【中丸のグルメ】の豊洲 千客万来、夜は新橋で猪狩蒼弥と訪れた2軒のどちらかへ。千客万来の最寄りの市場前駅から新橋駅までは、ゆりかもめで乗り換えなしです。</p>
+<figure class="fig course"><img src="/assets/img/posts/ginga-gourmet-matome/course-1.svg" alt="豊洲から新橋へのコース図。1 豊洲の豊洲 千客万来、2 北西の新橋の京都 瓢嘻（市場前駅から新橋駅までゆりかもめで乗り換えなし）、3 すぐ近くの和食いぶり別邸 新橋店" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+
 
 <div class="pf-quote"><p>【中丸のグルメ】の5本のうち3本が、高知・長崎・鹿児島への旅の回です。東京の回は豊洲の千客万来と新大久保のスイーツ。猪狩蒼弥との2本はどちらも新橋の和食のお店で、会席を頼んでいます。お店のある回は、2024年2月から7月までに公開されたものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -106,7 +126,7 @@ pr: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/genre.svg" alt="お店のジャンルと場所の図" width="420" height="490" loading="lazy" decoding="async"><figcaption>この記事の12軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事7軒、和食2軒、カフェ2軒、居酒屋1軒。場所は新宿区3軒、港区2軒、江東区・渋谷区・目黒区・中央区が1軒ずつ。東京の外は高知県高知市・長崎県西海市・鹿児島県枕崎市が1軒ずつ" width="420" height="490" loading="lazy" decoding="async"><figcaption>この記事の12軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>中丸銀河ちゃんねるの公式動画から4本を選びました（タップすると再生します）。</p>
@@ -118,7 +138,7 @@ pr: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/map.svg" alt="中丸雄一 銀河チャンネルが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/map.svg" alt="中丸銀河ちゃんねるのお店のうち東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>新大久保</strong>：大久堂 OKUDO カフェ・スタジオカフェ MARU（どちらも新大久保駅 徒歩3分）。同じ回の2軒です。</li>

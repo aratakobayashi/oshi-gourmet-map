@@ -79,9 +79,18 @@ faq:
   - q: "亀梨和也さんのお店をまとめて地図で見られますか？"
     a: "「お店を探す」で亀梨和也を選ぶと、この記事の41軒を地図で見られます。"
 pr: true
+techo: true
+cover_ids: "kamenashi-ushigoro_s_ginza-20250816,kamenashi-0a3faf7a-202410,kamenashi-df0d89b3-202407"
+cover_title: "亀梨和也 聖地巡礼帳"
+cover_sub: "亀梨和也チャンネルの41軒"
+courses:
+  - title: "原宿・神宮前の3軒"
+    stops: [kamenashi-0a3faf7a-202410, kamenashi-e27eb84b-202404, kamenashi-hohokam_diner-20240413]
+    labels: ["一蘭 原宿店", "九州じゃんがら原宿店", "Hohokam DINER"]
+    legs: ["", ""]
 ---
 
-<div class="pf" style="--pc:#059669">
+<div class="pf pf--techo" style="--pc:#059669">
 
 <p>元KAT-TUNの<strong>亀梨和也</strong>（KAT-TUNは2025年3月31日に解散）。公式YouTube「亀梨和也チャンネル」には、Snow Man・なにわ男子・Travis Japan・WEST.の後輩とごはんに行く回、鈴木福たち共演者と出かける回、【ぼっち】のひとりごはんの回、宮崎・京都・大阪から海外のスイスまでの旅や仕事先の回と、お店が登場する動画がたくさんあります。</p>
 
@@ -93,8 +102,18 @@ pr: true
 </div>
 {% include matome-members.html group="kamenashi" %}
 
-<h2>ひと目でわかる 亀梨和也のグルメ</h2>
-<p>（あとで差し替え）</p>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>41軒のなかから、東京で行きやすく、企画の違う回のお店を3つ選びました。</p>
+<div class="picks">
+{% include pick.html id="kamenashi-0a3faf7a-202410" no="其の一" why="「【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！」（2024年10月）の回。Snow Manの宮舘涼太と、数年ぶりに一蘭のラーメンを食べています。お店は東京の神宮前（原宿）です。" %}
+{% include pick.html id="kamenashi-df0d89b3-202407" no="其の二" why="「【ぼっち】亀梨和也がひとりで焼肉を食べるだけの動画。」（2024年7月）の回。古今ユッケ、特選タン、特選ハラミ、上ロース、古今ロイヤルバーガーなどをひとりで頼んでいます。お店は東京の西麻布です。" %}
+{% include pick.html id="kamenashi-6d080bbe-202503" no="其の三" why="「【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！」（2025年3月）の回。亀竹もんじゃ、上海焼きそば、ホタテバター焼きなどを頼んでいます。お店は東京の月島です。" %}
+</div>
+
+<h2>半日で巡るなら：原宿・神宮前の3軒</h2>
+<p>宮舘涼太と食べた一蘭から、越岡裕貴とジュニア時代を語ったじゃんがら、そのあとに立ち寄ったHohokam DINERまで。3軒とも神宮前にあります。</p>
+<figure class="fig course"><img src="/assets/img/posts/kamenashi-gourmet-matome/course-1.svg" alt="原宿・神宮前のコース図。1 一蘭 原宿店（神宮前6丁目）、2 九州じゃんがら原宿店（神宮前1丁目）、3 Hohokam DINER（神宮前1丁目）。3軒とも原宿駅・明治神宮前駅の近く" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+
 
 <div class="pf-quote"><p>41軒のうち19軒は、後輩・仲間や共演者・ゲストと一緒の回です。一方で、タイトルに「ぼっち」「1人」が入るひとりごはんの回も続いていて、東京の焼肉から宮崎・京都・福岡・堺まで登場します。2025年からは大阪の回が増え、2026年は鈴木福との湯島の回や、初めての麻辣湯の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -188,7 +207,7 @@ pr: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/kamenashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：焼肉8軒、和食8軒、ラーメン7軒、食事5軒、居酒屋4軒、スイーツ3軒、その他3軒、中華2軒、カフェ1軒。場所は東京都22軒、大阪府4軒、京都府3軒、宮崎県3軒、兵庫県2軒、神奈川県・福岡県・岡山県・鳥取県・岩手県・山梨県とスイスが1軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の41軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kamenashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：焼肉8軒、和食8軒、ラーメン7軒、食事5軒、居酒屋4軒、その他3軒、スイーツ3軒、中華2軒、カフェ1軒。場所は渋谷区5軒、中央区5軒、品川区3軒、宮崎市3軒、京都市3軒、台東区・新宿区・港区・文京区・兵庫県豊岡市が2軒ずつ、江東区・横浜市・岡山県備前市・大阪市が1軒ずつ、ほか8か所に1軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の41軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>「亀梨和也チャンネル」から、企画の違う4本を選びました（タップすると再生します）。</p>
