@@ -9646,12 +9646,17 @@
     ],
     "group": "neajoy",
     "nearest_station": "水道橋駅 徒歩3分",
-    "description": "千代田区のラーメン店。江角怜音・大信田美月が2026年4月に訪れた。≒JOYの江角怜音・大信田美月が訪れたラーメン店。",
+    "description": "≒JOYの公式YouTube（イコラブ ノイミー ニアジョイ チャンネル）の「【#ニアジョイらーめん部】SUSURUさんのお店で爆食したら…【北ノ醤油チーホー】」（2026年4月）で、江角怜音と大信田美月がSUSURUと一緒に食べた神保町・水道橋の醤油ラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13320219/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/igZmyXp6zKI/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "with": [
+      "SUSURU"
+    ]
   },
   {
     "id": "equal_love-38e32469-202603",
@@ -9802,13 +9807,16 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "中頭郡北谷町のカフェ。鈴木瞳美が2024年11月に訪れた。中頭郡北谷町のカフェ。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れたカフェ。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜」（2024年11月）で、ツアーの自由時間に訪れた北谷町アメリカンビレッジのタコライスのカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47007592/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000987614/",
     "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/03/P028996503/P028996503_238.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "店名は説明欄になくファンブログ（miruwz7.blog.jp）のロケ地一覧による"
   },
   {
     "id": "notme-b9e687dc-202411",
@@ -9830,12 +9838,15 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "中頭郡北谷町のカフェ。鈴木瞳美が2024年11月に訪れた。中頭郡北谷町のカフェ。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れたカフェ。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜」（2024年11月）で訪れた、アメリカンビレッジのブルーシールのカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "店名は説明欄になくファンブログのロケ地一覧による"
   },
   {
     "id": "notme-30129d4e-202411",
@@ -9857,12 +9868,15 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "中頭郡北谷町のスイーツショップ。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れたスイーツ店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜」（2024年11月）で訪れた、アメリカンビレッジのクレープ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/okinawa/A4703/A470304/47033637/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "店名は説明欄になくファンブログのロケ地一覧による"
   },
   {
     "id": "notme-304ed516-202411",
@@ -9885,12 +9899,15 @@
     ],
     "group": "notme",
     "nearest_station": "巣鴨駅 徒歩4分",
-    "description": "豊島区のスイーツショップ。尾木波菜・河口夏音が2024年11月に訪れた。≠MEの尾木波菜・河口夏音が訪れたスイーツ店。",
+    "description": "≠MEの公式YouTube（イコラブ ノイミー ニアジョイ チャンネル）の「【かき氷】念願🥹！かき氷が好きすぎる二人で大人気店に行ってきました🍧…」（2024年11月）で、尾木波菜と河口夏音が訪れた巣鴨のかき氷店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13169371/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ZSCnrDeujnM/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "notme-d25dc737-202411",
@@ -9905,19 +9922,23 @@
     "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
-      "鈴木瞳美"
+      "鈴木瞳美",
+      "尾木波菜"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "熱海市のレストラン。鈴木瞳美が2024年11月に訪れた。熱海市のレストラン。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れた飲食店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】熱海でまったり食べ歩きの旅」（2024年11月）で、熱海駅前の商店街で立ち寄った揚げかまぼこの店。尾木波菜も一緒の日帰り旅。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22002100/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "説明欄に「メンバーのおぎはなもいるよ」とあり尾木波菜を追加。店名はファンブログのロケ地一覧による"
   },
   {
     "id": "notme-a542cec1-202411",
@@ -9932,19 +9953,23 @@
     "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
-      "鈴木瞳美"
+      "鈴木瞳美",
+      "尾木波菜"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "熱海市のレストラン。鈴木瞳美が2024年11月に訪れた。熱海市のレストラン。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れた飲食店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】熱海でまったり食べ歩きの旅」（2024年11月）で、熱海駅前の平和通り名店街で立ち寄った干物・名産品の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22026322/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "尾木波菜を追加（説明欄）。店名はファンブログのロケ地一覧による。食べ歩きか買い物だけかは未確認"
   },
   {
     "id": "notme-4e507645-202411",
@@ -9959,19 +9984,23 @@
     "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
-      "鈴木瞳美"
+      "鈴木瞳美",
+      "尾木波菜"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "jr熱海駅 徒歩5分",
-    "description": "熱海市のスイーツショップ。鈴木瞳美が2024年11月に訪れた。熱海市のスイーツショップ。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れたスイーツ店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】熱海でまったり食べ歩きの旅」（2024年11月）で立ち寄った、熱海駅前の焼き菓子「ばたーあん」の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22043577/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "尾木波菜を追加（説明欄）。店名はファンブログのロケ地一覧による"
   },
   {
     "id": "notme-1st-202411",
@@ -9986,19 +10015,23 @@
     "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
     "visited_date": "2024-11-01",
     "members": [
-      "鈴木瞳美"
+      "鈴木瞳美",
+      "尾木波菜"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "熱海市のスイーツショップ。鈴木瞳美が2024年11月に訪れた。熱海市のスイーツショップ。鈴木瞳美が2024年11月に訪れた。≠MEの鈴木瞳美が訪れたスイーツ店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】熱海でまったり食べ歩きの旅」（2024年11月）で立ち寄った、熱海駅前のプリン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22031988/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "尾木波菜を追加（説明欄）。店名はファンブログのロケ地一覧による"
   },
   {
     "id": "equal_love-62bce5f5-202410",
@@ -10050,12 +10083,15 @@
     ],
     "group": "notme",
     "nearest_station": "都電雑司ヶ谷駅 徒歩5分",
-    "description": "豊島区の焼肉店。鈴木瞳美が2024年10月に訪れた。豊島区の焼肉店。鈴木瞳美が2024年10月に訪れた。≠MEの鈴木瞳美が訪れた焼肉店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の最初の動画「大好きなお肉を好きなだけ食べる」（2024年10月）で、1人焼肉をした池袋の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13155152/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "店名・店舗はファンブログのロケ地一覧による（説明欄に店名なし）"
   },
   {
     "id": "equal_love-a330c186-202409",
@@ -10130,8 +10166,8 @@
     "source_video_title": "【鳥貴族】メンバーの大好きなメニューからニアジョイ最推し3品を決めよう！！",
     "visited_date": "2024-09-10",
     "members": [
-      "小澤愛実",
       "市原愛弓",
+      "小澤愛実",
       "藤沢莉子",
       "村山結香"
     ],
@@ -10140,12 +10176,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "西武新宿駅 徒歩3分",
-    "description": "新宿区の居酒屋。小澤愛実・市原愛弓・藤沢莉子らが2024年9月に訪れた。≒JOYの小澤愛実・市原愛弓らが訪れた居酒屋。",
+    "description": "≒JOYの公式YouTubeの「【鳥貴族】メンバーの大好きなメニューからニアジョイ最推し3品を決めよう！！」（2024年9月）で、市原愛弓・小澤愛実・藤沢莉子・村山結香が訪れた西新宿の焼き鳥店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13282850/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/qH_unOQG65g/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "notme-b2f81d0e-202408",
@@ -10168,13 +10207,16 @@
     ],
     "group": "notme",
     "nearest_station": "東銀座駅 徒歩2分",
-    "description": "中央区の焼肉店。蟹沢萌子・冨田菜々風が2024年8月に訪れた。≠MEの蟹沢萌子・冨田菜々風が訪れた焼肉店。",
+    "description": "≠MEの公式YouTubeの「【ちょこもなか】菜々風の誕生日お祝い焼肉会をしてました！【うしごろ】」（2024年8月）で、蟹沢萌子と冨田菜々風が冨田菜々風の誕生日祝いをした銀座の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13226719/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/2K6Hh_G1uZg/hqdefault.jpg",
     "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "tabelog_verified": true
+    "tabelog_verified": true,
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-323e7d79-202408",
@@ -10809,18 +10851,34 @@
     "youtube_id": "lp8-ltk3kN4",
     "source_video_title": "【激ウマ】スイパラさんに皆で行ってきました！！コラボカフェメニューが美味しすぎる🍰",
     "visited_date": "2024-05-24",
-    "members": [],
+    "members": [
+      "逢田珠里依",
+      "天野香乃愛",
+      "市原愛弓",
+      "江角怜音",
+      "大信田美月",
+      "大西葵",
+      "小澤愛実",
+      "髙橋舞",
+      "藤沢莉子",
+      "村山結香",
+      "山田杏佳",
+      "山野愛月"
+    ],
     "groups": [
       "neajoy"
     ],
     "group": "neajoy",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩5分",
-    "description": "渋谷区のスイーツショップ。≒JOYが訪れたロケ地。渋谷区のスイーツショップ。≒JOYが訪れたロケ地。≒JOYが訪れたスイーツ店。",
+    "description": "≒JOYの公式YouTubeの「【激ウマ】スイパラさんに皆で行ってきました！！…」（2024年5月）で、メンバー12人全員が≒JOYのコラボカフェに行った原宿のスイーツビュッフェ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13049884/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/lp8-ltk3kN4/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "コラボカフェ「≒JOY Cafe in SWEETS PARADISE」（ファンブログでは2024年5月2日〜31日）。店舗はファンブログによる。members が空だったため説明欄の出演12人を入れた"
   },
   {
     "id": "neajoy-b1d5f8cd-202408",
@@ -10843,12 +10901,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "千駄木駅 徒歩4分",
-    "description": "文京区のカフェ。市原愛弓・山野愛月が2024年8月に訪れた。≒JOYの市原愛弓・山野愛月が訪れたカフェ。",
+    "description": "≒JOYの公式YouTubeの「【癒やし回と思ったら】あゆみんが鳥カフェに連れて行ってくれました🐤…」（2024年4月）で、市原愛弓と山野愛月が訪れた千駄木の鳥のいるカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/HrmydlHejtk/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-dc047633-202408",
@@ -10962,13 +11023,16 @@
     ],
     "group": "neajoy",
     "nearest_station": "南方駅 徒歩1分",
-    "description": "大阪市のラーメン店。大信田美月・山野愛月が2024年8月に訪れた。≒JOYの大信田美月・山野愛月が訪れたラーメン店。",
+    "description": "≒JOYの公式YouTubeの「【人類みな麺類】地元、大阪の大行列店へ！…【ニアジョイらーめん部🍜】」（2024年2月）で、大信田美月と山野愛月が訪れた大阪・西中島のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27064584/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/9LRdo4bj-ww/hqdefault.jpg",
     "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "tabelog_verified": true
+    "tabelog_verified": true,
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力と住所の記載"
   },
   {
     "id": "neajoy-14f3ebca-202408",
@@ -10994,12 +11058,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "",
-    "description": "足柄下郡箱根町のレストラン。天野香乃愛・市原愛弓・江角怜音らが2024年8月に訪れた。≒JOYの天野香乃愛・市原愛弓らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、天野香乃愛・市原愛弓・江角怜音・大信田美月・髙橋舞が立ち寄った箱根ロープウェイ大涌谷駅の売店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14053358/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "主に土産物の売店。目次の「名物黒たまごのお味は？」の黒たまごをここで買ったかは未確認。住所は番地なし"
   },
   {
     "id": "notme-273b4aa9-202408",
@@ -11022,40 +11089,15 @@
     ],
     "group": "notme",
     "nearest_station": "京橋駅 徒歩2分",
-    "description": "中央区の焼肉店。蟹沢萌子・冨田菜々風が2024年8月に訪れた。≠MEの蟹沢萌子・冨田菜々風が訪れた焼肉店。",
+    "description": "≠MEの公式YouTubeの「【トラジ】「イコノイジョイ2023の裏話！」…焼肉食べながら語ります💎」（2023年10月）で、軽井沢ロケのあとに蟹沢萌子と冨田菜々風が焼肉を食べた京橋の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130201/13154977/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/8Ydv8IXxHjE/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
-    "id": "notme-37c541ad-202408",
-    "name": "凸凹堂軽井沢",
-    "genre": "shokuji",
-    "prefecture": "長野県",
-    "city": "北佐久郡軽井沢町",
-    "address": "長野県北佐久郡軽井沢町軽井沢７８８−１",
-    "lat": 36.3425512,
-    "lng": 138.6351092,
-    "youtube_id": "UC_nxGtuqAg",
-    "source_video_title": "【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】",
-    "visited_date": "2023-10-16",
-    "members": [
-      "蟹沢萌子",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "軽井沢駅 徒歩1分",
-    "description": "長野県のレストラン。蟹沢萌子・冨田菜々風が2024年8月に訪れた。≠MEの蟹沢萌子・冨田菜々風が訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "notme-db5ba582-202408",
@@ -11078,12 +11120,15 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "長野県のスイーツショップ。蟹沢萌子・冨田菜々風が2024年8月に訪れた。≠MEの蟹沢萌子・冨田菜々風が訪れたスイーツ店。",
+    "description": "≠MEの公式YouTubeの「【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】」（2023年10月）で、蟹沢萌子と冨田菜々風が旧軽井沢銀座で立ち寄ったはちみつの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20019057/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に店名なし、ファンブログのロケ地一覧による。はちみつの物販店で、食べたか買い物だけかは未確認"
   },
   {
     "id": "neajoy-403503b7-202408",
@@ -11106,12 +11151,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "新井薬師前駅 徒歩10分",
-    "description": "中野区のラーメン店。大信田美月・山田杏佳が2024年8月に訪れた。≒JOYの大信田美月・山田杏佳が訪れたラーメン店。",
+    "description": "≒JOYの公式YouTubeの「【天下一品】朝からラーメン！衝撃のこってりの世界へ！【ニアジョイらーめん部🍜】」（2023年10月）で、大信田美月と山田杏佳が訪れた天下一品の中野店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131902/13253244/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/vr2cC8gr6HM/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店舗（中野店）は説明欄になくファンブログによる"
   },
   {
     "id": "equal_love-tetsu-202408",
@@ -11166,12 +11214,15 @@
     ],
     "group": "notme",
     "nearest_station": "伊豆多賀駅 徒歩10分",
-    "description": "熱海市のスイーツショップ。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れたスイーツ店。",
+    "description": "≠MEの公式YouTubeの「【お泊りロケ】熱海で1泊2日の旅！超巨大プリン！？…【熱海旅#1】」（2023年1月）で、蟹沢萌子・河口夏音・菅波美玲・冨田菜々風が超巨大プリンを食べた熱海のプリン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22035146/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/fSBicVF8TfQ/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力「熱海プリン食堂」・目次に「超巨大！熱海プリン」"
   },
   {
     "id": "equal_love-93d5e98f-202408",
@@ -11228,20 +11279,24 @@
     "members": [
       "鈴木瞳美",
       "谷崎早耶",
-      "冨田菜々風"
+      "冨田菜々風",
+      "河口夏音"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "大須観音駅 徒歩3分",
-    "description": "名古屋市のレストラン。鈴木瞳美・谷崎早耶・冨田菜々風が2024年8月に訪れた。≠MEの鈴木瞳美・谷崎早耶らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【名古屋来た】お仕事の合間に大須商店街へ！グルメを堪能😋…」（2022年11月）で、鈴木瞳美・谷崎早耶・冨田菜々風・河口夏音が訪れた大須のとんかつ・みそかつの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230105/23077899/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001260432/",
     "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/10/91/P046261091/P046261091_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。説明欄の出演メンバーに河口夏音もいるため追加"
   },
   {
     "id": "notme-897b73f1-202408",
@@ -11258,19 +11313,23 @@
     "members": [
       "鈴木瞳美",
       "谷崎早耶",
-      "冨田菜々風"
+      "冨田菜々風",
+      "河口夏音"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "大須観音駅 徒歩3分",
-    "description": "名古屋市のレストラン。鈴木瞳美・谷崎早耶・冨田菜々風が2024年8月に訪れた。≠MEの鈴木瞳美・谷崎早耶らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【名古屋来た】お仕事の合間に大須商店街へ！グルメを堪能😋…」（2022年11月）で立ち寄った、大須の「不思議の国のアリス」がテーマの雑貨とお菓子の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230105/23053194/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/xPGJTsYsPvk/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。ただし雑貨・お菓子の物販店で、店内で食べたかは未確認。河口夏音を追加"
   },
   {
     "id": "neajoy-ea607bdf-202408",
@@ -11294,12 +11353,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "浅草駅 徒歩5分",
-    "description": "台東区のレストラン。髙橋舞・村山結香・山野愛月が2024年8月に訪れた。≒JOYの髙橋舞・村山結香らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】」（2022年11月）で、髙橋舞・村山結香・山野愛月が浅草食べ歩きで焼きみたらしを食べた雷門近くの団子の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13049685/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名・食べた物はファンブログによる"
   },
   {
     "id": "neajoy-cc4ef957-202408",
@@ -11323,12 +11385,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "浅草駅 徒歩5分",
-    "description": "台東区のレストラン。髙橋舞・村山結香・山野愛月が2024年8月に訪れた。≒JOYの髙橋舞・村山結香らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】」（2022年11月）で、髙橋舞・村山結香・山野愛月が雷門チーズメンチカツを食べた浅草の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13231645/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/LSUtYiOct4c/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名・食べた物はファンブログによる"
   },
   {
     "id": "equal_love-a1e545b6-202408",
@@ -11410,13 +11475,16 @@
     ],
     "group": "notme",
     "nearest_station": "近鉄日本橋駅 徒歩5分",
-    "description": "大阪市のレストラン。≠MEが訪れたロケ地。大阪市のレストラン。≠MEが訪れたロケ地。≠MEが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【全員集合】≠MEは大阪に行ってきました！！」（2021年8月）で、大阪での仕事の合間に立ち寄った道頓堀のかに料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001451/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000018294/",
     "thumbnail_url": "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/21/P051163121/P051163121_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力の記載なし（ファンブログのロケ地一覧による）。看板の前で写真を撮っただけか食事をしたか、どのメンバーかは未確認。出演は12人全員（当時）"
   },
   {
     "id": "equal_love-bcaeeee2-202408",
@@ -11490,21 +11558,24 @@
     "source_video_title": "【極貧旅！？】難問に答えてロケ費を稼げ！クイズの旅in下北沢",
     "visited_date": "2021-01-15",
     "members": [
-      "冨田菜々風",
-      "蟹沢萌子"
+      "蟹沢萌子",
+      "冨田菜々風"
     ],
     "groups": [
       "notme"
     ],
     "group": "notme",
     "nearest_station": "下北沢駅 徒歩2分",
-    "description": "世田谷区のスイーツショップ。冨田菜々風・蟹沢萌子が2024年8月に訪れた。≠MEの冨田菜々風・蟹沢萌子が訪れたスイーツ店。",
+    "description": "≠MEの公式YouTubeの「【極貧旅！？】難問に答えてロケ費を稼げ！クイズの旅in下北沢」（2021年1月）で、蟹沢萌子と冨田菜々風が訪れた下北沢のパンケーキ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13197095/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001259102/",
     "thumbnail_url": "https://img.youtube.com/vi/o8PItsNaK7U/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/33/P036642233/P036642233_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名はファンブログのロケ地一覧による"
   },
   {
     "id": "notme-c1966798-202408",
@@ -11529,12 +11600,15 @@
     ],
     "group": "notme",
     "nearest_station": "元町・中華街駅 徒歩2分",
-    "description": "横浜市の中華料理店。蟹沢萌子・河口夏音・鈴木瞳美らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【幸せ】夜の横浜中華街で食べ歩きしながら語ってきました！」（2021年1月公開・2020年11月収録）で、蟹沢萌子・河口夏音・鈴木瞳美・谷崎早耶が立ち寄った横浜中華街の餃子の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14074121/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/z7JkgbJj-sY/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名はファンブログのロケ地一覧による"
   },
   {
     "id": "equal_love-acc7e129-202408",
@@ -11717,12 +11791,15 @@
     ],
     "group": "notme",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩5分",
-    "description": "渋谷区のカフェ。菅波美玲・谷崎早耶が2024年8月に訪れた。≠MEの菅波美玲・谷崎早耶が訪れたカフェ。",
+    "description": "≠MEの公式YouTubeの「【もふもふ】猫カフェデートしてきました♡【癒し】」（2020年11月）で、菅波美玲と谷崎早耶が訪れた原宿の猫カフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/Iz_DvhCMMwU/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-27c61836-202601",
@@ -11855,20 +11932,26 @@
     "source_video_title": "【ドッキリ】みそきんでラーメンを食べようとしたらまさかのヒカキンさん登場に2人はどうする・・・！？【ニアジョイらーめん部】",
     "visited_date": "2025-10-27",
     "members": [
-      "大信田美月",
-      "江角怜音"
+      "江角怜音",
+      "大信田美月"
     ],
     "groups": [
       "neajoy"
     ],
     "group": "neajoy",
     "nearest_station": "東京駅 徒歩1分",
-    "description": "千代田区のラーメン店。大信田美月・江角怜音が2025年10月に訪れた。≒JOYの大信田美月・江角怜音が訪れたラーメン店。",
+    "description": "≒JOYの公式YouTubeの「【ドッキリ】みそきんでラーメンを食べようとしたらまさかのヒカキンさん登場に…【ニアジョイらーめん部】」（2025年10月）で、江角怜音と大信田美月が訪れた東京駅一番街のラーメン店。ヒカキンがラーメンを運んで登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13319902/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/lJog7xVHLH4/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "with": [
+      "ヒカキン"
+    ],
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "neajoy-9538e782-202510",
@@ -11893,13 +11976,16 @@
     ],
     "group": "neajoy",
     "nearest_station": "有楽町駅 徒歩3分",
-    "description": "千代田区の居酒屋。髙橋舞・山野愛月・大西葵らが2025年10月に訪れた。≒JOYの髙橋舞・山野愛月らが訪れた居酒屋。",
+    "description": "≒JOYの公式YouTubeの「【爆食】串カツ田中で食べ放題！…」（2025年10月）で、天野香乃愛・大西葵・髙橋舞・山野愛月が食べ放題に挑んだ有楽町の串カツ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13241046/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001257922/",
     "thumbnail_url": "https://img.youtube.com/vi/cnXygUoYIIE/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-2c58e013-202509",
@@ -12134,12 +12220,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "元町・中華街駅 徒歩3分",
-    "description": "横浜市のカフェ。逢田珠里依・山田杏佳が2025年9月に訪れた。≒JOYの逢田珠里依・山田杏佳が訪れたカフェ。",
+    "description": "≒JOYの公式YouTubeの「【Vlog】ももじゅり2人で中華街で遊んできました🐼🎶…」（2025年9月）で、逢田珠里依と山田杏佳が訪れた横浜中華街のサモエドのいるカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力と住所の記載。同じ回の「香港大飯店」（撮影協力）は未登録"
   },
   {
     "id": "equal_love-26520a35-202508",
@@ -12395,12 +12484,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "目黒駅 徒歩8分",
-    "description": "目黒区のラーメン店。大信田美月・天野香乃愛が2025年6月に訪れた。≒JOYの大信田美月・天野香乃愛が訪れたラーメン店。",
+    "description": "≒JOYの公式YouTubeの「【魂心家】家系ラーメン&ライス爆食🍜🍚…【ニアジョイらーめん部】」（2025年6月）で、大信田美月と天野香乃愛が家系ラーメンとライスを食べた目黒の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13118047/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/aEKmiuXtZx8/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。ファンブログによると大信田は631ラーメン（醤油）、天野は魂心らーめん（味噌）"
   },
   {
     "id": "equal_love-287b97eb-202506",
@@ -12452,13 +12544,16 @@
     ],
     "group": "neajoy",
     "nearest_station": "つくばエクスプレス 浅草駅 徒歩２分",
-    "description": "台東区のもんじゃ焼き店。市原愛弓・江角怜音が2025年6月に訪れた。≒JOYの市原愛弓・江角怜音が訪れたもんじゃ店。",
+    "description": "≒JOYの公式YouTubeの「【浅草】最高においしいもんじゃ焼きを食べながら超雑談」（2025年6月）で、市原愛弓と江角怜音がもんじゃ焼きを食べた浅草の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13300191/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003893135/",
     "thumbnail_url": "https://img.youtube.com/vi/9ZWbXuY-nc4/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/73/P045544573/P045544573_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力と住所の記載"
   },
   {
     "id": "equal_love-ab8c67a3-202505",
@@ -12540,13 +12635,16 @@
     ],
     "group": "notme",
     "nearest_station": "渋谷駅 徒歩8分",
-    "description": "渋谷区の居酒屋。冨田菜々風・櫻井ももが2025年5月に訪れた。≠MEの冨田菜々風・櫻井ももが訪れた居酒屋。",
+    "description": "≠MEの公式YouTubeの「【大漁】自分で釣ってすぐ食べる！釣りができるお店に行ってみたら楽しすぎた🐟🎶」（2025年5月）で、冨田菜々風と櫻井ももが魚を釣って食べた渋谷の釣り堀のある居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13006709/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001127647/",
     "thumbnail_url": "https://img.youtube.com/vi/ySSbRZtJti8/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/00/P036845200/P036845200_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-68911978-202504",
@@ -12714,12 +12812,15 @@
     ],
     "group": "notme",
     "nearest_station": "浅草駅 徒歩5分",
-    "description": "台東区のレストラン。鈴木瞳美が2025年1月に訪れた。台東区のレストラン。鈴木瞳美が2025年1月に訪れた。≠MEの鈴木瞳美が訪れた飲食店。",
+    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】浅草で、ひと巫女さんになりました🦊」（2025年1月）で、浅草散歩の途中に立ち寄ったフルーツの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13258203/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/LdUACXvOHqE/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。"
+    "source_video_channel": "わたしはすずき。",
+    "visit_kind": "youtube",
+    "program": "わたしはすずき。",
+    "qa_note": "店名はファンブログのロケ地一覧による。何を食べたかは未確認"
   },
   {
     "id": "notme-720f6f5f-202412",
@@ -12744,13 +12845,16 @@
     ],
     "group": "notme",
     "nearest_station": "JR 飯田橋駅 徒歩5分",
-    "description": "新宿区のレストラン。鈴木瞳美・櫻井もも・河口夏音らが2024年12月に訪れた。≠MEの鈴木瞳美・櫻井ももらが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【ノイミー忘年会】2024年を振り返りながら楽しくご飯を食べました🥩❣️」（2024年12月）で、鈴木瞳美・櫻井もも・河口夏音・永田詩央里が忘年会をした神楽坂の鉄板焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13019275/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000045327/",
     "thumbnail_url": "https://img.youtube.com/vi/5pW7TxTE93g/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/88/P041698088/P041698088_238.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "equal_love-a9d4d24e-202412",
@@ -12892,12 +12996,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "東岡崎駅 徒歩5分",
-    "description": "岡崎市のレストラン。江角怜音・大信田美月・小澤愛実らが2024年8月に訪れた。≒JOYの江角怜音・大信田美月らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！」（2024年5月）で、江角怜音・大信田美月・小澤愛実・村山結香が立ち寄った岡崎市中心部の唐揚げの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23059923/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。東海オンエアのてつや考案のプラン"
   },
   {
     "id": "neajoy-la_maison_du_r-20240814",
@@ -12922,12 +13029,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "東岡崎駅 徒歩5分",
-    "description": "岡崎市のレストラン。江角怜音・大信田美月・小澤愛実らが2024年8月に訪れた。≒JOYの江角怜音・大信田美月らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！」（2024年5月）で、江角怜音・大信田美月・小澤愛実・村山結香が訪れた岡崎市のレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23088223/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "neajoy-0ccad40f-202408",
@@ -12953,12 +13063,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "箱根湯本駅 徒歩4分",
-    "description": "足柄下郡箱根町の和食店。天野香乃愛・市原愛弓・江角怜音らが2024年8月に訪れた。≒JOYの天野香乃愛・市原愛弓らが訪れた和食店。",
+    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、箱根湯本の商店街でほたて串や浜焼あわび串を食べた海鮮の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "目次「海鮮串&ソフトクリーム♡」。食べた物はファンブログ（ほたて串・浜焼あわび串・箱根みたらしソフトクリーム）による"
   },
   {
     "id": "neajoy-5d7a9b9d-202408",
@@ -12984,12 +13097,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "箱根湯本駅 徒歩4分",
-    "description": "足柄下郡箱根町のスイーツショップ。天野香乃愛・市原愛弓・江角怜音らが2024年8月に訪れた。≒JOYの天野香乃愛・市原愛弓らが訪れたスイーツ店。",
+    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、箱根湯本の商店街で立ち寄ったはちみつの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14009412/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名はファンブログによる。ソフトクリームをここで食べたかは未確認（はちみつの物販店）"
   },
   {
     "id": "neajoy-67083c58-202408",
@@ -13015,13 +13131,16 @@
     ],
     "group": "neajoy",
     "nearest_station": "箱根湯本駅 徒歩4分",
-    "description": "足柄下郡箱根町のレストラン。天野香乃愛・市原愛弓・江角怜音らが2024年8月に訪れた。≒JOYの天野香乃愛・市原愛弓らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、箱根湯本の商店街で立ち寄ったさつまいもの店（閉店）。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14080998/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
     "closed": true,
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "閉店済み。ファンブログの表記が「さつまいも専門店 箱根おいも大学前」で、店の前を通っただけの可能性あり"
   },
   {
     "id": "neajoy-seafood_grill_yakiya-202408",
@@ -13048,12 +13167,15 @@
     ],
     "group": "neajoy",
     "nearest_station": "南部市場駅 徒歩12分",
-    "description": "横浜市のレストラン。逢田珠里依・大西葵・小澤愛実らが2024年8月に訪れた。≒JOYの逢田珠里依・大西葵らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【シーパラ】みんなで水族館行ってきた！夜にはBBQも🍖」（2023年10月）で、6人が夜のBBQをした八景島シーパラダイスのレストラン。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/1Cs9GQ0hRm4/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "店名はファンブログによる"
   },
   {
     "id": "equal_love-6e007468-202408",
@@ -13197,12 +13319,15 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "廿日市のスイーツショップ。櫻井もも・永田詩央里・本田珠由記が2024年8月に訪れた。≠MEの櫻井もも・永田詩央里らが訪れたスイーツ店。",
+    "description": "≠MEの公式YouTubeの「【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】」（2023年6月）で、櫻井もも・永田詩央里・本田珠由記が揚げもみじを食べた宮島の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34001086/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "ファンブログによると櫻井はレアチーズ、永田はこし餡、本田はクリーム"
   },
   {
     "id": "notme-46637985-202408",
@@ -13226,12 +13351,15 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "廿日市の和食店。櫻井もも・永田詩央里・本田珠由記が2024年8月に訪れた。≠MEの櫻井もも・永田詩央里らが訪れた和食店。",
+    "description": "≠MEの公式YouTubeの「【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】」（2023年6月）で、櫻井もも・永田詩央里・本田珠由記が訪れた宮島のあなごめしの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3402/A340202/34001087/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/9bPMIjNEq8k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄のハッシュタグに #あなごめし。店名はファンブログのロケ地一覧による"
   },
   {
     "id": "equal_love-pacific_drivein-20240809",
@@ -13457,7 +13585,7 @@
     "visited_date": "2023-04-30",
     "members": [
       "落合希来里",
-      "蟹沢萌子",
+      "冨田菜々風",
       "本田珠由記"
     ],
     "groups": [
@@ -13465,12 +13593,15 @@
     ],
     "group": "notme",
     "nearest_station": "八千代中央駅 徒歩19分",
-    "description": "八千代市のレストラン。落合希来里・蟹沢萌子・本田珠由記が2024年8月に訪れた。≠MEの落合希来里・蟹沢萌子らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【ご褒美♡】千葉でいちご狩りに！100個食べれるか挑戦！？」（2023年4月）で、落合希来里・冨田菜々風・本田珠由記がいちご狩りをした八千代市の農園の直売所。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/MsDUT0xeXeo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。データの members の蟹沢萌子は誤りで、説明欄の出演は落合・冨田・本田"
   },
   {
     "id": "equal_love-steak_house__bbq_bal-20240807",
@@ -13523,12 +13654,15 @@
     ],
     "group": "notme",
     "nearest_station": "池袋駅 徒歩5分",
-    "description": "豊島区のカフェ。谷崎早耶・本田珠由記が2024年8月に訪れた。≠MEの谷崎早耶・本田珠由記が訪れたカフェ。",
+    "description": "≠MEの公式YouTubeの「【爆食】サンリオカフェで1万円分食べ放題してきました♡」（2023年3月）で、谷崎早耶と本田珠由記が1万円分を食べる企画をした池袋のサンリオカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13247285/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載"
   },
   {
     "id": "notme-f0a8c1b8-202408",
@@ -13536,7 +13670,7 @@
     "genre": "shokuji",
     "prefecture": "静岡県",
     "city": "熱海市",
-    "address": "静岡県熱海市田本町４−３",
+    "address": "静岡県熱海市田原本町４−３",
     "lat": 35.1025312,
     "lng": 139.0802967,
     "youtube_id": "8wK5c2HUoRo",
@@ -13553,12 +13687,15 @@
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩4分",
-    "description": "熱海市のレストラン。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、蟹沢萌子・河口夏音・菅波美玲・冨田菜々風がメンバーへのお土産を探した熱海駅前の干物の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22039517/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。住所の「田本町」は「田原本町」の誤記と思われる"
   },
   {
     "id": "notme-4c1956bb-202408",
@@ -13583,12 +13720,15 @@
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "熱海市のレストラン。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、熱海駅前の商店街でお土産を探した和菓子（まんじゅう）の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22016593/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。ファンブログに「おちょぼ口饅頭、あつおソックス」"
   },
   {
     "id": "notme-55b10f69-202408",
@@ -13613,12 +13753,15 @@
     ],
     "group": "notme",
     "nearest_station": "熱海駅 徒歩1分",
-    "description": "熱海市のレストラン。蟹沢萌子・河口夏音・菅波美玲らが2024年8月に訪れた。≠MEの蟹沢萌子・河口夏音らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、熱海駅前の商店街でお土産を探した名産品の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22024762/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。住所が平和通り名店街の代表地番"
   },
   {
     "id": "equal_love-b0d04596-202408",
@@ -13763,12 +13906,15 @@
     ],
     "group": "notme",
     "nearest_station": "トロッコ嵐山駅 徒歩4分",
-    "description": "京都市のレストラン。尾木波菜・菅波美玲・谷崎早耶が2024年8月に訪れた。≠MEの尾木波菜・菅波美玲らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【センス対決】≠MEメンバーが好きなお土産って何？…【京都旅#3】」（2021年12月）で、尾木波菜・菅波美玲・谷崎早耶がお土産を選んだ嵐山のレストランの売店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26016174/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ltMYDQsJ5YQ/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "売店（物販）で、お土産を買っただけの可能性が高い。食べたかは未確認"
   },
   {
     "id": "snowman-mipig-cafe-meguro",
@@ -51706,70 +51852,6 @@
     "qa_note": "個店ではなくラクーア1階のフードゾーン（複数店）"
   },
   {
-    "id": "neajoy-mid_century_house_yo-20251215",
-    "name": "Mid-Century House YOGI",
-    "genre": "shokuji",
-    "prefecture": "沖縄県",
-    "city": "沖縄市",
-    "address": "沖縄県沖縄市与儀２丁目１５−２５",
-    "lat": 26.3128482,
-    "lng": 127.8089815,
-    "youtube_id": "ksQHvvr2eYY",
-    "source_video_title": "【祝表紙】逢田珠里依の週プレ表紙撮影に密着！📹サプライズ発表の瞬間も！【沖縄】",
-    "source_url": "",
-    "visited_date": "2025-12-15",
-    "members": [
-      "逢田珠里依"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "",
-    "description": "沖縄県の食事。≒JOYの逢田珠里依らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
-    "id": "notme-fineday-20251212",
-    "name": "FINEDAY浜松町",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区芝大門１丁目２−２２ 2F(200 パレステュディオ芝大門",
-    "lat": 35.6586692,
-    "lng": 139.7543228,
-    "youtube_id": "2syYhM8sGHg",
-    "source_video_title": "【ノイミー】シェフおぎはなの手料理パーティ🧑‍🍳🎶平和にたくさん食べます！！！",
-    "source_url": "",
-    "visited_date": "2025-12-12",
-    "members": [
-      "尾木波菜"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "大門駅 徒歩3分",
-    "description": "東京都の食事。≠MEの尾木波菜らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
     "id": "equal_love-the_smash_scramble-20250613",
     "name": "THE SMASH SCRAMBLE",
     "genre": "shokuji",
@@ -51872,40 +51954,6 @@
     "program": "みりにゃと申します。（大谷映美里）"
   },
   {
-    "id": "notme-hokulani_elua-20240814",
-    "name": "HOKULANI elua",
-    "genre": "shokuji",
-    "prefecture": "千葉県",
-    "city": "いすみ市",
-    "address": "千葉県いすみ市岬町和泉３３４－３",
-    "lat": 35.3137761,
-    "lng": 140.4081031,
-    "youtube_id": "6pTomzNnQwI",
-    "source_video_title": "【コストコ🍖】ノイミー同い年組が別荘でBBQ！名言連発で面白すぎました😂",
-    "source_url": "",
-    "visited_date": "2024-07-18",
-    "members": [
-      "蟹沢萌子",
-      "菅波美玲",
-      "谷崎早耶"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "",
-    "description": "千葉県の食事。≠MEの蟹沢萌子・菅波美玲らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
     "id": "neajoy-218969f7-20240814",
     "name": "奥殿陣屋",
     "genre": "shokuji",
@@ -51929,7 +51977,7 @@
     ],
     "group": "neajoy",
     "nearest_station": "",
-    "description": "愛知県の食事。≒JOYの江角怜音・大信田美月らが訪れた飲食店。",
+    "description": "≒JOYの公式YouTubeの「【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！」（2024年5月）で、江角怜音・大信田美月・小澤愛実・村山結香が訪れた岡崎市の旧陣屋跡。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2305/A230501/23044836/",
     "hotpepper_url": "",
@@ -51937,41 +51985,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
-    "id": "neajoy-73f05293-20240814",
-    "name": "ほてる小栁津",
-    "genre": "shokuji",
-    "prefecture": "愛知県",
-    "city": "岡崎市",
-    "address": "愛知県岡崎市伊賀町７丁目８７−１",
-    "lat": 34.9715985,
-    "lng": 137.1672189,
-    "youtube_id": "P9Wh9kcLuTY",
-    "source_video_title": "【神回】てつや社長サプライズ登場！ほてる小栁津ルームツアーで凄いことが起こりました！！【ほておや】",
-    "source_url": "",
-    "visited_date": "2024-05-15",
-    "members": [
-      "江角怜音",
-      "大信田美月",
-      "小澤愛実",
-      "村山結香"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "北岡崎駅 徒歩14分",
-    "description": "愛知県の食事。≒JOYの江角怜音・大信田美月らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23094008/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "説明欄に撮影協力として記載。史跡・観光施設だが敷地内に茶屋・食事処（抹茶・甘味など）がある。メンバーが食べたかは未確認"
   },
   {
     "id": "notme-47fde15e-20240813",
@@ -51996,7 +52013,7 @@
     ],
     "group": "notme",
     "nearest_station": "",
-    "description": "千葉県の食事。≠MEの蟹沢萌子・菅波美玲らが訪れた飲食店。",
+    "description": "≠MEの公式YouTubeの「【夏休み🌞♡】同級生3人で流しそうめん&BBQ🍖…」（2023年8月）で、蟹沢萌子・菅波美玲・谷崎早耶が流しそうめんとBBQをした八千代市のバーベキュー場。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000021005/",
@@ -52006,41 +52023,10 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/46/41/P041324641/P041324641_238.jpg"
-  },
-  {
-    "id": "neajoy-12381372-20240804",
-    "name": "東京スカイツリータウン ハナミ坂ひろば",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "墨田区",
-    "address": "東京都墨田区押上１丁目１−２ とうきょうスカイツリー駅正面口前広場 東京ソラマチ 1F",
-    "lat": 35.710776,
-    "lng": 139.813826,
-    "youtube_id": "LSUtYiOct4c",
-    "source_video_title": "【女子旅】東京1年生！まだ見ぬ東京の街を満喫ツアー！！【ニアジョイ上京組VLOG】",
-    "source_url": "",
-    "visited_date": "2022-11-08",
-    "members": [
-      "髙橋舞",
-      "村山結香",
-      "山野愛月"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "押上〈スカイツリー前〉駅 徒歩1分",
-    "description": "東京都の食事。≒JOYの髙橋舞・村山結香らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/46/41/P041324641/P041324641_238.jpg",
+    "visit_kind": "youtube",
+    "program": "イコラブ ノイミー ニアジョイ チャンネル",
+    "qa_note": "食材持ち込みのBBQ場（施設）。流しそうめんは店が出しているため keep にしたが、飲食店として扱うかは要判断。店名はファンブログによる"
   },
   {
     "id": "equal_love-210c4d15-20240804",
@@ -52076,97 +52062,6 @@
     "visit_kind": "youtube",
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
     "qa_note": "飲食店ではなくバター作り体験の牧場。残すかは要判断"
-  },
-  {
-    "id": "notme-d306f55d-20240804",
-    "name": "竹林の散策路",
-    "genre": "shokuji",
-    "prefecture": "京都府",
-    "city": "京都市",
-    "address": "京都府京都市右京区嵯峨野々宮町２",
-    "lat": 35.028498647823575,
-    "lng": 135.66237553066804,
-    "youtube_id": "Dz787fY6GjQ",
-    "source_video_title": "【京都】人力車に乗りながらガールズトーク！【京都旅#2】",
-    "source_url": "",
-    "visited_date": "2021-12-01",
-    "members": [
-      "尾木波菜",
-      "菅波美玲",
-      "谷崎早耶"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "",
-    "description": "京都府の食事。≠MEの尾木波菜・菅波美玲らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26000808/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
-    "id": "notme-4a84ef00-20240804",
-    "name": "大阪名物くいだおれ",
-    "genre": "shokuji",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区道頓堀１丁目８−２５",
-    "lat": 34.6685063,
-    "lng": 135.5032623,
-    "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
-    "source_url": "",
-    "visited_date": "2021-08-03",
-    "members": [],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "近鉄日本橋駅 徒歩5分",
-    "description": "大阪府の食事。≠MEのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27143320/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
-  },
-  {
-    "id": "notme-6985eb5c-20240804",
-    "name": "中座くいだおれビル",
-    "genre": "shokuji",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区道頓堀１丁目７−２１",
-    "lat": 34.6685063,
-    "lng": 135.5032623,
-    "youtube_id": "vUhfX5OTw_w",
-    "source_video_title": "【全員集合】≠MEは大阪に行ってきました！！",
-    "source_url": "",
-    "visited_date": "2021-08-03",
-    "members": [],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "近鉄日本橋駅 徒歩5分",
-    "description": "大阪府の食事。≠MEのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27148789/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル"
   },
   {
     "id": "smap-jinnan_cafe-",
