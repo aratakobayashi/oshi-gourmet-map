@@ -34217,8 +34217,8 @@
     "prefecture": "長野県",
     "city": "北佐久郡軽井沢町",
     "address": "長野県北佐久郡軽井沢町旧軽井沢972 室生犀星記念館前",
-    "lat": 34.9695783,
-    "lng": 132.1895182,
+    "lat": 36.348331,
+    "lng": 138.596954,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-11-17",
@@ -34229,7 +34229,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "",
     "description": "嵐の冠番組『嵐にしやがれ』（2018年11月17日放送）の「軽井沢ツーリング」で、相葉雅紀と風間俊介が訪れた旧軽井沢のカフェ（フレンチトースト）。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20016300/",
@@ -34243,7 +34242,8 @@
     "with": [
       "風間俊介"
     ],
-    "qa_note": "店でのロケ（スタジオではない）として扱った。 出典は「相葉雅紀＆風間俊介 軽井沢ツーリング」の回として紹介。食べたとの明記はなし。 出典 activitv.com"
+    "qa_note": "店でのロケ（スタジオではない）として扱った。 出典は「相葉雅紀＆風間俊介 軽井沢ツーリング」の回として紹介。食べたとの明記はなし。 出典 activitv.com",
+    "location_unverified": true
   },
   {
     "id": "arashi-f26cae35-20181027",
@@ -36469,10 +36469,10 @@
     "name": "喜福世",
     "genre": "others",
     "prefecture": "東京都",
-    "city": "狛江市",
-    "address": "",
-    "lat": 35.6207797,
-    "lng": 139.428035,
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南1-16-11",
+    "lat": 35.644566,
+    "lng": 139.709335,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -36488,7 +36488,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "小田急多摩センター駅 徒歩9分",
     "description": "嵐の冠番組『嵐にしやがれ』（2020年12月5日放送）の「岡田将生＆志尊淳 焼肉デスマッチ」で、この店の「ハラミ一本焼き」がスタジオに登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13009624/",
@@ -36512,10 +36511,10 @@
     "name": "チョンギワ 新館",
     "genre": "others",
     "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "",
-    "lat": 35.6734248,
-    "lng": 139.738151,
+    "city": "港区",
+    "address": "東京都港区赤坂3-12-7",
+    "lat": 35.673698,
+    "lng": 139.737854,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -36531,7 +36530,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "赤坂駅 徒歩3分",
     "description": "嵐の冠番組『嵐にしやがれ』（2020年12月5日放送）の「岡田将生＆志尊淳 焼肉デスマッチ」で、この店の「冷麺」がスタジオに登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13002835/",
@@ -36556,10 +36554,10 @@
     "name": "じゃんか",
     "genre": "others",
     "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "",
-    "lat": 35.6693983,
-    "lng": 139.7388835,
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-9-10",
+    "lat": 35.658997,
+    "lng": 139.698013,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -36575,7 +36573,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "溜池山王駅 徒歩6分",
     "description": "嵐の冠番組『嵐にしやがれ』（2020年12月5日放送）の「岡田将生＆志尊淳 焼肉デスマッチ」で、この店の「極上カルビ（元祖本生わさびカルビ）」がスタジオに登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13007287/",
@@ -36598,11 +36595,11 @@
     "id": "arashi-8a6cc21b-",
     "name": "龍公亭",
     "genre": "others",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "",
-    "lat": 35.0962021,
-    "lng": 136.8979043,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区神楽坂3-5",
+    "lat": 35.700768,
+    "lng": 139.740417,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -36618,7 +36615,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "東名古屋港駅 徒歩13分",
     "description": "嵐の冠番組『嵐にしやがれ』（2020年11月21日放送）の「岩本照＆ラウール 町中華デスマッチ」で、この店の「カレーライス」がスタジオに登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13000392/",
@@ -36641,11 +36637,11 @@
     "id": "arashi-elbe-",
     "name": "elbe",
     "genre": "others",
-    "prefecture": "宮城県",
-    "city": "仙台市",
-    "address": "",
-    "lat": 38.2581708,
-    "lng": 140.8743181,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座3-13-17",
+    "lat": 35.670593,
+    "lng": 139.769226,
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -36661,7 +36657,6 @@
       "arashi"
     ],
     "group": "arashi",
-    "nearest_station": "青葉通一番町駅 徒歩4分",
     "description": "嵐の冠番組『嵐にしやがれ』（2020年9月26日放送）の「玉木宏＆川口春奈 大好物デスマッチ」で、この店の「ビーフシチュー」がスタジオに登場した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13007617/",
@@ -37714,39 +37709,6 @@
     "visit_kind": "own_tv",
     "program": "timeleszの時間ですよ",
     "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。要確認"
-  },
-  {
-    "id": "timelesz-ee55e45a-20240301",
-    "name": "珈琲亭 七つ森",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "杉並区",
-    "address": "〒166-0003 東京都杉並区高円寺南2-20-20",
-    "lat": 35.700119,
-    "lng": 139.647415,
-    "youtube_id": "",
-    "source_video_title": "Google Pixel 10 テレビCM「AIで作る4コマ漫画」篇（2026年2月26日放映開始）",
-    "source_url": "https://news.yahoo.co.jp/expert/articles/8b8fffd0348a970b4f30e61ddb3afba68ef6e2f1",
-    "visited_date": "2026-02-26",
-    "members": [
-      "猪俣周杜"
-    ],
-    "groups": [
-      "timelesz",
-      "kinkikids"
-    ],
-    "group": "timelesz",
-    "nearest_station": "高円寺駅",
-    "description": "timeleszの猪俣周杜が出演した Google Pixel 10 のテレビCM「AIで作る4コマ漫画」篇（2026年2月放映開始）の撮影に使われた高円寺の喫茶店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13000675/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "visit_kind": "other",
-    "program": "Google Pixel 10 CM「AIで作る4コマ漫画」篇",
-    "qa_note": "CMで猪俣が都内の喫茶店を訪れたことは報道で確認できたが、それが七つ森かは出典（Yahoo!ニュース エキスパート、取得不可）でしか確かめられない。要確認。IDの日付（20240301）は実際の日付と無関係"
   },
   {
     "id": "timelesz-cocochiyo_cafe-20251125",
@@ -46258,10 +46220,8 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46269,7 +46229,7 @@
     ],
     "group": "agroup",
     "nearest_station": "青森駅 徒歩10分",
-    "description": "青森県の和食。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの冠番組『あっちこっちAぇ!』（2025年10月11日放送）の青森県の旅で、正門良規・末澤誠也・小島健・佐野晶哉が2000円ぴったりののっけ丼づくりに挑戦した青森市の市場。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aomori/A0201/A020101/2005888/",
     "hotpepper_url": "",
@@ -46277,7 +46237,10 @@
     "tmdb_id": 254204,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFmzLhh0dHH9Ga95HIGJTvexh7y.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFmzLhh0dHH9Ga95HIGJTvexh7y.jpg",
+    "visit_kind": "own_tv",
+    "program": "あっちこっちAぇ!",
+    "qa_note": "出典 kosodate-and.net（放送後に各メンバーの具材と値段を追記）と fananablog.com/agroup-acchikocchi-seichi-aomori。草間リチャード敬太はこのロケに出ていない（オリコン報道）。現在のmembersの草間・福本は誤り。説明文の「A.B.C-Z」も誤り。具材は北都・間山商店・じんや・工藤ほたて店の4店で載せた。"
   },
   {
     "id": "agroup-872c45df-",
@@ -46294,10 +46257,8 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46305,7 +46266,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "青森県の和食。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの冠番組『あっちこっちAぇ!』（2025年10月18日放送）の青森県の旅で訪れた、浪岡の津軽ラーメンの食堂。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aomori/A0201/A020101/2005902/",
     "hotpepper_url": "",
@@ -46313,43 +46274,10 @@
     "tmdb_id": 254204,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFmzLhh0dHH9Ga95HIGJTvexh7y.jpg"
-  },
-  {
-    "id": "agroup-ebisubashi_tsutaya-",
-    "name": "EBISUBASHI TSUTAYA（エビツタ）",
-    "genre": "others",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区道頓堀１丁目８−１９",
-    "lat": 34.6685063,
-    "lng": 135.5032623,
-    "youtube_id": "",
-    "source_video_title": "Aぇǃgroup『Chameleon』大阪のAぇ擬態中はどこ？道頓堀エビツタ大型ビジョン！？",
-    "source_url": "https://kosodate-and.net/agroup-chameleon-osaka",
-    "visited_date": "",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "",
-    "description": "大阪府のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFmzLhh0dHH9Ga95HIGJTvexh7y.jpg",
+    "visit_kind": "own_tv",
+    "program": "あっちこっちAぇ!",
+    "qa_note": "kosodate-and.net は放送前の予想のままだが、fananablog.com/agroup-acchikocchi-seichi-aomori（放送後のまとめ）の青森県の旅②に「マルミ・サンライズ食堂」がある。番組公式Xに「小島健はラーメンで饒舌に」。4人全員が食べたかは未確認。草間・福本は出ていない。"
   },
   {
     "id": "agroup-9098e43b-",
@@ -46366,10 +46294,9 @@
     "visited_date": "2024-11-26",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
+      "草間リチャード敬太",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46377,7 +46304,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "東京都のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「被っちゃダメよグルメ～高級中華編」（2024年11月）で5人が料理を選び合った六本木の中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13290682/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003693216/",
@@ -46387,44 +46314,10 @@
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=WXBhPBd6YBI",
     "source_video_channel": "Aぇ! group",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg"
-  },
-  {
-    "id": "agroup-249682d7-",
-    "name": "廻転鮨 銀座おのでら 大阪店",
-    "genre": "washoku",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区西心斎橋2-1-3 御堂筋ダイヤモンドビル 地下1階",
-    "lat": 34.6753541,
-    "lng": 135.4992013,
-    "youtube_id": "xJEkLwd6mg0",
-    "source_video_title": "Aぇ! group【リベンジ👊大食い企画】高級回転寿司を100品食べ尽くせ！",
-    "source_url": "https://kosodate-and.net/agroup-ginza-kaitenzushi",
-    "visited_date": "2025-09-30",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "心斎橋駅 徒歩1分",
-    "description": "大阪府の寿司。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27140321/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=xJEkLwd6mg0",
-    "source_video_channel": "Aぇ! group"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "visited_date は配信日 2024-11-26。出典 kosodate-and.net（メンバーごとに食べた料理あり）・fananablog。"
   },
   {
     "id": "agroup-kan-",
@@ -46441,10 +46334,8 @@
     "visited_date": "2026-05-19",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46452,7 +46343,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "東京都の居酒屋。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「被っちゃダメよグルメ〜おでん編」（2026年5月）で、西村拓哉と4人がおでんを選び合った虎ノ門ヒルズの居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130802/13289968/",
     "hotpepper_url": "",
@@ -46461,7 +46352,13 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=AOgkkG9Z4Gg",
-    "source_video_channel": "Aぇ! group"
+    "source_video_channel": "Aぇ! group",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "西村拓哉（Lil かんさい）"
+    ],
+    "qa_note": "出典 kosodate-and.net（回ごとに食べた料理あり）。草間リチャード敬太は出ていない（動画の概要欄は4人）。"
   },
   {
     "id": "agroup-dbc26720-20240331",
@@ -46478,17 +46375,16 @@
     "visited_date": "2024-09-24",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
+      "草間リチャード敬太",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
-    "description": "北海道の焼肉。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「正門さんゴチになります」（2024年9月）で、デビューツアーの札幌公演の打ち上げとして正門良規が4人にラムしゃぶをごちそうした店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010103/1004112/",
     "hotpepper_url": "",
@@ -46496,7 +46392,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=7ly1Q2KTrp0"
+    "source_video_url": "https://www.youtube.com/watch?v=7ly1Q2KTrp0",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "visited_date は配信日 2024-09-24（idの20240331は無関係）。ジャンルはしゃぶしゃぶ（焼肉ではない）。"
   },
   {
     "id": "agroup-f9963b8f-",
@@ -46513,10 +46412,8 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46524,7 +46421,7 @@
     ],
     "group": "agroup",
     "nearest_station": "六本木駅 徒歩2分",
-    "description": "東京都の焼肉。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの大食い企画第4弾（2026年4月）で、4人がしゃぶしゃぶ60皿に挑んだ六本木の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13109022/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000774806/",
@@ -46533,7 +46430,10 @@
     "tmdb_type": "",
     "ordered_items": [],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/56/P049493756/P049493756_238.jpg",
-    "source_video_url": "https://www.youtube.com/watch?v=DzXZdaPt-fc"
+    "source_video_url": "https://www.youtube.com/watch?v=DzXZdaPt-fc",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "配信日 2026-04-14。ジャンルはしゃぶしゃぶ（焼肉ではない）。"
   },
   {
     "id": "agroup-94c8ca88-",
@@ -46550,10 +46450,9 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
+      "草間リチャード敬太",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46561,7 +46460,7 @@
     ],
     "group": "agroup",
     "nearest_station": "六本木駅 徒歩6分",
-    "description": "東京都のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「デビュー1周年記念 5人だけの焼肉会」（2025年5月）で、5人がこれまでとこれからを語り合った西麻布の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13130902/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001098601/",
@@ -46570,7 +46469,10 @@
     "tmdb_type": "",
     "ordered_items": [],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg",
-    "source_video_url": "https://www.youtube.com/watch?v=LESjaFCpnQU"
+    "source_video_url": "https://www.youtube.com/watch?v=LESjaFCpnQU",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "配信日 2025-05-13。fananablog の一覧では 2026/06/02 配信回にも同じ店が出ている（別の回でも訪問）。ジャンルは焼肉。"
   },
   {
     "id": "agroup-tokyo-",
@@ -46587,10 +46489,9 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
+      "草間リチャード敬太",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46598,7 +46499,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "東京都の焼肉。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「利き焼肉」（2024年12月）で、5人が部位の食べ比べに挑んだ新宿三丁目の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13189068/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001147488/",
@@ -46607,7 +46508,10 @@
     "tmdb_type": "",
     "ordered_items": [],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/99/38/P024969938/P024969938_238.jpg",
-    "source_video_url": "https://www.youtube.com/watch?v=tqdNGNUmf2A"
+    "source_video_url": "https://www.youtube.com/watch?v=tqdNGNUmf2A",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "配信日 2024-12-10。"
   },
   {
     "id": "agroup-fb86a768-",
@@ -46624,10 +46528,9 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
+      "草間リチャード敬太",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46635,7 +46538,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "神奈川県の中華。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの大食い企画第2弾（2025年4月）で、5人が飲茶・点心の人気ベスト30の完食に挑んだ横浜中華街の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14003028/",
     "hotpepper_url": "",
@@ -46643,7 +46546,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=E6WsvTthdNA"
+    "source_video_url": "https://www.youtube.com/watch?v=E6WsvTthdNA",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "配信日 2025-04-01。店の公式Xが撮影に使われた席を案内。"
   },
   {
     "id": "agroup-9a0d678e-",
@@ -46660,10 +46566,8 @@
     "visited_date": "",
     "members": [
       "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46671,7 +46575,7 @@
     ],
     "group": "agroup",
     "nearest_station": "渋谷駅 徒歩4分",
-    "description": "東京都の寿司。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの回転寿司大食い企画（2026年3月）で、WEST.の小瀧望と4人が挑戦した渋谷の回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13223448/",
     "hotpepper_url": "",
@@ -46679,77 +46583,13 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=3GXrX4OKtp0"
-  },
-  {
-    "id": "agroup-itsukiri-",
-    "name": "五氣里-itsukiri-",
-    "genre": "others",
-    "prefecture": "千葉県",
-    "city": "いすみ市",
-    "address": "千葉県いすみ市下布施2891",
-    "lat": 35.71271233804218,
-    "lng": 140.24221408320713,
-    "youtube_id": "",
-    "source_video_title": "【ゴールデンホリデぇ！ ロケ地】千葉のグランピング施設・スーパーはどこ？",
-    "source_url": "https://kosodate-and.net/golden-holiday-glamping",
-    "visited_date": "",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+    "source_video_url": "https://www.youtube.com/watch?v=3GXrX4OKtp0",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "小瀧望（WEST.）"
     ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "",
-    "description": "千葉県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1204/A120402/12038574/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "agroup-9f9a169e-20230715",
-    "name": "御宿 五氣里",
-    "genre": "others",
-    "prefecture": "千葉県",
-    "city": "夷隅郡御宿町",
-    "address": "千葉県夷隅郡御宿町岩和田949-1",
-    "lat": 35.1857876,
-    "lng": 140.3726616,
-    "youtube_id": "",
-    "source_video_title": "【ゴールデンホリデぇ！ ロケ地】御宿の海・サイクリング・ラクダの像はどこ？",
-    "source_url": "https://kosodate-and.net/golden-holiday-onjuku",
-    "visited_date": "2023-07-15",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "",
-    "description": "千葉県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1207/A120702/12067143/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "qa_note": "配信日 2026-03-03。草間リチャード敬太は出ていない。"
   },
   {
     "id": "agroup-69aa242e-20230302",
@@ -46765,25 +46605,26 @@
     "source_url": "https://kosodate-and.net/kimura-suezawa-unagi",
     "visited_date": "2023-03-02",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "末澤誠也"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
-    "description": "東京都の和食。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの末澤誠也と木村拓哉が、2025年9月にそれぞれのInstagramに載せたランチの鰻料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13305065/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "Instagram（末澤誠也・木村拓哉）",
+    "with": [
+      "木村拓哉"
+    ],
+    "qa_note": "迷うためkeep。出典はInstagramの投稿だけで、店の特定の根拠（タグ付けなど）は kosodate-and.net に書かれていない。食べた物も「ではないでしょうか」と推測。プロジェクトの「インスタの写真だけの店は載せない」に当たる可能性あり。visited_date 2023-03-02 は誤り（投稿は2025-09-13）。"
   },
   {
     "id": "agroup-486b5a07-",
@@ -46799,18 +46640,13 @@
     "source_url": "https://kosodate-and.net/kojiken-yokohama-pandaman",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "小島健"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
-    "description": "神奈川県の中華。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin横浜」（2025年3月）で、小島健がパンダまん・肉まんを買った横浜中華街の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14000476/",
     "hotpepper_url": "",
@@ -46818,7 +46654,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE"
+    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "配信日 2025-03-11。fananablog では「大珍楼 本店前の屋台」。"
   },
   {
     "id": "agroup-smooch_coffee_stand-",
@@ -46834,26 +46673,24 @@
     "source_url": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "正門良規"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
     "nearest_station": "中島公園駅 徒歩5分",
-    "description": "北海道のカフェ。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin札幌」（2024年9月）で、正門良規が立ち寄ったコーヒースタンド。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010104/1043871/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "youtube_id なし。札幌編は QwNIxCjXtf0（9/3）・3vWXHYxx6YM（9/10）・hUIOLKZnT2I（9/17）の3本で、どの回かは未確認。fananablog の正門の行き先にも記載あり。"
   },
   {
     "id": "agroup-ae0fb5ac-",
@@ -46869,26 +46706,24 @@
     "source_url": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "末澤誠也"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
     "nearest_station": "中島公園駅 徒歩5分",
-    "description": "北海道のカフェ。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin札幌」（2024年9月）で、末澤誠也がチーズケーキとアイスコーヒーを頼んだとされる大通のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010104/1043871/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "迷うためkeep。kosodate-and.net は末澤が訪れたと書くが、fananablog の末澤の行き先（北海道大学・大通公園）にはこの店がない。youtube_id なし（札幌編3本のどれかは未確認）。"
   },
   {
     "id": "agroup-sweet_lady_jane-",
@@ -46904,11 +46739,6 @@
     "source_url": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46916,14 +46746,17 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "北海道のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin札幌」（2024年9月）で、佐野晶哉が味噌チーズタルトを食べ、メンバーへのお土産にクッキーを買った洋菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010102/1003089/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。youtube_id なし（札幌編3本のどれかは未確認）。ジャンルはスイーツ。"
   },
   {
     "id": "agroup-tsubakiya-",
@@ -46939,11 +46772,7 @@
     "source_url": "https://kosodate-and.net/mezamashi-sanosue-yakiimo-soft",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
-      "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46951,7 +46780,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "埼玉県のカフェ。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "『めざましテレビ』（2025年9月30日放送）で、Aぇ! groupの末澤誠也と佐野晶哉が着物姿で熟成焼き芋ブリュレソフトを食べた川越の足湯喫茶。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11040974/",
     "hotpepper_url": "",
@@ -46959,7 +46788,10 @@
     "tmdb_id": 6563,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ",
+    "qa_note": "店の公式Xが来店を告知。同じ放送の「漁港食堂」（海鮮食べ放題）はデータにない。"
   },
   {
     "id": "agroup-83a4a154-",
@@ -46975,11 +46807,7 @@
     "source_url": "https://kosodate-and.net/naniwa-a-kansaiisan",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
-      "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -46987,14 +46815,21 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "大阪府のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "なにわ男子とAぇ! groupの特番『なにわからAぇ! 風吹かせます！』（2024年11月29日放送）で、末澤誠也・佐野晶哉が大橋和也・大西流星と十三駅前通商店街でお好み焼きを食べた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270302/27085344/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "なにわからAぇ! 風吹かせます！（カンテレ）",
+    "with": [
+      "大橋和也（なにわ男子）",
+      "大西流星（なにわ男子）"
+    ],
+    "qa_note": "kosodate-and.net は放送前の予想だが、放送後の十三の地元ブログ（92m010.com）が「桃ちゃん」への突撃と「桃ちゃん焼き」を伝えている。同じページの焼き鳥店（くわどり）は予想のまま。"
   },
   {
     "id": "agroup-a17acf2d-",
@@ -47010,11 +46845,7 @@
     "source_url": "https://kosodate-and.net/naniwa-yokoyama-okonomiyaki",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -47022,14 +46853,25 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "大阪府のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "なにわ男子の公式YouTubeの「横山会第2弾」（2025年1月、撮影は2024年12月24日）で、横山裕の地元・此花区の行きつけとして訪れたお好み焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270401/27043740/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "なにわ男子公式YouTube（なにわTube）",
+    "with": [
+      "横山裕（SUPER EIGHT）",
+      "桐山照史（WEST.）",
+      "濵田崇裕（WEST.）",
+      "小瀧望（WEST.）",
+      "藤原丈一郎（なにわ男子）",
+      "大橋和也（なにわ男子）"
+    ],
+    "qa_note": "迷うためkeep。kosodate-and.net の店名の根拠ははっきりせず（食べた物は「配信後更新予定」のまま）、ファンの来店ブログ・まとめで横山会の店とされている。Aぇ! groupの参加は動画 uOJVT75bZPY のタグ（#小島健 #佐野晶哉）で確認。店の場面がこの回か続き（woJ2Rviw6EU）かは未確認。youtube_id なし。"
   },
   {
     "id": "agroup-ryu_ryu_primo-",
@@ -47045,11 +46887,6 @@
     "source_url": "https://kosodate-and.net/sano-nishinomiya-pasta",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -47057,7 +46894,7 @@
     ],
     "group": "agroup",
     "nearest_station": "西宮北口駅 徒歩3分",
-    "description": "兵庫県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "『なるみ・岡村の過ぎるTV』（2024年11月18日放送）で、Aぇ! groupの佐野晶哉が西宮時代の常連店として紹介したパスタ店。好きなメニューは牛すじのカルボナーラ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hyogo/A2803/A280301/28003309/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000496099/",
@@ -47066,7 +46903,10 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/cpwapzXY6pJhdZun5WFjAYKWTHq.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/56/02/P046485602/P046485602_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/56/02/P046485602/P046485602_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "なるみ・岡村の過ぎるTV",
+    "qa_note": "迷うためkeep。番組でロケをしたのか、常連の店として名前が出ただけかは出典で分からない（記事では「常連の店」と書くのがよい）。"
   },
   {
     "id": "agroup-flair_co-",
@@ -47082,11 +46922,6 @@
     "source_url": "https://kosodate-and.net/sano-yokohama-onigiri-cafe",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -47094,7 +46929,7 @@
     ],
     "group": "agroup",
     "nearest_station": "みなとみらい駅 徒歩6分",
-    "description": "神奈川県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin横浜」（2025年3月）で、佐野晶哉が昼休憩に昆布のおにぎりを食べたみなとみらいの紅茶カフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140103/14096632/",
     "hotpepper_url": "",
@@ -47102,43 +46937,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE"
-  },
-  {
-    "id": "agroup-henim-",
-    "name": "Henim",
-    "genre": "others",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "愛知県名古屋市中区大須2-19-5",
-    "lat": 35.1593589,
-    "lng": 136.901099,
-    "youtube_id": "",
-    "source_video_title": "ドデスカ！【末澤誠也＆佐野晶哉ロケ地】カスタムキャップ専門店はどこ？予約制？",
-    "source_url": "https://kosodate-and.net/sue-sano-custom-cap",
-    "visited_date": "",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "大須観音駅 徒歩6分",
-    "description": "愛知県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2306/A230601/23039186/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 216191,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/njiRE8wLZRZNCN6nPTdIMPJVQ8f.jpg"
+    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。"
   },
   {
     "id": "agroup-4ef74a5d-",
@@ -47154,19 +46956,14 @@
     "source_url": "https://kosodate-and.net/sue-yokohama-taiyaki",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "末澤誠也"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
     "nearest_station": "横浜 (相模鉄道)駅 徒歩1分",
-    "description": "神奈川県のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin横浜」（2025年3月）で、末澤誠也がプレミアムクリームたい焼きを買って食べた横浜駅西口のたい焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140101/14003788/",
     "hotpepper_url": "",
@@ -47174,7 +46971,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE"
+    "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。ジャンルはスイーツ。"
   },
   {
     "id": "agroup-2f8015aa-",
@@ -47190,19 +46990,15 @@
     "source_url": "https://kosodate-and.net/tokoro-otodoke-seiken-pasta",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "小島健"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "東京都のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "『所さんお届けモノです！』（2025年6月21日放送）の谷中ロケで、Aぇ! groupの末澤誠也と小島健が谷中メンチを食べた精肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131106/13008470/",
     "hotpepper_url": "",
@@ -47210,7 +47006,10 @@
     "tmdb_id": 113814,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg",
+    "visit_kind": "guest_tv",
+    "program": "所さんお届けモノです！",
+    "qa_note": "店の公式Xがロケを告知。精肉店だが店頭で揚げ物を食べたのでkeep。同じ回の南イタリア料理専門店 ネネコロ（2人がパスタを注文）はデータにない。"
   },
   {
     "id": "agroup-buzzed_lamb_brewing-",
@@ -47226,18 +47025,14 @@
     "source_url": "https://kosodate-and.net/tokoro-otodoke-seiken-pasta",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
       "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
+      "小島健"
     ],
     "groups": [
       "agroup"
     ],
     "group": "agroup",
-    "description": "東京都のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "『所さんお届けモノです！』（2025年6月27日放送）の谷中ロケで、Aぇ! groupの末澤誠也と小島健が訪れたクラフトビールの醸造所兼店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131105/13300267/",
     "hotpepper_url": "",
@@ -47245,43 +47040,10 @@
     "tmdb_id": 113814,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg"
-  },
-  {
-    "id": "agroup-428c2fed-",
-    "name": "あやかし堂",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "台東区",
-    "address": "東京都台東区谷中３丁目１０−２１",
-    "lat": 35.726835,
-    "lng": 139.7658348,
-    "youtube_id": "",
-    "source_video_title": "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？",
-    "source_url": "https://kosodate-and.net/tokoro-otodoke-seiken-pasta",
-    "visited_date": "",
-    "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
-      "小島健",
-      "福本大晴",
-      "佐野晶哉"
-    ],
-    "groups": [
-      "agroup"
-    ],
-    "group": "agroup",
-    "nearest_station": "千駄木駅 徒歩4分",
-    "description": "東京都のその他。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1311/A131103/13320256/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 113814,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg",
+    "visit_kind": "guest_tv",
+    "program": "所さんお届けモノです！",
+    "qa_note": "出典 kosodate-and.net（番組公式Xの予告に「クラフトビール専門店」）。飲んだ物は出典にない。"
   },
   {
     "id": "agroup-1b551fbc-",
@@ -47297,11 +47059,7 @@
     "source_url": "https://kosodate-and.net/yokoyamakai-shochikuza-osaka",
     "visited_date": "",
     "members": [
-      "正門良規",
-      "草間リチャード敬太",
-      "末澤誠也",
       "小島健",
-      "福本大晴",
       "佐野晶哉"
     ],
     "groups": [
@@ -47309,7 +47067,7 @@
     ],
     "group": "agroup",
     "nearest_station": "",
-    "description": "大阪府の焼肉。A.B.C-Zの正門良規・草間リチャード敬太らが訪れた飲食店。",
+    "description": "WEST.の公式YouTubeの「横山会【ラスト松竹座前夜祭】」（2026年4月）で、横山会が大阪松竹座の思い出を語り合った心斎橋の和牛・もつ鍋の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27004659/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000661082/",
@@ -47317,7 +47075,18 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/96/P012104396/P012104396_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/96/P012104396/P012104396_238.jpg",
+    "visit_kind": "youtube",
+    "program": "WEST.公式YouTube（横山会）",
+    "with": [
+      "横山裕（SUPER EIGHT）",
+      "桐山照史（WEST.）",
+      "濵田崇裕（WEST.）",
+      "小瀧望（WEST.）",
+      "藤原丈一郎（なにわ男子）",
+      "大橋和也（なにわ男子）"
+    ],
+    "qa_note": "迷うためkeep。動画（6IQZ56NYXYc）のタグに #Aぇgroup があり、横山会のAぇ! groupは小島健・佐野晶哉（横山万博の出演者発表）。この回に2人が出たことは映像で未確認。youtube_id なし。"
   },
   {
     "id": "kingprince-4e9e2544-",
@@ -50313,7 +50082,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "永瀬廉"
+      "正門良規"
     ],
     "groups": [
       "kingprince",
@@ -50322,7 +50091,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "",
-    "description": "永瀬廉が出演した『笑ってコラえて！』（日本テレビ、2024年8月28日放送）の「朝までハシゴの旅」大阪・福島編で、西畑大吾・正門良規と最初に飲んだ立ち飲み店。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と最初に飲んだ立ち飲み店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27014207/",
     "hotpepper_url": "",
@@ -50334,10 +50103,10 @@
     "visit_kind": "guest_tv",
     "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
-      "西畑大吾（なにわ男子）",
-      "正門良規（Aぇ! group）"
+      "永瀬廉（King & Prince）",
+      "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "収録は2024年7月26日。"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
   },
   {
     "id": "kingprince-kitchen-",
@@ -50353,7 +50122,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "西畑大吾"
+      "正門良規"
     ],
     "groups": [
       "agroup",
@@ -50362,7 +50131,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "",
-    "description": "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島の韓国料理居酒屋（2軒目）。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と2軒目に入った韓国料理の居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27014207/",
     "hotpepper_url": "",
@@ -50372,12 +50141,12 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
-    "program": "笑ってコラえて！",
+    "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
       "永瀬廉（King & Prince）",
-      "正門良規（Aぇ! group）"
+      "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "kosodate-and.net/ren-daigo-masakado-osaka で確認。2024年8月28日放送『笑ってコラえて！』朝までハシゴの旅in大阪（ロケは7月26日）。現在のmembersにある髙橋海人・岸優太・神宮寺勇太はこのロケに出ていない（King & Princeの店としては永瀬廉だけ）"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
   },
   {
     "id": "kingprince-0102bcf9-",
@@ -50393,7 +50162,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "西畑大吾"
+      "正門良規"
     ],
     "groups": [
       "agroup",
@@ -50402,7 +50171,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "新福島駅 徒歩1分",
-    "description": "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島の居酒屋（3軒目）。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と3軒目に入った居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27084655/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001282723/",
@@ -50413,13 +50182,13 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/82/62/P039178262/P039178262_238.jpg",
     "visit_kind": "guest_tv",
-    "program": "笑ってコラえて！",
+    "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
       "永瀬廉（King & Prince）",
-      "正門良規（Aぇ! group）",
+      "西畑大吾（なにわ男子）",
       "辻（ニッポンの社長）"
     ],
-    "qa_note": "kosodate-and.net/ren-daigo-masakado-osaka で確認。2024年8月28日放送『笑ってコラえて！』朝までハシゴの旅in大阪（ロケは7月26日）。現在のmembersにある髙橋海人・岸優太・神宮寺勇太はこのロケに出ていない（King & Princeの店としては永瀬廉だけ）。この店ではニッポンの社長・辻と居合わせた"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。この店でニッポンの社長・辻と居合わせた。"
   },
   {
     "id": "kingprince-66d643bc-",
@@ -50435,7 +50204,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "西畑大吾"
+      "正門良規"
     ],
     "groups": [
       "agroup",
@@ -50444,7 +50213,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "新福島駅 徒歩2分",
-    "description": "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島のイタリアン居酒屋（4軒目）。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と4軒目に入ったイタリアンの酒場。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27129373/",
     "hotpepper_url": "",
@@ -50454,12 +50223,12 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
-    "program": "笑ってコラえて！",
+    "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
       "永瀬廉（King & Prince）",
-      "正門良規（Aぇ! group）"
+      "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "kosodate-and.net/ren-daigo-masakado-osaka で確認。2024年8月28日放送『笑ってコラえて！』朝までハシゴの旅in大阪（ロケは7月26日）。現在のmembersにある髙橋海人・岸優太・神宮寺勇太はこのロケに出ていない（King & Princeの店としては永瀬廉だけ）"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
   },
   {
     "id": "kingprince-25d8fc80-",
@@ -50475,7 +50244,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "西畑大吾"
+      "正門良規"
     ],
     "groups": [
       "agroup",
@@ -50484,7 +50253,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "福島駅 徒歩1分",
-    "description": "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島のカフェバー（5軒目）。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と5軒目に入ったカフェバー。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27140807/",
     "hotpepper_url": "",
@@ -50494,12 +50263,12 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
-    "program": "笑ってコラえて！",
+    "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
       "永瀬廉（King & Prince）",
-      "正門良規（Aぇ! group）"
+      "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "kosodate-and.net/ren-daigo-masakado-osaka で確認。2024年8月28日放送『笑ってコラえて！』朝までハシゴの旅in大阪（ロケは7月26日）。現在のmembersにある髙橋海人・岸優太・神宮寺勇太はこのロケに出ていない（King & Princeの店としては永瀬廉だけ）"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
   },
   {
     "id": "kingprince-bar_lil_farm-",
@@ -50515,7 +50284,7 @@
     "source_url": "https://kosodate-and.net/ren-daigo-masakado-osaka",
     "visited_date": "",
     "members": [
-      "西畑大吾"
+      "正門良規"
     ],
     "groups": [
       "agroup",
@@ -50524,7 +50293,7 @@
     ],
     "group": "kingprince",
     "nearest_station": "福島駅 徒歩1分",
-    "description": "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴし、あいがけ麻婆カレーを食べた大阪・福島のバー（6軒目）。",
+    "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と6軒目に入り、あいがけ麻婆カレーを食べたバー。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003473718/",
@@ -50535,12 +50304,12 @@
     "ordered_items": [],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/21/86/P041152186/P041152186_238.jpg",
     "visit_kind": "guest_tv",
-    "program": "笑ってコラえて！",
+    "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
     "with": [
       "永瀬廉（King & Prince）",
-      "正門良規（Aぇ! group）"
+      "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "kosodate-and.net/ren-daigo-masakado-osaka で確認。2024年8月28日放送『笑ってコラえて！』朝までハシゴの旅in大阪（ロケは7月26日）。現在のmembersにある髙橋海人・岸優太・神宮寺勇太はこのロケに出ていない（King & Princeの店としては永瀬廉だけ）"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。7軒目の大衆酒場 kingprince-c0675074- は groups に agroup が付いていない（付けるか確認）。"
   },
   {
     "id": "kingprince-c0675074-",
@@ -53653,7 +53422,7 @@
     "youtube_id": "",
     "source_video_title": "【KinKi Kidsのブンブブーンロケ地】銀座の天ぷらの名店はどこ？",
     "source_url": "https://kosodate-and.net/kinki-kids-bunbuboon-tenpura",
-    "visited_date": "",
+    "visited_date": "2023-12-02",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -53662,7 +53431,7 @@
       "kinkikids"
     ],
     "group": "kinkikids",
-    "description": "東京都の和食。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年12月2日放送）で、藤井隆と天ぷらの揚げ方を教わった銀座の天ぷら店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13092132/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000747251/",
@@ -53671,7 +53440,13 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/43/P020886543/P020886543_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/43/P020886543/P020886543_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "藤井隆"
+    ],
+    "qa_note": "店名はファンブログ（kosodate-and.net）が店のInstagramを載せて紹介したもの。公式告知は「銀座の名店」までで店名なし。銀座本店（4丁目）として登録"
   },
   {
     "id": "kinkikids-tsukiji_fish_burger-",
@@ -53685,7 +53460,7 @@
     "youtube_id": "",
     "source_video_title": "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？",
     "source_url": "https://kosodate-and.net/kinki-kids-momokuro-tsukiji",
-    "visited_date": "",
+    "visited_date": "2023-12-09",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -53695,7 +53470,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "築地市場駅 徒歩5分",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年12月9日放送）の築地グルメ企画で、ももいろクローバーZと訪れた築地場外のフィッシュバーガーの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13219939/",
     "hotpepper_url": "",
@@ -53703,7 +53478,13 @@
     "tmdb_id": 82346,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
+    ],
+    "qa_note": "百田夏菜子は休み"
   },
   {
     "id": "kinkikids-33db77e2-",
@@ -53717,7 +53498,7 @@
     "youtube_id": "",
     "source_video_title": "【KinKi Kidsのブンブブーン】築地のフィッシュバーガーのお店はどこ？",
     "source_url": "https://kosodate-and.net/kinki-kids-momokuro-tsukiji",
-    "visited_date": "",
+    "visited_date": "2023-12-09",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -53727,7 +53508,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "築地市場駅 徒歩5分",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年12月9日放送）の築地グルメ企画で、ももいろクローバーZと訪れたカレー店。2人は上上豚カレーを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13184159/",
     "hotpepper_url": "",
@@ -53735,7 +53516,12 @@
     "tmdb_id": 82346,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
+    ]
   },
   {
     "id": "kinkikids-tokyo_3-",
@@ -53749,7 +53535,7 @@
     "youtube_id": "",
     "source_video_title": "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？",
     "source_url": "https://kosodate-and.net/kinki-kids-momokuro-yakiniku",
-    "visited_date": "",
+    "visited_date": "2023-12-16",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -53759,7 +53545,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "御徒町",
-    "description": "東京都の焼肉。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年12月16日放送）の「心残りグルメ」企画で、ももいろクローバーZと訪れた上野の焼肉店。ミルフィーユユッケなどを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13265088/",
     "hotpepper_url": "",
@@ -53770,42 +53556,12 @@
       "ミルフィーユユッケ",
       "ごぉ赤壁"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
-  },
-  {
-    "id": "kinkikids-21-",
-    "name": "21時にアイス　上野店",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区湯島3丁目42番地3号桂昇上野湯島ビル",
-    "lat": 35.705712,
-    "lng": 139.7691299,
-    "youtube_id": "",
-    "source_video_title": "【KinKi Kidsのブンブブーン】焼肉屋さんと夜アイスはどこ？",
-    "source_url": "https://kosodate-and.net/kinki-kids-momokuro-yakiniku",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "御徒町",
-    "description": "東京都のスイーツ。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13299528/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 82346,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "濃厚チョコアイス",
-      "塩クッキーキャラメルアイス"
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
+    ]
   },
   {
     "id": "kinkikids-58d88bae-",
@@ -53819,17 +53575,16 @@
     "youtube_id": "",
     "source_video_title": "【ニノさん】堂本光一が大好きないなり寿司 だしいなりはどこで買える？",
     "source_url": "https://kosodate-and.net/ninosan-koichi-dashiinari",
-    "visited_date": "",
+    "visited_date": "2025-02-14",
     "members": [
-      "堂本光一",
-      "堂本剛"
+      "堂本光一"
     ],
     "groups": [
       "kinkikids"
     ],
     "group": "kinkikids",
     "nearest_station": "三越前駅 徒歩1分",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "堂本光一がゲスト出演した『ニノさん』（2025年2月14日放送）で、ご褒美として出た光一の好物「だしいなり」の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130202/13239412/",
     "hotpepper_url": "",
@@ -53837,39 +53592,17 @@
     "tmdb_id": 82913,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
-  },
-  {
-    "id": "kinkikids-3d12fce8-",
-    "name": "だしいなり海木 本店",
-    "genre": "shokuji",
-    "prefecture": "福岡県",
-    "city": "",
-    "address": "福岡市中央区渡辺通1-9-3",
-    "lat": 33.5814438,
-    "lng": 130.4019737,
-    "youtube_id": "",
-    "source_video_title": "【ニノさん】堂本光一が大好きないなり寿司 だしいなりはどこで買える？",
-    "source_url": "https://kosodate-and.net/ninosan-koichi-dashiinari",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ニノさん",
+    "with": [
+      "二宮和也",
+      "菊池風磨",
+      "陣内智則",
+      "朝日奈央"
     ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "薬院駅 徒歩1分",
-    "description": "福岡県の飲食店。堂本光一・堂本剛が「ニノさん」で訪れた。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1302/A130202/13239412/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 82913,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+    "studio_only": true,
+    "qa_note": "スタジオに出ただけ（店でのロケではない）。堂本剛は出演していないので members から外す。どの店舗の品かは不明（日本橋店と福岡本店の2店）。東京の日本橋店に1つにまとめる"
   },
   {
     "id": "v6-sakai-20220807",
@@ -55234,7 +54967,7 @@
     "youtube_id": "",
     "source_video_title": "KinKi Kidsのブンブブーン",
     "source_url": "https://www.activitv.com/entry/category/tv/bunbuboon_/",
-    "visited_date": "",
+    "visited_date": "2023-03-04",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -55244,7 +54977,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "巣鴨新田駅 徒歩3分",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年3月4日放送）のおにぎり企画で取り上げられた大塚のおにぎり専門店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132302/13276342/",
     "hotpepper_url": "",
@@ -55252,39 +54985,15 @@
     "tmdb_id": 82346,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
-  },
-  {
-    "id": "kinkikids-6eda1c89-",
-    "name": "よろにく",
-    "genre": "yakiniku",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区南青山6-6-22",
-    "lat": 35.6667236,
-    "lng": 139.7188607,
-    "youtube_id": "",
-    "source_video_title": "KinKi Kidsのブンブブーン",
-    "source_url": "https://www.activitv.com/entry/category/tv/bunbuboon_/",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "目黒蓮",
+      "今田美桜"
     ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "外苑前駅 徒歩7分",
-    "description": "東京都の焼肉。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13042979/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 82346,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+    "studio_only": true,
+    "qa_note": "出典はカテゴリページだけだったが、検索で2023年3月4日（目黒蓮・今田美桜）の「本当に美味しいおにぎりを見つけたい」回と確認。店に行ったのか、おにぎりが運ばれたのかは確かめられず（複数店のおにぎりの食べ比べのため studio_only 扱い）"
   },
   {
     "id": "kinkikids-no4-",
@@ -55308,7 +55017,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "市ケ谷駅 徒歩5分",
-    "description": "東京都のカフェ。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』の焼きたてパン企画で、ももいろクローバーZとロケをした市ヶ谷・四番町のカフェ＆ベーカリー。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55316,7 +55025,13 @@
     "source_type": "",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "ももいろクローバーZ"
+    ],
+    "qa_note": "ファンブログ（healthyhawaiifood.com、2018-04-19）にロケの目撃情報。放送はWikipediaの放送リストで2018年5月5日「朝から食べたい焼きたてパンめぐり」と思われる（未確定のため visited_date は入れない）"
   },
   {
     "id": "kinkikids-3f4fe099-",
@@ -55340,79 +55055,21 @@
     ],
     "group": "kinkikids",
     "nearest_station": "麹町駅 徒歩1分",
-    "description": "東京都のラーメン。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』で、前田美波里と訪れた麹町のそば店。バジルそばやスタミナ牛すじそばを頼んだ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
-    "source_type": "",
-    "tmdb_id": 82346,
-    "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "kinkikids-71f64978-",
-    "name": "オザワ洋菓子店",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区本郷3-22-9",
-    "lat": 35.7077379,
-    "lng": 139.760167,
-    "youtube_id": "",
-    "source_video_title": "KinKi Kidsのブンブブーン 麹町ロケ",
-    "source_url": "https://healthyhawaiifood.com/kinki-kids-rokechi-koujimachi/",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "東京都のカフェ。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
-    "source_type": "",
-    "tmdb_id": 82346,
-    "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "kinkikids-ristorante_en-",
-    "name": "高田馬場 Ristorante En",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区高田馬場",
-    "lat": 35.7126839,
-    "lng": 139.7036425,
-    "youtube_id": "",
-    "source_video_title": "KinKi Kidsのブンブブーン 2022.10.29 五感が喜ぶ宝箱弁当",
-    "source_url": "https://www.activitv.com/entry/category/tv/bunbuboon_/",
-    "visited_date": "",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "groups": [
-      "kinkikids"
-    ],
-    "group": "kinkikids",
-    "nearest_station": "",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130503/13149621/",
-    "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "前田美波里"
+    ],
+    "qa_note": "ファンブログ（healthyhawaiifood.com）より。放送はWikipediaの放送リストで2016年12月4日「通いたくなる絶品蕎麦屋めぐり」と思われる（未確定）。genre は washoku のままでよい（descriptionの「ラーメン」は誤り）"
   },
   {
     "id": "kinkikids-741826ef-",
@@ -55426,7 +55083,7 @@
     "youtube_id": "",
     "source_video_title": "KinKi Kidsのブンブブーン 2024.01.06 奥渋谷",
     "source_url": "https://www.activitv.com/entry/category/tv/bunbuboon_/",
-    "visited_date": "",
+    "visited_date": "2024-01-06",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -55436,7 +55093,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "東京都の食事。KinKi Kidsの堂本光一・堂本剛らが訪れた飲食店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2024年1月6日放送）の奥渋谷ロケで、柳沢慎吾と訪れた魚屋の定食店。さば味噌煮を食べた。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55444,7 +55101,13 @@
     "source_type": "",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "柳沢慎吾"
+    ],
+    "qa_note": "住所が「宇田川町」だけ。出典（activitv）では東京都渋谷区神山町40-4。店名は「魚力」"
   },
   {
     "id": "kismai-2f1d5b20-",
@@ -58893,7 +58556,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "上町二丁目駅 徒歩1分",
-    "description": "高知を代表するカツオのたたきの名店。広末涼子ゲスト回で紹介された高知グルメ。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年4月23日放送）の高知特集で、広末涼子と味わったカツオのたたきの鮮魚店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -58905,7 +58568,14 @@
       {
         "name": "カツオのたたき"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "広末涼子"
+    ],
+    "studio_only": true,
+    "qa_note": "source_url なし。高知へロケに行ったのか、都内で取り寄せて食べたのか確かめられず（studio_only 扱い）"
   },
   {
     "id": "kinkikids-184ba032-20220423",
@@ -58929,7 +58599,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "堀詰駅 徒歩4分",
-    "description": "高知の人気屋台餃子の店。広末涼子ゲスト回の高知グルメ特集で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年4月23日放送）の高知特集で、広末涼子と味わった屋台餃子の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000032212/",
@@ -58942,7 +58612,14 @@
         "name": "屋台餃子"
       }
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/17/04/P019611704/P019611704_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/17/04/P019611704/P019611704_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "広末涼子"
+    ],
+    "studio_only": true,
+    "qa_note": "同上。高知ロケか取り寄せか不明"
   },
   {
     "id": "kinkikids-11_1-20220423",
@@ -58966,7 +58643,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "高知名物アイスクリンの人気店。広末涼子ゲスト回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年4月23日放送）の高知特集で、広末涼子と味わったアイスクリンの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -58978,7 +58655,14 @@
       {
         "name": "アイスクリン"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "広末涼子"
+    ],
+    "studio_only": true,
+    "qa_note": "同上。高知ロケか取り寄せか不明"
   },
   {
     "id": "kinkikids-8a7a5dc6-20220423",
@@ -59002,7 +58686,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "大橋通駅 徒歩2分",
-    "description": "高知の名物芋けんぴブランドの本店。広末涼子ゲスト回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年4月23日放送）の高知特集で、広末涼子と味わった芋けんぴの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59014,7 +58698,14 @@
       {
         "name": "揚げたて芋けんぴ"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "広末涼子"
+    ],
+    "studio_only": true,
+    "qa_note": "同上。取り寄せ紹介のブログあり。高知ロケか不明"
   },
   {
     "id": "kinkikids-f39d2ab4-20220702",
@@ -59038,7 +58729,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "西武新宿駅 徒歩4分",
-    "description": "韓国料理チュクミの人気店。勝地涼ゲスト・韓国グルメ回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年7月2日放送）の韓国グルメ企画で、勝地涼と味わったチュクミ（イイダコ）の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59050,7 +58741,14 @@
       {
         "name": "チュクミ"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "勝地涼"
+    ],
+    "studio_only": true,
+    "qa_note": "韓国ツウのおすすめを食べる回。店に行ったか料理が運ばれたかは確かめられず（studio_only 扱い）。北斗晶のおすすめとの記事あり"
   },
   {
     "id": "kinkikids-c4cd9af3-20220702",
@@ -59074,7 +58772,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "赤坂駅 徒歩1分",
-    "description": "赤坂の韓国料理店。勝地涼ゲスト・韓国グルメ回でサムゲタンを紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年7月2日放送）の韓国グルメ企画で、勝地涼と味わったサムゲタンの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001269923/",
@@ -59087,7 +58785,14 @@
         "name": "濃厚とろとろサムゲタン"
       }
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/39/61/P044643961/P044643961_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/39/61/P044643961/P044643961_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "勝地涼"
+    ],
+    "studio_only": true,
+    "qa_note": "同上。ジェジュンのおすすめとして紹介。店に行ったかは不明"
   },
   {
     "id": "kinkikids-746fb2b3-20221008",
@@ -59111,7 +58816,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "北海道美幌町の中華まんの名店。即完売グルメ回で紹介された隠れた名品。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年10月8日放送）の「即完売の超人気グルメ」企画で、矢田亜希子と味わった北海道美幌町の中華まんの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59126,7 +58831,14 @@
       {
         "name": "鶏肉まん"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "矢田亜希子"
+    ],
+    "studio_only": true,
+    "qa_note": "全国の店の品を食べる企画。店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-f41a9cec-20221008",
@@ -59150,7 +58862,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "京都の名店・雲月の東京店。わらびもちが即完売の人気スイーツ。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年10月8日放送）の「即完売の超人気グルメ」企画で、矢田亜希子と味わったわらびもちの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59162,7 +58874,14 @@
       {
         "name": "わらびもち"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "矢田亜希子"
+    ],
+    "studio_only": true,
+    "qa_note": "店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-d6e1d4a1-20221008",
@@ -59186,7 +58905,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "岐阜駅近くの焼餃子専門店。即完売グルメ回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年10月8日放送）の「即完売の超人気グルメ」企画で、矢田亜希子と味わった岐阜の焼餃子の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59198,7 +58917,14 @@
       {
         "name": "焼餃子"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "矢田亜希子"
+    ],
+    "studio_only": true,
+    "qa_note": "店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-28262b77-20221008",
@@ -59222,7 +58948,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "御殿場駅 徒歩11分",
-    "description": "御殿場の生フルーツゼリーの人気店。即完売グルメ回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年10月8日放送）の「即完売の超人気グルメ」企画で、矢田亜希子と味わった御殿場の生フルーツゼリーの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59234,7 +58960,14 @@
       {
         "name": "生フルーツゼリー"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "矢田亜希子"
+    ],
+    "studio_only": true,
+    "qa_note": "店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-c2185520-20221008",
@@ -59258,7 +58991,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "東京駅 徒歩3分",
-    "description": "フランス産エシレバター専門のパティスリー。バターケーキが即完売の大人気店。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年10月8日放送）の「即完売の超人気グルメ」企画で、矢田亜希子と味わったバター専門店のケーキ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59270,7 +59003,14 @@
       {
         "name": "ガトー・エシレ ナチュール"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "矢田亜希子"
+    ],
+    "studio_only": true,
+    "qa_note": "店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-5adebe74-20220211",
@@ -59284,7 +59024,7 @@
     "youtube_id": "",
     "source_video_title": "KinKi Kidsのブンブブーン おまけグルメ",
     "source_url": "",
-    "visited_date": "2022-02-11",
+    "visited_date": "2023-02-11",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -59294,7 +59034,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "月島の精肉・ローストビーフの名店。ブンブブーンおまけグルメ回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年2月11日放送）の「おまけグルメ」企画で、中島裕翔・奈緒と味わったローストビーフの切り落としの精肉店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59306,7 +59046,15 @@
       {
         "name": "国産黒毛和牛ローストビーフの切り落とし"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "中島裕翔",
+      "奈緒"
+    ],
+    "studio_only": true,
+    "qa_note": "visited_date 2022-02-11 は誤り。おまけグルメ回は2023年2月11日（Wikipedia放送リスト）。店でのロケではない（studio_only）"
   },
   {
     "id": "kinkikids-3b3cb1ab-20220211",
@@ -59320,7 +59068,7 @@
     "youtube_id": "",
     "source_video_title": "KinKi Kidsのブンブブーン おまけグルメ",
     "source_url": "",
-    "visited_date": "2022-02-11",
+    "visited_date": "2023-02-11",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -59330,7 +59078,7 @@
     ],
     "group": "kinkikids",
     "nearest_station": "",
-    "description": "大阪門真市のどら焼きの皮だけが名物の和菓子店。ブンブブーンおまけグルメ回で紹介。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年2月11日放送）の「おまけグルメ」企画で、中島裕翔・奈緒と味わった「どら焼きの皮」の和菓子店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -59342,7 +59090,15 @@
       {
         "name": "どら焼きの皮だけ"
       }
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "中島裕翔",
+      "奈緒"
+    ],
+    "studio_only": true,
+    "qa_note": "visited_date 2022-02-11 は誤り（2023-02-11）。店でのロケではない（studio_only）"
   },
   {
     "id": "4c26c3d3",
@@ -61121,7 +60877,7 @@
     "lng": 135.49941585964,
     "source_video_title": "ごぶごぶ（堂本剛）",
     "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
-    "visited_date": "2023-01-01",
+    "visited_date": "2026-01-03",
     "members": [
       "堂本剛"
     ],
@@ -61131,7 +60887,7 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27149249/",
-    "description": "ごぶごぶで堂本剛が絶賛したホットケーキが名物の梅田の喫茶店。",
+    "description": "堂本剛が出演した『ごぶごぶ』正月SP（2026年1月3日放送）で、浜田雅功と訪れた梅田の喫茶店。剛が移転前に通っていた店で、ホットケーキを食べた。",
     "ordered_items": [
       "ホットケーキ"
     ],
@@ -61140,7 +60896,13 @@
     "tmdb_id": 110816,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000447209/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/96/61/P038489661/P038489661_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/96/61/P038489661/P038489661_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ごぶごぶ",
+    "with": [
+      "浜田雅功"
+    ],
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
   },
   {
     "id": "8c2d75d8",
@@ -61153,7 +60915,7 @@
     "lng": 135.5046815760324,
     "source_video_title": "ごぶごぶ（堂本剛）",
     "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
-    "visited_date": "2023-01-01",
+    "visited_date": "2026-01-03",
     "members": [
       "堂本剛"
     ],
@@ -61163,7 +60925,7 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27055359/",
-    "description": "ごぶごぶで堂本剛が訪れたおでん・どて焼きの老舗。",
+    "description": "堂本剛が出演した『ごぶごぶ』正月SP（2026年1月3日放送）で、浜田雅功と訪れた心斎橋のおでん店（久本雅美の行きつけとして紹介）。",
     "ordered_items": [
       "ふき",
       "きくな",
@@ -61175,7 +60937,13 @@
     "tmdb_id": 110816,
     "tmdb_type": "tv",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003671326/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/53/P042874853/P042874853_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/53/P042874853/P042874853_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "ごぶごぶ",
+    "with": [
+      "浜田雅功"
+    ],
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
   },
   {
     "id": "3171954a",
@@ -61188,7 +60956,7 @@
     "lng": 135.50217172717615,
     "source_video_title": "ごぶごぶ（堂本剛）",
     "source_url": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/",
-    "visited_date": "2023-01-01",
+    "visited_date": "2026-01-03",
     "members": [
       "堂本剛"
     ],
@@ -61198,13 +60966,19 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27008279/",
-    "description": "ごぶごぶで堂本剛が訪れた鉄板ハンバーグの店。",
+    "description": "堂本剛が出演した『ごぶごぶ』正月SP（2026年1月3日放送）で、浜田雅功と訪れた心斎橋の鉄板焼きの店（シャンプーハット恋さんの行きつけとして紹介）。ハンバーグを食べた。",
     "ordered_items": [
       "でりしゃすハンバーグ"
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fTwzqaR5L0acHcGFu2CQsZ2x0rU.jpg",
     "tmdb_id": 110816,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ごぶごぶ",
+    "with": [
+      "浜田雅功"
+    ],
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
   },
   {
     "id": "196b9e03",
@@ -61269,7 +61043,7 @@
     "lng": 135.74669182002293,
     "source_video_title": "人生最高レストラン（堂本剛）",
     "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
-    "visited_date": "2024-01-01",
+    "visited_date": "2023-09-09",
     "members": [
       "堂本剛"
     ],
@@ -61279,13 +61053,21 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290102/29013800/",
-    "description": "堂本剛が人生最高の一品として選んだシャトーブリアンの高級焼肉店。",
+    "description": "堂本剛がゲスト出演した『人生最高レストラン』（2023年9月9日放送）で、シャトーブリアンを挙げて紹介した奈良・生駒の焼肉店。",
     "ordered_items": [
       "シャトーブリアン"
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
     "tmdb_id": 112042,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "人生最高レストラン",
+    "with": [
+      "加藤浩次",
+      "島崎和歌子",
+      "朝日奈央"
+    ],
+    "qa_note": "スタジオのトーク番組で、剛が自分の思い出の店として紹介（番組でのロケではない）。visited_date 2024-01-01 は誤り（2023-09-09）。出典の 8888-info.hatenablog.com は robots.txt でClaudeを拒否しているため読まず、activitv.com で確認。住所が出典（奈良県生駒市鹿畑町906）と食い違う（データは鹿ノ台南906）"
   },
   {
     "id": "0fdb6efd",
@@ -61298,7 +61080,7 @@
     "lng": 139.71438118305517,
     "source_video_title": "人生最高レストラン（堂本剛）",
     "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
-    "visited_date": "2024-01-01",
+    "visited_date": "2023-09-09",
     "members": [
       "堂本剛"
     ],
@@ -61308,14 +61090,22 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13126818/",
-    "description": "堂本剛が人生最高と語る南青山のパンケーキ専門店。無添加・無香料のオリジナルブレンドが特長。",
+    "description": "堂本剛がゲスト出演した『人生最高レストラン』（2023年9月9日放送）で紹介した南青山のパンケーキ専門店。",
     "ordered_items": [
       "パンケーキ"
     ],
     "nearest_station": "表参道駅 徒歩8分",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
     "tmdb_id": 112042,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "人生最高レストラン",
+    "with": [
+      "加藤浩次",
+      "島崎和歌子",
+      "朝日奈央"
+    ],
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。8888-info は robots.txt で拒否のため activitv.com で確認"
   },
   {
     "id": "1eaca426",
@@ -61328,7 +61118,7 @@
     "lng": 135.8338751969959,
     "source_video_title": "人生最高レストラン（堂本剛）",
     "source_url": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1",
-    "visited_date": "2024-01-01",
+    "visited_date": "2023-09-09",
     "members": [
       "堂本剛"
     ],
@@ -61338,13 +61128,21 @@
     "group": "kinkikids",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000052/",
-    "description": "堂本剛が人生最高と語る奈良の石臼挽き十割蕎麦の名店。",
+    "description": "堂本剛がゲスト出演した『人生最高レストラン』（2023年9月9日放送）で、梅たたきの水蕎麦を挙げて紹介した奈良のそば店。",
     "ordered_items": [
       "せいろ蕎麦"
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
     "tmdb_id": 112042,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "人生最高レストラン",
+    "with": [
+      "加藤浩次",
+      "島崎和歌子",
+      "朝日奈央"
+    ],
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。店名「玄」は activitv.com で確認、住所は出典で確かめていない"
   },
   {
     "id": "95fa12cb",
@@ -61920,7 +61718,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13241207/",
     "source_video_title": "KinKi Kidsのブンブブーン 電光石火（お好み焼き） 2024年2月24日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_240224_okonomi/",
-    "description": "東京都の飲食店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 電光石火（お好み焼き）」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2024年2月24日放送）で、岸谷五朗・鈴木福とプロからお好み焼き作りを教わった広島風お好み焼き店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -61929,7 +61727,16 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "中央区"
+    "city": "中央区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "岸谷五朗",
+      "鈴木福"
+    ],
+    "visited_date": "2024-02-24",
+    "studio_only": true,
+    "qa_note": "「プロ直伝！本格お好み焼き作り」回。出典はレシピ紹介で、店でのロケかは確かめられず（studio_only 扱い）"
   },
   {
     "id": "c0531869",
@@ -61947,7 +61754,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13197629/",
     "source_video_title": "KinKi Kidsのブンブブーン 奥渋谷ロケ 2024年1月6日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_240106_okushibu/",
-    "description": "東京都の焼肉店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 奥渋谷ロケ」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2024年1月6日放送）の奥渋谷ロケで、柳沢慎吾と訪れた精肉店。揚げたての惣菜を味わった。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -61955,7 +61762,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "渋谷区"
+    "city": "渋谷区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "柳沢慎吾"
+    ],
+    "visited_date": "2024-01-06",
+    "qa_note": "精肉店の惣菜の食べ歩き。genre が yakiniku だが焼肉店ではない（精肉店）"
   },
   {
     "id": "bf738839",
@@ -61973,7 +61787,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13215901/",
     "source_video_title": "KinKi Kidsのブンブブーン 熟成焼肉・希少部位 2023年9月23日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230923_kakunoshin/",
-    "description": "東京都の焼肉店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 熟成焼肉・希少部位」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年9月23日放送）の焼肉希少部位の食べ比べ企画で、観月ありさ・小堺一機と味わった六本木の熟成焼肉店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -61982,7 +61796,16 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "港区"
+    "city": "港区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "観月ありさ",
+      "小堺一機",
+      "フォーリンデブはっしー"
+    ],
+    "visited_date": "2023-09-23",
+    "qa_note": "店でのロケかは確かめられず（出典は店名と部位の紹介だけ）"
   },
   {
     "id": "561405be",
@@ -62000,7 +61823,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131002/13023052/",
     "source_video_title": "KinKi Kidsのブンブブーン フカヒレ炒飯オムライス 2023年9月9日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230909_fukahire/",
-    "description": "東京都の中華料理店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン フカヒレ炒飯オムライス」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年9月9日放送）の「一流シェフの創作オムライス」企画で、高杉真宙と味わったフカヒレ炒飯オムライスの中華料理店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62009,7 +61832,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "千代田区"
+    "city": "千代田区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "高杉真宙"
+    ],
+    "visited_date": "2023-09-09",
+    "studio_only": true,
+    "qa_note": "シェフが考案したオムライスを味わう回（3店）。店でのロケではないとみて studio_only"
   },
   {
     "id": "8d6bec2c",
@@ -62027,7 +61858,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13142028/",
     "source_video_title": "KinKi Kidsのブンブブーン スフレオムライス 2023年9月9日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230909_omu-3/",
-    "description": "東京都の飲食店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン スフレオムライス」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年9月9日放送）の「一流シェフの創作オムライス」企画で、高杉真宙と味わったスフレオムライスのフレンチレストラン。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62036,7 +61867,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "渋谷区"
+    "city": "渋谷区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "高杉真宙"
+    ],
+    "visited_date": "2023-09-09",
+    "studio_only": true,
+    "qa_note": "同上（studio_only）"
   },
   {
     "id": "fb8e470b",
@@ -62054,7 +61893,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13038046/",
     "source_video_title": "KinKi Kidsのブンブブーン オムライス 2023年9月9日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230909_omu-2/",
-    "description": "東京都の和食店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン オムライス」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年9月9日放送）の「一流シェフの創作オムライス」企画で、高杉真宙と味わったうなぎ飯と出汁巻き玉子のオムライスの日本料理店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62062,7 +61901,15 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "中央区"
+    "city": "中央区",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "高杉真宙"
+    ],
+    "visited_date": "2023-09-09",
+    "studio_only": true,
+    "qa_note": "同上（studio_only）"
   },
   {
     "id": "2e7fec09",
@@ -62080,7 +61927,7 @@
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11000248/",
     "source_video_title": "KinKi Kidsのブンブブーン うな重 川越 2023年8月5日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230805_unagi/",
-    "description": "埼玉県の和食店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン うな重 川越」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年8月5日放送）の小江戸川越散策ツアーで、市村正親・鹿賀丈史と訪れたうなぎ店。うな重を食べた。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62091,7 +61938,14 @@
     "tmdb_type": "tv",
     "city": "川越市",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000182252/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/85/P039029485/P039029485_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/85/P039029485/P039029485_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "市村正親",
+      "鹿賀丈史"
+    ],
+    "visited_date": "2023-08-05"
   },
   {
     "id": "4f3df703",
@@ -62109,7 +61963,7 @@
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11016740/",
     "source_video_title": "KinKi Kidsのブンブブーン 紫芋ソフトクリーム 川越 2023年8月5日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230805_ice/",
-    "description": "埼玉県のスイーツショップ。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 紫芋ソフトクリーム 川越」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年8月5日放送）の小江戸川越散策ツアーで、市村正親・鹿賀丈史と立ち寄った時の鐘のそばの和菓子店。紫芋のソフトクリームを食べた。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62118,33 +61972,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "川越市"
-  },
-  {
-    "id": "0c5b71fe",
-    "name": "宮良そば",
-    "group": "kinkikids",
-    "groups": [
-      "kinkikids"
+    "city": "川越市",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "市村正親",
+      "鹿賀丈史"
     ],
-    "genre": "ramen",
-    "prefecture": "沖縄県",
-    "area": "浦添",
-    "address": "沖縄県浦添市当山1-7-17",
-    "lat": 26.255142800870072,
-    "lng": 127.73172932760819,
-    "tabelog_url": "https://tabelog.com/okinawa/A4703/A470404/47003012/",
-    "source_video_title": "KinKi Kidsのブンブブーン 骨汁定食 沖縄 2023年7月15日",
-    "source_url": "https://www.activitv.com/entry/bunbuboon_230715-3/",
-    "description": "沖縄県のラーメン店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 骨汁定食 沖縄」で訪れた。",
-    "members": [
-      "堂本光一",
-      "堂本剛"
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
-    "tmdb_id": 82346,
-    "tmdb_type": "tv",
-    "city": "浦添市"
+    "visited_date": "2023-08-05"
   },
   {
     "id": "42b487cd",
@@ -62162,7 +61997,7 @@
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13027399/",
     "source_video_title": "KinKi Kidsのブンブブーン 沖縄料理 2023年7月15日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230715-2/",
-    "description": "東京都の和食店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン 沖縄料理」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年7月15日放送）で、King & Princeの永瀬廉と沖縄料理を味わった日本橋堀留町の沖縄料理店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62172,7 +62007,14 @@
     "tmdb_type": "tv",
     "city": "中央区",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000245623/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/11/P026496211/P026496211_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/62/11/P026496211/P026496211_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "永瀬廉"
+    ],
+    "visited_date": "2023-07-15",
+    "qa_note": "店の公式Xに「当店にて収録」とある。隣の椙森神社から番組が始まった"
   },
   {
     "id": "8f57e5d6",
@@ -62190,7 +62032,7 @@
     "tabelog_url": "https://tabelog.com/yamagata/A0604/A060403/6000097/",
     "source_video_title": "KinKi Kidsのブンブブーン グルメ振り返りSP 2023年9月30日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230930_shop-2/",
-    "description": "山形県のラーメン店。堂本光一・堂本剛が「KinKi Kidsのブンブブーン グルメ振り返りSP」で訪れた。",
+    "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』で、新木優子のおすすめとして取り上げられた山形・天童の鳥中華の店。",
     "members": [
       "堂本光一",
       "堂本剛"
@@ -62198,7 +62040,14 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "city": "天童市"
+    "city": "天童市",
+    "visit_kind": "own_tv",
+    "program": "KinKi Kidsのブンブブーン",
+    "with": [
+      "新木優子"
+    ],
+    "studio_only": true,
+    "qa_note": "出典は2023年9月30日の総集編。元の回は2020年4月11日（新木優子「全国各地の絶品醤油ラーメン大集合」、コロナ禍でスタジオからのリモート収録の時期）と思われる。店でのロケではない（studio_only）"
   },
   {
     "id": "9876d475",
@@ -62329,8 +62178,8 @@
     "genre": "yakiniku",
     "prefecture": "東京都",
     "area": "原宿",
-    "lat": 35.672993768707464,
-    "lng": 139.72314052433154,
+    "lat": 35.673054,
+    "lng": 139.723206,
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13225589/",
     "source_video_title": "嵐にしやがれ グルメデスマッチ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -62342,7 +62191,6 @@
       "二宮和也",
       "松本潤"
     ],
-    "nearest_station": "青山一丁目駅 徒歩1分",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg",
     "tmdb_id": 106410,
     "tmdb_type": "tv",
@@ -62354,7 +62202,9 @@
       "今田耕司"
     ],
     "studio_only": true,
-    "qa_note": "出典の住所は東京都港区北青山1-2-3（データの area「原宿」は誤り）。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "出典の住所は東京都港区北青山1-2-3（データの area「原宿」は誤り）。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "address": "東京都港区北青山1-2-3",
+    "city": "港区"
   },
   {
     "id": "4ee1ec49",
@@ -62401,10 +62251,10 @@
       "arashi"
     ],
     "genre": "shokuji",
-    "prefecture": "埼玉県",
+    "prefecture": "東京都",
     "area": "小手指",
-    "lat": 35.74443153782037,
-    "lng": 139.60899008397138,
+    "lat": 35.744408,
+    "lng": 139.609207,
     "tabelog_url": "https://tabelog.com/tokyo/A1321/A132103/13149962/",
     "source_video_title": "嵐にしやがれ グルメデスマッチ",
     "source_url": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/",
@@ -62416,7 +62266,6 @@
       "二宮和也",
       "松本潤"
     ],
-    "nearest_station": "石神井公園駅 徒歩4分",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg",
     "tmdb_id": 106410,
     "tmdb_type": "tv",
@@ -62427,7 +62276,9 @@
       "岸優太"
     ],
     "studio_only": true,
-    "qa_note": "データの都道府県（埼玉県・小手指）は誤り。出典の住所は東京都練馬区石神井町2-13-5。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "データの都道府県（埼玉県・小手指）は誤り。出典の住所は東京都練馬区石神井町2-13-5。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "address": "東京都練馬区石神井町2-13-5",
+    "city": "練馬区"
   },
   {
     "id": "c5f21e44",
@@ -69857,7 +69708,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "末澤誠也・草間リチャード敬太がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「末リチャ丈の3人旅 後編」（2024年7月）で、末澤誠也・草間リチャード敬太が藤原丈一郎とデビュー前の思い出の味を囲んだ西宮のカフェレストラン。",
     "source_url": "https://kosodate-and.net/jyo-sue-richa-cafe/",
     "source_type": "youtube",
     "ordered_items": [
@@ -69868,7 +69719,13 @@
       "たらこ（明太子）スパゲッティ",
       "濃厚ガトーショコラ",
       "アフォガード"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "藤原丈一郎（なにわ男子）"
+    ],
+    "qa_note": "前編はなにわ男子のYouTube。"
   },
   {
     "id": "agroup-e9ea8a92-20240716",
@@ -69894,7 +69751,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「朝食で撮れ高を作れ」（2024年7月）で、5人が朝ごはんにおでん定食を食べた麻布十番のおでん店。",
     "source_url": "https://kosodate-and.net/agroup-oden-asagohan/",
     "source_type": "youtube",
     "ordered_items": [
@@ -69906,7 +69763,10 @@
       "やみつき塩キャベツ",
       "冷たいっ手羽",
       "薩摩とろチー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "同じ回のベーカリー Maison Landemaine はデータにない。"
   },
   {
     "id": "agroup-1605675e-20241112",
@@ -69932,7 +69792,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「リベンジ企画 朝メシでもんじゃ」（2024年11月）で、5人が朝からもんじゃを焼いた浅草の店。",
     "source_url": "https://kosodate-and.net/agroup-asakusa-monjya/",
     "source_type": "youtube",
     "ordered_items": [
@@ -69941,7 +69801,9 @@
       "浅草のりもんじゃ",
       "明太子・納豆・ネギもんじゃ",
       "ホルモンやきそば"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
   },
   {
     "id": "agroup-4286393c-20260127",
@@ -69966,7 +69828,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「被っちゃダメよグルメ～ファミレス編～」（2026年1月）で、室龍太と4人がメニューを選び合ったファミリーレストラン。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "ordered_items": [
@@ -69978,6 +69840,11 @@
       "チーズONチーズINハンバーグ",
       "アサイーヨーグルトボウル",
       "ガトーショコラ"
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "室龍太"
     ]
   },
   {
@@ -70000,12 +69867,15 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin調布」（2026年6月）で、佐野晶哉がアップルパイを買った調布の洋菓子店。",
     "source_url": "https://kosodate-and.net/agroup-chofu-temple/",
     "source_type": "youtube",
     "ordered_items": [
       "アップルパイ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。"
   },
   {
     "id": "agroup-7bfb0e7a-20260818",
@@ -70030,11 +69900,14 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「絶景BBQ」（2026年8月）で、4人がスーパーで買った食材でバーベキューをしたお台場のBBQ場。",
     "source_url": "https://kosodate-and.net/agroup-bbq-supermarket/",
     "source_type": "youtube",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004089991/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/83/48/P047368348/P047368348_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/83/48/P047368348/P047368348_238.jpg",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "qa_note": "食材は持ち込み（スーパーバリュー ロピアで購入）。店の料理を食べたわけではないが、飲食の場所なのでkeep。"
   },
   {
     "id": "agroup-3febac8c-20260901",
@@ -70059,7 +69932,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「被っちゃダメよ」（2026年9月）で、井ノ原快彦と4人がメニューを選び合ったファミリーレストラン。",
     "source_url": "https://kosodate-and.net/agroup-jonathan/",
     "source_type": "youtube",
     "ordered_items": [
@@ -70069,7 +69942,13 @@
       "カレー南蛮うどん",
       "背徳のけずりバターパンケーキ",
       "フルゴロ焼きたてりんごパイ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "井ノ原快彦"
+    ],
+    "qa_note": "ゲストは概要欄のタグ（#イノッチ #井ノ原快彦）で確認。"
   },
   {
     "id": "agroup-bf1dfdd1-20260306",
@@ -70085,8 +69964,6 @@
     "source_video_url": "https://www.youtube.com/watch?v=uDEC2fY1vx8",
     "visited_date": "2026-03-06",
     "members": [
-      "正門良規",
-      "末澤誠也",
       "小島健",
       "佐野晶哉"
     ],
@@ -70094,11 +69971,22 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの「横山万博打ち上げ」（2026年3月）で、横山会が藤原丈一郎の30歳を祝った赤坂の個室会席の店。",
     "source_url": "https://kosodate-and.net/yokoyamakai-ryotei/",
     "source_type": "youtube",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000731800/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/35/48/P048713548/P048713548_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/35/48/P048713548/P048713548_238.jpg",
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
+    "with": [
+      "横山裕（SUPER EIGHT）",
+      "桐山照史（WEST.）",
+      "濵田崇裕（WEST.）",
+      "小瀧望（WEST.）",
+      "藤原丈一郎（なにわ男子）",
+      "大橋和也（なにわ男子）"
+    ],
+    "qa_note": "横山会のAぇ! groupは小島健・佐野晶哉（横山万博の出演者）。概要欄の4人の名前はいつもの定型文で、正門良規・末澤誠也が出たかは未確認。店名の根拠は kosodate-and.net。"
   },
   {
     "id": "agroup-9166e516-20240820",
@@ -70124,7 +70012,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの初の大食い企画（2024年8月）で、5人が北海道の回転寿司に挑んだ手稲の店。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "ordered_items": [
@@ -70133,7 +70021,9 @@
       "生サーモン",
       "茶碗蒸し",
       "一本ぼたんえび"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
   },
   {
     "id": "agroup-2311fee7-20251230",
@@ -70158,12 +70048,14 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・小島健・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupの公式YouTubeの新グルメ企画「グルメカジノ」（2025年12月）で、4人がメニューの最安値当てに挑んだ中華ファミリーレストラン。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "ordered_items": [
       "五目焼きそば"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
   },
   {
     "id": "west-b244f3a1-20260212",
@@ -126662,11 +126554,14 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupがジュニアCHANNELの「被っちゃダメよグルメ」（2023年3月）で、6人でメニューを選び合ったファミリーレストラン。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "youtube_id": "OT2I80YFJ8w",
-    "source_video_url": "https://www.youtube.com/watch?v=OT2I80YFJ8w"
+    "source_video_url": "https://www.youtube.com/watch?v=OT2I80YFJ8w",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Aぇ! group）",
+    "qa_note": "福本大晴はこの時点のメンバー（のちに脱退）。動画は提供付き（ココスジャパン）。"
   },
   {
     "id": "agroup-0e90eb03-20230328",
@@ -126691,7 +126586,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupがジュニアCHANNELの「少数派グルメ」第3弾（2023年3月）で、6人が料理を選び合った渋谷のレストラン。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "youtube_id": "eBhPunl-IvY",
@@ -126701,7 +126596,10 @@
       "エビミソのクリームスパゲティ",
       "鴨フィレ肉ロースト",
       "フォンダンショコラ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Aぇ! group）",
+    "qa_note": "福本大晴はこの時点のメンバー。"
   },
   {
     "id": "agroup-6a811f35-20231212",
@@ -126726,7 +126624,7 @@
       "agroup"
     ],
     "group": "agroup",
-    "description": "正門良規・末澤誠也・草間リチャード敬太・小島健・福本大晴・佐野晶哉がYouTubeの動画で訪れたお店。",
+    "description": "Aぇ! groupがジュニアCHANNELの「トゥクトゥクで浅草散策」（2023年12月）で、ランチをかけた「被っちゃダメよグルメ」に挑んだ浅草の洋食店。",
     "source_url": "https://fananablog.com/agroup-youtube-seichi/",
     "source_type": "youtube",
     "youtube_id": "i93uIQRAH_w",
@@ -126738,7 +126636,10 @@
       "ハヤシライス",
       "ビーフストロガノフ",
       "ビーフシチュー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Aぇ! group）",
+    "qa_note": "福本大晴はこの時点のメンバー。"
   },
   {
     "id": "keytolit-c3845662-20250817",
@@ -282328,5 +282229,37 @@
     "source_type": "youtube",
     "youtube_id": "r-rNJYoi7YM",
     "source_video_url": "https://www.youtube.com/watch?v=r-rNJYoi7YM"
+  },
+  {
+    "id": "timelesz-ee55e45a-20240301",
+    "name": "珈琲亭 七つ森",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "address": "〒166-0003 東京都杉並区高円寺南2-20-20",
+    "lat": 35.700119,
+    "lng": 139.647415,
+    "youtube_id": "",
+    "source_video_title": "Google Pixel 10 テレビCM「AIで作る4コマ漫画」篇（2026年2月26日放映開始）",
+    "source_url": "https://news.yahoo.co.jp/expert/articles/8b8fffd0348a970b4f30e61ddb3afba68ef6e2f1",
+    "visited_date": "2026-02-26",
+    "members": [
+      "猪俣周杜"
+    ],
+    "groups": [
+      "timelesz"
+    ],
+    "group": "timelesz",
+    "nearest_station": "高円寺駅",
+    "description": "timeleszの猪俣周杜が出演した Google Pixel 10 のテレビCM「AIで作る4コマ漫画」篇（2026年2月放映開始）の撮影に使われた高円寺の喫茶店。",
+    "tags": [],
+    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13000675/",
+    "hotpepper_url": "",
+    "source_type": "",
+    "tmdb_id": null,
+    "tmdb_type": "",
+    "visit_kind": "other",
+    "program": "Google Pixel 10 CM「AIで作る4コマ漫画」篇",
+    "qa_note": "CMで猪俣が都内の喫茶店を訪れたことは報道で確認できたが、それが七つ森かは出典（Yahoo!ニュース エキスパート、取得不可）でしか確かめられない。要確認。IDの日付（20240301）は実際の日付と無関係"
   }
 ]

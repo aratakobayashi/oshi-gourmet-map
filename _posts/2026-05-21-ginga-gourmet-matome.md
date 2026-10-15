@@ -1,19 +1,26 @@
 ---
 layout: post
-title: "中丸銀河ちゃんねるのグルメまとめ｜高知・長崎・鹿児島の【中丸のグルメ】から新大久保・豊洲まで12軒を年表と動画で"
+title: "中丸雄一の聖地巡礼・ロケ地まとめ｜中丸銀河ちゃんねる【中丸のグルメ】で行った東京のご飯ほか12軒"
 date: 2026-05-21
-last_modified_at: 2026-10-10
-description: "中丸雄一のYouTubeチャンネル「中丸銀河ちゃんねる」に登場した12軒を、動画のタイトル・注文したもの・年表とジャンルの図でまとめました。高知のカツオ、長崎のクジラ、鹿児島の旅から、新大久保のスイーツ、豊洲の千客万来まで。"
+last_modified_at: 2026-10-13
+checked_at: 2026-10-13
+description: "中丸雄一のYouTube「中丸銀河ちゃんねる」の聖地巡礼・ロケ地12軒のまとめ。【中丸のグルメ】の高知・長崎・鹿児島の旅と豊洲・新大久保、猪狩蒼弥と食事をした新橋の2軒、対談の回のお店4軒を、回のタイトルと注文したものと一緒に紹介します。"
 group: ginga
+genre: まとめ
 article_type: matome
-prefecture: 東京都
-tags: [中丸雄一, 銀河チャンネル, 中丸銀河ちゃんねる, 聖地巡礼, グルメ, まとめ, 東京, 長崎, 鹿児島, 高知]
+prefecture:
+tags: [中丸雄一, 中丸銀河ちゃんねる, 銀河チャンネル, 中丸のグルメ, グルメ, 聖地巡礼, ロケ地, まとめ, 東京, 新大久保, 新橋]
 thumbnail_video_id: A_L2aTTrOg4
+sources:
+  - label: "中丸銀河ちゃんねる（中丸雄一 公式YouTubeチャンネル）"
+    url: "https://www.youtube.com/channel/UCYTrZoOfDgoQo7Bdbttv9qw"
+  - label: "店名の出どころ：8888-info.hatenablog.com「ロケ地一覧」（ファンブログ）"
+    url: "https://8888-info.hatenablog.com/entry/%E3%83%AD%E3%82%B1%E5%9C%B0%E4%B8%80%E8%A6%A7"
 summary:
-  - "2024年2月から7月にかけて、中丸銀河ちゃんねるのデータにあるお店12軒"
-  - "【中丸のグルメ】の回は5本。高知・長崎・鹿児島の旅と、東京の豊洲・新大久保"
-  - "9軒が東京（新宿区3・港区2ほか）、3軒は高知県・長崎県・鹿児島県"
-  - "お店ごとに動画のタイトル・注文したものを載せ、地図でまとめて巡れる"
+  - "中丸銀河ちゃんねるの聖地12軒。【中丸のグルメ】6軒、猪狩蒼弥とメシ2軒、対談の回のお店4軒"
+  - "2024年2月〜7月に公開された回のお店です"
+  - "東京が9軒（新宿区3・港区2・江東区・中央区・目黒区・渋谷区）。ほかに高知・長崎・鹿児島が1軒ずつ"
+  - "お店ごとに回のタイトル・一緒にいた人・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - ginga-46244fe9-202402
   - ginga-8f622a15-202403
@@ -28,109 +35,97 @@ shop_ids:
   - ginga-f50e5bd3-202403
   - ginga-korin-20250413
 faq:
-  - q: "中丸銀河ちゃんねるのグルメ動画はどこで見られますか？"
-    a: "YouTubeの「中丸銀河ちゃんねる」で公開されています。タイトルに【中丸のグルメ】と付いた回がグルメのロケで、この記事では各お店に動画のタイトルを載せています。"
-  - q: "地方のお店はどこに行っていますか？"
-    a: "この記事の12軒のうち3軒が東京の外です。高知市の「いつものところ十刻」（【中丸のグルメ】高知といえば...カツオ！）、長崎県西海市の「活魚料理 小安丸」（衝撃、長崎でクジラのアレを食べる。）、鹿児島県枕崎市の「和懐 おお田」（鹿児島と言ったら、これっきゃない。）です。"
-  - q: "東京ではどのエリアのお店が多いですか？"
-    a: "新宿区が3軒で最も多く（新大久保のカフェ2軒と歌舞伎町のGOLD RUSH）、港区（新橋）が2軒です。ほかに江東区（豊洲 千客万来）・中央区・目黒区・渋谷区に1軒ずつあります。"
-  - q: "中丸雄一さんは何を注文していましたか？"
-    a: "推しグルメ巡礼MAPのデータでは、たとえば豊洲 千客万来では白玉あずきのかき氷と生姜サイダー、鹿児島の和懐 おお田ではさつま揚げやお刺身3点盛り、赤鶏の炙り鳥刺し、新大久保の大久堂 OKUDO カフェではソボロパンやクァベキを注文しています。"
+  - q: "中丸雄一が中丸銀河ちゃんねるで行ったお店はどこですか？"
+    a: "タイトルに【中丸のグルメ】と付いた回では、高知市のいつものところ十刻、長崎県西海市の活魚料理 小安丸、鹿児島県枕崎市の和懐 おお田、豊洲 千客万来、新大久保の大久堂 OKUDO カフェとスタジオカフェ MARUに行っています。猪狩蒼弥とは新橋の京都 瓢嘻と和食いぶり別邸 新橋店で食事をしています。"
+  - q: "東京で中丸銀河ちゃんねるの聖地を巡るならどこがいいですか？"
+    a: "新大久保には同じ回の大久堂 OKUDO カフェとスタジオカフェ MARUが、新橋には猪狩蒼弥と訪れた京都 瓢嘻と和食いぶり別邸 新橋店があります。豊洲の千客万来は、市場前駅から新橋駅までゆりかもめで乗り換えなしです。"
+  - q: "【中丸のグルメ】で何を注文していましたか？"
+    a: "豊洲 千客万来では白玉あずきのかき氷と生姜サイダー、鹿児島の和懐 おお田ではホタルイカの酢味噌がけ・さつま揚げ・お刺身3点盛り・赤鶏の炙り鳥刺し、新大久保の大久堂 OKUDO カフェではソボロパン（ブラックココアチーズ）とクァベキ（ストロベリー生クリーム）を注文しています。"
+  - q: "対談の回のお店はどこですか？"
+    a: "大倉忠義との対談前編（2024年2月）のファムファム（代官山）、ジェシー・髙地優吾との対談（2024年2月）のGOLD RUSH（歌舞伎町）、北村匠海との対談（2024年3月）のセイロン・イン（中目黒）、山田涼介との対談（2024年4月）のKORIN（銀座）です。対談をお店で撮ったのかは確かめられていません。"
   - q: "中丸銀河ちゃんねるのお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で中丸雄一 銀河チャンネルを選ぶと、この記事の12軒を地図で見られます。地方の3軒もまとめて表示されます。"
+    a: "「お店を探す」で中丸雄一 銀河チャンネルを選ぶと、この記事の12軒を地図で見られます。高知・長崎・鹿児島の3軒もまとめて表示されます。"
+pr: true
 ---
 
 <div class="pf" style="--pc:#6366f1">
 
-<p><strong>中丸雄一</strong>（元KAT-TUN）が2024年1月に始めたYouTubeチャンネル「中丸銀河ちゃんねる」。ゲストとの対談に加えて、タイトルに<strong>【中丸のグルメ】</strong>と付いたロケの回では、高知のカツオ、長崎のクジラ、鹿児島の旅、そして東京の豊洲や新大久保へと出かけています。</p>
+<p><strong>中丸雄一</strong>のYouTubeチャンネル「中丸銀河ちゃんねる」。タイトルに<strong>【中丸のグルメ】</strong>と付いた回では、高知のカツオ、長崎のクジラ、鹿児島の旅、東京の豊洲や新大久保へと出かけて食べています。</p>
 
-<p>この記事では、推しグルメ巡礼MAPのデータにある<strong>12軒</strong>を、動画のタイトルと注文したものと一緒にまとめました。KAT-TUNは2025年3月31日に解散しています。</p>
+<p>後輩の猪狩蒼弥（HiHi Jets）と食事をする回や、ゲストとの対談の回もあります。この記事では<strong>12軒</strong>を、回の種類ごとに分けてまとめました。</p>
+
+<div class="cnav">
+<p class="cnav__h">出典で選ぶ</p>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「中丸銀河ちゃんねる」<small>8軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>公式YouTubeの対談の回のお店<small>4軒</small></span></a></div>
+</div>
+{% include matome-members.html group="ginga" %}
 
 <h2>ひと目でわかる 中丸銀河ちゃんねるのグルメ</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>中丸銀河ちゃんねる</small>
-    <p class="pf-card__name">中丸のグルメ</p>
-    <p class="pf-card__yomi">2024年2月〜7月のデータから</p>
-    <span class="pf-card__color"><i></i>中丸雄一</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>12軒</dd></div>
-    <div><dt>時期</dt><dd>2024年2月〜7月</dd></div>
-    <div><dt>【中丸のグルメ】</dt><dd>5本（6軒）</dd></div>
-    <div><dt>多いエリア</dt><dd>新宿区（3軒）</dd></div>
-    <div><dt>ジャンル</dt><dd>食事が7軒</dd></div>
-    <div><dt>東京以外</dt><dd>高知・長崎・鹿児島</dd></div>
-  </dl>
-</div>
 
-<div class="pf-nums">
-  <div><b>12<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>5<small>本</small></b><span>タイトルに【中丸のグルメ】が付いた回</span></div>
-  <div><b>3<small>県</small></b><span>ロケで訪れた東京の外（高知・長崎・鹿児島）</span></div>
-  <div><b>{{ site.data.group_ix.ginga.n }}<small>軒</small></b><span>このサイトに登録されている、中丸銀河ちゃんねるのお店ぜんぶ</span></div>
-</div>
+<div class="pf-quote"><p>【中丸のグルメ】の5本のうち3本が、高知・長崎・鹿児島への旅の回です。東京の回は豊洲の千客万来と新大久保のスイーツ。猪狩蒼弥との2本はどちらも新橋の和食のお店で、会席を頼んでいます。お店のある回は、2024年2月から7月までに公開されたものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-<h2>中丸グルメ年表</h2>
-<p>データの日付の順に並べました。2月の高知から7月の新大久保まで、半年で南へ北へ。</p>
-<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/timeline.svg" alt="中丸グルメ年表：2024年2月 ファムファム、いつものところ十刻（高知）、GOLD RUSH。3月 活魚料理 小安丸（長崎）、京都 瓢嘻（猪狩蒼弥とメシ）、セイロン・イン。4月 KORIN。5月 和懐 おお田（鹿児島）。6月 和食いぶり別邸 新橋店、豊洲 千客万来。7月 大久堂 OKUDO カフェとスタジオカフェ MARU（新大久保）" width="420" height="1258" loading="lazy" decoding="async"><figcaption>動画のタイトルはYouTubeの「中丸銀河ちゃんねる」より。タイトルが「銀河チャンネル」の4軒は、データに回のタイトルがないお店です</figcaption></figure>
+<h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「中丸銀河ちゃんねる」で行ったお店</h2>
+<p>中丸雄一がお店で食べた回です。店名の上の日付は動画の公開年月です。</p>
 
-<div class="pf-quote"><p>【中丸のグルメ】の5本のうち3本が、高知・長崎・鹿児島への旅の回。東京の回も「千客万来」「新大久保のスイーツ」と、話題の場所に自分から乗り込んでいくのがこのチャンネルらしさです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<h3>【中丸のグルメ】旅の回：高知・長崎・鹿児島</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="ginga-46244fe9-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">いつものところ十刻</b><span class="wr__t">【中丸のグルメ】高知といえば...カツオ！（高知市）</span>{% include wr-close.html id="ginga-46244fe9-202402" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-8f622a15-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">活魚料理 小安丸</b><span class="wr__t">【中丸のグルメ】衝撃、長崎でクジラのアレを食べる。（長崎県西海市）</span>{% include wr-close.html id="ginga-8f622a15-202403" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-9f375cca-202405" %}<span class="wr__k">2024.5</span><b class="wr__name">和懐 おお田</b><span class="wr__t">【中丸のグルメ】鹿児島と言ったら、これっきゃない。／ホタルイカの酢味噌がけ、さつま揚げ、お刺身3点盛り、赤鶏の炙り鳥刺し（鹿児島県枕崎市）</span>{% include wr-close.html id="ginga-9f375cca-202405" %}</li>
+</ul>
+
+<h3>【中丸のグルメ】東京の回：豊洲・新大久保</h3>
+<p>豊洲 千客万来は、飲食店が集まる施設です。新大久保の回では、2軒のカフェに立ち寄っています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="ginga-24823ef5-202406" %}<span class="wr__k">2024.6</span><b class="wr__name">豊洲 千客万来</b><span class="wr__t">【中丸のグルメ】東京の噂のスポット「千客万来」に行って、裏技的なことを関係者から聞いちゃった／白玉あずきのかき氷、生姜サイダー、奏（ごはんチョイ大盛り）（江東区 豊洲）</span>{% include wr-close.html id="ginga-24823ef5-202406" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-okudo-202407" %}<span class="wr__k">2024.7</span><b class="wr__name">大久堂 OKUDO カフェ</b><span class="wr__t">【中丸のグルメ】新大久保に乗り込んで、話題になってそうなスイーツを探してみた／ソボロパン（ブラックココアチーズ）、クァベキ（ストロベリー生クリーム）、アールグレイ（アイス）（新宿区 百人町）</span>{% include wr-close.html id="ginga-okudo-202407" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-maru-202407" %}<span class="wr__k">2024.7</span><b class="wr__name">スタジオカフェ MARU</b><span class="wr__t">同じ新大久保の回（新宿区 百人町）</span>{% include wr-close.html id="ginga-maru-202407" %}</li>
+</ul>
+
+<h3>猪狩蒼弥とメシ：新橋の2軒</h3>
+<p>「猪狩蒼弥とメシ」は2024年3月の公開で、説明文によると撮影は2024年1月です。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="ginga-44b85f76-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">京都 瓢嘻(ひょうき)</b><span class="wr__t">中丸雄一【猪狩蒼弥とメシ】溜めに溜めた新年に撮った動画です。／猪狩蒼弥と／【銘柄豚】出汁しゃぶ会席「京 きょう」（港区 新橋）</span>{% include wr-close.html id="ginga-44b85f76-202403" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-cb38ce4c-202406" %}<span class="wr__k">2024.6</span><b class="wr__name">和食いぶり別邸 新橋店</b><span class="wr__t">HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった／猪狩蒼弥と／金目鯛と仙台牛の銘々会席（港区 新橋）</span>{% include wr-close.html id="ginga-cb38ce4c-202406" %}</li>
+</ul>
+
+<p>「京都 瓢嘻」は名前に京都と付きますが、お店は東京・新橋にあります。</p>
+
+<h2 id="src2">{% include chico.html kind="yt" %}公式YouTubeの対談の回のお店</h2>
+<p>ゲストとの対談の回と結びついているお店です。対談をお店で撮ったのか、お店で食事をしたのかは確かめられていません。店名の上の日付は動画の公開年月です。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="ginga-810aafd0-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">ファムファム</b><span class="wr__t">中丸雄一×大倉忠義【大倉プロデューサーのお仕事とは？】対談前編／大倉忠義（SUPER EIGHT）（渋谷区 代官山）</span>{% include wr-close.html id="ginga-810aafd0-202402" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-gold_rush-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">GOLD RUSH(ゴールドラッシュ)</b><span class="wr__t">ジェシー＆髙地優吾×中丸雄一【実はシャイボーイ...ジェシー】KAT-TUNとSixTONESの似てるとこ違うとこ／ジェシー・髙地優吾（SixTONES）（新宿区 歌舞伎町）</span>{% include wr-close.html id="ginga-gold_rush-202402" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-f50e5bd3-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">セイロン・イン</b><span class="wr__t">北村匠海×中丸雄一【初の他事務所対談】プライベートなことまで聞きまくりました！／北村匠海（目黒区 中目黒）</span>{% include wr-close.html id="ginga-f50e5bd3-202403" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-korin-20250413" %}<span class="wr__k">2024.4</span><b class="wr__name">KORIN</b><span class="wr__t">山田涼介×中丸雄一【グループとしての立ち位置】よにのとは違う...!? 本当の2人の関係!!／山田涼介（Hey! Say! JUMP）（中央区 銀座）</span>{% include wr-close.html id="ginga-korin-20250413" %}</li>
+</ul>
+
+<h2>中丸銀河ちゃんねるの聖地 年表</h2>
+<div class="faq"><details><summary>年表をひらく（12軒・公開日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/timeline.svg" alt="中丸銀河ちゃんねるの聖地 年表：2024年2月 ファムファム（大倉忠義との対談）、いつものところ十刻（高知）、GOLD RUSH（ジェシー・髙地優吾との対談）。3月 活魚料理 小安丸（長崎）、京都 瓢嘻（猪狩蒼弥とメシ）、セイロン・イン（北村匠海との対談）。4月 KORIN（山田涼介との対談）。5月 和懐 おお田（鹿児島）。6月 和食いぶり別邸 新橋店（猪狩蒼弥とお疲れ様会）、豊洲 千客万来。7月 大久堂 OKUDO カフェとスタジオカフェ MARU（新大久保）" width="420" height="1330" loading="lazy" decoding="async"><figcaption>動画の公開年月の順です</figcaption></figure>
+</details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事7軒、カフェ2軒、和食2軒、居酒屋1軒。場所は新宿区3軒、港区2軒、江東区・中央区・目黒区・渋谷区が1軒ずつ、高知県高知市・長崎県西海市・鹿児島県枕崎市が1軒ずつ" width="420" height="490" loading="lazy" decoding="async"><figcaption>この記事の12軒を数えました</figcaption></figure>
-
-<h2>旅の回：高知のカツオ・長崎のクジラ・鹿児島</h2>
-<ul class="pf-works">
-  <li><span class="k">2024.2</span><div><b>いつものところ十刻（高知市）</b><span>【中丸のグルメ】高知といえば...カツオ！</span></div></li>
-  <li><span class="k">2024.3</span><div><b>活魚料理 小安丸（長崎県西海市）</b><span>【中丸のグルメ】衝撃、長崎でクジラのアレを食べる。</span></div></li>
-  <li><span class="k">2024.5</span><div><b>和懐 おお田（鹿児島県枕崎市）</b><span>【中丸のグルメ】鹿児島と言ったら、これっきゃない。／ホタルイカの酢味噌がけ、さつま揚げ、お刺身3点盛り、赤鶏の炙り鳥刺し</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="ginga-46244fe9-202402,ginga-8f622a15-202403,ginga-9f375cca-202405" %}
-
-<h2>東京の回：豊洲の千客万来と新大久保のスイーツ</h2>
-<ul class="pf-works">
-  <li><span class="k">2024.6</span><div><b>豊洲 千客万来</b><span>【中丸のグルメ】東京の噂のスポット「千客万来」に行って、裏技的なことを関係者から聞いちゃった／白玉あずきのかき氷、生姜サイダー、奏（ごはんチョイ大盛り）</span></div></li>
-  <li><span class="k">2024.7</span><div><b>大久堂 OKUDO カフェ</b><span>【中丸のグルメ】新大久保に乗り込んで、話題になってそうなスイーツを探してみた／ソボロパン（ブラックココアチーズ）、クァベキ（ストロベリー生クリーム）、アールグレイ（アイス）</span></div></li>
-  <li><span class="k">2024.7</span><div><b>スタジオカフェ MARU</b><span>同じ新大久保の回に登場</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="ginga-24823ef5-202406,ginga-okudo-202407,ginga-maru-202407" %}
-
-<h2>後輩とメシの回：猪狩蒼弥と新橋へ</h2>
-<ul class="pf-works">
-  <li><span class="k">2024.3</span><div><b>京都 瓢嘻（ひょうき）</b><span>中丸雄一【猪狩蒼弥とメシ】溜めに溜めた新年に撮った動画です。／【銘柄豚】出汁しゃぶ会席「京 きょう」</span></div></li>
-  <li><span class="k">2024.6</span><div><b>和食いぶり別邸 新橋店</b><span>HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった／金目鯛と仙台牛の銘々会席</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="ginga-44b85f76-202403,ginga-cb38ce4c-202406" %}
-<p>2軒とも新橋駅から歩いてすぐ。「京都 瓢嘻」は名前に京都と付きますが、お店は東京・新橋にあります。</p>
-
-<h2>2024年2〜4月のお店（回のタイトルは確認中）</h2>
-<p>次の4軒は、推しグルメ巡礼MAPのデータに動画の回のタイトルがまだ入っていないお店です。日付はデータのものです。</p>
-<ul class="pf-works">
-  <li><span class="k">2024.2</span><div><b>ファムファム（代官山）</b><span>データの日付 2024年2月3日</span></div></li>
-  <li><span class="k">2024.2</span><div><b>GOLD RUSH（歌舞伎町）</b><span>データの日付 2024年2月17日／トリプルチーズハンバーグ</span></div></li>
-  <li><span class="k">2024.3</span><div><b>セイロン・イン（中目黒）</b><span>データの日付 2024年3月30日</span></div></li>
-  <li><span class="k">2024.4</span><div><b>KORIN（銀座）</b><span>データの日付 2024年4月13日</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="ginga-810aafd0-202402,ginga-gold_rush-202402,ginga-f50e5bd3-202403,ginga-korin-20250413" %}
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/genre.svg" alt="お店のジャンルと場所の図" width="420" height="490" loading="lazy" decoding="async"><figcaption>この記事の12軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
-<p>中丸銀河ちゃんねるの公式動画から、【中丸のグルメ】の4本を選びました（タップすると再生します）。</p>
+<p>中丸銀河ちゃんねるの公式動画から4本を選びました（タップすると再生します）。</p>
 <div class="pf-videos">
-  <figure><button type="button" class="yt" data-yt="A_L2aTTrOg4" aria-label="高知といえば...カツオ！を再生"><img src="https://i.ytimg.com/vi_webp/A_L2aTTrOg4/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>高知 いつものところ十刻</b>「高知といえば...カツオ！」</figcaption></figure>
-  <figure><button type="button" class="yt" data-yt="ASHXCtJu93Y" aria-label="長崎でクジラのアレを食べるを再生"><img src="https://i.ytimg.com/vi_webp/ASHXCtJu93Y/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>長崎 活魚料理 小安丸</b>「衝撃、長崎でクジラのアレを食べる。」</figcaption></figure>
-  <figure><button type="button" class="yt" data-yt="TNKBGNdwqKw" aria-label="千客万来の回を再生"><img src="https://i.ytimg.com/vi_webp/TNKBGNdwqKw/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>豊洲 千客万来</b>かき氷と生姜サイダーの回</figcaption></figure>
-  <figure><button type="button" class="yt" data-yt="RGbsQewaz4c" aria-label="新大久保のスイーツの回を再生"><img src="https://i.ytimg.com/vi_webp/RGbsQewaz4c/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>新大久保のカフェ2軒</b>話題のスイーツを探す回</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="A_L2aTTrOg4" aria-label="高知といえば...カツオ！を再生"><img src="https://i.ytimg.com/vi_webp/A_L2aTTrOg4/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>いつものところ十刻（高知）</b>【中丸のグルメ】高知といえば...カツオ！（2024年2月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="ASHXCtJu93Y" aria-label="長崎でクジラのアレを食べるを再生"><img src="https://i.ytimg.com/vi_webp/ASHXCtJu93Y/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>活魚料理 小安丸（長崎）</b>【中丸のグルメ】衝撃、長崎でクジラのアレを食べる。（2024年3月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="TNKBGNdwqKw" aria-label="千客万来の回を再生"><img src="https://i.ytimg.com/vi_webp/TNKBGNdwqKw/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>豊洲 千客万来</b>【中丸のグルメ】東京の噂のスポット「千客万来」に行って…（2024年6月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="p-HDS9qN1tc" aria-label="猪狩蒼弥とメシを再生"><img src="https://i.ytimg.com/vi_webp/p-HDS9qN1tc/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>京都 瓢嘻（新橋）</b>【猪狩蒼弥とメシ】溜めに溜めた新年に撮った動画です。（2024年3月）</figcaption></figure>
 </div>
 
 <h2>エリアで巡るなら</h2>
-<p>最寄り駅は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/map.svg" alt="中丸雄一 銀河チャンネルが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
-  <li><strong>新大久保</strong>：大久堂 OKUDO カフェ・スタジオカフェ MARU（どちらも新大久保駅 徒歩3分）。同じ回の2軒をはしごできます。</li>
+  <li><strong>新大久保</strong>：大久堂 OKUDO カフェ・スタジオカフェ MARU（どちらも新大久保駅 徒歩3分）。同じ回の2軒です。</li>
   <li><strong>新橋</strong>：和食いぶり別邸 新橋店（JR新橋駅 烏森改札口 徒歩1分）・京都 瓢嘻（新橋駅 徒歩2分）。猪狩蒼弥と訪れた2軒です。</li>
-  <li><strong>豊洲・銀座</strong>：豊洲 千客万来（ゆりかもめ 市場前駅 徒歩3分）と、KORIN（東銀座駅 徒歩4分）。</li>
-  <li><strong>中目黒・代官山</strong>：セイロン・イン（中目黒駅 徒歩6分）・ファムファム（代官山駅 徒歩5分）。</li>
-  <li><strong>旅先で</strong>：高知のいつものところ十刻（蓮池町通駅 徒歩5分）、鹿児島のおお田（枕崎駅 徒歩5分）、長崎の小安丸（西海市）。</li>
+  <li><strong>豊洲</strong>：豊洲 千客万来（ゆりかもめ 市場前駅 徒歩3分）。</li>
+  <li><strong>銀座・歌舞伎町・中目黒・代官山</strong>：対談の回のKORIN（東銀座駅 徒歩4分）、GOLD RUSH（東新宿駅 徒歩5分）、セイロン・イン（中目黒駅 徒歩6分）、ファムファム（代官山駅 徒歩5分）。</li>
+  <li><strong>旅先で</strong>：高知のいつものところ十刻（蓮池町通駅 徒歩5分）、鹿児島の和懐 おお田（枕崎駅 徒歩5分）、長崎の活魚料理 小安丸（西海市）。</li>
 </ul>
 
 <div class="pf-cta">
@@ -139,5 +134,7 @@ faq:
   <a class="btn" href="/shops/?g=ginga&amp;view=map">地図で中丸銀河ちゃんねるのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.ginga.u }}">中丸雄一 銀河チャンネルのお店一覧（グループのページ）</a>もどうぞ。</p>
+
+<p class="note">日付は公式チャンネルの動画の公開年月、動画のタイトルは公式チャンネルのものです。店名は、ファンブログ（8888-info.hatenablog.com）に書かれたもので、公式の動画の説明文では確かめられていません。対談の回の4軒は、対談をお店で撮ったのかも確かめられていません。</p>
 
 </div>
