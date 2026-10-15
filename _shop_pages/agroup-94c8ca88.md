@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "牛牛 西麻布 総本店（ぎゅうぎゅう）"
-description: "agroupのYouTubeで紹介されたその他「牛牛 西麻布 総本店（ぎゅうぎゅう）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「デビュー1周年記念 5人だけの焼肉会」（2025年5月）で、5人がこれまでとこれからを語り合った西麻布の焼肉店。"
 shop_id: "agroup-94c8ca88-"
 name: "牛牛 西麻布 総本店（ぎゅうぎゅう）"
 genre: "others"
@@ -17,14 +17,15 @@ group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13130902/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001098601/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.661611737910754
 lng: 139.72767678305163
 members:
   - "正門良規"
-  - "草間リチャード敬太"
   - "末澤誠也"
+  - "草間リチャード敬太"
   - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

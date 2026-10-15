@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「STEAK HOUSE & BBQ BALCONIWA」"
-description: "=LOVEのYouTubeで紹介された食事「STEAK HOUSE & BBQ BALCONIWA」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里・諸橋沙夏・山本杏奈が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【BBQ】さなつん舞台お疲れ様パーティー！お肉食べてお酒も飲んでワイワイしてきた」（2023年4月）で訪れたステーキ・BBQの店。舞台を終えた諸橋沙夏のお疲れさま会。"
 shop_id: "equal_love-steak_house__bbq_bal-20240807"
 name: "STEAK HOUSE & BBQ BALCONIWA"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_video_title: "【BBQ】さなつん舞台お疲れ様パーティー！�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130403/13222832/"
 thumbnail_url: "https://img.youtube.com/vi/Ev-wsPc9Q68/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6804288
 lng: 139.7064427
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「400℃ PIZZA TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「400℃ PIZZA TOKYO」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#431【朝食!!】やまだとざーぴーな日」（2025年6月）で二宮和也・山田涼介が訪れたピッツェリア。"
 shop_id: "yonino-400-pizza"
 name: "400℃ PIZZA TOKYO"
 genre: "shokuji"
@@ -15,12 +15,13 @@ source_video_title: "#431【朝食!!】やまだとざーぴーな日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13294495/"
 thumbnail_url: "https://img.youtube.com/vi/AsbV0ZAiFMQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.699525
 lng: 139.73952
 members:
   - "二宮和也"
   - "山田涼介"
-  - "菊池風磨"
 groups:
   - "yonino"
 tags:

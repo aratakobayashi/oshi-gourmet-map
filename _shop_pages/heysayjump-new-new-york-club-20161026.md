@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「New NEW YORK CLUB」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介された食事「New NEW YORK CLUB」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったベーグル店。レインボーカラーベーグル（テイクアウト）が登場した。"
 shop_id: "heysayjump-new_new_york_club-20161026"
 name: "New NEW YORK CLUB"
 genre: "shokuji"
@@ -15,11 +15,14 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13209965/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6065599
 lng: 139.6790149
 members:
   - "髙木雄也"
   - "有岡大貴"
+  - "八乙女光"
 groups:
   - "heysayjump"
 ---

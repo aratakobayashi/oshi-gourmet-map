@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「usagiiya by源楽」"
-description: "=LOVEのYouTubeで紹介された食事「usagiiya by源楽」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】」（2025年8月）で訪れた店。熱海旅行の前編。"
 shop_id: "equal_love-usagiiya_by-202508"
 name: "usagiiya by源楽"
 genre: "shokuji"
@@ -14,6 +14,8 @@ youtube_id: "7N3fbKMpQaU"
 source_video_title: "旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.1033354
 lng: 139.0782748
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "乃木坂46が行った「GOOD MORNING CAFE 錦町」"
-description: "乃木坂46 『帰り道は遠回りしたくなる』で紹介されたカフェ「GOOD MORNING CAFE 錦町」（東京都千代田区）。推し活グルメ巡礼スポット。"
+title: "与田祐希出演『乃木坂46「帰り道は遠回りしたくなる」Type-A 個人PV』のロケ地「GOOD MORNING CAFE 錦町」"
+description: "乃木坂46の22ndシングル「帰り道は遠回りしたくなる」Type-Aに収録された与田祐希の個人PV「ピクニック」の撮影に使われたカフェ。"
 shop_id: "nogizaka46-good_morning_cafe-"
 name: "GOOD MORNING CAFE 錦町"
 genre: "cafe"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001051955/"
 thumbnail_url: "https://img.youtube.com/vi/s1cgEj5JowM/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/64/12/P034736412/P034736412_238.jpg"
 source_type: "tv"
+visit_kind: "drama"
+program: "乃木坂46「帰り道は遠回りしたくなる」Type-A 個人PV"
 lat: 35.6916939
 lng: 139.7618479
 members:

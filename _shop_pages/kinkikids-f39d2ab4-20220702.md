@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ホンスチュクミ 新宿店"
-description: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼で紹介された食事「ホンスチュクミ 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年7月2日放送）の韓国グルメ企画で、勝地涼と味わったチュクミ（イイダコ）の店。"
 shop_id: "kinkikids-f39d2ab4-20220702"
 name: "ホンスチュクミ 新宿店"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_video_title: "KinKi Kidsのブンブブーン 韓国グルメ 勝地涼"
 group: "kinkikids"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "KinKi Kidsのブンブブーン"
 lat: 35.6945429
 lng: 139.7027105
 members:

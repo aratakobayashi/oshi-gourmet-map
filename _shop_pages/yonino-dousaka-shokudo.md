@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「動坂食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「動坂食堂」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "ジャにのちゃんねる（現・よにのちゃんねる）の「#160【朝食シリーズ】左利き苦悩が爆裂した日」（2022年9月）で二宮和也・中丸雄一・菊池風磨が訪れた定食店。"
 shop_id: "yonino-dousaka-shokudo"
 name: "動坂食堂"
 genre: "washoku"
@@ -15,10 +15,13 @@ source_video_title: "#160【朝食シリーズ】左利き苦悩が爆裂した�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13008505/"
 thumbnail_url: "https://img.youtube.com/vi/8rYGXSOk-60/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7246
 lng: 139.7623
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "菊池風磨"
 groups:
   - "yonino"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「嵐山さくら餅 稲」"
-description: "乃木坂46のYouTubeで紹介されたスイーツ「嵐山さくら餅 稲」（京都府京都市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第3弾（2023年1月）で、遠藤さくらがみたらし団子を食べた嵐山の和菓子店。"
 shop_id: "nogizaka46-2dbd2fa5-"
 name: "嵐山さくら餅 稲"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_video_title: "【さくさんぽ】遠藤さくらが京都をぶらり�
 source_video_url: "https://www.youtube.com/watch?v=_fqJouLR5ME"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260403/26001306/"
+visit_kind: "youtube"
+program: "乃木坂配信中"
 lat: 35.0163
 lng: 135.6799
 members:

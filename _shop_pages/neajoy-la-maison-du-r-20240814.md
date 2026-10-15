@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「La Maison du R」"
-description: "≒JOYのYouTubeで紹介された食事「La Maison du R」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
+description: "≒JOYの公式YouTubeの「【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！」（2024年5月）で、江角怜音・大信田美月・小澤愛実・村山結香が訪れた岡崎市のレストラン。"
 shop_id: "neajoy-la_maison_du_r-20240814"
 name: "La Maison du R"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【岡崎旅行】みんなでドライブ＆観光！岡�
 group: "neajoy"
 tabelog_url: "https://tabelog.com/aichi/A2305/A230502/23088223/"
 thumbnail_url: "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 34.9511
 lng: 137.1706
 members:

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 6106" width="420" height="6106" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="6106" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 6004" width="420" height="6004" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="6004" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">timeleszの聖地 年表</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="6080" stroke="#1d4ed8" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<line x1="86" y1="88" x2="86" y2="5978" stroke="#1d4ed8" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
 <text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
@@ -188,16 +188,16 @@
 <text x="70" y="2763" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="2741" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="2722" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2746" font-size="16" font-weight="800" fill="#241F1A">マリオンクレープ 東京タワー店</text>
+<text x="118" y="2746" font-size="16" font-weight="800" fill="#241F1A">寿司 魚がし日本一 有楽町店</text>
 <text x="118" y="2768" font-size="12.5" fill="#1d4ed8">タイムレスマン「アーユーハングリーマン</text>
-<text x="118" y="2786" font-size="12.5" fill="#1d4ed8">」（2025年8月26日・9月2日 フジテレビ</text>
+<text x="118" y="2786" font-size="12.5" fill="#1d4ed8">」後編（2025年9月2日 フジテレビ）</text>
 <text x="70" y="2848" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
 <text x="70" y="2865" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="2843" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="2824" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2848" font-size="16" font-weight="800" fill="#241F1A">寿司 魚がし日本一 有楽町店</text>
+<text x="118" y="2848" font-size="16" font-weight="800" fill="#241F1A">マリオンクレープ 東京タワー店</text>
 <text x="118" y="2870" font-size="12.5" fill="#1d4ed8">タイムレスマン「アーユーハングリーマン</text>
-<text x="118" y="2888" font-size="12.5" fill="#1d4ed8">」後編（2025年9月2日 フジテレビ）</text>
+<text x="118" y="2888" font-size="12.5" fill="#1d4ed8">」（2025年8月26日・9月2日 フジテレビ</text>
 <text x="70" y="2950" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
 <text x="70" y="2967" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="2945" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
@@ -314,105 +314,98 @@
 <text x="70" y="4599" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="4577" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="4558" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4582" font-size="16" font-weight="800" fill="#241F1A">早見商店</text>
+<text x="118" y="4582" font-size="16" font-weight="800" fill="#241F1A">日光もなか</text>
 <text x="118" y="4604" font-size="12.5" fill="#1d4ed8">タイムレスマン 日光街道！脱落旅SP（20</text>
-<text x="118" y="4622" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ系）</text>
+<text x="118" y="4622" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ）</text>
 <text x="70" y="4684" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="4701" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="4679" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="4660" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4684" font-size="16" font-weight="800" fill="#241F1A">日光もなか</text>
+<text x="118" y="4684" font-size="16" font-weight="800" fill="#241F1A">常盤堂雷おこし本舗 雷門本店</text>
 <text x="118" y="4706" font-size="12.5" fill="#1d4ed8">タイムレスマン 日光街道！脱落旅SP（20</text>
-<text x="118" y="4724" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ）</text>
+<text x="118" y="4724" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ系）</text>
 <text x="70" y="4786" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="4803" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="4781" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="4762" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4786" font-size="16" font-weight="800" fill="#241F1A">常盤堂雷おこし本舗 雷門本店</text>
+<text x="118" y="4786" font-size="16" font-weight="800" fill="#241F1A">亀十</text>
 <text x="118" y="4808" font-size="12.5" fill="#1d4ed8">タイムレスマン 日光街道！脱落旅SP（20</text>
 <text x="118" y="4826" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ系）</text>
 <text x="70" y="4888" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="4905" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="4883" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="4864" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4888" font-size="16" font-weight="800" fill="#241F1A">亀十</text>
+<text x="118" y="4888" font-size="16" font-weight="800" fill="#241F1A">舟和 本店</text>
 <text x="118" y="4910" font-size="12.5" fill="#1d4ed8">タイムレスマン 日光街道！脱落旅SP（20</text>
 <text x="118" y="4928" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ系）</text>
 <text x="70" y="4990" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="5007" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="5007" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="4985" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="4966" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4990" font-size="16" font-weight="800" fill="#241F1A">舟和 本店</text>
-<text x="118" y="5012" font-size="12.5" fill="#1d4ed8">タイムレスマン 日光街道！脱落旅SP（20</text>
-<text x="118" y="5030" font-size="12.5" fill="#1d4ed8">26年4月17日 フジテレビ系）</text>
+<text x="118" y="4990" font-size="16" font-weight="800" fill="#241F1A">クロッサムモリタ</text>
+<text x="118" y="5012" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」（2026</text>
+<text x="118" y="5030" font-size="12.5" fill="#1d4ed8">年5月22日 フジテレビ）</text>
 <text x="70" y="5092" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="5109" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="5109" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="5087" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5068" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5092" font-size="16" font-weight="800" fill="#241F1A">クロッサムモリタ</text>
-<text x="118" y="5114" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」（2026</text>
-<text x="118" y="5132" font-size="12.5" fill="#1d4ed8">年5月22日 フジテレビ）</text>
+<text x="118" y="5092" font-size="16" font-weight="800" fill="#241F1A">中国料理 チャイナルーム（グラ…</text>
+<text x="118" y="5114" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」第2弾 </text>
+<text x="118" y="5132" font-size="12.5" fill="#1d4ed8">ゲスト梅沢富美男（2026年6月26日 フジ</text>
 <text x="70" y="5194" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="5211" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<text x="70" y="5211" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5189" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5170" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5194" font-size="16" font-weight="800" fill="#241F1A">中国料理 チャイナルーム（グラ…</text>
-<text x="118" y="5216" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」第2弾 </text>
-<text x="118" y="5234" font-size="12.5" fill="#1d4ed8">ゲスト梅沢富美男（2026年6月26日 フジ</text>
+<text x="118" y="5194" font-size="16" font-weight="800" fill="#241F1A">築地さのきや</text>
+<text x="118" y="5216" font-size="12.5" fill="#1d4ed8">タイムレスマン「1000円差し入れマン」</text>
+<text x="118" y="5234" font-size="12.5" fill="#1d4ed8">（2026年7月24日 フジテレビ系）</text>
 <text x="70" y="5296" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5313" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5291" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5272" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5296" font-size="16" font-weight="800" fill="#241F1A">築地さのきや</text>
+<text x="118" y="5296" font-size="16" font-weight="800" fill="#241F1A">デリカぱくぱく 浅草店</text>
 <text x="118" y="5318" font-size="12.5" fill="#1d4ed8">タイムレスマン「1000円差し入れマン」</text>
 <text x="118" y="5336" font-size="12.5" fill="#1d4ed8">（2026年7月24日 フジテレビ系）</text>
 <text x="70" y="5398" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5415" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5393" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5374" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5398" font-size="16" font-weight="800" fill="#241F1A">デリカぱくぱく 浅草店</text>
+<text x="118" y="5398" font-size="16" font-weight="800" fill="#241F1A">肉の石川</text>
 <text x="118" y="5420" font-size="12.5" fill="#1d4ed8">タイムレスマン「1000円差し入れマン」</text>
 <text x="118" y="5438" font-size="12.5" fill="#1d4ed8">（2026年7月24日 フジテレビ系）</text>
 <text x="70" y="5500" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5517" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5495" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5476" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5500" font-size="16" font-weight="800" fill="#241F1A">肉の石川</text>
+<text x="118" y="5500" font-size="16" font-weight="800" fill="#241F1A">銀座コージーコーナー 川口直売…</text>
 <text x="118" y="5522" font-size="12.5" fill="#1d4ed8">タイムレスマン「1000円差し入れマン」</text>
 <text x="118" y="5540" font-size="12.5" fill="#1d4ed8">（2026年7月24日 フジテレビ系）</text>
 <text x="70" y="5602" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5619" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5597" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5578" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5602" font-size="16" font-weight="800" fill="#241F1A">銀座コージーコーナー 川口直売…</text>
-<text x="118" y="5624" font-size="12.5" fill="#1d4ed8">タイムレスマン「1000円差し入れマン」</text>
-<text x="118" y="5642" font-size="12.5" fill="#1d4ed8">（2026年7月24日 フジテレビ系）</text>
+<text x="118" y="5602" font-size="16" font-weight="800" fill="#241F1A">珈琲館 旦念亭</text>
+<text x="118" y="5624" font-size="12.5" fill="#1d4ed8">ヒルナンデス！「全世代口コミコンプリー</text>
+<text x="118" y="5642" font-size="12.5" fill="#1d4ed8">ト旅 in 軽井沢」（2026年7月28日 日本</text>
 <text x="70" y="5704" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5721" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5699" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5680" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5704" font-size="16" font-weight="800" fill="#241F1A">珈琲館 旦念亭</text>
+<text x="118" y="5704" font-size="16" font-weight="800" fill="#241F1A">信州十割そば てん 軽井沢</text>
 <text x="118" y="5726" font-size="12.5" fill="#1d4ed8">ヒルナンデス！「全世代口コミコンプリー</text>
 <text x="118" y="5744" font-size="12.5" fill="#1d4ed8">ト旅 in 軽井沢」（2026年7月28日 日本</text>
 <text x="70" y="5806" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
 <text x="70" y="5823" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="5801" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5782" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5806" font-size="16" font-weight="800" fill="#241F1A">信州十割そば てん 軽井沢</text>
+<text x="118" y="5806" font-size="16" font-weight="800" fill="#241F1A">KAGARIBI（ホテルインディゴ軽…</text>
 <text x="118" y="5828" font-size="12.5" fill="#1d4ed8">ヒルナンデス！「全世代口コミコンプリー</text>
 <text x="118" y="5846" font-size="12.5" fill="#1d4ed8">ト旅 in 軽井沢」（2026年7月28日 日本</text>
 <text x="70" y="5908" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="5925" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="5925" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="5903" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
 <rect x="104" y="5884" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5908" font-size="16" font-weight="800" fill="#241F1A">KAGARIBI（ホテルインディゴ軽…</text>
-<text x="118" y="5930" font-size="12.5" fill="#1d4ed8">ヒルナンデス！「全世代口コミコンプリー</text>
-<text x="118" y="5948" font-size="12.5" fill="#1d4ed8">ト旅 in 軽井沢」（2026年7月28日 日本</text>
-<text x="70" y="6010" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="6027" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
-<circle cx="86" cy="6005" r="7" fill="#fff" stroke="#1d4ed8" stroke-width="4"/>
-<rect x="104" y="5986" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6010" font-size="16" font-weight="800" fill="#241F1A">レストラン ラリューム（Restau…</text>
-<text x="118" y="6032" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」第3弾 </text>
-<text x="118" y="6050" font-size="12.5" fill="#1d4ed8">ゲスト坂上忍（2026年8月14日 フジテレ</text>
+<text x="118" y="5908" font-size="16" font-weight="800" fill="#241F1A">レストラン ラリューム（Restau…</text>
+<text x="118" y="5930" font-size="12.5" fill="#1d4ed8">タイムレスマン「腹ペコ2択マン」第3弾 </text>
+<text x="118" y="5948" font-size="12.5" fill="#1d4ed8">ゲスト坂上忍（2026年8月14日 フジテレ</text>
 </svg>

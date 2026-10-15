@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「Le Rhin Bleu」"
-description: "亀梨和也のYouTubeで紹介された食事「Le Rhin Bleu」（スイスバーゼル）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。」（2024年11月）で、スイス・バーゼルを訪れた回で、ディナーを食べたライン川沿いのレストラン。"
 shop_id: "kamenashi-le_rhin_bleu-20241116"
 name: "Le Rhin Bleu"
 genre: "shokuji"
@@ -14,6 +14,8 @@ youtube_id: "3ZnxNCg-uHg"
 source_video_title: "【超高額】本場スイスでパテックフィリップに来店。3000万円の時計に出会い手が震えます。。。"
 group: "kamenashi"
 thumbnail_url: "https://img.youtube.com/vi/3ZnxNCg-uHg/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 47.5573
 lng: 7.5913
 members:

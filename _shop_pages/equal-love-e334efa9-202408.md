@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「加賀百万石の味 げんかん」"
-description: "=LOVEのYouTubeで紹介された和食「加賀百万石の味 げんかん」（石川県金沢市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【休日Vlog】金沢でおいしいものをひたすら食べまくりました」（2023年12月）で訪れた和食店。"
 shop_id: "equal_love-e334efa9-202408"
 name: "加賀百万石の味 げんかん"
 genre: "washoku"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17010862/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001220712/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/89/P034195989/P034195989_238.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 36.5750276
 lng: 136.6529341
 members:

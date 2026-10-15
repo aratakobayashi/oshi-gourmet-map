@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「さくらの夢見屋 小町通り本店」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「さくらの夢見屋 小町通り本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの音嶋莉沙と瀧脇笙古が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【プライベート】2人で鎌倉に食べ歩き行ってきたよ〜︎【#しょこりさの日常】【鎌倉旅#1】」（2023年5月）で訪れた甘味の店。鎌倉の食べ歩きの回。"
 shop_id: "equal_love-d556ceee-202408"
 name: "さくらの夢見屋 小町通り本店"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_video_title: "【プライベート】2人で鎌倉に食べ歩き行っ�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14028007/"
 thumbnail_url: "https://img.youtube.com/vi/Evw3lyphfcM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.3215127
 lng: 139.5531174
 members:

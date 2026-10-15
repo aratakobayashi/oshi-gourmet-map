@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "乃木坂46が行った「つばめパン＆Milk 尼ケ坂本店」"
-description: "乃木坂どこへで紹介されたカフェ「つばめパン＆Milk 尼ケ坂本店」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+title: "乃木坂46『乃木坂工事中 #373（2022年8月14日）』に登場した「つばめパン＆Milk 尼ケ坂本店」"
+description: "『乃木坂工事中』#373「全国ツアーでなに食べまショー 前編」（2022年8月14日放送）で、愛知のグルメとしてオムレツサンドが紹介されたパン店。"
 shop_id: "nogizaka46-milk-"
 name: "つばめパン＆Milk 尼ケ坂本店"
 genre: "cafe"
@@ -14,6 +14,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230110/23070381/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "乃木坂工事中 #373（2022年8月14日）"
 lat: 35.187878
 lng: 136.918944
 members:

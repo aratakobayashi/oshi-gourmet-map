@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「銀座 楼蘭」"
-description: "2016.07.20 グルメ探偵調査で紹介された食事「銀座 楼蘭」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）にふかひれ姿煮御膳が登場した店。"
 shop_id: "heysayjump-77cd10ec-20160720"
 name: "銀座 楼蘭"
 genre: "shokuji"
@@ -15,6 +15,8 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13282692/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6720135
 lng: 139.7647202
 members:

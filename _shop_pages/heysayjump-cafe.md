@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "Hey! Say! JUMPが行った「うさぎやCAFE」"
-description: "メレンゲの気持ち 2017.07.29で紹介されたカフェ「うさぎやCAFE」（東京都台東区）。推し活グルメ巡礼スポット。"
+title: "Hey! Say! JUMP『メレンゲの気持ち』に登場した「うさぎやCAFE」"
+description: "『メレンゲの気持ち』（2017年7月29日放送）のスタジオで、林家たい平のおすすめとして水飯が出され、Hey! Say! JUMPの伊野尾慧が食べたカフェ。"
 shop_id: "heysayjump-cafe-"
 name: "うさぎやCAFE"
 genre: "cafe"
@@ -13,6 +13,8 @@ source_video_title: "メレンゲの気持ち 2017.07.29"
 source_url: "https://medax.hatenablog.com/entry/meringue/20170729"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13184732/"
+visit_kind: "guest_tv"
+program: "メレンゲの気持ち"
 lat: 35.7066556
 lng: 139.7715506
 members:

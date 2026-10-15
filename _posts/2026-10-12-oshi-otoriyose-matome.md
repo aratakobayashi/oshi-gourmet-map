@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販31軒"
+title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販28軒"
 date: 2026-10-12
 last_modified_at: 2026-10-12
-description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど14組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる31軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
+description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど14組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる28軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
 genre: まとめ
 article_type: matome
 prefecture:
@@ -13,14 +13,13 @@ checked_label: 通販の情報
 tags: [お取り寄せ, 通販, 公式オンラインショップ, 聖地巡礼, 推し活, よにのちゃんねる, 乃木坂46, Snow Man, "=LOVE", "King & Prince", 嵐, SixTONES]
 thumbnail: /assets/img/posts/oshi-otoriyose-matome/thumb.webp
 summary:
-  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある31軒（14組）"
-  - "スイーツ・和菓子・コーヒー11軒、ラーメン・そば・うどん7軒、餃子・中華4軒、肉・うなぎ・おかず・調味料9軒"
+  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある28軒（14組）"
+  - "スイーツ・和菓子・コーヒー10軒、ラーメン・そば・うどん6軒、餃子・中華3軒、肉・うなぎ・おかず・調味料9軒"
   - "お店ごとに「推しが行った回」と「通販で買えるもの」を、2026年10月12日に各店の公式サイトで確かめて載せています"
   - "チェーン店や支店は、そのお店ではなくブランドの公式通販です。価格や送料は公式通販で確かめてください"
 shop_ids:
   - equal_love-acc7e129-202408
   - equal_love-5778582a-202509
-  - nogizaka46-9c79a146-
   - nogizaka46-eec95659-
   - kingprince-973526af-20230429
   - kingprince-5400b983-20220813
@@ -33,11 +32,9 @@ shop_ids:
   - equal_love-26520a35-202508
   - neajoy-403503b7-202408
   - kamenashi-e27eb84b-202404
-  - nogizaka46-28d50565-
   - snowman-sarashina-horii-motoazabu
   - heysayjump-57062058-
   - sixtones-kiraasse-utsunomiya
-  - nogizaka46-b7df1d2f-
   - 18e67b1e
   - 0d7e10cf
   - yonino-imahan-asakusa
@@ -54,8 +51,6 @@ sources:
     url: "https://funawa.jp/"
   - label: "揚げもみじの紅葉堂 本店（公式サイト）"
     url: "https://momijido.shop-pro.jp/"
-  - label: "白水堂 思案橋本店（公式サイト）"
-    url: "https://hakusuido.jp/shop"
   - label: "六花亭 小樽運河店（公式サイト）"
     url: "https://www.rokkatei.co.jp/shop/sapporo/"
   - label: "リリエンベルグ（公式サイト）"
@@ -80,16 +75,12 @@ sources:
     url: "https://www.tenkaippin.co.jp/"
   - label: "九州じゃんがら原宿店（公式サイト）"
     url: "https://kyushujangara.co.jp/"
-  - label: "永福町 大勝軒（公式サイト）"
-    url: "https://eifukucho-taishoken.shop/"
   - label: "総本家更科堀井 本店（公式サイト）"
     url: "https://sarashina-horii.com/"
   - label: "五代目花山うどん（公式サイト）"
     url: "https://www.hanayamaudon.co.jp/"
   - label: "来らっせ 本店（公式サイト）"
     url: "https://www.gyozakai.com/online/"
-  - label: "宇都宮みんみん（公式サイト）"
-    url: "https://www.minmin.co.jp/"
   - label: "萬珍樓 本店（公式サイト）"
     url: "https://www.manchinro.com/"
   - label: "重慶飯店 新館（公式サイト）"
@@ -114,7 +105,7 @@ sources:
     url: "https://www.houraiken.com/houraiken_chimaki.html"
 faq:
   - q: "推しが行ったお店の商品を通販で買えますか？"
-    a: "この記事の31軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
+    a: "この記事の28軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
   - q: "支店やチェーン店に行った回でも、同じ商品が買えますか？"
     a: "通販はお店（支店）ごとではなく、ブランドの公式通販です。たとえば一蘭 中野店・天下一品 中野店・ラーメン山岡家 青梅店などは、それぞれのブランドの公式通販を案内しています。お店で食べたメニューと通販の商品は同じとは限りません。"
   - q: "価格や送料はいくらですか？"
@@ -129,7 +120,7 @@ faq:
 
 <p>推しが動画や番組で訪れた、あのお店。遠くてなかなか行けないお店でも、公式のオンラインショップがあれば、家でお取り寄せできます。</p>
 
-<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店31軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
+<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店28軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
 
 <h2>ひと目でわかる 推しのお店のお取り寄せ</h2>
 <div class="pf-card">
@@ -140,24 +131,24 @@ faq:
     <span class="pf-card__color"><i></i>14組の推し</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>31軒</dd></div>
+    <div><dt>お店の数</dt><dd>28軒</dd></div>
     <div><dt>推しのグループ・番組</dt><dd>14組</dd></div>
-    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子（11軒）</dd></div>
+    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子（10軒）</dd></div>
     <div><dt>チェーン店</dt><dd>5軒（ブランドの通販）</dd></div>
-    <div><dt>お店の場所</dt><dd>13都道府県</dd></div>
+    <div><dt>お店の場所</dt><dd>12都道府県</dd></div>
     <div><dt>楽天市場にも店</dt><dd>2軒</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>31<small>軒</small></b><span>公式の通販があるお店</span></div>
+  <div><b>28<small>軒</small></b><span>公式の通販があるお店</span></div>
   <div><b>14<small>組</small></b><span>よにのちゃんねる・乃木坂46・Snow Manなど</span></div>
-  <div><b>11<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
-  <div><b>13<small>都道府県</small></b><span>東京都14軒・神奈川県3軒・京都府2軒など</span></div>
+  <div><b>10<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
+  <div><b>12<small>都道府県</small></b><span>東京都13軒・神奈川県3軒・京都府2軒など</span></div>
 </div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：スイーツ8軒、和食7軒、ラーメン5軒、中華5軒、その他3軒、食事2軒、カフェ1軒。場所は東京都14軒（台東区3軒、中央区・中野区2軒ずつほか）、東京の外は長野県・宇都宮市・横浜市が2軒ずつ、ほかに仙台市・福岡市・小樽市・京都市・福知山市・成田市・名古屋市・廿日市市・長崎市・高知市・川崎市" width="420" height="846" loading="lazy" decoding="async"><figcaption>この記事の31軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：スイーツ7軒、和食7軒、ラーメン4軒、中華4軒、その他3軒、食事2軒、カフェ1軒。場所は東京都13軒（台東区3軒、中央区・中野区2軒ずつほか）、東京の外は長野県・横浜市が2軒ずつ、ほかに廿日市市・小樽市・川崎市・福知山市・高知市・仙台市・福岡市・京都市・成田市・名古屋市・宇都宮市" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の28軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
 
 <h2>注文する前に</h2>
 <ul>
@@ -168,7 +159,7 @@ faq:
 </ul>
 <p class="note">楽天市場へのリンクは広告（アフィリエイト）リンクです。公式オンラインショップへのリンクは広告ではありません。</p>
 
-<h2>スイーツ・和菓子・コーヒー（11軒）</h2>
+<h2>スイーツ・和菓子・コーヒー（10軒）</h2>
 <p>洋菓子・和菓子・ご当地のお菓子と、コーヒー豆。詰め合わせやギフトを用意しているお店もあります。</p>
 <ul class="pf-buy">
   <li style="--g:#f43f5e">
@@ -190,16 +181,6 @@ faq:
     </dl>
     <p class="pf-buy__note">揚げもみじは自宅で揚げて作るキットとして販売されています。</p>
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://momijido.shop-pro.jp/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
-  </li>
-  <li style="--g:#0ea5e9">
-    <p class="pf-buy__who">乃木坂46</p>
-    <b>白水堂 思案橋本店</b>
-    <dl>
-      <div><dt>推しが行った回</dt><dd>乃木坂46のMV『水玉模様』に登場したお店（長崎）</dd></div>
-      <div><dt>通販で買えるもの</dt><dd>桃かすてら、かすてら、五三焼かすてら、びわゼリー</dd></div>
-    </dl>
-    <p class="pf-buy__note">白水堂の公式サイトの店舗ページに思案橋本店（長崎市油屋町）があります。</p>
-    <p class="pf-buy__btns"><a class="btn btn--sm" href="https://shop.hakusuido.jp/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
   <li style="--g:#0ea5e9">
     <p class="pf-buy__who">乃木坂46</p>
@@ -282,9 +263,9 @@ faq:
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.maruyamacoffee.com/ec/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-9c79a146-,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2f44be15-20200523,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,yonino-maruyama-coffee-karuizawa" %}
+{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2f44be15-20200523,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,yonino-maruyama-coffee-karuizawa" %}
 
-<h2>ラーメン・そば・うどん（7軒）</h2>
+<h2>ラーメン・そば・うどん（6軒）</h2>
 <p>お店の味を家で作れる袋麺・生麺・冷凍麺など。チェーン店はブランドの公式通販です。</p>
 <ul class="pf-buy">
   <li style="--g:#e8537a">
@@ -327,16 +308,6 @@ faq:
     <p class="pf-buy__note">チェーン店です。原宿店の商品ではなく、九州じゃんがらの公式サイトからつながる「オンラインショップ／通信販売」（ブランドの通販）です。</p>
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://jangara.thebase.in/" target="_blank" rel="noopener">ブランドの公式通販</a></p>
   </li>
-  <li style="--g:#0ea5e9">
-    <p class="pf-buy__who">乃木坂46</p>
-    <b>永福町 大勝軒</b>
-    <dl>
-      <div><dt>推しが行った回</dt><dd>乃木坂46のMV『立ち直り中』に登場したお店（東京都杉並区）</dd></div>
-      <div><dt>通販で買えるもの</dt><dd>おみやげラーメン、生中華麺、味付けメンマ、どんぶり</dd></div>
-    </dl>
-    <p class="pf-buy__note">永福町大勝軒の通販サイトです。</p>
-    <p class="pf-buy__btns"><a class="btn btn--sm" href="https://eifukucho-taishoken.shop/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
-  </li>
   <li style="--g:#3b82f6">
     <p class="pf-buy__who">Snow Man</p>
     <b>総本家更科堀井 本店</b>
@@ -358,9 +329,9 @@ faq:
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.hanayamaudon.jp/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-ichiran-nakano,equal_love-26520a35-202508,neajoy-403503b7-202408,kamenashi-e27eb84b-202404,nogizaka46-28d50565-,snowman-sarashina-horii-motoazabu,heysayjump-57062058-" %}
+{% include inline-shop-grid.html ids="yonino-ichiran-nakano,equal_love-26520a35-202508,neajoy-403503b7-202408,kamenashi-e27eb84b-202404,snowman-sarashina-horii-motoazabu,heysayjump-57062058-" %}
 
-<h2>餃子・中華（4軒）</h2>
+<h2>餃子・中華（3軒）</h2>
 <p>宇都宮の餃子と、横浜中華街の冷凍の中華料理・点心。</p>
 <ul class="pf-buy">
   <li style="--g:#7c3aed">
@@ -372,16 +343,6 @@ faq:
     </dl>
     <p class="pf-buy__note">来らっせは宇都宮餃子会の直営店。通販は宇都宮餃子会の公式通販で、加盟店の冷凍餃子が並びます（来らっせのお店そのものの通販ではありません）。</p>
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://ugyozakai.thebase.in/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
-  </li>
-  <li style="--g:#0ea5e9">
-    <p class="pf-buy__who">乃木坂46</p>
-    <b>宇都宮みんみん</b>
-    <dl>
-      <div><dt>推しが行った回</dt><dd>賀喜遥香が、『夜明けまで強がらなくてもいい』の全国キャンペーンで地元の栃木を訪れたときに訪問</dd></div>
-      <div><dt>通販で買えるもの</dt><dd>餃子（お取り寄せ）</dd></div>
-    </dl>
-    <p class="pf-buy__note">宇都宮みんみんの公式サイトの「餃子お取り寄せ」から注文できます。</p>
-    <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.minmin.co.jp/store/products/list.php" target="_blank" rel="noopener">公式サイトの餃子お取り寄せ</a></p>
   </li>
   <li style="--g:#92400e">
     <p class="pf-buy__who">孤独のグルメ</p>
@@ -404,7 +365,7 @@ faq:
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://e-shop.jukeihanten.com/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
 </ul>
-{% include inline-shop-grid.html ids="sixtones-kiraasse-utsunomiya,nogizaka46-b7df1d2f-,18e67b1e,0d7e10cf" %}
+{% include inline-shop-grid.html ids="sixtones-kiraasse-utsunomiya,18e67b1e,0d7e10cf" %}
 
 <h2>肉・うなぎ・おかず・調味料（9軒）</h2>
 <p>牛たん・牛肉・うなぎ・水炊きなどのおかずと、味噌・とろろ・そばつゆなどの調味料。冷凍や冷蔵で届くものが多いので、受け取りの日時も確かめてください。</p>
@@ -508,7 +469,7 @@ faq:
   <li><strong>浅草</strong>：浅草今半 国際通り本店・浅草むぎとろ本店・舟和 仲見世1号店。よにのちゃんねる・Snow Man・=LOVEのお店が同じ街にあります。</li>
   <li><strong>銀座・麻布十番</strong>：フレデリック カッセル 銀座三越店（銀座駅 徒歩1分）と、麻布十番の総本家更科堀井 本店。</li>
   <li><strong>横浜中華街</strong>：萬珍樓 本店（孤独のグルメ）と重慶飯店 新館（WEST.）。</li>
-  <li><strong>宇都宮</strong>：来らっせ 本店（SixTONES）と宇都宮みんみん（乃木坂46）。</li>
+  <li><strong>宇都宮</strong>：来らっせ 本店（SixTONES）。</li>
   <li><strong>小布施・軽井沢</strong>：小布施堂本店（嵐）と丸山珈琲 ハルニレテラス店（よにのちゃんねる）。どちらも長野県です。</li>
 </ul>
 

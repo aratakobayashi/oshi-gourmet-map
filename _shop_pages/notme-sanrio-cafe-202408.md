@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「SANRIO CAFE 池袋店」"
-description: "≠MEのYouTubeで紹介されたカフェ「SANRIO CAFE 池袋店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "≠MEの公式YouTubeの「【爆食】サンリオカフェで1万円分食べ放題してきました♡」（2023年3月）で、谷崎早耶と本田珠由記が1万円分を食べる企画をした池袋のサンリオカフェ。"
 shop_id: "notme-sanrio_cafe-202408"
 name: "SANRIO CAFE 池袋店"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "【爆食】サンリオカフェで1万円分食べ放題�
 group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13247285/"
 thumbnail_url: "https://img.youtube.com/vi/gQ8M3JURXOY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.7311554
 lng: 139.7149383
 members:

@@ -1,18 +1,20 @@
 ---
 layout: shop
 title: "花かんざし"
-description: "KinKi Kidsのブンブブーン おまけグルメで紹介されたスイーツ「花かんざし」（大阪府門真市）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2023年2月11日放送）の「おまけグルメ」企画で、中島裕翔・奈緒と味わった「どら焼きの皮」の和菓子店。"
 shop_id: "kinkikids-3b3cb1ab-20220211"
 name: "花かんざし"
 genre: "sweets"
 prefecture: "大阪府"
 city: "門真市"
 address: "大阪府門真市北岸和田2-10-20"
-visited_date: "2022-02-11"
+visited_date: "2023-02-11"
 source_video_title: "KinKi Kidsのブンブブーン おまけグルメ"
 group: "kinkikids"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "KinKi Kidsのブンブブーン"
 lat: 34.730402
 lng: 135.617292
 members:

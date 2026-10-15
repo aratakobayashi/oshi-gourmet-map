@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「二丁目食堂トレド」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「二丁目食堂トレド」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#282【洋食パラダイス♪】開口一番を探り合った日!!!」（2023年12月）で中丸雄一・山田涼介・菊池風磨が訪れた洋食店。"
 shop_id: "yonino-nijome-shokudo-toledo"
 name: "二丁目食堂トレド"
 genre: "shokuji"
@@ -15,9 +15,12 @@ source_video_title: "#282【洋食パラダイス♪】開口一番を探り合�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13127692/"
 thumbnail_url: "https://img.youtube.com/vi/5Hm39uw13C4/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7029
 lng: 139.7383
 members:
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

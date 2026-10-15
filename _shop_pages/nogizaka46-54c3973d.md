@@ -1,19 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「新かどや」"
-description: "乃木坂工事中で紹介されたその他「新かどや」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-54c3973d-"
-name: "新かどや"
-genre: "others"
-prefecture: "静岡県"
-city: "熱海市"
-address: "熱海市小嵐町１４−８"
-source_video_title: "乃木坂工事中"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22001796/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-lat: 35.0904658
-lng: 139.0661348
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店のページ"
+sitemap: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「おひつ膳 田んぼ」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「おひつ膳 田んぼ」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "ジャにのちゃんねる（現・よにのちゃんねる）の「#135【新シリーズ】折角だから朝飯だけ食べてみた」（2022年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたおひつご飯の定食店。"
 shop_id: "yonino-ohitsuzen-tanbo-sangenchaya"
 name: "おひつ膳 田んぼ"
 genre: "washoku"
@@ -15,10 +15,13 @@ source_video_title: "#135【新シリーズ】折角だから朝飯だけ食べ�
 source_video_url: "https://www.youtube.com/watch?v=wyEDShKJ3ig"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130403/13000681/"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6446
 lng: 139.6693
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

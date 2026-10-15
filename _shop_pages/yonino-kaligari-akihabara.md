@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「秋葉原 カリガリ」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「秋葉原 カリガリ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#292【朝!!】だからカレーでしょの日」（2024年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカレー店。"
 shop_id: "yonino-kaligari-akihabara"
 name: "秋葉原 カリガリ"
 genre: "others"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=vX-D0-Y2S2U"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13314983/"
 thumbnail_url: "https://img.youtube.com/vi/OvgqN-sckKE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6994
 lng: 139.7728
 members:

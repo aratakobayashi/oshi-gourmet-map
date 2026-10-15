@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "乃木坂46が行った「umi cafe」"
-description: "乃木坂46 『インフルエンサー』で紹介されたカフェ「umi cafe」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+title: "齋藤飛鳥出演『乃木坂46「インフルエンサー」Type-C 個人PV』のロケ地「umi cafe」"
+description: "乃木坂46の17thシングル「インフルエンサー」Type-Cに収録された齋藤飛鳥の個人PV「飛鳥マウス、街にあらわる」の撮影に使われたカフェ。"
 shop_id: "nogizaka46-umi_cafe-"
 name: "umi cafe"
 genre: "cafe"
@@ -15,6 +15,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14010097/"
 thumbnail_url: "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg"
 source_type: "tv"
+visit_kind: "drama"
+program: "乃木坂46「インフルエンサー」Type-C 個人PV"
 lat: 35.3091195
 lng: 139.5422113
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「GAZTA」"
-description: "嵐にしやがれで紹介されたスイーツ「GAZTA」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「GAZTA」"
+description: "嵐の冠番組『嵐にしやがれ』（2019年3月9日放送）の「北川景子＆松田翔太の回」で、この店の「バスクチーズケーキ」がスタジオに登場した。"
 shop_id: "arashi-gazta-20190309"
 name: "GAZTA"
 genre: "sweets"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131602/13223261/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.6438973
 lng: 139.7277018
 members:

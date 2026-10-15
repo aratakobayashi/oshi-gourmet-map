@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「かに道楽 道頓堀本店」"
-description: "≠MEのYouTubeで紹介された食事「かに道楽 道頓堀本店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "≠MEの公式YouTubeの「【全員集合】≠MEは大阪に行ってきました！！」（2021年8月）で、大阪での仕事の合間に立ち寄った道頓堀のかに料理店。"
 shop_id: "notme-bb3bf1c0-202408"
 name: "かに道楽 道頓堀本店"
 genre: "shokuji"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27001451/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000018294/"
 thumbnail_url: "https://img.youtube.com/vi/vUhfX5OTw_w/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/31/21/P051163121/P051163121_238.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 34.6685063
 lng: 135.5032623
 groups:

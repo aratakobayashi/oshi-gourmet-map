@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤羽 もつ焼のんき」"
-description: "=LOVEのYouTubeで紹介された居酒屋「赤羽 もつ焼のんき」（東京都北区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの諸橋沙夏が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【赤羽】昼飲みで念願のはしご酒してきました最高！！！」（2024年6月）で訪れたもつ焼き店。はしご酒シリーズ第1弾の1軒目。"
 shop_id: "equal_love-443dcbb1-202408"
 name: "赤羽 もつ焼のんき"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_video_title: "【赤羽】昼飲みで念願のはしご酒してきま�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132305/13044298/"
 thumbnail_url: "https://img.youtube.com/vi/sn9-GWZQ5ps/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.7806673
 lng: 139.7206438
 members:

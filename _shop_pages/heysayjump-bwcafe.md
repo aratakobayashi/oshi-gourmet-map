@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BWCAFE」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介されたカフェ「BWCAFE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れたそばカフェ。ソルティトマトのフローズンつけsobaと蕎麦茶ミルクの冷やしフルーツ鍋を食べた。"
 shop_id: "heysayjump-bwcafe-"
 name: "BWCAFE"
 genre: "cafe"
@@ -14,6 +14,8 @@ source_url: "https://medax.hatenablog.com/entry/2018/08/27/205542"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1327/A132701/13136479/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+visit_kind: "guest_tv"
+program: "ヒルナンデス！"
 lat: 35.7046389
 lng: 139.7052761
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「暴れん坊チキン」"
-description: "≒JOYのYouTubeで紹介された食事「暴れん坊チキン」（愛知県岡崎市）。推し活グルメ巡礼スポット。"
+description: "≒JOYの公式YouTubeの「【岡崎旅行】みんなでドライブ＆観光！岡崎市が楽しすぎました！」（2024年5月）で、江角怜音・大信田美月・小澤愛実・村山結香が立ち寄った岡崎市中心部の唐揚げの店。"
 shop_id: "neajoy-cf70ada8-202408"
 name: "暴れん坊チキン"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【岡崎旅行】みんなでドライブ＆観光！岡�
 group: "neajoy"
 tabelog_url: "https://tabelog.com/aichi/A2305/A230502/23059923/"
 thumbnail_url: "https://img.youtube.com/vi/rEJ08q9MkuE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 34.9511
 lng: 137.1706
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「らーめん ぽっぽっ屋 水道橋店」"
-description: "=LOVEのYouTubeで紹介されたラーメン「らーめん ぽっぽっ屋 水道橋店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】」（2025年12月）で訪れたラーメン店。"
 shop_id: "equal_love-85f871ac-202512"
 name: "らーめん ぽっぽっ屋 水道橋店"
 genre: "ramen"
@@ -14,6 +14,8 @@ youtube_id: "TI71ENfUCZQ"
 source_video_title: "【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/TI71ENfUCZQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.70076
 lng: 139.754353
 members:

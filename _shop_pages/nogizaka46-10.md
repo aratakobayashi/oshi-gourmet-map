@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「大王チーズ10円パン＆チョコチュロス 道頓堀店」"
-description: "乃木坂46のYouTubeで紹介されたカフェ「大王チーズ10円パン＆チョコチュロス 道頓堀店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の公式YouTube「乃木坂配信中」の「山下美月の大阪くいだおれ旅！」（2022年11月）で、山下美月がチーズの10円パンを食べた道頓堀の店。"
 shop_id: "nogizaka46-10-"
 name: "大王チーズ10円パン＆チョコチュロス 道頓堀店"
 genre: "cafe"
@@ -13,8 +13,12 @@ youtube_id: "bNbI6m6S7f0"
 source_video_title: "【舞いあがれ！収録前日】山下美月の大阪くいだおれ旅！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=bNbI6m6S7f0"
 group: "nogizaka46"
+visit_kind: "youtube"
+program: "乃木坂配信中"
 lat: 34.6685063
 lng: 135.5032623
+members:
+  - "山下美月"
 groups:
   - "nogizaka46"
 ---

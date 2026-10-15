@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「HERO'S ステーキハウス 秋葉原店」"
-description: "2016.04.14 春の大盛りグルメで紹介された焼肉「HERO'S ステーキハウス 秋葉原店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「春だから出会いたい ハイカロパデカ盛り！！」（2016年4月14日放送）で、有岡大貴・髙木雄也・八乙女光・岡本圭人が訪れたステーキ店。3ポンドチャックステーキが登場した。"
 shop_id: "heysayjump-hero_s-20160414"
 name: "HERO'S ステーキハウス 秋葉原店"
 genre: "yakiniku"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001066911/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/07/28/P037450728/P037450728_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.7011217
 lng: 139.7711004
 members:

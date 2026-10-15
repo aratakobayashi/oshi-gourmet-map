@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「512 カフェアンドグリル(512 CAFE & GRILL)」"
-description: "嵐にしやがれで紹介されたカフェ「512 カフェアンドグリル(512 CAFE & GRILL)」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「512 カフェアンドグリル(512 CAFE & GRILL)」"
+description: "嵐の冠番組『嵐にしやがれ』（2020年12月19日放送）の「NiziU 2020ブレイクグルメデスマッチ」で、この店の「ザクザクフレンチトースト」がスタジオに登場した。"
 shop_id: "arashi-512_512_cafe_grill-20201219"
 name: "512 カフェアンドグリル(512 CAFE & GRILL)"
 genre: "cafe"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13174478/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.6716786
 lng: 139.7356224
 members:

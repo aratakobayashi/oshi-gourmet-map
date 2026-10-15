@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「洋麺屋五右衛門 赤坂店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「洋麺屋五右衛門 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#389【朝食!!】卍が所望していたお店に行った日」（2025年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたパスタ店。"
 shop_id: "yonino-goemon-akasaka"
 name: "洋麺屋五右衛門 赤坂店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#389【朝食!!】卍が所望していたお店に行っ�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132102/13307072/"
 thumbnail_url: "https://img.youtube.com/vi/PFtmB_WeAVo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.671679
 lng: 139.735622
 members:

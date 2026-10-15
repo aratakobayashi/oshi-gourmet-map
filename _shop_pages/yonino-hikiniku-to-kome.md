@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「挽肉と米 渋谷」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「挽肉と米 渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#408【ゲスト!!】凄い人が来た日」（2025年3月）で二宮和也・山田涼介・菊池風磨の3人がゲストの大森元貴と訪れたハンバーグ定食の店。"
 shop_id: "yonino-hikiniku-to-kome"
 name: "挽肉と米 渋谷"
 genre: "shokuji"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=0_u6LidUu0I"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13257261/"
 thumbnail_url: "https://img.youtube.com/vi/SSMGkVmGtsM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.659379
 lng: 139.69878
 members:

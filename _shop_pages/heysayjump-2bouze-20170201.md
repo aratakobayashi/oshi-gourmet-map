@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「2BOUZE」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介された食事「2BOUZE」（千葉県船橋市）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、髙木雄也・八乙女光・中島裕翔・知念侑李の回に登場した店。スーパーマンモスクレームブリュレが登場した。"
 shop_id: "heysayjump-2bouze-20170201"
 name: "2BOUZE"
 genre: "shokuji"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000821407/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/76/42/P016207642/P016207642_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6940325
 lng: 139.976026
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「餃子の王将 新橋駅前店」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「餃子の王将 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#440【初!!】意外と食べてなかったのを知った日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れた中華料理店。"
 shop_id: "yonino-gyoza-ohsho-shimbashi"
 name: "餃子の王将 新橋駅前店"
 genre: "chuka"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=M9oR9A7XN5E"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13013161/"
 thumbnail_url: "https://img.youtube.com/vi/K_MkrrYFgR0/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.666
 lng: 139.7586
 members:

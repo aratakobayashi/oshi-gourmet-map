@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「手しおごはん 玄 新宿南口店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「手しおごはん 玄 新宿南口店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねる（当時ジャにのちゃんねる）の「#269【わっしょいCAMP】Jr.に凸ったら演出家に遭遇。」（2023年9月）に関連づけられている定食店。中丸雄一の回。"
 shop_id: "yonino-teshio-gohan-gen"
 name: "手しおごはん 玄 新宿南口店"
 genre: "washoku"
@@ -18,12 +18,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13248277/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001295063/"
 thumbnail_url: "https://img.youtube.com/vi/htb_epSGs_E/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/55/25/P039295525/P039295525_238.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6848
 lng: 139.702
 members:
-  - "二宮和也"
-  - "山田涼介"
-  - "菊池風磨"
+  - "中丸雄一"
 groups:
   - "yonino"
 tags:

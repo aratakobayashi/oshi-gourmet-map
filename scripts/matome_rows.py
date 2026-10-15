@@ -28,7 +28,7 @@ def norm(s):
 
 
 def kind_of(h):
-    if 'YouTube' in h or 'チャンネル' in h:
+    if 'YouTube' in h or 'チャンネル' in h or 'CHANNEL' in h:
         return 'yt'
     if 'ドラマ' in h or 'ロケ地' in h:
         return 'drama'
@@ -137,7 +137,7 @@ def main():
     for i in range(first_src, land):
         s = secs[i]
         h = title(s)
-        if 'メンバーで選ぶ' in h:
+        if any(w in h for w in ('メンバーで選ぶ', 'はじめての', '半日で', 'ひと目で')):
             continue
         kd = kind_of(h)
         cid = f'src{i}'
@@ -159,7 +159,7 @@ def main():
     body = head + ''.join(secs)
 
     # --- 3) 冒頭の「出典で選ぶ」「メンバーで選ぶ」 ---
-    body = re.sub(r'<div class="cnav">.*?</div>\n</div>\n\{% include matome-members\.html group="\w+" %\}\n', '', body, flags=re.S)
+    body = re.sub(r'<div class="cnav">.*?</div>\n</div>\n(\{% include matome-members\.html group="\w+" %\}\n)?\n?', '', body, flags=re.S)
     items = ''.join(f'<a href="#{c}">{{% include chico.html kind="{k}" %}}<span>{l}<small>{n}軒</small></span></a>' for c, k, l, n in nav if n)
     block = (f'<div class="cnav">\n<p class="cnav__h">出典で選ぶ</p>\n<div class="cnav__list">{items}</div>\n</div>\n'
              f'{{% include matome-members.html group="{group}" %}}\n')

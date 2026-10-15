@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「SPICY CURRY 魯珈」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「SPICY CURRY 魯珈」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#421【朝飯!!】スパイシーがビックバンだった日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたスパイスカレー店。"
 shop_id: "yonino-spicy-curry-roka"
 name: "SPICY CURRY 魯珈"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#421【朝飯!!】スパイシーがビックバンだっ�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13286023/"
 thumbnail_url: "https://img.youtube.com/vi/jK0wBUV9HV8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.699913
 lng: 139.699741
 members:

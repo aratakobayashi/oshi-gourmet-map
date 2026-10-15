@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「GEBURA」"
-description: "=LOVEのYouTubeで紹介されたカフェ「GEBURA」（広島県廿日市市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの山本杏奈と佐々木舞香が、2人のYouTube「イコラブのあんまい」の「【ツアー翌日に】るんるん広島旅じゃけん！」（2025年9月）で訪れたカフェ。ツアー翌日の広島旅の回（山本杏奈の地元の友人2人も同行）。"
 shop_id: "equal_love-gebura-20250915"
 name: "GEBURA"
 genre: "cafe"
@@ -14,6 +14,8 @@ source_video_title: "【ツアー翌日に】るんるん広島旅じゃけん�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/hiroshima/A3402/A340202/34024899/"
 thumbnail_url: "https://img.youtube.com/vi/0Strh5AKapM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブのあんまい"
 lat: 34.2988011
 lng: 132.3212291
 members:

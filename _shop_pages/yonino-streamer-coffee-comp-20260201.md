@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STREAMER COFFEE COMPANY AKASAKA」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STREAMER COFFEE COMPANY AKASAKA」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#498【初じゃない!!】二宮くんを送ろう！の日」（2026年2月）で山田涼介・菊池風磨が訪れたコーヒースタンド。"
 shop_id: "yonino-streamer_coffee_comp-20260201"
 name: "STREAMER COFFEE COMPANY AKASAKA"
 genre: "cafe"
@@ -15,8 +15,13 @@ source_video_title: "#498【初じゃない!!】二宮くんを送ろう！の�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13261009/"
 thumbnail_url: "https://img.youtube.com/vi/EhAzZAITxIU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6756606
 lng: 139.7375415
+members:
+  - "山田涼介"
+  - "菊池風磨"
 groups:
   - "yonino"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "横浜くりこ庵 横浜西口店（くりこあん）"
-description: "agroupのYouTubeで紹介されたその他「横浜くりこ庵 横浜西口店（くりこあん）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin横浜」（2025年3月）で、末澤誠也がプレミアムクリームたい焼きを買って食べた横浜駅西口のたい焼き店。"
 shop_id: "agroup-4ef74a5d-"
 name: "横浜くりこ庵 横浜西口店（くりこあん）"
 genre: "others"
@@ -15,15 +15,12 @@ source_video_url: "https://www.youtube.com/watch?v=QsNHvXoTnyE"
 source_url: "https://kosodate-and.net/sue-yokohama-taiyaki"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140101/14003788/"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.46479237880692
 lng: 139.62021325230072
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
   - "末澤誠也"
-  - "小島健"
-  - "福本大晴"
-  - "佐野晶哉"
 groups:
   - "agroup"
 ---

@@ -1,106 +1,155 @@
 ---
 layout: post
-title: "日向坂46のグルメ聖地まとめ｜銚子の海鮮・今川焼・ラーメンと原宿のMVのお店まで4軒をジャンルの図で"
+title: "日向坂46の聖地巡礼・ロケ地まとめ｜日向坂ちゃんねる・せっかくグルメ・特典映像の東京のご飯ほか13軒"
 date: 2026-05-21
-last_modified_at: 2026-10-10
-description: "推しグルメ巡礼MAPに登録されている日向坂46ゆかりのお店4軒を、ジャンルと場所の図・最寄り駅つきでまとめました。銚子の3軒と、『あくびLetter』のMVに登場した原宿のお店。"
+last_modified_at: 2026-10-15
+checked_at: 2026-10-15
+description: "日向坂46の聖地巡礼・ロケ地13軒のまとめ。公式YouTube「日向坂ちゃんねる」の回、『バナナマンのせっかくグルメ!!』の銚子のロケ、シングルの特典映像「日向の休日」、けやき坂46時代の「自撮りTV」のお店を、出典ごとに分けて紹介します。"
 group: hinatazaka46
+genre: まとめ
 article_type: matome
-prefecture: 東京都
-tags: [日向坂46, ひなたざか, 聖地巡礼, グルメ, まとめ, 銚子, 原宿, 千葉]
-thumbnail_video_id: KcpvHDt0bPc
+prefecture:
+tags: [日向坂46, 日向坂ちゃんねる, 日向坂で会いましょう, せっかくグルメ, けやき坂46, グルメ, 聖地巡礼, ロケ地, まとめ, 銚子, 原宿]
+thumbnail_video_id: ctL0FLB8RN4
+sources:
+  - label: "日向坂46 公式サイト"
+    url: "https://www.hinatazaka46.com/"
+  - label: "日向坂46 公式YouTube「日向坂ちゃんねる」（「【マブダチ】なのほーの巣鴨デート」）"
+    url: "https://www.youtube.com/watch?v=ctL0FLB8RN4"
+  - label: "確認に使った資料：ひなたのまとめ（番組・特典映像に登場したお店を記録したファンのブログ）"
+    url: "https://zakki10.blogspot.com/"
 summary:
-  - "日向坂46ゆかりのお店4軒を、データの出典ごとに2つに分けて紹介"
-  - "3軒が千葉県の銚子市（海鮮・今川焼・ラーメン）"
-  - "原宿のSan Francisco Peaksは、公式MV『あくびLetter』（2021年）に登場したお店"
-  - "最寄り駅つきで、地図でまとめて巡れる"
+  - "日向坂46の聖地13軒。公式YouTube「日向坂ちゃんねる」5軒、冠番組『日向坂で会いましょう』で紹介したお店1軒、出演番組3軒、シングルの特典映像4軒"
+  - "『バナナマンのせっかくグルメ!!』の初回SP（2020年4月）で佐々木美玲・丹生明里が訪れた銚子の3軒"
+  - "東京が7軒（原宿・四谷・荻窪・巣鴨・自由が丘ほか）。ほかに千葉・京都・埼玉"
+  - "けやき坂46時代の特典映像「自撮りTV」のお店も、そのころの回と分かるように載せています"
 shop_ids:
+  - hinatazaka46-bcf80f50-20230520
+  - hinatazaka46-db1f58b6-20241223
+  - hinatazaka46-f9ce9946-20250715
+  - hinatazaka46-300c42a1-20260328
+  - hinatazaka46-6a0e232f-20260328
+  - hinatazaka46-boulangerie_sudo-
   - hinatazaka46-039367a9-202004
   - hinatazaka46-e928610f-202004
   - hinatazaka46-8054cbca-202004
-  - hinatazaka46-san_francisco_peaks-
+  - hinatazaka46-cdf0d467-
+  - hinatazaka46-35fceb88-
+  - hinatazaka46-kuro-
+  - hinatazaka46-597b4460-
 faq:
-  - q: "日向坂46のお店はどのエリアに多いですか？"
-    a: "この記事の4軒では千葉県銚子市が3軒で最も多く、ほかに東京都渋谷区の原宿に1軒あります。"
-  - q: "銚子ではどんなお店がありますか？"
-    a: "一山いけす（和食）、元祖今川焼 さのや（スイーツ）、お食事処ゆうなぎ（ラーメン）の3軒です。推しグルメ巡礼MAPのデータでは、2020年4月の「バナナマンのせっかくグルメ」に登場したお店として登録しています。"
-  - q: "MVに登場したお店はありますか？"
-    a: "原宿のSan Francisco Peaksが、日向坂46 OFFICIAL YouTube CHANNELで2021年10月に公開された『あくびLetter』のMVに登場したお店として登録されています。"
-  - q: "最寄り駅はどこですか？"
-    a: "推しグルメ巡礼MAPのデータでは、一山いけすは西海鹿島駅から徒歩14分、元祖今川焼 さのやは観音駅から徒歩7分、San Francisco Peaksは明治神宮前〈原宿〉駅から徒歩9分です。"
+  - q: "日向坂46が行ったお店はどこですか？"
+    a: "『バナナマンのせっかくグルメ!!』の初回SP（2020年4月放送）で、佐々木美玲と丹生明里が銚子の一山いけす・元祖今川焼 さのや・お食事処ゆうなぎを訪れています。3rdシングルの特典映像「日向の休日」では東村芽依がストロベリーマニア原宿店に、宮田愛萌がザクリ珈琲に行っています。"
+  - q: "東京で日向坂46の聖地を巡るならどこがいいですか？"
+    a: "原宿のストロベリーマニア原宿店（「日向の休日」の東村芽依の回）、四谷の鉄板焼き 玄 KURO（けやき坂46時代の「自撮りTV」の佐々木美玲の回）があります。日向坂ちゃんねるの「【荻窪】リアル一人定食【唐揚げ】」「【マブダチ】なのほーの巣鴨デート」の回のお店も東京です。"
+  - q: "『バナナマンのせっかくグルメ!!』のお店はどこですか？"
+    a: "2020年4月5日放送の初回2時間30分SPで、佐々木美玲と丹生明里が千葉県銚子市を訪れ、一山いけすで伊勢海老天丼を、元祖今川焼 さのやで今川焼きを、お食事処ゆうなぎでラーメンを食べています。"
+  - q: "けやき坂46時代のお店はありますか？"
+    a: "けやき坂46（現・日向坂46）時代の特典映像「自撮りTV」で、佐々木美玲が四谷の鉄板焼き 玄 KUROを、宮田愛萌がプラスヴィーガニック自由が丘を訪れています。"
+  - q: "「日向坂ちゃんねる」のお店はどの回ですか？"
+    a: "金村美玖の「【地元】埼玉県のお寿司屋さんを推すしかない！」（2023年5月）、清水理央の「【荻窪】リアル一人定食【唐揚げ】」（2024年12月）、上村ひなの・平尾帆夏の「【マブダチ】なのほーの巣鴨デート」（2025年7月）、平岡海月の「【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】」（2026年3月）の回です。"
   - q: "日向坂46のお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で日向坂46を選ぶと、この記事の4軒を含め、日向坂46ゆかりのお店を地図で見られます。"
+    a: "「お店を探す」で日向坂46を選ぶと、この記事の13軒を含め日向坂46のお店を地図で見られます。"
+pr: true
+techo: true
+cover_ids: "hinatazaka46-f9ce9946-20250715,hinatazaka46-bcf80f50-20230520,hinatazaka46-039367a9-202004"
+cover_title: "日向坂46 聖地巡礼帳"
+cover_sub: "日向坂ちゃんねる・せっかくグルメ・特典映像の13軒"
 ---
+<div class="pf pf--techo" style="--pc:#f59e0b">
 
-<div class="pf" style="--pc:#f59e0b">
+<p><strong>日向坂46</strong>のお店は、公式YouTubeチャンネル「日向坂ちゃんねる」の回、メンバーが出演したテレビ番組のロケ、シングルの特典映像に出てきます。金村美玖の地元・埼玉のお寿司、清水理央の一人定食、上村ひなの・平尾帆夏の巣鴨散歩、平岡海月の京都のぜんざい、佐々木美玲・丹生明里の銚子のロケなど、メンバー1〜2人で出かける回がほとんどです。</p>
 
-<p><strong>日向坂46</strong>ゆかりのお店を、推しグルメ巡礼MAPのデータからまとめました。銚子の海鮮・今川焼・ラーメン、そして公式MV『あくびLetter』に登場した原宿のお店まで。</p>
+<p>けやき坂46（現・日向坂46）時代の特典映像「自撮りTV」のお店もあります。この記事では<strong>13軒</strong>を、出典ごとに分けてまとめました。</p>
 
-<p>この記事では<strong>4軒</strong>を、データの出典ごとに2つに分けて紹介します。出典を公式で確かめきれていないお店は、そのことも書いています。</p>
+<div class="cnav">
+<p class="cnav__h">出典で選ぶ</p>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「日向坂ちゃんねる」<small>5軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組『日向坂で会いましょう』で紹介したお店<small>1軒</small></span></a><a href="#src3">{% include chico.html kind="guest" %}<span>出演した番組<small>3軒</small></span></a><a href="#src4">{% include chico.html kind="other" %}<span>シングルの特典映像<small>4軒</small></span></a></div>
+</div>
+{% include matome-members.html group="hinatazaka46" %}
 
-<h2>ひと目でわかる 日向坂46のグルメ聖地</h2>
-<div class="pf-card">
-  <div class="pf-card__head">
-    <small>日向坂46</small>
-    <p class="pf-card__name">ひなたグルメ</p>
-    <p class="pf-card__yomi">推しグルメ巡礼MAPのデータから</p>
-    <span class="pf-card__color"><i></i>日向坂46</span>
-  </div>
-  <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>4軒</dd></div>
-    <div><dt>多い県</dt><dd>千葉県（3軒）</dd></div>
-    <div><dt>多い街</dt><dd>銚子市（3軒）</dd></div>
-    <div><dt>ジャンル</dt><dd>和食・スイーツ・ラーメン・食事</dd></div>
-    <div><dt>MV</dt><dd>『あくびLetter』</dd></div>
-    <div><dt>東京</dt><dd>原宿</dd></div>
-  </dl>
+<h2>はじめての3軒：編集部が選ぶならここから</h2>
+<p>13軒のなかから、メンバーが実際に訪れた回のお店を、東京から2つ、銚子から1つ選びました。</p>
+<div class="picks">
+{% include pick.html id="hinatazaka46-cdf0d467-" no="其の一" why="3rdシングル『こんなに好きになっちゃっていいの？』の特典映像「日向の休日」で、東村芽依が休日に訪れたいちごスイーツのお店。東京の原宿（神宮前）です。" %}
+{% include pick.html id="hinatazaka46-kuro-" no="其の二" why="けやき坂46時代の特典映像「自撮りTV」で、佐々木美玲が訪れた鉄板焼きのお店。東京の四谷（新宿区左門町）です。" %}
+{% include pick.html id="hinatazaka46-039367a9-202004" no="其の三" why="『バナナマンのせっかくグルメ!!』の初回2時間30分SP（2020年4月放送）で、佐々木美玲と丹生明里が伊勢海老天丼を食べたお店。千葉県の銚子市です。" %}
 </div>
 
-<div class="pf-nums">
-  <div><b>4<small>軒</small></b><span>この記事のお店</span></div>
-  <div><b>1<small>本</small></b><span>お店が登場する公式MV（『あくびLetter』）</span></div>
-  <div><b>3<small>軒</small></b><span>銚子市のお店（海鮮・今川焼・ラーメン）</span></div>
-  <div><b>{{ site.data.group_ix.hinatazaka46.n }}<small>軒</small></b><span>このサイトに登録されている、日向坂46のお店ぜんぶ</span></div>
-</div>
+<div class="pf-quote"><p>13軒のうち5軒が公式YouTube「日向坂ちゃんねる」の回、3軒が『バナナマンのせっかくグルメ!!』の銚子のロケ、4軒がシングルの特典映像のお店です。東京のお店は原宿・四谷・荻窪・巣鴨・自由が丘などに散らばっていて、近くにまとまってはいません。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-<div class="pf-quote"><p>4軒のうち3軒が千葉県の銚子市。海鮮・今川焼・ラーメンとジャンルがばらばらなので、1日で食事から甘いものまでそろいます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「日向坂ちゃんねる」で行ったお店</h2>
+<p>日向坂46の公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月です。どの回も動画の説明文に店名がないため、回のタイトルと出たメンバーだけを書いています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="hinatazaka46-bcf80f50-20230520" %}<span class="wr__k">2023.5</span><b class="wr__name">千八寿司 与野</b><span class="wr__t">【地元】埼玉県のお寿司屋さんを推すしかない！／金村美玖</span>{% include wr-close.html id="hinatazaka46-bcf80f50-20230520" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-db1f58b6-20241223" %}<span class="wr__k">2024.12</span><b class="wr__name">ブタカラ ことぶき食堂</b><span class="wr__t">【荻窪】リアル一人定食【唐揚げ】／清水理央</span>{% include wr-close.html id="hinatazaka46-db1f58b6-20241223" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-f9ce9946-20250715" %}<span class="wr__k">2025.7</span><b class="wr__name">珈琲専門館 伯爵 巣鴨店</b><span class="wr__t">【マブダチ】なのほーの巣鴨デート／上村ひなの・平尾帆夏</span>{% include wr-close.html id="hinatazaka46-f9ce9946-20250715" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-300c42a1-20260328" %}<span class="wr__k">2026.3</span><b class="wr__name">ぎおん徳屋</b><span class="wr__t">【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】／平岡海月</span>{% include wr-close.html id="hinatazaka46-300c42a1-20260328" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-6a0e232f-20260328" %}<span class="wr__k">2026.3</span><b class="wr__name">祇園NITI</b><span class="wr__t">【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】／平岡海月</span>{% include wr-close.html id="hinatazaka46-6a0e232f-20260328" %}</li>
+</ul>
+
+<h2 id="src2">{% include chico.html kind="tv" %}冠番組『日向坂で会いましょう』で紹介したお店</h2>
+<p>番組でメンバーが紹介したお店です。メンバーがお店に行ったかは確かめられていないため、「行ったお店」とは分けて載せています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="hinatazaka46-boulangerie_sudo-" %}<span class="wr__k">2020.5</span><b class="wr__name">Boulangerie Sudo</b><span class="wr__t">未公開回（2020年5月3日深夜放送）／佐々木美玲がハニートーストを紹介</span>{% include wr-close.html id="hinatazaka46-boulangerie_sudo-" %}</li>
+</ul>
+
+<h2 id="src3">{% include chico.html kind="guest" %}出演した番組で行ったお店</h2>
+<p>TBS『バナナマンのせっかくグルメ!!』の初回2時間30分SP（2020年4月5日放送）で、佐々木美玲と丹生明里が千葉県銚子市を訪れた回のお店です。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="hinatazaka46-039367a9-202004" %}<span class="wr__k">2020.4</span><b class="wr__name">一山いけす</b><span class="wr__t">『バナナマンのせっかくグルメ!!』初回SP／佐々木美玲・丹生明里／伊勢海老天丼（銚子市 黒生町）</span>{% include wr-close.html id="hinatazaka46-039367a9-202004" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-e928610f-202004" %}<span class="wr__k">2020.4</span><b class="wr__name">元祖今川焼 さのや</b><span class="wr__t">『バナナマンのせっかくグルメ!!』初回SP／佐々木美玲・丹生明里／今川焼き（銚子市 飯沼町）</span>{% include wr-close.html id="hinatazaka46-e928610f-202004" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-8054cbca-202004" %}<span class="wr__k">2020.4</span><b class="wr__name">お食事処ゆうなぎ</b><span class="wr__t">『バナナマンのせっかくグルメ!!』初回SP／佐々木美玲・丹生明里／ラーメン（銚子市 川口町）</span>{% include wr-close.html id="hinatazaka46-8054cbca-202004" %}</li>
+</ul>
+
+<h2 id="src4">{% include chico.html kind="other" %}シングルの特典映像で行ったお店</h2>
+<p>CDの特典映像のお店です。「自撮りTV」は、グループ名が日向坂46になる前の、けやき坂46時代の映像です。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="hinatazaka46-cdf0d467-" %}<span class="wr__k">2019</span><b class="wr__name">ストロベリーマニア原宿店</b><span class="wr__t">3rdシングル『こんなに好きになっちゃっていいの？』の特典映像「日向の休日」／東村芽依（渋谷区 神宮前）</span>{% include wr-close.html id="hinatazaka46-cdf0d467-" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-35fceb88-" %}<span class="wr__k">2019</span><b class="wr__name">ザクリ珈琲</b><span class="wr__t">3rdシングル『こんなに好きになっちゃっていいの？』の特典映像「日向の休日」／宮田愛萌</span>{% include wr-close.html id="hinatazaka46-35fceb88-" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-kuro-" %}<b class="wr__name">鉄板焼き 玄 KURO</b><span class="wr__t">けやき坂46時代の特典映像「自撮りTV」／佐々木美玲（新宿区 左門町）</span>{% include wr-close.html id="hinatazaka46-kuro-" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-597b4460-" %}<b class="wr__name">プラスヴィーガニック自由が丘</b><span class="wr__t">けやき坂46時代の特典映像「自撮りTV」／宮田愛萌</span>{% include wr-close.html id="hinatazaka46-597b4460-" %}</li>
+</ul>
+
+<p class="note">日向坂ちゃんねるの動画のタイトルは公式チャンネルのものです（絵文字は省きました）。店名の上の日付は、YouTubeは動画の公開年月、テレビ番組は放送年月、特典映像はシングルの発売年です。「自撮りTV」の回は日付を確かめられていないため、日付を書いていません。</p>
+
+<h2>日向坂46の聖地 年表</h2>
+<p>回の日付が分かるお店を、古い順に並べました。</p>
+<div class="faq"><details><summary>年表をひらく（9軒・古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/timeline.svg" alt="日向坂46の聖地 年表：2020年4月 『バナナマンのせっかくグルメ!!』の銚子の一山いけす・元祖今川焼 さのや・お食事処ゆうなぎ。2023年5月 金村美玖の埼玉のお寿司の回。2024年12月 清水理央の荻窪の一人定食の回。2025年7月 上村ひなの・平尾帆夏の巣鴨デートの回。2026年3月 平岡海月の京都のぜんざいの回の2軒" width="420" height="832" loading="lazy" decoding="async"><figcaption>日付の分からない特典映像・番組の未公開回のお店は年表に入れていません</figcaption></figure>
+</details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食・スイーツ・ラーメン・食事が1軒ずつ。場所は千葉県銚子市3軒、東京都渋谷区1軒" width="420" height="362" loading="lazy" decoding="async"><figcaption>この記事の4軒を数えました（ジャンルは推しグルメ巡礼MAPのデータの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：スイーツ5軒、和食2軒、食事2軒、カフェ2軒、ラーメン1軒、焼肉1軒。東京都7軒（渋谷区・新宿区・杉並区・豊島区ほか）、千葉県銚子市3軒、京都市東山区2軒、埼玉県さいたま市1軒" width="420" height="546" loading="lazy" decoding="async"><figcaption>この記事の13軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
-<h2>銚子の3軒：海鮮・今川焼・ラーメン</h2>
-<p>推しグルメ巡礼MAPのデータでは、2020年4月の「バナナマンのせっかくグルメ」に、佐々木美玲・丹生明里が出演した回のお店として登録しています。</p>
-<ul class="pf-works">
-  <li><span class="k">2020.4</span><div><b>一山いけす</b><span>和食・銚子市黒生町／西海鹿島駅 徒歩14分</span></div></li>
-  <li><span class="k">2020.4</span><div><b>元祖今川焼 さのや</b><span>スイーツ・銚子市飯沼町／観音駅 徒歩7分</span></div></li>
-  <li><span class="k">2020.4</span><div><b>お食事処ゆうなぎ</b><span>ラーメン・銚子市川口町</span></div></li>
-</ul>
-{% include inline-shop-grid.html ids="hinatazaka46-039367a9-202004,hinatazaka46-e928610f-202004,hinatazaka46-8054cbca-202004" %}
-
-<h2>MVのお店：『あくびLetter』と原宿</h2>
-<ul class="pf-works">
-  <li><span class="k">MV</span><div><b>San Francisco Peaks</b><span>日向坂46『あくびLetter』（日向坂46 OFFICIAL YouTube CHANNEL、2021年10月公開）／明治神宮前〈原宿〉駅 徒歩9分</span></div></li>
-</ul>
-{% include inline-shop-card.html shop_id="hinatazaka46-san_francisco_peaks-" %}
-
-<h2>はじめて見るならこの1本</h2>
-<p>日向坂46 OFFICIAL YouTube CHANNELの公式MVです（タップすると再生します）。</p>
+<h2>はじめて見るならこの4本</h2>
+<p>日向坂46の公式YouTubeチャンネルから、お店が出てくる4本を選びました（タップすると再生します）。</p>
 <div class="pf-videos">
-  <figure><button type="button" class="yt" data-yt="KcpvHDt0bPc" aria-label="あくびLetterを再生"><img src="https://i.ytimg.com/vi_webp/KcpvHDt0bPc/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>日向坂46『あくびLetter』</b>2021年10月公開のMV</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="fn2qFy4pWZ0" aria-label="埼玉県のお寿司屋さんを推すしかないを再生"><img src="https://i.ytimg.com/vi_webp/fn2qFy4pWZ0/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>金村美玖</b>【地元】埼玉県のお寿司屋さんを推すしかない！（2023年5月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="LalRXLT3-e8" aria-label="荻窪 リアル一人定食を再生"><img src="https://i.ytimg.com/vi_webp/LalRXLT3-e8/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>清水理央</b>【荻窪】リアル一人定食【唐揚げ】（2024年12月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="ctL0FLB8RN4" aria-label="なのほーの巣鴨デートを再生"><img src="https://i.ytimg.com/vi_webp/ctL0FLB8RN4/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>上村ひなの・平尾帆夏</b>【マブダチ】なのほーの巣鴨デート（2025年7月）</figcaption></figure>
+  <figure><button type="button" class="yt" data-yt="0Ourd7b83lo" aria-label="平岡海月が京都のぜんざいを徹底食リポを再生"><img src="https://i.ytimg.com/vi_webp/0Ourd7b83lo/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>平岡海月</b>【京都遠征】京都のぜんざいを徹底食リポ！【第3弾】（2026年3月）</figcaption></figure>
 </div>
 
 <h2>エリアで巡るなら</h2>
-<p>最寄り駅は推しグルメ巡礼MAPのデータより。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/map.svg" alt="日向坂46の東京のお店（番組で紹介したお店を含む）を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<p>地図には番組で紹介したお店も点で入っていますが、下の一覧には入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
-  <li><strong>銚子</strong>：一山いけす（西海鹿島駅 徒歩14分）・元祖今川焼 さのや（観音駅 徒歩7分）・お食事処ゆうなぎ（川口町）。</li>
-  <li><strong>原宿</strong>：San Francisco Peaks（明治神宮前〈原宿〉駅 徒歩9分）。</li>
+  <li><strong>原宿</strong>：「日向の休日」の東村芽依の回のストロベリーマニア原宿店（渋谷区神宮前）。</li>
+  <li><strong>四谷・自由が丘</strong>：けやき坂46時代の「自撮りTV」の2軒。佐々木美玲の鉄板焼き 玄 KURO（新宿区左門町）と、宮田愛萌のプラスヴィーガニック自由が丘。</li>
+  <li><strong>荻窪・巣鴨</strong>：日向坂ちゃんねるの、清水理央の荻窪の一人定食の回と、上村ひなの・平尾帆夏の巣鴨デートの回のお店。</li>
+  <li><strong>千葉県銚子市</strong>：『バナナマンのせっかくグルメ!!』の一山いけす（西海鹿島駅 徒歩14分）・元祖今川焼 さのや（観音駅 徒歩7分）・お食事処ゆうなぎ。</li>
+  <li><strong>京都・祇園</strong>：平岡海月の京都のぜんざいの回の2軒。</li>
+  <li><strong>埼玉（さいたま市浦和区）</strong>：金村美玖の地元・埼玉のお寿司の回のお店。</li>
 </ul>
 
 <div class="pf-cta">
   <p>日向坂46のお店を、地図でぜんぶ見る</p>
-  <span>この記事の4軒のほかにも、日向坂46ゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の13軒のほかにも、日向坂46のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=hinatazaka46&amp;view=map">地図で日向坂46のお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.hinatazaka46.u }}">日向坂46のお店一覧（グループのページ）</a>もどうぞ。</p>
+
+<p class="note">日付は、日向坂ちゃんねるの回は公式チャンネルの公開日、テレビ番組は放送日です。番組・特典映像の回とお店は、確認に使った資料（ひなたのまとめ）をもとにしています。以前この記事で紹介していた『あくびLetter』のMVの撮影に使われた原宿のSan Francisco Peaksは、閉店したため載せていません。</p>
 
 </div>

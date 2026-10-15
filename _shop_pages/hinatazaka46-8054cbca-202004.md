@@ -1,19 +1,21 @@
 ---
 layout: shop
 title: "日向坂46が行った「お食事処ゆうなぎ」"
-description: "バナナマンのせっかくグルメで紹介されたラーメン「お食事処ゆうなぎ」（千葉県銚子市）。推し活グルメ巡礼スポット。"
+description: "TBS『バナナマンのせっかくグルメ!!』の初回2時間30分SP（2020年4月5日放送）で、日向坂46の佐々木美玲と丹生明里が銚子でラーメンを食べた店。"
 shop_id: "hinatazaka46-8054cbca-202004"
 name: "お食事処ゆうなぎ"
 genre: "ramen"
 prefecture: "千葉県"
 city: "銚子市"
 address: "千葉県銚子市川口町2-6528-2"
-visited_date: "2020-09-20"
+visited_date: "2020-04-05"
 source_video_title: "バナナマンのせっかくグルメ"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120501/12014356/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
 source_type: "tv"
+visit_kind: "guest_tv"
+program: "バナナマンのせっかくグルメ!!"
 lat: 35.740998
 lng: 140.8648586
 members:

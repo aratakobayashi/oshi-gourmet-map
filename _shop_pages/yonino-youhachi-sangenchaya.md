@@ -1,22 +1,23 @@
 ---
 layout: shop
-title: "よにのちゃんねるが行った「ジンギスカン羊はち 三軒茶屋店」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「ジンギスカン羊はち 三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+title: "よにのちゃんねるが行った「ジンギスカン羊はち」"
+description: "よにのちゃんねるの「#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日」（2026年3月）で二宮和也・山田涼介・菊池風磨の3人が訪れたジンギスカン店。"
 shop_id: "yonino-youhachi-sangenchaya"
-name: "ジンギスカン羊はち 三軒茶屋店"
+name: "ジンギスカン羊はち"
 genre: "yakiniku"
 prefecture: "東京都"
-city: "世田谷区"
-address: "東京都世田谷区三軒茶屋2-14-1 三茶ダイニングビル1F"
-nearest_station: "三軒茶屋駅"
+city: "杉並区"
+address: "東京都杉並区高円寺北3-24-10"
 visited_date: "2026-03-11"
 youtube_id: "Our3JGeWP7k"
 source_video_title: "#509【朝飯!!】ジン♪ジン♪ジンギスカ〜ン♪の日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13288611/"
 thumbnail_url: "https://img.youtube.com/vi/Our3JGeWP7k/hqdefault.jpg"
-lat: 35.642117
-lng: 139.668789
+visit_kind: "youtube"
+program: "よにのちゃんねる"
+lat: 35.707264
+lng: 139.649857
 members:
   - "二宮和也"
   - "山田涼介"

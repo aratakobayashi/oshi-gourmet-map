@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「晴れる屋 新橋店」"
-description: "=LOVEのYouTubeで紹介された食事「晴れる屋 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの諸橋沙夏が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【祝初ゲスト】元AKB48村山彩希×イコラブ諸橋沙夏の新橋はしご酒！仲良すぎてもはやカメラを忘れてほぼプライベート動画です【マブ】」（2026年2月）で訪れた店。はしご酒シリーズ「つんはしご」に元AKB48の村山彩希がゲスト出演"
 shop_id: "equal_love-c9f2c2fc-202602"
 name: "晴れる屋 新橋店"
 genre: "shokuji"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13293516/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003737219/"
 thumbnail_url: "https://img.youtube.com/vi/K7CCROY8Xm4/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/60/P044063360/P044063360_238.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6653482
 lng: 139.7598936
 members:

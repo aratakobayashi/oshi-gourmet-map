@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多元気一杯!!」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「博多元気一杯!!」（福岡県福岡市博多区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#410【朝食!!】大好評だった日」（2025年4月）で二宮和也・山田涼介・菊池風磨の3人が訪れたとんこつラーメン店。"
 shop_id: "yonino-hakata-genki-ippai"
 name: "博多元気一杯!!"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "#410【朝食!!】大好評だった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400106/40000488/"
 thumbnail_url: "https://img.youtube.com/vi/b42UaxUU6TI/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 33.5934
 lng: 130.4153
 members:

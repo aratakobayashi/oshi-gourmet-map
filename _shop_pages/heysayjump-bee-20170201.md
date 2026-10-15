@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「ダイニングダーツバー Bee 新宿店」"
-description: "2017.02.01/02.08 女子会向けスイーツ特集で紹介された居酒屋「ダイニングダーツバー Bee 新宿店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、髙木雄也・八乙女光・中島裕翔・知念侑李の回に登場したダイニングダーツバー。トランスヒマラヤサンデーが登場した。"
 shop_id: "heysayjump-bee-20170201"
 name: "ダイニングダーツバー Bee 新宿店"
 genre: "izakaya"
@@ -16,6 +16,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000011656/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/29/P044034329/P044034329_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6921592
 lng: 139.7006065
 members:

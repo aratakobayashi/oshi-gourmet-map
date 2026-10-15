@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STARBUCKS RESERVE ROASTERY TOKYO」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STARBUCKS RESERVE ROASTERY TOKYO」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#391 【ドライブ!!】経理がゴネにゴネた日」（2025年1月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に二宮和也がコーヒーを買いに行った店。"
 shop_id: "yonino-starbucks-reserve-roastery"
 name: "STARBUCKS RESERVE ROASTERY TOKYO"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#391 【ドライブ!!】経理がゴネにゴネた日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13231942/"
 thumbnail_url: "https://img.youtube.com/vi/Q2GrO9mPWIc/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6523
 lng: 139.7013
 members:

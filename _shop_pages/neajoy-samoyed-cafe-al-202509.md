@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「Samoyed cafe AL 横浜中華街店」"
-description: "≒JOYのYouTubeで紹介されたカフェ「Samoyed cafe AL 横浜中華街店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "≒JOYの公式YouTubeの「【Vlog】ももじゅり2人で中華街で遊んできました🐼🎶…」（2025年9月）で、逢田珠里依と山田杏佳が訪れた横浜中華街のサモエドのいるカフェ。"
 shop_id: "neajoy-samoyed_cafe_al-202509"
 name: "Samoyed cafe AL 横浜中華街店"
 genre: "cafe"
@@ -14,6 +14,8 @@ youtube_id: "vQjP4UKBzqY"
 source_video_title: "【Vlog】ももじゅり2人で中華街で遊んできました🐼🎶普段の2人の様子を大公開🤍"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/vQjP4UKBzqY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.4438
 lng: 139.6508
 members:

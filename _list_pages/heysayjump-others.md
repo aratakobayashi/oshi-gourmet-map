@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 related_genres:
   - heysayjump-shokuji
   - heysayjump-cafe
-  - heysayjump-washoku
+  - heysayjump-sweets
 related_groups:
   - sakaba-horoki-others
   - kingprince-others

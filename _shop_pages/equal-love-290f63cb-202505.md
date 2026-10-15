@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「熟成和牛焼肉 エイジング・ビーフ軽井沢」"
-description: "=LOVEのYouTubeで紹介された焼肉「熟成和牛焼肉 エイジング・ビーフ軽井沢」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】」（2025年5月）で訪れた焼肉店。軽井沢アウトレットの回。"
 shop_id: "equal_love-290f63cb-202505"
 name: "熟成和牛焼肉 エイジング・ビーフ軽井沢"
 genre: "yakiniku"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/nagano/A2003/A200301/20017854/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001275602/"
 thumbnail_url: "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/89/P041693389/P041693389_238.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 36.3428502
 lng: 138.6341737
 members:

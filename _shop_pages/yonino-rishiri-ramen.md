@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「利尻らーめん味楽（新横浜ラーメン博物館）」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「利尻らーめん味楽（新横浜ラーメン博物館）」（神奈川県横浜市港北区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#507【博物館!!】山田史上最高が出た日」（2026年3月）で二宮和也・山田涼介が訪れたラーメン店（新横浜ラーメン博物館内）。"
 shop_id: "yonino-rishiri-ramen"
 name: "利尻らーめん味楽（新横浜ラーメン博物館）"
 genre: "ramen"
@@ -15,12 +15,13 @@ source_video_title: "#507【博物館!!】山田史上最高が出た日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140206/14066708/"
 thumbnail_url: "https://img.youtube.com/vi/Lw2KlLWox6g/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.5087
 lng: 139.614
 members:
   - "二宮和也"
   - "山田涼介"
-  - "菊池風磨"
 groups:
   - "yonino"
 tags:

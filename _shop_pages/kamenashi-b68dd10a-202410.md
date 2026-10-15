@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「大徳壽 みなとみらい店」"
-description: "亀梨和也のYouTubeで紹介された焼肉「大徳壽 みなとみらい店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！」（2024年10月）で、なにわ男子の道枝駿佑と横浜をドライブしたあと、夜景の見える焼肉店で食事をした回の店。"
 shop_id: "kamenashi-b68dd10a-202410"
 name: "大徳壽 みなとみらい店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "【夜景】なにわ男子 道枝駿佑と夜景が見え�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14082343/"
 thumbnail_url: "https://img.youtube.com/vi/LaNwtYYQ3Wo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.4572327
 lng: 139.6328453
 members:

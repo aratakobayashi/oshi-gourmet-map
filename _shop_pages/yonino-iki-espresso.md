@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「iki ESPRESSO」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「iki ESPRESSO」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#400 【祝!400回!!】なのに通常運転だった日」（2025年2月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。"
 shop_id: "yonino-iki-espresso"
 name: "iki ESPRESSO"
 genre: "cafe"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=A8hN9942pNo"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13190426/"
 thumbnail_url: "https://img.youtube.com/vi/bXq2vtpe7lQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.684643
 lng: 139.796089
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カレーは飲み物。ニュー新橋ビル店」"
-description: "乃木坂どこへで紹介された食事「カレーは飲み物。ニュー新橋ビル店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "日本テレビ『乃木坂どこへ』（2019年）で、4期生の遠藤さくら・賀喜遥香・柴田柚菜が黒い肉カレーを食べたニュー新橋ビルのカレー店。"
 shop_id: "nogizaka46-14c97cb0-"
 name: "カレーは飲み物。ニュー新橋ビル店"
 genre: "shokuji"
@@ -15,12 +15,14 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13180946/"
 thumbnail_url: "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "乃木坂どこへ（日本テレビ・2019年）"
 lat: 35.6661689
 lng: 139.7582206
 members:
   - "遠藤さくら"
-  - "柴田柚菜"
   - "賀喜遥香"
+  - "柴田柚菜"
 groups:
   - "nogizaka46"
 ---

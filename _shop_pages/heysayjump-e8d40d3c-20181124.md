@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「近江屋長兵衛商店」"
-description: "2018.11.24 川越特集後編で紹介された食事「近江屋長兵衛商店」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月24日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った豆腐・おからの店。おからドーナツが登場した。"
 shop_id: "heysayjump-e8d40d3c-20181124"
 name: "近江屋長兵衛商店"
 genre: "shokuji"
@@ -14,6 +14,8 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11003518/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.9251145
 lng: 139.4856927
 members:

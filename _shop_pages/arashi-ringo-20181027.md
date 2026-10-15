@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「RINGO 東京ミッドタウン」"
-description: "嵐にしやがれで紹介されたスイーツ「RINGO 東京ミッドタウン」（東京都千代田区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「RINGO 東京ミッドタウン」"
+description: "嵐の冠番組『嵐にしやがれ』（2018年10月27日放送）の「中村倫也＆江口のりこ 秋のスイーツデスマッチ」で、この店の「焼きたてカスタードアップルパイ」がスタジオに登場した。"
 shop_id: "arashi-ringo-20181027"
 name: "RINGO 東京ミッドタウン"
 genre: "sweets"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130102/13219853/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.6736817
 lng: 139.7611853
 members:

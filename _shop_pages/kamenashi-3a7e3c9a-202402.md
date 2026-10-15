@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「鳥焼 萬歳亭」"
-description: "亀梨和也のYouTubeで紹介された居酒屋「鳥焼 萬歳亭」（宮崎県宮崎市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【晩酌】亀梨和也、宮崎の地鶏としっぽり1人飲み。」（2024年2月）で、宮崎で地鶏を食べながら1人飲みをした焼き鳥店。"
 shop_id: "kamenashi-3a7e3c9a-202402"
 name: "鳥焼 萬歳亭"
 genre: "izakaya"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/miyazaki/A4501/A450101/45000085/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000030058/"
 thumbnail_url: "https://img.youtube.com/vi/Q-BcioViZcc/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/51/57/P034485157/P034485157_238.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 31.920779
 lng: 131.426335
 members:

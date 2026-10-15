@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "flair.co（フレア）"
-description: "agroupのYouTubeで紹介されたその他「flair.co（フレア）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin横浜」（2025年3月）で、佐野晶哉が昼休憩に昆布のおにぎりを食べたみなとみらいの紅茶カフェ。"
 shop_id: "agroup-flair_co-"
 name: "flair.co（フレア）"
 genre: "others"
@@ -15,14 +15,11 @@ source_video_url: "https://www.youtube.com/watch?v=QsNHvXoTnyE"
 source_url: "https://kosodate-and.net/sano-yokohama-onigiri-cafe"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140103/14096632/"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.45687412131698
 lng: 139.62910641399517
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
-  - "末澤誠也"
-  - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

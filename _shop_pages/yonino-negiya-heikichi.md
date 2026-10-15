@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「葱や平吉 渋谷宇田川町店」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「葱や平吉 渋谷宇田川町店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#494【朝飯!!】山田がハマった日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れた葱料理の店。"
 shop_id: "yonino-negiya-heikichi"
 name: "葱や平吉 渋谷宇田川町店"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_video_title: "#494【朝飯!!】山田がハマった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13024073/"
 thumbnail_url: "https://img.youtube.com/vi/pxiRbYciIEE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.662075
 lng: 139.697496
 members:

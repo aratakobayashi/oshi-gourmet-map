@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「赤坂鮨兆」"
-description: "2016.05.18 高級レストランのランチ特集で紹介された和食「赤坂鮨兆」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「超高級店のランチはお得！？」（2016年5月18日放送）で、薮宏太・伊野尾慧・八乙女光・中島裕翔が高級店のランチを調べた寿司店。ランチのおまぜが登場した。"
 shop_id: "heysayjump-b2922bdd-20160518"
 name: "赤坂鮨兆"
 genre: "washoku"
@@ -17,12 +17,15 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000796674/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/79/54/P029527954/P029527954_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6716786
 lng: 139.7356224
 members:
   - "薮宏太"
   - "伊野尾慧"
-  - "知念侑李"
+  - "八乙女光"
+  - "中島裕翔"
 groups:
   - "heysayjump"
 ---

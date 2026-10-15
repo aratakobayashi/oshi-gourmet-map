@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「そば街角」"
-description: "=LOVEのYouTubeで紹介された和食「そば街角」（沖縄県那覇市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【vlog】お仕事で沖縄に行かせていただきました」（2022年2月）で訪れた沖縄そば店。琉球放送の番組収録で沖縄を訪れたときのVlog。"
 shop_id: "equal_love-a8a055cd-202408"
 name: "そば街角"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "【vlog】お仕事で沖縄に行かせていただきま�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/okinawa/A4701/A470101/47000229/"
 thumbnail_url: "https://img.youtube.com/vi/GZg8nO3EZ4E/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 26.2153394
 lng: 127.6902428
 members:

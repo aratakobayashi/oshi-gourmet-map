@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「成都姑娘」"
-description: "ニノさん 高田馬場の麻辣グルメBEST3（2025年9月12日 日本テレビ）で紹介された中華「成都姑娘」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "『ニノさん』（2025年9月12日）の「高田馬場の麻辣グルメBEST3」で、timeleszの原嘉孝がロケで訪れた第2位の四川料理店。麻婆豆腐を紹介した。"
 shop_id: "timelesz-dd1e0ef4-20250912"
 name: "成都姑娘"
 genre: "chuka"
@@ -15,6 +15,8 @@ source_url: "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130503/13273758/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+visit_kind: "guest_tv"
+program: "ニノさん"
 lat: 35.712551
 lng: 139.704697
 members:

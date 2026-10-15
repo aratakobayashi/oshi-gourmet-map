@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ともや鎌倉小町店」"
-description: "乃木坂工事中で紹介されたその他「ともや鎌倉小町店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "『乃木坂工事中』の鎌倉ツアーで、衛藤美彩・新内眞衣・秋元真夏が値切って今川焼を買った小町通りの店。"
 shop_id: "nogizaka46-7f06776c-"
 name: "ともや鎌倉小町店"
 genre: "others"
@@ -13,8 +13,14 @@ source_video_title: "乃木坂工事中"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14049147/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+visit_kind: "own_tv"
+program: "乃木坂工事中"
 lat: 35.3242675
 lng: 139.5524688
+members:
+  - "衛藤美彩"
+  - "新内眞衣"
+  - "秋元真夏"
 groups:
   - "nogizaka46"
 ---

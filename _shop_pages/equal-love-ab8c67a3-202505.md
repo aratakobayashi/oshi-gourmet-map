@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「信州そば処 やまへい 軽井沢店」"
-description: "=LOVEのYouTubeで紹介された和食「信州そば処 やまへい 軽井沢店」（長野県北佐久郡軽井沢町）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】」（2025年5月）で訪れたそば店。軽井沢アウトレットの回。"
 shop_id: "equal_love-ab8c67a3-202505"
 name: "信州そば処 やまへい 軽井沢店"
 genre: "washoku"
@@ -14,6 +14,8 @@ youtube_id: "_TClQ4Pf4sg"
 source_video_title: "ご褒美デイin軽井沢アウトレット【購入品紹介もしたよ】"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/_TClQ4Pf4sg/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 36.3395
 lng: 138.6324
 members:

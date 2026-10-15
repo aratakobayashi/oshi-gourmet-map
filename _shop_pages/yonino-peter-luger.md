@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ピーター・ルーガー・ステーキハウス東京」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「ピーター・ルーガー・ステーキハウス東京」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#468 【朝飯!!】ははははは、、、の日」（2025年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れたステーキハウス。"
 shop_id: "yonino-peter-luger"
 name: "ピーター・ルーガー・ステーキハウス東京"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "#468 【朝飯!!】ははははは、、、の日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13258435/"
 thumbnail_url: "https://img.youtube.com/vi/1VN2TGo5uOM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.644978
 lng: 139.713966
 members:

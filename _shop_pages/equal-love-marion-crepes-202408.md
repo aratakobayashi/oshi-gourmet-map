@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「MARION CREPES 原宿竹下通り店」"
-description: "=LOVEのYouTubeで紹介されたスイーツ「MARION CREPES 原宿竹下通り店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの音嶋莉沙・佐竹のん乃・野口衣織・諸橋沙夏が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【原宿お散歩ロケ】休日の竹下通りで食べまくる！原宿ロケ#3」（2020年12月）で訪れたクレープ店。竹下通りの食べ歩き。"
 shop_id: "equal_love-marion_crepes-202408"
 name: "MARION CREPES 原宿竹下通り店"
 genre: "sweets"
@@ -14,6 +14,8 @@ youtube_id: "JCPvDX7y3-k"
 source_video_title: "【原宿お散歩ロケ】休日の竹下通りで食べまくる！原宿ロケ#3"
 group: "equal_love"
 thumbnail_url: "https://img.youtube.com/vi/JCPvDX7y3-k/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.671513
 lng: 139.7057319
 members:

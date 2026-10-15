@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「日生家」"
-description: "亀梨和也のYouTubeで紹介された食事「日生家」（岡山県備前市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【1周年企画】Snow Man 宮舘涼太と鈴木福と豪華岡山旅！カキとビールで最高の昼飲み！」（2025年1月）で、チャンネル1周年企画の岡山旅で、Snow Manの宮舘涼太、鈴木福とカキとビールの昼飲みをした店。"
 shop_id: "kamenashi-95af1b87-202501"
 name: "日生家"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_video_title: "【1周年企画】Snow Man 宮舘涼太と鈴木福と豪�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/okayama/A3305/A330501/33020227/"
 thumbnail_url: "https://img.youtube.com/vi/8-pKbYjUTc4/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 34.6993156
 lng: 134.2550479
 members:

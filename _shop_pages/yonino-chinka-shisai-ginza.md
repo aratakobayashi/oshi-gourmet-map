@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「陳家私菜 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「陳家私菜 銀座店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#379【なんで??】北村匠海がやって来た…!!の日」（2024年12月）で二宮和也・山田涼介・菊池風磨の3人がゲストの北村匠海と訪れた中華料理店。"
 shop_id: "yonino-chinka-shisai-ginza"
 name: "陳家私菜 銀座店"
 genre: "chuka"
@@ -15,6 +15,8 @@ source_video_title: "#379【なんで??】北村匠海がやって来た…!!の
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130102/13301312/"
 thumbnail_url: "https://img.youtube.com/vi/mn44iXUaxgg/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.673
 lng: 139.758
 members:

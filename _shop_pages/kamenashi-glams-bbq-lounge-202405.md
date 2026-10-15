@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「原宿GLAMS BBQ Lounge」"
-description: "亀梨和也のYouTubeで紹介された焼肉「原宿GLAMS BBQ Lounge」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【グローブあり】なにわ男子 藤原丈一郎と東京のど真ん中でBBQをしたら幸せすぎた！」（2024年5月）で、なにわ男子の藤原丈一郎と、亀梨ファームで収穫した野菜を持ち込んでバーベキューをした原宿のBBQ店。"
 shop_id: "kamenashi-glams_bbq_lounge-202405"
 name: "原宿GLAMS BBQ Lounge"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "【グローブあり】なにわ男子 藤原丈一郎と�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13233425/"
 thumbnail_url: "https://img.youtube.com/vi/qWliiMG-FZA/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6687049
 lng: 139.7053357
 members:

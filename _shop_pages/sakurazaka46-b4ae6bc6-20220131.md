@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「銀座 柳寿司 三代目」"
-description: "そこ曲がったら、櫻坂？で紹介された和食「銀座 柳寿司 三代目」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "櫻坂46の冠番組『そこ曲がったら、櫻坂？』の「祝！成人メンバー大人力チェック！後半」（2022年1月31日放送）で、2期生の武元唯衣・藤吉夏鈴・森田ひかる・増本綺良が訪れた銀座の寿司店。"
 shop_id: "sakurazaka46-b4ae6bc6-20220131"
 name: "銀座 柳寿司 三代目"
 genre: "washoku"
@@ -16,6 +16,8 @@ group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13188510/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2vAiW5Z3Sh8WOfuuDUIihU941pI.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "そこ曲がったら、櫻坂？"
 lat: 35.67033383791563
 lng: 139.76032928311687
 members:

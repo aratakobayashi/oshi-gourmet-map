@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "スイート・レディ・ジェーン（SWEET LADY JANE）"
-description: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末澤誠也・佐野晶哉のカフェはどこ？で紹介されたその他「スイート・レディ・ジェーン（SWEET LADY JANE）」（北海道札幌市）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin札幌」（2024年9月）で、佐野晶哉が味噌チーズタルトを食べ、メンバーへのお土産にクッキーを買った洋菓子店。"
 shop_id: "agroup-sweet_lady_jane-"
 name: "スイート・レディ・ジェーン（SWEET LADY JANE）"
 genre: "others"
@@ -12,14 +12,11 @@ source_video_title: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末�
 source_url: "https://kosodate-and.net/masa-sue-sano-sapporo-cafe"
 group: "agroup"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1003089/"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 43.066102734534134
 lng: 141.36283042785945
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
-  - "末澤誠也"
-  - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

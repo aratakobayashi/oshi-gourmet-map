@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「新三浦 博多本店」"
-description: "=LOVEのYouTubeで紹介された中華「新三浦 博多本店」（福岡県福岡市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの音嶋莉沙と佐々木舞香が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【本音トーク】夜ご飯食べながら二人で語り合ってきました【福岡旅#2】」（2021年7月）で訪れた水炊きの店。福岡旅の夜ご飯の回。"
 shop_id: "equal_love-bcaeeee2-202408"
 name: "新三浦 博多本店"
 genre: "chuka"
@@ -15,6 +15,8 @@ source_video_title: "【本音トーク】夜ご飯食べながら二人で語�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400106/40000986/"
 thumbnail_url: "https://img.youtube.com/vi/HoSaJsed33M/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 33.6069789
 lng: 130.4056838
 members:

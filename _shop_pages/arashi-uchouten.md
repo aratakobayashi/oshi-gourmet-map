@@ -1,22 +1,7 @@
 ---
-layout: shop
-title: "嵐が行った「UCHOUTEN」"
-description: "嵐にしやがれで紹介されたその他「UCHOUTEN」（東京都豊島区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "arashi-uchouten-"
-name: "UCHOUTEN"
-genre: "others"
-prefecture: "東京都"
-city: "豊島区"
-address: "東京都豊島区南池袋2丁目36−10"
-nearest_station: "都電雑司ヶ谷駅 徒歩5分"
-source_video_title: "嵐にしやがれ"
-source_url: "https://meqqe.jp/books/1000825"
-group: "arashi"
-tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13003914/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
-source_type: "tv"
-lat: 35.7265922
-lng: 139.7157472
-groups:
-  - "arashi"
+redirect_to: "/shops/arashi-06235e53-20201226/"
+redirect_label: "ウチョウテンのページ"
+sitemap: false
 ---

@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「函館洋菓子スナッフルス 金森洋物館店」"
-description: "函館で紹介されたカフェ「函館洋菓子スナッフルス 金森洋物館店」（北海道函館市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-dcca8bec-"
-name: "函館洋菓子スナッフルス 金森洋物館店"
-genre: "cafe"
-prefecture: "北海道"
-city: "函館市"
-address: "北海道函館市末広町13-9"
-nearest_station: "末広町駅 徒歩6分"
-source_video_title: "函館"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/hokkaido/A0105/A010501/1005752/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-source_type: "tv"
-lat: 41.76673173434822
-lng: 140.7165959440258
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店のページ"
+sitemap: false
 ---

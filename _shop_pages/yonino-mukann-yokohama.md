@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「むかん横浜」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「むかん横浜」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#352【朝食!!】新しい食べ物だった日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。"
 shop_id: "yonino-mukann-yokohama"
 name: "むかん横浜"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "#352【朝食!!】新しい食べ物だった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14095368/"
 thumbnail_url: "https://img.youtube.com/vi/xpAuMMk8HxQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.4477
 lng: 139.6267
 members:

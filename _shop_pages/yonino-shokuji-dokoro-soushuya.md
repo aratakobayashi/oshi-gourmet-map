@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「食事処 相州屋」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「食事処 相州屋」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#310【朝食】アジのフライニキの意思を継いだ日」（2024年3月）で中丸雄一・山田涼介・菊池風磨が訪れた定食店。"
 shop_id: "yonino-shokuji-dokoro-soushuya"
 name: "食事処 相州屋"
 genre: "washoku"
@@ -16,9 +16,12 @@ source_video_url: "https://www.youtube.com/watch?v=O47Osoi2H_A"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131804/13057725/"
 thumbnail_url: "https://img.youtube.com/vi/O47Osoi2H_A/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6677
 lng: 139.6617
 members:
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「一蘭 中野店」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「一蘭 中野店」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#480【朝食!!】朝ラーだよな、、、の日」（2025年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。"
 shop_id: "yonino-ichiran-nakano"
 name: "一蘭 中野店"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "#480【朝食!!】朝ラーだよな、、、の日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131902/13201776/"
 thumbnail_url: "https://img.youtube.com/vi/0EUU9_553aM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.707266
 lng: 139.665506
 members:

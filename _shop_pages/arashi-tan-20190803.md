@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「赤坂Tan伍」"
-description: "嵐にしやがれで紹介された食事「赤坂Tan伍」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「赤坂Tan伍」"
+description: "嵐の冠番組『嵐にしやがれ』（2019年8月3日放送）の「佐藤二朗 手土産グルメデスマッチ」で、この店の「牛タンカツサンド」がスタジオに登場した。"
 shop_id: "arashi-tan-20190803"
 name: "赤坂Tan伍"
 genre: "shokuji"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13272090/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.6716786
 lng: 139.7356224
 members:

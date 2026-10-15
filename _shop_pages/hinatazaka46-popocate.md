@@ -1,18 +1,7 @@
 ---
-layout: shop
-title: "日向坂46が行った「POPOCATE」"
-description: "日向坂で会いましょうで紹介された食事「POPOCATE」（東京都）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "hinatazaka46-popocate-"
-name: "POPOCATE"
-genre: "shokuji"
-prefecture: "東京都"
-nearest_station: "新馬場駅 徒歩3分"
-source_video_title: "日向坂で会いましょう"
-group: "hinatazaka46"
-tabelog_url: "https://tabelog.com/tokyo/A1314/A131405/13258777/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg"
-lat: 35.61833793794288
-lng: 139.7422150826044
-groups:
-  - "hinatazaka46"
+redirect_to: "/groups/hinatazaka46/"
+redirect_label: "日向坂46のお店のページ"
+sitemap: false
 ---

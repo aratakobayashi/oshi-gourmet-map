@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「俏香（チャオシャン）」"
-description: "=LOVEのYouTubeで紹介された中華「俏香（チャオシャン）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの佐々木舞香と齋藤樹愛羅（きあまい）の横浜中華街旅の動画に紐付けられている中華街の店。"
 shop_id: "equallove_009"
 name: "俏香（チャオシャン）"
 genre: "chuka"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=Dp0KTso3Suw"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14091339/"
 thumbnail_url: "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.443104
 lng: 139.645386
 members:

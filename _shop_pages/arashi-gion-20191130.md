@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「ギオン（gion）」"
-description: "嵐にしやがれで紹介された食事「ギオン（gion）」（東京都杉並区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「ギオン（gion）」"
+description: "嵐の冠番組『嵐にしやがれ』（2019年11月30日放送）の「椎名桔平 喫茶店グルメデスマッチ」で、この店の「ナポリタン」がスタジオに登場した。"
 shop_id: "arashi-gion-20191130"
 name: "ギオン（gion）"
 genre: "shokuji"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131103/13087661/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.7105571
 lng: 139.636261
 members:

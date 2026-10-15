@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「徳造丸 海鮮家 箱根湯本店」"
-description: "≒JOYのYouTubeで紹介された和食「徳造丸 海鮮家 箱根湯本店」（神奈川県足柄下郡箱根町）。推し活グルメ巡礼スポット。"
+description: "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、箱根湯本の商店街でほたて串や浜焼あわび串を食べた海鮮の店。"
 shop_id: "neajoy-0ccad40f-202408"
 name: "徳造丸 海鮮家 箱根湯本店"
 genre: "washoku"
@@ -14,6 +14,8 @@ youtube_id: "TAQI0WEyy7k"
 source_video_title: "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.2329
 lng: 139.1062
 members:

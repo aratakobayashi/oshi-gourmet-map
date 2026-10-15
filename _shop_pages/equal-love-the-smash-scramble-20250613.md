@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「THE SMASH SCRAMBLE」"
-description: "=LOVEのYouTubeで紹介された食事「THE SMASH SCRAMBLE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの髙松瞳が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【わくわく】イコラブボートレース部から重大なお知らせです！」（2025年6月）で訪れた店。「イコラブボートレース部」のグッズ発売などのお知らせ動画。"
 shop_id: "equal_love-the_smash_scramble-20250613"
 name: "THE SMASH SCRAMBLE"
 genre: "shokuji"
@@ -14,6 +14,8 @@ youtube_id: "9g0At0uaJmc"
 source_video_title: "【わくわく】イコラブボートレース部から重大なお知らせです！"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13305527/"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6620752
 lng: 139.6974957
 members:

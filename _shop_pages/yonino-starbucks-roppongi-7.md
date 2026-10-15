@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「STARBUCKS COFFEE 六本木7丁目店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「STARBUCKS COFFEE 六本木7丁目店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#357【ドライブ!!】山田一少年ではなく山田涼介だった日」（2024年9月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。"
 shop_id: "yonino-starbucks-roppongi-7"
 name: "STARBUCKS COFFEE 六本木7丁目店"
 genre: "cafe"
@@ -14,6 +14,8 @@ youtube_id: "alXopgGyIsc"
 source_video_title: "#357【ドライブ!!】山田一少年ではなく山田涼介だった日"
 source_video_url: "https://www.youtube.com/watch?v=alXopgGyIsc"
 group: "yonino"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6621
 lng: 139.7304
 members:

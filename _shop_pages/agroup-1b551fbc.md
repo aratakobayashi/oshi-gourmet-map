@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "和牛料理 要"
-description: "横山会【ラスト松竹座前夜祭】大阪の黒毛和牛ともつ鍋のお店はどこ？で紹介された焼肉「和牛料理 要」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "WEST.の公式YouTubeの「横山会【ラスト松竹座前夜祭】」（2026年4月）で、横山会が大阪松竹座の思い出を語り合った心斎橋の和牛・もつ鍋の店。"
 shop_id: "agroup-1b551fbc-"
 name: "和牛料理 要"
 genre: "yakiniku"
@@ -14,14 +14,12 @@ group: "agroup"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270201/27004659/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000661082/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/96/P012104396/P012104396_238.jpg"
+visit_kind: "youtube"
+program: "WEST.公式YouTube（横山会）"
 lat: 34.67890373718826
 lng: 135.49914277608949
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
-  - "末澤誠也"
   - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

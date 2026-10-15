@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「筋肉食堂 銀座コリドー街店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「筋肉食堂 銀座コリドー街店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#356【朝食!!】めちゃくちゃ美味かった日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が訪れた高たんぱくメニューの食堂。"
 shop_id: "yonino-kinniku-shokudo-ginza"
 name: "筋肉食堂 銀座コリドー街店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#356【朝食!!】めちゃくちゃ美味かった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13229163/"
 thumbnail_url: "https://img.youtube.com/vi/_Gv72GxfN-I/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6717
 lng: 139.763
 members:

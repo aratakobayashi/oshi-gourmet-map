@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「有機茶生どら Dolala」"
-description: "嵐にしやがれで紹介されたスイーツ「有機茶生どら Dolala」（東京都目黒区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「有機茶生どら Dolala」"
+description: "嵐の冠番組『嵐にしやがれ』（2020年7月18日放送）の「氷川きよし 夏のスイーツデスマッチ」で、この店の「有機茶生どら」がスタジオに登場し、櫻井翔が試食した。"
 shop_id: "arashi-dolala-20200718"
 name: "有機茶生どら Dolala"
 genre: "sweets"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13228721/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.615509
 lng: 139.674159
 members:

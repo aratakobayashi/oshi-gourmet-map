@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「博多もつ鍋 やま中 銀座店」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「博多もつ鍋 やま中 銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#376【朝食!!】多感なお年頃だからワーワー言ってきた日」（2024年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたもつ鍋店。"
 shop_id: "yonino-yamanaka-ginza"
 name: "博多もつ鍋 やま中 銀座店"
 genre: "izakaya"
@@ -18,6 +18,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13287935/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003851533/"
 thumbnail_url: "https://img.youtube.com/vi/qiLBbkIq0Q4/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/37/P044970537/P044970537_238.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.672
 lng: 139.7645
 members:

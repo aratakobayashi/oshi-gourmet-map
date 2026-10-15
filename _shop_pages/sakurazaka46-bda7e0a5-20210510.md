@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「コチンニヴァース」"
-description: "そこ曲がったら、櫻坂？で紹介されたその他「コチンニヴァース」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "櫻坂46の冠番組『そこ曲がったら、櫻坂？』の「あの子のレア情報教えます！櫻坂ここだけの話！後半」（2021年5月10日放送）で、カレーにはまっている渡辺梨加が特におすすめの店として名前を挙げたカレー店。"
 shop_id: "sakurazaka46-bda7e0a5-20210510"
 name: "コチンニヴァース"
 genre: "others"
@@ -16,6 +16,8 @@ group: "sakurazaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13056242/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/v2LxmBiIBMz4y9c5omRWoAQYr3g.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "そこ曲がったら、櫻坂？"
 lat: 35.6917486986837
 lng: 139.6859176245471
 members:

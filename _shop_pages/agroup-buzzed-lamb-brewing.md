@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
-description: "所さんお届けモノです！【末澤誠也＆小島健ロケ地】ワガママパスタのイタリア料理店はどこ？で紹介されたその他「BUZZED LAMB BREWING（バズ ドラム ブルーイング）」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "『所さんお届けモノです！』（2025年6月27日放送）の谷中ロケで、Aぇ! groupの末澤誠也と小島健が訪れたクラフトビールの醸造所兼店。"
 shop_id: "agroup-buzzed_lamb_brewing-"
 name: "BUZZED LAMB BREWING（バズ ドラム ブルーイング）"
 genre: "others"
@@ -13,15 +13,13 @@ source_url: "https://kosodate-and.net/tokoro-otodoke-seiken-pasta"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131105/13300267/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg"
+visit_kind: "guest_tv"
+program: "所さんお届けモノです！"
 lat: 35.723555122162196
 lng: 139.7682484985184
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
   - "末澤誠也"
   - "小島健"
-  - "福本大晴"
-  - "佐野晶哉"
 groups:
   - "agroup"
 ---

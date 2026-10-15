@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≒JOYが行った「レストラン Seafood ＆ Grill YAKIYA」"
-description: "≒JOYのYouTubeで紹介された食事「レストラン Seafood ＆ Grill YAKIYA」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "≒JOYの公式YouTubeの「【シーパラ】みんなで水族館行ってきた！夜にはBBQも🍖」（2023年10月）で、6人が夜のBBQをした八景島シーパラダイスのレストラン。"
 shop_id: "neajoy-seafood_grill_yakiya-202408"
 name: "レストラン Seafood ＆ Grill YAKIYA"
 genre: "shokuji"
@@ -14,6 +14,8 @@ youtube_id: "1Cs9GQ0hRm4"
 source_video_title: "【シーパラ】みんなで水族館行ってきた！夜にはBBQも🍖"
 group: "neajoy"
 thumbnail_url: "https://img.youtube.com/vi/1Cs9GQ0hRm4/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.377
 lng: 139.626
 members:

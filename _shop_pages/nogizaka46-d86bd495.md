@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「ケニーズハウスカフェ伊豆高原本店」"
-description: "錆びたコンパスMVで紹介されたカフェ「ケニーズハウスカフェ伊豆高原本店」（静岡県伊東市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の27thシングル「ごめんねFingers crossed」Type-D収録の「錆びたコンパス」のMVの撮影に使われた伊豆高原のカフェ。"
 shop_id: "nogizaka46-d86bd495-"
 name: "ケニーズハウスカフェ伊豆高原本店"
 genre: "cafe"
@@ -13,6 +13,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220503/22000369/"
 hotpepper_url: "https://www.hotpepper.jp/strJ002654009/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/55/67/P039625567/P039625567_238.jpg"
+visit_kind: "drama"
+program: "乃木坂46「錆びたコンパス」MV"
 lat: 34.878274
 lng: 139.085521
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「CozyStyle COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「CozyStyle COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#419【ドライブ!!】これがよにのクオリティーだっ！の日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。"
 shop_id: "yonino-cozy-style-coffee"
 name: "CozyStyle COFFEE"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#419【ドライブ!!】これがよにのクオリティ�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131901/13220114/"
 thumbnail_url: "https://img.youtube.com/vi/bMeaIt51YJ8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7072
 lng: 139.6992
 members:

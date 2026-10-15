@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "アイドル・芸能人が行った居酒屋まとめ【76軒】しおりのはしご酒・=LOVEの赤羽と高円寺・鳥貴族に2組まで15組"
-description: "しおりのなんとなく日常・=LOVE・Snow Man・SixTONES・亀梨和也・孤独のグルメなど15組の動画や番組に登場した居酒屋・飲み屋76軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。同じチェーンに別々のグループが行った店や、はしご酒のエリアは図と一覧でひと目で。"
+title: "アイドル・芸能人が行った居酒屋まとめ【72軒】しおりのはしご酒・=LOVEの赤羽と高円寺・鳥貴族に2組まで15組"
+description: "しおりのなんとなく日常・=LOVE・Snow Man・SixTONES・亀梨和也・孤独のグルメなど15組の動画や番組に登場した居酒屋・飲み屋72軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。同じチェーンに別々のグループが行った店や、はしご酒のエリアは図と一覧でひと目で。"
 date: 2026-05-27
 last_modified_at: 2026-10-10
 categories: [グルメ, 居酒屋]
@@ -10,9 +10,9 @@ article_type: genre
 genre: 居酒屋
 thumbnail_video_id: 3bVqyOhEmjc
 summary:
-  - "15組のグループ・番組に登場した居酒屋・飲み屋76軒。しおりのなんとなく日常が18軒、=LOVEが14軒"
+  - "15組のグループ・番組に登場した居酒屋・飲み屋72軒。しおりのなんとなく日常が18軒、=LOVEが14軒"
   - "鳥貴族・串カツ田中・釣船茶屋ざうお・う福に2組ずつ（店舗は別）"
-  - "76軒のうち57軒が東京都。渋谷区13・新宿区9、高円寺・赤羽・函館・横浜西口ははしご酒の回でまとまって登場"
+  - "72軒のうち54軒が東京都。渋谷区13・新宿区8、高円寺・赤羽・函館・横浜西口ははしご酒の回でまとまって登場"
   - "お店ごとに動画の回・タイトル・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - shiori-97aca417-20260331
@@ -68,10 +68,6 @@ shop_ids:
   - naniwa-2c2e760f-202410
   - nogizaka46-rooftops-
   - nogizaka46-76d7ba94-
-  - nogizaka46-ca63b74a-
-  - nogizaka46-coconeel-
-  - nogizaka46-644a3895-
-  - nogizaka46-serafina_new_york-
   - yonino-negiya-heikichi
   - yonino-yamanaka-ginza
   - yonino-takeno-tsukiji
@@ -93,7 +89,7 @@ shop_ids:
   - heysayjump-bee-20170201
 faq:
   - q: "アイドル・芸能人が行った居酒屋は、どのグループのお店が多いですか？"
-    a: "この記事の76軒では、しおりのなんとなく日常が18軒で最も多く、=LOVEが14軒で続きます。孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・よにのちゃんねる・King & Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつです。"
+    a: "この記事の72軒では、しおりのなんとなく日常が18軒で最も多く、=LOVEが14軒で続きます。孤独のグルメ・なにわ男子が6軒ずつ、Snow Man・よにのちゃんねる・King & Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつ、乃木坂46・≒JOYが2軒ずつです。"
   - q: "いくつものグループが行った居酒屋チェーンはありますか？"
     a: "鳥貴族には=LOVE（大久保駅西店）と≒JOY（新宿小滝橋通り店）の2組が訪れています。串カツ田中は=LOVEと≒JOY、釣船茶屋ざうおは亀梨和也と≠ME、う福はしおりのなんとなく日常と亀梨和也が、それぞれ別の店舗に行っています。"
   - q: "=LOVEのはしご酒の回ではどこに行きましたか？"
@@ -101,46 +97,46 @@ faq:
   - q: "しおりのなんとなく日常のはしご酒はどのエリアですか？"
     a: "横浜西口（2021年11月）、新橋（2022年3月・2024年9月）、新宿の思い出横丁（2023年9月）、渋谷（2024年3月）、新宿・代々木（2025年4月）、沼津（2026年1月）、函館（2026年3月）、恵比寿（2026年5月）などの回があります。"
   - q: "推しが行った居酒屋を地図で見られますか？"
-    a: "「お店を探す」でジャンルを居酒屋にすると、この記事の76軒を含め、推しグルメ巡礼MAPに登録されている居酒屋を地図で見られます。"
+    a: "「お店を探す」でジャンルを居酒屋にすると、この記事の72軒を含め、推しグルメ巡礼MAPに登録されている居酒屋を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#7c3aed">
 
 <p>昼から飲み歩くはしご酒、ライブの打ち上げ、自分で釣った魚をその場で食べる居酒屋。推しのグラスが空くたびに、次のお店が気になってきます。</p>
 
-<p>この記事では、<strong>15組</strong>のグループ・番組の動画や放送に登場した居酒屋・飲み屋<strong>76軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>15組</strong>のグループ・番組の動画や放送に登場した居酒屋・飲み屋<strong>72軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しの居酒屋</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しの居酒屋</p>
-    <p class="pf-card__yomi">15組の動画・番組から76軒</p>
+    <p class="pf-card__yomi">15組の動画・番組から72軒</p>
     <span class="pf-card__color"><i></i>居酒屋</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>76軒</dd></div>
+    <div><dt>お店の数</dt><dd>72軒</dd></div>
     <div><dt>グループ・番組</dt><dd>15組</dd></div>
     <div><dt>多いグループ</dt><dd>しおり（18軒）・=LOVE（14軒）</dd></div>
-    <div><dt>多いエリア</dt><dd>渋谷区（13軒）・新宿区（9軒）</dd></div>
+    <div><dt>多いエリア</dt><dd>渋谷区（13軒）・新宿区（8軒）</dd></div>
     <div><dt>2組が行ったチェーン</dt><dd>鳥貴族・串カツ田中・ざうお・う福</dd></div>
     <div><dt>はしご酒の街</dt><dd>高円寺・赤羽・函館・横浜西口</dd></div>
   </dl>
 </div>
 
 <div class="pf-nums">
-  <div><b>76<small>軒</small></b><span>この記事の居酒屋・飲み屋</span></div>
+  <div><b>72<small>軒</small></b><span>この記事の居酒屋・飲み屋</span></div>
   <div><b>15<small>組</small></b><span>登場したグループ・番組</span></div>
   <div><b>4<small>つ</small></b><span>2組以上が別々の店舗に行ったチェーン</span></div>
   <div><b>{{ site.data.site_stats.genres.izakaya }}<small>軒</small></b><span>このサイトに登録されている居酒屋ぜんぶ</span></div>
 </div>
 
 <h2>どのグループの居酒屋？</h2>
-<p>ひとりでも飲み歩くYouTuber「しおりのなんとなく日常」が18軒、メンバーのはしご酒の回が多い=LOVEが14軒。この2組で76軒のうち32軒です。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/groups.svg" alt="どのグループの居酒屋か：しおり18軒、=LOVE 14軒、孤独のグルメ・なにわ男子・乃木坂46が6軒ずつ、Snow Man・よにのちゃんねる・King &amp; Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつ、≒JOY 2軒、≠ME・銀河チャンネル・Hey! Say! JUMPが1軒ずつ" width="420" height="682" loading="lazy" decoding="async"><figcaption>この記事の76軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<p>ひとりでも飲み歩くYouTuber「しおりのなんとなく日常」が18軒、メンバーのはしご酒の回が多い=LOVEが14軒。この2組で72軒のうち32軒です。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/groups.svg" alt="どのグループの居酒屋か：しおり18軒、=LOVE 14軒、孤独のグルメ・なにわ男子が6軒ずつ、Snow Man・よにのちゃんねる・King &amp; Princeが4軒ずつ、SixTONES・亀梨和也・かまいたちが3軒ずつ、乃木坂46・≒JOYが2軒ずつ、≠ME・銀河チャンネル・Hey! Say! JUMPが1軒ずつ" width="420" height="682" loading="lazy" decoding="async"><figcaption>この記事の72軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/area.svg" alt="お店の場所：東京57軒、関東（東京以外）8軒、北海道・東北4軒、中部4軒、近畿・中国・四国・九州・沖縄が1軒ずつ。東京都のなかでは渋谷区13軒、新宿区9軒、港区6軒、杉並区6軒、中央区5軒、台東区4軒、品川区4軒など。東京都のほかでは神奈川県5軒、北海道・静岡県・福島県・埼玉県が2軒ずつなど" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-izakaya-matome/area.svg" alt="お店の場所：東京54軒、関東（東京以外）7軒、北海道・東北4軒、中部4軒、近畿・中国・四国・九州・沖縄が1軒ずつ。東京都のなかでは渋谷区13軒、新宿区8軒、杉並区6軒、港区5軒、中央区5軒、台東区4軒、品川区3軒など。東京都のほかでは神奈川県5軒、北海道・静岡県・福島県が2軒ずつなど" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>同じチェーンに、別のグループが</h2>
 <p>店舗は別々でも、同じ看板のお店に何組も訪れています。推しどうしの「同じもの」を食べ比べられるのは、チェーン店ならではです。</p>
@@ -236,13 +232,9 @@ faq:
   <li><span class="k">関西</span><div><b>おゝ杉（大阪）</b><span>かまいたち【忘れられないグルメ】かまいたちがもう一度行きたい！ロケで行った飲食店〜関西編〜</span></div></li>
   <li><span class="k">串揚げ</span><div><b>銀座 六覺燈 麻布十番店</b><span>かまいたち【高級串カツ】かまいたちが思い入れのある串揚げ六覺燈で贅沢コースを堪能！</span></div></li>
   <li><span class="k">鎌倉</span><div><b>鎌倉 ROOFTOPS</b><span>乃木坂46『ジコチューで行こう！』（21stシングル Type-D）</span></div></li>
-  <li><span class="k">ロケ地</span><div><b>COCONEEL（歌舞伎町）</b><span>乃木坂46『スカウトマン』</span></div></li>
-  <li><span class="k">ロケ地</span><div><b>プロント ウインズ汐留店</b><span>乃木坂46 汐留イタリア街（『シンクロニシティ』）</span></div></li>
   <li><span class="k">ロケ地</span><div><b>デモデダイナー 福生店</b><span>乃木坂46『バレッタ』</span></div></li>
-  <li><span class="k">ロケ地</span><div><b>味楽（大崎）</b><span>乃木坂46『環状六号線』</span></div></li>
-  <li><span class="k">埼玉</span><div><b>Serafina NEW YORK さいたま新都心店</b><span>乃木坂46／さいたまスーパーアリーナ（現 GMOアリーナさいたま）の近く</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="kodoku_no_gurume-e09c3ed5-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-b768e841-,kodoku_no_gurume-842790b5-,kodoku_no_gurume-8dd15d33-,kamaitachi-380c2d89-,kamaitachi-394d7350-,kamaitachi-097127ba-,nogizaka46-rooftops-,nogizaka46-coconeel-,nogizaka46-ca63b74a-,nogizaka46-76d7ba94-,nogizaka46-644a3895-,nogizaka46-serafina_new_york-" %}
+{% include inline-shop-grid.html ids="kodoku_no_gurume-e09c3ed5-,kodoku_no_gurume-9353d2c4-,kodoku_no_gurume-eae57f73-,kodoku_no_gurume-b768e841-,kodoku_no_gurume-842790b5-,kodoku_no_gurume-8dd15d33-,kamaitachi-380c2d89-,kamaitachi-394d7350-,kamaitachi-097127ba-,nogizaka46-rooftops-,nogizaka46-76d7ba94-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>公式チャンネルの動画から、居酒屋が登場する4本を選びました（タップすると再生します）。</p>
@@ -265,7 +257,7 @@ faq:
 
 <div class="pf-cta">
   <p>推しが行った居酒屋を、地図でぜんぶ見る</p>
-  <span>この記事の76軒のほかにも、グループや番組に登場した居酒屋を地図で探せます。行きたいお店は保存して、はしご酒の計画に。</span>
+  <span>この記事の72軒のほかにも、グループや番組に登場した居酒屋を地図で探せます。行きたいお店は保存して、はしご酒の計画に。</span>
   <a class="btn" href="/shops/?genre=izakaya&amp;view=map">地図で居酒屋を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>。グループごとのお店は<a href="{{ site.data.group_ix.shiori.u }}">しおりのなんとなく日常</a>・<a href="{{ site.data.group_ix.equal_love.u }}">=LOVE</a>のページからも探せます。</p>
