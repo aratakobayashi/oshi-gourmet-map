@@ -221,9 +221,9 @@ courses:
 </ul>
 
 <h2>Aぇ! groupの聖地 年表</h2>
-<p>動画の公開日・番組の放送日を確かめられたお店を、古い順に並べました。</p>
-<div class="faq"><details><summary>年表をひらく（20軒・古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/timeline.svg" alt="Aぇ! groupの聖地 年表：2023年 ジュニアCHANNELの被っちゃダメよグルメ（ココス）、少数派グルメ（Itacica Ku）、トゥクトゥクで浅草散策（レストラン大宮）。2024年 末リチャ丈の3人旅（西宮のアクア）、朝食で撮れ高を作れ（福島屋）、初の大食い企画（回転寿しトリトン）、正門さんゴチになります（北海しゃぶしゃぶ）、朝メシでもんじゃ（てっぱん大吉）、被っちゃダメよグルメ 高級中華編（賛田飯店）。2025年 グルメカジノ（バーミヤン）。2026年 ファミレス編（ガスト）、横山万博打ち上げ（赤坂茶寮）、おでん編（角打ち KAN）、絵文字だけで出会えるかin調布（アンジュ）、絶景BBQ（グリルピア）、井ノ原快彦とのファミレス（ジョナサン）ほか" width="420" height="2230" loading="lazy" decoding="async"><figcaption>公開日・放送日をデータに入れていないお店（大食い企画の一部・絵文字だけで出会えるかの札幌と横浜・番組のロケなど）は年表に入れていません。日付は各章の店名の上に書いています</figcaption></figure>
+<p>公式YouTube（Aぇちゅ〜ぶ）とジュニアCHANNELの回のうち、公開日を確かめられたお店を古い順に並べました。</p>
+<div class="faq"><details><summary>年表をひらく（24軒・公開日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/timeline.svg" alt="Aぇ! groupの聖地 年表：2023年 ジュニアCHANNELの被っちゃダメよグルメ（ココス）、少数派グルメ（Itacica Ku）、トゥクトゥクで浅草散策（レストラン大宮）。2024年 末リチャ丈の3人旅（アクア 西宮本店）、朝食で撮れ高を作れ（福島屋）、初の大食い企画（回転寿しトリトン）、正門さんゴチになります（北海しゃぶしゃぶ）、朝メシでもんじゃ（てっぱん大吉）、高級中華編（賛田飯店）、利き焼肉（エイジング・ビーフ）。2025年 絵文字だけで出会えるかin横浜の3軒、中華料理で大食いリベンジ（皇朝レストラン）、デビュー1周年の焼肉会（牛牛）、最安値のメニューを見破れ（バーミヤン）。2026年 ファミレス編（ガスト）、回転寿司大食い（みさき）、横山万博打ち上げ（赤坂茶寮）、しゃぶしゃぶ大食い（温野菜）、おでん編（角打ち KAN）、絵文字だけで出会えるかin調布（アンジュ）、絶景BBQ（グリルピア）、井ノ原快彦との被っちゃダメよ（ジョナサン）" width="420" height="2230" loading="lazy" decoding="async"><figcaption>テレビ番組・ほかのグループのYouTube・SNSのお店と、どの回か特定がまだの札幌の3軒は入れていません</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
@@ -239,7 +239,7 @@ courses:
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/map.svg" alt="Aぇ!groupが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/map.svg" alt="Aぇ!groupが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>六本木・麻布十番・西麻布</strong>：賛田飯店（六本木5丁目）、しゃぶしゃぶ温野菜 六本木店（六本木駅 徒歩2分）、牛牛 西麻布 総本店（六本木駅 徒歩6分）、麻布十番の福島屋。Aぇちゅ〜ぶの4軒がまとまっています。</li>

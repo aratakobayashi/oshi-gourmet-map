@@ -192,16 +192,16 @@ courses:
 </ul>
 
 <h2>KinKi Kidsの聖地 年表</h2>
-<p>放送日を確かめられたお店を、放送日の古い順に並べました。スタジオに料理が出たお店も入っています。</p>
-<div class="faq"><details><summary>年表をひらく（35軒・放送日の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/timeline.svg" alt="KinKi Kidsの聖地 年表：2022年 ブンブブーンの高知グルメ（4軒）・韓国グルメ（2軒）・即完売グルメ（5軒）。2023年 おまけグルメ（2軒）、おにぎり企画、沖縄料理のくわっちー家、川越の小川藤と菓匠右門、人生最高レストランで堂本剛が紹介した3軒、創作オムライス（3軒）、熟成焼肉、銀座の天ぷら、築地の2軒、上野の焼肉。2024年 奥渋谷の2軒、お好み焼き。2025年 ニノさんのだしいなり。2026年 ごぶごぶの大阪の3軒" width="420" height="1522" loading="lazy" decoding="async"><figcaption>放送回の特定がまだのお店（麹町のそばうさ・市ヶ谷のカフェ NO4・天童の水車生そば）は年表に入れていません。図の上の「動画が公開された順」は、この記事では放送日の順です</figcaption></figure>
+<p>メンバーがロケで訪れたお店と、トークで紹介したお店を、放送日の古い順に並べました。</p>
+<div class="faq"><details><summary>年表をひらく（16軒・放送日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/timeline.svg" alt="KinKi Kidsの聖地 年表：2023年7月 ブンブブーン 沖縄料理の回のくわっちー家、8月 小江戸川越散策ツアーの小川藤と菓匠右門 時の鐘店、9月 人生最高レストランで堂本剛が紹介した焼肉きみや・御蕎麦 玄・APOCパンケーキと、焼肉の希少部位の食べ比べの熟成焼肉 格之進R+、12月 天ぷらの揚げ方を教わった回の天ぷら 阿部、築地グルメ企画の築地 魚政と東印度カレー商会、心残りグルメのTOKYO焼肉ごぉ。2024年1月 奥渋谷ロケの魚力と肉の栄屋。2026年1月 ごぶごぶ 正月SPの喫茶サンシャイン・心斎橋よかろ・心斎橋でりしゃす" width="420" height="1522" loading="lazy" decoding="async"><figcaption>スタジオに料理が登場したお店と、放送回が未確定のお店（麹町のそばうさ・市ヶ谷のカフェ NO4）は入れていません</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
 <figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事12軒、和食8軒、スイーツ7軒、焼肉4軒、カフェ3軒、中華2軒、居酒屋1軒、その他1軒。東京都内は中央区8軒、千代田区4軒、港区4軒、渋谷区3軒、台東区・豊島区・新宿区が1軒ずつ。東京の外は高知県4軒、大阪府4軒、奈良県2軒、埼玉県2軒、北海道・岐阜県・静岡県・山形県が1軒ずつ" width="420" height="762" loading="lazy" decoding="async"><figcaption>この記事の38軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/map.svg" alt="KinKi Kidsが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/map.svg" alt="KinKi Kidsが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>築地</strong>：築地 魚政 Tsukiji Fish Burger MASA と東印度カレー商会 築地場外店（どちらも築地市場駅 徒歩5分）。ももいろクローバーZとの築地グルメ企画の2軒です。</li>
