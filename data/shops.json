@@ -8837,7 +8837,7 @@
     ],
     "group": "ginga",
     "nearest_station": "新大久保駅 徒歩3分",
-    "description": "新宿区のカフェ。中丸雄一が2024年7月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「新大久保に乗り込んで、話題になってそうなスイーツを探してみた」（2024年7月）で、中丸雄一がスイーツを食べたカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13293786/",
     "source_video_url": "https://www.youtube.com/watch?v=RGbsQewaz4c",
@@ -8852,7 +8852,10 @@
         "name": "アールグレイ(アイス)"
       }
     ],
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。"
   },
   {
     "id": "ginga-maru-202407",
@@ -8874,12 +8877,15 @@
     ],
     "group": "ginga",
     "nearest_station": "新大久保駅 徒歩3分",
-    "description": "新宿区のカフェ。中丸雄一が2024年7月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場したカフェ。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「新大久保に乗り込んで、話題になってそうなスイーツを探してみた」（2024年7月）で、中丸雄一が訪れたカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13263955/",
     "hotpepper_url": "",
     "source_video_url": "https://www.youtube.com/watch?v=RGbsQewaz4c",
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。"
   },
   {
     "id": "ginga-24823ef5-202406",
@@ -8901,7 +8907,7 @@
     ],
     "group": "ginga",
     "nearest_station": "ゆりかもめ 市場前駅 徒歩３分",
-    "description": "江東区のレストラン。中丸雄一が2024年6月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「東京の噂のスポット『千客万来』に行って…」（2024年6月）で、中丸雄一が食事をした豊洲の商業施設。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131307/13293880/",
     "hotpepper_url": "",
@@ -8917,7 +8923,10 @@
         "name": "奏(ごはんチョイ大盛り)"
       }
     ],
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "1軒の飲食店ではなく、飲食店が集まる施設（豊洲 千客万来）。説明文に「インバウン丼を注文」とある。施設として残すか、中の店に分けるかは人が判断。公開日 2024-06-27 は visited_date と一致。"
   },
   {
     "id": "ginga-cb38ce4c-202406",
@@ -8939,7 +8948,7 @@
     ],
     "group": "ginga",
     "nearest_station": "JR新橋駅 烏森改札口 徒歩1分都営浅草線 新橋駅 A2出口徒歩2分ゆりかもめ 新橋駅 徒歩2分",
-    "description": "東京都の和食店。中丸雄一が2024年6月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した和食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった」（2024年6月）で、猪狩蒼弥と食事をした和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13281809/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003498443/",
@@ -8950,7 +8959,13 @@
       }
     ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/15/P048095915/P048095915_238.jpg",
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "猪狩蒼弥（HiHi Jets）"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-06-15 は visited_date と一致。"
   },
   {
     "id": "ginga-9f375cca-202405",
@@ -8972,7 +8987,7 @@
     ],
     "group": "ginga",
     "nearest_station": "枕崎駅 徒歩5分",
-    "description": "枕崎市のレストラン。中丸雄一が2024年5月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「鹿児島と言ったら、これっきゃない。」（2024年5月）で、中丸雄一がさつま揚げや地鶏などを食べた枕崎の和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kagoshima/A4601/A460104/46011861/",
     "source_video_url": "https://www.youtube.com/watch?v=1yd3WNzgodI",
@@ -8993,7 +9008,10 @@
         "name": "赤鶏の炙り鳥刺し"
       }
     ],
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-05-07 は visited_date と一致。"
   },
   {
     "id": "ginga-korin-20250413",
@@ -9015,9 +9033,15 @@
     ],
     "group": "ginga",
     "nearest_station": "東銀座駅 徒歩4分",
-    "description": "中央区の居酒屋。中丸雄一が2024年4月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した居酒屋。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の山田涼介との対談回（2024年4月）に出てきた銀座の店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13014855/"
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13014855/",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "山田涼介（Hey! Say! JUMP）"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのか（食事をしたのか）は説明文から確かめられない。公開日 2024-04-13 は visited_date と一致（id の 2025 は誤記だが変えない）。元の説明文の「居酒屋」も未確認。"
   },
   {
     "id": "ginga-f50e5bd3-202403",
@@ -9039,7 +9063,7 @@
     ],
     "group": "ginga",
     "nearest_station": "中目黒駅 徒歩6分",
-    "description": "目黒区のグルメスポット。中丸雄一が2024年3月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の北村匠海との対談回（2024年3月）に出てきた中目黒の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13008189/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003388201/",
@@ -9048,7 +9072,13 @@
         "name": "アイスコーヒー？"
       }
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/59/P040273759/P040273759_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/59/P040273759/P040273759_238.jpg",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "北村匠海"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない（注文も「アイスコーヒー？」と不確か）。公開日 2024-03-30 は visited_date と一致。"
   },
   {
     "id": "ginga-44b85f76-202403",
@@ -9070,7 +9100,7 @@
     ],
     "group": "ginga",
     "nearest_station": "新橋駅 徒歩2分",
-    "description": "東京都のレストラン。中丸雄一が2024年3月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「猪狩蒼弥とメシ」（2024年3月公開）で、2人が食事をした新橋の和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13197226/",
     "hotpepper_url": "",
@@ -9080,7 +9110,13 @@
         "name": "【銘柄豚】出汁しゃぶ会席 「京 きょう」"
       }
     ],
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "猪狩蒼弥（HiHi Jets）"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 visited_date 2024-03-27 は公開日。説明文によると撮影は2024年1月。"
   },
   {
     "id": "ginga-8f622a15-202403",
@@ -9102,11 +9138,14 @@
     ],
     "group": "ginga",
     "nearest_station": "",
-    "description": "西海市の和食店。中丸雄一が2024年3月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した和食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「衝撃、長崎でクジラのアレを食べる。」（2024年3月）で、中丸雄一が食事をした西海市の活魚料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagasaki/A4201/A420102/42004589/",
     "source_video_url": "https://www.youtube.com/watch?v=ASHXCtJu93Y",
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-03-12 は visited_date と一致。"
   },
   {
     "id": "ginga-gold_rush-202402",
@@ -9128,7 +9167,7 @@
     ],
     "group": "ginga",
     "nearest_station": "東新宿駅 徒歩5分",
-    "description": "新宿区のレストラン。中丸雄一が2024年2月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」のジェシー・髙地優吾との対談回（2024年2月）に出てきたハンバーグ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13271105/",
     "ordered_items": [
@@ -9138,7 +9177,14 @@
       {
         "name": "アップル？"
       }
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "ジェシー（SixTONES）",
+      "髙地優吾（SixTONES）"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない。公開日 2024-02-17 は visited_date と一致。"
   },
   {
     "id": "ginga-46244fe9-202402",
@@ -9160,11 +9206,14 @@
     ],
     "group": "ginga",
     "nearest_station": "蓮池町通駅 徒歩5分",
-    "description": "高知市のレストラン。中丸雄一が2024年2月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の「高知といえば...カツオ！」（2024年2月）で、中丸雄一が訪れた高知市の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kochi/A3901/A390101/39005292/",
     "source_video_url": "https://www.youtube.com/watch?v=A_L2aTTrOg4",
-    "source_video_channel": "中丸銀河ちゃんねる"
+    "source_video_channel": "中丸銀河ちゃんねる",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-02-13 は visited_date と一致。"
   },
   {
     "id": "ginga-810aafd0-202402",
@@ -9186,11 +9235,17 @@
     ],
     "group": "ginga",
     "nearest_station": "代官山駅 徒歩5分",
-    "description": "渋谷区のレストラン。中丸雄一が2024年2月に訪れた。中丸雄一銀河チャンネル「銀河チャンネル」に登場した飲食店。",
+    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の大倉忠義との対談前編（2024年2月）に出てきた代官山の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130303/13232383/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001233001/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/76/P050117776/P050117776_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/76/P050117776/P050117776_238.jpg",
+    "visit_kind": "youtube",
+    "program": "中丸銀河ちゃんねる",
+    "with": [
+      "大倉忠義（SUPER EIGHT）"
+    ],
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない。公開日 2024-02-03 は visited_date と一致。"
   },
   {
     "id": "hinatazaka46-039367a9-202004",
@@ -9329,12 +9384,15 @@
       "kamaitachi"
     ],
     "group": "kamaitachi",
-    "description": "大阪市の居酒屋。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関西編」に登場した居酒屋。山内健司・濱家隆一が訪問。",
+    "description": "かまいたちの公式YouTube「ロケで行った飲食店〜関西編〜」（2024年11月）で、大阪時代のロケで行きもう一度行きたい店として名前を挙げた滋賀・大津の店（うなしゃぶ）。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27118453/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "other",
+    "program": "かまいたちチャンネル「ロケで行った飲食店〜関西編〜」",
+    "qa_note": "動画はスタジオでのトーク回で、店では撮っていない。説明文の「ロケで行った飲食店」に名前があり、過去のテレビロケで2人が訪れた店（番組名・時期は説明文になし）。 元の説明文に「大阪市の居酒屋」とあるが住所は滋賀県大津市。"
   },
   {
     "id": "kamaitachi-1ca5fcf5-",
@@ -9357,12 +9415,15 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "四ツ橋駅",
-    "description": "大阪市西区のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。",
+    "description": "かまいたちの公式YouTube「ロケで行った飲食店〜関西編〜」（2024年11月）で、大阪時代のロケで行きもう一度行きたい店として名前を挙げた大阪のスパイスカレー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270105/27074470/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "other",
+    "program": "かまいたちチャンネル「ロケで行った飲食店〜関西編〜」",
+    "qa_note": "動画はスタジオでのトーク回で、店では撮っていない。説明文の「ロケで行った飲食店」に名前があり、過去のテレビロケで2人が訪れた店（番組名・時期は説明文になし）。 住所が丁目まで（北堀江2丁目）。"
   },
   {
     "id": "kamaitachi-1607d854-",
@@ -9385,39 +9446,14 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "本町駅",
-    "description": "大阪市中央区のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。",
+    "description": "かまいたちの公式YouTube「ロケで行った飲食店〜関西編〜」（2024年11月）で、大阪時代のロケで行きもう一度行きたい店として名前を挙げた大阪のスパイスカレー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27092078/",
     "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
-  },
-  {
-    "id": "kamaitachi-4a7bd41f-",
-    "name": "香住・かどや",
-    "genre": "shokuji",
-    "prefecture": "兵庫県",
-    "city": "美方郡香美町",
-    "address": "兵庫県美方郡香美町香住区",
-    "lat": 35.6483,
-    "lng": 134.6389,
-    "youtube_id": "kU8SZpaXoBE",
-    "source_video_title": "【忘れられないグルメ】かまいたちがもう一度行きたい！ロケで行った飲食店〜関西編〜",
-    "visited_date": "",
-    "members": [
-      "山内健司",
-      "濱家隆一"
-    ],
-    "groups": [
-      "kamaitachi"
-    ],
-    "group": "kamaitachi",
-    "nearest_station": "香住駅",
-    "description": "美方郡香美町のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関西編」に登場した飲食店。山内健司・濱家隆一が訪問。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/kU8SZpaXoBE/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "other",
+    "program": "かまいたちチャンネル「ロケで行った飲食店〜関西編〜」",
+    "qa_note": "動画はスタジオでのトーク回で、店では撮っていない。説明文の「ロケで行った飲食店」に名前があり、過去のテレビロケで2人が訪れた店（番組名・時期は説明文になし）。 住所が丁目まで（南久宝寺町1丁目）。"
   },
   {
     "id": "kamaitachi-380c2d89-",
@@ -9440,12 +9476,15 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "堀切菖蒲園駅",
-    "description": "墨田区の居酒屋。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関東編」に登場した居酒屋。山内健司・濱家隆一が訪問。",
+    "description": "かまいたちの公式YouTube「ロケで行った飲食店〜関東編〜」（2024年11月）で、東京進出後のロケで行きもう一度行きたい店として名前を挙げた堀切のもつ焼き店（シロ）。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132305/13044298/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/n6aabEP44lU/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "other",
+    "program": "かまいたちチャンネル「ロケで行った飲食店〜関東編〜」",
+    "qa_note": "動画はスタジオでのトーク回で、店では撮っていない。説明文の「ロケで行った飲食店」に名前があり、過去のテレビロケで2人が訪れた店（番組名・時期は説明文になし）。 元の説明文に「墨田区」とあるが住所は葛飾区堀切。"
   },
   {
     "id": "kamaitachi-a10db015-",
@@ -9468,12 +9507,19 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "新御徒町駅",
-    "description": "台東区のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたち「関東編」に登場した飲食店。山内健司・濱家隆一が訪問。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・上野編）で3時のヒロインがトムヤム飯を紹介したタイ料理店。公式YouTube「ロケで行った飲食店〜関東編〜」（2024年11月）でももう一度行きたい店に挙げた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13094256/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/n6aabEP44lU/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "森泉",
+      "3時のヒロイン"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 関東編の説明文「トムヤム飯／パーバーン【東京新御徒町】」とも一致。住所は丁目まで（まとめサイトでは小島2-18-10）。"
   },
   {
     "id": "kamaitachi-6ce06b6f-",
@@ -9496,12 +9542,15 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "渋谷駅",
-    "description": "渋谷区のレストラン。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたちの山内健司・濱家隆一が訪れた飲食店。",
+    "description": "かまいたちの公式YouTube「かまいたちが久しぶりにカプリチョーザで食事したら懐かしすぎて感激！」（2023年6月）で、2人が大阪時代によく食べたメニューを味わったイタリア料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13013708/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/q-UKt66uFp8/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "youtube",
+    "program": "かまいたちチャンネル",
+    "qa_note": "説明文は「カプリチョーザの店舗」「カプリチョーザさんご協力」だけで、どの店舗（渋谷本店か）かは確かめられなかった。住所も渋谷区まで。動画で店舗を確かめたい。"
   },
   {
     "id": "kamaitachi-097127ba-",
@@ -9524,13 +9573,16 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "麻布十番駅",
-    "description": "港区の居酒屋。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたちの山内健司・濱家隆一が訪れた居酒屋。",
+    "description": "かまいたちの公式YouTube「かまいたちが思い入れのある串揚げ六覺燈で贅沢コースを堪能！」（2025年11月）で、2人がコースを食べた串揚げ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13291595/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003559518/",
     "thumbnail_url": "https://img.youtube.com/vi/M_IWhptZ4vs/hqdefault.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/79/P040710479/P040710479_238.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "youtube",
+    "program": "かまいたちチャンネル",
+    "qa_note": "説明文に「銀座 六覺燈 麻布十番店さんご協力」とある。Googleのプロモーション回。"
   },
   {
     "id": "kamaitachi-e20cd59a-",
@@ -9553,12 +9605,15 @@
     ],
     "group": "kamaitachi",
     "nearest_station": "白金高輪駅",
-    "description": "大田区の寿司店。山内健司・濱家隆一が訪れたかまいたちのロケ地。かまいたちの山内健司・濱家隆一が訪れた寿司店。",
+    "description": "かまいたちの公式YouTube「かまいたちが2人で白金の高級寿司を堪能！」（2025年7月）で、2人がコースを食べた港区白金の寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1316/A131602/13220741/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/A2u0TZpDQ8A/hqdefault.jpg",
-    "source_video_channel": "かまいたちチャンネル"
+    "source_video_channel": "かまいたちチャンネル",
+    "visit_kind": "youtube",
+    "program": "かまいたちチャンネル",
+    "qa_note": "説明文に「港区白金にある高級寿司の『鮨 長島』」とある。元の説明文の「大田区」は誤り（住所は港区白金）。"
   },
   {
     "id": "neajoy-6ad11682-202604",
@@ -61481,13 +61536,20 @@
     "lng": 139.7957,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の中華料理店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・浅草編）で、馬場ももこが「塩やっきー」を紹介した中華料理店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "浅草駅 徒歩2分",
-    "city": "台東区"
+    "city": "台東区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "白石麻衣",
+      "馬場ももこ"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 MVPに選ばれた店。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "c3e33c89",
@@ -61504,13 +61566,20 @@
     "lng": 139.7972,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都のカフェ。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・浅草編）で、神田愛花がビリヤニを紹介したカフェ。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "浅草駅 徒歩1分",
-    "city": "台東区"
+    "city": "台東区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "白石麻衣",
+      "神田愛花"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "f7bda032",
@@ -61527,13 +61596,20 @@
     "lng": 139.7996,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都のカフェ。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・浅草編）で、馬場典子がオニオントーストを紹介した喫茶店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "浅草駅 徒歩4分",
-    "city": "台東区"
+    "city": "台東区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "白石麻衣",
+      "馬場典子"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "93e70793",
@@ -61550,14 +61626,21 @@
     "lng": 139.6672,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の飲食店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・下北沢編）で、酒井美紀がフルーツトマトのパイとハンバーグを紹介したビストロ。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "city": "世田谷区",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001203317/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/49/47/P030874947/P030874947_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/49/47/P030874947/P030874947_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "ウエンツ瑛士",
+      "酒井美紀"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "d73ac844",
@@ -61574,13 +61657,20 @@
     "lng": 139.6684,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の飲食店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・下北沢編）で、野呂佳代が豚出汁ポークカレーを紹介したカレー店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "下北沢駅 徒歩2分",
-    "city": "世田谷区"
+    "city": "世田谷区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "ウエンツ瑛士",
+      "野呂佳代"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 MVPに選ばれた店。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "b90223d2",
@@ -61597,12 +61687,19 @@
     "lng": 139.6651,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の飲食店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2022年1月30日放送・下北沢編）で、中山忍がビーフカツサンドなどを紹介した洋食店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "世田谷区"
+    "city": "世田谷区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "ウエンツ瑛士",
+      "中山忍"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "89997d4c",
@@ -61619,12 +61716,19 @@
     "lng": 139.7019,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の焼肉店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・新大久保編）で、黒谷友香が渡り蟹のウニイクラチャーハンなどを紹介した店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "新宿区"
+    "city": "新宿区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "杏",
+      "黒谷友香"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 MVPに選ばれた店。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "a4bd726e",
@@ -61641,13 +61745,20 @@
     "lng": 139.7022,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の焼肉店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・新大久保編）で、小倉優子が合鴨の塩焼きなどを紹介した韓国料理店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "新大久保駅 徒歩3分",
-    "city": "新宿区"
+    "city": "新宿区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "杏",
+      "小倉優子"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "9343030b",
@@ -61664,12 +61775,19 @@
     "lng": 139.6994,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の飲食店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・新大久保編）で、ジャングルポケットが釣りあじ丼を紹介した店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "新宿区"
+    "city": "新宿区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "杏",
+      "ジャングルポケット"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "4eefdbb5",
@@ -61686,13 +61804,20 @@
     "lng": 139.7029,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都のラーメン店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・新大久保編）で、フォーリンデブはっしーが韓国式ジャージャー麺などを紹介した韓国料理店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "新大久保駅 徒歩4分",
-    "city": "新宿区"
+    "city": "新宿区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "杏",
+      "フォーリンデブはっしー"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "9d85a687",
@@ -61709,13 +61834,20 @@
     "lng": 139.779,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の居酒屋。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・上野編）で、えなりかずきがもつ焼きと〆のカレーラーメンを紹介したもつ焼き店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "上野駅 徒歩2分",
-    "city": "台東区"
+    "city": "台東区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "森泉",
+      "えなりかずき"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "50d01f75",
@@ -61732,13 +61864,20 @@
     "lng": 139.7797,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の居酒屋。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年10月28日放送・上野編）で、馬場ももこが牛すじカレーを紹介した焼き鳥店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
     "nearest_station": "上野駅 徒歩3分",
-    "city": "台東区"
+    "city": "台東区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "森泉",
+      "馬場ももこ"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "9b56b88f",
@@ -61755,12 +61894,19 @@
     "lng": 139.6499,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の居酒屋。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年6月23日・30日放送・高円寺編）で、馬場ももこが煮干しルーロー花椒油そばを紹介した焼き貝の店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "杉並区"
+    "city": "杉並区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "朝日奈央",
+      "馬場ももこ"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 MVPに選ばれた店。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "eaf09308",
@@ -61777,12 +61923,19 @@
     "lng": 139.6494,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都のラーメン店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年6月23日・30日放送・高円寺編）で、岡野陽一がコンクリラーメンを紹介したラーメン店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "杉並区"
+    "city": "杉並区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "朝日奈央",
+      "岡野陽一"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "b0e083de",
@@ -61799,12 +61952,19 @@
     "lng": 139.6508,
     "source_video_title": "街グルメをマジ探索!かまいまち（かまいたち）",
     "source_url": "https://announcer-news.com/fuji-kamaimachi",
-    "description": "東京都の飲食店。濱家隆一・山内健司が「街グルメをマジ探索!かまいまち（かまいたち）」で訪れた。",
+    "description": "かまいたちがMCの「街グルメをマジ探索!かまいまち」（2021年6月23日・30日放送・高円寺編）で、THIS IS パンがからあげ定食を紹介した店。",
     "members": [
-      "濱家隆一",
-      "山内健司"
+      "山内健司",
+      "濱家隆一"
     ],
-    "city": "杉並区"
+    "city": "杉並区",
+    "visit_kind": "own_tv",
+    "program": "街グルメをマジ探索!かまいまち（フジテレビ）",
+    "with": [
+      "朝日奈央",
+      "THIS IS パン"
+    ],
+    "qa_note": "出典は番組まとめサイト（announcer-news.com）。番組表の概要に、MCのかまいたちが審査員と街の店を一軒ずつめぐるとある。プレゼンは別の出演者。 2人がそれぞれの店で食べたかは放送で確かめていない。"
   },
   {
     "id": "19de7df0",
