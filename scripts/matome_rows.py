@@ -137,7 +137,7 @@ def main():
     for i in range(first_src, land):
         s = secs[i]
         h = title(s)
-        if 'メンバーで選ぶ' in h:
+        if any(w in h for w in ('メンバーで選ぶ', 'はじめての', '半日で', 'ひと目で')):
             continue
         kd = kind_of(h)
         cid = f'src{i}'
