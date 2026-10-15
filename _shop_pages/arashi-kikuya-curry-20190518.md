@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「キクヤ　カリー（Kikuya Curry）」"
-description: "嵐にしやがれで紹介された居酒屋「キクヤ　カリー（Kikuya Curry）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「キクヤ　カリー（Kikuya Curry）」"
+description: "嵐の冠番組『嵐にしやがれ』（2019年5月18日放送）の「出川哲朗 横浜グルメデスマッチ」で、この店の「ハンバーグカリー」がスタジオに登場した。"
 shop_id: "arashi-kikuya_curry-20190518"
 name: "キクヤ　カリー（Kikuya Curry）"
 genre: "izakaya"
@@ -15,10 +15,16 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14004143/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.447633
 lng: 139.628719
 members:
+  - "大野智"
   - "櫻井翔"
+  - "相葉雅紀"
+  - "二宮和也"
+  - "松本潤"
 groups:
   - "arashi"
 ---

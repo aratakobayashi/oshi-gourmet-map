@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「東陽町 大衆焼肉 暴飲暴食」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「東陽町 大衆焼肉 暴飲暴食」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#446【朝食!!】肉肉肉肉肉肉肉日」（2025年8月）で二宮和也・山田涼介・菊池風磨の3人が訪れた焼肉店。"
 shop_id: "yonino-bouinboshoku"
 name: "東陽町 大衆焼肉 暴飲暴食"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "#446【朝食!!】肉肉肉肉肉肉肉日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13298913/"
 thumbnail_url: "https://img.youtube.com/vi/T8i9WGaNkI8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.669582
 lng: 139.812579
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「丸デブ 総本店」"
-description: "丸デブ 総本店で紹介されたラーメン「丸デブ 総本店」（岐阜県岐阜市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の堀未央奈が『乃木坂ってどこ』で、加入前によく行っていたと話した岐阜の中華そば店。"
 shop_id: "nogizaka46-7b18f3dd-"
 name: "丸デブ 総本店"
 genre: "ramen"
@@ -14,8 +14,12 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/gifu/A2101/A210101/21006119/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
+visit_kind: "other"
+program: "乃木坂ってどこ"
 lat: 35.41899240792412
 lng: 136.75685661384523
+members:
+  - "堀未央奈"
 groups:
   - "nogizaka46"
 ---

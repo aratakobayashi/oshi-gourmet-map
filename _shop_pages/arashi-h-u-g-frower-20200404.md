@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「ハグフラワー ヨコハマ（h.u.g-frower）」"
-description: "嵐にしやがれで紹介されたスイーツ「ハグフラワー ヨコハマ（h.u.g-frower）」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「ハグフラワー ヨコハマ（h.u.g-frower）」"
+description: "嵐の冠番組『嵐にしやがれ』（2020年4月4日放送）の「浅田舞・真央 春のスイーツデスマッチ」で、この店の「チーズテリーヌ」がスタジオに登場した。"
 shop_id: "arashi-h_u_g_frower-20200404"
 name: "ハグフラワー ヨコハマ（h.u.g-frower）"
 genre: "sweets"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140104/14077103/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.4502452
 lng: 139.6401312
 members:

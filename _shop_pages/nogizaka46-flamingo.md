@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「FLAMINGO」"
-description: "フラミンゴ【ロマンスのスタート・逃げ水】で紹介されたカフェ「FLAMINGO」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46「ロマンスのスタート」のMVのほか、和田まあやの個人PV（「ハルジオンが咲く頃」収録）や「逃げ水」通常盤のジャケット写真の撮影に使われた渋谷のカフェ。"
 shop_id: "nogizaka46-flamingo-"
 name: "FLAMINGO"
 genre: "cafe"
@@ -13,6 +13,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13163978/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
+visit_kind: "drama"
+program: "乃木坂46「ロマンスのスタート」MV"
 lat: 35.66271458550734
 lng: 139.6969339859181
 groups:

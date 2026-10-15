@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「胡同 西麻布店」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「胡同 西麻布店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#361【ガチ!!】飯回でかなり素に近い日」（2024年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れた韓国料理・焼肉の店。"
 shop_id: "yonino-hutong-nishiazabu"
 name: "胡同 西麻布店"
 genre: "yakiniku"
@@ -14,6 +14,8 @@ source_video_title: "#361【ガチ!!】飯回でかなり素に近い日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130703/13033496/"
 thumbnail_url: "https://img.youtube.com/vi/BZwFY5MOyMI/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6578
 lng: 139.7278
 members:

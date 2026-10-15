@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「カフェアンドバー サボテン」"
-description: "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島のカフェバー（5軒目）。"
+description: "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と5軒目に入ったカフェバー。"
 shop_id: "kingprince-25d8fc80-"
 name: "カフェアンドバー サボテン"
 genre: "cafe"
@@ -15,11 +15,11 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27140807/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
 visit_kind: "guest_tv"
-program: "笑ってコラえて！"
+program: "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）"
 lat: 34.695682012667824
 lng: 135.488379430334
 members:
-  - "西畑大吾"
+  - "正門良規"
 groups:
   - "agroup"
   - "kingprince"

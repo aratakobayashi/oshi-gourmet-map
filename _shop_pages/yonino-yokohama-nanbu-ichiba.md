@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「横浜南部市場 食の専門店街」"
-description: "よにのちゃんねるのYouTubeで紹介されたその他「横浜南部市場 食の専門店街」（神奈川県横浜市金沢区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#326【案件!?】奢り確変に入った日」（2024年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れた市場の飲食店街。"
 shop_id: "yonino-yokohama-nanbu-ichiba"
 name: "横浜南部市場 食の専門店街"
 genre: "others"
@@ -15,6 +15,8 @@ source_video_title: "#326【案件!?】奢り確変に入った日"
 source_video_url: "https://www.youtube.com/watch?v=U_byUL7d-eY"
 group: "yonino"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140310/14086910/"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.3733
 lng: 139.6403
 members:

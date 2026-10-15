@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草もんじゃ てっぱん大吉」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「浅草もんじゃ てっぱん大吉」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#490【2025!!】忘年会しでた！の日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたもんじゃ焼き店。"
 shop_id: "yonino-teppan-daikichi"
 name: "浅草もんじゃ てっぱん大吉"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "#490【2025!!】忘年会しでた！の日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13155420/"
 thumbnail_url: "https://img.youtube.com/vi/922iF4MBP0E/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.717597
 lng: 139.797563
 members:

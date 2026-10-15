@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「BLTステーキ 銀座」"
-description: "2016.07.20 グルメ探偵調査で紹介された焼肉「BLTステーキ 銀座」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「脱落グルメ！超くい亭」（2016年7月20日放送）にプレミアム・リブアイステーキが登場した店。"
 shop_id: "heysayjump-blt-20160720"
 name: "BLTステーキ 銀座"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13181490/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.670113
 lng: 139.765481
 members:

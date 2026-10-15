@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ブルーボトルコーヒー 新宿カフェ」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「ブルーボトルコーヒー 新宿カフェ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#399【山田回!!】山田が山田で山田だった日」（2025年2月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。"
 shop_id: "yonino-blue-bottle-shinjuku"
 name: "ブルーボトルコーヒー 新宿カフェ"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#399【山田回!!】山田が山田で山田だった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13193547/"
 thumbnail_url: "https://img.youtube.com/vi/HVxmVgBcpCY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6891
 lng: 139.7009
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「府中いちご狩り園」"
-description: "=LOVEのYouTubeで紹介された食事「府中いちご狩り園」（東京都府中市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの佐々木舞香と山本杏奈が、2人のYouTube「イコラブのあんまい」の「【完全プライベート】あんまいでいちごを狩る」（2023年4月）で訪れたいちご狩り園。"
 shop_id: "equal_love-fddf14d2-20240815"
 name: "府中いちご狩り園"
 genre: "shokuji"
@@ -13,6 +13,8 @@ youtube_id: "aD0Q4-d-Ntg"
 source_video_title: "【完全プライベート】あんまいでいちごを狩る"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13243991/"
+visit_kind: "youtube"
+program: "イコラブのあんまい"
 lat: 35.6700214
 lng: 139.4652109
 members:

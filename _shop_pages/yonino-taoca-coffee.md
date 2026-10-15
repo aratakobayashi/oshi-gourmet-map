@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「TAOCA COFFEE 南青山店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「TAOCA COFFEE 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#477【新誕!!】お金払いチャンネルの日」（2025年11月）で二宮和也・山田涼介・菊池風磨の3人が訪れたコーヒー店。"
 shop_id: "yonino-taoca-coffee"
 name: "TAOCA COFFEE 南青山店"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#477【新誕!!】お金払いチャンネルの日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13306376/"
 thumbnail_url: "https://img.youtube.com/vi/FUZpjh8sXoE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.66483
 lng: 139.718338
 members:

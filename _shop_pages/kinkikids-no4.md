@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "カフェ NO4"
-description: "KinKi Kidsのブンブブーン 市ヶ谷 カフェ＆ベーカリーで紹介されたカフェ「カフェ NO4」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』の焼きたてパン企画で、ももいろクローバーZとロケをした市ヶ谷・四番町のカフェ＆ベーカリー。"
 shop_id: "kinkikids-no4-"
 name: "カフェ NO4"
 genre: "cafe"
@@ -13,6 +13,8 @@ source_video_title: "KinKi Kidsのブンブブーン 市ヶ谷 カフェ＆ベ�
 source_url: "https://news.yahoo.co.jp/expert/articles/90ff51745144a5e5e1b45f77a1aff915a90eca32"
 group: "kinkikids"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
+visit_kind: "own_tv"
+program: "KinKi Kidsのブンブブーン"
 lat: 35.689056
 lng: 139.737847
 members:

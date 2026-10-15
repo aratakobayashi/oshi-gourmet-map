@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Paul Bassett 新宿」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Paul Bassett 新宿」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#422 【ドライブ!!】ダラダラと…ありがとうございますの日」（2025年5月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。"
 shop_id: "yonino-paul-bassett-shinjuku"
 name: "Paul Bassett 新宿"
 genre: "cafe"
@@ -18,6 +18,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000660203/"
 thumbnail_url: "https://img.youtube.com/vi/FsiF7DW603g/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/73/P015966673/P015966673_238.jpg"
 seating_note: "カウンター席中心。ビルB1Fの落ち着いた空間で、動画ではカウンターに並んで注文する場面が収録されている。"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.694466
 lng: 139.697597
 members:

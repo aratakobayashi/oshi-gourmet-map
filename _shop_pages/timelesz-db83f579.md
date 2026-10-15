@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「団五郎茶屋」"
-description: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）で紹介された食事「団五郎茶屋」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、菊池風磨と橋本将生が伊勢・おかげ横丁で立ち寄り、松阪牛の牛串やおにぎりを食べた茶屋。"
 shop_id: "timelesz-db83f579-"
 name: "団五郎茶屋"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-locat
 group: "timelesz"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24002012/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+visit_kind: "own_tv"
+program: "タイムレスマン"
 lat: 34.4622938
 lng: 136.7227647
 members:

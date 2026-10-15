@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「焼肉 冷麺 ユッチャン。銀座店」"
-description: "亀梨和也のYouTubeで紹介された焼肉「焼肉 冷麺 ユッチャン。銀座店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【ぼっち】亀梨和也の1人ごはん。ハワイの思い出の冷麺を食べてガッツポーズ。」（2024年8月）で、1人ごはんの回で、ハワイの思い出の冷麺を食べた銀座の焼肉・冷麺店。"
 shop_id: "kamenashi-814e2aa9-202408"
 name: "焼肉 冷麺 ユッチャン。銀座店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "【ぼっち】亀梨和也の1人ごはん。ハワイの�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13261510/"
 thumbnail_url: "https://img.youtube.com/vi/47QSe1T9ffo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6709612
 lng: 139.7643214
 members:

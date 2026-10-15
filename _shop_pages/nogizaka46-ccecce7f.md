@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「数寄屋橋茶房」"
-description: "東急プラザ銀座 キリコラウンジ【インフルエンサー】で紹介されたカフェ「数寄屋橋茶房」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の17thシングル「インフルエンサー」のMVでメインのダンスシーンが撮影された、東急プラザ銀座のカフェ。"
 shop_id: "nogizaka46-ccecce7f-"
 name: "数寄屋橋茶房"
 genre: "cafe"
@@ -14,6 +14,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13192924/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
+visit_kind: "drama"
+program: "乃木坂46「インフルエンサー」MV"
 lat: 35.67247830472346
 lng: 139.7629108347859
 groups:

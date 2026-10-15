@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「汁いち」"
-description: "2016.10.26 秋のバスツアーおすすめグルメで紹介されたラーメン「汁いち」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「この秋オススメ！○○すぎるバスツアー」（2016年10月26日放送）で、髙木雄也・有岡大貴・八乙女光が立ち寄ったおでん店。冷やしおでんが登場した。"
 shop_id: "heysayjump-ca6f693e-20161026"
 name: "汁いち"
 genre: "ramen"
@@ -15,11 +15,14 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140101/14013332/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.4714623
 lng: 139.6159175
 members:
   - "髙木雄也"
   - "有岡大貴"
+  - "八乙女光"
 groups:
   - "heysayjump"
 ---

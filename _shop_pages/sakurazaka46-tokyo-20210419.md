@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "櫻坂46が行った「麻婆豆腐TOKYO 神田本店」"
-description: "そこ曲がったら、櫻坂？で紹介されたその他「麻婆豆腐TOKYO 神田本店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+title: "櫻坂46『そこ曲がったら、櫻坂？』に登場した「麻婆豆腐TOKYO 神田本店」"
+description: "櫻坂46の冠番組『そこ曲がったら、櫻坂？』の「まだ出していない私の一面発表会！！前半」（2021年4月19日放送）で、激辛クイーンの座をかけて菅井友香・守屋茜・原田葵・大園玲が麻婆豆腐を食べた店。"
 shop_id: "sakurazaka46-tokyo-20210419"
 name: "麻婆豆腐TOKYO 神田本店"
 genre: "others"
@@ -18,6 +18,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001233156/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/igAqJfbZqCLNTFkdA17Af7WpBql.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/15/81/P034701581/P034701581_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "そこ曲がったら、櫻坂？"
 lat: 35.69329133790337
 lng: 139.76762678334364
 members:

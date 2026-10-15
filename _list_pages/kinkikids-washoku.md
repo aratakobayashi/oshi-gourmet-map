@@ -10,7 +10,6 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 related_genres:
   - kinkikids-shokuji
   - kinkikids-sweets
-  - kinkikids-yakiniku
 related_groups:
   - jinsei-saiko-washoku
   - otonatabi-washoku

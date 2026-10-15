@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「かおたんラーメンえんとつ屋 南青山店」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「かおたんラーメンえんとつ屋 南青山店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#387 【朝食!!】広い意味で正解な日」（2025年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れたラーメン店。"
 shop_id: "yonino-kaotan-ramen"
 name: "かおたんラーメンえんとつ屋 南青山店"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "#387 【朝食!!】広い意味で正解な日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13001896/"
 thumbnail_url: "https://img.youtube.com/vi/5lDHj8PXno8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.667268
 lng: 139.72226
 members:

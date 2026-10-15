@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「佐野みそ 亀戸本店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「佐野みそ 亀戸本店」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#400 【祝!400回!!】なのに通常運転だった日」（2025年2月）で二宮和也・山田涼介・菊池風磨の3人が味噌を味見した味噌の専門店。"
 shop_id: "yonino-sanomiso-kameido"
 name: "佐野みそ 亀戸本店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#400 【祝!400回!!】なのに通常運転だった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131202/13120730/"
 thumbnail_url: "https://img.youtube.com/vi/bXq2vtpe7lQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.697352
 lng: 139.826678
 members:

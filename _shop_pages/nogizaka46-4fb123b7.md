@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「和風レストラン 松竹」"
-description: "乃木坂46のYouTubeで紹介されたその他「和風レストラン 松竹」（岩手県一関市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の公式YouTube「乃木坂配信中」（2023年9月）で、岩手公演の翌日に梅澤美波・川﨑桜・佐藤璃果が佐藤璃果の母のおすすめで訪れた一関の和食店。"
 shop_id: "nogizaka46-4fb123b7-"
 name: "和風レストラン 松竹"
 genre: "others"
@@ -17,8 +17,14 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/iwate/A0303/A030301/3004228/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000271881/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/87/P025996887/P025996887_238.jpg"
+visit_kind: "youtube"
+program: "乃木坂配信中"
 lat: 38.928782
 lng: 141.138057
+members:
+  - "梅澤美波"
+  - "川﨑桜"
+  - "佐藤璃果"
 groups:
   - "nogizaka46"
 ---

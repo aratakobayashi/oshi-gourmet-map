@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「ヨゴロウ（YOGORO）」"
-description: "嵐にしやがれで紹介された食事「ヨゴロウ（YOGORO）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「ヨゴロウ（YOGORO）」"
+description: "嵐の冠番組『嵐にしやがれ』（2019年7月13日放送）の「IKKOが叫ぶ！大好物デスマッチ」で、この店の「ほうれん草のチキンカレー」がスタジオに登場した。"
 shop_id: "arashi-yogoro-20190713"
 name: "ヨゴロウ（YOGORO）"
 genre: "shokuji"
@@ -15,6 +15,8 @@ group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13076645/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 35.6692039
 lng: 139.7072847
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「回転わんこそば くるくるわんこ」"
-description: "=LOVEのYouTubeで紹介された和食「回転わんこそば くるくるわんこ」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里・齋藤樹愛羅・瀧脇笙古が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【イコラブ大食い大会】早朝から大食い！アイドルの限界に挑戦！【わんこそば】」（2022年9月）で訪れたわんこそば店。開店前の店を借りて大食い大会をした回。"
 shop_id: "equal_love-a1e545b6-202408"
 name: "回転わんこそば くるくるわんこ"
 genre: "washoku"
@@ -16,6 +16,8 @@ group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13273517/"
 tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/r57aY-wm1k8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6953799
 lng: 139.7017233
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「浅草今半 国際通り本店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「浅草今半 国際通り本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#366【夜飯!!】打ち上げをしてみた日」（2024年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れたすき焼き店。"
 shop_id: "yonino-imahan-asakusa"
 name: "浅草今半 国際通り本店"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=6P0AAnD0R8E"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13003649/"
 thumbnail_url: "https://img.youtube.com/vi/4gt1nSNPmSQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7155
 lng: 139.7924
 members:

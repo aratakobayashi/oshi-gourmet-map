@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「鮨文」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「鮨文」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#464【朝飯!!】シースの日」（2025年10月）で二宮和也・山田涼介・菊池風磨の3人が訪れた寿司店。"
 shop_id: "yonino-sushi-bun"
 name: "鮨文"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "#464【朝飯!!】シースの日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131307/13228423/"
 thumbnail_url: "https://img.youtube.com/vi/WKk-0zqTC74/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.647432
 lng: 139.785031
 members:

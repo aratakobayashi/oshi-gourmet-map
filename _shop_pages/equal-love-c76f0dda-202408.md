@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「雷本店」"
-description: "=LOVEのYouTubeで紹介された食事「雷本店」（千葉県松戸市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【ラー活】この二郎系ラーメン、本当にやばい。【雷本店】」（2023年6月）で訪れたラーメン店。"
 shop_id: "equal_love-c76f0dda-202408"
 name: "雷本店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【ラー活】この二郎系ラーメン、本当にや�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/chiba/A1203/A120302/12020862/"
 thumbnail_url: "https://img.youtube.com/vi/MYDcp3vSmxI/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.801834
 lng: 139.915647
 members:

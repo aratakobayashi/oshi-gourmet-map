@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "timeleszが行った「cocochiyo cafe」"
-description: "timeleszファミリア 地頭王決定戦（2025年11月24日 日本テレビ）で紹介されたカフェ「cocochiyo cafe」（東京都新宿区）。推し活グルメ巡礼スポット。"
+title: "timelesz『timeleszファミリア』に登場した「cocochiyo cafe」"
+description: "timeleszの冠番組『timeleszファミリア』の地頭王決定戦（2025年11月24日 日本テレビ）で、優勝した菊池風磨がご褒美に食べたプリンの店。"
 shop_id: "timelesz-cocochiyo_cafe-20251125"
 name: "cocochiyo cafe"
 genre: "cafe"
@@ -16,6 +16,8 @@ group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130402/13177228/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001116932/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/20/P040566320/P040566320_238.jpg"
+visit_kind: "own_tv"
+program: "timeleszファミリア"
 lat: 35.6895408
 lng: 139.7130248
 members:

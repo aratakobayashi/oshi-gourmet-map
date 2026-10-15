@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "King & Princeが行った「お酒とイタリやん」"
-description: "『笑ってコラえて！』（2024年8月28日放送）の朝までハシゴの旅で、西畑大吾が永瀬廉・正門良規とハシゴした大阪・福島のイタリアン居酒屋（4軒目）。"
+description: "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と4軒目に入ったイタリアンの酒場。"
 shop_id: "kingprince-66d643bc-"
 name: "お酒とイタリやん"
 genre: "others"
@@ -15,11 +15,11 @@ group: "kingprince"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27129373/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
 visit_kind: "guest_tv"
-program: "笑ってコラえて！"
+program: "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）"
 lat: 34.69434072904749
 lng: 135.48647352770016
 members:
-  - "西畑大吾"
+  - "正門良規"
 groups:
   - "agroup"
   - "kingprince"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "賛田飯店"
-description: "agroupのYouTubeで紹介された中華「賛田飯店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「被っちゃダメよグルメ～高級中華編」（2024年11月）で5人が料理を選び合った六本木の中華料理店。"
 shop_id: "agroup-9098e43b-"
 name: "賛田飯店"
 genre: "chuka"
@@ -17,14 +17,15 @@ group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13290682/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003693216/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.6618167387185
 lng: 139.73550628421
 members:
   - "正門良規"
-  - "草間リチャード敬太"
   - "末澤誠也"
+  - "草間リチャード敬太"
   - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

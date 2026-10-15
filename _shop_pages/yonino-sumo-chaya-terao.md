@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「相撲茶屋 寺尾」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「相撲茶屋 寺尾」（東京都墨田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#336【朝飯!!】ちゃんこはええで…の日」（2024年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたちゃんこ鍋店。"
 shop_id: "yonino-sumo-chaya-terao"
 name: "相撲茶屋 寺尾"
 genre: "washoku"
@@ -18,10 +18,13 @@ tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13002969/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000843251/"
 thumbnail_url: "https://img.youtube.com/vi/ZxvmVJeY39U/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/48/P042643348/P042643348_238.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6966
 lng: 139.794
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

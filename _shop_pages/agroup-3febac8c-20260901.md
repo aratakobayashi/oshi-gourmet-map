@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ジョナサン 武蔵小山店"
-description: "agroupのYouTubeで紹介された食事「ジョナサン 武蔵小山店」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの「被っちゃダメよ」（2026年9月）で、井ノ原快彦と4人がメニューを選び合ったファミリーレストラン。"
 shop_id: "agroup-3febac8c-20260901"
 name: "ジョナサン 武蔵小山店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=xvd3jFym8r4"
 source_url: "https://kosodate-and.net/agroup-jonathan/"
 group: "agroup"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.616455
 lng: 139.70755
 members:

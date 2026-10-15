@@ -1,11 +1,11 @@
 ---
-title: "櫻坂46のグルメ聖地巡礼｜行ったお店（そのほか）9選"
-description: "櫻坂46のメンバーが実際に訪れたその他スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "櫻坂46のグルメ聖地巡礼｜行ったお店（そのほか）7選"
+description: "櫻坂46のメンバーが実際に訪れたその他スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sakurazaka46
 genre: others
 group_label: "櫻坂46"
 slug_id: sakurazaka46-others
-shop_count: 9
+shop_count: 7
 group_color: "#e11d48"
 group_bio: "櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/n7Ag35a1d0MBDDEWSzOgBEzLfjz.jpg"

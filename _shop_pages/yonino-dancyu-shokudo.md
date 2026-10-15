@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「dancyu食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「dancyu食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#369【イノッチ祭!!】とんでもない思い出が出てきた日」（2024年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの井ノ原快彦と訪れた定食店。"
 shop_id: "yonino-dancyu-shokudo"
 name: "dancyu食堂"
 genre: "washoku"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=vO_Gv00-3-M"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130201/13271151/"
 thumbnail_url: "https://img.youtube.com/vi/-wKcQcQ33Vo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6828
 lng: 139.7701
 members:

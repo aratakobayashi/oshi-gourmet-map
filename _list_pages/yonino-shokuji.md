@@ -12,7 +12,7 @@ youtube_id: SSMGkVmGtsM
 related_genres:
   - yonino-washoku
   - yonino-cafe
-  - yonino-others
+  - yonino-ramen
 related_groups:
   - jinsei-saiko-shokuji
   - burari-shokuji

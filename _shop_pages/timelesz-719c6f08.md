@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「マリオンクレープ 東京タワー店」"
-description: "タイムレスマン「アーユーハングリーマン」（2025年8月26日・9月2日 フジテレビ）で紹介されたスイーツ「マリオンクレープ 東京タワー店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "timeleszの冠番組『タイムレスマン』の企画「アーユーハングリーマン」完結編（2025年9月2日）で、松島聡と猪俣周杜がアメリカ人の家族と訪れ、クレープを食べた東京タワーのクレープ店。"
 shop_id: "timelesz-719c6f08-"
 name: "マリオンクレープ 東京タワー店"
 genre: "sweets"
@@ -15,6 +15,8 @@ source_url: "https://oshikatsu-time.com/timelesz-timeleszman-are-you-hungry-man-
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13311076/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+visit_kind: "own_tv"
+program: "タイムレスマン"
 lat: 35.6564572
 lng: 139.7481
 members:

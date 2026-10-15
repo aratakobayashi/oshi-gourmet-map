@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「らうめん侍 本丸」"
-description: "=LOVEのYouTubeで紹介されたラーメン「らうめん侍 本丸」（石川県金沢市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【休日Vlog】金沢でおいしいものをひたすら食べまくりました」（2023年12月）で訪れたラーメン店。"
 shop_id: "equal_love-7cbba11a-202408"
 name: "らうめん侍 本丸"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "【休日Vlog】金沢でおいしいものをひたすら�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17000958/"
 thumbnail_url: "https://img.youtube.com/vi/6loT5JM_yQo/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 36.5790275
 lng: 136.6465437
 members:

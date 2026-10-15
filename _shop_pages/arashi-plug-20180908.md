@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "嵐が行った「PLUG」"
-description: "嵐にしやがれで紹介された食事「PLUG」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「PLUG」"
+description: "嵐の冠番組『嵐にしやがれ』（2018年9月8日放送）の「間宮祥太朗＆加藤諒 たまご料理デスマッチ」で、この店の「ライスカルボナーラ」がスタジオに登場した。"
 shop_id: "arashi-plug-20180908"
 name: "PLUG"
 genre: "shokuji"
@@ -17,6 +17,8 @@ hotpepper_url: "https://www.hotpepper.jp/strJ001127835/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/62/59/P038176259/P038176259_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
 lat: 34.7074828
 lng: 135.5036637
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「SKOOKUM HOTDOG DINER」"
-description: "かまいガチ 1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で紹介された食事「SKOOKUM HOTDOG DINER」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "『かまいガチ』1時間SP「ちょうど5kg太るねん」（2025年6月15日 テレビ朝日）で、timeleszの橋本将生と篠塚大輝が濱家隆一と訪れ、チリドッグを食べたホットドッグ店。"
 shop_id: "timelesz-skookum_hotdog_diner-20250615"
 name: "SKOOKUM HOTDOG DINER"
 genre: "shokuji"
@@ -14,6 +14,8 @@ source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-shinozukataiki-
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13263964/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
+visit_kind: "guest_tv"
+program: "かまいガチ"
 lat: 35.647236
 lng: 139.69722
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Juicer Bar 新幹線新大阪店」"
-description: "=LOVEのYouTubeで紹介された食事「Juicer Bar 新幹線新大阪店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「みりにゃに1日完全密着してみた」（2025年8月）で訪れたジュースの店。関西コレクション出演日の密着回。"
 shop_id: "equal_love-juicer_bar-202508"
 name: "Juicer Bar 新幹線新大阪店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "みりにゃに1日完全密着してみた"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270301/27068279/"
 thumbnail_url: "https://img.youtube.com/vi/eqfZmabiZ0A/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 34.7313185
 lng: 135.500552
 members:

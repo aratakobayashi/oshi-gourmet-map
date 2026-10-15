@@ -28,7 +28,7 @@ def norm(s):
 
 
 def kind_of(h):
-    if 'YouTube' in h or 'チャンネル' in h:
+    if 'YouTube' in h or 'チャンネル' in h or 'CHANNEL' in h:
         return 'yt'
     if 'ドラマ' in h or 'ロケ地' in h:
         return 'drama'

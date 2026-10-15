@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Le Pain Quotidien 東京ミッドタウン店」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Le Pain Quotidien 東京ミッドタウン店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#354【朝食!!】RIKACO(さん)に会った日」（2024年9月）で二宮和也・山田涼介・菊池風磨の3人が朝食に訪れたベーカリーレストラン。店でRIKACOに会った。"
 shop_id: "yonino-le-pain-quotidien"
 name: "Le Pain Quotidien 東京ミッドタウン店"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#354【朝食!!】RIKACO(さん)に会った日"
 source_video_url: "https://www.youtube.com/watch?v=Yf1rU96X3Lw"
 group: "yonino"
 thumbnail_url: "https://img.youtube.com/vi/Oe3fdhOhEnc/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6649
 lng: 139.7306
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大人食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「大人食堂」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#455 【自発光!!】数少ない心を許せる後輩の日」（2025年9月）で二宮和也・山田涼介がゲストの道枝駿佑と訪れた定食店。"
 shop_id: "yonino-otona-shokudo"
 name: "大人食堂"
 genre: "washoku"
@@ -17,12 +17,13 @@ tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13241610/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001263941/"
 thumbnail_url: "https://img.youtube.com/vi/gTzHfVLn3Ro/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/30/P037380230/P037380230_238.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.692027
 lng: 139.706501
 members:
   - "二宮和也"
   - "山田涼介"
-  - "菊池風磨"
 groups:
   - "yonino"
 tags:

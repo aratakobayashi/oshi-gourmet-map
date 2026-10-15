@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「大3木（ダイサンボク）」"
-description: "よにのちゃんねるのYouTubeで紹介された居酒屋「大3木（ダイサンボク）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#308【えっ!!】唐揚げがなくなった日」（2024年3月）で二宮和也・山田涼介・菊池風磨の3人が訪れた唐揚げの店。"
 shop_id: "yonino-daisanboku-aoyama"
 name: "大3木（ダイサンボク）"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_video_title: "#308【えっ!!】唐揚げがなくなった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13291288/"
 thumbnail_url: "https://img.youtube.com/vi/y2_U3Ys2fUc/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6689
 lng: 139.7253
 members:

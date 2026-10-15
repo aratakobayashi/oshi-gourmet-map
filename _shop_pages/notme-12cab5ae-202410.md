@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「焼肉トラジ 池袋東口店」"
-description: "≠MEのYouTubeで紹介された焼肉「焼肉トラジ 池袋東口店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の最初の動画「大好きなお肉を好きなだけ食べる」（2024年10月）で、1人焼肉をした池袋の焼肉店。"
 shop_id: "notme-12cab5ae-202410"
 name: "焼肉トラジ 池袋東口店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "大好きなお肉を好きなだけ食べる"
 group: "notme"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13155152/"
 thumbnail_url: "https://img.youtube.com/vi/Btsp0ae5Tzc/hqdefault.jpg"
+visit_kind: "youtube"
+program: "わたしはすずき。"
 lat: 35.7265922
 lng: 139.7157472
 members:

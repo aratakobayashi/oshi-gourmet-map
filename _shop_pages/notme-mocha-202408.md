@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「猫カフェ MOCHA 原宿店」"
-description: "≠MEのYouTubeで紹介されたカフェ「猫カフェ MOCHA 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "≠MEの公式YouTubeの「【もふもふ】猫カフェデートしてきました♡【癒し】」（2020年11月）で、菅波美玲と谷崎早耶が訪れた原宿の猫カフェ。"
 shop_id: "notme-mocha-202408"
 name: "猫カフェ MOCHA 原宿店"
 genre: "cafe"
@@ -14,6 +14,8 @@ youtube_id: "Iz_DvhCMMwU"
 source_video_title: "【もふもふ】猫カフェデートしてきました♡【癒し】"
 group: "notme"
 thumbnail_url: "https://img.youtube.com/vi/Iz_DvhCMMwU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.671513
 lng: 139.7057319
 members:

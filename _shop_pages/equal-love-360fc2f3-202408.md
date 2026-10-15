@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「磯丸水産 初台南口店」"
-description: "=LOVEのYouTubeで紹介された和食「磯丸水産 初台南口店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【Vlog】みりにゃのとある休日。」（2023年7月）で訪れた海鮮居酒屋。"
 shop_id: "equal_love-360fc2f3-202408"
 name: "磯丸水産 初台南口店"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "【Vlog】みりにゃのとある休日。"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1328/A132801/13183462/"
 thumbnail_url: "https://img.youtube.com/vi/t_uRDbGf36E/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.6798471
 lng: 139.6866238
 members:

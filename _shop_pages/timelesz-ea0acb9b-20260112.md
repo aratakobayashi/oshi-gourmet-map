@@ -1,7 +1,7 @@
 ---
 layout: shop
-title: "timeleszが行った「宮わき」"
-description: "timeleszファミリア 究極の2択ダイニング（2026年1月12日 日本テレビ）で紹介された和食「宮わき」（東京都港区）。推し活グルメ巡礼スポット。"
+title: "timelesz『timeleszファミリア』に登場した「宮わき」"
+description: "timeleszの冠番組『timeleszファミリア』（2026年1月12日 日本テレビ）の「究極の2択ダイニング」で、この店の炊き込みご飯が選択肢として出された日本料理店。"
 shop_id: "timelesz-ea0acb9b-20260112"
 name: "宮わき"
 genre: "washoku"
@@ -15,11 +15,13 @@ source_url: "https://www.tvguide.or.jp/news/news-4277176/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13276093/"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "timeleszファミリア"
 lat: 35.6537504
 lng: 139.7416761
 members:
-  - "菊池風磨"
   - "佐藤勝利"
+  - "菊池風磨"
   - "松島聡"
   - "寺西拓人"
   - "原嘉孝"

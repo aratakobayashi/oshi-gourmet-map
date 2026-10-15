@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「金沢まいもん寿司 珠姫 玉川高島屋S･C店」"
-description: "=LOVEのYouTubeで紹介された和食「金沢まいもん寿司 珠姫 玉川高島屋S･C店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【1日密着】こんな感じでお仕事してます！みりにゃの裏側大公開」（2023年4月）で訪れた寿司店。仕事の日の1日密着の回。"
 shop_id: "equal_love-sc-202506"
 name: "金沢まいもん寿司 珠姫 玉川高島屋S･C店"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "【1日密着】こんな感じでお仕事してます！�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131708/13009772/"
 thumbnail_url: "https://img.youtube.com/vi/rI97Y8OW8K0/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.6141434
 lng: 139.6247439
 members:

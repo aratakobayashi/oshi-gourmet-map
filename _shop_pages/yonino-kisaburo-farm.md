@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「喜三郎農場」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「喜三郎農場」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#474【コラボ!!】三男と四男が人見知り発動の日」（2025年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの杏と訪れた卵料理・親子丼の店。"
 shop_id: "yonino-kisaburo-farm"
 name: "喜三郎農場"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#474【コラボ!!】三男と四男が人見知り発動�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13093220/"
 thumbnail_url: "https://img.youtube.com/vi/cKNFpRk1_kU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.726285
 lng: 139.745581
 members:

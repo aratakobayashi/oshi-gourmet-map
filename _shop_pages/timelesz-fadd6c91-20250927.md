@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「松阪まるよし 鎌田本店」"
-description: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）で紹介された和食「松阪まるよし 鎌田本店」（三重県松阪市）。推し活グルメ巡礼スポット。"
+description: "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、菊池風磨・橋本将生を除く6人が番組用の特製ステーキ丼を食べた松阪牛の店。"
 shop_id: "timelesz-fadd6c91-20250927"
 name: "松阪まるよし 鎌田本店"
 genre: "washoku"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/mie/A2401/A240102/24000603/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001027027/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/92/59/P020309259/P020309259_238.jpg"
+visit_kind: "own_tv"
+program: "タイムレスマン"
 lat: 34.581501
 lng: 136.535568
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「Pacific DRIVE-IN」"
-description: "=LOVEのYouTubeで紹介された食事「Pacific DRIVE-IN」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの音嶋莉沙と瀧脇笙古が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【自由】しょこりさ鎌倉旅！海沿いのカフェでひたすらおしゃべりしたよ【#しょこりさの日常】【鎌倉旅#2】」（2023年5月）で訪れたレストラン。鎌倉旅の後編。"
 shop_id: "equal_love-pacific_drivein-20240809"
 name: "Pacific DRIVE-IN"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【自由】しょこりさ鎌倉旅！🚃♡海沿いの�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14057844/"
 thumbnail_url: "https://img.youtube.com/vi/dX1BJYop8aQ/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.3072853
 lng: 139.5128395
 members:

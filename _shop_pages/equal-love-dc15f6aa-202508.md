@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「（有）丸福食堂」"
-description: "=LOVEのYouTubeで紹介された食事「（有）丸福食堂」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「旅行に来たのに着替えを全部忘れたみりにゃ【緊急1万円コーデ企画】」（2025年8月）で訪れた食堂。熱海旅行の前編。"
 shop_id: "equal_love-dc15f6aa-202508"
 name: "（有）丸福食堂"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "旅行に来たのに着替えを全部忘れたみりに�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22015003/"
 thumbnail_url: "https://img.youtube.com/vi/7N3fbKMpQaU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.1033354
 lng: 139.0782748
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "櫻坂46が行った「ふくちゃんラーメン 田隈本店」"
-description: "櫻坂46のYouTubeで紹介されたラーメン「ふくちゃんラーメン 田隈本店」（福岡県福岡市早良区）。推し活グルメ巡礼スポット。"
+description: "櫻坂46の公式YouTube「櫻坂チャンネル」の「的野・山下の日本ラーメン旅 福岡編【第2弾】」（2024年3月）で、的野美青と山下瞳月がとんこつラーメンを食べた福岡の老舗ラーメン店。"
 shop_id: "sakurazaka46-abfde076-20240321"
 name: "ふくちゃんラーメン 田隈本店"
 genre: "ramen"
@@ -17,6 +17,8 @@ group: "sakurazaka46"
 hotpepper_url: "https://www.hotpepper.jp/strJ000112750/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/26/92/P018242692/P018242692_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "櫻坂チャンネル"
 lat: 33.547215
 lng: 130.336853
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「一蘭 原宿店」"
-description: "亀梨和也のYouTubeで紹介されたラーメン「一蘭 原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。」（2024年10月）で、Snow Manの宮舘涼太と、数年ぶりに一蘭でラーメンを食べた回の店舗。"
 shop_id: "kamenashi-0a3faf7a-202410"
 name: "一蘭 原宿店"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "【数年ぶり】Snow Man ダテっちょと念願の一�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13125736/"
 thumbnail_url: "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6679219
 lng: 139.7052087
 members:

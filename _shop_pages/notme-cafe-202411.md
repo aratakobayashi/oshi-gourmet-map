@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "≠MEが行った「タコライスcafe きじむなぁ デポアイランド店」"
-description: "≠MEのYouTubeで紹介されたカフェ「タコライスcafe きじむなぁ デポアイランド店」（沖縄県中頭郡北谷町）。推し活グルメ巡礼スポット。"
+description: "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】沖縄🌺アメリカンビレッジで遊んできたよ〜」（2024年11月）で、ツアーの自由時間に訪れた北谷町アメリカンビレッジのタコライスのカフェ。"
 shop_id: "notme-cafe-202411"
 name: "タコライスcafe きじむなぁ デポアイランド店"
 genre: "cafe"
@@ -16,6 +16,8 @@ tabelog_url: "https://tabelog.com/okinawa/A4703/A470304/47007592/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000987614/"
 thumbnail_url: "https://img.youtube.com/vi/ZwwzPBGFK5c/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/03/P028996503/P028996503_238.jpg"
+visit_kind: "youtube"
+program: "わたしはすずき。"
 lat: 26.3270896
 lng: 127.7538362
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「デモデダイナー 福生店」"
-description: "デモデダイナー 福生店【バレッタ】で紹介された居酒屋「デモデダイナー 福生店」（東京都福生市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の7thシングル「バレッタ」のジャケット写真の撮影に使われた福生のアメリカンダイナー。"
 shop_id: "nogizaka46-76d7ba94-"
 name: "デモデダイナー 福生店"
 genre: "izakaya"
@@ -14,6 +14,8 @@ group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1330/A133001/13010205/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 source_type: "tv"
+visit_kind: "drama"
+program: "乃木坂46「バレッタ」ジャケット写真"
 lat: 35.73096122854926
 lng: 139.34197533518426
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ねぎし 池袋サンシャイン前店」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「ねぎし 池袋サンシャイン前店」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#348【朝食!!】もはやこの朝が日常になった日」（2024年7月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた牛たん・とろろ・麦めしの店。"
 shop_id: "yonino-negishi-ikebukuro"
 name: "ねぎし 池袋サンシャイン前店"
 genre: "washoku"
@@ -16,10 +16,13 @@ source_video_url: "https://www.youtube.com/watch?v=Kz6-eL-KjD0"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13019184/"
 thumbnail_url: "https://img.youtube.com/vi/BtPB0wv2l3k/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7295
 lng: 139.7205
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

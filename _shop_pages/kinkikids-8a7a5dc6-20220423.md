@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "芋屋金次郎 高知本店"
-description: "KinKi Kidsのブンブブーン 高知グルメ 広末涼子で紹介されたスイーツ「芋屋金次郎 高知本店」（高知県高知市）。推し活グルメ巡礼スポット。"
+description: "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』（2022年4月23日放送）の高知特集で、広末涼子と味わった芋けんぴの店。"
 shop_id: "kinkikids-8a7a5dc6-20220423"
 name: "芋屋金次郎 高知本店"
 genre: "sweets"
@@ -14,6 +14,8 @@ source_video_title: "KinKi Kidsのブンブブーン 高知グルメ 広末涼�
 group: "kinkikids"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "KinKi Kidsのブンブブーン"
 lat: 33.5602068
 lng: 133.5370049
 members:

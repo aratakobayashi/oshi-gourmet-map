@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「なぎさ食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「なぎさ食堂」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#288【朝飯!!】久々に4人で食べた日」（2024年1月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた定食店。"
 shop_id: "yonino-nagisa-shokudo"
 name: "なぎさ食堂"
 genre: "washoku"
@@ -15,10 +15,13 @@ source_video_title: "#288【朝飯!!】久々に4人で食べた日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13257962/"
 thumbnail_url: "https://img.youtube.com/vi/jDTiroXb9RU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6978
 lng: 139.7582
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「ゴールドラッシュ 渋谷本店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「ゴールドラッシュ 渋谷本店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#444【青春!!】山田さんだけ知らなかった日」（2025年7月）で二宮和也・山田涼介・菊池風磨の3人が訪れたハンバーグ店。"
 shop_id: "yonino-goldrush-shibuya"
 name: "ゴールドラッシュ 渋谷本店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "#444【青春!!】山田さんだけ知らなかった日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13002070/"
 thumbnail_url: "https://img.youtube.com/vi/B9OZC4zIHdY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.662075
 lng: 139.697496
 members:

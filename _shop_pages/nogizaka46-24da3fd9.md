@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「カリーライス専門店 エチオピア 本店」"
-description: "【さくさんぽ第5弾】遠藤さくらが神保町をぶらり散歩！【カレー探訪】で紹介された食事「カリーライス専門店 エチオピア 本店」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第5弾（2024年2月）で、遠藤さくらがチキンカリーを食べた神保町のカレー店。"
 shop_id: "nogizaka46-24da3fd9-"
 name: "カリーライス専門店 エチオピア 本店"
 genre: "shokuji"
@@ -17,6 +17,8 @@ source_url: "https://senublog.com/nogizaka46-sanctuary-sakusanpo-curry-restauran
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13040204/"
 source_type: "tv"
+visit_kind: "youtube"
+program: "乃木坂配信中"
 lat: 35.69633909870481
 lng: 139.76137237454057
 members:

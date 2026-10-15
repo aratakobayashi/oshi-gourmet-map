@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「布恒更科」"
-description: "亀梨和也のYouTubeで紹介された和食「布恒更科」（東京都品川区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【爆食】Travis Japan七五三掛龍也 初の蕎麦打ち体験！お互いの蕎麦を食べ比べてみました。」（2024年8月）で、Travis Japanの七五三掛龍也と蕎麦打ちを体験し、お互いの蕎麦を食べ比べたそば店。"
 shop_id: "kamenashi-c3b4e8da-202408"
 name: "布恒更科"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "【爆食】Travis Japan七五三掛龍也 初の蕎麦打�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13007659/"
 thumbnail_url: "https://img.youtube.com/vi/K7VI68XxpRk/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.5901443
 lng: 139.7347172
 members:

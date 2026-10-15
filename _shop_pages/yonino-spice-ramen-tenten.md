@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「スパイスラーメン 点と線.」"
-description: "よにのちゃんねるのYouTubeで紹介されたラーメン「スパイスラーメン 点と線.」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#343【スポンサー!!】が来て飯を奢ってくれた日」（2024年7月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたスパイスラーメン店。"
 shop_id: "yonino-spice-ramen-tenten"
 name: "スパイスラーメン 点と線."
 genre: "ramen"
@@ -16,10 +16,13 @@ source_video_url: "https://www.youtube.com/watch?v=D_9kUv_Dsh4"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131802/13275868/"
 thumbnail_url: "https://img.youtube.com/vi/5ELNlEgsC2g/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6614
 lng: 139.6685
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

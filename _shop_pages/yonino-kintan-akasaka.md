@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂 金舌」"
-description: "よにのちゃんねるのYouTubeで紹介された焼肉「赤坂 金舌」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#497【飯!!】どんでもない豪華な日」（2026年1月）で二宮和也・山田涼介・菊池風磨の3人が訪れた牛タン料理店。"
 shop_id: "yonino-kintan-akasaka"
 name: "赤坂 金舌"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "#497【飯!!】どんでもない豪華な日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13080895/"
 thumbnail_url: "https://img.youtube.com/vi/Aza7c0Akdns/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.667266
 lng: 139.739281
 members:

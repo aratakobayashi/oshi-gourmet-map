@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「中華料理 十八番」"
-description: "よにのちゃんねるのYouTubeで紹介された中華「中華料理 十八番」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#314【お初!!】やってみたかった朝中華の日」（2024年4月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた中華料理店。"
 shop_id: "yonino-chuka-juhachiban-kanda"
 name: "中華料理 十八番"
 genre: "chuka"
@@ -18,10 +18,13 @@ tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13062433/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003340336/"
 thumbnail_url: "https://img.youtube.com/vi/9qR7zTTlnEw/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/20/49/P039992049/P039992049_238.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6941
 lng: 139.7688
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

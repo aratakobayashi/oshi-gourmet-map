@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「榎本ハンバーグ研究所 春日後楽園店」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「榎本ハンバーグ研究所 春日後楽園店」（東京都文京区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#372【田中圭呼んだら】本当に来てくれた日」（2024年11月）で二宮和也・山田涼介・菊池風磨の3人がゲストの田中圭と訪れたハンバーグ店。"
 shop_id: "yonino-enomoto-hamburg-bunkyo"
 name: "榎本ハンバーグ研究所 春日後楽園店"
 genre: "shokuji"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=G8v8N7vWf-0"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131004/13243892/"
 thumbnail_url: "https://img.youtube.com/vi/Xdvbh8QNBDs/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.718
 lng: 139.7437
 members:

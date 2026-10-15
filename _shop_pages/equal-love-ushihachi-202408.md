@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「USHIHACHI 渋谷店」"
-description: "=LOVEのYouTubeで紹介された焼肉「USHIHACHI 渋谷店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの齊藤なぎさが、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【一人焼肉】齊藤なぎさが朝から焼肉食べ放題してきた！【なーたん】」（2021年2月）で訪れた焼肉店。一人焼肉の回。"
 shop_id: "equal_love-ushihachi-202408"
 name: "USHIHACHI 渋谷店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_title: "【一人焼肉】齊藤なぎさが朝から焼肉食べ�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13208724/"
 thumbnail_url: "https://img.youtube.com/vi/WGNuE6STf5c/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6593786
 lng: 139.6987796
 members:

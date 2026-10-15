@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「OFF KINOSAKI」"
-description: "亀梨和也のYouTubeで紹介された食事「OFF KINOSAKI」（兵庫県豊岡市）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。」（2024年12月）で、雑誌『MAQUIA』の撮影で訪れた兵庫・城崎温泉で、夕食を食べたレストラン。"
 shop_id: "kamenashi-off_kinosaki-20241218"
 name: "OFF KINOSAKI"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【密着】MAQUIAの撮影裏側。高級カニを贅沢�
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/hyogo/A2808/A280801/28052279/"
 thumbnail_url: "https://img.youtube.com/vi/10CFRaEzqS8/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6250563
 lng: 134.8078659
 members:

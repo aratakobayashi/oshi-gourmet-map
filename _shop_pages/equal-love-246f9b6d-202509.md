@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「お肴野郎 清介」"
-description: "=LOVEのYouTubeで紹介された居酒屋「お肴野郎 清介」（静岡県熱海市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「熱海1泊2日旅行の完全版 【ナイトルーティンも紹介するよ】」（2025年9月）で訪れた居酒屋。熱海旅行の後編。"
 shop_id: "equal_love-246f9b6d-202509"
 name: "お肴野郎 清介"
 genre: "izakaya"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22035765/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003365080/"
 thumbnail_url: "https://img.youtube.com/vi/o9YsRLOqsCI/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/24/68/P040042468/P040042468_238.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.0967641
 lng: 139.0736987
 members:

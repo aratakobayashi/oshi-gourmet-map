@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「NEWかれいど」"
-description: "めざましテレビ 川越ロケ（2025年6月3日 フジテレビ）で紹介されたラーメン「NEWかれいど」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "『めざましテレビ』（2025年6月3日 フジテレビ）の川越ロケで、timeleszの橋本将生・猪俣周杜・篠塚大輝が訪れ、カレーとラーメンのハーフセットを食べた店。"
 shop_id: "timelesz-new-20250603"
 name: "NEWかれいど"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-inomatashuto-sh
 group: "timelesz"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11064993/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "めざましテレビ"
 lat: 35.91991
 lng: 139.482895
 members:

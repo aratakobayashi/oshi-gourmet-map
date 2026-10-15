@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「Beasty Coffee [cafe laboratory]」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「Beasty Coffee [cafe laboratory]」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#481【ドライブ!!】遅れました。ごめんなさいの日」（2025年12月）で二宮和也・山田涼介・菊池風磨の3人が訪れたカフェ。"
 shop_id: "yonino-beasty-coffee"
 name: "Beasty Coffee [cafe laboratory]"
 genre: "cafe"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=S0TOfZ6Y9-0"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131810/13239554/"
 thumbnail_url: "https://img.youtube.com/vi/0UEnIqazHQI/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.665808
 lng: 139.6876
 members:

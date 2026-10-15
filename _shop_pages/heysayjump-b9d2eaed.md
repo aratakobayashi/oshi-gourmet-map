@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「チョルドゥンノム」"
-description: "ヒルナンデス 2018.08.14 新大久保特集で紹介された食事「チョルドゥンノム」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの伊野尾慧が『ヒルナンデス！』の新大久保ロケ（2018年8月14日放送）で訪れた韓国料理店。レインボータッカルビを食べた。"
 shop_id: "heysayjump-b9d2eaed-"
 name: "チョルドゥンノム"
 genre: "shokuji"
@@ -13,6 +13,8 @@ source_url: "https://medax.hatenablog.com/entry/2018/08/27/205542"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13135397/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg"
+visit_kind: "guest_tv"
+program: "ヒルナンデス！"
 lat: 35.7046389
 lng: 139.7052761
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「串カツ玩具-GANG-」"
-description: "=LOVEのYouTubeで紹介された居酒屋「串カツ玩具-GANG-」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの諸橋沙夏がはしご酒シリーズ「つんはしご」で訪れた高円寺の串カツ店。"
 shop_id: "equallove_004"
 name: "串カツ玩具-GANG-"
 genre: "izakaya"
@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=BPvNgGIKoeU"
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13303732/"
 thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.6993
 lng: 139.6363
 members:

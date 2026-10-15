@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「創作漬物 川越・河村屋」"
-description: "2018.11.10 川越特集で紹介されたその他「創作漬物 川越・河村屋」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の川越ロケ（2018年11月10日放送）で、薮宏太・山田涼介が食べ歩きで立ち寄った漬物店。大福神漬が登場した。"
 shop_id: "heysayjump-86cc2d7d-20181110"
 name: "創作漬物 川越・河村屋"
 genre: "others"
@@ -14,6 +14,8 @@ group: "heysayjump"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11025164/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.9251145
 lng: 139.4856927
 members:

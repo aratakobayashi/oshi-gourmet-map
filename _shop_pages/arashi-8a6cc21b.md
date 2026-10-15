@@ -1,21 +1,29 @@
 ---
 layout: shop
-title: "嵐が行った「龍公亭」"
-description: "嵐にしやがれで紹介されたその他「龍公亭」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+title: "嵐『嵐にしやがれ』に登場した「龍公亭」"
+description: "嵐の冠番組『嵐にしやがれ』（2020年11月21日放送）の「岩本照＆ラウール 町中華デスマッチ」で、この店の「カレーライス」がスタジオに登場した。"
 shop_id: "arashi-8a6cc21b-"
 name: "龍公亭"
 genre: "others"
-prefecture: "愛知県"
-city: "名古屋市"
-nearest_station: "東名古屋港駅 徒歩13分"
+prefecture: "東京都"
+city: "新宿区"
+address: "東京都新宿区神楽坂3-5"
 source_video_title: "嵐にしやがれ"
 source_url: "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
 group: "arashi"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13000392/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg"
 source_type: "tv"
-lat: 35.0962021
-lng: 136.8979043
+visit_kind: "own_tv"
+program: "嵐にしやがれ"
+lat: 35.700768
+lng: 139.740417
+members:
+  - "大野智"
+  - "櫻井翔"
+  - "相葉雅紀"
+  - "二宮和也"
+  - "松本潤"
 groups:
   - "arashi"
 ---

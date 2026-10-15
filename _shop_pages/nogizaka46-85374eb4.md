@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「喫茶ニューポピー」"
-description: "乃木坂46のYouTubeで紹介されたカフェ「喫茶ニューポピー」（愛知県名古屋市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46の公式YouTube「乃木坂配信中」の「筒井あやめのふらっと喫茶探訪」第1弾（2022年9月）で、筒井あやめが愛知公演の翌朝にモーニングを食べた名古屋の喫茶店。"
 shop_id: "nogizaka46-85374eb4-"
 name: "喫茶ニューポピー"
 genre: "cafe"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/aichi/A2301/A230102/23069929/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001236424/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/94/36/P038299436/P038299436_238.jpg"
+visit_kind: "youtube"
+program: "乃木坂配信中"
 lat: 35.1749929
 lng: 136.8867635
 members:

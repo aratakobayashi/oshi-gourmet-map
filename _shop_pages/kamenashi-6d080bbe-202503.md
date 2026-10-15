@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「もんじゃ 竹の子」"
-description: "亀梨和也のYouTubeで紹介された和食「もんじゃ 竹の子」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【爆食】江戸っ子亀梨の大好物！東京月島 おたけさんのお店でもんじゃ焼きをたくさん食べます！」（2025年3月）で、東京・月島の、おたけさんのお店でもんじゃ焼きを食べた回の店。"
 shop_id: "kamenashi-6d080bbe-202503"
 name: "もんじゃ 竹の子"
 genre: "washoku"
@@ -15,6 +15,8 @@ source_video_title: "【爆食】江戸っ子亀梨の大好物！東京月島 �
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13283786/"
 thumbnail_url: "https://img.youtube.com/vi/rRtQ8rhdXno/hqdefault.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6649448
 lng: 139.783132
 members:

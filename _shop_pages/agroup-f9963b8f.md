@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "しゃぶしゃぶ温野菜 六本木店"
-description: "agroupのYouTubeで紹介された和食「しゃぶしゃぶ温野菜 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "Aぇ! groupの公式YouTubeの大食い企画第4弾（2026年4月）で、4人がしゃぶしゃぶ60皿に挑んだ六本木の店。"
 shop_id: "agroup-f9963b8f-"
 name: "しゃぶしゃぶ温野菜 六本木店"
 genre: "washoku"
@@ -17,14 +17,14 @@ group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13109022/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000774806/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/37/56/P049493756/P049493756_238.jpg"
+visit_kind: "youtube"
+program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.664085937910166
 lng: 139.73074418307448
 members:
   - "正門良規"
-  - "草間リチャード敬太"
   - "末澤誠也"
   - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

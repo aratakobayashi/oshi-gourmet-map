@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「やきとん長良」"
-description: "=LOVEのYouTubeで紹介された居酒屋「やきとん長良」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの諸橋沙夏が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【はしご酒】高円寺で飲むお酒がとにかく最高すぎました」（2024年12月）で訪れたやきとん店。はしご酒シリーズ「つんはしご」高円寺回。"
 shop_id: "equal_love-bd15bb1d-202412"
 name: "やきとん長良"
 genre: "izakaya"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1319/A131904/13291085/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003516082/"
 thumbnail_url: "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/06/22/P049030622/P049030622_238.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.7014789
 lng: 139.6462284
 members:

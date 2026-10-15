@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「福臨閣売店」"
-description: "=LOVEのYouTubeで紹介された食事「福臨閣売店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの齋藤樹愛羅と佐々木舞香が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜いっぱい食べた︎【イコラブ】【中華街旅#1】」（2023年6月）で訪れた売店。中華街の食べ歩きの回。"
 shop_id: "equal_love-3cc7d56c-202408"
 name: "福臨閣売店"
 genre: "shokuji"
@@ -15,6 +15,8 @@ source_video_title: "【きあまい】2人で念願の中華街に食べ歩き�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14043662/"
 thumbnail_url: "https://img.youtube.com/vi/UT4dNcRffPY/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 35.4429058
 lng: 139.6514509
 members:

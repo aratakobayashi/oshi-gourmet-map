@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「赤鬼」"
-description: "=LOVEのYouTubeで紹介された居酒屋「赤鬼」（福島県いわき市）。推し活グルメ巡礼スポット。"
+description: "=LOVEの諸橋沙夏が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【念願】地元ではしご酒、最高に楽しみすぎてしまいました」（2024年7月）で訪れた居酒屋。地元いわきでのはしご酒の回。"
 shop_id: "equal_love-d377e2fc-202408"
 name: "赤鬼"
 genre: "izakaya"
@@ -15,6 +15,8 @@ source_video_title: "【念願】地元ではしご酒、最高に楽しみす�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/fukushima/A0704/A070401/7002616/"
 thumbnail_url: "https://img.youtube.com/vi/YEfEA3jOgwE/hqdefault.jpg"
+visit_kind: "youtube"
+program: "イコラブ ノイミー ニアジョイ チャンネル"
 lat: 37.0592434
 lng: 140.8930352
 members:

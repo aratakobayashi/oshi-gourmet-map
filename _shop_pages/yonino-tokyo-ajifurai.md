@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「トーキョーアジフライ」"
-description: "よにのちゃんねるのYouTubeで紹介された食事「トーキョーアジフライ」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#316【遂に!!】思いっきりストレートに行った日」（2024年4月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れたアジフライ専門店。"
 shop_id: "yonino-tokyo-ajifurai"
 name: "トーキョーアジフライ"
 genre: "shokuji"
@@ -15,10 +15,13 @@ source_video_title: "#316【遂に!!】思いっきりストレートに行っ�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130904/13269930/"
 thumbnail_url: "https://img.youtube.com/vi/PpuwpT20uhM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.695
 lng: 139.7502
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

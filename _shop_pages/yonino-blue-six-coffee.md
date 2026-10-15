@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「BLUE SIX COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「BLUE SIX COFFEE」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#409【ゲスト!!】スターがコーヒーを買いに行った日」（2025年3月）で、ゲストの大森元貴が3人のコーヒーを買いに行った店。"
 shop_id: "yonino-blue-six-coffee"
 name: "BLUE SIX COFFEE"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#409【ゲスト!!】スターがコーヒーを買いに�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13293683/"
 thumbnail_url: "https://img.youtube.com/vi/-eUXX7jYxrM/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.6775
 lng: 139.7133
 members:

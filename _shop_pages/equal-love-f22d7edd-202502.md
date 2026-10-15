@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "=LOVEが行った「えどもんど中野」"
-description: "=LOVEのYouTubeで紹介されたラーメン「えどもんど中野」（東京都中野区）。推し活グルメ巡礼スポット。"
+description: "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【二郎系ラーメン】ニンニクアブラは魔法の呪文【えどもんど】」（2025年2月）で訪れたラーメン店。"
 shop_id: "equal_love-f22d7edd-202502"
 name: "えどもんど中野"
 genre: "ramen"
@@ -15,6 +15,8 @@ source_video_title: "【二郎系ラーメン】ニンニクアブラは魔法�
 group: "equal_love"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131902/13283099/"
 thumbnail_url: "https://img.youtube.com/vi/1QLZfSE6X3Q/hqdefault.jpg"
+visit_kind: "youtube"
+program: "みりにゃと申します。（大谷映美里）"
 lat: 35.7079412
 lng: 139.6692565
 members:

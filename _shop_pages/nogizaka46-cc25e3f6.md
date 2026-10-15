@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "乃木坂46が行った「めん八食堂」"
-description: "ベストアルバムポスター貼りで紹介された和食「めん八食堂」（長野県須坂市）。推し活グルメ巡礼スポット。"
+description: "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、樋口日奈・中村麗乃・掛橋沙耶香らが北須坂駅に貼れなかったポスターを貼った須坂の食堂。"
 shop_id: "nogizaka46-cc25e3f6-"
 name: "めん八食堂"
 genre: "washoku"
@@ -12,8 +12,14 @@ nearest_station: "北須坂駅 徒歩7分"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/nagano/A2001/A200102/20006241/"
+visit_kind: "other"
+program: "ベストアルバム「Time flies」ポスター貼り（のぎ動画）"
 lat: 36.678538
 lng: 138.313381
+members:
+  - "樋口日奈"
+  - "中村麗乃"
+  - "掛橋沙耶香"
 groups:
   - "nogizaka46"
 ---

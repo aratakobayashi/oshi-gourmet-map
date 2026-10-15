@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "timeleszが行った「五十鈴茶屋 本店」"
-description: "タイムレスマン ゴールデン特番 東海道中！脱落旅（2025年9月27日 フジテレビ）で紹介された食事「五十鈴茶屋 本店」（三重県伊勢市）。推し活グルメ巡礼スポット。"
+description: "timeleszの冠番組『タイムレスマン』の「東海道中！脱落旅」（2025年9月27日）で、timeleszの8人が山下智久と対面した伊勢・おかげ横丁の赤福の茶屋。トークの席に赤福餅が出された。"
 shop_id: "timelesz-790cc89f-"
 name: "五十鈴茶屋 本店"
 genre: "shokuji"
@@ -14,11 +14,13 @@ source_url: "https://oshikatsu-time.com/timelesz-timeleszman-datsurakutabi-locat
 group: "timelesz"
 tabelog_url: "https://tabelog.com/mie/A2403/A240301/24000873/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/8HLV0vWFM32Bpt17YLZ2dVQ7CZA.jpg"
+visit_kind: "own_tv"
+program: "タイムレスマン"
 lat: 34.462783
 lng: 136.7235288
 members:
-  - "菊池風磨"
   - "佐藤勝利"
+  - "菊池風磨"
   - "松島聡"
   - "寺西拓人"
   - "原嘉孝"

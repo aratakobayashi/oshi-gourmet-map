@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「PASSAGE COFFEE」"
-description: "よにのちゃんねるのYouTubeで紹介されたカフェ「PASSAGE COFFEE」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "よにのちゃんねるの「#465【ドライブ!!】久しぶりの3人の日」（2025年10月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。"
 shop_id: "yonino-passage-coffee"
 name: "PASSAGE COFFEE"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_title: "#465【ドライブ!!】久しぶりの3人の日"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130904/13271641/"
 thumbnail_url: "https://img.youtube.com/vi/SHE2QOLC4MI/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.650587
 lng: 139.749527
 members:

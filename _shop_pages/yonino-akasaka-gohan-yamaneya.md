@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「赤坂ごはん 山ね家」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「赤坂ごはん 山ね家」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ジャにのちゃんねる（現・よにのちゃんねる）の「#249【朝食!!】最近ずっと朝飯を食べているなと思った日」（2023年6月）で4人（二宮和也・中丸雄一・山田涼介・菊池風磨）が訪れた定食店。"
 shop_id: "yonino-akasaka-gohan-yamaneya"
 name: "赤坂ごはん 山ね家"
 genre: "washoku"
@@ -14,10 +14,13 @@ source_video_title: "#249【朝食!!】最近ずっと朝飯を食べている�
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13112400/"
 thumbnail_url: "https://img.youtube.com/vi/uWh7fTQSG1k/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.672
 lng: 139.7325
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "山田涼介"
   - "菊池風磨"
 groups:

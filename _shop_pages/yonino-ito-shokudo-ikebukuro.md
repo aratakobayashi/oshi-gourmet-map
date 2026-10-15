@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "よにのちゃんねるが行った「伊東食堂」"
-description: "よにのちゃんねるのYouTubeで紹介された和食「伊東食堂」（東京都豊島区）。推し活グルメ巡礼スポット。"
+description: "ジャにのちゃんねる（現・よにのちゃんねる）の「#238【朝食シリーズ!!】やっぱ飯は最高だよなの日」（2023年5月）で二宮和也・中丸雄一・菊池風磨が訪れた定食店。"
 shop_id: "yonino-ito-shokudo-ikebukuro"
 name: "伊東食堂"
 genre: "washoku"
@@ -16,10 +16,13 @@ source_video_url: "https://www.youtube.com/watch?v=WuYIFXP7wCA"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13089045/"
 thumbnail_url: "https://img.youtube.com/vi/WuYIFXP7wCA/hqdefault.jpg"
+visit_kind: "youtube"
+program: "よにのちゃんねる"
 lat: 35.7295
 lng: 139.7205
 members:
   - "二宮和也"
+  - "中丸雄一"
   - "菊池風磨"
 groups:
   - "yonino"

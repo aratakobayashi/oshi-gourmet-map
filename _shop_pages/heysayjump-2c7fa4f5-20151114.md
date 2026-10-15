@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Hey! Say! JUMPが行った「スパゲッティーのパンチョ」"
-description: "2015.11.14/11.21 大盛りグルメ特集で紹介された食事「スパゲッティーのパンチョ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「食欲の秋！都内デカ盛りのお店で1番ハイカロパなお店を教えて！」（2015年11月14日・21日放送）で紹介されたデカ盛りの店。ナポリタン星人盛り全部のせが登場した。"
 shop_id: "heysayjump-2c7fa4f5-20151114"
 name: "スパゲッティーのパンチョ"
 genre: "shokuji"
@@ -17,11 +17,15 @@ hotpepper_url: "https://www.hotpepper.jp/strJ000797448/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/07/38/P012300738/P012300738_238.jpg"
 source_type: "tv"
+visit_kind: "own_tv"
+program: "いただきハイジャンプ"
 lat: 35.6589015
 lng: 139.6975367
 members:
   - "山田涼介"
   - "知念侑李"
+  - "有岡大貴"
+  - "八乙女光"
 groups:
   - "heysayjump"
 ---

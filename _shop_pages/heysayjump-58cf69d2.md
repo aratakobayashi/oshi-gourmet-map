@@ -1,9 +1,9 @@
 ---
 layout: shop
-title: "Hey! Say! JUMPが行った「悪酔り大官 なべのしん」"
-description: "めざましテレビ 2017.12.07で紹介された食事「悪酔り大官 なべのしん」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+title: "Hey! Say! JUMPが行った「あくとり代官 鍋之進」"
+description: "『めざましテレビ』の「イノ調」（2017年12月7日放送）で、Hey! Say! JUMPの伊野尾慧の調査コーナーに登場した鍋料理店。うにく鍋とフルーツサングリア鍋が紹介された。"
 shop_id: "heysayjump-58cf69d2-"
-name: "悪酔り大官 なべのしん"
+name: "あくとり代官 鍋之進"
 genre: "shokuji"
 prefecture: "東京都"
 city: "渋谷区"
@@ -13,6 +13,8 @@ source_video_title: "めざましテレビ 2017.12.07"
 source_url: "https://medax.hatenablog.com/entry/mezamashi/20171207"
 group: "heysayjump"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
+visit_kind: "guest_tv"
+program: "めざましテレビ"
 lat: 35.6633709
 lng: 139.6964952
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RYU-RYU Primo（リュリュプリモ）"
-description: "【過ぎるTV】佐野晶哉が常連の西宮のパスタ屋さんはどこ？好きなメニューは？で紹介されたその他「RYU-RYU Primo（リュリュプリモ）」（兵庫県西宮市）。推し活グルメ巡礼スポット。"
+description: "『なるみ・岡村の過ぎるTV』（2024年11月18日放送）で、Aぇ! groupの佐野晶哉が西宮時代の常連店として紹介したパスタ店。好きなメニューは牛すじのカルボナーラ。"
 shop_id: "agroup-ryu_ryu_primo-"
 name: "RYU-RYU Primo（リュリュプリモ）"
 genre: "others"
@@ -16,14 +16,11 @@ tabelog_url: "https://tabelog.com/hyogo/A2803/A280301/28003309/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000496099/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cpwapzXY6pJhdZun5WFjAYKWTHq.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/56/02/P046485602/P046485602_238.jpg"
+visit_kind: "guest_tv"
+program: "なるみ・岡村の過ぎるTV"
 lat: 34.74476810790683
 lng: 135.3579302680155
 members:
-  - "正門良規"
-  - "草間リチャード敬太"
-  - "末澤誠也"
-  - "小島健"
-  - "福本大晴"
   - "佐野晶哉"
 groups:
   - "agroup"

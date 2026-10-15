@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "亀梨和也が行った「九州じゃんがら原宿店」"
-description: "亀梨和也のYouTubeで紹介されたラーメン「九州じゃんがら原宿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "亀梨和也の公式YouTube「【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。」（2024年4月）で、ふぉ～ゆ～の越岡裕貴と、ジュニア時代に通った思い出の店として豚骨ラーメンを食べたラーメン店。"
 shop_id: "kamenashi-e27eb84b-202404"
 name: "九州じゃんがら原宿店"
 genre: "ramen"
@@ -17,6 +17,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000103008/"
 thumbnail_url: "https://img.youtube.com/vi/Yh0PvWpXNoY/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/07/P038540507/P038540507_238.jpg"
+visit_kind: "youtube"
+program: "亀梨和也チャンネル"
 lat: 35.6687049
 lng: 139.7053357
 members:
