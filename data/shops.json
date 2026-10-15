@@ -8252,13 +8252,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "大森海岸駅 徒歩10分",
-    "description": "『17thインフルエンサーType-A』に収録されている、岩本蓮加さんの個人PV『駄菓子屋れんたん！』が撮影された駄菓子屋さんです^ ^",
+    "description": "乃木坂46の17thシングル「インフルエンサー」Type-Aに収録された岩本蓮加の個人PV「駄菓子屋れんたん！」の撮影に使われた駄菓子屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1331/A133101/13220704/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「インフルエンサー」Type-A 個人PV"
   },
   {
     "id": "nogizaka46-f819bab4-",
@@ -8280,13 +8282,17 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "飯田橋駅 徒歩4分",
-    "description": "『他の星から』の歌詞に登場し、MVで西野七瀬さんがクリームあんみつを食べているお店です！ MVに登場しているものは、通常のクリームあんみつに夏季メニューの白玉を2つトッピングしたものです^ ^",
+    "description": "乃木坂46「他の星から」（6thシングル「ガールズルール」収録）のMVの撮影場所で、西野七瀬がクリームあんみつを食べる場面に使われた甘味処。歌詞にも店名が登場する。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13310633/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/5gtHfCYK0Aw/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「他の星から」MV",
+    "qa_note": "senublogによると2022年9月30日に閉店。closed の付与を検討",
+    "closed": true
   },
   {
     "id": "nogizaka46-7e8466b6-",
@@ -8308,14 +8314,17 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "浅草駅 徒歩5分",
-    "description": "台東区のスイーツショップ。松村沙友理が訪れた乃木坂46のロケ地。Huluオリジナル番組『松村沙友理ちゃんねる』で紹介されたお店です！",
+    "description": "『NOGIBINGO!10』のHulu配信（2018年12月）で、松村沙友理らがボルダリングのあとに訪れ和スイーツを食べた浅草の甘味処。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13033990/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "source_type": "tv"
+    "source_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "NOGIBINGO!10（Hulu『松村沙友理ちゃんねる』）",
+    "qa_note": "一緒にいたほかのメンバーは出典で確かめられず。source_video_title は「松村沙友理ちゃんねる」"
   },
   {
     "id": "nogizaka46-good_morning_cafe-",
@@ -8337,14 +8346,16 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "竹橋駅 徒歩5分",
-    "description": "『22nd帰り道は遠回りしたくなるType-A』に収録されている、与田祐希さんの個人PV『ピクニック』が撮影されたカフェです^ ^",
+    "description": "乃木坂46の22ndシングル「帰り道は遠回りしたくなる」Type-Aに収録された与田祐希の個人PV「ピクニック」の撮影に使われたカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13166088/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001051955/",
     "thumbnail_url": "https://img.youtube.com/vi/s1cgEj5JowM/hqdefault.jpg",
     "source_type": "tv",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/64/12/P034736412/P034736412_238.jpg",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「帰り道は遠回りしたくなる」Type-A 個人PV"
   },
   {
     "id": "nogizaka46-84891d52-",
@@ -8358,18 +8369,33 @@
     "youtube_id": "ellqj4rVq6g",
     "source_video_title": "乃木坂どこへ",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら",
+      "金川紗耶",
+      "賀喜遥香",
+      "筒井あやめ",
+      "清宮レイ",
+      "早川聖来",
+      "田村真佑",
+      "掛橋沙耶香"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "巣鴨新田駅 徒歩3分",
-    "description": "豊島区の和食店。乃木坂46が訪れたロケ地。豊島区の和食店。乃木坂46が訪れたロケ地。『乃木坂どこへ』で4期生が訪れたおにぎり専門店です^ ^",
+    "description": "日本テレビ『乃木坂どこへ』（2019年）で、乃木坂46の4期生がさらば青春の光とのロケで訪れ、おにぎりを買ったおにぎり専門店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132302/13276342/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg",
-    "source_type": "tv"
+    "source_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "乃木坂どこへ（日本テレビ・2019年）",
+    "with": [
+      "さらば青春の光"
+    ],
+    "qa_note": "members は つれのぎブログ（tsuredure-nogi-blog.com）の注文一覧から"
   },
   {
     "id": "nogizaka46-84c802d9-",
@@ -8383,20 +8409,24 @@
     "youtube_id": "",
     "source_video_title": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "佐々木琴子"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "都営地下鉄大江戸線 本郷３丁目駅 徒歩２分",
-    "description": "文京区のラーメン店。乃木坂46が訪れたロケ地。こちらはラーメンWalkerTV2で佐々木琴子さんが訪れたお店です！",
+    "description": "『ラーメンWalkerTV2』（CSフジ・2018年4月初回放送）に乃木坂46の佐々木琴子がゲスト出演し、中華そばを食べたラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131004/13218311/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/"
+    "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
+    "visit_kind": "guest_tv",
+    "program": "ラーメンWalkerTV2"
   },
   {
     "id": "nogizaka46-485e9f27-",
@@ -8411,16 +8441,17 @@
     "source_video_title": "",
     "visited_date": "",
     "members": [
-      "筒井あやめ",
       "賀喜遥香",
-      "田村真佑"
+      "田村真佑",
+      "筒井あやめ",
+      "早川聖来"
     ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "赤坂駅 徒歩1分",
-    "description": "東京都の中華料理店。筒井あやめ・賀喜遥香・田村真佑が訪れた乃木坂46のロケ地。乃木坂工事中の芸能界すごろくでチーム賀喜が挑戦した激辛メニューが食べられるお店です！",
+    "description": "『乃木坂工事中』の企画「乃木坂46 芸能界すごろく」（2021年5〜6月放送）で、チーム賀喜（賀喜遥香・田村真佑・筒井あやめ・早川聖来）が挑んだ激辛麻婆豆腐の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13024312/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000010716/",
@@ -8428,7 +8459,11 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/21/56/P051052156/P051052156_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/21/56/P051052156/P051052156_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中（2021年5〜6月）",
+    "studio_only": true,
+    "qa_note": "罰ゲームで料理が出された回。店で食べたかスタジオかは未確認（スタジオなら studio_only）"
   },
   {
     "id": "nogizaka46-14c97cb0-",
@@ -8444,20 +8479,26 @@
     "visited_date": "",
     "members": [
       "遠藤さくら",
-      "柴田柚菜",
-      "賀喜遥香"
+      "賀喜遥香",
+      "柴田柚菜"
     ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "新橋駅 徒歩1分",
-    "description": "東京都の焼肉店。遠藤さくら・柴田柚菜・賀喜遥香が訪れた乃木坂46のロケ地。『乃木坂どこへ』で4期生が訪れ、黒い肉カレー(小)を食べていたお店です^ ^",
+    "description": "日本テレビ『乃木坂どこへ』（2019年）で、4期生の遠藤さくら・賀喜遥香・柴田柚菜が黒い肉カレーを食べたニュー新橋ビルのカレー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13180946/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg",
-    "source_type": "tv"
+    "source_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "乃木坂どこへ（日本テレビ・2019年）",
+    "with": [
+      "さらば青春の光"
+    ],
+    "qa_note": "genre は shokuji で可（旧descriptionの「焼肉店」は誤り）"
   },
   {
     "id": "nogizaka46-73fa40bf-",
@@ -8472,6 +8513,7 @@
     "source_video_title": "乃木坂どこへ",
     "visited_date": "",
     "members": [
+      "掛橋沙耶香",
       "金川紗耶",
       "矢久保美緒"
     ],
@@ -8480,12 +8522,18 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "新橋駅 徒歩1分",
-    "description": "東京都のレストラン。金川紗耶・矢久保美緒が訪れた乃木坂46のロケ地。『乃木坂どこへ』で4期生が訪れ、豚丼を食べていたお店です！",
+    "description": "日本テレビ『乃木坂どこへ』（2019年）で、4期生の掛橋沙耶香・金川紗耶・矢久保美緒が豚丼を食べた新橋の豚丼店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13130245/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg",
-    "source_type": "tv"
+    "source_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "乃木坂どこへ（日本テレビ・2019年）",
+    "with": [
+      "さらば青春の光"
+    ],
+    "qa_note": "senublogで掛橋沙耶香を追加"
   },
   {
     "id": "nogizaka46-6b9948dd-",
@@ -8500,20 +8548,28 @@
     "source_video_title": "乃木坂どこへ",
     "visited_date": "",
     "members": [
+      "清宮レイ",
+      "田村真佑",
       "筒井あやめ",
-      "田村真佑"
+      "早川聖来"
     ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "新橋駅 徒歩1分",
-    "description": "東京都の焼肉店。筒井あやめ・田村真佑が訪れた乃木坂46のロケ地。『乃木坂どこへ』で4期生が訪れ、焼肉を食べていたお店です！",
+    "description": "日本テレビ『乃木坂どこへ』（2019年）で、4期生の清宮レイ・田村真佑・筒井あやめ・早川聖来が焼肉を食べた新橋の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13225231/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg",
-    "source_type": "tv"
+    "source_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "乃木坂どこへ（日本テレビ・2019年）",
+    "with": [
+      "さらば青春の光"
+    ],
+    "qa_note": "senublogで清宮レイ・早川聖来を追加"
   },
   {
     "id": "nogizaka46-freddy_leck_sein_was-",
@@ -8533,13 +8589,16 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "学芸大学駅 徒歩9分",
-    "description": "目黒区のカフェ。乃木坂46が訪れたロケ地。『20thシンクロニシティType-B』ジャケット写真のカフェ＆コインランドリーです^ ^",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Bのジャケット写真の撮影に使われたカフェ併設のコインランドリー。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131702/13212264/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/f0wbnQw89J0/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「シンクロニシティ」Type-B ジャケット写真",
+    "qa_note": "写っているメンバーは出典で確かめられず。youtube_id はシンクロニシティMV（店はMVではなくジャケ写）"
   },
   {
     "id": "nogizaka46-umi_cafe-",
@@ -8561,13 +8620,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "由比ヶ浜駅 徒歩7分",
-    "description": "『17thインフルエンサーType-C』に収録されている、齋藤飛鳥さんの個人PV『飛鳥マウス、街にあらわる』が撮影されたカフェです^ ^",
+    "description": "乃木坂46の17thシングル「インフルエンサー」Type-Cに収録された齋藤飛鳥の個人PV「飛鳥マウス、街にあらわる」の撮影に使われたカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14010097/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/r4SdiT7mm7Y/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「インフルエンサー」Type-C 個人PV"
   },
   {
     "id": "nogizaka46-5bce3fc7-",
@@ -8591,13 +8652,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "鎌倉駅 徒歩2分",
-    "description": "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ ホットケーキを食べていました^ ^",
+    "description": "乃木坂46「地球が丸いなら」（21stシングル「ジコチューで行こう！」Type-D収録）のMVの撮影場所で、与田祐希・齋藤飛鳥・大園桃子がホットケーキを3人で分けて食べる場面に使われた鎌倉の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14002091/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV"
   },
   {
     "id": "nogizaka46-cafe_recette-",
@@ -8621,13 +8684,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "長谷駅 徒歩6分",
-    "description": "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ 究極のフレンチトーストを食べていました！",
+    "description": "乃木坂46「地球が丸いなら」（21stシングル「ジコチューで行こう！」Type-D収録）のMVの撮影場所で、与田祐希・齋藤飛鳥・大園桃子がフレンチトーストを食べる場面に使われた鎌倉の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14053495/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV"
   },
   {
     "id": "nogizaka46-rooftops-",
@@ -8651,13 +8716,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "鎌倉駅 徒歩2分",
-    "description": "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です^ ^ スウィーツバーガー(スモア＆ベリー)を食べていました^ ^",
+    "description": "乃木坂46「地球が丸いなら」（21stシングル「ジコチューで行こう！」Type-D収録）のMVの撮影場所で、与田祐希・齋藤飛鳥・大園桃子がスイーツバーガーを食べる場面に使われた鎌倉の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14101224/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV"
   },
   {
     "id": "nogizaka46-49c01557-",
@@ -8681,13 +8748,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "鎌倉駅 徒歩2分",
-    "description": "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です^ ^ わらび餅を試食していたお蕎麦屋さんです！",
+    "description": "乃木坂46「地球が丸いなら」（21stシングル「ジコチューで行こう！」Type-D収録）のMVの撮影場所で、与田祐希・齋藤飛鳥・大園桃子がわらび餅を試食する場面に使われた鎌倉の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14000268/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV"
   },
   {
     "id": "nogizaka46-e109a250-",
@@ -8711,13 +8780,15 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "鎌倉駅 徒歩19分",
-    "description": "『21thジコチューで行こう！Type-D』に収録されている、『地球が丸いなら』のMVが撮影されたお店です！ くずきりを食べていました^ ^",
+    "description": "乃木坂46「地球が丸いなら」（21stシングル「ジコチューで行こう！」Type-D収録）のMVの撮影場所で、与田祐希・齋藤飛鳥・大園桃子がくずきりを食べる場面に使われた鎌倉の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14002658/",
     "hotpepper_url": "",
     "thumbnail_url": "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg",
     "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL"
+    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV"
   },
   {
     "id": "nogizaka46-85374eb4-",
@@ -8739,7 +8810,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "地下鉄桜通線 国際センター駅 徒歩6分",
-    "description": "名古屋市のカフェ。筒井あやめが訪れた乃木坂46のロケ地。乃木坂配信中で筒井あやめさんが訪れた喫茶店です^ ^",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「筒井あやめのふらっと喫茶探訪」第1弾（2022年9月）で、筒井あやめが愛知公演の翌朝にモーニングを食べた名古屋の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230102/23069929/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001236424/",
@@ -8748,7 +8819,10 @@
     "tmdb_type": "tv",
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/36/P038299436/P038299436_238.jpg",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "visited_date が空。動画公開は2022-09-23"
   },
   {
     "id": "nogizaka46-bfe83dcc-",
@@ -8763,21 +8837,26 @@
     "source_video_title": "",
     "visited_date": "",
     "members": [
-      "松村沙友理"
+      "松村沙友理",
+      "佐々木琴子",
+      "寺田蘭世"
     ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "太閤通駅 徒歩1分",
-    "description": "乃木坂46時間TVの企画でさゆりんご軍団が来店したお店です！ モーニングのCセットにカフェオーレを注文していました！",
+    "description": "『乃木坂46時間TV』のロケで、さゆりんご軍団（松村沙友理・佐々木琴子・寺田蘭世）が訪れ、モーニングとカフェオレを注文した名古屋の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230101/23016117/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/"
+    "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
+    "visit_kind": "own_tv",
+    "program": "乃木坂46時間TV",
+    "qa_note": "members は senublog の来店メンバー"
   },
   {
     "id": "ginga-okudo-202407",
@@ -23229,169 +23308,6 @@
     "qa_note": "visited_date 2025-02-13 はブログ記事日。放送は2020-09-25"
   },
   {
-    "id": "nogizaka46-f23c267b-",
-    "name": "ダウンステアーズコーヒー",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区六本木7-3-10",
-    "lat": 35.665995737908126,
-    "lng": 139.7281300830956,
-    "youtube_id": "",
-    "source_video_title": "乃木坂【乃木坂の詩・ハルジオンが咲く頃・じゃあね】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "乃木坂駅 徒歩3分",
-    "description": "港区のカフェ。乃木坂46が訪れたロケ地。MV「乃木坂の詩・ハルジオンが咲く頃・じゃあね」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13129689/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "closed": true
-  },
-  {
-    "id": "nogizaka46-13a2278b-",
-    "name": "かめや 新宿店",
-    "genre": "ramen",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区西新宿1-2-10",
-    "lat": 35.69311903868714,
-    "lng": 139.69946513455145,
-    "youtube_id": "",
-    "source_video_title": "思い出横丁【夏のfree&easy】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "description": "新宿区のラーメン店。乃木坂46が訪れたロケ地。MV「夏のfree&easy」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13006720/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-74933442-",
-    "name": "渋谷西村 道玄坂フルーツ店",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区宇田川町22-2 1F",
-    "lat": 35.65975196939991,
-    "lng": 139.69986844405145,
-    "youtube_id": "",
-    "source_video_title": "渋谷【渋谷ブルース】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "渋谷駅 徒歩2分",
-    "description": "渋谷区のスイーツショップ。乃木坂46が訪れたロケ地。MV「渋谷ブルース」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13168915/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-shibuya_tsutaya-",
-    "name": "スターバックス・コーヒー SHIBUYA TSUTAYA店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区宇田川町21-6 QFRONT 1F2F",
-    "lat": 35.65989550161139,
-    "lng": 139.70031272399558,
-    "youtube_id": "",
-    "source_video_title": "センター街【革命の馬】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "渋谷駅 徒歩3分",
-    "description": "渋谷区のカフェ。乃木坂46が訪れたロケ地。MV「革命の馬」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13034125/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-e767374d-",
-    "name": "アメージングコーヒー 渋谷パルコ店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区宇田川町15-1 渋谷パルコ 3F",
-    "lat": 35.66211551792716,
-    "lng": 139.6989382914873,
-    "youtube_id": "",
-    "source_video_title": "渋谷パルコ【偶然を言い訳にして・僕は僕を好きになる】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "渋谷駅 徒歩6分",
-    "description": "渋谷区のカフェ。乃木坂46が訪れたロケ地。MV「偶然を言い訳にして・僕は僕を好きになる」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13241216/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "closed": true
-  },
-  {
-    "id": "nogizaka46-9c79a146-",
-    "name": "白水堂 思案橋本店",
-    "genre": "sweets",
-    "prefecture": "長崎県",
-    "city": "長崎市",
-    "address": "長崎県長崎市油屋町1-3",
-    "lat": 32.74303651890887,
-    "lng": 129.88041117442575,
-    "youtube_id": "",
-    "source_video_title": "長崎【水玉模様】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "思案橋駅 徒歩1分",
-    "description": "長崎市のスイーツショップ。乃木坂46が訪れたロケ地。MV「水玉模様」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/nagasaki/A4201/A420101/42000221/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
     "id": "nogizaka46-flamingo-",
     "name": "FLAMINGO",
     "genre": "cafe",
@@ -23408,7 +23324,7 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "渋谷区のカフェ。乃木坂46が訪れたロケ地。MV「ロマンスのスタート・逃げ水」に登場。",
+    "description": "乃木坂46「ロマンスのスタート」のMVのほか、和田まあやの個人PV（「ハルジオンが咲く頃」収録）や「逃げ水」通常盤のジャケット写真の撮影に使われた渋谷のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13163978/",
     "hotpepper_url": "",
@@ -23416,114 +23332,10 @@
     "source_type": "tv",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "closed": true
-  },
-  {
-    "id": "nogizaka46-a3436983-",
-    "name": "こんにゃく関所",
-    "genre": "shokuji",
-    "prefecture": "茨城県",
-    "city": "久慈郡大子町",
-    "address": "茨城県久慈郡大子町袋田2247-5",
-    "lat": 36.74717004992122,
-    "lng": 140.38473360059075,
-    "youtube_id": "",
-    "source_video_title": "茨城県大子町【ガールズルール・太陽ノック・４番目の光】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "袋田駅 徒歩15分",
-    "description": "久慈郡大子町のレストラン。乃木坂46が訪れたロケ地。MV「ガールズルール・太陽ノック・４番目の光」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/ibaraki/A0805/A080503/8001154/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-28d50565-",
-    "name": "永福町 大勝軒",
-    "genre": "ramen",
-    "prefecture": "東京都",
-    "city": "杉並区",
-    "address": "東京都杉並区和泉3-5-3",
-    "lat": 35.676242188680206,
-    "lng": 139.64401576441983,
-    "youtube_id": "",
-    "source_video_title": "永福町大勝軒【立ち直り中】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "永福町駅 徒歩2分",
-    "description": "杉並区のラーメン店。乃木坂46が訪れたロケ地。MV「立ち直り中」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131805/13011769/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-96c288df-",
-    "name": "いなろ食堂",
-    "genre": "cafe",
-    "prefecture": "静岡県",
-    "city": "沼津市",
-    "address": "静岡県沼津市千本港町122-17",
-    "lat": 35.08234404880699,
-    "lng": 138.85769694897212,
-    "youtube_id": "",
-    "source_video_title": "沼津【大人への近道】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "沼津市のカフェ。乃木坂46が訪れたロケ地。MV「大人への近道」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220501/22015982/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-f36ca7b7-",
-    "name": "和風カレー さや",
-    "genre": "shokuji",
-    "prefecture": "山梨県",
-    "city": "都留市",
-    "address": "山梨県都留市中央2-4-3",
-    "lat": 35.55518178150992,
-    "lng": 138.90973709132302,
-    "youtube_id": "",
-    "source_video_title": "谷村町駅【今、話したい誰かがいる】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "description": "都留市のラーメン店。乃木坂46が訪れたロケ地。MV「今、話したい誰かがいる」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/yamanashi/A1905/A190501/19002504/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "closed": true,
+    "visit_kind": "drama",
+    "program": "乃木坂46「ロマンスのスタート」MV",
+    "qa_note": "MVに写るメンバーは特定せず。つれのぎブログで確認。closed=true"
   },
   {
     "id": "nogizaka46-76d7ba94-",
@@ -23543,68 +23355,17 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "熊川駅 徒歩11分",
-    "description": "福生市の居酒屋。乃木坂46が訪れたロケ地。MV「バレッタ」に登場。",
+    "description": "乃木坂46の7thシングル「バレッタ」のジャケット写真の撮影に使われた福生のアメリカンダイナー。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1330/A133001/13010205/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-d94583ff-",
-    "name": "みさきまぐろ倶楽部",
-    "genre": "shokuji",
-    "prefecture": "神奈川県",
-    "city": "三浦市",
-    "address": "神奈川県三浦市三崎5-3-1 うらりマルシェ さかな館 1F",
-    "lat": 35.14094633820602,
-    "lng": 139.61643797787042,
-    "youtube_id": "",
-    "source_video_title": "神奈川県三浦市三崎【シャキイズム・無口なライオン・あの教室】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "三浦市のレストラン。乃木坂46が訪れたロケ地。MV「シャキイズム・無口なライオン・あの教室」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140603/14023236/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-241b6933-",
-    "name": "竹やぶ",
-    "genre": "ramen",
-    "prefecture": "茨城県",
-    "city": "鹿嶋市",
-    "address": "茨城県鹿嶋市宮中2-1-28",
-    "lat": 35.96685503800286,
-    "lng": 140.62561448550545,
-    "youtube_id": "",
-    "source_video_title": "茨城県鹿嶋市周辺【涙がまだ悲しみだった頃】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "鹿島神宮駅 徒歩7分",
-    "description": "鹿嶋市のラーメン店。乃木坂46が訪れたロケ地。MV「涙がまだ悲しみだった頃」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/ibaraki/A0804/A080401/8004283/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "drama",
+    "program": "乃木坂46「バレッタ」ジャケット写真",
+    "qa_note": "写っているメンバーは特定せず。source_video_title の「バレッタ」はMVではなくジャケ写"
   },
   {
     "id": "nogizaka46-ccecce7f-",
@@ -23624,7 +23385,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "銀座駅 徒歩1分",
-    "description": "中央区のカフェ。乃木坂46が訪れたロケ地。MV「インフルエンサー」に登場。",
+    "description": "乃木坂46の17thシングル「インフルエンサー」のMVでメインのダンスシーンが撮影された、東急プラザ銀座のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13192924/",
     "hotpepper_url": "",
@@ -23632,142 +23393,10 @@
     "source_type": "tv",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "closed": true
-  },
-  {
-    "id": "nogizaka46-5b434e0e-",
-    "name": "コスモコート",
-    "genre": "shokuji",
-    "prefecture": "神奈川県",
-    "city": "横浜市",
-    "address": "神奈川県横浜市中区新港2丁目8-1 よこはまコスモワールド　１Ｆ",
-    "lat": 35.455217138818284,
-    "lng": 139.63690838219262,
-    "youtube_id": "",
-    "source_video_title": "横浜コスモワールド【ないものねだり】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "みなとみらい駅 徒歩7分",
-    "description": "横浜市のレストラン。乃木坂46が訪れたロケ地。MV「ないものねだり」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14030396/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-ac5227bd-",
-    "name": "すずめや",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "豊島区",
-    "address": "東京都豊島区南池袋2-18-5",
-    "lat": 35.72671073786489,
-    "lng": 139.71345248371918,
-    "youtube_id": "",
-    "source_video_title": "池袋東口【嫉妬の権利】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "池袋駅 徒歩4分",
-    "description": "豊島区のスイーツショップ。乃木坂46が訪れたロケ地。MV「嫉妬の権利」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13009255/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-ca63b74a-",
-    "name": "プロント ウインズ汐留店",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区東新橋2-18-1 2F",
-    "lat": 35.66143253792056,
-    "lng": 139.75806918302857,
-    "youtube_id": "",
-    "source_video_title": "汐留イタリア街【シンクロニシティ】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "汐留駅 徒歩4分",
-    "description": "港区の居酒屋。乃木坂46が訪れたロケ地。MV「シンクロニシティ」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13107616/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-coconeel-",
-    "name": "COCONEEL",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区歌舞伎町1-23-13 下村ビル　Ｂ１Ｆ",
-    "lat": 35.69422767592237,
-    "lng": 139.70106663622622,
-    "youtube_id": "",
-    "source_video_title": "歌舞伎町【スカウトマン】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "description": "新宿区の居酒屋。乃木坂46が訪れたロケ地。MV「スカウトマン」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13031808/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000001512/",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/44/37/P030774437/P030774437_238.jpg"
-  },
-  {
-    "id": "nogizaka46-644a3895-",
-    "name": "味楽",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "品川区",
-    "address": "東京都品川区大崎1-21-4",
-    "lat": 35.61992691874291,
-    "lng": 139.7286192337917,
-    "youtube_id": "",
-    "source_video_title": "環状六号線【環状六号線】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "大崎駅 徒歩1分",
-    "description": "品川区の居酒屋。乃木坂46が訪れたロケ地。MV「環状六号線」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131604/13028770/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "closed": true,
+    "visit_kind": "drama",
+    "program": "乃木坂46「インフルエンサー」MV",
+    "qa_note": "出演は選抜メンバー（特定せず）。closed=true"
   },
   {
     "id": "nogizaka46-d20044af-",
@@ -23781,181 +23410,25 @@
     "youtube_id": "",
     "source_video_title": "栃木県足利【何度目の青空か？／帰り道は遠回りしたくなる】",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "西野七瀬"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "足利駅 徒歩8分",
-    "description": "足利市のカフェ。乃木坂46が訪れたロケ地。MV「何度目の青空か？／帰り道は遠回りしたくなる」に登場。",
+    "description": "乃木坂46の22ndシングル「帰り道は遠回りしたくなる」のMVの撮影場所で、西野七瀬がいる場面に使われた足利のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tochigi/A0902/A090202/9014646/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-05b5fd01-",
-    "name": "松島蒲鉾本舗 総本店",
-    "genre": "shokuji",
-    "prefecture": "宮城県",
-    "city": "宮城郡松島町",
-    "address": "宮城県宮城郡松島町松島字町内120",
-    "lat": 38.37040954742113,
-    "lng": 141.06348530063843,
-    "youtube_id": "",
-    "source_video_title": "松島【Sing Out!】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "松島海岸駅 徒歩8分",
-    "description": "宮城郡松島町のレストラン。乃木坂46が訪れたロケ地。MV「Sing Out!」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/miyagi/A0404/A040404/4010727/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-4cbec6ca-",
-    "name": "納豆工房せんだい屋 池尻大橋店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "世田谷区",
-    "address": "東京都世田谷区池尻3-20-3 柳盛堂ビル 1F",
-    "lat": 35.64924603870924,
-    "lng": 139.681346374121,
-    "youtube_id": "",
-    "source_video_title": "玉川通り【Route246】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "池尻大橋駅 徒歩6分",
-    "description": "世田谷区のカフェ。乃木坂46が訪れたロケ地。MV「Route246」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131705/13046921/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-e5fdf419-",
-    "name": "新とみ",
-    "genre": "ramen",
-    "prefecture": "神奈川県",
-    "city": "鎌倉市",
-    "address": "神奈川県鎌倉市鎌倉市山ノ内376 1F",
-    "lat": 35.33526565886586,
-    "lng": 139.5469471310437,
-    "youtube_id": "",
-    "source_video_title": "北鎌倉【いつかできるから今日できる】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "北鎌倉駅 徒歩4分",
-    "description": "鎌倉市のラーメン店。乃木坂46が訪れたロケ地。MV「いつかできるから今日できる」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140401/14032566/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-livin-",
-    "name": "LIVIN よこすか店",
-    "genre": "shokuji",
-    "prefecture": "神奈川県",
-    "city": "横須賀市",
-    "address": "神奈川県横須賀市平成町3-21-4",
-    "lat": 35.2748738289478,
-    "lng": 139.68382243033776,
-    "youtube_id": "",
-    "source_video_title": "うみかぜ公園【ブランコ】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "県立大学駅 徒歩13分",
-    "description": "横須賀市のレストラン。乃木坂46が訪れたロケ地。MV「ブランコ」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140601/14078893/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-9f892298-",
-    "name": "万世橋酒場",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区神田須田町2-21 肉の万世　秋葉原本店　１Ｆ",
-    "lat": 35.69665641648079,
-    "lng": 139.77105793385462,
-    "youtube_id": "",
-    "source_video_title": "秋葉原【I see...】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "description": "千代田区のラーメン店。乃木坂46が訪れたロケ地。MV「I see...」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131001/13020657/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-13f22aec-",
-    "name": "春華堂 本店",
-    "genre": "sweets",
-    "prefecture": "静岡県",
-    "city": "浜松市",
-    "address": "静岡県浜松市中央区鍛冶町321-10 春華堂ビル",
-    "lat": 34.705977618687186,
-    "lng": 137.73092082596034,
-    "youtube_id": "",
-    "source_video_title": "浜松駅周辺【君に叱られた】",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "第一通り駅 徒歩3分",
-    "description": "浜松市のスイーツショップ。乃木坂46が訪れたロケ地。MV「君に叱られた」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2202/A220201/22018536/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "drama",
+    "program": "乃木坂46「帰り道は遠回りしたくなる」MV",
+    "qa_note": "つれのぎブログで確認。source_video_title の「何度目の青空か？」は別の場所"
   },
   {
     "id": "nogizaka46-9be54ae5-",
@@ -23969,182 +23442,23 @@
     "youtube_id": "",
     "source_video_title": "六本木らーめん 東京食品 まる彦",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "衛藤美彩"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "港区のラーメン店。乃木坂46が訪れたロケ地。「六本木らーめん 東京食品 まる彦」に登場。",
+    "description": "乃木坂46の衛藤美彩が2016年にテレビ番組で紹介し、その後もたびたび訪れていたと報じられたラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13018573/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-shinshin-",
-    "name": "博多らーめん ShinShin 天神本店",
-    "genre": "ramen",
-    "prefecture": "福岡県",
-    "city": "福岡市",
-    "address": "福岡県福岡市中央区天神3-2-19",
-    "lat": 33.59275833625318,
-    "lng": 130.39685346869493,
-    "youtube_id": "",
-    "source_video_title": "博多らーめん ShinShin",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "天神駅 徒歩4分",
-    "description": "福岡市のラーメン店。乃木坂46が訪れたロケ地。「博多らーめん ShinShin」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400103/40004980/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-23d7a99a-",
-    "name": "焼きそば たつみ亭",
-    "genre": "ramen",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "愛知県名古屋市守山区大森2丁目303",
-    "lat": 35.204881595894435,
-    "lng": 136.99259799354192,
-    "youtube_id": "",
-    "source_video_title": "焼きそば たつみ亭",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "喜多山駅 徒歩6分",
-    "description": "名古屋市のラーメン店。乃木坂46が訪れたロケ地。「焼きそば たつみ亭」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2301/A230114/23056870/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-18581f09-",
-    "name": "播磨屋本店 生野総本店",
-    "genre": "sweets",
-    "prefecture": "兵庫県",
-    "city": "朝来市",
-    "address": "兵庫県朝来市生野町円山字京田30",
-    "lat": 35.192644097442496,
-    "lng": 134.79312256293542,
-    "youtube_id": "",
-    "source_video_title": "播磨屋本店・華麗満月",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "朝来市のスイーツショップ。乃木坂46が訪れたロケ地。「播磨屋本店・華麗満月」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hyogo/A2808/A280803/28002488/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-39218150-",
-    "name": "秋田ふるさと館",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区有楽町2-10-1 東京交通会館１F",
-    "lat": 35.674744288719495,
-    "lng": 139.7644064743203,
-    "youtube_id": "",
-    "source_video_title": "秋田ふるさと館・仁手古サイダー",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "有楽町駅 徒歩2分",
-    "description": "千代田区のレストラン。乃木坂46が訪れたロケ地。「秋田ふるさと館・仁手古サイダー」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130102/13058435/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-1641c66f-",
-    "name": "麻布かりんと 麻布十番店",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区麻布十番1-7-9",
-    "lat": 35.65609263791658,
-    "lng": 139.73493718299082,
-    "youtube_id": "",
-    "source_video_title": "麻布かりんと",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "麻布十番駅 徒歩2分",
-    "description": "港区のスイーツショップ。乃木坂46が訪れたロケ地。「麻布かりんと」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13097319/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-416e17d8-",
-    "name": "さわやか 新静岡セノバ店",
-    "genre": "yakiniku",
-    "prefecture": "静岡県",
-    "city": "静岡市",
-    "address": "静岡県静岡市葵区鷹匠1-1-1 新静岡セノバ 5F",
-    "lat": 34.97552797872497,
-    "lng": 138.38714114822304,
-    "youtube_id": "",
-    "source_video_title": "炭焼きレストランさわやか",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "新静岡駅 徒歩1分",
-    "description": "静岡市の焼肉店。乃木坂46が訪れたロケ地。「炭焼きレストランさわやか」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220101/22021460/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "closed": true
+    "visit_kind": "other",
+    "qa_note": "六本木経済新聞などによると2021年春に港区南青山1-15-19へ移転（店名も「乃木坂まる彦らーめん」）。住所・座標は旧店舗のまま。番組名は未確認"
   },
   {
     "id": "nogizaka46-7b18f3dd-",
@@ -24158,48 +23472,25 @@
     "youtube_id": "",
     "source_video_title": "丸デブ 総本店",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "堀未央奈"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "名鉄岐阜駅 徒歩14分",
-    "description": "岐阜市のラーメン店。乃木坂46が訪れたロケ地。「丸デブ 総本店」に登場。",
+    "description": "乃木坂46の堀未央奈が『乃木坂ってどこ』で、加入前によく行っていたと話した岐阜の中華そば店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21006119/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-79be306a-",
-    "name": "しみてん木乃幡 仙台駅店",
-    "genre": "shokuji",
-    "prefecture": "宮城県",
-    "city": "仙台市",
-    "address": "宮城県仙台市青葉区中央1-1-1 JR仙台駅 1F",
-    "lat": 38.26028411865941,
-    "lng": 140.882243171497,
-    "youtube_id": "",
-    "source_video_title": "凍み天",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "仙台駅 徒歩1分",
-    "description": "仙台市のレストラン。乃木坂46が訪れたロケ地。「凍み天」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/miyagi/A0401/A040101/4012335/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "closed": true
+    "visit_kind": "other",
+    "program": "乃木坂ってどこ",
+    "qa_note": "番組内で店を訪れたわけではなく、本人が通っていた店として紹介。つれのぎブログで確認"
   },
   {
     "id": "nogizaka46-c062c929-",
@@ -24213,265 +23504,25 @@
     "youtube_id": "",
     "source_video_title": "菓匠三全",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "仙台駅 徒歩1分",
-    "description": "仙台市のスイーツショップ。乃木坂46が訪れたロケ地。「菓匠三全」に登場。",
+    "description": "乃木坂46の久保史緒里が「宮城・仙台旅しおり」で、仙台駅のエスパルの菓匠三全で仙台銘菓を食べた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/miyagi/A0401/A040101/4009659/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-2a831c44-",
-    "name": "今井金箔 広坂店",
-    "genre": "shokuji",
-    "prefecture": "石川県",
-    "city": "金沢市",
-    "address": "石川県金沢市広坂1-2-36",
-    "lat": 36.56150763636199,
-    "lng": 136.65910889429242,
-    "youtube_id": "",
-    "source_video_title": "金沢",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "金沢市のレストラン。乃木坂46が訪れたロケ地。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17010261/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-dcca8bec-",
-    "name": "函館洋菓子スナッフルス 金森洋物館店",
-    "genre": "cafe",
-    "prefecture": "北海道",
-    "city": "函館市",
-    "address": "北海道函館市末広町13-9",
-    "lat": 41.76673173434822,
-    "lng": 140.7165959440258,
-    "youtube_id": "",
-    "source_video_title": "函館",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "末広町駅 徒歩6分",
-    "description": "函館市のカフェ。乃木坂46が訪れたロケ地。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hokkaido/A0105/A010501/1005752/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-6d7f1106-",
-    "name": "ちばチャン 海浜幕張店",
-    "genre": "yakiniku",
-    "prefecture": "千葉県",
-    "city": "千葉市",
-    "address": "千葉県千葉市美浜区中瀬1-3 幕張テクノガーデン 1F",
-    "lat": 35.65070793801761,
-    "lng": 140.04139338272162,
-    "youtube_id": "",
-    "source_video_title": "幕張メッセ周辺",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "description": "千葉市の焼肉店。乃木坂46が訪れたロケ地。「幕張メッセ周辺」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1201/A120102/12007098/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000725593/",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/84/P043790184/P043790184_238.jpg"
-  },
-  {
-    "id": "nogizaka46-6d41a5ca-",
-    "name": "利尻らーめん味楽 新横浜ラーメン博物館店",
-    "genre": "ramen",
-    "prefecture": "神奈川県",
-    "city": "横浜市",
-    "address": "神奈川県横浜市港北区新横浜2-14-21 新横浜ラーメン博物館 B2F",
-    "lat": 35.50976079877657,
-    "lng": 139.61458058275886,
-    "youtube_id": "",
-    "source_video_title": "横浜アリーナ周辺",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "新横浜駅 徒歩4分",
-    "description": "横浜市のラーメン店。乃木坂46が訪れたロケ地。「横浜アリーナ周辺」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140206/14066708/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-9d97e3e3-",
-    "name": "シェイクシャック 外苑いちょう並木",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区北青山2-1-15",
-    "lat": 35.673357188706184,
-    "lng": 139.71986106433752,
-    "youtube_id": "",
-    "source_video_title": "明治神宮野球場周辺",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "外苑前駅 徒歩6分",
-    "description": "港区のカフェ。乃木坂46が訪れたロケ地。「明治神宮野球場周辺」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130603/13189009/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-serafina_new_york-",
-    "name": "Serafina NEW YORK さいたま新都心店",
-    "genre": "izakaya",
-    "prefecture": "埼玉県",
-    "city": "さいたま市",
-    "address": "埼玉県さいたま市中央区新都心10 けやきひろば 3F",
-    "lat": 35.89319193773293,
-    "lng": 139.63111538545851,
-    "youtube_id": "",
-    "source_video_title": "さいたまスーパーアリーナ",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "さいたま新都心駅 徒歩4分",
-    "description": "さいたま市の居酒屋。乃木坂46が訪れたロケ地。「さいたまスーパーアリーナ」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/saitama/A1101/A110101/11035708/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-522fa8ed-",
-    "name": "千鳥屋 イオンモール大阪ドームシティ店",
-    "genre": "sweets",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市西区千代崎3-13-1 イオンモール大阪ドームシティ",
-    "lat": 34.67026176799247,
-    "lng": 135.4782788371786,
-    "youtube_id": "",
-    "source_video_title": "京セラドーム大阪",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "ドーム前駅 徒歩1分",
-    "description": "大阪市のスイーツショップ。乃木坂46が訪れたロケ地。「京セラドーム大阪」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270401/27087724/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-ab929a12-",
-    "name": "スガキヤ イオンナゴヤドーム前店",
-    "genre": "ramen",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "愛知県名古屋市東区矢田南4-102-3 イオンモールナゴヤドーム前 2F",
-    "lat": 35.187126539119085,
-    "lng": 136.944235883041,
-    "youtube_id": "",
-    "source_video_title": "スガキヤ イオンナゴヤドーム前店",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "ナゴヤドーム前矢田駅 徒歩7分",
-    "description": "名古屋市のラーメン店。乃木坂46が訪れたロケ地。「スガキヤ イオンナゴヤドーム前店」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2301/A230110/23009416/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "nogizaka46-kebab_box_j-",
-    "name": "KEBAB BOX J",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前1-8-8 COXY188ビル 1F",
-    "lat": 35.669943,
-    "lng": 139.7063339,
-    "youtube_id": "",
-    "source_video_title": "乃木坂どこへ",
-    "visited_date": "",
-    "members": [
-      "齋藤飛鳥"
-    ],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "明治神宮前〈原宿〉駅 徒歩3分",
-    "description": "渋谷区のレストラン。齋藤飛鳥が訪れた乃木坂46のロケ地。「乃木坂どこへ」に登場。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13058352/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "visit_kind": "other",
+    "program": "宮城・仙台旅しおり",
+    "qa_note": "つれのぎブログの記述から。「宮城・仙台旅しおり」の媒体・時期は未確認"
   },
   {
     "id": "nogizaka46-milk-",
@@ -24494,14 +23545,18 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "JR大曽根駅 or 地下鉄尼ケ坂駅",
-    "description": "名古屋市のカフェ。齋藤飛鳥・筒井あやめが訪れた乃木坂46のロケ地。「乃木坂どこへ」に登場。",
+    "description": "『乃木坂工事中』#373「全国ツアーでなに食べまショー 前編」（2022年8月14日放送）で、愛知のグルメとしてオムレツサンドが紹介されたパン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230110/23070381/",
     "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
     "source_type": "tv",
     "tmdb_id": 96386,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中 #373（2022年8月14日）",
+    "studio_only": true,
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い。紹介したメンバーは出典で確かめられず（既存の齋藤飛鳥・筒井あやめ／乃木坂どこへ は根拠なし）"
   },
   {
     "id": "kingprince-f9639215-20220813",
@@ -35799,7 +34854,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "神保町駅 徒歩4分",
-    "description": "東京都の食事。乃木坂46の遠藤さくららが訪れた飲食店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第5弾（2024年2月）で、遠藤さくらが神保町を散歩してカツカレーを食べたカレー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13249021/",
     "hotpepper_url": "",
@@ -35812,7 +34867,9 @@
       }
     ],
     "source_video_url": "https://www.youtube.com/watch?v=HH_mpIk1lwU",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-24da3fd9-",
@@ -35835,7 +34892,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "神保町駅 徒歩4分",
-    "description": "東京都の食事。乃木坂46の遠藤さくららが訪れた飲食店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第5弾（2024年2月）で、遠藤さくらがチキンカリーを食べた神保町のカレー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13040204/",
     "hotpepper_url": "",
@@ -35848,7 +34905,9 @@
       }
     ],
     "source_video_url": "https://www.youtube.com/watch?v=HH_mpIk1lwU",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-c29396b9-",
@@ -35869,7 +34928,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "渋谷駅 徒歩2分",
-    "description": "東京都の和食。乃木坂46のメンバーが訪れた飲食店。",
+    "description": "『NOGIBINGO!9』のロケで使われた渋谷のしゃぶしゃぶ食べ放題店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13207838/",
     "hotpepper_url": "",
@@ -35877,36 +34936,10 @@
     "tmdb_id": 96069,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7KGOg7mu4Ze483LLc4YqXQpjBpP.jpg"
-  },
-  {
-    "id": "nogizaka46-0b4af03c-",
-    "name": "平城苑 銀座5丁目店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区銀座5-8-9 BINO銀座 3F",
-    "lat": 35.670156237917105,
-    "lng": 139.76461788311207,
-    "youtube_id": "",
-    "source_video_title": "乃木坂工事中",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "銀座駅 徒歩3分",
-    "description": "東京都のその他。乃木坂46のメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13007650/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7KGOg7mu4Ze483LLc4YqXQpjBpP.jpg",
+    "visit_kind": "own_tv",
+    "program": "NOGIBINGO!9",
+    "qa_note": "乃木坂46 WALKERによる。出演メンバーは確かめられず"
   },
   {
     "id": "arashi-c0cd7bea-",
@@ -43331,16 +42364,16 @@
     "source_url": "",
     "visited_date": "",
     "members": [
+      "松井玲奈",
       "星野みなみ",
-      "佐藤楓",
-      "松井玲奈"
+      "佐藤楓"
     ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "浅草駅",
-    "description": "乃木坂ってどこ？の9thヒット祈願放送で松井玲奈さん・星野みなみさんがジャンボめろんぱんを食べていたお店。佐藤楓さんも撮影後に訪問。",
+    "description": "『乃木坂ってどこ』の9thシングルのヒット祈願の放送で松井玲奈・星野みなみがジャンボめろんぱんを食べたパン店。佐藤楓も雑誌の撮影のあとに訪れたと公式ブログで紹介した。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13183985/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000898725/",
@@ -43349,37 +42382,10 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/79/P022697679/P022697679_238.jpg"
-  },
-  {
-    "id": "nogizaka46-b7df1d2f-",
-    "name": "宇都宮みんみん",
-    "genre": "chuka",
-    "prefecture": "栃木県",
-    "city": "宇都宮市",
-    "address": "栃木県宇都宮市馬場通り3-3-1",
-    "lat": 36.5608,
-    "lng": 139.8852,
-    "youtube_id": "",
-    "source_video_title": "乃木坂46 1人全国キャンペーン",
-    "source_url": "",
-    "visited_date": "",
-    "members": [
-      "賀喜遥香"
-    ],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "賀喜遥香さんが「夜明けまで強がらなくてもいい」PR活動の全国キャンペーンで地元栃木に来た際に訪れた宇都宮の名物餃子店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tochigi/A0901/A090101/9000045/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/79/P022697679/P022697679_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂ってどこ",
+    "qa_note": "佐藤楓は番組ではなく雑誌（BRODY）撮影後のプライベート訪問（senublog）"
   },
   {
     "id": "nogizaka46-13e87d2c-",
@@ -43402,7 +42408,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "嵯峨嵐山駅",
-    "description": "さくさんぽ京都嵐山編で遠藤さくらさんが食べていた京都牛コロッケのお惣菜屋さん。嵯峨嵐山駅から徒歩すぐ。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第3弾（2023年1月）で、着物姿の遠藤さくらが京都牛コロッケを食べた嵐山の惣菜店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26028755/",
     "hotpepper_url": "",
@@ -43411,7 +42417,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=_fqJouLR5ME",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-2dbd2fa5-",
@@ -43434,7 +42442,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "嵯峨嵐山駅",
-    "description": "さくさんぽ京都嵐山編で遠藤さくらさんがみたらし団子を食べていた和菓子店。嵐山エリアの名店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第3弾（2023年1月）で、遠藤さくらがみたらし団子を食べた嵐山の和菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26001306/",
     "hotpepper_url": "",
@@ -43443,38 +42451,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=_fqJouLR5ME",
-    "source_video_channel": "乃木坂配信中"
-  },
-  {
-    "id": "nogizaka46-b56d4626-",
-    "name": "フライングガーデン",
-    "genre": "shokuji",
-    "prefecture": "栃木県",
-    "city": "宇都宮市",
-    "address": "栃木県宇都宮市西川田東町5-2-2",
-    "lat": 36.5052,
-    "lng": 139.8659,
-    "youtube_id": "",
-    "source_video_title": "秘密のケンミンSHOW極",
-    "source_url": "",
-    "visited_date": "",
-    "members": [
-      "賀喜遥香"
-    ],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "秘密のケンミンSHOW極で賀喜遥香さんが栃木県民代表として紹介した爆弾ハンバーグの名店。学生時代からの行きつけ。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tochigi/A0902/A090202/9009189/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 46442,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/vYNrU9pbQBJ1U9JRglAwmGn5Aei.jpg"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-24-",
@@ -43489,12 +42468,15 @@
     "source_video_title": "北海道ライブを終えて美味しいご飯食べに行ってみた！【北海道で海鮮】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "岩本蓮加",
+      "菅原咲月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "北海道札幌市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年7月）で、北海道公演のあとに岩本蓮加と菅原咲月が金川紗耶の家族のおすすめで訪れた海鮮丼の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010201/1056041/",
     "hotpepper_url": "",
@@ -43502,7 +42484,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=PSHF11EVgkU"
+    "source_video_url": "https://www.youtube.com/watch?v=PSHF11EVgkU",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "visited_date が空。動画公開は2023-07-28"
   },
   {
     "id": "nogizaka46-a0ed023f-",
@@ -43517,13 +42502,17 @@
     "source_video_title": "乃木坂ってどこ",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "橋本奈々未",
+      "生田絵梨花",
+      "生駒里奈"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "西線6条駅 徒歩2分",
-    "description": "北海道札幌市のグルメスポット。乃木坂46が「乃木坂ってどこ」で訪れた。",
+    "description": "『乃木坂工事中』の16thシングル「サヨナラの意味」ヒット祈願で、橋本奈々未・生田絵梨花・生駒里奈が海鮮丼を食べた札幌・二条市場の食堂。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010103/1001073/",
     "hotpepper_url": "",
@@ -43531,7 +42520,10 @@
     "tmdb_id": 95855,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中",
+    "qa_note": "source_video_title は「乃木坂ってどこ」だが、つれのぎブログの本文では乃木坂工事中のヒット祈願"
   },
   {
     "id": "nogizaka46-13ecf141-",
@@ -43546,13 +42538,18 @@
     "source_video_title": "乃木坂ってどこ",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "橋本奈々未",
+      "生駒里奈",
+      "桜井玲香",
+      "齋藤飛鳥"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道札幌市のラーメン店。乃木坂46が「乃木坂ってどこ」で訪れた。",
+    "description": "『乃木坂ってどこ』で放送された「ぐるぐるカーテン」のキャンペーンで、橋本奈々未・生駒里奈・桜井玲香・齋藤飛鳥がラーメンを食べた札幌ラーメン横丁の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010103/1023781/",
     "hotpepper_url": "",
@@ -43560,7 +42557,9 @@
     "tmdb_id": 95855,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hRknQaxu37EuavndrIhpf4aPu8t.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂ってどこ"
   },
   {
     "id": "nogizaka46-15dd8889-",
@@ -43575,13 +42574,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "金川紗耶"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "小樽駅 徒歩4分",
-    "description": "北海道小樽市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』#373「全国ツアーでなに食べまショー 前編」（2022年8月14日放送）で、北海道出身の金川紗耶が地元グルメとして若鶏の半身揚げを紹介した小樽の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0106/A010601/1000906/",
     "hotpepper_url": "",
@@ -43589,7 +42590,11 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中 #373（2022年8月14日）",
+    "studio_only": true,
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
   },
   {
     "id": "nogizaka46-27425b2d-",
@@ -43604,13 +42609,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里",
+      "梅澤美波"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道小樽市の和食店。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で久保史緒里と梅澤美波があん肝や寿司を食べた小樽の寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0106/A010601/1040569/",
     "hotpepper_url": "",
@@ -43618,7 +42626,9 @@
     "tmdb_id": 262348,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-c459374e-",
@@ -43633,13 +42643,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里",
+      "梅澤美波"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道小樽市のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で久保史緒里と梅澤美波がメロンを食べ、海産物をお土産に買った小樽の海産物店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0106/A010601/1034465/",
     "hotpepper_url": "",
@@ -43647,7 +42660,9 @@
     "tmdb_id": 262348,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-eec95659-",
@@ -43662,13 +42677,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里",
+      "梅澤美波"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "小樽駅 徒歩16分",
-    "description": "北海道小樽市のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で久保史緒里と梅澤美波が立ち寄った小樽の菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0106/A010601/1006989/",
     "hotpepper_url": "",
@@ -43676,7 +42694,10 @@
     "tmdb_id": 262348,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。",
+    "qa_note": "つれのぎブログによると放送では写真だけの登場。食べたかは未確認"
   },
   {
     "id": "nogizaka46-c7688d90-",
@@ -43691,13 +42712,17 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "橋本奈々未",
+      "生田絵梨花",
+      "生駒里奈"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道亀田郡七飯町のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』の16thシングル「サヨナラの意味」ヒット祈願で、橋本奈々未・生駒里奈・生田絵梨花がハンバーガーを食べた函館近郊のハンバーガー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0105/A010502/1039884/",
     "hotpepper_url": "",
@@ -43705,7 +42730,9 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中"
   },
   {
     "id": "nogizaka46-cdfa7942-",
@@ -43720,13 +42747,17 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "松村沙友理",
+      "秋元真夏",
+      "星野みなみ"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道函館市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』の16thシングル「サヨナラの意味」ヒット祈願で、松村沙友理・秋元真夏・星野みなみがやきとり弁当を食べた函館のコンビニ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0105/A010501/1023104/",
     "hotpepper_url": "",
@@ -43734,7 +42765,9 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中"
   },
   {
     "id": "nogizaka46-1233c542-",
@@ -43749,13 +42782,15 @@
     "source_video_title": "【さくさんぽ第6弾】秋田県・角館をぶらり散歩！【旅行】【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "秋田県仙北市のカフェ。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第6弾（2024年11月）で、遠藤さくらが角館を散歩して味噌きりたんぽなどを食べた茶屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/akita/A0504/A050401/5007204/",
     "hotpepper_url": "",
@@ -43763,7 +42798,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=Ai6bMIk40-s"
+    "source_video_url": "https://www.youtube.com/watch?v=Ai6bMIk40-s",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "visited_date が空。動画公開は2024-11-10"
   },
   {
     "id": "nogizaka46-4fb123b7-",
@@ -43778,13 +42816,17 @@
     "source_video_title": "ライブ翌日に岩手グルメ食べに行ってみた！【焼肉・カツ丼】",
     "source_url": "",
     "visited_date": "2023-09-04",
-    "members": [],
+    "members": [
+      "梅澤美波",
+      "川﨑桜",
+      "佐藤璃果"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "一ノ関駅 徒歩4分",
-    "description": "岩手県一関市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年9月）で、岩手公演の翌日に梅澤美波・川﨑桜・佐藤璃果が佐藤璃果の母のおすすめで訪れた一関の和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/iwate/A0303/A030301/3004228/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000271881/",
@@ -43794,7 +42836,9 @@
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=BJSR_WwjQJ8",
     "source_video_channel": "乃木坂配信中",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/87/P025996887/P025996887_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/87/P025996887/P025996887_238.jpg",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-aac0d80b-",
@@ -43809,13 +42853,15 @@
     "source_video_title": "インフルエンサー山崎怜奈 個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "山崎怜奈"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "郡山駅 徒歩6分",
-    "description": "福島県郡山市のグルメスポット。『インフルエンサー山崎怜奈 個人PV』のロケ地。",
+    "description": "乃木坂46の17thシングル「インフルエンサー」Type-Dに収録された山崎怜奈の個人PVの撮影に使われた郡山の中国料理店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -43823,7 +42869,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「インフルエンサー」Type-D 個人PV"
   },
   {
     "id": "nogizaka46-a5ff58b9-",
@@ -43838,20 +42886,25 @@
     "source_video_title": "何度目の青空か　深川個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "深川麻衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "栃木県足利市の居酒屋。『何度目の青空か　深川個人PV』のロケ地。",
+    "description": "乃木坂46の10thシングル「何度目の青空か」Type-Cに収録された深川麻衣の個人PVで、店の駐車場が撮影に使われた足利の居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tochigi/A0901/A090101/9020221/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「何度目の青空か」Type-C 個人PV",
+    "qa_note": "店内ではなく駐車場に深川麻衣が立つ場面"
   },
   {
     "id": "nogizaka46-900fe842-",
@@ -43866,48 +42919,24 @@
     "source_video_title": "白米様 MV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "伊藤かりん"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "飯能駅 徒歩5分",
-    "description": "埼玉県飯能市のグルメスポット。『白米様 MV』のロケ地。",
+    "description": "乃木坂46「白米様」（さゆりんご軍団）のMVで、伊藤かりんがおにぎりを食べる場面に使われた飯能の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1106/A110603/11024031/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-6605b4f9-",
-    "name": "前島商店",
-    "genre": "others",
-    "prefecture": "埼玉県",
-    "city": "飯能市",
-    "address": "飯能市仲町３−８",
-    "lat": 35.853272,
-    "lng": 139.317416,
-    "youtube_id": "",
-    "source_video_title": "白米様 MV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "飯能駅 徒歩5分",
-    "description": "埼玉県飯能市のグルメスポット。『白米様 MV』のロケ地。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/saitama/A1106/A110601/11050368/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「白米様」MV"
   },
   {
     "id": "nogizaka46-8035f65c-",
@@ -43922,13 +42951,18 @@
     "source_video_title": "白米様 MV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "松村沙友理",
+      "伊藤かりん",
+      "佐々木琴子",
+      "寺田蘭世"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "飯能駅 徒歩5分",
-    "description": "埼玉県飯能市のカフェ。『白米様 MV』のロケ地。",
+    "description": "乃木坂46「白米様」のMVで、さゆりんご軍団がジュースを飲み、松村沙友理がリンゴを取り出す場面に使われた飯能の喫茶店・甘太郎焼きの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -43936,36 +42970,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-4d24fb71-",
-    "name": "フラワーファーム・ストロベリー",
-    "genre": "others",
-    "prefecture": "埼玉県",
-    "city": "飯能市",
-    "address": "飯能市柳町２２−１３",
-    "lat": 35.8514283,
-    "lng": 139.3225091,
-    "youtube_id": "",
-    "source_video_title": "白米様 MV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "埼玉県飯能市のグルメスポット。『白米様 MV』のロケ地。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「白米様」MV",
+    "qa_note": "さゆりんご軍団は当時の4人（松村沙友理・伊藤かりん・佐々木琴子・寺田蘭世）として記載"
   },
   {
     "id": "nogizaka46-4267951b-",
@@ -43980,13 +42988,15 @@
     "source_video_title": "走れBicycle　星野 個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "星野みなみ"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "乃木坂駅 徒歩6分",
-    "description": "乃木坂46が「走れBicycle　星野 個人PV」で訪れたグルメスポット。",
+    "description": "乃木坂46の3rdシングル「走れBicycle」に収録された星野みなみの個人PVの撮影に使われた南青山の喫茶店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -43994,7 +43004,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「走れBicycle」個人PV",
+    "qa_note": "PV内でメンバーがよく訪れていた店と話している（つれのぎブログ）"
   },
   {
     "id": "nogizaka46-d1c66592-",
@@ -44009,20 +43022,24 @@
     "source_video_title": "夏のFree&Easy　白石 個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "白石麻衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "乃木坂46が「夏のFree&Easy　白石 個人PV」で訪れたカフェ。",
+    "description": "乃木坂46の9thシングル「夏のFree&Easy」に収録された白石麻衣の個人PVの撮影に使われた南青山のレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13148134/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「夏のFree&Easy」個人PV"
   },
   {
     "id": "nogizaka46-mille_mele-",
@@ -44037,13 +43054,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "井上和"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "神奈川県鎌倉市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "乃木坂46の井上和が鎌倉のロケで、よく通っていたアップルパイの店として店の前で紹介した店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44051,7 +43070,10 @@
     "source_type": "",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中",
+    "qa_note": "つれのぎブログによると店内には入っていない。番組・回は未確認（データは乃木坂工事中）"
   },
   {
     "id": "nogizaka46-66f82219-",
@@ -44066,13 +43088,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "井上和"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "神奈川県鎌倉市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "乃木坂46の井上和が鎌倉でのヒット祈願中にマンゴーかき氷を食べた小町通りの甘味処。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14050734/",
     "hotpepper_url": "",
@@ -44080,7 +43104,10 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中（ヒット祈願）",
+    "qa_note": "どのシングルのヒット祈願かは未確認"
   },
   {
     "id": "nogizaka46-34c9d2f5-",
@@ -44095,13 +43122,17 @@
     "source_video_title": "地球が丸いならMV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "与田祐希",
+      "齋藤飛鳥",
+      "大園桃子"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "神奈川県鎌倉市のグルメスポット。『地球が丸いならMV』のロケ地。",
+    "description": "乃木坂46「地球が丸いなら」のMVで、メンバーが紫芋ソフトを食べる場面に使われた鎌倉・小町通りのさつまいも菓子店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44109,35 +43140,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-b222ed3c-",
-    "name": "こ寿々本店",
-    "genre": "others",
-    "prefecture": "神奈川県",
-    "city": "鎌倉市",
-    "address": "鎌倉市小町2-13-4",
-    "lat": 35.3242675,
-    "lng": 139.5524688,
-    "youtube_id": "",
-    "source_video_title": "地球が丸いならMV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "鎌倉駅 徒歩10分",
-    "description": "神奈川県鎌倉市のグルメスポット。『地球が丸いならMV』のロケ地。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14000268/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「地球が丸いなら」MV",
+    "qa_note": "members は同じMVのほかの店（senublog）と同じ3人とした"
   },
   {
     "id": "nogizaka46-7f06776c-",
@@ -44152,13 +43158,17 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "衛藤美彩",
+      "新内眞衣",
+      "秋元真夏"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "鎌倉駅 徒歩10分",
-    "description": "神奈川県鎌倉市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』の鎌倉ツアーで、衛藤美彩・新内眞衣・秋元真夏が値切って今川焼を買った小町通りの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14049147/",
     "hotpepper_url": "",
@@ -44166,7 +43176,9 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中"
   },
   {
     "id": "nogizaka46-afaa6230-",
@@ -44181,20 +43193,24 @@
     "source_video_title": "羽根の記憶MV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "高山一実"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "神奈川県のカフェ。『羽根の記憶MV』のロケ地。",
+    "description": "乃木坂46「羽根の記憶」のMVで、店の前に高山一実がいる場面に使われた江の島のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140403/14012042/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「羽根の記憶」MV"
   },
   {
     "id": "nogizaka46-3ec4df6c-",
@@ -44209,20 +43225,26 @@
     "source_video_title": "乃木坂配信中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "秋元真夏",
+      "岩本蓮加"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "片瀬江ノ島駅 徒歩16分",
-    "description": "神奈川県のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」で秋元真夏と岩本蓮加がたこせんべいを食べた江の島のせんべい店。「地球が丸いなら」のMVの最後でメンバーが伊勢海老せんを食べた店でもある。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140403/14055885/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "乃木坂配信中の動画は未特定（youtube_id なし）"
   },
   {
     "id": "nogizaka46-72abee83-",
@@ -44237,20 +43259,27 @@
     "source_video_title": "nogibingo10",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "与田祐希",
+      "阪口珠美",
+      "衛藤美彩",
+      "斉藤優里"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "山梨県甲斐市のグルメスポット。乃木坂46の「nogibingo10」に登場。",
+    "description": "『NOGIBINGO!10』の与田祐希の回で、与田祐希・阪口珠美・衛藤美彩・斉藤優里がほうとうを食べた甲斐市のほうとう店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/yamanashi/A1901/A190101/19003489/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "NOGIBINGO!10"
   },
   {
     "id": "nogizaka46-cc25e3f6-",
@@ -44265,20 +43294,27 @@
     "source_video_title": "ベストアルバムポスター貼り",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "樋口日奈",
+      "中村麗乃",
+      "掛橋沙耶香"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "北須坂駅 徒歩7分",
-    "description": "長野県須坂市の和食店。乃木坂46の「ベストアルバムポスター貼り」に登場。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、樋口日奈・中村麗乃・掛橋沙耶香らが北須坂駅に貼れなかったポスターを貼った須坂の食堂。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nagano/A2001/A200102/20006241/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り（のぎ動画）",
+    "qa_note": "ポスターを貼った場所。食事をしたかは未確認"
   },
   {
     "id": "nogizaka46-aeaf5313-",
@@ -44299,14 +43335,17 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "富山県富山市のグルメスポット。乃木坂46の「ベストアルバムポスター貼り」に登場。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、婦中鵜坂駅に貼れなかったポスターを貼りに訪れた富山の寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/toyama/A1601/A160101/16006021/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り",
+    "qa_note": "訪れたメンバー・食事は未確認"
   },
   {
     "id": "nogizaka46-d8c9092c-",
@@ -44321,20 +43360,26 @@
     "source_video_title": "シンクロニシティ 特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "白石麻衣",
+      "松村沙友理",
+      "若月佑美"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "石川県金沢市の和食店。乃木坂46の「シンクロニシティ 特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Aの特典映像で、白石麻衣・松村沙友理・若月佑美が訪れた金沢の寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000107/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-A 特典映像"
   },
   {
     "id": "nogizaka46-d86bd495-",
@@ -44355,7 +43400,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "静岡県伊東市のカフェ。『錆びたコンパスMV』のロケ地。",
+    "description": "乃木坂46の27thシングル「ごめんねFingers crossed」Type-D収録の「錆びたコンパス」のMVの撮影に使われた伊豆高原のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220503/22000369/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ002654009/",
@@ -44363,36 +43408,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/55/67/P039625567/P039625567_238.jpg"
-  },
-  {
-    "id": "nogizaka46-2337fa28-",
-    "name": "旧エンバーソン住宅",
-    "genre": "izakaya",
-    "prefecture": "静岡県",
-    "city": "静岡市",
-    "address": "静岡県静岡市駿河区池田2864-52",
-    "lat": 34.981945,
-    "lng": 138.437412,
-    "youtube_id": "",
-    "source_video_title": "考えないようにする MV",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "静岡県静岡市の居酒屋。『考えないようにする MV』のロケ地。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/55/67/P039625567/P039625567_238.jpg",
+    "visit_kind": "drama",
+    "program": "乃木坂46「錆びたコンパス」MV",
+    "qa_note": "写っているメンバーは特定せず"
   },
   {
     "id": "nogizaka46-6b31f43b-",
@@ -44407,13 +43426,17 @@
     "source_video_title": "愛知でのライブ前日に美味しいご飯食べに行ってみた！【中華・かき氷】",
     "source_url": "",
     "visited_date": "2023-08-17",
-    "members": [],
+    "members": [
+      "黒見明香",
+      "佐藤楓",
+      "清宮レイ"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "愛知県名古屋市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年8月）で、愛知公演の前日に黒見明香・佐藤楓・清宮レイが佐藤楓の叔母のおすすめでかき氷を食べた名古屋の甘味処。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230103/23001219/",
     "hotpepper_url": "",
@@ -44422,7 +43445,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=dI9wijBEyx0",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-6286381d-",
@@ -44437,19 +43462,26 @@
     "source_video_title": "ベストアルバムポスター貼り",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "生田絵梨花",
+      "梅澤美波",
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "愛知県丹羽郡大口町のグルメスポット。乃木坂46の「ベストアルバムポスター貼り」に登場。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、生田絵梨花・梅澤美波・遠藤さくららが昼食にひつまぶしを食べた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230101/23014923/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り",
+    "qa_note": "つれのぎブログでは「本店 名古屋市千種区東山元町3-70」。データの住所（丹羽郡大口町）と食い違うので店舗・住所の確認が必要"
   },
   {
     "id": "nogizaka46-afdf89d9-",
@@ -44464,13 +43496,16 @@
     "source_video_title": "ベストアルバムポスター貼り",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "阪口珠美",
+      "田村真佑"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "乃木坂46が「ベストアルバムポスター貼り」で訪れたグルメスポット。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、阪口珠美と田村真佑が昼食を食べた大垣の飛騨牛の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000373664/",
@@ -44479,7 +43514,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/28/94/P018572894/P018572894_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/28/94/P018572894/P018572894_238.jpg",
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り"
   },
   {
     "id": "nogizaka46-8e7815be-",
@@ -44494,20 +43531,25 @@
     "source_video_title": "ここにはないものヒット祈願",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "齋藤飛鳥"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "奈良県高市のグルメスポット。乃木坂46の「ここにはないものヒット祈願」に登場。",
+    "description": "乃木坂46の31stシングル「ここにはないもの」のヒット祈願で、齋藤飛鳥が明日香村で訪れたレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/nara/A2902/A290202/29013242/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中（ここにはないもの ヒット祈願）",
+    "qa_note": "食べたものは未確認"
   },
   {
     "id": "nogizaka46-35e2b3d3-",
@@ -44522,13 +43564,17 @@
     "source_video_title": "シンクロニシティ特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "生駒里奈",
+      "生田絵梨花",
+      "星野みなみ"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "兵庫県神戸市のグルメスポット。乃木坂46の「シンクロニシティ特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Bの特典映像で、生駒里奈・生田絵梨花・星野みなみが訪れた神戸のビフテキ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28002105/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000635452/",
@@ -44536,7 +43582,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/79/44/P028697944/P028697944_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/79/44/P028697944/P028697944_238.jpg",
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-B 特典映像"
   },
   {
     "id": "nogizaka46-af1569a8-",
@@ -44551,13 +43599,17 @@
     "source_video_title": "大阪でのライブ前日に美味しいご飯食べに行ってみた！【イタリアン・たこ焼き】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "賀喜遥香",
+      "池田瑛紗",
+      "中村麗乃"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "新大阪駅 徒歩11分",
-    "description": "大阪府大阪市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年8月）で、大阪公演の前日に賀喜遥香・池田瑛紗・中村麗乃が賀喜遥香の家族のおすすめでたこ焼きを食べた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27001878/",
     "hotpepper_url": "",
@@ -44565,7 +43617,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=ik2ZQuP2L7E"
+    "source_video_url": "https://www.youtube.com/watch?v=ik2ZQuP2L7E",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "visited_date が空。動画公開は2023-08-02"
   },
   {
     "id": "nogizaka46-0afb1fce-",
@@ -44580,13 +43635,15 @@
     "source_video_title": "【舞いあがれ！収録前日】山下美月の大阪くいだおれ旅！【vlog】",
     "source_url": "",
     "visited_date": "2022-11-19",
-    "members": [],
+    "members": [
+      "山下美月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "大阪府大阪市のグルメスポット。乃木坂46が「乃木坂配信中（山下美月）」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「山下美月の大阪くいだおれ旅！」（2022年11月）で、山下美月がステーキ寿司を食べた道頓堀の和牛店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27098969/",
     "hotpepper_url": "",
@@ -44595,7 +43652,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=bNbI6m6S7f0",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-5010a9f2-",
@@ -44610,13 +43669,15 @@
     "source_video_title": "【舞いあがれ！収録前日】山下美月の大阪くいだおれ旅！【vlog】",
     "source_url": "",
     "visited_date": "2022-11-19",
-    "members": [],
+    "members": [
+      "山下美月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "大阪府大阪市のグルメスポット。乃木坂46が「乃木坂配信中（山下美月）」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「山下美月の大阪くいだおれ旅！」（2022年11月）で、山下美月がたこ焼きを食べた道頓堀のたこ焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27092198/",
     "hotpepper_url": "",
@@ -44625,7 +43686,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=bNbI6m6S7f0",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-10-",
@@ -44640,13 +43703,15 @@
     "source_video_title": "【舞いあがれ！収録前日】山下美月の大阪くいだおれ旅！【vlog】",
     "source_url": "",
     "visited_date": "2022-11-19",
-    "members": [],
+    "members": [
+      "山下美月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "大阪府大阪市のカフェ。乃木坂46が「乃木坂配信中（山下美月）」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「山下美月の大阪くいだおれ旅！」（2022年11月）で、山下美月がチーズの10円パンを食べた道頓堀の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44656,7 +43721,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=bNbI6m6S7f0",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-9e0252e2-",
@@ -44671,13 +43738,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "賀喜遥香"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "古市駅 徒歩18分",
-    "description": "大阪府羽曳野市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』#374「全国ツアーでなに食べまショー 後編」（2022年8月21日放送）で、賀喜遥香が家族ご用達の大阪グルメとしてケーキを紹介した羽曳野の洋菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2708/A270801/27003570/",
     "hotpepper_url": "",
@@ -44685,36 +43754,11 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-  },
-  {
-    "id": "nogizaka46-797b591b-",
-    "name": "あいきょう 黒坂店",
-    "genre": "others",
-    "prefecture": "鳥取県",
-    "city": "日野郡日野町",
-    "address": "日野郡日野町黒坂1566-1",
-    "lat": 35.207049,
-    "lng": 133.3836198,
-    "youtube_id": "",
-    "source_video_title": "ベストアルバムポスター貼り",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "黒坂駅 徒歩1分",
-    "description": "鳥取県日野郡日野町のグルメスポット。乃木坂46の「ベストアルバムポスター貼り」に登場。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中 #374（2022年8月21日）",
+    "studio_only": true,
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
   },
   {
     "id": "nogizaka46-5c86c1cd-",
@@ -44729,13 +43773,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら",
+      "弓木奈於"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "鳥取県鳥取市のスイーツショップ。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で遠藤さくらと弓木奈於がプリンのかき氷を食べた鳥取砂丘のかき氷店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44743,7 +43790,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-98ce0d08-",
@@ -44758,13 +43807,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら",
+      "弓木奈於"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "鳥取県鳥取市の和食店。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で遠藤さくらと弓木奈於がハタハタを試食し、お土産を買った鳥取港の海鮮市場。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44772,7 +43824,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-6e512434-",
@@ -44787,13 +43841,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら",
+      "弓木奈於"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "出雲大社前駅 徒歩5分",
-    "description": "島根県出雲市のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で遠藤さくらと弓木奈於が出雲ぜんざいと抹茶ぜんざいを食べた出雲大社前のぜんざい店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44801,7 +43858,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-21cf21c6-",
@@ -44816,13 +43875,17 @@
     "source_video_title": "シンクロニシティ特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "高山一実",
+      "寺田蘭世",
+      "山下美月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "山口県下関市のグルメスポット。乃木坂46の「シンクロニシティ特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Cの特典映像で、高山一実・寺田蘭世・山下美月が見蘭牛のステーキなどを食べた下関のレストラン。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44830,7 +43893,11 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-C 特典映像",
+    "qa_note": "つれのぎブログによると閉店。closed の付与を検討",
+    "closed": true
   },
   {
     "id": "nogizaka46-f62fbf7c-",
@@ -44845,13 +43912,17 @@
     "source_video_title": "シンクロニシティ特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "高山一実",
+      "寺田蘭世",
+      "山下美月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "山口県下関市のグルメスポット。乃木坂46の「シンクロニシティ特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Cの特典映像で、高山一実・寺田蘭世・山下美月が訪れた下関のふぐ料理の老舗。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44859,7 +43930,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-C 特典映像",
+    "qa_note": "食べたものは未確認"
   },
   {
     "id": "nogizaka46-594b5aa3-",
@@ -44874,20 +43948,26 @@
     "source_video_title": "シンクロニシティ特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "西野七瀬",
+      "桜井玲香",
+      "新内眞衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "大橋通駅 徒歩2分",
-    "description": "高知県高知市のグルメスポット。乃木坂46の「シンクロニシティ特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Cの特典映像「旅する3人」で、西野七瀬・桜井玲香・新内眞衣がアイスや餃子を食べた高知の屋台村。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kochi/A3901/A390101/39006303/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-C 特典映像（旅する3人 高知編）"
   },
   {
     "id": "nogizaka46-85160121-",
@@ -44902,13 +43982,16 @@
     "source_video_title": "ベストアルバムポスター貼り",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "和田まあや",
+      "新内眞衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "熊本城・市役所前駅 徒歩4分",
-    "description": "熊本県熊本市のグルメスポット。乃木坂46の「ベストアルバムポスター貼り」に登場。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで、和田まあやと新内眞衣が訪れ、2人のポスターが貼られた熊本の馬肉料理店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44916,7 +43999,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り",
+    "qa_note": "食事をしたかは未確認"
   },
   {
     "id": "nogizaka46-5f722154-",
@@ -44931,13 +44017,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "与田祐希"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "名島駅 徒歩16分",
-    "description": "福岡県福岡市のカフェ。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』#374「全国ツアーでなに食べまショー 後編」（2022年8月21日放送）で、福岡出身の与田祐希が家族でよく訪れたパン店として明太フランスを紹介した店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44945,7 +44033,11 @@
     "source_type": "",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中 #374（2022年8月21日）",
+    "studio_only": true,
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
   },
   {
     "id": "nogizaka46-262c7d13-",
@@ -44960,13 +44052,15 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "与田祐希"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "福岡県福岡市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』#374「全国ツアーでなに食べまショー 後編」（2022年8月21日放送）で、与田祐希が福岡グルメとして紹介した志賀島のステーキ店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -44974,7 +44068,11 @@
     "source_type": "",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中 #374（2022年8月21日）",
+    "studio_only": true,
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
   },
   {
     "id": "nogizaka46-6539e6ce-",
@@ -44989,13 +44087,16 @@
     "source_video_title": "乃木坂工事中罰ポイント清算ツアー",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "与田祐希",
+      "寺田蘭世"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "沖縄県国頭郡恩納村のグルメスポット。乃木坂46の「乃木坂工事中罰ポイント清算ツアー」に登場。",
+    "description": "『乃木坂工事中』の罰ポイント清算ツアー（2019年3〜4月放送）で、与田祐希と寺田蘭世が店主手作りの絶叫マシンに乗った沖縄そば店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -45003,36 +44104,11 @@
     "source_type": "",
     "tmdb_id": 96386,
     "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-tama-",
-    "name": "工房TAMA",
-    "genre": "others",
-    "prefecture": "沖縄県",
-    "city": "国頭郡恩納村",
-    "address": "国頭郡恩納村真栄田３３２３−１",
-    "lat": 26.431891,
-    "lng": 127.7636468,
-    "youtube_id": "",
-    "source_video_title": "乃木坂、逃避行。",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "沖縄県国頭郡恩納村のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/okinawa/A4703/A470301/47026148/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 262348,
-    "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中（罰ポイント清算ツアー・2019年）",
+    "qa_note": "食事をしたかは未確認。つれのぎブログによると閉店。closed の付与を検討",
+    "closed": true
   },
   {
     "id": "nogizaka46-fd5fdded-",
@@ -45047,13 +44123,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "井上和",
+      "五百城茉央"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "沖縄県中頭郡北谷町のカフェ。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で井上和と五百城茉央がアイスクリームを食べた北谷のアイスクリーム店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -45061,37 +44140,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-55558cd0-",
-    "name": "京越 嵐山店",
-    "genre": "others",
-    "prefecture": "京都府",
-    "city": "京都市",
-    "address": "京都府京都市右京区嵯峨天龍寺造路町６−１",
-    "lat": 35.014632,
-    "lng": 135.679115,
-    "youtube_id": "_fqJouLR5ME",
-    "source_video_title": "【さくさんぽ】遠藤さくらが京都をぶらり散歩！【vlog】",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "嵐山駅 徒歩2分",
-    "description": "京都府京都市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=_fqJouLR5ME"
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-cafe_bar_1_point-",
@@ -45106,13 +44157,15 @@
     "source_video_title": "バレッタ 斉藤優里 個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "斉藤優里"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "浅草駅 徒歩5分",
-    "description": "乃木坂46が「バレッタ 斉藤優里 個人PV」で訪れたグルメスポット。",
+    "description": "乃木坂46の7thシングル「バレッタ」に収録された斉藤優里の個人PVの撮影場所とされる浅草のカフェバー。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -45120,7 +44173,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「バレッタ」個人PV",
+    "qa_note": "出典（つれのぎブログ等）で確かめられなかった。要確認"
   },
   {
     "id": "nogizaka46-5b302f5e-",
@@ -45135,13 +44191,15 @@
     "source_video_title": "【さくさんぽ】遠藤さくらが谷中銀座をぶらり散歩！【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "千駄木駅 徒歩4分",
-    "description": "乃木坂46が「乃木坂配信中　さくさんぽ」で訪れたグルメスポット。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第1弾（2022年4月）で、遠藤さくらがチーズ棒を買った谷中の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131106/13103773/",
     "hotpepper_url": "",
@@ -45149,7 +44207,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU"
+    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-6ebe4bd3-",
@@ -45164,13 +44224,15 @@
     "source_video_title": "【さくさんぽ】遠藤さくらが谷中銀座をぶらり散歩！【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "千駄木駅 徒歩4分",
-    "description": "乃木坂46が「乃木坂配信中　さくさんぽ」で訪れたグルメスポット。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第1弾（2022年4月）で、遠藤さくらがアイスを買って食べた谷中の和栗の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131106/13130539/",
     "hotpepper_url": "",
@@ -45178,7 +44240,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU"
+    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-86952d9f-",
@@ -45193,13 +44257,15 @@
     "source_video_title": "【さくさんぽ】遠藤さくらが谷中銀座をぶらり散歩！【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "乃木坂46が「乃木坂配信中　さくさんぽ」で訪れたグルメスポット。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第1弾（2022年4月）で、遠藤さくらがお団子を買った谷中の和菓子店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13101340/",
     "hotpepper_url": "",
@@ -45207,7 +44273,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU"
+    "source_video_url": "https://www.youtube.com/watch?v=4OMxuO4OtGU",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-b02faebc-",
@@ -45228,43 +44296,17 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "京都府京都市のグルメスポット。乃木坂46の「シンクロニシティ　特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」の特典映像で、メンバーが抹茶アイスを食べた嵐山の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26024746/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-5fe15c78-",
-    "name": "覚王山吉芋本店",
-    "genre": "others",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "愛知県名古屋市千種区日進通５丁目２−４",
-    "lat": 35.161262,
-    "lng": 136.950583,
-    "youtube_id": "",
-    "source_video_title": "乃木坂工事中",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "覚王山駅 徒歩10分",
-    "description": "愛知県名古屋市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2301/A230107/23091047/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」特典映像",
+    "qa_note": "訪れたメンバー・Type は確かめられず"
   },
   {
     "id": "kattun-14c7a548-",
@@ -50685,13 +49727,17 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "生駒里奈",
+      "松村沙友理",
+      "秋元真夏"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道上川郡東神楽町のスイーツショップ。乃木坂46が「乃木坂工事中」で訪れた。",
+    "description": "『乃木坂工事中』の16thシングル「サヨナラの意味」ヒット祈願で、生駒里奈・松村沙友理・秋元真夏がアイスを食べた東神楽町の牧場のアイス店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0104/A010405/1008263/",
     "hotpepper_url": "",
@@ -50699,7 +49745,9 @@
     "tmdb_id": 96386,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂工事中"
   },
   {
     "id": "nogizaka46-85945206-",
@@ -50714,13 +49762,16 @@
     "source_video_title": "北海道ライブを終えて美味しいご飯食べに行ってみた！【北海道で海鮮】",
     "source_url": "",
     "visited_date": "2023-07-28",
-    "members": [],
+    "members": [
+      "岩本蓮加",
+      "菅原咲月"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "発寒中央駅 徒歩14分",
-    "description": "北海道札幌市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年7月）で、北海道公演のあとに岩本蓮加と菅原咲月がいももちなどを食べた札幌の回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010204/1002066/",
     "hotpepper_url": "",
@@ -50729,7 +49780,9 @@
     "tmdb_type": "",
     "ordered_items": [],
     "source_video_url": "https://www.youtube.com/watch?v=PSHF11EVgkU",
-    "source_video_channel": "乃木坂配信中"
+    "source_video_channel": "乃木坂配信中",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-6cc5299b-",
@@ -50744,13 +49797,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里",
+      "梅澤美波"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道勇払郡占冠村のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で久保史緒里と梅澤美波が星野リゾート トマムで朝食を食べた店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -50758,7 +49814,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-cafe_mubanchi-",
@@ -50773,13 +49831,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "久保史緒里",
+      "梅澤美波"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "北海道河東郡鹿追町のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
+    "description": "『乃木坂、逃避行。』で久保史緒里と梅澤美波がジャガイモピザなどを食べた然別湖畔のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0111/A011104/1053080/",
     "hotpepper_url": "",
@@ -50787,7 +49848,9 @@
     "tmdb_id": 262348,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg",
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-9a8d7635-",
@@ -50802,20 +49865,24 @@
     "source_video_title": "おいでシャンプー　白石個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "白石麻衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "栃木県足利市のグルメスポット。『おいでシャンプー　白石個人PV』のロケ地。",
+    "description": "乃木坂46の2ndシングル「おいでシャンプー」Type-Cに収録された白石麻衣の個人PVで、白石麻衣がもんじゃを食べる場面に使われた足利のお好み焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tochigi/A0902/A090202/9006270/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「おいでシャンプー」Type-C 個人PV"
   },
   {
     "id": "nogizaka46-awkitchen_garden-",
@@ -50830,20 +49897,24 @@
     "source_video_title": "帰り道は遠回りしたくなるTypeC 桜井個人PV",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "桜井玲香"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "由比ヶ浜駅 徒歩2分",
-    "description": "出典: 帰り道は遠回りしたくなるTypeC 桜井個人PV",
+    "description": "乃木坂46の22ndシングル「帰り道は遠回りしたくなる」Type-Cに収録された桜井玲香の個人PVの撮影に使われた鎌倉のレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140402/14066245/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「帰り道は遠回りしたくなる」Type-C 個人PV"
   },
   {
     "id": "nogizaka46-407414cd-",
@@ -50858,13 +49929,15 @@
     "source_video_title": "走れバイシクル松村個人pv",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "松村沙友理"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "山梨県北杜市のカフェ。乃木坂46が「走れバイシクル松村個人pv」で訪れた。",
+    "description": "乃木坂46の3rdシングル「走れBicycle」Type-Aに収録された松村沙友理の個人PVの撮影に使われた清里・萌木の村のカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -50872,7 +49945,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "乃木坂46「走れBicycle」Type-A 個人PV"
   },
   {
     "id": "nogizaka46-6da56ed8-",
@@ -50887,12 +49962,14 @@
     "source_video_title": "【さくさんぽ】遠藤さくらが山中温泉をぶらり散歩！【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "石川県加賀市のグルメスポット。乃木坂46が「乃木坂配信中　さくさんぽ」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第2弾（2022年7月）で、遠藤さくらがコロッケを食べた山中温泉の精肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1702/A170203/17005151/",
     "hotpepper_url": "",
@@ -50900,36 +49977,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=P21K4rjNAkY"
-  },
-  {
-    "id": "nogizaka46-54c3973d-",
-    "name": "新かどや",
-    "genre": "others",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "熱海市小嵐町１４−８",
-    "lat": 35.0904658,
-    "lng": 139.0661348,
-    "youtube_id": "",
-    "source_video_title": "乃木坂工事中",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "静岡県熱海市のグルメスポット。乃木坂46が「乃木坂工事中」で訪れた。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22001796/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
+    "source_video_url": "https://www.youtube.com/watch?v=P21K4rjNAkY",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-9d08772e-",
@@ -50944,13 +49994,16 @@
     "source_video_title": "乃木坂、逃避行。",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "田村真佑",
+      "池田瑛紗"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "乃木坂46が「乃木坂、逃避行」で訪れたグルメスポット。",
+    "description": "『乃木坂、逃避行。』で田村真佑と池田瑛紗がうな重を食べた郡上八幡のうなぎ店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -50958,36 +50011,9 @@
     "source_type": "",
     "tmdb_id": 262348,
     "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "nogizaka46-16de035e-",
-    "name": "らくだや",
-    "genre": "others",
-    "prefecture": "鳥取県",
-    "city": "鳥取市",
-    "address": "鳥取市福部町湯山２１６４−８０６",
-    "lat": 35.5425613,
-    "lng": 134.2508319,
-    "youtube_id": "",
-    "source_video_title": "乃木坂、逃避行。",
-    "source_url": "",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "",
-    "description": "鳥取県鳥取市のグルメスポット。乃木坂46が「乃木坂、逃避行」で訪れた。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hiroshima/A3407/A340403/34027852/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 262348,
-    "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
+    "visit_kind": "own_tv",
+    "program": "乃木坂、逃避行。"
   },
   {
     "id": "nogizaka46-794e0b8b-",
@@ -51002,13 +50028,17 @@
     "source_video_title": "シンクロニシティ特典映像",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "西野七瀬",
+      "桜井玲香",
+      "新内眞衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "",
-    "description": "香川県高松市のラーメン店。乃木坂46の「シンクロニシティ特典映像」に登場。",
+    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Cの特典映像「旅する3人」で、西野七瀬・桜井玲香・新内眞衣がうどんの手打ちを体験した高松のうどん店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kagawa/A3701/A370101/37007229/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000776714/",
@@ -51016,7 +50046,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/81/63/P029078163/P029078163_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/81/63/P029078163/P029078163_238.jpg",
+    "visit_kind": "other",
+    "program": "乃木坂46「シンクロニシティ」Type-C 特典映像（旅する3人）",
+    "qa_note": "genre はラーメンではなく和食（うどん）。旧descriptionの「ラーメン店」は誤り"
   },
   {
     "id": "nogizaka46-1c6ffb46-",
@@ -51031,20 +50064,25 @@
     "source_video_title": "ベストアルバムポスター貼り",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "和田まあや",
+      "新内眞衣"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "通町筋駅 徒歩3分",
-    "description": "熊本県熊本市のグルメスポット。乃木坂46の「ベストアルバムポスター貼り」に登場。",
+    "description": "乃木坂46のベストアルバム「Time flies」の告知ポスター貼りで熊本を訪れた和田まあやと新内眞衣が、パフェを食べた甘味処。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4008/A400806/40014949/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ベストアルバム「Time flies」ポスター貼り"
   },
   {
     "id": "nogizaka46-61d3ebed-",
@@ -51059,13 +50097,15 @@
     "source_video_title": "【さくさんぽ】遠藤さくらが京都をぶらり散歩！【vlog】",
     "source_url": "",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "遠藤さくら"
+    ],
     "groups": [
       "nogizaka46"
     ],
     "group": "nogizaka46",
     "nearest_station": "嵐電嵯峨駅 徒歩1分",
-    "description": "京都府京都市のグルメスポット。乃木坂46が「乃木坂配信中」で訪れた。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「さくさんぽ」第3弾（2023年1月）で、遠藤さくらがわらび餅を食べた嵐山の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26040001/",
     "hotpepper_url": "",
@@ -51073,7 +50113,9 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=_fqJouLR5ME"
+    "source_video_url": "https://www.youtube.com/watch?v=_fqJouLR5ME",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "hinatazaka46-popocate-",
@@ -67118,9 +66160,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "筒井あやめがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「筒井あやめのふらっと喫茶探訪」第2弾（2023年1月）で、筒井あやめが1人で訪れた西新宿の喫茶店。",
     "source_url": "https://rurubu.jp/andmore/article/10456",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-633aa5f2-20230817",
@@ -67144,9 +66188,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "黒見明香・佐藤楓・清宮レイがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年8月）で、愛知公演の前日に黒見明香・佐藤楓・清宮レイが佐藤楓の叔母のおすすめで訪れた今池の中華料理店。",
     "source_url": "https://number.bunshun.jp/articles/-/865978",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-dfa96bd5-20230904",
@@ -67170,12 +66216,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "梅澤美波・川﨑桜・佐藤璃果がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2023年9月）で、岩手公演の翌日に梅澤美波・川﨑桜・佐藤璃果が牛匠盛りを食べた奥州市の焼肉店。",
     "source_url": "https://www.mapple.net/article/95631/",
     "source_type": "youtube",
     "ordered_items": [
       "牛匠盛り"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-dea0c2f0-20231013",
@@ -67198,12 +66246,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "筒井あやめ・清宮レイがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「筒井喫茶探訪」第3弾（2023年10月）で、筒井あやめが清宮レイを連れてかき氷を食べた日本橋横山町のかき氷店。",
     "source_url": "https://www.instagram.com/demekin_kakigori/",
     "source_type": "youtube",
     "ordered_items": [
       "かき氷"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-2344747e-20240630",
@@ -67225,9 +66275,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "久保史緒里がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「くぼっち飯」（2024年6月）で、久保史緒里が1人で訪れた清澄白河の町中華。",
     "source_url": "https://www.openstreetmap.org/search?query=%E6%A1%83%E5%A4%AA%E6%A5%BC",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-a04c2555-20241220",
@@ -67253,11 +66305,13 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "田村真佑・池田瑛紗・一ノ瀬美空・小川彩・菅原咲月がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2024年12月）で、「まゆたん協会」の田村真佑・池田瑛紗・一ノ瀬美空・小川彩・菅原咲月がバーベキューをした表参道の店。",
     "source_url": "https://www.hotpepper.jp/strJ003410825/",
     "source_type": "youtube",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003410825/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/26/34/P042102634/P042102634_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/26/34/P042102634/P042102634_238.jpg",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-65b993cb-20250311",
@@ -67279,9 +66333,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "中西アルノがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2025年3月）で、中西アルノが朝ごはんを食べた水道橋の牛丼チェーン店。",
     "source_url": "https://www.youtube.com/watch?v=N3at1wgMI8Y",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-2db54b7f-20250714",
@@ -67305,12 +66361,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "五百城茉央・伊藤理々杏・増田三莉音がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「真夏の全国ツアー2025PR大作戦！大阪篇」（2025年7月）で、五百城茉央・伊藤理々杏・増田三莉音が桃パフェを食べた洋菓子店。",
     "source_url": "https://rurubu.jp/andmore/spot/80124749",
     "source_type": "youtube",
     "ordered_items": [
       "桃パフェ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-d774a222-20260227",
@@ -67334,9 +66392,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "小川彩・増田三莉音・森平麗心がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2026年2月）で、小川彩が後輩の増田三莉音・森平麗心を連れて訪れた銀座の回転寿司店。",
     "source_url": "https://kyodonewsprwire.jp/release/202404239873",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-4507fd1e-20260424",
@@ -67358,12 +66418,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "筒井あやめがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「筒井喫茶探訪」第5弾（2026年4月）で、筒井あやめが玉子サンドを食べた日本橋の喫茶店。",
     "source_url": "https://www.timeout.jp/tokyo/ja/news/hamanoya-parlor-relocates-to-nihonbashi-112723",
     "source_type": "youtube",
     "ordered_items": [
       "玉子サンド"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-be889932-20260608",
@@ -67385,12 +66447,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "筒井あやめがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「筒井喫茶探訪」第6弾（2026年6月）で、筒井あやめが福井公演に合わせて訪れ、大人のお子様ランチを食べた喫茶店。",
     "source_url": "https://fuku-iro.jp/gourmet/detail_11946.html",
     "source_type": "youtube",
     "ordered_items": [
       "大人のお子様ランチ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "nogizaka46-e4afd786-20260623",
@@ -67412,11 +66476,14 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "池田瑛紗がYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」（2026年6月）で、池田瑛紗が「くぼっち飯」をまねて1人で訪れた横浜中華街の店。",
     "source_url": "https://www.hotpepper.jp/strJ003762152/",
     "source_type": "youtube",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003762152/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/67/66/P049346766/P049346766_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/67/66/P049346766/P049346766_238.jpg",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中",
+    "qa_note": "同じ動画の撮影協力にもう1軒「うらふね」があるが未登録"
   },
   {
     "id": "nogizaka46-07ae6d77-20230630",
@@ -67438,9 +66505,11 @@
       "nogizaka46"
     ],
     "group": "nogizaka46",
-    "description": "清宮レイがYouTubeの動画で訪れたお店。",
+    "description": "乃木坂46の公式YouTube「乃木坂配信中」の「REI English!!」#6（2023年6月）で、清宮レイが英会話カフェの企画で訪れた下北沢のカフェ。",
     "source_url": "https://www.travelbook.co.jp/t-253/topic-19686/?p=4",
-    "source_type": "youtube"
+    "source_type": "youtube",
+    "visit_kind": "youtube",
+    "program": "乃木坂配信中"
   },
   {
     "id": "sixtones-0b5ae958-20260925",

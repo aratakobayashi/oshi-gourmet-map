@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「すずめや」"
-description: "池袋東口【嫉妬の権利】で紹介されたスイーツ「すずめや」（東京都豊島区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-ac5227bd-"
-name: "すずめや"
-genre: "sweets"
-prefecture: "東京都"
-city: "豊島区"
-address: "東京都豊島区南池袋2-18-5"
-nearest_station: "池袋駅 徒歩4分"
-source_video_title: "池袋東口【嫉妬の権利】"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13009255/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-source_type: "tv"
-lat: 35.72671073786489
-lng: 139.71345248371918
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店のページ"
+sitemap: false
 ---

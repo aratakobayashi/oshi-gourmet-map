@@ -1,20 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「今井金箔 広坂店」"
-description: "金沢で紹介された食事「今井金箔 広坂店」（石川県金沢市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-2a831c44-"
-name: "今井金箔 広坂店"
-genre: "shokuji"
-prefecture: "石川県"
-city: "金沢市"
-address: "石川県金沢市広坂1-2-36"
-source_video_title: "金沢"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/ishikawa/A1701/A170101/17010261/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
-source_type: "tv"
-lat: 36.56150763636199
-lng: 136.65910889429242
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店のページ"
+sitemap: false
 ---

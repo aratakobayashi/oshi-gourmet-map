@@ -1,21 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「フライングガーデン」"
-description: "秘密のケンミンSHOW極で紹介された食事「フライングガーデン」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-b56d4626-"
-name: "フライングガーデン"
-genre: "shokuji"
-prefecture: "栃木県"
-city: "宇都宮市"
-address: "栃木県宇都宮市西川田東町5-2-2"
-source_video_title: "秘密のケンミンSHOW極"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9009189/"
-thumbnail_url: "https://image.tmdb.org/t/p/w500/vYNrU9pbQBJ1U9JRglAwmGn5Aei.jpg"
-lat: 36.5052
-lng: 139.8659
-members:
-  - "賀喜遥香"
-groups:
-  - "nogizaka46"
+redirect_to: "/groups/nogizaka46/"
+redirect_label: "乃木坂46のお店のページ"
+sitemap: false
 ---

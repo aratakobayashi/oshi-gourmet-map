@@ -1,19 +1,7 @@
 ---
-layout: shop
-title: "乃木坂46が行った「こ寿々本店」"
-description: "地球が丸いならMVで紹介されたその他「こ寿々本店」（神奈川県鎌倉市）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "nogizaka46-b222ed3c-"
-name: "こ寿々本店"
-genre: "others"
-prefecture: "神奈川県"
-city: "鎌倉市"
-address: "鎌倉市小町2-13-4"
-nearest_station: "鎌倉駅 徒歩10分"
-source_video_title: "地球が丸いならMV"
-group: "nogizaka46"
-tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14000268/"
-lat: 35.3242675
-lng: 139.5524688
-groups:
-  - "nogizaka46"
+redirect_to: "/shops/nogizaka46-49c01557/"
+redirect_label: "段葛 こ寿々(だんかずら こすず)のページ"
+sitemap: false
 ---
