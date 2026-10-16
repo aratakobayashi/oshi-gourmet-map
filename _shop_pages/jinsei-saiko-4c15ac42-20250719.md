@@ -12,7 +12,9 @@ visited_date: "2025-07-19"
 source_video_title: "人生最高レストラン ごちそう様 稲垣吾郎さん（2025-07-19 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202507191/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000364152/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/28/P019901428/P019901428_238.jpg"
 source_type: "tv"
 lat: 36.263077
 lng: 138.487457

@@ -12,7 +12,9 @@ visited_date: "2023-05-11"
 source_video_title: "おはよう朝日です けさのクローズアップ「ふくとあやです きょうの晩ごはんです」（2023-05-11 ABCテレビ）"
 source_url: "https://www.asahi.co.jp/ohaasa/week/backnum/?date=20230511"
 group: "ohaasa"
+hotpepper_url: "https://www.hotpepper.jp/strJ000678370/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/iTa3f7mNEyeoKNAR9D8728F8m4d.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/98/28/P036979828/P036979828_238.jpg"
 source_type: "tv"
 lat: 34.645351
 lng: 135.495193

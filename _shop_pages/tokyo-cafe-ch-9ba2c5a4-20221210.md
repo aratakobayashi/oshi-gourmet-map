@@ -14,6 +14,8 @@ source_video_title: "【東京･新宿】新宿おすすめカフェグルメ6�
 source_video_url: "https://www.youtube.com/watch?v=lQZicGRt3CU"
 source_url: "https://www.youtube.com/watch?v=lQZicGRt3CU"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ000124526/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/78/P014146978/P014146978_238.jpg"
 source_type: "youtube"
 lat: 35.6926
 lng: 139.699112

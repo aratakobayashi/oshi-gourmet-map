@@ -12,7 +12,9 @@ visited_date: "2026-06-26"
 source_video_title: "news おかえり AmBitiousの絶品いただきシャス！（2026-06-26 ABCテレビ）"
 source_url: "https://www.asahi.co.jp/news-okaeri/"
 group: "news_okaeri"
+hotpepper_url: "https://www.hotpepper.jp/strJ000109969/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/pbbvU3kdY0bo4pC14X3GJVI7EWy.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/55/P041860555/P041860555_238.jpg"
 source_type: "tv"
 lat: 34.652699
 lng: 135.506454

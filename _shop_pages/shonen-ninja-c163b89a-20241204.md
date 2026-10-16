@@ -14,6 +14,8 @@ source_video_title: "少年忍者【2024年振り返り男子会】 海外テー
 source_video_url: "https://www.youtube.com/watch?v=xCZiu0XQhLA"
 source_url: "https://kosodate-and.net/ninjya-youtube-hamburger/"
 group: "shonen_ninja"
+hotpepper_url: "https://www.hotpepper.jp/strJ001268897/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/42/35/P038014235/P038014235_238.jpg"
 source_type: "youtube"
 lat: 35.663284
 lng: 139.699112

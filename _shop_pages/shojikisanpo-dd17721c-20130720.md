@@ -12,7 +12,9 @@ visited_date: "2013-07-20"
 source_video_title: "有吉くんの正直さんぽ 西の渋谷・町田で満喫、究極の夏さんぽ！（2013-07-20 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-64.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000014956/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/88/P033854388/P033854388_238.jpg"
 source_type: "tv"
 lat: 35.546761
 lng: 139.444656

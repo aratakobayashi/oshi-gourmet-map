@@ -10,7 +10,6 @@ address: "韓国ソウル市江南区狎鴎亭路79キル47"
 source_video_title: "YouTube「FANDOM TOUR」練習生時代から常連"
 source_url: "https://creatrip.com/ja/news/13742"
 group: "kpop_straykids"
-tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13245670/"
 lat: 37.5271
 lng: 127.0441
 members:

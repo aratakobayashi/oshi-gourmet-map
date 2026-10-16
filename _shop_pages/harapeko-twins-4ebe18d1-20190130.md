@@ -14,6 +14,8 @@ source_video_title: "【大食い】元力士さん直伝！相撲 ばる 魁ち
 source_video_url: "https://www.youtube.com/watch?v=KegfDAi5_1w"
 source_url: "https://www.youtube.com/watch?v=KegfDAi5_1w"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001216691/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/72/62/P032387262/P032387262_238.jpg"
 source_type: "youtube"
 lat: 35.692646
 lng: 139.813934

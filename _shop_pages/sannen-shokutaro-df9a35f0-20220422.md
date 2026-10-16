@@ -16,6 +16,8 @@ source_url: "https://www.youtube.com/watch?v=Dg65KqWSgKc"
 group: "sannen_shokutaro"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131703/13253095/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ001261520/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/67/95/P040166795/P040166795_238.jpg"
 source_type: "youtube"
 lat: 35.609509
 lng: 139.669693

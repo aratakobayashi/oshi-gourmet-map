@@ -12,7 +12,9 @@ visited_date: "2024-03-30"
 source_video_title: "人生最高レストラン ごちそう様 柳沢慎吾さん（2024-03-30 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202403301/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000116812/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/41/24/P045434124/P045434124_238.jpg"
 source_type: "tv"
 lat: 35.670837
 lng: 139.769806

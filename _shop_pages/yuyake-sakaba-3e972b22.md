@@ -11,7 +11,9 @@ address: "東京都葛飾区亀有5-41-4"
 source_video_title: "夕焼け酒場 #521 葛飾区亀有「海舟」（2025年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num521"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001001239/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/83/76/P031658376/P031658376_238.jpg"
 source_type: "tv"
 lat: 35.769096
 lng: 139.84848

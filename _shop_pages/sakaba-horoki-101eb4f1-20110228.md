@@ -12,7 +12,9 @@ visited_date: "2011-02-28"
 source_video_title: "吉田類の酒場放浪記 #414 中洲川端「大衆酒蔵 酒一番」（2011-02-28 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/414.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000554076/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/61/01/P010586101/P010586101_238.jpg"
 source_type: "tv"
 lat: 33.59277
 lng: 130.405777

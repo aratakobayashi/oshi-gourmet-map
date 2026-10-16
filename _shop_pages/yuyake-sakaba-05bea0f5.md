@@ -11,7 +11,9 @@ address: "東京都世田谷区経堂1-22-18 タイムポート経堂103"
 source_video_title: "夕焼け酒場 #317 世田谷区経堂「もつやき 優貴」（2021年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2021.html#num317"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ004634192/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/86/03/P050418603/P050418603_238.jpg"
 source_type: "tv"
 lat: 35.650795
 lng: 139.635757

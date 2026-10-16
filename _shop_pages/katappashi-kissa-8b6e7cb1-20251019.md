@@ -14,6 +14,8 @@ source_video_title: "【ナジャ＆ルルデイジー】男湯or女湯？ 銭�
 source_video_url: "https://www.youtube.com/watch?v=gY_9WJYdsxY"
 source_url: "https://www.youtube.com/watch?v=gY_9WJYdsxY"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ003785238/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/82/98/P044258298/P044258298_238.jpg"
 source_type: "youtube"
 lat: 34.740227
 lng: 135.515442

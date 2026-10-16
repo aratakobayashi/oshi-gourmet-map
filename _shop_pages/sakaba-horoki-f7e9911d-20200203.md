@@ -12,7 +12,9 @@ visited_date: "2020-02-03"
 source_video_title: "吉田類の酒場放浪記 #939 門前仲町「男鹿半島」（2020-02-03 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/939.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000131384/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/49/P031824349/P031824349_238.jpg"
 source_type: "tv"
 lat: 35.668858
 lng: 139.797348

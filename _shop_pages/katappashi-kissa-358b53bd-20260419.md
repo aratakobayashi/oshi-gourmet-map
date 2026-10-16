@@ -14,6 +14,8 @@ source_video_title: "【ナジャ＆ベラ】洋館喫茶名物コルドンブ�
 source_video_url: "https://www.youtube.com/watch?v=i8SdX2PaDzM"
 source_url: "https://www.youtube.com/watch?v=i8SdX2PaDzM"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ004403120/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/93/54/P047979354/P047979354_238.jpg"
 source_type: "youtube"
 lat: 34.500698
 lng: 135.603363

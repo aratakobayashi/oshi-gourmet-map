@@ -12,7 +12,9 @@ visited_date: "2023-04-24"
 source_video_title: "吉田類の酒場放浪記 #1124 桜ヶ丘「串焼 秋田屋」（2023-04-24 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1124.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000220181/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/42/24/P017524224/P017524224_238.jpg"
 source_type: "tv"
 lat: 35.452389
 lng: 139.465347

@@ -12,7 +12,9 @@ visited_date: "2020-08-01"
 source_video_title: "人生最高レストラン #170 ごちそう様 田原俊彦さん（2020-08-01 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20200801.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000705487/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/97/51/P025249751/P025249751_238.jpg"
 source_type: "tv"
 lat: 35.647194
 lng: 139.71579

@@ -11,7 +11,9 @@ address: "東京都江東区毛利1-11-13"
 source_video_title: "夕焼け酒場 #432 江東区住吉「大衆酒処 たなべ衛」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num432"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001110866/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/30/86/P025273086/P025273086_238.jpg"
 source_type: "tv"
 lat: 35.690777
 lng: 139.81543

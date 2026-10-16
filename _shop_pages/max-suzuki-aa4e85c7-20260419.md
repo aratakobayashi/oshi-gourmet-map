@@ -16,6 +16,8 @@ source_url: "https://www.youtube.com/watch?v=6uSSietI8oY"
 group: "max_suzuki"
 tabelog_url: "https://tabelog.com/nagano/A2006/A200603/20007788/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ000361631/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/95/19/P039799519/P039799519_238.jpg"
 source_type: "youtube"
 lat: 35.503956
 lng: 137.811584

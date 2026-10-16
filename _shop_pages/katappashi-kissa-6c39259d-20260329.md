@@ -14,6 +14,8 @@ source_video_title: "【ナジャ】絶品！和風フレンチトースト！�
 source_video_url: "https://www.youtube.com/watch?v=R1R7pgJiztw"
 source_url: "https://www.youtube.com/watch?v=R1R7pgJiztw"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001039525/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/19/73/P039431973/P039431973_238.jpg"
 source_type: "youtube"
 lat: 34.658585
 lng: 135.52887

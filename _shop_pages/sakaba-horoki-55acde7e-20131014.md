@@ -12,7 +12,9 @@ visited_date: "2013-10-14"
 source_video_title: "吉田類の酒場放浪記 #565 錦糸町「なすび」（移転）（2013-10-14 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/565.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ001126372/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/11/11/P022431111/P022431111_238.jpg"
 source_type: "tv"
 lat: 35.698494
 lng: 139.814224

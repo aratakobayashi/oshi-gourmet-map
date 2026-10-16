@@ -12,7 +12,9 @@ visited_date: "2023-11-18"
 source_video_title: "ぶらり途中下車の旅 埼京線の旅 旅人：かとうかず子（2023-11-18 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227egj191onp7e8o95s.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ003582040/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/33/17/P045423317/P045423317_238.jpg"
 source_type: "tv"
 lat: 35.903652
 lng: 139.622116

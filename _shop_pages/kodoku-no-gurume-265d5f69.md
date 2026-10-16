@@ -11,7 +11,6 @@ address: "東京都西東京市ひばりが丘3-4-47 ひばりテラス118"
 nearest_station: "ひばりヶ丘駅"
 source_video_title: "孤独のグルメ Season8 第4話"
 group: "kodoku_no_gurume"
-tabelog_url: "https://tabelog.com/tokyo/A1328/A132801/13191253/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/ajUrpn9XHoKqlo2CCtoq48Cnpzs.jpg"
 source_type: "drama"
 lat: 35.74453

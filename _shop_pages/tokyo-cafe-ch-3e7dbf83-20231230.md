@@ -14,6 +14,8 @@ source_video_title: "【東京・最新】最新カフェ8店舗～2023年下半
 source_video_url: "https://www.youtube.com/watch?v=0W-IMThv0OE"
 source_url: "https://www.youtube.com/watch?v=0W-IMThv0OE"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ004017002/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/80/58/P046648058/P046648058_238.jpg"
 source_type: "youtube"
 lat: 35.616016
 lng: 139.713135

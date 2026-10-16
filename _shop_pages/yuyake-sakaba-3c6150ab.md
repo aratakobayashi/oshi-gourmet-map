@@ -11,7 +11,9 @@ address: "東京都葛飾区青戸3-33-9"
 source_video_title: "夕焼け酒場 #553 葛飾区青戸「鳥新」（2025年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num553"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001029131/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/36/12/P017483612/P017483612_238.jpg"
 source_type: "tv"
 lat: 35.747086
 lng: 139.85582

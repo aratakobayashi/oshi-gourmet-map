@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0043-rakuraku/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13062013/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ000608085/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/81/94/P024568194/P024568194_238.jpg"
 source_type: "tv"
 lat: 35.685547
 lng: 139.802734

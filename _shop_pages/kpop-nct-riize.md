@@ -12,6 +12,8 @@ nearest_station: "大阪上本町駅 徒歩3分"
 source_video_title: "NCT"
 source_url: "https://oshito.online/news/5587.html"
 group: "kpop_nct"
+hotpepper_url: "https://www.hotpepper.jp/strJ000018473/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/99/64/P050959964/P050959964_238.jpg"
 lat: 34.666303
 lng: 135.5220024
 groups:

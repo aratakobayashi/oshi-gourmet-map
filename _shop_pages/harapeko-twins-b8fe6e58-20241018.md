@@ -14,6 +14,8 @@ source_video_title: "【大食い】松阪牛のひつまぶしを巨大寿司�
 source_video_url: "https://www.youtube.com/watch?v=7ed2NhvIeRI"
 source_url: "https://www.youtube.com/watch?v=7ed2NhvIeRI"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000421868/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/03/74/P027550374/P027550374_238.jpg"
 source_type: "youtube"
 lat: 34.967522
 lng: 136.619492

@@ -14,6 +14,8 @@ source_video_title: "【デカ盛り】巨大パフェ3.5kg！【大食い】"
 source_video_url: "https://www.youtube.com/watch?v=ZkvqmRKrjJI"
 source_url: "https://www.youtube.com/watch?v=ZkvqmRKrjJI"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ001230515/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/46/39/P034834639/P034834639_238.jpg"
 source_type: "youtube"
 lat: 35.619114
 lng: 139.70488

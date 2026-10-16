@@ -16,6 +16,8 @@ source_video_url: "https://www.youtube.com/watch?v=I8-fMkNe004"
 source_url: "https://kosodate-and.net/hokuto-ema-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13123537/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001279673/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/61/96/P050676196/P050676196_238.jpg"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6921592

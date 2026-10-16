@@ -12,7 +12,9 @@ visited_date: "2015-12-05"
 source_video_title: "有吉くんの正直さんぽ 大人の街・赤坂 都内を代表する名社の日枝神社（2015-12-05 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-176.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ001040476/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/35/30/P032793530/P032793530_238.jpg"
 source_type: "tv"
 lat: 35.670219
 lng: 139.738419

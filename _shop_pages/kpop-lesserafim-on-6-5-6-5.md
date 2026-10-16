@@ -10,7 +10,6 @@ address: "韓国ソウル市鍾路区北村路1キル28"
 source_video_title: "K-POPアーティスト御用達キムチ発酵料理店"
 source_url: "https://ameblo.jp/treportal/entry-12912288854.html"
 group: "kpop_lesserafim"
-tabelog_url: "https://tabelog.com/tokyo/A1318/A131810/13263836/"
 lat: 37.5826
 lng: 126.9836
 members:

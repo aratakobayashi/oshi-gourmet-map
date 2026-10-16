@@ -14,6 +14,8 @@ source_video_title: "【Night Tempo＆早見優】絶品！フレンチトース
 source_video_url: "https://www.youtube.com/watch?v=sGiqZz33KdA"
 source_url: "https://www.youtube.com/watch?v=sGiqZz33KdA"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ003432367/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/87/03/P040768703/P040768703_238.jpg"
 source_type: "youtube"
 lat: 34.739933
 lng: 135.498917

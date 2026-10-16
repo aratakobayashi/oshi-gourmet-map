@@ -12,7 +12,9 @@ visited_date: "2017-04-15"
 source_video_title: "有吉くんの正直さんぽ 絶景！亀戸天神＆下町グルメ満載亀戸餃子に有吉感動！（2017-04-15 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-246.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000130361/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/46/90/P034214690/P034214690_238.jpg"
 source_type: "tv"
 lat: 35.70245
 lng: 139.820328

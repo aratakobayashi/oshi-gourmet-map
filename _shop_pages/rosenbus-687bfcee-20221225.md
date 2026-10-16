@@ -12,7 +12,9 @@ visited_date: "2022-12-25"
 source_video_title: "路線バスで寄り道の旅 川越出身の島崎遥香さんプレゼンツ!埼玉県大満喫旅（2022-12-25 テレビ朝日）"
 source_url: "https://www.tv-asahi.co.jp/rosenbus/backnumber2/0085/"
 group: "rosenbus"
+hotpepper_url: "https://www.hotpepper.jp/strJ000102718/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/uMscnwyuhZNV4AmoWnru9HzNkwG.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/00/62/P038050062/P038050062_238.jpg"
 source_type: "tv"
 lat: 35.921448
 lng: 139.483643

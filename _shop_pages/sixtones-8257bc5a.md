@@ -13,7 +13,9 @@ source_video_title: "【アンサンブル ロケ地】MATO庵はどこ？古民
 source_url: "https://kosodate-and.net/ensemble-hokuto-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131714/13187460/"
+hotpepper_url: "https://www.hotpepper.jp/strJ001230299/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/auRHdqwCV8ZP3LKikPcHCzccZef.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/93/14/P034119314/P034119314_238.jpg"
 visit_kind: "drama"
 program: "アンサンブル"
 lat: 35.574447

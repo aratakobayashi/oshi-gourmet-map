@@ -12,7 +12,9 @@ visited_date: "2021-05-01"
 source_video_title: "人生最高レストラン #205 ごちそう様 田中圭さん（2021-05-01 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20210501.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000132490/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/19/08/P047561908/P047561908_238.jpg"
 source_type: "tv"
 lat: 35.625431
 lng: 139.723312

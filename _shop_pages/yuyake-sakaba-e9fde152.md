@@ -11,7 +11,9 @@ address: "東京都荒川区町屋1-7-3"
 source_video_title: "夕焼け酒場 #487 荒川区町屋「鉢の木」（2024年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2024.html#num487"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000034590/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/46/16/P021024616/P021024616_238.jpg"
 source_type: "tv"
 lat: 35.745502
 lng: 139.78244

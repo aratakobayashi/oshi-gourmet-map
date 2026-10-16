@@ -12,7 +12,9 @@ visited_date: "2022-04-18"
 source_video_title: "吉田類の酒場放浪記 #1066 小作「ぶんぶく」（2022-04-18 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/1066.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000165730/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/96/P046643996/P046643996_238.jpg"
 source_type: "tv"
 lat: 35.775417
 lng: 139.29953

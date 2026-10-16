@@ -14,6 +14,8 @@ source_video_title: "【大食い】岩手県でデカ盛りを頼んた�
 source_video_url: "https://www.youtube.com/watch?v=HB6tXZ00hwY"
 source_url: "https://www.youtube.com/watch?v=HB6tXZ00hwY"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000781246/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/76/P038086676/P038086676_238.jpg"
 source_type: "youtube"
 lat: 39.289082
 lng: 141.115906

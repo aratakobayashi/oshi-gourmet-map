@@ -12,7 +12,9 @@ visited_date: "2025-04-19"
 source_video_title: "人生最高レストラン ごちそう様 ゆうちゃみさん（2025-04-19 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202504191/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ003473222/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/23/P049595423/P049595423_238.jpg"
 source_type: "tv"
 lat: 35.700188
 lng: 139.703018

@@ -14,6 +14,8 @@ source_video_title: "【こういうのでいい】チャーハン、ラーメ�
 source_video_url: "https://www.youtube.com/watch?v=e4Q3y9imL7o"
 source_url: "https://www.youtube.com/watch?v=e4Q3y9imL7o"
 group: "gyoza_tv"
+hotpepper_url: "https://www.hotpepper.jp/strJ000205256/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/78/52/P017507852/P017507852_238.jpg"
 source_type: "youtube"
 lat: 35.546658
 lng: 139.369263

@@ -14,6 +14,8 @@ source_video_title: "【デカ盛り】パンチョ星人盛りトッヒ�
 source_video_url: "https://www.youtube.com/watch?v=KXZhE6xH4kk"
 source_url: "https://www.youtube.com/watch?v=KXZhE6xH4kk"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000797448/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/07/38/P012300738/P012300738_238.jpg"
 source_type: "youtube"
 lat: 35.659161
 lng: 139.699219

@@ -14,6 +14,8 @@ source_video_title: "【大食い】たったの1000円で大トロも食べ放�
 source_video_url: "https://www.youtube.com/watch?v=ozr4gL5lGb4"
 source_url: "https://www.youtube.com/watch?v=ozr4gL5lGb4"
 group: "sannen_shokutaro"
+hotpepper_url: "https://www.hotpepper.jp/strJ004470524/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/17/P048720217/P048720217_238.jpg"
 source_type: "youtube"
 lat: 35.698811
 lng: 139.7715

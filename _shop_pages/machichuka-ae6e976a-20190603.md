@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0010-keichan/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131906/13129223/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ001269007/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/51/85/P037795185/P037795185_238.jpg"
 source_type: "tv"
 lat: 35.707108
 lng: 139.623062

@@ -12,6 +12,8 @@ nearest_station: "大阪梅田駅 徒歩3分"
 source_video_title: "NCT"
 source_url: "https://oshito.online/news/5587.html"
 group: "kpop_nct"
+hotpepper_url: "https://www.hotpepper.jp/strJ001226991/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/58/P050295958/P050295958_238.jpg"
 lat: 34.7001688
 lng: 135.4979709
 groups:

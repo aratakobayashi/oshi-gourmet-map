@@ -14,6 +14,8 @@ source_video_title: "【織田信成】歴史好き店主の…古代マヤ先�
 source_video_url: "https://www.youtube.com/watch?v=nLJZD35Mn6Q"
 source_url: "https://www.youtube.com/watch?v=nLJZD35Mn6Q"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001210216/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/09/02/P047770902/P047770902_238.jpg"
 source_type: "youtube"
 lat: 34.661636
 lng: 135.558609

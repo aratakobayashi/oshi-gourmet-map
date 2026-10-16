@@ -12,7 +12,9 @@ visited_date: "2017-08-19"
 source_video_title: "有吉くんの正直さんぽ 空の玄関口“羽田”をさんぽ 有吉が機長に挑戦！（2017-08-19 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-265.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ003388964/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/27/53/P040362753/P040362753_238.jpg"
 source_type: "tv"
 lat: 35.550243
 lng: 139.747375

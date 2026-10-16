@@ -12,7 +12,6 @@ nearest_station: "平野駅 徒歩11分"
 source_video_title: "【大阪平野駅】平野サブレはどこで買える？オンラインショップはある？"
 source_url: "https://kosodate-and.net/hirano-sable-anpan"
 group: "numberi"
-tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13058348/"
 lat: 34.6257107
 lng: 135.5549294
 members:

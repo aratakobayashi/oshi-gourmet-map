@@ -12,7 +12,9 @@ visited_date: "2021-09-04"
 source_video_title: "人生最高レストラン #222 ごちそう様 奈緒さん（2021-09-04 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/old/archive/20210904.html"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001186727/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/03/31/P028810331/P028810331_238.jpg"
 source_type: "tv"
 lat: 35.66851
 lng: 139.689957

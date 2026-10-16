@@ -11,7 +11,6 @@ address: "熊本市中央区上通町４−１６タバラビル2F"
 nearest_station: "通町筋駅 徒歩3分"
 source_video_title: "ベストアルバムポスター貼り"
 group: "nogizaka46"
-tabelog_url: "https://tabelog.com/fukuoka/A4008/A400806/40014949/"
 visit_kind: "other"
 program: "ベストアルバム「Time flies」ポスター貼り"
 lat: 32.804646

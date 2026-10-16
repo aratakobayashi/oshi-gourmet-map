@@ -14,6 +14,8 @@ source_video_title: "【青木源太】留学生のため?絶品の唐揚げ⁉�
 source_video_url: "https://www.youtube.com/watch?v=dnd_6yZPUHA"
 source_url: "https://www.youtube.com/watch?v=dnd_6yZPUHA"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ002647586/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/81/61/P039898161/P039898161_238.jpg"
 source_type: "youtube"
 lat: 34.760643
 lng: 135.525299
