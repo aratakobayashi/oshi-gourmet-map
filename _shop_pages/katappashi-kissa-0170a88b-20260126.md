@@ -14,6 +14,8 @@ source_video_title: "【大吉洋平】オシャレ喫茶  本格スペアリブ
 source_video_url: "https://www.youtube.com/watch?v=0sr6DnZ-9IA"
 source_url: "https://www.youtube.com/watch?v=0sr6DnZ-9IA"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001178019/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/94/63/P046969463/P046969463_238.jpg"
 source_type: "youtube"
 lat: 34.80426
 lng: 135.44783

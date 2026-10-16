@@ -14,6 +14,8 @@ source_video_title: "【代官山】おしゃれカフェ激戦区！代官山�
 source_video_url: "https://www.youtube.com/watch?v=lPw-unyu4sU"
 source_url: "https://www.youtube.com/watch?v=lPw-unyu4sU"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ000235182/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/64/58/P012346458/P012346458_238.jpg"
 source_type: "youtube"
 lat: 35.648224
 lng: 139.700363

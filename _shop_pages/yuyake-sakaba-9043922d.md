@@ -11,7 +11,9 @@ address: "東京都練馬区桜台1-6-11サンローズビル1F"
 source_video_title: "夕焼け酒場 #295 練馬区「馬刺酒家 一家」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num295"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000855842/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/23/98/P035032398/P035032398_238.jpg"
 source_type: "tv"
 lat: 35.739536
 lng: 139.661942

@@ -11,7 +11,9 @@ address: "東京都江東区亀戸6-24-1 ヴィラハイツ亀戸104"
 source_video_title: "夕焼け酒場 #448 江東区亀戸「青森Souls」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num448"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001201275/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/15/23/P050471523/P050471523_238.jpg"
 source_type: "tv"
 lat: 35.695641
 lng: 139.826248

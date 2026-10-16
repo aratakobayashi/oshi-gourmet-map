@@ -14,6 +14,8 @@ source_video_title: "【ROLLY】味のマジック！？カレー喫茶のスパ
 source_video_url: "https://www.youtube.com/watch?v=kwJdQUZjY7A"
 source_url: "https://www.youtube.com/watch?v=kwJdQUZjY7A"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001296062/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/89/P039298989/P039298989_238.jpg"
 source_type: "youtube"
 lat: 34.814068
 lng: 135.656815

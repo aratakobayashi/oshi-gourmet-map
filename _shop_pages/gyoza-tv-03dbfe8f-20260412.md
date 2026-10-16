@@ -14,6 +14,8 @@ source_video_title: "【爆旨】美味しいから放送しないでほしい�
 source_video_url: "https://www.youtube.com/watch?v=QBWIMV4h44s"
 source_url: "https://www.youtube.com/watch?v=QBWIMV4h44s"
 group: "gyoza_tv"
+hotpepper_url: "https://www.hotpepper.jp/strJ004004714/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/90/43/P046949043/P046949043_238.jpg"
 source_type: "youtube"
 lat: 35.5709
 lng: 139.370605

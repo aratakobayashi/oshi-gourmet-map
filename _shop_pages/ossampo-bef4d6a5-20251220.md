@@ -12,7 +12,9 @@ visited_date: "2025-12-20"
 source_video_title: "大阪おっさんぽ 今回のおっさんぽの舞台は…\"ミナミ・うめきた\"（2025-12-20 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/ossampo/2182679_15452.html"
 group: "ossampo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000720492/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xgBG1MkVxfpk7t927F1fL1I3ebQ.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/05/72/P012260572/P012260572_238.jpg"
 source_type: "tv"
 lat: 34.667759
 lng: 135.502304

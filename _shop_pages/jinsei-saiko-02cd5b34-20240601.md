@@ -12,7 +12,9 @@ visited_date: "2024-06-01"
 source_video_title: "人生最高レストラン ごちそう様 MEGUMIさん（2024-06-01 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/oldv8/202406011/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001265462/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/16/44/P037431644/P037431644_238.jpg"
 source_type: "tv"
 lat: 34.600883
 lng: 133.767517

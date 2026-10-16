@@ -14,6 +14,8 @@ source_video_title: "【東京・大田区】池上・西馬込の地元で愛�
 source_video_url: "https://www.youtube.com/watch?v=MjKLLNFvGGE"
 source_url: "https://www.youtube.com/watch?v=MjKLLNFvGGE"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ001225162/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/86/27/P041058627/P041058627_238.jpg"
 source_type: "youtube"
 lat: 35.572247
 lng: 139.700455

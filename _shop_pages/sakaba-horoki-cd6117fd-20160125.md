@@ -12,7 +12,9 @@ visited_date: "2016-01-25"
 source_video_title: "吉田類の酒場放浪記 #705 用賀「なかむらや」（2016-01-25 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/705.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000139361/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/47/51/P021774751/P021774751_238.jpg"
 source_type: "tv"
 lat: 35.62561
 lng: 139.633392

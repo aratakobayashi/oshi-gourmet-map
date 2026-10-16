@@ -14,6 +14,8 @@ source_video_title: "【東京･いちご】今こそ食べたい！旬のい�
 source_video_url: "https://www.youtube.com/watch?v=U6lcj88lfnQ"
 source_url: "https://www.youtube.com/watch?v=U6lcj88lfnQ"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ000981298/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/68/43/P027956843/P027956843_238.jpg"
 source_type: "youtube"
 lat: 35.669388
 lng: 139.70752

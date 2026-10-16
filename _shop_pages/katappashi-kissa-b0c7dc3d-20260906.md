@@ -14,6 +14,8 @@ source_video_title: "【ナジャ＆ルドミラ】レトロな喫茶店でス�
 source_video_url: "https://www.youtube.com/watch?v=q_6h1R04qn0"
 source_url: "https://www.youtube.com/watch?v=q_6h1R04qn0"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ000798904/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/03/87/P049580387/P049580387_238.jpg"
 source_type: "youtube"
 lat: 34.698494
 lng: 135.49704

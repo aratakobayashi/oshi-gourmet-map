@@ -14,6 +14,8 @@ source_video_title: "【大食い】山盛りお寿司の宝庫！三浦三崎�
 source_video_url: "https://www.youtube.com/watch?v=Tvp-IZAz5q0"
 source_url: "https://www.youtube.com/watch?v=Tvp-IZAz5q0"
 group: "harapeko_twins"
+hotpepper_url: "https://www.hotpepper.jp/strJ000805411/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/06/25/P046790625/P046790625_238.jpg"
 source_type: "youtube"
 lat: 35.710983
 lng: 139.774994

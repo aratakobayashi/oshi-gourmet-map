@@ -12,7 +12,9 @@ visited_date: "2018-04-23"
 source_video_title: "吉田類の酒場放浪記 #834 とうきょうスカイツリー「下町割烹 上総屋」（2018-04-23 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/834.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000129684/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/06/P017240106/P017240106_238.jpg"
 source_type: "tv"
 lat: 35.713211
 lng: 139.805344

@@ -12,7 +12,9 @@ visited_date: "2022-12-17"
 source_video_title: "ぶらり途中下車の旅 副都心線の旅 旅人：風間トオル（2022-12-17 日本テレビ）"
 source_url: "https://www.ntv.co.jp/burari/articles/227b74gidfj245aufyz.html"
 group: "burari"
+hotpepper_url: "https://www.hotpepper.jp/strJ001294165/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/60/53/P051466053/P051466053_238.jpg"
 source_type: "tv"
 lat: 35.691246
 lng: 139.705231

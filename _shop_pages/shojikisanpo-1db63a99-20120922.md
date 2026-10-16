@@ -12,7 +12,9 @@ visited_date: "2012-09-22"
 source_video_title: "有吉くんの正直さんぽ 問屋街・浅草橋で濃いゲスト竹山＆IKKOと大はしゃぎ！15分拡大SP！！（2012-09-22 フジテレビ）"
 source_url: "https://www.fujitv.co.jp/burabura/_basic/backnumber/index-24.html"
 group: "shojikisanpo"
+hotpepper_url: "https://www.hotpepper.jp/strJ000248744/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6UespisW69v3rVXbJQX4PNOhEvh.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/98/15/P022869815/P022869815_238.jpg"
 source_type: "tv"
 lat: 35.695366
 lng: 139.782303

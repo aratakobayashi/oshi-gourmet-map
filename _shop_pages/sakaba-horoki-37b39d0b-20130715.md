@@ -12,7 +12,9 @@ visited_date: "2013-07-15"
 source_video_title: "吉田類の酒場放浪記 #552 下関「おかもと」（2013-07-15 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/552.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000979442/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/73/P014073873/P014073873_238.jpg"
 source_type: "tv"
 lat: 33.952061
 lng: 130.925034

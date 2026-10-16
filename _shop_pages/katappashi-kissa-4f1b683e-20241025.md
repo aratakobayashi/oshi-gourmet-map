@@ -14,6 +14,8 @@ source_video_title: "【松原タニシ】おもしろマスターの意外な�
 source_video_url: "https://www.youtube.com/watch?v=c2854m9qeJw"
 source_url: "https://www.youtube.com/watch?v=c2854m9qeJw"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001251191/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/53/34/P045275334/P045275334_238.jpg"
 source_type: "youtube"
 lat: 34.570763
 lng: 135.595917

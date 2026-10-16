@@ -10,7 +10,6 @@ address: "韓国ソウル市江南区狎鴎亭路42キル45"
 source_video_title: "ロゼ 狎鴎亭エリア訪問"
 source_url: "https://creatrip.com/en/blog/7042"
 group: "kpop_blackpink"
-tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13184854/"
 lat: 37.5253
 lng: 127.0383
 members:

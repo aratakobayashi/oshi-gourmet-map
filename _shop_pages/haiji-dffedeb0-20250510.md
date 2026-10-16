@@ -16,6 +16,8 @@ source_url: "https://www.youtube.com/watch?v=jaH3SDfUfDo"
 group: "haiji"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13004188/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ000613216/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/50/32/P022645032/P022645032_238.jpg"
 source_type: "youtube"
 lat: 35.689365
 lng: 139.697708

@@ -14,6 +14,8 @@ source_video_title: "【誠子】50回転職したマスターの 絶品ナポ�
 source_video_url: "https://www.youtube.com/watch?v=k3Iw6VQ5j4s"
 source_url: "https://www.youtube.com/watch?v=k3Iw6VQ5j4s"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001251201/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/84/85/P039748485/P039748485_238.jpg"
 source_type: "youtube"
 lat: 34.668148
 lng: 135.517929

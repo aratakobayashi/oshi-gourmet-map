@@ -11,7 +11,9 @@ address: "静岡県熱海市銀座町3-5"
 source_video_title: "夕焼け酒場 #300 静岡県熱海市「花かがり」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num300"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000385934/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/65/63/P038836563/P038836563_238.jpg"
 source_type: "tv"
 lat: 35.096302
 lng: 139.073395

@@ -11,7 +11,9 @@ address: "東京都渋谷区道玄坂2-23-1"
 source_video_title: "夕焼け酒場 #281 渋谷区「九四六屋（くしろや）」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num281"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001104222/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/05/P047313905/P047313905_238.jpg"
 source_type: "tv"
 lat: 35.660236
 lng: 139.696365

@@ -12,7 +12,9 @@ visited_date: "2013-10-21"
 source_video_title: "吉田類の酒場放浪記 #566 恵比寿「たつや」（2013-10-21 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/566.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ000805302/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/63/45/P012306345/P012306345_238.jpg"
 source_type: "tv"
 lat: 35.646244
 lng: 139.709427

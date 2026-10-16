@@ -12,7 +12,9 @@ visited_date: "2013-01-07"
 source_video_title: "吉田類の酒場放浪記 #526 東向島「鳥増」（2013-01-07 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/sakaba/shop/526.html"
 group: "sakaba_horoki"
+hotpepper_url: "https://www.hotpepper.jp/strJ004067000/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/08/63/P046930863/P046930863_238.jpg"
 source_type: "tv"
 lat: 35.721638
 lng: 139.818924

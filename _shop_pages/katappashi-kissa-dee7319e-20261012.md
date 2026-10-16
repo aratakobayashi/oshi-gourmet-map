@@ -14,6 +14,8 @@ source_video_title: "【小原ブラス】懐かしの味！常連の客だけ�
 source_video_url: "https://www.youtube.com/watch?v=CrKsldjrLio"
 source_url: "https://www.youtube.com/watch?v=CrKsldjrLio"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ003433312/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/84/40/P040768440/P040768440_238.jpg"
 source_type: "youtube"
 lat: 34.646126
 lng: 135.532776

@@ -14,6 +14,8 @@ source_video_title: "【片っ端から後追い喫茶】バターブレンド�
 source_video_url: "https://www.youtube.com/watch?v=gY61gO9LzR4"
 source_url: "https://www.youtube.com/watch?v=gY61gO9LzR4"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ000985566/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/01/51/P038610151/P038610151_238.jpg"
 source_type: "youtube"
 lat: 34.67469
 lng: 135.501892

@@ -14,6 +14,8 @@ source_video_title: "【NEW】東京新店舗カフェ10選～2025年上半期�
 source_video_url: "https://www.youtube.com/watch?v=nkZ7WTaee9A"
 source_url: "https://www.youtube.com/watch?v=nkZ7WTaee9A"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ004089880/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/21/22/P047332122/P047332122_238.jpg"
 source_type: "youtube"
 lat: 35.658478
 lng: 139.622498

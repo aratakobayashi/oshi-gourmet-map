@@ -11,7 +11,9 @@ address: "東京都台東区雷門1-15-12 永谷マンション1F"
 source_video_title: "夕焼け酒場 #443 台東区浅草「江戸料理 櫻田」（2023年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2023.html#num443"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000032053/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/97/48/P043119748/P043119748_238.jpg"
 source_type: "tv"
 lat: 35.711147
 lng: 139.793365

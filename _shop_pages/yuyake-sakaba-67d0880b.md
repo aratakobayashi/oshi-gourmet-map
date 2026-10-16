@@ -11,7 +11,9 @@ address: "東京都八王子市子安町1-2-1"
 source_video_title: "夕焼け酒場 #148 八王子市「やきとり小太郎」（2017年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2017.html#num148"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000228618/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/49/58/P013074958/P013074958_238.jpg"
 source_type: "tv"
 lat: 35.653873
 lng: 139.339767

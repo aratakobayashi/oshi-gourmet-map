@@ -14,6 +14,8 @@ source_video_title: "【小原ブラス】ピンチを救った萌え断“サ�
 source_video_url: "https://www.youtube.com/watch?v=UFDTAr-W5IY"
 source_url: "https://www.youtube.com/watch?v=UFDTAr-W5IY"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001255515/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/12/07/P038361207/P038361207_238.jpg"
 source_type: "youtube"
 lat: 34.786934
 lng: 135.526016

@@ -14,6 +14,8 @@ source_video_title: "【小田井涼平】オジン＆オバン新戦隊ヒー�
 source_video_url: "https://www.youtube.com/watch?v=W3wUVqCJ1ZM"
 source_url: "https://www.youtube.com/watch?v=W3wUVqCJ1ZM"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001146172/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/36/25/P025353625/P025353625_238.jpg"
 source_type: "youtube"
 lat: 34.763241
 lng: 135.472015

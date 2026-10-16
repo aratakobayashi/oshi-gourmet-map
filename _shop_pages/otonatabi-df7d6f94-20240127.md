@@ -12,7 +12,9 @@ visited_date: "2024-01-27"
 source_video_title: "おとな旅あるき旅 第717回 冬の京都 龍の道（2024-01-27 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/tabi/onair/2138626_6111.html"
 group: "otonatabi"
+hotpepper_url: "https://www.hotpepper.jp/strJ000109236/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/btcKtyyCEnh875hno2eAjqyQ13H.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/32/21/P012653221/P012653221_238.jpg"
 source_type: "tv"
 lat: 35.003597
 lng: 135.774017

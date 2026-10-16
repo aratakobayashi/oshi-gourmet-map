@@ -14,6 +14,8 @@ source_video_url: "https://www.youtube.com/watch?v=E6WsvTthdNA"
 source_url: "https://kosodate-and.net/agroup-yokohama-chinese"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14003028/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000022081/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/03/35/P050980335/P050980335_238.jpg"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.44246673882929

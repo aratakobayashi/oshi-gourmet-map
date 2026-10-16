@@ -11,7 +11,6 @@ address: "東京都荒川区"
 nearest_station: "東尾久三丁目駅"
 source_video_title: "それぞれの孤独のグルメ 第1話「東京都荒川区町屋の海老チャーハンと海鮮春巻」"
 group: "kodoku_no_gurume"
-tabelog_url: "https://tabelog.com/tokyo/A1324/A132401/13062699/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gxms4pmHefOoDjMEvxQnkhOrSRv.jpg"
 source_type: "drama"
 lat: 35.737529

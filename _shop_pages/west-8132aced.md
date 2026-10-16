@@ -13,6 +13,8 @@ source_video_title: "WEST.聖地巡礼（大阪）重岡大毅がジャニーさ
 source_url: "https://note.com/yui_natade/n/nab20fd49aea6"
 group: "west"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27000801/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000805175/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/54/63/P012305463/P012305463_238.jpg"
 source_type: "blog"
 visit_kind: "other"
 program: "人生最高レストラン（TBS、2021年8月7日放送）での本人の話"

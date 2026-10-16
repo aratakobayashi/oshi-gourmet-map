@@ -14,6 +14,8 @@ source_video_title: "【東京／いちごスイーツ】今が旬❢❣都内�
 source_video_url: "https://www.youtube.com/watch?v=mdzQlABvNsU"
 source_url: "https://www.youtube.com/watch?v=mdzQlABvNsU"
 group: "tokyo_cafe_ch"
+hotpepper_url: "https://www.hotpepper.jp/strJ000861872/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/39/65/P045973965/P045973965_238.jpg"
 source_type: "youtube"
 lat: 35.634758
 lng: 139.713516

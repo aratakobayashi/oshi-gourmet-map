@@ -14,6 +14,8 @@ source_video_title: "THE TIME【松たか子＆松村北斗】銀座のメガネ
 source_url: "https://kosodate-and.net/thetime-matsu-hokuto-100"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13045038/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000229366/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/71/10/P044777110/P044777110_238.jpg"
 visit_kind: "guest_tv"
 program: "THE TIME,"
 lat: 35.6720135

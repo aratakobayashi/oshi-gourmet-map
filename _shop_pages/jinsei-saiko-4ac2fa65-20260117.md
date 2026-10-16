@@ -12,7 +12,9 @@ visited_date: "2026-01-17"
 source_video_title: "人生最高レストラン ごちそう様 森香澄さん（2026-01-17 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202601171/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ000732521/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/42/88/P021214288/P021214288_238.jpg"
 source_type: "tv"
 lat: 35.652752
 lng: 139.649628

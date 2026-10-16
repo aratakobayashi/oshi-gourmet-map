@@ -14,6 +14,8 @@ source_video_title: "【2人っきりデート】想定外！㊙️初出しト�
 source_video_url: "https://www.youtube.com/watch?v=e1rMsKUdRhw"
 source_url: "https://www.youtube.com/watch?v=e1rMsKUdRhw"
 group: "chotokkyu"
+hotpepper_url: "https://www.hotpepper.jp/strJ000843806/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/91/01/P047699101/P047699101_238.jpg"
 source_type: "youtube"
 lat: 35.655575
 lng: 139.709885

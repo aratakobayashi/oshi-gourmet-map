@@ -12,7 +12,9 @@ visited_date: "2026-06-27"
 source_video_title: "人生最高レストラン ごちそう様 舘ひろしさん（2026-06-27 TBS）"
 source_url: "https://www.tbs.co.jp/saikourestaurant/archive/202606271/"
 group: "jinsei_saiko"
+hotpepper_url: "https://www.hotpepper.jp/strJ001258180/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/11/62/P047711162/P047711162_238.jpg"
 source_type: "tv"
 lat: 35.67643
 lng: 139.781891

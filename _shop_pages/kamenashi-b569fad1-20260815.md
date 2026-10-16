@@ -14,6 +14,8 @@ source_video_title: "【街ブラ】鈴木福とノープラン旅。湯島天�
 source_video_url: "https://www.youtube.com/watch?v=iiTBh8mXD0o"
 source_url: "https://www.hotpepper.jp/strJ000004247/"
 group: "kamenashi"
+hotpepper_url: "https://www.hotpepper.jp/strJ000004247/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/18/P050233818/P050233818_238.jpg"
 source_type: "youtube"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"

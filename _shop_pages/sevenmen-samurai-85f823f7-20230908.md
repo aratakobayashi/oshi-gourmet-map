@@ -14,6 +14,8 @@ source_video_title: "7 MEN 侍【リアルな打ち上げを大公開】サマ�
 source_video_url: "https://www.youtube.com/watch?v=ABgYpaaFZfM"
 source_url: "https://reastar6.hatenablog.jp/entry/2023/10/13/103720"
 group: "sevenmen_samurai"
+hotpepper_url: "https://www.hotpepper.jp/strJ001098601/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg"
 source_type: "youtube"
 lat: 35.661369
 lng: 139.727112

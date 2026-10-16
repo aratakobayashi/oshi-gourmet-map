@@ -11,7 +11,9 @@ address: "東京都中野区弥生町5-27-1 協和ビル参番館1-C"
 source_video_title: "夕焼け酒場 #308 中野区中野富士見町「大衆酒場 焼き鳥 桂」（2020年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2020.html#num308"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ004005163/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/38/07/P048783807/P048783807_238.jpg"
 source_type: "tv"
 lat: 35.691051
 lng: 139.667847

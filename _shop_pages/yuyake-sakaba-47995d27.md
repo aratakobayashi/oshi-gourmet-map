@@ -11,7 +11,9 @@ address: "東京都江戸川区船堀2-23-9"
 source_video_title: "夕焼け酒場 #549 江戸川区船堀「炭火焼鳥いなほ」（2025年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2025.html#num549"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ000156318/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/60/71/P027956071/P027956071_238.jpg"
 source_type: "tv"
 lat: 35.683811
 lng: 139.8629

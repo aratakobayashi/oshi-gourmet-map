@@ -14,6 +14,8 @@ source_video_title: "【織田信成】にぎやか喫茶店の絶品ハンバ�
 source_video_url: "https://www.youtube.com/watch?v=C11PfgMVHFg"
 source_url: "https://www.youtube.com/watch?v=C11PfgMVHFg"
 group: "katappashi_kissa"
+hotpepper_url: "https://www.hotpepper.jp/strJ001292146/"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/77/30/P039037730/P039037730_238.jpg"
 source_type: "youtube"
 lat: 34.662971
 lng: 135.474197

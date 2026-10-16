@@ -11,7 +11,9 @@ address: "東京都台東区浅草橋2-14-5"
 source_video_title: "夕焼け酒場 #585 台東区浅草橋「串揚処 串竹」（2026年 BS-TBS）"
 source_url: "https://bs.tbs.co.jp/yuyakesakaba/shop/2026.html#num585"
 group: "yuyake_sakaba"
+hotpepper_url: "https://www.hotpepper.jp/strJ001226863/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/cMaykJ2Ew8oxhOyY7KKDZgPcjOs.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/98/73/P033979873/P033979873_238.jpg"
 source_type: "tv"
 lat: 35.699638
 lng: 139.7854

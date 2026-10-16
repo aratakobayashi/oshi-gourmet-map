@@ -13,7 +13,9 @@ source_video_title: "【ニノさん】川口春奈の気になるモノ おに�
 source_url: "https://kosodate-and.net/ninosan-haruna-onigiri"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13024859/"
+hotpepper_url: "https://www.hotpepper.jp/strJ000126816/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/89/48/P012808948/P012808948_238.jpg"
 visit_kind: "guest_tv"
 program: "ニノさん"
 lat: 35.7175966

@@ -12,7 +12,9 @@ visited_date: "2026-01-24"
 source_video_title: "大阪おっさんぽ 今回のおっさんぽの舞台は…\"健康スポット\"（2026-01-24 テレビ大阪）"
 source_url: "https://www.tv-osaka.co.jp/ip4/ossampo/2184570_15452.html"
 group: "ossampo"
+hotpepper_url: "https://www.hotpepper.jp/strJ001294098/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xgBG1MkVxfpk7t927F1fL1I3ebQ.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/40/85/P043694085/P043694085_238.jpg"
 source_type: "tv"
 lat: 34.697151
 lng: 135.499374

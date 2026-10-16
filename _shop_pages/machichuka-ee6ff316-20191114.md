@@ -14,7 +14,9 @@ source_url: "https://bs.tbs.co.jp/machichuka/store/0034-koraku/"
 group: "machichuka"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13127469/"
 tabelog_verified: "True"
+hotpepper_url: "https://www.hotpepper.jp/strJ001101703/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/41/P020374341/P020374341_238.jpg"
 source_type: "tv"
 lat: 35.641769
 lng: 139.696976

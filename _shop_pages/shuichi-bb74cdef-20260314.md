@@ -12,7 +12,9 @@ visited_date: "2026-03-14"
 source_video_title: "シューイチ 【シューイチ★セブン】これぞ地元のソウルフード☆関東初進出!スターローカルチェーン第2弾（2026-03-14 日本テレビ）"
 source_url: "https://www.ntv.co.jp/shu-ichi/articles/583lzrmjz6cu34ppp29.html"
 group: "shuichi"
+hotpepper_url: "https://www.hotpepper.jp/strJ004492745/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
+hotpepper_photo: "https://imgfp.hotp.jp/IMGH/61/46/P041796146/P041796146_238.jpg"
 source_type: "tv"
 lat: 35.542072
 lng: 139.44873
