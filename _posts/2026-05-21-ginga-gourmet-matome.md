@@ -55,6 +55,9 @@ courses:
     stops: [ginga-24823ef5-202406, ginga-44b85f76-202403, ginga-cb38ce4c-202406]
     labels: ["豊洲 千客万来", "京都 瓢嘻（新橋）", "和食いぶり別邸 新橋店"]
     legs: ["市場前→新橋はゆりかもめで乗り換えなし", ""]
+stay_area: "新橋"
+stay_note: "豊洲から新橋へは、ゆりかもめで一本です。遠征で来るなら、新橋の近くに泊まると行き来が楽です。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#6366f1">
@@ -83,6 +86,8 @@ courses:
 
 
 <div class="pf-quote"><p>【中丸のグルメ】の5本のうち3本が、高知・長崎・鹿児島への旅の回です。東京の回は豊洲の千客万来と新大久保のスイーツ。猪狩蒼弥との2本はどちらも新橋の和食のお店で、会席を頼んでいます。お店のある回は、2024年2月から7月までに公開されたものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「中丸銀河ちゃんねる」で行ったお店</h2>
 <p>中丸雄一がお店で食べた回です。店名の上の日付は動画の公開年月です。</p>

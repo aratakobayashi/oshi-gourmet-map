@@ -88,6 +88,9 @@ courses:
     stops: [kamenashi-0a3faf7a-202410, kamenashi-e27eb84b-202404, kamenashi-hohokam_diner-20240413]
     labels: ["一蘭 原宿店", "九州じゃんがら原宿店", "Hohokam DINER"]
     legs: ["", ""]
+stay_area: "原宿"
+stay_note: "原宿・神宮前の3軒は歩いて回れる距離です。遠征で来るなら、原宿・渋谷の近くに泊まると移動が少なくて済みます。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#059669">
@@ -115,6 +118,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/kamenashi-gourmet-matome/course-1.svg" alt="原宿・神宮前のコース図。1 一蘭 原宿店（神宮前6丁目）、2 九州じゃんがら原宿店（神宮前1丁目）、3 Hohokam DINER（神宮前1丁目）。3軒とも原宿駅・明治神宮前駅の近く" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>41軒のうち19軒は、後輩・仲間や共演者・ゲストと一緒の回です。一方で、タイトルに「ぼっち」「1人」が入るひとりごはんの回も続いていて、東京の焼肉から宮崎・京都・福岡・堺まで登場します。2025年からは大阪の回が増え、2026年は鈴木福との湯島の回や、初めての麻辣湯の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「亀梨和也チャンネル」で行ったお店</h2>
 <p>亀梨和也の公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月。後輩や共演者は「亀梨和也と○○」のように書いています。</p>

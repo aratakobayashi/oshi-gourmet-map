@@ -235,6 +235,9 @@ courses:
     stops: [west-1f9d5a10-20240805, west-b244f3a1-20260212, west-e547e60d]
     labels: ["2D Cafe 新大久保店", "大久保1丁目（テーハンミング・CAFE iN）", "山西亭（大久保2丁目）"]
     legs: ["", ""]
+stay_area: "新大久保"
+stay_note: "新大久保の3軒は駅の近くにまとまっています。遠征で来るなら、新大久保・新宿の近くに泊まると回りやすくなります。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#2563eb">
@@ -264,6 +267,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/west-youtube-gourmet-matome/course-1.svg" alt="新大久保のコース図。1 百人町1丁目の2D Cafe 新大久保店（KAMI Sweets#003）、2 大久保1丁目の同じ建物のテーハンミング（7人の回）とCAFE iN（KAMI Sweets#002）、3 大久保2丁目の山西亭（イキスギさんについてった 中間淳太の焼きそばの回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>『イキスギさんについてった』は、メンバーひとりが常連さんについて行く番組なので、同じ回のお店が同じ街にまとまっています。小瀧望の横浜中華街の回は9軒、郡山ブラックの回は5軒、中間淳太の「激辛、どう？」Part3は港区芝2丁目の3軒です。『リア突WEST』は28軒のうち21軒が香港・ベトナム・フィジー・タイ。公式YouTubeは東京の居酒屋と喫茶店が中心で、ジャンルでは全体の75軒が「食事」、カフェ26軒、居酒屋24軒、中華20軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「WESTube」で行ったお店（46軒）</h2>
 <p>WEST.の公式YouTubeチャンネルの動画に出たお店です。店名の上の日付は動画の公開日です。</p>

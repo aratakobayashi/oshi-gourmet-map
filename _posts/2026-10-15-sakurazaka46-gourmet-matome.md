@@ -77,6 +77,9 @@ courses:
     stops: [sakurazaka46-7d31a281-20231101, sakurazaka46-12da6055-20230809]
     labels: ["駒場 千里眼", "下北沢 KALPASI"]
     legs: ["駒場東大前→下北沢は井の頭線で2駅"]
+stay_area: "渋谷"
+stay_note: "駒場東大前・下北沢へは、渋谷から京王井の頭線で行けます。遠征で来るなら、渋谷の近くに泊まると行き来が楽です。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#e11d48">
 
@@ -86,7 +89,7 @@ courses:
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src2">{% include chico.html kind="yt" %}<span>公式YouTube「櫻坂チャンネル」<small>18軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で行ったお店<small>1軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で紹介したお店<small>11軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「櫻坂チャンネル」<small>18軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』<small>1軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『そこ曲がったら、櫻坂？』で紹介したお店<small>11軒</small></span></a></div>
 </div>
 {% include matome-members.html group="sakurazaka46" %}
 
@@ -104,7 +107,9 @@ courses:
 
 <div class="pf-quote"><p>櫻坂チャンネルの18軒のうち8軒は、的野美青・山下瞳月の「日本ラーメン旅」（2023年11月〜2025年7月）のお店で、東京から福岡・大阪・愛知・神奈川まで足をのばしています。冠番組『そこ曲がったら、櫻坂？』のお店は、2021年のプレゼン企画で、メンバーが静岡・兵庫・滋賀・鹿児島など出身地のお店を紹介したものが多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
-<h2 id="src2">{% include chico.html kind="yt" %}公式YouTube「櫻坂チャンネル」で行ったお店</h2>
+{% include stay-inline.html %}
+
+<h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「櫻坂チャンネル」で行ったお店</h2>
 <p>櫻坂46の公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月です。</p>
 
 <h3>的野・山下の日本ラーメン旅：駒場・福岡・大阪・愛知・川崎</h3>
@@ -143,13 +148,13 @@ courses:
   <li class="wr">{% include wr-open.html id="sakurazaka46-1c293b31-20260914" %}<span class="wr__k">2026.9</span><b class="wr__name">ラーメン我馬 五日市店</b><span class="wr__t">【思い出旅】中国地方コンビでまったり広島旅！本当にずっと食べてます…！／谷口愛季・向井純葉</span>{% include wr-close.html id="sakurazaka46-1c293b31-20260914" %}</li>
 </ul>
 
-<h2 id="src3">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で行ったお店</h2>
+<h2 id="src2">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で行ったお店</h2>
 <p>店名の上の日付は放送年月です。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sakurazaka46-b4ae6bc6-20220131" %}<span class="wr__k">2022.1</span><b class="wr__name">銀座 柳寿司 三代目</b><span class="wr__t">「祝！成人メンバー大人力チェック！後半」／武元唯衣・藤吉夏鈴・森田ひかる・増本綺良（中央区 銀座）</span>{% include wr-close.html id="sakurazaka46-b4ae6bc6-20220131" %}</li>
 </ul>
 
-<h2 id="src4">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で紹介したお店</h2>
+<h2 id="src3">{% include chico.html kind="tv" %}冠番組『そこ曲がったら、櫻坂？』で紹介したお店</h2>
 <p>プレゼン企画やトークで、メンバーがおすすめのお店・好きなお店として紹介したお店です。メンバーが番組でお店に行ったかは確かめられていないため、「行ったお店」とは分けて載せています。店名の上の日付は放送年月です。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sakurazaka46-tokyo-20210419" %}<span class="wr__k">2021.4</span><b class="wr__name">麻婆豆腐TOKYO 神田本店</b><span class="wr__t">「まだ出していない私の一面発表会！！前半」／激辛クイーンの座をかけて、菅井友香・守屋茜・原田葵・大園玲が麻婆豆腐を食べた（千代田区 神田司町）</span>{% include wr-close.html id="sakurazaka46-tokyo-20210419" %}</li>

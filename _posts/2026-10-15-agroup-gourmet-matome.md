@@ -92,6 +92,9 @@ courses:
     stops: [agroup-e9ea8a92-20240716, agroup-9098e43b-, agroup-f9963b8f-, agroup-94c8ca88-]
     labels: ["麻布十番 福島屋", "六本木 賛田飯店", "六本木 温野菜", "西麻布 牛牛"]
     legs: ["", "", ""]
+stay_area: "六本木"
+stay_note: "麻布十番から六本木・西麻布へのコースは六本木を通ります。遠征で来るなら、六本木の近くに泊まると夜のお店のあとも帰りやすくなります。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#ea580c">
 
@@ -118,6 +121,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/agroup-gourmet-matome/course-1.svg" alt="麻布十番から西麻布へのコース図。1 麻布十番の福島屋、2 六本木5丁目の賛田飯店、3 六本木7丁目のしゃぶしゃぶ温野菜 六本木店、4 西麻布の牛牛 西麻布 総本店" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>Aぇちゅ〜ぶの24軒は、同じテーブルを囲んで料理を選び合う「被っちゃダメよグルメ」や大食い企画の回が中心で、ガスト・ジョナサン・バーミヤンとファミリーレストランも3軒あります。「絵文字だけで出会えるか」の札幌・横浜・調布の回は、メンバーが1人ずつ立ち寄ったお店が並びます。大阪のお店は、正門良規の『笑ってコラえて！』や横山会の回など、ほかのグループと一緒の回が中心です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「Aぇちゅ〜ぶ」で行ったお店</h2>
 <p>Aぇ! groupの公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月。「5人」は正門良規・末澤誠也・草間リチャード敬太・小島健・佐野晶哉、「4人」は正門良規・末澤誠也・小島健・佐野晶哉です（2025年10月以降の回は4人で、草間リチャード敬太は出ていません）。</p>

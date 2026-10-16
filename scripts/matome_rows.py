@@ -134,15 +134,18 @@ def main():
     first_src = 1 if secs and 'ひと目で' in title(secs[0]) else 0
     # 出典の章: ひと目で〜 のあと、はじめて見るなら／エリア の前
     nav = []
+    no = 0  # 章の番号は出典の章だけで数える（何度実行しても同じ id になるように）
     for i in range(first_src, land):
         s = secs[i]
         h = title(s)
         if any(w in h for w in ('メンバーで選ぶ', 'はじめての', '半日で', 'ひと目で')):
             continue
+        h = re.sub(r'\{% include chico\.html kind="\w+" %\}', '', h).strip()
         kd = kind_of(h)
-        cid = f'src{i}'
+        no += 1
+        cid = f'src{no}'
         n = s.count('class="wr"') + sum(len(g.split(',')) for g in re.findall(r'inline-shop-grid\.html ids="([^"]*)"', s))
-        label = re.sub(r'で行ったお店.*$|（\d+軒）', '', h).strip()
+        label = re.sub(r'で(行った|紹介された)お店.*$|（\d+軒）', '', h).strip()
         hm = re.match(r'<h2([^>]*)>(.*?)</h2>', s, re.S)
         inner = re.sub(r'\{% include chico\.html kind="\w+" %\}', '', hm.group(2))
         attrs = re.sub(r'\s*id="[^"]*"', '', hm.group(1))
@@ -159,13 +162,15 @@ def main():
     body = head + ''.join(secs)
 
     # --- 3) 冒頭の「出典で選ぶ」「メンバーで選ぶ」 ---
-    body = re.sub(r'<div class="cnav">.*?</div>\n</div>\n(\{% include matome-members\.html group="\w+" %\}\n)?\n?', '', body, flags=re.S)
+    cnav_re = r'<div class="cnav">.*?</div>\n</div>\n(\{% include matome-members\.html group="\w+" %\}\n)?\n?'
+    old = re.search(cnav_re, body, re.S)
+    body = re.sub(cnav_re, '', body, flags=re.S)
     items = ''.join(f'<a href="#{c}">{{% include chico.html kind="{k}" %}}<span>{l}<small>{n}軒</small></span></a>' for c, k, l, n in nav if n)
     block = (f'<div class="cnav">\n<p class="cnav__h">出典で選ぶ</p>\n<div class="cnav__list">{items}</div>\n</div>\n'
              f'{{% include matome-members.html group="{group}" %}}\n')
     first_h2 = body.find('<h2 id="src')
     # 「ひと目で」の章の前に置く
-    hi = body.find('<h2>ひと目で')
+    hi = old.start() if old else body.find('<h2>ひと目で')
     if hi < 0:
         hi = first_h2
     body = body[:hi] + block + '\n' + body[hi:]

@@ -123,6 +123,9 @@ courses:
     stops: [heysayjump-tsumugi-, 069d6a42, heysayjump-d5f50b8f-20180908]
     labels: ["築地本願寺カフェ Tsumugi", "人形町 玉英堂 彦九郎", "亀戸餃子"]
     legs: ["築地→人形町は日比谷線で3駅", ""]
+stay_area: "人形町"
+stay_note: "築地から人形町、亀戸へのコースは人形町を通ります。遠征で来るなら、人形町の近くに泊まると東側のお店を回りやすくなります。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#ef4444">
@@ -150,6 +153,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/heysayjump-gourmet-matome/course-1.svg" alt="築地から亀戸へのコース図。1 築地本願寺カフェ Tsumugi、2 人形町の玉英堂 彦九郎（築地から日比谷線で3駅）、3 亀戸餃子" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>冠番組の55軒は、2015〜2019年の放送回のお店です。2016年までは都内のデカ盛りや高級ランチの調査、2018年からは伊豆箱根・房総・川越へ出かける回が増えます。出演番組の15軒は、どれも伊野尾慧が出た回のものです。冠番組には2人1組でお店をまわる回もあり、川越特集では伊野尾慧・髙木雄也の組と、薮宏太・山田涼介の組に分かれています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="tv" %}冠番組『いただきハイジャンプ』のお店</h2>
 <p>フジテレビ系の冠番組の回です。店名の上の日付は放送の年月です。回によっては、出演メンバーのうち誰がどのお店に行ったかの内訳が分からないため、「回の出演」としてその回のメンバーを書いています。</p>

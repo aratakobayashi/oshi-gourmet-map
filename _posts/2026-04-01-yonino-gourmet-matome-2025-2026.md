@@ -123,6 +123,9 @@ courses:
     stops: [yonino-tokyo-ajifurai, yonino-nagisa-shokudo, yonino-chuka-juhachiban-kanda, yonino-kaligari-akihabara]
     labels: ["九段下 トーキョーアジフライ", "神保町 なぎさ食堂", "淡路町 中華料理 十八番", "秋葉原 カリガリ"]
     legs: ["九段下→神保町は半蔵門線・都営新宿線で1駅", "神保町→小川町（淡路町）は都営新宿線で1駅", ""]
+stay_area: "秋葉原"
+stay_note: "九段下から秋葉原へのコースは朝ごはんのお店から始まります。遠征で来るなら、秋葉原の近くに泊まると朝から動きやすくなります。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#e8537a">
@@ -150,6 +153,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/course-1.svg" alt="九段下から秋葉原へのコース図。1 九段下のトーキョーアジフライ（#316）、2 神保町のなぎさ食堂（#288。九段下から半蔵門線・都営新宿線で1駅）、3 淡路町の中華料理 十八番（#314。神保町から都営新宿線で1駅の小川町）、4 秋葉原 カリガリ（#292）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>いちばん多いのは、タイトルに【朝食】【朝飯】などが付いた朝ごはんの回です（33本）。2024年7月の#348までは当時の4人（誰かが不在の回もあります）で街の定食屋に行く回が中心で、3人になってからはステーキ、しゃぶしゃぶ、寿司、ジンギスカンまで朝ごはんとして登場します。ドライブの回では、1人がお店にコーヒーを買いに行く場面がよく出てきます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「よにのちゃんねる」で行ったお店</h2>
 <p>よにのちゃんねる（2023年の途中までは「ジャにのちゃんねる」）の回です。店名の上の日付は動画の公開年月です。</p>

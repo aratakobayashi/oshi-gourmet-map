@@ -171,6 +171,9 @@ courses:
     stops: [naniwa-376379fa-20230505, naniwa-9d3720a8-, naniwa-1d6e8883-20230602, naniwa-a9a20a89-20220520]
     labels: ["銀座朝食ラボ（銀座7丁目）", "喫茶 アメリカン（銀座4丁目）", "ジョリッティカフェ（有楽町）", "ギョーザ スタンド ウーロン（東京駅）"]
     legs: ["", "", "有楽町→東京はJR山手線で1駅"]
+stay_area: "銀座"
+stay_note: "銀座から東京駅へのコースは銀座から歩き始めます。遠征で来るなら、銀座の近くに泊まると朝から回りやすくなります。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#f97316">
@@ -198,6 +201,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/naniwa-gourmet-matome/course-1.svg" alt="銀座から東京駅へのコース図。1 銀座7丁目の銀座朝食ラボ（長尾謙杜）、2 銀座4丁目の喫茶 アメリカン（藤原丈一郎）、3 有楽町のジョリッティカフェ（大橋和也）、4 東京駅 グランスタ東京の東京ギョーザ スタンド ウーロン（藤原丈一郎。有楽町からJR山手線で1駅）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>「どっち派！？」は、1回の放送でひとりのメンバーが2〜6軒を回る回が多くあります。同じ回のお店は同じ街や沿線にまとまっていることが多く、2026年3月の道枝駿佑の回は6軒すべてが熱海市、2025年3月の大西流星の回は神田に2軒、2023年10月の西畑大吾の回は谷中・浅草・芝公園・府中のお寺や古民家のカフェでした。推しの回をひとつ選んで、そのまま巡るのがおすすめです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「なにわ男子」で行ったお店</h2>
 <p>なにわ男子の公式YouTubeチャンネルの動画に出てきたお店です。タイトルは公式チャンネルのものです。</p>

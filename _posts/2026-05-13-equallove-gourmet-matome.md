@@ -147,6 +147,9 @@ courses:
     stops: [equal_love-bd15bb1d-202412, equal_love-17396234-202412, equal_love-a9d4d24e-202412]
     labels: ["やきとん長良", "まんまじぃま", "あちらぼ"]
     legs: ["", ""]
+stay_area: "新宿"
+stay_note: "高円寺へは新宿からJRの中央線・総武線で一本です。遠征で来るなら、新宿の近くに泊まると、はしご酒のあとも帰りやすくなります。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#f43f5e">
 
@@ -173,6 +176,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/equallove-gourmet-matome/course-1.svg" alt="高円寺のはしご酒のコース図。1 高円寺駅の南のやきとん長良、2 高円寺駅の南東のまんまじぃま（1から直線で約0.7km）、3 高円寺駅の北のあちらぼ（2から直線で約0.6km）。合わせて直線で約1.2km" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>公式チャンネルの49軒は、2人組の旅や食べ歩きと、諸橋沙夏の「はしご酒」が中心です。鎌倉の食べ歩きは1本で6軒、宮島の旅（イコラブのあんまい）も6軒と、1本の動画で何軒もまわる回が多くあります。大谷映美里の個人チャンネルの38軒のうち10軒はラーメンで、「ラー活」の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」で行ったお店</h2>
 <p>=LOVE・≠ME・≒JOYの合同の公式チャンネルの回です。店名の左の日付は動画の公開年月です。</p>
