@@ -149,6 +149,9 @@ courses:
     stops: [sixtones-dintaifung-soramachi, sixtones-kamonka-kinshicho, sixtones-honjo-kaeru-honpo, sixtones-fe00963e-20201127]
     labels: ["東京ソラマチ（鼎泰豊・だるま）", "錦糸町 過門香", "両国 本所かえる本舗", "屋形船 晴海屋（横網）"]
     legs: ["押上→錦糸町は半蔵門線で1駅", "錦糸町→両国はJR総武線で1駅", ""]
+stay_area: "押上"
+stay_note: "押上から両国へのコースは、押上の東京ソラマチから歩き始めます。遠征で来るなら、押上の近くに泊まると朝から回りやすくなります。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#7c3aed">
 
@@ -175,6 +178,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/sixtones-gourmet-matome/course-1.svg" alt="押上から両国へのコース図。1 東京ソラマチ（鼎泰豊・だるま）、2 錦糸町のGINZA 過門香（押上から半蔵門線で1駅）、3 両国の本所かえる本舗（錦糸町からJR総武線で1駅）、4 横網の屋形船 晴海屋" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>ストチューブの53軒は、6人そろって同じテーブルを囲む回が中心です。2019〜2020年は秩父・京都・金沢・静岡などのドライブと旅の回、2022年からは忘年会・打ち上げ、大食い企画、東京での朝メシの回が増えます。一方、テレビ番組のロケは京本大我・髙地優吾など1〜2人の回が多く、ドラマのロケ地は森本慎太郎の『だが、情熱はある』と、松村北斗の2作品のものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「ストチューブ」で行ったお店</h2>
 <p>SixTONESの公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月です。</p>

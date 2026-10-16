@@ -65,6 +65,9 @@ courses:
     stops: [neajoy-6ad11682-202604, neajoy-9c15ea70-202510, neajoy-9538e782-202510]
     labels: ["水道橋 北ノ醤油チーホー", "東京駅 みそきん", "有楽町 串カツ田中"]
     legs: ["", "東京→有楽町はJR山手線で1駅"]
+stay_area: "水道橋"
+stay_note: "水道橋から東京駅・有楽町へのコースは水道橋から始まります。東京ドームのライブに合わせて来るなら、水道橋の近くに泊まると移動が少なくて済みます。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#d946ef">
 
@@ -91,6 +94,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/neajoy-gourmet-matome/course-1.svg" alt="水道橋から東京駅・有楽町へのコース図。1 水道橋の北ノ醤油チーホー、2 東京駅のみそきん（1から直線で約2.4km）、3 有楽町の串カツ田中 有楽町店（東京からJR山手線で1駅。直線で約0.6km）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>ラーメンの回は5本すべてに大信田美月が出ていて、一緒に食べるメンバーは山田杏佳・山野愛月・天野香乃愛・江角怜音と替わります。2025年10月のみそきんの回にはヒカキン、2026年4月の北ノ醤油チーホーの回にはSUSURUが登場します。旅の回は箱根と岡崎で、どちらも1本の動画で3軒に立ち寄っています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」で行ったお店</h2>
 <p>=LOVE・≠ME・≒JOYの合同の公式チャンネルの、≒JOYの回です。店名の左の日付は動画の公開年月です。その場で食べたかどうか分からないお店は「立ち寄った」と書いています。</p>

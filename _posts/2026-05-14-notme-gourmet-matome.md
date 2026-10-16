@@ -76,6 +76,9 @@ courses:
     stops: [notme-304ed516-202411, notme-sanrio_cafe-202408]
     labels: ["巣鴨 かき氷工房 雪菓", "池袋 SANRIO CAFE"]
     legs: ["巣鴨→池袋はJR山手線で2駅"]
+stay_area: "池袋"
+stay_note: "巣鴨から池袋へのコースは池袋で終わります。遠征で来るなら、池袋に泊まると帰りの移動がありません。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#0d9488">
 
@@ -102,6 +105,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/notme-gourmet-matome/course-1.svg" alt="巣鴨から池袋へのコース図。1 巣鴨のかき氷工房 雪菓、2 池袋のSANRIO CAFE 池袋店（巣鴨からJR山手線で2駅。直線で約1.9km）" width="420" height="524" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>公式チャンネルの22軒は、2〜4人で出かける旅と食べ歩きの回が中心です。熱海には、2023年1月の公式チャンネルの熱海旅と、2024年11月の鈴木瞳美のVlogの2回分のお店があり、どちらの回にも熱海駅前の商店街のお店が出てきます。「わたしはすずき。」の9軒のうち7軒は、沖縄と熱海の旅のVlogのお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」で行ったお店</h2>
 <p>=LOVE・≠ME・≒JOYの合同の公式チャンネルの、≠MEの回です。店名の左の日付は動画の公開年月です。お土産を探した回など、その場で食べたかどうか分からないお店は「立ち寄った」と書いています。</p>

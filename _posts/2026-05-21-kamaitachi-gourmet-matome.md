@@ -66,6 +66,9 @@ courses:
     stops: [9d85a687, 50d01f75, kamaitachi-a10db015-]
     labels: ["もつ焼き けいすけ（東上野）", "やきとり 虎の子（東上野）", "パーバーン（小島）"]
     legs: ["", ""]
+stay_area: "上野"
+stay_note: "上野から新御徒町へのコースは上野から歩き始めます。遠征で来るなら、上野に泊まると朝から回れます。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#8b5cf6">
@@ -95,6 +98,8 @@ courses:
 
 
 <div class="pf-quote"><p>2人そろってお店で食べた回がはっきりしているのは、公式YouTubeの3軒です。『かまいまち』の16軒は、ひとつの街の3〜4軒を出演者がそれぞれ紹介する形で、高円寺・上野・新大久保・浅草・下北沢と、東京の街ごとにまとまっています。トークの回で名前が挙がった4軒のうち3軒は、大阪・滋賀のお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「かまいたちチャンネル」で行ったお店</h2>
 <p>2人がお店で食べた回です。店名の上の日付は動画の公開年月です。</p>

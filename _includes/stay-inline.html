@@ -1,0 +1,17 @@
+{%- comment -%}
+  記事の本文の中（「半日で巡るなら」のあと）に置く「○○周辺に泊まる」。front matter の stay_area / stay_note を使う。
+  これを置いた記事は front matter に stay_inline: true を書く（本文の後の「泊まる」を出さない）。見出し（h2）にしないのは目次に入れないため
+{%- endcomment -%}
+{%- assign _sa = page.stay_area -%}{%- assign _sj = site.data.stay_kw[_sa] -%}
+{%- if _sa %}
+<div class="stay-in">
+  <p class="stay-in__h"><span aria-hidden="true">🛏</span> {{ page.stay_title | default: _sa | append: '周辺に泊まる' }}<small class="stay-in__pr">PR</small></p>
+  {%- if page.stay_note %}<p class="stay-in__t">{{ page.stay_note }}</p>{% endif %}
+  <div class="btn-row">
+    {%- capture _j %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ _sj }}{% endcapture %}
+    {%- capture _r %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ _sa | url_encode }}{% endcapture %}
+    {% include affiliate-link.html url=_j label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+    {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn" service="rakuten" %}
+  </div>
+</div>
+{%- endif %}

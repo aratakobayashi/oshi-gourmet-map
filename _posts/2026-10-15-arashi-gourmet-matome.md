@@ -276,6 +276,9 @@ courses:
     labels: ["成城 キリーズ フレッシュ", "祖師谷 ズッペリア", "経堂 つるばみ舎"]
     legs: ["成城学園前→祖師ヶ谷大蔵は小田急線で1駅", "祖師ヶ谷大蔵→経堂は小田急線で2駅"]
 pr: true
+stay_area: "新宿"
+stay_note: "成城学園前・経堂へは、新宿から小田急線で行けます。遠征で来るなら、新宿の近くに泊まると行き来が楽です。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#dc2626">
 
@@ -302,6 +305,8 @@ pr: true
 <figure class="fig course"><img src="/assets/img/posts/arashi-gourmet-matome/course-1.svg" alt="成城から経堂へのコース図。1 成城のキリーズ フレッシュ、2 祖師谷のズッペリア オステリア ピティリアーノ（成城学園前から小田急線で1駅の祖師ヶ谷大蔵）、3 経堂のホットケーキ つるばみ舎（祖師ヶ谷大蔵から小田急線で2駅）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>227軒のうち214軒は、スタジオに料理が出たお店です。2018〜2020年の回が中心で、東京が174軒（港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒）。試食したメンバーが分かるお店は84軒です。ロケで訪れたお店は13軒で、そのうち9軒が相葉雅紀のツーリングの回。北海道・長野・千葉・香川・岡山と、東京の外のお店が多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="tv" %}冠番組『嵐にしやがれ』のロケで行ったお店</h2>
 <p>メンバーが番組のロケでお店を訪れた回です。店名の上の日付は放送年月です。</p>

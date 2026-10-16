@@ -114,6 +114,9 @@ courses:
     stops: [timelesz-6c0597af-20250902, timelesz-11cdabda-, timelesz-b1cf986a-20260724]
     labels: ["有楽町 魚がし日本一", "銀座7丁目 羽衣", "築地 さのきや"]
     legs: ["", ""]
+stay_area: "銀座"
+stay_note: "有楽町から築地へのコースは銀座を通ります。遠征で来るなら、銀座の近くに泊まると朝の築地にも歩いて行けます。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#1d4ed8">
 
@@ -142,6 +145,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/timelesz-gourmet-matome/course-1.svg" alt="有楽町から築地へのコース図。1 有楽町の寿司 魚がし日本一 有楽町店、2 銀座7丁目の味の中華 羽衣 銀座本店（直線で約0.8km）、3 築地の築地さのきや（直線で約0.7km）。合わせて直線で約1.5km" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>『タイムレスマン』のお店は、2人ずつのチームで回る「アーユーハングリーマン」「1000円差し入れマン」と、メンバーがそろう「腹ペコ2択マン」「脱落旅」に分かれます。出演した番組では原嘉孝のロケが多く、『ニノさん』の茨城・神保町・高田馬場と、『ヒルナンデス！』の軽井沢などで12軒。松島聡は『ニノさん』の湯島と『ヒルナンデス！』の日暮里・蔵前で6軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="tv" %}冠番組『タイムレスマン』で行ったお店</h2>
 <p>フジテレビ系の冠番組です。店名の上の日付は放送年月です。</p>

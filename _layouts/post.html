@@ -52,7 +52,7 @@ layout: default
       {% include toc.html html=content %}
       <div class="prose">{{ content }}</div>
       {%- if page.techo %}<div class="art__notes">{{ _notes }}</div>{% endif %}
-      {%- if page.stay_area %}{% assign _sa = page.stay_area %}{% assign _sj = site.data.stay_kw[_sa] %}
+      {%- if page.stay_area and page.stay_inline != true %}{% assign _sa = page.stay_area %}{% assign _sj = site.data.stay_kw[_sa] %}
       <div class="post-stay">{% include stay-block.html hk=_sa hj=_sj title=page.stay_title note=page.stay_note %}</div>
       {%- endif %}
     </article>

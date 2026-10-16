@@ -89,6 +89,9 @@ courses:
     stops: [kinkikids-33db77e2-, 42b487cd, kinkikids-tokyo_3-]
     labels: ["築地場外（魚政・東印度カレー商会）", "日本橋堀留町 くわっちー家", "上野 TOKYO焼肉ごぉ 3号店"]
     legs: ["築地→人形町は日比谷線で3駅", ""]
+stay_area: "銀座"
+stay_note: "築地から日本橋堀留町、上野へのコースは築地から始まります。遠征で来るなら、銀座の近くに泊まると朝の築地に歩いて行けます。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#6d28d9">
 
@@ -115,6 +118,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/kinkikids-gourmet-matome/course-1.svg" alt="築地から上野へのコース図。1 築地場外の東印度カレー商会 築地場外店（となりに築地 魚政）、2 日本橋堀留町のくわっちー家（築地から人形町へは日比谷線で3駅）、3 上野のTOKYO焼肉ごぉ 3号店" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>『ブンブブーン』のロケは、1回の放送で同じ街の2軒を回る回が多く、築地場外の2軒、奥渋谷の2軒、川越の2軒のように近くにまとまっています。一方でスタジオに料理が出た企画のお店は、高知・北海道・岐阜・静岡・大阪など全国に散らばっています。堂本剛が出演した番組のお店は、6軒のうち5軒が大阪・奈良のお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="tv" %}冠番組『KinKi Kidsのブンブブーン』で行ったお店</h2>
 <p>フジテレビの冠番組です。店名の上の日付は放送年月。「2人」は堂本光一・堂本剛で、そのあとに一緒にいたゲストを書いています。</p>

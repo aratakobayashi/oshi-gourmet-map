@@ -160,6 +160,9 @@ courses:
     stops: [nogizaka46-65b993cb-20250311, nogizaka46-ef89d864-, nogizaka46-24da3fd9-, nogizaka46-good_morning_cafe-]
     labels: ["水道橋 松屋", "神保町 キッチン南海", "神田小川町 エチオピア", "神田錦町 GOOD MORNING CAFE（PV）"]
     legs: ["", "", ""]
+stay_area: "水道橋"
+stay_note: "水道橋から神保町・神田へのコースは朝ごはんのお店から始まります。遠征で来るなら、水道橋の近くに泊まると朝から動きやすくなります。"
+stay_inline: true
 ---
 <div class="pf pf--techo" style="--pc:#0ea5e9">
 
@@ -188,6 +191,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/nogizaka46-gourmet-matome/course-1.svg" alt="水道橋から神保町・神田へのコース図。1 水道橋の松屋 水道橋店（神田三崎町）、2 神保町のキッチン南海 神保町店、3 神田小川町のカリーライス専門店 エチオピア 本店、4 神田錦町のGOOD MORNING CAFE 錦町（個人PVの撮影場所）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>『乃木坂配信中』の33軒は、筒井あやめの喫茶探訪や遠藤さくらの「さくさんぽ」のように、メンバーが一人で町を歩いてお店に入る企画が中心です。冠番組のヒット祈願やキャンペーンの回は北海道などの旅先が多く、MV・個人PVの撮影場所は鎌倉・足利・飯能にまとまっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「乃木坂配信中」で行ったお店</h2>
 <p>乃木坂46の公式YouTubeチャンネル『乃木坂配信中』の回です。左の数字は動画の公開年月、タイトルは公式チャンネルのものです。</p>

@@ -198,6 +198,9 @@ courses:
     stops: [kingprince-a5f71e02-, kingprince-70f61cc7-, kingprince-ginza_abc-, kingprince-f30d7811-]
     labels: ["丸ビル 臼杵ふぐ 山田屋", "吉野家 有楽町店", "銀座3丁目 ABCラーメン・EL CHATEO", "築地銀だこ 本店"]
     legs: ["", "", "銀座駅→築地駅は日比谷線で2駅"]
+stay_area: "東京駅"
+stay_note: "丸の内から築地へのコースは東京駅の近くから歩き始めます。新幹線で来るなら、東京駅の近くに泊まると移動が少なくて済みます。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#f472b6">
@@ -225,6 +228,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/kingprince-gourmet-matome/course-1.svg" alt="丸の内から築地へのコース図。1 丸ビルの臼杵ふぐ 山田屋 丸の内、2 吉野家 有楽町店、3 銀座3丁目のGINZA ABCラーメンとEL CHATEO 銀座店、4 築地銀だこ 本店（銀座駅から日比谷線で2駅の築地駅の近く）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の42軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="tv" %}冠番組「King &amp; Princeる。」で行ったお店</h2>
 <p>日本テレビの『King &amp; Princeる。』のロケで、メンバーが訪れたお店です。どれも5人が在籍していたころの放送です。道の駅の3軒は、料理に使う食材を選んだり買ったりしたロケです。</p>

@@ -171,6 +171,9 @@ courses:
     stops: [snowman-41d7688e-202604, snowman-tsurujiro-asakusa, snowman-onigiri-asakusa-yadoroku]
     labels: ["雷門 浅草むぎとろ本店", "浅草 つる次郎 HANARE", "浅草三丁目 おにぎり浅草宿六"]
     legs: ["", ""]
+stay_area: "浅草"
+stay_note: "雷門から浅草三丁目へのコースは浅草の中だけで回れます。遠征で来るなら、浅草に泊まると朝の人が少ない時間から歩けます。"
+stay_inline: true
 ---
 
 <div class="pf pf--techo" style="--pc:#3b82f6">
@@ -198,6 +201,8 @@ courses:
 <figure class="fig course"><img src="/assets/img/posts/snowman-gourmet-matome/course-1.svg" alt="雷門から浅草三丁目へのコース図。1 雷門の浅草むぎとろ本店（2026年4月の回）、2 浅草の浅草つる次郎 HANARE（2024年5月の回）、3 浅草三丁目のおにぎり浅草宿六（2024年9月の回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
 
 <div class="pf-quote"><p>出典ごとに、お店の登場のしかたがはっきり違います。すのちゅーぶは東京のお店に4人ほどで行く回が中心で、蕎麦・定食・ガレット・油そばと毎回ジャンルが変わります。それスノは三崎・沼津・銚子の海鮮丼や、浜松と宇都宮の餃子のように、チームに分かれて同じ料理を食べ比べる企画が多く、旅スノは2人ずつで各地を巡る旅の途中のお店です。注文したものが分かるお店は、メンバーごとに載せました。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+{% include stay-inline.html %}
 
 <h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「Snow Man」（すのちゅーぶ）で行ったお店</h2>
 <p>Snow Manの公式YouTubeチャンネルの回です。店名の上の日付は動画の公開年月。（ ）の中は注文したメンバーです。</p>
