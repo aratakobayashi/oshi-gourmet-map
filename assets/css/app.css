@@ -1005,3 +1005,15 @@ a.badge { min-height: 32px; }
 .wr--lite .wr__name::after { content: " ›"; }
 .wr--lite .wr__btns { padding: 0 12px 0 0; margin: 0; }
 .wr--lite .wr__btn { height: 30px; padding: 0 10px; font-size: 12px; }
+
+/* 半日で巡るなら: 道順のリスト（番号・店名・場所・次までの直線距離） */
+.prose .stops { list-style: none; margin: var(--s-4) 0 var(--s-2); padding: 0; counter-reset: st; }
+.prose .stops li::marker { content: none; }
+.prose .stops li { position: relative; counter-increment: st; padding: 0 0 var(--s-4) 48px; }
+.stops li::before { content: counter(st); position: absolute; left: 0; top: 2px; width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; background: var(--pc, var(--accent)); color: #fff; font-weight: 800; font-family: var(--serif); font-size: 17px; }
+.stops li:not(:last-child)::after { content: ""; position: absolute; left: 16px; top: 40px; bottom: 4px; border-left: 2px dashed color-mix(in srgb, var(--pc, var(--accent)) 45%, #fff); }
+.prose .stops a { display: block; padding: 10px 14px; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); color: var(--ink); text-decoration: none; }
+.stops a b { display: block; font-size: 16px; color: var(--accent-ink); }
+.stops a b::after { content: " ›"; }
+.stops a span { display: block; font-size: 13px; color: var(--ink-2); }
+.stops small { display: block; margin-top: 6px; font-size: 12.5px; color: var(--ink-2); }
