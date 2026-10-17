@@ -6,7 +6,7 @@
   <span class="pick__body">
     <span class="pick__no">{{ include.no }}</span>
     <b class="pick__name">{{ _c.n }}</b>
-    <span class="pick__st">{% if _c.st != '' %}{{ _c.st }}{% else %}{{ _c.p }}{% endif %}</span>
+    <span class="pick__st">{% if _c.st != '' %}{{ _c.st }}{% elsif _c.hk %}{{ _c.p }}{{ _c.hk }}{% else %}{{ _c.p }}{% endif %}</span>
     <span class="pick__why">{{ include.why }}</span>
     <span class="pick__go">お店の詳細を見る<span aria-hidden="true"> ›</span></span>
   </span>
