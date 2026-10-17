@@ -977,3 +977,17 @@ a.badge { min-height: 32px; }
 .stay-in__t { margin: 0 0 10px; font-size: 14px; color: var(--ink-2, inherit); }
 .stay-in .btn-row { margin: 0; }
 .stay-in .btn { text-decoration: none; }
+
+/* 番組のまとめ記事：区・地域ごとに閉じた店の一覧（scripts/program_matome_rows.py） */
+.wrd { border-top: 1px solid var(--line); }
+.wrd:last-of-type { border-bottom: 1px solid var(--line); }
+.wrd > summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 13px 4px; font-weight: 700; }
+.wrd > summary::-webkit-details-marker { display: none; }
+.wrd > summary::after { content: "開く ＋"; flex: none; color: var(--accent-ink); font-weight: 400; font-size: 13px; }
+.wrd[open] > summary::after { content: "閉じる －"; }
+.wrd > .wrs { margin-top: 0; }
+.wr__link--lite { grid-template-columns: 1fr; }
+.wr__link--lite + .wr__btns { padding-left: var(--s-3); margin-top: 0; }
+.wrd__names { margin: 0 4px 12px; font-size: 12.5px; line-height: 1.7; color: var(--ink-2); }
+.wrd[open] + .wrd__names { display: none; }
+.wrd:has(+ .wrd__names) { border-bottom: 0; }
