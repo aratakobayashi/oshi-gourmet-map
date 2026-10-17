@@ -103,7 +103,8 @@ def fetch_json(url, **kw):
 
 # ---------------------------------------------------------------- 文字・住所
 def nz(s):
-    return unicodedata.normalize('NFKC', s or '')
+    # 公式のデータに「&amp;#22221;」のように二重に書かれた文字があるため、残った文字参照も戻す
+    return unicodedata.normalize('NFKC', html.unescape(s or ''))
 
 
 def text_of(h):

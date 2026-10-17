@@ -2,7 +2,7 @@
 {%- assign _c = site.data.shop_cards[include.id] -%}
 {%- if _c -%}
 <a class="pick" href="{{ _c.u | relative_url }}" style="--g:{{ site.data.group_ix[_c.gr].c }}">
-  <span class="pick__ph">{% if _c.v != '' %}<img src="https://i.ytimg.com/vi_webp/{{ _c.v }}/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async">{% elsif _c.t != '' %}<img src="{{ _c.t }}" alt="" width="300" height="200" loading="lazy" decoding="async">{% endif %}</span>
+  <span class="pick__ph">{% if _c.v != '' %}<img src="https://i.ytimg.com/vi_webp/{{ _c.v }}/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async">{% elsif _c.t != '' and _c.sp != 1 %}<img src="{{ _c.t }}" alt="" width="300" height="200" loading="lazy" decoding="async">{% else %}{% include thumb.html c=_c %}{% endif %}</span>
   <span class="pick__body">
     <span class="pick__no">{{ include.no }}</span>
     <b class="pick__name">{{ _c.n }}</b>

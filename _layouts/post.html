@@ -58,7 +58,8 @@ layout: default
     </article>
 
     <div class="artg__b">
-      {%- if page.shop_ids %}
+      {%- comment -%} 巡礼帳のまとめ記事は本文にお店の行があるので、同じ店をカードでもう一度並べない {%- endcomment -%}
+      {%- if page.shop_ids and page.techo != true %}
       <section class="section" id="shops">
         <div class="section__head"><h2 class="h2">この記事のお店</h2>{% if gx %}<a class="link-more" href="{{ '/shops/' | relative_url }}?g={{ page.group }}&amp;view=map">地図で見る →</a>{% endif %}</div>
         <div class="cards">{% for id in page.shop_ids limit: 12 %}{% include card.html id=id %}{% endfor %}</div>
