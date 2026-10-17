@@ -1,9 +1,9 @@
 ---
 layout: shop
-title: "&#29641;亭"
-description: "町中華で飲ろうぜ #164 栃木県宇都宮編（2021-12-14 BS-TBS）で紹介された中華「&#29641;亭」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
+title: "珉亭"
+description: "町中華で飲ろうぜ #164 栃木県宇都宮編（2021-12-14 BS-TBS）で紹介された中華「珉亭」（栃木県宇都宮市）。推し活グルメ巡礼スポット。"
 shop_id: "machichuka-277fdf1b-20211214"
-name: "&#29641;亭"
+name: "珉亭"
 genre: "chuka"
 prefecture: "栃木県"
 city: "宇都宮市"

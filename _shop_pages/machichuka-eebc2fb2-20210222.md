@@ -1,9 +1,9 @@
 ---
 layout: shop
-title: "&#22221;龍飯店"
-description: "町中華で飲ろうぜ #119 東大島編（2021-02-22 BS-TBS）で紹介された中華「&#22221;龍飯店」（東京都江東区）。推し活グルメ巡礼スポット。"
+title: "囍龍飯店"
+description: "町中華で飲ろうぜ #119 東大島編（2021-02-22 BS-TBS）で紹介された中華「囍龍飯店」（東京都江東区）。推し活グルメ巡礼スポット。"
 shop_id: "machichuka-eebc2fb2-20210222"
-name: "&#22221;龍飯店"
+name: "囍龍飯店"
 genre: "chuka"
 prefecture: "東京都"
 city: "江東区"
