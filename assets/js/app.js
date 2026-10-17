@@ -190,5 +190,35 @@
     }
   }
 
+  // ---------- 店の多い一覧（番組のまとめ記事）: 閉じた <details> に店のデータ（JSON）を入れておき、開いたときに行を作る ----------
+  // 行の形は _includes/wr-open.html・wr-close.html（lite）と同じ。データ: [お店のページ, 年.月, 店名, 説明, 食べログ, ホットペッパー]
+  function el(tag, cls, txt) { var x = document.createElement(tag); if (cls) x.className = cls; if (txt) x.textContent = txt; return x; }
+  function wrRow(r) {
+    var li = el('li', 'wr'), a = el('a', 'wr__link wr__link--lite'), b = el('span', 'wr__body');
+    a.href = r[0];
+    if (r[1]) b.appendChild(el('span', 'wr__k', r[1]));
+    b.appendChild(el('b', 'wr__name', r[2])); b.appendChild(el('span', 'wr__t', r[3]));
+    var go = el('span', 'wr__go', 'お店の詳細を見る'); go.appendChild(el('span', '', ' ›')).setAttribute('aria-hidden', 'true'); b.appendChild(go);
+    a.appendChild(b); li.appendChild(a);
+    if (r[4] || r[5]) {
+      var bs = el('span', 'wr__btns');
+      // 食べログは提携先（LinkSwitch がクリック時に変換）なので広告リンク。ホットペッパーは通常リンク
+      if (r[5]) { var h = el('a', 'wr__btn wr__btn--book', 'ホットペッパーで予約'); h.href = r[5]; h.target = '_blank'; h.rel = 'noopener'; h.dataset.aff = 'hotpepper'; bs.appendChild(h); }
+      if (r[4]) { var tb = el('a', 'wr__btn', '食べログで見る'); tb.href = r[4]; tb.target = '_blank'; tb.rel = 'sponsored noopener'; tb.dataset.aff = 'tabelog'; bs.appendChild(tb); }
+      li.appendChild(bs);
+    }
+    return li;
+  }
+  document.querySelectorAll('details[data-lazy]').forEach(function (d) {
+    function open() {
+      var sc = d.querySelector('script[type="application/json"]');
+      if (!sc) return;
+      var ul = el('ul', 'wrs');
+      try { JSON.parse(sc.textContent).forEach(function (r) { ul.appendChild(wrRow(r)); }); } catch (e) { return; }
+      sc.remove(); d.appendChild(ul);
+    }
+    if (d.open) open(); else d.addEventListener('toggle', function () { if (d.open) open(); });
+  });
+
   window.paintFavs();
 })();

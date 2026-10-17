@@ -1,6 +1,7 @@
 {%- comment -%}
   記事の店の行（まとめ記事の .wrs の1行）の前半。写真（右下に巡礼の判子）と、お店のページへのリンクを開く。
+  lite=1 のときは写真を出さない（番組のまとめ記事など、店が数百軒ある一覧を軽くするため）。
   使い方: <li class="wr">{% include wr-open.html id="店のID" %}<span class="wr__k">年.月</span><b class="wr__name">店名</b><span class="wr__t">回・メンバー・食べた物</span>{% include wr-close.html id="店のID" %}</li>
 {%- endcomment -%}
 {%- assign _c = site.data.shop_cards[include.id] -%}
-{%- if _c -%}<a class="wr__link" href="{{ _c.u | relative_url }}" style="--g:{{ site.data.group_ix[_c.gr].c }}"><span class="wr__ph">{% include thumb.html c=_c %}{% if _c.d %}<span class="hanko" aria-hidden="true"><i>巡礼</i><b>{{ _c.d }}</b></span>{% endif %}</span><span class="wr__body">{%- else -%}<span class="wr__link wr__link--none"><span class="wr__body">{%- endif -%}
+{%- if _c and include.lite -%}<a class="wr__link wr__link--lite" href="{{ _c.u | relative_url }}"><span class="wr__body">{%- elsif _c -%}<a class="wr__link" href="{{ _c.u | relative_url }}" style="--g:{{ site.data.group_ix[_c.gr].c }}"><span class="wr__ph">{% include thumb.html c=_c %}{% if _c.d %}<span class="hanko" aria-hidden="true"><i>巡礼</i><b>{{ _c.d }}</b></span>{% endif %}</span><span class="wr__body">{%- else -%}<span class="wr__link wr__link--none"><span class="wr__body">{%- endif -%}
