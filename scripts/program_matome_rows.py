@@ -10,10 +10,10 @@ import argparse, glob, json, os, re, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WARDS = [
-    ('都心（千代田・中央・港・文京）', ['千代田区', '中央区', '港区', '文京区']),
-    ('城東（台東・墨田・江東・荒川・足立・葛飾・江戸川）', ['台東区', '墨田区', '江東区', '荒川区', '足立区', '葛飾区', '江戸川区']),
-    ('城西・城北（新宿・渋谷・中野・杉並・豊島・北・板橋・練馬）', ['新宿区', '渋谷区', '中野区', '杉並区', '豊島区', '北区', '板橋区', '練馬区']),
-    ('城南（品川・目黒・大田・世田谷）', ['品川区', '目黒区', '大田区', '世田谷区']),
+    ('都心', ['千代田区', '中央区', '港区', '文京区']),
+    ('城東', ['台東区', '墨田区', '江東区', '荒川区', '足立区', '葛飾区', '江戸川区']),
+    ('城西・城北', ['新宿区', '渋谷区', '中野区', '杉並区', '豊島区', '北区', '板橋区', '練馬区']),
+    ('城南', ['品川区', '目黒区', '大田区', '世田谷区']),
 ]
 NEAR = ['神奈川県', '埼玉県', '千葉県']
 
@@ -65,7 +65,7 @@ def main():
         sub = [(w, by[('東京都', w)]) for w in wards if by[('東京都', w)]]
         for w in wards: used.add(('東京都', w))
         if sub:
-            secs.append(('東京23区 ' + title, sub))
+            secs.append(('東京23区・' + title, sub))
     tama = [(c, l) for (p, c), l in sorted(by.items(), key=lambda x: -len(x[1])) if p == '東京都' and (p, c) not in used]
     for k in [('東京都', c) for c, _ in tama]: used.add(k)
     if tama:
@@ -84,9 +84,11 @@ def main():
     for n, (h, subs) in enumerate(secs, 1):
         cnt = sum(len(l) for _, l in subs)
         nav.append((f'area{n}', h, cnt))
-        out.append(f'<h2 id="area{n}">{{% include chico.html kind="map" %}}{esc(h)}<small>（{cnt}軒）</small></h2>')
+        out.append(f'<h2 id="area{n}">{{% include chico.html kind="map" %}}{esc(h)} <small class="h-n">{cnt}軒</small></h2>')
+        if len(subs) > 1:
+            out.append('<p class="wrd__lead">' + '・'.join(esc(sh) for sh, _ in subs) + '</p>')
         for sh, l in subs:
-            lab = f'{esc(sh)}（{len(l)}軒）' if sh else f'{esc(h)}の{len(l)}軒を見る'
+            lab = (f'<b>{esc(sh)}</b>' if sh else f'<b>{esc(h)}のお店</b>') + f'<span class="wrd__n">{len(l)}軒</span>'
             # 店が多いので、行は開いたときに app.js が作る（データは JSON で埋め込む）。店名だけは本文にも並べる（検索エンジン・ページ内検索のため）
             rows = []
             for s in l:
@@ -98,10 +100,10 @@ def main():
                     place = f'{s.get("prefecture")}{s.get("city") or ""}'
                 rows.append(row(s, a.prefix, place, cards))
             js = json.dumps(rows, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
-            out.append(f'<details class="wrd" data-lazy><summary>{lab}</summary><script type="application/json">{js}</script></details>')
-            out.append('<p class="wrd__names">' + '・'.join(esc(s['name']) for s in l) + '</p>')
-    navh = ('<div class="cnav">\n<p class="cnav__h">エリアで選ぶ</p>\n<div class="cnav__list">'
-            + ''.join(f'<a href="#{i}">{{% include chico.html kind="map" %}}<span>{esc(h)}<small>{c}軒</small></span></a>' for i, h, c in nav)
+            out.append(f'<div class="wrg"><details class="wrd" data-lazy><summary>{lab}</summary><script type="application/json">{js}</script></details>'
+                       + '<p class="wrd__names">' + '・'.join(esc(s['name']) for s in l) + '</p></div>')
+    navh = ('<div class="cnav cnav--area">\n<p class="cnav__h">エリアで選ぶ</p>\n<div class="cnav__list">'
+            + ''.join(f'<a href="#{i}"><span>{esc(h)}<small>{c}軒</small></span></a>' for i, h, c in nav)
             + '</div>\n</div>')
     t = open(path, encoding='utf-8').read()
     t = re.sub(r'<!-- nav:start -->.*?<!-- nav:end -->', lambda m: '<!-- nav:start -->\n' + navh + '\n<!-- nav:end -->', t, flags=re.S)

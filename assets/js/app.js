@@ -194,7 +194,7 @@
   // 行の形は _includes/wr-open.html・wr-close.html（lite）と同じ。データ: [お店のページ, 年.月, 店名, 説明, 食べログ, ホットペッパー]
   function el(tag, cls, txt) { var x = document.createElement(tag); if (cls) x.className = cls; if (txt) x.textContent = txt; return x; }
   function wrRow(r) {
-    var li = el('li', 'wr'), a = el('a', 'wr__link wr__link--lite'), b = el('span', 'wr__body');
+    var li = el('li', 'wr wr--lite'), a = el('a', 'wr__link wr__link--lite'), b = el('span', 'wr__body');
     a.href = r[0];
     if (r[1]) b.appendChild(el('span', 'wr__k', r[1]));
     b.appendChild(el('b', 'wr__name', r[2])); b.appendChild(el('span', 'wr__t', r[3]));
