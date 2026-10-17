@@ -39,7 +39,7 @@ body_class: has-sticky
 {%- endif -%}
 {%- if c.hk and site.affiliate.rakuten.id != '' -%}{%- assign has_promo = true -%}{%- endif -%}
 {%- if vc.linkswitch_pid != '' -%}
-  {%- if tb_url or s.hotpepper_url or c.hk -%}{%- assign has_promo = true -%}{%- endif -%}
+  {%- if tb_url or c.hk -%}{%- assign has_promo = true -%}{%- endif -%}
   {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
 {%- endif -%}
 

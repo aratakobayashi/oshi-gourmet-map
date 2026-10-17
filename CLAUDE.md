@@ -286,7 +286,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
 - 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 465件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を976件補完。「なにわ男子のどっち派」「なにわ男子のなんでやねん」はめざましテレビ内のコーナー。残りはYouTube企画（match_youtube_videos.py の対象）・MV・SNS投稿などTMDBにない出典）。2026-10-09 に match_youtube_videos.py で43件に youtube_id（残りの確認待ち74件は scripts/youtube_match_review.json）、fetch_hotpepper_photos.py で94件に hotpepper_photo を付与し、画像なし店舗は 421件
 - TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載
-- アフィリエイト（2026-10-12〜）: バリューコマースのサイトID 3784026。LinkSwitch（_config.yml の affiliate.valuecommerce.linkswitch_pid）で、食べログ・じゃらん・ホットペッパー・一休へのリンクをクリック時に自動変換。提携済み: 食べログ・一休.comレストラン・じゃらん（2026-10-12 に変換を確認）。ホットペッパーは審査待ち。楽天アフィリエイト（楽天トラベルの「泊まる」）は affiliate.rakuten.id で変換。A8は未設定
+- アフィリエイト（2026-10-12〜）: バリューコマースのサイトID 3784026。LinkSwitch（_config.yml の affiliate.valuecommerce.linkswitch_pid）で、食べログ・じゃらん・ホットペッパー・一休へのリンクをクリック時に自動変換。提携済み: 食べログ・一休.comレストラン・じゃらん（2026-10-12 に変換を確認）。ホットペッパーは2026-10-17に提携を断られた（リンクは通常リンク・rel="noopener" で残す。予約ボタンは利用者のため残す）。楽天アフィリエイト（楽天トラベルの「泊まる」）は affiliate.rakuten.id で変換。A8は未設定
 - PR表記: 広告リンクのあるページはタイトルのすぐ下に「#アフィリエイト広告 本ページはプロモーションを含みます」（.pr-note--top。ホットペッパー・じゃらんの規約で、ページ上部に分かる大きさで出す）
 - 記事の収益動線: 特集記事の front matter に `stay_area: "鎌倉"`（＋`stay_note`）を書くと本文の後に「○○周辺に泊まる」（じゃらん・楽天トラベル）が出る。まとめ記事は `stay_inline: true` を付け、本文の「半日で巡るなら」のあとに `{% include stay-inline.html %}` を置く（コースの出発地の近くの街。stay_note はコースと路線の事実だけ）（じゃらんの Shift_JIS は build_site_data.py が _data/stay_kw.json に作る）。ガイドの商品は `{% include buy-box.html title=… note=… kw="検索語,…" %}`（楽天市場の検索）や `links="表示名|URL;…"`。使った感想・おすすめ順位・値段は書かない。広告リンクを足したガイドは front matter に `pr: true`
 - 食べログの報酬は「ネット予約できる店のページ」からの予約だけ（検索結果・エリアページ経由は対象外）。tabelog_verified の店を増やすほど効く
@@ -320,7 +320,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 巡礼帳の見た目（2026-10-13 SixTONES で試作）: front matter `techo: true` と `cover_ids`（写真3枚の店ID）・`cover_title`・`cover_sub` で、表紙（写真をテープで留めたコラージュ＋題の札 `_includes/techo-cover.html`）。本文は `<div class="pf pf--techo">`（見出しにマスキングテープ・付箋の編集部メモ・紙の行）。「ひと目でわかる」の箱と数字の箱は使わず、「はじめての3軒」（`{% include pick.html id=… no="其の一" why="選んだ理由（回・頼んだ物など事実だけ）" %}` を `.picks` に）と「半日で巡るなら」（front matter `courses` → `python scripts/post_course.py <slug> --color …` で手描き風のコース図 course-<n>.svg。移動は確かな事実だけ、距離は直線）。店の行の写真には訪れた年月の判子（.hanko）。掲載時点・確認元の注記は本文のあと。データの出どころの言い回し（「推しグルメ巡礼MAPのデータより」など）は本文に何度も書かない
 - 済み（店の見直し＋全店のまとめ記事＋巡礼帳）: SixTONES・Snow Man・King & Prince・WEST.・なにわ男子・よにの・Hey! Say! JUMP・timelesz・乃木坂46・=LOVE・嵐（新規）・亀梨和也・かまいたち・中丸銀河ちゃんねる・櫻坂46（新規）・日向坂46・KinKi Kids（新規）・Aぇ! group（新規）・≠ME・≒JOY（2026-10-15）。次は K-POP・HiHi Jets・超特急・Number_i・Travis Japan など店の少ないグループと、番組・YouTuber のグループ
 - 見直しの手順: 店ごとの判定を JSON にまとめてから data/shops.json に反映する（RULES.md 相当: 残す・外す・members・visit_kind・program・with・description・qa_note・studio_only）。外す店はURLを転送ページに。ほかのグループにも入っている店は、そのグループから外すだけにして店は消さない
-- アフィリエイト動線のQA（2026-10-16）: 食べログ店ページ・じゃらん・一休は LinkSwitch で変換されることを本番で確認。ホットペッパーはバリューコマースで「提携待ち」（承認されるとボタン790軒・まとめ記事240か所がそのまま対象）。まとめ記事の食べログボタンは tabelog_verified の店だけなのでほぼ無い（アイドルの店の未確認URL 1,593軒が課題）
+- アフィリエイト動線のQA（2026-10-16）: 食べログ店ページ・じゃらん・一休は LinkSwitch で変換されることを本番で確認。ホットペッパーは提携を断られた（2026-10-17。広告扱いをやめた）。ホットペッパーAPIでのリンクは2026-10-16に1,311軒へ。まとめ記事の食べログボタンは tabelog_verified の店だけなのでほぼ無い（アイドルの店の未確認URL 1,593軒が課題）
 - 店の多い記事でも速さを保つため、.hscroll と .pf-works は content-visibility: auto（画面に近づいてから描く）
 
 ## 過去の状況（2026-05-26時点）

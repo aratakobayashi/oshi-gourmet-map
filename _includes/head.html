@@ -91,7 +91,7 @@
   var vc_pid = "{{ site.affiliate.valuecommerce.linkswitch_pid }}";
   window.addEventListener('load', function() {
     setTimeout(function() {
-      if (!document.querySelector('a[data-aff]:not([data-aff="other"])') && location.pathname.indexOf('/shops/') !== 0) return;
+      if (!document.querySelector('a[data-aff]:not([data-aff="other"]):not([data-aff="hotpepper"])') && location.pathname.indexOf('/shops/') !== 0) return;
       var s = document.createElement('script');
       s.async = true;
       s.src = 'https://aml.valuecommerce.com/vcdal.js';
