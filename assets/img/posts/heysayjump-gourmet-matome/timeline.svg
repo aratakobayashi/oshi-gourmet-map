@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1954" width="420" height="1954" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="1954" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 3856" width="420" height="3856" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="3856" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">Hey! Say! JUMPの聖地 年表</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">放送日の古い順。（ ）は番組、いたジャン＝いただきハイジャンプ</text>
-<line x1="86" y1="88" x2="86" y2="1928" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<line x1="86" y1="88" x2="86" y2="3830" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
 <text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2015</text>
 <text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
@@ -131,4 +131,139 @@
 <text x="118" y="1858" font-size="16" font-weight="800" fill="#241F1A">からあげブラックジャック</text>
 <text x="118" y="1880" font-size="12.5" fill="#ef4444">腹八分目・もりやま 学芸大学店・</text>
 <text x="118" y="1898" font-size="12.5" fill="#ef4444">とり多津</text>
+<text x="70" y="1960" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1977" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="1955" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="1936" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1960" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 日本橋</text>
+<text x="118" y="1982" font-size="12.5" fill="#ef4444">REWILD OUTDO OR TOKYO</text>
+<text x="70" y="2044" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="2061" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="2039" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2020" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2044" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！しなの鉄道</text>
+<text x="118" y="2066" font-size="12.5" fill="#ef4444">お食事処やまへい</text>
+<text x="70" y="2128" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="2145" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="2123" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2104" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2128" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 横浜</text>
+<text x="118" y="2150" font-size="12.5" fill="#ef4444">THE YOKOHAMA BAY</text>
+<text x="70" y="2212" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2229" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="2207" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2188" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2212" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 川越</text>
+<text x="118" y="2234" font-size="12.5" fill="#ef4444">Mrs hamburger 川越</text>
+<text x="70" y="2296" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2313" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="2291" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2272" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2296" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 相模原</text>
+<text x="118" y="2318" font-size="12.5" fill="#ef4444">やきとり本舗・</text>
+<text x="118" y="2336" font-size="12.5" fill="#ef4444">鳥忠さがみの亭 相模原店</text>
+<text x="70" y="2398" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2415" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="2393" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2374" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2398" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 木更津</text>
+<text x="118" y="2420" font-size="12.5" fill="#ef4444">宝家</text>
+<text x="70" y="2482" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2499" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="2477" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2458" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2482" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 浅草</text>
+<text x="118" y="2504" font-size="12.5" fill="#ef4444">鮮魚・天麩羅 ならさか・</text>
+<text x="118" y="2522" font-size="12.5" fill="#ef4444">おにぎり浅草宿六</text>
+<text x="70" y="2584" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2601" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="2579" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2560" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2584" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 柴又</text>
+<text x="118" y="2606" font-size="12.5" fill="#ef4444">もんじゃ と陸</text>
+<text x="70" y="2668" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2685" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="2663" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2644" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2668" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！駿豆線</text>
+<text x="118" y="2690" font-size="12.5" fill="#ef4444">うなぎ桜家</text>
+<text x="70" y="2752" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="2769" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="2747" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2728" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2752" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！一番探し 十条</text>
+<text x="118" y="2774" font-size="12.5" fill="#ef4444">餃餃者大衆酒場 十条店</text>
+<text x="70" y="2836" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="2853" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="2831" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2812" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2836" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！修学旅行 京都</text>
+<text x="118" y="2858" font-size="12.5" fill="#ef4444">うなぎ四代目菊川 京都ポルタ店</text>
+<text x="70" y="2920" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="2937" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="2915" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2896" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2920" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！箱根登山電車</text>
+<text x="118" y="2942" font-size="12.5" fill="#ef4444">HAKONE PICNIC</text>
+<text x="70" y="3004" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="3021" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="2999" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="2980" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3004" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！修学旅行 松島</text>
+<text x="118" y="3026" font-size="12.5" fill="#ef4444">丼松島</text>
+<text x="70" y="3088" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="3105" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3083" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3064" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3088" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！木更津</text>
+<text x="118" y="3110" font-size="12.5" fill="#ef4444">わっぱ茶屋 かわな</text>
+<text x="70" y="3172" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="3189" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3167" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3148" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3172" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！レイクタウン</text>
+<text x="118" y="3194" font-size="12.5" fill="#ef4444">ドトール珈琲店レイクタウンmori店・</text>
+<text x="118" y="3212" font-size="12.5" fill="#ef4444">利久食堂 イオンレイクタウンkaze店</text>
+<text x="70" y="3274" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3291" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="3269" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3250" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3274" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！桃の節句</text>
+<text x="118" y="3296" font-size="12.5" fill="#ef4444">回転火鍋 なべ丸 上野本店</text>
+<text x="70" y="3358" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3375" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="3353" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3334" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3358" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！箱根</text>
+<text x="118" y="3380" font-size="12.5" fill="#ef4444">BOX BURGER 箱根湯本</text>
+<text x="70" y="3442" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3459" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="3437" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3418" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3442" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！ランキング 浅草</text>
+<text x="118" y="3464" font-size="12.5" fill="#ef4444">江戸肉割烹さゝや 浅草</text>
+<text x="70" y="3526" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3543" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3521" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3502" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3526" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！山手線</text>
+<text x="118" y="3548" font-size="12.5" fill="#ef4444">小林食堂</text>
+<text x="70" y="3610" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3627" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3605" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3586" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3610" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！口コミ 軽井沢</text>
+<text x="118" y="3632" font-size="12.5" fill="#ef4444">信州十割そば てん 軽井沢</text>
+<text x="70" y="3694" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3711" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="3689" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3670" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3694" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！ランキング 上野</text>
+<text x="118" y="3716" font-size="12.5" fill="#ef4444">翠雲 上野店</text>
+<text x="70" y="3778" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="3795" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="3773" r="7" fill="#fff" stroke="#ef4444" stroke-width="4"/>
+<rect x="104" y="3754" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3778" font-size="16" font-weight="800" fill="#241F1A">ヒルナンデス！口コミ 熱海</text>
+<text x="118" y="3800" font-size="12.5" fill="#ef4444">展望レトロ喫茶 桃山館</text>
 </svg>
