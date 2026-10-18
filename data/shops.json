@@ -285957,5 +285957,95 @@
     "program": "メシドラ",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/18/P038141318/P038141318_238.jpg",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001277839/"
+  },
+  {
+    "id": "keytolit-a7465e43-20260823",
+    "name": "カサデサラサ",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-25-5 島田ビル 2F",
+    "lat": 35.660236,
+    "lng": 139.696457,
+    "source_video_title": "KEY TO LIT【誕生日おめでとう🎉】大昇が食べたいご飯全部ご馳走します😋",
+    "visited_date": "2026-08-23",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の岩﨑大昇の誕生日企画「大昇が食べたいご飯全部ご馳走します」（2026年8月）で、5人が訪れたメキシコ料理店。",
+    "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
+    "source_type": "youtube",
+    "youtube_id": "iROul4K0Bqc",
+    "source_video_url": "https://www.youtube.com/watch?v=iROul4K0Bqc",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
+  },
+  {
+    "id": "keytolit-023a67b5-20260823",
+    "name": "Caldo Nakameguro",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒3-5-29",
+    "lat": 35.643215,
+    "lng": 139.697601,
+    "source_video_title": "KEY TO LIT【誕生日おめでとう🎉】大昇が食べたいご飯全部ご馳走します😋",
+    "visited_date": "2026-08-23",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の岩﨑大昇の誕生日企画「大昇が食べたいご飯全部ご馳走します」（2026年8月）で、5人が訪れたスペイン料理店。",
+    "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
+    "source_type": "youtube",
+    "youtube_id": "iROul4K0Bqc",
+    "source_video_url": "https://www.youtube.com/watch?v=iROul4K0Bqc",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
+  },
+  {
+    "id": "keytolit-4e632cb1-20250629",
+    "name": "軽井沢バーベキュー カフェ コラージュ",
+    "genre": "others",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町長倉664-6",
+    "lat": 36.331024,
+    "lng": 138.608032,
+    "source_video_title": "KEY TO LIT【5人旅の最後に語る…始まりの言葉】俺たちの目指すべき場所！",
+    "visited_date": "2025-06-29",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の5人旅の最終回「5人旅の最後に語る…始まりの言葉」（2025年6月）で、5人がバーベキューをした軽井沢の店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12933643990.html",
+    "source_type": "youtube",
+    "youtube_id": "YvwDjv2LomM",
+    "source_video_url": "https://www.youtube.com/watch?v=YvwDjv2LomM",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   }
 ]
