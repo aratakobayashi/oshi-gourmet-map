@@ -6,7 +6,7 @@ program_matome_rows.py
 
 使い方: python scripts/program_matome_rows.py <記事のslug> <group> [--prefix '町中華で飲ろうぜ']
 """
-import argparse, glob, json, os, re, collections
+import argparse, glob, json, os, re, collections, urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WARDS = [
@@ -16,6 +16,7 @@ WARDS = [
     ('城南', ['品川区', '目黒区', '大田区', '世田谷区']),
 ]
 NEAR = ['神奈川県', '埼玉県', '千葉県']
+TALK = False  # --talk: ゲストがトークで紹介した店の番組。行は「#回／○○が紹介」、冒頭に「ゲストで選ぶ」
 SAME_MEMBERS = False  # 全店で出演者が同じ（酒場放浪記の吉田類など）なら行に書かない
 REGIONS = [
     ('北海道・東北', ['北海道', '青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県']),
@@ -53,16 +54,22 @@ def row(s, prefix, place, cards):
     d = s.get('visited_date') or ''
     k = f'{int(d[:4])}.{int(d[5:7])}' if len(d) >= 7 else ''
     mem = '' if SAME_MEMBERS else '・'.join(s.get('members') or [])
-    t = f'{ep(s, prefix)}／{mem}（{place}）' if mem else f'{ep(s, prefix)}（{place}）'
+    if TALK:
+        # トークで紹介した店（人生最高レストランなど）: 「#130／菜々緒が紹介（場所）」
+        m = re.search(r'#\d+', s.get('source_video_title') or '')
+        t = f'{m.group(0) + "／" if m else ""}{mem}が紹介（{place}）'
+    else:
+        t = f'{ep(s, prefix)}／{mem}（{place}）' if mem else f'{ep(s, prefix)}（{place}）'
     c = cards.get(s['id']) or {}
     return [c.get('u') or '', k, s['name'], t, c.get('tb') or '', c.get('hp') or '']
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('slug'); ap.add_argument('group'); ap.add_argument('--prefix', default='')
+    ap.add_argument('slug'); ap.add_argument('group'); ap.add_argument('--prefix', default=''); ap.add_argument('--talk', action='store_true')
     a = ap.parse_args()
-    global SAME_MEMBERS
+    global SAME_MEMBERS, TALK
+    TALK = a.talk
     path = glob.glob(os.path.join(ROOT, '_posts', f'*-{a.slug}.md'))[0]
     cards = json.load(open(os.path.join(ROOT, '_data/shop_cards.json'), encoding='utf-8'))
     shops = [s for s in json.load(open(os.path.join(ROOT, 'data/shops.json'), encoding='utf-8'))
@@ -125,6 +132,13 @@ def main():
     navh = ('<div class="cnav cnav--area">\n<p class="cnav__h">エリアで選ぶ</p>\n<div class="cnav__list">'
             + ''.join(f'<a href="#{i}"><span>{esc(h)}<small>{c}軒</small></span></a>' for i, h, c in nav)
             + '</div>\n</div>')
+    if TALK:
+        # ゲストで選ぶ: 紹介した店の多い順。押すと /shops/ でそのゲストの店に絞り込む（閉じた一覧）
+        cnt = collections.Counter(m for s in shops for m in (s.get('members') or []))
+        chips = ''.join(f'<a class="mnav__m" href="/shops/?g={a.group}&amp;m={a.group}:{urllib.parse.quote(m)}"><b>{esc(m)}</b><span>{n}軒</span></a>'
+                        for m, n in sorted(cnt.items(), key=lambda kv: (-kv[1], kv[0])))
+        navh += (f'\n<details class="mnav mnav--many"><summary class="mnav__h">ゲストで選ぶ（{len(cnt)}人）</summary>'
+                 f'<div class="mnav__list">{chips}</div><p class="mnav__note">押すと、そのゲストが紹介したお店を地図と一覧で見られます。</p></details>')
     t = open(path, encoding='utf-8').read()
     t = re.sub(r'<!-- nav:start -->.*?<!-- nav:end -->', lambda m: '<!-- nav:start -->\n' + navh + '\n<!-- nav:end -->', t, flags=re.S)
     t = re.sub(r'<!-- rows:start -->.*?<!-- rows:end -->', lambda m: '<!-- rows:start -->\n' + '\n'.join(out) + '\n<!-- rows:end -->', t, flags=re.S)
