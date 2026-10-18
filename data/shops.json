@@ -46193,70 +46193,6 @@
     "ordered_items": []
   },
   {
-    "id": "numberi-c2b6cfad-",
-    "name": "魚清",
-    "genre": "washoku",
-    "prefecture": "東京都",
-    "city": "大田区",
-    "address": "東京都大田区下丸子３丁目１３−１８",
-    "lat": 35.5678976,
-    "lng": 139.6840261,
-    "youtube_id": "",
-    "source_video_title": "厨房のありす【永瀬廉ロケ地】商店街はどこ？スーパー・お肉屋さん・お魚屋さんはどこ？",
-    "source_url": "https://kosodate-and.net/alice-ren-shopping-street",
-    "visited_date": "",
-    "members": [
-      "平野紫耀",
-      "神宮寺勇太",
-      "岸優太"
-    ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "下丸子駅 徒歩7分",
-    "description": "東京都の和食。Number_iの平野紫耀・神宮寺勇太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132104/13199022/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 241790,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2QNM3lYJAE9TngETDAQPnIg7pbX.jpg"
-  },
-  {
-    "id": "numberi-9c6aa5a1-",
-    "name": "パティスリーガレット",
-    "genre": "sweets",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪市平野区平野本町5-14-17 １F",
-    "lat": 34.6257107,
-    "lng": 135.5549294,
-    "youtube_id": "",
-    "source_video_title": "【大阪平野駅】平野サブレはどこで買える？オンラインショップはある？",
-    "source_url": "https://kosodate-and.net/hirano-sable-anpan",
-    "visited_date": "",
-    "members": [
-      "平野紫耀",
-      "神宮寺勇太",
-      "岸優太"
-    ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "平野駅 徒歩11分",
-    "description": "平野紫耀・神宮寺勇太・岸優太が「大阪平野駅」で訪れたグルメスポット。",
-    "tags": [],
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
     "id": "numberi-39dfe377-",
     "name": "尾道ええもんや",
     "genre": "others",
@@ -46279,78 +46215,16 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "広島県のその他。Number_iの平野紫耀・神宮寺勇太らが訪れた飲食店。",
+    "description": "Number_iの3人が広島公演の合間（2025年12月）に立ち寄った尾道の土産物店。平野紫耀がはっさくソフトを食べたことを店が公式Xで伝えている。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hiroshima/A3406/A340302/34022921/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "numberi-dc322e59-",
-    "name": "鳥喜",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "荒川区",
-    "address": "東京都荒川区南千住1-26-9",
-    "lat": 35.733429437885164,
-    "lng": 139.79051798373303,
-    "youtube_id": "",
-    "source_video_title": "【平野紫耀＆神宮寺勇太インスタ】商店街・黒板・カーテン・お花屋さん・焼き鳥屋はどこ？",
-    "source_url": "https://kosodate-and.net/sho-jin-shotengai",
-    "visited_date": "",
-    "members": [
-      "平野紫耀",
-      "神宮寺勇太",
-      "岸優太"
-    ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "",
-    "description": "東京都のその他。Number_iの平野紫耀・神宮寺勇太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1324/A132401/13280564/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "numberi-1d990897-",
-    "name": "スシロー 新宿西口店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区西新宿1丁目1-1 新宿パレットビル6階【アクセス】 新宿駅 徒歩1分",
-    "lat": 35.6903697,
-    "lng": 139.697924,
-    "youtube_id": "",
-    "source_video_title": "【とべばんロケ地】スシローはどこ？『キントレ』永瀬廉のバイトレと同じ店舗！？",
-    "source_url": "https://kosodate-and.net/tobe-sushiro",
-    "visited_date": "",
-    "members": [
-      "平野紫耀",
-      "神宮寺勇太",
-      "岸優太"
-    ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "新宿駅 徒歩2分",
-    "description": "東京都のその他。Number_iの平野紫耀・神宮寺勇太らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13268904/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "qa_note": "店の公式X（2025-12-01）で確かめられるのは平野紫耀の来店だけ。神宮寺勇太・岸優太がホットレモンを飲んだのはファンブログの記述。visited_date が空（2025-12-01ごろ）。"
   },
   {
     "id": "agroup-22988e91-",
@@ -48017,7 +47891,8 @@
       "神宮寺勇太"
     ],
     "groups": [
-      "kingprince"
+      "kingprince",
+      "numberi"
     ],
     "group": "kingprince",
     "nearest_station": "吹上駅",
@@ -52079,18 +51954,14 @@
     "source_url": "https://kosodate-and.net/hatsumimigaku-kimura-kento-cafe",
     "visited_date": "",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "木村拓哉"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "渋谷駅 徒歩7分",
-    "description": "東京都のカフェ。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
+    "description": "『日曜日の初耳学』（2023年1月22日放送）で木村拓哉が林修のインタビューを受け、中島健人も訪れた渋谷のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13130801/",
     "hotpepper_url": "",
@@ -52098,7 +51969,14 @@
     "tmdb_id": 111394,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dDmyU4HmuYjQVWl1D6lf9QmkaJ7.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dDmyU4HmuYjQVWl1D6lf9QmkaJ7.jpg",
+    "visit_kind": "guest_tv",
+    "program": "日曜日の初耳学（インタビューアー林修）",
+    "with": [
+      "林修",
+      "中島健人"
+    ],
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。 元データの members は5人全員だったが木村のみ。食事をしたかは未確認（撮影場所）。"
   },
   {
     "id": "smap-ce103b88-",
@@ -52125,47 +52003,16 @@
     ],
     "group": "smap",
     "nearest_station": "",
-    "description": "SMAPが「お好み焼き「かく庄」」で訪れたグルメスポット。",
+    "description": "『SMAP×SMAP』の「SMAP5人旅」でSMAPの5人が訪れた、大阪・福島のお好み焼き店。",
     "tags": [],
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "smap-b97f32ee-",
-    "name": "甘甘堂",
-    "genre": "others",
-    "prefecture": "大阪府",
-    "city": "和泉市",
-    "address": "大阪府和泉市桑原町283－1",
-    "lat": 34.47972640809829,
-    "lng": 135.43055118528747,
-    "youtube_id": "",
-    "source_video_title": "【中居正広が来店！？】「甘甘堂」は大阪和泉市で人気のソフトクリーム屋さん",
-    "source_url": "https://kosodate-and.net/kankando-nakai",
-    "visited_date": "",
-    "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
-    ],
-    "groups": [
-      "smap"
-    ],
-    "group": "smap",
-    "nearest_station": "",
-    "description": "大阪府のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2705/A270502/27089709/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "SMAP×SMAP（SMAP5人旅）",
+    "qa_note": "出典はファンブログ。放送日は未確認。中居が食べたとされる生姜焼き定食の話はファンの投稿から。"
   },
   {
     "id": "smap-da8852fa-20230302",
@@ -52181,25 +52028,28 @@
     "source_url": "https://kosodate-and.net/kimura-gifu-unagi",
     "visited_date": "2023-03-02",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "木村拓哉"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "西笠松駅 徒歩11分",
-    "description": "岐阜県の和食。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
+    "description": "木村拓哉が2023年1月21日に伊藤英明・大友啓史監督と訪れ、Instagramに投稿した岐阜のうなぎ店。木村はうな重を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21001289/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "木村拓哉のInstagram",
+    "with": [
+      "伊藤英明",
+      "大友啓史"
+    ],
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。 visited_date 2023-03-02 は誤り（2023-01-21）。元データの members は5人全員。"
   },
   {
     "id": "smap-e30ad169-20230302",
@@ -52215,18 +52065,14 @@
     "source_url": "https://kosodate-and.net/kimura-houraiken",
     "visited_date": "2023-03-02",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "木村拓哉"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "熱田神宮伝馬町駅 徒歩5分",
-    "description": "愛知県のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
+    "description": "木村拓哉が2023年3月2日に監督・スタッフと訪れたことをInstagramに投稿し、2024年12月の『木村さ〜〜ん！』でもs**t kingzのkazukiとひつまぶしを食べた名古屋のうなぎ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/aichi/A2301/A230112/23000063/",
     "hotpepper_url": "",
@@ -52234,111 +52080,13 @@
     "tmdb_id": 195022,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
-  },
-  {
-    "id": "smap-4a6da865-20230916",
-    "name": "カルディコーヒーファーム 有明ガーデン店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "江東区",
-    "address": "東京都江東区有明2-1-8 有明ガーデン 2F",
-    "lat": 35.6337517,
-    "lng": 139.7902031,
-    "youtube_id": "",
-    "source_video_title": "【木村さ〜〜ん】木村拓哉のカルディ購入品は何？",
-    "source_url": "https://kosodate-and.net/kimura-takuya-kaldi",
-    "visited_date": "2023-09-16",
-    "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
-    ],
-    "groups": [
-      "smap"
-    ],
-    "group": "smap",
-    "nearest_station": "",
-    "description": "東京都のカフェ。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg",
-    "source_type": "",
-    "tmdb_id": 195022,
-    "tmdb_type": "tv",
-    "ordered_items": []
-  },
-  {
-    "id": "smap-6f70f720-",
-    "name": "オムライス専門店 「とろ～り卵のオムライス さん太 」",
-    "genre": "others",
-    "prefecture": "愛知県",
-    "city": "岡崎市",
-    "address": "愛知県岡崎市羽根町鰻池112-3",
-    "lat": 34.921520837568394,
-    "lng": 137.17665297736426,
-    "youtube_id": "",
-    "source_video_title": "【俺のワタシの極み飯！】オムライス専門店はどこ？",
-    "source_url": "https://kosodate-and.net/nakai-omeletterice",
-    "visited_date": "",
-    "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+    "visit_kind": "other",
+    "program": "木村拓哉のInstagram / 木村さ〜〜ん！",
+    "with": [
+      "kazuki（s**t kingz）"
     ],
-    "groups": [
-      "smap"
-    ],
-    "group": "smap",
-    "nearest_station": "",
-    "description": "愛知県のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2305/A230502/23005799/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "smap-20a549e5-",
-    "name": "黒豚トンカツ さつまや とんとん",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区平町1-26-10 芝ビル 1F",
-    "lat": 35.61735323792277,
-    "lng": 139.67711088264008,
-    "youtube_id": "",
-    "source_video_title": "【金スマ】中居正広がお弁当を注文！男闘呼組・成田昭次が働く黒いとんかつ屋さんは？",
-    "source_url": "https://kosodate-and.net/nakai-tonkatsu-otokogumi",
-    "visited_date": "",
-    "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
-    ],
-    "groups": [
-      "smap"
-    ],
-    "group": "smap",
-    "nearest_station": "",
-    "description": "東京都のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131702/13256760/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 200950,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mBWovX3nWD1BpPUdfsGumxOxhlW.jpg"
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。 ブログに「おじゃマップで香取慎吾と草彅剛がロケ」（SMAP在籍時）ともあるが、本店かどうか・放送回は未確認のため members に入れていない。SMAPのケータリングの話は対象外。"
   },
   {
     "id": "smap-5f60b859-",
@@ -52354,58 +52102,24 @@
     "source_url": "https://kosodate-and.net/nakai-yonalove-nigirite",
     "visited_date": "",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "中居正広"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "西武新宿駅 徒歩3分",
-    "description": "SMAPが「中居正広ロケ地」で訪れたグルメスポット。",
+    "description": "中居正広の番組『中居大輔と本田翼の夜な夜なラブ子さん』の最終回（2022年3月）で訪れた西新宿の寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13182746/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "smap-81554383-20220908",
-    "name": "めいふつ天むすの千寿",
-    "genre": "others",
-    "prefecture": "三重県",
-    "city": "津市",
-    "address": "三重県津市大門9-7",
-    "lat": 35.16911769649675,
-    "lng": 136.88431613297442,
-    "youtube_id": "",
-    "source_video_title": "香取慎吾が愛知名古屋で食べた天むすはどこで買える？",
-    "source_url": "https://kosodate-and.net/shingo-nagoya-tenmusu",
-    "visited_date": "2022-09-08",
-    "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
-    ],
-    "groups": [
-      "smap"
-    ],
-    "group": "smap",
-    "nearest_station": "",
-    "description": "三重県のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
-    "tags": [],
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "中居大輔と本田翼の夜な夜なラブ子さん",
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。 根拠はファンブログとファンの店での聞き取り。千鳥・大悟や本田翼が同席したかは未確認。"
   },
   {
     "id": "smap-antichi_sapori-20230302",
@@ -52421,18 +52135,14 @@
     "source_url": "https://kosodate-and.net/talkqueens-kimura-restaurant",
     "visited_date": "2023-03-02",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "木村拓哉"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "",
-    "description": "東京都のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
+    "description": "『トークィーンズ』（2023年6月15日・22日放送）の事前取材で、木村拓哉がファーストサマーウイカのインタビューを受けた紀尾井町のイタリア料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13269295/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001103476/",
@@ -52441,7 +52151,13 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/98/P039786598/P039786598_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/65/98/P039786598/P039786598_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "トークィーンズ",
+    "with": [
+      "ファーストサマーウイカ"
+    ],
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。 visited_date 2023-03-02 は誤り（放送は2023年6月）。"
   },
   {
     "id": "smap-a468d303-",
@@ -52457,18 +52173,14 @@
     "source_url": "https://kosodate-and.net/talkqueens-kusanagi-gozenbo",
     "visited_date": "",
     "members": [
-      "木村拓哉",
-      "中居正広",
-      "香取慎吾",
-      "草彅剛",
-      "稲垣吾郎"
+      "草彅剛"
     ],
     "groups": [
       "smap"
     ],
     "group": "smap",
     "nearest_station": "六本木駅 徒歩4分",
-    "description": "東京都のその他。SMAPの木村拓哉・中居正広らが訪れた飲食店。",
+    "description": "『トークィーンズ』（2024年5月23日放送）の事前取材で、草彅剛が野々村友紀子とコース料理を食べた六本木の雲南料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13001852/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000011048/",
@@ -52477,7 +52189,13 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/50/11/P047645011/P047645011_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/50/11/P047645011/P047645011_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "トークィーンズ",
+    "with": [
+      "野々村友紀子"
+    ],
+    "qa_note": "SMAP解散（2016年12月31日）後の個人の活動。smap グループに残すかは要判断。"
   },
   {
     "id": "kpop_riize-8d13cea1-",
@@ -52911,20 +52629,14 @@
     "source_url": "https://kosodate-and.net/kawai-fujigaya-hamburger",
     "visited_date": "",
     "members": [
-      "玉森裕太",
-      "藤ヶ谷太輔",
-      "二階堂高嗣",
-      "宮田俊哉",
-      "北山宏光",
-      "千賀健永",
-      "横尾渉"
+      "藤ヶ谷太輔"
     ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩9分",
-    "description": "東京都のカフェ。Kis-My-Ft2の玉森裕太・藤ヶ谷太輔らが訪れた飲食店。",
+    "description": "河合郁人のYouTube『かわいたちチャンネル』（2024年6月18日配信）で、Kis-My-Ft2の藤ヶ谷太輔が河合郁人と訪れたハンバーガー店。藤ヶ谷はベーコンチーズバーガーを食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13144629/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001017828/",
@@ -52932,7 +52644,13 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg",
+    "visit_kind": "youtube",
+    "program": "かわいたちチャンネル",
+    "with": [
+      "河合郁人"
+    ],
+    "qa_note": "他人（河合郁人）のチャンネルへのゲスト出演。visited_date は空（配信日 2024-06-18）。元データの members は7人全員だったが藤ヶ谷のみ。"
   },
   {
     "id": "kismai-bf42a39b-",
@@ -52948,20 +52666,14 @@
     "source_url": "https://kosodate-and.net/kininaru-fujigaya-chinese",
     "visited_date": "",
     "members": [
-      "玉森裕太",
-      "藤ヶ谷太輔",
-      "二階堂高嗣",
-      "宮田俊哉",
-      "北山宏光",
-      "千賀健永",
-      "横尾渉"
+      "藤ヶ谷太輔"
     ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "",
-    "description": "埼玉県の食事。Kis-My-Ft2の玉森裕太・藤ヶ谷太輔らが訪れた飲食店。",
+    "description": "冠番組『サンド&キスマイの気になるマン』（2026年4月6日放送の初回）で、Kis-My-Ft2の藤ヶ谷太輔が人生初のアルバイトに挑戦した川越の町中華。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11024045/",
     "hotpepper_url": "",
@@ -52969,7 +52681,10 @@
     "tmdb_id": 319679,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg",
+    "visit_kind": "own_tv",
+    "program": "サンド&キスマイの気になるマン",
+    "qa_note": "食事ではなくアルバイト体験のロケ。visited_date は空（放送日 2026-04-06）。元データの members は7人全員だったが藤ヶ谷のみ。"
   },
   {
     "id": "travisjapan-mercer_brunch_roppon-",
@@ -52986,18 +52701,13 @@
     "visited_date": "",
     "members": [
       "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
       "松倉海斗"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
-    "description": "東京都のカフェ。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "日本テレビ『あの頃からわたしたちは』（2025年3月9日放送）で、かつての「Sexy松」の松田元太・松倉海斗が松島聡と同窓会をした六本木のレストラン。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13149710/",
     "hotpepper_url": "",
@@ -53005,7 +52715,12 @@
     "tmdb_id": 257755,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg",
+    "visit_kind": "guest_tv",
+    "program": "あの頃からわたしたちは",
+    "with": [
+      "松島聡（timelesz）"
+    ]
   },
   {
     "id": "travisjapan-mugen-",
@@ -53021,20 +52736,14 @@
     "source_url": "https://kosodate-and.net/gutan-genta-wentz-shinnosuke",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "松田元太"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "赤坂見附駅 徒歩3分",
-    "description": "東京都の焼肉。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "カンテレ・フジテレビ系『グータンヌーボ2』（2024年7月1日放送）で、松田元太がウエンツ瑛士・満島真之介と焼肉を食べた赤坂の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13206678/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004678768/",
@@ -53043,7 +52752,13 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jfMTNVDdiwCIrv8WtP3YbDAqnbE.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/13/P051072513/P051072513_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/13/P051072513/P051072513_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "グータンヌーボ2",
+    "with": [
+      "ウエンツ瑛士",
+      "満島真之介"
+    ]
   },
   {
     "id": "travisjapan-9e95e49e-",
@@ -53059,20 +52774,14 @@
     "source_url": "https://kosodate-and.net/kintore-ren-chaka-oogui",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "宮近海斗"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "元町・中華街駅 徒歩7分",
-    "description": "神奈川県の中華。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "日本テレビ『キントレ』の「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗が永瀬廉らと横浜中華街を食べ歩いた焼き小籠包の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14039020/",
     "hotpepper_url": "",
@@ -53080,7 +52789,13 @@
     "tmdb_id": 230387,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
+    "visit_kind": "guest_tv",
+    "program": "キントレ",
+    "with": [
+      "永瀬廉（King & Prince）"
+    ],
+    "qa_note": "住所欄に【アクセス】の文字が混ざっている（データの手直し候補）。"
   },
   {
     "id": "travisjapan-c6b35fc4-",
@@ -53096,20 +52811,14 @@
     "source_url": "https://kosodate-and.net/kintore-ren-chaka-oogui",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "宮近海斗"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "日本大通り駅 徒歩8分",
-    "description": "神奈川県の中華。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "日本テレビ『キントレ』の「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗が永瀬廉らと訪れ、大鶏排やカエルの丸揚げを食べた横浜中華街の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14074121/",
     "hotpepper_url": "",
@@ -53117,7 +52826,12 @@
     "tmdb_id": 230387,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
+    "visit_kind": "guest_tv",
+    "program": "キントレ",
+    "with": [
+      "永瀬廉（King & Prince）"
+    ]
   },
   {
     "id": "travisjapan-4e89e274-",
@@ -53133,20 +52847,14 @@
     "source_url": "https://kosodate-and.net/kintore-ren-chaka-oogui",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "宮近海斗"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "日本大通り駅 徒歩8分",
-    "description": "神奈川県の中華。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "日本テレビ『キントレ』の「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗が鳥の巣カタ焼きそばを食べた横浜中華街の中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14074121/",
     "hotpepper_url": "",
@@ -53154,7 +52862,12 @@
     "tmdb_id": 230387,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
+    "visit_kind": "guest_tv",
+    "program": "キントレ",
+    "with": [
+      "永瀬廉（King & Prince）"
+    ]
   },
   {
     "id": "travisjapan-monkey_cafe-",
@@ -53170,20 +52883,14 @@
     "source_url": "https://kosodate-and.net/koisuru-shime-cafe",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "七五三掛龍也"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "代官山駅 徒歩5分",
-    "description": "東京都のカフェ。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第9話で、坂元（七五三掛龍也）と絢香（山崎紘菜）の初デートの場面に使われた代官山のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130303/13175597/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004634074/",
@@ -53192,7 +52899,13 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/23/P050510123/P050510123_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/23/P050510123/P050510123_238.jpg",
+    "visit_kind": "drama",
+    "program": "私たちが恋する理由",
+    "with": [
+      "山崎紘菜"
+    ],
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
   },
   {
     "id": "travisjapan-mid-",
@@ -53208,20 +52921,14 @@
     "source_url": "https://kosodate-and.net/koisuru-shime-cafe-izakaya",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "七五三掛龍也"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "代々木八幡駅 徒歩7分",
-    "description": "東京都の食事。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第7話で、坂元（七五三掛龍也）と絢香（山崎紘菜）が訪れたカフェの場面に使われた店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131810/13045886/",
     "hotpepper_url": "",
@@ -53229,7 +52936,13 @@
     "tmdb_id": 270655,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg",
+    "visit_kind": "drama",
+    "program": "私たちが恋する理由",
+    "with": [
+      "山崎紘菜"
+    ],
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
   },
   {
     "id": "travisjapan-e2b906f2-",
@@ -53245,20 +52958,14 @@
     "source_url": "https://kosodate-and.net/koisuru-shime-cafe-izakaya",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "七五三掛龍也"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "人形町駅 徒歩4分",
-    "description": "東京都の食事。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第7話で、坂元（七五三掛龍也）と絢香（山崎紘菜）が訪れた居酒屋の場面に使われた人形町の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1302/A130204/13250546/",
     "hotpepper_url": "",
@@ -53266,7 +52973,13 @@
     "tmdb_id": 270655,
     "tmdb_type": "tv",
     "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg",
+    "visit_kind": "drama",
+    "program": "私たちが恋する理由",
+    "with": [
+      "山崎紘菜"
+    ],
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
   },
   {
     "id": "travisjapan-bf20b0e5-",
@@ -53282,20 +52995,14 @@
     "source_url": "https://kosodate-and.net/koisuru-shime-kankoku",
     "visited_date": "",
     "members": [
-      "松田元太",
-      "川島如恵留",
-      "中村海人",
-      "宮近海斗",
-      "七五三掛龍也",
-      "吉澤閑也",
-      "松倉海斗"
+      "七五三掛龍也"
     ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "秋葉原駅 徒歩2分",
-    "description": "東京都の食事。Travis Japanの松田元太・川島如恵留らが訪れた飲食店。",
+    "description": "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第6話で、同期3人（久間田琳加・七五三掛龍也・齊藤なぎさ）が焼肉を食べる場面に使われた秋葉原の韓国居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131001/13240463/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001232860/",
@@ -53304,7 +53011,14 @@
     "tmdb_type": "tv",
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/70/78/P050997078/P050997078_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/70/78/P050997078/P050997078_238.jpg",
+    "visit_kind": "drama",
+    "program": "私たちが恋する理由",
+    "with": [
+      "久間田琳加",
+      "齊藤なぎさ"
+    ],
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
   },
   {
     "id": "kinkikids-d831c178-",
@@ -53556,14 +53270,17 @@
     ],
     "group": "kanjani",
     "nearest_station": "",
-    "description": "大阪府のカフェ。関ジャニ∞の大倉忠義らが訪れた飲食店。",
+    "description": "『news おかえり』（2024年）で関ジャニ∞（現SUPER EIGHT）の大倉忠義が訪れた、東大阪・俊徳道のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2707/A270703/27123477/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "news おかえり",
+    "qa_note": "出典はファンブログ。ブログでは店名「ツナグ茶寮」（データは「ツナグ茶房」）。住所なし。放送日は未確認。"
   },
   {
     "id": "kanjani-b4fb523c-",
@@ -53579,21 +53296,25 @@
     "source_url": "https://ameblo.jp/yocorino-caputino/entry-12560728048.html",
     "visited_date": "",
     "members": [
-      "渋谷すばる"
+      "渋谷すばる",
+      "安田章大"
     ],
     "groups": [
       "kanjani"
     ],
     "group": "kanjani",
     "nearest_station": "貝塚駅 徒歩3分",
-    "description": "大阪府の居酒屋。関ジャニ∞の渋谷すばるらが訪れた飲食店。",
+    "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」の堀江ロケで、渋谷すばると安田章大がつけカレー焼きそばを食べた鉄板焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2705/A270502/27105736/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
+    "qa_note": "出典はファンブログ。元データは渋谷すばるだけだったが、ブログに「すばるくんと章ちゃんが食べてた」とある。住所なし。放送日は未確認。"
   },
   {
     "id": "kanjani-09b3ed00-",
@@ -53616,14 +53337,17 @@
     ],
     "group": "kanjani",
     "nearest_station": "神保町駅 徒歩3分",
-    "description": "東京都の食事。関ジャニ∞の錦戸亮らが訪れた飲食店。",
+    "description": "関ジャニ∞の錦戸亮が神保町ロケで訪れ、店主と話した天ぷらの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13002418/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞クロニクル",
+    "qa_note": "出典はファンブログ（「クロニクル神保町」）。番組名・放送日はブログからの読み取りで、公式では未確認。住所なし。"
   },
   {
     "id": "kanjani-8536d203-",
@@ -53638,20 +53362,25 @@
     "source_video_title": "関ジャニ∞ロケ地巡り - ひみつ堂∞〜9/1東京①〜",
     "source_url": "https://ameblo.jp/yocorino-caputino/entry-12524064320.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "安田章大"
+    ],
     "groups": [
       "kanjani"
     ],
     "group": "kanjani",
     "nearest_station": "松戸駅 徒歩4分",
-    "description": "東京都のスイーツ。関ジャニ∞のメンバーが訪れた飲食店。",
+    "description": "関ジャニ∞の安田章大が訪れたことがファンクラブ会報に載っている、谷中のかき氷店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131106/13126796/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "magazine",
+    "program": "ファンクラブ会報",
+    "qa_note": "出典はファンブログ（「たっちょんが行ってたお店」「会報」）。元データは members 空。会報の号・時期は未確認。住所なし。"
   },
   {
     "id": "kanjani-shinshin-",
@@ -53675,14 +53404,16 @@
     ],
     "group": "kanjani",
     "nearest_station": "",
-    "description": "福岡県のラーメン。関ジャニ∞の渋谷すばる・錦戸亮らが訪れた飲食店。",
+    "description": "関ジャニ∞のメンバーが訪れた博多ラーメンの店（住吉店）。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400101/40021108/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "qa_note": "出典はファンブログ（「エイトが行った住吉店」「すばるくん席」「亮ちゃん席」）。どの番組か・ほかに誰がいたかは未確認。住所なし。"
   },
   {
     "id": "kanjani-bc91617f-",
@@ -53699,6 +53430,8 @@
     "visited_date": "",
     "members": [
       "横山裕",
+      "丸山隆平",
+      "安田章大",
       "錦戸亮"
     ],
     "groups": [
@@ -53706,14 +53439,16 @@
     ],
     "group": "kanjani",
     "nearest_station": "二十四軒駅 徒歩9分",
-    "description": "北海道の食事。関ジャニ∞の横山裕・錦戸亮らが訪れた飲食店。",
+    "description": "関ジャニ∞のメンバーが訪れた札幌・場外市場の海鮮の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010105/1065833/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "qa_note": "出典はファンブログ（店がメンバーごとの注文を掲示。マル・ヤス・ヨコ・亮の名が出る）。どの番組か、ほかのメンバーがいたかは未確認。元データは横山・錦戸だけ。住所なし。"
   },
   {
     "id": "kanjani-891b9070-",
@@ -53728,20 +53463,26 @@
     "source_video_title": "関ジャニ∞ロケ地巡り - コロンボ.関テレ〜大阪∞②〜",
     "source_url": "https://ameblo.jp/yocorino-caputino/entry-12484971783.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "村上信五",
+      "大倉忠義"
+    ],
     "groups": [
       "kanjani"
     ],
     "group": "kanjani",
     "nearest_station": "",
-    "description": "大阪府のカフェ。関ジャニ∞のメンバーが訪れた飲食店。",
+    "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」で村上信五と大倉忠義（ヒナ倉）が訪れた、天神橋筋商店街の喫茶店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27038011/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
+    "qa_note": "出典はファンブログ（「エトブンノニ、ヒナ倉ロケ地」）。元データは members 空。放送日・住所は未確認。"
   },
   {
     "id": "kanjani-336c0f4f-",
@@ -53758,20 +53499,23 @@
     "visited_date": "",
     "members": [
       "丸山隆平",
-      "錦戸亮"
+      "安田章大"
     ],
     "groups": [
       "kanjani"
     ],
     "group": "kanjani",
-    "description": "東京都のカフェ。関ジャニ∞の丸山隆平・錦戸亮らが訪れた飲食店。",
+    "description": "丸山隆平が出演したドラマ『よつば銀行 原島浩美がモノ申す！』（2019年）で「喫茶サツキ」として使われた神保町の喫茶店。雑誌の取材で丸山と安田章大も座った席がある。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13006555/",
     "hotpepper_url": "",
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "drama",
+    "program": "よつば銀行 原島浩美がモノ申す！",
+    "qa_note": "出典はファンブログ。雑誌は「ヤンマー席」（安田・丸山）とあるだけで誌名は未確認。元データの錦戸亮はこの店ではなく近くの天ぷら店（はちまき）の話なので外した。住所なし。"
   },
   {
     "id": "heysayjump-a39d8572-",
@@ -55019,13 +54763,15 @@
     "source_video_title": "GO!GO!!キスマイクマモトオオイタ タイピーエン",
     "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "北山宏光"
+    ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "新町駅 徒歩1分",
-    "description": "熊本県の食事。Kis-My-Ft2のメンバーが訪れた飲食店。",
+    "description": "JR九州のキャンペーン「GO!GO!!キスマイクマモトオオイタ」（2017年）の「熊本 ソウルフードめぐり」で、当時Kis-My-Ft2の北山宏光が訪れた太平燕の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55033,7 +54779,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "GO!GO!!キスマイクマモトオオイタ（JR九州・熊本県・大分県のキャンペーン）",
+    "qa_note": "出典はファンブログ（キャンペーン情報のまとめ）。企画名の横に（千賀さん）とあり、千賀健永が撮影役だった可能性があるが未確認のため members に入れていない。北山は2023年8月にグループを離れている。"
   },
   {
     "id": "kismai-4128bf30-",
@@ -55048,13 +54797,15 @@
     "source_video_title": "GO!GO!!キスマイクマモトオオイタ からしれんこん",
     "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "北山宏光"
+    ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "新町駅 徒歩1分",
-    "description": "熊本県の食事。Kis-My-Ft2のメンバーが訪れた飲食店。",
+    "description": "JR九州のキャンペーン「GO!GO!!キスマイクマモトオオイタ」（2017年）の「熊本 ソウルフードめぐり」で、当時Kis-My-Ft2の北山宏光が訪れたからしれんこんの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55062,7 +54813,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "GO!GO!!キスマイクマモトオオイタ（JR九州・熊本県・大分県のキャンペーン）",
+    "qa_note": "会楽園と同じ。食べ歩きの店。"
   },
   {
     "id": "kismai-390d86fc-",
@@ -55077,13 +54831,15 @@
     "source_video_title": "GO!GO!!キスマイクマモトオオイタ 馬刺し",
     "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "北山宏光"
+    ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "蔚山町（護国神社前）駅 徒歩13分",
-    "description": "熊本県の食事。Kis-My-Ft2のメンバーが訪れた飲食店。",
+    "description": "JR九州のキャンペーン「GO!GO!!キスマイクマモトオオイタ」（2017年）の「熊本 ソウルフードめぐり」で、当時Kis-My-Ft2の北山宏光らが訪れた馬料理の店（本店）。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55091,65 +54847,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "kismai-ec49ab90-",
-    "name": "こもれび工房",
-    "genre": "cafe",
-    "prefecture": "大分県",
-    "city": "日田市",
-    "address": "大分県日田市豆田町10-1",
-    "lat": 33.3279825,
-    "lng": 130.9372547,
-    "youtube_id": "",
-    "source_video_title": "GO!GO!!キスマイクマモトオオイタ 日田豆田町",
-    "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kismai"
-    ],
-    "group": "kismai",
-    "nearest_station": "",
-    "description": "大分県のカフェ。Kis-My-Ft2のメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "kismai-2d64495e-",
-    "name": "東光堂",
-    "genre": "cafe",
-    "prefecture": "大分県",
-    "city": "日田市",
-    "address": "大分県日田市豆田町10-3",
-    "lat": 33.3279825,
-    "lng": 130.9372547,
-    "youtube_id": "",
-    "source_video_title": "GO!GO!!キスマイクマモトオオイタ 日田豆田町",
-    "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kismai"
-    ],
-    "group": "kismai",
-    "nearest_station": "",
-    "description": "大分県のカフェ。Kis-My-Ft2のメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "GO!GO!!キスマイクマモトオオイタ（JR九州・熊本県・大分県のキャンペーン）",
+    "qa_note": "ブログに「みっくん達が行ったのは本店」とある。"
   },
   {
     "id": "kismai-c1d8d497-",
@@ -55164,13 +54865,15 @@
     "source_video_title": "GO!GO!!キスマイクマモトオオイタ 日田豆田町",
     "source_url": "https://koshiananpan.hatenablog.com/entry/20191124/1574605296",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "宮田俊哉"
+    ],
     "groups": [
       "kismai"
     ],
     "group": "kismai",
     "nearest_station": "",
-    "description": "大分県のカフェ。Kis-My-Ft2のメンバーが訪れた飲食店。",
+    "description": "JR九州のキャンペーン「GO!GO!!キスマイクマモトオオイタ」（2017年）の「日田 タイムスリップ通り」で、Kis-My-Ft2の宮田俊哉が日田・豆田町を歩いたときに訪れたカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55178,7 +54881,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "GO!GO!!キスマイクマモトオオイタ（JR九州・熊本県・大分県のキャンペーン）",
+    "qa_note": "ブログは豆田町の立ち寄り先として3軒を並べているだけで、ここで何を食べたかは未確認。（藤ヶ谷さん）は撮影役と思われるが未確認のため members に入れていない。"
   },
   {
     "id": "kismai-38687c6d-",
@@ -55201,14 +54907,17 @@
     ],
     "group": "kismai",
     "nearest_station": "",
-    "description": "千葉県の食事。Kis-My-Ft2の藤ヶ谷太輔らが訪れた飲食店。",
+    "description": "Kis-My-Ft2の藤ヶ谷太輔が2024年7月にマネージャーと訪れ、Instagramに焼きはまぐりなどを投稿した九十九里の浜焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/chiba/A1205/A120503/12005144/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "藤ヶ谷太輔のInstagram",
+    "qa_note": "出典はファンブログ（本人のInstagram投稿から店を特定）。visited_date は空（投稿 2024-07-04）。"
   },
   {
     "id": "kismai-ordinary_cafe-",
@@ -55231,7 +54940,7 @@
     ],
     "group": "kismai",
     "nearest_station": "",
-    "description": "東京都のカフェ。Kis-My-Ft2の玉森裕太らが訪れた飲食店。",
+    "description": "Kis-My-Ft2の玉森裕太が2026年5月31日のInstagramでドバイチョコもちを投稿した原宿のカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55239,34 +54948,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "travisjapan-2f43f178-",
-    "name": "博多だるま 総本店",
-    "genre": "ramen",
-    "prefecture": "福岡県",
-    "city": "福岡市",
-    "address": "福岡県福岡市中央区渡辺通1-8-25",
-    "lat": 33.5839062,
-    "lng": 130.4051299,
-    "youtube_id": "",
-    "source_video_title": "Travis Japan 福岡旅",
-    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "travisjapan"
-    ],
-    "group": "travisjapan",
-    "description": "福岡県のラーメン。Travis Japanのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400103/40000113/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "玉森裕太のInstagram",
+    "qa_note": "出典はファンブログ（投稿から店を特定）。店内で食べたか持ち帰りかは未確認。データの住所は「東京都渋谷区神宮前」だけで、ブログでは神宮前4-25-35 2F。"
   },
   {
     "id": "travisjapan-6361b2d6-",
@@ -55289,7 +54974,7 @@
     ],
     "group": "travisjapan",
     "nearest_station": "赤坂駅 徒歩1分",
-    "description": "福岡県の食事。Travis Japanの松倉海斗らが訪れた飲食店。",
+    "description": "Travis JapanがジュニアCHANNELの「【福岡絶品グルメ】少数派だけが食べられるサバイバル！」（2019年9月）で訪れたもつ鍋店。松倉海斗がもつ鍋を食べた。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/fukuoka/A4001/A400104/40043848/",
     "hotpepper_url": "",
@@ -55297,7 +54982,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "source_video_url": "https://www.youtube.com/watch?v=49CwXq_NElE"
+    "source_video_url": "https://www.youtube.com/watch?v=49CwXq_NElE",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Travis Japan）",
+    "qa_note": "店名は動画の概要欄になく、ファンブログ（kk-kanana.hatenablog.com）による。住所が「福岡市中央区赤坂」までで番地なし。visited_date が空（動画は2019-09-12公開）。"
   },
   {
     "id": "travisjapan-a1fb9d76-",
@@ -55312,13 +55000,16 @@
     "source_video_title": "Travis Japan 福岡旅 志賀島 さざえ丼",
     "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "松田元太",
+      "川島如恵留"
+    ],
     "groups": [
       "travisjapan"
     ],
     "group": "travisjapan",
     "nearest_station": "",
-    "description": "福岡県の食事。Travis Japanのメンバーが訪れた飲食店。",
+    "description": "Travis JapanのジュニアCHANNELの福岡ロケ（2019年）で登場した志賀島のさざえ丼の食堂。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55326,36 +55017,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "travisjapan-635fc6d4-",
-    "name": "川端ぜんざい広場",
-    "genre": "cafe",
-    "prefecture": "福岡県",
-    "city": "福岡市",
-    "address": "福岡県福岡市博多区上川端町10-256",
-    "lat": 33.5897217,
-    "lng": 130.4169918,
-    "youtube_id": "",
-    "source_video_title": "Travis Japan 福岡旅 川端商店街",
-    "source_url": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "travisjapan"
-    ],
-    "group": "travisjapan",
-    "nearest_station": "博多駅 徒歩4分",
-    "description": "福岡県のカフェ。Travis Japanのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Travis Japan）",
+    "qa_note": "どの動画かは未確認（youtube_id なし。2019年8〜9月の福岡ロケの回のどれか）。ファンブログに「ノエルさんが食べたすぎてプレゼンした」「げんげんが店の人とハイタッチ」とあるだけで、誰が食べたかは確かめられない。"
   },
   {
     "id": "travisjapan-1c19dae6-",
@@ -55376,7 +55041,7 @@
     ],
     "group": "travisjapan",
     "nearest_station": "西川口駅 徒歩1分",
-    "description": "埼玉県のラーメン。Travis Japanのメンバーが訪れた飲食店。",
+    "description": "Travis Japanの番組『Travis Japanのダンスだぜ!!』シーズン1第1話の埼玉ロケで登場した西川口のラーメン店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -55384,7 +55049,10 @@
     "source_type": "",
     "tmdb_id": 322733,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "Travis Japanのダンスだぜ!!",
+    "qa_note": "どのメンバーが行ったか出典（ファンブログ）に書かれていないため members は空。住所が番地なし。番組公式で確かめられれば members を入れる。"
   },
   {
     "id": "west-aa9f583c-",
@@ -60417,7 +60085,7 @@
     ],
     "group": "kismai",
     "nearest_station": "麻布十番",
-    "description": "麻布十番の久留米ラーメン店。赤ののれんが目印。宮田俊哉・横尾渉・北山宏光が訪問したとしてサインが飾られている。",
+    "description": "Kis-My-Ft2の宮田俊哉・北山宏光（2011年）と横尾渉（2015年）のサインが飾られている、麻布十番の久留米ラーメン店。",
     "tags": [
       "ラーメン",
       "久留米",
@@ -60429,7 +60097,9 @@
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "qa_note": "根拠はファンブログに載ったサイン色紙の話だけ。来店の場面（番組・私的）は不明。宮田・北山と横尾は別の日の来店とのこと。"
   },
   {
     "id": "9f2ea65a",
@@ -60452,7 +60122,7 @@
     ],
     "group": "kismai",
     "nearest_station": "雲州平田",
-    "description": "島根県出雲市のお好み焼き店。藤ヶ谷太輔が「帰れマンデー見っけ隊!!」で訪問し、サインが飾られている。",
+    "description": "『帰れマンデー見っけ隊!!』の島根・出雲ロケで、Kis-My-Ft2の藤ヶ谷太輔が中居正広と訪れたお好み焼き店。",
     "tags": [
       "お好み焼き",
       "島根",
@@ -60464,7 +60134,13 @@
     "source_type": "tv",
     "tmdb_id": 113795,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "guest_tv",
+    "program": "帰れマンデー見っけ隊!!",
+    "with": [
+      "中居正広"
+    ],
+    "qa_note": "放送日は未確認（ファンの投稿が2018年6月）。"
   },
   {
     "id": "ed3ca800",
@@ -60487,7 +60163,7 @@
     ],
     "group": "kismai",
     "nearest_station": "博多",
-    "description": "博多のもつ鍋専門店。千賀健永が訪問し店のサインが飾られている。サムライもつが名物で、テレビでも紹介された人気店。",
+    "description": "Kis-My-Ft2の千賀健永のサインが飾られている博多のもつ鍋店。",
     "tags": [
       "もつ鍋",
       "福岡",
@@ -60500,7 +60176,9 @@
     "tmdb_type": "",
     "ordered_items": [
       "もつ鍋"
-    ]
+    ],
+    "visit_kind": "other",
+    "qa_note": "根拠はファンブログに載ったサインの話だけ。来店の場面は不明。住所が「博多駅南」までしかない。"
   },
   {
     "id": "8d12f319",
@@ -60511,7 +60189,7 @@
     "address": "213 Arizona Ave, Santa Monica, CA, USA",
     "lat": 34.016664,
     "lng": -118.4983377,
-    "youtube_id": "",
+    "youtube_id": "zMIDFI3mKZ0",
     "source_video_title": "Travis Japan LA訪問 大食いバーガー対決",
     "source_url": "https://note.com/ochiyochiyo/n/nac7fe29ce8ce",
     "visited_date": "",
@@ -60529,7 +60207,7 @@
     ],
     "group": "travisjapan",
     "nearest_station": "サンタモニカ",
-    "description": "LA・サンタモニカのバーガー店。Travis Japanが大食いチャレンジ企画で全員訪問。夕方にほぼ貸切状態で楽しんだ。",
+    "description": "Travis Japanが公式YouTubeの「【大食い】LA人気バーガーを40個食べ尽くせ!!」（2024年3月）で7人で訪れたサンタモニカのハンバーガー店。",
     "tags": [
       "バーガー",
       "アメリカ",
@@ -60544,7 +60222,11 @@
     "tmdb_type": "",
     "ordered_items": [
       "バーガー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "Travis Japan公式YouTube",
+    "qa_note": "動画は zMIDFI3mKZ0（2024-03-02公開。概要欄で7人の企画と確認）。youtube_id 未登録なので付けられる。店名は概要欄になくファンブログ（note）による。今の description（「夕方にほぼ貸切状態」）はブログ筆者の体験なので差し替える。",
+    "source_video_url": "https://www.youtube.com/watch?v=zMIDFI3mKZ0"
   },
   {
     "id": "e94964ce",
@@ -60673,11 +60355,14 @@
     "group": "kanjani",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27068088/",
-    "description": "kanjani「エイトブンノニ 中崎町回（丸山隆平・錦戸亮）」に登場した飲食店。丸山隆平・錦戸亮が訪問。だし巻き卵サンドを注文。",
+    "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」第1回（2015年放送）の中崎町ロケで、丸山隆平と錦戸亮がだし巻き玉子サンドとミニ丼を食べた仕出し店。",
     "ordered_items": [
       "だし巻き卵サンド"
     ],
-    "nearest_station": "中崎町駅 徒歩2分"
+    "nearest_station": "中崎町駅 徒歩2分",
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。ブログの表記は「濱鮓」。"
   },
   {
     "id": "3607fb24",
@@ -60701,8 +60386,11 @@
     "group": "kanjani",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27075783/",
-    "description": "手作りグラノーラが人気のオーガニックカフェ。",
-    "nearest_station": "中崎町駅 徒歩2分"
+    "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」第1回（2015年放送）の中崎町ロケで、丸山隆平と錦戸亮が立ち寄った自家製グラノーラの店。",
+    "nearest_station": "中崎町駅 徒歩2分",
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。"
   },
   {
     "id": "f3c0d1e3",
@@ -60726,11 +60414,14 @@
     "group": "kanjani",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27017726/",
-    "description": "kanjani「エイトブンノニ 中崎町回（丸山隆平・錦戸亮）」に登場したカフェ。丸山隆平・錦戸亮が訪問。ハヤシオムライスを注文。",
+    "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」第1回（2015年放送）の中崎町ロケで、丸山隆平と錦戸亮がハヤシオムライスを食べた洋食店。",
     "ordered_items": [
       "ハヤシオムライス"
     ],
-    "nearest_station": "中崎町駅 徒歩1分"
+    "nearest_station": "中崎町駅 徒歩1分",
+    "visit_kind": "own_tv",
+    "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。"
   },
   {
     "id": "df6209b5",
@@ -60752,14 +60443,17 @@
     ],
     "group": "kismai",
     "source_type": "tv",
-    "description": "鎌倉市場前の町中華。10万円でできるかなに登場。大新丼やあんかけご飯が名物。",
+    "description": "冠番組『10万円でできるかな』で、Kis-My-Ft2の玉森裕太が訪れ「大新丼」を食べた鎌倉の町中華。",
     "ordered_items": [
       "大新丼"
     ],
     "nearest_station": "鎌倉駅 徒歩3分",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/8jCi4L9i3HZHCchvb72XQfJwGka.jpg",
     "tmdb_id": 113796,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "10万円でできるかな",
+    "qa_note": "出典はファンブログ（店の窓に紹介の張り紙）。放送日は未確認。visited_date 2024-01-01 はブログの日付からの仮置きと思われ、正しくない可能性が高い。"
   },
   {
     "id": "4f52927a",
@@ -60874,58 +60568,6 @@
       "浜田雅功"
     ],
     "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
-  },
-  {
-    "id": "196b9e03",
-    "name": "手打ち蕎麦 みたに",
-    "genre": "washoku",
-    "prefecture": "滋賀県",
-    "city": "長浜市",
-    "address": "滋賀県長浜市元浜町9-20",
-    "lat": 35.378877067793695,
-    "lng": 136.26730512378316,
-    "source_video_title": "関ジャニ∞ ロケ地巡り（長浜）",
-    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12969692580.html",
-    "visited_date": "2024-01-01",
-    "members": [],
-    "groups": [
-      "kanjani"
-    ],
-    "group": "kanjani",
-    "source_type": "blog",
-    "tabelog_url": "https://tabelog.com/shiga/A2504/A250402/25001491/",
-    "description": "長浜黒壁スクエア近くの本格手打ち蕎麦。関ジャニ∞ロケ地。そば膳が人気。",
-    "ordered_items": [
-      "そば膳 せいろ・とろろごはん"
-    ]
-  },
-  {
-    "id": "9f318c81",
-    "name": "海人 門司港本店",
-    "genre": "washoku",
-    "prefecture": "福岡県",
-    "city": "北九州市",
-    "address": "福岡県北九州市門司区港町",
-    "lat": 33.946012036209744,
-    "lng": 130.9649740718649,
-    "source_video_title": "関ジャニ∞ ロケ地巡り（門司港）",
-    "source_url": "https://ameblo.jp/yocorino-caputino/entry-12968807639.html",
-    "visited_date": "2024-06-01",
-    "members": [],
-    "groups": [
-      "kanjani"
-    ],
-    "group": "kanjani",
-    "source_type": "blog",
-    "tabelog_url": "https://tabelog.com/fukuoka/A4004/A400501/40000939/",
-    "description": "門司港レトロの海鮮回転寿司。関ジャニ∞ロケ地。ふぐ唐揚げ・関門タコが名物。",
-    "ordered_items": [
-      "ふぐ唐揚げ",
-      "関門タコの唐揚げ",
-      "活とらふぐ"
-    ],
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000112978/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/37/P047410137/P047410137_238.jpg"
   },
   {
     "id": "65f7d7eb",
@@ -64175,7 +63817,7 @@
       "numberi"
     ],
     "group": "numberi",
-    "description": "Number_i「VS魂 背徳グルメワールドツアー」に登場した中華料理店。岸優太が訪問。角煮定食を注文。",
+    "description": "フジテレビ『VS魂』の「背徳グルメ第4弾ワールドツアー」（2023年6月22日放送）で、岸優太がアルコ＆ピース平子祐希と角煮定食を食べた立川の中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132901/13045499/",
     "hotpepper_url": "",
@@ -64185,7 +63827,13 @@
     "ordered_items": [
       "角煮定食"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
+    ],
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
   },
   {
     "id": "numberi-teddy_s_bigger_burge-",
@@ -64208,7 +63856,7 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "Number_i「VS魂 背徳グルメワールドツアー」に登場した飲食店。岸優太が訪問。",
+    "description": "フジテレビ『VS魂』の「背徳グルメ第4弾ワールドツアー」（2023年6月22日放送）で、岸優太がアルコ＆ピース平子祐希、助っ人の佐々木大光と訪れたハンバーガー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13097927/",
     "hotpepper_url": "",
@@ -64218,7 +63866,14 @@
     "ordered_items": [
       "ギガモンスタープレミアムバーガー"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）",
+      "佐々木大光（7 MEN 侍）"
+    ],
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
   },
   {
     "id": "numberi-the_living-",
@@ -64237,9 +63892,9 @@
       "岸優太"
     ],
     "groups": [
-      "numberi"
+      "kingprince"
     ],
-    "group": "numberi",
+    "group": "kingprince",
     "nearest_station": "",
     "description": "Number_i「VS魂 背徳グルメワールドツアー」に登場したカフェ。岸優太が訪問。巨大いちごパフェを注文。",
     "tags": [],
@@ -64251,7 +63906,10 @@
     "ordered_items": [
       "巨大いちごパフェ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "qa_note": "Number_i結成前（King & Prince在籍中）の放送。店は消さず kingprince グループへ移す候補。 King & Prince在籍中の放送のため kingprince へ移した。"
   },
   {
     "id": "numberi-56d780eb-",
@@ -64270,9 +63928,9 @@
       "岸優太"
     ],
     "groups": [
-      "numberi"
+      "kingprince"
     ],
-    "group": "numberi",
+    "group": "kingprince",
     "nearest_station": "",
     "description": "Number_i「VS魂 背徳グルメワールドツアー」に登場した飲食店。岸優太が訪問。クリーミーチーズラッポッキ鍋を注文。",
     "tags": [],
@@ -64284,7 +63942,13 @@
     "ordered_items": [
       "クリーミーチーズラッポッキ鍋"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
+    ],
+    "qa_note": "Number_i結成前（King & Prince在籍中）の放送。店は消さず kingprince グループへ移す候補。 King & Prince在籍中の放送のため kingprince へ移した。"
   },
   {
     "id": "numberi-a9a5b0f5-",
@@ -64307,7 +63971,7 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "Number_i「VS魂 背徳グルメワールドツアー」に登場した飲食店。岸優太が訪問。軍艦シュークリーム・ビーフ黒カリーを注文。",
+    "description": "フジテレビ『VS魂』の「背徳グルメ第4弾ワールドツアー」（2023年6月22日放送）で、岸優太がアルコ＆ピース平子祐希と軍艦シュークリームなどを食べた銀座の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13033054/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000658854/",
@@ -64319,7 +63983,13 @@
       "ビーフ黒カリー"
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/42/P012102542/P012102542_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/42/P012102542/P012102542_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
+    ],
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
   },
   {
     "id": "numberi-nomuno-",
@@ -64338,9 +64008,9 @@
       "岸優太"
     ],
     "groups": [
-      "numberi"
+      "kingprince"
     ],
-    "group": "numberi",
+    "group": "kingprince",
     "description": "Number_i「VS魂 背徳グルメ」に登場した飲食店。岸優太が訪問。メキシカンかまくらボロネーゼを注文。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13222543/",
@@ -64351,7 +64021,13 @@
     "ordered_items": [
       "メキシカンかまくらボロネーゼ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
+    ],
+    "qa_note": "Number_i結成前（King & Prince在籍中）の放送。店は消さず kingprince グループへ移す候補。 King & Prince在籍中の放送のため kingprince へ移した。"
   },
   {
     "id": "numberi-66827206-",
@@ -64370,9 +64046,9 @@
       "岸優太"
     ],
     "groups": [
-      "numberi"
+      "kingprince"
     ],
-    "group": "numberi",
+    "group": "kingprince",
     "nearest_station": "",
     "description": "Number_i「VS魂 背徳グルメ」に登場したラーメン店。岸優太が訪問。肉チーズ担々麺を注文。",
     "tags": [],
@@ -64384,7 +64060,13 @@
     "ordered_items": [
       "肉チーズ担々麺"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
+    ],
+    "qa_note": "Number_i結成前（King & Prince在籍中）の放送。店は消さず kingprince グループへ移す候補。 King & Prince在籍中の放送のため kingprince へ移した。"
   },
   {
     "id": "numberi-ae80288a-",
@@ -64403,9 +64085,9 @@
       "岸優太"
     ],
     "groups": [
-      "numberi"
+      "kingprince"
     ],
-    "group": "numberi",
+    "group": "kingprince",
     "description": "Number_i「VS魂 背徳グルメ」に登場した飲食店。岸優太が訪問。痛風鍋を注文。",
     "tags": [],
     "hotpepper_url": "",
@@ -64415,42 +64097,13 @@
     "ordered_items": [
       "痛風鍋"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
-  },
-  {
-    "id": "numberi-de81a2ec-",
-    "name": "大久手 山本屋",
-    "genre": "washoku",
-    "prefecture": "愛知県",
-    "city": "名古屋市",
-    "address": "愛知県名古屋市千種区大久手町5-9-2",
-    "lat": 35.161491578144854,
-    "lng": 136.93641522111835,
-    "youtube_id": "",
-    "source_video_title": "キンプる 元旦SP",
-    "source_url": "https://kosodate-and.net/kinpru-wyuta-nagoya-udon/",
-    "visited_date": "",
-    "members": [
-      "岸優太",
-      "神宮寺勇太"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "平子祐希（アルコ＆ピース）"
     ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "吹上駅",
-    "description": "Number_i「キンプる 元旦SP」に登場した和食店。岸優太・神宮寺勇太が訪問。味噌煮込みうどん・カレー煮込みうどんを注文。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/aichi/A2301/A230112/23089744/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "味噌煮込みうどん",
-      "カレー煮込みうどん"
-    ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
+    "qa_note": "Number_i結成前（King & Prince在籍中）の放送。店は消さず kingprince グループへ移す候補。 King & Prince在籍中の放送のため kingprince へ移した。"
   },
   {
     "id": "numberi-361c2213-",
@@ -64473,7 +64126,7 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "Number_i「行列のできる相談所」に登場した飲食店。岸優太が訪問。ブッラータチーズを注文。",
+    "description": "日本テレビ『行列のできる相談所』のチーズ特集（2023年8月20日放送）のロケで、岸優太がブッラータチーズを食べた駒込のイタリア料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1323/A132301/13135740/",
     "hotpepper_url": "",
@@ -64483,7 +64136,10 @@
     "ordered_items": [
       "ブッラータチーズ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg",
+    "visit_kind": "guest_tv",
+    "program": "行列のできる相談所",
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
   },
   {
     "id": "numberi-lesolca-",
@@ -64506,7 +64162,7 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "Number_i「行列のできる相談所」に登場したスイーツ店。岸優太が訪問。グルメチーズケーキを注文。",
+    "description": "日本テレビ『行列のできる相談所』のチーズ特集（2023年8月20日放送）で、岸優太が食べたチーズケーキの銀座の持ち帰り専門店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13270053/",
     "hotpepper_url": "",
@@ -64516,7 +64172,11 @@
     "ordered_items": [
       "グルメチーズケーキ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg",
+    "visit_kind": "guest_tv",
+    "program": "行列のできる相談所",
+    "studio_only": true,
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。 持ち帰り専門店で、岸優太が店に行ったかスタジオで食べただけかは出典で確かめられない（studio_only の候補）。"
   },
   {
     "id": "numberi-e953882d-",
@@ -64539,7 +64199,7 @@
     ],
     "group": "numberi",
     "nearest_station": "",
-    "description": "Number_iの岸優太が訪れたラーメン店。A5松阪牛特上ロースラーメンを注文。",
+    "description": "フジテレビ『VS魂』（2023年8月24日放送）で、岸優太が佐藤勝利と日本一高額のラーメンを食べに訪れた赤坂のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13257298/",
     "hotpepper_url": "",
@@ -64549,42 +64209,13 @@
     "ordered_items": [
       "A5松阪牛特上ロースラーメン"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
-  },
-  {
-    "id": "numberi-mercer_bis-",
-    "name": "MERCER bis 恵比寿店",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区恵比寿",
-    "lat": 35.6464413,
-    "lng": 139.7102082,
-    "youtube_id": "",
-    "source_video_title": "NYLON JAPAN Number_i特集",
-    "source_url": "https://kosodate-and.net/nylon-japan-numberi-cake/",
-    "visited_date": "",
-    "members": [
-      "平野紫耀",
-      "神宮寺勇太",
-      "岸優太"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "visit_kind": "guest_tv",
+    "program": "VS魂",
+    "with": [
+      "佐藤勝利（timelesz）"
     ],
-    "groups": [
-      "numberi"
-    ],
-    "group": "numberi",
-    "nearest_station": "",
-    "description": "Number_i「NYLON JAPAN Number_i特集」に登場したスイーツ店。平野紫耀・神宮寺勇太らが訪問。リッチストロベリーケーキを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "リッチストロベリーケーキ"
-    ]
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
   },
   {
     "id": "kpop_bts-1bc779c4-",
@@ -64600,15 +64231,14 @@
     "source_url": "https://kurumi-press.site/jhope-satumakko/",
     "visited_date": "",
     "members": [
-      "J-Hope",
-      "Jin"
+      "J-Hope"
     ],
     "groups": [
       "kpop_bts"
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「J-Hope Instagram / Jin来店（」に登場したラーメン店。J-Hope・Jinが訪問。",
+    "description": "BTSのJ-HOPEが2025年5月の京セラドーム公演の際、Instagramにラーメンの写真を載せ、ファンの間でこの店と特定されたラーメン店。BTSは2015年にもメンバーで来店したとされる。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -64618,7 +64248,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "チャーシューメン並・ニンニクたっぷり"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "J-HOPE Instagram",
+    "qa_note": "出典はファンまとめ（kurumi-press.site）。Jinの来店（2025年4月）は「来店されたそうです」の伝聞のみなので members から外した。店の特定はファンによる。ordered_items（チャーシューメン・ニンニク）は「〜だったのかな？」の推測。"
   },
   {
     "id": "kpop_bts-so_ten-",
@@ -64640,7 +64273,7 @@
       "kpop_bts"
     ],
     "group": "kpop_bts",
-    "description": "BTS「J-Hope Weverse Live（東京滞在中」に登場した飲食店。J-Hopeが訪問。",
+    "description": "BTSのJ-HOPEが東京滞在中、Weverse LIVEの配信をしながら食事をしたとファンが特定した恵比寿の和食ダイニング。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13020624/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001217467/",
@@ -64648,7 +64281,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/85/95/P047308595/P047308595_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/85/95/P047308595/P047308595_238.jpg",
+    "visit_kind": "other",
+    "program": "J-HOPE Weverse LIVE",
+    "qa_note": "出典はファンブログ（ameblo j-hope19940218）。店の特定はファンが写真から行ったもの。住所は恵比寿4丁目（data は渋谷区で一致）。"
   },
   {
     "id": "kpop_bts-b61c20ce-",
@@ -64670,7 +64306,7 @@
       "kpop_bts"
     ],
     "group": "kpop_bts",
-    "description": "BTS「J-Hope 東京訪問」に登場したラーメン店。J-Hopeが訪問。",
+    "description": "BTSのJ-HOPEが東京滞在中に油そばを食べたとファンが特定した店。ジョングクも訪れたとされる銀座の店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13107693/",
     "hotpepper_url": "",
@@ -64679,7 +64315,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "スペシャルBセット チャーシュー追加"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "J-HOPE（東京滞在中）",
+    "qa_note": "出典はファンブログ。チェーン店でファンも「特定は難しい」と書いており、銀座組と決めた根拠が座席の写真のみ。要確認。"
   },
   {
     "id": "kpop_bts-red_rock-",
@@ -64703,7 +64342,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「G.C.F in Tokyo（ジョングク動画）」に登場した飲食店。ジョングク・ジミンが訪問。ステーキ丼を注文。",
+    "description": "BTSのジョングクとジミンが東京旅行（2017年秋）の映像「G.C.F in Tokyo」で訪れた、原宿のローストビーフ丼・ステーキ丼の店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13184256/",
     "hotpepper_url": "",
@@ -64712,7 +64351,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ステーキ丼"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "G.C.F in Tokyo（BTS公式）",
+    "qa_note": "grapeejapan.com は robots.txt で全面禁止のため読んでいない。複数のファンサイト（検索結果）で2人の来店とステーキ丼を確認。訪問年は2017年と2018年の記述がある。"
   },
   {
     "id": "kpop_bts-fc7b6f31-",
@@ -64728,6 +64370,9 @@
     "source_url": "https://grapeejapan.com/99849",
     "visited_date": "",
     "members": [
+      "J-Hope",
+      "V",
+      "ジョングク",
       "Jin"
     ],
     "groups": [
@@ -64735,7 +64380,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「BTS 東京訪問（2015年）」に登場したラーメン店。Jinが訪問。ラーメンを注文。",
+    "description": "2015年2月ごろ、BTSのメンバーが来日中に食事をしたラーメン店。J-HOPEがSNSに載せた写真が六本木店の前だった。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13170532/",
     "hotpepper_url": "",
@@ -64744,7 +64389,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ラーメン"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "BTS（J-HOPE SNS）",
+    "qa_note": "出典はファンブログ（ameblo whyilovekorea、記事番号から2015年初め）。写真に写っていたのはJ-HOPE・V・ジョングク・Jin（ほかのメンバーが店にいたかは不明）。元の source_url（grapeejapan）は robots.txt で禁止のため読んでいない。"
   },
   {
     "id": "kpop_bts-coco-",
@@ -64760,15 +64408,15 @@
     "source_url": "https://bts613-bighit.com/jung-kook-jimin-gcf-in-japan-november-2023/",
     "visited_date": "",
     "members": [
-      "ジョングク",
-      "ジミン"
+      "ジミン",
+      "ジョングク"
     ],
     "groups": [
       "kpop_bts"
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「ジミン Instagram（2023年11月）」に登場した飲食店。ジョングク・ジミンが訪問。カレーライスを注文。",
+    "description": "BTSのジミンとジョングクが2023年11月の来日中に訪れ、ジミンがInstagramに写真を載せたカレーチェーンの店舗。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13126200/",
     "hotpepper_url": "",
@@ -64777,7 +64425,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "カレーライス"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジミン Instagram（2023年11月）",
+    "qa_note": "出典はファンサイト bts613-bighit.com（店員の話としてジョングクと一緒）。注文の詳細は別記事で未確認。"
   },
   {
     "id": "kpop_bts-cfb24cd1-",
@@ -64806,7 +64457,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「BTS 練習生時代の常連店」に登場した飲食店。RM・Jinらが訪問。黒豚石焼ビビンバ・ユジョン野菜包みご飯を注文。",
+    "description": "BTSの練習生時代、地下にあったレッスンスタジオから毎日のように通ったとされるソウル新沙洞の食堂。「防弾食堂」と呼ばれる。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -64817,46 +64468,10 @@
     "ordered_items": [
       "黒豚石焼ビビンバ",
       "ユジョン野菜包みご飯"
-    ]
-  },
-  {
-    "id": "kpop_bts-d4fbf933-",
-    "name": "カフェ休家（ヒガ）",
-    "genre": "cafe",
-    "prefecture": "韓国",
-    "city": "",
-    "address": "韓国ソウル市江南区論峴路175ギル近辺",
-    "lat": 37.5261,
-    "lng": 127.0476,
-    "youtube_id": "",
-    "source_video_title": "BTS 元宿舎リノベカフェ",
-    "source_url": "https://ameblo.jp/jjhyeh/entry-12855979151.html",
-    "visited_date": "",
-    "members": [
-      "RM",
-      "Jin",
-      "SUGA",
-      "J-Hope",
-      "ジミン",
-      "V",
-      "ジョングク"
     ],
-    "groups": [
-      "kpop_bts"
-    ],
-    "group": "kpop_bts",
-    "nearest_station": "",
-    "description": "BTS「BTS 元宿舎リノベカフェ」に登場したカフェ。RM・Jinらが訪問。防弾塩パンを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "防弾塩パン"
-    ]
+    "visit_kind": "other",
+    "program": "BTS（練習生時代）",
+    "qa_note": "出典はファン向けまとめ（oshito・KONEST抜粋）。メンバー全員とする根拠は「メンバーが頻繁に訪れた」の記述。韓国の店で住所・座標なし。"
   },
   {
     "id": "kpop_bts-a2d96d1d-",
@@ -64885,7 +64500,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「BTS 行きつけ韓牛店」に登場した焼肉店。RM・Jinらが訪問。韓牛を注文。",
+    "description": "BTSのメンバーの行きつけとして知られるソウル清潭洞の韓牛店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -64895,40 +64510,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "韓牛"
-    ]
-  },
-  {
-    "id": "kpop_bts-db69814e-",
-    "name": "押忍！！セイロ蒸し 汝矣島店",
-    "genre": "shokuji",
-    "prefecture": "韓国",
-    "city": "",
-    "address": "韓国ソウル市永登浦区汝矣島洞",
-    "lat": 37.5224,
-    "lng": 126.9251,
-    "youtube_id": "",
-    "source_video_title": "Jinと兄の共同経営店",
-    "source_url": "https://ameblo.jp/jjhyeh/entry-12855979151.html",
-    "visited_date": "",
-    "members": [
-      "Jin"
     ],
-    "groups": [
-      "kpop_bts"
-    ],
-    "group": "kpop_bts",
-    "nearest_station": "",
-    "description": "BTS「Jinと兄の共同経営店」に登場した飲食店。Jinが訪問。日本式せいろ蒸しを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "日本式せいろ蒸し"
-    ]
+    "visit_kind": "other",
+    "program": "BTS（行きつけ）",
+    "qa_note": "出典はファンブログが引用したKONESTの「メンバー全員の行きつけ」のみ。本人のSNSや番組での確認なし。要確認。"
   },
   {
     "id": "kpop_bts-355fdac9-",
@@ -64951,7 +64536,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「RM 釜山訪問」に登場した飲食店。RMが訪問。ミルミョンを注文。",
+    "description": "BTSのRMが訪れ、サインを残した釜山の小麦麺（ミルミョン）の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -64961,7 +64546,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ミルミョン"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "RM（釜山）",
+    "qa_note": "出典はファン向けまとめ（oshito）。訪問時期は不明。"
   },
   {
     "id": "kpop_bts-scopa_the_chef-",
@@ -64984,7 +64572,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「V 清潭洞お気に入りイタリアン」に登場した飲食店。Vが訪問。トリュフクリームパスタを注文。",
+    "description": "BTSのVが訪れたことで知られるソウル清潭洞のイタリアン。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -64994,7 +64582,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "トリュフクリームパスタ"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "V（清潭洞）",
+    "qa_note": "出典 kitto.today（「Vが訪れた後、さらに人気が高まった」）。トリュフクリームパスタは店の看板メニューで、Vの注文とは書かれていない（ordered_items は要見直し）。"
   },
   {
     "id": "kpop_bts-506-",
@@ -65017,7 +64608,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「V 行きつけ熟成豚肉店」に登場した焼肉店。Vが訪問。A506熟成サムギョプサルを注文。",
+    "description": "BTSのSUGAの誕生日会が開かれたことで知られ、Vもよく食べているとされるソウルの熟成豚肉店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65027,7 +64618,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "A506熟成サムギョプサル"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "BTS（SUGAの誕生日会）",
+    "qa_note": "出典 kitto.today は「Vも好んでよく食べているそう」と伝聞。SUGAの誕生日会の参加者は不明。A506熟成サムギョプサルは店の看板メニューでVの注文とは書かれていない。要確認。"
   },
   {
     "id": "kpop_bts-5c1f5bfd-",
@@ -65050,7 +64644,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「ジョングク 弘大エリア行きつけ焼肉」に登場した焼肉店。ジョングクが訪問。",
+    "description": "BTSのジョングクが訪れ、窓際の席に座ったと店主が話すソウル弘大近くの焼肉店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65060,7 +64654,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "BTSジョングクメニュー（牛肉・ハイボール・テンジャンチゲ）"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジョングク（弘大）",
+    "qa_note": "出典 kitto.today。「ジョングクメニュー」は店が作ったセットで本人の注文とは限らない。"
   },
   {
     "id": "kpop_bts-f81c87e5-",
@@ -65083,7 +64680,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「ジョングク 清潭エリア行きつけ焼肉」に登場した焼肉店。ジョングクが訪問。モクサル（肩ロース）・ケランチムを注文。",
+    "description": "BTSのジョングクが訪れ、店内にサインが飾られているソウル清潭洞の豚焼肉店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65094,7 +64691,10 @@
     "ordered_items": [
       "モクサル（肩ロース）",
       "ケランチム"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジョングク（清潭洞）",
+    "qa_note": "出典 kitto.today。モクサル・ケランチムは店のおすすめで、本人の注文とは書かれていない（ordered_items は要見直し）。"
   },
   {
     "id": "kpop_bts-6fcacc83-",
@@ -65118,7 +64718,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「BTS 行きつけサムギョプサル店」に登場した焼肉店。ジョングク・ジミンが訪問。骨付きサムギョプサルを注文。",
+    "description": "BTSのジョングクとジミンの行きつけとして知られるソウルの骨付きサムギョプサルの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65128,7 +64728,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "骨付きサムギョプサル"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "BTS（行きつけ）",
+    "qa_note": "出典はファンブログが引用したKONESTの「行きつけとして有名」。本人のSNSや番組での確認なし。要確認。"
   },
   {
     "id": "kpop_bts-cafe_camptong-",
@@ -65157,7 +64760,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「Run BTS! EP.118-119」に登場したカフェ。RM・Jinらが訪問。",
+    "description": "BTSのバラエティ「Run BTS!」のEP.118〜119でメンバーが訪れたソウル狎鴎亭のカフェ。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65165,7 +64768,10 @@
     "source_type": "",
     "tmdb_id": 77696,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "Run BTS!（EP.118-119）",
+    "qa_note": "出典 oshito（「メンバーが訪れたカフェ」）。全員がその場面にいたかは未確認。"
   },
   {
     "id": "kpop_bts-a6e42a23-",
@@ -65194,7 +64800,7 @@
     ],
     "group": "kpop_bts",
     "nearest_station": "",
-    "description": "BTS「Run BTS! 2022」に登場した焼肉店。RM・Jinらが訪問。チャドルバキを注文。",
+    "description": "BTSのバラエティ「Run BTS! 2022」Part 2の後半で、メンバーが食事をしたソウル江南のチャドルバキ（牛あばら肉）の店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65204,7 +64810,10 @@
     "tmdb_type": "tv",
     "ordered_items": [
       "チャドルバキ"
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "Run BTS! 2022 Special Episode Part 2",
+    "qa_note": "出典 oshito。どのメンバーがこの店にいたかは未確認（全員は推定）。"
   },
   {
     "id": "kpop_straykids-b6809bca-",
@@ -65230,7 +64839,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「Stray Kids 東京ミッションツアー」に登場した飲食店。チャンビン・ヒョンジンらが訪問。さくら焼きを注文。",
+    "description": "Stray Kidsの日本の冠番組「東京ミッションツアー」で、チャンビン・ヒョンジン・スンミン・アイエンがアルコ＆ピースと食べた原宿のお好み焼き・もんじゃ焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13007421/",
     "hotpepper_url": "",
@@ -65239,7 +64848,13 @@
     "tmdb_type": "",
     "ordered_items": [
       "さくら焼き"
-    ]
+    ],
+    "visit_kind": "own_tv",
+    "program": "Stray Kidsの東京ミッションツアー",
+    "with": [
+      "アルコ＆ピース"
+    ],
+    "qa_note": "出典 koreaddicted.jp（＠telasa_jp）。"
   },
   {
     "id": "kpop_straykids-fe152020-",
@@ -65262,7 +64877,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「SKZ VLOG「Lee Know & Felix」に登場したカフェ。リノが訪問。クラシックプリンを注文。",
+    "description": "Stray Kidsの公式VLOG「Lee Know & Felix : 냥냥 Vlog」で、リノがテイクアウトのプリンを買い、新宿御苑で食べたコーヒー店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13187981/",
     "hotpepper_url": "",
@@ -65271,7 +64886,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "クラシックプリン"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」",
+    "qa_note": "出典 koreaddicted.jp（14:48〜）。"
   },
   {
     "id": "kpop_straykids-e6b173fc-",
@@ -65293,7 +64911,7 @@
       "kpop_straykids"
     ],
     "group": "kpop_straykids",
-    "description": "Stray Kids「Hyun.e's Holiday 5」に登場した飲食店。ヒョンジンが訪問。甘えび・本まぐろ大とろを注文。",
+    "description": "Stray Kidsの公式VLOG「Hyun.e's Holiday 5」で、ヒョンジンが寿司を食べた上野の回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131101/13215175/",
     "hotpepper_url": "",
@@ -65303,7 +64921,10 @@
     "ordered_items": [
       "甘えび",
       "本まぐろ大とろ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "SKZ VLOG「Hyun.e's Holiday 5」",
+    "qa_note": "出典 koreaddicted.jp（0:40〜）。"
   },
   {
     "id": "kpop_straykids-fuglen_asakusa-",
@@ -65326,7 +64947,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「スンミン Instagram」に登場したカフェ。スンミンが訪問。ソフトクリームを注文。",
+    "description": "Stray KidsのスンミンがInstagramに「りょこう.」と載せた写真で、ソフトクリームを食べていた浅草のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13226426/",
     "hotpepper_url": "",
@@ -65335,7 +64956,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ソフトクリーム"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "スンミン Instagram",
+    "qa_note": "出典 koreaddicted.jp。店の特定はファンによる。"
   },
   {
     "id": "kpop_straykids-e604ee36-",
@@ -65358,7 +64982,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「スンミン Instagram」に登場した飲食店。スンミンが訪問。キムチ鍋を注文。",
+    "description": "Stray KidsのスンミンがInstagramに「りょこう.」と載せた写真に写っていた浅草のしゃぶしゃぶ・すき焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13019010/",
     "hotpepper_url": "",
@@ -65367,7 +64991,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "キムチ鍋"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "スンミン Instagram",
+    "qa_note": "出典 koreaddicted.jp。店の特定・キムチ鍋の注文は写真からのファンの判断。"
   },
   {
     "id": "kpop_straykids-df0b482a-",
@@ -65375,9 +65002,9 @@
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "中央区",
-    "address": "東京都中央区銀座6-4-17",
-    "lat": 35.6720135,
-    "lng": 139.7647202,
+    "address": "東京都中央区月島3-11-10",
+    "lat": 35.662724,
+    "lng": 139.781311,
     "youtube_id": "",
     "source_video_title": "SKZ VLOG「Felix : Sunshine Vlog 6」",
     "source_url": "https://koreaddicted.jp/34578",
@@ -65390,7 +65017,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「Felix : Sunshine Vlog 6」に登場した飲食店。フィリックスが訪問。つくね・やきとり皮を注文。",
+    "description": "Stray Kidsの公式VLOG「Felix : Sunshine Vlog 6 in Tokyo」で、フィリックスがつくねや皮などを頼んだ焼き鳥店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131302/13239194/",
     "hotpepper_url": "",
@@ -65400,7 +65027,10 @@
     "ordered_items": [
       "つくね",
       "やきとり皮"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」",
+    "qa_note": "出典 koreaddicted.jp（10:00〜）。【住所の食い違い】出典の住所は中央区月島3-11-10、data は中央区銀座6-4-17。どちらの店舗か要確認。"
   },
   {
     "id": "kpop_straykids-b9eabf58-",
@@ -65423,7 +65053,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「Hyun.e's Holiday 5」に登場したカフェ。ヒョンジンが訪問。キャロットケーキ・アイスアメリカーノを注文。",
+    "description": "Stray Kidsの公式VLOG「Hyun.e's Holiday 5」で、ヒョンジンがキャロットケーキとアイスアメリカーノを頼んだ銀座のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13138416/",
     "hotpepper_url": "",
@@ -65433,17 +65063,20 @@
     "ordered_items": [
       "キャロットケーキ",
       "アイスアメリカーノ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "SKZ VLOG「Hyun.e's Holiday 5」",
+    "qa_note": "出典 koreaddicted.jp（3:05〜）。"
   },
   {
     "id": "kpop_straykids-0c456bcf-",
     "name": "ひるがお お台場店",
     "genre": "ramen",
     "prefecture": "東京都",
-    "city": "江東区",
-    "address": "東京都江東区青海1-1-10 ダイバーシティ東京プラザ6F",
-    "lat": 35.6137752,
-    "lng": 139.7814016,
+    "city": "港区",
+    "address": "東京都港区台場1-7-1 アクアシティお台場",
+    "lat": 35.627804,
+    "lng": 139.77359,
     "youtube_id": "",
     "source_video_title": "SKZ VLOG「Felix : Sunshine Vlog 6」",
     "source_url": "https://koreaddicted.jp/34578",
@@ -65456,7 +65089,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「Felix : Sunshine Vlog 6」に登場したラーメン店。フィリックスが訪問。特選和牛チャーシュー白湯麺を注文。",
+    "description": "Stray Kidsの公式VLOG「Felix : Sunshine Vlog 6 in Tokyo」で、フィリックスが訪れたお台場の塩ラーメンの店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65466,7 +65099,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "特選和牛チャーシュー白湯麺"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」",
+    "qa_note": "出典 koreaddicted.jp（8:40〜）。【住所の食い違い】出典はアクアシティお台場5F ラーメン国技館舞（港区台場1-7-1）だが、data はダイバーシティ東京（江東区青海）。住所・座標の直しが要る。"
   },
   {
     "id": "kpop_straykids-1ce30364-",
@@ -65491,7 +65127,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「Stray Kids 2023年ドームツアー来日時」に登場した焼肉店。フィリックス・チャンビンらが訪問。ステーキを注文。",
+    "description": "Stray Kidsのメンバーが2023年のドームツアーで来日した際に訪れた大阪堀江の鉄板焼きの店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000782/",
     "hotpepper_url": "",
@@ -65500,7 +65136,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ステーキ"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "Stray Kids（5-STAR Dome Tour 2023 来日時）",
+    "qa_note": "出典 ameblo u-travel2（「メンバーみんなで来た」、DVD特典映像に食事の場面）。members は同ブログの店舗レポの題「Felix, Changbin, Seungmin」による。ほかのメンバーも来たかは未確認。"
   },
   {
     "id": "kpop_straykids-99cf131a-",
@@ -65522,7 +65161,7 @@
       "kpop_straykids"
     ],
     "group": "kpop_straykids",
-    "description": "Stray Kids「LeeKnow VLOG（大阪）」に登場した居酒屋。リノが訪問。おでんを注文。",
+    "description": "Stray Kidsのリノが大阪へのプライベート旅行のVLOGで「おでんのある店に来た」と話した難波の居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27105974/",
     "hotpepper_url": "",
@@ -65531,73 +65170,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "おでん"
-    ]
-  },
-  {
-    "id": "kpop_straykids-elk-",
-    "name": "elk エルク 心斎橋店",
-    "genre": "cafe",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区南船場3-12-21",
-    "lat": 34.6754885,
-    "lng": 135.506472,
-    "youtube_id": "",
-    "source_video_title": "MAMA 2022 楽屋・大阪滞在",
-    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
-    "visited_date": "",
-    "members": [
-      "バンチャン",
-      "フィリックス"
     ],
-    "groups": [
-      "kpop_straykids"
-    ],
-    "group": "kpop_straykids",
-    "nearest_station": "",
-    "description": "Stray Kids「MAMA 2022 楽屋・大阪滞在」に登場したカフェ。バンチャン・フィリックスが訪問。パンケーキを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "パンケーキ"
-    ]
-  },
-  {
-    "id": "kpop_straykids-7e49b046-",
-    "name": "うなぎの蒲の穂焼",
-    "genre": "washoku",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市福島区福島1-10-11",
-    "lat": 34.683921,
-    "lng": 135.5207869,
-    "youtube_id": "",
-    "source_video_title": "バンチャン Bubble投稿",
-    "source_url": "https://ameblo.jp/u-travel2/entry-12876132978.html",
-    "visited_date": "",
-    "members": [
-      "バンチャン"
-    ],
-    "groups": [
-      "kpop_straykids"
-    ],
-    "group": "kpop_straykids",
-    "nearest_station": "",
-    "description": "Stray Kids「バンチャン Bubble投稿」に登場した和食店。バンチャンが訪問。うな玉丼を注文。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27101583/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "うな玉丼"
-    ]
+    "visit_kind": "youtube",
+    "program": "Lee Know VLOG（大阪）",
+    "qa_note": "出典 ameblo u-travel2。店の特定はファンによる。"
   },
   {
     "id": "kpop_straykids-0aef9676-",
@@ -65626,13 +65202,16 @@
       "kpop_straykids"
     ],
     "group": "kpop_straykids",
-    "description": "Stray Kids「FANDOM TOUR」に登場した飲食店。バンチャン・リノらが訪問。",
+    "description": "Stray Kidsのメンバーが練習生の頃から通い、YouTubeの「FANDOM TOUR」でも紹介された旧JYP社屋近くのソウルの食堂。",
     "tags": [],
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "Stray Kids「FANDOM TOUR」",
+    "qa_note": "出典 creatrip.com。FANDOM TOUR に出たメンバー・全員の来店は個別には未確認。"
   },
   {
     "id": "kpop_straykids-e68cbd27-",
@@ -65657,7 +65236,7 @@
     ],
     "group": "kpop_straykids",
     "nearest_station": "",
-    "description": "Stray Kids「RACHA LOG Ep.02」に登場した焼肉店。バンチャン・ヒョンジンらが訪問。牛カルビを注文。",
+    "description": "Stray Kidsの「RACHA LOG Ep.02」でバンチャン・ヒョンジン・ハンが訪れたソウル芳荑洞の牛カルビ店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65667,7 +65246,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "牛カルビ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "RACHA LOG Ep.02",
+    "qa_note": "出典 creatrip.com。"
   },
   {
     "id": "kpop_lesserafim-pachamama_bakery-",
@@ -73942,13 +73524,15 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【本場インドカレー】葛西でカレー巡り！」（2018年10月）で5人で訪れたインドカレーの店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403223.html",
     "source_type": "youtube",
     "youtube_id": "WFaQ8FEhY5I",
     "source_video_url": "https://www.youtube.com/watch?v=WFaQ8FEhY5I",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001109795/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/96/P031775796/P031775796_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/96/P031775796/P031775796_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-415b341e-20191208",
@@ -73970,11 +73554,13 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・猪狩蒼弥がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの髙橋優斗・井上瑞稀・猪狩蒼弥がジュニアCHANNELの「【喜怒哀楽グルメ】気持ちは一緒！タイ料理食べたいだけなのに…」（2019年12月）で訪れた鎌倉のタイ料理店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403409.html",
     "source_type": "youtube",
     "youtube_id": "1WQ8RUDOYJg",
-    "source_video_url": "https://www.youtube.com/watch?v=1WQ8RUDOYJg"
+    "source_video_url": "https://www.youtube.com/watch?v=1WQ8RUDOYJg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-cd3eb07d-20191117",
@@ -73996,14 +73582,16 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・猪狩蒼弥がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの髙橋優斗・井上瑞稀・猪狩蒼弥がジュニアCHANNELの「【真ん中争奪】横浜中華街で値段予想バトル！」（2019年11月）で訪れた横浜中華街の中華料理店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403408.html",
     "source_type": "youtube",
     "youtube_id": "psMQKjGq3v0",
     "source_video_url": "https://www.youtube.com/watch?v=psMQKjGq3v0",
     "ordered_items": [
       "NEW北京ダック"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-cb639472-20200216",
@@ -74027,14 +73615,16 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【タピオカの次】賞味期限20分！のバナナジュースって？」（2020年2月）で5人で訪れたバナナジュース専門店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403409.html",
     "source_type": "youtube",
     "youtube_id": "VqworjxIMlE",
     "source_video_url": "https://www.youtube.com/watch?v=VqworjxIMlE",
     "ordered_items": [
       "バナナジュース"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-c809e5f7-20200301",
@@ -74058,7 +73648,7 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【オリジナル海鮮丼】間とり合戦で本気バトル！」（2020年3月）で5人で訪れた茨城県日立市の海鮮の店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403409.html",
     "source_type": "youtube",
     "youtube_id": "zupvBJujQzo",
@@ -74066,7 +73656,9 @@
     "ordered_items": [
       "海鮮丼",
       "浜焼き"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-d7d6b5a2-20220717",
@@ -74090,14 +73682,16 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【美味クレープ】少数派ゲームの心理戦で…本性が見えちゃった」（2022年7月）で5人で訪れた表参道ヒルズのカフェ。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851651660.html",
     "source_type": "youtube",
     "youtube_id": "yCPbMUwmmXU",
     "source_video_url": "https://www.youtube.com/watch?v=yCPbMUwmmXU",
     "ordered_items": [
       "クレープ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-9fbee1fa-20230212",
@@ -74121,7 +73715,7 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【たこ焼き500個】これはイケる!!」（2023年2月）で5人で訪れた大阪・築港のたこ焼き店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851651665.html",
     "source_type": "youtube",
     "youtube_id": "hqfYzm-YWwQ",
@@ -74130,7 +73724,9 @@
       "たこ焼き"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ001246402/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/76/P035629276/P035629276_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/76/P035629276/P035629276_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-2d155b64-20230312",
@@ -74154,7 +73750,7 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの大阪ロケの回「【バラエティは難しい…】欲と笑いの戦い!?」（2023年3月）で5人で訪れた串かつの店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851651666.html",
     "source_type": "youtube",
     "youtube_id": "1jelCIwJfYU",
@@ -74163,7 +73759,10 @@
       "創作串揚げ"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ004444767/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/72/38/P044947238/P044947238_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/72/38/P044947238/P044947238_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "出典のファンブログでは「【大阪観光フォトバトル】…疑惑の結末編」（2023年3月5日）にも同じ店が登場とある。"
   },
   {
     "id": "hihijets-d267a7c7-20230903",
@@ -74187,11 +73786,14 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【中華を５キロ食べろ!!】ぴったり食べまSHOW!!」（2023年9月）で5人で訪れた横浜中華街の中華料理店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393629.html",
     "source_type": "youtube",
     "youtube_id": "pfDHMRKOpfE",
-    "source_video_url": "https://www.youtube.com/watch?v=pfDHMRKOpfE"
+    "source_video_url": "https://www.youtube.com/watch?v=pfDHMRKOpfE",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "ファンブログの日付は2023年9月13日だが、データは2023-09-03（日曜更新）。日付は未確認。"
   },
   {
     "id": "hihijets-0b64927d-20240407",
@@ -74215,7 +73817,7 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【朝活ラーメン】煮干し系ってこんなに美味⁉️」（2024年4月）で5人で訪れた歌舞伎町のラーメン店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "gtTCuNTNCzY",
@@ -74224,7 +73826,10 @@
       "煮干しラーメン"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ001275718/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/22/P038045222/P038045222_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/52/22/P038045222/P038045222_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "ファンブログの日付は2024年4月27日だが、データは2024-04-07。日付は未確認。"
   },
   {
     "id": "hihijets-725b7744-20240623",
@@ -74248,14 +73853,17 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【豊洲でバイキング】５キロ食べまSHOW」（2024年6月）などのロケで5人で訪れた豊洲の温浴施設。館内のバイキングで食事をした。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "x5LVPbZI20o",
     "source_video_url": "https://www.youtube.com/watch?v=x5LVPbZI20o",
     "ordered_items": [
       "バイキング"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "飲食店ではなく温浴施設（館内のバイキングで食べた回）。ファンブログでは同じ施設の回が2024年6月9日・16日・23日の3本。"
   },
   {
     "id": "hihijets-72c09717-20241027",
@@ -74278,7 +73886,7 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がジュニアCHANNELの「【高級バイキングを食べ尽くせ】カニ祭りで…4人で6kg太れるか？」（2024年10月）で訪れた銀座の海鮮ビュッフェ。",
     "source_url": "https://kosodate-and.net/hihijets-kani-byuffe/",
     "source_type": "youtube",
     "youtube_id": "PfCrByAvfv0",
@@ -74287,7 +73895,10 @@
       "カニ"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ003693914/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/08/25/P043610825/P043610825_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/08/25/P043610825/P043610825_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "4人の名前は動画の概要欄で確認。店名は概要欄になくファンブログ（kosodate-and.net）による。"
   },
   {
     "id": "juniors-03050f2f-20240720",
@@ -91848,13 +91459,16 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "アロハがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「アロハチキンレース」（2026年10月）で撮影に使われた焼肉店。",
     "source_url": "https://kabtonakameguro.owst.jp/",
     "source_type": "youtube",
     "youtube_id": "4LMRjbZX5VQ",
     "source_video_url": "https://www.youtube.com/watch?v=4LMRjbZX5VQ",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001179684/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/81/P028046981/P028046981_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/81/P028046981/P028046981_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に撮影協力として記載。アロハ以外の出演メンバーは未確認。"
   },
   {
     "id": "chotokkyu-4b334226-20260925",
@@ -91874,11 +91488,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "ユーキがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「ユーキの徳島旅」（2026年9月）で、ユーキが訪れた徳島の和食店。",
     "source_url": "https://kora-honten.jp/store/tokushima/",
     "source_type": "youtube",
     "youtube_id": "ZsD20TlnazM",
-    "source_video_url": "https://www.youtube.com/watch?v=ZsD20TlnazM"
+    "source_video_url": "https://www.youtube.com/watch?v=ZsD20TlnazM",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄の撮影協力①。同じ回の撮影協力に中華そば 猪虎・リチャード（ハンバーガー）もある（未登録）。"
   },
   {
     "id": "chotokkyu-0c30c1ac-20260508",
@@ -91896,13 +91513,16 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「サシ飯」パロディ回（2026年5月）で撮影に使われた西麻布の焼肉店。",
     "source_url": "https://www.hotpepper.jp/strJ003596000/",
     "source_type": "youtube",
     "youtube_id": "PuOxLAUQaSU",
     "source_video_url": "https://www.youtube.com/watch?v=PuOxLAUQaSU",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003596000/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/00/P042324800/P042324800_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/00/P042324800/P042324800_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "タイトルは「二人で焼肉」。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-e83f1210-20260807",
@@ -91920,11 +91540,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の福岡編（2026年8月）で、ライブ前夜の食事会に使われた博多の水炊き店。",
     "source_url": "https://hakata-iroha.net/",
     "source_type": "youtube",
     "youtube_id": "3Dx9th9KGfo",
-    "source_video_url": "https://www.youtube.com/watch?v=3Dx9th9KGfo"
+    "source_video_url": "https://www.youtube.com/watch?v=3Dx9th9KGfo",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "タイトルは「2組に別れて行動」。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-78a57703-20260410",
@@ -91944,11 +91567,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "リョウガがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「リョウガ密着in福岡」（2026年4月）で撮影に使われた、あら鍋・クエ料理の店。",
     "source_url": "https://hakata-kanbe.jp/store/haruyoshi/",
     "source_type": "youtube",
     "youtube_id": "97jH0D3b9Vs",
-    "source_video_url": "https://www.youtube.com/watch?v=97jH0D3b9Vs"
+    "source_video_url": "https://www.youtube.com/watch?v=97jH0D3b9Vs",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に撮影協力として記載。"
   },
   {
     "id": "chotokkyu-5450d9d9-20260313",
@@ -91966,7 +91592,7 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の冬旅企画第4弾（2026年3月）で、メンバーがフカヒレと食べ放題対決をした横浜中華街の中華料理店。",
     "source_url": "https://www.hotpepper.jp/strJ000104769/",
     "source_type": "youtube",
     "youtube_id": "vhl9u31794c",
@@ -91975,7 +91601,10 @@
       "フカヒレ"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ000104769/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/45/P039891345/P039891345_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/45/P039891345/P039891345_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "タイトルに「全員集合」とあるが、出演メンバーを個別には確かめていないので空のまま。"
   },
   {
     "id": "chotokkyu-0fb0fb20-20260213",
@@ -91993,11 +91622,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」のマネージャー密着回（2026年2月、大阪〜大分）で撮影に使われた別府のカフェ。",
     "source_url": "https://www.mure-beppu.com/cafe/",
     "source_type": "youtube",
     "youtube_id": "Y_lfEl-H5gc",
-    "source_video_url": "https://www.youtube.com/watch?v=Y_lfEl-H5gc"
+    "source_video_url": "https://www.youtube.com/watch?v=Y_lfEl-H5gc",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄のハッシュタグは #ユーキ #タカシ #マサヒロ だが、カフェの場面に誰がいたかは未確認なので空のまま。"
   },
   {
     "id": "chotokkyu-60f7575a-20250822",
@@ -92015,11 +91647,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の伊東旅第2弾（2025年8月）で撮影に使われた、道の駅伊東マリンタウンの浜焼きの店。",
     "source_url": "https://ito-marinetown.co.jp/restaurant/izuhamayakihonpo/",
     "source_type": "youtube",
     "youtube_id": "DLqAkePdBF4",
-    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4"
+    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄の撮影協力①。チーム対決回。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-3c8f0272-20250822",
@@ -92037,11 +91672,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の伊東旅第2弾（2025年8月）で撮影に使われたカフェ。",
     "source_url": "https://www.youtube.com/watch?v=DLqAkePdBF4",
     "source_type": "youtube",
     "youtube_id": "DLqAkePdBF4",
-    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4"
+    "source_video_url": "https://www.youtube.com/watch?v=DLqAkePdBF4",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄の撮影協力②。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-13009b9f-20240913",
@@ -92059,7 +91697,7 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」（2024年9月）で、EBiDAN museumのあとに訪れたかき氷の店。",
     "source_url": "https://kanna-kakigori.jp/",
     "source_type": "youtube",
     "youtube_id": "tkGsUPabuN0",
@@ -92068,7 +91706,10 @@
       "かき氷"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ004444891/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/05/55/P049180555/P049180555_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/05/55/P049180555/P049180555_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に撮影協力として記載。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-6876a800-20240531",
@@ -92086,11 +91727,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」のNGワードゲーム回（2024年5月）で撮影に使われた回転寿司店。",
     "source_url": "https://www.kurasushi.co.jp/harajyuku/",
     "source_type": "youtube",
     "youtube_id": "hSRTKPlyEN8",
-    "source_video_url": "https://www.youtube.com/watch?v=hSRTKPlyEN8"
+    "source_video_url": "https://www.youtube.com/watch?v=hSRTKPlyEN8",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄の撮影協力のリンクが原宿店。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-1b866432-20230829",
@@ -92108,11 +91752,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」のVlog（2023年8月）で、メンバーが休みの日にランチに訪れた三浦海岸のレストラン。",
     "source_url": "https://www.youtube.com/watch?v=CjsZhcANcz0",
     "source_type": "youtube",
     "youtube_id": "CjsZhcANcz0",
-    "source_video_url": "https://www.youtube.com/watch?v=CjsZhcANcz0"
+    "source_video_url": "https://www.youtube.com/watch?v=CjsZhcANcz0",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に店名・住所あり。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-b7af9e44-20230818",
@@ -92133,13 +91780,16 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "タカシ・アロハがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」（2023年8月）で、タカシがアロハを連れて訪れたダイナー。",
     "source_url": "https://www.youtube.com/watch?v=e1rMsKUdRhw",
     "source_type": "youtube",
     "youtube_id": "e1rMsKUdRhw",
     "source_video_url": "https://www.youtube.com/watch?v=e1rMsKUdRhw",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000843806/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/01/P047699101/P047699101_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/01/P047699101/P047699101_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄で2人と店名・住所を確認。"
   },
   {
     "id": "chotokkyu-fc156cfc-20230728",
@@ -92160,14 +91810,17 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "ユーキ・マサヒロがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」のユーキ企画「かき氷食べたい！」（2023年7月）で、ユーキがマサヒロを連れて訪れた桜新町のかき氷店。",
     "source_url": "https://www.youtube.com/watch?v=9-5r3J-zVz8",
     "source_type": "youtube",
     "youtube_id": "9-5r3J-zVz8",
     "source_video_url": "https://www.youtube.com/watch?v=9-5r3J-zVz8",
     "ordered_items": [
       "かき氷"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄で2人と店名・住所を確認。"
   },
   {
     "id": "chotokkyu-e4d80f21-20230414",
@@ -92185,11 +91838,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の初のメンバー旅行「超旅」（2023年4月）で、ランチに訪れた厚木のレストラン。",
     "source_url": "http://cafe-restaurant-bengal.com/",
     "source_type": "youtube",
     "youtube_id": "yQAd-PGuEhE",
-    "source_video_url": "https://www.youtube.com/watch?v=yQAd-PGuEhE"
+    "source_video_url": "https://www.youtube.com/watch?v=yQAd-PGuEhE",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に店名・住所あり。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "chotokkyu-a4121ca1-20230217",
@@ -92211,7 +91867,7 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "タカシ・マサヒロ・ハルがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」（2023年2月）で、タカシがマサヒロ・ハルを連れて少年時代から通っていたオムライスの店を訪れた回の洋食店。",
     "source_url": "https://www.hotpepper.jp/strJ000109256/",
     "source_type": "youtube",
     "youtube_id": "yBxVQElayEQ",
@@ -92220,7 +91876,10 @@
       "オムライス"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ000109256/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/14/P037352214/P037352214_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/22/14/P037352214/P037352214_238.jpg",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄で3人と店を確認。"
   },
   {
     "id": "chotokkyu-ee0ba1e9-20220916",
@@ -92241,14 +91900,17 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "タクヤ・ユーキがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」第3弾（2022年9月）で、ユーキがタクヤを連れてかき氷を食べに訪れたカフェ。",
     "source_url": "https://www.youtube.com/watch?v=zpgfSd8b0Ko",
     "source_type": "youtube",
     "youtube_id": "zpgfSd8b0Ko",
     "source_video_url": "https://www.youtube.com/watch?v=zpgfSd8b0Ko",
     "ordered_items": [
       "かき氷"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄で2人と店名・住所を確認。"
   },
   {
     "id": "chotokkyu-ed3e3827-20220819",
@@ -92269,11 +91931,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "タカシ・リョウガがYouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」第2弾（2022年8月）で、タカシとリョウガが訪れた南麻布の店。",
     "source_url": "https://www.youtube.com/watch?v=9eNctRYe4Kw",
     "source_type": "youtube",
     "youtube_id": "9eNctRYe4Kw",
-    "source_video_url": "https://www.youtube.com/watch?v=9eNctRYe4Kw"
+    "source_video_url": "https://www.youtube.com/watch?v=9eNctRYe4Kw",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄で店名・住所を確認。花屋とカフェの併設店。"
   },
   {
     "id": "chotokkyu-b170c172-20220617",
@@ -92291,11 +91956,14 @@
       "chotokkyu"
     ],
     "group": "chotokkyu",
-    "description": "YouTubeの動画で訪れたお店。",
+    "description": "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」第1弾（2022年6月）で、アイスコーヒーを飲みに訪れたコーヒー店。",
     "source_url": "https://www.youtube.com/watch?v=TmA_UphBDKc",
     "source_type": "youtube",
     "youtube_id": "TmA_UphBDKc",
-    "source_video_url": "https://www.youtube.com/watch?v=TmA_UphBDKc"
+    "source_video_url": "https://www.youtube.com/watch?v=TmA_UphBDKc",
+    "visit_kind": "youtube",
+    "program": "超チューバー（超特急公式YouTube）",
+    "qa_note": "概要欄に店名・住所あり。概要欄の撮影協力で店は確認。出ているメンバーは概要欄・タイトルから確かめられず空のまま（動画で要確認）。"
   },
   {
     "id": "befirst-fe0e4d77-20241115",
@@ -126411,11 +126079,13 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【回転寿司で大食い企画】100皿食い尽くせ〜」（2023年12月）で5人で訪れた回転寿司店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "Hn3kvz9l4jI",
-    "source_video_url": "https://www.youtube.com/watch?v=Hn3kvz9l4jI"
+    "source_video_url": "https://www.youtube.com/watch?v=Hn3kvz9l4jI",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-4822ccb7-20240211",
@@ -126436,14 +126106,16 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "井上瑞稀・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの井上瑞稀・作間龍斗がジュニアCHANNELの「【朝活カフェ巡り】清澄白河はオシャレタウン」（2024年2月）で訪れたカフェ。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "ynoklTykQiQ",
     "source_video_url": "https://www.youtube.com/watch?v=ynoklTykQiQ",
     "ordered_items": [
       "コーヒー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-19eeb329-20240211",
@@ -126464,11 +126136,13 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "井上瑞稀・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの井上瑞稀・作間龍斗がジュニアCHANNELの「【朝活カフェ巡り】清澄白河はオシャレタウン」（2024年2月）で訪れた門前仲町のカフェ。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "ynoklTykQiQ",
-    "source_video_url": "https://www.youtube.com/watch?v=ynoklTykQiQ"
+    "source_video_url": "https://www.youtube.com/watch?v=ynoklTykQiQ",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-3bb3a601-20240218",
@@ -126490,11 +126164,14 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・橋本涼・猪狩蒼弥がYouTubeの動画で訪れたお店。",
+    "description": "HiHi Jetsの髙橋優斗・橋本涼・猪狩蒼弥がジュニアCHANNELの「【朝活カフェ巡り完結編in清澄白河】緑の藤井茶葉登場に…爆笑」（2024年2月）で訪れたカフェ。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "IZFpp5uEeBU",
-    "source_video_url": "https://www.youtube.com/watch?v=IZFpp5uEeBU"
+    "source_video_url": "https://www.youtube.com/watch?v=IZFpp5uEeBU",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "ファンブログでの店名表記は「tei」。"
   },
   {
     "id": "hihijets-0ce13172-20240519",
@@ -126518,14 +126195,16 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【千客万来】豊洲の人気スポットを食い尽くせ！」（2024年5月）で5人で訪れた豊洲千客万来の店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "JuzfoQCNxHg",
     "source_video_url": "https://www.youtube.com/watch?v=JuzfoQCNxHg",
     "ordered_items": [
       "炉端焼き"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "hihijets-2adf2f8b-20240519",
@@ -126549,11 +126228,13 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【千客万来】豊洲の人気スポットを食い尽くせ！」（2024年5月）で5人で訪れた豊洲千客万来のシーフードバーガーの店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12852393633.html",
     "source_type": "youtube",
     "youtube_id": "JuzfoQCNxHg",
-    "source_video_url": "https://www.youtube.com/watch?v=JuzfoQCNxHg"
+    "source_video_url": "https://www.youtube.com/watch?v=JuzfoQCNxHg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）"
   },
   {
     "id": "sevenmen_samurai-72791f81-20240126",
@@ -134072,7 +133753,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -134097,7 +133779,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -134122,7 +133805,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -135339,7 +135023,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -135364,7 +135049,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -135392,7 +135078,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -136682,7 +136369,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -136707,7 +136395,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -136733,7 +136422,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -138031,7 +137721,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -138056,7 +137747,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -138081,7 +137773,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -139431,7 +139124,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -139456,7 +139150,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -140659,7 +140354,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -140684,7 +140380,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -141656,7 +141353,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -141681,7 +141379,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -141706,7 +141405,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -143318,7 +143018,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -143343,7 +143044,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -144280,7 +143982,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -144305,7 +144008,8 @@
       "横尾渉"
     ],
     "groups": [
-      "burari"
+      "burari",
+      "kismai"
     ],
     "group": "burari",
     "description": "横尾渉が『ぶらり途中下車の旅』で訪れたお店。",
@@ -169181,7 +168885,8 @@
       "藤ヶ谷太輔"
     ],
     "groups": [
-      "jinsei_saiko"
+      "jinsei_saiko",
+      "kismai"
     ],
     "group": "jinsei_saiko",
     "description": "藤ヶ谷太輔が『人生最高レストラン』で紹介したお店。",
@@ -170443,11 +170148,14 @@
       "hihijets"
     ],
     "group": "hihijets",
-    "description": "髙橋優斗・井上瑞稀・橋本涼・猪狩蒼弥・作間龍斗がYouTubeの動画で訪れたお店。",
+    "description": "HiHi JetsがジュニアCHANNELの「【ガチ対決】激旨ラーメンを食すのは誰!?」（2019年7月）で5人で訪れたラーメンのテーマパーク。",
     "source_url": "https://ameblo.jp/rrayd/entry-12851403403.html",
     "source_type": "youtube",
     "youtube_id": "QqTb6zUuOQk",
-    "source_video_url": "https://www.youtube.com/watch?v=QqTb6zUuOQk"
+    "source_video_url": "https://www.youtube.com/watch?v=QqTb6zUuOQk",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（HiHi Jets）",
+    "qa_note": "館内のどの店で食べたかは出典に書かれていない（施設として登録）。"
   },
   {
     "id": "otonatabi-a71c239e-20261003",
@@ -201113,7 +200821,8 @@
       "横山裕"
     ],
     "groups": [
-      "gochi"
+      "gochi",
+      "kanjani"
     ],
     "group": "gochi",
     "description": "白石麻衣・小芝風花・せいや・矢部浩之・ムロツヨシ・岡村隆史・高橋文哉・増田貴久・横山裕が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
@@ -207679,7 +207388,8 @@
       "猪狩蒼弥"
     ],
     "groups": [
-      "zip"
+      "zip",
+      "hihijets"
     ],
     "group": "zip",
     "description": "猪狩蒼弥が『ZIP!』で訪れたお店。",
@@ -207706,7 +207416,8 @@
       "猪狩蒼弥"
     ],
     "groups": [
-      "zip"
+      "zip",
+      "hihijets"
     ],
     "group": "zip",
     "description": "猪狩蒼弥が『ZIP!』で訪れたお店。",
@@ -207731,7 +207442,8 @@
       "猪狩蒼弥"
     ],
     "groups": [
-      "zip"
+      "zip",
+      "hihijets"
     ],
     "group": "zip",
     "description": "猪狩蒼弥が『ZIP!』で訪れたお店。",
