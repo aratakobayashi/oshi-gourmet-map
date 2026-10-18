@@ -668,7 +668,7 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事96軒、ラーメン43軒、スイーツ29軒、カフェ25軒、居酒屋10軒、その他10軒、中華8軒、和食4軒、焼肉3軒。東京都内は港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒、世田谷区・新宿区が12軒ずつ、目黒区10軒、杉並区8軒、台東区7軒、豊島区6軒、品川区5軒、墨田区3軒など。東京の外は横浜市13軒、大阪市4軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の227軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。場所は確認に使った資料の住所で数えています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事96軒、ラーメン43軒、スイーツ29軒、カフェ25軒、居酒屋10軒、その他10軒、中華8軒、和食4軒、焼肉3軒。東京都内は港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒、世田谷区・新宿区が12軒ずつ、目黒区10軒、杉並区8軒、台東区7軒、豊島区6軒、品川区5軒、墨田区3軒など。東京の外は横浜市13軒、大阪市4軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の228軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。場所は確認に使った資料の住所で数えています）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
 <figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区27軒、渋谷区27軒、千代田区18軒、中央区16軒、世田谷区12軒など。23区の外は神奈川県17軒、東京の市部・島8軒、千葉県3軒、そのほかの道府県34軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
