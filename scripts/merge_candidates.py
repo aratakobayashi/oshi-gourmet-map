@@ -95,6 +95,9 @@ for x in d.get('new', []):
         verb = '紹介した' if x.get('relation') == 'guest_favorite' else '訪れた'  # ゲストが番組で挙げた店（人生最高レストランなど）
         s['description'] = (f"{mem}が" if mem else '') + f"『{x.get('program') or x['source_video_title']}』で{verb}お店。"
     if x.get('ordered_items'): s['ordered_items'] = x['ordered_items']
+    if x.get('description'): s['description'] = x['description']  # 情報源が書いた説明（回・コーナーの事実）を優先
+    for k in ('visit_kind', 'program', 'hotpepper_photo'):
+        if x.get(k): s[k] = x[k]
     m = re.match(r'https://tabelog\.com/[a-z]+/A\d+/A\d+/\d+/', x.get('tabelog_url') or '')
     if m and x.get('tabelog_verified'):  # 番組公式ページが載せている食べログの店ページ（食べログにはアクセスしない）
         s['tabelog_url'] = m.group(0); s['tabelog_verified'] = True

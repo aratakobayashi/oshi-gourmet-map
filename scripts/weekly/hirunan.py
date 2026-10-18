@@ -40,7 +40,7 @@ ROOT = os.path.dirname(os.path.dirname(HERE))
 _M = [
     ('heysayjump', '山田涼介 知念侑李 中島裕翔 有岡大貴 髙木雄也 伊野尾慧 八乙女光 薮宏太', '', ''),
     ('kanjani', '横山裕 村上信五 丸山隆平 安田章大 大倉忠義', '', ''),  # 関ジャニ∞ → SUPER EIGHT（2024-02）も同じID
-    ('sixtones', 'ジェシー 京本大我 松村北斗 髙地優吾 森本慎太郎 田中樹', '', ''),
+    ('sixtones', 'ジェシー 京本大我 松村北斗 髙地優吾 森本慎太郎 田中樹', '2015-05-01', ''),
     ('snowman', '岩本照 深澤辰哉 ラウール 渡辺翔太 向井康二 阿部亮平 目黒蓮 宮舘涼太 佐久間大介', '', ''),
     ('west', '重岡大毅 桐山照史 中間淳太 神山智洋 藤井流星 濵田崇裕 小瀧望', '', ''),
     ('naniwa', '西畑大吾 大西流星 道枝駿佑 高橋恭平 長尾謙杜 藤原丈一郎 大橋和也', '', ''),
@@ -178,12 +178,14 @@ NOT_SHOP_HEAD = r'(材料|プレゼント|作り方|レシピ|乗車券|バス$|
 STUDIO = r'行きつけでSHOW|スタジオ試食|スタジオで試食|スタジオに|お取り寄せ|通販|コンビニ|チェーン店|ファミレス|冷凍食品|スーパー|業務スーパー|コストコ|ドンキ|100均|ダイソー|セリア|無印良品|カルディ|ニトリ|IKEA|イケア|ふるさと納税|ご当地うますぎ|クッキング|レシピ|リフォーム'
 # 店名でない・飲食店でないもの（ホットペッパーに聞く前に外す）
 FACILITY = (r'公園|神社|神宮|大社|八幡宮|寺$|寺院|院$|城$|城跡|美術館|博物館|ミュージアム|記念館|資料館|水族館|動物園|植物園|遊園地|ゆうえんち|ランド$|パーク|'
-            r'温泉$|湯$|旅館|ホテル|リゾート|空港|駅$|港$|海岸|海水浴場|展望台|タワー$|ロープウェイ|ケーブルカー|フェリー|クルーズ|遊覧船|乗り場|'
+            r'温泉$|湯$|旅館|ホテル|HOTEL|リゾート|空港|駅$|港$|海岸|海水浴場|展望台|タワー$|ロープウェイ|ケーブルカー|フェリー|クルーズ|遊覧船|乗り場|'
             r'商店街|通り$|横丁$|市場$|朝市|道の駅|アウトレット|モール|百貨店|ショッピングセンター|SA$|PA$|サービスエリア|パーキングエリア|'
             r'農園|牧場|ファーム|果樹園|ぶどう園|いちご園|酒造|醸造|蒸溜|蒸留|ワイナリー|工房|工場|体験|教室|スタジオ|サロン|ショップ|ストア|'
             r'雑貨|書店|本屋|洋服|古着|POPUP|ポップアップ|キッチンカー|移動販売|ガラス|陶芸|染め|物産|土産|みやげ|直売所|売店|銭湯|サウナ|桑拿|'
+            r'園$|Pasar|パサール|ハウステンボス|ディズニー|USJ|ユニバーサル|ロフト|LOFT|高島屋|松坂屋|三越|伊勢丹|大丸|そごう|西武$|パルコ|PARCO|ルミネ|イオン|ららぽーと|'
             r'バス$|鉄道|列車|電車|観光|案内所|センター$|会館$|ホール$|プール|キャンプ場|グランピング')
 MARK = r'^[■●◼◆▼▽★☆○◎・◇□▶︎▷\-‐]+\s*(.+)$'
+TAKEOUT = r'弁当|テイクアウト|持ち帰り|お土産|手土産|通販|お取り寄せ|販売予定|箱入り|袋入り'
 PRICE = r'\d[\d,]*\s*円|時価|円~|円〜|\d+円|価格|税込|税別'
 
 
@@ -243,13 +245,25 @@ def _cast1(seg, ci):
 
 
 def cast_names(t):
+    """出演者の文字 → 名前の並び。「・、」で区切られた行は空白を名前の中の空白とみなす（「久本 雅美」）"""
     t = re.sub(r'[(（][^()（）]*[)）]', '', nz(t))
     names = []
-    for x in re.split(r'[・、,，/／\n&＆]|\s{1,}', t):
-        x = x.strip(' ・●-')
-        if x and len(x) <= 14 and not re.search(r'さん$|ほか|など', x):
-            names.append(x)
-    # 「チョコレートプラネット 長田庄平」などで空白が入る名前があるので、STARTO の名前は正式表記で入れ直す
+    for line in t.split('\n'):
+        line = re.sub(r'^[^:：]{1,8}[:：]', '', line.strip(' ▼▽●■・-'))  # 「ゲスト:」「マドンナ:」
+        if re.search(r'[・、,，/／&＆]', line):
+            parts = [re.sub(r'\s+', '', x) for x in re.split(r'[・、,，/／&＆]', line)]
+        else:
+            toks = line.split()
+            parts = []
+            for x in toks:  # 「久本 雅美」のように2文字ずつに分かれた名前はつなぐ
+                if parts and len(parts[-1]) <= 2 and len(x) <= 3 and re.fullmatch(r'[\u4e00-\u9fff々]+', parts[-1] + x):
+                    parts[-1] += x
+                else:
+                    parts.append(x)
+        for x in parts:
+            x = x.strip(' ・●-▼▽')
+            if x and len(x) <= 14 and not re.search(r'さん$|ほか|など|チーム$|曜日?$', x):
+                names.append(x)
     return names
 
 
@@ -281,7 +295,7 @@ def shop_names(seg):
             block.append(l)
             j += 1
         bracket = [b for b in block if re.match(r'^(\[\[)*\s*【[^【】]{1,40}】\s*(\]\])*$', b)]
-        for b in block:
+        for bi, b in enumerate(block):
             p = plain(b)
             if not p:
                 continue
@@ -303,7 +317,13 @@ def shop_names(seg):
                     or re.match(r'^(北海道|東京都|京都府|大阪府|.{2,3}県)', nm) or nm.endswith(('!', '?'))
                     or re.search(r'\.\.\.|・・・|…|ヒルナンデス|テーマ|\d駅目|^\d+[.、]', nm)):
                 continue
-            res.append((nm, header))
+            detail = []  # 店名の下の行（次の店名まで）
+            for b2 in block[bi + 1:bi + 12]:
+                p2 = plain(b2)
+                if (re.match(r'^【[^【】]+】$', p2) if bracket else (re.match(MARK, p2) and not re.search(PRICE, p2))):
+                    break
+                detail.append(p2)
+            res.append((nm, header, '\n'.join(detail)))
         i = j
     return res
 
@@ -395,9 +415,23 @@ def resolve(name, area_text):
         return ea[0], 'high', ''
     if len(ea) > 1:
         return None, '', f'同じ名前の店が地域に{len(ea)}軒'
+    # 名前の一部が一致: ホットペッパーの店名が載っている名前で始まる（「翠雲」→「翠雲 上野店」）か、
+    # 載っている名前がホットペッパーの店名で終わる（「日本料理 よつ谷」→「よつ谷」）ものだけ。
+    # 「横浜赤レンガ倉庫」→「クアアイナ 横浜赤レンガ倉庫店」のような、施設の中の別の店を拾わないため
     wb = norm_name(base) if base else want
-    part = [s for s in shops if (want in norm_name(s['name']) or norm_name(s['name']) in want or (len(wb) >= 3 and wb in norm_name(s['name'])))
-            and len(norm_name(s['name'])) >= 2]
+
+    def near(s):
+        h = norm_name(s['name'])
+        if len(h) < 2:
+            return False
+        if (len(want) >= 2 and h.startswith(want)) or (len(wb) >= 3 and h.startswith(wb)):
+            rest = nz(s['name'])  # 店名の残り（支店名）に、コーナーに出てこない地名があれば別の店
+            for w in (name, base):
+                rest = rest.replace(w, '') if w else rest
+            places = re.findall(r'[\u4e00-\u9fff々ヶ]{2,}', re.sub(r'(本店|支店|店)$', '', rest.strip()))
+            return all(p in at for p in places)
+        return len(h) >= 3 and want.endswith(h)
+    part = [s for s in shops if near(s)]
     pa = [s for s in part if in_area(s)]
     if len(pa) == 1:
         return pa[0], 'mid', ''
@@ -434,7 +468,8 @@ def process(arts, since, until, log):
         for ctitle, seg, ci in split_corners(lines):
             cast = cast_text(seg, ci)
             hit, miss = starto_in(cast, date)
-            label = ctitle or title[:30]
+            label = ctitle or re.split(r'★|」「', re.sub(r'^.*?ヒルナンデス[!！]\s*(は)?[・.…\s]*', '', title).strip('★「」 '))[0][:40] or 'ヒルナンデス!'
+            label = label.strip('◎★ ')
             for nm, why in miss:
                 skipped.append((f'メンバーが対象外: {why}', f'{nm}（{date} {label}）'))
             if not hit:
@@ -456,21 +491,28 @@ def process(arts, since, until, log):
                 continue
             shops = shop_names(seg)
             if not shops:  # 見出しなしで、出演者の下に記号つきの店名が並ぶ回
-                shops = [(m.group(1), '') for l in seg[max(ci) + 1:] for m in [re.match(MARK, plain(l))] if m and not HEAD.match(l)]
-                shops = [(n, h) for n, h in shops if not re.search(PRICE, n) and len(n) <= 40 and '。' not in n]
+                shops = [(m.group(1), '', '') for l in seg[max(ci) + 1:] for m in [re.match(MARK, plain(l))] if m and not HEAD.match(l)]
+                shops = [x for x in shops if not re.search(PRICE, x[0]) and len(x[0]) <= 40 and '。' not in x[0]]
             if not shops:
                 skipped.append(('店の見出しがない（ロケ先なし・書式が違う）', f'{label}（{date}）'))
                 continue
             starto_all = [nm for v in groups.values() for nm in v]
-            others = [x for x in cast_names(cast) if not any(_k(x) in _k(s) or _k(s) in _k(x) for s in starto_all)]
-            area_text = title + '\n' + ctitle + '\n' + ctext
+            others = []
+            for x in cast_names(cast):  # 同じコーナーのほかの出演者（ほかのグループの STARTO のメンバーも）
+                if not any(_k(x) in _k(s) or _k(s) in _k(x) for s in starto_all + others):
+                    others.append(x)
+            others = [nm for nm in starto_all] + others
+            area_text = (ctitle or title) + '\n' + ctext  # 記事の題には別のコーナーの地名も入るので使わない
             done = set()
-            for raw, header in shops:
+            for raw, header, detail in shops:
                 nm = clean_name(raw)
                 if not nm or nm in done:
                     continue
                 done.add(nm)
-                if re.search(FACILITY, nm):
+                if re.search(TAKEOUT, detail):
+                    skipped.append(('持ち帰り・物販の紹介（その場で食べたか分からない）', f'{nm}（{date} {label}）'))
+                    continue
+                if re.search(FACILITY, nm, re.I):
                     skipped.append(('飲食店でない（施設・物販など）', f'{nm}（{date} {label}）'))
                     continue
                 try:
@@ -486,7 +528,7 @@ def process(arts, since, until, log):
                 y, mo, dd = date.split('-')
                 for g, mem in groups.items():
                     members = mem + [o for o in others if o not in mem]
-                    gl = GROUP_NAMES.get(g, g)
+                    gl = 'SUPER EIGHT' if g == 'kanjani' and date >= '2024-02-04' else GROUP_NAMES.get(g, g)
                     who = '・'.join(mem)
                     kind = {'shokuji': '', 'others': ''}.get(genre, GENRE_LABEL.get(genre, ''))
                     desc = f'{gl}の{who}が『{PROGRAM}』の「{label}」（{int(y)}年{int(mo)}月{int(dd)}日放送）で訪れた{kind + "の" if kind else ""}店。'
@@ -512,6 +554,9 @@ def collect(cfg, state, log):
     last = state.get('last_date') or days_before(today(), 30)
     since = days_before(last, cfg.get('lookback_days', 14))
     new, skipped, newest = process(load_articles(), since, today(), log)
+    # 週1回の自動更新では、地域の中で名前が完全に一致した店（high）だけを足す。一部一致（mid）は別の支店を拾うことがあるので見送り
+    skipped += [('名前が一部一致だけ（別の支店のおそれ）', f"{r['listed_name']} → {r['hotpepper_name']}") for r in new if r['confidence'] != 'high']
+    new = [r for r in new if r['confidence'] == 'high']
     return {'new': new, 'skipped': skipped, 'state': {'last_date': max(newest, last)}}
 
 
