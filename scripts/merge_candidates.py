@@ -58,6 +58,17 @@ for x in d.get('new', []):
     elif not g: why = 'no-group'
     elif key(x) in names.get(g, set()): why = 'dup-name'
     if why: skipped.append(dict(why=why, name=x['name'], group=g, detail='')); continue
+    # 同じ名前・住所の店がほかのグループにある（同じ回の番組グループとアイドルのグループなど）→ 新しい店にせず、グループとメンバーを付ける
+    same = [s0 for s0 in shops if n(s0['name']).lower() == n(x['name']).lower() and n(first(s0.get('address')))[:14] == n(first(x['address']))[:14]]
+    if same:
+        s0 = same[0]; gs = s0.get('groups') or [s0['group']]
+        if g not in gs: gs.append(g)
+        s0['groups'] = gs
+        for m in x.get('members') or []:
+            if m not in s0.setdefault('members', []): s0['members'].append(m)
+        names.setdefault(g, set()).add(key(x)); attached += 1
+        print('  = グループを付けた', g, s0['id'], s0['name'])
+        continue
     addr = x['address']
     q = urllib.parse.quote(re.split(r'[\s　]', addr)[0])
     try:
@@ -111,7 +122,7 @@ for a in d.get('attach', []):
     s['youtube_id'] = a['youtube_id']; s['source_video_url'] = 'https://www.youtube.com/watch?v=' + a['youtube_id']
     if a.get('source_video_title'): s['source_video_title'] = a['source_video_title']
     attached += 1
-print(f'追加 {len(added)} / 動画を付けた {attached} / 見送り {len(skipped)}')
+print(f'追加 {len(added)} / 動画・グループを付けた {attached} / 見送り {len(skipped)}')
 for s in added: print('  +', s['name'], '|', s['address'])
 for k in skipped: print('  -', k['why'], k['name'] + (' / ' + k['detail'] if k['detail'] else ''))
 if '--report' in sys.argv:  # scripts/weekly/run.py が Summary に使う

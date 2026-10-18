@@ -384,8 +384,9 @@ def area_words(s):
     return {x for x in w if len(x) >= 2 and x not in ('その他', '東京', '大阪', '駅前', '中央', '本町', '栄町', '駅')}
 
 
-def resolve(name, area_text):
-    """→ (shop, confidence, 理由)"""
+def resolve(name, area_text, ok=None, area_kw=''):
+    """→ (shop, confidence, 理由)。ok: ホットペッパーの店を先にしぼる関数（都道府県など）。
+    area_kw: 名前の検索が100件で頭打ちのとき、「店名 地名」でも探す（よくある店名で地域の店が漏れないように）"""
     want = norm_name(name)
     if len(want) < 2:
         return None, '', '店名が短すぎる'
@@ -397,8 +398,11 @@ def resolve(name, area_text):
         kws.append(max(name.split(' '), key=len))
     seen, shops = set(), []
     for kw in kws:
-        for s in hp_search(kw):
-            if s['id'] not in seen:
+        res = hp_search(kw)
+        if len(res) >= 100 and area_kw:
+            res = res + hp_search(f'{kw} {area_kw}')
+        for s in res:
+            if s['id'] not in seen and (ok is None or ok(s)):
                 seen.add(s['id'])
                 shops.append(s)
         if shops:
