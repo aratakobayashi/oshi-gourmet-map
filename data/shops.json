@@ -95302,8 +95302,8 @@
     "name": "大提灯",
     "genre": "izakaya",
     "prefecture": "東京都",
-    "city": " 豊島区",
-    "address": "東京都 豊島区南大塚2-44-5 大塚シティーホテル1F",
+    "city": "豊島区",
+    "address": "東京都豊島区南大塚2-44-5 大塚シティーホテル1F",
     "lat": 35.689503,
     "lng": 139.691727,
     "source_video_title": "吉田類の酒場放浪記 #132 大塚「大提灯」（2006-05-02 BS-TBS）",
@@ -95812,7 +95812,7 @@
     "genre": "izakaya",
     "prefecture": "東京都",
     "city": "港区",
-    "address": "東京都港区区三田2-16-8",
+    "address": "東京都港区三田2-16-8",
     "lat": 35.658054,
     "lng": 139.751663,
     "source_video_title": "吉田類の酒場放浪記 #151 田町「津国屋」（2006-09-04 BS-TBS）",
@@ -99124,31 +99124,6 @@
     "address": "東京都文京区小石川1-9-6",
     "lat": 35.711197,
     "lng": 139.751694,
-    "source_video_title": "吉田類の酒場放浪記 #285 後楽園「遠州屋」（2009-01-24 BS-TBS）",
-    "visited_date": "2009-01-24",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/285.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "sakaba_horoki-ecde5967-20090124",
-    "name": "源覚寺（こんにゃくえんま）",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区小石川2-23-14",
-    "lat": 35.710884,
-    "lng": 139.751541,
     "source_video_title": "吉田類の酒場放浪記 #285 後楽園「遠州屋」（2009-01-24 BS-TBS）",
     "visited_date": "2009-01-24",
     "members": [
@@ -103932,31 +103907,6 @@
     "address": "東京都千代田区神田駿河台2-4-8",
     "lat": 35.699505,
     "lng": 139.76358,
-    "source_video_title": "吉田類の酒場放浪記 #477 御茶ノ水「大衆酒場徳兵衛」（2012-04-16 BS-TBS）",
-    "visited_date": "2012-04-16",
-    "members": [
-      "吉田類"
-    ],
-    "groups": [
-      "sakaba_horoki"
-    ],
-    "group": "sakaba_horoki",
-    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
-    "source_url": "https://bs.tbs.co.jp/sakaba/shop/477.html",
-    "source_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
-    "tmdb_id": 227203,
-    "tmdb_type": "tv"
-  },
-  {
-    "id": "sakaba_horoki-0cde8522-20120416",
-    "name": "お茶の水 おりがみ会館",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "文京区",
-    "address": "東京都文京区湯島1-7-14",
-    "lat": 35.702946,
-    "lng": 139.765488,
     "source_video_title": "吉田類の酒場放浪記 #477 御茶ノ水「大衆酒場徳兵衛」（2012-04-16 BS-TBS）",
     "visited_date": "2012-04-16",
     "members": [
@@ -163705,7 +163655,7 @@
     "name": "旭川成吉思汗 大黒屋 旭川5丁目店",
     "genre": "yakiniku",
     "prefecture": "北海道",
-    "city": " 旭川市",
+    "city": "旭川市",
     "address": "北海道 旭川市4条通5丁目3・4仲通",
     "lat": 43.064323,
     "lng": 141.346878,
