@@ -64,6 +64,8 @@ def init_state():
         'burari': {'last_date': last('burari')},
         'syokusai': {'last_date': last('syokusai')},
         'omouma': {'last_date': last('omouma')},
+        'hirunan': {'last_date': max((s.get('visited_date') or '' for s in shops if '/hirunan/articles/' in (s.get('source_url') or '')),
+                                     default=today())},
         'youtube': {},
     }
     src = load(SOURCES, {'sources': []})
