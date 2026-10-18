@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
-description: "あの頃からわたしたちは【Sexy松 ロケ地】レストランはどこ？松島聡×松田元太×松倉海斗で紹介されたカフェ「MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "日本テレビ『あの頃からわたしたちは』（2025年3月9日放送）で、かつての「Sexy松」の松田元太・松倉海斗が松島聡と同窓会をした六本木のレストラン。"
 shop_id: "travisjapan-mercer_brunch_roppon-"
 name: "MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）"
 genre: "cafe"
@@ -13,15 +13,12 @@ source_url: "https://kosodate-and.net/anokoro-sexysho-restaurant"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13149710/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
+visit_kind: "guest_tv"
+program: "あの頃からわたしたちは"
 lat: 35.66480723791056
 lng: 139.73338198307994
 members:
   - "松田元太"
-  - "川島如恵留"
-  - "中村海人"
-  - "宮近海斗"
-  - "七五三掛龍也"
-  - "吉澤閑也"
   - "松倉海斗"
 groups:
   - "travisjapan"

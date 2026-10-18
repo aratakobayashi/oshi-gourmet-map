@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「鍋ぞう 浅草雷門店」"
-description: "スンミン Instagramで紹介された食事「鍋ぞう 浅草雷門店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "Stray KidsのスンミンがInstagramに「りょこう.」と載せた写真に写っていた浅草のしゃぶしゃぶ・すき焼きの店。"
 shop_id: "kpop_straykids-e604ee36-"
 name: "鍋ぞう 浅草雷門店"
 genre: "shokuji"
@@ -12,6 +12,8 @@ source_video_title: "スンミン Instagram"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13019010/"
+visit_kind: "other"
+program: "スンミン Instagram"
 lat: 35.7111333
 lng: 139.7963683
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "二代目蝦夷"
-description: "気になるマン【藤ヶ谷太輔】中華料理店はどこ？川越のデカ盛り町中華「二代目蝦夷」で紹介された食事「二代目蝦夷」（埼玉県川越市）。推し活グルメ巡礼スポット。"
+description: "冠番組『サンド&キスマイの気になるマン』（2026年4月6日放送の初回）で、Kis-My-Ft2の藤ヶ谷太輔が人生初のアルバイトに挑戦した川越の町中華。"
 shop_id: "kismai-bf42a39b-"
 name: "二代目蝦夷"
 genre: "shokuji"
@@ -13,16 +13,12 @@ source_url: "https://kosodate-and.net/kininaru-fujigaya-chinese"
 group: "kismai"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11024045/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg"
+visit_kind: "own_tv"
+program: "サンド&キスマイの気になるマン"
 lat: 35.937843448448135
 lng: 139.43702846720734
 members:
-  - "玉森裕太"
   - "藤ヶ谷太輔"
-  - "二階堂高嗣"
-  - "宮田俊哉"
-  - "北山宏光"
-  - "千賀健永"
-  - "横尾渉"
 groups:
   - "kismai"
 ---

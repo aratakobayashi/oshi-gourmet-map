@@ -1,11 +1,11 @@
 ---
-title: "SMAPのグルメ聖地巡礼｜行ったお店（そのほか）9選"
-description: "SMAPのメンバーが実際に訪れたその他スポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SMAPのグルメ聖地巡礼｜行ったお店（そのほか）5選"
+description: "SMAPのメンバーが実際に訪れたその他スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: smap
 genre: others
 group_label: "SMAP"
 slug_id: smap-others
-shop_count: 9
+shop_count: 5
 thumbnail_url: "https://image.tmdb.org/t/p/w500/tXL9nXXfj5dCEZZYTgIl17JAhTl.jpg"
 related_groups:
   - sakaba-horoki-others

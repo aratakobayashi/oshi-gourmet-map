@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「金沢まいもん寿司 上野店」"
-description: "SKZ VLOG「Hyun.e's Holiday 5」で紹介された食事「金沢まいもん寿司 上野店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "Stray Kidsの公式VLOG「Hyun.e's Holiday 5」で、ヒョンジンが寿司を食べた上野の回転寿司店。"
 shop_id: "kpop_straykids-e6b173fc-"
 name: "金沢まいもん寿司 上野店"
 genre: "shokuji"
@@ -12,6 +12,8 @@ source_video_title: "SKZ VLOG「Hyun.e's Holiday 5」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13215175/"
+visit_kind: "youtube"
+program: "SKZ VLOG「Hyun.e's Holiday 5」"
 lat: 35.7134128
 lng: 139.7765418
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉 にくだらけ"
-description: "chotokkyuのYouTubeで紹介された焼肉「焼肉 にくだらけ」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "超特急の公式YouTube「超チューバー」の「サシ飯」パロディ回（2026年5月）で撮影に使われた西麻布の焼肉店。"
 shop_id: "chotokkyu-0c30c1ac-20260508"
 name: "焼肉 にくだらけ"
 genre: "yakiniku"
@@ -17,6 +17,8 @@ group: "chotokkyu"
 hotpepper_url: "https://www.hotpepper.jp/strJ003596000/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/00/P042324800/P042324800_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "超チューバー（超特急公式YouTube）"
 lat: 35.660233
 lng: 139.723923
 groups:

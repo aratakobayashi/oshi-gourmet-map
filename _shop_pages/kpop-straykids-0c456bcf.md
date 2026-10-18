@@ -1,18 +1,20 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「ひるがお お台場店」"
-description: "SKZ VLOG「Felix : Sunshine Vlog 6」で紹介されたラーメン「ひるがお お台場店」（東京都江東区）。推し活グルメ巡礼スポット。"
+description: "Stray Kidsの公式VLOG「Felix : Sunshine Vlog 6 in Tokyo」で、フィリックスが訪れたお台場の塩ラーメンの店。"
 shop_id: "kpop_straykids-0c456bcf-"
 name: "ひるがお お台場店"
 genre: "ramen"
 prefecture: "東京都"
-city: "江東区"
-address: "東京都江東区青海1-1-10 ダイバーシティ東京プラザ6F"
+city: "港区"
+address: "東京都港区台場1-7-1 アクアシティお台場"
 source_video_title: "SKZ VLOG「Felix : Sunshine Vlog 6」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
-lat: 35.6137752
-lng: 139.7814016
+visit_kind: "youtube"
+program: "SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」"
+lat: 35.627804
+lng: 139.77359
 members:
   - "フィリックス"
 groups:

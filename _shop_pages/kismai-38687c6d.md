@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "いさりび食堂"
-description: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼きで紹介された食事「いさりび食堂」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
+description: "Kis-My-Ft2の藤ヶ谷太輔が2024年7月にマネージャーと訪れ、Instagramに焼きはまぐりなどを投稿した九十九里の浜焼きの店。"
 shop_id: "kismai-38687c6d-"
 name: "いさりび食堂"
 genre: "shokuji"
@@ -12,6 +12,8 @@ source_video_title: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼�
 source_url: "https://filminglocation-star.com/hujigaya-isaribi/"
 group: "kismai"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120503/12005144/"
+visit_kind: "other"
+program: "藤ヶ谷太輔のInstagram"
 lat: 35.535
 lng: 140.44
 members:

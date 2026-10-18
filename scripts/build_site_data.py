@@ -228,8 +228,10 @@ def main():
                 by_group[g].append(s)
     meta = []
     for g, items in by_group.items():
-        # メンバーは、そのグループが主の店（group が一致）だけから数える（複数グループの店で他グループのメンバーが混ざらないように）
-        mem = Counter(m for s in items if (s.get('group') or g) == g for m in (s.get('members') or []) if m and len(m) < 15)
+        # メンバーは、そのグループが主の店（group が一致）に出てくる人だけ（複数グループの店で他グループのメンバーが混ざらないように）。
+        # 番組の店をグループにも足したもの（横尾渉の『ぶらり』など）は、その人の分だけ数える
+        own = {m for s in items if (s.get('group') or g) == g for m in (s.get('members') or [])}
+        mem = Counter(m for s in items for m in (s.get('members') or []) if m and len(m) < 15 and m in own)
         meta.append({
             'id': g, 'label': labels.get(g, g), 'color': colors.get(g, '#9a8f80'), 'url': gurls.get(g, '/groups/'),
             'kana': READINGS.get(g, ''), 'count': len(items),

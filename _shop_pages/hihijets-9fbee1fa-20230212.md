@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "たこ焼き王国"
-description: "hihijetsのYouTubeで紹介されたその他「たこ焼き王国」（大阪府大阪市港区）。推し活グルメ巡礼スポット。"
+description: "HiHi JetsがジュニアCHANNELの「【たこ焼き500個】これはイケる!!」（2023年2月）で5人で訪れた大阪・築港のたこ焼き店。"
 shop_id: "hihijets-9fbee1fa-20230212"
 name: "たこ焼き王国"
 genre: "others"
@@ -17,6 +17,8 @@ group: "hihijets"
 hotpepper_url: "https://www.hotpepper.jp/strJ001246402/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/92/76/P035629276/P035629276_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（HiHi Jets）"
 lat: 34.655739
 lng: 135.432327
 members:

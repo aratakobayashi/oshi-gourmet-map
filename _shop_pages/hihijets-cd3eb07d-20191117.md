@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "清香園"
-description: "hihijetsのYouTubeで紹介された中華「清香園」（神奈川県横浜市中区）。推し活グルメ巡礼スポット。"
+description: "HiHi Jetsの髙橋優斗・井上瑞稀・猪狩蒼弥がジュニアCHANNELの「【真ん中争奪】横浜中華街で値段予想バトル！」（2019年11月）で訪れた横浜中華街の中華料理店。"
 shop_id: "hihijets-cd3eb07d-20191117"
 name: "清香園"
 genre: "chuka"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=psMQKjGq3v0"
 source_url: "https://ameblo.jp/rrayd/entry-12851403408.html"
 group: "hihijets"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（HiHi Jets）"
 lat: 35.443104
 lng: 139.645386
 members:

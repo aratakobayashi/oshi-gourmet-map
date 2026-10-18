@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉MUGEN 赤坂見附店"
-description: "グータンヌーボ2【松田元太×ウエンツ瑛士×満島真之介】焼肉店はどこ？で紹介された焼肉「焼肉MUGEN 赤坂見附店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "カンテレ・フジテレビ系『グータンヌーボ2』（2024年7月1日放送）で、松田元太がウエンツ瑛士・満島真之介と焼肉を食べた赤坂の焼肉店。"
 shop_id: "travisjapan-mugen-"
 name: "焼肉MUGEN 赤坂見附店"
 genre: "yakiniku"
@@ -16,16 +16,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13206678/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004678768/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jfMTNVDdiwCIrv8WtP3YbDAqnbE.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/25/13/P051072513/P051072513_238.jpg"
+visit_kind: "guest_tv"
+program: "グータンヌーボ2"
 lat: 35.67456383790578
 lng: 139.73782948317537
 members:
   - "松田元太"
-  - "川島如恵留"
-  - "中村海人"
-  - "宮近海斗"
-  - "七五三掛龍也"
-  - "吉澤閑也"
-  - "松倉海斗"
 groups:
   - "travisjapan"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "尾道ええもんや"
-description: "Number_i【広島 尾道】はっさくソフトクリーム＆ホットレモンのお店はどこ？で紹介されたその他「尾道ええもんや」（広島県尾道市）。推し活グルメ巡礼スポット。"
+description: "Number_iの3人が広島公演の合間（2025年12月）に立ち寄った尾道の土産物店。平野紫耀がはっさくソフトを食べたことを店が公式Xで伝えている。"
 shop_id: "numberi-39dfe377-"
 name: "尾道ええもんや"
 genre: "others"
@@ -12,6 +12,7 @@ source_video_title: "Number_i【広島 尾道】はっさくソフトクリー�
 source_url: "https://kosodate-and.net/numberi-hassaku-remon"
 group: "numberi"
 tabelog_url: "https://tabelog.com/hiroshima/A3406/A340302/34022921/"
+visit_kind: "other"
 lat: 34.4096178
 lng: 133.20241
 members:

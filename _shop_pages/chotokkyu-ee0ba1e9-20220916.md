@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ダカフェ 恵比寿店"
-description: "chotokkyuのYouTubeで紹介されたカフェ「ダカフェ 恵比寿店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」第3弾（2022年9月）で、ユーキがタクヤを連れてかき氷を食べに訪れたカフェ。"
 shop_id: "chotokkyu-ee0ba1e9-20220916"
 name: "ダカフェ 恵比寿店"
 genre: "cafe"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=zpgfSd8b0Ko"
 source_url: "https://www.youtube.com/watch?v=zpgfSd8b0Ko"
 group: "chotokkyu"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "超チューバー（超特急公式YouTube）"
 lat: 35.644878
 lng: 139.707214
 members:

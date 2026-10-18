@@ -113,7 +113,7 @@ cover_sub: "ジャニ勉・ゴチの12軒"
 <figure class="fig"><img src="/assets/img/posts/kanjani-gourmet-matome/genre.svg" alt="お店のジャンルと場所：カフェ5軒、和食2軒、食事2軒、居酒屋1軒、スイーツ1軒、ラーメン1軒。大阪府6軒、東京都4軒、北海道1軒、福岡県1軒" width="420" height="514" loading="lazy" decoding="async"><figcaption>この記事の12軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kanjani-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区1軒など。23区の外は東京の市部・島3軒、そのほかの道府県8軒" width="420" height="570" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kanjani-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、千代田区2軒、港区1軒、台東区1軒など。23区の外はそのほかの道府県8軒" width="420" height="538" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>大阪・中崎町</strong>：「エイトブンノニ」第1回の濱鮨（中崎町駅 徒歩2分）、ラ・グランダ・ファミリオ（中崎町駅 徒歩2分）、レストラン・カフェ クイーン（中崎町駅 徒歩1分）。3軒とも大阪市北区の中崎・中崎西にあります。</li>
