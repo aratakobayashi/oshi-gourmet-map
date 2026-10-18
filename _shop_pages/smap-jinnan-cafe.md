@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "JINNAN CAFE（ジンナンカフェ）渋谷"
-description: "初耳学【木村拓哉＆中島健人撮影】“インタビューアー林修”のカフェはどこ？で紹介されたカフェ「JINNAN CAFE（ジンナンカフェ）渋谷」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "『日曜日の初耳学』（2023年1月22日放送）で木村拓哉が林修のインタビューを受け、中島健人も訪れた渋谷のカフェ。"
 shop_id: "smap-jinnan_cafe-"
 name: "JINNAN CAFE（ジンナンカフェ）渋谷"
 genre: "cafe"
@@ -14,14 +14,12 @@ source_url: "https://kosodate-and.net/hatsumimigaku-kimura-kento-cafe"
 group: "smap"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13130801/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/dDmyU4HmuYjQVWl1D6lf9QmkaJ7.jpg"
+visit_kind: "guest_tv"
+program: "日曜日の初耳学（インタビューアー林修）"
 lat: 35.66305073790103
 lng: 139.69994138308562
 members:
   - "木村拓哉"
-  - "中居正広"
-  - "香取慎吾"
-  - "草彅剛"
-  - "稲垣吾郎"
 groups:
   - "smap"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "四つ角飯店"
-description: "VS魂 背徳グルメワールドツアーで紹介された中華「四つ角飯店」（東京都立川市）。推し活グルメ巡礼スポット。"
+description: "フジテレビ『VS魂』の「背徳グルメ第4弾ワールドツアー」（2023年6月22日放送）で、岸優太がアルコ＆ピース平子祐希と角煮定食を食べた立川の中華料理店。"
 shop_id: "numberi-cb05c833-"
 name: "四つ角飯店"
 genre: "chuka"
@@ -13,6 +13,8 @@ source_url: "https://kosodate-and.net/vsdamashii-kishi-kakuni/"
 group: "numberi"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132901/13045499/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
+visit_kind: "guest_tv"
+program: "VS魂"
 lat: 35.6991763
 lng: 139.410881
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「オールシーズンズコーヒー」"
-description: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」で紹介されたカフェ「オールシーズンズコーヒー」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "Stray Kidsの公式VLOG「Lee Know & Felix : 냥냥 Vlog」で、リノがテイクアウトのプリンを買い、新宿御苑で食べたコーヒー店。"
 shop_id: "kpop_straykids-fe152020-"
 name: "オールシーズンズコーヒー"
 genre: "cafe"
@@ -12,6 +12,8 @@ source_video_title: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13187981/"
+visit_kind: "youtube"
+program: "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」"
 lat: 35.6921592
 lng: 139.7006065
 members:

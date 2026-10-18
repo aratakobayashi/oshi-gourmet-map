@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "San Francisco Peaks（サン フランシスコ ピークス）"
-description: "河合郁人×藤ヶ谷太輔のハンバーガーショップカフェはどこ？食べたメニューは何？で紹介されたカフェ「San Francisco Peaks（サン フランシスコ ピークス）」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "河合郁人のYouTube『かわいたちチャンネル』（2024年6月18日配信）で、Kis-My-Ft2の藤ヶ谷太輔が河合郁人と訪れたハンバーガー店。藤ヶ谷はベーコンチーズバーガーを食べた。"
 shop_id: "kismai-san_francisco_peaks-"
 name: "San Francisco Peaks（サン フランシスコ ピークス）"
 genre: "cafe"
@@ -15,16 +15,12 @@ group: "kismai"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13144629/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001017828/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg"
+visit_kind: "youtube"
+program: "かわいたちチャンネル"
 lat: 35.67197436481817
 lng: 139.7091961523204
 members:
-  - "玉森裕太"
   - "藤ヶ谷太輔"
-  - "二階堂高嗣"
-  - "宮田俊哉"
-  - "北山宏光"
-  - "千賀健永"
-  - "横尾渉"
 groups:
   - "kismai"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "韓無量 秋葉原店（カンムリョウ）"
-description: "私たちが恋する理由【七五三掛龍也 ロケ地】韓国居酒屋・焼肉はどこ？韓無量（かんむりょう）？で紹介された食事「韓無量 秋葉原店（カンムリョウ）」（東京都千代田区）。推し活グルメ巡礼スポット。"
+description: "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第6話で、同期3人（久間田琳加・七五三掛龍也・齊藤なぎさ）が焼肉を食べる場面に使われた秋葉原の韓国居酒屋。"
 shop_id: "travisjapan-bf20b0e5-"
 name: "韓無量 秋葉原店（カンムリョウ）"
 genre: "shokuji"
@@ -16,16 +16,12 @@ tabelog_url: "https://tabelog.com/tokyo/A1310/A131001/13240463/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001232860/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/70/78/P050997078/P050997078_238.jpg"
+visit_kind: "drama"
+program: "私たちが恋する理由"
 lat: 35.69773373790183
 lng: 139.7716265833857
 members:
-  - "松田元太"
-  - "川島如恵留"
-  - "中村海人"
-  - "宮近海斗"
   - "七五三掛龍也"
-  - "吉澤閑也"
-  - "松倉海斗"
 groups:
   - "travisjapan"
 ---

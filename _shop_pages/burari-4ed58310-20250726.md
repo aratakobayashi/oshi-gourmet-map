@@ -20,4 +20,5 @@ members:
   - "横尾渉"
 groups:
   - "burari"
+  - "kismai"
 ---

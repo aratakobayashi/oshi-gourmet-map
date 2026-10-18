@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "人形町 鮒よし"
-description: "私たちが恋する理由第7話【七五三掛龍也ロケ地】カフェ＆居酒屋はどこ？坂元と絢香で紹介された食事「人形町 鮒よし」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）第7話で、坂元（七五三掛龍也）と絢香（山崎紘菜）が訪れた居酒屋の場面に使われた人形町の店。"
 shop_id: "travisjapan-e2b906f2-"
 name: "人形町 鮒よし"
 genre: "shokuji"
@@ -14,16 +14,12 @@ source_url: "https://kosodate-and.net/koisuru-shime-cafe-izakaya"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13250546/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fVZIEBoIhjpuwSiYH7AUF3rvd8H.jpg"
+visit_kind: "drama"
+program: "私たちが恋する理由"
 lat: 35.684395098719406
 lng: 139.78336028440452
 members:
-  - "松田元太"
-  - "川島如恵留"
-  - "中村海人"
-  - "宮近海斗"
   - "七五三掛龍也"
-  - "吉澤閑也"
-  - "松倉海斗"
 groups:
   - "travisjapan"
 ---

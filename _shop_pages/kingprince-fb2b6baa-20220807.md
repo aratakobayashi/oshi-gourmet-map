@@ -24,4 +24,5 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+  - "numberi"
 ---

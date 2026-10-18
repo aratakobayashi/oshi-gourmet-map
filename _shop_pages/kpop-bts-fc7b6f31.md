@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「一蘭 六本木店」"
-description: "BTS 東京訪問（2015年）で紹介されたラーメン「一蘭 六本木店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "2015年2月ごろ、BTSのメンバーが来日中に食事をしたラーメン店。J-HOPEがSNSに載せた写真が六本木店の前だった。"
 shop_id: "kpop_bts-fc7b6f31-"
 name: "一蘭 六本木店"
 genre: "ramen"
@@ -12,9 +12,14 @@ source_video_title: "BTS 東京訪問（2015年）"
 source_url: "https://grapeejapan.com/99849"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13170532/"
+visit_kind: "other"
+program: "BTS（J-HOPE SNS）"
 lat: 35.6624568
 lng: 139.7334981
 members:
+  - "J-Hope"
+  - "V"
+  - "ジョングク"
   - "Jin"
 groups:
   - "kpop_bts"

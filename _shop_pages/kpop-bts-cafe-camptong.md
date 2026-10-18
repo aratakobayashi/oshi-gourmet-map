@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「CAFE CAMPTONG」"
-description: "Run BTS! EP.118-119で紹介されたカフェ「CAFE CAMPTONG」（韓国）。推し活グルメ巡礼スポット。"
+description: "BTSのバラエティ「Run BTS!」のEP.118〜119でメンバーが訪れたソウル狎鴎亭のカフェ。"
 shop_id: "kpop_bts-cafe_camptong-"
 name: "CAFE CAMPTONG"
 genre: "cafe"
@@ -11,6 +11,8 @@ source_video_title: "Run BTS! EP.118-119"
 source_url: "https://oshito.online/news/7523.html"
 group: "kpop_bts"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg"
+visit_kind: "own_tv"
+program: "Run BTS!（EP.118-119）"
 lat: 37.5287
 lng: 127.0437
 members:

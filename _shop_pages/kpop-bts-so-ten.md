@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BTSが行った「SO-TEN」"
-description: "J-Hope Weverse Live（東京滞在中）で紹介された食事「SO-TEN」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "BTSのJ-HOPEが東京滞在中、Weverse LIVEの配信をしながら食事をしたとファンが特定した恵比寿の和食ダイニング。"
 shop_id: "kpop_bts-so_ten-"
 name: "SO-TEN"
 genre: "shokuji"
@@ -14,6 +14,8 @@ group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13020624/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001217467/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/85/95/P047308595/P047308595_238.jpg"
+visit_kind: "other"
+program: "J-HOPE Weverse LIVE"
 lat: 35.6469738
 lng: 139.7086461
 members:

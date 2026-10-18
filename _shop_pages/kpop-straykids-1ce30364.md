@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「やきやき三輪 大阪堀江店」"
-description: "Stray Kids 2023年ドームツアー来日時 Instagramで紹介された焼肉「やきやき三輪 大阪堀江店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "Stray Kidsのメンバーが2023年のドームツアーで来日した際に訪れた大阪堀江の鉄板焼きの店。"
 shop_id: "kpop_straykids-1ce30364-"
 name: "やきやき三輪 大阪堀江店"
 genre: "yakiniku"
@@ -12,6 +12,8 @@ source_video_title: "Stray Kids 2023年ドームツアー来日時 Instagram"
 source_url: "https://ameblo.jp/u-travel2/entry-12876132978.html"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270201/27000782/"
+visit_kind: "other"
+program: "Stray Kids（5-STAR Dome Tour 2023 来日時）"
 lat: 34.6813858
 lng: 135.4834849
 members:

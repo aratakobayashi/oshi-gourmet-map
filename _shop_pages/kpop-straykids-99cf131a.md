@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "Stray Kidsが行った「おでんとお蕎麦 居酒屋じんべえ 難波店」"
-description: "LeeKnow VLOG（大阪）で紹介された居酒屋「おでんとお蕎麦 居酒屋じんべえ 難波店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "Stray Kidsのリノが大阪へのプライベート旅行のVLOGで「おでんのある店に来た」と話した難波の居酒屋。"
 shop_id: "kpop_straykids-99cf131a-"
 name: "おでんとお蕎麦 居酒屋じんべえ 難波店"
 genre: "izakaya"
@@ -12,6 +12,8 @@ source_video_title: "LeeKnow VLOG（大阪）"
 source_url: "https://ameblo.jp/u-travel2/entry-12876132978.html"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27105974/"
+visit_kind: "youtube"
+program: "Lee Know VLOG（大阪）"
 lat: 34.6582847
 lng: 135.5057756
 members:
