@@ -117,9 +117,9 @@ stay_inline: true
 <p>宮舘涼太と食べた一蘭から、越岡裕貴とジュニア時代に通ったじゃんがら、そのあとに立ち寄ったHohokam DINERまで。3軒とも神宮前にあります。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/kamenashi-0a3faf7a-202410/"><b>一蘭 原宿店</b><span>渋谷区神宮前6丁目／亀梨和也</span></a><small>次のお店まで直線で約0.1km</small></li>
-  <li><a href="/shops/kamenashi-e27eb84b-202404/"><b>九州じゃんがら原宿店</b><span>渋谷区神宮前1丁目／亀梨和也</span></a><small>次のお店まで直線で約0.2km</small></li>
-  <li><a href="/shops/kamenashi-hohokam-diner-20240413/"><b>Hohokam DINER</b><span>渋谷区神宮前1丁目／亀梨和也</span></a></li>
+  <li><a href="/shops/kamenashi-0a3faf7a-202410/"><b>一蘭 原宿店</b><span>渋谷区神宮前／亀梨和也</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/kamenashi-e27eb84b-202404/"><b>九州じゃんがら原宿店</b><span>渋谷区神宮前／亀梨和也</span></a><small>次のお店まで直線で約0.2km</small></li>
+  <li><a href="/shops/kamenashi-hohokam-diner-20240413/"><b>Hohokam DINER</b><span>渋谷区神宮前／亀梨和也</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

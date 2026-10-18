@@ -266,9 +266,9 @@ stay_inline: true
 <p>KAMI Sweets#003のタピオカの2D Cafe、7人の回のテーハンミングとKAMI SweetsのCAFE iNが入る大久保1丁目の建物、『イキスギさんについてった』の焼きそばの回の山西亭まで。順に回ると、点と点のあいだはまっすぐ結んで300〜500mほどです。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/west-1f9d5a10-20240805/"><b>2D Cafe 新大久保店</b><span>新宿区百人町1丁目／神山智洋</span></a><small>次のお店まで直線で約0.3km</small></li>
-  <li><a href="/shops/west-b244f3a1-20260212/"><b>大久保1丁目（テーハンミング・CAFE iN）</b><span>新宿区大久保1丁目／メンバー7人</span></a><small>次のお店まで直線で約0.5km</small></li>
-  <li><a href="/shops/west-e547e60d/"><b>山西亭（大久保2丁目）</b><span>新宿区大久保2丁目／中間淳太</span></a></li>
+  <li><a href="/shops/west-1f9d5a10-20240805/"><b>2D Cafe 新大久保店</b><span>新宿区百人町／神山智洋</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/west-b244f3a1-20260212/"><b>大久保1丁目（テーハンミング・CAFE iN）</b><span>新宿区大久保／メンバー7人</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/west-e547e60d/"><b>山西亭（大久保2丁目）</b><span>新宿区大久保／中間淳太</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

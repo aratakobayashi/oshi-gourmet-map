@@ -177,10 +177,10 @@ stay_inline: true
 <p>スカイツリーのふもとの忘年会のお店から、大食い企画の錦糸町、ストチューブの最初のころの両国まで。電車なら1駅ずつでつながっています。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/sixtones-dintaifung-soramachi/"><b>東京ソラマチ（鼎泰豊・だるま）</b><span>墨田区押上1丁目／メンバー6人</span></a><small>次へ：押上→錦糸町は半蔵門線で1駅（直線で約1.6km）</small></li>
-  <li><a href="/shops/sixtones-kamonka-kinshicho/"><b>錦糸町 過門香</b><span>墨田区江東橋3丁目／メンバー6人</span></a><small>次へ：錦糸町→両国はJR総武線で1駅（直線で約1.9km）</small></li>
-  <li><a href="/shops/sixtones-honjo-kaeru-honpo/"><b>両国 本所かえる本舗</b><span>墨田区亀沢1丁目／メンバー6人</span></a><small>次のお店まで直線で約0.4km</small></li>
-  <li><a href="/shops/sixtones-fe00963e-20201127/"><b>屋形船 晴海屋（横網）</b><span>墨田区横網1丁目／メンバー6人</span></a></li>
+  <li><a href="/shops/sixtones-dintaifung-soramachi/"><b>東京ソラマチ（鼎泰豊・だるま）</b><span>墨田区押上／メンバー6人</span></a><small>次へ：押上→錦糸町は半蔵門線で1駅（直線で約1.6km）</small></li>
+  <li><a href="/shops/sixtones-kamonka-kinshicho/"><b>錦糸町 過門香</b><span>墨田区江東橋／メンバー6人</span></a><small>次へ：錦糸町→両国はJR総武線で1駅（直線で約1.9km）</small></li>
+  <li><a href="/shops/sixtones-honjo-kaeru-honpo/"><b>両国 本所かえる本舗</b><span>墨田区亀沢／メンバー6人</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/sixtones-fe00963e-20201127/"><b>屋形船 晴海屋（横網）</b><span>墨田区横網／メンバー6人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

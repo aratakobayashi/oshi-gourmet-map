@@ -105,8 +105,8 @@ stay_inline: true
 <p>「日本ラーメン旅」の第1弾の千里眼から、土生瑞穂がVlogで訪れた下北沢のカレー店へ。井の頭線で2駅です。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/sakurazaka46-7d31a281-20231101/"><b>駒場 千里眼</b><span>目黒区駒場4丁目／的野美青・山下瞳月</span></a><small>次へ：駒場東大前→下北沢は井の頭線で2駅（直線で約1.0km）</small></li>
-  <li><a href="/shops/sakurazaka46-12da6055-20230809/"><b>下北沢 KALPASI</b><span>世田谷区北沢2丁目／土生瑞穂</span></a></li>
+  <li><a href="/shops/sakurazaka46-7d31a281-20231101/"><b>駒場 千里眼</b><span>目黒区駒場／的野美青・山下瞳月</span></a><small>次へ：駒場東大前→下北沢は井の頭線で2駅（直線で約1.0km）</small></li>
+  <li><a href="/shops/sakurazaka46-12da6055-20230809/"><b>下北沢 KALPASI</b><span>世田谷区北沢／土生瑞穂</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

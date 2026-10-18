@@ -190,10 +190,10 @@ stay_inline: true
 <p>中西アルノが朝ごはんを食べた水道橋の松屋から、さくさんぽ第5弾のカレーの2軒、与田祐希の個人PVの撮影場所まで。神保町のまわりにまとまった4軒です。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/nogizaka46-65b993cb-20250311/"><b>水道橋 松屋</b><span>千代田区神田三崎町3丁目／中西アルノ</span></a><small>次のお店まで直線で約1.1km</small></li>
-  <li><a href="/shops/nogizaka46-ef89d864/"><b>神保町 キッチン南海</b><span>千代田区神田神保町1丁目／遠藤さくら</span></a><small>次のお店まで直線で約0.2km</small></li>
-  <li><a href="/shops/nogizaka46-24da3fd9/"><b>神田小川町 エチオピア</b><span>千代田区神田小川町3丁目／遠藤さくら</span></a><small>次のお店まで直線で約0.5km</small></li>
-  <li><a href="/shops/nogizaka46-good-morning-cafe/"><b>神田錦町 GOOD MORNING CAFE（PV）</b><span>千代田区神田錦町3丁目／与田祐希</span></a></li>
+  <li><a href="/shops/nogizaka46-65b993cb-20250311/"><b>水道橋 松屋</b><span>千代田区神田三崎町／中西アルノ</span></a><small>次のお店まで直線で約1.1km</small></li>
+  <li><a href="/shops/nogizaka46-ef89d864/"><b>神保町 キッチン南海</b><span>千代田区神田神保町／遠藤さくら</span></a><small>次のお店まで直線で約0.2km</small></li>
+  <li><a href="/shops/nogizaka46-24da3fd9/"><b>神田小川町 エチオピア</b><span>千代田区神田小川町／遠藤さくら</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/nogizaka46-good-morning-cafe/"><b>神田錦町 GOOD MORNING CAFE（PV）</b><span>千代田区神田錦町／与田祐希</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

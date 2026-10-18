@@ -200,10 +200,10 @@ stay_inline: true
 <p>「どっち派！？」の長尾謙杜・藤原丈一郎・大橋和也の回のお店と、「なんでやねん！」で藤原丈一郎が訪れた東京駅の駅ナカのお店。銀座から有楽町、東京駅まで、4軒がまとまっています。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/naniwa-376379fa-20230505/"><b>銀座朝食ラボ（銀座7丁目）</b><span>中央区銀座7丁目／長尾謙杜</span></a><small>次のお店まで直線で約0.4km</small></li>
-  <li><a href="/shops/naniwa-9d3720a8/"><b>喫茶 アメリカン（銀座4丁目）</b><span>中央区銀座4丁目／藤原丈一郎</span></a><small>次のお店まで直線で約0.4km</small></li>
-  <li><a href="/shops/naniwa-1d6e8883-20230602/"><b>ジョリッティカフェ（有楽町）</b><span>千代田区有楽町2丁目／大橋和也</span></a><small>次へ：有楽町→東京はJR山手線で1駅（直線で約0.6km）</small></li>
-  <li><a href="/shops/naniwa-a9a20a89-20220520/"><b>ギョーザ スタンド ウーロン（東京駅）</b><span>千代田区丸の内1丁目／藤原丈一郎</span></a></li>
+  <li><a href="/shops/naniwa-376379fa-20230505/"><b>銀座朝食ラボ（銀座7丁目）</b><span>中央区銀座／長尾謙杜</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/naniwa-9d3720a8/"><b>喫茶 アメリカン（銀座4丁目）</b><span>中央区銀座／藤原丈一郎</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/naniwa-1d6e8883-20230602/"><b>ジョリッティカフェ（有楽町）</b><span>千代田区有楽町／大橋和也</span></a><small>次へ：有楽町→東京はJR山手線で1駅（直線で約0.6km）</small></li>
+  <li><a href="/shops/naniwa-a9a20a89-20220520/"><b>ギョーザ スタンド ウーロン（東京駅）</b><span>千代田区丸の内／藤原丈一郎</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

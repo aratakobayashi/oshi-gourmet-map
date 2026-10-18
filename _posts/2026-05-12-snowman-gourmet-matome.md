@@ -200,9 +200,9 @@ stay_inline: true
 <p>浅草には、すのちゅーぶで訪れたお店が3軒あります。雷門近くのむぎとろ、もんじゃのつる次郎 HANARE、そして浅草三丁目のおにぎり屋さんへ。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/snowman-41d7688e-202604/"><b>雷門 浅草むぎとろ本店</b><span>台東区雷門2丁目／メンバー4人</span></a><small>次のお店まで直線で約0.1km</small></li>
-  <li><a href="/shops/snowman-tsurujiro-asakusa/"><b>浅草 つる次郎 HANARE</b><span>台東区浅草1丁目／メンバー4人</span></a><small>次のお店まで直線で約0.9km</small></li>
-  <li><a href="/shops/snowman-onigiri-asakusa-yadoroku/"><b>浅草三丁目 おにぎり浅草宿六</b><span>台東区浅草3丁目／メンバー4人</span></a></li>
+  <li><a href="/shops/snowman-41d7688e-202604/"><b>雷門 浅草むぎとろ本店</b><span>台東区雷門／メンバー4人</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/snowman-tsurujiro-asakusa/"><b>浅草 つる次郎 HANARE</b><span>台東区浅草／メンバー4人</span></a><small>次のお店まで直線で約0.9km</small></li>
+  <li><a href="/shops/snowman-onigiri-asakusa-yadoroku/"><b>浅草三丁目 おにぎり浅草宿六</b><span>台東区浅草／メンバー4人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

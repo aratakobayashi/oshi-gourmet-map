@@ -42,6 +42,7 @@ def ep(s, prefix):
     t = t.replace(prefix, '', 1).strip().replace('　', ' ')
     t = t.replace(prefix, '').strip()
     t = re.sub(r'（移転）', '', re.sub(r'\s*「[^」]*」\s*', ' ', t)).strip()
+    t = re.sub(r'\s*旅人[：:].*$', '', t).strip()  # 「旅人：○○」は行の出演者と重なるので外す
     return t or '放送回'
 
 
@@ -66,7 +67,7 @@ def row(s, prefix, place, cards):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('slug'); ap.add_argument('group'); ap.add_argument('--prefix', default=''); ap.add_argument('--talk', action='store_true')
+    ap.add_argument('slug'); ap.add_argument('group'); ap.add_argument('--prefix', default=''); ap.add_argument('--talk', action='store_true'); ap.add_argument('--people', default='', help='出演者で選ぶ一覧の呼び名（例: 旅人）。--talk のときは「ゲスト」')
     a = ap.parse_args()
     global SAME_MEMBERS, TALK
     TALK = a.talk
@@ -132,13 +133,15 @@ def main():
     navh = ('<div class="cnav cnav--area">\n<p class="cnav__h">エリアで選ぶ</p>\n<div class="cnav__list">'
             + ''.join(f'<a href="#{i}"><span>{esc(h)}<small>{c}軒</small></span></a>' for i, h, c in nav)
             + '</div>\n</div>')
-    if TALK:
-        # ゲストで選ぶ: 紹介した店の多い順。押すと /shops/ でそのゲストの店に絞り込む（閉じた一覧）
+    plabel = 'ゲスト' if TALK else a.people
+    if plabel:
+        # ゲスト／旅人で選ぶ: 紹介した店の多い順。押すと /shops/ でそのゲストの店に絞り込む（閉じた一覧）
         cnt = collections.Counter(m for s in shops for m in (s.get('members') or []))
         chips = ''.join(f'<a class="mnav__m" href="/shops/?g={a.group}&amp;m={a.group}:{urllib.parse.quote(m)}"><b>{esc(m)}</b><span>{n}軒</span></a>'
                         for m, n in sorted(cnt.items(), key=lambda kv: (-kv[1], kv[0])))
-        navh += (f'\n<details class="mnav mnav--many"><summary class="mnav__h">ゲストで選ぶ（{len(cnt)}人）</summary>'
-                 f'<div class="mnav__list">{chips}</div><p class="mnav__note">押すと、そのゲストが紹介したお店を地図と一覧で見られます。</p></details>')
+        what = '紹介した' if TALK else '訪れた'
+        navh += (f'\n<details class="mnav mnav--many"><summary class="mnav__h">{plabel}で選ぶ（{len(cnt)}人）</summary>'
+                 f'<div class="mnav__list">{chips}</div><p class="mnav__note">押すと、その{plabel}が{what}お店を地図と一覧で見られます。</p></details>')
     t = open(path, encoding='utf-8').read()
     t = re.sub(r'<!-- nav:start -->.*?<!-- nav:end -->', lambda m: '<!-- nav:start -->\n' + navh + '\n<!-- nav:end -->', t, flags=re.S)
     t = re.sub(r'<!-- rows:start -->.*?<!-- rows:end -->', lambda m: '<!-- rows:start -->\n' + '\n'.join(out) + '\n<!-- rows:end -->', t, flags=re.S)

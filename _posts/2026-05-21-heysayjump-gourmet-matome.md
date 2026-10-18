@@ -152,8 +152,8 @@ stay_inline: true
 <p>はじめての3軒を、朝ごはんの築地から順に。築地と人形町は日比谷線でつながっています。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/heysayjump-tsumugi/"><b>築地本願寺カフェ Tsumugi</b><span>中央区築地3丁目／伊野尾慧</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.5km）</small></li>
-  <li><a href="/shops/069d6a42/"><b>人形町 玉英堂 彦九郎</b><span>中央区日本橋人形町2丁目／八乙女光・中島裕翔</span></a><small>次のお店まで直線で約4.1km</small></li>
+  <li><a href="/shops/heysayjump-tsumugi/"><b>築地本願寺カフェ Tsumugi</b><span>中央区築地／伊野尾慧</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.5km）</small></li>
+  <li><a href="/shops/069d6a42/"><b>人形町 玉英堂 彦九郎</b><span>中央区日本橋人形町／八乙女光・中島裕翔</span></a><small>次のお店まで直線で約4.1km</small></li>
   <li><a href="/shops/heysayjump-d5f50b8f-20180908/"><b>亀戸餃子</b><span>江東区亀戸／山田涼介・八乙女光</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>

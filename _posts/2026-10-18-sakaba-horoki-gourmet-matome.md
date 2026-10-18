@@ -1330,9 +1330,9 @@ shop_ids:
 <p>浅草には、別々の回で訪れた酒場が歩いて回れる距離に集まっています。浅草1丁目の木むら・赤垣から、浅草2丁目の正ちゃんへ。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/sakaba-horoki-70e64cfb-20170206/"><b>木むら</b><span>台東区浅草1丁目／吉田類</span></a><small>次のお店まで直線で約0.1km</small></li>
-  <li><a href="/shops/sakaba-horoki-27d4f7e9-20090328/"><b>赤垣</b><span>台東区浅草1丁目／吉田類</span></a><small>次のお店まで直線で約0.3km</small></li>
-  <li><a href="/shops/sakaba-horoki-0bdf902a-20130311/"><b>正ちゃん</b><span>台東区浅草2丁目／吉田類</span></a></li>
+  <li><a href="/shops/sakaba-horoki-70e64cfb-20170206/"><b>木むら</b><span>台東区浅草／吉田類</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/sakaba-horoki-27d4f7e9-20090328/"><b>赤垣</b><span>台東区浅草／吉田類</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/sakaba-horoki-0bdf902a-20130311/"><b>正ちゃん</b><span>台東区浅草／吉田類</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

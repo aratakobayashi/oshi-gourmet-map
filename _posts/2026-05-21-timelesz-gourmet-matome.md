@@ -144,9 +144,9 @@ stay_inline: true
 <p>『タイムレスマン』の「アーユーハングリーマン」で橋本将生・篠塚大輝が回った有楽町と銀座の2軒から、「1000円差し入れマン」で寺西拓人・原嘉孝が差し入れを買った築地のお店まで。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/timelesz-6c0597af-20250902/"><b>有楽町 魚がし日本一</b><span>中央区銀座1丁目／橋本将生・篠塚大輝</span></a><small>次のお店まで直線で約0.8km</small></li>
+  <li><a href="/shops/timelesz-6c0597af-20250902/"><b>有楽町 魚がし日本一</b><span>中央区銀座／橋本将生・篠塚大輝</span></a><small>次のお店まで直線で約0.8km</small></li>
   <li><a href="/shops/timelesz-11cdabda/"><b>銀座7丁目 羽衣</b><span>中央区〒／橋本将生・篠塚大輝</span></a><small>次のお店まで直線で約0.7km</small></li>
-  <li><a href="/shops/timelesz-b1cf986a-20260724/"><b>築地 さのきや</b><span>中央区築地4丁目／寺西拓人・原嘉孝</span></a></li>
+  <li><a href="/shops/timelesz-b1cf986a-20260724/"><b>築地 さのきや</b><span>中央区築地／寺西拓人・原嘉孝</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

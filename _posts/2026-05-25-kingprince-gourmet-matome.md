@@ -227,10 +227,10 @@ stay_inline: true
 <p>髙橋海人がふぐを食べた丸ビルから、永瀬廉が働いた有楽町の吉野家、まかないハンターの銀座、髙橋海人が働いた築地銀だこまで。『キントレ』の4つの回のお店が、東京駅から築地のあいだに並んでいます。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/kingprince-a5f71e02/"><b>丸ビル 臼杵ふぐ 山田屋</b><span>千代田区丸の内2丁目／髙橋海人</span></a><small>次のお店まで直線で約0.8km</small></li>
-  <li><a href="/shops/kingprince-70f61cc7/"><b>吉野家 有楽町店</b><span>千代田区有楽町2丁目／永瀬廉</span></a><small>次のお店まで直線で約0.3km</small></li>
-  <li><a href="/shops/kingprince-ginza-abc/"><b>銀座3丁目 ABCラーメン・EL CHATEO</b><span>中央区銀座3丁目／永瀬廉</span></a><small>次へ：銀座駅→築地駅は日比谷線で2駅（直線で約0.9km）</small></li>
-  <li><a href="/shops/kingprince-f30d7811/"><b>築地銀だこ 本店</b><span>中央区築地4丁目／髙橋海人</span></a></li>
+  <li><a href="/shops/kingprince-a5f71e02/"><b>丸ビル 臼杵ふぐ 山田屋</b><span>千代田区丸の内／髙橋海人</span></a><small>次のお店まで直線で約0.8km</small></li>
+  <li><a href="/shops/kingprince-70f61cc7/"><b>吉野家 有楽町店</b><span>千代田区有楽町／永瀬廉</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/kingprince-ginza-abc/"><b>銀座3丁目 ABCラーメン・EL CHATEO</b><span>中央区銀座／永瀬廉</span></a><small>次へ：銀座駅→築地駅は日比谷線で2駅（直線で約0.9km）</small></li>
+  <li><a href="/shops/kingprince-f30d7811/"><b>築地銀だこ 本店</b><span>中央区築地／髙橋海人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

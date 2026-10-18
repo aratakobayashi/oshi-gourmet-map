@@ -175,9 +175,9 @@ stay_inline: true
 <p>諸橋沙夏の「【はしご酒】高円寺で飲むお酒がとにかく最高すぎました」（2024年12月）に出てくる、高円寺駅のまわりの3軒です。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/equal-love-bd15bb1d-202412/"><b>やきとん長良</b><span>杉並区高円寺南3丁目／諸橋沙夏</span></a><small>次のお店まで直線で約0.7km</small></li>
-  <li><a href="/shops/equal-love-17396234-202412/"><b>まんまじぃま</b><span>杉並区高円寺南4丁目／諸橋沙夏</span></a><small>次のお店まで直線で約0.6km</small></li>
-  <li><a href="/shops/equal-love-a9d4d24e-202412/"><b>あちらぼ</b><span>杉並区高円寺北3丁目／諸橋沙夏</span></a></li>
+  <li><a href="/shops/equal-love-bd15bb1d-202412/"><b>やきとん長良</b><span>杉並区高円寺南／諸橋沙夏</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/equal-love-17396234-202412/"><b>まんまじぃま</b><span>杉並区高円寺南／諸橋沙夏</span></a><small>次のお店まで直線で約0.6km</small></li>
+  <li><a href="/shops/equal-love-a9d4d24e-202412/"><b>あちらぼ</b><span>杉並区高円寺北／諸橋沙夏</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
