@@ -115,7 +115,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：原宿・神宮前の3軒</h2>
 <p>宮舘涼太と食べた一蘭から、越岡裕貴とジュニア時代に通ったじゃんがら、そのあとに立ち寄ったHohokam DINERまで。3軒とも神宮前にあります。</p>
-<figure class="fig course"><img src="/assets/img/posts/kamenashi-gourmet-matome/course-1.svg" alt="原宿・神宮前のコース図。1 一蘭 原宿店（神宮前6丁目）、2 九州じゃんがら原宿店（神宮前1丁目）、3 Hohokam DINER（神宮前1丁目）。3軒とも原宿駅・明治神宮前駅の近く" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/kamenashi-0a3faf7a-202410/"><b>一蘭 原宿店</b><span>渋谷区神宮前6丁目／亀梨和也</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/kamenashi-e27eb84b-202404/"><b>九州じゃんがら原宿店</b><span>渋谷区神宮前1丁目／亀梨和也</span></a><small>次のお店まで直線で約0.2km</small></li>
+  <li><a href="/shops/kamenashi-hohokam-diner-20240413/"><b>Hohokam DINER</b><span>渋谷区神宮前1丁目／亀梨和也</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>41軒のうち19軒は、後輩・仲間や共演者・ゲストと一緒の回です。一方で、タイトルに「ぼっち」「1人」が入るひとりごはんの回も続いていて、東京の焼肉から宮崎・京都・福岡・堺まで登場します。2025年からは大阪の回が増え、2026年は鈴木福との湯島の回や、初めての麻辣湯の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -223,7 +230,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kamenashi-gourmet-matome/map.svg" alt="亀梨和也が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kamenashi-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区5軒、中央区5軒、品川区3軒、台東区2軒、新宿区2軒など。23区の外は神奈川県1軒、そのほかの道府県18軒" width="420" height="570" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>原宿（神宮前）</strong>：九州じゃんがら原宿店・一蘭 原宿店（どちらも明治神宮前〈原宿〉駅 徒歩1分）、Hohokam DINER（原宿駅 徒歩2分）、原宿GLAMS BBQ Lounge（JR原宿駅 徒歩7分）。越岡裕貴・宮舘涼太・藤原丈一郎との回のお店です。</li>

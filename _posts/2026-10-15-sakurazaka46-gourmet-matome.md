@@ -103,7 +103,13 @@ stay_inline: true
 
 <h2>半日で巡るなら：駒場東大前から下北沢へ</h2>
 <p>「日本ラーメン旅」の第1弾の千里眼から、土生瑞穂がVlogで訪れた下北沢のカレー店へ。井の頭線で2駅です。</p>
-<figure class="fig course"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/course-1.svg" alt="駒場東大前から下北沢へのコース図。1 駒場の千里眼、2 下北沢のCurry Spice Gelateria KALPASI（駒場東大前から井の頭線で2駅）" width="420" height="524" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/sakurazaka46-7d31a281-20231101/"><b>駒場 千里眼</b><span>目黒区駒場4丁目／的野美青・山下瞳月</span></a><small>次へ：駒場東大前→下北沢は井の頭線で2駅（直線で約1.0km）</small></li>
+  <li><a href="/shops/sakurazaka46-12da6055-20230809/"><b>下北沢 KALPASI</b><span>世田谷区北沢2丁目／土生瑞穂</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>櫻坂チャンネルの18軒のうち8軒は、的野美青・山下瞳月の「日本ラーメン旅」（2023年11月〜2025年7月）のお店で、東京から福岡・大阪・愛知・神奈川まで足をのばしています。冠番組『そこ曲がったら、櫻坂？』のお店は、2021年のプレゼン企画で、メンバーが静岡・兵庫・滋賀・鹿児島など出身地のお店を紹介したものが多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -191,7 +197,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/map.svg" alt="櫻坂46の東京のお店（番組で紹介したお店を含む）を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sakurazaka46-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、世田谷区2軒、渋谷区2軒、目黒区1軒、台東区1軒、品川区1軒など。23区の外は神奈川県1軒、そのほかの道府県18軒" width="420" height="570" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>地図には番組で紹介したお店も点で入っていますが、下の一覧には入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>駒場・下北沢・三軒茶屋</strong>：「日本ラーメン旅」第1弾の千里眼（目黒区駒場）、土生瑞穂のVlogのCurry Spice Gelateria KALPASI（世田谷区北沢）、石森璃花・中嶋優月の三軒茶屋の散歩の回のお店。</li>

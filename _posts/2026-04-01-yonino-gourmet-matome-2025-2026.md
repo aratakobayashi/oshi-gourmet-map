@@ -150,7 +150,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：九段下から秋葉原へ</h2>
 <p>当時の4人の朝ごはんの回のお店が、九段下から秋葉原までの間に4軒並んでいます。</p>
-<figure class="fig course"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/course-1.svg" alt="九段下から秋葉原へのコース図。1 九段下のトーキョーアジフライ（#316）、2 神保町のなぎさ食堂（#288。九段下から半蔵門線・都営新宿線で1駅）、3 淡路町の中華料理 十八番（#314。神保町から都営新宿線で1駅の小川町）、4 秋葉原 カリガリ（#292）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/yonino-tokyo-ajifurai/"><b>九段下 トーキョーアジフライ</b><span>千代田区九段南3丁目／メンバー4人</span></a><small>次へ：九段下→神保町は半蔵門線・都営新宿線で1駅（直線で約0.8km）</small></li>
+  <li><a href="/shops/yonino-nagisa-shokudo/"><b>神保町 なぎさ食堂</b><span>千代田区神田三崎町2丁目／メンバー4人</span></a><small>次へ：神保町→小川町（淡路町）は都営新宿線で1駅（直線で約1.0km）</small></li>
+  <li><a href="/shops/yonino-chuka-juhachiban-kanda/"><b>淡路町 中華料理 十八番</b><span>千代田区内神田2丁目／メンバー4人</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/yonino-kaligari-akihabara/"><b>秋葉原 カリガリ</b><span>千代田区外神田3丁目／二宮和也・山田涼介・菊池風磨</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>いちばん多いのは、タイトルに【朝食】【朝飯】などが付いた朝ごはんの回です（33本）。2024年7月の#348までは当時の4人（誰かが不在の回もあります）で街の定食屋に行く回が中心で、3人になってからはステーキ、しゃぶしゃぶ、寿司、ジンギスカンまで朝ごはんとして登場します。ドライブの回では、1人がお店にコーヒーを買いに行く場面がよく出てきます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -300,7 +308,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/map.svg" alt="よにのちゃんねるが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区20軒、新宿区13軒、渋谷区8軒、千代田区7軒、中央区4軒など。23区の外は神奈川県3軒、東京の市部・島1軒、そのほかの道府県3軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>赤坂・六本木・麻布十番・西麻布</strong>：赤坂駅の近くに洋麺屋五右衛門 赤坂店（徒歩1分）・熟豚 三代目 蔵司（徒歩1分）・ドトールコーヒーショップ 赤坂青山通り店、赤坂7丁目に赤坂ごはん 山ね家、赤坂見附にSTREAMER COFFEE COMPANY AKASAKA、六本木一丁目に赤坂 金舌。六本木にはLe Pain Quotidien 東京ミッドタウン店とSTARBUCKS COFFEE 六本木7丁目店、麻布十番にはしゃぶしゃぶ だるま（麻布十番駅 徒歩2分）と干物割烹 あん梅、西麻布に胡同 西麻布店があります。</li>

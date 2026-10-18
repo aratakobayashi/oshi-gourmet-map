@@ -118,7 +118,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：麻布十番から六本木・西麻布へ</h2>
 <p>朝ごはんのおでん定食から、被っちゃダメよグルメの高級中華、大食いのしゃぶしゃぶ、デビュー1周年の焼肉会まで。Aぇちゅ〜ぶの4軒が、麻布十番・六本木・西麻布にまとまっています。</p>
-<figure class="fig course"><img src="/assets/img/posts/agroup-gourmet-matome/course-1.svg" alt="麻布十番から西麻布へのコース図。1 麻布十番の福島屋、2 六本木5丁目の賛田飯店、3 六本木7丁目のしゃぶしゃぶ温野菜 六本木店、4 西麻布の牛牛 西麻布 総本店" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/agroup-e9ea8a92-20240716/"><b>麻布十番 福島屋</b><span>港区麻布十番2丁目／メンバー5人</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/agroup-9098e43b/"><b>六本木 賛田飯店</b><span>港区六本木5丁目／メンバー5人</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/agroup-f9963b8f/"><b>六本木 温野菜</b><span>港区六本木7丁目／メンバー4人</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/agroup-94c8ca88/"><b>西麻布 牛牛</b><span>港区西麻布1丁目／メンバー5人</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>Aぇちゅ〜ぶの24軒は、同じテーブルを囲んで料理を選び合う「被っちゃダメよグルメ」や大食い企画の回が中心で、ガスト・ジョナサン・バーミヤンとファミリーレストランも3軒あります。「絵文字だけで出会えるか」の札幌・横浜・調布の回は、メンバーが1人ずつ立ち寄ったお店が並びます。大阪のお店は、正門良規の『笑ってコラえて！』や横山会の回など、ほかのグループと一緒の回が中心です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -244,7 +252,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/map.svg" alt="この記事に載っているAぇ! groupの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/agroup-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区6軒、台東区4軒、渋谷区3軒、新宿区1軒、世田谷区1軒など。23区の外は神奈川県4軒、東京の市部・島1軒、埼玉県1軒、そのほかの道府県18軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>六本木・麻布十番・西麻布</strong>：賛田飯店（六本木5丁目）、しゃぶしゃぶ温野菜 六本木店（六本木駅 徒歩2分）、牛牛 西麻布 総本店（六本木駅 徒歩6分）、麻布十番の福島屋。Aぇちゅ〜ぶの4軒がまとまっています。</li>

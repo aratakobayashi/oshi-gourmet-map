@@ -761,7 +761,7 @@ shop_ids:
 {% include stay-inline.html %}
 
 <h2>どの区に多い？</h2>
-<figure class="fig"><img src="/assets/img/posts/machichuka-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区では大田区32軒、世田谷区30軒、台東区・足立区・江戸川区が24軒ずつ、葛飾区23軒、江東区22軒が多い。23区の外は神奈川県70軒、埼玉県39軒、東京の市部・島38軒、千葉県32軒、そのほかの道府県129軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/machichuka-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、大田区32軒、世田谷区30軒、台東区24軒、足立区24軒、江戸川区24軒など。23区の外は神奈川県70軒、埼玉県39軒、東京の市部・島38軒、千葉県32軒、そのほかの道府県129軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 
 <p>ここからは、お店を地域ごとに並べています。区や地域の名前を押すと、お店が開きます。店名の上の日付は放送年月、そのあとに放送回と訪れた出演者、場所を書いています。</p>
 

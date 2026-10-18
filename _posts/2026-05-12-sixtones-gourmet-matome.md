@@ -175,7 +175,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：押上から両国へ</h2>
 <p>スカイツリーのふもとの忘年会のお店から、大食い企画の錦糸町、ストチューブの最初のころの両国まで。電車なら1駅ずつでつながっています。</p>
-<figure class="fig course"><img src="/assets/img/posts/sixtones-gourmet-matome/course-1.svg" alt="押上から両国へのコース図。1 東京ソラマチ（鼎泰豊・だるま）、2 錦糸町のGINZA 過門香（押上から半蔵門線で1駅）、3 両国の本所かえる本舗（錦糸町からJR総武線で1駅）、4 横網の屋形船 晴海屋" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/sixtones-dintaifung-soramachi/"><b>東京ソラマチ（鼎泰豊・だるま）</b><span>墨田区押上1丁目／メンバー6人</span></a><small>次へ：押上→錦糸町は半蔵門線で1駅（直線で約1.6km）</small></li>
+  <li><a href="/shops/sixtones-kamonka-kinshicho/"><b>錦糸町 過門香</b><span>墨田区江東橋3丁目／メンバー6人</span></a><small>次へ：錦糸町→両国はJR総武線で1駅（直線で約1.9km）</small></li>
+  <li><a href="/shops/sixtones-honjo-kaeru-honpo/"><b>両国 本所かえる本舗</b><span>墨田区亀沢1丁目／メンバー6人</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/sixtones-fe00963e-20201127/"><b>屋形船 晴海屋（横網）</b><span>墨田区横網1丁目／メンバー6人</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>ストチューブの53軒は、6人そろって同じテーブルを囲む回が中心です。2019〜2020年は秩父・京都・金沢・静岡などのドライブと旅の回、2022年からは忘年会・打ち上げ、大食い企画、東京での朝メシの回が増えます。一方、テレビ番組のロケは京本大我・髙地優吾など1〜2人の回が多く、ドラマのロケ地は森本慎太郎の『だが、情熱はある』と、松村北斗の2作品のものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -389,7 +397,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/map.svg" alt="SixTONESが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区12軒、新宿区8軒、渋谷区8軒、墨田区7軒、中央区6軒など。23区の外は神奈川県9軒、東京の市部・島4軒、埼玉県4軒、千葉県1軒、そのほかの道府県23軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>押上（東京ソラマチ）</strong>：鼎泰豊 東京ソラマチ店・月島名物もんじゃ だるま ソラマチ店（どちらも押上〈スカイツリー前〉駅 徒歩2分）と、同じソラマチ4階のストロベリーマニア。2つの忘年会の会場がまとまっています。</li>

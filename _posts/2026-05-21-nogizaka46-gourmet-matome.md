@@ -188,7 +188,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：水道橋から神保町・神田へ</h2>
 <p>中西アルノが朝ごはんを食べた水道橋の松屋から、さくさんぽ第5弾のカレーの2軒、与田祐希の個人PVの撮影場所まで。神保町のまわりにまとまった4軒です。</p>
-<figure class="fig course"><img src="/assets/img/posts/nogizaka46-gourmet-matome/course-1.svg" alt="水道橋から神保町・神田へのコース図。1 水道橋の松屋 水道橋店（神田三崎町）、2 神保町のキッチン南海 神保町店、3 神田小川町のカリーライス専門店 エチオピア 本店、4 神田錦町のGOOD MORNING CAFE 錦町（個人PVの撮影場所）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/nogizaka46-65b993cb-20250311/"><b>水道橋 松屋</b><span>千代田区神田三崎町3丁目／中西アルノ</span></a><small>次のお店まで直線で約1.1km</small></li>
+  <li><a href="/shops/nogizaka46-ef89d864/"><b>神保町 キッチン南海</b><span>千代田区神田神保町1丁目／遠藤さくら</span></a><small>次のお店まで直線で約0.2km</small></li>
+  <li><a href="/shops/nogizaka46-24da3fd9/"><b>神田小川町 エチオピア</b><span>千代田区神田小川町3丁目／遠藤さくら</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/nogizaka46-good-morning-cafe/"><b>神田錦町 GOOD MORNING CAFE（PV）</b><span>千代田区神田錦町3丁目／与田祐希</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>『乃木坂配信中』の33軒は、筒井あやめの喫茶探訪や遠藤さくらの「さくさんぽ」のように、メンバーが一人で町を歩いてお店に入る企画が中心です。冠番組のヒット祈願やキャンペーンの回は北海道などの旅先が多く、MV・個人PVの撮影場所は鎌倉・足利・飯能にまとまっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -417,7 +425,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/map.svg" alt="乃木坂46が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区7軒、台東区6軒、千代田区4軒、中央区3軒、渋谷区2軒など。23区の外は神奈川県14軒、埼玉県2軒、東京の市部・島1軒、そのほかの道府県61軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。MV・個人PVの撮影場所は、そう書いています。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>神保町・水道橋・神田</strong>：さくさんぽ第5弾のキッチン南海 神保町店・カリーライス専門店 エチオピア 本店（どちらも神保町駅 徒歩4分）、中西アルノの松屋 水道橋店（神田三崎町）。与田祐希の個人PVの撮影場所 GOOD MORNING CAFE 錦町（竹橋駅 徒歩5分）も近くです。</li>

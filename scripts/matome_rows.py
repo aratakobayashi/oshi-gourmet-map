@@ -6,7 +6,7 @@ matome_rows.py
 - 出典の章（公式YouTube・冠番組・出演番組・ドラマのロケ地・スタジオ）に id とアイコンを付け、
   冒頭に「出典で選ぶ」「メンバーで選ぶ」を置く
 - 年表とジャンルの図の章は、お店の章のあと（「はじめて見るなら」「エリアで巡るなら」の前）へ移す
-- 「エリアで巡るなら」の先頭に東京の聖地マップ（scripts/post_map.py の map.svg）を入れる
+- 「エリアで巡るなら」の先頭に東京23区のタイル地図（scripts/ward_tilemap.py の wards.svg）を入れる（このあと ward_tilemap.py を実行して図を作る）
 使い方: python scripts/matome_rows.py <記事のslug> [--color '#7c3aed']
 """
 import json
@@ -154,10 +154,10 @@ def main():
     secs = secs[:land] + moved + secs[land:]
     # エリアの章に地図
     ai = idx('エリアで巡る')
-    if ai is not None and 'map.svg' not in secs[ai]:
+    if ai is not None and 'wards.svg' not in secs[ai] and 'map.svg' not in secs[ai]:
         hm = re.match(r'<h2[^>]*>.*?</h2>\n?', secs[ai], re.S)
-        fig = (f'<figure class="fig"><img src="/assets/img/posts/{slug}/map.svg" alt="{gname}が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" '
-               f'width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>\n')
+        fig = (f'<figure class="fig"><img src="/assets/img/posts/{slug}/wards.svg" alt="{gname}のお店の場所の図" '
+               f'width="420" height="600" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図</figcaption></figure>\n')
         secs[ai] = secs[ai][:hm.end()] + fig + secs[ai][hm.end():]
     body = head + ''.join(secs)
 
@@ -179,7 +179,8 @@ def main():
         fm = fm.rstrip('\n') + '\npr: true\n'
     open(path, 'w', encoding='utf-8').write('---' + fm + '---' + body)
     subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'post_figures.py'), slug, '--color', color, '--only-genre'], check=False, capture_output=True)
-    subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'post_map.py'), slug, '--color', color, '--title', f'{gname}の東京の聖地マップ'], check=True)
+    subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'ward_tilemap.py'), slug, '--color', color, '--title', f'{gname}のお店の場所'], check=True)
+    subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'course_stops.py'), slug], check=True)
     print(slug, 'rows', body.count('class="wr"'), 'nav', len(nav))
 
 

@@ -4,6 +4,7 @@ ward_tilemap.py
 店が多いほど色が濃い。assets/img/posts/<slug>/wards.svg に書き出し、記事の本文の同じ図の width/height も合わせる。
 山手線の地図（post_map.py）では店の多くが地図の外になる番組（町中華で飲ろうぜ など）向け。
 
+本文に山手線の地図（map.svg）の図があれば、この図に置き換える（map.svg は消す）。色は省略すると本文の --pc を使う。
 使い方: python scripts/ward_tilemap.py <記事のslug> [--color '#dc2626'] [--title '…']
 """
 import argparse, collections, glob, json, os, re
@@ -32,10 +33,14 @@ def mix(c, t):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('slug'); ap.add_argument('--color', default='#c2410c'); ap.add_argument('--title', default='')
+    ap.add_argument('slug'); ap.add_argument('--color', default=''); ap.add_argument('--title', default='')
     a = ap.parse_args()
     path = glob.glob(os.path.join(ROOT, '_posts', f'*-{a.slug}.md'))[0]
-    fm = open(path, encoding='utf-8').read().split('---')[1]
+    whole = open(path, encoding='utf-8').read()
+    fm = whole.split('---')[1]
+    if not a.color:
+        m = re.search(r'--pc:\s*(#[0-9a-fA-F]{6})', whole)
+        a.color = m.group(1) if m else '#c2410c'
     ids = [x.strip().strip('"\'') for x in re.findall(r'^\s+-\s+(.+)$', fm.split('shop_ids:')[1], re.M)]
     S = {s['id']: s for s in json.load(open(os.path.join(ROOT, 'data/shops.json'), encoding='utf-8'))}
     shops = [S[i] for i in ids if i in S]
@@ -62,7 +67,7 @@ def main():
         n = ward.get(name, 0)
         t = 0.08 + 0.92 * (n / mx) ** 0.8 if n else 0.04
         fill = mix(a.color, t)
-        fg = '#fff' if t > 0.5 else INK
+        fg = '#fff' if t > 0.62 else INK
         x, y = x0 + cx * (T + G), y0 + cy * (T + G)
         out.append(f'<rect x="{x}" y="{y}" width="{T}" height="{T}" rx="8" fill="{fill}"/>')
         fs = 13 if len(name) <= 2 else 11.5
@@ -94,10 +99,19 @@ def main():
            + ''.join(out) + '</svg>')
     d = os.path.join(ROOT, 'assets/img/posts', a.slug); os.makedirs(d, exist_ok=True)
     open(os.path.join(d, 'wards.svg'), 'w', encoding='utf-8').write(svg)
+    # 本文の図: 山手線の地図を置き換える／すでにあれば大きさと説明を合わせる
+    top = '、'.join(f'{k}区{v}軒' for k, v in ward.most_common(5))
+    outer = '、'.join(f'{k}{v}軒' for k, v in rows)
+    alt = f'お店の場所の図。東京23区は1区＝1マスの地図で、{top}など' + (f'。23区の外は{outer}' if outer else '')
+    fig = (f'<figure class="fig"><img src="/assets/img/posts/{a.slug}/wards.svg" alt="{alt}" width="{W}" height="{H}" loading="lazy" decoding="async">'
+           f'<figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>')
     t = open(path, encoding='utf-8').read()
-    t2 = re.sub(r'(wards\.svg"[^>]*?width=")\d+(" height=")\d+', lambda m: f'{m.group(1)}{W}{m.group(2)}{H}', t)
+    t2 = re.sub(r'<figure class="fig"><img src="/assets/img/posts/[^"]*/(?:map|wards)\.svg".*?</figure>', lambda m: fig, t, flags=re.S)
     if t2 != t:
         open(path, 'w', encoding='utf-8').write(t2)
+    old_map = os.path.join(d, 'map.svg')
+    if os.path.exists(old_map):
+        os.remove(old_map)
     print(a.slug, 'wards.svg', W, H, dict(ward.most_common(3)), dict(other))
 
 

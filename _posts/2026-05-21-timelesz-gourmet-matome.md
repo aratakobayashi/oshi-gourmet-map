@@ -142,7 +142,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：有楽町から築地へ</h2>
 <p>『タイムレスマン』の「アーユーハングリーマン」で橋本将生・篠塚大輝が回った有楽町と銀座の2軒から、「1000円差し入れマン」で寺西拓人・原嘉孝が差し入れを買った築地のお店まで。</p>
-<figure class="fig course"><img src="/assets/img/posts/timelesz-gourmet-matome/course-1.svg" alt="有楽町から築地へのコース図。1 有楽町の寿司 魚がし日本一 有楽町店、2 銀座7丁目の味の中華 羽衣 銀座本店（直線で約0.8km）、3 築地の築地さのきや（直線で約0.7km）。合わせて直線で約1.5km" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/timelesz-6c0597af-20250902/"><b>有楽町 魚がし日本一</b><span>中央区銀座1丁目／橋本将生・篠塚大輝</span></a><small>次のお店まで直線で約0.8km</small></li>
+  <li><a href="/shops/timelesz-11cdabda/"><b>銀座7丁目 羽衣</b><span>中央区〒104丁目／橋本将生・篠塚大輝</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/timelesz-b1cf986a-20260724/"><b>築地 さのきや</b><span>中央区築地4丁目／寺西拓人・原嘉孝</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>『タイムレスマン』のお店は、2人ずつのチームで回る「アーユーハングリーマン」「1000円差し入れマン」と、メンバーがそろう「腹ペコ2択マン」「脱落旅」に分かれます。出演した番組では原嘉孝のロケが多く、『ニノさん』の茨城・神保町・高田馬場と、『ヒルナンデス！』の軽井沢などで12軒。松島聡は『ニノさん』の湯島と『ヒルナンデス！』の日暮里・蔵前で6軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -289,7 +296,7 @@ stay_inline: true
 <figure class="fig"><img src="/assets/img/posts/timelesz-gourmet-matome/genre.svg" alt="お店のジャンルと場所：和食14軒、スイーツ11軒、中華10軒、カフェ9軒、食事9軒、焼肉3軒、ラーメン・居酒屋・その他が1軒ずつ。東京都内は台東区8軒、港区7軒、千代田区5軒、新宿区・渋谷区が4軒ずつ、中央区3軒、目黒区・杉並区・荒川区・文京区が2軒ずつ、世田谷区・八王子市が1軒ずつ。東京の外は静岡県4軒、三重県・埼玉県・長野県が3軒ずつ、茨城県2軒、栃木県・北海道・大阪府が1軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の59軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/timelesz-gourmet-matome/map.svg" alt="timeleszが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/timelesz-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、台東区8軒、港区7軒、千代田区5軒、渋谷区4軒、新宿区4軒など。23区の外は埼玉県3軒、東京の市部・島1軒、そのほかの道府県15軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理・品物が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>有楽町・銀座・築地</strong>：『タイムレスマン』の寿司 魚がし日本一 有楽町店（銀座1丁目）・味の中華 羽衣 銀座本店（銀座7丁目）と、1000円差し入れマンの築地さのきや（築地4丁目）。</li>

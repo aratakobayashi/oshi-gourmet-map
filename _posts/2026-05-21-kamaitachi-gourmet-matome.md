@@ -94,7 +94,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：上野から新御徒町へ</h2>
 <p>『かまいまち』の上野編で紹介された3軒は、上野駅の東側から新御徒町にかけて、直線でおよそ1km以内に並んでいます。</p>
-<figure class="fig course"><img src="/assets/img/posts/kamaitachi-gourmet-matome/course-1.svg" alt="上野から新御徒町へのコース図。1 東上野のもつ焼き けいすけ、2 すぐ近くの東上野のやきとり 虎の子、3 南東の小島（新御徒町）のパーバーン" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/9d85a687/"><b>もつ焼き けいすけ（東上野）</b><span>台東区東上野3丁目／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/50d01f75/"><b>やきとり 虎の子（東上野）</b><span>台東区東上野2丁目／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/kamaitachi-a10db015/"><b>パーバーン（小島）</b><span>台東区小島2丁目／山内健司・濱家隆一</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 
 <div class="pf-quote"><p>2人そろってお店で食べた回がはっきりしているのは、公式YouTubeの3軒です。『かまいまち』の16軒は、ひとつの街の3〜4軒を出演者がそれぞれ紹介する形で、高円寺・上野・新大久保・浅草・下北沢と、東京の街ごとにまとまっています。トークの回で名前が挙がった4軒のうち3軒は、大阪・滋賀のお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
@@ -171,7 +178,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kamaitachi-gourmet-matome/map.svg" alt="かまいたちゆかりの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kamaitachi-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、台東区6軒、新宿区4軒、杉並区3軒、世田谷区3軒、港区2軒など。23区の外はそのほかの道府県3軒" width="420" height="538" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>新大久保</strong>：『かまいまち』新大久保編のホルモン船 ホールちゃん（大久保2丁目）・合鴨肉専門店 サムスンネ（新大久保駅 徒歩3分）・肉＆麺（新大久保駅 徒歩4分）・金アジ専門店 釣りあじ食堂（百人町1丁目）。</li>
