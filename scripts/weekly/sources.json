@@ -6,6 +6,7 @@
     {"id": "burari", "adapter": "burari", "name": "ぶらり途中下車の旅（日本テレビ articles.js）", "enabled": true, "lookback_days": 14},
     {"id": "syokusai", "adapter": "syokusai", "name": "食彩の王国（テレビ朝日 api/shop.json）", "enabled": true, "lookback_days": 14},
     {"id": "omouma", "adapter": "omouma", "name": "オモウマい店（中京テレビ feed/onair-1.json）", "enabled": true, "lookback_days": 14},
+    {"id": "meshidora", "adapter": "meshidora", "name": "メシドラ（日本テレビ articles.js。MCとゲストが訪れた店をホットペッパーAPIで1軒に決める。STARTO のゲストはそのグループにも）", "enabled": true, "lookback_days": 14},
     {"id": "hirunan", "adapter": "hirunan", "name": "ヒルナンデス!（日本テレビ articles.js。STARTO のメンバーが出たロケのコーナーの店をホットペッパーAPIで1軒に決める）", "enabled": true, "lookback_days": 14},
     {
       "id": "youtube",

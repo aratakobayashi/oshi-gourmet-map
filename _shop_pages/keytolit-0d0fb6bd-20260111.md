@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "海天丸 北23条店"
-description: "keytolitのYouTubeで紹介された和食「海天丸 北23条店」（北海道札幌市東区）。推し活グルメ巡礼スポット。"
+description: "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 北海道編」（2026年1月）で、5人が訪れた札幌の回転寿司店。"
 shop_id: "keytolit-0d0fb6bd-20260111"
 name: "海天丸 北23条店"
 genre: "washoku"
@@ -17,6 +17,8 @@ group: "keytolit"
 hotpepper_url: "https://www.hotpepper.jp/strJ000028086/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（きてれちゅーぶ）"
 lat: 43.094334
 lng: 141.375473
 members:

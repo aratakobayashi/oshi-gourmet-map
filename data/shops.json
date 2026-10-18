@@ -41239,7 +41239,8 @@
     ],
     "groups": [
       "naniwa",
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "naniwa",
     "nearest_station": "",
@@ -46114,10 +46115,9 @@
     "youtube_id": "",
     "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
-    "visited_date": "",
+    "visited_date": "2024-11-24",
     "members": [
       "亀梨和也",
-      "中丸雄一",
       "上田竜也"
     ],
     "groups": [
@@ -46125,7 +46125,7 @@
     ],
     "group": "kattun",
     "nearest_station": "",
-    "description": "東京都のその他。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が1軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131306/13248096/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001250503/",
@@ -46133,7 +46133,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "出典（kosodate-and）は亀梨・上田の2人の回。中丸雄一は出ていないので members から外す。visited_date が空→放送日 2024-11-24。11/11に撮影の目撃情報あり。genre は others→washoku が妥当。youtube_id なし（画像の有無を要確認）。"
   },
   {
     "id": "kattun-68bc5766-",
@@ -46147,10 +46150,9 @@
     "youtube_id": "",
     "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
-    "visited_date": "",
+    "visited_date": "2024-11-24",
     "members": [
       "亀梨和也",
-      "中丸雄一",
       "上田竜也"
     ],
     "groups": [
@@ -46158,7 +46160,7 @@
     ],
     "group": "kattun",
     "nearest_station": "",
-    "description": "東京都の寿司。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が2軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004025852/",
@@ -46166,7 +46168,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "中丸雄一を members から外す。visited_date 空→2024-11-24。"
   },
   {
     "id": "kattun-e483a667-",
@@ -46175,30 +46180,38 @@
     "prefecture": "東京都",
     "city": "渋谷区",
     "address": "東京都渋谷区神宮前5-1-6 イルパラッツィーノ表参道 1F",
-    "lat": 35.66840531870457,
-    "lng": 139.704890724298,
+    "lat": 35.665722,
+    "lng": 139.710129,
     "youtube_id": "",
     "source_video_title": "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？",
     "source_url": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
-    "visited_date": "",
+    "visited_date": "2024-11-24",
     "members": [
       "亀梨和也",
-      "中丸雄一",
-      "上田竜也"
+      "上田竜也",
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
     ],
     "groups": [
-      "kattun"
+      "kattun",
+      "keytolit"
     ],
     "group": "kattun",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩1分",
-    "description": "東京都の寿司。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が3軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "店の公式Xが放送告知。個室席。中丸を外す。visited_date 空→2024-11-24。KEY TO LIT の岩﨑大昇誕生日回（2026-08-23）でもこの店に行っている→ keytolit に attach 候補。"
   },
   {
     "id": "numberi-39dfe377-",
@@ -60237,64 +60250,6 @@
     "source_video_url": "https://www.youtube.com/watch?v=zMIDFI3mKZ0"
   },
   {
-    "id": "e94964ce",
-    "name": "フォルクス 西参道店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区代々木3-33-7 フォレストタウン参宮橋2F",
-    "lat": 35.682769837886035,
-    "lng": 139.6922244832902,
-    "source_video_title": "何するカトゥーン?（亀梨和也・上田竜也・中丸雄一）",
-    "source_url": "https://kosodate-and.net/",
-    "visited_date": "2021-01-01",
-    "members": [
-      "亀梨和也",
-      "上田竜也",
-      "中丸雄一"
-    ],
-    "groups": [
-      "kattun"
-    ],
-    "group": "kattun",
-    "source_type": "tv",
-    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131810/13023892/",
-    "description": "KAT-TUNがステーキと和風おろしハンバーグを堪能。",
-    "ordered_items": [
-      "熟成フィレステーキ200g",
-      "和風おろしハンバーグ"
-    ],
-    "nearest_station": "参宮橋駅 徒歩8分",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000010859/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/86/P037870486/P037870486_238.jpg"
-  },
-  {
-    "id": "5a9f4b32",
-    "name": "蕎楽亭",
-    "genre": "washoku",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区神楽坂3-6",
-    "lat": 35.70078543869502,
-    "lng": 139.73951614460083,
-    "source_video_title": "何するカトゥーン?（亀梨和也）",
-    "source_url": "https://shonentachi-movie.jp/kattun15th-location/",
-    "visited_date": "2021-01-01",
-    "members": [
-      "亀梨和也"
-    ],
-    "groups": [
-      "kattun"
-    ],
-    "group": "kattun",
-    "source_type": "tv",
-    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13000479/",
-    "description": "ミシュランビブグルマン取得の石臼挽き手打ちそばの名店。亀梨和也がリクエストし訪問。",
-    "nearest_station": "牛込神楽坂駅 徒歩5分",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000104319/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/29/26/P023022926/P023022926_238.jpg"
-  },
-  {
     "id": "a05bb79f",
     "name": "鮨処あいじ",
     "genre": "washoku",
@@ -60306,15 +60261,23 @@
     "source_video_title": "何するカトゥーン?（金沢ロケ）",
     "source_url": "https://kanazawa-tourism.net/location-topics/kattun/",
     "visited_date": "2021-10-25",
-    "members": [],
+    "members": [
+      "亀梨和也",
+      "上田竜也",
+      "中丸雄一"
+    ],
     "groups": [
       "kattun"
     ],
     "group": "kattun",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17001116/",
-    "description": "食べログ百名店選出のの金沢の高級寿司店。のどぐろなど金沢の名産を堪能。",
-    "nearest_station": "野町駅 徒歩14分"
+    "description": "フジテレビ『何するカトゥーン？』の金沢編（2021年10月25日放送）で、KAT-TUNの3人がのどぐろを食べた金沢・片町の寿司店。",
+    "nearest_station": "野町駅 徒歩14分",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "出典: 金沢観光ガイド（kanazawa-tourism.net）。members が空→3人。住所が「石川県金沢市片町」で番地なし（片町伝馬商店街の片町ペントハウス1階と記載）→ location_unverified か住所の補完が要る。description の食べログ百名店は削除。",
+    "location_unverified": true
   },
   {
     "id": "aaabb96a",
@@ -60327,7 +60290,7 @@
     "lng": 135.43322087596076,
     "source_video_title": "何するカトゥーン?（USJ打ち上げ / 亀梨和也・上田竜也・中丸雄一）",
     "source_url": "https://kosodate-and.net/nanisurukattun-usj-hotel/",
-    "visited_date": "2022-01-01",
+    "visited_date": "2022-07-25",
     "members": [
       "亀梨和也",
       "上田竜也",
@@ -60339,7 +60302,10 @@
     "group": "kattun",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270403/27114246/",
-    "description": "KAT-TUNがUSJ訪問後に打ち上げしたリーベルホテル1階のカフェ&バル。"
+    "description": "フジテレビ『何するカトゥーン？』のUSJ編（2022年7月25日放送の#16）で、KAT-TUNの3人がUSJのあとに打ち上げをしたホテルのカフェ＆バー。",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "visited_date 2022-01-01 は仮の値→放送日 2022-07-25（番組公式Xの告知）。席は撮影用にセッティングされたもの（kosodate-and）。"
   },
   {
     "id": "b51f102c",
@@ -74114,14 +74080,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「大食いへの道~ガスト編」で、5人が全メニューに挑んだファミリーレストラン。",
     "source_url": "https://ameblo.jp/rrayd/entry-12933643990.html",
     "source_type": "youtube",
     "youtube_id": "f7JLhLx3piU",
     "source_video_url": "https://www.youtube.com/watch?v=f7JLhLx3piU",
     "ordered_items": [
       "グリル＆サラダメニュー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "動画タイトルはoEmbedで確認。ファンブログ（ameblo rrayd）でメンバー全員。"
   },
   {
     "id": "keytolit-3bdaa974-20251026",
@@ -74145,14 +74114,16 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 無添蔵編」（2025年10月）で、5人が訪れた回転寿司店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "kVSpHpbRKwc",
     "source_video_url": "https://www.youtube.com/watch?v=kVSpHpbRKwc",
     "ordered_items": [
       "寿司"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-3be9f3f7-20251116",
@@ -74176,13 +74147,15 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「Arena Tour 2025 WAKE UP THE FOOLお疲れ様会」（2025年11月）で、5人がお疲れ様会をした焼肉店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "3s-B3OxavMA",
     "source_video_url": "https://www.youtube.com/watch?v=3s-B3OxavMA",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001019638/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/53/P021569153/P021569153_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/53/P021569153/P021569153_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-0d0fb6bd-20260111",
@@ -74206,7 +74179,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 北海道編」（2026年1月）で、5人が訪れた札幌の回転寿司店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "SeMsbMYcLoE",
@@ -74215,7 +74188,9 @@
       "寿司"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ000028086/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-aeffd844-20260517",
@@ -74239,14 +74214,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「ガリさん想い出の地ペニーレイン」（2026年5月）で、猪狩蒼弥の思い出の地として5人が訪れた那須のパン屋。",
     "source_url": "https://kosodate-and.net/keytolit-igari-bakery/",
     "source_type": "youtube",
     "youtube_id": "CCdc5_vcVVg",
     "source_video_url": "https://www.youtube.com/watch?v=CCdc5_vcVVg",
     "ordered_items": [
       "パン"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "「きてれちゅーぶ1周年」佐々木大光ご褒美旅行の回（kosodate-and）。"
   },
   {
     "id": "keytolit-4d23a9a6-20260823",
@@ -74270,7 +74248,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「誕生日おめでとう 大昇が食べたいご飯全部ご馳走します」（2026年8月）で、岩﨑大昇の誕生日企画で5人が訪れたイタリア料理店。",
     "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
     "source_type": "youtube",
     "youtube_id": "iROul4K0Bqc",
@@ -74279,7 +74257,10 @@
       "ナポリピッツァ"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ003532735/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/28/P050225928/P050225928_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/28/P050225928/P050225928_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "同じ回の店はほかに3軒（カサデサラサ 渋谷区道玄坂2-25-5／廻転鮨 銀座おのでら 本店（既存 kattun-e483a667- に attach 可）／Caldo Nakameguro 目黒区上目黒3-5-29）がkosodate-andに載るが未登録。genre は others（イタリアン）。"
   },
   {
     "id": "keytolit-53f25a60-20261004",
@@ -74303,14 +74284,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「高級ホテルビュッフェ 少食井上瑞稀と同じ量しか食べられません」（2026年10月）で、5人が食事をしたホテルニューオータニのビュッフェレストラン。",
     "source_url": "https://kosodate-and.net/keytolit-hotel-buffet/",
     "source_type": "youtube",
     "youtube_id": "Kyhj4Uw20zs",
     "source_video_url": "https://www.youtube.com/watch?v=Kyhj4Uw20zs",
     "ordered_items": [
       "ビュッフェ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "kosodate-and: 個室「SKY-B」で撮影・食事。"
   },
   {
     "id": "machichuka-225ba954-20190401",
@@ -126245,7 +126229,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「市場で極上朝メシを食い尽くせ」（2025年8月）で、5人が船橋市場で朝ごはんを食べた食堂。",
     "source_url": "https://www.nododama-news.com/keytolit-hananoya/",
     "source_type": "youtube",
     "youtube_id": "Y6c167N9JIY",
@@ -126255,7 +126239,10 @@
       "海鮮丼",
       "すし屋の海鮮丼",
       "お刺身定食"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "nododama-news にメンバーごとの注文あり（岩﨑:アジフライ定食／井上:海鮮丼＋アジフライ／中村:寿司屋の海鮮丼／猪狩:海鮮ごま醤油漬け丼＋アジフライ／佐々木:お刺身定食＋アジフライ）。ordered_items に使える。"
   },
   {
     "id": "keytolit-5430db80-20260531",
@@ -126279,14 +126266,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 宇都宮餃子編」（2026年5月）で、5人が訪れた宇都宮の餃子店。",
     "source_url": "https://kosodate-and.net/keytolit-gyoza-utsunomiya/",
     "source_type": "youtube",
     "youtube_id": "qDbJIKa8SXg",
     "source_video_url": "https://www.youtube.com/watch?v=qDbJIKa8SXg",
     "ordered_items": [
       "餃子"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "店の公式Xの投稿（kosodate-and に引用）で来店を確認。井上瑞稀は龍門餃子3皿+3個。"
   },
   {
     "id": "shojikisanpo-ed198540-20120421",
@@ -200266,13 +200256,6 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります27 第12戦 KEY TO LIT猪狩蒼弥がゴチ初登場！（2026-06-18 日本テレビ）",
     "visited_date": "2026-06-18",
     "members": [
-      "倉科カナ",
-      "増田貴久",
-      "矢部浩之",
-      "岡村隆史",
-      "白石麻衣",
-      "佐野勇斗",
-      "せいや",
       "猪狩蒼弥"
     ],
     "groups": [
@@ -200281,14 +200264,24 @@
       "keytolit"
     ],
     "group": "gochi",
-    "description": "倉科カナ・増田貴久・矢部浩之・岡村隆史・白石麻衣・佐野勇斗・せいや・猪狩蒼弥が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2026年6月18日放送）に猪狩蒼弥がゲストで初登場した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471dm8dwtcy4crphs3x.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "倉科カナ",
+      "増田貴久",
+      "矢部浩之",
+      "岡村隆史",
+      "白石麻衣",
+      "佐野勇斗",
+      "せいや"
+    ],
+    "qa_note": "結成（2025-02-16）後。猪狩はゲスト。"
   },
   {
     "id": "gochi-2fed6030-20260528",
@@ -202017,14 +202010,7 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります25 第5戦 運命の再会ゴチに亀梨和也＆門脇麦が登場！！超難問コスプレクイズも！（2024-03-14 日本テレビ）",
     "visited_date": "2024-03-14",
     "members": [
-      "盛山晋太郎",
-      "岡村隆史",
-      "やす子",
-      "亀梨和也",
-      "増田貴久",
-      "高橋文哉",
-      "門脇麦",
-      "小芝風花"
+      "亀梨和也"
     ],
     "groups": [
       "gochi",
@@ -202033,14 +202019,24 @@
       "kattun"
     ],
     "group": "gochi",
-    "description": "盛山晋太郎・岡村隆史・やす子・亀梨和也・増田貴久・高橋文哉・門脇麦・小芝風花が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2024年3月14日放送）に亀梨和也がゲストで出演した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471lvvwlw6xvvxjt32l.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "盛山晋太郎",
+      "岡村隆史",
+      "やす子",
+      "増田貴久",
+      "高橋文哉",
+      "門脇麦",
+      "小芝風花"
+    ],
+    "qa_note": "KAT-TUN在籍中（解散2025-03-31前）に亀梨が個人でゲスト出演。kamenashi グループにも入っている。"
   },
   {
     "id": "gochi-00bef0a3-20240229",
@@ -203887,14 +203883,7 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります22 第20戦 ダレダレ？コスプレ＆亀梨和也・福原遥参戦ゴチ2時間SP！（2021-11-04 日本テレビ）",
     "visited_date": "2021-11-04",
     "members": [
-      "松下洸平",
-      "亀梨和也",
-      "矢部浩之",
-      "ノブ",
-      "岡村隆史",
-      "中条あやみ",
-      "福原遥",
-      "増田貴久"
+      "亀梨和也"
     ],
     "groups": [
       "gochi",
@@ -203903,14 +203892,24 @@
       "kattun"
     ],
     "group": "gochi",
-    "description": "松下洸平・亀梨和也・矢部浩之・ノブ・岡村隆史・中条あやみ・福原遥・増田貴久が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2021年11月4日放送）に亀梨和也がゲストで出演した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471akkqew8nmgfiuhrx.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "松下洸平",
+      "矢部浩之",
+      "ノブ",
+      "岡村隆史",
+      "中条あやみ",
+      "福原遥",
+      "増田貴久"
+    ],
+    "qa_note": "KAT-TUN在籍中に亀梨が個人でゲスト出演。kamenashi グループにも入っている。"
   },
   {
     "id": "gochi-0e61d470-20211001",
@@ -283762,7 +283761,8 @@
       "那須雄登"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "bishonen"
     ],
     "group": "kanjani",
     "description": "SUPER EIGHTの横山裕が『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年10月17日放送）で訪れた居酒屋の店。",
@@ -284179,7 +284179,8 @@
       "ゆいちゃみ"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探究者・長野くんの世界一ウマい食べ歩き」（2024年1月25日放送）で訪れた居酒屋の店。",
@@ -284369,7 +284370,8 @@
       "あの"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探求者・長野くんの世界一ウマい食べ歩き」（2023年9月14日放送）で訪れた焼肉の店。",
@@ -284492,7 +284494,8 @@
       "井上咲楽"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探求者・長野くんの世界一ウマい食べ歩き」（2023年6月29日放送）で訪れた和食の店。",
@@ -284733,5 +284736,1321 @@
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/97/18/P039289718/P039289718_238.jpg"
+  },
+  {
+    "id": "20th_century-fcc2b195-20230406",
+    "name": "やぶ久",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋2-1-19",
+    "lat": 35.682495,
+    "lng": 139.772141,
+    "source_video_title": "世界一ウマそうな○○の歩き方（2023-04-06 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2023-04-06",
+    "members": [
+      "長野博",
+      "吉村崇",
+      "松村沙友理"
+    ],
+    "groups": [
+      "20th_century"
+    ],
+    "group": "20th_century",
+    "description": "20th Centuryの長野博が『ヒルナンデス！』の「世界一ウマそうな○○の歩き方」（2023年4月6日放送）で訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081q3rl3pzwyh215owb.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/96/P031561396/P031561396_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000002585/"
+  },
+  {
+    "id": "meshidora-0cc4a1c2-20231007",
+    "name": "GGC 高崎本店",
+    "genre": "shokuji",
+    "prefecture": "群馬県",
+    "city": "高崎市",
+    "address": "群馬県高崎市緑町1丁目28-2",
+    "lat": 36.352444,
+    "lng": 139.003845,
+    "source_video_title": "池松壮亮&勝地涼が初回ゲスト（2023-10-07 日本テレビ『メシドラ』）",
+    "visited_date": "2023-10-07",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "池松壮亮",
+      "勝地涼"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の高崎市の回（2023年10月7日放送）で、兼近大樹・満島真之介・池松壮亮・勝地涼が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723dbt9oaizpfr7hkgx.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/96/P013693396/P013693396_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000325093/"
+  },
+  {
+    "id": "meshidora-94df90b3-20231104",
+    "name": "トラットリアJマリーナ",
+    "genre": "shokuji",
+    "prefecture": "茨城県",
+    "city": "東茨城郡大洗町",
+    "address": "茨城県東茨城郡大洗町港中央12-5 大洗マリーナ2階",
+    "lat": 36.307384,
+    "lng": 140.56694,
+    "source_video_title": "磯村勇斗と茨城県大洗町へおしゃれな旅（2023-11-04 日本テレビ『メシドラ』）",
+    "visited_date": "2023-11-04",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "磯村勇斗"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の大洗町の回（2023年11月4日放送）で、兼近大樹・満島真之介・磯村勇斗が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37233cbf9xwffkyqeuyu.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/54/65/P042475465/P042475465_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ002654008/"
+  },
+  {
+    "id": "meshidora-84d815aa-20231111",
+    "name": "CAMA Kitchen カマキッチン",
+    "genre": "shokuji",
+    "prefecture": "千葉県",
+    "city": "鴨川市",
+    "address": "千葉県鴨川市前原46",
+    "lat": 35.102646,
+    "lng": 140.103806,
+    "source_video_title": "工藤阿須加と千葉県・鴨川へグルメ旅（2023-11-11 日本テレビ『メシドラ』）",
+    "visited_date": "2023-11-11",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "工藤阿須加"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の鴨川の回（2023年11月11日放送）で、兼近大樹・満島真之介・工藤阿須加が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723f8cbr8mkab7nteyn.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/28/22/P043202822/P043202822_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001245086/"
+  },
+  {
+    "id": "meshidora-2c6ab41c-20240302",
+    "name": "ハニービー",
+    "genre": "izakaya",
+    "prefecture": "神奈川県",
+    "city": "横須賀市",
+    "address": "神奈川県横須賀市本町2-1",
+    "lat": 35.282131,
+    "lng": 139.665558,
+    "source_video_title": "速水もこみちと行く神奈川県横須賀市の旅（2024-03-02 日本テレビ『メシドラ』）",
+    "visited_date": "2024-03-02",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "速水もこみち"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の横須賀市の回（2024年3月2日放送）で、兼近大樹・満島真之介・速水もこみちが訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723ln96zgobqxi897fi.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/05/20/P035850520/P035850520_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000104974/"
+  },
+  {
+    "id": "meshidora-b7dd9a61-20240309",
+    "name": "Forest cafe lien フォレスト カフェ リアン",
+    "genre": "cafe",
+    "prefecture": "茨城県",
+    "city": "常総市",
+    "address": "茨城県常総市内守谷町3312-1",
+    "lat": 35.99535,
+    "lng": 139.954147,
+    "source_video_title": "城田優と行く茨城県常総市の旅（2024-03-09 日本テレビ『メシドラ』）",
+    "visited_date": "2024-03-09",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "城田優"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の常総市の回（2024年3月9日放送）で、兼近大樹・満島真之介・城田優が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37237yur57nbjejh3ehm.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/28/07/P046362807/P046362807_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003984019/"
+  },
+  {
+    "id": "meshidora-8cd36180-20240427",
+    "name": "千の光",
+    "genre": "cafe",
+    "prefecture": "千葉県",
+    "city": "館山市",
+    "address": "千葉県館山市洲崎580 ロイヤルマンション1F",
+    "lat": 34.970631,
+    "lng": 139.761993,
+    "source_video_title": "片寄涼太・佐藤大樹と行く千葉県館山市の旅（2024-04-27 日本テレビ『メシドラ』）",
+    "visited_date": "2024-04-27",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "片寄涼太",
+      "佐藤大樹"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の館山市の回（2024年4月27日放送）で、兼近大樹・満島真之介・片寄涼太・佐藤大樹が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37239jqfg21cp99lnopp.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/98/82/P046199882/P046199882_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003984827/"
+  },
+  {
+    "id": "meshidora-52ae07cc-20240504",
+    "name": "金港堂珈琲",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "厚木市",
+    "address": "神奈川県厚木市東町2-1 リバージュ21 201",
+    "lat": 35.443871,
+    "lng": 139.370041,
+    "source_video_title": "間宮祥太朗と行く神奈川県厚木市の旅（2024-05-04 日本テレビ『メシドラ』）",
+    "visited_date": "2024-05-04",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "間宮祥太朗"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の厚木市の回（2024年5月4日放送）で、兼近大樹・満島真之介・間宮祥太朗が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723bw9gp62fj2li7y7o.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/50/P038340250/P038340250_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001275661/"
+  },
+  {
+    "id": "meshidora-13e56efa-20240622",
+    "name": "Cafe Matilda カフェ マチルダ",
+    "genre": "izakaya",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "address": "埼玉県川越市中原町1丁目5-17 MANITAビル1F",
+    "lat": 35.916924,
+    "lng": 139.48233,
+    "source_video_title": "NEWS増田貴久、片桐仁と行く埼玉県川越市の旅（2024-06-22 日本テレビ『メシドラ』）",
+    "visited_date": "2024-06-22",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "増田貴久",
+      "片桐仁"
+    ],
+    "groups": [
+      "meshidora",
+      "news"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の川越市の回（2024年6月22日放送）で、兼近大樹・満島真之介・増田貴久・片桐仁が訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37233icn2wqoymewvcdz.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/18/55/P045351855/P045351855_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003893012/"
+  },
+  {
+    "id": "meshidora-91fa2851-20240622",
+    "name": "CAFE ANDON カフェアンドン",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "川越市",
+    "address": "埼玉県川越市小仙波町1-21-1",
+    "lat": 35.916328,
+    "lng": 139.489548,
+    "source_video_title": "NEWS増田貴久、片桐仁と行く埼玉県川越市の旅（2024-06-22 日本テレビ『メシドラ』）",
+    "visited_date": "2024-06-22",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "増田貴久",
+      "片桐仁"
+    ],
+    "groups": [
+      "meshidora",
+      "news"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の川越市の回（2024年6月22日放送）で、兼近大樹・満島真之介・増田貴久・片桐仁が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37233icn2wqoymewvcdz.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/05/P046171405/P046171405_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003984180/"
+  },
+  {
+    "id": "meshidora-4e46e0b4-20240713",
+    "name": "ラ ピッツェリア",
+    "genre": "shokuji",
+    "prefecture": "群馬県",
+    "city": "前橋市",
+    "address": "群馬県前橋市石倉町5-17-3",
+    "lat": 36.393867,
+    "lng": 139.052032,
+    "source_video_title": "戸次重幸と行く群馬県前橋市の旅（2024-07-13 日本テレビ『メシドラ』）",
+    "visited_date": "2024-07-13",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "戸次重幸"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の前橋市の回（2024年7月13日放送）で、兼近大樹・満島真之介・戸次重幸が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723jo00pfre6pzyir0r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/19/34/P042361934/P042361934_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003473598/"
+  },
+  {
+    "id": "meshidora-7a4655b0-20240720",
+    "name": "焼き鳥たんたん",
+    "genre": "washoku",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "address": "神奈川県藤沢市辻堂新町3-1-28",
+    "lat": 35.337559,
+    "lng": 139.457031,
+    "source_video_title": "山本耕史と行く神奈川県藤沢市の旅（2024-07-20 日本テレビ『メシドラ』）",
+    "visited_date": "2024-07-20",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "山本耕史"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の藤沢市の回（2024年7月20日放送）で、兼近大樹・満島真之介・山本耕史が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723t64xi76j2ubawtxt.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/96/P037755796/P037755796_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001057686/"
+  },
+  {
+    "id": "meshidora-7cd6d0eb-20240803",
+    "name": "surfers逗子",
+    "genre": "izakaya",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "address": "神奈川県逗子市新宿5丁目822-2",
+    "lat": 35.29475,
+    "lng": 139.566925,
+    "source_video_title": "生瀬勝久と行く神奈川県逗子市の旅（2024-08-03 日本テレビ『メシドラ』）",
+    "visited_date": "2024-08-03",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "生瀬勝久"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の逗子市の回（2024年8月3日放送）で、兼近大樹・満島真之介・生瀬勝久が訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723z0hhjb0svnt7s9g0.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/61/10/P043376110/P043376110_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003715414/",
+    "location_unverified": true
+  },
+  {
+    "id": "meshidora-f94192c2-20240817",
+    "name": "竹寿司 東松山",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "東松山市",
+    "address": "埼玉県東松山市松山2404-2",
+    "lat": 36.054077,
+    "lng": 139.405319,
+    "source_video_title": "高杉真宙と行く埼玉県東松山市の旅（2024-08-17 日本テレビ『メシドラ』）",
+    "visited_date": "2024-08-17",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "高杉真宙"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の東松山市の回（2024年8月17日放送）で、兼近大樹・満島真之介・高杉真宙が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37234cijstonqujlhjl8.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/00/93/P019870093/P019870093_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000184730/"
+  },
+  {
+    "id": "meshidora-fd5c407b-20240907",
+    "name": "Italian table BENCIA イタリアンテーブル ベンシア",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "越谷市",
+    "address": "埼玉県越谷市赤山本町8-14 第一JMビル1-B号室",
+    "lat": 35.886673,
+    "lng": 139.786087,
+    "source_video_title": "森田剛と行く埼玉県越谷市の旅（2024-09-07 日本テレビ『メシドラ』）",
+    "visited_date": "2024-09-07",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "森田剛"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の越谷市の回（2024年9月7日放送）で、兼近大樹・満島真之介・森田剛が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723exwofgelr5ch7ebe.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/46/98/P040214698/P040214698_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003388446/"
+  },
+  {
+    "id": "meshidora-2cde405b-20241005",
+    "name": "ベトナム料理カフェ aLo aLo",
+    "genre": "shokuji",
+    "prefecture": "神奈川県",
+    "city": "大和市",
+    "address": "神奈川県大和市大和南1-15-6 タイセイビル1 B号",
+    "lat": 35.46949,
+    "lng": 139.466064,
+    "source_video_title": "綾小路翔と行く神奈川県大和市の旅（2024-10-05 日本テレビ『メシドラ』）",
+    "visited_date": "2024-10-05",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "綾小路翔"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の大和市の回（2024年10月5日放送）で、兼近大樹・満島真之介・綾小路翔が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723gwloo47mkhuxa3tv.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/29/49/P040812949/P040812949_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003410267/"
+  },
+  {
+    "id": "meshidora-3f207f9d-20241019",
+    "name": "IBARAKI MEAT.",
+    "genre": "shokuji",
+    "prefecture": "茨城県",
+    "city": "ひたちなか市",
+    "address": "茨城県ひたちなか市東大島2丁目19-28",
+    "lat": 36.406651,
+    "lng": 140.532181,
+    "source_video_title": "GENERATIONS白濱亜嵐・中務裕太と行く茨城県ひたちなか市の旅（2024-10-19 日本テレビ『メシドラ』）",
+    "visited_date": "2024-10-19",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "白濱亜嵐",
+      "中務裕太"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』のひたちなか市の回（2024年10月19日放送）で、兼近大樹・満島真之介・白濱亜嵐・中務裕太が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723i2u20i019g4j9nic.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/91/P041784591/P041784591_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001120554/"
+  },
+  {
+    "id": "meshidora-d04013ad-20241102",
+    "name": "桐生庵",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "あきる野市",
+    "address": "東京都あきる野市油平-125-10",
+    "lat": 35.725193,
+    "lng": 139.286636,
+    "source_video_title": "秦基博・又吉直樹と行く東京都あきる野市の旅（2024-11-02 日本テレビ『メシドラ』）",
+    "visited_date": "2024-11-02",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "秦基博",
+      "又吉直樹"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』のあきる野市の回（2024年11月2日放送）で、兼近大樹・満島真之介・秦基博・又吉直樹が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723bgbj6j8ugdhjlatv.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/45/59/P046414559/P046414559_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001251099/"
+  },
+  {
+    "id": "meshidora-ca5a4b1e-20241214",
+    "name": "三角屋根 パンとコーヒー",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "三浦郡葉山町",
+    "address": "神奈川県三浦郡葉山町堀内1047-3",
+    "lat": 35.271683,
+    "lng": 139.57164,
+    "source_video_title": "松山ケンイチと行く神奈川県葉山町の旅（2024-12-14 日本テレビ『メシドラ』）",
+    "visited_date": "2024-12-14",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "松山ケンイチ"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の葉山町の回（2024年12月14日放送）で、兼近大樹・満島真之介・松山ケンイチが訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723fabs3p0cj59tu4mf.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/30/00/P039753000/P039753000_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003323765/"
+  },
+  {
+    "id": "meshidora-364c6b1b-20250201",
+    "name": "うずら屋",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市宮本町2-5-8",
+    "lat": 35.795975,
+    "lng": 139.462753,
+    "source_video_title": "古田新太・中谷潤人と行く埼玉県所沢市の旅（2025-02-01 日本テレビ『メシドラ』）",
+    "visited_date": "2025-02-01",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "古田新太",
+      "中谷潤人"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の所沢市の回（2025年2月1日放送）で、兼近大樹・満島真之介・古田新太・中谷潤人が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723fy1om421kkmk6n95.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/99/84/P029309984/P029309984_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000764831/"
+  },
+  {
+    "id": "meshidora-48872869-20250201",
+    "name": "STAR NEST CAFE",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市星の宮2-9-15",
+    "lat": 35.788631,
+    "lng": 139.460632,
+    "source_video_title": "古田新太・中谷潤人と行く埼玉県所沢市の旅（2025-02-01 日本テレビ『メシドラ』）",
+    "visited_date": "2025-02-01",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "古田新太",
+      "中谷潤人"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の所沢市の回（2025年2月1日放送）で、兼近大樹・満島真之介・古田新太・中谷潤人が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723fy1om421kkmk6n95.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/12/P038878012/P038878012_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001286376/"
+  },
+  {
+    "id": "meshidora-7e977b0c-20250504",
+    "name": "うなぎ専門店 くしだ",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "柏市",
+    "address": "千葉県柏市末広町10-23",
+    "lat": 35.864304,
+    "lng": 139.971634,
+    "source_video_title": "伊藤英明と行く千葉県柏市の旅（2025-05-04 日本テレビ『メシドラ』）",
+    "visited_date": "2025-05-04",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "伊藤英明"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の柏市の回（2025年5月4日放送）で、兼近大樹・満島真之介・伊藤英明が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723n3m87j0umyopz5qj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/58/86/P013185886/P013185886_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000194156/"
+  },
+  {
+    "id": "meshidora-335a1900-20250601",
+    "name": "The Hamburger Stand MilesAway ザハンバーガースタンド マイルスアウェイ",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "入間市",
+    "address": "埼玉県入間市東藤沢3-10-11",
+    "lat": 35.818638,
+    "lng": 139.414032,
+    "source_video_title": "駿河太郎と行く埼玉県入間市の旅（2025-06-01 日本テレビ『メシドラ』）",
+    "visited_date": "2025-06-01",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "駿河太郎"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の入間市の回（2025年6月1日放送）で、兼近大樹・満島真之介・駿河太郎が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723hzgi828kax114w4t.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/67/08/P040296708/P040296708_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003389038/"
+  },
+  {
+    "id": "meshidora-9d738103-20250608",
+    "name": "Cafe & Bar THE MAD HATTER",
+    "genre": "cafe",
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "address": "千葉県千葉市中央区富士見2-12-5 富士見二丁目ビル1F",
+    "lat": 35.609486,
+    "lng": 140.119385,
+    "source_video_title": "田原俊彦と行く千葉県千葉市の旅（2025-06-08 日本テレビ『メシドラ』）",
+    "visited_date": "2025-06-08",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "田原俊彦"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の千葉市の回（2025年6月8日放送）で、兼近大樹・満島真之介・田原俊彦が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723t2fdbxyghwlui2mr.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/17/69/P049691769/P049691769_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004558497/"
+  },
+  {
+    "id": "meshidora-9941bd7f-20250720",
+    "name": "オリベートNARITA",
+    "genre": "shokuji",
+    "prefecture": "千葉県",
+    "city": "成田市",
+    "address": "千葉県成田市花崎町816ラエント成田1F",
+    "lat": 35.777283,
+    "lng": 140.315475,
+    "source_video_title": "伊原剛志・川平慈英と行く千葉県成田市の旅（2025-07-20 日本テレビ『メシドラ』）",
+    "visited_date": "2025-07-20",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "伊原剛志",
+      "川平慈英"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の成田市の回（2025年7月20日放送）で、兼近大樹・満島真之介・伊原剛志・川平慈英が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723s5bdxqjo7hcxpbzv.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/06/P041043706/P041043706_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003450779/"
+  },
+  {
+    "id": "meshidora-54f6fc6d-20250907",
+    "name": "手打ちうどん ムサシ",
+    "genre": "washoku",
+    "prefecture": "山梨県",
+    "city": "富士吉田市",
+    "address": "山梨県富士吉田市上吉田6-10-19",
+    "lat": 35.475918,
+    "lng": 138.791702,
+    "source_video_title": "向井理と行く山梨県富士吉田市の旅（2025-09-07 日本テレビ『メシドラ』）",
+    "visited_date": "2025-09-07",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "向井理"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の富士吉田市の回（2025年9月7日放送）で、兼近大樹・満島真之介・向井理が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37235s31hiybjrcozubu.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/15/80/P019951580/P019951580_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001101405/"
+  },
+  {
+    "id": "meshidora-41c53312-20251012",
+    "name": "Garage Cafe AJITO ガレージカフェアジト",
+    "genre": "cafe",
+    "prefecture": "茨城県",
+    "city": "古河市",
+    "address": "茨城県古河市原町6-16",
+    "lat": 36.183575,
+    "lng": 139.704834,
+    "source_video_title": "古舘伊知郎と行く茨城県古河市の旅（2025-10-12 日本テレビ『メシドラ』）",
+    "visited_date": "2025-10-12",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "古舘伊知郎"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の古河市の回（2025年10月12日放送）で、兼近大樹・満島真之介・古舘伊知郎が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723iz7su8d6xakpx8b7.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/32/P047047732/P047047732_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004049864/"
+  },
+  {
+    "id": "meshidora-d78f4bad-20251102",
+    "name": "長寿庵",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "address": "千葉県市川市南八幡5-8-5",
+    "lat": 35.72065,
+    "lng": 139.923599,
+    "source_video_title": "Snow Man向井康二と行く千葉県市川市の旅（2025-11-02 日本テレビ『メシドラ』）",
+    "visited_date": "2025-11-02",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "向井康二"
+    ],
+    "groups": [
+      "meshidora",
+      "snowman"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の市川市の回（2025年11月2日放送）で、兼近大樹・満島真之介・向井康二が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723qe1ds86rtt6q3wsh.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/82/P034171482/P034171482_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000612015/"
+  },
+  {
+    "id": "meshidora-6770ffed-20251130",
+    "name": "まぐろんち 茂原店",
+    "genre": "izakaya",
+    "prefecture": "千葉県",
+    "city": "茂原市",
+    "address": "千葉県茂原市八千代2-12-8",
+    "lat": 35.423306,
+    "lng": 140.294373,
+    "source_video_title": "福士蒼汰と行く千葉県茂原市の旅（2025-11-30 日本テレビ『メシドラ』）",
+    "visited_date": "2025-11-30",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "福士蒼汰"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の茂原市の回（2025年11月30日放送）で、兼近大樹・満島真之介・福士蒼汰が訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723v8ylix3khimapl41.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/93/08/P038999308/P038999308_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003693739/"
+  },
+  {
+    "id": "meshidora-8473cd5f-20260111",
+    "name": "il Ceppo イルチェッポ",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "八潮市",
+    "address": "埼玉県八潮市中央4-11-2",
+    "lat": 35.819481,
+    "lng": 139.827026,
+    "source_video_title": "藤木直人と行く埼玉県八潮市の旅（2026-01-11 日本テレビ『メシドラ』）",
+    "visited_date": "2026-01-11",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "藤木直人"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の八潮市の回（2026年1月11日放送）で、兼近大樹・満島真之介・藤木直人が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723ieycv5yzjef891y8.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/03/P050963103/P050963103_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003473032/"
+  },
+  {
+    "id": "meshidora-39014d80-20260201",
+    "name": "Valeo",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "address": "東京都西東京市田無町2-14-9 田無マーシャンハイツ1-D",
+    "lat": 35.728828,
+    "lng": 139.542938,
+    "source_video_title": "槙野智章と行く東京都西東京市の旅（2026-02-01 日本テレビ『メシドラ』）",
+    "visited_date": "2026-02-01",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "槙野智章"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の西東京市の回（2026年2月1日放送）で、兼近大樹・満島真之介・槙野智章が訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723kilpg7daxqgngubj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/39/13/P046123913/P046123913_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003573001/"
+  },
+  {
+    "id": "meshidora-003650de-20260215",
+    "name": "LITTLE BY LITTLE 新浦安",
+    "genre": "cafe",
+    "prefecture": "千葉県",
+    "city": "浦安市",
+    "address": "千葉県浦安市日の出5-5-1 パークシティ東京ベイ新浦安CoCo",
+    "lat": 35.641357,
+    "lng": 139.927109,
+    "source_video_title": "竹内涼真と行く千葉県浦安市の旅（2026-02-15 日本テレビ『メシドラ』）",
+    "visited_date": "2026-02-15",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "竹内涼真"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の浦安市の回（2026年2月15日放送）で、兼近大樹・満島真之介・竹内涼真が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/37237kna45uf3ltfqgja.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/40/35/P038394035/P038394035_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001281337/"
+  },
+  {
+    "id": "meshidora-de5f2082-20260510",
+    "name": "casual dining&bar YOU　NOTE （カジュアルダイニング＆バー ユーノート）",
+    "genre": "shokuji",
+    "prefecture": "群馬県",
+    "city": "太田市",
+    "address": "群馬県太田市浜町3-6 太田商工会議所1F",
+    "lat": 36.291935,
+    "lng": 139.375183,
+    "source_video_title": "鶴見辰吾・北村有起哉と行く群馬県太田市の旅（2026-05-10 日本テレビ『メシドラ』）",
+    "visited_date": "2026-05-10",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "鶴見辰吾",
+      "北村有起哉"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の太田市の回（2026年5月10日放送）で、兼近大樹・満島真之介・鶴見辰吾・北村有起哉が訪れた店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723m3brdquywvwexmmk.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/08/10/P043790810/P043790810_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003624088/"
+  },
+  {
+    "id": "meshidora-e4bd2f40-20260517",
+    "name": "マツガミネコーヒービルヂング 103 グリムの森店",
+    "genre": "cafe",
+    "prefecture": "栃木県",
+    "city": "下野市",
+    "address": "栃木県下野市下古山747",
+    "lat": 36.455303,
+    "lng": 139.855881,
+    "source_video_title": "DJ KOO(TRF)と行く栃木県下野市の旅（2026-05-17 日本テレビ『メシドラ』）",
+    "visited_date": "2026-05-17",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "DJ KOO"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の下野市の回（2026年5月17日放送）で、兼近大樹・満島真之介・DJ KOOが訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723oiubw2mdymgxrddw.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/63/49/P041176349/P041176349_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001280210/",
+    "location_unverified": true
+  },
+  {
+    "id": "meshidora-7e935071-20260607",
+    "name": "和食 みみ亭",
+    "genre": "izakaya",
+    "prefecture": "千葉県",
+    "city": "八街市",
+    "address": "千葉県八街市八街ほ238-40",
+    "lat": 35.663361,
+    "lng": 140.316986,
+    "source_video_title": "桝太一と行く千葉県八街市の旅（2026-06-07 日本テレビ『メシドラ』）",
+    "visited_date": "2026-06-07",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "桝太一"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の八街市の回（2026年6月7日放送）で、兼近大樹・満島真之介・桝太一が訪れた居酒屋の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723ucjcxf2wwx6votkx.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/49/43/P042474943/P042474943_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003624258/"
+  },
+  {
+    "id": "meshidora-35c15543-20260621",
+    "name": "鰻 和処 いづ喜",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "館山市",
+    "address": "千葉県館山市館山805-1",
+    "lat": 34.983376,
+    "lng": 139.857574,
+    "source_video_title": "山﨑賢人・山田裕貴・小栗旬と行く千葉県房総半島の旅（2026-06-21 日本テレビ『メシドラ』）",
+    "visited_date": "2026-06-21",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "山﨑賢人",
+      "山田裕貴",
+      "小栗旬"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の房総半島の回（2026年6月21日放送）で、兼近大樹・満島真之介・山﨑賢人・山田裕貴・小栗旬が訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723t6boi2nwx6fmuht0.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/08/60/P047320860/P047320860_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004089668/"
+  },
+  {
+    "id": "meshidora-1ff01662-20260809",
+    "name": "茶フェ ちゃきち 富岡店",
+    "genre": "cafe",
+    "prefecture": "群馬県",
+    "city": "富岡市",
+    "address": "群馬県富岡市一ノ宮264",
+    "lat": 36.253761,
+    "lng": 138.863968,
+    "source_video_title": "花村想太(Da-iCE)と行く群馬県富岡市の旅（2026-08-09 日本テレビ『メシドラ』）",
+    "visited_date": "2026-08-09",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "花村想太"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の富岡市の回（2026年8月9日放送）で、兼近大樹・満島真之介・花村想太が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723svo0cqkzth5rc7q5.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/58/08/P050465808/P050465808_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004634080/"
+  },
+  {
+    "id": "meshidora-9e455ac0-20260920",
+    "name": "珈琲 松井商店",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "address": "東京都三鷹市下連雀2-16-9",
+    "lat": 35.691891,
+    "lng": 139.565994,
+    "source_video_title": "小田凱人と行く東京都三鷹市の旅（2026-09-20 日本テレビ『メシドラ』）",
+    "visited_date": "2026-09-20",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "小田凱人"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の三鷹市の回（2026年9月20日放送）で、兼近大樹・満島真之介・小田凱人が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723jauxa02idf806tmc.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/07/75/P024370775/P024370775_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001116507/"
+  },
+  {
+    "id": "meshidora-37ebc592-20261018",
+    "name": "cafe-imoan",
+    "genre": "cafe",
+    "prefecture": "千葉県",
+    "city": "八千代市",
+    "address": "千葉県八千代市大和田新田353-101 ナツミビル2F",
+    "lat": 35.724396,
+    "lng": 140.094574,
+    "source_video_title": "生田斗真と行く千葉県八千代市の旅（2026-10-18 日本テレビ『メシドラ』）",
+    "visited_date": "2026-10-18",
+    "members": [
+      "兼近大樹",
+      "満島真之介",
+      "生田斗真"
+    ],
+    "groups": [
+      "meshidora"
+    ],
+    "group": "meshidora",
+    "description": "『メシドラ』の八千代市の回（2026年10月18日放送）で、兼近大樹・満島真之介・生田斗真が訪れたカフェの店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723j49rkgx3uawhkdnt.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "メシドラ",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/18/P038141318/P038141318_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001277839/"
+  },
+  {
+    "id": "keytolit-a7465e43-20260823",
+    "name": "カサデサラサ",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-25-5 島田ビル 2F",
+    "lat": 35.660236,
+    "lng": 139.696457,
+    "source_video_title": "KEY TO LIT【誕生日おめでとう🎉】大昇が食べたいご飯全部ご馳走します😋",
+    "visited_date": "2026-08-23",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の岩﨑大昇の誕生日企画「大昇が食べたいご飯全部ご馳走します」（2026年8月）で、5人が訪れたメキシコ料理店。",
+    "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
+    "source_type": "youtube",
+    "youtube_id": "iROul4K0Bqc",
+    "source_video_url": "https://www.youtube.com/watch?v=iROul4K0Bqc",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
+  },
+  {
+    "id": "keytolit-023a67b5-20260823",
+    "name": "Caldo Nakameguro",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区上目黒3-5-29",
+    "lat": 35.643215,
+    "lng": 139.697601,
+    "source_video_title": "KEY TO LIT【誕生日おめでとう🎉】大昇が食べたいご飯全部ご馳走します😋",
+    "visited_date": "2026-08-23",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の岩﨑大昇の誕生日企画「大昇が食べたいご飯全部ご馳走します」（2026年8月）で、5人が訪れたスペイン料理店。",
+    "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
+    "source_type": "youtube",
+    "youtube_id": "iROul4K0Bqc",
+    "source_video_url": "https://www.youtube.com/watch?v=iROul4K0Bqc",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
+  },
+  {
+    "id": "keytolit-4e632cb1-20250629",
+    "name": "軽井沢バーベキュー カフェ コラージュ",
+    "genre": "others",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町長倉664-6",
+    "lat": 36.331024,
+    "lng": 138.608032,
+    "source_video_title": "KEY TO LIT【5人旅の最後に語る…始まりの言葉】俺たちの目指すべき場所！",
+    "visited_date": "2025-06-29",
+    "members": [
+      "岩﨑大昇",
+      "井上瑞稀",
+      "中村嶺亜",
+      "猪狩蒼弥",
+      "佐々木大光"
+    ],
+    "groups": [
+      "keytolit"
+    ],
+    "group": "keytolit",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の5人旅の最終回「5人旅の最後に語る…始まりの言葉」（2025年6月）で、5人がバーベキューをした軽井沢の店。",
+    "source_url": "https://ameblo.jp/rrayd/entry-12933643990.html",
+    "source_type": "youtube",
+    "youtube_id": "YvwDjv2LomM",
+    "source_video_url": "https://www.youtube.com/watch?v=YvwDjv2LomM",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   }
 ]

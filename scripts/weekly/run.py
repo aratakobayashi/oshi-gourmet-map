@@ -66,6 +66,8 @@ def init_state():
         'omouma': {'last_date': last('omouma')},
         'hirunan': {'last_date': max((s.get('visited_date') or '' for s in shops if '/hirunan/articles/' in (s.get('source_url') or '')),
                                      default=today())},
+        'meshidora': {'last_date': max((s.get('visited_date') or '' for s in shops if '/meshidora/articles/' in (s.get('source_url') or '')),
+                                       default=today())},
         'youtube': {},
     }
     src = load(SOURCES, {'sources': []})
@@ -121,7 +123,7 @@ def main():
             results.append((sid, src.get('name', sid), 'error: ' + msg, 0, 0))
 
     # merge_candidates.py で確かめる（国土地理院で番地まで一致・重複・画像あり など）
-    added, skipped = [], []
+    added, skipped, attached = [], [], 0
     if cands:
         tmp = tempfile.mkdtemp()
         cpath = a.keep or os.path.join(tmp, 'candidates.json')
@@ -137,6 +139,7 @@ def main():
             raise SystemExit('merge_candidates.py が失敗しました（shops.json は書き換えていません）')
         rep = json.load(open(rpath, encoding='utf-8'))
         added, skipped = rep['added'], rep['skipped']
+        attached = rep.get('attached', 0)  # ほかのグループの同じ店にグループを付けた数
 
     src_of = {(c['name'], c.get('group')): c['_source'] for c in cands}
     summary = render(results, cands, added, skipped, pre_skips, src_of, a.dry_run)
@@ -144,7 +147,7 @@ def main():
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8').write(summary + '\n')
     if os.environ.get('GITHUB_OUTPUT'):
-        open(os.environ['GITHUB_OUTPUT'], 'a').write(f'added={0 if a.dry_run else len(added)}\n')
+        open(os.environ['GITHUB_OUTPUT'], 'a').write(f'added={0 if a.dry_run else len(added) + attached}\n')
     if not a.dry_run:
         new_state['_updated'] = today()
         json.dump(new_state, open(STATE, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)

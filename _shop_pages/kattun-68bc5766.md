@@ -1,24 +1,26 @@
 ---
 layout: shop
 title: "寿司 まぐろ問屋恵み ハラカド店"
-description: "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？で紹介された和食「寿司 まぐろ問屋恵み ハラカド店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が2軒目に訪れた回転寿司店。"
 shop_id: "kattun-68bc5766-"
 name: "寿司 まぐろ問屋恵み ハラカド店"
 genre: "washoku"
 prefecture: "東京都"
 city: "渋谷区"
 address: "東京都渋谷区神宮前6-31-21 東急プラザ ハラカド 5F"
+visited_date: "2024-11-24"
 source_video_title: "何するカトゥーン？何カツン【亀梨和也＆上田竜也ロケ地】回転寿司はどこ？食べたメニューは何？"
 source_url: "https://kosodate-and.net/nanisurukattun-kaiten-sushi"
 group: "kattun"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13296103/"
 hotpepper_url: "https://www.hotpepper.jp/strJ004025852/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg"
+visit_kind: "own_tv"
+program: "何するカトゥーン？"
 lat: 35.66840531870457
 lng: 139.704890724298
 members:
   - "亀梨和也"
-  - "中丸雄一"
   - "上田竜也"
 groups:
   - "kattun"

@@ -12,6 +12,7 @@ course_stops.py
 本文の <figure class="fig course">…course-<n>.svg…</figure> か、前に作った <!-- stops:<n> -->…<!-- /stops --> を置き換える。
 使い方: python scripts/course_stops.py <記事のslug>
 """
+import collections
 import glob, html, json, math, os, re, sys
 
 import yaml
@@ -68,7 +69,9 @@ def main():
     S = {s['id']: s for s in json.load(open(os.path.join(ROOT, 'data/shops.json'), encoding='utf-8'))}
     C = json.load(open(os.path.join(ROOT, '_data/shop_cards.json'), encoding='utf-8'))
     g = fm.get('group')
-    own = {m for x in S.values() if x.get('group') == g for m in (x.get('members') or [])} if g else None
+    # 記事のグループのメンバー＝そのグループが主の店に2回以上出てくる人（ほかのグループと一緒に行った1回だけの人を除く）
+    cnt = collections.Counter(m for x in S.values() if x.get('group') == g for m in (x.get('members') or [])) if g else None
+    own = {m for m, c in cnt.items() if c >= 2} if cnt else None
     for n, course in enumerate(fm.get('courses') or [], 1):
         block = build(n, course, S, C, own)
         pat_fig = re.compile(r'<figure class="fig course"><img src="[^"]*/course-%d\.svg".*?</figure>' % n, re.S)
