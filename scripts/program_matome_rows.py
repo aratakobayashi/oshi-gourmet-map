@@ -16,12 +16,22 @@ WARDS = [
     ('城南', ['品川区', '目黒区', '大田区', '世田谷区']),
 ]
 NEAR = ['神奈川県', '埼玉県', '千葉県']
+SAME_MEMBERS = False  # 全店で出演者が同じ（酒場放浪記の吉田類など）なら行に書かない
+REGIONS = [
+    ('北海道・東北', ['北海道', '青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県']),
+    ('関東（ほか）・甲信越', ['茨城県', '栃木県', '群馬県', '山梨県', '長野県', '新潟県']),
+    ('東海・北陸', ['静岡県', '愛知県', '岐阜県', '三重県', '富山県', '石川県', '福井県']),
+    ('近畿', ['滋賀県', '京都府', '大阪府', '兵庫県', '奈良県', '和歌山県']),
+    ('中国・四国', ['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県']),
+    ('九州・沖縄', ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県', '沖縄県']),
+]
 
 
 def town(s):
     a = s.get('address') or ''
     rest = a.replace(s.get('prefecture') or '', '', 1).replace(s.get('city') or '', '', 1)
     t = re.split(r'[0-9０-９一二三四五六七八九十]+丁目|[0-9０-９]', rest)[0].strip()
+    t = re.sub(r'^[区市町村]', '', t)
     return t[:8]
 
 
@@ -30,6 +40,7 @@ def ep(s, prefix):
     t = re.sub(r'（\d{4}-\d\d-\d\d[^）]*）$', '', t)
     t = t.replace(prefix, '', 1).strip().replace('　', ' ')
     t = t.replace(prefix, '').strip()
+    t = re.sub(r'（移転）', '', re.sub(r'\s*「[^」]*」\s*', ' ', t)).strip()
     return t or '放送回'
 
 
@@ -41,7 +52,7 @@ def row(s, prefix, place, cards):
     """1軒分のデータ（app.js が開いたときに .wr の行にする）: [お店のページ, 年.月, 店名, 説明, 食べログ, ホットペッパー]"""
     d = s.get('visited_date') or ''
     k = f'{int(d[:4])}.{int(d[5:7])}' if len(d) >= 7 else ''
-    mem = '・'.join(s.get('members') or [])
+    mem = '' if SAME_MEMBERS else '・'.join(s.get('members') or [])
     t = f'{ep(s, prefix)}／{mem}（{place}）' if mem else f'{ep(s, prefix)}（{place}）'
     c = cards.get(s['id']) or {}
     return [c.get('u') or '', k, s['name'], t, c.get('tb') or '', c.get('hp') or '']
@@ -51,11 +62,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('slug'); ap.add_argument('group'); ap.add_argument('--prefix', default='')
     a = ap.parse_args()
+    global SAME_MEMBERS
     path = glob.glob(os.path.join(ROOT, '_posts', f'*-{a.slug}.md'))[0]
     cards = json.load(open(os.path.join(ROOT, '_data/shop_cards.json'), encoding='utf-8'))
     shops = [s for s in json.load(open(os.path.join(ROOT, 'data/shops.json'), encoding='utf-8'))
              if a.group in (s.get('groups') or [s.get('group')]) and not s.get('closed')]
     shops.sort(key=lambda s: (s.get('visited_date') or '', s['id']))
+    SAME_MEMBERS = len({tuple(s.get('members') or []) for s in shops}) == 1
     by = collections.defaultdict(list)
     for s in shops:
         by[(s.get('prefecture'), s.get('city'))].append(s)
@@ -76,7 +89,14 @@ def main():
         if l:
             secs.append((p, [('', sorted(l, key=lambda s: (s.get('visited_date') or '', s['id'])))]))
     rest = [s for k, l in by.items() if k not in used for s in l]
-    if rest:
+    if len(rest) > 60:
+        # 多いときは地方ごとに分け、地方の中は都道府県ごと
+        for rname, prefs in REGIONS:
+            sub = [(p, sorted([s for s in rest if s.get('prefecture') == p], key=lambda s: (s.get('visited_date') or '', s['id']))) for p in prefs]
+            sub = [(p, l) for p, l in sub if l]
+            if sub:
+                secs.append((rname, sub))
+    elif rest:
         secs.append(('そのほかの道府県', [('', sorted(rest, key=lambda s: (s.get('prefecture') or '', s.get('visited_date') or '')))]))
 
     out = []
