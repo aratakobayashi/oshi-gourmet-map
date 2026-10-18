@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「揚州飯店 本店」"
-description: "RIIZEで紹介された中華「揚州飯店 本店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "RIIZEが2025年の日本ファンミーティングの際に訪れ、ウンソクが箸を持った写真がInstagramに載ったとファンの間で紹介されている横浜中華街の中華料理店。"
 shop_id: "kpop_riize-8d13cea1-"
 name: "揚州飯店 本店"
 genre: "chuka"
@@ -12,8 +12,12 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/14860.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/kanagawa/A1405/A140505/14039477/"
+visit_kind: "other"
+program: "RIIZE Instagram"
 lat: 35.60087392357947
 lng: 139.58251078045478
+members:
+  - "ウンソク"
 groups:
   - "kpop_riize"
 ---

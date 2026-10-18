@@ -1,293 +1,314 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 4288" width="420" height="4288" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="4288" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 4594" width="420" height="4594" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="4594" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">亀梨和也の聖地 年表</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="4262" stroke="#059669" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
-<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">動画の公開日・番組の放送日の順（推しグルメ巡礼MAPのデータより）</text>
+<line x1="86" y1="88" x2="86" y2="4568" stroke="#059669" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="88" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">東京夢の島マリーナ アウトドア…</text>
-<text x="118" y="134" font-size="12.5" fill="#059669">亀梨和也の眉毛が少しずつ太くなっていっ</text>
-<text x="118" y="152" font-size="12.5" fill="#059669">たら後輩の宮舘涼太はどんな反応をする？</text>
-<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="231" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">中国料理「翡翠宮」</text>
+<text x="118" y="134" font-size="12.5" fill="#059669">ぐるぐるナインティナイン ゴチになりま</text>
+<text x="118" y="152" font-size="12.5" fill="#059669">す22 第20戦 ダレダレ？コスプレ＆亀梨</text>
+<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="231" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
 <circle cx="86" cy="209" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="190" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">自家製麺223</text>
-<text x="118" y="236" font-size="12.5" fill="#059669">【ニンニク】亀梨和也、初めての！？二郎</text>
-<text x="118" y="254" font-size="12.5" fill="#059669">系ラーメン</text>
+<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">東京夢の島マリーナ アウトドア…</text>
+<text x="118" y="236" font-size="12.5" fill="#059669">亀梨和也の眉毛が少しずつ太くなっていっ</text>
+<text x="118" y="254" font-size="12.5" fill="#059669">たら後輩の宮舘涼太はどんな反応をする？</text>
 <text x="70" y="316" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="333" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="311" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="292" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="316" font-size="16" font-weight="800" fill="#241F1A">浅草 もんじゃ かっぱ祭り</text>
-<text x="118" y="338" font-size="12.5" fill="#059669">【飯テロ】鈴木福と浅草で最高のもんじゃ</text>
-<text x="118" y="356" font-size="12.5" fill="#059669">をひたすらにお腹いっぱい食べる。</text>
+<text x="118" y="316" font-size="16" font-weight="800" fill="#241F1A">自家製麺223</text>
+<text x="118" y="338" font-size="12.5" fill="#059669">【ニンニク】亀梨和也、初めての！？二郎</text>
+<text x="118" y="356" font-size="12.5" fill="#059669">系ラーメン</text>
 <text x="70" y="418" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="435" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
+<text x="70" y="435" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="413" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="394" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="418" font-size="16" font-weight="800" fill="#241F1A">夷川餃子なかじま</text>
-<text x="118" y="440" font-size="12.5" fill="#059669">【大奥】ドラマ撮影の空き時間はこんな感</text>
-<text x="118" y="458" font-size="12.5" fill="#059669">じ。京都で餃子を食べたり街を散歩したり</text>
+<text x="118" y="418" font-size="16" font-weight="800" fill="#241F1A">浅草 もんじゃ かっぱ祭り</text>
+<text x="118" y="440" font-size="12.5" fill="#059669">【飯テロ】鈴木福と浅草で最高のもんじゃ</text>
+<text x="118" y="458" font-size="12.5" fill="#059669">をひたすらにお腹いっぱい食べる。</text>
 <text x="70" y="520" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="537" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="515" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="496" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="520" font-size="16" font-weight="800" fill="#241F1A">鳥焼 萬歳亭</text>
-<text x="118" y="542" font-size="12.5" fill="#059669">【晩酌】亀梨和也、宮崎の地鶏としっぽり</text>
-<text x="118" y="560" font-size="12.5" fill="#059669">1人飲み。</text>
+<text x="118" y="520" font-size="16" font-weight="800" fill="#241F1A">夷川餃子なかじま</text>
+<text x="118" y="542" font-size="12.5" fill="#059669">【大奥】ドラマ撮影の空き時間はこんな感</text>
+<text x="118" y="560" font-size="12.5" fill="#059669">じ。京都で餃子を食べたり街を散歩したり</text>
 <text x="70" y="622" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="617" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="598" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">辛麺屋桝元 赤江店</text>
-<text x="118" y="644" font-size="12.5" fill="#059669">【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺</text>
-<text x="118" y="662" font-size="12.5" fill="#059669">を食べる。</text>
+<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">鳥焼 萬歳亭</text>
+<text x="118" y="644" font-size="12.5" fill="#059669">【晩酌】亀梨和也、宮崎の地鶏としっぽり</text>
+<text x="118" y="662" font-size="12.5" fill="#059669">1人飲み。</text>
 <text x="70" y="724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
 <circle cx="86" cy="719" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="700" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">九州じゃんがら原宿店</text>
-<text x="118" y="746" font-size="12.5" fill="#059669">【爆食】亀梨&amp;越岡がジュニア時代に通っ</text>
-<text x="118" y="764" font-size="12.5" fill="#059669">た思い出のじゃんがららーめんで濃厚豚骨</text>
+<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">フェルミンチョ</text>
+<text x="118" y="746" font-size="12.5" fill="#059669">ぐるぐるナインティナイン ゴチになりま</text>
+<text x="118" y="764" font-size="12.5" fill="#059669">す25 第5戦 運命の再会ゴチに亀梨和也＆</text>
 <text x="70" y="826" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="821" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="802" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">Hohokam DINER</text>
-<text x="118" y="848" font-size="12.5" fill="#059669">【爆食】亀梨&amp;越岡がジュニア時代に通っ</text>
-<text x="118" y="866" font-size="12.5" fill="#059669">た思い出のじゃんがららーめんで濃厚豚骨</text>
+<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">辛麺屋桝元 赤江店</text>
+<text x="118" y="848" font-size="12.5" fill="#059669">【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺</text>
+<text x="118" y="866" font-size="12.5" fill="#059669">を食べる。</text>
 <text x="70" y="928" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="945" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="923" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="904" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">鶏そば２２３</text>
-<text x="118" y="950" font-size="12.5" fill="#059669">【朝食】京都の朝。一人で濃厚ラーメンを</text>
-<text x="118" y="968" font-size="12.5" fill="#059669">すすります。</text>
+<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">九州じゃんがら原宿店</text>
+<text x="118" y="950" font-size="12.5" fill="#059669">【爆食】亀梨&amp;越岡がジュニア時代に通っ</text>
+<text x="118" y="968" font-size="12.5" fill="#059669">た思い出のじゃんがららーめんで濃厚豚骨</text>
 <text x="70" y="1030" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="1025" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1006" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">釣船茶屋 ざうお 新宿店</text>
-<text x="118" y="1052" font-size="12.5" fill="#059669">【大漁】なにわ男子 高橋恭平と釣りがで</text>
-<text x="118" y="1070" font-size="12.5" fill="#059669">きる居酒屋で釣って食べまくる！</text>
+<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">Hohokam DINER</text>
+<text x="118" y="1052" font-size="12.5" fill="#059669">【爆食】亀梨&amp;越岡がジュニア時代に通っ</text>
+<text x="118" y="1070" font-size="12.5" fill="#059669">た思い出のじゃんがららーめんで濃厚豚骨</text>
 <text x="70" y="1132" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1149" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="1149" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="1127" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1108" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">壹銭洋食 本店</text>
-<text x="118" y="1154" font-size="12.5" fill="#059669">【vlog】久しぶりのオフの日京都旅vlog</text>
-<text x="118" y="1172" font-size="12.5" fill="#059669">🌸たくさん食べて、リフレッシュしてきま</text>
+<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">鶏そば２２３</text>
+<text x="118" y="1154" font-size="12.5" fill="#059669">【朝食】京都の朝。一人で濃厚ラーメンを</text>
+<text x="118" y="1172" font-size="12.5" fill="#059669">すすります。</text>
 <text x="70" y="1234" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="1251" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="1229" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1210" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">原宿GLAMS BBQ Lounge</text>
-<text x="118" y="1256" font-size="12.5" fill="#059669">【グローブあり】なにわ男子 藤原丈一郎</text>
-<text x="118" y="1274" font-size="12.5" fill="#059669">と東京のど真ん中でBBQをしたら幸せすぎ</text>
+<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">釣船茶屋 ざうお 新宿店</text>
+<text x="118" y="1256" font-size="12.5" fill="#059669">【大漁】なにわ男子 高橋恭平と釣りがで</text>
+<text x="118" y="1274" font-size="12.5" fill="#059669">きる居酒屋で釣って食べまくる！</text>
 <text x="70" y="1336" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1353" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="1353" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="1331" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1312" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1336" font-size="16" font-weight="800" fill="#241F1A">屋台 ひでちゃんラーメン</text>
-<text x="118" y="1358" font-size="12.5" fill="#059669">【爆飲み】福岡の屋台で1人飲みをしてい</text>
-<text x="118" y="1376" font-size="12.5" fill="#059669">たらお客さんとのトークが楽しすぎてどん</text>
+<text x="118" y="1336" font-size="16" font-weight="800" fill="#241F1A">壹銭洋食 本店</text>
+<text x="118" y="1358" font-size="12.5" fill="#059669">【vlog】久しぶりのオフの日京都旅vlog</text>
+<text x="118" y="1376" font-size="12.5" fill="#059669">🌸たくさん食べて、リフレッシュしてきま</text>
 <text x="70" y="1438" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1455" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="1455" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="1433" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1414" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1438" font-size="16" font-weight="800" fill="#241F1A">焼肉古今</text>
-<text x="118" y="1460" font-size="12.5" fill="#059669">【ぼっち】亀梨和也がひとりで焼肉を食べ</text>
-<text x="118" y="1478" font-size="12.5" fill="#059669">るだけの動画。</text>
+<text x="118" y="1438" font-size="16" font-weight="800" fill="#241F1A">原宿GLAMS BBQ Lounge</text>
+<text x="118" y="1460" font-size="12.5" fill="#059669">【グローブあり】なにわ男子 藤原丈一郎</text>
+<text x="118" y="1478" font-size="12.5" fill="#059669">と東京のど真ん中でBBQをしたら幸せすぎ</text>
 <text x="70" y="1540" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1557" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="1557" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="1535" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1516" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1540" font-size="16" font-weight="800" fill="#241F1A">華 千房 恵比寿ガーデンプレイ…</text>
-<text x="118" y="1562" font-size="12.5" fill="#059669">【妖怪人間】かつての仲間、杏ちゃんと鈴</text>
-<text x="118" y="1580" font-size="12.5" fill="#059669">木福くんと再会してディナーに向かってド</text>
+<text x="118" y="1540" font-size="16" font-weight="800" fill="#241F1A">屋台 ひでちゃんラーメン</text>
+<text x="118" y="1562" font-size="12.5" fill="#059669">【爆飲み】福岡の屋台で1人飲みをしてい</text>
+<text x="118" y="1580" font-size="12.5" fill="#059669">たらお客さんとのトークが楽しすぎてどん</text>
 <text x="70" y="1642" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1659" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="1659" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="1637" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1618" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1642" font-size="16" font-weight="800" fill="#241F1A">布恒更科</text>
-<text x="118" y="1664" font-size="12.5" fill="#059669">【爆食】Travis Japan七五三掛龍也 初</text>
-<text x="118" y="1682" font-size="12.5" fill="#059669">の蕎麦打ち体験！お互いの蕎麦を食べ比べ</text>
+<text x="118" y="1642" font-size="16" font-weight="800" fill="#241F1A">焼肉古今</text>
+<text x="118" y="1664" font-size="12.5" fill="#059669">【ぼっち】亀梨和也がひとりで焼肉を食べ</text>
+<text x="118" y="1682" font-size="12.5" fill="#059669">るだけの動画。</text>
 <text x="70" y="1744" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="1761" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="1739" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1720" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1744" font-size="16" font-weight="800" fill="#241F1A">焼肉 冷麺 ユッチャン。銀座店</text>
-<text x="118" y="1766" font-size="12.5" fill="#059669">【ぼっち】亀梨和也の1人ごはん。ハワイ</text>
-<text x="118" y="1784" font-size="12.5" fill="#059669">の思い出の冷麺を食べてガッツポーズ。</text>
+<text x="118" y="1744" font-size="16" font-weight="800" fill="#241F1A">華 千房 恵比寿ガーデンプレイ…</text>
+<text x="118" y="1766" font-size="12.5" fill="#059669">【妖怪人間】かつての仲間、杏ちゃんと鈴</text>
+<text x="118" y="1784" font-size="12.5" fill="#059669">木福くんと再会してディナーに向かってド</text>
 <text x="70" y="1846" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1863" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="1863" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="1841" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1822" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1846" font-size="16" font-weight="800" fill="#241F1A">大徳壽 みなとみらい店</text>
-<text x="118" y="1868" font-size="12.5" fill="#059669">【夜景】なにわ男子 道枝駿佑と夜景が見</text>
-<text x="118" y="1886" font-size="12.5" fill="#059669">える上空の焼肉屋さんで豪華焼肉パーティ</text>
+<text x="118" y="1846" font-size="16" font-weight="800" fill="#241F1A">布恒更科</text>
+<text x="118" y="1868" font-size="12.5" fill="#059669">【爆食】Travis Japan七五三掛龍也 初</text>
+<text x="118" y="1886" font-size="12.5" fill="#059669">の蕎麦打ち体験！お互いの蕎麦を食べ比べ</text>
 <text x="70" y="1948" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1965" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="1965" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="1943" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="1924" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1948" font-size="16" font-weight="800" fill="#241F1A">一蘭 原宿店</text>
-<text x="118" y="1970" font-size="12.5" fill="#059669">【数年ぶり】Snow Man ダテっちょと念願</text>
-<text x="118" y="1988" font-size="12.5" fill="#059669">の一蘭でラーメン！こだわりのトッピング</text>
+<text x="118" y="1948" font-size="16" font-weight="800" fill="#241F1A">焼肉 冷麺 ユッチャン。銀座店</text>
+<text x="118" y="1970" font-size="12.5" fill="#059669">【ぼっち】亀梨和也の1人ごはん。ハワイ</text>
+<text x="118" y="1988" font-size="12.5" fill="#059669">の思い出の冷麺を食べてガッツポーズ。</text>
 <text x="70" y="2050" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="2067" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="2045" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2026" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2050" font-size="16" font-weight="800" fill="#241F1A">浅草たい焼き工房 求楽</text>
-<text x="118" y="2072" font-size="12.5" fill="#059669">【爆笑】Snow Man 向井康二と浅草でたい</text>
-<text x="118" y="2090" font-size="12.5" fill="#059669">焼き作り！一発ギャグ連発で笑いが止まら</text>
+<text x="118" y="2050" font-size="16" font-weight="800" fill="#241F1A">大徳壽 みなとみらい店</text>
+<text x="118" y="2072" font-size="12.5" fill="#059669">【夜景】なにわ男子 道枝駿佑と夜景が見</text>
+<text x="118" y="2090" font-size="12.5" fill="#059669">える上空の焼肉屋さんで豪華焼肉パーティ</text>
 <text x="70" y="2152" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="2169" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="70" y="2169" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="2147" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2128" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2152" font-size="16" font-weight="800" fill="#241F1A">Le Rhin Bleu</text>
-<text x="118" y="2174" font-size="12.5" fill="#059669">【超高額】本場スイスでパテックフィリッ</text>
-<text x="118" y="2192" font-size="12.5" fill="#059669">プに来店。3000万円の時計に出会い手が</text>
+<text x="118" y="2152" font-size="16" font-weight="800" fill="#241F1A">一蘭 原宿店</text>
+<text x="118" y="2174" font-size="12.5" fill="#059669">【数年ぶり】Snow Man ダテっちょと念願</text>
+<text x="118" y="2192" font-size="12.5" fill="#059669">の一蘭でラーメン！こだわりのトッピング</text>
 <text x="70" y="2254" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="2271" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<text x="70" y="2271" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="2249" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2230" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2254" font-size="16" font-weight="800" fill="#241F1A">居酒屋 野焼</text>
-<text x="118" y="2276" font-size="12.5" fill="#059669">【亀梨和也チャンネル】藤井流星との大井</text>
-<text x="118" y="2294" font-size="12.5" fill="#059669">町の居酒屋 1軒目はどこ？食べたメニュ</text>
+<text x="118" y="2254" font-size="16" font-weight="800" fill="#241F1A">浅草たい焼き工房 求楽</text>
+<text x="118" y="2276" font-size="12.5" fill="#059669">【爆笑】Snow Man 向井康二と浅草でたい</text>
+<text x="118" y="2294" font-size="12.5" fill="#059669">焼き作り！一発ギャグ連発で笑いが止まら</text>
 <text x="70" y="2356" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="2373" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<text x="70" y="2373" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="2351" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2332" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2356" font-size="16" font-weight="800" fill="#241F1A">う福 大井町</text>
-<text x="118" y="2378" font-size="12.5" fill="#059669">【語る】WEST.藤井流星としっぽり2軒目</text>
-<text x="118" y="2396" font-size="12.5" fill="#059669">。仕事論や人生論、今後の人生について語</text>
+<text x="118" y="2356" font-size="16" font-weight="800" fill="#241F1A">Le Rhin Bleu</text>
+<text x="118" y="2378" font-size="12.5" fill="#059669">【超高額】本場スイスでパテックフィリッ</text>
+<text x="118" y="2396" font-size="12.5" fill="#059669">プに来店。3000万円の時計に出会い手が</text>
 <text x="70" y="2458" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="2475" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
 <circle cx="86" cy="2453" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2434" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2458" font-size="16" font-weight="800" fill="#241F1A">OFF KINOSAKI</text>
-<text x="118" y="2480" font-size="12.5" fill="#059669">【密着】MAQUIAの撮影裏側。高級カニを</text>
-<text x="118" y="2498" font-size="12.5" fill="#059669">贅沢に食べたり豪華フルーツ盛りを頂いた</text>
+<text x="118" y="2458" font-size="16" font-weight="800" fill="#241F1A">居酒屋 野焼</text>
+<text x="118" y="2480" font-size="12.5" fill="#059669">【亀梨和也チャンネル】藤井流星との大井</text>
+<text x="118" y="2498" font-size="12.5" fill="#059669">町の居酒屋 1軒目はどこ？食べたメニュ</text>
 <text x="70" y="2560" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="2577" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
 <circle cx="86" cy="2555" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2536" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2560" font-size="16" font-weight="800" fill="#241F1A">をり鶴</text>
-<text x="118" y="2582" font-size="12.5" fill="#059669">【密着】MAQUIAの撮影裏側。高級カニを</text>
-<text x="118" y="2600" font-size="12.5" fill="#059669">贅沢に食べたり豪華フルーツ盛りを頂いた</text>
-<text x="70" y="2662" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="2679" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<text x="118" y="2560" font-size="16" font-weight="800" fill="#241F1A">う福 大井町</text>
+<text x="118" y="2582" font-size="12.5" fill="#059669">【語る】WEST.藤井流星としっぽり2軒目</text>
+<text x="118" y="2600" font-size="12.5" fill="#059669">。仕事論や人生論、今後の人生について語</text>
+<text x="70" y="2662" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="2679" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
 <circle cx="86" cy="2657" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2638" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2662" font-size="16" font-weight="800" fill="#241F1A">日生家</text>
-<text x="118" y="2684" font-size="12.5" fill="#059669">【1周年企画】Snow Man 宮舘涼太と鈴木</text>
-<text x="118" y="2702" font-size="12.5" fill="#059669">福と豪華岡山旅！カキとビールで最高の昼</text>
-<text x="70" y="2764" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="2781" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
+<text x="118" y="2662" font-size="16" font-weight="800" fill="#241F1A">OFF KINOSAKI</text>
+<text x="118" y="2684" font-size="12.5" fill="#059669">【密着】MAQUIAの撮影裏側。高級カニを</text>
+<text x="118" y="2702" font-size="12.5" fill="#059669">贅沢に食べたり豪華フルーツ盛りを頂いた</text>
+<text x="70" y="2764" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="2781" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
 <circle cx="86" cy="2759" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2740" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2764" font-size="16" font-weight="800" fill="#241F1A">手打釜揚げうどん 岩見</text>
-<text x="118" y="2786" font-size="12.5" fill="#059669">【至福】亀梨が10年以上通い続ける、宮</text>
-<text x="118" y="2804" font-size="12.5" fill="#059669">崎の絶品うどん屋さんに今年もお邪魔しま</text>
+<text x="118" y="2764" font-size="16" font-weight="800" fill="#241F1A">をり鶴</text>
+<text x="118" y="2786" font-size="12.5" fill="#059669">【密着】MAQUIAの撮影裏側。高級カニを</text>
+<text x="118" y="2804" font-size="12.5" fill="#059669">贅沢に食べたり豪華フルーツ盛りを頂いた</text>
 <text x="70" y="2866" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="2883" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<text x="70" y="2883" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="2861" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2842" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2866" font-size="16" font-weight="800" fill="#241F1A">もんじゃ 竹の子</text>
-<text x="118" y="2888" font-size="12.5" fill="#059669">【爆食】江戸っ子亀梨の大好物！東京月島</text>
-<text x="118" y="2906" font-size="12.5" fill="#059669"> おたけさんのお店でもんじゃ焼きをたく</text>
+<text x="118" y="2866" font-size="16" font-weight="800" fill="#241F1A">日生家</text>
+<text x="118" y="2888" font-size="12.5" fill="#059669">【1周年企画】Snow Man 宮舘涼太と鈴木</text>
+<text x="118" y="2906" font-size="12.5" fill="#059669">福と豪華岡山旅！カキとビールで最高の昼</text>
 <text x="70" y="2968" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="2985" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="2985" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="2963" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="2944" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2968" font-size="16" font-weight="800" fill="#241F1A">牛骨ごっつおらーめん 鳥取店</text>
-<text x="118" y="2990" font-size="12.5" fill="#059669">【旨】撮影終わりのラーメンが沁みる。。</text>
-<text x="118" y="3008" font-size="12.5" fill="#059669">。鳥取で仕事終わりに牛骨ラーメンを食べ</text>
+<text x="118" y="2968" font-size="16" font-weight="800" fill="#241F1A">手打釜揚げうどん 岩見</text>
+<text x="118" y="2990" font-size="12.5" fill="#059669">【至福】亀梨が10年以上通い続ける、宮</text>
+<text x="118" y="3008" font-size="12.5" fill="#059669">崎の絶品うどん屋さんに今年もお邪魔しま</text>
 <text x="70" y="3070" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3087" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="3087" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
 <circle cx="86" cy="3065" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3046" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3070" font-size="16" font-weight="800" fill="#241F1A">大阪梅田 本とん平 （ほんとん…</text>
-<text x="118" y="3092" font-size="12.5" fill="#059669">【🍻】大阪のお好み焼き屋さんにフラッと</text>
-<text x="118" y="3110" font-size="12.5" fill="#059669">入ってお客さんと楽しく話しながらたくさ</text>
+<text x="118" y="3070" font-size="16" font-weight="800" fill="#241F1A">もんじゃ 竹の子</text>
+<text x="118" y="3092" font-size="12.5" fill="#059669">【爆食】江戸っ子亀梨の大好物！東京月島</text>
+<text x="118" y="3110" font-size="12.5" fill="#059669"> おたけさんのお店でもんじゃ焼きをたく</text>
 <text x="70" y="3172" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3189" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="3189" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="3167" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3148" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3172" font-size="16" font-weight="800" fill="#241F1A">壱角家 品川港南口店</text>
-<text x="118" y="3194" font-size="12.5" fill="#059669">【麺】和田さん、人生初の家系ラーメン！</text>
-<text x="118" y="3212" font-size="12.5" fill="#059669">元メジャーリーガー和田毅さんと野球解説</text>
+<text x="118" y="3172" font-size="16" font-weight="800" fill="#241F1A">牛骨ごっつおらーめん 鳥取店</text>
+<text x="118" y="3194" font-size="12.5" fill="#059669">【旨】撮影終わりのラーメンが沁みる。。</text>
+<text x="118" y="3212" font-size="12.5" fill="#059669">。鳥取で仕事終わりに牛骨ラーメンを食べ</text>
 <text x="70" y="3274" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3291" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="3291" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="3269" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3250" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3274" font-size="16" font-weight="800" fill="#241F1A">Bird</text>
-<text x="118" y="3296" font-size="12.5" fill="#059669">【最高】こだわりの極み。お仕事のついで</text>
-<text x="118" y="3314" font-size="12.5" fill="#059669">にずっと行ってみたかった家具屋さんにや</text>
+<text x="118" y="3274" font-size="16" font-weight="800" fill="#241F1A">大阪梅田 本とん平 （ほんとん…</text>
+<text x="118" y="3296" font-size="12.5" fill="#059669">【🍻】大阪のお好み焼き屋さんにフラッと</text>
+<text x="118" y="3314" font-size="12.5" fill="#059669">入ってお客さんと楽しく話しながらたくさ</text>
 <text x="70" y="3376" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
 <text x="70" y="3393" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="3371" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3352" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3376" font-size="16" font-weight="800" fill="#241F1A">ミートファクトリーしまちゃん</text>
-<text x="118" y="3398" font-size="12.5" fill="#059669">【一人焼肉】亀梨和也、大阪の街でぼっち</text>
-<text x="118" y="3416" font-size="12.5" fill="#059669">焼肉。幸せな時間。</text>
+<text x="118" y="3376" font-size="16" font-weight="800" fill="#241F1A">壱角家 品川港南口店</text>
+<text x="118" y="3398" font-size="12.5" fill="#059669">【麺】和田さん、人生初の家系ラーメン！</text>
+<text x="118" y="3416" font-size="12.5" fill="#059669">元メジャーリーガー和田毅さんと野球解説</text>
 <text x="70" y="3478" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3495" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="3495" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="3473" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3454" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3478" font-size="16" font-weight="800" fill="#241F1A">盛楼閣</text>
-<text x="118" y="3500" font-size="12.5" fill="#059669">【🍜】亀梨和也、本場岩手の盛岡冷麺を食</text>
-<text x="118" y="3518" font-size="12.5" fill="#059669">べる。お仕事の前日に絶品焼肉と冷麺爆食</text>
+<text x="118" y="3478" font-size="16" font-weight="800" fill="#241F1A">Bird</text>
+<text x="118" y="3500" font-size="12.5" fill="#059669">【最高】こだわりの極み。お仕事のついで</text>
+<text x="118" y="3518" font-size="12.5" fill="#059669">にずっと行ってみたかった家具屋さんにや</text>
 <text x="70" y="3580" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3597" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3597" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="3575" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3556" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3580" font-size="16" font-weight="800" fill="#241F1A">銀座風香</text>
-<text x="118" y="3602" font-size="12.5" fill="#059669">【贅沢】Snow Man渡辺翔太と絶品かき氷</text>
-<text x="118" y="3620" font-size="12.5" fill="#059669">屋さんへ！神のクオリティの味に2人とも</text>
+<text x="118" y="3580" font-size="16" font-weight="800" fill="#241F1A">ミートファクトリーしまちゃん</text>
+<text x="118" y="3602" font-size="12.5" fill="#059669">【一人焼肉】亀梨和也、大阪の街でぼっち</text>
+<text x="118" y="3620" font-size="12.5" fill="#059669">焼肉。幸せな時間。</text>
 <text x="70" y="3682" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="3699" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3699" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="3677" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3658" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3682" font-size="16" font-weight="800" fill="#241F1A">USHIGORO S. GINZA</text>
-<text x="118" y="3704" font-size="12.5" fill="#059669">【夏休み】Snow Man渡辺翔太と東京の高</text>
-<text x="118" y="3722" font-size="12.5" fill="#059669">級焼肉店でディナー！ゲスト松原タニシさ</text>
-<text x="70" y="3784" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="3801" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="118" y="3682" font-size="16" font-weight="800" fill="#241F1A">盛楼閣</text>
+<text x="118" y="3704" font-size="12.5" fill="#059669">【🍜】亀梨和也、本場岩手の盛岡冷麺を食</text>
+<text x="118" y="3722" font-size="12.5" fill="#059669">べる。お仕事の前日に絶品焼肉と冷麺爆食</text>
+<text x="70" y="3784" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="3801" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="3779" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3760" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3784" font-size="16" font-weight="800" fill="#241F1A">楊国福マーラータン 東京銀座店</text>
-<text x="118" y="3806" font-size="12.5" fill="#059669">【美味】亀梨、初めての麻辣湯。何も分か</text>
-<text x="118" y="3824" font-size="12.5" fill="#059669">らず周りのお客様に助けてもらいました。</text>
-<text x="70" y="3886" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="3903" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="118" y="3784" font-size="16" font-weight="800" fill="#241F1A">銀座風香</text>
+<text x="118" y="3806" font-size="12.5" fill="#059669">【贅沢】Snow Man渡辺翔太と絶品かき氷</text>
+<text x="118" y="3824" font-size="12.5" fill="#059669">屋さんへ！神のクオリティの味に2人とも</text>
+<text x="70" y="3886" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="3903" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="3881" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3862" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3886" font-size="16" font-weight="800" fill="#241F1A">朝食場 nagayado（HOSTEL NAG…</text>
-<text x="118" y="3908" font-size="12.5" fill="#059669">【大阪】朝から飛ぶほどウマい。築100年</text>
-<text x="118" y="3926" font-size="12.5" fill="#059669">の古民家で味わう至福の朝ごはん。</text>
+<text x="118" y="3886" font-size="16" font-weight="800" fill="#241F1A">USHIGORO S. GINZA</text>
+<text x="118" y="3908" font-size="12.5" fill="#059669">【夏休み】Snow Man渡辺翔太と東京の高</text>
+<text x="118" y="3926" font-size="12.5" fill="#059669">級焼肉店でディナー！ゲスト松原タニシさ</text>
 <text x="70" y="3988" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="4005" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="4005" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
 <circle cx="86" cy="3983" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="3964" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3988" font-size="16" font-weight="800" fill="#241F1A">へぎそば地酒処 こんごう庵 湯…</text>
-<text x="118" y="4010" font-size="12.5" fill="#059669">【街ブラ】鈴木福とノープラン旅。湯島天</text>
-<text x="118" y="4028" font-size="12.5" fill="#059669">神にお参り＆お蕎麦ランチを満喫。</text>
+<text x="118" y="3988" font-size="16" font-weight="800" fill="#241F1A">中国料理「銀座 飛雁閣」</text>
+<text x="118" y="4010" font-size="12.5" fill="#059669">ぐるぐるナインティナイン ゴチになりま</text>
+<text x="118" y="4028" font-size="12.5" fill="#059669">す27 第5戦 亀梨和也・生見愛瑠とライア</text>
 <text x="70" y="4090" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="4107" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="4107" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="4085" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="4066" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4090" font-size="16" font-weight="800" fill="#241F1A">サカノウエカフェ</text>
-<text x="118" y="4112" font-size="12.5" fill="#059669">【行列店】2000円超えのかき氷を鈴木福</text>
-<text x="118" y="4130" font-size="12.5" fill="#059669">とただただ食べるだけ動画</text>
+<text x="118" y="4090" font-size="16" font-weight="800" fill="#241F1A">楊国福マーラータン 東京銀座店</text>
+<text x="118" y="4112" font-size="12.5" fill="#059669">【美味】亀梨、初めての麻辣湯。何も分か</text>
+<text x="118" y="4130" font-size="12.5" fill="#059669">らず周りのお客様に助けてもらいました。</text>
 <text x="70" y="4192" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="4209" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="4209" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="4187" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
 <rect x="104" y="4168" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4192" font-size="16" font-weight="800" fill="#241F1A">ホルモン・焼き肉 ぼん</text>
-<text x="118" y="4214" font-size="12.5" fill="#059669">【至福】ストック切れのピンチ！という</text>
-<text x="118" y="4232" font-size="12.5" fill="#059669">ことで撮影後、焼肉を食べに行ったら</text>
+<text x="118" y="4192" font-size="16" font-weight="800" fill="#241F1A">朝食場 nagayado（HOSTEL NAG…</text>
+<text x="118" y="4214" font-size="12.5" fill="#059669">【大阪】朝から飛ぶほどウマい。築100年</text>
+<text x="118" y="4232" font-size="12.5" fill="#059669">の古民家で味わう至福の朝ごはん。</text>
+<text x="70" y="4294" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="4311" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="4289" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
+<rect x="104" y="4270" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="4294" font-size="16" font-weight="800" fill="#241F1A">へぎそば地酒処 こんごう庵 湯…</text>
+<text x="118" y="4316" font-size="12.5" fill="#059669">【街ブラ】鈴木福とノープラン旅。湯島天</text>
+<text x="118" y="4334" font-size="12.5" fill="#059669">神にお参り＆お蕎麦ランチを満喫。</text>
+<text x="70" y="4396" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="4413" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="4391" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
+<rect x="104" y="4372" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="4396" font-size="16" font-weight="800" fill="#241F1A">サカノウエカフェ</text>
+<text x="118" y="4418" font-size="12.5" fill="#059669">【行列店】2000円超えのかき氷を鈴木福</text>
+<text x="118" y="4436" font-size="12.5" fill="#059669">とただただ食べるだけ動画</text>
+<text x="70" y="4498" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="4515" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="4493" r="7" fill="#fff" stroke="#059669" stroke-width="4"/>
+<rect x="104" y="4474" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="4498" font-size="16" font-weight="800" fill="#241F1A">ホルモン・焼き肉 ぼん</text>
+<text x="118" y="4520" font-size="12.5" fill="#059669">【至福】ストック切れのピンチ！という</text>
+<text x="118" y="4538" font-size="12.5" fill="#059669">ことで撮影後、焼肉を食べに行ったら</text>
 </svg>

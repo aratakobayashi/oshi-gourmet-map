@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「つけ麺屋やすべぇ 赤坂店」"
-description: "RIIZEで紹介されたラーメン「つけ麺屋やすべぇ 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "RIIZEのショウタロウ・ウンソク・ウォンビン・ソヒが訪れたとファンの間で紹介されている赤坂のつけ麺店。"
 shop_id: "kpop_riize-63290a18-"
 name: "つけ麺屋やすべぇ 赤坂店"
 genre: "ramen"
@@ -13,9 +13,14 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/14860.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13028670/"
+visit_kind: "other"
+program: "RIIZE Instagram"
 lat: 35.669419
 lng: 139.7356439
 members:
+  - "ショウタロウ"
+  - "ウンソク"
+  - "ウォンビン"
   - "ソヒ"
 groups:
   - "kpop_riize"

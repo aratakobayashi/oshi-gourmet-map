@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「ANDY COFFEE」"
-description: "Moments from Summer in Tokyo（2024年9月公開）で紹介されたカフェ「ANDY COFFEE」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "NewJeansの公式YouTubeで2024年9月に公開されたミンジとハニの東京Vlogで、2人が訪れた代官山のカフェ。"
 shop_id: "kpop_newjeans-andy_coffee-"
 name: "ANDY COFFEE"
 genre: "cafe"
@@ -12,6 +12,8 @@ source_video_title: "Moments from Summer in Tokyo（2024年9月公開）"
 source_url: "https://nomnom-korea.com/2024/09/08/minji-hanni-daikanyama-cafe/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13297856/"
+visit_kind: "youtube"
+program: "NewJeans公式YouTube「Moments from Summer in Tokyo」"
 lat: 35.6507318
 lng: 139.7046751
 members:

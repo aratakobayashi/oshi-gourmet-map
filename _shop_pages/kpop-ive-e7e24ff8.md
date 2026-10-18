@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「角車」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介された焼肉「角車」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
+description: "IVEが出演した「相席食堂」（2024年7月16日放送）で、ガウル・ウォニョン・リズが和牛ステーキを食べた葉山のステーキ店。"
 shop_id: "kpop_ive-e7e24ff8-"
 name: "角車"
 genre: "yakiniku"
@@ -13,6 +13,8 @@ source_url: "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80
 group: "kpop_ive"
 tabelog_url: "https://tabelog.com/kanagawa/A1406/A140602/14003158/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
+visit_kind: "guest_tv"
+program: "相席食堂"
 lat: 35.2670995
 lng: 139.6102949
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「原始炭焼 いろり家 東銀座本店」"
-description: "ジェニ YouTube Vlog（東京）で紹介された居酒屋「原始炭焼 いろり家 東銀座本店」（東京都中央区）。推し活グルメ巡礼スポット。"
+description: "BLACKPINKのジェニの公式YouTube「Jennie in Tokyo - Part 2」（2023年9月）の3分ごろに登場する東銀座の炭焼き居酒屋。"
 shop_id: "kpop_blackpink-bd4f2517-"
 name: "原始炭焼 いろり家 東銀座本店"
 genre: "izakaya"
@@ -12,6 +12,8 @@ source_video_title: "ジェニ YouTube Vlog（東京）"
 source_url: "https://nomnom-korea.com/2023/09/16/blackpink-jennie-izakaya/"
 group: "kpop_blackpink"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13032924/"
+visit_kind: "youtube"
+program: "JENNIE公式YouTube「Jennie in Tokyo - Part 2」"
 lat: 35.6720135
 lng: 139.7647202
 members:

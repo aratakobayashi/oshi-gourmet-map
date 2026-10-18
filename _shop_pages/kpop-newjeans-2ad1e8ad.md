@@ -1,25 +1,7 @@
 ---
-layout: shop
-title: "NewJeansが行った「とんかつ まるや 浜松町店」"
-description: "ミンジ 東京vlog（2023年12月26日公開）で紹介された和食「とんかつ まるや 浜松町店」（東京都港区）。推し活グルメ巡礼スポット。"
+layout: redirect
 shop_id: "kpop_newjeans-2ad1e8ad-"
-name: "とんかつ まるや 浜松町店"
-genre: "washoku"
-prefecture: "東京都"
-city: "港区"
-address: "東京都港区海岸1-2-20 汐留ビル1F"
-source_video_title: "ミンジ 東京vlog（2023年12月26日公開）"
-source_url: "https://moalabtxt.com/newjeans_minji_tokyovlog/"
-group: "kpop_newjeans"
-tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13226862/"
-hotpepper_url: "https://www.hotpepper.jp/strJ001292391/"
-hotpepper_photo: "https://imgfp.hotp.jp/IMGH/88/66/P039038866/P039038866_238.jpg"
-lat: 35.6452654
-lng: 139.7573804
-members:
-  - "ミンジ"
-groups:
-  - "kpop_newjeans"
-ordered_items:
-  - "とんかつ"
+redirect_to: "/groups/kpop-newjeans/"
+redirect_label: "NewJeansのお店のページ"
+sitemap: false
 ---

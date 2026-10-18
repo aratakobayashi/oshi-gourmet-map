@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「アートマサシヤ」"
-description: "ジゼル Instagram（2024年2月）で紹介されたラーメン「アートマサシヤ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "aespaのジゼルがInstagram（2024年1月ごろ）にラーメンの写真を載せ、ファンが特定した渋谷・南平台のラーメン店。"
 shop_id: "kpop_aespa-75f30bda-"
 name: "アートマサシヤ"
 genre: "ramen"
@@ -12,6 +12,8 @@ source_video_title: "ジゼル Instagram（2024年2月）"
 source_url: "https://pro-otaku.com/2024-aespa-tokyo/"
 group: "kpop_aespa"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13122253/"
+visit_kind: "other"
+program: "ジゼル Instagram"
 lat: 35.6538092
 lng: 139.6961617
 members:
