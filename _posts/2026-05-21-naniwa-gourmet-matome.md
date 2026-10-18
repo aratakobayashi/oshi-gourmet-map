@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "なにわ男子の聖地巡礼・ロケ地まとめ｜めざまし『どっち派』『なんでやねん』・公式YouTubeで行った東京のご飯ほか120軒"
+title: "なにわ男子の聖地巡礼・ロケ地まとめ｜めざまし『どっち派』『なんでやねん』・公式YouTubeで行った東京のご飯ほか127軒"
 date: 2026-05-21
 last_modified_at: 2026-10-13
 checked_at: 2026-10-13
-description: "なにわ男子の聖地巡礼・ロケ地まとめ。めざましテレビのコーナー「なにわ男子のどっち派！？」「なにわ男子のなんでやねん！」、公式YouTube、『笑ってコラえて！』に出てきた120軒を、コーナーごと・メンバーやテーマごとに、放送日・食べたもの・東京のエリア別の巡り方と一緒にまとめました。"
+description: "なにわ男子の聖地巡礼・ロケ地まとめ。めざましテレビのコーナー「なにわ男子のどっち派！？」「なにわ男子のなんでやねん！」、公式YouTube、『笑ってコラえて！』『ヒルナンデス！』に出てきた127軒を、コーナーごと・メンバーやテーマごとに、放送日・食べたもの・東京のエリア別の巡り方と一緒にまとめました。"
 group: naniwa
 genre: まとめ
 article_type: matome
@@ -12,9 +12,9 @@ prefecture: 東京都
 tags: [なにわ男子, 聖地巡礼, ロケ地, めざましテレビ, なにわ男子のどっち派, なにわ男子のなんでやねん, 西畑大吾, 大西流星, 道枝駿佑, 高橋恭平, 長尾謙杜, 藤原丈一郎, 大橋和也, グルメ, まとめ, 東京]
 thumbnail_video_id: wvv-EUPN6_8
 summary:
-  - "なにわ男子のメンバーがロケで訪れたお店を中心に、コーナーで取り上げたお店まで120軒"
-  - "めざましテレビ「なにわ男子のどっち派！？」83軒・「なにわ男子のなんでやねん！」27軒、公式YouTube 4軒、『笑ってコラえて！』6軒"
-  - "90軒が東京都（港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒）。熱海・伊豆・大阪・埼玉・神奈川・千葉・日光にも"
+  - "なにわ男子のメンバーがロケで訪れたお店を中心に、コーナーで取り上げたお店まで127軒"
+  - "めざましテレビ「なにわ男子のどっち派！？」83軒・「なにわ男子のなんでやねん！」27軒、公式YouTube 4軒、『笑ってコラえて！』6軒、『ヒルナンデス！』7軒"
+  - "92軒が東京都（港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒）。熱海・伊豆・横浜・横須賀・大阪・埼玉・千葉・日光にも"
   - "放送日・出たメンバー・食べたものを載せ、東京は駅や街ごとに巡れるようにまとめました"
 sources:
   - label: "なにわ男子 公式YouTubeチャンネル（動画のタイトル）"
@@ -148,9 +148,16 @@ shop_ids:
   - kingprince-66d643bc-
   - kingprince-25d8fc80-
   - kingprince-bar_lil_farm-
+  - naniwa-9dadf389-20240905
+  - naniwa-548e02be-20240613
+  - nogizaka46-e4afd786-20260623
+  - burari-c8abfc31-20250927
+  - naniwa-739d194f-20240321
+  - naniwa-373d44d2-20230720
+  - naniwa-4ee22f0b-20230720
 faq:
   - q: "なにわ男子が行ったお店はどこで探せますか？"
-    a: "この記事では、めざましテレビのコーナー「なにわ男子のどっち派！？」（83軒）と「なにわ男子のなんでやねん！」（27軒）、なにわ男子の公式YouTube（4軒）、『笑ってコラえて！』の朝までハシゴの旅（6軒）に出てきた120軒を、放送日・出たメンバー・食べたものと一緒に載せています。メンバーがロケで訪れたお店が中心ですが、なんでやねん！にはメンバーが店に行ったか確かめきれていないお店もあり、本文にそのことを書いています。"
+    a: "この記事では、めざましテレビのコーナー「なにわ男子のどっち派！？」（83軒）と「なにわ男子のなんでやねん！」（27軒）、なにわ男子の公式YouTube（4軒）、『笑ってコラえて！』の朝までハシゴの旅（6軒）、日本テレビ『ヒルナンデス！』（7軒）に出てきた127軒を、放送日・出たメンバー・食べたものと一緒に載せています。メンバーがロケで訪れたお店が中心ですが、なんでやねん！にはメンバーが店に行ったか確かめきれていないお店もあり、本文にそのことを書いています。"
   - q: "「なにわ男子のどっち派！？」ではどんなお店に行っていますか？"
     a: "2023年5月から2026年3月までの放送で、メンバーがひとりずつロケに出ています。大橋和也18軒、長尾謙杜16軒、西畑大吾13軒、大西流星12軒、道枝駿佑12軒、藤原丈一郎8軒、高橋恭平4軒。谷中や府中の古民家・お寺のカフェ（西畑）、熱海駅まわりの6軒（道枝）、かき氷やスイーツのコース（大橋）、パンやハンバーグ（長尾）などがあります。"
   - q: "「なにわ男子のなんでやねん！」のお店はどこですか？"
@@ -158,14 +165,14 @@ faq:
   - q: "公式YouTubeに出てきたお店はどこですか？"
     a: "「ココイチで被っちゃダメよカレー」のCoCo壱番屋 中目黒山手通店、「2024夏の静岡旅~02~」の石松餃子 本店（浜松）、「2024夏の静岡旅~10~」の駿河の味処 富士屋（静岡市清水区）、大西流星が大倉忠義・のんと打ち上げをした「もんじゃと酒膳 かりん」（四ツ谷）の4軒です。"
   - q: "東京で巡りやすいのはどこですか？"
-    a: "この記事の120軒のうち90軒が東京都です。銀座・有楽町・新橋に8軒、渋谷・原宿・恵比寿に9軒、新宿・新大久保まわりに10軒、六本木・芝・高輪・青山に9軒、東京駅・神田・秋葉原まわりに9軒あります。谷中・浅草・上野や、吉祥寺・三鷹・西荻窪にもまとまっています。"
+    a: "この記事の127軒のうち92軒が東京都です。銀座・有楽町・新橋に8軒、渋谷・原宿・恵比寿に9軒、新宿・新大久保まわりに10軒、六本木・芝・高輪・青山に9軒、東京駅・神田・秋葉原まわりに9軒あります。谷中・浅草・上野や、吉祥寺・三鷹・西荻窪にもまとまっています。"
   - q: "なにわ男子のお店をまとめて地図で見られますか？"
     a: "「お店を探す」でなにわ男子を選ぶと、この記事のお店を地図で見られます。行きたいお店を保存して、巡礼の計画に使えます。"
 pr: true
 techo: true
 cover_ids: "naniwa-coco-202412,naniwa-9d3720a8-,naniwa-kamera-20220422"
 cover_title: "なにわ男子 聖地巡礼帳"
-cover_sub: "めざまし・公式YouTubeの120軒"
+cover_sub: "めざまし・公式YouTubeの127軒"
 courses:
   - title: "銀座から東京駅へ：めざましの4軒"
     stops: [naniwa-376379fa-20230505, naniwa-9d3720a8-, naniwa-1d6e8883-20230602, naniwa-a9a20a89-20220520]
@@ -180,16 +187,16 @@ stay_inline: true
 
 <p><strong>西畑大吾・大西流星・道枝駿佑・高橋恭平・長尾謙杜・藤原丈一郎・大橋和也</strong>の7人のなにわ男子。お店がいちばん多く出てくるのは、フジテレビ「めざましテレビ」のコーナーです。2020年から2023年の「なにわ男子のなんでやねん！」、2023年からの「なにわ男子のどっち派！？」で、メンバーがひとりずつ東京や近くの街のお店をロケで訪れています。</p>
 
-<p>公式YouTubeでは、7人がCoCo壱番屋で注文を被らないように選ぶ回や、2024年夏の静岡旅の浜松餃子・うなぎの回、ほかに『笑ってコラえて！』で西畑大吾が大阪・福島をハシゴした回もあります。この記事では<strong>120軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>公式YouTubeでは、7人がCoCo壱番屋で注文を被らないように選ぶ回や、2024年夏の静岡旅の浜松餃子・うなぎの回、ほかに『笑ってコラえて！』で西畑大吾が大阪・福島をハシゴした回、『ヒルナンデス！』の「今行きたい1日乗車券の旅」で藤原丈一郎・大橋和也・大西流星が訪れたお店もあります。この記事では<strong>127軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「なにわ男子」<small>4軒</small></span></a><a href="#src2">{% include chico.html kind="other" %}<span>めざましテレビ「なにわ男子のどっち派！？」<small>83軒</small></span></a><a href="#src3">{% include chico.html kind="other" %}<span>めざましテレビ「なにわ男子のなんでやねん！」<small>27軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>6軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「なにわ男子」<small>4軒</small></span></a><a href="#src2">{% include chico.html kind="other" %}<span>めざましテレビ「なにわ男子のどっち派！？」<small>83軒</small></span></a><a href="#src3">{% include chico.html kind="other" %}<span>めざましテレビ「なにわ男子のなんでやねん！」<small>27軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>13軒</small></span></a></div>
 </div>
 {% include matome-members.html group="naniwa" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>120軒のなかから、東京で行きやすく、メンバーがロケで訪れたお店を、公式YouTube・「どっち派！？」・「なんでやねん！」から1軒ずつ選びました。</p>
+<p>127軒のなかから、東京で行きやすく、メンバーがロケで訪れたお店を、公式YouTube・「どっち派！？」・「なんでやねん！」から1軒ずつ選びました。</p>
 <div class="picks">
 {% include pick.html id="naniwa-coco-202412" no="其の一" why="公式YouTube「ココイチで被っちゃダメよカレー」（2024年12月）の回。7人が注文を被らないように選び、納豆カレー（道枝）、The海老スープカレー（高橋）、カキフライカレー（大橋）などを頼んでいます。お店は東京の中目黒です。" %}
 {% include pick.html id="naniwa-9d3720a8-" no="其の二" why="めざましテレビ「なにわ男子のどっち派！？」（2024年10月18日放送）で、藤原丈一郎がタマゴサンドを食べた喫茶店。お店は東京の銀座4丁目です。" %}
@@ -395,7 +402,8 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="naniwa-3953b460-20220210" %}<span class="wr__k">2023<br>2.10</span><b class="wr__name">牡蠣と魚（幡ケ谷）</b><span class="wr__t">「無料で食べ放題できるのなんでやねん！を解明」で取り上げた生がき食べ放題の店（道枝駿佑の回とされますが、店に行ったかは確かめきれていません。ファンブログでは閉業とあります）</span>{% include wr-close.html id="naniwa-3953b460-20220210" %}</li>
 </ul>
 
-<h2 id="src4">{% include chico.html kind="guest" %}出演した番組で行ったお店：『笑ってコラえて！』朝までハシゴの旅</h2>
+<h2 id="src4">{% include chico.html kind="guest" %}出演した番組で行ったお店</h2>
+<h3>『笑ってコラえて！』朝までハシゴの旅（西畑大吾）</h3>
 <p>2024年8月28日放送の日本テレビ『1億人の大質問!?笑ってコラえて!』の「朝までハシゴの旅」大阪・福島編で、西畑大吾が永瀬廉（King &amp; Prince）・正門良規（Aぇ! group）とハシゴしたお店です（ロケは7月26日。確認に使った資料より）。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kingprince-8d5d65c4-" %}<span class="wr__k">1軒目</span><b class="wr__name">立呑み ぽっぽ亭</b><span class="wr__t">3人が最初に飲んだ立ち飲み店</span>{% include wr-close.html id="kingprince-8d5d65c4-" %}</li>
@@ -406,6 +414,18 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="kingprince-bar_lil_farm-" %}<span class="wr__k">6軒目</span><b class="wr__name">Bar Lil farm（福島）</b><span class="wr__t">バー／あいがけ麻婆カレー</span>{% include wr-close.html id="kingprince-bar_lil_farm-" %}</li>
 </ul>
 
+<h3>『ヒルナンデス！』（藤原丈一郎・大橋和也・大西流星）</h3>
+<p>日本テレビ『ヒルナンデス！』の「今行きたい1日乗車券の旅」の回で、メンバーが訪れたお店です（放送の新しい順）。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="naniwa-9dadf389-20240905" %}<span class="wr__k">2024.9</span><b class="wr__name">CHABAKKA TEA PARKS チャバッカ ティー パークス 熱海店</b><span class="wr__t">今行きたい1日乗車券の旅（2024年9月5日放送）／藤原丈一郎（熱海市 銀座町）</span>{% include wr-close.html id="naniwa-9dadf389-20240905" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-548e02be-20240613" %}<span class="wr__k">2024.6</span><b class="wr__name">MM MARKET&CAFE みなとみらい店</b><span class="wr__t">今行きたい1日乗車券の旅（2024年6月13日放送）／大橋和也（横浜市西区 みなとみらい）</span>{% include wr-close.html id="naniwa-548e02be-20240613" %}</li>
+  <li class="wr">{% include wr-open.html id="nogizaka46-e4afd786-20260623" %}<span class="wr__k">2024.6</span><b class="wr__name">胖鴨 まるまるかも</b><span class="wr__t">今行きたい1日乗車券の旅（2024年6月13日放送）／大橋和也（横浜市中区 山下町）</span>{% include wr-close.html id="nogizaka46-e4afd786-20260623" %}</li>
+  <li class="wr">{% include wr-open.html id="burari-c8abfc31-20250927" %}<span class="wr__k">2024.4</span><b class="wr__name">チーズ谷</b><span class="wr__t">今行きたい1日乗車券の旅（2024年4月18日放送）／大西流星（台東区 下谷）</span>{% include wr-close.html id="burari-c8abfc31-20250927" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-739d194f-20240321" %}<span class="wr__k">2024.3</span><b class="wr__name">FLIPPER'S 自由が丘店</b><span class="wr__t">今行きたい1日乗車券の旅（2024年3月21日放送）／藤原丈一郎（目黒区 自由が丘）</span>{% include wr-close.html id="naniwa-739d194f-20240321" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-373d44d2-20230720" %}<span class="wr__k">2023.7</span><b class="wr__name">ソレイユの丘手ぶらバーベキュー</b><span class="wr__t">福くんの今行きたい 1日乗車券の旅（2023年7月20日放送）／藤原丈一郎（横須賀市 長井）</span>{% include wr-close.html id="naniwa-373d44d2-20230720" %}</li>
+  <li class="wr">{% include wr-open.html id="naniwa-4ee22f0b-20230720" %}<span class="wr__k">2023.7</span><b class="wr__name">TLC cafe&amp;dining ティーエルシーカフェアンドダイニング</b><span class="wr__t">福くんの今行きたい 1日乗車券の旅（2023年7月20日放送）／藤原丈一郎（横須賀市 若松町）</span>{% include wr-close.html id="naniwa-4ee22f0b-20230720" %}</li>
+</ul>
+
 <h2>なにわ男子の聖地 年表</h2>
 <p>日付のわかるお店を古い順に並べました（テレビは放送日、YouTubeは公開日です）。</p>
 <div class="faq"><details><summary>年表をひらく（109軒・日付の古い順）</summary>
@@ -413,7 +433,7 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事31軒、カフェ31軒、スイーツ15軒、ラーメン11軒、居酒屋10軒、焼肉9軒、中華5軒、和食5軒、その他3軒。場所は港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒、大阪府大阪市7軒、中央区7軒、熱海市6軒、台東区・豊島区5軒ずつなど" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の120軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/genre.svg" alt="お店のジャンルと場所：カフェ35軒、食事32軒、スイーツ15軒、ラーメン11軒、居酒屋10軒、焼肉10軒、中華6軒、和食5軒、その他3軒。場所は港区11軒、渋谷区・新宿区10軒ずつ、千代田区9軒、大阪府大阪市・熱海市・中央区7軒ずつ、台東区6軒、目黒区・豊島区5軒ずつなど" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の127軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>なにわ男子の公式YouTubeから、お店が登場する4本です（タップすると再生します）。</p>
@@ -424,8 +444,8 @@ stay_inline: true
   <figure><button type="button" class="yt" data-yt="3_HZZwKYEw4" aria-label="打ち上げの回を再生"><img src="https://i.ytimg.com/vi_webp/3_HZZwKYEw4/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>大西流星の打ち上げ</b>四ツ谷のもんじゃ</figcaption></figure>
 </div>
 
-<h2>エリアで巡るなら：まずは東京（90軒）</h2>
-<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区11軒、渋谷区10軒、新宿区10軒、千代田区9軒、中央区7軒など。23区の外は東京の市部・島9軒、埼玉県5軒、神奈川県4軒、千葉県3軒、そのほかの道府県18軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<h2>エリアで巡るなら：まずは東京（92軒）</h2>
+<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区11軒、渋谷区10軒、新宿区10軒、千代田区9軒、中央区7軒など。23区の外は東京の市部・島9軒、神奈川県8軒、埼玉県5軒、千葉県3軒、そのほかの道府県19軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・新橋・汐留（8軒）</strong>：喫茶 アメリカン（銀座駅 徒歩1分）・銀座朝食ラボ（東銀座駅 徒歩6分）・むぎとオリーブ（銀座駅 徒歩1分）・銀座 創龍（銀座6丁目）・ウミノイロ（移転の情報あり）・ジョリッティカフェ（有楽町マルイ）・はるちゃんラーメン（新橋駅 徒歩2分）・萬鉄（カレッタ汐留）。</li>
@@ -435,18 +455,18 @@ stay_inline: true
   <li><strong>渋谷・原宿・恵比寿（9軒）</strong>：渋谷駅のそうめん そそそ 研究室（徒歩1分）・KAMERA・戸越屋 渋谷道玄坂店・YGYGヨギヨギ（どれも徒歩2分）・ハンバーグとはんばーぐ（宮下パーク）、原宿のMUUN seoul（明治神宮前〈原宿〉駅 徒歩3分）・3COINS 原宿本店（同 徒歩5分）・THE MATCHA TOKYO HARAJUKU（神宮前1丁目）、DooWop（恵比寿駅 徒歩4分）。</li>
   <li><strong>新宿・新大久保・西早稲田・落合・市谷（10軒）</strong>：RahmenEddie（新宿駅 徒歩1分）・ツバサコーヒー（新宿御苑前駅 徒歩4分）・肉とたまご（新宿三丁目駅 徒歩1分）・くるくるわんこ（西武新宿駅 徒歩4分）・松太郎 新宿小滝橋通り店（都庁前駅 徒歩2分）、新大久保のlattencos・THE COOKIE 594（どちらも徒歩3分）、Crispy’s Burger（西早稲田駅 徒歩5分）、中華そば 児ノ木（上落合1丁目）、吉今（市谷柳町）。</li>
   <li><strong>池袋（5軒）</strong>：伍福軒 池袋西口店（池袋駅 徒歩1分）・CheeseTable 池袋店（徒歩2分）、西池袋1丁目の沸騰 小吃城・四季香（要町駅 徒歩10分）、あうるぱーく フクロウカフェ（西池袋3丁目）。</li>
-  <li><strong>中目黒・自由が丘・三軒茶屋・下北沢・駒沢・池尻（8軒）</strong>：CoCo壱番屋 中目黒山手通店（中目黒駅 徒歩6分）・getti 中目黒・PIZZERIA IL VICOLO（中目黒1丁目）、大山生煎店（自由が丘駅 徒歩7分）、ジュウニブン ベーカリー（三軒茶屋駅 徒歩4分）、STREET CHURROS（下北沢駅 徒歩2分）、21時にアイス 駒沢店（駒沢大学駅 徒歩8分）、PARK STORE（池尻大橋駅 徒歩13分）。</li>
+  <li><strong>中目黒・自由が丘・三軒茶屋・下北沢・駒沢・池尻（9軒）</strong>：CoCo壱番屋 中目黒山手通店（中目黒駅 徒歩6分）・getti 中目黒・PIZZERIA IL VICOLO（中目黒1丁目）、大山生煎店（自由が丘駅 徒歩7分）・FLIPPER'S 自由が丘店（自由が丘1丁目）、ジュウニブン ベーカリー（三軒茶屋駅 徒歩4分）、STREET CHURROS（下北沢駅 徒歩2分）、21時にアイス 駒沢店（駒沢大学駅 徒歩8分）、PARK STORE（池尻大橋駅 徒歩13分）。</li>
   <li><strong>五反田・大崎・大森（4軒）</strong>：大衆食堂スタンド そのだ（五反田駅 徒歩4分）・スシロー 五反田店（徒歩2分）・intellctuary（大崎駅 徒歩1分）・goddog（大森駅 徒歩7分）。</li>
-  <li><strong>谷中・浅草・上野（5軒）</strong>：Cafe yue（日暮里駅 徒歩7分）・花重谷中茶屋（谷中7丁目）、annorum（浅草4丁目）・食と祭りの殿堂 浅草横丁（浅草2丁目）、アクアリウムレストラン Nautilus（上野2丁目）。</li>
+  <li><strong>谷中・浅草・上野（6軒）</strong>：Cafe yue（日暮里駅 徒歩7分）・花重谷中茶屋（谷中7丁目）、annorum（浅草4丁目）・食と祭りの殿堂 浅草横丁（浅草2丁目）、アクアリウムレストラン Nautilus（上野2丁目）、チーズ谷（下谷2丁目）。</li>
   <li><strong>吉祥寺・三鷹・西荻窪（6軒）</strong>：挽肉と米 吉祥寺店（吉祥寺駅 徒歩5分）・Surabi（同 徒歩13分）、三鷹のCafe Ichifuji（三鷹駅 徒歩13分）・バーミヤン 三鷹駅南口店・ジョナサン 三鷹井口店、西荻３時（西荻窪駅 徒歩4分）。</li>
   <li><strong>そのほかの東京（12軒）</strong>：足立区の東京華山椒・デニーズ 竹の塚店、墨田区のcafe capyba（東向島駅 徒歩1分）、江戸川区のOH BHAIYA！（西葛西駅 徒歩5分）、練馬区のMerci life organics、板橋区のおひつごはん四六時中（イオン板橋）、大田区のザ・リビング、府中市のカフェテラス普賢寺（多磨駅 徒歩11分）、昭島市のABC FARM、町田市の焼肉Meat it、渋谷区幡ケ谷の牡蠣と魚（閉業の情報あり）、立ち寿司横丁（放送の店は吉祥寺ハーモニカ横丁）。</li>
 </ul>
-<h3>東京の外（30軒）</h3>
+<h3>東京の外（35軒）</h3>
 <ul>
-  <li><strong>静岡県（10軒）</strong>：熱海駅前の田原本町にいちごBonBonBERRY・桜たいやき 田舎本舗・ウミノメグミ（どれも熱海駅 徒歩1分）、銀座町にHimono Dining かまなり・熱海おさかな食堂炙り家・大二郎の小籠包。伊豆の道の駅 伊豆月ヶ瀬・Bakery＆Table Sweets 伊豆（伊豆熱川駅 徒歩8分）。公式YouTubeの石松餃子 本店（浜松市）・駿河の味処 富士屋（静岡市清水区）。</li>
+  <li><strong>静岡県（11軒）</strong>：熱海駅前の田原本町にいちごBonBonBERRY・桜たいやき 田舎本舗・ウミノメグミ（どれも熱海駅 徒歩1分）、銀座町にHimono Dining かまなり・熱海おさかな食堂炙り家・大二郎の小籠包・CHABAKKA TEA PARKS チャバッカ ティー パークス 熱海店（『ヒルナンデス！』）。伊豆の道の駅 伊豆月ヶ瀬・Bakery＆Table Sweets 伊豆（伊豆熱川駅 徒歩8分）。公式YouTubeの石松餃子 本店（浜松市）・駿河の味処 富士屋（静岡市清水区）。</li>
   <li><strong>大阪府（7軒）</strong>：『笑ってコラえて！』の6軒は大阪市福島区の福島1〜8丁目（福島駅・新福島駅のまわり）。浪速区の新世界市場（通天閣のふもと）。</li>
   <li><strong>埼玉県（5軒）</strong>：蜂蜜と米（本川越駅 徒歩9分）、囍鵲亭（朝霞市）、ゴールデンタイガー（熊谷市）、珈琲屋OB ログ八潮店（八潮市）、毛呂山バリアフリー苺の里（毛呂山町）。</li>
-  <li><strong>神奈川県（4軒）</strong>：KOSUGI GRILL MARKET（武蔵小杉駅 徒歩4分）・麦のトリコ 元住吉店（元住吉駅 徒歩2分）、潮風キッチン（辻堂駅 徒歩5分）、EVVIVA!（海老名駅 徒歩3分）。</li>
+  <li><strong>神奈川県（8軒）</strong>：KOSUGI GRILL MARKET（武蔵小杉駅 徒歩4分）・麦のトリコ 元住吉店（元住吉駅 徒歩2分）、潮風キッチン（辻堂駅 徒歩5分）、EVVIVA!（海老名駅 徒歩3分）。『ヒルナンデス！』の横浜のMM MARKET&amp;CAFE みなとみらい店（みなとみらい6丁目）・胖鴨 まるまるかも（中華街の山下町）、横須賀市のソレイユの丘手ぶらバーベキュー（長井海の手公園ソレイユの丘の中）・TLC cafe&amp;dining ティーエルシーカフェアンドダイニング（若松町）。</li>
   <li><strong>千葉県（3軒）</strong>：道の駅 しょうなん（柏市）、すしめん処大京 酒々井店（酒々井町）、グランキッチン ナリタヤ 八街店（八街市）。</li>
   <li><strong>栃木県（1軒）</strong>：和スイーツ専門店 日光もなか（日光市）。</li>
 </ul>

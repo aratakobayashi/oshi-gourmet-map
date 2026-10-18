@@ -34,7 +34,7 @@ def place(s):
     return f'{pre}{s.get("city") or ""}{town}{chome}'
 
 
-def build(n, course, S, C):
+def build(n, course, S, C, own=None):
     ids = [str(x) for x in course.get('stops') or []]
     labels = course.get('labels') or []
     legs = course.get('legs') or []
@@ -45,6 +45,8 @@ def build(n, course, S, C):
             continue
         name = labels[i] if i < len(labels) and labels[i] else s['name']
         ms = s.get('members') or []
+        if own:  # ほかのグループ・番組の店に付けた店は、記事のグループのメンバーだけ
+            ms = [m for m in ms if m in own] or ms
         mem = '・'.join(ms) if len(ms) <= 3 else f'メンバー{len(ms)}人'
         sub = place(s) + (f'／{mem}' if mem else '')
         li = f'  <li><a href="{c.get("u", "")}"><b>{html.escape(name)}</b><span>{html.escape(sub)}</span></a>'
@@ -65,8 +67,10 @@ def main():
     fm = yaml.safe_load(t.split('---')[1]) or {}
     S = {s['id']: s for s in json.load(open(os.path.join(ROOT, 'data/shops.json'), encoding='utf-8'))}
     C = json.load(open(os.path.join(ROOT, '_data/shop_cards.json'), encoding='utf-8'))
+    g = fm.get('group')
+    own = {m for x in S.values() if x.get('group') == g for m in (x.get('members') or [])} if g else None
     for n, course in enumerate(fm.get('courses') or [], 1):
-        block = build(n, course, S, C)
+        block = build(n, course, S, C, own)
         pat_fig = re.compile(r'<figure class="fig course"><img src="[^"]*/course-%d\.svg".*?</figure>' % n, re.S)
         pat_old = re.compile(r'<!-- stops:%d -->.*?<!-- /stops -->' % n, re.S)
         if pat_old.search(t):
