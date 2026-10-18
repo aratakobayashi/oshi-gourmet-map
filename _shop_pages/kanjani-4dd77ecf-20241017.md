@@ -26,4 +26,5 @@ members:
   - "那須雄登"
 groups:
   - "kanjani"
+  - "bishonen"
 ---

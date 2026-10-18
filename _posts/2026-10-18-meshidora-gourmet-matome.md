@@ -125,7 +125,6 @@ shop_ids:
 </ul>
 
 <h2>どの地域に多い？</h2>
-<figure class="fig"><img src="/assets/img/posts/meshidora-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区のお店はなく、23区の外は千葉県11軒、そのほかの県（群馬・茨城・山梨・栃木）10軒、埼玉県8軒、神奈川県6軒、東京の市部3軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 
 <p>ここからは、お店を地域ごとに並べています。地域の名前を押すと、お店が開きます。店名の上の日付は放送年月、そのあとに放送回とその回の出演者、場所を書いています。</p>
 
