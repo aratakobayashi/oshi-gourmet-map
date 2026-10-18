@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「東京油組総本店 赤坂見附組」"
-description: "ジェニ YouTube Vlog（2023年9月）で紹介されたラーメン「東京油組総本店 赤坂見附組」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "BLACKPINKのジェニの公式YouTube「Jennie in Tokyo - Part 1」（2023年9月）で訪れた赤坂見附の油そば店。"
 shop_id: "kpop_blackpink-8c6eab29-"
 name: "東京油組総本店 赤坂見附組"
 genre: "ramen"
@@ -12,6 +12,8 @@ source_video_title: "ジェニ YouTube Vlog（2023年9月）"
 source_url: "https://oshito.online/map/16940.html"
 group: "kpop_blackpink"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13046282/"
+visit_kind: "youtube"
+program: "JENNIE公式YouTube「Jennie in Tokyo - Part 1」"
 lat: 35.6716786
 lng: 139.7356224
 members:

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「トーホーベーカリー」"
-description: "TWICEで紹介されたその他「トーホーベーカリー」（東京都三鷹市）。推し活グルメ巡礼スポット。"
+description: "TWICEのナヨンが2024年9月に公式Instagramに載せた東京観光の写真で、店の外観の前に写っていた三鷹のパン店。"
 shop_id: "kpop_twice-6b03ad4d-"
 name: "トーホーベーカリー"
 genre: "others"
@@ -14,6 +14,8 @@ group: "kpop_twice"
 tabelog_url: "https://tabelog.com/tokyo/A1320/A132001/13048977/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000949197/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/33/P038555933/P038555933_238.jpg"
+visit_kind: "other"
+program: "ナヨン Instagram"
 lat: 35.69188900864657
 lng: 139.56960827463004
 members:

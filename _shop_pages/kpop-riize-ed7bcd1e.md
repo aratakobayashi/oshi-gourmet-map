@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「原宿乃豆柴カフェ」"
-description: "RIIZEで紹介されたその他「原宿乃豆柴カフェ」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "RIIZEの公式YouTube「RIIZE IN TOKYO EP.2」で、メンバーが豆柴とふれあった原宿の豆柴カフェ。"
 shop_id: "kpop_riize-ed7bcd1e-"
 name: "原宿乃豆柴カフェ"
 genre: "others"
@@ -12,6 +12,8 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/17056.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13008614/"
+visit_kind: "youtube"
+program: "RIIZE公式YouTube「RIIZE IN TOKYO EP.2」"
 lat: 35.71270974870493
 lng: 139.7943953146828
 groups:

@@ -175,7 +175,7 @@ stay_inline: true
 <div class="pf-cta">
   <p>グループごとのお店を、地図で見る</p>
   <span>グループを選ぶと、そのグループのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
-  <a class="btn" href="/shops/?g=acees&amp;view=map">地図でACEesのお店を見る</a>
+  <a class="btn" href="/shops/?g=acees,sevenmen_samurai,bishonen,shonen_ninja,lilkansai,20th_century&amp;view=map">地図で6組のお店を見る</a>
 </div>
 <p>グループのページ：<a href="{{ site.data.group_ix.acees.u }}">ACEes</a>・<a href="{{ site.data.group_ix.sevenmen_samurai.u }}">7 MEN 侍</a>・<a href="{{ site.data.group_ix.bishonen.u }}">美 少年</a>・<a href="{{ site.data.group_ix.shonen_ninja.u }}">少年忍者</a>・<a href="{{ site.data.group_ix.juniors.u }}">ジュニアCHANNEL</a>・<a href="{{ site.data.group_ix['20th_century'].u }}">20th Century</a>。あわせて<a href="/articles/2026/10/18/keytolit-gourmet-matome/">KEY TO LITのまとめ</a>・<a href="/articles/2026/10/18/hihijets-gourmet-matome/">HiHi Jetsのまとめ</a>もどうぞ。</p>
 

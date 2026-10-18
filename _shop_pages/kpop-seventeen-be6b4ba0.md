@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「天麩羅 えびのや 南森町」"
-description: "SEVENTEENで紹介された和食「天麩羅 えびのや 南森町」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENのスングァンが訪れ、穴子天丼を食べたとファンの間で紹介されている南森町の天丼店。"
 shop_id: "kpop_seventeen-be6b4ba0-"
 name: "天麩羅 えびのや 南森町"
 genre: "washoku"
@@ -15,6 +15,8 @@ group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270103/27087731/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001157960/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/48/61/P029124861/P029124861_238.jpg"
+visit_kind: "other"
+program: "不明"
 lat: 34.6964893
 lng: 135.5123904
 members:

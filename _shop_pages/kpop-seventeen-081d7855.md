@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「焼肉 吉田 新館」"
-description: "SEVENTEENで紹介された焼肉「焼肉 吉田 新館」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENが2024年に訪れたとファンの間で紹介されている鶴橋の焼肉店。"
 shop_id: "kpop_seventeen-081d7855-"
 name: "焼肉 吉田 新館"
 genre: "yakiniku"
@@ -13,6 +13,8 @@ source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270205/27000572/"
+visit_kind: "other"
+program: "SNS（Instagram）"
 lat: 34.666526
 lng: 135.5217554
 members:

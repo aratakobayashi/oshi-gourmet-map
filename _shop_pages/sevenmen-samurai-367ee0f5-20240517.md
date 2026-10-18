@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "バーミヤン 神宮前店"
-description: "sevenmen_samuraiのYouTubeで紹介された中華「バーミヤン 神宮前店」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "ジュニアCHANNELの7 MEN 侍の「被っちゃダメよ」の回（2024年5月）で訪れた、原宿・神宮前のバーミヤン。"
 shop_id: "sevenmen_samurai-367ee0f5-20240517"
 name: "バーミヤン 神宮前店"
 genre: "chuka"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=A-8RenORx2E"
 source_url: "https://reastar6.hatenablog.jp/entry/2023/10/13/103720"
 group: "sevenmen_samurai"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（7 MEN 侍）"
 lat: 35.665432
 lng: 139.703232
 members:

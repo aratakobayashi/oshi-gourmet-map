@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "BLACKPINKが行った「Laham Kitchen（라함키친）」"
-description: "BLACKPINK House Episode 7-5で紹介された食事「Laham Kitchen（라함키친）」（韓国）。推し活グルメ巡礼スポット。"
+description: "BLACKPINKのリアリティ番組「BLACKPINK HOUSE」エピソード7で、4人がそろって食事をしたソウル・合井のレストラン。"
 shop_id: "kpop_blackpink-laham_kitchen-"
 name: "Laham Kitchen（라함키친）"
 genre: "shokuji"
@@ -11,6 +11,8 @@ source_video_title: "BLACKPINK House Episode 7-5"
 source_url: "https://creatrip.com/en/blog/7042"
 group: "kpop_blackpink"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7Lc6zrq5f2OJGDUGCYyncjgIYds.jpg"
+visit_kind: "own_tv"
+program: "BLACKPINK HOUSE"
 lat: 37.5484
 lng: 126.9079
 members:

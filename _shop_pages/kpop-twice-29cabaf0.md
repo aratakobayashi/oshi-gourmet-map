@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "TWICEが行った「麺散」"
-description: "TWICEで紹介されたその他「麺散」（東京都渋谷区）。推し活グルメ巡礼スポット。"
+description: "TWICEのモモが2022年10月の日本滞在中にプライベートで訪れ、Instagramに写真を載せた原宿のうどん店。"
 shop_id: "kpop_twice-29cabaf0-"
 name: "麺散"
 genre: "others"
@@ -13,8 +13,12 @@ source_video_title: "TWICE"
 source_url: "https://oshito.online/news/17750.html"
 group: "kpop_twice"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13225567/"
+visit_kind: "other"
+program: "モモ Instagram"
 lat: 35.666508038705835
 lng: 139.7051008842787
+members:
+  - "モモ"
 groups:
   - "kpop_twice"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「Cafebar.8」"
-description: "SEVENTEENで紹介されたカフェ「Cafebar.8」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENの公式YouTube「[SVT Record] HAPPY 겸이로그」（FOLLOW AGAINツアー）で、ドギョム・ウォヌ・ホシ・スングァンが訪れた桜ノ宮のカフェバー。"
 shop_id: "kpop_seventeen-cafebar_8-"
 name: "Cafebar.8"
 genre: "cafe"
@@ -13,9 +13,14 @@ source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270304/27139805/"
+visit_kind: "youtube"
+program: "SEVENTEEN公式YouTube「SVT Record」（ドギョムのVlog）"
 lat: 34.7030541
 lng: 135.5209944
 members:
+  - "ドギョム"
+  - "ウォヌ"
+  - "ホシ"
   - "スングァン"
 groups:
   - "kpop_seventeen"

@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「cafe nun」"
-description: "木村拓哉が訪れた食事「cafe nun」（千葉県山武郡九十九里町）。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた店としてファンブログで紹介されている、千葉・九十九里町のカフェ。"
 shop_id: "kimura-cafe_nun-20240501"
 name: "cafe nun"
 genre: "shokuji"
@@ -12,6 +12,7 @@ visited_date: "2024-05-01"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
 group: "kimura"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
+visit_kind: "other"
 lat: 35.5241
 lng: 140.3894
 members:

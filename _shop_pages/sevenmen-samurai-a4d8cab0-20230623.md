@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "天麩羅 秋光 浅草本店"
-description: "sevenmen_samuraiのYouTubeで紹介された和食「天麩羅 秋光 浅草本店」（東京都台東区）。推し活グルメ巡礼スポット。"
+description: "ジュニアCHANNELの7 MEN 侍の回「お願いだから食べさせて!! 超高級天丼で奇跡の展開に…」（2023年6月）で訪れた浅草の天ぷら店。"
 shop_id: "sevenmen_samurai-a4d8cab0-20230623"
 name: "天麩羅 秋光 浅草本店"
 genre: "washoku"
@@ -17,6 +17,8 @@ group: "sevenmen_samurai"
 hotpepper_url: "https://www.hotpepper.jp/strJ001128341/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/66/75/P027676675/P027676675_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（7 MEN 侍）"
 lat: 35.715366
 lng: 139.793701
 members:

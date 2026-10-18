@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「イマカツ赤坂店」"
-description: "RIIZEで紹介されたその他「イマカツ赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "RIIZEのショウタロウとウォンビンが訪れたとファンの間で紹介されている赤坂のとんかつ店。"
 shop_id: "kpop_riize-2b4bf673-"
 name: "イマカツ赤坂店"
 genre: "others"
@@ -13,8 +13,13 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/14860.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13246055/"
+visit_kind: "other"
+program: "RIIZE Instagram"
 lat: 35.6753817
 lng: 139.737048
+members:
+  - "ショウタロウ"
+  - "ウォンビン"
 groups:
   - "kpop_riize"
 ---

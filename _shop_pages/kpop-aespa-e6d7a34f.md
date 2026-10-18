@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "aespaが行った「韓国酒場ハルハル」"
-description: "ジゼル 高円寺来訪で紹介された居酒屋「韓国酒場ハルハル」（東京都杉並区）。推し活グルメ巡礼スポット。"
+description: "aespaのジゼルが2024年7月ごろに訪れ、タッカルビ・ユッケビビンバ・ヤンニョムチキンを注文したと店の公式Instagramで紹介された高円寺の韓国料理店。"
 shop_id: "kpop_aespa-e6d7a34f-"
 name: "韓国酒場ハルハル"
 genre: "izakaya"
@@ -14,6 +14,8 @@ group: "kpop_aespa"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132404/13305396/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003671556/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/85/36/P043508536/P043508536_238.jpg"
+visit_kind: "other"
+program: "店の公式Instagram"
 lat: 35.7073164
 lng: 139.6548546
 members:

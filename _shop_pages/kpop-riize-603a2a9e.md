@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "RIIZEが行った「龍城飯店(リュウジョウハンテン) 香港路店」"
-description: "RIIZEで紹介された中華「龍城飯店(リュウジョウハンテン) 香港路店」（神奈川県横浜市）。推し活グルメ巡礼スポット。"
+description: "RIIZEが2024年の「RIIZING DAY」日本ホールツアーの際に訪れたとファンの間で紹介されている横浜中華街の中華料理店。"
 shop_id: "kpop_riize-603a2a9e-"
 name: "龍城飯店(リュウジョウハンテン) 香港路店"
 genre: "chuka"
@@ -13,6 +13,8 @@ source_video_title: "RIIZE"
 source_url: "https://oshito.online/news/14860.html"
 group: "kpop_riize"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14055923/"
+visit_kind: "other"
+program: "RIIZE Instagram"
 lat: 35.4429058
 lng: 139.6514509
 groups:

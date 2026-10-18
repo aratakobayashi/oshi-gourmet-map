@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "牛牛 西麻布 総本店"
-description: "sevenmen_samuraiのYouTubeで紹介された焼肉「牛牛 西麻布 総本店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ジュニアCHANNELの7 MEN 侍の回「リアルな打ち上げを大公開 サマパラの裏側…」（2023年9月）で打ち上げをした西麻布の焼肉店。"
 shop_id: "sevenmen_samurai-85f823f7-20230908"
 name: "牛牛 西麻布 総本店"
 genre: "yakiniku"
@@ -17,6 +17,8 @@ group: "sevenmen_samurai"
 hotpepper_url: "https://www.hotpepper.jp/strJ001098601/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（7 MEN 侍）"
 lat: 35.661369
 lng: 139.727112
 members:

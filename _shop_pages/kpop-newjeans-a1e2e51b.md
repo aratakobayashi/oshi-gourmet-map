@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "NewJeansが行った「俺流塩らーめん 新宿東南口店」"
-description: "ミンジ 東京vlog（2023年12月26日公開）日本初ラーメンで紹介されたラーメン「俺流塩らーめん 新宿東南口店」（東京都新宿区）。推し活グルメ巡礼スポット。"
+description: "NewJeansの公式YouTube「[About Jeans] MINJI SCENE #3」（2023年12月）で、ミンジが日本で初めてラーメンを食べたと話した新宿の塩ラーメン店。"
 shop_id: "kpop_newjeans-a1e2e51b-"
 name: "俺流塩らーめん 新宿東南口店"
 genre: "ramen"
@@ -12,6 +12,8 @@ source_video_title: "ミンジ 東京vlog（2023年12月26日公開）日本初�
 source_url: "https://moalabtxt.com/newjeans_minji_tokyovlog/"
 group: "kpop_newjeans"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13240587/"
+visit_kind: "youtube"
+program: "NewJeans公式YouTube「[About Jeans] MINJI SCENE #3 도쿄 가요?」"
 lat: 35.6921592
 lng: 139.7006065
 members:

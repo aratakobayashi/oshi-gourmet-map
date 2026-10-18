@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「鳴門鯛焼本舗 新橋駅前店」"
-description: "ENHYPENで紹介されたその他「鳴門鯛焼本舗 新橋駅前店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ジェイクとソンフンが訪れたとファンの間で紹介されている新橋駅前のたい焼き店。"
 shop_id: "kpop_enhypen-b21f31cf-"
 name: "鳴門鯛焼本舗 新橋駅前店"
 genre: "others"
@@ -13,10 +13,13 @@ source_video_title: "ENHYPEN"
 source_url: "https://oshito.online/news/15229.html"
 group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13277331/"
+visit_kind: "other"
+program: "ENHYPEN（ジェイクとソンフンの日本Vlog関連）"
 lat: 35.6668663
 lng: 139.7574154
 members:
-  - "ソンジェク"
+  - "ソンフン"
+  - "ジェイク"
 groups:
   - "kpop_enhypen"
 ---

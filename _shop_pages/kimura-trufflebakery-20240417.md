@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "木村拓哉が行った「TruffleBAKERY三軒茶屋店」"
-description: "木村拓哉が訪れた食事「TruffleBAKERY三軒茶屋店」（東京都世田谷区）。推し活グルメ巡礼スポット。"
+description: "木村拓哉が訪れた店としてファンブログで紹介されている、三軒茶屋のトリュフを使ったパンの店。"
 shop_id: "kimura-trufflebakery-20240417"
 name: "TruffleBAKERY三軒茶屋店"
 genre: "shokuji"
@@ -13,6 +13,7 @@ visited_date: "2024-04-17"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%83%91%E3%83%B3"
 group: "kimura"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131706/13229246/"
+visit_kind: "other"
 lat: 35.6469025
 lng: 139.652531
 members:

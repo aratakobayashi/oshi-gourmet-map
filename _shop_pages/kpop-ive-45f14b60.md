@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "IVEが行った「ブレドール 葉山本店」"
-description: "相席食堂 IVE日本初ロケ（2024年7月16日放送）で紹介されたカフェ「ブレドール 葉山本店」（神奈川県三浦郡葉山町）。推し活グルメ巡礼スポット。"
+description: "IVEが出演した「相席食堂」（2024年7月16日放送）で、ガウル・ウォニョン・リズの組の旅で訪れた葉山のパン店。"
 shop_id: "kpop_ive-45f14b60-"
 name: "ブレドール 葉山本店"
 genre: "cafe"
@@ -15,6 +15,8 @@ tabelog_url: "https://tabelog.com/kanagawa/A1406/A140602/14002514/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003916153/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/40/39/P047234039/P047234039_238.jpg"
+visit_kind: "guest_tv"
+program: "相席食堂"
 lat: 35.26866
 lng: 139.589695
 members:

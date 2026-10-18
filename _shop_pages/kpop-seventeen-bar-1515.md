@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「BAR 酒店 1515」"
-description: "SEVENTEENで紹介されたその他「BAR 酒店 1515」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENのミンギュが訪れ、店内にミンギュが描いたイラストが飾られているとされる大阪・千日前のバー。"
 shop_id: "kpop_seventeen-bar_1515-"
 name: "BAR 酒店 1515"
 genre: "others"
@@ -12,6 +12,8 @@ nearest_station: "近鉄日本橋駅 徒歩2分"
 source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
+visit_kind: "other"
+program: "SNS（Instagram）"
 lat: 34.6676075
 lng: 135.5044633
 members:

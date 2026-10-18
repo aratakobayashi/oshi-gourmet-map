@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「おにやんま 新橋店」"
-description: "ENHYPENで紹介されたその他「おにやんま 新橋店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENの公式YouTube「[Vlog] 제이크와 성훈의 일본 브이로그」で、ジェイクとソンフンが日本でのショッピングの合間に訪れた新橋の立ち食いうどん店。"
 shop_id: "kpop_enhypen-255c5e9a-"
 name: "おにやんま 新橋店"
 genre: "others"
@@ -13,10 +13,13 @@ source_video_title: "ENHYPEN"
 source_url: "https://oshito.online/news/15229.html"
 group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13162575/"
+visit_kind: "youtube"
+program: "ENHYPEN公式YouTube（ジェイクとソンフンの日本Vlog）"
 lat: 35.6655555
 lng: 139.7563666
 members:
-  - "ソンジェク"
+  - "ソンフン"
+  - "ジェイク"
 groups:
   - "kpop_enhypen"
 ---

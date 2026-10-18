@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "焼肉の名門 天壇 赤坂店"
-description: "sevenmen_samuraiのYouTubeで紹介された焼肉「焼肉の名門 天壇 赤坂店」（東京都港区）。推し活グルメ巡礼スポット。"
+description: "ジュニアCHANNELの7 MEN 侍の回「忘年会だけど新年会」（2024年1月）で6人が食事をした赤坂の焼肉店。"
 shop_id: "sevenmen_samurai-72791f81-20240126"
 name: "焼肉の名門 天壇 赤坂店"
 genre: "yakiniku"
@@ -15,6 +15,8 @@ source_video_url: "https://www.youtube.com/watch?v=kQ1dPn3r-Lg"
 source_url: "https://ameblo.jp/jumbo2heart/entry-12842475746.html"
 group: "sevenmen_samurai"
 source_type: "youtube"
+visit_kind: "youtube"
+program: "ジュニアCHANNEL（7 MEN 侍）"
 lat: 35.674438
 lng: 139.735504
 members:

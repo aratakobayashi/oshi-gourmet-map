@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "ENHYPENが行った「& OIMO TOKYO CAFE 中目黒店」"
-description: "ENHYPENで紹介されたカフェ「& OIMO TOKYO CAFE 中目黒店」（東京都目黒区）。推し活グルメ巡礼スポット。"
+description: "ENHYPENの公式YouTube「[Vlog] 제이크와 성훈의 일본 브이로그」で、ジェイクとソンフンが立ち寄った中目黒のさつまいもスイーツのカフェ。"
 shop_id: "kpop_enhypen-oimo_tokyo_cafe-"
 name: "& OIMO TOKYO CAFE 中目黒店"
 genre: "cafe"
@@ -15,8 +15,13 @@ group: "kpop_enhypen"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13260371/"
 hotpepper_url: "https://www.hotpepper.jp/strJ003298095/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/75/01/P046767501/P046767501_238.jpg"
+visit_kind: "youtube"
+program: "ENHYPEN公式YouTube（ジェイクとソンフンの日本Vlog）"
 lat: 35.6482209
 lng: 139.6970724
+members:
+  - "ソンフン"
+  - "ジェイク"
 groups:
   - "kpop_enhypen"
 ---

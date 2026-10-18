@@ -1,7 +1,7 @@
 ---
 layout: shop
 title: "SEVENTEENが行った「串揚げとワインOhana 北新地店」"
-description: "SEVENTEENで紹介されたその他「串揚げとワインOhana 北新地店」（大阪府大阪市）。推し活グルメ巡礼スポット。"
+description: "SEVENTEENのホシが訪れたとファンの間で紹介されている北新地の串揚げ店。"
 shop_id: "kpop_seventeen-ohana-"
 name: "串揚げとワインOhana 北新地店"
 genre: "others"
@@ -13,6 +13,8 @@ source_video_title: "SEVENTEEN"
 source_url: "https://oshito.online/news/17685.html"
 group: "kpop_seventeen"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27069587/"
+visit_kind: "other"
+program: "SNS（Instagram）"
 lat: 34.6973144
 lng: 135.4987412
 members:
