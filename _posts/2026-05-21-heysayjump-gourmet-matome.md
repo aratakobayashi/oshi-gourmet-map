@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hey! Say! JUMPの聖地巡礼・ロケ地まとめ｜いただきハイジャンプ・めざましテレビで行った東京のご飯ほか76軒"
+title: "Hey! Say! JUMPの聖地巡礼・ロケ地まとめ｜いただきハイジャンプ・ヒルナンデス！で行った東京のご飯ほか101軒"
 date: 2026-05-21
 last_modified_at: 2026-10-13
 checked_at: 2026-10-13
-description: "Hey! Say! JUMPの聖地巡礼・ロケ地76軒のまとめ。冠番組『いただきハイジャンプ』のデカ盛り・高級ランチ・グルメ刑事・川越特集、伊野尾慧の『めざましテレビ』「イノ調」や『ヒルナンデス！』、ドラマのロケ地、スタジオに料理が出ただけのお店まで、出典ごとに分けて紹介します。"
+description: "Hey! Say! JUMPの聖地巡礼・ロケ地101軒のまとめ。冠番組『いただきハイジャンプ』のデカ盛り・高級ランチ・グルメ刑事・川越特集、有岡大貴・八乙女光らの『ヒルナンデス！』「一番探し」「ローカル線ぶらり旅」「修学旅行」、伊野尾慧の『めざましテレビ』「イノ調」、ドラマのロケ地、スタジオに料理が出ただけのお店まで、出典ごとに分けて紹介します。"
 group: heysayjump
 genre: まとめ
 article_type: matome
@@ -19,9 +19,9 @@ sources:
   - label: "確認に使った資料：vitamin-day.com（Hey! Say! JUMPのロケ地）"
     url: "https://vitamin-day.com/11511/"
 summary:
-  - "Hey! Say! JUMPの聖地76軒。冠番組『いただきハイジャンプ』55軒、出演した番組15軒、ドラマのロケ地2軒、スタジオに料理が出ただけのお店4軒"
+  - "Hey! Say! JUMPの聖地101軒。冠番組『いただきハイジャンプ』55軒、出演した番組40軒（うち『ヒルナンデス！』29軒）、ドラマのロケ地2軒、スタジオに料理が出ただけのお店4軒"
   - "冠番組のお店は2015〜2019年の放送回から。いちばん多いのは2018年11月の川越特集（前編・後編）の15軒"
-  - "東京が49軒（中央区・渋谷区・新宿区・港区など）。ほかに埼玉（川越）・静岡・千葉・神奈川・茨城"
+  - "東京が58軒（中央区・渋谷区・新宿区・港区・台東区など）。ほかに埼玉（川越・越谷）・神奈川・静岡・千葉・長野・茨城・宮城・京都"
   - "お店ごとに回・出たメンバー・登場した料理を載せ、地図でまとめて巡れる"
 shop_ids:
   - heysayjump-2c7fa4f5-20151114
@@ -100,6 +100,31 @@ shop_ids:
   - heysayjump-57062058-
   - heysayjump-cafe-
   - heysayjump-7b3cff12-
+  - heysayjump-2d55b0b8-20240116
+  - heysayjump-3dda2a3b-20231107
+  - heysayjump-12cfc17a-20231017
+  - snowman-onigiri-asakusa-yadoroku
+  - heysayjump-d99dcd75-20230822
+  - heysayjump-2b9d20c7-20230530
+  - heysayjump-b2dd3339-20230530
+  - heysayjump-a35ecd50-20230418
+  - heysayjump-adcc5795-20221122
+  - heysayjump-168350be-20221004
+  - heysayjump-34b2b98e-20240423
+  - sekkaku_gourmet-cf4846ce-20251026
+  - heysayjump-a1e9bc1f-20221115
+  - heysayjump-1b86a497-20240903
+  - heysayjump-c601097e-20240326
+  - heysayjump-ac0c535e-20260922
+  - timelesz-466a6542-20260728
+  - heysayjump-95c77555-20260811
+  - heysayjump-c6b35780-20260630
+  - heysayjump-4fcab084-20260721
+  - heysayjump-60d0d6f3-20260324
+  - heysayjump-5fb5d5ce-20260303
+  - heysayjump-50128187-20250729
+  - heysayjump-fecce96b-20250729
+  - heysayjump-073e2610-20250701
 faq:
   - q: "Hey! Say! JUMPが行ったお店はどこですか？"
     a: "冠番組『いただきハイジャンプ』では、「潜入！グルメ刑事」（2018年9月）で山田涼介・八乙女光が亀戸餃子・ひき肉少年・路地裏・うな達を、「からあげブラックジャック」（2019年7月）で伊野尾慧・知念侑李が元祖中洲唐揚もりやま 学芸大学店・とり多津をまわっています。伊豆箱根のバイクツーリング（2018年6〜7月）では伊野尾慧・山田涼介が山六ひもの店 総本店で干物を試食しました。"
@@ -109,15 +134,17 @@ faq:
     a: "この記事の55軒では、2018年11月の川越特集が前編8軒・後編7軒の計15軒で最も多く、次いで2018年6〜7月の伊豆箱根バイクツーリングが5軒です。デカ盛りの回（2015年11月・2016年4月）、「グルメ刑事」、「からあげブラックジャック」などもあります。"
   - q: "伊野尾慧が行ったお店はどこですか？"
     a: "『めざましテレビ』の「イノ調」で、もやし専門店 もやし・All About My Croquette・MUSHROOM TOKYO（2017年5月）、築地本願寺カフェ Tsumugi・寺カフェ（2018年10月）を訪れています。『ヒルナンデス！』の新大久保ロケ（2018年8月）ではBWCAFEなど4軒、『メレンゲの気持ち』（2017年7月）では長野博と味芳斎など3軒をまわりました。"
+  - q: "有岡大貴・八乙女光が『ヒルナンデス！』で行ったお店はどこですか？"
+    a: "有岡大貴は「一番探し」（2022〜2024年）で日本橋・横浜・川越・相模原・木更津・浅草・柴又・十条をまわり、相模原の回には中島裕翔も出ています。「ローカル線ぶらり旅」では箱根登山電車・伊豆箱根鉄道駿豆線・しなの鉄道沿いのお店を訪れました。八乙女光は「男だらけの修学旅行in京都」（2024年3月）と「修学旅行in松島」（2024年9月）に有岡大貴と出ているほか、「全世代口コミコンプリート旅 in 軽井沢」（2026年7月）や「ランキングだらけ旅 in 上野」（2026年8月）に出ています。"
   - q: "Hey! Say! JUMPのメンバーが出演したドラマのロケ地はありますか？"
     a: "中島裕翔が出演した『SUITS/スーツ』で第4話のクイズ大会の場面に使われたSUNDAY（神田三崎町）と、山田涼介が出演した『もみ消して冬』、中島裕翔が出演した『デート～恋とはどんなものかしら～』『しずかちゃんとパパ』のロケ地として紹介された512 CAFE & GRILL（赤坂）の2軒です。メンバーが食べに行ったお店ではなく、ドラマの撮影に使われたお店です。"
   - q: "Hey! Say! JUMPのお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でHey! Say! JUMPを選ぶと、この記事の76軒を含め、Hey! Say! JUMPのお店を地図で見られます。"
+    a: "「お店を探す」でHey! Say! JUMPを選ぶと、この記事の101軒を含め、Hey! Say! JUMPのお店を地図で見られます。"
 pr: true
 techo: true
 cover_ids: "heysayjump-2c7fa4f5-20151114,heysayjump-hero_s-20160414,heysayjump-b2922bdd-20160518"
 cover_title: "Hey! Say! JUMP 聖地巡礼帳"
-cover_sub: "いただきハイジャンプ・出演番組の76軒"
+cover_sub: "いただきハイジャンプ・出演番組の101軒"
 courses:
   - title: "築地から人形町、亀戸へ"
     stops: [heysayjump-tsumugi-, 069d6a42, heysayjump-d5f50b8f-20180908]
@@ -132,16 +159,16 @@ stay_inline: true
 
 <p>この記事のお店には、<strong>薮宏太・八乙女光・髙木雄也・伊野尾慧・有岡大貴・山田涼介・知念侑李・中島裕翔</strong>と、在籍していたころの岡本圭人が出てきます。中心はフジテレビ系の冠番組<strong>『いただきハイジャンプ』</strong>。2015年に水曜深夜でレギュラー放送が始まり、2017年10月から土曜の午後の放送になった番組で、デカ盛りの特集、銀座の高級ランチ、「グルメ刑事」、伊豆箱根のツーリング、2週にわたる川越特集と、グルメの回にたくさんのお店が登場しました。</p>
 
-<p>ほかにも、伊野尾慧が出た『めざましテレビ』の「イノ調」や『ヒルナンデス！』『メレンゲの気持ち』のお店、メンバーが出演したドラマの撮影に使われたお店があります。この記事では<strong>76軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>ほかにも、有岡大貴・八乙女光らがロケをした『ヒルナンデス！』の「一番探し」「ローカル線ぶらり旅」「修学旅行」などのお店、伊野尾慧が出た『めざましテレビ』の「イノ調」や『メレンゲの気持ち』のお店、メンバーが出演したドラマの撮影に使われたお店があります。この記事では<strong>101軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組『いただきハイジャンプ』のお店<small>55軒</small></span></a><a href="#src2">{% include chico.html kind="guest" %}<span>出演した番組のお店<small>15軒</small></span></a><a href="#src3">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>2軒</small></span></a><a href="#src4">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>4軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組『いただきハイジャンプ』のお店<small>55軒</small></span></a><a href="#src2">{% include chico.html kind="guest" %}<span>出演した番組のお店<small>40軒</small></span></a><a href="#src3">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>2軒</small></span></a><a href="#src4">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>4軒</small></span></a></div>
 </div>
 {% include matome-members.html group="heysayjump" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>76軒のなかから、東京で行きやすく、メンバーがお店を訪れたことが記録に残っているお店を3つ選びました。</p>
+<p>101軒のなかから、東京で行きやすく、メンバーがお店を訪れたことが記録に残っているお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="heysayjump-d5f50b8f-20180908" no="其の一" why="『いただきハイジャンプ』の「潜入！グルメ刑事 謎多き店を徹底捜査！！」（2018年9月）で、山田涼介・八乙女光が捜査したお店。焼き餃子が登場しました。東京の亀戸です。" %}
 {% include pick.html id="heysayjump-tsumugi-" no="其の二" why="『めざましテレビ』の「イノ調」（2018年10月）で、伊野尾慧が18品の朝ごはんとほうじ茶ゼリーソフトを食べたカフェ。東京の築地本願寺にあります。" %}
@@ -159,7 +186,7 @@ stay_inline: true
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>冠番組の55軒は、2015〜2019年の放送回のお店です。2016年までは都内のデカ盛りや高級ランチの調査、2018年からは伊豆箱根・房総・川越へ出かける回が増えます。出演番組の15軒は、どれも伊野尾慧が出た回のものです。冠番組には2人1組でお店をまわる回もあり、川越特集では伊野尾慧・髙木雄也の組と、薮宏太・山田涼介の組に分かれています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>冠番組の55軒は、2015〜2019年の放送回のお店です。2016年までは都内のデカ盛りや高級ランチの調査、2018年からは伊豆箱根・房総・川越へ出かける回が増えます。出演番組の40軒は、伊野尾慧の『めざましテレビ』『メレンゲの気持ち』と、2018年からの『ヒルナンデス！』のロケのお店です。『ヒルナンデス！』は2022年からの回では有岡大貴の出演が多く、八乙女光・中島裕翔が出た回もあります。冠番組には2人1組でお店をまわる回もあり、川越特集では伊野尾慧・髙木雄也の組と、薮宏太・山田涼介の組に分かれています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -265,7 +292,7 @@ stay_inline: true
 </ul>
 
 <h2 id="src2">{% include chico.html kind="guest" %}出演した番組のお店</h2>
-<p>伊野尾慧がロケをした回です。店名の上の日付は放送の年月です。</p>
+<p>メンバーがゲストやロケの担当で出た回です。『ヒルナンデス！』（日本テレビ）は、コーナーごとに放送の新しい順に並べています。店名の上の日付は放送の年月で、行にはその回に出たHey! Say! JUMPのメンバーだけを書いています。</p>
 
 <h3>『めざましテレビ』の「イノ調」（伊野尾慧）</h3>
 <p>2017年12月7日の鍋の回の3軒は、調査コーナーに料理が紹介されたお店で、伊野尾慧がお店で食べたかは記録にありません。</p>
@@ -278,6 +305,55 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="heysayjump-f83ecf9a-" %}<span class="wr__k">2017.12</span><b class="wr__name">七色てまりうた</b><span class="wr__t">イノ調（12月7日）の調査に登場／15種緑黄色野菜とローストチキンの雪山鍋が紹介された（新宿区 新宿三丁目）</span>{% include wr-close.html id="heysayjump-f83ecf9a-" %}</li>
   <li class="wr">{% include wr-open.html id="heysayjump-tsumugi-" %}<span class="wr__k">2018.10</span><b class="wr__name">築地本願寺カフェ Tsumugi</b><span class="wr__t">イノ調（10月4日）／伊野尾慧／18品の朝ごはん・ほうじ茶ゼリーソフト（中央区 築地）</span>{% include wr-close.html id="heysayjump-tsumugi-" %}</li>
   <li class="wr">{% include wr-open.html id="heysayjump-b6634ea5-" %}<span class="wr__k">2018.10</span><b class="wr__name">寺カフェ</b><span class="wr__t">イノ調（10月4日）／伊野尾慧／ブッダボウル（渋谷区 代官山）</span>{% include wr-close.html id="heysayjump-b6634ea5-" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』一番探し（2022〜2024年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-2d55b0b8-20240116" %}<span class="wr__k">2024.1</span><b class="wr__name">餃餃者大衆酒場 十条店</b><span class="wr__t">1番探しin十条（1月16日）／有岡大貴／北区 中十条</span>{% include wr-close.html id="heysayjump-2d55b0b8-20240116" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-3dda2a3b-20231107" %}<span class="wr__k">2023.11</span><b class="wr__name">もんじゃ と陸</b><span class="wr__t">1番探しin葛飾・柴又（11月7日）／有岡大貴／葛飾区 柴又</span>{% include wr-close.html id="heysayjump-3dda2a3b-20231107" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-12cfc17a-20231017" %}<span class="wr__k">2023.10</span><b class="wr__name">鮮魚・天麩羅 ならさか</b><span class="wr__t">1番探しin浅草（10月17日）／有岡大貴／台東区 浅草</span>{% include wr-close.html id="heysayjump-12cfc17a-20231017" %}</li>
+  <li class="wr">{% include wr-open.html id="snowman-onigiri-asakusa-yadoroku" %}<span class="wr__k">2023.10</span><b class="wr__name">おにぎり浅草宿六</b><span class="wr__t">1番探しin浅草（10月17日）／有岡大貴／台東区 浅草</span>{% include wr-close.html id="snowman-onigiri-asakusa-yadoroku" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-d99dcd75-20230822" %}<span class="wr__k">2023.8</span><b class="wr__name">宝家</b><span class="wr__t">一番探しin海ほたる&amp;木更津（8月22日）／有岡大貴／千葉県木更津市 中央</span>{% include wr-close.html id="heysayjump-d99dcd75-20230822" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-2b9d20c7-20230530" %}<span class="wr__k">2023.5</span><b class="wr__name">やきとり本舗</b><span class="wr__t">一番探しin相模原（5月30日）／有岡大貴・中島裕翔／相模原市中央区 相模原</span>{% include wr-close.html id="heysayjump-2b9d20c7-20230530" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-b2dd3339-20230530" %}<span class="wr__k">2023.5</span><b class="wr__name">鳥忠さがみの亭 相模原店</b><span class="wr__t">一番探しin相模原（5月30日）／有岡大貴・中島裕翔／相模原市中央区 相模原</span>{% include wr-close.html id="heysayjump-b2dd3339-20230530" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-a35ecd50-20230418" %}<span class="wr__k">2023.4</span><b class="wr__name">Mrs hamburger 川越 ミセスハンバーガー</b><span class="wr__t">一番探し旅 in 川越（4月18日）／有岡大貴／埼玉県川越市 連雀町</span>{% include wr-close.html id="heysayjump-a35ecd50-20230418" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-adcc5795-20221122" %}<span class="wr__k">2022.11</span><b class="wr__name">THE YOKOHAMA BAY</b><span class="wr__t">一番探しツアー in横浜（11月22日）／有岡大貴／横浜市中区 北仲通</span>{% include wr-close.html id="heysayjump-adcc5795-20221122" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-168350be-20221004" %}<span class="wr__k">2022.10</span><b class="wr__name">REWILD OUTDO OR TOKYO</b><span class="wr__t">一番探しツアー in日本橋（10月4日）／有岡大貴／中央区 日本橋茅場町</span>{% include wr-close.html id="heysayjump-168350be-20221004" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』ローカル線ぶらり旅（2022〜2024年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-34b2b98e-20240423" %}<span class="wr__k">2024.4</span><b class="wr__name">HAKONE PICNIC ハコネ ピクニック</b><span class="wr__t">ローカル線ぶらり旅 in 箱根登山電車（4月23日）／有岡大貴／神奈川県箱根町 小涌谷</span>{% include wr-close.html id="heysayjump-34b2b98e-20240423" %}</li>
+  <li class="wr">{% include wr-open.html id="sekkaku_gourmet-cf4846ce-20251026" %}<span class="wr__k">2023.11</span><b class="wr__name">うなぎ桜家</b><span class="wr__t">ローカル線ぶらり旅 in 伊豆箱根鉄道駿豆線（11月28日）／有岡大貴／静岡県三島市 広小路町</span>{% include wr-close.html id="sekkaku_gourmet-cf4846ce-20251026" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-a1e9bc1f-20221115" %}<span class="wr__k">2022.11</span><b class="wr__name">お食事処やまへい</b><span class="wr__t">しなの鉄道でご当地グルメ探し（11月15日）／有岡大貴／長野県小諸市 平原</span>{% include wr-close.html id="heysayjump-a1e9bc1f-20221115" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』修学旅行（2024年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-1b86a497-20240903" %}<span class="wr__k">2024.9</span><b class="wr__name">丼松島</b><span class="wr__t">修学旅行in松島（9月3日）／八乙女光・有岡大貴／宮城県松島町</span>{% include wr-close.html id="heysayjump-1b86a497-20240903" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-c601097e-20240326" %}<span class="wr__k">2024.3</span><b class="wr__name">うなぎ四代目菊川 京都ポルタ店</b><span class="wr__t">男だらけの修学旅行in京都（3月26日）／八乙女光・有岡大貴／京都市下京区 京都駅ビル</span>{% include wr-close.html id="heysayjump-c601097e-20240326" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』全世代口コミコンプリート旅（2026年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-ac0c535e-20260922" %}<span class="wr__k">2026.9</span><b class="wr__name">展望レトロ喫茶 桃山館</b><span class="wr__t">全世代くちコミコンプリート旅 in 熱海（9月22日）／有岡大貴／静岡県熱海市 桃山町</span>{% include wr-close.html id="heysayjump-ac0c535e-20260922" %}</li>
+  <li class="wr">{% include wr-open.html id="timelesz-466a6542-20260728" %}<span class="wr__k">2026.7</span><b class="wr__name">信州十割そば てん 軽井沢</b><span class="wr__t">全世代口コミコンプリート旅 in 軽井沢（7月28日）／八乙女光／長野県軽井沢町</span>{% include wr-close.html id="timelesz-466a6542-20260728" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』ランキング旅（2026年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-95c77555-20260811" %}<span class="wr__k">2026.8</span><b class="wr__name">翠雲 上野店</b><span class="wr__t">ランキングだらけ旅 in 上野（8月11日）／八乙女光／台東区 上野</span>{% include wr-close.html id="heysayjump-95c77555-20260811" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-c6b35780-20260630" %}<span class="wr__k">2026.6</span><b class="wr__name">江戸肉割烹さゝや 浅草</b><span class="wr__t">ランキング旅in浅草（6月30日）／有岡大貴／台東区 浅草</span>{% include wr-close.html id="heysayjump-c6b35780-20260630" %}</li>
+</ul>
+
+<h3>『ヒルナンデス！』そのほかのロケ（調査・ツアー）（2025〜2026年）</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="heysayjump-4fcab084-20260721" %}<span class="wr__k">2026.7</span><b class="wr__name">小林食堂</b><span class="wr__t">山手線沿線を歩いて1周!新名物探し旅（7月21日）／有岡大貴／品川区 東五反田</span>{% include wr-close.html id="heysayjump-4fcab084-20260721" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-60d0d6f3-20260324" %}<span class="wr__k">2026.3</span><b class="wr__name">BOX BURGER 箱根湯本</b><span class="wr__t">周遊パスでお得ツアーin箱根（3月24日）／有岡大貴／神奈川県箱根町 湯本</span>{% include wr-close.html id="heysayjump-60d0d6f3-20260324" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-5fb5d5ce-20260303" %}<span class="wr__k">2026.3</span><b class="wr__name">回転火鍋 なべ丸 上野本店</b><span class="wr__t">長田観光 東京3大 桃の節句ツアー&amp;密着in回転グルメ（3月3日）／有岡大貴／台東区 上野</span>{% include wr-close.html id="heysayjump-5fb5d5ce-20260303" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-50128187-20250729" %}<span class="wr__k">2025.7</span><b class="wr__name">ドトール珈琲店レイクタウンmori店</b><span class="wr__t">イオンレイクタウンを大調査（7月29日）／有岡大貴／埼玉県越谷市 レイクタウン</span>{% include wr-close.html id="heysayjump-50128187-20250729" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-fecce96b-20250729" %}<span class="wr__k">2025.7</span><b class="wr__name">利久食堂 イオンレイクタウンkaze店</b><span class="wr__t">イオンレイクタウンを大調査（7月29日）／有岡大貴／埼玉県越谷市 レイクタウン</span>{% include wr-close.html id="heysayjump-fecce96b-20250729" %}</li>
+  <li class="wr">{% include wr-open.html id="heysayjump-073e2610-20250701" %}<span class="wr__k">2025.7</span><b class="wr__name">わっぱ茶屋 かわな</b><span class="wr__t">木更津アウトレットで聞き込み調査（7月1日）／八乙女光／千葉県木更津市 中島</span>{% include wr-close.html id="heysayjump-073e2610-20250701" %}</li>
 </ul>
 
 <h3>『ヒルナンデス！』の新大久保ロケ（2018年8月）</h3>
@@ -320,10 +396,10 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事32軒、カフェ12軒、スイーツ9軒、和食8軒、その他5軒、中華4軒、ラーメン3軒、焼肉2軒、居酒屋1軒。場所は埼玉県川越市15軒、東京都中央区12軒、渋谷区・新宿区8軒ずつ、港区7軒、豊島区4軒、目黒区3軒、千代田区2軒、静岡県伊東市2軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の76軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/genre.svg" alt="お店のジャンルと場所（101軒）：食事34軒、和食18軒、カフェ16軒、スイーツ9軒、居酒屋8軒、中華6軒、その他5軒、ラーメン3軒、焼肉2軒。場所は埼玉県川越市16軒、東京都中央区13軒、渋谷区・新宿区8軒ずつ、港区7軒、台東区6軒、豊島区4軒、目黒区3軒、千葉県木更津市3軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の76軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、中央区12軒、渋谷区8軒、新宿区8軒、港区7軒、豊島区4軒など。23区の外は埼玉県15軒、千葉県3軒、神奈川県3軒、東京の市部・島1軒、そのほかの道府県6軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、中央区13軒、渋谷区8軒、新宿区8軒、港区7軒、台東区6軒など。23区の外は埼玉県18軒、神奈川県8軒、千葉県5軒、東京の市部・島1軒、そのほかの道府県12軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・築地・人形町</strong>：銀熊茶寮・Sun-mi 高松本店 EMU・中華料理 蘭州（どれも銀座駅 徒歩1分）、パセラリゾーツ 銀座店、『メレンゲの気持ち』の孔家飯店（銀座8丁目）、「超くい亭」の4軒（てんぷら阿部 銀座本店・BLTステーキ 銀座・東京銀座フォワグラ・銀座 楼蘭）。築地には築地本願寺カフェ Tsumugi（築地市場駅 徒歩6分）、人形町には玉英堂 彦九郎。</li>
@@ -333,14 +409,15 @@ stay_inline: true
   <li><strong>赤坂</strong>：赤坂鮨兆・秀ちゃんラーメン赤坂（どちらも赤坂駅 徒歩1分）と、ドラマのロケ地の512 CAFE &amp; GRILL（赤坂9丁目）。</li>
   <li><strong>白金・三田・芝大門・港南</strong>：グルメ刑事のひき肉少年（白金）と路地裏（港南）、からあげブラックジャックのとり多津（田町駅 徒歩9分）、『メレンゲの気持ち』の味芳斎（大門駅 徒歩2分）。</li>
   <li><strong>そのほかの東京</strong>：HERO'S ステーキハウス 秋葉原店（末広町駅 徒歩3分）、亀戸餃子（亀戸駅 徒歩1分）、New NEW YORK CLUB（緑が丘駅 徒歩1分）、元祖中洲唐揚もりやま 学芸大学店（目黒区鷹番）、All About My Croquette（松陰神社前駅 徒歩7分）、サニーダイナー 本店（北千住）、深川 つり舟（国立駅 徒歩13分）、ドラマのロケ地のSUNDAY（神田三崎町）。</li>
-  <li><strong>川越</strong>：川越特集の15軒。<a href="{% post_url 2026-05-18-heysayjump-kawagoe-course %}">川越の聖地巡礼コース</a>をどうぞ。</li>
+  <li><strong>浅草・上野・柴又</strong>：『ヒルナンデス！』の鮮魚・天麩羅 ならさか・おにぎり浅草宿六（浅草3丁目）、江戸肉割烹さゝや 浅草、回転火鍋 なべ丸 上野本店・翠雲 上野店（上野）、もんじゃ と陸（柴又）、餃餃者大衆酒場 十条店（北区中十条）。</li>
+  <li><strong>川越</strong>：川越特集の15軒と、『ヒルナンデス！』「一番探し旅 in 川越」のMrs hamburger 川越 ミセスハンバーガー（連雀町）。<a href="{% post_url 2026-05-18-heysayjump-kawagoe-course %}">川越の聖地巡礼コース</a>をどうぞ。</li>
   <li><strong>伊豆・箱根・大磯</strong>：ツーリングの回の箱根ベーカリー 箱根湯本本店・山六ひもの店 総本店・伊豆高原ビール うまいもん処（伊東市）・パンの蔵（大磯町）と、西伊豆の堂ヶ島食堂。</li>
-  <li><strong>千葉</strong>：ちばチャン（柏）、2BOUZE（船橋）、海鮮茶屋 活き活き亭（木更津駅 徒歩8分）。</li>
+  <li><strong>千葉</strong>：ちばチャン（柏）、2BOUZE（船橋）、海鮮茶屋 活き活き亭（木更津駅 徒歩8分）、『ヒルナンデス！』の宝家（木更津市中央）・わっぱ茶屋 かわな（三井アウトレットパーク木更津）。</li>
 </ul>
 
 <div class="pf-cta">
   <p>Hey! Say! JUMPのお店を、地図でぜんぶ見る</p>
-  <span>この記事の76軒のほかにも、Hey! Say! JUMPのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の101軒のほかにも、Hey! Say! JUMPのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=heysayjump&amp;view=map">地図でHey! Say! JUMPのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.heysayjump.u }}">Hey! Say! JUMPのお店一覧（グループのページ）</a>もどうぞ。</p>

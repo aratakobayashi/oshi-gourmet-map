@@ -20,8 +20,14 @@ lat: 35.118801
 lng: 138.911911
 members:
   - "日村勇紀"
+  - "有岡大貴"
+  - "長田庄平"
+  - "松尾駿"
+  - "石原良純"
+  - "ゆいちゃみ"
 groups:
   - "sekkaku_gourmet"
+  - "heysayjump"
 ordered_items:
   - "うなぎ重箱2匹(肝吸い付き)"
 ---

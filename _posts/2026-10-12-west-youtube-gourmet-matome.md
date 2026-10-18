@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "WEST.の聖地巡礼・ロケ地まとめ｜イキスギさんについてった・リア突WEST・公式YouTubeで行った東京のご飯ほか182軒"
+title: "WEST.の聖地巡礼・ロケ地まとめ｜イキスギさんについてった・リア突WEST・公式YouTubeで行った東京のご飯ほか185軒"
 date: 2026-10-12
 last_modified_at: 2026-10-13
-description: "WEST.（ウエスト）の聖地巡礼・ロケ地182軒のまとめ。冠番組『イキスギさんについてった』93軒・『リア突WEST』28軒、公式YouTubeの『のんべぇさんぽ』『喫茶と濵田。』など46軒を出典ごとに分け、回・メンバー・料理と東京のエリア別の巡り方を載せました。"
+description: "WEST.（ウエスト）の聖地巡礼・ロケ地185軒のまとめ。冠番組『イキスギさんについてった』93軒・『リア突WEST』28軒、公式YouTubeの『のんべぇさんぽ』『喫茶と濵田。』など46軒を出典ごとに分け、回・メンバー・料理と東京のエリア別の巡り方を載せました。"
 group: west
 genre: まとめ
 article_type: matome
@@ -12,9 +12,9 @@ tags: [WEST., ジャニーズWEST, 聖地巡礼, ロケ地, イキスギさん�
 thumbnail_video_id: TyyL7njJosA
 checked_at: 2026-10-13
 summary:
-  - "WEST.のメンバーが番組・動画で訪れたお店182軒を、出典ごとにまとめました。うち108軒が東京都、21軒が海外です"
-  - "冠番組『イキスギさんについてった』93軒、『リア突WEST』28軒、公式YouTube 46軒（のんべぇさんぽ17・喫茶と濵田。11・KAMI Sweets 7ほか）、出演した番組12軒、雑誌など3軒"
-  - "東京は新宿区・港区（16軒ずつ）、渋谷区（13軒）が多く、横浜中華街（9軒）・郡山（5軒）など東京の外にもまとまった場所があります"
+  - "WEST.のメンバーが番組・動画で訪れたお店185軒を、出典ごとにまとめました。うち111軒が東京都、21軒が海外です"
+  - "冠番組『イキスギさんについてった』93軒、『リア突WEST』28軒、公式YouTube 46軒（のんべぇさんぽ17・喫茶と濵田。11・KAMI Sweets 7ほか）、出演した番組15軒、雑誌など3軒"
+  - "東京は新宿区（17軒）・港区（16軒）、渋谷区（13軒）が多く、横浜中華街（9軒）・郡山（5軒）など東京の外にもまとまった場所があります"
   - "放送回・動画のタイトル、出たメンバー、料理を載せ、東京はエリアごとに巡る順番も。地図でまとめて見られます"
 sources:
   - label: "WEST. 公式YouTubeチャンネル（動画のタイトル・公開日）"
@@ -212,11 +212,14 @@ shop_ids:
   - west-96a08422-
   - west-70e7c2c5-
   - west-8132aced-
+  - west-559ffffc-20231130
+  - west-7f2095bd-20231109
+  - west-46d8c86a-20230419
 faq:
   - q: "WEST.が番組や動画で行ったお店はどこですか？"
-    a: "この記事では182軒を載せています。冠番組『イキスギさんについてった』（TBS）が93軒、『リア突WEST』が28軒、公式YouTubeの動画が46軒（小瀧望の『のんべぇさんぽ』17軒、濵田崇裕の『喫茶と濵田。』11軒、神山智洋の『KAMI Sweets』7軒、大食い・爆食などみんなで行った回9軒ほか）、ほかのグループの冠番組などに出演した回が12軒、雑誌の取材などが3軒です。"
+    a: "この記事では185軒を載せています。冠番組『イキスギさんについてった』（TBS）が93軒、『リア突WEST』が28軒、公式YouTubeの動画が46軒（小瀧望の『のんべぇさんぽ』17軒、濵田崇裕の『喫茶と濵田。』11軒、神山智洋の『KAMI Sweets』7軒、大食い・爆食などみんなで行った回9軒ほか）、ほかのグループの冠番組や『ヒルナンデス！』などに出演した回が15軒、雑誌の取材などが3軒です。"
   - q: "東京でWEST.の聖地巡礼をするなら、どこを回れますか？"
-    a: "182軒のうち108軒が東京都です。新宿区と港区が16軒ずつ、渋谷区が13軒。新大久保では大久保1丁目12番の同じ建物にCAFE iN（KAMI Sweets）とテーハンミング（7人の回）があり、港区の芝2丁目には『イキスギさんについてった』の「中間淳太の激辛、どう？」Part3の3軒、赤坂3丁目12番には牛角 赤坂店と赤坂焼鳥 鳳があります。目黒駅のまわりには『のんべぇさんぽ』目黒編の4軒、西荻窪の西荻南3丁目15番にはそれいゆ（喫茶と濵田。）とタリカロ（激辛、どう？）があります。"
+    a: "185軒のうち111軒が東京都です。新宿区が17軒、港区が16軒、渋谷区が13軒。新大久保では大久保1丁目12番の同じ建物にCAFE iN（KAMI Sweets）とテーハンミング（7人の回）があり、港区の芝2丁目には『イキスギさんについてった』の「中間淳太の激辛、どう？」Part3の3軒、赤坂3丁目12番には牛角 赤坂店と赤坂焼鳥 鳳があります。目黒駅のまわりには『のんべぇさんぽ』目黒編の4軒、西荻窪の西荻南3丁目15番にはそれいゆ（喫茶と濵田。）とタリカロ（激辛、どう？）があります。"
   - q: "『イキスギさんについてった』ではどんなお店に行きましたか？"
     a: "メンバーがひとりで、ある店やジャンルに通う常連さん（イキスギさん）に密着する番組で、この記事では2022年5月から2023年10月までの放送回の93軒を載せています。濵田崇裕のカレーSP、重岡大毅のチャーハンと生姜焼き、小瀧望の横浜中華街（9軒）と郡山ブラック（5軒）、桐山照史のなのにツアーと牛タン先生、中間淳太の立ち食いそばと「激辛、どう？」、藤井流星の羽田空港とミヤビヤ、神山智洋のCoCo壱番屋とかき氷などです。"
   - q: "『リア突WEST』のお店はどこにありますか？"
@@ -229,7 +232,7 @@ pr: true
 techo: true
 cover_ids: "west-b244f3a1-20260212,west-60740016-20240129,west-aa9f583c-"
 cover_title: "WEST. 聖地巡礼帳"
-cover_sub: "冠番組と公式YouTubeの182軒"
+cover_sub: "冠番組・公式YouTubeほかの185軒"
 courses:
   - title: "新大久保の3軒：KAMI Sweets・7人の回・イキスギ"
     stops: [west-1f9d5a10-20240805, west-b244f3a1-20260212, west-e547e60d]
@@ -244,18 +247,18 @@ stay_inline: true
 
 <p><strong>重岡大毅・桐山照史・中間淳太・神山智洋・藤井流星・濵田崇裕・小瀧望</strong>の7人で、2026年9月30日までグループで活動したWEST.。お店が出てくるのは、メンバーが常連さんに密着してついて行く冠番組『DEEPな店の常連さんに密着 イキスギさんについてった』（TBS）、メンバーが国内外の気になる場所に突撃する冠番組『あなたの代わりに見てきます！リア突WEST』、そして公式YouTubeチャンネル（WESTube）の『のんべぇさんぽ』『喫茶と濵田。』『KAMI Sweets』や大食い企画です。</p>
 
-<p>ほかのグループの冠番組や情報番組に出演した回、雑誌の取材で訪れたお店もあります。この記事では、WEST.のお店<strong>182軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>ほかのグループの冠番組や情報番組に出演した回、雑誌の取材で訪れたお店もあります。この記事では、WEST.のお店<strong>185軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <p class="note">WEST.は、2026年8月30日に所属事務所が藤井流星・小瀧望の脱退を発表し（<a href="https://www.daily.co.jp/gossip/2026/08/30/0020765195.shtml" target="_blank" rel="noopener">デイリースポーツ</a>）、9月24日にSTARTO ENTERTAINMENTが、グループ活動を9月30日で終えると発表しました（<a href="https://kumanichi.com/articles/2039047" target="_blank" rel="noopener">共同通信</a>）。この記事では、番組・動画に出た当時のメンバーとして名前を載せています。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「WESTube」<small>46軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「イキスギさんについてった」<small>93軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組「リア突WEST」<small>28軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>12軒</small></span></a><a href="#src5">{% include chico.html kind="other" %}<span>雑誌の取材と、本人が語った思い出のお店<small>3軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「WESTube」<small>46軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「イキスギさんについてった」<small>93軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組「リア突WEST」<small>28軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>15軒</small></span></a><a href="#src5">{% include chico.html kind="other" %}<span>雑誌の取材と、本人が語った思い出のお店<small>3軒</small></span></a></div>
 </div>
 {% include matome-members.html group="west" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>182軒のなかから、東京で行きやすいお店を、公式YouTube・『イキスギさんについてった』・『リア突WEST』から1軒ずつ選びました。</p>
+<p>185軒のなかから、東京で行きやすいお店を、公式YouTube・『イキスギさんについてった』・『リア突WEST』から1軒ずつ選びました。</p>
 <div class="picks">
 {% include pick.html id="west-b244f3a1-20260212" no="其の一" why="公式YouTube「【まさかの展開！】ミナリサムギョプサル食べてみよう！」（2026年2月）の回。7人そろって、ミナリサムギョプサル・チーズキムチチヂミ・カンジャンケジャンなどを頼んでいます。お店は東京の新大久保（大久保1丁目）で、同じ建物の2階にはKAMI SweetsのCAFE iNがあります。" %}
 {% include pick.html id="west-cda14ab3" no="其の二" why="『イキスギさんについてった』2022年9月6日放送のチャーハンの回。重岡大毅がチャーハン好きの常連さんについて行き、肉ニラ炒めとチャーハンを食べたお店です。場所は東京の浅草3丁目です。" %}
@@ -273,7 +276,7 @@ stay_inline: true
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>『イキスギさんについてった』は、メンバーひとりが常連さんについて行く番組なので、同じ回のお店が同じ街にまとまっています。小瀧望の横浜中華街の回は9軒、郡山ブラックの回は5軒、中間淳太の「激辛、どう？」Part3は港区芝2丁目の3軒です。『リア突WEST』は28軒のうち21軒が香港・ベトナム・フィジー・タイ。公式YouTubeは東京の居酒屋と喫茶店が中心で、ジャンルでは全体の75軒が「食事」、カフェ26軒、居酒屋24軒、中華20軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>『イキスギさんについてった』は、メンバーひとりが常連さんについて行く番組なので、同じ回のお店が同じ街にまとまっています。小瀧望の横浜中華街の回は9軒、郡山ブラックの回は5軒、中間淳太の「激辛、どう？」Part3は港区芝2丁目の3軒です。『リア突WEST』は28軒のうち21軒が香港・ベトナム・フィジー・タイ。公式YouTubeは東京の居酒屋と喫茶店が中心で、ジャンルでは全体の76軒が「食事」、カフェ27軒、居酒屋25軒、中華20軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -528,7 +531,7 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="3e0e75cb" %}<span class="wr__k">2023<br>9.10</span><b class="wr__name">Mother Roaster（タイ・バンコク）</b><span class="wr__t">濵田崇裕がタイを訪れた回で訪れた、廃材置き場の上にあるカフェ／料理：コーヒー</span>{% include wr-close.html id="3e0e75cb" %}</li>
 </ul>
 
-<h2 id="src4">{% include chico.html kind="guest" %}出演した番組で行ったお店（12軒）</h2>
+<h2 id="src4">{% include chico.html kind="guest" %}出演した番組で行ったお店（15軒）</h2>
 <p>ほかのグループの冠番組や情報番組、ほかのグループのメンバーとのYouTubeに出た回です。店名の上の日付は放送日・公開月です（「—」はデータに放送日がないお店）。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="west-44a11e80-20240112" %}<span class="wr__k">2024<br>1.14</span><b class="wr__name">たらちゃん（中央区）</b><span class="wr__t">日本テレビ『シューイチ』の「シューイチプレミアム」（2024年1月14日放送）で、重岡大毅がインディアンスと訪れたプゴク（干し鱈のスープ）専門店</span>{% include wr-close.html id="west-44a11e80-20240112" %}</li>
@@ -536,13 +539,21 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="west-9892893f-20240112" %}<span class="wr__k">2024<br>1.14</span><b class="wr__name">さばめしの鯖匠（千代田区）</b><span class="wr__t">日本テレビ『シューイチ』の「シューイチプレミアム」（2024年1月14日放送）で、重岡大毅がインディアンスと訪れたさばめし専門店</span>{% include wr-close.html id="west-9892893f-20240112" %}</li>
   <li class="wr">{% include wr-open.html id="west-afb128a1-" %}<span class="wr__k">2025<br>11.22</span><b class="wr__name">香港料理店 福全徳（新宿区）</b><span class="wr__t">King &amp; Princeの冠番組『キントレ』の企画「まかないハンター」（2025年11月22日放送）で、桐山照史が永瀬廉と訪れた香港料理店</span>{% include wr-close.html id="west-afb128a1-" %}</li>
   <li class="wr">{% include wr-open.html id="west-b359f6d6-" %}<span class="wr__k">2025<br>11.22</span><b class="wr__name">鮨 りんだ（目黒区）</b><span class="wr__t">King &amp; Princeの冠番組『キントレ』の企画「まかないハンター」（2025年11月22日放送）で、桐山照史が永瀬廉と訪れた寿司店</span>{% include wr-close.html id="west-b359f6d6-" %}</li>
-  <li class="wr">{% include wr-open.html id="west-14dbe122-" %}<span class="wr__k">—</span><b class="wr__name">さぼうる（千代田区）</b><span class="wr__t">日本テレビ『ヒルナンデス！』の神保町ロケで、中間淳太がピザトーストを食べた喫茶店</span>{% include wr-close.html id="west-14dbe122-" %}</li>
-  <li class="wr">{% include wr-open.html id="west-mr_friendly_cafe-" %}<span class="wr__k">—</span><b class="wr__name">MR.FRIENDLY Café（渋谷区）</b><span class="wr__t">日本テレビ『ヒルナンデス！』のロケで、中間淳太と桐山照史が訪れたカフェ</span>{% include wr-close.html id="west-mr_friendly_cafe-" %}</li>
   <li class="wr">{% include wr-open.html id="west-4640d7fc-" %}<span class="wr__k">—</span><b class="wr__name">ジョエル・ロブション カフェ 虎ノ門ヒルズ（港区）</b><span class="wr__t">日本テレビ『バゲット』で、濵田崇裕がトラ柄のサンドイッチを食べたカフェ</span>{% include wr-close.html id="west-4640d7fc-" %}</li>
   <li class="wr">{% include wr-open.html id="west-9045dc33-" %}<span class="wr__k">—</span><b class="wr__name">グリーンエコー笠形（兵庫県神崎郡神河町）</b><span class="wr__t">濵田崇裕の地元・兵庫県神崎郡を紹介した『どっちサンド』のロケで、濵田がゆずとろろすき焼き膳を食べた神河町の施設の食事処</span>{% include wr-close.html id="west-9045dc33-" %}</li>
   <li class="wr">{% include wr-open.html id="west-e53a7300-" %}<span class="wr__k">—</span><b class="wr__name">卵♪らん♪ハウス（兵庫県神崎郡市川町）</b><span class="wr__t">濵田崇裕の地元・兵庫県市川町を紹介した『どっちサンド』のロケ地になった、濵田の同級生の両親が営む卵の店</span>{% include wr-close.html id="west-e53a7300-" %}</li>
   <li class="wr">{% include wr-open.html id="west-52334d2b-" %}<span class="wr__k">2024<br>11月</span><b class="wr__name">花笑庵（千葉県市原市）</b><span class="wr__t">濵田崇裕とSnow Man向井康二のYouTube『ハマちゃんとコージのお上手です』番外編（2024年11月）で、小瀧望・宮舘涼太と4人で昼食をとった店／注文：ローストビーフセット、とろとろ豚御膳</span>{% include wr-close.html id="west-52334d2b-" %}</li>
   <li class="wr">{% include wr-open.html id="west-b0cf5596-" %}<span class="wr__k">2025<br>1月</span><b class="wr__name">四季旬菜 いろり（千葉県木更津市）</b><span class="wr__t">濵田崇裕とSnow Man向井康二のYouTube『ハマちゃんとコージのお上手です』#43（2025年1月）で、木村拓哉・宮舘涼太と4人で食事をした店／注文：クジラのお肉、お蕎麦</span>{% include wr-close.html id="west-b0cf5596-" %}</li>
+</ul>
+
+<h3>日本テレビ『ヒルナンデス！』（5軒）</h3>
+<p>『ヒルナンデス！』のロケの回です。放送日が分かるお店を新しい順に、そのあとに放送日がデータにないお店を並べています。</p>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="west-559ffffc-20231130" %}<span class="wr__k">2023<br>11.30</span><b class="wr__name">TAVETALINA</b><span class="wr__t">「今行きたい1日乗車券の旅」（2023年11月30日放送）／中間淳太（足立区 竹の塚）</span>{% include wr-close.html id="west-559ffffc-20231130" %}</li>
+  <li class="wr">{% include wr-open.html id="west-7f2095bd-20231109" %}<span class="wr__k">2023<br>11.9</span><b class="wr__name">焼き芋のお店 さくらゆき</b><span class="wr__t">「今行きたい1日乗車券の旅」（2023年11月9日放送）／中間淳太（足立区 江北）</span>{% include wr-close.html id="west-7f2095bd-20231109" %}</li>
+  <li class="wr">{% include wr-open.html id="west-46d8c86a-20230419" %}<span class="wr__k">2023<br>4.19</span><b class="wr__name">KOBE YAKITORI STAND 野乃鳥 新宿店</b><span class="wr__t">「東京ど真ん中!裏道さんぽ」（2023年4月19日放送）／重岡大毅（新宿区 新宿3丁目）</span>{% include wr-close.html id="west-46d8c86a-20230419" %}</li>
+  <li class="wr">{% include wr-open.html id="west-14dbe122-" %}<span class="wr__k">—</span><b class="wr__name">さぼうる（千代田区）</b><span class="wr__t">日本テレビ『ヒルナンデス！』の神保町ロケで、中間淳太がピザトーストを食べた喫茶店</span>{% include wr-close.html id="west-14dbe122-" %}</li>
+  <li class="wr">{% include wr-open.html id="west-mr_friendly_cafe-" %}<span class="wr__k">—</span><b class="wr__name">MR.FRIENDLY Café（渋谷区）</b><span class="wr__t">日本テレビ『ヒルナンデス！』のロケで、中間淳太と桐山照史が訪れたカフェ</span>{% include wr-close.html id="west-mr_friendly_cafe-" %}</li>
 </ul>
 
 <h2 id="src5">{% include chico.html kind="other" %}雑誌の取材と、本人が語った思い出のお店（3軒）</h2>
@@ -560,7 +571,7 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事75軒、カフェ26軒、居酒屋24軒、中華20軒、スイーツとラーメン13軒ずつ、焼肉5軒、和食4軒、その他2軒。場所は東京の港区・新宿区16軒ずつ、渋谷区13軒、神奈川県横浜市13軒、中央区・台東区9軒ずつ、目黒区8軒、千代田区6軒、世田谷区・杉並区・福島県郡山市・ベトナムのホーチミン5軒ずつ、品川区・大田区・タイのバンコク4軒ずつなど。ほかに国内の各地と、香港・フィジー・タイ・ベトナムの店が1〜3軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の182軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事76軒、カフェ27軒、居酒屋25軒、中華20軒、スイーツとラーメン13軒ずつ、焼肉5軒、和食4軒、その他2軒。場所は東京の新宿区17軒、港区16軒、渋谷区13軒、神奈川県横浜市13軒、中央区・台東区9軒ずつ、目黒区8軒、千代田区6軒、世田谷区・杉並区・福島県郡山市・ベトナムのホーチミン5軒ずつ、品川区・大田区・タイのバンコク4軒ずつなど。ほかに国内の各地と、香港・フィジー・タイ・ベトナムの店が1〜3軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の185軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <div class="pf-videos">
@@ -571,10 +582,10 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら：まずは東京</h2>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区16軒、新宿区16軒、渋谷区13軒、中央区9軒、台東区9軒など。23区の外は神奈川県17軒、千葉県5軒、埼玉県3軒、東京の市部・島2軒、そのほかの道府県49軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、新宿区17軒、港区16軒、渋谷区13軒、中央区9軒、台東区9軒など。23区の外は神奈川県17軒、千葉県5軒、埼玉県3軒、東京の市部・島2軒、そのほかの道府県49軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>番組名は「イキスギ」（イキスギさんについてった）・「リア突」（リア突WEST）と略しています。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
-  <li><strong>新大久保・新宿・高田馬場・早稲田（新宿区・9軒）</strong>：大久保1丁目12番の同じ建物に、KAMI SweetsのCAFE iN（2階）と7人の回のテーハンミング（1階）。KAMI SweetsのOKUDO（新大久保駅 徒歩2分）・2D Cafe 新大久保店（百人町1丁目）、イキスギの山西亭（大久保2丁目）。新宿ではKAMI Sweetsのcois espresso club（新宿1丁目）とイキスギのKatsuプリポー（歌舞伎町1丁目）。シューイチの角煮丼屋 くろしろ（高田馬場3丁目）、イキスギのメルシー（早稲田駅 徒歩2分）。</li>
+  <li><strong>新大久保・新宿・高田馬場・早稲田（新宿区・10軒）</strong>：大久保1丁目12番の同じ建物に、KAMI SweetsのCAFE iN（2階）と7人の回のテーハンミング（1階）。KAMI SweetsのOKUDO（新大久保駅 徒歩2分）・2D Cafe 新大久保店（百人町1丁目）、イキスギの山西亭（大久保2丁目）。新宿ではKAMI Sweetsのcois espresso club（新宿1丁目）、イキスギのKatsuプリポー（歌舞伎町1丁目）、ヒルナンデス！のKOBE YAKITORI STAND 野乃鳥 新宿店（新宿3丁目の新宿横丁）。シューイチの角煮丼屋 くろしろ（高田馬場3丁目）、イキスギのメルシー（早稲田駅 徒歩2分）。</li>
   <li><strong>神楽坂・四谷・曙橋（新宿区・7軒）</strong>：のんべぇさんぽ 神楽坂編の神楽坂 阿酒羅場（津久戸町）・神楽坂アッカ（神楽坂6丁目）、イキスギのTAPiR（神楽坂5丁目）・果房 メロンとロマン（神楽坂3丁目）、キントレの香港料理店 福全徳（神楽坂3丁目）。イキスギのtrefle（四ツ谷駅 徒歩5分）・定食酒場食堂（片町）。</li>
   <li><strong>渋谷・恵比寿・代官山・原宿（渋谷区・13軒）</strong>：渋谷駅のまわりに、喫茶と濵田。の喫茶サテラ（渋谷1丁目）・青山壹番館 渋谷店（東1丁目）、大食いのカプリチョーザ 渋谷本店（東1丁目）、イキスギのももまる 渋谷店（渋谷駅 徒歩3分）・KENICK CURRY（道玄坂2丁目）、リア突のミチナキミチ（松濤1丁目）。恵比寿には、のんべぇさんぽのおだし 恵比寿店とイキスギのカフェ アクイーユ 恵比寿店（どちらも恵比寿西1丁目）、ヒルナンデス！のMR.FRIENDLY Café（恵比寿駅 徒歩4分）、イキスギのレストラン 間（恵比寿駅 徒歩5分）、リア突の恵比寿 米ル（代官山駅 徒歩5分）。ほかに喫茶と濵田。の泥人形（千駄ヶ谷4丁目）、YOAJUNG 原宿店（神宮前1丁目）。</li>
   <li><strong>新橋・虎ノ門・芝・浜松町（港区・8軒）</strong>：のんべぇさんぽ 新橋編の海鮮ろばた 酒肆 大関（新橋4丁目）、イキスギの蕎麦 さだはる（虎ノ門駅 徒歩6分）、バゲットのジョエル・ロブション カフェ 虎ノ門ヒルズ（虎ノ門1丁目）。芝2丁目には「中間淳太の激辛、どう？」Part3の芝の鳥一代・たこ王子・芝その更科の3軒。イキスギのà la 麓屋（芝）・ホルモン焼 夏冬（浜松町2丁目）。</li>
@@ -587,7 +598,7 @@ stay_inline: true
   <li><strong>下北沢・三軒茶屋・世田谷・上野毛（世田谷区・5軒）</strong>：北沢2丁目に喫茶と濵田。の喫茶ネグラ（下北沢駅 徒歩4分）と、のんべぇさんぽ 下北沢編の鶏と魚と炭火焼き 燈。KAMI SweetsのFraise 3（三軒茶屋2丁目）、イキスギのPEGO&amp;CO. 世田谷店（世田谷駅 徒歩4分）・ラトリエ ア マ ファソン（上野毛駅 徒歩1分）。</li>
   <li><strong>阿佐ヶ谷・西荻窪・野方・吉祥寺（8軒）</strong>：喫茶と濵田。の喫茶gion（阿佐ヶ谷北1丁目）・喫茶 天文図舘（阿佐ケ谷駅 徒歩10分）。西荻南3丁目15番に、喫茶と濵田。のそれいゆと、イキスギ「激辛、どう？」第2弾のタリカロ。イキスギのそうめんの回の西荻窪 阿波や壱兆 本店（西荻窪）。中野区野方にイキスギの野方餃子（野方駅 徒歩1分）とSAND（野方5丁目）、吉祥寺にイキスギ かき氷の回の中町氷菓店 果実と氷。</li>
   <li><strong>錦糸町（墨田区江東橋・3軒）</strong>：イキスギのコシャリ屋コーピー（江東橋4丁目）・アジアカレーハウス（錦糸町駅 徒歩4分）、喫茶と濵田。の喫茶ニット（江東橋4丁目）。</li>
-  <li><strong>北千住・赤羽・板橋・練馬ほか（6軒）</strong>：イキスギのニイガタスタイル マサト（荒川区南千住1丁目）・茶香（北千住駅 徒歩10分）・あぺたいと 赤羽店（赤羽1丁目）・時楽 板橋本町本店（板橋本町駅 徒歩5分）・笑姜や（江古田駅 徒歩1分）・梁山泊（練馬区上石神井南町）。</li>
+  <li><strong>北千住・足立区・赤羽・板橋・練馬ほか（8軒）</strong>：イキスギのニイガタスタイル マサト（荒川区南千住1丁目）・茶香（北千住駅 徒歩10分）・あぺたいと 赤羽店（赤羽1丁目）・時楽 板橋本町本店（板橋本町駅 徒歩5分）・笑姜や（江古田駅 徒歩1分）・梁山泊（練馬区上石神井南町）。足立区にはヒルナンデス！のTAVETALINA（竹の塚6丁目）・焼き芋のお店 さくらゆき（江北4丁目）。</li>
 </ul>
 <h3>東京の外でまとまっている場所</h3>
 <ul>
