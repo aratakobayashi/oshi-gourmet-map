@@ -52766,7 +52766,7 @@
     "genre": "chuka",
     "prefecture": "神奈川県",
     "city": "横浜市",
-    "address": "神奈川県横浜市中区山下町191-24【アクセス】 みなとみらい線元町・中華街出口2より徒歩5分",
+    "address": "神奈川県横浜市中区山下町191-24",
     "lat": 35.443451538023446,
     "lng": 139.646410980905,
     "youtube_id": "",
@@ -52794,8 +52794,7 @@
     "program": "キントレ",
     "with": [
       "永瀬廉（King & Prince）"
-    ],
-    "qa_note": "住所欄に【アクセス】の文字が混ざっている（データの手直し候補）。"
+    ]
   },
   {
     "id": "travisjapan-c6b35fc4-",
@@ -60190,7 +60189,7 @@
     "lat": 34.016664,
     "lng": -118.4983377,
     "youtube_id": "zMIDFI3mKZ0",
-    "source_video_title": "Travis Japan LA訪問 大食いバーガー対決",
+    "source_video_title": "Travis Japan【大食い】LA人気バーガーを40個食べ尽くせ!!",
     "source_url": "https://note.com/ochiyochiyo/n/nac7fe29ce8ce",
     "visited_date": "",
     "members": [
@@ -60225,7 +60224,7 @@
     ],
     "visit_kind": "youtube",
     "program": "Travis Japan公式YouTube",
-    "qa_note": "動画は zMIDFI3mKZ0（2024-03-02公開。概要欄で7人の企画と確認）。youtube_id 未登録なので付けられる。店名は概要欄になくファンブログ（note）による。今の description（「夕方にほぼ貸切状態」）はブログ筆者の体験なので差し替える。",
+    "qa_note": "動画は zMIDFI3mKZ0（2024-03-02公開。概要欄で7人の企画と確認）。店名は概要欄になくファンブログによる。",
     "source_video_url": "https://www.youtube.com/watch?v=zMIDFI3mKZ0"
   },
   {
