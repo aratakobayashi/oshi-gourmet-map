@@ -35827,20 +35827,26 @@
     "source_video_title": "RIIZE",
     "source_url": "https://oshito.online/news/14860.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "ショウタロウ",
+      "ウォンビン"
+    ],
     "groups": [
       "kpop_riize"
     ],
     "group": "kpop_riize",
     "nearest_station": "赤坂見附駅 徒歩2分",
-    "description": "東京都のその他。RIIZEのメンバーが訪れた飲食店。",
+    "description": "RIIZEのショウタロウとウォンビンが訪れたとファンの間で紹介されている赤坂のとんかつ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13246055/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "RIIZE Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（未確認）。ショウタロウは特選ヒレカツ膳、ウォンビンはささみかつ膳と記載。"
   },
   {
     "id": "kpop_riize-0576e11a-",
@@ -35856,6 +35862,10 @@
     "source_url": "https://oshito.online/news/14860.html",
     "visited_date": "",
     "members": [
+      "ショウタロウ",
+      "ウンソク",
+      "ソンチャン",
+      "ウォンビン",
       "ソヒ"
     ],
     "groups": [
@@ -35863,14 +35873,17 @@
     ],
     "group": "kpop_riize",
     "nearest_station": "西武新宿駅 徒歩3分",
-    "description": "東京都のその他。RIIZEのソヒらが訪れた飲食店。",
+    "description": "RIIZEの公式YouTube「[Vlog] 도쿄 시바견 카페 / 라멘 먹방 / 밤거리 산책 | RIIZE IN TOKYO EP.2」で、ショウタロウ・ウンソク・ソンチャン・ウォンビン・ソヒがラーメンを食べた西新宿のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1329/A132901/13022168/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "RIIZE公式YouTube「RIIZE IN TOKYO EP.2」",
+    "qa_note": "出典はファンまとめ（oshito.online）。動画はoEmbedで確認。membersはoshitoの記載（元データはソヒのみ）。"
   },
   {
     "id": "kpop_riize-63290a18-",
@@ -35886,6 +35899,9 @@
     "source_url": "https://oshito.online/news/14860.html",
     "visited_date": "",
     "members": [
+      "ショウタロウ",
+      "ウンソク",
+      "ウォンビン",
       "ソヒ"
     ],
     "groups": [
@@ -35893,14 +35909,17 @@
     ],
     "group": "kpop_riize",
     "nearest_station": "赤坂駅 徒歩5分",
-    "description": "東京都のその他。RIIZEのソヒらが訪れた飲食店。",
+    "description": "RIIZEのショウタロウ・ウンソク・ウォンビン・ソヒが訪れたとファンの間で紹介されている赤坂のつけ麺店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13028670/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "RIIZE Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（未確認）。membersはoshitoの記載。"
   },
   {
     "id": "kpop_riize-f27d126a-",
@@ -35921,14 +35940,17 @@
     ],
     "group": "kpop_riize",
     "nearest_station": "四谷三丁目駅 徒歩1分",
-    "description": "東京都のその他。RIIZEのメンバーが訪れた飲食店。",
+    "description": "RIIZEの公式YouTube「‘Love 119’ Japan Promotion | RISE & REALIZE EP.21」で、日本プロモーションの際に訪れたとされる四谷三丁目の牛カツ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1309/A130903/13207255/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "RIIZE公式YouTube「RISE & REALIZE EP.21」",
+    "qa_note": "出典はファンまとめ（oshito.online）。動画はoEmbedで確認。来店したメンバーは記載なし→membersは空。"
   },
   {
     "id": "kpop_riize-603a2a9e-",
@@ -35949,14 +35971,17 @@
     ],
     "group": "kpop_riize",
     "nearest_station": "元町・中華街駅 徒歩2分",
-    "description": "神奈川県のその他。RIIZEのメンバーが訪れた飲食店。",
+    "description": "RIIZEが2024年の「RIIZING DAY」日本ホールツアーの際に訪れたとファンの間で紹介されている横浜中華街の中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14055923/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "RIIZE Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（未確認）。メンバー不明→membersは空。"
   },
   {
     "id": "kpop_enhypen-616827d4-",
@@ -35972,6 +35997,8 @@
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
     "members": [
+      "ジョンウォン",
+      "ヒスン",
       "ジェイ"
     ],
     "groups": [
@@ -35979,14 +36006,17 @@
     ],
     "group": "kpop_enhypen",
     "nearest_station": "目黒駅 徒歩7分",
-    "description": "東京都のその他。ENHYPENのジェイらが訪れた飲食店。",
+    "description": "ENHYPENのジョンウォン・ヒスン・ジェイが訪れたとファンの間で紹介されている目黒の鉄板焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13199701/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ENHYPEN Weverse",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はメンバーのWeverse投稿（ログインが要るため未確認）。店の特定はファンによる。membersはoshitoの記載どおり（元データはジェイのみ）。"
   },
   {
     "id": "kpop_enhypen-8255968b-",
@@ -36007,7 +36037,7 @@
     ],
     "group": "kpop_enhypen",
     "nearest_station": "東新宿駅 徒歩7分",
-    "description": "東京都のその他。ENHYPENのメンバーが訪れた飲食店。",
+    "description": "ENHYPENの公式YouTube「[Vlog] 엔하이픈의 일본 투어 브이로그 #1」に関連して紹介されている新大久保の韓国料理店。店内にENHYPENのサインがあるとされる。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -36015,7 +36045,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "ENHYPEN公式YouTube（日本ツアーVlog #1）",
+    "qa_note": "出典はファンまとめ（oshito.online）。リンク先の動画は公式（oEmbedで確認）だが、どのメンバーが来店したか・動画にこの店が映るかは未確認。membersは空のまま。"
   },
   {
     "id": "kpop_enhypen-849120b7-",
@@ -36036,14 +36069,17 @@
     ],
     "group": "kpop_enhypen",
     "nearest_station": "恵比寿駅 徒歩2分",
-    "description": "東京都のその他。ENHYPENのメンバーが訪れた飲食店。",
+    "description": "ENHYPENのメンバーが訪れたとファンの間で紹介されている恵比寿の牛タン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13261582/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ENHYPEN Weverse",
+    "qa_note": "出典はファンまとめ（oshito.online）。「度々訪れている」「ヒスンも一緒に訪れたそうです」と伝聞の書き方。根拠はWeverse投稿（未確認）。来店メンバー不明のためmembersは空。要確認。"
   },
   {
     "id": "kpop_enhypen-255c5e9a-",
@@ -36059,21 +36095,25 @@
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
     "members": [
-      "ソンジェク"
+      "ソンフン",
+      "ジェイク"
     ],
     "groups": [
       "kpop_enhypen"
     ],
     "group": "kpop_enhypen",
     "nearest_station": "新橋駅 徒歩3分",
-    "description": "東京都のその他。ENHYPENのソンジェクらが訪れた飲食店。",
+    "description": "ENHYPENの公式YouTube「[Vlog] 제이크와 성훈의 일본 브이로그」で、ジェイクとソンフンが日本でのショッピングの合間に訪れた新橋の立ち食いうどん店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13162575/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "ENHYPEN公式YouTube（ジェイクとソンフンの日本Vlog）",
+    "qa_note": "出典はファンまとめ（oshito.online）。元データのmembers「ソンジェク」はソンフン＋ジェイクのコンビ名なので2人に分けた。動画はoEmbedで公式と確認。店舗の特定はファン。"
   },
   {
     "id": "kpop_enhypen-62a25897-",
@@ -36088,20 +36128,26 @@
     "source_video_title": "ENHYPEN",
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "ソンフン",
+      "ジェイク"
+    ],
     "groups": [
       "kpop_enhypen"
     ],
     "group": "kpop_enhypen",
     "nearest_station": "渋谷駅 徒歩5分",
-    "description": "東京都のその他。ENHYPENのメンバーが訪れた飲食店。",
+    "description": "ENHYPENの公式YouTube「[Vlog] 제이크와 성훈의 일본 브이로그」で、ジェイクとソンフンが最後に訪れた渋谷ヒカリエの鉄板焼き・お好み焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13140093/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "ENHYPEN公式YouTube（ジェイクとソンフンの日本Vlog）",
+    "qa_note": "出典はファンまとめ（oshito.online）。「ソンジェク」を2人に分けた。店舗の特定はファン。"
   },
   {
     "id": "kpop_enhypen-399875a6-",
@@ -36117,6 +36163,10 @@
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
     "members": [
+      "ジョンウォン",
+      "ヒスン",
+      "ジェイ",
+      "ジェイク",
       "ソヌ"
     ],
     "groups": [
@@ -36124,7 +36174,7 @@
     ],
     "group": "kpop_enhypen",
     "nearest_station": "外苑前駅 徒歩3分",
-    "description": "東京都のその他。ENHYPENのソヌらが訪れた飲食店。",
+    "description": "ENHYPENの公式YouTube「[EN-TER key] Shopping and Eating in Japan」で、ジョンウォン・ヒスン・ジェイ・ジェイク・ソヌが食事をした北青山の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13228701/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003410482/",
@@ -36132,7 +36182,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/90/88/P040519088/P040519088_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/90/88/P040519088/P040519088_238.jpg",
+    "visit_kind": "youtube",
+    "program": "EN-TER key（ENHYPEN公式YouTube）",
+    "qa_note": "出典はファンまとめ（oshito.online）。動画はoEmbedで公式と確認。membersはoshitoの記載（元データはソヌのみ）。"
   },
   {
     "id": "kpop_enhypen-kosari_tokyo-",
@@ -36153,14 +36206,17 @@
     ],
     "group": "kpop_enhypen",
     "nearest_station": "赤羽橋駅 徒歩5分",
-    "description": "東京都のその他。ENHYPENのメンバーが訪れた飲食店。",
+    "description": "ENHYPENのメンバーのサインが飾られていると店の公式Instagramで紹介された東麻布の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13060684/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "店の公式Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠は店のInstagram投稿（2022年10月。robots.txtでInstagramは読めず未確認）。「ヒスソ」のサインとあるが、どのメンバーかは確かめられないためmembersは空。"
   },
   {
     "id": "kpop_enhypen-oimo_tokyo_cafe-",
@@ -36175,13 +36231,16 @@
     "source_video_title": "ENHYPEN",
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "ソンフン",
+      "ジェイク"
+    ],
     "groups": [
       "kpop_enhypen"
     ],
     "group": "kpop_enhypen",
     "nearest_station": "中目黒駅 徒歩8分",
-    "description": "東京都のその他。ENHYPENのメンバーが訪れた飲食店。",
+    "description": "ENHYPENの公式YouTube「[Vlog] 제이크와 성훈의 일본 브이로그」で、ジェイクとソンフンが立ち寄った中目黒のさつまいもスイーツのカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13260371/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003298095/",
@@ -36189,7 +36248,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/75/01/P046767501/P046767501_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/75/01/P046767501/P046767501_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ENHYPEN公式YouTube（ジェイクとソンフンの日本Vlog）",
+    "qa_note": "出典はファンまとめ（oshito.online）。店舗の特定はファン。"
   },
   {
     "id": "kpop_enhypen-b21f31cf-",
@@ -36205,21 +36267,25 @@
     "source_url": "https://oshito.online/news/15229.html",
     "visited_date": "",
     "members": [
-      "ソンジェク"
+      "ソンフン",
+      "ジェイク"
     ],
     "groups": [
       "kpop_enhypen"
     ],
     "group": "kpop_enhypen",
     "nearest_station": "新橋駅 徒歩2分",
-    "description": "東京都のその他。ENHYPENのソンジェクらが訪れた飲食店。",
+    "description": "ジェイクとソンフンが訪れたとファンの間で紹介されている新橋駅前のたい焼き店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13277331/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ENHYPEN（ジェイクとソンフンの日本Vlog関連）",
+    "qa_note": "出典はファンまとめ（oshito.online）。リンクはInstagramのリール（投稿者・内容未確認）。Vlog本編に映るかは未確認。"
   },
   {
     "id": "kpop_seventeen-b8c83d89-",
@@ -36235,6 +36301,7 @@
     "source_url": "https://oshito.online/news/17685.html",
     "visited_date": "",
     "members": [
+      "ドギョム",
       "ウジ"
     ],
     "groups": [
@@ -36242,7 +36309,7 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "梅田駅 徒歩3分",
-    "description": "大阪府のその他。SEVENTEENのウジらが訪れた飲食店。",
+    "description": "SEVENTEENのドギョムとウジが訪れ、特製白丸を食べたとファンの間で紹介されている梅田のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27003206/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000449898/",
@@ -36250,7 +36317,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/75/49/P019937549/P019937549_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/75/49/P019937549/P019937549_238.jpg",
+    "visit_kind": "other",
+    "program": "SEVENTEEN Weverse",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はWeverse投稿（未確認）。チェーン店で梅田店の特定根拠は書かれていない。membersにドギョムを追加。"
   },
   {
     "id": "kpop_seventeen-bar_1515-",
@@ -36273,7 +36343,7 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "近鉄日本橋駅 徒歩2分",
-    "description": "大阪府のその他。SEVENTEENのミンギュらが訪れた飲食店。",
+    "description": "SEVENTEENのミンギュが訪れ、店内にミンギュが描いたイラストが飾られているとされる大阪・千日前のバー。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -36281,7 +36351,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "SNS（Instagram）",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（未確認）。「飾られているとか」と伝聞。"
   },
   {
     "id": "kpop_seventeen-ohana-",
@@ -36304,14 +36377,17 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "北新地駅 徒歩3分",
-    "description": "大阪府のその他。SEVENTEENのホシらが訪れた飲食店。",
+    "description": "SEVENTEENのホシが訪れたとファンの間で紹介されている北新地の串揚げ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27069587/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "SNS（Instagram）",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（未確認）。"
   },
   {
     "id": "kpop_seventeen-081d7855-",
@@ -36334,14 +36410,17 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "大阪上本町駅 徒歩3分",
-    "description": "大阪府のその他。SEVENTEENのメンバーらが訪れた飲食店。",
+    "description": "SEVENTEENが2024年に訪れたとファンの間で紹介されている鶴橋の焼肉店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27000572/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "SNS（Instagram）",
+    "qa_note": "出典はファンまとめ（oshito.online）。oshitoは「メンバー全員で訪れた」とするが、2024年はジョンハン入隊などで全員そろわない時期を含み根拠不明。membersの「メンバー」は不正な値なので空にした。要確認。"
   },
   {
     "id": "kpop_seventeen-cafebar_8-",
@@ -36357,6 +36436,9 @@
     "source_url": "https://oshito.online/news/17685.html",
     "visited_date": "",
     "members": [
+      "ドギョム",
+      "ウォヌ",
+      "ホシ",
       "スングァン"
     ],
     "groups": [
@@ -36364,14 +36446,17 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "桜ノ宮駅 徒歩3分",
-    "description": "大阪府のその他。SEVENTEENのスングァンらが訪れた飲食店。",
+    "description": "SEVENTEENの公式YouTube「[SVT Record] HAPPY 겸이로그」（FOLLOW AGAINツアー）で、ドギョム・ウォヌ・ホシ・スングァンが訪れた桜ノ宮のカフェバー。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270304/27139805/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "SEVENTEEN公式YouTube「SVT Record」（ドギョムのVlog）",
+    "qa_note": "出典はファンまとめ（oshito.online）。動画はoEmbedで確認。membersはoshitoの記載（元データはスングァンのみ）。"
   },
   {
     "id": "kpop_seventeen-1554437c-",
@@ -36394,7 +36479,7 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "恵美須町駅 徒歩4分",
-    "description": "大阪府のその他。SEVENTEENのジョンハンらが訪れた飲食店。",
+    "description": "SEVENTEENのジョンハンが訪れたとファンの間で紹介されている新世界の釣り堀居酒屋。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001178129/",
@@ -36403,7 +36488,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/50/85/P044455085/P044455085_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/50/85/P044455085/P044455085_238.jpg",
+    "visit_kind": "other",
+    "program": "SNS（Instagram）",
+    "qa_note": "出典はファンまとめ（oshito.online）。根拠はInstagram投稿（2022年11月ごろ、未確認）。"
   },
   {
     "id": "kpop_seventeen-be6b4ba0-",
@@ -36426,7 +36514,7 @@
     ],
     "group": "kpop_seventeen",
     "nearest_station": "大阪天満宮駅 徒歩2分",
-    "description": "大阪府のその他。SEVENTEENのスングァンらが訪れた飲食店。",
+    "description": "SEVENTEENのスングァンが訪れ、穴子天丼を食べたとファンの間で紹介されている南森町の天丼店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27087731/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001157960/",
@@ -36434,11 +36522,14 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/61/P029124861/P029124861_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/48/61/P029124861/P029124861_238.jpg",
+    "visit_kind": "other",
+    "program": "不明",
+    "qa_note": "出典はファンまとめ（oshito.online）。出典のリンク（投稿・動画）がなく、根拠が確かめられない。要確認。"
   },
   {
     "id": "kpop_nct-riize-",
-    "name": "あじくらや テヨン・マーク・ショウタロウ（RIIZE）",
+    "name": "あじくらや",
     "genre": "others",
     "prefecture": "大阪府",
     "city": "大阪市",
@@ -36449,13 +36540,17 @@
     "source_video_title": "NCT",
     "source_url": "https://oshito.online/news/5587.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "テヨン",
+      "マーク",
+      "ショウタロウ"
+    ],
     "groups": [
       "kpop_nct"
     ],
     "group": "kpop_nct",
     "nearest_station": "大阪上本町駅 徒歩3分",
-    "description": "大阪府のその他。NCTのメンバーが訪れた飲食店。",
+    "description": "NCT 127の京セラドーム公演で来阪した2022年、テヨン・マーク・ショウタロウが訪れたとInstagramの写真から紹介されている上本町のお好み焼き店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000018473/",
@@ -36464,66 +36559,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/99/64/P050959964/P050959964_238.jpg"
-  },
-  {
-    "id": "kpop_nct-8be1f22b-",
-    "name": "サーティーワン上本町店",
-    "genre": "others",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市天王寺区上本町6-4-2　上本町6南交差点南西角",
-    "lat": 34.666526,
-    "lng": 135.5217554,
-    "youtube_id": "",
-    "source_video_title": "NCT",
-    "source_url": "https://oshito.online/news/5587.html",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kpop_nct"
-    ],
-    "group": "kpop_nct",
-    "nearest_station": "大阪上本町駅 徒歩3分",
-    "description": "大阪府のその他。NCTのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "kpop_nct-nct_2018-",
-    "name": "ヒルトン大阪（NCT 2018）",
-    "genre": "others",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市北区梅田１丁目８−８",
-    "lat": 34.7001688,
-    "lng": 135.4979709,
-    "youtube_id": "",
-    "source_video_title": "NCT",
-    "source_url": "https://oshito.online/news/5587.html",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kpop_nct"
-    ],
-    "group": "kpop_nct",
-    "nearest_station": "大阪梅田駅 徒歩3分",
-    "description": "大阪府のその他。NCTのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001226991/",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/58/P050295958/P050295958_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/99/64/P050959964/P050959964_238.jpg",
+    "visit_kind": "other",
+    "program": "NCT Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online、2023年）。店名に「テヨン・マーク・ショウタロウ（RIIZE）」が混ざっているので「あじくらや」に直すこと。ショウタロウは当時NCTのメンバー（現RIIZE）。投稿は未確認。"
   },
   {
     "id": "nogizaka46-ef89d864-",
@@ -52258,20 +52297,25 @@
     "source_video_title": "RIIZE",
     "source_url": "https://oshito.online/news/14860.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "ウンソク"
+    ],
     "groups": [
       "kpop_riize"
     ],
     "group": "kpop_riize",
     "nearest_station": "",
-    "description": "神奈川県のその他。RIIZEのメンバーが訪れた飲食店。",
+    "description": "RIIZEが2025年の日本ファンミーティングの際に訪れ、ウンソクが箸を持った写真がInstagramに載ったとファンの間で紹介されている横浜中華街の中華料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140505/14039477/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "RIIZE Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。oshito.online（news/14860・17056）。店の特定はファン。ほかのメンバーは不明。"
   },
   {
     "id": "kpop_riize-ed7bcd1e-",
@@ -52291,14 +52335,17 @@
       "kpop_riize"
     ],
     "group": "kpop_riize",
-    "description": "東京都のグルメスポット。RIIZEが訪れた。",
+    "description": "RIIZEの公式YouTube「RIIZE IN TOKYO EP.2」で、メンバーが豆柴とふれあった原宿の豆柴カフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13008614/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "youtube",
+    "program": "RIIZE公式YouTube「RIIZE IN TOKYO EP.2」",
+    "qa_note": "出典はファンまとめ（oshito.online）。動物ふれあいカフェで飲食が主ではない（飲食店とするか要判断）。来店メンバーは記載なし→membersは空。"
   },
   {
     "id": "kpop_twice-6b03ad4d-",
@@ -52321,7 +52368,7 @@
     ],
     "group": "kpop_twice",
     "nearest_station": "",
-    "description": "東京都のその他。TWICEのナヨンらが訪れた飲食店。",
+    "description": "TWICEのナヨンが2024年9月に公式Instagramに載せた東京観光の写真で、店の外観の前に写っていた三鷹のパン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13048977/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000949197/",
@@ -52329,7 +52376,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/33/P038555933/P038555933_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/33/P038555933/P038555933_238.jpg",
+    "visit_kind": "other",
+    "program": "ナヨン Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。写真は外観の前で、店で買ったか・食べたかは未確認。"
   },
   {
     "id": "kpop_twice-dfec3ef1-",
@@ -52344,20 +52394,29 @@
     "source_video_title": "TWICE",
     "source_url": "https://oshito.online/news/17750.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "ジヒョ",
+      "ジョンヨン"
+    ],
     "groups": [
       "kpop_twice"
     ],
     "group": "kpop_twice",
     "nearest_station": "",
-    "description": "東京都のその他。TWICEのメンバーが訪れた飲食店。",
+    "description": "TWICEのジヒョが2025年1月にInstagramに載せた写真で、ジョンヨンと妹のイ・ハウムと3人で鉄板を囲んでいた下北沢のもんじゃ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1318/A131802/13302164/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "ジヒョ Instagram",
+    "with": [
+      "イ・ハウム"
+    ],
+    "qa_note": "出典はファンまとめ（oshito.online）。店の特定はファン。membersを空から2人に。"
   },
   {
     "id": "kpop_twice-29cabaf0-",
@@ -52372,76 +52431,25 @@
     "source_video_title": "TWICE",
     "source_url": "https://oshito.online/news/17750.html",
     "visited_date": "",
-    "members": [],
+    "members": [
+      "モモ"
+    ],
     "groups": [
       "kpop_twice"
     ],
     "group": "kpop_twice",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩3分",
-    "description": "東京都のその他。TWICEのメンバーが訪れた飲食店。",
+    "description": "TWICEのモモが2022年10月の日本滞在中にプライベートで訪れ、Instagramに写真を載せた原宿のうどん店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13225567/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "kpop_twice-c1d0057e-",
-    "name": "東京ディズニーランド",
-    "genre": "others",
-    "prefecture": "千葉県",
-    "city": "浦安市",
-    "address": "千葉県浦安市舞浜１−１",
-    "lat": 35.63684433877979,
-    "lng": 139.87816789385778,
-    "youtube_id": "",
-    "source_video_title": "TWICE",
-    "source_url": "https://oshito.online/news/17750.html",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kpop_twice"
-    ],
-    "group": "kpop_twice",
-    "nearest_station": "",
-    "description": "千葉県のその他。TWICEのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1202/A120203/12021578/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
-  },
-  {
-    "id": "kpop_nct-3cab94de-",
-    "name": "道頓堀 テヨン",
-    "genre": "others",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区道頓堀1丁目10ー4",
-    "lat": 34.64504076430828,
-    "lng": 135.51379439372175,
-    "youtube_id": "",
-    "source_video_title": "NCT",
-    "source_url": "https://oshito.online/news/5587.html",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "kpop_nct"
-    ],
-    "group": "kpop_nct",
-    "nearest_station": "大阪阿部野橋駅 徒歩2分",
-    "description": "大阪府のその他。NCTのメンバーが訪れた飲食店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27134872/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "モモ Instagram",
+    "qa_note": "出典はファンまとめ（oshito.online）。店の特定はファン。"
   },
   {
     "id": "west-afb128a1-",
@@ -65034,41 +65042,6 @@
     "qa_note": "出典 creatrip.com。"
   },
   {
-    "id": "kpop_lesserafim-pachamama_bakery-",
-    "name": "Pachamama Bakery",
-    "genre": "cafe",
-    "prefecture": "韓国",
-    "city": "",
-    "address": "韓国ソウル市龍山区三角地",
-    "lat": 37.5392,
-    "lng": 126.9762,
-    "youtube_id": "",
-    "source_video_title": "全知的おせっかい視点 ロケ地",
-    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
-    "visited_date": "",
-    "members": [
-      "カズハ",
-      "チェウォン",
-      "ユンジン"
-    ],
-    "groups": [
-      "kpop_lesserafim"
-    ],
-    "group": "kpop_lesserafim",
-    "nearest_station": "",
-    "description": "LE SSERAFIM「全知的おせっかい視点 ロケ地」に登場したカフェ。カズハ・チェウォンらが訪問。塩パンを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oRoGuuYiyQmxc1fU5oV5dPKlnAz.jpg",
-    "source_type": "",
-    "tmdb_id": 80736,
-    "tmdb_type": "tv",
-    "ordered_items": [
-      "塩パン"
-    ]
-  },
-  {
     "id": "kpop_lesserafim-08528f72-",
     "name": "삼겹살 전문점 대통령（サムギョプサル大統領）",
     "genre": "yakiniku",
@@ -65093,7 +65066,7 @@
     ],
     "group": "kpop_lesserafim",
     "nearest_station": "",
-    "description": "LE SSERAFIM「첫 회식 🍽️」に登場した焼肉店。サクラ・カズハらが訪問。超極厚サムギョプサルを注文。",
+    "description": "LE SSERAFIMの公式YouTube「[LENIVERSE] 첫 회식 🍽️ (with 진짜 삼겹살)」で、メンバーが初めての打ち上げをしたソウル・奨忠洞のサムギョプサル店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65103,43 +65076,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "超極厚サムギョプサル"
-    ]
-  },
-  {
-    "id": "kpop_lesserafim-on_6_5_6_5-",
-    "name": "On 6.5（온 6.5）",
-    "genre": "shokuji",
-    "prefecture": "韓国",
-    "city": "",
-    "address": "韓国ソウル市鍾路区北村路1キル28",
-    "lat": 37.5826,
-    "lng": 126.9836,
-    "youtube_id": "",
-    "source_video_title": "K-POPアーティスト御用達キムチ発酵料理店",
-    "source_url": "https://ameblo.jp/treportal/entry-12912288854.html",
-    "visited_date": "",
-    "members": [
-      "サクラ",
-      "カズハ",
-      "チェウォン",
-      "ユンジン",
-      "ウンチェ"
     ],
-    "groups": [
-      "kpop_lesserafim"
-    ],
-    "group": "kpop_lesserafim",
-    "nearest_station": "",
-    "description": "LE SSERAFIM「K-POPアーティスト御用達キムチ発酵料理店」に登場した飲食店。サクラ・カズハらが訪問。キムチ創作料理・キムチチゲを注文。",
-    "tags": [],
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "キムチ創作料理",
-      "キムチチゲ"
-    ]
+    "visit_kind": "youtube",
+    "program": "LE SSERAFIM公式YouTube「LENIVERSE」",
+    "qa_note": "出典はブログ（ameblo treportal）。店の特定はブログ。5人全員かは動画で未確認。"
   },
   {
     "id": "kpop_blackpink-henry_s_pizza-",
@@ -65163,7 +65103,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「ジェニ・ロゼ 大阪訪問（VERDYコラボ店）」に登場した飲食店。ジェニ・ロゼが訪問。ペペロニピザ・NYスタイルピザを注文。",
+    "description": "BLACKPINKのジェニ（2024年11月「SUPERPOP JAPAN」出演時）とロゼ（同月「MAMA2024」出演時）が、それぞれ別の日に訪れた大阪・谷町のNYスタイルピザ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27136005/",
     "hotpepper_url": "",
@@ -65173,7 +65113,13 @@
     "ordered_items": [
       "ペペロニピザ",
       "NYスタイルピザ"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジェニ・ロゼ Instagram",
+    "with": [
+      "ブルーノ・マーズ"
+    ],
+    "qa_note": "出典はファンまとめ（oshito.online）。ジェニとロゼは別々に来店。ロゼはブルーノ・マーズと一緒。メンバーのInstagramが根拠（未確認）。"
   },
   {
     "id": "kpop_blackpink-8c6eab29-",
@@ -65196,7 +65142,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「ジェニ YouTube Vlog（2023年9月）」に登場したラーメン店。ジェニが訪問。油そばを注文。",
+    "description": "BLACKPINKのジェニの公式YouTube「Jennie in Tokyo - Part 1」（2023年9月）で訪れた赤坂見附の油そば店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13046282/",
     "hotpepper_url": "",
@@ -65205,7 +65151,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "油そば"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "JENNIE公式YouTube「Jennie in Tokyo - Part 1」",
+    "qa_note": "動画はoEmbedで確認。店の特定はファンまとめ（oshito.online）。"
   },
   {
     "id": "kpop_blackpink-bd4f2517-",
@@ -65228,7 +65177,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「ジェニ YouTube Vlog（東京）」に登場した居酒屋。ジェニが訪問。焼きとうもろこしを注文。",
+    "description": "BLACKPINKのジェニの公式YouTube「Jennie in Tokyo - Part 2」（2023年9月）の3分ごろに登場する東銀座の炭焼き居酒屋。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13032924/",
     "hotpepper_url": "",
@@ -65237,7 +65186,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "焼きとうもろこし"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "JENNIE公式YouTube「Jennie in Tokyo - Part 2」",
+    "qa_note": "動画はoEmbedで確認。店の特定はファンまとめ（nomnom-korea「だったようです」）。焼きとうもろこしは記事見出しから。"
   },
   {
     "id": "kpop_blackpink-dosan_bunsik-",
@@ -65260,7 +65212,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「ジス Instagram」に登場した飲食店。ジスが訪問。トッポッキ・キムチチャーハン・のり巻きを注文。",
+    "description": "BLACKPINKのジスが写真をInstagramに載せた、ソウル・カロスキルの粉食店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65272,7 +65224,10 @@
       "トッポッキ",
       "キムチチャーハン",
       "のり巻き"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジス Instagram",
+    "qa_note": "出典は旅行サイトcreatrip（2020年ごろの記事）。店の特定はファン。現在の営業は未確認。"
   },
   {
     "id": "kpop_blackpink-mamma_mia-",
@@ -65295,7 +65250,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「ロゼ 狎鴎亭エリア訪問」に登場したカフェ。ロゼが訪問。ペストリー・焼き菓子を注文。",
+    "description": "BLACKPINKのロゼがGirl's Dayのヘリと訪れたとされる、ソウル・狎鴎亭のカフェ。",
     "tags": [],
     "hotpepper_url": "",
     "source_type": "",
@@ -65304,7 +65259,13 @@
     "ordered_items": [
       "ペストリー",
       "焼き菓子"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ロゼ（プライベート）",
+    "with": [
+      "ヘリ（Girl's Day）"
+    ],
+    "qa_note": "出典はcreatrip（2020年ごろ）。根拠の投稿は示されていない。注文品（ペストリー）は記事の一般的な紹介で、ロゼの注文ではない。現在の営業は未確認。"
   },
   {
     "id": "kpop_blackpink-little_papa_pho_hapj-",
@@ -65328,7 +65289,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「リサ・ロゼ 合井エリア訪問」に登場した飲食店。リサ・ロゼが訪問。ベトナム料理・フォーを注文。",
+    "description": "BLACKPINKのリサとロゼが訪れたとされる、ソウル・合井のベトナム料理店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65339,7 +65300,10 @@
     "ordered_items": [
       "ベトナム料理",
       "フォー"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "リサ・ロゼ（プライベート）",
+    "qa_note": "出典はcreatrip（2020年ごろ）。根拠の投稿は示されていない（伝聞）。現在の営業は未確認。"
   },
   {
     "id": "kpop_blackpink-laham_kitchen-",
@@ -65365,7 +65329,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「BLACKPINK House Episode 7」に登場した飲食店。ジス・ジェニらが訪問。",
+    "description": "BLACKPINKのリアリティ番組「BLACKPINK HOUSE」エピソード7で、4人がそろって食事をしたソウル・合井のレストラン。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65373,7 +65337,10 @@
     "source_type": "",
     "tmdb_id": 76722,
     "tmdb_type": "tv",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "BLACKPINK HOUSE",
+    "qa_note": "出典はcreatrip（Episode 7-5）。現在の営業は未確認。"
   },
   {
     "id": "kpop_blackpink-jjukkumi_dal_in-",
@@ -65399,7 +65366,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「BLACKPINK 全員来店」に登場した飲食店。ジス・ジェニらが訪問。炒めスルメイカ（쭈-삼）・チャーハンを注文。",
+    "description": "BLACKPINKの4人のサインが飾られているとされる、ソウル・新村のチュクミ（イイダコ）炒め店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65410,7 +65377,10 @@
     "ordered_items": [
       "炒めスルメイカ（쭈-삼）",
       "チャーハン"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "BLACKPINK（プライベート）",
+    "qa_note": "出典はcreatrip（2020年ごろ）。「4人とも訪れた」の根拠は店内のサインのみで、一緒に来たか・いつかは不明。注文品は記事の一般的な紹介。"
   },
   {
     "id": "kpop_blackpink-krappom-",
@@ -65433,7 +65403,7 @@
     ],
     "group": "kpop_blackpink",
     "nearest_station": "",
-    "description": "BLACKPINK「リサ 行きつけタイ料理」に登場した飲食店。リサが訪問。タイ料理・豚足ご飯を注文。",
+    "description": "BLACKPINKのリサがCLCのエルキー、(G)I-DLEのミンニと訪れたとされる、ソウル・新沙洞のタイ料理店。",
     "tags": [],
     "tabelog_url": "",
     "hotpepper_url": "",
@@ -65444,7 +65414,14 @@
     "ordered_items": [
       "タイ料理",
       "豚足ご飯"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "リサ（プライベート）",
+    "with": [
+      "エルキー（CLC）",
+      "ミンニ（(G)I-DLE）"
+    ],
+    "qa_note": "出典はcreatrip（2020年ごろ）。元タイトルの「行きつけ」は出典になく、来店の記載のみ。豚足ご飯は店の名物紹介でリサの注文ではない。"
   },
   {
     "id": "kpop_aespa-5ffe7df2-",
@@ -65466,14 +65443,17 @@
       "kpop_aespa"
     ],
     "group": "kpop_aespa",
-    "description": "aespa「カリナ 東京赤坂訪問（SMアイドルの聖地）」に登場した和食店。カリナが訪問。",
+    "description": "aespaのカリナが2025年5月にInstagramに載せた（のちに削除）写真から、ファンが特定した赤坂の日本料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13002749/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "other",
+    "program": "カリナ Instagram",
+    "qa_note": "出典はnomnom-korea（「だったようです」）。店の特定はファンで、元の投稿は削除済み。やげんぼりは赤坂に複数店舗があり、この店舗かは要確認。"
   },
   {
     "id": "kpop_aespa-e6d7a34f-",
@@ -65496,7 +65476,7 @@
     ],
     "group": "kpop_aespa",
     "nearest_station": "",
-    "description": "aespa「ジゼル 高円寺来訪」に登場した居酒屋。ジゼルが訪問。タッカルビ・ユッケビビンバ・ヤンニョムチキンを注文。",
+    "description": "aespaのジゼルが2024年7月ごろに訪れ、タッカルビ・ユッケビビンバ・ヤンニョムチキンを注文したと店の公式Instagramで紹介された高円寺の韓国料理店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1324/A132404/13305396/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003671556/",
@@ -65508,7 +65488,10 @@
       "ユッケビビンバ",
       "ヤンニョムチキン"
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/85/36/P043508536/P043508536_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/85/36/P043508536/P043508536_238.jpg",
+    "visit_kind": "other",
+    "program": "店の公式Instagram",
+    "qa_note": "出典はpro-otaku（2024年 aespa 東京編）。店（@koenji.haruharu）の投稿が根拠。元データのsource_urlはぐるなびの店舗ページでジゼルの記載はない。"
   },
   {
     "id": "kpop_aespa-75f30bda-",
@@ -65531,7 +65514,7 @@
     ],
     "group": "kpop_aespa",
     "nearest_station": "",
-    "description": "aespa「ジゼル Instagram（2024年2月）」に登場したラーメン店。ジゼルが訪問。ラーメンを注文。",
+    "description": "aespaのジゼルがInstagram（2024年1月ごろ）にラーメンの写真を載せ、ファンが特定した渋谷・南平台のラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13122253/",
     "hotpepper_url": "",
@@ -65540,7 +65523,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "ラーメン"
-    ]
+    ],
+    "visit_kind": "other",
+    "program": "ジゼル Instagram",
+    "qa_note": "出典はpro-otaku。店の特定はファン。"
   },
   {
     "id": "kpop_aespa-5ac4fae2-",
@@ -65564,7 +65550,7 @@
     ],
     "group": "kpop_aespa",
     "nearest_station": "",
-    "description": "aespa「カリナ・ウィンター 西麻布訪問（2023年）」に登場した和食店。カリナ・ウィンターが訪問。釜炊き鯛めしを注文。",
+    "description": "aespaの公式Instagram（2023年4月）にカリナとウィンターの写真が載った、西麻布の和食店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13086478/",
     "hotpepper_url": "",
@@ -65573,42 +65559,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "釜炊き鯛めし"
-    ]
-  },
-  {
-    "id": "kpop_aespa-db11ee48-",
-    "name": "たこ焼きしばいたろか!!",
-    "genre": "shokuji",
-    "prefecture": "大阪府",
-    "city": "大阪市",
-    "address": "大阪府大阪市中央区西心斎橋1-16-16",
-    "lat": 34.6753541,
-    "lng": 135.4992013,
-    "youtube_id": "",
-    "source_video_title": "aespa 大阪訪問（アメ村）",
-    "source_url": "https://oshi-seichi.com/2025/04/30/aespa-osaka/",
-    "visited_date": "",
-    "members": [
-      "カリナ",
-      "ウィンター",
-      "ニンニン"
     ],
-    "groups": [
-      "kpop_aespa"
-    ],
-    "group": "kpop_aespa",
-    "nearest_station": "",
-    "description": "aespa「aespa 大阪訪問（アメ村）」に登場した飲食店。カリナ・ウィンターらが訪問。たこ焼きを注文。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "たこ焼き"
-    ]
+    "visit_kind": "other",
+    "program": "aespa公式Instagram",
+    "qa_note": "出典はpro-otaku（「個室を利用」）。店の特定はファン。鯛めしの注文は出典に明記なし（店の名物の紹介）。"
   },
   {
     "id": "kpop_ive-marlowe-",
@@ -65633,7 +65587,7 @@
     ],
     "group": "kpop_ive",
     "nearest_station": "",
-    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したスイーツ店。ガウル・ウォニョンらが訪問。北海道フレッシュクリームプリン・マサラチャイティープリンを注文。",
+    "description": "IVEが日本で初めてロケをした「相席食堂」（2024年7月16日放送）で、ガウル・ウォニョン・リズの組が訪れた葉山マリーナのプリン専門店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14075970/",
     "hotpepper_url": "",
@@ -65644,7 +65598,10 @@
       "北海道フレッシュクリームプリン",
       "マサラチャイティープリン"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "相席食堂",
+    "qa_note": "出典は番組まとめブログ（jksearch.info）。"
   },
   {
     "id": "kpop_ive-45f14b60-",
@@ -65668,7 +65625,7 @@
     ],
     "group": "kpop_ive",
     "nearest_station": "",
-    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ガウル・ウォニョンが訪問。レザンベール・トモコを注文。",
+    "description": "IVEが出演した「相席食堂」（2024年7月16日放送）で、ガウル・ウォニョン・リズの組の旅で訪れた葉山のパン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14002514/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ003916153/",
@@ -65679,7 +65636,10 @@
       "レザンベール・トモコ"
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/40/39/P047234039/P047234039_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/40/39/P047234039/P047234039_238.jpg",
+    "visit_kind": "guest_tv",
+    "program": "相席食堂",
+    "qa_note": "出典は番組まとめブログ（jksearch.info）。同じ組のリズがこの店にいたかは出典で確かめられず、元データどおり2人。"
   },
   {
     "id": "kpop_ive-e7e24ff8-",
@@ -65704,7 +65664,7 @@
     ],
     "group": "kpop_ive",
     "nearest_station": "",
-    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場した焼肉店。ガウル・ウォニョンらが訪問。リブロース・サーロイン・ヒレを注文。",
+    "description": "IVEが出演した「相席食堂」（2024年7月16日放送）で、ガウル・ウォニョン・リズが和牛ステーキを食べた葉山のステーキ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14003158/",
     "hotpepper_url": "",
@@ -65716,7 +65676,10 @@
       "サーロイン",
       "ヒレ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "相席食堂",
+    "qa_note": "出典は番組まとめブログ（jksearch.info）。"
   },
   {
     "id": "kpop_ive-before_sunset-",
@@ -65741,7 +65704,7 @@
     ],
     "group": "kpop_ive",
     "nearest_station": "",
-    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ユジン・レイらが訪問。シュガーバタークレープを注文。",
+    "description": "IVEが出演した「相席食堂」（2024年7月16日放送）で、ユジン・レイ・イソの組が訪れた葉山のクレープ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14083163/",
     "hotpepper_url": "",
@@ -65751,7 +65714,10 @@
     "ordered_items": [
       "シュガーバタークレープ"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "相席食堂",
+    "qa_note": "出典は番組まとめブログ（jksearch.info）。"
   },
   {
     "id": "kpop_ive-3aa8f6af-",
@@ -65767,11 +65733,11 @@
     "source_url": "https://jksearch.info/%E7%9B%B8%E5%B8%AD%E9%A3%9F%E5%A0%82%E3%80%80ive%E3%80%90%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%BB%E8%91%89%E5%B1%B1%E7%94%BA%E3%80%91%E4%B8%96%E7%95%8C%E3%81%AEk-pop%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC/",
     "visited_date": "",
     "members": [
-      "ガウル",
-      "ウォニョン",
-      "リズ",
       "ユジン",
+      "ウォニョン",
       "レイ",
+      "リズ",
+      "ガウル",
       "イソ"
     ],
     "groups": [
@@ -65779,7 +65745,7 @@
     ],
     "group": "kpop_ive",
     "nearest_station": "",
-    "description": "IVE「相席食堂 IVE日本初ロケ（2024年7月16日放」に登場したカフェ。ガウル・ウォニョンらが訪問。コーヒーゼリーセットを注文。",
+    "description": "IVEが出演した「相席食堂」（2024年7月16日放送）で、二手に分かれた6人が最後に合流した葉山のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/kanagawa/A1406/A140602/14001647/",
     "hotpepper_url": "",
@@ -65789,7 +65755,10 @@
     "ordered_items": [
       "コーヒーゼリーセット"
     ],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg"
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3tEcVj3j4BLmdHvTlqy7qynKKhO.jpg",
+    "visit_kind": "guest_tv",
+    "program": "相席食堂",
+    "qa_note": "出典は番組まとめブログ（jksearch.info）。"
   },
   {
     "id": "kpop_newjeans-8d60abcc-",
@@ -65816,7 +65785,7 @@
     ],
     "group": "kpop_newjeans",
     "nearest_station": "",
-    "description": "NewJeans「ミン・ヒジン Instagram（NewJeans」に登場した和食店。ミンジ・ハニらが訪問。牛カツ・とんかつを注文。",
+    "description": "NewJeansが「SUMMER SONIC 2023」で来日した2023年8月、当時のADORの代表ミン・ヒジンがInstagramに載せた写真から、メンバーと訪れたとファンが特定した中目黒のとんかつ・牛カツ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13192261/",
     "hotpepper_url": "",
@@ -65826,40 +65795,10 @@
     "ordered_items": [
       "牛カツ",
       "とんかつ"
-    ]
-  },
-  {
-    "id": "kpop_newjeans-b23c73bc-",
-    "name": "ナカメの手土産",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区青葉台1-23-8",
-    "lat": 35.6513684,
-    "lng": 139.6934004,
-    "youtube_id": "",
-    "source_video_title": "ダニエル 中目黒訪問（2023年）",
-    "source_url": "https://moalabtxt.com/newjeansjapan_place/",
-    "visited_date": "",
-    "members": [
-      "ダニエル"
     ],
-    "groups": [
-      "kpop_newjeans"
-    ],
-    "group": "kpop_newjeans",
-    "nearest_station": "",
-    "description": "NewJeans「ダニエル 中目黒訪問（2023年）」に登場したカフェ。ダニエルが訪問。みたらし団子・コーヒーを注文。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13276243/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "みたらし団子",
-      "コーヒー"
-    ]
+    "visit_kind": "other",
+    "program": "ミン・ヒジン Instagram",
+    "qa_note": "出典はファンブログ（pro-otaku・moalabtxt）。moalabtxtは「おそらくこちらの店舗」と推測の書き方で、店舗の特定はファンによる。どのメンバーが同席したかは未確認のためmembersは空（元データは5人全員）。要確認。"
   },
   {
     "id": "kpop_newjeans-john_s_ice_cream-",
@@ -65886,7 +65825,7 @@
     ],
     "group": "kpop_newjeans",
     "nearest_station": "",
-    "description": "NewJeans「NewJeans 中目黒・代官山訪問（2023年8」に登場したスイーツ店。ミンジ・ハニらが訪問。カスタマイズジェラートを注文。",
+    "description": "NewJeansが2023年8月の来日時に公式Instagramに載せた写真から、メンバーがアイスを食べていたとファンが特定した代官山のジェラート店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13272143/",
     "hotpepper_url": "",
@@ -65895,40 +65834,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "カスタマイズジェラート"
-    ]
-  },
-  {
-    "id": "kpop_newjeans-swell_coffee_roaster-",
-    "name": "Swell Coffee Roasters",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区上目黒1-11-1 OAK BLDG II 1F",
-    "lat": 35.6428011,
-    "lng": 139.6930849,
-    "youtube_id": "",
-    "source_video_title": "NewJeans 代官山・中目黒聖地",
-    "source_url": "https://moalabtxt.com/newjeansjapan_place/",
-    "visited_date": "",
-    "members": [
-      "ミンジ",
-      "ハニ"
     ],
-    "groups": [
-      "kpop_newjeans"
-    ],
-    "group": "kpop_newjeans",
-    "nearest_station": "",
-    "description": "NewJeans「NewJeans 代官山・中目黒聖地」に登場したカフェ。ミンジ・ハニが訪問。コーヒーを注文。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13319948/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "コーヒー"
-    ]
+    "visit_kind": "other",
+    "program": "NewJeans公式Instagram",
+    "qa_note": "出典はファンブログ（moalabtxt・pro-otaku）。どのメンバーが写っているかは未確認のためmembersは空（元データは5人全員）。"
   },
   {
     "id": "kpop_newjeans-andy_coffee-",
@@ -65952,7 +65861,7 @@
     ],
     "group": "kpop_newjeans",
     "nearest_station": "",
-    "description": "NewJeans「Moments from Summer in To」に登場したカフェ。ミンジ・ハニが訪問。カフェラテを注文。",
+    "description": "NewJeansの公式YouTubeで2024年9月に公開されたミンジとハニの東京Vlogで、2人が訪れた代官山のカフェ。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130303/13297856/",
     "hotpepper_url": "",
@@ -65961,40 +65870,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "カフェラテ"
-    ]
-  },
-  {
-    "id": "kpop_newjeans-2ad1e8ad-",
-    "name": "とんかつ まるや 浜松町店",
-    "genre": "washoku",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区海岸1-2-20 汐留ビル1F",
-    "lat": 35.6452654,
-    "lng": 139.7573804,
-    "youtube_id": "",
-    "source_video_title": "ミンジ 東京vlog（2023年12月26日公開）",
-    "source_url": "https://moalabtxt.com/newjeans_minji_tokyovlog/",
-    "visited_date": "",
-    "members": [
-      "ミンジ"
     ],
-    "groups": [
-      "kpop_newjeans"
-    ],
-    "group": "kpop_newjeans",
-    "nearest_station": "",
-    "description": "NewJeans「ミンジ 東京vlog（2023年12月26日公開）」に登場した和食店。ミンジが訪問。とんかつを注文。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1314/A131401/13226862/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001292391/",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [
-      "とんかつ"
-    ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/88/66/P039038866/P039038866_238.jpg"
+    "visit_kind": "youtube",
+    "program": "NewJeans公式YouTube「Moments from Summer in Tokyo」",
+    "qa_note": "出典はnomnom-korea（「だったようです」）。店の特定はファン。"
   },
   {
     "id": "kpop_newjeans-a1e2e51b-",
@@ -66017,7 +65896,7 @@
     ],
     "group": "kpop_newjeans",
     "nearest_station": "",
-    "description": "NewJeans「ミンジ 東京vlog（2023年12月26日公開）」に登場したラーメン店。ミンジが訪問。塩らーめんを注文。",
+    "description": "NewJeansの公式YouTube「[About Jeans] MINJI SCENE #3」（2023年12月）で、ミンジが日本で初めてラーメンを食べたと話した新宿の塩ラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13240587/",
     "hotpepper_url": "",
@@ -66026,7 +65905,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "塩らーめん"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "NewJeans公式YouTube「[About Jeans] MINJI SCENE #3 도쿄 가요?」",
+    "qa_note": "動画はoEmbedで確認。店舗（新宿東南口店）の特定はファン（moalabtxt）。"
   },
   {
     "id": "kpop_newjeans-ec57a59c-",
@@ -66049,7 +65931,7 @@
     ],
     "group": "kpop_newjeans",
     "nearest_station": "",
-    "description": "NewJeans「ミンジ 東京vlog（2023年12月26日公開）」に登場した和食店。ミンジが訪問。とんかつを注文。",
+    "description": "NewJeansの公式YouTube「[About Jeans] MINJI SCENE #3」（2023年12月）で、ミンジが東京滞在の最終日にとんかつを食べた銀座のとんかつ店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13261638/",
     "hotpepper_url": "",
@@ -66058,7 +65940,10 @@
     "tmdb_type": "",
     "ordered_items": [
       "とんかつ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "NewJeans公式YouTube「[About Jeans] MINJI SCENE #3 도쿄 가요?」",
+    "qa_note": "動画はoEmbedで確認。店舗（本店）の特定はファン（moalabtxt）で根拠は書かれていない。要確認。"
   },
   {
     "id": "b6370f6d",
