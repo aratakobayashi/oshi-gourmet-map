@@ -41239,7 +41239,8 @@
     ],
     "groups": [
       "naniwa",
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "naniwa",
     "nearest_station": "",
@@ -283762,7 +283763,8 @@
       "那須雄登"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "bishonen"
     ],
     "group": "kanjani",
     "description": "SUPER EIGHTの横山裕が『ヒルナンデス！』の「今行きたい1日乗車券の旅」（2024年10月17日放送）で訪れた居酒屋の店。",
@@ -284179,7 +284181,8 @@
       "ゆいちゃみ"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探究者・長野くんの世界一ウマい食べ歩き」（2024年1月25日放送）で訪れた居酒屋の店。",
@@ -284369,7 +284372,8 @@
       "あの"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探求者・長野くんの世界一ウマい食べ歩き」（2023年9月14日放送）で訪れた焼肉の店。",
@@ -284492,7 +284496,8 @@
       "井上咲楽"
     ],
     "groups": [
-      "kanjani"
+      "kanjani",
+      "20th_century"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探求者・長野くんの世界一ウマい食べ歩き」（2023年6月29日放送）で訪れた和食の店。",
@@ -284733,5 +284738,36 @@
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/97/18/P039289718/P039289718_238.jpg"
+  },
+  {
+    "id": "20th_century-fcc2b195-20230406",
+    "name": "やぶ久",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋2-1-19",
+    "lat": 35.682495,
+    "lng": 139.772141,
+    "source_video_title": "世界一ウマそうな○○の歩き方（2023-04-06 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2023-04-06",
+    "members": [
+      "長野博",
+      "吉村崇",
+      "松村沙友理"
+    ],
+    "groups": [
+      "20th_century"
+    ],
+    "group": "20th_century",
+    "description": "20th Centuryの長野博が『ヒルナンデス！』の「世界一ウマそうな○○の歩き方」（2023年4月6日放送）で訪れた和食の店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081q3rl3pzwyh215owb.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/96/P031561396/P031561396_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000002585/"
   }
 ]
