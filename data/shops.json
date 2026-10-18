@@ -46118,7 +46118,6 @@
     "visited_date": "",
     "members": [
       "亀梨和也",
-      "中丸雄一",
       "上田竜也"
     ],
     "groups": [
@@ -46126,7 +46125,7 @@
     ],
     "group": "kattun",
     "nearest_station": "",
-    "description": "東京都のその他。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が1軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1313/A131306/13248096/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001250503/",
@@ -46134,7 +46133,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "出典（kosodate-and）は亀梨・上田の2人の回。中丸雄一は出ていないので members から外す。visited_date が空→放送日 2024-11-24。11/11に撮影の目撃情報あり。genre は others→washoku が妥当。youtube_id なし（画像の有無を要確認）。"
   },
   {
     "id": "kattun-68bc5766-",
@@ -46151,7 +46153,6 @@
     "visited_date": "",
     "members": [
       "亀梨和也",
-      "中丸雄一",
       "上田竜也"
     ],
     "groups": [
@@ -46159,7 +46160,7 @@
     ],
     "group": "kattun",
     "nearest_station": "",
-    "description": "東京都の寿司。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が2軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ004025852/",
@@ -46167,7 +46168,10 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "中丸雄一を members から外す。visited_date 空→2024-11-24。"
   },
   {
     "id": "kattun-e483a667-",
@@ -46184,22 +46188,25 @@
     "visited_date": "",
     "members": [
       "亀梨和也",
-      "中丸雄一",
       "上田竜也"
     ],
     "groups": [
-      "kattun"
+      "kattun",
+      "keytolit"
     ],
     "group": "kattun",
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩1分",
-    "description": "東京都の寿司。KAT-TUNの亀梨和也・中丸雄一らが訪れた飲食店。",
+    "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が3軒目に訪れた回転寿司店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": []
+    "ordered_items": [],
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "店の公式Xが放送告知。個室席。中丸を外す。visited_date 空→2024-11-24。KEY TO LIT の岩﨑大昇誕生日回（2026-08-23）でもこの店に行っている→ keytolit に attach 候補。"
   },
   {
     "id": "numberi-39dfe377-",
@@ -60238,64 +60245,6 @@
     "source_video_url": "https://www.youtube.com/watch?v=zMIDFI3mKZ0"
   },
   {
-    "id": "e94964ce",
-    "name": "フォルクス 西参道店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区代々木3-33-7 フォレストタウン参宮橋2F",
-    "lat": 35.682769837886035,
-    "lng": 139.6922244832902,
-    "source_video_title": "何するカトゥーン?（亀梨和也・上田竜也・中丸雄一）",
-    "source_url": "https://kosodate-and.net/",
-    "visited_date": "2021-01-01",
-    "members": [
-      "亀梨和也",
-      "上田竜也",
-      "中丸雄一"
-    ],
-    "groups": [
-      "kattun"
-    ],
-    "group": "kattun",
-    "source_type": "tv",
-    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131810/13023892/",
-    "description": "KAT-TUNがステーキと和風おろしハンバーグを堪能。",
-    "ordered_items": [
-      "熟成フィレステーキ200g",
-      "和風おろしハンバーグ"
-    ],
-    "nearest_station": "参宮橋駅 徒歩8分",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000010859/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/86/P037870486/P037870486_238.jpg"
-  },
-  {
-    "id": "5a9f4b32",
-    "name": "蕎楽亭",
-    "genre": "washoku",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区神楽坂3-6",
-    "lat": 35.70078543869502,
-    "lng": 139.73951614460083,
-    "source_video_title": "何するカトゥーン?（亀梨和也）",
-    "source_url": "https://shonentachi-movie.jp/kattun15th-location/",
-    "visited_date": "2021-01-01",
-    "members": [
-      "亀梨和也"
-    ],
-    "groups": [
-      "kattun"
-    ],
-    "group": "kattun",
-    "source_type": "tv",
-    "tabelog_url": "https://tabelog.com/tokyo/A1309/A130905/13000479/",
-    "description": "ミシュランビブグルマン取得の石臼挽き手打ちそばの名店。亀梨和也がリクエストし訪問。",
-    "nearest_station": "牛込神楽坂駅 徒歩5分",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000104319/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/29/26/P023022926/P023022926_238.jpg"
-  },
-  {
     "id": "a05bb79f",
     "name": "鮨処あいじ",
     "genre": "washoku",
@@ -60307,15 +60256,23 @@
     "source_video_title": "何するカトゥーン?（金沢ロケ）",
     "source_url": "https://kanazawa-tourism.net/location-topics/kattun/",
     "visited_date": "2021-10-25",
-    "members": [],
+    "members": [
+      "亀梨和也",
+      "上田竜也",
+      "中丸雄一"
+    ],
     "groups": [
       "kattun"
     ],
     "group": "kattun",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17001116/",
-    "description": "食べログ百名店選出のの金沢の高級寿司店。のどぐろなど金沢の名産を堪能。",
-    "nearest_station": "野町駅 徒歩14分"
+    "description": "フジテレビ『何するカトゥーン？』の金沢編（2021年10月25日放送）で、KAT-TUNの3人がのどぐろを食べた金沢・片町の寿司店。",
+    "nearest_station": "野町駅 徒歩14分",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "出典: 金沢観光ガイド（kanazawa-tourism.net）。members が空→3人。住所が「石川県金沢市片町」で番地なし（片町伝馬商店街の片町ペントハウス1階と記載）→ location_unverified か住所の補完が要る。description の食べログ百名店は削除。",
+    "location_unverified": true
   },
   {
     "id": "aaabb96a",
@@ -60340,7 +60297,10 @@
     "group": "kattun",
     "source_type": "tv",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270403/27114246/",
-    "description": "KAT-TUNがUSJ訪問後に打ち上げしたリーベルホテル1階のカフェ&バル。"
+    "description": "フジテレビ『何するカトゥーン？』のUSJ編（2022年7月25日放送の#16）で、KAT-TUNの3人がUSJのあとに打ち上げをしたホテルのカフェ＆バー。",
+    "visit_kind": "own_tv",
+    "program": "何するカトゥーン？",
+    "qa_note": "visited_date 2022-01-01 は仮の値→放送日 2022-07-25（番組公式Xの告知）。席は撮影用にセッティングされたもの（kosodate-and）。"
   },
   {
     "id": "b51f102c",
@@ -74115,14 +74075,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「大食いへの道~ガスト編」で、5人が全メニューに挑んだファミリーレストラン。",
     "source_url": "https://ameblo.jp/rrayd/entry-12933643990.html",
     "source_type": "youtube",
     "youtube_id": "f7JLhLx3piU",
     "source_video_url": "https://www.youtube.com/watch?v=f7JLhLx3piU",
     "ordered_items": [
       "グリル＆サラダメニュー"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "動画タイトルはoEmbedで確認。ファンブログ（ameblo rrayd）でメンバー全員。"
   },
   {
     "id": "keytolit-3bdaa974-20251026",
@@ -74146,14 +74109,16 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 無添蔵編」（2025年10月）で、5人が訪れた回転寿司店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "kVSpHpbRKwc",
     "source_video_url": "https://www.youtube.com/watch?v=kVSpHpbRKwc",
     "ordered_items": [
       "寿司"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-3be9f3f7-20251116",
@@ -74177,13 +74142,15 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「Arena Tour 2025 WAKE UP THE FOOLお疲れ様会」（2025年11月）で、5人がお疲れ様会をした焼肉店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "3s-B3OxavMA",
     "source_video_url": "https://www.youtube.com/watch?v=3s-B3OxavMA",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001019638/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/53/P021569153/P021569153_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/91/53/P021569153/P021569153_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-0d0fb6bd-20260111",
@@ -74207,7 +74174,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 北海道編」（2026年1月）で、5人が訪れた札幌の回転寿司店。",
     "source_url": "https://ameblo.jp/rrayd/entry-12941664767.html",
     "source_type": "youtube",
     "youtube_id": "SeMsbMYcLoE",
@@ -74216,7 +74183,9 @@
       "寿司"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ000028086/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/98/P024863798/P024863798_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）"
   },
   {
     "id": "keytolit-aeffd844-20260517",
@@ -74240,14 +74209,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「ガリさん想い出の地ペニーレイン」（2026年5月）で、猪狩蒼弥の思い出の地として5人が訪れた那須のパン屋。",
     "source_url": "https://kosodate-and.net/keytolit-igari-bakery/",
     "source_type": "youtube",
     "youtube_id": "CCdc5_vcVVg",
     "source_video_url": "https://www.youtube.com/watch?v=CCdc5_vcVVg",
     "ordered_items": [
       "パン"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "「きてれちゅーぶ1周年」佐々木大光ご褒美旅行の回（kosodate-and）。"
   },
   {
     "id": "keytolit-4d23a9a6-20260823",
@@ -74271,7 +74243,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「誕生日おめでとう 大昇が食べたいご飯全部ご馳走します」（2026年8月）で、岩﨑大昇の誕生日企画で5人が訪れたイタリア料理店。",
     "source_url": "https://kosodate-and.net/keytolit-taisho-birthday/",
     "source_type": "youtube",
     "youtube_id": "iROul4K0Bqc",
@@ -74280,7 +74252,10 @@
       "ナポリピッツァ"
     ],
     "hotpepper_url": "https://www.hotpepper.jp/strJ003532735/",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/28/P050225928/P050225928_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/28/P050225928/P050225928_238.jpg",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "同じ回の店はほかに3軒（カサデサラサ 渋谷区道玄坂2-25-5／廻転鮨 銀座おのでら 本店（既存 kattun-e483a667- に attach 可）／Caldo Nakameguro 目黒区上目黒3-5-29）がkosodate-andに載るが未登録。genre は others（イタリアン）。"
   },
   {
     "id": "keytolit-53f25a60-20261004",
@@ -74304,14 +74279,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「高級ホテルビュッフェ 少食井上瑞稀と同じ量しか食べられません」（2026年10月）で、5人が食事をしたホテルニューオータニのビュッフェレストラン。",
     "source_url": "https://kosodate-and.net/keytolit-hotel-buffet/",
     "source_type": "youtube",
     "youtube_id": "Kyhj4Uw20zs",
     "source_video_url": "https://www.youtube.com/watch?v=Kyhj4Uw20zs",
     "ordered_items": [
       "ビュッフェ"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "kosodate-and: 個室「SKY-B」で撮影・食事。"
   },
   {
     "id": "machichuka-225ba954-20190401",
@@ -126246,7 +126224,7 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「市場で極上朝メシを食い尽くせ」（2025年8月）で、5人が船橋市場で朝ごはんを食べた食堂。",
     "source_url": "https://www.nododama-news.com/keytolit-hananoya/",
     "source_type": "youtube",
     "youtube_id": "Y6c167N9JIY",
@@ -126256,7 +126234,10 @@
       "海鮮丼",
       "すし屋の海鮮丼",
       "お刺身定食"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "nododama-news にメンバーごとの注文あり（岩﨑:アジフライ定食／井上:海鮮丼＋アジフライ／中村:寿司屋の海鮮丼／猪狩:海鮮ごま醤油漬け丼＋アジフライ／佐々木:お刺身定食＋アジフライ）。ordered_items に使える。"
   },
   {
     "id": "keytolit-5430db80-20260531",
@@ -126280,14 +126261,17 @@
       "keytolit"
     ],
     "group": "keytolit",
-    "description": "岩﨑大昇・井上瑞稀・中村嶺亜・猪狩蒼弥・佐々木大光がYouTubeの動画で訪れたお店。",
+    "description": "KEY TO LITの公式YouTube（ジュニアCHANNEL）の「瑞稀大食いへの道 宇都宮餃子編」（2026年5月）で、5人が訪れた宇都宮の餃子店。",
     "source_url": "https://kosodate-and.net/keytolit-gyoza-utsunomiya/",
     "source_type": "youtube",
     "youtube_id": "qDbJIKa8SXg",
     "source_video_url": "https://www.youtube.com/watch?v=qDbJIKa8SXg",
     "ordered_items": [
       "餃子"
-    ]
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（きてれちゅーぶ）",
+    "qa_note": "店の公式Xの投稿（kosodate-and に引用）で来店を確認。井上瑞稀は龍門餃子3皿+3個。"
   },
   {
     "id": "shojikisanpo-ed198540-20120421",
@@ -200267,13 +200251,6 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります27 第12戦 KEY TO LIT猪狩蒼弥がゴチ初登場！（2026-06-18 日本テレビ）",
     "visited_date": "2026-06-18",
     "members": [
-      "倉科カナ",
-      "増田貴久",
-      "矢部浩之",
-      "岡村隆史",
-      "白石麻衣",
-      "佐野勇斗",
-      "せいや",
       "猪狩蒼弥"
     ],
     "groups": [
@@ -200282,14 +200259,24 @@
       "keytolit"
     ],
     "group": "gochi",
-    "description": "倉科カナ・増田貴久・矢部浩之・岡村隆史・白石麻衣・佐野勇斗・せいや・猪狩蒼弥が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2026年6月18日放送）に猪狩蒼弥がゲストで初登場した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471dm8dwtcy4crphs3x.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "倉科カナ",
+      "増田貴久",
+      "矢部浩之",
+      "岡村隆史",
+      "白石麻衣",
+      "佐野勇斗",
+      "せいや"
+    ],
+    "qa_note": "結成（2025-02-16）後。猪狩はゲスト。"
   },
   {
     "id": "gochi-2fed6030-20260528",
@@ -202018,14 +202005,7 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります25 第5戦 運命の再会ゴチに亀梨和也＆門脇麦が登場！！超難問コスプレクイズも！（2024-03-14 日本テレビ）",
     "visited_date": "2024-03-14",
     "members": [
-      "盛山晋太郎",
-      "岡村隆史",
-      "やす子",
-      "亀梨和也",
-      "増田貴久",
-      "高橋文哉",
-      "門脇麦",
-      "小芝風花"
+      "亀梨和也"
     ],
     "groups": [
       "gochi",
@@ -202034,14 +202014,24 @@
       "kattun"
     ],
     "group": "gochi",
-    "description": "盛山晋太郎・岡村隆史・やす子・亀梨和也・増田貴久・高橋文哉・門脇麦・小芝風花が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2024年3月14日放送）に亀梨和也がゲストで出演した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471lvvwlw6xvvxjt32l.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "盛山晋太郎",
+      "岡村隆史",
+      "やす子",
+      "増田貴久",
+      "高橋文哉",
+      "門脇麦",
+      "小芝風花"
+    ],
+    "qa_note": "KAT-TUN在籍中（解散2025-03-31前）に亀梨が個人でゲスト出演。kamenashi グループにも入っている。"
   },
   {
     "id": "gochi-00bef0a3-20240229",
@@ -203888,14 +203878,7 @@
     "source_video_title": "ぐるぐるナインティナイン ゴチになります22 第20戦 ダレダレ？コスプレ＆亀梨和也・福原遥参戦ゴチ2時間SP！（2021-11-04 日本テレビ）",
     "visited_date": "2021-11-04",
     "members": [
-      "松下洸平",
-      "亀梨和也",
-      "矢部浩之",
-      "ノブ",
-      "岡村隆史",
-      "中条あやみ",
-      "福原遥",
-      "増田貴久"
+      "亀梨和也"
     ],
     "groups": [
       "gochi",
@@ -203904,14 +203887,24 @@
       "kattun"
     ],
     "group": "gochi",
-    "description": "松下洸平・亀梨和也・矢部浩之・ノブ・岡村隆史・中条あやみ・福原遥・増田貴久が『ぐるぐるナインティナイン（ゴチになります）』で訪れたお店。",
+    "description": "日本テレビ『ぐるぐるナインティナイン ゴチになります』（2021年11月4日放送）に亀梨和也がゲストで出演した回の店。",
     "source_url": "https://www.ntv.co.jp/gurunai/articles/471akkqew8nmgfiuhrx.html",
     "source_type": "tv",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3pT7luuMLOrgJ0650hOtZg9iZFM.jpg",
     "tmdb_id": 106412,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
-    "program": "ぐるぐるナインティナイン ゴチになります"
+    "program": "ぐるぐるナインティナイン ゴチになります",
+    "with": [
+      "松下洸平",
+      "矢部浩之",
+      "ノブ",
+      "岡村隆史",
+      "中条あやみ",
+      "福原遥",
+      "増田貴久"
+    ],
+    "qa_note": "KAT-TUN在籍中に亀梨が個人でゲスト出演。kamenashi グループにも入っている。"
   },
   {
     "id": "gochi-0e61d470-20211001",

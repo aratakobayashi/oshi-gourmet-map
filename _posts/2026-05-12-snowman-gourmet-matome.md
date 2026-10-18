@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Snow Manの聖地巡礼・ロケ地まとめ｜すのちゅーぶ・それスノ・旅スノで行った東京のご飯ほか123軒"
+title: "Snow Manの聖地巡礼・ロケ地まとめ｜すのちゅーぶ・それスノ・旅スノで行った東京のご飯ほか124軒"
 date: 2026-05-12
 last_modified_at: 2026-10-13
 checked_at: 2026-10-13
 checked_label: "お店と回の情報"
-description: "Snow Manが公式YouTube（すのちゅーぶ・ジュニアCHANNEL）、冠番組『それSnow Manにやらせて下さい』『旅するSnow Man』、出演番組で訪れたお店と、出演ドラマのロケ地123軒を出典ごとにまとめました。回のタイトル・行ったメンバー・食べたもの、東京のエリア別の巡り方つき。"
+description: "Snow Manが公式YouTube（すのちゅーぶ・ジュニアCHANNEL）、冠番組『それSnow Manにやらせて下さい』『旅するSnow Man』、出演番組で訪れたお店と、出演ドラマのロケ地124軒を出典ごとにまとめました。回のタイトル・行ったメンバー・食べたもの、東京のエリア別の巡り方つき。"
 group: snowman
 genre: まとめ
 article_type: matome
@@ -20,8 +20,8 @@ sources:
   - label: "確認に使った資料：スノオタLIFE（mom-eat）"
     url: "https://mom-eat.com/"
 summary:
-  - "Snow Manが行ったお店とロケ地123軒。メンバーが食べに行ったお店と、ドラマのロケ地・スタジオに料理が出ただけのお店を分けています"
-  - "公式YouTube 47軒（すのちゅーぶ35・ジュニアCHANNEL12）、冠番組 48軒（それスノ35・旅スノ13）、出演番組とCM 23軒、ドラマのロケ地 4軒、スタジオ 1軒"
+  - "Snow Manが行ったお店とロケ地124軒。メンバーが食べに行ったお店と、ドラマのロケ地・スタジオに料理が出ただけのお店を分けています"
+  - "公式YouTube 47軒（すのちゅーぶ35・ジュニアCHANNEL12）、冠番組 48軒（それスノ35・旅スノ13）、出演番組とCM 24軒、ドラマのロケ地 4軒、スタジオ 1軒"
   - "62軒が東京（港区10・渋谷区9・新宿区8・中央区6ほか）。お店は東京を含む19都道府県にあります"
   - "回のタイトル・行ったメンバー・食べたものを出典ごとに確かめ、エリア別の巡り方と地図でまとめて巡れる"
 shop_ids:
@@ -136,6 +136,7 @@ shop_ids:
   - snowman-the_apollo-20250709
   - snowman-8b324f1b-20250517
   - snowman-0f821516-20251102
+  - meshidora-d78f4bad-20251102
   - snowman-d82827ef-20250213
   - snowman-f88f8345-20250729
   - snowman-4f130689-20240717
@@ -150,9 +151,9 @@ shop_ids:
   - snowman-69eda10a-20260116
 faq:
   - q: "Snow Manが行ったお店はどこですか？"
-    a: "この記事では123軒をまとめています。公式YouTube（すのちゅーぶ）の総本家更科堀井 本店（2025年3月）や龍朋（2024年12月）、『それSnow Manにやらせて下さい』の海鮮丼対決で訪れた三崎・沼津・銚子のお店、『旅するSnow Man』北海道編で9人がそろってラーメンを食べた苫小牧の味の大王 生粋などがあります。"
+    a: "この記事では124軒をまとめています。公式YouTube（すのちゅーぶ）の総本家更科堀井 本店（2025年3月）や龍朋（2024年12月）、『それSnow Manにやらせて下さい』の海鮮丼対決で訪れた三崎・沼津・銚子のお店、『旅するSnow Man』北海道編で9人がそろってラーメンを食べた苫小牧の味の大王 生粋などがあります。"
   - q: "東京でSnow Manの聖地巡礼ができるお店は？"
-    a: "123軒のうち62軒が東京です。港区（六本木・麻布・赤坂など）が10軒、渋谷区（恵比寿・表参道・渋谷など）が9軒、新宿区（早稲田・神楽坂など）が8軒、中央区（銀座など）が6軒です。浅草には、すのちゅーぶのおにぎり浅草宿六・浅草つる次郎 HANARE・浅草むぎとろ本店がまとまっています。"
+    a: "124軒のうち62軒が東京です。港区（六本木・麻布・赤坂など）が10軒、渋谷区（恵比寿・表参道・渋谷など）が9軒、新宿区（早稲田・神楽坂など）が8軒、中央区（銀座など）が6軒です。浅草には、すのちゅーぶのおにぎり浅草宿六・浅草つる次郎 HANARE・浅草むぎとろ本店がまとまっています。"
   - q: "Snow Manのメンバーが出演したドラマのロケ地のお店は？"
     a: "4軒あります。阿部亮平さんの『あなたを奪ったその日から』のCEDAR THE CHOP HOUSE＆BAR（六本木）、渡辺翔太さんの『なんで私が神説教』のひもの 炉端焼き 未蔵や（本所吾妻橋）、深澤辰哉さんの『誘拐の日』のRESTAURANT LUKE（築地・聖路加ガーデン）、佐久間大介さんの映画『ナイトフラワー』の中華麺舗 虎（武蔵新田）です。いずれも撮影に使われたお店です。"
   - q: "すのちゅーぶ（Snow Manの公式YouTube）で行ったお店は？"
@@ -160,12 +161,12 @@ faq:
   - q: "メンバーは何を注文していましたか？"
     a: "たとえば総本家更科堀井 本店（2025年3月）では岩本照さんがさらしなそば、ここのつ 3号店（2024年4月）では佐久間大介さんが特盛レバニラ重、ブレッツカフェ クレープリー 表参道店（2024年3月）では宮舘涼太さんがコンフィドカナールのガレットを注文しています。"
   - q: "Snow Manが行ったお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でSnow Manを選ぶと、この記事の123軒を含め、Snow Manに関連するお店を地図で見られます。"
+    a: "「お店を探す」でSnow Manを選ぶと、この記事の124軒を含め、Snow Manに関連するお店を地図で見られます。"
 pr: true
 techo: true
 cover_ids: "snowman-sarashina-horii-motoazabu,snowman-ryuho-kagurazaka,snowman-onigiri-asakusa-yadoroku"
 cover_title: "Snow Man 聖地巡礼帳"
-cover_sub: "すのちゅーぶ・それスノ・旅スノの123軒"
+cover_sub: "すのちゅーぶ・それスノ・旅スノの124軒"
 courses:
   - title: "雷門から浅草三丁目へ：すのちゅーぶの浅草"
     stops: [snowman-41d7688e-202604, snowman-tsurujiro-asakusa, snowman-onigiri-asakusa-yadoroku]
@@ -180,16 +181,16 @@ stay_inline: true
 
 <p><strong>岩本照・深澤辰哉・ラウール・渡辺翔太・向井康二・阿部亮平・目黒蓮・宮舘涼太・佐久間大介</strong>の9人のSnow Man。公式YouTubeチャンネル（すのちゅーぶ）では4人ほどでお店を訪ねる回がたびたび公開され、ジュニアCHANNEL時代の動画にもお店が登場します。</p>
 
-<p>冠番組の『それSnow Manにやらせて下さい』（それスノ）と『旅するSnow Man』（旅スノ）、メンバーが出演した番組やCM、そしてドラマ・映画のロケ地にもお店があります。この記事では<strong>123軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>冠番組の『それSnow Manにやらせて下さい』（それスノ）と『旅するSnow Man』（旅スノ）、メンバーが出演した番組やCM、そしてドラマ・映画のロケ地にもお店があります。この記事では<strong>124軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「Snow Man」（すのちゅーぶ）<small>47軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「それSnow Manにやらせて下さい」<small>35軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組「旅するSnow Man」<small>13軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>23軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>4軒</small></span></a><a href="#src6">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>1軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「Snow Man」（すのちゅーぶ）<small>47軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「それSnow Manにやらせて下さい」<small>35軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組「旅するSnow Man」<small>13軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>24軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>4軒</small></span></a><a href="#src6">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>1軒</small></span></a></div>
 </div>
 {% include matome-members.html group="snowman" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>123軒のなかから、東京で行きやすく、すのちゅーぶでメンバーが食べに行った回のお店を3つ選びました。</p>
+<p>124軒のなかから、東京で行きやすく、すのちゅーぶでメンバーが食べに行った回のお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="snowman-sarashina-horii-motoazabu" no="其の一" why="「創業200年の蕎麦屋さん」（2025年3月）の回。岩本照・深澤辰哉・宮舘涼太・佐久間大介の4人で訪れ、岩本照がさらしなそば、深澤辰哉が蛤そば、宮舘涼太と佐久間大介が鴨せいろを頼んでいます。お店は東京の麻布十番です。" %}
 {% include pick.html id="snowman-ryuho-kagurazaka" no="其の二" why="「街中華の名店で朝食」（2024年12月）の回。岩本照・阿部亮平・目黒蓮・宮舘涼太の4人で、目黒蓮がラーメン、宮舘涼太がチャーシュー麺、阿部亮平が肉野菜炒めを頼み、チャーハンの大も並びました。お店は東京の神楽坂です。" %}
@@ -202,7 +203,7 @@ stay_inline: true
 <ol class="stops">
   <li><a href="/shops/snowman-41d7688e-202604/"><b>雷門 浅草むぎとろ本店</b><span>台東区雷門／メンバー4人</span></a><small>次のお店まで直線で約0.1km</small></li>
   <li><a href="/shops/snowman-tsurujiro-asakusa/"><b>浅草 つる次郎 HANARE</b><span>台東区浅草／メンバー4人</span></a><small>次のお店まで直線で約0.9km</small></li>
-  <li><a href="/shops/snowman-onigiri-asakusa-yadoroku/"><b>浅草三丁目 おにぎり浅草宿六</b><span>台東区浅草／メンバー4人</span></a></li>
+  <li><a href="/shops/snowman-onigiri-asakusa-yadoroku/"><b>浅草三丁目 おにぎり浅草宿六</b><span>台東区浅草／メンバー7人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
@@ -370,7 +371,7 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="7efac0da" %}<span class="wr__k">2026.1</span><b class="wr__name">覚王山とんかつ わだ福</b><span class="wr__t">名古屋編／阿部亮平と櫻井翔さん／上ヒレ御膳（名古屋・覚王山）</span>{% include wr-close.html id="7efac0da" %}</li>
 </ul>
 
-<h3>トークィーンズ・ゴチになります・メシドラ</h3>
+<h3>トークィーンズ・ゴチになります</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="snowman-6dc19258-20260123" %}<span class="wr__k">2023.3</span><b class="wr__name">バビーズ ニューヨーク アークヒルズ</b><span class="wr__t">トークィーンズ／目黒蓮が事前インタビューを受けたレストラン（六本木一丁目）</span>{% include wr-close.html id="snowman-6dc19258-20260123" %}</li>
   <li class="wr">{% include wr-open.html id="snowman-factory-20251209" %}<span class="wr__k">2023.9</span><b class="wr__name">factory 渋谷</b><span class="wr__t">トークィーンズ／渡辺翔太が事前インタビューを受けたカフェ（渋谷）</span>{% include wr-close.html id="snowman-factory-20251209" %}</li>
@@ -378,8 +379,13 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="snowman-kihachi-20250128" %}<span class="wr__k">2025.1</span><b class="wr__name">KIHACHI 青山本店</b><span class="wr__t">トークィーンズのデート企画／宮舘涼太が事前取材をしたカフェレストラン（外苑前）</span>{% include wr-close.html id="snowman-kihachi-20250128" %}</li>
   <li class="wr">{% include wr-open.html id="snowman-de82a28d-20260124" %}<span class="wr__k">2024.2</span><b class="wr__name">日比谷パレス</b><span class="wr__t">ぐるぐるナインティナイン ゴチになります／渡辺翔太の出演回の舞台になったレストラン（日比谷公園）</span>{% include wr-close.html id="snowman-de82a28d-20260124" %}</li>
   <li class="wr">{% include wr-open.html id="snowman-the_apollo-20250709" %}<span class="wr__k">2025.7</span><b class="wr__name">THE APOLLO</b><span class="wr__t">ゴチになります／阿部亮平・佐久間大介の出演回の舞台になったギリシャ料理店。公式YouTube【ギリシャ料理を食べよう！】（2026年7月）でも深澤辰哉・ラウール・阿部亮平・佐久間大介が訪れた（銀座）</span>{% include wr-close.html id="snowman-the_apollo-20250709" %}</li>
-  <li class="wr">{% include wr-open.html id="snowman-8b324f1b-20250517" %}<span class="wr__k">2025.5</span><b class="wr__name">cafe2345</b><span class="wr__t">メシドラ 埼玉県三郷市編／渡辺翔太と兼近大樹さん・満島真之介さん／パンとアイスカフェオレ（三郷市）</span>{% include wr-close.html id="snowman-8b324f1b-20250517" %}</li>
+</ul>
+
+<h3>メシドラ</h3>
+<ul class="wrs">
+  <li class="wr">{% include wr-open.html id="meshidora-d78f4bad-20251102" %}<span class="wr__k">2025.11</span><b class="wr__name">長寿庵</b><span class="wr__t">メシドラ 千葉県市川市編／向井康二と兼近大樹さん・満島真之介さん／旅の最後に訪れた蕎麦店でそば（市川市）</span>{% include wr-close.html id="meshidora-d78f4bad-20251102" %}</li>
   <li class="wr">{% include wr-open.html id="snowman-0f821516-20251102" %}<span class="wr__k">2025.11</span><b class="wr__name">Caffè Nil</b><span class="wr__t">メシドラ 千葉県市川市編／向井康二と兼近大樹さん・満島真之介さん／利きコーヒー対決、クロワッサンサンド（行徳）</span>{% include wr-close.html id="snowman-0f821516-20251102" %}</li>
+  <li class="wr">{% include wr-open.html id="snowman-8b324f1b-20250517" %}<span class="wr__k">2025.5</span><b class="wr__name">cafe2345</b><span class="wr__t">メシドラ 埼玉県三郷市編／渡辺翔太と兼近大樹さん・満島真之介さん／パンとアイスカフェオレ（三郷市）</span>{% include wr-close.html id="snowman-8b324f1b-20250517" %}</li>
 </ul>
 
 <h3>ZIP!・ウワサのお客さま・帰れマンデー見っけ隊!!ほか</h3>
@@ -413,7 +419,7 @@ stay_inline: true
 <figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/timeline.svg" alt="Snow Manの聖地 年表（公式YouTubeの回）：2018年5月 JELLY JELLY CAFE 渋谷本店、10月 ケーキファクトリー・ホイップ、2019年2月 京都祇園 天ぷら圓堂、8月 6年4組渋谷分校、12月 パンダレストラン、2020年3月 Trattoria e Pizzeria De salita 赤坂、2023年7月 mipig cafe 目黒店、10月 立会川 吉田家とキッチン ぴーなっつ、11月 阿佐ヶ谷バードランド、12月 Rapace と Kitchen ROCCO、2024年はうなぎ川松からガレット・ラーメン・レバニラ・もんじゃ・洋食・おにぎり・スペイン料理・バル・龍朋までの10軒、2025年は伊勢屋食堂から総本家更科堀井・ナプレ・武蔵野アブラ學会・土鍋ご飯いくしか・羽田市場・やくぜんや・ふたご・GINZA SUSHI BANYA KAIまでの10軒、2026年は1月 俺の割烹 炉ばた 恵比寿、2月 帝國食堂、3月 ガスト、4月 浅草むぎとろ本店、5月 しゃぶ禅 神楽坂店と WeLoveDonut 神楽坂店" width="420" height="3946" loading="lazy" decoding="async"><figcaption>公式YouTube（すのちゅーぶ・ジュニアCHANNEL）で公開日が分かる回を、推しグルメ巡礼MAPのデータから並べました</figcaption></figure></details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事59軒、和食25軒、カフェ16軒、ラーメン7軒、中華5軒、スイーツ4軒、焼肉3軒、居酒屋3軒、その他1軒。場所は東京都の港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒、目黒区・千代田区4軒ずつ、台東区3軒ほか。東京の外は静岡県浜松市・埼玉県川越市が4軒ずつ、愛知県名古屋市・京都市・神奈川県三浦市・千葉県銚子市・宮城県仙台市が3軒ずつ、ほか北海道から沖縄県まで" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の123軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事59軒、和食26軒、カフェ16軒、ラーメン7軒、中華5軒、スイーツ4軒、焼肉3軒、居酒屋3軒、その他1軒。場所は東京都の港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒、目黒区・千代田区4軒ずつ、台東区3軒ほか。東京の外は静岡県浜松市・埼玉県川越市が4軒ずつ、愛知県名古屋市・京都市・神奈川県三浦市・千葉県銚子市・宮城県仙台市が3軒ずつ、ほか北海道から沖縄県まで" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の124軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>Snow Manの公式YouTubeチャンネルから、ジャンルの違う4本を選びました（タップすると再生します）。</p>
@@ -425,7 +431,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒など。23区の外は埼玉県9軒、神奈川県8軒、千葉県8軒、東京の市部・島5軒、そのほかの道府県36軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒など。23区の外は埼玉県9軒、千葉県9軒、神奈川県8軒、東京の市部・島5軒、そのほかの道府県36軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>浅草</strong>：おにぎり浅草宿六・浅草つる次郎 HANARE（浅草駅 徒歩4分）・浅草むぎとろ本店（浅草駅 徒歩1〜3分）。すのちゅーぶの3つの回がまとまっています。隅田川の向こうの本所吾妻橋には、ドラマのロケ地のひもの 炉端焼き 未蔵や。</li>
@@ -440,7 +446,7 @@ stay_inline: true
 
 <div class="pf-cta">
   <p>Snow Manのお店を、地図でぜんぶ見る</p>
-  <span>この記事の123軒のほかにも、Snow Manに関連するお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の124軒のほかにも、Snow Manに関連するお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=snowman&amp;view=map">地図でSnow Manのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.snowman.u }}">Snow Manのお店一覧（グループのページ）</a>もどうぞ。</p>
