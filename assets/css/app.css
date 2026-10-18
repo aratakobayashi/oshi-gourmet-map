@@ -1017,3 +1017,10 @@ a.badge { min-height: 32px; }
 .stops a b::after { content: " ›"; }
 .stops a span { display: block; font-size: 13px; color: var(--ink-2); }
 .stops small { display: block; margin-top: 6px; font-size: 12.5px; color: var(--ink-2); }
+/* 番組まとめ（トークで紹介した店）の「ゲストで選ぶ」: 人数が多いので閉じておく */
+.mnav--many { --g: var(--pc, var(--accent)); }
+.mnav--many > summary { cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 0; }
+.mnav--many > summary::-webkit-details-marker { display: none; }
+.mnav--many > summary::after { content: "開く ＋"; flex: none; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line-strong); font-size: 12.5px; font-weight: 700; }
+.mnav--many[open] > summary::after { content: "閉じる －"; }
+.mnav--many .mnav__list { margin-top: 12px; }

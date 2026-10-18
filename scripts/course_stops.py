@@ -30,7 +30,8 @@ def place(s):
     rest = a.replace(s.get('prefecture') or '', '', 1).replace(s.get('city') or '', '', 1)
     town = re.split(r'[0-9０-９]', rest)[0].strip()
     m = re.match(r'([0-9０-９]+)', rest[len(town):].strip())
-    chome = f'{int(m.group(1))}丁目' if m and re.match(r'[0-9０-９]+[-－‐丁]', rest[len(town):].strip()) else ''
+    # 「31-5」のような番地を丁目と取り違えないよう、10以上は丁目とみなさない
+    chome = f'{int(m.group(1))}丁目' if m and int(m.group(1)) < 10 and re.match(r'[0-9０-９]+[-－‐丁]', rest[len(town):].strip()) else ''
     pre = '' if s.get('prefecture') == '東京都' else (s.get('prefecture') or '')
     return f'{pre}{s.get("city") or ""}{town}{chome}'
 
