@@ -84,9 +84,9 @@ stay_inline: true
 <p>昼は【中丸のグルメ】の豊洲 千客万来、夜は新橋で猪狩蒼弥と訪れた2軒のどちらかへ。千客万来の最寄りの市場前駅から新橋駅までは、ゆりかもめで乗り換えなしです。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/ginga-24823ef5-202406/"><b>豊洲 千客万来</b><span>江東区豊洲6丁目／中丸雄一</span></a><small>次へ：市場前→新橋はゆりかもめで乗り換えなし（直線で約3.4km）</small></li>
-  <li><a href="/shops/ginga-44b85f76-202403/"><b>京都 瓢嘻（新橋）</b><span>港区新橋1丁目／中丸雄一</span></a><small>次のお店まで直線で約0.3km</small></li>
-  <li><a href="/shops/ginga-cb38ce4c-202406/"><b>和食いぶり別邸 新橋店</b><span>港区新橋3丁目／中丸雄一</span></a></li>
+  <li><a href="/shops/ginga-24823ef5-202406/"><b>豊洲 千客万来</b><span>江東区豊洲／中丸雄一</span></a><small>次へ：市場前→新橋はゆりかもめで乗り換えなし（直線で約3.4km）</small></li>
+  <li><a href="/shops/ginga-44b85f76-202403/"><b>京都 瓢嘻（新橋）</b><span>港区新橋／中丸雄一</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/ginga-cb38ce4c-202406/"><b>和食いぶり別邸 新橋店</b><span>港区新橋／中丸雄一</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

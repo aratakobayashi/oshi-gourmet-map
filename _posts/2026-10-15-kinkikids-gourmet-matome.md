@@ -117,9 +117,9 @@ stay_inline: true
 <p>築地場外のカレーとフィッシュバーガー、永瀬廉との沖縄料理、ももいろクローバーZとの焼肉。『ブンブブーン』のロケのお店を、南から北へたどります。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/kinkikids-33db77e2/"><b>築地場外（魚政・東印度カレー商会）</b><span>中央区築地4丁目／堂本光一・堂本剛</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.7km）</small></li>
-  <li><a href="/shops/42b487cd/"><b>日本橋堀留町 くわっちー家</b><span>中央区日本橋堀留町1丁目／堂本光一・堂本剛</span></a><small>次のお店まで直線で約2.3km</small></li>
-  <li><a href="/shops/kinkikids-tokyo-3/"><b>上野 TOKYO焼肉ごぉ 3号店</b><span>台東区上野2丁目／堂本光一・堂本剛</span></a></li>
+  <li><a href="/shops/kinkikids-33db77e2/"><b>築地場外（魚政・東印度カレー商会）</b><span>中央区築地／堂本光一・堂本剛</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.7km）</small></li>
+  <li><a href="/shops/42b487cd/"><b>日本橋堀留町 くわっちー家</b><span>中央区日本橋堀留町／堂本光一・堂本剛</span></a><small>次のお店まで直線で約2.3km</small></li>
+  <li><a href="/shops/kinkikids-tokyo-3/"><b>上野 TOKYO焼肉ごぉ 3号店</b><span>台東区上野／堂本光一・堂本剛</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

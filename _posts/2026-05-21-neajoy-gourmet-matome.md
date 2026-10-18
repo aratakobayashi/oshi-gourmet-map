@@ -93,9 +93,9 @@ stay_inline: true
 <p>「ニアジョイらーめん部」の2軒と、4人が食べ放題に挑んだ串カツのお店です。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/neajoy-6ad11682-202604/"><b>水道橋 北ノ醤油チーホー</b><span>千代田区神田三崎町2丁目／江角怜音・大信田美月</span></a><small>次のお店まで直線で約2.4km</small></li>
-  <li><a href="/shops/neajoy-9c15ea70-202510/"><b>東京駅 みそきん</b><span>千代田区丸の内1丁目／江角怜音・大信田美月</span></a><small>次へ：東京→有楽町はJR山手線で1駅（直線で約0.6km）</small></li>
-  <li><a href="/shops/neajoy-9538e782-202510/"><b>有楽町 串カツ田中</b><span>千代田区丸の内3丁目／メンバー4人</span></a></li>
+  <li><a href="/shops/neajoy-6ad11682-202604/"><b>水道橋 北ノ醤油チーホー</b><span>千代田区神田三崎町／江角怜音・大信田美月</span></a><small>次のお店まで直線で約2.4km</small></li>
+  <li><a href="/shops/neajoy-9c15ea70-202510/"><b>東京駅 みそきん</b><span>千代田区丸の内／江角怜音・大信田美月</span></a><small>次へ：東京→有楽町はJR山手線で1駅（直線で約0.6km）</small></li>
+  <li><a href="/shops/neajoy-9538e782-202510/"><b>有楽町 串カツ田中</b><span>千代田区丸の内／メンバー4人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

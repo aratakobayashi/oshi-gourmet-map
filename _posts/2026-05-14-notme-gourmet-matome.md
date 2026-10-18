@@ -104,8 +104,8 @@ stay_inline: true
 <p>尾木波菜と河口夏音のかき氷の回（2024年11月）と、谷崎早耶と本田珠由記のサンリオカフェの回（2023年3月）のお店です。どちらも豊島区にあります。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/notme-304ed516-202411/"><b>巣鴨 かき氷工房 雪菓</b><span>豊島区巣鴨3丁目／尾木波菜・河口夏音</span></a><small>次へ：巣鴨→池袋はJR山手線で2駅（直線で約1.9km）</small></li>
-  <li><a href="/shops/notme-sanrio-cafe-202408/"><b>池袋 SANRIO CAFE</b><span>豊島区東池袋1丁目／谷崎早耶・本田珠由記</span></a></li>
+  <li><a href="/shops/notme-304ed516-202411/"><b>巣鴨 かき氷工房 雪菓</b><span>豊島区巣鴨／尾木波菜・河口夏音</span></a><small>次へ：巣鴨→池袋はJR山手線で2駅（直線で約1.9km）</small></li>
+  <li><a href="/shops/notme-sanrio-cafe-202408/"><b>池袋 SANRIO CAFE</b><span>豊島区東池袋／谷崎早耶・本田珠由記</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

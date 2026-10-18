@@ -152,10 +152,10 @@ stay_inline: true
 <p>当時の4人の朝ごはんの回のお店が、九段下から秋葉原までの間に4軒並んでいます。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/yonino-tokyo-ajifurai/"><b>九段下 トーキョーアジフライ</b><span>千代田区九段南3丁目／メンバー4人</span></a><small>次へ：九段下→神保町は半蔵門線・都営新宿線で1駅（直線で約0.8km）</small></li>
-  <li><a href="/shops/yonino-nagisa-shokudo/"><b>神保町 なぎさ食堂</b><span>千代田区神田三崎町2丁目／メンバー4人</span></a><small>次へ：神保町→小川町（淡路町）は都営新宿線で1駅（直線で約1.0km）</small></li>
-  <li><a href="/shops/yonino-chuka-juhachiban-kanda/"><b>淡路町 中華料理 十八番</b><span>千代田区内神田2丁目／メンバー4人</span></a><small>次のお店まで直線で約0.7km</small></li>
-  <li><a href="/shops/yonino-kaligari-akihabara/"><b>秋葉原 カリガリ</b><span>千代田区外神田3丁目／二宮和也・山田涼介・菊池風磨</span></a></li>
+  <li><a href="/shops/yonino-tokyo-ajifurai/"><b>九段下 トーキョーアジフライ</b><span>千代田区九段南／メンバー4人</span></a><small>次へ：九段下→神保町は半蔵門線・都営新宿線で1駅（直線で約0.8km）</small></li>
+  <li><a href="/shops/yonino-nagisa-shokudo/"><b>神保町 なぎさ食堂</b><span>千代田区神田三崎町／メンバー4人</span></a><small>次へ：神保町→小川町（淡路町）は都営新宿線で1駅（直線で約1.0km）</small></li>
+  <li><a href="/shops/yonino-chuka-juhachiban-kanda/"><b>淡路町 中華料理 十八番</b><span>千代田区内神田／メンバー4人</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/yonino-kaligari-akihabara/"><b>秋葉原 カリガリ</b><span>千代田区外神田／二宮和也・山田涼介・菊池風磨</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

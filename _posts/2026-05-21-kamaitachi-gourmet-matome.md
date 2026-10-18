@@ -96,9 +96,9 @@ stay_inline: true
 <p>『かまいまち』の上野編で紹介された3軒は、上野駅の東側から新御徒町にかけて、直線でおよそ1km以内に並んでいます。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/9d85a687/"><b>もつ焼き けいすけ（東上野）</b><span>台東区東上野3丁目／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.1km</small></li>
-  <li><a href="/shops/50d01f75/"><b>やきとり 虎の子（東上野）</b><span>台東区東上野2丁目／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.7km</small></li>
-  <li><a href="/shops/kamaitachi-a10db015/"><b>パーバーン（小島）</b><span>台東区小島2丁目／山内健司・濱家隆一</span></a></li>
+  <li><a href="/shops/9d85a687/"><b>もつ焼き けいすけ（東上野）</b><span>台東区東上野／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/50d01f75/"><b>やきとり 虎の子（東上野）</b><span>台東区東上野／山内健司・濱家隆一</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/kamaitachi-a10db015/"><b>パーバーン（小島）</b><span>台東区小島／山内健司・濱家隆一</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

@@ -120,10 +120,10 @@ stay_inline: true
 <p>朝ごはんのおでん定食から、被っちゃダメよグルメの高級中華、大食いのしゃぶしゃぶ、デビュー1周年の焼肉会まで。Aぇちゅ〜ぶの4軒が、麻布十番・六本木・西麻布にまとまっています。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/agroup-e9ea8a92-20240716/"><b>麻布十番 福島屋</b><span>港区麻布十番2丁目／メンバー5人</span></a><small>次のお店まで直線で約0.7km</small></li>
-  <li><a href="/shops/agroup-9098e43b/"><b>六本木 賛田飯店</b><span>港区六本木5丁目／メンバー5人</span></a><small>次のお店まで直線で約0.5km</small></li>
-  <li><a href="/shops/agroup-f9963b8f/"><b>六本木 温野菜</b><span>港区六本木7丁目／メンバー4人</span></a><small>次のお店まで直線で約0.4km</small></li>
-  <li><a href="/shops/agroup-94c8ca88/"><b>西麻布 牛牛</b><span>港区西麻布1丁目／メンバー5人</span></a></li>
+  <li><a href="/shops/agroup-e9ea8a92-20240716/"><b>麻布十番 福島屋</b><span>港区麻布十番／メンバー5人</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/agroup-9098e43b/"><b>六本木 賛田飯店</b><span>港区六本木／メンバー5人</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/agroup-f9963b8f/"><b>六本木 温野菜</b><span>港区六本木／メンバー4人</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/agroup-94c8ca88/"><b>西麻布 牛牛</b><span>港区西麻布／メンバー5人</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->

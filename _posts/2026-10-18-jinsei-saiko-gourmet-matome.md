@@ -817,8 +817,8 @@ shop_ids:
 <p>渋谷の道玄坂と宇田川町には、別々のゲストが紹介したお店が近くに集まっています。尾野真千子・戸塚純貴・ハナコが紹介した3軒を、駅に近い順にたどります。</p>
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/jinsei-saiko-89832590-20210515/"><b>道玄坂ハイボール</b><span>渋谷区道玄坂2丁目／尾野真千子</span></a><small>次のお店まで直線で約0.2km</small></li>
-  <li><a href="/shops/jinsei-saiko-40524e3a-20240907/"><b>とりかつチキン</b><span>渋谷区道玄坂2丁目／戸塚純貴</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/jinsei-saiko-89832590-20210515/"><b>道玄坂ハイボール</b><span>渋谷区道玄坂／尾野真千子</span></a><small>次のお店まで直線で約0.2km</small></li>
+  <li><a href="/shops/jinsei-saiko-40524e3a-20240907/"><b>とりかつチキン</b><span>渋谷区道玄坂／戸塚純貴</span></a><small>次のお店まで直線で約0.3km</small></li>
   <li><a href="/shops/jinsei-saiko-8afffe90-20211127/"><b>兆楽</b><span>渋谷区宇田川町／菊田竜大・秋山寛貴・岡部大</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
