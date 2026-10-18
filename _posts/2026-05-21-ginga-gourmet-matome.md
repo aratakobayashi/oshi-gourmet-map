@@ -82,7 +82,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：豊洲から新橋へ</h2>
 <p>昼は【中丸のグルメ】の豊洲 千客万来、夜は新橋で猪狩蒼弥と訪れた2軒のどちらかへ。千客万来の最寄りの市場前駅から新橋駅までは、ゆりかもめで乗り換えなしです。</p>
-<figure class="fig course"><img src="/assets/img/posts/ginga-gourmet-matome/course-1.svg" alt="豊洲から新橋へのコース図。1 豊洲の豊洲 千客万来、2 北西の新橋の京都 瓢嘻（市場前駅から新橋駅までゆりかもめで乗り換えなし）、3 すぐ近くの和食いぶり別邸 新橋店" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/ginga-24823ef5-202406/"><b>豊洲 千客万来</b><span>江東区豊洲6丁目／中丸雄一</span></a><small>次へ：市場前→新橋はゆりかもめで乗り換えなし（直線で約3.4km）</small></li>
+  <li><a href="/shops/ginga-44b85f76-202403/"><b>京都 瓢嘻（新橋）</b><span>港区新橋1丁目／中丸雄一</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/ginga-cb38ce4c-202406/"><b>和食いぶり別邸 新橋店</b><span>港区新橋3丁目／中丸雄一</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 
 <div class="pf-quote"><p>【中丸のグルメ】の5本のうち3本が、高知・長崎・鹿児島への旅の回です。東京の回は豊洲の千客万来と新大久保のスイーツ。猪狩蒼弥との2本はどちらも新橋の和食のお店で、会席を頼んでいます。お店のある回は、2024年2月から7月までに公開されたものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
@@ -143,7 +150,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/map.svg" alt="中丸銀河ちゃんねるのお店のうち東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/ginga-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、新宿区3軒、港区2軒、江東区1軒、渋谷区1軒、目黒区1軒など。23区の外はそのほかの道府県3軒" width="420" height="538" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>新大久保</strong>：大久堂 OKUDO カフェ・スタジオカフェ MARU（どちらも新大久保駅 徒歩3分）。同じ回の2軒です。</li>

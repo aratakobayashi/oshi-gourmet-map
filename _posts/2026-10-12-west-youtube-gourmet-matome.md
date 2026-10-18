@@ -264,7 +264,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：新大久保の3軒</h2>
 <p>KAMI Sweets#003のタピオカの2D Cafe、7人の回のテーハンミングとKAMI SweetsのCAFE iNが入る大久保1丁目の建物、『イキスギさんについてった』の焼きそばの回の山西亭まで。順に回ると、点と点のあいだはまっすぐ結んで300〜500mほどです。</p>
-<figure class="fig course"><img src="/assets/img/posts/west-youtube-gourmet-matome/course-1.svg" alt="新大久保のコース図。1 百人町1丁目の2D Cafe 新大久保店（KAMI Sweets#003）、2 大久保1丁目の同じ建物のテーハンミング（7人の回）とCAFE iN（KAMI Sweets#002）、3 大久保2丁目の山西亭（イキスギさんについてった 中間淳太の焼きそばの回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/west-1f9d5a10-20240805/"><b>2D Cafe 新大久保店</b><span>新宿区百人町1丁目／神山智洋</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/west-b244f3a1-20260212/"><b>大久保1丁目（テーハンミング・CAFE iN）</b><span>新宿区大久保1丁目／メンバー7人</span></a><small>次のお店まで直線で約0.5km</small></li>
+  <li><a href="/shops/west-e547e60d/"><b>山西亭（大久保2丁目）</b><span>新宿区大久保2丁目／中間淳太</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>『イキスギさんについてった』は、メンバーひとりが常連さんについて行く番組なので、同じ回のお店が同じ街にまとまっています。小瀧望の横浜中華街の回は9軒、郡山ブラックの回は5軒、中間淳太の「激辛、どう？」Part3は港区芝2丁目の3軒です。『リア突WEST』は28軒のうち21軒が香港・ベトナム・フィジー・タイ。公式YouTubeは東京の居酒屋と喫茶店が中心で、ジャンルでは全体の75軒が「食事」、カフェ26軒、居酒屋24軒、中華20軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -564,7 +571,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら：まずは東京</h2>
-<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/map.svg" alt="WEST.が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/west-youtube-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区16軒、新宿区16軒、渋谷区13軒、中央区9軒、台東区9軒など。23区の外は神奈川県17軒、千葉県5軒、埼玉県3軒、東京の市部・島2軒、そのほかの道府県49軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>番組名は「イキスギ」（イキスギさんについてった）・「リア突」（リア突WEST）と略しています。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>新大久保・新宿・高田馬場・早稲田（新宿区・9軒）</strong>：大久保1丁目12番の同じ建物に、KAMI SweetsのCAFE iN（2階）と7人の回のテーハンミング（1階）。KAMI SweetsのOKUDO（新大久保駅 徒歩2分）・2D Cafe 新大久保店（百人町1丁目）、イキスギの山西亭（大久保2丁目）。新宿ではKAMI Sweetsのcois espresso club（新宿1丁目）とイキスギのKatsuプリポー（歌舞伎町1丁目）。シューイチの角煮丼屋 くろしろ（高田馬場3丁目）、イキスギのメルシー（早稲田駅 徒歩2分）。</li>

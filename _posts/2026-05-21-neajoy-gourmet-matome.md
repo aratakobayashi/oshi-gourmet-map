@@ -91,7 +91,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：水道橋から東京駅・有楽町へ</h2>
 <p>「ニアジョイらーめん部」の2軒と、4人が食べ放題に挑んだ串カツのお店です。</p>
-<figure class="fig course"><img src="/assets/img/posts/neajoy-gourmet-matome/course-1.svg" alt="水道橋から東京駅・有楽町へのコース図。1 水道橋の北ノ醤油チーホー、2 東京駅のみそきん（1から直線で約2.4km）、3 有楽町の串カツ田中 有楽町店（東京からJR山手線で1駅。直線で約0.6km）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/neajoy-6ad11682-202604/"><b>水道橋 北ノ醤油チーホー</b><span>千代田区神田三崎町2丁目／江角怜音・大信田美月</span></a><small>次のお店まで直線で約2.4km</small></li>
+  <li><a href="/shops/neajoy-9c15ea70-202510/"><b>東京駅 みそきん</b><span>千代田区丸の内1丁目／江角怜音・大信田美月</span></a><small>次へ：東京→有楽町はJR山手線で1駅（直線で約0.6km）</small></li>
+  <li><a href="/shops/neajoy-9538e782-202510/"><b>有楽町 串カツ田中</b><span>千代田区丸の内3丁目／メンバー4人</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>ラーメンの回は5本すべてに大信田美月が出ていて、一緒に食べるメンバーは山田杏佳・山野愛月・天野香乃愛・江角怜音と替わります。2025年10月のみそきんの回にはヒカキン、2026年4月の北ノ醤油チーホーの回にはSUSURUが登場します。旅の回は箱根と岡崎で、どちらも1本の動画で3軒に立ち寄っています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -166,7 +173,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/neajoy-gourmet-matome/map.svg" alt="≒JOYが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/neajoy-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、千代田区3軒、台東区3軒、中野区1軒、目黒区1軒、渋谷区1軒など。23区の外は神奈川県5軒、そのほかの道府県4軒" width="420" height="570" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>東京駅・有楽町・水道橋</strong>：みそきん（東京駅 徒歩1分）、串カツ田中 有楽町店（有楽町駅 徒歩3分）、北ノ醤油チーホー（水道橋駅 徒歩3分）。</li>

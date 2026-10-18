@@ -225,7 +225,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：丸の内から築地へ</h2>
 <p>髙橋海人がふぐを食べた丸ビルから、永瀬廉が働いた有楽町の吉野家、まかないハンターの銀座、髙橋海人が働いた築地銀だこまで。『キントレ』の4つの回のお店が、東京駅から築地のあいだに並んでいます。</p>
-<figure class="fig course"><img src="/assets/img/posts/kingprince-gourmet-matome/course-1.svg" alt="丸の内から築地へのコース図。1 丸ビルの臼杵ふぐ 山田屋 丸の内、2 吉野家 有楽町店、3 銀座3丁目のGINZA ABCラーメンとEL CHATEO 銀座店、4 築地銀だこ 本店（銀座駅から日比谷線で2駅の築地駅の近く）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/kingprince-a5f71e02/"><b>丸ビル 臼杵ふぐ 山田屋</b><span>千代田区丸の内2丁目／髙橋海人</span></a><small>次のお店まで直線で約0.8km</small></li>
+  <li><a href="/shops/kingprince-70f61cc7/"><b>吉野家 有楽町店</b><span>千代田区有楽町2丁目／永瀬廉</span></a><small>次のお店まで直線で約0.3km</small></li>
+  <li><a href="/shops/kingprince-ginza-abc/"><b>銀座3丁目 ABCラーメン・EL CHATEO</b><span>中央区銀座3丁目／永瀬廉</span></a><small>次へ：銀座駅→築地駅は日比谷線で2駅（直線で約0.9km）</small></li>
+  <li><a href="/shops/kingprince-f30d7811/"><b>築地銀だこ 本店</b><span>中央区築地4丁目／髙橋海人</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の42軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -483,7 +491,7 @@ stay_inline: true
 <figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他64軒、食事29軒、カフェ22軒、和食12軒、居酒屋8軒、スイーツ6軒、ラーメン4軒、焼肉・中華2軒ずつ。場所は渋谷区14軒、港区12軒、品川区11軒、中央区10軒、千代田区9軒、大阪市9軒、目黒区6軒、大津市5軒、藤沢市・大田区・台東区・新宿区4軒ずつ、秩父市・南アルプス市・船橋市3軒ずつ、ほかは2軒以下の市区町村" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の149軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら：まずは東京（88軒）</h2>
-<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/map.svg" alt="King & Princeが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区14軒、港区12軒、品川区11軒、中央区10軒、千代田区9軒など。23区の外は神奈川県14軒、千葉県6軒、東京の市部・島6軒、埼玉県4軒、そのほかの道府県37軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>「当たり前レストラン」のお店は、メンバーが行ったお店ではなく、料理がスタジオに出たお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・築地・日本橋（12軒）</strong>：キントレのまかないハンターのGINZA ABCラーメン（銀座3丁目）とEL CHATEO 銀座店（銀座駅 徒歩3分）、バイトレの吉野家 有楽町店と築地銀だこ 本店（築地市場駅 徒歩6分）、ブンブブーンのくわっち〜家（日本橋堀留町）。当たり前レストランのフレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Andhra Dining GINZA（銀座一丁目駅 徒歩3分）・チャオタイ 銀座店・ブラッスリー ポール・ボキューズ 銀座・ラ・ベットラ・ダ・オチアイ・88（有楽町1丁目）・富錦樹台菜香檳（日本橋室町）。</li>

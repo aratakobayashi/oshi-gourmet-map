@@ -173,7 +173,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：高円寺のはしご酒をたどる</h2>
 <p>諸橋沙夏の「【はしご酒】高円寺で飲むお酒がとにかく最高すぎました」（2024年12月）に出てくる、高円寺駅のまわりの3軒です。</p>
-<figure class="fig course"><img src="/assets/img/posts/equallove-gourmet-matome/course-1.svg" alt="高円寺のはしご酒のコース図。1 高円寺駅の南のやきとん長良、2 高円寺駅の南東のまんまじぃま（1から直線で約0.7km）、3 高円寺駅の北のあちらぼ（2から直線で約0.6km）。合わせて直線で約1.2km" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/equal-love-bd15bb1d-202412/"><b>やきとん長良</b><span>杉並区高円寺南3丁目／諸橋沙夏</span></a><small>次のお店まで直線で約0.7km</small></li>
+  <li><a href="/shops/equal-love-17396234-202412/"><b>まんまじぃま</b><span>杉並区高円寺南4丁目／諸橋沙夏</span></a><small>次のお店まで直線で約0.6km</small></li>
+  <li><a href="/shops/equal-love-a9d4d24e-202412/"><b>あちらぼ</b><span>杉並区高円寺北3丁目／諸橋沙夏</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>公式チャンネルの49軒は、2人組の旅や食べ歩きと、諸橋沙夏の「はしご酒」が中心です。鎌倉の食べ歩きは1本で6軒、宮島の旅（イコラブのあんまい）も6軒と、1本の動画で何軒もまわる回が多くあります。大谷映美里の個人チャンネルの38軒のうち10軒はラーメンで、「ラー活」の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -374,7 +381,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/map.svg" alt="=LOVEが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区10軒、台東区6軒、新宿区5軒、杉並区4軒、港区4軒など。23区の外は神奈川県13軒、東京の市部・島3軒、千葉県1軒、埼玉県1軒、そのほかの道府県35軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>高円寺</strong>：やきとん長良（高円寺駅 徒歩1分）・あちらぼ・まんまじぃま（高円寺駅 徒歩5分）。串カツ玩具-GANG-は南阿佐ケ谷駅 徒歩1分です。</li>

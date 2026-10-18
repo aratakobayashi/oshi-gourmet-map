@@ -198,7 +198,15 @@ stay_inline: true
 
 <h2>半日で巡るなら：銀座から東京駅へ</h2>
 <p>「どっち派！？」の長尾謙杜・藤原丈一郎・大橋和也の回のお店と、「なんでやねん！」で藤原丈一郎が訪れた東京駅の駅ナカのお店。銀座から有楽町、東京駅まで、4軒がまとまっています。</p>
-<figure class="fig course"><img src="/assets/img/posts/naniwa-gourmet-matome/course-1.svg" alt="銀座から東京駅へのコース図。1 銀座7丁目の銀座朝食ラボ（長尾謙杜）、2 銀座4丁目の喫茶 アメリカン（藤原丈一郎）、3 有楽町のジョリッティカフェ（大橋和也）、4 東京駅 グランスタ東京の東京ギョーザ スタンド ウーロン（藤原丈一郎。有楽町からJR山手線で1駅）" width="420" height="620" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/naniwa-376379fa-20230505/"><b>銀座朝食ラボ（銀座7丁目）</b><span>中央区銀座7丁目／長尾謙杜</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/naniwa-9d3720a8/"><b>喫茶 アメリカン（銀座4丁目）</b><span>中央区銀座4丁目／藤原丈一郎</span></a><small>次のお店まで直線で約0.4km</small></li>
+  <li><a href="/shops/naniwa-1d6e8883-20230602/"><b>ジョリッティカフェ（有楽町）</b><span>千代田区有楽町2丁目／大橋和也</span></a><small>次へ：有楽町→東京はJR山手線で1駅（直線で約0.6km）</small></li>
+  <li><a href="/shops/naniwa-a9a20a89-20220520/"><b>ギョーザ スタンド ウーロン（東京駅）</b><span>千代田区丸の内1丁目／藤原丈一郎</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>「どっち派！？」は、1回の放送でひとりのメンバーが2〜6軒を回る回が多くあります。同じ回のお店は同じ街や沿線にまとまっていることが多く、2026年3月の道枝駿佑の回は6軒すべてが熱海市、2025年3月の大西流星の回は神田に2軒、2023年10月の西畑大吾の回は谷中・浅草・芝公園・府中のお寺や古民家のカフェでした。推しの回をひとつ選んで、そのまま巡るのがおすすめです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -417,7 +425,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら：まずは東京（90軒）</h2>
-<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/map.svg" alt="なにわ男子が行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/naniwa-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区11軒、渋谷区10軒、新宿区10軒、千代田区9軒、中央区7軒など。23区の外は東京の市部・島9軒、埼玉県5軒、神奈川県4軒、千葉県3軒、そのほかの道府県18軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・有楽町・新橋・汐留（8軒）</strong>：喫茶 アメリカン（銀座駅 徒歩1分）・銀座朝食ラボ（東銀座駅 徒歩6分）・むぎとオリーブ（銀座駅 徒歩1分）・銀座 創龍（銀座6丁目）・ウミノイロ（移転の情報あり）・ジョリッティカフェ（有楽町マルイ）・はるちゃんラーメン（新橋駅 徒歩2分）・萬鉄（カレッタ汐留）。</li>

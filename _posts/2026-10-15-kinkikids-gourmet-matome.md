@@ -115,7 +115,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：築地から日本橋堀留町、上野へ</h2>
 <p>築地場外のカレーとフィッシュバーガー、永瀬廉との沖縄料理、ももいろクローバーZとの焼肉。『ブンブブーン』のロケのお店を、南から北へたどります。</p>
-<figure class="fig course"><img src="/assets/img/posts/kinkikids-gourmet-matome/course-1.svg" alt="築地から上野へのコース図。1 築地場外の東印度カレー商会 築地場外店（となりに築地 魚政）、2 日本橋堀留町のくわっちー家（築地から人形町へは日比谷線で3駅）、3 上野のTOKYO焼肉ごぉ 3号店" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/kinkikids-33db77e2/"><b>築地場外（魚政・東印度カレー商会）</b><span>中央区築地4丁目／堂本光一・堂本剛</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.7km）</small></li>
+  <li><a href="/shops/42b487cd/"><b>日本橋堀留町 くわっちー家</b><span>中央区日本橋堀留町1丁目／堂本光一・堂本剛</span></a><small>次のお店まで直線で約2.3km</small></li>
+  <li><a href="/shops/kinkikids-tokyo-3/"><b>上野 TOKYO焼肉ごぉ 3号店</b><span>台東区上野2丁目／堂本光一・堂本剛</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>『ブンブブーン』のロケは、1回の放送で同じ街の2軒を回る回が多く、築地場外の2軒、奥渋谷の2軒、川越の2軒のように近くにまとまっています。一方でスタジオに料理が出た企画のお店は、高知・北海道・岐阜・静岡・大阪など全国に散らばっています。堂本剛が出演した番組のお店は、6軒のうち5軒が大阪・奈良のお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -206,7 +213,7 @@ stay_inline: true
 <figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事12軒、和食8軒、スイーツ7軒、焼肉4軒、カフェ3軒、中華2軒、居酒屋1軒、その他1軒。東京都内は中央区8軒、千代田区4軒、港区4軒、渋谷区3軒、台東区・豊島区・新宿区が1軒ずつ。東京の外は高知県4軒、大阪府4軒、奈良県2軒、埼玉県2軒、北海道・岐阜県・静岡県・山形県が1軒ずつ" width="420" height="762" loading="lazy" decoding="async"><figcaption>この記事の38軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/map.svg" alt="この記事に載っているKinKi Kidsの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kinkikids-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、中央区8軒、千代田区4軒、港区4軒、渋谷区3軒、台東区1軒など。23区の外は埼玉県2軒、そのほかの道府県14軒" width="420" height="570" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>築地</strong>：築地 魚政 Tsukiji Fish Burger MASA と東印度カレー商会 築地場外店（どちらも築地市場駅 徒歩5分）。ももいろクローバーZとの築地グルメ企画の2軒です。</li>

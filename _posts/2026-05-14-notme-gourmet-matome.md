@@ -102,7 +102,13 @@ stay_inline: true
 
 <h2>半日で巡るなら：巣鴨から池袋へ</h2>
 <p>尾木波菜と河口夏音のかき氷の回（2024年11月）と、谷崎早耶と本田珠由記のサンリオカフェの回（2023年3月）のお店です。どちらも豊島区にあります。</p>
-<figure class="fig course"><img src="/assets/img/posts/notme-gourmet-matome/course-1.svg" alt="巣鴨から池袋へのコース図。1 巣鴨のかき氷工房 雪菓、2 池袋のSANRIO CAFE 池袋店（巣鴨からJR山手線で2駅。直線で約1.9km）" width="420" height="524" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/notme-304ed516-202411/"><b>巣鴨 かき氷工房 雪菓</b><span>豊島区巣鴨3丁目／尾木波菜・河口夏音</span></a><small>次へ：巣鴨→池袋はJR山手線で2駅（直線で約1.9km）</small></li>
+  <li><a href="/shops/notme-sanrio-cafe-202408/"><b>池袋 SANRIO CAFE</b><span>豊島区東池袋1丁目／谷崎早耶・本田珠由記</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>公式チャンネルの22軒は、2〜4人で出かける旅と食べ歩きの回が中心です。熱海には、2023年1月の公式チャンネルの熱海旅と、2024年11月の鈴木瞳美のVlogの2回分のお店があり、どちらの回にも熱海駅前の商店街のお店が出てきます。「わたしはすずき。」の9軒のうち7軒は、沖縄と熱海の旅のVlogのお店です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -187,7 +193,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/notme-gourmet-matome/map.svg" alt="≠MEが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/notme-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、豊島区3軒、中央区2軒、渋谷区2軒、世田谷区1軒、新宿区1軒など。23区の外は千葉県2軒、神奈川県1軒、そのほかの道府県18軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>巣鴨・池袋</strong>：かき氷工房 雪菓（巣鴨駅 徒歩4分）、SANRIO CAFE 池袋店（池袋駅 徒歩5分）、焼肉トラジ 池袋東口店（都電雑司ヶ谷駅 徒歩5分）。</li>

@@ -132,7 +132,7 @@ cover_sub: "日向坂ちゃんねる・せっかくグルメ・特典映像の13
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/map.svg" alt="日向坂46の東京のお店（番組で紹介したお店を含む）を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/hinatazaka46-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、杉並区1軒、豊島区1軒、渋谷区1軒、新宿区1軒など。23区の外は東京の市部・島3軒、千葉県3軒、埼玉県1軒、そのほかの道府県2軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>地図には番組で紹介したお店も点で入っていますが、下の一覧には入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>原宿</strong>：「日向の休日」の東村芽依の回のストロベリーマニア原宿店（渋谷区神宮前）。</li>

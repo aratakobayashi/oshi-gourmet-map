@@ -150,7 +150,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：築地から人形町、亀戸へ</h2>
 <p>はじめての3軒を、朝ごはんの築地から順に。築地と人形町は日比谷線でつながっています。</p>
-<figure class="fig course"><img src="/assets/img/posts/heysayjump-gourmet-matome/course-1.svg" alt="築地から亀戸へのコース図。1 築地本願寺カフェ Tsumugi、2 人形町の玉英堂 彦九郎（築地から日比谷線で3駅）、3 亀戸餃子" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/heysayjump-tsumugi/"><b>築地本願寺カフェ Tsumugi</b><span>中央区築地3丁目／伊野尾慧</span></a><small>次へ：築地→人形町は日比谷線で3駅（直線で約2.5km）</small></li>
+  <li><a href="/shops/069d6a42/"><b>人形町 玉英堂 彦九郎</b><span>中央区日本橋人形町2丁目／八乙女光・中島裕翔</span></a><small>次のお店まで直線で約4.1km</small></li>
+  <li><a href="/shops/heysayjump-d5f50b8f-20180908/"><b>亀戸餃子</b><span>江東区亀戸／山田涼介・八乙女光</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>冠番組の55軒は、2015〜2019年の放送回のお店です。2016年までは都内のデカ盛りや高級ランチの調査、2018年からは伊豆箱根・房総・川越へ出かける回が増えます。出演番組の15軒は、どれも伊野尾慧が出た回のものです。冠番組には2人1組でお店をまわる回もあり、川越特集では伊野尾慧・髙木雄也の組と、薮宏太・山田涼介の組に分かれています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -316,7 +323,7 @@ stay_inline: true
 <figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事32軒、カフェ12軒、スイーツ9軒、和食8軒、その他5軒、中華4軒、ラーメン3軒、焼肉2軒、居酒屋1軒。場所は埼玉県川越市15軒、東京都中央区12軒、渋谷区・新宿区8軒ずつ、港区7軒、豊島区4軒、目黒区3軒、千代田区2軒、静岡県伊東市2軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の76軒を数えました（ジャンルはこのサイトの分類）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/map.svg" alt="Hey! Say! JUMPの東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>お店の位置を点で打ったイラスト（目安）。地図の外のお店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/heysayjump-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、中央区12軒、渋谷区8軒、新宿区8軒、港区7軒、豊島区4軒など。23区の外は埼玉県15軒、千葉県3軒、神奈川県3軒、東京の市部・島1軒、そのほかの道府県6軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>銀座・築地・人形町</strong>：銀熊茶寮・Sun-mi 高松本店 EMU・中華料理 蘭州（どれも銀座駅 徒歩1分）、パセラリゾーツ 銀座店、『メレンゲの気持ち』の孔家飯店（銀座8丁目）、「超くい亭」の4軒（てんぷら阿部 銀座本店・BLTステーキ 銀座・東京銀座フォワグラ・銀座 楼蘭）。築地には築地本願寺カフェ Tsumugi（築地市場駅 徒歩6分）、人形町には玉英堂 彦九郎。</li>

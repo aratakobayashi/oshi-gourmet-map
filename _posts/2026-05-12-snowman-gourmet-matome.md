@@ -198,7 +198,14 @@ stay_inline: true
 
 <h2>半日で巡るなら：雷門から浅草三丁目へ</h2>
 <p>浅草には、すのちゅーぶで訪れたお店が3軒あります。雷門近くのむぎとろ、もんじゃのつる次郎 HANARE、そして浅草三丁目のおにぎり屋さんへ。</p>
-<figure class="fig course"><img src="/assets/img/posts/snowman-gourmet-matome/course-1.svg" alt="雷門から浅草三丁目へのコース図。1 雷門の浅草むぎとろ本店（2026年4月の回）、2 浅草の浅草つる次郎 HANARE（2024年5月の回）、3 浅草三丁目のおにぎり浅草宿六（2024年9月の回）" width="420" height="572" loading="lazy" decoding="async"><figcaption>手描き風の図（点の向きと距離の比は実際どおり）。営業日は各お店の公式情報で確かめてください</figcaption></figure>
+<!-- stops:1 -->
+<ol class="stops">
+  <li><a href="/shops/snowman-41d7688e-202604/"><b>雷門 浅草むぎとろ本店</b><span>台東区雷門2丁目／メンバー4人</span></a><small>次のお店まで直線で約0.1km</small></li>
+  <li><a href="/shops/snowman-tsurujiro-asakusa/"><b>浅草 つる次郎 HANARE</b><span>台東区浅草1丁目／メンバー4人</span></a><small>次のお店まで直線で約0.9km</small></li>
+  <li><a href="/shops/snowman-onigiri-asakusa-yadoroku/"><b>浅草三丁目 おにぎり浅草宿六</b><span>台東区浅草3丁目／メンバー4人</span></a></li>
+</ol>
+<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
+<!-- /stops -->
 
 <div class="pf-quote"><p>出典ごとに、お店の登場のしかたがはっきり違います。すのちゅーぶは東京のお店に4人ほどで行く回が中心で、蕎麦・定食・ガレット・油そばと毎回ジャンルが変わります。それスノは三崎・沼津・銚子の海鮮丼や、浜松と宇都宮の餃子のように、チームに分かれて同じ料理を食べ比べる企画が多く、旅スノは2人ずつで各地を巡る旅の途中のお店です。注文したものが分かるお店は、メンバーごとに載せました。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
@@ -418,7 +425,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/map.svg" alt="Snow Manが行った東京のお店を、山手線の輪を目印にした地図のイラストに点で打った図" width="420" height="542" loading="lazy" decoding="async"><figcaption>推しグルメ巡礼MAPのお店の座標から作ったイラスト（目安）。地図の外の店は数だけ</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/snowman-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区10軒、渋谷区9軒、新宿区8軒、中央区6軒、世田谷区5軒など。23区の外は埼玉県9軒、神奈川県8軒、千葉県8軒、東京の市部・島5軒、そのほかの道府県36軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>浅草</strong>：おにぎり浅草宿六・浅草つる次郎 HANARE（浅草駅 徒歩4分）・浅草むぎとろ本店（浅草駅 徒歩1〜3分）。すのちゅーぶの3つの回がまとまっています。隅田川の向こうの本所吾妻橋には、ドラマのロケ地のひもの 炉端焼き 未蔵や。</li>
