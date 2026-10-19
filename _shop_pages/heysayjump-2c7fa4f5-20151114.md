@@ -11,6 +11,7 @@ address: "東京都渋谷区道玄坂2-6-2 B1"
 nearest_station: "渋谷駅 徒歩2分"
 visited_date: "2015-11-14"
 source_video_title: "2015.11.14/11.21 大盛りグルメ特集"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13283525/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000797448/"
@@ -28,4 +29,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "ナポリタン星人盛り全部のせ"
 ---

@@ -12,8 +12,10 @@ nearest_station: "外苑前駅 徒歩4分"
 visited_date: "2025-03-16"
 youtube_id: "suj-8ZxTzY0"
 source_video_title: "#405【考察!!】意外と経理がちゃんと考えていた日"
+source_url: "https://kosodate-and.net/yonino-ninofuma-cafe/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13280352/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/suj-8ZxTzY0/hqdefault.jpg"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
@@ -31,4 +33,5 @@ tags:
 ordered_items:
   - "アイスコーヒー"
   - "アイスラテ(ブレンド)"
+  - "アイスラテ"
 ---

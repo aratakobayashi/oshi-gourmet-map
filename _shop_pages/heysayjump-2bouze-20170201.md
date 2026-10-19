@@ -11,6 +11,7 @@ address: "千葉県船橋市本町5-7-2 1F"
 nearest_station: "京成船橋駅 徒歩18分"
 visited_date: "2017-02-01"
 source_video_title: "2017.02.01/02.08 女子会向けスイーツ特集"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/chiba/A1202/A120201/12022832/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000821407/"
@@ -28,4 +29,6 @@ members:
   - "知念侑李"
 groups:
   - "heysayjump"
+ordered_items:
+  - "スーパーマンモス クレームブリュレ"
 ---

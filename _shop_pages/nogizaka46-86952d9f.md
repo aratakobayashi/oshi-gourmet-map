@@ -11,6 +11,7 @@ address: "台東区谷中５丁目２−５"
 youtube_id: "4OMxuO4OtGU"
 source_video_title: "【さくさんぽ】遠藤さくらが谷中銀座をぶらり散歩！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=4OMxuO4OtGU"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-endosakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13101340/"
 visit_kind: "youtube"
@@ -21,4 +22,6 @@ members:
   - "遠藤さくら"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "団子"
 ---

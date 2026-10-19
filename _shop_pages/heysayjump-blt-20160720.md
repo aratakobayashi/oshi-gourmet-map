@@ -11,6 +11,7 @@ address: "東京都中央区銀座5丁目4-6"
 nearest_station: "東銀座駅 徒歩2分"
 visited_date: "2016-07-20"
 source_video_title: "2016.07.20 グルメ探偵調査"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13181490/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -23,4 +24,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "プレミアム・リブアイステーキ(300g)"
 ---

@@ -12,8 +12,10 @@ nearest_station: "赤坂見附駅徒歩4分"
 visited_date: "2026-02-01"
 youtube_id: "EhAzZAITxIU"
 source_video_title: "#498【初じゃない!!】二宮くんを送ろう！の日"
+source_url: "https://kosodate-and.net/yonino-akasaka-cafe/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13261009/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/EhAzZAITxIU/hqdefault.jpg"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
@@ -24,4 +26,7 @@ members:
   - "菊池風磨"
 groups:
   - "yonino"
+ordered_items:
+  - "アイスコーヒー"
+  - "アイスカフェラテ"
 ---

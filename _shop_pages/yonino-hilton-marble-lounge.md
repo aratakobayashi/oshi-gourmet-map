@@ -12,6 +12,7 @@ nearest_station: "東京都西新宿駅から徒歩5分"
 visited_date: "2025-07-13"
 youtube_id: "br-iF9GUpIE"
 source_video_title: "#439【セレブ!!】ホテルブッヘった日"
+source_url: "https://kosodate-and.net/yonino-buffet-hotel/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13172872/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000606633/"
@@ -35,4 +36,5 @@ ordered_items:
   - "中華をメインに数品"
   - "グリルチキンをメインに数品"
   - "カレーをメインに数品"
+  - "サマーランチビュッフェ"
 ---

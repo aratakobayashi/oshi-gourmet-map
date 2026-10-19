@@ -13,8 +13,10 @@ visited_date: "2023-09-03"
 youtube_id: "rdf_IJ0K9AU"
 source_video_title: "#268【朝食シリーズ!!】静かに朝を迎える事が出来た日"
 source_video_url: "https://www.youtube.com/watch?v=rdf_IJ0K9AU"
+source_url: "https://kosodate-and.net/jyanino-asagohan-osoba/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131710/13046262/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
 lat: 35.631
@@ -29,4 +31,9 @@ tags:
   - "そば"
   - "居酒屋"
   - "武蔵小山"
+ordered_items:
+  - "九条葱の豚つけせいろ"
+  - "ごまだれそば"
+  - "まぜそば"
+  - "天ぷらの盛り合わせ（小）"
 ---

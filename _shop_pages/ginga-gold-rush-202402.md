@@ -12,8 +12,10 @@ nearest_station: "東新宿駅 徒歩5分"
 visited_date: "2024-02-17"
 youtube_id: "MLNgRc3a61M"
 source_video_title: "ジェシー＆髙地優吾×中丸雄一【実はシャイボーイ...ジェシー】KAT-TUNとSixTONESの似てるとこ違うとこ"
+source_url: "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg/"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13271105/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "中丸銀河ちゃんねる"
 lat: 35.696554
@@ -25,4 +27,5 @@ groups:
 ordered_items:
   - "トリプルチーズハンバーグ"
   - "アップル？"
+  - "目玉焼きトッピング（ジェシー）"
 ---

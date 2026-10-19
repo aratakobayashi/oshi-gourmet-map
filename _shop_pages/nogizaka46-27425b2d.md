@@ -9,6 +9,7 @@ prefecture: "北海道"
 city: "小樽市"
 address: "北海道小樽市堺町２−２２"
 source_video_title: "乃木坂、逃避行。"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-hokkaidou/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0106/A010601/1040569/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/eDWUqJ5MLzyE3S59MpNiWxaqQfA.jpg"
@@ -21,4 +22,9 @@ members:
   - "梅澤美波"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "あん肝"
+  - "じゃがバター"
+  - "ホタテバター"
+  - "寿司（ウニ・大トロ・えんがわ・えび）"
 ---

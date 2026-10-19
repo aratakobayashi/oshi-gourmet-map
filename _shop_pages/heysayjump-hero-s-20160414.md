@@ -11,6 +11,7 @@ address: "東京都千代田区外神田1-6-7 秋葉原センタービル1F"
 nearest_station: "末広町駅 徒歩3分"
 visited_date: "2016-04-14"
 source_video_title: "2016.04.14 春の大盛りグルメ"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131002/13049711/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001066911/"
@@ -28,4 +29,6 @@ members:
   - "岡本圭人"
 groups:
   - "heysayjump"
+ordered_items:
+  - "3ポンドチャックステーキ"
 ---

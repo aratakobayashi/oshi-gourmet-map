@@ -12,9 +12,12 @@ nearest_station: "中野駅 徒歩3分"
 visited_date: "2025-12-03"
 youtube_id: "0EUU9_553aM"
 source_video_title: "#480【朝食!!】朝ラーだよな、、、の日"
+source_url: "https://kosodate-and.net/yonino-ichiran-ramen/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131902/13201776/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/0EUU9_553aM/hqdefault.jpg"
+seating_note: "一蘭の個別席 4〜6番（二宮6・山田5・菊池4）"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
 lat: 35.707266
@@ -30,4 +33,7 @@ tags:
   - "とんこつ"
   - "中野"
   - "一人飯"
+ordered_items:
+  - "ラーメン"
+  - "半替玉"
 ---

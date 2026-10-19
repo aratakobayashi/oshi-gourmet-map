@@ -13,8 +13,10 @@ visited_date: "2022-10-16"
 youtube_id: "uZ7a37YzWBo"
 source_video_title: "#170【ジャにのの夏！】運動してご飯食べたら動けなくなった日"
 source_video_url: "https://www.youtube.com/watch?v=uZ7a37YzWBo"
+source_url: "https://kosodate-and.net/jyanino-okutama-soba/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1330/A133003/13067142/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/uZ7a37YzWBo/hqdefault.jpg"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
@@ -29,4 +31,12 @@ groups:
 tags:
   - "そば"
   - "青梅"
+ordered_items:
+  - "生ゆばのお刺身"
+  - "みそ田楽"
+  - "焼きしいたけ"
+  - "鴨串焼き"
+  - "鴨せいろそば"
+  - "ちからうどん 納豆トッピング"
+  - "天せいろそば"
 ---

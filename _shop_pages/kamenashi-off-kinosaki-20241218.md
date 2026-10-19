@@ -12,6 +12,7 @@ nearest_station: "城崎温泉駅 徒歩9分"
 visited_date: "2024-12-18"
 youtube_id: "10CFRaEzqS8"
 source_video_title: "【密着】MAQUIAの撮影裏側。高級カニを贅沢に食べたり豪華フルーツ盛りを頂いたり。"
+source_url: "https://fananablog.com/kamenashiyoutube-seichi/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/hyogo/A2808/A280801/28052279/"
 thumbnail_url: "https://img.youtube.com/vi/10CFRaEzqS8/hqdefault.jpg"
@@ -23,4 +24,11 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "するめいか、赤大根、アスパラ菜カルパッチョ"
+  - "有機グリーンサラダと鰹タタキ"
+  - "但馬のきのこと蓮根ロースト"
+  - "白子とカリフラワー、小野芋グラタン"
+  - "ステーキ"
+  - "タコとブロッコリーのパスタ"
 ---

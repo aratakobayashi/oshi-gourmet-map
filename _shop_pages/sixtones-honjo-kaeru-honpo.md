@@ -13,6 +13,7 @@ visited_date: "2019-02-08"
 youtube_id: "_vywZByqAdw"
 source_video_title: "SixTONES【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!"
 source_video_url: "https://www.youtube.com/watch?v=_vywZByqAdw"
+source_url: "https://fananablog.com/sixtones-seichi-youtube-2019/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131201/13126861/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000234919/"
@@ -37,4 +38,8 @@ tags:
   - "両国"
   - "下町"
   - "聖地巡礼"
+ordered_items:
+  - "アメリカンもんじゃ"
+  - "イタリアンもんじゃ"
+  - "メガもんじゃ（駄菓子入り）"
 ---

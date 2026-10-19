@@ -12,9 +12,12 @@ nearest_station: "内幸町駅 徒歩3分"
 visited_date: "2025-08-27"
 youtube_id: "sDxdoLUksaY"
 source_video_title: "#452【飯!!】山田様の奢りの日"
+source_url: "https://kosodate-and.net/yonino-yamada-unagiya/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13250032/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/sDxdoLUksaY/hqdefault.jpg"
+seating_note: "個室「八ヶ岳」"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
 lat: 35.669996
@@ -30,4 +33,7 @@ tags:
   - "有楽町"
   - "日比谷"
   - "名古屋発"
+ordered_items:
+  - "特上うな重"
+  - "肝入り特上うな重"
 ---

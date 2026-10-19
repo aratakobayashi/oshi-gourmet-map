@@ -10,8 +10,10 @@ city: "川越市"
 address: "埼玉県川越市"
 visited_date: "2018-11-24"
 source_video_title: "2018.11.24 川越特集後編"
+source_url: "https://medax.hatenablog.com/entry/hijump"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11003518/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 source_type: "tv"
 visit_kind: "own_tv"
@@ -23,4 +25,6 @@ members:
   - "山田涼介"
 groups:
   - "heysayjump"
+ordered_items:
+  - "おからドーナツ"
 ---

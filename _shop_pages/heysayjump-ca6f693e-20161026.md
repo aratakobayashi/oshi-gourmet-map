@@ -11,6 +11,7 @@ address: "神奈川県横浜市神奈川区鶴屋町2-13-11 7F"
 nearest_station: "三ツ沢下町駅 徒歩9分"
 visited_date: "2016-10-26"
 source_video_title: "2016.10.26 秋のバスツアーおすすめグルメ"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140101/14013332/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -25,4 +26,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "冷やしおでん"
 ---

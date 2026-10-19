@@ -13,6 +13,7 @@ visited_date: "2023-09-04"
 youtube_id: "BJSR_WwjQJ8"
 source_video_title: "ライブ翌日に岩手グルメ食べに行ってみた！【焼肉・カツ丼】"
 source_video_url: "https://www.youtube.com/watch?v=BJSR_WwjQJ8"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-tohoku/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/iwate/A0303/A030301/3004228/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000271881/"
@@ -27,4 +28,6 @@ members:
   - "佐藤璃果"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "おすすめランチセット"
 ---

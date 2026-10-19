@@ -12,6 +12,7 @@ nearest_station: "代官山駅 徒歩8分"
 visited_date: "2025-01-26"
 youtube_id: "Q2GrO9mPWIc"
 source_video_title: "#391 【ドライブ!!】経理がゴネにゴネた日"
+source_url: "https://kosodate-and.net/yonino-nino-starbucks/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13231942/"
 thumbnail_url: "https://img.youtube.com/vi/Q2GrO9mPWIc/hqdefault.jpg"
@@ -29,4 +30,8 @@ tags:
   - "カフェ"
   - "中目黒"
   - "スターバックス"
+ordered_items:
+  - "アイスコーヒー コールドブリュー（東京ロースタリー マイクロブレンド）"
+  - "アイスコーヒー コールドブリュー（エチオピア）"
+  - "アイスカフェラテ"
 ---

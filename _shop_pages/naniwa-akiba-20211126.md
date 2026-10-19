@@ -11,8 +11,10 @@ address: "東京都千代田区神田花岡町１−１ ヨドバシAkiba1F"
 nearest_station: "秋葉原駅 徒歩1分"
 visited_date: "2021-11-26"
 source_video_title: " チキンバーガー専門店が急増してるのなんでやねん！を解明"
+source_url: "https://www.chiicrane-life.fun/mezamashi2021-11-26/"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131001/13264291/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 source_type: "tv"
 visit_kind: "guest_tv"
@@ -23,4 +25,6 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+ordered_items:
+  - "ハイカラオリジナルチキンバーガー"
 ---

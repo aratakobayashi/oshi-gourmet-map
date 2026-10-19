@@ -11,6 +11,7 @@ address: "北海道札幌市北区北２４条西2-1-13"
 youtube_id: "PSHF11EVgkU"
 source_video_title: "北海道ライブを終えて美味しいご飯食べに行ってみた！【北海道で海鮮】"
 source_video_url: "https://www.youtube.com/watch?v=PSHF11EVgkU"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-hokkaidou/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010201/1056041/"
 visit_kind: "youtube"
@@ -22,4 +23,7 @@ members:
   - "菅原咲月"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "生トロサーモンネギトロ丼"
+  - "海鮮ねばねばユッケ丼"
 ---

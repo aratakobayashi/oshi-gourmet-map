@@ -11,6 +11,7 @@ address: "東京都目黒区緑が丘2-15-14"
 nearest_station: "緑が丘駅 徒歩1分"
 visited_date: "2016-10-26"
 source_video_title: "2016.10.26 秋のバスツアーおすすめグルメ"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130702/13209965/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -25,4 +26,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "レインボーカラーベーグル"
 ---

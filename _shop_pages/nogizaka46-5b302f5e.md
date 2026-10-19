@@ -12,6 +12,7 @@ nearest_station: "千駄木駅 徒歩4分"
 youtube_id: "4OMxuO4OtGU"
 source_video_title: "【さくさんぽ】遠藤さくらが谷中銀座をぶらり散歩！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=4OMxuO4OtGU"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-endosakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131106/13103773/"
 visit_kind: "youtube"
@@ -22,4 +23,6 @@ members:
   - "遠藤さくら"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "チーズ棒"
 ---

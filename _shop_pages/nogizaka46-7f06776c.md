@@ -10,6 +10,7 @@ city: "鎌倉市"
 address: "鎌倉市小町2-12-27"
 nearest_station: "鎌倉駅 徒歩10分"
 source_video_title: "乃木坂工事中"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-kanagawa-kamakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14049147/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
@@ -23,4 +24,8 @@ members:
   - "秋元真夏"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "今川焼（厚切ベーコンチーズ）"
+  - "今川焼（紫いも）"
+  - "今川焼（粒あんクリームチーズ）"
 ---

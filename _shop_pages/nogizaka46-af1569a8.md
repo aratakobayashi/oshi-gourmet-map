@@ -12,6 +12,7 @@ nearest_station: "新大阪駅 徒歩11分"
 youtube_id: "ik2ZQuP2L7E"
 source_video_title: "大阪でのライブ前日に美味しいご飯食べに行ってみた！【イタリアン・たこ焼き】"
 source_video_url: "https://www.youtube.com/watch?v=ik2ZQuP2L7E"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-osaka/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270301/27001878/"
 visit_kind: "youtube"
@@ -24,4 +25,6 @@ members:
   - "中村麗乃"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "たこ焼き（ソースマヨネーズ・塩・出汁）"
 ---

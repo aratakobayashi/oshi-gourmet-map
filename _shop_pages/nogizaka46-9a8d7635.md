@@ -9,6 +9,7 @@ prefecture: "栃木県"
 city: "足利市"
 address: "足利市家富町2247"
 source_video_title: "おいでシャンプー　白石個人PV"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-tochigi-ashikaga/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tochigi/A0902/A090202/9006270/"
 visit_kind: "drama"
@@ -19,4 +20,6 @@ members:
   - "白石麻衣"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "もんじゃ"
 ---

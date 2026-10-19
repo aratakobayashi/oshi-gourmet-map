@@ -12,6 +12,7 @@ visited_date: "2019-11-23"
 youtube_id: "kDFP1_FLpJc"
 source_video_title: "SixTONES - Kyoto Drive Vol.2"
 source_video_url: "https://www.youtube.com/watch?v=jW-C_vG3R6o"
+source_url: "https://fananablog.com/sixtones-seichi-youtube-2019/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260302/26026465/"
 thumbnail_url: "https://img.youtube.com/vi/kDFP1_FLpJc/hqdefault.jpg"
@@ -28,4 +29,7 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+ordered_items:
+  - "手をけ弁当"
+  - "ひとしな"
 ---

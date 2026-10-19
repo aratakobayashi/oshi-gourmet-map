@@ -11,6 +11,7 @@ address: "東京都江東区亀戸"
 nearest_station: "亀戸駅 徒歩1分"
 visited_date: "2018-09-08"
 source_video_title: "2018.09.08 グルメ探偵調査"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1312/A131202/13003078/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -24,4 +25,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "焼き餃子"
 ---

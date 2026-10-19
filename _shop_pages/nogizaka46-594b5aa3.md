@@ -10,6 +10,7 @@ city: "高知市"
 address: "高知県高知市帯屋町２丁目３−１"
 nearest_station: "大橋通駅 徒歩2分"
 source_video_title: "シンクロニシティ特典映像"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-shikoku/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kochi/A3901/A390101/39006303/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001233529/"
@@ -24,4 +25,9 @@ members:
   - "新内眞衣"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "焼きナスアイス"
+  - "いちごアイス"
+  - "ミレーアイス"
+  - "餃子"
 ---

@@ -12,6 +12,7 @@ nearest_station: "田吉駅 徒歩14分"
 visited_date: "2024-04-06"
 youtube_id: "fqUI15scR4o"
 source_video_title: "【激辛⁉】亀梨和也、宮崎で真っ赤な辛麺を食べる。"
+source_url: "https://fananablog.com/kamenashiyoutube-seichi/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/miyazaki/A4501/A450101/45008630/"
 hotpepper_url: "https://www.hotpepper.jp/strJ001159336/"
@@ -25,4 +26,8 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "なんこつ"
+  - "元祖辛麺（こんにゃく麺・8辛）"
+  - "トッピング 卵・ニンニク・ニラ"
 ---

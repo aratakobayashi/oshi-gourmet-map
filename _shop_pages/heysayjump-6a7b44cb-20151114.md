@@ -10,6 +10,7 @@ city: "柏市"
 address: "千葉県柏市旭町1-5-4 プラザパスカ B1"
 visited_date: "2015-11-14"
 source_video_title: "2015.11.14/11.21 大盛りグルメ特集"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/chiba/A1201/A120102/12007098/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -25,4 +26,7 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "若鶏のから揚げ大バカ盛り"
+  - "コーラ バカジョッキ"
 ---

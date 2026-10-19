@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市小町1-5-7"
 nearest_station: "鎌倉駅 徒歩2分"
 youtube_id: "tHRvTFcsGF4"
 source_video_title: "乃木坂46 『地球が丸いなら』Short Ver."
+source_url: "https://tsuredure-nogi-blog.com/rokechi-kanagawa-kamakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14002091/"
 thumbnail_url: "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg"
@@ -25,4 +26,6 @@ members:
   - "大園桃子"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "ホットケーキ"
 ---
