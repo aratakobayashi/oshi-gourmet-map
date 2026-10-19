@@ -137,28 +137,28 @@ stay_inline: true
 
 <h3>被っちゃダメよグルメ・グルメ企画</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="agroup-9098e43b-" %}<span class="wr__k">2024.11</span><b class="wr__name">賛田飯店</b><span class="wr__t">【被っちゃダメよグルメ~高級中華編】神に選ばれし才能…キラー末澤降臨／5人（港区 六本木）</span>{% include wr-close.html id="agroup-9098e43b-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-9098e43b-" %}<span class="wr__k">2024.11</span><b class="wr__name">賛田飯店</b><span class="wr__t">【被っちゃダメよグルメ~高級中華編】神に選ばれし才能…キラー末澤降臨／5人（港区 六本木）</span><span class="wr__more"><span class="wr__oi">頼んだ物：小籠包・春巻き</span></span>{% include wr-close.html id="agroup-9098e43b-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-tokyo-" %}<span class="wr__k">2024.12</span><b class="wr__name">熟成和牛焼肉エイジング・ビーフ TOKYO 新宿三丁目店</b><span class="wr__t">【利き焼肉で奇跡が起こる】神の舌を持つ男がいた／5人が部位の食べ比べに挑戦（新宿区 新宿三丁目）</span>{% include wr-close.html id="agroup-tokyo-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-2311fee7-20251230" %}<span class="wr__k">2025.12</span><b class="wr__name">バーミヤン 神宮前店</b><span class="wr__t">【新グルメ企画】最安値のメニューを見破れ！／4人／五目焼きそば（渋谷区 神宮前）</span>{% include wr-close.html id="agroup-2311fee7-20251230" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-4286393c-20260127" %}<span class="wr__k">2026.1</span><b class="wr__name">ガスト 世田谷代田店</b><span class="wr__t">【大人気企画！被っちゃダメよグルメ～ファミレス編～】2026年は新キラー室登場!?／4人と室龍太／山盛りポテトフライ、コーンのオーブン焼き、炙り生ハムのカプレーゼ、マルゲリータピザ、うな重、チーズONチーズINハンバーグ、アサイーヨーグルトボウル、ガトーショコラ（世田谷区 代田）</span>{% include wr-close.html id="agroup-4286393c-20260127" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-kan-" %}<span class="wr__k">2026.5</span><b class="wr__name">角打ち KAN（カン）</b><span class="wr__t">【被っちゃダメよグルメ〜おでん編】被りの天才・キラー末澤が暴れまくった…／4人と西村拓哉（Lil かんさい）（港区 虎ノ門ヒルズ）</span>{% include wr-close.html id="agroup-kan-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-kan-" %}<span class="wr__k">2026.5</span><b class="wr__name">角打ち KAN（カン）</b><span class="wr__t">【被っちゃダメよグルメ〜おでん編】被りの天才・キラー末澤が暴れまくった…／4人と西村拓哉（Lil かんさい）（港区 虎ノ門ヒルズ）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ちくわぶ・大根・玉ねぎのさつま揚げ</span></span>{% include wr-close.html id="agroup-kan-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-3febac8c-20260901" %}<span class="wr__k">2026.9</span><b class="wr__name">ジョナサン 武蔵小山店</b><span class="wr__t">【超超超SPゲスト登場】被っちゃダメよで史上初の奇跡が!?／4人と井ノ原快彦／ビーフシチューオムライス＋海老フライ、モッツァレラのマルゲリータ、タンドリーチキン＆メキシカンピラフ＋目玉焼き、カレー南蛮うどん、背徳のけずりバターパンケーキ、フルゴロ焼きたてりんごパイ（品川区 荏原）</span>{% include wr-close.html id="agroup-3febac8c-20260901" %}</li>
 </ul>
 
 <h3>大食い企画：回転寿司・飲茶・しゃぶしゃぶ</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="agroup-9166e516-20240820" %}<span class="wr__k">2024.8</span><b class="wr__name">回転寿しトリトン 手稲店</b><span class="wr__t">【北海道の絶品回転寿司を食べ尽くせ】初の大食い企画は楽勝／5人／まぐろづくし、天然数の子、生サーモン、茶碗蒸し、一本ぼたんえび（札幌市手稲区）</span>{% include wr-close.html id="agroup-9166e516-20240820" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-fb86a768-" %}<span class="wr__k">2025.4</span><b class="wr__name">横浜中華街 皇朝レストラン （コウチョウレストラン）</b><span class="wr__t">【中華料理で大食いリベンジ】まさかの３品でお腹一杯／5人が飲茶・点心の人気ベスト30に挑戦（横浜中華街）</span>{% include wr-close.html id="agroup-fb86a768-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-fb86a768-" %}<span class="wr__k">2025.4</span><b class="wr__name">横浜中華街 皇朝レストラン （コウチョウレストラン）</b><span class="wr__t">【中華料理で大食いリベンジ】まさかの３品でお腹一杯／5人が飲茶・点心の人気ベスト30に挑戦（横浜中華街）</span><span class="wr__more"><span class="wr__seat">席：撮影で使った席（混雑時以外は写真撮影用に開放）</span></span>{% include wr-close.html id="agroup-fb86a768-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-9a0d678e-" %}<span class="wr__k">2026.3</span><b class="wr__name">回転寿司みさき 渋谷東口店</b><span class="wr__t">【リベンジリベンジ…回転寿司大食い】超大物ゲスト参戦で成功します？／4人とWEST.の小瀧望（渋谷区 渋谷）</span>{% include wr-close.html id="agroup-9a0d678e-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-f9963b8f-" %}<span class="wr__k">2026.4</span><b class="wr__name">しゃぶしゃぶ温野菜 六本木店</b><span class="wr__t">【大食い遂に成功!?】末澤覚醒!?しゃぶしゃぶは空気なんで…笑／4人がしゃぶしゃぶ60皿に挑戦（港区 六本木）</span>{% include wr-close.html id="agroup-f9963b8f-" %}</li>
 </ul>
 
 <h3>朝メシ・打ち上げ・記念の回</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="agroup-e9ea8a92-20240716" %}<span class="wr__k">2024.7</span><b class="wr__name">おでん・自家製さつま揚げ 福島屋</b><span class="wr__t">【朝食で撮れ高を作れ】なんの企画もなしで…成立する？／5人／The福島屋定食、しゅうまい定食、牛すじ味噌おでん定食、昔おでん定食ほか（港区 麻布十番）</span>{% include wr-close.html id="agroup-e9ea8a92-20240716" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-dbc26720-20240331" %}<span class="wr__k">2024.9</span><b class="wr__name">北海しゃぶしゃぶ すすきの本店</b><span class="wr__t">【正門さんゴチになります】デビューツアーの裏話や夢を語る…エモ打ち上げ／札幌公演の打ち上げで、正門良規が4人にラムしゃぶをごちそう（札幌市中央区 すすきの）</span>{% include wr-close.html id="agroup-dbc26720-20240331" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-e9ea8a92-20240716" %}<span class="wr__k">2024.7</span><b class="wr__name">おでん・自家製さつま揚げ 福島屋</b><span class="wr__t">【朝食で撮れ高を作れ】なんの企画もなしで…成立する？／5人／The福島屋定食、しゅうまい定食、牛すじ味噌おでん定食、昔おでん定食ほか（港区 麻布十番）</span><span class="wr__more"><span class="wr__oi">頼んだ物：おでんポテサラ・やみつき塩キャベツ・冷たいっ手羽</span></span>{% include wr-close.html id="agroup-e9ea8a92-20240716" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-dbc26720-20240331" %}<span class="wr__k">2024.9</span><b class="wr__name">北海しゃぶしゃぶ すすきの本店</b><span class="wr__t">【正門さんゴチになります】デビューツアーの裏話や夢を語る…エモ打ち上げ／札幌公演の打ち上げで、正門良規が4人にラムしゃぶをごちそう（札幌市中央区 すすきの）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ラムしゃぶ・カニしゃぶ付きの超高級コース・アスパラのバター焼き・じゃがいもバター</span></span>{% include wr-close.html id="agroup-dbc26720-20240331" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-1605675e-20241112" %}<span class="wr__k">2024.11</span><b class="wr__name">浅草もんじゃ てっぱん大吉</b><span class="wr__t">【リベンジ企画】朝メシでもんじゃ／5人／コーンバター、いかげそバター、浅草のりもんじゃ、明太子・納豆・ネギもんじゃ、ホルモンやきそば（台東区 浅草）</span>{% include wr-close.html id="agroup-1605675e-20241112" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-94c8ca88-" %}<span class="wr__k">2025.5</span><b class="wr__name">牛牛 西麻布 総本店（ぎゅうぎゅう）</b><span class="wr__t">【デビュー１周年記念】5人だけの焼肉会／5人（港区 西麻布）</span>{% include wr-close.html id="agroup-94c8ca88-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-94c8ca88-" %}<span class="wr__k">2025.5</span><b class="wr__name">牛牛 西麻布 総本店（ぎゅうぎゅう）</b><span class="wr__t">【デビュー１周年記念】5人だけの焼肉会／5人（港区 西麻布）</span><span class="wr__more"><span class="wr__oi">頼んだ物：コンソメスープ・牛骨の煮凝り(お通し)・牛のたたき・ウニ牛</span></span>{% include wr-close.html id="agroup-94c8ca88-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-bf1dfdd1-20260306" %}<span class="wr__k">2026.3</span><b class="wr__name">個室会席 北大路 赤坂茶寮</b><span class="wr__t">【横山万博打ち上げ】サプライズで丈一郎の30歳を祝う／小島健・佐野晶哉と、横山会の横山裕（SUPER EIGHT）・桐山照史・濵田崇裕・小瀧望（WEST.）・藤原丈一郎・大橋和也（なにわ男子）（千代田区 永田町）</span>{% include wr-close.html id="agroup-bf1dfdd1-20260306" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-7bfb0e7a-20260818" %}<span class="wr__k">2026.8</span><b class="wr__name">グリルピア AQUA CITY ODAIBA</b><span class="wr__t">【絶景BBQ】スーシェフたちの戦いがそこにある!?／4人がスーパーで買った食材でバーベキュー（港区 台場）</span>{% include wr-close.html id="agroup-7bfb0e7a-20260818" %}</li>
 </ul>
@@ -167,17 +167,17 @@ stay_inline: true
 <p>メンバーが絵文字のヒントだけで出会えるかを試す企画です。それぞれが1人で立ち寄ったお店です。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="agroup-smooch_coffee_stand-" %}<span class="wr__k">2024.9</span><b class="wr__name">Smooch Coffee Stand（スムーチコーヒースタンド）</b><span class="wr__t">「絵文字だけで出会えるかin札幌」／正門良規が立ち寄ったコーヒースタンド（札幌市中央区）</span>{% include wr-close.html id="agroup-smooch_coffee_stand-" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-ae0fb5ac-" %}<span class="wr__k">2024.9</span><b class="wr__name">宮田屋珈琲 大通店</b><span class="wr__t">「絵文字だけで出会えるかin札幌」／ファンのブログで、末澤誠也が立ち寄ったとされるカフェ（確かめきれていません）（札幌市中央区 大通）</span>{% include wr-close.html id="agroup-ae0fb5ac-" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-sweet_lady_jane-" %}<span class="wr__k">2024.9</span><b class="wr__name">スイート・レディ・ジェーン（SWEET LADY JANE）</b><span class="wr__t">「絵文字だけで出会えるかin札幌」／佐野晶哉／味噌チーズタルト。メンバーへのお土産にクッキー（札幌市中央区）</span>{% include wr-close.html id="agroup-sweet_lady_jane-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-ae0fb5ac-" %}<span class="wr__k">2024.9</span><b class="wr__name">宮田屋珈琲 大通店</b><span class="wr__t">「絵文字だけで出会えるかin札幌」／ファンのブログで、末澤誠也が立ち寄ったとされるカフェ（確かめきれていません）（札幌市中央区 大通）</span><span class="wr__more"><span class="wr__oi">頼んだ物：チーズケーキ・アイスコーヒー</span></span>{% include wr-close.html id="agroup-ae0fb5ac-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-sweet_lady_jane-" %}<span class="wr__k">2024.9</span><b class="wr__name">スイート・レディ・ジェーン（SWEET LADY JANE）</b><span class="wr__t">「絵文字だけで出会えるかin札幌」／佐野晶哉／味噌チーズタルト。メンバーへのお土産にクッキー（札幌市中央区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カフェラテ</span></span>{% include wr-close.html id="agroup-sweet_lady_jane-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-486b5a07-" %}<span class="wr__k">2025.3</span><b class="wr__name">横浜中華街 広東料理 大珍楼（だいちんろう）</b><span class="wr__t">【絵文字だけで出会えるかin横浜】再来で右往左往の巻～第１話／小島健／パンダまん、肉まん（横浜中華街）</span>{% include wr-close.html id="agroup-486b5a07-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-flair_co-" %}<span class="wr__k">2025.3</span><b class="wr__name">flair.co（フレア）</b><span class="wr__t">【絵文字だけで出会えるかin横浜】再来で右往左往の巻～第１話／佐野晶哉が昼休憩に／昆布のおにぎり（横浜市西区 みなとみらい）</span>{% include wr-close.html id="agroup-flair_co-" %}</li>
-  <li class="wr">{% include wr-open.html id="agroup-4ef74a5d-" %}<span class="wr__k">2025.3</span><b class="wr__name">横浜くりこ庵 横浜西口店（くりこあん）</b><span class="wr__t">【絵文字だけで出会えるかin横浜】再来で右往左往の巻～第１話／末澤誠也／プレミアムクリームたい焼き（横浜駅西口）</span>{% include wr-close.html id="agroup-4ef74a5d-" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-4ef74a5d-" %}<span class="wr__k">2025.3</span><b class="wr__name">横浜くりこ庵 横浜西口店（くりこあん）</b><span class="wr__t">【絵文字だけで出会えるかin横浜】再来で右往左往の巻～第１話／末澤誠也／プレミアムクリームたい焼き（横浜駅西口）</span><span class="wr__more"><span class="wr__oi">頼んだ物：プレミアムクリームたい焼き(バニラビーンズ入り)</span></span>{% include wr-close.html id="agroup-4ef74a5d-" %}</li>
   <li class="wr">{% include wr-open.html id="agroup-e2e5c0e3-20260623" %}<span class="wr__k">2026.6</span><b class="wr__name">手づくりお菓子 アンジュ</b><span class="wr__t">【絵文字だけで出会えるかin調布】今回こそ…出会います／佐野晶哉／アップルパイ（調布市 染地）</span>{% include wr-close.html id="agroup-e2e5c0e3-20260623" %}</li>
 </ul>
 
 <h3>末リチャ丈の3人旅</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="agroup-dfc862b8-20240712" %}<span class="wr__k">2024.7</span><b class="wr__name">カフェレストラン アクア 西宮本店</b><span class="wr__t">【末リチャ丈の３人旅後編】みんなデビュー！思い出の味のお店で語り尽くしました／末澤誠也・草間リチャード敬太となにわ男子の藤原丈一郎／ベーコンのシーザーサラダ、テリヤキチキンのマヨネーズピッツァ、濃厚カルボナーラ、たらこ（明太子）スパゲッティほか（兵庫県西宮市）</span>{% include wr-close.html id="agroup-dfc862b8-20240712" %}</li>
+  <li class="wr">{% include wr-open.html id="agroup-dfc862b8-20240712" %}<span class="wr__k">2024.7</span><b class="wr__name">カフェレストラン アクア 西宮本店</b><span class="wr__t">【末リチャ丈の３人旅後編】みんなデビュー！思い出の味のお店で語り尽くしました／末澤誠也・草間リチャード敬太となにわ男子の藤原丈一郎／ベーコンのシーザーサラダ、テリヤキチキンのマヨネーズピッツァ、濃厚カルボナーラ、たらこ（明太子）スパゲッティほか（兵庫県西宮市）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ポテトフライ・濃厚ガトーショコラ・アフォガード</span></span>{% include wr-close.html id="agroup-dfc862b8-20240712" %}</li>
 </ul>
 
 <h2 id="src2">{% include chico.html kind="yt" %}YouTube「ジュニアCHANNEL」で行ったお店（2023年・福本大晴を含む6人のころ）</h2>

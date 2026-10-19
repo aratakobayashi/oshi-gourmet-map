@@ -85,7 +85,7 @@ cover_sub: "日向坂ちゃんねる・せっかくグルメ・特典映像の13
   <li class="wr">{% include wr-open.html id="hinatazaka46-db1f58b6-20241223" %}<span class="wr__k">2024.12</span><b class="wr__name">ブタカラ ことぶき食堂</b><span class="wr__t">【荻窪】リアル一人定食【唐揚げ】／清水理央</span>{% include wr-close.html id="hinatazaka46-db1f58b6-20241223" %}</li>
   <li class="wr">{% include wr-open.html id="hinatazaka46-f9ce9946-20250715" %}<span class="wr__k">2025.7</span><b class="wr__name">珈琲専門館 伯爵 巣鴨店</b><span class="wr__t">【マブダチ】なのほーの巣鴨デート／上村ひなの・平尾帆夏</span>{% include wr-close.html id="hinatazaka46-f9ce9946-20250715" %}</li>
   <li class="wr">{% include wr-open.html id="hinatazaka46-300c42a1-20260328" %}<span class="wr__k">2026.3</span><b class="wr__name">ぎおん徳屋</b><span class="wr__t">【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】／平岡海月</span>{% include wr-close.html id="hinatazaka46-300c42a1-20260328" %}</li>
-  <li class="wr">{% include wr-open.html id="hinatazaka46-6a0e232f-20260328" %}<span class="wr__k">2026.3</span><b class="wr__name">祇園NITI</b><span class="wr__t">【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】／平岡海月</span>{% include wr-close.html id="hinatazaka46-6a0e232f-20260328" %}</li>
+  <li class="wr">{% include wr-open.html id="hinatazaka46-6a0e232f-20260328" %}<span class="wr__k">2026.3</span><b class="wr__name">祇園NITI</b><span class="wr__t">【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】／平岡海月</span><span class="wr__more"><span class="wr__oi">頼んだ物：あわぜんざい</span></span>{% include wr-close.html id="hinatazaka46-6a0e232f-20260328" %}</li>
 </ul>
 
 <h2 id="src2">{% include chico.html kind="tv" %}冠番組『日向坂で会いましょう』で紹介したお店</h2>

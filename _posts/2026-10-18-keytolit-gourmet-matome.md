@@ -110,7 +110,7 @@ stay_inline: true
 <h3>5人旅・市場の朝ごはん・ガスト：2025年</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="keytolit-4e632cb1-20250629" %}<span class="wr__k">2025.6</span><b class="wr__name">軽井沢バーベキュー カフェ コラージュ</b><span class="wr__t">【5人旅の最後に語る…始まりの言葉】俺たちの目指すべき場所！／5人／5人旅の最後にバーベキュー（長野県軽井沢町）</span>{% include wr-close.html id="keytolit-4e632cb1-20250629" %}</li>
-  <li class="wr">{% include wr-open.html id="keytolit-fd47256f-20250713" %}<span class="wr__k">2025.7</span><b class="wr__name">ガスト 大森山王店</b><span class="wr__t">【大食いへの道~ガスト編】全メニュー食べ尽くせ!!／5人（大田区 山王 大森）</span>{% include wr-close.html id="keytolit-fd47256f-20250713" %}</li>
+  <li class="wr">{% include wr-open.html id="keytolit-fd47256f-20250713" %}<span class="wr__k">2025.7</span><b class="wr__name">ガスト 大森山王店</b><span class="wr__t">【大食いへの道~ガスト編】全メニュー食べ尽くせ!!／5人（大田区 山王 大森）</span><span class="wr__more"><span class="wr__oi">頼んだ物：グリル＆サラダメニュー</span></span>{% include wr-close.html id="keytolit-fd47256f-20250713" %}</li>
   <li class="wr">{% include wr-open.html id="keytolit-c3845662-20250817" %}<span class="wr__k">2025.8</span><b class="wr__name">花のや</b><span class="wr__t">【市場で極上朝メシを食い尽くせ】今日も大光がやらかします／5人／アジフライ定食・海鮮丼・すし屋の海鮮丼・お刺身定食（千葉県船橋市 船橋市場）</span>{% include wr-close.html id="keytolit-c3845662-20250817" %}</li>
 </ul>
 

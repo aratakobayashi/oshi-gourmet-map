@@ -97,7 +97,7 @@ cover_sub: "VLOG・東京ミッションツアーの12軒"
 <h3>フィリックス「Sunshine Vlog 6 in Tokyo」：月島・お台場</h3>
 <p>この2軒は、確認に使った資料と、お店の住所の記録が食い違っていたお店です。行く前にお店の場所を確かめてください。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kpop_straykids-df0b482a-" %}<span class="wr__k">月島</span><b class="wr__name">やきとり 大ちゃん</b><span class="wr__t">SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」／フィリックス／つくね・やきとり皮（中央区 月島）</span>{% include wr-close.html id="kpop_straykids-df0b482a-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_straykids-df0b482a-" %}<span class="wr__k">月島</span><b class="wr__name">やきとり 大ちゃん</b><span class="wr__t">SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」／フィリックス／つくね・やきとり皮（中央区 月島）</span><span class="wr__more"><span class="wr__oi">頼んだ物：オレンジジュース・トマトスライス</span></span>{% include wr-close.html id="kpop_straykids-df0b482a-" %}</li>
   <li class="wr">{% include wr-open.html id="kpop_straykids-0c456bcf-" %}<span class="wr__k">お台場</span><b class="wr__name">ひるがお お台場店</b><span class="wr__t">SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」／フィリックス／特選和牛チャーシュー白湯麺（港区 台場 アクアシティお台場）</span>{% include wr-close.html id="kpop_straykids-0c456bcf-" %}</li>
 </ul>
 
@@ -116,8 +116,8 @@ cover_sub: "VLOG・東京ミッションツアーの12軒"
 <p>メンバーがSNSに載せた写真や、来日したときの記録をもとに、ファンが紹介しているお店です。どのお店かをファンが写真から特定したものは、そう書いています。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kpop_straykids-fuglen_asakusa-" %}<span class="wr__k">浅草</span><b class="wr__name">FUGLEN ASAKUSA</b><span class="wr__t">スンミンがInstagramに「りょこう.」と載せた写真で、ソフトクリームを食べていたお店として、ファンが特定（台東区 浅草）</span>{% include wr-close.html id="kpop_straykids-fuglen_asakusa-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_straykids-e604ee36-" %}<span class="wr__k">浅草</span><b class="wr__name">鍋ぞう 浅草雷門店</b><span class="wr__t">スンミンが同じ「りょこう.」の投稿に載せた写真に写っていたお店として、ファンが特定（台東区 雷門）</span>{% include wr-close.html id="kpop_straykids-e604ee36-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_straykids-1ce30364-" %}<span class="wr__k">大阪</span><b class="wr__name">やきやき三輪 大阪堀江店</b><span class="wr__t">2023年のドームツアーで来日したときに訪れたとされる鉄板焼きのお店。ファンのブログではフィリックス・チャンビン・スンミンの名前が挙がっている（大阪市西区 南堀江）</span>{% include wr-close.html id="kpop_straykids-1ce30364-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_straykids-e604ee36-" %}<span class="wr__k">浅草</span><b class="wr__name">鍋ぞう 浅草雷門店</b><span class="wr__t">スンミンが同じ「りょこう.」の投稿に載せた写真に写っていたお店として、ファンが特定（台東区 雷門）</span><span class="wr__more"><span class="wr__oi">頼んだ物：キムチ鍋</span></span>{% include wr-close.html id="kpop_straykids-e604ee36-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_straykids-1ce30364-" %}<span class="wr__k">大阪</span><b class="wr__name">やきやき三輪 大阪堀江店</b><span class="wr__t">2023年のドームツアーで来日したときに訪れたとされる鉄板焼きのお店。ファンのブログではフィリックス・チャンビン・スンミンの名前が挙がっている（大阪市西区 南堀江）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ステーキ</span></span>{% include wr-close.html id="kpop_straykids-1ce30364-" %}</li>
 </ul>
 
 <h2 id="src4">{% include chico.html kind="yt" %}韓国のお店：公式YouTubeの回と練習生のころから通うお店</h2>

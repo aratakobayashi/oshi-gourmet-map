@@ -100,10 +100,10 @@ stay_inline: true
 <p>フジテレビの冠番組『何するカトゥーン？』（関東ローカル）の回です。店名の上の日付は放送年月です。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="a05bb79f" %}<span class="wr__k">2021.10</span><b class="wr__name">鮨処あいじ</b><span class="wr__t">金沢編／亀梨和也・上田竜也・中丸雄一／のどぐろ（石川県金沢市 片町）</span>{% include wr-close.html id="a05bb79f" %}</li>
-  <li class="wr">{% include wr-open.html id="aaabb96a" %}<span class="wr__k">2022.7</span><b class="wr__name">Cafe &amp; Bar LIBER</b><span class="wr__t">USJ編（#16）／亀梨和也・上田竜也・中丸雄一がUSJのあとに打ち上げをしたホテルのカフェ＆バー（大阪市此花区 桜島）</span>{% include wr-close.html id="aaabb96a" %}</li>
+  <li class="wr">{% include wr-open.html id="aaabb96a" %}<span class="wr__k">2022.7</span><b class="wr__name">Cafe &amp; Bar LIBER</b><span class="wr__t">USJ編（#16）／亀梨和也・上田竜也・中丸雄一がUSJのあとに打ち上げをしたホテルのカフェ＆バー（大阪市此花区 桜島）</span><span class="wr__more"><span class="wr__seat">席：撮影用に作られた席（現在は展示）</span></span>{% include wr-close.html id="aaabb96a" %}</li>
   <li class="wr">{% include wr-open.html id="kattun-aburi-" %}<span class="wr__k">2024.11</span><b class="wr__name">ABURI 百貫 有明ガーデン店</b><span class="wr__t">回転寿司をはしごする回／亀梨和也・上田竜也／1軒目（江東区 有明 有明ガーデン）</span>{% include wr-close.html id="kattun-aburi-" %}</li>
   <li class="wr">{% include wr-open.html id="kattun-68bc5766-" %}<span class="wr__k">2024.11</span><b class="wr__name">寿司 まぐろ問屋恵み ハラカド店</b><span class="wr__t">回転寿司をはしごする回／亀梨和也・上田竜也／2軒目（渋谷区 神宮前 原宿）</span>{% include wr-close.html id="kattun-68bc5766-" %}</li>
-  <li class="wr">{% include wr-open.html id="kattun-e483a667-" %}<span class="wr__k">2024.11</span><b class="wr__name">廻転鮨 銀座おのでら 本店</b><span class="wr__t">回転寿司をはしごする回／亀梨和也・上田竜也／3軒目（渋谷区 神宮前 表参道）</span>{% include wr-close.html id="kattun-e483a667-" %}</li>
+  <li class="wr">{% include wr-open.html id="kattun-e483a667-" %}<span class="wr__k">2024.11</span><b class="wr__name">廻転鮨 銀座おのでら 本店</b><span class="wr__t">回転寿司をはしごする回／亀梨和也・上田竜也／3軒目（渋谷区 神宮前 表参道）</span><span class="wr__more"><span class="wr__seat">席：個室</span></span>{% include wr-close.html id="kattun-e483a667-" %}</li>
 </ul>
 
 <p>鮨処あいじは、確かめた資料に番地までの住所がなく、地図の場所は片町のあたりです。廻転鮨 銀座おのでら 本店は、KEY TO LITのYouTubeの回（2026年8月）にも出てきたお店です。</p>

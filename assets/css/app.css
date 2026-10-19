@@ -866,6 +866,10 @@ a.badge { min-height: 32px; }
 .wr__k { font-size: 12px; font-weight: 700; color: var(--ink-2); letter-spacing: .02em; }
 .wr__name { font-size: 16px; line-height: 1.4; }
 .wr__t { font-size: 13px; line-height: 1.6; color: var(--ink-2); }
+.wr__more { display: flex; flex-direction: column; gap: 2px; margin-top: 2px; font-size: 12.5px; line-height: 1.55; color: var(--ink); }
+.wr__oi, .wr__seat { padding-left: 1.3em; text-indent: -1.3em; }
+.wr__oi::before { content: "🍴 "; }
+.wr__seat::before { content: "🪑 "; }
 .wr__go { margin-top: 4px; font-size: 13px; font-weight: 700; color: var(--accent-ink); }
 .wr__link:hover .wr__go { text-decoration: underline; }
 .wr__btns { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 var(--s-3) var(--s-3); }

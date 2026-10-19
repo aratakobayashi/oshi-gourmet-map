@@ -123,7 +123,7 @@ stay_inline: true
 <h2 id="src1">{% include chico.html kind="yt" %}ほかのYouTubeチャンネルで行ったお店</h2>
 <p>メンバーがほかの人のYouTubeチャンネルに出た回です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kismai-san_francisco_peaks-" %}<span class="wr__k">2024.6</span><b class="wr__name">San Francisco Peaks（サン フランシスコ ピークス）</b><span class="wr__t">河合郁人のYouTube『かわいたちチャンネル』／藤ヶ谷太輔（河合郁人と）／ベーコンチーズバーガー（渋谷区 神宮前）</span>{% include wr-close.html id="kismai-san_francisco_peaks-" %}</li>
+  <li class="wr">{% include wr-open.html id="kismai-san_francisco_peaks-" %}<span class="wr__k">2024.6</span><b class="wr__name">San Francisco Peaks（サン フランシスコ ピークス）</b><span class="wr__t">河合郁人のYouTube『かわいたちチャンネル』／藤ヶ谷太輔（河合郁人と）／ベーコンチーズバーガー（渋谷区 神宮前）</span><span class="wr__more"><span class="wr__oi">頼んだ物：エッグバーガー</span></span>{% include wr-close.html id="kismai-san_francisco_peaks-" %}</li>
 </ul>
 
 <h2 id="src2">{% include chico.html kind="tv" %}冠番組で行ったお店</h2>
@@ -214,10 +214,10 @@ stay_inline: true
 <h2 id="src7">{% include chico.html kind="other" %}Instagramの投稿やサインで知られるお店</h2>
 <p>番組やYouTubeの回ではなく、メンバー本人のInstagramの投稿から、ファンの間でこのお店とされているもの、メンバーのサインが飾られていると伝えられるお店です。いつ・どんな場面で訪れたかは確かめられていません。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kismai-38687c6d-" %}<span class="wr__k">2024.7</span><b class="wr__name">いさりび食堂</b><span class="wr__t">藤ヶ谷太輔のInstagram／九十九里の浜焼きの投稿から、ファンの間でこのお店とされる（千葉県九十九里町 不動堂）</span>{% include wr-close.html id="kismai-38687c6d-" %}</li>
+  <li class="wr">{% include wr-open.html id="kismai-38687c6d-" %}<span class="wr__k">2024.7</span><b class="wr__name">いさりび食堂</b><span class="wr__t">藤ヶ谷太輔のInstagram／九十九里の浜焼きの投稿から、ファンの間でこのお店とされる（千葉県九十九里町 不動堂）</span><span class="wr__more"><span class="wr__oi">頼んだ物：焼きはまぐり・いわしの刺身・はまぐりフライ</span><span class="wr__seat">席：窓側の座敷席（奥から3番目）</span></span>{% include wr-close.html id="kismai-38687c6d-" %}</li>
   <li class="wr">{% include wr-open.html id="kismai-ordinary_cafe-" %}<span class="wr__k">2026.5</span><b class="wr__name">Ordinary Cafe</b><span class="wr__t">玉森裕太のInstagram／ドバイチョコもちの投稿から、ファンの間でこのお店とされる（渋谷区 神宮前）</span>{% include wr-close.html id="kismai-ordinary_cafe-" %}</li>
   <li class="wr">{% include wr-open.html id="5c98eca5" %}<span class="wr__k">—</span><b class="wr__name">元祖久留米らーめん 福ヤ</b><span class="wr__t">宮田俊哉・北山宏光と横尾渉のサインが飾られていると伝えられるお店（港区 麻布十番）</span>{% include wr-close.html id="5c98eca5" %}</li>
-  <li class="wr">{% include wr-open.html id="ed3ca800" %}<span class="wr__k">—</span><b class="wr__name">博多もつ鍋 二十四 博多南店</b><span class="wr__t">千賀健永のサインが飾られていると伝えられるお店（福岡市博多区）</span>{% include wr-close.html id="ed3ca800" %}</li>
+  <li class="wr">{% include wr-open.html id="ed3ca800" %}<span class="wr__k">—</span><b class="wr__name">博多もつ鍋 二十四 博多南店</b><span class="wr__t">千賀健永のサインが飾られていると伝えられるお店（福岡市博多区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：もつ鍋</span></span>{% include wr-close.html id="ed3ca800" %}</li>
 </ul>
 
 <h2>Kis-My-Ft2の聖地 年表</h2>

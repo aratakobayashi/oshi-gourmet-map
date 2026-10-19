@@ -129,8 +129,8 @@ stay_inline: true
 <h3>『キントレ』：宮近海斗の横浜中華街</h3>
 <p>「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗がKing &amp; Princeの永瀬廉らと横浜中華街を食べ歩いた回です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-9e95e49e-" %}<span class="wr__k">2026.2</span><b class="wr__name">王府井 本店（わんふーちん）</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／焼き小籠包（横浜中華街）</span>{% include wr-close.html id="travisjapan-9e95e49e-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-c6b35fc4-" %}<span class="wr__k">2026.2</span><b class="wr__name">中華街餃子館</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／大鶏排、カエルの丸揚げ（横浜中華街）</span>{% include wr-close.html id="travisjapan-c6b35fc4-" %}</li>
+  <li class="wr">{% include wr-open.html id="travisjapan-9e95e49e-" %}<span class="wr__k">2026.2</span><b class="wr__name">王府井 本店（わんふーちん）</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／焼き小籠包（横浜中華街）</span><span class="wr__more"><span class="wr__oi">頼んだ物：正宗生煎包</span></span>{% include wr-close.html id="travisjapan-9e95e49e-" %}</li>
+  <li class="wr">{% include wr-open.html id="travisjapan-c6b35fc4-" %}<span class="wr__k">2026.2</span><b class="wr__name">中華街餃子館</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／大鶏排、カエルの丸揚げ（横浜中華街）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カエルの一本丸揚げ</span></span>{% include wr-close.html id="travisjapan-c6b35fc4-" %}</li>
   <li class="wr">{% include wr-open.html id="travisjapan-4e89e274-" %}<span class="wr__k">2026.2</span><b class="wr__name">酔楼（スイロウ）</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗／鳥の巣カタ焼きそば（横浜中華街）</span>{% include wr-close.html id="travisjapan-4e89e274-" %}</li>
 </ul>
 
