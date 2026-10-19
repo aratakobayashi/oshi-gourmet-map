@@ -8,7 +8,7 @@ slug_id: equal-love-izakaya
 shop_count: 13
 group_color: "#ec4899"
 group_bio: "=LOVE（イコールラブ）は指原莉乃プロデュースの女性アイドルグループ。YouTubeでのグルメ企画が人気。"
-youtube_id: BPvNgGIKoeU
+youtube_id: Hj0HB_c5yKw
 related_genres:
   - equal-love-shokuji
   - equal-love-washoku

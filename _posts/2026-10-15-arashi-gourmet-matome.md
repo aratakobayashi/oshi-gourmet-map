@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "嵐の聖地巡礼・ロケ地まとめ｜嵐にしやがれのグルメデスマッチほかに登場した東京のご飯など228軒"
+title: "嵐の聖地巡礼・ロケ地まとめ｜嵐にしやがれのグルメデスマッチほかに登場した東京のご飯など219軒"
 date: 2026-10-15
 last_modified_at: 2026-10-15
 checked_at: 2026-10-15
-description: "嵐の聖地巡礼・ロケ地228軒のまとめ。冠番組『嵐にしやがれ』で相葉雅紀のツーリングなどロケで訪れた13軒、『ヒルナンデス！』で相葉雅紀が訪れた1軒、グルメデスマッチなどでスタジオに料理が登場した214軒を分け、回・料理・試食したメンバーと東京のエリア別の巡り方を載せました。"
+description: "嵐の聖地巡礼・ロケ地219軒のまとめ。冠番組『嵐にしやがれ』で相葉雅紀のツーリングなどロケで訪れた13軒、『ヒルナンデス！』で相葉雅紀が訪れた1軒、グルメデスマッチなどでスタジオに料理が登場した205軒を分け、回・料理・試食したメンバーと東京のエリア別の巡り方を載せました。"
 group: arashi
 genre: まとめ
 article_type: matome
@@ -21,9 +21,9 @@ sources:
   - label: "確認に使った資料：tokyo-cafeblog.com（嵐にしやがれ 歴代グルメデスマッチまとめ）"
     url: "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
 summary:
-  - "嵐の冠番組『嵐にしやがれ』に出てきたお店227軒と、相葉雅紀が出演した『ヒルナンデス！』のお店1軒の228軒。ロケでメンバーが訪れたお店14軒と、スタジオに料理が登場したお店214軒を分けて載せています"
+  - "嵐の冠番組『嵐にしやがれ』に出てきたお店218軒と、相葉雅紀が出演した『ヒルナンデス！』のお店1軒の219軒。ロケでメンバーが訪れたお店14軒と、スタジオに料理が登場したお店205軒を分けて載せています"
   - "ロケの13軒のうち9軒は相葉雅紀のツーリングの回（北海道・長野・千葉・香川・岡山など）。スタジオのお店はグルメデスマッチが中心で、メンバーはお店に行っていません"
-  - "東京が174軒（港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒など）。ほかに神奈川県17軒など19道府県"
+  - "東京が169軒（渋谷区27軒、港区24軒、千代田区18軒、中央区16軒など）。ほかに神奈川県17軒など18道府県"
   - "回の名前・登場した料理・試食したメンバー（分かるお店だけ）を載せ、地図でまとめて見られます"
 shop_ids:
   - arashi-1e917dff-20181117
@@ -171,7 +171,6 @@ shop_ids:
   - arashi-egg_baby_cafe-20200314
   - arashi-75eb1626-20201205
   - arashi-512_512_cafe_grill-20201219
-  - arashi-5f7c9ea5-20201219
   - arashi-f4927531-20201219
   - arashi-9d5089c5-20201219
   - arashi-e81753ef-20180818
@@ -196,16 +195,8 @@ shop_ids:
   - arashi-f7b246ac-20190803
   - arashi-80c85924-20190803
   - arashi-tan-20190803
-  - arashi-d05b0391-20191109
-  - arashi-8fdcc077-20191109
-  - arashi-75564cf9-20191109
   - arashi-0aed188d-20200411
   - arashi-468-20200411
-  - arashi-f31a35ee-20200516
-  - arashi-2f44be15-20200523
-  - arashi-6d3e8582-20200523
-  - arashi-619389cb-20200523
-  - arashi-c420c615-20200523
   - arashi-bd781cd2-20200606
   - arashi-d8dde3c3-20200606
   - arashi-35c71c69-20200704
@@ -266,11 +257,11 @@ faq:
   - q: "嵐は今も活動していますか？"
     a: "嵐は2020年末でグループの活動を休止しました。2026年は5大ドームのツアー『ARASHI LIVE TOUR 2026「We are ARASHI」』を行い、5月31日の東京ドームの最終公演でグループの活動を終えたと報じられています。"
   - q: "嵐のお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で嵐を選ぶと、この記事の228軒を地図で見られます。"
+    a: "「お店を探す」で嵐を選ぶと、この記事の219軒を地図で見られます。"
 techo: true
 cover_ids: "arashi-853a6f75-20191019,arashi-5531a449-20180804,arashi-fa73bca1-20190427"
 cover_title: "嵐 聖地巡礼帳"
-cover_sub: "嵐にしやがれほかの228軒"
+cover_sub: "嵐にしやがれほかの219軒"
 courses:
   - title: "小田急線で成城から経堂へ：ツーリングのパン屋とデスマッチの2軒"
     stops: [arashi-cb01f149-20190504, arashi-8613c0c3-20200815, arashi-81aa7355-20190330]
@@ -285,16 +276,16 @@ stay_inline: true
 
 <p><strong>大野智・櫻井翔・相葉雅紀・二宮和也・松本潤</strong>の5人の嵐。2020年末でグループの活動を休止し、2026年は5大ドームのツアー『ARASHI LIVE TOUR 2026「We are ARASHI」』を行って、5月31日の東京ドームの最終公演でグループの活動を終えたと報じられています。</p>
 
-<p>この記事のお店は、1軒をのぞいて冠番組『嵐にしやがれ』に出てきたお店です。いちばん多いのは、ゲストの名前の付いた「グルメデスマッチ」などで<strong>スタジオに料理が登場したお店</strong>で、メンバーはお店に行っていません。そのほかに、相葉雅紀のツーリングなど、<strong>ロケでメンバーが訪れたお店</strong>と、相葉雅紀が出演した『ヒルナンデス！』で訪れたお店があります。この記事では<strong>228軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>この記事のお店は、1軒をのぞいて冠番組『嵐にしやがれ』に出てきたお店です。いちばん多いのは、ゲストの名前の付いた「グルメデスマッチ」などで<strong>スタジオに料理が登場したお店</strong>で、メンバーはお店に行っていません。そのほかに、相葉雅紀のツーリングなど、<strong>ロケでメンバーが訪れたお店</strong>と、相葉雅紀が出演した『ヒルナンデス！』で訪れたお店があります。この記事では<strong>219軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組『嵐にしやがれ』のロケ<small>13軒</small></span></a><a href="#src2">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a><a href="#src3">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>214軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組『嵐にしやがれ』のロケ<small>13軒</small></span></a><a href="#src2">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a><a href="#src3">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>205軒</small></span></a></div>
 </div>
 {% include matome-members.html group="arashi" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>228軒のなかから、メンバーが実際にロケで訪れたお店を3つ選びました。</p>
+<p>219軒のなかから、メンバーが実際にロケで訪れたお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="arashi-cb01f149-20190504" no="其の一" why="「所ジョージとツーリング」（2019年5月放送）で、相葉雅紀と所ジョージが立ち寄った、所ジョージ行きつけのパン屋。東京の成城です。" %}
 {% include pick.html id="arashi-15a4cb4f-20190309" no="其の二" why="「朝日ツーリング」（2019年3月放送）で、相葉雅紀がくっきー！・井戸田潤と訪れ、朝ごはんに生マグロの大トロを食べた食堂。千葉県銚子市です。" %}
@@ -307,12 +298,12 @@ stay_inline: true
 <ol class="stops">
   <li><a href="/shops/arashi-cb01f149-20190504/"><b>成城 キリーズ フレッシュ</b><span>世田谷区成城／相葉雅紀</span></a><small>次へ：成城学園前→祖師ヶ谷大蔵は小田急線で1駅（直線で約1.3km）</small></li>
   <li><a href="/shops/arashi-8613c0c3-20200815/"><b>祖師谷 ズッペリア</b><span>世田谷区祖師谷／松本潤</span></a><small>次へ：祖師ヶ谷大蔵→経堂は小田急線で2駅（直線で約3.2km）</small></li>
-  <li><a href="/shops/arashi-81aa7355-20190330/"><b>経堂 つるばみ舎</b><span>世田谷区宮坂／メンバー5人</span></a></li>
+  <li><a href="/shops/arashi-81aa7355-20190330/"><b>経堂 つるばみ舎</b><span>世田谷区宮坂</span></a></li>
 </ol>
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>228軒のうち214軒は、スタジオに料理が出たお店です。2018〜2020年の回が中心で、東京が174軒（港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒）。試食したメンバーが分かるお店は84軒です。ロケで訪れたお店は13軒で、そのうち9軒が相葉雅紀のツーリングの回。北海道・長野・千葉・香川・岡山と、東京の外のお店が多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>219軒のうち205軒は、スタジオに料理が出たお店です。2018〜2020年の回が中心で、東京が169軒（渋谷区27軒、港区24軒、千代田区18軒、中央区16軒）。試食したメンバーが分かるお店は79軒です。ロケで訪れたお店は13軒で、そのうち9軒が相葉雅紀のツーリングの回。北海道・長野・千葉・香川・岡山と、東京の外のお店が多くなっています。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -510,7 +501,7 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="arashi-dolala-20200718" %}<span class="wr__k">2020.7</span><b class="wr__name">有機茶生どら Dolala</b><span class="wr__t">「氷川きよし 夏のスイーツデスマッチ」／有機茶生どらがスタジオに登場／櫻井翔が試食（目黒区）</span>{% include wr-close.html id="arashi-dolala-20200718" %}</li>
 </ul>
 
-<h3>行列・流行・新店・日本初上陸のデスマッチ（25軒）</h3>
+<h3>行列・流行・新店・日本初上陸のデスマッチ（24軒）</h3>
 <p>行列のできる店・その年の流行・日本初上陸・その年にオープンした店など、話題の店のデスマッチです。</p>
 
 <ul class="wrs">
@@ -539,7 +530,6 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="arashi-egg_baby_cafe-20200314" %}<span class="wr__k">2020.3</span><b class="wr__name">エッグ ベイビー カフェ (egg baby cafe)</b><span class="wr__t">「小泉孝太郎 行列ランチデスマッチ」／エッグベイビーサンドがスタジオに登場／大野智が試食（台東区）</span>{% include wr-close.html id="arashi-egg_baby_cafe-20200314" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-75eb1626-20201205" %}<span class="wr__k">2020.12</span><b class="wr__name">ハナモエギ</b><span class="wr__t">「出川哲朗 今年オープンした店デスマッチ」／ダブルハンブルグがスタジオに登場／松本潤が試食（足立区）</span>{% include wr-close.html id="arashi-75eb1626-20201205" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-512_512_cafe_grill-20201219" %}<span class="wr__k">2020.12</span><b class="wr__name">512 カフェアンドグリル(512 CAFE & GRILL)</b><span class="wr__t">「NiziU 2020ブレイクグルメデスマッチ」／ザクザクフレンチトーストがスタジオに登場（港区）</span>{% include wr-close.html id="arashi-512_512_cafe_grill-20201219" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-5f7c9ea5-20201219" %}<span class="wr__k">2020.12</span><b class="wr__name">加藤洋菓子店</b><span class="wr__t">「NiziU 2020ブレイクグルメデスマッチ」／温めて食べるチーズケーキがスタジオに登場（お取り寄せ品）／松本潤が試食（港区）</span>{% include wr-close.html id="arashi-5f7c9ea5-20201219" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-f4927531-20201219" %}<span class="wr__k">2020.12</span><b class="wr__name">フォーティン トーキョー</b><span class="wr__t">「NiziU 2020ブレイクグルメデスマッチ」／牛肉のフォーがスタジオに登場（お取り寄せ品）／相葉雅紀が試食（豊島区）</span>{% include wr-close.html id="arashi-f4927531-20201219" %}</li>
 </ul>
 
@@ -573,8 +563,8 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="arashi-7c4d1679-20200222" %}<span class="wr__k">2020.2</span><b class="wr__name">ウミガメ食堂</b><span class="wr__t">「ゆず 横浜グルメデスマッチ」／ワンタン麺がスタジオに登場／櫻井翔が試食（神奈川県横浜市）</span>{% include wr-close.html id="arashi-7c4d1679-20200222" %}</li>
 </ul>
 
-<h3>手土産・お取り寄せ・テイクアウト・ご飯のお供（18軒）</h3>
-<p>手土産・お取り寄せ・テイクアウト・ご飯のお供のデスマッチです。お取り寄せ品として紹介されたものは、そう書いています。</p>
+<h3>手土産・テイクアウト（10軒）</h3>
+<p>手土産・テイクアウトのデスマッチです。</p>
 
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="arashi-dee5547c-20190803" %}<span class="wr__k">2019.8</span><b class="wr__name">福島屋</b><span class="wr__t">「佐藤二朗 手土産グルメデスマッチ」／無添加チャーシューブロックがスタジオに登場（港区）</span>{% include wr-close.html id="arashi-dee5547c-20190803" %}</li>
@@ -582,19 +572,11 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="arashi-f7b246ac-20190803" %}<span class="wr__k">2019.8</span><b class="wr__name">シュークリー</b><span class="wr__t">「佐藤二朗 手土産グルメデスマッチ」／シュークリームがスタジオに登場（中央区）</span>{% include wr-close.html id="arashi-f7b246ac-20190803" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-80c85924-20190803" %}<span class="wr__k">2019.8</span><b class="wr__name">かむげん</b><span class="wr__t">「佐藤二朗 手土産グルメデスマッチ」／ローストビーフめしがスタジオに登場（千代田区）</span>{% include wr-close.html id="arashi-80c85924-20190803" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-tan-20190803" %}<span class="wr__k">2019.8</span><b class="wr__name">赤坂Tan伍</b><span class="wr__t">「佐藤二朗 手土産グルメデスマッチ」／牛タンカツサンドがスタジオに登場（港区）</span>{% include wr-close.html id="arashi-tan-20190803" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-d05b0391-20191109" %}<span class="wr__k">2019.11</span><b class="wr__name">西荻窪 フランクフルト</b><span class="wr__t">「岡村隆史 ご飯のお供デスマッチ」／サラフワ コンビーフがスタジオに登場（お取り寄せ品）（杉並区）</span>{% include wr-close.html id="arashi-d05b0391-20191109" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-8fdcc077-20191109" %}<span class="wr__k">2019.11</span><b class="wr__name">肉料理かやま</b><span class="wr__t">「岡村隆史 ご飯のお供デスマッチ」／そぼマヨがスタジオに登場（お取り寄せ品）／松本潤が試食（兵庫県神戸市）</span>{% include wr-close.html id="arashi-8fdcc077-20191109" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-75564cf9-20191109" %}<span class="wr__k">2019.11</span><b class="wr__name">惣菜畑　がんこ</b><span class="wr__t">「岡村隆史 ご飯のお供デスマッチ」／糸島金山寺納豆がスタジオに登場（お取り寄せ品）（福岡県糸島市）</span>{% include wr-close.html id="arashi-75564cf9-20191109" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-0aed188d-20200411" %}<span class="wr__k">2020.4</span><b class="wr__name">ミラノ ドルチェ トレ・スパーデ</b><span class="wr__t">「中島健人＆平野紫耀 手みやげグルメデスマッチ」／ミラノプリンがスタジオに登場／相葉雅紀が試食（港区）</span>{% include wr-close.html id="arashi-0aed188d-20200411" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-468-20200411" %}<span class="wr__k">2020.4</span><b class="wr__name">468（ヨーロッパ）</b><span class="wr__t">「中島健人＆平野紫耀 手みやげグルメデスマッチ」／穴子棒ずしがスタジオに登場／松本潤が試食（台東区）</span>{% include wr-close.html id="arashi-468-20200411" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-f31a35ee-20200516" %}<span class="wr__k">2020.5</span><b class="wr__name">白ねぎ醤油</b><span class="wr__t">「生田斗真 ご飯のお供デスマッチ」／白ねぎ醤油がスタジオに登場（お取り寄せ品）／松本潤が試食（大分県大分市）</span>{% include wr-close.html id="arashi-f31a35ee-20200516" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-2f44be15-20200523" %}<span class="wr__k">2020.5</span><b class="wr__name">足立音衛門</b><span class="wr__t">「高橋克典 お取り寄せグルメデスマッチ」／栗のテリーヌ「天」がスタジオに登場（お取り寄せ品）（京都府福知山市）</span>{% include wr-close.html id="arashi-2f44be15-20200523" %}</li>
 </ul>
 
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="arashi-6d3e8582-20200523" %}<span class="wr__k">2020.5</span><b class="wr__name">肉じるやの角煮</b><span class="wr__t">「高橋克典 お取り寄せグルメデスマッチ」／肉じるやの角煮がスタジオに登場（お取り寄せ品）／相葉雅紀が試食（港区）</span>{% include wr-close.html id="arashi-6d3e8582-20200523" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-619389cb-20200523" %}<span class="wr__k">2020.5</span><b class="wr__name">肉卸 小島</b><span class="wr__t">「高橋克典 お取り寄せグルメデスマッチ」／黒毛和牛チョップカツがスタジオに登場（お取り寄せ品）／二宮和也が試食（港区）</span>{% include wr-close.html id="arashi-619389cb-20200523" %}</li>
-  <li class="wr">{% include wr-open.html id="arashi-c420c615-20200523" %}<span class="wr__k">2020.5</span><b class="wr__name">シルクプレーン (三軒茶屋　ザ サン リブズ ヒア)</b><span class="wr__t">「高橋克典 お取り寄せグルメデスマッチ」／CHILKプレーン（瓶詰めチーズケーキ）がスタジオに登場（お取り寄せ品）（世田谷区）</span>{% include wr-close.html id="arashi-c420c615-20200523" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-bd781cd2-20200606" %}<span class="wr__k">2020.6</span><b class="wr__name">蒲田屋</b><span class="wr__t">「東野幸治 テイクアウトグルメデスマッチ」／おにぎりがスタジオに登場（北区）</span>{% include wr-close.html id="arashi-bd781cd2-20200606" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-d8dde3c3-20200606" %}<span class="wr__k">2020.6</span><b class="wr__name">ともえ庵</b><span class="wr__t">「東野幸治 テイクアウトグルメデスマッチ」／たい焼きの開きがスタジオに登場／相葉雅紀が試食（杉並区）</span>{% include wr-close.html id="arashi-d8dde3c3-20200606" %}</li>
   <li class="wr">{% include wr-open.html id="arashi-35c71c69-20200704" %}<span class="wr__k">2020.7</span><b class="wr__name">ごっつり</b><span class="wr__t">「藤原紀香 テイクアウトグルメデスマッチ」／銀鯖の棒寿司がスタジオに登場／松本潤が試食（台東区）</span>{% include wr-close.html id="arashi-35c71c69-20200704" %}</li>
@@ -668,16 +650,16 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事96軒、ラーメン43軒、スイーツ29軒、カフェ25軒、居酒屋10軒、その他10軒、中華8軒、和食4軒、焼肉3軒。東京都内は港区・渋谷区が27軒ずつ、千代田区18軒、中央区16軒、世田谷区・新宿区が12軒ずつ、目黒区10軒、杉並区8軒、台東区7軒、豊島区6軒、品川区5軒、墨田区3軒など。東京の外は横浜市13軒、大阪市4軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の228軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。場所は確認に使った資料の住所で数えています）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事90軒、ラーメン43軒、スイーツ26軒、カフェ25軒、居酒屋10軒、その他10軒、中華8軒、和食4軒、焼肉3軒。東京都内は渋谷区27軒、港区24軒、千代田区18軒、中央区16軒、新宿区12軒、世田谷区11軒、目黒区10軒、杉並区・台東区が7軒ずつ、豊島区6軒、品川区5軒、墨田区3軒など。東京の外は横浜市13軒、大阪市4軒など" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の219軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。場所は確認に使った資料の住所で数えています）</figcaption></figure>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区27軒、渋谷区27軒、千代田区18軒、中央区16軒、世田谷区12軒など。23区の外は神奈川県17軒、東京の市部・島8軒、千葉県3軒、そのほかの道府県34軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/arashi-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区27軒、港区24軒、千代田区18軒、中央区16軒、新宿区12軒など。23区の外は神奈川県17軒、東京の市部・島8軒、千葉県3軒、そのほかの道府県30軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>ここに挙げるお店のほとんどは、スタジオに料理が登場したお店です（メンバーがお店に行ったわけではありません）。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>東京駅</strong>：東京駅一番街の黒かつ亭・アリンコ、エキュート東京の豆一豆、大丸東京店のニューヨークシティサンド、黒塀横丁の天津飯店。「佐藤健 東京駅グルメデスマッチ」などで登場したお店です。</li>
   <li><strong>神保町・神田・秋葉原</strong>：揚子江菜館・マーズルー・ベイクブレッド 茶房 タムタム・海老丸らーめん（神保町）、ポンチ軒・LAMB MEAT TENDER（小川町）、香川 一福（神田）、青島食堂・肉汁麺ススム・かむげん（秋葉原のあたり）。</li>
   <li><strong>銀座・日本橋・人形町</strong>：萬福・香味徳・パーラービネフル・銀座 八五・シビレヌードル蝋燭屋・銀座 月と花・ゆたか銀座・銀座つぼやきいも（銀座）、玉ゐ 本店・ラ・ミニョネット・レストラン桂・フージンツリー（日本橋）、シュークリー・菜心（人形町）。</li>
-  <li><strong>赤坂・六本木・麻布十番・広尾</strong>：赤坂Tan伍・プロカンジャンケジャン・肉じるやの角煮・赤坂青野・みんみん（珉珉）・512 カフェアンドグリル（赤坂）、福島屋・呼きつね・焼肉 冷麺 ユッチャン。（六本木）、石垣吉田・ポワンタージュ（麻布十番）、櫻井翔の回で紹介されたルコントと、パティスリー ル トワ（南麻布）。</li>
+  <li><strong>赤坂・六本木・麻布十番・広尾</strong>：赤坂Tan伍・プロカンジャンケジャン・赤坂青野・みんみん（珉珉）・512 カフェアンドグリル（赤坂）、福島屋・呼きつね・焼肉 冷麺 ユッチャン。（六本木）、石垣吉田・ポワンタージュ（麻布十番）、櫻井翔の回で紹介されたルコントと、パティスリー ル トワ（南麻布）。</li>
   <li><strong>恵比寿</strong>：チーズタバーン カシーナ・チャモロ・ビストロ カルネジーオ・キンタン・鮭殻荘。</li>
   <li><strong>渋谷・原宿</strong>：渋谷ヒカリエのル パン ドゥ ジョエル・ロブションとダンプリングタイム 餃子時間、渋谷スクランブルスクエアのホセ・ルイス、ブール アンジュ・ボブズリブズ・チーズ＆ミートバンク。原宿にはバターミルクチャネル・カフェ ド パリ・ヨゴロウ（YOGORO）。</li>
   <li><strong>新宿・高田馬場</strong>：台湾甜商店・手作りのパン 峰屋・サンラサー（新宿）、華火・バンタイ・豚かん・グリルアンドバー ハナヤ（歌舞伎町）、成蔵・極厚家（高田馬場）。</li>

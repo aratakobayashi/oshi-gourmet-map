@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1330" width="420" height="1330" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="1330" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1228" width="420" height="1228" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="1228" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">中丸銀河ちゃんねるの聖地 年表</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="1304" stroke="#6366f1" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<line x1="86" y1="88" x2="86" y2="1202" stroke="#6366f1" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
 <text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
@@ -39,52 +39,45 @@
 <text x="118" y="542" font-size="12.5" fill="#6366f1">中丸雄一【猪狩蒼弥とメシ】溜めに溜めた</text>
 <text x="118" y="560" font-size="12.5" fill="#6366f1">新年🎍に撮った動画です。</text>
 <text x="70" y="622" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="617" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="598" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">セイロン・イン</text>
-<text x="118" y="644" font-size="12.5" fill="#6366f1">北村匠海×中丸雄一【初の他事務所対談】</text>
-<text x="118" y="662" font-size="12.5" fill="#6366f1">プライベートなことまで聞きまくりました</text>
+<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">KORIN</text>
+<text x="118" y="644" font-size="12.5" fill="#6366f1">山田涼介×中丸雄一【グループとしての立</text>
+<text x="118" y="662" font-size="12.5" fill="#6366f1">ち位置】よにのとは違う...!? 本当の2人</text>
 <text x="70" y="724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="719" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="700" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">KORIN</text>
-<text x="118" y="746" font-size="12.5" fill="#6366f1">山田涼介×中丸雄一【グループとしての立</text>
-<text x="118" y="764" font-size="12.5" fill="#6366f1">ち位置】よにのとは違う...!? 本当の2人</text>
+<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">和懐 おお田</text>
+<text x="118" y="746" font-size="12.5" fill="#6366f1">【中丸のグルメ】鹿児島と言ったら、これ</text>
+<text x="118" y="764" font-size="12.5" fill="#6366f1">っきゃない。</text>
 <text x="70" y="826" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="821" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="802" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">和懐 おお田</text>
-<text x="118" y="848" font-size="12.5" fill="#6366f1">【中丸のグルメ】鹿児島と言ったら、これ</text>
-<text x="118" y="866" font-size="12.5" fill="#6366f1">っきゃない。</text>
+<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">和食いぶり別邸 新橋店</text>
+<text x="118" y="848" font-size="12.5" fill="#6366f1">HiHi Jetsの猪狩とツアーお疲れ様会をし</text>
+<text x="118" y="866" font-size="12.5" fill="#6366f1">たら旅行するハメになった</text>
 <text x="70" y="928" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="945" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="923" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="904" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">和食いぶり別邸 新橋店</text>
-<text x="118" y="950" font-size="12.5" fill="#6366f1">HiHi Jetsの猪狩とツアーお疲れ様会をし</text>
-<text x="118" y="968" font-size="12.5" fill="#6366f1">たら旅行するハメになった</text>
+<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">豊洲 千客万来</text>
+<text x="118" y="950" font-size="12.5" fill="#6366f1">【中丸のグルメ】東京の噂のスポット「千</text>
+<text x="118" y="968" font-size="12.5" fill="#6366f1">客万来」に行って、裏技的なことを関係者</text>
 <text x="70" y="1030" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="1025" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="1006" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">豊洲 千客万来</text>
-<text x="118" y="1052" font-size="12.5" fill="#6366f1">【中丸のグルメ】東京の噂のスポット「千</text>
-<text x="118" y="1070" font-size="12.5" fill="#6366f1">客万来」に行って、裏技的なことを関係者</text>
+<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">大久堂 OKUDO カフェ</text>
+<text x="118" y="1052" font-size="12.5" fill="#6366f1">【中丸のグルメ】新大久保に乗り込んで、</text>
+<text x="118" y="1070" font-size="12.5" fill="#6366f1">話題になってそうなスイーツを探してみた</text>
 <text x="70" y="1132" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="1149" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="1127" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
 <rect x="104" y="1108" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">大久堂 OKUDO カフェ</text>
+<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">スタジオカフェ MARU</text>
 <text x="118" y="1154" font-size="12.5" fill="#6366f1">【中丸のグルメ】新大久保に乗り込んで、</text>
 <text x="118" y="1172" font-size="12.5" fill="#6366f1">話題になってそうなスイーツを探してみた</text>
-<text x="70" y="1234" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1251" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="1229" r="7" fill="#fff" stroke="#6366f1" stroke-width="4"/>
-<rect x="104" y="1210" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">スタジオカフェ MARU</text>
-<text x="118" y="1256" font-size="12.5" fill="#6366f1">【中丸のグルメ】新大久保に乗り込んで、</text>
-<text x="118" y="1274" font-size="12.5" fill="#6366f1">話題になってそうなスイーツを探してみた</text>
 </svg>

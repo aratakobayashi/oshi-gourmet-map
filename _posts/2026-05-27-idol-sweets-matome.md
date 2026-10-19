@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "アイドル・芸能人が行ったスイーツまとめ【43軒】浅草・川越・熱海・宮島の食べ歩きまで13組"
+title: "アイドル・芸能人が行ったスイーツまとめ【41軒】浅草・川越・熱海・宮島の食べ歩きまで13組"
 date: 2026-05-27
 last_modified_at: 2026-10-10
-description: "=LOVE・≠ME・Hey! Say! JUMP・乃木坂46・timelesz・SixTONESなど13組の動画や番組に登場したスイーツ・和菓子・かき氷のお店43軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。浅草・川越・熱海・宮島など食べ歩きの街と、どのグループのお店かは図でひと目で。"
+description: "=LOVE・≠ME・Hey! Say! JUMP・乃木坂46・timelesz・SixTONESなど13組の動画や番組に登場したスイーツ・和菓子・かき氷のお店41軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。浅草・川越・熱海・宮島など食べ歩きの街と、どのグループのお店かは図でひと目で。"
 genre: スイーツ
 article_type: genre
 prefecture: 東京都
 tags: [スイーツ, 和菓子, かき氷, 食べ歩き, 聖地巡礼, 乃木坂46, "=LOVE", "≠ME", "≒JOY", "Hey! Say! JUMP", timelesz, SixTONES, "King & Prince", Snow Man, 推し活]
 thumbnail_video_id: fSBicVF8TfQ
 summary:
-  - "13組のグループ・番組に登場したスイーツのお店43軒。=LOVEが9軒、≠MEが8軒、Hey! Say! JUMPが7軒"
+  - "13組のグループ・番組に登場したスイーツのお店41軒。=LOVEが9軒、≠MEとHey! Say! JUMPが7軒ずつ"
   - "浅草には乃木坂46・=LOVE・timelesz の3組。舟和には=LOVEとtimeleszが訪れている"
   - "宮島の揚げもみじの紅葉堂には、=LOVEと≠MEがどちらも「ツアー翌日」の動画で訪問（店舗は別）"
-  - "43軒のうち25軒は東京都の外。川越6軒（Hey! Say! JUMP）・熱海3軒（≠ME）と食べ歩きの街が多い"
+  - "41軒のうち23軒は東京都の外。川越6軒（Hey! Say! JUMP）・熱海3軒（≠ME）と食べ歩きの街が多い"
 shop_ids:
   - nogizaka46-3bd4b889-
   - nogizaka46-e109a250-
@@ -47,20 +47,18 @@ shop_ids:
   - notme-304ed516-202411
   - notme-30129d4e-202411
   - notme-9f107f1a-202408
-  - notme-db5ba582-202408
   - timelesz-56bdf348-
   - timelesz-59cd8eb8-
   - yonino-chocolat_trouver-20260204
   - snowman-welovedonut-20260513
   - snowman-d4d93a94-201810
   - neajoy-08395d58-202408
-  - neajoy-5d7a9b9d-202408
   - kamenashi-9398d442-202508
   - hinatazaka46-e928610f-202004
   - kodoku_no_gurume-69029c00-
 faq:
   - q: "アイドル・芸能人が行ったスイーツのお店は、どのグループが多いですか？"
-    a: "この記事の43軒では、=LOVEが9軒で最も多く、≠MEが8軒、Hey! Say! JUMPが7軒、乃木坂46とtimeleszが4軒ずつです。"
+    a: "この記事の41軒では、=LOVEが9軒で最も多く、≠MEとHey! Say! JUMPが7軒ずつ、乃木坂46とtimeleszが4軒ずつです。"
   - q: "浅草で推しが行ったスイーツのお店は？"
     a: "乃木坂46の浅草 花月堂 本店・浅草 いづ美、=LOVEの舟和 仲見世1号店・2号店、timeleszの亀十・舟和 本店・常盤堂雷おこし本舗 雷門本店があります。舟和には=LOVEとtimeleszの2組が訪れています。"
   - q: "Hey! Say! JUMPが行った川越のお店は？"
@@ -68,30 +66,30 @@ faq:
   - q: "≠MEが行った熱海のお店は？"
     a: "2023年1月の熱海旅の動画にドライブイン 熱海プリン食堂、2024年11月の鈴木瞳美さんのチャンネルの動画に熱海プリン 1st本店と又一庵謹製熱海ばたーあんが登場しています。"
   - q: "推しが行ったスイーツのお店を地図で見られますか？"
-    a: "「お店を探す」でジャンルをスイーツにすると、この記事の43軒を含め、推しグルメ巡礼MAPに登録されているスイーツのお店を地図で見られます。"
+    a: "「お店を探す」でジャンルをスイーツにすると、この記事の41軒を含め、推しグルメ巡礼MAPに登録されているスイーツのお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#db2777">
 
 <p>仲見世でほおばるあんこ、温泉街のプリン、ツアーの翌日に寄った揚げもみじ。スイーツの回には、メンバーどうしの素の笑顔がいちばんよく映ります。</p>
 
-<p>この記事では、<strong>13組</strong>のグループ・番組の動画や放送に登場したスイーツ・和菓子・かき氷のお店<strong>43軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>13組</strong>のグループ・番組の動画や放送に登場したスイーツ・和菓子・かき氷のお店<strong>41軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しのスイーツ</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しのスイーツ</p>
-    <p class="pf-card__yomi">13組の動画・番組から43軒</p>
+    <p class="pf-card__yomi">13組の動画・番組から41軒</p>
     <span class="pf-card__color"><i></i>スイーツ</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>43軒</dd></div>
+    <div><dt>お店の数</dt><dd>41軒</dd></div>
     <div><dt>グループ・番組</dt><dd>13組</dd></div>
     <div><dt>多いグループ</dt><dd>=LOVE（9軒）</dd></div>
     <div><dt>多いエリア</dt><dd>台東区（7軒・浅草など）</dd></div>
     <div><dt>食べ歩きの街</dt><dd>浅草・川越・熱海・宮島・鎌倉</dd></div>
-    <div><dt>東京の外</dt><dd>25軒</dd></div>
+    <div><dt>東京の外</dt><dd>23軒</dd></div>
   </dl>
 </div>
 
@@ -103,12 +101,12 @@ faq:
 </div>
 
 <h2>どのグループのスイーツ？</h2>
-<p>=LOVEが9軒、≠MEが8軒、Hey! Say! JUMPが7軒。イコラブ・ノイミー・ニアジョイの3組を合わせると19軒で、食べ歩きの動画の多さが数字に出ています。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-sweets-matome/groups.svg" alt="どのグループのスイーツか：=LOVE 9軒、≠ME 8軒、Hey! Say! JUMP 7軒、乃木坂46・timeleszが4軒ずつ、King &amp; Prince・Snow Man・≒JOYが2軒ずつ、SixTONES・よにのちゃんねる・亀梨和也・日向坂46・孤独のグルメが1軒ずつ" width="420" height="606" loading="lazy" decoding="async"><figcaption>この記事の43軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<p>=LOVEが9軒、≠MEとHey! Say! JUMPが7軒ずつ。イコラブ・ノイミー・ニアジョイの3組を合わせると17軒で、食べ歩きの動画の多さが数字に出ています。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-sweets-matome/groups.svg" alt="どのグループのスイーツか：=LOVE 9軒、≠ME・Hey! Say! JUMPが7軒ずつ、乃木坂46・timeleszが4軒ずつ、King &amp; Prince・Snow Manが2軒ずつ、≒JOY・SixTONES・よにのちゃんねる・亀梨和也・日向坂46・孤独のグルメが1軒ずつ" width="420" height="606" loading="lazy" decoding="async"><figcaption>この記事の41軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<p>43軒のうち25軒が東京都の外。川越・熱海・宮島・鎌倉のように、食べ歩きの街にまとまっているのがスイーツの特徴です。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-sweets-matome/area.svg" alt="お店の場所：東京18軒、関東（東京以外）13軒、中部6軒、北海道・東北・中国・四国が2軒ずつ、近畿・九州・沖縄が1軒ずつ。東京都のなかでは台東区7軒、渋谷区3軒、中央区2軒など。東京都のほかでは埼玉県7軒、神奈川県4軒、静岡県4軒、広島県2軒など" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<p>41軒のうち23軒が東京都の外。川越・熱海・宮島・鎌倉のように、食べ歩きの街にまとまっているのがスイーツの特徴です。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-sweets-matome/area.svg" alt="お店の場所：東京18軒、関東（東京以外）12軒、中部5軒、北海道・東北・中国・四国が2軒ずつ、近畿・九州・沖縄が1軒ずつ。東京都のなかでは台東区7軒、渋谷区3軒、中央区2軒など。東京都のほかでは埼玉県7軒、静岡県4軒、神奈川県3軒、広島県2軒など" width="420" height="689" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
 <h2>浅草：3組が食べ歩いた仲見世のまわり</h2>
 <p>乃木坂46・=LOVE・timeleszの3組が浅草でスイーツを食べ歩いています。舟和には=LOVEとtimeleszの2組が訪れています。</p>
@@ -123,14 +121,12 @@ faq:
 <div class="pf-quote"><p>=LOVEの初詣の動画は、タイトルどおり「お寺にたどり着かない」ほど仲見世で寄り道。同じ道を歩けば、つい足が止まる気持ちが分かります。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 <h2>同じ看板に、別のグループが</h2>
-<p>宮島の揚げもみじの紅葉堂は、=LOVEと≠MEがどちらも「ツアー翌日」の動画で訪れています。杉養蜂園には≠MEと≒JOYが、それぞれ軽井沢と箱根の店舗に。</p>
+<p>宮島の揚げもみじの紅葉堂は、=LOVEと≠MEがどちらも「ツアー翌日」の動画で訪れています。</p>
 <ul class="pf-works">
   <li><span class="k">2023<br>6月</span><div><b>揚げもみじの紅葉堂 弐番屋（宮島）</b><span>≠ME【VLOG】ツアー翌日！04組の3人で広島の宮島行ってきたよ！【広島旅】</span></div></li>
   <li><span class="k">2025<br>9月</span><div><b>揚げもみじの紅葉堂 本店（宮島）</b><span>=LOVE【ツアー翌日に】るんるん広島旅じゃけん！（チャンネル「イコラブのあんまい」）</span></div></li>
-  <li><span class="k">2023<br>10月</span><div><b>杉養蜂園 軽井沢2号店</b><span>≠ME【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】</span></div></li>
-  <li><span class="k">2023<br>11月</span><div><b>杉養蜂園 箱根店</b><span>≒JOY メンバーだけで箱根でロケしてみた【ノープラン旅】</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="notme-9f107f1a-202408,equal_love-5778582a-202509,notme-db5ba582-202408,neajoy-5d7a9b9d-202408" %}
+{% include inline-shop-grid.html ids="notme-9f107f1a-202408,equal_love-5778582a-202509" %}
 
 <h2>=LOVE・≠ME・≒JOY：原宿・鎌倉・熱海の食べ歩き</h2>
 <ul class="pf-works">
@@ -203,7 +199,7 @@ faq:
 
 <div class="pf-cta">
   <p>推しが行ったスイーツのお店を、地図でぜんぶ見る</p>
-  <span>この記事の43軒のほかにも、グループや番組に登場したスイーツのお店を地図で探せます。行きたいお店は保存して、食べ歩きの計画に。</span>
+  <span>この記事の41軒のほかにも、グループや番組に登場したスイーツのお店を地図で探せます。行きたいお店は保存して、食べ歩きの計画に。</span>
   <a class="btn" href="/shops/?genre=sweets&amp;view=map">地図でスイーツのお店を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-ramen-matome/">ラーメン</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.nogizaka46.u }}">乃木坂46</a>・<a href="{{ site.data.group_ix.equal_love.u }}">=LOVE</a>・<a href="{{ site.data.group_ix.notme.u }}">≠ME</a>のページからも探せます。</p>

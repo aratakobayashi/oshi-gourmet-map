@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "乃木坂46の聖地巡礼・ロケ地まとめ｜乃木坂配信中・冠番組で行った東京のご飯ほか107軒"
+title: "乃木坂46の聖地巡礼・ロケ地まとめ｜乃木坂配信中・冠番組で行った東京のご飯ほか105軒"
 date: 2026-05-21
 last_modified_at: 2026-10-15
 checked_at: 2026-10-15
-description: "乃木坂46の聖地巡礼・ロケ地107軒のまとめ。公式YouTube『乃木坂配信中』の喫茶探訪・さくさんぽ・くぼっち飯、冠番組『乃木坂工事中』『乃木坂どこへ』『乃木坂、逃避行。』のロケ、MV・個人PVの撮影場所、スタジオに料理が出たお店まで、出典ごとに分けて紹介します。"
+description: "乃木坂46の聖地巡礼・ロケ地105軒のまとめ。公式YouTube『乃木坂配信中』の喫茶探訪・さくさんぽ・くぼっち飯、冠番組『乃木坂工事中』『乃木坂どこへ』『乃木坂、逃避行。』のロケ、MV・個人PVの撮影場所、スタジオに料理が出たお店まで、出典ごとに分けて紹介します。"
 group: nogizaka46
 genre: まとめ
 article_type: matome
@@ -25,9 +25,9 @@ sources:
   - label: "確認に使った資料：Senu Blog（乃木坂46のロケ地）"
     url: "https://senublog.com/"
 summary:
-  - "乃木坂46の聖地107軒。公式YouTube『乃木坂配信中』33軒、冠番組28軒、出演番組1軒、MV・個人PV・ジャケット写真の撮影場所24軒、特典映像・ポスター貼りほか15軒、スタジオに料理が出たお店6軒"
+  - "乃木坂46の聖地105軒。公式YouTube『乃木坂配信中』33軒、冠番組28軒、出演番組1軒、MV・個人PV・ジャケット写真の撮影場所23軒、特典映像・ポスター貼りほか14軒、スタジオに料理が出たお店6軒"
   - "メンバーが行ったお店と、MVなどの撮影場所、スタジオに料理が出ただけのお店を分けて載せています。卒業したメンバーには（卒業）と書いています"
-  - "東京が30軒（港区・台東区・千代田区・中央区など）。ほかに鎌倉・北海道・名古屋・大阪・京都など、全部で29都道府県"
+  - "東京が29軒（港区・台東区・千代田区・中央区など）。ほかに鎌倉・北海道・名古屋・大阪・京都など、全部で29都道府県"
   - "お店ごとに回のタイトル・出たメンバー・食べたものを載せ、地図でまとめて巡れる"
 shop_ids:
   - nogizaka46-85374eb4-
@@ -115,7 +115,6 @@ shop_ids:
   - nogizaka46-good_morning_cafe-
   - nogizaka46-awkitchen_garden-
   - nogizaka46-76d7ba94-
-  - nogizaka46-freddy_leck_sein_was-
   - nogizaka46-d8c9092c-
   - nogizaka46-35e2b3d3-
   - nogizaka46-f62fbf7c-
@@ -129,7 +128,6 @@ shop_ids:
   - nogizaka46-1c6ffb46-
   - nogizaka46-cc25e3f6-
   - nogizaka46-9be54ae5-
-  - nogizaka46-7b18f3dd-
   - nogizaka46-c062c929-
   - nogizaka46-milk-
   - nogizaka46-15dd8889-
@@ -149,12 +147,12 @@ faq:
   - q: "「全国ツアーでなに食べまショー」のお店はどこですか？"
     a: "『乃木坂配信中』では、真夏の全国ツアー2023の開催地で、札幌のシハチ鮮魚店 北24条店・なごやか亭 八軒店、大阪のたこ焼き十八番 西中島本店、名古屋のピカイチ・雀おどり 總本店、岩手の牛匠おがた 駅東店・和風レストラン 松竹に行っています。2022年8月の『乃木坂工事中』の同じ名前の企画は、メンバーが地元のグルメを紹介してスタジオに料理が出た回で、お店には行っていません。"
   - q: "乃木坂46のお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で乃木坂46を選ぶと、この記事の107軒を含め、乃木坂46ゆかりのお店を地図で見られます。行きたいお店を保存して、巡礼の計画に使えます。"
+    a: "「お店を探す」で乃木坂46を選ぶと、この記事の105軒を含め、乃木坂46ゆかりのお店を地図で見られます。行きたいお店を保存して、巡礼の計画に使えます。"
 pr: true
 techo: true
 cover_ids: "nogizaka46-ef89d864-,nogizaka46-4507fd1e-20260424,nogizaka46-2344747e-20240630"
 cover_title: "乃木坂46 聖地巡礼帳"
-cover_sub: "乃木坂配信中・冠番組・MVの107軒"
+cover_sub: "乃木坂配信中・冠番組・MVの105軒"
 courses:
   - title: "水道橋から神保町・神田へ：朝ごはんとカレー"
     stops: [nogizaka46-65b993cb-20250311, nogizaka46-ef89d864-, nogizaka46-24da3fd9-, nogizaka46-good_morning_cafe-]
@@ -168,18 +166,18 @@ stay_inline: true
 
 <p><strong>乃木坂46</strong>の公式YouTubeチャンネル『乃木坂配信中』には、メンバーが一人で喫茶店に入ったり、町をぶらり散歩したり、ライブの開催地でご当地のご飯を食べたりする動画がたくさんあります。画面の向こうのモーニングやかき氷、町中華は、実際に訪ねられるお店です。</p>
 
-<p>ほかにも、『乃木坂工事中』『乃木坂って、どこ？』『乃木坂どこへ』『乃木坂、逃避行。』などの冠番組のロケ、MV・個人PV・ジャケット写真の撮影場所、シングルの特典映像やベストアルバムのポスター貼りで訪れたお店があります。この記事では<strong>107軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>ほかにも、『乃木坂工事中』『乃木坂って、どこ？』『乃木坂どこへ』『乃木坂、逃避行。』などの冠番組のロケ、MV・個人PV・ジャケット写真の撮影場所、シングルの特典映像やベストアルバムのポスター貼りで訪れたお店があります。この記事では<strong>105軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <p class="note">名前のあとの「（卒業）」は、いまは乃木坂46を卒業しているメンバーです。お店が出てくる回は、どれも在籍中のものです。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「乃木坂配信中」<small>33軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組『乃木坂工事中』<small>8軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『乃木坂って、どこ？』<small>2軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『乃木坂どこへ』<small>4軒</small></span></a><a href="#src5">{% include chico.html kind="tv" %}<span>冠番組『乃木坂、逃避行。』<small>10軒</small></span></a><a href="#src6">{% include chico.html kind="tv" %}<span>冠番組『NOGIBINGO!』と『乃木坂46時間TV』<small>4軒</small></span></a><a href="#src7">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a><a href="#src8">{% include chico.html kind="drama" %}<span>MV・ジャケット写真・個人PVのロケ地（撮影場所）<small>24軒</small></span></a><a href="#src9">{% include chico.html kind="other" %}<span>特典映像・ポスター貼りほか<small>15軒</small></span></a><a href="#src10">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>6軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「乃木坂配信中」<small>33軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組『乃木坂工事中』<small>8軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『乃木坂って、どこ？』<small>2軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『乃木坂どこへ』<small>4軒</small></span></a><a href="#src5">{% include chico.html kind="tv" %}<span>冠番組『乃木坂、逃避行。』<small>10軒</small></span></a><a href="#src6">{% include chico.html kind="tv" %}<span>冠番組『NOGIBINGO!』と『乃木坂46時間TV』<small>4軒</small></span></a><a href="#src7">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a><a href="#src8">{% include chico.html kind="drama" %}<span>MV・ジャケット写真・個人PVのロケ地（撮影場所）<small>23軒</small></span></a><a href="#src9">{% include chico.html kind="other" %}<span>特典映像・ポスター貼りほか<small>14軒</small></span></a><a href="#src10">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>6軒</small></span></a></div>
 </div>
 {% include matome-members.html group="nogizaka46" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>107軒のなかから、東京で行きやすく、メンバーが実際に食べた回のお店を3つ選びました。</p>
+<p>105軒のなかから、東京で行きやすく、メンバーが実際に食べた回のお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="nogizaka46-4507fd1e-20260424" no="其の一" why="「筒井喫茶探訪」第5弾（2026年4月）の回。筒井あやめが玉子サンドを食べています。お店は東京・日本橋室町です。" %}
 {% include pick.html id="nogizaka46-ef89d864-" no="其の二" why="「さくさんぽ第5弾」（2024年2月）で、遠藤さくらが神保町を散歩してカツカレーを食べたお店。同じ回のカリーライス専門店 エチオピア 本店も同じ神保町駅の近くです。" %}
@@ -362,7 +360,6 @@ stay_inline: true
 <h3>ジャケット写真</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="nogizaka46-76d7ba94-" %}<span class="wr__k">2013</span><b class="wr__name">デモデダイナー 福生店</b><span class="wr__t">7thシングル『バレッタ』のジャケット写真の撮影場所。アメリカンダイナー（福生）</span>{% include wr-close.html id="nogizaka46-76d7ba94-" %}</li>
-  <li class="wr">{% include wr-open.html id="nogizaka46-freddy_leck_sein_was-" %}<span class="wr__k">2018</span><b class="wr__name">FREDDY LECK sein WASCHSALON TOKYO</b><span class="wr__t">20thシングル『シンクロニシティ』Type-Bのジャケット写真の撮影場所。カフェのあるコインランドリー（目黒区中央町）</span>{% include wr-close.html id="nogizaka46-freddy_leck_sein_was-" %}</li>
 </ul>
 
 <h2 id="src9">{% include chico.html kind="other" %}特典映像・ポスター貼りほか</h2>
@@ -392,7 +389,6 @@ stay_inline: true
 <h3>メンバーが話したお店ほか</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="nogizaka46-9be54ae5-" %}<span class="wr__k">2016</span><b class="wr__name">六本木らーめん 東京食品 まる彦</b><span class="wr__t">衛藤美彩（卒業）が2016年にテレビ番組で紹介し、その後もたびたび訪れていたと報じられたラーメン店。2021年春に南青山へ移転し、店名も「乃木坂まる彦らーめん」になったと報じられています</span>{% include wr-close.html id="nogizaka46-9be54ae5-" %}</li>
-  <li class="wr">{% include wr-open.html id="nogizaka46-7b18f3dd-" %}<span class="wr__k">—</span><b class="wr__name">丸デブ 総本店</b><span class="wr__t">堀未央奈（卒業）が『乃木坂って、どこ？』で、加入前によく行っていたと話した中華そばのお店（岐阜市）</span>{% include wr-close.html id="nogizaka46-7b18f3dd-" %}</li>
   <li class="wr">{% include wr-open.html id="nogizaka46-c062c929-" %}<span class="wr__k">—</span><b class="wr__name">三全 仙台エスパル店</b><span class="wr__t">「宮城・仙台旅しおり」で久保史緒里（卒業）が仙台銘菓を食べたお店（仙台駅のエスパル）</span>{% include wr-close.html id="nogizaka46-c062c929-" %}</li>
 </ul>
 
@@ -413,7 +409,7 @@ stay_inline: true
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他41軒、カフェ25軒、和食10軒、食事9軒、スイーツ8軒、中華5軒、ラーメン4軒、居酒屋3軒、焼肉2軒。場所は神奈川県鎌倉市11軒、東京都港区7軒、台東区6軒、千代田区4軒、名古屋市・京都市・札幌市・大阪市・小樽市が4軒ずつ、東京都中央区3軒、栃木県足利市3軒など。ほか44か所に47軒" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の107軒を数えました（「その他」はジャンルをまだ分けていないお店です）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他41軒、カフェ24軒、和食10軒、食事9軒、スイーツ8軒、中華5軒、ラーメン3軒、居酒屋3軒、焼肉2軒。場所は神奈川県鎌倉市11軒、東京都港区7軒、台東区6軒、千代田区4軒、名古屋市・京都市・札幌市・大阪市・小樽市が4軒ずつ、東京都中央区3軒、栃木県足利市3軒など。ほか42か所に45軒" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の105軒を数えました（「その他」はジャンルをまだ分けていないお店です）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>『乃木坂配信中』から、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -425,7 +421,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区7軒、台東区6軒、千代田区4軒、中央区3軒、渋谷区2軒など。23区の外は神奈川県14軒、埼玉県2軒、東京の市部・島1軒、そのほかの道府県61軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/nogizaka46-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区7軒、台東区6軒、千代田区4軒、中央区3軒、渋谷区2軒など。23区の外は神奈川県14軒、埼玉県2軒、東京の市部・島1軒、そのほかの道府県60軒" width="420" height="634" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。MV・個人PVの撮影場所は、そう書いています。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>神保町・水道橋・神田</strong>：さくさんぽ第5弾のキッチン南海 神保町店・カリーライス専門店 エチオピア 本店（どちらも神保町駅 徒歩4分）、中西アルノの松屋 水道橋店（神田三崎町）。与田祐希の個人PVの撮影場所 GOOD MORNING CAFE 錦町（竹橋駅 徒歩5分）も近くです。</li>
@@ -434,7 +430,7 @@ stay_inline: true
   <li><strong>新橋</strong>：『乃木坂どこへ』のカレーは飲み物。ニュー新橋ビル店・豚大学 新橋校舎・焼肉ライク 新橋本店（どれも新橋駅 徒歩1分）。</li>
   <li><strong>浅草</strong>：『乃木坂って、どこ？』の浅草 花月堂 本店と、『NOGIBINGO!10』の浅草 いづ美（浅草駅 徒歩5分）。西浅草には『バレッタ』の個人PVの撮影場所として登録しているCAFE&amp;BAR 1-Point。</li>
   <li><strong>表参道・南青山</strong>：まゆたん協会のシャルール表参道（神宮前5丁目）。南青山には個人PVの撮影場所の山菅茶店（乃木坂駅 徒歩6分）とカフェアトランティス。</li>
-  <li><strong>そのほかの東京</strong>：西新宿の珈琲西武 西新宿店、下北沢のcafe viet arco、清澄白河の桃太楼、北大塚のおにぎり ぼんご 大塚本店（巣鴨新田駅 徒歩3分）、本郷三丁目の中華蕎麦 にし乃、渋谷のしゃぶ葉 渋谷駅前店（渋谷駅 徒歩2分）。撮影場所では、大森海岸の菊地商店、学芸大学のFREDDY LECK sein WASCHSALON TOKYO、福生のデモデダイナー 福生店。</li>
+  <li><strong>そのほかの東京</strong>：西新宿の珈琲西武 西新宿店、下北沢のcafe viet arco、清澄白河の桃太楼、北大塚のおにぎり ぼんご 大塚本店（巣鴨新田駅 徒歩3分）、本郷三丁目の中華蕎麦 にし乃、渋谷のしゃぶ葉 渋谷駅前店（渋谷駅 徒歩2分）。撮影場所では、大森海岸の菊地商店、福生のデモデダイナー 福生店。</li>
 </ul>
 <h3>東京の外</h3>
 <ul>
@@ -450,7 +446,7 @@ stay_inline: true
 
 <div class="pf-cta">
   <p>乃木坂46のお店を、地図でぜんぶ見る</p>
-  <span>この記事の107軒のほかにも、乃木坂46ゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の105軒のほかにも、乃木坂46ゆかりのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=nogizaka46&amp;view=map">地図で乃木坂46のお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.nogizaka46.u }}">乃木坂46のお店一覧（グループのページ）</a>もどうぞ。</p>

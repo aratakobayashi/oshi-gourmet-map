@@ -7,8 +7,7 @@ name: "VERVE COFFEE ROASTERS EBISU"
 genre: "cafe"
 prefecture: "東京都"
 city: "渋谷区"
-address: "東京都渋谷区恵比寿4-20-7 恵比寿ガーデンプレイス センタープラザ内"
-nearest_station: "恵比寿駅 徒歩9分"
+address: "東京都渋谷区東3-9-12"
 visited_date: "2025-10-26"
 youtube_id: "MBsvQ9ZPKy8"
 source_video_title: "#469【続き!!】しんどくて発狂した日"
@@ -18,8 +17,8 @@ tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13278633/"
 thumbnail_url: "https://img.youtube.com/vi/MBsvQ9ZPKy8/hqdefault.jpg"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
-lat: 35.642345
-lng: 139.714007
+lat: 35.649952
+lng: 139.711807
 members:
   - "二宮和也"
   - "山田涼介"

@@ -1,11 +1,11 @@
 ---
-title: "SixTONESの和食聖地巡礼｜行った和食18選"
-description: "SixTONESのメンバーが実際に訪れた和食スポットを18件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "SixTONESの和食聖地巡礼｜行った和食17選"
+description: "SixTONESのメンバーが実際に訪れた和食スポットを17件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sixtones
 genre: washoku
 group_label: "SixTONES"
 slug_id: sixtones-washoku
-shop_count: 18
+shop_count: 17
 group_color: "#f97316"
 group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性グループ。バラエティやYouTubeでグルメスポットを紹介。"
 youtube_id: EhYbUENdLKE

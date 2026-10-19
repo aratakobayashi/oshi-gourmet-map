@@ -11,8 +11,8 @@ group_bio: "Hey! Say! JUMPはSTARTO ENTERTAINMENTの男性アイドルグルー�
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 related_genres:
   - heysayjump-shokuji
-  - heysayjump-cafe
   - heysayjump-washoku
+  - heysayjump-cafe
 related_groups:
   - rosenbus-sweets
   - burari-sweets

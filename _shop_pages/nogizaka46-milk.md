@@ -21,9 +21,6 @@ visit_kind: "own_tv"
 program: "乃木坂工事中 #373（2022年8月14日）"
 lat: 35.187878
 lng: 136.918944
-members:
-  - "齋藤飛鳥"
-  - "筒井あやめ"
 groups:
   - "nogizaka46"
 ---

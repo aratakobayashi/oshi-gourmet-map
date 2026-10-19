@@ -18,8 +18,6 @@ visit_kind: "own_tv"
 program: "乃木坂工事中 #373（2022年8月14日）"
 lat: 43.1994354
 lng: 140.9955981
-members:
-  - "金川紗耶"
 groups:
   - "nogizaka46"
 ---

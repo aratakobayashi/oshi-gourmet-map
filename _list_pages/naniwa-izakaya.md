@@ -1,14 +1,14 @@
 ---
-title: "なにわ男子の居酒屋聖地巡礼｜行った居酒屋8選"
-description: "なにわ男子のメンバーが実際に訪れた居酒屋スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子の居酒屋聖地巡礼｜行った居酒屋5選"
+description: "なにわ男子のメンバーが実際に訪れた居酒屋スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
 genre: izakaya
 group_label: "なにわ男子"
 slug_id: naniwa-izakaya
-shop_count: 8
+shop_count: 5
 group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
-youtube_id: 3_HZZwKYEw4
+thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 related_genres:
   - naniwa-cafe
   - naniwa-shokuji
