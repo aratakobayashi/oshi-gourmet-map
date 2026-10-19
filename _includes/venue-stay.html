@@ -1,0 +1,16 @@
+{%- comment -%}
+  会場ガイドの本文（「泊まる」の章）に置く宿探しのボタン。会場は page.slug（_data/venue_nearby.json のキー）。
+  使い方: {% include venue-stay.html %}（scripts/venue_stay_insert.py が「泊まる」の見出しの章の最初の段落のあとに置く）
+{%- endcomment -%}
+{%- assign _vv = site.data.venue_nearby[page.slug] -%}
+{%- if _vv %}
+<div class="stay-in">
+  <p class="stay-in__h"><span aria-hidden="true">🛏</span> {{ _vv.hk }}周辺に泊まる<small class="stay-in__pr">PR</small></p>
+  <div class="btn-row">
+    {%- capture _j %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ _vv.hj }}{% endcapture %}
+    {%- capture _r %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ _vv.hk | url_encode }}{% endcapture %}
+    {% include affiliate-link.html url=_j label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+    {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn" service="rakuten" %}
+  </div>
+</div>
+{%- endif %}

@@ -7,7 +7,7 @@
   <div>
     <p class="card__meta">{% if include.label %}{{ include.label }}{% else %}<span class="dot"></span>{{ _gi.l | default: _c.gr }}・{{ site.data.genres[_c.g].label | default: _c.g }}{% endif %}</p>
     <p class="card__name">{{ _c.n }}</p>
-    <p class="card__st">{% if _c.st != '' %}{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}{% else %}{{ _c.p }}{% endif %}{% if include.m >= 50 %}・この店から{% if include.m >= 1000 %}{{ include.m | divided_by: 100 | divided_by: 10.0 }}km{% else %}{{ include.m }}m{% endif %}{% endif %}</p>
+    <p class="card__st">{% if _c.st != '' %}{{ _c.st }}{% if _c.w != '' %} {{ _c.w }}{% endif %}{% else %}{{ _c.p }}{% endif %}{% if include.m >= 50 %}・{{ include.from | default: "この店から" }}{% if include.m >= 1000 %}{{ include.m | divided_by: 100 | divided_by: 10.0 }}km{% else %}{{ include.m }}m{% endif %}{% endif %}</p>
   </div>
 </a>
 {%- endif -%}

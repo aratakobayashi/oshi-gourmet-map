@@ -1,0 +1,7 @@
+[
+ {"key": "hokkaido", "label": "北海道・東北", "venues": ["sapporo-dome", "hokkai-kitaeru", "xebio-arena-sendai", "qa-stadium-miyagi"]},
+ {"key": "kanto", "label": "関東", "venues": ["tokyo-dome", "nippon-budokan", "yoyogi-national-gymnasium", "ariake-arena", "tokyo-garden-theater", "musashino-forest-sport-plaza", "saitama-super-arena", "belluna-dome", "k-arena-yokohama", "pia-arena-mm", "yokohama-arena", "nissan-stadium", "makuhari-messe", "lala-arena-tokyo-bay"]},
+ {"key": "tokai", "label": "東海", "venues": ["vantelin-dome-nagoya", "nippon-gaishi-hall", "aichi-sky-expo", "shizuoka-ecopa-arena"]},
+ {"key": "kansai", "label": "関西", "venues": ["kyocera-dome-osaka", "osaka-jo-hall", "asue-arena-osaka", "kobe-world-kinen-hall"]},
+ {"key": "kyushu", "label": "九州", "venues": ["mizuho-paypay-dome", "marine-messe-fukuoka"]}
+]

@@ -26,7 +26,7 @@ body_class: has-sticky
 {%- endfor -%}
 {%- assign can_book = false -%}{%- if s.hotpepper_url or book_links.size > 0 -%}{%- assign can_book = true -%}{%- endif -%}
 {%- if s.closed -%}{%- assign can_book = false -%}{%- endif -%}
-{%- assign has_go = false -%}{%- if can_book or tb_url or other_links.size > 0 or c.hk -%}{%- assign has_go = true -%}{%- endif -%}
+{%- assign has_go = false -%}{%- if can_book or tb_url or other_links.size > 0 or c.hk or c.vv -%}{%- assign has_go = true -%}{%- endif -%}
 
 {%- comment -%} PR表記: 提携IDが入っているリンクが1つでもあれば出す {%- endcomment -%}
 {%- assign vc = site.affiliate.valuecommerce -%}
@@ -38,6 +38,8 @@ body_class: has-sticky
   {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' and vc.ikyu_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
 {%- endif -%}
 {%- if c.hk and site.affiliate.rakuten.id != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+{%- if c.vv and site.affiliate.rakuten.id != '' -%}{%- assign has_promo = true -%}{%- endif -%}
+{%- if c.vv and vc.linkswitch_pid != '' -%}{%- assign has_promo = true -%}{%- endif -%}
 {%- if vc.linkswitch_pid != '' -%}
   {%- if tb_url or c.hk -%}{%- assign has_promo = true -%}{%- endif -%}
   {%- for l in s.affiliate_links -%}{%- if l.url contains 'restaurant.ikyu.com' -%}{%- assign has_promo = true -%}{%- endif -%}{%- endfor -%}
@@ -164,7 +166,21 @@ body_class: has-sticky
           {%- for l in other_links %}{% include affiliate-link.html url=l.url label=l.label class="btn btn--block btn--arrow" arrow=true %}{% endfor %}
         </div>
         {%- endif %}
-        {%- if c.hk %}
+        {%- if c.vv %}
+        {%- assign _vk = c.vv[0] -%}{%- assign _vv = site.data.venue_nearby[_vk] -%}
+        <div class="action__group venue-near">
+          <p class="action__label"><span aria-hidden="true">🎤</span> ライブ会場の近くのお店</p>
+          <p class="venue-near__t">{{ c.vv[1] }}から直線で約{% if c.vv[2] < 1000 %}{{ c.vv[2] }}m{% else %}{{ c.vv[2] | divided_by: 100 | divided_by: 10.0 }}km{% endif %}。遠征の日に、会場とあわせて巡れます。</p>
+          <a class="btn btn--block btn--arrow" href="{{ '/guide/' | append: _vk | append: '/' | relative_url }}">{{ c.vv[1] }}のライブ参戦ガイド<span aria-hidden="true">→</span></a>
+          <p class="action__label" style="margin-top:12px">{{ c.vv[1] }}周辺に泊まる</p>
+          <div class="btn-row">
+            {%- capture jalan_url %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ _vv.hj }}{% endcapture %}
+            {%- capture rakuten_url %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ _vv.hk | url_encode }}{% endcapture %}
+            {% include affiliate-link.html url=jalan_url label="じゃらん" class="btn btn--accent" service="jalan" %}
+            {% include affiliate-link.html url=rakuten_url label="楽天トラベル" class="btn" service="rakuten" %}
+          </div>
+        </div>
+        {%- elsif c.hk %}
         <div class="action__group">
           <p class="action__label">{{ c.hk }}周辺に泊まる</p>
           <div class="btn-row">
