@@ -1,12 +1,12 @@
 ---
-title: "木村拓哉の食事聖地巡礼｜行った食事8選"
-description: "木村拓哉のメンバーが実際に訪れた食事スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "木村拓哉の食事聖地巡礼｜行った食事7選"
+description: "木村拓哉のメンバーが実際に訪れた食事スポットを7件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: kimura
 genre: shokuji
 group_label: "木村拓哉"
 slug_id: kimura-shokuji
-shop_count: 8
-thumbnail_url: "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yoyaku_com/20240426/20240426135041.jpg"
+shop_count: 7
+youtube_id: npYLBADlnZ8
 related_groups:
   - jinsei-saiko-shokuji
   - burari-shokuji
