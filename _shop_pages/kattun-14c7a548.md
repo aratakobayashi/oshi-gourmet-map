@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=Kv2-QX2HenQ"
 source_url: "https://kosodate-and.net/kame-osaka-okonomiyaki"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270101/27001891/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"
 lat: 34.70105771797994

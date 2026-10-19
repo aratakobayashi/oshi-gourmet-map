@@ -13,6 +13,7 @@ source_video_title: "だが、情熱はある【髙橋海人ロケ地】若林�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-okonomiyaki"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13050746/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 visit_kind: "drama"
 program: "だが、情熱はある"

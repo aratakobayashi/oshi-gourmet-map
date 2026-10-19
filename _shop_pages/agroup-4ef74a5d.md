@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=QsNHvXoTnyE"
 source_url: "https://kosodate-and.net/sue-yokohama-taiyaki"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140101/14003788/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.46479237880692
@@ -23,4 +24,6 @@ members:
   - "末澤誠也"
 groups:
   - "agroup"
+ordered_items:
+  - "プレミアムクリームたい焼き(バニラビーンズ入り)"
 ---

@@ -14,6 +14,7 @@ source_video_title: "アンサンブル 第5話【松村北斗 ロケ地】レ�
 source_url: "https://kosodate-and.net/ensemble-hokuto-restaurant"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140309/14007061/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/skYCNsXI77d7D1GBHraLllUhq3z.jpg"
 visit_kind: "drama"
 program: "アンサンブル"

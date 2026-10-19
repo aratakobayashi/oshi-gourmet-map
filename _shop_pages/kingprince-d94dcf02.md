@@ -12,6 +12,7 @@ source_video_title: "『わが家は楽し』ロケ地のパン屋さんはど�
 source_url: "https://kosodate-and.net/wagaya-panya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130803/13000429/"
+tabelog_verified: "True"
 visit_kind: "drama"
 program: "わが家は楽し"
 lat: 35.686593918704126

@@ -25,4 +25,6 @@ members:
   - "中間淳太"
 groups:
   - "west"
+ordered_items:
+  - "焼きそば"
 ---

@@ -20,4 +20,6 @@ members:
   - "安田章大"
 groups:
   - "kanjani"
+ordered_items:
+  - "つけカレー焼きそば"
 ---

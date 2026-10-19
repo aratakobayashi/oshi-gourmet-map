@@ -24,4 +24,8 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "アイスコーヒー"
+  - "ナポリタン"
+  - "チョコレートケーキ"
 ---

@@ -22,4 +22,8 @@ members:
   - "佐久間大介"
 groups:
   - "snowman"
+ordered_items:
+  - "かわむらプレート"
+  - "杏あんみつ"
+  - "桃のかき氷"
 ---

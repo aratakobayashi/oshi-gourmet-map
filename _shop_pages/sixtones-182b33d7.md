@@ -13,6 +13,7 @@ source_video_title: "SixTONES【ストチューブロケ地】三鷹吉祥寺・
 source_url: "https://kosodate-and.net/sixtones-inokashira-park"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1326/A132601/13033267/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6636548
@@ -22,4 +23,7 @@ members:
   - "松村北斗"
 groups:
   - "sixtones"
+ordered_items:
+  - "山菜そば"
+  - "もりそば"
 ---

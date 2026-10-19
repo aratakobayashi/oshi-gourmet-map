@@ -22,4 +22,6 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+ordered_items:
+  - "サークロ プレーン"
 ---

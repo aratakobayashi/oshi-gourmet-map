@@ -12,6 +12,7 @@ source_video_title: "キントレ【永瀬廉＆桐山照史】まかないハ�
 source_url: "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130905/13228340/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "guest_tv"
 program: "キントレ"

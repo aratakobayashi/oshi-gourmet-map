@@ -13,6 +13,7 @@ source_video_title: "西園寺さんは家事をしない【松村北斗 ロケ�
 source_url: "https://kosodate-and.net/saionji-hokuto-pizza"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130303/13164019/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3j0rQJewZCkutdlSDEObVClp1oj.jpg"
 visit_kind: "drama"
 program: "西園寺さんは家事をしない"

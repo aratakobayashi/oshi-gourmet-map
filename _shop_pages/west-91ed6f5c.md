@@ -17,6 +17,7 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131502/13008294/"
 source_type: "youtube"
+seating_note: "2階・カウンター向かいのテーブル席（3つ並んだうち一番奥）"
 visit_kind: "youtube"
 program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.5833459
@@ -25,4 +26,7 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "ブレンドコーヒー(モーニングセット)"
+  - "ピザトースト"
 ---

@@ -15,6 +15,7 @@ source_url: "https://oshikatsu-time.com/timelesz-hashimotomasaki-shinozukataiki-
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131701/13306628/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/1L0R4BVFyTHDSCvI2Gu2b6bDpgd.jpg"
+seating_note: "テーブル席"
 visit_kind: "guest_tv"
 program: "かまいガチ"
 lat: 35.6450659

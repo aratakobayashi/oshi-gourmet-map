@@ -12,6 +12,7 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人ロケ地】茨�
 source_url: "https://kosodate-and.net/kintore-suihanki-kaito-panya"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/ibaraki/A0802/A080201/8001304/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（炊飯器の旅）"
@@ -21,4 +22,6 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
+ordered_items:
+  - "究極のソーセージフランス"
 ---

@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=EX93VXsmLsI"
 source_url: "https://kosodate-and.net/sixtones-chiipan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13179430/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6921592
@@ -28,4 +29,15 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+ordered_items:
+  - "プレミアムクリームパン"
+  - "ちいカレーパン"
+  - "玄米パンのカニクリームコロッケパン"
+  - "クロックムッシュ(コーン)"
+  - "ちいアンパンマン"
+  - "クリームドーナツ"
+  - "塩フランス"
+  - "もちもち枝豆"
+  - "ちいガーリックフランス"
+  - "チキン竜田"
 ---

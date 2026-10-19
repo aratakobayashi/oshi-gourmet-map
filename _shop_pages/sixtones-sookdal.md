@@ -14,6 +14,7 @@ source_video_title: "オオカミ少年【ジェシー＆田中樹ロケ地】�
 source_url: "https://kosodate-and.net/ookami-jesse-jyuri-kankoku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13135397/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ003716019/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/ArDNrCix7Zje5pbkQUbAF9kVxV8.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/99/P043555999/P043555999_238.jpg"

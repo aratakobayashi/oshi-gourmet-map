@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=SkIMIAt-W2g"
 source_url: "https://kosodate-and.net/kame-ryusei-izakaya"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131501/13023086/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"
 lat: 35.60711221875251
@@ -24,4 +25,16 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "鰻串 短冊"
+  - "鰻串 白短冊"
+  - "鰻串 肝"
+  - "鰻串 鰻ハニーブルーチーズ"
+  - "レバー"
+  - "ハツ"
+  - "ささみ"
+  - "アスパラ"
+  - "鰻のためのハイボール"
+  - "大蒜と青唐辛子の味玉"
+  - "オクラとなめ茸の和え物"
 ---

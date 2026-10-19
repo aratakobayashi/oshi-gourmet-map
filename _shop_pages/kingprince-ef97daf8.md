@@ -13,6 +13,7 @@ source_video_title: "【キントレ当たり前レストラン】タイの屋�
 source_url: "https://kosodate-and.net/kintore-atarimae-kaomangai"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13276772/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（当たり前レストラン）"

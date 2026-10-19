@@ -13,6 +13,7 @@ source_video_title: "キントレガイドブック【永瀬廉・福士蒼汰�
 source_url: "https://kosodate-and.net/kintore-ren-nerima-ramen"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132102/13253289/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（キントレガイドブック）"
@@ -22,4 +23,6 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "背脂納豆つけ麺"
 ---

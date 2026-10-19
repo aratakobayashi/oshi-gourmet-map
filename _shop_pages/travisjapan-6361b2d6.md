@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=49CwXq_NElE"
 source_url: "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/fukuoka/A4001/A400104/40043848/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ジュニアCHANNEL（Travis Japan）"
 lat: 33.5890805

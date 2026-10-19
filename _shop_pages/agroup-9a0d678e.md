@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=3GXrX4OKtp0"
 source_url: "https://kosodate-and.net/aqroup-kotaki-sushi"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13223448/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.65657329871196

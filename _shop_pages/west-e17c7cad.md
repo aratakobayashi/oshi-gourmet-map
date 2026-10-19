@@ -13,6 +13,7 @@ source_video_title: "イキスギさんについてった 2022-11-08（小瀧望
 source_url: "https://ameblo.jp/ituki07/entry-12772336746.html"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1309/A130902/13260492/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 visit_kind: "own_tv"

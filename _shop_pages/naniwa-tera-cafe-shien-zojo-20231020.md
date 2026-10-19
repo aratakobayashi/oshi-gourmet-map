@@ -23,4 +23,6 @@ members:
   - "西畑大吾"
 groups:
   - "naniwa"
+ordered_items:
+  - "熊本栗の生搾りモンブラン ー極ー"
 ---

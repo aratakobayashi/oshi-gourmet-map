@@ -30,4 +30,6 @@ members:
 groups:
   - "snowman"
   - "kanjani"
+ordered_items:
+  - "ミニ蒲焼"
 ---

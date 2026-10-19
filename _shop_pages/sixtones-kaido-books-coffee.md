@@ -14,6 +14,7 @@ source_video_title: "【だが、情熱はあるロケ地】森本慎太郎が�
 source_url: "https://kosodate-and.net/daga-jyounetsu-shintaro-scone"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131405/13187934/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001164615/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/44/79/P050624479/P050624479_238.jpg"

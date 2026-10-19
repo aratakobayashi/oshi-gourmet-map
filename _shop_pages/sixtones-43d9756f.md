@@ -14,6 +14,7 @@ source_video_title: "【6SixTONES シクスト】二宮和也との担々麺 麻
 source_url: "https://kosodate-and.net/6sixtones-nino-chinese"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13291567/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg"
 visit_kind: "own_tv"
 program: "6SixTONES"
@@ -28,4 +29,6 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+ordered_items:
+  - "担々麺"
 ---

@@ -12,6 +12,7 @@ source_video_title: "【だが、情熱はあるロケ地】若林（髙橋海�
 source_url: "https://kosodate-and.net/daga-jyounetsu-kaito-sushi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130602/13250987/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ003432899/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/64/19/P040736419/P040736419_238.jpg"
@@ -23,4 +24,6 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
+ordered_items:
+  - "ウニとイクラ"
 ---

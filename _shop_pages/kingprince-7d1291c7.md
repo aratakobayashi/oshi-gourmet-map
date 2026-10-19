@@ -12,6 +12,7 @@ source_video_title: "VS魂【岸優太ロケ地】背徳グルメ第3弾！爆�
 source_url: "https://kosodate-and.net/vsdamashii-kishi-tsuribune"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1325/A132503/13043865/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 visit_kind: "guest_tv"
 program: "VS魂"

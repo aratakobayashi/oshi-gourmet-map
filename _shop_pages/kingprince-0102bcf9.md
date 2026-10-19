@@ -12,7 +12,8 @@ nearest_station: "新福島駅 徒歩1分"
 source_video_title: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？"
 source_url: "https://kosodate-and.net/ren-daigo-masakado-osaka"
 group: "kingprince"
-tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27084655/"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27129373/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001282723/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/82/62/P039178262/P039178262_238.jpg"
@@ -26,4 +27,7 @@ groups:
   - "agroup"
   - "kingprince"
   - "naniwa"
+ordered_items:
+  - "ハイボール（永瀬廉）"
+  - "生ビール（西畑大吾・正門良規）"
 ---

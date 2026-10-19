@@ -22,4 +22,6 @@ members:
   - "大橋和也"
 groups:
   - "naniwa"
+ordered_items:
+  - "アイスのフルコース料理"
 ---

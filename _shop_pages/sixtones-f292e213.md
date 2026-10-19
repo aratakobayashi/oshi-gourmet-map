@@ -13,6 +13,7 @@ source_video_title: "アニマリング【佐久間大介＆髙地優吾】焼�
 source_url: "https://kosodate-and.net/animaling-saku-kochi-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1317/A131712/13174357/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001263979/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/20/09/P046502009/P046502009_238.jpg"
 visit_kind: "guest_tv"
@@ -23,4 +24,7 @@ members:
   - "髙地優吾"
 groups:
   - "sixtones"
+ordered_items:
+  - "ハラミ"
+  - "厚切り上タン"
 ---

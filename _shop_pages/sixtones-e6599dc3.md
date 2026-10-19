@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=CcwwsKelz6M"
 source_url: "https://kosodate-and.net/sixtones-nagoya-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230104/23060894/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.21947

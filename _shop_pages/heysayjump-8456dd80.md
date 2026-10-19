@@ -23,4 +23,6 @@ members:
   - "山田涼介"
 groups:
   - "heysayjump"
+ordered_items:
+  - "イノウエ(5個入り)"
 ---

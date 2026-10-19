@@ -13,6 +13,7 @@ source_video_title: "渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MA
 source_url: "https://news.yahoo.co.jp/expert/articles/a4d18fe59f19ed425499c3d49d9456c8d63131f4"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13241220/"
+seating_note: "向かって左の窓手前の席・店内奥の鏡張りの席（撮影場所）"
 visit_kind: "other"
 program: "渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MARNI」"
 lat: 35.662212

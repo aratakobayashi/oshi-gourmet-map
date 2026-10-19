@@ -22,4 +22,7 @@ members:
   - "松島聡"
 groups:
   - "timelesz"
+ordered_items:
+  - "ベリーミックスヨーグルト"
+  - "アイスカフェラテ"
 ---

@@ -12,6 +12,7 @@ source_video_title: "めざましテレビ 2017.05.25"
 source_url: "https://medax.hatenablog.com/entry/mezamashi/20170525"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13030989/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 visit_kind: "guest_tv"
 program: "めざましテレビ"
@@ -21,4 +22,6 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "もやしのキッシュ"
 ---

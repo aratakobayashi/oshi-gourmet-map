@@ -14,6 +14,7 @@ source_video_title: "SixTONES冠番組ストP【田中樹＆松村北斗ロケ�
 source_url: "https://kosodate-and.net/sixtones-hokujuri-beer"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131603/13228217/"
+tabelog_verified: "True"
 visit_kind: "own_tv"
 program: "SixTONESの今日からプロデューサーズ！（ストP）"
 lat: 35.6245471

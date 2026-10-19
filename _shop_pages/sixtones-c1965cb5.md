@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=fZDShCN5fxM"
 source_url: "https://kosodate-and.net/sixtones-genghis-khan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010102/1081974/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 43.0511219

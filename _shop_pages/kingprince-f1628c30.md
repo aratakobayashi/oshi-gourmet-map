@@ -13,8 +13,10 @@ source_video_title: "【キンプリMr.5ロケ地】熱海旅行のカレー屋�
 source_url: "https://kosodate-and.net/kinpri-atami-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22000784/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ000385857/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/72/P013620272/P013620272_238.jpg"
+seating_note: "2F席（貸し切り撮影）"
 visit_kind: "other"
 program: "ベストアルバム『Mr.5』Dear Tiara盤 特典映像「熱海小旅行」"
 lat: 35.0967641
@@ -27,4 +29,9 @@ members:
   - "神宮寺勇太"
 groups:
   - "kingprince"
+ordered_items:
+  - "カツカレー"
+  - "カツライス&味噌汁"
+  - "ハヤシライス"
+  - "ポテトサラダ"
 ---

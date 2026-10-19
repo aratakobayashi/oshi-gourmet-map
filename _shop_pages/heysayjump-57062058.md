@@ -20,4 +20,6 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "鬼ひも川 ざる二味"
 ---

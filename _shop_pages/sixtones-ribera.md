@@ -13,6 +13,7 @@ source_video_title: "河合郁人＆田中樹のステーキハウスはどこ?�
 source_url: "https://kosodate-and.net/kawai-jyuri-steak"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1316/A131601/13018560/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "かわいたちチャンネル"
 lat: 35.6300236
@@ -21,4 +22,7 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+ordered_items:
+  - "ヒレステーキ 300g"
+  - "生野菜"
 ---

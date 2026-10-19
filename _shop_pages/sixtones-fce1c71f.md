@@ -12,7 +12,6 @@ visited_date: "2024-01-12"
 source_video_title: "SixTONES【ストチューブロケ地】三鷹吉祥寺・井の頭公園での撮影はいつ？遭遇情報は？"
 source_url: "https://kosodate-and.net/sixtones-inokashira-park"
 group: "sixtones"
-tabelog_url: "https://tabelog.com/tokyo/A1326/A132601/13033267/"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 35.6636548

@@ -22,4 +22,6 @@ members:
   - "藤井流星"
 groups:
   - "west"
+ordered_items:
+  - "チキンミヤベヤ"
 ---

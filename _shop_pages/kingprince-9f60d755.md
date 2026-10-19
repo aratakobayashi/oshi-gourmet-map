@@ -12,6 +12,7 @@ source_video_title: "【モニタリング】永瀬廉と北村匠海が訪れ�
 source_url: "https://kosodate-and.net/monitoring-ren-takumi-restaurant"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131806/13085456/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ000143923/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/04/86/P037870486/P037870486_238.jpg"
@@ -23,4 +24,7 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "ドリンクバー"
+  - "ニューヨークチーズケーキ"
 ---

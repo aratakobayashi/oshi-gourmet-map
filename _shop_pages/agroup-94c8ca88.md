@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=LESjaFCpnQU"
 source_url: "https://kosodate-and.net/agroup-yakiniku-1st-anniversary"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13130902/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001098601/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg"
 visit_kind: "youtube"
@@ -29,4 +30,15 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
+ordered_items:
+  - "コンソメスープ・牛骨の煮凝り(お通し)"
+  - "牛のたたき"
+  - "ウニ牛"
+  - "牛牛ユッケ"
+  - "サラダ"
+  - "キムチの盛り合わせ"
+  - "韓国海苔"
+  - "浦島太郎の玉手箱(ヒレ肉)"
+  - "エンペラーブリアン"
+  - "ナムルの盛り合わせ"
 ---

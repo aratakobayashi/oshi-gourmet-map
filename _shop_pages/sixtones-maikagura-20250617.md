@@ -13,6 +13,7 @@ source_video_title: "【ゴールデンストーンズ】ご褒美の町中華�
 source_url: "https://kosodate-and.net/golden-sixtones-kazushige-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1318/A131813/13218425/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/c59A7voDT22pAeH6zwxTltceGjn.jpg"
 visit_kind: "own_tv"
 program: "Golden SixTONES"
@@ -27,4 +28,6 @@ members:
   - "田中樹"
 groups:
   - "sixtones"
+ordered_items:
+  - "白トリュフオイル香る鶏白湯麺"
 ---

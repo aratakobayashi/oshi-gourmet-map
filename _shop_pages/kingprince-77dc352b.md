@@ -13,6 +13,7 @@ source_video_title: "King & Prince キンプリ『4月1日』ロケ地の喫茶�
 source_url: "https://kosodate-and.net/renkai-april1-cafe"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13089403/"
+tabelog_verified: "True"
 visit_kind: "other"
 program: "King & Prince『STARRING』STARRING盤収録映像「4月1日」"
 lat: 35.656600088595376

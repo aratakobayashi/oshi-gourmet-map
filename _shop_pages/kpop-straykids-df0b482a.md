@@ -12,6 +12,7 @@ source_video_title: "SKZ VLOG「Felix : Sunshine Vlog 6」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13239194/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」"
 lat: 35.662724
@@ -23,4 +24,6 @@ groups:
 ordered_items:
   - "つくね"
   - "やきとり皮"
+  - "オレンジジュース"
+  - "トマトスライス"
 ---

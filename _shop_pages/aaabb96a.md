@@ -14,6 +14,7 @@ source_url: "https://kosodate-and.net/nanisurukattun-usj-hotel/"
 group: "kattun"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270403/27114246/"
 source_type: "tv"
+seating_note: "撮影用に作られた席（現在は展示）"
 visit_kind: "own_tv"
 program: "何するカトゥーン？"
 lat: 34.66158883717826

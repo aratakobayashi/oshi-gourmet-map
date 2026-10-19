@@ -13,6 +13,7 @@ source_video_title: "いただきハイジャンプ 2019.07.06 唐揚げブラ�
 source_url: "https://medax.hatenablog.com/entry/hijump/190707"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131402/13149100/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
 visit_kind: "own_tv"
 program: "いただきハイジャンプ"
@@ -23,4 +24,6 @@ members:
   - "知念侑李"
 groups:
   - "heysayjump"
+ordered_items:
+  - "選り取りからあげ(からあげ10個)"
 ---

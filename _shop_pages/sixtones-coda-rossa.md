@@ -14,6 +14,7 @@ source_video_title: "【6SixTONES シクスト ロケ地】熱海のイタリア
 source_url: "https://kosodate-and.net/6sixtones-atami-restaurant"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22039494/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg"
 visit_kind: "own_tv"
 program: "6SixTONES"

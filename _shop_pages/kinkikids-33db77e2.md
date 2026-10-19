@@ -14,6 +14,7 @@ source_video_title: "【KinKi Kidsのブンブブーン】築地のフィッシ�
 source_url: "https://kosodate-and.net/kinki-kids-momokuro-tsukiji"
 group: "kinkikids"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131301/13184159/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 visit_kind: "own_tv"
 program: "KinKi Kidsのブンブブーン"
@@ -24,4 +25,6 @@ members:
   - "堂本剛"
 groups:
   - "kinkikids"
+ordered_items:
+  - "上上豚カレー(中辛)"
 ---

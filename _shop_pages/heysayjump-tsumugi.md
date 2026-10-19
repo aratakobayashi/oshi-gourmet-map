@@ -22,4 +22,7 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "18品の朝ごはん"
+  - "べっぴんほうじ茶ゼリーソフト"
 ---

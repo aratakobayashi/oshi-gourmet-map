@@ -13,6 +13,7 @@ source_video_title: "キントレ ピンキリin静岡【永瀬廉＆劇団ひ�
 source_url: "https://kosodate-and.net/kintore-pinkiri-ren-unagi"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/shizuoka/A2205/A220502/22002124/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（ピンキリ調査隊in静岡）"
@@ -22,4 +23,6 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "ビーとろ"
 ---

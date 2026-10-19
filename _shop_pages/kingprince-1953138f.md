@@ -12,6 +12,7 @@ source_video_title: "帰れマンデー【永瀬廉＆松田元太ロケ地】�
 source_url: "https://kosodate-and.net/kaeremonday-ren-gen-dango"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/yamanashi/A1903/A190301/19004452/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/z4xtxeP1dXlDTkDEOGfAamchYMi.jpg"
 visit_kind: "guest_tv"
 program: "帰れマンデー見っけ隊!!"
@@ -21,4 +22,6 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "串ダンゴ"
 ---

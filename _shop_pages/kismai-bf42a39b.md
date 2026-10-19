@@ -12,6 +12,7 @@ source_video_title: "気になるマン【藤ヶ谷太輔】中華料理店は�
 source_url: "https://kosodate-and.net/kininaru-fujigaya-chinese"
 group: "kismai"
 tabelog_url: "https://tabelog.com/saitama/A1103/A110303/11024045/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg"
 visit_kind: "own_tv"
 program: "サンド&キスマイの気になるマン"

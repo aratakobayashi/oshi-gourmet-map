@@ -12,6 +12,7 @@ source_video_title: "なにわTube【横山会第2弾】お好み焼き屋さん
 source_url: "https://kosodate-and.net/naniwa-yokoyama-okonomiyaki"
 group: "agroup"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270401/27043740/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "なにわ男子公式YouTube（なにわTube）"
 lat: 34.69066020797314

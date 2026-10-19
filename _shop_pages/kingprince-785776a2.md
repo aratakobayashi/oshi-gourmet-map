@@ -22,4 +22,7 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "ポテトコロッケ"
+  - "粗挽き甘酢肉団子(6個)"
 ---

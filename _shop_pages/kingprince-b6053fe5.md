@@ -13,6 +13,7 @@ source_video_title: "【VS魂ロケ地】渋谷ロクシタン・ハンズ・MEG
 source_url: "https://kosodate-and.net/vsdamashii-loccitane-hands"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13225574/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg"
 visit_kind: "guest_tv"
 program: "VS魂"

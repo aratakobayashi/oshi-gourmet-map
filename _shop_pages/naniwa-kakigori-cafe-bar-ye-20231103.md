@@ -23,4 +23,6 @@ members:
   - "大西流星"
 groups:
   - "naniwa"
+ordered_items:
+  - "ティラミスのかき氷"
 ---
