@@ -15,7 +15,6 @@ source_video_title: "Snow Man【荒川で絶品洋食ランチ】プライベー
 source_url: "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1323/A132301/13059703/"
-tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/gUa2iAE2R0Y/hqdefault.jpg"
 visit_kind: "youtube"
 program: "すのちゅーぶ（Snow Man公式YouTube）"
@@ -38,9 +37,4 @@ ordered_items:
   - "たっぷり小エビのドリア（目黒蓮）"
   - "チーズハンバーグミートソース（向井康二）"
   - "チーズハンバーグミートソース（ラウール）"
-  - "ミートドリア（ラウール）"
-  - "ハンバーグカレーチーズ焼き（深澤）"
-  - "チーズハンバーグミートソース（ラウール・向井）"
-  - "れんこん入りハンバーグ（目黒）"
-  - "たっぷり小エビのドリア（目黒）"
 ---
