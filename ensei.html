@@ -1,0 +1,56 @@
+---
+layout: default
+title: ライブ遠征×聖地巡礼｜会場ごとの近くの推しグルメと泊まる場所
+description: 東京ドーム・京セラドーム大阪・日本武道館など全国28のライブ会場ごとに、会場の近くで推しが訪れたお店と、会場周辺の宿の探し方をまとめました。会場ガイドとあわせて、遠征の日に聖地巡礼を。
+permalink: /ensei/
+---
+{%- assign _vc = site.affiliate.valuecommerce -%}
+<div class="wrap" style="max-width:960px">
+  <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li><a href="{{ '/guide/' | relative_url }}">推し活ガイド</a></li><li aria-current="page">ライブ遠征×聖地巡礼</li></ol>
+  <h1 class="page-title">ライブ遠征×聖地巡礼</h1>
+  {%- if _vc.linkswitch_pid != '' or site.affiliate.rakuten.id != '' %}<p class="pr-note pr-note--top">#アフィリエイト広告　本ページはプロモーションを含みます</p>{% endif %}
+  <p class="page-lead">ライブで遠くの会場へ行く日は、推しが訪れたお店を巡るチャンスです。全国{{ site.data.venues | size }}の会場ごとに、会場の近くの聖地と、会場周辺の宿の探し方をまとめました。会場への行き方や持ち込みのルールは、各会場のライブ参戦ガイドで確かめられます。</p>
+
+  <nav class="tabs" aria-label="地方" style="margin-top:16px">
+    {%- for rg in site.data.venue_regions %}<a href="#{{ rg.key }}">{{ rg.label }}<span class="cnt">{{ rg.venues.size }}</span></a>{% endfor %}
+  </nav>
+
+  {%- for rg in site.data.venue_regions %}
+  <section class="section" id="{{ rg.key }}">
+    <h2 class="h2">{{ rg.label }}</h2>
+    <div class="ensei">
+    {%- for vk in rg.venues %}
+      {%- assign _v = site.data.venues[vk] -%}{%- assign _n = site.data.venue_nearby[vk] -%}
+      <article class="ensei__v">
+        <h3 class="ensei__name"><a href="{{ '/guide/' | append: vk | append: '/' | relative_url }}">{{ _v.name }}</a></h3>
+        <p class="meta">{% if _n.n > 0 %}会場から{{ _n.r }}km以内に推しが訪れたお店 <b>{{ _n.n }}軒</b>{% if _n.gc.size > 0 %}（{% for g in _n.gc limit: 3 %}{% assign _gk = g[0] %}{% assign _gx = site.data.group_ix[_gk] %}{{ _gx.l | default: _gk }} {{ g[1] }}{% unless forloop.last %}・{% endunless %}{% endfor %}など）{% endif %}{% else %}会場から10km以内のお店はまだありません{% endif %}</p>
+        {%- if _n.ids.size > 0 %}
+        <div class="ensei__shops">{% for x in _n.ids limit: 3 %}{% include mini.html id=x.id m=x.m from="会場から" %}{% endfor %}</div>
+        {%- endif %}
+        <div class="btn-row ensei__btns">
+          <a class="btn" href="{{ '/guide/' | append: vk | append: '/' | relative_url }}">ライブ参戦ガイド</a>
+          {%- if _n.n > 0 %}<a class="btn" href="{{ '/shops/?near=' | append: _v.lat | append: ',' | append: _v.lng | append: '&nl=' | append: _v.name | relative_url }}">地図で近くのお店</a>{% endif %}
+        </div>
+        <p class="ensei__stay-h"><span aria-hidden="true">🛏</span> {{ _v.name }}周辺に泊まる</p>
+        <div class="btn-row">
+          {%- capture _j %}https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={{ _n.hj }}{% endcapture %}
+          {%- capture _r %}https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={{ _n.hk | url_encode }}{% endcapture %}
+          {% include affiliate-link.html url=_j label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+          {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn" service="rakuten" %}
+        </div>
+      </article>
+    {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+
+  <section class="section">
+    <h2 class="h2">遠征の準備</h2>
+    <p class="meta" style="margin:4px 0 12px">交通・持ち物・宿の取り方など、遠征の前に確かめておきたいこと。</p>
+    <ul class="ensei__links">
+      <li><a href="{{ '/guide/live-ensei-checklist/' | relative_url }}">ライブ遠征の準備チェックリスト</a></li>
+      <li><a href="{{ '/guide/live-ensei-transport/' | relative_url }}">ライブ遠征の交通手段ガイド</a></li>
+      <li><a href="{{ '/guide/' | relative_url }}">推し活ガイドの一覧</a></li>
+    </ul>
+  </section>
+</div>

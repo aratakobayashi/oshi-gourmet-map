@@ -325,6 +325,22 @@ def main():
                              'gc': [[g, c] for g, c in gc.most_common(6)], 'lat': v['lat'], 'lng': v['lng'],
                              'hk': v['name'], 'hj': urllib.parse.quote(v['name'], encoding='cp932', errors='ignore')}
 
+    # --- 店舗ページの「近くのライブ会場」: 会場から2.5km以内の店に、いちばん近い会場（ガイドのある会場だけ）---
+    guide_keys = {os.path.splitext(f)[0] for f in os.listdir(os.path.join(ROOT, '_guides'))}
+    near_venue = {}
+    for key, v in venues.items():
+        if key not in guide_keys:
+            continue
+        p = (v['lat'], v['lng'])
+        for oid, q in pts_near:
+            if abs(q[0] - p[0]) < 0.03 and abs(q[1] - p[1]) < 0.04:
+                d = km(p, q)
+                if d <= 2.5 and (oid not in near_venue or d < near_venue[oid][0]):
+                    near_venue[oid] = (d, key, v['name'])
+    for oid, (d, key, name) in near_venue.items():
+        if oid in cards:
+            cards[oid]['vv'] = [key, name, int(round(d * 1000, -1))]
+
     # --- 記事どうしの関連（サムネイルつきの「あわせて読みたい」用）---
     article_rel = build_article_rel(shops, venues, venue_nearby, by_id)
     for v in venue_nearby.values():

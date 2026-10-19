@@ -7,6 +7,7 @@ description: ライブ会場の行き方・座席と会場周辺の聖地グル�
   <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">推し活ガイド</li></ol>
   <h1 class="page-title">推し活ガイド</h1>
   <p class="page-lead">ライブ会場の行き方と、会場周辺の聖地グルメ・宿。遠征の準備もここで。</p>
+  <a class="darkblock darkblock--link" href="{{ '/ensei/' | relative_url }}" style="margin-top:16px"><span><span class="meta">全国{{ site.data.venues | size }}会場</span><br><b>ライブ遠征×聖地巡礼｜会場ごとの近くの聖地と宿</b></span><span aria-hidden="true">→</span></a>
   <nav class="tabs" aria-label="カテゴリ" style="margin-top:16px">
     {%- for cat in site.data.guide_categories %}{% assign n = site.guides | where: "guide_category", cat.key %}{% if n.size > 0 %}<a href="#{{ cat.key }}">{{ cat.label }}<span class="cnt">{{ n.size }}</span></a>{% endif %}{% endfor %}
   </nav>
