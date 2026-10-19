@@ -13,8 +13,10 @@ visited_date: "2024-06-15"
 youtube_id: "5jBPMpJLR60"
 source_video_title: "HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった"
 source_video_url: "https://www.youtube.com/watch?v=5jBPMpJLR60"
+source_url: "https://kosodate-and.net/nakamaru-igari-wasyoku/"
 group: "ginga"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13281809/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ003498443/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/59/15/P048095915/P048095915_238.jpg"
 visit_kind: "youtube"
@@ -27,4 +29,5 @@ groups:
   - "ginga"
 ordered_items:
   - "『金目鯛と仙台牛の銘々会席』"
+  - "金目鯛と仙台牛の銘々会席（個人盛り・全9品）"
 ---

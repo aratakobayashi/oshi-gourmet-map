@@ -13,8 +13,10 @@ visited_date: "2025-12-17"
 youtube_id: "5TbjbC6I9vY"
 source_video_title: "Snow Man【ザギンでシースー】北海道直前のご褒美タイム🍣"
 source_video_url: "https://www.youtube.com/watch?v=5TbjbC6I9vY"
+source_url: "https://njoysolo.hatenablog.com/entry/snowman.localist1"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13277198/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/5TbjbC6I9vY/hqdefault.jpg"
 visit_kind: "youtube"
 program: "すのちゅーぶ（Snow Man公式YouTube）"
@@ -31,4 +33,6 @@ tags:
   - "銀座"
   - "おまかせ"
   - "江戸前"
+ordered_items:
+  - "特別おまかせセット（撮影用）"
 ---

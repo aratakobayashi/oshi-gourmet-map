@@ -11,6 +11,7 @@ address: "東京都港区赤坂3-6-10 第3セイコービル3F"
 nearest_station: "赤坂駅 徒歩1分"
 visited_date: "2016-05-18"
 source_video_title: "2016.05.18 高級レストランのランチ特集"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13320896/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000796674/"
@@ -28,4 +29,6 @@ members:
   - "中島裕翔"
 groups:
   - "heysayjump"
+ordered_items:
+  - "おまぜ"
 ---

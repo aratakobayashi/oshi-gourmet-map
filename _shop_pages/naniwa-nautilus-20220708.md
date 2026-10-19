@@ -10,8 +10,10 @@ city: "台東区"
 address: "東京都台東区上野2-12-23 上野ユーワンビル 5Ｆ"
 visited_date: "2022-07-08"
 source_video_title: "エンタメレストランが増えているのなんでやねん！を解明"
+source_url: "https://fuyukohimatsubushi.com/mezamashi-entamefoods/"
 group: "naniwa"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13267852/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001287247/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_238.jpg"
@@ -24,4 +26,6 @@ members:
   - "高橋恭平"
 groups:
   - "naniwa"
+ordered_items:
+  - "旬のメロンを楽しむ プリンセスアフタヌーンティー"
 ---

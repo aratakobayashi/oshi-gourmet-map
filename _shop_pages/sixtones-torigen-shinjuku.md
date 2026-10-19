@@ -13,8 +13,10 @@ visited_date: "2024-11-22"
 youtube_id: "0dnJrRmFRXo"
 source_video_title: "SixTONES【無限シリーズ~焼き鳥】オレたち…永遠に食える！"
 source_video_url: "https://www.youtube.com/watch?v=0dnJrRmFRXo"
+source_url: "https://kosodate-and.net/sixtones-yakitori-torigen/"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1304/A130401/13006736/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/0dnJrRmFRXo/hqdefault.jpg"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
@@ -35,4 +37,6 @@ tags:
   - "新宿"
   - "大食い"
   - "聖地巡礼"
+ordered_items:
+  - "焼き鳥（6人で142本：レバー・ハツ・ナンコツ・ささみ・ねぎま・つくね・せせり・ハラミ・ぼんじり・砂肝・銀杏・うずら など）"
 ---

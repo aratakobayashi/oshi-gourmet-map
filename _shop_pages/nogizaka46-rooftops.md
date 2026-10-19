@@ -11,6 +11,7 @@ address: "神奈川県鎌倉市小町1-6-17 鎌倉マークビル6F"
 nearest_station: "鎌倉駅 徒歩2分"
 youtube_id: "tHRvTFcsGF4"
 source_video_title: "乃木坂46 『地球が丸いなら』Short Ver."
+source_url: "https://senublog.com/nogizaka46-sanctuary-summarize/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140402/14101224/"
 thumbnail_url: "https://img.youtube.com/vi/tHRvTFcsGF4/hqdefault.jpg"
@@ -25,4 +26,6 @@ members:
   - "大園桃子"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "スウィーツバーガー(スモア＆ベリー)"
 ---

@@ -10,6 +10,7 @@ city: "銚子市"
 address: "千葉県銚子市川口町2-6528-2"
 visited_date: "2020-04-05"
 source_video_title: "バナナマンのせっかくグルメ"
+source_url: "https://zakki10.blogspot.com/2022/05/hinatazaka46-seichi-chiba.html"
 group: "hinatazaka46"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120501/12014356/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg"
@@ -23,4 +24,6 @@ members:
   - "丹生明里"
 groups:
   - "hinatazaka46"
+ordered_items:
+  - "ラーメン"
 ---

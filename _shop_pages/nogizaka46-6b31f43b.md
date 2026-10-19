@@ -12,6 +12,7 @@ visited_date: "2023-08-17"
 youtube_id: "dI9wijBEyx0"
 source_video_title: "愛知でのライブ前日に美味しいご飯食べに行ってみた！【中華・かき氷】"
 source_video_url: "https://www.youtube.com/watch?v=dI9wijBEyx0"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-aichi/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230103/23001219/"
 visit_kind: "youtube"
@@ -24,4 +25,8 @@ members:
   - "清宮レイ"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "大島金時ミルククリーム白玉きなこ氷"
+  - "いちごミルククリーム白玉氷"
+  - "白玉ぜんざい"
 ---

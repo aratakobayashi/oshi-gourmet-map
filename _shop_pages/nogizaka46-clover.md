@@ -9,6 +9,7 @@ prefecture: "北海道"
 city: "上川郡東神楽町"
 address: "上川郡東神楽町東２線９７"
 source_video_title: "乃木坂工事中"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-hokkaidou/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/hokkaido/A0104/A010405/1008263/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg"
@@ -22,4 +23,8 @@ members:
   - "秋元真夏"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "かぼちゃとチーズのアイス"
+  - "リンゴとバニラのアイス"
+  - "ソフトクリーム"
 ---

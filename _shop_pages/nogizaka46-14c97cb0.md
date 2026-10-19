@@ -11,6 +11,7 @@ address: "東京都港区新橋2-16-1 ニュー新橋ビルB1"
 nearest_station: "新橋駅 徒歩1分"
 youtube_id: "ellqj4rVq6g"
 source_video_title: "乃木坂どこへ"
+source_url: "https://senublog.com/nogizaka46-sanctuary-summarize/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130103/13180946/"
 thumbnail_url: "https://img.youtube.com/vi/ellqj4rVq6g/hqdefault.jpg"
@@ -25,4 +26,12 @@ members:
   - "柴田柚菜"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "黒い肉カレー(小)"
+  - "コーンマヨ"
+  - "福神漬け"
+  - "フライドオニオン"
+  - "味玉"
+  - "豆サラダ"
+  - "ポテトサラダ"
 ---

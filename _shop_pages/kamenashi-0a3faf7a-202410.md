@@ -12,9 +12,11 @@ nearest_station: "明治神宮前〈原宿〉駅 徒歩1分"
 visited_date: "2024-10-16"
 youtube_id: "hLEUaWy6_kU"
 source_video_title: "【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！こだわりのトッピングと味集中モードで最高の時間。"
+source_url: "https://kosodate-and.net/kame-date-ichiran/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13125736/"
 thumbnail_url: "https://img.youtube.com/vi/hLEUaWy6_kU/hqdefault.jpg"
+seating_note: "味集中個室（4人用）"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"
 lat: 35.6679219
@@ -23,4 +25,11 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "ラーメン（こってり・超かた）"
+  - "ねぎ"
+  - "半替玉"
+  - "ゆでたまご"
+  - "きくらげ"
+  - "お茶"
 ---

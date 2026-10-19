@@ -12,6 +12,7 @@ nearest_station: "明治神宮前〈原宿〉駅 徒歩1分"
 visited_date: "2024-04-13"
 youtube_id: "Yh0PvWpXNoY"
 source_video_title: "【爆食】亀梨&越岡がジュニア時代に通った思い出のじゃんがららーめんで濃厚豚骨ラーメンをお腹いっぱい食べる。"
+source_url: "https://fananablog.com/kamenashiyoutube-seichi/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13039603/"
 hotpepper_url: "https://www.hotpepper.jp/strJ000103008/"
@@ -28,4 +29,8 @@ groups:
 ordered_items:
   - "黒ウーロン茶（亀梨和也）"
   - "九州じゃんがらの全部入り（越岡裕貴）"
+  - "ぼんしゃん（カピタンにんにくダブル・きくらげ・ねぎ・粉落とし）"
+  - "黒ウーロン茶"
+  - "替え玉粉落とし"
+  - "九州じゃんがら全部入り"
 ---

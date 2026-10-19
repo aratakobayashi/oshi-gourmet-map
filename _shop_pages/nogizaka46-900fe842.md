@@ -10,6 +10,7 @@ city: "飯能市"
 address: "飯能市仲町８−１５"
 nearest_station: "飯能駅 徒歩5分"
 source_video_title: "白米様 MV"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-saitama/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/saitama/A1106/A110603/11024031/"
 visit_kind: "drama"
@@ -20,4 +21,6 @@ members:
   - "伊藤かりん"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "おにぎり"
 ---

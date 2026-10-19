@@ -11,6 +11,7 @@ address: "岡山県備前市日生町日生６３９−１６"
 visited_date: "2025-01-11"
 youtube_id: "8-pKbYjUTc4"
 source_video_title: "【1周年企画】Snow Man 宮舘涼太と鈴木福と豪華岡山旅！カキとビールで最高の昼飲み！"
+source_url: "https://fananablog.com/kamenashiyoutube-seichi/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/okayama/A3305/A330501/33020227/"
 thumbnail_url: "https://img.youtube.com/vi/8-pKbYjUTc4/hqdefault.jpg"
@@ -22,4 +23,7 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "ビール"
+  - "牡蠣の食べ放題"
 ---

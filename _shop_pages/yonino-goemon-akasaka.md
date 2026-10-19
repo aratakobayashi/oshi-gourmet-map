@@ -12,6 +12,7 @@ nearest_station: "赤坂駅 徒歩1分"
 visited_date: "2025-01-19"
 youtube_id: "PFtmB_WeAVo"
 source_video_title: "#389【朝食!!】卍が所望していたお店に行った日"
+source_url: "https://kosodate-and.net/yonino-goemon/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1321/A132102/13307072/"
 thumbnail_url: "https://img.youtube.com/vi/PFtmB_WeAVo/hqdefault.jpg"
@@ -37,4 +38,5 @@ ordered_items:
   - "烏龍茶"
   - "たらこと湯葉とモッツァレラチーズのカルボナーラ"
   - "烏龍茶"
+  - "たらこと湯葉のモッツァレラチーズのカルボナーラ"
 ---

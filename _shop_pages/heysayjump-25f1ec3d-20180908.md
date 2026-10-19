@@ -11,6 +11,7 @@ address: "東京都豊島区東池袋"
 nearest_station: "向原駅 徒歩6分"
 visited_date: "2018-09-08"
 source_video_title: "2018.09.08 グルメ探偵調査"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13037960/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -24,4 +25,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "カレー"
 ---

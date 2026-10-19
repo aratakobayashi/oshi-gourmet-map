@@ -12,8 +12,10 @@ nearest_station: "JR桜木町駅北改札直結JR/横浜市営地下鉄桜木町
 visited_date: "2024-10-02"
 youtube_id: "LaNwtYYQ3Wo"
 source_video_title: "【夜景】なにわ男子 道枝駿佑と夜景が見える上空の焼肉屋さんで豪華焼肉パーティー！"
+source_url: "https://kosodate-and.net/kame-michi-yakiniku/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140102/14082343/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/LaNwtYYQ3Wo/hqdefault.jpg"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"
@@ -23,4 +25,17 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "角の超炭酸ハイボール"
+  - "ウーロン茶"
+  - "ナムル4種類"
+  - "豚足"
+  - "黒毛和牛 タン食べ比べ"
+  - "特上カルビ"
+  - "厚切りハラミ"
+  - "チョレギサラダ"
+  - "キムチ盛り合わせ"
+  - "ミノチャーハン"
+  - "桃のシャーベット"
+  - "レアチーズケーキ"
 ---

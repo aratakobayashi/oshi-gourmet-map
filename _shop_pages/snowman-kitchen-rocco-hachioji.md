@@ -13,8 +13,10 @@ visited_date: "2023-12-27"
 youtube_id: "LsocWDFXCKs"
 source_video_title: "Snow Man【八王子でジモメシをいただく❗️】新発見!?白ナポリタンって何❓"
 source_video_url: "https://www.youtube.com/watch?v=N6A_5_8fX30"
+source_url: "https://njoysolo.hatenablog.com/entry/snowman.localist1"
 group: "snowman"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13178091/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001110705/"
 thumbnail_url: "https://img.youtube.com/vi/LsocWDFXCKs/hqdefault.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/31/51/P042743151/P042743151_238.jpg"
@@ -36,4 +38,6 @@ tags:
 ordered_items:
   - "八王子ナポリタン（4人でシェア）"
   - "八王子白ナポリタン（4人でシェア）"
+  - "八王子白ナポリタン"
+  - "八王子ナポリタン"
 ---

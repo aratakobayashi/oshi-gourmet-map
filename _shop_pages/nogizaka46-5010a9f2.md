@@ -12,6 +12,7 @@ visited_date: "2022-11-19"
 youtube_id: "bNbI6m6S7f0"
 source_video_title: "【舞いあがれ！収録前日】山下美月の大阪くいだおれ旅！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=bNbI6m6S7f0"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-osaka/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/osaka/A2701/A270202/27092198/"
 visit_kind: "youtube"
@@ -22,4 +23,6 @@ members:
   - "山下美月"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "たこ焼き（ソースと醤油のハーフ）"
 ---

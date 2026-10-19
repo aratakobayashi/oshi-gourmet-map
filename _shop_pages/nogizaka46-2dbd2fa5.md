@@ -13,6 +13,7 @@ visited_date: "2023-01-06"
 youtube_id: "_fqJouLR5ME"
 source_video_title: "【さくさんぽ】遠藤さくらが京都をぶらり散歩！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=_fqJouLR5ME"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-endosakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260403/26001306/"
 visit_kind: "youtube"
@@ -23,4 +24,6 @@ members:
   - "遠藤さくら"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "みたらし団子"
 ---

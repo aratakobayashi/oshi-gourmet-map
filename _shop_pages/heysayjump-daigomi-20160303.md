@@ -11,6 +11,7 @@ address: "東京都豊島区池袋1-1-7 第2伊三美ビルB1"
 nearest_station: "池袋駅 徒歩1分"
 visited_date: "2016-03-03"
 source_video_title: "2016.03.03 体を温める食べ物実験"
+source_url: "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13273538/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg"
@@ -25,4 +26,6 @@ members:
   - "八乙女光"
 groups:
   - "heysayjump"
+ordered_items:
+  - "チーズフォンデュ"
 ---

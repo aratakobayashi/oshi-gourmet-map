@@ -9,6 +9,7 @@ prefecture: "神奈川県"
 address: "江の島１丁目４−１０"
 nearest_station: "片瀬江ノ島駅 徒歩16分"
 source_video_title: "乃木坂配信中"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-kanagawa-enoshima/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14055885/"
 visit_kind: "youtube"
@@ -20,4 +21,6 @@ members:
   - "岩本蓮加"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "たこせんべい"
 ---

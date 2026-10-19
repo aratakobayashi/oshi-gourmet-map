@@ -11,6 +11,7 @@ address: "石川県加賀市山中温泉南町ニ−16"
 youtube_id: "P21K4rjNAkY"
 source_video_title: "【さくさんぽ】遠藤さくらが山中温泉をぶらり散歩！【vlog】"
 source_video_url: "https://www.youtube.com/watch?v=P21K4rjNAkY"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-endosakura/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/ishikawa/A1702/A170203/17005151/"
 visit_kind: "youtube"
@@ -21,4 +22,6 @@ members:
   - "遠藤さくら"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "コロッケ"
 ---

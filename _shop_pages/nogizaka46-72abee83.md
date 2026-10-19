@@ -9,6 +9,7 @@ prefecture: "山梨県"
 city: "甲斐市"
 address: "甲斐市玉川２３４"
 source_video_title: "nogibingo10"
+source_url: "https://tsuredure-nogi-blog.com/rokechi-yamanashi/"
 group: "nogizaka46"
 tabelog_url: "https://tabelog.com/yamanashi/A1901/A190101/19003489/"
 visit_kind: "own_tv"
@@ -22,4 +23,10 @@ members:
   - "斉藤優里"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "馬刺し"
+  - "辛もつほうとう"
+  - "辛口カルビほうとう"
+  - "かぼちゃほうとう"
+  - "豚肉ほうとう"
 ---

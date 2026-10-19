@@ -13,8 +13,10 @@ visited_date: "2024-07-31"
 youtube_id: "BtPB0wv2l3k"
 source_video_title: "#348【朝食!!】もはやこの朝が日常になった日"
 source_video_url: "https://www.youtube.com/watch?v=Kz6-eL-KjD0"
+source_url: "https://kosodate-and.net/yonino-fuma-gyutan-tororo/"
 group: "yonino"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130501/13019184/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/BtPB0wv2l3k/hqdefault.jpg"
 visit_kind: "youtube"
 program: "よにのちゃんねる"
@@ -31,4 +33,7 @@ tags:
   - "牛タン"
   - "池袋"
   - "和食"
+ordered_items:
+  - "ねぎしセット"
+  - "牛たんぎゅうぎゅうセット"
 ---
