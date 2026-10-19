@@ -15,6 +15,7 @@ source_video_title: "【vlog】久しぶりのオフの日京都旅vlog🌸た�
 source_url: "https://fananablog.com/kamenashiyoutube-seichi/"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/kyoto/A2601/A260301/26001384/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/mOC7wSoPSyc/hqdefault.jpg"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"

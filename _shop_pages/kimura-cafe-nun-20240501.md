@@ -14,8 +14,7 @@ source_video_title: "【過去回】俺たちが振りまわされている「�
 source_video_url: "https://www.youtube.com/watch?v=VKAewMagMfQ"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
 group: "kimura"
-tabelog_url: "https://tabelog.com/chiba/A1205/A120503/12055412/"
-tabelog_verified: "True"
+tabelog_url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
 visit_kind: "youtube"
 program: "木村さ〜〜ん！"
 lat: 35.532982

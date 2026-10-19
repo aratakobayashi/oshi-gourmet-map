@@ -5460,30 +5460,13 @@
       },
       {
         "name": "チーズハンバーグミートソース（ラウール）"
-      },
-      {
-        "name": "ミートドリア（ラウール）"
-      },
-      {
-        "name": "ハンバーグカレーチーズ焼き（深澤）"
-      },
-      {
-        "name": "チーズハンバーグミートソース（ラウール・向井）"
-      },
-      {
-        "name": "れんこん入りハンバーグ（目黒）"
-      },
-      {
-        "name": "たっぷり小エビのドリア（目黒）"
       }
     ],
     "source_video_title": "Snow Man【荒川で絶品洋食ランチ】プライベートの…４人で昼飯中。",
     "thumbnail_url": "https://img.youtube.com/vi/gUa2iAE2R0Y/hqdefault.jpg",
     "visit_kind": "youtube",
     "program": "すのちゅーぶ（Snow Man公式YouTube）",
-    "source_url": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF"
+    "source_url": "https://8888-info.hatenablog.com/entry/%E3%81%94%E9%A3%AF"
   },
   {
     "id": "snowman-unagi-kawamatu-higashikurume",
@@ -7825,7 +7808,9 @@
     "visit_kind": "youtube",
     "program": "亀梨和也チャンネル",
     "qa_note": "genreはyakiniku。旧descriptionの『ラーメン店』は誤り",
-    "source_url": "https://fananablog.com/kamenashiyoutube-seichi/"
+    "source_url": "https://fananablog.com/kamenashiyoutube-seichi/",
+    "tabelog_verified": true,
+    "tabelog_source": "https://macaro-ni.jp/42494?page=2"
   },
   {
     "id": "kamenashi-bullajo-202504",
@@ -8467,7 +8452,9 @@
     "source_url": "https://fananablog.com/kamenashiyoutube-seichi/",
     "ordered_items": [
       "壹銭洋食"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://macaro-ni.jp/113033?page=3"
   },
   {
     "id": "kamenashi-34069a08-202405",
@@ -26483,7 +26470,9 @@
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
     "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：肉吸いの正解は髙橋・神宮寺・岸。支店未確定（ページに店舗の記載なし。登録は本店）",
-    "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/"
+    "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/",
+    "tabelog_verified": true,
+    "tabelog_source": "https://macaro-ni.jp/42905?page=4"
   },
   {
     "id": "kingprince-973526af-20230429",
@@ -26519,7 +26508,9 @@
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
     "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：ザッハトルテの正解は髙橋・永瀬・神宮寺",
-    "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/"
+    "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/",
+    "tabelog_verified": true,
+    "tabelog_source": "https://macaro-ni.jp/103857"
   },
   {
     "id": "naniwa-d13107cb-20220415",
@@ -28071,9 +28062,7 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は運営会社・際コーポレーションの店舗ページ（kiwa-group.co.jp/demode_fussa/）で確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=npYLBADlnZ8",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC"
+    "program": "木村さ〜〜ん！"
   },
   {
     "id": "kimura-cafe_nun-20240501",
@@ -28097,7 +28086,7 @@
     "nearest_station": "",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、千葉・九十九里町のカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1205/A120503/12055412/",
+    "tabelog_url": "https://tabelog.com/chiba/A1207/A120703/12035659/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -28139,9 +28128,7 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は九十九里町の案内サイト goto99.jp の店舗ページで確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=VKAewMagMfQ",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
+    "program": "木村さ〜〜ん！"
   },
   {
     "id": "kimura-trufflebakery-20240417",
@@ -28269,7 +28256,7 @@
     "group": "kimura",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、港区のカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13108192/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13301076/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000805707/",
     "source_type": "",
     "tmdb_id": null,
@@ -28285,9 +28272,7 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」2024-04-06公開の回（及川光博とのカフェトーク）。住所はホットペッパーAPIの掲載（南麻布5-15-9）を国土地理院で確認。",
     "source_video_url": "https://www.youtube.com/watch?v=wOrgpzg3eXY",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%AF%E3%82%A4%E3%83%B3"
+    "program": "木村さ〜〜ん！"
   },
   {
     "id": "kimura-573599de-20240401",
@@ -28311,7 +28296,7 @@
     "nearest_station": "代々木上原駅 徒歩7分",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、渋谷の蕎麦店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13068521/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13141818/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -28332,9 +28317,7 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は上原商店街の店舗ページ（uehara-gourmet.jp）で確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=2D8hb89EdrQ",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E7%94%9F%E8%95%8E%E9%BA%A6"
+    "program": "木村さ〜〜ん！"
   },
   {
     "id": "kimura-9b17c19d-20240320",
@@ -28428,9 +28411,7 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の回（動画題名にフカヒレ）。店名は「中国饗膳 粋廉」。注文品の「旅奴」は同じ回に出た別の和菓子店（ファンブログの見出しでは御倉屋）の品とみられ、この店の注文ではない可能性。 住所は予約サイト zendine.co の店舗ページ・NAVITIMEで確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=MsfUvkVKrjs",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%95%E3%82%AB%E3%83%92%E3%83%AC%EF%BC%86%E5%92%8C%E8%8F%93%E5%AD%90"
+    "program": "木村さ〜〜ん！"
   },
   {
     "id": "arashi-e2f2efa6-20201226",
@@ -62285,9 +62266,7 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で、剛が自分の思い出の店として紹介（番組でのロケではない）。visited_date 2024-01-01 は誤り（2023-09-09）。出典の 8888-info.hatenablog.com は robots.txt でClaudeを拒否しているため読まず、activitv.com で確認。住所が出典（奈良県生駒市鹿畑町906）と食い違う（データは鹿ノ台南906）",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
+    "qa_note": "スタジオのトーク番組で、剛が自分の思い出の店として紹介（番組でのロケではない）。visited_date 2024-01-01 は誤り（2023-09-09）。出典の 8888-info.hatenablog.com は robots.txt でClaudeを拒否しているため読まず、activitv.com で確認。住所が出典（奈良県生駒市鹿畑町906）と食い違う（データは鹿ノ台南906）"
   },
   {
     "id": "0fdb6efd",
@@ -62325,9 +62304,7 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。8888-info は robots.txt で拒否のため activitv.com で確認",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。8888-info は robots.txt で拒否のため activitv.com で確認"
   },
   {
     "id": "1eaca426",
@@ -62364,9 +62341,7 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。店名「玄」は activitv.com で確認、住所は出典で確かめていない",
-    "tabelog_verified": true,
-    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。店名「玄」は activitv.com で確認、住所は出典で確かめていない"
   },
   {
     "id": "95fa12cb",
@@ -63850,7 +63825,9 @@
       "果実のクリームあんみつ",
       "ナポリタン",
       "季節のお菓子と抹茶"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://njoysolo.hatenablog.com/entry/snowman.localist1"
   },
   {
     "id": "2b379e5a",
@@ -64398,7 +64375,9 @@
     "program": "それSnow Manにやらせて下さい",
     "ordered_items": [
       "むつぎく餃子 特大(20個)"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/yui-8mtp5/entry-12691044251.html"
   },
   {
     "id": "31013ce0",
@@ -64429,7 +64408,9 @@
     "qa_note": "fananablogで食べた人の名前は節の見出しから判断（はまManチーム）",
     "ordered_items": [
       "焼餃子(10個)"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/yui-8mtp5/entry-12691044251.html"
   },
   {
     "id": "49bfa5e1",
@@ -64610,7 +64591,9 @@
     "ordered_items": [
       "きんめ鯛のづけ丼",
       "きんめ鯛のあぶり丼"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/spec000555000555/entry-12806385380.html"
   },
   {
     "id": "0d08448a",
@@ -64640,7 +64623,9 @@
     "program": "それSnow Manにやらせて下さい",
     "ordered_items": [
       "生しらす なめろう丼"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://note.com/fulifuli/n/n1d1d98012121"
   },
   {
     "id": "e4410337",
@@ -64796,7 +64781,9 @@
     "program": "それSnow Manにやらせて下さい",
     "ordered_items": [
       "グランプリカレー"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/ln0nl/entry-12763819298.html"
   },
   {
     "id": "e9ac0dc6",
@@ -64827,7 +64814,9 @@
     "program": "それSnow Manにやらせて下さい",
     "ordered_items": [
       "煮込みハンバーグカレー膳"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/ln0nl/entry-12763819298.html"
   },
   {
     "id": "a9375da8",
@@ -65065,8 +65054,11 @@
     "qa_note": "住所なし（川崎市川崎区東田町4-10）",
     "source_url": "https://mom-eat.com/snowman-location-kawasakino1gourmet/",
     "ordered_items": [
-      "キャセロール"
-    ]
+      "キャセロール",
+      "キャセロール・スパゲティー"
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/ln0nl/entry-12950627593.html"
   },
   {
     "id": "12891750",
