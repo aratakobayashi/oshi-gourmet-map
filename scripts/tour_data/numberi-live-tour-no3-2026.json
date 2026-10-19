@@ -1,0 +1,56 @@
+{
+ "slug": "numberi-live-tour-no3-2026",
+ "group": "numberi",
+ "tour": "Number_i LIVE TOUR No.III",
+ "official_url": "https://tobe-official.jp/artists/number_i/news/2318",
+ "total_shows": null,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "TOBE公式（Number_i LIVE TOUR No.III 日本公演の公演スケジュール）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2318"
+  },
+  {
+   "label": "TOBE公式（Number_i 公演情報）",
+   "url": "https://tobe-official.jp/artists/number_i/concert/364"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "大和ハウス プレミストドーム",
+   "key": "sapporo-dome",
+   "pref": "北海道",
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
+   "venue": "京セラドーム大阪",
+   "key": "kyocera-dome-osaka",
+   "pref": "大阪府",
+   "dates": [
+    "2026-12-02"
+   ]
+  },
+  {
+   "venue": "東京ドーム",
+   "key": "tokyo-dome",
+   "pref": "東京都",
+   "dates": [
+    "2026-12-09",
+    "2026-12-10"
+   ]
+  },
+  {
+   "venue": "バンテリンドーム ナゴヤ",
+   "key": "vantelin-dome-nagoya",
+   "pref": "愛知県",
+   "dates": [
+    "2027-01-09",
+    "2027-01-10",
+    "2027-01-11"
+   ]
+  }
+ ],
+ "note": "福岡公演は公式に予定として載っていますが、日程と会場が発表されていないため、この記事には入れていません。各会場で日程が追加されることもあります。"
+}

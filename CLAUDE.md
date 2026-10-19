@@ -211,6 +211,8 @@ heysayjump:        '#ef4444'  // レッド
 | `add_group.py` | 新しいグループを足す（_data/groups.json と _group_pages/<id>.md）。`python scripts/add_group.py <id> <表示名> <色>` |
 | `refresh_group_titles.py` | グループページのタイトル・説明・店数を店のデータから書き直す（build_pages.sh で実行） |
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
+| `tour_article.py` | ツアー×聖地巡礼の記事を作る（`python scripts/tour_article.py <slug>`。公式の日程・会場は scripts/tour_data/<slug>.json に手で書く。会場は _data/venues.json のキーか scripts/tour_data/venues_extra.json の座標。会場から3km（少なければ10km）以内のグループの店を近い順に並べ、会場ガイド・地図・泊まるボタンを付ける。図 assets/img/posts/<slug>/tour.svg） |
+| `member_article.py` | メンバー別のまとめ記事を作る（`python scripts/member_article.py <メンバー名> <group[,group]> <slug>` → そのあと `post_figures.py <slug> --color … --only-genre`。出典の種類ごとの店の行・はじめての3軒・エリアで巡る・FAQ。studio_only は分けて載せる） |
 
 **食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
 
@@ -332,6 +334,10 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - アフィリエイト動線のQA（2026-10-16）: 食べログ店ページ・じゃらん・一休は LinkSwitch で変換されることを本番で確認。ホットペッパーは提携を断られた（2026-10-17。広告扱いをやめた）。ホットペッパーAPIでのリンクは2026-10-16に1,311軒へ。まとめ記事の食べログボタンは tabelog_verified の店だけなのでほぼ無い（アイドルの店の未確認URL 1,593軒が課題）
 - 番組グループのまとめ記事（2026-10-17 町中華で飲ろうぜ から）: 出典が1つなので章は地域ごと（東京23区を4つに分けて区ごと → 東京の市部 → 神奈川・埼玉・千葉 → そのほか）。冒頭の「エリアで選ぶ」・行・shop_ids は `python scripts/program_matome_rows.py <slug> <group> --prefix '<番組名>'` が作る（本文の <!-- nav:start/end --> と <!-- rows:start/end --> を書き換え。何度実行しても同じ）。23区の外の「そのほか」が60軒を超えると地方→都道府県ごとに分け、全店で出演者が同じ（吉田類など）なら行に出演者を書かない。放送回の「店名」は行から外す。店が数百軒あるので、区・地域ごとに閉じた <details data-lazy> に店のデータ（JSON）を入れ、開いたときに app.js が写真なしの行（.wr__link--lite）を作る。店名だけは本文に並べる（.wrd__names）。はじめての3軒・半日コース・編集部メモ・FAQ は手で書く（番組公式のデータにある事実だけ）。場所の図は山手線の地図ではなく東京23区のタイル地図（`python scripts/ward_tilemap.py <slug> --color … --title …` → wards.svg。1区＝1マス＋23区の外の棒）。半日コースは手描き風の図ではなく `<ol class="stops">`（番号・店名・場所／出演者・次までの直線距離）。表紙・はじめての3軒は店の写真（hotpepper_photo など）がある店から選ぶ（番組ポスターしかない店は看板風になる）
 - 店の多い記事でも速さを保つため、.hscroll と .pf-works は content-visibility: auto（画面に近づいてから描く）
+
+## ツアー記事・メンバー別記事（2026-10-19〜）
+- ツアー記事（article_type: tour）: 公式サイト（starto.jp の公演ページ・各グループ公式）で確かめた今後の公演だけ。終わった公演・未発表の公演は載せない。会場の近くにグループの店が1軒もないツアーは作らない（=LOVE名古屋・櫻坂46・上方フェス・なにわ男子ららアリーナは見送り）。2026-10-19 に7本: Snow Man・SixTONES・Hey! Say! JUMP・Kis-My-Ft2・Number_i・超特急・日向坂46。日程が変わったら scripts/tour_data の JSON を直して tour_article.py を実行
+- メンバー別記事（article_type: member）: 行った店（studio_only を除く）が30軒前後以上のメンバー30人（Snow Man 9人・SixTONES 6人・King & Prince 2人・WEST. 4人・Hey! Say! JUMP 3人・よにの3人（山田涼介・菊池風磨・二宮和也は複数グループ）・=LOVE 大谷映美里・HiHi Jets 2人）。店が増えたら member_article.py で作り直せる
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

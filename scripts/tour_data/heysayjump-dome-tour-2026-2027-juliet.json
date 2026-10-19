@@ -1,0 +1,58 @@
+{
+ "slug": "heysayjump-dome-tour-2026-2027-juliet",
+ "group": "heysayjump",
+ "tour": "Hey! Say! JUMP DOME TOUR 2026-2027 Juliet",
+ "official_url": "https://starto.jp/s/p/live/10602",
+ "total_shows": 10,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（Hey! Say! JUMP DOME TOUR 2026-2027 Juliet 公演情報）",
+   "url": "https://starto.jp/s/p/live/10602"
+  },
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "みずほPayPayドーム福岡",
+   "key": "mizuho-paypay-dome",
+   "pref": "福岡県",
+   "dates": [
+    "2026-12-12",
+    "2026-12-13"
+   ]
+  },
+  {
+   "venue": "バンテリンドーム ナゴヤ",
+   "key": "vantelin-dome-nagoya",
+   "pref": "愛知県",
+   "dates": [
+    "2026-12-19",
+    "2026-12-20"
+   ]
+  },
+  {
+   "venue": "東京ドーム",
+   "key": "tokyo-dome",
+   "pref": "東京都",
+   "dates": [
+    "2026-12-29",
+    "2026-12-30",
+    "2027-01-01"
+   ]
+  },
+  {
+   "venue": "京セラドーム大阪",
+   "key": "kyocera-dome-osaka",
+   "pref": "大阪府",
+   "dates": [
+    "2027-01-10",
+    "2027-01-11",
+    "2027-01-12"
+   ]
+  }
+ ]
+}

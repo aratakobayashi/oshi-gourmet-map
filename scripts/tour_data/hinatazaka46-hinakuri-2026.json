@@ -1,0 +1,46 @@
+{
+ "slug": "hinatazaka46-hinakuri-2026",
+ "group": "hinatazaka46",
+ "tour": "日向坂46 ARENA TOUR「ひなくり2026」",
+ "official_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916",
+ "total_shows": 9,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "日向坂46公式（ARENA TOUR「ひなくり2026」開催決定）",
+   "url": "https://www.hinatazaka46.com/s/official/news/detail/E00916"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "ワールド記念ホール（神戸ワールド記念ホール）",
+   "key": "kobe-world-kinen-hall",
+   "pref": "兵庫県",
+   "dates": [
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23"
+   ]
+  },
+  {
+   "venue": "国立代々木競技場第一体育館",
+   "key": "yoyogi-national-gymnasium",
+   "pref": "東京都",
+   "dates": [
+    "2026-12-09",
+    "2026-12-10",
+    "2026-12-11"
+   ]
+  },
+  {
+   "venue": "クロコくんホール（日本ガイシホール）",
+   "key": "nippon-gaishi-hall",
+   "pref": "愛知県",
+   "dates": [
+    "2026-12-22",
+    "2026-12-23",
+    "2026-12-24"
+   ]
+  }
+ ]
+}

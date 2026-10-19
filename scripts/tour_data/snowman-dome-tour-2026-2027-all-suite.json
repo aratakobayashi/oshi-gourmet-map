@@ -1,0 +1,73 @@
+{
+ "slug": "snowman-dome-tour-2026-2027-all-suite",
+ "group": "snowman",
+ "tour": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+ "official_url": "https://starto.jp/s/p/live/10578",
+ "total_shows": 18,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）",
+   "url": "https://starto.jp/s/p/live/10578"
+  },
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "大和ハウス プレミストドーム（札幌ドーム）",
+   "key": "sapporo-dome",
+   "pref": "北海道",
+   "dates": [
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+   ]
+  },
+  {
+   "venue": "バンテリンドーム ナゴヤ",
+   "key": "vantelin-dome-nagoya",
+   "pref": "愛知県",
+   "dates": [
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ]
+  },
+  {
+   "venue": "みずほPayPayドーム福岡",
+   "key": "mizuho-paypay-dome",
+   "pref": "福岡県",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06"
+   ]
+  },
+  {
+   "venue": "東京ドーム",
+   "key": "tokyo-dome",
+   "pref": "東京都",
+   "dates": [
+    "2026-12-23",
+    "2026-12-24",
+    "2026-12-25",
+    "2026-12-26"
+   ]
+  },
+  {
+   "venue": "京セラドーム大阪",
+   "key": "kyocera-dome-osaka",
+   "pref": "大阪府",
+   "dates": [
+    "2027-01-04",
+    "2027-01-05",
+    "2027-01-06",
+    "2027-01-07"
+   ]
+  }
+ ]
+}

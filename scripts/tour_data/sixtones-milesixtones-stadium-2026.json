@@ -1,0 +1,38 @@
+{
+ "slug": "sixtones-milesixtones-stadium-2026",
+ "group": "sixtones",
+ "tour": "MILESixTONES（スタジアムツアー）",
+ "official_url": "https://starto.jp/s/p/live/10499",
+ "total_shows": 6,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（MILESixTONES 公演情報）",
+   "url": "https://starto.jp/s/p/live/10499"
+  },
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "ヤンマースタジアム長居",
+   "pref": "大阪府",
+   "dates": [
+    "2026-11-07",
+    "2026-11-08"
+   ]
+  },
+  {
+   "venue": "日産スタジアム",
+   "key": "nissan-stadium",
+   "pref": "神奈川県",
+   "dates": [
+    "2026-11-21",
+    "2026-11-22"
+   ]
+  }
+ ],
+ "note": "東京公演（味の素スタジアム・9月19日・20日）は終わっているため、この記事には入れていません。"
+}
