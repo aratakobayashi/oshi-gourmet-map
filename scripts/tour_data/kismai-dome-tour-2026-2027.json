@@ -1,0 +1,35 @@
+{
+ "slug": "kismai-dome-tour-2026-2027",
+ "group": "kismai",
+ "tour": "Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・",
+ "official_url": "https://starto.jp/s/p/live/10594",
+ "total_shows": 5,
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live/10594"
+  }
+ ],
+ "stops": [
+  {
+   "venue": "京セラドーム大阪",
+   "key": "kyocera-dome-osaka",
+   "pref": "大阪府",
+   "dates": [
+    "2026-12-25",
+    "2026-12-26"
+   ]
+  },
+  {
+   "venue": "東京ドーム",
+   "key": "tokyo-dome",
+   "pref": "東京都",
+   "dates": [
+    "2027-02-21",
+    "2027-02-22",
+    "2027-02-23"
+   ]
+  }
+ ]
+}
