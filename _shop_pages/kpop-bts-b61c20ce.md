@@ -12,6 +12,7 @@ source_video_title: "J-Hope 東京訪問"
 source_url: "https://ameblo.jp/j-hope19940218/entry-12896371954.html"
 group: "kpop_bts"
 tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13107693/"
+seating_note: "奥から4番目の座席（テーブルの切れ目が目印）"
 visit_kind: "other"
 program: "J-HOPE（東京滞在中）"
 lat: 35.6720135
@@ -22,4 +23,6 @@ groups:
   - "kpop_bts"
 ordered_items:
   - "スペシャルBセット チャーシュー追加"
+  - "スペシャルBセット"
+  - "チャーシュー追加"
 ---

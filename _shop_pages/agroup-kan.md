@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=AOgkkG9Z4Gg"
 source_url: "https://kosodate-and.net/agroup-nishitaku-oden"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130802/13289968/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.667880478718224
@@ -26,4 +27,15 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
+ordered_items:
+  - "ちくわぶ"
+  - "大根"
+  - "玉ねぎのさつま揚げ"
+  - "ごぼう巻き"
+  - "ちくわ"
+  - "はんぺん"
+  - "とん平焼き"
+  - "豆腐飯"
+  - "若鶏のチキン南蛮(自家製柴漬けタルタルソース)"
+  - "水餃子"
 ---

@@ -13,6 +13,7 @@ source_video_title: "あの頃からわたしたちは【髙橋海人ロケ地�
 source_url: "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14000795/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
 visit_kind: "guest_tv"
 program: "あの頃からわたしたちは"

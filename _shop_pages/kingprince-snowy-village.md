@@ -22,4 +22,6 @@ members:
   - "岸優太"
 groups:
   - "kingprince"
+ordered_items:
+  - "チョコチュロスオレオバニラ"
 ---

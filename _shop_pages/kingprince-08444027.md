@@ -12,6 +12,7 @@ source_video_title: "あの頃からわたしたちは【髙橋海人ロケ地�
 source_url: "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1408/A140803/14031879/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
 visit_kind: "guest_tv"
 program: "あの頃からわたしたちは"
@@ -21,4 +22,10 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
+ordered_items:
+  - "ネギ味噌チャーシュー"
+  - "ハンバーグ"
+  - "焼肉"
+  - "チャーハン"
+  - "餃子"
 ---

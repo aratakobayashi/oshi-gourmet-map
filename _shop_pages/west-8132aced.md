@@ -24,4 +24,6 @@ members:
   - "重岡大毅"
 groups:
   - "west"
+ordered_items:
+  - "きつねうどん"
 ---

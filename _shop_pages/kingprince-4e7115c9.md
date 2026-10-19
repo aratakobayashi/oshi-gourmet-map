@@ -12,6 +12,7 @@ source_video_title: "KinKi Kidsのブンブブーン【永瀬廉ロケ地】沖�
 source_url: "https://kosodate-and.net/kinki-kids-ren-okinawa"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1302/A130204/13027399/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg"
 visit_kind: "guest_tv"
 program: "KinKi Kidsのブンブブーン"

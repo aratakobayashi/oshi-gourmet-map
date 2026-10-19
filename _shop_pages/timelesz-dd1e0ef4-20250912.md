@@ -14,6 +14,7 @@ source_video_title: "ニノさん 高田馬場の麻辣グルメBEST3（2025年9
 source_url: "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-location-mala/"
 group: "timelesz"
 tabelog_url: "https://tabelog.com/tokyo/A1305/A130503/13273758/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg"
 visit_kind: "guest_tv"
 program: "ニノさん"

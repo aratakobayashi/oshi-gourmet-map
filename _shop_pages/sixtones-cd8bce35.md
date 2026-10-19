@@ -13,6 +13,8 @@ source_video_title: "【SixTONES】五右衛門はどこ？赤坂？6人全員�
 source_url: "https://kosodate-and.net/sixtones-goemon"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1308/A130801/13123355/"
+tabelog_verified: "True"
+seating_note: "奥の席（SixTONES 6人の定位置）"
 visit_kind: "other"
 lat: 35.6716786
 lng: 139.7356224

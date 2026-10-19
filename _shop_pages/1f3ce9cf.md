@@ -22,4 +22,6 @@ members:
   - "岩本照"
 groups:
   - "snowman"
+ordered_items:
+  - "ラーメン"
 ---

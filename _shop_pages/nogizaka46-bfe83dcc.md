@@ -23,4 +23,7 @@ members:
   - "寺田蘭世"
 groups:
   - "nogizaka46"
+ordered_items:
+  - "モーニングのCセット"
+  - "カフェオーレ"
 ---

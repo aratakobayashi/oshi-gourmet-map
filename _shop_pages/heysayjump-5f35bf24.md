@@ -13,6 +13,7 @@ source_video_title: "メレンゲの気持ち 2017.07.29"
 source_url: "https://medax.hatenablog.com/entry/meringue/20170729"
 group: "heysayjump"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131401/13013153/"
+tabelog_verified: "True"
 visit_kind: "guest_tv"
 program: "メレンゲの気持ち"
 lat: 35.6567524
@@ -21,4 +22,6 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "牛肉飯"
 ---

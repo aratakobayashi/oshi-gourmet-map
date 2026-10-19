@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=QsNHvXoTnyE"
 source_url: "https://kosodate-and.net/sano-yokohama-onigiri-cafe"
 group: "agroup"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140103/14096632/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 35.45687412131698
@@ -23,4 +24,6 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
+ordered_items:
+  - "昆布のおにぎり"
 ---

@@ -11,7 +11,8 @@ address: "東京都港区白金6-5-5 モリハウス1F"
 source_video_title: "キントレ【永瀬廉ロケ地】まかないハンターの奈良のレストラン・ラーメン屋さん・スペイン料理・一つ星中華はどこ？"
 source_url: "https://kosodate-and.net/kintore-ren-makanai-ramen"
 group: "kingprince"
-tabelog_url: "https://tabelog.com/tokyo/A1301/A130101/13002268/"
+tabelog_url: "https://tabelog.com/tokyo/A1316/A131602/13168401/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（まかないハンター）"
@@ -21,4 +22,6 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "オムライス天津飯"
 ---

@@ -13,6 +13,7 @@ source_video_title: "東京タワー【永瀬廉＆松田元太ロケ地】第3�
 source_url: "https://kosodate-and.net/tokyotower-ren-genta-yakitori"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1329/A132904/13041287/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ000662254/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/ypFgPRwNRK4f1HmbDNuFgofitDr.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/15/05/P039291505/P039291505_238.jpg"

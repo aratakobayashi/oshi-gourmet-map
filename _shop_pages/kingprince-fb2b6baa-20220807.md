@@ -14,6 +14,7 @@ source_video_title: "【キンプる元旦SP】岸優太＆神宮寺勇太が訪
 source_url: "https://kosodate-and.net/kinpru-wyuta-nagoya-udon"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/aichi/A2301/A230106/23015873/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 visit_kind: "own_tv"
 program: "King & Princeる。元旦SP"

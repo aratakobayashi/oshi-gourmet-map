@@ -17,6 +17,7 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130301/13013016/"
 source_type: "youtube"
+seating_note: "入って突き当たりの壁側の席"
 visit_kind: "youtube"
 program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.6531376
@@ -25,4 +26,8 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "ブレンドコーヒー"
+  - "サービスセット(ツナサンド)"
+  - "チーズケーキ"
 ---

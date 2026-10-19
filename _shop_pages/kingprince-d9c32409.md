@@ -13,6 +13,7 @@ source_video_title: "【行列のできる相談所】永瀬廉が食べた漆�
 source_url: "https://kosodate-and.net/gyoretsu-ren-curry"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1315/A131504/13133280/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg"
 visit_kind: "guest_tv"
 program: "行列のできる相談所"
@@ -22,4 +23,6 @@ members:
   - "永瀬廉"
 groups:
   - "kingprince"
+ordered_items:
+  - "カツカレーランチ"
 ---

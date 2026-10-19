@@ -13,6 +13,7 @@ source_video_title: "キントレ炊飯器の旅【髙橋海人＆須賀健太�
 source_url: "https://kosodate-and.net/kintore-kaito-sugaken-pan"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1404/A140403/14079455/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "own_tv"
 program: "キントレ（炊飯器の旅）"

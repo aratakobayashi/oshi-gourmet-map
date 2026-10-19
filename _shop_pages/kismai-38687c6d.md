@@ -12,6 +12,8 @@ source_video_title: "藤ヶ谷太輔 インスタグラム 九十九里 浜焼�
 source_url: "https://filminglocation-star.com/hujigaya-isaribi/"
 group: "kismai"
 tabelog_url: "https://tabelog.com/chiba/A1205/A120503/12005144/"
+tabelog_verified: "True"
+seating_note: "窓側の座敷席（奥から3番目）"
 visit_kind: "other"
 program: "藤ヶ谷太輔のInstagram"
 lat: 35.535
@@ -20,4 +22,8 @@ members:
   - "藤ヶ谷太輔"
 groups:
   - "kismai"
+ordered_items:
+  - "焼きはまぐり"
+  - "いわしの刺身"
+  - "はまぐりフライ"
 ---

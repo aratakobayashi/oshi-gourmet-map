@@ -22,4 +22,9 @@ members:
   - "山田涼介"
 groups:
   - "heysayjump"
+ordered_items:
+  - "アブラボウズ"
+  - "トロさばのみりん 特大"
+  - "カマス"
+  - "いかの汐辛"
 ---

@@ -12,6 +12,7 @@ source_video_title: "Stray Kids 東京ミッションツアー"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130601/13007421/"
+tabelog_verified: "True"
 visit_kind: "own_tv"
 program: "Stray Kidsの東京ミッションツアー"
 lat: 35.6692039

@@ -12,6 +12,7 @@ source_video_title: "イキスギさんについてった 2023-03-07（濵田崇
 source_url: "https://www.activitv.com/entry/ikisugisan_230307-2/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1324/A132401/13221156/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg"
 source_type: "tv"
 visit_kind: "own_tv"

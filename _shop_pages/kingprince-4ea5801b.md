@@ -13,6 +13,7 @@ source_video_title: "【キンプるロケ地】恵比寿ガーデンプレイ�
 source_url: "https://kosodate-and.net/kinpru-joelrobuchon"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/tokyo/A1303/A130302/13009310/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg"
 visit_kind: "own_tv"
 program: "King & Princeる。ゴールデン2時間SP（当たり前レストラン）"

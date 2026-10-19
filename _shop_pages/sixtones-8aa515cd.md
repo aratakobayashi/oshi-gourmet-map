@@ -14,6 +14,7 @@ source_video_title: "【シューイチ日本食ハジメマシ亭第7弾】ご�
 source_url: "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1306/A130603/13274776/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ003432435/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/57/66/P040735766/P040735766_238.jpg"

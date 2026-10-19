@@ -16,6 +16,7 @@ source_video_url: "https://www.youtube.com/watch?v=9BZhVltYM7c"
 source_url: "https://kosodate-and.net/kame-wada-ramen"
 group: "kamenashi"
 tabelog_url: "https://tabelog.com/tokyo/A1314/A131403/13210416/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "亀梨和也チャンネル"
 lat: 35.628500038741926
@@ -24,4 +25,7 @@ members:
   - "亀梨和也"
 groups:
   - "kamenashi"
+ordered_items:
+  - "ねぎラーメン(味玉トッピング)"
+  - "軟骨唐揚げ"
 ---

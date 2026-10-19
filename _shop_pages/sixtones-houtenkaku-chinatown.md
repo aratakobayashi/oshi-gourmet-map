@@ -15,6 +15,7 @@ source_video_title: "【SixTONES】MV撮影の合間に…カメラ回してみ�
 source_url: "https://kosodate-and.net/sixtones-chinatown"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140105/14040668/"
+tabelog_verified: "True"
 thumbnail_url: "https://img.youtube.com/vi/yqk_6iuc8F0/hqdefault.jpg"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
@@ -32,4 +33,6 @@ tags:
   - "小籠包"
   - "横浜中華街"
   - "聖地巡礼"
+ordered_items:
+  - "焼き小籠包"
 ---

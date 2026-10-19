@@ -12,6 +12,7 @@ source_video_title: "SKZ VLOG「Hyun.e's Holiday 5」"
 source_url: "https://koreaddicted.jp/34578"
 group: "kpop_straykids"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131101/13215175/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "SKZ VLOG「Hyun.e's Holiday 5」"
 lat: 35.7134128

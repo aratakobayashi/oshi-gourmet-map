@@ -20,4 +20,6 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "四川特製 辛味噌の海鮮麺"
 ---

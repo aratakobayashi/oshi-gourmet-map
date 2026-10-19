@@ -5054,7 +5054,12 @@
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "members を6人→4人に直す（中華街を回ったのは4人：kosodate-and.net）"
+    "qa_note": "members を6人→4人に直す（中華街を回ったのは4人：kosodate-and.net）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-chinatown",
+    "ordered_items": [
+      "焼き小籠包"
+    ]
   },
   {
     "id": "sixtones-ryukaihanten-chinatown",
@@ -8381,7 +8386,9 @@
     "tmdb_type": "tv",
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
     "visit_kind": "guest_tv",
-    "program": "ラーメンWalkerTV2"
+    "program": "ラーメンWalkerTV2",
+    "tabelog_verified": true,
+    "tabelog_source": "https://senublog.com/nogizaka46-sanctuary-summarize/"
   },
   {
     "id": "nogizaka46-485e9f27-",
@@ -8811,7 +8818,11 @@
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
     "visit_kind": "own_tv",
     "program": "乃木坂46時間TV",
-    "qa_note": "members は senublog の来店メンバー"
+    "qa_note": "members は senublog の来店メンバー",
+    "ordered_items": [
+      "モーニングのCセット",
+      "カフェオーレ"
+    ]
   },
   {
     "id": "ginga-okudo-202407",
@@ -26880,7 +26891,9 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は運営会社・際コーポレーションの店舗ページ（kiwa-group.co.jp/demode_fussa/）で確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=npYLBADlnZ8",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！"
+    "program": "木村さ〜〜ん！",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC"
   },
   {
     "id": "kimura-cafe_nun-20240501",
@@ -26904,7 +26917,7 @@
     "nearest_station": "",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、千葉・九十九里町のカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/chiba/A1207/A120703/12035659/",
+    "tabelog_url": "https://tabelog.com/chiba/A1205/A120503/12055412/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -26946,7 +26959,9 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は九十九里町の案内サイト goto99.jp の店舗ページで確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=VKAewMagMfQ",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！"
+    "program": "木村さ〜〜ん！",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
   },
   {
     "id": "kimura-trufflebakery-20240417",
@@ -27074,7 +27089,7 @@
     "group": "kimura",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、港区のカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13301076/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130703/13108192/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000805707/",
     "source_type": "",
     "tmdb_id": null,
@@ -27090,7 +27105,9 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」2024-04-06公開の回（及川光博とのカフェトーク）。住所はホットペッパーAPIの掲載（南麻布5-15-9）を国土地理院で確認。",
     "source_video_url": "https://www.youtube.com/watch?v=wOrgpzg3eXY",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！"
+    "program": "木村さ〜〜ん！",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%AF%E3%82%A4%E3%83%B3"
   },
   {
     "id": "kimura-573599de-20240401",
@@ -27114,7 +27131,7 @@
     "nearest_station": "代々木上原駅 徒歩7分",
     "description": "木村拓哉が訪れた店としてファンブログで紹介されている、渋谷の蕎麦店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1305/A130501/13141818/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13068521/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -27135,7 +27152,9 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の過去回（visited_date は再配信の公開日。撮影はそれより前）。 住所は上原商店街の店舗ページ（uehara-gourmet.jp）で確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=2D8hb89EdrQ",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！"
+    "program": "木村さ〜〜ん！",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E7%94%9F%E8%95%8E%E9%BA%A6"
   },
   {
     "id": "kimura-9b17c19d-20240320",
@@ -27229,7 +27248,9 @@
     "qa_note": "公式YouTube「木村さ〜〜ん！」の回（動画題名にフカヒレ）。店名は「中国饗膳 粋廉」。注文品の「旅奴」は同じ回に出た別の和菓子店（ファンブログの見出しでは御倉屋）の品とみられ、この店の注文ではない可能性。 住所は予約サイト zendine.co の店舗ページ・NAVITIMEで確認し、国土地理院アドレス検索で番地まで一致（2026-10-19）。",
     "source_video_url": "https://www.youtube.com/watch?v=MsfUvkVKrjs",
     "source_video_channel": "木村拓哉",
-    "program": "木村さ〜〜ん！"
+    "program": "木村さ〜〜ん！",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%83%95%E3%82%AB%E3%83%92%E3%83%AC%EF%BC%86%E5%92%8C%E8%8F%93%E5%AD%90"
   },
   {
     "id": "arashi-e2f2efa6-20201226",
@@ -35368,7 +35389,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vAiW5Z3Sh8WOfuuDUIihU941pI.jpg",
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
-    "qa_note": "出典: ひなたのまとめ（zakki10.blogspot.com）。visited_date は放送日"
+    "qa_note": "出典: ひなたのまとめ（zakki10.blogspot.com）。visited_date は放送日",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-bbfd13f7-20210927",
@@ -35406,7 +35429,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-fa2fc099-20210927",
@@ -35441,7 +35466,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-bda7e0a5-20210510",
@@ -35475,7 +35502,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/v2LxmBiIBMz4y9c5omRWoAQYr3g.jpg",
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
-    "qa_note": "番組ではトークで紹介しただけでロケはしていない。本人の行きつけとしての紹介なので keep にしたが要確認"
+    "qa_note": "番組ではトークで紹介しただけでロケはしていない。本人の行きつけとしての紹介なので keep にしたが要確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-tokyo-20210419",
@@ -35518,7 +35547,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "出典は「召し上がりました」とだけあり、店で食べたかスタジオで食べたかは確かめられない"
+    "qa_note": "出典は「召し上がりました」とだけあり、店で食べたかスタジオで食べたかは確かめられない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-29f01218-20211217",
@@ -35552,7 +35583,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/7S5jOnC05iezRKSaevmSYitkaKN.jpg",
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
-    "qa_note": "出典では渡辺梨加の好きな店として紹介されただけで、番組で訪れたかは不明。守屋茜が行った記述はないため members から外した"
+    "qa_note": "出典では渡辺梨加の好きな店として紹介されただけで、番組で訪れたかは不明。守屋茜が行った記述はないため members から外した",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-cd3765d1-20210920",
@@ -35591,7 +35624,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-d51b7934-20210927",
@@ -35630,7 +35665,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-9a070f3f-20210927",
@@ -35669,7 +35706,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-a192e6c7-20210920",
@@ -35704,7 +35743,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）。members が空だったので出典に合わせて井上梨名を入れた"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）。members が空だったので出典に合わせて井上梨名を入れた",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-718f1556-20210927",
@@ -35739,7 +35780,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "sakurazaka46-d4d4f41d-20210920",
@@ -35775,7 +35818,9 @@
     "visit_kind": "own_tv",
     "program": "そこ曲がったら、櫻坂？",
     "studio_only": true,
-    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）"
+    "qa_note": "番組内の企画「食欲の秋！どっちのグルメプレゼンショー！」でメンバーがおすすめとして紹介した店。メンバーが番組で店を訪れたかは出典で確かめられない（スタジオに料理が出ただけなら studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://zakki10.blogspot.com/2022/02/sokosaku-seichi.html"
   },
   {
     "id": "kpop_riize-2b4bf673-",
@@ -36676,7 +36721,9 @@
     ],
     "studio_only": true,
     "qa_note": "データの市区町村（狛江市）・最寄り駅は誤り。出典の住所は東京都渋谷区恵比寿南1-16-11。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/14/P027070114/P027070114_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/14/P027070114/P027070114_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-d8c5c968-",
@@ -36719,7 +36766,9 @@
       "志尊淳"
     ],
     "studio_only": true,
-    "qa_note": "データの市区町村（新宿区）は誤り。出典の住所は東京都港区赤坂3-12-7。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "データの市区町村（新宿区）は誤り。出典の住所は東京都港区赤坂3-12-7。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-6cfc01cf-",
@@ -36761,7 +36810,9 @@
       "志尊淳"
     ],
     "studio_only": true,
-    "qa_note": "データの市区町村（新宿区）・最寄り駅は誤り。出典の住所は東京都渋谷区道玄坂2-9-10。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "データの市区町村（新宿区）・最寄り駅は誤り。出典の住所は東京都渋谷区道玄坂2-9-10。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-8a6cc21b-",
@@ -36804,7 +36855,9 @@
     ],
     "studio_only": true,
     "qa_note": "データの都道府県（愛知県名古屋市）・最寄り駅は誤り。出典の住所は東京都新宿区神楽坂3-5。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/99/P021008999/P021008999_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/99/P021008999/P021008999_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-elbe-",
@@ -36847,7 +36900,9 @@
     ],
     "studio_only": true,
     "qa_note": "データの都道府県（宮城県仙台市）・最寄り駅は誤り。出典の住所は東京都中央区銀座3-13-17。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/93/P028636993/P028636993_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/93/P028636993/P028636993_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-0d55c6e8-",
@@ -36890,7 +36945,9 @@
       "岸優太"
     ],
     "studio_only": true,
-    "qa_note": "出典の住所は東京都港区南青山7-3-6。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "出典の住所は東京都港区南青山7-3-6。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "arashi-492071c5-",
@@ -37084,7 +37141,10 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ベリーミックスヨーグルト",
+      "アイスカフェラテ"
+    ],
     "visit_kind": "other",
     "program": "松島聡 Instagram",
     "qa_note": "出典はファンブログ経由のInstagram投稿。インスタは整理されることがあるとの記載あり"
@@ -37366,7 +37426,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
     "visit_kind": "guest_tv",
     "program": "ニノさん",
-    "qa_note": "番組では「孫二郎」と紹介されたとの記載あり。スタジオに寺西拓人・篠塚大輝がいたが店には行っていない"
+    "qa_note": "番組では「孫二郎」と紹介されたとの記載あり。スタジオに寺西拓人・篠塚大輝がいたが店には行っていない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-location-mala/"
   },
   {
     "id": "timelesz-dd1e0ef4-20250912",
@@ -37407,7 +37469,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
     "visit_kind": "guest_tv",
     "program": "ニノさん",
-    "qa_note": "店名は出典では「四川料理専門店 成都娘酸菜魚 高田馬場店」、番組では「成都姑娘」と紹介。寺西・篠塚はスタジオで試食のみ"
+    "qa_note": "店名は出典では「四川料理専門店 成都娘酸菜魚 高田馬場店」、番組では「成都姑娘」と紹介。寺西・篠塚はスタジオで試食のみ",
+    "tabelog_verified": true,
+    "tabelog_source": "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-location-mala/"
   },
   {
     "id": "timelesz-57478bac-20250912",
@@ -37448,7 +37512,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
     "visit_kind": "guest_tv",
     "program": "ニノさん",
-    "qa_note": "寺西・篠塚はスタジオで試食のみ"
+    "qa_note": "寺西・篠塚はスタジオで試食のみ",
+    "tabelog_verified": true,
+    "tabelog_source": "https://oshikatsu-time.com/timelesz-harayoshitaka-ninosan-20250912-location-mala/"
   },
   {
     "id": "timelesz-e9304b8e-20250629",
@@ -37645,7 +37711,8 @@
     "program": "かまいガチ",
     "with": [
       "濱家隆一"
-    ]
+    ],
+    "seating_note": "テーブル席"
   },
   {
     "id": "timelesz-skookum_hotdog_diner-20250615",
@@ -37996,7 +38063,9 @@
     "with": [
       "マリウス葉"
     ],
-    "qa_note": "2024年4月以降（timelesz改名後）なので残す。出典ブログは公式Instagram投稿の埋め込み"
+    "qa_note": "2024年4月以降（timelesz改名後）なので残す。出典ブログは公式Instagram投稿の埋め込み",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/timelesz-yakiniku-osaka/"
   },
   {
     "id": "timelesz-cafe_marly-20250425",
@@ -38029,7 +38098,8 @@
     "tmdb_type": "",
     "visit_kind": "other",
     "program": "渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MARNI」",
-    "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。撮影場所のみで食事したかは不明。要確認"
+    "qa_note": "出典が Yahoo!ニュース エキスパート（robots.txt で取得不可）で、内容を確かめられず。撮影場所のみで食事したかは不明。要確認",
+    "seating_note": "向かって左の窓手前の席・店内奥の鏡張りの席（撮影場所）"
   },
   {
     "id": "timelesz-3686de20-20250425",
@@ -38064,7 +38134,9 @@
     "program": "ニノさん",
     "with": [
       "若槻千夏"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/nino_250425_nakadai/"
   },
   {
     "id": "timelesz-e0858214-20250425",
@@ -38602,6 +38674,9 @@
       },
       {
         "name": "あふれる100粒いちごパフェ"
+      },
+      {
+        "name": "ごろごろいちごスムージー"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
@@ -38835,7 +38910,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2026-03-13 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2026-03-13 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2026-03-13"
   },
   {
     "id": "naniwa-getti-20260313",
@@ -38872,7 +38949,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2026-03-13 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2026-03-13 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2026-03-13"
   },
   {
     "id": "naniwa-ygyg-20260313",
@@ -39150,6 +39229,9 @@
     "ordered_items": [
       {
         "name": "ズガニラーメン"
+      },
+      {
+        "name": "あまご山丼"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
@@ -39306,7 +39388,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-10-17 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-10-17 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-10-17"
   },
   {
     "id": "naniwa-d355c504-20251017",
@@ -39456,6 +39540,9 @@
     "ordered_items": [
       {
         "name": "海鮮タワー丼"
+      },
+      {
+        "name": "うな重みそ汁セット"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
@@ -39575,7 +39662,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-07-11 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-07-11 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
   },
   {
     "id": "naniwa-rahmeneddie-20250711",
@@ -39613,7 +39702,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-07-11 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-07-11 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-07-11"
   },
   {
     "id": "naniwa-967fc4f7-20250711",
@@ -39800,6 +39891,9 @@
     "ordered_items": [
       {
         "name": "豚なんこつの葱つけ麺と野菜かき揚げ"
+      },
+      {
+        "name": "大葉と梅香る・ジェノベーゼ風サラダうどん"
       }
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
@@ -39873,7 +39967,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "アイスのフルコース料理"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -39995,7 +40091,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/72/81/P049527281/P049527281_238.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認。大西は訪れたが食事はしていない（ordered_itemsは紹介メニュー）"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認。大西は訪れたが食事はしていない（ordered_itemsは紹介メニュー）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
   },
   {
     "id": "naniwa-fd99efc0-20250321",
@@ -40038,7 +40136,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
   },
   {
     "id": "naniwa-9502d159-20250321",
@@ -40080,7 +40180,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/06/24/P051150624/P051150624_238.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認。同ブログでは2023年9月の『1億3000万人のSHOWチャンネル』で藤原・大橋もこの店でロケしたとあるが、未確認のためmembersに入れていない"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認。同ブログでは2023年9月の『1億3000万人のSHOWチャンネル』で藤原・大橋もこの店でロケしたとあるが、未確認のためmembersに入れていない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
   },
   {
     "id": "naniwa-ajillo-20250321",
@@ -40118,7 +40220,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-21 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-21"
   },
   {
     "id": "naniwa-coins-20250314",
@@ -40182,7 +40286,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "富士山盛りチーズのボロネーゼ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40215,11 +40321,15 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "金目鯛と舞茸の土鍋ごはん"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-14 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-14 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-14"
   },
   {
     "id": "naniwa-678a5e60-20250314",
@@ -40253,7 +40363,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-14 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2025-03-14 で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.chiicrane-life.fun/mezamashi-2025-03-14"
   },
   {
     "id": "naniwa-753a6c5f-",
@@ -40283,7 +40395,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "担々麺"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40317,7 +40431,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ピタヤボウルセット"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40386,7 +40502,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "チキンミルク粥"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40563,7 +40681,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "柏野菜を使ったカレーチーズバーガー",
+      "濃厚バニラソフトの自家製苺ソース"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40597,7 +40718,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "鉄板ハンバーグオム"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40631,7 +40754,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "座ったままでいちご狩り"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40732,7 +40857,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ミカンタンフル",
+      "猫プリン"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40766,7 +40894,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "グラブジャムン"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40834,7 +40964,11 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "刻みわさびツナマヨ",
+      "鮭マヨ柚子胡椒",
+      "野沢菜わさび昆布"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40868,7 +41002,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ティラミスのかき氷"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40936,7 +41072,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "スパゲッティ 海老のマリナーラ シェフのおすすめ 3品セット"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -40969,7 +41107,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "花重フレンチトースト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41037,7 +41177,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "熊本栗の生搾りモンブラン ー極ー"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41071,7 +41213,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "アップルパイ",
+      "不動(梵字)ラテ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41105,7 +41250,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "サークロ プレーン"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41139,7 +41286,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "フランス産バターのエクレアクロワッサン"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41173,7 +41322,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "風船パン"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41241,7 +41392,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "回鍋肉定食"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41280,7 +41433,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "大阪 米忠 特製赤みそ Mサイズ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/06/P041886806/P041886806_238.jpg",
     "visit_kind": "guest_tv",
@@ -41349,7 +41504,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "TKM"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41383,7 +41540,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "中華そば"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41484,7 +41643,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "和栗モンブランかき氷"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41518,7 +41679,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ドーナツもなかジェラートサンド",
+      "そのぎ抹茶のアフォガード"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/33/64/P039633364/P039633364_238.jpg",
     "visit_kind": "guest_tv",
@@ -41553,7 +41717,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ジェラートセットトリプル(ドリンク付き)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
@@ -41590,7 +41756,10 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のどっち派！？（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2023-05-05 で確認"
+    "qa_note": "chiicrane-life.fun/mezamashi-2023-05-05 で確認",
+    "ordered_items": [
+      "朝食ビュッフェ"
+    ]
   },
   {
     "id": "sixtones-e6599dc3-",
@@ -41688,7 +41857,9 @@
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "genre が yakiniku なのに今の説明文は「寿司」。打ち上げは2025年4月13日（kosodate-and.net）"
+    "qa_note": "genre が yakiniku なのに今の説明文は「寿司」。打ち上げは2025年4月13日（kosodate-and.net）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-nagoya-yakiniku"
   },
   {
     "id": "sixtones-d1e1872d-",
@@ -41725,7 +41896,9 @@
     "with": [
       "ファーストサマーウイカ"
     ],
-    "qa_note": "事前取材の相手はファンブログの見出しによる。tmdb_id 198097 も付いている"
+    "qa_note": "事前取材の相手はファンブログの見出しによる。tmdb_id 198097 も付いている",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/talkqueens-kochi-izakaya"
   },
   {
     "id": "sixtones-d78f2562-",
@@ -41761,7 +41934,9 @@
     "program": "だが、情熱はある",
     "with": [
       "髙橋海人"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kaito-shintaro-izakaya"
   },
   {
     "id": "sixtones-cfdee4a9-",
@@ -41801,7 +41976,9 @@
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "伊香保焼は焼き物ではなくたこ焼き（飲食店として keep）。石段街の回は「～05～伊香保温泉を散策して…ただ遊ぶ」（X0ZJFZNRFFo, 2023-11-17）で、今の youtube_id（最終話）は違う。genre others→others のままか sweets/shokuji に"
+    "qa_note": "伊香保焼は焼き物ではなくたこ焼き（飲食店として keep）。石段街の回は「～05～伊香保温泉を散策して…ただ遊ぶ」（X0ZJFZNRFFo, 2023-11-17）で、今の youtube_id（最終話）は違う。genre others→others のままか sweets/shokuji に",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-ikaho-gohan"
   },
   {
     "id": "sixtones-initial_omotesando-",
@@ -41838,7 +42015,9 @@
       "森川葵"
     ],
     "studio_only": true,
-    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。店の特定はファンブログが公式Xと店のインスタから推定したもの（放送前の記事）"
+    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。店の特定はファンブログが公式Xと店のインスタから推定したもの（放送前の記事）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger"
   },
   {
     "id": "sixtones-8aa515cd-",
@@ -41877,7 +42056,9 @@
     ],
     "studio_only": true,
     "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。店の特定はファンブログが公式Xと店のインスタから推定したもの（放送前の記事）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/66/P040735766/P040735766_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/57/66/P040735766/P040735766_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/shu1-nihonsyoku-parfait-burger"
   },
   {
     "id": "sixtones-216345f9-",
@@ -41915,7 +42096,9 @@
     "with": [
       "松本若菜",
       "太田莉菜"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/saionji-hokuto-monjya"
   },
   {
     "id": "sixtones-cafe_accueil-",
@@ -41945,13 +42128,17 @@
     "source_type": "",
     "tmdb_id": 278867,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "フレンチトースト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/auRHdqwCV8ZP3LKikPcHCzccZef.jpg",
     "visit_kind": "drama",
     "program": "アンサンブル",
     "with": [
       "川口春奈"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ensemble-asagohan-cafe"
   },
   {
     "id": "sixtones-52936d22-",
@@ -41989,7 +42176,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/taDSwjMeOA7fv8rrlKNJSksAMxp.jpg",
     "visit_kind": "other",
     "program": "SixTONESのオールナイトニッポンサタデースペシャル（ラジオ）／Game of SixTONES",
-    "qa_note": "出典はラジオ（2025-05-03放送）と『大悟の芸人領収書』の内容を伝えるファンブログ。番組内では6人は麻婆豆腐を食べていない"
+    "qa_note": "出典はラジオ（2025-05-03放送）と『大悟の芸人領収書』の内容を伝えるファンブログ。番組内では6人は麻婆豆腐を食べていない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-son-chinese"
   },
   {
     "id": "sixtones-fce1c71f-",
@@ -42015,7 +42204,6 @@
     "nearest_station": "",
     "description": "SixTONESの公式YouTube「俺たちに絆はあるのか!?in三鷹・吉祥寺」（2024年3月）で、髙地優吾と松村北斗が深大寺で目玉おやじまんを食べた茶屋。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1326/A132601/13033267/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -42054,10 +42242,15 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "山菜そば",
+      "もりそば"
+    ],
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "youtube_id なし（2024-03-22配信の回）。genre others→washoku"
+    "qa_note": "youtube_id なし（2024-03-22配信の回）。genre others→washoku",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-inokashira-park"
   },
   {
     "id": "sixtones-e60bfe3c-",
@@ -42172,13 +42365,17 @@
     "source_type": "",
     "tmdb_id": 317409,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "担々麺"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg",
     "visit_kind": "own_tv",
     "program": "6SixTONES",
     "with": [
       "二宮和也"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/6sixtones-nino-chinese"
   },
   {
     "id": "sixtones-the_roof_bbq_garden-",
@@ -42219,7 +42416,9 @@
       "七五三掛龍也",
       "松倉海斗"
     ],
-    "qa_note": "BBQの場面は前編（Travis Japanのチャンネル UzscJR2xMwk）。今の youtube_id（後編 Z3VYctb_6uo）は雨で室内に移ったあと。members を6人→京本大我だけに直す"
+    "qa_note": "BBQの場面は前編（Travis Japanのチャンネル UzscJR2xMwk）。今の youtube_id（後編 Z3VYctb_6uo）は雨で室内に移ったあと。members を6人→京本大我だけに直す",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kyomotokai-bbq"
   },
   {
     "id": "sixtones-a8ce0c6f-20230731",
@@ -42254,12 +42453,25 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "プレミアムクリームパン",
+      "ちいカレーパン",
+      "玄米パンのカニクリームコロッケパン",
+      "クロックムッシュ(コーン)",
+      "ちいアンパンマン",
+      "クリームドーナツ",
+      "塩フランス",
+      "もちもち枝豆",
+      "ちいガーリックフランス",
+      "チキン竜田"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=EX93VXsmLsI",
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "同じ店が sixtones-af622cfe- と二重（こちらを残す）。visited_date 2023-07-31 は配信日 2023-07-28 と食い違う。6人全員かは出典で未確認"
+    "qa_note": "同じ店が sixtones-af622cfe- と二重（こちらを残す）。visited_date 2023-07-31 は配信日 2023-07-28 と食い違う。6人全員かは出典で未確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-chiipan"
   },
   {
     "id": "sixtones-acb489bf-",
@@ -42297,7 +42509,9 @@
     "with": [
       "富田望生",
       "坂井真紀"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-yamazato-yakiniku"
   },
   {
     "id": "sixtones-84658c1e-",
@@ -42330,7 +42544,9 @@
     "ordered_items": [],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/81/62/P027348162/P027348162_238.jpg",
     "visit_kind": "magazine",
-    "program": "CLASSY.（2025年11月号）"
+    "program": "CLASSY.（2025年11月号）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/classy-hokuto-shizuoka-oden"
   },
   {
     "id": "sixtones-91f2b02c-20250617",
@@ -42386,7 +42602,9 @@
       "長嶋一茂"
     ],
     "studio_only": true,
-    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない（記事では訪問と分けて書く）。誰が食べたかは未確認"
+    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない（記事では訪問と分けて書く）。誰が食べたかは未確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/golden-sixtones-kazushige-ramen"
   },
   {
     "id": "sixtones-maikagura-20250617",
@@ -42420,7 +42638,9 @@
     "source_type": "",
     "tmdb_id": 289046,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "白トリュフオイル香る鶏白湯麺"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c59A7voDT22pAeH6zwxTltceGjn.jpg",
     "visit_kind": "own_tv",
     "program": "Golden SixTONES",
@@ -42428,7 +42648,9 @@
       "長嶋一茂"
     ],
     "studio_only": true,
-    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。誰が食べたかは未確認"
+    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。誰が食べたかは未確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/golden-sixtones-kazushige-ramen"
   },
   {
     "id": "sixtones-8257bc5a-",
@@ -42463,7 +42685,9 @@
     "visit_kind": "drama",
     "program": "アンサンブル",
     "qa_note": "松村北斗がこの店での場面に出ているかは出典で直接は確かめていない（MATO庵は主人公の実家の店）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/93/14/P034119314/P034119314_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/93/14/P034119314/P034119314_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ensemble-hokuto-cafe"
   },
   {
     "id": "sixtones-rage-",
@@ -42505,7 +42729,9 @@
     "with": [
       "二宮和也"
     ],
-    "qa_note": "ゲームに失敗し、撮影では食べていない（ロケはした）"
+    "qa_note": "ゲームに失敗し、撮影では食べていない（ロケはした）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/6sixtones-nino-ramen"
   },
   {
     "id": "sixtones-kaido_books_coffee-",
@@ -42539,7 +42765,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/44/79/P050624479/P050624479_238.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-shintaro-scone"
   },
   {
     "id": "sixtones-cow_bell-",
@@ -42575,7 +42803,9 @@
     "program": "アンサンブル",
     "with": [
       "横田真悠"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ensemble-hokuto-restaurant"
   },
   {
     "id": "sixtones-256a43c1-20221229",
@@ -42610,12 +42840,22 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "フルーツトマト",
+      "蜜玉たまねぎのバルサ味噌チーズオーブン焼き",
+      "蜜玉たまねぎのサクサクオニオンリング",
+      "蜜玉たまねぎのスライスサラダ",
+      "カツオ塩たたき",
+      "板盛り刺身",
+      "蒸籠蒸し 野菜巻き串"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=kl0QZ43CdeQ",
     "source_video_channel": "SixTONES",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/53/P040626953/P040626953_238.jpg",
     "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）"
+    "program": "ストチューブ（SixTONES公式YouTube）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-bounenkai"
   },
   {
     "id": "sixtones-4ab100a4-",
@@ -42687,7 +42927,9 @@
       "木村拓哉"
     ],
     "source_video_url": "https://www.youtube.com/watch?v=ZngPEKWuCOE",
-    "source_video_channel": "木村拓哉"
+    "source_video_channel": "木村拓哉",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kimura-jesse-yakiniku"
   },
   {
     "id": "sixtones-7c39702f-",
@@ -42778,13 +43020,17 @@
     "source_type": "",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "バターシュガー"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
     "with": [
       "横山裕"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/hirunan-yokoyama-taiga-bus"
   },
   {
     "id": "sixtones-seafood_bar_ermitage-",
@@ -42821,7 +43067,9 @@
       "横山裕"
     ],
     "qa_note": "この店で何を食べたかはファンブログに書かれていない",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/87/15/P047688715/P047688715_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/87/15/P047688715/P047688715_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/hirunan-yokoyama-taiga-bus"
   },
   {
     "id": "sixtones-breath_cafe-",
@@ -42859,7 +43107,9 @@
     "with": [
       "倉田瑛茉"
     ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/61/96/P050676196/P050676196_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/61/96/P050676196/P050676196_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/hokuto-ema-cafe"
   },
   {
     "id": "sixtones-cafe_apartment_183-",
@@ -42895,7 +43145,9 @@
     "program": "トークィーンズ",
     "with": [
       "ファーストサマーウイカ"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/talkqueens-taiga-cafe"
   },
   {
     "id": "sixtones-ribera-",
@@ -42925,12 +43177,17 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ヒレステーキ 300g",
+      "生野菜"
+    ],
     "visit_kind": "youtube",
     "program": "かわいたちチャンネル",
     "with": [
       "河合郁人"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kawai-jyuri-steak"
   },
   {
     "id": "sixtones-f850084c-",
@@ -42966,7 +43223,9 @@
     "program": "だが、情熱はある",
     "with": [
       "渋谷凪咲"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-yama-karin-cafe"
   },
   {
     "id": "sixtones-cafe_8101-",
@@ -43001,7 +43260,9 @@
     "program": "だが、情熱はある",
     "with": [
       "富田望生"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-yamazato-cafe"
   },
   {
     "id": "sixtones-ef401f76-",
@@ -43037,7 +43298,9 @@
     "program": "アンサンブル",
     "with": [
       "川口春奈"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ensemble-senamato-cafe"
   },
   {
     "id": "sixtones-gbs_cafe_area1-",
@@ -43070,7 +43333,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-shintaro-bar"
   },
   {
     "id": "sixtones-1bf9c12c-",
@@ -43107,7 +43372,9 @@
     "program": "アンサンブル",
     "with": [
       "田中圭"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ensemble-okonomiyaki"
   },
   {
     "id": "sixtones-coffee-",
@@ -43140,7 +43407,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-shintaro-cafe"
   },
   {
     "id": "sixtones-f292e213-",
@@ -43169,13 +43438,18 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ハラミ",
+      "厚切り上タン"
+    ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/20/09/P046502009/P046502009_238.jpg",
     "visit_kind": "guest_tv",
     "program": "モニタリング×アニマリング",
     "with": [
       "佐久間大介（Snow Man）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/animaling-saku-kochi-yakiniku"
   },
   {
     "id": "sixtones-53510465-",
@@ -43204,12 +43478,16 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "いちご大福"
+    ],
     "visit_kind": "guest_tv",
     "program": "モニタリング×アニマリング",
     "with": [
       "佐久間大介（Snow Man）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/animaling-saku-kochi-yakiniku"
   },
   {
     "id": "sixtones-as_classics_diner-",
@@ -43246,7 +43524,9 @@
     "with": [
       "松井愛莉",
       "太田莉菜"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/saionji-hokuto-america"
   },
   {
     "id": "sixtones-37abdfe3-20230304",
@@ -43284,7 +43564,9 @@
       "二宮和也"
     ],
     "qa_note": "迷う：店に行ったのか、スタジオで紹介・試食しただけかは出典で確かめられない。visited_date 2023-03-04 は放送日（1月31日）と食い違う",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/48/P012808948/P012808948_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/48/P012808948/P012808948_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ninosan-haruna-onigiri"
   },
   {
     "id": "sixtones-a3f2a949-",
@@ -43325,7 +43607,9 @@
     "with": [
       "大泉洋"
     ],
-    "qa_note": "genre others→washoku など"
+    "qa_note": "genre others→washoku など",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/6sixtones-atami"
   },
   {
     "id": "sixtones-76220757-",
@@ -43354,7 +43638,7 @@
     "group": "sixtones",
     "description": "SixTONESの冠番組『6SixTONES』（2026年1月）で、6人と大泉洋が熱海駅前の商店街を食べ歩き、温泉まんじゅうを食べた店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22021407/",
+    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22025496/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 317409,
@@ -43366,7 +43650,9 @@
     "with": [
       "大泉洋"
     ],
-    "qa_note": "ファンブログでは食べたのは田中樹・森本慎太郎・ジェシー。genre others→sweets"
+    "qa_note": "ファンブログでは食べたのは田中樹・森本慎太郎・ジェシー。genre others→sweets",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/6sixtones-atami"
   },
   {
     "id": "sixtones-cd8bce35-",
@@ -43410,7 +43696,10 @@
       }
     ],
     "visit_kind": "other",
-    "qa_note": "迷う：出典はファンブログが引用した個人のSNS投稿だけで、公式の出典がない"
+    "qa_note": "迷う：出典はファンブログが引用した個人のSNS投稿だけで、公式の出典がない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-goemon",
+    "seating_note": "奥の席（SixTONES 6人の定位置）"
   },
   {
     "id": "sixtones-57dde2bc-",
@@ -43484,7 +43773,9 @@
     "with": [
       "渋谷凪咲",
       "富田望生"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kikuyoshi"
   },
   {
     "id": "sixtones-pizza_slice-20230501",
@@ -43520,7 +43811,9 @@
     "with": [
       "松本若菜"
     ],
-    "qa_note": "visited_date 2023-05-01 はドラマ（2024年）と食い違う"
+    "qa_note": "visited_date 2023-05-01 はドラマ（2024年）と食い違う",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/saionji-hokuto-pizza"
   },
   {
     "id": "sixtones-series-",
@@ -43565,7 +43858,9 @@
       "久保田利伸"
     ],
     "studio_only": true,
-    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。誰が食べたかは未確認"
+    "qa_note": "迷う：スタジオに料理が出ただけで店には行っていない。誰が食べたかは未確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/golden-sixtones-tantanmen"
   },
   {
     "id": "sixtones-c1965cb5-",
@@ -43658,7 +43953,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=fZDShCN5fxM",
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）"
+    "program": "ストチューブ（SixTONES公式YouTube）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-genghis-khan"
   },
   {
     "id": "sixtones-18508e10-",
@@ -43692,7 +43989,9 @@
     "ordered_items": [],
     "visit_kind": "own_tv",
     "program": "SixTONESの今日からプロデューサーズ！（ストP）",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/38/P047282538/P047282538_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/38/P047282538/P047282538_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-hokujuri-beer"
   },
   {
     "id": "sixtones-bier_reise_98-",
@@ -43718,14 +44017,16 @@
     "nearest_station": "",
     "description": "SixTONESの冠番組『SixTONESの今日からプロデューサーズ！』（2024年9月）で、田中樹と松村北斗がビールの注ぎ方を教わった新橋のビアバー。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1312/A131201/13007996/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13009276/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [],
     "visit_kind": "own_tv",
-    "program": "SixTONESの今日からプロデューサーズ！（ストP）"
+    "program": "SixTONESの今日からプロデューサーズ！（ストP）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-hokujuri-beer"
   },
   {
     "id": "sixtones-601a4bef-",
@@ -43758,7 +44059,9 @@
     "ordered_items": [],
     "visit_kind": "own_tv",
     "program": "SixTONESの今日からプロデューサーズ！（ストP）",
-    "qa_note": "迷う：ファンブログは「田中樹が再現した焼きそばのお店」とだけ書いており、店で撮影したか・松村北斗も行ったかは未確認"
+    "qa_note": "迷う：ファンブログは「田中樹が再現した焼きそばのお店」とだけ書いており、店で撮影したか・松村北斗も行ったかは未確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sixtones-hokujuri-beer"
   },
   {
     "id": "sixtones-le_bois-",
@@ -43788,13 +44091,18 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "プラントプリン",
+      "クロッシュ(オリジナル)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
     "with": [
       "宮近海斗（Travis Japan）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe"
   },
   {
     "id": "sixtones-park_stand_tokyo-",
@@ -43824,13 +44132,18 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "バスクチーズケーキ",
+      "プレーンスコーン（クリーム&ジャム）"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
     "with": [
       "宮近海斗（Travis Japan）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe"
   },
   {
     "id": "sixtones-22d9cc93-",
@@ -43864,7 +44177,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/31/64/P031343164/P031343164_238.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-shintaro-osaka"
   },
   {
     "id": "sixtones-coda_rossa-",
@@ -43915,7 +44230,9 @@
     "program": "6SixTONES",
     "with": [
       "大泉洋"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/6sixtones-atami-restaurant"
   },
   {
     "id": "sixtones-sookdal-",
@@ -43950,7 +44267,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/ArDNrCix7Zje5pbkQUbAF9kVxV8.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/99/P043555999/P043555999_238.jpg",
     "visit_kind": "guest_tv",
-    "program": "オオカミ少年"
+    "program": "オオカミ少年",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ookami-jesse-jyuri-kankoku"
   },
   {
     "id": "sixtones-5c3ceb65-",
@@ -46060,7 +46379,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=Kv2-QX2HenQ",
     "source_video_channel": "亀梨和也",
     "visit_kind": "youtube",
-    "program": "亀梨和也チャンネル"
+    "program": "亀梨和也チャンネル",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kame-osaka-okonomiyaki"
   },
   {
     "id": "kattun-bfde3236-",
@@ -46090,14 +46411,28 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "鰻串 短冊",
+      "鰻串 白短冊",
+      "鰻串 肝",
+      "鰻串 鰻ハニーブルーチーズ",
+      "レバー",
+      "ハツ",
+      "ささみ",
+      "アスパラ",
+      "鰻のためのハイボール",
+      "大蒜と青唐辛子の味玉",
+      "オクラとなめ茸の和え物"
+    ],
     "visit_kind": "youtube",
     "program": "亀梨和也チャンネル",
     "with": [
       "藤井流星"
     ],
     "qa_note": "youtube_id・visited_dateが空。該当動画は SkIMIAt-W2g『【ハプニング】WEST.藤井流星と東京のせんべろ街で飲み歩き！まさかの展開になります。』（2024-12-07）。店名はファンブログ（kosodate-and.net）による特定",
-    "source_video_url": "https://www.youtube.com/watch?v=SkIMIAt-W2g"
+    "source_video_url": "https://www.youtube.com/watch?v=SkIMIAt-W2g",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kame-ryusei-izakaya"
   },
   {
     "id": "kattun-c44a048d-",
@@ -46127,14 +46462,19 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ねぎラーメン(味玉トッピング)",
+      "軟骨唐揚げ"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=9BZhVltYM7c",
     "source_video_channel": "亀梨和也",
     "visit_kind": "youtube",
     "program": "亀梨和也チャンネル",
     "with": [
       "和田毅"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kame-wada-ramen"
   },
   {
     "id": "kattun-aburi-",
@@ -46169,7 +46509,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/80/36/P031778036/P031778036_238.jpg",
     "visit_kind": "own_tv",
     "program": "何するカトゥーン？",
-    "qa_note": "出典（kosodate-and）は亀梨・上田の2人の回。中丸雄一は出ていないので members から外す。visited_date が空→放送日 2024-11-24。11/11に撮影の目撃情報あり。genre は others→washoku が妥当。youtube_id なし（画像の有無を要確認）。"
+    "qa_note": "出典（kosodate-and）は亀梨・上田の2人の回。中丸雄一は出ていないので members から外す。visited_date が空→放送日 2024-11-24。11/11に撮影の目撃情報あり。genre は others→washoku が妥当。youtube_id なし（画像の有無を要確認）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/nanisurukattun-kaiten-sushi"
   },
   {
     "id": "kattun-68bc5766-",
@@ -46204,7 +46546,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/14/54/P046791454/P046791454_238.jpg",
     "visit_kind": "own_tv",
     "program": "何するカトゥーン？",
-    "qa_note": "中丸雄一を members から外す。visited_date 空→2024-11-24。"
+    "qa_note": "中丸雄一を members から外す。visited_date 空→2024-11-24。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/nanisurukattun-kaiten-sushi"
   },
   {
     "id": "kattun-e483a667-",
@@ -46236,7 +46580,7 @@
     "nearest_station": "明治神宮前〈原宿〉駅 徒歩1分",
     "description": "フジテレビ『何するカトゥーン？』の回転寿司をはしごする回（2024年11月24日放送）で、亀梨和也と上田竜也が3軒目に訪れた回転寿司店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13296103/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130602/13264172/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -46244,7 +46588,10 @@
     "ordered_items": [],
     "visit_kind": "own_tv",
     "program": "何するカトゥーン？",
-    "qa_note": "店の公式Xが放送告知。個室席。中丸を外す。visited_date 空→2024-11-24。KEY TO LIT の岩﨑大昇誕生日回（2026-08-23）でもこの店に行っている→ keytolit に attach 候補。"
+    "qa_note": "店の公式Xが放送告知。個室席。中丸を外す。visited_date 空→2024-11-24。KEY TO LIT の岩﨑大昇誕生日回（2026-08-23）でもこの店に行っている→ keytolit に attach 候補。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/nanisurukattun-kaiten-sushi",
+    "seating_note": "個室"
   },
   {
     "id": "numberi-39dfe377-",
@@ -46352,7 +46699,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gFmzLhh0dHH9Ga95HIGJTvexh7y.jpg",
     "visit_kind": "own_tv",
     "program": "あっちこっちAぇ!",
-    "qa_note": "kosodate-and.net は放送前の予想のままだが、fananablog.com/agroup-acchikocchi-seichi-aomori（放送後のまとめ）の青森県の旅②に「マルミ・サンライズ食堂」がある。番組公式Xに「小島健はラーメンで饒舌に」。4人全員が食べたかは未確認。草間・福本は出ていない。"
+    "qa_note": "kosodate-and.net は放送前の予想のままだが、fananablog.com/agroup-acchikocchi-seichi-aomori（放送後のまとめ）の青森県の旅②に「マルミ・サンライズ食堂」がある。番組公式Xに「小島健はラーメンで饒舌に」。4人全員が食べたかは未確認。草間・福本は出ていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-apple-ramen-aomori"
   },
   {
     "id": "agroup-9098e43b-",
@@ -46386,13 +46735,18 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "小籠包",
+      "春巻き"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=WXBhPBd6YBI",
     "source_video_channel": "Aぇ! group",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "visited_date は配信日 2024-11-26。出典 kosodate-and.net（メンバーごとに食べた料理あり）・fananablog。"
+    "qa_note": "visited_date は配信日 2024-11-26。出典 kosodate-and.net（メンバーごとに食べた料理あり）・fananablog。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-chinese-dameyo"
   },
   {
     "id": "agroup-kan-",
@@ -46425,7 +46779,18 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ちくわぶ",
+      "大根",
+      "玉ねぎのさつま揚げ",
+      "ごぼう巻き",
+      "ちくわ",
+      "はんぺん",
+      "とん平焼き",
+      "豆腐飯",
+      "若鶏のチキン南蛮(自家製柴漬けタルタルソース)",
+      "水餃子"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=AOgkkG9Z4Gg",
     "source_video_channel": "Aぇ! group",
     "visit_kind": "youtube",
@@ -46433,7 +46798,9 @@
     "with": [
       "西村拓哉（Lil かんさい）"
     ],
-    "qa_note": "出典 kosodate-and.net（回ごとに食べた料理あり）。草間リチャード敬太は出ていない（動画の概要欄は4人）。"
+    "qa_note": "出典 kosodate-and.net（回ごとに食べた料理あり）。草間リチャード敬太は出ていない（動画の概要欄は4人）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-nishitaku-oden"
   },
   {
     "id": "agroup-dbc26720-20240331",
@@ -46466,11 +46833,17 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ラムしゃぶ・カニしゃぶ付きの超高級コース",
+      "アスパラのバター焼き",
+      "じゃがいもバター"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=7ly1Q2KTrp0",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "visited_date は配信日 2024-09-24（idの20240331は無関係）。ジャンルはしゃぶしゃぶ（焼肉ではない）。"
+    "qa_note": "visited_date は配信日 2024-09-24（idの20240331は無関係）。ジャンルはしゃぶしゃぶ（焼肉ではない）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-sapporo-uchiage"
   },
   {
     "id": "agroup-f9963b8f-",
@@ -46508,7 +46881,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=DzXZdaPt-fc",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "配信日 2026-04-14。ジャンルはしゃぶしゃぶ（焼肉ではない）。"
+    "qa_note": "配信日 2026-04-14。ジャンルはしゃぶしゃぶ（焼肉ではない）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-shabushabu"
   },
   {
     "id": "agroup-94c8ca88-",
@@ -46542,12 +46917,25 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "コンソメスープ・牛骨の煮凝り(お通し)",
+      "牛のたたき",
+      "ウニ牛",
+      "牛牛ユッケ",
+      "サラダ",
+      "キムチの盛り合わせ",
+      "韓国海苔",
+      "浦島太郎の玉手箱(ヒレ肉)",
+      "エンペラーブリアン",
+      "ナムルの盛り合わせ"
+    ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/39/P046294339/P046294339_238.jpg",
     "source_video_url": "https://www.youtube.com/watch?v=LESjaFCpnQU",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "配信日 2025-05-13。fananablog の一覧では 2026/06/02 配信回にも同じ店が出ている（別の回でも訪問）。ジャンルは焼肉。"
+    "qa_note": "配信日 2025-05-13。fananablog の一覧では 2026/06/02 配信回にも同じ店が出ている（別の回でも訪問）。ジャンルは焼肉。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-yakiniku-1st-anniversary"
   },
   {
     "id": "agroup-tokyo-",
@@ -46586,7 +46974,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=tqdNGNUmf2A",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "配信日 2024-12-10。"
+    "qa_note": "配信日 2024-12-10。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-yakiniku-shinjyuku"
   },
   {
     "id": "agroup-fb86a768-",
@@ -46625,7 +47015,10 @@
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
     "qa_note": "配信日 2025-04-01。店の公式Xが撮影に使われた席を案内。",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/03/35/P050980335/P050980335_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/03/35/P050980335/P050980335_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/agroup-yokohama-chinese",
+    "seating_note": "撮影で使った席（混雑時以外は写真撮影用に開放）"
   },
   {
     "id": "agroup-9a0d678e-",
@@ -46665,7 +47058,9 @@
     "with": [
       "小瀧望（WEST.）"
     ],
-    "qa_note": "配信日 2026-03-03。草間リチャード敬太は出ていない。"
+    "qa_note": "配信日 2026-03-03。草間リチャード敬太は出ていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/aqroup-kotaki-sushi"
   },
   {
     "id": "agroup-69aa242e-20230302",
@@ -46699,7 +47094,9 @@
     "with": [
       "木村拓哉"
     ],
-    "qa_note": "迷うためkeep。出典はInstagramの投稿だけで、店の特定の根拠（タグ付けなど）は kosodate-and.net に書かれていない。食べた物も「ではないでしょうか」と推測。プロジェクトの「インスタの写真だけの店は載せない」に当たる可能性あり。visited_date 2023-03-02 は誤り（投稿は2025-09-13）。"
+    "qa_note": "迷うためkeep。出典はInstagramの投稿だけで、店の特定の根拠（タグ付けなど）は kosodate-and.net に書かれていない。食べた物も「ではないでしょうか」と推測。プロジェクトの「インスタの写真だけの店は載せない」に当たる可能性あり。visited_date 2023-03-02 は誤り（投稿は2025-09-13）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kimura-suezawa-unagi"
   },
   {
     "id": "agroup-486b5a07-",
@@ -46765,7 +47162,9 @@
     "ordered_items": [],
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "youtube_id なし。札幌編は QwNIxCjXtf0（9/3）・3vWXHYxx6YM（9/10）・hUIOLKZnT2I（9/17）の3本で、どの回かは未確認。fananablog の正門の行き先にも記載あり。"
+    "qa_note": "youtube_id なし。札幌編は QwNIxCjXtf0（9/3）・3vWXHYxx6YM（9/10）・hUIOLKZnT2I（9/17）の3本で、どの回かは未確認。fananablog の正門の行き先にも記載あり。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe"
   },
   {
     "id": "agroup-ae0fb5ac-",
@@ -46790,15 +47189,20 @@
     "nearest_station": "中島公園駅 徒歩5分",
     "description": "Aぇ! groupの公式YouTubeの「絵文字だけで出会えるかin札幌」（2024年9月）で、末澤誠也がチーズケーキとアイスコーヒーを頼んだとされる大通のカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010104/1043871/",
+    "tabelog_url": "https://tabelog.com/hokkaido/A0101/A010102/1063677/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "チーズケーキ",
+      "アイスコーヒー"
+    ],
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "迷うためkeep。kosodate-and.net は末澤が訪れたと書くが、fananablog の末澤の行き先（北海道大学・大通公園）にはこの店がない。youtube_id なし（札幌編3本のどれかは未確認）。"
+    "qa_note": "迷うためkeep。kosodate-and.net は末澤が訪れたと書くが、fananablog の末澤の行き先（北海道大学・大通公園）にはこの店がない。youtube_id なし（札幌編3本のどれかは未確認）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe"
   },
   {
     "id": "agroup-sweet_lady_jane-",
@@ -46828,10 +47232,15 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "味噌チーズタルト",
+      "カフェラテ"
+    ],
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "kosodate-and.net・fananablog の両方に記載。youtube_id なし（札幌編3本のどれかは未確認）。ジャンルはスイーツ。"
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。youtube_id なし（札幌編3本のどれかは未確認）。ジャンルはスイーツ。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/masa-sue-sano-sapporo-cafe"
   },
   {
     "id": "agroup-tsubakiya-",
@@ -46866,7 +47275,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
-    "qa_note": "店の公式Xが来店を告知。同じ放送の「漁港食堂」（海鮮食べ放題）はデータにない。"
+    "qa_note": "店の公式Xが来店を告知。同じ放送の「漁港食堂」（海鮮食べ放題）はデータにない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/mezamashi-sanosue-yakiimo-soft"
   },
   {
     "id": "agroup-83a4a154-",
@@ -46904,7 +47315,9 @@
       "大橋和也（なにわ男子）",
       "大西流星（なにわ男子）"
     ],
-    "qa_note": "kosodate-and.net は放送前の予想だが、放送後の十三の地元ブログ（92m010.com）が「桃ちゃん」への突撃と「桃ちゃん焼き」を伝えている。同じページの焼き鳥店（くわどり）は予想のまま。"
+    "qa_note": "kosodate-and.net は放送前の予想だが、放送後の十三の地元ブログ（92m010.com）が「桃ちゃん」への突撃と「桃ちゃん焼き」を伝えている。同じページの焼き鳥店（くわどり）は予想のまま。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/naniwa-a-kansaiisan"
   },
   {
     "id": "agroup-a17acf2d-",
@@ -46946,7 +47359,9 @@
       "藤原丈一郎（なにわ男子）",
       "大橋和也（なにわ男子）"
     ],
-    "qa_note": "迷うためkeep。kosodate-and.net の店名の根拠ははっきりせず（食べた物は「配信後更新予定」のまま）、ファンの来店ブログ・まとめで横山会の店とされている。Aぇ! groupの参加は動画 uOJVT75bZPY のタグ（#小島健 #佐野晶哉）で確認。店の場面がこの回か続き（woJ2Rviw6EU）かは未確認。youtube_id なし。"
+    "qa_note": "迷うためkeep。kosodate-and.net の店名の根拠ははっきりせず（食べた物は「配信後更新予定」のまま）、ファンの来店ブログ・まとめで横山会の店とされている。Aぇ! groupの参加は動画 uOJVT75bZPY のタグ（#小島健 #佐野晶哉）で確認。店の場面がこの回か続き（woJ2Rviw6EU）かは未確認。youtube_id なし。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/naniwa-yokoyama-okonomiyaki"
   },
   {
     "id": "agroup-ryu_ryu_primo-",
@@ -46981,7 +47396,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/56/02/P046485602/P046485602_238.jpg",
     "visit_kind": "guest_tv",
     "program": "なるみ・岡村の過ぎるTV",
-    "qa_note": "迷うためkeep。番組でロケをしたのか、常連の店として名前が出ただけかは出典で分からない（記事では「常連の店」と書くのがよい）。"
+    "qa_note": "迷うためkeep。番組でロケをしたのか、常連の店として名前が出ただけかは出典で分からない（記事では「常連の店」と書くのがよい）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sano-nishinomiya-pasta"
   },
   {
     "id": "agroup-flair_co-",
@@ -47011,11 +47428,15 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "昆布のおにぎり"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "kosodate-and.net・fananablog の両方に記載。"
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sano-yokohama-onigiri-cafe"
   },
   {
     "id": "agroup-4ef74a5d-",
@@ -47045,11 +47466,15 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "プレミアムクリームたい焼き(バニラビーンズ入り)"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=QsNHvXoTnyE",
     "visit_kind": "youtube",
     "program": "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）",
-    "qa_note": "kosodate-and.net・fananablog の両方に記載。ジャンルはスイーツ。"
+    "qa_note": "kosodate-and.net・fananablog の両方に記載。ジャンルはスイーツ。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/sue-yokohama-taiyaki"
   },
   {
     "id": "agroup-2f8015aa-",
@@ -47080,11 +47505,15 @@
     "source_type": "",
     "tmdb_id": 113814,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "谷中メンチ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg",
     "visit_kind": "guest_tv",
     "program": "所さんお届けモノです！",
-    "qa_note": "店の公式Xがロケを告知。精肉店だが店頭で揚げ物を食べたのでkeep。同じ回の南イタリア料理専門店 ネネコロ（2人がパスタを注文）はデータにない。"
+    "qa_note": "店の公式Xがロケを告知。精肉店だが店頭で揚げ物を食べたのでkeep。同じ回の南イタリア料理専門店 ネネコロ（2人がパスタを注文）はデータにない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokoro-otodoke-seiken-pasta"
   },
   {
     "id": "agroup-buzzed_lamb_brewing-",
@@ -47119,7 +47548,9 @@
     "visit_kind": "guest_tv",
     "program": "所さんお届けモノです！",
     "qa_note": "出典 kosodate-and.net（番組公式Xの予告に「クラフトビール専門店」）。飲んだ物は出典にない。",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/40/P046608940/P046608940_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/89/40/P046608940/P046608940_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokoro-otodoke-seiken-pasta"
   },
   {
     "id": "agroup-1b551fbc-",
@@ -47162,7 +47593,9 @@
       "藤原丈一郎（なにわ男子）",
       "大橋和也（なにわ男子）"
     ],
-    "qa_note": "迷うためkeep。動画（6IQZ56NYXYc）のタグに #Aぇgroup があり、横山会のAぇ! groupは小島健・佐野晶哉（横山万博の出演者発表）。この回に2人が出たことは映像で未確認。youtube_id なし。"
+    "qa_note": "迷うためkeep。動画（6IQZ56NYXYc）のタグに #Aぇgroup があり、横山会のAぇ! groupは小島健・佐野晶哉（横山万博の出演者発表）。この回に2人が出たことは映像で未確認。youtube_id なし。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/yokoyamakai-shochikuza-osaka"
   },
   {
     "id": "kingprince-4e9e2544-",
@@ -47198,7 +47631,9 @@
     "program": "厨房のありす",
     "with": [
       "大友花恋"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/alice-ren-birthday-restaurant"
   },
   {
     "id": "kingprince-e615ef2c-",
@@ -47235,7 +47670,9 @@
     "with": [
       "前原瑞樹"
     ],
-    "qa_note": "出典ブログは店名を挙げているが、特定の根拠は書かれていない。"
+    "qa_note": "出典ブログは店名を挙げているが、特定の根拠は書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/alice-ren-izakaya"
   },
   {
     "id": "kingprince-diego_by_the_river-",
@@ -47273,7 +47710,9 @@
       "SOTA（BE:FIRST）",
       "KAITA",
       "Miyu"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anokoro-kaito-cafe"
   },
   {
     "id": "kingprince-6eb74219-",
@@ -47311,7 +47750,9 @@
       "SOTA（BE:FIRST）",
       "KAITA"
     ],
-    "qa_note": "SOTAの思い出の味として紹介された店。"
+    "qa_note": "SOTAの思い出の味として紹介された店。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
   },
   {
     "id": "kingprince-11d8f601-",
@@ -47336,7 +47777,6 @@
     "nearest_station": "",
     "description": "髙橋海人が出演した『あの頃からわたしたちは』（日本テレビ、2024年6月23日放送）で、SOTA・KAITAと江の島で海鮮の網焼きを食べた店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1404/A140403/14000795/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 257755,
@@ -47378,14 +47818,22 @@
     "source_type": "",
     "tmdb_id": 257755,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ネギ味噌チャーシュー",
+      "ハンバーグ",
+      "焼肉",
+      "チャーハン",
+      "餃子"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg",
     "visit_kind": "guest_tv",
     "program": "あの頃からわたしたちは",
     "with": [
       "SOTA（BE:FIRST）",
       "KAITA"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anokoro-kaito-enoshima-shirasu"
   },
   {
     "id": "kingprince-76d19a8c-20240306",
@@ -47419,7 +47867,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fttAIQHXwnT5u8ZwwgJpDJnMm0M.jpg",
     "visit_kind": "guest_tv",
     "program": "アナザースカイ",
-    "qa_note": "shops.jsonのvisited_date（2024-03-06）は別番組の日付で、放送は2026-03-21。"
+    "qa_note": "shops.jsonのvisited_date（2024-03-06）は別番組の日付で、放送は2026-03-21。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anothersky-ren-osaka-ramen"
   },
   {
     "id": "kingprince-419e4ff8-20240306",
@@ -47453,7 +47903,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fttAIQHXwnT5u8ZwwgJpDJnMm0M.jpg",
     "visit_kind": "guest_tv",
     "program": "アナザースカイ",
-    "qa_note": "出典は番組で訪れた場所として紹介。店内で食べたかは出典に書かれていない。"
+    "qa_note": "出典は番組で訪れた場所として紹介。店内で食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anothersky-ren-osaka-ramen"
   },
   {
     "id": "kingprince-papas_cafe-",
@@ -47486,7 +47938,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kaito-obento-cafe"
   },
   {
     "id": "kingprince-bacf4c89-",
@@ -47522,7 +47976,9 @@
     "program": "だが、情熱はある",
     "with": [
       "戸塚純貴"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kaito-okonomiyaki"
   },
   {
     "id": "kingprince-8669f236-",
@@ -47555,7 +48011,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "visit_kind": "drama",
-    "program": "だが、情熱はある"
+    "program": "だが、情熱はある",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kaito-pasta-cafe"
   },
   {
     "id": "kingprince-9c6ed0bc-",
@@ -47585,14 +48043,18 @@
     "source_type": "",
     "tmdb_id": 222372,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ウニとイクラ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/64/19/P040736419/P040736419_238.jpg",
     "visit_kind": "drama",
     "program": "だが、情熱はある",
     "with": [
       "戸塚純貴"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/daga-jyounetsu-kaito-sushi"
   },
   {
     "id": "kingprince-d9c32409-",
@@ -47622,10 +48084,14 @@
     "source_type": "",
     "tmdb_id": 111383,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "カツカレーランチ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg",
     "visit_kind": "guest_tv",
-    "program": "行列のできる相談所"
+    "program": "行列のできる相談所",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gyoretsu-ren-curry"
   },
   {
     "id": "kingprince-1953138f-",
@@ -47655,14 +48121,18 @@
     "source_type": "",
     "tmdb_id": 113795,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "串ダンゴ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/z4xtxeP1dXlDTkDEOGfAamchYMi.jpg",
     "visit_kind": "guest_tv",
     "program": "帰れマンデー見っけ隊!!",
     "with": [
       "松田元太（Travis Japan）",
       "タカアンドトシ"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kaeremonday-ren-gen-dango"
   },
   {
     "id": "kingprince-5056bbfd-",
@@ -47699,7 +48169,9 @@
     "with": [
       "松田元太（Travis Japan）",
       "タカアンドトシ"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kaeremonday-ren-gen-mon"
   },
   {
     "id": "kingprince-78afc2ee-",
@@ -47771,7 +48243,9 @@
     "program": "KinKi Kidsのブンブブーン",
     "with": [
       "KinKi Kids"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinki-kids-ren-okinawa"
   },
   {
     "id": "kingprince-f1628c30-",
@@ -47805,11 +48279,19 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "カツカレー",
+      "カツライス&味噌汁",
+      "ハヤシライス",
+      "ポテトサラダ"
+    ],
     "visit_kind": "other",
     "program": "ベストアルバム『Mr.5』Dear Tiara盤 特典映像「熱海小旅行」",
     "qa_note": "店の公式投稿で5人の注文が示されている。",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/72/P013620272/P013620272_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/02/72/P013620272/P013620272_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinpri-atami-curry",
+    "seating_note": "2F席（貸し切り撮影）"
   },
   {
     "id": "kingprince-4ea5801b-",
@@ -47853,7 +48335,9 @@
       "満島ひかり"
     ],
     "studio_only": true,
-    "qa_note": "収録は2023年4月26日（目撃情報）。正式な店名は「ガストロノミー ジョエル・ロブション」（出典ブログ）。"
+    "qa_note": "収録は2023年4月26日（目撃情報）。正式な店名は「ガストロノミー ジョエル・ロブション」（出典ブログ）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinpru-joelrobuchon"
   },
   {
     "id": "kingprince-1da29986-",
@@ -47961,7 +48445,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
     "visit_kind": "own_tv",
     "program": "King & Princeる。元旦SP",
-    "qa_note": "岸優太が自ら店に電話して撮影の許可を取ったと紹介。shops.jsonのvisited_date（2022-08-07）は誤りで、放送は2023-01-01。"
+    "qa_note": "岸優太が自ら店に電話して撮影の許可を取ったと紹介。shops.jsonのvisited_date（2022-08-07）は誤りで、放送は2023-01-01。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinpru-wyuta-nagoya-udon"
   },
   {
     "id": "kingprince-ce21bf21-",
@@ -48036,7 +48522,9 @@
       "山崎弘也"
     ],
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけで店には行っていない。"
+    "qa_note": "スタジオで料理が出ただけで店には行っていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-atarimae-kaomangai"
   },
   {
     "id": "kingprince-d7ab04df-",
@@ -48076,7 +48564,9 @@
       "山崎弘也"
     ],
     "studio_only": true,
-    "qa_note": "店名が「キントレ」になっている。正しくは「Pizzeria e trattoria da ISA（ピッツエリア エ トラットリア ダ イーサ）」。スタジオで料理が出ただけ。正解者は出典に書かれていない。"
+    "qa_note": "店名が「キントレ」になっている。正しくは「Pizzeria e trattoria da ISA（ピッツエリア エ トラットリア ダ イーサ）」。スタジオで料理が出ただけ。正解者は出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-atarimae-margherita"
   },
   {
     "id": "kingprince-eataly-",
@@ -48149,7 +48639,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（バイトレ）",
-    "qa_note": "髙橋海人は高校時代によく通っていたと話した。"
+    "qa_note": "髙橋海人は高校時代によく通っていたと話した。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-baitore-kaito-udon"
   },
   {
     "id": "kingprince-837c5b45-",
@@ -48179,14 +48671,19 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "すっぽんの血",
+      "ふぐのから揚げ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（東京23区ピンキリ調査）",
     "with": [
       "劇団ひとり",
       "ヒコロヒー"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-fugu"
   },
   {
     "id": "kingprince-a5f71e02-",
@@ -48223,7 +48720,9 @@
     "with": [
       "山崎弘也",
       "ファーストサマーウイカ"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-fugu"
   },
   {
     "id": "kingprince-20819b44-",
@@ -48256,7 +48755,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（バイトレ）"
+    "program": "キントレ（バイトレ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-domino"
   },
   {
     "id": "kingprince-574d99fb-",
@@ -48286,7 +48787,9 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "とろまん"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）"
@@ -48323,7 +48826,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）",
-    "qa_note": "店で飲食したかは出典に書かれていない。"
+    "qa_note": "店で飲食したかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-kanagawa"
   },
   {
     "id": "kingprince-paradi-20230801",
@@ -48394,7 +48899,8 @@
     "with": [
       "高橋恭平（なにわ男子）"
     ],
-    "qa_note": "味は出典の推測なので書かない。"
+    "qa_note": "味は出典の推測なので書かない。",
+    "seating_note": "店の前の赤いベンチ"
   },
   {
     "id": "kingprince-25bfcbb3-",
@@ -48431,7 +48937,9 @@
     "with": [
       "山崎弘也"
     ],
-    "qa_note": "山崎弘也が同行したかは出典の告知文からは断定できない。"
+    "qa_note": "山崎弘也が同行したかは出典の告知文からは断定できない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-narita-matcha"
   },
   {
     "id": "kingprince-4ad4ffcc-",
@@ -48461,13 +48969,19 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "レバカツ串",
+      "レバーの唐揚げ",
+      "白レバー鉄板焼き"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（キントレガイドブック）",
     "with": [
       "那須雄登（ACEes）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-nasu-liverland"
   },
   {
     "id": "kingprince-f5d9ad03-",
@@ -48492,7 +49006,6 @@
     "nearest_station": "",
     "description": "King & Princeの冠番組『キントレ』（日本テレビ、2024年2月10日放送）の「炊飯器の旅」沼津編で、髙橋海人が訪れた沼津港の食堂（娘さんが髙橋海人のファンという店主の店）。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220501/22000992/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -48569,7 +49082,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（バイトレ）",
-    "qa_note": "出典は予告映像で店の前にいたことと「訪れています」とだけ書く。店内のロケか未確認。"
+    "qa_note": "出典は予告映像で店の前にいたことと「訪れています」とだけ書く。店内のロケか未確認。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-starbucks"
   },
   {
     "id": "kingprince-starbucks_reserve_r-",
@@ -48603,7 +49118,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（バイトレ）",
-    "qa_note": "出典は「訪れています」とだけ書き、何をしたかは不明。"
+    "qa_note": "出典は「訪れています」とだけ書き、何をしたかは不明。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-starbucks"
   },
   {
     "id": "kingprince-92e5e468-",
@@ -48636,7 +49153,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（バイトレ）"
+    "program": "キントレ（バイトレ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-starbucks"
   },
   {
     "id": "kingprince-603381f1-",
@@ -48672,7 +49191,9 @@
     "program": "キントレ（炊飯器の旅）",
     "with": [
       "須賀健太"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-kaito-sugaken-pan"
   },
   {
     "id": "kingprince-71514552-",
@@ -48911,7 +49432,9 @@
     "with": [
       "劇団ひとり",
       "ヒコロヒー"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-menu-kome-steak"
   },
   {
     "id": "kingprince-349a23bd-",
@@ -49015,13 +49538,17 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ビーとろ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（ピンキリ調査隊in静岡）",
     "with": [
       "劇団ひとり"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-pinkiri-ren-unagi"
   },
   {
     "id": "kingprince-ginza_abc-",
@@ -49057,7 +49584,9 @@
     "program": "キントレ（まかないハンター）",
     "with": [
       "なすなかにし"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-makanai-ramen"
   },
   {
     "id": "kingprince-el_chateo-",
@@ -49090,7 +49619,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（まかないハンター）"
+    "program": "キントレ（まかないハンター）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-makanai-ramen"
   },
   {
     "id": "kingprince-aa01a4f8-",
@@ -49114,15 +49645,19 @@
     "group": "kingprince",
     "description": "King & Princeの冠番組『キントレ』（日本テレビ、2023年12月9日放送）の「まかないハンター」で、永瀬廉が訪れ「オムライス天津飯」を食べた白金の中華料理店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13002268/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131602/13168401/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "オムライス天津飯"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（まかないハンター）"
+    "program": "キントレ（まかないハンター）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-makanai-ramen"
   },
   {
     "id": "kingprince-cdf24a3b-",
@@ -49152,14 +49687,18 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "背脂納豆つけ麺"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（キントレガイドブック）",
     "with": [
       "福士蒼汰",
       "福原遥"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-nerima-ramen"
   },
   {
     "id": "kingprince-352bfb01-",
@@ -49300,7 +49839,9 @@
     "program": "キントレ（キントレガイドブック）",
     "with": [
       "松倉海斗（Travis Japan）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-renkai-kaito-funabashi"
   },
   {
     "id": "kingprince-963-",
@@ -49339,7 +49880,9 @@
       "松倉海斗（Travis Japan）"
     ],
     "qa_note": "3人のうち誰が店に行き何を食べたかは出典に書かれていない。",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/70/P023497770/P023497770_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/77/70/P023497770/P023497770_238.jpg",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-renkai-kaito-funabashi"
   },
   {
     "id": "kingprince-cb8b1705-",
@@ -49372,7 +49915,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（炊飯器の旅）"
+    "program": "キントレ（炊飯器の旅）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-kaito-chichibu"
   },
   {
     "id": "kingprince-e0956958-",
@@ -49406,7 +49951,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）",
-    "qa_note": "店で食べたかは出典に書かれていない。"
+    "qa_note": "店で食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-kaito-chichibu"
   },
   {
     "id": "kingprince-a8b94a8a-",
@@ -49431,7 +49978,7 @@
     "nearest_station": "",
     "description": "King & Princeの冠番組『キントレ』（日本テレビ、2023年9月30日放送）の「炊飯器の旅」秩父編で、髙橋海人がアポなしで訪れたパン店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/saitama/A1107/A110701/11046144/",
+    "tabelog_url": "https://tabelog.com/saitama/A1107/A110701/11036214/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -49440,7 +49987,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）",
-    "qa_note": "鹿肉のミンチを譲ってもらったロケで、店のパンを食べたかは出典に書かれていない。"
+    "qa_note": "鹿肉のミンチを譲ってもらったロケで、店のパンを食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-kaito-chichibu"
   },
   {
     "id": "kingprince-aeafee63-",
@@ -49470,7 +50019,9 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "揚げゆばまんじゅう"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）"
@@ -49507,7 +50058,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）",
-    "qa_note": "店で食べたかは出典に書かれていない。"
+    "qa_note": "店で食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-kaito-nikko"
   },
   {
     "id": "kingprince-65fc5a18-",
@@ -49537,10 +50090,14 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "究極のソーセージフランス"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（炊飯器の旅）"
+    "program": "キントレ（炊飯器の旅）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-kaito-panya"
   },
   {
     "id": "kingprince-e7dd7ece-",
@@ -49574,7 +50131,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（炊飯器の旅）",
-    "qa_note": "食材を譲ってもらったロケで、店で食べたかは出典に書かれていない。"
+    "qa_note": "食材を譲ってもらったロケで、店で食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-katsuura-kaito"
   },
   {
     "id": "kingprince-spaice_coffee_house-",
@@ -49607,7 +50166,9 @@
     "ordered_items": [],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
-    "program": "キントレ（炊飯器の旅）"
+    "program": "キントレ（炊飯器の旅）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-suihanki-katsuura-kaito"
   },
   {
     "id": "kingprince-totoco-",
@@ -49638,7 +50199,9 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "キャビアソフト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（道の駅3品クッキング）",
@@ -49675,7 +50238,10 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ポテトコロッケ",
+      "粗挽き甘酢肉団子(6個)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "own_tv",
     "program": "キントレ（痩せの大食い三銃士！）",
@@ -49719,7 +50285,9 @@
     "with": [
       "戸塚純貴",
       "バッテリィズ エース"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-yase-oogui-ren"
   },
   {
     "id": "kingprince-92626c7f-",
@@ -49743,7 +50311,7 @@
     "group": "kingprince",
     "description": "King & Princeの冠番組『キントレ』（日本テレビ、2025年11月8日放送）の「痩せの大食い三銃士！」で、永瀬廉が戸塚純貴・バッテリィズ エースと立ち寄った戸越銀座のかまぼこ店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131712/13174357/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131712/13099656/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -49756,7 +50324,9 @@
       "戸塚純貴",
       "バッテリィズ エース"
     ],
-    "qa_note": "出典ではおでんコロッケを食べたのは戸塚純貴だけ。"
+    "qa_note": "出典ではおでんコロッケを食べたのは戸塚純貴だけ。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-yase-oogui-ren"
   },
   {
     "id": "kingprince-8b19d7db-",
@@ -49781,7 +50351,7 @@
     "nearest_station": "",
     "description": "King & Princeの冠番組『キントレ』（日本テレビ、2025年11月8日放送）の「痩せの大食い三銃士！」で、永瀬廉が戸塚純貴・バッテリィズ エースと戸越銀座で大きいサイズのおにぎりを食べたおにぎり専門店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131712/13099656/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131712/13246698/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -49793,7 +50363,9 @@
     "with": [
       "戸塚純貴",
       "バッテリィズ エース"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-yase-oogui-ren"
   },
   {
     "id": "kingprince-fd7d4301-",
@@ -49830,7 +50402,9 @@
     "with": [
       "戸塚純貴",
       "バッテリィズ エース"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-yase-oogui-ren"
   },
   {
     "id": "kingprince-7a6fcc4c-",
@@ -49866,7 +50440,10 @@
     "program": "モニタリング",
     "with": [
       "ダイアン津田"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/monitoring-ren-hamburg",
+    "seating_note": "奥から3つ目のテーブルのソファ側"
   },
   {
     "id": "kingprince-trattoria_issei-",
@@ -49904,7 +50481,9 @@
     "with": [
       "ダイアン津田"
     ],
-    "qa_note": "「永瀬廉の行きつけ」は番組上の設定。永瀬廉がこの店の場面に出たかは出典で確かめにくい。"
+    "qa_note": "「永瀬廉の行きつけ」は番組上の設定。永瀬廉がこの店の場面に出たかは出典で確かめにくい。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/monitoring-ren-hamburg"
   },
   {
     "id": "kingprince-9f60d755-",
@@ -49934,7 +50513,10 @@
     "source_type": "",
     "tmdb_id": 107105,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ドリンクバー",
+      "ニューヨークチーズケーキ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/68V209IpGr3ulBHWFrdiz3GWZ7o.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/04/86/P037870486/P037870486_238.jpg",
     "visit_kind": "guest_tv",
@@ -49942,7 +50524,9 @@
     "with": [
       "北村匠海"
     ],
-    "qa_note": "11月23日放送の後半では2人が変装して店員に。"
+    "qa_note": "11月23日放送の後半では2人が変装して店員に。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/monitoring-ren-takumi-restaurant"
   },
   {
     "id": "kingprince-6e95a860-",
@@ -50043,7 +50627,9 @@
     "ordered_items": [],
     "visit_kind": "guest_tv",
     "program": "プレミセ！",
-    "qa_note": "出典は見出しだけで、訪問の根拠を書いていない。"
+    "qa_note": "出典は見出しだけで、訪問の根拠を書いていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/puremise-renkai-shiga"
   },
   {
     "id": "kingprince-9752399b-",
@@ -50069,7 +50655,7 @@
     "nearest_station": "大津駅 徒歩3分",
     "description": "永瀬廉・髙橋海人が出演したNHK BS『プレミセ！』（2023年11月24日放送）の滋賀ロケで、湖魚を焼く場面が撮られた堅田の料理旅館。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/shiga/A2501/A250101/25000290/",
+    "tabelog_url": "https://tabelog.com/shiga/A2501/A250101/25003776/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -50077,7 +50663,9 @@
     "ordered_items": [],
     "visit_kind": "guest_tv",
     "program": "プレミセ！",
-    "qa_note": "番組公式サイトの写真で特定と出典。"
+    "qa_note": "番組公式サイトの写真で特定と出典。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/puremise-renkai-shiga"
   },
   {
     "id": "kingprince-4484df0c-",
@@ -50103,7 +50691,7 @@
     "nearest_station": "",
     "description": "永瀬廉・髙橋海人が出演したNHK BS『プレミセ！』（2023年11月24日放送）の滋賀ロケで、茶室の場面が撮られた和菓子の里。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/shiga/A2501/A250101/25003776/",
+    "tabelog_url": "https://tabelog.com/shiga/A2501/A250101/25000964/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -50111,7 +50699,9 @@
     "ordered_items": [],
     "visit_kind": "guest_tv",
     "program": "プレミセ！",
-    "qa_note": "和菓子の里の茶室。飲食店として載せるか人が判断。"
+    "qa_note": "和菓子の里の茶室。飲食店として載せるか人が判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/puremise-renkai-shiga"
   },
   {
     "id": "kingprince-bricolage_bread_co-",
@@ -50144,7 +50734,9 @@
     "ordered_items": [],
     "visit_kind": "other",
     "program": "永瀬廉 Instagram",
-    "qa_note": "仕事のロケではなく本人のSNS投稿。店の特定は出典ブログによる。"
+    "qa_note": "仕事のロケではなく本人のSNS投稿。店の特定は出典ブログによる。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-croissant-cafe"
   },
   {
     "id": "kingprince-8d5d65c4-",
@@ -50176,7 +50768,10 @@
     "source_type": "",
     "tmdb_id": 113701,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "生ビール",
+      "ハイボール"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
     "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
@@ -50184,7 +50779,9 @@
       "永瀬廉（King & Prince）",
       "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-daigo-masakado-osaka"
   },
   {
     "id": "kingprince-kitchen-",
@@ -50211,12 +50808,14 @@
     "nearest_station": "",
     "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と2軒目に入った韓国料理の居酒屋。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27014207/",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27084655/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 113701,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ハイボール"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
     "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
@@ -50224,7 +50823,9 @@
       "永瀬廉（King & Prince）",
       "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-daigo-masakado-osaka"
   },
   {
     "id": "kingprince-0102bcf9-",
@@ -50251,12 +50852,15 @@
     "nearest_station": "新福島駅 徒歩1分",
     "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と3軒目に入った居酒屋。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27084655/",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27129373/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001282723/",
     "source_type": "",
     "tmdb_id": 113701,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ハイボール（永瀬廉）",
+      "生ビール（西畑大吾・正門良規）"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/82/62/P039178262/P039178262_238.jpg",
     "visit_kind": "guest_tv",
@@ -50266,7 +50870,9 @@
       "西畑大吾（なにわ男子）",
       "辻（ニッポンの社長）"
     ],
-    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。この店でニッポンの社長・辻と居合わせた。"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。この店でニッポンの社長・辻と居合わせた。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-daigo-masakado-osaka"
   },
   {
     "id": "kingprince-66d643bc-",
@@ -50293,12 +50899,14 @@
     "nearest_station": "新福島駅 徒歩2分",
     "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と4軒目に入ったイタリアンの酒場。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27129373/",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27140807/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 113701,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ハイボール"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
     "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
@@ -50306,7 +50914,9 @@
       "永瀬廉（King & Prince）",
       "西畑大吾（なにわ男子）"
     ],
-    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。"
+    "qa_note": "2024年8月28日放送（ロケは2024年7月26日）。出典 kosodate-and.net/ren-daigo-masakado-osaka。King & Prince・なにわ男子の見直しと同じ判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-daigo-masakado-osaka"
   },
   {
     "id": "kingprince-25d8fc80-",
@@ -50333,12 +50943,13 @@
     "nearest_station": "福島駅 徒歩1分",
     "description": "Aぇ! groupの正門良規が出演した『笑ってコラえて！』の「朝までハシゴの旅」大阪・福島編（2024年8月28日放送）で、永瀬廉・西畑大吾と5軒目に入ったカフェバー。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27140807/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 113701,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "モヒート"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg",
     "visit_kind": "guest_tv",
     "program": "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）",
@@ -50425,7 +51036,9 @@
       "西畑大吾（なにわ男子）",
       "正門良規（Aぇ! group）"
     ],
-    "qa_note": "店内の映像はなく、会計画面に店名が出たことから特定と出典。"
+    "qa_note": "店内の映像はなく、会計画面に店名が出たことから特定と出典。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/ren-daigo-masakado-osaka"
   },
   {
     "id": "kingprince-77dc352b-",
@@ -50459,7 +51072,9 @@
     "ordered_items": [],
     "visit_kind": "other",
     "program": "King & Prince『STARRING』STARRING盤収録映像「4月1日」",
-    "qa_note": "どのメンバーがこの店の場面に出たかは出典に書かれていない（membersは2人で仮置き）。"
+    "qa_note": "どのメンバーがこの店の場面に出たかは出典に書かれていない（membersは2人で仮置き）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/renkai-april1-cafe"
   },
   {
     "id": "kingprince-peppers_drive_in-",
@@ -50493,7 +51108,9 @@
     "ordered_items": [],
     "visit_kind": "other",
     "program": "King & Prince『STARRING』収録映像「Home, Stupid Home」",
-    "qa_note": "店のInstagramでもKing & Princeを紹介。どのメンバーがこの場面に出たかは出典に書かれていない（membersは2人で仮置き）。"
+    "qa_note": "店のInstagramでもKing & Princeを紹介。どのメンバーがこの場面に出たかは出典に書かれていない（membersは2人で仮置き）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/renkai-stereo-love-curry"
   },
   {
     "id": "kingprince-frames_cafe-",
@@ -50523,13 +51140,18 @@
     "source_type": "",
     "tmdb_id": 198097,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "アイスティー",
+      "フライドポテト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
     "visit_kind": "guest_tv",
     "program": "トークィーンズ",
     "with": [
       "アンミカ"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/talkqueens-ren-cafe"
   },
   {
     "id": "kingprince-6a87d740-",
@@ -50565,7 +51187,9 @@
     "program": "東京タワー",
     "with": [
       "板谷由夏"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokyotower-karuizawa-cafe"
   },
   {
     "id": "kingprince-671d5e14-",
@@ -50603,7 +51227,9 @@
     "with": [
       "松田元太（Travis Japan）",
       "永瀬莉子"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokyotower-ren-genta-yakitori"
   },
   {
     "id": "kingprince-dd03f0e4-",
@@ -50639,7 +51265,9 @@
     "program": "東京タワー",
     "with": [
       "なえなの"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokyotower-ren-ramen"
   },
   {
     "id": "kingprince-trattoria_per_bacco-",
@@ -50675,7 +51303,10 @@
     "program": "東京タワー",
     "with": [
       "板谷由夏"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/tokyotower-ren-restaurant",
+    "seating_note": "大きな窓の横の席（ドラマの場面）"
   },
   {
     "id": "kingprince-snowy_village-",
@@ -50705,7 +51336,9 @@
     "source_type": "",
     "tmdb_id": 115908,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "チョコチュロスオレオバニラ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
@@ -50745,7 +51378,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
-    "qa_note": "King & Prince在籍中の放送。"
+    "qa_note": "King & Prince在籍中の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vs-damashii-kishi-gourmet"
   },
   {
     "id": "kingprince-11c39259-",
@@ -50778,7 +51413,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
-    "qa_note": "King & Prince在籍中の放送。"
+    "qa_note": "King & Prince在籍中の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vs-damashii-kishi-gourmet"
   },
   {
     "id": "kingprince-6216ca59-",
@@ -50812,7 +51449,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
-    "qa_note": "King & Prince在籍中の放送。"
+    "qa_note": "King & Prince在籍中の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vs-damashii-kishi-gourmet"
   },
   {
     "id": "kingprince-143c3cae-",
@@ -50845,7 +51484,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
-    "qa_note": "King & Prince在籍中の放送。"
+    "qa_note": "King & Prince在籍中の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vs-damashii-kishi-gourmet"
   },
   {
     "id": "kingprince-a5e65145-",
@@ -50869,7 +51510,7 @@
     "group": "kingprince",
     "description": "岸優太が出演した『VS魂』（フジテレビ、2023年3月16日放送）の「背徳グルメ」第2弾で、岸優太が痛風鍋を食べた店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13233312/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13192780/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ001143843/",
     "source_type": "",
     "tmdb_id": 115908,
@@ -50879,7 +51520,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/95/96/P050029596/P050029596_238.jpg",
     "visit_kind": "guest_tv",
     "program": "VS魂",
-    "qa_note": "King & Prince在籍中の放送。"
+    "qa_note": "King & Prince在籍中の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vs-damashii-kishi-gourmet"
   },
   {
     "id": "kingprince-cozy_place-",
@@ -50916,7 +51559,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。"
+    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-cozyplace"
   },
   {
     "id": "kingprince-957158d8-",
@@ -50953,7 +51598,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。"
+    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-hangsome"
   },
   {
     "id": "kingprince-the_living-",
@@ -51027,7 +51674,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。"
+    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-sonoda"
   },
   {
     "id": "kingprince-7d1291c7-",
@@ -51064,7 +51713,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。"
+    "qa_note": "King & Prince在籍中（脱退は2023年5月22日）の放送。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-tsuribune"
   },
   {
     "id": "kingprince-b6053fe5-",
@@ -51105,7 +51756,9 @@
       "藤井流星",
       "浮所飛貴"
     ],
-    "qa_note": "収録は2023年4月25日（目撃情報。カフェは当日午前に臨時休業）。店で食べたかは出典に書かれていない。"
+    "qa_note": "収録は2023年4月25日（目撃情報。カフェは当日午前に臨時休業）。店で食べたかは出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-loccitane-hands"
   },
   {
     "id": "kingprince-d94dcf02-",
@@ -51141,7 +51794,9 @@
     "with": [
       "山田杏奈"
     ],
-    "qa_note": "放送局は出典に書かれていない。"
+    "qa_note": "放送局は出典に書かれていない。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/wagaya-panya"
   },
   {
     "id": "nogizaka46-clover-",
@@ -52452,7 +53107,9 @@
     "with": [
       "永瀬廉"
     ],
-    "qa_note": "visited_dateが空。放送日は2025-11-22"
+    "qa_note": "visited_dateが空。放送日は2025-11-22",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
   },
   {
     "id": "west-b359f6d6-",
@@ -52477,7 +53134,7 @@
     "nearest_station": "虎ノ門駅 徒歩5分",
     "description": "King & Princeの冠番組『キントレ』の企画「まかないハンター」（2025年11月22日放送）で、WEST.の桐山照史が永瀬廉と訪れた寿司店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130802/13288588/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13168140/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -52489,7 +53146,9 @@
     "with": [
       "永瀬廉"
     ],
-    "qa_note": "visited_dateが空。住所欄にアクセス情報が混入"
+    "qa_note": "visited_dateが空。住所欄にアクセス情報が混入",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-kiriyama-makanai"
   },
   {
     "id": "west-44a11e80-20240112",
@@ -52519,14 +53178,18 @@
     "source_type": "",
     "tmdb_id": 123590,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "プゴク"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg",
     "visit_kind": "guest_tv",
     "program": "シューイチ",
     "with": [
       "インディアンス"
     ],
-    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14"
+    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/shu1-shige-saba-kakunidon"
   },
   {
     "id": "west-9892893f-20240112",
@@ -52556,14 +53219,18 @@
     "source_type": "",
     "tmdb_id": 123590,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "梅さばめし"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/2isnUzsBDvAqJHQWfIWStkP3OpP.jpg",
     "visit_kind": "guest_tv",
     "program": "シューイチ",
     "with": [
       "インディアンス"
     ],
-    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14"
+    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/shu1-shige-saba-kakunidon"
   },
   {
     "id": "west-60c74b9e-20240112",
@@ -52588,7 +53255,7 @@
     "nearest_station": "水道橋駅 徒歩1分",
     "description": "日本テレビ『シューイチ』の「シューイチプレミアム」（2024年1月14日放送）で、WEST.の重岡大毅がインディアンスと訪れた角煮丼専門店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1310/A131003/13265562/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1321/A132104/13282702/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 123590,
@@ -52600,7 +53267,9 @@
     "with": [
       "インディアンス"
     ],
-    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14"
+    "qa_note": "visited_dateは2024-01-12だが放送は2024-01-14",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/shu1-shige-saba-kakunidon"
   },
   {
     "id": "west-okudo-",
@@ -52625,7 +53294,7 @@
     "nearest_station": "新大久保駅 徒歩2分",
     "description": "WEST.の神山智洋が公式YouTubeの「KAMI Sweets #003」（2024年8月）で、Aぇ! groupの末澤誠也と訪れた新大久保の韓国スイーツカフェ。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13237717/",
+    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130404/13293786/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": null,
@@ -52636,7 +53305,9 @@
     "program": "WEST.公式YouTube「KAMI Sweets」",
     "with": [
       "末澤誠也"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/westube-kami-sue-cafe"
   },
   {
     "id": "kismai-san_francisco_peaks-",
@@ -52666,14 +53337,19 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ベーコンチーズバーガー",
+      "エッグバーガー"
+    ],
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/69/31/P042616931/P042616931_238.jpg",
     "visit_kind": "youtube",
     "program": "かわいたちチャンネル",
     "with": [
       "河合郁人"
     ],
-    "qa_note": "他人（河合郁人）のチャンネルへのゲスト出演。visited_date は空（配信日 2024-06-18）。元データの members は7人全員だったが藤ヶ谷のみ。"
+    "qa_note": "他人（河合郁人）のチャンネルへのゲスト出演。visited_date は空（配信日 2024-06-18）。元データの members は7人全員だったが藤ヶ谷のみ。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kawai-fujigaya-hamburger"
   },
   {
     "id": "kismai-bf42a39b-",
@@ -52707,7 +53383,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i5trjbBGuaXGvSNJqnf8PNckfIV.jpg",
     "visit_kind": "own_tv",
     "program": "サンド&キスマイの気になるマン",
-    "qa_note": "食事ではなくアルバイト体験のロケ。visited_date は空（放送日 2026-04-06）。元データの members は7人全員だったが藤ヶ谷のみ。"
+    "qa_note": "食事ではなくアルバイト体験のロケ。visited_date は空（放送日 2026-04-06）。元データの members は7人全員だったが藤ヶ谷のみ。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kininaru-fujigaya-chinese"
   },
   {
     "id": "travisjapan-mercer_brunch_roppon-",
@@ -52743,7 +53421,9 @@
     "program": "あの頃からわたしたちは",
     "with": [
       "松島聡（timelesz）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/anokoro-sexysho-restaurant"
   },
   {
     "id": "travisjapan-mugen-",
@@ -52781,7 +53461,9 @@
     "with": [
       "ウエンツ瑛士",
       "満島真之介"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gutan-genta-wentz-shinnosuke"
   },
   {
     "id": "travisjapan-9e95e49e-",
@@ -52811,13 +53493,17 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "正宗生煎包"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "guest_tv",
     "program": "キントレ",
     "with": [
       "永瀬廉（King & Prince）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-chaka-oogui"
   },
   {
     "id": "travisjapan-c6b35fc4-",
@@ -52847,13 +53533,18 @@
     "source_type": "",
     "tmdb_id": 230387,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "大鶏排",
+      "カエルの一本丸揚げ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
     "visit_kind": "guest_tv",
     "program": "キントレ",
     "with": [
       "永瀬廉（King & Prince）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-chaka-oogui"
   },
   {
     "id": "travisjapan-4e89e274-",
@@ -52878,7 +53569,7 @@
     "nearest_station": "日本大通り駅 徒歩8分",
     "description": "日本テレビ『キントレ』の「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗が鳥の巣カタ焼きそばを食べた横浜中華街の中華料理店。",
     "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140104/14074121/",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14060842/",
     "hotpepper_url": "",
     "source_type": "",
     "tmdb_id": 230387,
@@ -52889,7 +53580,9 @@
     "program": "キントレ",
     "with": [
       "永瀬廉（King & Prince）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kintore-ren-chaka-oogui"
   },
   {
     "id": "travisjapan-monkey_cafe-",
@@ -52927,7 +53620,9 @@
     "with": [
       "山崎紘菜"
     ],
-    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/koisuru-shime-cafe"
   },
   {
     "id": "travisjapan-mid-",
@@ -52964,7 +53659,9 @@
     "with": [
       "山崎紘菜"
     ],
-    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/koisuru-shime-cafe-izakaya"
   },
   {
     "id": "travisjapan-e2b906f2-",
@@ -53001,7 +53698,9 @@
     "with": [
       "山崎紘菜"
     ],
-    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/koisuru-shime-cafe-izakaya"
   },
   {
     "id": "travisjapan-bf20b0e5-",
@@ -53040,7 +53739,9 @@
       "久間田琳加",
       "齊藤なぎさ"
     ],
-    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。"
+    "qa_note": "ロケ地の特定はファンブログ（kosodate-and.net）による。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/koisuru-shime-kankoku"
   },
   {
     "id": "kinkikids-d831c178-",
@@ -53116,7 +53817,9 @@
     "with": [
       "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
     ],
-    "qa_note": "百田夏菜子は休み"
+    "qa_note": "百田夏菜子は休み",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinki-kids-momokuro-tsukiji"
   },
   {
     "id": "kinkikids-33db77e2-",
@@ -53147,13 +53850,17 @@
     "source_type": "",
     "tmdb_id": 82346,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "上上豚カレー(中辛)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/gtD9Ldn2OMMhpdnq1MBSFhTTPIB.jpg",
     "visit_kind": "own_tv",
     "program": "KinKi Kidsのブンブブーン",
     "with": [
       "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinki-kids-momokuro-tsukiji"
   },
   {
     "id": "kinkikids-tokyo_3-",
@@ -53193,7 +53900,9 @@
     "program": "KinKi Kidsのブンブブーン",
     "with": [
       "ももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）"
-    ]
+    ],
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/kinki-kids-momokuro-yakiniku"
   },
   {
     "id": "kinkikids-58d88bae-",
@@ -53298,7 +54007,9 @@
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "つけカレー焼きそば"
+    ],
     "visit_kind": "own_tv",
     "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
     "qa_note": "出典はファンブログ。元データは渋谷すばるだけだったが、ブログに「すばるくんと章ちゃんが食べてた」とある。住所なし。放送日は未確認。",
@@ -53434,9 +54145,18 @@
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "うにいくら丼",
+      "しじみ汁",
+      "茶碗蒸し",
+      "ボタンエビの御造り",
+      "カニサラダ",
+      "アワビ丸焼き",
+      "ツボ鯛焼き"
+    ],
     "visit_kind": "other",
-    "qa_note": "出典はファンブログ（店がメンバーごとの注文を掲示。マル・ヤス・ヨコ・亮の名が出る）。どの番組か、ほかのメンバーがいたかは未確認。元データは横山・錦戸だけ。住所なし。"
+    "qa_note": "出典はファンブログ（店がメンバーごとの注文を掲示。マル・ヤス・ヨコ・亮の名が出る）。どの番組か、ほかのメンバーがいたかは未確認。元データは横山・錦戸だけ。住所なし。",
+    "seating_note": "3階のロケ席"
   },
   {
     "id": "kanjani-891b9070-",
@@ -53503,7 +54223,8 @@
     "ordered_items": [],
     "visit_kind": "drama",
     "program": "よつば銀行 原島浩美がモノ申す！",
-    "qa_note": "出典はファンブログ。雑誌は「ヤンマー席」（安田・丸山）とあるだけで誌名は未確認。元データの錦戸亮はこの店ではなく近くの天ぷら店（はちまき）の話なので外した。住所なし。"
+    "qa_note": "出典はファンブログ。雑誌は「ヤンマー席」（安田・丸山）とあるだけで誌名は未確認。元データの錦戸亮はこの店ではなく近くの天ぷら店（はちまき）の話なので外した。住所なし。",
+    "seating_note": "カウンター席（雑誌の取材でエイトが座った席）"
   },
   {
     "id": "heysayjump-a39d8572-",
@@ -53534,11 +54255,15 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "どデカ唐揚げ(からあげ3個)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
-    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典の店名表記は「腹八分目 渋谷道玄坂店」で、データの「原っぱ八分目」と食い違う。要確認。visited_dateが空（放送2019-07-06）"
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典の店名表記は「腹八分目 渋谷道玄坂店」で、データの「原っぱ八分目」と食い違う。要確認。visited_dateが空（放送2019-07-06）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/hijump/190707"
   },
   {
     "id": "heysayjump-ec693043-",
@@ -53569,11 +54294,15 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "骨なしもも(からあげ6個)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
-    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典は伊野尾&知念の4軒を記載（髙木&八乙女の行き先は記載なし）ので、元データの髙木・八乙女を伊野尾・知念に直した。出典の店名は「元祖中津からあげ もり山 学芸大学店」（データは「中洲唐揚もりやま」で表記ゆれ）。visited_dateが空（放送2019-07-06）"
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。出典は伊野尾&知念の4軒を記載（髙木&八乙女の行き先は記載なし）ので、元データの髙木・八乙女を伊野尾・知念に直した。出典の店名は「元祖中津からあげ もり山 学芸大学店」（データは「中洲唐揚もりやま」で表記ゆれ）。visited_dateが空（放送2019-07-06）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/hijump/190707"
   },
   {
     "id": "heysayjump-ceef2a90-",
@@ -53604,11 +54333,15 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "選り取りからあげ(からあげ10個)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
-    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。元データの髙木・八乙女を伊野尾・知念に直した（出典は伊野尾&知念の4軒目として記載）。出典の店名は「とり多津（三田）」でデータの「鶏たつ」と表記ゆれ。visited_dateが空（放送2019-07-06）"
+    "qa_note": "出典: medax.hatenablog.com/entry/hijump/190707。元データの髙木・八乙女を伊野尾・知念に直した（出典は伊野尾&知念の4軒目として記載）。出典の店名は「とり多津（三田）」でデータの「鶏たつ」と表記ゆれ。visited_dateが空（放送2019-07-06）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/hijump/190707"
   },
   {
     "id": "heysayjump-bwcafe-",
@@ -53638,7 +54371,10 @@
     "source_type": "",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ソルティトマトのフローズンつけsoba",
+      "蕎麦茶ミルクの冷やしフルーツ鍋"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
@@ -53671,7 +54407,10 @@
     "source_type": "",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "トッポギチーズプルコギブレッド",
+      "チーズハラミパンケーキ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
@@ -53705,7 +54444,10 @@
     "source_type": "",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "スイカビンス",
+      "パインビンス"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
@@ -53739,7 +54481,9 @@
     "source_type": "",
     "tmdb_id": 45931,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "レインボー タッカルビ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
@@ -53772,13 +54516,17 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "カレーパン(エビカレー)"
+    ],
     "visit_kind": "guest_tv",
     "program": "メレンゲの気持ち",
     "with": [
       "長野博"
     ],
-    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）"
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/meringue/20170729"
   },
   {
     "id": "heysayjump-5f35bf24-",
@@ -53808,13 +54556,17 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "牛肉飯"
+    ],
     "visit_kind": "guest_tv",
     "program": "メレンゲの気持ち",
     "with": [
       "長野博"
     ],
-    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）"
+    "qa_note": "出典: medax.hatenablog.com/entry/meringue/20170729。visited_dateが空（放送2017-07-29）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/meringue/20170729"
   },
   {
     "id": "heysayjump-0c6ac448-",
@@ -53843,7 +54595,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "四川特製 辛味噌の海鮮麺"
+    ],
     "visit_kind": "guest_tv",
     "program": "メレンゲの気持ち",
     "with": [
@@ -53879,7 +54633,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "とん丼"
+    ],
     "visit_kind": "guest_tv",
     "program": "メレンゲの気持ち",
     "studio_only": true,
@@ -53912,7 +54668,9 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "鬼ひも川 ざる二味"
+    ],
     "visit_kind": "guest_tv",
     "program": "メレンゲの気持ち",
     "studio_only": true,
@@ -54117,7 +54875,9 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "イノウエ(5個入り)"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
@@ -54155,7 +54915,9 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ラクレット チーズトースト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
@@ -54193,7 +54955,12 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "アブラボウズ",
+      "トロさばのみりん 特大",
+      "カマス",
+      "いかの汐辛"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
@@ -54231,7 +54998,9 @@
     "source_type": "",
     "tmdb_id": 197002,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "漁師の漬けどんぶり"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
@@ -54305,11 +55074,15 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "もやしのキッシュ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
-    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空"
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/mezamashi/20170525"
   },
   {
     "id": "heysayjump-all_about_my_croquet-",
@@ -54377,7 +55150,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
-    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空"
+    "qa_note": "出典: medax.hatenablog.com/entry/mezamashi/20170525。visited_dateが空",
+    "tabelog_verified": true,
+    "tabelog_source": "https://medax.hatenablog.com/entry/mezamashi/20170525"
   },
   {
     "id": "heysayjump-tsumugi-",
@@ -54407,7 +55182,10 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "18品の朝ごはん",
+      "べっぴんほうじ茶ゼリーソフト"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
@@ -54441,7 +55219,9 @@
     "source_type": "",
     "tmdb_id": 6563,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ブッダ ボウル"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ",
@@ -54902,10 +55682,17 @@
     "source_type": "",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "焼きはまぐり",
+      "いわしの刺身",
+      "はまぐりフライ"
+    ],
     "visit_kind": "other",
     "program": "藤ヶ谷太輔のInstagram",
-    "qa_note": "出典はファンブログ（本人のInstagram投稿から店を特定）。visited_date は空（投稿 2024-07-04）。"
+    "qa_note": "出典はファンブログ（本人のInstagram投稿から店を特定）。visited_date は空（投稿 2024-07-04）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://filminglocation-star.com/hujigaya-isaribi/",
+    "seating_note": "窓側の座敷席（奥から3番目）"
   },
   {
     "id": "kismai-ordinary_cafe-",
@@ -54973,7 +55760,9 @@
     "source_video_url": "https://www.youtube.com/watch?v=49CwXq_NElE",
     "visit_kind": "youtube",
     "program": "ジュニアCHANNEL（Travis Japan）",
-    "qa_note": "店名は動画の概要欄になく、ファンブログ（kk-kanana.hatenablog.com）による。住所が「福岡市中央区赤坂」までで番地なし。visited_date が空（動画は2019-09-12公開）。"
+    "qa_note": "店名は動画の概要欄になく、ファンブログ（kk-kanana.hatenablog.com）による。住所が「福岡市中央区赤坂」までで番地なし。visited_date が空（動画は2019-09-12公開）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kk-kanana.hatenablog.com/entry/2019/09/30/201413"
   },
   {
     "id": "travisjapan-a1fb9d76-",
@@ -55070,10 +55859,15 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ブレンドコーヒー",
+      "サービスセット(ツナサンド)",
+      "チーズケーキ"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=FrzpfIfMWKE",
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「喫茶と濵田。」"
+    "program": "WEST.公式YouTube「喫茶と濵田。」",
+    "seating_note": "入って突き当たりの壁側の席"
   },
   {
     "id": "west-5236dc0d-",
@@ -55103,7 +55897,11 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ブレンドコーヒー",
+      "プリン",
+      "たまごトースト(モーニング)"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=2yNNYj55RLQ",
     "visit_kind": "youtube",
     "program": "WEST.公式YouTube「喫茶と濵田。」"
@@ -55135,7 +55933,11 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "アイスコーヒー",
+      "ナポリタン",
+      "チョコレートケーキ"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=PWYuBi4lJXE",
     "visit_kind": "youtube",
     "program": "WEST.公式YouTube「喫茶と濵田。」"
@@ -55168,10 +55970,14 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "ブレンドコーヒー(モーニングセット)",
+      "ピザトースト"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=02nlJP5pTt8",
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「喫茶と濵田。」"
+    "program": "WEST.公式YouTube「喫茶と濵田。」",
+    "seating_note": "2階・カウンター向かいのテーブル席（3つ並んだうち一番奥）"
   },
   {
     "id": "west-6661f86b-",
@@ -55201,7 +56007,12 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "チョコミントクリームソーダ",
+      "ナポリタン",
+      "チョコレートパフェ",
+      "アイスコーヒー"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=KV5g5VjLrNU",
     "visit_kind": "youtube",
     "program": "WEST.公式YouTube「喫茶と濵田。」"
@@ -55233,10 +56044,18 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "トーストセット",
+      "ソーダ水フロート(ブルー)",
+      "ホットコーヒー",
+      "ワッフル",
+      "ナポリタン",
+      "チーズケーキ(マスターからのサービス)"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=5EeFrJCWDQ8",
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「喫茶と濵田。」"
+    "program": "WEST.公式YouTube「喫茶と濵田。」",
+    "seating_note": "テーブル席（カウンター左側・ピンクの壁紙の空間の奥から2つ目）"
   },
   {
     "id": "west-e280b3bf-",
@@ -55266,10 +56085,16 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "餡バタートースト",
+      "ウインナーコーヒー",
+      "ナポリタン",
+      "ラムネクリームソーダ"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=8c69LnGdK9Y",
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「喫茶と濵田。」"
+    "program": "WEST.公式YouTube「喫茶と濵田。」",
+    "seating_note": "2階の手前から2つ目の席"
   },
   {
     "id": "west-7161e327-",
@@ -55299,10 +56124,13 @@
     "source_type": "youtube",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "コーヒーゼリーロワイヤル"
+    ],
     "source_video_url": "https://www.youtube.com/watch?v=cpLH9s0plu8",
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「喫茶と濵田。」"
+    "program": "WEST.公式YouTube「喫茶と濵田。」",
+    "seating_note": "入って左手の本棚の裏の席"
   },
   {
     "id": "west-5b44cba1-",
@@ -55634,7 +56462,9 @@
     "source_type": "tv",
     "tmdb_id": 204158,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "チキンミヤベヤ"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
@@ -55772,7 +56602,10 @@
     "source_type": "tv",
     "tmdb_id": 204158,
     "tmdb_type": "tv",
-    "ordered_items": [],
+    "ordered_items": [
+      "ピスタチオアングレーズ",
+      "かき氷レッスンで自作したかき氷"
+    ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
@@ -55913,7 +56746,8 @@
     "ordered_items": [],
     "visit_kind": "magazine",
     "program": "雑誌（誌名不明）",
-    "qa_note": "誌名・時期が出典にない"
+    "qa_note": "誌名・時期が出典にない",
+    "seating_note": "階段下すぐの席"
   },
   {
     "id": "west-70e7c2c5-",
@@ -55981,7 +56815,9 @@
     "source_type": "blog",
     "tmdb_id": null,
     "tmdb_type": "",
-    "ordered_items": [],
+    "ordered_items": [
+      "きつねうどん"
+    ],
     "visit_kind": "other",
     "program": "人生最高レストラン（TBS、2021年8月7日放送）での本人の話",
     "qa_note": "番組のロケではなく、Jr.時代に本人が通った店",
@@ -56019,7 +56855,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "中間が食べたかは明記なし"
+    "qa_note": "中間が食べたかは明記なし",
+    "tabelog_verified": true,
+    "tabelog_source": "https://jwest.jp/ikisugi_20230425/"
   },
   {
     "id": "west-fbe63b32-",
@@ -56176,6 +57014,18 @@
       },
       {
         "name": "とろとろ豚御膳"
+      },
+      {
+        "name": "ローストビーフご膳"
+      },
+      {
+        "name": "とろとろ豚ご膳"
+      },
+      {
+        "name": "アイスコーヒー"
+      },
+      {
+        "name": "季節のスフレ"
       }
     ],
     "visit_kind": "youtube",
@@ -56371,7 +57221,9 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_231017-2/"
   },
   {
     "id": "west-5e4a1199-",
@@ -56446,7 +57298,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "genreがramenだが、そば店"
+    "qa_note": "genreがramenだが、そば店",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_231017_udon/"
   },
   {
     "id": "west-52fce0f8-",
@@ -56483,7 +57337,9 @@
     ],
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/xuFHP8YIBvC2Q4nDXfPxR3WQrcV.jpg",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12818403654.html"
   },
   {
     "id": "west-ac2d4aef",
@@ -56569,7 +57425,9 @@
     "tmdb_type": "tv",
     "city": "横浜市",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230328-2/"
   },
   {
     "id": "west-32350c87",
@@ -56596,7 +57454,9 @@
     "tmdb_type": "tv",
     "city": "横浜市",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230328-3/"
   },
   {
     "id": "west-ff680eb7",
@@ -56623,7 +57483,9 @@
     "tmdb_type": "tv",
     "city": "郡山市",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://activitv.com/entry/ikisugisan_230516_kohriyama-2/"
   },
   {
     "id": "west-4ba99784",
@@ -56653,7 +57515,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/27/96/P033752796/P033752796_238.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "activitv.comは国立店、jwest.jpは青葉台本店としており食い違う（4c26c3d3と同じ回）。source_video_titleの2023-05-30は誤りで放送は2023-06-06"
+    "qa_note": "activitv.comは国立店、jwest.jpは青葉台本店としており食い違う（4c26c3d3と同じ回）。source_video_titleの2023-05-30は誤りで放送は2023-06-06",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230530_kunitachi/"
   },
   {
     "id": "west-ca775232",
@@ -56681,7 +57545,9 @@
     "tmdb_type": "tv",
     "city": "台東区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230718-2/"
   },
   {
     "id": "west-05c46703",
@@ -56708,7 +57574,9 @@
     "tmdb_type": "tv",
     "city": "京都市",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230405_india/"
   },
   {
     "id": "west-b539b3a9",
@@ -56737,7 +57605,9 @@
     "city": "那覇市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜"
+    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230328_yanbaru/"
   },
   {
     "id": "west-b1ea604b",
@@ -56766,7 +57636,9 @@
     "city": "那覇市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜"
+    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230328_kin/"
   },
   {
     "id": "west-4ff1c3e6",
@@ -56793,7 +57665,9 @@
     "tmdb_type": "tv",
     "city": "荒川区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230307-2/"
   },
   {
     "id": "west-a8058eb0",
@@ -56822,7 +57696,9 @@
     "city": "新宿区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜"
+    "qa_note": "小瀧が訪れたか未確認（沖縄・新宿の店は常連さんの紹介の可能性）。ロケ地は横浜",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230328_katsu/"
   },
   {
     "id": "west-ef2b075c",
@@ -56850,7 +57726,9 @@
     "city": "台東区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "桐山が店で食べたかは出典に明記なし。「たんじろう」（west-db9f568c-）と同じ店の可能性"
+    "qa_note": "桐山が店で食べたかは出典に明記なし。「たんじろう」（west-db9f568c-）と同じ店の可能性",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230412_don/"
   },
   {
     "id": "west-ac7dff0e",
@@ -56878,7 +57756,9 @@
     "tmdb_type": "tv",
     "city": "渋谷区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230307_momomaru/"
   },
   {
     "id": "west-6df0312a",
@@ -56906,7 +57786,9 @@
     "tmdb_type": "tv",
     "city": "新宿区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230221-2/"
   },
   {
     "id": "west-3ba64ca9",
@@ -56934,7 +57816,9 @@
     "tmdb_type": "tv",
     "city": "渋谷区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230214-2/"
   },
   {
     "id": "west-42aa36d6",
@@ -56962,7 +57846,9 @@
     "tmdb_type": "tv",
     "city": "世田谷区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_230214_latelier-a-ma-facon/"
   },
   {
     "id": "west-c757bb83",
@@ -56991,7 +57877,9 @@
     "city": "豊橋市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "source_video_titleの2022-10-04は誤り。放送は2022年10月18〜19日（ファンブログは10月19日）"
+    "qa_note": "source_video_titleの2022-10-04は誤り。放送は2022年10月18〜19日（ファンブログは10月19日）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_221004-2/"
   },
   {
     "id": "west-b0e67ba7",
@@ -57018,7 +57906,9 @@
     "tmdb_type": "tv",
     "city": "台東区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_220920_omu/"
   },
   {
     "id": "west-4a6a6c44",
@@ -57047,7 +57937,9 @@
     "city": "中央区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "membersが空だった"
+    "qa_note": "membersが空だった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_220920_bijin/"
   },
   {
     "id": "west-45e39ebd",
@@ -57075,7 +57967,9 @@
     "tmdb_type": "tv",
     "city": "世田谷区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_220809-3/"
   },
   {
     "id": "west-0587b445",
@@ -57103,7 +57997,9 @@
     "tmdb_type": "tv",
     "city": "足立区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/ikisugisan_220809-2/"
   },
   {
     "id": "west-bdbf87be",
@@ -57186,7 +58082,10 @@
     "tmdb_type": "tv",
     "city": "千代田区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "ordered_items": [
+      "ビーフ角切りカレー(甘口)"
+    ]
   },
   {
     "id": "west-e17c7cad",
@@ -57214,7 +58113,9 @@
     "tmdb_type": "tv",
     "city": "新宿区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12772336746.html"
   },
   {
     "id": "west-e801d3b4",
@@ -57242,7 +58143,10 @@
     "tmdb_type": "tv",
     "city": "墨田区",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "ordered_items": [
+      "スペシャルマトンビリヤニ"
+    ]
   },
   {
     "id": "west-cda14ab3",
@@ -57299,7 +58203,10 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ001134893/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/58/P023340158/P023340158_238.jpg",
     "visit_kind": "own_tv",
-    "program": "DEEPな店の常連さんに密着 イキスギさんについてった"
+    "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
+    "ordered_items": [
+      "焼きそば"
+    ]
   },
   {
     "id": "west-dd8b86e7",
@@ -60272,7 +61179,8 @@
     "description": "フジテレビ『何するカトゥーン？』のUSJ編（2022年7月25日放送の#16）で、KAT-TUNの3人がUSJのあとに打ち上げをしたホテルのカフェ＆バー。",
     "visit_kind": "own_tv",
     "program": "何するカトゥーン？",
-    "qa_note": "visited_date 2022-01-01 は仮の値→放送日 2022-07-25（番組公式Xの告知）。席は撮影用にセッティングされたもの（kosodate-and）。"
+    "qa_note": "visited_date 2022-01-01 は仮の値→放送日 2022-07-25（番組公式Xの告知）。席は撮影用にセッティングされたもの（kosodate-and）。",
+    "seating_note": "撮影用に作られた席（現在は展示）"
   },
   {
     "id": "b51f102c",
@@ -60303,7 +61211,9 @@
     "nearest_station": "中崎町駅 徒歩2分",
     "visit_kind": "own_tv",
     "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
-    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。ブログの表記は「濱鮓」。"
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。ブログの表記は「濱鮓」。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://omoshiromemo.com/1432.html"
   },
   {
     "id": "3607fb24",
@@ -60331,7 +61241,9 @@
     "nearest_station": "中崎町駅 徒歩2分",
     "visit_kind": "own_tv",
     "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
-    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。"
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://omoshiromemo.com/1432.html"
   },
   {
     "id": "f3c0d1e3",
@@ -60357,12 +61269,15 @@
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27017726/",
     "description": "『関ジャニ∞のジャニ勉』の「エイトブンノニ」第1回（2015年放送）の中崎町ロケで、丸山隆平と錦戸亮がハヤシオムライスを食べた洋食店。",
     "ordered_items": [
-      "ハヤシオムライス"
+      "ハヤシオムライス",
+      "アイスコーヒー"
     ],
     "nearest_station": "中崎町駅 徒歩1分",
     "visit_kind": "own_tv",
     "program": "関ジャニ∞のジャニ勉（エイトブンノニ）",
-    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。"
+    "qa_note": "visited_date 2017-01-01 は誤り（放送は2015年7〜8月）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://omoshiromemo.com/1432.html"
   },
   {
     "id": "df6209b5",
@@ -60432,7 +61347,9 @@
     "with": [
       "浜田雅功"
     ],
-    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/"
   },
   {
     "id": "8c2d75d8",
@@ -60473,7 +61390,9 @@
     "with": [
       "浜田雅功"
     ],
-    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/"
   },
   {
     "id": "3171954a",
@@ -60508,7 +61427,9 @@
     "with": [
       "浜田雅功"
     ],
-    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）"
+    "qa_note": "visited_date 2023-01-01 は誤り（2026-01-03）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gobugobu-tsuyoshi-osaka/"
   },
   {
     "id": "65f7d7eb",
@@ -60545,7 +61466,9 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で、剛が自分の思い出の店として紹介（番組でのロケではない）。visited_date 2024-01-01 は誤り（2023-09-09）。出典の 8888-info.hatenablog.com は robots.txt でClaudeを拒否しているため読まず、activitv.com で確認。住所が出典（奈良県生駒市鹿畑町906）と食い違う（データは鹿ノ台南906）"
+    "qa_note": "スタジオのトーク番組で、剛が自分の思い出の店として紹介（番組でのロケではない）。visited_date 2024-01-01 は誤り（2023-09-09）。出典の 8888-info.hatenablog.com は robots.txt でClaudeを拒否しているため読まず、activitv.com で確認。住所が出典（奈良県生駒市鹿畑町906）と食い違う（データは鹿ノ台南906）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
   },
   {
     "id": "0fdb6efd",
@@ -60583,7 +61506,9 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。8888-info は robots.txt で拒否のため activitv.com で確認"
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。8888-info は robots.txt で拒否のため activitv.com で確認",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
   },
   {
     "id": "1eaca426",
@@ -60620,7 +61545,9 @@
       "島崎和歌子",
       "朝日奈央"
     ],
-    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。店名「玄」は activitv.com で確認、住所は出典で確かめていない"
+    "qa_note": "スタジオのトーク番組で剛が紹介（番組でのロケではない）。visited_date は 2023-09-09。店名「玄」は activitv.com で確認、住所は出典で確かめていない",
+    "tabelog_verified": true,
+    "tabelog_source": "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1"
   },
   {
     "id": "95fa12cb",
@@ -60676,7 +61603,10 @@
     "tmdb_type": "tv",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
-    "qa_note": "出典: vitamin-day.com/11511/。放送日は出典に記載なし（visited_date 2024-01-01は仮の値）"
+    "qa_note": "出典: vitamin-day.com/11511/。放送日は出典に記載なし（visited_date 2024-01-01は仮の値）",
+    "ordered_items": [
+      "虎家㐂(とらやき)"
+    ]
   },
   {
     "id": "dc3a86f8",
@@ -61214,7 +62144,9 @@
     ],
     "visited_date": "2024-02-24",
     "studio_only": true,
-    "qa_note": "「プロ直伝！本格お好み焼き作り」回。出典はレシピ紹介で、店でのロケかは確かめられず（studio_only 扱い）"
+    "qa_note": "「プロ直伝！本格お好み焼き作り」回。出典はレシピ紹介で、店でのロケかは確かめられず（studio_only 扱い）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_240224_okonomi/"
   },
   {
     "id": "c0531869",
@@ -61247,7 +62179,9 @@
       "柳沢慎吾"
     ],
     "visited_date": "2024-01-06",
-    "qa_note": "精肉店の惣菜の食べ歩き。genre が yakiniku だが焼肉店ではない（精肉店）"
+    "qa_note": "精肉店の惣菜の食べ歩き。genre が yakiniku だが焼肉店ではない（精肉店）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_240106_okushibu/"
   },
   {
     "id": "bf738839",
@@ -61283,7 +62217,9 @@
       "フォーリンデブはっしー"
     ],
     "visited_date": "2023-09-23",
-    "qa_note": "店でのロケかは確かめられず（出典は店名と部位の紹介だけ）"
+    "qa_note": "店でのロケかは確かめられず（出典は店名と部位の紹介だけ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230923_kakunoshin/"
   },
   {
     "id": "561405be",
@@ -61318,7 +62254,9 @@
     ],
     "visited_date": "2023-09-09",
     "studio_only": true,
-    "qa_note": "シェフが考案したオムライスを味わう回（3店）。店でのロケではないとみて studio_only"
+    "qa_note": "シェフが考案したオムライスを味わう回（3店）。店でのロケではないとみて studio_only",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230909_fukahire/"
   },
   {
     "id": "8d6bec2c",
@@ -61353,7 +62291,9 @@
     ],
     "visited_date": "2023-09-09",
     "studio_only": true,
-    "qa_note": "同上（studio_only）"
+    "qa_note": "同上（studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230909_omu-3/"
   },
   {
     "id": "fb8e470b",
@@ -61387,7 +62327,9 @@
     ],
     "visited_date": "2023-09-09",
     "studio_only": true,
-    "qa_note": "同上（studio_only）"
+    "qa_note": "同上（studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230909_omu-2/"
   },
   {
     "id": "2e7fec09",
@@ -61423,7 +62365,9 @@
       "市村正親",
       "鹿賀丈史"
     ],
-    "visited_date": "2023-08-05"
+    "visited_date": "2023-08-05",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230805_unagi/"
   },
   {
     "id": "4f3df703",
@@ -61457,7 +62401,9 @@
       "市村正親",
       "鹿賀丈史"
     ],
-    "visited_date": "2023-08-05"
+    "visited_date": "2023-08-05",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230805_ice/"
   },
   {
     "id": "42b487cd",
@@ -61492,7 +62438,9 @@
       "永瀬廉"
     ],
     "visited_date": "2023-07-15",
-    "qa_note": "店の公式Xに「当店にて収録」とある。隣の椙森神社から番組が始まった"
+    "qa_note": "店の公式Xに「当店にて収録」とある。隣の椙森神社から番組が始まった",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230715-2/"
   },
   {
     "id": "8f57e5d6",
@@ -61507,7 +62455,7 @@
     "address": "山形県天童市鎌田本町1-3-26",
     "lat": 38.25252767726579,
     "lng": 140.34057979995444,
-    "tabelog_url": "https://tabelog.com/yamagata/A0604/A060403/6000097/",
+    "tabelog_url": "https://tabelog.com/yamagata/A0605/A060501/6000063/",
     "source_video_title": "KinKi Kidsのブンブブーン グルメ振り返りSP 2023年9月30日",
     "source_url": "https://www.activitv.com/entry/bunbuboon_230930_shop-2/",
     "description": "KinKi Kidsの冠番組『KinKi Kidsのブンブブーン』で、新木優子のおすすめとして取り上げられた山形・天童の鳥中華の店。",
@@ -61525,7 +62473,9 @@
       "新木優子"
     ],
     "studio_only": true,
-    "qa_note": "出典は2023年9月30日の総集編。元の回は2020年4月11日（新木優子「全国各地の絶品醤油ラーメン大集合」、コロナ禍でスタジオからのリモート収録の時期）と思われる。店でのロケではない（studio_only）"
+    "qa_note": "出典は2023年9月30日の総集編。元の回は2020年4月11日（新木優子「全国各地の絶品醤油ラーメン大集合」、コロナ禍でスタジオからのリモート収録の時期）と思われる。店でのロケではない（studio_only）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://www.activitv.com/entry/bunbuboon_230930_shop-2/"
   },
   {
     "id": "9876d475",
@@ -61550,7 +62500,9 @@
     "nearest_station": "牧志駅 徒歩7分",
     "visit_kind": "youtube",
     "program": "すのちゅーぶ（Snow Man公式YouTube）",
-    "qa_note": "住所なし（那覇市牧志3-2-48）。youtube_idなし"
+    "qa_note": "住所なし（那覇市牧志3-2-48）。youtube_idなし",
+    "tabelog_verified": true,
+    "tabelog_source": "https://njoysolo.hatenablog.com/entry/snowman.localist1"
   },
   {
     "id": "12ef79b6",
@@ -61614,7 +62566,11 @@
     "source_video_url": "https://www.youtube.com/watch?v=HrBLzgqMCQc",
     "visit_kind": "youtube",
     "program": "ジュニアCHANNEL（Snow Man）",
-    "qa_note": "クイズに勝った人だけが食べる企画。membersは食べた人（fananablog）。ほかのメンバーが店にいたかは未確認。住所なし"
+    "qa_note": "クイズに勝った人だけが食べる企画。membersは食べた人（fananablog）。ほかのメンバーが店にいたかは未確認。住所なし",
+    "ordered_items": [
+      "豆腐かつ煮定食",
+      "ヒレかつ重"
+    ]
   },
   {
     "id": "84d28d77",
@@ -61644,7 +62600,10 @@
     "source_video_url": "https://www.youtube.com/watch?v=axGl2IP4vGs",
     "visit_kind": "youtube",
     "program": "ジュニアCHANNEL（Snow Man）",
-    "qa_note": "住所なし"
+    "qa_note": "住所なし",
+    "ordered_items": [
+      "甘口抹茶小倉スパ"
+    ]
   },
   {
     "id": "18b210b6",
@@ -61682,7 +62641,9 @@
     "studio_only": true,
     "qa_note": "出典の住所は東京都港区北青山1-2-3（データの area「原宿」は誤り）。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
     "address": "東京都港区北青山1-2-3",
-    "city": "港区"
+    "city": "港区",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "4ee1ec49",
@@ -61719,7 +62680,9 @@
       "今田耕司"
     ],
     "studio_only": true,
-    "qa_note": "出典の住所は東京都世田谷区奥沢5-27-15。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "出典の住所は東京都世田谷区奥沢5-27-15。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "ad3446f5",
@@ -61756,7 +62719,9 @@
     "studio_only": true,
     "qa_note": "データの都道府県（埼玉県・小手指）は誤り。出典の住所は東京都練馬区石神井町2-13-5。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
     "address": "東京都練馬区石神井町2-13-5",
-    "city": "練馬区"
+    "city": "練馬区",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "c5f21e44",
@@ -61792,7 +62757,9 @@
       "岸優太"
     ],
     "studio_only": true,
-    "qa_note": "出典の住所は東京都渋谷区恵比寿1-24-10。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "出典の住所は東京都渋谷区恵比寿1-24-10。 スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "cff48af9",
@@ -61827,7 +62794,9 @@
       "岡田健史"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）"
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 tokyo-cafeblog.com（歴代グルメデスマッチまとめ）",
+    "tabelog_verified": true,
+    "tabelog_source": "https://tokyo-cafeblog.com/arashinishiyagare-gourmet-matome/"
   },
   {
     "id": "e6775129",
@@ -61872,7 +62841,11 @@
     ],
     "city": "中頭郡読谷村",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "瓶ビール",
+      "琉球三元豚しゃぶしゃぶ鍋"
+    ]
   },
   {
     "id": "85b25926",
@@ -61897,7 +62870,13 @@
     "nearest_station": "後免東町駅 徒歩17分",
     "city": "南国市",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "カツオの藁焼き",
+      "ごめんケンカシャモ鍋",
+      "シマアジ",
+      "出汁玉子焼き"
+    ]
   },
   {
     "id": "b1fd2358",
@@ -61946,7 +62925,11 @@
     "nearest_station": "高崎駅 徒歩5分",
     "city": "高崎市",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "ビール",
+      "上州和牛のすき焼き"
+    ]
   },
   {
     "id": "be2e4683",
@@ -62007,7 +62990,10 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ001228522/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/53/55/P039175355/P039175355_238.jpg",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "プレミアム黄金ほうとう"
+    ]
   },
   {
     "id": "1f63e708",
@@ -62033,7 +63019,19 @@
     ],
     "city": "中央区",
     "visit_kind": "youtube",
-    "program": "すのちゅーぶ（Snow Man公式YouTube）"
+    "program": "すのちゅーぶ（Snow Man公式YouTube）",
+    "ordered_items": [
+      "ビーフシチュー ライス付",
+      "フルーツスカッシュ",
+      "果実のミルフィーユ",
+      "果実をのせたビーフストロガノフ",
+      "冷やしぜんざいと季節のフルーツ",
+      "ジェノベーゼ",
+      "フルーツティー",
+      "果実のクリームあんみつ",
+      "ナポリタン",
+      "季節のお菓子と抹茶"
+    ]
   },
   {
     "id": "2b379e5a",
@@ -62093,7 +63091,13 @@
     "youtube_id": "_B87XixQ3SY",
     "source_video_url": "https://www.youtube.com/watch?v=_B87XixQ3SY",
     "visit_kind": "youtube",
-    "program": "ジュニアCHANNEL（Snow Man）"
+    "program": "ジュニアCHANNEL（Snow Man）",
+    "ordered_items": [
+      "ロイヤルミルクティ",
+      "ほうじ茶ミルク",
+      "ホットアメリカン",
+      "オレンジジュース"
+    ]
   },
   {
     "id": "12816684",
@@ -62123,7 +63127,10 @@
     "youtube_id": "_B87XixQ3SY",
     "source_video_url": "https://www.youtube.com/watch?v=_B87XixQ3SY",
     "visit_kind": "youtube",
-    "program": "ジュニアCHANNEL（Snow Man）"
+    "program": "ジュニアCHANNEL（Snow Man）",
+    "ordered_items": [
+      "朝の超スペシャルモーニングセット"
+    ]
   },
   {
     "id": "66241ca4",
@@ -62153,7 +63160,10 @@
     "youtube_id": "axGl2IP4vGs",
     "source_video_url": "https://www.youtube.com/watch?v=axGl2IP4vGs",
     "visit_kind": "youtube",
-    "program": "ジュニアCHANNEL（Snow Man）"
+    "program": "ジュニアCHANNEL（Snow Man）",
+    "ordered_items": [
+      "でらしゃちほこ丼"
+    ]
   },
   {
     "id": "c3d99c41",
@@ -62182,7 +63192,11 @@
     "youtube_id": "87VlmCbjhC0",
     "source_video_url": "https://www.youtube.com/watch?v=87VlmCbjhC0",
     "visit_kind": "youtube",
-    "program": "ジュニアCHANNEL（Snow Man）"
+    "program": "ジュニアCHANNEL（Snow Man）",
+    "ordered_items": [
+      "みたらし団子",
+      "わらび餅"
+    ]
   },
   {
     "id": "46c9f2db",
@@ -62206,7 +63220,10 @@
     ],
     "city": "米子市",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "さばしゃぶ、銀さばしゃぶ食べ比べ"
+    ]
   },
   {
     "id": "d3ef8b91",
@@ -62280,7 +63297,12 @@
     "nearest_station": "野町駅 徒歩6分",
     "city": "金沢市",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "かわむらプレート",
+      "杏あんみつ",
+      "桃のかき氷"
+    ]
   },
   {
     "id": "419a2779",
@@ -62355,7 +63377,10 @@
     "city": "仙台市",
     "visit_kind": "own_tv",
     "program": "旅するSnow Man",
-    "qa_note": "fananablogの該当箇所に誰が食べたかの記載はないが、宮城編は渡辺・ラウールの2人旅"
+    "qa_note": "fananablogの該当箇所に誰が食べたかの記載はないが、宮城編は渡辺・ラウールの2人旅",
+    "ordered_items": [
+      "特選牛たんしゃぶしゃぶ"
+    ]
   },
   {
     "id": "2f5904ba",
@@ -62387,7 +63412,10 @@
     "nearest_station": "苫小牧駅 徒歩14分",
     "city": "苫小牧市",
     "visit_kind": "own_tv",
-    "program": "旅するSnow Man"
+    "program": "旅するSnow Man",
+    "ordered_items": [
+      "ラーメン"
+    ]
   },
   {
     "id": "056e5f7c",
@@ -62517,7 +63545,10 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ000102301/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/70/69/P014357069/P014357069_238.jpg",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "羽根つき餃子"
+    ]
   },
   {
     "id": "bf463381",
@@ -62545,7 +63576,10 @@
     "tmdb_type": "tv",
     "city": "浜松市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "むつぎく餃子 特大(20個)"
+    ]
   },
   {
     "id": "31013ce0",
@@ -62573,7 +63607,10 @@
     "city": "浜松市",
     "visit_kind": "own_tv",
     "program": "それSnow Manにやらせて下さい",
-    "qa_note": "fananablogで食べた人の名前は節の見出しから判断（はまManチーム）"
+    "qa_note": "fananablogで食べた人の名前は節の見出しから判断（はまManチーム）",
+    "ordered_items": [
+      "焼餃子(10個)"
+    ]
   },
   {
     "id": "49bfa5e1",
@@ -62600,7 +63637,11 @@
     "tmdb_type": "tv",
     "city": "三浦市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "贅沢本マグロ丼",
+      "中落ち丼 富士山盛り"
+    ]
   },
   {
     "id": "b60b5d96",
@@ -62627,7 +63668,10 @@
     "tmdb_type": "tv",
     "city": "三浦市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "鮪珍味丼"
+    ]
   },
   {
     "id": "ea88757d",
@@ -62654,7 +63698,10 @@
     "tmdb_type": "tv",
     "city": "三浦市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "炙りサバ定食"
+    ]
   },
   {
     "id": "3cb0dcda",
@@ -62708,7 +63755,10 @@
     "tmdb_type": "tv",
     "city": "沼津市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "究極の五鉄"
+    ]
   },
   {
     "id": "af1377cf",
@@ -62737,7 +63787,11 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ000203853/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/92/91/P031699291/P031699291_238.jpg",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "きんめ鯛のづけ丼",
+      "きんめ鯛のあぶり丼"
+    ]
   },
   {
     "id": "0d08448a",
@@ -62764,7 +63818,10 @@
     "tmdb_type": "tv",
     "city": "銚子市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "生しらす なめろう丼"
+    ]
   },
   {
     "id": "e4410337",
@@ -62792,7 +63849,10 @@
     "tmdb_type": "tv",
     "city": "銚子市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "メカジキのソースカツ丼"
+    ]
   },
   {
     "id": "87007b77",
@@ -62820,7 +63880,10 @@
     "tmdb_type": "tv",
     "city": "世田谷区",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "全がけカレー"
+    ]
   },
   {
     "id": "62830aa4",
@@ -62848,7 +63911,10 @@
     "tmdb_type": "tv",
     "city": "世田谷区",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "ハマーカツカレー"
+    ]
   },
   {
     "id": "f2781b58",
@@ -62875,7 +63941,10 @@
     "tmdb_type": "tv",
     "city": "世田谷区",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "スペシャルカレー"
+    ]
   },
   {
     "id": "567a45e0",
@@ -62905,7 +63974,10 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ003340019/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/91/P039846891/P039846891_238.jpg",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "グランプリカレー"
+    ]
   },
   {
     "id": "e9ac0dc6",
@@ -62933,7 +64005,10 @@
     "tmdb_type": "tv",
     "city": "千代田区",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "煮込みハンバーグカレー膳"
+    ]
   },
   {
     "id": "a9375da8",
@@ -62968,7 +64043,11 @@
     "city": "川越市",
     "visit_kind": "own_tv",
     "program": "それSnow Manにやらせて下さい",
-    "qa_note": "fananablogの「食べたメニュー」に8人の名前（目黒蓮の名前なし）。目黒がいたかは未確認"
+    "qa_note": "fananablogの「食べたメニュー」に8人の名前（目黒蓮の名前なし）。目黒がいたかは未確認",
+    "ordered_items": [
+      "玉子焼き御前",
+      "親子丼"
+    ]
   },
   {
     "id": "ebe1f3a0",
@@ -63003,7 +64082,10 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ001294415/",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/36/25/P039153625/P039153625_238.jpg",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "ミニ蒲焼"
+    ]
   },
   {
     "id": "53bffbf0",
@@ -63029,7 +64111,10 @@
     "tmdb_type": "tv",
     "city": "仙台市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "焼き餃子"
+    ]
   },
   {
     "id": "ab24cee8",
@@ -63083,7 +64168,10 @@
     "tmdb_type": "tv",
     "city": "佐野市",
     "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい"
+    "program": "それSnow Manにやらせて下さい",
+    "ordered_items": [
+      "ラーメン"
+    ]
   },
   {
     "id": "85994217",
@@ -63779,7 +64867,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-kakuni/"
   },
   {
     "id": "numberi-teddy_s_bigger_burge-",
@@ -63819,7 +64909,9 @@
       "平子祐希（アルコ＆ピース）",
       "佐々木大光（7 MEN 侍）"
     ],
-    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-hamburger/"
   },
   {
     "id": "numberi-a9a5b0f5-",
@@ -63860,7 +64952,9 @@
     "with": [
       "平子祐希（アルコ＆ピース）"
     ],
-    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-cream-puff/"
   },
   {
     "id": "numberi-361c2213-",
@@ -63896,7 +64990,9 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/tlPX5M4f9PkWlVRqdtRkBghjlrD.jpg",
     "visit_kind": "guest_tv",
     "program": "行列のできる相談所",
-    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/gyoretsu-kishi-cheese/"
   },
   {
     "id": "numberi-lesolca-",
@@ -63972,7 +65068,9 @@
     "with": [
       "佐藤勝利（timelesz）"
     ],
-    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。"
+    "qa_note": "Number_i結成（2023年10月）前、King & Prince脱退（2023年5月22日）後の放送。Number_iの店として残すか要判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://kosodate-and.net/vsdamashii-kishi-shori-ramen/"
   },
   {
     "id": "kpop_bts-1bc779c4-",
@@ -64071,11 +65169,14 @@
     "tmdb_id": null,
     "tmdb_type": "",
     "ordered_items": [
-      "スペシャルBセット チャーシュー追加"
+      "スペシャルBセット チャーシュー追加",
+      "スペシャルBセット",
+      "チャーシュー追加"
     ],
     "visit_kind": "other",
     "program": "J-HOPE（東京滞在中）",
-    "qa_note": "出典はファンブログ。チェーン店でファンも「特定は難しい」と書いており、銀座組と決めた根拠が座席の写真のみ。要確認。"
+    "qa_note": "出典はファンブログ。チェーン店でファンも「特定は難しい」と書いており、銀座組と決めた根拠が座席の写真のみ。要確認。",
+    "seating_note": "奥から4番目の座席（テーブルの切れ目が目印）"
   },
   {
     "id": "kpop_bts-red_rock-",
@@ -64611,7 +65712,9 @@
     "with": [
       "アルコ＆ピース"
     ],
-    "qa_note": "出典 koreaddicted.jp（＠telasa_jp）。"
+    "qa_note": "出典 koreaddicted.jp（＠telasa_jp）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-fe152020-",
@@ -64646,7 +65749,9 @@
     ],
     "visit_kind": "youtube",
     "program": "SKZ VLOG「Lee Know & Felix : 냥냥 Vlog」",
-    "qa_note": "出典 koreaddicted.jp（14:48〜）。"
+    "qa_note": "出典 koreaddicted.jp（14:48〜）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-e6b173fc-",
@@ -64681,7 +65786,9 @@
     ],
     "visit_kind": "youtube",
     "program": "SKZ VLOG「Hyun.e's Holiday 5」",
-    "qa_note": "出典 koreaddicted.jp（0:40〜）。"
+    "qa_note": "出典 koreaddicted.jp（0:40〜）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-fuglen_asakusa-",
@@ -64751,7 +65858,9 @@
     ],
     "visit_kind": "other",
     "program": "スンミン Instagram",
-    "qa_note": "出典 koreaddicted.jp。店の特定・キムチ鍋の注文は写真からのファンの判断。"
+    "qa_note": "出典 koreaddicted.jp。店の特定・キムチ鍋の注文は写真からのファンの判断。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-df0b482a-",
@@ -64783,11 +65892,15 @@
     "tmdb_type": "",
     "ordered_items": [
       "つくね",
-      "やきとり皮"
+      "やきとり皮",
+      "オレンジジュース",
+      "トマトスライス"
     ],
     "visit_kind": "youtube",
     "program": "SKZ VLOG「Felix : Sunshine Vlog 6 in Tokyo」",
-    "qa_note": "出典 koreaddicted.jp（10:00〜）。【住所の食い違い】出典の住所は中央区月島3-11-10、data は中央区銀座6-4-17。どちらの店舗か要確認。"
+    "qa_note": "出典 koreaddicted.jp（10:00〜）。【住所の食い違い】出典の住所は中央区月島3-11-10、data は中央区銀座6-4-17。どちらの店舗か要確認。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-b9eabf58-",
@@ -64823,7 +65936,9 @@
     ],
     "visit_kind": "youtube",
     "program": "SKZ VLOG「Hyun.e's Holiday 5」",
-    "qa_note": "出典 koreaddicted.jp（3:05〜）。"
+    "qa_note": "出典 koreaddicted.jp（3:05〜）。",
+    "tabelog_verified": true,
+    "tabelog_source": "https://koreaddicted.jp/34578"
   },
   {
     "id": "kpop_straykids-0c456bcf-",

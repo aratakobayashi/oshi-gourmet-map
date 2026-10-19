@@ -13,6 +13,7 @@ source_video_title: "キントレ 大食い【永瀬廉＆宮近海斗 ロケ地
 source_url: "https://kosodate-and.net/kintore-ren-chaka-oogui"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/kanagawa/A1401/A140104/14074121/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
 visit_kind: "guest_tv"
 program: "キントレ"
@@ -22,4 +23,7 @@ members:
   - "宮近海斗"
 groups:
   - "travisjapan"
+ordered_items:
+  - "大鶏排"
+  - "カエルの一本丸揚げ"
 ---

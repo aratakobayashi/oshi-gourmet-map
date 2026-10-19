@@ -23,4 +23,7 @@ members:
   - "長尾謙杜"
 groups:
   - "naniwa"
+ordered_items:
+  - "ミカンタンフル"
+  - "猫プリン"
 ---

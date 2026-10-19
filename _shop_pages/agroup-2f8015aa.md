@@ -12,6 +12,7 @@ source_video_title: "所さんお届けモノです！【末澤誠也＆小島�
 source_url: "https://kosodate-and.net/tokoro-otodoke-seiken-pasta"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131106/13008470/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/2vbsx5sOArnWek7gQpAVCjLmSTq.jpg"
 visit_kind: "guest_tv"
 program: "所さんお届けモノです！"
@@ -22,4 +23,6 @@ members:
   - "小島健"
 groups:
   - "agroup"
+ordered_items:
+  - "谷中メンチ"
 ---

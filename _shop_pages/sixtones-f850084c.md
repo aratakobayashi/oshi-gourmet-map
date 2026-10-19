@@ -14,6 +14,7 @@ source_video_title: "【だが、情熱はあるロケ地】山里が花鈴に�
 source_url: "https://kosodate-and.net/daga-jyounetsu-yama-karin-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1311/A131102/13087993/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/jvlJyh4zdjyD6VxUskMx56X2LCm.jpg"
 visit_kind: "drama"
 program: "だが、情熱はある"

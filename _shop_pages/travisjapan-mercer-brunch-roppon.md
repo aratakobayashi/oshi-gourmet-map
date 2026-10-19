@@ -12,6 +12,7 @@ source_video_title: "あの頃からわたしたちは【Sexy松 ロケ地】レ
 source_url: "https://kosodate-and.net/anokoro-sexysho-restaurant"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13149710/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/yZtDlxsQT58cEYXRMyQRaTTxqaM.jpg"
 visit_kind: "guest_tv"
 program: "あの頃からわたしたちは"

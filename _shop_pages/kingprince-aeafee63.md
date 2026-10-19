@@ -22,4 +22,6 @@ members:
   - "髙橋海人"
 groups:
   - "kingprince"
+ordered_items:
+  - "揚げゆばまんじゅう"
 ---

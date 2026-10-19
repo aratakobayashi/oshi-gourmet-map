@@ -15,7 +15,8 @@ source_video_title: "WEST.【KAMI Sweets#003】Aぇ! group末澤誠也と大人�
 source_video_url: "https://www.youtube.com/watch?v=WTBHdJpcICc"
 source_url: "https://kosodate-and.net/westube-kami-sue-cafe"
 group: "west"
-tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13237717/"
+tabelog_url: "https://tabelog.com/tokyo/A1304/A130404/13293786/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "WEST.公式YouTube「KAMI Sweets」"
 lat: 35.70016095868307

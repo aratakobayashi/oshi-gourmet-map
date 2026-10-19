@@ -16,6 +16,7 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13011879/"
 source_type: "youtube"
+seating_note: "テーブル席（カウンター左側・ピンクの壁紙の空間の奥から2つ目）"
 visit_kind: "youtube"
 program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.7056126
@@ -24,4 +25,11 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "トーストセット"
+  - "ソーダ水フロート(ブルー)"
+  - "ホットコーヒー"
+  - "ワッフル"
+  - "ナポリタン"
+  - "チーズケーキ(マスターからのサービス)"
 ---

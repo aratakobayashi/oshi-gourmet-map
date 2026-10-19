@@ -22,4 +22,7 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "ソルティトマトのフローズンつけsoba"
+  - "蕎麦茶ミルクの冷やしフルーツ鍋"
 ---

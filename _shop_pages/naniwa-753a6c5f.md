@@ -21,4 +21,6 @@ members:
   - "藤原丈一郎"
 groups:
   - "naniwa"
+ordered_items:
+  - "担々麺"
 ---

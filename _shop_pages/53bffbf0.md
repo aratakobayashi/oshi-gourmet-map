@@ -21,4 +21,6 @@ members:
   - "渡辺翔太"
 groups:
   - "snowman"
+ordered_items:
+  - "焼き餃子"
 ---

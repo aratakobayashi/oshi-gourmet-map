@@ -12,6 +12,7 @@ source_url: "https://ameblo.jp/yocorino-caputino/entry-12473329011.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131003/13006555/"
 source_type: "blog"
+seating_note: "カウンター席（雑誌の取材でエイトが座った席）"
 visit_kind: "drama"
 program: "よつば銀行 原島浩美がモノ申す！"
 lat: 35.6956566

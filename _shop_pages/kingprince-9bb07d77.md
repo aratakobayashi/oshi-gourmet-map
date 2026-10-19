@@ -13,6 +13,7 @@ source_url: "https://kosodate-and.net/kintore-kaito-kyohei-softcream"
 group: "kingprince"
 tabelog_url: "https://tabelog.com/kanagawa/A1409/A140901/14030902/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg"
+seating_note: "店の前の赤いベンチ"
 visit_kind: "own_tv"
 program: "キントレ（炊飯器の旅）"
 lat: 35.2391784

@@ -12,6 +12,7 @@ source_url: "https://ameblo.jp/yocorino-caputino/entry-12494981250.html"
 group: "kanjani"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010105/1065833/"
 source_type: "blog"
+seating_note: "3階のロケ席"
 visit_kind: "other"
 lat: 43.06980543371293
 lng: 141.32047005676478
@@ -22,4 +23,12 @@ members:
   - "錦戸亮"
 groups:
   - "kanjani"
+ordered_items:
+  - "うにいくら丼"
+  - "しじみ汁"
+  - "茶碗蒸し"
+  - "ボタンエビの御造り"
+  - "カニサラダ"
+  - "アワビ丸焼き"
+  - "ツボ鯛焼き"
 ---

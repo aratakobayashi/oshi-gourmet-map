@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=WXBhPBd6YBI"
 source_url: "https://kosodate-and.net/agroup-chinese-dameyo"
 group: "agroup"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130701/13290682/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ003693216/"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/02/20/P043180220/P043180220_238.jpg"
 visit_kind: "youtube"
@@ -29,4 +30,7 @@ members:
   - "佐野晶哉"
 groups:
   - "agroup"
+ordered_items:
+  - "小籠包"
+  - "春巻き"
 ---

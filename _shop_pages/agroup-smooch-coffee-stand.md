@@ -13,6 +13,7 @@ source_video_title: "【Aぇちゅ〜ぶ絵文字in札幌】正門良規・末�
 source_url: "https://kosodate-and.net/masa-sue-sano-sapporo-cafe"
 group: "agroup"
 tabelog_url: "https://tabelog.com/hokkaido/A0101/A010104/1043871/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "Aぇ! group公式YouTube（Aぇちゅ〜ぶ）"
 lat: 43.045766984545104

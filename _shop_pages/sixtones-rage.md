@@ -14,6 +14,7 @@ source_video_title: "【6SixTONES シクスト】二宮和也とのラーメン�
 source_url: "https://kosodate-and.net/6sixtones-nino-ramen"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1307/A130704/13291538/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/7ZEXIKOHl3cSaGvlHIxLsGXCiPc.jpg"
 visit_kind: "own_tv"
 program: "6SixTONES"

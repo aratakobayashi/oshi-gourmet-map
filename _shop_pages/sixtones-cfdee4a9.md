@@ -15,6 +15,7 @@ source_video_url: "https://www.youtube.com/watch?v=iL3LjxeRpX4"
 source_url: "https://kosodate-and.net/sixtones-ikaho-gohan"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/gunma/A1004/A100401/10009873/"
+tabelog_verified: "True"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
 lat: 36.4996088

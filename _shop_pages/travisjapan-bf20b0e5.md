@@ -13,6 +13,7 @@ source_video_title: "私たちが恋する理由【七五三掛龍也 ロケ地�
 source_url: "https://kosodate-and.net/koisuru-shime-kankoku"
 group: "travisjapan"
 tabelog_url: "https://tabelog.com/tokyo/A1310/A131001/13240463/"
+tabelog_verified: "True"
 hotpepper_url: "https://www.hotpepper.jp/strJ001232860/"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/gngVWbFjPwUi3n1RNuu17xQ9peI.jpg"
 hotpepper_photo: "https://imgfp.hotp.jp/IMGH/70/78/P050997078/P050997078_238.jpg"

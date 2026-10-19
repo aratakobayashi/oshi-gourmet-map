@@ -31,4 +31,6 @@ members:
   - "宮舘涼太"
 groups:
   - "snowman"
+ordered_items:
+  - "プレミアム黄金ほうとう"
 ---

@@ -22,4 +22,6 @@ members:
   - "伊野尾慧"
 groups:
   - "heysayjump"
+ordered_items:
+  - "漁師の漬けどんぶり"
 ---

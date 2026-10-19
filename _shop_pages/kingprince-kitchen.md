@@ -11,7 +11,8 @@ address: "大阪府大阪市福島区福島2-10-4"
 source_video_title: "笑ってコラえて【永瀬廉×西畑大吾×正門良規】大阪福島でのロケ日はいつ？遭遇情報は？"
 source_url: "https://kosodate-and.net/ren-daigo-masakado-osaka"
 group: "kingprince"
-tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27014207/"
+tabelog_url: "https://tabelog.com/osaka/A2701/A270108/27084655/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/bQ8OZciHX4nXUARLXOxhE2mXMjq.jpg"
 visit_kind: "guest_tv"
 program: "1億人の大質問!?笑ってコラえて!（朝までハシゴの旅）"
@@ -23,4 +24,6 @@ groups:
   - "agroup"
   - "kingprince"
   - "naniwa"
+ordered_items:
+  - "ハイボール"
 ---

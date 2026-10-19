@@ -22,4 +22,6 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "ビーフ角切りカレー(甘口)"
 ---

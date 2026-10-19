@@ -14,6 +14,7 @@ source_video_title: "めざましテレビ【京本大我＆宮近海斗】清�
 source_url: "https://kosodate-and.net/mezamashi-taiga-kaito-cafe"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131303/13289519/"
+tabelog_verified: "True"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 visit_kind: "guest_tv"
 program: "めざましテレビ"
@@ -23,4 +24,7 @@ members:
   - "京本大我"
 groups:
   - "sixtones"
+ordered_items:
+  - "プラントプリン"
+  - "クロッシュ(オリジナル)"
 ---

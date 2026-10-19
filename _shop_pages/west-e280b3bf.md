@@ -17,6 +17,7 @@ source_url: "https://www.shitauke-tekiseika.jp/kissahamada/"
 group: "west"
 tabelog_url: "https://tabelog.com/tokyo/A1319/A131905/13250955/"
 source_type: "youtube"
+seating_note: "2階の手前から2つ目の席"
 visit_kind: "youtube"
 program: "WEST.公式YouTube「喫茶と濵田。」"
 lat: 35.7105571
@@ -25,4 +26,9 @@ members:
   - "濵田崇裕"
 groups:
   - "west"
+ordered_items:
+  - "餡バタートースト"
+  - "ウインナーコーヒー"
+  - "ナポリタン"
+  - "ラムネクリームソーダ"
 ---
