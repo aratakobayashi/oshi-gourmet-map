@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 806" width="420" height="806" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <rect width="420" height="806" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店79軒を数えました</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店77軒を数えました</text>
 <text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">和食</text>
 <rect x="100" y="100" width="220" height="26" rx="8" fill="#15803d"/>
 <text x="328" y="119" font-size="16" font-weight="800" fill="#15803d">24軒</text>
 <text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
-<rect x="100" y="144" width="174" height="26" rx="8" fill="#0891b2"/>
-<text x="282" y="163" font-size="16" font-weight="800" fill="#0891b2">19軒</text>
+<rect x="100" y="144" width="155" height="26" rx="8" fill="#0891b2"/>
+<text x="263" y="163" font-size="16" font-weight="800" fill="#0891b2">17軒</text>
 <text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">食事</text>
 <rect x="100" y="188" width="119" height="26" rx="8" fill="#2563eb"/>
 <text x="227" y="207" font-size="16" font-weight="800" fill="#2563eb">13軒</text>
@@ -31,9 +31,9 @@
 <text x="117" y="471" font-size="16" font-weight="800" fill="#db2777">1軒</text>
 <text x="20" y="506" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
 <rect x="20" y="520" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="538" font-size="13.5" fill="#241F1A">港区</text><text x="192" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">20軒</text>
+<text x="32" y="538" font-size="13.5" fill="#241F1A">港区</text><text x="192" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">19軒</text>
 <rect x="216" y="520" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="538" font-size="13.5" fill="#241F1A">新宿区</text><text x="388" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">13軒</text>
+<text x="228" y="538" font-size="13.5" fill="#241F1A">新宿区</text><text x="388" y="538" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">12軒</text>
 <rect x="20" y="552" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="570" font-size="13.5" fill="#241F1A">渋谷区</text><text x="192" y="570" font-size="14" font-weight="800" text-anchor="end" fill="#e8537a">8軒</text>
 <rect x="216" y="552" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SixTONESの聖地巡礼・ロケ地まとめ｜ストチューブ・冠番組で行った東京のご飯ほか102軒"
+title: "SixTONESの聖地巡礼・ロケ地まとめ｜ストチューブ・冠番組で行った東京のご飯ほか98軒"
 date: 2026-05-12
 last_modified_at: 2026-10-13
 checked_at: 2026-10-13
-description: "SixTONESの聖地巡礼・ロケ地102軒のまとめ。公式YouTube「ストチューブ」の大食い・忘年会・朝メシ・旅の回、冠番組『6SixTONES』『ストP』、出演番組のロケ、松村北斗・森本慎太郎のドラマのロケ地、スタジオに料理が出ただけのお店まで、出典ごとに分けて紹介します。"
+description: "SixTONESの聖地巡礼・ロケ地98軒のまとめ。公式YouTube「ストチューブ」の大食い・忘年会・朝メシ・旅の回、冠番組『6SixTONES』『ストP』、出演番組のロケ、松村北斗・森本慎太郎のドラマのロケ地、スタジオに料理が出ただけのお店まで、出典ごとに分けて紹介します。"
 group: sixtones
 genre: まとめ
 article_type: matome
@@ -21,9 +21,9 @@ sources:
   - label: "確認に使った資料：kosodate-and.net（番組・ドラマのロケ地）"
     url: "https://kosodate-and.net/"
 summary:
-  - "SixTONESの聖地102軒。公式YouTube「ストチューブ」53軒、ほかのYouTubeチャンネル3軒、冠番組8軒、出演番組12軒、ドラマのロケ地17軒など"
+  - "SixTONESの聖地98軒。公式YouTube「ストチューブ」49軒、ほかのYouTubeチャンネル3軒、冠番組8軒、出演番組12軒、ドラマのロケ地17軒など"
   - "メンバーが行ったお店と、ドラマの撮影に使われたお店、スタジオに料理が出ただけのお店を分けて載せています"
-  - "東京が65軒（港区・新宿区・渋谷区・墨田区・中央区など）。ほかに横浜・熱海・名古屋・秩父・伊香保など13道府県とシンガポール"
+  - "東京が63軒（港区・新宿区・渋谷区・墨田区・中央区など）。ほかに横浜・熱海・名古屋・秩父・伊香保など13道府県とシンガポール"
   - "お店ごとに回のタイトル・出たメンバー・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - sixtones-kamonka-kinshicho
@@ -45,9 +45,7 @@ shop_ids:
   - sixtones-1040c0d2-20220429
   - sixtones-honjo-kaeru-honpo
   - sixtones-d5eb52bc-20191026
-  - sixtones-2b41b180-202411
   - sixtones-fe00963e-20201127
-  - sixtones-pizzeria-e-trattoria-da-isa
   - sixtones-f05aec86-20230407
   - sixtones-gyugyu-nishiazabu
   - sixtones-breath_cafe-
@@ -57,7 +55,6 @@ shop_ids:
   - sixtones-ryukaihanten-chinatown
   - sixtones-57696988-20230310
   - sixtones-lacocorico-akarenga
-  - sixtones-ramen-hakubutsukan
   - sixtones-b10d3d18-
   - sixtones-houtou-fudo-higashikoji
   - sixtones-ukigumori-ikaho
@@ -69,7 +66,6 @@ shop_ids:
   - sixtones-enoshima-kaisaku
   - sixtones-69893b9a-20190503
   - sixtones-sixtones-202108
-  - sixtones-f52d4936-202108
   - sixtones-16042c85-20190607
   - sixtones-2dde5c37-20190621
   - sixtones-b5dfc98a-202310
@@ -140,12 +136,12 @@ faq:
   - q: "冠番組『6SixTONES』ではどこに行きましたか？"
     a: "2026年1月の熱海の回で、大泉洋と網元丸福・桜井商店・CODA ROSSAに、2026年4月の回で、二宮和也と麻布台ヒルズの麺尊 RAGE と希須林 麻布台に行っています。"
   - q: "SixTONESのお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でSixTONESを選ぶと、この記事の102軒を含めSixTONESのお店を地図で見られます。"
+    a: "「お店を探す」でSixTONESを選ぶと、この記事の98軒を含めSixTONESのお店を地図で見られます。"
 pr: true
 techo: true
 cover_ids: "sixtones-428441dc-20250124,sixtones-dintaifung-soramachi,sixtones-kamonka-kinshicho"
 cover_title: "SixTONES 聖地巡礼帳"
-cover_sub: "ストチューブ・冠番組・ドラマの102軒"
+cover_sub: "ストチューブ・冠番組・ドラマの98軒"
 courses:
   - title: "押上から両国へ：忘年会と大食いの東側"
     stops: [sixtones-dintaifung-soramachi, sixtones-kamonka-kinshicho, sixtones-honjo-kaeru-honpo, sixtones-fe00963e-20201127]
@@ -159,16 +155,16 @@ stay_inline: true
 
 <p><strong>ジェシー・京本大我・松村北斗・髙地優吾・森本慎太郎・田中樹</strong>の6人のSixTONES。公式YouTubeチャンネル（ストチューブ）では、小籠包やわんこそばに挑む大食い企画、6人だけの忘年会やツアーの打ち上げ、行き先を決めない「アポなし旅」、東京の街での朝メシまで、6人で食べる回がたくさんあります。</p>
 
-<p>ほかにも、冠番組『6SixTONES』『SixTONESの今日からプロデューサーズ！』のロケ、メンバーが出演した番組のロケ、松村北斗・森本慎太郎が出演したドラマの撮影に使われたお店があります。この記事では<strong>102軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>ほかにも、冠番組『6SixTONES』『SixTONESの今日からプロデューサーズ！』のロケ、メンバーが出演した番組のロケ、松村北斗・森本慎太郎が出演したドラマの撮影に使われたお店があります。この記事では<strong>98軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「ストチューブ」<small>53軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>ほかのYouTubeチャンネル<small>3軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『6SixTONES』<small>5軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『SixTONESの今日からプロデューサーズ！』<small>3軒</small></span></a><a href="#src5">{% include chico.html kind="guest" %}<span>出演した番組<small>12軒</small></span></a><a href="#src6">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>17軒</small></span></a><a href="#src7">{% include chico.html kind="other" %}<span>雑誌の撮影・ラジオで話したお店ほか<small>3軒</small></span></a><a href="#src8">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>6軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「ストチューブ」<small>49軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>ほかのYouTubeチャンネル<small>3軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『6SixTONES』<small>5軒</small></span></a><a href="#src4">{% include chico.html kind="tv" %}<span>冠番組『SixTONESの今日からプロデューサーズ！』<small>3軒</small></span></a><a href="#src5">{% include chico.html kind="guest" %}<span>出演した番組<small>12軒</small></span></a><a href="#src6">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>17軒</small></span></a><a href="#src7">{% include chico.html kind="other" %}<span>雑誌の撮影・ラジオで話したお店ほか<small>3軒</small></span></a><a href="#src8">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>6軒</small></span></a></div>
 </div>
 {% include matome-members.html group="sixtones" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>102軒のなかから、東京で行きやすく、6人そろって食べた回のお店を3つ選びました。</p>
+<p>98軒のなかから、東京で行きやすく、6人そろって食べた回のお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="sixtones-428441dc-20250124" no="其の一" why="「６人念願の朝ラー」（2025年1月）の回。6人で並んで入り、ラーメンとゆで卵を頼んでいます。お店は神宮前（原宿）です。" %}
 {% include pick.html id="sixtones-dintaifung-soramachi" no="其の二" why="「ガチリアルな忘年会」（2024年1月）で、念願の小籠包を囲んだお店。同じ東京ソラマチには、次の年の忘年会のもんじゃ だるまも入っています。" %}
@@ -187,7 +183,7 @@ stay_inline: true
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>ストチューブの53軒は、6人そろって同じテーブルを囲む回が中心です。2019〜2020年は秩父・京都・金沢・静岡などのドライブと旅の回、2022年からは忘年会・打ち上げ、大食い企画、東京での朝メシの回が増えます。一方、テレビ番組のロケは京本大我・髙地優吾など1〜2人の回が多く、ドラマのロケ地は森本慎太郎の『だが、情熱はある』と、松村北斗の2作品のものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>ストチューブの49軒は、6人そろって同じテーブルを囲む回が中心です。2019〜2020年は秩父・京都・金沢・静岡などのドライブと旅の回、2022年からは忘年会・打ち上げ、大食い企画、東京での朝メシの回が増えます。一方、テレビ番組のロケは京本大我・髙地優吾など1〜2人の回が多く、ドラマのロケ地は森本慎太郎の『だが、情熱はある』と、松村北斗の2作品のものです。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -225,14 +221,12 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="sixtones-1040c0d2-20220429" %}<span class="wr__k">2022.4</span><b class="wr__name">ル・パン・コティディアン 芝公園店</b><span class="wr__t">【アポなしキャンプ旅】まずは素敵な朝食から！~01~／6人／マカロニ＆チーズ、ラザニア、サーモンタルティーヌ、グリルチキンタルティーヌ（港区 芝公園）</span>{% include wr-close.html id="sixtones-1040c0d2-20220429" %}</li>
 </ul>
 
-<h3>東京の街のお店：両国・渋谷・原宿・ソラマチ・西麻布・深大寺</h3>
+<h3>東京の街のお店：両国・渋谷・ソラマチ・西麻布・深大寺</h3>
 <p>両国のもんじゃや屋形船、渋谷のうなぎ、ソラマチのいちご大福、深大寺の茶屋まで。1〜2人の回もあります。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sixtones-honjo-kaeru-honpo" %}<span class="wr__k">2019.2</span><b class="wr__name">本所かえる本舗</b><span class="wr__t">【TOKYOグルメガイド】下町の味！駄菓子もんじゃ!!／6人（墨田区 両国）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アメリカンもんじゃ・イタリアンもんじゃ・メガもんじゃ（駄菓子入り）</span></span>{% include wr-close.html id="sixtones-honjo-kaeru-honpo" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-d5eb52bc-20191026" %}<span class="wr__k">2019.10</span><b class="wr__name">うなぎ 徳 渋谷店</b><span class="wr__t">Tokyo Drive Vol.2／6人／うな重、名物お櫃うなぎ茶漬け（渋谷ヒカリエ）</span>{% include wr-close.html id="sixtones-d5eb52bc-20191026" %}</li>
-  <li class="wr">{% include wr-open.html id="sixtones-2b41b180-202411" %}<span class="wr__k">2020.3</span><b class="wr__name">笑たこ 原宿表参道店</b><span class="wr__t">Harajuku Walk - 原宿散歩してみた／原宿のたこ焼きのお店（渋谷区 神宮前）</span>{% include wr-close.html id="sixtones-2b41b180-202411" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-fe00963e-20201127" %}<span class="wr__k">2020.11</span><b class="wr__name">屋形船 晴海屋</b><span class="wr__t">First episode in Johnnys- ジャニーズ入所㊙︎話を語る!?／6人／ふりそで御前（墨田区 横網）</span>{% include wr-close.html id="sixtones-fe00963e-20201127" %}</li>
-  <li class="wr">{% include wr-open.html id="sixtones-pizzeria-e-trattoria-da-isa" %}<span class="wr__k">2022.12</span><b class="wr__name">Pizzeria e Trattoria da ISA</b><span class="wr__t">【SixTONES】クリスマスイブイブにチキン＆ピザ!!／この回に関係する中目黒のピザのお店</span>{% include wr-close.html id="sixtones-pizzeria-e-trattoria-da-isa" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-f05aec86-20230407" %}<span class="wr__k">2023.4</span><b class="wr__name">ストロベリーマニア 東京ソラマチ店</b><span class="wr__t">【SixTONES】スカイツリー顔バレせずに登れるか？〜完結編〜／田中樹・松村北斗／いちご大福カスタード、白いちご大福こしあん、いちご大福つぶあん、いちごミルキーソフト（墨田区 押上）</span>{% include wr-close.html id="sixtones-f05aec86-20230407" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-gyugyu-nishiazabu" %}<span class="wr__k">2024.4</span><b class="wr__name">牛牛 西麻布 総本店</b><span class="wr__t">ジェシーソロ【せいやとメシ会】まったりプライベートトーク／ジェシーと霜降り明星のせいや／焼肉（港区 西麻布）</span><span class="wr__more"><span class="wr__oi">頼んだ物：生ビール・ナムルの盛り合わせ・ユッケ</span></span>{% include wr-close.html id="sixtones-gyugyu-nishiazabu" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-breath_cafe-" %}<span class="wr__k">2025.8</span><b class="wr__name">breath cafe（ブレスカフェ）</b><span class="wr__t">【子育てVlog Cafe編】久しぶりに娘と遊んだよ／松村北斗と、ドラマで共演した倉田瑛茉（新宿区 新宿3丁目）</span>{% include wr-close.html id="sixtones-breath_cafe-" %}</li>
@@ -240,14 +234,13 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="sixtones-182b33d7-" %}<span class="wr__k">2024.3</span><b class="wr__name">松葉茶屋</b><span class="wr__t">「俺たちに絆はあるのか!?in三鷹・吉祥寺」の回／髙地優吾・松村北斗／そば（調布市 深大寺）</span><span class="wr__more"><span class="wr__oi">頼んだ物：山菜そば・もりそば</span></span>{% include wr-close.html id="sixtones-182b33d7-" %}</li>
 </ul>
 
-<h3>横浜：MV撮影の合間の中華街・赤レンガ倉庫とラーメン博物館</h3>
+<h3>横浜：MV撮影の合間の中華街・赤レンガ倉庫</h3>
 <p>「MV撮影の合間に…」の回は、中華街を回った4人と、赤レンガ倉庫に行った4人に分かれています。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sixtones-houtenkaku-chinatown" %}<span class="wr__k">2023.3</span><b class="wr__name">上海小籠包専門店 鵬天閣</b><span class="wr__t">【SixTONES】MV撮影の合間に…カメラ回してみた!!／髙地優吾・田中樹・松村北斗・森本慎太郎／焼き小籠包（横浜中華街）</span>{% include wr-close.html id="sixtones-houtenkaku-chinatown" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-ryukaihanten-chinatown" %}<span class="wr__k">2023.3</span><b class="wr__name">彩り五色小籠包専門店 龍海飯店</b><span class="wr__t">【SixTONES】MV撮影の合間に…カメラ回してみた!!／髙地優吾・田中樹・松村北斗・森本慎太郎（横浜中華街）</span><span class="wr__more"><span class="wr__oi">頼んだ物：フカヒレの姿煮・豆苗にんにく炒め・クラゲの冷製</span><span class="wr__seat">席：個室</span></span>{% include wr-close.html id="sixtones-ryukaihanten-chinatown" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-57696988-20230310" %}<span class="wr__k">2023.3</span><b class="wr__name">香港飲茶専門店 西遊記</b><span class="wr__t">【SixTONES】MV撮影の合間に…カメラ回してみた!!／髙地優吾・田中樹・松村北斗・森本慎太郎／叉焼メロンパン、エッグタルト（横浜中華街）</span>{% include wr-close.html id="sixtones-57696988-20230310" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-lacocorico-akarenga" %}<span class="wr__k">2023.3</span><b class="wr__name">Cafe &amp; Rotisserie LA COCORICO 横浜赤レンガ倉庫店</b><span class="wr__t">【SixTONES】MV撮影の合間に…カメラ回してみた!!／髙地優吾・京本大我・ジェシー・森本慎太郎（横浜赤レンガ倉庫）</span><span class="wr__more"><span class="wr__oi">頼んだ物：D.O.C（ピザ）・ヒラメのカルパッチョ・カルボナーラ</span></span>{% include wr-close.html id="sixtones-lacocorico-akarenga" %}</li>
-  <li class="wr">{% include wr-open.html id="sixtones-ramen-hakubutsukan" %}<span class="wr__k">2022.11</span><b class="wr__name">新横浜ラーメン博物館</b><span class="wr__t">【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇／6人（横浜市港北区）</span>{% include wr-close.html id="sixtones-ramen-hakubutsukan" %}</li>
 </ul>
 
 <h3>アポなし旅・ドライブの旅先グルメ</h3>
@@ -269,7 +262,6 @@ stay_inline: true
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sixtones-69893b9a-20190503" %}<span class="wr__k">2019.5</span><b class="wr__name">シャトードール 奈良店（本店）</b><span class="wr__t">【初めての朝活】鹿に囲まれ大ピンチ!?／6人（奈良県奈良市）</span>{% include wr-close.html id="sixtones-69893b9a-20190503" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-sixtones-202108" %}<span class="wr__k">2019</span><b class="wr__name">阿左美冷蔵 金崎本店</b><span class="wr__t">ドライブ企画 秩父編のお店として登録／かき氷（埼玉県皆野町）</span>{% include wr-close.html id="sixtones-sixtones-202108" %}</li>
-  <li class="wr">{% include wr-open.html id="sixtones-f52d4936-202108" %}<span class="wr__k">2019</span><b class="wr__name">豚みそ丼本舗 野さか</b><span class="wr__t">ドライブ企画 秩父編のお店として登録／豚みそ丼（埼玉県秩父市）</span>{% include wr-close.html id="sixtones-f52d4936-202108" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-16042c85-20190607" %}<span class="wr__k">2019.6</span><b class="wr__name">高坂SA（下り）</b><span class="wr__t">【サービスエリアグルメ】第3回！ドライブ企画ー秩父編ー2/5／6人／えびマヨスティック、揚げもち（埼玉県東松山市）</span>{% include wr-close.html id="sixtones-16042c85-20190607" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-2dde5c37-20190621" %}<span class="wr__k">2019.6</span><b class="wr__name">きのこの里 鈴加園</b><span class="wr__t">【サプライズ】歌あり踊りありの秩父旅！4/5／6人／しいたけ串焼き（埼玉県秩父市）</span>{% include wr-close.html id="sixtones-2dde5c37-20190621" %}</li>
   <li class="wr">{% include wr-open.html id="sixtones-b5dfc98a-202310" %}<span class="wr__k">2019.11</span><b class="wr__name">京料理 六盛</b><span class="wr__t">京都ドライブ企画（Kyoto Drive）のシリーズ／6人（京都市左京区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：手をけ弁当・ひとしな</span></span>{% include wr-close.html id="sixtones-b5dfc98a-202310" %}</li>
@@ -388,12 +380,12 @@ stay_inline: true
 
 <h2>SixTONESの聖地 年表</h2>
 <p>ストチューブのお店のうち、回と公開日を確かめられたお店を、動画の公開日の古い順に並べました。</p>
-<div class="faq"><details><summary>年表をひらく（39軒・公開日の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/timeline.svg" alt="SixTONESの聖地 年表：2019年 本所かえる本舗（TOKYOグルメガイド）、奈良のシャトードール（初めての朝活）、ドライブ企画 秩父編の高坂SA・きのこの里 鈴加園、10万円アポなし旅のくら寿司 御殿場店、Tokyo Drive Vol.2のうなぎ 徳 渋谷店。2020年 Shizuoka Travel Vol.3の丸忠うなぎ、屋形船 晴海屋。2022年 アポなしキャンプ旅の朝食（芝公園）、新横浜ラーメン博物館、メンバーだけの忘年会（下北沢）。2023年 MV撮影の合間の横浜中華街・赤レンガ倉庫、スカイツリー（ソラマチ）、パン屋探し、わんこそば、帰ってきたアポなし旅（築地・伊香保）。2024年 ソラマチの忘年会、八王子ラーメン、西麻布、ドーム公演の打ち上げ、幕張、わんこ小籠包、佐野SA、無限焼き鳥。2025年 原宿の朝ラー、江の島、もんじゃ忘年会、ドームツアー打上げ、新宿のカフェ。2026年 シンガポールのチキンライスとイタリア料理、札幌の打ち上げ、池袋の朝メシ" width="420" height="4048" loading="lazy" decoding="async"><figcaption>回やお店の特定がまだのお店（秩父の2軒・金沢の2軒・京都・山梨・宇都宮・伊香保焼・深大寺の2軒・中目黒のピザ店・原宿のたこ焼き・島田の茶屋・シンガポールの朝メシ）は年表に入れていません</figcaption></figure>
+<div class="faq"><details><summary>年表をひらく（38軒・公開日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/timeline.svg" alt="SixTONESの聖地 年表：2019年 本所かえる本舗（TOKYOグルメガイド）、奈良のシャトードール（初めての朝活）、ドライブ企画 秩父編の高坂SA・きのこの里 鈴加園、10万円アポなし旅のくら寿司 御殿場店、Tokyo Drive Vol.2のうなぎ 徳 渋谷店。2020年 Shizuoka Travel Vol.3の丸忠うなぎ、屋形船 晴海屋。2022年 アポなしキャンプ旅の朝食（芝公園）、メンバーだけの忘年会（下北沢）。2023年 MV撮影の合間の横浜中華街・赤レンガ倉庫、スカイツリー（ソラマチ）、パン屋探し、わんこそば、帰ってきたアポなし旅（築地・伊香保）。2024年 ソラマチの忘年会、八王子ラーメン、西麻布、ドーム公演の打ち上げ、幕張、わんこ小籠包、佐野SA、無限焼き鳥。2025年 原宿の朝ラー、江の島、もんじゃ忘年会、ドームツアー打上げ、新宿のカフェ。2026年 シンガポールのチキンライスとイタリア料理、札幌の打ち上げ、池袋の朝メシ" width="420" height="3946" loading="lazy" decoding="async"><figcaption>回やお店の特定がまだのお店（秩父の1軒・金沢の2軒・京都・山梨・宇都宮・伊香保焼・深大寺の2軒・島田の茶屋・シンガポールの朝メシ）は年表に入れていません</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他34軒、和食19軒、カフェ17軒、中華7軒、焼肉7軒、食事6軒、ラーメン5軒、居酒屋4軒、スイーツ3軒。東京都内は港区12軒、新宿区8軒、渋谷区8軒、墨田区・中央区が7軒ずつ、世田谷区・品川区が4軒ずつ、目黒区3軒など。東京の外は神奈川県9軒（横浜市が中心）、静岡県6軒（熱海市3軒など）、埼玉県4軒、シンガポール3軒、愛知県・栃木県・群馬県・石川県・大阪府が2軒ずつ、北海道・千葉県・山梨県・京都府・奈良県が1軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の102軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他32軒、和食18軒、カフェ17軒、中華7軒、焼肉7軒、食事6軒、居酒屋4軒、ラーメン4軒、スイーツ3軒。東京都内は港区12軒、新宿区8軒、墨田区・渋谷区・中央区が7軒ずつ、世田谷区・品川区が4軒ずつなど。東京の外は神奈川県8軒（横浜市が中心）、静岡県6軒（熱海市3軒など）、埼玉県3軒、シンガポール3軒、愛知県・栃木県・群馬県・石川県・大阪府が2軒ずつ、北海道・千葉県・山梨県・京都府・奈良県が1軒ずつ" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の98軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>SixTONESの公式YouTubeチャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -405,27 +397,27 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区12軒、新宿区8軒、渋谷区8軒、墨田区7軒、中央区7軒など。23区の外は神奈川県9軒、東京の市部・島4軒、埼玉県4軒、千葉県1軒、そのほかの道府県23軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/sixtones-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区12軒、新宿区8軒、墨田区7軒、渋谷区7軒、中央区7軒など。23区の外は神奈川県8軒、東京の市部・島4軒、埼玉県3軒、千葉県1軒、そのほかの道府県23軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>スタジオに料理が出ただけのお店は入れていません。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>押上（東京ソラマチ）</strong>：鼎泰豊 東京ソラマチ店・月島名物もんじゃ だるま ソラマチ店（どちらも押上〈スカイツリー前〉駅 徒歩2分）と、同じソラマチ4階のストロベリーマニア。2つの忘年会の会場がまとまっています。</li>
   <li><strong>両国・錦糸町</strong>：本所かえる本舗（両国駅 徒歩2分）、屋形船 晴海屋（墨田区横網）、ストPの麦酒倶楽部 ポパイ（両国2丁目）と、錦糸町駅前のGINZA 過門香。</li>
   <li><strong>新宿・新大久保</strong>：鳥元 新宿西口店（新宿駅 徒歩2分）、breath cafe（新宿駅 徒歩1分）、『CLASSY.』の西尾さん（新宿駅 徒歩1分）、ちいパン（新宿5丁目）、歌舞伎町のくるくるわんこと、『アンサンブル』のおうさか苑。新大久保にはSOOKDAL（新大久保駅 徒歩4分）。</li>
-  <li><strong>原宿・表参道・渋谷</strong>：一蘭 原宿店（神宮前6丁目）、笑たこ 原宿表参道店とクレープとエスプレッソと（どちらも明治神宮前〈原宿〉駅 徒歩3分）。渋谷ヒカリエ6階にはうなぎ 徳 渋谷店。</li>
+  <li><strong>原宿・表参道・渋谷</strong>：一蘭 原宿店（神宮前6丁目）、クレープとエスプレッソと（明治神宮前〈原宿〉駅 徒歩3分）。渋谷ヒカリエ6階にはうなぎ 徳 渋谷店。</li>
   <li><strong>築地・月島・勝どき・銀座</strong>：食事処 たねいち・山本商店・国虎商店（築地4丁目。築地市場駅 徒歩5分）。月島には焼肉酒家 傳々（月島駅 徒歩4分）、勝どきには『西園寺さんは家事をしない』の勝どき ひょうたん（勝どき駅 徒歩1分）、銀座には三笠会館（銀座駅 徒歩1分）。</li>
   <li><strong>麻布台・六本木・西麻布・芝公園</strong>：『6SixTONES』の麺尊 RAGE（虎ノ門ヒルズ駅 徒歩3分）と希須林 麻布台、牛牛 西麻布 総本店（六本木駅 徒歩10分）、中國名菜「孫」六本木店、ル・パン・コティディアン 芝公園店。</li>
   <li><strong>清澄白河</strong>：『めざましテレビ』のle bois（清澄白河駅 徒歩8分）とPARK STAND TOKYO 清澄白河（同 徒歩4分）。</li>
   <li><strong>戸越銀座</strong>：『モニタリング×アニマリング』の炭火ホルモン焼のネバーランドとつづみ団子（どちらも品川区戸越2丁目）。</li>
   <li><strong>深大寺（調布）</strong>：鬼太郎茶屋と松葉茶屋。「in三鷹・吉祥寺」の回で髙地優吾・松村北斗が立ち寄ったお店です。</li>
-  <li><strong>横浜</strong>：上海小籠包専門店 鵬天閣（元町・中華街駅 徒歩5分）・龍海飯店（同 徒歩2分）・香港飲茶専門店 西遊記と、赤レンガ倉庫のLA COCORICO（馬車道駅 徒歩14分）。新横浜ラーメン博物館は新横浜駅 徒歩2分です。</li>
+  <li><strong>横浜</strong>：上海小籠包専門店 鵬天閣（元町・中華街駅 徒歩5分）・龍海飯店（同 徒歩2分）・香港飲茶専門店 西遊記と、赤レンガ倉庫のLA COCORICO（馬車道駅 徒歩14分）。</li>
   <li><strong>熱海</strong>：『6SixTONES』の網元丸福・桜井商店（熱海駅前の商店街）と、CODA ROSSA（伊豆多賀駅 徒歩10分）。</li>
   <li><strong>名古屋</strong>：くるみ 新栄店（栄駅 徒歩8分）と、同じ東区の牛追道中。2つの打ち上げの会場です。</li>
-  <li><strong>秩父</strong>：豚みそ丼本舗 野さか（西武秩父駅 徒歩2分）、阿左美冷蔵 金崎本店（上長瀞駅 徒歩9分）、きのこの里 鈴加園。</li>
+  <li><strong>秩父</strong>：阿左美冷蔵 金崎本店（上長瀞駅 徒歩9分）、きのこの里 鈴加園。</li>
 </ul>
 
 <div class="pf-cta">
   <p>SixTONESのお店を、地図でぜんぶ見る</p>
-  <span>この記事の102軒のほかにも、SixTONESのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の98軒のほかにも、SixTONESのお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=sixtones&amp;view=map">地図でSixTONESのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.sixtones.u }}">SixTONESのお店一覧（グループのページ）</a>もどうぞ。</p>

@@ -12,7 +12,7 @@ thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"
 related_genres:
   - naniwa-cafe
   - naniwa-shokuji
-  - naniwa-ramen
+  - naniwa-yakiniku
 related_groups:
   - rosenbus-sweets
   - burari-sweets

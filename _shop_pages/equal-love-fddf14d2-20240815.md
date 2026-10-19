@@ -1,26 +1,7 @@
 ---
-layout: shop
-title: "=LOVEが行った「府中いちご狩り園」"
-description: "=LOVEの佐々木舞香と山本杏奈が、2人のYouTube「イコラブのあんまい」の「【完全プライベート】あんまいでいちごを狩る」（2023年4月）で訪れたいちご狩り園。"
+layout: redirect
 shop_id: "equal_love-fddf14d2-20240815"
-name: "府中いちご狩り園"
-genre: "shokuji"
-prefecture: "東京都"
-city: "府中市"
-address: "東京都府中市美好町３丁目１６−２"
-visited_date: "2023-04-12"
-youtube_id: "aD0Q4-d-Ntg"
-source_video_title: "【完全プライベート】あんまいでいちごを狩る"
-source_url: "https://miruwz7.blog.jp/archives/25164678.html"
-group: "equal_love"
-tabelog_url: "https://tabelog.com/tokyo/A1326/A132602/13243991/"
-visit_kind: "youtube"
-program: "イコラブのあんまい"
-lat: 35.6700214
-lng: 139.4652109
-members:
-  - "佐々木舞香"
-  - "山本杏奈"
-groups:
-  - "equal_love"
+redirect_to: "/groups/equal-love/"
+redirect_label: "=LOVEのお店のページ"
+sitemap: false
 ---

@@ -21,12 +21,6 @@ visit_kind: "own_tv"
 program: "嵐にしやがれ"
 lat: 35.6736817
 lng: 139.7611853
-members:
-  - "大野智"
-  - "櫻井翔"
-  - "相葉雅紀"
-  - "二宮和也"
-  - "松本潤"
 groups:
   - "arashi"
 ---

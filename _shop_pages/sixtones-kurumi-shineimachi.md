@@ -1,14 +1,13 @@
 ---
 layout: shop
-title: "SixTONESが行った「くるみ 新栄店」"
+title: "SixTONESが行った「くるみ」"
 description: "SixTONESの公式YouTube「ドーム公演の裏側話しちゃいます」（2024年4月）で、6人がドーム公演の打ち上げをした名古屋の居酒屋。"
 shop_id: "sixtones-kurumi-shineimachi"
-name: "くるみ 新栄店"
+name: "くるみ"
 genre: "izakaya"
 prefecture: "愛知県"
 city: "名古屋市東区"
-address: "愛知県名古屋市東区新栄1-3-24"
-nearest_station: "栄駅 徒歩8分"
+address: "愛知県名古屋市中区新栄2-1-44"
 visited_date: "2024-04-26"
 youtube_id: "1enHsuNGPMQ"
 source_video_title: "SixTONES【ドーム公演の裏側話しちゃいます】波乱の打ち上げ...ありのまま！"
@@ -19,8 +18,8 @@ tabelog_url: "https://tabelog.com/aichi/A2303/A230301/23064111/"
 thumbnail_url: "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg"
 visit_kind: "youtube"
 program: "ストチューブ（SixTONES公式YouTube）"
-lat: 35.167743
-lng: 136.913842
+lat: 35.168999
+lng: 136.919983
 members:
   - "ジェシー"
   - "京本大我"

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "King & Princeの聖地巡礼・ロケ地まとめ｜キントレ・キンプる・出演番組で行った東京のご飯ほか151軒"
+title: "King & Princeの聖地巡礼・ロケ地まとめ｜キントレ・キンプる・出演番組で行った東京のご飯ほか145軒"
 date: 2026-05-25
 last_modified_at: 2026-10-13
-description: "King & Prince（永瀬廉・髙橋海人）の聖地巡礼・ロケ地151軒のまとめ。冠番組『キントレ』の炊飯器の旅・バイトレ、『King & Princeる。』、VS魂・笑ってコラえて！などの出演番組で行ったお店、ドラマのロケ地、当たり前レストランでスタジオに料理が出たお店を分けて、回・メンバー・食べたもの・エリアつきで。"
+description: "King & Prince（永瀬廉・髙橋海人）の聖地巡礼・ロケ地145軒のまとめ。冠番組『キントレ』の炊飯器の旅・バイトレ、『King & Princeる。』、VS魂・笑ってコラえて！などの出演番組で行ったお店、ドラマのロケ地、当たり前レストランでスタジオに料理が出たお店を分けて、回・メンバー・食べたもの・エリアつきで。"
 group: kingprince
 genre: まとめ
 article_type: matome
@@ -21,9 +21,9 @@ sources:
   - label: "確認に使った資料：しりたいつづき（番組の放送日・登場したお店を記録したファンのブログ）"
     url: "https://tsuzuki-fam.com/"
 summary:
-  - "King & Princeのお店151軒を、出典ごとに。冠番組『キントレ』49軒・『King & Princeる。』4軒、出演番組41軒、アルバムの映像・SNS4軒、ドラマのロケ地11軒"
-  - "「当たり前レストラン」の42軒は、スタジオに料理が出題されたお店（店に行ったのではない）として分けて掲載"
-  - "東京都が90軒（渋谷区14・港区13・品川区11・中央区10ほか）。神奈川14軒・大阪10軒など14都府県"
+  - "King & Princeのお店145軒を、出典ごとに。冠番組『キントレ』49軒・『King & Princeる。』4軒、出演番組41軒、アルバムの映像・SNS4軒、ドラマのロケ地11軒"
+  - "「当たり前レストラン」の36軒は、スタジオに料理が出題されたお店（店に行ったのではない）として分けて掲載"
+  - "東京都が84軒（港区12・渋谷区11・品川区11・中央区9ほか）。神奈川14軒・大阪10軒など14都府県"
   - "回・出たメンバー・食べたものを載せ、東京は街ごとに巡れるように"
 shop_ids:
   - kingprince-fb2b6baa-20220807
@@ -133,9 +133,6 @@ shop_ids:
   - kingprince-dd03f0e4-
   - kingprince-6a87d740-
   - kingprince-d94dcf02-
-  - kingprince-6fc6f3d9-20220618
-  - kingprince-516fb6ba-20220618
-  - kingprince-9ca66867-20220618
   - kingprince-f9639215-20220813
   - kingprince-dc646f2a-20220813
   - kingprince-8c0bf4f0-20220813
@@ -164,9 +161,6 @@ shop_ids:
   - kingprince-47c41cd2-20230304
   - kingprince-3a9cda24-20230304
   - kingprince-41fc4dc8-20230304
-  - kingprince-174af58e-20230311
-  - kingprince-2b00f277-20230311
-  - kingprince-531da9bd-20230311
   - kingprince-8b0ad08d-20230429
   - kingprince-9caaae7c-20230429
   - kingprince-ddabeb42-20230429
@@ -181,9 +175,9 @@ faq:
   - q: "King & Princeが行ったお店はどこですか？"
     a: "冠番組『キントレ』（髙橋海人の「炊飯器の旅」20軒、「バイトレ」9軒など）と『King & Princeる。』のロケ、VS魂・笑ってコラえて！・プレミセ！・ゴチになりますなどの出演番組、ベストアルバム『Mr.5』の特典映像「熱海小旅行」などでメンバーが訪れたお店があります。この記事では、ドラマのロケ地と、スタジオに料理が出た「当たり前レストラン」のお店も、訪問とは分けて載せています。"
   - q: "東京で巡りやすいのはどこですか？"
-    a: "この記事の151軒のうち90軒が東京都です。銀座・有楽町には『キントレ』まかないハンターのGINZA ABCラーメンとEL CHATEO 銀座店、バイトレの吉野家 有楽町店、戸越銀座には「痩せの大食い三銃士！」の5軒、新大久保には岸優太（当時のメンバー）がVS魂で訪れたSNOWY VILLAGEとCOZY PLACEが近くにまとまっています。"
+    a: "この記事の145軒のうち84軒が東京都です。銀座・有楽町には『キントレ』まかないハンターのGINZA ABCラーメンとEL CHATEO 銀座店、バイトレの吉野家 有楽町店、戸越銀座には「痩せの大食い三銃士！」の5軒、新大久保には岸優太（当時のメンバー）がVS魂で訪れたSNOWY VILLAGEとCOZY PLACEが近くにまとまっています。"
   - q: "「当たり前レストラン」のお店には、メンバーが行ったのですか？"
-    a: "いいえ。『King & Princeる。』と『キントレ』の「当たり前レストラン」は、お店の料理がスタジオに出題され、料理名を当てたメンバーが試食する企画です。この記事の「スタジオに料理が登場したお店」の42軒は、メンバーが店に行ったお店ではありません。ただし、2023年5月20日放送のゴールデン2時間SPの「当たり前レストラン」は、恵比寿のジョエル・ロブションで収録されました。"
+    a: "いいえ。『King & Princeる。』と『キントレ』の「当たり前レストラン」は、お店の料理がスタジオに出題され、料理名を当てたメンバーが試食する企画です。この記事の「スタジオに料理が登場したお店」の36軒は、メンバーが店に行ったお店ではありません。ただし、2023年5月20日放送のゴールデン2時間SPの「当たり前レストラン」は、恵比寿のジョエル・ロブションで収録されました。"
   - q: "メンバーが出演したドラマのロケ地はありますか？"
     a: "永瀬廉が主演した『東京タワー』（テレビ朝日、2024年）の4軒、永瀬廉が出演した『厨房のありす』（日本テレビ、2024年）の2軒、髙橋海人が出演した『だが、情熱はある』（日本テレビ、2023年）の4軒と『わが家は楽し』（2025年）の1軒です。撮影に使われたお店で、メンバーが食べに行ったお店ではありません。"
   - q: "平野紫耀・神宮寺勇太・岸優太が出ている回のお店も載っていますか？"
@@ -194,7 +188,7 @@ pr: true
 techo: true
 cover_ids: "kingprince-a5f71e02-,kingprince-70f61cc7-,kingprince-9f60d755-"
 cover_title: "King & Prince 聖地巡礼帳"
-cover_sub: "キントレ・キンプる・出演番組の151軒"
+cover_sub: "キントレ・キンプる・出演番組の145軒"
 courses:
   - title: "丸の内から築地へ：キントレの銀座かいわい"
     stops: [kingprince-a5f71e02-, kingprince-70f61cc7-, kingprince-ginza_abc-, kingprince-f30d7811-]
@@ -209,16 +203,16 @@ stay_inline: true
 
 <p>King &amp; Princeは、いま<strong>永瀬廉・髙橋海人</strong>の2人で活動しています。2023年5月までは<strong>平野紫耀・神宮寺勇太・岸優太</strong>も在籍していて、その時期の番組には5人の名前が並びます（この記事では「当時のメンバー」と書いています）。お店が出てくるのは、冠番組の『King &amp; Princeる。』と『キントレ』（どちらも日本テレビ）、メンバーが出演したバラエティ番組、アルバムの特典映像、そしてドラマの撮影です。</p>
 
-<p>なかでも多いのは、『キントレ』で髙橋海人が炊飯器ひとつを持って各地を回る「炊飯器の旅」と、2人がお店で働く「バイトレ」。一方、「当たり前レストラン」はお店の料理がスタジオに出てくる企画で、メンバーはお店には行っていません。この記事では<strong>151軒</strong>を、出典ごとに分けてまとめました。</p>
+<p>なかでも多いのは、『キントレ』で髙橋海人が炊飯器ひとつを持って各地を回る「炊飯器の旅」と、2人がお店で働く「バイトレ」。一方、「当たり前レストラン」はお店の料理がスタジオに出てくる企画で、メンバーはお店には行っていません。この記事では<strong>145軒</strong>を、出典ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組「King &amp; Princeる。」<small>4軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「キントレ」<small>49軒</small></span></a><a href="#src3">{% include chico.html kind="guest" %}<span>出演した番組<small>41軒</small></span></a><a href="#src4">{% include chico.html kind="other" %}<span>アルバムの映像・SNSに出てきたお店<small>4軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>11軒</small></span></a><a href="#src6">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>42軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="tv" %}<span>冠番組「King &amp; Princeる。」<small>4軒</small></span></a><a href="#src2">{% include chico.html kind="tv" %}<span>冠番組「キントレ」<small>49軒</small></span></a><a href="#src3">{% include chico.html kind="guest" %}<span>出演した番組<small>41軒</small></span></a><a href="#src4">{% include chico.html kind="other" %}<span>アルバムの映像・SNSに出てきたお店<small>4軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>11軒</small></span></a><a href="#src6">{% include chico.html kind="studio" %}<span>スタジオに料理が登場したお店<small>36軒</small></span></a></div>
 </div>
 {% include matome-members.html group="kingprince" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>151軒のなかから、東京で行きやすく、いまの2人（永瀬廉・髙橋海人）が実際にお店へ行った回を3つ選びました。</p>
+<p>145軒のなかから、東京で行きやすく、いまの2人（永瀬廉・髙橋海人）が実際にお店へ行った回を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="kingprince-70f61cc7-" no="其の一" why="『キントレ』の「バイトレ」（2023年7月22日放送）で、永瀬廉が働いた吉野家の店舗。お店は東京の有楽町です。" %}
 {% include pick.html id="kingprince-f30d7811-" no="其の二" why="『キントレ』の「バイトレ」（2025年6月28日放送）で、髙橋海人が働いた築地銀だこの本店。お店は東京の築地です。" %}
@@ -237,7 +231,7 @@ stay_inline: true
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の42軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>メンバーが実際に足を運んだお店でいちばん多いのは、髙橋海人の「炊飯器の旅」の20軒。秩父・笠間・日光・南アルプス・沼津・勝浦と、関東とその近くの県を回っています。東京では、銀座・有楽町、渋谷・原宿、恵比寿・目黒、戸越銀座にお店がまとまっています。「当たり前レストラン」の36軒はスタジオに料理が出たお店なので、訪問した店とは分けて紹介します。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -429,11 +423,8 @@ stay_inline: true
 <h2 id="src6">{% include chico.html kind="studio" %}スタジオに料理が登場したお店</h2>
 <p>『King &amp; Princeる。』と『キントレ』の<strong>「当たり前レストラン」</strong>は、お店の料理がスタジオに出題され、料理名を当てたメンバーが試食するクイズ企画です。<strong>メンバーがお店に行ったわけではありません。</strong>料理と正解したメンバーは、わかっている回だけ載せています。2022〜2023年の放送は5人が在籍していたころで、平野紫耀・神宮寺勇太・岸優太は当時のメンバーです。スタジオの進行は劇団ひとり・山崎弘也です。</p>
 
-<h3>『King &amp; Princeる。』2022年6月〜9月（14軒）</h3>
+<h3>『King &amp; Princeる。』2022年6月〜9月（11軒）</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kingprince-6fc6f3d9-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">ピアット・スズキ（麻布十番）</b><span class="wr__t">料理が出題されたイタリア料理店</span>{% include wr-close.html id="kingprince-6fc6f3d9-20220618" %}</li>
-  <li class="wr">{% include wr-open.html id="kingprince-516fb6ba-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">陳家私菜 渋谷店</b><span class="wr__t">料理が出題された中華料理店</span>{% include wr-close.html id="kingprince-516fb6ba-20220618" %}</li>
-  <li class="wr">{% include wr-open.html id="kingprince-9ca66867-20220618" %}<span class="wr__k">2022<br>6.18</span><b class="wr__name">ブーランジェリー&amp;カフェ マンマーノ（代々木上原）</b><span class="wr__t">料理が出題されたベーカリーカフェ</span>{% include wr-close.html id="kingprince-9ca66867-20220618" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-f9639215-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">奥渋 魚力</b><span class="wr__t">あじなめろう定食／正解した5人が試食</span>{% include wr-close.html id="kingprince-f9639215-20220813" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-dc646f2a-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">沖縄懐石 赤坂潭亭</b><span class="wr__t">ラフテー／正解：平野紫耀・髙橋海人</span>{% include wr-close.html id="kingprince-dc646f2a-20220813" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-8c0bf4f0-20220813" %}<span class="wr__k">2022<br>8.13</span><b class="wr__name">チャオタイ 銀座店</b><span class="wr__t">ガパオライス／正解：永瀬廉・神宮寺勇太・岸優太</span>{% include wr-close.html id="kingprince-8c0bf4f0-20220813" %}</li>
@@ -465,15 +456,12 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="kingprince-presquile_chocolater-20221210" %}<span class="wr__k">2022<br>12.10</span><b class="wr__name">PRESQU’ILE chocolaterie（吉祥寺）</b><span class="wr__t">フォンダンショコラ／正解：髙橋海人・岸優太</span>{% include wr-close.html id="kingprince-presquile_chocolater-20221210" %}</li>
 </ul>
 
-<h3>『King &amp; Princeる。』2023年3月〜5月（11軒）</h3>
+<h3>『King &amp; Princeる。』2023年3月〜5月（8軒）</h3>
 <p>3月4日は高級料理のスペシャルでした。5月20日のゴールデン2時間SPの「当たり前レストラン」は、スタジオではなく恵比寿のジョエル・ロブションで収録されています（ゲストは満島ひかり）。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kingprince-47c41cd2-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">ビストロカニッシュ（目黒）</b><span class="wr__t">ブイヤベース／正解：神宮寺勇太</span>{% include wr-close.html id="kingprince-47c41cd2-20230304" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-3a9cda24-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">天然とらふぐ専門 六本木浜藤</b><span class="wr__t">てっちり／正解：永瀬廉・髙橋海人</span>{% include wr-close.html id="kingprince-3a9cda24-20230304" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-41fc4dc8-20230304" %}<span class="wr__k">2023<br>3.4</span><b class="wr__name">ブラッスリー ポール・ボキューズ 銀座</b><span class="wr__t">ロッシーニ／正解：髙橋海人・神宮寺勇太</span>{% include wr-close.html id="kingprince-41fc4dc8-20230304" %}</li>
-  <li class="wr">{% include wr-open.html id="kingprince-174af58e-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">ラ・ベットラ・ダ・オチアイ（銀座）</b><span class="wr__t">料理が出題されたイタリア料理店</span>{% include wr-close.html id="kingprince-174af58e-20230311" %}</li>
-  <li class="wr">{% include wr-open.html id="kingprince-2b00f277-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">エビス バインミー ベーカリー</b><span class="wr__t">料理が出題されたバインミーの店</span>{% include wr-close.html id="kingprince-2b00f277-20230311" %}</li>
-  <li class="wr">{% include wr-open.html id="kingprince-531da9bd-20230311" %}<span class="wr__k">2023<br>3.11</span><b class="wr__name">パティシエ シマ（麹町）</b><span class="wr__t">料理が出題された洋菓子店</span>{% include wr-close.html id="kingprince-531da9bd-20230311" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-8b0ad08d-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">マッサマン タイキッチン（神奈川県大磯町）</b><span class="wr__t">料理が出題されたタイ料理店</span>{% include wr-close.html id="kingprince-8b0ad08d-20230429" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-9caaae7c-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">桂屋（中野区）</b><span class="wr__t">料理が出題された飲食店</span>{% include wr-close.html id="kingprince-9caaae7c-20230429" %}</li>
   <li class="wr">{% include wr-open.html id="kingprince-ddabeb42-20230429" %}<span class="wr__k">2023<br>4.29</span><b class="wr__name">千とせ 本店（大阪・難波）</b><span class="wr__t">料理が出題された飲食店</span>{% include wr-close.html id="kingprince-ddabeb42-20230429" %}</li>
@@ -493,21 +481,21 @@ stay_inline: true
 <h2>King &amp; Princeの聖地 年表</h2>
 <p>放送・公開された時期ごとに、どの番組でお店が出てきたかを並べました。</p>
 <div class="faq"><details><summary>年表をひらく（2022年6月〜2026年3月）</summary>
-<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/timeline.svg" alt="King &amp; Princeの聖地 年表（放送・公開の時期ごとの軒数）。2022年6月〜12月：『King &amp; Princeる。』当たり前レストラン（スタジオに料理が出たお店）28軒。2023年1月〜4月：元旦SPの名古屋、道の駅3品クッキング、当たり前レストラン、VS魂 背徳グルメ第2弾の18軒。2023年5月：VS魂 背徳グルメ第3弾と渋谷SP、ゴールデン2時間SPの9軒。2023年5月に平野紫耀・神宮寺勇太・岸優太が脱退。2023年7月〜12月：キントレのバイトレ・炊飯器の旅・ピンキリ調査・まかないハンター、プレミセ！の滋賀などの29軒。2023年：ドラマ『だが、情熱はある』とベストアルバム『Mr.5』の熱海小旅行の5軒。2024年1月〜6月：炊飯器の旅（沼津・日光・三浦）、キントレの当たり前レストラン、帰れマンデー見っけ隊!!などの16軒。2024年7月〜12月：笑ってコラえて！の大阪・福島などの10軒。2024年：ドラマ『厨房のありす』『東京タワー』の6軒。2025年1月〜6月：バイトレ、道の駅3品クッキング、炊飯器の旅、トークィーンズ、『わが家は楽し』の7軒。2025年7月〜12月：炊飯器の旅 藤沢、バイトレのスターバックス、キントレガイドブック、痩せの大食い三銃士！の14軒。2025年：『STARRING』の映像の2軒。2026年1月〜3月：モニタリング、アナザースカイ、炊飯器の旅 成田の5軒" width="420" height="1462" loading="lazy" decoding="async"><figcaption>放送日は推しグルメ巡礼MAPのデータ（番組を記録したファンのブログをもとに確かめたもの）より。ドラマとアルバムの映像は年ごとにまとめました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/timeline.svg" alt="King &amp; Princeの聖地 年表（放送・公開の時期ごとの軒数）。2022年6月〜12月：『King &amp; Princeる。』当たり前レストラン（スタジオに料理が出たお店）25軒。2023年1月〜4月：元旦SPの名古屋、道の駅3品クッキング、当たり前レストラン、VS魂 背徳グルメ第2弾の15軒。2023年5月：VS魂 背徳グルメ第3弾と渋谷SP、ゴールデン2時間SPの9軒。2023年5月に平野紫耀・神宮寺勇太・岸優太が脱退。2023年7月〜12月：キントレのバイトレ・炊飯器の旅・ピンキリ調査・まかないハンター、プレミセ！の滋賀などの29軒。2023年：ドラマ『だが、情熱はある』とベストアルバム『Mr.5』の熱海小旅行の5軒。2024年1月〜6月：炊飯器の旅（沼津・日光・三浦）、キントレの当たり前レストラン、帰れマンデー見っけ隊!!などの16軒。2024年7月〜12月：笑ってコラえて！の大阪・福島などの10軒。2024年：ドラマ『厨房のありす』『東京タワー』の6軒。2025年1月〜6月：バイトレ、道の駅3品クッキング、炊飯器の旅、トークィーンズ、『わが家は楽し』の7軒。2025年7月〜12月：炊飯器の旅 藤沢、バイトレのスターバックス、キントレガイドブック、痩せの大食い三銃士！の14軒。2025年：『STARRING』の映像の2軒。2026年1月〜3月：モニタリング、アナザースカイ、炊飯器の旅 成田の5軒" width="420" height="1462" loading="lazy" decoding="async"><figcaption>放送日は推しグルメ巡礼MAPのデータ（番組を記録したファンのブログをもとに確かめたもの）より。ドラマとアルバムの映像は年ごとにまとめました</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他64軒、食事31軒、カフェ22軒、和食12軒、居酒屋8軒、スイーツ6軒、ラーメン4軒、焼肉・中華2軒ずつ。場所は渋谷区14軒、港区13軒、品川区11軒、千代田区・中央区10軒ずつ、大阪市9軒、目黒区6軒、大津市5軒、藤沢市・大田区・台東区・新宿区4軒ずつ、秩父市・南アルプス市・船橋市3軒ずつ、ほかは2軒以下の市区町村" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の151軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他64軒、食事28軒、カフェ20軒、和食12軒、居酒屋8軒、スイーツ5軒、ラーメン4軒、焼肉・中華2軒ずつ。場所は港区12軒、渋谷区・品川区11軒ずつ、千代田区・中央区9軒ずつ、大阪市9軒、目黒区6軒、大津市5軒、藤沢市・大田区・台東区・新宿区4軒ずつ、秩父市・南アルプス市・船橋市3軒ずつ、ほかは2軒以下の市区町村" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の145軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
-<h2>エリアで巡るなら：まずは東京（90軒）</h2>
-<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区14軒、港区13軒、品川区11軒、千代田区10軒、中央区10軒など。23区の外は神奈川県14軒、千葉県6軒、東京の市部・島6軒、埼玉県4軒、そのほかの道府県37軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<h2>エリアで巡るなら：まずは東京（84軒）</h2>
+<figure class="fig"><img src="/assets/img/posts/kingprince-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区12軒、品川区11軒、渋谷区11軒、千代田区9軒、中央区9軒など。23区の外は神奈川県14軒、千葉県6軒、東京の市部・島6軒、埼玉県4軒、そのほかの道府県37軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>「当たり前レストラン」のお店は、メンバーが行ったお店ではなく、料理がスタジオに出たお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
-  <li><strong>銀座・有楽町・築地・日本橋（12軒）</strong>：キントレのまかないハンターのGINZA ABCラーメン（銀座3丁目）とEL CHATEO 銀座店（銀座駅 徒歩3分）、バイトレの吉野家 有楽町店と築地銀だこ 本店（築地市場駅 徒歩6分）、ブンブブーンのくわっち〜家（日本橋堀留町）。当たり前レストランのフレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Andhra Dining GINZA（銀座一丁目駅 徒歩3分）・チャオタイ 銀座店・ブラッスリー ポール・ボキューズ 銀座・ラ・ベットラ・ダ・オチアイ・88（有楽町1丁目）・富錦樹台菜香檳（日本橋室町）。</li>
-  <li><strong>丸の内・麹町・神田（8軒）</strong>：ピンキリ調査の臼杵ふぐ 山田屋 丸の内（丸ビル）、ゴチになりますのARGO（麹町1丁目）、モニタリングのフクモリ（東神田）とTRATTORIA ISSEI（内神田）、『わが家は楽し』のシェ・カザマ（一番町）。当たり前レストランのSarabeth’s（東京駅 徒歩1分）・パティシエ シマ（麹町駅 徒歩2分）・赤坂 四川飯店（永田町駅 徒歩4分）。</li>
-  <li><strong>渋谷・原宿・表参道・青山（14軒）</strong>：VS魂の吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店・牡蠣海鮮 かいり（どちらも道玄坂2丁目）とロクシタンカフェ（渋谷駅 徒歩2分）。ドラマのロケ地の意気な寿し処阿部 青山店（神宮前5丁目）・リストランテサバティーニ青山（外苑前駅 徒歩3分）・TRATTORIA PER BACCO（青山一丁目駅 徒歩6分）。当たり前レストランの陳家私菜 渋谷店（渋谷駅 徒歩7分）・奥渋 魚力（代々木公園駅 徒歩9分）・CAVA CAVALLO とブレッツカフェ クレープリー（明治神宮前〈原宿〉駅 徒歩9分）・バルバッコア 青山本店（神宮前4丁目）・EATALY 原宿店（神宮前1丁目）・RACINES DONUT&amp;ICE CREAM（表参道駅 徒歩2分）・ブーランジェリー&amp;カフェ マンマーノ（代々木上原駅 徒歩3分）。</li>
-  <li><strong>恵比寿・広尾・中目黒・目黒（12軒）</strong>：バイトレのスターバックス コーヒー 目黒店（目黒駅 徒歩2分）・目黒セントラルスクエア店（上大崎3丁目）・STARBUCKS RESERVE ROASTERY TOKYO（青葉台2丁目）、トークィーンズのFRAMES CAFE（中目黒駅 徒歩2分）、『だが、情熱はある』のPAPAS CAFE（広尾2丁目）。当たり前レストランの韓国食堂 入ル 坂上ル とエビス バインミー ベーカリー（恵比寿駅 徒歩3分）、ジョエル・ロブション（恵比寿駅 徒歩10分）、ICARO miyamoto（中目黒駅 徒歩5分）、Pizzeria e trattoria da ISA（青葉台1丁目）、CABE（目黒駅 徒歩4分）、ビストロカニッシュ（目黒駅 徒歩6分）。</li>
-  <li><strong>六本木・麻布十番・赤坂・白金（6軒）</strong>：永瀬廉がInstagramに載せたBricolage bread &amp; co.（六本木駅 徒歩8分）、VS魂のワインバー nomuno（赤坂3丁目）、まかないハンターの私厨房 勇（白金6丁目）。当たり前レストランの天然とらふぐ専門 六本木浜藤（六本木駅 徒歩1分）・ピアット・スズキ（麻布十番駅 徒歩2分）・沖縄懐石 赤坂潭亭（赤坂駅 徒歩8分）。</li>
+  <li><strong>銀座・有楽町・築地・日本橋（11軒）</strong>：キントレのまかないハンターのGINZA ABCラーメン（銀座3丁目）とEL CHATEO 銀座店（銀座駅 徒歩3分）、バイトレの吉野家 有楽町店と築地銀だこ 本店（築地市場駅 徒歩6分）、ブンブブーンのくわっち〜家（日本橋堀留町）。当たり前レストランのフレデリック カッセル 銀座三越店（銀座駅 徒歩1分）・Andhra Dining GINZA（銀座一丁目駅 徒歩3分）・チャオタイ 銀座店・ブラッスリー ポール・ボキューズ 銀座・88（有楽町1丁目）・富錦樹台菜香檳（日本橋室町）。</li>
+  <li><strong>丸の内・麹町・神田（7軒）</strong>：ピンキリ調査の臼杵ふぐ 山田屋 丸の内（丸ビル）、ゴチになりますのARGO（麹町1丁目）、モニタリングのフクモリ（東神田）とTRATTORIA ISSEI（内神田）、『わが家は楽し』のシェ・カザマ（一番町）。当たり前レストランのSarabeth’s（東京駅 徒歩1分）・赤坂 四川飯店（永田町駅 徒歩4分）。</li>
+  <li><strong>渋谷・原宿・表参道・青山（12軒）</strong>：VS魂の吉祥寺 肉ドレス海鮮丼 渋谷道玄坂店・牡蠣海鮮 かいり（どちらも道玄坂2丁目）とロクシタンカフェ（渋谷駅 徒歩2分）。ドラマのロケ地の意気な寿し処阿部 青山店（神宮前5丁目）・リストランテサバティーニ青山（外苑前駅 徒歩3分）・TRATTORIA PER BACCO（青山一丁目駅 徒歩6分）。当たり前レストランの奥渋 魚力（代々木公園駅 徒歩9分）・CAVA CAVALLO とブレッツカフェ クレープリー（明治神宮前〈原宿〉駅 徒歩9分）・バルバッコア 青山本店（神宮前4丁目）・EATALY 原宿店（神宮前1丁目）・RACINES DONUT&amp;ICE CREAM（表参道駅 徒歩2分）。</li>
+  <li><strong>恵比寿・広尾・中目黒・目黒（11軒）</strong>：バイトレのスターバックス コーヒー 目黒店（目黒駅 徒歩2分）・目黒セントラルスクエア店（上大崎3丁目）・STARBUCKS RESERVE ROASTERY TOKYO（青葉台2丁目）、トークィーンズのFRAMES CAFE（中目黒駅 徒歩2分）、『だが、情熱はある』のPAPAS CAFE（広尾2丁目）。当たり前レストランの韓国食堂 入ル 坂上ル（恵比寿駅 徒歩3分）、ジョエル・ロブション（恵比寿駅 徒歩10分）、ICARO miyamoto（中目黒駅 徒歩5分）、Pizzeria e trattoria da ISA（青葉台1丁目）、CABE（目黒駅 徒歩4分）、ビストロカニッシュ（目黒駅 徒歩6分）。</li>
+  <li><strong>六本木・赤坂・白金（5軒）</strong>：永瀬廉がInstagramに載せたBricolage bread &amp; co.（六本木駅 徒歩8分）、VS魂のワインバー nomuno（赤坂3丁目）、まかないハンターの私厨房 勇（白金6丁目）。当たり前レストランの天然とらふぐ専門 六本木浜藤（六本木駅 徒歩1分）・沖縄懐石 赤坂潭亭（赤坂駅 徒歩8分）。</li>
   <li><strong>新橋・汐留・芝公園（4軒）</strong>：VS魂の居酒屋 うっちゃり（新橋2丁目）と韓国屋台ハンサム 汐留店（東新橋1丁目）、ゴチになりますのThe Place of Tokyo TANGO（芝公園3丁目）、当たり前レストランの香味（新橋駅 徒歩3分）。</li>
   <li><strong>戸越銀座・五反田・武蔵小山（8軒）</strong>：痩せの大食い三銃士！のななかふぇ 戸越銀座・かたばみ精肉店（豊町1丁目）とおにぎり戸越屋・後藤かまぼこ店（戸越2丁目）、らーめん えにし（平塚2丁目）。VS魂の大衆食堂スタンド そのだ 五反田店（五反田駅 徒歩3分）。当たり前レストランのLa TRIPLETTA（武蔵小山駅 徒歩2分）とピッツェリア ダ グランツァ 洗足本店（目黒区洗足）。</li>
   <li><strong>新大久保・神楽坂（4軒）</strong>：VS魂のSNOWY VILLAGE（新大久保駅 徒歩3分）とCOZY PLACE（新大久保駅 徒歩2分）、『だが、情熱はある』の広島っ子（飯田橋駅 徒歩5分）、当たり前レストランの韓国家庭料理ハレルヤ（新大久保駅 徒歩5分）。</li>

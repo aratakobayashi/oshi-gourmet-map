@@ -21,12 +21,6 @@ visit_kind: "own_tv"
 program: "King & Princeる。（当たり前レストラン）"
 lat: 35.6745331187211
 lng: 139.76903003431494
-members:
-  - "平野紫耀"
-  - "永瀬廉"
-  - "髙橋海人"
-  - "岸優太"
-  - "神宮寺勇太"
 groups:
   - "kingprince"
 ---

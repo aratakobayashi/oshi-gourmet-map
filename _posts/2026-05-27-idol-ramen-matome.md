@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "アイドル・芸能人が行ったラーメン・麺のお店まとめ【73軒】一蘭に3組・孤独のグルメから亀梨和也のひとりラーメンまで12組"
-description: "孤独のグルメ・亀梨和也・=LOVE・よにのちゃんねる・≒JOY・乃木坂46など12組の動画や番組に登場したラーメン・うどん・そばのお店73軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。一蘭や新横浜ラーメン博物館のように何組も訪れたお店、20道府県に広がる場所は図でひと目で。"
+title: "アイドル・芸能人が行ったラーメン・麺のお店まとめ【70軒】一蘭に3組・孤独のグルメから亀梨和也のひとりラーメンまで12組"
+description: "孤独のグルメ・亀梨和也・=LOVE・よにのちゃんねる・≒JOY・乃木坂46など12組の動画や番組に登場したラーメン・うどん・そばのお店70軒を、グループごとに動画の回・タイトル・注文したものと一緒にまとめました。一蘭やみそきんのように何組も訪れたお店、19道府県に広がる場所は図でひと目で。"
 date: 2026-05-27
 last_modified_at: 2026-10-10
 categories: [グルメ, ラーメン]
@@ -10,9 +10,9 @@ article_type: genre
 genre: ラーメン
 thumbnail_video_id: hLEUaWy6_kU
 summary:
-  - "12組のグループ・番組に登場したラーメン・麺のお店73軒。孤独のグルメ24軒、亀梨和也11軒、=LOVE 9軒"
-  - "一蘭には、よにのちゃんねる・亀梨和也・=LOVEの3組（店舗は別）。新横浜ラーメン博物館には2組"
-  - "73軒のうち35軒は東京都の外。鳥取・宮崎・福岡・名古屋・香川など20道府県に広がる"
+  - "12組のグループ・番組に登場したラーメン・麺のお店70軒。孤独のグルメ24軒、亀梨和也11軒、=LOVE 9軒"
+  - "一蘭には、よにのちゃんねる・亀梨和也・=LOVEの3組（店舗は別）。みそきんには2組"
+  - "70軒のうち33軒は東京都の外。鳥取・宮崎・福岡・名古屋・香川など19道府県に広がる"
   - "≒JOYの「ニアジョイらーめん部」や=LOVE大谷映美里さんの「ラー活」など、ラーメンの企画も"
 shop_ids:
   - kodoku_no_gurume-4584ecd5-
@@ -41,7 +41,6 @@ shop_ids:
   - kodoku_no_gurume-287cf4f8-
   - nogizaka46-84c802d9-
   - nogizaka46-9be54ae5-
-  - nogizaka46-7b18f3dd-
   - kamenashi-6606003d-202407
   - kamenashi-e27eb84b-202404
   - kamenashi-7cbda6f7-202404
@@ -73,13 +72,11 @@ shop_ids:
   - neajoy-403503b7-202408
   - neajoy-085d4b4a-202506
   - neajoy-6ad11682-202604
-  - sixtones-ramen-hakubutsukan
   - sixtones-7c39702f-
   - sixtones-sano-sa-foodcourt
   - snowman-abura-gakkai-waseda
   - snowman-ekawatei-koganei
   - snowman-2b4ef35a-20260129
-  - naniwa-b723a30f-202107
   - naniwa-795165bd-20220520
   - naniwa-56665469-20211217
   - naniwa-269b1b4d-20220708
@@ -90,36 +87,36 @@ shop_ids:
   - shiori-aa5f64ad-20240605
 faq:
   - q: "アイドル・芸能人が行ったラーメン店は、どのグループのお店が多いですか？"
-    a: "この記事の73軒では、孤独のグルメが24軒で最も多く、亀梨和也が11軒、=LOVEが9軒、よにのちゃんねるが6軒、≒JOYが5軒、なにわ男子が4軒です。"
+    a: "この記事の70軒では、孤独のグルメが24軒で最も多く、亀梨和也が11軒、=LOVEが9軒、よにのちゃんねるが6軒、≒JOYが5軒、Snow Man・なにわ男子・Hey! Say! JUMPが3軒ずつです。"
   - q: "何組も訪れたラーメン店はありますか？"
-    a: "一蘭には、よにのちゃんねる（中野店・#480）、亀梨和也（原宿店・Snow Manの宮舘涼太さんと）、=LOVEの大谷映美里さん（池袋店）が訪れています。新横浜ラーメン博物館には、よにのちゃんねる（#507・利尻らーめん味楽）とSixTONESが登場しています。みそきんには=LOVEと≒JOYが行っています。"
+    a: "一蘭には、よにのちゃんねる（中野店・#480）、亀梨和也（原宿店・Snow Manの宮舘涼太さんと）、=LOVEの大谷映美里さん（池袋店）が訪れています。みそきんには=LOVEと≒JOYが行っています。"
   - q: "亀梨和也さんはどんなラーメンを食べていますか？"
     a: "亀梨和也さんのYouTubeでは、初めての二郎系（自家製麺223）、宮崎の辛麺（辛麺屋桝元 赤江店）、京都の朝の鶏そば（鶏そば２２３）、福岡の屋台（屋台 ひでちゃんラーメン）、鳥取の牛骨ラーメン、盛岡冷麺などが登場しています。"
   - q: "孤独のグルメのラーメン・麺のお店は？"
     a: "この記事の孤独のグルメ24軒のうち19軒は麺を注文した回で、長崎飯店 渋谷店の皿うどん・ちゃんぽん、鳥取市役所 食堂のスラーメン、ちとせの伊勢うどん、味の五十番のカレーもやしラーメン定食などがあります。残りの5軒は、喫茶カラスのあんトーストなど麺以外を注文した回です。"
   - q: "推しが行ったラーメン店を地図で見られますか？"
-    a: "「お店を探す」でジャンルをラーメンにすると、この記事の73軒を含め、推しグルメ巡礼MAPに登録されているラーメン・麺のお店を地図で見られます。"
+    a: "「お店を探す」でジャンルをラーメンにすると、この記事の70軒を含め、推しグルメ巡礼MAPに登録されているラーメン・麺のお店を地図で見られます。"
 ---
 
 <div class="pf" style="--pc:#ca8a04">
 
 <p>朝ラー、深夜ラーメン、旅先のご当地麺。ラーメンは、推しが「ひとりで」「仕事終わりに」と素顔を見せてくれるジャンルです。</p>
 
-<p>この記事では、<strong>12組</strong>のグループ・番組の動画や放送に登場したラーメン・うどん・そばのお店<strong>73軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
+<p>この記事では、<strong>12組</strong>のグループ・番組の動画や放送に登場したラーメン・うどん・そばのお店<strong>70軒</strong>を、グループごとに動画の回とタイトル、注文したものと一緒にまとめました。</p>
 
 <h2>ひと目でわかる 推しのラーメン</h2>
 <div class="pf-card">
   <div class="pf-card__head">
     <small>アイドル・芸能人が行ったお店</small>
     <p class="pf-card__name">推しのラーメン</p>
-    <p class="pf-card__yomi">12組の動画・番組から73軒</p>
+    <p class="pf-card__yomi">12組の動画・番組から70軒</p>
     <span class="pf-card__color"><i></i>ラーメン・麺</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>73軒</dd></div>
+    <div><dt>お店の数</dt><dd>70軒</dd></div>
     <div><dt>グループ・番組</dt><dd>12組</dd></div>
     <div><dt>多いグループ</dt><dd>孤独のグルメ（24軒）</dd></div>
-    <div><dt>東京の外</dt><dd>35軒（20道府県）</dd></div>
+    <div><dt>東京の外</dt><dd>33軒（19道府県）</dd></div>
     <div><dt>3組が行った看板</dt><dd>一蘭</dd></div>
     <div><dt>ラーメンの企画</dt><dd>ニアジョイらーめん部・ラー活</dd></div>
   </dl>
@@ -128,32 +125,28 @@ faq:
 <div class="pf-nums">
   <div><b>73<small>軒</small></b><span>この記事のラーメン・麺のお店</span></div>
   <div><b>12<small>組</small></b><span>登場したグループ・番組</span></div>
-  <div><b>35<small>軒</small></b><span>東京都の外のお店（20道府県）</span></div>
+  <div><b>33<small>軒</small></b><span>東京都の外のお店（19道府県）</span></div>
   <div><b>{{ site.data.site_stats.genres.ramen }}<small>軒</small></b><span>このサイトに登録されているラーメンのお店ぜんぶ</span></div>
 </div>
 
 <h2>どのグループのラーメン？</h2>
 <p>いちばん多いのは孤独のグルメの24軒。亀梨和也の11軒、=LOVEの9軒が続きます。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-ramen-matome/groups.svg" alt="どのグループのラーメンか：孤独のグルメ24軒、亀梨和也11軒、=LOVE 9軒、よにのちゃんねる6軒、≒JOY 5軒、なにわ男子4軒、乃木坂46・SixTONES・Snow Man・Hey! Say! JUMPが3軒ずつ、日向坂46・しおりが1軒ずつ" width="420" height="568" loading="lazy" decoding="async"><figcaption>この記事の73軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/idol-ramen-matome/groups.svg" alt="どのグループのラーメンか：孤独のグルメ24軒、亀梨和也11軒、=LOVE 9軒、よにのちゃんねる6軒、≒JOY 5軒、なにわ男子・Snow Man・Hey! Say! JUMPが3軒ずつ、乃木坂46・SixTONESが2軒ずつ、日向坂46・しおりが1軒ずつ" width="420" height="568" loading="lazy" decoding="async"><figcaption>この記事の70軒を、推しグルメ巡礼MAPのデータで数えました</figcaption></figure>
 
 <h2>お店はどこにある？</h2>
-<p>73軒のうち35軒、ほぼ半分が東京都の外。ご当地の麺が登場する旅やロケの回がたくさんあります。</p>
-<figure class="fig"><img src="/assets/img/posts/idol-ramen-matome/area.svg" alt="お店の場所：東京38軒、関東（東京以外）12軒、中国・四国8軒、九州・沖縄5軒、中部4軒、近畿4軒、北海道・東北2軒。東京都のなかでは渋谷区6軒、新宿区・千代田区が5軒ずつ、中央区・目黒区・港区が3軒ずつなど。東京都のほかでは鳥取県4軒、神奈川県4軒、千葉県・埼玉県・福岡県が3軒ずつなど" width="420" height="690" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
+<p>70軒のうち33軒、ほぼ半分が東京都の外。ご当地の麺が登場する旅やロケの回がたくさんあります。</p>
+<figure class="fig"><img src="/assets/img/posts/idol-ramen-matome/area.svg" alt="お店の場所：東京37軒、関東（東京以外）11軒、中国・四国8軒、九州・沖縄5軒、近畿4軒、中部3軒、北海道・東北2軒。東京都のなかでは渋谷区・新宿区・千代田区が5軒ずつ、中央区・目黒区・港区が3軒ずつなど。東京都のほかでは鳥取県4軒、神奈川県・千葉県・埼玉県・福岡県が3軒ずつなど" width="420" height="689" loading="lazy" decoding="async"><figcaption>住所は推しグルメ巡礼MAPのデータより</figcaption></figure>
 
-<h2>何組も訪れた：一蘭・新横浜ラーメン博物館・みそきん</h2>
+<h2>何組も訪れた：一蘭・みそきん</h2>
 <p>店舗は別々でも、同じ看板のお店に何組も訪れています。推しと同じ一杯を、いちばん手軽に味わえるお店です。</p>
 <ul class="pf-works">
   <li><span class="k">一蘭</span><div><b>一蘭 中野店</b><span>よにのちゃんねる #480【朝食!!】朝ラーだよな、、、の日</span></div></li>
   <li><span class="k">一蘭</span><div><b>一蘭 原宿店</b><span>亀梨和也（2024年10月）【数年ぶり】Snow Man ダテっちょと念願の一蘭でラーメン！</span></div></li>
   <li><span class="k">一蘭</span><div><b>一蘭 池袋店</b><span>=LOVE（2025年4月）みりにゃ流 一蘭の最高の食べ方（大谷映美里さんのチャンネル「みりにゃと申します。」）</span></div></li>
-  <li><span class="k">ラー博</span><div><b>利尻らーめん味楽（新横浜ラーメン博物館）</b><span>よにのちゃんねる #507【博物館!!】山田史上最高が出た日／焼き醤油らーめん、とろ海焼き醤油（大盛）</span></div></li>
-  <li><span class="k">ラー博</span><div><b>新横浜ラーメン博物館</b><span>SixTONES（2022年11月）【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇</span></div></li>
   <li><span class="k">みそきん</span><div><b>みそきん 池袋店</b><span>=LOVE（2026年3月）みそきん店主と朝ラー活【ヒカキンさん】（みりにゃと申します。）</span></div></li>
   <li><span class="k">みそきん</span><div><b>みそきん（東京駅）</b><span>≒JOY（2025年10月）【ドッキリ】みそきんでラーメンを食べようとしたらまさかのヒカキンさん登場に2人はどうする・・・！？【ニアジョイらーめん部】</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-ichiran-nakano,kamenashi-0a3faf7a-202410,equal_love-287b97eb-202506,yonino-rishiri-ramen,sixtones-ramen-hakubutsukan,equal_love-1296f01f-202603,neajoy-9c15ea70-202510" %}
-
-<div class="pf-quote"><p>新横浜ラーメン博物館には、よにのちゃんねる（利尻らーめん味楽）とSixTONESが登場。ひとつの館で2組の聖地を回れます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+{% include inline-shop-grid.html ids="yonino-ichiran-nakano,kamenashi-0a3faf7a-202410,equal_love-287b97eb-202506,equal_love-1296f01f-202603,neajoy-9c15ea70-202510" %}
 
 <h2>孤独のグルメ：麺の回</h2>
 <p>五郎さんが麺を注文した19軒です。博多のうどん、伊勢うどん、鳥取のスラーメン、苫小牧のカレーもやしラーメンと、全国のご当地の麺が並びます。「SP」はスペシャル回（年は推しグルメ巡礼MAPのデータより）。</p>
@@ -231,12 +224,12 @@ faq:
   <li><span class="k">#352</span><div><b>むかん横浜</b><span>よにのちゃんねる #352【朝食!!】新しい食べ物だった日／雲丹バターたまご麺、牡蠣バターたまご麺、肉丼</span></div></li>
   <li><span class="k">#387</span><div><b>かおたんラーメンえんとつ屋 南青山店</b><span>よにのちゃんねる #387【朝食!!】広い意味で正解な日／五目野菜麵、チャーシュー麵、餃子、おつまみ角煮</span></div></li>
   <li><span class="k">#410</span><div><b>博多元気一杯!!（福岡）</b><span>よにのちゃんねる #410【朝食!!】大好評だった日／キクラゲラーメン、チャーシュー麵</span></div></li>
+  <li><span class="k">#507</span><div><b>利尻らーめん味楽（新横浜ラーメン博物館）</b><span>よにのちゃんねる #507【博物館!!】山田史上最高が出た日／焼き醤油らーめん、とろ海焼き醤油（大盛）</span></div></li>
   <li><span class="k">2024<br>2月</span><div><b>みんみんラーメン 本店（八王子）</b><span>SixTONES【八王子ラーメンを食べまくる】バクバクモグモグ動画です／ネギメンマラーメン、ネギチャーシューメンマラーメン</span></div></li>
   <li><span class="k">2024<br>9月</span><div><b>佐野サービスエリア（下り）フードコート</b><span>SixTONES【アポなし旅 2024夏～05～】爆笑ドライブに絶品SAグルメ！</span></div></li>
   <li><span class="k">2024<br>4月</span><div><b>江川亭 小金井本店</b><span>Snow Man【地元で有名なラーメン店】なんだかサイコーの日になりました／角煮麺、炒飯、中華麺味玉</span></div></li>
   <li><span class="k">2025<br>4月</span><div><b>武蔵野アブラ學会 早稲田別館</b><span>Snow Man【油そばブーム到来】人生初になります／特濃油そば、武蔵野油そば</span></div></li>
   <li><span class="k">米子</span><div><b>歩味</b><span>Snow Man ラウール･深澤辰哉が登場！わんぱく男子爆食旅!!『バナナマンのせっかくグルメ!』（TBS公式 YouTuboo）</span></div></li>
-  <li><span class="k">2021<br>7月</span><div><b>そうめん そそそ 研究室（渋谷）</b><span>なにわ男子／渋谷駅の近く</span></div></li>
   <li><span class="k">2021<br>12月</span><div><b>むぎとオリーブ（銀座）</b><span>なにわ男子「銀座におしゃれ系ラーメン店が増えているのなんでやねん！を解明」</span></div></li>
   <li><span class="k">2022<br>5月</span><div><b>鳥藤 とりそばスタンド（東京駅）</b><span>なにわ男子「駅ナカに話題のグルメが集まっているのなんでやねん！を解明」</span></div></li>
   <li><span class="k">2022<br>7月</span><div><b>回転わんこそば・くるくるわんこ（新宿）</b><span>なにわ男子「エンタメレストランが増えているのなんでやねん！を解明」</span></div></li>
@@ -244,16 +237,15 @@ faq:
   <li><span class="k">2020<br>4月</span><div><b>お食事処ゆうなぎ（銚子）</b><span>日向坂46『バナナマンのせっかくグルメ!!』</span></div></li>
   <li><span class="k">2024<br>6月</span><div><b>竹虎（新宿）</b><span>しおりのなんとなく日常【ラーメン飲み】大好きなラーメン屋で1人勝手に食べ飲み放題が幸せすぎたから見て</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="yonino-spice-ramen-tenten,yonino-mukann-yokohama,yonino-kaotan-ramen,yonino-hakata-genki-ippai,sixtones-7c39702f-,sixtones-sano-sa-foodcourt,snowman-ekawatei-koganei,snowman-abura-gakkai-waseda,snowman-2b4ef35a-20260129,naniwa-b723a30f-202107,naniwa-56665469-20211217,naniwa-795165bd-20220520,naniwa-269b1b4d-20220708,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605" %}
+{% include inline-shop-grid.html ids="yonino-spice-ramen-tenten,yonino-mukann-yokohama,yonino-kaotan-ramen,yonino-hakata-genki-ippai,yonino-rishiri-ramen,sixtones-7c39702f-,sixtones-sano-sa-foodcourt,snowman-ekawatei-koganei,snowman-abura-gakkai-waseda,snowman-2b4ef35a-20260129,naniwa-56665469-20211217,naniwa-795165bd-20220520,naniwa-269b1b4d-20220708,heysayjump-96cbb03d-20161026,heysayjump-ca6f693e-20161026,heysayjump-d26f3f7f-20161026,hinatazaka46-8054cbca-202004,shiori-aa5f64ad-20240605" %}
 
 <h2>乃木坂46</h2>
-<p>メンバーが番組で訪れたり、番組で話したりしたお店です（推しグルメ巡礼MAPのデータより）。東京の2軒（本郷・六本木）と、岐阜のお店があります。</p>
+<p>メンバーが番組で訪れたり、番組で話したりしたお店です（推しグルメ巡礼MAPのデータより）。東京の2軒（本郷・六本木）です。</p>
 <ul class="pf-works">
   <li><span class="k">本郷</span><div><b>中華蕎麦 にし乃</b><span>本郷三丁目駅 徒歩2分</span></div></li>
   <li><span class="k">六本木</span><div><b>六本木らーめん 東京食品 まる彦</b><span>港区六本木</span></div></li>
-  <li><span class="k">岐阜</span><div><b>丸デブ 総本店</b><span>名鉄岐阜駅 徒歩14分</span></div></li>
 </ul>
-{% include inline-shop-grid.html ids="nogizaka46-84c802d9-,nogizaka46-9be54ae5-,nogizaka46-7b18f3dd-" %}
+{% include inline-shop-grid.html ids="nogizaka46-84c802d9-,nogizaka46-9be54ae5-" %}
 
 <h2>はじめて見るならこの4本</h2>
 <p>公式チャンネルの動画から、ラーメンが主役の4本を選びました（タップすると再生します）。</p>
@@ -269,15 +261,15 @@ faq:
 <ul>
   <li><strong>原宿</strong>：亀梨和也の一蘭 原宿店と九州じゃんがら原宿店（どちらも明治神宮前〈原宿〉駅 徒歩1分）。</li>
   <li><strong>水道橋・神田</strong>：=LOVEのらーめん ぽっぽっ屋 水道橋店と≒JOYの北ノ醤油チーホー（どちらも水道橋駅 徒歩3分）、油そば春日亭 神田店（神田駅 徒歩3分）。</li>
-  <li><strong>新横浜</strong>：新横浜ラーメン博物館（新横浜駅 徒歩5分）。よにのちゃんねる・SixTONESの2組が登場。</li>
+  <li><strong>新横浜</strong>：よにのちゃんねるの利尻らーめん味楽（新横浜ラーメン博物館の中。新横浜駅 徒歩5分）。</li>
   <li><strong>鳥取</strong>：孤独のグルメの鳥取市役所 食堂・まつやホルモン店（鳥取駅）と、亀梨和也の牛骨ごっつおらーめん 鳥取店（鳥取駅 徒歩6分）。</li>
-  <li><strong>名古屋・岐阜</strong>：孤独のグルメの台湾ラーメン光陽（比良駅）と、乃木坂46の丸デブ 総本店（名鉄岐阜駅 徒歩14分）。</li>
+  <li><strong>名古屋</strong>：孤独のグルメの台湾ラーメン光陽（比良駅）。</li>
   <li><strong>宮崎</strong>：亀梨和也の辛麺屋桝元 赤江店（田吉駅 徒歩14分）・手打釜揚げうどん 岩見（日向住吉駅 徒歩13分）。</li>
 </ul>
 
 <div class="pf-cta">
   <p>推しが行ったラーメン店を、地図でぜんぶ見る</p>
-  <span>この記事の73軒のほかにも、グループや番組に登場したラーメン・麺のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の70軒のほかにも、グループや番組に登場したラーメン・麺のお店を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?genre=ramen&amp;view=map">地図でラーメンのお店を見る</a>
 </div>
 <p>ほかのジャンルのまとめ：<a href="/articles/2026/05/26/idol-cafe-matome/">カフェ</a>・<a href="/articles/2026/05/27/idol-sweets-matome/">スイーツ</a>・<a href="/articles/2026/05/27/idol-washoku-matome/">和食</a>・<a href="/articles/2026/05/27/idol-yakiniku-matome/">焼肉</a>・<a href="/articles/2026/05/27/idol-izakaya-matome/">居酒屋</a>。グループごとのお店は<a href="{{ site.data.group_ix.kodoku_no_gurume.u }}">孤独のグルメ</a>・<a href="{{ site.data.group_ix.kamenashi.u }}">亀梨和也</a>・<a href="{{ site.data.group_ix.nogizaka46.u }}">乃木坂46</a>のページからも探せます。</p>

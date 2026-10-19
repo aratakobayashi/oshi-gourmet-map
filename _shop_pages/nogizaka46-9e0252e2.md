@@ -18,8 +18,6 @@ visit_kind: "own_tv"
 program: "乃木坂工事中 #374（2022年8月21日）"
 lat: 34.551504
 lng: 135.597465
-members:
-  - "賀喜遥香"
 groups:
   - "nogizaka46"
 ---

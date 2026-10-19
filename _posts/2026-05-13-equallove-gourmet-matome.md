@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "=LOVE（イコラブ）の聖地巡礼・ロケ地まとめ｜はしご酒・みりにゃ・あんまいで行った東京のご飯ほか96軒"
+title: "=LOVE（イコラブ）の聖地巡礼・ロケ地まとめ｜はしご酒・みりにゃ・あんまいで行った東京のご飯ほか93軒"
 date: 2026-05-13
 last_modified_at: 2026-10-13
 checked_at: 2026-10-13
-description: "=LOVE（イコラブ）の聖地巡礼・ロケ地96軒のまとめ。公式YouTubeの諸橋沙夏「はしご酒」・イコラブハンバーガー部・2人旅、大谷映美里の「みりにゃと申します。」のラー活と旅、「イコラブのあんまい」の宮島、出演番組まで、チャンネルと企画ごとに分けて紹介します。"
+description: "=LOVE（イコラブ）の聖地巡礼・ロケ地93軒のまとめ。公式YouTubeの諸橋沙夏「はしご酒」・イコラブハンバーガー部・2人旅、大谷映美里の「みりにゃと申します。」のラー活と旅、「イコラブのあんまい」の宮島、出演番組まで、チャンネルと企画ごとに分けて紹介します。"
 group: equal_love
 genre: まとめ
 article_type: matome
@@ -23,9 +23,9 @@ sources:
   - label: "確認に使った資料：miruwz7.blog.jp（イコラブのロケ地まとめ）"
     url: "https://miruwz7.blog.jp/"
 summary:
-  - "=LOVEの聖地96軒。公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」49軒、大谷映美里の「みりにゃと申します。」38軒、「イコラブのあんまい」8軒、出演番組1軒"
+  - "=LOVEの聖地93軒。公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」47軒、大谷映美里の「みりにゃと申します。」38軒、「イコラブのあんまい」7軒、出演番組1軒"
   - "諸橋沙夏の「はしご酒」13軒、イコラブハンバーガー部3軒、2人組の食べ歩きと旅、みりにゃのラー活10軒など、企画ごとに"
-  - "東京が46軒（渋谷区・台東区・新宿区・杉並区・港区など）。ほかに神奈川13軒・広島9軒・石川5軒など16都道府県"
+  - "東京が45軒（渋谷区・台東区・新宿区・杉並区・港区など）。ほかに神奈川12軒・広島9軒・石川5軒など16都道府県"
   - "お店ごとに回のタイトルと出たメンバーを載せ、地図でまとめて巡れる"
 shop_ids:
   - equal_love-443dcbb1-202408
@@ -67,10 +67,8 @@ shop_ids:
   - equal_love-875bdcd7-202408
   - equal_love-3cc7d56c-202408
   - equal_love-6e007468-202408
-  - equallove_009
   - equal_love-bcaeeee2-202408
   - equal_love-iori-20240804
-  - equal_love-210c4d15-20240804
   - equal_love-dc047633-202408
   - equal_love-16a33a28-202408
   - equal_love-e9976172-202408
@@ -116,7 +114,6 @@ shop_ids:
   - equal_love-juicer_bar-202508
   - equal_love-246f9b6d-202509
   - equal_love-323e7d79-202408
-  - equal_love-fddf14d2-20240815
   - equal_love-2c58e013-202509
   - equal_love-gebura-20250915
   - equal_love-1a1850e6-202509
@@ -136,12 +133,12 @@ faq:
   - q: "大谷映美里の「みりにゃと申します。」ではどこへ行っていますか？"
     a: "ラー活の回で油そば春日亭 神田店・千里眼・蒙古タンメン中本 上板橋本店・えどもんど中野・らーめん ぽっぽっ屋 水道橋店・みそきん 池袋店など。旅の回では沖縄・金沢・軽井沢・熱海のお店に行っています。"
   - q: "イコラブが行ったお店をまとめて地図で見られますか？"
-    a: "「お店を探す」で=LOVEを選ぶと、この記事の96軒を地図と一覧で見られます。"
+    a: "「お店を探す」で=LOVEを選ぶと、この記事の93軒を地図と一覧で見られます。"
 pr: true
 techo: true
 cover_ids: "equal_love-bd15bb1d-202412,equallove_001,equal_love-85f871ac-202512"
 cover_title: "=LOVE 聖地巡礼帳"
-cover_sub: "はしご酒・みりにゃ・あんまいの96軒"
+cover_sub: "はしご酒・みりにゃ・あんまいの93軒"
 courses:
   - title: "高円寺のはしご酒をたどる"
     stops: [equal_love-bd15bb1d-202412, equal_love-17396234-202412, equal_love-a9d4d24e-202412]
@@ -155,16 +152,16 @@ stay_inline: true
 
 <p>指原莉乃がプロデュースするアイドルグループ<strong>=LOVE（イコールラブ）</strong>。=LOVE・≠ME・≒JOYの合同の公式YouTubeチャンネル「イコラブ ノイミー ニアジョイ チャンネル」では、諸橋沙夏がひとりで街を飲み歩く「はしご酒」、髙松瞳と瀧脇笙古の「イコラブハンバーガー部」、2人組で出かける食べ歩きの旅などで、たくさんのお店が登場します。</p>
 
-<p>ほかにも、大谷映美里の個人チャンネル「みりにゃと申します。」のラーメンや旅の回、佐々木舞香と山本杏奈の2人のチャンネル「イコラブのあんまい」、齋藤樹愛羅が出演したテレビ番組の回があります。この記事では<strong>96軒</strong>を、チャンネルと企画ごとに分けてまとめました。</p>
+<p>ほかにも、大谷映美里の個人チャンネル「みりにゃと申します。」のラーメンや旅の回、佐々木舞香と山本杏奈の2人のチャンネル「イコラブのあんまい」、齋藤樹愛羅が出演したテレビ番組の回があります。この記事では<strong>93軒</strong>を、チャンネルと企画ごとに分けてまとめました。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」<small>49軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>大谷映美里の個人チャンネル「みりにゃと申します。」<small>38軒</small></span></a><a href="#src3">{% include chico.html kind="yt" %}<span>2人のチャンネル「イコラブのあんまい」<small>8軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」<small>47軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>大谷映美里の個人チャンネル「みりにゃと申します。」<small>38軒</small></span></a><a href="#src3">{% include chico.html kind="yt" %}<span>2人のチャンネル「イコラブのあんまい」<small>7軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>1軒</small></span></a></div>
 </div>
 {% include matome-members.html group="equal_love" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>96軒のなかから、東京にあって、企画の違う3つの回のお店を選びました。</p>
+<p>93軒のなかから、東京にあって、企画の違う3つの回のお店を選びました。</p>
 <div class="picks">
 {% include pick.html id="equal_love-443dcbb1-202408" no="其の一" why="諸橋沙夏の「はしご酒」シリーズの第1弾、「【赤羽】昼飲みで念願のはしご酒してきました」（2024年6月）の1軒目のお店。同じ回の2軒目、やきとん 大王 赤羽店も赤羽にあります。" %}
 {% include pick.html id="equallove_001" no="其の二" why="「イコラブハンバーガー部」の髙松瞳と瀧脇笙古が、「ずっと食べたかったハンバーガーとついに対面しました」（2024年5月）で訪れたハンバーガーのお店。東京の神宮前（原宿）です。" %}
@@ -182,7 +179,7 @@ stay_inline: true
 <p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
 
-<div class="pf-quote"><p>公式チャンネルの49軒は、2人組の旅や食べ歩きと、諸橋沙夏の「はしご酒」が中心です。鎌倉の食べ歩きは1本で6軒、宮島の旅（イコラブのあんまい）も6軒と、1本の動画で何軒もまわる回が多くあります。大谷映美里の個人チャンネルの38軒のうち10軒はラーメンで、「ラー活」の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+<div class="pf-quote"><p>公式チャンネルの47軒は、2人組の旅や食べ歩きと、諸橋沙夏の「はしご酒」が中心です。鎌倉の食べ歩きは1本で6軒、宮島の旅（イコラブのあんまい）も6軒と、1本の動画で何軒もまわる回が多くあります。大谷映美里の個人チャンネルの38軒のうち10軒はラーメンで、「ラー活」の回が続きます。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
@@ -251,7 +248,6 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="equal_love-875bdcd7-202408" %}<span class="wr__k">2023.6</span><b class="wr__name">龍茶 生タピオカ専門店</b><span class="wr__t">【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜 いっぱい食べた【イコラブ】【中華街旅#1】／齋藤樹愛羅・佐々木舞香（神奈川県横浜市）</span>{% include wr-close.html id="equal_love-875bdcd7-202408" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-3cc7d56c-202408" %}<span class="wr__k">2023.6</span><b class="wr__name">福臨閣売店</b><span class="wr__t">【きあまい】2人で念願の中華街に食べ歩きに行ってきたよ〜 いっぱい食べた【イコラブ】【中華街旅#1】／齋藤樹愛羅・佐々木舞香（神奈川県横浜市）</span>{% include wr-close.html id="equal_love-3cc7d56c-202408" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-6e007468-202408" %}<span class="wr__k">2023.6</span><b class="wr__name">ガーデンテラスカフェ</b><span class="wr__t">【日常】中華街のカフェでひたすらお喋り 占いにも行ったよー！！【きあまい】【中華街旅#2】／齋藤樹愛羅・佐々木舞香（神奈川県横浜市）</span>{% include wr-close.html id="equal_love-6e007468-202408" %}</li>
-  <li class="wr">{% include wr-open.html id="equallove_009" %}<span class="wr__k">2023.6</span><b class="wr__name">俏香（チャオシャン）</b><span class="wr__t">きあまいの中華街旅のお店／佐々木舞香・齋藤樹愛羅（神奈川県横浜市）</span>{% include wr-close.html id="equallove_009" %}</li>
 </ul>
 
 <h3>2人旅：福岡・北海道・広島</h3>
@@ -259,7 +255,6 @@ stay_inline: true
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="equal_love-bcaeeee2-202408" %}<span class="wr__k">2021.7</span><b class="wr__name">新三浦 博多本店</b><span class="wr__t">【本音トーク】夜ご飯食べながら二人で語り合ってきました【福岡旅#2】／音嶋莉沙・佐々木舞香（福岡県福岡市）</span>{% include wr-close.html id="equal_love-bcaeeee2-202408" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-iori-20240804" %}<span class="wr__k">2022.4</span><b class="wr__name">IORI</b><span class="wr__t">Vlog）全国ツアー初日翌日！２人で北海道を満喫しました【北海道旅#1】／大谷映美里・佐々木舞香（北海道千歳市）</span>{% include wr-close.html id="equal_love-iori-20240804" %}</li>
-  <li class="wr">{% include wr-open.html id="equal_love-210c4d15-20240804" %}<span class="wr__k">2022.4</span><b class="wr__name">むらかみ牧場</b><span class="wr__t">【女子旅】イコラブが北海道を遊び尽くす！【北海道旅#2】／大谷映美里・佐々木舞香／バター作りをした牧場（北海道恵庭市）</span>{% include wr-close.html id="equal_love-210c4d15-20240804" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-dc047633-202408" %}<span class="wr__k">2024.3</span><b class="wr__name">ちから 本通四丁目店</b><span class="wr__t">【Vlog】杏奈の地元広島で遊び尽くしました たくさん食べてイルミネーションも見たよ【いおあん超自由旅】／野口衣織・山本杏奈（広島県広島市）</span>{% include wr-close.html id="equal_love-dc047633-202408" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-16a33a28-202408" %}<span class="wr__k">2024.3</span><b class="wr__name">お好み村てつ</b><span class="wr__t">【Vlog】杏奈の地元広島で遊び尽くしました たくさん食べてイルミネーションも見たよ【いおあん超自由旅】／野口衣織・山本杏奈（広島県広島市）</span>{% include wr-close.html id="equal_love-16a33a28-202408" %}</li>
   <li class="wr">{% include wr-open.html id="equal_love-e9976172-202408" %}<span class="wr__k">2024.6</span><b class="wr__name">あとむ</b><span class="wr__t">【Vlog】ふたりで山本杏奈の地元 広島に行ってきました！【マツダ スタジアム】／髙松瞳・山本杏奈（広島県広島市）</span>{% include wr-close.html id="equal_love-e9976172-202408" %}</li>
@@ -340,7 +335,6 @@ stay_inline: true
 <h3>府中のいちご狩り</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="equal_love-323e7d79-202408" %}<span class="wr__k">2023.4</span><b class="wr__name">手打ちそば ふるた</b><span class="wr__t">【完全プライベート】あんまいでいちごを狩る／佐々木舞香・山本杏奈（府中市）</span>{% include wr-close.html id="equal_love-323e7d79-202408" %}</li>
-  <li class="wr">{% include wr-open.html id="equal_love-fddf14d2-20240815" %}<span class="wr__k">2023.4</span><b class="wr__name">府中いちご狩り園</b><span class="wr__t">【完全プライベート】あんまいでいちごを狩る／佐々木舞香・山本杏奈／いちご狩り（府中市）</span>{% include wr-close.html id="equal_love-fddf14d2-20240815" %}</li>
 </ul>
 
 <h3>宮島の旅：ツアー翌日の広島</h3>
@@ -364,12 +358,12 @@ stay_inline: true
 
 <h2>=LOVEの聖地 年表</h2>
 <p>公式チャンネル・イコラブのあんまい・出演番組の回を、動画の公開順に1本につき1軒ずつ並べました。</p>
-<div class="faq"><details><summary>年表をひらく（30本・公開の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/timeline.svg" alt="=LOVEの聖地 年表：2020年12月 LONG! LONG… ほか1軒、2021年1月 舟和 仲見世1号店 ほか2軒、2021年2月 USHIHACHI 渋谷店、2021年7月 新三浦 博多本店、2022年4月 IORI、2022年4月 むらかみ牧場、2022年9月 回転わんこそば くるくるわんこ、2023年1月 清水順正 おかべ家 ほか2軒、2023年4月 手打ちそば ふるた ほか1軒、2023年4月 STEAK HOUSE &amp; BBQ BALCONIWA、2023年5月 さくらの夢見屋 小町… ほか5軒、2023年5月 Pacific DRIVE-IN、2023年6月 華正樓 本店 ほか2軒、2023年6月 ガーデンテラスカフェ、2023年8月 焼肉 哲 TETSU 池袋店、2024年3月 近江牛 かね吉、2024年3月 ちから 本通四丁目店 ほか1軒、2024年5月 いしがまや GOKU BURGER、2024年6月 赤羽 もつ焼のんき ほか1軒、2024年6月 あとむ、2024年7月 赤鬼 ほか1軒、2024年9月 オービカ モッツァレ… ほか1軒、2024年12月 あちらぼ ほか2軒、2025年4月 金華園 ほか1軒、2025年6月 THE SMASH SCRAMBLE、2025年9月 ミヤトヨ本店 ほか5軒、2025年11月 沼津港海将 zero 上野店、2026年2月 晴れる屋 新橋店 ほか1軒、2026年3月 ラクーア 1階フードゾーン DELI&amp;DISH、2026年4月 10 picnic tables" width="420" height="3166" loading="lazy" decoding="async"></figure>
+<div class="faq"><details><summary>年表をひらく（29本・公開の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/timeline.svg" alt="=LOVEの聖地 年表：2020年12月 LONG! LONG… ほか1軒、2021年1月 舟和 仲見世1号店 ほか2軒、2021年2月 USHIHACHI 渋谷店、2021年7月 新三浦 博多本店、2022年4月 IORI、2022年9月 回転わんこそば くるくるわんこ、2023年1月 清水順正 おかべ家 ほか2軒、2023年4月 手打ちそば ふるた、2023年4月 STEAK HOUSE &amp; BBQ BALCONIWA、2023年5月 さくらの夢見屋 小町… ほか5軒、2023年5月 Pacific DRIVE-IN、2023年6月 華正樓 本店 ほか2軒、2023年6月 ガーデンテラスカフェ、2023年8月 焼肉 哲 TETSU 池袋店、2024年3月 近江牛 かね吉、2024年3月 ちから 本通四丁目店 ほか1軒、2024年5月 いしがまや GOKU BURGER、2024年6月 赤羽 もつ焼のんき ほか1軒、2024年6月 あとむ、2024年7月 赤鬼 ほか1軒、2024年9月 オービカ モッツァレ… ほか1軒、2024年12月 あちらぼ ほか2軒、2025年4月 金華園 ほか1軒、2025年6月 THE SMASH SCRAMBLE、2025年9月 ミヤトヨ本店 ほか5軒、2025年11月 沼津港海将 zero 上野店、2026年2月 晴れる屋 新橋店 ほか1軒、2026年3月 ラクーア 1階フードゾーン DELI&amp;DISH、2026年4月 10 picnic tables" width="420" height="3064" loading="lazy" decoding="async"></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事33軒、和食18軒、居酒屋13軒、ラーメン10軒、スイーツ9軒、中華6軒、焼肉4軒、カフェ3軒。場所は東京都内が渋谷区10軒、台東区6軒、新宿区5軒、杉並区・港区4軒ずつ、豊島区3軒、北区2軒。東京の外は神奈川県鎌倉市7軒、横浜市6軒、広島県廿日市市（宮島）6軒、石川県金沢市5軒、広島市・京都市・熱海市3軒ずつなど" width="420" height="762" loading="lazy" decoding="async"></figure>
+<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事31軒、和食18軒、居酒屋13軒、ラーメン10軒、スイーツ9軒、中華5軒、焼肉4軒、カフェ3軒。場所は東京都内が渋谷区10軒、台東区6軒、新宿区5軒、杉並区・港区4軒ずつ、豊島区3軒、北区2軒。東京の外は神奈川県鎌倉市7軒、横浜市5軒、広島県廿日市市（宮島）6軒、石川県金沢市5軒、広島市・京都市・熱海市3軒ずつなど" width="420" height="762" loading="lazy" decoding="async"></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>公式チャンネルから、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -381,7 +375,7 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区10軒、台東区6軒、新宿区5軒、杉並区4軒、港区4軒など。23区の外は神奈川県13軒、東京の市部・島3軒、千葉県1軒、埼玉県1軒、そのほかの道府県35軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/equallove-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、渋谷区10軒、台東区6軒、新宿区5軒、杉並区4軒、港区4軒など。23区の外は神奈川県12軒、東京の市部・島2軒、千葉県1軒、埼玉県1軒、そのほかの道府県34軒" width="420" height="666" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
   <li><strong>高円寺</strong>：やきとん長良（高円寺駅 徒歩1分）・あちらぼ・まんまじぃま（高円寺駅 徒歩5分）。串カツ玩具-GANG-は南阿佐ケ谷駅 徒歩1分です。</li>
@@ -400,7 +394,7 @@ stay_inline: true
 
 <div class="pf-cta">
   <p>=LOVEのお店を、地図でぜんぶ見る</p>
-  <span>この記事の96軒を、地図と一覧で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の93軒を、地図と一覧で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=equal_love&amp;view=map">地図で=LOVEのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.equal_love.u }}">=LOVEのお店一覧（グループのページ）</a>もどうぞ。</p>

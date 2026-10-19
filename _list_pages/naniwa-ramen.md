@@ -1,11 +1,11 @@
 ---
-title: "なにわ男子のラーメン聖地巡礼｜行ったラーメン10選"
-description: "なにわ男子のメンバーが実際に訪れたラーメンスポットを10件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "なにわ男子のラーメン聖地巡礼｜行ったラーメン9選"
+description: "なにわ男子のメンバーが実際に訪れたラーメンスポットを9件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: naniwa
 genre: ramen
 group_label: "なにわ男子"
 slug_id: naniwa-ramen
-shop_count: 10
+shop_count: 9
 group_color: "#a855f7"
 group_bio: "なにわ男子はSTARTO ENTERTAINMENTの7人組男性アイドルグループ。関西発のグルメ情報が充実。"
 thumbnail_url: "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg"

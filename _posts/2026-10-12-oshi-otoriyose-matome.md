@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販28軒"
+title: "推しが食べたお店のお取り寄せまとめ｜よにの・乃木坂46・Snow Manほかが行った店の公式通販27軒"
 date: 2026-10-12
 last_modified_at: 2026-10-12
-description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど14組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる28軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
+description: "よにのちゃんねる・乃木坂46・Snow Man・=LOVE・King & Princeなど14組の推しが動画や番組で訪れたお店のうち、公式のオンラインショップでお取り寄せできる27軒をまとめました。どの回で行ったかと、公式通販で買えるもの（スイーツ・ラーメン・餃子・牛たん・味噌など）をジャンル別に紹介します。"
 genre: まとめ
 article_type: matome
 prefecture:
@@ -13,8 +13,8 @@ checked_label: 通販の情報
 tags: [お取り寄せ, 通販, 公式オンラインショップ, 聖地巡礼, 推し活, よにのちゃんねる, 乃木坂46, Snow Man, "=LOVE", "King & Prince", 嵐, SixTONES]
 thumbnail: /assets/img/posts/oshi-otoriyose-matome/thumb.webp
 summary:
-  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある28軒（14組）"
-  - "スイーツ・和菓子・コーヒー10軒、ラーメン・そば・うどん6軒、餃子・中華3軒、肉・うなぎ・おかず・調味料9軒"
+  - "推しが動画や番組で訪れたお店のうち、公式のオンラインショップがある27軒（14組）"
+  - "スイーツ・和菓子・コーヒー9軒、ラーメン・そば・うどん6軒、餃子・中華3軒、肉・うなぎ・おかず・調味料9軒"
   - "お店ごとに「推しが行った回」と「通販で買えるもの」を、2026年10月12日に各店の公式サイトで確かめて載せています"
   - "チェーン店や支店は、そのお店ではなくブランドの公式通販です。価格や送料は公式通販で確かめてください"
 shop_ids:
@@ -24,7 +24,6 @@ shop_ids:
   - kingprince-973526af-20230429
   - kingprince-5400b983-20220813
   - kingprince-4ea5801b-
-  - arashi-2f44be15-20200523
   - arashi-2483adfd-20190921
   - kinkikids-8a7a5dc6-20220423
   - yonino-maruyama-coffee-karuizawa
@@ -59,8 +58,6 @@ sources:
     url: "https://www.frederic-cassel.jp/"
   - label: "ジョエル・ロブション（公式サイト）"
     url: "https://www.robuchon.jp/"
-  - label: "足立音衛門（公式サイト）"
-    url: "https://www.otoemon.com/"
   - label: "小布施堂本店（公式サイト）"
     url: "https://www.obusedo.com/"
   - label: "芋屋金次郎 高知本店（公式サイト）"
@@ -105,7 +102,7 @@ sources:
     url: "https://www.houraiken.com/houraiken_chimaki.html"
 faq:
   - q: "推しが行ったお店の商品を通販で買えますか？"
-    a: "この記事の28軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
+    a: "この記事の27軒は、2026年10月12日に各お店（またはブランド）の公式サイトで、公式のオンラインショップやお取り寄せのページがあることを確かめたお店です。買えるものはお店ごとに載せています。"
   - q: "支店やチェーン店に行った回でも、同じ商品が買えますか？"
     a: "通販はお店（支店）ごとではなく、ブランドの公式通販です。たとえば一蘭 中野店・天下一品 中野店・ラーメン山岡家 青梅店などは、それぞれのブランドの公式通販を案内しています。お店で食べたメニューと通販の商品は同じとは限りません。"
   - q: "価格や送料はいくらですか？"
@@ -120,7 +117,7 @@ faq:
 
 <p>推しが動画や番組で訪れた、あのお店。遠くてなかなか行けないお店でも、公式のオンラインショップがあれば、家でお取り寄せできます。</p>
 
-<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店28軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
+<p>この記事では、推しグルメ巡礼MAPに登録しているお店のうち、<strong>公式の通販があるお店27軒</strong>をジャンル別にまとめました。お店ごとに、<strong>どの推しがどの回で行ったか</strong>（推しグルメ巡礼MAPのデータより）と、<strong>公式通販で買えるもの</strong>（2026年10月12日に各お店の公式サイトで確かめたもの）を載せています。</p>
 
 <h2>ひと目でわかる 推しのお店のお取り寄せ</h2>
 <div class="pf-card">
@@ -131,9 +128,9 @@ faq:
     <span class="pf-card__color"><i></i>14組の推し</span>
   </div>
   <dl class="pf-card__facts">
-    <div><dt>お店の数</dt><dd>28軒</dd></div>
+    <div><dt>お店の数</dt><dd>27軒</dd></div>
     <div><dt>推しのグループ・番組</dt><dd>14組</dd></div>
-    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子（10軒）</dd></div>
+    <div><dt>いちばん多いジャンル</dt><dd>スイーツ・和菓子と、肉・おかず（9軒ずつ）</dd></div>
     <div><dt>チェーン店</dt><dd>5軒（ブランドの通販）</dd></div>
     <div><dt>お店の場所</dt><dd>12都道府県</dd></div>
     <div><dt>楽天市場にも店</dt><dd>2軒</dd></div>
@@ -143,12 +140,12 @@ faq:
 <div class="pf-nums">
   <div><b>28<small>軒</small></b><span>公式の通販があるお店</span></div>
   <div><b>14<small>組</small></b><span>よにのちゃんねる・乃木坂46・Snow Manなど</span></div>
-  <div><b>10<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
-  <div><b>12<small>都道府県</small></b><span>東京都13軒・神奈川県3軒・京都府2軒など</span></div>
+  <div><b>9<small>軒</small></b><span>スイーツ・和菓子・コーヒー</span></div>
+  <div><b>12<small>都道府県</small></b><span>東京都13軒・神奈川県3軒・長野県2軒など</span></div>
 </div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：スイーツ7軒、和食7軒、ラーメン4軒、中華4軒、その他3軒、食事2軒、カフェ1軒。場所は東京都13軒（台東区3軒、中央区・中野区2軒ずつほか）、東京の外は長野県・横浜市が2軒ずつ、ほかに廿日市市・小樽市・川崎市・福知山市・高知市・仙台市・福岡市・京都市・成田市・名古屋市・宇都宮市" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の28軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/oshi-otoriyose-matome/genre.svg" alt="お店のジャンルと場所：和食7軒、スイーツ6軒、ラーメン4軒、中華4軒、その他3軒、食事2軒、カフェ1軒。場所は東京都13軒（台東区3軒、中央区・中野区2軒ずつほか）、東京の外は長野県・横浜市が2軒ずつ、ほかに廿日市市・小樽市・川崎市・高知市・仙台市・福岡市・京都市・成田市・名古屋市・宇都宮市" width="420" height="718" loading="lazy" decoding="async"><figcaption>この記事の27軒を数えました（ジャンルは推しグルメ巡礼MAPの分類。この記事の見出しの分け方とは少し違います）</figcaption></figure>
 
 <h2>注文する前に</h2>
 <ul>
@@ -159,7 +156,7 @@ faq:
 </ul>
 <p class="note">楽天市場へのリンクは広告（アフィリエイト）リンクです。公式オンラインショップへのリンクは広告ではありません。</p>
 
-<h2>スイーツ・和菓子・コーヒー（10軒）</h2>
+<h2>スイーツ・和菓子・コーヒー（9軒）</h2>
 <p>洋菓子・和菓子・ご当地のお菓子と、コーヒー豆。詰め合わせやギフトを用意しているお店もあります。</p>
 <ul class="pf-buy">
   <li style="--g:#f43f5e">
@@ -224,16 +221,6 @@ faq:
   </li>
   <li style="--g:#dc2626">
     <p class="pf-buy__who">嵐</p>
-    <b>足立音衛門</b>
-    <dl>
-      <div><dt>推しが行った回</dt><dd>『嵐にしやがれ』（2020年5月23日）に登場したお店（京都府福知山市）</dd></div>
-      <div><dt>通販で買えるもの</dt><dd>栗のパウンドケーキ、タルト・パイ、どら焼き、マロングラッセ、栗のバターサンドなど</dd></div>
-    </dl>
-    <p class="pf-buy__note">公式サイトの中に公式オンラインショップがあります。</p>
-    <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.otoemon.com/shop" target="_blank" rel="noopener">公式オンラインショップ</a></p>
-  </li>
-  <li style="--g:#dc2626">
-    <p class="pf-buy__who">嵐</p>
     <b>小布施堂本店</b>
     <dl>
       <div><dt>推しが行った回</dt><dd>松本潤が『嵐にしやがれ』（2019年9月21日）で訪れたお店（長野県小布施町）</dd></div>
@@ -263,7 +250,7 @@ faq:
     <p class="pf-buy__btns"><a class="btn btn--sm" href="https://www.maruyamacoffee.com/ec/" target="_blank" rel="noopener">公式オンラインショップ</a></p>
   </li>
 </ul>
-{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2f44be15-20200523,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,yonino-maruyama-coffee-karuizawa" %}
+{% include inline-shop-grid.html ids="equal_love-acc7e129-202408,equal_love-5778582a-202509,nogizaka46-eec95659-,kingprince-973526af-20230429,kingprince-5400b983-20220813,kingprince-4ea5801b-,arashi-2483adfd-20190921,kinkikids-8a7a5dc6-20220423,yonino-maruyama-coffee-karuizawa" %}
 
 <h2>ラーメン・そば・うどん（6軒）</h2>
 <p>お店の味を家で作れる袋麺・生麺・冷凍麺など。チェーン店はブランドの公式通販です。</p>

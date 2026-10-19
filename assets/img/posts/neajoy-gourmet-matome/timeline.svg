@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 2146" width="420" height="2146" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="2146" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1942" width="420" height="1942" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="1942" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">≒JOYの聖地 年表</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="2120" stroke="#d946ef" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<line x1="86" y1="88" x2="86" y2="1916" stroke="#d946ef" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
 <text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
 <text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
@@ -38,109 +38,95 @@
 <text x="118" y="520" font-size="16" font-weight="800" fill="#241F1A">徳造丸 海鮮家 箱根湯本店</text>
 <text x="118" y="542" font-size="12.5" fill="#d946ef">メンバーだけで箱根でロケしてみた🍁【ノ</text>
 <text x="118" y="560" font-size="12.5" fill="#d946ef">ープラン旅】</text>
-<text x="70" y="622" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="70" y="622" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="639" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="617" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="598" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">杉養蜂園 箱根店</text>
-<text x="118" y="644" font-size="12.5" fill="#d946ef">メンバーだけで箱根でロケしてみた🍁【ノ</text>
-<text x="118" y="662" font-size="12.5" fill="#d946ef">ープラン旅】</text>
-<text x="70" y="724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="118" y="622" font-size="16" font-weight="800" fill="#241F1A">人類みな麺類</text>
+<text x="118" y="644" font-size="12.5" fill="#d946ef">【人類みな麺類】地元、大阪の大行列店へ</text>
+<text x="118" y="662" font-size="12.5" fill="#d946ef">！究極の一杯いただきます！【ニアジョイ</text>
+<text x="70" y="724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="741" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="719" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="700" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">大涌谷 駅の店</text>
-<text x="118" y="746" font-size="12.5" fill="#d946ef">メンバーだけで箱根でロケしてみた🍁【ノ</text>
-<text x="118" y="764" font-size="12.5" fill="#d946ef">ープラン旅】</text>
+<text x="118" y="724" font-size="16" font-weight="800" fill="#241F1A">鳥のいるカフェ 千駄木店</text>
+<text x="118" y="746" font-size="12.5" fill="#d946ef">【癒やし回と思ったら】あゆみんが鳥カフ</text>
+<text x="118" y="764" font-size="12.5" fill="#d946ef">ェに連れて行ってくれました🐤【事件発生</text>
 <text x="70" y="826" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
+<text x="70" y="843" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="821" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="802" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">人類みな麺類</text>
-<text x="118" y="848" font-size="12.5" fill="#d946ef">【人類みな麺類】地元、大阪の大行列店へ</text>
-<text x="118" y="866" font-size="12.5" fill="#d946ef">！究極の一杯いただきます！【ニアジョイ</text>
+<text x="118" y="826" font-size="16" font-weight="800" fill="#241F1A">暴れん坊チキン</text>
+<text x="118" y="848" font-size="12.5" fill="#d946ef">【岡崎旅行】みんなでドライブ＆観光！岡</text>
+<text x="118" y="866" font-size="12.5" fill="#d946ef">崎市が楽しすぎました！</text>
 <text x="70" y="928" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="945" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<text x="70" y="945" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="923" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="904" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">鳥のいるカフェ 千駄木店</text>
-<text x="118" y="950" font-size="12.5" fill="#d946ef">【癒やし回と思ったら】あゆみんが鳥カフ</text>
-<text x="118" y="968" font-size="12.5" fill="#d946ef">ェに連れて行ってくれました🐤【事件発生</text>
+<text x="118" y="928" font-size="16" font-weight="800" fill="#241F1A">La Maison du R</text>
+<text x="118" y="950" font-size="12.5" fill="#d946ef">【岡崎旅行】みんなでドライブ＆観光！岡</text>
+<text x="118" y="968" font-size="12.5" fill="#d946ef">崎市が楽しすぎました！</text>
 <text x="70" y="1030" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="1047" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="1025" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1006" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">暴れん坊チキン</text>
+<text x="118" y="1030" font-size="16" font-weight="800" fill="#241F1A">奥殿陣屋</text>
 <text x="118" y="1052" font-size="12.5" fill="#d946ef">【岡崎旅行】みんなでドライブ＆観光！岡</text>
 <text x="118" y="1070" font-size="12.5" fill="#d946ef">崎市が楽しすぎました！</text>
 <text x="70" y="1132" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="1149" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
 <circle cx="86" cy="1127" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1108" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">La Maison du R</text>
-<text x="118" y="1154" font-size="12.5" fill="#d946ef">【岡崎旅行】みんなでドライブ＆観光！岡</text>
-<text x="118" y="1172" font-size="12.5" fill="#d946ef">崎市が楽しすぎました！</text>
+<text x="118" y="1132" font-size="16" font-weight="800" fill="#241F1A">スイーツパラダイス 原宿店</text>
+<text x="118" y="1154" font-size="12.5" fill="#d946ef">【激ウマ】スイパラさんに皆で行ってきま</text>
+<text x="118" y="1172" font-size="12.5" fill="#d946ef">した！！コラボカフェメニューが美味しす</text>
 <text x="70" y="1234" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1251" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="1251" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="1229" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1210" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">奥殿陣屋</text>
-<text x="118" y="1256" font-size="12.5" fill="#d946ef">【岡崎旅行】みんなでドライブ＆観光！岡</text>
-<text x="118" y="1274" font-size="12.5" fill="#d946ef">崎市が楽しすぎました！</text>
-<text x="70" y="1336" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1353" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="118" y="1234" font-size="16" font-weight="800" fill="#241F1A">鳥貴族 新宿小滝橋通り店</text>
+<text x="118" y="1256" font-size="12.5" fill="#d946ef">【鳥貴族】メンバーの大好きなメニューか</text>
+<text x="118" y="1274" font-size="12.5" fill="#d946ef">らニアジョイ最推し3品を決めよう！！</text>
+<text x="70" y="1336" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="1353" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="1331" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1312" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1336" font-size="16" font-weight="800" fill="#241F1A">スイーツパラダイス 原宿店</text>
-<text x="118" y="1358" font-size="12.5" fill="#d946ef">【激ウマ】スイパラさんに皆で行ってきま</text>
-<text x="118" y="1376" font-size="12.5" fill="#d946ef">した！！コラボカフェメニューが美味しす</text>
-<text x="70" y="1438" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="1455" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<text x="118" y="1336" font-size="16" font-weight="800" fill="#241F1A">浅草もんじゃ もんろう</text>
+<text x="118" y="1358" font-size="12.5" fill="#d946ef">【浅草】最高においしいもんじゃ焼きを食</text>
+<text x="118" y="1376" font-size="12.5" fill="#d946ef">べながら超雑談</text>
+<text x="70" y="1438" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="1455" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="1433" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1414" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1438" font-size="16" font-weight="800" fill="#241F1A">鳥貴族 新宿小滝橋通り店</text>
-<text x="118" y="1460" font-size="12.5" fill="#d946ef">【鳥貴族】メンバーの大好きなメニューか</text>
-<text x="118" y="1478" font-size="12.5" fill="#d946ef">らニアジョイ最推し3品を決めよう！！</text>
+<text x="118" y="1438" font-size="16" font-weight="800" fill="#241F1A">目黒魂心家</text>
+<text x="118" y="1460" font-size="12.5" fill="#d946ef">【魂心家】家系ラーメン&amp;ライス爆食🍜🍚</text>
+<text x="118" y="1478" font-size="12.5" fill="#d946ef">大信田部長も初めて見る、天野の食べ方と</text>
 <text x="70" y="1540" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="1557" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<text x="70" y="1557" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="1535" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1516" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1540" font-size="16" font-weight="800" fill="#241F1A">浅草もんじゃ もんろう</text>
-<text x="118" y="1562" font-size="12.5" fill="#d946ef">【浅草】最高においしいもんじゃ焼きを食</text>
-<text x="118" y="1580" font-size="12.5" fill="#d946ef">べながら超雑談</text>
+<text x="118" y="1540" font-size="16" font-weight="800" fill="#241F1A">Samoyed cafe AL 横浜中華街店</text>
+<text x="118" y="1562" font-size="12.5" fill="#d946ef">【Vlog】ももじゅり2人で中華街で遊んで</text>
+<text x="118" y="1580" font-size="12.5" fill="#d946ef">きました🐼🎶普段の2人の様子を大公開🤍</text>
 <text x="70" y="1642" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="1659" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<text x="70" y="1659" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="1637" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1618" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1642" font-size="16" font-weight="800" fill="#241F1A">目黒魂心家</text>
-<text x="118" y="1664" font-size="12.5" fill="#d946ef">【魂心家】家系ラーメン&amp;ライス爆食🍜🍚</text>
-<text x="118" y="1682" font-size="12.5" fill="#d946ef">大信田部長も初めて見る、天野の食べ方と</text>
+<text x="118" y="1642" font-size="16" font-weight="800" fill="#241F1A">串カツ田中 有楽町店</text>
+<text x="118" y="1664" font-size="12.5" fill="#d946ef">【爆食】串カツ田中で食べ放題！好きなだ</text>
+<text x="118" y="1682" font-size="12.5" fill="#d946ef">け食べてみたらすごい本数に・・・！？</text>
 <text x="70" y="1744" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="1761" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<text x="70" y="1761" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="1739" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1720" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1744" font-size="16" font-weight="800" fill="#241F1A">Samoyed cafe AL 横浜中華街店</text>
-<text x="118" y="1766" font-size="12.5" fill="#d946ef">【Vlog】ももじゅり2人で中華街で遊んで</text>
-<text x="118" y="1784" font-size="12.5" fill="#d946ef">きました🐼🎶普段の2人の様子を大公開🤍</text>
-<text x="70" y="1846" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="1863" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="118" y="1744" font-size="16" font-weight="800" fill="#241F1A">みそきん</text>
+<text x="118" y="1766" font-size="12.5" fill="#d946ef">【ドッキリ】みそきんでラーメンを食べよ</text>
+<text x="118" y="1784" font-size="12.5" fill="#d946ef">うとしたらまさかのヒカキンさん登場に2</text>
+<text x="70" y="1846" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="1863" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
 <circle cx="86" cy="1841" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
 <rect x="104" y="1822" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1846" font-size="16" font-weight="800" fill="#241F1A">串カツ田中 有楽町店</text>
-<text x="118" y="1868" font-size="12.5" fill="#d946ef">【爆食】串カツ田中で食べ放題！好きなだ</text>
-<text x="118" y="1886" font-size="12.5" fill="#d946ef">け食べてみたらすごい本数に・・・！？</text>
-<text x="70" y="1948" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="1965" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="1943" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
-<rect x="104" y="1924" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1948" font-size="16" font-weight="800" fill="#241F1A">みそきん</text>
-<text x="118" y="1970" font-size="12.5" fill="#d946ef">【ドッキリ】みそきんでラーメンを食べよ</text>
-<text x="118" y="1988" font-size="12.5" fill="#d946ef">うとしたらまさかのヒカキンさん登場に2</text>
-<text x="70" y="2050" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="2067" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="2045" r="7" fill="#fff" stroke="#d946ef" stroke-width="4"/>
-<rect x="104" y="2026" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2050" font-size="16" font-weight="800" fill="#241F1A">北ノ醤油チーホー</text>
-<text x="118" y="2072" font-size="12.5" fill="#d946ef">【#ニアジョイらーめん部】SUSURUさんの</text>
-<text x="118" y="2090" font-size="12.5" fill="#d946ef">お店で爆食したら色々見れて大興奮でした</text>
+<text x="118" y="1846" font-size="16" font-weight="800" fill="#241F1A">北ノ醤油チーホー</text>
+<text x="118" y="1868" font-size="12.5" fill="#d946ef">【#ニアジョイらーめん部】SUSURUさんの</text>
+<text x="118" y="1886" font-size="12.5" fill="#d946ef">お店で爆食したら色々見れて大興奮でした</text>
 </svg>

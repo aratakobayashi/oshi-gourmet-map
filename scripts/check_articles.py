@@ -44,7 +44,8 @@ def fm_ids(fm):
 
 
 def set_fm_ids(fm, ids):
-    block = 'shop_ids:\n' + ''.join(f'  - {i}\n' for i in ids)
+    # 数字だけのIDは引用符で囲む（YAML で数値として読まれないように）
+    block = 'shop_ids:\n' + ''.join(f'  - "{i}"\n' if str(i).isdigit() else f'  - {i}\n' for i in ids)
     if re.search(r'^shop_ids:\n((?:  - .*\n)+)', fm, re.M):
         return re.sub(r'^shop_ids:\n((?:  - .*\n)+)', block, fm, count=1, flags=re.M)
     if re.search(r'^shop_ids:\s*(\[\])?\s*$', fm, re.M):

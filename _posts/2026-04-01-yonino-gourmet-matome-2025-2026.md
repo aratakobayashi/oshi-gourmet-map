@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "よにのちゃんねるの聖地巡礼・ロケ地まとめ｜2022〜2026年の朝ごはん・ゲスト・ドライブ回で行った東京のご飯ほか79軒"
+title: "よにのちゃんねるの聖地巡礼・ロケ地まとめ｜2022〜2026年の朝ごはん・ゲスト・ドライブ回で行った東京のご飯ほか77軒"
 date: 2026-04-01
 last_modified_at: 2026-10-15
 checked_at: 2026-10-15
 featured: true
-description: "よにのちゃんねるの聖地巡礼・ロケ地79軒のまとめ。ジャにのちゃんねる時代の2022年の朝ごはんの回から、3人になった2026年の回まで。朝ごはん・ゲスト回・忘年会や打ち上げ・ドライブのコーヒー・旅の回に分け、回のタイトル、行ったメンバー、注文したものと一緒に紹介します。"
+description: "よにのちゃんねるの聖地巡礼・ロケ地77軒のまとめ。ジャにのちゃんねる時代の2022年の朝ごはんの回から、3人になった2026年の回まで。朝ごはん・ゲスト回・忘年会や打ち上げ・ドライブのコーヒー・旅の回に分け、回のタイトル、行ったメンバー、注文したものと一緒に紹介します。"
 group: yonino
 genre: まとめ
 article_type: matome
@@ -16,9 +16,9 @@ sources:
   - label: "よにのちゃんねる 公式YouTubeチャンネル"
     url: "https://www.youtube.com/@yoninochannel"
 summary:
-  - "よにのちゃんねるの聖地79軒。2022年6月の#135から2026年4月の#519まで、公式YouTubeの回に登場したお店"
+  - "よにのちゃんねるの聖地77軒。2022年6月の#135から2026年4月の#519まで、公式YouTubeの回に登場したお店"
   - "いちばん多いのは朝ごはんの回（タイトルに【朝食】【朝飯】などが付いた33本）。ほかにゲスト回・忘年会や打ち上げ・ドライブのコーヒー・旅の回"
-  - "東京が73軒（港区20・新宿区13・渋谷区8・千代田区7ほか）。ほかに横浜・新横浜、長野県軽井沢町、福岡"
+  - "東京が71軒（港区19・新宿区12・渋谷区8・千代田区7ほか）。ほかに横浜・新横浜、長野県軽井沢町、福岡"
   - "お店ごとに回のタイトル・行ったメンバー・ゲスト・注文したものを載せ、地図でまとめて巡れる"
 shop_ids:
   - yonino-ohitsuzen-tanbo-sangenchaya
@@ -55,7 +55,6 @@ shop_ids:
   - yonino-dancyu-shokudo
   - yonino-enomoto-hamburg-bunkyo
   - yonino-chinka-shisai-ginza
-  - yonino-doutor-akasaka
   - yonino-hikiniku-to-kome
   - yonino-blue-six-coffee
   - yonino-otona-shokudo
@@ -80,7 +79,6 @@ shop_ids:
   - yonino-5d0b703c-202604
   - yonino-starbucks-roppongi-7
   - yonino-starbucks-reserve-roastery
-  - yonino-blue-bottle-shinjuku
   - yonino-cozy-style-coffee
   - yonino-paul-bassett-shinjuku
   - yonino-donish-coffee-kagurazaka
@@ -102,9 +100,9 @@ shop_ids:
   - yonino-rishiri-ramen
 faq:
   - q: "よにのちゃんねるが行ったお店はどこですか？"
-    a: "朝ごはんの回のおひつ膳 田んぼ（#135）・なぎさ食堂（#288）・相撲茶屋 寺尾（#336）、3人になってからのピーター・ルーガー・ステーキハウス東京（#468）・しゃぶしゃぶ だるま（#476）、ゲスト回の挽肉と米 渋谷（#408）、忘年会の浅草もんじゃ てっぱん大吉（#490）などです。この記事では79軒を企画ごとに分けて載せています。"
+    a: "朝ごはんの回のおひつ膳 田んぼ（#135）・なぎさ食堂（#288）・相撲茶屋 寺尾（#336）、3人になってからのピーター・ルーガー・ステーキハウス東京（#468）・しゃぶしゃぶ だるま（#476）、ゲスト回の挽肉と米 渋谷（#408）、忘年会の浅草もんじゃ てっぱん大吉（#490）などです。この記事では77軒を企画ごとに分けて載せています。"
   - q: "東京でよにのちゃんねるの聖地を巡るならどこがいいですか？"
-    a: "港区（赤坂・麻布十番・六本木・西麻布・南青山）が20軒、新宿区（西新宿・新大久保・神楽坂・新宿三丁目）が13軒、渋谷区（渋谷・恵比寿）が8軒、千代田区が7軒です。九段下・神保町・淡路町・秋葉原には、当時の4人の朝ごはんの回のお店が4軒まとまっています。"
+    a: "港区（赤坂・麻布十番・六本木・西麻布・南青山）が19軒、新宿区（西新宿・新大久保・神楽坂・新宿三丁目）が12軒、渋谷区（渋谷・恵比寿）が8軒、千代田区が7軒です。九段下・神保町・淡路町・秋葉原には、当時の4人の朝ごはんの回のお店が4軒まとまっています。"
   - q: "朝ごはんの回のお店はどこですか？"
     a: "2022年6月の#135「【新シリーズ】折角だから朝飯だけ食べてみた」のおひつ膳 田んぼ（三軒茶屋）から始まり、都庁食堂・動坂食堂・なぎさ食堂・中華料理 十八番・相撲茶屋 寺尾などの定食や鍋、3人になってからは筋肉食堂・ピーター・ルーガー・鮨文・一蘭 中野店・ジンギスカン羊はちなどに朝から行っています。"
   - q: "ゲストと一緒に行ったお店はどこですか？"
@@ -112,12 +110,12 @@ faq:
   - q: "中丸雄一が出ている回のお店はありますか？"
     a: "中丸雄一は2024年にチャンネルを脱退しています。それまでの回では、おひつ膳 田んぼ・多け乃・なぎさ食堂・中華料理 十八番・干物割烹 あん梅・相撲茶屋 寺尾・スパイスラーメン 点と線.・ねぎし 池袋サンシャイン前店、軽井沢の旅の石臼挽き蕎麦 東間などに、当時の4人で行っています。"
   - q: "よにのちゃんねるのお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でよにのちゃんねるを選ぶと、この記事の79軒を地図で見られます。メンバーごとに絞り込むこともできます。"
+    a: "「お店を探す」でよにのちゃんねるを選ぶと、この記事の77軒を地図で見られます。メンバーごとに絞り込むこともできます。"
 pr: true
 techo: true
 cover_ids: "yonino-peter-luger,yonino-hikiniku-to-kome,yonino-sumo-chaya-terao"
 cover_title: "よにのちゃんねる 聖地巡礼帳"
-cover_sub: "朝ごはん・ゲスト・ドライブの79軒"
+cover_sub: "朝ごはん・ゲスト・ドライブの77軒"
 courses:
   - title: "九段下から秋葉原へ：当時の4人の朝ごはん"
     stops: [yonino-tokyo-ajifurai, yonino-nagisa-shokudo, yonino-chuka-juhachiban-kanda, yonino-kaligari-akihabara]
@@ -132,16 +130,16 @@ stay_inline: true
 
 <p><strong>二宮和也・山田涼介・菊池風磨</strong>の3人のYouTubeチャンネル「よにのちゃんねる」。2023年の途中までは「ジャにのちゃんねる」の名前で、2024年に脱退した<strong>中丸雄一</strong>を含む4人で始まったチャンネルです。2022年6月の#135「折角だから朝飯だけ食べてみた」から続く朝ごはんの回をはじめ、ゲストを呼んだ回、忘年会や打ち上げ、ドライブ中のコーヒー、軽井沢や福岡への旅まで、ごはんの回がたくさんあります。</p>
 
-<p>この記事では、2022年の古い回から2026年の新しい回まで、公式YouTubeに登場した<strong>79軒</strong>を、企画ごとに分けてまとめました。中丸雄一が出ていた時期の回は「当時の4人」、3人になってからの回は「3人」と書き、ゲストはメンバーと分けて書いています。</p>
+<p>この記事では、2022年の古い回から2026年の新しい回まで、公式YouTubeに登場した<strong>77軒</strong>を、企画ごとに分けてまとめました。中丸雄一が出ていた時期の回は「当時の4人」、3人になってからの回は「3人」と書き、ゲストはメンバーと分けて書いています。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「よにのちゃんねる」<small>79軒</small></span></a></div>
+<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「よにのちゃんねる」<small>77軒</small></span></a></div>
 </div>
 {% include matome-members.html group="yonino" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>79軒のなかから、東京で行きやすく、企画の違う回のお店を3つ選びました。</p>
+<p>77軒のなかから、東京で行きやすく、企画の違う回のお店を3つ選びました。</p>
 <div class="picks">
 {% include pick.html id="yonino-nagisa-shokudo" no="其の一" why="「#288【朝飯!!】久々に4人で食べた日」（2024年1月）の回。当時の4人がそろい、アジフライセット、お刺身セット、なめろうと梅和えセットなどを頼んでいます。お店は東京の神保町駅の近くです。" %}
 {% include pick.html id="yonino-peter-luger" no="其の二" why="「#468【朝飯!!】ははははは、、、の日」（2025年10月）の回。3人が朝ごはんに、ドライエイジのTボーンステーキ3人前やジャンボシュリンプカクテルを頼んでいます。お店は東京の恵比寿です。" %}
@@ -218,7 +216,6 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="yonino-dancyu-shokudo" %}<span class="wr__k">2024.11</span><b class="wr__name">dancyu食堂</b><span class="wr__t">#369【イノッチ祭!!】とんでもない思い出が出てきた日／3人＋ゲスト 井ノ原快彦／生姜焼き定食（千代田区 丸の内・東京駅）</span><span class="wr__more"><span class="wr__oi">頼んだ物：緑茶・アイス緑茶</span></span>{% include wr-close.html id="yonino-dancyu-shokudo" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-enomoto-hamburg-bunkyo" %}<span class="wr__k">2024.11</span><b class="wr__name">榎本ハンバーグ研究所 春日後楽園店</b><span class="wr__t">#372【田中圭呼んだら】本当に来てくれた日／3人＋ゲスト 田中圭／初代しるばーぐ、大葉とおろしの和風ハンバーグ、アボカドの和風ハンバーグ丼、焦がしチーズのせ特製オニオンソースハンバーグ（文京区 茗荷谷）</span><span class="wr__more"><span class="wr__oi">頼んだ物：大葉とおろしの和風おろしハンバーグ（ナス）・アボカドの和風ハンバーグ丼（ナス・温玉）・3種の焦がしチーズハンバーグ（ナス・温玉）</span></span>{% include wr-close.html id="yonino-enomoto-hamburg-bunkyo" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-chinka-shisai-ginza" %}<span class="wr__k">2024.12</span><b class="wr__name">陳家私菜 銀座店</b><span class="wr__t">#379【なんで??】北村匠海がやって来た…!!の日／3人＋ゲスト 北村匠海／国産大山鶏蒸しネギ生姜香味ソースがけ、黒酢酢豚、エビチリソース炒め、麻婆豆腐（千代田区 日比谷）</span><span class="wr__more"><span class="wr__oi">頼んだ物：烏龍茶・自家製黒酢と四元豚の黒酢酢豚・プリプリエビチリソース炒め</span><span class="wr__seat">席：オープンキッチン前のテーブル席</span></span>{% include wr-close.html id="yonino-chinka-shisai-ginza" %}</li>
-  <li class="wr">{% include wr-open.html id="yonino-doutor-akasaka" %}<span class="wr__k">2024.12</span><b class="wr__name">ドトールコーヒーショップ 赤坂青山通り店</b><span class="wr__t">#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日／3人／ゲストの北村匠海も同乗したドライブ中に、二宮和也がコーヒーを買いに行った（港区 赤坂）</span>{% include wr-close.html id="yonino-doutor-akasaka" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-hikiniku-to-kome" %}<span class="wr__k">2025.3</span><b class="wr__name">挽肉と米 渋谷</b><span class="wr__t">#408【ゲスト!!】凄い人が来た日／3人＋ゲスト 大森元貴／挽肉と米 定食（渋谷区 渋谷）</span><span class="wr__more"><span class="wr__oi">頼んだ物：黒烏龍茶・「果実と米」ソーダ？・炭火焼きハンバーグ・釜炊きご飯・味噌汁（挽肉と米の定食）</span></span>{% include wr-close.html id="yonino-hikiniku-to-kome" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-blue-six-coffee" %}<span class="wr__k">2025.3</span><b class="wr__name">BLUE SIX COFFEE</b><span class="wr__t">#409【ゲスト!!】スターがコーヒーを買いに行った日／3人＋ゲスト 大森元貴／ゲストの大森元貴が3人のコーヒーを買いに行った／アイスカフェラテ、アイスコーヒー（新宿区 国立競技場）</span>{% include wr-close.html id="yonino-blue-six-coffee" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-otona-shokudo" %}<span class="wr__k">2025.9</span><b class="wr__name">大人食堂</b><span class="wr__t">#455【自発光!!】数少ない心を許せる後輩の日／二宮和也・山田涼介＋ゲスト 道枝駿佑／チキン南蛮定食、和風ガパオライス定食、豚の角煮定食（新宿区 新宿三丁目）</span><span class="wr__more"><span class="wr__oi">頼んだ物：チキン南蛮定食（道枝）・ナスの揚げびたし・きゅうりとトマトのさっぱり酢の物</span></span>{% include wr-close.html id="yonino-otona-shokudo" %}</li>
@@ -257,7 +254,6 @@ stay_inline: true
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="yonino-starbucks-roppongi-7" %}<span class="wr__k">2024.9</span><b class="wr__name">STARBUCKS COFFEE 六本木7丁目店</b><span class="wr__t">#357【ドライブ!!】山田一少年ではなく山田涼介だった日／3人／ドライブ中に山田涼介がコーヒーを買いに行った（港区 六本木）</span>{% include wr-close.html id="yonino-starbucks-roppongi-7" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-starbucks-reserve-roastery" %}<span class="wr__k">2025.1</span><b class="wr__name">STARBUCKS RESERVE ROASTERY TOKYO</b><span class="wr__t">#391【ドライブ!!】経理がゴネにゴネた日／3人／ドライブ中に二宮和也がコーヒーを買いに行った（目黒区 中目黒）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アイスコーヒー コールドブリュー（東京ロースタリー マイクロブレンド）・アイスコーヒー コールドブリュー（エチオピア）・アイスカフェラテ</span></span>{% include wr-close.html id="yonino-starbucks-reserve-roastery" %}</li>
-  <li class="wr">{% include wr-open.html id="yonino-blue-bottle-shinjuku" %}<span class="wr__k">2025.2</span><b class="wr__name">ブルーボトルコーヒー 新宿カフェ</b><span class="wr__t">#399【山田回!!】山田が山田で山田だった日／3人／ドライブ中に山田涼介がコーヒーを買いに行った（新宿区 新宿）</span>{% include wr-close.html id="yonino-blue-bottle-shinjuku" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-cozy-style-coffee" %}<span class="wr__k">2025.5</span><b class="wr__name">CozyStyle COFFEE</b><span class="wr__t">#419【ドライブ!!】これがよにのクオリティーだっ！の日／3人／アイスコーヒー、瓶詰ティラミス、アイスカフェラテ（新宿区 新大久保）</span><span class="wr__more"><span class="wr__oi">頼んだ物：瓶詰めティラミス</span></span>{% include wr-close.html id="yonino-cozy-style-coffee" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-paul-bassett-shinjuku" %}<span class="wr__k">2025.5</span><b class="wr__name">Paul Bassett 新宿</b><span class="wr__t">#422【ドライブ!!】ダラダラと…ありがとうございますの日／3人／カフェラテ、フラットホワイト（新宿区 新宿西口）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アイスロングブラック・アイスカフェラテ・クロワッサンコロネカスタード</span><span class="wr__seat">席：カウンター席中心。ビルB1Fの落ち着いた空間で、動画ではカウンターに並んで注文する場面が収録されている。</span></span>{% include wr-close.html id="yonino-paul-bassett-shinjuku" %}</li>
   <li class="wr">{% include wr-open.html id="yonino-donish-coffee-kagurazaka" %}<span class="wr__k">2025.6</span><b class="wr__name">Donish Coffee Company 神楽坂</b><span class="wr__t">#434【朝食!!】ドライブの日／二宮和也・山田涼介／神楽坂ブレンド(ice)、いちご風味(ice)（新宿区 牛込神楽坂）</span><span class="wr__more"><span class="wr__oi">頼んだ物：神楽坂ブレンド アイスコーヒー・Colombia Juicy Strawberry アイスコーヒー</span></span>{% include wr-close.html id="yonino-donish-coffee-kagurazaka" %}</li>
@@ -291,12 +287,12 @@ stay_inline: true
 
 <h2>よにのちゃんねるの聖地 年表</h2>
 <p>回の公開年月が分かっているお店を、動画の公開日の古い順に並べました。</p>
-<div class="faq"><details><summary>年表をひらく（75軒・公開日の古い順）</summary>
-<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/timeline.svg" alt="よにのちゃんねるの聖地 年表：2022年 #135 おひつ膳 田んぼ（朝ごはんシリーズの始まり）、#160 動坂食堂、#170 青梅のきり山、#180 築地の多け乃。2023年 #238 伊東食堂、#249 赤坂ごはん 山ね家、#268 酒と蕎麦ちりん、#274 なかよし、#282 二丁目食堂トレド。2024年 #288 なぎさ食堂、#292 秋葉原 カリガリ、#314 中華料理 十八番、#336 相撲茶屋 寺尾、#343 スパイスラーメン 点と線.、#366 浅草今半、#369 dancyu食堂（井ノ原快彦）、#372 榎本ハンバーグ研究所（田中圭）、#379 陳家私菜（北村匠海）など。2025年 #400 佐野みそとiki ESPRESSO、#408 挽肉と米 渋谷（大森元貴）、#439 ヒルトン東京、#455 大人食堂（道枝駿佑）、#464 鮨文、#468 ピーター・ルーガー、#474 喜三郎農場（杏）、#476 しゃぶしゃぶ だるま、#480 一蘭 中野店など。2026年 #490 てっぱん大吉（忘年会）、#494 葱や平吉、#497 赤坂 金舌、#507 利尻らーめん味楽、#509 ジンギスカン羊はち、#519 蕎麦割烹 こうもと" width="420" height="7216" loading="lazy" decoding="async"><figcaption>公開日が未登録の4軒（都庁食堂・お食事処 たかはし・軽井沢の石臼挽き蕎麦 東間と丸山珈琲）は年表に入れていません</figcaption></figure>
+<div class="faq"><details><summary>年表をひらく（73軒・公開日の古い順）</summary>
+<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/timeline.svg" alt="よにのちゃんねるの聖地 年表：2022年 #135 おひつ膳 田んぼ（朝ごはんシリーズの始まり）、#160 動坂食堂、#170 青梅のきり山、#180 築地の多け乃。2023年 #238 伊東食堂、#249 赤坂ごはん 山ね家、#268 酒と蕎麦ちりん、#274 なかよし、#282 二丁目食堂トレド。2024年 #288 なぎさ食堂、#292 秋葉原 カリガリ、#314 中華料理 十八番、#336 相撲茶屋 寺尾、#343 スパイスラーメン 点と線.、#366 浅草今半、#369 dancyu食堂（井ノ原快彦）、#372 榎本ハンバーグ研究所（田中圭）、#379 陳家私菜（北村匠海）など。2025年 #400 佐野みそとiki ESPRESSO、#408 挽肉と米 渋谷（大森元貴）、#439 ヒルトン東京、#455 大人食堂（道枝駿佑）、#464 鮨文、#468 ピーター・ルーガー、#474 喜三郎農場（杏）、#476 しゃぶしゃぶ だるま、#480 一蘭 中野店など。2026年 #490 てっぱん大吉（忘年会）、#494 葱や平吉、#497 赤坂 金舌、#507 利尻らーめん味楽、#509 ジンギスカン羊はち、#519 蕎麦割烹 こうもと" width="420" height="7012" loading="lazy" decoding="async"><figcaption>都庁食堂・お食事処 たかはし・軽井沢の石臼挽き蕎麦 東間と丸山珈琲の4軒は年表に入れていません</figcaption></figure>
 </details></div>
 
 <h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/genre.svg" alt="お店のジャンルと場所：和食24軒、カフェ19軒、食事13軒、ラーメン6軒、焼肉5軒、居酒屋4軒、その他4軒、中華3軒、スイーツ1軒。東京都内は港区20軒、新宿区13軒、渋谷区8軒、千代田区7軒、江東区・中央区が4軒ずつ、文京区・世田谷区が3軒ずつなど。東京の外は神奈川県3軒（横浜市）、長野県2軒（軽井沢町）、福岡県1軒" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の79軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/genre.svg" alt="お店のジャンルと場所：和食24軒、カフェ17軒、食事13軒、ラーメン6軒、焼肉5軒、居酒屋4軒、その他4軒、中華3軒、スイーツ1軒。東京都内は港区19軒、新宿区12軒、渋谷区8軒、千代田区7軒、江東区・中央区が4軒ずつ、文京区・世田谷区が3軒ずつなど。東京の外は神奈川県3軒（横浜市）、長野県2軒（軽井沢町）、福岡県1軒" width="420" height="806" loading="lazy" decoding="async"><figcaption>この記事の77軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
 
 <h2>はじめて見るならこの4本</h2>
 <p>よにのちゃんねるの公式動画から、企画の違う4本を選びました（タップすると再生します）。</p>
@@ -308,12 +304,12 @@ stay_inline: true
 </div>
 
 <h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区20軒、新宿区13軒、渋谷区8軒、千代田区7軒、中央区4軒など。23区の外は神奈川県3軒、東京の市部・島1軒、そのほかの道府県3軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
+<figure class="fig"><img src="/assets/img/posts/yonino-gourmet-matome-2025-2026/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区19軒、新宿区12軒、渋谷区8軒、千代田区7軒、中央区4軒など。23区の外は神奈川県3軒、東京の市部・島1軒、そのほかの道府県3軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
 <p>行く前に各お店の公式情報で営業日を確かめてください。</p>
 <ul>
-  <li><strong>赤坂・六本木・麻布十番・西麻布</strong>：赤坂駅の近くに洋麺屋五右衛門 赤坂店（徒歩1分）・熟豚 三代目 蔵司（徒歩1分）・ドトールコーヒーショップ 赤坂青山通り店、赤坂7丁目に赤坂ごはん 山ね家、赤坂見附にSTREAMER COFFEE COMPANY AKASAKA、六本木一丁目に赤坂 金舌。六本木にはLe Pain Quotidien 東京ミッドタウン店とSTARBUCKS COFFEE 六本木7丁目店、麻布十番にはしゃぶしゃぶ だるま（麻布十番駅 徒歩2分）と干物割烹 あん梅、西麻布に胡同 西麻布店があります。</li>
+  <li><strong>赤坂・六本木・麻布十番・西麻布</strong>：赤坂駅の近くに洋麺屋五右衛門 赤坂店（徒歩1分）・熟豚 三代目 蔵司（徒歩1分）、赤坂7丁目に赤坂ごはん 山ね家、赤坂見附にSTREAMER COFFEE COMPANY AKASAKA、六本木一丁目に赤坂 金舌。六本木にはLe Pain Quotidien 東京ミッドタウン店とSTARBUCKS COFFEE 六本木7丁目店、麻布十番にはしゃぶしゃぶ だるま（麻布十番駅 徒歩2分）と干物割烹 あん梅、西麻布に胡同 西麻布店があります。</li>
   <li><strong>乃木坂・南青山・表参道・外苑前・広尾</strong>：大3木とかおたんラーメンえんとつ屋 南青山店（どちらも乃木坂駅から徒歩圏）、TAOCA COFFEE 南青山店、Chocolat Trouver（表参道駅 徒歩2分）、LATTE ART MANIA TOKYO（外苑前駅 徒歩4分）、広尾の蕎麦割烹 こうもと。</li>
-  <li><strong>新宿・西新宿・新大久保</strong>：都庁食堂（都庁32階）とヒルトン東京 マーブルラウンジ、Paul Bassett 新宿（新宿西口駅 徒歩3分）、ブルーボトルコーヒー 新宿カフェ（新宿駅 徒歩2分）、大人食堂（新宿三丁目駅 徒歩3分）、DOUBLE TALL COFFEE 新宿御苑。新大久保駅の近くにSPICY CURRY 魯珈（徒歩3分）とCozyStyle COFFEE。</li>
+  <li><strong>新宿・西新宿・新大久保</strong>：都庁食堂（都庁32階）とヒルトン東京 マーブルラウンジ、Paul Bassett 新宿（新宿西口駅 徒歩3分）、大人食堂（新宿三丁目駅 徒歩3分）、DOUBLE TALL COFFEE 新宿御苑。新大久保駅の近くにSPICY CURRY 魯珈（徒歩3分）とCozyStyle COFFEE。</li>
   <li><strong>神楽坂・早稲田</strong>：400℃ PIZZA TOKYO・Donish Coffee Company 神楽坂・二丁目食堂トレド（どれも牛込神楽坂駅から徒歩5〜6分）と、早稲田のお食事処 たかはし。</li>
   <li><strong>九段下・神保町・淡路町・秋葉原・東京駅</strong>：トーキョーアジフライ（九段下駅 徒歩1分）、なぎさ食堂（神保町駅 徒歩3分）、中華料理 十八番（淡路町駅 徒歩3分）、秋葉原 カリガリ（秋葉原駅 徒歩2分）。当時の4人の朝ごはんの回のお店がまとまっています。東京駅のグランスタ八重北にはゲスト回のdancyu食堂。</li>
   <li><strong>渋谷・恵比寿・代々木</strong>：挽肉と米 渋谷（渋谷駅 徒歩2分）・葱や平吉 渋谷宇田川町店・ゴールドラッシュ 渋谷本店、恵比寿のピーター・ルーガー・ステーキハウス東京（恵比寿駅 徒歩6分）・VERVE COFFEE ROASTERS EBISU・土鍋炊ごはん なかよし 本店。代々木駅の近くに手しおごはん 玄 新宿南口店、代々木公園の近くにBeasty Coffee [cafe laboratory]、国立競技場の近くにBLUE SIX COFFEE。</li>
@@ -329,7 +325,7 @@ stay_inline: true
 
 <div class="pf-cta">
   <p>よにのちゃんねるのお店を、地図でぜんぶ見る</p>
-  <span>この記事の79軒を地図で探せます。メンバーごとの絞り込みもできます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の77軒を地図で探せます。メンバーごとの絞り込みもできます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=yonino&amp;view=map">地図でよにのちゃんねるのお店を見る</a>
 </div>
 <p><a href="{{ site.data.group_ix.yonino.u }}">よにのちゃんねるのお店一覧（グループのページ）</a>もどうぞ。</p>

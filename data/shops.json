@@ -932,9 +932,9 @@
     "genre": "cafe",
     "prefecture": "東京都",
     "city": "渋谷区",
-    "address": "東京都渋谷区恵比寿4-20-7 恵比寿ガーデンプレイス センタープラザ内",
-    "lat": 35.642345,
-    "lng": 139.714007,
+    "address": "東京都渋谷区東3-9-12",
+    "lat": 35.649952,
+    "lng": 139.711807,
     "youtube_id": "MBsvQ9ZPKy8",
     "members": [
       "二宮和也",
@@ -956,7 +956,6 @@
     "source_video_title": "#469【続き!!】しんどくて発狂した日",
     "thumbnail_url": "https://img.youtube.com/vi/MBsvQ9ZPKy8/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13278633/",
-    "nearest_station": "恵比寿駅 徒歩9分",
     "ordered_items": [
       {
         "name": "アイスコーヒー"
@@ -989,7 +988,7 @@
     "source_video_channel": "よにのちゃんねる",
     "visit_kind": "youtube",
     "program": "よにのちゃんねる",
-    "qa_note": "#468（ピーター・ルーガー）の続きの回",
+    "qa_note": "#468（ピーター・ルーガー）の続きの回 kosodate-and.net/yonino469-coffee-cafe/：#469で訪れたのはVERVE COFFEE ROASTERS EBISU（渋谷区東3-9-12）。登録の恵比寿ガーデンプレイスの住所は誤り",
     "source_url": "https://kosodate-and.net/yonino469-coffee-cafe/"
   },
   {
@@ -4941,41 +4940,6 @@
     "tabelog_source": "https://kosodate-and.net/yonino-ninofuma-cafe/"
   },
   {
-    "id": "yonino-blue-bottle-shinjuku",
-    "name": "ブルーボトルコーヒー 新宿カフェ",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "新宿区",
-    "address": "東京都新宿区新宿3-38-1 ルミネエスト新宿B1F",
-    "lat": 35.6891,
-    "lng": 139.7009,
-    "youtube_id": "HVxmVgBcpCY",
-    "members": [
-      "二宮和也",
-      "山田涼介",
-      "菊池風磨"
-    ],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "visited_date": "2025-02-23",
-    "description": "よにのちゃんねるの「#399【山田回!!】山田が山田で山田だった日」（2025年2月）で、二宮和也・山田涼介・菊池風磨の3人のドライブ中に山田涼介がコーヒーを買いに行った店。",
-    "tags": [
-      "カフェ",
-      "新宿",
-      "スペシャルティコーヒー"
-    ],
-    "source_video_title": "#399【山田回!!】山田が山田で山田だった日",
-    "thumbnail_url": "https://img.youtube.com/vi/HVxmVgBcpCY/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1304/A130401/13193547/",
-    "nearest_station": "新宿駅 徒歩2分",
-    "source_video_channel": "よにのちゃんねる",
-    "visit_kind": "youtube",
-    "program": "よにのちゃんねる",
-    "qa_note": "ゲームに負けた山田が1人で買いに行った（コメントより）"
-  },
-  {
     "id": "yonino-starbucks-reserve-roastery",
     "name": "STARBUCKS RESERVE ROASTERY TOKYO",
     "genre": "cafe",
@@ -5891,13 +5855,13 @@
   },
   {
     "id": "sixtones-kurumi-shineimachi",
-    "name": "くるみ 新栄店",
+    "name": "くるみ",
     "genre": "izakaya",
     "prefecture": "愛知県",
     "city": "名古屋市東区",
-    "address": "愛知県名古屋市東区新栄1-3-24",
-    "lat": 35.167743,
-    "lng": 136.913842,
+    "address": "愛知県名古屋市中区新栄2-1-44",
+    "lat": 35.168999,
+    "lng": 136.919983,
     "youtube_id": "1enHsuNGPMQ",
     "members": [
       "ジェシー",
@@ -5924,11 +5888,10 @@
     "source_video_url": "https://www.youtube.com/watch?v=1enHsuNGPMQ",
     "thumbnail_url": "https://img.youtube.com/vi/1enHsuNGPMQ/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/aichi/A2303/A230301/23064111/",
-    "nearest_station": "栄駅 徒歩8分",
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "名古屋公演の打ち上げという点は動画の説明文では確かめられない（説明文は「ドーム公演の打ち上げ」のみ）。ファンブログ fananablog の2024年一覧に「くるみ 新店」とある",
+    "qa_note": "名古屋公演の打ち上げという点は動画の説明文では確かめられない（説明文は「ドーム公演の打ち上げ」のみ）。ファンブログ fananablog の2024年一覧に「くるみ 新店」とある kosodate-and.net/sixtones-nagoya-izakaya/：店は「くるみ」、名古屋市中区新栄2-1-44（食べログ店ID 23000212）。fananablog 2024は「くるみ 新店」中区新栄2-1-4 1F と番地が1桁違う（国土地理院では両方とも実在）。登録の東区新栄1-3-24は別店舗",
     "source_url": "https://kosodate-and.net/sixtones-nagoya-izakaya/",
     "ordered_items": [
       "ビール",
@@ -6580,44 +6543,6 @@
     "qa_note": "出典で店が出たことを確かめられていない（動画の説明文に店名なし）。今の説明文の「Shizuoka Travelシリーズ」は2020年の別企画で、動画と食い違う"
   },
   {
-    "id": "yonino-doutor-akasaka",
-    "name": "ドトールコーヒーショップ 赤坂青山通り店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区赤坂4-8-20",
-    "lat": 35.6703,
-    "lng": 139.737,
-    "youtube_id": "-jyOpZIJcn8",
-    "members": [
-      "二宮和也",
-      "山田涼介",
-      "菊池風磨"
-    ],
-    "groups": [
-      "yonino"
-    ],
-    "group": "yonino",
-    "visited_date": "2024-12-18",
-    "description": "よにのちゃんねるの「#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日」（2024年12月）で、二宮和也・山田涼介・菊池風磨の3人（ゲストの北村匠海も同乗）のドライブ中に二宮和也がコーヒーを買いに行った店。",
-    "tags": [
-      "カフェ",
-      "赤坂",
-      "ドトール"
-    ],
-    "source_video_title": "#380【ドライブ!!】ある種、北村匠海と意思疎通が出来た日",
-    "source_video_url": "https://www.youtube.com/watch?v=-jyOpZIJcn8",
-    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13086847/",
-    "nearest_station": "赤坂駅 徒歩4分",
-    "source_video_channel": "よにのちゃんねる",
-    "visit_kind": "youtube",
-    "program": "よにのちゃんねる",
-    "with": [
-      "北村匠海"
-    ],
-    "qa_note": "ドライブ中に二宮がコーヒーを買いに行った（コメントより）。北村匠海は members から with へ移す"
-  },
-  {
     "id": "yonino-chuka-juhachiban-kanda",
     "name": "中華料理 十八番",
     "genre": "chuka",
@@ -7258,7 +7183,7 @@
     "address": "東京都杉並区高円寺北2丁目10-7 ヴィラグリーン 3F",
     "lat": 35.6993,
     "lng": 139.6363,
-    "youtube_id": "BPvNgGIKoeU",
+    "youtube_id": "Hj0HB_c5yKw",
     "members": [
       "諸橋沙夏"
     ],
@@ -7266,10 +7191,10 @@
       "equal_love"
     ],
     "group": "equal_love",
-    "visited_date": "2024-12-15",
+    "visited_date": "2025-11-14",
     "description": "=LOVEの諸橋沙夏がはしご酒シリーズ「つんはしご」で訪れた高円寺の串カツ店。",
     "source_video_title": "【はしご酒】高円寺で飲むお酒がとにかく最高すぎました",
-    "source_video_url": "https://www.youtube.com/watch?v=BPvNgGIKoeU",
+    "source_video_url": "https://www.youtube.com/watch?v=Hj0HB_c5yKw",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/BPvNgGIKoeU/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/tokyo/A1319/A131904/13303732/",
@@ -7277,38 +7202,7 @@
     "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
     "visit_kind": "youtube",
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "このIDは高円寺回（BPvNgGIKoeU）に紐付いているが、miruwz7.blog.jp では上野回（Hj0HB_c5yKw）の掲載店として載っている。どちらの回か要確認"
-  },
-  {
-    "id": "equallove_009",
-    "name": "俏香（チャオシャン）",
-    "genre": "chuka",
-    "prefecture": "神奈川県",
-    "city": "横浜市",
-    "address": "神奈川県横浜市中区山下町146-2",
-    "lat": 35.443104,
-    "lng": 139.645386,
-    "youtube_id": "Dp0KTso3Suw",
-    "members": [
-      "佐々木舞香",
-      "齋藤樹愛羅"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "visited_date": "2023-06-23",
-    "description": "=LOVEの佐々木舞香と齋藤樹愛羅（きあまい）の横浜中華街旅の動画に紐付けられている中華街の店。",
-    "source_video_title": "【日常】中華街のカフェでひたすらお喋り♡占いにも行ったよー🔮！！【きあまい】【中華街旅#2】",
-    "source_video_url": "https://www.youtube.com/watch?v=Dp0KTso3Suw",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/Dp0KTso3Suw/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140105/14091339/",
-    "nearest_station": "元町・中華街駅",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "miruwz7.blog.jp の中華街旅#1・#2の掲載店に俏香はなく、動画の説明欄にも店名がない。出典で確かめられなかった。同じ山下町146の福臨閣売店（#1に掲載）と取り違えの可能性あり。要確認"
+    "qa_note": "このIDは高円寺回（BPvNgGIKoeU）に紐付いているが、miruwz7.blog.jp では上野回（Hj0HB_c5yKw）の掲載店として載っている。どちらの回か要確認 miruwz7.blog.jp/archives/28856433.html（上野回 Hj0HB_c5yKw、2025-11-14）の3軒目に串カツ玩具-GANG-（住所は高円寺北2-10-7のまま）。高円寺回（BPvNgGIKoeU）の記事には載っていない。youtube_id を上野回に付け替える必要あり"
   },
   {
     "id": "sixtones-yy_kafei_dian-202403",
@@ -7342,41 +7236,6 @@
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
     "qa_note": "今の説明文の「2024年3月」は誤り（動画は2026-01-30公開）。説明文にカヤトースト・チキンライスのタグあり。店名は出典で未確認"
-  },
-  {
-    "id": "sixtones-2b41b180-202411",
-    "name": "笑たこ 原宿表参道店",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前4-31-10",
-    "lat": 35.6698,
-    "lng": 139.7061,
-    "youtube_id": "QxC80mUBnpQ",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "森本慎太郎",
-      "田中樹"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2020-03-06",
-    "description": "SixTONESの公式YouTube「Harajuku Walk - 原宿散歩してみた」（2020年3月）に登場した原宿のたこ焼き店。",
-    "source_video_title": "SixTONES - Harajuku Walk - 原宿散歩してみた",
-    "source_video_url": "https://www.youtube.com/watch?v=9B0nETo07gA",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/QxC80mUBnpQ/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13074452/",
-    "nearest_station": "明治神宮前〈原宿〉駅 徒歩3分",
-    "source_video_channel": "SixTONES",
-    "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "店名・メンバーは出典で確かめられていない（動画の説明文に店名なし。ファンブログの2020年分は未確認）"
   },
   {
     "id": "sixtones-b5dfc98a-202310",
@@ -7452,41 +7311,6 @@
     "qa_note": "出典で確かめられない：ファンブログ fananablog の2019年一覧（秩父編）に阿左美冷蔵はない。今の説明文の「2021年8月」も動画（2019-05-31）と食い違う。店名に「（SixTONES）」が付いているので名前も直したい"
   },
   {
-    "id": "sixtones-f52d4936-202108",
-    "name": "豚みそ丼本舗 野さか",
-    "genre": "washoku",
-    "prefecture": "埼玉県",
-    "city": "秩父市",
-    "address": "埼玉県秩父市野坂町1-13-11",
-    "lat": 35.9897,
-    "lng": 139.0823,
-    "youtube_id": "ki6-4nUfMTM",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "森本慎太郎",
-      "田中樹"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2019-05-31",
-    "description": "SixTONESの公式YouTubeのドライブ企画・秩父編（2019年）に登場したとされる、豚みそ丼の店。",
-    "source_video_title": "SixTONES【1年ぶりの復活】第3回！ドライブ企画ー秩父編ー1/5",
-    "source_video_url": "https://www.youtube.com/watch?v=7qT9_f_yB-Y",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/ki6-4nUfMTM/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/saitama/A1107/A110701/11003381/",
-    "nearest_station": "西武秩父駅 徒歩2分",
-    "source_video_channel": "SixTONES",
-    "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "出典で確かめられない：ファンブログ fananablog の2019年一覧（秩父編）に野さかはない。今の説明文の「2021年8月」も動画（2019-05-31）と食い違う"
-  },
-  {
     "id": "sixtones-b647a3f1-202204",
     "name": "手打ちそば こめや",
     "genre": "washoku",
@@ -7521,11 +7345,11 @@
   },
   {
     "id": "sixtones-4330a634-202204",
-    "name": "もりもり寿司 金沢駅前店",
+    "name": "もりもり寿し イオン新小松店",
     "genre": "washoku",
     "prefecture": "石川県",
     "city": "金沢市",
-    "address": "石川県金沢市堀川新町3-1 金沢フォーラス6F",
+    "address": "石川県小松市清六町315",
     "lat": 36.5815,
     "lng": 136.6478,
     "youtube_id": "g58loSsI8Rw",
@@ -7541,23 +7365,23 @@
       "sixtones"
     ],
     "group": "sixtones",
-    "visited_date": "2019-12-07",
+    "visited_date": "2019-12-14",
     "description": "SixTONESの公式YouTubeの金沢旅企画（2019年12月）で、6人が訪れた回転寿司店。",
     "source_video_title": "SixTONES - Kanazawa Travel Vol.1",
     "source_video_url": "https://www.youtube.com/watch?v=mXjVl6k9Q-I",
     "tags": [],
     "thumbnail_url": "https://img.youtube.com/vi/g58loSsI8Rw/hqdefault.jpg",
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000420/",
-    "nearest_station": "金沢駅 徒歩6分",
     "source_video_channel": "SixTONES",
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "店舗が違う可能性：ファンブログ fananablog では「もりもり寿し イオン新小松店」（2019/12/14配信回）。今のデータは金沢駅前店・Kanazawa Travel Vol.1（2019-12-07）。今の説明文の「2022年4月」も誤り",
+    "qa_note": "店舗が違う可能性：ファンブログ fananablog では「もりもり寿し イオン新小松店」（2019/12/14配信回）。今のデータは金沢駅前店・Kanazawa Travel Vol.1（2019-12-07）。今の説明文の「2022年4月」も誤り fananablog.com/sixtones-seichi-youtube-2019/：近江町市場で寿司が食べられず「もりもり寿し イオン新小松店」（小松市清六町315番地）へ。2019/12/14配信の回（12/07配信のVol.1ではない）。youtube_id もVol.2に直す必要あり",
     "source_url": "https://fananablog.com/sixtones-seichi-youtube-2019/",
     "ordered_items": [
       "のど黒",
       "かに三点盛り"
-    ]
+    ],
+    "location_unverified": true
   },
   {
     "id": "sixtones-tiantianhainanesechickenrice",
@@ -7614,35 +7438,6 @@
     "visit_kind": "youtube",
     "program": "ストチューブ（SixTONES公式YouTube）",
     "qa_note": "京本大我だけが訪れた点は出典で未確認。今の説明文の「2024年3月」は誤り。genre others→ちがうなら shokuji に"
-  },
-  {
-    "id": "sixtones-pizzeria-e-trattoria-da-isa",
-    "name": "Pizzeria e Trattoria da ISA",
-    "genre": "others",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区中目黒",
-    "lat": 35.6442,
-    "lng": 139.6987,
-    "youtube_id": "gVrUjNQzPNA",
-    "source_video_title": "【SixTONES】クリスマスイブイブにチキン＆ピザ!!",
-    "source_video_url": "https://www.youtube.com/watch?v=kY6vPIdYp_o",
-    "visited_date": "",
-    "members": [
-      "ジェシー"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "description": "SixTONESの公式YouTube「クリスマスイブイブにチキン＆ピザ!!」（2022年12月）に関係する中目黒のピザ店。",
-    "tags": [],
-    "thumbnail_url": "https://img.youtube.com/vi/gVrUjNQzPNA/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13304230/",
-    "source_video_channel": "SixTONES",
-    "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "迷う：動画は利きチキン・利きピザ企画（説明文）で、店に行ったのか、ピザを取り寄せただけかが確かめられない。「ジェシーの希望で訪れた」も出典なし。住所が番地なし"
   },
   {
     "id": "yonino-5d0b703c-202604",
@@ -9316,35 +9111,6 @@
     "tabelog_source": "https://kosodate-and.net/kame-ramen/"
   },
   {
-    "id": "naniwa-muun_seoul-20201023",
-    "name": "MUUN seoul",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神宮前3-27-15 1E",
-    "lat": 35.6692039,
-    "lng": 139.7072847,
-    "youtube_id": "",
-    "source_video_title": "",
-    "source_video_url": "",
-    "visited_date": "2020-10-23",
-    "members": [
-      "長尾謙杜"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "明治神宮前〈原宿〉駅 徒歩3分",
-    "description": "めざましテレビ「なにわ男子のなんでやねん！」（2020年10月23日放送）で長尾謙杜が訪れた韓国カフェ。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1306/A130601/13261664/",
-    "hotpepper_url": "",
-    "visit_kind": "guest_tv",
-    "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "出典ブログ（source_url）がなく、放送内容をファンブログ等で確かめられなかった。説明文の記述を信じてkeep"
-  },
-  {
     "id": "naniwa-trufflebakery-20211001",
     "name": "TruffleBAKERY",
     "genre": "cafe",
@@ -9400,35 +9166,6 @@
     "description": "めざましテレビ「なにわ男子のなんでやねん！」（2021年10月1日放送）で大橋和也が訪れた食パン専門店とコーヒースタンドの店。",
     "tags": [],
     "tabelog_url": "",
-    "hotpepper_url": "",
-    "visit_kind": "guest_tv",
-    "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "出典ブログ（source_url）がなく、放送内容をファンブログ等で確かめられなかった。説明文の記述を信じてkeep"
-  },
-  {
-    "id": "naniwa-b723a30f-202107",
-    "name": "そうめん そそそ 研究室",
-    "genre": "ramen",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ 6F",
-    "lat": 35.6585428,
-    "lng": 139.7015098,
-    "youtube_id": "",
-    "source_video_title": "",
-    "source_video_url": "",
-    "visited_date": "2021-07-09",
-    "members": [
-      "高橋恭平"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "渋谷駅 徒歩1分",
-    "description": "めざましテレビ「なにわ男子のなんでやねん！」（2021年7月9日放送）で高橋恭平が訪れたそうめん専門店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13258485/",
     "hotpepper_url": "",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のなんでやねん！（めざましテレビ）",
@@ -9674,79 +9411,7 @@
     "source_video_channel": "なにわ男子",
     "visit_kind": "youtube",
     "program": "なにわTube（なにわ男子公式YouTube）",
-    "qa_note": "oEmbedでタイトル確認。ordered_itemsに7人全員の名前があるため全員とした"
-  },
-  {
-    "id": "naniwa-d5f14d00-202411",
-    "name": "駿河の味処 富士屋",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "静岡市",
-    "address": "静岡県静岡市清水区殿沢２丁目１−１０",
-    "lat": 34.979238,
-    "lng": 138.490208,
-    "youtube_id": "bf6HUKQE23c",
-    "source_video_title": "なにわ男子【2024夏の静岡旅~10~】ラストはうなぎ料理で少数派グルメ",
-    "source_video_url": "https://www.youtube.com/watch?v=bf6HUKQE23c",
-    "visited_date": "2024-11-26",
-    "members": [
-      "西畑大吾",
-      "大西流星",
-      "道枝駿佑",
-      "高橋恭平",
-      "長尾謙杜",
-      "藤原丈一郎",
-      "大橋和也"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "",
-    "description": "なにわ男子の公式YouTube「2024夏の静岡旅~10~」（2024年11月）の最後に訪れたうなぎ料理の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2201/A220102/22004486/",
-    "thumbnail_url": "https://img.youtube.com/vi/bf6HUKQE23c/hqdefault.jpg",
-    "source_video_channel": "なにわ男子",
-    "visit_kind": "youtube",
-    "program": "なにわTube（なにわ男子公式YouTube）",
-    "qa_note": "oEmbedでタイトル確認。毎年恒例のメンバー旅のため全員としたが、動画で人数は未確認"
-  },
-  {
-    "id": "naniwa-2c2e760f-202410",
-    "name": "もんじゃと酒膳 かりん",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区六番町１−１０山陽六番町ビル 地下１階",
-    "lat": 35.687493,
-    "lng": 139.733399,
-    "youtube_id": "3_HZZwKYEw4",
-    "source_video_title": "なにわ男子【大西流星が大倉くんとのんちゃんと打ち上げ】遅刻しちゃった〜💦",
-    "source_video_url": "https://www.youtube.com/watch?v=3_HZZwKYEw4",
-    "visited_date": "2024-10-04",
-    "members": [
-      "大西流星"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "四ツ谷駅 徒歩5分",
-    "description": "なにわ男子の公式YouTube「大西流星が大倉くんとのんちゃんと打ち上げ」（2024年10月）で、大西流星が大倉忠義・のんと打ち上げをしたもんじゃ店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13006400/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000116416/",
-    "thumbnail_url": "https://img.youtube.com/vi/3_HZZwKYEw4/hqdefault.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/03/07/P036760307/P036760307_238.jpg",
-    "source_video_channel": "なにわ男子",
-    "visit_kind": "youtube",
-    "program": "なにわTube（なにわ男子公式YouTube）",
-    "with": [
-      "大倉忠義（SUPER EIGHT）",
-      "のん"
-    ],
-    "qa_note": "oEmbedでタイトル確認。同行者はタイトルから"
+    "qa_note": "oEmbedでタイトル確認。ordered_itemsに7人全員の名前があるため全員とした 公式説明欄に「提供：カレーハウスCoCo壱番屋」とありCoCo壱番屋とのコラボ。支店未確定（中目黒山手通店と書いたページなし、店舗での撮影かも不明）"
   },
   {
     "id": "naniwa-a47465ac-202410",
@@ -9820,7 +9485,7 @@
     "source_video_channel": "なにわ男子",
     "visit_kind": "youtube",
     "program": "なにわTube（なにわ男子公式YouTube）",
-    "qa_note": "oEmbedでタイトル確認。ファンブログでは西畑・大橋・大西らの注文が紹介されている。全員参加の旅だが動画で人数は未確認"
+    "qa_note": "oEmbedでタイトル確認。ファンブログでは西畑・大橋・大西らの注文が紹介されている。全員参加の旅だが動画で人数は未確認 公式説明欄は「浜松餃子」で店名なし。動画コメントに「家から徒歩1分の石松餃子だった」「石松餃子うまかった」があり石松餃子とは分かる。支店未確定（本店かは確かめられない）"
   },
   {
     "id": "nogizaka46-c6012bc1-",
@@ -10198,36 +9863,6 @@
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/"
   },
   {
-    "id": "nogizaka46-freddy_leck_sein_was-",
-    "name": "FREDDY LECK sein WASCHSALON TOKYO",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区中央町1-3-13",
-    "lat": 35.6303197,
-    "lng": 139.6914353,
-    "youtube_id": "f0wbnQw89J0",
-    "source_video_title": "乃木坂46 『シンクロニシティ』",
-    "visited_date": "",
-    "members": [],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "学芸大学駅 徒歩9分",
-    "description": "乃木坂46の20thシングル「シンクロニシティ」Type-Bのジャケット写真の撮影に使われたカフェ併設のコインランドリー。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131702/13212264/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/f0wbnQw89J0/hqdefault.jpg",
-    "source_type": "tv",
-    "source_video_channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
-    "visit_kind": "drama",
-    "program": "乃木坂46「シンクロニシティ」Type-B ジャケット写真",
-    "qa_note": "写っているメンバーは出典で確かめられず。youtube_id はシンクロニシティMV（店はMVではなくジャケ写）",
-    "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/"
-  },
-  {
     "id": "nogizaka46-umi_cafe-",
     "name": "umi cafe",
     "genre": "cafe",
@@ -10548,7 +10183,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。"
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。 8888-infoはrobotsで読めないが、動画のコメント（YouTube API取得）に「OKUDO」へ中丸が来た旨の書き込みが複数あり、店名は合う"
   },
   {
     "id": "ginga-maru-202407",
@@ -10578,7 +10213,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。"
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-07-09 は visited_date と一致。 8888-infoはrobotsで読めないが、動画のコメント（YouTube API取得）に「MARU」へ中丸が来た旨の書き込みが複数あり、店名は合う"
   },
   {
     "id": "ginga-24823ef5-202406",
@@ -10619,7 +10254,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "1軒の飲食店ではなく、飲食店が集まる施設（豊洲 千客万来）。説明文に「インバウン丼を注文」とある。施設として残すか、中の店に分けるかは人が判断。公開日 2024-06-27 は visited_date と一致。"
+    "qa_note": "1軒の飲食店ではなく、飲食店が集まる施設（豊洲 千客万来）。説明文に「インバウン丼を注文」とある。施設として残すか、中の店に分けるかは人が判断。公開日 2024-06-27 は visited_date と一致。 公式説明欄に「千客万来に行き…インバウン丼を注文」とあり来訪は確か。1軒の店ではなく施設なので、中の店に分けるかは人が判断"
   },
   {
     "id": "ginga-cb38ce4c-202406",
@@ -10710,7 +10345,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-05-07 は visited_date と一致。"
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-05-07 は visited_date と一致。 8888-infoはrobotsで読めないが、動画のコメント（YouTube API取得）に「おお田」へ中丸が来た旨の書き込みが複数あり、店名は合う"
   },
   {
     "id": "ginga-korin-20250413",
@@ -10747,43 +10382,6 @@
     "ordered_items": [
       "レモングラスほうじ茶"
     ]
-  },
-  {
-    "id": "ginga-f50e5bd3-202403",
-    "name": "セイロン・イン",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区上目黒２丁目７−８",
-    "lat": 35.641125,
-    "lng": 139.6970053,
-    "youtube_id": "ySYiJdep4fc",
-    "source_video_title": "北村匠海×中丸雄一【初の他事務所対談】プライベートなことまで聞きまくりました！",
-    "visited_date": "2024-03-30",
-    "members": [
-      "中丸雄一"
-    ],
-    "groups": [
-      "ginga"
-    ],
-    "group": "ginga",
-    "nearest_station": "中目黒駅 徒歩6分",
-    "description": "中丸雄一の公式YouTube「中丸銀河ちゃんねる」の北村匠海との対談回（2024年3月）に出てきた中目黒の喫茶店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131701/13008189/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ003388201/",
-    "ordered_items": [
-      {
-        "name": "アイスコーヒー？"
-      }
-    ],
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/37/59/P040273759/P040273759_238.jpg",
-    "visit_kind": "youtube",
-    "program": "中丸銀河ちゃんねる",
-    "with": [
-      "北村匠海"
-    ],
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない（注文も「アイスコーヒー？」と不確か）。公開日 2024-03-30 は visited_date と一致。"
   },
   {
     "id": "ginga-44b85f76-202403",
@@ -10853,7 +10451,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-03-12 は visited_date と一致。"
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-03-12 は visited_date と一致。 8888-infoはrobotsで読めないが、動画のコメント（YouTube API取得）に「小安丸」へ中丸が来た旨の書き込みが複数あり、店名は合う"
   },
   {
     "id": "ginga-gold_rush-202402",
@@ -10895,7 +10493,7 @@
       "ジェシー（SixTONES）",
       "髙地優吾（SixTONES）"
     ],
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない。公開日 2024-02-17 は visited_date と一致。",
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 対談回で、店で撮ったのかは説明文から確かめられない。公開日 2024-02-17 は visited_date と一致。 支店未確定：kosodate-and は「新宿歌舞伎町店ではないでしょうか」と推測",
     "source_url": "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg/",
     "tabelog_verified": true,
     "tabelog_source": "https://kosodate-and.net/nakamaru-jesse-kochi-hamburg/"
@@ -10927,7 +10525,7 @@
     "source_video_channel": "中丸銀河ちゃんねる",
     "visit_kind": "youtube",
     "program": "中丸銀河ちゃんねる",
-    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-02-13 は visited_date と一致。"
+    "qa_note": "店名はファンブログ由来で、公式の説明文には店名がない（8888-info は robots.txt でAIクローラー拒否のため未確認）。 公開日 2024-02-13 は visited_date と一致。 8888-infoはrobotsで読めないが、動画のコメント（YouTube API取得）に「十刻」へ中丸が来た旨の書き込みが複数あり、店名は合う"
   },
   {
     "id": "ginga-810aafd0-202402",
@@ -11695,38 +11293,6 @@
     "source_url": "https://miruwz7.blog.jp/archives/26011450.html"
   },
   {
-    "id": "notme-a542cec1-202411",
-    "name": "杉山名産店",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市田原本町４−４",
-    "lat": 35.1033354,
-    "lng": 139.0782748,
-    "youtube_id": "IwPmbzmNeQg",
-    "source_video_title": "【Vlog】熱海でまったり食べ歩きの旅",
-    "visited_date": "2024-11-01",
-    "members": [
-      "鈴木瞳美",
-      "尾木波菜"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "熱海駅 徒歩1分",
-    "description": "≠MEの鈴木瞳美の個人YouTubeチャンネル「わたしはすずき。」の「【Vlog】熱海でまったり食べ歩きの旅」（2024年11月）で、熱海駅前の平和通り名店街で立ち寄った干物・名産品の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22026322/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/IwPmbzmNeQg/hqdefault.jpg",
-    "source_video_channel": "わたしはすずき。",
-    "visit_kind": "youtube",
-    "program": "わたしはすずき。",
-    "qa_note": "尾木波菜を追加（説明欄）。店名はファンブログのロケ地一覧による。食べ歩きか買い物だけかは未確認",
-    "source_url": "https://miruwz7.blog.jp/archives/26011450.html"
-  },
-  {
     "id": "notme-4e507645-202411",
     "name": "又一庵謹製熱海ばたーあん",
     "genre": "sweets",
@@ -12203,13 +11769,13 @@
   },
   {
     "id": "equal_love-7cbba11a-202408",
-    "name": "らうめん侍 本丸",
+    "name": "らうめん侍 金沢百番街店",
     "genre": "ramen",
     "prefecture": "石川県",
     "city": "金沢市",
     "address": "石川県金沢市広岡１丁目７−１ 金沢百番街あんと西3階",
-    "lat": 36.5790275,
-    "lng": 136.6465437,
+    "lat": 36.578533,
+    "lng": 136.647202,
     "youtube_id": "6loT5JM_yQo",
     "source_video_title": "【休日Vlog】金沢でおいしいものをひたすら食べまくりました🍣🍢🍜",
     "visited_date": "2023-12-29",
@@ -12220,7 +11786,6 @@
       "equal_love"
     ],
     "group": "equal_love",
-    "nearest_station": "金沢駅 徒歩3分",
     "description": "=LOVEの大谷映美里が、自身のYouTube「みりにゃと申します。」の「【休日Vlog】金沢でおいしいものをひたすら食べまくりました」（2023年12月）で訪れたラーメン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/ishikawa/A1701/A170101/17000958/",
@@ -12229,7 +11794,7 @@
     "source_video_channel": "みりにゃと申します。",
     "visit_kind": "youtube",
     "program": "みりにゃと申します。（大谷映美里）",
-    "qa_note": "miruwz7.blog.jp の表記は「らうめん侍 金沢百番街店」",
+    "qa_note": "miruwz7.blog.jp の表記は「らうめん侍 金沢百番街店」 miruwz7.blog.jp/archives/25164619.html の見出しは「らうめん侍 金沢百番街店」（住所は登録と同じ）",
     "source_url": "https://miruwz7.blog.jp/archives/25164619.html"
   },
   {
@@ -12837,41 +12402,6 @@
     "qa_note": "説明欄に撮影協力と住所の記載"
   },
   {
-    "id": "neajoy-14f3ebca-202408",
-    "name": "大涌谷 駅の店",
-    "genre": "shokuji",
-    "prefecture": "神奈川県",
-    "city": "足柄下郡箱根町",
-    "address": "神奈川県足柄下郡箱根町仙石原",
-    "lat": 35.2710625,
-    "lng": 139.01225,
-    "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
-    "visited_date": "2023-11-21",
-    "members": [
-      "天野香乃愛",
-      "市原愛弓",
-      "江角怜音",
-      "大信田美月",
-      "髙橋舞"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "",
-    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、天野香乃愛・市原愛弓・江角怜音・大信田美月・髙橋舞が立ち寄った箱根ロープウェイ大涌谷駅の売店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14053358/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "主に土産物の売店。目次の「名物黒たまごのお味は？」の黒たまごをここで買ったかは未確認。住所は番地なし",
-    "source_url": "https://miruwz7.blog.jp/archives/25162283.html"
-  },
-  {
     "id": "notme-273b4aa9-202408",
     "name": "焼肉トラジ 京橋店",
     "genre": "yakiniku",
@@ -12902,38 +12432,6 @@
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
     "qa_note": "説明欄に撮影協力として記載",
     "source_url": "https://miruwz7.blog.jp/archives/25162017.html"
-  },
-  {
-    "id": "notme-db5ba582-202408",
-    "name": "杉養蜂園 軽井沢2号店",
-    "genre": "sweets",
-    "prefecture": "長野県",
-    "city": "北佐久郡軽井沢町",
-    "address": "長野県北佐久郡軽井沢町軽井沢旧軽井沢５８６−１",
-    "lat": 36.3624355,
-    "lng": 138.6397246,
-    "youtube_id": "UC_nxGtuqAg",
-    "source_video_title": "【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】",
-    "visited_date": "2023-10-16",
-    "members": [
-      "蟹沢萌子",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "",
-    "description": "≠MEの公式YouTubeの「【軽井沢】お揃いを探そう！お買い物ぷち旅行してきたよ！【ちょこもなか】」（2023年10月）で、蟹沢萌子と冨田菜々風が旧軽井沢銀座で立ち寄ったはちみつの店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/nagano/A2003/A200301/20019057/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/UC_nxGtuqAg/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "説明欄に店名なし、ファンブログのロケ地一覧による。はちみつの物販店で、食べたか買い物だけかは未確認",
-    "source_url": "https://miruwz7.blog.jp/archives/25161977.html"
   },
   {
     "id": "neajoy-403503b7-202408",
@@ -14959,41 +14457,6 @@
     "qa_note": "目次「海鮮串&ソフトクリーム♡」。食べた物はファンブログ（ほたて串・浜焼あわび串・箱根みたらしソフトクリーム）による"
   },
   {
-    "id": "neajoy-5d7a9b9d-202408",
-    "name": "杉養蜂園 箱根店",
-    "genre": "sweets",
-    "prefecture": "神奈川県",
-    "city": "足柄下郡箱根町",
-    "address": "神奈川県足柄下郡箱根町湯本７０４",
-    "lat": 35.2329,
-    "lng": 139.1062,
-    "youtube_id": "TAQI0WEyy7k",
-    "source_video_title": "メンバーだけで箱根でロケしてみた🍁【ノープラン旅】",
-    "visited_date": "2023-11-21",
-    "members": [
-      "天野香乃愛",
-      "市原愛弓",
-      "江角怜音",
-      "大信田美月",
-      "髙橋舞"
-    ],
-    "groups": [
-      "neajoy"
-    ],
-    "group": "neajoy",
-    "nearest_station": "箱根湯本駅 徒歩4分",
-    "description": "≒JOYの公式YouTubeの「メンバーだけで箱根でロケしてみた🍁【ノープラン旅】」（2023年11月）で、箱根湯本の商店街で立ち寄ったはちみつの店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kanagawa/A1410/A141001/14009412/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/TAQI0WEyy7k/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "店名はファンブログによる。ソフトクリームをここで食べたかは未確認（はちみつの物販店）",
-    "source_url": "https://miruwz7.blog.jp/archives/25162283.html"
-  },
-  {
     "id": "neajoy-67083c58-202408",
     "name": "さつまいも専門店 箱根おいも大学前",
     "genre": "shokuji",
@@ -15479,38 +14942,6 @@
     "source_url": "https://miruwz7.blog.jp/archives/25160344.html"
   },
   {
-    "id": "notme-2d3e71a8-202408",
-    "name": "すごう農園直売所「ピアッツァ」",
-    "genre": "shokuji",
-    "prefecture": "千葉県",
-    "city": "八千代市",
-    "address": "千葉県八千代市大和田新田６４３−３",
-    "lat": 35.730495,
-    "lng": 140.090714,
-    "youtube_id": "MsDUT0xeXeo",
-    "source_video_title": "【ご褒美♡】千葉でいちご狩りに！100個食べれるか挑戦！？",
-    "visited_date": "2023-04-30",
-    "members": [
-      "落合希来里",
-      "冨田菜々風",
-      "本田珠由記"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "八千代中央駅 徒歩19分",
-    "description": "≠MEの公式YouTubeの「【ご褒美♡】千葉でいちご狩りに！100個食べれるか挑戦！？」（2023年4月）で、落合希来里・冨田菜々風・本田珠由記がいちご狩りをした八千代市の農園の直売所。",
-    "tags": [],
-    "tabelog_url": "",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/MsDUT0xeXeo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "説明欄に撮影協力として記載。データの members の蟹沢萌子は誤りで、説明欄の出演は落合・冨田・本田"
-  },
-  {
     "id": "equal_love-steak_house__bbq_bal-20240807",
     "name": "STEAK HOUSE & BBQ BALCONIWA",
     "genre": "shokuji",
@@ -15572,108 +15003,6 @@
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
     "qa_note": "説明欄に撮影協力として記載",
     "source_url": "https://miruwz7.blog.jp/archives/25159853.html"
-  },
-  {
-    "id": "notme-f0a8c1b8-202408",
-    "name": "桜井商店 ひもの店",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市田原本町４−３",
-    "lat": 35.1025312,
-    "lng": 139.0802967,
-    "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
-    "visited_date": "2023-01-11",
-    "members": [
-      "蟹沢萌子",
-      "河口夏音",
-      "菅波美玲",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "熱海駅 徒歩4分",
-    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、蟹沢萌子・河口夏音・菅波美玲・冨田菜々風がメンバーへのお土産を探した熱海駅前の干物の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22039517/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。住所の「田本町」は「田原本町」の誤記と思われる",
-    "source_url": "https://miruwz7.blog.jp/archives/25159728.html"
-  },
-  {
-    "id": "notme-4c1956bb-202408",
-    "name": "いいらまんじゅう 阿部商店",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市田原本町５−７",
-    "lat": 35.1033354,
-    "lng": 139.0782748,
-    "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
-    "visited_date": "2023-01-11",
-    "members": [
-      "蟹沢萌子",
-      "河口夏音",
-      "菅波美玲",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "熱海駅 徒歩1分",
-    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、熱海駅前の商店街でお土産を探した和菓子（まんじゅう）の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22016593/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。ファンブログに「おちょぼ口饅頭、あつおソックス」",
-    "source_url": "https://miruwz7.blog.jp/archives/25159728.html"
-  },
-  {
-    "id": "notme-55b10f69-202408",
-    "name": "丸高名産店",
-    "genre": "shokuji",
-    "prefecture": "静岡県",
-    "city": "熱海市",
-    "address": "静岡県熱海市田原本町４−１",
-    "lat": 35.1033354,
-    "lng": 139.0782748,
-    "youtube_id": "8wK5c2HUoRo",
-    "source_video_title": "【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】",
-    "visited_date": "2023-01-11",
-    "members": [
-      "蟹沢萌子",
-      "河口夏音",
-      "菅波美玲",
-      "冨田菜々風"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "熱海駅 徒歩1分",
-    "description": "≠MEの公式YouTubeの「【お泊り】旅館のお部屋で遊ぼう&ビーチで妄想デート！？熱海旅ついに完結へ！【熱海旅#3】」（2023年1月）で、熱海駅前の商店街でお土産を探した名産品の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/shizuoka/A2205/A220502/22024762/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/8wK5c2HUoRo/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "動画の説明欄に撮影協力の記載がなく、ファンブログ（miruwz7.blog.jp）のロケ地一覧に載っている店。お土産を買っただけか、その場で食べたかは未確認。住所が平和通り名店街の代表地番",
-    "source_url": "https://miruwz7.blog.jp/archives/25159728.html"
   },
   {
     "id": "equal_love-b0d04596-202408",
@@ -15797,79 +15126,6 @@
     "visit_kind": "youtube",
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
     "qa_note": "出演は11人だが、この店に行ったメンバーは未確認"
-  },
-  {
-    "id": "notme-78097fab-202408",
-    "name": "レストラン嵐山 売店",
-    "genre": "shokuji",
-    "prefecture": "京都府",
-    "city": "京都市",
-    "address": "京都府京都市右京区嵯峨天龍寺造路町３３",
-    "lat": 35.0168,
-    "lng": 135.6727,
-    "youtube_id": "ltMYDQsJ5YQ",
-    "source_video_title": "【センス対決】≠MEメンバーが好きなお土産って何？イケてるお土産で喜ばせよう！【京都旅#3】",
-    "visited_date": "2021-12-04",
-    "members": [
-      "尾木波菜",
-      "菅波美玲",
-      "谷崎早耶"
-    ],
-    "groups": [
-      "notme"
-    ],
-    "group": "notme",
-    "nearest_station": "トロッコ嵐山駅 徒歩4分",
-    "description": "≠MEの公式YouTubeの「【センス対決】≠MEメンバーが好きなお土産って何？…【京都旅#3】」（2021年12月）で、尾木波菜・菅波美玲・谷崎早耶がお土産を選んだ嵐山のレストランの売店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26016174/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://img.youtube.com/vi/ltMYDQsJ5YQ/hqdefault.jpg",
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "売店（物販）で、お土産を買っただけの可能性が高い。食べたかは未確認",
-    "source_url": "https://miruwz7.blog.jp/archives/25150606.html"
-  },
-  {
-    "id": "snowman-mipig-cafe-meguro",
-    "name": "mipig cafe 目黒店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "目黒区",
-    "address": "東京都目黒区目黒4丁目",
-    "lat": 35.6313577,
-    "lng": 139.7035686,
-    "youtube_id": "Qh0RSkK-s4E",
-    "source_video_title": "Snow Man【可愛いブタちゃんと触れ合い】そこには癒し愛しかない🐷",
-    "source_video_url": "https://www.youtube.com/watch?v=Qh0RSkK-s4E",
-    "visited_date": "2023-07-05",
-    "members": [
-      "深澤辰哉",
-      "渡辺翔太",
-      "阿部亮平",
-      "佐久間大介"
-    ],
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "description": "Snow Manの公式YouTube「【可愛いブタちゃんと触れ合い】」（2023年7月）で、深澤辰哉・渡辺翔太・阿部亮平・佐久間大介の4人が訪れたマイクロブタカフェ。",
-    "nearest_station": "目黒駅",
-    "tabelog_url": "https://tabelog.com/tokyo/A1316/A131601/13233871/",
-    "hotpepper_url": "",
-    "google_maps_url": "",
-    "tags": [
-      "カフェ",
-      "動物カフェ"
-    ],
-    "thumbnail_url": "https://img.youtube.com/vi/Qh0RSkK-s4E/hqdefault.jpg",
-    "seating_note": "SnowManがいたお部屋は「2F living」だと思われます。 お席の指定はできないそうです",
-    "source_video_channel": "Snow Man",
-    "visit_kind": "youtube",
-    "program": "すのちゅーぶ（Snow Man公式YouTube）",
-    "qa_note": "動物とふれあうカフェで、飲食が主ではない。残すか要判断。fananablogの一覧表は宮舘も含めるが、同ブログ本文とmom-eatは4人",
-    "source_url": "https://mom-eat.com/snowman-youtube-ocation-mipigcafebuta/"
   },
   {
     "id": "snowman-isomaru-jiyugaoka",
@@ -23574,7 +22830,7 @@
     "lng": 138.393598,
     "youtube_id": "",
     "source_video_title": "2017.02.01/02.08 女子会向けスイーツ特集",
-    "visited_date": "2017-02-01",
+    "visited_date": "2018-01-01",
     "members": [
       "髙木雄也",
       "有岡大貴",
@@ -23596,42 +22852,7 @@
     "tmdb_type": "tv",
     "visit_kind": "own_tv",
     "program": "いただきハイジャンプ",
-    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。2017年回は【お取り寄せ】の見出しの下（店には行っていない）。2018.01.01（たかありいのひか）の回にも同じ店・同じ品が並ぶが、立ち寄ったかは本文に記載なし。取り寄せだけならremove。要確認。visited_dateは2017-02-01のまま",
-    "source_url": "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
-  },
-  {
-    "id": "heysayjump-747256d6-20170201",
-    "name": "パセラリゾーツ 銀座店",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区銀座6-13-16 1F",
-    "lat": 35.6720135,
-    "lng": 139.7647202,
-    "youtube_id": "",
-    "source_video_title": "2017.02.01/02.08 女子会向けスイーツ特集",
-    "visited_date": "2017-02-01",
-    "members": [
-      "髙木雄也",
-      "八乙女光",
-      "中島裕翔",
-      "知念侑李"
-    ],
-    "groups": [
-      "heysayjump"
-    ],
-    "group": "heysayjump",
-    "nearest_station": "銀座駅 徒歩1分",
-    "description": "Hey! Say! JUMPの冠番組『いただきハイジャンプ』の「女子会で食べたいハイグラムスイーツ」（2017年2月1日・8日放送）で、ハニートーストが登場したカラオケ店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130101/13033139/",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fHu3eQ9wF9NiVUXYBMV5e9VbOob.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197002,
-    "tmdb_type": "tv",
-    "visit_kind": "own_tv",
-    "program": "いただきハイジャンプ",
-    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。出典では【お取り寄せ】の見出しの下（丸子峠鯛焼き屋・竜宮城と同じ並び）にあり、店に行ったかは不明。お取り寄せならremove。要確認。飲食店というよりカラオケ店",
+    "qa_note": "出典: e-nini08.hatenadiary.jp/entry/2018/07/10/114437。2017年回は【お取り寄せ】の見出しの下（店には行っていない）。2018.01.01（たかありいのひか）の回にも同じ店・同じ品が並ぶが、立ち寄ったかは本文に記載なし。取り寄せだけならremove。要確認。visited_dateは2017-02-01のまま 2017.02.01/02.08回は【お取り寄せ】。e-nini08 は2018.01.01「日本で発見！世界のそっくり絶景スポットSP（たかありいのひか）」にも載せており、members はこの回と一致。ただし2018年回の記載も「60cm鯛焼き ¥3,000+送料」で、来店したかは断定できない（迷う）",
     "source_url": "https://e-nini08.hatenadiary.jp/entry/2018/07/10/114437"
   },
   {
@@ -25902,39 +25123,6 @@
     "source_url": "https://www.appbank.net/2023/05/06/youtubernews/2462813.php"
   },
   {
-    "id": "nogizaka46-7b18f3dd-",
-    "name": "丸デブ 総本店",
-    "genre": "ramen",
-    "prefecture": "岐阜県",
-    "city": "岐阜市",
-    "address": "岐阜県岐阜市日ノ出町3-1",
-    "lat": 35.41899240792412,
-    "lng": 136.75685661384523,
-    "youtube_id": "",
-    "source_video_title": "丸デブ 総本店",
-    "visited_date": "",
-    "members": [
-      "堀未央奈"
-    ],
-    "groups": [
-      "nogizaka46"
-    ],
-    "group": "nogizaka46",
-    "nearest_station": "名鉄岐阜駅 徒歩14分",
-    "description": "乃木坂46の堀未央奈が『乃木坂ってどこ』で、加入前によく行っていたと話した岐阜の中華そば店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/gifu/A2101/A210101/21006119/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wjfGdo9BoKeakiSxdKdiPZxv1jA.jpg",
-    "source_type": "tv",
-    "tmdb_id": 96386,
-    "tmdb_type": "tv",
-    "visit_kind": "other",
-    "program": "乃木坂ってどこ",
-    "qa_note": "番組内で店を訪れたわけではなく、本人が通っていた店として紹介。つれのぎブログで確認",
-    "source_url": "https://tsuredure-nogi-blog.com/rokechi-gihu/"
-  },
-  {
     "id": "nogizaka46-c062c929-",
     "name": "三全 仙台エスパル店",
     "genre": "sweets",
@@ -25979,10 +25167,7 @@
     "youtube_id": "",
     "source_video_title": "乃木坂どこへ",
     "visited_date": "",
-    "members": [
-      "齋藤飛鳥",
-      "筒井あやめ"
-    ],
+    "members": [],
     "groups": [
       "nogizaka46"
     ],
@@ -25999,7 +25184,7 @@
     "visit_kind": "own_tv",
     "program": "乃木坂工事中 #373（2022年8月14日）",
     "studio_only": true,
-    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い。紹介したメンバーは出典で確かめられず（既存の齋藤飛鳥・筒井あやめ／乃木坂どこへ は根拠なし）",
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い。紹介したメンバーは出典で確かめられず（既存の齋藤飛鳥・筒井あやめ／乃木坂どこへ は根拠なし） 『乃木坂工事中』「全国ツアーでなに食べまショー」で料理が紹介された店（studio_only）。スタジオで食べたメンバーはページに書かれていない（紹介したメンバーは description に残す）",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/94/68/P041349468/P041349468_238.jpg",
     "source_url": "https://tsuredure-nogi-blog.com/rokechi-aichi/"
   },
@@ -26549,13 +25734,7 @@
     "youtube_id": "",
     "source_video_title": "King&Princeる。当たり前レストラン",
     "visited_date": "2022-10-22",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
+    "members": [],
     "groups": [
       "kingprince"
     ],
@@ -26577,7 +25756,7 @@
       "田中圭"
     ],
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。正解はゲストの田中圭のみでKing & Princeのメンバーは誰も食べていない。membersは出題時に出ていた5人。残すか人が判断。",
+    "qa_note": "スタジオで料理が出ただけ。正解はゲストの田中圭のみでKing & Princeのメンバーは誰も食べていない。membersは出題時に出ていた5人。残すか人が判断。 tsuzuki-fam.com/atarimae-1022/：正解は田中圭のみ。King & Princeのメンバーは食べていない（studio_onlyのまま）",
     "source_url": "https://tsuzuki-fam.com/atarimae-1022/",
     "tabelog_verified": true,
     "tabelog_source": "https://tsuzuki-fam.com/atarimae-1022/"
@@ -26916,118 +26095,6 @@
     "tabelog_source": "https://tsuzuki-fam.com/atarimae1210/"
   },
   {
-    "id": "kingprince-6fc6f3d9-20220618",
-    "name": "ピアット・スズキ",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区麻布十番1-7-7 はせべやビル　４Ｆ",
-    "lat": 35.656318137916436,
-    "lng": 139.7349207829931,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2022-06-18",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "麻布十番駅 徒歩2分",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年6月18日放送）で料理が出題されたイタリア料理店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130702/13004441/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000243051/",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/74/52/P020817452/P020817452_238.jpg",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者（食べたメンバー）は出典で確かめられていない（scrape_kinpri.pyのアメブロまとめ由来）。membersは当時の5人。"
-  },
-  {
-    "id": "kingprince-516fb6ba-20220618",
-    "name": "陳家私菜 渋谷店",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区神南1-16-3 ブルーヴァールビルB1",
-    "lat": 35.66302353790087,
-    "lng": 139.69941708308573,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2022-06-18",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "渋谷駅 徒歩7分",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年6月18日放送）で料理が出題された中華料理店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130301/13128819/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者（食べたメンバー）は出典で確かめられていない（scrape_kinpri.pyのアメブロまとめ由来）。membersは当時の5人。"
-  },
-  {
-    "id": "kingprince-9ca66867-20220618",
-    "name": "ブーランジェリー&カフェ マンマーノ",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区西原3-6-5 MH代々木上原 1F",
-    "lat": 35.670208637890546,
-    "lng": 139.68134708317098,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2022-06-18",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "代々木上原駅 徒歩3分",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2022年6月18日放送）で料理が出題されたベーカリーカフェ。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1318/A131811/13059417/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者（食べたメンバー）は出典で確かめられていない（scrape_kinpri.pyのアメブロまとめ由来）。membersは当時の5人。"
-  },
-  {
     "id": "kingprince-367cb2f4-20220903",
     "name": "香味",
     "genre": "shokuji",
@@ -27194,117 +26261,6 @@
     "tabelog_source": "https://tsuzuki-fam.com/atarimae0903/"
   },
   {
-    "id": "kingprince-174af58e-20230311",
-    "name": "ラ・ベットラ・ダ・オチアイ",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "中央区",
-    "address": "東京都中央区銀座1-21-2",
-    "lat": 35.67278667872287,
-    "lng": 139.77112037429586,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2023-03-11",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2023年3月11日放送）で料理が出題されたイタリア料理店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131301/13002504/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ000103154/",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/85/07/P020828507/P020828507_238.jpg",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。"
-  },
-  {
-    "id": "kingprince-2b00f277-20230311",
-    "name": "エビス バインミー ベーカリー",
-    "genre": "cafe",
-    "prefecture": "東京都",
-    "city": "渋谷区",
-    "address": "東京都渋谷区恵比寿1-8-14",
-    "lat": 35.64791488871928,
-    "lng": 139.71021983408733,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2023-03-11",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "恵比寿駅 徒歩3分",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2023年3月11日放送）で料理が出題されたバインミー店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13211869/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。"
-  },
-  {
-    "id": "kingprince-531da9bd-20230311",
-    "name": "パティシエ シマ",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "千代田区",
-    "address": "東京都千代田区麹町3-12-4 麹町KYビル 1F",
-    "lat": 35.6852029087045,
-    "lng": 139.73818808444435,
-    "youtube_id": "",
-    "source_video_title": "King&Princeる。当たり前レストラン",
-    "visited_date": "2023-03-11",
-    "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
-    ],
-    "groups": [
-      "kingprince"
-    ],
-    "group": "kingprince",
-    "nearest_station": "麹町駅 徒歩2分",
-    "description": "King & Princeの冠番組『King & Princeる。』（日本テレビ）の「当たり前レストラン」（2023年3月11日放送）で料理が出題された洋菓子店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130803/13000285/",
-    "hotpepper_url": "",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
-    "source_type": "tv",
-    "tmdb_id": 197231,
-    "tmdb_type": "tv",
-    "visit_kind": "own_tv",
-    "program": "King & Princeる。（当たり前レストラン）",
-    "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。"
-  },
-  {
     "id": "kingprince-47c41cd2-20230304",
     "name": "ビストロカニッシュ",
     "genre": "shokuji",
@@ -27435,10 +26391,6 @@
     "source_video_title": "King&Princeる。当たり前レストラン",
     "visited_date": "2023-04-29",
     "members": [
-      "平野紫耀",
-      "永瀬廉",
-      "髙橋海人",
-      "岸優太",
       "神宮寺勇太"
     ],
     "groups": [
@@ -27457,7 +26409,7 @@
     "visit_kind": "own_tv",
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。",
+    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：マッサマンカレーの正解は神宮寺勇太のみ",
     "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/"
   },
   {
@@ -27473,11 +26425,8 @@
     "source_video_title": "King&Princeる。当たり前レストラン",
     "visited_date": "2023-04-29",
     "members": [
-      "平野紫耀",
-      "永瀬廉",
       "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
+      "岸優太"
     ],
     "groups": [
       "kingprince"
@@ -27495,7 +26444,7 @@
     "visit_kind": "own_tv",
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。",
+    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：へぎそばの正解は髙橋海人・岸優太",
     "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/",
     "tabelog_verified": true,
     "tabelog_source": "https://tsuzuki-fam.com/atarimae-daisukisp/"
@@ -27513,11 +26462,9 @@
     "source_video_title": "King&Princeる。当たり前レストラン",
     "visited_date": "2023-04-29",
     "members": [
-      "平野紫耀",
-      "永瀬廉",
       "髙橋海人",
-      "岸優太",
-      "神宮寺勇太"
+      "神宮寺勇太",
+      "岸優太"
     ],
     "groups": [
       "kingprince"
@@ -27535,7 +26482,7 @@
     "visit_kind": "own_tv",
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。",
+    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：肉吸いの正解は髙橋・神宮寺・岸。支店未確定（ページに店舗の記載なし。登録は本店）",
     "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/"
   },
   {
@@ -27551,10 +26498,8 @@
     "source_video_title": "King&Princeる。当たり前レストラン",
     "visited_date": "2023-04-29",
     "members": [
-      "平野紫耀",
-      "永瀬廉",
       "髙橋海人",
-      "岸優太",
+      "永瀬廉",
       "神宮寺勇太"
     ],
     "groups": [
@@ -27573,73 +26518,8 @@
     "visit_kind": "own_tv",
     "program": "King & Princeる。（当たり前レストラン）",
     "studio_only": true,
-    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。",
+    "qa_note": "スタジオで料理が出ただけ。出題メニューと正解者は出典で確かめられていない。membersは当時の5人。 tsuzuki-fam.com/atarimae-daisukisp/：ザッハトルテの正解は髙橋・永瀬・神宮寺",
     "source_url": "https://tsuzuki-fam.com/atarimae-daisukisp/"
-  },
-  {
-    "id": "naniwa-f5c2bfbf-20201016",
-    "name": "挽肉と米　吉祥寺店",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "武蔵野市",
-    "address": "東京都武蔵野市吉祥寺本町2-8-3",
-    "lat": 35.7043267,
-    "lng": 139.5775409,
-    "youtube_id": "",
-    "source_video_title": "ハンバーグにハマる女子急増のなんでやねん！を解明",
-    "visited_date": "2020-10-16",
-    "members": [
-      "藤原丈一郎"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "吉祥寺駅 徒歩5分",
-    "description": "めざましテレビ「なにわ男子のなんでやねん！」（2020年10月16日放送）の「ハンバーグにハマる女子急増のなんでやねん！」で、藤原丈一郎がハンバーグ定食を食べた店（吉祥寺店）。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1320/A132001/13246332/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 6563,
-    "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
-    "visit_kind": "guest_tv",
-    "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "出典ブログ（source_url）がなく、放送内容をファンブログ等で確かめられなかった。説明文の記述を信じてkeep"
-  },
-  {
-    "id": "naniwa-637d6485-20201016",
-    "name": "鉄板和食とワイン 萬鉄",
-    "genre": "izakaya",
-    "prefecture": "東京都",
-    "city": "港区",
-    "address": "東京都港区東新橋1-8-2 カレッタ汐留 46階",
-    "lat": 35.6631257,
-    "lng": 139.7589757,
-    "youtube_id": "",
-    "source_video_title": "ハンバーグにハマる女子急増のなんでやねん！を解明",
-    "visited_date": "2020-10-16",
-    "members": [
-      "藤原丈一郎"
-    ],
-    "groups": [
-      "naniwa"
-    ],
-    "group": "naniwa",
-    "nearest_station": "汐留駅 徒歩2分",
-    "description": "めざましテレビ「なにわ男子のなんでやねん！」（2020年10月16日放送）の「ハンバーグにハマる女子急増のなんでやねん！」で紹介された鉄板和食の店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1301/A130103/13216976/",
-    "hotpepper_url": "https://www.hotpepper.jp/strJ001187459/",
-    "source_type": "tv",
-    "tmdb_id": 6563,
-    "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/68/53/P036066853/P036066853_238.jpg",
-    "visit_kind": "guest_tv",
-    "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "出典ブログ（source_url）がなく、放送内容をファンブログ等で確かめられなかった。説明文の記述を信じてkeep。説明文は『紹介していました』のみで、食べたかどうかは不明"
   },
   {
     "id": "naniwa-d13107cb-20220415",
@@ -27751,13 +26631,13 @@
   },
   {
     "id": "naniwa-9e2c851d-20220701",
-    "name": "立ち寿司横丁",
+    "name": "立ち寿司横丁 吉祥寺ハーモニカ横丁",
     "genre": "washoku",
     "prefecture": "東京都",
     "city": "新宿区",
-    "address": "東京都新宿区西新宿1-18-13 近江ビル 1F",
-    "lat": 35.690719,
-    "lng": 139.6941527,
+    "address": "東京都武蔵野市吉祥寺本町1-1-1",
+    "lat": 35.703491,
+    "lng": 139.579468,
     "youtube_id": "",
     "source_video_title": "立ち食い寿司店が増えているのなんでやねん！を解明",
     "visited_date": "2022-07-01",
@@ -27778,7 +26658,7 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-2022-07-01 では行ったのは『立ち寿司横丁 吉祥寺ハーモニカ横丁』（吉祥寺駅北口）。データの住所は西新宿で店舗が食い違う。住所の付け替えが必要",
+    "qa_note": "chiicrane-life.fun/mezamashi-2022-07-01 では行ったのは『立ち寿司横丁 吉祥寺ハーモニカ横丁』（吉祥寺駅北口）。データの住所は西新宿で店舗が食い違う。住所の付け替えが必要 chiicrane-life.fun/mezamashi-2022-07-01/ と fuyukohimatsubushi.com/mezamashi-tachigui/ がともに吉祥寺の店（吉祥寺本町1-1-1）。藤原丈一郎は「おまかせ1.5人前にぎり」",
     "source_url": "https://fuyukohimatsubushi.com/mezamashi-tachigui/",
     "ordered_items": [
       "おまかせ1.5人前にぎり(平日限定)"
@@ -27852,7 +26732,7 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
     "visit_kind": "guest_tv",
     "program": "なにわ男子のなんでやねん！（めざましテレビ）",
-    "qa_note": "chiicrane-life.fun/mezamashi-kyohei1 で確認。ブログでは東銀座から中央区豊海町3-13へ移転とある（データの住所は銀座4丁目の旧店舗）",
+    "qa_note": "chiicrane-life.fun/mezamashi-kyohei1 で確認。ブログでは東銀座から中央区豊海町3-13へ移転とある（データの住所は銀座4丁目の旧店舗） 放送時は東銀座の店（登録の住所）。chiicrane-life.fun/mezamashi-kyohei1/ によると中央区豊海町3-13に移転。訪れた店の住所としては登録のままとし、移転先は人が判断",
     "source_url": "https://fuyukohimatsubushi.com/mezamashi-ginzaramen/",
     "ordered_items": [
       "濃厚海老ソバ"
@@ -29802,13 +28682,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-12-19",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -29827,7 +28701,7 @@
       "NiziU"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_201219_niziu_1/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_201219_niziu_1/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_201219_niziu_1/"
@@ -29883,13 +28757,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-11-21",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -29910,7 +28778,7 @@
       "ラウール"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストのラウールで、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストのラウールで、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_201121_chuka-5/）に嵐メンバーが試食・正解した記述なし。試食者: ラウールさんが試食 チンジャオロース包み焼きそば。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_201121_chuka-5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_201121_chuka-5/"
@@ -30386,13 +29254,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-06-06",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -30412,7 +29274,7 @@
       "東野幸治"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの東野幸治で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの東野幸治で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_200606_take/）に嵐メンバーが試食・正解した記述なし。試食者: 東野幸治さんが番組で試食した おにぎり。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200606_take/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200606_take/"
@@ -30455,49 +29317,6 @@
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200606_koji/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200606_koji/"
-  },
-  {
-    "id": "arashi-c420c615-20200523",
-    "name": "シルクプレーン (三軒茶屋　ザ サン リブズ ヒア)",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "世田谷区",
-    "address": "東京都世田谷区三軒茶屋1-27-33",
-    "lat": 35.6421171,
-    "lng": 139.6687889,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2020-05-23",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "三軒茶屋駅 徒歩4分",
-    "description": "嵐の冠番組『嵐にしやがれ』（2020年5月23日放送）の「高橋克典 お取り寄せグルメデスマッチ」で、この店の「CHILKプレーン（瓶詰めチーズケーキ）」がスタジオに登場した。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131706/13145455/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 106410,
-    "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg",
-    "visit_kind": "own_tv",
-    "program": "嵐にしやがれ",
-    "with": [
-      "高橋克典"
-    ],
-    "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの高橋克典で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 お取り寄せ品として紹介。 出典 activitv.com 店名が商品名（CHILKプレーン）になっている。店は三軒茶屋の「cafe The SUN LIVES HERE」。お取り寄せ品。",
-    "source_url": "https://www.activitv.com/entry/arashinishiyagare_200523_toriyose5/",
-    "tabelog_verified": true,
-    "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200523_toriyose5/"
   },
   {
     "id": "arashi-0dca82e1-20200509",
@@ -30743,13 +29562,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-04-04",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -30770,7 +29583,7 @@
       "浅田真央"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの浅田真央で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの浅田真央で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_200404_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200404_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200404_5/"
@@ -30827,13 +29640,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-04-04",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -30854,7 +29661,7 @@
       "浅田真央"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_200404_1/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200404_1/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200404_1/"
@@ -31139,13 +29946,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-02-22",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -31165,7 +29966,7 @@
       "ゆず"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_200222_chimaki/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200222_chimaki/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200222_chimaki/"
@@ -31376,13 +30177,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2020-01-25",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -31402,7 +30197,7 @@
       "藤田ニコル"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの藤田ニコルで、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの藤田ニコルで、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_200125_5/）に嵐メンバーが試食・正解した記述なし。試食者: 藤田ニコル さんが番組で試食。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_200125_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_200125_5/"
@@ -31756,13 +30551,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-12-14",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -31782,7 +30571,7 @@
       "藤木直人"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの藤木直人で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの藤木直人で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191214_2019_5/）に嵐メンバーが試食・正解した記述なし。試食者: 藤木直人さんが番組で試食したバスクチーズケーキ。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191214_2019_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191214_2019_5/"
@@ -32035,13 +30824,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-11-30",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32061,7 +30844,7 @@
       "椎名桔平"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの椎名桔平で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの椎名桔平で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191130_napro/）に嵐メンバーが試食・正解した記述なし。試食者: 番組で 椎名桔平 さんが試食。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191130_napro/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191130_napro/"
@@ -32225,13 +31008,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-11-23",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32251,7 +31028,7 @@
       "福岡堅樹"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの福岡堅樹で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの福岡堅樹で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191123_susumu/）に嵐メンバーが試食・正解した記述なし。試食者: 福岡堅樹 さんが番組で試食。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191123_susumu/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191123_susumu/"
@@ -32424,13 +31201,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-11-23",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32451,7 +31222,7 @@
       "福岡堅樹"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191123_1/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191123_1/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191123_1/"
@@ -32491,88 +31262,6 @@
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191116_2/"
   },
   {
-    "id": "arashi-d05b0391-20191109",
-    "name": "西荻窪 フランクフルト",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "杉並区",
-    "address": "東京都杉並区西荻南3-24-1",
-    "lat": 35.7010053,
-    "lng": 139.6030934,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2019-11-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "西荻窪駅 徒歩7分",
-    "description": "嵐の冠番組『嵐にしやがれ』（2019年11月9日放送）の「岡村隆史 ご飯のお供デスマッチ」で、この店の「サラフワ コンビーフ」がスタジオに登場した。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1319/A131907/13006956/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 106410,
-    "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg",
-    "visit_kind": "own_tv",
-    "program": "嵐にしやがれ",
-    "with": [
-      "岡村隆史"
-    ],
-    "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの岡村隆史で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 お取り寄せ品として紹介。 出典 activitv.com",
-    "source_url": "https://www.activitv.com/entry/arashinishiyagare_191109_4/",
-    "tabelog_verified": true,
-    "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191109_4/"
-  },
-  {
-    "id": "arashi-8fdcc077-20191109",
-    "name": "肉料理かやま",
-    "genre": "shokuji",
-    "prefecture": "兵庫県",
-    "city": "神戸市",
-    "address": "兵庫県神戸市須磨区大田町3-1-20",
-    "lat": 34.6575478,
-    "lng": 135.1368368,
-    "youtube_id": "",
-    "source_video_title": "嵐にしやがれ",
-    "visited_date": "2019-11-09",
-    "members": [
-      "松本潤"
-    ],
-    "groups": [
-      "arashi"
-    ],
-    "group": "arashi",
-    "nearest_station": "板宿駅 徒歩6分",
-    "description": "嵐の冠番組『嵐にしやがれ』（2019年11月9日放送）の「岡村隆史 ご飯のお供デスマッチ」で、この店の「そぼマヨ」がスタジオに登場し、松本潤が試食した。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280110/28000079/",
-    "hotpepper_url": "",
-    "source_type": "tv",
-    "tmdb_id": 106410,
-    "tmdb_type": "tv",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iUvEfCYJR1KMNpqiqG9ALuHCOTn.jpg",
-    "visit_kind": "own_tv",
-    "program": "嵐にしやがれ",
-    "with": [
-      "岡村隆史"
-    ],
-    "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。members は試食したメンバー。 お取り寄せ品として紹介。 出典 activitv.com",
-    "source_url": "https://www.activitv.com/entry/arashinishiyagare_191109_sobo/",
-    "tabelog_verified": true,
-    "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191109_sobo/"
-  },
-  {
     "id": "arashi-862e4ca1-20191102",
     "name": "吉林菜館",
     "genre": "chuka",
@@ -32584,13 +31273,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-11-02",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32611,7 +31294,7 @@
       "出川哲朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191102_3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191102_3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191102_3/"
@@ -32862,13 +31545,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-10-19",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32889,7 +31566,7 @@
       "髙橋海人"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191019_mie/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191019_mie/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191019_mie/"
@@ -32906,13 +31583,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-10-12",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -32932,7 +31603,7 @@
       "生田斗真"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの生田斗真で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの生田斗真で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_191012_tohma7/）に嵐メンバーが試食・正解した記述なし。試食者: 番組で生田斗真さんが試食した 石窯焼きホットケーキ。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_191012_tohma7/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_191012_tohma7/"
@@ -33104,13 +31775,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-09-28",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33127,7 +31792,7 @@
     "visit_kind": "own_tv",
     "program": "嵐にしやがれ",
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190928_kyabe/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190928_kyabe/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190928_kyabe/"
@@ -33218,13 +31883,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-09-21",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33244,7 +31903,7 @@
       "鈴木亮平"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190921_ringo/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190921_ringo/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190921_ringo/"
@@ -33375,13 +32034,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-09-14",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33400,7 +32053,7 @@
       "橋本環奈"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190914_melon-bread/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190914_melon-bread/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190914_melon-bread/"
@@ -33612,13 +32265,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-17",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33639,7 +32286,7 @@
       "土屋太鳳"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190817_gekikara1/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190817_gekikara1/"
   },
   {
@@ -33654,13 +32301,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-10",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33681,7 +32322,7 @@
       "星野源"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190810_gen3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190810_gen3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190810_gen3/"
@@ -33698,13 +32339,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-10",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33724,7 +32359,7 @@
       "星野源"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190810_gen4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190810_gen4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190810_gen4/"
@@ -33741,13 +32376,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-10",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33767,7 +32396,7 @@
       "星野源"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの星野源で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。出典では試食したのはゲストの星野源で、嵐のメンバーが食べたかは不明。members は嵐5人（スタジオ出演）。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190810_gen5/）に嵐メンバーが試食・正解した記述なし。試食者: 番組で星野源さんが試食したカステラ。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190810_gen5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190810_gen5/"
@@ -33784,13 +32413,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-10",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33810,7 +32433,7 @@
       "星野源"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190810_gen2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190810_gen2/"
   },
   {
@@ -33864,13 +32487,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-03",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33890,7 +32507,7 @@
       "佐藤二朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190803_niku/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190803_niku/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190803_niku/"
@@ -33907,13 +32524,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-03",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33933,7 +32544,7 @@
       "佐藤二朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190803_jiro3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190803_jiro3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190803_jiro3/"
@@ -33950,13 +32561,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-03",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -33976,7 +32581,7 @@
       "佐藤二朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190803_chou-a-la-creme/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190803_chou-a-la-creme/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190803_chou-a-la-creme/"
@@ -33993,13 +32598,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-03",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34019,7 +32618,7 @@
       "佐藤二朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190803_jiro4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190803_jiro4/"
   },
   {
@@ -34034,13 +32633,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-08-03",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34060,7 +32653,7 @@
       "佐藤二朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190803_jiro6/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190803_jiro6/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190803_jiro6/"
@@ -34077,13 +32670,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34102,7 +32689,7 @@
       "小池栄子"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。 ページ（https://www.activitv.com/entry/arashinishiyagare_190727_eiko5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190727_eiko5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190727_eiko5/"
@@ -34119,13 +32706,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34145,7 +32726,7 @@
       "小池栄子"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。 ページ（https://www.activitv.com/entry/arashinishiyagare_190727_eiko2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190727_eiko2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190727_eiko2/"
@@ -34162,13 +32743,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34189,7 +32764,7 @@
       "唐沢寿明"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。 ページ（https://www.activitv.com/entry/arashinishiyagare_190720_arakawa/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190720_arakawa/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190720_arakawa/"
@@ -34206,13 +32781,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34232,7 +32801,7 @@
       "唐沢寿明"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。 ページ（https://www.activitv.com/entry/arashinishiyagare_190720_edison/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190720_edison/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190720_edison/"
@@ -34249,13 +32818,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34276,7 +32839,7 @@
       "唐沢寿明"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com この回の形式（スタジオかロケか）は出典から確かめられない。 ページ（https://www.activitv.com/entry/arashinishiyagare_190720_minami-4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190720_minami-4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190720_minami-4/"
@@ -34293,13 +32856,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34320,7 +32877,7 @@
       "浜辺美波"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190720-3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190720-3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190720-3/"
@@ -34337,13 +32894,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34364,7 +32915,7 @@
       "浜辺美波"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190720-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190720-2/"
   },
   {
@@ -34420,13 +32971,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-13",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34447,7 +32992,7 @@
       "IKKO"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190713_ikko3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko3/"
@@ -34464,13 +33009,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-13",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34490,7 +33029,7 @@
       "IKKO"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190713_ikko4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko4/"
@@ -34507,13 +33046,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-13",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34533,7 +33066,7 @@
       "IKKO"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190713_ikko2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko2/"
@@ -34550,13 +33083,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-07-13",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34577,7 +33104,7 @@
       "IKKO"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190713_ikko/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190713_ikko/"
@@ -34594,13 +33121,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-06-22",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34621,7 +33142,7 @@
       "小澤征悦"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_1906228/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_1906228/"
   },
   {
@@ -34677,13 +33198,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-06-22",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34704,7 +33219,7 @@
       "小澤征悦"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190622_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190622_5/"
   },
   {
@@ -34798,13 +33313,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-06-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34825,7 +33334,7 @@
       "水卜麻美"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190608-3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190608-3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190608-3/"
@@ -34842,13 +33351,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-06-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34869,7 +33372,7 @@
       "水卜麻美"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190608-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190608-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190608-2/"
@@ -34886,13 +33389,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-06-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34913,7 +33410,7 @@
       "水卜麻美"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190608_chuka/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190608_chuka/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190608_chuka/"
@@ -34971,13 +33468,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-25",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -34997,7 +33488,7 @@
       "渡辺直美"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190525_remen/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190525_remen/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190525_remen/"
@@ -35092,13 +33583,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35118,7 +33603,7 @@
       "出川哲朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190518_7/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190518_7/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190518_7/"
@@ -35135,13 +33620,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35162,7 +33641,7 @@
       "出川哲朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190518_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190518_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190518_5/"
@@ -35179,13 +33658,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35205,7 +33678,7 @@
       "出川哲朗"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190518_3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190518_3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190518_3/"
@@ -35261,13 +33734,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-11",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35287,7 +33754,7 @@
       "戸次重幸"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年5月4日放送とも書かれており、放送日を要確認。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年5月4日放送とも書かれており、放送日を要確認。 ページ（https://www.activitv.com/entry/arashinishiyagare_190511-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190511-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190511-2/"
@@ -35304,13 +33771,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-05-11",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35331,7 +33792,7 @@
       "戸次重幸"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年5月4日放送とも書かれており、放送日を要確認。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年5月4日放送とも書かれており、放送日を要確認。 ページ（https://www.activitv.com/entry/arashinishiyagare_190511_sweets/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190511_sweets/"
   },
   {
@@ -35384,13 +33845,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35410,7 +33865,7 @@
       "叶姉妹"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190427_dango/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190427_dango/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190427_dango/"
@@ -35427,13 +33882,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35453,7 +33902,7 @@
       "叶姉妹"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190427_takokara/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190427_takokara/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190427_takokara/"
@@ -35470,13 +33919,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35497,7 +33940,7 @@
       "叶姉妹"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190427_bread/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190427_bread/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190427_bread/"
@@ -35514,13 +33957,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35540,7 +33977,7 @@
       "ケイン・コスギ"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190420_hayashi/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190420_hayashi/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190420_hayashi/"
@@ -35557,13 +33994,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35583,7 +34014,7 @@
       "ケイン・コスギ"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190420_omu/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190420_omu/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190420_omu/"
@@ -35600,13 +34031,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-06",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35626,7 +34051,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。 ページ（https://www.activitv.com/entry/arashinishiyagare_190406_koi/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190406_koi/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190406_koi/"
@@ -35643,13 +34068,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-06",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35669,7 +34088,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。 ページ（https://www.activitv.com/entry/arashinishiyagare_190406_2-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190406_2-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190406_2-2/"
@@ -35686,13 +34105,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-04-06",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35712,7 +34125,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典本文では2019年3月30日放送（記事日付は4月6日）。放送日を要確認。 ページ（https://www.activitv.com/entry/arashinishiyagare_190406_meat/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190406_meat/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190406_meat/"
@@ -35729,13 +34142,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-30",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35755,7 +34162,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190330-3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190330-3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190330-3/"
@@ -35772,13 +34179,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-30",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35798,7 +34199,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190330_tamago/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190330_tamago/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190330_tamago/"
@@ -35815,13 +34216,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-30",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35842,7 +34237,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190330_katsu/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190330_katsu/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190330_katsu/"
@@ -35859,13 +34254,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-30",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35885,7 +34274,7 @@
       "斎藤工"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190330_budo/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190330_budo/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190330_budo/"
@@ -35944,13 +34333,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -35971,7 +34354,7 @@
       "松田翔太"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190309_3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190309_3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190309_3/"
@@ -35988,13 +34371,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36015,7 +34392,7 @@
       "松田翔太"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190309_2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190309_2/"
   },
   {
@@ -36030,13 +34407,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36057,7 +34428,7 @@
       "松田翔太"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190309_syoron/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190309_syoron/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190309_syoron/"
@@ -36074,13 +34445,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36101,7 +34466,7 @@
       "松田翔太"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190309_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190309_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190309_5/"
@@ -36118,13 +34483,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-03-09",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36145,7 +34504,7 @@
       "松田翔太"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190309_6/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190309_6/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190309_6/"
@@ -36162,13 +34521,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-02-16",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36188,7 +34541,7 @@
       "戸田恵梨香"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190216_gyu/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190216_gyu/"
   },
   {
@@ -36203,13 +34556,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-02-16",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36229,7 +34576,7 @@
       "戸田恵梨香"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190216_toda/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190216_toda/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190216_toda/"
@@ -36246,13 +34593,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-02-16",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36272,7 +34613,7 @@
       "戸田恵梨香"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190216_anago/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190216_anago/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190216_anago/"
@@ -36289,13 +34630,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-02-02",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36316,7 +34651,7 @@
       "趣里"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190202_motsu/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190202_motsu/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190202_motsu/"
@@ -36333,13 +34668,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-26",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36359,7 +34688,7 @@
       "香川照之"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190126_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190126_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190126_5/"
@@ -36376,13 +34705,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-26",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36402,7 +34725,7 @@
       "香川照之"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190126_1/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190126_1/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190126_1/"
@@ -36419,13 +34742,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-19",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36445,7 +34762,7 @@
       "杉咲花"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190119_takasaki/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190119_takasaki/"
   },
   {
@@ -36460,13 +34777,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-12",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36488,7 +34799,7 @@
       "永野芽郁"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190112_rahmen3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen3/"
@@ -36505,13 +34816,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-12",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36531,7 +34836,7 @@
       "永野芽郁"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190112_rahmen4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen4/"
@@ -36548,13 +34853,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-12",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36575,7 +34874,7 @@
       "永野芽郁"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190112_rahmen5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190112_rahmen5/"
@@ -36592,13 +34891,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-01",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36618,7 +34911,7 @@
       "米倉涼子"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190101__risiri/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190101__risiri/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190101__risiri/"
@@ -36635,13 +34928,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-01",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36661,7 +34948,7 @@
       "米倉涼子"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190101_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190101_5/"
   },
   {
@@ -36676,13 +34963,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2019-01-01",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36702,7 +34983,7 @@
       "米倉涼子"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_190101_6/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_190101_6/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_190101_6/"
@@ -36719,13 +35000,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-12-15",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36746,7 +35021,7 @@
       "三浦春馬"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181215_katsu/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181215_katsu/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181215_katsu/"
@@ -36763,13 +35038,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-12-15",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36790,7 +35059,7 @@
       "三浦春馬"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181215_tapioka/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181215_tapioka/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181215_tapioka/"
@@ -36807,13 +35076,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-11-24",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36834,7 +35097,7 @@
       "ハリセンボン"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181124_cheese-bread/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181124_cheese-bread/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181124_cheese-bread/"
@@ -36851,13 +35114,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-11-24",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36878,7 +35135,7 @@
       "ハリセンボン"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181124_yakisoba-pan/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181124_yakisoba-pan/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181124_yakisoba-pan/"
@@ -36895,13 +35152,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-11-24",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -36921,7 +35172,7 @@
       "ハリセンボン"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181124_bread/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181124_bread/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181124_bread/"
@@ -36976,13 +35227,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-10-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37003,7 +35248,7 @@
       "江口のりこ"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181027_sweets/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181027_sweets/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181027_sweets/"
@@ -37020,13 +35265,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-10-27",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37047,7 +35286,7 @@
       "江口のりこ"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181027_autumn-sweets/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181027_autumn-sweets/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181027_autumn-sweets/"
@@ -37064,13 +35303,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-10-20",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37091,7 +35324,7 @@
       "江口のりこ"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典では2018年10月27日放送。visited_date（10月20日）がずれている。",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com 出典では2018年10月27日放送。visited_date（10月20日）がずれている。 ページ（https://www.activitv.com/entry/arashinishiyagare_181020_mont-blanc/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181020_mont-blanc/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181020_mont-blanc/"
@@ -37146,13 +35379,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-10-13",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37171,7 +35398,7 @@
       "田中圭"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_181013_yoshoku_2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_181013_yoshoku_2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_181013_yoshoku_2/"
@@ -37188,13 +35415,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-29",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37214,7 +35435,7 @@
       "佐藤健"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180929_tokyo3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo3/"
@@ -37231,13 +35452,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-29",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37257,7 +35472,7 @@
       "佐藤健"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180929_tokyo4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo4/"
@@ -37274,13 +35489,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-29",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37300,7 +35509,7 @@
       "佐藤健"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180929_tokyo5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo5/"
   },
   {
@@ -37315,13 +35524,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-29",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37341,7 +35544,7 @@
       "佐藤健"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180929_tokyo7/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180929_tokyo7/"
   },
   {
@@ -37356,13 +35559,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-15",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37382,7 +35579,7 @@
       "芦田愛菜"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180915_mana3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180915_mana3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180915_mana3/"
@@ -37399,13 +35596,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-15",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37424,7 +35615,7 @@
       "芦田愛菜"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180915_mana4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180915_mana4/"
   },
   {
@@ -37439,13 +35630,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-15",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37465,7 +35650,7 @@
       "芦田愛菜"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180915_mana5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180915_mana5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180915_mana5/"
@@ -37482,13 +35667,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37509,7 +35688,7 @@
       "加藤諒"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180908-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180908-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180908-2/"
@@ -37526,13 +35705,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37554,7 +35727,7 @@
       "加藤諒"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180908_tamago2-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180908_tamago2-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180908_tamago2-2/"
@@ -37571,13 +35744,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-09-08",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37597,7 +35764,7 @@
       "加藤諒"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180908_tamago4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180908_tamago4/"
   },
   {
@@ -37612,13 +35779,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37638,7 +35799,7 @@
       "小栗旬"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180818-2/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180818-2/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180818-2/"
@@ -37655,13 +35816,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37681,7 +35836,7 @@
       "小栗旬"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180818_4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180818_4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180818_4/"
@@ -37698,13 +35853,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-18",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37724,7 +35873,7 @@
       "小栗旬"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180818_5/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180818_5/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180818_5/"
@@ -37741,13 +35890,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-04",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37767,7 +35910,7 @@
       "上川隆也"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180804_4/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180804_4/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180804_4/"
@@ -37784,13 +35927,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-04",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37810,7 +35947,7 @@
       "上川隆也"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180804_hiyashichuka/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180804_hiyashichuka/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180804_hiyashichuka/"
@@ -37827,13 +35964,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-08-04",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37853,7 +35984,7 @@
       "上川隆也"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180804_6/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180804_6/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180804_6/"
@@ -37870,13 +36001,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-04-21",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37896,7 +36021,7 @@
       "福士蒼汰"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180421_bread3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180421_bread3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180421_bread3/"
@@ -37913,13 +36038,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2018-04-07",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37939,7 +36058,7 @@
       "YOSHIKI"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_180407_yoshiki_3/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_180407_yoshiki_3/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_180407_yoshiki_3/"
@@ -37956,13 +36075,7 @@
     "youtube_id": "",
     "source_video_title": "嵐にしやがれ",
     "visited_date": "2017-01-28",
-    "members": [
-      "大野智",
-      "櫻井翔",
-      "相葉雅紀",
-      "二宮和也",
-      "松本潤"
-    ],
+    "members": [],
     "groups": [
       "arashi"
     ],
@@ -37981,7 +36094,7 @@
       "佐々木蔵之介"
     ],
     "studio_only": true,
-    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 データの店名が「京スイーツ」になっているが、住所は「朧八瑞雲堂」（生どら焼き）のもの。店名を朧八瑞雲堂に直す必要あり。出典ではこの回に抹茶館・あのん・茶庭・古都香も紹介。 出典 activitv.com",
+    "qa_note": "スタジオに料理が出ただけで、メンバーは店に行っていない（グルメデスマッチ）。試食したメンバーは出典に記載がないため、members は嵐5人（スタジオ出演）のまま。 データの店名が「京スイーツ」になっているが、住所は「朧八瑞雲堂」（生どら焼き）のもの。店名を朧八瑞雲堂に直す必要あり。出典ではこの回に抹茶館・あのん・茶庭・古都香も紹介。 出典 activitv.com ページ（https://www.activitv.com/entry/arashinishiyagare_170128_kyoto-sweets/）に嵐メンバーが試食・正解した記述なし。スタジオ出演の5人を members にしていたのを空にした（studio_only のまま残す）",
     "source_url": "https://www.activitv.com/entry/arashinishiyagare_170128_kyoto-sweets/",
     "tabelog_verified": true,
     "tabelog_source": "https://www.activitv.com/entry/arashinishiyagare_170128_kyoto-sweets/"
@@ -47034,8 +45147,6 @@
     "source_url": "https://senublog.com/nogizaka46-sanctuary-summarize/",
     "visited_date": "",
     "members": [
-      "松井玲奈",
-      "星野みなみ",
       "佐藤楓"
     ],
     "groups": [
@@ -47043,7 +45154,7 @@
     ],
     "group": "nogizaka46",
     "nearest_station": "浅草駅",
-    "description": "『乃木坂ってどこ』の9thシングルのヒット祈願の放送で松井玲奈・星野みなみがジャンボめろんぱんを食べたパン店。佐藤楓も雑誌の撮影のあとに訪れたと公式ブログで紹介した。",
+    "description": "佐藤楓が雑誌『BRODY』の撮影のあとに訪れたと紹介されたパン店。",
     "tags": [],
     "tabelog_url": "https://tabelog.com/tokyo/A1311/A131102/13183985/",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000898725/",
@@ -47055,7 +45166,7 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/76/79/P022697679/P022697679_238.jpg",
     "visit_kind": "own_tv",
     "program": "乃木坂ってどこ",
-    "qa_note": "佐藤楓は番組ではなく雑誌（BRODY）撮影後のプライベート訪問（senublog）"
+    "qa_note": "佐藤楓は番組ではなく雑誌（BRODY）撮影後のプライベート訪問（senublog） senublog：佐藤楓が『BRODY』の浅草での撮影後に食べた（公式ブログ）。『乃木坂ってどこ』での松井玲奈・星野みなみの来店は確かめられず（検索でも見つからない）。description の『乃木坂ってどこ』の記述も直す必要あり"
   },
   {
     "id": "nogizaka46-13e87d2c-",
@@ -47257,9 +45368,7 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "https://tsuredure-nogi-blog.com/rokechi-hokkaidou/",
     "visited_date": "",
-    "members": [
-      "金川紗耶"
-    ],
+    "members": [],
     "groups": [
       "nogizaka46"
     ],
@@ -47277,7 +45386,7 @@
     "visit_kind": "own_tv",
     "program": "乃木坂工事中 #373（2022年8月14日）",
     "studio_only": true,
-    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い 『乃木坂工事中』「全国ツアーでなに食べまショー」で料理が紹介された店（studio_only）。スタジオで食べたメンバーはページに書かれていない（紹介したメンバーは description に残す）"
   },
   {
     "id": "nogizaka46-27425b2d-",
@@ -48468,9 +46577,7 @@
     "source_video_title": "乃木坂工事中",
     "source_url": "https://tsuredure-nogi-blog.com/rokechi-osaka/",
     "visited_date": "",
-    "members": [
-      "賀喜遥香"
-    ],
+    "members": [],
     "groups": [
       "nogizaka46"
     ],
@@ -48488,7 +46595,7 @@
     "visit_kind": "own_tv",
     "program": "乃木坂工事中 #374（2022年8月21日）",
     "studio_only": true,
-    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い"
+    "qa_note": "「全国ツアーでなに食べまショー」でメンバーが地元グルメとして紹介し、スタジオで料理が出た店（店に行ったわけではない）。studio_only 扱い 『乃木坂工事中』「全国ツアーでなに食べまショー」で料理が紹介された店（studio_only）。スタジオで食べたメンバーはページに書かれていない（紹介したメンバーは description に残す）"
   },
   {
     "id": "nogizaka46-5c86c1cd-",
@@ -54922,39 +53029,6 @@
     "program": "乃木坂配信中"
   },
   {
-    "id": "hinatazaka46-boulangerie_sudo-",
-    "name": "Boulangerie Sudo",
-    "genre": "sweets",
-    "prefecture": "東京都",
-    "city": "",
-    "address": "",
-    "lat": 35.64378658870429,
-    "lng": 139.6549060740844,
-    "youtube_id": "",
-    "source_video_title": "日向坂で会いましょう",
-    "source_url": "https://zakki10.blogspot.com/2022/05/hinatazaka46-seichi-tokyo.html",
-    "visited_date": "",
-    "members": [
-      "佐々木美玲"
-    ],
-    "groups": [
-      "hinatazaka46"
-    ],
-    "group": "hinatazaka46",
-    "description": "日向坂46の冠番組『日向坂で会いましょう』の未公開回（2020年5月3日深夜放送）で、佐々木美玲がハニートーストを紹介した世田谷区のパン店。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1317/A131709/13098861/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": 99748,
-    "tmdb_type": "tv",
-    "ordered_items": [],
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/10JBHKcQkhO9upveCfrClhMEbeF.jpg",
-    "visit_kind": "own_tv",
-    "program": "日向坂で会いましょう",
-    "qa_note": "出典（ひなたのまとめ）は「紹介された」とだけで、ロケで訪れたかは不明。住所が空のため場所の確認も要る"
-  },
-  {
     "id": "hinatazaka46-cdf0d467-",
     "name": "ストロベリーマニア原宿店",
     "genre": "sweets",
@@ -55193,41 +53267,6 @@
     "qa_note": "動画はお知らせ回。THE SMASH SCRAMBLE が飲食店か、店で食べた場面があるかは未確認"
   },
   {
-    "id": "equal_love-fddf14d2-20240815",
-    "name": "府中いちご狩り園",
-    "genre": "shokuji",
-    "prefecture": "東京都",
-    "city": "府中市",
-    "address": "東京都府中市美好町３丁目１６−２",
-    "lat": 35.6700214,
-    "lng": 139.4652109,
-    "youtube_id": "aD0Q4-d-Ntg",
-    "source_video_title": "【完全プライベート】あんまいでいちごを狩る",
-    "source_url": "https://miruwz7.blog.jp/archives/25164678.html",
-    "visited_date": "2023-04-12",
-    "members": [
-      "佐々木舞香",
-      "山本杏奈"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "",
-    "description": "=LOVEの佐々木舞香と山本杏奈が、2人のYouTube「イコラブのあんまい」の「【完全プライベート】あんまいでいちごを狩る」（2023年4月）で訪れたいちご狩り園。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/tokyo/A1326/A132602/13243991/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブのあんまい",
-    "visit_kind": "youtube",
-    "program": "イコラブのあんまい",
-    "qa_note": "飲食店ではなくいちご狩りの農園（その場でいちごを食べる）。残すかは要判断"
-  },
-  {
     "id": "equal_love-97d597db-20240815",
     "name": "カフェ ラ・ボエム 新宿御苑",
     "genre": "shokuji",
@@ -55334,41 +53373,6 @@
     "visit_kind": "youtube",
     "program": "イコラブ ノイミー ニアジョイ チャンネル",
     "qa_note": "食材持ち込みのBBQ場（施設）。流しそうめんは店が出しているため keep にしたが、飲食店として扱うかは要判断。店名はファンブログによる"
-  },
-  {
-    "id": "equal_love-210c4d15-20240804",
-    "name": "むらかみ牧場",
-    "genre": "shokuji",
-    "prefecture": "北海道",
-    "city": "恵庭市",
-    "address": "北海道恵庭市戸磯１５６−１５６",
-    "lat": 42.8797171,
-    "lng": 141.6090537,
-    "youtube_id": "MACQAREqCJQ",
-    "source_video_title": "【女子旅】イコラブが北海道を遊び尽くす！【北海道旅#2】",
-    "source_url": "https://miruwz7.blog.jp/archives/25155387.html",
-    "visited_date": "2022-04-18",
-    "members": [
-      "大谷映美里",
-      "佐々木舞香"
-    ],
-    "groups": [
-      "equal_love"
-    ],
-    "group": "equal_love",
-    "nearest_station": "",
-    "description": "=LOVEの大谷映美里と佐々木舞香が、公式YouTube「イコラブ ノイミー ニアジョイ チャンネル」の「【女子旅】イコラブが北海道を遊び尽くす！【北海道旅#2】」（2022年4月）で訪れた牧場。バター作りをした北海道旅の回。",
-    "tags": [],
-    "tabelog_url": "https://tabelog.com/hokkaido/A0107/A010703/1009148/",
-    "hotpepper_url": "",
-    "source_type": "",
-    "tmdb_id": null,
-    "tmdb_type": "",
-    "ordered_items": [],
-    "source_video_channel": "イコラブ ノイミー ニアジョイ チャンネル",
-    "visit_kind": "youtube",
-    "program": "イコラブ ノイミー ニアジョイ チャンネル",
-    "qa_note": "飲食店ではなくバター作り体験の牧場。残すかは要判断"
   },
   {
     "id": "smap-jinnan_cafe-",
@@ -60982,7 +58986,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12756344265.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12756344265.html",
+    "visited_date": "2022-08-23",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "30b87a7e",
@@ -61008,7 +59014,9 @@
     "city": "新宿区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "source_url": "https://ameblo.jp/ituki07/entry-12772336746.html"
+    "source_url": "https://ameblo.jp/ituki07/entry-12772336746.html",
+    "visited_date": "2022-11-08",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "392cc195",
@@ -61034,8 +59042,9 @@
     "city": "北九州市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "住所が「北九州市小倉南区」だが、出典の最寄り駅は筑豊中間（中間市）で食い違う",
-    "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html"
+    "qa_note": "住所が「北九州市小倉南区」だが、出典の最寄り駅は筑豊中間（中間市）で食い違う 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。所在地未確定：ファンブログのリンクは「Spice&Dining KALA (筑豊中間)」で、登録の北九州市小倉南区（番地なし）と食い違う。中間市の番地は確かめられず",
+    "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html",
+    "visited_date": "2022-08-23"
   },
   {
     "id": "3bdb1289",
@@ -61063,7 +59072,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12747077278.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12747077278.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12747077278.html",
+    "visited_date": "2022-06-14",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "71358ce8",
@@ -61091,7 +59102,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12743356932.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12743356932.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12743356932.html",
+    "visited_date": "2022-05-17",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "1c98e77f",
@@ -61117,8 +59130,9 @@
     "city": "渋谷区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認",
-    "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html"
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
+    "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html",
+    "visited_date": "2022-08-23"
   },
   {
     "id": "94a328b8",
@@ -61146,7 +59160,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12743356932.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12743356932.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12743356932.html",
+    "visited_date": "2022-05-31",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。番組公式X（2022-05-31）に「富士そば 御徒町店のイキスギさんに密着」とあり御徒町駅前店で合う"
   },
   {
     "id": "ac7c7785",
@@ -61172,10 +59188,11 @@
     "city": "渋谷区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12756344265.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12756344265.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12756344265.html",
+    "visited_date": "2022-08-09"
   },
   {
     "id": "ac9926e8",
@@ -61201,10 +59218,11 @@
     "city": "練馬区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12761946761.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html",
+    "visited_date": "2022-09-06"
   },
   {
     "id": "8483a892",
@@ -61255,10 +59273,11 @@
     "city": "目黒区",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12761946761.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html",
+    "visited_date": "2022-09-06"
   },
   {
     "id": "8474981f",
@@ -61284,10 +59303,11 @@
     "city": "藤沢市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。店内の場面は未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12761946761.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html",
+    "visited_date": "2022-09-06"
   },
   {
     "id": "146c6f8d",
@@ -61313,10 +59333,11 @@
     "city": "豊中市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "藤井が食べたかは明記なし（紹介店一覧による）",
+    "qa_note": "藤井が食べたかは明記なし（紹介店一覧による） 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12761946761.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12761946761.html",
+    "visited_date": "2022-09-13"
   },
   {
     "id": "cdeb9df5",
@@ -61342,10 +59363,11 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "5c4a6c6f",
@@ -61371,10 +59393,11 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "f4a52aaa",
@@ -61400,10 +59423,11 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "0d7e10cf",
@@ -61429,8 +59453,9 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
-    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。支店未確定：ファンブログは「重慶飯店」として公式の本館ページ（jukeihanten.com/honkan/）を載せている。登録は新館",
+    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "089c4634",
@@ -61456,8 +59481,9 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
-    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
+    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "52c97668",
@@ -61483,8 +59509,9 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
-    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
+    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "3898925a",
@@ -61510,8 +59537,9 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
-    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
+    "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "354db49d",
@@ -61537,10 +59565,11 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "e6e8678f",
@@ -61566,10 +59595,11 @@
     "city": "横浜市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認",
+    "qa_note": "番組の紹介店一覧（ファンブログ）による。小瀧が各店で食べたかは個別に未確認 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。",
     "source_url": "https://ameblo.jp/ituki07/entry-12767193178.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12767193178.html",
+    "visited_date": "2022-10-11"
   },
   {
     "id": "c7c89fdc",
@@ -61597,8 +59627,9 @@
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/34/75/P037523475/P037523475_238.jpg",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "membersが6人になっていたが、ロケは中間淳太のみ（ほかのメンバーはスタジオ）",
-    "source_url": "https://ameblo.jp/ituki07/entry-12775852856.html"
+    "qa_note": "membersが6人になっていたが、ロケは中間淳太のみ（ほかのメンバーはスタジオ） 放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。ブログの見出しは2022年11月23日だが、番組は毎週火曜よる11時56分（11月22日が火曜。プロデューサーの「ご視聴ありがとう」投稿も11月22日）",
+    "source_url": "https://ameblo.jp/ituki07/entry-12775852856.html",
+    "visited_date": "2022-11-22"
   },
   {
     "id": "d61017cc",
@@ -61626,7 +59657,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12789646983.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html",
+    "visited_date": "2023-02-21",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "2d80eba3",
@@ -61654,7 +59687,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12789646983.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html",
+    "visited_date": "2023-02-21",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "ce8d5aec",
@@ -61682,7 +59717,9 @@
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
     "source_url": "https://ameblo.jp/ituki07/entry-12789646983.html",
     "tabelog_verified": true,
-    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html"
+    "tabelog_source": "https://ameblo.jp/ituki07/entry-12789646983.html",
+    "visited_date": "2023-02-21",
+    "qa_note": "放送日を設定（ファンブログ ameblo.jp/ituki07 の放送回まとめ）。"
   },
   {
     "id": "0927b71e",
@@ -61693,10 +59730,9 @@
     ],
     "genre": "shokuji",
     "prefecture": "愛知県",
-    "address": "愛知県豊田市永覚町",
-    "nearest_station": "永覚",
-    "lat": 35.03347298478195,
-    "lng": 137.1356856687565,
+    "address": "岐阜県岐阜市八ツ寺町1丁目2",
+    "lat": 35.421883,
+    "lng": 136.76033,
     "members": [
       "藤井流星"
     ],
@@ -61708,8 +59744,9 @@
     "city": "豊田市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "住所が誤り。出典では岐阜県岐阜市八ツ寺町1丁目2（データは愛知県豊田市永覚町）",
-    "source_url": "https://jwest.jp/ikisugi_20230725/2/"
+    "qa_note": "住所が誤り。出典では岐阜県岐阜市八ツ寺町1丁目2（データは愛知県豊田市永覚町） jwest.jp/ikisugi_20230725/2/：4軒目の三河亭は岐阜市八ツ寺町1丁目2（Googleマップの表記）。藤井流星が特別に再現したミヤビヤ復刻版を試食。登録の愛知県豊田市永覚町は誤り",
+    "source_url": "https://jwest.jp/ikisugi_20230725/2/",
+    "visited_date": "2023-07-25"
   },
   {
     "id": "7956f3a0",
@@ -61720,10 +59757,9 @@
     ],
     "genre": "shokuji",
     "prefecture": "愛知県",
-    "address": "愛知県江南市上奈良町",
-    "nearest_station": "江南",
-    "lat": 34.862088868328534,
-    "lng": 136.91609159810835,
+    "address": "愛知県知多郡武豊町池田1丁目114-3",
+    "lat": 34.861748,
+    "lng": 136.916,
     "members": [
       "藤井流星"
     ],
@@ -61735,8 +59771,9 @@
     "city": "江南市",
     "visit_kind": "own_tv",
     "program": "DEEPな店の常連さんに密着 イキスギさんについてった",
-    "qa_note": "住所が誤りの可能性。出典の地図は愛知県知多郡武豊町池田（データは江南市上奈良町）",
-    "source_url": "https://jwest.jp/ikisugi_20230725/2/"
+    "qa_note": "住所が誤りの可能性。出典の地図は愛知県知多郡武豊町池田（データは江南市上奈良町） jwest.jp/ikisugi_20230725/2/：3軒目の享楽亭は愛知県知多郡武豊町池田１丁…（番地はmapfanの掲載 池田1丁目114-3）。登録の江南市上奈良町は誤り。注文「チキンミヤビヤ」は誰の注文か書かれていない",
+    "source_url": "https://jwest.jp/ikisugi_20230725/2/",
+    "visited_date": "2023-07-25"
   },
   {
     "id": "70aa6bc9",
@@ -66961,8 +64998,8 @@
     "genre": "ramen",
     "prefecture": "埼玉県",
     "city": "所沢市",
-    "lat": 35.81165963775228,
-    "lng": 139.5292460847064,
+    "lat": 35.813557,
+    "lng": 139.531296,
     "groups": [
       "snowman"
     ],
@@ -66983,11 +65020,13 @@
     ],
     "visit_kind": "own_tv",
     "program": "それSnow Manにやらせて下さい",
-    "qa_note": "住所なし（所沢市南永井867-1）",
+    "qa_note": "住所なし（所沢市南永井867-1） mom-eat.com/snowman-location-soresnow-saitamabustour/：2022年3月20日放送。住所は登録の qa_note（所沢市南永井867-1）。address が空だったため",
     "source_url": "https://mom-eat.com/snowman-location-soresnow-saitamabustour/",
     "ordered_items": [
       "サーモンとイクラと生海苔と山葵の和あえそば"
-    ]
+    ],
+    "visited_date": "2022-03-20",
+    "address": "埼玉県所沢市南永井867-1"
   },
   {
     "id": "be79694a",
@@ -67168,36 +65207,6 @@
     "seating_note": "2階"
   },
   {
-    "id": "785b973d",
-    "name": "三久",
-    "genre": "others",
-    "prefecture": "千葉県",
-    "city": "成田市",
-    "lat": 35.784172638021445,
-    "lng": 140.31963418387468,
-    "groups": [
-      "snowman"
-    ],
-    "group": "snowman",
-    "source_type": "tv",
-    "source_video_title": "それSnow Manだから",
-    "description": "『それSnow Manにやらせて下さい』の成田借り物競争（2024年5月放送）で、向井康二・目黒蓮・宮舘涼太のチームが訪れた成田山参道のたこ焼き店。",
-    "tabelog_url": "https://tabelog.com/chiba/A1204/A120401/12030474/",
-    "nearest_station": "成田駅 徒歩14分",
-    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bPibVMymeObVvRCtlkaO3indEtY.jpg",
-    "tmdb_id": 123947,
-    "tmdb_type": "tv",
-    "members": [
-      "向井康二",
-      "目黒蓮",
-      "宮舘涼太"
-    ],
-    "visit_kind": "own_tv",
-    "program": "それSnow Manにやらせて下さい",
-    "qa_note": "聞き込み・借り物で訪れた店。食べたかは出典に記載なし",
-    "source_url": "https://mom-eat.com/soresuno-narita/"
-  },
-  {
     "id": "3fc9a407",
     "name": "プレゼンテ スギ",
     "genre": "shokuji",
@@ -67287,8 +65296,8 @@
     "genre": "shokuji",
     "prefecture": "東京都",
     "city": "目黒区",
-    "lat": 35.62904163792178,
-    "lng": 139.69732498274394,
+    "lat": 35.629028,
+    "lng": 139.697266,
     "groups": [
       "snowman"
     ],
@@ -67317,8 +65326,10 @@
       "木梨憲武",
       "長州力"
     ],
-    "qa_note": "DB descriptionは「ステーキ大食い対決」。全員参加かは出典で明記なし。住所なし（目黒区下目黒6-17-20）",
-    "source_url": "https://mom-eat.com/snowman-location-soresuno-kinashibus2/"
+    "qa_note": "DB descriptionは「ステーキ大食い対決」。全員参加かは出典で明記なし。住所なし（目黒区下目黒6-17-20） mom-eat.com/snowman-location-soresuno-kinashibus2/：2026年4月17日放送、住所 目黒区下目黒6-17-20。登録の address が空だったため。全員がいたかは明記なし（「その他のメンバー」）",
+    "source_url": "https://mom-eat.com/snowman-location-soresuno-kinashibus2/",
+    "visited_date": "2026-04-17",
+    "address": "東京都目黒区下目黒6-17-20"
   },
   {
     "id": "18e67b1e",
@@ -67442,8 +65453,8 @@
     "genre": "shokuji",
     "prefecture": "埼玉県",
     "city": "川越市",
-    "lat": 35.92406423766619,
-    "lng": 139.48309928587412,
+    "lat": 35.923859,
+    "lng": 139.483383,
     "groups": [
       "snowman"
     ],
@@ -67455,20 +65466,21 @@
     "source_video_title": "バナナマンのせかっくグルメ!!",
     "description": "Snow Manの佐久間大介が『バナナマンのせっかくグルメ!!』埼玉県川越市編（2025年11月放送）で訪れたステーキ・鉄板焼きの店。",
     "tabelog_url": "https://tabelog.com/saitama/A1103/A110303/11040796/",
-    "nearest_station": "本川越駅 徒歩18分",
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/f5qmqikojUENAhx44bECNMsFmBK.jpg",
     "tmdb_id": 111380,
     "tmdb_type": "tv",
     "visit_kind": "guest_tv",
     "program": "バナナマンのせっかくグルメ!!",
-    "qa_note": "mom-eatは「だと思われます」と書くが、番組公式Xが店名と住所を掲載。住所なし（川越市幸町8-11 明文館201）",
+    "qa_note": "mom-eatは「だと思われます」と書くが、番組公式Xが店名と住所を掲載。住所なし（川越市幸町8-11 明文館201） mom-eat.com/snowman-location-sekkakugurume-kawagoe-sakuma/：2025年11月23日(日)放送のバナナマンのせっかくグルメ!!。住所は登録の qa_note（番組公式Xの掲載）。address が空だったため",
     "source_url": "https://mom-eat.com/snowman-location-sekkakugurume-kawagoe-sakuma/",
     "tabelog_verified": true,
     "tabelog_source": "https://mom-eat.com/snowman-location-sekkakugurume-kawagoe-sakuma/",
     "ordered_items": [
       "所沢牛2種食べ比べ（イチボ・シンシン）",
       "河越米のガーリックライス"
-    ]
+    ],
+    "visited_date": "2025-11-23",
+    "address": "埼玉県川越市幸町8-11 明文館201"
   },
   {
     "id": "0f21560d",
@@ -173749,53 +171761,6 @@
     "thumbnail_url": "https://image.tmdb.org/t/p/w500/c22w9jg6fOKBaILsxT1a9gR7Ajd.jpg",
     "tmdb_id": 112042,
     "tmdb_type": "tv"
-  },
-  {
-    "id": "sixtones-ramen-hakubutsukan",
-    "name": "新横浜ラーメン博物館",
-    "genre": "ramen",
-    "prefecture": "神奈川県",
-    "city": "横浜市港北区",
-    "address": "神奈川県横浜市港北区新横浜2-14-21",
-    "lat": 35.510089,
-    "lng": 139.616478,
-    "youtube_id": "Y0HPj8hZk-Q",
-    "members": [
-      "ジェシー",
-      "京本大我",
-      "松村北斗",
-      "髙地優吾",
-      "森本慎太郎",
-      "田中樹"
-    ],
-    "groups": [
-      "sixtones"
-    ],
-    "group": "sixtones",
-    "visited_date": "2022-11-04",
-    "description": "SixTONESの公式YouTube「新横浜ラーメン博物館で少数派グルメ」（2022年11月）で、6人が企画をしたラーメンのテーマパーク。",
-    "tags": [
-      "ラーメン",
-      "横浜",
-      "新横浜",
-      "テーマパーク",
-      "聖地巡礼"
-    ],
-    "affiliate_links": [
-      {
-        "label": "公式サイト",
-        "url": "https://www.raumen.co.jp/"
-      }
-    ],
-    "source_video_title": "【SixTONES】新横浜ラーメン博物館で少数派グルメ…京本の悲劇😂",
-    "thumbnail_url": "https://img.youtube.com/vi/Y0HPj8hZk-Q/hqdefault.jpg",
-    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140206/14047083/",
-    "nearest_station": "新横浜駅 徒歩2分",
-    "source_video_channel": "SixTONES",
-    "visit_kind": "youtube",
-    "program": "ストチューブ（SixTONES公式YouTube）",
-    "qa_note": "今の説明文の「2本の動画に登場」「館内かくれんぼ」「多数のジャニーズ」は出典未確認なので外した",
-    "source_url": "https://www.youtube.com/watch?v=Y0HPj8hZk-Q"
   },
   {
     "id": "hihijets-c4f4c74d-20190721",

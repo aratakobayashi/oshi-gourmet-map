@@ -1,732 +1,694 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 10390" width="420" height="10390" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
-<rect width="420" height="10390" rx="18" fill="#F7F3EC"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 9850" width="420" height="9850" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="9850" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">なにわ男子の聖地 年表</text>
 <text x="20" y="64" font-size="12" fill="#6B6258">動画が公開された順（推しグルメ巡礼MAPのデータより）</text>
-<line x1="86" y1="88" x2="86" y2="10364" stroke="#f97316" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
-<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2020</text>
-<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<line x1="86" y1="88" x2="86" y2="9824" stroke="#f97316" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 10"/>
+<text x="70" y="112" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="129" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="107" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="88" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">挽肉と米　吉祥寺店</text>
-<text x="118" y="134" font-size="12.5" fill="#f97316">ハンバーグにハマる女子急増のなんでやね</text>
-<text x="118" y="152" font-size="12.5" fill="#f97316">ん！を解明</text>
-<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2020</text>
+<text x="118" y="112" font-size="16" font-weight="800" fill="#241F1A">PST　六本木店</text>
+<text x="118" y="134" font-size="12.5" fill="#f97316">熱々グルメがひんやりグルメになっている</text>
+<text x="118" y="152" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
+<text x="70" y="214" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
 <text x="70" y="231" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="209" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="190" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">鉄板和食とワイン 萬鉄</text>
-<text x="118" y="236" font-size="12.5" fill="#f97316">ハンバーグにハマる女子急増のなんでやね</text>
-<text x="118" y="254" font-size="12.5" fill="#f97316">ん！を解明</text>
-<text x="70" y="316" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2020</text>
-<text x="70" y="333" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="311" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="292" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="316" font-size="16" font-weight="800" fill="#241F1A">MUUN seoul</text>
-<text x="70" y="382" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="399" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="377" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="358" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="382" font-size="16" font-weight="800" fill="#241F1A">そうめん そそそ 研究室</text>
+<rect x="104" y="190" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="214" font-size="16" font-weight="800" fill="#241F1A">TruffleBAKERY</text>
+<text x="70" y="280" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="297" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="275" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="256" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="280" font-size="16" font-weight="800" fill="#241F1A">Le BRESSO 木場公園前店</text>
+<text x="70" y="346" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="363" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="341" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="322" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="346" font-size="16" font-weight="800" fill="#241F1A">焼肉Meat it</text>
+<text x="118" y="368" font-size="12.5" fill="#f97316">新しいタイプの焼き肉店が拡大しているの</text>
+<text x="118" y="386" font-size="12.5" fill="#f97316">なんでやねん！を解明</text>
 <text x="70" y="448" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="465" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="465" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="443" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="424" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="448" font-size="16" font-weight="800" fill="#241F1A">PST　六本木店</text>
-<text x="118" y="470" font-size="12.5" fill="#f97316">熱々グルメがひんやりグルメになっている</text>
-<text x="118" y="488" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
+<text x="118" y="448" font-size="16" font-weight="800" fill="#241F1A">焼肉ストーリー</text>
+<text x="118" y="470" font-size="12.5" fill="#f97316">新しいタイプの焼き肉店が拡大しているの</text>
+<text x="118" y="488" font-size="12.5" fill="#f97316">なんでやねん！を解明</text>
 <text x="70" y="550" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="567" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="567" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="545" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="526" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="550" font-size="16" font-weight="800" fill="#241F1A">TruffleBAKERY</text>
-<text x="70" y="616" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="633" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="611" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="592" width="302" height="54" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="616" font-size="16" font-weight="800" fill="#241F1A">Le BRESSO 木場公園前店</text>
-<text x="70" y="682" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="699" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="677" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="658" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="682" font-size="16" font-weight="800" fill="#241F1A">焼肉Meat it</text>
-<text x="118" y="704" font-size="12.5" fill="#f97316">新しいタイプの焼き肉店が拡大しているの</text>
-<text x="118" y="722" font-size="12.5" fill="#f97316">なんでやねん！を解明</text>
-<text x="70" y="784" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="801" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="779" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="760" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="784" font-size="16" font-weight="800" fill="#241F1A">焼肉ストーリー</text>
-<text x="118" y="806" font-size="12.5" fill="#f97316">新しいタイプの焼き肉店が拡大しているの</text>
-<text x="118" y="824" font-size="12.5" fill="#f97316">なんでやねん！を解明</text>
-<text x="70" y="886" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="903" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="881" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="862" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="886" font-size="16" font-weight="800" fill="#241F1A">沸騰 小吃城</text>
-<text x="118" y="908" font-size="12.5" fill="#f97316">池袋が中華街になっているのなんでやねん</text>
-<text x="118" y="926" font-size="12.5" fill="#f97316">！を解明</text>
-<text x="70" y="988" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1005" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="983" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="964" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="988" font-size="16" font-weight="800" fill="#241F1A">四季香</text>
-<text x="118" y="1010" font-size="12.5" fill="#f97316">池袋が中華街になっているのなんでやねん</text>
-<text x="118" y="1028" font-size="12.5" fill="#f97316">！を解明</text>
-<text x="70" y="1090" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1107" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="1085" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1066" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1090" font-size="16" font-weight="800" fill="#241F1A">DooWop</text>
-<text x="118" y="1112" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
-<text x="118" y="1130" font-size="12.5" fill="#f97316">でやねん！を解明</text>
-<text x="70" y="1192" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1209" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="1187" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1168" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1192" font-size="16" font-weight="800" fill="#241F1A">Crispy’s Burger</text>
-<text x="118" y="1214" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
-<text x="118" y="1232" font-size="12.5" fill="#f97316">でやねん！を解明</text>
-<text x="70" y="1294" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1311" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="1289" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1270" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1294" font-size="16" font-weight="800" fill="#241F1A">ハイカラ フライド チキン ヨド…</text>
-<text x="118" y="1316" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
-<text x="118" y="1334" font-size="12.5" fill="#f97316">でやねん！を解明</text>
-<text x="70" y="1396" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1413" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="1391" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1372" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1396" font-size="16" font-weight="800" fill="#241F1A">むぎとオリーブ</text>
-<text x="118" y="1418" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
-<text x="118" y="1436" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
-<text x="70" y="1498" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1515" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="1493" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1474" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1498" font-size="16" font-weight="800" fill="#241F1A">ウミノイロ</text>
-<text x="118" y="1520" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
-<text x="118" y="1538" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
-<text x="70" y="1600" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
-<text x="70" y="1617" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="1595" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1576" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1600" font-size="16" font-weight="800" fill="#241F1A">銀座 創龍</text>
-<text x="118" y="1622" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
-<text x="118" y="1640" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
-<text x="70" y="1702" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="1719" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="1697" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1678" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1702" font-size="16" font-weight="800" fill="#241F1A">大衆食堂スタンド そのだ</text>
-<text x="118" y="1724" font-size="12.5" fill="#f97316">大衆食堂が若者に人気なのなんでやねん！</text>
-<text x="118" y="1742" font-size="12.5" fill="#f97316">を解明</text>
-<text x="70" y="1804" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="1821" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="1799" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1780" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1804" font-size="16" font-weight="800" fill="#241F1A">大衆食堂 ゆしまホール</text>
-<text x="118" y="1826" font-size="12.5" fill="#f97316">大衆食堂が若者に人気なのなんでやねん！</text>
-<text x="118" y="1844" font-size="12.5" fill="#f97316">を解明</text>
-<text x="70" y="1906" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="1923" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="1901" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1882" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="1906" font-size="16" font-weight="800" fill="#241F1A">KAMERA</text>
-<text x="118" y="1928" font-size="12.5" fill="#f97316">シューマイの存在感が増しているのなんで</text>
-<text x="118" y="1946" font-size="12.5" fill="#f97316">やねん！を解明</text>
-<text x="70" y="2008" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2025" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="2003" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="1984" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2008" font-size="16" font-weight="800" fill="#241F1A">東京ギョーザ スタンド ウーロン</text>
-<text x="118" y="2030" font-size="12.5" fill="#f97316">駅ナカに話題のグルメが集まっているのな</text>
-<text x="118" y="2048" font-size="12.5" fill="#f97316">んでやねん！を解明</text>
-<text x="70" y="2110" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2127" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="2105" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2086" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2110" font-size="16" font-weight="800" fill="#241F1A">鳥藤　とりそばスタンド</text>
-<text x="118" y="2132" font-size="12.5" fill="#f97316">駅ナカに話題のグルメが集まっているのな</text>
-<text x="118" y="2150" font-size="12.5" fill="#f97316">んでやねん！を解明</text>
-<text x="70" y="2212" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2229" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="2207" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2188" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2212" font-size="16" font-weight="800" fill="#241F1A">立ち寿司横丁</text>
-<text x="118" y="2234" font-size="12.5" fill="#f97316">立ち食い寿司店が増えているのなんでやね</text>
-<text x="118" y="2252" font-size="12.5" fill="#f97316">ん！を解明</text>
-<text x="70" y="2314" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2331" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="2309" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2290" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2314" font-size="16" font-weight="800" fill="#241F1A">食と祭りの殿堂 浅草横丁</text>
-<text x="118" y="2336" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
-<text x="118" y="2354" font-size="12.5" fill="#f97316">やねん！を解明</text>
-<text x="70" y="2416" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2433" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="2411" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2392" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2416" font-size="16" font-weight="800" fill="#241F1A">アクアリウムレストラン Nautil…</text>
-<text x="118" y="2438" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
-<text x="118" y="2456" font-size="12.5" fill="#f97316">やねん！を解明</text>
-<text x="70" y="2518" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
-<text x="70" y="2535" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="2513" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2494" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2518" font-size="16" font-weight="800" fill="#241F1A">回転わんこそば・くるくるわんこ</text>
-<text x="118" y="2540" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
-<text x="118" y="2558" font-size="12.5" fill="#f97316">やねん！を解明</text>
-<text x="70" y="2620" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2637" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="2615" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2596" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2620" font-size="16" font-weight="800" fill="#241F1A">牡蠣と魚</text>
-<text x="118" y="2642" font-size="12.5" fill="#f97316">無料で食べ放題できるのなんでやねん！を</text>
-<text x="118" y="2660" font-size="12.5" fill="#f97316">解明</text>
+<rect x="104" y="526" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="550" font-size="16" font-weight="800" fill="#241F1A">沸騰 小吃城</text>
+<text x="118" y="572" font-size="12.5" fill="#f97316">池袋が中華街になっているのなんでやねん</text>
+<text x="118" y="590" font-size="12.5" fill="#f97316">！を解明</text>
+<text x="70" y="652" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="669" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="647" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="628" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="652" font-size="16" font-weight="800" fill="#241F1A">四季香</text>
+<text x="118" y="674" font-size="12.5" fill="#f97316">池袋が中華街になっているのなんでやねん</text>
+<text x="118" y="692" font-size="12.5" fill="#f97316">！を解明</text>
+<text x="70" y="754" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="771" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="749" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="730" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="754" font-size="16" font-weight="800" fill="#241F1A">DooWop</text>
+<text x="118" y="776" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
+<text x="118" y="794" font-size="12.5" fill="#f97316">でやねん！を解明</text>
+<text x="70" y="856" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="873" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="851" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="832" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="856" font-size="16" font-weight="800" fill="#241F1A">Crispy’s Burger</text>
+<text x="118" y="878" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
+<text x="118" y="896" font-size="12.5" fill="#f97316">でやねん！を解明</text>
+<text x="70" y="958" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="975" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="953" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="934" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="958" font-size="16" font-weight="800" fill="#241F1A">ハイカラ フライド チキン ヨド…</text>
+<text x="118" y="980" font-size="12.5" fill="#f97316">チキンバーガー専門店が急増してるのなん</text>
+<text x="118" y="998" font-size="12.5" fill="#f97316">でやねん！を解明</text>
+<text x="70" y="1060" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="1077" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="1055" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1036" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1060" font-size="16" font-weight="800" fill="#241F1A">むぎとオリーブ</text>
+<text x="118" y="1082" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
+<text x="118" y="1100" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
+<text x="70" y="1162" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="1179" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="1157" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1138" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1162" font-size="16" font-weight="800" fill="#241F1A">ウミノイロ</text>
+<text x="118" y="1184" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
+<text x="118" y="1202" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
+<text x="70" y="1264" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2021</text>
+<text x="70" y="1281" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="1259" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1240" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1264" font-size="16" font-weight="800" fill="#241F1A">銀座 創龍</text>
+<text x="118" y="1286" font-size="12.5" fill="#f97316">銀座におしゃれ系ラーメン店が増えている</text>
+<text x="118" y="1304" font-size="12.5" fill="#f97316">のなんでやねん！を解明</text>
+<text x="70" y="1366" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1383" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="1361" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1342" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1366" font-size="16" font-weight="800" fill="#241F1A">大衆食堂スタンド そのだ</text>
+<text x="118" y="1388" font-size="12.5" fill="#f97316">大衆食堂が若者に人気なのなんでやねん！</text>
+<text x="118" y="1406" font-size="12.5" fill="#f97316">を解明</text>
+<text x="70" y="1468" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1485" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="1463" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1444" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1468" font-size="16" font-weight="800" fill="#241F1A">大衆食堂 ゆしまホール</text>
+<text x="118" y="1490" font-size="12.5" fill="#f97316">大衆食堂が若者に人気なのなんでやねん！</text>
+<text x="118" y="1508" font-size="12.5" fill="#f97316">を解明</text>
+<text x="70" y="1570" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1587" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="1565" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1546" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1570" font-size="16" font-weight="800" fill="#241F1A">KAMERA</text>
+<text x="118" y="1592" font-size="12.5" fill="#f97316">シューマイの存在感が増しているのなんで</text>
+<text x="118" y="1610" font-size="12.5" fill="#f97316">やねん！を解明</text>
+<text x="70" y="1672" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1689" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="1667" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1648" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1672" font-size="16" font-weight="800" fill="#241F1A">東京ギョーザ スタンド ウーロン</text>
+<text x="118" y="1694" font-size="12.5" fill="#f97316">駅ナカに話題のグルメが集まっているのな</text>
+<text x="118" y="1712" font-size="12.5" fill="#f97316">んでやねん！を解明</text>
+<text x="70" y="1774" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1791" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="1769" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1750" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1774" font-size="16" font-weight="800" fill="#241F1A">鳥藤　とりそばスタンド</text>
+<text x="118" y="1796" font-size="12.5" fill="#f97316">駅ナカに話題のグルメが集まっているのな</text>
+<text x="118" y="1814" font-size="12.5" fill="#f97316">んでやねん！を解明</text>
+<text x="70" y="1876" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1893" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="1871" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1852" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1876" font-size="16" font-weight="800" fill="#241F1A">立ち寿司横丁</text>
+<text x="118" y="1898" font-size="12.5" fill="#f97316">立ち食い寿司店が増えているのなんでやね</text>
+<text x="118" y="1916" font-size="12.5" fill="#f97316">ん！を解明</text>
+<text x="70" y="1978" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="1995" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="1973" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="1954" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="1978" font-size="16" font-weight="800" fill="#241F1A">食と祭りの殿堂 浅草横丁</text>
+<text x="118" y="2000" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
+<text x="118" y="2018" font-size="12.5" fill="#f97316">やねん！を解明</text>
+<text x="70" y="2080" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="2097" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="2075" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2056" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2080" font-size="16" font-weight="800" fill="#241F1A">アクアリウムレストラン Nautil…</text>
+<text x="118" y="2102" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
+<text x="118" y="2120" font-size="12.5" fill="#f97316">やねん！を解明</text>
+<text x="70" y="2182" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2022</text>
+<text x="70" y="2199" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="2177" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2158" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2182" font-size="16" font-weight="800" fill="#241F1A">回転わんこそば・くるくるわんこ</text>
+<text x="118" y="2204" font-size="12.5" fill="#f97316">エンタメレストランが増えているのなんで</text>
+<text x="118" y="2222" font-size="12.5" fill="#f97316">やねん！を解明</text>
+<text x="70" y="2284" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2301" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
+<circle cx="86" cy="2279" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2260" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2284" font-size="16" font-weight="800" fill="#241F1A">牡蠣と魚</text>
+<text x="118" y="2306" font-size="12.5" fill="#f97316">無料で食べ放題できるのなんでやねん！を</text>
+<text x="118" y="2324" font-size="12.5" fill="#f97316">解明</text>
+<text x="70" y="2386" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2403" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="2381" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2362" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2386" font-size="16" font-weight="800" fill="#241F1A">銀座朝食ラボ</text>
+<text x="118" y="2408" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-05-05)</text>
+<text x="70" y="2470" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2487" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="2465" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2446" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2470" font-size="16" font-weight="800" fill="#241F1A">ふわり</text>
+<text x="118" y="2492" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
+<text x="70" y="2554" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2571" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="2549" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2530" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2554" font-size="16" font-weight="800" fill="#241F1A">西荻３時</text>
+<text x="118" y="2576" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
+<text x="70" y="2638" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="2655" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="2633" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2614" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2638" font-size="16" font-weight="800" fill="#241F1A">ジョリッティカフェ</text>
+<text x="118" y="2660" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
 <text x="70" y="2722" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2739" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<text x="70" y="2739" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="2717" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="2698" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2722" font-size="16" font-weight="800" fill="#241F1A">銀座朝食ラボ</text>
-<text x="118" y="2744" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-05-05)</text>
+<text x="118" y="2722" font-size="16" font-weight="800" fill="#241F1A">cafe capyba</text>
+<text x="118" y="2744" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-23)</text>
 <text x="70" y="2806" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
 <text x="70" y="2823" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
 <circle cx="86" cy="2801" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="2782" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2806" font-size="16" font-weight="800" fill="#241F1A">ふわり</text>
-<text x="118" y="2828" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
+<text x="118" y="2806" font-size="16" font-weight="800" fill="#241F1A">あうるぱーく フクロウカフェ</text>
+<text x="118" y="2828" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-23)</text>
 <text x="70" y="2890" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2907" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<text x="70" y="2907" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
 <circle cx="86" cy="2885" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2866" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2890" font-size="16" font-weight="800" fill="#241F1A">西荻３時</text>
-<text x="118" y="2912" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
-<text x="70" y="2974" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="2991" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
-<circle cx="86" cy="2969" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="2950" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="2974" font-size="16" font-weight="800" fill="#241F1A">ジョリッティカフェ</text>
-<text x="118" y="2996" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-02)</text>
-<text x="70" y="3058" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3075" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
-<circle cx="86" cy="3053" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="3034" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3058" font-size="16" font-weight="800" fill="#241F1A">cafe capyba</text>
-<text x="118" y="3080" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-23)</text>
-<text x="70" y="3142" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3159" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
-<circle cx="86" cy="3137" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="3118" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3142" font-size="16" font-weight="800" fill="#241F1A">あうるぱーく フクロウカフェ</text>
-<text x="118" y="3164" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-06-23)</text>
-<text x="70" y="3226" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3243" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="3221" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="3202" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3226" font-size="16" font-weight="800" fill="#241F1A">ソレイユの丘手ぶらバーベキュー</text>
-<text x="118" y="3248" font-size="12.5" fill="#f97316">福くんの今行きたい 1日乗車券の旅（202</text>
-<text x="118" y="3266" font-size="12.5" fill="#f97316">3-07-20 日本テレビ『ヒルナンデス！』</text>
-<text x="70" y="3328" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3345" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="3323" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="3304" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3328" font-size="16" font-weight="800" fill="#241F1A">TLC cafe&amp;dining ティーエルシ…</text>
-<text x="118" y="3350" font-size="12.5" fill="#f97316">福くんの今行きたい 1日乗車券の旅（202</text>
-<text x="118" y="3368" font-size="12.5" fill="#f97316">3-07-20 日本テレビ『ヒルナンデス！』</text>
+<rect x="104" y="2866" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2890" font-size="16" font-weight="800" fill="#241F1A">ソレイユの丘手ぶらバーベキュー</text>
+<text x="118" y="2912" font-size="12.5" fill="#f97316">福くんの今行きたい 1日乗車券の旅（202</text>
+<text x="118" y="2930" font-size="12.5" fill="#f97316">3-07-20 日本テレビ『ヒルナンデス！』</text>
+<text x="70" y="2992" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="3009" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="2987" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="2968" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="2992" font-size="16" font-weight="800" fill="#241F1A">TLC cafe&amp;dining ティーエルシ…</text>
+<text x="118" y="3014" font-size="12.5" fill="#f97316">福くんの今行きたい 1日乗車券の旅（202</text>
+<text x="118" y="3032" font-size="12.5" fill="#f97316">3-07-20 日本テレビ『ヒルナンデス！』</text>
+<text x="70" y="3094" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="3111" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3089" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="3070" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3094" font-size="16" font-weight="800" fill="#241F1A">ゴールデンタイガー</text>
+<text x="118" y="3116" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-07-21)</text>
+<text x="70" y="3178" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="3195" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="3173" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="3154" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3178" font-size="16" font-weight="800" fill="#241F1A">はるちゃんラーメン</text>
+<text x="118" y="3200" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-07-21)</text>
+<text x="70" y="3262" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="3279" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="3257" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="3238" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3262" font-size="16" font-weight="800" fill="#241F1A">大山生煎店</text>
+<text x="118" y="3284" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
+<text x="70" y="3346" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
+<text x="70" y="3363" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<circle cx="86" cy="3341" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="3322" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="3346" font-size="16" font-weight="800" fill="#241F1A">和風回鍋肉専門店だしや。</text>
+<text x="118" y="3368" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
 <text x="70" y="3430" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3447" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="3447" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="3425" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3406" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3430" font-size="16" font-weight="800" fill="#241F1A">ゴールデンタイガー</text>
-<text x="118" y="3452" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-07-21)</text>
+<text x="118" y="3430" font-size="16" font-weight="800" fill="#241F1A">みそめぼれ</text>
+<text x="118" y="3452" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
 <text x="70" y="3514" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3531" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<text x="70" y="3531" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
 <circle cx="86" cy="3509" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3490" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3514" font-size="16" font-weight="800" fill="#241F1A">はるちゃんラーメン</text>
-<text x="118" y="3536" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-07-21)</text>
+<text x="118" y="3514" font-size="16" font-weight="800" fill="#241F1A">スシロー 五反田店</text>
+<text x="118" y="3536" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
 <text x="70" y="3598" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3615" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3615" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="3593" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3574" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3598" font-size="16" font-weight="800" fill="#241F1A">大山生煎店</text>
-<text x="118" y="3620" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
+<text x="118" y="3598" font-size="16" font-weight="800" fill="#241F1A">MONNAKA COFFEE</text>
+<text x="118" y="3620" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
 <text x="70" y="3682" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3699" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3699" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="3677" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3658" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3682" font-size="16" font-weight="800" fill="#241F1A">和風回鍋肉専門店だしや。</text>
-<text x="118" y="3704" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
+<text x="118" y="3682" font-size="16" font-weight="800" fill="#241F1A">Merci life organics 練馬店</text>
+<text x="118" y="3704" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
 <text x="70" y="3766" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3783" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3783" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
 <circle cx="86" cy="3761" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3742" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3766" font-size="16" font-weight="800" fill="#241F1A">みそめぼれ</text>
-<text x="118" y="3788" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
+<text x="118" y="3766" font-size="16" font-weight="800" fill="#241F1A">ジュウニブン ベーカリー 三軒…</text>
+<text x="118" y="3788" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
 <text x="70" y="3850" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3867" font-size="12" text-anchor="end" fill="#6B6258">8月</text>
+<text x="70" y="3867" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="3845" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3826" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3850" font-size="16" font-weight="800" fill="#241F1A">スシロー 五反田店</text>
-<text x="118" y="3872" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-08-18)</text>
+<text x="118" y="3850" font-size="16" font-weight="800" fill="#241F1A">花重谷中茶屋</text>
+<text x="118" y="3872" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
 <text x="70" y="3934" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="3951" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<text x="70" y="3951" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="3929" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3910" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="3934" font-size="16" font-weight="800" fill="#241F1A">MONNAKA COFFEE</text>
-<text x="118" y="3956" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
+<text x="118" y="3934" font-size="16" font-weight="800" fill="#241F1A">annorum</text>
+<text x="118" y="3956" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
 <text x="70" y="4018" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4035" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<text x="70" y="4035" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="4013" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="3994" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4018" font-size="16" font-weight="800" fill="#241F1A">Merci life organics 練馬店</text>
-<text x="118" y="4040" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
+<text x="118" y="4018" font-size="16" font-weight="800" fill="#241F1A">TERA CAFE SHIEN -ZOJOJI-</text>
+<text x="118" y="4040" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
 <text x="70" y="4102" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4119" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<text x="70" y="4119" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="4097" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4078" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4102" font-size="16" font-weight="800" fill="#241F1A">ジュウニブン ベーカリー 三軒…</text>
-<text x="118" y="4124" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-09-01)</text>
+<text x="118" y="4102" font-size="16" font-weight="800" fill="#241F1A">カフェテラス普賢寺</text>
+<text x="118" y="4124" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
 <text x="70" y="4186" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
 <text x="70" y="4203" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
 <circle cx="86" cy="4181" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4162" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4186" font-size="16" font-weight="800" fill="#241F1A">花重谷中茶屋</text>
-<text x="118" y="4208" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
+<text x="118" y="4186" font-size="16" font-weight="800" fill="#241F1A">デニーズ 竹の塚店</text>
+<text x="118" y="4208" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-27)</text>
 <text x="70" y="4270" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4287" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="4287" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="4265" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4246" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4270" font-size="16" font-weight="800" fill="#241F1A">annorum</text>
-<text x="118" y="4292" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
+<text x="118" y="4270" font-size="16" font-weight="800" fill="#241F1A">21時にアイス 駒沢店</text>
+<text x="118" y="4292" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
 <text x="70" y="4354" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4371" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="4371" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="4349" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4330" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4354" font-size="16" font-weight="800" fill="#241F1A">TERA CAFE SHIEN -ZOJOJI-</text>
-<text x="118" y="4376" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
+<text x="118" y="4354" font-size="16" font-weight="800" fill="#241F1A">米農園 田町店</text>
+<text x="118" y="4376" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
 <text x="70" y="4438" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4455" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="4455" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="4433" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4414" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4438" font-size="16" font-weight="800" fill="#241F1A">カフェテラス普賢寺</text>
-<text x="118" y="4460" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-20)</text>
+<text x="118" y="4438" font-size="16" font-weight="800" fill="#241F1A">KAKIGORI CAFE&amp;BAR yelo</text>
+<text x="118" y="4460" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
 <text x="70" y="4522" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4539" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<text x="70" y="4539" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
 <circle cx="86" cy="4517" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4498" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4522" font-size="16" font-weight="800" fill="#241F1A">デニーズ 竹の塚店</text>
-<text x="118" y="4544" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-10-27)</text>
-<text x="70" y="4606" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4623" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="118" y="4522" font-size="16" font-weight="800" fill="#241F1A">戸越屋 渋谷道玄坂店</text>
+<text x="118" y="4544" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
+<text x="70" y="4606" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="4623" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="4601" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4582" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4606" font-size="16" font-weight="800" fill="#241F1A">21時にアイス 駒沢店</text>
-<text x="118" y="4628" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
-<text x="70" y="4690" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4707" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="118" y="4606" font-size="16" font-weight="800" fill="#241F1A">lattencos</text>
+<text x="118" y="4628" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-05)</text>
+<text x="70" y="4690" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="4707" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="4685" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4666" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4690" font-size="16" font-weight="800" fill="#241F1A">米農園 田町店</text>
-<text x="118" y="4712" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
-<text x="70" y="4774" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4791" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="118" y="4690" font-size="16" font-weight="800" fill="#241F1A">OH BHAIYA！</text>
+<text x="118" y="4712" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-05)</text>
+<text x="70" y="4774" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="4791" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="4769" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4750" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4774" font-size="16" font-weight="800" fill="#241F1A">KAKIGORI CAFE&amp;BAR yelo</text>
-<text x="118" y="4796" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
-<text x="70" y="4858" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2023</text>
-<text x="70" y="4875" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<text x="118" y="4774" font-size="16" font-weight="800" fill="#241F1A">ザ・リビング</text>
+<text x="118" y="4796" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
+<text x="70" y="4858" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="4875" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="4853" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4834" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4858" font-size="16" font-weight="800" fill="#241F1A">戸越屋 渋谷道玄坂店</text>
-<text x="118" y="4880" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2023-11-03)</text>
+<text x="118" y="4858" font-size="16" font-weight="800" fill="#241F1A">ABC FARM</text>
+<text x="118" y="4880" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
 <text x="70" y="4942" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
 <text x="70" y="4959" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
 <circle cx="86" cy="4937" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="4918" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="4942" font-size="16" font-weight="800" fill="#241F1A">lattencos</text>
-<text x="118" y="4964" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-05)</text>
+<text x="118" y="4942" font-size="16" font-weight="800" fill="#241F1A">毛呂山バリアフリー苺の里</text>
+<text x="118" y="4964" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
 <text x="70" y="5026" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5043" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<text x="70" y="5043" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
 <circle cx="86" cy="5021" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
 <rect x="104" y="5002" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5026" font-size="16" font-weight="800" fill="#241F1A">OH BHAIYA！</text>
-<text x="118" y="5048" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-05)</text>
+<text x="118" y="5026" font-size="16" font-weight="800" fill="#241F1A">肉オムライス専門店 肉とたまご</text>
+<text x="118" y="5048" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-02-09)</text>
 <text x="70" y="5110" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5127" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<text x="70" y="5127" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
 <circle cx="86" cy="5105" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5086" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5110" font-size="16" font-weight="800" fill="#241F1A">ザ・リビング</text>
-<text x="118" y="5132" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
-<text x="70" y="5194" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5211" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="5189" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5170" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5194" font-size="16" font-weight="800" fill="#241F1A">ABC FARM</text>
-<text x="118" y="5216" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
-<text x="70" y="5278" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5295" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="5273" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5254" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5278" font-size="16" font-weight="800" fill="#241F1A">毛呂山バリアフリー苺の里</text>
-<text x="118" y="5300" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-01-26)</text>
-<text x="70" y="5362" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5379" font-size="12" text-anchor="end" fill="#6B6258">2月</text>
-<circle cx="86" cy="5357" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5338" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5362" font-size="16" font-weight="800" fill="#241F1A">肉オムライス専門店 肉とたまご</text>
-<text x="118" y="5384" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-02-09)</text>
-<text x="70" y="5446" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5463" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="5441" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5422" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5446" font-size="16" font-weight="800" fill="#241F1A">FLIPPER'S 自由が丘店</text>
-<text x="118" y="5468" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-03-21 </text>
-<text x="118" y="5486" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
-<text x="70" y="5548" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5565" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="5543" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5524" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5548" font-size="16" font-weight="800" fill="#241F1A">道の駅 しょうなん</text>
-<text x="118" y="5570" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-03-22)</text>
-<text x="70" y="5632" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5649" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="5627" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5608" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5632" font-size="16" font-weight="800" fill="#241F1A">チーズ谷</text>
-<text x="118" y="5654" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-04-18 </text>
-<text x="118" y="5672" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
-<text x="70" y="5734" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5751" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="5729" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5710" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5734" font-size="16" font-weight="800" fill="#241F1A">潮風キッチン</text>
-<text x="118" y="5756" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
-<text x="70" y="5818" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5835" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="5813" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5794" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5818" font-size="16" font-weight="800" fill="#241F1A">EVVIVA!</text>
-<text x="118" y="5840" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
-<text x="70" y="5902" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="5919" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="5897" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5878" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5902" font-size="16" font-weight="800" fill="#241F1A">KOSUGI GRILL MARKET</text>
-<text x="118" y="5924" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
-<text x="70" y="5986" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6003" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
-<circle cx="86" cy="5981" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="5962" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="5986" font-size="16" font-weight="800" fill="#241F1A">MM MARKET&amp;CAFE みなとみらい店</text>
-<text x="118" y="6008" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-06-13 </text>
-<text x="118" y="6026" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
-<text x="70" y="6088" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6105" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
-<circle cx="86" cy="6083" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6064" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6088" font-size="16" font-weight="800" fill="#241F1A">胖鴨 まるまるかも</text>
-<text x="118" y="6110" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-06-13 </text>
-<text x="118" y="6128" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
-<text x="70" y="6190" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6207" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
-<circle cx="86" cy="6185" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6166" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6190" font-size="16" font-weight="800" fill="#241F1A">CHABAKKA TEA PARKS チャバッ…</text>
-<text x="118" y="6212" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-09-05 </text>
-<text x="118" y="6230" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
-<text x="70" y="6292" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6309" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="6287" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6268" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6292" font-size="16" font-weight="800" fill="#241F1A">石松餃子 本店</text>
-<text x="118" y="6314" font-size="12.5" fill="#f97316">なにわ男子【2024夏の静岡旅~02~】浜松</text>
-<text x="118" y="6332" font-size="12.5" fill="#f97316">餃子はサイコーなんだけど…🥟</text>
-<text x="70" y="6394" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6411" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="6389" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6370" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6394" font-size="16" font-weight="800" fill="#241F1A">もんじゃと酒膳 かりん</text>
-<text x="118" y="6416" font-size="12.5" fill="#f97316">なにわ男子【大西流星が大倉くんとのんち</text>
-<text x="118" y="6434" font-size="12.5" fill="#f97316">ゃんと打ち上げ】遅刻しちゃった〜💦</text>
-<text x="70" y="6496" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6513" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<rect x="104" y="5086" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5110" font-size="16" font-weight="800" fill="#241F1A">FLIPPER'S 自由が丘店</text>
+<text x="118" y="5132" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-03-21 </text>
+<text x="118" y="5150" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
+<text x="70" y="5212" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5229" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="5207" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5188" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5212" font-size="16" font-weight="800" fill="#241F1A">道の駅 しょうなん</text>
+<text x="118" y="5234" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-03-22)</text>
+<text x="70" y="5296" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5313" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="5291" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5272" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5296" font-size="16" font-weight="800" fill="#241F1A">チーズ谷</text>
+<text x="118" y="5318" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-04-18 </text>
+<text x="118" y="5336" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
+<text x="70" y="5398" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5415" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="5393" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5374" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5398" font-size="16" font-weight="800" fill="#241F1A">潮風キッチン</text>
+<text x="118" y="5420" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
+<text x="70" y="5482" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5499" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="5477" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5458" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5482" font-size="16" font-weight="800" fill="#241F1A">EVVIVA!</text>
+<text x="118" y="5504" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
+<text x="70" y="5566" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5583" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="5561" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5542" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5566" font-size="16" font-weight="800" fill="#241F1A">KOSUGI GRILL MARKET</text>
+<text x="118" y="5588" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2024-05-17)</text>
+<text x="70" y="5650" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5667" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="5645" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5626" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5650" font-size="16" font-weight="800" fill="#241F1A">MM MARKET&amp;CAFE みなとみらい店</text>
+<text x="118" y="5672" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-06-13 </text>
+<text x="118" y="5690" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
+<text x="70" y="5752" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5769" font-size="12" text-anchor="end" fill="#6B6258">6月</text>
+<circle cx="86" cy="5747" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5728" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5752" font-size="16" font-weight="800" fill="#241F1A">胖鴨 まるまるかも</text>
+<text x="118" y="5774" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-06-13 </text>
+<text x="118" y="5792" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
+<text x="70" y="5854" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5871" font-size="12" text-anchor="end" fill="#6B6258">9月</text>
+<circle cx="86" cy="5849" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5830" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5854" font-size="16" font-weight="800" fill="#241F1A">CHABAKKA TEA PARKS チャバッ…</text>
+<text x="118" y="5876" font-size="12.5" fill="#f97316">今行きたい1日乗車券の旅（2024-09-05 </text>
+<text x="118" y="5894" font-size="12.5" fill="#f97316">日本テレビ『ヒルナンデス！』）</text>
+<text x="70" y="5956" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="5973" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="5951" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="5932" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="5956" font-size="16" font-weight="800" fill="#241F1A">石松餃子 本店</text>
+<text x="118" y="5978" font-size="12.5" fill="#f97316">なにわ男子【2024夏の静岡旅~02~】浜松</text>
+<text x="118" y="5996" font-size="12.5" fill="#f97316">餃子はサイコーなんだけど…🥟</text>
+<text x="70" y="6058" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
+<text x="70" y="6075" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="6053" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6034" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6058" font-size="16" font-weight="800" fill="#241F1A">CoCo壱番屋 中目黒山手通店</text>
+<text x="118" y="6080" font-size="12.5" fill="#f97316">なにわ男子【ココイチで被っちゃダメよカ</text>
+<text x="118" y="6098" font-size="12.5" fill="#f97316">レー】絶対に食べなきゃいけない戦いがそ</text>
+<text x="70" y="6160" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6177" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6155" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6136" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6160" font-size="16" font-weight="800" fill="#241F1A">COINS 原宿本店　スリコオニギリ</text>
+<text x="118" y="6182" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
+<text x="70" y="6244" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6261" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6239" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6220" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6244" font-size="16" font-weight="800" fill="#241F1A">麦のトリコ 元住吉店</text>
+<text x="118" y="6266" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
+<text x="70" y="6328" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6345" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6323" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6304" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6328" font-size="16" font-weight="800" fill="#241F1A">魚と野菜と土鍋ごはん吉今</text>
+<text x="118" y="6350" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
+<text x="70" y="6412" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6429" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6407" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6388" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6412" font-size="16" font-weight="800" fill="#241F1A">二八蕎麦 六本木 蕎香</text>
+<text x="118" y="6434" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
+<text x="70" y="6496" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6513" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
 <circle cx="86" cy="6491" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6472" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6496" font-size="16" font-weight="800" fill="#241F1A">駿河の味処 富士屋</text>
-<text x="118" y="6518" font-size="12.5" fill="#f97316">なにわ男子【2024夏の静岡旅~10~】ラス</text>
-<text x="118" y="6536" font-size="12.5" fill="#f97316">トはうなぎ料理で少数派グルメ</text>
-<text x="70" y="6598" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2024</text>
-<text x="70" y="6615" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="6593" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6574" width="302" height="90" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6598" font-size="16" font-weight="800" fill="#241F1A">CoCo壱番屋 中目黒山手通店</text>
-<text x="118" y="6620" font-size="12.5" fill="#f97316">なにわ男子【ココイチで被っちゃダメよカ</text>
-<text x="118" y="6638" font-size="12.5" fill="#f97316">レー】絶対に食べなきゃいけない戦いがそ</text>
-<text x="70" y="6700" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="6717" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="6695" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6676" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6700" font-size="16" font-weight="800" fill="#241F1A">COINS 原宿本店　スリコオニギリ</text>
-<text x="118" y="6722" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
-<text x="70" y="6784" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="6801" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="6779" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6760" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6784" font-size="16" font-weight="800" fill="#241F1A">麦のトリコ 元住吉店</text>
-<text x="118" y="6806" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
-<text x="70" y="6868" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="6885" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="6863" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6844" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6868" font-size="16" font-weight="800" fill="#241F1A">魚と野菜と土鍋ごはん吉今</text>
-<text x="118" y="6890" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
-<text x="70" y="6952" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="6969" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="6947" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="6928" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="6952" font-size="16" font-weight="800" fill="#241F1A">二八蕎麦 六本木 蕎香</text>
-<text x="118" y="6974" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-14)</text>
-<text x="70" y="7036" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7053" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="7031" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7012" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7036" font-size="16" font-weight="800" fill="#241F1A">intellctuary</text>
-<text x="118" y="7058" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
-<text x="70" y="7120" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7137" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="7115" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7096" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7120" font-size="16" font-weight="800" fill="#241F1A">囍鵲亭</text>
-<text x="118" y="7142" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
-<text x="70" y="7204" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7221" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="7199" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7180" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7204" font-size="16" font-weight="800" fill="#241F1A">串カツ田中 神田店</text>
-<text x="118" y="7226" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
-<text x="70" y="7288" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7305" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="7283" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7264" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7288" font-size="16" font-weight="800" fill="#241F1A">AJILLO アヒージョ専門店 神田…</text>
-<text x="118" y="7310" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
-<text x="70" y="7372" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7389" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="7367" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7348" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7372" font-size="16" font-weight="800" fill="#241F1A">nib(ニブ)</text>
-<text x="118" y="7394" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
-<text x="70" y="7456" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7473" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="7451" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7432" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7456" font-size="16" font-weight="800" fill="#241F1A">Glace L’etoile</text>
-<text x="118" y="7478" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
-<text x="70" y="7540" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7557" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="7535" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7516" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7540" font-size="16" font-weight="800" fill="#241F1A">PARK STORE</text>
-<text x="118" y="7562" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
-<text x="70" y="7624" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7641" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
-<circle cx="86" cy="7619" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7600" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7624" font-size="16" font-weight="800" fill="#241F1A">THE COOKIE 594</text>
-<text x="118" y="7646" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
-<text x="70" y="7708" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7725" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="7703" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7684" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7708" font-size="16" font-weight="800" fill="#241F1A">バーミヤン 三鷹駅南口店</text>
-<text x="118" y="7730" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-05-16)</text>
-<text x="70" y="7792" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7809" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
-<circle cx="86" cy="7787" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7768" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7792" font-size="16" font-weight="800" fill="#241F1A">ジョナサン 三鷹井口店</text>
-<text x="118" y="7814" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-05-16)</text>
-<text x="70" y="7876" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7893" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="7871" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7852" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7876" font-size="16" font-weight="800" fill="#241F1A">PIZZERIA IL VICOLO</text>
-<text x="118" y="7898" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
-<text x="70" y="7960" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="7977" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="7955" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="7936" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="7960" font-size="16" font-weight="800" fill="#241F1A">RahmenEddie</text>
-<text x="118" y="7982" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
-<text x="70" y="8044" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8061" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="8039" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8020" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8044" font-size="16" font-weight="800" fill="#241F1A">ツバサコーヒー</text>
-<text x="118" y="8066" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
-<text x="70" y="8128" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8145" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="8123" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8104" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8128" font-size="16" font-weight="800" fill="#241F1A">Surabi 蒸し焼きおやつ 吉祥寺店</text>
-<text x="118" y="8150" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
-<text x="70" y="8212" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8229" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
-<circle cx="86" cy="8207" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8188" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8212" font-size="16" font-weight="800" fill="#241F1A">STREET CHURROS 下北沢店</text>
-<text x="118" y="8234" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
-<text x="70" y="8296" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8313" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8291" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8272" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8296" font-size="16" font-weight="800" fill="#241F1A">すしめん処大京 酒々井店</text>
-<text x="118" y="8318" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
-<text x="70" y="8380" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8397" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8375" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8356" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8380" font-size="16" font-weight="800" fill="#241F1A">珈琲屋OB ログ八潮店</text>
-<text x="118" y="8402" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
-<text x="70" y="8464" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8481" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8459" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8440" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8464" font-size="16" font-weight="800" fill="#241F1A">グランキッチン ナリタヤ 八街店</text>
-<text x="118" y="8486" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
-<text x="70" y="8548" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8565" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8543" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8524" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8548" font-size="16" font-weight="800" fill="#241F1A">CheeseTable 池袋店</text>
-<text x="118" y="8570" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
-<text x="70" y="8632" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8649" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8627" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8608" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8632" font-size="16" font-weight="800" fill="#241F1A">ハンバーグとはんばーぐ</text>
-<text x="118" y="8654" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
-<text x="70" y="8716" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8733" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8711" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8692" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8716" font-size="16" font-weight="800" fill="#241F1A">中華そば 児ノ木ちごのき</text>
-<text x="118" y="8738" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
-<text x="70" y="8800" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8817" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
-<circle cx="86" cy="8795" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8776" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8800" font-size="16" font-weight="800" fill="#241F1A">東京背脂黒醤油ラーメン 伍福軒…</text>
-<text x="118" y="8822" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
-<text x="70" y="8884" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8901" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
-<circle cx="86" cy="8879" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8860" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8884" font-size="16" font-weight="800" fill="#241F1A">和スイーツ専門店 日光もなか</text>
-<text x="118" y="8906" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-11-07)</text>
-<text x="70" y="8968" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="8985" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="8963" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="8944" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="8968" font-size="16" font-weight="800" fill="#241F1A">THE MATCHA TOKYO HARAJUKU</text>
-<text x="118" y="8990" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-12)</text>
-<text x="70" y="9052" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="9069" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="9047" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9028" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9052" font-size="16" font-weight="800" fill="#241F1A">道の駅 伊豆月ヶ瀬</text>
-<text x="118" y="9074" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-19)</text>
-<text x="70" y="9136" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
-<text x="70" y="9153" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
-<circle cx="86" cy="9131" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9112" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9136" font-size="16" font-weight="800" fill="#241F1A">Bakery＆Table Sweets 伊豆</text>
-<text x="118" y="9158" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-19)</text>
-<text x="70" y="9220" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9237" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="9215" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9196" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9220" font-size="16" font-weight="800" fill="#241F1A">Neo Nice Burger表参道</text>
-<text x="118" y="9242" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
-<text x="70" y="9304" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9321" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="9299" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9280" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9304" font-size="16" font-weight="800" fill="#241F1A">松太郎 新宿小滝橋通り店</text>
-<text x="118" y="9326" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
-<text x="70" y="9388" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9405" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="9383" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9364" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9388" font-size="16" font-weight="800" fill="#241F1A">八芳園洋菓子店</text>
-<text x="118" y="9410" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
-<text x="70" y="9472" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9489" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
-<circle cx="86" cy="9467" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9448" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9472" font-size="16" font-weight="800" fill="#241F1A">おひつごはん四六時中 板橋店</text>
-<text x="118" y="9494" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
-<text x="70" y="9556" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9573" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9551" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9532" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9556" font-size="16" font-weight="800" fill="#241F1A">goddog</text>
-<text x="118" y="9578" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
-<text x="70" y="9640" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9657" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9635" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9616" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9640" font-size="16" font-weight="800" fill="#241F1A">getti 中目黒</text>
-<text x="118" y="9662" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
-<text x="70" y="9724" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9741" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9719" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9700" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9724" font-size="16" font-weight="800" fill="#241F1A">YGYGヨギヨギ</text>
-<text x="118" y="9746" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
-<text x="70" y="9808" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9825" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9803" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9784" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9808" font-size="16" font-weight="800" fill="#241F1A">蜂蜜と米</text>
-<text x="118" y="9830" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
-<text x="70" y="9892" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9909" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9887" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9868" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9892" font-size="16" font-weight="800" fill="#241F1A">いちごBonBonBERRY ATAMI HOU…</text>
-<text x="118" y="9914" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
-<text x="70" y="9976" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="9993" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="9971" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="9952" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="9976" font-size="16" font-weight="800" fill="#241F1A">桜たいやき 田舎本舗</text>
-<text x="118" y="9998" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
-<text x="70" y="10060" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="10077" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="10055" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="10036" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="10060" font-size="16" font-weight="800" fill="#241F1A">大二郎の小籠包</text>
-<text x="118" y="10082" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
-<text x="70" y="10144" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="10161" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="10139" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="10120" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="10144" font-size="16" font-weight="800" fill="#241F1A">ウミノメグミ</text>
-<text x="118" y="10166" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
-<text x="70" y="10228" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="10245" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="10223" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="10204" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="10228" font-size="16" font-weight="800" fill="#241F1A">Himono Dining かまなり</text>
-<text x="118" y="10250" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
-<text x="70" y="10312" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
-<text x="70" y="10329" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
-<circle cx="86" cy="10307" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
-<rect x="104" y="10288" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
-<text x="118" y="10312" font-size="16" font-weight="800" fill="#241F1A">熱海おさかな食堂炙り家</text>
-<text x="118" y="10334" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<rect x="104" y="6472" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6496" font-size="16" font-weight="800" fill="#241F1A">intellctuary</text>
+<text x="118" y="6518" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
+<text x="70" y="6580" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6597" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6575" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6556" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6580" font-size="16" font-weight="800" fill="#241F1A">囍鵲亭</text>
+<text x="118" y="6602" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
+<text x="70" y="6664" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6681" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6659" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6640" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6664" font-size="16" font-weight="800" fill="#241F1A">串カツ田中 神田店</text>
+<text x="118" y="6686" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
+<text x="70" y="6748" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6765" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="6743" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6724" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6748" font-size="16" font-weight="800" fill="#241F1A">AJILLO アヒージョ専門店 神田…</text>
+<text x="118" y="6770" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-03-21)</text>
+<text x="70" y="6832" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6849" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="6827" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6808" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6832" font-size="16" font-weight="800" fill="#241F1A">nib(ニブ)</text>
+<text x="118" y="6854" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
+<text x="70" y="6916" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="6933" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="6911" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6892" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="6916" font-size="16" font-weight="800" fill="#241F1A">Glace L’etoile</text>
+<text x="118" y="6938" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
+<text x="70" y="7000" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7017" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="6995" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="6976" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7000" font-size="16" font-weight="800" fill="#241F1A">PARK STORE</text>
+<text x="118" y="7022" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
+<text x="70" y="7084" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7101" font-size="12" text-anchor="end" fill="#6B6258">4月</text>
+<circle cx="86" cy="7079" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7060" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7084" font-size="16" font-weight="800" fill="#241F1A">THE COOKIE 594</text>
+<text x="118" y="7106" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-04-11)</text>
+<text x="70" y="7168" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7185" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="7163" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7144" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7168" font-size="16" font-weight="800" fill="#241F1A">バーミヤン 三鷹駅南口店</text>
+<text x="118" y="7190" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-05-16)</text>
+<text x="70" y="7252" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7269" font-size="12" text-anchor="end" fill="#6B6258">5月</text>
+<circle cx="86" cy="7247" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7228" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7252" font-size="16" font-weight="800" fill="#241F1A">ジョナサン 三鷹井口店</text>
+<text x="118" y="7274" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-05-16)</text>
+<text x="70" y="7336" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7353" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="7331" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7312" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7336" font-size="16" font-weight="800" fill="#241F1A">PIZZERIA IL VICOLO</text>
+<text x="118" y="7358" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
+<text x="70" y="7420" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7437" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="7415" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7396" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7420" font-size="16" font-weight="800" fill="#241F1A">RahmenEddie</text>
+<text x="118" y="7442" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
+<text x="70" y="7504" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7521" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="7499" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7480" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7504" font-size="16" font-weight="800" fill="#241F1A">ツバサコーヒー</text>
+<text x="118" y="7526" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
+<text x="70" y="7588" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7605" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="7583" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7564" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7588" font-size="16" font-weight="800" fill="#241F1A">Surabi 蒸し焼きおやつ 吉祥寺店</text>
+<text x="118" y="7610" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
+<text x="70" y="7672" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7689" font-size="12" text-anchor="end" fill="#6B6258">7月</text>
+<circle cx="86" cy="7667" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7648" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7672" font-size="16" font-weight="800" fill="#241F1A">STREET CHURROS 下北沢店</text>
+<text x="118" y="7694" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-07-11)</text>
+<text x="70" y="7756" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7773" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="7751" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7732" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7756" font-size="16" font-weight="800" fill="#241F1A">すしめん処大京 酒々井店</text>
+<text x="118" y="7778" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
+<text x="70" y="7840" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7857" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="7835" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7816" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7840" font-size="16" font-weight="800" fill="#241F1A">珈琲屋OB ログ八潮店</text>
+<text x="118" y="7862" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
+<text x="70" y="7924" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="7941" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="7919" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7900" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="7924" font-size="16" font-weight="800" fill="#241F1A">グランキッチン ナリタヤ 八街店</text>
+<text x="118" y="7946" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-03)</text>
+<text x="70" y="8008" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8025" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="8003" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="7984" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8008" font-size="16" font-weight="800" fill="#241F1A">CheeseTable 池袋店</text>
+<text x="118" y="8030" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
+<text x="70" y="8092" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8109" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="8087" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8068" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8092" font-size="16" font-weight="800" fill="#241F1A">ハンバーグとはんばーぐ</text>
+<text x="118" y="8114" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
+<text x="70" y="8176" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8193" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="8171" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8152" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8176" font-size="16" font-weight="800" fill="#241F1A">中華そば 児ノ木ちごのき</text>
+<text x="118" y="8198" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
+<text x="70" y="8260" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8277" font-size="12" text-anchor="end" fill="#6B6258">10月</text>
+<circle cx="86" cy="8255" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8236" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8260" font-size="16" font-weight="800" fill="#241F1A">東京背脂黒醤油ラーメン 伍福軒…</text>
+<text x="118" y="8282" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-10-17)</text>
+<text x="70" y="8344" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8361" font-size="12" text-anchor="end" fill="#6B6258">11月</text>
+<circle cx="86" cy="8339" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8320" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8344" font-size="16" font-weight="800" fill="#241F1A">和スイーツ専門店 日光もなか</text>
+<text x="118" y="8366" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-11-07)</text>
+<text x="70" y="8428" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8445" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="8423" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8404" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8428" font-size="16" font-weight="800" fill="#241F1A">THE MATCHA TOKYO HARAJUKU</text>
+<text x="118" y="8450" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-12)</text>
+<text x="70" y="8512" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8529" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="8507" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8488" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8512" font-size="16" font-weight="800" fill="#241F1A">道の駅 伊豆月ヶ瀬</text>
+<text x="118" y="8534" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-19)</text>
+<text x="70" y="8596" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2025</text>
+<text x="70" y="8613" font-size="12" text-anchor="end" fill="#6B6258">12月</text>
+<circle cx="86" cy="8591" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8572" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8596" font-size="16" font-weight="800" fill="#241F1A">Bakery＆Table Sweets 伊豆</text>
+<text x="118" y="8618" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2025-12-19)</text>
+<text x="70" y="8680" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="8697" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="8675" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8656" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8680" font-size="16" font-weight="800" fill="#241F1A">Neo Nice Burger表参道</text>
+<text x="118" y="8702" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
+<text x="70" y="8764" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="8781" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="8759" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8740" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8764" font-size="16" font-weight="800" fill="#241F1A">松太郎 新宿小滝橋通り店</text>
+<text x="118" y="8786" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
+<text x="70" y="8848" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="8865" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="8843" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8824" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8848" font-size="16" font-weight="800" fill="#241F1A">八芳園洋菓子店</text>
+<text x="118" y="8870" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
+<text x="70" y="8932" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="8949" font-size="12" text-anchor="end" fill="#6B6258">1月</text>
+<circle cx="86" cy="8927" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8908" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="8932" font-size="16" font-weight="800" fill="#241F1A">おひつごはん四六時中 板橋店</text>
+<text x="118" y="8954" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-01-23)</text>
+<text x="70" y="9016" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9033" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9011" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="8992" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9016" font-size="16" font-weight="800" fill="#241F1A">goddog</text>
+<text x="118" y="9038" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
+<text x="70" y="9100" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9117" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9095" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9076" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9100" font-size="16" font-weight="800" fill="#241F1A">getti 中目黒</text>
+<text x="118" y="9122" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
+<text x="70" y="9184" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9201" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9179" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9160" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9184" font-size="16" font-weight="800" fill="#241F1A">YGYGヨギヨギ</text>
+<text x="118" y="9206" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
+<text x="70" y="9268" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9285" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9263" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9244" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9268" font-size="16" font-weight="800" fill="#241F1A">蜂蜜と米</text>
+<text x="118" y="9290" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-13)</text>
+<text x="70" y="9352" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9369" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9347" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9328" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9352" font-size="16" font-weight="800" fill="#241F1A">いちごBonBonBERRY ATAMI HOU…</text>
+<text x="118" y="9374" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<text x="70" y="9436" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9453" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9431" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9412" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9436" font-size="16" font-weight="800" fill="#241F1A">桜たいやき 田舎本舗</text>
+<text x="118" y="9458" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<text x="70" y="9520" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9537" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9515" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9496" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9520" font-size="16" font-weight="800" fill="#241F1A">大二郎の小籠包</text>
+<text x="118" y="9542" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<text x="70" y="9604" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9621" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9599" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9580" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9604" font-size="16" font-weight="800" fill="#241F1A">ウミノメグミ</text>
+<text x="118" y="9626" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<text x="70" y="9688" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9705" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9683" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9664" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9688" font-size="16" font-weight="800" fill="#241F1A">Himono Dining かまなり</text>
+<text x="118" y="9710" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
+<text x="70" y="9772" font-size="15" font-weight="800" text-anchor="end" fill="#241F1A">2026</text>
+<text x="70" y="9789" font-size="12" text-anchor="end" fill="#6B6258">3月</text>
+<circle cx="86" cy="9767" r="7" fill="#fff" stroke="#f97316" stroke-width="4"/>
+<rect x="104" y="9748" width="302" height="72" rx="12" fill="#fff" stroke="#E2D9CC"/>
+<text x="118" y="9772" font-size="16" font-weight="800" fill="#241F1A">熱海おさかな食堂炙り家</text>
+<text x="118" y="9794" font-size="12.5" fill="#f97316">なにわ男子のどっち派 (2026-03-27)</text>
 </svg>
