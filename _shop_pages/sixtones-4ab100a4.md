@@ -10,7 +10,9 @@ city: "中央区"
 address: "東京都中央区月島3-13-1 サンライズ濱田ビル2F"
 nearest_station: "月島駅 徒歩4分"
 visited_date: "2024-02-10"
-source_video_title: "【木村さ〜〜ん！】木村拓哉とジェシーの焼肉屋さんはどこ？食べたメニューは何？"
+youtube_id: "ZngPEKWuCOE"
+source_video_title: "【木村さ〜〜ん！】SixTONESジェシー10年越しの夢が叶う！木村拓哉が肉を焼く姿にジェシー感動！✨"
+source_video_url: "https://www.youtube.com/watch?v=ZngPEKWuCOE"
 source_url: "https://kosodate-and.net/kimura-jesse-yakiniku"
 group: "sixtones"
 tabelog_url: "https://tabelog.com/tokyo/A1313/A131302/13022287/"
@@ -23,8 +25,10 @@ lat: 35.6632293
 lng: 139.7822568
 members:
   - "ジェシー"
+  - "木村拓哉"
 groups:
   - "sixtones"
+  - "kimura"
 ordered_items:
   - "お茶"
   - "究極限定薄切りタン（ネギ）"

@@ -7,14 +7,18 @@ name: "cafe nun"
 genre: "shokuji"
 prefecture: "千葉県"
 city: "山武郡九十九里町"
-address: "千葉県山武郡九十九里町"
+address: "千葉県山武郡九十九里町片貝6851"
 visited_date: "2024-05-01"
+youtube_id: "VKAewMagMfQ"
+source_video_title: "【過去回】俺たちが振りまわされている「サーフィンが偉大なんだ」"
+source_video_url: "https://www.youtube.com/watch?v=VKAewMagMfQ"
 source_url: "https://8888-info.hatenablog.com/entry/%E3%82%B0%E3%83%AB%E3%83%A1_342"
 group: "kimura"
 tabelog_url: "https://tabelog.com/chiba/A1207/A120703/12035659/"
-visit_kind: "other"
-lat: 35.5241
-lng: 140.3894
+visit_kind: "youtube"
+program: "木村さ〜〜ん！"
+lat: 35.532982
+lng: 140.449707
 members:
   - "木村拓哉"
 groups:
