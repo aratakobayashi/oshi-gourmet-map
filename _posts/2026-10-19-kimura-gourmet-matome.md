@@ -85,11 +85,11 @@ cover_sub: "「木村さ〜〜ん！」の8軒"
 <h3>【過去回】として公開された回</h3>
 <p>題名に【過去回】とある回です。公開は2024年3〜5月ですが、撮影はそれより前です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kimura-9b17c19d-20240320" %}<span class="wr__k">2024.3</span><b class="wr__name">山田うどん食堂</b><span class="wr__t">【過去回】「木村拓哉 埼玉のソウルフード「山田うどん食堂」を食らう！」／木村拓哉／冷やしピリ辛担々風つけ麺、餃子、かき揚げ丼、Aセット（たぬきうどん・温）、パンチ（もつ煮込み）（埼玉県。どの店舗かは確かめられていません）</span>{% include wr-close.html id="kimura-9b17c19d-20240320" %}</li>
-  <li class="wr">{% include wr-open.html id="kimura-573599de-20240401" %}<span class="wr__k">2024.4</span><b class="wr__name">生蕎麦朝日屋</b><span class="wr__t">【過去回】「木村拓哉と森山直太朗がぶら〜り散歩！行きつけのお店でお昼ご飯と雑貨屋めぐり！」／木村拓哉、森山直太朗／カレー南蛮とご飯、カレー丼、生姜焼き定食（渋谷区 西原）</span>{% include wr-close.html id="kimura-573599de-20240401" %}</li>
+  <li class="wr">{% include wr-open.html id="kimura-9b17c19d-20240320" %}<span class="wr__k">2024.3</span><b class="wr__name">山田うどん食堂</b><span class="wr__t">【過去回】「木村拓哉 埼玉のソウルフード「山田うどん食堂」を食らう！」／木村拓哉／冷やしピリ辛担々風つけ麺、餃子、かき揚げ丼、Aセット（たぬきうどん・温）、パンチ（もつ煮込み）（埼玉県。どの店舗かは確かめられていません）</span><span class="wr__more"><span class="wr__oi">頼んだ物：餃子(6個)</span></span>{% include wr-close.html id="kimura-9b17c19d-20240320" %}</li>
+  <li class="wr">{% include wr-open.html id="kimura-573599de-20240401" %}<span class="wr__k">2024.4</span><b class="wr__name">生蕎麦朝日屋</b><span class="wr__t">【過去回】「木村拓哉と森山直太朗がぶら〜り散歩！行きつけのお店でお昼ご飯と雑貨屋めぐり！」／木村拓哉、森山直太朗／カレー南蛮とご飯、カレー丼、生姜焼き定食（渋谷区 西原）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カレー南蛮＋ご飯</span></span>{% include wr-close.html id="kimura-573599de-20240401" %}</li>
   <li class="wr">{% include wr-open.html id="kimura-trufflebakery-20240417" %}<span class="wr__k">2024.4</span><b class="wr__name">TruffleBAKERY三軒茶屋店</b><span class="wr__t">【過去回】「「トリュフパン」に大大大絶賛！木村拓哉とラブサイケデリコが行く三軒茶屋の人気店めぐり」／木村拓哉、LOVE PSYCHEDELICO／白トリュフの塩パン、黒トリュフの卵サンド、明太子フランス、ゴルゴンゾーラとはちみつ、生ハム＆ブリーチーズ、クリームパン（世田谷区 太子堂）</span>{% include wr-close.html id="kimura-trufflebakery-20240417" %}</li>
   <li class="wr">{% include wr-open.html id="kimura-ab0388de-20240422" %}<span class="wr__k">2024.4</span><b class="wr__name">デモデダイナー</b><span class="wr__t">【過去回】「福生ベースサイドストリート商店街をぶらり歩き」／木村拓哉／福生2ポンドビッグタワーバーガー、デモデソーダ（福生市 熊川）</span>{% include wr-close.html id="kimura-ab0388de-20240422" %}</li>
-  <li class="wr">{% include wr-open.html id="kimura-cafe_nun-20240501" %}<span class="wr__k">2024.5</span><b class="wr__name">cafe nun</b><span class="wr__t">【過去回】「俺たちが振りまわされている「サーフィンが偉大なんだ」」／木村拓哉／おおまさり（ゆで落花生）、生ハムサラダ、トマトソースのパスタ、ガーリックライス牛肉添えなど（千葉県九十九里町 片貝）</span>{% include wr-close.html id="kimura-cafe_nun-20240501" %}</li>
+  <li class="wr">{% include wr-open.html id="kimura-cafe_nun-20240501" %}<span class="wr__k">2024.5</span><b class="wr__name">cafe nun</b><span class="wr__t">【過去回】「俺たちが振りまわされている「サーフィンが偉大なんだ」」／木村拓哉／おおまさり（ゆで落花生）、生ハムサラダ、トマトソースのパスタ、ガーリックライス牛肉添えなど（千葉県九十九里町 片貝）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ドリンク(商品名不明)・生ビール・フロート系ドリンク</span></span>{% include wr-close.html id="kimura-cafe_nun-20240501" %}</li>
 </ul>
 
 <p>同じ三軒茶屋の回に出てくるバインミーのお店（EVERYDAY MEALS）は、動画の説明文で閉店と案内されているため、この記事には載せていません。</p>
@@ -97,8 +97,8 @@ cover_sub: "「木村さ〜〜ん！」の8軒"
 <h3>そのほかの回</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sixtones-4ab100a4-" %}<span class="wr__k">2024.2</span><b class="wr__name">焼肉酒家 傳々</b><span class="wr__t">『木村さ〜〜ん！』／木村拓哉、ジェシー（SixTONES）／究極限定薄切りタン（ネギ）、究極ハラミ、究極ロース、牛レバー、シマチョウ、ごまサラダ、キムチ、ごはん、傳々特性すじカレー（中央区 月島）</span>{% include wr-close.html id="sixtones-4ab100a4-" %}</li>
-  <li class="wr">{% include wr-open.html id="kimura-1937ff35-20240224" %}<span class="wr__k">2024.2</span><b class="wr__name">粋廉</b><span class="wr__t">「木村拓哉の休みに付いていったら全員フカヒレ食べれちゃいました！」／木村拓哉／フカヒレあんかけ拉麺（京都市中京区 西ノ京職司町。店名は中国饗膳 粋廉）</span>{% include wr-close.html id="kimura-1937ff35-20240224" %}</li>
-  <li class="wr">{% include wr-open.html id="kimura-bondi_cafe-20240406" %}<span class="wr__k">2024.4</span><b class="wr__name">BONDI CAFE</b><span class="wr__t">「木村拓哉&amp;及川光博 昼下がりのゆったりカフェトーク」／木村拓哉、及川光博／白ワイン（グラス）（港区 南麻布）</span>{% include wr-close.html id="kimura-bondi_cafe-20240406" %}</li>
+  <li class="wr">{% include wr-open.html id="kimura-1937ff35-20240224" %}<span class="wr__k">2024.2</span><b class="wr__name">粋廉</b><span class="wr__t">「木村拓哉の休みに付いていったら全員フカヒレ食べれちゃいました！」／木村拓哉／フカヒレあんかけ拉麺（京都市中京区 西ノ京職司町。店名は中国饗膳 粋廉）</span><span class="wr__more"><span class="wr__oi">頼んだ物：旅奴190g</span></span>{% include wr-close.html id="kimura-1937ff35-20240224" %}</li>
+  <li class="wr">{% include wr-open.html id="kimura-bondi_cafe-20240406" %}<span class="wr__k">2024.4</span><b class="wr__name">BONDI CAFE</b><span class="wr__t">「木村拓哉&amp;及川光博 昼下がりのゆったりカフェトーク」／木村拓哉、及川光博／白ワイン（グラス）（港区 南麻布）</span><span class="wr__more"><span class="wr__oi">頼んだ物：スッキリ系の白ワイン(グラス)</span></span>{% include wr-close.html id="kimura-bondi_cafe-20240406" %}</li>
 </ul>
 
 <h2>木村拓哉の聖地 年表</h2>

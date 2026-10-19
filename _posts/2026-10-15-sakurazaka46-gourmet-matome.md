@@ -140,16 +140,16 @@ stay_inline: true
 <p>三軒茶屋の回は、動画の説明文に店名がないため、回のタイトルと出たメンバーだけを書いています。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="sakurazaka46-12da6055-20230809" %}<span class="wr__k">2023.8</span><b class="wr__name">Curry Spice Gelateria KALPASI</b><span class="wr__t">【Vlog】下北沢人気No.1のカレー＆古着屋さんで〇万円ガチ購入【感激】／土生瑞穂（世田谷区 北沢）</span>{% include wr-close.html id="sakurazaka46-12da6055-20230809" %}</li>
-  <li class="wr">{% include wr-open.html id="sakurazaka46-69f9635b-20250219" %}<span class="wr__k">2025.2</span><b class="wr__name">cafe&amp;gallery LUPOPO</b><span class="wr__t">【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋／石森璃花・中嶋優月</span>{% include wr-close.html id="sakurazaka46-69f9635b-20250219" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-69f9635b-20250219" %}<span class="wr__k">2025.2</span><b class="wr__name">cafe&amp;gallery LUPOPO</b><span class="wr__t">【お姉さんズ散歩】石森璃花・中嶋優月のぶらり三軒茶屋／石森璃花・中嶋優月</span><span class="wr__more"><span class="wr__oi">頼んだ物：ケーキ</span></span>{% include wr-close.html id="sakurazaka46-69f9635b-20250219" %}</li>
   <li class="wr">{% include wr-open.html id="sakurazaka46-f0e69c0c-20250409" %}<span class="wr__k">2025.4</span><b class="wr__name">赤い壺</b><span class="wr__t">【激辛】遠藤理子と山下瞳月が激辛料理に賞状を賭けて挑戦！【激辛チャレンジ】／遠藤理子・山下瞳月（港区 北青山）</span>{% include wr-close.html id="sakurazaka46-f0e69c0c-20250409" %}</li>
 </ul>
 
 <h3>旅のVlog：名古屋・札幌・柳川・香川・広島</h3>
 <p>どの回も動画の説明文に店名がないため、回のタイトルと出たメンバーだけを書いています。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="sakurazaka46-1049962f-20250516" %}<span class="wr__k">2025.5</span><b class="wr__name">あつた蓬莱軒 松坂屋店</b><span class="wr__t">【サッカー観戦】いとこの勝利を願い名古屋グランパスの必勝祈願！ほのりこ名古屋Vlog！／田村保乃・遠藤理子</span>{% include wr-close.html id="sakurazaka46-1049962f-20250516" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-1049962f-20250516" %}<span class="wr__k">2025.5</span><b class="wr__name">あつた蓬莱軒 松坂屋店</b><span class="wr__t">【サッカー観戦】いとこの勝利を願い名古屋グランパスの必勝祈願！ほのりこ名古屋Vlog！／田村保乃・遠藤理子</span><span class="wr__more"><span class="wr__oi">頼んだ物：ひつまぶし</span></span>{% include wr-close.html id="sakurazaka46-1049962f-20250516" %}</li>
   <li class="wr">{% include wr-open.html id="sakurazaka46-a464129e-20251211" %}<span class="wr__k">2025.12</span><b class="wr__name">回転寿司 根室花まる JRタワーステラプレイス店</b><span class="wr__t">【札幌グルメ】井上との思い出に…いのまちゅでアポなしグルメ旅！【北海道】／井上梨名・武元唯衣・松田里奈</span>{% include wr-close.html id="sakurazaka46-a464129e-20251211" %}</li>
-  <li class="wr">{% include wr-open.html id="sakurazaka46-3a7fe23d-20260324" %}<span class="wr__k">2026.3</span><b class="wr__name">うなぎ料理 若松屋</b><span class="wr__t">【第2弾】ゆーづの西鉄ひとり旅！柳川のうなぎを求めて！【福岡】／中嶋優月</span>{% include wr-close.html id="sakurazaka46-3a7fe23d-20260324" %}</li>
+  <li class="wr">{% include wr-open.html id="sakurazaka46-3a7fe23d-20260324" %}<span class="wr__k">2026.3</span><b class="wr__name">うなぎ料理 若松屋</b><span class="wr__t">【第2弾】ゆーづの西鉄ひとり旅！柳川のうなぎを求めて！【福岡】／中嶋優月</span><span class="wr__more"><span class="wr__oi">頼んだ物：うなぎのせいろ蒸し</span></span>{% include wr-close.html id="sakurazaka46-3a7fe23d-20260324" %}</li>
   <li class="wr">{% include wr-open.html id="sakurazaka46-2713b811-20260616" %}<span class="wr__k">2026.6</span><b class="wr__name">日の出製麺所</b><span class="wr__t">【グルメ】ちょっとお先に香川を観光＆会場視察！「マチ★アソビ Vol.30」に登壇！【カワウソと握手】／松田里奈・的野美青</span>{% include wr-close.html id="sakurazaka46-2713b811-20260616" %}</li>
   <li class="wr">{% include wr-open.html id="sakurazaka46-1c293b31-20260914" %}<span class="wr__k">2026.9</span><b class="wr__name">ラーメン我馬 五日市店</b><span class="wr__t">【思い出旅】中国地方コンビでまったり広島旅！本当にずっと食べてます…！／谷口愛季・向井純葉</span>{% include wr-close.html id="sakurazaka46-1c293b31-20260914" %}</li>
 </ul>

@@ -137,7 +137,7 @@ stay_inline: true
   <li class="wr">{% include wr-open.html id="2e7fec09" %}<span class="wr__k">2023.8</span><b class="wr__name">小川藤</b><span class="wr__t">小江戸川越散策ツアー／2人と市村正親・鹿賀丈史／うな重（埼玉県川越市）</span>{% include wr-close.html id="2e7fec09" %}</li>
   <li class="wr">{% include wr-open.html id="4f3df703" %}<span class="wr__k">2023.8</span><b class="wr__name">菓匠右門 時の鐘店</b><span class="wr__t">小江戸川越散策ツアー／2人と市村正親・鹿賀丈史／紫芋のソフトクリーム（埼玉県川越市 時の鐘のそば）</span>{% include wr-close.html id="4f3df703" %}</li>
   <li class="wr">{% include wr-open.html id="kinkikids-tsukiji_fish_burger-" %}<span class="wr__k">2023.12</span><b class="wr__name">築地 魚政 Tsukiji Fish Burger MASA</b><span class="wr__t">築地グルメ企画／2人とももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）／フィッシュバーガーのお店（中央区 築地場外）</span>{% include wr-close.html id="kinkikids-tsukiji_fish_burger-" %}</li>
-  <li class="wr">{% include wr-open.html id="kinkikids-33db77e2-" %}<span class="wr__k">2023.12</span><b class="wr__name">東印度カレー商会 築地場外店</b><span class="wr__t">築地グルメ企画／2人とももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）／上上豚カレー（中央区 築地場外）</span>{% include wr-close.html id="kinkikids-33db77e2-" %}</li>
+  <li class="wr">{% include wr-open.html id="kinkikids-33db77e2-" %}<span class="wr__k">2023.12</span><b class="wr__name">東印度カレー商会 築地場外店</b><span class="wr__t">築地グルメ企画／2人とももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）／上上豚カレー（中央区 築地場外）</span><span class="wr__more"><span class="wr__oi">頼んだ物：上上豚カレー(中辛)</span></span>{% include wr-close.html id="kinkikids-33db77e2-" %}</li>
   <li class="wr">{% include wr-open.html id="kinkikids-tokyo_3-" %}<span class="wr__k">2023.12</span><b class="wr__name">TOKYO焼肉ごぉ 3号店</b><span class="wr__t">「心残りグルメ」企画／2人とももいろクローバーZ（佐々木彩夏・玉井詩織・高城れに）／ミルフィーユユッケ、ごぉ赤壁（台東区 上野）</span>{% include wr-close.html id="kinkikids-tokyo_3-" %}</li>
   <li class="wr">{% include wr-open.html id="kinkikids-741826ef-" %}<span class="wr__k">2024.1</span><b class="wr__name">魚力 奥渋谷店</b><span class="wr__t">奥渋谷ロケ／2人と柳沢慎吾／さば味噌煮（渋谷区 奥渋谷）</span>{% include wr-close.html id="kinkikids-741826ef-" %}</li>
   <li class="wr">{% include wr-open.html id="c0531869" %}<span class="wr__k">2024.1</span><b class="wr__name">肉の栄屋</b><span class="wr__t">奥渋谷ロケ／2人と柳沢慎吾／揚げたての惣菜を味わった精肉店（渋谷区 神山町）</span>{% include wr-close.html id="c0531869" %}</li>
@@ -164,7 +164,7 @@ stay_inline: true
 <p>堂本剛がゲスト出演した『人生最高レストラン』（2023年9月9日放送）で、<strong>スタジオのトークで紹介したお店</strong>です。番組でお店に行ったのではありません。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="65f7d7eb" %}<span class="wr__k">2023.9</span><b class="wr__name">焼肉きみや</b><span class="wr__t">堂本剛が紹介した焼肉店。シャトーブリアンを挙げています（奈良県生駒市）</span>{% include wr-close.html id="65f7d7eb" %}</li>
-  <li class="wr">{% include wr-open.html id="1eaca426" %}<span class="wr__k">2023.9</span><b class="wr__name">御蕎麦 玄</b><span class="wr__t">堂本剛が紹介したそば店（奈良市）</span>{% include wr-close.html id="1eaca426" %}</li>
+  <li class="wr">{% include wr-open.html id="1eaca426" %}<span class="wr__k">2023.9</span><b class="wr__name">御蕎麦 玄</b><span class="wr__t">堂本剛が紹介したそば店（奈良市）</span><span class="wr__more"><span class="wr__oi">頼んだ物：せいろ蕎麦</span></span>{% include wr-close.html id="1eaca426" %}</li>
   <li class="wr">{% include wr-open.html id="0fdb6efd" %}<span class="wr__k">2023.9</span><b class="wr__name">APOCパンケーキ</b><span class="wr__t">堂本剛が紹介したパンケーキの専門店（港区 南青山）</span>{% include wr-close.html id="0fdb6efd" %}</li>
 </ul>
 

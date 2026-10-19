@@ -103,7 +103,7 @@ stay_inline: true
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="ginga-46244fe9-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">いつものところ十刻</b><span class="wr__t">【中丸のグルメ】高知といえば...カツオ！（高知市）</span>{% include wr-close.html id="ginga-46244fe9-202402" %}</li>
   <li class="wr">{% include wr-open.html id="ginga-8f622a15-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">活魚料理 小安丸</b><span class="wr__t">【中丸のグルメ】衝撃、長崎でクジラのアレを食べる。（長崎県西海市）</span>{% include wr-close.html id="ginga-8f622a15-202403" %}</li>
-  <li class="wr">{% include wr-open.html id="ginga-9f375cca-202405" %}<span class="wr__k">2024.5</span><b class="wr__name">和懐 おお田</b><span class="wr__t">【中丸のグルメ】鹿児島と言ったら、これっきゃない。／ホタルイカの酢味噌がけ、さつま揚げ、お刺身3点盛り、赤鶏の炙り鳥刺し（鹿児島県枕崎市）</span>{% include wr-close.html id="ginga-9f375cca-202405" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-9f375cca-202405" %}<span class="wr__k">2024.5</span><b class="wr__name">和懐 おお田</b><span class="wr__t">【中丸のグルメ】鹿児島と言ったら、これっきゃない。／ホタルイカの酢味噌がけ、さつま揚げ、お刺身3点盛り、赤鶏の炙り鳥刺し（鹿児島県枕崎市）</span><span class="wr__more"><span class="wr__oi">頼んだ物：コーラ</span></span>{% include wr-close.html id="ginga-9f375cca-202405" %}</li>
 </ul>
 
 <h3>【中丸のグルメ】東京の回：豊洲・新大久保</h3>
@@ -118,7 +118,7 @@ stay_inline: true
 <p>「猪狩蒼弥とメシ」は2024年3月の公開で、説明文によると撮影は2024年1月です。</p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="ginga-44b85f76-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">京都 瓢嘻(ひょうき)</b><span class="wr__t">中丸雄一【猪狩蒼弥とメシ】溜めに溜めた新年に撮った動画です。／猪狩蒼弥と／【銘柄豚】出汁しゃぶ会席「京 きょう」（港区 新橋）</span>{% include wr-close.html id="ginga-44b85f76-202403" %}</li>
-  <li class="wr">{% include wr-open.html id="ginga-cb38ce4c-202406" %}<span class="wr__k">2024.6</span><b class="wr__name">和食いぶり別邸 新橋店</b><span class="wr__t">HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった／猪狩蒼弥と／金目鯛と仙台牛の銘々会席（港区 新橋）</span>{% include wr-close.html id="ginga-cb38ce4c-202406" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-cb38ce4c-202406" %}<span class="wr__k">2024.6</span><b class="wr__name">和食いぶり別邸 新橋店</b><span class="wr__t">HiHi Jetsの猪狩とツアーお疲れ様会をしたら旅行するハメになった／猪狩蒼弥と／金目鯛と仙台牛の銘々会席（港区 新橋）</span><span class="wr__more"><span class="wr__oi">頼んだ物：金目鯛と仙台牛の銘々会席（個人盛り・全9品）</span></span>{% include wr-close.html id="ginga-cb38ce4c-202406" %}</li>
 </ul>
 
 <p>「京都 瓢嘻」は名前に京都と付きますが、お店は東京・新橋にあります。</p>
@@ -126,10 +126,10 @@ stay_inline: true
 <h2 id="src2">{% include chico.html kind="yt" %}公式YouTubeの対談の回のお店</h2>
 <p>ゲストとの対談の回と結びついているお店です。対談をお店で撮ったのか、お店で食事をしたのかは確かめられていません。店名の上の日付は動画の公開年月です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="ginga-810aafd0-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">ファムファム</b><span class="wr__t">中丸雄一×大倉忠義【大倉プロデューサーのお仕事とは？】対談前編／大倉忠義（SUPER EIGHT）（渋谷区 代官山）</span>{% include wr-close.html id="ginga-810aafd0-202402" %}</li>
-  <li class="wr">{% include wr-open.html id="ginga-gold_rush-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">GOLD RUSH(ゴールドラッシュ)</b><span class="wr__t">ジェシー＆髙地優吾×中丸雄一【実はシャイボーイ...ジェシー】KAT-TUNとSixTONESの似てるとこ違うとこ／ジェシー・髙地優吾（SixTONES）（新宿区 歌舞伎町）</span>{% include wr-close.html id="ginga-gold_rush-202402" %}</li>
-  <li class="wr">{% include wr-open.html id="ginga-f50e5bd3-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">セイロン・イン</b><span class="wr__t">北村匠海×中丸雄一【初の他事務所対談】プライベートなことまで聞きまくりました！／北村匠海（目黒区 中目黒）</span>{% include wr-close.html id="ginga-f50e5bd3-202403" %}</li>
-  <li class="wr">{% include wr-open.html id="ginga-korin-20250413" %}<span class="wr__k">2024.4</span><b class="wr__name">KORIN</b><span class="wr__t">山田涼介×中丸雄一【グループとしての立ち位置】よにのとは違う...!? 本当の2人の関係!!／山田涼介（Hey! Say! JUMP）（中央区 銀座）</span>{% include wr-close.html id="ginga-korin-20250413" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-810aafd0-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">ファムファム</b><span class="wr__t">中丸雄一×大倉忠義【大倉プロデューサーのお仕事とは？】対談前編／大倉忠義（SUPER EIGHT）（渋谷区 代官山）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ココナッツチキンカレー・コーラ・ハイボール</span></span>{% include wr-close.html id="ginga-810aafd0-202402" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-gold_rush-202402" %}<span class="wr__k">2024.2</span><b class="wr__name">GOLD RUSH(ゴールドラッシュ)</b><span class="wr__t">ジェシー＆髙地優吾×中丸雄一【実はシャイボーイ...ジェシー】KAT-TUNとSixTONESの似てるとこ違うとこ／ジェシー・髙地優吾（SixTONES）（新宿区 歌舞伎町）</span><span class="wr__more"><span class="wr__oi">頼んだ物：トリプルチーズハンバーグ・アップル？・目玉焼きトッピング（ジェシー）</span></span>{% include wr-close.html id="ginga-gold_rush-202402" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-f50e5bd3-202403" %}<span class="wr__k">2024.3</span><b class="wr__name">セイロン・イン</b><span class="wr__t">北村匠海×中丸雄一【初の他事務所対談】プライベートなことまで聞きまくりました！／北村匠海（目黒区 中目黒）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アイスコーヒー？</span></span>{% include wr-close.html id="ginga-f50e5bd3-202403" %}</li>
+  <li class="wr">{% include wr-open.html id="ginga-korin-20250413" %}<span class="wr__k">2024.4</span><b class="wr__name">KORIN</b><span class="wr__t">山田涼介×中丸雄一【グループとしての立ち位置】よにのとは違う...!? 本当の2人の関係!!／山田涼介（Hey! Say! JUMP）（中央区 銀座）</span><span class="wr__more"><span class="wr__oi">頼んだ物：レモングラスほうじ茶</span></span>{% include wr-close.html id="ginga-korin-20250413" %}</li>
 </ul>
 
 <h2>中丸銀河ちゃんねるの聖地 年表</h2>

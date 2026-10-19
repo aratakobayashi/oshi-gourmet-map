@@ -23,6 +23,7 @@ echo ""
 echo "=== ③ 一覧・近くの店・検索用データ生成（_data/*.json と data/explore.json） ==="
 python scripts/build_site_data.py
 python scripts/refresh_group_titles.py
+python scripts/enrich_rows.py >/dev/null  # まとめ記事のお店の行に、頼んだ物・座った席を書き足す（何度実行しても同じ）
 
 echo ""
 echo "=== ③' 特集記事の店舗IDの確認（shops.json にないIDがあれば表示。直すときは --fix） ==="

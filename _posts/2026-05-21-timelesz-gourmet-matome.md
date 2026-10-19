@@ -249,7 +249,7 @@ stay_inline: true
 <h3>『かまいガチ』（テレビ朝日）：中目黒と駒沢</h3>
 <p>2025年6月15日の1時間SP「ちょうど5kg太るねん」で、橋本将生・篠塚大輝が濱家隆一と訪れたお店です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="timelesz-laolee-20250615" %}<span class="wr__k">2025.6</span><b class="wr__name">台湾餃子LAOLEE 中目黒店</b><span class="wr__t">1時間SP「ちょうど5kg太るねん」／橋本将生・篠塚大輝／元祖台湾肉汁水餃子（目黒区 上目黒）</span>{% include wr-close.html id="timelesz-laolee-20250615" %}</li>
+  <li class="wr">{% include wr-open.html id="timelesz-laolee-20250615" %}<span class="wr__k">2025.6</span><b class="wr__name">台湾餃子LAOLEE 中目黒店</b><span class="wr__t">1時間SP「ちょうど5kg太るねん」／橋本将生・篠塚大輝／元祖台湾肉汁水餃子（目黒区 上目黒）</span><span class="wr__more"><span class="wr__seat">席：テーブル席</span></span>{% include wr-close.html id="timelesz-laolee-20250615" %}</li>
   <li class="wr">{% include wr-open.html id="timelesz-skookum_hotdog_diner-20250615" %}<span class="wr__k">2025.6</span><b class="wr__name">SKOOKUM HOTDOG DINER</b><span class="wr__t">1時間SP「ちょうど5kg太るねん」／橋本将生・篠塚大輝／チリドッグ（目黒区 青葉台）</span>{% include wr-close.html id="timelesz-skookum_hotdog_diner-20250615" %}</li>
   <li class="wr">{% include wr-open.html id="timelesz-01b6e1f7-20250615" %}<span class="wr__k">2025.6</span><b class="wr__name">焼肉きんぐ 駒沢公園店</b><span class="wr__t">1時間SP「ちょうど5kg太るねん」／橋本将生・篠塚大輝が大食いに挑戦／壺漬けドラゴンハラミ（世田谷区 駒沢）</span>{% include wr-close.html id="timelesz-01b6e1f7-20250615" %}</li>
 </ul>
@@ -264,10 +264,10 @@ stay_inline: true
 <h2 id="src5">{% include chico.html kind="other" %}CM・企画の撮影とSNSに出てきたお店</h2>
 <p>テレビCMや企画の撮影に使われたお店と、公式Instagram・メンバーのInstagramに出てきたお店です。撮影のお店は、食事をしたかどうかまでは分かっていません。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="timelesz-cafe_marly-20250425" %}<span class="wr__k">2025.4</span><b class="wr__name">Café Marly</b><span class="wr__t">渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MARNI」の撮影に使われたカフェ／菊池風磨・橋本将生（渋谷PARCO 1階）</span>{% include wr-close.html id="timelesz-cafe_marly-20250425" %}</li>
+  <li class="wr">{% include wr-open.html id="timelesz-cafe_marly-20250425" %}<span class="wr__k">2025.4</span><b class="wr__name">Café Marly</b><span class="wr__t">渋谷PARCO「菊池風磨＆橋本将生（timelesz）×MARNI」の撮影に使われたカフェ／菊池風磨・橋本将生（渋谷PARCO 1階）</span><span class="wr__more"><span class="wr__seat">席：向かって左の窓手前の席・店内奥の鏡張りの席（撮影場所）</span></span>{% include wr-close.html id="timelesz-cafe_marly-20250425" %}</li>
   <li class="wr">{% include wr-open.html id="timelesz-ee55e45a-20240301" %}<span class="wr__k">2026.2</span><b class="wr__name">珈琲亭 七つ森</b><span class="wr__t">Google Pixel 10 テレビCM「AIで作る4コマ漫画」篇／猪俣周杜（当時）が出演。都内の喫茶店での撮影で、そのお店として登録（店名は確認中）（杉並区 高円寺）</span>{% include wr-close.html id="timelesz-ee55e45a-20240301" %}</li>
   <li class="wr">{% include wr-open.html id="timelesz-f73889d0-20250823" %}<span class="wr__k">2024.8</span><b class="wr__name">焼肉虎龍 浪漫亭</b><span class="wr__t">timelesz 公式Instagram／佐藤勝利・菊池風磨・松島聡（当時は3人）がマリウス葉と（大阪市北区 堂島）</span>{% include wr-close.html id="timelesz-f73889d0-20250823" %}</li>
-  <li class="wr">{% include wr-open.html id="timelesz-usotsuki_yogurt-" %}<span class="wr__k">2025.9</span><b class="wr__name">USOTSUKI YOGURT</b><span class="wr__t">松島聡のInstagram投稿／仕事の合間にスタッフと（港区 西麻布）</span>{% include wr-close.html id="timelesz-usotsuki_yogurt-" %}</li>
+  <li class="wr">{% include wr-open.html id="timelesz-usotsuki_yogurt-" %}<span class="wr__k">2025.9</span><b class="wr__name">USOTSUKI YOGURT</b><span class="wr__t">松島聡のInstagram投稿／仕事の合間にスタッフと（港区 西麻布）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ベリーミックスヨーグルト・アイスカフェラテ</span></span>{% include wr-close.html id="timelesz-usotsuki_yogurt-" %}</li>
   <li class="wr">{% include wr-open.html id="timelesz-no_4-20260320" %}<span class="wr__k">2026.3</span><b class="wr__name">No.4</b><span class="wr__t">松島聡のInstagram投稿／仕事の合間にスタッフと／パン（千代田区 四番町）</span>{% include wr-close.html id="timelesz-no_4-20260320" %}</li>
 </ul>
 

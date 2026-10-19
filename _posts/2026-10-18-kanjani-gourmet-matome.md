@@ -123,9 +123,9 @@ stay_inline: true
 <h3>『関ジャニ∞のジャニ勉』「エイトブンノニ」</h3>
 <p>メンバーが2人ずつ大阪の街を歩くロケです。中崎町の3軒は第1回（2015年）の放送です。鉄板呑み屋ブッチャーとコロンボは、ファンブログでこの企画のロケ地とされているお店で、放送日はまだ確かめられていません。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="b51f102c" %}<span class="wr__k">2015</span><b class="wr__name">濱鮨</b><span class="wr__t">エイトブンノニ 第1回 中崎町ロケ／丸山隆平・錦戸亮／だし巻き玉子サンド・ミニ丼（大阪市北区 中崎西）</span>{% include wr-close.html id="b51f102c" %}</li>
+  <li class="wr">{% include wr-open.html id="b51f102c" %}<span class="wr__k">2015</span><b class="wr__name">濱鮨</b><span class="wr__t">エイトブンノニ 第1回 中崎町ロケ／丸山隆平・錦戸亮／だし巻き玉子サンド・ミニ丼（大阪市北区 中崎西）</span><span class="wr__more"><span class="wr__oi">頼んだ物：だし巻き卵サンド</span></span>{% include wr-close.html id="b51f102c" %}</li>
   <li class="wr">{% include wr-open.html id="3607fb24" %}<span class="wr__k">2015</span><b class="wr__name">ラ・グランダ・ファミリオ</b><span class="wr__t">エイトブンノニ 第1回 中崎町ロケ／丸山隆平・錦戸亮／立ち寄った自家製グラノーラの店（大阪市北区 中崎西）</span>{% include wr-close.html id="3607fb24" %}</li>
-  <li class="wr">{% include wr-open.html id="f3c0d1e3" %}<span class="wr__k">2015</span><b class="wr__name">レストラン・カフェ クイーン</b><span class="wr__t">エイトブンノニ 第1回 中崎町ロケ／丸山隆平・錦戸亮／ハヤシオムライス（大阪市北区 中崎）</span>{% include wr-close.html id="f3c0d1e3" %}</li>
+  <li class="wr">{% include wr-open.html id="f3c0d1e3" %}<span class="wr__k">2015</span><b class="wr__name">レストラン・カフェ クイーン</b><span class="wr__t">エイトブンノニ 第1回 中崎町ロケ／丸山隆平・錦戸亮／ハヤシオムライス（大阪市北区 中崎）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アイスコーヒー</span></span>{% include wr-close.html id="f3c0d1e3" %}</li>
   <li class="wr">{% include wr-open.html id="kanjani-b4fb523c-" %}<span class="wr__k">—</span><b class="wr__name">鉄板呑み屋ブッチャー</b><span class="wr__t">エイトブンノニ 堀江ロケ／ファンブログによると渋谷すばる・安田章大がつけカレー焼きそばを食べたお店（大阪）</span>{% include wr-close.html id="kanjani-b4fb523c-" %}</li>
   <li class="wr">{% include wr-open.html id="kanjani-891b9070-" %}<span class="wr__k">—</span><b class="wr__name">コロンボ</b><span class="wr__t">エイトブンノニ／ファンブログで村上信五・大倉忠義の回のロケ地とされる喫茶店（大阪 天神橋筋商店街）</span>{% include wr-close.html id="kanjani-891b9070-" %}</li>
 </ul>
@@ -180,7 +180,7 @@ stay_inline: true
 <h2 id="src3">{% include chico.html kind="drama" %}メンバーが出演したドラマのロケ地</h2>
 <p>メンバーが出演したドラマの撮影に使われたお店です。メンバーが食べに行った回ではありません。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kanjani-336c0f4f-" %}<span class="wr__k">2019</span><b class="wr__name">ラドリオ</b><span class="wr__t">『よつば銀行 原島浩美がモノ申す！』（丸山隆平）／「喫茶サツキ」として使われた神保町の喫茶店。雑誌の取材で丸山隆平と安田章大が座った席もあると伝えられる（千代田区 神保町）</span>{% include wr-close.html id="kanjani-336c0f4f-" %}</li>
+  <li class="wr">{% include wr-open.html id="kanjani-336c0f4f-" %}<span class="wr__k">2019</span><b class="wr__name">ラドリオ</b><span class="wr__t">『よつば銀行 原島浩美がモノ申す！』（丸山隆平）／「喫茶サツキ」として使われた神保町の喫茶店。雑誌の取材で丸山隆平と安田章大が座った席もあると伝えられる（千代田区 神保町）</span><span class="wr__more"><span class="wr__seat">席：カウンター席（雑誌の取材でエイトが座った席）</span></span>{% include wr-close.html id="kanjani-336c0f4f-" %}</li>
 </ul>
 
 <h2 id="src4">{% include chico.html kind="other" %}ファンクラブ会報などで伝えられるお店</h2>
@@ -188,7 +188,7 @@ stay_inline: true
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kanjani-8536d203-" %}<span class="wr__k">—</span><b class="wr__name">ひみつ堂</b><span class="wr__t">ファンクラブ会報に載ったと伝えられる、安田章大が訪れたかき氷店（台東区 谷中）</span>{% include wr-close.html id="kanjani-8536d203-" %}</li>
   <li class="wr">{% include wr-open.html id="kanjani-shinshin-" %}<span class="wr__k">—</span><b class="wr__name">ShinShin 住吉店</b><span class="wr__t">ファンブログで、渋谷すばる・錦戸亮の席があるとされる博多ラーメンの店（福岡市博多区）</span>{% include wr-close.html id="kanjani-shinshin-" %}</li>
-  <li class="wr">{% include wr-open.html id="kanjani-bc91617f-" %}<span class="wr__k">—</span><b class="wr__name">若駒</b><span class="wr__t">ファンブログによると、お店が横山裕・丸山隆平・安田章大・錦戸亮の注文を掲げている海鮮の店（札幌 場外市場）</span>{% include wr-close.html id="kanjani-bc91617f-" %}</li>
+  <li class="wr">{% include wr-open.html id="kanjani-bc91617f-" %}<span class="wr__k">—</span><b class="wr__name">若駒</b><span class="wr__t">ファンブログによると、お店が横山裕・丸山隆平・安田章大・錦戸亮の注文を掲げている海鮮の店（札幌 場外市場）</span><span class="wr__more"><span class="wr__oi">頼んだ物：うにいくら丼・しじみ汁・茶碗蒸し</span><span class="wr__seat">席：3階のロケ席</span></span>{% include wr-close.html id="kanjani-bc91617f-" %}</li>
 </ul>
 
 <h2>ジャンルと場所</h2>

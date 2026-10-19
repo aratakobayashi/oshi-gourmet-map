@@ -145,19 +145,19 @@ cover_sub: "10組が行った日本・韓国の51軒"
 <h3>公式YouTube・番組の回</h3>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kpop_blackpink-8c6eab29-" %}<span class="wr__k">赤坂</span><b class="wr__name">東京油組総本店 赤坂見附組</b><span class="wr__t">JENNIE公式YouTube「Jennie in Tokyo - Part 1」（2023年9月）／ジェニ／油そば。店の特定はファンによる（港区 赤坂）</span>{% include wr-close.html id="kpop_blackpink-8c6eab29-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-bd4f2517-" %}<span class="wr__k">東銀座</span><b class="wr__name">原始炭焼 いろり家 東銀座本店</b><span class="wr__t">JENNIE公式YouTube「Jennie in Tokyo - Part 2」（2023年9月）／ジェニ／炭焼きの居酒屋。店の特定はファンによる（中央区 銀座）</span>{% include wr-close.html id="kpop_blackpink-bd4f2517-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-bd4f2517-" %}<span class="wr__k">東銀座</span><b class="wr__name">原始炭焼 いろり家 東銀座本店</b><span class="wr__t">JENNIE公式YouTube「Jennie in Tokyo - Part 2」（2023年9月）／ジェニ／炭焼きの居酒屋。店の特定はファンによる（中央区 銀座）</span><span class="wr__more"><span class="wr__oi">頼んだ物：焼きとうもろこし</span></span>{% include wr-close.html id="kpop_blackpink-bd4f2517-" %}</li>
   <li class="wr">{% include wr-open.html id="kpop_blackpink-laham_kitchen-" %}<span class="wr__k">合井</span><b class="wr__name">Laham Kitchen（라함키친）</b><span class="wr__t">「BLACKPINK HOUSE」エピソード7／ジス・ジェニ・ロゼ・リサの4人がそろって食事をしたお店（ソウル 麻浦区）</span>{% include wr-close.html id="kpop_blackpink-laham_kitchen-" %}</li>
 </ul>
 
 <h3>SNSなどから伝えられるお店</h3>
 <p>ソウルの5軒は2020年ごろの旅行サイトの記事によるもので、今も営業しているかは確かめていません。住所は通りの名前までのものがあり、地図の位置は目安です。</p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-henry_s_pizza-" %}<span class="wr__k">大阪</span><b class="wr__name">Henry's PIZZA</b><span class="wr__t">2024年11月の来日時に、ジェニとロゼがそれぞれ別の日に訪れたとファンの間で紹介されているピザのお店。ロゼはブルーノ・マーズと一緒だったとされる（大阪市中央区 谷町）</span>{% include wr-close.html id="kpop_blackpink-henry_s_pizza-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-dosan_bunsik-" %}<span class="wr__k">カロスキル</span><b class="wr__name">Dosan Bunsik（도산분식 가로수길점）</b><span class="wr__t">ジスがInstagramに写真を載せた粉食のお店として、ファンが特定（ソウル 江南区）</span>{% include wr-close.html id="kpop_blackpink-dosan_bunsik-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-mamma_mia-" %}<span class="wr__k">狎鴎亭</span><b class="wr__name">Mamma Mia（맘마미아）</b><span class="wr__t">ロゼがGirl's Dayのヘリと訪れたとされるカフェ。根拠の投稿は示されていない（ソウル 江南区）</span>{% include wr-close.html id="kpop_blackpink-mamma_mia-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-little_papa_pho_hapj-" %}<span class="wr__k">合井</span><b class="wr__name">Little Papa Pho Hapjeong（리틀파파포 합정본점）</b><span class="wr__t">リサとロゼが訪れたとされるベトナム料理のお店。根拠の投稿は示されていない（ソウル 麻浦区）</span>{% include wr-close.html id="kpop_blackpink-little_papa_pho_hapj-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-jjukkumi_dal_in-" %}<span class="wr__k">新村</span><b class="wr__name">Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）</b><span class="wr__t">4人のサインが飾られているとされるチュクミ（イイダコ）炒めのお店。4人が一緒に来たか・いつかは分からない（ソウル 西大門区）</span>{% include wr-close.html id="kpop_blackpink-jjukkumi_dal_in-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_blackpink-krappom-" %}<span class="wr__k">新沙洞</span><b class="wr__name">Krappom（까폼）</b><span class="wr__t">リサがCLCのエルキー、(G)I-DLEのミンニと訪れたとされるタイ料理のお店（ソウル 江南区）</span>{% include wr-close.html id="kpop_blackpink-krappom-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-henry_s_pizza-" %}<span class="wr__k">大阪</span><b class="wr__name">Henry's PIZZA</b><span class="wr__t">2024年11月の来日時に、ジェニとロゼがそれぞれ別の日に訪れたとファンの間で紹介されているピザのお店。ロゼはブルーノ・マーズと一緒だったとされる（大阪市中央区 谷町）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ペペロニピザ・NYスタイルピザ</span></span>{% include wr-close.html id="kpop_blackpink-henry_s_pizza-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-dosan_bunsik-" %}<span class="wr__k">カロスキル</span><b class="wr__name">Dosan Bunsik（도산분식 가로수길점）</b><span class="wr__t">ジスがInstagramに写真を載せた粉食のお店として、ファンが特定（ソウル 江南区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：トッポッキ・キムチチャーハン・のり巻き</span></span>{% include wr-close.html id="kpop_blackpink-dosan_bunsik-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-mamma_mia-" %}<span class="wr__k">狎鴎亭</span><b class="wr__name">Mamma Mia（맘마미아）</b><span class="wr__t">ロゼがGirl's Dayのヘリと訪れたとされるカフェ。根拠の投稿は示されていない（ソウル 江南区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：ペストリー・焼き菓子</span></span>{% include wr-close.html id="kpop_blackpink-mamma_mia-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-little_papa_pho_hapj-" %}<span class="wr__k">合井</span><b class="wr__name">Little Papa Pho Hapjeong（리틀파파포 합정본점）</b><span class="wr__t">リサとロゼが訪れたとされるベトナム料理のお店。根拠の投稿は示されていない（ソウル 麻浦区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：フォー</span></span>{% include wr-close.html id="kpop_blackpink-little_papa_pho_hapj-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-jjukkumi_dal_in-" %}<span class="wr__k">新村</span><b class="wr__name">Jjukkumi Dal-in 新村店（쭈꾸미달인 신촌점）</b><span class="wr__t">4人のサインが飾られているとされるチュクミ（イイダコ）炒めのお店。4人が一緒に来たか・いつかは分からない（ソウル 西大門区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：炒めスルメイカ（쭈-삼）・チャーハン</span></span>{% include wr-close.html id="kpop_blackpink-jjukkumi_dal_in-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_blackpink-krappom-" %}<span class="wr__k">新沙洞</span><b class="wr__name">Krappom（까폼）</b><span class="wr__t">リサがCLCのエルキー、(G)I-DLEのミンニと訪れたとされるタイ料理のお店（ソウル 江南区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：豚足ご飯</span></span>{% include wr-close.html id="kpop_blackpink-krappom-" %}</li>
 </ul>
 
 <h2 id="riize">{% include chico.html kind="yt" %}RIIZE：西新宿・赤坂・原宿・横浜中華街</h2>
@@ -204,23 +204,23 @@ cover_sub: "10組が行った日本・韓国の51軒"
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kpop_newjeans-a1e2e51b-" %}<span class="wr__k">新宿</span><b class="wr__name">俺流塩らーめん 新宿東南口店</b><span class="wr__t">「[About Jeans] MINJI SCENE #3 도쿄 가요?」（2023年12月）／ミンジ／日本で初めて食べたと話した塩らーめん（新宿区 新宿3丁目）</span>{% include wr-close.html id="kpop_newjeans-a1e2e51b-" %}</li>
   <li class="wr">{% include wr-open.html id="kpop_newjeans-ec57a59c-" %}<span class="wr__k">銀座</span><b class="wr__name">とんかつ銀座梅林 本店</b><span class="wr__t">「[About Jeans] MINJI SCENE #3 도쿄 가요?」／ミンジ／東京の最終日に食べたとんかつ。本店とする根拠は示されていない（中央区 銀座）</span>{% include wr-close.html id="kpop_newjeans-ec57a59c-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_newjeans-andy_coffee-" %}<span class="wr__k">代官山</span><b class="wr__name">ANDY COFFEE</b><span class="wr__t">「Moments from Summer in Tokyo」（2024年9月）／ミンジ・ハニ（渋谷区 代官山町）</span>{% include wr-close.html id="kpop_newjeans-andy_coffee-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_newjeans-andy_coffee-" %}<span class="wr__k">代官山</span><b class="wr__name">ANDY COFFEE</b><span class="wr__t">「Moments from Summer in Tokyo」（2024年9月）／ミンジ・ハニ（渋谷区 代官山町）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カフェラテ</span></span>{% include wr-close.html id="kpop_newjeans-andy_coffee-" %}</li>
 </ul>
 
 <h3>SNSの写真から伝えられるお店（2023年8月の来日時）</h3>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kpop_newjeans-8d60abcc-" %}<span class="wr__k">中目黒</span><b class="wr__name">とんかつ 富士㐂 中目黒店</b><span class="wr__t">「SUMMER SONIC 2023」で来日したとき、当時のADORの代表ミン・ヒジンがInstagramに載せた写真から、メンバーと訪れたお店ではとファンが推測しているお店。どのメンバーが一緒だったかは確かめられていない（目黒区 青葉台）</span>{% include wr-close.html id="kpop_newjeans-8d60abcc-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_newjeans-john_s_ice_cream-" %}<span class="wr__k">代官山</span><b class="wr__name">JOHN'S ICE CREAM</b><span class="wr__t">NewJeansの公式Instagramの写真から、メンバーがアイスを食べていたお店としてファンが特定。どのメンバーが写っているかは確かめられていない（目黒区 上目黒）</span>{% include wr-close.html id="kpop_newjeans-john_s_ice_cream-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_newjeans-8d60abcc-" %}<span class="wr__k">中目黒</span><b class="wr__name">とんかつ 富士㐂 中目黒店</b><span class="wr__t">「SUMMER SONIC 2023」で来日したとき、当時のADORの代表ミン・ヒジンがInstagramに載せた写真から、メンバーと訪れたお店ではとファンが推測しているお店。どのメンバーが一緒だったかは確かめられていない（目黒区 青葉台）</span><span class="wr__more"><span class="wr__oi">頼んだ物：牛カツ・とんかつ</span></span>{% include wr-close.html id="kpop_newjeans-8d60abcc-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_newjeans-john_s_ice_cream-" %}<span class="wr__k">代官山</span><b class="wr__name">JOHN'S ICE CREAM</b><span class="wr__t">NewJeansの公式Instagramの写真から、メンバーがアイスを食べていたお店としてファンが特定。どのメンバーが写っているかは確かめられていない（目黒区 上目黒）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カスタマイズジェラート</span></span>{% include wr-close.html id="kpop_newjeans-john_s_ice_cream-" %}</li>
 </ul>
 
 <h2 id="ive">{% include chico.html kind="guest" %}IVE：『相席食堂』の葉山の5軒</h2>
 <p>IVEが日本で初めてロケをした『相席食堂』（2024年7月16日放送）で、二手に分かれて神奈川県葉山町を旅した回のお店です。どの組がどのお店に行ったかは、番組のまとめブログによります。<a href="{{ site.data.group_ix.kpop_ive.u }}">IVEのお店一覧</a></p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kpop_ive-marlowe-" %}<span class="wr__k">葉山</span><b class="wr__name">MARLOWE マーロウ 葉山マリーナ店</b><span class="wr__t">『相席食堂』／ガウル・ウォニョン・リズの組／プリンのお店（三浦郡葉山町 堀内 葉山マリーナ）</span>{% include wr-close.html id="kpop_ive-marlowe-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_ive-45f14b60-" %}<span class="wr__k">葉山</span><b class="wr__name">ブレドール 葉山本店</b><span class="wr__t">『相席食堂』／ガウル・ウォニョンの組の旅で訪れたパンのお店（三浦郡葉山町 一色）</span>{% include wr-close.html id="kpop_ive-45f14b60-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_ive-e7e24ff8-" %}<span class="wr__k">葉山</span><b class="wr__name">角車</b><span class="wr__t">『相席食堂』／ガウル・ウォニョン・リズ／和牛ステーキ（三浦郡葉山町 上山口）</span>{% include wr-close.html id="kpop_ive-e7e24ff8-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_ive-before_sunset-" %}<span class="wr__k">葉山</span><b class="wr__name">before sunset</b><span class="wr__t">『相席食堂』／ユジン・レイ・イソの組／クレープのお店（三浦郡葉山町 堀内）</span>{% include wr-close.html id="kpop_ive-before_sunset-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_ive-3aa8f6af-" %}<span class="wr__k">葉山</span><b class="wr__name">葉山珈琲 パッパニーニョ</b><span class="wr__t">『相席食堂』／二手に分かれた6人が最後に合流したカフェ（三浦郡葉山町 一色）</span>{% include wr-close.html id="kpop_ive-3aa8f6af-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_ive-marlowe-" %}<span class="wr__k">葉山</span><b class="wr__name">MARLOWE マーロウ 葉山マリーナ店</b><span class="wr__t">『相席食堂』／ガウル・ウォニョン・リズの組／プリンのお店（三浦郡葉山町 堀内 葉山マリーナ）</span><span class="wr__more"><span class="wr__oi">頼んだ物：北海道フレッシュクリームプリン・マサラチャイティープリン</span></span>{% include wr-close.html id="kpop_ive-marlowe-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_ive-45f14b60-" %}<span class="wr__k">葉山</span><b class="wr__name">ブレドール 葉山本店</b><span class="wr__t">『相席食堂』／ガウル・ウォニョンの組の旅で訪れたパンのお店（三浦郡葉山町 一色）</span><span class="wr__more"><span class="wr__oi">頼んだ物：レザンベール・トモコ</span></span>{% include wr-close.html id="kpop_ive-45f14b60-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_ive-e7e24ff8-" %}<span class="wr__k">葉山</span><b class="wr__name">角車</b><span class="wr__t">『相席食堂』／ガウル・ウォニョン・リズ／和牛ステーキ（三浦郡葉山町 上山口）</span><span class="wr__more"><span class="wr__oi">頼んだ物：リブロース・サーロイン・ヒレ</span></span>{% include wr-close.html id="kpop_ive-e7e24ff8-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_ive-before_sunset-" %}<span class="wr__k">葉山</span><b class="wr__name">before sunset</b><span class="wr__t">『相席食堂』／ユジン・レイ・イソの組／クレープのお店（三浦郡葉山町 堀内）</span><span class="wr__more"><span class="wr__oi">頼んだ物：シュガーバタークレープ</span></span>{% include wr-close.html id="kpop_ive-before_sunset-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_ive-3aa8f6af-" %}<span class="wr__k">葉山</span><b class="wr__name">葉山珈琲 パッパニーニョ</b><span class="wr__t">『相席食堂』／二手に分かれた6人が最後に合流したカフェ（三浦郡葉山町 一色）</span><span class="wr__more"><span class="wr__oi">頼んだ物：コーヒーゼリーセット</span></span>{% include wr-close.html id="kpop_ive-3aa8f6af-" %}</li>
 </ul>
 
 <h2 id="aespa">{% include chico.html kind="other" %}aespa：高円寺・渋谷・西麻布・赤坂</h2>
@@ -228,7 +228,7 @@ cover_sub: "10組が行った日本・韓国の51軒"
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="kpop_aespa-e6d7a34f-" %}<span class="wr__k">高円寺</span><b class="wr__name">韓国酒場ハルハル</b><span class="wr__t">お店の公式Instagramで、2024年7月ごろにジゼルが訪れ、タッカルビ・ユッケビビンバ・ヤンニョムチキンを頼んだと紹介（杉並区 高円寺北）</span>{% include wr-close.html id="kpop_aespa-e6d7a34f-" %}</li>
   <li class="wr">{% include wr-open.html id="kpop_aespa-75f30bda-" %}<span class="wr__k">渋谷</span><b class="wr__name">アートマサシヤ</b><span class="wr__t">ジゼルが2024年1月ごろInstagramに載せたラーメンの写真から、ファンが特定（渋谷区 南平台町）</span>{% include wr-close.html id="kpop_aespa-75f30bda-" %}</li>
-  <li class="wr">{% include wr-open.html id="kpop_aespa-5ac4fae2-" %}<span class="wr__k">西麻布</span><b class="wr__name">ワンガーデン 西麻布店</b><span class="wr__t">aespaの公式Instagram（2023年4月）に載ったカリナとウィンターの写真から、ファンが特定（港区 西麻布）</span>{% include wr-close.html id="kpop_aespa-5ac4fae2-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_aespa-5ac4fae2-" %}<span class="wr__k">西麻布</span><b class="wr__name">ワンガーデン 西麻布店</b><span class="wr__t">aespaの公式Instagram（2023年4月）に載ったカリナとウィンターの写真から、ファンが特定（港区 西麻布）</span><span class="wr__more"><span class="wr__oi">頼んだ物：釜炊き鯛めし</span></span>{% include wr-close.html id="kpop_aespa-5ac4fae2-" %}</li>
   <li class="wr">{% include wr-open.html id="kpop_aespa-5ffe7df2-" %}<span class="wr__k">赤坂</span><b class="wr__name">やげんぼり 赤坂店</b><span class="wr__t">カリナが2025年5月にInstagramに載せ、のちに消した写真から、ファンが特定。赤坂には同じ名前のお店がいくつかあり、この店舗かは確かめられていない（港区 赤坂）</span>{% include wr-close.html id="kpop_aespa-5ffe7df2-" %}</li>
 </ul>
 
@@ -249,7 +249,7 @@ cover_sub: "10組が行った日本・韓国の51軒"
 <h2 id="lesserafim">{% include chico.html kind="yt" %}LE SSERAFIM：ソウル・奨忠洞</h2>
 <p><a href="{{ site.data.group_ix.kpop_lesserafim.u }}">LE SSERAFIMのお店一覧</a></p>
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="kpop_lesserafim-08528f72-" %}<span class="wr__k">奨忠洞</span><b class="wr__name">삼겹살 전문점 대통령（サムギョプサル大統領）</b><span class="wr__t">公式YouTube「[LENIVERSE] 첫 회식 🍽️ (with 진짜 삼겹살)」／メンバーが初めての打ち上げをしたサムギョプサルのお店。店の特定はブログによる（ソウル 中区）</span>{% include wr-close.html id="kpop_lesserafim-08528f72-" %}</li>
+  <li class="wr">{% include wr-open.html id="kpop_lesserafim-08528f72-" %}<span class="wr__k">奨忠洞</span><b class="wr__name">삼겹살 전문점 대통령（サムギョプサル大統領）</b><span class="wr__t">公式YouTube「[LENIVERSE] 첫 회식 🍽️ (with 진짜 삼겹살)」／メンバーが初めての打ち上げをしたサムギョプサルのお店。店の特定はブログによる（ソウル 中区）</span><span class="wr__more"><span class="wr__oi">頼んだ物：超極厚サムギョプサル</span></span>{% include wr-close.html id="kpop_lesserafim-08528f72-" %}</li>
 </ul>
 
 <p class="note">店名の上の文字は、お店のある街です。回のタイトルは公式チャンネル・番組のもの。お店と回の結びつき、メンバー、頼んだものは、確認に使った資料（ファンのまとめサイト・ブログ・旅行サイト）によります。</p>

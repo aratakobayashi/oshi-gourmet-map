@@ -104,7 +104,7 @@ stay_inline: true
 <p>浮所飛貴・那須雄登・作間龍斗・深田竜生・佐藤龍我の5人のグループで、2025年2月のジュニアのグループ再編でできました。お店はジュニアCHANNELのACEesの回です。<a href="{{ site.data.group_ix.acees.u }}">ACEesのお店一覧</a>・<a href="/guide/acees-profile/">ACEesってどんなグループ？</a></p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="acees-37b3b7e7-20250726" %}<span class="wr__k">2025.7</span><b class="wr__name">博多水炊きと焼き鳥 ことぷろ 博多本店</b><span class="wr__t">【超美味 水炊きのラーメン】チーズ明太子ご飯をリゾットに！／5人／浮所・那須・深田・佐藤はチーズ明太リゾット、作間は鶏ご飯（福岡市中央区 大名）</span>{% include wr-close.html id="acees-37b3b7e7-20250726" %}</li>
-  <li class="wr">{% include wr-open.html id="acees-1e1e48b4-20250830" %}<span class="wr__k">2025.8</span><b class="wr__name">博多中洲 旬菜万葉</b><span class="wr__t">【福岡旅FINAL】究極のもつ鍋or極上の水炊き…どっち？／ACEes／もつ鍋のお店（福岡市博多区 中洲）</span>{% include wr-close.html id="acees-1e1e48b4-20250830" %}</li>
+  <li class="wr">{% include wr-open.html id="acees-1e1e48b4-20250830" %}<span class="wr__k">2025.8</span><b class="wr__name">博多中洲 旬菜万葉</b><span class="wr__t">【福岡旅FINAL】究極のもつ鍋or極上の水炊き…どっち？／ACEes／もつ鍋のお店（福岡市博多区 中洲）</span><span class="wr__more"><span class="wr__oi">頼んだ物：イカの活き造り</span></span>{% include wr-close.html id="acees-1e1e48b4-20250830" %}</li>
   <li class="wr">{% include wr-open.html id="acees-4b62d689-20251129" %}<span class="wr__k">2025.11</span><b class="wr__name">フォーシーズンズカフェ</b><span class="wr__t">【大食い企画!?】TOP10を当てないと帰れまテン／ACEes（江戸川区 西葛西）</span>{% include wr-close.html id="acees-4b62d689-20251129" %}</li>
 </ul>
 
@@ -128,7 +128,7 @@ stay_inline: true
 <p>お店はジュニアCHANNELの少年忍者の回です。少年忍者は2025年11月30日に活動を終えています。深田竜生は2025年2月からACEesのメンバーです。<a href="{{ site.data.group_ix.shonen_ninja.u }}">少年忍者のお店一覧</a>・<a href="/guide/shonen-ninja-profile/">少年忍者ってどんなグループ？</a></p>
 <ul class="wrs">
   <li class="wr">{% include wr-open.html id="shonen_ninja-111d201d-20240814" %}<span class="wr__k">2024.8</span><b class="wr__name">焼肉 はやし</b><span class="wr__t">【全員で打ち上げ焼肉パーティー！】明日からがんばるぜぇ～／少年忍者（題名は「全員で」）／焼肉（千葉県木更津市）</span>{% include wr-close.html id="shonen_ninja-111d201d-20240814" %}</li>
-  <li class="wr">{% include wr-open.html id="shonen_ninja-c163b89a-20241204" %}<span class="wr__k">2024.12</span><b class="wr__name">SHE WOLF DINER</b><span class="wr__t">【2024年振り返り男子会】海外テーマパークドッキリを回収／深田・織山・川﨑皇輝・ヴァサイェガ・川﨑星輝・瀧・豊田の7人／ハンバーガー（渋谷区 宇田川町）</span>{% include wr-close.html id="shonen_ninja-c163b89a-20241204" %}</li>
+  <li class="wr">{% include wr-open.html id="shonen_ninja-c163b89a-20241204" %}<span class="wr__k">2024.12</span><b class="wr__name">SHE WOLF DINER</b><span class="wr__t">【2024年振り返り男子会】海外テーマパークドッキリを回収／深田・織山・川﨑皇輝・ヴァサイェガ・川﨑星輝・瀧・豊田の7人／ハンバーガー（渋谷区 宇田川町）</span><span class="wr__more"><span class="wr__oi">頼んだ物：アボカドサルサバーガー・ベーコンエッグハラペーニョバーガー・スマッシュバーガー</span></span>{% include wr-close.html id="shonen_ninja-c163b89a-20241204" %}</li>
 </ul>
 
 <h2 id="lilkansai">{% include chico.html kind="yt" %}Lil かんさいのお店（ジュニアCHANNEL）</h2>
