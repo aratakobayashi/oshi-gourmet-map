@@ -66,6 +66,15 @@
      "group": "nogizaka46",
      "format": "credit_hotpepper",
      "lookback_days": 14
+    },
+    {
+     "channel_id": "UCYidhqPbCWtPaFeXxOCDdNA",
+     "name": "裏なんばちゃん【NMB48公式】",
+     "group": "nmb48",
+     "format": "name_address",
+     "address_label": "場所|住所",
+     "lookback_days": 14,
+     "_説明": "「Oishii NAMBA」の概要欄に 店名：／場所：〒…／出演： が載る（2026-10-20 に追加）"
     }
    ],
    "_食べ歩きYouTuberの候補": "説明文に店名と住所が決まった形で載るチャンネルが見つかったら channels に足す（group は先に python scripts/add_group.py で作る）。例: {\"channel_id\": \"UC...\", \"name\": \"…\", \"group\": \"…\", \"format\": \"name_address\", \"members\": [\"…\"]}"
