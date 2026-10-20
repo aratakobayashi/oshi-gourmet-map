@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 570" width="420" height="570" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
 <rect width="420" height="570" rx="18" fill="#F7F3EC"/>
 <text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
-<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店55軒を数えました</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店93軒を数えました</text>
 <text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">和食</text>
 <rect x="100" y="100" width="220" height="26" rx="8" fill="#15803d"/>
-<text x="328" y="119" font-size="16" font-weight="800" fill="#15803d">23軒</text>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#15803d">41軒</text>
 <text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">食事</text>
-<rect x="100" y="144" width="162" height="26" rx="8" fill="#2563eb"/>
-<text x="270" y="163" font-size="16" font-weight="800" fill="#2563eb">17軒</text>
+<rect x="100" y="144" width="144" height="26" rx="8" fill="#2563eb"/>
+<text x="252" y="163" font-size="16" font-weight="800" fill="#2563eb">27軒</text>
 <text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">中華</text>
-<rect x="100" y="188" width="38" height="26" rx="8" fill="#dc2626"/>
-<text x="146" y="207" font-size="16" font-weight="800" fill="#dc2626">4軒</text>
+<rect x="100" y="188" width="42" height="26" rx="8" fill="#dc2626"/>
+<text x="150" y="207" font-size="16" font-weight="800" fill="#dc2626">8軒</text>
 <text x="20" y="250" font-size="15" font-weight="700" fill="#241F1A">ラーメン</text>
-<rect x="100" y="232" width="28" height="26" rx="8" fill="#ca8a04"/>
-<text x="136" y="251" font-size="16" font-weight="800" fill="#ca8a04">3軒</text>
+<rect x="100" y="232" width="26" height="26" rx="8" fill="#ca8a04"/>
+<text x="134" y="251" font-size="16" font-weight="800" fill="#ca8a04">5軒</text>
 <text x="20" y="294" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
-<rect x="100" y="276" width="28" height="26" rx="8" fill="#9a3412"/>
-<text x="136" y="295" font-size="16" font-weight="800" fill="#9a3412">3軒</text>
-<text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
-<rect x="100" y="320" width="28" height="26" rx="8" fill="#0891b2"/>
-<text x="136" y="339" font-size="16" font-weight="800" fill="#0891b2">3軒</text>
-<text x="20" y="382" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
-<rect x="100" y="364" width="9" height="26" rx="8" fill="#7c3aed"/>
-<text x="117" y="383" font-size="16" font-weight="800" fill="#7c3aed">1軒</text>
-<text x="20" y="426" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
-<rect x="100" y="408" width="9" height="26" rx="8" fill="#db2777"/>
-<text x="117" y="427" font-size="16" font-weight="800" fill="#db2777">1軒</text>
+<rect x="100" y="276" width="21" height="26" rx="8" fill="#9a3412"/>
+<text x="129" y="295" font-size="16" font-weight="800" fill="#9a3412">4軒</text>
+<text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
+<rect x="100" y="320" width="21" height="26" rx="8" fill="#db2777"/>
+<text x="129" y="339" font-size="16" font-weight="800" fill="#db2777">4軒</text>
+<text x="20" y="382" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
+<rect x="100" y="364" width="16" height="26" rx="8" fill="#0891b2"/>
+<text x="124" y="383" font-size="16" font-weight="800" fill="#0891b2">3軒</text>
+<text x="20" y="426" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
+<rect x="100" y="408" width="5" height="26" rx="8" fill="#7c3aed"/>
+<text x="113" y="427" font-size="16" font-weight="800" fill="#7c3aed">1軒</text>
 <text x="20" y="462" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
 <rect x="20" y="476" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="32" y="494" font-size="13.5" fill="#241F1A">大阪市中央区</text><text x="192" y="494" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">38軒</text>
+<text x="32" y="494" font-size="13.5" fill="#241F1A">大阪市中央区</text><text x="192" y="494" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">64軒</text>
 <rect x="216" y="476" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="494" font-size="13.5" fill="#241F1A">大阪市浪速区</text><text x="388" y="494" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">12軒</text>
+<text x="228" y="494" font-size="13.5" fill="#241F1A">大阪市浪速区</text><text x="388" y="494" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">22軒</text>
 <rect x="20" y="508" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
 <text x="32" y="526" font-size="13.5" fill="#241F1A">大阪府大阪市</text><text x="192" y="526" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">4軒</text>
 <rect x="216" y="508" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
-<text x="228" y="526" font-size="13.5" fill="#241F1A">大阪市西区</text><text x="388" y="526" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">1軒</text>
+<text x="228" y="526" font-size="13.5" fill="#241F1A">大阪市西区</text><text x="388" y="526" font-size="14" font-weight="800" text-anchor="end" fill="#f59e0b">3軒</text>
 </svg>

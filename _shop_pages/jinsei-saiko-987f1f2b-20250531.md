@@ -18,6 +18,8 @@ lat: 34.66621
 lng: 135.502167
 members:
   - "ともこ"
+  - "三鴨くるみ"
 groups:
   - "jinsei_saiko"
+  - "nmb48"
 ---
