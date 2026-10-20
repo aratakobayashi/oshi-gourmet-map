@@ -85,7 +85,7 @@ summary:
 
 <p>2026年10月時点で、会場から10km以内にHey! Say! JUMPのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
 
-<div class="ensei__shops">{% include mini.html id="snowman-952e0596-20250810" m=810 from="会場から" %}{% include mini.html id="shuichi-ce6cd715-20250614" m=950 from="会場から" %}{% include mini.html id="sakaba_horoki-2ec0cdb6-20110321" m=1190 from="会場から" %}</div>
+<div class="ensei__shops">{% include mini.html id="snowman-952e0596-20250810" m=810 from="会場から" %}{% include mini.html id="shuichi-ce6cd715-20250614" m=950 from="会場から" %}{% include mini.html id="hkt48-042a47f1-20230703" m=960 from="会場から" %}</div>
 
 <div class="btn-row"><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡のライブ参戦ガイド</a><a class="btn" href="/shops/?near=33.594341,130.362411&amp;nl=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1">地図で会場の近くのお店</a></div>
 
@@ -164,6 +164,8 @@ summary:
   <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>
   <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>
 </ul>
+
+{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}
 
 <div class="pf-cta">
   <p>Hey! Say! JUMPのお店を、地図でぜんぶ見る</p>

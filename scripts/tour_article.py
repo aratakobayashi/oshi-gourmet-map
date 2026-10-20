@@ -296,6 +296,7 @@ def main():
     b.append('<ul>\n  <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>\n'
              '  <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>\n'
              '  <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>\n</ul>')
+    b.append('{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}')
     if len(GS) > 1:
         b.append('<div class="btn-row">' + ''.join(f'<a class="btn" href="/shops/?g={x}&amp;view=map">地図で{gix[x]["l"]}のお店を見る</a>' for x in GS) + '</div>')
         b.append('<p>' + '、'.join(f'<a href="{{{{ site.data.group_ix.{x}.u }}}}">{gix[x]["l"]}のお店一覧</a>' for x in GS) + 'もどうぞ。</p>')
