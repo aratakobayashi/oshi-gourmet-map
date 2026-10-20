@@ -42084,10 +42084,12 @@
     "source_url": "https://www.chiicrane-life.fun/mezamashi-2023-08-18",
     "visited_date": "2023-08-18",
     "members": [
-      "大橋和也"
+      "大橋和也",
+      "作間龍斗"
     ],
     "groups": [
-      "naniwa"
+      "naniwa",
+      "hihijets"
     ],
     "group": "naniwa",
     "nearest_station": "自由が丘駅 徒歩7分",
@@ -207275,10 +207277,12 @@
     "source_video_title": "シューイチ 【シューイチ★セブン】 ただいま若者急増中!クールでレトロな秩父旅（2026-08-15 日本テレビ）",
     "visited_date": "2026-08-15",
     "members": [
-      "潮田玲子"
+      "潮田玲子",
+      "那須雄登"
     ],
     "groups": [
-      "shuichi"
+      "shuichi",
+      "acees"
     ],
     "group": "shuichi",
     "description": "潮田玲子が『シューイチ』で訪れたお店。",
@@ -229318,10 +229322,12 @@
     "source_video_title": "【埼玉】100年続く歴史的名店が閉店の危機。味は実際どうなの？食ってみた結果‥をすする　パリー食堂【飯テロ】SUSURU TV.第3664回",
     "visited_date": "2025-12-15",
     "members": [
-      "SUSURU"
+      "SUSURU",
+      "那須雄登"
     ],
     "groups": [
-      "susuru"
+      "susuru",
+      "acees"
     ],
     "group": "susuru",
     "description": "SUSURUがYouTubeの動画で訪れたお店。",
@@ -289558,10 +289564,12 @@
     "visited_date": "2022-01-14",
     "members": [
       "西畑大吾",
-      "藤原丈一郎"
+      "藤原丈一郎",
+      "深田竜生"
     ],
     "groups": [
-      "naniwa"
+      "naniwa",
+      "acees"
     ],
     "group": "naniwa",
     "description": "西畑大吾・藤原丈一郎が『なにわ男子のなんでやねん！（めざましテレビ）』で訪れたお店。",
@@ -298595,5 +298603,1370 @@
     "source_video_url": "https://www.youtube.com/watch?v=IDloNBX_QNo",
     "visit_kind": "youtube",
     "program": "ジュニアCHANNEL（旧ジャニーズJr.チャンネル）"
+  },
+  {
+    "id": "acees-a806cdce-20260730",
+    "name": "長瀞温泉 花のおもてなし 長生館",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "秩父郡長瀞町",
+    "address": "埼玉県秩父郡長瀞町長瀞449",
+    "lat": 36.094967,
+    "lng": 139.10228,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-30",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ngulrha9y40tf90o.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "そうめん食べ放題",
+      "秩父鹿のから揚げ",
+      "豚みそ串焼き"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "location_unverified": true
+  },
+  {
+    "id": "acees-210eea7b-20260730",
+    "name": "阿左美冷蔵 金崎本店",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "秩父郡長瀞町",
+    "address": "埼玉県秩父郡長瀞町金崎27-1",
+    "lat": 36.114746,
+    "lng": 139.109802,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-30",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ngulrha9y40tf90o.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "蔵元秘伝みつ 極みスペシャル"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "location_unverified": true
+  },
+  {
+    "id": "acees-30be3973-20260206",
+    "name": "1988 CAFE SHOZO",
+    "genre": "cafe",
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "address": "栃木県那須塩原市高砂町6-6",
+    "lat": 36.971886,
+    "lng": 140.050644,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-02-06",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081odvgwvkb4amaxn6e.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "森のブレンドG2",
+      "クランベリーホワイトチョコスコーン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-7aa3b6bb-20260206",
+    "name": "Chus",
+    "genre": "cafe",
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "address": "栃木県那須塩原市高砂町6-3",
+    "lat": 36.97163,
+    "lng": 140.051025,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-02-06",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081odvgwvkb4amaxn6e.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-087886e1-20260116",
+    "name": "那須千本松牧場 ファームレストラン",
+    "genre": "shokuji",
+    "prefecture": "栃木県",
+    "city": "那須塩原市",
+    "address": "栃木県那須塩原市千本松799",
+    "lat": 36.926098,
+    "lng": 139.933792,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-01-16",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081fi18mds9bn9fw8bt.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "千本松牧場牛100%ちぎりハンバーグ",
+      "栃木県産黒毛和牛焼きすきセット"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-f2c228e2-20251225",
+    "name": "熱海プリン",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町3-14",
+    "lat": 35.102077,
+    "lng": 139.077362,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2025-12-25",
+    "members": [
+      "深田竜生"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "深田竜生が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814v7dm87rkpf1wrrm.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ダブルキャラメルプリン",
+      "温泉玉子プリン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-b53bb487-20251225",
+    "name": "いちごBonBonBERRY ATAMI HOUSE",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市田原本町3-16",
+    "lat": 35.101955,
+    "lng": 139.077271,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2025-12-25",
+    "members": [
+      "深田竜生"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "深田竜生が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814v7dm87rkpf1wrrm.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ごろごろいちごチョコ ドバイチョコ風"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-808431cf-20251225",
+    "name": "秀花園 湯の花膳",
+    "genre": "others",
+    "prefecture": "静岡県",
+    "city": "熱海市",
+    "address": "静岡県熱海市和田浜南町7-13",
+    "lat": 35.089127,
+    "lng": 139.076447,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2025-12-25",
+    "members": [
+      "深田竜生"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "深田竜生が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814v7dm87rkpf1wrrm.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/18/83/P042191883/P042191883_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003581341/"
+  },
+  {
+    "id": "bishonen-971be38e-20241017",
+    "name": "KadoCafe",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市東所沢和田3-31-3",
+    "lat": 35.796692,
+    "lng": 139.506088,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-17",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081793h9a306rua6n7r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "おいモンブラン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "hihijets-27678128-20241205",
+    "name": "5to7（自由が丘スイーツフォレスト）",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区緑が丘2-25-7",
+    "lat": 35.607716,
+    "lng": 139.671631,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-12-05",
+    "members": [
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "作間龍斗が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081vc9gszgvuw1149gq.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "フルーツスフレパンケーキ",
+      "クリームブリュレスフレパンケーキ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "lilkansai-bd61816e-20210908",
+    "name": "Yakiniku～名もなき名店へ～",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区月島1-5-1 キャピタルゲートプレイス ザ・モール 121",
+    "lat": 35.664497,
+    "lng": 139.78392,
+    "source_video_title": "よるのブランチ「超えたらアウト！ボーダーライングルメ」（TBS）",
+    "visited_date": "2021-09-08",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉が『よるのブランチ「超えたらアウト！ボーダーライングルメ」（TBS）』で訪れたお店。",
+    "source_url": "https://news.mynavi.jp/article/20210908-1967527/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mq7blcsg79kqbhnsyiTq1jxSvK7.jpg",
+    "tmdb_id": 229014,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "よるのブランチ「超えたらアウト！ボーダーライングルメ」（TBS）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003432891/"
+  },
+  {
+    "id": "lilkansai-a895340e-20241121",
+    "name": "喫茶アンティカ",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市東淀川区",
+    "address": "大阪府大阪市東淀川区東中島1-13-43 新大阪第一ダイヤモンドマンション 1F",
+    "lat": 34.731163,
+    "lng": 135.503448,
+    "source_video_title": "Lil かんさい【喫茶店で被っちゃダメよ】スナイパーるうく誕生‼️",
+    "visited_date": "2024-11-21",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/liltube-cafe-osaka/",
+    "source_type": "youtube",
+    "youtube_id": "dc6pG8EL7O8",
+    "source_video_url": "https://www.youtube.com/watch?v=dc6pG8EL7O8",
+    "ordered_items": [
+      "クリームジュース",
+      "バナナジュース",
+      "ミックスジュース",
+      "メロンソーダ",
+      "チーズトースト",
+      "焼肉ピラフ",
+      "アンティカ定食",
+      "コーヒーゼリー"
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-8c0e0958-20240822",
+    "name": "焼肉トラジ 本店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南2-2-4 山燃2ビル 1,2F",
+    "lat": 35.645706,
+    "lng": 139.707367,
+    "source_video_title": "Lil かんさい【リトかんについて語り尽くそう】お肉をモグモグしながら😝",
+    "visited_date": "2024-08-22",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://note.com/kyo___k10/n/n38461fe9882a",
+    "source_type": "youtube",
+    "youtube_id": "BHrYWzUqolU",
+    "source_video_url": "https://www.youtube.com/watch?v=BHrYWzUqolU",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-612e8f46-20240328",
+    "name": "サンタモニカクレープス 原宿店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神宮前1-16-16",
+    "lat": 35.67107,
+    "lng": 139.704422,
+    "source_video_title": "Lil かんさい【渋谷原宿で梅の花を探せ❗️】春なのに…完結編 笑笑",
+    "visited_date": "2024-03-28",
+    "members": [
+      "西村拓哉"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "西村拓哉がYouTubeの動画で訪れたお店。",
+    "source_url": "https://note.com/kyo___k10/n/n4b145c617db3",
+    "source_type": "youtube",
+    "youtube_id": "WuUXx9RESzU",
+    "source_video_url": "https://www.youtube.com/watch?v=WuUXx9RESzU",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-bd70d58d-20230216",
+    "name": "大阪焼肉・ホルモン ふたご 赤坂店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-18-9 八百菊ビル 1〜4階",
+    "lat": 35.675438,
+    "lng": 139.736389,
+    "source_video_title": "Lil かんさい【焼肉はウェルダン!?】ふーさんの食べたいものを当てろ!?",
+    "visited_date": "2023-02-16",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://haveagood.holiday/plans/643939",
+    "source_type": "youtube",
+    "youtube_id": "nGB5vuoNvpI",
+    "source_video_url": "https://www.youtube.com/watch?v=nGB5vuoNvpI",
+    "ordered_items": [
+      "ざぶとんロースすてーき",
+      "すき焼きカルビ",
+      "ホルモン",
+      "ポテバニ"
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001184898/"
+  },
+  {
+    "id": "lilkansai-476705d0-20230727",
+    "name": "天ぷら酒場 上ル商店 新宿三丁目店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区新宿3-9-4 明石ビル B1F・1F",
+    "lat": 35.691246,
+    "lng": 139.70665,
+    "source_video_title": "Lil かんさい【食べたいものを当てましょう】創作天ぷらで新しいこたちゃんMCで結局…平和!?",
+    "visited_date": "2023-07-27",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://haveagood.holiday/plans/643939",
+    "source_type": "youtube",
+    "youtube_id": "N4oc7glHKcg",
+    "source_video_url": "https://www.youtube.com/watch?v=N4oc7glHKcg",
+    "ordered_items": [
+      "アスパラパルミジャーノ",
+      "牡蠣",
+      "うにくらたま天",
+      "上ル天丼"
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-59c92292-20230824",
+    "name": "花山屋台",
+    "genre": "izakaya",
+    "prefecture": "福岡県",
+    "city": "福岡市東区",
+    "address": "福岡県福岡市東区箱崎1-44",
+    "lat": 33.614807,
+    "lng": 130.421722,
+    "source_video_title": "Lil かんさい【博多屋台で食べたいものを当てましょう！】タンバーグは絶品!?",
+    "visited_date": "2023-08-24",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://haveagood.holiday/plans/643939",
+    "source_type": "youtube",
+    "youtube_id": "fGmHNg48-4Y",
+    "source_video_url": "https://www.youtube.com/watch?v=fGmHNg48-4Y",
+    "ordered_items": [
+      "和牛さがり",
+      "たんバーグ",
+      "えび",
+      "ラーメン"
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-68526367-20231026",
+    "name": "Market Terrace w/埼玉西武ライオンズ",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市くすのき台1-14-5 グランエミオ所沢 3F",
+    "lat": 35.78746,
+    "lng": 139.473984,
+    "source_video_title": "Lil かんさい【少数派グルメ第２弾!!!】所沢のご当地グルメ食べるぞー！",
+    "visited_date": "2023-10-26",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://haveagood.holiday/plans/643939",
+    "source_type": "youtube",
+    "youtube_id": "rSkcge6yAaY",
+    "source_video_url": "https://www.youtube.com/watch?v=rSkcge6yAaY",
+    "ordered_items": [
+      "エダマメとアジのカルピオーネ",
+      "所沢肉汁うどん",
+      "ビーツのギモーヴ"
+    ],
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "lilkansai-b5988350-20231116",
+    "name": "渋谷西村フルーツ 道玄坂本店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町22-2 1F",
+    "lat": 35.659718,
+    "lng": 139.699844,
+    "source_video_title": "Lil かんさい【漢字一文字で出会えるかin渋谷 FINAL】ハチ公のどこ集合？？？",
+    "visited_date": "2023-11-16",
+    "members": [
+      "嶋﨑斗亜",
+      "西村拓哉",
+      "大西風雅",
+      "岡﨑彪太郎",
+      "當間琉巧"
+    ],
+    "groups": [
+      "lilkansai"
+    ],
+    "group": "lilkansai",
+    "description": "嶋﨑斗亜・西村拓哉・大西風雅・岡﨑彪太郎・當間琉巧がYouTubeの動画で訪れたお店。",
+    "source_url": "https://haveagood.holiday/plans/643939",
+    "source_type": "youtube",
+    "youtube_id": "S0QzH28jHDI",
+    "source_video_url": "https://www.youtube.com/watch?v=S0QzH28jHDI",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（Lilちゅーぶ）"
+  },
+  {
+    "id": "bandzai-4c00c4b4-20260829",
+    "name": "百年古家 大家",
+    "genre": "washoku",
+    "prefecture": "沖縄県",
+    "city": "名護市",
+    "address": "沖縄県名護市中山90",
+    "lat": 26.621187,
+    "lng": 127.964134,
+    "source_video_title": "土曜はナニする!?（カンテレ・フジテレビ系）",
+    "visited_date": "2026-08-29",
+    "members": [
+      "橋本涼"
+    ],
+    "groups": [
+      "bandzai"
+    ],
+    "group": "bandzai",
+    "description": "橋本涼が『土曜はナニする!?（カンテレ・フジテレビ系）』で訪れたお店。",
+    "source_url": "https://www.ktv.jp/donani/260829.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QEMqfcIJK7gFIp0l4r08thf8A4.jpg",
+    "tmdb_id": 111335,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "沖縄県産黒毛和牛2種類のプレミアムしゃぶしゃぶコース",
+      "極上 あぐーのしゃぶしゃぶ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "土曜はナニする!?（カンテレ・フジテレビ系）"
+  },
+  {
+    "id": "bandzai-cef81a79-20260829",
+    "name": "パブラウンジ エメラルド",
+    "genre": "shokuji",
+    "prefecture": "沖縄県",
+    "city": "北中城村",
+    "address": "沖縄県中頭郡北中城村島袋311",
+    "lat": 26.31699,
+    "lng": 127.801323,
+    "source_video_title": "土曜はナニする!?（カンテレ・フジテレビ系）",
+    "visited_date": "2026-08-29",
+    "members": [
+      "橋本涼"
+    ],
+    "groups": [
+      "bandzai"
+    ],
+    "group": "bandzai",
+    "description": "橋本涼が『土曜はナニする!?（カンテレ・フジテレビ系）』で訪れたお店。",
+    "source_url": "https://www.ktv.jp/donani/260829.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QEMqfcIJK7gFIp0l4r08thf8A4.jpg",
+    "tmdb_id": 111335,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "県産黒毛和牛の熟成サーロイン",
+      "1ポンドリブステーキ",
+      "赤身肉 ハンキングテンダー"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "土曜はナニする!?（カンテレ・フジテレビ系）"
+  },
+  {
+    "id": "bandzai-3379a297-20260829",
+    "name": "タコラボ okinawa 那覇店",
+    "genre": "others",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市久米2丁目15-14",
+    "lat": 26.215918,
+    "lng": 127.676407,
+    "source_video_title": "土曜はナニする!?（カンテレ・フジテレビ系）",
+    "visited_date": "2026-08-29",
+    "members": [
+      "橋本涼"
+    ],
+    "groups": [
+      "bandzai"
+    ],
+    "group": "bandzai",
+    "description": "橋本涼が『土曜はナニする!?（カンテレ・フジテレビ系）』で訪れたお店。",
+    "source_url": "https://www.ktv.jp/donani/260829.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6QEMqfcIJK7gFIp0l4r08thf8A4.jpg",
+    "tmdb_id": 111335,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "揚げタコス"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "土曜はナニする!?（カンテレ・フジテレビ系）"
+  },
+  {
+    "id": "acees-2991b69f-20260730",
+    "name": "SUSABINO KITCHEN",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "秩父郡長瀞町",
+    "address": "埼玉県秩父郡長瀞町長瀞2595-1",
+    "lat": 36.094967,
+    "lng": 139.10228,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-30",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ngulrha9y40tf90o.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "そらふわゴンドラカステラ",
+      "みそポテト",
+      "天空むすびセット"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "location_unverified": true
+  },
+  {
+    "id": "acees-d0bb0aac-20260716",
+    "name": "SunDolce（サンドルチェ）",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市番場町4-8",
+    "lat": 35.996632,
+    "lng": 139.084396,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-16",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081jr3i4hjox9c5odoa.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "秩父錦ジェラート"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-25803b53-20260716",
+    "name": "食彩秩父 じんじんばあ",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市番場町17-16",
+    "lat": 35.99511,
+    "lng": 139.083939,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-16",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081jr3i4hjox9c5odoa.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "みそポテト",
+      "わらじかつ",
+      "猪肉の串焼き",
+      "鹿肉の串焼き"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-a8e31485-20260716",
+    "name": "安田屋（番場通り）",
+    "genre": "others",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市番場町19-9",
+    "lat": 35.994244,
+    "lng": 139.08371,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-16",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081jr3i4hjox9c5odoa.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チーズinメンチドック"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-c262bf37-20260716",
+    "name": "秩父芋菓子専門店 芋うらら",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市番場町19-3",
+    "lat": 35.993919,
+    "lng": 139.083679,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-16",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081jr3i4hjox9c5odoa.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "蜜いもプリンブリュレ",
+      "冷やし焼き芋",
+      "いもんぶらん"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-6e1a4909-20260716",
+    "name": "元祖秩父肉汁そば 山寿",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "秩父市",
+    "address": "埼玉県秩父市熊木町14-11",
+    "lat": 35.991547,
+    "lng": 139.086258,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-07-16",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081jr3i4hjox9c5odoa.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "濃厚背脂肉汁そば",
+      "肉汁そば",
+      "天ぷらくるみそば"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-e05ffd17-20260424",
+    "name": "古民家カフェ KONOHANA",
+    "genre": "cafe",
+    "prefecture": "山梨県",
+    "city": "富士吉田市",
+    "address": "山梨県富士吉田市上吉田東7-27-1",
+    "lat": 35.456192,
+    "lng": 138.806396,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-04-24",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ck3nqo77nmwdtsva.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "富士桜ポークと甲州ワインビーフのチーズメンチカツ",
+      "忍野そばとモッツァレラチーズのジェノヴェーゼ",
+      "山梨県産 桃と桜の KONOHANA モンブラン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "acees-06c93bed-20260305",
+    "name": "みはらし亭",
+    "genre": "washoku",
+    "prefecture": "千葉県",
+    "city": "南房総市",
+    "address": "千葉県南房総市白浜町白浜623-14",
+    "lat": 34.917847,
+    "lng": 139.899963,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-03-05",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081weslxijhhd4184ud.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "刺身五種盛り",
+      "なめろう",
+      "菜の花天ぷら"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！",
+    "location_unverified": true
+  },
+  {
+    "id": "acees-46fc1979-20251211",
+    "name": "石窯パン工房TAKU",
+    "genre": "others",
+    "prefecture": "神奈川県",
+    "city": "足柄下郡湯河原町",
+    "address": "神奈川県足柄下郡湯河原町中央1-20-7",
+    "lat": 35.146908,
+    "lng": 139.111649,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2025-12-11",
+    "members": [
+      "深田竜生"
+    ],
+    "groups": [
+      "acees"
+    ],
+    "group": "acees",
+    "description": "深田竜生が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081mikvfvub24gcusgy.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "湯河原みかんあんぱん",
+      "クイニーアマン",
+      "豆乳パン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-aae76795-20241031",
+    "name": "地蔵山",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市西所沢1-16-1",
+    "lat": 35.789555,
+    "lng": 139.457123,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-31",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814fsxawj7rwahvdyw.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "肉汁うどん",
+      "冷汁うどん"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-e6fa3ac6-20241031",
+    "name": "negombo33",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市星の宮1-9-1",
+    "lat": 35.787483,
+    "lng": 139.461365,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-31",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814fsxawj7rwahvdyw.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ラムキーマ",
+      "ポークビンダルー"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-fa4e1396-20241031",
+    "name": "不思議の国のアイス",
+    "genre": "sweets",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市久米2100-26",
+    "lat": 35.780598,
+    "lng": 139.459717,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-31",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814fsxawj7rwahvdyw.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ババヘラアイス",
+      "クリーミーヨーグルトボール"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-9bb1e5d7-20241031",
+    "name": "CASUAL TEPPAN DINING STOVE",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市日吉町28-2",
+    "lat": 35.786903,
+    "lng": 139.470306,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-31",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30814fsxawj7rwahvdyw.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ポテサラ",
+      "シャインマスカットの豚バラ串",
+      "和牛A5ランクランプステーキ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-6e883927-20241017",
+    "name": "肉の日向屋",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市東町15-5",
+    "lat": 35.789143,
+    "lng": 139.472687,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-17",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081793h9a306rua6n7r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "宮崎県黒毛和牛ハンバーグ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-d7b60bef-20241017",
+    "name": "刺繍屋カフェHariii",
+    "genre": "cafe",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "埼玉県所沢市有楽町10-6",
+    "lat": 35.792557,
+    "lng": 139.467361,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-10-17",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081793h9a306rua6n7r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ホットドッグ・スープSET"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-86cf7fde-20240829",
+    "name": "ガスト 谷原店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "address": "東京都練馬区高野台4-18-6",
+    "lat": 35.748573,
+    "lng": 139.618164,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-08-29",
+    "members": [
+      "那須雄登"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "那須雄登が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081txhue7yweqnn6n8b.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-ef56a761-20240613",
+    "name": "大戸屋ごはん処 越谷南町店",
+    "genre": "washoku",
+    "prefecture": "埼玉県",
+    "city": "越谷市",
+    "address": "埼玉県越谷市南町1-4-19",
+    "lat": 35.863659,
+    "lng": 139.804276,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-06-13",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081adfp47m1gz4uincf.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-4219454e-20240530",
+    "name": "焼肉きんぐ 駒沢公園店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区駒沢5-1-3",
+    "lat": 35.6231,
+    "lng": 139.659134,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-05-30",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hxvilptw51lyv4tk.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-3ae307f9-20200106",
+    "name": "トマト&オニオン 立川店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "立川市",
+    "address": "東京都立川市砂川町1-14-1",
+    "lat": 35.721725,
+    "lng": 139.409073,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2020-01-06",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30812dy3jypmqhx00hv6.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "bishonen-13f8b364-20200106",
+    "name": "トゥックン²羽村店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "羽村市",
+    "address": "東京都羽村市五ノ神1-2-12",
+    "lat": 35.758839,
+    "lng": 139.31749,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2020-01-06",
+    "members": [
+      "浮所飛貴"
+    ],
+    "groups": [
+      "bishonen"
+    ],
+    "group": "bishonen",
+    "description": "浮所飛貴が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/30812dy3jypmqhx00hv6.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "hihijets-13c90068-20241205",
+    "name": "TOKIOフレンチルナティック",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区玉川1-1-4",
+    "lat": 35.607372,
+    "lng": 139.631805,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-12-05",
+    "members": [
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "作間龍斗が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081vc9gszgvuw1149gq.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "牛フィレのステーキフォアグラのせ",
+      "真鯛のポアレ クリームソース"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "hihijets-befef952-20241205",
+    "name": "Trattoria CIAORO",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区下目黒1-3-28",
+    "lat": 35.63435,
+    "lng": 139.713043,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2024-12-05",
+    "members": [
+      "作間龍斗"
+    ],
+    "groups": [
+      "hihijets"
+    ],
+    "group": "hihijets",
+    "description": "作間龍斗が『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081vc9gszgvuw1149gq.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "北海道産活水ダコの温かいカルパッチョ",
+      "チーズたっぷりラザニア"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
   }
 ]
