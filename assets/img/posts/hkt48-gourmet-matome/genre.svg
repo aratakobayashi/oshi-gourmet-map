@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 674" width="420" height="674" font-family="'Hiragino Sans','Noto Sans CJK JP','Noto Sans JP',sans-serif">
+<rect width="420" height="674" rx="18" fill="#F7F3EC"/>
+<text x="20" y="42" font-size="21" font-weight="800" fill="#241F1A" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif JP',serif">お店のジャンルと場所</text>
+<text x="20" y="64" font-size="12" fill="#6B6258">この記事のお店25軒を数えました</text>
+<text x="20" y="118" font-size="15" font-weight="700" fill="#241F1A">カフェ</text>
+<rect x="100" y="100" width="220" height="26" rx="8" fill="#0891b2"/>
+<text x="328" y="119" font-size="16" font-weight="800" fill="#0891b2">7軒</text>
+<text x="20" y="162" font-size="15" font-weight="700" fill="#241F1A">食事</text>
+<rect x="100" y="144" width="157" height="26" rx="8" fill="#2563eb"/>
+<text x="265" y="163" font-size="16" font-weight="800" fill="#2563eb">5軒</text>
+<text x="20" y="206" font-size="15" font-weight="700" fill="#241F1A">和食</text>
+<rect x="100" y="188" width="125" height="26" rx="8" fill="#15803d"/>
+<text x="233" y="207" font-size="16" font-weight="800" fill="#15803d">4軒</text>
+<text x="20" y="250" font-size="15" font-weight="700" fill="#241F1A">スイーツ</text>
+<rect x="100" y="232" width="125" height="26" rx="8" fill="#db2777"/>
+<text x="233" y="251" font-size="16" font-weight="800" fill="#db2777">4軒</text>
+<text x="20" y="294" font-size="15" font-weight="700" fill="#241F1A">焼肉</text>
+<rect x="100" y="276" width="94" height="26" rx="8" fill="#9a3412"/>
+<text x="202" y="295" font-size="16" font-weight="800" fill="#9a3412">3軒</text>
+<text x="20" y="338" font-size="15" font-weight="700" fill="#241F1A">居酒屋</text>
+<rect x="100" y="320" width="62" height="26" rx="8" fill="#7c3aed"/>
+<text x="170" y="339" font-size="16" font-weight="800" fill="#7c3aed">2軒</text>
+<text x="20" y="374" font-size="14" font-weight="700" fill="#6B6258">お店の場所</text>
+<rect x="20" y="388" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="406" font-size="13.5" fill="#241F1A">福岡市中央区</text><text x="192" y="406" font-size="14" font-weight="800" text-anchor="end" fill="#111827">4軒</text>
+<rect x="216" y="388" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="406" font-size="13.5" fill="#241F1A">東京 世田谷区</text><text x="388" y="406" font-size="14" font-weight="800" text-anchor="end" fill="#111827">3軒</text>
+<rect x="20" y="420" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="438" font-size="13.5" fill="#241F1A">広島 広島市中区</text><text x="192" y="438" font-size="14" font-weight="800" text-anchor="end" fill="#111827">2軒</text>
+<rect x="216" y="420" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="438" font-size="13.5" fill="#241F1A">糸島市</text><text x="388" y="438" font-size="14" font-weight="800" text-anchor="end" fill="#111827">2軒</text>
+<rect x="20" y="452" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="470" font-size="13.5" fill="#241F1A">愛知 名古屋市中村区</text><text x="192" y="470" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="216" y="452" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="470" font-size="13.5" fill="#241F1A">愛知 名古屋市中区</text><text x="388" y="470" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="20" y="484" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="502" font-size="13.5" fill="#241F1A">大阪 大阪市中央区</text><text x="192" y="502" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="216" y="484" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="502" font-size="13.5" fill="#241F1A">大阪 大阪市北区</text><text x="388" y="502" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="20" y="516" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="534" font-size="13.5" fill="#241F1A">大阪 大阪市天王寺区</text><text x="192" y="534" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="216" y="516" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="534" font-size="13.5" fill="#241F1A">北九州市小倉南区</text><text x="388" y="534" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="20" y="548" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="566" font-size="13.5" fill="#241F1A">直方市</text><text x="192" y="566" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="216" y="548" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="566" font-size="13.5" fill="#241F1A">豊前市</text><text x="388" y="566" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="20" y="580" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="598" font-size="13.5" fill="#241F1A">太宰府市</text><text x="192" y="598" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="216" y="580" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="228" y="598" font-size="13.5" fill="#241F1A">福岡市博多区</text><text x="388" y="598" font-size="14" font-weight="800" text-anchor="end" fill="#111827">1軒</text>
+<rect x="20" y="612" width="184" height="26" rx="13" fill="#fff" stroke="#E2D9CC"/>
+<text x="32" y="630" font-size="13.5" fill="#241F1A">ほか4か所</text><text x="192" y="630" font-size="14" font-weight="800" text-anchor="end" fill="#111827">4軒</text>
+</svg>
