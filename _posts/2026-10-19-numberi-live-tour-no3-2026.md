@@ -47,16 +47,12 @@ faq:
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の会場ごとの「泊まる」から、じゃらん・楽天トラベルで会場名を検索できます。遠征の交通や持ち物は「ライブ遠征の準備チェックリスト」にまとめています。
 pr: true
-techo: true
-cover_ids: numberi-361c2213-,numberi-a9a5b0f5-,numberi-lesolca-
-cover_title: Number_i ツアー巡礼帳
-cover_sub: Number_i LIVE TOUR No.III　4会場の近くの聖地
 summary:
 - 『Number_i LIVE TOUR No.III』は2026年10月24日〜2027年1月11日、4会場（2026年10月19日時点の公式発表）
 - 会場の近くにNumber_iのメンバーが行ったお店があるのは2会場。あわせて6軒を会場から近い順に載せています
 - 会場ごとに、宿の探し方（じゃらん・楽天トラベル）と、持ち込み・座席が分かるライブ参戦ガイドへの案内つき
 ---
-<div class="pf pf--techo" style="--pc:#111827">
+<div class="pf" style="--pc:#111827">
 
 
 
@@ -171,6 +167,8 @@ summary:
   <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>
   <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>
 </ul>
+
+{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}
 
 <div class="pf-cta">
   <p>Number_iのお店を、地図でぜんぶ見る</p>

@@ -50,7 +50,7 @@ faq:
 pr: true
 thumbnail_video_id: yqk_6iuc8F0
 techo: true
-cover_ids: ossampo-bef4d6a5-20251220,sixtones-f8152996-20221205,sixtones-f5615971-20221205
+cover_ids: ossampo-bef4d6a5-20251220,sixtones-ef401f76-,sixtones-lacocorico-akarenga
 cover_title: SixTONES ツアー巡礼帳
 cover_sub: MILESixTONES（スタジアムツアー）　2会場の近くの聖地
 summary:
@@ -145,6 +145,8 @@ summary:
   <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>
   <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>
 </ul>
+
+{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}
 
 <div class="pf-cta">
   <p>SixTONESのお店を、地図でぜんぶ見る</p>
