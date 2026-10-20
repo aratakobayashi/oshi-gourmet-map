@@ -1,178 +1,266 @@
 ---
 layout: post
-title: "Travis Japanの聖地巡礼・ロケ地まとめ｜出演番組・YouTubeで行った東京・横浜のご飯ほか13軒"
-date: 2026-10-18
-last_modified_at: 2026-10-18
-checked_at: 2026-10-18
-description: "Travis Japanの聖地巡礼・ロケ地13軒のまとめ。公式YouTubeのLAのバーガー大食い、ジュニアCHANNELの福岡ロケ、冠番組『Travis Japanのダンスだぜ!!』、『キントレ』『グータンヌーボ2』など出演番組のお店、七五三掛龍也が出演したドラマのロケ地を、出典ごとに分けて紹介します。"
+title: Travis Japanの聖地巡礼・ロケ地まとめ｜公式YouTube・番組・ドラマで行った東京のご飯ほか29軒
+date: '2026-10-18'
+last_modified_at: '2026-10-20'
+checked_at: '2026-10-20'
+description: Travis Japanの聖地巡礼・ロケ地29軒のまとめ。公式YouTube8軒、冠番組3軒、出演した番組13軒、出演したドラマのロケ地5軒を出典ごとに分けて紹介します。出典は『私たちが恋する理由』、『キントレ』、『めざましテレビ』など。場所は東京都14軒・山梨県3軒・千葉県3軒。お店ごとに回・出たメンバー・頼んだ物を載せ、地図でまとめて巡れます。
 group: travisjapan
 genre: まとめ
 article_type: matome
 prefecture: 東京都
-tags: [Travis Japan, トラジャ, キントレ, グータンヌーボ2, 私たちが恋する理由, 宮近海斗, 中村海人, 七五三掛龍也, 川島如恵留, 吉澤閑也, 松田元太, 松倉海斗, 聖地巡礼, ロケ地, 東京, グルメ, まとめ]
-thumbnail_video_id: zMIDFI3mKZ0
-sources:
-  - label: "Travis Japan 公式YouTubeチャンネル"
-    url: "https://www.youtube.com/@TravisJapan_official"
-  - label: "ジュニアCHANNEL（YouTube）"
-    url: "https://www.youtube.com/@juniorchannel_yt"
-  - label: "確認に使った資料：kosodate-and.net（番組・ドラマのロケ地）"
-    url: "https://kosodate-and.net/"
-  - label: "確認に使った資料：kk-kanana.hatenablog.com（ジュニアCHANNELの福岡ロケ）"
-    url: "https://kk-kanana.hatenablog.com/"
-summary:
-  - "Travis Japanの聖地13軒。公式YouTube 1軒、ジュニアCHANNEL 2軒、冠番組1軒、出演番組5軒、ドラマのロケ地4軒"
-  - "メンバーが番組やYouTubeで行ったお店と、七五三掛龍也が出演したドラマの撮影に使われたお店を分けて載せています"
-  - "東京が6軒（港区2・渋谷区2・中央区1・千代田区1）。ほかに横浜中華街3軒・福岡2軒・埼玉1軒と、アメリカのサンタモニカ1軒"
-  - "お店ごとに回・出たメンバー・一緒に出た人を載せ、地図でまとめて巡れる"
+tags:
+- Travis Japan
+- 私たちが恋する理由
+- キントレ
+- めざましテレビ
+- 帰れマンデー見っけ隊!!
+- 松倉海斗
+- 宮近海斗
+- 七五三掛龍也
+- 松田元太
+- 川島如恵留
+- 吉澤閑也
+- 聖地巡礼
+- ロケ地
+- グルメ
+- まとめ
+- 東京
 shop_ids:
-  - 8d12f319
-  - travisjapan-6361b2d6-
-  - travisjapan-a1fb9d76-
-  - travisjapan-1c19dae6-
+- travisjapan-a737d496-20260607
+- travisjapan-af1ce5e1-20260603
+- travisjapan-339a01bf-20231024
+- travisjapan-c4f938eb-20210419
+- travisjapan-1d6c7c86-20191128
+- travisjapan-6361b2d6-
+- travisjapan-a1fb9d76-
+- 8d12f319
+- kingprince-729d85c4-
+- travisjapan-1c19dae6-
+- b1fd2358
+- travisjapan-ab9e4b91-20251025
+- travisjapan-e75703c7-20251025
+- travisjapan-75f9db77-20240610
+- sixtones-le_bois-
+- sixtones-park_stand_tokyo-
+- travisjapan-29b885e6-20240521
+- kingprince-1953138f-
+- kingprince-78afc2ee-
+- travisjapan-mercer_brunch_roppon-
+- travisjapan-mugen-
+- travisjapan-9e95e49e-
+- travisjapan-c6b35fc4-
+- travisjapan-4e89e274-
+- kingprince-671d5e14-
+- travisjapan-monkey_cafe-
+- travisjapan-mid-
+- travisjapan-e2b906f2-
+- travisjapan-bf20b0e5-
+faq:
+- q: Travis Japanの聖地巡礼・ロケ地のお店はどこにありますか？
+  a: 29軒のうち、東京都14軒、山梨県3軒、千葉県3軒です。市区町村では港区4軒、江東区3軒、船橋市3軒が多いです。
+- q: Travis Japanが行ったお店はどの番組やYouTubeの回ですか？
+  a: 『私たちが恋する理由』4軒、『キントレ』3軒、『めざましテレビ』2軒、『帰れマンデー見っけ隊!!』2軒、『ジュニアCHANNEL（Travis Japan）』2軒、公式YouTubeの回が8軒です。お店ごとに回と出たメンバーを載せています。
+- q: メンバーが頼んだ物は分かりますか？
+  a: 11軒で分かります。le bois（ル・ボア）のプラントプリン・クロッシュ(オリジナル)、PARK STAND TOKYO 清澄白河のバスクチーズケーキ・プレーンスコーン（クリーム&ジャム）、渡辺食品の串ダンゴなどです。出典の番組・動画・ファンのロケ地ブログに書かれている物だけを載せています。
+- q: Travis Japanのメンバー別にお店を探せますか？
+  a: 記事の冒頭の「メンバーで選ぶ」から、メンバーごとに地図と一覧で見られます。お店の数が多いのは松倉海斗（10軒）、宮近海斗（8軒）、七五三掛龍也（8軒）です。
+- q: Travis Japanのお店をまとめて地図で見られますか？
+  a: 「お店を探す」でTravis Japanを選ぶと、この記事の29軒を地図で見られます。
+pr: true
+thumbnail_video_id: v2XEm5CI-Uc
+techo: true
+cover_ids: travisjapan-a737d496-20260607,travisjapan-af1ce5e1-20260603,8d12f319
+cover_title: Travis Japan 聖地巡礼帳
+cover_sub: 公式YouTube・番組・ドラマで行った29軒
+courses:
+- title: 港区の3軒を歩く
+  stops:
   - travisjapan-mugen-
   - travisjapan-mercer_brunch_roppon-
-  - travisjapan-9e95e49e-
-  - travisjapan-c6b35fc4-
-  - travisjapan-4e89e274-
-  - travisjapan-bf20b0e5-
-  - travisjapan-mid-
-  - travisjapan-e2b906f2-
-  - travisjapan-monkey_cafe-
-faq:
-  - q: "Travis Japanが行ったお店はどこですか？"
-    a: "公式YouTubeの「【大食い】LA人気バーガーを40個食べ尽くせ!!」（2024年3月）でサンタモニカのBurger Lounge、『グータンヌーボ2』（2024年7月）で松田元太が赤坂の焼肉MUGEN 赤坂見附店、『あの頃からわたしたちは』（2025年3月）で松田元太・松倉海斗が六本木のMERCER BRUNCH ROPPONGI、『キントレ』（2026年2月）で宮近海斗が横浜中華街の3軒に行っています。"
-  - q: "東京でTravis Japanの聖地を巡るならどこがいいですか？"
-    a: "六本木のMERCER BRUNCH ROPPONGIと赤坂見附の焼肉MUGEN 赤坂見附店は、どちらも松田元太が番組で訪れたお店で、直線で約1.2kmの近さです。七五三掛龍也が出演したドラマのロケ地は、代官山・代々木八幡・人形町・秋葉原にあります。"
-  - q: "七五三掛龍也が出演したドラマのロケ地はどこですか？"
-    a: "『私たちが恋する理由』（2024年）で、第6話の秋葉原の韓無量 秋葉原店、第7話のmidダイニングと人形町 鮒よし、第9話の代官山のMonkey Cafeが、撮影に使われたお店として登録されています。メンバーが食べに行ったお店ではなく、ドラマの場面に使われたお店です。"
-  - q: "『キントレ』で宮近海斗が行ったお店はどこですか？"
-    a: "「痩せの大食い三銃士」（2026年2月28日放送）で、永瀬廉らと横浜中華街を食べ歩き、王府井 本店の焼き小籠包、中華街餃子館の大鶏排とカエルの丸揚げ、酔楼の鳥の巣カタ焼きそばを食べています。"
-  - q: "YouTubeの回のお店はどこですか？"
-    a: "公式YouTubeの「【大食い】LA人気バーガーを40個食べ尽くせ!!」（2024年3月）はサンタモニカのBurger Lounge、ジュニアCHANNELの「【福岡絶品グルメ】少数派だけが食べられるサバイバル！」（2019年9月）は福岡のもつ鍋 仙頭とされています。どちらも店名はファンのブログによるものです。"
-  - q: "Travis Japanのお店をまとめて地図で見られますか？"
-    a: "「お店を探す」でTravis Japanを選ぶと、この記事の13軒を地図で見られます。"
-pr: true
-techo: true
-cover_ids: "8d12f319,travisjapan-mugen-,travisjapan-mercer_brunch_roppon-"
-cover_title: "Travis Japan 聖地巡礼帳"
-cover_sub: "出演番組・YouTube・ドラマの13軒"
-courses:
-  - title: "六本木から赤坂見附へ：松田元太が番組で訪れた2軒"
-    stops: [travisjapan-mercer_brunch_roppon-, travisjapan-mugen-]
-    labels: ["六本木 MERCER BRUNCH", "赤坂見附 焼肉MUGEN"]
-    legs: [""]
-stay_area: "赤坂"
-stay_note: "六本木から赤坂見附へのコースは、赤坂見附で終わります。遠征で来るなら、赤坂の近くに泊まると帰りやすくなります。"
+  - travisjapan-af1ce5e1-20260603
+  labels:
+  - 焼肉MUGEN 赤坂見附店
+  - 'MERCER BRUNCH '
+  - 入鹿TOKYO 六本木
+  legs:
+  - ''
+  - ''
+stay_area: 港区
+stay_note: 港区の3軒を歩くコースは、焼肉MUGEN 赤坂見附店から始めます。遠征で来るなら、港区の近くに泊まると朝から回りやすくなります。
 stay_inline: true
+summary:
+- Travis Japanの聖地29軒。公式YouTube8軒、冠番組3軒、出演した番組13軒、出演したドラマのロケ地5軒
+- 場所は東京都14軒、山梨県3軒、千葉県3軒、市区町村では港区・江東区・船橋市が多い
+- 頼んだ物が分かるお店は11軒。お店ごとに回・出たメンバー・頼んだ物を載せ、地図でまとめて巡れる
+- 回の時期は2019年から2026年まで
 ---
 <div class="pf pf--techo" style="--pc:#0d9488">
 
-<p><strong>宮近海斗・中村海人・七五三掛龍也・川島如恵留・吉澤閑也・松田元太・松倉海斗</strong>の7人のTravis Japan。公式YouTubeチャンネルではアメリカ・ロサンゼルスでバーガーの大食いに挑み、ジュニアのころのYouTube「ジュニアCHANNEL」では福岡ロケの回があります。</p>
 
-<p>ほかにも、冠番組『Travis Japanのダンスだぜ!!』の埼玉ロケ、宮近海斗の『キントレ』、松田元太の『グータンヌーボ2』、松田元太・松倉海斗の『あの頃からわたしたちは』など出演した番組のお店と、七五三掛龍也が出演したドラマ『私たちが恋する理由』の撮影に使われたお店があります。この記事では<strong>13軒</strong>を、出典ごとに分けてまとめました。</p>
+
+<p><strong>Travis Japan</strong>（松倉海斗・宮近海斗・七五三掛龍也・松田元太・川島如恵留・吉澤閑也・中村海人）の聖地巡礼・ロケ地を、<strong>29軒</strong>まとめました。公式YouTube8軒、冠番組3軒、出演した番組13軒、出演したドラマのロケ地5軒。</p>
+
+<p>出典で多いのは『私たちが恋する理由』、『キントレ』、『めざましテレビ』です。お店ごとに、どの回で誰が行ったか・頼んだ物（出典に書かれている物だけ）・場所を載せています。場所は東京都14軒・山梨県3軒・千葉県3軒で、市区町村では港区・江東区・船橋市が多いです。行きたいお店は保存して、地図でまとめて巡れます。</p>
 
 <div class="cnav">
 <p class="cnav__h">出典で選ぶ</p>
-<div class="cnav__list"><a href="#src1">{% include chico.html kind="yt" %}<span>公式YouTube「Travis Japan」<small>1軒</small></span></a><a href="#src2">{% include chico.html kind="yt" %}<span>YouTube「ジュニアCHANNEL」<small>2軒</small></span></a><a href="#src3">{% include chico.html kind="tv" %}<span>冠番組『Travis Japanのダンスだぜ!!』<small>1軒</small></span></a><a href="#src4">{% include chico.html kind="guest" %}<span>出演した番組<small>5軒</small></span></a><a href="#src5">{% include chico.html kind="drama" %}<span>メンバーが出演したドラマのロケ地<small>4軒</small></span></a></div>
+<div class="cnav__list"><a href="#src-youtube">{% include chico.html kind="yt" %}<span>公式YouTube<small>8軒</small></span></a><a href="#src-own_tv">{% include chico.html kind="tv" %}<span>冠番組<small>3軒</small></span></a><a href="#src-guest_tv">{% include chico.html kind="guest" %}<span>出演した番組<small>13軒</small></span></a><a href="#src-drama">{% include chico.html kind="drama" %}<span>出演したドラマのロケ地<small>5軒</small></span></a></div>
 </div>
+
 {% include matome-members.html group="travisjapan" %}
 
 <h2>はじめての3軒：編集部が選ぶならここから</h2>
-<p>13軒のなかから、東京・横浜にあって、メンバーが番組で訪れたお店を3つ選びました。</p>
+
+<p>29軒のなかから、どの回で行ったか・頼んだ物がはっきりしていて、写真のあるお店を3つ選びました。</p>
 <div class="picks">
-{% include pick.html id="travisjapan-mercer_brunch_roppon-" no="其の一" why="日本テレビ『あの頃からわたしたちは』（2025年3月9日放送）で、松田元太・松倉海斗がtimeleszの松島聡と同窓会をしたレストラン。お店は東京の六本木です。" %}
-{% include pick.html id="travisjapan-mugen-" no="其の二" why="『グータンヌーボ2』（2024年7月1日放送）で、松田元太がウエンツ瑛士・満島真之介と焼肉を食べたお店。お店は東京の赤坂（赤坂見附）です。" %}
-{% include pick.html id="travisjapan-c6b35fc4-" no="其の三" why="『キントレ』の「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗が永瀬廉らと訪れ、大鶏排やカエルの丸揚げを食べたお店。お店は横浜中華街です。" %}
+
+{% include pick.html id="travisjapan-a737d496-20260607" no="其の一" why="「#534【English!!】自発光の友達(?)が頑張った日」／松倉海斗／アイスコーヒー ミディアム。お店は千代田区 神田錦町です。" %}
+
+{% include pick.html id="travisjapan-af1ce5e1-20260603" no="其の二" why="「#533【新企画!!】自発光に友達100人出来るまで…の日」／松倉海斗／アルティメットポルチーニ醤油らぁ麺・トリュフを添えた濃厚卵かけご飯。お店は港区 六本木です。" %}
+
+{% include pick.html id="8d12f319" no="其の三" why="「Travis Japan【大食い】LA人気バーガーを40個食べ尽くせ!!」／川島如恵留・松倉海斗・宮近海斗・吉澤閑也ほか／バーガー。お店はサンタモニカです。" %}
+
 </div>
 
-<h2>半日で巡るなら：六本木から赤坂見附へ</h2>
-<p>松田元太が出た2つの番組のお店は、六本木と赤坂見附にあります。2つの番組のお店を続けて回れます。</p>
+<h2>半日で巡るなら：港区の3軒を歩く</h2>
+
+<p>港区にある3軒は、互いに歩ける距離にあります。焼肉MUGEN 赤坂見附店、MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）、入鹿TOKYO 六本木の順に回れます。</p>
+
 <!-- stops:1 -->
 <ol class="stops">
-  <li><a href="/shops/travisjapan-mercer-brunch-roppon/"><b>六本木 MERCER BRUNCH</b><span>港区六本木／松田元太・松倉海斗</span></a><small>次のお店まで直線で約1.2km</small></li>
-  <li><a href="/shops/travisjapan-mugen/"><b>赤坂見附 焼肉MUGEN</b><span>港区赤坂／松田元太</span></a></li>
 </ol>
-<p class="note">距離はお店どうしの直線距離です。営業日は各お店の公式情報で確かめてください。</p>
 <!-- /stops -->
-
-<div class="pf-quote"><p>13軒のうち、メンバーがお店で食べたことが分かるのは番組とYouTubeの回で、ドラマの4軒は七五三掛龍也が出演した『私たちが恋する理由』の撮影に使われたお店です。テレビ番組のお店は、松田元太・松倉海斗・宮近海斗が1〜2人で、ほかのグループのメンバーや芸能人と一緒に出た回が中心です。7人そろった回は、公式YouTubeのロサンゼルスの大食いの回です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
 
 {% include stay-inline.html %}
 
-<h2 id="src1">{% include chico.html kind="yt" %}公式YouTube「Travis Japan」で行ったお店</h2>
-<p>Travis Japanの公式YouTubeチャンネルの回です。日付は動画の公開年月です。</p>
+<div class="pf-quote"><p>29軒のうち、公式YouTubeが8軒、冠番組が3軒、出演した番組が13軒、出演したドラマのロケ地が5軒。回の時期は2019年から2026年までで、場所は東京都が14軒と最も多く、山梨県が3軒です。メンバーでは松倉海斗・宮近海斗・七五三掛龍也の回が多く、頼んだ物まで分かるお店は11軒です。</p><footer>— 推しグルメ巡礼MAP 編集部</footer></div>
+
+<h2>ジャンルと場所で見る</h2>
+
+<figure class="fig"><img src="/assets/img/posts/travisjapan-gourmet-matome/genre.svg" alt="お店のジャンルと場所：その他7軒、食事7軒、カフェ5軒、中華3軒、ラーメン3軒、和食2軒、焼肉1軒、スイーツ1軒。東京都14軒、山梨県3軒、千葉県3軒、神奈川県3軒、福岡県2軒" width="420" height="762" loading="lazy" decoding="async"><figcaption>この記事の29軒を数えました（ジャンルはお店のデータの分類）</figcaption></figure>
+
+<figure class="fig"><img src="/assets/img/posts/travisjapan-gourmet-matome/wards.svg" alt="お店の場所の図（東京23区のタイル地図）" width="420" height="400" loading="lazy" decoding="async"><figcaption>東京23区は1区＝1マス。色が濃いほどお店が多い</figcaption></figure>
+
+<h2 id="src-youtube">{% include chico.html kind="yt" %}公式YouTubeで行ったお店（8軒）</h2>
+
+<p>公式YouTubeの回です。新しい回から順に並べ、日付は動画の公開年月です。</p>
+
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="8d12f319" %}<span class="wr__k">2024.3</span><b class="wr__name">Burger Lounge サンタモニカ</b><span class="wr__t">【大食い】LA人気バーガーを40個食べ尽くせ!!／7人。ファンのブログで、この回のお店とされるハンバーガー店（アメリカ・サンタモニカ）</span>{% include wr-close.html id="8d12f319" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-a737d496-20260607" %}<span class="wr__k">2026.6</span><b class="wr__name">think coffee</b><span class="wr__t">「#534【English!!】自発光の友達(?)が頑張った日」／松倉海斗／アイスコーヒー ミディアム（千代田区 神田錦町）</span>{% include wr-close.html id="travisjapan-a737d496-20260607" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-af1ce5e1-20260603" %}<span class="wr__k">2026.6</span><b class="wr__name">入鹿TOKYO 六本木</b><span class="wr__t">「#533【新企画!!】自発光に友達100人出来るまで…の日」／松倉海斗／アルティメットポルチーニ醤油らぁ麺・トリュフを添えた濃厚卵かけご飯（港区 六本木）</span>{% include wr-close.html id="travisjapan-af1ce5e1-20260603" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-339a01bf-20231024" %}<span class="wr__k">2023.10</span><b class="wr__name">THE ROOF BBQ GARDEN</b><span class="wr__t">「Travis Japan【京本会】SixTONESさんとコラボかな？ついにYouTube…」／宮近海斗・七五三掛龍也・松倉海斗（港区 北青山）</span>{% include wr-close.html id="travisjapan-339a01bf-20231024" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-c4f938eb-20210419" %}<span class="wr__k">2021.4</span><b class="wr__name">ロクシタン・カフェ 渋谷</b><span class="wr__t">「Travis Japan【恋を呼ぶハーブ】恋の媚薬ヴァーベナで彼女をデートに誘う!!」／宮近海斗・中村海人・七五三掛龍也・川島如恵留ほか（渋谷区 道玄坂）</span>{% include wr-close.html id="travisjapan-c4f938eb-20210419" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-1d6c7c86-20191128" %}<span class="wr__k">2019.11</span><b class="wr__name">ステーキハウス芦屋</b><span class="wr__t">「Travis Japan【ガチ本気】本音でステーキなお食事会」／宮近海斗・中村海人・七五三掛龍也・川島如恵留ほか（京都市 東山区清水）</span>{% include wr-close.html id="travisjapan-1d6c7c86-20191128" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-6361b2d6-" %}<span class="wr__k"></span><b class="wr__name">もつ鍋 仙頭</b><span class="wr__t">「Travis Japan【福岡絶品グルメ】少数派だけが食べられるサバイバル！」／松倉海斗（福岡市 中央区赤坂）</span>{% include wr-close.html id="travisjapan-6361b2d6-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-a1fb9d76-" %}<span class="wr__k"></span><b class="wr__name">中西食堂</b><span class="wr__t">「Travis Japan 福岡旅 志賀島 さざえ丼」／松田元太・川島如恵留（福岡市 東区志賀島）</span>{% include wr-close.html id="travisjapan-a1fb9d76-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="8d12f319" %}<span class="wr__k"></span><b class="wr__name">Burger Lounge サンタモニカ</b><span class="wr__t">「Travis Japan【大食い】LA人気バーガーを40個食べ尽くせ!!」／川島如恵留・松倉海斗・宮近海斗・吉澤閑也ほか／バーガー（サンタモニカ）</span>{% include wr-close.html id="8d12f319" %}</li>
+
 </ul>
 
-<h2 id="src2">{% include chico.html kind="yt" %}YouTube「ジュニアCHANNEL」で行ったお店</h2>
-<p>ジュニアのころ、YouTubeの「ジュニアCHANNEL」で公開された2019年の福岡ロケの回です。どちらも、店名はファンのブログによるものです。</p>
+<h2 id="src-own_tv">{% include chico.html kind="tv" %}冠番組で行ったお店（3軒）</h2>
+
+<p>新しい回から順に並べています。日付は放送年月です。</p>
+
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-6361b2d6-" %}<span class="wr__k">2019.9</span><b class="wr__name">もつ鍋 仙頭</b><span class="wr__t">【福岡絶品グルメ】少数派だけが食べられるサバイバル！／ファンのブログで、この回に松倉海斗がもつ鍋を食べたお店とされる（福岡市中央区 赤坂）</span>{% include wr-close.html id="travisjapan-6361b2d6-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-a1fb9d76-" %}<span class="wr__k">2019</span><b class="wr__name">中西食堂</b><span class="wr__t">2019年の福岡ロケで登場した、志賀島のさざえ丼の食堂。どの回か、誰が食べたかは確かめきれていません（福岡市東区 志賀島）</span>{% include wr-close.html id="travisjapan-a1fb9d76-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="kingprince-729d85c4-" %}<span class="wr__k"></span><b class="wr__name">喫茶いずみ</b><span class="wr__t">『キントレ（キントレガイドブック）』／松倉海斗（船橋市 夏見台）</span>{% include wr-close.html id="kingprince-729d85c4-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-1c19dae6-" %}<span class="wr__k"></span><b class="wr__name">ラーメンどでん</b><span class="wr__t">『Travis Japanのダンスだぜ!!』（川口市 西川口）</span>{% include wr-close.html id="travisjapan-1c19dae6-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="b1fd2358" %}<span class="wr__k"></span><b class="wr__name">下鴨茶寮</b><span class="wr__t">『旅するSnow Man』／宮近海斗・中村海人・七五三掛龍也・川島如恵留ほか（京都市 左京区下鴨宮河町）</span>{% include wr-close.html id="b1fd2358" %}</li>
+
 </ul>
 
-<h2 id="src3">{% include chico.html kind="tv" %}冠番組『Travis Japanのダンスだぜ!!』で行ったお店</h2>
-<p>シーズン1第1話の埼玉ロケで登場したお店です。どのメンバーが行ったかは、確かめた資料に書かれていません。</p>
+<h2 id="src-guest_tv">{% include chico.html kind="guest" %}出演した番組で行ったお店（13軒）</h2>
+
+<p>新しい回から順に並べています。日付は放送年月です。</p>
+
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-1c19dae6-" %}<span class="wr__k">S1</span><b class="wr__name">ラーメンどでん</b><span class="wr__t">シーズン1第1話の埼玉ロケで登場したラーメン店（川口市 西川口）</span>{% include wr-close.html id="travisjapan-1c19dae6-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-ab9e4b91-20251025" %}<span class="wr__k">2025.10</span><b class="wr__name">駄菓子屋リュウ君の店</b><span class="wr__t">『キントレ（日本テレビ）』／松倉海斗／ギャラクシー（船橋市 本町）</span>{% include wr-close.html id="travisjapan-ab9e4b91-20251025" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-e75703c7-20251025" %}<span class="wr__k">2025.10</span><b class="wr__name">ラーメン＆BAR 963（くろさん）</b><span class="wr__t">『キントレ（日本テレビ）』／松倉海斗（船橋市 本町）</span>{% include wr-close.html id="travisjapan-e75703c7-20251025" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-75f9db77-20240610" %}<span class="wr__k">2024.6</span><b class="wr__name">寿司華</b><span class="wr__t">『帰れマンデー見っけ隊!!（テレビ朝日）』／松田元太／華グラタン・芽ネギ（富士吉田市 上吉田東）</span>{% include wr-close.html id="travisjapan-75f9db77-20240610" %}</li>
+
+  <li class="wr">{% include wr-open.html id="sixtones-le_bois-" %}<span class="wr__k">2024.5</span><b class="wr__name">le bois（ル・ボア）</b><span class="wr__t">『めざましテレビ』／宮近海斗／プラントプリン・クロッシュ(オリジナル)（江東区 三好）</span>{% include wr-close.html id="sixtones-le_bois-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="sixtones-park_stand_tokyo-" %}<span class="wr__k">2024.5</span><b class="wr__name">PARK STAND TOKYO 清澄白河</b><span class="wr__t">『めざましテレビ』／宮近海斗／バスクチーズケーキ・プレーンスコーン（クリーム&amp;ジャム）（江東区 清澄）</span>{% include wr-close.html id="sixtones-park_stand_tokyo-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-29b885e6-20240521" %}<span class="wr__k">2024.5</span><b class="wr__name">茶々工房 Kiyosumi</b><span class="wr__t">『めざましテレビ（フジテレビ）』／宮近海斗／パンケーキ 抹茶バター・抹茶カスタードクリーム・抹茶スパイスクリーム（江東区 三好）</span>{% include wr-close.html id="travisjapan-29b885e6-20240521" %}</li>
+
+  <li class="wr">{% include wr-open.html id="kingprince-1953138f-" %}<span class="wr__k"></span><b class="wr__name">渡辺食品</b><span class="wr__t">『帰れマンデー見っけ隊!!』／松田元太／串ダンゴ（南都留郡 忍野村忍草）</span>{% include wr-close.html id="kingprince-1953138f-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="kingprince-78afc2ee-" %}<span class="wr__k"></span><b class="wr__name">蔵寿し</b><span class="wr__t">『帰れマンデー見っけ隊!!』／松田元太（富士吉田市 下吉田）</span>{% include wr-close.html id="kingprince-78afc2ee-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-mercer_brunch_roppon-" %}<span class="wr__k"></span><b class="wr__name">MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）</b><span class="wr__t">『あの頃からわたしたちは』／松田元太・松倉海斗（港区 六本木）</span>{% include wr-close.html id="travisjapan-mercer_brunch_roppon-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-mugen-" %}<span class="wr__k"></span><b class="wr__name">焼肉MUGEN 赤坂見附店</b><span class="wr__t">『グータンヌーボ2』／松田元太（港区 赤坂）</span>{% include wr-close.html id="travisjapan-mugen-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-9e95e49e-" %}<span class="wr__k"></span><b class="wr__name">王府井 本店（わんふーちん）</b><span class="wr__t">『キントレ』／宮近海斗／正宗生煎包（横浜市 中区山下町）</span>{% include wr-close.html id="travisjapan-9e95e49e-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-c6b35fc4-" %}<span class="wr__k"></span><b class="wr__name">中華街餃子館</b><span class="wr__t">『キントレ』／宮近海斗／大鶏排・カエルの一本丸揚げ（横浜市 中区山下町）</span>{% include wr-close.html id="travisjapan-c6b35fc4-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-4e89e274-" %}<span class="wr__k"></span><b class="wr__name">酔楼（スイロウ）</b><span class="wr__t">『キントレ』／宮近海斗（横浜市 中区山下町）</span>{% include wr-close.html id="travisjapan-4e89e274-" %}</li>
+
 </ul>
 
-<h2 id="src4">{% include chico.html kind="guest" %}出演した番組で行ったお店</h2>
-<h3>『グータンヌーボ2』『あの頃からわたしたちは』：松田元太</h3>
+<h2 id="src-drama">{% include chico.html kind="drama" %}出演したドラマのロケ地で行ったお店（5軒）</h2>
+
+<p>メンバーが出演したドラマの撮影に使われたお店です。食べに行ったお店ではなく、場面に使われたお店です。</p>
+
 <ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-mugen-" %}<span class="wr__k">2024.7</span><b class="wr__name">焼肉MUGEN 赤坂見附店</b><span class="wr__t">『グータンヌーボ2』（2024年7月1日放送）／松田元太とウエンツ瑛士・満島真之介が焼肉（港区 赤坂）</span>{% include wr-close.html id="travisjapan-mugen-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-mercer_brunch_roppon-" %}<span class="wr__k">2025.3</span><b class="wr__name">MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）</b><span class="wr__t">『あの頃からわたしたちは』（2025年3月9日放送）／かつての「Sexy松」の松田元太・松倉海斗が、timeleszの松島聡と同窓会（港区 六本木）</span>{% include wr-close.html id="travisjapan-mercer_brunch_roppon-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="kingprince-671d5e14-" %}<span class="wr__k"></span><b class="wr__name">関根精肉店 八王子店</b><span class="wr__t">ドラマ『東京タワー』の撮影に使われたお店（八王子市 横山町）</span>{% include wr-close.html id="kingprince-671d5e14-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-monkey_cafe-" %}<span class="wr__k"></span><b class="wr__name">Monkey Cafe（モンキーカフェ）</b><span class="wr__t">ドラマ『私たちが恋する理由』の撮影に使われたお店（渋谷区 猿楽町）</span>{% include wr-close.html id="travisjapan-monkey_cafe-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-mid-" %}<span class="wr__k"></span><b class="wr__name">midダイニング</b><span class="wr__t">ドラマ『私たちが恋する理由』の撮影に使われたお店（渋谷区 元代々木町）</span>{% include wr-close.html id="travisjapan-mid-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-e2b906f2-" %}<span class="wr__k"></span><b class="wr__name">人形町 鮒よし</b><span class="wr__t">ドラマ『私たちが恋する理由』の撮影に使われたお店（中央区 日本橋人形町）</span>{% include wr-close.html id="travisjapan-e2b906f2-" %}</li>
+
+  <li class="wr">{% include wr-open.html id="travisjapan-bf20b0e5-" %}<span class="wr__k"></span><b class="wr__name">韓無量 秋葉原店（カンムリョウ）</b><span class="wr__t">ドラマ『私たちが恋する理由』の撮影に使われたお店（千代田区 外神田）</span>{% include wr-close.html id="travisjapan-bf20b0e5-" %}</li>
+
 </ul>
 
-<h3>『キントレ』：宮近海斗の横浜中華街</h3>
-<p>「痩せの大食い三銃士」（2026年2月28日放送）で、宮近海斗がKing &amp; Princeの永瀬廉らと横浜中華街を食べ歩いた回です。</p>
-<ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-9e95e49e-" %}<span class="wr__k">2026.2</span><b class="wr__name">王府井 本店（わんふーちん）</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／焼き小籠包（横浜中華街）</span><span class="wr__more"><span class="wr__oi">頼んだ物：正宗生煎包</span></span>{% include wr-close.html id="travisjapan-9e95e49e-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-c6b35fc4-" %}<span class="wr__k">2026.2</span><b class="wr__name">中華街餃子館</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗と永瀬廉ら／大鶏排、カエルの丸揚げ（横浜中華街）</span><span class="wr__more"><span class="wr__oi">頼んだ物：カエルの一本丸揚げ</span></span>{% include wr-close.html id="travisjapan-c6b35fc4-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-4e89e274-" %}<span class="wr__k">2026.2</span><b class="wr__name">酔楼（スイロウ）</b><span class="wr__t">『キントレ』痩せの大食い三銃士／宮近海斗／鳥の巣カタ焼きそば（横浜中華街）</span>{% include wr-close.html id="travisjapan-4e89e274-" %}</li>
-</ul>
-
-<h2 id="src5">{% include chico.html kind="drama" %}メンバーが出演したドラマのロケ地</h2>
-<p>七五三掛龍也が出演したドラマ『私たちが恋する理由』（2024年）の撮影に使われたお店です。メンバーが食べに行ったお店ではなく、ドラマの場面に使われたお店です。ロケ地の特定はファンのブログによるものです。</p>
-<ul class="wrs">
-  <li class="wr">{% include wr-open.html id="travisjapan-bf20b0e5-" %}<span class="wr__k">2024</span><b class="wr__name">韓無量 秋葉原店（カンムリョウ）</b><span class="wr__t">第6話／同期3人（久間田琳加・七五三掛龍也・齊藤なぎさ）が焼肉を食べる場面（千代田区 外神田 秋葉原）</span>{% include wr-close.html id="travisjapan-bf20b0e5-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-mid-" %}<span class="wr__k">2024</span><b class="wr__name">midダイニング</b><span class="wr__t">第7話／坂元（七五三掛龍也）と絢香（山崎紘菜）がカフェを訪れる場面（渋谷区 元代々木町）</span>{% include wr-close.html id="travisjapan-mid-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-e2b906f2-" %}<span class="wr__k">2024</span><b class="wr__name">人形町 鮒よし</b><span class="wr__t">第7話／坂元（七五三掛龍也）と絢香（山崎紘菜）が居酒屋を訪れる場面（中央区 日本橋人形町）</span>{% include wr-close.html id="travisjapan-e2b906f2-" %}</li>
-  <li class="wr">{% include wr-open.html id="travisjapan-monkey_cafe-" %}<span class="wr__k">2024</span><b class="wr__name">Monkey Cafe（モンキーカフェ）</b><span class="wr__t">第9話／坂元（七五三掛龍也）と絢香（山崎紘菜）の初デートの場面（渋谷区 猿楽町 代官山）</span>{% include wr-close.html id="travisjapan-monkey_cafe-" %}</li>
-</ul>
-
-<h2>ジャンルと場所</h2>
-<figure class="fig"><img src="/assets/img/posts/travisjapan-gourmet-matome/genre.svg" alt="お店のジャンルと場所：食事6軒、中華3軒、カフェ2軒、焼肉1軒、ラーメン1軒。東京都6軒（港区2軒、渋谷区2軒、中央区1軒、千代田区1軒）、神奈川県3軒（横浜中華街）、福岡県2軒、埼玉県1軒、アメリカ1軒" width="420" height="502" loading="lazy" decoding="async"><figcaption>この記事の13軒を数えました（ジャンルは推しグルメ巡礼MAPの分類）</figcaption></figure>
-
-<h2>はじめて見るならこの2本</h2>
-<p>お店の出てくるYouTubeの回です（タップすると再生します）。</p>
-<div class="pf-videos">
-  <figure><button type="button" class="yt" data-yt="zMIDFI3mKZ0" aria-label="LA人気バーガーを40個食べ尽くせを再生"><img src="https://i.ytimg.com/vi_webp/zMIDFI3mKZ0/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>Burger Lounge サンタモニカ</b>【大食い】LA人気バーガーを40個食べ尽くせ!!（2024年3月・公式YouTube）</figcaption></figure>
-  <figure><button type="button" class="yt" data-yt="49CwXq_NElE" aria-label="福岡絶品グルメ 少数派だけが食べられるサバイバルを再生"><img src="https://i.ytimg.com/vi_webp/49CwXq_NElE/hqdefault.webp" alt="" width="480" height="360" loading="lazy" decoding="async"><span class="play"></span></button><figcaption><b>もつ鍋 仙頭</b>【福岡絶品グルメ】少数派だけが食べられるサバイバル！（2019年9月・ジュニアCHANNEL）</figcaption></figure>
-</div>
-
-<h2>エリアで巡るなら</h2>
-<figure class="fig"><img src="/assets/img/posts/travisjapan-gourmet-matome/wards.svg" alt="お店の場所の図。東京23区は1区＝1マスの地図で、港区2軒、渋谷区2軒、千代田区1軒、中央区1軒など。23区の外は神奈川県3軒、埼玉県1軒、そのほかの道府県3軒" width="420" height="602" loading="lazy" decoding="async"><figcaption>この記事のお店を区・地域ごとに数えた図。東京23区は1区＝1マス（位置はおおよそ）</figcaption></figure>
-<p>ドラマのロケ地は、撮影に使われたお店です。行く前に各お店の公式情報で営業日を確かめてください。</p>
+<h2>エリアで巡る</h2>
 <ul>
-  <li><strong>六本木・赤坂</strong>：MERCER BRUNCH ROPPONGI（六本木4丁目）と焼肉MUGEN 赤坂見附店（赤坂見附駅 徒歩3分）。どちらも松田元太が番組で訪れたお店です。</li>
-  <li><strong>代官山・代々木八幡</strong>：『私たちが恋する理由』のMonkey Cafe（代官山駅 徒歩5分）とmidダイニング（代々木八幡駅 徒歩7分）。</li>
-  <li><strong>人形町・秋葉原</strong>：『私たちが恋する理由』の人形町 鮒よし（人形町駅 徒歩4分）と韓無量 秋葉原店（秋葉原駅 徒歩2分）。</li>
-  <li><strong>横浜中華街</strong>：『キントレ』の王府井 本店（元町・中華街駅 徒歩7分）・中華街餃子館・酔楼（どちらも日本大通り駅 徒歩8分）。</li>
-  <li><strong>西川口</strong>：『Travis Japanのダンスだぜ!!』のラーメンどでん（西川口駅 徒歩1分）。</li>
-  <li><strong>福岡</strong>：ジュニアCHANNELの福岡ロケのもつ鍋 仙頭（赤坂駅 徒歩1分）と、志賀島の中西食堂。</li>
-  <li><strong>アメリカ・サンタモニカ</strong>：公式YouTubeのBurger Lounge。</li>
+
+  <li><strong>港区</strong>（東京都・4軒）：MERCER BRUNCH ROPPONGI（マーサーブランチ 六本木）、焼肉MUGEN 赤坂見附店、THE ROOF BBQ GARDEN、入鹿TOKYO 六本木</li>
+
+  <li><strong>江東区</strong>（東京都・3軒）：le bois（ル・ボア）、PARK STAND TOKYO 清澄白河、茶々工房 Kiyosumi</li>
+
+  <li><strong>船橋市</strong>（千葉県・3軒）：喫茶いずみ、駄菓子屋リュウ君の店、ラーメン＆BAR 963（くろさん）</li>
+
+  <li><strong>横浜市</strong>（神奈川県・3軒）：王府井 本店（わんふーちん）、中華街餃子館、酔楼（スイロウ）</li>
+
+  <li><strong>渋谷区</strong>（東京都・3軒）：Monkey Cafe（モンキーカフェ）、midダイニング、ロクシタン・カフェ 渋谷</li>
+
+  <li><strong>富士吉田市</strong>（山梨県・2軒）：蔵寿し、寿司華</li>
+
+  <li><strong>千代田区</strong>（東京都・2軒）：韓無量 秋葉原店（カンムリョウ）、think coffee</li>
+
+  <li><strong>福岡市</strong>（福岡県・2軒）：もつ鍋 仙頭、中西食堂</li>
+
 </ul>
 
 <div class="pf-cta">
   <p>Travis Japanのお店を、地図でぜんぶ見る</p>
-  <span>この記事の13軒を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
+  <span>この記事の29軒を地図で探せます。行きたいお店は保存して、巡礼の計画に。</span>
   <a class="btn" href="/shops/?g=travisjapan&amp;view=map">地図でTravis Japanのお店を見る</a>
 </div>
+
 <p><a href="{{ site.data.group_ix.travisjapan.u }}">Travis Japanのお店一覧（グループのページ）</a>もどうぞ。</p>
 
-<p class="note">日付は、YouTubeの回は動画の公開年月、番組は放送日です。動画のタイトルは公式チャンネル・ジュニアCHANNELのもの、番組の回の見出しとドラマのロケ地は確認に使った資料（kosodate-and.net ほか）をもとにしています。</p>
+<p class="note">お店の情報は、各お店の出典（番組・YouTube・番組公式サイト・ファンのロケ地ブログ）をもとにしています。頼んだ物は出典に書かれている物だけで、番組の紹介メニューや推測は入れていません。営業日・営業時間は各お店の公式情報で確かめてください。</p>
 
 </div>

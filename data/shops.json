@@ -44817,10 +44817,12 @@
     "source_url": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe",
     "visited_date": "2024-05-21",
     "members": [
-      "京本大我"
+      "京本大我",
+      "宮近海斗"
     ],
     "groups": [
-      "sixtones"
+      "sixtones",
+      "travisjapan"
     ],
     "group": "sixtones",
     "nearest_station": "清澄白河駅 徒歩8分",
@@ -44858,10 +44860,12 @@
     "source_url": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe",
     "visited_date": "2024-05-21",
     "members": [
-      "京本大我"
+      "京本大我",
+      "宮近海斗"
     ],
     "groups": [
-      "sixtones"
+      "sixtones",
+      "travisjapan"
     ],
     "group": "sixtones",
     "nearest_station": "清澄白河駅 徒歩4分",
@@ -48914,10 +48918,12 @@
     "source_url": "https://kosodate-and.net/kaeremonday-ren-gen-dango",
     "visited_date": "",
     "members": [
-      "永瀬廉"
+      "永瀬廉",
+      "松田元太"
     ],
     "groups": [
-      "kingprince"
+      "kingprince",
+      "travisjapan"
     ],
     "group": "kingprince",
     "nearest_station": "",
@@ -48994,10 +49000,12 @@
     "source_url": "https://kosodate-and.net/kaeremonday-ren-gen-mon",
     "visited_date": "",
     "members": [
-      "永瀬廉"
+      "永瀬廉",
+      "松田元太"
     ],
     "groups": [
-      "kingprince"
+      "kingprince",
+      "travisjapan"
     ],
     "group": "kingprince",
     "nearest_station": "",
@@ -50626,10 +50634,12 @@
     "visited_date": "",
     "members": [
       "永瀬廉",
-      "髙橋海人"
+      "髙橋海人",
+      "松倉海斗"
     ],
     "groups": [
-      "kingprince"
+      "kingprince",
+      "travisjapan"
     ],
     "group": "kingprince",
     "nearest_station": "塚田駅 徒歩12分",
@@ -52012,10 +52022,12 @@
     "source_url": "https://kosodate-and.net/tokyotower-ren-genta-yakitori",
     "visited_date": "",
     "members": [
-      "永瀬廉"
+      "永瀬廉",
+      "松田元太"
     ],
     "groups": [
-      "kingprince"
+      "kingprince",
+      "travisjapan"
     ],
     "group": "kingprince",
     "nearest_station": "京王八王子駅 徒歩6分",
@@ -63708,7 +63720,8 @@
     "name": "下鴨茶寮",
     "group": "snowman",
     "groups": [
-      "snowman"
+      "snowman",
+      "travisjapan"
     ],
     "genre": "washoku",
     "address": "京都府京都市左京区下鴨宮河町62",
@@ -63721,7 +63734,14 @@
     "description": "『旅するSnow Man』京都編（2025年9月）で、渡辺翔太と目黒蓮が鱧料理を食べた下鴨の料亭。",
     "members": [
       "渡辺翔太",
-      "目黒蓮"
+      "目黒蓮",
+      "宮近海斗",
+      "中村海人",
+      "七五三掛龍也",
+      "川島如恵留",
+      "吉澤閑也",
+      "松田元太",
+      "松倉海斗"
     ],
     "city": "京都市",
     "visit_kind": "own_tv",
@@ -298093,5 +298113,487 @@
     "program": "キタに恋した！",
     "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/11/66/P012081166/P012081166_238.jpg",
     "hotpepper_url": "https://www.hotpepper.jp/strJ000116884/"
+  },
+  {
+    "id": "kingprince-41c8262d-20230520",
+    "name": "ガストロノミー ジョエル・ロブション",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区三田1-13-1 恵比寿ガーデンプレイス内",
+    "lat": 35.642433,
+    "lng": 139.715149,
+    "source_video_title": "King & Princeる。ゴールデン2時間SP（日本テレビ）",
+    "visited_date": "2023-05-20",
+    "members": [
+      "平野紫耀",
+      "神宮寺勇太",
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "平野紫耀・神宮寺勇太・岸優太が『King & Princeる。ゴールデン2時間SP（日本テレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kinpru-joelrobuchon-menus/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yKRQJXwF1pPIB6B2oMIRb7ewzwU.jpg",
+    "tmdb_id": 197231,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "King & Princeる。ゴールデン2時間SP（日本テレビ）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1303/A130302/13009310/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "kingprince-d1f210bb-20230207",
+    "name": "Tokyo MithaiWala",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "address": "東京都江戸川区西葛西6-8-5",
+    "lat": 35.664562,
+    "lng": 139.858002,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2023-02-07",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/hirunan-tokyomithaiwala/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1313/A131305/13253338/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "kingprince-9dbc1c53-20230309",
+    "name": "Natural kitchen yoomi",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木7-17-19 Fleg六本木SECONDビル3F",
+    "lat": 35.662937,
+    "lng": 139.729218,
+    "source_video_title": "トークィーンズ（フジテレビ）",
+    "visited_date": "2023-03-09",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『トークィーンズ（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/talkqueens-kishi-yoomi/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pR10it0INbK5xtZhYofpWTRs4wl.jpg",
+    "tmdb_id": 198097,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "トークィーンズ（フジテレビ）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1307/A130701/13206799/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "kingprince-4b886539-20230316",
+    "name": "ワインバー nomuno 赤坂",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂3-19-1 東京農村ビル3F",
+    "lat": 35.675945,
+    "lng": 139.736191,
+    "source_video_title": "VS魂（フジテレビ）",
+    "visited_date": "2023-03-16",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『VS魂（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/vs-damashii-kishi-gourmet/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "tmdb_id": 115908,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "かまくらボロネーゼ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "VS魂（フジテレビ）",
+    "tabelog_url": "https://tabelog.com/tokyo/A1308/A130801/13222543/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "kingprince-f466a387-20230316",
+    "name": "牡蠣海鮮 かいり 渋谷店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-6-15 鈴井ビル2F",
+    "lat": 35.659145,
+    "lng": 139.698502,
+    "source_video_title": "VS魂（フジテレビ）",
+    "visited_date": "2023-03-16",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『VS魂（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/vs-damashii-kishi-gourmet/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "tmdb_id": 115908,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "痛風鍋"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "VS魂（フジテレビ）"
+  },
+  {
+    "id": "kingprince-c9db69f6-20230511",
+    "name": "THE LIVING",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区千鳥1-19-4 フラット千鳥2F",
+    "lat": 35.572731,
+    "lng": 139.692657,
+    "source_video_title": "VS魂（フジテレビ）",
+    "visited_date": "2023-05-11",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『VS魂（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/vsdamashii-kishi-ichigo-pafe/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "tmdb_id": 115908,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "巨大いちごパフェ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "VS魂（フジテレビ）"
+  },
+  {
+    "id": "kingprince-825a8fe9-20230511",
+    "name": "SNOWY VILLAGE 新大久保店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町2-2-3 TRN新大久保1F",
+    "lat": 35.701481,
+    "lng": 139.701202,
+    "source_video_title": "VS魂（フジテレビ）",
+    "visited_date": "2023-05-11",
+    "members": [
+      "岸優太"
+    ],
+    "groups": [
+      "kingprince"
+    ],
+    "group": "kingprince",
+    "description": "岸優太が『VS魂（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/vadamashii-kishi-shinokubo/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rK1xGWaxtsz6wIQ3KFiq7ZnQdVj.jpg",
+    "tmdb_id": 115908,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チョコチュロス（オレオバニラ）"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "VS魂（フジテレビ）"
+  },
+  {
+    "id": "travisjapan-75f9db77-20240610",
+    "name": "寿司華",
+    "genre": "washoku",
+    "prefecture": "山梨県",
+    "city": "富士吉田市",
+    "address": "山梨県富士吉田市上吉田東4-5-34",
+    "lat": 35.476391,
+    "lng": 138.808258,
+    "source_video_title": "帰れマンデー見っけ隊!!（テレビ朝日）",
+    "visited_date": "2024-06-10",
+    "members": [
+      "松田元太"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "松田元太が『帰れマンデー見っけ隊!!（テレビ朝日）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kaeremonday-ren-gen-mon/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z4xtxeP1dXlDTkDEOGfAamchYMi.jpg",
+    "tmdb_id": 113795,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "華グラタン",
+      "芽ネギ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "帰れマンデー見っけ隊!!（テレビ朝日）"
+  },
+  {
+    "id": "travisjapan-ab9e4b91-20251025",
+    "name": "駄菓子屋リュウ君の店",
+    "genre": "others",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市本町5-11-14",
+    "lat": 35.70261,
+    "lng": 139.989136,
+    "source_video_title": "キントレ（日本テレビ）",
+    "visited_date": "2025-10-25",
+    "members": [
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "松倉海斗が『キントレ（日本テレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kintore-renkai-kaito-funabashi/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
+    "tmdb_id": 230387,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ギャラクシー"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "キントレ（日本テレビ）"
+  },
+  {
+    "id": "travisjapan-e75703c7-20251025",
+    "name": "ラーメン＆BAR 963（くろさん）",
+    "genre": "ramen",
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "address": "千葉県船橋市本町2-27-20",
+    "lat": 35.698467,
+    "lng": 139.984131,
+    "source_video_title": "キントレ（日本テレビ）",
+    "visited_date": "2025-10-25",
+    "members": [
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "松倉海斗が『キントレ（日本テレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kintore-renkai-kaito-funabashi/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3b4UFvSdc9LKogHft4wjPInMYV2.jpg",
+    "tmdb_id": 230387,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "キントレ（日本テレビ）"
+  },
+  {
+    "id": "travisjapan-339a01bf-20231024",
+    "name": "THE ROOF BBQ GARDEN",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山3-12-12 HOLON 屋上",
+    "lat": 35.663441,
+    "lng": 139.710175,
+    "source_video_title": "Travis Japan【京本会】SixTONESさんとコラボかな？ついにYouTube進出!!だけど… 1/2",
+    "visited_date": "2023-10-24",
+    "members": [
+      "宮近海斗",
+      "七五三掛龍也",
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "宮近海斗・七五三掛龍也・松倉海斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/kyomotokai-bbq/",
+    "source_type": "youtube",
+    "youtube_id": "UzscJR2xMwk",
+    "source_video_url": "https://www.youtube.com/watch?v=UzscJR2xMwk",
+    "visit_kind": "youtube",
+    "program": "Travis Japan（公式YouTube）"
+  },
+  {
+    "id": "travisjapan-29b885e6-20240521",
+    "name": "茶々工房 Kiyosumi",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区三好1-5-4 1F",
+    "lat": 35.680717,
+    "lng": 139.800644,
+    "source_video_title": "めざましテレビ（フジテレビ）",
+    "visited_date": "2024-05-21",
+    "members": [
+      "宮近海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "宮近海斗が『めざましテレビ（フジテレビ）』で訪れたお店。",
+    "source_url": "https://kosodate-and.net/mezamashi-taiga-kaito-cafe/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/i00tr0ePSrCmpfQsHBybHtgOTz4.jpg",
+    "tmdb_id": 6563,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "パンケーキ 抹茶バター",
+      "抹茶カスタードクリーム",
+      "抹茶スパイスクリーム"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ（フジテレビ）"
+  },
+  {
+    "id": "travisjapan-a737d496-20260607",
+    "name": "think coffee",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区神田錦町2-9-15 神田SDGsコネクション 1F",
+    "lat": 35.691303,
+    "lng": 139.762848,
+    "source_video_title": "#534【English!!】自発光の友達(?)が頑張った日",
+    "visited_date": "2026-06-07",
+    "members": [
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "松倉海斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/yonino-machu-cafe/",
+    "source_type": "youtube",
+    "youtube_id": "v2XEm5CI-Uc",
+    "source_video_url": "https://www.youtube.com/watch?v=v2XEm5CI-Uc",
+    "ordered_items": [
+      "アイスコーヒー ミディアム"
+    ],
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
+  },
+  {
+    "id": "travisjapan-af1ce5e1-20260603",
+    "name": "入鹿TOKYO 六本木",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区六本木4-12-12 穂高ビル 1F",
+    "lat": 35.664528,
+    "lng": 139.731506,
+    "source_video_title": "#533【新企画!!】自発光に友達100人出来るまで…の日",
+    "visited_date": "2026-06-03",
+    "members": [
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "松倉海斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://kosodate-and.net/yonino-machu-ramen/",
+    "source_type": "youtube",
+    "youtube_id": "5fE25vfZnMg",
+    "source_video_url": "https://www.youtube.com/watch?v=5fE25vfZnMg",
+    "ordered_items": [
+      "アルティメットポルチーニ醤油らぁ麺",
+      "トリュフを添えた濃厚卵かけご飯"
+    ],
+    "visit_kind": "youtube",
+    "program": "よにのちゃんねる"
+  },
+  {
+    "id": "travisjapan-c4f938eb-20210419",
+    "name": "ロクシタン・カフェ 渋谷",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-3-1 渋谷駅前ビル 2-3F",
+    "lat": 35.659264,
+    "lng": 139.700027,
+    "source_video_title": "Travis Japan【恋を呼ぶハーブ】恋の媚薬ヴァーベナで彼女をデートに誘う!!",
+    "visited_date": "2021-04-19",
+    "members": [
+      "宮近海斗",
+      "中村海人",
+      "七五三掛龍也",
+      "川島如恵留",
+      "吉澤閑也",
+      "松田元太",
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "宮近海斗・中村海人・七五三掛龍也・川島如恵留・吉澤閑也・松田元太・松倉海斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://g-salmon.com/travisjapan-seichi",
+    "source_type": "youtube",
+    "youtube_id": "MncXqDfOqOU",
+    "source_video_url": "https://www.youtube.com/watch?v=MncXqDfOqOU",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（旧ジャニーズJr.チャンネル）"
+  },
+  {
+    "id": "travisjapan-1d6c7c86-20191128",
+    "name": "ステーキハウス芦屋",
+    "genre": "shokuji",
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "address": "京都府京都市東山区清水4-172-13",
+    "lat": 34.996014,
+    "lng": 135.777496,
+    "source_video_title": "Travis Japan【ガチ本気】本音でステーキなお食事会",
+    "visited_date": "2019-11-28",
+    "members": [
+      "宮近海斗",
+      "中村海人",
+      "七五三掛龍也",
+      "川島如恵留",
+      "吉澤閑也",
+      "松田元太",
+      "松倉海斗"
+    ],
+    "groups": [
+      "travisjapan"
+    ],
+    "group": "travisjapan",
+    "description": "宮近海斗・中村海人・七五三掛龍也・川島如恵留・吉澤閑也・松田元太・松倉海斗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://natchy.jp/traja-kyotoosaka-pilgrimage/",
+    "source_type": "youtube",
+    "youtube_id": "IDloNBX_QNo",
+    "source_video_url": "https://www.youtube.com/watch?v=IDloNBX_QNo",
+    "visit_kind": "youtube",
+    "program": "ジュニアCHANNEL（旧ジャニーズJr.チャンネル）"
   }
 ]

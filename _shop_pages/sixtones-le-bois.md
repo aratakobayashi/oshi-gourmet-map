@@ -22,8 +22,10 @@ lat: 35.6800594
 lng: 139.8039413
 members:
   - "京本大我"
+  - "宮近海斗"
 groups:
   - "sixtones"
+  - "travisjapan"
 ordered_items:
   - "プラントプリン"
   - "クロッシュ(オリジナル)"

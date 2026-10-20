@@ -23,6 +23,8 @@ lat: 35.659527637788344
 lng: 139.33909298330298
 members:
   - "永瀬廉"
+  - "松田元太"
 groups:
   - "kingprince"
+  - "travisjapan"
 ---
