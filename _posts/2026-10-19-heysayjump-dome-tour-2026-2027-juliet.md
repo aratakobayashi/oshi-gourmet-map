@@ -85,7 +85,7 @@ summary:
 
 <p>2026年10月時点で、会場から10km以内にHey! Say! JUMPのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
 
-<div class="ensei__shops">{% include mini.html id="shuichi-ce6cd715-20250614" m=950 from="会場から" %}{% include mini.html id="sakaba_horoki-2ec0cdb6-20110321" m=1190 from="会場から" %}{% include mini.html id="sekkaku_gourmet-f327a7b7-20260322" m=1260 from="会場から" %}</div>
+<div class="ensei__shops">{% include mini.html id="snowman-952e0596-20250810" m=810 from="会場から" %}{% include mini.html id="shuichi-ce6cd715-20250614" m=950 from="会場から" %}{% include mini.html id="sakaba_horoki-2ec0cdb6-20110321" m=1190 from="会場から" %}</div>
 
 <div class="btn-row"><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡のライブ参戦ガイド</a><a class="btn" href="/shops/?near=33.594341,130.362411&amp;nl=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1">地図で会場の近くのお店</a></div>
 
