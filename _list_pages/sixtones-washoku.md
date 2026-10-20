@@ -12,7 +12,7 @@ youtube_id: EhYbUENdLKE
 related_genres:
   - sixtones-others
   - sixtones-cafe
-  - sixtones-chuka
+  - sixtones-yakiniku
 related_groups:
   - jinsei-saiko-washoku
   - otonatabi-washoku

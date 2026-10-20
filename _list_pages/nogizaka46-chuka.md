@@ -12,7 +12,7 @@ youtube_id: dI9wijBEyx0
 related_genres:
   - nogizaka46-others
   - nogizaka46-cafe
-  - nogizaka46-washoku
+  - nogizaka46-shokuji
 related_groups:
   - machichuka-chuka
   - gyoza-tv-chuka

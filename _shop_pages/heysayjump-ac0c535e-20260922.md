@@ -25,6 +25,8 @@ members:
   - "照英"
   - "バッテリィズエース"
   - "寺家"
+  - "高橋恭平"
 groups:
   - "heysayjump"
+  - "naniwa"
 ---

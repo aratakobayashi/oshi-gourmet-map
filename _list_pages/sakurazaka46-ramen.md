@@ -10,8 +10,8 @@ group_color: "#e11d48"
 group_bio: "櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。"
 youtube_id: fyTT_thpGkw
 related_genres:
-  - sakurazaka46-others
   - sakurazaka46-washoku
+  - sakurazaka46-others
 related_groups:
   - susuru-ramen
   - jinsei-saiko-ramen

@@ -18,6 +18,10 @@ lat: 33.598858
 lng: 130.40538
 members:
   - "武田鉄矢"
+  - "秋元真夏"
+  - "相楽伊織"
+  - "渡辺みり愛"
 groups:
   - "jinsei_saiko"
+  - "nogizaka46"
 ---

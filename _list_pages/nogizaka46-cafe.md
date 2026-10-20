@@ -11,8 +11,8 @@ group_bio: "乃木坂46は秋元康プロデュースの女性アイドルグル
 youtube_id: s1cgEj5JowM
 related_genres:
   - nogizaka46-others
-  - nogizaka46-washoku
   - nogizaka46-shokuji
+  - nogizaka46-washoku
 related_groups:
   - tokyo-cafe-ch-cafe
   - katappashi-kissa-cafe
