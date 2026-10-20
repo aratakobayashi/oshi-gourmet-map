@@ -10,6 +10,7 @@ member_article.py
 使い方: python scripts/member_article.py <メンバー名> <group>[,<group>...] <slug>
 """
 import collections
+import datetime
 import json
 import os
 import re
@@ -18,7 +19,7 @@ import sys
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TODAY = '2026-10-19'
+TODAY = datetime.date.today().isoformat()
 KINDS = [('youtube', 'yt', '公式YouTube'), ('own_tv', 'tv', '冠番組'), ('guest_tv', 'guest', '出演した番組'),
          ('drama', 'drama', '出演したドラマのロケ地'), ('other', 'other', 'そのほかの出典')]
 
