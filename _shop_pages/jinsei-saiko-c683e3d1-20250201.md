@@ -18,6 +18,14 @@ lat: 35.656948
 lng: 139.732025
 members:
   - "萬田久子"
+  - "EJ"
+  - "FUMA"
+  - "NICHOLAS"
+  - "JO"
+  - "HARUA"
+  - "TAKI"
+  - "MAKI"
 groups:
   - "jinsei_saiko"
+  - "kpop_andteam"
 ---

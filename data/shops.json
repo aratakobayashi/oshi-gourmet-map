@@ -5760,11 +5760,13 @@
       "髙地優吾",
       "森本慎太郎",
       "田中樹",
-      "佐藤景瑚"
+      "佐藤景瑚",
+      "TAKI"
     ],
     "groups": [
       "sixtones",
-      "jo1"
+      "jo1",
+      "kpop_andteam"
     ],
     "group": "sixtones",
     "visited_date": "2025-04-04",
@@ -62461,10 +62463,13 @@
     "visited_date": "2024-01-01",
     "members": [
       "山田涼介",
-      "中島裕翔"
+      "中島裕翔",
+      "K",
+      "YUMA"
     ],
     "groups": [
-      "heysayjump"
+      "heysayjump",
+      "kpop_andteam"
     ],
     "group": "heysayjump",
     "source_type": "tv",
@@ -69459,10 +69464,12 @@
     "source_video_url": "https://www.youtube.com/watch?v=_3I5FnMkpNM",
     "visited_date": "2024-03-04",
     "members": [
-      "神山智洋"
+      "神山智洋",
+      "小泉遥香"
     ],
     "groups": [
-      "west"
+      "west",
+      "tokisen"
     ],
     "group": "west",
     "description": "WEST.の神山智洋が公式YouTubeの企画「KAMI Sweets」①（2024年3月）で訪れた店。",
@@ -69473,7 +69480,8 @@
       "ブリュレエスプレッソ"
     ],
     "visit_kind": "youtube",
-    "program": "WEST.公式YouTube「KAMI Sweets」"
+    "program": "WEST.公式YouTube「KAMI Sweets」",
+    "qa_note": "tokisen: ZIP!（2025-05-22）小泉遥香"
   },
   {
     "id": "west-43b7c24d-20240415",
@@ -93681,9 +93689,12 @@
     "lng": 139.694122,
     "source_video_title": "【★☆超特急ビジレポ☆★　美味しいアイスコーヒーを飲みたい！】",
     "visited_date": "2022-06-17",
-    "members": [],
+    "members": [
+      "K"
+    ],
     "groups": [
-      "chotokkyu"
+      "chotokkyu",
+      "kpop_andteam"
     ],
     "group": "chotokkyu",
     "description": "超特急の公式YouTube「超チューバー」の「超特急ビジレポ」第1弾（2022年6月）で、アイスコーヒーを飲みに訪れたコーヒー店。",
@@ -157365,10 +157376,18 @@
     "source_video_title": "人生最高レストラン ごちそう様 萬田久子さん（2025-02-01 TBS）",
     "visited_date": "2025-02-01",
     "members": [
-      "萬田久子"
+      "萬田久子",
+      "EJ",
+      "FUMA",
+      "NICHOLAS",
+      "JO",
+      "HARUA",
+      "TAKI",
+      "MAKI"
     ],
     "groups": [
-      "jinsei_saiko"
+      "jinsei_saiko",
+      "kpop_andteam"
     ],
     "group": "jinsei_saiko",
     "description": "萬田久子が『人生最高レストラン』で紹介したお店。",
@@ -285061,7 +285080,8 @@
       "吉川ひより"
     ],
     "groups": [
-      "heysayjump"
+      "heysayjump",
+      "tokisen"
     ],
     "group": "heysayjump",
     "description": "Hey! Say! JUMPの八乙女光が『ヒルナンデス！』の「ランキングだらけ旅 in 上野」（2026年8月11日放送）で訪れた中華の店。",
@@ -285073,7 +285093,8 @@
     "hotpepper_url": "https://www.hotpepper.jp/strJ001260888/",
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！",
-    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/19/P036951319/P036951319_238.jpg"
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/13/19/P036951319/P036951319_238.jpg",
+    "qa_note": "tokisen: ヒルナンデス！（2026-08-11）吉川ひより"
   },
   {
     "id": "heysayjump-4fcab084-20260721",
@@ -286408,11 +286429,13 @@
     "members": [
       "横山裕",
       "長野博",
-      "井上咲楽"
+      "井上咲楽",
+      "EJ"
     ],
     "groups": [
       "kanjani",
-      "20th_century"
+      "20th_century",
+      "kpop_andteam"
     ],
     "group": "kanjani",
     "description": "関ジャニ∞の横山裕が『ヒルナンデス！』の「食の探求者・長野くんの世界一ウマい食べ歩き」（2023年6月29日放送）で訪れた和食の店。",
@@ -299968,5 +299991,798 @@
     ],
     "visit_kind": "guest_tv",
     "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-5fcdab97-20260505",
+    "name": "バウム工房ゆずの木",
+    "genre": "sweets",
+    "prefecture": "栃木県",
+    "city": "芳賀郡茂木町",
+    "address": "栃木県芳賀郡茂木町茂木1090-1",
+    "lat": 36.527531,
+    "lng": 140.176346,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-05",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/308135imlcjrrbgcs3pg.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ゆずネード",
+      "ハードミニバウムクーヘン",
+      "アイスクーヘン（シャインマスカット）",
+      "チーズインバウム"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-23f25d00-20260505",
+    "name": "CAKE FACTORY m 益子店",
+    "genre": "sweets",
+    "prefecture": "栃木県",
+    "city": "芳賀郡益子町",
+    "address": "栃木県芳賀郡益子町益子1651",
+    "lat": 36.462059,
+    "lng": 140.089722,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-05",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/308135imlcjrrbgcs3pg.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "益子のいちごタルト"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-3d561cfa-20260505",
+    "name": "吉村農園",
+    "genre": "others",
+    "prefecture": "栃木県",
+    "city": "芳賀郡益子町",
+    "address": "栃木県芳賀郡益子町塙520",
+    "lat": 36.457596,
+    "lng": 140.07225,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-05",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/308135imlcjrrbgcs3pg.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "削りいちご"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-2dcc3f2e-20260512",
+    "name": "梅乃香（大前神社）",
+    "genre": "sweets",
+    "prefecture": "栃木県",
+    "city": "真岡市",
+    "address": "栃木県真岡市東郷937",
+    "lat": 36.449654,
+    "lng": 140.025635,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-12",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hba0a3w8qiyeka8r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "開運ソフトクリーム"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-fb6618c0-20260512",
+    "name": "雨土舎 ジェラート＆カフェ",
+    "genre": "sweets",
+    "prefecture": "栃木県",
+    "city": "真岡市",
+    "address": "栃木県真岡市台町2390-5",
+    "lat": 36.441212,
+    "lng": 140.00415,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-12",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hba0a3w8qiyeka8r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ジェラート 落花生＆苺ミルク"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-0ed76d9b-20260512",
+    "name": "恋とカセット",
+    "genre": "cafe",
+    "prefecture": "栃木県",
+    "city": "真岡市",
+    "address": "栃木県真岡市田町1065-2",
+    "lat": 36.442131,
+    "lng": 140.008453,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-12",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hba0a3w8qiyeka8r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "恋カセSET"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "tokisen-49709373-20260512",
+    "name": "壱番亭 二宮店",
+    "genre": "ramen",
+    "prefecture": "栃木県",
+    "city": "真岡市",
+    "address": "栃木県真岡市久下田西5-7",
+    "lat": 36.380013,
+    "lng": 139.963745,
+    "source_video_title": "ヒルナンデス！",
+    "visited_date": "2026-05-12",
+    "members": [
+      "吉川ひより"
+    ],
+    "groups": [
+      "tokisen"
+    ],
+    "group": "tokisen",
+    "description": "吉川ひよりが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hba0a3w8qiyeka8r.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "白味噌ラーメン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "ebichu-ca1c9fa0-20230901",
+    "name": "韓国料理 允矢家",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-26-16 GTスクエア1F",
+    "lat": 35.660091,
+    "lng": 139.696671,
+    "source_video_title": "【えびちゅう】まやみれ韓国料理モッパン【前編】",
+    "visited_date": "2023-09-01",
+    "members": [
+      "真山りか",
+      "星名美怜"
+    ],
+    "groups": [
+      "ebichu"
+    ],
+    "group": "ebichu",
+    "description": "真山りか・星名美怜がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=tomwCADn0iU",
+    "source_type": "youtube",
+    "youtube_id": "tomwCADn0iU",
+    "source_video_url": "https://www.youtube.com/watch?v=tomwCADn0iU",
+    "visit_kind": "youtube",
+    "program": "私立恵比寿中学",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003532303/"
+  },
+  {
+    "id": "ebichu-4ae7a0a2-20200628",
+    "name": "焼肉 黒田 渋谷円山町店",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区円山町1-16 しぶまる館1F・2F",
+    "lat": 35.659618,
+    "lng": 139.695007,
+    "source_video_title": "【エビ中の動画とか】柏木ひなた　肉ソムリエへの道①〜食べくらべ編〜",
+    "visited_date": "2020-06-28",
+    "members": [
+      "柏木ひなた"
+    ],
+    "groups": [
+      "ebichu"
+    ],
+    "group": "ebichu",
+    "description": "柏木ひなたがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=QQya0U5heGE",
+    "source_type": "youtube",
+    "youtube_id": "QQya0U5heGE",
+    "source_video_url": "https://www.youtube.com/watch?v=QQya0U5heGE",
+    "visit_kind": "youtube",
+    "program": "私立恵比寿中学",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001223195/"
+  },
+  {
+    "id": "niziu-8aa8beee-20250108",
+    "name": "おめで鯛焼き本舗 戸越銀座店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区平塚2-13-8 戸越小川ビル1F",
+    "lat": 35.616196,
+    "lng": 139.712463,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-b07eccbb-20250108",
+    "name": "京都鳳焼売",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区平塚2-18-8",
+    "lat": 35.615841,
+    "lng": 139.713715,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-97c18e23-20250108",
+    "name": "咲菜 戸越銀座店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区平塚2-16-3",
+    "lat": 35.615749,
+    "lng": 139.714523,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-c60b39f8-20250108",
+    "name": "ほしのベーカリー",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区平塚1-7-2",
+    "lat": 35.615376,
+    "lng": 139.716141,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-8e68a5be-20250108",
+    "name": "おにぎり戸越屋 戸越銀座本店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区戸越2-5-3 上野ビル 1F",
+    "lat": 35.61478,
+    "lng": 139.719208,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-6f3acec5-20250108",
+    "name": "後藤蒲鉾店",
+    "genre": "others",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区戸越2-6-8",
+    "lat": 35.614449,
+    "lng": 139.720932,
+    "source_video_title": "商店街￥ジョイグルメウォークin戸越銀座商店街（2025-01-08 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-08",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081wciitacu10nthzjj.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "niziu-fa049a3d-20250129",
+    "name": "ヨプトッポッキ 日本本店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区百人町2-3-25 ソウリツビル 2F",
+    "lat": 35.701511,
+    "lng": 139.700653,
+    "source_video_title": "￥ジョイグルメウォークin新大久保（2025-01-29 日本テレビ『ヒルナンデス！』）",
+    "visited_date": "2025-01-29",
+    "members": [
+      "MAKO",
+      "MIIHI"
+    ],
+    "groups": [
+      "niziu"
+    ],
+    "group": "niziu",
+    "description": "MAKO・MIIHIが『ヒルナンデス！』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081hyqwggypsvlpdc38.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！"
+  },
+  {
+    "id": "kpop_andteam-6013199c-20240229",
+    "name": "有吉商店 渡辺通り店",
+    "genre": "ramen",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区渡辺通1-8-18",
+    "lat": 33.585011,
+    "lng": 130.405411,
+    "source_video_title": "[&DAY] VLOG in Fukuoka | 휴가 중 먹는 라멘🍜 - &TEAM",
+    "visited_date": "2024-02-29",
+    "members": [
+      "NICHOLAS",
+      "TAKI",
+      "MAKI"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "NICHOLAS・TAKI・MAKIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15571.html",
+    "source_type": "youtube",
+    "youtube_id": "iM-L1HpNbNQ",
+    "source_video_url": "https://www.youtube.com/watch?v=iM-L1HpNbNQ",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-88e6947e-20250313",
+    "name": "前田食堂",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区赤坂4-2-2 赤坂Dnプラザビル 1F",
+    "lat": 35.675514,
+    "lng": 139.735245,
+    "source_video_title": "[미나토구 편] 아카사카 케이의 단골 핫케이크 가게🥞 #도쿄023 | &TEAM",
+    "visited_date": "2025-03-13",
+    "members": [
+      "K",
+      "YUMA"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "K・YUMAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15583.html",
+    "source_type": "youtube",
+    "youtube_id": "Q6Mu_zwqBCs",
+    "source_video_url": "https://www.youtube.com/watch?v=Q6Mu_zwqBCs",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-85faa7a1-20250320",
+    "name": "レストラン ケルン",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西新橋1-1-1 日比谷フォートタワー 2階",
+    "lat": 35.670135,
+    "lng": 139.752808,
+    "source_video_title": "[미나토구 편] 도라노몬 어른을 위한 키즈 런치🍽️ #도쿄023 | &TEAM",
+    "visited_date": "2025-03-20",
+    "members": [
+      "NICHOLAS",
+      "JO",
+      "MAKI"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "NICHOLAS・JO・MAKIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15590.html",
+    "source_type": "youtube",
+    "youtube_id": "1Ay_FmeZveY",
+    "source_video_url": "https://www.youtube.com/watch?v=1Ay_FmeZveY",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003366327/"
+  },
+  {
+    "id": "kpop_andteam-49facaa7-20250320",
+    "name": "BeBu",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区虎ノ門1-23-4 虎ノ門ヒルズ森タワー 1F アンダーズ 東京",
+    "lat": 35.666832,
+    "lng": 139.749207,
+    "source_video_title": "[미나토구 편] 도라노몬 어른을 위한 키즈 런치🍽️ #도쿄023 | &TEAM",
+    "visited_date": "2025-03-20",
+    "members": [
+      "NICHOLAS",
+      "JO",
+      "MAKI"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "NICHOLAS・JO・MAKIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15596.html",
+    "source_type": "youtube",
+    "youtube_id": "1Ay_FmeZveY",
+    "source_video_url": "https://www.youtube.com/watch?v=1Ay_FmeZveY",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-c2a102c8-20250327",
+    "name": "あべちゃん",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番2-1-1",
+    "lat": 35.655384,
+    "lng": 139.736313,
+    "source_video_title": "[미나토구 편] 아자부주반 어른의 일품 유럽식 카레🍛 #도쿄023 | &TEAM",
+    "visited_date": "2025-03-27",
+    "members": [
+      "FUMA",
+      "TAKI",
+      "HARUA"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "FUMA・TAKI・HARUAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15608.html",
+    "source_type": "youtube",
+    "youtube_id": "WLFK8Eyc4xI",
+    "source_video_url": "https://www.youtube.com/watch?v=WLFK8Eyc4xI",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-7fa2ac02-20250327",
+    "name": "カシュク",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区麻布十番1-9-9 1F",
+    "lat": 35.656391,
+    "lng": 139.73558,
+    "source_video_title": "[미나토구 편] 아자부주반 어른의 일품 유럽식 카레🍛 #도쿄023 | &TEAM",
+    "visited_date": "2025-03-27",
+    "members": [
+      "FUMA",
+      "TAKI",
+      "HARUA"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "FUMA・TAKI・HARUAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15615.html",
+    "source_type": "youtube",
+    "youtube_id": "WLFK8Eyc4xI",
+    "source_video_url": "https://www.youtube.com/watch?v=WLFK8Eyc4xI",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-e95ce190-20250210",
+    "name": "御曹司 きよやす庵",
+    "genre": "washoku",
+    "prefecture": "長野県",
+    "city": "北佐久郡軽井沢町",
+    "address": "長野県北佐久郡軽井沢町軽井沢1178-232外 軽井沢・プリンスショッピングプラザ内",
+    "lat": 36.342827,
+    "lng": 138.634674,
+    "source_video_title": "[&DAY OFF] 하루아 브이로그 with 02z | ★최초 공개★ 하루아 본가 방문! | 나가노 힐링 여행🍀 | 오리배도 탔어요🦢 | &TEAM",
+    "visited_date": "2025-02-10",
+    "members": [
+      "NICHOLAS",
+      "HARUA"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "NICHOLAS・HARUAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15622.html",
+    "source_type": "youtube",
+    "youtube_id": "Ga7qvLJY6Ns",
+    "source_video_url": "https://www.youtube.com/watch?v=Ga7qvLJY6Ns",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001050858/"
+  },
+  {
+    "id": "kpop_andteam-d5706112-20241109",
+    "name": "浅草の豆柴カフェ",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区浅草1-29-3",
+    "lat": 35.712017,
+    "lng": 139.79512,
+    "source_video_title": "[&DAY] 니콜라스 브이로그 feat.의주 | 시바견 카페 | 배팅센터 | &TEAM",
+    "visited_date": "2024-11-09",
+    "members": [
+      "NICHOLAS"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "NICHOLASがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/15630.html",
+    "source_type": "youtube",
+    "youtube_id": "SUYwmImlzNE",
+    "source_video_url": "https://www.youtube.com/watch?v=SUYwmImlzNE",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-72a1a9fc-20221227",
+    "name": "すき焼割烹 日山",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋人形町2-5-1",
+    "lat": 35.685692,
+    "lng": 139.783035,
+    "source_video_title": "[&DAY_OFF] JO | SUKIYAKI mukbang - &TEAM",
+    "visited_date": "2022-12-27",
+    "members": [
+      "JO"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "JOがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/9395.html",
+    "source_type": "youtube",
+    "youtube_id": "hhWlu27UwIQ",
+    "source_video_url": "https://www.youtube.com/watch?v=hhWlu27UwIQ",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/59/63/P020865963/P020865963_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000240367/"
+  },
+  {
+    "id": "kpop_andteam-56a2d543-20221211",
+    "name": "井上総本舗",
+    "genre": "sweets",
+    "prefecture": "神奈川県",
+    "city": "藤沢市",
+    "address": "神奈川県藤沢市江の島2-1-9",
+    "lat": 35.301792,
+    "lng": 139.48085,
+    "source_video_title": "[&DAY_OFF] TAKI | ENOSHIMA Day trip - &TEAM",
+    "visited_date": "2022-12-11",
+    "members": [
+      "TAKI"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "TAKIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/9405.html",
+    "source_type": "youtube",
+    "youtube_id": "AznCYdEtLOk",
+    "source_video_url": "https://www.youtube.com/watch?v=AznCYdEtLOk",
+    "visit_kind": "youtube",
+    "program": "&TEAM（公式YouTube）"
+  },
+  {
+    "id": "kpop_andteam-f566ae2b-20260305",
+    "name": "さわやか 静岡インター店",
+    "genre": "shokuji",
+    "prefecture": "静岡県",
+    "city": "静岡市駿河区",
+    "address": "静岡県静岡市駿河区中野新田387-1",
+    "lat": 34.949528,
+    "lng": 138.389435,
+    "source_video_title": "【&TEAM FUMA】地元静岡で願いを叶えようSP【Soleいいね！】",
+    "visited_date": "2026-03-05",
+    "members": [
+      "FUMA"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "FUMAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/18281.html",
+    "source_type": "youtube",
+    "youtube_id": "LLY9olbTtSo",
+    "source_video_url": "https://www.youtube.com/watch?v=LLY9olbTtSo",
+    "visit_kind": "guest_tv",
+    "program": "Soleいいね！（SBS静岡放送）"
+  },
+  {
+    "id": "kpop_andteam-686eb18c-20260313",
+    "name": "台湾料理 故宮 渋谷道玄坂本店",
+    "genre": "chuka",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-23-13 渋谷デリタワービル 4F",
+    "lat": 35.660172,
+    "lng": 139.69603,
+    "source_video_title": "&TEAMが”体ととのう”新スポット巡り！ 音×植物の新感覚サウナでEJが俳句を披露 女性に大人気”腸活鍋”でK「タレントさんがよくやる」食リポ伝授【リポーターやってください！】",
+    "visited_date": "2026-03-13",
+    "members": [
+      "EJ",
+      "K"
+    ],
+    "groups": [
+      "kpop_andteam"
+    ],
+    "group": "kpop_andteam",
+    "description": "EJ・KがYouTubeの動画で訪れたお店。",
+    "source_url": "https://oshito.online/map/18269.html",
+    "source_type": "youtube",
+    "youtube_id": "936fZDlcLMc",
+    "source_video_url": "https://www.youtube.com/watch?v=936fZDlcLMc",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ「リポーターやってください！」（フジテレビ）"
   }
 ]

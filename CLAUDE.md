@@ -347,7 +347,8 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 住所が市区町村までの候補は、店の公式サイト・商業施設の公式ページ・ホットペッパーAPI（名前が完全一致、または座標300m以内で一致）で番地を補う。ホットペッパーの写真（hotpepper_photo）は画像として認める（merge_candidates.py）。残り: JO1 43軒・NMB48 31軒が住所不明、画像なし（サスティな！・かまいまち など TMDB にない番組）ももクロ20・INI 16
 - 2回目（2026-10-20）: HKT48 25軒（福岡県公式YouTube「HKT48の福岡撮影中。」の概要欄。まとめ記事あり）・SKE48 11（公式YouTubeの【動画で伺ったお店】。東海ウォーカーの連載23軒は画像がなく見送り）・MAZZEL 11（ヒルナンデス！・めざまし）・ME:I 10（いくらかわかる金 沼津港）・Da-iCE 5（群馬誌 motto の連載18軒は画像がなく見送り）・IMP. 4（戸越銀座の6軒は番地なし）・Juice=Juice 3・アンジュルム 2・モーニング娘。1（ハロプロは HBC『キタに恋した！』が主で TMDB に無く画像なし）。雑誌連載・TMDBに無い番組の店は、ホットペッパーに載っていないと画像が付かない。2026-10-20 に「画像がない店は載せない」決まりを続けると決めた（候補は scratchpad の cands/*.json に残している）
 - STARTOのジュニア（2026-10-20）: ACEes 23軒（ヒルナンデス！の地方ロケが中心。住所は観光協会・店の公式で補完。まとめ記事あり）・美 少年 14・Lil かんさい 10（よるのブランチ・関西ジュニア ノーフィルター・Lilちゅーぶ）・B&ZAI 3（土曜はナニする!? 沖縄）・HiHi Jets 26。Go!Go!kids は番組・ブログともに店の記録が無く0軒（枠は作らない）。ジュニアCHANNEL の説明文には店名が無い
-- まだ無い人気グループ: A.B.C-Z・私立恵比寿中学・CUTIE STREET・CANDY TUNE・超ときめき♡宣伝部・新しい学校のリーダーズ・iLiFE!・NiziU・TXT・&TEAM
+- 3回目（2026-10-20）: &TEAM 17軒（公式YouTubeの Vlog。店はファンの推しMAP oshito.online で同定）・超ときめき♡宣伝部 9（ヒルナンデス！の吉川ひより・ZIP! の小泉遥香）・NiziU 7（ヒルナンデス！戸越銀座・新大久保）・私立恵比寿中学 2（公式YouTubeの撮影協力）。A.B.C-Z（主な出典がテレ東『ABChanZOO』）と新しい学校のリーダーズ（番組がスタジオ中心）は店が見つからず枠を作らない
+- まだ無い人気グループ: A.B.C-Z・CUTIE STREET・CANDY TUNE・新しい学校のリーダーズ・iLiFE!・TXT
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

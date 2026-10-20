@@ -33,9 +33,11 @@ members:
   - "森本慎太郎"
   - "田中樹"
   - "佐藤景瑚"
+  - "TAKI"
 groups:
   - "sixtones"
   - "jo1"
+  - "kpop_andteam"
 tags:
   - "海鮮"
   - "江の島"
