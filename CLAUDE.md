@@ -345,7 +345,8 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 人気グループ60組の棚卸し: STARTO はほぼ網羅、女性アイドルは坂道・指原系だけだった。JO1・INI・FRUITS ZIPPER・ももいろクローバーZ・AKB48・NMB48 を追加（まとめ記事は group_matome.py で作成。FRUITS ZIPPER は番組で食べた記録がほぼ無く2軒・AKB48 は17軒で記事なし）
 - 集まり方: NMB48 は公式YouTube「裏なんばちゃん」の概要欄に店名・場所・出演者が必ず載る（週1回の更新の情報源に足せる）。AKB48 は公式サブch「AKBの素を出すちゃんねる」の【撮影協力】。INI・JO1 は番組（よるのブランチ・めざまし・ヒルナンデス！・ラヴィット！）とファンブログ（powakitchen.site・globalpop-trend.com・oshitotabi.com）。ももクロは日テレ articles.js・テレ朝POST・ファンの聖地マップ（momoclomap.com）
 - 住所が市区町村までの候補は、店の公式サイト・商業施設の公式ページ・ホットペッパーAPI（名前が完全一致、または座標300m以内で一致）で番地を補う。ホットペッパーの写真（hotpepper_photo）は画像として認める（merge_candidates.py）。残り: JO1 43軒・NMB48 31軒が住所不明、画像なし（サスティな！・かまいまち など TMDB にない番組）ももクロ20・INI 16
-- まだ無い人気グループ: A.B.C-Z・IMP.・ME:I・MAZZEL・Da-iCE・SKE48・HKT48・ハロプロ各組・私立恵比寿中学・CUTIE STREET・CANDY TUNE・超ときめき♡宣伝部・新しい学校のリーダーズ・iLiFE!・NiziU・TXT・&TEAM
+- 2回目（2026-10-20）: HKT48 25軒（福岡県公式YouTube「HKT48の福岡撮影中。」の概要欄。まとめ記事あり）・SKE48 11（公式YouTubeの【動画で伺ったお店】。東海ウォーカーの連載23軒は画像がなく見送り）・MAZZEL 11（ヒルナンデス！・めざまし）・ME:I 10（いくらかわかる金 沼津港）・Da-iCE 5（群馬誌 motto の連載18軒は画像がなく見送り）・IMP. 4（戸越銀座の6軒は番地なし）・Juice=Juice 3・アンジュルム 2・モーニング娘。1（ハロプロは HBC『キタに恋した！』が主で TMDB に無く画像なし）。雑誌連載・TMDBに無い番組の店は、ホットペッパーに載っていないと画像が付かないのが課題
+- まだ無い人気グループ: A.B.C-Z・私立恵比寿中学・CUTIE STREET・CANDY TUNE・超ときめき♡宣伝部・新しい学校のリーダーズ・iLiFE!・NiziU・TXT・&TEAM
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）

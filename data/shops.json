@@ -75496,10 +75496,13 @@
       "井上瑞稀",
       "橋本涼",
       "猪狩蒼弥",
-      "作間龍斗"
+      "作間龍斗",
+      "佐藤新",
+      "基俊介"
     ],
     "groups": [
-      "hihijets"
+      "hihijets",
+      "imp"
     ],
     "group": "hihijets",
     "description": "HiHi JetsがジュニアCHANNELの「【豊洲でバイキング】５キロ食べまSHOW」（2024年6月）などのロケで5人で訪れた豊洲の温浴施設。館内のバイキングで食事をした。",
@@ -287783,7 +287786,8 @@
       "花村想太"
     ],
     "groups": [
-      "meshidora"
+      "meshidora",
+      "daice"
     ],
     "group": "meshidora",
     "description": "『メシドラ』の富岡市の回（2026年8月9日放送）で、兼近大樹・満島真之介・花村想太が訪れたカフェの店。",
@@ -295961,5 +295965,2133 @@
     "source_video_url": "https://www.youtube.com/watch?v=0FrWDsWADVk",
     "visit_kind": "youtube",
     "program": "裏なんばちゃん【NMB48公式】"
+  },
+  {
+    "id": "mei-608ec9a2-20250405",
+    "name": "沼津深海プリン工房 青とプリンとジェラートと",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町124",
+    "lat": 35.08189,
+    "lng": 138.857849,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "黒蜜きなこジェラート",
+      "深深海プリン",
+      "深海ソーダ",
+      "みかんレモンシャーベット"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-7902a33f-20250405",
+    "name": "マルヤ水産 港直営2号店",
+    "genre": "shokuji",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町128-1",
+    "lat": 35.081272,
+    "lng": 138.856262,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ホッケフライ",
+      "とろぼっちの唐揚げ",
+      "あら汁"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-e6097a7f-20250405",
+    "name": "ちどり沼津港ひものセンター",
+    "genre": "others",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町128",
+    "lat": 35.081272,
+    "lng": 138.856262,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "うなぎいもモンブランソフト",
+      "沼津港さば焼きおにぎり",
+      "沼津港魚だし餃子"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-e9fc3b9b-20250405",
+    "name": "沼津牡蠣センター カキ小屋2号店",
+    "genre": "shokuji",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町113",
+    "lat": 35.083023,
+    "lng": 138.858444,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "焼き牡蠣",
+      "生牡蠣",
+      "帆立バター",
+      "サザエ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-9ba24d7d-20250405",
+    "name": "Candy fruits",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町97",
+    "lat": 35.08305,
+    "lng": 138.857941,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "タンフルいちご",
+      "タンフルマシュマロMIX",
+      "めんだこぱんチーズ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-7bc1ad66-20250405",
+    "name": "沼津魚がし鮨 本店",
+    "genre": "washoku",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市春日町47-1",
+    "lat": 35.083012,
+    "lng": 138.858765,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "特上にぎり"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-6bd56be7-20250405",
+    "name": "港のスイーツカフェくろねこ",
+    "genre": "sweets",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町122-9",
+    "lat": 35.08189,
+    "lng": 138.857849,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "くろねこクレープ",
+      "シュガーバタークレープ",
+      "ホットコーヒー"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-8390a70d-20250405",
+    "name": "すし処 京丸本店",
+    "genre": "washoku",
+    "prefecture": "静岡県",
+    "city": "沼津市",
+    "address": "静岡県沼津市千本港町115-4",
+    "lat": 35.081882,
+    "lng": 138.858353,
+    "source_video_title": "いくらかわかる金？（TBS）3時間SP",
+    "visited_date": "2025-04-05",
+    "members": [
+      "櫻井美羽",
+      "石井蘭",
+      "高見文寧",
+      "清水恵子",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "櫻井美羽・石井蘭・高見文寧・清水恵子・山本すずが『いくらかわかる金？（TBS）3時間SP』で訪れたお店。",
+    "source_url": "https://kiitenet.jp/2025/minato-22/4997/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9eFYbPlerLbGPch4Qu5S2D0xLsf.jpg",
+    "tmdb_id": 255060,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "うな重"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "いくらかわかる金？（TBS）3時間SP"
+  },
+  {
+    "id": "mei-76f77e1f-20241121",
+    "name": "まるえ中華そば 巣鴨",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "address": "東京都豊島区巣鴨1-14-1 プラトーサカ1F",
+    "lat": 35.732872,
+    "lng": 139.740616,
+    "source_video_title": "ME:INTERN!（Lemino 冠番組）#2・#3",
+    "visited_date": "2024-11-21",
+    "members": [
+      "笠原桃奈",
+      "高見文寧"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "笠原桃奈・高見文寧が『ME:INTERN!（Lemino 冠番組）#2・#3』で訪れたお店。",
+    "source_url": "https://ja.wikipedia.org/wiki/ME:INTERN!",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nGb38EpmRqGHuoxMZObGjyzToyP.jpg",
+    "tmdb_id": 278871,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "ME:INTERN!（Lemino 冠番組）#2・#3"
+  },
+  {
+    "id": "mei-691376e8-20260914",
+    "name": "小割烹おはし ゑびすりびんぐ",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区恵比寿南2-3-14 キュープラザ恵比寿南5F",
+    "lat": 35.64566,
+    "lng": 139.707458,
+    "source_video_title": "ME:Iの会いにきたよ！（フジテレビ）#22・#23",
+    "visited_date": "2026-09-14",
+    "members": [
+      "笠原桃奈",
+      "櫻井美羽",
+      "清水恵子",
+      "海老原鼓",
+      "高見文寧",
+      "村上璃杏",
+      "山本すず"
+    ],
+    "groups": [
+      "mei"
+    ],
+    "group": "mei",
+    "description": "笠原桃奈・櫻井美羽・清水恵子・海老原鼓・高見文寧・村上璃杏・山本すずが『ME:Iの会いにきたよ！（フジテレビ）#22・#23』で訪れたお店。",
+    "source_url": "https://ja.wikipedia.org/wiki/ME:I%E3%81%AE%E4%BC%9A%E3%81%AB%E3%81%8D%E3%81%9F%E3%82%88!",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mYypdjP9ga8IyHBAfoQcbFo2BWB.jpg",
+    "tmdb_id": 332624,
+    "tmdb_type": "tv",
+    "visit_kind": "own_tv",
+    "program": "ME:Iの会いにきたよ！（フジテレビ）#22・#23",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004699017/"
+  },
+  {
+    "id": "hkt48-3892982c-20260913",
+    "name": "喫茶モーニング",
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "address": "愛知県名古屋市中村区則武2-32-4",
+    "lat": 35.170227,
+    "lng": 136.873901,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin愛知！",
+    "visited_date": "2026-09-13",
+    "members": [
+      "石橋颯",
+      "龍頭綺音"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・龍頭綺音がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=J7E_28i4fU4",
+    "source_type": "youtube",
+    "youtube_id": "J7E_28i4fU4",
+    "source_video_url": "https://www.youtube.com/watch?v=J7E_28i4fU4",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-dcb13352-20260913",
+    "name": "いば昇",
+    "genre": "washoku",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区錦3-13-22",
+    "lat": 35.170712,
+    "lng": 136.905014,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin愛知！",
+    "visited_date": "2026-09-13",
+    "members": [
+      "石橋颯",
+      "龍頭綺音"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・龍頭綺音がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=J7E_28i4fU4",
+    "source_type": "youtube",
+    "youtube_id": "J7E_28i4fU4",
+    "source_video_url": "https://www.youtube.com/watch?v=J7E_28i4fU4",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-c398fde9-20260816",
+    "name": "うさばらし",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂2-17-8 魚孝ビル1F",
+    "lat": 35.645012,
+    "lng": 139.670593,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin東京！",
+    "visited_date": "2026-08-16",
+    "members": [
+      "栗原紗英",
+      "豊永阿紀"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "栗原紗英・豊永阿紀がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "source_type": "youtube",
+    "youtube_id": "8nOOAcvgQbs",
+    "source_video_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-c90c4b0b-20260816",
+    "name": "SANCYA GOOD HORUMONZ",
+    "genre": "yakiniku",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂2-20-7",
+    "lat": 35.644924,
+    "lng": 139.671371,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin東京！",
+    "visited_date": "2026-08-16",
+    "members": [
+      "栗原紗英",
+      "豊永阿紀"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "栗原紗英・豊永阿紀がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "source_type": "youtube",
+    "youtube_id": "8nOOAcvgQbs",
+    "source_video_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-d7bd9136-20260816",
+    "name": "炉ばたとおでん 太子堂サンカク",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "address": "東京都世田谷区太子堂5-16-7",
+    "lat": 35.648529,
+    "lng": 139.66835,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin東京！",
+    "visited_date": "2026-08-16",
+    "members": [
+      "栗原紗英",
+      "豊永阿紀"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "栗原紗英・豊永阿紀がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "source_type": "youtube",
+    "youtube_id": "8nOOAcvgQbs",
+    "source_video_url": "https://www.youtube.com/watch?v=8nOOAcvgQbs",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-56cb2c3d-20260711",
+    "name": "お好み焼みっちゃん総本店 おりづるタワー店",
+    "genre": "shokuji",
+    "prefecture": "広島県",
+    "city": "広島市中区",
+    "address": "広島県広島市中区大手町1-2-1 おりづるタワー1F",
+    "lat": 34.395702,
+    "lng": 132.454941,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin広島！",
+    "visited_date": "2026-07-11",
+    "members": [
+      "石橋颯",
+      "市村愛里",
+      "井澤美優"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・市村愛里・井澤美優がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=7hW2rZYvRSk",
+    "source_type": "youtube",
+    "youtube_id": "7hW2rZYvRSk",
+    "source_video_url": "https://www.youtube.com/watch?v=7hW2rZYvRSk",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/79/90/P047907990/P047907990_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004421831/"
+  },
+  {
+    "id": "hkt48-8f5dbe4d-20260711",
+    "name": "チー坊パーラー 大手町店",
+    "genre": "sweets",
+    "prefecture": "広島県",
+    "city": "広島市中区",
+    "address": "広島県広島市中区大手町1-5-3",
+    "lat": 34.394417,
+    "lng": 132.455978,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin広島！",
+    "visited_date": "2026-07-11",
+    "members": [
+      "石橋颯",
+      "市村愛里",
+      "井澤美優"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・市村愛里・井澤美優がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=7hW2rZYvRSk",
+    "source_type": "youtube",
+    "youtube_id": "7hW2rZYvRSk",
+    "source_video_url": "https://www.youtube.com/watch?v=7hW2rZYvRSk",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-be0b0153-20260623",
+    "name": "Palla Bagels",
+    "genre": "cafe",
+    "prefecture": "大阪府",
+    "city": "大阪市中央区",
+    "address": "大阪府大阪市中央区玉造2-2-16",
+    "lat": 34.679165,
+    "lng": 135.529572,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin大阪！",
+    "visited_date": "2026-06-23",
+    "members": [
+      "今村麻莉愛",
+      "竹本くるみ",
+      "渋井美奈",
+      "藤野心葉",
+      "山内祐奈",
+      "田中伊桜莉",
+      "福井可憐",
+      "安井妃奈"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "今村麻莉愛・竹本くるみ・渋井美奈・藤野心葉・山内祐奈・田中伊桜莉・福井可憐・安井妃奈がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "source_type": "youtube",
+    "youtube_id": "x9pQeNP6pHw",
+    "source_video_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-2b0f5637-20260623",
+    "name": "たこ焼き 魔法蛸",
+    "genre": "shokuji",
+    "prefecture": "大阪府",
+    "city": "大阪市北区",
+    "address": "大阪府大阪市北区同心2-14-19",
+    "lat": 34.702953,
+    "lng": 135.516617,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin大阪！",
+    "visited_date": "2026-06-23",
+    "members": [
+      "今村麻莉愛",
+      "竹本くるみ",
+      "渋井美奈",
+      "藤野心葉",
+      "山内祐奈",
+      "田中伊桜莉",
+      "福井可憐",
+      "安井妃奈"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "今村麻莉愛・竹本くるみ・渋井美奈・藤野心葉・山内祐奈・田中伊桜莉・福井可憐・安井妃奈がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "source_type": "youtube",
+    "youtube_id": "x9pQeNP6pHw",
+    "source_video_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-20cb0b1c-20260623",
+    "name": "fruit stand andy",
+    "genre": "sweets",
+    "prefecture": "大阪府",
+    "city": "大阪市天王寺区",
+    "address": "大阪府大阪市天王寺区玉造元町4-3 ヤマオカ1F",
+    "lat": 34.673855,
+    "lng": 135.531601,
+    "source_video_title": "【HKT48 15th Anniversary Live Tour 開催記念】HKT48と巡るツアー開催地ガイドin大阪！",
+    "visited_date": "2026-06-23",
+    "members": [
+      "今村麻莉愛",
+      "竹本くるみ",
+      "渋井美奈",
+      "藤野心葉",
+      "山内祐奈",
+      "田中伊桜莉",
+      "福井可憐",
+      "安井妃奈"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "今村麻莉愛・竹本くるみ・渋井美奈・藤野心葉・山内祐奈・田中伊桜莉・福井可憐・安井妃奈がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "source_type": "youtube",
+    "youtube_id": "x9pQeNP6pHw",
+    "source_video_url": "https://www.youtube.com/watch?v=x9pQeNP6pHw",
+    "visit_kind": "youtube",
+    "program": "HKT48（公式YouTubeチャンネル）"
+  },
+  {
+    "id": "hkt48-1474c5aa-20230629",
+    "name": "パスタとピザの店 らるきい",
+    "genre": "shokuji",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区荒戸3-1-1",
+    "lat": 33.590504,
+    "lng": 130.374969,
+    "source_video_title": "【6期生House】大好きな先輩と初ロケ 前編＃hkt48",
+    "visited_date": "2023-06-29",
+    "members": [
+      "運上弘菜",
+      "松本羽麗"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "運上弘菜・松本羽麗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=kwzXMmxJVj4",
+    "source_type": "youtube",
+    "youtube_id": "kwzXMmxJVj4",
+    "source_video_url": "https://www.youtube.com/watch?v=kwzXMmxJVj4",
+    "ordered_items": [
+      "パスタ"
+    ],
+    "visit_kind": "youtube",
+    "program": "HKT48 とっと〜と（公式サブチャンネル）"
+  },
+  {
+    "id": "hkt48-042a47f1-20230703",
+    "name": "パンシリオ",
+    "genre": "sweets",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区黒門8-15",
+    "lat": 33.588982,
+    "lng": 130.370483,
+    "source_video_title": "【6期生House】２０２３年福岡No.1のパフェとは？ 後編＃hkt48",
+    "visited_date": "2023-07-03",
+    "members": [
+      "運上弘菜",
+      "松本羽麗"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "運上弘菜・松本羽麗がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=mzNr1yNSV7U",
+    "source_type": "youtube",
+    "youtube_id": "mzNr1yNSV7U",
+    "source_video_url": "https://www.youtube.com/watch?v=mzNr1yNSV7U",
+    "ordered_items": [
+      "パフェ"
+    ],
+    "visit_kind": "youtube",
+    "program": "HKT48 とっと〜と（公式サブチャンネル）"
+  },
+  {
+    "id": "hkt48-d295aa67-20260628",
+    "name": "焼肉 BAKUFU 春吉",
+    "genre": "yakiniku",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区春吉3-12-26 2階",
+    "lat": 33.589729,
+    "lng": 130.405914,
+    "source_video_title": "【ガチ対決】焼肉好きNo.1は誰だ！？焼肉王決定戦！【前編】",
+    "visited_date": "2026-06-28",
+    "members": [
+      "石橋颯",
+      "豊永阿紀",
+      "梁瀬鈴雅",
+      "井澤美優",
+      "竹本くるみ"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・豊永阿紀・梁瀬鈴雅・井澤美優・竹本くるみがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=2CnERKl5_JQ",
+    "source_type": "youtube",
+    "youtube_id": "2CnERKl5_JQ",
+    "source_video_url": "https://www.youtube.com/watch?v=2CnERKl5_JQ",
+    "visit_kind": "youtube",
+    "program": "HKT48 とっと〜と（公式サブチャンネル）"
+  },
+  {
+    "id": "hkt48-0a1fb25f-20260327",
+    "name": "合馬茶屋",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "北九州市小倉南区",
+    "address": "福岡県北九州市小倉南区大字合馬1187",
+    "lat": 33.804676,
+    "lng": 130.82782,
+    "source_video_title": "【最終回】HKT48が「よかバス」ご褒美ツアーへ！【HKT48の福岡撮影中。】",
+    "visited_date": "2026-03-27",
+    "members": [
+      "田中伊桜莉",
+      "井澤美優",
+      "山内祐奈",
+      "北川陽彩"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "田中伊桜莉・井澤美優・山内祐奈・北川陽彩がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=IfleNGL1cVo",
+    "source_type": "youtube",
+    "youtube_id": "IfleNGL1cVo",
+    "source_video_url": "https://www.youtube.com/watch?v=IfleNGL1cVo",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "location_unverified": true
+  },
+  {
+    "id": "hkt48-0943eea9-20260327",
+    "name": "フランス料理 梓屋",
+    "genre": "shokuji",
+    "prefecture": "福岡県",
+    "city": "直方市",
+    "address": "福岡県直方市大字頓野1700",
+    "lat": 33.755772,
+    "lng": 130.752289,
+    "source_video_title": "【最終回】HKT48が「よかバス」ご褒美ツアーへ！【HKT48の福岡撮影中。】",
+    "visited_date": "2026-03-27",
+    "members": [
+      "田中伊桜莉",
+      "井澤美優",
+      "山内祐奈",
+      "北川陽彩"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "田中伊桜莉・井澤美優・山内祐奈・北川陽彩がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=IfleNGL1cVo",
+    "source_type": "youtube",
+    "youtube_id": "IfleNGL1cVo",
+    "source_video_url": "https://www.youtube.com/watch?v=IfleNGL1cVo",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/97/31/P039279731/P039279731_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000606487/"
+  },
+  {
+    "id": "hkt48-ff4c85b0-20260130",
+    "name": "漁師食堂 うのしま豊築丸（うみてらす豊前）",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "豊前市",
+    "address": "福岡県豊前市宇島76-31 2階",
+    "lat": 33.625175,
+    "lng": 131.134064,
+    "source_video_title": "【女子旅】HKT48が豊築地域で心も体もリフレッシュ！’’旬’’のおでかけスポットを紹介【HKT48の福岡撮影中。】",
+    "visited_date": "2026-01-30",
+    "members": [
+      "豊永阿紀",
+      "松永悠良"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "豊永阿紀・松永悠良がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=-VwobYttErM",
+    "source_type": "youtube",
+    "youtube_id": "-VwobYttErM",
+    "source_video_url": "https://www.youtube.com/watch?v=-VwobYttErM",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）"
+  },
+  {
+    "id": "hkt48-9922c539-20250926",
+    "name": "博多焼肉 NURUBON",
+    "genre": "yakiniku",
+    "prefecture": "福岡県",
+    "city": "福岡市博多区",
+    "address": "福岡県福岡市博多区博多駅東2-2-4 JR九州ホテルブラッサム福岡 B1F",
+    "lat": 33.589863,
+    "lng": 130.423584,
+    "source_video_title": "肉好き必見！HKT48が博多和牛のおいしさの秘密に迫る！【HKT48の福岡撮影中。】",
+    "visited_date": "2025-09-26",
+    "members": [
+      "山内祐奈",
+      "長野らら"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "山内祐奈・長野ららがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=R5ZRNSlZUBQ",
+    "source_type": "youtube",
+    "youtube_id": "R5ZRNSlZUBQ",
+    "source_video_url": "https://www.youtube.com/watch?v=R5ZRNSlZUBQ",
+    "ordered_items": [
+      "博多和牛"
+    ],
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/28/12/P042942812/P042942812_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003505012/"
+  },
+  {
+    "id": "hkt48-737cc9f3-20250214",
+    "name": "八女茶カフェ ぶんぶく",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "八女市",
+    "address": "福岡県八女市豊福269-2",
+    "lat": 33.229019,
+    "lng": 130.575363,
+    "source_video_title": "【女子旅】HKT48メンバーが筑後の観光スポットを満喫！イチゴ狩り体験、 おしゃれパン屋、癒しの八女茶カフェ、神社の映えスポット巡りで充実の1日！【HKT48の福岡撮影中。】",
+    "visited_date": "2025-02-14",
+    "members": [
+      "石橋颯",
+      "山川万里愛"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "石橋颯・山川万里愛がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=SVVN1Qla_tY",
+    "source_type": "youtube",
+    "youtube_id": "SVVN1Qla_tY",
+    "source_video_url": "https://www.youtube.com/watch?v=SVVN1Qla_tY",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）"
+  },
+  {
+    "id": "hkt48-600e5f4a-20241220",
+    "name": "THALIA COFFEE ROASTERS",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "address": "福岡県糸島市志摩野北2186-1",
+    "lat": 33.614201,
+    "lng": 130.166199,
+    "source_video_title": "【糸島観光】HKT48が糸島MaaSで巡る糸島市の見どころスポットを紹介します！【HKT48の福岡撮影中。】",
+    "visited_date": "2024-12-20",
+    "members": [
+      "秋吉優花",
+      "石井彩音"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "秋吉優花・石井彩音がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=pBc7x_J0-IY",
+    "source_type": "youtube",
+    "youtube_id": "pBc7x_J0-IY",
+    "source_video_url": "https://www.youtube.com/watch?v=pBc7x_J0-IY",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/43/35/P038274335/P038274335_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001278995/"
+  },
+  {
+    "id": "hkt48-7c46dad4-20241220",
+    "name": "レストランカフェ BeaSun",
+    "genre": "shokuji",
+    "prefecture": "福岡県",
+    "city": "糸島市",
+    "address": "福岡県糸島市志摩芥屋1047",
+    "lat": 33.581432,
+    "lng": 130.110794,
+    "source_video_title": "【糸島観光】HKT48が糸島MaaSで巡る糸島市の見どころスポットを紹介します！【HKT48の福岡撮影中。】",
+    "visited_date": "2024-12-20",
+    "members": [
+      "秋吉優花",
+      "石井彩音"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "秋吉優花・石井彩音がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=pBc7x_J0-IY",
+    "source_type": "youtube",
+    "youtube_id": "pBc7x_J0-IY",
+    "source_video_url": "https://www.youtube.com/watch?v=pBc7x_J0-IY",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/50/97/P040815097/P040815097_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001251417/",
+    "location_unverified": true
+  },
+  {
+    "id": "hkt48-a5672f22-20240209",
+    "name": "海辺の料理小宿 はつしろ",
+    "genre": "washoku",
+    "prefecture": "福岡県",
+    "city": "遠賀郡岡垣町",
+    "address": "福岡県遠賀郡岡垣町原670-14",
+    "lat": 33.877201,
+    "lng": 130.579041,
+    "source_video_title": "【観光企画第５弾】HKT48メンバーが筑前玄海エリアの観光スポットを紹介！ご当地イカグルメや着物着付け体験に挑戦！【HKT48の福岡撮影中。】",
+    "visited_date": "2024-02-09",
+    "members": [
+      "伊藤優絵瑠",
+      "最上奈那華"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "伊藤優絵瑠・最上奈那華がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=KmHq0bpjEdo",
+    "source_type": "youtube",
+    "youtube_id": "KmHq0bpjEdo",
+    "source_video_url": "https://www.youtube.com/watch?v=KmHq0bpjEdo",
+    "ordered_items": [
+      "イカ料理"
+    ],
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）"
+  },
+  {
+    "id": "hkt48-fa0f6e05-20231020",
+    "name": "里山カフェ 棚田屋",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "朝倉郡東峰村",
+    "address": "福岡県朝倉郡東峰村宝珠山5171-1",
+    "lat": 33.423416,
+    "lng": 130.878357,
+    "source_video_title": "【観光企画第４弾】HKT48メンバーがおすすめ観光スポットを紹介！日田彦山線ＢＲＴひこぼしライン沿線エリア【HKT48の福岡撮影中。】",
+    "visited_date": "2023-10-20",
+    "members": [
+      "山下エミリー",
+      "川平聖"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "山下エミリー・川平聖がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=b2tMoosHpV8",
+    "source_type": "youtube",
+    "youtube_id": "b2tMoosHpV8",
+    "source_video_url": "https://www.youtube.com/watch?v=b2tMoosHpV8",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "location_unverified": true
+  },
+  {
+    "id": "hkt48-d9f268e0-20230623",
+    "name": "タルト＆スイーツF",
+    "genre": "sweets",
+    "prefecture": "福岡県",
+    "city": "嘉麻市",
+    "address": "福岡県嘉麻市上臼井328-1 道の駅うすい内",
+    "lat": 33.560463,
+    "lng": 130.708603,
+    "source_video_title": "【観光企画第１弾】飯塚・嘉麻・桂川エリアのおすすめ観光スポットを巡る！【HKT48の福岡撮影中。】",
+    "visited_date": "2023-06-23",
+    "members": [
+      "栗原紗英",
+      "最上奈那華"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "栗原紗英・最上奈那華がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=Y7uh112Gyww",
+    "source_type": "youtube",
+    "youtube_id": "Y7uh112Gyww",
+    "source_video_url": "https://www.youtube.com/watch?v=Y7uh112Gyww",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）",
+    "location_unverified": true
+  },
+  {
+    "id": "hkt48-a9ba659a-20251024",
+    "name": "九博庭園 足湯茶屋",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "太宰府市",
+    "address": "福岡県太宰府市石坂4-7-2",
+    "lat": 33.516113,
+    "lng": 130.537247,
+    "source_video_title": "開館20周年！HKT48が九州国立博物館の見どころ紹介！【HKT48の福岡撮影中。】",
+    "visited_date": "2025-10-24",
+    "members": [
+      "坂本りの",
+      "立花心良"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "坂本りの・立花心良がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=y4a3V2wBLB4",
+    "source_type": "youtube",
+    "youtube_id": "y4a3V2wBLB4",
+    "source_video_url": "https://www.youtube.com/watch?v=y4a3V2wBLB4",
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）"
+  },
+  {
+    "id": "hkt48-5dae18d8-20250613",
+    "name": "旧福岡県公会堂貴賓館 カフェ",
+    "genre": "cafe",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "address": "福岡県福岡市中央区西中洲6-29",
+    "lat": 33.592243,
+    "lng": 130.403809,
+    "source_video_title": "HKT48がレトロ体験！福岡・天神の貴賓館で明治の貴婦人に変身【HKT48の福岡撮影中。】",
+    "visited_date": "2025-06-13",
+    "members": [
+      "栗原紗英",
+      "梁瀬鈴雅"
+    ],
+    "groups": [
+      "hkt48"
+    ],
+    "group": "hkt48",
+    "description": "栗原紗英・梁瀬鈴雅がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=a2qqheOds-8",
+    "source_type": "youtube",
+    "youtube_id": "a2qqheOds-8",
+    "source_video_url": "https://www.youtube.com/watch?v=a2qqheOds-8",
+    "ordered_items": [
+      "アフタヌーンティー"
+    ],
+    "visit_kind": "youtube",
+    "program": "HKT48の福岡撮影中。（ふくおかインターネットテレビ／福岡県公式YouTube）"
+  },
+  {
+    "id": "imp-e41fc122-20240304",
+    "name": "Shake Shack 外苑いちょう並木店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区北青山2-1-15",
+    "lat": 35.673153,
+    "lng": 139.719757,
+    "source_video_title": "【ノープランドライブ】新ゲーム発明!? マジカルIMP.が面白すぎる #52",
+    "visited_date": "2024-03-04",
+    "members": [
+      "基俊介",
+      "影山拓也",
+      "鈴木大河",
+      "佐藤新"
+    ],
+    "groups": [
+      "imp"
+    ],
+    "group": "imp",
+    "description": "基俊介・影山拓也・鈴木大河・佐藤新がYouTubeの動画で訪れたお店。",
+    "source_url": "https://note.com/ocha_ta16/n/n8c7aaecdb3a1",
+    "source_type": "youtube",
+    "youtube_id": "74ZQO1zuQKU",
+    "source_video_url": "https://www.youtube.com/watch?v=74ZQO1zuQKU",
+    "visit_kind": "youtube",
+    "program": "IMP. OFFICIAL"
+  },
+  {
+    "id": "imp-30ab3d94-20240613",
+    "name": "ARIAKE ARENA DINING MOON RIVER",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区有明1-11-1 有明アリーナ",
+    "lat": 35.64241,
+    "lng": 139.795013,
+    "source_video_title": "自分のうちわを持って向かった先は…単独ライブ直前！想いも暴露…#46",
+    "visited_date": "2024-06-13",
+    "members": [
+      "佐藤新",
+      "基俊介"
+    ],
+    "groups": [
+      "imp"
+    ],
+    "group": "imp",
+    "description": "佐藤新・基俊介がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=fs3oeNBektY",
+    "source_type": "youtube",
+    "youtube_id": "fs3oeNBektY",
+    "source_video_url": "https://www.youtube.com/watch?v=fs3oeNBektY",
+    "ordered_items": [
+      "ピザ",
+      "ワッフル"
+    ],
+    "visit_kind": "youtube",
+    "program": "北山宏光（北山ちゃんねる）"
+  },
+  {
+    "id": "imp-8a10db93-20240613",
+    "name": "からあげ食堂 房総家 豊洲店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区豊洲3-3-3 豊洲センタービル B1F",
+    "lat": 35.656506,
+    "lng": 139.796036,
+    "source_video_title": "自分のうちわを持って向かった先は…単独ライブ直前！想いも暴露…#46",
+    "visited_date": "2024-06-13",
+    "members": [
+      "佐藤新",
+      "基俊介"
+    ],
+    "groups": [
+      "imp"
+    ],
+    "group": "imp",
+    "description": "佐藤新・基俊介がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=fs3oeNBektY",
+    "source_type": "youtube",
+    "youtube_id": "fs3oeNBektY",
+    "source_video_url": "https://www.youtube.com/watch?v=fs3oeNBektY",
+    "ordered_items": [
+      "唐揚げ"
+    ],
+    "visit_kind": "youtube",
+    "program": "北山宏光（北山ちゃんねる）"
+  },
+  {
+    "id": "daice-56ad6eaa-20260809",
+    "name": "あずき工房れんれん",
+    "genre": "sweets",
+    "prefecture": "群馬県",
+    "city": "富岡市",
+    "address": "群馬県富岡市富岡35-13",
+    "lat": 36.256138,
+    "lng": 138.889313,
+    "source_video_title": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）",
+    "visited_date": "2026-08-09",
+    "members": [
+      "花村想太"
+    ],
+    "groups": [
+      "daice"
+    ],
+    "group": "daice",
+    "description": "花村想太が『メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723svo0cqkzth5rc7q5.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "visit_kind": "guest_tv",
+    "program": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）"
+  },
+  {
+    "id": "daice-79f7e489-20260809",
+    "name": "CAFÉ DRÔME",
+    "genre": "cafe",
+    "prefecture": "群馬県",
+    "city": "富岡市",
+    "address": "群馬県富岡市富岡51-4",
+    "lat": 36.254192,
+    "lng": 138.889709,
+    "source_video_title": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）",
+    "visited_date": "2026-08-09",
+    "members": [
+      "花村想太"
+    ],
+    "groups": [
+      "daice"
+    ],
+    "group": "daice",
+    "description": "花村想太が『メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723svo0cqkzth5rc7q5.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "コーヒー（テイクアウト）"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）"
+  },
+  {
+    "id": "daice-c868759a-20260809",
+    "name": "神宮商店",
+    "genre": "others",
+    "prefecture": "群馬県",
+    "city": "富岡市",
+    "address": "群馬県富岡市富岡1454",
+    "lat": 36.259037,
+    "lng": 138.890656,
+    "source_video_title": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）",
+    "visited_date": "2026-08-09",
+    "members": [
+      "花村想太"
+    ],
+    "groups": [
+      "daice"
+    ],
+    "group": "daice",
+    "description": "花村想太が『メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/meshidora/articles/3723svo0cqkzth5rc7q5.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yp4RMis8H8sHsR6VcpAm6rRinc1.jpg",
+    "tmdb_id": 254708,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "納豆おにぎり"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "メシドラ ～兼近＆真之介のグルメドライブ～（日本テレビ）"
+  },
+  {
+    "id": "daice-055340f9-20241125",
+    "name": "窯焼きdining 高崎カメレオン",
+    "genre": "shokuji",
+    "prefecture": "群馬県",
+    "city": "高崎市",
+    "address": "群馬県高崎市通町39-1",
+    "lat": 36.324032,
+    "lng": 139.009369,
+    "source_video_title": "motto（群馬のライフスタイル誌）連載「Da-iCE和田颯のハヤペディア」",
+    "visited_date": "2024-11-25",
+    "members": [
+      "和田颯"
+    ],
+    "groups": [
+      "daice"
+    ],
+    "group": "daice",
+    "description": "和田颯が『motto（群馬のライフスタイル誌）連載「Da-iCE和田颯のハヤペディア」』で訪れたお店。",
+    "source_url": "https://motto-mag.com/hayapedia-001/",
+    "source_type": "tv",
+    "visit_kind": "magazine",
+    "program": "motto（群馬のライフスタイル誌）連載「Da-iCE和田颯のハヤペディア」",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/01/62/P033810162/P033810162_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001215450/"
+  },
+  {
+    "id": "mazzel-4ced3d29-20261020",
+    "name": "蓬莱屋",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野3-28-5",
+    "lat": 35.707439,
+    "lng": 139.773712,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ヒレカツ定食"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）"
+  },
+  {
+    "id": "mazzel-f46dfc8d-20261020",
+    "name": "黒工号 上野店",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野4-6-8",
+    "lat": 35.709003,
+    "lng": 139.774261,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "黒工1号"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）"
+  },
+  {
+    "id": "mazzel-8c0a8369-20261020",
+    "name": "肉の大山 上野店",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野6-13-2",
+    "lat": 35.710377,
+    "lng": 139.775269,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "やみつきコロッケ",
+      "匠の和牛メンチ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000233045/"
+  },
+  {
+    "id": "mazzel-060ef1b5-20261020",
+    "name": "地魚屋台 上野浜ちゃん",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野6-9-13",
+    "lat": 35.710358,
+    "lng": 139.775101,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "活帆立バター焼",
+      "とろたく巻き",
+      "〆さば天ぷら"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）"
+  },
+  {
+    "id": "mazzel-ea0ef2c5-20261020",
+    "name": "IEKEI TOKYO 王道家直系",
+    "genre": "ramen",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "address": "東京都千代田区外神田5-2-7",
+    "lat": 35.704411,
+    "lng": 139.772324,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "ラーメン"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）"
+  },
+  {
+    "id": "mazzel-e3d46218-20261020",
+    "name": "かるた家",
+    "genre": "sweets",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野4-9-13",
+    "lat": 35.710152,
+    "lng": 139.77449,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "都まんじゅう"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）"
+  },
+  {
+    "id": "mazzel-61338382-20261020",
+    "name": "てふてふ 上野店",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区上野4-9-6 上野ナガフジビル5F",
+    "lat": 35.710175,
+    "lng": 139.773865,
+    "source_video_title": "ヒルナンデス！（日本テレビ）",
+    "visited_date": "2026-10-20",
+    "members": [
+      "NAOYA",
+      "RAN"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・RANが『ヒルナンデス！（日本テレビ）』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/hirunan/articles/3081ucnxhkwtcy5ofe8y.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCpO35eK37moODH9ENbKU2jZhyO.jpg",
+    "tmdb_id": 45931,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "肉巻きおでん5種盛り合わせ",
+      "夢あじポーク",
+      "海鮮3種の土鍋飯"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "ヒルナンデス！（日本テレビ）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001010941/"
+  },
+  {
+    "id": "mazzel-9374456f-20251021",
+    "name": "重慶茶樓 横浜中華街本店",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町185 おみやげセンター2F",
+    "lat": 35.443066,
+    "lng": 139.647354,
+    "source_video_title": "MAZZEL (マーゼル) EIKI＆NAOYAが横浜中華街の新トレンド「かけ算グルメ」を全力食リポ！中華×イタリアンやネオ中華スイーツに「脳に来る感じ」独特コメント【リポーターやってください】",
+    "visited_date": "2025-10-21",
+    "members": [
+      "EIKI",
+      "NAOYA"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "EIKI・NAOYAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.jukeihanten.com/menu/2333/",
+    "source_type": "youtube",
+    "youtube_id": "gY5unuRi__c",
+    "source_video_url": "https://www.youtube.com/watch?v=gY5unuRi__c",
+    "ordered_items": [
+      "中華風トリッパ",
+      "鴨のコンフィ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ「リポーターやってください！」（フジテレビ）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000021536/"
+  },
+  {
+    "id": "mazzel-51fb07f0-20251021",
+    "name": "カフェジャン 横浜中華街店",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山下町78-3",
+    "lat": 35.444065,
+    "lng": 139.647552,
+    "source_video_title": "MAZZEL (マーゼル) EIKI＆NAOYAが横浜中華街の新トレンド「かけ算グルメ」を全力食リポ！【リポーターやってください】",
+    "visited_date": "2025-10-21",
+    "members": [
+      "EIKI",
+      "NAOYA"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "EIKI・NAOYAがYouTubeの動画で訪れたお店。",
+    "source_url": "https://x.com/CAFEGIANGJAPAN/status/2024757008919138495",
+    "source_type": "youtube",
+    "youtube_id": "gY5unuRi__c",
+    "source_video_url": "https://www.youtube.com/watch?v=gY5unuRi__c",
+    "visit_kind": "guest_tv",
+    "program": "めざましテレビ「リポーターやってください！」（フジテレビ）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001202143/"
+  },
+  {
+    "id": "mazzel-6f7c69e8-20250208",
+    "name": "オステリア アズーロ",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座1-20-9",
+    "lat": 35.672356,
+    "lng": 139.77034,
+    "source_video_title": "Ep.30 |【解禁】メンバーだけで初めての飲み会 [MAZZEL ROOM #まぜべや 🛋️]",
+    "visited_date": "2025-02-08",
+    "members": [
+      "KAIRYU",
+      "SEITO",
+      "RAN",
+      "RYUKI",
+      "TAKUTO",
+      "HAYATO",
+      "NAOYA",
+      "EIKI"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "KAIRYU・SEITO・RAN・RYUKI・TAKUTO・HAYATO・NAOYA・EIKIがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.all-about-befirst.online/mazebeya_azzuro/",
+    "source_type": "youtube",
+    "youtube_id": "XpBEe6Ulo9M",
+    "source_video_url": "https://www.youtube.com/watch?v=XpBEe6Ulo9M",
+    "ordered_items": [
+      "ホタテのオーブン焼き",
+      "パルマ産生ハムとサラミの盛り合わせ",
+      "カルパッチョ",
+      "チーズ盛り合わせ",
+      "トマトソースのパスタ",
+      "赤身肉のステーキ"
+    ],
+    "visit_kind": "youtube",
+    "program": "MAZZEL（公式YouTube）"
+  },
+  {
+    "id": "mazzel-d3e7b008-20260506",
+    "name": "GENUINE BURGER&BAL TORANOMON",
+    "genre": "shokuji",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区西新橋1-22-2 木戸ビル1階",
+    "lat": 35.668224,
+    "lng": 139.751831,
+    "source_video_title": "よるのブランチ（TBS）",
+    "visited_date": "2026-05-06",
+    "members": [
+      "NAOYA",
+      "EIKI",
+      "HAYATO"
+    ],
+    "groups": [
+      "mazzel"
+    ],
+    "group": "mazzel",
+    "description": "NAOYA・EIKI・HAYATOが『よるのブランチ（TBS）』で訪れたお店。",
+    "source_url": "https://niratamajournal.com/nightblunch-toranomon-genuine/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mq7blcsg79kqbhnsyiTq1jxSvK7.jpg",
+    "tmdb_id": 229014,
+    "tmdb_type": "tv",
+    "ordered_items": [
+      "チェダーチーズビーフバーガー"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "よるのブランチ（TBS）"
+  },
+  {
+    "id": "ske48-bdf251fb-20250216",
+    "name": "味仙 矢場店",
+    "genre": "chuka",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区大須3-6-3",
+    "lat": 35.161888,
+    "lng": 136.905716,
+    "source_video_title": "【悶絶】名古屋名物 味仙の台湾ラーメン！一番辛いエイリアンに挑みます🔥",
+    "visited_date": "2025-02-16",
+    "members": [
+      "太田彩夏",
+      "藤本冬香",
+      "末永桜花",
+      "菅原茉椰"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "太田彩夏・藤本冬香・末永桜花・菅原茉椰がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=RQcSJAhwnxw",
+    "source_type": "youtube",
+    "youtube_id": "RQcSJAhwnxw",
+    "source_video_url": "https://www.youtube.com/watch?v=RQcSJAhwnxw",
+    "ordered_items": [
+      "台湾ラーメン（エイリアン）"
+    ],
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-ec0f52aa-20250713",
+    "name": "尾張ラーメン 第一旭 錦店",
+    "genre": "ramen",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区錦3-13-13",
+    "lat": 35.171215,
+    "lng": 136.905426,
+    "source_video_title": "【ラーメン部】SKE48ラーメン部がラーメン作りに挑戦！",
+    "visited_date": "2025-07-13",
+    "members": [
+      "相川暖花",
+      "菅原茉椰",
+      "中野愛理"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "相川暖花・菅原茉椰・中野愛理がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=wQVnKZDBY3c",
+    "source_type": "youtube",
+    "youtube_id": "wQVnKZDBY3c",
+    "source_video_url": "https://www.youtube.com/watch?v=wQVnKZDBY3c",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-22c89a04-20250810",
+    "name": "喫茶マウンテン",
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "city": "名古屋市昭和区",
+    "address": "愛知県名古屋市昭和区滝川町47-86",
+    "lat": 35.14164,
+    "lng": 136.958389,
+    "source_video_title": "【新コンビ結成？】若手で行く ばらえてぃ修行",
+    "visited_date": "2025-08-10",
+    "members": [
+      "山村さくら",
+      "大村杏",
+      "河村優愛"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "山村さくら・大村杏・河村優愛がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=nXRp_zs33Og",
+    "source_type": "youtube",
+    "youtube_id": "nXRp_zs33Og",
+    "source_video_url": "https://www.youtube.com/watch?v=nXRp_zs33Og",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-cadbdb4b-20251102",
+    "name": "仙石すし 本店",
+    "genre": "washoku",
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "address": "愛知県名古屋市中村区太閤4-4-3",
+    "lat": 35.166088,
+    "lng": 136.878235,
+    "source_video_title": "【アイドルのリアル休日密着】坂本真凛編",
+    "visited_date": "2025-11-02",
+    "members": [
+      "坂本真凛",
+      "石黒友月"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "坂本真凛・石黒友月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "source_type": "youtube",
+    "youtube_id": "wldgaceu7Nc",
+    "source_video_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ004402044/"
+  },
+  {
+    "id": "ske48-ef0ec85c-20251102",
+    "name": "コンパル 大須本店",
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区大須3-20-19",
+    "lat": 35.15937,
+    "lng": 136.904755,
+    "source_video_title": "【アイドルのリアル休日密着】坂本真凛編",
+    "visited_date": "2025-11-02",
+    "members": [
+      "坂本真凛",
+      "石黒友月"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "坂本真凛・石黒友月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "source_type": "youtube",
+    "youtube_id": "wldgaceu7Nc",
+    "source_video_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000430215/"
+  },
+  {
+    "id": "ske48-e12c309c-20251102",
+    "name": "カヌレとアイス 大須本店",
+    "genre": "sweets",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区大須3-37-43",
+    "lat": 35.158844,
+    "lng": 136.901672,
+    "source_video_title": "【アイドルのリアル休日密着】坂本真凛編",
+    "visited_date": "2025-11-02",
+    "members": [
+      "坂本真凛",
+      "石黒友月"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "坂本真凛・石黒友月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "source_type": "youtube",
+    "youtube_id": "wldgaceu7Nc",
+    "source_video_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-fa91aef1-20251102",
+    "name": "サモエドカフェスマイル",
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区栄2-2-8 オードヴィー伏見",
+    "lat": 35.168255,
+    "lng": 136.899582,
+    "source_video_title": "【アイドルのリアル休日密着】坂本真凛編",
+    "visited_date": "2025-11-02",
+    "members": [
+      "坂本真凛",
+      "石黒友月"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "坂本真凛・石黒友月がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "source_type": "youtube",
+    "youtube_id": "wldgaceu7Nc",
+    "source_video_url": "https://www.youtube.com/watch?v=wldgaceu7Nc",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-c5ce13b7-20260125",
+    "name": "お米と焼肉 肉のよいち 春日井店",
+    "genre": "yakiniku",
+    "prefecture": "愛知県",
+    "city": "春日井市",
+    "address": "愛知県春日井市鳥居松町2-15",
+    "lat": 35.244251,
+    "lng": 136.967316,
+    "source_video_title": "【ご褒美旅行】焼肉で大満腹編",
+    "visited_date": "2026-01-25",
+    "members": [
+      "倉島杏実",
+      "杉本りいな",
+      "山村さくら",
+      "篠原京香",
+      "大村杏",
+      "中坂美祐",
+      "森本くるみ"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "倉島杏実・杉本りいな・山村さくら・篠原京香・大村杏・中坂美祐・森本くるみがYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=2pOvs4_agx8",
+    "source_type": "youtube",
+    "youtube_id": "2pOvs4_agx8",
+    "source_video_url": "https://www.youtube.com/watch?v=2pOvs4_agx8",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001262619/"
+  },
+  {
+    "id": "ske48-02425cfc-20260201",
+    "name": "怪談カフェ ホラーナイト",
+    "genre": "cafe",
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "address": "愛知県名古屋市中村区名楽町1-4-5",
+    "lat": 35.16888,
+    "lng": 136.867722,
+    "source_video_title": "【心霊現象あり⁉】悲鳴！震撼！真冬に怖い話で震え上がろう",
+    "visited_date": "2026-02-01",
+    "members": [
+      "伊藤実希",
+      "井上瑠夏",
+      "佐藤佳穂"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "伊藤実希・井上瑠夏・佐藤佳穂がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=s0jD6dtXAJE",
+    "source_type": "youtube",
+    "youtube_id": "s0jD6dtXAJE",
+    "source_video_url": "https://www.youtube.com/watch?v=s0jD6dtXAJE",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "ske48-cc5ce101-20260215",
+    "name": "タイ料理レストラン サイアムガーデン",
+    "genre": "others",
+    "prefecture": "愛知県",
+    "city": "名古屋市中区",
+    "address": "愛知県名古屋市中区錦1-15-17 旧加藤商会ビル1F",
+    "lat": 35.168083,
+    "lng": 136.892334,
+    "source_video_title": "【おかえりなさい】タイでの出来事話します❕",
+    "visited_date": "2026-02-15",
+    "members": [
+      "青海ひな乃",
+      "赤堀君江",
+      "鈴木愛菜"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "青海ひな乃・赤堀君江・鈴木愛菜がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=JBUDSpbfY3Q",
+    "source_type": "youtube",
+    "youtube_id": "JBUDSpbfY3Q",
+    "source_video_url": "https://www.youtube.com/watch?v=JBUDSpbfY3Q",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000428331/"
+  },
+  {
+    "id": "ske48-d2568608-20260301",
+    "name": "ラーメン山岡家 名古屋太平通店",
+    "genre": "ramen",
+    "prefecture": "愛知県",
+    "city": "名古屋市中川区",
+    "address": "愛知県名古屋市中川区太平通5-40",
+    "lat": 35.132854,
+    "lng": 136.868683,
+    "source_video_title": "【ラーメン部】初山岡家でガチャまで全力参戦❕",
+    "visited_date": "2026-03-01",
+    "members": [
+      "相川暖花",
+      "坂本真凛",
+      "伊藤実希"
+    ],
+    "groups": [
+      "ske48"
+    ],
+    "group": "ske48",
+    "description": "相川暖花・坂本真凛・伊藤実希がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=uF9GrS2pNBU",
+    "source_type": "youtube",
+    "youtube_id": "uF9GrS2pNBU",
+    "source_video_url": "https://www.youtube.com/watch?v=uF9GrS2pNBU",
+    "visit_kind": "youtube",
+    "program": "SKE48 公式YouTube（SKE48）"
+  },
+  {
+    "id": "juicejuice-2db4885c-20241019",
+    "name": "ちゃんこ霧島 両国 江戸NOREN店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "address": "東京都墨田区横網1-3-20 両国江戸NOREN",
+    "lat": 35.696163,
+    "lng": 139.792007,
+    "source_video_title": "キタに恋した！",
+    "visited_date": "2024-10-19",
+    "members": [
+      "工藤由愛"
+    ],
+    "groups": [
+      "juicejuice"
+    ],
+    "group": "juicejuice",
+    "description": "工藤由愛が『キタに恋した！』で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=VaSMpN_j6xM",
+    "source_type": "tv",
+    "ordered_items": [
+      "ちゃんこ鍋"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "キタに恋した！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/24/47/P041002447/P041002447_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ001160210/"
+  },
+  {
+    "id": "juicejuice-2c99742d-20191202",
+    "name": "VORTEX SPORTS CAFÉ",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区神南2-1-1 国立代々木競技場",
+    "lat": 35.668793,
+    "lng": 139.701874,
+    "source_video_title": "Juice=Juice《国立代々木競技場》グルメスポット満喫！",
+    "visited_date": "2019-12-02",
+    "members": [
+      "段原瑠々",
+      "金澤朋子",
+      "稲場愛香"
+    ],
+    "groups": [
+      "juicejuice"
+    ],
+    "group": "juicejuice",
+    "description": "段原瑠々・金澤朋子・稲場愛香がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=AuBbl4khucY",
+    "source_type": "youtube",
+    "youtube_id": "AuBbl4khucY",
+    "source_video_url": "https://www.youtube.com/watch?v=AuBbl4khucY",
+    "visit_kind": "youtube",
+    "program": "OMAKE CHANNEL"
+  },
+  {
+    "id": "juicejuice-f20c63e8-20250412",
+    "name": "つるとんたん 新宿店",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町2-26-3 B1",
+    "lat": 35.695389,
+    "lng": 139.702972,
+    "source_video_title": "キタに恋した！",
+    "visited_date": "2025-04-12",
+    "members": [
+      "遠藤彩加里"
+    ],
+    "groups": [
+      "juicejuice"
+    ],
+    "group": "juicejuice",
+    "description": "遠藤彩加里が『キタに恋した！』で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=3UYbiQ_PG1Q",
+    "source_type": "tv",
+    "ordered_items": [
+      "うどん"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "キタに恋した！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/97/46/P012429746/P012429746_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000682824/"
+  },
+  {
+    "id": "morningmusume-03cadf55-20220618",
+    "name": "Label Cafe（レーベルカフェ）",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "港区",
+    "address": "東京都港区三田1-11-49 レーベルビル1階",
+    "lat": 35.653835,
+    "lng": 139.738159,
+    "source_video_title": "モーニング娘。'22 森戸知沙希『女子会をしたい！』with譜久村聖・牧野真莉愛【卒業直前企画】",
+    "visited_date": "2022-06-18",
+    "members": [
+      "森戸知沙希",
+      "譜久村聖",
+      "牧野真莉愛"
+    ],
+    "groups": [
+      "morningmusume"
+    ],
+    "group": "morningmusume",
+    "description": "森戸知沙希・譜久村聖・牧野真莉愛がYouTubeの動画で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=EwljOyWngeU",
+    "source_type": "youtube",
+    "youtube_id": "EwljOyWngeU",
+    "source_video_url": "https://www.youtube.com/watch?v=EwljOyWngeU",
+    "visit_kind": "youtube",
+    "program": "OMAKE CHANNEL"
+  },
+  {
+    "id": "angerme-4c84e2d4-20230506",
+    "name": "KIBORI 新宿",
+    "genre": "washoku",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-16-3 セレサ陽栄新宿ビル6〜7F",
+    "lat": 35.693661,
+    "lng": 139.701904,
+    "source_video_title": "キタに恋した！",
+    "visited_date": "2023-05-06",
+    "members": [
+      "伊勢鈴蘭"
+    ],
+    "groups": [
+      "angerme"
+    ],
+    "group": "angerme",
+    "description": "伊勢鈴蘭が『キタに恋した！』で訪れたお店。",
+    "source_url": "https://www.tvlife.jp/variety/566542",
+    "source_type": "tv",
+    "ordered_items": [
+      "鮭のちゃんちゃん焼き",
+      "函館朝市直送の刺身"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "キタに恋した！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/25/90/P046232590/P046232590_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ003411791/"
+  },
+  {
+    "id": "angerme-3cfdec92-20250125",
+    "name": "喫茶アメリカン",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区銀座4-11-7",
+    "lat": 35.669804,
+    "lng": 139.768784,
+    "source_video_title": "キタに恋した！",
+    "visited_date": "2025-01-25",
+    "members": [
+      "伊勢鈴蘭"
+    ],
+    "groups": [
+      "angerme"
+    ],
+    "group": "angerme",
+    "description": "伊勢鈴蘭が『キタに恋した！』で訪れたお店。",
+    "source_url": "https://www.youtube.com/watch?v=Gwsyl-tTL9A",
+    "source_type": "tv",
+    "ordered_items": [
+      "巨大サンドイッチ"
+    ],
+    "visit_kind": "guest_tv",
+    "program": "キタに恋した！",
+    "hotpepper_photo": "https://imgfp.hotp.jp/IMGH/11/66/P012081166/P012081166_238.jpg",
+    "hotpepper_url": "https://www.hotpepper.jp/strJ000116884/"
   }
 ]
