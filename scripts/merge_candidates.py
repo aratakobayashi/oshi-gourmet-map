@@ -53,7 +53,7 @@ for x in d.get('new', []):
     elif x.get('visit_type') != 'visit' and x.get('relation') != 'guest_favorite': why = 'visit_type'
     elif x.get('closed'): why = 'closed'
     elif x.get('needs_address') or not x.get('address'): why = 'address'
-    elif not re.fullmatch(r'[\w-]{11}', x.get('youtube_id') or '') and not (x.get('thumbnail_url') or '').startswith('https://image.tmdb.org/'): why = 'no-image'
+    elif not re.fullmatch(r'[\w-]{11}', x.get('youtube_id') or '') and not (x.get('thumbnail_url') or '').startswith('https://image.tmdb.org/') and not x.get('hotpepper_photo'): why = 'no-image'
     elif not x.get('prefecture'): why = 'overseas'
     elif not g: why = 'no-group'
     elif key(x) in names.get(g, set()): why = 'dup-name'
@@ -101,7 +101,7 @@ for x in d.get('new', []):
         s['youtube_id'] = yt; s['source_video_url'] = 'https://www.youtube.com/watch?v=' + yt
     else:  # テレビ番組・ドラマ（TMDBの画像）
         s['source_type'] = x.get('source_type') or 'tv'
-        s['thumbnail_url'] = x['thumbnail_url']
+        if x.get('thumbnail_url'): s['thumbnail_url'] = x['thumbnail_url']  # 番組がTMDBにない店はホットペッパーの写真（hotpepper_photo）だけ
         if x.get('tmdb_id'): s['tmdb_id'] = x['tmdb_id']; s['tmdb_type'] = x.get('tmdb_type') or 'tv'
         verb = '紹介した' if x.get('relation') == 'guest_favorite' else '訪れた'  # ゲストが番組で挙げた店（人生最高レストランなど）
         s['description'] = (f"{mem}が" if mem else '') + f"『{x.get('program') or x['source_video_title']}』で{verb}お店。"
