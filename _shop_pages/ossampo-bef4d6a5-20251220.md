@@ -24,7 +24,9 @@ members:
   - "中村雅俊"
   - "坂上忍"
   - "髙地優吾"
+  - "竹田京加"
 groups:
   - "ossampo"
   - "sixtones"
+  - "nmb48"
 ---

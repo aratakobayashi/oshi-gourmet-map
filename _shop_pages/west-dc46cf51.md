@@ -22,8 +22,11 @@ lat: 35.6505871
 lng: 139.7495267
 members:
   - "中間淳太"
+  - "高城れに"
+  - "玉井詩織"
 groups:
   - "west"
+  - "momoclo"
 ordered_items:
   - "爆辛マグマ煮込みうどん"
 ---
