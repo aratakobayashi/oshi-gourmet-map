@@ -147,7 +147,12 @@ def collect_channel(ch, state, log):
                     continue
                 m = re.match(r'^[■▼【・]?\s*(?:%s)\s*[】]?\s*[:：]\s*(.+)$' % al, l)
                 if m and cur:
-                    new.append(mk(name=cur, address=m.group(1).strip(), genre=genre_of(cur), confidence='high', **base))
+                    addr = re.sub(r'^〒?\s*\d{3}-?\d{4}\s*', '', m.group(1).strip())  # 「〒556-0022 大阪府…」の郵便番号を外す
+                    if re.match(r'https?://', addr):  # 住所の代わりに地図のリンクだけの回は見送り
+                        skipped.append(('住所が地図のリンクだけ', f'{cur}（{title[:30]}）'))
+                        cur = None
+                        continue
+                    new.append(mk(name=cur, address=addr, genre=genre_of(cur), confidence='high', **base))
                     cur = None
     return new, skipped, {'last_date': newest}
 

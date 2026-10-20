@@ -303,6 +303,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 
 ## 週1回の自動更新（2026-10-13〜。.github/workflows/weekly-update.yml）
 - 毎週月曜 日本時間5:50ごろ（手動は Actions → Weekly update → Run workflow。dry_run にチェックで書き込みなし）。`scripts/weekly/run.py` が情報源ごとに新しい回の店を候補にし、`scripts/merge_candidates.py`（国土地理院で番地まで一致・同じグループの重複なし・画像あり）を通った店だけ data/shops.json に足す → `build_pages.sh --no-commit` → `check_articles.py --strict`（エラーなら commit しない）→ main に commit・push → 同じワークフローでサイトを作って公開（GITHUB_TOKEN の push では deploy-site.yml が動かないため）。足した店が0件なら commit しない
+- YouTube の channels に 裏なんばちゃん【NMB48公式】（name_address。概要欄の「店名：」「場所：〒…」「出演：」。2026-10-20）。場所が地図リンクだけの回は見送り（Summary に「住所が地図のリンクだけ」）
 - 情報源は `scripts/weekly/sources.json`（1情報源＝`scripts/weekly/<adapter>.py`。`collect(cfg, state, log)` が `{"new":[候補], "skipped":[(理由, 名前)], "state":{...}}` を返す）。今あるもの: 町中華で飲ろうぜ（公式XML）・吉田類の酒場放浪記（店ページ番号の続き。未放送ページで止まる）・ぶらり途中下車の旅（articles.js）・食彩の王国（api/shop.json。ジャンルは公式の見出し優先）・オモウマい店（feed/onair-1.json。紹介メニューは ordered_items にしない）・YouTube（乃木坂配信中の「撮影協力」をホットペッパーAPIで1軒に決める）。どこまで読んだかは `scripts/weekly/state.json`（`--init-state` で今の shops.json の最新回から作り直せる）。lookback_days 分は読み直す（足し済みは merge_candidates が重複として外す）
 - このサイトの robots.txt（2026-10-19）: 検索エンジンと AI 検索（OAI-SearchBot・ChatGPT-User・Claude-SearchBot・Claude-User・PerplexityBot など）は許可、AI の学習用クローラー（GPTBot・ClaudeBot・anthropic-ai・Google-Extended・Applebot-Extended・CCBot など）は断る
 - robots.txt で ClaudeBot・anthropic-ai を拒否しているサイト（8888-info.hatenablog.com・aumo.jp / gourmet.aumo.jp など）は、まとめて読む調査に使わない（2026-10-19 に、ここから取った食べログの確認・注文を取り消した）。読む前にそのサイトの robots.txt で AI のクローラーの扱いも確かめる
