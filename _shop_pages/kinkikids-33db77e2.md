@@ -23,8 +23,12 @@ lng: 139.77034109422178
 members:
   - "堂本光一"
   - "堂本剛"
+  - "佐々木彩夏"
+  - "玉井詩織"
+  - "高城れに"
 groups:
   - "kinkikids"
+  - "momoclo"
 ordered_items:
   - "上上豚カレー(中辛)"
 ---
