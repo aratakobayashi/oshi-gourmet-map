@@ -20,8 +20,8 @@ tags:
 - ユーキ
 - タカシ
 - リョウガ
-- アロハ
 - マサヒロ
+- アロハ
 sources:
 - label: 超特急公式（東京ドーム公演の公演情報）
   url: https://bullettrain.jp/live_information/detail/66

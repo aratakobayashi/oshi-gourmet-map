@@ -19,11 +19,11 @@ tags:
 - ワールド記念ホール
 - 国立代々木競技場第一体育館
 - クロコくんホール
+- 金村美玖
+- 渡辺莉奈
 - 佐々木美玲
 - 丹生明里
-- 宮田愛萌
-- 平岡海月
-- 平尾帆夏
+- 髙橋未来虹
 sources:
 - label: 日向坂46公式（ARENA TOUR「ひなくり2026」開催決定）
   url: https://www.hinatazaka46.com/s/official/news/detail/E00916

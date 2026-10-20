@@ -5,7 +5,7 @@ date: '2026-10-19'
 last_modified_at: '2026-10-19'
 checked_at: '2026-10-19'
 checked_label: ツアーの日程と会場
-description: Snow Manのツアー『Snow Man DOME TOUR 2026-2027 ALL SUITE』（2026年10月30日〜2027年1月7日・5会場・18公演）の会場ごとに、Snow Manのメンバーが番組やYouTubeで訪れたお店を会場から近い順に13軒まとめました。会場は大和ハウス プレミストドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・東京ドーム・京セラドーム大阪。会場の近くに泊まる宿の探し方と、各会場のライブ参戦ガイドもあわせて。
+description: Snow Manのツアー『Snow Man DOME TOUR 2026-2027 ALL SUITE』（2026年10月30日〜2027年1月7日・5会場・18公演）の会場ごとに、Snow Manのメンバーが番組やYouTubeで訪れたお店を会場から近い順に15軒まとめました。会場は大和ハウス プレミストドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・東京ドーム・京セラドーム大阪。会場の近くに泊まる宿の探し方と、各会場のライブ参戦ガイドもあわせて。
 group: snowman
 genre: まとめ
 article_type: tour
@@ -25,7 +25,7 @@ tags:
 - 渡辺翔太
 - 深澤辰哉
 - 佐久間大介
-- 宮舘涼太
+- 岩本照
 sources:
 - label: STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）
   url: https://starto.jp/s/p/live/10578
@@ -33,9 +33,11 @@ sources:
   url: https://starto.jp/s/p/live
 shop_ids:
 - 7efac0da
+- snowman-1af405c2-20180627
 - 66241ca4
 - 84d28d77
 - 484981ad
+- snowman-952e0596-20250810
 - snowman-09af6680-202605
 - e9ac0dc6
 - snowman-ryuho-kagurazaka
@@ -49,24 +51,24 @@ faq:
 - q: Snow Manの『Snow Man DOME TOUR 2026-2027 ALL SUITE』の会場と日程は？
   a: 2026年10月30日〜2027年1月7日に5会場・18公演です。大和ハウス プレミストドーム（10月30日・10月31日・11月1日）、バンテリンドーム ナゴヤ（11月26日・11月27日・11月28日・11月29日）、みずほPayPayドーム福岡（12月4日・12月5日・12月6日）、東京ドーム（12月23日・12月24日・12月25日・12月26日）、京セラドーム大阪（1月4日・1月5日・1月6日・1月7日）。日程は2026年10月19日時点の公式発表で、変わることがあります。最新は公式サイトで確かめてください。
 - q: バンテリンドーム ナゴヤの近くでSnow Manの聖地はありますか？
-  a: 会場から10km以内に4軒あります。覚王山とんかつ わだ福（約2.1km）、気晴亭 鶴舞本店（約4.0km）、喫茶 マウンテン（約4.7km）などです。会場からの距離は直線距離です。
+  a: 会場から10km以内に5軒あります。覚王山とんかつ わだ福（約2.1km）、立食いめん処 吉野屋（約3.0km）、気晴亭 鶴舞本店（約4.0km）などです。会場からの距離は直線距離です。
+- q: みずほPayPayドーム福岡の近くでSnow Manの聖地はありますか？
+  a: 会場から10km以内に1軒あります。寺カフェ あわも（約0.8km）などです。会場からの距離は直線距離です。
 - q: 東京ドームの近くでSnow Manの聖地はありますか？
   a: 会場から3km以内に8軒以上あります。しゃぶ禅 神楽坂店（約1.1km）、タケウチ 神保町本店（約1.2km）、龍朋（約1.3km）などです。会場からの距離は直線距離です。
-- q: 京セラドーム大阪の近くでSnow Manの聖地はありますか？
-  a: 会場から10km以内に1軒あります。甲賀流（約2.0km）などです。会場からの距離は直線距離です。
-- q: 大和ハウス プレミストドーム・みずほPayPayドーム福岡の近くにSnow Manの聖地はありますか？
+- q: 大和ハウス プレミストドームの近くにSnow Manの聖地はありますか？
   a: 2026年10月時点で、会場から10km以内にSnow Manのメンバーが行ったお店は登録されていません。ほかの推しが訪れたお店は会場ガイドと「お店を探す」の地図で見られます。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の会場ごとの「泊まる」から、じゃらん・楽天トラベルで会場名を検索できます。遠征の交通や持ち物は「ライブ遠征の準備チェックリスト」にまとめています。
 pr: true
 thumbnail_video_id: axGl2IP4vGs
 techo: true
-cover_ids: 66241ca4,84d28d77,484981ad
+cover_ids: snowman-1af405c2-20180627,66241ca4,84d28d77
 cover_title: Snow Man ツアー巡礼帳
 cover_sub: Snow Man DOME TOUR 2026-2027 ALL SUITE　5会場の近くの聖地
 summary:
 - 『Snow Man DOME TOUR 2026-2027 ALL SUITE』は2026年10月30日〜2027年1月7日、5会場・18公演（2026年10月19日時点の公式発表）
-- 会場の近くにSnow Manのメンバーが行ったお店があるのは3会場。あわせて13軒を会場から近い順に載せています
+- 会場の近くにSnow Manのメンバーが行ったお店があるのは4会場。あわせて15軒を会場から近い順に載せています
 - 会場ごとに、宿の探し方（じゃらん・楽天トラベル）と、持ち込み・座席が分かるライブ参戦ガイドへの案内つき
 ---
 <div class="pf pf--techo" style="--pc:#3b82f6">
@@ -75,11 +77,11 @@ summary:
 
 <p><strong>Snow Man</strong>のツアー『Snow Man DOME TOUR 2026-2027 ALL SUITE』は、2026年10月30日〜2027年1月7日に5会場で全18公演が行われます（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月19日時点）。遠征の日は、会場の近くにある推しの聖地を巡るチャンスです。</p>
 
-<p>この記事では、会場ごとに<strong>Snow Manのメンバーが番組やYouTubeで訪れたお店</strong>を会場から近い順に並べました（13軒）。お店ごとに、どの回で誰が行ったか・頼んだ物・会場からの直線距離が分かります。会場の近くに泊まる宿の探し方と、持ち込みや座席が分かるライブ参戦ガイドもあわせてどうぞ。</p>
+<p>この記事では、会場ごとに<strong>Snow Manのメンバーが番組やYouTubeで訪れたお店</strong>を会場から近い順に並べました（15軒）。お店ごとに、どの回で誰が行ったか・頼んだ物・会場からの直線距離が分かります。会場の近くに泊まる宿の探し方と、持ち込みや座席が分かるライブ参戦ガイドもあわせてどうぞ。</p>
 
 <div class="cnav">
 <p class="cnav__h">会場で選ぶ</p>
-<div class="cnav__list"><a href="#v1"><span>大和ハウス プレミストドーム<small>10/30・10/31・11/1</small></span></a><a href="#v2"><span>バンテリンドーム ナゴヤ<small>11/26・11/27・11/28…／聖地4軒</small></span></a><a href="#v3"><span>みずほPayPayドーム福岡<small>12/4・12/5・12/6</small></span></a><a href="#v4"><span>東京ドーム<small>12/23・12/24・12/25…／聖地8軒</small></span></a><a href="#v5"><span>京セラドーム大阪<small>1/4・1/5・1/6…／聖地1軒</small></span></a></div>
+<div class="cnav__list"><a href="#v1"><span>大和ハウス プレミストドーム<small>10/30・10/31・11/1</small></span></a><a href="#v2"><span>バンテリンドーム ナゴヤ<small>11/26・11/27・11/28…／聖地5軒</small></span></a><a href="#v3"><span>みずほPayPayドーム福岡<small>12/4・12/5・12/6／聖地1軒</small></span></a><a href="#v4"><span>東京ドーム<small>12/23・12/24・12/25…／聖地8軒</small></span></a><a href="#v5"><span>京セラドーム大阪<small>1/4・1/5・1/6…／聖地1軒</small></span></a></div>
 </div>
 
 <h2>日程と会場</h2>
@@ -114,11 +116,13 @@ summary:
 
 <h2 id="v2">バンテリンドーム ナゴヤ（11月26日・11月27日・11月28日・11月29日）の近くの聖地</h2>
 
-<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に4軒。距離は会場からの直線距離です。</p>
+<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に5軒。距離は会場からの直線距離です。</p>
 
 <ul class="wrs">
 
   <li class="wr">{% include wr-open.html id="7efac0da" %}<span class="wr__k"></span><b class="wr__name">覚王山とんかつ わだ福</b><span class="wr__t">『バナナマンのせっかくグルメ!!』／阿部亮平／上ヒレ御膳（阿部）（名古屋市・会場から約2.1km）</span><span class="wr__more"><span class="wr__seat">席：個室</span></span>{% include wr-close.html id="7efac0da" %}</li>
+
+  <li class="wr">{% include wr-open.html id="snowman-1af405c2-20180627" %}<span class="wr__k">2018.6</span><b class="wr__name">立食いめん処 吉野屋</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／きしめん（大盛）（名古屋市 中区新栄・会場から約3.0km）</span>{% include wr-close.html id="snowman-1af405c2-20180627" %}</li>
 
   <li class="wr">{% include wr-open.html id="66241ca4" %}<span class="wr__k"></span><b class="wr__name">気晴亭 鶴舞本店</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／でらしゃちほこ丼（名古屋市 中区千代田・会場から約4.0km）</span>{% include wr-close.html id="66241ca4" %}</li>
 
@@ -140,9 +144,13 @@ summary:
 
 <h2 id="v3">みずほPayPayドーム福岡（12月4日・12月5日・12月6日）の近くの聖地</h2>
 
-<p>2026年10月時点で、会場から10km以内にSnow Manのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
+<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に1軒。距離は会場からの直線距離です。</p>
 
-<div class="ensei__shops">{% include mini.html id="shuichi-ce6cd715-20250614" m=950 from="会場から" %}{% include mini.html id="sakaba_horoki-2ec0cdb6-20110321" m=1190 from="会場から" %}{% include mini.html id="sekkaku_gourmet-f327a7b7-20260322" m=1260 from="会場から" %}</div>
+<ul class="wrs">
+
+  <li class="wr">{% include wr-open.html id="snowman-952e0596-20250810" %}<span class="wr__k">2025.8</span><b class="wr__name">寺カフェ あわも</b><span class="wr__t">『旅するSnow Man（Disney+）福岡篇』／岩本照・向井康二／特製寺パフェセット（福岡市 中央区唐人町・会場から約810m）</span>{% include wr-close.html id="snowman-952e0596-20250810" %}</li>
+
+</ul>
 
 <div class="btn-row"><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡のライブ参戦ガイド</a><a class="btn" href="/shops/?near=33.594341,130.362411&amp;nl=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1">地図で会場の近くのお店</a></div>
 
@@ -218,7 +226,7 @@ summary:
 
 <div class="pf-cta">
   <p>Snow Manのお店を、地図でぜんぶ見る</p>
-  <span>この記事の13軒を含むSnow Manの聖地を地図で探せます。行きたいお店は保存して、遠征の計画に。</span>
+  <span>この記事の15軒を含むSnow Manの聖地を地図で探せます。行きたいお店は保存して、遠征の計画に。</span>
   <a class="btn" href="/shops/?g=snowman&amp;view=map">地図でSnow Manのお店を見る</a>
 </div>
 
