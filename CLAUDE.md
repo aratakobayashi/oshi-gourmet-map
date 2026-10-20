@@ -213,6 +213,7 @@ heysayjump:        '#ef4444'  // レッド
 | `migrate_guidebook.py` | 旧 推し活ガイドブック（oshikatsu-guide.com）の記事を _guides/ へ移行。301用の対応表を redirects/ に出力 |
 | `tour_article.py` | ツアー×聖地巡礼の記事を作る（`python scripts/tour_article.py <slug>`。公式の日程・会場は scripts/tour_data/<slug>.json に手で書く。会場は _data/venues.json のキーか scripts/tour_data/venues_extra.json の座標。会場から3km（少なければ10km）以内のグループの店を近い順に並べ、会場ガイド・地図・泊まるボタンを付ける。図 assets/img/posts/<slug>/tour.svg） |
 | `member_article.py` | メンバー別のまとめ記事を作る（`python scripts/member_article.py <メンバー名> <group[,group]> <slug>` → そのあと `post_figures.py <slug> --color … --only-genre`。出典の種類ごとの店の行・はじめての3軒・エリアで巡る・FAQ。studio_only は分けて載せる） |
+| `group_matome.py` | グループのまとめ記事（巡礼帳）を店のデータから作る（`python scripts/group_matome.py <group> [slug]`。出典ごとの章・はじめての3軒・半日コース（同じ市区町村で近い3軒→course_stops.py）・ジャンルと場所の図・東京23区の地図・FAQ・表紙。何度実行しても同じ） |
 
 **食べログにアクセスするため使用禁止のスクリプト**（削除予定）: `fetch_tabelog_thumbnails.py` `retry_arashi_thumbnails.py` `scrape_tabelog_details.py` `check_closed_shops.py` `scrape_tabelog_matome.py` `geocode_missing.py` `geocode_shiori.py`。`scrape_arashi.py` `scrape_kinpri.py` `pipeline_naniwa.py` `pipeline_timelesz.py` の食べログ取得関数は無効化済み。
 
@@ -338,6 +339,12 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 ## ツアー記事・メンバー別記事（2026-10-19〜）
 - ツアー記事（article_type: tour）: 公式サイト（starto.jp の公演ページ・各グループ公式）で確かめた今後の公演だけ。終わった公演・未発表の公演は載せない。会場の近くにグループの店が1軒もないツアーは作らない（=LOVE名古屋・櫻坂46・上方フェス・なにわ男子ららアリーナは見送り）。2026-10-19 に7本: Snow Man・SixTONES・Hey! Say! JUMP・Kis-My-Ft2・Number_i・超特急・日向坂46。日程が変わったら scripts/tour_data の JSON を直して tour_article.py を実行
 - メンバー別記事（article_type: member）: 行った店（studio_only を除く）が30軒前後以上のメンバー30人（Snow Man 9人・SixTONES 6人・King & Prince 2人・WEST. 4人・Hey! Say! JUMP 3人・よにの3人（山田涼介・菊池風磨・二宮和也は複数グループ）・=LOVE 大谷映美里・HiHi Jets 2人）。店が増えたら member_article.py で作り直せる
+
+## 新しいグループの追加（2026-10-20）
+- 人気グループ60組の棚卸し: STARTO はほぼ網羅、女性アイドルは坂道・指原系だけだった。JO1・INI・FRUITS ZIPPER・ももいろクローバーZ・AKB48・NMB48 を追加（まとめ記事は group_matome.py で作成。FRUITS ZIPPER は番組で食べた記録がほぼ無く2軒・AKB48 は17軒で記事なし）
+- 集まり方: NMB48 は公式YouTube「裏なんばちゃん」の概要欄に店名・場所・出演者が必ず載る（週1回の更新の情報源に足せる）。AKB48 は公式サブch「AKBの素を出すちゃんねる」の【撮影協力】。INI・JO1 は番組（よるのブランチ・めざまし・ヒルナンデス！・ラヴィット！）とファンブログ（powakitchen.site・globalpop-trend.com・oshitotabi.com）。ももクロは日テレ articles.js・テレ朝POST・ファンの聖地マップ（momoclomap.com）
+- 住所が市区町村までの候補は、店の公式サイト・商業施設の公式ページ・ホットペッパーAPI（名前が完全一致、または座標300m以内で一致）で番地を補う。ホットペッパーの写真（hotpepper_photo）は画像として認める（merge_candidates.py）。残り: JO1 43軒・NMB48 31軒が住所不明、画像なし（サスティな！・かまいまち など TMDB にない番組）ももクロ20・INI 16
+- まだ無い人気グループ: A.B.C-Z・IMP.・ME:I・MAZZEL・Da-iCE・SKE48・HKT48・ハロプロ各組・私立恵比寿中学・CUTIE STREET・CANDY TUNE・超ときめき♡宣伝部・新しい学校のリーダーズ・iLiFE!・NiziU・TXT・&TEAM
 
 ## 過去の状況（2026-05-26時点）
 - 総店舗数: 820件（kodoku_no_gurume:176 / equal_love:117 / yonino:97 / nogizaka46:79 / snowman:59 / sixtones:49 / heysayjump:48 / notme:39 / kingprince:22 / kamenashi:32 / shiori:29 / neajoy:25 / ginga:12 / naniwa:10 / kamaitachi:10 / hinatazaka46:7 / timelesz:6 / sakurazaka46:3）
