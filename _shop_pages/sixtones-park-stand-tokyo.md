@@ -22,8 +22,10 @@ lat: 35.6826914
 lng: 139.7960478
 members:
   - "京本大我"
+  - "宮近海斗"
 groups:
   - "sixtones"
+  - "travisjapan"
 ordered_items:
   - "バスクチーズケーキ"
   - "プレーンスコーン（クリーム&ジャム）"

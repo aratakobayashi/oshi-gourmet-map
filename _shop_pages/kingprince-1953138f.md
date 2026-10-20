@@ -20,8 +20,10 @@ lat: 35.45943337855961
 lng: 138.8329693127984
 members:
   - "永瀬廉"
+  - "松田元太"
 groups:
   - "kingprince"
+  - "travisjapan"
 ordered_items:
   - "串ダンゴ"
 ---

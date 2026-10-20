@@ -22,6 +22,8 @@ lng: 139.99066158346255
 members:
   - "永瀬廉"
   - "髙橋海人"
+  - "松倉海斗"
 groups:
   - "kingprince"
+  - "travisjapan"
 ---
