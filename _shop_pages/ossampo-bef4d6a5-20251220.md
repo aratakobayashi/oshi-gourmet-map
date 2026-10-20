@@ -23,6 +23,8 @@ members:
   - "橋下徹"
   - "中村雅俊"
   - "坂上忍"
+  - "髙地優吾"
 groups:
   - "ossampo"
+  - "sixtones"
 ---

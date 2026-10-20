@@ -11,8 +11,8 @@ group_bio: "SixTONES（ストーンズ）はSTARTO ENTERTAINMENTの6人組男性
 youtube_id: RtDfRvCiBEo
 related_genres:
   - sixtones-others
-  - sixtones-washoku
   - sixtones-cafe
+  - sixtones-washoku
 related_groups:
   - jinsei-saiko-shokuji
   - burari-shokuji

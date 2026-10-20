@@ -1,0 +1,27 @@
+---
+layout: shop
+title: "日向坂46が行った「一風堂 大名本店」"
+description: "金村美玖・渡辺莉奈がYouTubeの動画で訪れたお店。"
+shop_id: "hinatazaka46-8bd7f7e3-202408"
+name: "一風堂 大名本店"
+genre: "ramen"
+prefecture: "福岡県"
+city: "福岡市中央区"
+address: "福岡県福岡市中央区大名1-13-14"
+visited_date: "2024-08"
+youtube_id: "fv-GH9o7V-M"
+source_video_title: "【ひなたフェス2024への道】PRポスター貼りでおひさま化計画in福岡"
+source_video_url: "https://www.youtube.com/watch?v=fv-GH9o7V-M"
+source_url: "https://sakamap.com/posts/95bffcf9-2252-4bde-a5fc-e376ce4c65d6"
+group: "hinatazaka46"
+source_type: "youtube"
+visit_kind: "youtube"
+program: "日向坂ちゃんねる"
+lat: 33.587868
+lng: 130.395844
+members:
+  - "金村美玖"
+  - "渡辺莉奈"
+groups:
+  - "hinatazaka46"
+---

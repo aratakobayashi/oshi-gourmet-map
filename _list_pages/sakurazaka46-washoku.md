@@ -1,11 +1,11 @@
 ---
-title: "櫻坂46の和食聖地巡礼｜行った和食5選"
-description: "櫻坂46のメンバーが実際に訪れた和食スポットを5件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
+title: "櫻坂46の和食聖地巡礼｜行った和食8選"
+description: "櫻坂46のメンバーが実際に訪れた和食スポットを8件まとめました。聖地巡礼・ロケ地めぐりの参考に。"
 group: sakurazaka46
 genre: washoku
 group_label: "櫻坂46"
 slug_id: sakurazaka46-washoku
-shop_count: 5
+shop_count: 8
 group_color: "#e11d48"
 group_bio: "櫻坂46は元欅坂46が改名した、秋元康プロデュースの女性アイドルグループ。"
 youtube_id: irlxdNA-gxs
