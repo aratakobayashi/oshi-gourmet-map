@@ -116,6 +116,7 @@ genre は英語コードで保存し、表示名・アイコンは `_data/genres
 
 ### グループ名
 表示名は `_data/groups.json` が正（_group_pages の group_label と同じ）。新グループ追加時はここにも追加する。
+新グループを足したら `_data/group_class.json` にも種類（t: idol / kpop / tv / youtube / talent）・アイドルなら小見出し（o: starto / solo / sakamichi / boys / girls）・ふりがな（k）を足す（2026-10-21〜。/shops/ の「推し」の絞り込みと /groups/・トップのグループ欄がこれで並ぶ。無いと「そのほか」に入る）。旧 _data/group_categories.yml は廃止
 
 ---
 

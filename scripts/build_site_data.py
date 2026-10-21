@@ -226,6 +226,8 @@ def main():
         for g in s.get('groups') or [s.get('group')]:
             if g:
                 by_group[g].append(s)
+    # 種類（アイドル・K-POP・テレビ番組・YouTuber・芸人）と小見出し・ふりがな。/shops/ の「推し」の絞り込みで使う
+    GCLASS = json.load(open(os.path.join(ROOT, '_data', 'group_class.json'), encoding='utf-8'))['groups']
     meta = []
     for g, items in by_group.items():
         # メンバーは、そのグループが主の店（group が一致）に出てくる人だけ（複数グループの店で他グループのメンバーが混ざらないように）。
@@ -234,7 +236,8 @@ def main():
         mem = Counter(m for s in items for m in (s.get('members') or []) if m and len(m) < 15 and m in own)
         meta.append({
             'id': g, 'label': labels.get(g, g), 'color': colors.get(g, '#9a8f80'), 'url': gurls.get(g, '/groups/'),
-            'kana': READINGS.get(g, ''), 'count': len(items),
+            'kana': GCLASS.get(g, {}).get('k') or READINGS.get(g, ''), 'count': len(items),
+            'type': GCLASS.get(g, {}).get('t', 'other'), 'org': GCLASS.get(g, {}).get('o', ''),
             'prefs': len({s.get('prefecture') for s in items if s.get('prefecture')}),
             'members': [{'name': n, 'count': c} for n, c in mem.most_common(12) if c >= 2],
         })

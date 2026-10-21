@@ -167,8 +167,10 @@
   }
 
   // ---------- 絞り込みシート ----------
-  var tab = 'oshi', kana = '人気', gsearch = '', openG = {};
-  var KANA = ['人気', 'あ', 'か', 'さ', 'た', 'な', 'は', 'ま', 'や', 'ら', 'わ'];
+  var tab = 'oshi', kana = 'すべて', gsearch = '', openG = {}, gtype = 'idol';
+  // 推しの種類（_data/group_class.json の types / orgs。build_site_data.py が group_meta の type / org に写す）
+  var GTYPES = window.GTYPES || [], GORGS = window.GORGS || [];
+  var KANA = ['すべて', 'あ', 'か', 'さ', 'た', 'な', 'は', 'ま', 'や', 'ら', 'わ'];
   var ROWS = { 'あ': 'あいうえおぁぃぅぇぉゔ', 'か': 'かきくけこがぎぐげご', 'さ': 'さしすせそざじずぜぞ', 'た': 'たちつてとだぢづでどっ', 'な': 'なにぬねの', 'は': 'はひふへほばびぶべぼぱぴぷぺぽ', 'ま': 'まみむめも', 'や': 'やゆよゃゅょ', 'ら': 'らりるれろ', 'わ': 'わをん' };
   function clone(s) { return JSON.parse(JSON.stringify(s)); }
   function toggle(arr, v) { var i = arr.indexOf(v); if (i > -1) arr.splice(i, 1); else arr.push(v); }
@@ -179,6 +181,9 @@
     load().then(function () {
       draft = clone(state);
       tab = t || 'oshi';
+      // 選んでいるグループがあれば、その種類を開く（なければアイドル）
+      var g0 = GMETA.filter(function (g) { return g.id === draft.groups[0]; })[0];
+      gtype = (g0 && g0.type) || 'idol';
       $('sheet').hidden = false; $('sheet-bg').hidden = false;
       document.body.style.overflow = 'hidden';
       drawSheet();
@@ -209,32 +214,44 @@
     $('sheet-apply').textContent = filtered(draft).length.toLocaleString() + '軒を見る';
   }
   function oshiPane() {
-    return '<label class="searchbox searchbox--sm" style="width:100%"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" id="gsearch" placeholder="グループ・メンバー名" aria-label="グループ・メンバー名で探す"></label>' +
-      '<div class="kana" role="group" aria-label="五十音">' + KANA.map(function (k) { return '<button type="button" data-kana="' + k + '" aria-pressed="' + (k === kana) + '"' + (k === '人気' ? ' style="width:auto;padding:0 10px;border-radius:19px"' : '') + '>' + k + '</button>'; }).join('') + '</div>' +
+    return '<label class="searchbox searchbox--sm" style="width:100%"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input type="search" id="gsearch" placeholder="グループ・メンバー・番組名" aria-label="グループ・メンバー・番組名で探す"></label>' +
+      '<div class="gtype" role="group" aria-label="推しの種類">' + GTYPES.map(function (x) { var n = GMETA.filter(function (g) { return g.type === x.key; }).length; return n ? '<button type="button" data-gtype="' + x.key + '" aria-pressed="' + (x.key === gtype) + '">' + esc(x.label) + '<span>' + n + '</span></button>' : ''; }).join('') + '</div>' +
+      '<div class="kana" role="group" aria-label="五十音">' + KANA.map(function (k) { return '<button type="button" data-kana="' + k + '" aria-pressed="' + (k === kana) + '"' + (k === 'すべて' ? ' style="width:auto;padding:0 12px;border-radius:19px"' : '') + '>' + k + '</button>'; }).join('') + '</div>' +
       '<ul class="glist" id="glist">' + groupItems() + '</ul>';
   }
   function groupItems() {
     var q = gsearch.trim().toLowerCase();
+    // 検索中は種類をまたいで全部から探す。検索していないときは選んだ種類だけ
     var list = GMETA.filter(function (g) {
       if (q) return (g.label + ' ' + g.kana + ' ' + g.members.map(function (m) { return m.name; }).join(' ')).toLowerCase().indexOf(q) > -1;
-      if (kana === '人気') return true;
+      if ((g.type || 'other') !== gtype) return false;
+      if (kana === 'すべて') return true;
       return (ROWS[kana] || '').indexOf((g.kana || '').charAt(0)) > -1;
     });
     if (!list.length) return '<li class="empty">見つかりませんでした</li>';
-    return list.map(function (g) {
-      var on = draft.groups.indexOf(g.id) > -1, open = openG[g.id] || (on && draft.members.some(function (m) { return m.indexOf(g.id + ':') === 0; }));
-      var mem = '';
-      if (open && g.members.length) {
-        var anyMem = draft.members.some(function (m) { return m.indexOf(g.id + ':') === 0; });
-        mem = '<div class="members"><button type="button" class="chip' + (on && !anyMem ? ' chip--on' : '') + '" data-allmem="' + g.id + '">すべて</button>' +
-          g.members.map(function (m) { var k = g.id + ':' + m.name; return '<button type="button" class="chip' + (draft.members.indexOf(k) > -1 ? ' chip--on' : '') + '" data-mem="' + esc(k) + '">' + esc(m.name) + '</button>'; }).join('') + '</div>';
-      }
-      return '<li><div class="grow"><input type="checkbox" id="g-' + g.id + '" data-g="' + g.id + '"' + (on ? ' checked' : '') + '>' +
-        '<label for="g-' + g.id + '" style="--g:' + g.color + '"><span class="dot"></span><span><b>' + esc(g.label) + '</b><small>' + esc(g.kana) + '</small></span></label>' +
-        '<span class="cnt">' + g.count + '軒</span>' +
-        (g.members.length ? '<button type="button" class="more" data-open-g="' + g.id + '" aria-expanded="' + !!open + '" aria-label="' + esc(g.label) + 'のメンバーで絞る">' + (open ? '▴' : '▾') + '</button>' : '<span></span>') +
-        '</div>' + mem + '</li>';
-    }).join('');
+    // アイドルを「すべて」で見るときは、事務所などの小見出しごとに並べる（中は店の多い順）
+    if (!q && gtype === 'idol' && kana === 'すべて' && GORGS.length) {
+      return GORGS.map(function (o) {
+        var part = list.filter(function (g) { return g.org === o.key; });
+        return part.length ? '<li class="glist__h">' + esc(o.label) + '</li>' + part.map(groupItem).join('') : '';
+      }).join('') + list.filter(function (g) { return !GORGS.some(function (o) { return o.key === g.org; }); }).map(groupItem).join('');
+    }
+    return list.map(groupItem).join('');
+  }
+  function groupItem(g) {
+    var tl = gsearch.trim() ? (GTYPES.filter(function (x) { return x.key === g.type; })[0] || {}).label : '';
+    var on = draft.groups.indexOf(g.id) > -1, open = openG[g.id] || (on && draft.members.some(function (m) { return m.indexOf(g.id + ':') === 0; }));
+    var mem = '';
+    if (open && g.members.length) {
+      var anyMem = draft.members.some(function (m) { return m.indexOf(g.id + ':') === 0; });
+      mem = '<div class="members"><button type="button" class="chip' + (on && !anyMem ? ' chip--on' : '') + '" data-allmem="' + g.id + '">すべて</button>' +
+        g.members.map(function (m) { var k = g.id + ':' + m.name; return '<button type="button" class="chip' + (draft.members.indexOf(k) > -1 ? ' chip--on' : '') + '" data-mem="' + esc(k) + '">' + esc(m.name) + '</button>'; }).join('') + '</div>';
+    }
+    return '<li><div class="grow"><input type="checkbox" id="g-' + g.id + '" data-g="' + g.id + '"' + (on ? ' checked' : '') + '>' +
+      '<label for="g-' + g.id + '" style="--g:' + g.color + '"><span class="dot"></span><span><b>' + esc(g.label) + '</b><small>' + esc(tl ? tl + '・' + g.kana : g.kana) + '</small></span></label>' +
+      '<span class="cnt">' + g.count + '軒</span>' +
+      (g.members.length ? '<button type="button" class="more" data-open-g="' + g.id + '" aria-expanded="' + !!open + '" aria-label="' + esc(g.label) + 'のメンバーで絞る">' + (open ? '▴' : '▾') + '</button>' : '<span></span>') +
+      '</div>' + mem + '</li>';
   }
   function countBy(idx) {
     var c = {};
@@ -266,6 +283,7 @@
     if (!draft || $('sheet').hidden) return;
     if ((b = t.closest('#sheet [data-tab]'))) { tab = b.dataset.tab; drawSheet(); return; }
     if ((b = t.closest('[data-kana]'))) { kana = b.dataset.kana; gsearch = ''; drawSheet(); return; }
+    if ((b = t.closest('[data-gtype]'))) { gtype = b.dataset.gtype; kana = 'すべて'; gsearch = ''; drawSheet(); return; }
     if ((b = t.closest('[data-open-g]'))) { openG[b.dataset.openG] = !openG[b.dataset.openG]; refreshSheet(); return; }
     if ((b = t.closest('[data-allmem]'))) { var g = b.dataset.allmem; draft.members = draft.members.filter(function (m) { return m.indexOf(g + ':') !== 0; }); if (draft.groups.indexOf(g) < 0) draft.groups.push(g); refreshSheet(); return; }
     if ((b = t.closest('[data-mem]'))) { var k = b.dataset.mem, gg = k.split(':')[0]; toggle(draft.members, k); if (draft.groups.indexOf(gg) < 0) draft.groups.push(gg); refreshSheet(); return; }

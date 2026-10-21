@@ -77,5 +77,7 @@ scripts:
 </div>
 <script>
   window.GMETA = {{ site.data.group_meta | jsonify }};
+  window.GTYPES = {{ site.data.group_class.types | jsonify }};
+  window.GORGS = {{ site.data.group_class.orgs | jsonify }};
   window.LISTS = [{% for l in site.list_pages %}"{{ l.url | split: '/' | last }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
 </script>

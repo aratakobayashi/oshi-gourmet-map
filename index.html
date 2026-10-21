@@ -178,8 +178,6 @@ inline_css: top.css
 {% endif %}
 
 <!-- SECTION 03.5: グループ別まとめページ（アイドル・YouTuber の店の多い順に12組。表紙は訪れたお店の動画・グループ写真） -->
-{%- assign _fk = '' | split: '' -%}
-{%- for cat in site.data.group_categories limit: 4 %}{% assign _ck = cat.groups | map: 'key' %}{% assign _fk = _fk | concat: _ck %}{% endfor -%}
 <section class="landing-section" id="group-pages">
   <div class="container">
     <div class="section-header">
@@ -189,7 +187,7 @@ inline_css: top.css
     </div>
     <div class="group-index-grid">
       {%- assign _n = 0 %}
-      {%- for g in site.data.group_meta %}{% if _fk contains g.id and _n < 12 %}{% assign _n = _n | plus: 1 %}
+      {%- for g in site.data.group_meta %}{% if g.type == 'idol' or g.type == 'kpop' or g.type == 'youtube' or g.type == 'talent' %}{% if _n < 12 %}{% assign _n = _n | plus: 1 %}
       <a href="{{ g.url | relative_url }}" class="group-index-card" style="--gic1:{{ g.color }}">
         <div class="group-index-card__bg">{% if g.img and g.img != '' %}<img src="{{ g.img | relative_url }}" alt="" width="320" height="180" loading="lazy" decoding="async">{% endif %}</div>
         <div class="group-index-card__overlay"></div>
@@ -198,7 +196,7 @@ inline_css: top.css
           <span class="group-index-card__count">{{ g.count }}件</span>
         </div>
       </a>
-      {%- endif %}{% endfor %}
+      {%- endif %}{% endif %}{% endfor %}
     </div>
     <p class="group-index-more"><a href="{{ '/groups/' | relative_url }}">すべての推し・番組を見る（{{ site.data.site_stats.groups }}組）→</a></p>
   </div>
