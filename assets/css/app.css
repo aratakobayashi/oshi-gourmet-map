@@ -311,6 +311,13 @@ body.has-sticky { padding-bottom: calc(var(--nav-h) + var(--safe-b) + 66px); }
 .kana button { flex: none; width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--surface); font-size: 13px; font-weight: 700; }
 .kana button[aria-pressed="true"] { background: var(--ink); color: #fff; border-color: var(--ink); }
 .glist > li { border-bottom: 1px solid var(--line); }
+.gtype { display: flex; flex-wrap: wrap; gap: 6px; margin: var(--s-3) 0 0; }
+.gtype button { flex: none; height: 36px; padding: 0 14px; border-radius: 18px; border: 1px solid var(--line-strong); background: var(--surface); font-size: 13px; font-weight: 700; color: var(--ink); }
+.gtype button span { margin-left: 4px; font-size: 11px; font-weight: 400; color: var(--ink-2); }
+.gtype button[aria-pressed="true"] { background: var(--ink); color: #fff; border-color: var(--ink); }
+.gtype button[aria-pressed="true"] span { color: rgba(255,255,255,.75); }
+.gorg { margin: var(--s-6) 0 var(--s-3); font-size: 14px; font-weight: 700; color: var(--ink-2); }
+.glist > li.glist__h { border-bottom: 0; padding: var(--s-4) 0 var(--s-1); font-size: 12px; font-weight: 700; color: var(--ink-2); letter-spacing: .04em; }
 .grow { display: grid; grid-template-columns: 44px 1fr auto 36px; align-items: center; min-height: 60px; }
 .grow input { width: 22px; height: 22px; accent-color: var(--ink); margin: 0 auto; }
 .grow label { display: flex; align-items: center; gap: var(--s-2); cursor: pointer; min-width: 0; }

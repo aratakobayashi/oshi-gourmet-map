@@ -3,31 +3,42 @@ layout: default
 title: 推しから探す｜グループ・番組別の聖地グルメまとめ
 description: SixTONES・Snow Man・乃木坂46・よにのちゃんねる・孤独のグルメ・酒場放浪記など、推しやグルメ番組が実際に訪れたお店を、グループ・番組別に探せます。
 ---
-{%- assign listed = '' | split: '' -%}
 <div class="wrap">
   <ol class="crumbs" aria-label="パンくずリスト"><li><a href="{{ '/' | relative_url }}">ホーム</a></li><li aria-current="page">推しから探す</li></ol>
   <h1 class="page-title">推しから探す</h1>
   <p class="page-lead">{{ site.data.site_stats.groups }}組の推し・番組が訪れたお店を、グループ別にまとめています。</p>
 
-  <nav class="chips gjump" aria-label="分類">{% for cat in site.data.group_categories %}<a class="chip" href="#gc{{ forloop.index }}">{{ cat.label }}</a>{% endfor %}</nav>
+  {%- comment -%} 種類（_data/group_class.json）ごとに並べる。アイドルは事務所などの小見出しごと。中は店の多い順（group_meta の順） {%- endcomment -%}
+  <nav class="chips gjump" aria-label="分類">{% for t in site.data.group_class.types %}{% assign _tg = site.data.group_meta | where: "type", t.key %}{% if _tg.size > 0 %}<a class="chip" href="#gt-{{ t.key }}">{{ t.label }}<span class="cnt">{{ _tg.size }}</span></a>{% endif %}{% endfor %}</nav>
 
-  {%- for cat in site.data.group_categories %}
-  {%- assign _keys = cat.groups | map: 'key' %}
-  <section class="section" id="gc{{ forloop.index }}">
-    <h2 class="h2" style="margin-bottom:12px">{{ cat.label }}</h2>
+  {%- for t in site.data.group_class.types %}
+  {%- assign _tg = site.data.group_meta | where: "type", t.key %}
+  {%- if _tg.size > 0 %}
+  <section class="section" id="gt-{{ t.key }}">
+    <h2 class="h2" style="margin-bottom:12px">{{ t.label }}</h2>
+    {%- if t.key == 'idol' %}
+    {%- for o in site.data.group_class.orgs %}
+    {%- assign _og = _tg | where: "org", o.key %}
+    {%- if _og.size > 0 %}
+    <h3 class="gorg">{{ o.label }}</h3>
     <div class="gcovers">
-      {%- assign _outer = forloop.index %}
-      {%- for g in site.data.group_meta %}{% if _keys contains g.id %}{% assign listed = listed | push: g.id %}
-      {% if _outer == 1 and forloop.index0 < 4 %}{% include gcover.html g=g eager=true %}{% else %}{% include gcover.html g=g %}{% endif %}
-      {%- endif %}{% endfor %}
+      {%- for g in _og %}{% if o.key == 'starto' and forloop.index0 < 4 %}{% include gcover.html g=g eager=true %}{% else %}{% include gcover.html g=g %}{% endif %}{% endfor %}
     </div>
+    {%- endif %}
+    {%- endfor %}
+    {%- else %}
+    <div class="gcovers">
+      {%- for g in _tg %}{% include gcover.html g=g %}{% endfor %}
+    </div>
+    {%- endif %}
   </section>
+  {%- endif %}
   {%- endfor %}
-  {%- capture rest %}{% for g in site.data.group_meta %}{% unless listed contains g.id %}{% include gcover.html g=g %}{% endunless %}{% endfor %}{% endcapture %}
-  {%- if rest contains 'gcover' %}
+  {%- assign _other = site.data.group_meta | where: "type", "other" %}
+  {%- if _other.size > 0 %}
   <section class="section">
     <h2 class="h2" style="margin-bottom:12px">そのほか</h2>
-    <div class="gcovers">{{ rest }}</div>
+    <div class="gcovers">{% for g in _other %}{% include gcover.html g=g %}{% endfor %}</div>
   </section>
   {%- endif %}
 </div>

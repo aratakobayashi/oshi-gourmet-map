@@ -39,6 +39,7 @@ def main():
             f.write('\n'.join(['---', f'group_key: "{gid}"', f'group_label: "{label}"', f'group_color: "{color}"',
                                f'group_color2: "{color2}"', 'shop_count: 0', f'title: "{label}の聖地巡礼・ロケ地グルメ"',
                                f'description: "{label}が訪れたお店の聖地巡礼・ロケ地まとめ。"', '---', '']))
+    print('  → _data/group_class.json にも種類（t）・小見出し（o）・ふりがな（k）を足してください')
     print(f'グループを追加: {gid}（{label}）')
 
 
