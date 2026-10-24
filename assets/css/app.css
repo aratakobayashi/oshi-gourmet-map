@@ -986,6 +986,9 @@ a.badge { min-height: 32px; }
 .stay-in__h { margin: 0 0 4px; font-weight: 700; font-size: 15px; }
 .stay-in__pr { margin-left: 8px; padding: 0 5px; border: 1px solid currentColor; border-radius: 3px; font-size: 11px; font-weight: 400; opacity: .7; vertical-align: 2px; }
 .stay-in__t { margin: 0 0 10px; font-size: 14px; color: var(--ink-2, inherit); }
+.stay-in--top { margin: var(--s-3) 0 var(--s-4); padding: 10px 14px; }
+.stay-in--top .stay-in__h { display: flex; align-items: center; flex-wrap: wrap; gap: 4px 8px; font-size: 14px; margin-bottom: 8px; }
+.stay-in__more { margin-left: auto; font-size: 12px; font-weight: 400; color: var(--ink-2); }
 .stay-in .btn-row { margin: 0; }
 .stay-in .btn { text-decoration: none; }
 

@@ -151,9 +151,11 @@ body_class: has-sticky
         {%- if can_book %}
         <div class="action__group">
           <p class="action__label">予約する</p>
+          {%- comment -%} 出典で確かめた食べログの店ページがあれば、いちばん上に（食べログは提携済み。ホットペッパーは提携なし） {%- endcomment -%}
+          {%- if s.tabelog_verified and tb_url %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--accent btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
           {%- if s.hotpepper_url %}{% include affiliate-link.html url=s.hotpepper_url label="ホットペッパーで予約" class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endif %}
           {%- for l in book_links %}{% include affiliate-link.html url=l.url label=l.label class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endfor %}
-          {%- if tb_url %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
+          {%- if tb_url and s.tabelog_verified != true %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
         </div>
         {%- elsif tb_url or other_links.size > 0 %}
         <div class="action__group">
@@ -235,7 +237,11 @@ body_class: has-sticky
 
 <div class="sticky-actions">
   <button type="button" class="btn fav" data-fav="{{ s.shop_id }}" data-on-text="保存済" aria-pressed="false" aria-label="保存"><span>保存</span></button>
-  {%- if can_book %}
+  {%- if s.tabelog_verified and tb_url %}
+  {%- comment -%} 確かめた食べログの店ページがある店は、下の固定ボタンから直接開く {%- endcomment -%}
+  {%- if route_url %}<a class="btn" href="{{ route_url }}" target="_blank" rel="noopener">ルート</a>{% else %}<button type="button" class="btn" data-share>共有</button>{% endif %}
+  {% include affiliate-link.html url=tb_url label="食べログで見る" class="btn btn--accent" service="tabelog" %}
+  {%- elsif can_book %}
   {%- if route_url %}<a class="btn" href="{{ route_url }}" target="_blank" rel="noopener">ルート</a>{% else %}<button type="button" class="btn" data-share>共有</button>{% endif %}
   <a class="btn btn--accent" href="#go">予約する</a>
   {%- elsif tb_url %}

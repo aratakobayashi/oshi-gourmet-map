@@ -10,7 +10,7 @@ for key in venues:
     t = open(p, encoding='utf-8').read()
     if 'venue-stay.html' in t:
         continue
-    m = re.search(r'<h2>[^<]*泊まる[^<]*</h2>\s*<p>.*?</p>', t, re.S)
+    m = re.search(r'<h2[^>]*>[^<]*泊まる[^<]*</h2>\s*<p>.*?</p>', t, re.S)
     if not m:
         print('見つからない', key)
         continue
