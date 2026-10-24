@@ -155,7 +155,7 @@ body_class: has-sticky
           {%- if s.tabelog_verified and tb_url %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--accent btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
           {%- if s.hotpepper_url %}{% include affiliate-link.html url=s.hotpepper_url label="ホットペッパーで予約" class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endif %}
           {%- for l in book_links %}{% include affiliate-link.html url=l.url label=l.label class="btn btn--accent btn--block btn--arrow" arrow=true %}{% endfor %}
-          {%- if tb_url and s.tabelog_verified != true %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
+          {%- if tb_url and s.tabelog_verified == nil %}{% include affiliate-link.html url=tb_url label=tb_label class="btn btn--block btn--arrow" arrow=true service="tabelog" %}{% endif %}
         </div>
         {%- elsif tb_url or other_links.size > 0 %}
         <div class="action__group">
