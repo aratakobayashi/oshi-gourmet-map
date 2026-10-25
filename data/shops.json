@@ -300784,5 +300784,57 @@
     "source_video_url": "https://www.youtube.com/watch?v=936fZDlcLMc",
     "visit_kind": "guest_tv",
     "program": "めざましテレビ「リポーターやってください！」（フジテレビ）"
+  },
+  {
+    "id": "sakaba_horoki-56509168-20261019",
+    "name": "かね久",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "品川区",
+    "address": "東京都品川区旗の台4-7-3",
+    "lat": 35.604038,
+    "lng": 139.704208,
+    "source_video_title": "吉田類の酒場放浪記 #1324 旗の台「かね久」（2026-10-19 BS-TBS）",
+    "visited_date": "2026-10-19",
+    "members": [
+      "吉田類"
+    ],
+    "groups": [
+      "sakaba_horoki"
+    ],
+    "group": "sakaba_horoki",
+    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1324.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
+    "tmdb_id": 227203,
+    "tmdb_type": "tv",
+    "program": "吉田類の酒場放浪記"
+  },
+  {
+    "id": "burari-3da8109e-20261024",
+    "name": "アトリエ カフェ パステル",
+    "genre": "cafe",
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "address": "神奈川県横浜市戸塚区戸塚町3033",
+    "lat": 35.392273,
+    "lng": 139.525345,
+    "source_video_title": "ぶらり途中下車の旅 横須賀線の旅 旅人：塚本高史（2026-10-24 日本テレビ）",
+    "visited_date": "2026-10-24",
+    "members": [
+      "塚本高史"
+    ],
+    "groups": [
+      "burari"
+    ],
+    "group": "burari",
+    "description": "塚本高史が『ぶらり途中下車の旅』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/burari/articles/2276da3ko9y14korxyo.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg",
+    "tmdb_id": 57952,
+    "tmdb_type": "tv",
+    "program": "ぶらり途中下車の旅"
   }
 ]

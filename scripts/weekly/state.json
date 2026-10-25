@@ -3,10 +3,10 @@
     "last_date": "2026-10-12"
   },
   "sakaba_horoki": {
-    "last_id": 1324
+    "last_id": 1325
   },
   "burari": {
-    "last_date": "2026-10-10"
+    "last_date": "2026-10-24"
   },
   "syokusai": {
     "last_date": "2026-10-17"
@@ -17,12 +17,13 @@
   "youtube": {
     "UCfvohDfHt1v5N8l3BzPRsWQ": {
       "last_date": "2026-06-23"
-    }
+    },
+    "UCYidhqPbCWtPaFeXxOCDdNA": {}
   },
   "hirunan": {
-    "last_date": "2026-10-16"
+    "last_date": "2026-10-23"
   },
-  "_updated": "2026-10-19",
+  "_updated": "2026-10-26",
   "meshidora": {
     "last_date": "2026-10-18"
   }
