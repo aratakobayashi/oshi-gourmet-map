@@ -1,0 +1,27 @@
+{
+ "slug": "hinatazaka46-nippon-gaishi-hall-2026-12",
+ "group": "hinatazaka46",
+ "tour": "日向坂46 ARENA TOUR「ひなくり2026」",
+ "official_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "オリコンニュース（ひなくり2026 開催決定）",
+   "url": "https://www.oricon.co.jp/news/2470417/full/"
+  }
+ ],
+ "venue_key": "nippon-gaishi-hall",
+ "venue_official": "クロコくんホール（日本ガイシホール）",
+ "pref": "愛知県",
+ "dates": [
+  "2026-12-22",
+  "2026-12-23",
+  "2026-12-24"
+ ],
+ "times": {
+  "2026-12-22": "開場16:30／開演18:00",
+  "2026-12-23": "開場16:30／開演18:00",
+  "2026-12-24": "開場16:30／開演18:00"
+ },
+ "note": "日向坂46公式サイトは robots.txt で ClaudeBot を拒否しているため読まず、オリコンで確認（official_url は scripts/tour_data にある既存の公式ページ・今回は未読）。会場名・時刻はオリコン記事の表記"
+}

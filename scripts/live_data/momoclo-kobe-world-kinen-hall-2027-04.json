@@ -1,0 +1,25 @@
+{
+ "slug": "momoclo-kobe-world-kinen-hall-2027-04",
+ "group": "momoclo",
+ "tour": "MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”",
+ "official_url": "https://www.momoclo.net/archives/news/261017_01",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "ももいろクローバーZ公式（NEWS）",
+   "url": "https://www.momoclo.net/archives/news/261017_01"
+  }
+ ],
+ "venue_key": "kobe-world-kinen-hall",
+ "venue_official": "ワールド記念ホール",
+ "pref": "兵庫県",
+ "dates": [
+  "2027-04-24",
+  "2027-04-25"
+ ],
+ "times": {
+  "2027-04-24": "開場16:30／開演17:30",
+  "2027-04-25": "開場15:30／開演16:30"
+ },
+ "note": "各会場DAY1「Chronostasis」・DAY2「Singularity」で内容が異なる"
+}

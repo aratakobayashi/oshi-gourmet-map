@@ -1,0 +1,25 @@
+{
+ "slug": "fruitszipper-tokyo-garden-theater-2026-11",
+ "group": "fruitszipper",
+ "tour": "FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code",
+ "official_url": "https://fruitszipper.asobisystem.com/feature/2026tour_autumn",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "FRUITS ZIPPER公式（JAPAN TOUR 2026 - AUTUMN - 特設ページ）",
+   "url": "https://fruitszipper.asobisystem.com/feature/2026tour_autumn"
+  }
+ ],
+ "venue_key": "tokyo-garden-theater",
+ "venue_official": "東京ガーデンシアター",
+ "pref": "東京都",
+ "dates": [
+  "2026-11-14",
+  "2026-11-15"
+ ],
+ "times": {
+  "2026-11-14": "開場17:00／開演18:30",
+  "2026-11-15": "開場16:00／開演17:30"
+ },
+ "note": "9/3〜10/26の公演は終了。KAWAII LAB. 5th ANNIVERSARY TOUR・KAWAII LAB. Christmas SESSION 2026 は複数グループのため除外"
+}

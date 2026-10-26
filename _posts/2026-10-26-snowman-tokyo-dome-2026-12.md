@@ -3,9 +3,9 @@ layout: post
 title: Snow Man 東京ドーム公演 参戦ガイド（2026年12月23日〜26日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
 last_modified_at: '2026-10-26'
-checked_at: '2026-10-19'
+checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
-description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の東京ドーム公演（2026年12月23日（水）・24日（木）・25日（金）・26日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内にSnow Manのメンバーが行ったお店が8軒をまとめました。日程は2026年10月19日時点の公式発表です。
+description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の東京ドーム公演（2026年12月23日（水）・24日（木）・25日（金）・26日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内にSnow Manのメンバーが行ったお店が8軒をまとめました。日程は2026年10月26日時点の公式発表です。
 group: snowman
 genre: ライブ
 article_type: live
@@ -26,10 +26,8 @@ tags:
 - 遠征
 - 聖地巡礼
 sources:
-- label: STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）
-  url: https://starto.jp/s/p/live/10578
-- label: STARTO ENTERTAINMENT（公演情報の一覧）
-  url: https://starto.jp/s/p/live
+- label: ORICON NEWS（Snow Man、5大ドームツアー開催へ “18公演”の日程を発表【一覧】2026-08-14）
+  url: https://www.oricon.co.jp/news/2473853/full/
 - label: 東京ドーム公式サイト（アクセス）
   url: https://www.tokyo-dome.co.jp/dome/access/
 - label: 東京ドームとは
@@ -47,7 +45,7 @@ shop_ids:
 - snowman-abura-gakkai-waseda
 faq:
 - q: Snow Manの東京ドーム公演はいつですか？
-  a: 2026年12月23日（水）・24日（木）・25日（金）・26日（土）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。2026年10月19日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
+  a: 2026年12月23日（水）・24日（木）・25日（金）・26日（土）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。12月23日は開演17:00。12月24日は開演17:00。12月25日は開演17:00。12月26日は開演16:00。2026年10月26日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
 - q: 東京ドームの最寄り駅はどこですか？
   a: JR 水道橋駅です（西口（東口もあり））。都営三田線 水道橋駅からはA2出口。東京メトロ 後楽園駅からは2番出口。
 - q: 東京ドームに持ち込めないものは？
@@ -58,7 +56,7 @@ faq:
   a: この記事の「東京ドーム周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の東京ドーム公演は2026年12月23日（水）・24日（木）・25日（金）・26日（土）（2026年10月19日時点の公式発表）
+- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の東京ドーム公演は2026年12月23日（水）・24日（木）・25日（金）・26日（土）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から3km以内にSnow Manのメンバーが行ったお店が8軒。会場からの近さ順に載せています
@@ -70,7 +68,7 @@ thumbnail: /assets/img/guide/tokyo-dome.webp
 
 {% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。Snow Manのこれからの公演は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
-<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>東京ドーム</strong>公演は、<strong>2026年12月23日（水）・24日（木）・25日（金）・26日（土）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月19日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>東京ドーム</strong>公演は、<strong>2026年12月23日（水）・24日（木）・25日（金）・26日（土）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
@@ -83,15 +81,17 @@ thumbnail: /assets/img/guide/tokyo-dome.webp
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
-  <li><b>2026年12月23日（水）</b></li>
-  <li><b>2026年12月24日（木）</b></li>
-  <li><b>2026年12月25日（金）</b></li>
-  <li><b>2026年12月26日（土）</b></li>
+  <li><b>2026年12月23日（水）</b><span>開演17:00</span></li>
+  <li><b>2026年12月24日（木）</b><span>開演17:00</span></li>
+  <li><b>2026年12月25日（金）</b><span>開演17:00</span></li>
+  <li><b>2026年12月26日（土）</b><span>開演16:00</span></li>
 </ul>
 
 <p>会場：<strong>東京ドーム</strong>（東京都）。公演名：Snow Man DOME TOUR 2026-2027 ALL SUITE。</p>
 
-<p class="note">日程・時刻は2026年10月19日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">official_url（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 日程・開演時刻は ORICON NEWS の一覧で確認。京セラドーム大阪は 1/7 を含む4日間（リポジトリの scripts/tour_data/snowman-dome-tour-2026-2027-all-suite.json は3日間で、1/7 が抜けている）。</p>
+
+<p class="note">日程・時刻は2026年10月26日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -170,7 +170,7 @@ thumbnail: /assets/img/guide/tokyo-dome.webp
 
 <h2 id="stay">泊まる</h2>
 
-<p>終演後は最寄り駅が混み合います。公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
+<p>終演後は最寄り駅が混み合います。夜の公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
