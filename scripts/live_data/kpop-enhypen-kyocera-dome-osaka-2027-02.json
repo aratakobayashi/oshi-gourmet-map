@@ -1,0 +1,28 @@
+{
+ "slug": "kpop-enhypen-kyocera-dome-osaka-2027-02",
+ "group": "kpop_enhypen",
+ "tour": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+ "official_url": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "ENHYPEN公式（HYBE JAPAN 公演特設ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  },
+  {
+   "label": "HYBE JAPAN EVENTS",
+   "url": "https://www.hybejapan.events/"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2027-02-19",
+  "2027-02-20"
+ ],
+ "times": {
+  "2027-02-19": "開場16:00／開演18:00",
+  "2027-02-20": "開場14:00／開演16:00"
+ }
+}

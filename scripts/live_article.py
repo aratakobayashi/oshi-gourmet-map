@@ -16,7 +16,7 @@ live_data の形:
   "tour": "公演名", "official_url": "https://…", "checked_at": "2026-10-26",
   "sources": [{"label": "…", "url": "…"}],
   "venue_key": "vantelin-dome-nagoya", "dates": ["2026-12-05"], "times": {"2026-12-05": "開場16:00／開演17:30"},
-  "note": "（任意）公式の注意"
+  "public_note": "（任意）記事に載せる公式の注意。調べたときのメモ（note）は記事に出さない"
 }
 使い方: python scripts/live_article.py <slug> [<slug> …] / --all（scripts/live_data の全部）
 """
@@ -35,7 +35,7 @@ ROOT = T.ROOT
 TODAY = datetime.date.today().isoformat()
 NEAR_KM, FAR_KM, MAX_ROWS, MIN_ROWS, PREF_ROWS = 3.0, 10.0, 8, 3, 6
 WEEK = '月火水木金土日'
-NEWS = ('oricon.co.jp', 'mdpr.jp', 'thefirsttimes.jp', 'realsound.jp', 'natalie.mu', 'modelpress', 'billboard-japan', 'musicman', 'barks.jp')
+NEWS = ('oricon.co.jp', 'mdpr.jp', 'thefirsttimes.jp', 'realsound.jp', 'natalie.mu', 'modelpress', 'billboard-japan', 'musicman', 'barks.jp', 'daily.co.jp', 'sponichi', 'nikkansports', 'hochi')
 # 検索でよく使われる呼び名（題名とタグに足す）
 AKA = {'equal_love': 'イコラブ', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
        'sixtones': 'ストーンズ', 'travisjapan': 'トラジャ', 'hihijets': 'ハイハイ',
@@ -233,8 +233,10 @@ def build(slug, ctx):
     b.append('<ul class="live-dates">\n' + ''.join(
         f'  <li><b>{dlabel([d])}</b>{"<span>" + T.esc(times[d]) + "</span>" if times.get(d) else ""}</li>\n' for d in dates) + '</ul>')
     b.append(f'<p>会場：<strong>{T.esc(vname)}</strong>（{T.esc(vpref)}）。公演名：{T.esc(tour)}。</p>')
-    if spec.get('note'):
-        b.append(f'<p class="note">{T.esc(spec["note"])}</p>')
+    if not any(times.get(d) for d in dates):
+        b.append(f'<p class="note">開場・開演の時刻は、{ckl}時点ではまだ発表されていません。</p>')
+    if spec.get('public_note'):
+        b.append(f'<p class="note">{T.esc(spec["public_note"])}</p>')
     b.append(f'<p class="note">日程・時刻は{ckl}時点の<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{"発表" if news else "公式発表"}</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>')
 
     b.append('<h2 id="access">会場への行き方</h2>')

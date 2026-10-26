@@ -1,0 +1,29 @@
+{
+ "slug": "chotokkyu-tokyo-dome-2026-11",
+ "group": "chotokkyu",
+ "tour": "超特急 BULLET TRAIN 1st DOME LIVE Signal",
+ "official_url": "https://bullettrain.jp/live_information/detail/66",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "超特急公式（LIVE&EVENT）",
+   "url": "https://bullettrain.jp/live_information/detail/66"
+  },
+  {
+   "label": "超特急 東京ドーム公演 特設サイト",
+   "url": "https://sdr.bullettrain.jp/BT-1125-tokyo-dome/"
+  }
+ ],
+ "venue_key": "tokyo-dome",
+ "venue_official": "東京ドーム",
+ "pref": "東京都",
+ "dates": [
+  "2026-11-25",
+  "2026-11-26"
+ ],
+ "times": {
+  "2026-11-25": "開場16:00／開演18:00",
+  "2026-11-26": "開場16:00／開演18:00"
+ },
+ "note": "超特急初の東京ドーム公演。11/26は追加公演。12/25の「超特急×DISH//」は2組の共演のため除外"
+}

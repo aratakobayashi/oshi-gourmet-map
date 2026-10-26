@@ -80,8 +80,6 @@ thumbnail: /assets/img/guide/mizuho-paypay-dome.webp
 
 <p>会場：<strong>みずほPayPayドーム福岡</strong>（福岡県）。公演名：Snow Man DOME TOUR 2026-2027 ALL SUITE。</p>
 
-<p class="note">official_url（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 日程・開演時刻は ORICON NEWS の一覧で確認。京セラドーム大阪は 1/7 を含む4日間（リポジトリの scripts/tour_data/snowman-dome-tour-2026-2027-all-suite.json は3日間で、1/7 が抜けている）。</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

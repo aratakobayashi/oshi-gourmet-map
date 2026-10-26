@@ -1,0 +1,23 @@
+{
+ "slug": "niziu-yoyogi-national-gymnasium-2027-01",
+ "group": "niziu",
+ "tour": "NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”",
+ "official_url": "https://niziu.com/s/n123/page/livewithu2026_2027",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "THE FIRST TIMES（2026-10-06 ツアー発表）",
+   "url": "https://www.thefirsttimes.jp/?p=894849"
+  }
+ ],
+ "venue_key": "yoyogi-national-gymnasium",
+ "venue_official": "国立代々木競技場 第一体育館",
+ "pref": "東京都",
+ "dates": [
+  "2027-01-20",
+  "2027-01-21",
+  "2027-01-23",
+  "2027-01-24"
+ ],
+ "note": "公式で未確認: 公式サイト niziu.com は robots.txt で ClaudeBot を拒否しているため読まず、報道の日程表を載せている（official_url は報道が示す公式の特設ページ。未読）。会場名は報道の表記"
+}

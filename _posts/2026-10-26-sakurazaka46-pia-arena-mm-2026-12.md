@@ -75,7 +75,7 @@ thumbnail: /assets/img/guide/pia-arena-mm.webp
 
 <p>会場：<strong>ぴあアリーナMM</strong>（神奈川県）。公演名：櫻坂46 16th Single BACKS LIVE!!。</p>
 
-<p class="note">BACKSメンバー（14名・座長 小田倉麗奈）による公演。公式サイトは ClaudeBot 拒否のため報道で確認（official_url は未読）</p>
+<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
 
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://sakurazaka46.com/s/s46/news/detail/T00006" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 

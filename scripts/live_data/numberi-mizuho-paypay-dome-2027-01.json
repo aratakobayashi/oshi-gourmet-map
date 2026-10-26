@@ -1,0 +1,29 @@
+{
+ "slug": "numberi-mizuho-paypay-dome-2027-01",
+ "group": "numberi",
+ "tour": "Number_i LIVE TOUR No.Ⅲ",
+ "official_url": "https://tobe-official.jp/artists/number_i/concert/364",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "TOBE公式（Number_i CONCERT/STAGE）",
+   "url": "https://tobe-official.jp/artists/number_i/concert/364"
+  },
+  {
+   "label": "TOBE公式（Number_i NEWS 公演スケジュールのご案内）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2318"
+  }
+ ],
+ "venue_key": "mizuho-paypay-dome",
+ "venue_official": "みずほPayPayドーム福岡",
+ "pref": "福岡県",
+ "dates": [
+  "2027-01-16",
+  "2027-01-17"
+ ],
+ "times": {
+  "2027-01-16": "開演17:00",
+  "2027-01-17": "開演17:00"
+ },
+ "note": "公式の表記は「No.Ⅲ」（ニュースでは「No.III」とも）。福岡公演の日程は2026-08-06付ニュースに記載（公演ページでは「MORE」の先）"
+}

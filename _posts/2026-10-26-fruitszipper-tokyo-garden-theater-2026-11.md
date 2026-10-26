@@ -77,8 +77,6 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
 
 <p>会場：<strong>東京ガーデンシアター</strong>（東京都）。公演名：FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code。</p>
 
-<p class="note">9/3〜10/26の公演は終了。KAWAII LAB. 5th ANNIVERSARY TOUR・KAWAII LAB. Christmas SESSION 2026 は複数グループのため除外</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://fruitszipper.asobisystem.com/feature/2026tour_autumn" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

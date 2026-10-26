@@ -79,7 +79,7 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
 
 <p>会場：<strong>東京ガーデンシアター</strong>（東京都）。公演名：大学芸会2027 This is GR8。</p>
 
-<p class="note">公式サイトに接続できず報道で確認。12月の舞台『けものフレンズ』出演・FAMIEN 2027（2027/8/7・8 山中湖、公式検索結果の見出しのみで未確認）は入れていない</p>
+<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
 
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 

@@ -76,7 +76,7 @@ thumbnail: /assets/img/guide/vantelin-dome-nagoya.webp
 
 <p>会場：<strong>バンテリンドーム ナゴヤ</strong>（愛知県）。公演名：＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」。</p>
 
-<p class="note">バンテリンドーム ナゴヤ公演は公式スケジュールに「開催決定」として掲載（2027年2月24日(水)・25日(木)）。開場/開演は未掲載</p>
+<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
 
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 

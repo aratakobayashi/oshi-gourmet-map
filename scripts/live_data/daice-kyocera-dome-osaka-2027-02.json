@@ -1,0 +1,24 @@
+{
+ "slug": "daice-kyocera-dome-osaka-2027-02",
+ "group": "daice",
+ "tour": "Da-iCE DAY DOME PHASE 2027",
+ "official_url": "https://da-ice.jp/schedule/tour.php?id=1003011",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "Da-iCE公式（LIVE / TOUR）",
+   "url": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2027-02-13",
+  "2027-02-14"
+ ],
+ "times": {
+  "2027-02-13": "開場15:00／開演17:00",
+  "2027-02-14": "開場13:00／開演15:00"
+ }
+}

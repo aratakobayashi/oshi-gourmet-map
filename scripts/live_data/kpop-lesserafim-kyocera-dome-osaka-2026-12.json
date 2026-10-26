@@ -1,0 +1,29 @@
+{
+ "slug": "kpop-lesserafim-kyocera-dome-osaka-2026-12",
+ "group": "kpop_lesserafim",
+ "tour": "2026 LE SSERAFIM TOUR 'PUREFLOW' IN KYOCERA DOME OSAKA",
+ "official_url": "https://www.hybejapan-concert.com/statics/le-sserafim_pureflow_kyocera_dome_osaka",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "LE SSERAFIM公式（HYBE JAPAN 公演特設ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/le-sserafim_pureflow_kyocera_dome_osaka"
+  },
+  {
+   "label": "HYBE JAPAN EVENTS",
+   "url": "https://www.hybejapan.events/"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2026-12-19",
+  "2026-12-20"
+ ],
+ "times": {
+  "2026-12-19": "開場15:00／開演17:00",
+  "2026-12-20": "開場14:00／開演16:00"
+ },
+ "note": "2026年夏の日本ツアー（PUREFLOW IN JAPAN）の追加公演"
+}

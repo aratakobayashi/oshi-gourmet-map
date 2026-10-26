@@ -80,8 +80,6 @@ thumbnail: /assets/img/guide/nissan-stadium.webp
 
 <p>会場：<strong>日産スタジアム</strong>（神奈川県）。公演名：MILESixTONES（スタジアムツアー）。</p>
 
-<p class="note">公式ページに年の表記はないが、曜日（11月7日(土)・11月21日(土)）が2026年と一致。東京・味の素スタジアム（9/19・9/20）は終了済みのため除外。</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.sixtones.jp/live" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

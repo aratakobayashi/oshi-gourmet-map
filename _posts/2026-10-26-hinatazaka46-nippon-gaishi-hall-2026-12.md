@@ -74,8 +74,6 @@ thumbnail: /assets/img/guide/nippon-gaishi-hall.webp
 
 <p>会場：<strong>クロコくんホール</strong>（愛知県）。公演名：日向坂46 ARENA TOUR「ひなくり2026」。</p>
 
-<p class="note">日向坂46公式サイトは robots.txt で ClaudeBot を拒否しているため読まず、オリコンで確認（official_url は scripts/tour_data にある既存の公式ページ・今回は未読）。会場名・時刻はオリコン記事の表記</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.hinatazaka46.com/s/official/news/detail/E00916" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

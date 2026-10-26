@@ -1,0 +1,25 @@
+{
+ "slug": "daice-tokyo-garden-theater-2026-11",
+ "group": "daice",
+ "tour": "Da-iCE DAY HALL PHASE 2026",
+ "official_url": "https://da-ice.jp/schedule/tour.php?id=1003063&fdate=2026-10-13&ldate=2026-12-15",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "Da-iCE公式（LIVE / TOUR）",
+   "url": "https://da-ice.jp/schedule/tour.php?id=1003063&fdate=2026-10-13&ldate=2026-12-15"
+  }
+ ],
+ "venue_key": "tokyo-garden-theater",
+ "venue_official": "東京ガーデンシアター",
+ "pref": "東京都",
+ "dates": [
+  "2026-11-17",
+  "2026-11-18"
+ ],
+ "times": {
+  "2026-11-17": "開場18:00／開演19:00（Side A）",
+  "2026-11-18": "開場17:30／開演18:30（Side B(a-i side)）"
+ },
+ "note": "公演ごとに Side A / Side B(a-i side) の2種類（公式の表記）"
+}

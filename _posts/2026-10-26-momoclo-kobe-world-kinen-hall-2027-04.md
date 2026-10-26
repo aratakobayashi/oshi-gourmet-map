@@ -73,8 +73,6 @@ thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
 
 <p>会場：<strong>ワールド記念ホール</strong>（兵庫県）。公演名：MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”。</p>
 
-<p class="note">各会場DAY1「Chronostasis」・DAY2「Singularity」で内容が異なる</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

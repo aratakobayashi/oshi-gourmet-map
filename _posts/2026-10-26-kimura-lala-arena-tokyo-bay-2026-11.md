@@ -79,7 +79,7 @@ thumbnail: /assets/img/guide/lala-arena-tokyo-bay.webp
 
 <p>会場：<strong>LaLa arena TOKYO-BAY</strong>（千葉県）。公演名：TAKUYA KIMURA Live Tour 2026 Checkpoint。</p>
 
-<p class="note">公式（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 報道2本で確認。11/23 千葉がツアーファイナル（モデルプレス）。台北公演（11/13・11/14）は海外のため除外。開演時刻は報道に無いので省略。official_url は公式を読めなかったため報道のURL。</p>
+<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
 
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.oricon.co.jp/news/2457592/full/" target="_blank" rel="noopener">発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 

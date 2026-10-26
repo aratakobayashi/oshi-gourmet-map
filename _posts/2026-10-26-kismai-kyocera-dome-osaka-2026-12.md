@@ -78,8 +78,6 @@ thumbnail: /assets/img/guide/kyocera-dome-osaka.webp
 
 <p>会場：<strong>京セラドーム大阪</strong>（大阪府）。公演名：Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・。</p>
 
-<p class="note">official_url（starto.jp）とレーベル公式（mentrecording.jp）は robots.txt で ClaudeBot を拒否しているため未読。日程・開演時刻はモデルプレスの一覧で確認。</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://starto.jp/s/p/live/10594" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

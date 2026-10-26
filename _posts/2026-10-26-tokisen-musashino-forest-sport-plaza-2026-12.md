@@ -77,8 +77,6 @@ thumbnail: /assets/img/guide/musashino-forest-sport-plaza.webp
 
 <p>会場：<strong>京王アリーナTOKYO</strong>（東京都）。公演名：超ときめき♡宣伝部のどきどきクリスマスパーティー 2026。</p>
 
-<p class="note">2027年春ごろに活動終了予定（最後のワンマンは会場・日程未発表のため入れていない）</p>
-
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://toki-sen.com/contents/1120611" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

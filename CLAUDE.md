@@ -342,6 +342,15 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - ツアー記事（article_type: tour）: 公式サイト（starto.jp の公演ページ・各グループ公式）で確かめた今後の公演だけ。終わった公演・未発表の公演は載せない。会場の近くにグループの店が1軒もないツアーは作らない（=LOVE名古屋・櫻坂46・上方フェス・なにわ男子ららアリーナは見送り）。2026-10-19 に7本: Snow Man・SixTONES・Hey! Say! JUMP・Kis-My-Ft2・Number_i・超特急・日向坂46。日程が変わったら scripts/tour_data の JSON を直して tour_article.py を実行
 - メンバー別記事（article_type: member）: 行った店（studio_only を除く）が30軒前後以上のメンバー30人（Snow Man 9人・SixTONES 6人・King & Prince 2人・WEST. 4人・Hey! Say! JUMP 3人・よにの3人（山田涼介・菊池風磨・二宮和也は複数グループ）・=LOVE 大谷映美里・HiHi Jets 2人）。店が増えたら member_article.py で作り直せる
 
+## 公演ごとの参戦ガイド（2026-10-26〜。article_type: live）
+- 「イコラブ バンテリンドーム」のような「グループ名＋会場名」の検索向けに、グループ×会場（同じ会場の連続日）＝1記事。題名「<グループ>（<呼び名>） <会場>公演 参戦ガイド（<日付>）｜行き方・座席・持ち込み・泊まる・近くの聖地」
+- 作り方: 公演の公式データ（ツアー単位。scripts/tour_data と同じ形の配列）→ `python scripts/live_data_split.py <json>`（会場名を _data/venues.json に当てはめて scripts/live_data/<slug>.json に分ける。会場ガイド（scripts/venue_data）がない会場は一覧に出すだけ）→ `python scripts/live_article.py --all`（何度実行しても同じ。公開日は最初のまま）
+- 中身: 日程（時刻は公式にあるときだけ）・行き方/座席/持ち込み/当日の準備（会場データと会場ガイドの図）・上部と「泊まる」の章に宿のボタン・近くのグループの店（3km→10km→同じ都道府県）とほかの推しの店。セトリ・値段・チケットの申し込み・体験談は書かない。調べたときのメモ（note）は記事に出さない（public_note だけ出す）
+- 載せない: 終わった公演・未発表・海外・フェスや合同公演・メンバーのソロ/生誕祭・ユニットだけの公演・ラジオの番組イベント
+- 一覧: `_includes/live-list.html`（会場ガイドの上部「この会場でこれからある公演」・グループページ・/ensei/）。終わった公演は自動で消える（live_end）。記事には公演後「この公演は終わりました」が出る
+- 公式サイトの robots.txt で ClaudeBot を断っているところは読まない: starto.jp・jr-official.starto.jp・j-storm・mentrecording.jp・jehp.jp・坂道3グループの公式・hkt48.jp・niziu.com・sonymusic.co.jp・livehaku.jp など。そのときは大手報道（オリコン・モデルプレス・THE FIRST TIMES・デイリースポーツ等）で確かめ、記事のリンクは「発表を伝える記事」になる（live_article.py の NEWS）
+- 会場ガイドがなくて作れなかった会場（2026-10-26）: TOYOTA ARENA TOKYO・Zepp各地・ZOZOマリンスタジアム・ヤンマースタジアム長居・パシフィコ横浜・大宮ソニックシティ・各地の市民ホールなど。会場ガイドを足せば記事にできる
+
 ## 新しいグループの追加（2026-10-20）
 - 人気グループ60組の棚卸し: STARTO はほぼ網羅、女性アイドルは坂道・指原系だけだった。JO1・INI・FRUITS ZIPPER・ももいろクローバーZ・AKB48・NMB48 を追加（まとめ記事は group_matome.py で作成。FRUITS ZIPPER は番組で食べた記録がほぼ無く2軒・AKB48 は17軒で記事なし）
 - 集まり方: NMB48 は公式YouTube「裏なんばちゃん」の概要欄に店名・場所・出演者が必ず載る（週1回の更新の情報源に足せる）。AKB48 は公式サブch「AKBの素を出すちゃんねる」の【撮影協力】。INI・JO1 は番組（よるのブランチ・めざまし・ヒルナンデス！・ラヴィット！）とファンブログ（powakitchen.site・globalpop-trend.com・oshitotabi.com）。ももクロは日テレ articles.js・テレ朝POST・ファンの聖地マップ（momoclomap.com）

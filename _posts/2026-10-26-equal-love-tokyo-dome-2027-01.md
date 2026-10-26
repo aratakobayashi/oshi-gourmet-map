@@ -83,6 +83,8 @@ thumbnail: /assets/img/guide/tokyo-dome.webp
 
 <p>会場：<strong>東京ドーム</strong>（東京都）。公演名：＝LOVE in TOKYO DOME「全ては＝LOVE」。</p>
 
+<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
+
 <p class="note">日程・時刻は2026年10月26日時点の<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>

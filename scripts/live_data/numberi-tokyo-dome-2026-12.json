@@ -1,0 +1,29 @@
+{
+ "slug": "numberi-tokyo-dome-2026-12",
+ "group": "numberi",
+ "tour": "Number_i LIVE TOUR No.Ⅲ",
+ "official_url": "https://tobe-official.jp/artists/number_i/concert/364",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "TOBE公式（Number_i CONCERT/STAGE）",
+   "url": "https://tobe-official.jp/artists/number_i/concert/364"
+  },
+  {
+   "label": "TOBE公式（Number_i NEWS 公演スケジュールのご案内）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2318"
+  }
+ ],
+ "venue_key": "tokyo-dome",
+ "venue_official": "東京ドーム",
+ "pref": "東京都",
+ "dates": [
+  "2026-12-09",
+  "2026-12-10"
+ ],
+ "times": {
+  "2026-12-09": "開演18:30",
+  "2026-12-10": "開演18:30"
+ },
+ "note": "公式の表記は「No.Ⅲ」（ニュースでは「No.III」とも）。福岡公演の日程は2026-08-06付ニュースに記載（公演ページでは「MORE」の先）"
+}
