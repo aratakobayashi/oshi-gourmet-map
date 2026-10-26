@@ -1,0 +1,22 @@
+{%- comment -%}
+  これからの公演の参戦ガイド（_posts の article_type: live）の一覧。終わった公演（live_end が今日より前）は出さない。
+  使い方: {% include live-list.html venue="tokyo-dome" %} / group="snowman" / 引数なしで全部。title= で見出し、limit= で件数
+{%- endcomment -%}
+{%- assign _today = site.time | date: "%Y-%m-%d" -%}
+{%- assign _ls = site.posts | where: "article_type", "live" -%}
+{%- if include.venue %}{% assign _ls = _ls | where: "venue_key", include.venue %}{% endif -%}
+{%- if include.group %}{% assign _ls = _ls | where: "group", include.group %}{% endif -%}
+{%- assign _ls = _ls | sort: "live_end" -%}
+{%- assign _lc = 0 -%}{%- for p in _ls %}{% if p.live_end >= _today %}{% assign _lc = _lc | plus: 1 %}{% endif %}{% endfor -%}
+{%- if _lc > 0 %}
+<div class="lives">
+  <p class="lives__h">{{ include.title | default: "これからの公演の参戦ガイド" }}</p>
+  <ul>
+  {%- assign _li = 0 -%}
+  {%- for p in _ls %}{% if p.live_end >= _today %}{% assign _li = _li | plus: 1 %}{% if include.limit and _li > include.limit %}{% break %}{% endif %}
+    {%- assign _lx = site.data.group_ix[p.group] -%}{%- assign _lv = site.data.venues[p.venue_key] %}
+    <li><a href="{{ p.url | relative_url }}" style="--g:{{ _lx.c }}"><span class="lives__d">{% for d in p.live_dates %}{{ d | date: "%-m/%-d" }}{% unless forloop.last %}・{% endunless %}{% endfor %}</span><span class="lives__t"><b>{{ _lx.l }}</b> {{ _lv.name }}</span><span class="lives__go" aria-hidden="true">›</span></a></li>
+  {%- endif %}{% endfor %}
+  </ul>
+</div>
+{%- endif %}

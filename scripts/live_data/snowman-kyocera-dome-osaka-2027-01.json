@@ -1,0 +1,26 @@
+{
+ "slug": "snowman-kyocera-dome-osaka-2027-01",
+ "group": "snowman",
+ "tour": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+ "official_url": "https://starto.jp/s/p/live/10578",
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）",
+   "url": "https://starto.jp/s/p/live/10578"
+  },
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2027-01-04",
+  "2027-01-05",
+  "2027-01-06",
+  "2027-01-07"
+ ]
+}

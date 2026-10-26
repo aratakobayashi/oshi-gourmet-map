@@ -1,0 +1,26 @@
+{
+ "slug": "snowman-tokyo-dome-2026-12",
+ "group": "snowman",
+ "tour": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+ "official_url": "https://starto.jp/s/p/live/10578",
+ "checked_at": "2026-10-19",
+ "sources": [
+  {
+   "label": "STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）",
+   "url": "https://starto.jp/s/p/live/10578"
+  },
+  {
+   "label": "STARTO ENTERTAINMENT（公演情報の一覧）",
+   "url": "https://starto.jp/s/p/live"
+  }
+ ],
+ "venue_key": "tokyo-dome",
+ "venue_official": "東京ドーム",
+ "pref": "東京都",
+ "dates": [
+  "2026-12-23",
+  "2026-12-24",
+  "2026-12-25",
+  "2026-12-26"
+ ]
+}
