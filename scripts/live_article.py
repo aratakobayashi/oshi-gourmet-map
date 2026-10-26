@@ -35,6 +35,7 @@ ROOT = T.ROOT
 TODAY = datetime.date.today().isoformat()
 NEAR_KM, FAR_KM, MAX_ROWS, MIN_ROWS, PREF_ROWS = 3.0, 10.0, 8, 3, 6
 WEEK = '月火水木金土日'
+NEWS = ('oricon.co.jp', 'mdpr.jp', 'thefirsttimes.jp', 'realsound.jp', 'natalie.mu', 'modelpress', 'billboard-japan', 'musicman', 'barks.jp')
 # 検索でよく使われる呼び名（題名とタグに足す）
 AKA = {'equal_love': 'イコラブ', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
        'sixtones': 'ストーンズ', 'travisjapan': 'トラジャ', 'hihijets': 'ハイハイ',
@@ -136,6 +137,9 @@ def build(slug, ctx):
     ck = spec['checked_at']
     ckl = f'{ck[:4]}年{int(ck[5:7])}月{int(ck[8:10])}日'
     tour = spec['tour']
+    # 公式ページが読めず報道で確かめた公演は、リンクの文言を「発表を伝える記事」に
+    news = any(x in spec['official_url'] for x in NEWS)
+    olink = '発表を伝える記事' if news else '公式の公演情報'
     hk, hj = vnear[key]['hk'], vnear[key]['hj']
     has_guide = os.path.exists(os.path.join(ROOT, '_guides', f'{key}.html'))
     vpref = spec.get('pref') or ''
@@ -220,7 +224,7 @@ def build(slug, ctx):
     b.append(f'{{% if site.time | date: "%Y-%m-%d" > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
              f'<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{{% endif %}}')
     b.append(f'<p><strong>{gl}</strong>『{T.esc(tour)}』の<strong>{T.esc(vname)}</strong>公演は、<strong>{dl}</strong>です'
-             f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式の公演情報</a>・{ckl}時点）。'
+             f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{olink}</a>・{ckl}時点）。'
              f'この記事では、{T.esc(vname)}への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、'
              f'{gl}のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>')
     b.append(stay_box(vname, hk, hj, top=True))
@@ -231,7 +235,7 @@ def build(slug, ctx):
     b.append(f'<p>会場：<strong>{T.esc(vname)}</strong>（{T.esc(vpref)}）。公演名：{T.esc(tour)}。</p>')
     if spec.get('note'):
         b.append(f'<p class="note">{T.esc(spec["note"])}</p>')
-    b.append(f'<p class="note">日程・時刻は{ckl}時点の<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>')
+    b.append(f'<p class="note">日程・時刻は{ckl}時点の<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{"発表" if news else "公式発表"}</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>')
 
     b.append('<h2 id="access">会場への行き方</h2>')
     if st:

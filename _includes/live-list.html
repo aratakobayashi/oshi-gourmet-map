@@ -15,7 +15,7 @@
   {%- assign _li = 0 -%}
   {%- for p in _ls %}{% if p.live_end >= _today %}{% assign _li = _li | plus: 1 %}{% if include.limit and _li > include.limit %}{% break %}{% endif %}
     {%- assign _lx = site.data.group_ix[p.group] -%}{%- assign _lv = site.data.venues[p.venue_key] %}
-    <li><a href="{{ p.url | relative_url }}" style="--g:{{ _lx.c }}"><span class="lives__d">{% for d in p.live_dates %}{{ d | date: "%-m/%-d" }}{% unless forloop.last %}・{% endunless %}{% endfor %}</span><span class="lives__t"><b>{{ _lx.l }}</b> {{ _lv.name }}</span><span class="lives__go" aria-hidden="true">›</span></a></li>
+    <li><a href="{{ p.url | relative_url }}" style="--g:{{ _lx.c }}"><span class="lives__d">{{ p.live_dates.first | date: "%-m/%-d" }}{% if p.live_dates.size > 2 %}〜{{ p.live_dates.last | date: "%-m/%-d" }}{% elsif p.live_dates.size == 2 %}・{{ p.live_dates.last | date: "%-m/%-d" }}{% endif %}</span><span class="lives__t"><b>{{ _lx.l }}</b> {{ _lv.name }}</span><span class="lives__go" aria-hidden="true">›</span></a></li>
   {%- endif %}{% endfor %}
   </ul>
 </div>
