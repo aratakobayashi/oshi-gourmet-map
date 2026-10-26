@@ -1,0 +1,24 @@
+{
+ "slug": "notme-musashino-forest-sport-plaza-2026-11",
+ "group": "notme",
+ "tour": "≠ME 特別公演 2026",
+ "official_url": "https://not-equal-me.jp/schedule/detail/7852",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "≠ME公式（SCHEDULE）",
+   "url": "https://not-equal-me.jp/schedule/detail/7852"
+  }
+ ],
+ "venue_key": "musashino-forest-sport-plaza",
+ "venue_official": "京王アリーナTOKYO",
+ "pref": "東京都",
+ "dates": [
+  "2026-11-07",
+  "2026-11-08"
+ ],
+ "times": {
+  "2026-11-07": "開場16:00／開演17:30",
+  "2026-11-08": "開場15:00／開演16:30"
+ }
+}

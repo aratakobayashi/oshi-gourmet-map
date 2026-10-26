@@ -1,0 +1,25 @@
+{
+ "slug": "kpop-andteam-pia-arena-mm-2027-02",
+ "group": "kpop_andteam",
+ "tour": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+ "official_url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "&TEAM公式（HYBE JAPAN 公演特設ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
+  },
+  {
+   "label": "HYBE JAPAN EVENTS",
+   "url": "https://www.hybejapan.events/"
+  }
+ ],
+ "venue_key": "pia-arena-mm",
+ "venue_official": "ぴあアリーナMM",
+ "pref": "神奈川県",
+ "dates": [
+  "2027-02-13",
+  "2027-02-14"
+ ],
+ "note": "グランキューブ大阪は2026-11と2027-01の2回。2027-02以降のアリーナ公演は開場・開演時刻の記載なし"
+}

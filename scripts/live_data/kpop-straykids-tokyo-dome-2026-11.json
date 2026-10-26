@@ -1,0 +1,22 @@
+{
+ "slug": "kpop-straykids-tokyo-dome-2026-11",
+ "group": "kpop_straykids",
+ "tour": "Stray Kids World Tour <RUN IT>（日本・東京ドーム追加公演）",
+ "official_url": "https://straykidsjapan.com/live/",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "デイリースポーツ（2026-08-31 東京ドーム追加公演の発表）",
+   "url": "https://www.daily.co.jp/gossip/2026/08/31/0020765826.shtml"
+  }
+ ],
+ "venue_key": "tokyo-dome",
+ "venue_official": "東京ドーム",
+ "pref": "東京都",
+ "dates": [
+  "2026-11-06",
+  "2026-11-07",
+  "2026-11-08"
+ ],
+ "note": "公式で未確認: 日本公式サイト straykidsjapan.com のLIVE欄は sonymusic.co.jp から読み込まれ、sonymusic.co.jp は robots.txt で ClaudeBot / anthropic-ai を拒否しているため読めなかった。報道（11月6日から3日間）だけで載せている。ツアー名の日本向け正式表記・時刻は未確認"
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "kismai-kyocera-dome-osaka-2026-12",
+ "group": "kismai",
+ "tour": "Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・",
+ "official_url": "https://starto.jp/s/p/live/10594",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "モデルプレス（ドームツアー日程発表 2026-09-20）",
+   "url": "https://mdpr.jp/news/detail/4847322"
+  },
+  {
+   "label": "THE FIRST TIMES（ドーム公演日程も発表 2026-09-20）",
+   "url": "https://www.thefirsttimes.jp/news/0000885547/"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2026-12-25",
+  "2026-12-26"
+ ],
+ "times": {
+  "2026-12-25": "開演18:00",
+  "2026-12-26": "開演15:00"
+ },
+ "note": "official_url（starto.jp）とレーベル公式（mentrecording.jp）は robots.txt で ClaudeBot を拒否しているため未読。日程・開演時刻はモデルプレスの一覧で確認。"
+}

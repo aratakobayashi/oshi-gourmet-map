@@ -1,0 +1,26 @@
+{
+ "slug": "kpop-andteam-marine-messe-fukuoka-2027-03",
+ "group": "kpop_andteam",
+ "tour": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+ "official_url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "&TEAM公式（HYBE JAPAN 公演特設ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
+  },
+  {
+   "label": "HYBE JAPAN EVENTS",
+   "url": "https://www.hybejapan.events/"
+  }
+ ],
+ "venue_key": "marine-messe-fukuoka",
+ "venue_official": "マリンメッセ福岡 B館",
+ "pref": "福岡県",
+ "dates": [
+  "2027-03-20",
+  "2027-03-21",
+  "2027-03-22"
+ ],
+ "note": "グランキューブ大阪は2026-11と2027-01の2回。2027-02以降のアリーナ公演は開場・開演時刻の記載なし"
+}

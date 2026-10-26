@@ -1,0 +1,29 @@
+{
+ "slug": "befirst-belluna-dome-2027-03",
+ "group": "befirst",
+ "tour": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+ "official_url": "https://befirst.tokyo/tour/dometour2027/",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "BE:FIRST公式（ツアー特設サイト）",
+   "url": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "label": "BE:FIRST公式（LIVE）",
+   "url": "https://befirst.tokyo/live/dometour2027/"
+  }
+ ],
+ "venue_key": "belluna-dome",
+ "venue_official": "ベルーナドーム",
+ "pref": "埼玉県",
+ "dates": [
+  "2027-03-06",
+  "2027-03-07"
+ ],
+ "times": {
+  "2027-03-06": "開場14:30／開演17:00",
+  "2027-03-07": "開場14:30／開演17:00"
+ },
+ "note": "京セラドーム大阪は2026-10-24に追加公演として発表。バンテリンドーム ナゴヤの追加公演は「2027年春」で日付未発表のため除外"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "kpop-enhypen-mizuho-paypay-dome-2027-02",
+ "group": "kpop_enhypen",
+ "tour": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+ "official_url": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "ENHYPEN公式（HYBE JAPAN 公演特設ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  },
+  {
+   "label": "HYBE JAPAN EVENTS",
+   "url": "https://www.hybejapan.events/"
+  }
+ ],
+ "venue_key": "mizuho-paypay-dome",
+ "venue_official": "みずほPayPayドーム福岡",
+ "pref": "福岡県",
+ "dates": [
+  "2027-02-06",
+  "2027-02-07"
+ ],
+ "times": {
+  "2027-02-06": "開場15:00／開演17:00",
+  "2027-02-07": "開場14:00／開演16:00"
+ }
+}

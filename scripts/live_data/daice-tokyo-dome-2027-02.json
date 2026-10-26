@@ -1,0 +1,22 @@
+{
+ "slug": "daice-tokyo-dome-2027-02",
+ "group": "daice",
+ "tour": "Da-iCE DAY DOME PHASE 2027",
+ "official_url": "https://da-ice.jp/schedule/tour.php?id=1003011",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "Da-iCE公式（LIVE / TOUR）",
+   "url": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  }
+ ],
+ "venue_key": "tokyo-dome",
+ "venue_official": "東京ドーム",
+ "pref": "東京都",
+ "dates": [
+  "2027-02-04"
+ ],
+ "times": {
+  "2027-02-04": "開場16:00／開演18:00"
+ }
+}

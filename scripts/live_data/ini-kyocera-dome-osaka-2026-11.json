@@ -1,0 +1,24 @@
+{
+ "slug": "ini-kyocera-dome-osaka-2026-11",
+ "group": "ini",
+ "tour": "2026 INI 5TH ANNIVERSARY DOME TOUR [CITY OF LIGHTS]",
+ "official_url": "https://ini-official.com/schedule/detail/4025",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "INI公式（SCHEDULE）",
+   "url": "https://ini-official.com/schedule/detail/4025"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2026-11-14",
+  "2026-11-15"
+ ],
+ "times": {
+  "2026-11-14": "開場16:30／開演18:30",
+  "2026-11-15": "開場12:30／開演14:30"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "hinatazaka46-yoyogi-national-gymnasium-2026-12",
+ "group": "hinatazaka46",
+ "tour": "日向坂46 ARENA TOUR「ひなくり2026」",
+ "official_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "オリコンニュース（ひなくり2026 開催決定）",
+   "url": "https://www.oricon.co.jp/news/2470417/full/"
+  }
+ ],
+ "venue_key": "yoyogi-national-gymnasium",
+ "venue_official": "国立代々木競技場 第一体育館",
+ "pref": "東京都",
+ "dates": [
+  "2026-12-09",
+  "2026-12-10",
+  "2026-12-11"
+ ],
+ "times": {
+  "2026-12-09": "開場16:30／開演18:00",
+  "2026-12-10": "開場16:30／開演18:00",
+  "2026-12-11": "開場16:30／開演18:00"
+ },
+ "note": "日向坂46公式サイトは robots.txt で ClaudeBot を拒否しているため読まず、オリコンで確認（official_url は scripts/tour_data にある既存の公式ページ・今回は未読）。会場名・時刻はオリコン記事の表記"
+}

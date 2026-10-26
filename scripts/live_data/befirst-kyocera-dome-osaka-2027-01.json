@@ -1,0 +1,29 @@
+{
+ "slug": "befirst-kyocera-dome-osaka-2027-01",
+ "group": "befirst",
+ "tour": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+ "official_url": "https://befirst.tokyo/tour/dometour2027/",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "BE:FIRST公式（ツアー特設サイト）",
+   "url": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "label": "BE:FIRST公式（LIVE）",
+   "url": "https://befirst.tokyo/live/dometour2027/"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2027-01-16",
+  "2027-01-17"
+ ],
+ "times": {
+  "2027-01-16": "開場15:00／開演17:00",
+  "2027-01-17": "開場15:00／開演17:00"
+ },
+ "note": "京セラドーム大阪は2026-10-24に追加公演として発表。バンテリンドーム ナゴヤの追加公演は「2027年春」で日付未発表のため除外"
+}

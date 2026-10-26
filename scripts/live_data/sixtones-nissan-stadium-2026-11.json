@@ -1,0 +1,25 @@
+{
+ "slug": "sixtones-nissan-stadium-2026-11",
+ "group": "sixtones",
+ "tour": "MILESixTONES（スタジアムツアー）",
+ "official_url": "https://www.sixtones.jp/live",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "SixTONES Official web site（LIVE）",
+   "url": "https://www.sixtones.jp/live"
+  }
+ ],
+ "venue_key": "nissan-stadium",
+ "venue_official": "日産スタジアム",
+ "pref": "神奈川県",
+ "dates": [
+  "2026-11-21",
+  "2026-11-22"
+ ],
+ "times": {
+  "2026-11-21": "開演16:30",
+  "2026-11-22": "開演16:30"
+ },
+ "note": "公式ページに年の表記はないが、曜日（11月7日(土)・11月21日(土)）が2026年と一致。東京・味の素スタジアム（9/19・9/20）は終了済みのため除外。"
+}

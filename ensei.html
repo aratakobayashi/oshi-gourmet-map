@@ -11,6 +11,8 @@ permalink: /ensei/
   {%- if _vc.linkswitch_pid != '' or site.affiliate.rakuten.id != '' %}<p class="pr-note pr-note--top">#アフィリエイト広告　本ページはプロモーションを含みます</p>{% endif %}
   <p class="page-lead">ライブで遠くの会場へ行く日は、推しが訪れたお店を巡るチャンスです。全国{{ site.data.venues | size }}の会場ごとに、会場の近くの聖地と、会場周辺の宿の探し方をまとめました。会場への行き方や持ち込みのルールは、各会場のライブ参戦ガイドで確かめられます。</p>
 
+  {% include live-list.html title="これからの公演の参戦ガイド（日付順）" %}
+
   <nav class="tabs" aria-label="地方" style="margin-top:16px">
     {%- for rg in site.data.venue_regions %}<a href="#{{ rg.key }}">{{ rg.label }}<span class="cnt">{{ rg.venues.size }}</span></a>{% endfor %}
   </nav>

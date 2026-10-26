@@ -1,0 +1,29 @@
+{
+ "slug": "snowman-kyocera-dome-osaka-2027-01",
+ "group": "snowman",
+ "tour": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+ "official_url": "https://starto.jp/s/p/live/10578",
+ "checked_at": "2026-10-26",
+ "sources": [
+  {
+   "label": "ORICON NEWS（Snow Man、5大ドームツアー開催へ “18公演”の日程を発表【一覧】2026-08-14）",
+   "url": "https://www.oricon.co.jp/news/2473853/full/"
+  }
+ ],
+ "venue_key": "kyocera-dome-osaka",
+ "venue_official": "京セラドーム大阪",
+ "pref": "大阪府",
+ "dates": [
+  "2027-01-04",
+  "2027-01-05",
+  "2027-01-06",
+  "2027-01-07"
+ ],
+ "times": {
+  "2027-01-04": "開演17:00",
+  "2027-01-05": "開演17:00",
+  "2027-01-06": "開演17:00",
+  "2027-01-07": "開演16:00"
+ },
+ "note": "official_url（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 日程・開演時刻は ORICON NEWS の一覧で確認。京セラドーム大阪は 1/7 を含む4日間（リポジトリの scripts/tour_data/snowman-dome-tour-2026-2027-all-suite.json は3日間で、1/7 が抜けている）。"
+}
