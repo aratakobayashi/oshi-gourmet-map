@@ -300836,5 +300836,59 @@
     "tmdb_id": 57952,
     "tmdb_type": "tv",
     "program": "ぶらり途中下車の旅"
+  },
+  {
+    "id": "machichuka-51997062-20261026",
+    "name": "福永",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "川崎市麻生区",
+    "address": "神奈川県川崎市麻生区下麻生2-41-3",
+    "lat": 35.577637,
+    "lng": 139.508804,
+    "source_video_title": "町中華で飲ろうぜ #429 何の日シリーズ 柿の日（2026-10-26 BS-TBS）",
+    "visited_date": "2026-10-26",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0429-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1405/A140508/14016429/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "sakaba_horoki-504bb59f-20261026",
+    "name": "居酒屋よろこんで",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "台東区",
+    "address": "東京都台東区寿4-10-3",
+    "lat": 35.708664,
+    "lng": 139.792755,
+    "source_video_title": "吉田類の酒場放浪記 #1325 田原町「居酒屋よろこんで」（2026-10-26 BS-TBS）",
+    "visited_date": "2026-10-26",
+    "members": [
+      "吉田類"
+    ],
+    "groups": [
+      "sakaba_horoki"
+    ],
+    "group": "sakaba_horoki",
+    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1325.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
+    "tmdb_id": 227203,
+    "tmdb_type": "tv",
+    "program": "吉田類の酒場放浪記"
   }
 ]
