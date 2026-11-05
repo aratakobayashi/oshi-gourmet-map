@@ -2,7 +2,7 @@
 layout: post
 title: 私立恵比寿中学（エビ中） 東京ガーデンシアター公演 参戦ガイド（2027年2月6日・7日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-05'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -152,6 +152,8 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="tokyo-garden-theater" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

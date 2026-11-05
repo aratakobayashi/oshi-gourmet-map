@@ -2,7 +2,7 @@
 layout: post
 title: '&TEAM（エンティーム） マリンメッセ福岡A館公演 参戦ガイド（2027年3月20日〜22日）｜行き方・座席・持ち込み・泊まる・近くの聖地'
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-05'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のマリンメッセ福岡A館公演（2027年3月20日（土）・21日（日）・22日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に&TEAMのメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。'
@@ -149,6 +149,8 @@ thumbnail: /assets/img/guide/marine-messe-fukuoka.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%A1%E3%83%83%E3%82%BB%E7%A6%8F%E5%B2%A1A%E9%A4%A8" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="marine-messe-fukuoka" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

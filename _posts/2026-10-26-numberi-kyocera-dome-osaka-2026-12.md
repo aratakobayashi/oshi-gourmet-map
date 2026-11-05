@@ -2,7 +2,7 @@
 layout: post
 title: Number_i 京セラドーム大阪公演 参戦ガイド（2026年12月2日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-05'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Number_i LIVE TOUR No.Ⅲ』の京セラドーム大阪公演（2026年12月2日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -142,6 +142,8 @@ thumbnail: /assets/img/guide/kyocera-dome-osaka.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A7%E9%98%AA" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="kyocera-dome-osaka" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

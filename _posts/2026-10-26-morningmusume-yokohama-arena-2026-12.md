@@ -2,7 +2,7 @@
 layout: post
 title: モーニング娘。'26 横浜アリーナ公演 参戦ガイド（2026年12月11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-05'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の横浜アリーナ公演（2026年12月11日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -132,6 +132,8 @@ thumbnail: /assets/img/guide/yokohama-arena.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%A8%AA%E6%B5%9C%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="yokohama-arena" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

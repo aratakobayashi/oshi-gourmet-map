@@ -1,0 +1,20 @@
+{%- comment -%}
+  会場の近くの宿（楽天トラベルの公式APIで調べた _data/venue_hotels.json。scripts/fetch_venue_hotels.py）。
+  引数: key（_data/venues.json の会場キー）。データがない会場は何も出さない
+  料金・空室・口コミは載せない（変わりやすいのでリンク先で確かめてもらう）。楽天ウェブサービスのクレジットを出す
+{%- endcomment -%}
+{%- assign _vh = site.data.venue_hotels[include.key] -%}
+{%- if _vh and _vh.hotels.size > 0 %}
+<div class="vhotels">
+  <p class="vhotels__h">会場から近い宿<small class="stay-in__pr">PR</small></p>
+  <ul>
+  {%- for h in _vh.hotels %}
+    <li><a href="{{ h.u }}" target="_blank" rel="sponsored noopener" data-aff="rakuten">
+      {%- if h.img != '' %}<img src="{{ h.img }}" alt="" width="72" height="72" loading="lazy" decoding="async">{% endif %}
+      <span class="vhotels__b"><b>{{ h.n }}</b><small>会場から約{% if h.m >= 1000 %}{{ h.m | divided_by: 100 | times: 0.1 | round: 1 }}km{% else %}{{ h.m }}m{% endif %}（直線）{% if h.st != '' %}・最寄り {{ h.st }}{% endif %}</small></span>
+      <span class="vhotels__go">楽天トラベルで見る</span></a></li>
+  {%- endfor %}
+  </ul>
+  <p class="vhotels__note">料金・空室は楽天トラベルで確かめてください。宿の情報は{{ _vh.at | date: "%Y年%-m月" }}時点。<a href="https://webservice.rakuten.co.jp/" target="_blank" rel="noopener">Supported by Rakuten Developers</a></p>
+</div>
+{%- endif %}
