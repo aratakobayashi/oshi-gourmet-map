@@ -291,10 +291,10 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - 運営者情報 /about/・お問い合わせ /contact/・プライバシーポリシー /privacy/・広告表記 /disclosure/ あり
 - 食べログ由来データ（点数・画像・価格帯・営業時間）は削除済み。画像なし店舗 465件（2026-10-09 に fetch_program_thumbnails.py で番組・ドラマのTMDB画像を976件補完。「なにわ男子のどっち派」「なにわ男子のなんでやねん」はめざましテレビ内のコーナー。残りはYouTube企画（match_youtube_videos.py の対象）・MV・SNS投稿などTMDBにない出典）。2026-10-09 に match_youtube_videos.py で43件に youtube_id（残りの確認待ち74件は scripts/youtube_match_review.json）、fetch_hotpepper_photos.py で94件に hotpepper_photo を付与し、画像なし店舗は 421件
 - TMDB_API_KEY は v4 の読み取りトークン（eyJ...）。Authorization: Bearer で送る（fetch_program_thumbnails.py は両対応）。TMDBのクレジットは /about/ に記載
-- アフィリエイト（2026-10-12〜）: バリューコマースのサイトID 3784026。LinkSwitch（_config.yml の affiliate.valuecommerce.linkswitch_pid）で、食べログ・じゃらん・ホットペッパー・一休へのリンクをクリック時に自動変換。提携済み: 食べログ・一休.comレストラン・じゃらん（2026-10-12 に変換を確認）。ホットペッパーは2026-10-17に提携を断られた（リンクは通常リンク・rel="noopener" で残す。予約ボタンは利用者のため残す）。楽天アフィリエイト（楽天トラベルの「泊まる」）は affiliate.rakuten.id で変換。A8は未設定
+- アフィリエイト（2026-10-12〜）: バリューコマースのサイトID 3784026。LinkSwitch（_config.yml の affiliate.valuecommerce.linkswitch_pid）で、食べログ・じゃらん・ホットペッパー・一休へのリンクをクリック時に自動変換。提携済み: 一休.comレストラン・じゃらん（2026-10-12 に変換を確認）。食べログ（飲食店ネット予約プログラム）は2026-11-01にプログラム終了（リンクは通常リンク・rel="noopener" で残し、広告・PR表記の対象から外した。食べログを目立たせる作りもやめた）。ホットペッパーは2026-10-17に提携を断られた（リンクは通常リンク・rel="noopener" で残す。予約ボタンは利用者のため残す）。楽天アフィリエイト（楽天トラベルの「泊まる」）は affiliate.rakuten.id で変換。A8は未設定
 - PR表記: 広告リンクのあるページはタイトルのすぐ下に「#アフィリエイト広告 本ページはプロモーションを含みます」（.pr-note--top。ホットペッパー・じゃらんの規約で、ページ上部に分かる大きさで出す）
 - 記事の収益動線: 特集記事の front matter に `stay_area: "鎌倉"`（＋`stay_note`）を書くと本文の後に「○○周辺に泊まる」（じゃらん・楽天トラベル）が出る。まとめ記事は `stay_inline: true` を付け、本文の「半日で巡るなら」のあとに `{% include stay-inline.html %}` を置く（コースの出発地の近くの街。stay_note はコースと路線の事実だけ）（じゃらんの Shift_JIS は build_site_data.py が _data/stay_kw.json に作る）。ガイドの商品は `{% include buy-box.html title=… note=… kw="検索語,…" %}`（楽天市場の検索）や `links="表示名|URL;…"`。使った感想・おすすめ順位・値段は書かない。広告リンクを足したガイドは front matter に `pr: true`
-- 食べログの報酬は「ネット予約できる店のページ」からの予約だけ（検索結果・エリアページ経由は対象外）。tabelog_verified の店を増やすほど効く
+- 食べログの報酬（ネット予約）は2026-11-01にバリューコマースのプログラムが終了。tabelog_verified は利用者のための確認として続ける（収益にはならない）
 
 ## データ追加の方針（2026-10-12 決定）
 - 次にデータを集める順: SixTONESの抜けている回 → WEST.・乃木坂配信中 → 亀梨・しおりの続き → ジュニアCHANNEL。Search Console では「グループ名＋聖地巡礼／ロケ地＋東京／ご飯」で探されている
