@@ -204,7 +204,7 @@
       var bs = el('span', 'wr__btns');
       // 食べログは提携先（LinkSwitch がクリック時に変換）なので広告リンク。ホットペッパーは通常リンク
       if (r[5]) { var h = el('a', 'wr__btn wr__btn--book', 'ホットペッパーで予約'); h.href = r[5]; h.target = '_blank'; h.rel = 'noopener'; h.dataset.aff = 'hotpepper'; bs.appendChild(h); }
-      if (r[4]) { var tb = el('a', 'wr__btn', '食べログで見る'); tb.href = r[4]; tb.target = '_blank'; tb.rel = 'sponsored noopener'; tb.dataset.aff = 'tabelog'; bs.appendChild(tb); }
+      if (r[4]) { var tb = el('a', 'wr__btn', '食べログで見る'); tb.href = r[4]; tb.target = '_blank'; tb.rel = 'noopener'; tb.dataset.aff = 'tabelog'; bs.appendChild(tb); }
       li.appendChild(bs);
     }
     return li;
