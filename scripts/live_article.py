@@ -221,7 +221,7 @@ def build(slug, ctx):
     fm_txt = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000)
 
     b = [f'<div class="pf" style="--pc:{color}">', '']
-    b.append(f'{{% if site.time | date: "%Y-%m-%d" > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
+    b.append(f'{{% assign _today = site.time | date: "%Y-%m-%d" %}}{{% if _today > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
              f'<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{{% endif %}}')
     b.append(f'<p><strong>{gl}</strong>『{T.esc(tour)}』の<strong>{T.esc(vname)}</strong>公演は、<strong>{dl}</strong>です'
              f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{olink}</a>・{ckl}時点）。'

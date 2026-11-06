@@ -58,7 +58,7 @@ thumbnail: /assets/img/guide/sapporo-dome.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。Snow Manのこれからの公演は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。Snow Manのこれからの公演は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>大和ハウス プレミストドーム</strong>公演は、<strong>2026年10月30日（金）・31日（土）・11月1日（日）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、大和ハウス プレミストドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 

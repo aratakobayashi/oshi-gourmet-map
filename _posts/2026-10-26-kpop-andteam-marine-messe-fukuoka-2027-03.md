@@ -2,7 +2,7 @@
 layout: post
 title: '&TEAM（エンティーム） マリンメッセ福岡A館公演 参戦ガイド（2027年3月20日〜22日）｜行き方・座席・持ち込み・泊まる・近くの聖地'
 date: '2026-10-26'
-last_modified_at: '2026-11-05'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のマリンメッセ福岡A館公演（2027年3月20日（土）・21日（日）・22日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に&TEAMのメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。'
@@ -58,7 +58,7 @@ thumbnail: /assets/img/guide/marine-messe-fukuoka.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。&TEAMのこれからの公演は<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。&TEAMのこれからの公演は<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>&TEAM</strong>『2026-2027 &amp;TEAM CONCERT TOUR 'Mark on You'』の<strong>マリンメッセ福岡A館</strong>公演は、<strong>2027年3月20日（土）・21日（日）・22日（月）</strong>です（<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、マリンメッセ福岡A館への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、&TEAMのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 

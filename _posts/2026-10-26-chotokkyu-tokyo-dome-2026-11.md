@@ -2,7 +2,7 @@
 layout: post
 title: 超特急 東京ドーム公演 参戦ガイド（2026年11月25日・26日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-05'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『超特急 BULLET TRAIN 1st DOME LIVE Signal』の東京ドーム公演（2026年11月25日（水）・26日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に超特急のメンバーが行ったお店が7軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -65,7 +65,7 @@ thumbnail: /assets/img/guide/tokyo-dome.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。超特急のこれからの公演は<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。超特急のこれからの公演は<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>超特急</strong>『超特急 BULLET TRAIN 1st DOME LIVE Signal』の<strong>東京ドーム</strong>公演は、<strong>2026年11月25日（水）・26日（木）</strong>です（<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、超特急のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 

@@ -18,12 +18,14 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# 新しいドメイン（openapi.rakuten.co.jp）を使うときは環境変数 RAKUTEN_API_BASE で上書きする
-API_BASE = os.environ.get('RAKUTEN_API_BASE', 'https://app.rakuten.co.jp/services/api')
+# 2026年以降に発行されたアプリID（UUID形式）は新しいドメイン openapi.rakuten.co.jp でだけ通る
+# （旧 app.rakuten.co.jp/services/api は「specify valid applicationId」になる）。環境変数 RAKUTEN_API_BASE で上書きできる
+API_BASE = os.environ.get('RAKUTEN_API_BASE', 'https://openapi.rakuten.co.jp/engine/api')
 ENDPOINT = API_BASE + '/Travel/SimpleHotelSearch/20170426'
 SITE = 'https://gourmet.oshikatsu-guide.com'
 RADIUS_KM = 3.0
@@ -53,10 +55,10 @@ def redact(s):
     return s
 
 
-def search(lat, lng, app_id, access_key, aff):
+def search(lat, lng, app_id, access_key, aff, radius=RADIUS_KM, page=1):
     q = {'applicationId': app_id, 'format': 'json', 'formatVersion': '2', 'datumType': '1',
-         'latitude': f'{lat:.6f}', 'longitude': f'{lng:.6f}', 'searchRadius': str(int(RADIUS_KM)),
-         'hits': '30', 'responseType': 'small'}
+         'latitude': f'{lat:.6f}', 'longitude': f'{lng:.6f}', 'searchRadius': f'{radius:g}',
+         'hits': '30', 'page': str(page), 'responseType': 'small'}
     if access_key:
         q['accessKey'] = access_key
     if aff:
@@ -75,6 +77,11 @@ def search(lat, lng, app_id, access_key, aff):
         raise SystemExit(redact(f'楽天トラベルAPIのエラー {e.code}: {body}'))
 
 
+def nfkc(s):
+    """APIの宿名は全角英数字（ＫＯＫＯ　ＨＯＴＥＬ）が多く、スマホで1文字ずつ折り返すので半角にそろえる"""
+    return re.sub(r'\s+', ' ', unicodedata.normalize('NFKC', s)).strip()
+
+
 def basic_infos(data):
     """formatVersion 1/2 のどちらの形でも hotelBasicInfo を取り出す"""
     out = []
@@ -84,6 +91,29 @@ def basic_infos(data):
             if isinstance(x, dict) and 'hotelBasicInfo' in x:
                 out.append(x['hotelBasicInfo'])
     return out
+
+
+RADII = (1.0, 2.0, RADIUS_KM)   # APIは距離順に並ばないので、狭い半径から全ページ読んで近い順に並べる
+MAX_PAGES = 10
+
+
+def nearby_infos(lat, lng, app_id, access_key, aff):
+    """半径1km→2km→3km の順に、MAX_HOTELS 軒以上見つかるまで全ページを読む"""
+    infos = []
+    for r in RADII:
+        infos, page = [], 1
+        while True:
+            data = search(lat, lng, app_id, access_key, aff, r, page)
+            infos += basic_infos(data)
+            pc = (data.get('pagingInfo') or {}).get('pageCount') or 1
+            if page >= min(pc, MAX_PAGES):
+                break
+            page += 1
+            time.sleep(WAIT)
+        if len(infos) >= MAX_HOTELS:
+            break
+        time.sleep(WAIT)
+    return infos
 
 
 def main():
@@ -102,7 +132,7 @@ def main():
         v = venues[k]
         if i:
             time.sleep(WAIT)
-        infos = basic_infos(search(v['lat'], v['lng'], app_id, access_key, aff))
+        infos = nearby_infos(v['lat'], v['lng'], app_id, access_key, aff)
         rows = []
         for h in infos:
             try:
@@ -112,8 +142,10 @@ def main():
             url = h.get('hotelInformationUrl') or ''
             if not url or d > RADIUS_KM:
                 continue
-            rows.append({'n': h.get('hotelName', ''), 'u': url, 'm': int(round(d * 1000, -1)),
-                         'st': (h.get('nearestStation') or '').strip(),
+            if any(x['u'] == url for x in rows):
+                continue
+            rows.append({'n': nfkc(h.get('hotelName', '')), 'u': url, 'm': int(round(d * 1000, -1)),
+                         'st': nfkc(h.get('nearestStation') or ''),
                          'img': (h.get('hotelThumbnailUrl') or '').replace('http://', 'https://')})
         rows.sort(key=lambda x: x['m'])
         rows = rows[:MAX_HOTELS]

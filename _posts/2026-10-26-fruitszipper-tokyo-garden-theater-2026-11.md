@@ -2,7 +2,7 @@
 layout: post
 title: FRUITS ZIPPER（ふるっぱー） 東京ガーデンシアター公演 参戦ガイド（2026年11月14日・15日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-05'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code』の東京ガーデンシアター公演（2026年11月14日（土）・15日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にFRUITS ZIPPERのメンバーが行ったお店が2軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -56,7 +56,7 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。FRUITS ZIPPERのこれからの公演は<a href="https://fruitszipper.asobisystem.com/feature/2026tour_autumn" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。FRUITS ZIPPERのこれからの公演は<a href="https://fruitszipper.asobisystem.com/feature/2026tour_autumn" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>FRUITS ZIPPER</strong>『FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN - Secret Code』の<strong>東京ガーデンシアター</strong>公演は、<strong>2026年11月14日（土）・15日（日）</strong>です（<a href="https://fruitszipper.asobisystem.com/feature/2026tour_autumn" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ガーデンシアターへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、FRUITS ZIPPERのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 

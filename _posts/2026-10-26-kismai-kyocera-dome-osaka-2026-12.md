@@ -2,7 +2,7 @@
 layout: post
 title: Kis-My-Ft2（キスマイ） 京セラドーム大阪公演 参戦ガイド（2026年12月25日・26日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-05'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・』の京セラドーム大阪公演（2026年12月25日（金）・26日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -57,7 +57,7 @@ thumbnail: /assets/img/guide/kyocera-dome-osaka.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。Kis-My-Ft2のこれからの公演は<a href="https://starto.jp/s/p/live/10594" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。Kis-My-Ft2のこれからの公演は<a href="https://starto.jp/s/p/live/10594" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>Kis-My-Ft2</strong>『Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・』の<strong>京セラドーム大阪</strong>公演は、<strong>2026年12月25日（金）・26日（土）</strong>です（<a href="https://starto.jp/s/p/live/10594" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Kis-My-Ft2のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
