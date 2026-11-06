@@ -1,7 +1,8 @@
 {%- comment -%}
   会場の近くの宿（楽天トラベルの公式APIで調べた _data/venue_hotels.json。scripts/fetch_venue_hotels.py）。
   引数: key（_data/venues.json の会場キー）。データがない会場は何も出さない
-  料金・空室・口コミは載せない（変わりやすいのでリンク先で確かめてもらう）。楽天ウェブサービスのクレジットを出す
+  料金・空室・口コミは載せない（変わりやすいのでリンク先で確かめてもらう）。楽天ウェブサービスのクレジットは公式のHTMLを改変せずに使う（規約）。
+  この箱の中には楽天以外へのリンクを置かない（規約 第8条）。じゃらんのボタンと同じ箱に入れない
 {%- endcomment -%}
 {%- assign _vh = site.data.venue_hotels[include.key] -%}
 {%- if _vh and _vh.hotels.size > 0 %}
@@ -15,6 +16,6 @@
       <span class="vhotels__go">楽天トラベルで見る</span></a></li>
   {%- endfor %}
   </ul>
-  <p class="vhotels__note">料金・空室は楽天トラベルで確かめてください。宿の情報は{{ _vh.at | date: "%Y年%-m月" }}時点。<a href="https://webservice.rakuten.co.jp/" target="_blank" rel="noopener">Supported by Rakuten Developers</a></p>
+  <p class="vhotels__note">料金・空室は楽天トラベルで確かめてください。宿の情報は{{ _vh.at | date: "%Y年%-m月" }}時点。<a href="https://developers.rakuten.com/" target="_blank">Supported by Rakuten Developers</a></p>
 </div>
 {%- endif %}

@@ -13,6 +13,6 @@
     {% include affiliate-link.html url=_j label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
     {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
-  {%- unless include.compact %}{% include venue-hotels.html key=page.slug %}{% endunless %}
 </div>
+{%- unless include.compact %}{% include venue-hotels.html key=page.slug %}{% endunless %}
 {%- endif %}

@@ -6,7 +6,8 @@ _data/venue_hotels.json に書く。会場ガイド・公演参戦ガイドの�
 - 会場の座標は _data/venues.json。会場から半径 RADIUS_KM 以内の宿を、会場からの直線距離が近い順に MAX_HOTELS 軒
 - 載せるのは 宿の名前・会場からの距離・最寄り駅（APIの値）・画像・楽天トラベルの宿のページ（アフィリエイトID付き）だけ。
   料金・空室・口コミ点数は変わりやすいので載せない（リンク先で確かめてもらう）
-- 楽天ウェブサービスの規約どおり、表示する場所にクレジット（Supported by Rakuten Developers）を出す（venue-hotels.html）
+- 楽天ウェブサービスの規約どおり、表示する場所にクレジット（公式のHTMLのまま）を出す（venue-hotels.html）
+- 宿名・駅名はAPIの値を改変しない（規約 第10条の「改変」。全角の宿名の見た目は CSS の font-feature-settings: "hwid" で整える）
 - キーは環境変数から読む（リポジトリに書かない）: RAKUTEN_APP_ID（アプリID）、RAKUTEN_ACCESS_KEY（アクセスキー。発行されていれば）
   アフィリエイトIDは _config.yml の affiliate.rakuten.id
 - 1.5秒あけて1会場ずつ。何度実行しても同じ形（宿が見つからない会場は前回の値を残す）
@@ -18,7 +19,6 @@ import os
 import re
 import sys
 import time
-import unicodedata
 import urllib.parse
 import urllib.request
 
@@ -75,11 +75,6 @@ def search(lat, lng, app_id, access_key, aff, radius=RADIUS_KM, page=1):
         if e.code == 404 and 'not_found' in body:
             return {'hotels': []}
         raise SystemExit(redact(f'楽天トラベルAPIのエラー {e.code}: {body}'))
-
-
-def nfkc(s):
-    """APIの宿名は全角英数字（ＫＯＫＯ　ＨＯＴＥＬ）が多く、スマホで1文字ずつ折り返すので半角にそろえる"""
-    return re.sub(r'\s+', ' ', unicodedata.normalize('NFKC', s)).strip()
 
 
 def basic_infos(data):
@@ -144,8 +139,8 @@ def main():
                 continue
             if any(x['u'] == url for x in rows):
                 continue
-            rows.append({'n': nfkc(h.get('hotelName', '')), 'u': url, 'm': int(round(d * 1000, -1)),
-                         'st': nfkc(h.get('nearestStation') or ''),
+            rows.append({'n': (h.get('hotelName') or '').strip(), 'u': url, 'm': int(round(d * 1000, -1)),
+                         'st': (h.get('nearestStation') or '').strip(),
                          'img': (h.get('hotelThumbnailUrl') or '').replace('http://', 'https://')})
         rows.sort(key=lambda x: x['m'])
         rows = rows[:MAX_HOTELS]
