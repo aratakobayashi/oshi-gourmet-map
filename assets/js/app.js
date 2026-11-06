@@ -87,7 +87,11 @@
       aff_service: svc,
       link_text: (a.textContent || '').trim().slice(0, 40),
       link_domain: a.hostname,
-      page_type: location.pathname.split('/')[1] || 'top'
+      page_type: location.pathname.split('/')[1] || 'top',
+      // ページのどの箱で押されたか（宿の一覧・上部の泊まる・本文の泊まる・お店の行・店舗ページの「この店に行くなら」）
+      link_place: a.closest('.vhotels') ? 'hotel_list' : a.closest('.stay-in--top') ? 'stay_top'
+        : a.closest('.stay-in, .post-stay') ? 'stay' : a.closest('.wr, .row') ? 'shop_row'
+        : a.closest('.shop') ? 'shop_page' : 'other'
     });
   });
 
