@@ -25,6 +25,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 新しいドメイン（openapi.rakuten.co.jp）を使うときは環境変数 RAKUTEN_API_BASE で上書きする
 API_BASE = os.environ.get('RAKUTEN_API_BASE', 'https://app.rakuten.co.jp/services/api')
 ENDPOINT = API_BASE + '/Travel/SimpleHotelSearch/20170426'
+SITE = 'https://gourmet.oshikatsu-guide.com'
 RADIUS_KM = 3.0
 MAX_HOTELS = 6
 WAIT = 1.5
@@ -61,7 +62,9 @@ def search(lat, lng, app_id, access_key, aff):
     if aff:
         q['affiliateId'] = aff
     req = urllib.request.Request(ENDPOINT + '?' + urllib.parse.urlencode(q),
-                                 headers={'User-Agent': 'oshi-gourmet-map (https://gourmet.oshikatsu-guide.com)'})
+                                 headers={'User-Agent': 'oshi-gourmet-map (https://gourmet.oshikatsu-guide.com)',
+                                          # 楽天ウェブサービスは「許可されたWebサイト」に登録したドメインからの要求だけ受け付ける
+                                          'Referer': SITE + '/', 'Origin': SITE})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             return json.load(r)
