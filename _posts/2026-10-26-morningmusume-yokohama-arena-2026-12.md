@@ -2,7 +2,7 @@
 layout: post
 title: モーニング娘。'26 横浜アリーナ公演 参戦ガイド（2026年12月11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の横浜アリーナ公演（2026年12月11日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -50,7 +50,7 @@ thumbnail: /assets/img/guide/yokohama-arena.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。モーニング娘。'26のこれからの公演は<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。モーニング娘。'26のこれからの公演は<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>モーニング娘。'26</strong>『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の<strong>横浜アリーナ</strong>公演は、<strong>2026年12月11日（金）</strong>です（<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、横浜アリーナへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、モーニング娘。'26のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
@@ -132,6 +132,8 @@ thumbnail: /assets/img/guide/yokohama-arena.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%A8%AA%E6%B5%9C%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="yokohama-arena" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

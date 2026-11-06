@@ -281,6 +281,8 @@ export YOUTUBE_API_KEY="..."   # YouTube Data API v3
 export GEMINI_API_KEY="..."    # Gemini API（未取得）
 export TMDB_API_KEY="..."      # TMDB API（ドラマ・映画サムネイル取得）登録: https://www.themoviedb.org/settings/api
 export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 登録: https://webservice.recruit.co.jp/
+export RAKUTEN_APP_ID="..."    # 楽天ウェブサービスのアプリID（楽天トラベルの宿検索。scripts/fetch_venue_hotels.py）登録: https://webservice.rakuten.co.jp/
+export RAKUTEN_ACCESS_KEY="..." # 楽天ウェブサービスのアクセスキー（発行されていれば）
 ```
 
 ---
@@ -343,6 +345,7 @@ export HOTPEPPER_API_KEY="..." # ホットペッパーグルメ Webサービス 
 - メンバー別記事（article_type: member）: 行った店（studio_only を除く）が30軒前後以上のメンバー30人（Snow Man 9人・SixTONES 6人・King & Prince 2人・WEST. 4人・Hey! Say! JUMP 3人・よにの3人（山田涼介・菊池風磨・二宮和也は複数グループ）・=LOVE 大谷映美里・HiHi Jets 2人）。店が増えたら member_article.py で作り直せる
 
 ## 公演ごとの参戦ガイド（2026-10-26〜。article_type: live）
+- 会場から近い宿（2026-11〜）: `python scripts/fetch_venue_hotels.py` が楽天トラベルの公式API（SimpleHotelSearch）で会場から3km以内の宿を近い順に6軒、_data/venue_hotels.json に書く。`_includes/venue-hotels.html` が会場ガイドの「泊まる」の章と公演参戦ガイドの「泊まる」に出す（名前・距離・最寄り駅・画像・楽天トラベルへのリンク。料金・空室・口コミは載せない。クレジット Supported by Rakuten Developers）。APIは距離順に並ばないので半径1→2→3kmで全ページ読んで近い順にする。UUID形式のアプリIDは新ドメイン openapi.rakuten.co.jp/engine/api でだけ通る（既定）。2026-11-06 に28会場分を取得（宿が少ない: エコパアリーナ1軒・キューアンドエースタジアムみやぎ3軒）。宿は時々入れ替わるので数か月ごとに取り直す
 - 「イコラブ バンテリンドーム」のような「グループ名＋会場名」の検索向けに、グループ×会場（同じ会場の連続日）＝1記事。題名「<グループ>（<呼び名>） <会場>公演 参戦ガイド（<日付>）｜行き方・座席・持ち込み・泊まる・近くの聖地」
 - 作り方: 公演の公式データ（ツアー単位。scripts/tour_data と同じ形の配列）→ `python scripts/live_data_split.py <json>`（会場名を _data/venues.json に当てはめて scripts/live_data/<slug>.json に分ける。会場ガイド（scripts/venue_data）がない会場は一覧に出すだけ）→ `python scripts/live_article.py --all`（何度実行しても同じ。公開日は最初のまま）
 - 中身: 日程（時刻は公式にあるときだけ）・行き方/座席/持ち込み/当日の準備（会場データと会場ガイドの図）・上部と「泊まる」の章に宿のボタン・近くのグループの店（3km→10km→同じ都道府県）とほかの推しの店。セトリ・値段・チケットの申し込み・体験談は書かない。調べたときのメモ（note）は記事に出さない（public_note だけ出す）

@@ -2,7 +2,7 @@
 layout: post
 title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演 参戦ガイド（2027年4月24日・25日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -52,7 +52,7 @@ thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。ももいろクローバーZのこれからの公演は<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。ももいろクローバーZのこれからの公演は<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>ももいろクローバーZ</strong>『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』の<strong>ワールド記念ホール</strong>公演は、<strong>2027年4月24日（土）・25日（日）</strong>です（<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ワールド記念ホールへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ももいろクローバーZのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
@@ -132,6 +132,8 @@ thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E8%A8%98%E5%BF%B5%E3%83%9B%E3%83%BC%E3%83%AB" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="kobe-world-kinen-hall" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

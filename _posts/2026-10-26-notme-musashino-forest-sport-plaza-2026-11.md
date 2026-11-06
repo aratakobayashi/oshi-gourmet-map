@@ -2,7 +2,7 @@
 layout: post
 title: ≠ME（ノイミー） 京王アリーナTOKYO公演 参戦ガイド（2026年11月7日・8日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『≠ME 特別公演 2026』の京王アリーナTOKYO公演（2026年11月7日（土）・8日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、東京都にある≠MEの聖地6軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -60,7 +60,7 @@ thumbnail: /assets/img/guide/musashino-forest-sport-plaza.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。≠MEのこれからの公演は<a href="https://not-equal-me.jp/schedule/detail/7852" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。≠MEのこれからの公演は<a href="https://not-equal-me.jp/schedule/detail/7852" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>≠ME</strong>『≠ME 特別公演 2026』の<strong>京王アリーナTOKYO</strong>公演は、<strong>2026年11月7日（土）・8日（日）</strong>です（<a href="https://not-equal-me.jp/schedule/detail/7852" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、京王アリーナTOKYOへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、≠MEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
@@ -158,6 +158,8 @@ thumbnail: /assets/img/guide/musashino-forest-sport-plaza.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E4%BA%AC%E7%8E%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8ATOKYO" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="musashino-forest-sport-plaza" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

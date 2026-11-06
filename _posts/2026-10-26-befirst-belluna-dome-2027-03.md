@@ -2,7 +2,7 @@
 layout: post
 title: BE:FIRST ベルーナドーム公演 参戦ガイド（2027年3月6日・7日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』のベルーナドーム公演（2027年3月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -56,7 +56,7 @@ thumbnail: /assets/img/guide/belluna-dome.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。BE:FIRSTのこれからの公演は<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。BE:FIRSTのこれからの公演は<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>BE:FIRST</strong>『BE:FIRST 5th Anniversary DOME TOUR 2027』の<strong>ベルーナドーム</strong>公演は、<strong>2027年3月6日（土）・7日（日）</strong>です（<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ベルーナドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、BE:FIRSTのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
@@ -129,6 +129,8 @@ thumbnail: /assets/img/guide/belluna-dome.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%99%E3%83%AB%E3%83%BC%E3%83%8A%E3%83%89%E3%83%BC%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="belluna-dome" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

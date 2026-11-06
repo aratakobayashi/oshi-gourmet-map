@@ -2,7 +2,7 @@
 layout: post
 title: SixTONES（ストーンズ） 日産スタジアム公演 参戦ガイド（2026年11月21日・22日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-10-26'
+last_modified_at: '2026-11-06'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: SixTONES『MILESixTONES（スタジアムツアー）』の日産スタジアム公演（2026年11月21日（土）・22日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSixTONESのメンバーが行ったお店が5軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -59,7 +59,7 @@ thumbnail: /assets/img/guide/nissan-stadium.webp
 
 
 
-{% if site.time | date: "%Y-%m-%d" > page.live_end %}<p class="notice">この公演は終わりました。SixTONESのこれからの公演は<a href="https://www.sixtones.jp/live" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
+{% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。SixTONESのこれからの公演は<a href="https://www.sixtones.jp/live" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
 <p><strong>SixTONES</strong>『MILESixTONES（スタジアムツアー）』の<strong>日産スタジアム</strong>公演は、<strong>2026年11月21日（土）・22日（日）</strong>です（<a href="https://www.sixtones.jp/live" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、日産スタジアムへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、SixTONESのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
@@ -156,6 +156,8 @@ thumbnail: /assets/img/guide/nissan-stadium.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%97%A5%E7%94%A3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="nissan-stadium" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

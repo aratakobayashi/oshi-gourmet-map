@@ -221,7 +221,7 @@ def build(slug, ctx):
     fm_txt = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000)
 
     b = [f'<div class="pf" style="--pc:{color}">', '']
-    b.append(f'{{% if site.time | date: "%Y-%m-%d" > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
+    b.append(f'{{% assign _today = site.time | date: "%Y-%m-%d" %}}{{% if _today > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
              f'<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{{% endif %}}')
     b.append(f'<p><strong>{gl}</strong>『{T.esc(tour)}』の<strong>{T.esc(vname)}</strong>公演は、<strong>{dl}</strong>です'
              f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{olink}</a>・{ckl}時点）。'
@@ -300,6 +300,7 @@ def build(slug, ctx):
     b.append(f'<p>終演後は最寄り駅が混み合います。{"夜の公演のあと" if any("17" in t or "18" in t for t in times.values()) else "公演のあと"}に遠くまで移動しなくていいように、'
              f'会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>')
     b.append(stay_box(vname, hk, hj))
+    b.append(f'{{% include venue-hotels.html key="{key}" %}}')
     b.append('<ul>\n  <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>\n'
              '  <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>\n'
              '  <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国の会場の近くの聖地と宿</li>\n</ul>')
