@@ -95,6 +95,20 @@
     });
   });
 
+  // ---------- 公演の参戦ガイド: 公演までの日数（<p class="live-cd" data-d="初日" data-e="最終日">。JSなしでは日程のまま） ----------
+  var cd = document.querySelector('.live-cd[data-d]');
+  if (cd) {
+    var now = new Date();
+    var ymd = now.getFullYear() + '-' + ('0' + (now.getMonth() + 1)).slice(-2) + '-' + ('0' + now.getDate()).slice(-2);
+    var d0 = cd.getAttribute('data-d'), d1 = cd.getAttribute('data-e') || d0;
+    if (ymd < d0) {
+      var days = Math.round((new Date(d0 + 'T00:00:00') - new Date(ymd + 'T00:00:00')) / 864e5);
+      cd.innerHTML = '<b>公演まで</b>あと<strong>' + days + '</strong>日（' + (+d0.slice(5, 7)) + '月' + (+d0.slice(8, 10)) + '日）';
+    } else if (ymd <= d1) {
+      cd.innerHTML = '<b>公演期間中</b>' + cd.textContent.replace('公演日', '') + '';
+    }
+  }
+
   // ---------- YouTube（タップしたときに埋め込みを読み込む） ----------
   document.addEventListener('click', function (e) {
     var b = e.target.closest('button.yt[data-yt]');

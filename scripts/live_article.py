@@ -142,6 +142,7 @@ def build(slug, ctx):
     olink = '発表を伝える記事' if news else '公式の公演情報'
     hk, hj = vnear[key]['hk'], vnear[key]['hj']
     has_guide = os.path.exists(os.path.join(ROOT, '_guides', f'{key}.html'))
+    has_hotels = bool((J('_data/venue_hotels.json').get(key) or {}).get('hotels')) if os.path.exists(os.path.join(ROOT, '_data/venue_hotels.json')) else False
     vpref = spec.get('pref') or ''
 
     # 近くの聖地
@@ -205,7 +206,7 @@ def build(slug, ctx):
         faq.append({'q': f'{vname}の近くに{gl}の聖地はありますか？',
                     'a': f'{ckl[:-3]}時点で会場から{FAR_KM:.0f}km以内にはありませんが、{vpref}には' + '、'.join(s['name'] for _, s in pref_rows[:3]) + 'などがあります。'})
     faq.append({'q': '会場の近くに泊まる宿はどう探せばいいですか？',
-                'a': f'この記事の「{vname}周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。'})
+                'a': (f'この記事の「会場から近い宿」に、{vname}から近い順に宿を載せています（楽天トラベル）。「{vname}周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。' if has_hotels else f'この記事の「{vname}周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。') + f'終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。'})
 
     fm = {
         'layout': 'post', 'title': title, 'date': spec.get('date') or old_date(slug) or TODAY, 'last_modified_at': TODAY,
@@ -215,7 +216,9 @@ def build(slug, ctx):
         'sources': spec['sources'] + guide_sources(key)[:3],
         'shop_ids': ids, 'faq': faq, 'pr': True, 'summary': summary,
     }
-    if has_guide:
+    if os.path.exists(os.path.join(ROOT, 'assets/img/posts', slug, 'thumb.webp')):
+        fm['thumbnail'] = f'/assets/img/posts/{slug}/thumb.webp'   # グループ名・会場・日程入り（scripts/live_thumbs.py）
+    elif has_guide:
         fm['thumbnail'] = f'/assets/img/guide/{key}.webp'
     import yaml
     fm_txt = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000)
@@ -227,7 +230,13 @@ def build(slug, ctx):
              f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{olink}</a>・{ckl}時点）。'
              f'この記事では、{T.esc(vname)}への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、'
              f'{gl}のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>')
+    # 公演までの日数（app.js が data-d から書き換える。JSが動かなくても日程が読める）と、章へのボタン
+    b.append(f'<p class="live-cd" data-d="{dates[0]}" data-e="{dates[-1]}"><b>公演日</b>{dl}</p>')
+    jumps = [('date', '日程'), ('access', '行き方')] + ([('seats', '座席')] if tiers else []) \
+        + ([('rules', '持ち込み')] if (rules or prep) else []) + [('stay', '泊まる'), ('seichi', '近くの聖地')]
+    b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
     b.append(stay_box(vname, hk, hj, top=True))
+    b.append(f'{{% include venue-hotels.html key="{key}" limit=3 top=true %}}')
 
     b.append('<h2 id="date">公演の日程</h2>')
     b.append('<ul class="live-dates">\n' + ''.join(

@@ -2,7 +2,7 @@
 layout: post
 title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演 参戦ガイド（2027年4月24日・25日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -40,13 +40,13 @@ faq:
 - q: ワールド記念ホールの最寄り駅はどこですか？
   a: ポートライナー 市民広場駅です（西出口から徒歩約3分）。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「ワールド記念ホール周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、ワールド記念ホールから近い順に宿を載せています（楽天トラベル）。「ワールド記念ホール周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演は2027年4月24日（土）・25日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はポートライナー 市民広場駅（西出口から徒歩約3分）
 - 会場の近くのほかの推しの聖地
-thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
+thumbnail: /assets/img/posts/momoclo-kobe-world-kinen-hall-2027-04/thumb.webp
 ---
 <div class="pf" style="--pc:#ec4899">
 
@@ -56,6 +56,10 @@ thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
 
 <p><strong>ももいろクローバーZ</strong>『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』の<strong>ワールド記念ホール</strong>公演は、<strong>2027年4月24日（土）・25日（日）</strong>です（<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ワールド記念ホールへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ももいろクローバーZのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2027-04-24" data-e="2027-04-25"><b>公演日</b>2027年4月24日（土）・25日（日）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> ワールド記念ホール周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -63,6 +67,8 @@ thumbnail: /assets/img/guide/kobe-world-kinen-hall.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E8%A8%98%E5%BF%B5%E3%83%9B%E3%83%BC%E3%83%AB" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="kobe-world-kinen-hall" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

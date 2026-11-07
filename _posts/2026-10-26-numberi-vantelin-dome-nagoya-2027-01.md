@@ -2,7 +2,7 @@
 layout: post
 title: Number_i バンテリンドーム ナゴヤ公演 参戦ガイド（2027年1月9日〜11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Number_i LIVE TOUR No.Ⅲ』のバンテリンドーム ナゴヤ公演（2027年1月9日（土）・10日（日）・11日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にNumber_iのメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -47,14 +47,14 @@ faq:
 - q: バンテリンドーム ナゴヤの近くにNumber_iの聖地はありますか？
   a: 会場から10km以内に1軒あります。大久手 山本屋（約2.7km）などです。距離は直線距離です。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「バンテリンドーム ナゴヤ周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、バンテリンドーム ナゴヤから近い順に宿を載せています（楽天トラベル）。「バンテリンドーム ナゴヤ周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 『Number_i LIVE TOUR No.Ⅲ』のバンテリンドーム ナゴヤ公演は2027年1月9日（土）・10日（日）・11日（月）（2026年10月26日時点の公式発表）
 - 最寄り駅はナゴヤドーム前矢田駅（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分
 - '会場のルールで持ち込めないもの: ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）（公演ごとの案内も確かめる）'
 - 会場から10km以内にNumber_iのメンバーが行ったお店が1軒。会場からの近さ順に載せています
-thumbnail: /assets/img/guide/vantelin-dome-nagoya.webp
+thumbnail: /assets/img/posts/numberi-vantelin-dome-nagoya-2027-01/thumb.webp
 ---
 <div class="pf" style="--pc:#111827">
 
@@ -64,6 +64,10 @@ thumbnail: /assets/img/guide/vantelin-dome-nagoya.webp
 
 <p><strong>Number_i</strong>『Number_i LIVE TOUR No.Ⅲ』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2027年1月9日（土）・10日（日）・11日（月）</strong>です（<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Number_iのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2027-01-09" data-e="2027-01-11"><b>公演日</b>2027年1月9日（土）・10日（日）・11日（月）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -71,6 +75,8 @@ thumbnail: /assets/img/guide/vantelin-dome-nagoya.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

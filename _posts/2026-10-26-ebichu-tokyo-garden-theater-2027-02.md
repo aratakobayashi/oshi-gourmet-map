@@ -2,7 +2,7 @@
 layout: post
 title: 私立恵比寿中学（エビ中） 東京ガーデンシアター公演 参戦ガイド（2027年2月6日・7日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -46,13 +46,13 @@ faq:
 - q: 東京ガーデンシアターの近くに私立恵比寿中学の聖地はありますか？
   a: 会場から10km以内に2軒あります。韓国料理 允矢家（約8.9km）、焼肉 黒田 渋谷円山町店（約9.0km）などです。距離は直線距離です。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「東京ガーデンシアター周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、東京ガーデンシアターから近い順に宿を載せています（楽天トラベル）。「東京ガーデンシアター周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演は2027年2月6日（土）・7日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はゆりかもめ 有明駅（2B出口・徒歩4分）。ゆりかもめ 有明テニスの森駅からは2A出口・徒歩5分
 - 会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒。会場からの近さ順に載せています
-thumbnail: /assets/img/guide/tokyo-garden-theater.webp
+thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#ea580c">
 
@@ -62,6 +62,10 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
 
 <p><strong>私立恵比寿中学</strong>『大学芸会2027 This is GR8』の<strong>東京ガーデンシアター</strong>公演は、<strong>2027年2月6日（土）・7日（日）</strong>です（<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ガーデンシアターへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、私立恵比寿中学のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2027-02-06" data-e="2027-02-07"><b>公演日</b>2027年2月6日（土）・7日（日）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ガーデンシアター周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -69,6 +73,8 @@ thumbnail: /assets/img/guide/tokyo-garden-theater.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="tokyo-garden-theater" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

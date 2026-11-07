@@ -2,7 +2,7 @@
 layout: post
 title: 日向坂46 国立代々木競技場第一体育館公演 参戦ガイド（2026年12月9日〜11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『日向坂46 ARENA TOUR「ひなくり2026」』の国立代々木競技場第一体育館公演（2026年12月9日（水）・10日（木）・11日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に日向坂46のメンバーが行ったお店が6軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -48,13 +48,13 @@ faq:
 - q: 国立代々木競技場第一体育館の近くに日向坂46の聖地はありますか？
   a: 会場から10km以内に6軒あります。ストロベリーマニア原宿店（約0.6km）、鉄板焼き 玄 KURO（約2.6km）、プラスヴィーガニック自由が丘（約6.5km）などです。距離は直線距離です。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「国立代々木競技場第一体育館周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、国立代々木競技場第一体育館から近い順に宿を載せています（楽天トラベル）。「国立代々木競技場第一体育館周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 『日向坂46 ARENA TOUR「ひなくり2026」』の国立代々木競技場第一体育館公演は2026年12月9日（水）・10日（木）・11日（金）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 原宿駅（徒歩5分）。東京メトロ 明治神宮前駅からは徒歩5分
 - 会場から10km以内に日向坂46のメンバーが行ったお店が6軒。会場からの近さ順に載せています
-thumbnail: /assets/img/guide/yoyogi-national-gymnasium.webp
+thumbnail: /assets/img/posts/hinatazaka46-yoyogi-national-gymnasium-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#f59e0b">
 
@@ -64,6 +64,10 @@ thumbnail: /assets/img/guide/yoyogi-national-gymnasium.webp
 
 <p><strong>日向坂46</strong>『日向坂46 ARENA TOUR「ひなくり2026」』の<strong>国立代々木競技場第一体育館</strong>公演は、<strong>2026年12月9日（水）・10日（木）・11日（金）</strong>です（<a href="https://www.hinatazaka46.com/s/official/news/detail/E00916" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、国立代々木競技場第一体育館への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、日向坂46のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2026-12-09" data-e="2026-12-11"><b>公演日</b>2026年12月9日（水）・10日（木）・11日（金）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 国立代々木競技場第一体育館周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -71,6 +75,8 @@ thumbnail: /assets/img/guide/yoyogi-national-gymnasium.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E5%9B%BD%E7%AB%8B%E4%BB%A3%E3%80%85%E6%9C%A8%E7%AB%B6%E6%8A%80%E5%A0%B4%E7%AC%AC%E4%B8%80%E4%BD%93%E8%82%B2%E9%A4%A8" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="yoyogi-national-gymnasium" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

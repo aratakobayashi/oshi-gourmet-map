@@ -2,7 +2,7 @@
 layout: post
 title: '&TEAM（エンティーム） ぴあアリーナMM公演 参戦ガイド（2027年2月13日・14日）｜行き方・座席・持ち込み・泊まる・近くの聖地'
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のぴあアリーナMM公演（2027年2月13日（土）・14日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、神奈川県にある&TEAMの聖地2軒をまとめました。日程は2026年10月26日時点の公式発表です。'
@@ -46,13 +46,13 @@ faq:
 - q: ぴあアリーナMMの近くに&TEAMの聖地はありますか？
   a: 2026年10月時点で会場から10km以内にはありませんが、神奈川県には井上総本舗、江の島 貝作などがあります。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「ぴあアリーナMM周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、ぴあアリーナMMから近い順に宿を載せています（楽天トラベル）。「ぴあアリーナMM周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のぴあアリーナMM公演は2027年2月13日（土）・14日（日）（2026年10月26日時点の公式発表）'
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 神奈川県にある&TEAMの聖地2軒
-thumbnail: /assets/img/guide/pia-arena-mm.webp
+thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#334155">
 
@@ -62,6 +62,10 @@ thumbnail: /assets/img/guide/pia-arena-mm.webp
 
 <p><strong>&TEAM</strong>『2026-2027 &amp;TEAM CONCERT TOUR 'Mark on You'』の<strong>ぴあアリーナMM</strong>公演は、<strong>2027年2月13日（土）・14日（日）</strong>です（<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、&TEAMのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2027-02-13" data-e="2027-02-14"><b>公演日</b>2027年2月13日（土）・14日（日）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> ぴあアリーナMM周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -69,6 +73,8 @@ thumbnail: /assets/img/guide/pia-arena-mm.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%81%B4%E3%81%82%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8AMM" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="pia-arena-mm" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

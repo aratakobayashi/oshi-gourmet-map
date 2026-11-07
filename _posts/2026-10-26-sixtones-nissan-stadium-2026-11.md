@@ -2,7 +2,7 @@
 layout: post
 title: SixTONES（ストーンズ） 日産スタジアム公演 参戦ガイド（2026年11月21日・22日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: SixTONES『MILESixTONES（スタジアムツアー）』の日産スタジアム公演（2026年11月21日（土）・22日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSixTONESのメンバーが行ったお店が5軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -47,13 +47,13 @@ faq:
 - q: 日産スタジアムの近くにSixTONESの聖地はありますか？
   a: 会場から10km以内に5軒あります。アニヴェルセルカフェ みなとみらい横浜（約6.9km）、Cafe & Rotisserie LA COCORICO 横浜赤レンガ倉庫店（約7.1km）、香港飲茶専門店 西遊記（約8.2km）などです。距離は直線距離です。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「日産スタジアム周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、日産スタジアムから近い順に宿を載せています（楽天トラベル）。「日産スタジアム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - SixTONES『MILESixTONES（スタジアムツアー）』の日産スタジアム公演は2026年11月21日（土）・22日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 新横浜駅（正面口 徒歩14分）。市営地下鉄ほか 新横浜駅からは10番出口 徒歩12分
 - 会場から10km以内にSixTONESのメンバーが行ったお店が5軒。会場からの近さ順に載せています
-thumbnail: /assets/img/guide/nissan-stadium.webp
+thumbnail: /assets/img/posts/sixtones-nissan-stadium-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#7c3aed">
 
@@ -63,6 +63,10 @@ thumbnail: /assets/img/guide/nissan-stadium.webp
 
 <p><strong>SixTONES</strong>『MILESixTONES（スタジアムツアー）』の<strong>日産スタジアム</strong>公演は、<strong>2026年11月21日（土）・22日（日）</strong>です（<a href="https://www.sixtones.jp/live" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、日産スタジアムへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、SixTONESのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2026-11-21" data-e="2026-11-22"><b>公演日</b>2026年11月21日（土）・22日（日）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 日産スタジアム周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -70,6 +74,8 @@ thumbnail: /assets/img/guide/nissan-stadium.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%97%A5%E7%94%A3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="nissan-stadium" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 
