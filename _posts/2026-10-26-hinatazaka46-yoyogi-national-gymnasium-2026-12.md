@@ -76,7 +76,7 @@ thumbnail: /assets/img/posts/hinatazaka46-yoyogi-national-gymnasium-2026-12/thum
   </div>
 </div>
 
-{% include venue-hotels.html key="yoyogi-national-gymnasium" limit=3 top=true %}
+{% include venue-hotels.html key="yoyogi-national-gymnasium" limit=3 top=true %}{% include hotels-link.html key="yoyogi-national-gymnasium" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -168,7 +168,7 @@ thumbnail: /assets/img/posts/hinatazaka46-yoyogi-national-gymnasium-2026-12/thum
   </div>
 </div>
 
-{% include venue-hotels.html key="yoyogi-national-gymnasium" %}
+{% include venue-hotels.html key="yoyogi-national-gymnasium" %}{% include hotels-link.html key="yoyogi-national-gymnasium" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

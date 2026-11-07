@@ -72,7 +72,7 @@ thumbnail: /assets/img/posts/befirst-kyocera-dome-osaka-2027-01/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="kyocera-dome-osaka" limit=3 top=true %}
+{% include venue-hotels.html key="kyocera-dome-osaka" limit=3 top=true %}{% include hotels-link.html key="kyocera-dome-osaka" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -151,7 +151,7 @@ thumbnail: /assets/img/posts/befirst-kyocera-dome-osaka-2027-01/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="kyocera-dome-osaka" %}
+{% include venue-hotels.html key="kyocera-dome-osaka" %}{% include hotels-link.html key="kyocera-dome-osaka" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

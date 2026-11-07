@@ -14,5 +14,5 @@
     {% include affiliate-link.html url=_r label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
-{%- unless include.compact %}{% include venue-hotels.html key=page.slug %}{% endunless %}
+{%- unless include.compact %}{% include venue-hotels.html key=page.slug %}{% include hotels-link.html key=page.slug %}{% endunless %}
 {%- endif %}

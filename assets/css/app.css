@@ -1018,6 +1018,14 @@ a.badge { min-height: 32px; }
 .vhotels__go { flex: none; position: relative; padding-right: 14px; color: var(--accent-ink); font-size: 11px; font-weight: 700; line-height: 1.3; text-align: right; }
 .vhotels__go::after { content: ""; position: absolute; right: 2px; top: 50%; width: 7px; height: 7px; border-top: 2px solid currentColor; border-right: 2px solid currentColor; transform: translateY(-50%) rotate(45deg); }
 .vhotels li a:hover b { color: var(--accent-ink); }
+.vhotels__ac { color: var(--ink-2); font-size: 12px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; } /* 宿が出しているアクセスの文（APIの値のまま） */
+.vhotels--full { scroll-margin-top: 72px; }
+.prose .vhotels__h { flex-wrap: wrap; margin: 0 0 4px; font-size: 16px; }
+.vhotels__h .stay-in__pr { flex: none; white-space: nowrap; }
+.vhotels--full .vhotels__h span { order: 3; flex-basis: 100%; }
+.hotels-link { margin: calc(-1 * var(--s-4)) 0 var(--s-6); text-align: right; font-size: 14px; font-weight: 700; }
+.hotels-link a::after { content: " ›"; }
+.vhotels__credit { margin-top: calc(-1 * var(--s-2)); }
 .vhotels__note { margin: 6px 0 0; font-size: 11px; line-height: 1.6; color: var(--ink-2); }
 
 /* これからの公演の参戦ガイド（_includes/live-list.html）・公演の日程（scripts/live_article.py） */

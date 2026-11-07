@@ -66,7 +66,7 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="hokkai-kitaeru" limit=3 top=true %}
+{% include venue-hotels.html key="hokkai-kitaeru" limit=3 top=true %}{% include hotels-link.html key="hokkai-kitaeru" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -140,7 +140,7 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="hokkai-kitaeru" %}
+{% include venue-hotels.html key="hokkai-kitaeru" %}{% include hotels-link.html key="hokkai-kitaeru" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

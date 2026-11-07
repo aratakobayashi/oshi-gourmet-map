@@ -72,7 +72,7 @@ thumbnail: /assets/img/posts/befirst-belluna-dome-2027-03/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="belluna-dome" limit=3 top=true %}
+{% include venue-hotels.html key="belluna-dome" limit=3 top=true %}{% include hotels-link.html key="belluna-dome" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -136,7 +136,7 @@ thumbnail: /assets/img/posts/befirst-belluna-dome-2027-03/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="belluna-dome" %}
+{% include venue-hotels.html key="belluna-dome" %}{% include hotels-link.html key="belluna-dome" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

@@ -73,7 +73,7 @@ thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="lala-arena-tokyo-bay" limit=3 top=true %}
+{% include venue-hotels.html key="lala-arena-tokyo-bay" limit=3 top=true %}{% include hotels-link.html key="lala-arena-tokyo-bay" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -156,7 +156,7 @@ thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="lala-arena-tokyo-bay" %}
+{% include venue-hotels.html key="lala-arena-tokyo-bay" %}{% include hotels-link.html key="lala-arena-tokyo-bay" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

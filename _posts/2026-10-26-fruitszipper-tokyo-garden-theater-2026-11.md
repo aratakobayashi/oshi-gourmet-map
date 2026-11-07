@@ -72,7 +72,7 @@ thumbnail: /assets/img/posts/fruitszipper-tokyo-garden-theater-2026-11/thumb.web
   </div>
 </div>
 
-{% include venue-hotels.html key="tokyo-garden-theater" limit=3 top=true %}
+{% include venue-hotels.html key="tokyo-garden-theater" limit=3 top=true %}{% include hotels-link.html key="tokyo-garden-theater" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -155,7 +155,7 @@ thumbnail: /assets/img/posts/fruitszipper-tokyo-garden-theater-2026-11/thumb.web
   </div>
 </div>
 
-{% include venue-hotels.html key="tokyo-garden-theater" %}
+{% include venue-hotels.html key="tokyo-garden-theater" %}{% include hotels-link.html key="tokyo-garden-theater" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>
