@@ -76,7 +76,7 @@ thumbnail: /assets/img/posts/notme-musashino-forest-sport-plaza-2026-11/thumb.we
   </div>
 </div>
 
-{% include venue-hotels.html key="musashino-forest-sport-plaza" limit=3 top=true %}
+{% include venue-hotels.html key="musashino-forest-sport-plaza" limit=3 top=true %}{% include hotels-link.html key="musashino-forest-sport-plaza" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -165,7 +165,7 @@ thumbnail: /assets/img/posts/notme-musashino-forest-sport-plaza-2026-11/thumb.we
   </div>
 </div>
 
-{% include venue-hotels.html key="musashino-forest-sport-plaza" %}
+{% include venue-hotels.html key="musashino-forest-sport-plaza" %}{% include hotels-link.html key="musashino-forest-sport-plaza" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

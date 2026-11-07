@@ -1,0 +1,9 @@
+{%- comment -%}
+  会場のホテルのページ（/guide/<会場>/hotels/。scripts/venue_hotels_page.py）への案内。ページがある会場だけ出す。
+  楽天のデータの箱（venue-hotels.html）の外に置く（規約: APIのデータを出す部分に楽天以外へのリンクを置かない）
+  使い方: {% include hotels-link.html key="tokyo-dome" %}
+{%- endcomment -%}
+{%- assign _hp = site.guides | where: "venue_key", include.key | where: "guide_category", "hotels" | first -%}
+{%- if _hp and page.url != _hp.url %}{% assign _hn = site.data.venue_hotels[include.key].all.size %}
+<p class="hotels-link"><a href="{{ _hp.url | relative_url }}">{{ site.data.venues[include.key].name }}の近くのホテルを最寄り駅ごとに見る{% if _hn %}（{{ _hn }}軒）{% endif %}</a></p>
+{%- endif %}

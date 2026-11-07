@@ -3,7 +3,7 @@ fetch_venue_hotels.py
 ライブ会場の近くの宿を、楽天トラベルの公式API（楽天ウェブサービス SimpleHotelSearch）で調べて
 _data/venue_hotels.json に書く。会場ガイド・公演参戦ガイドの「会場の近くの宿」（_includes/venue-hotels.html）で使う。
 
-- 会場の座標は _data/venues.json。会場から半径 RADIUS_KM 以内の宿を、会場からの直線距離が近い順に MAX_HOTELS 軒
+- 会場の座標は _data/venues.json。会場から半径 RADIUS_KM 以内の宿を、会場からの直線距離が近い順に MAX_HOTELS 軒（hotels）と MAX_ALL 軒（all。ホテルのページ用）
 - 載せるのは 宿の名前・会場からの距離・最寄り駅（APIの値）・画像・楽天トラベルの宿のページ（アフィリエイトID付き）だけ。
   料金・空室・口コミ点数は変わりやすいので載せない（リンク先で確かめてもらう）
 - 楽天ウェブサービスの規約どおり、表示する場所にクレジット（公式のHTMLのまま）を出す（venue-hotels.html）
@@ -90,10 +90,11 @@ def basic_infos(data):
 
 RADII = (1.0, 2.0, RADIUS_KM)   # APIは距離順に並ばないので、狭い半径から全ページ読んで近い順に並べる
 MAX_PAGES = 10
+MAX_ALL = 30    # 会場のホテルのページ（/guide/<会場>/hotels/。scripts/venue_hotels_page.py）に出す数
 
 
 def nearby_infos(lat, lng, app_id, access_key, aff):
-    """半径1km→2km→3km の順に、MAX_HOTELS 軒以上見つかるまで全ページを読む"""
+    """半径1km→2km→3km の順に、MAX_ALL 軒以上見つかるまで全ページを読む"""
     infos = []
     for r in RADII:
         infos, page = [], 1
@@ -105,7 +106,7 @@ def nearby_infos(lat, lng, app_id, access_key, aff):
                 break
             page += 1
             time.sleep(WAIT)
-        if len(infos) >= MAX_HOTELS:
+        if len(infos) >= MAX_ALL:
             break
         time.sleep(WAIT)
     return infos
@@ -140,13 +141,14 @@ def main():
             if any(x['u'] == url for x in rows):
                 continue
             rows.append({'n': (h.get('hotelName') or '').strip(), 'u': url, 'm': int(round(d * 1000, -1)),
-                         'st': (h.get('nearestStation') or '').strip(),
+                         'st': (h.get('nearestStation') or '').strip(), 'ac': (h.get('access') or '').strip(),
                          'img': (h.get('hotelThumbnailUrl') or '').replace('http://', 'https://')})
         rows.sort(key=lambda x: x['m'])
-        rows = rows[:MAX_HOTELS]
-        print(k, v['name'], len(infos), '件中', len(rows), '軒')
+        print(k, v['name'], len(infos), '件中', len(rows[:MAX_ALL]), '軒')
         if rows:
-            out[k] = {'hotels': rows, 'r': RADIUS_KM, 'at': time.strftime('%Y-%m-%d')}
+            # hotels: 記事に出す近い順の6軒（venue-hotels.html）／all: ホテルのページの30軒（access＝宿が出しているアクセスの文。改変しない）
+            out[k] = {'hotels': [{x: y for x, y in r.items() if x != 'ac'} for r in rows[:MAX_HOTELS]], 'all': rows[:MAX_ALL],
+                      'r': RADIUS_KM, 'at': time.strftime('%Y-%m-%d')}
     if not dry:
         json.dump(out, open(outp, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         print('書き込み', outp)

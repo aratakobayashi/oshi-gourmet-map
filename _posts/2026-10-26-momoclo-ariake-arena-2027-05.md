@@ -78,7 +78,7 @@ thumbnail: /assets/img/posts/momoclo-ariake-arena-2027-05/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="ariake-arena" limit=3 top=true %}
+{% include venue-hotels.html key="ariake-arena" limit=3 top=true %}{% include hotels-link.html key="ariake-arena" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -174,7 +174,7 @@ thumbnail: /assets/img/posts/momoclo-ariake-arena-2027-05/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="ariake-arena" %}
+{% include venue-hotels.html key="ariake-arena" %}{% include hotels-link.html key="ariake-arena" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

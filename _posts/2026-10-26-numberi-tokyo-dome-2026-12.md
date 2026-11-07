@@ -79,7 +79,7 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}
+{% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -173,7 +173,7 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="tokyo-dome" %}
+{% include venue-hotels.html key="tokyo-dome" %}{% include hotels-link.html key="tokyo-dome" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>

@@ -66,7 +66,7 @@ thumbnail: /assets/img/posts/morningmusume-yokohama-arena-2026-12/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="yokohama-arena" limit=3 top=true %}
+{% include venue-hotels.html key="yokohama-arena" limit=3 top=true %}{% include hotels-link.html key="yokohama-arena" %}
 
 <h2 id="date">公演の日程</h2>
 
@@ -139,7 +139,7 @@ thumbnail: /assets/img/posts/morningmusume-yokohama-arena-2026-12/thumb.webp
   </div>
 </div>
 
-{% include venue-hotels.html key="yokohama-arena" %}
+{% include venue-hotels.html key="yokohama-arena" %}{% include hotels-link.html key="yokohama-arena" %}
 
 <ul>
   <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>
