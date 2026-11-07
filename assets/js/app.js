@@ -109,6 +109,19 @@
     }
   }
 
+  // ---------- 持ち物チェック（<ul class="fl-check" data-store="…">。この端末にだけ保存） ----------
+  document.querySelectorAll('.fl-check[data-store]').forEach(function (ul) {
+    var key = 'chk:' + ul.getAttribute('data-store'), saved = {};
+    try { saved = JSON.parse(localStorage.getItem(key) || '{}'); } catch (e) {}
+    ul.querySelectorAll('input[data-k]').forEach(function (cb) {
+      cb.checked = !!saved[cb.getAttribute('data-k')];
+      cb.addEventListener('change', function () {
+        saved[cb.getAttribute('data-k')] = cb.checked;
+        try { localStorage.setItem(key, JSON.stringify(saved)); } catch (e) {}
+      });
+    });
+  });
+
   // ---------- YouTube（タップしたときに埋め込みを読み込む） ----------
   document.addEventListener('click', function (e) {
     var b = e.target.closest('button.yt[data-yt]');

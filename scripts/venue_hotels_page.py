@@ -124,7 +124,8 @@ def build(key, venues, hotels, vnear):
     hk, hj = vn.get('hk') or vname, vn.get('hj') or ''
 
     st_txt = '・'.join(sname(s) for s in top_st[:3])
-    title = f'{vname}の近くのホテル｜会場から近い宿{n}軒を最寄り駅ごとに' + (f'（{st_txt}）' if st_txt else '')
+    title = (f'{vname}の近くのホテル｜会場から近い宿{n}軒を最寄り駅ごとに（{st_txt}）' if st_txt
+             else f'{vname}の近くのホテル｜会場から近い宿{n}軒（最寄り駅・アクセスつき）')
     desc = (f'{vname}でライブがある日に泊まる宿を探す人へ。楽天トラベルに載っている宿のうち、{vname}から近い順に{n}軒'
             f'（いちばん遠い宿で{dist(far)}・直線距離）を、最寄り駅ごとに、宿が案内しているアクセスと一緒にまとめました（{atl}時点）。')
     summary = [f'{vname}からいちばん近いのは{near1["n"]}（{dist(near1["m"])}）、次が{near2["n"]}（{dist(near2["m"])}）。距離は会場からの直線距離',
