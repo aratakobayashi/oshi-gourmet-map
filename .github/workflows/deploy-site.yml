@@ -43,3 +43,6 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # ページが1万を超え、Pages のファイルの同期が既定の10分を超えることがある（2026-11-07 に2回続けて時間切れ）
+          timeout: 1800000
