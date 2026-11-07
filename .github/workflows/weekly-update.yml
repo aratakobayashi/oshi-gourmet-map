@@ -100,3 +100,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000   # Pages の同期が10分を超えることがある（deploy-site.yml と同じ）
