@@ -1,21 +1,23 @@
 {%- comment -%}
   会場の近くの宿（楽天トラベルの公式APIで調べた _data/venue_hotels.json。scripts/fetch_venue_hotels.py）。
   引数: key（_data/venues.json の会場キー）。データがない会場は何も出さない
+    limit=3 top=true: 記事の上（要点のあと）に置く短い版（近い順に3軒。ほかは「泊まる」の章）
   料金・空室・口コミは載せない（変わりやすいのでリンク先で確かめてもらう）。楽天ウェブサービスのクレジットは公式のHTMLを改変せずに使う（規約）。
-  この箱の中には楽天以外へのリンクを置かない（規約 第8条）。じゃらんのボタンと同じ箱に入れない
+  この箱の中には楽天以外へのリンクを置かない（規約 第8条。ページ内リンクも置かない）。じゃらんのボタンと同じ箱に入れない。宿名はAPIの値のまま
 {%- endcomment -%}
 {%- assign _vh = site.data.venue_hotels[include.key] -%}
 {%- if _vh and _vh.hotels.size > 0 %}
-<div class="vhotels">
-  <p class="vhotels__h">会場から近い宿<small class="stay-in__pr">PR</small></p>
+{%- assign _vl = include.limit | default: 99 %}
+<div class="vhotels{% if include.top %} vhotels--top{% endif %}">
+  <p class="vhotels__h">会場から近い宿{% if include.top %}<span>近い順に{% if _vh.hotels.size < _vl %}{{ _vh.hotels.size }}{% else %}{{ _vl }}{% endif %}軒</span>{% endif %}<small class="stay-in__pr">PR</small></p>
   <ul>
-  {%- for h in _vh.hotels %}
+  {%- for h in _vh.hotels limit: _vl %}
     <li><a href="{{ h.u }}" target="_blank" rel="sponsored noopener" data-aff="rakuten">
-      {%- if h.img != '' %}<img src="{{ h.img }}" alt="" width="72" height="72" loading="lazy" decoding="async">{% endif %}
-      <span class="vhotels__b"><b>{{ h.n }}</b><small>会場から約{% if h.m >= 1000 %}{{ h.m | divided_by: 100 | times: 0.1 | round: 1 }}km{% else %}{{ h.m }}m{% endif %}（直線）{% if h.st != '' %}・最寄り {{ h.st }}{% endif %}</small></span>
-      <span class="vhotels__go">楽天トラベルで見る</span></a></li>
+      {%- if h.img != '' %}<img src="{{ h.img }}" alt="" width="56" height="56" loading="lazy" decoding="async">{% else %}<span class="vhotels__ph" aria-hidden="true">🏨</span>{% endif %}
+      <span class="vhotels__b"><b>{{ h.n }}</b><small>約{% if h.m >= 1000 %}{{ h.m | divided_by: 100 | times: 0.1 | round: 1 }}km{% else %}{{ h.m }}m{% endif %}{% if h.st != '' %}・最寄り {{ h.st }}{% endif %}</small></span>
+      <span class="vhotels__go" aria-hidden="true">楽天<br>トラベル</span></a></li>
   {%- endfor %}
   </ul>
-  <p class="vhotels__note">料金・空室は楽天トラベルで確かめてください。宿の情報は{{ _vh.at | date: "%Y年%-m月" }}時点。<a href="https://developers.rakuten.com/" target="_blank">Supported by Rakuten Developers</a></p>
+  <p class="vhotels__note">距離は会場からの直線距離。料金・空室は楽天トラベルで確かめてください（{{ _vh.at | date: "%Y年%-m月" }}時点の情報）。<a href="https://developers.rakuten.com/" target="_blank">Supported by Rakuten Developers</a></p>
 </div>
 {%- endif %}

@@ -2,7 +2,7 @@
 layout: post
 title: NiziU 北海きたえーる公演 参戦ガイド（2026年11月28日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演（2026年11月28日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -38,13 +38,13 @@ faq:
 - q: 北海きたえーるの最寄り駅はどこですか？
   a: 地下鉄東豊線 豊平公園駅です（地下連絡通路で約5分）。バス停 豊平三条十丁目からは徒歩約5分。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「北海きたえーる周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、北海きたえーるから近い順に宿を載せています（楽天トラベル）。「北海きたえーる周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演は2026年11月28日（土）（2026年10月26日時点の公式発表）
 - 最寄り駅は地下鉄東豊線 豊平公園駅（地下連絡通路で約5分）。バス停 豊平三条十丁目からは徒歩約5分
 - 会場の近くのほかの推しの聖地
-thumbnail: /assets/img/guide/hokkai-kitaeru.webp
+thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#a855f7">
 
@@ -54,6 +54,10 @@ thumbnail: /assets/img/guide/hokkai-kitaeru.webp
 
 <p><strong>NiziU</strong>『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の<strong>北海きたえーる</strong>公演は、<strong>2026年11月28日（土）</strong>です（<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、北海きたえーるへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、NiziUのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2026-11-28" data-e="2026-11-28"><b>公演日</b>2026年11月28日（土）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 北海きたえーる周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -61,6 +65,8 @@ thumbnail: /assets/img/guide/hokkai-kitaeru.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E5%8C%97%E6%B5%B7%E3%81%8D%E3%81%9F%E3%81%88%E3%83%BC%E3%82%8B" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="hokkai-kitaeru" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

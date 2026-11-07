@@ -49,7 +49,7 @@ summary:
 - 『Juice=Juice Room Tour 2026 「5ROOMS」』の日本武道館公演は2026年11月6日（金）（2026年10月26日時点の公式発表）
 - 最寄り駅は地下鉄 九段下駅（2番出口）。東京メトロ 竹橋駅からは1番出口
 - 会場から10km以内にJuice=Juiceのメンバーが行ったお店が3軒。会場からの近さ順に載せています
-thumbnail: /assets/img/guide/nippon-budokan.webp
+thumbnail: /assets/img/posts/juicejuice-nippon-budokan-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#ea580c">
 

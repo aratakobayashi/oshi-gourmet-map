@@ -2,7 +2,7 @@
 layout: post
 title: モーニング娘。'26 横浜アリーナ公演 参戦ガイド（2026年12月11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の横浜アリーナ公演（2026年12月11日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -38,13 +38,13 @@ faq:
 - q: 横浜アリーナの最寄り駅はどこですか？
   a: 地下鉄ほか 新横浜駅です（出口7・8 徒歩4分）。JR 新横浜駅からは北口・東口 徒歩5分。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「横浜アリーナ周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、横浜アリーナから近い順に宿を載せています（楽天トラベル）。「横浜アリーナ周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の横浜アリーナ公演は2026年12月11日（金）（2026年10月26日時点の公式発表）
 - 最寄り駅は地下鉄ほか 新横浜駅（出口7・8 徒歩4分）。JR 新横浜駅からは北口・東口 徒歩5分
 - 会場の近くのほかの推しの聖地
-thumbnail: /assets/img/guide/yokohama-arena.webp
+thumbnail: /assets/img/posts/morningmusume-yokohama-arena-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#db2777">
 
@@ -54,6 +54,10 @@ thumbnail: /assets/img/guide/yokohama-arena.webp
 
 <p><strong>モーニング娘。'26</strong>『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の<strong>横浜アリーナ</strong>公演は、<strong>2026年12月11日（金）</strong>です（<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、横浜アリーナへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、モーニング娘。'26のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2026-12-11" data-e="2026-12-11"><b>公演日</b>2026年12月11日（金）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 横浜アリーナ周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -61,6 +65,8 @@ thumbnail: /assets/img/guide/yokohama-arena.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%A8%AA%E6%B5%9C%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="yokohama-arena" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

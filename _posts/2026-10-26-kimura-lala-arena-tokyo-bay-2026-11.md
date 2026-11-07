@@ -2,7 +2,7 @@
 layout: post
 title: 木村拓哉 LaLa arena TOKYO-BAY公演 参戦ガイド（2026年11月21日〜23日）｜行き方・座席・持ち込み・泊まる・近くの聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-06'
+last_modified_at: '2026-11-07'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演（2026年11月21日（土）・22日（日）・23日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、千葉県にある木村拓哉の聖地1軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -45,13 +45,13 @@ faq:
 - q: LaLa arena TOKYO-BAYの近くに木村拓哉の聖地はありますか？
   a: 2026年10月時点で会場から10km以内にはありませんが、千葉県にはcafe nunなどがあります。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の「LaLa arena TOKYO-BAY周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
+  a: この記事の「会場から近い宿」に、LaLa arena TOKYO-BAYから近い順に宿を載せています（楽天トラベル）。「LaLa arena TOKYO-BAY周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
 - 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演は2026年11月21日（土）・22日（日）・23日（月）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 南船橋駅（南口・徒歩6分）。京成 船橋競馬場駅からは南口・徒歩16分
 - 千葉県にある木村拓哉の聖地1軒
-thumbnail: /assets/img/guide/lala-arena-tokyo-bay.webp
+thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#0891b2">
 
@@ -61,6 +61,10 @@ thumbnail: /assets/img/guide/lala-arena-tokyo-bay.webp
 
 <p><strong>木村拓哉</strong>『TAKUYA KIMURA Live Tour 2026 Checkpoint』の<strong>LaLa arena TOKYO-BAY</strong>公演は、<strong>2026年11月21日（土）・22日（日）・23日（月）</strong>です（<a href="https://www.oricon.co.jp/news/2457592/full/" target="_blank" rel="noopener">発表を伝える記事</a>・2026年10月26日時点）。この記事では、LaLa arena TOKYO-BAYへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、木村拓哉のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
+<p class="live-cd" data-d="2026-11-21" data-e="2026-11-23"><b>公演日</b>2026年11月21日（土）・22日（日）・23日（月）</p>
+
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> LaLa arena TOKYO-BAY周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
   <div class="btn-row">
@@ -68,6 +72,8 @@ thumbnail: /assets/img/guide/lala-arena-tokyo-bay.webp
     {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=LaLa%20arena%20TOKYO-BAY" label="楽天トラベルで探す" class="btn" service="rakuten" %}
   </div>
 </div>
+
+{% include venue-hotels.html key="lala-arena-tokyo-bay" limit=3 top=true %}
 
 <h2 id="date">公演の日程</h2>
 

@@ -52,7 +52,7 @@ summary:
 - 最寄り駅は地下鉄東豊線 福住駅（3番出口）
 - '会場のルールで持ち込めないもの: ビン・缶類、凍らせたペットボトル、750mLを超えるペットボトル、お弁当などの食べ物（公演ごとの案内も確かめる）'
 - 北海道にあるSnow Manの聖地1軒
-thumbnail: /assets/img/guide/sapporo-dome.webp
+thumbnail: /assets/img/posts/snowman-sapporo-dome-2026-10/thumb.webp
 ---
 <div class="pf" style="--pc:#3b82f6">
 
