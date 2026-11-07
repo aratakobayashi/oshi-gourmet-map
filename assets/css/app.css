@@ -1000,6 +1000,54 @@ a.badge { min-height: 32px; }
 .live-jump { display: flex; gap: var(--s-2); margin: 0 0 var(--s-3); padding: 2px 0; overflow-x: auto; scrollbar-width: none; }
 .live-jump::-webkit-scrollbar { display: none; }
 .live-jump .chip { height: 32px; flex: none; text-decoration: none; }
+/* はじめてのライブ（_guides/*-first-live.html）: ヒーロー・3つ・当日の流れ・チェック・決まり・ペンライトの色・メンバー・曲目・グッズ。色は --pc */
+.fl-hero { position: relative; margin: 0 0 var(--s-4); padding: 20px 18px 16px; border-radius: var(--r-lg); color: #fff; overflow: hidden;
+  background: radial-gradient(circle at 85% 0%, color-mix(in srgb, var(--pc) 70%, #fff) 0, transparent 45%), linear-gradient(150deg, var(--pc) 0%, color-mix(in srgb, var(--pc) 55%, #2a0f22) 100%); }
+.fl-hero::after { content: ""; position: absolute; inset: auto -20px -30px auto; width: 160px; height: 160px; border-radius: 50%; background: rgba(255,255,255,.12); }
+.prose .fl-hero p { margin: 0; }
+.fl-hero__k { font-size: 12px; font-weight: 700; letter-spacing: .2em; opacity: .85; }
+.fl-hero__v { font-family: var(--serif); font-size: 30px; font-weight: 700; line-height: 1.25; }
+.fl-hero__t { font-size: 13px; opacity: .95; }
+.fl-hero__days { display: flex; gap: 10px; margin: 12px 0 8px; }
+.fl-hero__days div { display: flex; align-items: baseline; gap: 4px; padding: 6px 12px; border-radius: var(--r-md); background: rgba(255,255,255,.18); }
+.fl-hero__days b { font-size: 28px; line-height: 1; } .fl-hero__days small { font-size: 13px; }
+.fl-hero__time { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 14px; } .fl-hero__time b { font-size: 18px; }
+.fl-hero .live-cd { margin-top: 10px !important; padding: 8px 12px; border-radius: var(--r-md); background: #fff; color: var(--ink); display: inline-block; }
+.fl-hero__src { margin-top: 10px !important; font-size: 11px; opacity: .85; } .fl-hero__src a { color: #fff; }
+.prose .fl-three, .fl-three { counter-reset: fl; list-style: none; padding: 0; display: grid; gap: 10px; }
+.fl-three li { counter-increment: fl; position: relative; padding: 12px 14px 12px 56px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); }
+.prose .fl-three li + li { margin-top: 0; }
+.fl-three li::before { content: counter(fl); position: absolute; left: 14px; top: 12px; width: 30px; height: 30px; border-radius: 50%; background: var(--pc); color: #fff; font-weight: 700; display: grid; place-items: center; }
+.fl-three b, .fl-flow b { display: block; font-size: 15px; } .fl-three span, .fl-flow span { display: block; font-size: 13px; color: var(--ink-2); line-height: 1.6; }
+.fl-more { margin: 10px 0 0; font-size: 14px; } .fl-more summary { cursor: pointer; font-weight: 700; color: var(--accent-ink); }
+.prose .fl-flow, .fl-flow { list-style: none; padding: 0 0 0 4px; margin: var(--s-3) 0; }
+.fl-flow li { position: relative; padding: 0 0 16px 26px; border-left: 2px solid color-mix(in srgb, var(--pc) 35%, #fff); margin: 0 0 0 8px; }
+.prose .fl-flow li + li { margin-top: 0; } .fl-flow li:last-child { border-color: transparent; }
+.fl-flow li::before { content: ""; position: absolute; left: -8px; top: 2px; width: 14px; height: 14px; border-radius: 50%; background: var(--pc); box-shadow: 0 0 0 4px color-mix(in srgb, var(--pc) 20%, #fff); }
+.fl-flow i { font-style: normal; font-size: 12px; font-weight: 700; color: var(--pc); }
+.fl-h3 { margin-top: var(--s-6); }
+.prose .fl-check, .fl-check { list-style: none; padding: 0; margin: var(--s-2) 0; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); }
+.fl-check li + li { border-top: 1px solid var(--line); margin-top: 0 !important; }
+.fl-check label { display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 8px 12px; font-size: 14px; cursor: pointer; }
+.fl-check input { width: 20px; height: 20px; accent-color: var(--pc); flex: none; }
+.fl-check input:checked + * , .fl-check label:has(input:checked) { color: var(--ink-2); text-decoration: line-through; }
+.fl-rules { display: grid; gap: 10px; } @media (min-width: 720px) { .fl-rules { grid-template-columns: 1fr 1fr; } .fl-rule--ok { grid-column: 1 / -1; } }
+.fl-rule { padding: 12px 14px; border-radius: var(--r-md); border: 1.5px solid; background: var(--surface); }
+.fl-rule b { font-size: 15px; } .fl-rule ul { margin: 6px 0 0; font-size: 14px; }
+.fl-rule--ng { border-color: #e5484d55; } .fl-rule--ng b { color: #c62a2f; }
+.fl-rule--ok { border-color: #2f9e6a55; } .fl-rule--ok b { color: #1f7a50; }
+.prose .fl-colors, .fl-colors { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); gap: 8px; margin: var(--s-3) 0; }
+.fl-colors li { margin: 0 !important; display: flex; flex-direction: column; align-items: center; gap: 6px; padding: 10px 4px; border-radius: var(--r-md); background: #241a2a; color: #fff; font-size: 12px; font-weight: 700; }
+.fl-colors li::before { content: ""; width: 10px; height: 34px; border-radius: 6px; background: var(--c); box-shadow: 0 0 12px var(--c), 0 0 24px var(--c); }
+.prose .fl-members, .fl-members { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.fl-members li { margin: 0 !important; padding: 6px 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); font-size: 14px; font-weight: 700; }
+.fl-members li.is-c { border-color: var(--c); box-shadow: inset 4px 0 0 var(--c); }
+.prose .fl-tracks, .fl-tracks { counter-reset: tr; list-style: none; padding: 0; margin: var(--s-3) 0; border-radius: var(--r-md); overflow: hidden; background: #1f1524; }
+.fl-tracks li { counter-increment: tr; display: flex; align-items: center; gap: 12px; padding: 10px 14px; margin: 0 !important; color: #fff; border-top: 1px solid rgba(255,255,255,.08); }
+.fl-tracks li::before { content: counter(tr, decimal-leading-zero); font-family: var(--mono); font-size: 12px; color: color-mix(in srgb, var(--pc) 70%, #fff); }
+.fl-tracks b { flex: 1; font-size: 15px; } .fl-tracks a { font-size: 12px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: var(--r-pill); background: var(--pc); text-decoration: none; }
+.fl-goods { display: grid; gap: 10px; } .fl-goods div { padding: 12px 14px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); }
+.fl-goods b { display: block; margin-bottom: 4px; } .fl-goods span { font-size: 14px; line-height: 1.7; }
 /* はじめてのライブ（_guides/*-first-live.html）: 定番曲とセットリスト */
 .first-live { margin: var(--s-3) 0; padding: 10px 12px; border-left: 3px solid var(--pc, var(--accent)); border-radius: 0 var(--r-sm) var(--r-sm) 0; background: var(--surface); font-size: 14px; }
 .prose .setl-top, .setl-top { display: flex; list-style: none; padding-left: 0; flex-wrap: wrap; gap: 6px; margin: var(--s-3) 0; padding: 0; list-style: none; }
