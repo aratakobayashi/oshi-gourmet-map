@@ -142,6 +142,8 @@ def build(slug, ctx):
     olink = '発表を伝える記事' if news else '公式の公演情報'
     hk, hj = vnear[key]['hk'], vnear[key]['hj']
     has_guide = os.path.exists(os.path.join(ROOT, '_guides', f'{key}.html'))
+    first_live = g.replace('_', '-') + '-first-live'   # グループの「はじめてのライブ」（_guides。あればリンク）
+    has_first = os.path.exists(os.path.join(ROOT, '_guides', f'{first_live}.html'))
     has_hotels = bool((J('_data/venue_hotels.json').get(key) or {}).get('hotels')) if os.path.exists(os.path.join(ROOT, '_data/venue_hotels.json')) else False
     vpref = spec.get('pref') or ''
 
@@ -238,6 +240,8 @@ def build(slug, ctx):
     b.append(stay_box(vname, hk, hj, top=True))
     b.append(f'{{% include venue-hotels.html key="{key}" limit=3 top=true %}}{{% include hotels-link.html key="{key}" %}}')
 
+    if has_first:
+        b.append(f'<p class="first-live">はじめて{gl}のライブに行くなら：<a href="/guide/{first_live}/">{gl}のライブにはじめて行く人へ</a>（入場と本人確認・ペンライト・撮影・コール・定番曲・グッズ）</p>')
     b.append('<h2 id="date">公演の日程</h2>')
     b.append('<ul class="live-dates">\n' + ''.join(
         f'  <li><b>{dlabel([d])}</b>{"<span>" + T.esc(times[d]) + "</span>" if times.get(d) else ""}</li>\n' for d in dates) + '</ul>')
@@ -318,6 +322,8 @@ def build(slug, ctx):
     more = []
     if has_guide:
         more.append(f'<li><a href="/guide/{key}/">{T.esc(vname)} ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>')
+    if has_first:
+        more.append(f'<li><a href="/guide/{first_live}/">{gl}のライブにはじめて行く人へ</a>（入場・ペンライト・コール・定番曲・グッズ）</li>')
     more.append(f'<li><a href="{{{{ site.data.group_ix.{g}.u }}}}">{gl}のお店一覧</a>（グループのページ）</li>')
     b.append('<ul>\n' + '\n'.join('  ' + x for x in more) + '\n</ul>')
     b.append(f'<p class="note">お店の情報は、各お店の出典（番組・YouTube・ファンのロケ地ブログ）をもとにしています。会場からの距離は直線距離で、歩く距離とは違います。'

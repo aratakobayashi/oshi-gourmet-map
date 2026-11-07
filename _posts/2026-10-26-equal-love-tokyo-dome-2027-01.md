@@ -80,6 +80,8 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
+<p class="first-live">はじめて=LOVEのライブに行くなら：<a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場と本人確認・ペンライト・撮影・コール・定番曲・グッズ）</p>
+
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
@@ -186,6 +188,7 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 <ul>
   <li><a href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場・ペンライト・コール・定番曲・グッズ）</li>
   <li><a href="{{ site.data.group_ix.equal_love.u }}">=LOVEのお店一覧</a>（グループのページ）</li>
 </ul>
 
