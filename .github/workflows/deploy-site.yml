@@ -34,6 +34,8 @@ jobs:
           JEKYLL_ENV: production
       - uses: actions/upload-pages-artifact@v3
 
+  # GitHub Pages のファイルの同期は actions/deploy-pages の上限10分（600000ms。これより長くはできない）で打ち切られる。
+  # ページが1万5千ファイルを超え、同期が10分前後かかるようになった（2026-11-07 に3回時間切れ）ので、時間切れのときは2回までやり直す
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -44,5 +46,30 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
         with:
-          # ページが1万を超え、Pages のファイルの同期が既定の10分を超えることがある（2026-11-07 に2回続けて時間切れ）
-          timeout: 1800000
+          timeout: 600000
+
+  deploy-retry:
+    needs: [build, deploy]
+    if: ${{ always() && needs.build.result == 'success' && needs.deploy.result == 'failure' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
+
+  deploy-retry2:
+    needs: [build, deploy-retry]
+    if: ${{ always() && needs.build.result == 'success' && needs.deploy-retry.result == 'failure' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
