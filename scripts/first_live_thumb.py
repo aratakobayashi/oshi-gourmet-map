@@ -4,7 +4,7 @@ first_live_thumb.py
 トップやグループのカードと同じもの）を、ペンライトの光の中に大きく置き、題と公演の札を載せる。メンバーの写真は使わない。
 
 - 中身は scripts/guide_thumbs.json の <slug>（label・title・sub・chips・color）と group（グループID）。lights にペンライトの色（任意）
-- 出力: assets/img/guide/<slug>.webp（1200x675）と <slug>_600.webp
+- 出力: assets/img/guide/<slug>.webp（1200x675）と <slug>_600.webp。out を書くとその場所（ツアーまとめは assets/img/posts/<slug>/thumb）
 - Chromium（Playwright）で描く。NODE_PATH に playwright、PW_CHROME に実行ファイル（なければ既定）
 使い方: python scripts/first_live_thumb.py <slug> …
 """
@@ -86,7 +86,8 @@ def main():
             open(js, 'w').write(JS)
             subprocess.run(['node', js, hp, png], check=True, cwd=ROOT)
             im = Image.open(png).convert('RGB')
-            out = os.path.join(ROOT, 'assets/img/guide', slug)
+            out = os.path.join(ROOT, d['out']) if d.get('out') else os.path.join(ROOT, 'assets/img/guide', slug)   # out: 例 assets/img/posts/<slug>/thumb
+            os.makedirs(os.path.dirname(out), exist_ok=True)
             im.save(out + '.webp', 'WEBP', quality=84, method=6)
             im.resize((600, 338), Image.LANCZOS).save(out + '_600.webp', 'WEBP', quality=84, method=6)
             print(slug, '→', out + '.webp')

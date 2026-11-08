@@ -1046,6 +1046,26 @@ a.badge { min-height: 32px; }
 .fl-tracks li { counter-increment: tr; display: flex; align-items: center; gap: 12px; padding: 10px 14px; margin: 0 !important; color: #fff; border-top: 1px solid rgba(255,255,255,.08); }
 .fl-tracks li::before { content: counter(tr, decimal-leading-zero); font-family: var(--mono); font-size: 12px; color: color-mix(in srgb, var(--pc) 70%, #fff); }
 .fl-tracks b { flex: 1; font-size: 15px; } .fl-tracks a { font-size: 12px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: var(--r-pill); background: var(--pc); text-decoration: none; }
+.prose .fl-hero__next, .fl-hero__next { position: relative; z-index: 1; display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 8px; margin-top: 10px; padding: 8px 12px; border-radius: var(--r-md); background: rgba(255,255,255,.16); color: #fff; text-decoration: none; font-size: 13px; }
+.fl-hero__next small { font-size: 10px; font-weight: 700; letter-spacing: .15em; opacity: .85; } .fl-hero__next b { font-size: 15px; }
+.fl-hero__next::after { content: "›"; margin-left: auto; font-size: 18px; }
+.fl-seats { display: grid; gap: 8px; } @media (min-width: 720px) { .fl-seats { grid-template-columns: 1fr 1fr; } }
+.fl-seats div { padding: 10px 14px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--pc); }
+.fl-seats b { display: block; font-size: 15px; } .fl-seats span { font-size: 13px; color: var(--ink-2); line-height: 1.6; }
+.fl-venue { margin: var(--s-3) 0; padding: 12px 14px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); }
+.prose .fl-venue__h { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: 0 0 6px; } .fl-venue__h b { font-size: 17px; } .fl-venue__h span { font-size: 13px; color: var(--pc); font-weight: 700; }
+.fl-venue ul { margin: 0 0 10px; font-size: 14px; }
+.prose .fl-links, .fl-links { list-style: none; padding: 0; display: grid; gap: 8px; } @media (min-width: 720px) { .fl-links { grid-template-columns: 1fr 1fr; } }
+.fl-links li { margin: 0 !important; } .prose .fl-links a, .fl-links a { display: block; padding: 10px 14px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+.fl-links a::after { content: " ↗"; color: var(--ink-2); } .fl-links span { display: block; margin-top: 2px; padding: 0 14px; font-size: 12px; color: var(--ink-2); }
+/* ツアーまとめ（scripts/tour_hub.py）: 日程の一覧と会場ごとの聖地の数 */
+.prose .tl-sched, .tl-sched { list-style: none; padding: 0; margin: var(--s-3) 0; border-radius: var(--r-md); overflow: hidden; border: 1px solid var(--line); background: var(--surface); }
+.tl-sched li { display: flex; align-items: center; gap: 12px; padding: 10px 12px; margin: 0 !important; }
+.tl-sched li + li { border-top: 1px solid var(--line); } .tl-sched li.is-past { opacity: .5; }
+.tl-d { flex: none; width: 56px; text-align: center; color: var(--pc); } .tl-d b { display: block; font-size: 20px; line-height: 1.1; } .tl-d small { font-size: 12px; font-weight: 700; }
+.tl-v { flex: 1; min-width: 0; } .tl-v b { display: block; font-size: 15px; } .tl-v small { font-size: 12px; color: var(--ink-2); }
+.prose .tl-go, .tl-go { flex: none; padding: 6px 10px; border-radius: var(--r-pill); background: var(--pc); color: #fff; font-size: 12px; font-weight: 700; text-decoration: none; }
+.tl-seichi { padding: 10px 12px; border-radius: var(--r-md); background: color-mix(in srgb, var(--pc) 8%, #fff); font-size: 14px; }
 .fl-goods { display: grid; gap: 10px; } .fl-goods div { padding: 12px 14px; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); }
 .fl-goods b { display: block; margin-bottom: 4px; } .fl-goods span { font-size: 14px; line-height: 1.7; }
 /* はじめてのライブ（_guides/*-first-live.html）: 定番曲とセットリスト */

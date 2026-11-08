@@ -137,5 +137,32 @@
       "#a6e05a",
       "#4d7cff"
     ]
+  },
+  "equal-love-dome-live-2027": {
+    "label": "ドーム公演まとめ",
+    "title": "=LOVE",
+    "sub": "「全ては＝LOVE」\n東京ドーム・ナゴヤ 4公演",
+    "chips": [
+      "東京 2027.1.19・20",
+      "名古屋 2.24・25",
+      "会場の近くの宿",
+      "セトリ"
+    ],
+    "color": "#f43f5e",
+    "group": "equal_love",
+    "lights": [
+      "#e8537a",
+      "#c8a2e8",
+      "#ff9a3c",
+      "#7cc8f0",
+      "#ffc2d6",
+      "#ffffff",
+      "#ff4d4d",
+      "#ffe066",
+      "#9b59d0",
+      "#a6e05a",
+      "#4d7cff"
+    ],
+    "out": "assets/img/posts/equal-love-dome-live-2027/thumb"
   }
 }
