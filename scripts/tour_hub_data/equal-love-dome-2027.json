@@ -1,0 +1,53 @@
+{
+ "slug": "equal-love-dome-live-2027",
+ "group": "equal_love",
+ "series": "「全ては＝LOVE」",
+ "series_long": "=LOVE ドーム公演「全ては＝LOVE」",
+ "lives": [
+  "equal-love-tokyo-dome-2027-01",
+  "equal-love-vantelin-dome-nagoya-2027-02"
+ ],
+ "times": {
+  "2027-01-19": [
+   "16:00",
+   "18:00"
+  ],
+  "2027-01-20": [
+   "16:00",
+   "18:00"
+  ]
+ },
+ "times_src": "https://equal-love.jp/news/detail/12299",
+ "first_live": "equal-love-first-live",
+ "checked_at": "2026-11-08",
+ "lead": "=LOVE（イコールラブ）のドーム公演は、2027年1月の東京ドーム「＝LOVE in TOKYO DOME「全ては＝LOVE」」と、2月のバンテリンドーム ナゴヤ「＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」」の2会場・4公演です。東京ドーム公演のタイトルと名古屋公演は、2026年10月16日の9周年コンサートで発表されました。日程と会場、会場ごとの近い宿と近くの聖地、セットリスト（公演のあと）をこのページにまとめます。",
+ "setlists": [],
+ "setlist_pending": "ドーム公演のセットリストは、公演のあとに大手報道のライブレポートに載ったものだけを、出典つき・ネタバレ注意の閉じた形で載せます。",
+ "sources": [
+  [
+   "=LOVE公式（東京ドーム公演の日程）",
+   "https://equal-love.jp/schedule/detail/11617"
+  ],
+  [
+   "=LOVE公式（東京ドーム公演 FC受付のお知らせ：時刻）",
+   "https://equal-love.jp/news/detail/12299"
+  ],
+  [
+   "=LOVE公式（バンテリンドーム ナゴヤ公演の日程）",
+   "https://equal-love.jp/schedule/detail/12276"
+  ],
+  [
+   "=LOVE公式（バンテリンドーム ナゴヤ公演 開催決定のお知らせ）",
+   "https://equal-love.jp/news/detail/12275"
+  ],
+  [
+   "モデルプレス（9周年コンサートのライブレポート：タイトルと名古屋公演の発表）",
+   "https://mdpr.jp/news/detail/4860771"
+  ],
+  [
+   "デイリースポーツ（名古屋公演の発表）",
+   "https://www.daily.co.jp/gossip/2026/10/16/0020935690.shtml"
+  ]
+ ],
+ "nagoya_note": "バンテリンドーム ナゴヤ公演の開場・開演の時刻、席の種類、注意事項は、まだ発表されていません。"
+}
