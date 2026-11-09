@@ -300890,5 +300890,57 @@
     "tmdb_id": 227203,
     "tmdb_type": "tv",
     "program": "吉田類の酒場放浪記"
+  },
+  {
+    "id": "sakaba_horoki-c097fa41-20261102",
+    "name": "秋田料理と炙り まるみや",
+    "genre": "izakaya",
+    "prefecture": "千葉県",
+    "city": "市川市",
+    "address": "千葉県市川市南八幡5-3-20",
+    "lat": 35.722179,
+    "lng": 139.924057,
+    "source_video_title": "吉田類の酒場放浪記 #1326 本八幡「秋田料理と炙り まるみや」（2026-11-02 BS-TBS）",
+    "visited_date": "2026-11-02",
+    "members": [
+      "吉田類"
+    ],
+    "groups": [
+      "sakaba_horoki"
+    ],
+    "group": "sakaba_horoki",
+    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1326.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
+    "tmdb_id": 227203,
+    "tmdb_type": "tv",
+    "program": "吉田類の酒場放浪記"
+  },
+  {
+    "id": "burari-3847dbff-20261107",
+    "name": "cafe FURURU",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区自由が丘1-25-4 MK3ビル2F",
+    "lat": 35.609398,
+    "lng": 139.669632,
+    "source_video_title": "ぶらり途中下車の旅 東横線・副都心線の旅 旅人：なぎら健壱（2026-11-07 日本テレビ）",
+    "visited_date": "2026-11-07",
+    "members": [
+      "なぎら健壱"
+    ],
+    "groups": [
+      "burari"
+    ],
+    "group": "burari",
+    "description": "なぎら健壱が『ぶらり途中下車の旅』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/burari/articles/227a08yt6ao2unuz858.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg",
+    "tmdb_id": 57952,
+    "tmdb_type": "tv",
+    "program": "ぶらり途中下車の旅"
   }
 ]
