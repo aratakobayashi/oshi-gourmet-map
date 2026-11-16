@@ -300942,5 +300942,141 @@
     "tmdb_id": 57952,
     "tmdb_type": "tv",
     "program": "ぶらり途中下車の旅"
+  },
+  {
+    "id": "machichuka-ae94e562-20261109",
+    "name": "酔来軒",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "address": "神奈川県横浜市南区真金町1-1",
+    "lat": 35.435989,
+    "lng": 139.629761,
+    "source_video_title": "町中華で飲ろうぜ #431 横浜　阪東橋編（2026-11-09 BS-TBS）",
+    "visited_date": "2026-11-09",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0431-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140306/14011823/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "machichuka-2f48a393-20261109",
+    "name": "平安",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "address": "神奈川県横浜市南区宿町1-18 野田ビル1F",
+    "lat": 35.433128,
+    "lng": 139.612686,
+    "source_video_title": "町中華で飲ろうぜ #431 横浜　阪東橋編（2026-11-09 BS-TBS）",
+    "visited_date": "2026-11-09",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0431-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140306/14016058/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "machichuka-98b29f7a-20261109",
+    "name": "信濃屋",
+    "genre": "chuka",
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "address": "神奈川県横浜市中区山元町1-15-7",
+    "lat": 35.431629,
+    "lng": 139.638947,
+    "source_video_title": "町中華で飲ろうぜ #432 横浜　石川町編（2026-11-09 BS-TBS）",
+    "visited_date": "2026-11-09",
+    "members": [
+      "樋口日奈"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "樋口日奈が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0432-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/kanagawa/A1401/A140106/14016001/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "sakaba_horoki-40c631f5-20261109",
+    "name": "蕾",
+    "genre": "izakaya",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "address": "東京都文京区根津2-36-2",
+    "lat": 35.720234,
+    "lng": 139.762985,
+    "source_video_title": "吉田類の酒場放浪記 #1327 根津「蕾」（2026-11-09 BS-TBS）",
+    "visited_date": "2026-11-09",
+    "members": [
+      "吉田類"
+    ],
+    "groups": [
+      "sakaba_horoki"
+    ],
+    "group": "sakaba_horoki",
+    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1327.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
+    "tmdb_id": 227203,
+    "tmdb_type": "tv",
+    "program": "吉田類の酒場放浪記"
+  },
+  {
+    "id": "burari-bd056b5e-20261114",
+    "name": "肉とごはんと時々やさい mohawk",
+    "genre": "shokuji",
+    "prefecture": "埼玉県",
+    "city": "春日部市",
+    "address": "埼玉県春日部市粕壁2-7-43",
+    "lat": 35.982635,
+    "lng": 139.753448,
+    "source_video_title": "ぶらり途中下車の旅 東武スカイツリーラインの旅 旅人：田山涼成（2026-11-14 日本テレビ）",
+    "visited_date": "2026-11-14",
+    "members": [
+      "田山涼成"
+    ],
+    "groups": [
+      "burari"
+    ],
+    "group": "burari",
+    "description": "田山涼成が『ぶらり途中下車の旅』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/burari/articles/227kjv9tv4nhrz07xcg.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg",
+    "tmdb_id": 57952,
+    "tmdb_type": "tv",
+    "program": "ぶらり途中下車の旅"
   }
 ]
