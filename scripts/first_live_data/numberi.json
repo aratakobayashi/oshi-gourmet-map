@@ -1,0 +1,479 @@
+{
+ "slug": "numberi-first-live",
+ "group": "numberi",
+ "name": "Number_i",
+ "kana": "ナンバーアイ",
+ "aka": "ナンバーアイ",
+ "color": "#d4af37",
+ "checked_at": "2026-11-23",
+ "title": "Number_i（ナンバーアイ）ライブ初参戦ガイド｜ペンライトの座席登録・コール・定番曲・入場と本人確認・グッズ・5大ドーム",
+ "description": "Number_i（ナンバーアイ）のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。『Number_i LIVE TOUR No.Ⅲ』（京セラドーム大阪 2026年12月2日・東京ドーム 12月9日・10日・バンテリンドーム ナゴヤ 2027年1月9日〜11日・みずほPayPayドーム福岡 1月16日・17日）の開場・開演、TOBE IDとMOALAの入場、本人確認書類、席の種類、無線で光るペンライトの座席登録、公式のコール練習動画、大手報道のセットリストから定番曲、グッズ、会場の近くの宿まで。",
+ "shows": [
+  {
+   "label": "京セラドーム大阪",
+   "title": "Number_i LIVE TOUR No.Ⅲ",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2026-12-02"
+   ],
+   "open": "16:30",
+   "start": "18:30",
+   "src": "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539",
+   "src_label": "主催（Live Nation H.I.P.）の公演ページ"
+  },
+  {
+   "label": "東京ドーム",
+   "title": "Number_i LIVE TOUR No.Ⅲ",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2026-12-09",
+    "2026-12-10"
+   ],
+   "open": "16:30",
+   "start": "18:30",
+   "src": "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539",
+   "src_label": "主催（Live Nation H.I.P.）の公演ページ"
+  },
+  {
+   "label": "バンテリンドーム ナゴヤ",
+   "title": "Number_i LIVE TOUR No.Ⅲ",
+   "venue_key": "vantelin-dome-nagoya",
+   "dates": [
+    "2027-01-09",
+    "2027-01-10",
+    "2027-01-11"
+   ],
+   "open": "",
+   "start": "",
+   "src": "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539",
+   "src_label": "主催（Live Nation H.I.P.）の公演ページ"
+  },
+  {
+   "label": "みずほPayPayドーム福岡",
+   "title": "Number_i LIVE TOUR No.Ⅲ",
+   "venue_key": "mizuho-paypay-dome",
+   "dates": [
+    "2027-01-16",
+    "2027-01-17"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539",
+   "src_label": "主催（Live Nation H.I.P.）の公演ページ"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}\">Number_i LIVE TOUR No.III 2026-2027まとめ（日程・時刻・セトリ）</a>",
+ "ticket_link": "<a href=\"{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}#tickets\">Number_i LIVE TOUR No.III まとめ「チケットの受付」</a>",
+ "intro": "Number_i（ナンバーアイ）のライブに、はじめて行く人のためのページです。入場のしかた、本人確認、席の種類、無線で光るペンライトの座席登録、コール、定番曲、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました。",
+ "entry_lead": "Number_iのライブは、<strong>TOBE ID</strong>と、スマホで見せる入場の二次元コードが基本です。ファンクラブのチケットは、来場する全員（同行者も）がTOBE ID（無料）を取ってMOALAのアカウントと連携しておく必要があります。",
+ "three": [
+  [
+   "全員がTOBE IDを用意",
+   "来場する全員がTOBE ID（無料）を取り、MOALAのアカウントと連携。ファンクラブのチケットはMOALA Ticket（ブラウザで表示。MOALA Pocketアプリは使わない）"
+  ],
+  [
+   "本人確認書類を持っていく",
+   "入口や座席で本人確認があることも。TOBE IDの登録と同じ名前の公的な書類（運転免許証・マイナンバーカード・パスポートなど顔写真付きなら1点）。コピー・期限切れは使えない"
+  ],
+  [
+   "ペンライトは座席を登録",
+   "ツアーの公式ペンライトは無線で色が変わる演出つき。専用アプリで公演ごとに座席を登録しておく。公式グッズでない光るものは持ち込めない"
+  ]
+ ],
+ "three_more": {
+  "q": "VIP GOLD席の入場は？",
+  "a": "VIP GOLD席だけは顔認証で入場します（代表者・同行者とも事前に顔写真を登録。登録した写真は1年間変えられない）。入口で顔と二次元コードを端末に見せるので、帽子・サングラス・マスクは外します。顔写真付きの本人確認書類も全員が持っていきます（顔写真付きのものがない場合に顔写真なしの書類2点で入れるのは高校生まで）。ほかの席は顔写真の登録はありません。"
+ },
+ "flow": [
+  [
+   "前日まで",
+   "入場とペンライトの準備",
+   "TOBE IDとMOALAの連携・同行者の登録を確かめる。座席番号が出たら入場の二次元コードをスクリーンショットしておくと安心（公式の案内）。ペンライトの座席登録は公演ごとに"
+  ],
+  [
+   "{open}",
+   "開場",
+   "係員に二次元コードを見せて入場（VIP GOLD席は顔認証）。本人確認があることも。会場にはペンライトのサポートブース"
+  ],
+  [
+   "{start}",
+   "開演",
+   "無許可の撮影・録音は禁止。公式でない光るものは使えない。一度出ると再入場できない"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "規制退場になることがある。終演の時刻は未発表。大阪・東京は平日の夜なので、遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "phone",
+   "スマホ（入場の二次元コード。ファンクラブはMOALA Ticket）"
+  ],
+  [
+   "id",
+   "本人確認書類（TOBE IDの登録と同じ名前）"
+  ],
+  [
+   "light",
+   "公式ペンライト（その公演の座席を登録済み・電池は新しいもの）"
+  ],
+  [
+   "bag",
+   "荷物は自分の座席に収まる大きさに"
+  ],
+  [
+   "kids",
+   "2歳以下の子を膝の上で見るなら保護者1人につき1人まで"
+  ]
+ ],
+ "seats_lead": "『Number_i LIVE TOUR No.Ⅲ』の席の種類です（公式の公演情報より。値段はこのページでは扱いません）。席の位置は<a href=\"https://ticket.tobe-official.jp/op/ni26_map/map.html\" target=\"_blank\" rel=\"noopener\">公式の座席表</a>で見られます。",
+ "seats": [
+  [
+   "VIP GOLD席",
+   "アリーナのステージ・花道に近いエリア。限定のラミネートパスつき・専用ゲート・顔認証で入場（全会場）"
+  ],
+  [
+   "SS・S・A・B指定席",
+   "全会場の指定席。1回の申し込みは席の種類ごとに4枚まで"
+  ],
+  [
+   "S指定席［着席指定席］",
+   "S指定席のエリアの中で座って見る席。ファンクラブの受付だけ"
+  ],
+  [
+   "東京・福岡だけの席",
+   "東京はバルコニー指定席・MASU BOX（1組4〜10枚）・THE 3rd PLATINUM BOX（1組4枚）、福岡はBOX 5（1組5枚）"
+  ],
+  [
+   "車椅子席",
+   "付き添いは1人まで。会場によって席の種類が違う（北海道・大阪・東京はS、愛知はA、福岡はB）"
+  ]
+ ],
+ "seats_note": "一部の席は座って見る席です（主催の案内）。客席の映像が公開されることがあります。",
+ "rules": {
+  "ng_items": [
+   "公式グッズでない光るもの（ペンライトなど）",
+   "危険物・アルコール",
+   "座席に収まらない大きな荷物",
+   "主催の許可のないチラシ"
+  ],
+  "ng_acts": [
+   "無許可の撮影・録音",
+   "再入場（一度出ると入れない）",
+   "チケットの譲渡・転売（有料・無料とも）",
+   "前日からの徹夜・早朝からの待機",
+   "手紙・プレゼント（受け取りなし）"
+  ],
+  "ok": [
+   "これまでの公式ペンライトと「3XL」ハートのペンダントは、<strong>ライトを消せば</strong>持ち込める",
+   "2歳以下で席がいらない子は、保護者1人につき1人まで膝の上で見られる（3歳以上はチケットが必要）"
+  ],
+  "note": "出典：<a href=\"https://tobe-official.jp/guideline\" target=\"_blank\" rel=\"noopener\">TOBE公式のガイドライン（ご鑑賞マナー）</a>・<a href=\"https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539\" target=\"_blank\" rel=\"noopener\">主催の公演ページ（注意事項）</a>・<a href=\"https://tobe-store.jp/blogs/information/108\" target=\"_blank\" rel=\"noopener\">公式ストアのお知らせ（ペンライト）</a>・<a href=\"https://ticketfaq.tobe-official.jp/\" target=\"_blank\" rel=\"noopener\">TOBEのチケットFAQ</a>。うちわの大きさや声出しについての決まりは、公式の案内には見当たりませんでした（2026年11月23日時点）。"
+ },
+ "penlight": {
+  "text": "ツアーの公式ペンライト「[No.Ⅲ]オリジナルペンライト」は、<strong>無線で色が変わる演出</strong>に対応しています。事前に専用アプリ（無料）でその公演の座席を登録しておきます。登録は<strong>公演ごと</strong>に必要で、公演中はアプリはいりません。1台のスマホで何本でも登録でき、ほかの席で登録したペンライトを使うと演出がずれます。電池が減ると色が赤っぽくなるので、公演ごとの電池交換が案内されています。色は次の4つで、演出中は自動で切り替わります。",
+  "colors": [
+   [
+    "WHITE",
+    "#ffffff"
+   ],
+   [
+    "PURPLE",
+    "#8b5cf6"
+   ],
+   [
+    "BLUE",
+    "#3b82f6"
+   ],
+   [
+    "RED",
+    "#ef4444"
+   ]
+  ],
+  "note": "色の見本はイメージです。出典：<a href=\"https://tobe-store.jp/products/4570204134352\" target=\"_blank\" rel=\"noopener\">公式ストア（[No.Ⅲ]オリジナルペンライト）</a>・<a href=\"https://ruifan-rave.com/rave/Number_i_manual.html\" target=\"_blank\" rel=\"noopener\">座席登録のマニュアル</a>・<a href=\"https://ruifan-rave.com/rave/Number_i_qa.html\" target=\"_blank\" rel=\"noopener\">座席登録のQ&A</a>。"
+ },
+ "members": {
+  "list": [
+   "神宮寺勇太",
+   "平野紫耀",
+   "岸優太"
+  ],
+  "colors": {},
+  "note": "並びは<a href=\"https://tobe-official.jp/artists/number_i/biography\" target=\"_blank\" rel=\"noopener\">公式プロフィール</a>の順。公式サイトにメンバーカラーの案内は見当たりません（ペンライトの4色もメンバーの色とは案内されていません）。"
+ },
+ "call": {
+  "text": "Number_iは、このツアーに向けて公式YouTubeで<strong>コールの練習動画「Call Lecture」</strong>を公開しています（2026年10月20日〜22日。「NUMBERS PT.2」「幸せいっぱい腹一杯」「ATAMI」）。ファンクラブ会員向けにも「Call Lecture Movie」があります（<a href=\"https://tobe-official.jp/artists/number_i/news/2458\" target=\"_blank\" rel=\"noopener\">お知らせ</a>）。声出しについての書かれた決まりは、公式の案内には見当たりませんでした。",
+  "memo": "はじめてなら、まずCall Lectureの3曲を見ておき、過去のツアーのライブ映像で流れをつかんでおくのが近道です。",
+  "channel": "Number_i OFFICIAL",
+  "videos": [
+   [
+    "vWjasJulsYw",
+    "NUMBERS PT.2",
+    "Call Lecture（SHO ver.）"
+   ],
+   [
+    "mDJdWNiJyVY",
+    "幸せいっぱい腹一杯",
+    "Call Lecture Part1"
+   ],
+   [
+    "wQJWDfnFJcw",
+    "ATAMI",
+    "Call Lecture Part1"
+   ],
+   [
+    "kWxTogjYC6I",
+    "No.Ⅲ 札幌公演",
+    "Thank you HOKKAIDO（ツアーの映像）"
+   ],
+   [
+    "l7yimVF0tvI",
+    "LIVE TOUR 2024 \"No.I\"",
+    "Live Blu-ray 本編Digest Movie"
+   ],
+   [
+    "87hzl3PcjyU",
+    "No.O -ring-",
+    "Live Blu-ray Full Edition Digest Movie"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "大手報道のライブレポートに載ったセットリストで、Number_iの単独の公演3つ（2024年6月 No.O -ring-・2024年12月 LIVE TOUR 2024 No.I ファイナル・2025年12月 LIVE TOUR 2025 No.Ⅱ ファイナル）を比べました。<strong>3公演すべてで歌われたのは7曲</strong>。No.Ⅲでも歌われるかは分かりませんが、予習の手がかりになります。No.Ⅲの札幌公演のライブレポートには「BUGS LIFE」「GOAT」「NUMBERS PT.2」が出てきます。",
+  "top": [
+   "FUJI",
+   "GOAT",
+   "No-Yes",
+   "i",
+   "BON",
+   "SQUARE_ONE",
+   "Midnight City"
+  ],
+  "two": "2公演で歌われたのは、OK Complex・花びらが舞う日に・Is it me?・Banana（Take It Lazy）・Blow Your Cover・Rain or Shine・INZM・JELLY・なんかHEAVEN・Numbers・iLY の11曲です。",
+  "sets": [
+   {
+    "title": "No.O -ring-（2024年6月20日 有明アリーナ）",
+    "parts": [
+     [
+      "本編",
+      "OK Complex／FUJI／GOAT／No-Yes／花びらが舞う日に／Is it me?／i／Banana（Take It Lazy）／BON／Blow Your Cover／Rain or Shine／SQUARE_ONE／GOAT"
+     ],
+     [
+      "アンコール",
+      "Midnight City／夢の続き（20日18:00公演のみダブルアンコールで「Be on Your side」）"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4307754",
+     ""
+    ]
+   },
+   {
+    "title": "LIVE TOUR 2024 No.I（2024年12月25日 さいたまスーパーアリーナ）",
+    "parts": [
+     [
+      "本編",
+      "INZM／GOAT／FUJI／SQUARE_ONE／Rain or Shine／Blow Your Cover／Recipe／Bye 24/7／JELLY／i／No-Yes／Midnight City／Banana (Take It Lazy)／なんかHEAVEN／透明になりたい／Streetlight／OK Complex／ICE／Numbers／BON"
+     ],
+     [
+      "アンコール",
+      "花びらが舞う日に／Is it me?／iLY"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4459951",
+     "昼公演"
+    ]
+   },
+   {
+    "title": "LIVE TOUR 2025 No.Ⅱ（2025年12月25日 さいたまスーパーアリーナ）",
+    "parts": [
+     [
+      "本編",
+      "HIRAKEGOMA／ATAMI／FUJI／INZM／幸せいっぱい腹一杯／Numbers Ur Zone／なんかHEAVEN／ロミジュリ／LOOP／SQUARE_ONE／Hard Life／2OMBIE／BON／KC Vibes／Numbers／ピンクストロベリーチョコレートフライデー／i／GOD_i／GOAT／未確認領域"
+     ],
+     [
+      "アンコール",
+      "LAVALAVA／No-Yes／Midnight City／JELLY／i-mode"
+     ],
+     [
+      "ダブルアンコール",
+      "iLY（12月25日18:30公演のみ）"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4702650",
+     "昼公演"
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "会場での販売",
+   "予約・整理券はいらず、公演のチケットがなくても買えます。1回の会計で1種類4点まで。現金・クレジットカード・PayPay・au PAY・d払い。前日からの徹夜・早朝からの待機は禁止。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせ（<a href=\"https://tobe-store.jp/blogs/information/108\" target=\"_blank\" rel=\"noopener\">公式ストアのお知らせ</a>）"
+  ],
+  [
+   "公式ストアの通販",
+   "2026年11月6日18:00から売り切れまで（11月10日から順に発送）。1種類4点まで（<a href=\"https://tobe-store.jp/blogs/information/111\" target=\"_blank\" rel=\"noopener\">公式ストアのお知らせ</a>）"
+  ],
+  [
+   "会場限定のCD特典",
+   "4thシングル「REBON / BUGS LIFE / DIGITAL GIRL」を会場で買うと特典（3形態でB2ポスターとステッカーセット、1形態でB2ポスター）。チケットがなくても買えます（<a href=\"https://tobe-official.jp/artists/number_i/news/2457\" target=\"_blank\" rel=\"noopener\">お知らせ</a>）"
+  ],
+  [
+   "ペンライト",
+   "ツアーの公式ペンライトは公式ストアの商品。座席の登録をして使います（上の「ペンライト」）"
+  ]
+ ],
+ "fc_note": "ファンクラブ「Number_i OFFICIAL FAN CLUB」はTOBE IDで入会します（<a href=\"https://tobe-community.jp/fc/number_i/account\" target=\"_blank\" rel=\"noopener\">公式ファンクラブ</a>）。ファンの呼び名は「iLYs」。ファンクラブのチケットは公式のリセールの対象です。",
+ "official_links": [
+  [
+   "公式サイト（TOBE）",
+   "https://tobe-official.jp/artists/number_i",
+   "お知らせ・公演情報・プロフィール"
+  ],
+  [
+   "公式ファンクラブ",
+   "https://tobe-community.jp/fc/number_i/account",
+   "FCの受付・Call Lecture Movie"
+  ],
+  [
+   "公式ストア",
+   "https://tobe-store.jp/",
+   "ペンライト・グッズの通販"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/@Number_i_official",
+   "Call Lecture・ライブ映像"
+  ],
+  [
+   "一般発売（主催）",
+   "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539",
+   "一般のチケット・注意事項"
+  ]
+ ],
+ "stay_text": "大阪・東京は<strong>平日の夜</strong>（18:30開演）、名古屋・福岡は週末と祝日の17:00開演です（名古屋の1月10日は12:30と19:00の2回）。終演の時刻は発表されていませんが、遠くから行く人や2日続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "matome_url": "/articles/2026/10/18/numberi-gourmet-matome/",
+ "sources": [
+  [
+   "TOBE公式（Number_i LIVE TOUR No.Ⅲ 公演情報）",
+   "https://tobe-official.jp/artists/number_i/concert/364"
+  ],
+  [
+   "主催 Live Nation H.I.P.（公演ページ：開場・開演・注意事項）",
+   "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539"
+  ],
+  [
+   "TOBE（ファンクラブ会員チケットのチケットガイド）",
+   "https://ticket.tobe-official.jp/op/mt_guide02.html"
+  ],
+  [
+   "TOBE（本人確認書類）",
+   "https://ticket.tobe-official.jp/op/id01.html"
+  ],
+  [
+   "TOBE公式（ガイドライン）",
+   "https://tobe-official.jp/guideline"
+  ],
+  [
+   "TOBEのチケットFAQ",
+   "https://ticketfaq.tobe-official.jp/"
+  ],
+  [
+   "TOBE STORE（[No.Ⅲ]オリジナルペンライト）",
+   "https://tobe-store.jp/products/4570204134352"
+  ],
+  [
+   "ペンライトの座席登録マニュアル",
+   "https://ruifan-rave.com/rave/Number_i_manual.html"
+  ],
+  [
+   "ペンライトの座席登録Q&A",
+   "https://ruifan-rave.com/rave/Number_i_qa.html"
+  ],
+  [
+   "TOBE STORE（会場販売・ペンライトの注意）",
+   "https://tobe-store.jp/blogs/information/108"
+  ],
+  [
+   "TOBE STORE（通販）",
+   "https://tobe-store.jp/blogs/information/111"
+  ],
+  [
+   "TOBE公式（会場限定のCD特典）",
+   "https://tobe-official.jp/artists/number_i/news/2457"
+  ],
+  [
+   "TOBE公式（Call Lecture Movie）",
+   "https://tobe-official.jp/artists/number_i/news/2458"
+  ],
+  [
+   "TOBE公式（プロフィール）",
+   "https://tobe-official.jp/artists/number_i/biography"
+  ],
+  [
+   "モデルプレス（No.O -ring- セットリスト）",
+   "https://mdpr.jp/music/detail/4307754"
+  ],
+  [
+   "モデルプレス（No.I ファイナル セットリスト）",
+   "https://mdpr.jp/music/detail/4459951"
+  ],
+  [
+   "モデルプレス（No.Ⅱ ファイナル セットリスト）",
+   "https://mdpr.jp/music/detail/4702650"
+  ],
+  [
+   "THE FIRST TIMES（No.Ⅲ 開幕のライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000905956/"
+  ]
+ ],
+ "summary": [
+  "これからの公演は 京セラドーム大阪 2026年12月2日（水）・東京ドーム 12月9日（水）・10日（木）（開場16:30・開演18:30）、バンテリンドーム ナゴヤ 2027年1月9日〜11日・みずほPayPayドーム福岡 1月16日・17日（開場15:00・開演17:00。名古屋の1月10日は2回公演）",
+  "来場する全員がTOBE ID（無料）を取り、MOALAと連携。入場はスマホの二次元コード（VIP GOLD席は顔認証）。本人確認があることもあるので書類を持っていく",
+  "ツアーの公式ペンライトは無線で色が変わる演出つきで、公演ごとに専用アプリで座席を登録。公式グッズでない光るものは持ち込めない",
+  "公式YouTubeにコールの練習動画「Call Lecture」（NUMBERS PT.2・幸せいっぱい腹一杯・ATAMI）。過去の単独公演3つすべてで歌われた曲は7曲",
+  "グッズは会場で予約・整理券なし（チケットがなくても買える）と、公式ストアの通販"
+ ],
+ "faq": [
+  [
+   "Number_iのライブの開場・開演は何時ですか？",
+   "京セラドーム大阪（2026年12月2日）・東京ドーム（12月9日・10日）は開場16:30・開演18:30、バンテリンドーム ナゴヤ（2027年1月9日・11日）とみずほPayPayドーム福岡（1月16日・17日）は開場15:00・開演17:00です。名古屋の1月10日は2回公演（開場10:30・開演12:30と、開場17:00・開演19:00）。主催（Live Nation H.I.P.）の公演ページより。終演の時刻は発表されていません。"
+  ],
+  [
+   "入場に必要なものは？",
+   "入場の二次元コードを出すスマホと、本人確認書類です。ファンクラブのチケットは、来場する全員がTOBE ID（無料）を取ってMOALAのアカウントと連携し、MOALA Ticket（ブラウザ）で二次元コードを出します。VIP GOLD席は顔認証で入場します。"
+  ],
+  [
+   "本人確認書類は何がいいですか？",
+   "顔写真付きのもの（パスポート・運転免許証・マイナンバーカード・顔写真付きの学生証など）なら1点。顔写真のないもの（資格確認書・住民票・学生証など）は2点です。原本だけで、コピーや期限切れは使えません。名前はTOBE IDの登録と同じものにします。"
+  ],
+  [
+   "チケットはどう申し込みますか？",
+   "ファンクラブの受付と、主催（Live Nation H.I.P.）の一般発売などがあります。受付の種類と期間は「Number_i LIVE TOUR No.III まとめ」の「チケットの受付」にまとめています。チケットの譲渡・転売は禁止されていて、転売サイトのチケットは入場が保証されません。"
+  ],
+  [
+   "ペンライトはどんなものを持っていけばいいですか？",
+   "ツアーの公式ペンライト「[No.Ⅲ]オリジナルペンライト」です。無線で色が変わる演出があり、公演ごとに専用アプリで座席を登録します。これまでの公式ペンライトと「3XL」ハートのペンダントはライトを消せば持ち込めます。公式グッズでない光るものは持ち込めません。"
+  ],
+  [
+   "コールはありますか？",
+   "公式YouTubeに、このツアー向けのコールの練習動画「Call Lecture」（NUMBERS PT.2・幸せいっぱい腹一杯・ATAMI）があります。ファンクラブ会員向けの「Call Lecture Movie」もあります。"
+  ],
+  [
+   "子どもも入れますか？",
+   "3歳以上はチケットが必要です。2歳以下で席がいらない場合は、保護者1人につき1人まで膝の上で見られます（主催の注意事項より）。"
+  ],
+  [
+   "グッズはどこで買えますか？",
+   "会場の販売（予約・整理券なし、チケットがなくても買える。1種類4点まで）と、公式ストアの通販です。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせされます。"
+  ]
+ ]
+}

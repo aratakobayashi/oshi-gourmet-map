@@ -105,6 +105,8 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
+<p class="first-live">はじめてNumber_iのライブに行くなら：<a href="/guide/numberi-first-live/">ナンバーアイのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
+
 <p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}">ナンバーアイ LIVE TOUR No.III 2026-2027まとめ</a></p>
 
 <h2 id="date">公演の日程</h2>
@@ -228,6 +230,7 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
 
 <ul>
   <li><a href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="/guide/numberi-first-live/">ナンバーアイのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
   <li><a href="{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}">ナンバーアイ LIVE TOUR No.III 2026-2027まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.numberi.u }}">Number_iのお店一覧</a>（グループのページ）</li>
 </ul>
