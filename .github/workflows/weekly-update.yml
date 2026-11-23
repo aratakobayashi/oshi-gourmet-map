@@ -50,6 +50,10 @@ jobs:
           HOTPEPPER_API_KEY: ${{ secrets.HOTPEPPER_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
+      - name: ライブのページの見直し（チケットの受付・未発表・セトリ。Summary に出す）
+        continue-on-error: true
+        run: python scripts/live_freshness.py
+
       - name: ページを作る
         if: steps.run.outputs.added != '0'
         run: bash scripts/build_pages.sh --no-commit

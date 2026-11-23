@@ -92,7 +92,7 @@ def build(gid):
     ckl = f'{d["checked_at"][:4]}年{int(d["checked_at"][5:7])}月{int(d["checked_at"][8:])}日'
     b = [f'<div class="pf fl" style="--pc:{color}">', hero(d, shows)]
     jumps = [('entry', '🎫 入場'), ('flow', '🕓 当日の流れ'), ('seats', '💺 席'), ('rules', '🙅 決まり'), ('penlight', '🔦 ペンライト'),
-             ('call', '📣 コール'), ('setlist', '🎵 定番曲'), ('goods', '🛍 グッズ'), ('venue', '🏟 会場'), ('stay', '🛏 泊まる')]
+             ('call', '📣 コール'), ('setlist', '🎵 定番曲'), ('goods', '🛍 グッズ'), ('venue', '🏟 会場と宿')]
     if not d.get('seats'):
         jumps = [j for j in jumps if j[0] != 'seats']
     b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
@@ -183,30 +183,25 @@ def build(gid):
     if d.get('fc_note'):
         b.append(f'<p class="note">{d["fc_note"]}</p>')
 
-    b.append('<h2 id="venue">🏟 会場のポイント</h2>')
+    # 会場と泊まる場所（会場の細かい案内・近い宿の一覧は、参戦ガイド・会場のホテルのページにある。ここは入口だけにして同じ中身を繰り返さない）
+    b.append('<h2 id="venue">🏟 会場と泊まる場所</h2>')
+    b.append(f'<p id="stay">{d["stay_text"]}</p>')
     for sh in shows:
         key = sh['venue_key']
         vname = venues[key]['name']
-        pts = guide_summary(key)[:4]
-        live = ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + d['group'] + '\' and p.venue_key == \'' + key +
-                '\' %}<a class="btn" href="{{ p.url }}">' + esc(name) + ' ' + esc(vname) + '公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}')
-        b.append(f'<div class="fl-venue">\n  <p class="fl-venue__h"><b>{esc(vname)}</b><span>{jdate(sh["dates"])}</span></p>\n'
-                 + ('  <ul>' + ''.join(f'<li>{esc(x)}</li>' for x in pts) + '</ul>\n' if pts else '')
-                 + f'  <div class="btn-row">{live}<a class="btn" href="/guide/{key}/">{esc(vname)} ライブ参戦ガイド</a></div>\n</div>')
-    b.append(f'{{% include live-list.html group="{d["group"]}" title="{esc(name)}のこれからの公演（参戦ガイド）" %}}')
-
-    b.append('<h2 id="stay">🛏 公演の日に泊まる</h2>')
-    b.append(f'<p>{d["stay_text"]}</p>')
-    for sh in shows:
-        key = sh['venue_key']
         vn = vnear.get(key) or {}
-        hk, hj = vn.get('hk') or venues[key]['name'], vn.get('hj') or ''
-        b.append(f'<h3 class="fl-h3" id="stay-{key}">{esc(venues[key]["name"])}（{jdate(sh["dates"])}）</h3>')
-        b.append('<div class="stay-in">\n  <p class="stay-in__h"><span aria-hidden="true">🛏</span> ' + esc(hk) + '周辺に泊まる<small class="stay-in__pr">PR</small></p>\n  <div class="btn-row">\n'
-                 + (f'    {{% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={hj}" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}}\n' if hj else '')
-                 + f'    {{% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={urllib.parse.quote(hk)}" label="楽天トラベルで探す" class="btn" service="rakuten" %}}\n'
-                 '  </div>\n</div>')
-        b.append(f'{{% include venue-hotels.html key="{key}" limit=3 top=true %}}{{% include hotels-link.html key="{key}" %}}')
+        hk, hj = vn.get('hk') or vname, vn.get('hj') or ''
+        live = ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + d['group'] + '\' and p.venue_key == \'' + key +
+                '\' %}<a class="btn" href="{{ p.url }}">' + esc(name) + ' ' + esc(vname) + '公演 参戦ガイド（座席・アクセス・近い宿）</a>{% endif %}{% endfor %}')
+        hotels = (f'<a class="btn" href="/guide/{key}/hotels/">{esc(vname)}の近くのホテル（最寄り駅ごと）</a>'
+                  if os.path.exists(os.path.join(ROOT, '_guides', f'{key}-hotels.html')) else '')
+        b.append(f'<div class="fl-venue" id="stay-{key}">\n  <p class="fl-venue__h"><b>{esc(vname)}</b><span>{jdate(sh["dates"])}</span></p>\n'
+                 f'  <div class="btn-row">{live}{hotels}<a class="btn" href="/guide/{key}/">{esc(vname)} ライブ参戦ガイド</a></div>\n'
+                 '  <div class="stay-in">\n    <p class="stay-in__h"><span aria-hidden="true">🛏</span> ' + esc(hk) + '周辺に泊まる<small class="stay-in__pr">PR</small></p>\n    <div class="btn-row">\n'
+                 + (f'      {{% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={hj}" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}}\n' if hj else '')
+                 + f'      {{% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={urllib.parse.quote(hk)}" label="楽天トラベルで探す" class="btn" service="rakuten" %}}\n'
+                 '    </div>\n  </div>\n</div>')
+    b.append(f'{{% include live-list.html group="{d["group"]}" title="{esc(name)}のこれからの公演（参戦ガイド）" %}}')
 
     b.append(f'<h2 id="seichi">🍽 ライブの前後に、メンバーが行ったお店へ</h2>')
     b.append(f'<p>{esc(name)}のメンバーが番組やYouTubeで訪れたお店を、このサイトで{{{{ site.data.group_ix.{d["group"]}.n }}}}軒載せています。会場の近くのお店は、各公演の参戦ガイドの「会場の近くの{esc(name)}の聖地」にまとめています。</p>')

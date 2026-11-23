@@ -222,6 +222,14 @@ thumbnail: /assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}">ENHYPEN 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🍽 会場の近くのENHYPENの聖地（10km以内に9軒）</h3>
+
+<ul class="wrs"><li class="wr">{% include wr-open.html id="kpop_enhypen-8255968b-" %}<span class="wr__k"></span><b class="wr__name">新大久保 トシオブ韓国料理屋韓国刺身専門店</b><span class="wr__t">「ENHYPEN」（新宿区 大久保・会場から約4.1km）</span>{% include wr-close.html id="kpop_enhypen-8255968b-" %}</li><li class="wr">{% include wr-open.html id="kpop_enhypen-b21f31cf-" %}<span class="wr__k"></span><b class="wr__name">鳴門鯛焼本舗 新橋駅前店</b><span class="wr__t">『ENHYPEN（ジェイクとソンフンの日本Vlog関連）』／ソンフン・ジェイク（港区 新橋・会場から約4.3km）</span>{% include wr-close.html id="kpop_enhypen-b21f31cf-" %}</li><li class="wr">{% include wr-open.html id="kpop_enhypen-255c5e9a-" %}<span class="wr__k"></span><b class="wr__name">おにやんま 新橋店</b><span class="wr__t">「ENHYPEN」／ソンフン・ジェイク（港区 新橋・会場から約4.5km）</span>{% include wr-close.html id="kpop_enhypen-255c5e9a-" %}</li></ul>
+
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの6軒も参戦ガイドで見る</a></p>
+
+<h3 class="fl-h3">🛏 東京ドームの近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -232,8 +240,6 @@ thumbnail: /assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p class="tl-seichi">🍽 会場から10km以内に、ENHYPENのメンバーが行ったお店が<b>9軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
-
 <h2 id="v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ（2026年12月26日（土）・27日（日））</h2>
 
 <div class="fl-venue">
@@ -241,6 +247,8 @@ thumbnail: /assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb.webp
   <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-12-27' %}{{ p.url }}{% endif %}{% endfor %}">ENHYPEN バンテリンドーム ナゴヤ公演 参戦ガイド</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 バンテリンドーム ナゴヤの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -260,6 +268,8 @@ thumbnail: /assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-02-07' %}{{ p.url }}{% endif %}{% endfor %}">ENHYPEN みずほPayPayドーム福岡公演 参戦ガイド</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🛏 みずほPayPayドーム福岡の近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -277,6 +287,8 @@ thumbnail: /assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb.webp
   <ul><li>最寄り駅は 地下鉄長堀鶴見緑地線のドーム前千代崎駅と阪神なんば線のドーム前駅（どちらも徒歩すぐ）。JR大正駅・地下鉄中央線の九条駅からも歩ける</li><li>入場ゲートは3F。2Fのスタジアムモールからは球場内に直接入れないので、外の階段やエレベーターで3Fへ</li><li>飲食物の持ち込みは遠慮するよう案内あり。危険物・ペット・ビン・缶・凍らせたものや1,000mlを超えるペットボトル・クーラーボックスは持ち込めない</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'kpop_enhypen' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-02-20' %}{{ p.url }}{% endif %}{% endfor %}">ENHYPEN 京セラドーム大阪公演 参戦ガイド</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 京セラドーム大阪の近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>

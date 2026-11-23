@@ -90,6 +90,12 @@ thumbnail: /assets/img/posts/snowman-vantelin-dome-nagoya-2026-11/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。Snow Manのこれからの公演は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="snowman" title="Snow Manのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2026年11月26日（木）・27日（金）・28日（土）・29日（日）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-26" data-e="2026-11-29"><b>公演日</b>2026年11月26日（木）・27日（金）・28日（土）・29日（日）</p>

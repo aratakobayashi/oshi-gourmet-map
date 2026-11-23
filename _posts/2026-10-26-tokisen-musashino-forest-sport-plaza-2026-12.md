@@ -71,6 +71,12 @@ thumbnail: /assets/img/posts/tokisen-musashino-forest-sport-plaza-2026-12/thumb.
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。超ときめき♡宣伝部のこれからの公演は<a href="https://toki-sen.com/contents/1120611" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="tokisen" title="超ときめき♡宣伝部のこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>超ときめき♡宣伝部</strong>『超ときめき♡宣伝部のどきどきクリスマスパーティー 2026』の<strong>京王アリーナTOKYO</strong>公演は、<strong>2026年12月12日（土）・13日（日）</strong>です（<a href="https://toki-sen.com/contents/1120611" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、京王アリーナTOKYOへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、超ときめき♡宣伝部のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-12" data-e="2026-12-13"><b>公演日</b>2026年12月12日（土）・13日（日）</p>

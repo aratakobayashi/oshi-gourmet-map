@@ -78,6 +78,12 @@ thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。木村拓哉のこれからの公演は<a href="https://www.oricon.co.jp/news/2457592/full/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="kimura" title="木村拓哉のこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>木村拓哉</strong>『TAKUYA KIMURA Live Tour 2026 Checkpoint』の<strong>LaLa arena TOKYO-BAY</strong>公演は、<strong>2026年11月21日（土）・22日（日）・23日（月）</strong>です（<a href="https://www.oricon.co.jp/news/2457592/full/" target="_blank" rel="noopener">発表を伝える記事</a>・2026年10月26日時点）。この記事では、LaLa arena TOKYO-BAYへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、木村拓哉のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-21" data-e="2026-11-23"><b>公演日</b>2026年11月21日（土）・22日（日）・23日（月）</p>

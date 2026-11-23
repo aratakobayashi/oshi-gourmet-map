@@ -80,6 +80,12 @@ thumbnail: /assets/img/posts/chotokkyu-tokyo-dome-2026-11/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。超特急のこれからの公演は<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="chotokkyu" title="超特急のこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>超特急</strong>『超特急 BULLET TRAIN 1st DOME LIVE Signal』の<strong>東京ドーム</strong>公演は、<strong>2026年11月25日（水）・26日（木）</strong>です（<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、超特急のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-25" data-e="2026-11-26"><b>公演日</b>2026年11月25日（水）・26日（木）</p>

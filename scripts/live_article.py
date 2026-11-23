@@ -175,9 +175,13 @@ def build(slug, ctx):
     vname = v['name']
     lat, lng = v['lat'], v['lng']
     dates = sorted(spec['dates'])
-    if dates[-1] < TODAY:
+    ended = dates[-1] < TODAY
+    if ended and not old_date(slug):
         print(slug, '終わった公演なので作らない')
-        return None
+        return None   # 終わった公演でも、記事がすでにあれば「公演のあと」の章（セトリ・次の公演）を足して作り直す
+    setls = spec.get('setlist') or []
+    if isinstance(setls, dict):
+        setls = [setls]
     times = spec.get('times') or {}
     dl = dlabel(dates)
     ck = spec['checked_at']
@@ -234,6 +238,8 @@ def build(slug, ctx):
     gl_t = f'{gl}（{AKA[g]}）' if g in AKA else gl
     # 題名は検索結果で見える前の30字ほどに「グループ・会場・年・参戦ガイド」を入れる（日付は説明文と本文に）
     title = f'{gl_t} {vname}公演{dates[0][:4]} 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地'
+    if ended and setls:   # 公演のあとは「セトリ」で探す人が多いので、題名の前の方にセトリを
+        title = f'{gl_t} {vname}公演{dates[0][:4]} セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地'
     tname = f'『{tour}』' if tour.startswith(gl) else f'{gl}『{tour}』'
     shrine = (f'会場から{r:.0f}km以内に{gl}のメンバーが行ったお店が{len(rows)}軒' if rows else
               (f'{vpref}にある{gl}の聖地{len(pref_rows)}軒' if pref_rows else '会場の近くのほかの推しの聖地'))
@@ -289,13 +295,30 @@ def build(slug, ctx):
     b = [f'<div class="pf" style="--pc:{color}">', '']
     b.append(f'{{% assign _today = site.time | date: "%Y-%m-%d" %}}{{% if _today > page.live_end %}}<p class="notice">この公演は終わりました。{gl}のこれからの公演は'
              f'<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{{% endif %}}')
+    # 公演のあと（終わった日のあとに作り直したページと、作ったあとに公演が終わったページの両方で出る）
+    aft = [f'{{% if _today > page.live_end %}}<section class="after-show" id="after">', f'<h2>🎵 公演のあと（セトリ・次の公演）</h2>']
+    if setls:
+        for st in setls:
+            lab, url = st['src']
+            aft.append(f'<details class="setl">\n  <summary>{T.esc(st["title"])}のセットリスト（ネタバレ注意）</summary>\n'
+                       + '\n'.join(f'  <p><b>{T.esc(k)}</b>：{T.esc(v)}</p>' for k, v in st['parts'])
+                       + f'\n  <p class="note">出典：<a href="{T.esc(url)}" target="_blank" rel="noopener">{T.esc(lab)}</a></p>\n</details>')
+    else:
+        aft.append('<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>')
+    for t_, x_, u_ in spec.get('after') or []:
+        aft.append(f'<p><b>{T.esc(t_)}</b>：{T.esc(x_)}（<a href="{T.esc(u_)}" target="_blank" rel="noopener">公式のお知らせ</a>）</p>')
+    if hub:
+        aft.append(f'<p class="first-live">ほかの会場の日程・セトリは：<a href="{{% for p in site.posts %}}{{% if p.slug == \'{hub["slug"]}\' %}}{{{{ p.url }}}}{{% endif %}}{{% endfor %}}">{aka_or} {hub["title_core"]}まとめ</a></p>')
+    aft.append(f'{{% include live-list.html group="{g}" title="{T.esc(gl)}のこれからの公演" %}}')
+    aft.append('</section>{% endif %}')
+    b.append('\n'.join(aft))
     b.append(f'<p><strong>{gl}</strong>『{T.esc(tour)}』の<strong>{T.esc(vname)}</strong>公演は、<strong>{dl}</strong>です'
              f'（<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{olink}</a>・{ckl}時点）。'
              f'この記事では、{T.esc(vname)}への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、'
              f'{gl}のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>')
     # 公演までの日数（app.js が data-d から書き換える。JSが動かなくても日程が読める）と、章へのボタン
     b.append(f'<p class="live-cd" data-d="{dates[0]}" data-e="{dates[-1]}"><b>公演日</b>{dl}</p>')
-    jumps = [('date', '日程')] + ([('tickets', 'チケット')] if spec.get('tickets') else []) + [('access', '行き方')] + ([('seats', '座席')] if tiers else []) \
+    jumps = ([('after', 'セトリ')] if ended else []) + [('date', '日程')] + ([('tickets', 'チケット')] if spec.get('tickets') else []) + [('access', '行き方')] + ([('seats', '座席')] if tiers else []) \
         + ([('rules', '持ち込み')] if (rules or prep) else []) + [('stay', '泊まる'), ('seichi', '近くの聖地')]
     b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
     b.append(stay_box(vname, hk, hj, top=True))

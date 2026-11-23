@@ -59,6 +59,12 @@ thumbnail: /assets/img/posts/angerme-pia-arena-mm-2026-12/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。アンジュルムのこれからの公演は<a href="https://www.helloproject.com/event/74b3f7024b660b2919bcaab4a6eefb3deb626e7b8f5003a3eab95291384befd6/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="angerme" title="アンジュルムのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>アンジュルム</strong>『アンジュルム 2026秋 FINAL 風林火山・極』の<strong>ぴあアリーナMM</strong>公演は、<strong>2026年12月2日（水）</strong>です（<a href="https://www.helloproject.com/event/74b3f7024b660b2919bcaab4a6eefb3deb626e7b8f5003a3eab95291384befd6/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、アンジュルムのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-02" data-e="2026-12-02"><b>公演日</b>2026年12月2日（水）</p>
