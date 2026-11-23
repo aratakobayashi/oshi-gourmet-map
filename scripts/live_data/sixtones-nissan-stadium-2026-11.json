@@ -21,5 +21,28 @@
   "2026-11-21": "開演16:30",
   "2026-11-22": "開演16:30"
  },
- "note": "公式ページに年の表記はないが、曜日（11月7日(土)・11月21日(土)）が2026年と一致。東京・味の素スタジアム（9/19・9/20）は終了済みのため除外。"
+ "note": "公式ページに年の表記はないが、曜日（11月7日(土)・11月21日(土)）が2026年と一致。東京・味の素スタジアム（9/19・9/20）は終了済みのため除外。",
+ "setlist": [
+  {
+   "title": "11月22日公演",
+   "parts": [
+    [
+     "本編",
+     "overture／アンセム／ABARERO -Dark Electro Rock Remix-／PUNK STAR／こっから／彗星の空／一秒／マイオンリー／キカナイ／Special Order／Play the game／希望の唄／Fiesta／ALL STAR STATUS／Flower Cloud／朱夏／Merry-Go-Round／LIKE THAT／Need You／Call me／ABRACADABRA／メドレー（Bang Bang Bangin’・Waves Crash・Dance All Night・DON-DON-DON・HANDS UP・SHOCK ME・WHIP THAT）／Bring The Bass／Beyond the line"
+    ],
+    [
+     "アンコール",
+     "S.I.X／BE CRAZY／この星のHIKARI／Dance Forever"
+    ],
+    [
+     "ダブルアンコール",
+     "Good Luck!"
+    ]
+   ],
+   "src": [
+    "モデルプレス（2026年11月23日のライブレポート）",
+    "https://mdpr.jp/music/detail/4881549"
+   ]
+  }
+ ]
 }

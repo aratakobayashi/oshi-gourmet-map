@@ -298,10 +298,10 @@ def build(slug, ctx):
     # 公演のあと（終わった日のあとに作り直したページと、作ったあとに公演が終わったページの両方で出る）
     aft = [f'{{% if _today > page.live_end %}}<section class="after-show" id="after">', f'<h2>🎵 公演のあと（セトリ・次の公演）</h2>']
     if setls:
-        for st in setls:
-            lab, url = st['src']
-            aft.append(f'<details class="setl">\n  <summary>{T.esc(st["title"])}のセットリスト（ネタバレ注意）</summary>\n'
-                       + '\n'.join(f'  <p><b>{T.esc(k)}</b>：{T.esc(v)}</p>' for k, v in st['parts'])
+        for sl_ in setls:
+            lab, url = sl_['src']
+            aft.append(f'<details class="setl">\n  <summary>{T.esc(sl_["title"])}のセットリスト（ネタバレ注意）</summary>\n'
+                       + '\n'.join(f'  <p><b>{T.esc(k)}</b>：{T.esc(v)}</p>' for k, v in sl_['parts'])
                        + f'\n  <p class="note">出典：<a href="{T.esc(url)}" target="_blank" rel="noopener">{T.esc(lab)}</a></p>\n</details>')
     else:
         aft.append('<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>')

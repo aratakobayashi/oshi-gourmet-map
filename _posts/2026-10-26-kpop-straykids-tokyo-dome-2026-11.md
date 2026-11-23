@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stray Kids（スキズ） 東京ドーム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: Stray Kids（スキズ） 東京ドーム公演2026 セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
@@ -89,7 +89,13 @@ thumbnail: /assets/img/posts/kpop-straykids-tokyo-dome-2026-11/thumb.webp
 
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
-<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<details class="setl">
+  <summary>11月8日公演（千秋楽）のセットリスト（ネタバレ注意）</summary>
+  <p><b>本編</b>：Hall of Fame／Hellevator／District 9／Side Effects／Double Knot／Back Door／MANIAC／God’s Menu／CREED／SLASH／DIVINE／Thunderous／just a little／Lonely Night／I Do／BLIND SPOT／SUIATSU／Do It／LALALALA／CEREMONY (Hip Hip Version)／Chk Chk Boom -Japanese ver.-／S-Class／RUN IT</p>
+  <p><b>アンコール</b>：Stray Kids／Phoenix／CASE 143 -Japanese ver.-／宿命／Social Path (feat. LiSA)／MIROH</p>
+  <p><b>ダブルアンコール</b>：Christmas Love (Party Version)／FAM</p>
+  <p class="note">出典：<a href="https://realsound.jp/2026/11/post-2583012.html" target="_blank" rel="noopener">Real Sound（2026年11月14日のライブレポート。本文に出てくる順・全31曲）</a></p>
+</details>
 {% include live-list.html group="kpop_straykids" title="Stray Kidsのこれからの公演" %}
 </section>{% endif %}
 
