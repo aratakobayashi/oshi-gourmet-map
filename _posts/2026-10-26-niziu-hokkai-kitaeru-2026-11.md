@@ -59,6 +59,12 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。NiziUのこれからの公演は<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="niziu" title="NiziUのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>NiziU</strong>『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の<strong>北海きたえーる</strong>公演は、<strong>2026年11月28日（土）</strong>です（<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、北海きたえーるへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、NiziUのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-28" data-e="2026-11-28"><b>公演日</b>2026年11月28日（土）</p>

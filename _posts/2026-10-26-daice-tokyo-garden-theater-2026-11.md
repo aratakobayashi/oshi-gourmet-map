@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Da-iCE 東京ガーデンシアター公演 参戦ガイド（2026年11月17日・18日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: Da-iCE 東京ガーデンシアター公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Da-iCE DAY HALL PHASE 2026』の東京ガーデンシアター公演（2026年11月17日（火）・18日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -45,6 +45,19 @@ summary:
 - 『Da-iCE DAY HALL PHASE 2026』の東京ガーデンシアター公演は2026年11月17日（火）・18日（水）（2026年10月26日時点の公式発表）
 - 最寄り駅はゆりかもめ 有明駅（2B出口・徒歩4分）。ゆりかもめ 有明テニスの森駅からは2A出口・徒歩5分
 - 会場の近くのほかの推しの聖地
+events:
+- name: Da-iCE DAY HALL PHASE 2026
+  date: '2026-11-17'
+  start: '19:00'
+  door: '18:00'
+  venue_key: tokyo-garden-theater
+  url: https://da-ice.jp/schedule/tour.php?id=1003063&fdate=2026-10-13&ldate=2026-12-15
+- name: Da-iCE DAY HALL PHASE 2026
+  date: '2026-11-18'
+  start: '18:30'
+  door: '17:30'
+  venue_key: tokyo-garden-theater
+  url: https://da-ice.jp/schedule/tour.php?id=1003063&fdate=2026-10-13&ldate=2026-12-15
 thumbnail: /assets/img/posts/daice-tokyo-garden-theater-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#2563eb">
@@ -53,11 +66,17 @@ thumbnail: /assets/img/posts/daice-tokyo-garden-theater-2026-11/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。Da-iCEのこれからの公演は<a href="https://da-ice.jp/schedule/tour.php?id=1003063&amp;fdate=2026-10-13&amp;ldate=2026-12-15" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="daice" title="Da-iCEのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>Da-iCE</strong>『Da-iCE DAY HALL PHASE 2026』の<strong>東京ガーデンシアター</strong>公演は、<strong>2026年11月17日（火）・18日（水）</strong>です（<a href="https://da-ice.jp/schedule/tour.php?id=1003063&amp;fdate=2026-10-13&amp;ldate=2026-12-15" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ガーデンシアターへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Da-iCEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-17" data-e="2026-11-18"><b>公演日</b>2026年11月17日（火）・18日（水）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#after">セトリ</a><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ガーデンシアター周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>

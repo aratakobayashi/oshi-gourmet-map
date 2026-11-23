@@ -77,6 +77,12 @@ thumbnail: /assets/img/posts/momoclo-ariake-arena-2027-05/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。ももいろクローバーZのこれからの公演は<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="momoclo" title="ももいろクローバーZのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>ももいろクローバーZ</strong>『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』の<strong>有明アリーナ</strong>公演は、<strong>2027年5月8日（土）・9日（日）</strong>です（<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、有明アリーナへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ももいろクローバーZのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-05-08" data-e="2027-05-09"><b>公演日</b>2027年5月8日（土）・9日（日）</p>

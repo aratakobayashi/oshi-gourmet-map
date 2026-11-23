@@ -73,6 +73,12 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。&TEAMのこれからの公演は<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="kpop_andteam" title="&amp;TEAMのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>&TEAM</strong>『2026-2027 &amp;TEAM CONCERT TOUR 'Mark on You'』の<strong>ぴあアリーナMM</strong>公演は、<strong>2027年2月13日（土）・14日（日）</strong>です（<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、&TEAMのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-13" data-e="2027-02-14"><b>公演日</b>2027年2月13日（土）・14日（日）</p>

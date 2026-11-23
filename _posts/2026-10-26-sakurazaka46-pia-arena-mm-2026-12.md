@@ -69,6 +69,12 @@ thumbnail: /assets/img/posts/sakurazaka46-pia-arena-mm-2026-12/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。櫻坂46のこれからの公演は<a href="https://sakurazaka46.com/s/s46/news/detail/T00006" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="sakurazaka46" title="櫻坂46のこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>櫻坂46</strong>『櫻坂46 16th Single BACKS LIVE!!』の<strong>ぴあアリーナMM</strong>公演は、<strong>2026年12月15日（火）・16日（水）</strong>です（<a href="https://sakurazaka46.com/s/s46/news/detail/T00006" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、櫻坂46のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-15" data-e="2026-12-16"><b>公演日</b>2026年12月15日（火）・16日（水）</p>

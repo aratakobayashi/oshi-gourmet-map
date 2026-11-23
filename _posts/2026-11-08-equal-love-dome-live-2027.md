@@ -149,6 +149,14 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'equal_love' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-20' %}{{ p.url }}{% endif %}{% endfor %}">=LOVE 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🍽 会場の近くの=LOVEの聖地（3km以内に5軒）</h3>
+
+<ul class="wrs"><li class="wr">{% include wr-open.html id="equal_love-1_deli_dish-20260320" %}<span class="wr__k">2026.3</span><b class="wr__name">ラクーア 1階フードゾーン DELI&amp;DISH</b><span class="wr__t">「【爆食】2人でたくさん食べてたくさんはしゃぎました❣️inラクーア🎡」／齋藤樹愛羅・野口衣織（文京区 春日・会場から約330m）</span>{% include wr-close.html id="equal_love-1_deli_dish-20260320" %}</li><li class="wr">{% include wr-open.html id="equal_love-85f871ac-202512" %}<span class="wr__k">2025.12</span><b class="wr__name">らーめん ぽっぽっ屋 水道橋店</b><span class="wr__t">「【二郎系ラーメン】愛してやまないみりにゃの推し麺【ぽっぽっ屋】」／大谷映美里（千代田区 神田三崎町・会場から約590m）</span>{% include wr-close.html id="equal_love-85f871ac-202512" %}</li><li class="wr">{% include wr-open.html id="equal_love-zero-202511" %}<span class="wr__k">2025.11</span><b class="wr__name">沼津港海将 zero 上野店</b><span class="wr__t">「【はしご酒】さなつんが上野に上陸🍻楽しく好きなだけ飲みました！！！【重大発表あり…」／諸橋沙夏（台東区 上野・会場から約2.2km）</span>{% include wr-close.html id="equal_love-zero-202511" %}</li></ul>
+
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'equal_love' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-20' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの2軒も参戦ガイドで見る</a></p>
+
+<h3 class="fl-h3">🛏 東京ドームの近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -159,8 +167,6 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p class="tl-seichi">🍽 会場から3km以内に、=LOVEのメンバーが行ったお店が<b>5軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'equal_love' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-20' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
-
 <h2 id="v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ（2027年2月24日（水）・25日（木））</h2>
 
 <div class="fl-venue">
@@ -168,6 +174,8 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
   <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'equal_love' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-02-25' %}{{ p.url }}{% endif %}{% endfor %}">=LOVE バンテリンドーム ナゴヤ公演 参戦ガイド</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 バンテリンドーム ナゴヤの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>

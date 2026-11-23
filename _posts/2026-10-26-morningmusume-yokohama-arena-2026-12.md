@@ -59,6 +59,12 @@ thumbnail: /assets/img/posts/morningmusume-yokohama-arena-2026-12/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。モーニング娘。'26のこれからの公演は<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+{% include live-list.html group="morningmusume" title="モーニング娘。'26のこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>モーニング娘。'26</strong>『モーニング娘。'26 コンサートツアー秋「超 Heartful 11 コスモス」～小田さくら FINAL～』の<strong>横浜アリーナ</strong>公演は、<strong>2026年12月11日（金）</strong>です（<a href="https://www.helloproject.com/event/57f5f6309ba8fc283f7a87a46b6b3afc4f889b30973fb5789e340397780b9ed7/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、横浜アリーナへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、モーニング娘。'26のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-11" data-e="2026-12-11"><b>公演日</b>2026年12月11日（金）</p>

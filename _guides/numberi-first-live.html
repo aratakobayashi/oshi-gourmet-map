@@ -82,7 +82,7 @@ faq:
   <p class="fl-hero__src"><a href="https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539" target="_blank" rel="noopener">主催（Live Nation H.I.P.）の公演ページ</a>より（2026年11月23日確認）。終演の時刻は未発表</p>
 </section>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#entry">🎫 入場</a><a class="chip chip--area" href="#flow">🕓 当日の流れ</a><a class="chip chip--area" href="#seats">💺 席</a><a class="chip chip--area" href="#rules">🙅 決まり</a><a class="chip chip--area" href="#penlight">🔦 ペンライト</a><a class="chip chip--area" href="#call">📣 コール</a><a class="chip chip--area" href="#setlist">🎵 定番曲</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#venue">🏟 会場</a><a class="chip chip--area" href="#stay">🛏 泊まる</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#entry">🎫 入場</a><a class="chip chip--area" href="#flow">🕓 当日の流れ</a><a class="chip chip--area" href="#seats">💺 席</a><a class="chip chip--area" href="#rules">🙅 決まり</a><a class="chip chip--area" href="#penlight">🔦 ペンライト</a><a class="chip chip--area" href="#call">📣 コール</a><a class="chip chip--area" href="#setlist">🎵 定番曲</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#venue">🏟 会場と宿</a></nav>
 
 <p>Number_i（ナンバーアイ）のライブに、はじめて行く人のためのページです。入場のしかた、本人確認、席の種類、無線で光るペンライトの座席登録、コール、定番曲、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました（2026年11月23日時点）。</p>
 
@@ -212,85 +212,59 @@ faq:
 
 <p class="note">ファンクラブ「Number_i OFFICIAL FAN CLUB」はTOBE IDで入会します（<a href="https://tobe-community.jp/fc/number_i/account" target="_blank" rel="noopener">公式ファンクラブ</a>）。ファンの呼び名は「iLYs」。ファンクラブのチケットは公式のリセールの対象です。</p>
 
-<h2 id="venue">🏟 会場のポイント</h2>
+<h2 id="venue">🏟 会場と泊まる場所</h2>
 
-<div class="fl-venue">
+<p id="stay">大阪・東京は<strong>平日の夜</strong>（18:30開演）、名古屋・福岡は週末と祝日の17:00開演です（名古屋の1月10日は12:30と19:00の2回）。終演の時刻は発表されていませんが、遠くから行く人や2日続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。</p>
+
+<div class="fl-venue" id="stay-kyocera-dome-osaka">
   <p class="fl-venue__h"><b>京セラドーム大阪</b><span>2026年12月2日（水）</span></p>
-  <ul><li>最寄り駅は 地下鉄長堀鶴見緑地線のドーム前千代崎駅と阪神なんば線のドーム前駅（どちらも徒歩すぐ）。JR大正駅・地下鉄中央線の九条駅からも歩ける</li><li>入場ゲートは3F。2Fのスタジアムモールからは球場内に直接入れないので、外の階段やエレベーターで3Fへ</li><li>飲食物の持ち込みは遠慮するよう案内あり。危険物・ペット・ビン・缶・凍らせたものや1,000mlを超えるペットボトル・クーラーボックスは持ち込めない</li><li>店ではクレジットカード・交通系IC・コード決済などが使える（PiTaPaは不可）。コインロッカーは2Fスタジアムモールにある</li></ul>
-  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'kyocera-dome-osaka' %}<a class="btn" href="{{ p.url }}">Number_i 京セラドーム大阪公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
+  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'kyocera-dome-osaka' %}<a class="btn" href="{{ p.url }}">Number_i 京セラドーム大阪公演 参戦ガイド（座席・アクセス・近い宿）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/kyocera-dome-osaka/hotels/">京セラドーム大阪の近くのホテル（最寄り駅ごと）</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
+  <div class="stay-in">
+    <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
+    <div class="btn-row">
+      {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%8B%9E%83Z%83%89%83h%81%5B%83%80%91%E5%8D%E3" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+      {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A7%E9%98%AA" label="楽天トラベルで探す" class="btn" service="rakuten" %}
+    </div>
+  </div>
 </div>
 
-<div class="fl-venue">
+<div class="fl-venue" id="stay-tokyo-dome">
   <p class="fl-venue__h"><b>東京ドーム</b><span>2026年12月9日（水）・10日（木）</span></p>
-  <ul><li>最寄り駅は JR・都営三田線の水道橋駅、東京メトロの後楽園駅、都営大江戸線の春日駅の4つ</li><li>場内は完全キャッシュレス。現金は使えないので、カードや電子マネーを用意しておく</li><li>コインロッカーは交通系ICカード払いのみで数に限りあり。大きな荷物は駅やホテルに預けるのがおすすめ</li><li>凍らせた・1,000mlを超えるペットボトル、ビン・缶、アルコール類は持ち込めない</li></ul>
-  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' %}<a class="btn" href="{{ p.url }}">Number_i 東京ドーム公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
+  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' %}<a class="btn" href="{{ p.url }}">Number_i 東京ドーム公演 参戦ガイド（座席・アクセス・近い宿）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/tokyo-dome/hotels/">東京ドームの近くのホテル（最寄り駅ごと）</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
+  <div class="stay-in">
+    <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
+    <div class="btn-row">
+      {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%93%8C%8B%9E%83h%81%5B%83%80" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+      {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
+    </div>
+  </div>
 </div>
 
-<div class="fl-venue">
+<div class="fl-venue" id="stay-vantelin-dome-nagoya">
   <p class="fl-venue__h"><b>バンテリンドーム ナゴヤ</b><span>2027年1月9日（土）・10日（日）・11日（月）</span></p>
-  <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li><li>ビン・カン類、飲食物、クーラーボックス類、自分の席に置けない大きな荷物は持ち込めない</li></ul>
-  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' %}<a class="btn" href="{{ p.url }}">Number_i バンテリンドーム ナゴヤ公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
+  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' %}<a class="btn" href="{{ p.url }}">Number_i バンテリンドーム ナゴヤ公演 参戦ガイド（座席・アクセス・近い宿）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/vantelin-dome-nagoya/hotels/">バンテリンドーム ナゴヤの近くのホテル（最寄り駅ごと）</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
+  <div class="stay-in">
+    <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
+    <div class="btn-row">
+      {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%83o%83%93%83e%83%8A%83%93%83h%81%5B%83%80%20%83i%83S%83%84" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+      {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4" label="楽天トラベルで探す" class="btn" service="rakuten" %}
+    </div>
+  </div>
 </div>
 
-<div class="fl-venue">
+<div class="fl-venue" id="stay-mizuho-paypay-dome">
   <p class="fl-venue__h"><b>みずほPayPayドーム福岡</b><span>2027年1月16日（土）・17日（日）</span></p>
-  <ul><li>最寄り駅は福岡市地下鉄空港線の唐人町駅。3番出口から徒歩約15分</li><li>天神・博多駅・福岡空港からは西鉄バスも使える。イベント開催日は天神・博多から直行の臨時バスが出る</li><li>飲食物・ビン・缶・ペット（補助犬をのぞく）・危険物は持ち込めない。コンサート時の持ち込みは主催者の案内を確認</li><li>コインロッカーは外周デッキに4か所。数に限りがあり、ゲートごとに使える払い方が違う</li></ul>
-  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' %}<a class="btn" href="{{ p.url }}">Number_i みずほPayPayドーム福岡公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
+  <div class="btn-row">{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' %}<a class="btn" href="{{ p.url }}">Number_i みずほPayPayドーム福岡公演 参戦ガイド（座席・アクセス・近い宿）</a>{% endif %}{% endfor %}<a class="btn" href="/guide/mizuho-paypay-dome/hotels/">みずほPayPayドーム福岡の近くのホテル（最寄り駅ごと）</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
+  <div class="stay-in">
+    <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
+    <div class="btn-row">
+      {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%82%DD%82%B8%82%D9PayPay%83h%81%5B%83%80%95%9F%89%AA" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+      {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1" label="楽天トラベルで探す" class="btn" service="rakuten" %}
+    </div>
+  </div>
 </div>
 
 {% include live-list.html group="numberi" title="Number_iのこれからの公演（参戦ガイド）" %}
-
-<h2 id="stay">🛏 公演の日に泊まる</h2>
-
-<p>大阪・東京は<strong>平日の夜</strong>（18:30開演）、名古屋・福岡は週末と祝日の17:00開演です（名古屋の1月10日は12:30と19:00の2回）。終演の時刻は発表されていませんが、遠くから行く人や2日続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。</p>
-
-<h3 class="fl-h3" id="stay-kyocera-dome-osaka">京セラドーム大阪（2026年12月2日（水））</h3>
-
-<div class="stay-in">
-  <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
-  <div class="btn-row">
-    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%8B%9E%83Z%83%89%83h%81%5B%83%80%91%E5%8D%E3" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
-    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A7%E9%98%AA" label="楽天トラベルで探す" class="btn" service="rakuten" %}
-  </div>
-</div>
-
-{% include venue-hotels.html key="kyocera-dome-osaka" limit=3 top=true %}{% include hotels-link.html key="kyocera-dome-osaka" %}
-
-<h3 class="fl-h3" id="stay-tokyo-dome">東京ドーム（2026年12月9日（水）・10日（木））</h3>
-
-<div class="stay-in">
-  <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
-  <div class="btn-row">
-    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%93%8C%8B%9E%83h%81%5B%83%80" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
-    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
-  </div>
-</div>
-
-{% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
-
-<h3 class="fl-h3" id="stay-vantelin-dome-nagoya">バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））</h3>
-
-<div class="stay-in">
-  <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
-  <div class="btn-row">
-    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%83o%83%93%83e%83%8A%83%93%83h%81%5B%83%80%20%83i%83S%83%84" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
-    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4" label="楽天トラベルで探す" class="btn" service="rakuten" %}
-  </div>
-</div>
-
-{% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}{% include hotels-link.html key="vantelin-dome-nagoya" %}
-
-<h3 class="fl-h3" id="stay-mizuho-paypay-dome">みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））</h3>
-
-<div class="stay-in">
-  <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
-  <div class="btn-row">
-    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%82%DD%82%B8%82%D9PayPay%83h%81%5B%83%80%95%9F%89%AA" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
-    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1" label="楽天トラベルで探す" class="btn" service="rakuten" %}
-  </div>
-</div>
-
-{% include venue-hotels.html key="mizuho-paypay-dome" limit=3 top=true %}{% include hotels-link.html key="mizuho-paypay-dome" %}
 
 <h2 id="seichi">🍽 ライブの前後に、メンバーが行ったお店へ</h2>
 

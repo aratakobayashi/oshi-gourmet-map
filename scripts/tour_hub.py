@@ -73,10 +73,14 @@ def build(name):
            and s['id'] in cards and not s.get('location_unverified')]
 
     def shrine(key):
+        # 会場から近いグループの店（3km以内が3軒未満なら10kmまで）。(半径, 軒数, 近い順の[(km, 店)])
         v = venues[key]
-        ds = sorted(T.km((v['lat'], v['lng']), (s['lat'], s['lng'])) for s in own)
-        n3 = sum(1 for x in ds if x <= 3)
-        return (3, n3) if n3 >= 3 else (10, sum(1 for x in ds if x <= 10))
+        ds = sorted(((T.km((v['lat'], v['lng']), (s['lat'], s['lng'])), s) for s in own), key=lambda x: x[0])
+        n3 = [x for x in ds if x[0] <= 3]
+        if len(n3) >= 3:
+            return 3, len(n3), n3
+        n10 = [x for x in ds if x[0] <= 10]
+        return 10, len(n10), n10
 
     def live_url(lv):
         return ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + g + '\' and p.venue_key == \'' + lv['venue_key'] +
@@ -160,7 +164,7 @@ def build(name):
     for lv in lives:
         key = lv['venue_key']
         vname = venues[key]['name']
-        r, n = shrine(key)
+        r, n, near = shrine(key)
         pts = F.guide_summary(key)[:3]
         vn = vnear.get(key) or {}
         hk, hj = vn.get('hk') or vname, vn.get('hj') or ''
@@ -168,14 +172,20 @@ def build(name):
         if pts:
             b.append('<div class="fl-venue">\n  <p class="fl-venue__h"><b>会場のポイント</b></p>\n  <ul>' + ''.join(f'<li>{esc(x)}</li>' for x in pts) + '</ul>\n'
                      f'  <div class="btn-row"><a class="btn" href="{live_url(lv)}">{esc(gl)} {esc(vname)}公演 参戦ガイド</a><a class="btn" href="/guide/{key}/">{esc(vname)} ライブ参戦ガイド</a></div>\n</div>')
+        if n:
+            b.append(f'<h3 class="fl-h3">🍽 会場の近くの{esc(gl)}の聖地（{r}km以内に{n}軒）</h3>')
+            b.append('<ul class="wrs">' + ''.join(
+                f'<li class="wr">{{% include wr-open.html id="{x["id"]}" %}}<span class="wr__k">{T.ym(x.get("visited_date"))}</span><b class="wr__name">{esc(x["name"])}</b>'
+                f'<span class="wr__t">{esc(T.row_text(x, km, g))}</span>{{% include wr-close.html id="{x["id"]}" %}}</li>' for km, x in near[:3]) + '</ul>')
+            if n > 3:
+                b.append(f'<p class="tl-seichi"><a href="{live_url(lv)}#seichi">ほかの{n - 3}軒も参戦ガイドで見る</a></p>')
+        b.append(f'<h3 class="fl-h3">🛏 {esc(vname)}の近くに泊まる</h3>')
         b.append('<div class="stay-in">\n  <p class="stay-in__h"><span aria-hidden="true">🛏</span> ' + esc(hk) + '周辺に泊まる<small class="stay-in__pr">PR</small></p>\n  <div class="btn-row">\n'
                  + (f'    {{% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword={hj}" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}}\n' if hj else '')
                  + f'    {{% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query={urllib.parse.quote(hk)}" label="楽天トラベルで探す" class="btn" service="rakuten" %}}\n'
                  '  </div>\n</div>')
         b.append(f'{{% include venue-hotels.html key="{key}" limit=3 top=true %}}{{% include hotels-link.html key="{key}" %}}')
-        if n:
-            b.append(f'<p class="tl-seichi">🍽 会場から{r}km以内に、{esc(gl)}のメンバーが行ったお店が<b>{n}軒</b>。'
-                     f'<a href="{live_url(lv)}#seichi">参戦ガイドで見る</a></p>')
+
 
     if d.get('goods'):
         b.append('<h2 id="goods">🛍 グッズ</h2>')

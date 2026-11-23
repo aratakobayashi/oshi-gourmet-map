@@ -78,6 +78,13 @@ thumbnail: /assets/img/posts/kpop-enhypen-mizuho-paypay-dome-2027-02/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。ENHYPENのこれからの公演は<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
+{% if _today > page.live_end %}<section class="after-show" id="after">
+<h2>🎵 公演のあと（セトリ・次の公演）</h2>
+<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<p class="first-live">ほかの会場の日程・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-enhypen-blood-saga-in-japan-2026' %}{{ p.url }}{% endif %}{% endfor %}">エンハイフン BLOOD SAGA IN JAPAN ドームツアー2026-2027まとめ</a></p>
+{% include live-list.html group="kpop_enhypen" title="ENHYPENのこれからの公演" %}
+</section>{% endif %}
+
 <p><strong>ENHYPEN</strong>『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の<strong>みずほPayPayドーム福岡</strong>公演は、<strong>2027年2月6日（土）・7日（日）</strong>です（<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、みずほPayPayドーム福岡への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ENHYPENのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-06" data-e="2027-02-07"><b>公演日</b>2027年2月6日（土）・7日（日）</p>

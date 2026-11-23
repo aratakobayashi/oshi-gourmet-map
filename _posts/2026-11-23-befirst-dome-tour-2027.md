@@ -220,6 +220,14 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-12' %}{{ p.url }}{% endif %}{% endfor %}">BE:FIRST 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🍽 会場の近くのBE:FIRSTの聖地（10km以内に5軒）</h3>
+
+<ul class="wrs"><li class="wr">{% include wr-open.html id="befirst-d8080786-20231117" %}<span class="wr__k">2023.11</span><b class="wr__name">鳥とう</b><span class="wr__t">「BE:FIRST / RYOKI &amp; SOTAとしっぽり飲み [BTO #5 &quot;…」／RYOKI・SOTA（渋谷区 恵比寿西・会場から約7.5km）</span>{% include wr-close.html id="befirst-d8080786-20231117" %}</li><li class="wr">{% include wr-open.html id="befirst-0fc6b4d5-20230831" %}<span class="wr__k">2023.8</span><b class="wr__name">兜 奥座</b><span class="wr__t">「BE:FIRST / もぐもぐSHUNTO w/ MANATO [BTO #3 …」／SHUNTO・MANATO／冷麺（渋谷区 恵比寿西・会場から約7.6km）</span>{% include wr-close.html id="befirst-0fc6b4d5-20230831" %}</li><li class="wr">{% include wr-open.html id="befirst-0abea1a7-20230722" %}<span class="wr__k">2023.7</span><b class="wr__name">RIVERSIDE CLUB（ALL DAY LOUNGE）</b><span class="wr__t">「BE:FIRST / RYUHEIのコーヒー研修 Part.1 [BTO #1 …」／RYUHEI（目黒区 青葉台・会場から約8.3km）</span>{% include wr-close.html id="befirst-0abea1a7-20230722" %}</li></ul>
+
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-12' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの2軒も参戦ガイドで見る</a></p>
+
+<h3 class="fl-h3">🛏 東京ドームの近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -230,8 +238,6 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p class="tl-seichi">🍽 会場から10km以内に、BE:FIRSTのメンバーが行ったお店が<b>5軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'tokyo-dome' and p.live_end == '2027-01-12' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
-
 <h2 id="v-kyocera-dome-osaka">🏟 京セラドーム大阪（2027年1月16日（土）・17日（日））</h2>
 
 <div class="fl-venue">
@@ -239,6 +245,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
   <ul><li>最寄り駅は 地下鉄長堀鶴見緑地線のドーム前千代崎駅と阪神なんば線のドーム前駅（どちらも徒歩すぐ）。JR大正駅・地下鉄中央線の九条駅からも歩ける</li><li>入場ゲートは3F。2Fのスタジアムモールからは球場内に直接入れないので、外の階段やエレベーターで3Fへ</li><li>飲食物の持ち込みは遠慮するよう案内あり。危険物・ペット・ビン・缶・凍らせたものや1,000mlを超えるペットボトル・クーラーボックスは持ち込めない</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-17' %}{{ p.url }}{% endif %}{% endfor %}">BE:FIRST 京セラドーム大阪公演 参戦ガイド</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 京セラドーム大阪の近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -258,6 +266,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-02-14' %}{{ p.url }}{% endif %}{% endfor %}">BE:FIRST みずほPayPayドーム福岡公演 参戦ガイド</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🛏 みずほPayPayドーム福岡の近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -275,6 +285,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
   <ul><li>最寄り駅は西武狭山線・山口線（レオライナー）の西武球場前駅。池袋からは西武池袋線で西所沢へ行き、狭山線に乗り換える</li><li>ドーム内にコインロッカーはなく、施設内にATMもない。荷物は西武鉄道の駅のロッカーへ、お金は前もって用意</li><li>西武バスはプロ野球の一軍公式戦の日だけ。コンサートの日は運行がなく、駐車場にも限りがあるので電車で</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'befirst' and p.venue_key == 'belluna-dome' and p.live_end == '2027-03-07' %}{{ p.url }}{% endif %}{% endfor %}">BE:FIRST ベルーナドーム公演 参戦ガイド</a><a class="btn" href="/guide/belluna-dome/">ベルーナドーム ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 ベルーナドームの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> ベルーナドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>

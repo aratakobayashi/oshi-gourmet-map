@@ -224,6 +224,8 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}">Number_i 京セラドーム大阪公演 参戦ガイド</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🛏 京セラドーム大阪の近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -242,6 +244,14 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}">Number_i 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
 </div>
 
+<h3 class="fl-h3">🍽 会場の近くのNumber_iの聖地（10km以内に5軒）</h3>
+
+<ul class="wrs"><li class="wr">{% include wr-open.html id="numberi-361c2213-" %}<span class="wr__k"></span><b class="wr__name">オステリア セルヴァジーナ</b><span class="wr__t">『行列のできる相談所』／岸優太／ブッラータチーズ（豊島区 駒込・会場から約3.4km）</span>{% include wr-close.html id="numberi-361c2213-" %}</li><li class="wr">{% include wr-open.html id="numberi-a9a5b0f5-" %}<span class="wr__k"></span><b class="wr__name">蜂の家 銀座本店</b><span class="wr__t">『VS魂』／岸優太／軍艦シュークリーム・ビーフ黒カリー（中央区 銀座・会場から約3.9km）</span>{% include wr-close.html id="numberi-a9a5b0f5-" %}</li><li class="wr">{% include wr-open.html id="numberi-lesolca-" %}<span class="wr__k"></span><b class="wr__name">LESOLCA</b><span class="wr__t">『行列のできる相談所』のスタジオに料理が出たお店（中央区 銀座・会場から約3.9km）</span>{% include wr-close.html id="numberi-lesolca-" %}</li></ul>
+
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの2軒も参戦ガイドで見る</a></p>
+
+<h3 class="fl-h3">🛏 東京ドームの近くに泊まる</h3>
+
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
   <div class="btn-row">
@@ -252,8 +262,6 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p class="tl-seichi">🍽 会場から10km以内に、Number_iのメンバーが行ったお店が<b>5軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
-
 <h2 id="v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））</h2>
 
 <div class="fl-venue">
@@ -261,6 +269,12 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
   <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}">Number_i バンテリンドーム ナゴヤ公演 参戦ガイド</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🍽 会場の近くのNumber_iの聖地（10km以内に1軒）</h3>
+
+<ul class="wrs"><li class="wr">{% include wr-open.html id="kingprince-fb2b6baa-20220807" %}<span class="wr__k">2022.8</span><b class="wr__name">大久手 山本屋</b><span class="wr__t">『King &amp; Princeる。元旦SP』／岸優太・神宮寺勇太（名古屋市 千種区大久手町・会場から約2.7km）</span>{% include wr-close.html id="kingprince-fb2b6baa-20220807" %}</li></ul>
+
+<h3 class="fl-h3">🛏 バンテリンドーム ナゴヤの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -272,8 +286,6 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 {% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}{% include hotels-link.html key="vantelin-dome-nagoya" %}
 
-<p class="tl-seichi">🍽 会場から10km以内に、Number_iのメンバーが行ったお店が<b>1軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
-
 <h2 id="v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））</h2>
 
 <div class="fl-venue">
@@ -281,6 +293,8 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
   <ul><li>最寄り駅は福岡市地下鉄空港線の唐人町駅。3番出口から徒歩約15分</li><li>天神・博多駅・福岡空港からは西鉄バスも使える。イベント開催日は天神・博多から直行の臨時バスが出る</li><li>飲食物・ビン・缶・ペット（補助犬をのぞく）・危険物は持ち込めない。コンサート時の持ち込みは主催者の案内を確認</li></ul>
   <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-01-17' %}{{ p.url }}{% endif %}{% endfor %}">Number_i みずほPayPayドーム福岡公演 参戦ガイド</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
 </div>
+
+<h3 class="fl-h3">🛏 みずほPayPayドーム福岡の近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
