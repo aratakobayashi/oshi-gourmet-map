@@ -97,6 +97,8 @@ def build(gid):
         jumps = [j for j in jumps if j[0] != 'seats']
     b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
     b.append(f'<p>{d["intro"].rstrip("。")}（{ckl}時点）。</p>')
+    if d.get('tour_page'):
+        b.append(f'<p class="first-live">全会場の日程・時刻・セトリは：{d["tour_page"]}</p>')
 
     b.append('<h2 id="entry">🎫 まず押さえる3つ</h2>')
     b.append(f'<p>{d["entry_lead"]}</p>')
@@ -181,7 +183,7 @@ def build(gid):
         vname = venues[key]['name']
         pts = guide_summary(key)[:4]
         live = ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + d['group'] + '\' and p.venue_key == \'' + key +
-                '\' %}<a class="btn" href="{{ p.url }}">' + esc(name) + ' ' + esc(vname) + '公演 参戦ガイド</a>{% endif %}{% endfor %}')
+                '\' %}<a class="btn" href="{{ p.url }}">' + esc(name) + ' ' + esc(vname) + '公演 参戦ガイド（座席・アクセス）</a>{% endif %}{% endfor %}')
         b.append(f'<div class="fl-venue">\n  <p class="fl-venue__h"><b>{esc(vname)}</b><span>{jdate(sh["dates"])}</span></p>\n'
                  + ('  <ul>' + ''.join(f'<li>{esc(x)}</li>' for x in pts) + '</ul>\n' if pts else '')
                  + f'  <div class="btn-row">{live}<a class="btn" href="/guide/{key}/">{esc(vname)} ライブ参戦ガイド</a></div>\n</div>')

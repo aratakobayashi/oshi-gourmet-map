@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '&TEAM（エンティーム） マリンメッセ福岡A館公演 参戦ガイド（2027年3月20日〜22日）｜行き方・座席・持ち込み・泊まる・近くの聖地'
+title: '&TEAM（エンティーム） マリンメッセ福岡A館公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地'
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のマリンメッセ福岡A館公演（2027年3月20日（土）・21日（日）・22日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に&TEAMのメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。'
@@ -52,6 +52,25 @@ summary:
 - '&TEAM『2026-2027 &TEAM CONCERT TOUR ''Mark on You''』のマリンメッセ福岡A館公演は2027年3月20日（土）・21日（日）・22日（月）（2026年10月26日時点の公式発表）'
 - 最寄り駅は福岡市地下鉄 呉服町駅（徒歩15分）。福岡市地下鉄 中洲川端駅からは徒歩18分
 - 会場から10km以内に&TEAMのメンバーが行ったお店が1軒。会場からの近さ順に載せています
+events:
+- name: 2026-2027 &TEAM CONCERT TOUR 'Mark on You'
+  date: '2027-03-20'
+  start: ''
+  door: ''
+  venue_key: marine-messe-fukuoka
+  url: https://www.hybejapan-concert.com/statics/andteam_mark_on_you
+- name: 2026-2027 &TEAM CONCERT TOUR 'Mark on You'
+  date: '2027-03-21'
+  start: ''
+  door: ''
+  venue_key: marine-messe-fukuoka
+  url: https://www.hybejapan-concert.com/statics/andteam_mark_on_you
+- name: 2026-2027 &TEAM CONCERT TOUR 'Mark on You'
+  date: '2027-03-22'
+  start: ''
+  door: ''
+  venue_key: marine-messe-fukuoka
+  url: https://www.hybejapan-concert.com/statics/andteam_mark_on_you
 thumbnail: /assets/img/posts/kpop-andteam-marine-messe-fukuoka-2027-03/thumb.webp
 ---
 <div class="pf" style="--pc:#334155">

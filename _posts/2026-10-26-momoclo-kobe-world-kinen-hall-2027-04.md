@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演 参戦ガイド（2027年4月24日・25日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -46,6 +46,19 @@ summary:
 - ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演は2027年4月24日（土）・25日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はポートライナー 市民広場駅（西出口から徒歩約3分）
 - 会場の近くのほかの推しの聖地
+events:
+- name: MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”
+  date: '2027-04-24'
+  start: '17:30'
+  door: '16:30'
+  venue_key: kobe-world-kinen-hall
+  url: https://www.momoclo.net/archives/news/261017_01
+- name: MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”
+  date: '2027-04-25'
+  start: '16:30'
+  door: '15:30'
+  venue_key: kobe-world-kinen-hall
+  url: https://www.momoclo.net/archives/news/261017_01
 thumbnail: /assets/img/posts/momoclo-kobe-world-kinen-hall-2027-04/thumb.webp
 ---
 <div class="pf" style="--pc:#ec4899">

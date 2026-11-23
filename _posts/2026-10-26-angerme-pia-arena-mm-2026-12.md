@@ -1,8 +1,8 @@
 ---
 layout: post
-title: アンジュルム ぴあアリーナMM公演 参戦ガイド（2026年12月2日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: アンジュルム ぴあアリーナMM公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『アンジュルム 2026秋 FINAL 風林火山・極』のぴあアリーナMM公演（2026年12月2日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -44,6 +44,13 @@ summary:
 - 『アンジュルム 2026秋 FINAL 風林火山・極』のぴあアリーナMM公演は2026年12月2日（水）（2026年10月26日時点の公式発表）
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 会場の近くのほかの推しの聖地
+events:
+- name: アンジュルム 2026秋 FINAL 風林火山・極
+  date: '2026-12-02'
+  start: '18:00'
+  door: '17:00'
+  venue_key: pia-arena-mm
+  url: https://www.helloproject.com/event/74b3f7024b660b2919bcaab4a6eefb3deb626e7b8f5003a3eab95291384befd6/
 thumbnail: /assets/img/posts/angerme-pia-arena-mm-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#7c3aed">

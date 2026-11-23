@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 木村拓哉 LaLa arena TOKYO-BAY公演 参戦ガイド（2026年11月21日〜23日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: 木村拓哉 LaLa arena TOKYO-BAY公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演（2026年11月21日（土）・22日（日）・23日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、千葉県にある木村拓哉の聖地1軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -51,6 +51,25 @@ summary:
 - 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演は2026年11月21日（土）・22日（日）・23日（月）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 南船橋駅（南口・徒歩6分）。京成 船橋競馬場駅からは南口・徒歩16分
 - 千葉県にある木村拓哉の聖地1軒
+events:
+- name: TAKUYA KIMURA Live Tour 2026 Checkpoint
+  date: '2026-11-21'
+  start: ''
+  door: ''
+  venue_key: lala-arena-tokyo-bay
+  url: https://www.oricon.co.jp/news/2457592/full/
+- name: TAKUYA KIMURA Live Tour 2026 Checkpoint
+  date: '2026-11-22'
+  start: ''
+  door: ''
+  venue_key: lala-arena-tokyo-bay
+  url: https://www.oricon.co.jp/news/2457592/full/
+- name: TAKUYA KIMURA Live Tour 2026 Checkpoint
+  date: '2026-11-23'
+  start: ''
+  door: ''
+  venue_key: lala-arena-tokyo-bay
+  url: https://www.oricon.co.jp/news/2457592/full/
 thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#0891b2">

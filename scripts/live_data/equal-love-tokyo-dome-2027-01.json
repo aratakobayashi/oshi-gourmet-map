@@ -3,11 +3,15 @@
  "group": "equal_love",
  "tour": "＝LOVE in TOKYO DOME「全ては＝LOVE」",
  "official_url": "https://equal-love.jp/schedule/detail/11617",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-23",
  "sources": [
   {
    "label": "=LOVE公式（SCHEDULE）",
    "url": "https://equal-love.jp/schedule/detail/11617"
+  },
+  {
+   "label": "=LOVE公式（東京ドーム公演 FC受付のお知らせ：時刻）",
+   "url": "https://equal-love.jp/news/detail/12299"
   }
  ],
  "venue_key": "tokyo-dome",
@@ -16,5 +20,9 @@
  "dates": [
   "2027-01-19",
   "2027-01-20"
- ]
+ ],
+ "times": {
+  "2027-01-19": "開場16:00／開演18:00",
+  "2027-01-20": "開場16:00／開演18:00"
+ }
 }

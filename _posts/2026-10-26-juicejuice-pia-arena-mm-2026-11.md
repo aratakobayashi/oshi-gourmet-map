@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Juice=Juice ぴあアリーナMM公演 参戦ガイド（2026年11月25日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: Juice=Juice ぴあアリーナMM公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演（2026年11月25日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -44,6 +44,13 @@ summary:
 - 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演は2026年11月25日（水）（2026年10月26日時点の公式発表）
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 会場の近くのほかの推しの聖地
+events:
+- name: Juice=Juice Room Tour 2026 「5ROOMS」
+  date: '2026-11-25'
+  start: '18:00'
+  door: '17:00'
+  venue_key: pia-arena-mm
+  url: https://www.helloproject.com/event/ac7ec0bd437f3af1f9fcdc9c579f31312e9112fe13471d9fbae91c755990d6f2/
 thumbnail: /assets/img/posts/juicejuice-pia-arena-mm-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#ea580c">

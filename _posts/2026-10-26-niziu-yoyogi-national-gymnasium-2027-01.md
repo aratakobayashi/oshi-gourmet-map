@@ -1,8 +1,8 @@
 ---
 layout: post
-title: NiziU 国立代々木競技場第一体育館公演 参戦ガイド（2027年1月20日〜24日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: NiziU 国立代々木競技場第一体育館公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の国立代々木競技場第一体育館公演（2027年1月20日（水）・21日（木）・23日（土）・24日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にNiziUのメンバーが行ったお店が7軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -56,6 +56,31 @@ summary:
 - 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の国立代々木競技場第一体育館公演は2027年1月20日（水）・21日（木）・23日（土）・24日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 原宿駅（徒歩5分）。東京メトロ 明治神宮前駅からは徒歩5分
 - 会場から10km以内にNiziUのメンバーが行ったお店が7軒。会場からの近さ順に載せています
+events:
+- name: NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”
+  date: '2027-01-20'
+  start: ''
+  door: ''
+  venue_key: yoyogi-national-gymnasium
+  url: https://niziu.com/s/n123/page/livewithu2026_2027
+- name: NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”
+  date: '2027-01-21'
+  start: ''
+  door: ''
+  venue_key: yoyogi-national-gymnasium
+  url: https://niziu.com/s/n123/page/livewithu2026_2027
+- name: NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”
+  date: '2027-01-23'
+  start: ''
+  door: ''
+  venue_key: yoyogi-national-gymnasium
+  url: https://niziu.com/s/n123/page/livewithu2026_2027
+- name: NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”
+  date: '2027-01-24'
+  start: ''
+  door: ''
+  venue_key: yoyogi-national-gymnasium
+  url: https://niziu.com/s/n123/page/livewithu2026_2027
 thumbnail: /assets/img/posts/niziu-yoyogi-national-gymnasium-2027-01/thumb.webp
 ---
 <div class="pf" style="--pc:#a855f7">

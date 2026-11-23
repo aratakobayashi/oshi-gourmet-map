@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ENHYPEN 京セラドーム大阪公演 参戦ガイド（2027年2月19日・20日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: ENHYPEN 京セラドーム大阪公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の京セラドーム大阪公演（2027年2月19日（金）・20日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -50,6 +50,19 @@ summary:
 - 最寄り駅は地下鉄 ドーム前千代崎駅（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ
 - '会場のルールで持ち込めないもの: 飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
+events:
+- name: ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN
+  date: '2027-02-19'
+  start: '18:00'
+  door: '16:00'
+  venue_key: kyocera-dome-osaka
+  url: https://www.hybejapan-concert.com/statics/enhypen_blood_saga
+- name: ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN
+  date: '2027-02-20'
+  start: '16:00'
+  door: '14:00'
+  venue_key: kyocera-dome-osaka
+  url: https://www.hybejapan-concert.com/statics/enhypen_blood_saga
 thumbnail: /assets/img/posts/kpop-enhypen-kyocera-dome-osaka-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#7c3aed">

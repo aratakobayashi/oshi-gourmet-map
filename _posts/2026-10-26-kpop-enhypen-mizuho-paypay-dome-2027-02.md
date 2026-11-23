@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ENHYPEN みずほPayPayドーム福岡公演 参戦ガイド（2027年2月6日・7日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: ENHYPEN みずほPayPayドーム福岡公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』のみずほPayPayドーム福岡公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -50,6 +50,19 @@ summary:
 - 最寄り駅は地下鉄空港線 唐人町駅（3番出口・徒歩約15分）
 - '会場のルールで持ち込めないもの: 飲食物、ビン・缶、ペット（補助犬をのぞく）、危険物（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
+events:
+- name: ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN
+  date: '2027-02-06'
+  start: '17:00'
+  door: '15:00'
+  venue_key: mizuho-paypay-dome
+  url: https://www.hybejapan-concert.com/statics/enhypen_blood_saga
+- name: ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN
+  date: '2027-02-07'
+  start: '16:00'
+  door: '14:00'
+  venue_key: mizuho-paypay-dome
+  url: https://www.hybejapan-concert.com/statics/enhypen_blood_saga
 thumbnail: /assets/img/posts/kpop-enhypen-mizuho-paypay-dome-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#7c3aed">

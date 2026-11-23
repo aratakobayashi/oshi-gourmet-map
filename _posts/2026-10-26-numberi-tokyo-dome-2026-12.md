@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Number_i 東京ドーム公演 参戦ガイド（2026年12月9日・10日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: Number_i 東京ドーム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Number_i LIVE TOUR No.Ⅲ』の東京ドーム公演（2026年12月9日（水）・10日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にNumber_iのメンバーが行ったお店が5軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -57,6 +57,19 @@ summary:
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から10km以内にNumber_iのメンバーが行ったお店が5軒。会場からの近さ順に載せています
+events:
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2026-12-09'
+  start: '18:30'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2026-12-10'
+  start: '18:30'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
 thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#111827">

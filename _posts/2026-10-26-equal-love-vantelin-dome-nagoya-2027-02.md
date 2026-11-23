@@ -1,11 +1,11 @@
 ---
 layout: post
-title: =LOVE（イコラブ） バンテリンドーム ナゴヤ公演 参戦ガイド（2027年2月24日・25日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: =LOVE（イコラブ） バンテリンドーム ナゴヤ公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-23'
+checked_at: '2026-11-23'
 checked_label: 公演の日程と会場のルール
-description: =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演（2027年2月24日（水）・25日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
+description: =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演（2027年2月24日（水）・25日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
 group: equal_love
 genre: ライブ
 article_type: live
@@ -27,6 +27,8 @@ tags:
 sources:
 - label: =LOVE公式（SCHEDULE）
   url: https://equal-love.jp/schedule/detail/12276
+- label: =LOVE公式（ナゴヤ公演 FC最速先行のお知らせ：時刻）
+  url: https://equal-love.jp/news/detail/12473
 - label: バンテリンドーム ナゴヤ公式サイト（アクセスガイド）
   url: https://www.nagoya-dome.co.jp/enjoy/access.php
 - label: ドーム概要
@@ -36,7 +38,7 @@ sources:
 shop_ids: []
 faq:
 - q: =LOVEのバンテリンドーム ナゴヤ公演はいつですか？
-  a: 2027年2月24日（水）・25日（木）です（＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」）。2026年10月26日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
+  a: 2027年2月24日（水）・25日（木）です（＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」）。2月24日は開場16:00／開演18:00。2月25日は開場16:00／開演18:00。2026年11月23日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
 - q: バンテリンドーム ナゴヤの最寄り駅はどこですか？
   a: ナゴヤドーム前矢田駅です（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分。名鉄瀬戸線 大曽根駅からは徒歩約15分。
 - q: バンテリンドーム ナゴヤに持ち込めないものは？
@@ -45,10 +47,23 @@ faq:
   a: この記事の「会場から近い宿」に、バンテリンドーム ナゴヤから近い順に宿を載せています（楽天トラベル）。「バンテリンドーム ナゴヤ周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演は2027年2月24日（水）・25日（木）（2026年10月26日時点の公式発表）
+- =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演は2027年2月24日（水）・25日（木）（2026年11月23日時点の公式発表）
 - 最寄り駅はナゴヤドーム前矢田駅（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分
 - '会場のルールで持ち込めないもの: ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
+events:
+- name: ＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」
+  date: '2027-02-24'
+  start: '18:00'
+  door: '16:00'
+  venue_key: vantelin-dome-nagoya
+  url: https://equal-love.jp/schedule/detail/12276
+- name: ＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」
+  date: '2027-02-25'
+  start: '18:00'
+  door: '16:00'
+  venue_key: vantelin-dome-nagoya
+  url: https://equal-love.jp/schedule/detail/12276
 thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#f43f5e">
@@ -57,7 +72,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。=LOVEのこれからの公演は<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
-<p><strong>=LOVE</strong>『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2027年2月24日（水）・25日（木）</strong>です（<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>=LOVE</strong>『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2027年2月24日（水）・25日（木）</strong>です（<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-24" data-e="2027-02-25"><b>公演日</b>2027年2月24日（水）・25日（木）</p>
 
@@ -73,20 +88,20 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 {% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}{% include hotels-link.html key="vantelin-dome-nagoya" %}
 
-<p class="first-live">はじめて=LOVEのライブに行くなら：<a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場と本人確認・ペンライト・撮影・コール・定番曲・グッズ）</p>
+<p class="first-live">はじめて=LOVEのライブに行くなら：<a href="/guide/equal-love-first-live/">イコラブのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
+
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'equal-love-dome-live-2027' %}{{ p.url }}{% endif %}{% endfor %}">イコラブ ドーム公演2027「全ては＝LOVE」まとめ</a></p>
 
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
-  <li><b>2027年2月24日（水）</b></li>
-  <li><b>2027年2月25日（木）</b></li>
+  <li><b>2027年2月24日（水）</b><span>開場16:00／開演18:00</span></li>
+  <li><b>2027年2月25日（木）</b><span>開場16:00／開演18:00</span></li>
 </ul>
 
 <p>会場：<strong>バンテリンドーム ナゴヤ</strong>（愛知県）。公演名：＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」。</p>
 
-<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
-
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -133,7 +148,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <h2 id="seichi">会場の近くの=LOVEの聖地</h2>
 
-<p>2026年10月時点で、愛知県に=LOVEのメンバーが行ったお店は登録されていません。</p>
+<p>2026年11月時点で、愛知県に=LOVEのメンバーが行ったお店は登録されていません。</p>
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 
@@ -143,7 +158,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <h2 id="stay">泊まる</h2>
 
-<p>終演後は最寄り駅が混み合います。公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
+<p>終演後は最寄り駅が混み合います。夜の公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -165,7 +180,8 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <ul>
   <li><a href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
-  <li><a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場・ペンライト・コール・定番曲・グッズ）</li>
+  <li><a href="/guide/equal-love-first-live/">イコラブのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'equal-love-dome-live-2027' %}{{ p.url }}{% endif %}{% endfor %}">イコラブ ドーム公演2027「全ては＝LOVE」まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.equal_love.u }}">=LOVEのお店一覧</a>（グループのページ）</li>
 </ul>
 

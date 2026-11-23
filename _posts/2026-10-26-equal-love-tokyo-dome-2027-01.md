@@ -1,11 +1,11 @@
 ---
 layout: post
-title: =LOVE（イコラブ） 東京ドーム公演 参戦ガイド（2027年1月19日・20日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: =LOVE（イコラブ） 東京ドーム公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-23'
+checked_at: '2026-11-23'
 checked_label: 公演の日程と会場のルール
-description: =LOVE『＝LOVE in TOKYO DOME「全ては＝LOVE」』の東京ドーム公演（2027年1月19日（火）・20日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内に=LOVEのメンバーが行ったお店が5軒をまとめました。日程は2026年10月26日時点の公式発表です。
+description: =LOVE『＝LOVE in TOKYO DOME「全ては＝LOVE」』の東京ドーム公演（2027年1月19日（火）・20日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内に=LOVEのメンバーが行ったお店が5軒をまとめました。日程は2026年11月23日時点の公式発表です。
 group: equal_love
 genre: ライブ
 article_type: live
@@ -27,6 +27,8 @@ tags:
 sources:
 - label: =LOVE公式（SCHEDULE）
   url: https://equal-love.jp/schedule/detail/11617
+- label: =LOVE公式（東京ドーム公演 FC受付のお知らせ：時刻）
+  url: https://equal-love.jp/news/detail/12299
 - label: 東京ドーム公式サイト（アクセス）
   url: https://www.tokyo-dome.co.jp/dome/access/
 - label: 東京ドームとは
@@ -41,7 +43,7 @@ shop_ids:
 - equal_love-9cc892b4-202503
 faq:
 - q: =LOVEの東京ドーム公演はいつですか？
-  a: 2027年1月19日（火）・20日（水）です（＝LOVE in TOKYO DOME「全ては＝LOVE」）。2026年10月26日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
+  a: 2027年1月19日（火）・20日（水）です（＝LOVE in TOKYO DOME「全ては＝LOVE」）。1月19日は開場16:00／開演18:00。1月20日は開場16:00／開演18:00。2026年11月23日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
 - q: 東京ドームの最寄り駅はどこですか？
   a: JR 水道橋駅です（西口（東口もあり））。都営三田線 水道橋駅からはA2出口。東京メトロ 後楽園駅からは2番出口。
 - q: 東京ドームに持ち込めないものは？
@@ -52,10 +54,23 @@ faq:
   a: この記事の「会場から近い宿」に、東京ドームから近い順に宿を載せています（楽天トラベル）。「東京ドーム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- =LOVE『＝LOVE in TOKYO DOME「全ては＝LOVE」』の東京ドーム公演は2027年1月19日（火）・20日（水）（2026年10月26日時点の公式発表）
+- =LOVE『＝LOVE in TOKYO DOME「全ては＝LOVE」』の東京ドーム公演は2027年1月19日（火）・20日（水）（2026年11月23日時点の公式発表）
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から3km以内に=LOVEのメンバーが行ったお店が5軒。会場からの近さ順に載せています
+events:
+- name: ＝LOVE in TOKYO DOME「全ては＝LOVE」
+  date: '2027-01-19'
+  start: '18:00'
+  door: '16:00'
+  venue_key: tokyo-dome
+  url: https://equal-love.jp/schedule/detail/11617
+- name: ＝LOVE in TOKYO DOME「全ては＝LOVE」
+  date: '2027-01-20'
+  start: '18:00'
+  door: '16:00'
+  venue_key: tokyo-dome
+  url: https://equal-love.jp/schedule/detail/11617
 thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 ---
 <div class="pf" style="--pc:#f43f5e">
@@ -64,7 +79,7 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。=LOVEのこれからの公演は<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
-<p><strong>=LOVE</strong>『＝LOVE in TOKYO DOME「全ては＝LOVE」』の<strong>東京ドーム</strong>公演は、<strong>2027年1月19日（火）・20日（水）</strong>です（<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>=LOVE</strong>『＝LOVE in TOKYO DOME「全ては＝LOVE」』の<strong>東京ドーム</strong>公演は、<strong>2027年1月19日（火）・20日（水）</strong>です（<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-01-19" data-e="2027-01-20"><b>公演日</b>2027年1月19日（火）・20日（水）</p>
 
@@ -80,20 +95,20 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 {% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p class="first-live">はじめて=LOVEのライブに行くなら：<a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場と本人確認・ペンライト・撮影・コール・定番曲・グッズ）</p>
+<p class="first-live">はじめて=LOVEのライブに行くなら：<a href="/guide/equal-love-first-live/">イコラブのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
+
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'equal-love-dome-live-2027' %}{{ p.url }}{% endif %}{% endfor %}">イコラブ ドーム公演2027「全ては＝LOVE」まとめ</a></p>
 
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
-  <li><b>2027年1月19日（火）</b></li>
-  <li><b>2027年1月20日（水）</b></li>
+  <li><b>2027年1月19日（火）</b><span>開場16:00／開演18:00</span></li>
+  <li><b>2027年1月20日（水）</b><span>開場16:00／開演18:00</span></li>
 </ul>
 
 <p>会場：<strong>東京ドーム</strong>（東京都）。公演名：＝LOVE in TOKYO DOME「全ては＝LOVE」。</p>
 
-<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
-
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -166,7 +181,7 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 <h2 id="stay">泊まる</h2>
 
-<p>終演後は最寄り駅が混み合います。公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
+<p>終演後は最寄り駅が混み合います。夜の公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -188,7 +203,8 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 <ul>
   <li><a href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
-  <li><a href="/guide/equal-love-first-live/">=LOVEのライブにはじめて行く人へ</a>（入場・ペンライト・コール・定番曲・グッズ）</li>
+  <li><a href="/guide/equal-love-first-live/">イコラブのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'equal-love-dome-live-2027' %}{{ p.url }}{% endif %}{% endfor %}">イコラブ ドーム公演2027「全ては＝LOVE」まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.equal_love.u }}">=LOVEのお店一覧</a>（グループのページ）</li>
 </ul>
 

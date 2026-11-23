@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 私立恵比寿中学（エビ中） 東京ガーデンシアター公演 参戦ガイド（2027年2月6日・7日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: 私立恵比寿中学（エビ中） 東京ガーデンシアター公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -52,6 +52,19 @@ summary:
 - 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演は2027年2月6日（土）・7日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はゆりかもめ 有明駅（2B出口・徒歩4分）。ゆりかもめ 有明テニスの森駅からは2A出口・徒歩5分
 - 会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒。会場からの近さ順に載せています
+events:
+- name: 大学芸会2027 This is GR8
+  date: '2027-02-06'
+  start: ''
+  door: ''
+  venue_key: tokyo-garden-theater
+  url: https://www.shiritsuebichu.jp/
+- name: 大学芸会2027 This is GR8
+  date: '2027-02-07'
+  start: ''
+  door: ''
+  venue_key: tokyo-garden-theater
+  url: https://www.shiritsuebichu.jp/
 thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#ea580c">
