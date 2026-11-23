@@ -3,11 +3,19 @@
  "group": "momoclo",
  "tour": "MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”",
  "official_url": "https://www.momoclo.net/archives/news/261017_01",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-23",
  "sources": [
   {
-   "label": "ももいろクローバーZ公式（NEWS）",
+   "label": "ももいろクローバーZ公式（ARENA TOUR 2027 特設サイト：日程・席・Q&A）",
+   "url": "https://www.momoclo.net/arenatour2027/"
+  },
+  {
+   "label": "ももいろクローバーZ公式（ANGEL EYES会員先行のお知らせ）",
    "url": "https://www.momoclo.net/archives/news/261017_01"
+  },
+  {
+   "label": "ももいろクローバーZ公式（プレオーダーのお知らせ）",
+   "url": "https://www.momoclo.net/archives/news/261120_01"
   }
  ],
  "venue_key": "kobe-world-kinen-hall",
@@ -21,5 +29,33 @@
   "2027-04-24": "開場16:30／開演17:30",
   "2027-04-25": "開場15:30／開演16:30"
  },
- "note": "各会場DAY1「Chronostasis」・DAY2「Singularity」で内容が異なる"
+ "note": "各会場DAY1「Chronostasis」・DAY2「Singularity」で内容が異なる",
+ "tickets": [
+  {
+   "name": "ANGEL EYES会員先行（抽選）",
+   "start": "2026-10-17T18:00",
+   "end": "2026-10-25T23:59",
+   "who": "ファンクラブ ANGEL EYES の会員（同行者は会員でなくてよい）",
+   "what": "指定席・着席指定席・お子様ファミリー席。顔写真の登録が必要",
+   "url": "https://www.momoclo.net/archives/news/261017_01"
+  },
+  {
+   "name": "プレオーダー（抽選・イープラス）",
+   "start": "2026-11-20T18:00",
+   "end": "2026-11-25T23:59",
+   "who": "どなたでも",
+   "what": "指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から",
+   "url": "https://www.momoclo.net/archives/news/261120_01"
+  },
+  {
+   "name": "一般発売",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://www.momoclo.net/arenatour2027/",
+   "note": "未発表（2026年11月23日時点）"
+  }
+ ],
+ "tickets_note": "指定席・着席指定席は1回4枚まで。3歳未満は大人1人につき1人まで膝の上で見られます（席が要る場合はチケットが必要）。ファンクラブのチケットはANGEL EYESのIC会員証で顔認証入場、プレイガイドのチケットは紙のチケットと顔写真付きの身分証明書で入場します。",
+ "public_note": "1日目は「Chronostasis」、2日目は「Singularity」と内容が違います。終演予定は1日目が20:00、2日目が19:00です（公式の特設サイト）。"
 }

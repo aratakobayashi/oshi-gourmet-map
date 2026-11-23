@@ -80,7 +80,7 @@ def hero(d, shows):
   {tm}
   <p class="live-cd" data-d="{nxt["dates"][0]}" data-e="{nxt["dates"][-1]}"><b>公演日</b>{jdate(nxt["dates"])}</p>
   {others}
-  <p class="fl-hero__src">{(nxt["time_note"] + "。") if nxt.get("time_note") else ("両日とも同じ時刻。" if len(nxt["dates"]) > 1 and nxt.get("open") else "")}{ext(nxt["src"], nxt["src_label"]) if nxt.get("src_label") else d["name"] + "公式の" + ext(nxt["src"], "公演のお知らせ")}より（{d["checked_at"][:4]}年{int(d["checked_at"][5:7])}月{int(d["checked_at"][8:])}日確認）。終演の時刻は未発表</p>
+  <p class="fl-hero__src">{(nxt["time_note"] + "。") if nxt.get("time_note") else ("両日とも同じ時刻。" if len(nxt["dates"]) > 1 and nxt.get("open") else "")}{ext(nxt["src"], nxt["src_label"]) if nxt.get("src_label") else d["name"] + "公式の" + ext(nxt["src"], "公演のお知らせ")}より（{d["checked_at"][:4]}年{int(d["checked_at"][5:7])}月{int(d["checked_at"][8:])}日確認）。{nxt.get("end_note") or "終演の時刻は未発表"}</p>
 </section>'''
 
 
@@ -137,7 +137,7 @@ def build(gid):
 
     p = d['penlight']
     # 色の一覧が公式にないとき（colors が空）は、光り方（modes）を並べる
-    b.append(f'<h2 id="penlight">🔦 ペンライト（{len(p["colors"])}色）</h2>' if p.get('colors') else f'<h2 id="penlight">🔦 {esc(p.get("heading", "ペンライト"))}</h2>')
+    b.append(f'<h2 id="penlight">🔦 {esc(p["heading"])}</h2>' if p.get('heading') else f'<h2 id="penlight">🔦 ペンライト（{len(p["colors"])}色）</h2>' if p.get('colors') else '<h2 id="penlight">🔦 ペンライト</h2>')
     b.append(f'<p>{p["text"]}</p>')
     if p.get('colors'):
         b.append('<ol class="fl-colors">' + ''.join(f'<li style="--c:{c}">{esc(n)}</li>' for n, c in p['colors']) + '</ol>')

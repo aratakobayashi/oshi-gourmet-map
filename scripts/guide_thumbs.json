@@ -330,5 +330,60 @@
   "logo_text": "BLOOD",
   "logo_sub": "SAGA",
   "out": "assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb"
+ },
+ "momoclo-first-live": {
+  "color": "#ec4899",
+  "group": "momoclo",
+  "bg": [
+   "#2a0f22",
+   "#3b0f2c",
+   "#16091a"
+  ],
+  "lights": [
+   "#ef4444",
+   "#facc15",
+   "#ec4899",
+   "#8b5cf6",
+   "#ffffff"
+  ],
+  "label": "はじめてのライブ",
+  "title": "ももクロ",
+  "sub": "ももクロのライブに\nはじめて行く人へ",
+  "chips": [
+   "アリーナツアー2027",
+   "メンバーカラー",
+   "コール",
+   "入場と本人確認"
+  ],
+  "logo_text": "MCZ",
+  "logo_sub": "FIRST LIVE"
+ },
+ "momoclo-arena-tour-2027-vogue-and-romance": {
+  "color": "#ec4899",
+  "group": "momoclo",
+  "bg": [
+   "#2a0f22",
+   "#3b0f2c",
+   "#16091a"
+  ],
+  "lights": [
+   "#ef4444",
+   "#facc15",
+   "#ec4899",
+   "#8b5cf6",
+   "#ffffff"
+  ],
+  "label": "ツアーまとめ",
+  "title": "ももクロ",
+  "sub": "ARENA TOUR 2027\nVOGUE AND ROMANCE",
+  "chips": [
+   "横浜 3.20・21",
+   "神戸 4.24・25",
+   "東京 5.8・9",
+   "近くの宿"
+  ],
+  "logo_text": "MCZ",
+  "logo_sub": "2027",
+  "out": "assets/img/posts/momoclo-arena-tour-2027-vogue-and-romance/thumb"
  }
 }
