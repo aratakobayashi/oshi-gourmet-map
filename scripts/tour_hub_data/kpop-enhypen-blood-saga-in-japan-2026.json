@@ -1,0 +1,88 @@
+{
+ "slug": "kpop-enhypen-blood-saga-in-japan-2026",
+ "group": "kpop_enhypen",
+ "series": "BLOOD SAGA",
+ "series_long": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+ "title_core": "BLOOD SAGA IN JAPAN ドームツアー2026-2027",
+ "lives": [
+  "kpop-enhypen-tokyo-dome-2026-12",
+  "kpop-enhypen-vantelin-dome-nagoya-2026-12",
+  "kpop-enhypen-mizuho-paypay-dome-2027-02",
+  "kpop-enhypen-kyocera-dome-osaka-2027-02"
+ ],
+ "checked_at": "2026-11-23",
+ "first_live": "kpop-enhypen-first-live",
+ "lead": "ENHYPEN（エンハイフン）のワールドツアー『ENHYPEN WORLD TOUR 'BLOOD SAGA'』の日本公演は、グループ初の4大ドームツアーです（オリコンの報道）。2026年12月の東京ドームから2027年2月の京セラドーム大阪まで4会場・8公演。日程と時刻、チケットの受付、グッズとポップアップストア、会場ごとの近い宿と近くの聖地をこのページにまとめます",
+ "nagoya_note": "時刻はHYBE JAPANの公演ページより。どの会場も2日目は昼の公演（開場14:00・開演16:00）です。",
+ "goods": [
+  [
+   "ツアーグッズの事前販売",
+   "Weverse Shopで2026年10月14日11:00から売り切れまで（日本の住所への配送だけ）",
+   "https://enhypen-jp.weverse.io/news/f1516fcdee64"
+  ],
+  [
+   "POP UP STORE",
+   "東京（2026年11月20日〜12月2日・渋谷区神宮前）・愛知（12月18日〜27日・名古屋PARCO）・福岡（2027年1月29日〜2月7日・ソラリアプラザ）・大阪（2月11日〜21日）。入場はWeverse Spotの予約（後半は15:00から予約なしでも入れる日あり）。ツアーグッズと公式ライトスティックを販売",
+   "https://enhypen-jp.weverse.io/news/dd0bec9156a4"
+  ],
+  [
+   "公式ライトスティック",
+   "「ENHYPEN Official Light Stick Ver.2 (Renewal Edition)」はWeverse Shopで予約販売（1アカウント3本まで）",
+   "https://enhypen-jp.weverse.io/news/a93a7752128e"
+  ]
+ ],
+ "setlists": [
+  {
+   "title": "BLOOD SAGA ソウル公演（2026年5月 KSPO DOME）のライブレポートに出てくる曲（一部）",
+   "parts": [
+    [
+     "報道に出てくる曲",
+     "Knife・Daydream・Outside・Big Girls Don't Cry・Sleep Tight・Bills・Blockbuster・Future Perfect・Drunk-Dazed・Bite Me・CRIMINAL LOVE・Stealer（初披露）ほか。アンコールは Knife・Go Big or Go Home・Paranormal。全曲のセットリストは報道されていません"
+    ]
+   ],
+   "src": [
+    "THE FIRST TIMES（ソウル公演のライブレポート）",
+    "https://www.thefirsttimes.jp/report/0000806100/"
+   ]
+  }
+ ],
+ "setlist_pending": "日本公演の全曲のセットリストは、大手報道のライブレポートに載ったときだけ、出典つき・ネタバレ注意の閉じた形で載せます。",
+ "sources": [
+  [
+   "HYBE JAPAN（BLOOD SAGA IN JAPAN 公演ページ）",
+   "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  ],
+  [
+   "ENHYPEN JAPAN公式（日本公演の開催発表）",
+   "https://enhypen-jp.weverse.io/news/5568448a1b6d"
+  ],
+  [
+   "ENHYPEN JAPAN公式（会員最速先行・公演詳細）",
+   "https://enhypen-jp.weverse.io/news/932a12458df2"
+  ],
+  [
+   "ENHYPEN JAPAN公式（プレイガイド先着先行・一般販売）",
+   "https://enhypen-jp.weverse.io/news/81ef744ba5bb"
+  ],
+  [
+   "ENHYPEN JAPAN公式（ツアーグッズの事前販売）",
+   "https://enhypen-jp.weverse.io/news/f1516fcdee64"
+  ],
+  [
+   "ENHYPEN JAPAN公式（POP UP STORE）",
+   "https://enhypen-jp.weverse.io/news/dd0bec9156a4"
+  ],
+  [
+   "ENHYPEN JAPAN公式（公式ライトスティック）",
+   "https://enhypen-jp.weverse.io/news/a93a7752128e"
+  ],
+  [
+   "オリコン（日本ドームツアーの報道）",
+   "https://www.oricon.co.jp/news/2452377/full/"
+  ],
+  [
+   "THE FIRST TIMES（ソウル公演のライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000806100/"
+  ]
+ ]
+}

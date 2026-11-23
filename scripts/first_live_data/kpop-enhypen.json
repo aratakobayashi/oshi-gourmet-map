@@ -1,0 +1,428 @@
+{
+ "slug": "kpop-enhypen-first-live",
+ "group": "kpop_enhypen",
+ "name": "ENHYPEN",
+ "kana": "エンハイフン",
+ "aka": "エンハイフン",
+ "color": "#7c3aed",
+ "checked_at": "2026-11-23",
+ "title": "ENHYPEN（エンハイフン）ライブ初参戦ガイド｜応援法（ファンチャント）・ペンライト・本人確認・定番曲・グッズ・ドームツアー",
+ "description": "ENHYPEN（エンハイフン）の日本のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』（東京ドーム 2026年12月1日・2日・バンテリンドーム ナゴヤ 12月26日・27日・みずほPayPayドーム福岡 2027年2月6日・7日・京セラドーム大阪 2月19日・20日）の開場・開演、紙のチケットと本人確認、席の種類、応援グッズの決まり、公式ライトスティック、公式の応援法（ファンチャント）、グッズとポップアップストア、会場の近くの宿まで。",
+ "shows": [
+  {
+   "label": "東京ドーム",
+   "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2026-12-01",
+    "2026-12-02"
+   ],
+   "open": "16:30",
+   "start": "18:30",
+   "src": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga",
+   "src_label": "HYBE JAPANの公演ページ",
+   "time_note": "12月2日は開場14:00・開演16:00"
+  },
+  {
+   "label": "バンテリンドーム ナゴヤ",
+   "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+   "venue_key": "vantelin-dome-nagoya",
+   "dates": [
+    "2026-12-26",
+    "2026-12-27"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  },
+  {
+   "label": "みずほPayPayドーム福岡",
+   "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+   "venue_key": "mizuho-paypay-dome",
+   "dates": [
+    "2027-02-06",
+    "2027-02-07"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  },
+  {
+   "label": "京セラドーム大阪",
+   "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2027-02-19",
+    "2027-02-20"
+   ],
+   "open": "16:00",
+   "start": "18:00",
+   "src": "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'kpop-enhypen-blood-saga-in-japan-2026' %}{{ p.url }}{% endif %}{% endfor %}\">ENHYPEN BLOOD SAGA IN JAPAN ドームツアーまとめ（日程・時刻・セトリ）</a>",
+ "ticket_link": "<a href=\"{% for p in site.posts %}{% if p.slug == 'kpop-enhypen-blood-saga-in-japan-2026' %}{{ p.url }}{% endif %}{% endfor %}#tickets\">ENHYPEN ドームツアーまとめ「チケットの受付」</a>",
+ "intro": "ENHYPEN（エンハイフン）の日本のライブに、はじめて行く人のためのページです。チケットの受け取りから入場、本人確認、席の種類、応援グッズの決まり、ライトスティック、応援法（ファンチャント）、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました。",
+ "entry_lead": "ファンクラブの受付で当たったチケットは、ローソン・ミニストップの<strong>Loppiで発券する紙のチケット</strong>です。なくすと再発行されないので、発券したら大事に保管しましょう。プレイガイドや一般販売で買った人は、それぞれのプレイガイドの案内に従います。",
+ "three": [
+  [
+   "チケットを発券しておく",
+   "ファンクラブのチケットはLoppiで発券（東京は2026年11月21日13:00から、愛知は12月16日、福岡は2027年1月27日、大阪は2月9日から。各公演の開演まで）。払込票では入れない"
+  ],
+  [
+   "本人確認の3点セット",
+   "ファンクラブのチケットは①会員証かDIGITAL MEMBERSHIP CARD（スクリーンショット不可）②顔写真付きの身分証明書1点③チケット。それ以外のチケットでも顔写真付きの身分証明書の提示を求められることがある"
+  ],
+  [
+   "応援は公式グッズを胸の高さで",
+   "うちわ・ライトスティックは胸の高さで。公式でない光るもの・音が出るもの、アーティストの画像を使った手作りの応援グッズは使えない"
+  ]
+ ],
+ "three_more": {
+  "q": "使える身分証明書は？",
+  "a": "顔写真付きの学生証・パスポート・顔写真付きのマイナンバーカード・運転免許証・顔写真付きのクレジットカード・在留カード・顔写真付きの障害者手帳など、顔写真付きのもの1点です（コピー・期限切れは不可）。VIP席は申込者・同行者とも全員がサウンドチェックの入口で確認されます（公式の注意事項より）。"
+ },
+ "flow": [
+  [
+   "前日まで",
+   "チケットと身分証明書の準備",
+   "チケットを発券。身分証明書とDIGITAL MEMBERSHIP CARD（ファンクラブのチケット）を確かめる。ライトスティックの電池（単4形3本）も"
+  ],
+  [
+   "{open}",
+   "開場",
+   "手荷物の検査あり。カメラなどの電子機器・危険物は持ち込めない。スーツケースは預かりがないのでコインロッカーへ"
+  ],
+  [
+   "{start}",
+   "開演",
+   "撮影・録画・録音・配信は禁止（スマホはマナーモードにしてかばんへ）。声援・歌唱はしてよい（公式の案内）"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "終演の時刻は未発表。1日目は平日や夜の公演が多いので、遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "ticket",
+   "チケット（ファンクラブはLoppiで発券した紙のチケット）"
+  ],
+  [
+   "id",
+   "顔写真付きの身分証明書（原本）"
+  ],
+  [
+   "member",
+   "DIGITAL MEMBERSHIP CARD（ファンクラブのチケットの人）"
+  ],
+  [
+   "light",
+   "公式ライトスティック（単4形アルカリ電池3本）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに（スーツケースはコインロッカーへ）"
+  ]
+ ],
+ "seats_lead": "日本公演の席の種類です（<a href=\"https://www.hybejapan-concert.com/statics/enhypen_blood_saga\" target=\"_blank\" rel=\"noopener\">HYBE JAPANの公演ページ</a>より。値段はこのページでは扱いません）。",
+ "seats": [
+  [
+   "指定席",
+   "ふつうの指定席。1公演4枚まで"
+  ],
+  [
+   "注釈付き指定席",
+   "ステージの横や機材の近くなどで、ステージが見えにくいことがある席"
+  ],
+  [
+   "S席（12月1日 東京）",
+   "アリーナエリアの席。ファンクラブ会員だけのアップグレード抽選で決まる（一般には売らない）"
+  ],
+  [
+   "VIP席（12月1日以外）",
+   "アリーナエリアの席とサウンドチェックイベントつき。ファンクラブ会員だけのアップグレード抽選で決まる。サウンドチェックで入場したら外に出られない"
+  ]
+ ],
+ "seats_note": "3歳以上はチケットが必要で、3歳未満は入れません。車椅子の人は、公演の1週間前までに各公演の問い合わせ先に連絡します。",
+ "rules": {
+  "ng_items": [
+   "カメラ・録音機など撮影・録音ができる電子機器",
+   "公式でない光るもの・音が出る応援グッズ",
+   "アーティストの画像を使った手作りの応援グッズ",
+   "まわりの迷惑になる大きさの応援グッズ"
+  ],
+  "ng_acts": [
+   "撮影・録画・録音・配信",
+   "うちわやライトスティックを胸より上に上げる",
+   "会場の中でのファンの企画",
+   "空港や会場での入待ち・出待ち",
+   "花やプレゼント（手紙はファンクラブのブースのファンレターボックスだけ）"
+  ],
+  "ok": [
+   "マスクなしで声援・歌唱をしてよい（公式の案内）",
+   "ファンクラブ受付の同行者は会員でなくてもよい（S席・VIP席を除く）"
+  ],
+  "note": "出典：<a href=\"https://enhypen-jp.weverse.io/news/132f21d4c17a\" target=\"_blank\" rel=\"noopener\">ENHYPEN JAPAN公式の注意・禁止事項</a>・<a href=\"https://www.hybejapan-concert.com/statics/enhypen_blood_saga\" target=\"_blank\" rel=\"noopener\">HYBE JAPANの公演ページ</a>。京セラドーム大阪の公演はジャンプ禁止と公演ページに書かれています。"
+ },
+ "penlight": {
+  "heading": "ペンライト（公式ライトスティック）",
+  "text": "公式のライトスティックは「ENHYPEN Official Light Stick Ver.2 (Renewal Edition)」です（単4形アルカリ電池3本・電池は別売り）。左のボタンで色、右のボタンで点滅の速さを変えられ、両方のボタンを長押しするとスマホとBluetoothでつながります（専用アプリ「OFFICIAL LIGHT STICK Ver.2」）。前のVer.2もつなげられます。<strong>このツアーで座席の登録や無線で光る演出があるかは、日本公演の案内には書かれていません</strong>（2026年11月23日時点）。",
+  "colors": [],
+  "modes": [
+   "左ボタン：色を変える",
+   "右ボタン：点滅の速さ",
+   "右ボタン長押し：Color Shaking Mode",
+   "両ボタン長押し：Bluetoothでスマホとつなぐ"
+  ],
+  "note": "出典：<a href=\"https://shop.weverse.io/ja/shop/JPY/artists/10/sales/70155\" target=\"_blank\" rel=\"noopener\">Weverse Shop（Light Stick Ver.2 Renewal Edition）</a>・<a href=\"https://enhypen-jp.weverse.io/news/a93a7752128e\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>。公式でない光るもの・音が出るものは使えません。"
+ },
+ "members": {
+  "list": [
+   "JUNGWON",
+   "JAY",
+   "JAKE",
+   "SUNGHOON",
+   "SUNOO",
+   "NI-KI"
+  ],
+  "colors": {},
+  "note": "並びは<a href=\"https://enhypen-jp.weverse.io/profile\" target=\"_blank\" rel=\"noopener\">公式プロフィール</a>の順。2026年4月から6人で活動しています（<a href=\"https://www.oricon.co.jp/news/2452377/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。公式サイトにメンバーカラーの案内はありません。ファンの呼び名は「ENGENE」。"
+ },
+ "call": {
+  "text": "K-POPのライブでは、曲に合わせてメンバーの名前などを声に出す<strong>応援法（ファンチャント）</strong>があります。ENHYPENは日本公式サイトに<a href=\"https://enhypen-jp.weverse.io/fanchant\" target=\"_blank\" rel=\"noopener\"><strong>公式の応援方法</strong></a>のページ（Knife・Big Girls Don't Cry・Outside・Bad Desire・XO（Japanese Ver.）・No Doubt（Japanese Ver.）など）があり、公式YouTubeにも応援法の動画があります。公演では、マスクなしで声援・歌唱をしてよいと案内されています。",
+  "memo": "はじめてなら、まず公式の応援方法のページと下の動画で、よく歌われる曲の応援法を覚えておくのが近道です。歌詞と掛け声は公式のページで確かめてください。",
+  "channel": "ENHYPEN",
+  "videos": [
+   [
+    "DxlASO-nTlI",
+    "Knife",
+    "公式の応援法（응원법）"
+   ],
+   [
+    "PQDiCULLpXo",
+    "Outside",
+    "公式の応援法（응원법）"
+   ],
+   [
+    "Zx3mjgc0DlI",
+    "Big Girls Don't Cry",
+    "公式の応援法（응원법）"
+   ],
+   [
+    "FQwsouct1tE",
+    "Bad Desire (With or Without You)",
+    "公式の応援法（응원법）"
+   ],
+   [
+    "tWM5t3_v8KA",
+    "Stealer",
+    "Stage Cam @ 'BLOOD SAGA' IN SEOUL"
+   ],
+   [
+    "8EH4EBEQZkc",
+    "Shine On Me",
+    "Stage Cam @ 'WALK THE LINE' IN JAPAN -SUMMER EDITION"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "このツアー（BLOOD SAGA）の全曲のセットリストは、大手報道にはまだ載っていません。そこで、2026年5月のソウル公演のライブレポート（THE FIRST TIMES・オリコン）に出てくる曲を並べました。日本公演で歌われるかは分かりませんが、予習の手がかりになります。前回の日本ドームツアー「WALK THE LINE IN JAPAN」のセットリスト（7人のとき）も下に載せています。",
+  "top_label": "このツアーのソウル公演のライブレポートに出てくる曲（大手報道から）",
+  "top": [
+   "Knife",
+   "Daydream",
+   "Outside",
+   "Big Girls Don't Cry",
+   "Sleep Tight",
+   "Bills",
+   "Blockbuster",
+   "Future Perfect",
+   "Drunk-Dazed",
+   "Bite Me",
+   "CRIMINAL LOVE",
+   "Stealer",
+   "No Doubt",
+   "Go Big or Go Home",
+   "Paranormal"
+  ],
+  "two": "このうち、前回の日本ドームツアー「WALK THE LINE IN JAPAN」でも歌われたのは、Future Perfect・Bite Me・Go Big or Go Home・Paranormal です。",
+  "sets": [
+   {
+    "title": "WALK THE LINE IN JAPAN（2024年11月10日 ベルーナドーム）",
+    "parts": [
+     [
+      "本編",
+      "Brought The Heat Back／FEVER／ParadoXXX Invasion／Future Perfect (Pass the MIC) [Japanese Ver.]／Given-Taken [Japanese Ver.]／Lucifer／Teeth／Blessed-Cursed [Japanese Ver.]／Fatal Trouble／Bite Me [Japanese Ver.]／Highway 1009／Not For Sale／Your Eyes Only／Orange Flower (You Complete Me)／Scream／Tamed-Dashed [Japanese Ver.]／Sweet Venom／Go Big or Go Home／Hundred Broken Hearts／Still Monster／Moonstruck／XO (Only If You Say Yes)／Paranormal"
+     ],
+     [
+      "アンコール",
+      "always／SHOUT OUT／Blossom"
+     ]
+    ],
+    "src": [
+     "オリコン",
+     "https://www.oricon.co.jp/news/2353175/full/",
+     "7人のときの公演"
+    ]
+   },
+   {
+    "title": "BLOOD SAGA ソウル公演（2026年5月 KSPO DOME）",
+    "parts": [
+     [
+      "報道に出てくる曲",
+      "Knife・Daydream・Outside・Big Girls Don't Cry・Sleep Tight・Bills・Blockbuster・Future Perfect・Drunk-Dazed・Bite Me・CRIMINAL LOVE・Stealer ほか（全曲は報道されていません）"
+     ],
+     [
+      "アンコール",
+      "Knife・Go Big or Go Home・Paranormal"
+     ]
+    ],
+    "src": [
+     "THE FIRST TIMES",
+     "https://www.thefirsttimes.jp/report/0000806100/",
+     "一部"
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "ツアーグッズの事前販売",
+   "Weverse Shopで2026年10月14日11:00から売り切れまで。日本の住所への配送だけ（<a href=\"https://enhypen-jp.weverse.io/news/f1516fcdee64\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）"
+  ],
+  [
+   "POP UP STORE",
+   "東京（2026年11月20日〜12月2日）・愛知（12月18日〜27日 名古屋PARCO）・福岡（2027年1月29日〜2月7日 ソラリアプラザ）・大阪（2月11日〜21日）。入場はWeverse Spotの予約。ツアーグッズと公式ライトスティックを販売（<a href=\"https://enhypen-jp.weverse.io/news/dd0bec9156a4\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）"
+  ],
+  [
+   "公演の日の会場販売",
+   "2026年11月23日時点では発表されていません"
+  ]
+ ],
+ "fc_note": "公式ファンクラブは「ENGENE MEMBERSHIP (JP)」です（<a href=\"https://campaigns.weverse.io/WS215GUYQ4?lang=JA\" target=\"_blank\" rel=\"noopener\">入会・更新</a>）。全8公演の会場にファンクラブのブースがあり、ファンレターボックスもあります（<a href=\"https://enhypen-jp.weverse.io/news/2deffdfc994e\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>。時間は後日発表）。",
+ "official_links": [
+  [
+   "日本公式サイト",
+   "https://enhypen-jp.weverse.io/",
+   "お知らせ・チケット・応援方法"
+  ],
+  [
+   "公演ページ（HYBE JAPAN）",
+   "https://www.hybejapan-concert.com/statics/enhypen_blood_saga",
+   "日程・席・受付・注意事項"
+  ],
+  [
+   "公式の応援方法",
+   "https://enhypen-jp.weverse.io/fanchant",
+   "曲ごとの応援法"
+  ],
+  [
+   "Weverse Shop",
+   "https://shop.weverse.io/shop/artists/10/categories/1141?subCategoryId=8408",
+   "ツアーグッズ・ライトスティック"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/@ENHYPENOFFICIAL",
+   "応援法・ライブ映像"
+  ]
+ ],
+ "stay_text": "東京の12月1日は平日（火曜）の夜（18:30開演）、京セラドームの2月19日も金曜の18:00開演です。2日目はどの会場も16:00開演の昼の公演です。終演の時刻は発表されていません。遠くから行く人や2日続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "sources": [
+  [
+   "HYBE JAPAN（BLOOD SAGA IN JAPAN 公演ページ）",
+   "https://www.hybejapan-concert.com/statics/enhypen_blood_saga"
+  ],
+  [
+   "ENHYPEN JAPAN公式（会員最速先行・公演詳細）",
+   "https://enhypen-jp.weverse.io/news/932a12458df2"
+  ],
+  [
+   "ENHYPEN JAPAN公式（発券のお知らせ）",
+   "https://enhypen-jp.weverse.io/news/d9aad9be7f13"
+  ],
+  [
+   "ENHYPEN JAPAN公式（注意・禁止事項）",
+   "https://enhypen-jp.weverse.io/news/132f21d4c17a"
+  ],
+  [
+   "ENHYPEN JAPAN公式（VIP席の本人確認）",
+   "https://enhypen-jp.weverse.io/news/e12b40fc81be"
+  ],
+  [
+   "ENHYPEN JAPAN公式（公式ライトスティック）",
+   "https://enhypen-jp.weverse.io/news/a93a7752128e"
+  ],
+  [
+   "Weverse Shop（Light Stick Ver.2 Renewal Edition）",
+   "https://shop.weverse.io/ja/shop/JPY/artists/10/sales/70155"
+  ],
+  [
+   "ENHYPEN JAPAN公式（応援方法）",
+   "https://enhypen-jp.weverse.io/fanchant"
+  ],
+  [
+   "ENHYPEN JAPAN公式（プロフィール）",
+   "https://enhypen-jp.weverse.io/profile"
+  ],
+  [
+   "ENHYPEN JAPAN公式（ツアーグッズ）",
+   "https://enhypen-jp.weverse.io/news/f1516fcdee64"
+  ],
+  [
+   "ENHYPEN JAPAN公式（POP UP STORE）",
+   "https://enhypen-jp.weverse.io/news/dd0bec9156a4"
+  ],
+  [
+   "オリコン（WALK THE LINE IN JAPAN セットリスト）",
+   "https://www.oricon.co.jp/news/2353175/full/"
+  ],
+  [
+   "オリコン（日本ドームツアー・6人での活動）",
+   "https://www.oricon.co.jp/news/2452377/full/"
+  ],
+  [
+   "THE FIRST TIMES（BLOOD SAGA ソウル公演）",
+   "https://www.thefirsttimes.jp/report/0000806100/"
+  ]
+ ],
+ "summary": [
+  "日本公演は 東京ドーム 2026年12月1日（火）・2日（水）、バンテリンドーム ナゴヤ 12月26日・27日、みずほPayPayドーム福岡 2027年2月6日・7日、京セラドーム大阪 2月19日・20日。2日目はどの会場も開場14:00・開演16:00",
+  "ファンクラブのチケットはLoppiで発券する紙のチケット。入場時に本人確認があることがあり、顔写真付きの身分証明書が必要。VIP席は全員確認",
+  "うちわ・ライトスティックは胸の高さで。公式でない光るもの・音が出るもの、アーティストの画像を使った手作りの応援グッズは禁止",
+  "日本公式サイトに公式の応援方法（ファンチャント）のページがあり、マスクなしで声援・歌唱をしてよいと案内されている",
+  "グッズはWeverse Shopの事前販売と、4都市のPOP UP STORE"
+ ],
+ "faq": [
+  [
+   "ENHYPENのドームツアーの開場・開演は何時ですか？",
+   "東京ドームは12月1日が開場16:30・開演18:30、12月2日が開場14:00・開演16:00。バンテリンドーム ナゴヤ（12月26日）・みずほPayPayドーム福岡（2月6日）は開場15:00・開演17:00、京セラドーム大阪（2月19日）は開場16:00・開演18:00、各会場の2日目は開場14:00・開演16:00です（HYBE JAPANの公演ページより）。"
+  ],
+  [
+   "入場に必要なものは？",
+   "チケットと顔写真付きの身分証明書です。ファンクラブの受付のチケットは、会員証かDIGITAL MEMBERSHIP CARD（スクリーンショット不可）も持っていきます。ファンクラブのチケットはLoppiで発券する紙のチケットで、払込票では入れません。"
+  ],
+  [
+   "チケットはどう申し込みますか？",
+   "ファンクラブ「ENGENE MEMBERSHIP (JP)」の先行やプレイガイドの先行は終わり、2026年10月31日10:00から一般販売（先着）が始まっています。受付の種類と期間は「ENHYPEN ドームツアーまとめ」の「チケットの受付」にまとめています。転売・譲渡は禁止です。"
+  ],
+  [
+   "ペンライトは何を持っていけばいいですか？",
+   "公式の「ENHYPEN Official Light Stick」です。公式でない光るもの・音が出るものは使えません。うちわとライトスティックは胸の高さで使います。"
+  ],
+  [
+   "応援法（ファンチャント）はどこで覚えられますか？",
+   "ENHYPENの日本公式サイトに「応援方法」のページがあり、公式YouTubeにも応援法の動画があります。声援・歌唱はマスクなしでしてよいと案内されています。"
+  ],
+  [
+   "子どもも入れますか？",
+   "3歳以上はチケットが必要で、3歳未満は入れません。"
+  ],
+  [
+   "グッズはどこで買えますか？",
+   "Weverse Shopの事前販売と、東京・愛知・福岡・大阪のPOP UP STORE（Weverse Spotの予約）です。公演の日の会場での販売は、2026年11月23日時点では発表されていません。"
+  ]
+ ]
+}

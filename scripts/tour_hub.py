@@ -194,7 +194,7 @@ def build(name):
     b.append('<h2 id="prep">🔰 はじめての人へ・予習</h2>')
     if fl and os.path.exists(os.path.join(ROOT, 'scripts/first_live_data', g.replace('_', '-') + '.json')):
         fd = J(f'scripts/first_live_data/{g.replace("_", "-")}.json')
-        b.append(f'<p>直近の大きな3公演すべてで歌われた曲（大手報道のセットリストから）：</p>')
+        b.append(f'<p>{fd["setlist"].get("top_label", "直近の大きな3公演すべてで歌われた曲（大手報道のセットリストから）")}：</p>')
         b.append('<ul class="setl-top">' + ''.join(f'<li>{esc(t)}</li>' for t in fd['setlist']['top']) + '</ul>')
         b.append(f'<div class="pf-cta">\n  <p>{esc(gl)}のライブにはじめて行く人へ</p>\n  <span>入場と本人確認・席の種類・ペンライト・撮影・コール・予習の動画・グッズの買い方を、公式の案内からまとめています。</span>\n'
                  f'  <a class="btn" href="/guide/{fl}/">{esc(aka or gl)}のライブ初参戦ガイド（ペンライトの色・コール）</a>\n</div>')
