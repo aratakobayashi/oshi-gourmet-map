@@ -193,5 +193,32 @@
    "#e5e7eb"
   ],
   "out": "assets/img/posts/numberi-live-tour-no3-2026/thumb"
+ },
+ "numberi-first-live": {
+  "label": "はじめてのライブ",
+  "title": "Number_i",
+  "sub": "ナンバーアイのライブに\nはじめて行く人へ",
+  "chips": [
+   "No.Ⅲ 5大ドーム",
+   "入場と本人確認",
+   "ペンライトの座席登録",
+   "コールの動画"
+  ],
+  "color": "#d4af37",
+  "group": "numberi",
+  "logo_text": "No.Ⅲ",
+  "logo_sub": "FIRST LIVE",
+  "bg": [
+   "#0b0b10",
+   "#1c1c26",
+   "#050507"
+  ],
+  "lights": [
+   "#ffffff",
+   "#8b5cf6",
+   "#3b82f6",
+   "#ef4444",
+   "#d4af37"
+  ]
  }
 }

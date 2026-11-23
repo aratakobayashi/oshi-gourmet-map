@@ -306,6 +306,16 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 <h2 id="prep">🔰 はじめての人へ・予習</h2>
 
+<p>直近の大きな3公演すべてで歌われた曲（大手報道のセットリストから）：</p>
+
+<ul class="setl-top"><li>FUJI</li><li>GOAT</li><li>No-Yes</li><li>i</li><li>BON</li><li>SQUARE_ONE</li><li>Midnight City</li></ul>
+
+<div class="pf-cta">
+  <p>Number_iのライブにはじめて行く人へ</p>
+  <span>入場と本人確認・席の種類・ペンライト・撮影・コール・予習の動画・グッズの買い方を、公式の案内からまとめています。</span>
+  <a class="btn" href="/guide/numberi-first-live/">ナンバーアイのライブ初参戦ガイド（ペンライトの色・コール）</a>
+</div>
+
 {% include live-list.html group="numberi" title="Number_iのこれからの公演（参戦ガイド）" %}
 
 <p class="note">このページは2026年11月23日に、Number_i公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
