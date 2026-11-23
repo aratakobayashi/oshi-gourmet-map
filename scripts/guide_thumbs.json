@@ -274,5 +274,61 @@
   "logo_text": "5th",
   "logo_sub": "DOME TOUR",
   "out": "assets/img/posts/befirst-dome-tour-2027/thumb"
+ },
+ "kpop-enhypen-first-live": {
+  "color": "#7c3aed",
+  "group": "kpop_enhypen",
+  "bg": [
+   "#12051f",
+   "#2a0d45",
+   "#07020d"
+  ],
+  "lights": [
+   "#a78bfa",
+   "#ffffff",
+   "#7c3aed",
+   "#c4b5fd",
+   "#f43f5e"
+  ],
+  "label": "はじめてのライブ",
+  "title": "ENHYPEN",
+  "sub": "エンハイフンのライブに\nはじめて行く人へ",
+  "chips": [
+   "4大ドーム",
+   "本人確認",
+   "応援法",
+   "ライトスティック"
+  ],
+  "logo_text": "ENHYPEN",
+  "logo_sub": "FIRST LIVE"
+ },
+ "kpop-enhypen-blood-saga-in-japan-2026": {
+  "color": "#7c3aed",
+  "group": "kpop_enhypen",
+  "bg": [
+   "#12051f",
+   "#2a0d45",
+   "#07020d"
+  ],
+  "lights": [
+   "#a78bfa",
+   "#ffffff",
+   "#7c3aed",
+   "#c4b5fd",
+   "#f43f5e"
+  ],
+  "label": "ツアーまとめ",
+  "title": "ENHYPEN",
+  "sub": "BLOOD SAGA\nIN JAPAN 4大ドーム",
+  "chips": [
+   "東京 12.1・2",
+   "名古屋 12.26・27",
+   "福岡 2.6・7",
+   "大阪 2.19・20",
+   "近くの宿"
+  ],
+  "logo_text": "BLOOD",
+  "logo_sub": "SAGA",
+  "out": "assets/img/posts/kpop-enhypen-blood-saga-in-japan-2026/thumb"
  }
 }
