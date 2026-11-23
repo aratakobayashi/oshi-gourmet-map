@@ -1,0 +1,100 @@
+{
+ "slug": "numberi-live-tour-no3-2026",
+ "group": "numberi",
+ "series": "No.Ⅲ",
+ "series_long": "Number_i LIVE TOUR No.Ⅲ",
+ "title_core": "LIVE TOUR No.III 2026-2027",
+ "lives": [
+  "numberi-kyocera-dome-osaka-2026-12",
+  "numberi-tokyo-dome-2026-12",
+  "numberi-vantelin-dome-nagoya-2027-01",
+  "numberi-mizuho-paypay-dome-2027-01"
+ ],
+ "checked_at": "2026-11-23",
+ "lead": "Number_i（ナンバーアイ）の初の5大ドームツアー『Number_i LIVE TOUR No.Ⅲ』は、ワールドツアー「Number_i 1st World Tour」の日本公演（Chapter 1）です。2026年10月24日の大和ハウス プレミストドーム（札幌）で開幕し、これから京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡で公演があります。日程と時刻、チケットの受付、グッズとペンライトの決まり、会場ごとの近い宿と近くの聖地をこのページにまとめます",
+ "nagoya_note": "開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。バンテリンドーム ナゴヤの1月10日は1日2回公演です。",
+ "goods": [
+  [
+   "公式ペンライトと光るもの",
+   "このツアーは「Number_i LIVE TOUR No.Ⅲ オリジナルペンライト」の無線の演出があり、事前にアプリで座席を登録します。これまでの公式ペンライトと「3XL」ハートのペンダントはライトを消して持ち込めます。公式グッズでない光るものは持ち込めません",
+   "https://tobe-store.jp/blogs/information/108"
+  ],
+  [
+   "会場でのグッズ販売",
+   "予約・整理券はいらず、公演のチケットがなくても買えます。1回の会計で1種類4点まで。前日からの徹夜・早朝からの待機は禁止。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせ",
+   "https://tobe-store.jp/blogs/information/108"
+  ],
+  [
+   "公式ストアの通販",
+   "2026年11月6日18:00から、売り切れまで（11月10日から順に発送）。1種類4点まで",
+   "https://tobe-store.jp/blogs/information/111"
+  ],
+  [
+   "会場限定のCD特典",
+   "4thシングル「REBON / BUGS LIFE / DIGITAL GIRL」を会場で買うと特典（3形態でB2ポスターとステッカーセット、1形態でB2ポスター）。札幌のあとの会場は決まりしだいお知らせ",
+   "https://tobe-official.jp/artists/number_i/news/2457"
+  ]
+ ],
+ "setlists": [
+  {
+   "title": "札幌公演（2026年10月24日）のライブレポートに出てくる曲（一部）",
+   "parts": [
+    [
+     "報道に出てくる曲",
+     "「BUGS LIFE」「GOAT」「NUMBERS PT.2」ほか。全曲のセットリストは報道されていません"
+    ]
+   ],
+   "src": [
+    "THE FIRST TIMES（2026年10月26日のライブレポート）",
+    "https://www.thefirsttimes.jp/report/0000905956/"
+   ]
+  }
+ ],
+ "setlist_pending": "全曲のセットリストは、大手報道のライブレポートに載ったときだけ、出典つき・ネタバレ注意の閉じた形で載せます。",
+ "sources": [
+  [
+   "TOBE公式（Number_i LIVE TOUR No.Ⅲ 公演情報：日程・開演時刻・席種）",
+   "https://tobe-official.jp/artists/number_i/concert/364"
+  ],
+  [
+   "TOBE公式（ワールドツアー「Number_i 1st World Tour」発表）",
+   "https://tobe-official.jp/artists/number_i/news/2310"
+  ],
+  [
+   "TOBE公式（公演スケジュールのご案内）",
+   "https://tobe-official.jp/artists/number_i/news/2318"
+  ],
+  [
+   "TOBE公式（ファンクラブ受付）",
+   "https://tobe-official.jp/artists/number_i/news/2330"
+  ],
+  [
+   "TOBE公式（VIP GOLD席 ファンクラブ追加受付）",
+   "https://tobe-official.jp/artists/number_i/news/2413"
+  ],
+  [
+   "TOBE公式（大阪・東京公演 一般発売）",
+   "https://tobe-official.jp/artists/number_i/news/2517"
+  ],
+  [
+   "TOBE STORE（会場販売・ペンライトの注意）",
+   "https://tobe-store.jp/blogs/information/108"
+  ],
+  [
+   "TOBE STORE（通販）",
+   "https://tobe-store.jp/blogs/information/111"
+  ],
+  [
+   "TOBE公式（会場限定のCD特典）",
+   "https://tobe-official.jp/artists/number_i/news/2457"
+  ],
+  [
+   "モデルプレス（ツアー開幕のライブレポート：開場時刻）",
+   "https://mdpr.jp/news/detail/4865445"
+  ],
+  [
+   "THE FIRST TIMES（ツアー開幕のライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000905956/"
+  ]
+ ]
+}

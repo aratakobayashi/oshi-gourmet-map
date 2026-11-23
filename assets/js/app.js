@@ -115,8 +115,8 @@
     var t = now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate()) + 'T' + pad(now.getHours()) + ':' + pad(now.getMinutes());
     document.querySelectorAll('.tk[data-s][data-e]').forEach(function (li) {
       var s = li.getAttribute('data-s'), e = li.getAttribute('data-e');
-      if (!s || !e) return;
-      var st = t < s ? ['これから', 'is-soon'] : t <= e ? ['受付中', 'is-open'] : ['終了', 'is-done'];
+      if (!s) return;
+      var st = t < s ? ['これから', 'is-soon'] : !e ? ['発売中', 'is-open'] : t <= e ? ['受付中', 'is-open'] : ['終了', 'is-done'];
       li.className = 'tk ' + st[1];
       var lab = li.querySelector('.tk__st'); if (lab) lab.textContent = st[0];
     });

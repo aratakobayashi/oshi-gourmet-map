@@ -1,108 +1,228 @@
 ---
 layout: post
-title: 『Number_i LIVE TOUR No.III』×聖地巡礼｜会場ごとの近くの推しグルメと泊まる場所
+title: Number_i（ナンバーアイ） LIVE TOUR No.III 2026-2027まとめ｜京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡の日程・時刻・セトリ・近くのホテル
 date: '2026-10-19'
-last_modified_at: '2026-10-19'
-checked_at: '2026-10-19'
-checked_label: ツアーの日程と会場
-description: Number_iのツアー『Number_i LIVE TOUR No.III』（2026年10月24日〜2027年1月11日・4会場）の会場ごとに、Number_iのメンバーが番組やYouTubeで訪れたお店を会場から近い順に6軒まとめました。会場は大和ハウス プレミストドーム・京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ。会場の近くに泊まる宿の探し方と、各会場のライブ参戦ガイドもあわせて。
+last_modified_at: '2026-11-23'
+checked_at: '2026-11-23'
+checked_label: 公演の日程
+description: Number_i LIVE TOUR No.Ⅲ（京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日））の日程と会場、会場ごとの近い宿と近くのNumber_iの聖地、公演のあとのセットリストをまとめました。日程は2026年11月23日時点の公式発表です。
 group: numberi
-genre: まとめ
-article_type: tour
+genre: ライブ
+article_type: tourhub
+live_dates:
+- '2026-12-02'
+- '2026-12-09'
+- '2026-12-10'
+- '2027-01-09'
+- '2027-01-10'
+- '2027-01-11'
+- '2027-01-16'
+- '2027-01-17'
+live_end: '2027-01-17'
 tags:
 - Number_i
-- Number_i LIVE TOUR No.III
-- ツアー
-- 遠征
-- 聖地巡礼
-- ロケ地
-- 大和ハウス プレミストドーム
+- ナンバーアイ
+- Number_i LIVE TOUR No.Ⅲ
 - 京セラドーム大阪
 - 東京ドーム
 - バンテリンドーム ナゴヤ
-- 岸優太
-- 神宮寺勇太
-- 平野紫耀
+- みずほPayPayドーム福岡
+- ライブ
+- ドーム公演
+- 日程
+- セトリ
+- 遠征
 sources:
-- label: TOBE公式（Number_i LIVE TOUR No.III 日本公演の公演スケジュール）
-  url: https://tobe-official.jp/artists/number_i/news/2318
-- label: TOBE公式（Number_i 公演情報）
+- label: TOBE公式（Number_i LIVE TOUR No.Ⅲ 公演情報：日程・開演時刻・席種）
   url: https://tobe-official.jp/artists/number_i/concert/364
-shop_ids:
-- numberi-361c2213-
-- numberi-a9a5b0f5-
-- numberi-lesolca-
-- numberi-e953882d-
-- numberi-teddy_s_bigger_burge-
-- kingprince-fb2b6baa-20220807
+- label: TOBE公式（ワールドツアー「Number_i 1st World Tour」発表）
+  url: https://tobe-official.jp/artists/number_i/news/2310
+- label: TOBE公式（公演スケジュールのご案内）
+  url: https://tobe-official.jp/artists/number_i/news/2318
+- label: TOBE公式（ファンクラブ受付）
+  url: https://tobe-official.jp/artists/number_i/news/2330
+- label: TOBE公式（VIP GOLD席 ファンクラブ追加受付）
+  url: https://tobe-official.jp/artists/number_i/news/2413
+- label: TOBE公式（大阪・東京公演 一般発売）
+  url: https://tobe-official.jp/artists/number_i/news/2517
+- label: TOBE STORE（会場販売・ペンライトの注意）
+  url: https://tobe-store.jp/blogs/information/108
+- label: TOBE STORE（通販）
+  url: https://tobe-store.jp/blogs/information/111
+- label: TOBE公式（会場限定のCD特典）
+  url: https://tobe-official.jp/artists/number_i/news/2457
+- label: モデルプレス（ツアー開幕のライブレポート：開場時刻）
+  url: https://mdpr.jp/news/detail/4865445
+- label: THE FIRST TIMES（ツアー開幕のライブレポート）
+  url: https://www.thefirsttimes.jp/report/0000905956/
 faq:
-- q: Number_iの『Number_i LIVE TOUR No.III』の会場と日程は？
-  a: 2026年10月24日〜2027年1月11日に4会場です。大和ハウス プレミストドーム（10月24日）、京セラドーム大阪（12月2日）、東京ドーム（12月9日・12月10日）、バンテリンドーム ナゴヤ（1月9日・1月10日・1月11日）。日程は2026年10月19日時点の公式発表で、変わることがあります。最新は公式サイトで確かめてください。
-- q: 東京ドームの近くでNumber_iの聖地はありますか？
-  a: 会場から10km以内に5軒あります。オステリア セルヴァジーナ（約3.4km）、蜂の家 銀座本店（約3.9km）、LESOLCA（約3.9km）などです。会場からの距離は直線距離です。
-- q: バンテリンドーム ナゴヤの近くでNumber_iの聖地はありますか？
-  a: 会場から10km以内に1軒あります。大久手 山本屋（約2.7km）などです。会場からの距離は直線距離です。
-- q: 大和ハウス プレミストドーム・京セラドーム大阪の近くにNumber_iの聖地はありますか？
-  a: 2026年10月時点で、会場から10km以内にNumber_iのメンバーが行ったお店は登録されていません。ほかの推しが訪れたお店は会場ガイドと「お店を探す」の地図で見られます。
-- q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の会場ごとの「泊まる」から、じゃらん・楽天トラベルで会場名を検索できます。遠征の交通や持ち物は「ライブ遠征の準備チェックリスト」にまとめています。
+- q: Number_i LIVE TOUR No.Ⅲの日程と会場は？
+  a: 京セラドーム大阪（2026年12月2日（水））、東京ドーム（2026年12月9日（水）・10日（木））、バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））、みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））です。2026年11月23日時点の公式発表で、変わることがあります。
+- q: 開場・開演の時刻は？
+  a: 12月2日は開場16:30・開演18:30、12月9日は開場16:30・開演18:30、12月10日は開場16:30・開演18:30、1月9日は開場15:00・開演17:00、1月10日は1回目 開場10:30・開演12:30、2回目 開場17:00・開演19:00、1月11日は開場15:00・開演17:00、1月16日は開場15:00・開演17:00、1月17日は開場15:00・開演17:00です（開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります）。発表されていない公演の時刻は、Number_iの公式サイトで確かめてください。
+- q: セットリストは？
+  a: 公演のあと、大手報道のライブレポートに載ったセットリストをこのページの「セットリスト」に出典つきで載せています（ネタバレ注意）。
+- q: チケットの受付は？
+  a: このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（2026年11月23日時点）。値段や席ごとの条件は公式のお知らせで確かめてください。
+- q: 会場の近くの宿は？
+  a: このページの会場ごとの「会場から近い宿」に、楽天トラベルの宿を会場から近い順に載せています。会場ごとの「近くのホテル」のページでは、最寄り駅ごとにさらに多くの宿を見られます。
 pr: true
 summary:
-- 『Number_i LIVE TOUR No.III』は2026年10月24日〜2027年1月11日、4会場（2026年10月19日時点の公式発表）
-- 会場の近くにNumber_iのメンバーが行ったお店があるのは2会場。あわせて6軒を会場から近い順に載せています
-- 会場ごとに、宿の探し方（じゃらん・楽天トラベル）と、持ち込み・座席が分かるライブ参戦ガイドへの案内つき
+- Number_i LIVE TOUR No.Ⅲは京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日）の4会場・9公演（2026年11月23日時点の公式発表）
+- '発表されている時刻: 12月2日は開場16:30・開演18:30、12月9日は開場16:30・開演18:30、12月10日は開場16:30・開演18:30、1月9日は開場15:00・開演17:00、1月10日は1回目 開場10:30・開演12:30、2回目 開場17:00・開演19:00、1月11日は開場15:00・開演17:00、1月16日は開場15:00・開演17:00、1月17日は開場15:00・開演17:00'
+- 会場ごとに、会場から近い宿（楽天トラベル）と宿の検索、近くのNumber_iの聖地、参戦ガイドをまとめています
+- セットリストは公演のあと、大手報道のライブレポートに載ったものだけを出典つきで載せます
+events:
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2026-12-02'
+  start: '18:30'
+  door: '16:30'
+  venue_key: kyocera-dome-osaka
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2026-12-09'
+  start: '18:30'
+  door: '16:30'
+  venue_key: tokyo-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2026-12-10'
+  start: '18:30'
+  door: '16:30'
+  venue_key: tokyo-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-09'
+  start: '17:00'
+  door: '15:00'
+  venue_key: vantelin-dome-nagoya
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-10'
+  start: '12:30'
+  door: '10:30'
+  venue_key: vantelin-dome-nagoya
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-10'
+  start: '19:00'
+  door: '17:00'
+  venue_key: vantelin-dome-nagoya
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-11'
+  start: '17:00'
+  door: '15:00'
+  venue_key: vantelin-dome-nagoya
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-16'
+  start: '17:00'
+  door: '15:00'
+  venue_key: mizuho-paypay-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
+- name: Number_i LIVE TOUR No.Ⅲ
+  date: '2027-01-17'
+  start: '17:00'
+  door: '15:00'
+  venue_key: mizuho-paypay-dome
+  url: https://tobe-official.jp/artists/number_i/concert/364
+thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 ---
-<div class="pf" style="--pc:#111827">
+<div class="pf fl" style="--pc:#111827">
 
+<section class="fl-hero" aria-label="次の公演">
+  <p class="fl-hero__k">NEXT · 京セラドーム大阪</p>
+  <p class="fl-hero__v">No.Ⅲ</p>
+  <p class="fl-hero__t">Number_i LIVE TOUR No.Ⅲ　4会場・9公演</p>
+  <div class="fl-hero__days"><div><b>12.2</b><small>水</small></div></div>
+  <p class="live-cd" data-d="2026-12-02" data-e="2026-12-02"><b>公演日</b>2026年12月2日（水）</p>
+</section>
 
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a><a class="chip chip--area" href="#tickets">🎫 チケット</a><a class="chip chip--area" href="#v-kyocera-dome-osaka">🏟 京セラドーム大阪</a><a class="chip chip--area" href="#v-tokyo-dome">🏟 東京ドーム</a><a class="chip chip--area" href="#v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ</a><a class="chip chip--area" href="#v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>
 
-<p><strong>Number_i</strong>のツアー『Number_i LIVE TOUR No.III』は、2026年10月24日〜2027年1月11日に4会場で行われます（<a href="https://tobe-official.jp/artists/number_i/news/2318" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月19日時点）。遠征の日は、会場の近くにある推しの聖地を巡るチャンスです。</p>
+<p>Number_i（ナンバーアイ）の初の5大ドームツアー『Number_i LIVE TOUR No.Ⅲ』は、ワールドツアー「Number_i 1st World Tour」の日本公演（Chapter 1）です。2026年10月24日の大和ハウス プレミストドーム（札幌）で開幕し、これから京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡で公演があります。日程と時刻、チケットの受付、グッズとペンライトの決まり、会場ごとの近い宿と近くの聖地をこのページにまとめます（2026年11月23日時点）。</p>
 
-<p>この記事では、会場ごとに<strong>Number_iのメンバーが番組やYouTubeで訪れたお店</strong>を会場から近い順に並べました（6軒）。お店ごとに、どの回で誰が行ったか・頼んだ物・会場からの直線距離が分かります。会場の近くに泊まる宿の探し方と、持ち込みや座席が分かるライブ参戦ガイドもあわせてどうぞ。</p>
+<h2 id="schedule">📅 日程と会場</h2>
 
-<div class="cnav">
-<p class="cnav__h">会場で選ぶ</p>
-<div class="cnav__list"><a href="#v1"><span>大和ハウス プレミストドーム<small>10/24</small></span></a><a href="#v2"><span>京セラドーム大阪<small>12/2</small></span></a><a href="#v3"><span>東京ドーム<small>12/9・12/10／聖地5軒</small></span></a><a href="#v4"><span>バンテリンドーム ナゴヤ<small>1/9・1/10・1/11／聖地1軒</small></span></a></div>
+<ol class="tl-sched">
+  <li><span class="tl-d"><b>12.2</b><small>水</small></span><span class="tl-v"><b>京セラドーム大阪</b><small>開場 16:30／開演 18:30</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.9</b><small>水</small></span><span class="tl-v"><b>東京ドーム</b><small>開場 16:30／開演 18:30</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.10</b><small>木</small></span><span class="tl-v"><b>東京ドーム</b><small>開場 16:30／開演 18:30</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.9</b><small>土</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開場 15:00／開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.10</b><small>日</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>1回目 開場 10:30／開演 12:30、2回目 開場 17:00／開演 19:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.11</b><small>月</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開場 15:00／開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.16</b><small>土</small></span><span class="tl-v"><b>みずほPayPayドーム福岡</b><small>開場 15:00／開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-01-17' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.17</b><small>日</small></span><span class="tl-v"><b>みずほPayPayドーム福岡</b><small>開場 15:00／開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-01-17' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+</ol>
+
+<p class="note">開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。バンテリンドーム ナゴヤの1月10日は1日2回公演です。</p>
+
+<p class="note">日程は<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">京セラドーム大阪公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">みずほPayPayドーム福岡公演の公式発表</a>より（2026年11月23日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="tickets">🎫 チケットの受付</h2>
+
+<p>会場ごとのチケットの受付です（2026年11月23日時点の公式発表）。受付中のものは期限に気をつけてください。</p>
+
+<h3 class="fl-h3">京セラドーム大阪（2026年12月2日（水））</h3>
+
+<ol class="tk-list">
+  <li class="tk is-open" data-s="2026-11-19T12:00" data-e=""><span class="tk__st">発売中</span><b class="tk__n">一般発売</b><span class="tk__p">11月19日（木）12:00〜（予定枚数に達し次第終了）</span><span class="tk__w">どなたでも・先着順（Live Nation）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2517" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（2）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-08-10T16:00" data-e="2026-08-16T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ受付</b><span class="tk__p">8月10日（月）16:00〜8月16日（日）23:59</span><span class="tk__w">ファンクラブ会員・SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2330" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-09-30T12:00" data-e="2026-10-01T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ追加受付（VIP GOLD席）</b><span class="tk__p">9月30日（水）12:00〜10月1日（木）23:59</span><span class="tk__w">ファンクラブ会員・VIP GOLD席（全会場・顔認証）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2413" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
+
+<h3 class="fl-h3">東京ドーム（2026年12月9日（水）・10日（木））</h3>
+
+<ol class="tk-list">
+  <li class="tk is-open" data-s="2026-11-19T12:00" data-e=""><span class="tk__st">発売中</span><b class="tk__n">一般発売</b><span class="tk__p">11月19日（木）12:00〜（予定枚数に達し次第終了）</span><span class="tk__w">どなたでも・先着順（Live Nation）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2517" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（2）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-08-10T16:00" data-e="2026-08-16T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ受付</b><span class="tk__p">8月10日（月）16:00〜8月16日（日）23:59</span><span class="tk__w">ファンクラブ会員・SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席、東京公演だけのバルコニー指定席・MASU BOX・THE 3rd PLATINUM BOX</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2330" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-09-30T12:00" data-e="2026-10-01T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ追加受付（VIP GOLD席）</b><span class="tk__p">9月30日（水）12:00〜10月1日（木）23:59</span><span class="tk__w">ファンクラブ会員・VIP GOLD席（全会場・顔認証）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2413" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
+
+<h3 class="fl-h3">バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））</h3>
+
+<ol class="tk-list">
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">日程は未発表（2026年11月23日時点）</span><span class="tk__w">どなたでも</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（2）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-08-10T16:00" data-e="2026-08-16T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ受付</b><span class="tk__p">8月10日（月）16:00〜8月16日（日）23:59</span><span class="tk__w">ファンクラブ会員・SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2330" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-09-30T12:00" data-e="2026-10-01T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ追加受付（VIP GOLD席）</b><span class="tk__p">9月30日（水）12:00〜10月1日（木）23:59</span><span class="tk__w">ファンクラブ会員・VIP GOLD席（全会場・顔認証）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2413" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
+
+<h3 class="fl-h3">みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））</h3>
+
+<ol class="tk-list">
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">日程は未発表（2026年11月23日時点）</span><span class="tk__w">どなたでも</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（2）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-08-10T16:00" data-e="2026-08-16T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ受付</b><span class="tk__p">8月10日（月）16:00〜8月16日（日）23:59</span><span class="tk__w">ファンクラブ会員・SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席、福岡公演だけのBOX 5</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2330" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-09-30T12:00" data-e="2026-10-01T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ追加受付（VIP GOLD席）</b><span class="tk__p">9月30日（水）12:00〜10月1日（木）23:59</span><span class="tk__w">ファンクラブ会員・VIP GOLD席（全会場・顔認証）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2413" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">各席種1回4枚まで（BOX席は1組の枚数）。ファンクラブ受付のチケットは公式のリセールの対象です。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
+
+<h2 id="v-kyocera-dome-osaka">🏟 京セラドーム大阪（2026年12月2日（水））</h2>
+
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は 地下鉄長堀鶴見緑地線のドーム前千代崎駅と阪神なんば線のドーム前駅（どちらも徒歩すぐ）。JR大正駅・地下鉄中央線の九条駅からも歩ける</li><li>入場ゲートは3F。2Fのスタジアムモールからは球場内に直接入れないので、外の階段やエレベーターで3Fへ</li><li>飲食物の持ち込みは遠慮するよう案内あり。危険物・ペット・ビン・缶・凍らせたものや1,000mlを超えるペットボトル・クーラーボックスは持ち込めない</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2026-12-02' %}{{ p.url }}{% endif %}{% endfor %}">Number_i 京セラドーム大阪公演 参戦ガイド</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
 </div>
-
-<h2>日程と会場</h2>
-
-<figure class="fig"><img src="/assets/img/posts/numberi-live-tour-no3-2026/tour.svg" alt="Number_i LIVE TOUR No.IIIの会場を日付順に並べた図。大和ハウス プレミストドーム（10/24）、京セラドーム大阪（12/2）、東京ドーム（12/9・12/10）、バンテリンドーム ナゴヤ（1/9・1/10・1/11）" width="420" height="328" loading="lazy" decoding="async"><figcaption>会場と日程は公式の公演情報（2026年10月19日時点）。右の札は、会場から3km（少ない会場は10km）以内にあるNumber_iの聖地の数</figcaption></figure>
-
-<ul>
-  <li><a href="#v1"><strong>大和ハウス プレミストドーム</strong></a>（北海道）：10月24日（土）</li>
-  <li><a href="#v2"><strong>京セラドーム大阪</strong></a>（大阪府）：12月2日（水）</li>
-  <li><a href="#v3"><strong>東京ドーム</strong></a>（東京都）：12月9日（水）、12月10日（木）</li>
-  <li><a href="#v4"><strong>バンテリンドーム ナゴヤ</strong></a>（愛知県）：1月9日（土）、1月10日（日）、1月11日（月）</li>
-</ul>
-
-<p class="note">福岡公演は公式に予定として載っていますが、日程と会場が発表されていないため、この記事には入れていません。各会場で日程が追加されることもあります。</p>
-
-<p class="note">日程は変わることがあります。最新の公演情報は<a href="https://tobe-official.jp/artists/number_i/news/2318" target="_blank" rel="noopener">公式サイト</a>で確かめてください。チケットの申し込み方法や値段はこの記事では扱いません。</p>
-
-<h2 id="v1">大和ハウス プレミストドーム（10月24日）の近くの聖地</h2>
-
-<p>2026年10月時点で、会場から10km以内にNumber_iのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
-
-<div class="ensei__shops">{% include mini.html id="sekkaku_gourmet-48c13bbd-20260104" m=2680 from="会場から" %}{% include mini.html id="jinsei_saiko-05ed45aa-20240120" m=2720 from="会場から" %}{% include mini.html id="shuichi-c6d0a015-20250405" m=2800 from="会場から" %}</div>
-
-<div class="btn-row"><a class="btn" href="/guide/sapporo-dome/">大和ハウス プレミストドームのライブ参戦ガイド</a><a class="btn" href="/shops/?near=43.016666,141.411332&amp;nl=%E5%A4%A7%E5%92%8C%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E3%83%88%E3%83%89%E3%83%BC%E3%83%A0">地図で会場の近くのお店</a></div>
-
-<div class="stay-in">
-  <p class="stay-in__h"><span aria-hidden="true">🛏</span> 大和ハウス プレミストドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
-  <div class="btn-row">
-    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%91%E5%98a%83n%83E%83X%20%83v%83%8C%83~%83X%83g%83h%81%5B%83%80" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
-    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E5%A4%A7%E5%92%8C%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E3%83%88%E3%83%89%E3%83%BC%E3%83%A0" label="楽天トラベルで探す" class="btn" service="rakuten" %}
-  </div>
-</div>
-
-<h2 id="v2">京セラドーム大阪（12月2日）の近くの聖地</h2>
-
-<p>2026年10月時点で、会場から10km以内にNumber_iのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
-
-<div class="ensei__shops">{% include mini.html id="arashi-862e4ca1-20191102" m=310 from="会場から" %}{% include mini.html id="kamenashi-90e70f7e-20260725" m=400 from="会場から" %}{% include mini.html id="katappashi_kissa-82fc81c1-20250219" m=410 from="会場から" %}</div>
-
-<div class="btn-row"><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪のライブ参戦ガイド</a><a class="btn" href="/shops/?near=34.669445,135.477173&amp;nl=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A7%E9%98%AA">地図で会場の近くのお店</a></div>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -112,25 +232,15 @@ summary:
   </div>
 </div>
 
-<h2 id="v3">東京ドーム（12月9日・12月10日）の近くの聖地</h2>
+{% include venue-hotels.html key="kyocera-dome-osaka" limit=3 top=true %}{% include hotels-link.html key="kyocera-dome-osaka" %}
 
-<p>会場から10km以内にあるNumber_iのメンバーが行ったお店を、近い順に5軒。距離は会場からの直線距離です。</p>
+<h2 id="v-tokyo-dome">🏟 東京ドーム（2026年12月9日（水）・10日（木））</h2>
 
-<ul class="wrs">
-
-  <li class="wr">{% include wr-open.html id="numberi-361c2213-" %}<span class="wr__k"></span><b class="wr__name">オステリア セルヴァジーナ</b><span class="wr__t">『行列のできる相談所』／岸優太／ブッラータチーズ（豊島区 駒込・会場から約3.4km）</span>{% include wr-close.html id="numberi-361c2213-" %}</li>
-
-  <li class="wr">{% include wr-open.html id="numberi-a9a5b0f5-" %}<span class="wr__k"></span><b class="wr__name">蜂の家 銀座本店</b><span class="wr__t">『VS魂』／岸優太／軍艦シュークリーム・ビーフ黒カリー（中央区 銀座・会場から約3.9km）</span>{% include wr-close.html id="numberi-a9a5b0f5-" %}</li>
-
-  <li class="wr">{% include wr-open.html id="numberi-lesolca-" %}<span class="wr__k"></span><b class="wr__name">LESOLCA</b><span class="wr__t">『行列のできる相談所』のスタジオに料理が出たお店（中央区 銀座・会場から約3.9km）</span>{% include wr-close.html id="numberi-lesolca-" %}</li>
-
-  <li class="wr">{% include wr-open.html id="numberi-e953882d-" %}<span class="wr__k"></span><b class="wr__name">松阪牛ラーメン 一人しゃぶしゃぶ 松虎</b><span class="wr__t">『VS魂』／岸優太／A5松阪牛特上ロースラーメン（港区 赤坂・会場から約4.1km）</span>{% include wr-close.html id="numberi-e953882d-" %}</li>
-
-  <li class="wr">{% include wr-open.html id="numberi-teddy_s_bigger_burge-" %}<span class="wr__k"></span><b class="wr__name">TEDDY'S BIGGER BURGERS 原宿表参道店</b><span class="wr__t">『VS魂』／岸優太／ギガモンスタープレミアムバーガー（渋谷区 神宮前・会場から約5.7km）</span>{% include wr-close.html id="numberi-teddy_s_bigger_burge-" %}</li>
-
-</ul>
-
-<div class="btn-row"><a class="btn" href="/guide/tokyo-dome/">東京ドームのライブ参戦ガイド</a><a class="btn" href="/shops/?near=35.705639,139.751891&amp;nl=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0">地図で会場の近くのお店</a></div>
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は JR・都営三田線の水道橋駅、東京メトロの後楽園駅、都営大江戸線の春日駅の4つ</li><li>場内は完全キャッシュレス。現金は使えないので、カードや電子マネーを用意しておく</li><li>コインロッカーは交通系ICカード払いのみで数に限りあり。大きな荷物は駅やホテルに預けるのがおすすめ</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}">Number_i 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
+</div>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -140,17 +250,17 @@ summary:
   </div>
 </div>
 
-<h2 id="v4">バンテリンドーム ナゴヤ（1月9日・1月10日・1月11日）の近くの聖地</h2>
+{% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p>会場から10km以内にあるNumber_iのメンバーが行ったお店を、近い順に1軒。距離は会場からの直線距離です。</p>
+<p class="tl-seichi">🍽 会場から10km以内に、Number_iのメンバーが行ったお店が<b>5軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-10' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
 
-<ul class="wrs">
+<h2 id="v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））</h2>
 
-  <li class="wr">{% include wr-open.html id="kingprince-fb2b6baa-20220807" %}<span class="wr__k">2022.8</span><b class="wr__name">大久手 山本屋</b><span class="wr__t">『King &amp; Princeる。元旦SP』／岸優太・神宮寺勇太（名古屋市 千種区大久手町・会場から約2.7km）</span>{% include wr-close.html id="kingprince-fb2b6baa-20220807" %}</li>
-
-</ul>
-
-<div class="btn-row"><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤのライブ参戦ガイド</a><a class="btn" href="/shops/?near=35.185009,136.945374&amp;nl=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4">地図で会場の近くのお店</a></div>
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}">Number_i バンテリンドーム ナゴヤ公演 参戦ガイド</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
+</div>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -160,24 +270,44 @@ summary:
   </div>
 </div>
 
-<h2>遠征の準備</h2>
+{% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}{% include hotels-link.html key="vantelin-dome-nagoya" %}
 
-<ul>
-  <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>
-  <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>
-  <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>
-</ul>
+<p class="tl-seichi">🍽 会場から10km以内に、Number_iのメンバーが行ったお店が<b>1軒</b>。<a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-01-11' %}{{ p.url }}{% endif %}{% endfor %}#seichi">参戦ガイドで見る</a></p>
 
-{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}
+<h2 id="v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））</h2>
 
-<div class="pf-cta">
-  <p>Number_iのお店を、地図でぜんぶ見る</p>
-  <span>この記事の6軒を含むNumber_iの聖地を地図で探せます。行きたいお店は保存して、遠征の計画に。</span>
-  <a class="btn" href="/shops/?g=numberi&amp;view=map">地図でNumber_iのお店を見る</a>
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は福岡市地下鉄空港線の唐人町駅。3番出口から徒歩約15分</li><li>天神・博多駅・福岡空港からは西鉄バスも使える。イベント開催日は天神・博多から直行の臨時バスが出る</li><li>飲食物・ビン・缶・ペット（補助犬をのぞく）・危険物は持ち込めない。コンサート時の持ち込みは主催者の案内を確認</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'numberi' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2027-01-17' %}{{ p.url }}{% endif %}{% endfor %}">Number_i みずほPayPayドーム福岡公演 参戦ガイド</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
 </div>
 
-<p><a href="{{ site.data.group_ix.numberi.u }}">Number_iのお店一覧（グループのページ）</a>と、Number_iの聖地をぜんぶ載せたまとめ記事もどうぞ。</p>
+<div class="stay-in">
+  <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
+  <div class="btn-row">
+    {% include affiliate-link.html url="https://www.jalan.net/uw/uwp2011/uww2011init.do?keyword=%82%DD%82%B8%82%D9PayPay%83h%81%5B%83%80%95%9F%89%AA" label="じゃらんで探す" class="btn btn--accent" service="jalan" %}
+    {% include affiliate-link.html url="https://kw.travel.rakuten.co.jp/keyword/Search.do?charset=utf-8&f_query=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1" label="楽天トラベルで探す" class="btn" service="rakuten" %}
+  </div>
+</div>
 
-<p class="note">お店の情報は、各お店の出典（番組・YouTube・ファンのロケ地ブログ）をもとにしています。日付はYouTubeの回は動画の公開年月、番組は放送年月です。会場からの距離は直線距離で、歩く距離とは違います。営業日・営業時間は各お店の公式情報で確かめてください。</p>
+{% include venue-hotels.html key="mizuho-paypay-dome" limit=3 top=true %}{% include hotels-link.html key="mizuho-paypay-dome" %}
+
+<h2 id="goods">🛍 グッズ</h2>
+
+<div class="fl-goods"><div><b>公式ペンライトと光るもの</b><span>このツアーは「Number_i LIVE TOUR No.Ⅲ オリジナルペンライト」の無線の演出があり、事前にアプリで座席を登録します。これまでの公式ペンライトと「3XL」ハートのペンダントはライトを消して持ち込めます。公式グッズでない光るものは持ち込めません（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場でのグッズ販売</b><span>予約・整理券はいらず、公演のチケットがなくても買えます。1回の会計で1種類4点まで。前日からの徹夜・早朝からの待機は禁止。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせ（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>公式ストアの通販</b><span>2026年11月6日18:00から、売り切れまで（11月10日から順に発送）。1種類4点まで（<a href="https://tobe-store.jp/blogs/information/111" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場限定のCD特典</b><span>4thシングル「REBON / BUGS LIFE / DIGITAL GIRL」を会場で買うと特典（3形態でB2ポスターとステッカーセット、1形態でB2ポスター）。札幌のあとの会場は決まりしだいお知らせ（<a href="https://tobe-official.jp/artists/number_i/news/2457" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
+
+<h2 id="setlist">🎵 セットリスト</h2>
+
+<details class="setl">
+  <summary>札幌公演（2026年10月24日）のライブレポートに出てくる曲（一部）（ネタバレ注意）</summary>
+  <p><b>報道に出てくる曲</b>：「BUGS LIFE」「GOAT」「NUMBERS PT.2」ほか。全曲のセットリストは報道されていません</p>
+  <p class="note">出典：<a href="https://www.thefirsttimes.jp/report/0000905956/" target="_blank" rel="noopener">THE FIRST TIMES（2026年10月26日のライブレポート）</a></p>
+</details>
+
+<h2 id="prep">🔰 はじめての人へ・予習</h2>
+
+{% include live-list.html group="numberi" title="Number_iのこれからの公演（参戦ガイド）" %}
+
+<p class="note">このページは2026年11月23日に、Number_i公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
 
 </div>

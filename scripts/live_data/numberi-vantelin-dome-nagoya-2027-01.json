@@ -3,15 +3,27 @@
  "group": "numberi",
  "tour": "Number_i LIVE TOUR No.Ⅲ",
  "official_url": "https://tobe-official.jp/artists/number_i/concert/364",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-23",
  "sources": [
   {
-   "label": "TOBE公式（Number_i CONCERT/STAGE）",
+   "label": "TOBE公式（Number_i CONCERT/STAGE：開演時刻・席種・受付）",
    "url": "https://tobe-official.jp/artists/number_i/concert/364"
   },
   {
    "label": "TOBE公式（Number_i NEWS 公演スケジュールのご案内）",
    "url": "https://tobe-official.jp/artists/number_i/news/2318"
+  },
+  {
+   "label": "TOBE公式（ファンクラブ受付のお知らせ）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2330"
+  },
+  {
+   "label": "TOBE公式（VIP GOLD席 ファンクラブ追加受付）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2413"
+  },
+  {
+   "label": "モデルプレス（ツアー開幕のライブレポート：開場時刻）",
+   "url": "https://mdpr.jp/news/detail/4865445"
   }
  ],
  "venue_key": "vantelin-dome-nagoya",
@@ -23,9 +35,37 @@
   "2027-01-11"
  ],
  "times": {
-  "2027-01-09": "開演17:00",
-  "2027-01-10": "開演12:30／19:00（2回公演）",
-  "2027-01-11": "開演17:00"
+  "2027-01-09": "開場15:00／開演17:00",
+  "2027-01-10": "1回目 開場10:30／開演12:30、2回目 開場17:00／開演19:00",
+  "2027-01-11": "開場15:00／開演17:00"
  },
- "note": "公式の表記は「No.Ⅲ」（ニュースでは「No.III」とも）。福岡公演の日程は2026-08-06付ニュースに記載（公演ページでは「MORE」の先）"
+ "note": "公式の表記は「No.Ⅲ」（ニュースでは「No.III」とも）。福岡公演の日程は2026-08-06付ニュースに記載（公演ページでは「MORE」の先）。開場時刻は公式ページになくモデルプレス（2026-10-26）で確認。リセール（大阪 11/22まで）は記事に出さない",
+ "tickets": [
+  {
+   "name": "ファンクラブ受付",
+   "start": "2026-08-10T16:00",
+   "end": "2026-08-16T23:59",
+   "who": "ファンクラブ会員",
+   "url": "https://tobe-official.jp/artists/number_i/news/2330",
+   "what": "SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席"
+  },
+  {
+   "name": "ファンクラブ追加受付（VIP GOLD席）",
+   "start": "2026-09-30T12:00",
+   "end": "2026-10-01T23:59",
+   "who": "ファンクラブ会員",
+   "what": "VIP GOLD席（全会場・顔認証）",
+   "url": "https://tobe-official.jp/artists/number_i/news/2413"
+  },
+  {
+   "name": "一般発売",
+   "start": "",
+   "end": "",
+   "who": "どなたでも",
+   "url": "https://tobe-official.jp/artists/number_i/concert/364",
+   "note": "日程は未発表（2026年11月23日時点）"
+  }
+ ],
+ "tickets_note": "各席種1回4枚まで（BOX席は1組の枚数）。ファンクラブ受付のチケットは公式のリセールの対象です。",
+ "public_note": "開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。"
 }

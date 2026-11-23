@@ -37,7 +37,7 @@ NEAR_KM, FAR_KM, MAX_ROWS, MIN_ROWS, PREF_ROWS = 3.0, 10.0, 8, 3, 6
 WEEK = '月火水木金土日'
 NEWS = ('oricon.co.jp', 'mdpr.jp', 'thefirsttimes.jp', 'realsound.jp', 'natalie.mu', 'modelpress', 'billboard-japan', 'musicman', 'barks.jp', 'daily.co.jp', 'sponichi', 'nikkansports', 'hochi')
 # 検索でよく使われる呼び名（題名とタグに足す）
-AKA = {'equal_love': 'イコラブ', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
+AKA = {'equal_love': 'イコラブ', 'numberi': 'ナンバーアイ', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
        'sixtones': 'ストーンズ', 'travisjapan': 'トラジャ', 'hihijets': 'ハイハイ',
        'kanjani': 'エイト', 'momoclo': 'ももクロ', 'ebichu': 'エビ中',
        'tokisen': '超とき宣', 'fruitszipper': 'ふるっぱー', 'bokuao': 'ぼくあお',
@@ -119,6 +119,12 @@ def ev(name, d, t, key, url):
     return {'name': name, 'date': d, 'start': z(start), 'door': z(door), 'venue_key': key, 'url': url}
 
 
+def evs(name, d, t, key, url):
+    """1日の公演の構造化データ。2回公演（「1回目 開場10:30／開演12:30、2回目 開場17:00／開演19:00」）は2つにする"""
+    parts = [x for x in re.split(r'[、,]', t or '') if '開演' in x] or [t]
+    return [ev(name, d, x, key, url) for x in parts]
+
+
 def tickets_html(tk, note='', today=None):
     """チケットの受付（公式のお知らせにある 種類・期間・対象・券種だけ。値段は書かない）。
     tk: [{name, start, end（"2026-11-21T19:30"・未発表なら空）, who, what, url（公式のお知らせ）, note}]。
@@ -132,11 +138,12 @@ def tickets_html(tk, note='', today=None):
     rows, done = [], []
     for t in tk:
         s, e = t.get('start') or '', t.get('end') or ''
-        st = ('受付中' if s <= now <= e else 'これから' if now < s else '終了') if s and e else '未発表'
-        cls = {'受付中': 'is-open', 'これから': 'is-soon', '終了': 'is-done', '未発表': 'is-tba'}[st]
-        period = f'{jp(s)}〜{jp(e)}' if s and e else (t.get('note') or '日程は未発表')
+        # 終わりのない受付（一般発売の先着など。end が空で start だけ）は「発売中」
+        st = (('受付中' if s <= now <= e else 'これから' if now < s else '終了') if e else ('発売中' if s <= now else 'これから')) if s else '未発表'
+        cls = {'受付中': 'is-open', '発売中': 'is-open', 'これから': 'is-soon', '終了': 'is-done', '未発表': 'is-tba'}[st]
+        period = (f'{jp(s)}〜{jp(e)}' if e else f'{jp(s)}〜' + (f'（{t["note"]}）' if t.get('note') else '')) if s else (t.get('note') or '日程は未発表')
         sub = '・'.join(x for x in (t.get('who'), t.get('what')) if x)
-        (done if st == '終了' else rows).append((['受付中', 'これから', '未発表', '終了'].index(st), s or '9999', f'  <li class="tk {cls}" data-s="{s}" data-e="{e}"><span class="tk__st">{st}</span><b class="tk__n">{T.esc(t["name"])}</b>'
+        (done if st == '終了' else rows).append((['受付中', '発売中', 'これから', '未発表', '終了'].index(st), s or '9999', f'  <li class="tk {cls}" data-s="{s}" data-e="{e}"><span class="tk__st">{st}</span><b class="tk__n">{T.esc(t["name"])}</b>'
                     f'<span class="tk__p">{T.esc(period)}</span>' + (f'<span class="tk__w">{T.esc(sub)}</span>' if sub else '')
                     + f'<a class="tk__go" href="{T.esc(t["url"])}" target="_blank" rel="noopener">公式のお知らせ</a></li>'))
     # 受付中 → これから → 未発表 の順に。終わった受付は閉じた <details> に
@@ -145,7 +152,7 @@ def tickets_html(tk, note='', today=None):
         out += (f'\n<details class="tk-done"><summary>終わった受付（{len(done)}）</summary>\n<ol class="tk-list">\n'
                 + '\n'.join(x[2] for x in sorted(done, key=lambda x: x[1])) + '\n</ol>\n</details>')
     out += ('\n<p class="note">' + (T.esc(note) + ' ' if note else '') + '値段や席ごとの条件は公式のお知らせで確かめてください。'
-            'チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>')
+            'チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>')
     return out
 
 
@@ -257,7 +264,7 @@ def build(slug, ctx):
     if spec.get('tickets'):
         tk = [t for t in spec['tickets'] if t.get('start')]
         faq.append({'q': f'{gl}の{vname}公演のチケットの受付は？',
-                    'a': '、'.join(f'{t["name"]}（{int(t["start"][5:7])}月{int(t["start"][8:10])}日〜{int(t["end"][5:7])}月{int(t["end"][8:10])}日）' for t in tk)
+                    'a': '、'.join(f'{t["name"]}（{int(t["start"][5:7])}月{int(t["start"][8:10])}日〜' + (f'{int(t["end"][5:7])}月{int(t["end"][8:10])}日）' if t.get('end') else (f'。{t["note"]}）' if t.get('note') else '）')) for t in tk)
                          + f'があります（{ckl}時点の公式発表）。' + ''.join(f'{t["name"]}は{t["note"]}。' for t in spec['tickets'] if not t.get('start') and t.get('note'))
                          + 'くわしい条件と値段は公式のお知らせで確かめてください。'})
     faq.append({'q': '会場の近くに泊まる宿はどう探せばいいですか？',
@@ -270,7 +277,7 @@ def build(slug, ctx):
         'tags': [gl] + ([AKA[g]] if g in AKA else []) + [tour, vname, 'ライブ', '参戦', 'アクセス', '遠征', '聖地巡礼'],
         'sources': spec['sources'] + guide_sources(key)[:3],
         'shop_ids': ids, 'faq': faq, 'pr': True, 'summary': summary,
-        'events': [ev(tour, d, times.get(d), key, spec['official_url']) for d in dates],
+        'events': [e for d in dates for e in evs(tour, d, times.get(d), key, spec['official_url'])],
     }
     if os.path.exists(os.path.join(ROOT, 'assets/img/posts', slug, 'thumb.webp')):
         fm['thumbnail'] = f'/assets/img/posts/{slug}/thumb.webp'   # グループ名・会場・日程入り（scripts/live_thumbs.py）
