@@ -301078,5 +301078,169 @@
     "tmdb_id": 57952,
     "tmdb_type": "tv",
     "program": "ぶらり途中下車の旅"
+  },
+  {
+    "id": "machichuka-96f72d51-20261116",
+    "name": "チャイニーズキッチン ドラゴン",
+    "genre": "chuka",
+    "prefecture": "愛知県",
+    "city": "名古屋市東区",
+    "address": "愛知県名古屋市東区矢田南3-5-8 竹中ビル1F",
+    "lat": 35.186325,
+    "lng": 136.943665,
+    "source_video_title": "町中華で飲ろうぜ #433 名古屋SP（2026-11-16 BS-TBS）",
+    "visited_date": "2026-11-16",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0433-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230110/23066410/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "machichuka-e5ed6ab9-20261116",
+    "name": "上海屋",
+    "genre": "chuka",
+    "prefecture": "愛知県",
+    "city": "名古屋市昭和区",
+    "address": "愛知県名古屋市昭和区滝子町8-9",
+    "lat": 35.143883,
+    "lng": 136.925491,
+    "source_video_title": "町中華で飲ろうぜ #433 名古屋SP（2026-11-16 BS-TBS）",
+    "visited_date": "2026-11-16",
+    "members": [
+      "玉袋筋太郎"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "玉袋筋太郎が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0433-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230108/23002558/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "machichuka-905eb7cc-20261116",
+    "name": "平和園",
+    "genre": "chuka",
+    "prefecture": "愛知県",
+    "city": "名古屋市中村区",
+    "address": "愛知県名古屋市中村区則武2-6-14",
+    "lat": 35.17004,
+    "lng": 136.877136,
+    "source_video_title": "町中華で飲ろうぜ #434 名古屋SP（2026-11-16 BS-TBS）",
+    "visited_date": "2026-11-16",
+    "members": [
+      "谷口彩菜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "谷口彩菜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0434-01/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230101/23010226/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "machichuka-cbd724c9-20261116",
+    "name": "餃子苑",
+    "genre": "chuka",
+    "prefecture": "愛知県",
+    "city": "名古屋市中川区",
+    "address": "愛知県名古屋市中川区宮脇町2-71-2",
+    "lat": 35.134689,
+    "lng": 136.866531,
+    "source_video_title": "町中華で飲ろうぜ #434 名古屋SP（2026-11-16 BS-TBS）",
+    "visited_date": "2026-11-16",
+    "members": [
+      "谷口彩菜"
+    ],
+    "groups": [
+      "machichuka"
+    ],
+    "group": "machichuka",
+    "description": "谷口彩菜が『町中華で飲ろうぜ』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/machichuka/store/0434-02/",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6yeoOYU6Evt9nPV91ZsYm05zAkz.jpg",
+    "tmdb_id": 273426,
+    "tmdb_type": "tv",
+    "program": "町中華で飲ろうぜ",
+    "tabelog_url": "https://tabelog.com/aichi/A2301/A230113/23003735/",
+    "tabelog_verified": true
+  },
+  {
+    "id": "sakaba_horoki-a1207992-20261116",
+    "name": "いわし屋ますみ",
+    "genre": "izakaya",
+    "prefecture": "埼玉県",
+    "city": "鶴ヶ島市",
+    "address": "埼玉県鶴ヶ島市上広谷16-9",
+    "lat": 35.938431,
+    "lng": 139.42421,
+    "source_video_title": "吉田類の酒場放浪記 #1328 鶴ヶ島「いわし屋ますみ」（2026-11-16 BS-TBS）",
+    "visited_date": "2026-11-16",
+    "members": [
+      "吉田類"
+    ],
+    "groups": [
+      "sakaba_horoki"
+    ],
+    "group": "sakaba_horoki",
+    "description": "吉田類が『吉田類の酒場放浪記』で訪れたお店。",
+    "source_url": "https://bs.tbs.co.jp/sakaba/shop/1328.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hDDHfw4aNAaYauPQkByeVlUjZtF.jpg",
+    "tmdb_id": 227203,
+    "tmdb_type": "tv",
+    "program": "吉田類の酒場放浪記"
+  },
+  {
+    "id": "burari-86c3dfbc-20261121",
+    "name": "分身ロボットカフェ DAWN ver.β",
+    "genre": "cafe",
+    "prefecture": "東京都",
+    "city": "中央区",
+    "address": "東京都中央区日本橋本町3-8-3 1階",
+    "lat": 35.689518,
+    "lng": 139.776154,
+    "source_video_title": "ぶらり途中下車の旅 東葉高速線・東西線の旅 旅人：かとうかず子（2026-11-21 日本テレビ）",
+    "visited_date": "2026-11-21",
+    "members": [
+      "かとうかず子"
+    ],
+    "groups": [
+      "burari"
+    ],
+    "group": "burari",
+    "description": "かとうかず子が『ぶらり途中下車の旅』で訪れたお店。",
+    "source_url": "https://www.ntv.co.jp/burari/articles/22736igkbkk0a5gt9o5.html",
+    "source_type": "tv",
+    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Ys7RAWxcpV7rLBghqq7nsklyop.jpg",
+    "tmdb_id": 57952,
+    "tmdb_type": "tv",
+    "program": "ぶらり途中下車の旅"
   }
 ]

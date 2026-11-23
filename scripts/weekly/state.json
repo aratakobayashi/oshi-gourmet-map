@@ -1,12 +1,12 @@
 {
   "machichuka": {
-    "last_date": "2026-11-09"
+    "last_date": "2026-11-16"
   },
   "sakaba_horoki": {
-    "last_id": 1328
+    "last_id": 1329
   },
   "burari": {
-    "last_date": "2026-11-14"
+    "last_date": "2026-11-21"
   },
   "syokusai": {
     "last_date": "2026-10-17"
@@ -21,10 +21,10 @@
     "UCYidhqPbCWtPaFeXxOCDdNA": {}
   },
   "hirunan": {
-    "last_date": "2026-11-13"
+    "last_date": "2026-11-20"
   },
-  "_updated": "2026-11-16",
+  "_updated": "2026-11-23",
   "meshidora": {
-    "last_date": "2026-11-15"
+    "last_date": "2026-11-22"
   }
 }
