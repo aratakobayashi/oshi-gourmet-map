@@ -220,5 +220,59 @@
    "#ef4444",
    "#d4af37"
   ]
+ },
+ "befirst-first-live": {
+  "color": "#6b7280",
+  "group": "befirst",
+  "bg": [
+   "#0a0a0a",
+   "#1f1f1f",
+   "#000000"
+  ],
+  "lights": [
+   "#ffffff",
+   "#e5e7eb",
+   "#9ca3af",
+   "#f5f5f5"
+  ],
+  "label": "はじめてのライブ",
+  "title": "BE:FIRST",
+  "sub": "ビーファーストのライブに\nはじめて行く人へ",
+  "chips": [
+   "ドームツアー2027",
+   "AnyPASSの入場",
+   "応援グッズの決まり",
+   "定番曲17曲"
+  ],
+  "logo_text": "BE:FIRST",
+  "logo_sub": "FIRST LIVE"
+ },
+ "befirst-dome-tour-2027": {
+  "color": "#6b7280",
+  "group": "befirst",
+  "bg": [
+   "#0a0a0a",
+   "#1f1f1f",
+   "#000000"
+  ],
+  "lights": [
+   "#ffffff",
+   "#e5e7eb",
+   "#9ca3af",
+   "#f5f5f5"
+  ],
+  "label": "ツアーまとめ",
+  "title": "BE:FIRST",
+  "sub": "5th Anniversary\nDOME TOUR 2027",
+  "chips": [
+   "東京 1.11・12",
+   "大阪 1.16・17",
+   "福岡 2.13・14",
+   "埼玉 3.6・7",
+   "近くの宿"
+  ],
+  "logo_text": "5th",
+  "logo_sub": "DOME TOUR",
+  "out": "assets/img/posts/befirst-dome-tour-2027/thumb"
  }
 }

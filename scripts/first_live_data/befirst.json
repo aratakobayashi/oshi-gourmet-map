@@ -1,0 +1,431 @@
+{
+ "slug": "befirst-first-live",
+ "group": "befirst",
+ "name": "BE:FIRST",
+ "kana": "ビーファースト",
+ "aka": "ビーファースト",
+ "color": "#374151",
+ "checked_at": "2026-11-23",
+ "title": "BE:FIRST（ビーファースト）ライブ初参戦ガイド｜AnyPASSの入場・ライトスティック・定番曲・持ち込み・グッズ・ドームツアー2027",
+ "description": "BE:FIRST（ビーファースト）のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。『BE:FIRST 5th Anniversary DOME TOUR 2027』（東京ドーム 2027年1月11日・12日・京セラドーム大阪 1月16日・17日・みずほPayPayドーム福岡 2月13日・14日・ベルーナドーム 3月6日・7日）の開場・開演、AnyPASSの電子チケットと本人確認、席の種類、応援グッズの決まり、公式ライトスティック、大手報道のセットリストから定番曲、予習の動画、会場の近くの宿まで。",
+ "shows": [
+  {
+   "label": "東京ドーム",
+   "title": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2027-01-11",
+    "2027-01-12"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "label": "京セラドーム大阪",
+   "title": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2027-01-16",
+    "2027-01-17"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "label": "みずほPayPayドーム福岡",
+   "title": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+   "venue_key": "mizuho-paypay-dome",
+   "dates": [
+    "2027-02-13",
+    "2027-02-14"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "label": "ベルーナドーム",
+   "title": "BE:FIRST 5th Anniversary DOME TOUR 2027",
+   "venue_key": "belluna-dome",
+   "dates": [
+    "2027-03-06",
+    "2027-03-07"
+   ],
+   "open": "14:30",
+   "start": "17:00",
+   "src": "https://befirst.tokyo/tour/dometour2027/"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'befirst-dome-tour-2027' %}{{ p.url }}{% endif %}{% endfor %}\">BE:FIRST 5th Anniversary DOME TOUR 2027まとめ（日程・時刻・セトリ）</a>",
+ "ticket_link": "<a href=\"{% for p in site.posts %}{% if p.slug == 'befirst-dome-tour-2027' %}{{ p.url }}{% endif %}{% endfor %}#tickets\">BE:FIRST DOME TOUR 2027まとめ「チケットの受付」</a>",
+ "intro": "BE:FIRST（ビーファースト）のライブに、はじめて行く人のためのページです。チケットの受け取りから入場、席の種類、応援グッズの決まり、ライトスティック、定番曲、予習の動画、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました。",
+ "entry_lead": "ドームツアーのチケットは<strong>AnyPASSアプリの電子チケット</strong>だけです。来場する全員がAnyPASSを入れたスマホを持っていき、QRコードのスクリーンショットでは入れません。",
+ "three": [
+  [
+   "AnyPASSの電子チケット",
+   "申し込んだ電話番号のスマホに届きます（公演の14日前の15:00に発券、座席は当日9:00に表示）。同行者にはアプリから分配。スクリーンショットでは入れない"
+  ],
+  [
+   "申し込みと同じ名前で",
+   "申し込みの名前・連絡先と来場者が違うと入れません。転売が疑われる席は本人確認があります。SS席は全員が顔写真付きの書類"
+  ],
+  [
+   "応援は公式グッズだけ",
+   "公式でないペンライト・うちわ・手作りのボードなどは使えない。公式ライトスティックとタオルは胸の高さで"
+  ]
+ ],
+ "three_more": {
+  "q": "同行者がスマホを持っていないときは？",
+  "a": "対応するスマホがない同行者は、当日、本人確認書類を見せて名前と連絡先を伝えれば入れます。その場合は申し込んだ人と一緒に入場します（公式のFAQより）。チケットを分配したあとなら、申し込んだ人と同行者は別々に入れます。"
+ },
+ "flow": [
+  [
+   "前日まで",
+   "アプリの準備",
+   "AnyPASSを入れる（iOS 14以上・Android 9.0以上。SIMとSMSが使えるスマホ）。公演の14日前の15:00に発券されたら同行者に分配"
+  ],
+  [
+   "当日 9:00",
+   "座席が分かる",
+   "AnyPASSに座席番号が出ます"
+  ],
+  [
+   "{open}",
+   "開場",
+   "AnyPASSの画面で入場。手荷物の検査があることも。クロークはないので荷物は少なめに"
+  ],
+  [
+   "{start}",
+   "開演",
+   "撮影・録画・録音は禁止（主催が許可をアナウンスしたときだけステージの撮影ができることがある）。ライトスティックとタオルは胸の高さで"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "規制退場になることがある。終演の時刻は未発表。遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "phone",
+   "スマホ（AnyPASS・SIMとSMSが使えるもの）"
+  ],
+  [
+   "id",
+   "本人確認書類（SS席は全員、顔写真付き）"
+  ],
+  [
+   "light",
+   "公式ライトスティック（単4電池3本）"
+  ],
+  [
+   "towel",
+   "公式タオル（使うなら胸の高さで）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに（クロークなし）"
+  ]
+ ],
+ "seats_lead": "ドームツアーの席の種類です（<a href=\"https://befirst.tokyo/tour/dometour2027/\" target=\"_blank\" rel=\"noopener\">公式のツアーページ</a>より。値段はこのページでは扱いません）。",
+ "seats": [
+  [
+   "SS席",
+   "特典つき（当日渡し）。BESTY・B-Townの先行で一般指定席に当選・入金した人だけが申し込めるアップグレード抽選で決まる。同行者もBESTYかB-Townの会員"
+  ],
+  [
+   "一般指定席",
+   "ふつうの指定席"
+  ],
+  [
+   "着席指定席",
+   "小さな子どもや年配の人など、座ったまま見たい人の席。公演中は座ったまま"
+  ],
+  [
+   "注釈付き指定席",
+   "ステージや演出が見えにくい・聞こえにくいことがある席"
+  ]
+ ],
+ "seats_note": "3歳以上はチケットが必要で、3歳未満は入れません。車椅子の人は一般指定席を買ってから主催に連絡します（公式のFAQより）。",
+ "rules": {
+  "ng_items": [
+   "公式グッズでないペンライト・サイリウム",
+   "LEDカチューシャ・LEDボード",
+   "手作りのボード・うちわ・手作りのグッズ",
+   "風船・紙テープ・横断幕・大きなぬいぐるみ"
+  ],
+  "ng_acts": [
+   "撮影・録画・録音",
+   "ライトスティックやタオルを頭より上に上げる",
+   "自分の席以外で見る",
+   "入待ち・出待ち",
+   "手紙・プレゼント・フラワースタンド（受け取りなし）"
+  ],
+  "ok": [
+   "主催が許可をアナウンスしたときだけ、ステージを撮影できることがある",
+   "同行者は会員でなくてもよい（SS席を除く）"
+  ],
+  "note": "出典：<a href=\"https://befirst.tokyo/tour/dometour2027/\" target=\"_blank\" rel=\"noopener\">BE:FIRST公式のツアーページ（注意事項・FAQ）</a>。声出しについての決まりは、このツアーの案内には書かれていません（2026年11月23日時点）。"
+ },
+ "penlight": {
+  "heading": "ペンライト（公式ライトスティック）",
+  "text": "BE:FIRSTの公式のライトスティックは「BE:FIRST OFFICIAL LIGHT STICK VER.2」です（単4電池3本つき・2026年11月23日時点では公式ショップで売り切れ）。公式ショップの案内にある光り方は次の4つです。2026年5月のスタジアムライブでは、専用アプリで座席を登録して無線で光る演出がありましたが、<strong>このドームツアーで同じ演出があるかは、まだ発表されていません</strong>。",
+  "colors": [],
+  "modes": [
+   "点灯",
+   "ゆっくり点滅",
+   "点滅",
+   "激しい点滅"
+  ],
+  "note": "出典：<a href=\"https://bmsg.shop/products/be-first-official-light-stick-ver-2\" target=\"_blank\" rel=\"noopener\">公式ショップ（LIGHT STICK VER.2）</a>・<a href=\"https://befirst.tokyo/tour/Stadium-Live-2026/news/170\" target=\"_blank\" rel=\"noopener\">スタジアムライブの座席登録のお知らせ</a>。応援に使えるのは公式グッズだけです。"
+ },
+ "members": {
+  "list": [
+   "SOTA",
+   "SHUNTO",
+   "MANATO",
+   "RYUHEI",
+   "JUNON",
+   "LEO"
+  ],
+  "colors": {},
+  "note": "並びは<a href=\"https://befirst.tokyo/profile/\" target=\"_blank\" rel=\"noopener\">公式プロフィール</a>の順。公式サイトにメンバーカラーの案内は見当たりません。グループの色は黒と白と報じられています（<a href=\"https://mdpr.jp/fashion/detail/4651445\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）。ファンの呼び名は「BESTY」。"
+ },
+ "call": {
+  "text": "BE:FIRSTの公式サイトと公式YouTubeには、<strong>コールの案内やコール表は見当たりませんでした</strong>（2026年11月23日時点）。ドームツアー「2:BE」のライブレポートでは、「Set Sail」で客席と声を掛け合う場面が伝えられています（<a href=\"https://www.thefirsttimes.jp/report/0000566216/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>）。",
+  "memo": "はじめてなら、公式YouTubeのライブ映像で、曲の流れや客席の雰囲気を見ておくのが確実です。下の6本は、東京ドーム・京セラドーム・スタジアムの公演の映像です。",
+  "channel": "BE:FIRST Official",
+  "videos": [
+   [
+    "X-0V2ToAmrE",
+    "Mainstream",
+    "LIVE in DOME 2024 “Mainstream - Masterplan” より"
+   ],
+   [
+    "mnU--2vWoQM",
+    "Masterplan",
+    "LIVE in DOME 2024 “Mainstream - Masterplan” より"
+   ],
+   [
+    "J2rFzjXg3Fc",
+    "Grow Up",
+    "LIVE in DOME 2024 “Mainstream - Masterplan” より"
+   ],
+   [
+    "PuVydp_SUH8",
+    "Slogan",
+    "DOME TOUR 2024-2025 “2:BE” 東京ドームより"
+   ],
+   [
+    "zWCNhSKfY5E",
+    "Spacecraft",
+    "DOME TOUR 2024-2025 “2:BE” より"
+   ],
+   [
+    "3eGGwYCI3lg",
+    "Scream",
+    "Stadium Live 2026 We are the “BE:ST” より"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "大手報道のライブレポートに載ったセットリストで、BE:FIRSTの大きな単独公演3つ（2024年 東京ドーム・京セラドーム「Mainstream - Masterplan」・2025年2月 ドームツアー「2:BE」ファイナル・2026年5月 スタジアムライブ）を比べました。<strong>3公演すべてで歌われたのは17曲</strong>。ドームツアーで歌われるかは分かりませんが、予習の手がかりになります。2025年までの2公演は7人での公演です。",
+  "top": [
+   "BF is…",
+   "Boom Boom Back",
+   "Shining One",
+   "Be Free",
+   "Set Sail",
+   "Brave Generation",
+   "Great Mistakes",
+   "Moment",
+   "Smile Again",
+   "Grow Up",
+   "Glorious",
+   "SOS",
+   "Milli-Billi",
+   "Scream",
+   "Bye-Good-Bye",
+   "Masterplan",
+   "Mainstream"
+  ],
+  "two": "2公演で歌われたのは、Sailing・Move On・Message・Blissful・Sapphire・Slogan・Guilty・Betrayal Game・Spacecraft・Gifted.・Don't Wake Me Up の11曲です。",
+  "sets": [
+   {
+    "title": "Stadium Live 2026 We are the “BE:ST”（2026年5月16日 味の素スタジアム）",
+    "parts": [
+     [
+      "曲目",
+      "Stay Strong／BF is…／Boom Boom Back／GRIT／Shining One／Be Free／Set Sail／Brave Generation／Great Mistakes／Moment／Sailing／Move On／Stare In Wonder／Smile Again／Message／Blissful／夢中／Grow Up／街灯／Glorious／Sapphire／SOS／Milli-Billi／Rondo／Scream／Slogan／Guilty／Betrayal Game／Secret Garden／Bye-Good-Bye／I Want You Back／Masterplan／Spacecraft／Mainstream／BE:FIRST ALL DAY／Gifted."
+     ]
+    ],
+    "src": [
+     "THE FIRST TIMES",
+     "https://www.thefirsttimes.jp/report/0000812770/",
+     "1日目"
+    ]
+   },
+   {
+    "title": "DOME TOUR 2024-2025 “2:BE” ファイナル（2025年2月2日 京セラドーム大阪）",
+    "parts": [
+     [
+      "曲目",
+      "Slogan／Masterplan／SOS／Scream／Set Sail／Don't Wake Me Up／Be Free／Moment／Shining One／Selfish／Genesis／Metamorphose／Mainstream／Milli-Billi／Guilty／Bump Around／BF is…／Brave Generation／Boom Boom Back／Smile Again -From THE FIRST TAKE-／誰よりも／Sapphire／Grow Up／Sailing／Glorious／Great Mistakes／Bye-Good-Bye -From THE FIRST TAKE-／Blissful／Spacecraft／Slogan"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4488279",
+     ""
+    ]
+   },
+   {
+    "title": "LIVE in DOME 2024 “Mainstream - Masterplan”（2024年3月 東京ドーム・4月 京セラドーム大阪）",
+    "parts": [
+     [
+      "曲目",
+      "Gifted.／Mainstream／Move On／Milli-Billi／Boom Boom Back／Be Free／First Step／Moment／Softly／SOS／Don't Wake Me Up／Spin!／Salvia／Grow Up／Smile Again／Shining One／To The First／BF is…／Brave Generation／Set Sail／Betrayal Game／Scream／Grateful Pain／Kick Start／Great Mistakes／Bye-Good-Bye／Glorious／Message／Masterplan（エンドロールのあと）"
+     ]
+    ],
+    "src": [
+     "THE FIRST TIMES",
+     "https://www.thefirsttimes.jp/report/0000417135/",
+     "公演日の区別なし"
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "ドームツアーのグッズ",
+   "2027年のドームツアーのグッズは、まだ発表されていません（2026年11月23日時点）。発表は<a href=\"https://befirst.tokyo/tour/dometour2027/\" target=\"_blank\" rel=\"noopener\">公式のツアーページ</a>で"
+  ],
+  [
+   "参考：これまでのツアーでは",
+   "会場での販売と、公演のあとの<a href=\"https://bmsg.shop/collections/be-first\" target=\"_blank\" rel=\"noopener\">BMSG SHOP</a>の通販がありました（<a href=\"https://befirst.tokyo/tour/Stadium-Live-2026/news/176\" target=\"_blank\" rel=\"noopener\">スタジアムライブの事後通販のお知らせ</a>）"
+  ],
+  [
+   "公式ライトスティック",
+   "「BE:FIRST OFFICIAL LIGHT STICK VER.2」は2026年11月23日時点で売り切れ（<a href=\"https://bmsg.shop/products/be-first-official-light-stick-ver-2\" target=\"_blank\" rel=\"noopener\">公式ショップ</a>）"
+  ]
+ ],
+ "fc_note": "公式ファンクラブ「BESTY」（<a href=\"https://bmsg.shop/pages/befirst-fc-members\" target=\"_blank\" rel=\"noopener\">公式ファンクラブ</a>）と、BMSGのオンラインサロン「B-Town」（<a href=\"https://bmsg.shop/pages/b-town\" target=\"_blank\" rel=\"noopener\">B-Town</a>）の会員に先行受付があります。",
+ "official_links": [
+  [
+   "公式サイト",
+   "https://befirst.tokyo/",
+   "お知らせ・プロフィール"
+  ],
+  [
+   "ドームツアー2027",
+   "https://befirst.tokyo/tour/dometour2027/",
+   "日程・席・受付・注意事項・FAQ"
+  ],
+  [
+   "公式ファンクラブ BESTY",
+   "https://bmsg.shop/pages/befirst-fc-members",
+   "FC先行"
+  ],
+  [
+   "BMSG SHOP",
+   "https://bmsg.shop/collections/be-first",
+   "グッズ・ライトスティック"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/@BEFIRSTOfficial",
+   "ライブ映像・MV"
+  ],
+  [
+   "AnyPASS",
+   "https://anypass.jp/",
+   "電子チケットのアプリ"
+  ]
+ ],
+ "stay_text": "全公演とも17:00開演です（東京ドームの1月11日は祝日、12日は平日の火曜）。終演の時刻は発表されていません。ベルーナドームは埼玉県所沢市で都心から離れているので、遠くから行く人や2日続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "sources": [
+  [
+   "BE:FIRST公式（5th Anniversary DOME TOUR 2027：日程・時刻・席・受付・注意事項・FAQ）",
+   "https://befirst.tokyo/tour/dometour2027/"
+  ],
+  [
+   "BE:FIRST公式（チケット先行のご案内）",
+   "https://befirst.tokyo/tour/dometour2027/news/15/"
+  ],
+  [
+   "BE:FIRST公式（京セラドーム大阪 追加公演）",
+   "https://befirst.tokyo/tour/dometour2027/news/41/"
+  ],
+  [
+   "BE:FIRST公式（プロフィール）",
+   "https://befirst.tokyo/profile/"
+  ],
+  [
+   "BMSG SHOP（LIGHT STICK VER.2）",
+   "https://bmsg.shop/products/be-first-official-light-stick-ver-2"
+  ],
+  [
+   "BE:FIRST公式（スタジアムライブ ライトスティックの座席登録）",
+   "https://befirst.tokyo/tour/Stadium-Live-2026/news/170"
+  ],
+  [
+   "THE FIRST TIMES（Stadium Live 2026 セットリスト）",
+   "https://www.thefirsttimes.jp/report/0000812770/"
+  ],
+  [
+   "モデルプレス（2:BE ファイナル セットリスト）",
+   "https://mdpr.jp/music/detail/4488279"
+  ],
+  [
+   "THE FIRST TIMES（2:BE ライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000566216/"
+  ],
+  [
+   "THE FIRST TIMES（LIVE in DOME 2024 セットリスト）",
+   "https://www.thefirsttimes.jp/report/0000417135/"
+  ],
+  [
+   "モデルプレス（グループの色）",
+   "https://mdpr.jp/fashion/detail/4651445"
+  ]
+ ],
+ "summary": [
+  "ドームツアーは 東京ドーム 2027年1月11日（月・祝）・12日（火）、京セラドーム大阪 1月16日・17日、みずほPayPayドーム福岡 2月13日・14日（開場15:00・開演17:00）、ベルーナドーム 3月6日・7日（開場14:30・開演17:00）。バンテリンドーム ナゴヤも2027年春に予定",
+  "チケットはAnyPASSアプリの電子チケットだけ（スクリーンショット不可）。申し込みの名前・連絡先と来場者が違うと入れない。SS席は全員が顔写真付きの書類",
+  "応援に使えるのは公式グッズだけ。公式でないペンライト・うちわ・手作りのボードは使えない。ライトスティックとタオルは胸の高さで",
+  "公式のコール案内は見当たらない。予習は公式YouTubeのライブ映像で。大きな単独公演3つすべてで歌われた曲は17曲",
+  "3歳以上はチケットが必要で、3歳未満は入れない"
+ ],
+ "faq": [
+  [
+   "BE:FIRSTのドームツアーの開場・開演は何時ですか？",
+   "東京ドーム（2027年1月11日・12日）・京セラドーム大阪（1月16日・17日）・みずほPayPayドーム福岡（2月13日・14日）は開場15:00・開演17:00、ベルーナドーム（3月6日・7日）は開場14:30・開演17:00です（BE:FIRST公式のツアーページより）。終演の時刻は発表されていません。"
+  ],
+  [
+   "入場に必要なものは？",
+   "AnyPASSアプリの電子チケットを出すスマホです。来場する全員がAnyPASSを入れておき、同行者には申し込んだ人がアプリから分配します。QRコードのスクリーンショットでは入れません。顔写真の登録はいりません。SS席は全員、顔写真付きの本人確認書類が必要です。"
+  ],
+  [
+   "チケットはどう申し込みますか？",
+   "ファンクラブ「BESTY」・オンラインサロン「B-Town」の会員先行や、プレイガイドの先行などがあります。受付の種類と期間は「BE:FIRST DOME TOUR 2027まとめ」の「チケットの受付」にまとめています。チケットは不正転売禁止法の特定興行入場券です。"
+  ],
+  [
+   "ペンライトは何を持っていけばいいですか？",
+   "公式の「BE:FIRST OFFICIAL LIGHT STICK VER.2」です。応援に使えるのは公式グッズだけで、公式でないペンライト・サイリウムは使えません。ライトスティックとタオルは胸の高さで使います。"
+  ],
+  [
+   "コールはありますか？",
+   "公式のコール案内やコール表は見当たりません（2026年11月23日時点）。公式YouTubeのライブ映像で曲の流れを見ておくのがおすすめです。"
+  ],
+  [
+   "子どもも入れますか？",
+   "3歳以上はチケットが必要で、3歳未満は入れません。座ったまま見たい人向けの着席指定席があります。"
+  ],
+  [
+   "グッズはいつ発表されますか？",
+   "2026年11月23日時点では、ドームツアーのグッズはまだ発表されていません。これまでのツアーでは、会場での販売と公演のあとのBMSG SHOPの通販がありました。"
+  ]
+ ]
+}
