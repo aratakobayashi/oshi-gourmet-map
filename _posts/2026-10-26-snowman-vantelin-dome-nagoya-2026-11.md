@@ -182,7 +182,7 @@ thumbnail: /assets/img/posts/snowman-vantelin-dome-nagoya-2026-11/thumb.webp
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 
-<div class="ensei__shops">{% include mini.html id="shinoken-d77141f7-20210516" m=890 from="会場から" %}{% include mini.html id="susuru-1cf7a207-20260118" m=1040 from="会場から" %}{% include mini.html id="jinsei_saiko-c652c755-20230506" m=1520 from="会場から" %}{% include mini.html id="switch-bd8d5aa6-20261006" m=1540 from="会場から" %}</div>
+<div class="ensei__shops">{% include mini.html id="machichuka-96f72d51-20261116" m=210 from="会場から" %}{% include mini.html id="shinoken-d77141f7-20210516" m=890 from="会場から" %}{% include mini.html id="susuru-1cf7a207-20260118" m=1040 from="会場から" %}{% include mini.html id="jinsei_saiko-c652c755-20230506" m=1520 from="会場から" %}</div>
 
 <div class="btn-row"><a class="btn" href="/shops/?near=35.185009,136.945374&amp;nl=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4">地図で会場の近くのお店</a><a class="btn" href="/shops/?g=snowman&amp;view=map">地図でSnow Manのお店を見る</a></div>
 

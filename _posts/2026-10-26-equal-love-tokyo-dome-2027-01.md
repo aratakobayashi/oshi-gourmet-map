@@ -29,6 +29,12 @@ sources:
   url: https://equal-love.jp/schedule/detail/11617
 - label: =LOVE公式（東京ドーム公演 FC受付のお知らせ：時刻）
   url: https://equal-love.jp/news/detail/12299
+- label: =LOVE公式（東京ドーム公演 FC最速先行のお知らせ）
+  url: https://equal-love.jp/news/detail/12269
+- label: =LOVE公式（東京ドーム公演 三井ショッピングパーク抽選販売のお知らせ）
+  url: https://equal-love.jp/news/detail/12399
+- label: =LOVE公式（東京ドーム公演 一般先行のお知らせ）
+  url: https://equal-love.jp/news/detail/12474
 - label: 東京ドーム公式サイト（アクセス）
   url: https://www.tokyo-dome.co.jp/dome/access/
 - label: 東京ドームとは
@@ -50,6 +56,8 @@ faq:
   a: 会場のルールで、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類、ペットなどの動物（補助犬をのぞく）、危険物・大きすぎる荷物は持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、=LOVEの公式の案内で確かめてください。
 - q: 東京ドームの近くに=LOVEの聖地はありますか？
   a: 会場から3km以内に5軒あります。ラクーア 1階フードゾーン DELI&DISH（約0.3km）、らーめん ぽっぽっ屋 水道橋店（約0.6km）、沼津港海将 zero 上野店（約2.2km）などです。距離は直線距離です。
+- q: =LOVEの東京ドーム公演のチケットの受付は？
+  a: FC最速先行（抽選）（10月13日〜10月18日）、FC先行（抽選）（10月26日〜11月1日）、三井ショッピングパーク チケット抽選販売（11月9日〜11月15日）、一般先行（抽選・ローソンチケット）（11月21日〜11月29日）があります（2026年11月23日時点の公式発表）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、東京ドームから近い順に宿を載せています（楽天トラベル）。「東京ドーム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
@@ -83,7 +91,7 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 <p class="live-cd" data-d="2027-01-19" data-e="2027-01-20"><b>公演日</b>2027年1月19日（火）・20日（水）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#tickets">チケット</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
@@ -108,7 +116,23 @@ thumbnail: /assets/img/posts/equal-love-tokyo-dome-2027-01/thumb.webp
 
 <p>会場：<strong>東京ドーム</strong>（東京都）。公演名：＝LOVE in TOKYO DOME「全ては＝LOVE」。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="tickets">チケットの受付</h2>
+
+<p>東京ドーム公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+
+<ol class="tk-list">
+  <li class="tk is-open" data-s="2026-11-21T19:30" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">一般先行（抽選・ローソンチケット）</b><span class="tk__p">11月21日（土）19:30〜11月29日（日）23:59</span><span class="tk__w">通常チケット（一般席・女性エリア席・カメコエリア席・着席観覧席）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12474" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（3）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-10-13T17:00" data-e="2026-10-18T23:59"><span class="tk__st">終了</span><b class="tk__n">FC最速先行（抽選）</b><span class="tk__p">10月13日（火）17:00〜10月18日（日）23:59</span><span class="tk__w">応募者・同行者ともに「＝LOVE Official Fan Club」会員・プレミアムチケット・通常チケット</span><a class="tk__go" href="https://equal-love.jp/news/detail/12269" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-10-26T18:00" data-e="2026-11-01T23:59"><span class="tk__st">終了</span><b class="tk__n">FC先行（抽選）</b><span class="tk__p">10月26日（月）18:00〜11月1日（日）23:59</span><span class="tk__w">「＝LOVE Official Fan Club」会員・プレミアムチケット・通常チケット</span><a class="tk__go" href="https://equal-love.jp/news/detail/12299" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-11-09T18:00" data-e="2026-11-15T23:59"><span class="tk__st">終了</span><b class="tk__n">三井ショッピングパーク チケット抽選販売</b><span class="tk__p">11月9日（月）18:00〜11月15日（日）23:59</span><span class="tk__w">三井ショッピングパークポイント会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12399" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>
 
 <h2 id="access">会場への行き方</h2>
 
