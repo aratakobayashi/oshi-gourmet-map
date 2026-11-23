@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ≠ME（ノイミー） 京王アリーナTOKYO公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: ≠ME（ノイミー） 京王アリーナTOKYO公演2026 セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
@@ -77,7 +77,12 @@ thumbnail: /assets/img/posts/notme-musashino-forest-sport-plaza-2026-11/thumb.we
 
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
-<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<details class="setl">
+  <summary>11月8日公演のセットリスト（ネタバレ注意）</summary>
+  <p><b>本編</b>：Overture／愛くださいませ／チョコレートメランコリー／喝采パレード／最強のラブソング／偶然シンフォニー／桃色デイブレイク／ワタシアクセント／ヒロインとオオカミ／想わせぶりっこ／きゅんかわ人生／ウルトラレアキッス／てゆーか、みるてんって何？／こちらハッピー探検隊／はんぶんこクリスマス／モブノデレラ／排他的ファイター／天使は何処へ／まほろばアスタリスク／このままでモーメンタリ／君はスパークル／はにかみショート／ラストチャンス、ラストダンス／ミラクル!／僕たちのイマージュ</p>
+  <p><b>アンコール</b>：名無しのシンデレラ／秘密インシデント／初恋カムバック／ここでファーストキッス／≠ME</p>
+  <p class="note">出典：<a href="https://www.oricon.co.jp/news/2491248/full/" target="_blank" rel="noopener">オリコン（2026年11月8日のライブレポート）</a></p>
+</details>
 {% include live-list.html group="notme" title="≠MEのこれからの公演" %}
 </section>{% endif %}
 

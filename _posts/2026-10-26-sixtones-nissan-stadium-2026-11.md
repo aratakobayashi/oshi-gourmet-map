@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SixTONES（ストーンズ） 日産スタジアム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: SixTONES（ストーンズ） 日産スタジアム公演2026 セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
@@ -76,7 +76,13 @@ thumbnail: /assets/img/posts/sixtones-nissan-stadium-2026-11/thumb.webp
 
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
-<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<details class="setl">
+  <summary>11月22日公演のセットリスト（ネタバレ注意）</summary>
+  <p><b>本編</b>：overture／アンセム／ABARERO -Dark Electro Rock Remix-／PUNK STAR／こっから／彗星の空／一秒／マイオンリー／キカナイ／Special Order／Play the game／希望の唄／Fiesta／ALL STAR STATUS／Flower Cloud／朱夏／Merry-Go-Round／LIKE THAT／Need You／Call me／ABRACADABRA／メドレー（Bang Bang Bangin’・Waves Crash・Dance All Night・DON-DON-DON・HANDS UP・SHOCK ME・WHIP THAT）／Bring The Bass／Beyond the line</p>
+  <p><b>アンコール</b>：S.I.X／BE CRAZY／この星のHIKARI／Dance Forever</p>
+  <p><b>ダブルアンコール</b>：Good Luck!</p>
+  <p class="note">出典：<a href="https://mdpr.jp/music/detail/4881549" target="_blank" rel="noopener">モデルプレス（2026年11月23日のライブレポート）</a></p>
+</details>
 {% include live-list.html group="sixtones" title="SixTONESのこれからの公演" %}
 </section>{% endif %}
 

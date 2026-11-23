@@ -18,5 +18,28 @@
   "2026-11-07",
   "2026-11-08"
  ],
- "note": "公式で未確認: 日本公式サイト straykidsjapan.com のLIVE欄は sonymusic.co.jp から読み込まれ、sonymusic.co.jp は robots.txt で ClaudeBot / anthropic-ai を拒否しているため読めなかった。報道（11月6日から3日間）だけで載せている。ツアー名の日本向け正式表記・時刻は未確認"
+ "note": "公式で未確認: 日本公式サイト straykidsjapan.com のLIVE欄は sonymusic.co.jp から読み込まれ、sonymusic.co.jp は robots.txt で ClaudeBot / anthropic-ai を拒否しているため読めなかった。報道（11月6日から3日間）だけで載せている。ツアー名の日本向け正式表記・時刻は未確認",
+ "setlist": [
+  {
+   "title": "11月8日公演（千秋楽）",
+   "parts": [
+    [
+     "本編",
+     "Hall of Fame／Hellevator／District 9／Side Effects／Double Knot／Back Door／MANIAC／God’s Menu／CREED／SLASH／DIVINE／Thunderous／just a little／Lonely Night／I Do／BLIND SPOT／SUIATSU／Do It／LALALALA／CEREMONY (Hip Hip Version)／Chk Chk Boom -Japanese ver.-／S-Class／RUN IT"
+    ],
+    [
+     "アンコール",
+     "Stray Kids／Phoenix／CASE 143 -Japanese ver.-／宿命／Social Path (feat. LiSA)／MIROH"
+    ],
+    [
+     "ダブルアンコール",
+     "Christmas Love (Party Version)／FAM"
+    ]
+   ],
+   "src": [
+    "Real Sound（2026年11月14日のライブレポート。本文に出てくる順・全31曲）",
+    "https://realsound.jp/2026/11/post-2583012.html"
+   ]
+  }
+ ]
 }
