@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Number_i みずほPayPayドーム福岡公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: Number_i（ナンバーアイ） みずほPayPayドーム福岡公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+checked_at: '2026-11-23'
 checked_label: 公演の日程と会場のルール
-description: 『Number_i LIVE TOUR No.Ⅲ』のみずほPayPayドーム福岡公演（2027年1月16日（土）・17日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『Number_i LIVE TOUR No.Ⅲ』のみずほPayPayドーム福岡公演（2027年1月16日（土）・17日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
 group: numberi
 genre: ライブ
 article_type: live
@@ -16,6 +16,7 @@ live_dates:
 live_end: '2027-01-17'
 tags:
 - Number_i
+- ナンバーアイ
 - Number_i LIVE TOUR No.Ⅲ
 - みずほPayPayドーム福岡
 - ライブ
@@ -24,10 +25,16 @@ tags:
 - 遠征
 - 聖地巡礼
 sources:
-- label: TOBE公式（Number_i CONCERT/STAGE）
+- label: TOBE公式（Number_i CONCERT/STAGE：開演時刻・席種・受付）
   url: https://tobe-official.jp/artists/number_i/concert/364
 - label: TOBE公式（Number_i NEWS 公演スケジュールのご案内）
   url: https://tobe-official.jp/artists/number_i/news/2318
+- label: TOBE公式（ファンクラブ受付のお知らせ）
+  url: https://tobe-official.jp/artists/number_i/news/2330
+- label: TOBE公式（VIP GOLD席 ファンクラブ追加受付）
+  url: https://tobe-official.jp/artists/number_i/news/2413
+- label: モデルプレス（ツアー開幕のライブレポート：開場時刻）
+  url: https://mdpr.jp/news/detail/4865445
 - label: みずほPayPayドーム公式サイト（アクセスマップ）
   url: https://www.softbankhawks.co.jp/stadium/access.html
 - label: みずほPayPayドーム福岡の概要（施設概要）
@@ -37,16 +44,18 @@ sources:
 shop_ids: []
 faq:
 - q: Number_iのみずほPayPayドーム福岡公演はいつですか？
-  a: 2027年1月16日（土）・17日（日）です（Number_i LIVE TOUR No.Ⅲ）。1月16日は開演17:00。1月17日は開演17:00。2026年10月26日時点の公式発表で、変わることがあります。最新はNumber_iの公式サイトで確かめてください。
+  a: 2027年1月16日（土）・17日（日）です（Number_i LIVE TOUR No.Ⅲ）。1月16日は開場15:00／開演17:00。1月17日は開場15:00／開演17:00。2026年11月23日時点の公式発表で、変わることがあります。最新はNumber_iの公式サイトで確かめてください。
 - q: みずほPayPayドーム福岡の最寄り駅はどこですか？
   a: 地下鉄空港線 唐人町駅です（3番出口・徒歩約15分）。
 - q: みずほPayPayドーム福岡に持ち込めないものは？
   a: 会場のルールで、飲食物、ビン・缶、ペット（補助犬をのぞく）、危険物、ストロボ・フラッシュ撮影は持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、Number_iの公式の案内で確かめてください。
+- q: Number_iのみずほPayPayドーム福岡公演のチケットの受付は？
+  a: ファンクラブ受付（8月10日〜8月16日）、ファンクラブ追加受付（VIP GOLD席）（9月30日〜10月1日）があります（2026年11月23日時点の公式発表）。一般発売は日程は未発表（2026年11月23日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、みずほPayPayドーム福岡から近い順に宿を載せています（楽天トラベル）。「みずほPayPayドーム福岡周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Number_i LIVE TOUR No.Ⅲ』のみずほPayPayドーム福岡公演は2027年1月16日（土）・17日（日）（2026年10月26日時点の公式発表）
+- 『Number_i LIVE TOUR No.Ⅲ』のみずほPayPayドーム福岡公演は2027年1月16日（土）・17日（日）（2026年11月23日時点の公式発表）
 - 最寄り駅は地下鉄空港線 唐人町駅（3番出口・徒歩約15分）
 - '会場のルールで持ち込めないもの: 飲食物、ビン・缶、ペット（補助犬をのぞく）、危険物（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -54,13 +63,13 @@ events:
 - name: Number_i LIVE TOUR No.Ⅲ
   date: '2027-01-16'
   start: '17:00'
-  door: ''
+  door: '15:00'
   venue_key: mizuho-paypay-dome
   url: https://tobe-official.jp/artists/number_i/concert/364
 - name: Number_i LIVE TOUR No.Ⅲ
   date: '2027-01-17'
   start: '17:00'
-  door: ''
+  door: '15:00'
   venue_key: mizuho-paypay-dome
   url: https://tobe-official.jp/artists/number_i/concert/364
 thumbnail: /assets/img/posts/numberi-mizuho-paypay-dome-2027-01/thumb.webp
@@ -71,11 +80,11 @@ thumbnail: /assets/img/posts/numberi-mizuho-paypay-dome-2027-01/thumb.webp
 
 {% assign _today = site.time | date: "%Y-%m-%d" %}{% if _today > page.live_end %}<p class="notice">この公演は終わりました。Number_iのこれからの公演は<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式サイト</a>で確かめてください。</p>{% endif %}
 
-<p><strong>Number_i</strong>『Number_i LIVE TOUR No.Ⅲ』の<strong>みずほPayPayドーム福岡</strong>公演は、<strong>2027年1月16日（土）・17日（日）</strong>です（<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、みずほPayPayドーム福岡への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Number_iのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Number_i</strong>『Number_i LIVE TOUR No.Ⅲ』の<strong>みずほPayPayドーム福岡</strong>公演は、<strong>2027年1月16日（土）・17日（日）</strong>です（<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、みずほPayPayドーム福岡への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Number_iのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-01-16" data-e="2027-01-17"><b>公演日</b>2027年1月16日（土）・17日（日）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#tickets">チケット</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
@@ -87,16 +96,35 @@ thumbnail: /assets/img/posts/numberi-mizuho-paypay-dome-2027-01/thumb.webp
 
 {% include venue-hotels.html key="mizuho-paypay-dome" limit=3 top=true %}{% include hotels-link.html key="mizuho-paypay-dome" %}
 
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}">ナンバーアイ LIVE TOUR No.III 2026-2027まとめ</a></p>
+
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
-  <li><b>2027年1月16日（土）</b><span>開演17:00</span></li>
-  <li><b>2027年1月17日（日）</b><span>開演17:00</span></li>
+  <li><b>2027年1月16日（土）</b><span>開場15:00／開演17:00</span></li>
+  <li><b>2027年1月17日（日）</b><span>開場15:00／開演17:00</span></li>
 </ul>
 
 <p>会場：<strong>みずほPayPayドーム福岡</strong>（福岡県）。公演名：Number_i LIVE TOUR No.Ⅲ。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。</p>
+
+<p class="note">日程・時刻は2026年11月23日時点の<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="tickets">チケットの受付</h2>
+
+<p>みずほPayPayドーム福岡公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+
+<ol class="tk-list">
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">日程は未発表（2026年11月23日時点）</span><span class="tk__w">どなたでも</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（2）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-08-10T16:00" data-e="2026-08-16T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ受付</b><span class="tk__p">8月10日（月）16:00〜8月16日（日）23:59</span><span class="tk__w">ファンクラブ会員・SS指定席・S指定席・A指定席・B指定席（全会場）、VIP GOLD席（顔認証）、S指定席［着席指定席］・車椅子席、福岡公演だけのBOX 5</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2330" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-09-30T12:00" data-e="2026-10-01T23:59"><span class="tk__st">終了</span><b class="tk__n">ファンクラブ追加受付（VIP GOLD席）</b><span class="tk__p">9月30日（水）12:00〜10月1日（木）23:59</span><span class="tk__w">ファンクラブ会員・VIP GOLD席（全会場・顔認証）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2413" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">各席種1回4枚まで（BOX席は1組の枚数）。ファンクラブ受付のチケットは公式のリセールの対象です。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -129,7 +157,7 @@ thumbnail: /assets/img/posts/numberi-mizuho-paypay-dome-2027-01/thumb.webp
 
 <h2 id="seichi">会場の近くのNumber_iの聖地</h2>
 
-<p>2026年10月時点で、福岡県にNumber_iのメンバーが行ったお店は登録されていません。</p>
+<p>2026年11月時点で、福岡県にNumber_iのメンバーが行ったお店は登録されていません。</p>
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 
@@ -161,6 +189,7 @@ thumbnail: /assets/img/posts/numberi-mizuho-paypay-dome-2027-01/thumb.webp
 
 <ul>
   <li><a href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'numberi-live-tour-no3-2026' %}{{ p.url }}{% endif %}{% endfor %}">ナンバーアイ LIVE TOUR No.III 2026-2027まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.numberi.u }}">Number_iのお店一覧</a>（グループのページ）</li>
 </ul>
 

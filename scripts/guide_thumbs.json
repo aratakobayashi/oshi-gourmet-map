@@ -1,168 +1,197 @@
 {
-  "inomata-shuto": {
-    "label": "メンバー紹介",
-    "title": "猪俣周杜",
-    "sub": "元timeleszメンバーのプロフィールと経歴",
-    "chips": [
-      "プロフィール",
-      "経歴の年表",
-      "2026年10月の発表"
-    ],
-    "color": "#1d4ed8"
-  },
-  "shonen-ninja-profile": {
-    "label": "グループ紹介",
-    "title": "少年忍者",
-    "sub": "グループの歩みとメンバーのその後",
-    "chips": [
-      "結成から活動終了まで",
-      "最後のメンバー16人",
-      "Howzit"
-    ],
-    "color": "#0f766e"
-  },
-  "teranishi-takuto": {
-    "label": "メンバー紹介",
-    "title": "寺西拓人",
-    "sub": "timelesz｜プロフィール・経歴・出演作",
-    "chips": [
-      "プロフィール",
-      "経歴の年表",
-      "主な出演作",
-      "最新の活動"
-    ],
-    "color": "#1d4ed8"
-  },
-  "hashimoto-shosei": {
-    "label": "メンバー紹介",
-    "title": "橋本将生",
-    "sub": "timelesz｜プロフィール・経歴・出演作",
-    "chips": [
-      "プロフィール",
-      "経歴の年表",
-      "主な出演作",
-      "最新の活動"
-    ],
-    "color": "#1d4ed8"
-  },
-  "shinozuka-taiki": {
-    "label": "メンバー紹介",
-    "title": "篠塚大輝",
-    "sub": "timelesz｜プロフィール・経歴・出演作",
-    "chips": [
-      "プロフィール",
-      "経歴の年表",
-      "主な出演作",
-      "最新の活動"
-    ],
-    "color": "#1d4ed8"
-  },
-  "acees-profile": {
-    "label": "グループ紹介",
-    "title": "ACEes",
-    "sub": "メンバー・歩み・最新の活動",
-    "chips": [
-      "メンバー5人",
-      "結成からの歩み",
-      "ツアー"
-    ],
-    "color": "#be185d"
-  },
-  "bandzai-profile": {
-    "label": "グループ紹介",
-    "title": "B&ZAI",
-    "sub": "メンバー・歩み・最新の活動",
-    "chips": [
-      "メンバー8人",
-      "結成からの歩み",
-      "武道館公演"
-    ],
-    "color": "#b45309"
-  },
-  "key-to-lit-profile": {
-    "label": "グループ紹介",
-    "title": "KEY TO LIT",
-    "sub": "メンバー・歩み・最新の活動",
-    "chips": [
-      "メンバー5人",
-      "結成からの歩み",
-      "CDデビュー発表"
-    ],
-    "color": "#7c3aed"
-  },
-  "star-song-special": {
-    "label": "番組紹介",
-    "title": "Star Song Special",
-    "sub": "ジュニアが出演する音楽番組",
-    "chips": [
-      "Season1〜4",
-      "見られる配信",
-      "各回の出演者"
-    ],
-    "color": "#0369a1"
-  },
-  "timelesz-arena-tour-guide": {
-    "label": "遠征準備",
-    "title": "timeleszのツアー",
-    "sub": "これまでの公演と参戦の準備",
-    "chips": [
-      "公演の一覧",
-      "会場ガイド",
-      "遠征の準備"
-    ],
-    "color": "#1d4ed8"
-  },
-  "equal-love-first-live": {
-    "label": "はじめてのライブ",
-    "title": "=LOVE",
-    "sub": "イコラブのライブに\nはじめて行く人へ",
-    "chips": [
-      "東京ドーム 2027.1.19・20",
-      "入場と本人確認",
-      "ペンライト11色",
-      "定番曲10曲"
-    ],
-    "color": "#f43f5e",
-    "group": "equal_love",
-    "lights": [
-      "#e8537a",
-      "#c8a2e8",
-      "#ff9a3c",
-      "#7cc8f0",
-      "#ffc2d6",
-      "#ffffff",
-      "#ff4d4d",
-      "#ffe066",
-      "#9b59d0",
-      "#a6e05a",
-      "#4d7cff"
-    ]
-  },
-  "equal-love-dome-live-2027": {
-    "label": "ドーム公演まとめ",
-    "title": "=LOVE",
-    "sub": "「全ては＝LOVE」\n東京ドーム・ナゴヤ 4公演",
-    "chips": [
-      "東京 2027.1.19・20",
-      "名古屋 2.24・25",
-      "会場の近くの宿",
-      "セトリ"
-    ],
-    "color": "#f43f5e",
-    "group": "equal_love",
-    "lights": [
-      "#e8537a",
-      "#c8a2e8",
-      "#ff9a3c",
-      "#7cc8f0",
-      "#ffc2d6",
-      "#ffffff",
-      "#ff4d4d",
-      "#ffe066",
-      "#9b59d0",
-      "#a6e05a",
-      "#4d7cff"
-    ],
-    "out": "assets/img/posts/equal-love-dome-live-2027/thumb"
-  }
+ "inomata-shuto": {
+  "label": "メンバー紹介",
+  "title": "猪俣周杜",
+  "sub": "元timeleszメンバーのプロフィールと経歴",
+  "chips": [
+   "プロフィール",
+   "経歴の年表",
+   "2026年10月の発表"
+  ],
+  "color": "#1d4ed8"
+ },
+ "shonen-ninja-profile": {
+  "label": "グループ紹介",
+  "title": "少年忍者",
+  "sub": "グループの歩みとメンバーのその後",
+  "chips": [
+   "結成から活動終了まで",
+   "最後のメンバー16人",
+   "Howzit"
+  ],
+  "color": "#0f766e"
+ },
+ "teranishi-takuto": {
+  "label": "メンバー紹介",
+  "title": "寺西拓人",
+  "sub": "timelesz｜プロフィール・経歴・出演作",
+  "chips": [
+   "プロフィール",
+   "経歴の年表",
+   "主な出演作",
+   "最新の活動"
+  ],
+  "color": "#1d4ed8"
+ },
+ "hashimoto-shosei": {
+  "label": "メンバー紹介",
+  "title": "橋本将生",
+  "sub": "timelesz｜プロフィール・経歴・出演作",
+  "chips": [
+   "プロフィール",
+   "経歴の年表",
+   "主な出演作",
+   "最新の活動"
+  ],
+  "color": "#1d4ed8"
+ },
+ "shinozuka-taiki": {
+  "label": "メンバー紹介",
+  "title": "篠塚大輝",
+  "sub": "timelesz｜プロフィール・経歴・出演作",
+  "chips": [
+   "プロフィール",
+   "経歴の年表",
+   "主な出演作",
+   "最新の活動"
+  ],
+  "color": "#1d4ed8"
+ },
+ "acees-profile": {
+  "label": "グループ紹介",
+  "title": "ACEes",
+  "sub": "メンバー・歩み・最新の活動",
+  "chips": [
+   "メンバー5人",
+   "結成からの歩み",
+   "ツアー"
+  ],
+  "color": "#be185d"
+ },
+ "bandzai-profile": {
+  "label": "グループ紹介",
+  "title": "B&ZAI",
+  "sub": "メンバー・歩み・最新の活動",
+  "chips": [
+   "メンバー8人",
+   "結成からの歩み",
+   "武道館公演"
+  ],
+  "color": "#b45309"
+ },
+ "key-to-lit-profile": {
+  "label": "グループ紹介",
+  "title": "KEY TO LIT",
+  "sub": "メンバー・歩み・最新の活動",
+  "chips": [
+   "メンバー5人",
+   "結成からの歩み",
+   "CDデビュー発表"
+  ],
+  "color": "#7c3aed"
+ },
+ "star-song-special": {
+  "label": "番組紹介",
+  "title": "Star Song Special",
+  "sub": "ジュニアが出演する音楽番組",
+  "chips": [
+   "Season1〜4",
+   "見られる配信",
+   "各回の出演者"
+  ],
+  "color": "#0369a1"
+ },
+ "timelesz-arena-tour-guide": {
+  "label": "遠征準備",
+  "title": "timeleszのツアー",
+  "sub": "これまでの公演と参戦の準備",
+  "chips": [
+   "公演の一覧",
+   "会場ガイド",
+   "遠征の準備"
+  ],
+  "color": "#1d4ed8"
+ },
+ "equal-love-first-live": {
+  "label": "はじめてのライブ",
+  "title": "=LOVE",
+  "sub": "イコラブのライブに\nはじめて行く人へ",
+  "chips": [
+   "東京ドーム 2027.1.19・20",
+   "入場と本人確認",
+   "ペンライト11色",
+   "定番曲10曲"
+  ],
+  "color": "#f43f5e",
+  "group": "equal_love",
+  "lights": [
+   "#e8537a",
+   "#c8a2e8",
+   "#ff9a3c",
+   "#7cc8f0",
+   "#ffc2d6",
+   "#ffffff",
+   "#ff4d4d",
+   "#ffe066",
+   "#9b59d0",
+   "#a6e05a",
+   "#4d7cff"
+  ]
+ },
+ "equal-love-dome-live-2027": {
+  "label": "ドーム公演まとめ",
+  "title": "=LOVE",
+  "sub": "「全ては＝LOVE」\n東京ドーム・ナゴヤ 4公演",
+  "chips": [
+   "東京 2027.1.19・20",
+   "名古屋 2.24・25",
+   "会場の近くの宿",
+   "セトリ"
+  ],
+  "color": "#f43f5e",
+  "group": "equal_love",
+  "lights": [
+   "#e8537a",
+   "#c8a2e8",
+   "#ff9a3c",
+   "#7cc8f0",
+   "#ffc2d6",
+   "#ffffff",
+   "#ff4d4d",
+   "#ffe066",
+   "#9b59d0",
+   "#a6e05a",
+   "#4d7cff"
+  ],
+  "out": "assets/img/posts/equal-love-dome-live-2027/thumb"
+ },
+ "numberi-live-tour-no3-2026": {
+  "label": "ツアーまとめ",
+  "title": "Number_i",
+  "sub": "LIVE TOUR No.Ⅲ\n5大ドーム 2026-2027",
+  "chips": [
+   "大阪 12.2",
+   "東京 12.9・10",
+   "名古屋 1.9〜11",
+   "福岡 1.16・17",
+   "近くの宿"
+  ],
+  "color": "#d4af37",
+  "group": "numberi",
+  "logo_text": "No.Ⅲ",
+  "logo_sub": "5 DOMES",
+  "bg": [
+   "#0b0b10",
+   "#1c1c26",
+   "#050507"
+  ],
+  "lights": [
+   "#ffffff",
+   "#d4af37",
+   "#f5e6a8",
+   "#9ca3af",
+   "#e5e7eb"
+  ],
+  "out": "assets/img/posts/numberi-live-tour-no3-2026/thumb"
+ }
 }

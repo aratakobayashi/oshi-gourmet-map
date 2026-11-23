@@ -130,7 +130,7 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
   <li class="tk is-done" data-s="2026-11-09T18:00" data-e="2026-11-15T23:59"><span class="tk__st">終了</span><b class="tk__n">三井ショッピングパーク チケット抽選販売</b><span class="tk__p">11月9日（月）18:00〜11月15日（日）23:59</span><span class="tk__w">三井ショッピングパークポイント会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12399" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 </details>
-<p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>
+<p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 
 <h3 class="fl-h3">バンテリンドーム ナゴヤ（2027年2月24日（水）・25日（木））</h3>
 
@@ -139,7 +139,7 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
   <li class="tk is-soon" data-s="2026-12-05T17:30" data-e="2026-12-13T23:59"><span class="tk__st">これから</span><b class="tk__n">FC先行</b><span class="tk__p">12月5日（土）17:30〜12月13日（日）23:59</span><span class="tk__w">「＝LOVE Official Fan Club」会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
-<p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>
+<p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 
 <h2 id="v-tokyo-dome">🏟 東京ドーム（2027年1月19日（火）・20日（水））</h2>
 
