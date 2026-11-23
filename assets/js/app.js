@@ -109,6 +109,19 @@
     }
   }
 
+  // ---------- チケットの受付の状態（<li class="tk" data-s data-e>。作ったときの状態を、見る人の時刻で書き直す） ----------
+  (function () {
+    var now = new Date(), pad = function (n) { return ('0' + n).slice(-2); };
+    var t = now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate()) + 'T' + pad(now.getHours()) + ':' + pad(now.getMinutes());
+    document.querySelectorAll('.tk[data-s][data-e]').forEach(function (li) {
+      var s = li.getAttribute('data-s'), e = li.getAttribute('data-e');
+      if (!s || !e) return;
+      var st = t < s ? ['これから', 'is-soon'] : t <= e ? ['受付中', 'is-open'] : ['終了', 'is-done'];
+      li.className = 'tk ' + st[1];
+      var lab = li.querySelector('.tk__st'); if (lab) lab.textContent = st[0];
+    });
+  })();
+
   // ---------- 持ち物チェック（<ul class="fl-check" data-store="…">。この端末にだけ保存） ----------
   document.querySelectorAll('.fl-check[data-store]').forEach(function (ul) {
     var key = 'chk:' + ul.getAttribute('data-store'), saved = {};

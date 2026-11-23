@@ -119,6 +119,36 @@ def ev(name, d, t, key, url):
     return {'name': name, 'date': d, 'start': z(start), 'door': z(door), 'venue_key': key, 'url': url}
 
 
+def tickets_html(tk, note='', today=None):
+    """チケットの受付（公式のお知らせにある 種類・期間・対象・券種だけ。値段は書かない）。
+    tk: [{name, start, end（"2026-11-21T19:30"・未発表なら空）, who, what, url（公式のお知らせ）, note}]。
+    状態（受付中・これから・終了）は作ったときの日付で入れ、app.js が見る人の時刻で書き直す（.tk[data-s][data-e]）"""
+    now = (today or datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime('%Y-%m-%dT%H:%M'))   # 日本時間
+    wd = '月火水木金土日'
+
+    def jp(x):
+        d = datetime.datetime.fromisoformat(x)
+        return f'{d.month}月{d.day}日（{wd[d.weekday()]}）{d.strftime("%H:%M")}'
+    rows, done = [], []
+    for t in tk:
+        s, e = t.get('start') or '', t.get('end') or ''
+        st = ('受付中' if s <= now <= e else 'これから' if now < s else '終了') if s and e else '未発表'
+        cls = {'受付中': 'is-open', 'これから': 'is-soon', '終了': 'is-done', '未発表': 'is-tba'}[st]
+        period = f'{jp(s)}〜{jp(e)}' if s and e else (t.get('note') or '日程は未発表')
+        sub = '・'.join(x for x in (t.get('who'), t.get('what')) if x)
+        (done if st == '終了' else rows).append((['受付中', 'これから', '未発表', '終了'].index(st), s or '9999', f'  <li class="tk {cls}" data-s="{s}" data-e="{e}"><span class="tk__st">{st}</span><b class="tk__n">{T.esc(t["name"])}</b>'
+                    f'<span class="tk__p">{T.esc(period)}</span>' + (f'<span class="tk__w">{T.esc(sub)}</span>' if sub else '')
+                    + f'<a class="tk__go" href="{T.esc(t["url"])}" target="_blank" rel="noopener">公式のお知らせ</a></li>'))
+    # 受付中 → これから → 未発表 の順に。終わった受付は閉じた <details> に
+    out = '<ol class="tk-list">\n' + '\n'.join(x[2] for x in sorted(rows)) + '\n</ol>' if rows else ''
+    if done:
+        out += (f'\n<details class="tk-done"><summary>終わった受付（{len(done)}）</summary>\n<ol class="tk-list">\n'
+                + '\n'.join(x[2] for x in sorted(done, key=lambda x: x[1])) + '\n</ol>\n</details>')
+    out += ('\n<p class="note">' + (T.esc(note) + ' ' if note else '') + '値段や席ごとの条件は公式のお知らせで確かめてください。'
+            'チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>')
+    return out
+
+
 def stay_box(name, hk, hj, top=False):
     return (f'<div class="stay-in{" stay-in--top" if top else ""}">\n  <p class="stay-in__h"><span aria-hidden="true">🛏</span> {T.esc(name)}周辺に泊まる<small class="stay-in__pr">PR</small>'
             + ('<a class="stay-in__more" href="#stay">宿の選び方 ↓</a>' if top else '') + '</p>\n  <div class="btn-row">\n'
@@ -224,6 +254,12 @@ def build(slug, ctx):
     elif pref_rows:
         faq.append({'q': f'{vname}の近くに{gl}の聖地はありますか？',
                     'a': f'{ckl[:-3]}時点で会場から{FAR_KM:.0f}km以内にはありませんが、{vpref}には' + '、'.join(s['name'] for _, s in pref_rows[:3]) + 'などがあります。'})
+    if spec.get('tickets'):
+        tk = [t for t in spec['tickets'] if t.get('start')]
+        faq.append({'q': f'{gl}の{vname}公演のチケットの受付は？',
+                    'a': '、'.join(f'{t["name"]}（{int(t["start"][5:7])}月{int(t["start"][8:10])}日〜{int(t["end"][5:7])}月{int(t["end"][8:10])}日）' for t in tk)
+                         + f'があります（{ckl}時点の公式発表）。' + ''.join(f'{t["name"]}は{t["note"]}。' for t in spec['tickets'] if not t.get('start') and t.get('note'))
+                         + 'くわしい条件と値段は公式のお知らせで確かめてください。'})
     faq.append({'q': '会場の近くに泊まる宿はどう探せばいいですか？',
                 'a': (f'この記事の「会場から近い宿」に、{vname}から近い順に宿を載せています（楽天トラベル）。「{vname}周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。' if has_hotels else f'この記事の「{vname}周辺に泊まる」から、じゃらん・楽天トラベルで会場の近くの宿を検索できます。') + f'終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。'})
 
@@ -252,7 +288,7 @@ def build(slug, ctx):
              f'{gl}のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>')
     # 公演までの日数（app.js が data-d から書き換える。JSが動かなくても日程が読める）と、章へのボタン
     b.append(f'<p class="live-cd" data-d="{dates[0]}" data-e="{dates[-1]}"><b>公演日</b>{dl}</p>')
-    jumps = [('date', '日程'), ('access', '行き方')] + ([('seats', '座席')] if tiers else []) \
+    jumps = [('date', '日程')] + ([('tickets', 'チケット')] if spec.get('tickets') else []) + [('access', '行き方')] + ([('seats', '座席')] if tiers else []) \
         + ([('rules', '持ち込み')] if (rules or prep) else []) + [('stay', '泊まる'), ('seichi', '近くの聖地')]
     b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
     b.append(stay_box(vname, hk, hj, top=True))
@@ -270,8 +306,12 @@ def build(slug, ctx):
         b.append(f'<p class="note">開場・開演の時刻は、{ckl}時点ではまだ発表されていません。</p>')
     if spec.get('public_note'):
         b.append(f'<p class="note">{T.esc(spec["public_note"])}</p>')
-    b.append(f'<p class="note">日程・時刻は{ckl}時点の<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{"発表" if news else "公式発表"}</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>')
+    b.append(f'<p class="note">日程・時刻は{ckl}時点の<a href="{T.esc(spec["official_url"])}" target="_blank" rel="noopener">{"発表" if news else "公式発表"}</a>です。変わることがあるので、行く前に公式サイトで確かめてください。' + ('チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。' if spec.get('tickets') else 'チケットの申し込みや値段はこの記事では扱いません。') + '</p>')
 
+    if spec.get('tickets'):
+        b.append('<h2 id="tickets">チケットの受付</h2>')
+        b.append(f'<p>{T.esc(vname)}公演のチケットの受付です（{ckl}時点の公式発表）。</p>')
+        b.append(tickets_html(spec['tickets'], spec.get('tickets_note', '')))
     b.append('<h2 id="access">会場への行き方</h2>')
     if st:
         b.append('<ul>\n' + ''.join(f'  <li><strong>{T.esc(x["name"])}</strong>：{T.esc(x["exit"])}</li>\n' for x in st) + '</ul>')

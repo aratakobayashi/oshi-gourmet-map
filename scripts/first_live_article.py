@@ -102,6 +102,8 @@ def build(gid):
 
     b.append('<h2 id="entry">🎫 まず押さえる3つ</h2>')
     b.append(f'<p>{d["entry_lead"]}</p>')
+    if d.get('ticket_link'):
+        b.append(f'<p class="first-live">🎫 チケットの受付（先行の種類・期間・対象）は：{d["ticket_link"]}</p>')
     b.append('<ol class="fl-three">\n' + ''.join(f'  <li><b>{esc(t)}</b><span>{esc(s)}</span></li>\n' for t, s in d['three']) + '</ol>')
     if d.get('three_more'):
         b.append(f'<details class="fl-more">\n  <summary>{esc(d["three_more"]["q"])}</summary>\n  <p>{esc(d["three_more"]["a"])}</p>\n</details>')

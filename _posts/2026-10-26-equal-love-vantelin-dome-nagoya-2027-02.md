@@ -29,6 +29,8 @@ sources:
   url: https://equal-love.jp/schedule/detail/12276
 - label: =LOVE公式（ナゴヤ公演 FC最速先行のお知らせ：時刻）
   url: https://equal-love.jp/news/detail/12473
+- label: =LOVE公式（ナゴヤ公演 開催決定のお知らせ：受付スケジュール）
+  url: https://equal-love.jp/news/detail/12275
 - label: バンテリンドーム ナゴヤ公式サイト（アクセスガイド）
   url: https://www.nagoya-dome.co.jp/enjoy/access.php
 - label: ドーム概要
@@ -43,6 +45,8 @@ faq:
   a: ナゴヤドーム前矢田駅です（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分。名鉄瀬戸線 大曽根駅からは徒歩約15分。
 - q: バンテリンドーム ナゴヤに持ち込めないものは？
   a: 会場のルールで、ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）、自分の席に置けない大きな荷物は持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、=LOVEの公式の案内で確かめてください。
+- q: =LOVEのバンテリンドーム ナゴヤ公演のチケットの受付は？
+  a: FC最速先行（抽選）（11月20日〜11月29日）、FC先行（12月5日〜12月13日）があります（2026年11月23日時点の公式発表）。一般先行はFC先行のあとに予定（日程は未発表）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、バンテリンドーム ナゴヤから近い順に宿を載せています（楽天トラベル）。「バンテリンドーム ナゴヤ周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
@@ -76,7 +80,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <p class="live-cd" data-d="2027-02-24" data-e="2027-02-25"><b>公演日</b>2027年2月24日（水）・25日（木）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#tickets">チケット</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
@@ -101,7 +105,18 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <p>会場：<strong>バンテリンドーム ナゴヤ</strong>（愛知県）。公演名：＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="tickets">チケットの受付</h2>
+
+<p>バンテリンドーム ナゴヤ公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+
+<ol class="tk-list">
+  <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">FC最速先行（抽選）</b><span class="tk__p">11月20日（金）18:00〜11月29日（日）23:59</span><span class="tk__w">応募者・同行者ともに「＝LOVE Official Fan Club」会員・プレミアムチケット・通常チケット</span><a class="tk__go" href="https://equal-love.jp/news/detail/12473" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-05T17:30" data-e="2026-12-13T23:59"><span class="tk__st">これから</span><b class="tk__n">FC先行</b><span class="tk__p">12月5日（土）17:30〜12月13日（日）23:59</span><span class="tk__w">「＝LOVE Official Fan Club」会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付で申し込み、転売サイトでは買わないようにしましょう（公式は譲渡・転売を禁止しています）。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -152,7 +167,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 
-<div class="ensei__shops">{% include mini.html id="shinoken-d77141f7-20210516" m=890 from="会場から" %}{% include mini.html id="susuru-1cf7a207-20260118" m=1040 from="会場から" %}{% include mini.html id="jinsei_saiko-c652c755-20230506" m=1520 from="会場から" %}{% include mini.html id="switch-bd8d5aa6-20261006" m=1540 from="会場から" %}</div>
+<div class="ensei__shops">{% include mini.html id="machichuka-96f72d51-20261116" m=210 from="会場から" %}{% include mini.html id="shinoken-d77141f7-20210516" m=890 from="会場から" %}{% include mini.html id="susuru-1cf7a207-20260118" m=1040 from="会場から" %}{% include mini.html id="jinsei_saiko-c652c755-20230506" m=1520 from="会場から" %}</div>
 
 <div class="btn-row"><a class="btn" href="/shops/?near=35.185009,136.945374&amp;nl=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4">地図で会場の近くのお店</a><a class="btn" href="/shops/?g=equal_love&amp;view=map">地図で=LOVEのお店を見る</a></div>
 
