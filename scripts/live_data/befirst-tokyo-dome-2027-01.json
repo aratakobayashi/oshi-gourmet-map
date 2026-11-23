@@ -3,15 +3,19 @@
  "group": "befirst",
  "tour": "BE:FIRST 5th Anniversary DOME TOUR 2027",
  "official_url": "https://befirst.tokyo/tour/dometour2027/",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-23",
  "sources": [
   {
-   "label": "BE:FIRST公式（ツアー特設サイト）",
+   "label": "BE:FIRST公式（5th Anniversary DOME TOUR 2027：日程・時刻・席の種類・受付・注意事項）",
    "url": "https://befirst.tokyo/tour/dometour2027/"
   },
   {
-   "label": "BE:FIRST公式（LIVE）",
-   "url": "https://befirst.tokyo/live/dometour2027/"
+   "label": "BE:FIRST公式（チケット先行のご案内）",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/15/"
+  },
+  {
+   "label": "BE:FIRST公式（京セラドーム大阪 追加公演・バンテリンドーム ナゴヤ開催予定）",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/41/"
   }
  ],
  "venue_key": "tokyo-dome",
@@ -25,5 +29,56 @@
   "2027-01-11": "開場15:00／開演17:00",
   "2027-01-12": "開場15:00／開演17:00"
  },
- "note": "京セラドーム大阪は2026-10-24に追加公演として発表。バンテリンドーム ナゴヤの追加公演は「2027年春」で日付未発表のため除外"
+ "note": "京セラドーム大阪は2026-10-24に追加公演として発表。バンテリンドーム ナゴヤの追加公演は「2027年春」で日付未発表のため除外",
+ "tickets": [
+  {
+   "name": "BESTY会員・B-Town〈Architect〉会員先行",
+   "start": "2026-05-22T18:00",
+   "end": "2026-05-31T23:59",
+   "who": "ファンクラブ BESTY・B-Town〈Architect〉の会員",
+   "what": "一般指定席・着席指定席（抽選）",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/21/"
+  },
+  {
+   "name": "B-Town〈Resident〉会員先行",
+   "start": "2026-06-06T18:00",
+   "end": "2026-06-11T23:59",
+   "who": "B-Town〈Resident〉の会員",
+   "what": "抽選",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/25/"
+  },
+  {
+   "name": "ローソンチケット先行（Lencore・プレリクエスト）",
+   "start": "2026-06-24T15:00",
+   "end": "2026-07-05T23:59",
+   "who": "ローソンチケット",
+   "what": "注釈付き指定席だけ（抽選）",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/31/"
+  },
+  {
+   "name": "BESTY・B-Town会員 2次先行",
+   "start": "2026-11-25T18:00",
+   "end": "2026-11-30T23:59",
+   "who": "BESTY・B-Town〈Architect / Resident〉の会員",
+   "what": "全公演（抽選。当落は12月8日17:00から）",
+   "url": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "name": "アップグレード抽選（SS席）",
+   "start": "2026-12-03T18:00",
+   "end": "2026-12-10T23:59",
+   "who": "BESTY・B-Town先行で一般指定席に当選・入金した人",
+   "what": "SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）",
+   "url": "https://befirst.tokyo/tour/dometour2027/"
+  },
+  {
+   "name": "一般発売・公式リセール",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://befirst.tokyo/tour/dometour2027/",
+   "note": "未発表（2026年11月23日時点）"
+  }
+ ],
+ "tickets_note": "1人1公演4枚まで。3歳以上はチケットが必要で、3歳未満は入れません。チケットはAnyPASSアプリの電子チケットです。"
 }

@@ -136,9 +136,13 @@ def build(gid):
     b.append(f'<p class="note">{r["note"]}</p>')
 
     p = d['penlight']
-    b.append(f'<h2 id="penlight">🔦 ペンライト（{len(p["colors"])}色）</h2>')
+    # 色の一覧が公式にないとき（colors が空）は、光り方（modes）を並べる
+    b.append(f'<h2 id="penlight">🔦 ペンライト（{len(p["colors"])}色）</h2>' if p.get('colors') else f'<h2 id="penlight">🔦 {esc(p.get("heading", "ペンライト"))}</h2>')
     b.append(f'<p>{p["text"]}</p>')
-    b.append('<ol class="fl-colors">' + ''.join(f'<li style="--c:{c}">{esc(n)}</li>' for n, c in p['colors']) + '</ol>')
+    if p.get('colors'):
+        b.append('<ol class="fl-colors">' + ''.join(f'<li style="--c:{c}">{esc(n)}</li>' for n, c in p['colors']) + '</ol>')
+    elif p.get('modes'):
+        b.append('<ul class="setl-top">' + ''.join(f'<li>{esc(x)}</li>' for x in p['modes']) + '</ul>')
     b.append(f'<p class="note">{p["note"]}</p>')
 
     m = d['members']
