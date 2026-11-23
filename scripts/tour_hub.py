@@ -70,8 +70,8 @@ def build(name):
         return ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + g + '\' and p.venue_key == \'' + lv['venue_key'] +
                 '\' and p.live_end == \'' + lv['dates'][-1] + '\' %}{{ p.url }}{% endif %}{% endfor %}')
 
-    title = (f'{gl_t} {d["series_long"].replace(gl + " ", "")}まとめ｜' + '・'.join(vn_names) +
-             'の日程・会場・近くの宿・セトリ')
+    # 題名は前の30字ほどに「グループ・ドーム公演/ツアー名・年・まとめ」（日程・セトリで探す人向け）
+    title = f'{gl_t} {d.get("title_core") or d["series_long"]}まとめ｜' + '・'.join(vn_names) + 'の日程・時刻・セトリ・近くのホテル'
     desc = (f'{d["series_long"]}（' + '、'.join(f'{venues[lv["venue_key"]]["name"]} {L.dlabel(lv["dates"])}' for lv in lives) +
             f'）の日程と会場、会場ごとの近い宿と近くの{gl}の聖地、公演のあとのセットリストをまとめました。日程は{ckl}時点の公式発表です。')
     summary = [f'{d["series_long"]}は' + '、'.join(f'{venues[lv["venue_key"]]["name"]} {L.dlabel(lv["dates"])}' for lv in lives) +
@@ -96,7 +96,8 @@ def build(name):
           'checked_label': '公演の日程', 'description': desc, 'group': g, 'genre': 'ライブ', 'article_type': 'tourhub',
           'live_dates': all_dates, 'live_end': all_dates[-1],
           'tags': [gl] + ([aka] if aka else []) + [d['series_long'], *vn_names, 'ライブ', 'ドーム公演', '日程', 'セトリ', '遠征'],
-          'sources': sources, 'faq': faq, 'pr': True, 'summary': summary}
+          'sources': sources, 'faq': faq, 'pr': True, 'summary': summary,
+          'events': [L.ev(lv['tour'], dt, (f'開場{times[dt][0]}／開演{times[dt][1]}' if times.get(dt) else ''), lv['venue_key'], lv['official_url']) for lv in lives for dt in lv['dates']]}
     th = f'assets/img/posts/{slug}/thumb.webp'
     if os.path.exists(os.path.join(ROOT, th)):
         fm['thumbnail'] = '/' + th
@@ -112,7 +113,7 @@ def build(name):
 </section>''')
     b.append('<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a>'
              + ''.join(f'<a class="chip chip--area" href="#v-{lv["venue_key"]}">🏟 {esc(venues[lv["venue_key"]]["name"])}</a>' for lv in lives)
-             + '<a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>')
+             + ('<a class="chip chip--area" href="#goods">🛍 グッズ</a>' if d.get('goods') else '') + '<a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>')
     b.append(f'<p>{d["lead"].rstrip("。")}（{ckl}時点）。</p>')
 
     b.append('<h2 id="schedule">📅 日程と会場</h2>')
@@ -130,7 +131,7 @@ def build(name):
     if d.get('nagoya_note'):
         b.append(f'<p class="note">{esc(d["nagoya_note"])}</p>')
     b.append('<p class="note">日程は' + '・'.join(f'<a href="{esc(lv["official_url"])}" target="_blank" rel="noopener">{esc(venues[lv["venue_key"]]["name"])}公演の公式発表</a>' for lv in lives)
-             + (f'、時刻は<a href="{esc(d["times_src"])}" target="_blank" rel="noopener">公式のお知らせ</a>' if times else '') + f'より（{ckl}時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこのページでは扱いません。</p>')
+             + (('、時刻は' + '・'.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">公式のお知らせ</a>' for u in ([d['times_src']] if isinstance(d.get('times_src'), str) else d.get('times_src') or []))) if times else '') + f'より（{ckl}時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこのページでは扱いません。</p>')
 
     for lv in lives:
         key = lv['venue_key']
@@ -152,6 +153,9 @@ def build(name):
             b.append(f'<p class="tl-seichi">🍽 会場から{r}km以内に、{esc(gl)}のメンバーが行ったお店が<b>{n}軒</b>。'
                      f'<a href="{live_url(lv)}#seichi">参戦ガイドで見る</a></p>')
 
+    if d.get('goods'):
+        b.append('<h2 id="goods">🛍 グッズ</h2>')
+        b.append('<div class="fl-goods">' + ''.join(f'<div><b>{esc(t)}</b><span>{esc(x)}（<a href="{esc(u)}" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div>' for t, x, u in d['goods']) + '</div>')
     b.append('<h2 id="setlist">🎵 セットリスト</h2>')
     if d.get('setlists'):
         for st in d['setlists']:
@@ -169,7 +173,7 @@ def build(name):
         b.append(f'<p>直近の大きな3公演すべてで歌われた曲（大手報道のセットリストから）：</p>')
         b.append('<ul class="setl-top">' + ''.join(f'<li>{esc(t)}</li>' for t in fd['setlist']['top']) + '</ul>')
         b.append(f'<div class="pf-cta">\n  <p>{esc(gl)}のライブにはじめて行く人へ</p>\n  <span>入場と本人確認・席の種類・ペンライト・撮影・コール・予習の動画・グッズの買い方を、公式の案内からまとめています。</span>\n'
-                 f'  <a class="btn" href="/guide/{fl}/">はじめてのライブガイドを見る</a>\n</div>')
+                 f'  <a class="btn" href="/guide/{fl}/">{esc(aka or gl)}のライブ初参戦ガイド（ペンライトの色・コール）</a>\n</div>')
     b.append(f'{{% include live-list.html group="{g}" title="{esc(gl)}のこれからの公演（参戦ガイド）" %}}')
     b.append(f'<p class="note">このページは{ckl}に、{esc(gl)}公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>')
     b.append('</div>')

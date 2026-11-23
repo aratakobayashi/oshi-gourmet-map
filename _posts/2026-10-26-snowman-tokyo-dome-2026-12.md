@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Snow Man 東京ドーム公演 参戦ガイド（2026年12月23日〜26日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: Snow Man 東京ドーム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の東京ドーム公演（2026年12月23日（水）・24日（木）・25日（金）・26日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内にSnow Manのメンバーが行ったお店が8軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -60,6 +60,31 @@ summary:
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から3km以内にSnow Manのメンバーが行ったお店が8軒。会場からの近さ順に載せています
+events:
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-23'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-24'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-25'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-26'
+  start: '16:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
 thumbnail: /assets/img/posts/snowman-tokyo-dome-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#3b82f6">

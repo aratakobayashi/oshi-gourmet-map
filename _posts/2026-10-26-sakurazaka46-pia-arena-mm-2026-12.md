@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 櫻坂46 ぴあアリーナMM公演 参戦ガイド（2026年12月15日・16日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: 櫻坂46 ぴあアリーナMM公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『櫻坂46 16th Single BACKS LIVE!!』のぴあアリーナMM公演（2026年12月15日（火）・16日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に櫻坂46のメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -48,6 +48,19 @@ summary:
 - 『櫻坂46 16th Single BACKS LIVE!!』のぴあアリーナMM公演は2026年12月15日（火）・16日（水）（2026年10月26日時点の公式発表）
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 会場から10km以内に櫻坂46のメンバーが行ったお店が1軒。会場からの近さ順に載せています
+events:
+- name: 櫻坂46 16th Single BACKS LIVE!!
+  date: '2026-12-15'
+  start: ''
+  door: ''
+  venue_key: pia-arena-mm
+  url: https://sakurazaka46.com/s/s46/news/detail/T00006
+- name: 櫻坂46 16th Single BACKS LIVE!!
+  date: '2026-12-16'
+  start: ''
+  door: ''
+  venue_key: pia-arena-mm
+  url: https://sakurazaka46.com/s/s46/news/detail/T00006
 thumbnail: /assets/img/posts/sakurazaka46-pia-arena-mm-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#e11d48">

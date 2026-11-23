@@ -3,11 +3,15 @@
  "group": "equal_love",
  "tour": "＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」",
  "official_url": "https://equal-love.jp/schedule/detail/12276",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-23",
  "sources": [
   {
    "label": "=LOVE公式（SCHEDULE）",
    "url": "https://equal-love.jp/schedule/detail/12276"
+  },
+  {
+   "label": "=LOVE公式（ナゴヤ公演 FC最速先行のお知らせ：時刻）",
+   "url": "https://equal-love.jp/news/detail/12473"
   }
  ],
  "venue_key": "vantelin-dome-nagoya",
@@ -17,5 +21,9 @@
   "2027-02-24",
   "2027-02-25"
  ],
- "note": "バンテリンドーム ナゴヤ公演は公式スケジュールに「開催決定」として掲載（2027年2月24日(水)・25日(木)）。開場/開演は未掲載"
+ "note": "バンテリンドーム ナゴヤ公演は公式スケジュールに「開催決定」として掲載（2027年2月24日(水)・25日(木)）。開場/開演は未掲載",
+ "times": {
+  "2027-02-24": "開場16:00／開演18:00",
+  "2027-02-25": "開場16:00／開演18:00"
+ }
 }

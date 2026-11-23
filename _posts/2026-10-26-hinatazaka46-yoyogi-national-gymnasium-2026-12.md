@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 日向坂46 国立代々木競技場第一体育館公演 参戦ガイド（2026年12月9日〜11日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: 日向坂46 国立代々木競技場第一体育館公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『日向坂46 ARENA TOUR「ひなくり2026」』の国立代々木競技場第一体育館公演（2026年12月9日（水）・10日（木）・11日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に日向坂46のメンバーが行ったお店が6軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -54,6 +54,25 @@ summary:
 - 『日向坂46 ARENA TOUR「ひなくり2026」』の国立代々木競技場第一体育館公演は2026年12月9日（水）・10日（木）・11日（金）（2026年10月26日時点の公式発表）
 - 最寄り駅はJR 原宿駅（徒歩5分）。東京メトロ 明治神宮前駅からは徒歩5分
 - 会場から10km以内に日向坂46のメンバーが行ったお店が6軒。会場からの近さ順に載せています
+events:
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-12-09'
+  start: '18:00'
+  door: '16:30'
+  venue_key: yoyogi-national-gymnasium
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-12-10'
+  start: '18:00'
+  door: '16:30'
+  venue_key: yoyogi-national-gymnasium
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-12-11'
+  start: '18:00'
+  door: '16:30'
+  venue_key: yoyogi-national-gymnasium
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
 thumbnail: /assets/img/posts/hinatazaka46-yoyogi-national-gymnasium-2026-12/thumb.webp
 ---
 <div class="pf" style="--pc:#f59e0b">

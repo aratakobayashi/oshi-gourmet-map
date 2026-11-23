@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Snow Man バンテリンドーム ナゴヤ公演 参戦ガイド（2026年11月26日〜29日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: Snow Man バンテリンドーム ナゴヤ公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』のバンテリンドーム ナゴヤ公演（2026年11月26日（木）・27日（金）・28日（土）・29日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSnow Manのメンバーが行ったお店が5軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -57,6 +57,31 @@ summary:
 - 最寄り駅はナゴヤドーム前矢田駅（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分
 - '会場のルールで持ち込めないもの: ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）（公演ごとの案内も確かめる）'
 - 会場から10km以内にSnow Manのメンバーが行ったお店が5軒。会場からの近さ順に載せています
+events:
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-26'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-27'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-28'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-29'
+  start: '15:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
 thumbnail: /assets/img/posts/snowman-vantelin-dome-nagoya-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#3b82f6">

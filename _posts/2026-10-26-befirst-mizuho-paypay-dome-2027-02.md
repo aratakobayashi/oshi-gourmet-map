@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BE:FIRST みずほPayPayドーム福岡公演 参戦ガイド（2027年2月13日・14日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: BE:FIRST みずほPayPayドーム福岡公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』のみずほPayPayドーム福岡公演（2027年2月13日（土）・14日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -50,6 +50,19 @@ summary:
 - 最寄り駅は地下鉄空港線 唐人町駅（3番出口・徒歩約15分）
 - '会場のルールで持ち込めないもの: 飲食物、ビン・缶、ペット（補助犬をのぞく）、危険物（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
+events:
+- name: BE:FIRST 5th Anniversary DOME TOUR 2027
+  date: '2027-02-13'
+  start: '17:00'
+  door: '15:00'
+  venue_key: mizuho-paypay-dome
+  url: https://befirst.tokyo/tour/dometour2027/
+- name: BE:FIRST 5th Anniversary DOME TOUR 2027
+  date: '2027-02-14'
+  start: '17:00'
+  door: '15:00'
+  venue_key: mizuho-paypay-dome
+  url: https://befirst.tokyo/tour/dometour2027/
 thumbnail: /assets/img/posts/befirst-mizuho-paypay-dome-2027-02/thumb.webp
 ---
 <div class="pf" style="--pc:#111827">

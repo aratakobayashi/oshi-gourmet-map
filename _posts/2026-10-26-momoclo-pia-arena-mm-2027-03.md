@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ももいろクローバーZ（ももクロ） ぴあアリーナMM公演 参戦ガイド（2027年3月20日・21日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: ももいろクローバーZ（ももクロ） ぴあアリーナMM公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のぴあアリーナMM公演（2027年3月20日（土）・21日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から3km以内にももいろクローバーZのメンバーが行ったお店が4軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -52,6 +52,19 @@ summary:
 - ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のぴあアリーナMM公演は2027年3月20日（土）・21日（日）（2026年10月26日時点の公式発表）
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 会場から3km以内にももいろクローバーZのメンバーが行ったお店が4軒。会場からの近さ順に載せています
+events:
+- name: MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”
+  date: '2027-03-20'
+  start: '17:30'
+  door: '16:30'
+  venue_key: pia-arena-mm
+  url: https://www.momoclo.net/archives/news/261017_01
+- name: MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”
+  date: '2027-03-21'
+  start: '16:30'
+  door: '15:30'
+  venue_key: pia-arena-mm
+  url: https://www.momoclo.net/archives/news/261017_01
 thumbnail: /assets/img/posts/momoclo-pia-arena-mm-2027-03/thumb.webp
 ---
 <div class="pf" style="--pc:#ec4899">

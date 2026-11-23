@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 日向坂46 ワールド記念ホール公演 参戦ガイド（2026年11月21日〜23日）｜行き方・座席・持ち込み・泊まる・近くの聖地
+title: 日向坂46 ワールド記念ホール公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-07'
+last_modified_at: '2026-11-23'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『日向坂46 ARENA TOUR「ひなくり2026」』のワールド記念ホール公演（2026年11月21日（土）・22日（日）・23日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -46,6 +46,25 @@ summary:
 - 『日向坂46 ARENA TOUR「ひなくり2026」』のワールド記念ホール公演は2026年11月21日（土）・22日（日）・23日（月）（2026年10月26日時点の公式発表）
 - 最寄り駅はポートライナー 市民広場駅（西出口から徒歩約3分）
 - 会場の近くのほかの推しの聖地
+events:
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-11-21'
+  start: '17:30'
+  door: '16:00'
+  venue_key: kobe-world-kinen-hall
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-11-22'
+  start: '17:30'
+  door: '16:00'
+  venue_key: kobe-world-kinen-hall
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
+- name: 日向坂46 ARENA TOUR「ひなくり2026」
+  date: '2026-11-23'
+  start: '17:30'
+  door: '16:00'
+  venue_key: kobe-world-kinen-hall
+  url: https://www.hinatazaka46.com/s/official/news/detail/E00916
 thumbnail: /assets/img/posts/hinatazaka46-kobe-world-kinen-hall-2026-11/thumb.webp
 ---
 <div class="pf" style="--pc:#f59e0b">

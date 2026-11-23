@@ -40,6 +40,18 @@ layout: default
 </div>
 {%- endif %}
 <div class="wrap">{% include live-list.html group=key title="これからの公演の参戦ガイド" %}</div>
+{%- comment -%} ライブに行く人の入口: はじめてのライブ（_guides・firstlive）とツアーまとめ（_posts・tourhub。終わっていないもの） {%- endcomment -%}
+{%- assign _fl = site.guides | where: "group", key | where: "guide_category", "firstlive" | first %}
+{%- assign _today = site.time | date: "%Y-%m-%d" %}
+{%- assign _ths = site.posts | where: "group", key | where: "article_type", "tourhub" %}
+{%- assign _th = nil %}{% for p in _ths %}{% if p.live_end >= _today %}{% assign _th = p %}{% break %}{% endif %}{% endfor %}
+{%- if _fl or _th %}
+<div class="wrap glive">
+  {%- if _th %}<a class="gfeat" href="{{ _th.url | relative_url }}" style="--g:{{ gcolor }}">{% if _th.thumbnail %}<img src="{{ _th.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="320" height="180" loading="lazy" decoding="async">{% endif %}<span class="gfeat__body"><small>ライブの日程・セトリ</small><b>{{ _th.title | split: '｜' | first }}</b><span class="gfeat__go">日程・時刻・会場の近くのホテル<span aria-hidden="true"> ›</span></span></span></a>{% endif %}
+  {%- if _fl %}<a class="gfeat" href="{{ _fl.url | relative_url }}" style="--g:{{ gcolor }}">{% if _fl.thumbnail %}<img src="{{ _fl.thumbnail | replace: '.webp', '_600.webp' | relative_url }}" alt="" width="320" height="180" loading="lazy" decoding="async">{% endif %}<span class="gfeat__body"><small>はじめてライブに行くなら</small><b>{{ _fl.title | split: '｜' | first }}</b><span class="gfeat__go">ペンライトの色・コール・定番曲・入場<span aria-hidden="true"> ›</span></span></span></a>{% endif %}
+</div>
+{%- endif %}
+
 <div class="wrap">
   <div class="cols">
     <div class="cols__side">

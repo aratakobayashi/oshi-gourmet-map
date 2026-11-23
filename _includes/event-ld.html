@@ -1,0 +1,17 @@
+{%- comment -%}
+  公演のイベント情報（構造化データ schema.org MusicEvent）。Google の検索結果に公演の日付・会場が出るように。
+  page.events（live_article.py・tour_hub.py が書く）: [{name, date, start（"18:00" か空）, door（"16:00" か空）, venue_key, url（公式の公演ページ）}]
+  会場の名前・住所は _data/venues.json（address・zip。公式サイトで確かめたもの）。出演は page.group のグループ。値段・空席は持たないので offers は書かない
+{%- endcomment -%}
+{%- if page.events and page.events.size > 0 -%}
+{%- assign _eg = site.data.group_ix[page.group] -%}
+{%- assign _eimg = page.thumbnail | absolute_url -%}
+<script type="application/ld+json">[{% for e in page.events %}{% assign _ev = site.data.venues[e.venue_key] %}{
+"@context":"https://schema.org","@type":"MusicEvent","name":{{ e.name | jsonify }},
+"startDate":"{{ e.date }}{% if e.start != '' and e.start %}T{{ e.start }}:00+09:00{% endif %}",{% if e.door != '' and e.door %}"doorTime":"{{ e.date }}T{{ e.door }}:00+09:00",{% endif %}
+"eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+"location":{"@type":"Place","name":{{ _ev.name | jsonify }},"address":{"@type":"PostalAddress","streetAddress":{{ _ev.address | jsonify }},{% if _ev.zip %}"postalCode":"{{ _ev.zip }}",{% endif %}"addressCountry":"JP"},"geo":{"@type":"GeoCoordinates","latitude":{{ _ev.lat }},"longitude":{{ _ev.lng }}}},
+"performer":{"@type":"MusicGroup","name":{{ _eg.l | jsonify }}},
+{% if page.thumbnail %}"image":["{{ _eimg }}"],{% endif %}"url":{{ e.url | jsonify }},
+"description":{{ page.description | strip_html | truncate: 150 | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]</script>
+{%- endif -%}

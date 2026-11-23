@@ -110,6 +110,15 @@ def old_date(slug):
     return os.path.basename(old[0])[:10] if old else None
 
 
+def ev(name, d, t, key, url):
+    """構造化データ MusicEvent 用（_includes/event-ld.html）。t は「開場16:00／開演18:00」の形"""
+    t = t or ''
+    door = re.search(r'開場\s*(\d{1,2}:\d{2})', t)
+    start = re.search(r'開演\s*(\d{1,2}:\d{2})', t)
+    z = lambda m: m.group(1).zfill(5) if m else ''
+    return {'name': name, 'date': d, 'start': z(start), 'door': z(door), 'venue_key': key, 'url': url}
+
+
 def stay_box(name, hk, hj, top=False):
     return (f'<div class="stay-in{" stay-in--top" if top else ""}">\n  <p class="stay-in__h"><span aria-hidden="true">🛏</span> {T.esc(name)}周辺に泊まる<small class="stay-in__pr">PR</small>'
             + ('<a class="stay-in__more" href="#stay">宿の選び方 ↓</a>' if top else '') + '</p>\n  <div class="btn-row">\n'
@@ -144,6 +153,13 @@ def build(slug, ctx):
     has_guide = os.path.exists(os.path.join(ROOT, '_guides', f'{key}.html'))
     first_live = g.replace('_', '-') + '-first-live'   # グループの「はじめてのライブ」（_guides。あればリンク）
     has_first = os.path.exists(os.path.join(ROOT, '_guides', f'{first_live}.html'))
+    # この公演を含むツアーまとめ（scripts/tour_hub_data。あればリンク）
+    hub = None
+    for hp in glob.glob(os.path.join(ROOT, 'scripts/tour_hub_data/*.json')):
+        hd = json.load(open(hp, encoding='utf-8'))
+        if slug in hd.get('lives', []):
+            hub = hd
+    aka_or = AKA.get(g, gl)
     has_hotels = bool((J('_data/venue_hotels.json').get(key) or {}).get('hotels')) if os.path.exists(os.path.join(ROOT, '_data/venue_hotels.json')) else False
     vpref = spec.get('pref') or ''
 
@@ -179,7 +195,8 @@ def build(slug, ctx):
     tiers = (vd.get('seats') or {}).get('tiers', [])
 
     gl_t = f'{gl}（{AKA[g]}）' if g in AKA else gl
-    title = f'{gl_t} {vname}公演 参戦ガイド（{drange(dates)}）｜行き方・座席・持ち込み・泊まる・近くの聖地'
+    # 題名は検索結果で見える前の30字ほどに「グループ・会場・年・参戦ガイド」を入れる（日付は説明文と本文に）
+    title = f'{gl_t} {vname}公演{dates[0][:4]} 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地'
     tname = f'『{tour}』' if tour.startswith(gl) else f'{gl}『{tour}』'
     shrine = (f'会場から{r:.0f}km以内に{gl}のメンバーが行ったお店が{len(rows)}軒' if rows else
               (f'{vpref}にある{gl}の聖地{len(pref_rows)}軒' if pref_rows else '会場の近くのほかの推しの聖地'))
@@ -217,6 +234,7 @@ def build(slug, ctx):
         'tags': [gl] + ([AKA[g]] if g in AKA else []) + [tour, vname, 'ライブ', '参戦', 'アクセス', '遠征', '聖地巡礼'],
         'sources': spec['sources'] + guide_sources(key)[:3],
         'shop_ids': ids, 'faq': faq, 'pr': True, 'summary': summary,
+        'events': [ev(tour, d, times.get(d), key, spec['official_url']) for d in dates],
     }
     if os.path.exists(os.path.join(ROOT, 'assets/img/posts', slug, 'thumb.webp')):
         fm['thumbnail'] = f'/assets/img/posts/{slug}/thumb.webp'   # グループ名・会場・日程入り（scripts/live_thumbs.py）
@@ -241,7 +259,9 @@ def build(slug, ctx):
     b.append(f'{{% include venue-hotels.html key="{key}" limit=3 top=true %}}{{% include hotels-link.html key="{key}" %}}')
 
     if has_first:
-        b.append(f'<p class="first-live">はじめて{gl}のライブに行くなら：<a href="/guide/{first_live}/">{gl}のライブにはじめて行く人へ</a>（入場と本人確認・ペンライト・撮影・コール・定番曲・グッズ）</p>')
+        b.append(f'<p class="first-live">はじめて{gl}のライブに行くなら：<a href="/guide/{first_live}/">{aka_or}のライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>')
+    if hub:
+        b.append(f'<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{{% for p in site.posts %}}{{% if p.slug == \'{hub["slug"]}\' %}}{{{{ p.url }}}}{{% endif %}}{{% endfor %}}">{aka_or} {hub["title_core"]}まとめ</a></p>')
     b.append('<h2 id="date">公演の日程</h2>')
     b.append('<ul class="live-dates">\n' + ''.join(
         f'  <li><b>{dlabel([d])}</b>{"<span>" + T.esc(times[d]) + "</span>" if times.get(d) else ""}</li>\n' for d in dates) + '</ul>')
@@ -323,7 +343,9 @@ def build(slug, ctx):
     if has_guide:
         more.append(f'<li><a href="/guide/{key}/">{T.esc(vname)} ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>')
     if has_first:
-        more.append(f'<li><a href="/guide/{first_live}/">{gl}のライブにはじめて行く人へ</a>（入場・ペンライト・コール・定番曲・グッズ）</li>')
+        more.append(f'<li><a href="/guide/{first_live}/">{aka_or}のライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>')
+    if hub:
+        more.append(f'<li><a href="{{% for p in site.posts %}}{{% if p.slug == \'{hub["slug"]}\' %}}{{{{ p.url }}}}{{% endif %}}{{% endfor %}}">{aka_or} {hub["title_core"]}まとめ</a>（全会場の日程・時刻・セトリ）</li>')
     more.append(f'<li><a href="{{{{ site.data.group_ix.{g}.u }}}}">{gl}のお店一覧</a>（グループのページ）</li>')
     b.append('<ul>\n' + '\n'.join('  ' + x for x in more) + '\n</ul>')
     b.append(f'<p class="note">お店の情報は、各お店の出典（番組・YouTube・ファンのロケ地ブログ）をもとにしています。会場からの距離は直線距離で、歩く距離とは違います。'
