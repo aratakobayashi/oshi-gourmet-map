@@ -17,6 +17,7 @@ import glob
 import html
 import json
 import os
+import re
 import sys
 import urllib.parse
 
@@ -51,6 +52,22 @@ def build(name):
     lives.sort(key=lambda x: x['dates'][0])
     all_dates = [dt for lv in lives for dt in lv['dates']]
     times = d.get('times') or {}
+
+    def tstr(lv, dt):
+        # 時刻の文字列。ハブの times（[開場, 開演]）が優先、なければ参戦ガイドのデータ（live_data の times。「開演18:30」など公式の表記）
+        if times.get(dt):
+            return f'開場{times[dt][0]}／開演{times[dt][1]}'
+        return (lv.get('times') or {}).get(dt, '')
+
+    def evs(lv, dt):
+        # 構造化データ。1日2回公演（「開演12:30／19:00」）は2つのイベントにする
+        t = tstr(lv, dt)
+        m = re.search(r'開演\s*([\d:／/・、 ]+)', t)
+        starts = re.findall(r'\d{1,2}:\d{2}', m.group(1)) if m else []
+        door = re.search(r'開場\s*(\d{1,2}:\d{2})', t)
+        if len(starts) > 1 and not door:
+            return [L.ev(lv['tour'], dt, f'開演{x}', lv['venue_key'], lv['official_url']) for x in starts]
+        return [L.ev(lv['tour'], dt, t, lv['venue_key'], lv['official_url'])]
     ck = d['checked_at']
     ckl = f'{ck[:4]}年{int(ck[5:7])}月{int(ck[8:10])}日'
     vn_names = [venues[lv['venue_key']]['name'] for lv in lives]
@@ -76,7 +93,7 @@ def build(name):
             f'）の日程と会場、会場ごとの近い宿と近くの{gl}の聖地、公演のあとのセットリストをまとめました。日程は{ckl}時点の公式発表です。')
     summary = [f'{d["series_long"]}は' + '、'.join(f'{venues[lv["venue_key"]]["name"]} {L.dlabel(lv["dates"])}' for lv in lives) +
                f'の{len(lives)}会場・{len(all_dates)}公演（{ckl}時点の公式発表）']
-    tl = [f'{int(k[5:7])}月{int(k[8:10])}日は開場{v[0]}・開演{v[1]}' for k, v in sorted(times.items())]
+    tl = [f'{int(dt[5:7])}月{int(dt[8:10])}日は' + tstr(lv, dt).replace('／', '・') for lv in lives for dt in lv['dates'] if tstr(lv, dt)]
     if tl:
         summary.append('発表されている時刻: ' + '、'.join(tl))
     summary.append('会場ごとに、会場から近い宿（楽天トラベル）と宿の検索、近くの' + gl + 'の聖地、参戦ガイドをまとめています')
@@ -101,7 +118,7 @@ def build(name):
           'live_dates': all_dates, 'live_end': all_dates[-1],
           'tags': [gl] + ([aka] if aka else []) + [d['series_long'], *vn_names, 'ライブ', 'ドーム公演', '日程', 'セトリ', '遠征'],
           'sources': sources, 'faq': faq, 'pr': True, 'summary': summary,
-          'events': [L.ev(lv['tour'], dt, (f'開場{times[dt][0]}／開演{times[dt][1]}' if times.get(dt) else ''), lv['venue_key'], lv['official_url']) for lv in lives for dt in lv['dates']]}
+          'events': [e for lv in lives for dt in lv['dates'] for e in evs(lv, dt)]}
     th = f'assets/img/posts/{slug}/thumb.webp'
     if os.path.exists(os.path.join(ROOT, th)):
         fm['thumbnail'] = '/' + th
@@ -127,8 +144,7 @@ def build(name):
         vname = venues[lv['venue_key']]['name']
         for i, dt in enumerate(lv['dates']):
             md_, w = F.md(dt)
-            t = times.get(dt)
-            tt = f'開場 {t[0]}／開演 {t[1]}' if t else '時刻は未発表'
+            tt = tstr(lv, dt).replace('開場', '開場 ').replace('開演', '開演 ') or '時刻は未発表'
             rows.append(f'  <li{" class=\"is-past\"" if dt < TODAY else ""}><span class="tl-d"><b>{md_}</b><small>{w}</small></span>'
                         f'<span class="tl-v"><b>{esc(vname)}</b><small>{esc(tt)}</small></span>'
                         f'<a class="tl-go" href="{live_url(lv)}">参戦ガイド</a></li>')
@@ -136,7 +152,7 @@ def build(name):
     if d.get('nagoya_note'):
         b.append(f'<p class="note">{esc(d["nagoya_note"])}</p>')
     b.append('<p class="note">日程は' + '・'.join(f'<a href="{esc(lv["official_url"])}" target="_blank" rel="noopener">{esc(venues[lv["venue_key"]]["name"])}公演の公式発表</a>' for lv in lives)
-             + (('、時刻は' + '・'.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">公式のお知らせ</a>' for u in ([d['times_src']] if isinstance(d.get('times_src'), str) else d.get('times_src') or []))) if times else '') + f'より（{ckl}時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>')
+             + (('、時刻は' + '・'.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">公式のお知らせ</a>' for u in ([d['times_src']] if isinstance(d.get('times_src'), str) else d.get('times_src') or []))) if times and d.get('times_src') else '') + f'より（{ckl}時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>')
 
     if any(lv.get('tickets') for lv in lives):
         b.append('<h2 id="tickets">🎫 チケットの受付</h2>')
