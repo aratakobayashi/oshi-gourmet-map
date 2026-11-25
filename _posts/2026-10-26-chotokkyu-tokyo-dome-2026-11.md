@@ -2,10 +2,10 @@
 layout: post
 title: 超特急 東京ドーム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『超特急 BULLET TRAIN 1st DOME LIVE Signal』の東京ドーム公演（2026年11月25日（水）・26日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に超特急のメンバーが行ったお店が7軒をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『超特急 BULLET TRAIN 1st DOME LIVE Signal』の東京ドーム公演（2026年11月25日（水）・26日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に超特急のメンバーが行ったお店が7軒をまとめました。日程は2026年11月25日時点の公式発表です。
 group: chotokkyu
 genre: ライブ
 article_type: live
@@ -44,7 +44,7 @@ shop_ids:
 - chotokkyu-13009b9f-20240913
 faq:
 - q: 超特急の東京ドーム公演はいつですか？
-  a: 2026年11月25日（水）・26日（木）です（超特急 BULLET TRAIN 1st DOME LIVE Signal）。11月25日は開場16:00／開演18:00。11月26日は開場16:00／開演18:00。2026年10月26日時点の公式発表で、変わることがあります。最新は超特急の公式サイトで確かめてください。
+  a: 2026年11月25日（水）・26日（木）です（超特急 BULLET TRAIN 1st DOME LIVE Signal）。11月25日は開場16:00／開演18:00。11月26日は開場16:00／開演18:00。2026年11月25日時点の公式発表で、変わることがあります。最新は超特急の公式サイトで確かめてください。
 - q: 東京ドームの最寄り駅はどこですか？
   a: JR 水道橋駅です（西口（東口もあり））。都営三田線 水道橋駅からはA2出口。東京メトロ 後楽園駅からは2番出口。
 - q: 東京ドームに持ち込めないものは？
@@ -55,7 +55,7 @@ faq:
   a: この記事の「会場から近い宿」に、東京ドームから近い順に宿を載せています（楽天トラベル）。「東京ドーム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『超特急 BULLET TRAIN 1st DOME LIVE Signal』の東京ドーム公演は2026年11月25日（水）・26日（木）（2026年10月26日時点の公式発表）
+- 『超特急 BULLET TRAIN 1st DOME LIVE Signal』の東京ドーム公演は2026年11月25日（水）・26日（木）（2026年11月25日時点の公式発表）
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から10km以内に超特急のメンバーが行ったお店が7軒。会場からの近さ順に載せています
@@ -86,7 +86,7 @@ thumbnail: /assets/img/posts/chotokkyu-tokyo-dome-2026-11/thumb.webp
 {% include live-list.html group="chotokkyu" title="超特急のこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>超特急</strong>『超特急 BULLET TRAIN 1st DOME LIVE Signal』の<strong>東京ドーム</strong>公演は、<strong>2026年11月25日（水）・26日（木）</strong>です（<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、超特急のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>超特急</strong>『超特急 BULLET TRAIN 1st DOME LIVE Signal』の<strong>東京ドーム</strong>公演は、<strong>2026年11月25日（水）・26日（木）</strong>です（<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、超特急のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-25" data-e="2026-11-26"><b>公演日</b>2026年11月25日（水）・26日（木）</p>
 
@@ -111,7 +111,7 @@ thumbnail: /assets/img/posts/chotokkyu-tokyo-dome-2026-11/thumb.webp
 
 <p>会場：<strong>東京ドーム</strong>（東京都）。公演名：超特急 BULLET TRAIN 1st DOME LIVE Signal。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://bullettrain.jp/live_information/detail/66" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 

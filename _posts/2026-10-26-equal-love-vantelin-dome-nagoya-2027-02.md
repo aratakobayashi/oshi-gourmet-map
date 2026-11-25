@@ -2,10 +2,10 @@
 layout: post
 title: =LOVE（イコラブ） バンテリンドーム ナゴヤ公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演（2027年2月24日（水）・25日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
+description: =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演（2027年2月24日（水）・25日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: equal_love
 genre: ライブ
 article_type: live
@@ -40,18 +40,18 @@ sources:
 shop_ids: []
 faq:
 - q: =LOVEのバンテリンドーム ナゴヤ公演はいつですか？
-  a: 2027年2月24日（水）・25日（木）です（＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」）。2月24日は開場16:00／開演18:00。2月25日は開場16:00／開演18:00。2026年11月23日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
+  a: 2027年2月24日（水）・25日（木）です（＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」）。2月24日は開場16:00／開演18:00。2月25日は開場16:00／開演18:00。2026年11月25日時点の公式発表で、変わることがあります。最新は=LOVEの公式サイトで確かめてください。
 - q: バンテリンドーム ナゴヤの最寄り駅はどこですか？
   a: ナゴヤドーム前矢田駅です（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分。名鉄瀬戸線 大曽根駅からは徒歩約15分。
 - q: バンテリンドーム ナゴヤに持ち込めないものは？
   a: 会場のルールで、ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）、自分の席に置けない大きな荷物は持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、=LOVEの公式の案内で確かめてください。
 - q: =LOVEのバンテリンドーム ナゴヤ公演のチケットの受付は？
-  a: FC最速先行（抽選）（11月20日〜11月29日）、FC先行（12月5日〜12月13日）があります（2026年11月23日時点の公式発表）。一般先行はFC先行のあとに予定（日程は未発表）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: FC最速先行（抽選）（11月20日〜11月29日）、FC先行（12月5日〜12月13日）があります（2026年11月25日時点の公式発表）。一般先行はFC先行のあとに予定（日程は未発表・2026年11月25日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、バンテリンドーム ナゴヤから近い順に宿を載せています（楽天トラベル）。「バンテリンドーム ナゴヤ周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演は2027年2月24日（水）・25日（木）（2026年11月23日時点の公式発表）
+- =LOVE『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』のバンテリンドーム ナゴヤ公演は2027年2月24日（水）・25日（木）（2026年11月25日時点の公式発表）
 - 最寄り駅はナゴヤドーム前矢田駅（1番出入口・徒歩約5分）。JR 大曽根駅からは徒歩約15分
 - '会場のルールで持ち込めないもの: ビン・カン類、飲食物・クーラーボックス類、銃砲刀剣類・花火・爆竹など、ペット（補助犬をのぞく）（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -83,7 +83,7 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 {% include live-list.html group="equal_love" title="=LOVEのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>=LOVE</strong>『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2027年2月24日（水）・25日（木）</strong>です（<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>=LOVE</strong>『＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」』の<strong>バンテリンドーム ナゴヤ</strong>公演は、<strong>2027年2月24日（水）・25日（木）</strong>です（<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、バンテリンドーム ナゴヤへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、=LOVEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-24" data-e="2027-02-25"><b>公演日</b>2027年2月24日（水）・25日（木）</p>
 
@@ -112,16 +112,16 @@ thumbnail: /assets/img/posts/equal-love-vantelin-dome-nagoya-2027-02/thumb.webp
 
 <p>会場：<strong>バンテリンドーム ナゴヤ</strong>（愛知県）。公演名：＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>バンテリンドーム ナゴヤ公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>バンテリンドーム ナゴヤ公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">FC最速先行（抽選）</b><span class="tk__p">11月20日（金）18:00〜11月29日（日）23:59</span><span class="tk__w">応募者・同行者ともに「＝LOVE Official Fan Club」会員・プレミアムチケット・通常チケット</span><a class="tk__go" href="https://equal-love.jp/news/detail/12473" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-soon" data-s="2026-12-05T17:30" data-e="2026-12-13T23:59"><span class="tk__st">これから</span><b class="tk__n">FC先行</b><span class="tk__p">12月5日（土）17:30〜12月13日（日）23:59</span><span class="tk__w">「＝LOVE Official Fan Club」会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表・2026年11月25日時点）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 

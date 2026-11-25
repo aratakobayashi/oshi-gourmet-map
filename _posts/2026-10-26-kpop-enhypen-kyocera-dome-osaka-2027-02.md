@@ -2,10 +2,10 @@
 layout: post
 title: ENHYPEN（エンハイフン） 京セラドーム大阪公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の京セラドーム大阪公演（2027年2月19日（金）・20日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
+description: 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の京セラドーム大阪公演（2027年2月19日（金）・20日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: kpop_enhypen
 genre: ライブ
 article_type: live
@@ -42,18 +42,18 @@ sources:
 shop_ids: []
 faq:
 - q: ENHYPENの京セラドーム大阪公演はいつですか？
-  a: 2027年2月19日（金）・20日（土）です（ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN）。2月19日は開場16:00／開演18:00。2月20日は開場14:00／開演16:00。2026年11月23日時点の公式発表で、変わることがあります。最新はENHYPENの公式サイトで確かめてください。
+  a: 2027年2月19日（金）・20日（土）です（ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN）。2月19日は開場16:00／開演18:00。2月20日は開場14:00／開演16:00。2026年11月25日時点の公式発表で、変わることがあります。最新はENHYPENの公式サイトで確かめてください。
 - q: 京セラドーム大阪の最寄り駅はどこですか？
   a: 地下鉄 ドーム前千代崎駅です（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ。JR 大正駅からは徒歩約7分。
 - q: 京セラドーム大阪に持ち込めないものは？
   a: 会場のルールで、飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、ペット、危険物・クーラーボックスは持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、ENHYPENの公式の案内で確かめてください。
 - q: ENHYPENの京セラドーム大阪公演のチケットの受付は？
-  a: ENGENE MEMBERSHIP (JP) 会員最速先行（4月23日〜5月14日）、ENGENE MEMBERSHIP (JP) 会員2次先行（6月10日〜7月6日）、ローチケ LEncoreカード会員・プレリクエスト抽選先行（7月23日〜8月17日）、アップグレード抽選（S席・VIP席）（9月9日〜9月28日）、一般販売（10月31日〜。予定枚数に達し次第終了）があります（2026年11月23日時点の公式発表）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: ENGENE MEMBERSHIP (JP) 会員最速先行（4月23日〜5月14日）、ENGENE MEMBERSHIP (JP) 会員2次先行（6月10日〜7月6日）、ローチケ LEncoreカード会員・プレリクエスト抽選先行（7月23日〜8月17日）、アップグレード抽選（S席・VIP席）（9月9日〜9月28日）、一般販売（10月31日〜。予定枚数に達し次第終了）があります（2026年11月25日時点の公式発表）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、京セラドーム大阪から近い順に宿を載せています（楽天トラベル）。「京セラドーム大阪周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の京セラドーム大阪公演は2027年2月19日（金）・20日（土）（2026年11月23日時点の公式発表）
+- 『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の京セラドーム大阪公演は2027年2月19日（金）・20日（土）（2026年11月25日時点の公式発表）
 - 最寄り駅は地下鉄 ドーム前千代崎駅（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ
 - '会場のルールで持ち込めないもの: 飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -85,7 +85,7 @@ thumbnail: /assets/img/posts/kpop-enhypen-kyocera-dome-osaka-2027-02/thumb.webp
 {% include live-list.html group="kpop_enhypen" title="ENHYPENのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>ENHYPEN</strong>『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年2月19日（金）・20日（土）</strong>です（<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ENHYPENのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>ENHYPEN</strong>『ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年2月19日（金）・20日（土）</strong>です（<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ENHYPENのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-19" data-e="2027-02-20"><b>公演日</b>2027年2月19日（金）・20日（土）</p>
 
@@ -114,11 +114,11 @@ thumbnail: /assets/img/posts/kpop-enhypen-kyocera-dome-osaka-2027-02/thumb.webp
 
 <p>会場：<strong>京セラドーム大阪</strong>（大阪府）。公演名：ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.hybejapan-concert.com/statics/enhypen_blood_saga" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>京セラドーム大阪公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>京セラドーム大阪公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-10-31T10:00" data-e=""><span class="tk__st">発売中</span><b class="tk__n">一般販売</b><span class="tk__p">10月31日（土）10:00〜（予定枚数に達し次第終了）</span><span class="tk__w">どなたでも・指定席・注釈付き指定席（先着。1公演4枚まで）</span><a class="tk__go" href="https://enhypen-jp.weverse.io/news/81ef744ba5bb" target="_blank" rel="noopener">公式のお知らせ</a></li>

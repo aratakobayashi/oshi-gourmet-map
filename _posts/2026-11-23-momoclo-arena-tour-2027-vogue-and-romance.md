@@ -2,7 +2,7 @@
 layout: post
 title: ももいろクローバーZ（ももクロ） アリーナツアー2027「VOGUE AND ROMANCE」まとめ｜ぴあアリーナMM・ワールド記念ホール・有明アリーナの日程・時刻・セトリ・近くのホテル
 date: '2026-11-23'
-last_modified_at: '2026-11-23'
+last_modified_at: '2026-11-25'
 checked_at: '2026-11-23'
 checked_label: 公演の日程
 description: MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”（ぴあアリーナMM 2027年3月20日（土）・21日（日）、ワールド記念ホール 2027年4月24日（土）・25日（日）、有明アリーナ 2027年5月8日（土）・9日（日））の日程と会場、会場ごとの近い宿と近くのももいろクローバーZの聖地、公演のあとのセットリストをまとめました。日程は2026年11月23日時点の公式発表です。
@@ -133,7 +133,7 @@ thumbnail: /assets/img/posts/momoclo-arena-tour-2027-vogue-and-romance/thumb.web
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（1）</summary>
 <ol class="tk-list">
@@ -146,7 +146,7 @@ thumbnail: /assets/img/posts/momoclo-arena-tour-2027-vogue-and-romance/thumb.web
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（1）</summary>
 <ol class="tk-list">
@@ -159,7 +159,7 @@ thumbnail: /assets/img/posts/momoclo-arena-tour-2027-vogue-and-romance/thumb.web
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（1）</summary>
 <ol class="tk-list">

@@ -2,10 +2,10 @@
 layout: post
 title: Number_i（ナンバーアイ） LIVE TOUR No.III 2026-2027まとめ｜京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡の日程・時刻・セトリ・近くのホテル
 date: '2026-10-19'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程
-description: Number_i LIVE TOUR No.Ⅲ（京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日））の日程と会場、会場ごとの近い宿と近くのNumber_iの聖地、公演のあとのセットリストをまとめました。日程は2026年11月23日時点の公式発表です。
+description: Number_i LIVE TOUR No.Ⅲ（京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日））の日程と会場、会場ごとの近い宿と近くのNumber_iの聖地、公演のあとのセットリストをまとめました。日程は2026年11月25日時点の公式発表です。
 group: numberi
 genre: ライブ
 article_type: tourhub
@@ -57,18 +57,18 @@ sources:
   url: https://www.thefirsttimes.jp/report/0000905956/
 faq:
 - q: Number_i LIVE TOUR No.Ⅲの日程と会場は？
-  a: 京セラドーム大阪（2026年12月2日（水））、東京ドーム（2026年12月9日（水）・10日（木））、バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））、みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））です。2026年11月23日時点の公式発表で、変わることがあります。
+  a: 京セラドーム大阪（2026年12月2日（水））、東京ドーム（2026年12月9日（水）・10日（木））、バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））、みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））です。2026年11月25日時点の公式発表で、変わることがあります。
 - q: 開場・開演の時刻は？
   a: 12月2日は開場16:30・開演18:30、12月9日は開場16:30・開演18:30、12月10日は開場16:30・開演18:30、1月9日は開場15:00・開演17:00、1月10日は1回目 開場10:30・開演12:30、2回目 開場17:00・開演19:00、1月11日は開場15:00・開演17:00、1月16日は開場15:00・開演17:00、1月17日は開場15:00・開演17:00です（開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります）。発表されていない公演の時刻は、Number_iの公式サイトで確かめてください。
 - q: セットリストは？
   a: 公演のあと、大手報道のライブレポートに載ったセットリストをこのページの「セットリスト」に出典つきで載せています（ネタバレ注意）。
 - q: チケットの受付は？
-  a: このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（2026年11月23日時点）。値段や席ごとの条件は公式のお知らせで確かめてください。
+  a: このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（2026年11月25日時点）。値段や席ごとの条件は公式のお知らせで確かめてください。
 - q: 会場の近くの宿は？
   a: このページの会場ごとの「会場から近い宿」に、楽天トラベルの宿を会場から近い順に載せています。会場ごとの「近くのホテル」のページでは、最寄り駅ごとにさらに多くの宿を見られます。
 pr: true
 summary:
-- Number_i LIVE TOUR No.Ⅲは京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日）の4会場・9公演（2026年11月23日時点の公式発表）
+- Number_i LIVE TOUR No.Ⅲは京セラドーム大阪 2026年12月2日（水）、東京ドーム 2026年12月9日（水）・10日（木）、バンテリンドーム ナゴヤ 2027年1月9日（土）・10日（日）・11日（月）、みずほPayPayドーム福岡 2027年1月16日（土）・17日（日）の4会場・9公演（2026年11月25日時点の公式発表）
 - '発表されている時刻: 12月2日は開場16:30・開演18:30、12月9日は開場16:30・開演18:30、12月10日は開場16:30・開演18:30、1月9日は開場15:00・開演17:00、1月10日は1回目 開場10:30・開演12:30、2回目 開場17:00・開演19:00、1月11日は開場15:00・開演17:00、1月16日は開場15:00・開演17:00、1月17日は開場15:00・開演17:00'
 - 会場ごとに、会場から近い宿（楽天トラベル）と宿の検索、近くのNumber_iの聖地、参戦ガイドをまとめています
 - セットリストは公演のあと、大手報道のライブレポートに載ったものだけを出典つきで載せます
@@ -141,7 +141,7 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 <nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a><a class="chip chip--area" href="#tickets">🎫 チケット</a><a class="chip chip--area" href="#v-kyocera-dome-osaka">🏟 京セラドーム大阪</a><a class="chip chip--area" href="#v-tokyo-dome">🏟 東京ドーム</a><a class="chip chip--area" href="#v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ</a><a class="chip chip--area" href="#v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>
 
-<p>Number_i（ナンバーアイ）の初の5大ドームツアー『Number_i LIVE TOUR No.Ⅲ』は、ワールドツアー「Number_i 1st World Tour」の日本公演（Chapter 1）です。2026年10月24日の大和ハウス プレミストドーム（札幌）で開幕し、これから京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡で公演があります。日程と時刻、チケットの受付、グッズとペンライトの決まり、会場ごとの近い宿と近くの聖地をこのページにまとめます（2026年11月23日時点）。</p>
+<p>Number_i（ナンバーアイ）の初の5大ドームツアー『Number_i LIVE TOUR No.Ⅲ』は、ワールドツアー「Number_i 1st World Tour」の日本公演（Chapter 1）です。2026年10月24日の大和ハウス プレミストドーム（札幌）で開幕し、これから京セラドーム大阪・東京ドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡で公演があります。日程と時刻、チケットの受付、グッズとペンライトの決まり、会場ごとの近い宿と近くの聖地をこのページにまとめます（2026年11月25日時点）。</p>
 
 <h2 id="schedule">📅 日程と会場</h2>
 
@@ -158,11 +158,11 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 <p class="note">開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。バンテリンドーム ナゴヤの1月10日は1日2回公演です。</p>
 
-<p class="note">日程は<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">京セラドーム大阪公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">みずほPayPayドーム福岡公演の公式発表</a>より（2026年11月23日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程は<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">京セラドーム大阪公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>・<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">みずほPayPayドーム福岡公演の公式発表</a>より（2026年11月25日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">🎫 チケットの受付</h2>
 
-<p>会場ごとのチケットの受付です（2026年11月23日時点の公式発表）。受付中のものは期限に気をつけてください。</p>
+<p>会場ごとのチケットの受付です（2026年11月25日時点の公式発表）。受付中のものは期限に気をつけてください。</p>
 
 <h3 class="fl-h3">京セラドーム大阪（2026年12月2日（水））</h3>
 
@@ -193,7 +193,7 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 <h3 class="fl-h3">バンテリンドーム ナゴヤ（2027年1月9日（土）・10日（日）・11日（月））</h3>
 
 <ol class="tk-list">
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">日程は未発表（2026年11月23日時点）</span><span class="tk__w">どなたでも</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-open" data-s="2026-11-19T12:00" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレイガイド最終抽選先行</b><span class="tk__p">11月19日（木）12:00〜11月29日（日）23:59</span><span class="tk__w">どなたでも・抽選（Live Nation H.I.P.）。この先行で予定枚数に達した場合は一般発売なし</span><a class="tk__go" href="https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（2）</summary>
 <ol class="tk-list">
@@ -206,7 +206,7 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 <h3 class="fl-h3">みずほPayPayドーム福岡（2027年1月16日（土）・17日（日））</h3>
 
 <ol class="tk-list">
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">日程は未発表（2026年11月23日時点）</span><span class="tk__w">どなたでも</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-open" data-s="2026-11-19T12:00" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレイガイド最終抽選先行</b><span class="tk__p">11月19日（木）12:00〜11月29日（日）23:59</span><span class="tk__w">どなたでも・抽選（Live Nation H.I.P.）。この先行で予定枚数に達した場合は一般発売なし</span><a class="tk__go" href="https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（2）</summary>
 <ol class="tk-list">
@@ -308,7 +308,7 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 <h2 id="goods">🛍 グッズ</h2>
 
-<div class="fl-goods"><div><b>公式ペンライトと光るもの</b><span>このツアーは「Number_i LIVE TOUR No.Ⅲ オリジナルペンライト」の無線の演出があり、事前にアプリで座席を登録します。これまでの公式ペンライトと「3XL」ハートのペンダントはライトを消して持ち込めます。公式グッズでない光るものは持ち込めません（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場でのグッズ販売</b><span>予約・整理券はいらず、公演のチケットがなくても買えます。1回の会計で1種類4点まで。前日からの徹夜・早朝からの待機は禁止。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせ（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>公式ストアの通販</b><span>2026年11月6日18:00から、売り切れまで（11月10日から順に発送）。1種類4点まで（<a href="https://tobe-store.jp/blogs/information/111" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場限定のCD特典</b><span>4thシングル「REBON / BUGS LIFE / DIGITAL GIRL」を会場で買うと特典（3形態でB2ポスターとステッカーセット、1形態でB2ポスター）。札幌のあとの会場は決まりしだいお知らせ（<a href="https://tobe-official.jp/artists/number_i/news/2457" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
+<div class="fl-goods"><div><b>公式ペンライトと光るもの</b><span>このツアーは「Number_i LIVE TOUR No.Ⅲ オリジナルペンライト」の無線の演出があり、事前にアプリで座席を登録します。これまでの公式ペンライトと「3XL」ハートのペンダントはライトを消して持ち込めます。公式グッズでない光るものは持ち込めません（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場でのグッズ販売</b><span>予約・整理券はいらず、公演のチケットがなくても買えます。京セラドーム大阪は12月2日11:00〜18:30、東京ドームは12月9日・10日とも10:00〜18:30（2026年11月25日の公式ストアのお知らせ。売る物は一部変わることがある）。1回の会計で1種類4点まで。前日からの徹夜・早朝からの待機は禁止。名古屋・福岡の販売時間は後日お知らせ（<a href="https://tobe-store.jp/blogs/information/108" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>公式ストアの通販</b><span>2026年11月6日18:00から、売り切れまで（11月10日から順に発送）。1種類4点まで（<a href="https://tobe-store.jp/blogs/information/111" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>会場限定のCD特典</b><span>4thシングル「REBON / BUGS LIFE / DIGITAL GIRL」を会場で買うと特典（3形態でB2ポスターとステッカーセット、1形態でB2ポスター）。札幌のあとの会場は決まりしだいお知らせ（<a href="https://tobe-official.jp/artists/number_i/news/2457" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
 
 <h2 id="setlist">🎵 セットリスト</h2>
 
@@ -332,6 +332,6 @@ thumbnail: /assets/img/posts/numberi-live-tour-no3-2026/thumb.webp
 
 {% include live-list.html group="numberi" title="Number_iのこれからの公演（参戦ガイド）" %}
 
-<p class="note">このページは2026年11月23日に、Number_i公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
+<p class="note">このページは2026年11月25日に、Number_i公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
 
 </div>

@@ -2,10 +2,10 @@
 layout: post
 title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
+description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: momoclo
 genre: ライブ
 article_type: live
@@ -40,16 +40,16 @@ sources:
 shop_ids: []
 faq:
 - q: ももいろクローバーZのワールド記念ホール公演はいつですか？
-  a: 2027年4月24日（土）・25日（日）です（MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”）。4月24日は開場16:30／開演17:30。4月25日は開場15:30／開演16:30。2026年11月23日時点の公式発表で、変わることがあります。最新はももいろクローバーZの公式サイトで確かめてください。
+  a: 2027年4月24日（土）・25日（日）です（MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”）。4月24日は開場16:30／開演17:30。4月25日は開場15:30／開演16:30。2026年11月25日時点の公式発表で、変わることがあります。最新はももいろクローバーZの公式サイトで確かめてください。
 - q: ワールド記念ホールの最寄り駅はどこですか？
   a: ポートライナー 市民広場駅です（西出口から徒歩約3分）。
 - q: ももいろクローバーZのワールド記念ホール公演のチケットの受付は？
-  a: ANGEL EYES会員先行（抽選）（10月17日〜10月25日）、プレオーダー（抽選・イープラス）（11月20日〜11月25日）があります（2026年11月23日時点の公式発表）。一般発売は未発表（2026年11月23日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: ANGEL EYES会員先行（抽選）（10月17日〜10月25日）、プレオーダー（抽選・イープラス）（11月20日〜11月25日）があります（2026年11月25日時点の公式発表）。一般発売は未発表（2026年11月25日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、ワールド記念ホールから近い順に宿を載せています（楽天トラベル）。「ワールド記念ホール周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演は2027年4月24日（土）・25日（日）（2026年11月23日時点の公式発表）
+- ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演は2027年4月24日（土）・25日（日）（2026年11月25日時点の公式発表）
 - 最寄り駅はポートライナー 市民広場駅（西出口から徒歩約3分）
 - 会場の近くのほかの推しの聖地
 events:
@@ -80,7 +80,7 @@ thumbnail: /assets/img/posts/momoclo-kobe-world-kinen-hall-2027-04/thumb.webp
 {% include live-list.html group="momoclo" title="ももいろクローバーZのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>ももいろクローバーZ</strong>『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』の<strong>ワールド記念ホール</strong>公演は、<strong>2027年4月24日（土）・25日（日）</strong>です（<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、ワールド記念ホールへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ももいろクローバーZのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>ももいろクローバーZ</strong>『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』の<strong>ワールド記念ホール</strong>公演は、<strong>2027年4月24日（土）・25日（日）</strong>です（<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、ワールド記念ホールへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、ももいろクローバーZのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-04-24" data-e="2027-04-25"><b>公演日</b>2027年4月24日（土）・25日（日）</p>
 
@@ -111,15 +111,15 @@ thumbnail: /assets/img/posts/momoclo-kobe-world-kinen-hall-2027-04/thumb.webp
 
 <p class="note">1日目は「Chronostasis」、2日目は「Singularity」と内容が違います。終演予定は1日目が20:00、2日目が19:00です（公式の特設サイト）。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>ワールド記念ホール公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>ワールド記念ホール公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（1）</summary>
 <ol class="tk-list">

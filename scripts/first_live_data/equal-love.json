@@ -5,7 +5,7 @@
  "kana": "イコールラブ",
  "aka": "イコラブ",
  "color": "#f43f5e",
- "checked_at": "2026-11-23",
+ "checked_at": "2026-11-25",
  "title": "=LOVE（イコラブ）ライブ初参戦ガイド｜ペンライトの色・コール・定番曲・入場と本人確認・グッズ・ドーム公演",
  "description": "=LOVE（イコールラブ）のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。東京ドーム公演（2027年1月19日・20日）とバンテリンドーム ナゴヤ公演（2月24日・25日）の日程、顔写真付き電子チケットと本人確認書類、席の種類、ペンライトの決まり、撮影、コールと予習の動画、大手報道のセットリストから見た定番曲、グッズの買い方、会場の近くの宿まで。",
  "shows": [
@@ -145,7 +145,7 @@
   "note": "=LOVE公式の<a href=\"https://equal-love.jp/news/detail/12299\" target=\"_blank\" rel=\"noopener\">東京ドーム公演のお知らせ</a>と<a href=\"https://equal-love.jp/news/detail/4200\" target=\"_blank\" rel=\"noopener\">カメコタイムの案内</a>より。うちわの大きさの決まりと声出しの可否は、2026年11月23日時点の案内には書かれていません。公演前に出る注意事項も確かめてください。バンテリンドーム ナゴヤ公演の注意事項も同じ内容です（<a href=\"https://equal-love.jp/news/detail/12473\" target=\"_blank\" rel=\"noopener\">ナゴヤ公演のお知らせ</a>）。"
  },
  "penlight": {
-  "text": "公式ショップの「＝LOVE公式ペンライト2026」は全長約26cm・単4電池3本・<strong>全11色</strong>です（2026年11月8日時点では売り切れ）。もうひとつの公式ペンライト「＝LOVE Official Heart Stick 2025」の11色は、この順に切り替わります。",
+  "text": "公式ショップの「＝LOVE公式ペンライト2026」は全長約26cm・単4電池3本・<strong>全11色</strong>です（2026年11月8日時点では売り切れ）。もうひとつの公式ペンライト「＝LOVE Official Heart Stick 2025」の11色は、この順に切り替わります。 2026年11月21日に新しい「＝LOVE Official Fan Light」の発売が発表されました。無線で光る仕組みがありますが、<strong>東京ドーム・ナゴヤの公演では無線の演出は予定されていない</strong>と案内されていて、これまでのHeart Stickや公式ペンライトも使えます（<a href=\"https://equal-love.jp/news/detail/12481\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）。",
   "colors": [
    [
     "ロゴピンク",
@@ -336,11 +336,11 @@
  "goods": [
   [
    "東京ドーム公演",
-   "<strong>事前販売</strong>：池袋・サンシャインシティ 展示ホールAで2027年1月8日〜11日。<strong>事前予約制</strong>（30分ごとの入場枠。予約の受付は2026年11月24日まで、入場料はかからない）。<strong>事前配送</strong>：公式ショップで11月25日〜12月1日に注文すると1月8日ごろ届く。<strong>当日の会場販売</strong>も予定（詳しくは後日発表）。プレミアムチケットのグッズは当日、入口で受け取り（<a href=\"https://equal-love.jp/news/detail/12479\" target=\"_blank\" rel=\"noopener\">事前販売</a>・<a href=\"https://equal-love.jp/news/detail/12480\" target=\"_blank\" rel=\"noopener\">事前配送</a>のお知らせ）"
+   "<strong>事前販売</strong>：池袋・サンシャインシティ 展示ホールAで2027年1月8日〜11日（事前予約制。予約の受付は終わり、当選発表は12月1日15:00）。<strong>事前配送</strong>：公式ショップで11月25日18:30〜12月1日23:59に注文すると1月8日ごろ届く。<strong>当日の会場販売</strong>もあり（時間は後日発表）。プレミアムチケットのグッズは当日、入口で受け取り（引換券はなし）（<a href=\"https://equal-love.jp/news/detail/12479\" target=\"_blank\" rel=\"noopener\">事前販売</a>・<a href=\"https://equal-love.jp/news/detail/12480\" target=\"_blank\" rel=\"noopener\">事前配送</a>・<a href=\"https://equal-love.jp/news/detail/12497\" target=\"_blank\" rel=\"noopener\">プレミアムチケットのグッズ</a>のお知らせ）"
   ],
   [
    "バンテリンドーム ナゴヤ公演",
-   "グッズの売り方はまだ発表されていません（2026年11月23日時点）"
+   "グッズの売り方はまだ発表されていません（2026年11月25日時点）"
   ],
   [
    "参考：9周年コンサートでは",

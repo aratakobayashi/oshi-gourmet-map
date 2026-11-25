@@ -2,10 +2,10 @@
 layout: post
 title: BE:FIRST（ビーファースト） 京セラドーム大阪公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』の京セラドーム大阪公演（2027年1月16日（土）・17日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
+description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』の京セラドーム大阪公演（2027年1月16日（土）・17日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: befirst
 genre: ライブ
 article_type: live
@@ -40,18 +40,18 @@ sources:
 shop_ids: []
 faq:
 - q: BE:FIRSTの京セラドーム大阪公演はいつですか？
-  a: 2027年1月16日（土）・17日（日）です（BE:FIRST 5th Anniversary DOME TOUR 2027）。1月16日は開場15:00／開演17:00。1月17日は開場15:00／開演17:00。2026年11月23日時点の公式発表で、変わることがあります。最新はBE:FIRSTの公式サイトで確かめてください。
+  a: 2027年1月16日（土）・17日（日）です（BE:FIRST 5th Anniversary DOME TOUR 2027）。1月16日は開場15:00／開演17:00。1月17日は開場15:00／開演17:00。2026年11月25日時点の公式発表で、変わることがあります。最新はBE:FIRSTの公式サイトで確かめてください。
 - q: 京セラドーム大阪の最寄り駅はどこですか？
   a: 地下鉄 ドーム前千代崎駅です（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ。JR 大正駅からは徒歩約7分。
 - q: 京セラドーム大阪に持ち込めないものは？
   a: 会場のルールで、飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、ペット、危険物・クーラーボックスは持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、BE:FIRSTの公式の案内で確かめてください。
 - q: BE:FIRSTの京セラドーム大阪公演のチケットの受付は？
-  a: BESTY会員・B-Town〈Architect〉会員先行（追加公演）（10月27日〜11月3日）、B-Town〈Resident〉会員先行（追加公演）（11月7日〜11月12日）、CD封入先行（「BE:4U」のシリアル）（11月18日〜11月24日）、BESTY・B-Town会員 2次先行（11月25日〜11月30日）、アップグレード抽選（SS席）（12月3日〜12月10日）があります（2026年11月23日時点の公式発表）。一般発売・公式リセールは未発表（2026年11月23日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: BESTY会員・B-Town〈Architect〉会員先行（追加公演）（10月27日〜11月3日）、B-Town〈Resident〉会員先行（追加公演）（11月7日〜11月12日）、CD封入先行（「BE:4U」のシリアル）（11月18日〜11月24日）、BESTY・B-Town会員 2次先行（11月25日〜11月30日）、アップグレード抽選（SS席）（12月3日〜12月10日）があります（2026年11月25日時点の公式発表）。一般発売・公式リセールは未発表（2026年11月25日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、京セラドーム大阪から近い順に宿を載せています（楽天トラベル）。「京セラドーム大阪周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『BE:FIRST 5th Anniversary DOME TOUR 2027』の京セラドーム大阪公演は2027年1月16日（土）・17日（日）（2026年11月23日時点の公式発表）
+- 『BE:FIRST 5th Anniversary DOME TOUR 2027』の京セラドーム大阪公演は2027年1月16日（土）・17日（日）（2026年11月25日時点の公式発表）
 - 最寄り駅は地下鉄 ドーム前千代崎駅（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ
 - '会場のルールで持ち込めないもの: 飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -83,7 +83,7 @@ thumbnail: /assets/img/posts/befirst-kyocera-dome-osaka-2027-01/thumb.webp
 {% include live-list.html group="befirst" title="BE:FIRSTのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>BE:FIRST</strong>『BE:FIRST 5th Anniversary DOME TOUR 2027』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年1月16日（土）・17日（日）</strong>です（<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、BE:FIRSTのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>BE:FIRST</strong>『BE:FIRST 5th Anniversary DOME TOUR 2027』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年1月16日（土）・17日（日）</strong>です（<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、BE:FIRSTのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-01-16" data-e="2027-01-17"><b>公演日</b>2027年1月16日（土）・17日（日）</p>
 
@@ -114,22 +114,22 @@ thumbnail: /assets/img/posts/befirst-kyocera-dome-osaka-2027-01/thumb.webp
 
 <p class="note">京セラドーム大阪の2公演は、2026年10月24日に発表された追加公演です。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>京セラドーム大阪公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>京セラドーム大阪公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
-  <li class="tk is-open" data-s="2026-11-18T18:00" data-e="2026-11-24T23:59"><span class="tk__st">受付中</span><b class="tk__n">CD封入先行（「BE:4U」のシリアル）</b><span class="tk__p">11月18日（水）18:00〜11月24日（火）23:59</span><span class="tk__w">CD「BE:4U」に入っているシリアルを持っている人・大阪公演（1月16日・17日）だけ。シリアル1つで1公演1枚（抽選。当落は11月28日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/59/" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
-<details class="tk-done"><summary>終わった受付（2）</summary>
+<details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">
   <li class="tk is-done" data-s="2026-10-27T18:00" data-e="2026-11-03T23:59"><span class="tk__st">終了</span><b class="tk__n">BESTY会員・B-Town〈Architect〉会員先行（追加公演）</b><span class="tk__p">10月27日（火）18:00〜11月3日（火）23:59</span><span class="tk__w">ファンクラブ BESTY・B-Town〈Architect〉の会員・抽選（受付は11月3日まで延長）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/45/" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-done" data-s="2026-11-07T18:00" data-e="2026-11-12T23:59"><span class="tk__st">終了</span><b class="tk__n">B-Town〈Resident〉会員先行（追加公演）</b><span class="tk__p">11月7日（土）18:00〜11月12日（木）23:59</span><span class="tk__w">B-Town〈Resident〉の会員・抽選</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/54/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-11-18T18:00" data-e="2026-11-24T23:59"><span class="tk__st">終了</span><b class="tk__n">CD封入先行（「BE:4U」のシリアル）</b><span class="tk__p">11月18日（水）18:00〜11月24日（火）23:59</span><span class="tk__w">CD「BE:4U」に入っているシリアルを持っている人・大阪公演（1月16日・17日）だけ。シリアル1つで1公演1枚（抽選。当落は11月28日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/59/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 </details>
 <p class="note">1人1公演4枚まで。3歳以上はチケットが必要で、3歳未満は入れません。チケットはAnyPASSアプリの電子チケットです。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>

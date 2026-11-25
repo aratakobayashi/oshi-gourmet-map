@@ -2,7 +2,7 @@
 layout: post
 title: BE:FIRST（ビーファースト） 5th Anniversary DOME TOUR 2027まとめ｜東京ドーム・京セラドーム大阪・みずほPayPayドーム福岡・ベルーナドームの日程・時刻・セトリ・近くのホテル
 date: '2026-11-23'
-last_modified_at: '2026-11-23'
+last_modified_at: '2026-11-25'
 checked_at: '2026-11-23'
 checked_label: 公演の日程
 description: BE:FIRST 5th Anniversary DOME TOUR 2027（東京ドーム 2027年1月11日（月）・12日（火）、京セラドーム大阪 2027年1月16日（土）・17日（日）、みずほPayPayドーム福岡 2027年2月13日（土）・14日（日）、ベルーナドーム 2027年3月6日（土）・7日（日））の日程と会場、会場ごとの近い宿と近くのBE:FIRSTの聖地、公演のあとのセットリストをまとめました。日程は2026年11月23日時点の公式発表です。
@@ -152,8 +152,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
 
 <ol class="tk-list">
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">
@@ -167,15 +167,15 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
 <h3 class="fl-h3">京セラドーム大阪（2027年1月16日（土）・17日（日））</h3>
 
 <ol class="tk-list">
-  <li class="tk is-open" data-s="2026-11-18T18:00" data-e="2026-11-24T23:59"><span class="tk__st">受付中</span><b class="tk__n">CD封入先行（「BE:4U」のシリアル）</b><span class="tk__p">11月18日（水）18:00〜11月24日（火）23:59</span><span class="tk__w">CD「BE:4U」に入っているシリアルを持っている人・大阪公演（1月16日・17日）だけ。シリアル1つで1公演1枚（抽選。当落は11月28日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/59/" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
-<details class="tk-done"><summary>終わった受付（2）</summary>
+<details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">
   <li class="tk is-done" data-s="2026-10-27T18:00" data-e="2026-11-03T23:59"><span class="tk__st">終了</span><b class="tk__n">BESTY会員・B-Town〈Architect〉会員先行（追加公演）</b><span class="tk__p">10月27日（火）18:00〜11月3日（火）23:59</span><span class="tk__w">ファンクラブ BESTY・B-Town〈Architect〉の会員・抽選（受付は11月3日まで延長）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/45/" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-done" data-s="2026-11-07T18:00" data-e="2026-11-12T23:59"><span class="tk__st">終了</span><b class="tk__n">B-Town〈Resident〉会員先行（追加公演）</b><span class="tk__p">11月7日（土）18:00〜11月12日（木）23:59</span><span class="tk__w">B-Town〈Resident〉の会員・抽選</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/54/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-11-18T18:00" data-e="2026-11-24T23:59"><span class="tk__st">終了</span><b class="tk__n">CD封入先行（「BE:4U」のシリアル）</b><span class="tk__p">11月18日（水）18:00〜11月24日（火）23:59</span><span class="tk__w">CD「BE:4U」に入っているシリアルを持っている人・大阪公演（1月16日・17日）だけ。シリアル1つで1公演1枚（抽選。当落は11月28日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/59/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 </details>
 <p class="note">値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
@@ -184,8 +184,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
 
 <ol class="tk-list">
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">
@@ -200,8 +200,8 @@ thumbnail: /assets/img/posts/befirst-dome-tour-2027/thumb.webp
 
 <ol class="tk-list">
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">

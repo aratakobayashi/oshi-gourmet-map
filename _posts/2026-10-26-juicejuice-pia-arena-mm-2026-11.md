@@ -2,10 +2,10 @@
 layout: post
 title: Juice=Juice ぴあアリーナMM公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演（2026年11月25日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演（2026年11月25日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: juicejuice
 genre: ライブ
 article_type: live
@@ -34,14 +34,14 @@ sources:
 shop_ids: []
 faq:
 - q: Juice=JuiceのぴあアリーナMM公演はいつですか？
-  a: 2026年11月25日（水）です（Juice=Juice Room Tour 2026 「5ROOMS」）。11月25日は開場17:00／開演18:00（5ROOMS -ROYAL SUITE-）。2026年10月26日時点の公式発表で、変わることがあります。最新はJuice=Juiceの公式サイトで確かめてください。
+  a: 2026年11月25日（水）です（Juice=Juice Room Tour 2026 「5ROOMS」）。11月25日は開場17:00／開演18:00（5ROOMS -ROYAL SUITE-）。2026年11月25日時点の公式発表で、変わることがあります。最新はJuice=Juiceの公式サイトで確かめてください。
 - q: ぴあアリーナMMの最寄り駅はどこですか？
   a: みなとみらい線 みなとみらい駅です（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分。JR 桜木町駅からは東口（北改札）徒歩7分。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、ぴあアリーナMMから近い順に宿を載せています（楽天トラベル）。「ぴあアリーナMM周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演は2026年11月25日（水）（2026年10月26日時点の公式発表）
+- 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演は2026年11月25日（水）（2026年11月25日時点の公式発表）
 - 最寄り駅はみなとみらい線 みなとみらい駅（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分
 - 会場の近くのほかの推しの聖地
 events:
@@ -65,7 +65,7 @@ thumbnail: /assets/img/posts/juicejuice-pia-arena-mm-2026-11/thumb.webp
 {% include live-list.html group="juicejuice" title="Juice=Juiceのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>Juice=Juice</strong>『Juice=Juice Room Tour 2026 「5ROOMS」』の<strong>ぴあアリーナMM</strong>公演は、<strong>2026年11月25日（水）</strong>です（<a href="https://www.helloproject.com/event/ac7ec0bd437f3af1f9fcdc9c579f31312e9112fe13471d9fbae91c755990d6f2/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Juice=Juiceのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Juice=Juice</strong>『Juice=Juice Room Tour 2026 「5ROOMS」』の<strong>ぴあアリーナMM</strong>公演は、<strong>2026年11月25日（水）</strong>です（<a href="https://www.helloproject.com/event/ac7ec0bd437f3af1f9fcdc9c579f31312e9112fe13471d9fbae91c755990d6f2/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、ぴあアリーナMMへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Juice=Juiceのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-25" data-e="2026-11-25"><b>公演日</b>2026年11月25日（水）</p>
 
@@ -89,7 +89,7 @@ thumbnail: /assets/img/posts/juicejuice-pia-arena-mm-2026-11/thumb.webp
 
 <p>会場：<strong>ぴあアリーナMM</strong>（神奈川県）。公演名：Juice=Juice Room Tour 2026 「5ROOMS」。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.helloproject.com/event/ac7ec0bd437f3af1f9fcdc9c579f31312e9112fe13471d9fbae91c755990d6f2/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.helloproject.com/event/ac7ec0bd437f3af1f9fcdc9c579f31312e9112fe13471d9fbae91c755990d6f2/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -134,7 +134,7 @@ thumbnail: /assets/img/posts/juicejuice-pia-arena-mm-2026-11/thumb.webp
 
 <h2 id="seichi">会場の近くのJuice=Juiceの聖地</h2>
 
-<p>2026年10月時点で、神奈川県にJuice=Juiceのメンバーが行ったお店は登録されていません。</p>
+<p>2026年11月時点で、神奈川県にJuice=Juiceのメンバーが行ったお店は登録されていません。</p>
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 

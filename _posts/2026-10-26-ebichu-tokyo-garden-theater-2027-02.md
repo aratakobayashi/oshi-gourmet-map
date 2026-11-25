@@ -2,10 +2,10 @@
 layout: post
 title: 私立恵比寿中学（エビ中） 東京ガーデンシアター公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演（2027年2月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒をまとめました。日程は2026年11月25日時点の公式発表です。
 group: ebichu
 genre: ライブ
 article_type: live
@@ -29,6 +29,10 @@ sources:
   url: https://news.joysound.com/article/684443
 - label: 日刊エンタメクリップ（FAMIEN ライブレポ）
   url: https://entameclip.com/news/485343/
+- label: 私立恵比寿中学 公式（大学芸会2027 This is GR8 特設サイト：開場・開演）
+  url: https://www.shiritsuebichu.jp/this-is-gr8/
+- label: 私立恵比寿中学 公式（中山莉子についてのお知らせ）
+  url: https://www.shiritsuebichu.jp/news/16283/
 - label: 東京ガーデンシアター公式サイト
   url: https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/
 - label: 交通アクセス
@@ -40,7 +44,7 @@ shop_ids:
 - ebichu-4ae7a0a2-20200628
 faq:
 - q: 私立恵比寿中学の東京ガーデンシアター公演はいつですか？
-  a: 2027年2月6日（土）・7日（日）です（大学芸会2027 This is GR8）。2026年10月26日時点の公式発表で、変わることがあります。最新は私立恵比寿中学の公式サイトで確かめてください。
+  a: 2027年2月6日（土）・7日（日）です（大学芸会2027 This is GR8）。2月6日は開場17:00／開演18:00。2月7日は開場15:00／開演16:00。2026年11月25日時点の公式発表で、変わることがあります。最新は私立恵比寿中学の公式サイトで確かめてください。
 - q: 東京ガーデンシアターの最寄り駅はどこですか？
   a: ゆりかもめ 有明駅です（2B出口・徒歩4分）。ゆりかもめ 有明テニスの森駅からは2A出口・徒歩5分。りんかい線 国際展示場駅からはA出口・徒歩7分。
 - q: 東京ガーデンシアターの近くに私立恵比寿中学の聖地はありますか？
@@ -49,20 +53,20 @@ faq:
   a: この記事の「会場から近い宿」に、東京ガーデンシアターから近い順に宿を載せています（楽天トラベル）。「東京ガーデンシアター周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演は2027年2月6日（土）・7日（日）（2026年10月26日時点の公式発表）
+- 私立恵比寿中学『大学芸会2027 This is GR8』の東京ガーデンシアター公演は2027年2月6日（土）・7日（日）（2026年11月25日時点の公式発表）
 - 最寄り駅はゆりかもめ 有明駅（2B出口・徒歩4分）。ゆりかもめ 有明テニスの森駅からは2A出口・徒歩5分
 - 会場から10km以内に私立恵比寿中学のメンバーが行ったお店が2軒。会場からの近さ順に載せています
 events:
 - name: 大学芸会2027 This is GR8
   date: '2027-02-06'
-  start: ''
-  door: ''
+  start: '18:00'
+  door: '17:00'
   venue_key: tokyo-garden-theater
   url: https://www.shiritsuebichu.jp/
 - name: 大学芸会2027 This is GR8
   date: '2027-02-07'
-  start: ''
-  door: ''
+  start: '16:00'
+  door: '15:00'
   venue_key: tokyo-garden-theater
   url: https://www.shiritsuebichu.jp/
 thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
@@ -79,7 +83,7 @@ thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
 {% include live-list.html group="ebichu" title="私立恵比寿中学のこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>私立恵比寿中学</strong>『大学芸会2027 This is GR8』の<strong>東京ガーデンシアター</strong>公演は、<strong>2027年2月6日（土）・7日（日）</strong>です（<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、東京ガーデンシアターへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、私立恵比寿中学のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>私立恵比寿中学</strong>『大学芸会2027 This is GR8』の<strong>東京ガーデンシアター</strong>公演は、<strong>2027年2月6日（土）・7日（日）</strong>です（<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、東京ガーデンシアターへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、私立恵比寿中学のメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-06" data-e="2027-02-07"><b>公演日</b>2027年2月6日（土）・7日（日）</p>
 
@@ -98,15 +102,15 @@ thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
-  <li><b>2027年2月6日（土）</b></li>
-  <li><b>2027年2月7日（日）</b></li>
+  <li><b>2027年2月6日（土）</b><span>開場17:00／開演18:00</span></li>
+  <li><b>2027年2月7日（日）</b><span>開場15:00／開演16:00</span></li>
 </ul>
 
 <p>会場：<strong>東京ガーデンシアター</strong>（東京都）。公演名：大学芸会2027 This is GR8。</p>
 
-<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
+<p class="note">私立恵比寿中学の公式サイトで、中山莉子は当面の間活動を休止し、この公演には出演しないと発表されています（2026年11月25日時点）。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.shiritsuebichu.jp/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -168,7 +172,7 @@ thumbnail: /assets/img/posts/ebichu-tokyo-garden-theater-2027-02/thumb.webp
 
 <h2 id="stay">泊まる</h2>
 
-<p>終演後は最寄り駅が混み合います。公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
+<p>終演後は最寄り駅が混み合います。夜の公演のあとに遠くまで移動しなくていいように、会場の近くや乗り換えの少ない駅の近くの宿を早めに探しておくと安心です。</p>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ガーデンシアター周辺に泊まる<small class="stay-in__pr">PR</small></p>

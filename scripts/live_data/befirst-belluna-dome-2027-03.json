@@ -3,7 +3,7 @@
  "group": "befirst",
  "tour": "BE:FIRST 5th Anniversary DOME TOUR 2027",
  "official_url": "https://befirst.tokyo/tour/dometour2027/",
- "checked_at": "2026-11-23",
+ "checked_at": "2026-11-25",
  "sources": [
   {
    "label": "BE:FIRST公式（5th Anniversary DOME TOUR 2027：日程・時刻・席の種類・受付・注意事項）",
@@ -68,8 +68,8 @@
    "start": "2026-12-03T18:00",
    "end": "2026-12-10T23:59",
    "who": "BESTY・B-Town先行で一般指定席に当選・入金した人",
-   "what": "SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）",
-   "url": "https://befirst.tokyo/tour/dometour2027/"
+   "what": "SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）",
+   "url": "https://befirst.tokyo/tour/dometour2027/news/63/"
   },
   {
    "name": "一般発売・公式リセール",
@@ -77,7 +77,7 @@
    "end": "",
    "who": "",
    "url": "https://befirst.tokyo/tour/dometour2027/",
-   "note": "未発表（2026年11月23日時点）"
+   "note": "未発表（2026年11月25日時点）"
   }
  ],
  "tickets_note": "1人1公演4枚まで。3歳以上はチケットが必要で、3歳未満は入れません。チケットはAnyPASSアプリの電子チケットです。"
