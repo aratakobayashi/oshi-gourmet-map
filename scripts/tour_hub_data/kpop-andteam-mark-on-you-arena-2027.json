@@ -1,0 +1,69 @@
+{
+ "slug": "kpop-andteam-mark-on-you-arena-2027",
+ "group": "kpop_andteam",
+ "series": "Mark on You",
+ "series_long": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+ "title_core": "ツアー'Mark on You' アリーナ公演2027（横浜・福岡）",
+ "lives": [
+  "kpop-andteam-pia-arena-mm-2027-02",
+  "kpop-andteam-marine-messe-fukuoka-2027-03"
+ ],
+ "checked_at": "2026-11-25",
+ "first_live": "kpop-andteam-first-live",
+ "lead": "&TEAM（エンティーム）の『2026-2027 &TEAM CONCERT TOUR 'Mark on You'』は、2026年10月の東京ガーデンシアターから始まったホールツアーと、2027年2月からのアリーナ公演です（公式発表では18都市41公演、のちに北海道の12月26日を追加）。このページでは、会場ガイドのあるぴあアリーナMM（2月13日・14日）とマリンメッセ福岡 B館（3月20日〜22日）の日程と時刻、チケットの受付、近い宿と近くの聖地をまとめます",
+ "nagoya_note": "時刻はHYBE JAPANの公演ページより。アリーナ公演はほかに、GLION ARENA KOBE（2月3日・4日）・IG Arena（2月6日・7日）・あなぶきアリーナ香川（2月27日・28日）・セキスイハイム スーパーアリーナ（3月26日・27日）があります（公式の公演ページ）。",
+ "goods": [
+  [
+   "公式ライトスティック",
+   "このツアーは全体制御の演出で、公式ライトスティック（VER.1／VER.2）は電源を入れるだけで参加できます（ペアリング・座席の入力は不要）。会場にはサポートブースがあります",
+   "https://www.andteam-official.jp/news/914fd6075b24"
+  ],
+  [
+   "ツアーグッズ",
+   "オンラインの事前販売（9月）とポップアップストア（10月）は終了。ホール公演の会場販売はSMART ORDERの整理番号制。アリーナ公演の会場販売は「後日お知らせ」（2026年11月25日時点）",
+   "https://www.andteam-official.jp/news/914fd6075b24"
+  ]
+ ],
+ "setlists": [
+  {
+   "title": "ツアー初日（2026年10月15日 東京ガーデンシアター）のライブレポートに出てくる曲（一部）",
+   "parts": [
+    [
+     "報道に出てくる曲",
+     "Good Boy・러브장（Love Jang）・Accelerate（ツアー初披露）・Empty・Mark on Me・Night to howl! ほか（全26曲）。アンコールは For us（ライブ初披露）。全曲の順番は報道されていません"
+    ]
+   ],
+   "src": [
+    "THE FIRST TIMES（ツアー初日のライブレポート）",
+    "https://www.thefirsttimes.jp/report/0000900886/"
+   ]
+  }
+ ],
+ "setlist_pending": "全曲のセットリストは、大手報道のライブレポートに載ったときだけ、出典つき・ネタバレ注意の閉じた形で載せます。",
+ "sources": [
+  [
+   "HYBE JAPAN（Mark on You 公演ページ）",
+   "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
+  ],
+  [
+   "&TEAM公式（ツアーの開催発表）",
+   "https://www.andteam-official.jp/news/e672b7142d8c"
+  ],
+  [
+   "&TEAM公式（アリーナ公演の開催のお知らせ）",
+   "https://www.andteam-official.jp/news/dd0f71998bc8"
+  ],
+  [
+   "&TEAM公式（アリーナ公演 会員先行）",
+   "https://www.andteam-official.jp/news/a19339147e37"
+  ],
+  [
+   "&TEAM公式（会場販売・ライトスティック）",
+   "https://www.andteam-official.jp/news/914fd6075b24"
+  ],
+  [
+   "THE FIRST TIMES（ツアー初日のライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000900886/"
+  ]
+ ]
+}
