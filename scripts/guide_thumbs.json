@@ -385,5 +385,57 @@
   "logo_text": "MCZ",
   "logo_sub": "2027",
   "out": "assets/img/posts/momoclo-arena-tour-2027-vogue-and-romance/thumb"
+ },
+ "daice-first-live": {
+  "color": "#2563eb",
+  "group": "daice",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#60a5fa",
+   "#ffffff",
+   "#2563eb",
+   "#93c5fd"
+  ],
+  "label": "はじめてのライブ",
+  "title": "Da-iCE",
+  "sub": "ダイスのライブに\nはじめて行く人へ",
+  "chips": [
+   "初のドーム公演",
+   "AnyPASSの入場",
+   "席の種類",
+   "定番曲9曲"
+  ],
+  "logo_text": "Da-iCE",
+  "logo_sub": "FIRST LIVE"
+ },
+ "daice-dome-phase-2027": {
+  "color": "#2563eb",
+  "group": "daice",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#60a5fa",
+   "#ffffff",
+   "#2563eb",
+   "#93c5fd"
+  ],
+  "label": "ドーム公演まとめ",
+  "title": "Da-iCE",
+  "sub": "DAY DOME PHASE 2027\n初の単独ドーム公演",
+  "chips": [
+   "東京ドーム 2.4",
+   "京セラ 2.13・14",
+   "近くの宿"
+  ],
+  "logo_text": "DOME",
+  "logo_sub": "PHASE",
+  "out": "assets/img/posts/daice-dome-phase-2027/thumb"
  }
 }

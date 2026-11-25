@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Da-iCE 東京ガーデンシアター公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: Da-iCE（ダイス） 東京ガーデンシアター公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-25'
 checked_at: '2026-10-26'
@@ -16,6 +16,7 @@ live_dates:
 live_end: '2026-11-18'
 tags:
 - Da-iCE
+- ダイス
 - Da-iCE DAY HALL PHASE 2026
 - 東京ガーデンシアター
 - ライブ
@@ -87,6 +88,8 @@ thumbnail: /assets/img/posts/daice-tokyo-garden-theater-2026-11/thumb.webp
 </div>
 
 {% include venue-hotels.html key="tokyo-garden-theater" limit=3 top=true %}{% include hotels-link.html key="tokyo-garden-theater" %}
+
+<p class="first-live">はじめてDa-iCEのライブに行くなら：<a href="/guide/daice-first-live/">ダイスのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
 
 <h2 id="date">公演の日程</h2>
 
@@ -173,6 +176,7 @@ thumbnail: /assets/img/posts/daice-tokyo-garden-theater-2026-11/thumb.webp
 
 <ul>
   <li><a href="/guide/tokyo-garden-theater/">東京ガーデンシアター ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="/guide/daice-first-live/">ダイスのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
   <li><a href="{{ site.data.group_ix.daice.u }}">Da-iCEのお店一覧</a>（グループのページ）</li>
 </ul>
 

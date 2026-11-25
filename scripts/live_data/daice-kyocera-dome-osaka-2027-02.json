@@ -6,8 +6,16 @@
  "checked_at": "2026-11-25",
  "sources": [
   {
-   "label": "Da-iCE公式（LIVE / TOUR）",
+   "label": "Da-iCE公式（DAY DOME PHASE 2027：日程・時刻・席・チケット）",
    "url": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  },
+  {
+   "label": "Da-iCE公式（ドーム公演の開催のお知らせ）",
+   "url": "https://da-ice.jp/news/detail.php?id=1133028"
+  },
+  {
+   "label": "Da-iCE公式ファンクラブ a-i（最速先行）",
+   "url": "https://da-ice-ai.jp/contents/1068174"
   }
  ],
  "venue_key": "kyocera-dome-osaka",
@@ -20,5 +28,41 @@
  "times": {
   "2027-02-13": "開場15:00／開演17:00",
   "2027-02-14": "開場13:00／開演15:00"
- }
+ },
+ "tickets": [
+  {
+   "name": "ファンクラブ a-i 最速先行（抽選）",
+   "start": "2026-04-26T19:00",
+   "end": "2026-05-19T23:59",
+   "who": "ファンクラブ「a-i」の会員（同行者は会員でなくてよい）",
+   "what": "一般指定席・U-18指定席・着席指定席（3days指定席は5月7日まで）。1回6枚まで",
+   "url": "https://da-ice-ai.jp/contents/1068174"
+  },
+  {
+   "name": "Da-iCE CUBE先行・オフィシャル先行（抽選）",
+   "start": "2026-05-20T15:00",
+   "end": "2026-06-01T23:59",
+   "who": "Da-iCE CUBE会員／どなたでも（オフィシャル先行）",
+   "what": "1回6枚まで",
+   "url": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  },
+  {
+   "name": "プレイガイド先行（抽選）",
+   "start": "2026-06-26T15:00",
+   "end": "2026-07-09T23:59",
+   "who": "どなたでも",
+   "what": "このあと2次・3次先行、先着先行も",
+   "url": "https://eplus.jp/daice27/"
+  },
+  {
+   "name": "プレイガイド先着受付（大阪）",
+   "start": "2026-10-31T12:00",
+   "end": "",
+   "who": "どなたでも",
+   "what": "mu-mo TICKET・ローソンチケット・チケットぴあ・イープラス・LINEチケット",
+   "note": "予定枚数に達し次第終了。終わりの時刻はプレイガイドごとに違う（イープラスは2027年1月4日23:59まで）",
+   "url": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  }
+ ],
+ "tickets_note": "チケットはAnyPASSアプリの電子チケットです。3歳以上はチケットが必要（3歳未満は膝の上なら不要）。U-18指定席は入口で年齢の確認があるので、身分証明書を持っていきます。"
 }

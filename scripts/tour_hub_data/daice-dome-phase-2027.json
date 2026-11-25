@@ -1,0 +1,56 @@
+{
+ "slug": "daice-dome-phase-2027",
+ "group": "daice",
+ "series": "DAY DOME PHASE 2027",
+ "series_long": "Da-iCE DAY DOME PHASE 2027",
+ "title_core": "初のドーム公演2027「DAY DOME PHASE」",
+ "lives": [
+  "daice-tokyo-dome-2027-02",
+  "daice-kyocera-dome-osaka-2027-02"
+ ],
+ "checked_at": "2026-11-25",
+ "first_live": "daice-first-live",
+ "lead": "Da-iCE（ダイス）の『Da-iCE DAY DOME PHASE 2027』は、グループ初の単独ドーム公演です（公式発表）。2027年2月4日の東京ドームと、2月13日・14日の京セラドーム大阪の2会場・3公演。2026年4月26日のアリーナツアー「TERMiNaL」のファイナルで発表されました。日程と時刻、チケットの受付、会場ごとの近い宿と近くの聖地をこのページにまとめます",
+ "nagoya_note": "時刻はDa-iCE公式のスケジュールより。京セラドーム大阪の2月14日は昼の公演（開場13:00・開演15:00）です。",
+ "goods": [
+  [
+   "ドーム公演のグッズ",
+   "2026年11月25日時点では発表されていません。ホールツアー「DAY HALL PHASE 2026」では、会場のブース（オフィシャルショップ・ポップアップストア・ファンクラブ）と通販がありました",
+   "https://da-ice.jp/news/detail.php?id=1136539"
+  ],
+  [
+   "ファンクラブの宿泊プラン",
+   "ファンクラブ「a-i」会員向けの宿泊プラン「ロクメン STaY PLaN」の2次抽選が2026年11月17日12:00〜11月30日23:59（当落と入金は12月8日15:00〜14日23:59）",
+   "https://da-ice-ai.jp/contents/1128473"
+  ],
+  [
+   "託児サービス",
+   "チケットを持っている人向けに、1〜8歳の子どもの託児（JOYKU・抽選）があります",
+   "https://da-ice.jp/news/detail.php?id=1137279"
+  ]
+ ],
+ "setlists": [],
+ "setlist_pending": "セットリストは公演のあと、大手報道のライブレポートに載ったものだけを、出典つき・ネタバレ注意の閉じた形で載せます。",
+ "sources": [
+  [
+   "Da-iCE公式（DAY DOME PHASE 2027）",
+   "https://da-ice.jp/schedule/tour.php?id=1003011"
+  ],
+  [
+   "Da-iCE公式（開催のお知らせ）",
+   "https://da-ice.jp/news/detail.php?id=1133028"
+  ],
+  [
+   "Da-iCE公式ファンクラブ a-i（最速先行）",
+   "https://da-ice-ai.jp/contents/1068174"
+  ],
+  [
+   "THE FIRST TIMES（TERMiNaL ファイナルのライブレポート：ドーム公演の発表）",
+   "https://www.thefirsttimes.jp/report/0000802070/"
+  ],
+  [
+   "Da-iCE公式ファンクラブ a-i（ロクメン STaY PLaN）",
+   "https://da-ice-ai.jp/contents/1128473"
+  ]
+ ]
+}
