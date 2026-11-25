@@ -2,10 +2,10 @@
 layout: post
 title: Da-iCE 京セラドーム大阪公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『Da-iCE DAY DOME PHASE 2027』の京セラドーム大阪公演（2027年2月13日（土）・14日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『Da-iCE DAY DOME PHASE 2027』の京セラドーム大阪公演（2027年2月13日（土）・14日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: daice
 genre: ライブ
 article_type: live
@@ -35,7 +35,7 @@ sources:
 shop_ids: []
 faq:
 - q: Da-iCEの京セラドーム大阪公演はいつですか？
-  a: 2027年2月13日（土）・14日（日）です（Da-iCE DAY DOME PHASE 2027）。2月13日は開場15:00／開演17:00。2月14日は開場13:00／開演15:00。2026年10月26日時点の公式発表で、変わることがあります。最新はDa-iCEの公式サイトで確かめてください。
+  a: 2027年2月13日（土）・14日（日）です（Da-iCE DAY DOME PHASE 2027）。2月13日は開場15:00／開演17:00。2月14日は開場13:00／開演15:00。2026年11月25日時点の公式発表で、変わることがあります。最新はDa-iCEの公式サイトで確かめてください。
 - q: 京セラドーム大阪の最寄り駅はどこですか？
   a: 地下鉄 ドーム前千代崎駅です（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ。JR 大正駅からは徒歩約7分。
 - q: 京セラドーム大阪に持ち込めないものは？
@@ -44,7 +44,7 @@ faq:
   a: この記事の「会場から近い宿」に、京セラドーム大阪から近い順に宿を載せています（楽天トラベル）。「京セラドーム大阪周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Da-iCE DAY DOME PHASE 2027』の京セラドーム大阪公演は2027年2月13日（土）・14日（日）（2026年10月26日時点の公式発表）
+- 『Da-iCE DAY DOME PHASE 2027』の京セラドーム大阪公演は2027年2月13日（土）・14日（日）（2026年11月25日時点の公式発表）
 - 最寄り駅は地下鉄 ドーム前千代崎駅（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ
 - '会場のルールで持ち込めないもの: 飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -75,7 +75,7 @@ thumbnail: /assets/img/posts/daice-kyocera-dome-osaka-2027-02/thumb.webp
 {% include live-list.html group="daice" title="Da-iCEのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>Da-iCE</strong>『Da-iCE DAY DOME PHASE 2027』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年2月13日（土）・14日（日）</strong>です（<a href="https://da-ice.jp/schedule/tour.php?id=1003011" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Da-iCEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Da-iCE</strong>『Da-iCE DAY DOME PHASE 2027』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年2月13日（土）・14日（日）</strong>です（<a href="https://da-ice.jp/schedule/tour.php?id=1003011" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Da-iCEのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-02-13" data-e="2027-02-14"><b>公演日</b>2027年2月13日（土）・14日（日）</p>
 
@@ -100,7 +100,7 @@ thumbnail: /assets/img/posts/daice-kyocera-dome-osaka-2027-02/thumb.webp
 
 <p>会場：<strong>京セラドーム大阪</strong>（大阪府）。公演名：Da-iCE DAY DOME PHASE 2027。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://da-ice.jp/schedule/tour.php?id=1003011" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://da-ice.jp/schedule/tour.php?id=1003011" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -148,7 +148,7 @@ thumbnail: /assets/img/posts/daice-kyocera-dome-osaka-2027-02/thumb.webp
 
 <h2 id="seichi">会場の近くのDa-iCEの聖地</h2>
 
-<p>2026年10月時点で、大阪府にDa-iCEのメンバーが行ったお店は登録されていません。</p>
+<p>2026年11月時点で、大阪府にDa-iCEのメンバーが行ったお店は登録されていません。</p>
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 

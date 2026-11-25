@@ -2,10 +2,10 @@
 layout: post
 title: NiziU 北海きたえーる公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演（2026年11月28日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演（2026年11月28日（土））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: niziu
 genre: ライブ
 article_type: live
@@ -34,14 +34,14 @@ sources:
 shop_ids: []
 faq:
 - q: NiziUの北海きたえーる公演はいつですか？
-  a: 2026年11月28日（土）です（NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”）。2026年10月26日時点の公式発表で、変わることがあります。最新はNiziUの公式サイトで確かめてください。
+  a: 2026年11月28日（土）です（NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”）。2026年11月25日時点の公式発表で、変わることがあります。最新はNiziUの公式サイトで確かめてください。
 - q: 北海きたえーるの最寄り駅はどこですか？
   a: 地下鉄東豊線 豊平公園駅です（地下連絡通路で約5分）。バス停 豊平三条十丁目からは徒歩約5分。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、北海きたえーるから近い順に宿を載せています（楽天トラベル）。「北海きたえーる周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演は2026年11月28日（土）（2026年10月26日時点の公式発表）
+- 『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の北海きたえーる公演は2026年11月28日（土）（2026年11月25日時点の公式発表）
 - 最寄り駅は地下鉄東豊線 豊平公園駅（地下連絡通路で約5分）。バス停 豊平三条十丁目からは徒歩約5分
 - 会場の近くのほかの推しの聖地
 events:
@@ -65,7 +65,7 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
 {% include live-list.html group="niziu" title="NiziUのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>NiziU</strong>『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の<strong>北海きたえーる</strong>公演は、<strong>2026年11月28日（土）</strong>です（<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、北海きたえーるへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、NiziUのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>NiziU</strong>『NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”』の<strong>北海きたえーる</strong>公演は、<strong>2026年11月28日（土）</strong>です（<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、北海きたえーるへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、NiziUのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-11-28" data-e="2026-11-28"><b>公演日</b>2026年11月28日（土）</p>
 
@@ -89,9 +89,9 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
 
 <p>会場：<strong>北海きたえーる</strong>（北海道）。公演名：NiziU Live with U 2026-2027 “Who? U! NiziU Fes.”。</p>
 
-<p class="note">開場・開演の時刻は、2026年10月26日時点ではまだ発表されていません。</p>
+<p class="note">開場・開演の時刻は、2026年11月25日時点ではまだ発表されていません。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://niziu.com/s/n123/page/livewithu2026_2027" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -133,7 +133,7 @@ thumbnail: /assets/img/posts/niziu-hokkai-kitaeru-2026-11/thumb.webp
 
 <h2 id="seichi">会場の近くのNiziUの聖地</h2>
 
-<p>2026年10月時点で、北海道にNiziUのメンバーが行ったお店は登録されていません。</p>
+<p>2026年11月時点で、北海道にNiziUのメンバーが行ったお店は登録されていません。</p>
 
 <p>会場の近くにある、ほかの推しの聖地も。</p>
 

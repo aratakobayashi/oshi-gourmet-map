@@ -2,10 +2,10 @@
 layout: post
 title: Number_i（ナンバーアイ） 東京ドーム公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『Number_i LIVE TOUR No.Ⅲ』の東京ドーム公演（2026年12月9日（水）・10日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にNumber_iのメンバーが行ったお店が5軒をまとめました。日程は2026年11月23日時点の公式発表です。
+description: 『Number_i LIVE TOUR No.Ⅲ』の東京ドーム公演（2026年12月9日（水）・10日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にNumber_iのメンバーが行ったお店が5軒をまとめました。日程は2026年11月25日時点の公式発表です。
 group: numberi
 genre: ライブ
 article_type: live
@@ -51,7 +51,7 @@ shop_ids:
 - numberi-teddy_s_bigger_burge-
 faq:
 - q: Number_iの東京ドーム公演はいつですか？
-  a: 2026年12月9日（水）・10日（木）です（Number_i LIVE TOUR No.Ⅲ）。12月9日は開場16:30／開演18:30。12月10日は開場16:30／開演18:30。2026年11月23日時点の公式発表で、変わることがあります。最新はNumber_iの公式サイトで確かめてください。
+  a: 2026年12月9日（水）・10日（木）です（Number_i LIVE TOUR No.Ⅲ）。12月9日は開場16:30／開演18:30。12月10日は開場16:30／開演18:30。2026年11月25日時点の公式発表で、変わることがあります。最新はNumber_iの公式サイトで確かめてください。
 - q: 東京ドームの最寄り駅はどこですか？
   a: JR 水道橋駅です（西口（東口もあり））。都営三田線 水道橋駅からはA2出口。東京メトロ 後楽園駅からは2番出口。
 - q: 東京ドームに持ち込めないものは？
@@ -59,12 +59,12 @@ faq:
 - q: 東京ドームの近くにNumber_iの聖地はありますか？
   a: 会場から10km以内に5軒あります。オステリア セルヴァジーナ（約3.4km）、蜂の家 銀座本店（約3.9km）、LESOLCA（約3.9km）などです。距離は直線距離です。
 - q: Number_iの東京ドーム公演のチケットの受付は？
-  a: ファンクラブ受付（8月10日〜8月16日）、ファンクラブ追加受付（VIP GOLD席）（9月30日〜10月1日）、一般発売（11月19日〜。予定枚数に達し次第終了）があります（2026年11月23日時点の公式発表）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: ファンクラブ受付（8月10日〜8月16日）、ファンクラブ追加受付（VIP GOLD席）（9月30日〜10月1日）、一般発売（11月19日〜。予定枚数に達し次第終了）があります（2026年11月25日時点の公式発表）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、東京ドームから近い順に宿を載せています（楽天トラベル）。「東京ドーム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Number_i LIVE TOUR No.Ⅲ』の東京ドーム公演は2026年12月9日（水）・10日（木）（2026年11月23日時点の公式発表）
+- 『Number_i LIVE TOUR No.Ⅲ』の東京ドーム公演は2026年12月9日（水）・10日（木）（2026年11月25日時点の公式発表）
 - 最寄り駅はJR 水道橋駅（西口（東口もあり））。都営三田線 水道橋駅からはA2出口
 - '会場のルールで持ち込めないもの: 凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶、アルコール類（公演ごとの案内も確かめる）'
 - 会場から10km以内にNumber_iのメンバーが行ったお店が5軒。会場からの近さ順に載せています
@@ -96,7 +96,7 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
 {% include live-list.html group="numberi" title="Number_iのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>Number_i</strong>『Number_i LIVE TOUR No.Ⅲ』の<strong>東京ドーム</strong>公演は、<strong>2026年12月9日（水）・10日（木）</strong>です（<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Number_iのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Number_i</strong>『Number_i LIVE TOUR No.Ⅲ』の<strong>東京ドーム</strong>公演は、<strong>2026年12月9日（水）・10日（木）</strong>です（<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、東京ドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Number_iのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-09" data-e="2026-12-10"><b>公演日</b>2026年12月9日（水）・10日（木）</p>
 
@@ -127,11 +127,11 @@ thumbnail: /assets/img/posts/numberi-tokyo-dome-2026-12/thumb.webp
 
 <p class="note">開演の時刻はTOBE公式、開場の時刻はモデルプレスの報道（2026年10月26日）によります。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://tobe-official.jp/artists/number_i/concert/364" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>東京ドーム公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>東京ドーム公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-19T12:00" data-e=""><span class="tk__st">発売中</span><b class="tk__n">一般発売</b><span class="tk__p">11月19日（木）12:00〜（予定枚数に達し次第終了）</span><span class="tk__w">どなたでも・先着順（Live Nation）</span><a class="tk__go" href="https://tobe-official.jp/artists/number_i/news/2517" target="_blank" rel="noopener">公式のお知らせ</a></li>

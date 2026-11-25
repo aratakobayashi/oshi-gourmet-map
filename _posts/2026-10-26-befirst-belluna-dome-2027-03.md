@@ -2,10 +2,10 @@
 layout: post
 title: BE:FIRST（ビーファースト） ベルーナドーム公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』のベルーナドーム公演（2027年3月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月23日時点の公式発表です。
+description: 『BE:FIRST 5th Anniversary DOME TOUR 2027』のベルーナドーム公演（2027年3月6日（土）・7日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
 group: befirst
 genre: ライブ
 article_type: live
@@ -40,18 +40,18 @@ sources:
 shop_ids: []
 faq:
 - q: BE:FIRSTのベルーナドーム公演はいつですか？
-  a: 2027年3月6日（土）・7日（日）です（BE:FIRST 5th Anniversary DOME TOUR 2027）。3月6日は開場14:30／開演17:00。3月7日は開場14:30／開演17:00。2026年11月23日時点の公式発表で、変わることがあります。最新はBE:FIRSTの公式サイトで確かめてください。
+  a: 2027年3月6日（土）・7日（日）です（BE:FIRST 5th Anniversary DOME TOUR 2027）。3月6日は開場14:30／開演17:00。3月7日は開場14:30／開演17:00。2026年11月25日時点の公式発表で、変わることがあります。最新はBE:FIRSTの公式サイトで確かめてください。
 - q: ベルーナドームの最寄り駅はどこですか？
   a: 西武 西武球場前駅です（メインゲート近く）。
 - q: ベルーナドームに持ち込めないものは？
   a: 会場のルールで、ビン・缶、アルコール飲料（主催者販売を除く）、クーラーボックス、ペット（補助犬をのぞく）、危険物・大きすぎる荷物は持ち込めません。うちわ・ペンライト・双眼鏡などの扱いは公演ごとに主催者が決めるので、BE:FIRSTの公式の案内で確かめてください。
 - q: BE:FIRSTのベルーナドーム公演のチケットの受付は？
-  a: BESTY会員・B-Town〈Architect〉会員先行（5月22日〜5月31日）、B-Town〈Resident〉会員先行（6月6日〜6月11日）、ローソンチケット先行（Lencore・プレリクエスト）（6月24日〜7月5日）、BESTY・B-Town会員 2次先行（11月25日〜11月30日）、アップグレード抽選（SS席）（12月3日〜12月10日）があります（2026年11月23日時点の公式発表）。一般発売・公式リセールは未発表（2026年11月23日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
+  a: BESTY会員・B-Town〈Architect〉会員先行（5月22日〜5月31日）、B-Town〈Resident〉会員先行（6月6日〜6月11日）、ローソンチケット先行（Lencore・プレリクエスト）（6月24日〜7月5日）、BESTY・B-Town会員 2次先行（11月25日〜11月30日）、アップグレード抽選（SS席）（12月3日〜12月10日）があります（2026年11月25日時点の公式発表）。一般発売・公式リセールは未発表（2026年11月25日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、ベルーナドームから近い順に宿を載せています（楽天トラベル）。「ベルーナドーム周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『BE:FIRST 5th Anniversary DOME TOUR 2027』のベルーナドーム公演は2027年3月6日（土）・7日（日）（2026年11月23日時点の公式発表）
+- 『BE:FIRST 5th Anniversary DOME TOUR 2027』のベルーナドーム公演は2027年3月6日（土）・7日（日）（2026年11月25日時点の公式発表）
 - 最寄り駅は西武 西武球場前駅（メインゲート近く）
 - '会場のルールで持ち込めないもの: ビン・缶、アルコール飲料（主催者販売を除く）、クーラーボックス、ペット（補助犬をのぞく）（公演ごとの案内も確かめる）'
 - 会場の近くのほかの推しの聖地
@@ -83,7 +83,7 @@ thumbnail: /assets/img/posts/befirst-belluna-dome-2027-03/thumb.webp
 {% include live-list.html group="befirst" title="BE:FIRSTのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>BE:FIRST</strong>『BE:FIRST 5th Anniversary DOME TOUR 2027』の<strong>ベルーナドーム</strong>公演は、<strong>2027年3月6日（土）・7日（日）</strong>です（<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月23日時点）。この記事では、ベルーナドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、BE:FIRSTのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>BE:FIRST</strong>『BE:FIRST 5th Anniversary DOME TOUR 2027』の<strong>ベルーナドーム</strong>公演は、<strong>2027年3月6日（土）・7日（日）</strong>です（<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、ベルーナドームへの行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、BE:FIRSTのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-03-06" data-e="2027-03-07"><b>公演日</b>2027年3月6日（土）・7日（日）</p>
 
@@ -112,16 +112,16 @@ thumbnail: /assets/img/posts/befirst-belluna-dome-2027-03/thumb.webp
 
 <p>会場：<strong>ベルーナドーム</strong>（埼玉県）。公演名：BE:FIRST 5th Anniversary DOME TOUR 2027。</p>
 
-<p class="note">日程・時刻は2026年11月23日時点の<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">チケットの受付</h2>
 
-<p>ベルーナドーム公演のチケットの受付です（2026年11月23日時点の公式発表）。</p>
+<p>ベルーナドーム公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
   <li class="tk is-soon" data-s="2026-11-25T18:00" data-e="2026-11-30T23:59"><span class="tk__st">これから</span><b class="tk__n">BESTY・B-Town会員 2次先行</b><span class="tk__p">11月25日（水）18:00〜11月30日（月）23:59</span><span class="tk__w">BESTY・B-Town〈Architect / Resident〉の会員・全公演（抽選。当落は12月8日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。当落は12月18日17:00から）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月23日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-soon" data-s="2026-12-03T18:00" data-e="2026-12-10T23:59"><span class="tk__st">これから</span><b class="tk__n">アップグレード抽選（SS席）</b><span class="tk__p">12月3日（木）18:00〜12月10日（木）23:59</span><span class="tk__w">BESTY・B-Town先行で一般指定席に当選・入金した人・SS席（特典つき・当日渡し。同行者もBESTYかB-Townの会員。即時決済のみ。当落は12月18日17:00から。SS席の一般販売はなし）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/news/63/" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売・公式リセール</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://befirst.tokyo/tour/dometour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <details class="tk-done"><summary>終わった受付（3）</summary>
 <ol class="tk-list">

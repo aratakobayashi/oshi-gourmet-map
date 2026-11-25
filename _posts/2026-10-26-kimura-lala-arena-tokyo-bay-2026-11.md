@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 木村拓哉 LaLa arena TOKYO-BAY公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
+title: 木村拓哉 LaLa arena TOKYO-BAY公演2026 セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
+last_modified_at: '2026-11-25'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演（2026年11月21日（土）・22日（日）・23日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、千葉県にある木村拓哉の聖地1軒をまとめました。日程は2026年10月26日時点の公式発表です。
@@ -80,7 +80,13 @@ thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
 
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
-<p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<details class="setl">
+  <summary>11月23日公演（ツアーファイナル）のセットリスト（ネタバレ注意）</summary>
+  <p><b>本編</b>：Head Shot／No Night, No Starlight／High on you／マリブドライブ／オリジナル スマイル／One Chance!／BLACK DENIM／What a dramatic life!／Long Saturday／新風に吹かれつつ／Talk／Crazy in love／セロリ／オレンジ／サンセットベンチ／世界に一つだけの花／Born ready／UNIQUE／SHAKE／光の中で</p>
+  <p><b>アンコール</b>：Take it easy／ここにいる／One and Only</p>
+  <p><b>ダブルアンコール</b>：夜空ノムコウ（ファイナルだけ）</p>
+  <p class="note">出典：<a href="https://www.oricon.co.jp/news/2494711/full/" target="_blank" rel="noopener">オリコン（2026年11月24日のライブレポート）</a></p>
+</details>
 {% include live-list.html group="kimura" title="木村拓哉のこれからの公演" %}
 </section>{% endif %}
 
@@ -88,7 +94,7 @@ thumbnail: /assets/img/posts/kimura-lala-arena-tokyo-bay-2026-11/thumb.webp
 
 <p class="live-cd" data-d="2026-11-21" data-e="2026-11-23"><b>公演日</b>2026年11月21日（土）・22日（日）・23日（月）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#after">セトリ</a><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> LaLa arena TOKYO-BAY周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>

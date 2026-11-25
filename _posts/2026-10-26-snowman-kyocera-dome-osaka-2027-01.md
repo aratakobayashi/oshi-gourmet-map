@@ -2,10 +2,10 @@
 layout: post
 title: Snow Man 京セラドーム大阪公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-23'
-checked_at: '2026-10-26'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
-description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の京セラドーム大阪公演（2027年1月4日（月）・5日（火）・6日（水）・7日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSnow Manのメンバーが行ったお店が1軒をまとめました。日程は2026年10月26日時点の公式発表です。
+description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の京セラドーム大阪公演（2027年1月4日（月）・5日（火）・6日（水）・7日（木））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSnow Manのメンバーが行ったお店が1軒をまとめました。日程は2026年11月25日時点の公式発表です。
 group: snowman
 genre: ライブ
 article_type: live
@@ -38,7 +38,7 @@ shop_ids:
 - snowman-69eda10a-20260116
 faq:
 - q: Snow Manの京セラドーム大阪公演はいつですか？
-  a: 2027年1月4日（月）・5日（火）・6日（水）・7日（木）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。1月4日は開演17:00。1月5日は開演17:00。1月6日は開演17:00。1月7日は開演16:00。2026年10月26日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
+  a: 2027年1月4日（月）・5日（火）・6日（水）・7日（木）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。1月4日は開演17:00。1月5日は開演17:00。1月6日は開演17:00。1月7日は開演16:00。2026年11月25日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
 - q: 京セラドーム大阪の最寄り駅はどこですか？
   a: 地下鉄 ドーム前千代崎駅です（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ。JR 大正駅からは徒歩約7分。
 - q: 京セラドーム大阪に持ち込めないものは？
@@ -49,7 +49,7 @@ faq:
   a: この記事の「会場から近い宿」に、京セラドーム大阪から近い順に宿を載せています（楽天トラベル）。「京セラドーム大阪周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の京セラドーム大阪公演は2027年1月4日（月）・5日（火）・6日（水）・7日（木）（2026年10月26日時点の公式発表）
+- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』の京セラドーム大阪公演は2027年1月4日（月）・5日（火）・6日（水）・7日（木）（2026年11月25日時点の公式発表）
 - 最寄り駅は地下鉄 ドーム前千代崎駅（1番出口・徒歩すぐ）。阪神 ドーム前駅からは1・2出口・徒歩すぐ
 - '会場のルールで持ち込めないもの: 飲食物（持ち込み遠慮）、凍らせたペットボトル、1,000mlを超えるペットボトル、ビン・缶（公演ごとの案内も確かめる）'
 - 会場から10km以内にSnow Manのメンバーが行ったお店が1軒。会場からの近さ順に載せています
@@ -92,7 +92,7 @@ thumbnail: /assets/img/posts/snowman-kyocera-dome-osaka-2027-01/thumb.webp
 {% include live-list.html group="snowman" title="Snow Manのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年1月4日（月）・5日（火）・6日（水）・7日（木）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月26日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>京セラドーム大阪</strong>公演は、<strong>2027年1月4日（月）・5日（火）・6日（水）・7日（木）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、京セラドーム大阪への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2027-01-04" data-e="2027-01-07"><b>公演日</b>2027年1月4日（月）・5日（火）・6日（水）・7日（木）</p>
 
@@ -119,7 +119,7 @@ thumbnail: /assets/img/posts/snowman-kyocera-dome-osaka-2027-01/thumb.webp
 
 <p>会場：<strong>京セラドーム大阪</strong>（大阪府）。公演名：Snow Man DOME TOUR 2026-2027 ALL SUITE。</p>
 
-<p class="note">日程・時刻は2026年10月26日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 

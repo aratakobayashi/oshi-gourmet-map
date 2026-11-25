@@ -3,7 +3,7 @@
  "group": "numberi",
  "tour": "Number_i LIVE TOUR No.Ⅲ",
  "official_url": "https://tobe-official.jp/artists/number_i/concert/364",
- "checked_at": "2026-11-23",
+ "checked_at": "2026-11-25",
  "sources": [
   {
    "label": "TOBE公式（Number_i CONCERT/STAGE：開演時刻・席種・受付）",
@@ -56,12 +56,12 @@
    "url": "https://tobe-official.jp/artists/number_i/news/2413"
   },
   {
-   "name": "一般発売",
-   "start": "",
-   "end": "",
+   "name": "プレイガイド最終抽選先行",
+   "start": "2026-11-19T12:00",
+   "end": "2026-11-29T23:59",
    "who": "どなたでも",
-   "url": "https://tobe-official.jp/artists/number_i/concert/364",
-   "note": "日程は未発表（2026年11月23日時点）"
+   "what": "抽選（Live Nation H.I.P.）。この先行で予定枚数に達した場合は一般発売なし",
+   "url": "https://www.livenationhip.co.jp/all-events/number_i-tickets-ae1689539"
   }
  ],
  "tickets_note": "各席種1回4枚まで（BOX席は1組の枚数）。ファンクラブ受付のチケットは公式のリセールの対象です。",

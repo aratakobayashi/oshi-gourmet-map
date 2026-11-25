@@ -2,10 +2,10 @@
 layout: post
 title: =LOVE（イコラブ） ドーム公演2027「全ては＝LOVE」まとめ｜東京ドーム・バンテリンドーム ナゴヤの日程・時刻・セトリ・近くのホテル
 date: '2026-11-08'
-last_modified_at: '2026-11-23'
-checked_at: '2026-11-23'
+last_modified_at: '2026-11-25'
+checked_at: '2026-11-25'
 checked_label: 公演の日程
-description: =LOVE ドーム公演「全ては＝LOVE」（東京ドーム 2027年1月19日（火）・20日（水）、バンテリンドーム ナゴヤ 2027年2月24日（水）・25日（木））の日程と会場、会場ごとの近い宿と近くの=LOVEの聖地、公演のあとのセットリストをまとめました。日程は2026年11月23日時点の公式発表です。
+description: =LOVE ドーム公演「全ては＝LOVE」（東京ドーム 2027年1月19日（火）・20日（水）、バンテリンドーム ナゴヤ 2027年2月24日（水）・25日（木））の日程と会場、会場ごとの近い宿と近くの=LOVEの聖地、公演のあとのセットリストをまとめました。日程は2026年11月25日時点の公式発表です。
 group: equal_love
 genre: ライブ
 article_type: tourhub
@@ -47,18 +47,18 @@ sources:
   url: https://equal-love.jp/news/detail/12480
 faq:
 - q: =LOVE ドーム公演「全ては＝LOVE」の日程と会場は？
-  a: 東京ドーム（2027年1月19日（火）・20日（水））、バンテリンドーム ナゴヤ（2027年2月24日（水）・25日（木））です。2026年11月23日時点の公式発表で、変わることがあります。
+  a: 東京ドーム（2027年1月19日（火）・20日（水））、バンテリンドーム ナゴヤ（2027年2月24日（水）・25日（木））です。2026年11月25日時点の公式発表で、変わることがあります。
 - q: 開場・開演の時刻は？
   a: 1月19日は開場16:00・開演18:00、1月20日は開場16:00・開演18:00、2月24日は開場16:00・開演18:00、2月25日は開場16:00・開演18:00です（公式発表）。発表されていない公演の時刻は、=LOVEの公式サイトで確かめてください。
 - q: セットリストは？
   a: ドーム公演のセットリストは、公演のあとに大手報道のライブレポートに載ったものだけを、出典つき・ネタバレ注意の閉じた形で載せます。
 - q: チケットの受付は？
-  a: このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（2026年11月23日時点）。値段や席ごとの条件は公式のお知らせで確かめてください。
+  a: このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（2026年11月25日時点）。値段や席ごとの条件は公式のお知らせで確かめてください。
 - q: 会場の近くの宿は？
   a: このページの会場ごとの「会場から近い宿」に、楽天トラベルの宿を会場から近い順に載せています。会場ごとの「近くのホテル」のページでは、最寄り駅ごとにさらに多くの宿を見られます。
 pr: true
 summary:
-- =LOVE ドーム公演「全ては＝LOVE」は東京ドーム 2027年1月19日（火）・20日（水）、バンテリンドーム ナゴヤ 2027年2月24日（水）・25日（木）の2会場・4公演（2026年11月23日時点の公式発表）
+- =LOVE ドーム公演「全ては＝LOVE」は東京ドーム 2027年1月19日（火）・20日（水）、バンテリンドーム ナゴヤ 2027年2月24日（水）・25日（木）の2会場・4公演（2026年11月25日時点の公式発表）
 - '発表されている時刻: 1月19日は開場16:00・開演18:00、1月20日は開場16:00・開演18:00、2月24日は開場16:00・開演18:00、2月25日は開場16:00・開演18:00'
 - 会場ごとに、会場から近い宿（楽天トラベル）と宿の検索、近くの=LOVEの聖地、参戦ガイドをまとめています
 - セットリストは公演のあと、大手報道のライブレポートに載ったものだけを出典つきで載せます
@@ -101,7 +101,7 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
 
 <nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a><a class="chip chip--area" href="#tickets">🎫 チケット</a><a class="chip chip--area" href="#v-tokyo-dome">🏟 東京ドーム</a><a class="chip chip--area" href="#v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>
 
-<p>=LOVE（イコールラブ）のドーム公演は、2027年1月の東京ドーム「＝LOVE in TOKYO DOME「全ては＝LOVE」」と、2月のバンテリンドーム ナゴヤ「＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」」の2会場・4公演です。東京ドーム公演のタイトルと名古屋公演は、2026年10月16日の9周年コンサートで発表されました。日程と会場、会場ごとの近い宿と近くの聖地、セットリスト（公演のあと）をこのページにまとめます（2026年11月23日時点）。</p>
+<p>=LOVE（イコールラブ）のドーム公演は、2027年1月の東京ドーム「＝LOVE in TOKYO DOME「全ては＝LOVE」」と、2月のバンテリンドーム ナゴヤ「＝LOVE DOME LIVE in NAGOYA「全ては＝LOVE」」の2会場・4公演です。東京ドーム公演のタイトルと名古屋公演は、2026年10月16日の9周年コンサートで発表されました。日程と会場、会場ごとの近い宿と近くの聖地、セットリスト（公演のあと）をこのページにまとめます（2026年11月25日時点）。</p>
 
 <h2 id="schedule">📅 日程と会場</h2>
 
@@ -112,11 +112,11 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
   <li><span class="tl-d"><b>2.25</b><small>木</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開場 16:00／開演 18:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'equal_love' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2027-02-25' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
 </ol>
 
-<p class="note">日程は<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>、時刻は<a href="https://equal-love.jp/news/detail/12299" target="_blank" rel="noopener">公式のお知らせ</a>・<a href="https://equal-love.jp/news/detail/12473" target="_blank" rel="noopener">公式のお知らせ</a>より（2026年11月23日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
+<p class="note">日程は<a href="https://equal-love.jp/schedule/detail/11617" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://equal-love.jp/schedule/detail/12276" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>、時刻は<a href="https://equal-love.jp/news/detail/12299" target="_blank" rel="noopener">公式のお知らせ</a>・<a href="https://equal-love.jp/news/detail/12473" target="_blank" rel="noopener">公式のお知らせ</a>より（2026年11月25日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
 
 <h2 id="tickets">🎫 チケットの受付</h2>
 
-<p>会場ごとのチケットの受付です（2026年11月23日時点の公式発表）。受付中のものは期限に気をつけてください。</p>
+<p>会場ごとのチケットの受付です（2026年11月25日時点の公式発表）。受付中のものは期限に気をつけてください。</p>
 
 <h3 class="fl-h3">東京ドーム（2027年1月19日（火）・20日（水））</h3>
 
@@ -137,7 +137,7 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
 <ol class="tk-list">
   <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-29T23:59"><span class="tk__st">受付中</span><b class="tk__n">FC最速先行（抽選）</b><span class="tk__p">11月20日（金）18:00〜11月29日（日）23:59</span><span class="tk__w">応募者・同行者ともに「＝LOVE Official Fan Club」会員・プレミアムチケット・通常チケット</span><a class="tk__go" href="https://equal-love.jp/news/detail/12473" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-soon" data-s="2026-12-05T17:30" data-e="2026-12-13T23:59"><span class="tk__st">これから</span><b class="tk__n">FC先行</b><span class="tk__p">12月5日（土）17:30〜12月13日（日）23:59</span><span class="tk__w">「＝LOVE Official Fan Club」会員</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
-  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般先行</b><span class="tk__p">FC先行のあとに予定（日程は未発表・2026年11月25日時点）</span><a class="tk__go" href="https://equal-love.jp/news/detail/12275" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 <p class="note">1回の申し込みは4枚まで。チケットはすべて公式アプリ「＝LOVE Official App」の電子チケット（顔写真付き）で受け取ります。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 
@@ -189,7 +189,7 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
 
 <h2 id="goods">🛍 グッズ</h2>
 
-<div class="fl-goods"><div><b>東京ドーム公演のグッズ</b><span>事前販売（池袋・サンシャインシティ 展示ホールA、2027年1月8日〜11日。事前予約制で、予約の受付は2026年11月24日まで）・公式ショップの事前配送（注文は11月25日〜12月1日、1月8日ごろ届く）・当日の会場販売の予定が発表されています（<a href="https://equal-love.jp/news/detail/12479" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
+<div class="fl-goods"><div><b>東京ドーム公演のグッズ</b><span>事前販売（池袋・サンシャインシティ 展示ホールA、2027年1月8日〜11日。事前予約制で予約の受付は終了、当選発表は12月1日15:00）・公式ショップの事前配送（注文は11月25日18:30〜12月1日23:59、1月8日ごろ届く）・当日の会場販売（時間は後日発表）。プレミアムチケットのグッズは当日、入口で受け取り（引換券はなし）（<a href="https://equal-love.jp/news/detail/12479" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div><div><b>公式ペンライト（ファンライト）</b><span>新しい「＝LOVE Official Fan Light」の発売が決まりましたが、東京ドーム・ナゴヤの公演では無線で光る演出は予定されていません。これまでのHeart Stickや公式ペンライトも使えます（<a href="https://equal-love.jp/news/detail/12481" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
 
 <h2 id="setlist">🎵 セットリスト</h2>
 
@@ -209,6 +209,6 @@ thumbnail: /assets/img/posts/equal-love-dome-live-2027/thumb.webp
 
 {% include live-list.html group="equal_love" title="=LOVEのこれからの公演（参戦ガイド）" %}
 
-<p class="note">このページは2026年11月23日に、=LOVE公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
+<p class="note">このページは2026年11月25日に、=LOVE公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
 
 </div>

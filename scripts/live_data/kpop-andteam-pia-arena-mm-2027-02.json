@@ -3,7 +3,7 @@
  "group": "kpop_andteam",
  "tour": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
  "official_url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
- "checked_at": "2026-10-26",
+ "checked_at": "2026-11-25",
  "sources": [
   {
    "label": "&TEAM公式（HYBE JAPAN 公演特設ページ）",
@@ -21,5 +21,9 @@
   "2027-02-13",
   "2027-02-14"
  ],
- "note": "グランキューブ大阪は2026-11と2027-01の2回。2027-02以降のアリーナ公演は開場・開演時刻の記載なし"
+ "note": "グランキューブ大阪は2026-11と2027-01の2回。2027-02以降のアリーナ公演は開場・開演時刻の記載なし",
+ "times": {
+  "2027-02-13": "開場16:00／開演17:00",
+  "2027-02-14": "開場15:00／開演16:00"
+ }
 }

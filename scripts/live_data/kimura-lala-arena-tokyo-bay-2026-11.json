@@ -22,5 +22,28 @@
   "2026-11-22",
   "2026-11-23"
  ],
- "note": "公式（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 報道2本で確認。11/23 千葉がツアーファイナル（モデルプレス）。台北公演（11/13・11/14）は海外のため除外。開演時刻は報道に無いので省略。official_url は公式を読めなかったため報道のURL。"
+ "note": "公式（starto.jp）は 公式（starto.jp・jr-official.starto.jp・各レーベルの公式サイト）は robots.txt で ClaudeBot / Claude-SearchBot を Disallow しているため読んでいない。 報道2本で確認。11/23 千葉がツアーファイナル（モデルプレス）。台北公演（11/13・11/14）は海外のため除外。開演時刻は報道に無いので省略。official_url は公式を読めなかったため報道のURL。",
+ "setlist": [
+  {
+   "title": "11月23日公演（ツアーファイナル）",
+   "parts": [
+    [
+     "本編",
+     "Head Shot／No Night, No Starlight／High on you／マリブドライブ／オリジナル スマイル／One Chance!／BLACK DENIM／What a dramatic life!／Long Saturday／新風に吹かれつつ／Talk／Crazy in love／セロリ／オレンジ／サンセットベンチ／世界に一つだけの花／Born ready／UNIQUE／SHAKE／光の中で"
+    ],
+    [
+     "アンコール",
+     "Take it easy／ここにいる／One and Only"
+    ],
+    [
+     "ダブルアンコール",
+     "夜空ノムコウ（ファイナルだけ）"
+    ]
+   ],
+   "src": [
+    "オリコン（2026年11月24日のライブレポート）",
+    "https://www.oricon.co.jp/news/2494711/full/"
+   ]
+  }
+ ]
 }
