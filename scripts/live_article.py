@@ -37,7 +37,7 @@ NEAR_KM, FAR_KM, MAX_ROWS, MIN_ROWS, PREF_ROWS = 3.0, 10.0, 8, 3, 6
 WEEK = '月火水木金土日'
 NEWS = ('oricon.co.jp', 'mdpr.jp', 'thefirsttimes.jp', 'realsound.jp', 'natalie.mu', 'modelpress', 'billboard-japan', 'musicman', 'barks.jp', 'daily.co.jp', 'sponichi', 'nikkansports', 'hochi')
 # 検索でよく使われる呼び名（題名とタグに足す）
-AKA = {'equal_love': 'イコラブ', 'numberi': 'ナンバーアイ', 'befirst': 'ビーファースト', 'kpop_enhypen': 'エンハイフン', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
+AKA = {'equal_love': 'イコラブ', 'numberi': 'ナンバーアイ', 'befirst': 'ビーファースト', 'kpop_enhypen': 'エンハイフン', 'daice': 'ダイス', 'notme': 'ノイミー', 'neajoy': 'ニアジョイ', 'kismai': 'キスマイ', 'kingprince': 'キンプリ',
        'sixtones': 'ストーンズ', 'travisjapan': 'トラジャ', 'hihijets': 'ハイハイ',
        'kanjani': 'エイト', 'momoclo': 'ももクロ', 'ebichu': 'エビ中',
        'tokisen': '超とき宣', 'fruitszipper': 'ふるっぱー', 'bokuao': 'ぼくあお',

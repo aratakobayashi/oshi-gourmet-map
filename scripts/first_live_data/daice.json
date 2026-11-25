@@ -1,0 +1,365 @@
+{
+ "slug": "daice-first-live",
+ "group": "daice",
+ "name": "Da-iCE",
+ "kana": "ダイス",
+ "aka": "ダイス",
+ "color": "#2563eb",
+ "checked_at": "2026-11-25",
+ "title": "Da-iCE（ダイス）ライブ初参戦ガイド｜AnyPASSの入場・席の種類・定番曲・グッズ・初のドーム公演2027",
+ "description": "Da-iCE（ダイス）のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。初の単独ドーム公演『Da-iCE DAY DOME PHASE 2027』（東京ドーム 2027年2月4日・京セラドーム大阪 2月13日・14日）の開場・開演、AnyPASSの電子チケットと同行者、席の種類（U-18指定席・着席指定席）、託児、大手報道のセットリストから定番曲、ライブ映像、会場の近くの宿まで。",
+ "shows": [
+  {
+   "label": "東京ドーム",
+   "title": "Da-iCE DAY DOME PHASE 2027",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2027-02-04"
+   ],
+   "open": "16:00",
+   "start": "18:00",
+   "src": "https://da-ice.jp/schedule/tour.php?id=1003011",
+   "src_label": "Da-iCE公式のスケジュール"
+  },
+  {
+   "label": "京セラドーム大阪",
+   "title": "Da-iCE DAY DOME PHASE 2027",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2027-02-13",
+    "2027-02-14"
+   ],
+   "open": "15:00",
+   "start": "17:00",
+   "src": "https://da-ice.jp/schedule/tour.php?id=1003011"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'daice-dome-phase-2027' %}{{ p.url }}{% endif %}{% endfor %}\">Da-iCE 初のドーム公演2027まとめ（日程・時刻・セトリ）</a>",
+ "ticket_link": "<a href=\"{% for p in site.posts %}{% if p.slug == 'daice-dome-phase-2027' %}{{ p.url }}{% endif %}{% endfor %}#tickets\">Da-iCE ドーム公演2027まとめ「チケットの受付」</a>",
+ "intro": "Da-iCE（ダイス）のライブに、はじめて行く人のためのページです。チケットの受け取りから入場、席の種類、定番曲と予習の映像、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました。",
+ "entry_lead": "ドーム公演のチケットは<strong>AnyPASSアプリの電子チケット</strong>だけです。申し込んだ電話番号のスマホでしか受け取れず、同行者にはアプリから分配します。",
+ "three": [
+  [
+   "AnyPASSを入れておく",
+   "iOS 14以上・Android 9.0以上のスマホ。申し込んだ電話番号の端末で受け取る。同行者も自分のAnyPASSに登録（SMSで確認）"
+  ],
+  [
+   "同行者に分配する",
+   "1人1枚。申し込んだ人が同行者に分配。申し込んだ人のチケットは分配・譲渡できない。転売は禁止"
+  ],
+  [
+   "席の種類を確かめる",
+   "U-18指定席は入口で年齢の確認があるので身分証明書を。着席指定席は公演中ずっと座って見る席"
+  ]
+ ],
+ "three_more": {
+  "q": "スマホを持っていない子どもの同行者は？",
+  "a": "対応するスマホを持っていない未成年の同行者は、身分証明書を見せて名前と連絡先を伝えれば、グループ全員で一緒に入場できます（公式のFAQより）。"
+ },
+ "flow": [
+  [
+   "前日まで",
+   "アプリと書類の準備",
+   "AnyPASSにチケットが届いているか、同行者に分配したかを確かめる。U-18指定席の人は身分証明書も"
+  ],
+  [
+   "{open}",
+   "開場",
+   "AnyPASSの画面で入場。U-18指定席は入口で年齢の確認"
+  ],
+  [
+   "{start}",
+   "開演",
+   "着席指定席は公演中ずっと座ったまま"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "終演の時刻は未発表。東京ドームは平日（木曜）の夜。遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "phone",
+   "スマホ（AnyPASS・電子チケット）"
+  ],
+  [
+   "id",
+   "身分証明書（U-18指定席の人は必須）"
+  ],
+  [
+   "battery",
+   "スマホの充電（電子チケットなので）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに"
+  ]
+ ],
+ "seats_lead": "ドーム公演の席の種類です（<a href=\"https://da-ice.jp/schedule/tour.php?id=1003011\" target=\"_blank\" rel=\"noopener\">Da-iCE公式のスケジュール</a>より。値段はこのページでは扱いません）。",
+ "seats": [
+  [
+   "一般指定席",
+   "ふつうの指定席"
+  ],
+  [
+   "U-18指定席",
+   "公演の日に18歳以下の人の席。入口で年齢の確認があるので身分証明書を持っていく"
+  ],
+  [
+   "着席指定席",
+   "公演中ずっと座って見る席。野球のエキサイトシートも含む"
+  ],
+  [
+   "注釈付き指定席",
+   "ステージやメンバー、モニターの一部が見えにくいことがある席"
+  ],
+  [
+   "3days指定席",
+   "ファンクラブの最速先行だけで売られた3公演セットの席（受付は終了）"
+  ]
+ ],
+ "seats_note": "3歳以上はチケットが必要です（3歳未満は膝の上で見るなら不要）。車椅子の人は、公演の3日前までに各地域の問い合わせ先に連絡します（公式のFAQ）。チケットを持っている人向けに1〜8歳の子どもの託児（抽選）もあります。",
+ "rules": {
+  "ng_items": [
+   "会場のルールで持ち込めないもの（会場ごとのルールは東京ドーム・京セラドーム大阪の会場ガイドに）"
+  ],
+  "ng_acts": [
+   "チケットの転売",
+   "申し込んだ人のチケットを分配・譲渡すること",
+   "着席指定席で立って見ること"
+  ],
+  "ok": [
+   "3歳未満は膝の上で見るなら無料",
+   "チケットを持っている人は託児サービス（1〜8歳・抽選）を使える",
+   "グッズはチケットがなくても買える（ホールツアーの案内）"
+  ],
+  "note": "出典：<a href=\"https://da-ice.jp/schedule/tour.php?id=1003011\" target=\"_blank\" rel=\"noopener\">Da-iCE公式のスケジュール</a>・<a href=\"https://stic.y-tickets.jp/cmn/daice2701_faq/pc/index1.html\" target=\"_blank\" rel=\"noopener\">チケットのFAQ</a>。撮影・声出し・ペンライト・うちわについての決まりは、ドーム公演の公式の案内には見当たりませんでした（2026年11月25日時点）。"
+ },
+ "penlight": {
+  "heading": "ペンライト・ライト",
+  "text": "Da-iCEの公式ペンライトや、無線で光る演出の案内は見当たりませんでした（2026年11月25日時点）。2026年のアリーナツアー「TERMiNaL」では、公式グッズに手首につける「ブレスレットライト」がありました（<a href=\"https://shop.da-ice.jp/products/anic-1378\" target=\"_blank\" rel=\"noopener\">公式ショップ</a>）。ドーム公演のグッズは、発表されたら公式サイトで確かめてください。",
+  "colors": [],
+  "note": "出典：<a href=\"https://shop.da-ice.jp/\" target=\"_blank\" rel=\"noopener\">Da-iCE OFFICIAL SHOP</a>。"
+ },
+ "members": {
+  "list": [
+   "工藤大輝",
+   "岩岡徹",
+   "大野雄大",
+   "花村想太",
+   "和田颯"
+  ],
+  "colors": {},
+  "note": "並びは<a href=\"https://da-ice.jp/profile/\" target=\"_blank\" rel=\"noopener\">公式プロフィール</a>の順。ボーカルは大野雄大・花村想太、パフォーマーは工藤大輝・岩岡徹・和田颯。公式サイトにメンバーカラーの案内は見当たりません。ファンの呼び名は「6面」（<a href=\"https://mdpr.jp/music/detail/4678733\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）。"
+ },
+ "call": {
+  "text": "Da-iCEの公式サイトと公式YouTubeには、<strong>コールの案内やコール表は見当たりませんでした</strong>（2026年11月25日時点）。声出しについての決まりも、ドーム公演の案内には書かれていません。",
+  "memo": "はじめてなら、公式YouTubeのライブ映像で、曲の流れや客席の雰囲気を見ておくのが確実です。",
+  "channel": "Da-iCE",
+  "videos": [
+   [
+    "n8bdqN7SBSY",
+    "TERMINAL",
+    "ARENA TOUR 2026 -TERMiNaL- より"
+   ],
+   [
+    "jqTdsxWc7p4",
+    "CITRUS",
+    "Da-iCE DAY 2025 DAY1 より"
+   ],
+   [
+    "3YwwPX8gxZ0",
+    "スターマイン",
+    "Live Video"
+   ],
+   [
+    "BUgHJkSH454",
+    "ノンフィクションズ",
+    "ARENA TOUR 2025 -EntranCE- より"
+   ],
+   [
+    "uy8A77DQwiA",
+    "Tasty Beating Sound",
+    "ARENA TOUR 2025 -EntranCE- より"
+   ],
+   [
+    "fkzqkSdWLpc",
+    "Black and White",
+    "ARENA TOUR 2025 -EntranCE- より"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "大手報道のライブレポートに載ったセットリストで、直近の2つのアリーナツアーのファイナル（2025年11月 さいたまスーパーアリーナ「EntranCE」・2026年4月 真駒内「TERMiNaL」）を比べました。<strong>両方で歌われたのは9曲</strong>。ドーム公演で歌われるかは分かりませんが、予習の手がかりになります。2026年秋のホールツアーの初日の報道にも、CITRUS・スターマイン・I wonder・ノンフィクションズが出てきます。",
+  "top_label": "直近の2つのアリーナツアーのファイナル両方で歌われた曲（大手報道のセットリストから）",
+  "top": [
+   "Monster",
+   "Tasty Beating Sound",
+   "オレンジユース",
+   "Black and White",
+   "CITRUS",
+   "I wonder",
+   "ノンフィクションズ",
+   "スターマイン",
+   "Live goes on"
+  ],
+  "sets": [
+   {
+    "title": "ARENA TOUR 2026 -TERMiNaL- ファイナル（2026年4月26日 真駒内セキスイハイムアイスアリーナ）",
+    "parts": [
+     [
+      "本編",
+      "TERMINAL／DOSE／WATCH OUT／Monster／liveDevil／FUNKEYS／Dance Dance／That you know？／OLD meets NEW／Try&Groove／オレンジユース／Black and White／ララバイの前に／you／CITRUS／せつなくて／Tasty Beating Sound／I wonder／ノンフィクションズ／Past days"
+     ],
+     [
+      "アンコール",
+      "スターマイン／Live goes on／Melody（4月26日のみ）"
+     ]
+    ],
+    "src": [
+     "THE FIRST TIMES",
+     "https://www.thefirsttimes.jp/report/0000802070/",
+     ""
+    ]
+   },
+   {
+    "title": "ARENA TOUR 2025 -EntranCE- ファイナル（2025年11月12日 さいたまスーパーアリーナ）",
+    "parts": [
+     [
+      "本編",
+      "Entrance 6／BACK TO BACK／SiX／FAKESHOW／Monster／I wonder／Tasty Beating Sound／オレンジユース／FAKE ME FAKE ME OUT／Black and White／Love Song／image／ダンデライオン／CITRUS／Clap and Clap／スターマイン／DREAMIN'ON／ノンフィクションズ"
+     ],
+     [
+      "アンコール",
+      "サンクチュアリ／Live goes on"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4678733",
+     ""
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "ドーム公演のグッズ",
+   "2026年11月25日時点では発表されていません（<a href=\"https://da-ice.jp/schedule/tour.php?id=1003011\" target=\"_blank\" rel=\"noopener\">公式のスケジュール</a>で確かめてください）"
+  ],
+  [
+   "参考：ホールツアーでは",
+   "会場にオフィシャルショップ・ポップアップストア・ファンクラブのブースがあり、チケットがなくてもグッズを買えました。前日からの徹夜は禁止（<a href=\"https://da-ice.jp/news/detail.php?id=1136539\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）"
+  ],
+  [
+   "ファンクラブの宿泊プラン",
+   "「a-i」会員向けの「ロクメン STaY PLaN」の2次抽選は2026年11月30日23:59まで（<a href=\"https://da-ice-ai.jp/contents/1128473\" target=\"_blank\" rel=\"noopener\">ファンクラブのお知らせ</a>）"
+  ]
+ ],
+ "fc_note": "公式ファンクラブは「Da-iCE OFFiCiaL FUN CLUB a-i」です（<a href=\"https://da-ice-ai.jp/\" target=\"_blank\" rel=\"noopener\">公式ファンクラブ</a>）。別に有料会員「Da-iCE CUBE」もあり、それぞれ先行受付がありました。",
+ "official_links": [
+  [
+   "公式サイト",
+   "https://da-ice.jp/",
+   "お知らせ・スケジュール・プロフィール"
+  ],
+  [
+   "ドーム公演のページ",
+   "https://da-ice.jp/schedule/tour.php?id=1003011",
+   "日程・席・チケット"
+  ],
+  [
+   "公式ファンクラブ a-i",
+   "https://da-ice-ai.jp/",
+   "FC先行・宿泊プラン"
+  ],
+  [
+   "OFFICIAL SHOP",
+   "https://shop.da-ice.jp/",
+   "グッズ"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/channel/UC7JQKVJMCIuVMcrFXSozMCw",
+   "ライブ映像・MV"
+  ],
+  [
+   "AnyPASS",
+   "https://anypass.jp/",
+   "電子チケットのアプリ"
+  ]
+ ],
+ "stay_text": "東京ドームは平日（木曜）の18時開演、京セラドーム大阪は土曜の17時開演と日曜の15時開演です。終演の時刻は発表されていません。大阪の2日間とも行く人や遠くから行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "sources": [
+  [
+   "Da-iCE公式（DAY DOME PHASE 2027）",
+   "https://da-ice.jp/schedule/tour.php?id=1003011"
+  ],
+  [
+   "Da-iCE公式（開催のお知らせ）",
+   "https://da-ice.jp/news/detail.php?id=1133028"
+  ],
+  [
+   "Da-iCE公式ファンクラブ a-i（最速先行）",
+   "https://da-ice-ai.jp/contents/1068174"
+  ],
+  [
+   "チケットのFAQ",
+   "https://stic.y-tickets.jp/cmn/daice2701_faq/pc/index1.html"
+  ],
+  [
+   "Da-iCE公式（託児）",
+   "https://da-ice.jp/news/detail.php?id=1137279"
+  ],
+  [
+   "Da-iCE公式（プロフィール）",
+   "https://da-ice.jp/profile/"
+  ],
+  [
+   "THE FIRST TIMES（TERMiNaL ファイナル セットリスト）",
+   "https://www.thefirsttimes.jp/report/0000802070/"
+  ],
+  [
+   "モデルプレス（EntranCE ファイナル セットリスト）",
+   "https://mdpr.jp/music/detail/4678733"
+  ],
+  [
+   "オリコン（DAY HALL PHASE 2026 初日）",
+   "https://www.oricon.co.jp/news/2486390/full/"
+  ]
+ ],
+ "summary": [
+  "初の単独ドーム公演は 東京ドーム 2027年2月4日（木）開場16:00・開演18:00、京セラドーム大阪 2月13日（土）開場15:00・開演17:00、2月14日（日）開場13:00・開演15:00",
+  "チケットはAnyPASSアプリの電子チケットだけ。同行者にはアプリから分配し、同行者も自分のAnyPASSに登録",
+  "席は一般指定席・U-18指定席（入口で年齢の確認）・着席指定席・注釈付き指定席。東京は注釈付き指定席のほかは完売（2026年11月18日）",
+  "公式のコール案内は見当たらない。直近の2つのアリーナツアーのファイナル両方で歌われた曲は9曲",
+  "チケットを持っている人向けに託児（1〜8歳・抽選）がある"
+ ],
+ "faq": [
+  [
+   "Da-iCEのドーム公演の開場・開演は何時ですか？",
+   "東京ドーム（2027年2月4日）は開場16:00・開演18:00、京セラドーム大阪は2月13日が開場15:00・開演17:00、2月14日が開場13:00・開演15:00です（Da-iCE公式のスケジュールより）。終演の時刻は発表されていません。"
+  ],
+  [
+   "入場に必要なものは？",
+   "AnyPASSアプリの電子チケットを出すスマホです。申し込んだ電話番号の端末でしか受け取れず、同行者には申し込んだ人がアプリから分配します。U-18指定席の人は、年齢がわかる身分証明書も持っていきます。"
+  ],
+  [
+   "チケットはまだ買えますか？",
+   "東京公演は注釈付き指定席だけ、2026年11月18日21:00からプレイガイドで先着販売中です（ほかの席種は完売）。大阪公演もプレイガイドで先着販売中です。予定枚数に達し次第終わります（2026年11月25日時点）。くわしくは「Da-iCE ドーム公演2027まとめ」の「チケットの受付」へ。"
+  ],
+  [
+   "コールはありますか？",
+   "公式のコール案内やコール表は見当たりません（2026年11月25日時点）。公式YouTubeのライブ映像で曲の流れを見ておくのがおすすめです。"
+  ],
+  [
+   "子どもも入れますか？",
+   "3歳以上はチケットが必要で、3歳未満は膝の上で見るなら不要です。18歳以下向けのU-18指定席や、チケットを持っている人向けの託児（1〜8歳・抽選）もあります。"
+  ],
+  [
+   "Da-iCEのファンの呼び名は？",
+   "「6面」です（モデルプレスの記事より）。"
+  ]
+ ]
+}
