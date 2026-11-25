@@ -437,5 +437,57 @@
   "logo_text": "DOME",
   "logo_sub": "PHASE",
   "out": "assets/img/posts/daice-dome-phase-2027/thumb"
+ },
+ "kpop-andteam-first-live": {
+  "color": "#64748b",
+  "group": "kpop_andteam",
+  "bg": [
+   "#0b1020",
+   "#1e293b",
+   "#05070d"
+  ],
+  "lights": [
+   "#e2e8f0",
+   "#94a3b8",
+   "#ffffff",
+   "#a78bfa"
+  ],
+  "label": "はじめてのライブ",
+  "title": "&TEAM",
+  "sub": "エンティームのライブに\nはじめて行く人へ",
+  "chips": [
+   "アリーナ公演2027",
+   "紙チケットと本人確認",
+   "応援方法",
+   "ライトスティック"
+  ],
+  "logo_text": "&TEAM",
+  "logo_sub": "FIRST LIVE"
+ },
+ "kpop-andteam-mark-on-you-arena-2027": {
+  "color": "#64748b",
+  "group": "kpop_andteam",
+  "bg": [
+   "#0b1020",
+   "#1e293b",
+   "#05070d"
+  ],
+  "lights": [
+   "#e2e8f0",
+   "#94a3b8",
+   "#ffffff",
+   "#a78bfa"
+  ],
+  "label": "アリーナ公演まとめ",
+  "title": "&TEAM",
+  "sub": "Mark on You\nアリーナ公演2027",
+  "chips": [
+   "横浜 2.13・14",
+   "福岡 3.20〜22",
+   "近くの宿"
+  ],
+  "logo_text": "&TEAM",
+  "logo_sub": "ARENA",
+  "out": "assets/img/posts/kpop-andteam-mark-on-you-arena-2027/thumb"
  }
 }

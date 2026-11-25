@@ -49,6 +49,7 @@ def build(name):
     aka = L.AKA.get(g)
     gl_t = f'{gl}（{aka}）' if aka else gl
     lives = [J(f'scripts/live_data/{x}.json') | {'slug': x} for x in d['lives']]
+    VN = lambda lv: lv.get('venue_name') or venues[lv['venue_key']]['name']   # 別の建物の名前（live_data の venue_name）
     lives.sort(key=lambda x: x['dates'][0])
     all_dates = [dt for lv in lives for dt in lv['dates']]
     times = d.get('times') or {}
@@ -61,11 +62,11 @@ def build(name):
 
     def evs(lv, dt):
         # 構造化データ。1日2回公演は2つのイベントにする（live_article.evs）
-        return L.evs(lv['tour'], dt, tstr(lv, dt), lv['venue_key'], lv['official_url'])
+        return L.evs(lv['tour'], dt, tstr(lv, dt), lv['venue_key'], lv['official_url'], lv.get('venue_name', ''))
     n_shows = sum(len(evs(lv, dt)) for lv in lives for dt in lv['dates'])   # 1日2回公演は2つと数える
     ck = d['checked_at']
     ckl = f'{ck[:4]}年{int(ck[5:7])}月{int(ck[8:10])}日'
-    vn_names = [venues[lv['venue_key']]['name'] for lv in lives]
+    vn_names = [VN(lv) for lv in lives]
     upcoming = [lv for lv in lives if lv['dates'][-1] >= TODAY]
     nxt = (upcoming or lives[-1:])[0]
 
@@ -88,9 +89,9 @@ def build(name):
 
     # 題名は前の30字ほどに「グループ・ドーム公演/ツアー名・年・まとめ」（日程・セトリで探す人向け）
     title = f'{gl_t} {d.get("title_core") or d["series_long"]}まとめ｜' + '・'.join(vn_names) + 'の日程・時刻・セトリ・近くのホテル'
-    desc = (f'{d["series_long"]}（' + '、'.join(f'{venues[lv["venue_key"]]["name"]} {L.dlabel(lv["dates"])}' for lv in lives) +
+    desc = (f'{d["series_long"]}（' + '、'.join(f'{VN(lv)} {L.dlabel(lv["dates"])}' for lv in lives) +
             f'）の日程と会場、会場ごとの近い宿と近くの{gl}の聖地、公演のあとのセットリストをまとめました。日程は{ckl}時点の公式発表です。')
-    summary = [f'{d["series_long"]}は' + '、'.join(f'{venues[lv["venue_key"]]["name"]} {L.dlabel(lv["dates"])}' for lv in lives) +
+    summary = [f'{d["series_long"]}は' + '、'.join(f'{VN(lv)} {L.dlabel(lv["dates"])}' for lv in lives) +
                f'の{len(lives)}会場・{n_shows}公演（{ckl}時点の公式発表）']
     tl = [f'{int(dt[5:7])}月{int(dt[8:10])}日は' + tstr(lv, dt).replace('／', '・') for lv in lives for dt in lv['dates'] if tstr(lv, dt)]
     if tl:
@@ -99,12 +100,12 @@ def build(name):
     summary.append('セットリストは公演のあと、大手報道のライブレポートに載ったものだけを出典つきで載せます')
 
     faq = [{'q': f'{d["series_long"]}の日程と会場は？',
-            'a': '、'.join(f'{venues[lv["venue_key"]]["name"]}（{L.dlabel(lv["dates"])}）' for lv in lives) + f'です。{ckl}時点の公式発表で、変わることがあります。'}]
+            'a': '、'.join(f'{VN(lv)}（{L.dlabel(lv["dates"])}）' for lv in lives) + f'です。{ckl}時点の公式発表で、変わることがあります。'}]
     if tl:
         faq.append({'q': '開場・開演の時刻は？', 'a': '、'.join(tl) + 'です' + (f'（{d["nagoya_note"].split("。")[0]}）。' if d.get('nagoya_note') else '（公式発表）。') + f'発表されていない公演の時刻は、{gl}の公式サイトで確かめてください。'})
     faq.append({'q': 'セットリストは？', 'a': d['setlist_pending'] if not d.get('setlists') else '公演のあと、大手報道のライブレポートに載ったセットリストをこのページの「セットリスト」に出典つきで載せています（ネタバレ注意）。'})
     if any(lv.get('tickets') for lv in lives):
-        open_now = [f'{venues[lv["venue_key"]]["name"]}の{t["name"]}（{int(t["end"][5:7])}月{int(t["end"][8:10])}日まで）' for lv in lives for t in lv.get('tickets', [])
+        open_now = [f'{VN(lv)}の{t["name"]}（{int(t["end"][5:7])}月{int(t["end"][8:10])}日まで）' for lv in lives for t in lv.get('tickets', [])
                     if t.get('start') and t.get('end') and t['start'][:10] <= TODAY <= t['end'][:10]]
         faq.append({'q': 'チケットの受付は？', 'a': 'このページの「チケットの受付」に、会場ごとの受付の種類・期間・対象を公式のお知らせへのリンクつきで載せています（' + ckl + '時点）。値段や席ごとの条件は公式のお知らせで確かめてください。'})
     faq.append({'q': '会場の近くの宿は？', 'a': 'このページの会場ごとの「会場から近い宿」に、楽天トラベルの宿を会場から近い順に載せています。会場ごとの「近くのホテル」のページでは、最寄り駅ごとにさらに多くの宿を見られます。'})
@@ -125,7 +126,7 @@ def build(name):
     b = [f'<div class="pf fl" style="--pc:{color}">']
     days = ''.join(f'<div><b>{a}</b><small>{w}</small></div>' for a, w in (F.md(x) for x in nxt['dates']))
     b.append(f'''<section class="fl-hero" aria-label="次の公演">
-  <p class="fl-hero__k">NEXT · {esc(venues[nxt["venue_key"]]["name"])}</p>
+  <p class="fl-hero__k">NEXT · {esc(VN(nxt))}</p>
   <p class="fl-hero__v">{esc(d["series"])}</p>
   <p class="fl-hero__t">{esc(d["series_long"])}　{len(lives)}会場・{n_shows}公演</p>
   <div class="fl-hero__days">{days}</div>
@@ -133,14 +134,14 @@ def build(name):
 </section>''')
     b.append('<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a>'
              + ('<a class="chip chip--area" href="#tickets">🎫 チケット</a>' if any(lv.get('tickets') for lv in lives) else '')
-             + ''.join(f'<a class="chip chip--area" href="#v-{lv["venue_key"]}">🏟 {esc(venues[lv["venue_key"]]["name"])}</a>' for lv in lives)
+             + ''.join(f'<a class="chip chip--area" href="#v-{lv["venue_key"]}">🏟 {esc(VN(lv))}</a>' for lv in lives)
              + ('<a class="chip chip--area" href="#goods">🛍 グッズ</a>' if d.get('goods') else '') + '<a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>')
     b.append(f'<p>{d["lead"].rstrip("。")}（{ckl}時点）。</p>')
 
     b.append('<h2 id="schedule">📅 日程と会場</h2>')
     rows = []
     for lv in lives:
-        vname = venues[lv['venue_key']]['name']
+        vname = VN(lv)
         for i, dt in enumerate(lv['dates']):
             md_, w = F.md(dt)
             tt = tstr(lv, dt).replace('開場', '開場 ').replace('開演', '開演 ') or '時刻は未発表'
@@ -150,7 +151,7 @@ def build(name):
     b.append('<ol class="tl-sched">\n' + '\n'.join(rows) + '\n</ol>')
     if d.get('nagoya_note'):
         b.append(f'<p class="note">{esc(d["nagoya_note"])}</p>')
-    b.append('<p class="note">日程は' + '・'.join(f'<a href="{esc(lv["official_url"])}" target="_blank" rel="noopener">{esc(venues[lv["venue_key"]]["name"])}公演の公式発表</a>' for lv in lives)
+    b.append('<p class="note">日程は' + '・'.join(f'<a href="{esc(lv["official_url"])}" target="_blank" rel="noopener">{esc(VN(lv))}公演の公式発表</a>' for lv in lives)
              + (('、時刻は' + '・'.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">公式のお知らせ</a>' for u in ([d['times_src']] if isinstance(d.get('times_src'), str) else d.get('times_src') or []))) if times and d.get('times_src') else '') + f'より（{ckl}時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>')
 
     if any(lv.get('tickets') for lv in lives):
@@ -158,12 +159,12 @@ def build(name):
         b.append(f'<p>会場ごとのチケットの受付です（{ckl}時点の公式発表）。受付中のものは期限に気をつけてください。</p>')
         for lv in lives:
             if lv.get('tickets'):
-                b.append(f'<h3 class="fl-h3">{esc(venues[lv["venue_key"]]["name"])}（{F.jdate(lv["dates"])}）</h3>')
+                b.append(f'<h3 class="fl-h3">{esc(VN(lv))}（{F.jdate(lv["dates"])}）</h3>')
                 b.append(L.tickets_html(lv['tickets'], lv.get('tickets_note', '') if lv is lives[-1] else ''))
 
     for lv in lives:
         key = lv['venue_key']
-        vname = venues[key]['name']
+        vname = VN(lv)
         r, n, near = shrine(key)
         pts = F.guide_summary(key)[:3]
         vn = vnear.get(key) or {}

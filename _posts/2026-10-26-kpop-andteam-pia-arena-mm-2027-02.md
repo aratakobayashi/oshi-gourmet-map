@@ -25,10 +25,14 @@ tags:
 - 遠征
 - 聖地巡礼
 sources:
-- label: '&TEAM公式（HYBE JAPAN 公演特設ページ）'
+- label: HYBE JAPAN（&TEAM CONCERT TOUR 'Mark on You' 公演ページ）
   url: https://www.hybejapan-concert.com/statics/andteam_mark_on_you
-- label: HYBE JAPAN EVENTS
-  url: https://www.hybejapan.events/
+- label: '&TEAM公式（アリーナ公演の開催のお知らせ）'
+  url: https://www.andteam-official.jp/news/dd0f71998bc8
+- label: '&TEAM公式（アリーナ公演 会員先行）'
+  url: https://www.andteam-official.jp/news/a19339147e37
+- label: '&TEAM公式（注意事項）'
+  url: https://www.andteam-official.jp/news/891f690874d2
 - label: ぴあアリーナMM公式サイト（交通アクセス）
   url: https://pia-arena-mm.jp/access/index.html
 - label: フロアガイド
@@ -45,6 +49,8 @@ faq:
   a: みなとみらい線 みなとみらい駅です（1番出口・徒歩7分）。みなとみらい線 新高島駅からは2番出口・徒歩8分。JR 桜木町駅からは東口（北改札）徒歩7分。
 - q: ぴあアリーナMMの近くに&TEAMの聖地はありますか？
   a: 2026年11月時点で会場から10km以内にはありませんが、神奈川県には井上総本舗、江の島 貝作などがあります。
+- q: '&TEAMのぴあアリーナMM公演のチケットの受付は？'
+  a: LUNÉ MEMBERSHIP 会員先行（抽選・アリーナ公演）（11月7日〜11月15日）があります（2026年11月25日時点の公式発表）。プレミアムシート アップグレード抽選は「詳細は後日」（2026年11月25日時点）。一般発売（アリーナ公演）は未発表（2026年11月25日時点）。くわしい条件と値段は公式のお知らせで確かめてください。
 - q: 会場の近くに泊まる宿はどう探せばいいですか？
   a: この記事の「会場から近い宿」に、ぴあアリーナMMから近い順に宿を載せています（楽天トラベル）。「ぴあアリーナMM周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
@@ -76,6 +82,7 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
 <p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<p class="first-live">ほかの会場の日程・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a></p>
 {% include live-list.html group="kpop_andteam" title="&amp;TEAMのこれからの公演" %}
 </section>{% endif %}
 
@@ -83,7 +90,7 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 <p class="live-cd" data-d="2027-02-13" data-e="2027-02-14"><b>公演日</b>2027年2月13日（土）・14日（日）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#tickets">チケット</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> ぴあアリーナMM周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>
@@ -95,6 +102,10 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 {% include venue-hotels.html key="pia-arena-mm" limit=3 top=true %}{% include hotels-link.html key="pia-arena-mm" %}
 
+<p class="first-live">はじめて&TEAMのライブに行くなら：<a href="/guide/kpop-andteam-first-live/">エンティームのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
+
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a></p>
+
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
@@ -104,7 +115,22 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 <p>会場：<strong>ぴあアリーナMM</strong>（神奈川県）。公演名：2026-2027 &amp;TEAM CONCERT TOUR 'Mark on You'。</p>
 
-<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">日程・時刻は2026年11月25日時点の<a href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこの記事では扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="tickets">チケットの受付</h2>
+
+<p>ぴあアリーナMM公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
+
+<ol class="tk-list">
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">プレミアムシート アップグレード抽選</b><span class="tk__p">「詳細は後日」（2026年11月25日時点）</span><a class="tk__go" href="https://www.andteam-official.jp/news/a19339147e37" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売（アリーナ公演）</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.hybejapan-concert.com/statics/andteam_mark_on_you" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+<details class="tk-done"><summary>終わった受付（1）</summary>
+<ol class="tk-list">
+  <li class="tk is-done" data-s="2026-11-07T13:00" data-e="2026-11-15T23:59"><span class="tk__st">終了</span><b class="tk__n">LUNÉ MEMBERSHIP 会員先行（抽選・アリーナ公演）</b><span class="tk__p">11月7日（土）13:00〜11月15日（日）23:59</span><span class="tk__w">ファンクラブ LUNÉ MEMBERSHIP（日本）の会員（同行者は会員でなくてよい）・指定席。当落と入金は11月24日11:00〜11月29日23:00（ローソン・ミニストップで支払い）</span><a class="tk__go" href="https://www.andteam-official.jp/news/a19339147e37" target="_blank" rel="noopener">公式のお知らせ</a></li>
+</ol>
+</details>
+<p class="note">チケットはローソン・ミニストップで発券する紙のチケットです。3歳以上はチケットが必要で、3歳未満は入れません。プレミアムシートの一般販売はありません。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -189,6 +215,8 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 <ul>
   <li><a href="/guide/pia-arena-mm/">ぴあアリーナMM ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="/guide/kpop-andteam-first-live/">エンティームのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.kpop_andteam.u }}">&TEAMのお店一覧</a>（グループのページ）</li>
 </ul>
 

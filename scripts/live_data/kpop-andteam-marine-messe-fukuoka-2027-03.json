@@ -6,12 +6,20 @@
  "checked_at": "2026-11-25",
  "sources": [
   {
-   "label": "&TEAM公式（HYBE JAPAN 公演特設ページ）",
+   "label": "HYBE JAPAN（&TEAM CONCERT TOUR 'Mark on You' 公演ページ）",
    "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
   },
   {
-   "label": "HYBE JAPAN EVENTS",
-   "url": "https://www.hybejapan.events/"
+   "label": "&TEAM公式（アリーナ公演の開催のお知らせ）",
+   "url": "https://www.andteam-official.jp/news/dd0f71998bc8"
+  },
+  {
+   "label": "&TEAM公式（アリーナ公演 会員先行）",
+   "url": "https://www.andteam-official.jp/news/a19339147e37"
+  },
+  {
+   "label": "&TEAM公式（注意事項）",
+   "url": "https://www.andteam-official.jp/news/891f690874d2"
   }
  ],
  "venue_key": "marine-messe-fukuoka",
@@ -27,5 +35,34 @@
   "2027-03-20": "開場16:00／開演17:00",
   "2027-03-21": "開場15:00／開演16:00",
   "2027-03-22": "開場15:00／開演16:00"
- }
+ },
+ "tickets": [
+  {
+   "name": "LUNÉ MEMBERSHIP 会員先行（抽選・アリーナ公演）",
+   "start": "2026-11-07T13:00",
+   "end": "2026-11-15T23:59",
+   "who": "ファンクラブ LUNÉ MEMBERSHIP（日本）の会員（同行者は会員でなくてよい）",
+   "what": "指定席。当落と入金は11月24日11:00〜11月29日23:00（ローソン・ミニストップで支払い）",
+   "url": "https://www.andteam-official.jp/news/a19339147e37"
+  },
+  {
+   "name": "プレミアムシート アップグレード抽選",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://www.andteam-official.jp/news/a19339147e37",
+   "note": "「詳細は後日」（2026年11月25日時点）"
+  },
+  {
+   "name": "一般発売（アリーナ公演）",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+   "note": "未発表（2026年11月25日時点）"
+  }
+ ],
+ "tickets_note": "チケットはローソン・ミニストップで発券する紙のチケットです。3歳以上はチケットが必要で、3歳未満は入れません。プレミアムシートの一般販売はありません。",
+ "venue_name": "マリンメッセ福岡 B館",
+ "public_note": "会場はマリンメッセ福岡のB館で、A館とは別の建物です。この記事の行き方・座席・持ち込みはA館の会場ガイドのもので、宿や近くの店の距離もA館から測っています。入口などは公式の案内で確かめてください。"
 }

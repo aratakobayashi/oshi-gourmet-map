@@ -110,19 +110,22 @@ def old_date(slug):
     return os.path.basename(old[0])[:10] if old else None
 
 
-def ev(name, d, t, key, url):
+def ev(name, d, t, key, url, vn=''):
     """構造化データ MusicEvent 用（_includes/event-ld.html）。t は「開場16:00／開演18:00」の形"""
     t = t or ''
     door = re.search(r'開場\s*(\d{1,2}:\d{2})', t)
     start = re.search(r'開演\s*(\d{1,2}:\d{2})', t)
     z = lambda m: m.group(1).zfill(5) if m else ''
-    return {'name': name, 'date': d, 'start': z(start), 'door': z(door), 'venue_key': key, 'url': url}
+    e = {'name': name, 'date': d, 'start': z(start), 'door': z(door), 'venue_key': key, 'url': url}
+    if vn:
+        e['venue_name'] = vn
+    return e
 
 
-def evs(name, d, t, key, url):
+def evs(name, d, t, key, url, vn=''):
     """1日の公演の構造化データ。2回公演（「1回目 開場10:30／開演12:30、2回目 開場17:00／開演19:00」）は2つにする"""
     parts = [x for x in re.split(r'[、,]', t or '') if '開演' in x] or [t]
-    return [ev(name, d, x, key, url) for x in parts]
+    return [ev(name, d, x, key, url, vn) for x in parts]
 
 
 def tickets_html(tk, note='', today=None):
@@ -172,7 +175,7 @@ def build(slug, ctx):
     key = spec['venue_key']
     v = venues[key]
     vd = J(f'scripts/venue_data/{key}.json')
-    vname = v['name']
+    vname = spec.get('venue_name') or v['name']   # 同じ会場データの別の建物（マリンメッセ福岡 B館など）は live_data の venue_name
     lat, lng = v['lat'], v['lng']
     dates = sorted(spec['dates'])
     ended = dates[-1] < TODAY
@@ -283,7 +286,7 @@ def build(slug, ctx):
         'tags': [gl] + ([AKA[g]] if g in AKA else []) + [tour, vname, 'ライブ', '参戦', 'アクセス', '遠征', '聖地巡礼'],
         'sources': spec['sources'] + guide_sources(key)[:3],
         'shop_ids': ids, 'faq': faq, 'pr': True, 'summary': summary,
-        'events': [e for d in dates for e in evs(tour, d, times.get(d), key, spec['official_url'])],
+        'events': [e for d in dates for e in evs(tour, d, times.get(d), key, spec['official_url'], spec.get('venue_name', ''))],
     }
     if os.path.exists(os.path.join(ROOT, 'assets/img/posts', slug, 'thumb.webp')):
         fm['thumbnail'] = f'/assets/img/posts/{slug}/thumb.webp'   # グループ名・会場・日程入り（scripts/live_thumbs.py）

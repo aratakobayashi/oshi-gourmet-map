@@ -188,7 +188,7 @@ def build(gid):
     b.append(f'<p id="stay">{d["stay_text"]}</p>')
     for sh in shows:
         key = sh['venue_key']
-        vname = venues[key]['name']
+        vname = sh.get('venue_name') or venues[key]['name']
         vn = vnear.get(key) or {}
         hk, hj = vn.get('hk') or vname, vn.get('hj') or ''
         live = ('{% for p in site.posts %}{% if p.article_type == \'live\' and p.group == \'' + d['group'] + '\' and p.venue_key == \'' + key +

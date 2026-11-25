@@ -1,0 +1,359 @@
+{
+ "slug": "kpop-andteam-first-live",
+ "group": "kpop_andteam",
+ "name": "&TEAM",
+ "kana": "エンティーム",
+ "aka": "エンティーム",
+ "color": "#334155",
+ "checked_at": "2026-11-25",
+ "title": "&TEAM（エンティーム）ライブ初参戦ガイド｜応援方法・ライトスティック・紙チケットと本人確認・グッズ・アリーナ公演2027",
+ "description": "&TEAM（エンティーム）のライブにはじめて行く人のために、公式の案内で確かめたことをまとめました。『2026-2027 &TEAM CONCERT TOUR 'Mark on You'』のアリーナ公演（ぴあアリーナMM 2027年2月13日・14日・マリンメッセ福岡 B館 3月20日〜22日）の開場・開演、紙のチケットと本人確認の3点、席の種類、決まり、電源を入れるだけで演出に参加できる公式ライトスティック、公式の応援方法と動画、グッズ、会場の近くの宿まで。",
+ "shows": [
+  {
+   "label": "ぴあアリーナMM",
+   "title": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+   "venue_key": "pia-arena-mm",
+   "dates": [
+    "2027-02-13",
+    "2027-02-14"
+   ],
+   "open": "16:00",
+   "start": "17:00",
+   "src": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+   "src_label": "HYBE JAPANの公演ページ",
+   "time_note": "2月14日は開場15:00・開演16:00"
+  },
+  {
+   "label": "マリンメッセ福岡 B館",
+   "title": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+   "venue_key": "marine-messe-fukuoka",
+   "dates": [
+    "2027-03-20",
+    "2027-03-21",
+    "2027-03-22"
+   ],
+   "open": "16:00",
+   "start": "17:00",
+   "src": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+   "venue_name": "マリンメッセ福岡 B館"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}\">&TEAM Mark on You アリーナ公演2027まとめ（日程・時刻・セトリ）</a>",
+ "ticket_link": "<a href=\"{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}#tickets\">&TEAM アリーナ公演2027まとめ「チケットの受付」</a>",
+ "intro": "&TEAM（エンティーム）のライブに、はじめて行く人のためのページです。チケットの受け取りから入場、本人確認、席の種類、決まり、ライトスティック、応援方法、グッズ、帰りの宿まで、<strong>公式の案内で確かめたこと</strong>だけをまとめました。",
+ "entry_lead": "このツアーのチケットは<strong>すべて紙のチケット</strong>で、ローソン・ミニストップで発券します（公演のおよそ5日前から開演まで）。ファンクラブで当たった人は、入場時に本人確認があることがあります。",
+ "three": [
+  [
+   "紙のチケットを発券",
+   "ローソン・ミニストップで発券。発券できるのは公演のおよそ5日前から開演まで。転売・譲渡（家族や友だちに無料で譲るのも）は禁止"
+  ],
+  [
+   "本人確認の3点セット",
+   "①WeverseアプリのONLINE MEMBERSHIP CARD（スクリーンショット不可）②顔写真付きの身分証明書1点③チケット。チケットの名前と①②が同じであること。プレミアムシートは全員、ほかの席は会員の一部が確認される"
+  ],
+  [
+   "応援は公式グッズを胸の高さで",
+   "うちわ・ライトスティックは胸の高さで。公式でない光るもの・音が出るもの、アーティストの画像を使ったグッズは使えない"
+  ]
+ ],
+ "three_more": {
+  "q": "使える身分証明書は？",
+  "a": "顔写真付きの学生証・パスポート・顔写真付きのマイナンバーカード・運転免許証・顔写真付きのクレジットカード・在留カード・写真付きの障害者手帳の7つです。パスポート以外は日本で発行されたもの。コピー・期限切れは使えません（公式の注意事項より）。"
+ },
+ "flow": [
+  [
+   "5日前ごろ",
+   "チケットを発券",
+   "ローソン・ミニストップで紙のチケットを発券。WeverseのONLINE MEMBERSHIP CARDをアプリに保存しておくと安心"
+  ],
+  [
+   "{open}",
+   "開場",
+   "手荷物の検査あり。撮影・録音できる電子機器は持ち込めない。スーツケースはコインロッカーへ。会場にはライトスティックのサポートブース"
+  ],
+  [
+   "{start}",
+   "開演",
+   "撮影・録画・録音・配信は禁止（スマホはマナーモードにしてかばんへ）。マスクなしで声援・歌唱をしてよい"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "終演の時刻は未発表。福岡は3日間あるので、続けて行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "ticket",
+   "紙のチケット（ローソン・ミニストップで発券）"
+  ],
+  [
+   "id",
+   "顔写真付きの身分証明書（原本）"
+  ],
+  [
+   "member",
+   "WeverseのONLINE MEMBERSHIP CARD（ファンクラブのチケット）"
+  ],
+  [
+   "light",
+   "公式ライトスティック（新しい単4アルカリ電池3本）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに（スーツケースはコインロッカーへ）"
+  ]
+ ],
+ "seats_lead": "アリーナ公演の席の種類です（<a href=\"https://www.andteam-official.jp/news/dd0f71998bc8\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>より。値段はこのページでは扱いません）。",
+ "seats": [
+  [
+   "指定席",
+   "ふつうの指定席。1公演4枚まで（ファンクラブ先行）"
+  ],
+  [
+   "プレミアムシート",
+   "前方エリアの保証・専用のオリジナル商品・優先入場レーンつき。ファンクラブ会員だけのアップグレード抽選で決まる（一般販売はなし。同行者も会員）"
+  ]
+ ],
+ "seats_note": "3歳以上はチケットが必要で、3歳未満は入れません。車椅子の人は、公演の1週間前までに主催に連絡します。",
+ "rules": {
+  "ng_items": [
+   "カメラ・録画できる双眼鏡・録音機などの電子機器",
+   "公式でない光るもの・音が出る応援グッズ",
+   "アーティストの画像を使ったグッズ",
+   "まわりの迷惑になる大きさの応援グッズ"
+  ],
+  "ng_acts": [
+   "撮影・録画・録音・配信",
+   "うちわやライトスティックを胸より上に上げる",
+   "プレゼント・差し入れ（手紙はファンクラブのブースの箱へ）",
+   "会場の中でのファンの企画",
+   "入待ち・出待ち"
+  ],
+  "ok": [
+   "マスクなしで声援・歌唱をしてよい",
+   "同行者は会員でなくてもよい（プレミアムシートを除く）",
+   "チケットの001と002〜004は別々に入場してよい"
+  ],
+  "note": "出典：<a href=\"https://www.andteam-official.jp/news/891f690874d2\" target=\"_blank\" rel=\"noopener\">&TEAM公式の注意事項</a>・<a href=\"https://www.hybejapan-concert.com/statics/andteam_mark_on_you\" target=\"_blank\" rel=\"noopener\">HYBE JAPANの公演ページ</a>。"
+ },
+ "penlight": {
+  "heading": "公式ライトスティック",
+  "text": "公式ライトスティックは「&TEAM OFFICIAL LIGHT STICK VER.2」（とVER.1）です。このツアーは全体制御の演出なので、<strong>電源を入れるだけで演出に参加でき、ペアリングや座席の入力はいりません</strong>。新しい単4アルカリ電池3本（別売り）を入れ、専用アプリでファームウェアを最新（1.4.0）にしておきます。会場にはサポートブースがあります。VER.1の無線の演出は2027年末で終わる見込みと案内されています。",
+  "colors": [],
+  "modes": [
+   "電源を入れるだけで演出に参加",
+   "ペアリング・座席の入力は不要",
+   "新しい単4アルカリ電池3本",
+   "アプリでファームウェアを最新に"
+  ],
+  "note": "出典：<a href=\"https://www.andteam-official.jp/news/914fd6075b24\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>・<a href=\"https://shop.weverse.io/ja/shop/JPY/artists/75/sales/67746\" target=\"_blank\" rel=\"noopener\">Weverse Shop</a>。公式でない光るもの・音が出るものは使えません。"
+ },
+ "members": {
+  "list": [
+   "EJ",
+   "FUMA",
+   "K",
+   "NICHOLAS",
+   "YUMA",
+   "JO",
+   "HARUA",
+   "TAKI",
+   "MAKI"
+  ],
+  "colors": {},
+  "note": "並びは<a href=\"https://www.andteam-official.jp/profile\" target=\"_blank\" rel=\"noopener\">公式プロフィール</a>の順。公式サイトにメンバーカラーの案内は見当たりません。ファンの呼び名は「LUNÉ」（<a href=\"https://www.oricon.co.jp/news/2487008/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。"
+ },
+ "call": {
+  "text": "&TEAMは公式サイトに<a href=\"https://www.andteam-official.jp/fanchant\" target=\"_blank\" rel=\"noopener\"><strong>公式の応援方法</strong></a>のページがあり、曲ごとに掛け声の部分が示されています。公式YouTubeにも応援方法の動画（Mark on Me・Good Boy・Love Jang・We on Fire・Bewitched など）があります。公演では、マスクなしで声援・歌唱をしてよいと案内されています。ツアー初日のライブレポートでは、「Night to howl!」で会場全体の掛け声が起きたと伝えられています（<a href=\"https://www.thefirsttimes.jp/report/0000900886/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>）。",
+  "memo": "はじめてなら、まず公式の応援方法のページと下の動画で、よく歌われる曲の掛け声を覚えておくのが近道です。歌詞と掛け声は公式のページで確かめてください。",
+  "channel": "&TEAM",
+  "videos": [
+   [
+    "E2Jq7OqCZw0",
+    "Mark on Me",
+    "公式の応援方法"
+   ],
+   [
+    "a1IdRt_kXUk",
+    "Good Boy",
+    "公式の応援方法"
+   ],
+   [
+    "ETfR2MjRlvY",
+    "Love Jang",
+    "公式の応援方法"
+   ],
+   [
+    "S09OPG7TvmQ",
+    "Bewitched",
+    "公式の応援方法"
+   ],
+   [
+    "Z7tiMUiSORo",
+    "Bewitched",
+    "Live Clip"
+   ],
+   [
+    "2TgntLCHojQ",
+    "One Night Carnival",
+    "Stage Cam @ BELLUNA DOME"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "このツアーの全曲のセットリストは、大手報道にはまだ載っていません。そこで、ツアー初日（2026年10月15日 東京ガーデンシアター）のライブレポートに出てくる曲を並べました。アリーナ公演で歌われるかは分かりませんが、予習の手がかりになります。",
+  "top_label": "ツアー初日のライブレポートに出てくる曲（大手報道から）",
+  "top": [
+   "Good Boy",
+   "러브장（Love Jang）",
+   "Accelerate",
+   "Empty",
+   "Mark on Me",
+   "Night to howl!",
+   "For us"
+  ],
+  "sets": [
+   {
+    "title": "ツアー初日（2026年10月15日 東京ガーデンシアター）",
+    "parts": [
+     [
+      "報道に出てくる曲",
+      "Good Boy・러브장（Love Jang）・Accelerate（ツアー初披露）・Empty・Mark on Me・Night to howl! ほか（全26曲）"
+     ],
+     [
+      "アンコール",
+      "For us（ライブ初披露）"
+     ]
+    ],
+    "src": [
+     "THE FIRST TIMES",
+     "https://www.thefirsttimes.jp/report/0000900886/",
+     "一部"
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "ツアーグッズ",
+   "オンラインの事前販売（2026年9月）とポップアップストア（10月）は終了。ホール公演の会場販売は、SMART ORDERの整理番号（開場の4時間30分前から）で買う形でした（<a href=\"https://www.andteam-official.jp/news/914fd6075b24\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）"
+  ],
+  [
+   "アリーナ公演の会場販売",
+   "「詳細につきましては後日お知らせ」（2026年11月25日時点）"
+  ],
+  [
+   "公式ライトスティック",
+   "Weverse Shopで販売（1会員1本まで）。VER.1はこのツアーが最後の販売（<a href=\"https://shop.weverse.io/ja/shop/JPY/artists/75/sales/67746\" target=\"_blank\" rel=\"noopener\">Weverse Shop</a>）"
+  ]
+ ],
+ "fc_note": "公式ファンクラブは「&TEAM OFFICIAL FANCLUB LUNÉ MEMBERSHIP」です（<a href=\"https://campaigns.weverse.io/WS238G3ERD?lang=JA\" target=\"_blank\" rel=\"noopener\">入会・更新</a>）。日本の会員先行は、Weverse Shopで買う日本のLUNÉ MEMBERSHIPが必要です。",
+ "official_links": [
+  [
+   "公式サイト",
+   "https://www.andteam-official.jp/",
+   "お知らせ・チケット・応援方法"
+  ],
+  [
+   "公演ページ（HYBE JAPAN）",
+   "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+   "日程・席・注意事項"
+  ],
+  [
+   "公式の応援方法",
+   "https://www.andteam-official.jp/fanchant",
+   "曲ごとの掛け声"
+  ],
+  [
+   "Weverse Shop",
+   "https://shop.weverse.io/ja/shop/JPY/artists/75/sales/67746",
+   "ライトスティック・グッズ"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/channel/UCHD1jo5RhijLfx5-0Ehe_cg",
+   "応援方法・ライブ映像"
+  ]
+ ],
+ "stay_text": "ぴあアリーナMMは土日（2月13日は17:00開演、14日は16:00開演）、マリンメッセ福岡 B館は3月20日〜22日の3連休（20日は17:00開演、21日・22日は16:00開演）です。終演の時刻は発表されていません。続けて行く人や遠くから行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "sources": [
+  [
+   "HYBE JAPAN（Mark on You 公演ページ）",
+   "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
+  ],
+  [
+   "&TEAM公式（アリーナ公演の開催のお知らせ）",
+   "https://www.andteam-official.jp/news/dd0f71998bc8"
+  ],
+  [
+   "&TEAM公式（アリーナ公演 会員先行）",
+   "https://www.andteam-official.jp/news/a19339147e37"
+  ],
+  [
+   "&TEAM公式（注意事項）",
+   "https://www.andteam-official.jp/news/891f690874d2"
+  ],
+  [
+   "&TEAM公式（チケットの発券）",
+   "https://www.andteam-official.jp/news/e81e078a06d6"
+  ],
+  [
+   "&TEAM公式（会場販売・ライトスティック）",
+   "https://www.andteam-official.jp/news/914fd6075b24"
+  ],
+  [
+   "&TEAM公式（応援方法）",
+   "https://www.andteam-official.jp/fanchant"
+  ],
+  [
+   "&TEAM公式（プロフィール）",
+   "https://www.andteam-official.jp/profile"
+  ],
+  [
+   "THE FIRST TIMES（ツアー初日のライブレポート）",
+   "https://www.thefirsttimes.jp/report/0000900886/"
+  ],
+  [
+   "オリコン（ツアー初日・ファンネーム）",
+   "https://www.oricon.co.jp/news/2487008/full/"
+  ]
+ ],
+ "summary": [
+  "アリーナ公演は ぴあアリーナMM 2027年2月13日（開場16:00・開演17:00）・14日（開場15:00・開演16:00）、マリンメッセ福岡 B館 3月20日（開場16:00・開演17:00）・21日・22日（開場15:00・開演16:00）",
+  "チケットはすべてローソン・ミニストップで発券する紙のチケット。本人確認はONLINE MEMBERSHIP CARD・顔写真付きの身分証明書・チケットの3点",
+  "公式ライトスティックは電源を入れるだけで演出に参加できる（ペアリング・座席の入力は不要）",
+  "公式サイトに応援方法のページと公式YouTubeに応援方法の動画。マスクなしで声援・歌唱をしてよい",
+  "うちわ・ライトスティックは胸の高さで。公式でない光るものは禁止"
+ ],
+ "faq": [
+  [
+   "&TEAMのアリーナ公演の開場・開演は何時ですか？",
+   "ぴあアリーナMMは2月13日が開場16:00・開演17:00、14日が開場15:00・開演16:00。マリンメッセ福岡 B館は3月20日が開場16:00・開演17:00、21日・22日が開場15:00・開演16:00です（HYBE JAPANの公演ページより）。"
+  ],
+  [
+   "チケットは紙ですか？",
+   "はい。このツアーのチケットはすべて紙のチケットで、ローソン・ミニストップで発券します（公演のおよそ5日前から開演まで）。"
+  ],
+  [
+   "入場に必要なものは？",
+   "チケットと顔写真付きの身分証明書、ファンクラブのチケットはWeverseのONLINE MEMBERSHIP CARDも持っていきます。プレミアムシートは全員、ほかの席は会員の一部が本人確認されます。"
+  ],
+  [
+   "ライトスティックの設定は必要ですか？",
+   "いりません。このツアーは全体制御の演出なので、公式ライトスティック（VER.1／VER.2）の電源を入れるだけで参加できます。ファームウェアは専用アプリで最新にしておきます。"
+  ],
+  [
+   "応援方法（掛け声）はどこで覚えられますか？",
+   "&TEAMの公式サイトの「応援方法」のページと、公式YouTubeの応援方法の動画で覚えられます。"
+  ],
+  [
+   "子どもも入れますか？",
+   "3歳以上はチケットが必要で、3歳未満は入れません。"
+  ],
+  [
+   "チケットはどう申し込みますか？",
+   "アリーナ公演はファンクラブ LUNÉ MEMBERSHIPの会員先行が終わり、プレミアムシートのアップグレード抽選と一般発売はまだ発表されていません（2026年11月25日時点）。くわしくは「&TEAM アリーナ公演2027まとめ」の「チケットの受付」へ。"
+  ]
+ ]
+}
