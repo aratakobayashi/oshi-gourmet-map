@@ -327,6 +327,10 @@
   [
    "オリコン（DAY HALL PHASE 2026 初日）",
    "https://www.oricon.co.jp/news/2486390/full/"
+  ],
+  [
+   "Da-iCE公式（TERMiNaL）",
+   "https://da-ice.jp/discography/detail.php?id=1021304"
   ]
  ],
  "summary": [
@@ -360,6 +364,70 @@
   [
    "Da-iCEのファンの呼び名は？",
    "「6面」です（モデルプレスの記事より）。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "9thアルバム『TERMiNaL』（2026年1月）です。アリーナツアー「TERMiNaL」では収録曲がすべて歌われ、ファイナルで初のドーム公演が発表されました。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "アリーナツアー「EntranCE」（2025年）",
+   "4都市8公演で全公演ソールドアウト。さいたまスーパーアリーナのファイナルは約2万人で、5人はセンターステージの上から登場",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4678733"
+  ],
+  [
+   "アリーナツアー「TERMiNaL」（2026年）",
+   "空港の管制塔に見立てたセットから登場し、「TERMINAL」で開幕。4月26日のファイナルの終演後に、初の単独ドーム公演がサプライズで発表された",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000802070/"
+  ],
+  [
+   "ドームへの言葉",
+   "和田颯は「過去最大の覚悟を僕たちは決めました。この覚悟を受け取りに来てくれたらうれしいです」、大野雄大は「もっともっと広い景色を皆さんと見たい」と話した",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000802070/"
+  ],
+  [
+   "7年ぶりのホールツアー（2026年秋）",
+   "全22公演を「Side A」「Side B（a-i side）」の2つのセットリストで11公演ずつ。初日にはドラマ主題歌「うららか」を初披露",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2486390/full/"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた最近の大きなライブの様子です。公式は、ツアーの歩みを「PHASE」から始まり、“入口”の「EntranCE」、続く「TERMiNaL」を経て、初の単独ドーム公演『DOME PHASE』に辿り着くものとして紹介しています（<a href=\"https://da-ice.jp/schedule/tour.php?id=1003011\" target=\"_blank\" rel=\"noopener\">公式</a>）。",
+ "album": {
+  "title": "TERMiNaL",
+  "text": "2026年1月14日発売の9thアルバム『TERMiNaL』には、次のステージへ歩み出す“再出発点”として、新たな未来へ飛び立つ意思が込められています（<a href=\"https://da-ice.jp/discography/detail.php?id=1021304\" target=\"_blank\" rel=\"noopener\">公式</a>）。アリーナツアー「TERMiNaL」では、収録曲がすべて歌われました。",
+  "tracks": [
+   "TERMINAL",
+   "Black and White",
+   "OLD meets NEW",
+   "オレンジユース",
+   "Tasty Beating Sound",
+   "Try&Groove",
+   "Monster",
+   "ララバイの前に",
+   "That you know?",
+   "FUNKEYS",
+   "ノンフィクションズ",
+   "Past days"
+  ],
+  "live_songs": [
+   "TERMINAL",
+   "Black and White",
+   "OLD meets NEW",
+   "オレンジユース",
+   "Tasty Beating Sound",
+   "Try&Groove",
+   "Monster",
+   "ララバイの前に",
+   "That you know?",
+   "FUNKEYS",
+   "ノンフィクションズ",
+   "Past days"
+  ],
+  "note": "「ツアーで披露」は、アリーナツアー「TERMiNaL」ファイナル（2026年4月26日）のセットリスト（<a href=\"https://www.thefirsttimes.jp/report/0000802070/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>）に入っていた曲です。最新シングルは、ドラマ主題歌「うららか」（2026年10月）。"
+ }
 }

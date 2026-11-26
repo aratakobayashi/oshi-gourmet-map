@@ -386,6 +386,18 @@
   [
    "THE FIRST TIMES（BLOOD SAGA ソウル公演）",
    "https://www.thefirsttimes.jp/report/0000806100/"
+  ],
+  [
+   "オリコン（WALK THE LINE IN JAPAN）",
+   "https://www.oricon.co.jp/news/2353175/full/"
+  ],
+  [
+   "オリコン（スタジアム公演）",
+   "https://www.oricon.co.jp/news/2399247/full/"
+  ],
+  [
+   "公式（THE SIN : VANISH）",
+   "https://enhypen-jp.weverse.io/discography/0b482972a2d9"
   ]
  ],
  "summary": [
@@ -423,6 +435,63 @@
   [
    "グッズはどこで買えますか？",
    "Weverse Shopの事前販売と、東京・愛知・福岡・大阪のPOP UP STORE（Weverse Spotの予約）です。東京ドームの公演の日は、プリズムホールのWeverse Pickup Booth（Weverse Shopの会場受取）で買えます。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "このツアーの曲の中心になっている『THE SIN : VANISH』（2026年1月）です。ソウル公演では「Knife」「Stealer」「Big Girls Don’t Cry」などが歌われたと報じられています。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "初の日本ドームツアー「WALK THE LINE IN JAPAN」（2024〜25年）",
+   "ベルーナドームで開幕し、2日間で約6.5万人。2日目は本編23曲とアンコール3曲の全26曲（7人のとき）",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2353175/full/"
+  ],
+  [
+   "初のスタジアム公演（2025年夏）",
+   "ドームツアーの追加公演として開かれ、ドームと合わせて4都市10公演・約40万人と日本で最大の動員。大阪・ヤンマースタジアム長居では水を使った演出や、満月の背景で歌う「Moonstruck」も",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2399247/full/"
+  ],
+  [
+   "最新ツアー「BLOOD SAGA」ソウル公演（2026年5月）",
+   "3日間で約3万2千人。コウモリの形のステージと赤い照明、バンドの生演奏の中で160分・27曲。アンコールは「Knife」「Go Big or Go Home」「Paranormal」",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000806100/"
+  ],
+  [
+   "6人で初の4大ドームへ",
+   "6人で臨んだソウル公演では、生バンドに合わせたアレンジやトロッコ、ダブルアンコールも。日本公演はグループ初の4大ドームツアー",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2452377/full/"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた前回の日本ツアーと、このツアーのソウル公演の様子です。",
+ "album": {
+  "title": "THE SIN : VANISH",
+  "text": "このツアーの曲の中心になっているのが、2026年1月16日に出た7th Mini Album『THE SIN : VANISH』です（<a href=\"https://enhypen-jp.weverse.io/discography/0b482972a2d9\" target=\"_blank\" rel=\"noopener\">公式のディスコグラフィ</a>）。ソウル公演のライブレポートには、このアルバムの「Knife」「Stealer」などが出てきます。8月には続く8th Mini Album『THE SIN : BLISS』も出ています。",
+  "tracks": [
+   "The Beginning",
+   "No Way Back (Feat. So!YoON!)",
+   "The Fugitives",
+   "Knife",
+   "Stealer",
+   "The Voice",
+   "Witnesses",
+   "Big Girls Don’t Cry",
+   "Lost Island",
+   "Sleep Tight",
+   "The Beyond"
+  ],
+  "live_songs": [
+   "No Way Back (Feat. So!YoON!)",
+   "Knife",
+   "Stealer",
+   "Big Girls Don’t Cry",
+   "Lost Island",
+   "Sleep Tight"
+  ],
+  "note": "「ツアーで披露」は、BLOOD SAGA のソウル公演・アメリカ公演のライブレポート（<a href=\"https://www.thefirsttimes.jp/report/0000806100/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>・<a href=\"https://www.oricon.co.jp/news/2452377/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>・<a href=\"https://www.billboard-japan.com/d_news/detail/164133/2\" target=\"_blank\" rel=\"noopener\">Billboard JAPAN</a>）に曲名が出てくる曲です。"
+ }
 }

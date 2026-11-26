@@ -378,6 +378,18 @@
   [
    "Billboard JAPAN（秋の桃神祭2026 セットリスト）",
    "https://www.billboard-japan.com/d_news/detail/166901/2"
+  ],
+  [
+   "Billboard JAPAN（秋の桃神祭2026）",
+   "https://www.billboard-japan.com/d_news/detail/166901/2"
+  ],
+  [
+   "オリコン（Momoiro Christmas 2025 ODYSSEY）",
+   "https://www.oricon.co.jp/news/2426506/full/"
+  ],
+  [
+   "8thアルバム特設サイト",
+   "https://mcz-release.com/music/8th-album/"
   ]
  ],
  "summary": [
@@ -415,6 +427,56 @@
   [
    "グッズはいつ発表されますか？",
    "2026年11月23日時点では「COMING SOON」です。各会場で開場前から先行販売があり、終演後も30分ほど販売すると案内されています。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "ツアーは2027年3月3日発売の8thアルバム『VOGUE AND ROMANCE』を携えたもの。発表されている収録曲のうち「ムネモシュネ」「会心の一劇」「無 我 夢 中」「レナセールセレナーデ」は2026年のライブで歌われています。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "秋の桃神祭2026（2026年10月）",
+   "千葉県長生村の野外ライブで、2日間で約3万6000人。1日目と2日目でテーマが違い、地元の神輿や「長生音頭」とのコラボ、ペンライトのウェーブを起こす新曲「無 我 夢 中」も",
+   "Billboard JAPAN",
+   "https://www.billboard-japan.com/d_news/detail/166901/2"
+  ],
+  [
+   "MCZ THE LIVE 2026春（2026年5月）",
+   "結成18周年の東京体育館の一夜限りのライブ。「可視光線」で始まり、トロッコも交えた全17曲。新曲「ムネモシュネ」を初披露",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2452728/full/"
+  ],
+  [
+   "Momoiro Christmas 2025 ODYSSEY",
+   "2025年12月のさいたまスーパーアリーナ。会場を宇宙船に見立て、大型LEDの映像を使った演出。約8分の「idola」も初めて歌われた",
+   "オリコン",
+   "https://www.oricon.co.jp/news/2426506/full/"
+  ],
+  [
+   "アルバムとアリーナツアーの発表",
+   "桃神祭のアンコールで、20周年（2028年5月）に向けた「THE ULTIMATE YEAR」の始動と、8thアルバム『VOGUE AND ROMANCE』、アルバムを携えたアリーナツアーが発表された。アルバムのツアーは2022年の『祝典』以来、約5年ぶり",
+   "Billboard JAPAN",
+   "https://www.billboard-japan.com/d_news/detail/166901/2"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた最近の大きなライブの様子です。",
+ "album": {
+  "title": "VOGUE AND ROMANCE",
+  "text": "アリーナツアーは、2027年3月3日発売の8thアルバム『VOGUE AND ROMANCE』を携えたツアーです（<a href=\"https://www.momoclo.net/archives/news/261017_02\" target=\"_blank\" rel=\"noopener\">公式のお知らせ</a>）。全14曲で、すでに出ている6曲と新曲8曲が入る予定です。発表されている曲は次のとおりです（2026年11月26日時点）。",
+  "tracks": [
+   "レナセールセレナーデ",
+   "やわく恋して 〜ずっと僕らでいられますように〜",
+   "Event Horizon",
+   "ムネモシュネ",
+   "会心の一劇",
+   "無 我 夢 中"
+  ],
+  "live_songs": [
+   "レナセールセレナーデ",
+   "ムネモシュネ",
+   "会心の一劇",
+   "無 我 夢 中"
+  ],
+  "note": "「ツアーで披露」は、2026年の春（東京体育館）か秋（桃神祭）の大手報道のセットリストに入っていた曲です。収録曲の出典：<a href=\"https://mcz-release.com/music/8th-album/\" target=\"_blank\" rel=\"noopener\">アルバムの特設サイト</a>。"
+ }
 }

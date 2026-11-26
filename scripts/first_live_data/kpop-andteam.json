@@ -317,6 +317,18 @@
   [
    "オリコン（ツアー初日・ファンネーム）",
    "https://www.oricon.co.jp/news/2487008/full/"
+  ],
+  [
+   "THE FIRST TIMES（ベルーナドーム公演）",
+   "https://www.thefirsttimes.jp/report/0000877294/"
+  ],
+  [
+   "モデルプレス（ベルーナドーム公演）",
+   "https://mdpr.jp/music/detail/4840348"
+  ],
+  [
+   "&TEAM公式（Mark on Me）",
+   "https://www.andteam-official.jp/discography/1affd625347f"
   ]
  ],
  "summary": [
@@ -354,6 +366,58 @@
   [
    "チケットはどう申し込みますか？",
    "アリーナ公演はファンクラブ LUNÉ MEMBERSHIPの会員先行が終わり、プレミアムシートのアップグレード抽選と一般発売はまだ発表されていません（2026年11月25日時点）。くわしくは「&TEAM アリーナ公演2027まとめ」の「チケットの受付」へ。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "韓国2nd Mini Album『Mark on Me』（2026年9月）です。ツアー初日のライブレポートには、収録の6曲すべてが出てきます。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "初の単独ドーム公演（2026年9月 ベルーナドーム）",
+   "14都市を回ったアジアツアーのアンコール公演。9人がせり上がりから登場し、ダブルアンコールを含む全29曲・4時間近く",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000877294/"
+  ],
+  [
+   "結成記念「縁DAY」の演出",
+   "ミニモニ。・少女時代「Gee」・ZONE「secret base」のユニットカバー、9人が学ランで歌った「One Night Carnival」、メンバーの運動会も",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4840348"
+  ],
+  [
+   "ツアー「Mark on You」の発表",
+   "ドーム公演のアンコール前の映像で、全国18都市41公演という史上最多の都市と公演数のツアーが発表された。MAKIは「今年が『コンサートの年』になると言っていた約束をやっと発表できてうれしい」",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000877294/"
+  ],
+  [
+   "「Mark on You」の初日（2026年10月 東京ガーデンシアター）",
+   "オーディションのファイナルで結成した会場で開幕。全員でのパフォーマンス中心から、メンバーそれぞれの個性を引き出す演出に。全26曲・約2時間半。タイトルには、ファンのもとへ足を運び、心に&TEAMを“刻印（Mark）”する意味",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000900886/"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた最近の大きなライブの様子です。",
+ "album": {
+  "title": "Mark on Me",
+  "text": "このツアーの新しい曲の中心は、2026年9月8日発売の韓国2nd Mini Album『Mark on Me』です（<a href=\"https://www.andteam-official.jp/discography/1affd625347f\" target=\"_blank\" rel=\"noopener\">公式</a>）。日本の最新EPは『We on Fire』（2026年4月）です。",
+  "tracks": [
+   "Mark on Me",
+   "Good Boy",
+   "Love Jang",
+   "Accelerate",
+   "Empty",
+   "Night to howl!"
+  ],
+  "live_songs": [
+   "Mark on Me",
+   "Good Boy",
+   "Love Jang",
+   "Accelerate",
+   "Empty",
+   "Night to howl!"
+  ],
+  "note": "「ツアーで披露」は、ツアー初日（2026年10月15日）のライブレポート（<a href=\"https://www.thefirsttimes.jp/report/0000900886/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>）に曲名が出てくる曲です。応援方法の動画がある曲は、上の「コール」の章から見られます。"
+ }
 }
