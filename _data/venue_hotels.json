@@ -6996,5 +6996,363 @@
   ],
   "r": 3.0,
   "at": "2026-11-26"
+ },
+ "sekisui-heim-super-arena": {
+  "hotels": [
+   {
+    "n": "沢乙温泉　うちみ旅館",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149102",
+    "m": 570,
+    "st": "利府",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/149102.jpg"
+   },
+   {
+    "n": "ホテルルートイン利府",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192162",
+    "m": 2320,
+    "st": "利府",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/192162.jpg"
+   },
+   {
+    "n": "ＨＯＴＥＬ　ＭＵＳＥＥ　利府店【大人専用１８禁・ハピホテ提携】",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D163213",
+    "m": 2760,
+    "st": "新利府",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/163213.jpg"
+   },
+   {
+    "n": "ＳＯＵ．－ＳＡＵＮＡ＆ＨＯＴＥＬ－",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199241",
+    "m": 2980,
+    "st": "利府",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/199241.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "沢乙温泉　うちみ旅館",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149102",
+    "m": 570,
+    "st": "利府",
+    "ac": "利府駅よりお車にて約１０分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/149102.jpg"
+   },
+   {
+    "n": "ホテルルートイン利府",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192162",
+    "m": 2320,
+    "st": "利府",
+    "ac": "JR東北本線 利府駅から徒歩で約13分、三陸自動車道 利府塩釜ICから車で約5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/192162.jpg"
+   },
+   {
+    "n": "ＨＯＴＥＬ　ＭＵＳＥＥ　利府店【大人専用１８禁・ハピホテ提携】",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D163213",
+    "m": 2760,
+    "st": "新利府",
+    "ac": "東北本線　新利府駅よりお車で約５分、仙台北部道路利府ＩＣよりお車で約１０分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/163213.jpg"
+   },
+   {
+    "n": "ＳＯＵ．－ＳＡＵＮＡ＆ＨＯＴＥＬ－",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199241",
+    "m": 2980,
+    "st": "利府",
+    "ac": "利府駅からお車で10分/仙台駅からお車で約40分 /仙台空港からお車で約35分 /三陸自動車道「利府中IC」より約8分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/199241.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
+ },
+ "anabuki-arena-kagawa": {
+  "hotels": [
+   {
+    "n": "瀬の宿",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198492",
+    "m": 280,
+    "st": "高松（香川）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/198492.jpg"
+   },
+   {
+    "n": "ＪＲホテルクレメント高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14862",
+    "m": 280,
+    "st": "高松空港",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/14862.jpg"
+   },
+   {
+    "n": "Ａｌｐｈａｂｅｄ　サンポート高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167741",
+    "m": 310,
+    "st": "高松（香川）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167741.jpg"
+   },
+   {
+    "n": "ＪＲクレメントイン高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167467",
+    "m": 320,
+    "st": "高松（香川）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167467.jpg"
+   },
+   {
+    "n": "ホテルエリアワン高松（ホテルエリアワングループ）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70661",
+    "m": 390,
+    "st": "高松（香川）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/70661.jpg"
+   },
+   {
+    "n": "万喜屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151451",
+    "m": 410,
+    "st": "高松（香川）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/151451.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "瀬の宿",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198492",
+    "m": 280,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩約５分、高松道高松中央ICよりお車で約25分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/198492.jpg"
+   },
+   {
+    "n": "ＪＲホテルクレメント高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14862",
+    "m": 280,
+    "st": "高松空港",
+    "ac": "ＪＲ高松駅徒歩１分　高松空港よりバスにて４５分　タクシーにて３０分　サンポートホール隣接　レクザムホール徒歩８分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/14862.jpg"
+   },
+   {
+    "n": "Ａｌｐｈａｂｅｄ　サンポート高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167741",
+    "m": 310,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅より徒歩にて約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167741.jpg"
+   },
+   {
+    "n": "ＪＲクレメントイン高松",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167467",
+    "m": 320,
+    "st": "高松（香川）",
+    "ac": "ＪＲホテルクレメント高松隣／高松駅、高松築港駅徒歩１分／高松港徒歩３分／高松西IC、高松中央ICより車25分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167467.jpg"
+   },
+   {
+    "n": "ホテルエリアワン高松（ホテルエリアワングループ）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70661",
+    "m": 390,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅より徒歩にて4分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/70661.jpg"
+   },
+   {
+    "n": "万喜屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151451",
+    "m": 410,
+    "st": "高松（香川）",
+    "ac": "ＪＲ　高松駅より徒歩にて約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/151451.jpg"
+   },
+   {
+    "n": "高松ゲストハウスＢＪステーション",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153459",
+    "m": 410,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅より徒歩約3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/153459.jpg"
+   },
+   {
+    "n": "Ｔａｂｉｓｔ　高松パールホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D54500",
+    "m": 420,
+    "st": "高松（香川）",
+    "ac": "★ＪＲ高松駅より徒歩１分★高松港より徒歩３分★琴電高松築港駅より徒歩３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/54500.jpg"
+   },
+   {
+    "n": "浜町小院　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D171360",
+    "m": 460,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約６分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/171360.jpg"
+   },
+   {
+    "n": "ｓｉｍａｓｉｍａ－ｓｔａｙ高松駅フロント",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197762",
+    "m": 490,
+    "st": "高松（香川）",
+    "ac": "JR高松駅より徒歩1分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/197762.jpg"
+   },
+   {
+    "n": "ビジネスホテル　ルピナス",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25824",
+    "m": 490,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高速バスのりば正面／ＪＲ高松駅より徒歩２分／琴電 築港駅より徒歩５分／高松中央ＩＣより車で２０分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/25824.jpg"
+   },
+   {
+    "n": "ビジネスホテル清恵",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28071",
+    "m": 510,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅、琴電築港終点",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/28071.jpg"
+   },
+   {
+    "n": "Ａｌｐｈａｂｅｄ　高松ステーション",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176880",
+    "m": 510,
+    "st": "高松（香川）",
+    "ac": "ＪＲ　高松駅より徒歩にて約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/176880.jpg"
+   },
+   {
+    "n": "Ａｒｔ　Ｓｅｔｏｕｃｈｉ　Ｔｒｉｅｎｎａｌｅ　Ｈｏｔｅｌ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D178924",
+    "m": 530,
+    "st": "高松（香川）",
+    "ac": "高松駅より徒歩にて約1分。高松駅南側のサンポート西の丸アーケードを通って「和心居酒屋丸よし」の道向かいです。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/178924.jpg"
+   },
+   {
+    "n": "Ｓｅｔｏｌｉｖｅ　別邸　ｂｙ　４Ｓ　ＳＴＡＹ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198788",
+    "m": 560,
+    "st": "高松（香川）",
+    "ac": "高松駅より徒歩4分、高松空港より車で36分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/198788.jpg"
+   },
+   {
+    "n": "ハイパーイン高松駅前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167674",
+    "m": 560,
+    "st": "高松（香川）",
+    "ac": "ＪＲ　高松駅南口より徒歩にて3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167674.jpg"
+   },
+   {
+    "n": "Ｔａｂｉｓｔ　ニュー月光園",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D40694",
+    "m": 560,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅から徒歩３分、琴電高松築港駅から徒歩５分、",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/40694.jpg"
+   },
+   {
+    "n": "Ｓｅｔｏ家高松駅前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197760",
+    "m": 590,
+    "st": "高松（香川）",
+    "ac": "JR高松駅から徒歩5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/197760.jpg"
+   },
+   {
+    "n": "東横ＩＮＮ高松駅前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193287",
+    "m": 590,
+    "st": "高松（香川）",
+    "ac": "JR高徳線・予讃線「高松駅」南口徒歩5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/193287.jpg"
+   },
+   {
+    "n": "高松センチュリーホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7593",
+    "m": 670,
+    "st": "高松（香川）",
+    "ac": "ＪＲ高松駅より550m。高松空港よりタクシー約30分、リムジンバス約45分、JR高松駅下車550ｍ。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/7593.jpg"
+   },
+   {
+    "n": "ＡＬＰＨＡＢＥＤ　ＩＮＮ　高松駅前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172707",
+    "m": 680,
+    "st": "高松（香川）",
+    "ac": "高松駅より徒歩にて約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/172707.jpg"
+   },
+   {
+    "n": "ホテルパレス高松　〜ＰＡＬＡＣＥ　ＴＡＫＡＭＡＴＳＵ〜",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D777",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から歩いて約7分/高松空港から車で30分/新大阪から電車で約2時間/直ぐにうどん県",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/777.jpg"
+   },
+   {
+    "n": "Ｊａｓｍｉｎ錦町Ｉ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194403",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194403.jpg"
+   },
+   {
+    "n": "Ｊａｓｍｉｎ錦町ＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194407",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194407.jpg"
+   },
+   {
+    "n": "Ｊａｓｍｉｎ錦町ＩＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194408",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194408.jpg"
+   },
+   {
+    "n": "Ｊａｓｍｉｎ錦町ＩＶ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194409",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194409.jpg"
+   },
+   {
+    "n": "Ｊａｓｍｉｎ錦町Ｖ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194410",
+    "m": 690,
+    "st": "高松（香川）",
+    "ac": "高松駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194410.jpg"
+   },
+   {
+    "n": "ホテルリブマックス高松駅前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182568",
+    "m": 750,
+    "st": "高松（香川）",
+    "ac": "JR各線「高松」駅 徒歩5分　フェリー高松港徒歩7分　ことでん高松築港駅徒歩6分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/182568.jpg"
+   },
+   {
+    "n": "Ｓｅｔｏ家琴ノ葉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197715",
+    "m": 770,
+    "st": "高松（香川）",
+    "ac": "JR高松駅より徒歩７分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/197715.jpg"
+   },
+   {
+    "n": "Ｓｅｔｏ家ＳＡＵＮＡ　兵庫町",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199013",
+    "m": 830,
+    "st": "高松（香川）",
+    "ac": "JR高松駅より徒歩７分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/199013.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
  }
 }

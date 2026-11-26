@@ -1,0 +1,64 @@
+{
+ "slug": "kpop-andteam-sekisui-heim-super-arena-2027-03",
+ "group": "kpop_andteam",
+ "tour": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
+ "official_url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+ "checked_at": "2026-11-26",
+ "sources": [
+  {
+   "label": "HYBE JAPAN（&TEAM CONCERT TOUR 'Mark on You' 公演ページ）",
+   "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you"
+  },
+  {
+   "label": "&TEAM公式（アリーナ公演の開催のお知らせ）",
+   "url": "https://www.andteam-official.jp/news/dd0f71998bc8"
+  },
+  {
+   "label": "&TEAM公式（アリーナ公演 会員先行）",
+   "url": "https://www.andteam-official.jp/news/a19339147e37"
+  },
+  {
+   "label": "&TEAM公式（注意事項）",
+   "url": "https://www.andteam-official.jp/news/891f690874d2"
+  }
+ ],
+ "venue_key": "sekisui-heim-super-arena",
+ "venue_official": "セキスイハイム スーパーアリーナ",
+ "pref": "宮城県",
+ "dates": [
+  "2027-03-26",
+  "2027-03-27"
+ ],
+ "note": "時刻はHYBE JAPANの公演ページ（2026-11-26確認）",
+ "times": {
+  "2027-03-26": "開場17:00／開演18:00",
+  "2027-03-27": "開場15:00／開演16:00"
+ },
+ "tickets": [
+  {
+   "name": "LUNÉ MEMBERSHIP 会員先行（抽選・アリーナ公演）",
+   "start": "2026-11-07T13:00",
+   "end": "2026-11-15T23:59",
+   "who": "ファンクラブ LUNÉ MEMBERSHIP（日本）の会員（同行者は会員でなくてよい）",
+   "what": "指定席。当落と入金は11月24日11:00〜11月29日23:00（ローソン・ミニストップで支払い）",
+   "url": "https://www.andteam-official.jp/news/a19339147e37"
+  },
+  {
+   "name": "プレミアムシート アップグレード抽選",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://www.andteam-official.jp/news/a19339147e37",
+   "note": "「詳細は後日」（2026年11月25日時点）"
+  },
+  {
+   "name": "一般発売（アリーナ公演）",
+   "start": "",
+   "end": "",
+   "who": "",
+   "url": "https://www.hybejapan-concert.com/statics/andteam_mark_on_you",
+   "note": "未発表（2026年11月25日時点）"
+  }
+ ],
+ "tickets_note": "チケットはローソン・ミニストップで発券する紙のチケットです。3歳以上はチケットが必要で、3歳未満は入れません。プレミアムシートの一般販売はありません。"
+}
