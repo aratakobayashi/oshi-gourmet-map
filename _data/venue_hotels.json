@@ -6230,5 +6230,771 @@
   ],
   "r": 3.0,
   "at": "2026-11-07"
+ },
+ "glion-arena-kobe": {
+  "hotels": [
+   {
+    "n": "神戸みなと温泉　蓮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149298",
+    "m": 360,
+    "st": "三ノ宮",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/149298.jpg"
+   },
+   {
+    "n": "神戸メリケンパークオリエンタルホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8978",
+    "m": 690,
+    "st": "元町（兵庫）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/8978.jpg"
+   },
+   {
+    "n": "ＴＨＥ　ＯＲＩＥＮＴ（旧：ＯＲＩＥＮＴＡＬ　ＨＯＴＥＬ（オリエンタルホテル））",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D104691",
+    "m": 720,
+    "st": "三宮",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/104691.jpg"
+   },
+   {
+    "n": "ホテルオークラ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1648",
+    "m": 760,
+    "st": "元町（兵庫）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1648.jpg"
+   },
+   {
+    "n": "ホテルヴィアマーレ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D11327",
+    "m": 770,
+    "st": "三ノ宮",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/11327.jpg"
+   },
+   {
+    "n": "神戸ルミナスホテル三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166545",
+    "m": 870,
+    "st": "三ノ宮",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/166545.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "神戸みなと温泉　蓮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149298",
+    "m": 360,
+    "st": "三ノ宮",
+    "ac": "JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/149298.jpg"
+   },
+   {
+    "n": "神戸メリケンパークオリエンタルホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8978",
+    "m": 690,
+    "st": "元町（兵庫）",
+    "ac": "JR三ノ宮間の送迎バス運行。大阪まで約20分、元町から徒歩約15分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/8978.jpg"
+   },
+   {
+    "n": "ＴＨＥ　ＯＲＩＥＮＴ（旧：ＯＲＩＥＮＴＡＬ　ＨＯＴＥＬ（オリエンタルホテル））",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D104691",
+    "m": 720,
+    "st": "三宮",
+    "ac": "ＪＲ神戸線　三宮駅より徒歩にて7分 元町駅より徒歩にて6分　新神戸駅よりTaxiにて約10分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/104691.jpg"
+   },
+   {
+    "n": "ホテルオークラ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1648",
+    "m": 760,
+    "st": "元町（兵庫）",
+    "ac": "ＪＲ神戸線・阪神線 元町駅から徒歩で10分。 新幹線 新神戸駅から 車で15分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1648.jpg"
+   },
+   {
+    "n": "ホテルヴィアマーレ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D11327",
+    "m": 770,
+    "st": "三ノ宮",
+    "ac": "「三ノ宮」「神戸三宮」駅西口、「元町」駅東口徒歩８分、地下鉄「三宮」西出口徒歩５分。「旧居留地・大丸前駅」徒歩３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/11327.jpg"
+   },
+   {
+    "n": "神戸ルミナスホテル三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166545",
+    "m": 870,
+    "st": "三ノ宮",
+    "ac": "ＪＲ　三ノ宮駅西口より徒歩にて約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/166545.jpg"
+   },
+   {
+    "n": "ＫＯＫＯ　ＨＯＴＥＬ　神戸三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184123",
+    "m": 880,
+    "st": "三ノ宮",
+    "ac": "JR「三ノ宮」駅西口より徒歩約７分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/184123.jpg"
+   },
+   {
+    "n": "東横ＩＮＮ神戸三宮駅市役所前",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D178915",
+    "m": 900,
+    "st": "",
+    "ac": "神戸国際会館まで徒歩5分の立地で出発を応援！朝食・小学生以下添い寝無料で安心空間を提供いたします",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/178915.jpg"
+   },
+   {
+    "n": "神戸元町東急ＲＥＩホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76924",
+    "m": 930,
+    "st": "元町（兵庫）",
+    "ac": "JR・阪神元町駅東口徒歩3分／阪急三宮駅西口徒歩10分／JR三ノ宮駅西口徒歩12分／新神戸駅から車で10分／甲子園30分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/76924.jpg"
+   },
+   {
+    "n": "ゲストハウス・神戸なでしこ屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D164855",
+    "m": 940,
+    "st": "元町（兵庫）",
+    "ac": "ＪＲ元町駅より徒歩にて約3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/164855.jpg"
+   },
+   {
+    "n": "ダイワロイネットホテル神戸三宮　ＰＲＥＭＩＥＲ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183491",
+    "m": 970,
+    "st": "三ノ宮",
+    "ac": "JR「三ノ宮」駅西口・阪急/阪神/地下鉄「三宮」駅から徒歩約7分。神戸空港からポートライナーご利用で約30分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/183491.jpg"
+   },
+   {
+    "n": "天然温泉　浪漫湯　ドーミーイン神戸元町（ドーミーイン・野乃グループ）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179274",
+    "m": 990,
+    "st": "元町（兵庫）",
+    "ac": "JR/阪神「元町駅」より徒歩にて約4分（西口にEVあり）。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/179274.jpg"
+   },
+   {
+    "n": "ＨＯＴＥＬ　メリケンポート神戸元町",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181391",
+    "m": 1000,
+    "st": "元町（兵庫）",
+    "ac": "元町駅から徒歩5分、阪神高速「京橋」から15分　【ホテルから】メリケンパークまで徒歩5分、南京町まで徒歩5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/181391.jpg"
+   },
+   {
+    "n": "ワシントンＲ＆Ｂホテル神戸元町",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18169",
+    "m": 1010,
+    "st": "元町（兵庫）",
+    "ac": "◆ＪＲ東海道本線　元町駅東口より徒歩約３分／地下鉄海岸線　旧居留地大丸前駅２番出口すぐ",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/18169.jpg"
+   },
+   {
+    "n": "神戸ポートタワーホテル　なごみの湯宿",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79342",
+    "m": 1020,
+    "st": "元町（兵庫）",
+    "ac": "地下鉄みなと元町駅より徒歩４分。ＪＲ・阪神元町駅より徒歩８分。阪急花隈駅より徒歩７分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/79342.jpg"
+   },
+   {
+    "n": "ホテルサンルートソプラ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7660",
+    "m": 1060,
+    "st": "三宮",
+    "ac": "各線 三宮駅から徒歩6～10分/ポートライナー 貿易センター駅から徒歩2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/7660.jpg"
+   },
+   {
+    "n": "神戸プラザホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182147",
+    "m": 1090,
+    "st": "元町（兵庫）",
+    "ac": "■ＪＲ神戸線「元町駅」 正面！■阪神電鉄「元町駅」 徒歩１分！■市営地下鉄「旧居留地大丸前駅」徒歩2分　好立地！",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/182147.jpg"
+   },
+   {
+    "n": "ホテル　ラ・スイート神戸ハーバーランド",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D104705",
+    "m": 1090,
+    "st": "神戸（兵庫）",
+    "ac": "JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/104705.jpg"
+   },
+   {
+    "n": "スマイルホテル神戸元町",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28742",
+    "m": 1100,
+    "st": "元町（兵庫）",
+    "ac": "ＪＲ神戸線・元町駅西口から徒歩２分／阪神電鉄・元町駅西口から徒歩１分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/28742.jpg"
+   },
+   {
+    "n": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）神戸トアロード",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165796",
+    "m": 1110,
+    "st": "三宮",
+    "ac": "JR元町駅から徒歩3分、JR三ノ宮駅から徒歩8分、阪急三宮駅から徒歩6分、神戸の観光にもビジネスにも便利な好立地ホテル！",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/165796.jpg"
+   },
+   {
+    "n": "神戸プラザホテルウエスト",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D178574",
+    "m": 1140,
+    "st": "元町（兵庫）",
+    "ac": "ＪＲ神戸線／阪神電車　阪神本線「元町駅」より徒歩にて約３分の好立地、「三ノ宮駅」徒歩15分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/178574.jpg"
+   },
+   {
+    "n": "Ｈｏｓｔｅｌ　Ａｎｃｈｏｒａｇｅ（ホステルアンカレッジ）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D164829",
+    "m": 1200,
+    "st": "元町（兵庫）",
+    "ac": "JR元町駅西口より徒歩にて約7分。阪急・阪神・地下鉄からも徒歩５分程度です。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/164829.jpg"
+   },
+   {
+    "n": "ダイワロイネットホテル神戸三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D52991",
+    "m": 1270,
+    "st": "三宮",
+    "ac": "JR「三ノ宮駅」より徒歩約7分。阪急・阪神・地下鉄「三宮駅」より徒歩約5～8分。神戸空港よりポートライナーで約30分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/52991.jpg"
+   },
+   {
+    "n": "神戸元町・かゑる屋／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189771",
+    "m": 1280,
+    "st": "元町（兵庫）",
+    "ac": "みなと元町駅から徒歩で約１分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/189771.jpg"
+   },
+   {
+    "n": "アパホテル〈神戸三宮〉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D39415",
+    "m": 1320,
+    "st": "阪急三宮",
+    "ac": "JR神戸線三ノ宮駅東口から5分。新幹線新神戸駅から電車で約10分。神戸三宮駅もすぐ（阪神7分・阪急8分・地下鉄7分）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/39415.jpg"
+   },
+   {
+    "n": "神戸レディススパ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176586",
+    "m": 1330,
+    "st": "三ノ宮",
+    "ac": "ＪＲ　三ノ宮駅より徒歩にて約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/176586.jpg"
+   },
+   {
+    "n": "神戸サウナ＆スパ（ホテルカプセルイン神戸）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20516",
+    "m": 1330,
+    "st": "三宮",
+    "ac": "ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/20516.jpg"
+   },
+   {
+    "n": "センチュリオンホテル＆スパ　ヴィンテージ神戸",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179425",
+    "m": 1340,
+    "st": "中公園",
+    "ac": "①中公園駅3番線西出入口からポートアイランドビル連絡口へ進み2階へ　②喫茶店を右折し西出入口から歩道橋をお渡り下さい",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/179425.jpg"
+   },
+   {
+    "n": "ザ　ロイヤルパーク　キャンバス　神戸三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181393",
+    "m": 1350,
+    "st": "三宮",
+    "ac": "神戸市営地下鉄「三宮」駅西出口1より徒歩2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/181393.jpg"
+   },
+   {
+    "n": "レムプラス神戸三宮",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181517",
+    "m": 1350,
+    "st": "阪急三宮",
+    "ac": "阪急神戸線「神戸三宮駅」東改札口、JR「三ノ宮駅」西口直結／地下鉄「三宮駅」下車→阪急電車連絡口から2階で直結",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/181517.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
+ },
+ "toyota-arena-tokyo": {
+  "hotels": [
+   {
+    "n": "ホテルトラスティ東京ベイサイド",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69354",
+    "m": 650,
+    "st": "国際展示場正門",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/69354.jpg"
+   },
+   {
+    "n": "グランドニッコー東京　台場",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1917",
+    "m": 830,
+    "st": "台場",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1917.jpg"
+   },
+   {
+    "n": "ヒルトン東京お台場",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8492",
+    "m": 930,
+    "st": "台場",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/8492.jpg"
+   },
+   {
+    "n": "相鉄グランドフレッサ東京ベイ有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76373",
+    "m": 1040,
+    "st": "国際展示場",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/76373.jpg"
+   },
+   {
+    "n": "東京ベイ有明ワシントンホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1177",
+    "m": 1320,
+    "st": "国際展示場正門",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1177.jpg"
+   },
+   {
+    "n": "ダブルツリーｂｙヒルトン東京有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193175",
+    "m": 1410,
+    "st": "有明（東京）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/193175.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "ホテルトラスティ東京ベイサイド",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69354",
+    "m": 650,
+    "st": "国際展示場正門",
+    "ac": "ゆりかもめ東京ビッグサイト駅より徒歩約5分・りんかい線国際展示場駅より徒歩約10分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/69354.jpg"
+   },
+   {
+    "n": "グランドニッコー東京　台場",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1917",
+    "m": 830,
+    "st": "台場",
+    "ac": "ゆりかもめで新橋より15分「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1917.jpg"
+   },
+   {
+    "n": "ヒルトン東京お台場",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8492",
+    "m": 930,
+    "st": "台場",
+    "ac": "「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分／ディズニーシャトルバス運行中",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/8492.jpg"
+   },
+   {
+    "n": "相鉄グランドフレッサ東京ベイ有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76373",
+    "m": 1040,
+    "st": "国際展示場",
+    "ac": "りんかい線「国際展示場駅」、ゆりかもめ「東京ビッグサイト駅」よりともに徒歩３分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/76373.jpg"
+   },
+   {
+    "n": "東京ベイ有明ワシントンホテル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1177",
+    "m": 1320,
+    "st": "国際展示場正門",
+    "ac": "りんかい線「国際展示場駅」、新交通ゆりかもめ「有明駅」「東京ビッグサイト駅」（東京ビッグサイトへ徒歩3分)",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/1177.jpg"
+   },
+   {
+    "n": "ダブルツリーｂｙヒルトン東京有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193175",
+    "m": 1410,
+    "st": "有明（東京）",
+    "ac": "有明駅・国際展示場駅に隣接、徒歩約1分。東京ビッグサイトまで徒歩約5分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/193175.jpg"
+   },
+   {
+    "n": "住友不動産ホテル　ヴィラフォンテーヌグランド東京有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D178230",
+    "m": 1770,
+    "st": "有明（東京）",
+    "ac": "りんかい線『国際展示場』駅より徒歩約6分／ゆりかもめ『有明』駅より徒歩約4分／『有明テニスの森』駅より徒歩約5分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/178230.jpg"
+   },
+   {
+    "n": "ファーイーストビレッジホテル東京有明",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176773",
+    "m": 1890,
+    "st": "",
+    "ac": "ゆりかもめ　有明テニスの森駅より徒歩にて約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/176773.jpg"
+   },
+   {
+    "n": "東京豊洲　万葉倶楽部",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191560",
+    "m": 2180,
+    "st": "豊洲",
+    "ac": "ゆりかもめ市場前駅より徒歩約4分（ペデストリアンデッキで連結）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/191560.jpg"
+   },
+   {
+    "n": "ラビスタ東京ベイ（共立リゾート）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183390",
+    "m": 2290,
+    "st": "豊洲",
+    "ac": "羽田空港より約40分・成田空港より約90分・東京駅より約30分・新交通ゆりかもめ「市場前駅」より徒歩約1分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/183390.jpg"
+   },
+   {
+    "n": "ホテルＪＡＬシティ東京　豊洲",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176833",
+    "m": 2400,
+    "st": "",
+    "ac": "ゆりかもめ「新豊洲」から徒歩3分、「市場前駅」より徒歩2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/176833.jpg"
+   },
+   {
+    "n": "ＡＮＡホリデイ・イン東京ベイ　ｂｙ　ＩＨＧ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196160",
+    "m": 2640,
+    "st": "天王洲アイル",
+    "ac": "東京モノレール 天王洲アイル駅より徒歩4分、東京臨海高速鉄道りんかい線 天王洲アイル駅より徒歩6分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/196160.jpg"
+   },
+   {
+    "n": "東京有明ＢＡＹ　ＨＯＴＥＬ（東京有明ベイホテル）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151216",
+    "m": 2640,
+    "st": "東雲（東京）",
+    "ac": "りんかい線東雲（しののめ）駅より徒歩４分　国際展示場（東京ビックサイト）まで１駅　東京駅や舞浜駅も乗り換え１回と大変便利",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/151216.jpg"
+   },
+   {
+    "n": "Ｔｕｎｅ　Ｉｎｎ　Ｔｏｋｙｏ　Ｂａｙ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D185452",
+    "m": 2910,
+    "st": "芝浦ふ頭",
+    "ac": "芝浦ふ頭駅から徒歩で約１２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/185452.jpg"
+   },
+   {
+    "n": "東横ＩＮＮ品川港南口天王洲アイル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136278",
+    "m": 2930,
+    "st": "天王洲アイル",
+    "ac": "天王洲アイル駅より徒歩５分。品川駅より無料送迎バスあり。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/136278.jpg"
+   },
+   {
+    "n": "ホテルマリナーズコート東京",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193351",
+    "m": 2950,
+    "st": "勝どき",
+    "ac": "勝どき駅 A5出口徒歩約10分、BRT 晴海中央 下車約2分、都バス（都05-1）ホテルマリナーズコート東京 下車約2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/193351.jpg"
+   },
+   {
+    "n": "ＰＥＴＡＬＳ　ＴＯＫＹＯ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184481",
+    "m": 2990,
+    "st": "天王洲アイル",
+    "ac": "りんかい線 天王洲アイル駅 B出口より徒歩7分 東京モノレール羽田空港線 天王洲アイル駅 中央口より徒歩8分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/184481.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
+ },
+ "ig-arena": {
+  "hotels": [
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186072",
+    "m": 530,
+    "st": "浄心",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186072.jpg"
+   },
+   {
+    "n": "－Ｗ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D190926",
+    "m": 570,
+    "st": "名城公園",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/190926.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城ＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194879",
+    "m": 580,
+    "st": "浄心",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194879.jpg"
+   },
+   {
+    "n": "－華ＨＡＮＡ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191218",
+    "m": 790,
+    "st": "清水（愛知）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/191218.jpg"
+   },
+   {
+    "n": "エスパシオナゴヤキャッスル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196864",
+    "m": 800,
+    "st": "浅間町",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/196864.jpg"
+   },
+   {
+    "n": "ＯＹＡＤＯＹＡ　ＫＵＲＯＫＡＷＡ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202284",
+    "m": 860,
+    "st": "黒川（愛知）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202284.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186072",
+    "m": 530,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186072.jpg"
+   },
+   {
+    "n": "－Ｗ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D190926",
+    "m": 570,
+    "st": "名城公園",
+    "ac": "名城公園駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/190926.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城ＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194879",
+    "m": 580,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194879.jpg"
+   },
+   {
+    "n": "－華ＨＡＮＡ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191218",
+    "m": 790,
+    "st": "清水（愛知）",
+    "ac": "清水駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/191218.jpg"
+   },
+   {
+    "n": "エスパシオナゴヤキャッスル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196864",
+    "m": 800,
+    "st": "浅間町",
+    "ac": "名古屋市営地下鉄浅間町駅より徒歩約10 分 JR名古屋駅より車で約10分 中部国際空港より車で約45分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/196864.jpg"
+   },
+   {
+    "n": "ＯＹＡＤＯＹＡ　ＫＵＲＯＫＡＷＡ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202284",
+    "m": 860,
+    "st": "黒川（愛知）",
+    "ac": "地下鉄黒川駅【１番出口】から徒歩４分の距離にあります。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202284.jpg"
+   },
+   {
+    "n": "【名古屋市／東大手駅徒歩４分】栄・錦エリアまで電車で１０分／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200373",
+    "m": 1030,
+    "st": "庄内通",
+    "ac": "庄内通駅から徒歩で6分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200373.jpg"
+   },
+   {
+    "n": "ＫＫＲホテル名古屋（国家公務員共済組合連合会名古屋共済会館）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15045",
+    "m": 1120,
+    "st": "名古屋",
+    "ac": "地下鉄「丸の内駅」１番出口より徒歩約８分／地下鉄「名古屋城駅」６番出口より徒歩約８分／名古屋駅よりタクシーで約１０分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/15045.jpg"
+   },
+   {
+    "n": "ｍｉｎａｐａｋｕ　Ｂｌａｎｃｏ浄心／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195578",
+    "m": 1260,
+    "st": "浄心",
+    "ac": "浄心駅より徒歩で3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/195578.jpg"
+   },
+   {
+    "n": "α－Ｓｐａｃｅ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D170818",
+    "m": 1260,
+    "st": "黒川（愛知）",
+    "ac": "黒川駅から徒歩で約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/170818.jpg"
+   },
+   {
+    "n": "愛知県女性総合センターウィルあいち",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129906",
+    "m": 1270,
+    "st": "市役所",
+    "ac": "地下鉄名城線「名古屋城駅」２番出口東へ約８分　基幹バス「市役所」東へ約８分　市バス幹名駅１「市政資料館南」北へ約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/129906.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ黒川／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186222",
+    "m": 1300,
+    "st": "黒川（愛知）",
+    "ac": "黒川駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186222.jpg"
+   },
+   {
+    "n": "Ａｓｏｂｉ　Ｓｔａｙ児玉　－藤－　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200445",
+    "m": 1370,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200445.jpg"
+   },
+   {
+    "n": "アイリス愛知",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109405",
+    "m": 1420,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄桜通線「丸の内駅」から徒歩で5分、地下鉄名城線「久屋大通駅」「名古屋城駅」から徒歩で８分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/109405.jpg"
+   },
+   {
+    "n": "ホテル・アンドルームス名古屋栄",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166452",
+    "m": 1480,
+    "st": "久屋大通",
+    "ac": "名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/166452.jpg"
+   },
+   {
+    "n": "Ｘ１０３名古屋駅エリア＆中庭付き貸切戸建５部屋１９９平米大人数最適　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194949",
+    "m": 1510,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194949.jpg"
+   },
+   {
+    "n": "くれたけイン名古屋久屋大通",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165834",
+    "m": 1550,
+    "st": "久屋大通",
+    "ac": "地下鉄　久屋大通駅１A出口より徒歩にて約約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/165834.jpg"
+   },
+   {
+    "n": "東横ＩＮＮ名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D55447",
+    "m": 1570,
+    "st": "丸の内（愛知）",
+    "ac": "名古屋駅ユニモール4番出口より無料送迎バスで15分。ＪＲ名古屋駅より桜通線（地下鉄）・鶴舞線丸の内駅８番出口より徒歩２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/55447.jpg"
+   },
+   {
+    "n": "ケイアイコンホテルズ　丸の内　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D185668",
+    "m": 1600,
+    "st": "久屋大通",
+    "ac": "久屋大通駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/185668.jpg"
+   },
+   {
+    "n": "Ｗｉｎｚ久屋大通／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184982",
+    "m": 1630,
+    "st": "久屋大通",
+    "ac": "久屋大通駅から徒歩で約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/184982.jpg"
+   },
+   {
+    "n": "アパホテル〈名古屋栄北〉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167504",
+    "m": 1650,
+    "st": "久屋大通",
+    "ac": "地下鉄名城線・桜通線「久屋大通駅」西改札口2番出口より徒歩にて約2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167504.jpg"
+   },
+   {
+    "n": "天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182569",
+    "m": 1660,
+    "st": "久屋大通",
+    "ac": "名古屋市営地下鉄桜通線・名城線「久屋大通」駅 徒歩 約3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/182569.jpg"
+   },
+   {
+    "n": "ＢＲＩＬＬＩＡＮＣＥ　ＨＯＴＥＬ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188304",
+    "m": 1670,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄丸の内駅2番出口より1分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/188304.jpg"
+   },
+   {
+    "n": "Ａｎｅｃｉｓ笠取町ＩＩ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200480",
+    "m": 1670,
+    "st": "庄内通",
+    "ac": "庄内通駅から徒歩で4分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200480.jpg"
+   },
+   {
+    "n": "マンガアートホテル名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202296",
+    "m": 1760,
+    "st": "丸の内（愛知）",
+    "ac": "丸の内駅より徒歩１分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202296.jpg"
+   },
+   {
+    "n": "ＦＡＶ　ＬＵＸ　名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202420",
+    "m": 1770,
+    "st": "丸の内（愛知）",
+    "ac": "丸の内駅(愛知県)より徒歩で約2分, JR「名古屋駅」より車7分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202420.jpg"
+   },
+   {
+    "n": "喫茶、食堂、民宿。なごのや",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180163",
+    "m": 1780,
+    "st": "名古屋",
+    "ac": "名古屋駅より徒歩にて約１５分。地下鉄鶴舞線 丸の内駅より徒歩７分。地下鉄桜通線 国際センターより徒歩７分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/180163.jpg"
+   },
+   {
+    "n": "西鉄ホテル　クルーム名古屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167718",
+    "m": 1820,
+    "st": "久屋大通",
+    "ac": "地下鉄桜通線・名城線「久屋大通」駅西改札口側４番出入口から徒歩1分。名古屋駅から約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167718.jpg"
+   },
+   {
+    "n": "アパホテル〈名古屋丸の内駅前〉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D40551",
+    "m": 1830,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄桜通線「丸の内駅」3番出口から徒歩1分 (地下鉄鶴舞線利用時は2番出口）伏見通沿いに玄関がございます",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/40551.jpg"
+   },
+   {
+    "n": "ホテル京阪　名古屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177045",
+    "m": 1840,
+    "st": "丸の内（愛知）",
+    "ac": "名古屋市営地下鉄　丸の内駅／久屋大通駅より徒歩にて約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/177045.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
  }
 }

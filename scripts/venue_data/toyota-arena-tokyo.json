@@ -1,0 +1,106 @@
+{
+ "slug": "toyota-arena-tokyo",
+ "name": "TOYOTA ARENA TOKYO",
+ "short": "TOYOTA ARENA TOKYO",
+ "type": "arena",
+ "center": [
+  35.6264,
+  139.78057
+ ],
+ "size_m": 60,
+ "stations": [
+  {
+   "name": "ゆりかもめ 青海駅",
+   "exit": "徒歩4分",
+   "lat": 35.6248,
+   "lng": 139.7812
+  },
+  {
+   "name": "りんかい線 東京テレポート駅",
+   "exit": "徒歩5分",
+   "lat": 35.6272,
+   "lng": 139.779
+  },
+  {
+   "name": "東京BRT 東京テレポート",
+   "exit": "徒歩5分",
+   "lat": 35.6266,
+   "lng": 139.7781
+  }
+ ],
+ "access_note": [
+  "駅から近い。青海駅・東京テレポート駅",
+  "一般来場者用の駐車場・駐輪場なし"
+ ],
+ "seats": {
+  "note": "座席の位置はイベントの主催者の案内で",
+  "tiers": [
+   {
+    "label": "5F",
+    "desc": "SMBC SKY LOUNGE"
+   },
+   {
+    "label": "4F スタンド",
+    "desc": "B01〜B34ブロック"
+   },
+   {
+    "label": "3F スタンド",
+    "desc": "A01〜A24ブロック・メインゲート"
+   },
+   {
+    "label": "アリーナ面",
+    "desc": "可動席・仮設席など。イベントごと"
+   }
+  ]
+ },
+ "prepare": {
+  "source": "TOYOTA ARENA TOKYO公式サイト（よくある質問・館内ガイド）より",
+  "items": [
+   {
+    "icon": "card",
+    "title": "支払いはキャッシュレス",
+    "lines": [
+     "現金は使えない",
+     "（イベントで現金可のときも）"
+    ]
+   },
+   {
+    "icon": "locker",
+    "title": "ロッカーはメインゲートの外",
+    "lines": [
+     "3F屋外に小23・大A22・大B8",
+     "現金・交通系IC・QRなど"
+    ]
+   },
+   {
+    "icon": "info",
+    "title": "Wi-Fiはない",
+    "lines": [
+     "館内で使えるWi-Fiは",
+     "備えていない"
+    ]
+   },
+   {
+    "icon": "smoke",
+    "title": "敷地内はすべて禁煙",
+    "lines": [
+     "施設内・敷地内とも",
+     "喫煙所はなし"
+    ]
+   }
+  ]
+ },
+ "thumb": {
+  "chips": [
+   "最寄り駅と徒歩分",
+   "ブロックとゲート",
+   "キャッシュレス",
+   "ロッカー"
+  ],
+  "sky": "dusk"
+ },
+ "illust": {
+  "sea": true,
+  "wheel": true
+ }
+}

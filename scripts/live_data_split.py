@@ -17,6 +17,9 @@ import unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.date.today().isoformat()
 ALIAS = {
+    'ig-arena': ['igアリーナ', 'igarena', '愛知国際アリーナ'],
+    'toyota-arena-tokyo': ['トヨタアリーナ東京', 'toyotaarenatokyo', 'トヨタアリーナ'],
+    'glion-arena-kobe': ['ジーライオンアリーナ', 'glionarena', 'glionarenakobe'],
     'sapporo-dome': ['札幌ドーム', 'プレミストドーム'],
     'vantelin-dome-nagoya': ['ナゴヤドーム', 'バンテリンドーム'],
     'mizuho-paypay-dome': ['paypayドーム', 'ペイペイドーム', '福岡ドーム'],
