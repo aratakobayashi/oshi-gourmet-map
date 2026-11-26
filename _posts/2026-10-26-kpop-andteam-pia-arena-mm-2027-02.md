@@ -82,7 +82,7 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
 <p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
-<p class="first-live">ほかの会場の日程・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a></p>
+<p class="first-live">ほかの会場の日程・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（神戸・名古屋・横浜・香川・福岡・宮城）まとめ</a></p>
 {% include live-list.html group="kpop_andteam" title="&amp;TEAMのこれからの公演" %}
 </section>{% endif %}
 
@@ -104,7 +104,7 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 
 <p class="first-live">はじめて&TEAMのライブに行くなら：<a href="/guide/kpop-andteam-first-live/">エンティームのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
 
-<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a></p>
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（神戸・名古屋・横浜・香川・福岡・宮城）まとめ</a></p>
 
 <h2 id="date">公演の日程</h2>
 
@@ -216,7 +216,7 @@ thumbnail: /assets/img/posts/kpop-andteam-pia-arena-mm-2027-02/thumb.webp
 <ul>
   <li><a href="/guide/pia-arena-mm/">ぴあアリーナMM ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
   <li><a href="/guide/kpop-andteam-first-live/">エンティームのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
-  <li><a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（横浜・福岡）まとめ</a>（全会場の日程・時刻・セトリ）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'kpop-andteam-mark-on-you-arena-2027' %}{{ p.url }}{% endif %}{% endfor %}">エンティーム ツアー'Mark on You' アリーナ公演2027（神戸・名古屋・横浜・香川・福岡・宮城）まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.kpop_andteam.u }}">&TEAMのお店一覧</a>（グループのページ）</li>
 </ul>
 

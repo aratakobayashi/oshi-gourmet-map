@@ -3,15 +3,19 @@
  "group": "kpop_andteam",
  "series": "Mark on You",
  "series_long": "2026-2027 &TEAM CONCERT TOUR 'Mark on You'",
- "title_core": "ツアー'Mark on You' アリーナ公演2027（横浜・福岡）",
+ "title_core": "ツアー'Mark on You' アリーナ公演2027（神戸・名古屋・横浜・香川・福岡・宮城）",
  "lives": [
+  "kpop-andteam-glion-arena-kobe-2027-02",
+  "kpop-andteam-ig-arena-2027-02",
   "kpop-andteam-pia-arena-mm-2027-02",
-  "kpop-andteam-marine-messe-fukuoka-2027-03"
+  "kpop-andteam-anabuki-arena-kagawa-2027-02",
+  "kpop-andteam-marine-messe-fukuoka-2027-03",
+  "kpop-andteam-sekisui-heim-super-arena-2027-03"
  ],
- "checked_at": "2026-11-25",
+ "checked_at": "2026-11-26",
  "first_live": "kpop-andteam-first-live",
- "lead": "&TEAM（エンティーム）の『2026-2027 &TEAM CONCERT TOUR 'Mark on You'』は、2026年10月の東京ガーデンシアターから始まったホールツアーと、2027年2月からのアリーナ公演です（公式発表では18都市41公演、のちに北海道の12月26日を追加）。このページでは、会場ガイドのあるぴあアリーナMM（2月13日・14日）とマリンメッセ福岡 B館（3月20日〜22日）の日程と時刻、チケットの受付、近い宿と近くの聖地をまとめます",
- "nagoya_note": "時刻はHYBE JAPANの公演ページより。アリーナ公演はほかに、GLION ARENA KOBE（2月3日・4日）・IG Arena（2月6日・7日）・あなぶきアリーナ香川（2月27日・28日）・セキスイハイム スーパーアリーナ（3月26日・27日）があります（公式の公演ページ）。",
+ "lead": "&TEAM（エンティーム）の『2026-2027 &TEAM CONCERT TOUR 'Mark on You'』は、2026年10月の東京ガーデンシアターから始まったホールツアーと、2027年2月からのアリーナ公演です（公式発表では18都市41公演、のちに北海道の12月26日を追加）。このページでは、アリーナ公演6会場（GLION ARENA KOBE・IGアリーナ・ぴあアリーナMM・あなぶきアリーナ香川・マリンメッセ福岡 B館・セキスイハイムスーパーアリーナ）の日程と時刻、チケットの受付、近い宿と近くの聖地をまとめます",
+ "nagoya_note": "時刻はHYBE JAPANの公演ページより。",
  "goods": [
   [
    "公式ライトスティック",
