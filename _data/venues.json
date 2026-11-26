@@ -26,6 +26,13 @@
   "lng": 139.42047,
   "address": "埼玉県所沢市上山口2135"
  },
+ "glion-arena-kobe": {
+  "name": "GLION ARENA KOBE",
+  "lat": 34.681846,
+  "lng": 135.196038,
+  "address": "兵庫県神戸市中央区新港町2番1号",
+  "zip": "650-0041"
+ },
  "hokkai-kitaeru": {
   "name": "北海きたえーる",
   "lat": 43.043985,
@@ -162,6 +169,13 @@
   "lng": 139.790894,
   "address": "東京都江東区有明2-1-6",
   "zip": "135-0063"
+ },
+ "toyota-arena-tokyo": {
+  "name": "TOYOTA ARENA TOKYO",
+  "lat": 35.626398,
+  "lng": 139.780572,
+  "address": "東京都江東区青海一丁目3番1号",
+  "zip": "135-0064"
  },
  "vantelin-dome-nagoya": {
   "name": "バンテリンドーム ナゴヤ",
