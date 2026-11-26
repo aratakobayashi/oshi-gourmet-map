@@ -489,5 +489,61 @@
   "logo_text": "&TEAM",
   "logo_sub": "ARENA",
   "out": "assets/img/posts/kpop-andteam-mark-on-you-arena-2027/thumb"
+ },
+ "kismai-first-live": {
+  "color": "#3b82f6",
+  "group": "kismai",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#38bdf8",
+   "#8b5cf6",
+   "#f97316",
+   "#ec4899",
+   "#facc15",
+   "#22c55e"
+  ],
+  "label": "はじめてのライブ",
+  "title": "キスマイ",
+  "sub": "キスマイのライブに\nはじめて行く人へ",
+  "chips": [
+   "ドームツアー",
+   "メンバーカラー",
+   "定番曲9曲",
+   "ライブ映像"
+  ],
+  "logo_text": "fan IS",
+  "logo_sub": "FIRST LIVE"
+ },
+ "kismai-dome-tour-2026-2027": {
+  "color": "#3b82f6",
+  "group": "kismai",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#38bdf8",
+   "#8b5cf6",
+   "#f97316",
+   "#ec4899",
+   "#facc15",
+   "#22c55e"
+  ],
+  "label": "ツアーまとめ",
+  "title": "キスマイ",
+  "sub": "DOME TOUR 2026-2027\nfan IS",
+  "chips": [
+   "大阪 12.25・26",
+   "東京 2.21〜23",
+   "近くの宿"
+  ],
+  "logo_text": "fan IS",
+  "logo_sub": "DOME",
+  "out": "assets/img/posts/kismai-dome-tour-2026-2027/thumb"
  }
 }

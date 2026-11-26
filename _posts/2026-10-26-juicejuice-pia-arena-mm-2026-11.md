@@ -2,7 +2,7 @@
 layout: post
 title: Juice=Juice ぴあアリーナMM公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-25'
+last_modified_at: '2026-11-26'
 checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
 description: 『Juice=Juice Room Tour 2026 「5ROOMS」』のぴあアリーナMM公演（2026年11月25日（水））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
@@ -69,7 +69,7 @@ thumbnail: /assets/img/posts/juicejuice-pia-arena-mm-2026-11/thumb.webp
 
 <p class="live-cd" data-d="2026-11-25" data-e="2026-11-25"><b>公演日</b>2026年11月25日（水）</p>
 
-<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#after">セトリ</a><a class="chip chip--area" href="#date">日程</a><a class="chip chip--area" href="#access">行き方</a><a class="chip chip--area" href="#seats">座席</a><a class="chip chip--area" href="#rules">持ち込み</a><a class="chip chip--area" href="#stay">泊まる</a><a class="chip chip--area" href="#seichi">近くの聖地</a></nav>
 
 <div class="stay-in stay-in--top">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> ぴあアリーナMM周辺に泊まる<small class="stay-in__pr">PR</small><a class="stay-in__more" href="#stay">宿の選び方 ↓</a></p>

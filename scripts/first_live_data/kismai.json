@@ -1,0 +1,326 @@
+{
+ "slug": "kismai-first-live",
+ "group": "kismai",
+ "name": "Kis-My-Ft2",
+ "kana": "キスマイフットツー",
+ "aka": "キスマイ",
+ "color": "#1e40af",
+ "checked_at": "2026-11-26",
+ "title": "Kis-My-Ft2（キスマイ）ライブ初参戦ガイド｜メンバーカラー・定番曲・予習のライブ映像・ドームツアー2026-2027",
+ "description": "Kis-My-Ft2（キスマイ）のライブにはじめて行く人のために、大手報道と公式YouTubeで確かめたことをまとめました。『Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・』（京セラドーム大阪 2026年12月25日・26日・東京ドーム 2027年2月21日〜23日）の開演時刻、メンバーとメンバーカラー、大手報道のセットリストから定番曲、予習のライブ映像、会場の近くの宿まで。入場やチケットの決まりは公式の案内で確かめてください。",
+ "shows": [
+  {
+   "label": "京セラドーム大阪",
+   "title": "Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2026-12-25",
+    "2026-12-26"
+   ],
+   "open": "",
+   "start": "18:00",
+   "src": "https://www.oricon.co.jp/news/2481844/full/",
+   "src_label": "オリコンの報道",
+   "time_note": "12月26日は開演15:00"
+  },
+  {
+   "label": "東京ドーム",
+   "title": "Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2027-02-21",
+    "2027-02-22",
+    "2027-02-23"
+   ],
+   "open": "",
+   "start": "17:00",
+   "src": "https://www.oricon.co.jp/news/2481844/full/"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'kismai-dome-tour-2026-2027' %}{{ p.url }}{% endif %}{% endfor %}\">キスマイ ドームツアー2026-2027「fan IS」まとめ（日程・時刻・セトリ）</a>",
+ "intro": "Kis-My-Ft2（キスマイ）のライブに、はじめて行く人のためのページです。日程と時刻、メンバーとメンバーカラー、定番曲と予習のライブ映像、帰りの宿までを、<strong>大手報道と公式YouTubeで確かめたこと</strong>だけでまとめました。",
+ "entry_lead": "入場のしかた（チケットの受け取り・本人確認など）と、会場での決まりは、<strong>STARTO ENTERTAINMENTの公式の案内</strong>で確かめてください（このサイトでは公式サイトの中身を読んでいないため、大手報道で確かめられたことだけを載せています）。",
+ "three": [
+  [
+   "開演の時刻を確かめる",
+   "京セラドーム大阪は12月25日が18:00・26日が15:00、東京ドームは2月21日が17:00・22日（月曜）が18:00・23日（祝日）が17:00（報道）。開場の時刻は公式の案内で"
+  ],
+  [
+   "推しのメンバーカラーを決める",
+   "千賀健永は水色・宮田俊哉は紫・横尾渉はオレンジ・藤ヶ谷太輔はピンク・玉森裕太は黄色・二階堂高嗣は緑（オリコン）"
+  ],
+  [
+   "ライブ映像で予習",
+   "公式YouTubeにアリーナツアー・ドームツアーのライブ映像。前回のアリーナツアーでは客席の投票でセトリが変わる仕組みも"
+  ]
+ ],
+ "flow": [
+  [
+   "前日まで",
+   "チケットと決まりを確かめる",
+   "チケットの受け取り方・本人確認・持ち込みの決まりは公式の案内で"
+  ],
+  [
+   "{start}",
+   "開演",
+   "開場の時刻は公式の案内で確かめる"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "終演の時刻は未発表。東京ドームの2月22日は平日（月曜）の夜。遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "ticket",
+   "チケット（受け取り方は公式の案内で）"
+  ],
+  [
+   "id",
+   "身分証明書（本人確認があるかは公式の案内で）"
+  ],
+  [
+   "light",
+   "ペンライト（推しのメンバーカラー）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに"
+  ]
+ ],
+ "rules": {
+  "ng_items": [
+   "会場のルールで持ち込めないもの（東京ドーム・京セラドーム大阪の会場ガイドに）"
+  ],
+  "ng_acts": [
+   "公演ごとの決まり（撮影・応援グッズなど）は、公式の案内で確かめる"
+  ],
+  "ok": [
+   "前回のアリーナツアー「For dear life」（2023〜24年）は、2019年以来の声出しOKのライブと報じられました（モデルプレス）"
+  ],
+  "note": "このツアーの持ち込み・撮影・声出しの決まりは、大手報道では見つかりませんでした（2026年11月26日時点）。出典：<a href=\"https://mdpr.jp/music/detail/4199431\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>。"
+ },
+ "penlight": {
+  "heading": "ペンライトとメンバーカラー",
+  "text": "キスマイのメンバーカラーは、<strong>千賀健永が水色・宮田俊哉が紫・横尾渉がオレンジ・藤ヶ谷太輔がピンク・玉森裕太が黄色・二階堂高嗣が緑</strong>です（<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。このドームツアーのペンライトについての報道は、2026年11月26日時点では見つかりませんでした。前回のドームツアー（2024年「Synopsis」）では、明るさが約8倍の新しい仕組みのペンライトが使われたと報じられています（<a href=\"https://mdpr.jp/music/detail/4320993\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）。",
+  "colors": [
+   [
+    "水色（千賀健永）",
+    "#38bdf8"
+   ],
+   [
+    "紫（宮田俊哉）",
+    "#8b5cf6"
+   ],
+   [
+    "オレンジ（横尾渉）",
+    "#f97316"
+   ],
+   [
+    "ピンク（藤ヶ谷太輔）",
+    "#ec4899"
+   ],
+   [
+    "黄色（玉森裕太）",
+    "#facc15"
+   ],
+   [
+    "緑（二階堂高嗣）",
+    "#22c55e"
+   ]
+  ],
+  "note": "色の見本はイメージです。メンバーカラーの出典：<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>。"
+ },
+ "members": {
+  "list": [
+   "千賀健永",
+   "宮田俊哉",
+   "横尾渉",
+   "藤ヶ谷太輔",
+   "玉森裕太",
+   "二階堂高嗣"
+  ],
+  "colors": {
+   "千賀健永": "#38bdf8",
+   "宮田俊哉": "#8b5cf6",
+   "横尾渉": "#f97316",
+   "藤ヶ谷太輔": "#ec4899",
+   "玉森裕太": "#eab308",
+   "二階堂高嗣": "#22c55e"
+  },
+  "note": "6人組（<a href=\"https://www.oricon.co.jp/news/2481844/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。メンバーカラーは<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>。夏のアリーナツアーでは、二階堂高嗣が演出とセットリスト、玉森裕太が衣装を担当したと報じられています（<a href=\"https://mdpr.jp/music/detail/4827327\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）。"
+ },
+ "call": {
+  "text": "キスマイの公式YouTubeには、<strong>コールの練習動画は見当たりませんでした</strong>（2026年11月26日時点）。前回のアリーナツアー「For dear life」は声出しOKのライブだったと報じられていますが、このツアーの声出しの決まりは公式の案内で確かめてください。夏のアリーナツアー「fan IS」では、客席がスマホで投票してセットリストの一部を選ぶ「インタラクティブモード」がありました（<a href=\"https://mdpr.jp/music/detail/4827200\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）。",
+  "memo": "はじめてなら、公式YouTubeのライブ映像で、曲の流れや客席の雰囲気を見ておくのが確実です。",
+  "channel": "Kis-My-Ft2",
+  "videos": [
+   [
+    "EOGJA-bauqI",
+    "King King",
+    "LIVE TOUR 2026 fan IS ･･････ より"
+   ],
+   [
+    "l1wS5V7DRjQ",
+    "A.D.D.I.C.T.",
+    "Dome Tour 2024 Synopsis より"
+   ],
+   [
+    "GgpqJTKo8a0",
+    "WANI-WANI",
+    "Dome Tour 2024 Synopsis より"
+   ],
+   [
+    "BYAM6_1-gqs",
+    "笑って 泣いて",
+    "Dome Tour 2024 Synopsis より"
+   ],
+   [
+    "6F5S_xJXEDM",
+    "Rebirth Stage",
+    "For dear life より"
+   ],
+   [
+    "jtYWwAaP9aY",
+    "FREEZE",
+    "LIVE TOUR 2025 MAGFACT より"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "大手報道のライブレポートに載ったセットリストで、直近の2つのアリーナツアー（2024年2月「For dear life」ファイナル・2026年8月「fan IS」横浜アリーナ）を比べました。<strong>両方で歌われたのは9曲</strong>。ドームツアーで歌われるかは分かりませんが、予習の手がかりになります。二階堂高嗣は、ドーム公演でも「アルバムの曲はやります」と話しています（12枚目のアルバム『Kis SCENE』は2026年10月28日発売。モデルプレス）。",
+  "top_label": "直近の2つのアリーナツアーの両方で歌われた曲（大手報道のセットリストから）",
+  "top": [
+   "C'monova",
+   "Luv Bias",
+   "Rebirth Stage",
+   "PSYCHO",
+   "Black & White",
+   "SHE! HER! HER!",
+   "AAO",
+   "Thank youじゃん！",
+   "Everybody Go"
+  ],
+  "sets": [
+   {
+    "title": "LIVE TOUR 2026 fan IS（2026年8月10日 横浜アリーナ 昼公演）",
+    "parts": [
+     [
+      "本編",
+      "SILENCE／FOLLOW／Keep it 100／Kiss魂／Up&Down and Up&Down,Yo Dance!／C'monova／FIGHTERS／HEARTLOUD／Rainy Days／Luminar／（客席の投票でCパターン）Endless Road／運命（玉森・宮田）／王国の蝶（横尾・千賀）／& say（藤ヶ谷・二階堂）／Touch（藤ヶ谷・玉森）／祈り／&Joy／MU‐CHU‐DE 恋してる／Who's gonna play?／HB2U／My Affection／Luv Bias／タナゴコロ／夜の向こうへ／Couture／Rebirth Stage／A.D.D.I.C.T.／PSYCHO／Black & White／ETERNAL MIND／Distance／WANI-WANI／King King"
+     ],
+     [
+      "アンコール",
+      "UNISON／キミとのキセキ／SHE! HER! HER!／A CHA CHA CHA／AAO／Thank youじゃん！／Everybody Go"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4827200",
+     "投票で選ばれたパターンの曲"
+    ]
+   },
+   {
+    "title": "For dear life ファイナル（2024年2月15日 国立代々木競技場第一体育館 昼公演）",
+    "parts": [
+     [
+      "本編",
+      "Rebirth Stage／HANDS UP／Edge of Days／Smokin' Hot／Mr.FRESH／CHUDOKU／Akumu／You know what？／Tequila！ -テキーラ-／Lemon Pie／SHE！ HER！ HER！／AAO／C'monova／想花／雨 -Remix-／Luv Bias／Tokyo-Kis／PSYCHO／Black & White／Dream On／アイノビート -Rock ver.-／Tonight／若者たち／全力ファイター／Shining Ace／Bang！ Bang！ BURN！／FIRE BEAT／Dream On／ともに"
+     ],
+     [
+      "アンコール",
+      "Everybody Go／Sweet Melody／Yeah E Yeah！！！！！！！／Thank youじゃん！"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4199431",
+     ""
+    ]
+   }
+  ]
+ },
+ "goods": [
+  [
+   "ドームツアーのグッズ",
+   "2026年11月26日時点では、大手報道は見つかりませんでした。公式の案内で確かめてください"
+  ]
+ ],
+ "official_links": [
+  [
+   "公演情報（STARTO ENTERTAINMENT）",
+   "https://starto.jp/s/p/live/10594",
+   "日程・チケット・注意事項"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/@KisMyFt2",
+   "ライブ映像・MV"
+  ]
+ ],
+ "stay_text": "京セラドーム大阪はクリスマス（12月25日は金曜の18時開演、26日は土曜の15時開演）、東京ドームは2月21日（日）・22日（月）・23日（火・祝）です。終演の時刻は報じられていません。遠くから行く人や続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "matome_url": "/articles/2026/10/18/kismai-gourmet-matome/",
+ "sources": [
+  [
+   "モデルプレス（ドームツアーの日程発表）",
+   "https://mdpr.jp/news/detail/4847322"
+  ],
+  [
+   "オリコン（日程と開演時刻・6人組）",
+   "https://www.oricon.co.jp/news/2481844/full/"
+  ],
+  [
+   "オリコン（メンバーカラー）",
+   "https://www.oricon.co.jp/special/69841/"
+  ],
+  [
+   "モデルプレス（タイトルについてのインタビュー）",
+   "https://mdpr.jp/music/detail/4827327"
+  ],
+  [
+   "モデルプレス（fan IS 横浜アリーナ セットリスト）",
+   "https://mdpr.jp/music/detail/4827200"
+  ],
+  [
+   "モデルプレス（For dear life ファイナル セットリスト）",
+   "https://mdpr.jp/music/detail/4199431"
+  ],
+  [
+   "モデルプレス（Synopsis 東京ドーム）",
+   "https://mdpr.jp/music/detail/4320993"
+  ],
+  [
+   "デイリースポーツ（約2年ぶりのドーム公演）",
+   "https://www.daily.co.jp/gossip/2026/08/11/0020693045.shtml"
+  ]
+ ],
+ "summary": [
+  "ドームツアーは 京セラドーム大阪 2026年12月25日（金）開演18:00・26日（土）開演15:00、東京ドーム 2027年2月21日（日）開演17:00・22日（月）開演18:00・23日（火・祝）開演17:00（報道）",
+  "メンバーカラーは 千賀健永＝水色・宮田俊哉＝紫・横尾渉＝オレンジ・藤ヶ谷太輔＝ピンク・玉森裕太＝黄色・二階堂高嗣＝緑（オリコン）",
+  "直近の2つのアリーナツアーの両方で歌われた曲は9曲。公式YouTubeにライブ映像",
+  "入場・チケット・会場での決まりは、STARTO ENTERTAINMENTの公式の案内で確かめる"
+ ],
+ "faq": [
+  [
+   "キスマイのドームツアーの開演は何時ですか？",
+   "京セラドーム大阪は2026年12月25日が18:00、26日が15:00、東京ドームは2027年2月21日が17:00、22日が18:00、23日が17:00です（モデルプレス・オリコンの報道）。開場の時刻は公式の案内で確かめてください。"
+  ],
+  [
+   "キスマイのメンバーカラーは？",
+   "千賀健永が水色、宮田俊哉が紫、横尾渉がオレンジ、藤ヶ谷太輔がピンク、玉森裕太が黄色、二階堂高嗣が緑です（オリコンの記事より）。"
+  ],
+  [
+   "ドームツアーのタイトル「fan IS」の意味は？",
+   "夏のアリーナツアーと同じ名前で、二階堂高嗣は「ファンの方を第一に思ったタイトル」と話しています（モデルプレスのインタビュー）。"
+  ],
+  [
+   "チケットや入場の決まりは？",
+   "このサイトでは大手報道で確かめられたことだけを載せていて、チケットの受付・入場・持ち込みの決まりの報道は見つかりませんでした（2026年11月26日時点）。STARTO ENTERTAINMENTの公式の案内で確かめてください。"
+  ],
+  [
+   "予習するなら？",
+   "公式YouTubeのライブ映像と、このページの「定番曲」で。直近の2つのアリーナツアーの両方で歌われた曲は9曲あります。"
+  ]
+ ]
+}

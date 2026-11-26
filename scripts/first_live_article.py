@@ -68,7 +68,7 @@ def hero(d, shows):
     nxt = shows[0]
     days = ''.join(f'<div><b>{a}</b><small>{b}</small></div>' for a, b in (md(x) for x in nxt['dates']))
     tm = (f'<div class="fl-hero__time"><span>開場 <b>{esc(nxt["open"])}</b></span><span>開演 <b>{esc(nxt["start"])}</b></span></div>'
-          if nxt.get('open') and nxt.get('start') else '<div class="fl-hero__time"><span>開場・開演の時刻は未発表</span></div>')
+          if nxt.get('open') and nxt.get('start') else (f'<div class="fl-hero__time"><span>開演 <b>{esc(nxt["start"])}</b></span><span>開場は未発表</span></div>' if nxt.get('start') else '<div class="fl-hero__time"><span>開場・開演の時刻は未発表</span></div>'))
     others = ''.join(
         f'<a class="fl-hero__next" href="#stay-{esc(s["venue_key"])}"><small>NEXT</small><b>{esc(s["label"])}</b><span>{jdate(s["dates"])}</span></a>'
         for s in shows[1:])

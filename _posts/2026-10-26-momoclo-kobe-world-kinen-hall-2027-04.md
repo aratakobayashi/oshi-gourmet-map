@@ -2,7 +2,7 @@
 layout: post
 title: ももいろクローバーZ（ももクロ） ワールド記念ホール公演2027 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-25'
+last_modified_at: '2026-11-26'
 checked_at: '2026-11-25'
 checked_label: 公演の日程と会場のルール
 description: ももいろクローバーZ『MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”』のワールド記念ホール公演（2027年4月24日（土）・25日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場の近くのほかの推しの聖地をまとめました。日程は2026年11月25日時点の公式発表です。
@@ -118,12 +118,12 @@ thumbnail: /assets/img/posts/momoclo-kobe-world-kinen-hall-2027-04/thumb.webp
 <p>ワールド記念ホール公演のチケットの受付です（2026年11月25日時点の公式発表）。</p>
 
 <ol class="tk-list">
-  <li class="tk is-open" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">受付中</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
   <li class="tk is-tba" data-s="" data-e=""><span class="tk__st">未発表</span><b class="tk__n">一般発売</b><span class="tk__p">未発表（2026年11月25日時点）</span><a class="tk__go" href="https://www.momoclo.net/arenatour2027/" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
-<details class="tk-done"><summary>終わった受付（1）</summary>
+<details class="tk-done"><summary>終わった受付（2）</summary>
 <ol class="tk-list">
   <li class="tk is-done" data-s="2026-10-17T18:00" data-e="2026-10-25T23:59"><span class="tk__st">終了</span><b class="tk__n">ANGEL EYES会員先行（抽選）</b><span class="tk__p">10月17日（土）18:00〜10月25日（日）23:59</span><span class="tk__w">ファンクラブ ANGEL EYES の会員（同行者は会員でなくてよい）・指定席・着席指定席・お子様ファミリー席。顔写真の登録が必要</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261017_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
+  <li class="tk is-done" data-s="2026-11-20T18:00" data-e="2026-11-25T23:59"><span class="tk__st">終了</span><b class="tk__n">プレオーダー（抽選・イープラス）</b><span class="tk__p">11月20日（金）18:00〜11月25日（水）23:59</span><span class="tk__w">どなたでも・指定席・着席指定席（お子様ファミリー席は別の受付）。当落は11月28日13:00から</span><a class="tk__go" href="https://www.momoclo.net/archives/news/261120_01" target="_blank" rel="noopener">公式のお知らせ</a></li>
 </ol>
 </details>
 <p class="note">指定席・着席指定席は1回4枚まで。3歳未満は大人1人につき1人まで膝の上で見られます（席が要る場合はチケットが必要）。ファンクラブのチケットはANGEL EYESのIC会員証で顔認証入場、プレイガイドのチケットは紙のチケットと顔写真付きの身分証明書で入場します。 値段や席ごとの条件は公式のお知らせで確かめてください。チケットは公式の受付（公式のリセールがあればそれ）で買い、転売サイトでは買わないようにしましょう。</p>

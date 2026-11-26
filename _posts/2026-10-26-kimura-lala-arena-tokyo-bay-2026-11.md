@@ -2,7 +2,7 @@
 layout: post
 title: 木村拓哉 LaLa arena TOKYO-BAY公演2026 セトリ・参戦ガイド｜座席・アクセス・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-25'
+last_modified_at: '2026-11-26'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 木村拓哉『TAKUYA KIMURA Live Tour 2026 Checkpoint』のLaLa arena TOKYO-BAY公演（2026年11月21日（土）・22日（日）・23日（月））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、千葉県にある木村拓哉の聖地1軒をまとめました。日程は2026年10月26日時点の公式発表です。
