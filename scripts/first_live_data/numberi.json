@@ -433,6 +433,18 @@
   [
    "THE FIRST TIMES（No.Ⅲ 開幕のライブレポート）",
    "https://www.thefirsttimes.jp/report/0000905956/"
+  ],
+  [
+   "Billboard JAPAN（ワールドツアーの発表）",
+   "https://www.billboard-japan.com/d_news/detail/164120/2"
+  ],
+  [
+   "TOBE公式（No.Ⅱ）",
+   "https://tobe-official.jp/artists/number_i/discography/108"
+  ],
+  [
+   "Real Sound（4thシングル）",
+   "https://realsound.jp/2026/07/post-2467356.html"
   ]
  ],
  "summary": [
@@ -474,6 +486,73 @@
   [
    "グッズはどこで買えますか？",
    "会場の販売（予約・整理券なし、チケットがなくても買える。1種類4点まで）と、公式ストアの通販です。札幌のあとの会場の販売時間は、決まりしだい公式ストアでお知らせされます。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "2nd Full Album『No.Ⅱ』（2025年9月）です。前回のツアー「No.Ⅱ」では収録曲の多くが歌われました。最新シングル『REBON / BUGS LIFE / DIGITAL GIRL』の「BUGS LIFE」は、No.Ⅲの札幌公演でも歌われています。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "初の単独公演『No.O -ring-』（2024年6月 有明アリーナ）",
+   "全6公演。高いリング状の装置から3人が火花の中で降りて登場し、ソロダンスのコーナーも。本編13曲とアンコール2曲",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4307754"
+  ],
+  [
+   "『LIVE TOUR 2025 No.Ⅱ』（8都市25公演・約30万人）",
+   "ファイナルのさいたまスーパーアリーナは全26曲。映像の中でメンバーが宇宙船に取り込まれ、本人たちがゴンドラで現れるオープニング。アンコールで新曲「LAVALAVA」",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4702650"
+  ],
+  [
+   "初のワールドツアーの日本公演",
+   "「Number_i 1st World Tour」の日本公演（Chapter 1: Japan）として、2026年10月から5大ドームで開催。海外公演（Chapter 2）は2027年",
+   "Billboard JAPAN",
+   "https://www.billboard-japan.com/d_news/detail/164120/2"
+  ],
+  [
+   "No.Ⅲの開幕（2026年10月 札幌）",
+   "このツアーから無線で光る「オリジナルペンライト」を使い、客席が色とりどりに。メンバーはその景色に「めちゃくちゃ綺麗」「みんなのおかげ」。「BUGS LIFE」「GOAT」「NUMBERS PT.2」も",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000905956/"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた最近の大きなライブの様子です。",
+ "album": {
+  "title": "No.Ⅱ",
+  "text": "いちばん新しいオリジナルアルバムは、2025年9月22日発売の2nd Full Album『No.Ⅱ』です（<a href=\"https://tobe-official.jp/artists/number_i/discography/108\" target=\"_blank\" rel=\"noopener\">公式</a>）。最新シングルは2026年9月の『REBON / BUGS LIFE / DIGITAL GIRL』（Real Sound）で、「BUGS LIFE」はNo.Ⅲの札幌公演でも歌われています。",
+  "tracks": [
+   "In-flight",
+   "未確認領域",
+   "ATAMI",
+   "Numbers Ur Zone",
+   "幕ノ内",
+   "ピンクストロベリーチョコレートフライデー",
+   "LOOP",
+   "GOD_i",
+   "KC Vibes",
+   "Taboo",
+   "Hard Life",
+   "Kick Snare Man 2",
+   "2OMBIE",
+   "幸せいっぱい腹一杯",
+   "未確認領域 (MONJOE Remix)",
+   "i-mode"
+  ],
+  "live_songs": [
+   "未確認領域",
+   "ATAMI",
+   "Numbers Ur Zone",
+   "ピンクストロベリーチョコレートフライデー",
+   "LOOP",
+   "GOD_i",
+   "KC Vibes",
+   "Hard Life",
+   "2OMBIE",
+   "幸せいっぱい腹一杯",
+   "i-mode"
+  ],
+  "note": "「ツアーで披露」は、LIVE TOUR 2025 No.Ⅱ ファイナルのセットリスト（<a href=\"https://mdpr.jp/music/detail/4702650\" target=\"_blank\" rel=\"noopener\">モデルプレス</a>）に入っていた曲です。ピンクストロベリーチョコレートフライデーは平野紫耀、LOOPは神宮寺勇太、KC Vibesは岸優太のソロ曲。シングルの出典：<a href=\"https://realsound.jp/2026/07/post-2467356.html\" target=\"_blank\" rel=\"noopener\">Real Sound</a>。"
+ }
 }

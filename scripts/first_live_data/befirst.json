@@ -389,6 +389,22 @@
   [
    "モデルプレス（グループの色）",
    "https://mdpr.jp/fashion/detail/4651445"
+  ],
+  [
+   "THE FIRST TIMES（2:BE）",
+   "https://www.thefirsttimes.jp/report/0000566216/"
+  ],
+  [
+   "モデルプレス（スタジアムライブ）",
+   "https://mdpr.jp/music/detail/4782892"
+  ],
+  [
+   "THE FIRST TIMES（ドームツアーとアルバムの発表）",
+   "https://www.thefirsttimes.jp/news/0000812152/"
+  ],
+  [
+   "BE:FIRST 公式特設サイト（BE:4U）",
+   "https://befirst-sp.com/BE4U/"
   ]
  ],
  "summary": [
@@ -426,6 +442,63 @@
   [
    "グッズはいつ発表されますか？",
    "2026年11月23日時点では、ドームツアーのグッズはまだ発表されていません。これまでのツアーでは、会場での販売と公演のあとのBMSG SHOPの通販がありました。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "2026年11月3日発売の『BE:4U』です。スタジアムライブで初披露された「Rondo」や、「BE:FIRST ALL DAY」「街灯」などが入っています。"
   ]
- ]
+ ],
+ "past": [
+  [
+   "初のドームツアー「2:BE」（2024〜25年・4都市9公演・約30万人）",
+   "テーマは「宇宙」。幅22メートルの宇宙船のセットの中央が開いて登場し、クレーンで高さ8.6メートルから歌う場面も。東京ドームでは新曲「Spacecraft」を初披露",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000566216/"
+  ],
+  [
+   "初のスタジアムライブ（2026年5月 味の素スタジアム）",
+   "2日間で約10万人。全36曲を、オーケストラとバンドの新しいアレンジで。ダンサー20人、2本の花道を動くムービングステージ、「Set Sail」での6台のトロッコ、火柱や花火も",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4782892"
+  ],
+  [
+   "メンバーの言葉",
+   "SOTAは「スタジアムまで付いてきてくれてありがとう！」、LEOは音楽に救われた経験を話して「今日生きてて良かった」",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/report/0000812770/"
+  ],
+  [
+   "ドームツアーとアルバムの発表",
+   "スタジアム2日目の公演中に、11月の4枚目のアルバム『BE:4U』と、『5th Anniversary DOME TOUR 2027』の開催が発表された",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/news/0000812152/"
+  ]
+ ],
+ "past_lead": "どんなライブなのか、大手報道で伝えられた前回のドームツアーと、2026年のスタジアムライブの様子です。",
+ "album": {
+  "title": "BE:4U",
+  "text": "デビュー5周年の2026年11月3日に出た4枚目のアルバム『BE:4U』です（<a href=\"https://befirst-sp.com/BE4U/\" target=\"_blank\" rel=\"noopener\">公式の特設サイト</a>）。ドームツアーと同じスタジアムライブで発表された作品で、収録曲の「Rondo」はスタジアムで初披露されました。",
+  "tracks": [
+   "NOW U KNOW",
+   "BE:FIRST ALL DAY",
+   "Exercise",
+   "Why, Why",
+   "Diva",
+   "#Conbini",
+   "It's not a bad life",
+   "Rondo",
+   "for you",
+   "Missing",
+   "H.A.R.E.",
+   "街灯",
+   "Mainstream -2026 ver.-"
+  ],
+  "live_songs": [
+   "BE:FIRST ALL DAY",
+   "Rondo",
+   "街灯",
+   "Mainstream -2026 ver.-"
+  ],
+  "note": "「ツアーで披露」は、2026年5月のスタジアムライブのセットリスト（<a href=\"https://www.thefirsttimes.jp/report/0000812770/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>）に同じ曲名の曲（バージョン違いを含む）が入っていた曲です。Diva・#Conbini・H.A.R.E. はメンバーのユニット曲。"
+ }
 }
