@@ -3,9 +3,9 @@ layout: post
 title: Snow Man みずほPayPayドーム福岡公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
 last_modified_at: '2026-11-26'
-checked_at: '2026-11-25'
+checked_at: '2026-11-26'
 checked_label: 公演の日程と会場のルール
-description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』のみずほPayPayドーム福岡公演（2026年12月4日（金）・5日（土）・6日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSnow Manのメンバーが行ったお店が1軒をまとめました。日程は2026年11月25日時点の公式発表です。
+description: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』のみずほPayPayドーム福岡公演（2026年12月4日（金）・5日（土）・6日（日））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にSnow Manのメンバーが行ったお店が1軒をまとめました。日程は2026年11月26日時点の公式発表です。
 group: snowman
 genre: ライブ
 article_type: live
@@ -37,7 +37,7 @@ shop_ids:
 - snowman-952e0596-20250810
 faq:
 - q: Snow ManのみずほPayPayドーム福岡公演はいつですか？
-  a: 2026年12月4日（金）・5日（土）・6日（日）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。12月4日は開演17:00。12月5日は開演17:00。12月6日は開演16:00。2026年11月25日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
+  a: 2026年12月4日（金）・5日（土）・6日（日）です（Snow Man DOME TOUR 2026-2027 ALL SUITE）。12月4日は開演17:00。12月5日は開演17:00。12月6日は開演16:00。2026年11月26日時点の公式発表で、変わることがあります。最新はSnow Manの公式サイトで確かめてください。
 - q: みずほPayPayドーム福岡の最寄り駅はどこですか？
   a: 地下鉄空港線 唐人町駅です（3番出口・徒歩約15分）。
 - q: みずほPayPayドーム福岡に持ち込めないものは？
@@ -48,7 +48,7 @@ faq:
   a: この記事の「会場から近い宿」に、みずほPayPayドーム福岡から近い順に宿を載せています（楽天トラベル）。「みずほPayPayドーム福岡周辺に泊まる」から、じゃらん・楽天トラベルで検索もできます。終演後の駅は混み合うので、移動の少ない宿を早めに探しておくと安心です。
 pr: true
 summary:
-- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』のみずほPayPayドーム福岡公演は2026年12月4日（金）・5日（土）・6日（日）（2026年11月25日時点の公式発表）
+- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』のみずほPayPayドーム福岡公演は2026年12月4日（金）・5日（土）・6日（日）（2026年11月26日時点の公式発表）
 - 最寄り駅は地下鉄空港線 唐人町駅（3番出口・徒歩約15分）
 - '会場のルールで持ち込めないもの: 飲食物、ビン・缶、ペット（補助犬をのぞく）、危険物（公演ごとの案内も確かめる）'
 - 会場から10km以内にSnow Manのメンバーが行ったお店が1軒。会場からの近さ順に載せています
@@ -82,10 +82,11 @@ thumbnail: /assets/img/posts/snowman-mizuho-paypay-dome-2026-12/thumb.webp
 {% if _today > page.live_end %}<section class="after-show" id="after">
 <h2>🎵 公演のあと（セトリ・次の公演）</h2>
 <p>セットリストは、大手報道のライブレポートに載ったら、出典つき・ネタバレ注意の閉じた形でここに載せます。</p>
+<p class="first-live">ほかの会場の日程・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'snowman-dome-tour-2026-2027-all-suite' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 5大ドームツアー2026-2027「ALL SUITE」まとめ</a></p>
 {% include live-list.html group="snowman" title="Snow Manのこれからの公演" %}
 </section>{% endif %}
 
-<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>みずほPayPayドーム福岡</strong>公演は、<strong>2026年12月4日（金）・5日（土）・6日（日）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月25日時点）。この記事では、みずほPayPayドーム福岡への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
+<p><strong>Snow Man</strong>『Snow Man DOME TOUR 2026-2027 ALL SUITE』の<strong>みずほPayPayドーム福岡</strong>公演は、<strong>2026年12月4日（金）・5日（土）・6日（日）</strong>です（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年11月26日時点）。この記事では、みずほPayPayドーム福岡への行き方・座席のつくり・持ち込めないもの・当日の準備と、会場の近くに泊まる宿の探し方、Snow Manのメンバーが番組やYouTubeで訪れたお店をまとめました。</p>
 
 <p class="live-cd" data-d="2026-12-04" data-e="2026-12-06"><b>公演日</b>2026年12月4日（金）・5日（土）・6日（日）</p>
 
@@ -101,6 +102,10 @@ thumbnail: /assets/img/posts/snowman-mizuho-paypay-dome-2026-12/thumb.webp
 
 {% include venue-hotels.html key="mizuho-paypay-dome" limit=3 top=true %}{% include hotels-link.html key="mizuho-paypay-dome" %}
 
+<p class="first-live">はじめてSnow Manのライブに行くなら：<a href="/guide/snowman-first-live/">Snow Manのライブ初参戦ガイド（ペンライトの色・コール・定番曲・入場）</a></p>
+
+<p class="first-live">ほかの会場の日程・時刻・セトリは：<a href="{% for p in site.posts %}{% if p.slug == 'snowman-dome-tour-2026-2027-all-suite' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 5大ドームツアー2026-2027「ALL SUITE」まとめ</a></p>
+
 <h2 id="date">公演の日程</h2>
 
 <ul class="live-dates">
@@ -111,7 +116,9 @@ thumbnail: /assets/img/posts/snowman-mizuho-paypay-dome-2026-12/thumb.webp
 
 <p>会場：<strong>みずほPayPayドーム福岡</strong>（福岡県）。公演名：Snow Man DOME TOUR 2026-2027 ALL SUITE。</p>
 
-<p class="note">日程・時刻は2026年11月25日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
+<p class="note">開場の時刻とチケットの受付は、大手報道では見つかりませんでした（2026年11月26日時点）。公式の案内で確かめてください。</p>
+
+<p class="note">日程・時刻は2026年11月26日時点の<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式発表</a>です。変わることがあるので、行く前に公式サイトで確かめてください。チケットの申し込みや値段はこの記事では扱いません。</p>
 
 <h2 id="access">会場への行き方</h2>
 
@@ -182,6 +189,8 @@ thumbnail: /assets/img/posts/snowman-mizuho-paypay-dome-2026-12/thumb.webp
 
 <ul>
   <li><a href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a>（基本情報・ゲート・お金と荷物）</li>
+  <li><a href="/guide/snowman-first-live/">Snow Manのライブ初参戦ガイド</a>（ペンライトの色・コール・定番曲・入場・グッズ）</li>
+  <li><a href="{% for p in site.posts %}{% if p.slug == 'snowman-dome-tour-2026-2027-all-suite' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 5大ドームツアー2026-2027「ALL SUITE」まとめ</a>（全会場の日程・時刻・セトリ）</li>
   <li><a href="{{ site.data.group_ix.snowman.u }}">Snow Manのお店一覧</a>（グループのページ）</li>
 </ul>
 
