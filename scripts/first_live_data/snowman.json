@@ -1,0 +1,441 @@
+{
+ "slug": "snowman-first-live",
+ "group": "snowman",
+ "name": "Snow Man",
+ "kana": "スノーマン",
+ "aka": "スノーマン",
+ "color": "#3b82f6",
+ "checked_at": "2026-11-26",
+ "title": "Snow Man（スノーマン）ライブ初参戦ガイド｜メンバーカラー・定番曲・予習のライブ映像・5大ドームツアー2026-2027",
+ "description": "Snow Man（スノーマン）のライブにはじめて行く人のために、大手報道と公式YouTubeで確かめたことをまとめました。『Snow Man DOME TOUR 2026-2027 ALL SUITE』（バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・東京ドーム・京セラドーム大阪）の開演時刻、9人のメンバーとメンバーカラー、アルバム『AMENITY』、前回のドームツアーとスタジアムの様子、定番曲、予習のライブ映像、会場の近くの宿まで。入場やチケットの決まりは公式の案内で確かめてください。",
+ "shows": [
+  {
+   "label": "バンテリンドーム ナゴヤ",
+   "title": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+   "venue_key": "vantelin-dome-nagoya",
+   "dates": [
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "open": "",
+   "start": "17:00",
+   "src": "https://www.oricon.co.jp/news/2473853/full/",
+   "src_label": "オリコンの報道",
+   "time_note": "11月29日は開演15:00"
+  },
+  {
+   "label": "みずほPayPayドーム福岡",
+   "title": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+   "venue_key": "mizuho-paypay-dome",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06"
+   ],
+   "open": "",
+   "start": "17:00",
+   "src": "https://www.oricon.co.jp/news/2473853/full/"
+  },
+  {
+   "label": "東京ドーム",
+   "title": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+   "venue_key": "tokyo-dome",
+   "dates": [
+    "2026-12-23",
+    "2026-12-24",
+    "2026-12-25",
+    "2026-12-26"
+   ],
+   "open": "",
+   "start": "17:00",
+   "src": "https://www.oricon.co.jp/news/2473853/full/"
+  },
+  {
+   "label": "京セラドーム大阪",
+   "title": "Snow Man DOME TOUR 2026-2027 ALL SUITE",
+   "venue_key": "kyocera-dome-osaka",
+   "dates": [
+    "2027-01-04",
+    "2027-01-05",
+    "2027-01-06",
+    "2027-01-07"
+   ],
+   "open": "",
+   "start": "17:00",
+   "src": "https://www.oricon.co.jp/news/2473853/full/"
+  }
+ ],
+ "tour_page": "<a href=\"{% for p in site.posts %}{% if p.slug == 'snowman-dome-tour-2026-2027-all-suite' %}{{ p.url }}{% endif %}{% endfor %}\">Snow Man 5大ドームツアー2026-2027「ALL SUITE」まとめ（日程・時刻・セトリ）</a>",
+ "intro": "Snow Man（スノーマン）のライブに、はじめて行く人のためのページです。日程と時刻、メンバーとメンバーカラー、アルバムと定番曲、予習のライブ映像、帰りの宿までを、<strong>大手報道と公式YouTubeで確かめたこと</strong>だけでまとめました。",
+ "entry_lead": "入場のしかた（チケットの受け取り・本人確認など）と、会場での決まりは、<strong>STARTO ENTERTAINMENTの公式の案内</strong>で確かめてください（このサイトでは公式サイトの中身を読んでいないため、大手報道で確かめられたことだけを載せています）。",
+ "three": [
+  [
+   "開演の時刻を確かめる",
+   "最終日以外は17:00開演、最終日は15:00か16:00（オリコンの報道）。平日の公演も多いので、時刻と帰りの電車を早めに確かめる。開場の時刻は公式の案内で"
+  ],
+  [
+   "推しのメンバーカラーを決める",
+   "岩本照＝黄・深澤辰哉＝紫・ラウール＝白・渡辺翔太＝青・向井康二＝オレンジ・阿部亮平＝緑・目黒蓮＝黒・宮舘涼太＝赤・佐久間大介＝ピンク（オリコン）"
+  ],
+  [
+   "アルバム『AMENITY』で予習",
+   "ツアーはアルバム『AMENITY』を携えたもの（Real Sound）。ホテルを舞台にしたアルバムのコンセプトがツアーの名前にもなっている"
+  ]
+ ],
+ "flow": [
+  [
+   "前日まで",
+   "チケットと決まりを確かめる",
+   "チケットの受け取り方・本人確認・持ち込みの決まりは公式の案内で"
+  ],
+  [
+   "{start}",
+   "開演",
+   "開場の時刻は公式の案内で確かめる"
+  ],
+  [
+   "終演後",
+   "帰る・泊まる",
+   "終演の時刻は未発表。平日の夜の公演が多く、4日続く会場もあるので、遠くから行く人は<a href=\"#stay\">会場の近くの宿</a>も早めに"
+  ]
+ ],
+ "check": [
+  [
+   "ticket",
+   "チケット（受け取り方は公式の案内で）"
+  ],
+  [
+   "id",
+   "身分証明書（本人確認があるかは公式の案内で）"
+  ],
+  [
+   "light",
+   "ペンライト（推しのメンバーカラー）"
+  ],
+  [
+   "bag",
+   "荷物は少なめに"
+  ]
+ ],
+ "rules": {
+  "ng_items": [
+   "会場のルールで持ち込めないもの（各ドームの会場ガイドに）"
+  ],
+  "ng_acts": [
+   "公演ごとの決まり（撮影・応援グッズなど）は、公式の案内で確かめる"
+  ],
+  "ok": [
+   "会場にはツアーのフォトスポットがあったと報じられている（札幌公演）"
+  ],
+  "note": "このツアーの持ち込み・撮影・声出しの決まりは、大手報道では見つかりませんでした（2026年11月26日時点）。出典：<a href=\"https://www.thefirsttimes.jp/news/0000910410/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>。"
+ },
+ "penlight": {
+  "heading": "ペンライトとメンバーカラー",
+  "text": "Snow Manのメンバーカラーは、<strong>岩本照が黄・深澤辰哉が紫・ラウールが白・渡辺翔太が青・向井康二がオレンジ・阿部亮平が緑・目黒蓮が黒・宮舘涼太が赤・佐久間大介がピンク</strong>です（<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。このツアーのペンライトについての報道は、2026年11月26日時点では見つかりませんでした。",
+  "colors": [
+   [
+    "黄（岩本照）",
+    "#facc15"
+   ],
+   [
+    "紫（深澤辰哉）",
+    "#8b5cf6"
+   ],
+   [
+    "白（ラウール）",
+    "#ffffff"
+   ],
+   [
+    "青（渡辺翔太）",
+    "#3b82f6"
+   ],
+   [
+    "オレンジ（向井康二）",
+    "#f97316"
+   ],
+   [
+    "緑（阿部亮平）",
+    "#22c55e"
+   ],
+   [
+    "黒（目黒蓮）",
+    "#52525b"
+   ],
+   [
+    "赤（宮舘涼太）",
+    "#ef4444"
+   ],
+   [
+    "ピンク（佐久間大介）",
+    "#ec4899"
+   ]
+  ],
+  "note": "色の見本はイメージです。出典：<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>・<a href=\"https://www.thefirsttimes.jp/column/0000592041/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>。"
+ },
+ "members": {
+  "list": [
+   "岩本照",
+   "深澤辰哉",
+   "ラウール",
+   "渡辺翔太",
+   "向井康二",
+   "阿部亮平",
+   "目黒蓮",
+   "宮舘涼太",
+   "佐久間大介"
+  ],
+  "colors": {
+   "岩本照": "#eab308",
+   "深澤辰哉": "#8b5cf6",
+   "ラウール": "#9ca3af",
+   "渡辺翔太": "#3b82f6",
+   "向井康二": "#f97316",
+   "阿部亮平": "#22c55e",
+   "目黒蓮": "#1f2937",
+   "宮舘涼太": "#ef4444",
+   "佐久間大介": "#ec4899"
+  },
+  "birth": {
+   "岩本照": "1993年5月17日",
+   "深澤辰哉": "1992年5月5日",
+   "ラウール": "2003年6月27日",
+   "渡辺翔太": "1992年11月5日",
+   "向井康二": "1994年6月21日",
+   "阿部亮平": "1993年11月27日",
+   "目黒蓮": "1997年2月16日",
+   "宮舘涼太": "1993年3月25日",
+   "佐久間大介": "1992年7月5日"
+  },
+  "note": "9人組です（<a href=\"https://www.oricon.co.jp/news/2426478/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。メンバーカラーは<a href=\"https://www.oricon.co.jp/special/69841/\" target=\"_blank\" rel=\"noopener\">オリコン</a>、生年月日は<a href=\"https://www.thefirsttimes.jp/column/0000592041/\" target=\"_blank\" rel=\"noopener\">THE FIRST TIMES</a>より。目黒蓮は海外の作品の撮影を終えて、このツアーからグループの活動に戻りました（<a href=\"https://www.oricon.co.jp/news/2486073/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。"
+ },
+ "call": {
+  "text": "Snow Manの公式YouTubeには、<strong>コールの練習動画は見当たりませんでした</strong>（2026年11月26日時点）。声出しの決まりは公式の案内で確かめてください。公式YouTubeには、前回のドームツアーやスタジアムのライブ映像があります。",
+  "memo": "はじめてなら、公式YouTubeのライブ映像で、曲の流れや客席の雰囲気を見ておくのが確実です。",
+  "channel": "Snow Man",
+  "videos": [
+   [
+    "--n8xJ96XmU",
+    "Ready Go Round",
+    "Dome Tour 2025-2026 ON より"
+   ],
+   [
+    "YVv3XZFLSOA",
+    "Miss Brand-New Friday Night",
+    "Dome Tour 2025-2026 ON より"
+   ],
+   [
+    "f-jim-S5GMA",
+    "ドレス&タキシード",
+    "Dome Tour 2024 RAYS より"
+   ],
+   [
+    "Mk0FpUinR90",
+    "BREAKOUT",
+    "Dome Tour 2024 RAYS より"
+   ],
+   [
+    "xZuLeS4N4Ig",
+    "Overture",
+    "Dome Tour 2024 RAYS OPENING STAGE"
+   ],
+   [
+    "CAHOwBaID_c",
+    "ミッドナイト･トレンディ",
+    "LIVE TOUR 2022 Labo. より"
+   ]
+  ]
+ },
+ "setlist": {
+  "intro": "このツアーの全曲のセットリストは、大手報道にはまだ載っていません。そこで、前回のドームツアー「ON」（2025年12月 東京ドーム）と、初のスタジアムライブ「Snow World」（2025年4月 国立競技場）のセットリスト（モデルプレス）を比べました。<strong>両方で歌われたのは11曲</strong>。このツアーで歌われるかは分かりませんが、予習の手がかりになります。",
+  "top_label": "前回のドームツアーと初のスタジアムライブの両方で歌われた曲（大手報道のセットリストから）",
+  "top": [
+   "Grandeur",
+   "ブラザービート",
+   "Dangerholic",
+   "オレンジKiss",
+   "君は僕のもの",
+   "君へ贈る応援歌",
+   "D.D.",
+   "君の彼氏になりたい。",
+   "Crazy F-R-E-S-H Beat",
+   "HELLO HELLO",
+   "ナミダの海を越えて行け"
+  ],
+  "sets": [
+   {
+    "title": "Dome Tour 2025-2026 ON（2025年12月23日 東京ドーム）",
+    "parts": [
+     [
+      "本編",
+      "TRUE LOVE／Grandeur／ブラザービート／Nine Snow Charge!!／SERIOUS／悪戯な天使／くちびる／Dangerholic／オレンジkiss／Miss Brand-New Friday Night／Symmetry（岩本・深澤）／サンシャインドリーマー（ラウール・渡辺・向井）／君は僕のもの／Ready Go Round／君へ贈る応援歌／カリスマックス／Luv Classic／約束は君と／イチバンボシ／Days／地球(あい)してるぜ（宮舘・佐久間）／D.D.／Jack In The Box／君の彼氏になりたい。／ばきゅん／ファンターナモーレ／ART（阿部・目黒）／Crazy F-R-E-S-H Beat／BOOST／愛のせいで"
+     ],
+     [
+      "アンコール",
+      "カリスマックス／HELLO HELLO／ナミダの海を越えて行け"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4701459",
+     ""
+    ]
+   },
+   {
+    "title": "1st Stadium Live～Snow World～（2025年4月19日 国立競技場）",
+    "parts": [
+     [
+      "本編",
+      "Crazy F-R-E-S-H Beat／EVOLUTION／POWEEEEER／Nine Snow Flash／ナミダの海を越えて行け／ブラザービート／僕という名のドラマ／SBY／いっそ、嫌いになれたら（阿部）／I・だって止まらない（宮舘）／オトノナルホウヘ（渡辺）／朝の時間（目黒）／Tic Tac Toe／KISSIN'MY LIPS／LOVE TRIGGER／Cry Out／君へ贈る応援歌／あいことば／スタートライン／タペストリー／ファインダー（向井）／iro iro（深澤）／守りたい、その笑顔（佐久間）／7%（岩本）／Induction（ラウール）／EMPIRE／BREAKOUT／slow…［Mashup］／Grandeur／Party! Party! Party!／D.D.／HELLO HELLO／オレンジKiss／Dangerholic／君は僕のもの／Dear,"
+     ],
+     [
+      "アンコール",
+      "Snow World／君の彼氏になりたい。／KANPAI Year!!／We'll go together"
+     ]
+    ],
+    "src": [
+     "モデルプレス",
+     "https://mdpr.jp/music/detail/4547985",
+     ""
+    ]
+   }
+  ]
+ },
+ "past_lead": "どんなライブなのか、大手報道で伝えられた前回のドームツアーとスタジアムライブ、このツアーの様子です。",
+ "past": [
+  [
+   "前回のドームツアー「ON」（2025〜26年）",
+   "アルバム『音故知新』の「音＝ON」からの名前で、1960年代から今までの年代ごとの演出。5都市17公演・78万人の予定で、グループ最多の動員。東京ドームはムービングステージでの「TRUE LOVE」で始まり、20メートルの高さのクレーンや火の玉の演出も。約2時間半",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4701459"
+  ],
+  [
+   "初のスタジアムライブ「Snow World」（2025年）",
+   "国立競技場と日産スタジアムの2会場4公演・28.4万人の予定。20メートルまで上がる水（220トン）、3,500発の炎、70人のマーチングバンド。アンコールを含む39曲で、最後は9色の花火3,000発",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4547985"
+  ],
+  [
+   "初の5大ドームツアー「RAYS」（2024年）",
+   "「9人の『光線』が集まり、大きな光となって、もっと遠くまで輝く」という意味のタイトル。5都市13公演・61.5万人の予定。「ドレス＆タキシード」では気球で約24メートルの高さまで",
+   "モデルプレス",
+   "https://mdpr.jp/music/detail/4451137"
+  ],
+  [
+   "「ALL SUITE」の始まり（2026年10月 札幌）",
+   "佐久間大介は「5大ドームツアー初日！！！！」と投稿。会場には、9つのホテルマン風の雪だるまとツアータイトルのバルーンのフォトスポット。札幌のあとには「最終日まで“最高のおもてなし”を届けに走り抜けます！」と公式が投稿",
+   "THE FIRST TIMES",
+   "https://www.thefirsttimes.jp/news/0000911112/"
+  ]
+ ],
+ "album": {
+  "title": "AMENITY",
+  "text": "2026年10月7日発売の6枚目のアルバム『AMENITY』は、曲をホテルのアメニティに見立てて届けるコンセプトの作品で、架空のホテル「HOTEL ALL SUITE」を舞台に、メンバーがホテルマンとして曲を届けます（<a href=\"https://realsound.jp/2026/10/post-2540323.html\" target=\"_blank\" rel=\"noopener\">Real Sound</a>）。ツアーはこのアルバムを携えたもの（<a href=\"https://realsound.jp/2026/11/post-2576459.html\" target=\"_blank\" rel=\"noopener\">Real Sound</a>）。初週の売り上げは101.4万枚でした（<a href=\"https://www.oricon.co.jp/news/2485967/full/\" target=\"_blank\" rel=\"noopener\">オリコン</a>）。",
+  "tracks": [
+   "グッタイム",
+   "ALL SUITE",
+   "オドロウゼ！",
+   "奇跡",
+   "BANG!!",
+   "SAVE YOUR HEART",
+   "GO HARD",
+   "マドラー",
+   "show time...",
+   "あいがとう。（向井・阿部・佐久間）",
+   "夜明けのララバイ（岩本・ラウール・宮舘）",
+   "Be mine（深澤・渡辺）",
+   "私の彼氏になりたい？（Bonus Track）",
+   "でも（Bonus Track）"
+  ],
+  "live_songs": [],
+  "note": "通常盤の曲順です（<a href=\"https://realsound.jp/2026/10/post-2540323.html\" target=\"_blank\" rel=\"noopener\">Real Sound</a>）。このツアーのセットリストは大手報道にまだ載っていないので、「ツアーで披露」の印は付けていません。"
+ },
+ "goods": [
+  [
+   "ツアーのグッズ・ペンライト",
+   "2026年11月26日時点では、大手報道は見つかりませんでした。公式の案内で確かめてください"
+  ]
+ ],
+ "official_links": [
+  [
+   "公演情報（STARTO ENTERTAINMENT）",
+   "https://starto.jp/s/p/live/10578",
+   "日程・チケット・注意事項"
+  ],
+  [
+   "公式YouTube",
+   "https://www.youtube.com/@SnowMan.official.9",
+   "ライブ映像・MV"
+  ]
+ ],
+ "stay_text": "名古屋・東京・大阪は4日続けての公演で、最終日以外は17:00開演です。平日の夜の公演も多く、終演の時刻は報じられていません。遠くから行く人や続けて行く人は、会場の近くに宿をとっておくと帰りの電車を気にせずに済みます。",
+ "matome_url": "/articles/2026/05/12/snowman-gourmet-matome/",
+ "sources": [
+  [
+   "オリコン（日程と開演時刻）",
+   "https://www.oricon.co.jp/news/2473853/full/"
+  ],
+  [
+   "Real Sound（5大ドームツアー）",
+   "https://realsound.jp/2026/10/post-2566545.html"
+  ],
+  [
+   "Real Sound（アルバム『AMENITY』の収録曲）",
+   "https://realsound.jp/2026/10/post-2540323.html"
+  ],
+  [
+   "オリコン（メンバーカラー）",
+   "https://www.oricon.co.jp/special/69841/"
+  ],
+  [
+   "THE FIRST TIMES（メンバーのプロフィール）",
+   "https://www.thefirsttimes.jp/column/0000592041/"
+  ],
+  [
+   "モデルプレス（ON 東京ドーム セットリスト）",
+   "https://mdpr.jp/music/detail/4701459"
+  ],
+  [
+   "モデルプレス（Snow World 国立競技場 セットリスト）",
+   "https://mdpr.jp/music/detail/4547985"
+  ],
+  [
+   "モデルプレス（RAYS 東京ドーム）",
+   "https://mdpr.jp/music/detail/4451137"
+  ],
+  [
+   "THE FIRST TIMES（ALL SUITE 札幌）",
+   "https://www.thefirsttimes.jp/news/0000911112/"
+  ]
+ ],
+ "summary": [
+  "5大ドームツアーは5都市18公演。これからの会場は バンテリンドーム ナゴヤ（11月26日〜29日）・みずほPayPayドーム福岡（12月4日〜6日）・東京ドーム（12月23日〜26日）・京セラドーム大阪（2027年1月4日〜7日）。最終日以外は17:00開演（オリコン）",
+  "メンバーカラーは 岩本照＝黄・深澤辰哉＝紫・ラウール＝白・渡辺翔太＝青・向井康二＝オレンジ・阿部亮平＝緑・目黒蓮＝黒・宮舘涼太＝赤・佐久間大介＝ピンク（オリコン）",
+  "ツアーはアルバム『AMENITY』を携えたもの。架空のホテル「HOTEL ALL SUITE」が舞台",
+  "前回のドームツアーと初のスタジアムライブの両方で歌われた曲は11曲。公式YouTubeにライブ映像",
+  "入場・チケット・会場での決まりは、STARTO ENTERTAINMENTの公式の案内で確かめる"
+ ],
+ "faq": [
+  [
+   "Snow Manのドームツアーの開演は何時ですか？",
+   "最終日以外は17:00開演です。最終日は札幌が15:00、名古屋が15:00、福岡・東京・大阪が16:00です（オリコンの報道）。開場の時刻は公式の案内で確かめてください。"
+  ],
+  [
+   "Snow Manのメンバーカラーは？",
+   "岩本照が黄、深澤辰哉が紫、ラウールが白、渡辺翔太が青、向井康二がオレンジ、阿部亮平が緑、目黒蓮が黒、宮舘涼太が赤、佐久間大介がピンクです（オリコンの記事より）。"
+  ],
+  [
+   "「ALL SUITE」の意味は？",
+   "ツアーが携える6枚目のアルバム『AMENITY』は、架空のホテル「HOTEL ALL SUITE」を舞台に、メンバーがホテルマンとして曲を届けるというコンセプトです（Real Sound・オリコン）。"
+  ],
+  [
+   "予習するならどのアルバム？",
+   "2026年10月7日発売の『AMENITY』です。前回のドームツアーやスタジアムで歌われた曲は、このページの「定番曲」にまとめています。"
+  ],
+  [
+   "チケットや入場の決まりは？",
+   "このサイトでは大手報道で確かめられたことだけを載せていて、このツアーのチケット・入場・持ち込みの決まりの報道は見つかりませんでした（2026年11月26日時点）。STARTO ENTERTAINMENTの公式の案内で確かめてください。"
+  ]
+ ]
+}

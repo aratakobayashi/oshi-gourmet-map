@@ -545,5 +545,62 @@
   "logo_text": "fan IS",
   "logo_sub": "DOME",
   "out": "assets/img/posts/kismai-dome-tour-2026-2027/thumb"
+ },
+ "snowman-first-live": {
+  "color": "#3b82f6",
+  "group": "snowman",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#facc15",
+   "#8b5cf6",
+   "#ffffff",
+   "#3b82f6",
+   "#f97316",
+   "#22c55e",
+   "#ef4444",
+   "#ec4899"
+  ],
+  "label": "はじめてのライブ",
+  "title": "Snow Man",
+  "sub": "スノーマンのライブに\nはじめて行く人へ",
+  "chips": [
+   "5大ドーム",
+   "メンバーカラー9色",
+   "定番曲11曲",
+   "ライブ映像"
+  ]
+ },
+ "snowman-dome-tour-2026-2027-all-suite": {
+  "color": "#3b82f6",
+  "group": "snowman",
+  "bg": [
+   "#06122b",
+   "#0b1f4d",
+   "#030817"
+  ],
+  "lights": [
+   "#facc15",
+   "#8b5cf6",
+   "#ffffff",
+   "#3b82f6",
+   "#f97316",
+   "#22c55e",
+   "#ef4444",
+   "#ec4899"
+  ],
+  "label": "ツアーまとめ",
+  "title": "Snow Man",
+  "sub": "DOME TOUR 2026-2027\nALL SUITE",
+  "chips": [
+   "名古屋 11.26〜",
+   "福岡 12.4〜",
+   "東京 12.23〜",
+   "大阪 1.4〜"
+  ],
+  "out": "assets/img/posts/snowman-dome-tour-2026-2027-all-suite/thumb"
  }
 }

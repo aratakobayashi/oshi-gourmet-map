@@ -1,110 +1,234 @@
 ---
 layout: post
-title: 『Snow Man DOME TOUR 2026-2027 ALL SUITE』×聖地巡礼｜会場ごとの近くの推しグルメと泊まる場所
+title: Snow Man 5大ドームツアー2026-2027「ALL SUITE」まとめ｜大和ハウス プレミストドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・東京ドーム・京セラドーム大阪の日程・時刻・セトリ・近くのホテル
 date: '2026-10-19'
-last_modified_at: '2026-10-19'
-checked_at: '2026-10-19'
-checked_label: ツアーの日程と会場
-description: Snow Manのツアー『Snow Man DOME TOUR 2026-2027 ALL SUITE』（2026年10月30日〜2027年1月7日・5会場・18公演）の会場ごとに、Snow Manのメンバーが番組やYouTubeで訪れたお店を会場から近い順に15軒まとめました。会場は大和ハウス プレミストドーム・バンテリンドーム ナゴヤ・みずほPayPayドーム福岡・東京ドーム・京セラドーム大阪。会場の近くに泊まる宿の探し方と、各会場のライブ参戦ガイドもあわせて。
+last_modified_at: '2026-11-26'
+checked_at: '2026-11-26'
+checked_label: 公演の日程
+description: Snow Man DOME TOUR 2026-2027 ALL SUITE（大和ハウス プレミストドーム 2026年10月30日（金）・31日（土）・11月1日（日）、バンテリンドーム ナゴヤ 2026年11月26日（木）・27日（金）・28日（土）・29日（日）、みずほPayPayドーム福岡 2026年12月4日（金）・5日（土）・6日（日）、東京ドーム 2026年12月23日（水）・24日（木）・25日（金）・26日（土）、京セラドーム大阪 2027年1月4日（月）・5日（火）・6日（水）・7日（木））の日程と会場、会場ごとの近い宿と近くのSnow Manの聖地、公演のあとのセットリストをまとめました。日程は2026年11月26日時点の公式発表です。
 group: snowman
-genre: まとめ
-article_type: tour
+genre: ライブ
+article_type: tourhub
+live_dates:
+- '2026-10-30'
+- '2026-10-31'
+- '2026-11-01'
+- '2026-11-26'
+- '2026-11-27'
+- '2026-11-28'
+- '2026-11-29'
+- '2026-12-04'
+- '2026-12-05'
+- '2026-12-06'
+- '2026-12-23'
+- '2026-12-24'
+- '2026-12-25'
+- '2026-12-26'
+- '2027-01-04'
+- '2027-01-05'
+- '2027-01-06'
+- '2027-01-07'
+live_end: '2027-01-07'
 tags:
 - Snow Man
 - Snow Man DOME TOUR 2026-2027 ALL SUITE
-- ツアー
-- 遠征
-- 聖地巡礼
-- ロケ地
 - 大和ハウス プレミストドーム
 - バンテリンドーム ナゴヤ
 - みずほPayPayドーム福岡
 - 東京ドーム
 - 京セラドーム大阪
-- 阿部亮平
-- 渡辺翔太
-- 深澤辰哉
-- 佐久間大介
-- 岩本照
+- ライブ
+- ドーム公演
+- 日程
+- セトリ
+- 遠征
 sources:
-- label: STARTO ENTERTAINMENT（Snow Man DOME TOUR 2026-2027 ALL SUITE 公演情報）
-  url: https://starto.jp/s/p/live/10578
-- label: STARTO ENTERTAINMENT（公演情報の一覧）
-  url: https://starto.jp/s/p/live
-shop_ids:
-- 7efac0da
-- snowman-1af405c2-20180627
-- 66241ca4
-- 84d28d77
-- 484981ad
-- snowman-952e0596-20250810
-- snowman-09af6680-202605
-- e9ac0dc6
-- snowman-ryuho-kagurazaka
-- 567a45e0
-- snowman-welovedonut-20260513
-- '12891750'
-- snowman-kitchen-nanagoku-waseda
-- snowman-abura-gakkai-waseda
-- snowman-69eda10a-20260116
+- label: オリコン（日程と開演時刻）
+  url: https://www.oricon.co.jp/news/2473853/full/
+- label: Real Sound（5大ドームツアー）
+  url: https://realsound.jp/2026/10/post-2566545.html
+- label: Real Sound（アルバム『AMENITY』）
+  url: https://realsound.jp/2026/10/post-2540323.html
+- label: THE FIRST TIMES（札幌公演の初日）
+  url: https://www.thefirsttimes.jp/news/0000910410/
+- label: THE FIRST TIMES（札幌公演の終了）
+  url: https://www.thefirsttimes.jp/news/0000911112/
 faq:
-- q: Snow Manの『Snow Man DOME TOUR 2026-2027 ALL SUITE』の会場と日程は？
-  a: 2026年10月30日〜2027年1月7日に5会場・18公演です。大和ハウス プレミストドーム（10月30日・10月31日・11月1日）、バンテリンドーム ナゴヤ（11月26日・11月27日・11月28日・11月29日）、みずほPayPayドーム福岡（12月4日・12月5日・12月6日）、東京ドーム（12月23日・12月24日・12月25日・12月26日）、京セラドーム大阪（1月4日・1月5日・1月6日・1月7日）。日程は2026年10月19日時点の公式発表で、変わることがあります。最新は公式サイトで確かめてください。
-- q: バンテリンドーム ナゴヤの近くでSnow Manの聖地はありますか？
-  a: 会場から10km以内に5軒あります。覚王山とんかつ わだ福（約2.1km）、立食いめん処 吉野屋（約3.0km）、気晴亭 鶴舞本店（約4.0km）などです。会場からの距離は直線距離です。
-- q: みずほPayPayドーム福岡の近くでSnow Manの聖地はありますか？
-  a: 会場から10km以内に1軒あります。寺カフェ あわも（約0.8km）などです。会場からの距離は直線距離です。
-- q: 東京ドームの近くでSnow Manの聖地はありますか？
-  a: 会場から3km以内に8軒以上あります。しゃぶ禅 神楽坂店（約1.1km）、タケウチ 神保町本店（約1.2km）、龍朋（約1.3km）などです。会場からの距離は直線距離です。
-- q: 大和ハウス プレミストドームの近くにSnow Manの聖地はありますか？
-  a: 2026年10月時点で、会場から10km以内にSnow Manのメンバーが行ったお店は登録されていません。ほかの推しが訪れたお店は会場ガイドと「お店を探す」の地図で見られます。
-- q: 会場の近くに泊まる宿はどう探せばいいですか？
-  a: この記事の会場ごとの「泊まる」から、じゃらん・楽天トラベルで会場名を検索できます。遠征の交通や持ち物は「ライブ遠征の準備チェックリスト」にまとめています。
+- q: Snow Man DOME TOUR 2026-2027 ALL SUITEの日程と会場は？
+  a: 大和ハウス プレミストドーム（2026年10月30日（金）・31日（土）・11月1日（日））、バンテリンドーム ナゴヤ（2026年11月26日（木）・27日（金）・28日（土）・29日（日））、みずほPayPayドーム福岡（2026年12月4日（金）・5日（土）・6日（日））、東京ドーム（2026年12月23日（水）・24日（木）・25日（金）・26日（土））、京セラドーム大阪（2027年1月4日（月）・5日（火）・6日（水）・7日（木））です。2026年11月26日時点の公式発表で、変わることがあります。
+- q: 開場・開演の時刻は？
+  a: 10月30日は開演17:00、10月31日は開演17:00、11月1日は開演15:00、11月26日は開演17:00、11月27日は開演17:00、11月28日は開演17:00、11月29日は開演15:00、12月4日は開演17:00、12月5日は開演17:00、12月6日は開演16:00、12月23日は開演17:00、12月24日は開演17:00、12月25日は開演17:00、12月26日は開演16:00、1月4日は開演17:00、1月5日は開演17:00、1月6日は開演17:00、1月7日は開演16:00です（日程と開演の時刻は、オリコンの報道より）。発表されていない公演の時刻は、Snow Manの公式サイトで確かめてください。
+- q: セットリストは？
+  a: このツアーの全曲のセットリストは、大手報道にはまだ載っていません（2026年11月26日時点）。載ったときだけ、出典つき・ネタバレ注意の閉じた形で載せます。
+- q: 会場の近くの宿は？
+  a: このページの会場ごとの「会場から近い宿」に、楽天トラベルの宿を会場から近い順に載せています。会場ごとの「近くのホテル」のページでは、最寄り駅ごとにさらに多くの宿を見られます。
 pr: true
-thumbnail_video_id: axGl2IP4vGs
-techo: true
-cover_ids: snowman-1af405c2-20180627,66241ca4,84d28d77
-cover_title: Snow Man ツアー巡礼帳
-cover_sub: Snow Man DOME TOUR 2026-2027 ALL SUITE　5会場の近くの聖地
 summary:
-- 『Snow Man DOME TOUR 2026-2027 ALL SUITE』は2026年10月30日〜2027年1月7日、5会場・18公演（2026年10月19日時点の公式発表）
-- 会場の近くにSnow Manのメンバーが行ったお店があるのは4会場。あわせて15軒を会場から近い順に載せています
-- 会場ごとに、宿の探し方（じゃらん・楽天トラベル）と、持ち込み・座席が分かるライブ参戦ガイドへの案内つき
+- Snow Man DOME TOUR 2026-2027 ALL SUITEは大和ハウス プレミストドーム 2026年10月30日（金）・31日（土）・11月1日（日）、バンテリンドーム ナゴヤ 2026年11月26日（木）・27日（金）・28日（土）・29日（日）、みずほPayPayドーム福岡 2026年12月4日（金）・5日（土）・6日（日）、東京ドーム 2026年12月23日（水）・24日（木）・25日（金）・26日（土）、京セラドーム大阪 2027年1月4日（月）・5日（火）・6日（水）・7日（木）の5会場・18公演（2026年11月26日時点の公式発表）
+- '発表されている時刻: 10月30日は開演17:00、10月31日は開演17:00、11月1日は開演15:00、11月26日は開演17:00、11月27日は開演17:00、11月28日は開演17:00、11月29日は開演15:00、12月4日は開演17:00、12月5日は開演17:00、12月6日は開演16:00、12月23日は開演17:00、12月24日は開演17:00、12月25日は開演17:00、12月26日は開演16:00、1月4日は開演17:00、1月5日は開演17:00、1月6日は開演17:00、1月7日は開演16:00'
+- 会場ごとに、会場から近い宿（楽天トラベル）と宿の検索、近くのSnow Manの聖地、参戦ガイドをまとめています
+- セットリストは公演のあと、大手報道のライブレポートに載ったものだけを出典つきで載せます
+events:
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-10-30'
+  start: '17:00'
+  door: ''
+  venue_key: sapporo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-10-31'
+  start: '17:00'
+  door: ''
+  venue_key: sapporo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-01'
+  start: '15:00'
+  door: ''
+  venue_key: sapporo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-26'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-27'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-28'
+  start: '17:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-11-29'
+  start: '15:00'
+  door: ''
+  venue_key: vantelin-dome-nagoya
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-04'
+  start: '17:00'
+  door: ''
+  venue_key: mizuho-paypay-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-05'
+  start: '17:00'
+  door: ''
+  venue_key: mizuho-paypay-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-06'
+  start: '16:00'
+  door: ''
+  venue_key: mizuho-paypay-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-23'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-24'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-25'
+  start: '17:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2026-12-26'
+  start: '16:00'
+  door: ''
+  venue_key: tokyo-dome
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2027-01-04'
+  start: '17:00'
+  door: ''
+  venue_key: kyocera-dome-osaka
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2027-01-05'
+  start: '17:00'
+  door: ''
+  venue_key: kyocera-dome-osaka
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2027-01-06'
+  start: '17:00'
+  door: ''
+  venue_key: kyocera-dome-osaka
+  url: https://starto.jp/s/p/live/10578
+- name: Snow Man DOME TOUR 2026-2027 ALL SUITE
+  date: '2027-01-07'
+  start: '16:00'
+  door: ''
+  venue_key: kyocera-dome-osaka
+  url: https://starto.jp/s/p/live/10578
+thumbnail: /assets/img/posts/snowman-dome-tour-2026-2027-all-suite/thumb.webp
 ---
-<div class="pf pf--techo" style="--pc:#3b82f6">
+<div class="pf fl" style="--pc:#3b82f6">
 
+<section class="fl-hero" aria-label="次の公演">
+  <p class="fl-hero__k">NEXT · バンテリンドーム ナゴヤ</p>
+  <p class="fl-hero__v">ALL SUITE</p>
+  <p class="fl-hero__t">Snow Man DOME TOUR 2026-2027 ALL SUITE　5会場・18公演</p>
+  <div class="fl-hero__days"><div><b>11.26</b><small>木</small></div><div><b>11.27</b><small>金</small></div><div><b>11.28</b><small>土</small></div><div><b>11.29</b><small>日</small></div></div>
+  <p class="live-cd" data-d="2026-11-26" data-e="2026-11-29"><b>公演日</b>2026年11月26日（木）・27日（金）・28日（土）・29日（日）</p>
+</section>
 
+<nav class="live-jump" aria-label="この記事の章"><a class="chip chip--area" href="#schedule">📅 日程</a><a class="chip chip--area" href="#v-sapporo-dome">🏟 大和ハウス プレミストドーム</a><a class="chip chip--area" href="#v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ</a><a class="chip chip--area" href="#v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡</a><a class="chip chip--area" href="#v-tokyo-dome">🏟 東京ドーム</a><a class="chip chip--area" href="#v-kyocera-dome-osaka">🏟 京セラドーム大阪</a><a class="chip chip--area" href="#goods">🛍 グッズ</a><a class="chip chip--area" href="#setlist">🎵 セトリ</a><a class="chip chip--area" href="#prep">🔰 はじめての人へ</a></nav>
 
-<p><strong>Snow Man</strong>のツアー『Snow Man DOME TOUR 2026-2027 ALL SUITE』は、2026年10月30日〜2027年1月7日に5会場で全18公演が行われます（<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式の公演情報</a>・2026年10月19日時点）。遠征の日は、会場の近くにある推しの聖地を巡るチャンスです。</p>
+<p>Snow Man（スノーマン）の『Snow Man DOME TOUR 2026-2027 ALL SUITE』は、3年続けての5大ドームツアーで、5都市18公演です（Real Sound）。6枚目のアルバム『AMENITY』を携えたツアーで、アルバムは架空のホテル「HOTEL ALL SUITE」を舞台に、メンバーがホテルマンとして曲を届けるというコンセプトです。2026年10月30日の札幌から2027年1月7日の京セラドーム大阪まで。日程と開演の時刻、会場ごとの近い宿と近くの聖地をこのページにまとめます（2026年11月26日時点）。</p>
 
-<p>この記事では、会場ごとに<strong>Snow Manのメンバーが番組やYouTubeで訪れたお店</strong>を会場から近い順に並べました（15軒）。お店ごとに、どの回で誰が行ったか・頼んだ物・会場からの直線距離が分かります。会場の近くに泊まる宿の探し方と、持ち込みや座席が分かるライブ参戦ガイドもあわせてどうぞ。</p>
+<h2 id="schedule">📅 日程と会場</h2>
 
-<div class="cnav">
-<p class="cnav__h">会場で選ぶ</p>
-<div class="cnav__list"><a href="#v1"><span>大和ハウス プレミストドーム<small>10/30・10/31・11/1</small></span></a><a href="#v2"><span>バンテリンドーム ナゴヤ<small>11/26・11/27・11/28…／聖地5軒</small></span></a><a href="#v3"><span>みずほPayPayドーム福岡<small>12/4・12/5・12/6／聖地1軒</small></span></a><a href="#v4"><span>東京ドーム<small>12/23・12/24・12/25…／聖地8軒</small></span></a><a href="#v5"><span>京セラドーム大阪<small>1/4・1/5・1/6…／聖地1軒</small></span></a></div>
+<ol class="tl-sched">
+  <li class="is-past"><span class="tl-d"><b>10.30</b><small>金</small></span><span class="tl-v"><b>大和ハウス プレミストドーム</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'sapporo-dome' and p.live_end == '2026-11-01' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li class="is-past"><span class="tl-d"><b>10.31</b><small>土</small></span><span class="tl-v"><b>大和ハウス プレミストドーム</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'sapporo-dome' and p.live_end == '2026-11-01' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li class="is-past"><span class="tl-d"><b>11.1</b><small>日</small></span><span class="tl-v"><b>大和ハウス プレミストドーム</b><small>開演 15:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'sapporo-dome' and p.live_end == '2026-11-01' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>11.26</b><small>木</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>11.27</b><small>金</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>11.28</b><small>土</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>11.29</b><small>日</small></span><span class="tl-v"><b>バンテリンドーム ナゴヤ</b><small>開演 15:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.4</b><small>金</small></span><span class="tl-v"><b>みずほPayPayドーム福岡</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2026-12-06' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.5</b><small>土</small></span><span class="tl-v"><b>みずほPayPayドーム福岡</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2026-12-06' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.6</b><small>日</small></span><span class="tl-v"><b>みずほPayPayドーム福岡</b><small>開演 16:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2026-12-06' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.23</b><small>水</small></span><span class="tl-v"><b>東京ドーム</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.24</b><small>木</small></span><span class="tl-v"><b>東京ドーム</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.25</b><small>金</small></span><span class="tl-v"><b>東京ドーム</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>12.26</b><small>土</small></span><span class="tl-v"><b>東京ドーム</b><small>開演 16:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.4</b><small>月</small></span><span class="tl-v"><b>京セラドーム大阪</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-07' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.5</b><small>火</small></span><span class="tl-v"><b>京セラドーム大阪</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-07' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.6</b><small>水</small></span><span class="tl-v"><b>京セラドーム大阪</b><small>開演 17:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-07' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+  <li><span class="tl-d"><b>1.7</b><small>木</small></span><span class="tl-v"><b>京セラドーム大阪</b><small>開演 16:00</small></span><a class="tl-go" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-07' %}{{ p.url }}{% endif %}{% endfor %}">参戦ガイド</a></li>
+</ol>
+
+<p class="note">日程と開演の時刻は、オリコンの報道より。開場の時刻とチケットの受付は、大手報道では見つかりませんでした。STARTO ENTERTAINMENTの公式サイトで確かめてください。</p>
+
+<p class="note">日程は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">大和ハウス プレミストドーム公演の公式発表</a>・<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">バンテリンドーム ナゴヤ公演の公式発表</a>・<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">みずほPayPayドーム福岡公演の公式発表</a>・<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">東京ドーム公演の公式発表</a>・<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">京セラドーム大阪公演の公式発表</a>より（2026年11月26日時点）。変わることがあるので、行く前に公式サイトで確かめてください。チケットの値段はこのページでは扱いません（受付の日程は「チケットの受付」に）。</p>
+
+<h2 id="v-sapporo-dome">🏟 大和ハウス プレミストドーム（2026年10月30日（金）・31日（土）・11月1日（日））</h2>
+
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>札幌ドームは2024年8月1日から愛称が「大和ハウス プレミストドーム」に。最寄りは地下鉄東豊線の福住駅（3番出口から徒歩約10分）</li><li>新千歳空港からは空港連絡バスで約45分。「札幌ドーム」停留所に止まる</li><li>コインロッカーは100円硬貨のみ。場内のATMは2023年1月に廃止</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'sapporo-dome' and p.live_end == '2026-11-01' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 大和ハウス プレミストドーム公演 参戦ガイド</a><a class="btn" href="/guide/sapporo-dome/">大和ハウス プレミストドーム ライブ参戦ガイド</a></div>
 </div>
 
-<h2>日程と会場</h2>
-
-<figure class="fig"><img src="/assets/img/posts/snowman-dome-tour-2026-2027-all-suite/tour.svg" alt="Snow Man DOME TOUR 2026-2027 ALL SUITEの会場を日付順に並べた図。大和ハウス プレミストドーム（10/30・10/31・11/1）、バンテリンドーム ナゴヤ（11/26・11/27・11/28・11/29）、みずほPayPayドーム福岡（12/4・12/5・12/6）、東京ドーム（12/23・12/24・12/25・12/26）、京セラドーム大阪（1/4・1/5・1/6・1/7）" width="420" height="386" loading="lazy" decoding="async"><figcaption>会場と日程は公式の公演情報（2026年10月19日時点）。右の札は、会場から3km（少ない会場は10km）以内にあるSnow Manの聖地の数</figcaption></figure>
-
-<ul>
-  <li><a href="#v1"><strong>大和ハウス プレミストドーム</strong></a>（北海道）：10月30日（金）、10月31日（土）、11月1日（日）</li>
-  <li><a href="#v2"><strong>バンテリンドーム ナゴヤ</strong></a>（愛知県）：11月26日（木）、11月27日（金）、11月28日（土）、11月29日（日）</li>
-  <li><a href="#v3"><strong>みずほPayPayドーム福岡</strong></a>（福岡県）：12月4日（金）、12月5日（土）、12月6日（日）</li>
-  <li><a href="#v4"><strong>東京ドーム</strong></a>（東京都）：12月23日（水）、12月24日（木）、12月25日（金）、12月26日（土）</li>
-  <li><a href="#v5"><strong>京セラドーム大阪</strong></a>（大阪府）：1月4日（月）、1月5日（火）、1月6日（水）、1月7日（木）</li>
-</ul>
-
-<p class="note">日程は変わることがあります。最新の公演情報は<a href="https://starto.jp/s/p/live/10578" target="_blank" rel="noopener">公式サイト</a>で確かめてください。チケットの申し込み方法や値段はこの記事では扱いません。</p>
-
-<h2 id="v1">大和ハウス プレミストドーム（10月30日・10月31日・11月1日）の近くの聖地</h2>
-
-<p>2026年10月時点で、会場から10km以内にSnow Manのメンバーが行ったお店は登録されていません。会場の近くにある、ほかの推しの聖地はこちらです。</p>
-
-<div class="ensei__shops">{% include mini.html id="sekkaku_gourmet-48c13bbd-20260104" m=2680 from="会場から" %}{% include mini.html id="jinsei_saiko-05ed45aa-20240120" m=2720 from="会場から" %}{% include mini.html id="shuichi-c6d0a015-20250405" m=2800 from="会場から" %}</div>
-
-<div class="btn-row"><a class="btn" href="/guide/sapporo-dome/">大和ハウス プレミストドームのライブ参戦ガイド</a><a class="btn" href="/shops/?near=43.016666,141.411332&amp;nl=%E5%A4%A7%E5%92%8C%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%B9%E3%83%88%E3%83%89%E3%83%BC%E3%83%A0">地図で会場の近くのお店</a></div>
+<h3 class="fl-h3">🛏 大和ハウス プレミストドームの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 大和ハウス プレミストドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -114,25 +238,23 @@ summary:
   </div>
 </div>
 
-<h2 id="v2">バンテリンドーム ナゴヤ（11月26日・11月27日・11月28日・11月29日）の近くの聖地</h2>
+{% include venue-hotels.html key="sapporo-dome" limit=3 top=true %}{% include hotels-link.html key="sapporo-dome" %}
 
-<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に5軒。距離は会場からの直線距離です。</p>
+<h2 id="v-vantelin-dome-nagoya">🏟 バンテリンドーム ナゴヤ（2026年11月26日（木）・27日（金）・28日（土）・29日（日））</h2>
 
-<ul class="wrs">
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は地下鉄名城線・ゆとりーとラインのナゴヤドーム前矢田駅（1番出入口から徒歩約5分）。JR中央線・名鉄瀬戸線の大曽根駅からは徒歩約15分</li><li>クレジットカード・電子マネー・コード決済が使える。場内でチャージはできないので、前もってチャージしておく</li><li>コインロッカーは2階コンコースに5か所。100円硬貨のみで数に限りあり、ほかの荷物預かりはない</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man バンテリンドーム ナゴヤ公演 参戦ガイド</a><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤ ライブ参戦ガイド</a></div>
+</div>
 
-  <li class="wr">{% include wr-open.html id="7efac0da" %}<span class="wr__k"></span><b class="wr__name">覚王山とんかつ わだ福</b><span class="wr__t">『バナナマンのせっかくグルメ!!』／阿部亮平／上ヒレ御膳（阿部）（名古屋市・会場から約2.1km）</span><span class="wr__more"><span class="wr__seat">席：個室</span></span>{% include wr-close.html id="7efac0da" %}</li>
+<h3 class="fl-h3">🍽 会場の近くのSnow Manの聖地（10km以内に5軒）</h3>
 
-  <li class="wr">{% include wr-open.html id="snowman-1af405c2-20180627" %}<span class="wr__k">2018.6</span><b class="wr__name">立食いめん処 吉野屋</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／きしめん（大盛）（名古屋市 中区新栄・会場から約3.0km）</span>{% include wr-close.html id="snowman-1af405c2-20180627" %}</li>
+<ul class="wrs"><li class="wr">{% include wr-open.html id="7efac0da" %}<span class="wr__k"></span><b class="wr__name">覚王山とんかつ わだ福</b><span class="wr__t">『バナナマンのせっかくグルメ!!』／阿部亮平／上ヒレ御膳（阿部）（名古屋市・会場から約2.1km）</span>{% include wr-close.html id="7efac0da" %}</li><li class="wr">{% include wr-open.html id="snowman-1af405c2-20180627" %}<span class="wr__k">2018.6</span><b class="wr__name">立食いめん処 吉野屋</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／きしめん（大盛）（名古屋市 中区新栄・会場から約3.0km）</span>{% include wr-close.html id="snowman-1af405c2-20180627" %}</li><li class="wr">{% include wr-open.html id="66241ca4" %}<span class="wr__k"></span><b class="wr__name">気晴亭 鶴舞本店</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／でらしゃちほこ丼（名古屋市 中区千代田・会場から約4.0km）</span>{% include wr-close.html id="66241ca4" %}</li></ul>
 
-  <li class="wr">{% include wr-open.html id="66241ca4" %}<span class="wr__k"></span><b class="wr__name">気晴亭 鶴舞本店</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／でらしゃちほこ丼（名古屋市 中区千代田・会場から約4.0km）</span>{% include wr-close.html id="66241ca4" %}</li>
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'vantelin-dome-nagoya' and p.live_end == '2026-11-29' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの2軒も参戦ガイドで見る</a></p>
 
-  <li class="wr">{% include wr-open.html id="84d28d77" %}<span class="wr__k"></span><b class="wr__name">喫茶 マウンテン</b><span class="wr__t">「Snow Man 佐久間企画【名古屋めし】デカ盛り＆珍デザート巡り！メンバーの胃…」／岩本照・深澤辰哉・渡辺翔太・阿部亮平ほか／甘口抹茶小倉スパ（愛知県・会場から約4.7km）</span>{% include wr-close.html id="84d28d77" %}</li>
-
-  <li class="wr">{% include wr-open.html id="484981ad" %}<span class="wr__k"></span><b class="wr__name">うなぎ家 しば福や</b><span class="wr__t">『バナナマンのせっかくグルメ!!』／阿部亮平／大福うなぎ膳・スタミナまぶし（名古屋市・会場から約5.0km）</span>{% include wr-close.html id="484981ad" %}</li>
-
-</ul>
-
-<div class="btn-row"><a class="btn" href="/guide/vantelin-dome-nagoya/">バンテリンドーム ナゴヤのライブ参戦ガイド</a><a class="btn" href="/shops/?near=35.185009,136.945374&amp;nl=%E3%83%90%E3%83%B3%E3%83%86%E3%83%AA%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0%20%E3%83%8A%E3%82%B4%E3%83%A4">地図で会場の近くのお店</a></div>
+<h3 class="fl-h3">🛏 バンテリンドーム ナゴヤの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> バンテリンドーム ナゴヤ周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -142,17 +264,21 @@ summary:
   </div>
 </div>
 
-<h2 id="v3">みずほPayPayドーム福岡（12月4日・12月5日・12月6日）の近くの聖地</h2>
+{% include venue-hotels.html key="vantelin-dome-nagoya" limit=3 top=true %}{% include hotels-link.html key="vantelin-dome-nagoya" %}
 
-<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に1軒。距離は会場からの直線距離です。</p>
+<h2 id="v-mizuho-paypay-dome">🏟 みずほPayPayドーム福岡（2026年12月4日（金）・5日（土）・6日（日））</h2>
 
-<ul class="wrs">
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は福岡市地下鉄空港線の唐人町駅。3番出口から徒歩約15分</li><li>天神・博多駅・福岡空港からは西鉄バスも使える。イベント開催日は天神・博多から直行の臨時バスが出る</li><li>飲食物・ビン・缶・ペット（補助犬をのぞく）・危険物は持ち込めない。コンサート時の持ち込みは主催者の案内を確認</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'mizuho-paypay-dome' and p.live_end == '2026-12-06' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man みずほPayPayドーム福岡公演 参戦ガイド</a><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡 ライブ参戦ガイド</a></div>
+</div>
 
-  <li class="wr">{% include wr-open.html id="snowman-952e0596-20250810" %}<span class="wr__k">2025.8</span><b class="wr__name">寺カフェ あわも</b><span class="wr__t">『旅するSnow Man（Disney+）福岡篇』／岩本照・向井康二／特製寺パフェセット（福岡市 中央区唐人町・会場から約810m）</span>{% include wr-close.html id="snowman-952e0596-20250810" %}</li>
+<h3 class="fl-h3">🍽 会場の近くのSnow Manの聖地（10km以内に1軒）</h3>
 
-</ul>
+<ul class="wrs"><li class="wr">{% include wr-open.html id="snowman-952e0596-20250810" %}<span class="wr__k">2025.8</span><b class="wr__name">寺カフェ あわも</b><span class="wr__t">『旅するSnow Man（Disney+）福岡篇』／岩本照・向井康二／特製寺パフェセット（福岡市 中央区唐人町・会場から約810m）</span>{% include wr-close.html id="snowman-952e0596-20250810" %}</li></ul>
 
-<div class="btn-row"><a class="btn" href="/guide/mizuho-paypay-dome/">みずほPayPayドーム福岡のライブ参戦ガイド</a><a class="btn" href="/shops/?near=33.594341,130.362411&amp;nl=%E3%81%BF%E3%81%9A%E3%81%BBPayPay%E3%83%89%E3%83%BC%E3%83%A0%E7%A6%8F%E5%B2%A1">地図で会場の近くのお店</a></div>
+<h3 class="fl-h3">🛏 みずほPayPayドーム福岡の近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> みずほPayPayドーム福岡周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -162,31 +288,23 @@ summary:
   </div>
 </div>
 
-<h2 id="v4">東京ドーム（12月23日・12月24日・12月25日・12月26日）の近くの聖地</h2>
+{% include venue-hotels.html key="mizuho-paypay-dome" limit=3 top=true %}{% include hotels-link.html key="mizuho-paypay-dome" %}
 
-<p>会場から3km以内にあるSnow Manのメンバーが行ったお店を、近い順に8軒。距離は会場からの直線距離です。</p>
+<h2 id="v-tokyo-dome">🏟 東京ドーム（2026年12月23日（水）・24日（木）・25日（金）・26日（土））</h2>
 
-<ul class="wrs">
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は JR・都営三田線の水道橋駅、東京メトロの後楽園駅、都営大江戸線の春日駅の4つ</li><li>場内は完全キャッシュレス。現金は使えないので、カードや電子マネーを用意しておく</li><li>コインロッカーは交通系ICカード払いのみで数に限りあり。大きな荷物は駅やホテルに預けるのがおすすめ</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 東京ドーム公演 参戦ガイド</a><a class="btn" href="/guide/tokyo-dome/">東京ドーム ライブ参戦ガイド</a></div>
+</div>
 
-  <li class="wr">{% include wr-open.html id="snowman-09af6680-202605" %}<span class="wr__k">2026.5</span><b class="wr__name">しゃぶ禅 神楽坂店</b><span class="wr__t">「Snow Man【しゃぶしゃぶを食べよう！】ナベが鍋をチョイス！？」／ラウール・渡辺翔太・向井康二・宮舘涼太／しゃぶしゃぶ食べ放題「松」・和風さらだ（新宿区 神楽坂・会場から約1.1km）</span><span class="wr__more"><span class="wr__oi">頼んだ物：鯛しゃぶ・土瓶蒸し・黒毛和牛炙り刺し</span><span class="wr__seat">席：Snow Manラウールさん・渡辺翔太さん・向井康二さん・宮舘涼太さんがしゃぶ禅神楽坂店で座ったお席は、4人用の掘りごたつの完全個室だと思われます。 お席については相談もできると公式サイトに記載がありました。 掘りごたつのお座敷席は、一人当たり330円の使用料がかかるそうです。予約時にお席の指定もできました。</span></span>{% include wr-close.html id="snowman-09af6680-202605" %}</li>
+<h3 class="fl-h3">🍽 会場の近くのSnow Manの聖地（3km以内に8軒）</h3>
 
-  <li class="wr">{% include wr-open.html id="e9ac0dc6" %}<span class="wr__k"></span><b class="wr__name">タケウチ 神保町本店</b><span class="wr__t">『それSnow Manにやらせて下さい』／渡辺翔太・阿部亮平／煮込みハンバーグカレー膳（千代田区 神田神保町・会場から約1.2km）</span>{% include wr-close.html id="e9ac0dc6" %}</li>
+<ul class="wrs"><li class="wr">{% include wr-open.html id="snowman-09af6680-202605" %}<span class="wr__k">2026.5</span><b class="wr__name">しゃぶ禅 神楽坂店</b><span class="wr__t">「Snow Man【しゃぶしゃぶを食べよう！】ナベが鍋をチョイス！？」／ラウール・渡辺翔太・向井康二・宮舘涼太／しゃぶしゃぶ食べ放題「松」・和風さらだ（新宿区 神楽坂・会場から約1.1km）</span>{% include wr-close.html id="snowman-09af6680-202605" %}</li><li class="wr">{% include wr-open.html id="e9ac0dc6" %}<span class="wr__k"></span><b class="wr__name">タケウチ 神保町本店</b><span class="wr__t">『それSnow Manにやらせて下さい』／渡辺翔太・阿部亮平／煮込みハンバーグカレー膳（千代田区 神田神保町・会場から約1.2km）</span>{% include wr-close.html id="e9ac0dc6" %}</li><li class="wr">{% include wr-open.html id="snowman-ryuho-kagurazaka" %}<span class="wr__k">2024.12</span><b class="wr__name">龍朋</b><span class="wr__t">「Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?」／岩本照・阿部亮平・目黒蓮・宮舘涼太／チャーハン(大)・つけ麵（岩本照皆）（新宿区 矢来町・会場から約1.3km）</span>{% include wr-close.html id="snowman-ryuho-kagurazaka" %}</li></ul>
 
-  <li class="wr">{% include wr-open.html id="snowman-ryuho-kagurazaka" %}<span class="wr__k">2024.12</span><b class="wr__name">龍朋</b><span class="wr__t">「Snow Man【街中華の名店で朝食】急きょ目黒がザクロ狩り!?」／岩本照・阿部亮平・目黒蓮・宮舘涼太／チャーハン(大)・つけ麵（岩本照皆）（新宿区 矢来町・会場から約1.3km）</span><span class="wr__more"><span class="wr__oi">頼んだ物：チャーシュー麺（宮舘涼太）・ラーメン（目黒蓮）・肉野菜炒め（阿部亮平）</span><span class="wr__seat">席：4人が座った席は、入口入って右手エリア、入口から2個目のテーブル席（店内真ん中あたり）。 ショート動画に映っていたお席は、入り口から入って右手のソファ席です。</span></span>{% include wr-close.html id="snowman-ryuho-kagurazaka" %}</li>
+<p class="tl-seichi"><a href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'tokyo-dome' and p.live_end == '2026-12-26' %}{{ p.url }}{% endif %}{% endfor %}#seichi">ほかの5軒も参戦ガイドで見る</a></p>
 
-  <li class="wr">{% include wr-open.html id="567a45e0" %}<span class="wr__k"></span><b class="wr__name">MAJI CURRY 神田神保町店</b><span class="wr__t">『それSnow Manにやらせて下さい』／渡辺翔太・阿部亮平／グランプリカレー（千代田区 神田小川町・会場から約1.3km）</span>{% include wr-close.html id="567a45e0" %}</li>
-
-  <li class="wr">{% include wr-open.html id="snowman-welovedonut-20260513" %}<span class="wr__k">2026.5</span><b class="wr__name">WeLoveDonut 神楽坂店</b><span class="wr__t">「Snow Man【アドリブほのぼのドライブ！】舘様さんって何！？」／ラウール・渡辺翔太・向井康二・宮舘涼太（新宿区 神楽坂・会場から約1.5km）</span>{% include wr-close.html id="snowman-welovedonut-20260513" %}</li>
-
-  <li class="wr">{% include wr-open.html id="12891750" %}<span class="wr__k"></span><b class="wr__name">OTOWA FUJIYA</b><span class="wr__t">『それSnow Manにやらせて下さい』／目黒蓮／パイシュークリーム（文京区・会場から約2.5km）</span><span class="wr__more"><span class="wr__seat">席：イートインスペース</span></span>{% include wr-close.html id="12891750" %}</li>
-
-  <li class="wr">{% include wr-open.html id="snowman-kitchen-nanagoku-waseda" %}<span class="wr__k">2024.5</span><b class="wr__name">キッチン南国</b><span class="wr__t">「Snow Man【俺たちが大学生だったら…】こんな感じでメシ食うよね！」／深澤辰哉・目黒蓮・宮舘涼太・佐久間大介／しょうが焼き・若鶏ささみフライ（深澤辰哉）・カニコロ・しょうが焼き（目黒蓮）（新宿区 戸塚町・会場から約2.8km）</span><span class="wr__more"><span class="wr__oi">頼んだ物：しょうが焼き・チキンカツ（宮舘涼太）・ハーフカレールー（宮舘涼太）・エビフライ・しょうが焼き（佐久間大介）</span><span class="wr__seat">席：4人が座ったのは、真ん中のテーブル席だと思われます。</span></span>{% include wr-close.html id="snowman-kitchen-nanagoku-waseda" %}</li>
-
-  <li class="wr">{% include wr-open.html id="snowman-abura-gakkai-waseda" %}<span class="wr__k">2025.4</span><b class="wr__name">武蔵野アブラ學会 早稲田別館</b><span class="wr__t">「Snow Man【油そばブーム到来🍜】人生初になります😄」／岩本照・ラウール・阿部亮平・宮舘涼太／特濃油そば・並盛（岩本照・阿部亮平・宮舘涼太）・武蔵野油そば・並盛（ラウール）（新宿区 西早稲田・会場から約3.0km）</span><span class="wr__more"><span class="wr__oi">頼んだ物：海苔三昧トッピング・温玉トッピング・明太マヨトッピング</span><span class="wr__seat">席：2階の座敷席。無限ライスとお水が置いてあるカウンターのすぐそばのテーブルに着席。券売機で先に注文するシステム。昼時は学生・近隣客で混雑するため時間帯をずらすのがおすすめ。</span></span>{% include wr-close.html id="snowman-abura-gakkai-waseda" %}</li>
-
-</ul>
-
-<div class="btn-row"><a class="btn" href="/guide/tokyo-dome/">東京ドームのライブ参戦ガイド</a><a class="btn" href="/shops/?near=35.705639,139.751891&amp;nl=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0">地図で会場の近くのお店</a></div>
+<h3 class="fl-h3">🛏 東京ドームの近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 東京ドーム周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -196,17 +314,21 @@ summary:
   </div>
 </div>
 
-<h2 id="v5">京セラドーム大阪（1月4日・1月5日・1月6日・1月7日）の近くの聖地</h2>
+{% include venue-hotels.html key="tokyo-dome" limit=3 top=true %}{% include hotels-link.html key="tokyo-dome" %}
 
-<p>会場から10km以内にあるSnow Manのメンバーが行ったお店を、近い順に1軒。距離は会場からの直線距離です。</p>
+<h2 id="v-kyocera-dome-osaka">🏟 京セラドーム大阪（2027年1月4日（月）・5日（火）・6日（水）・7日（木））</h2>
 
-<ul class="wrs">
+<div class="fl-venue">
+  <p class="fl-venue__h"><b>会場のポイント</b></p>
+  <ul><li>最寄り駅は 地下鉄長堀鶴見緑地線のドーム前千代崎駅と阪神なんば線のドーム前駅（どちらも徒歩すぐ）。JR大正駅・地下鉄中央線の九条駅からも歩ける</li><li>入場ゲートは3F。2Fのスタジアムモールからは球場内に直接入れないので、外の階段やエレベーターで3Fへ</li><li>飲食物の持ち込みは遠慮するよう案内あり。危険物・ペット・ビン・缶・凍らせたものや1,000mlを超えるペットボトル・クーラーボックスは持ち込めない</li></ul>
+  <div class="btn-row"><a class="btn" href="{% for p in site.posts %}{% if p.article_type == 'live' and p.group == 'snowman' and p.venue_key == 'kyocera-dome-osaka' and p.live_end == '2027-01-07' %}{{ p.url }}{% endif %}{% endfor %}">Snow Man 京セラドーム大阪公演 参戦ガイド</a><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪 ライブ参戦ガイド</a></div>
+</div>
 
-  <li class="wr">{% include wr-open.html id="snowman-69eda10a-20260116" %}<span class="wr__k">2026.1</span><b class="wr__name">甲賀流</b><span class="wr__t">『ZIP!』のスタジオに料理が出たお店（大阪市 中央区西心斎橋・会場から約2.0km）</span>{% include wr-close.html id="snowman-69eda10a-20260116" %}</li>
+<h3 class="fl-h3">🍽 会場の近くのSnow Manの聖地（10km以内に1軒）</h3>
 
-</ul>
+<ul class="wrs"><li class="wr">{% include wr-open.html id="snowman-69eda10a-20260116" %}<span class="wr__k">2026.1</span><b class="wr__name">甲賀流</b><span class="wr__t">『ZIP!』のスタジオに料理が出たお店（大阪市 中央区西心斎橋・会場から約2.0km）</span>{% include wr-close.html id="snowman-69eda10a-20260116" %}</li></ul>
 
-<div class="btn-row"><a class="btn" href="/guide/kyocera-dome-osaka/">京セラドーム大阪のライブ参戦ガイド</a><a class="btn" href="/shops/?near=34.669445,135.477173&amp;nl=%E4%BA%AC%E3%82%BB%E3%83%A9%E3%83%89%E3%83%BC%E3%83%A0%E5%A4%A7%E9%98%AA">地図で会場の近くのお店</a></div>
+<h3 class="fl-h3">🛏 京セラドーム大阪の近くに泊まる</h3>
 
 <div class="stay-in">
   <p class="stay-in__h"><span aria-hidden="true">🛏</span> 京セラドーム大阪周辺に泊まる<small class="stay-in__pr">PR</small></p>
@@ -216,24 +338,30 @@ summary:
   </div>
 </div>
 
-<h2>遠征の準備</h2>
+{% include venue-hotels.html key="kyocera-dome-osaka" limit=3 top=true %}{% include hotels-link.html key="kyocera-dome-osaka" %}
 
-<ul>
-  <li><a href="/guide/live-ensei-checklist/">ライブ遠征の準備チェックリスト</a>：持ち物・宿・当日の動き方</li>
-  <li><a href="/guide/live-ensei-transport/">ライブ遠征の交通手段ガイド</a>：新幹線・飛行機・高速バスの使い分け</li>
-  <li><a href="/ensei/">ライブ遠征×聖地巡礼</a>：全国28会場の近くの聖地と宿</li>
-</ul>
+<h2 id="goods">🛍 グッズ</h2>
 
-{% include buy-box.html title="遠征の持ち物を探す" note="うちわ・ペンライト・双眼鏡が使えるかは、公演ごとの主催者の案内で確かめてから選んでください。商品の詳しい内容と値段は、リンク先で確かめてください。" kw="モバイルバッテリー 軽量,コンサート用双眼鏡,うちわケース" %}
+<div class="fl-goods"><div><b>グッズ・ペンライト</b><span>2026年11月26日時点では、このツアーのグッズやペンライトについての大手報道は見つかりませんでした。札幌の会場には、9つのホテルマン風の雪だるまとツアータイトル「ALL SUITE」のバルーンで飾ったフォトスポットがあったと報じられています（<a href="https://www.thefirsttimes.jp/news/0000910410/" target="_blank" rel="noopener">公式のお知らせ</a>）</span></div></div>
+
+<h2 id="setlist">🎵 セットリスト</h2>
+
+<p>このツアーの全曲のセットリストは、大手報道にはまだ載っていません（2026年11月26日時点）。載ったときだけ、出典つき・ネタバレ注意の閉じた形で載せます。</p>
+
+<h2 id="prep">🔰 はじめての人へ・予習</h2>
+
+<p>前回のドームツアーと初のスタジアムライブの両方で歌われた曲（大手報道のセットリストから）：</p>
+
+<ul class="setl-top"><li>Grandeur</li><li>ブラザービート</li><li>Dangerholic</li><li>オレンジKiss</li><li>君は僕のもの</li><li>君へ贈る応援歌</li><li>D.D.</li><li>君の彼氏になりたい。</li><li>Crazy F-R-E-S-H Beat</li><li>HELLO HELLO</li><li>ナミダの海を越えて行け</li></ul>
 
 <div class="pf-cta">
-  <p>Snow Manのお店を、地図でぜんぶ見る</p>
-  <span>この記事の15軒を含むSnow Manの聖地を地図で探せます。行きたいお店は保存して、遠征の計画に。</span>
-  <a class="btn" href="/shops/?g=snowman&amp;view=map">地図でSnow Manのお店を見る</a>
+  <p>Snow Manのライブにはじめて行く人へ</p>
+  <span>入場と本人確認・席の種類・ペンライト・撮影・コール・予習の動画・グッズの買い方を、公式の案内からまとめています。</span>
+  <a class="btn" href="/guide/snowman-first-live/">Snow Manのライブ初参戦ガイド（ペンライトの色・コール）</a>
 </div>
 
-<p><a href="{{ site.data.group_ix.snowman.u }}">Snow Manのお店一覧（グループのページ）</a>と、Snow Manの聖地をぜんぶ載せたまとめ記事もどうぞ。</p>
+{% include live-list.html group="snowman" title="Snow Manのこれからの公演（参戦ガイド）" %}
 
-<p class="note">お店の情報は、各お店の出典（番組・YouTube・ファンのロケ地ブログ）をもとにしています。日付はYouTubeの回は動画の公開年月、番組は放送年月です。会場からの距離は直線距離で、歩く距離とは違います。営業日・営業時間は各お店の公式情報で確かめてください。</p>
+<p class="note">このページは2026年11月26日に、Snow Man公式サイトの発表で確かめた内容です。会場のポイントは各会場の公式サイトにもとづく会場ガイドから、宿は楽天トラベルの情報です。</p>
 
 </div>
