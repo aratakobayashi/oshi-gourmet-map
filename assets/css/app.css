@@ -1193,3 +1193,6 @@ a.badge { min-height: 32px; }
 /* 「はじめてのライブ」の会場カード: 名前の長いボタンを1列に（2列だと文字が重なる） */
 .fl-venue > .btn-row { display: flex; flex-direction: column; align-items: stretch; gap: var(--s-2); }
 .fl-venue > .btn-row .btn { height: auto; min-height: 44px; padding: 8px 12px; line-height: 1.5; text-align: center; }
+/* 「はじめてのライブ」: メンバーの生年月日・アルバムの「ツアーで披露」 */
+.fl-members small { display: block; font-size: 11px; font-weight: 400; opacity: .75; }
+.fl-tracks small { margin-left: auto; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 700; white-space: nowrap; color: #fff; background: color-mix(in srgb, var(--pc) 55%, transparent); }

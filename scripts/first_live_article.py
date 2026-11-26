@@ -92,9 +92,8 @@ def build(gid):
     ckl = f'{d["checked_at"][:4]}年{int(d["checked_at"][5:7])}月{int(d["checked_at"][8:])}日'
     b = [f'<div class="pf fl" style="--pc:{color}">', hero(d, shows)]
     jumps = [('entry', '🎫 入場'), ('flow', '🕓 当日の流れ'), ('seats', '💺 席'), ('rules', '🙅 決まり'), ('penlight', '🔦 ペンライト'),
-             ('call', '📣 コール'), ('setlist', '🎵 定番曲'), ('goods', '🛍 グッズ'), ('venue', '🏟 会場と宿')]
-    if not d.get('seats'):
-        jumps = [j for j in jumps if j[0] != 'seats']
+             ('call', '📣 コール'), ('setlist', '🎵 定番曲'), ('past', '🎬 前回のライブ'), ('album', '🎧 アルバム'), ('goods', '🛍 グッズ'), ('venue', '🏟 会場と宿'), ('seichi', '🍽 聖地')]
+    jumps = [j for j in jumps if j[0] not in ('seats', 'past', 'album') or d.get(j[0])]
     b.append('<nav class="live-jump" aria-label="この記事の章">' + ''.join(f'<a class="chip chip--area" href="#{i}">{t}</a>' for i, t in jumps) + '</nav>')
     b.append(f'<p>{d["intro"].rstrip("。")}（{ckl}時点）。</p>')
     if d.get('tour_page'):
@@ -148,7 +147,8 @@ def build(gid):
     m = d['members']
     b.append(f'<h3 class="fl-h3">メンバー{len(m["list"])}人</h3>')
     b.append('<ul class="fl-members">' + ''.join(
-        f'<li class="is-c" style="--c:{m["colors"][x]}">{esc(x)}</li>' if x in m.get('colors', {}) else f'<li>{esc(x)}</li>' for x in m['list']) + '</ul>')
+        (f'<li class="is-c" style="--c:{m["colors"][x]}">' if x in m.get('colors', {}) else '<li>') + esc(x)
+        + (f'<small>{esc(m["birth"][x])}</small>' if x in m.get('birth', {}) else '') + '</li>' for x in m['list']) + '</ul>')
     b.append(f'<p class="note">{m["note"]}</p>')
 
     c = d['call']
@@ -178,6 +178,21 @@ def build(gid):
     if d.get('tour_page'):
         b.append(f'<p>ドーム公演の日程・会場・宿をまとめた{d["tour_page"]}もあります。</p>')
 
+    if d.get('past'):
+        # 前回のライブはこんなライブ（大手報道で確かめた事実だけ。[題, 文, 出典名, URL]）
+        b.append('<h2 id="past">🎬 前回のライブはこんなライブ</h2>')
+        if d.get('past_lead'):
+            b.append(f'<p>{d["past_lead"]}</p>')
+        b.append('<div class="fl-goods">' + ''.join(f'<div><b>{esc(t)}</b><span>{esc(x)}（{ext(u, esc(lab))}）</span></div>' for t, x, lab, u in d['past']) + '</div>')
+    if d.get('album'):
+        al = d['album']
+        live = set(al.get('live_songs') or [])
+        b.append(f'<h2 id="album">🎧 予習するなら『{esc(al["title"])}』</h2>')
+        b.append(f'<p>{al["text"]}</p>')
+        b.append('<ol class="fl-tracks">\n' + ''.join(
+            f'  <li><b>{esc(t)}</b>{"<small>ツアーで披露</small>" if t in live else ""}</li>\n' for t in al['tracks']) + '</ol>')
+        b.append(f'<p class="note">{al["note"]}</p>')
+
     b.append('<h2 id="goods">🛍 グッズの買い方</h2>')
     b.append('<div class="fl-goods">' + ''.join(f'<div><b>{esc(t)}</b><span>{x}</span></div>' for t, x in d['goods']) + '</div>')
     if d.get('fc_note'):
@@ -205,6 +220,25 @@ def build(gid):
 
     b.append(f'<h2 id="seichi">🍽 ライブの前後に、メンバーが行ったお店へ</h2>')
     b.append(f'<p>{esc(name)}のメンバーが番組やYouTubeで訪れたお店を、このサイトで{{{{ site.data.group_ix.{d["group"]}.n }}}}軒載せています。会場の近くのお店は、各公演の参戦ガイドの「会場の近くの{esc(name)}の聖地」にまとめています。</p>')
+    # 会場ごとに、近くのグループの店3軒（3km以内が3軒未満なら10kmまで）
+    sys.path.insert(0, os.path.join(ROOT, 'scripts'))
+    import tour_article as TA
+    S_, cards_ = J('data/shops.json'), J('_data/shop_cards.json')
+    own = [x for x in S_ if d['group'] in (x.get('groups') or [x.get('group')]) and not x.get('closed') and x.get('lat') and x.get('lng')
+           and x['id'] in cards_ and not x.get('location_unverified')]
+    for sh in shows:
+        v_ = venues[sh['venue_key']]
+        ds_ = sorted(((TA.km((v_['lat'], v_['lng']), (x['lat'], x['lng'])), x) for x in own), key=lambda y: y[0])
+        near = [y for y in ds_ if y[0] <= 3]
+        r_ = 3
+        if len(near) < 3:
+            near, r_ = [y for y in ds_ if y[0] <= 10], 10
+        if not near:
+            continue
+        b.append(f'<h3 class="fl-h3">{esc(sh.get("venue_name") or v_["name"])}の近く（{r_}km以内に{len(near)}軒）</h3>')
+        b.append('<ul class="wrs">' + ''.join(
+            f'<li class="wr">{{% include wr-open.html id="{x["id"]}" %}}<span class="wr__k">{TA.ym(x.get("visited_date"))}</span><b class="wr__name">{esc(x["name"])}</b>'
+            f'<span class="wr__t">{esc(TA.row_text(x, km_, d["group"]))}</span>{{% include wr-close.html id="{x["id"]}" %}}</li>' for km_, x in near[:3]) + '</ul>')
     b.append(f'<div class="pf-cta">\n  <p>{esc(name)}の聖地を探す</p>\n  <span>メンバーが行ったお店を、地図やまとめ記事で。</span>\n'
              + (f'  <a class="btn" href="{d["matome_url"]}">{esc(name)}の聖地巡礼まとめ</a>\n' if d.get('matome_url') else '')
              + f'  <a class="btn" href="/shops/?g={d["group"]}&amp;view=map">地図で{esc(name)}のお店を見る</a>\n</div>')
