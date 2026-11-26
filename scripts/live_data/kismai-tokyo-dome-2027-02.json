@@ -3,7 +3,7 @@
  "group": "kismai",
  "tour": "Kis-My-Ft2 DOME TOUR 2026-2027 fan IS・・・・・・",
  "official_url": "https://starto.jp/s/p/live/10594",
- "checked_at": "2026-11-25",
+ "checked_at": "2026-11-26",
  "sources": [
   {
    "label": "モデルプレス（ドームツアー日程発表 2026-09-20）",
@@ -12,6 +12,10 @@
   {
    "label": "THE FIRST TIMES（ドーム公演日程も発表 2026-09-20）",
    "url": "https://www.thefirsttimes.jp/news/0000885547/"
+  },
+  {
+   "label": "オリコン（ドームツアーの日程と開演時刻）",
+   "url": "https://www.oricon.co.jp/news/2481844/full/"
   }
  ],
  "venue_key": "tokyo-dome",
@@ -27,5 +31,6 @@
   "2027-02-22": "開演18:00",
   "2027-02-23": "開演17:00"
  },
- "note": "official_url（starto.jp）とレーベル公式（mentrecording.jp）は robots.txt で ClaudeBot を拒否しているため未読。日程・開演時刻はモデルプレスの一覧で確認。"
+ "note": "official_url（starto.jp）とレーベル公式（mentrecording.jp）は robots.txt で ClaudeBot を拒否しているため未読。日程・開演時刻はモデルプレスの一覧で確認。",
+ "public_note": "開場の時刻とチケットの受付は、大手報道では見つかりませんでした（2026年11月26日時点）。公式の案内で確かめてください。"
 }
