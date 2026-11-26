@@ -6706,5 +6706,295 @@
   ],
   "r": 3.0,
   "at": "2026-11-26"
+ },
+ "ig-arena": {
+  "hotels": [
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186072",
+    "m": 530,
+    "st": "浄心",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186072.jpg"
+   },
+   {
+    "n": "－Ｗ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D190926",
+    "m": 570,
+    "st": "名城公園",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/190926.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城ＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194879",
+    "m": 580,
+    "st": "浄心",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194879.jpg"
+   },
+   {
+    "n": "－華ＨＡＮＡ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191218",
+    "m": 790,
+    "st": "清水（愛知）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/191218.jpg"
+   },
+   {
+    "n": "エスパシオナゴヤキャッスル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196864",
+    "m": 800,
+    "st": "浅間町",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/196864.jpg"
+   },
+   {
+    "n": "ＯＹＡＤＯＹＡ　ＫＵＲＯＫＡＷＡ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202284",
+    "m": 860,
+    "st": "黒川（愛知）",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202284.jpg"
+   }
+  ],
+  "all": [
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186072",
+    "m": 530,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186072.jpg"
+   },
+   {
+    "n": "－Ｗ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D190926",
+    "m": 570,
+    "st": "名城公園",
+    "ac": "名城公園駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/190926.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ名古屋城ＩＩ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194879",
+    "m": 580,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194879.jpg"
+   },
+   {
+    "n": "－華ＨＡＮＡ－　Ｖａｃａｔｉｏｎ　Ｒｅｎｔａｌ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191218",
+    "m": 790,
+    "st": "清水（愛知）",
+    "ac": "清水駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/191218.jpg"
+   },
+   {
+    "n": "エスパシオナゴヤキャッスル",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196864",
+    "m": 800,
+    "st": "浅間町",
+    "ac": "名古屋市営地下鉄浅間町駅より徒歩約10 分 JR名古屋駅より車で約10分 中部国際空港より車で約45分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/196864.jpg"
+   },
+   {
+    "n": "ＯＹＡＤＯＹＡ　ＫＵＲＯＫＡＷＡ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202284",
+    "m": 860,
+    "st": "黒川（愛知）",
+    "ac": "地下鉄黒川駅【１番出口】から徒歩４分の距離にあります。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202284.jpg"
+   },
+   {
+    "n": "【名古屋市／東大手駅徒歩４分】栄・錦エリアまで電車で１０分／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200373",
+    "m": 1030,
+    "st": "庄内通",
+    "ac": "庄内通駅から徒歩で6分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200373.jpg"
+   },
+   {
+    "n": "ＫＫＲホテル名古屋（国家公務員共済組合連合会名古屋共済会館）",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15045",
+    "m": 1120,
+    "st": "名古屋",
+    "ac": "地下鉄「丸の内駅」１番出口より徒歩約８分／地下鉄「名古屋城駅」６番出口より徒歩約８分／名古屋駅よりタクシーで約１０分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/15045.jpg"
+   },
+   {
+    "n": "ｍｉｎａｐａｋｕ　Ｂｌａｎｃｏ浄心／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195578",
+    "m": 1260,
+    "st": "浄心",
+    "ac": "浄心駅より徒歩で3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/195578.jpg"
+   },
+   {
+    "n": "α－Ｓｐａｃｅ　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D170818",
+    "m": 1260,
+    "st": "黒川（愛知）",
+    "ac": "黒川駅から徒歩で約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/170818.jpg"
+   },
+   {
+    "n": "愛知県女性総合センターウィルあいち",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129906",
+    "m": 1270,
+    "st": "市役所",
+    "ac": "地下鉄名城線「名古屋城駅」２番出口東へ約８分　基幹バス「市役所」東へ約８分　市バス幹名駅１「市政資料館南」北へ約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/129906.jpg"
+   },
+   {
+    "n": "ＦｕｎＨｏｍｅ黒川／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D186222",
+    "m": 1300,
+    "st": "黒川（愛知）",
+    "ac": "黒川駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/186222.jpg"
+   },
+   {
+    "n": "Ａｓｏｂｉ　Ｓｔａｙ児玉　－藤－　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200445",
+    "m": 1370,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200445.jpg"
+   },
+   {
+    "n": "アイリス愛知",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109405",
+    "m": 1420,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄桜通線「丸の内駅」から徒歩で5分、地下鉄名城線「久屋大通駅」「名古屋城駅」から徒歩で８分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/109405.jpg"
+   },
+   {
+    "n": "ホテル・アンドルームス名古屋栄",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166452",
+    "m": 1480,
+    "st": "久屋大通",
+    "ac": "名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/166452.jpg"
+   },
+   {
+    "n": "Ｘ１０３名古屋駅エリア＆中庭付き貸切戸建５部屋１９９平米大人数最適　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D194949",
+    "m": 1510,
+    "st": "浄心",
+    "ac": "浄心駅から徒歩で約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/194949.jpg"
+   },
+   {
+    "n": "くれたけイン名古屋久屋大通",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165834",
+    "m": 1550,
+    "st": "久屋大通",
+    "ac": "地下鉄　久屋大通駅１A出口より徒歩にて約約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/165834.jpg"
+   },
+   {
+    "n": "東横ＩＮＮ名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D55447",
+    "m": 1570,
+    "st": "丸の内（愛知）",
+    "ac": "名古屋駅ユニモール4番出口より無料送迎バスで15分。ＪＲ名古屋駅より桜通線（地下鉄）・鶴舞線丸の内駅８番出口より徒歩２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/55447.jpg"
+   },
+   {
+    "n": "ケイアイコンホテルズ　丸の内　＾",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D185668",
+    "m": 1600,
+    "st": "久屋大通",
+    "ac": "久屋大通駅から徒歩で約２分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/185668.jpg"
+   },
+   {
+    "n": "Ｗｉｎｚ久屋大通／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184982",
+    "m": 1630,
+    "st": "久屋大通",
+    "ac": "久屋大通駅から徒歩で約４分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/184982.jpg"
+   },
+   {
+    "n": "アパホテル〈名古屋栄北〉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167504",
+    "m": 1650,
+    "st": "久屋大通",
+    "ac": "地下鉄名城線・桜通線「久屋大通駅」西改札口2番出口より徒歩にて約2分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167504.jpg"
+   },
+   {
+    "n": "天然温泉ホテルリブマックスＰＲＥＭＩＵＭ名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182569",
+    "m": 1660,
+    "st": "久屋大通",
+    "ac": "名古屋市営地下鉄桜通線・名城線「久屋大通」駅 徒歩 約3分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/182569.jpg"
+   },
+   {
+    "n": "ＢＲＩＬＬＩＡＮＣＥ　ＨＯＴＥＬ",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188304",
+    "m": 1670,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄丸の内駅2番出口より1分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/188304.jpg"
+   },
+   {
+    "n": "Ａｎｅｃｉｓ笠取町ＩＩ／民泊",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D200480",
+    "m": 1670,
+    "st": "庄内通",
+    "ac": "庄内通駅から徒歩で4分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/200480.jpg"
+   },
+   {
+    "n": "マンガアートホテル名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202296",
+    "m": 1760,
+    "st": "丸の内（愛知）",
+    "ac": "丸の内駅より徒歩１分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202296.jpg"
+   },
+   {
+    "n": "ＦＡＶ　ＬＵＸ　名古屋丸の内",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D202420",
+    "m": 1770,
+    "st": "丸の内（愛知）",
+    "ac": "丸の内駅(愛知県)より徒歩で約2分, JR「名古屋駅」より車7分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/202420.jpg"
+   },
+   {
+    "n": "喫茶、食堂、民宿。なごのや",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180163",
+    "m": 1780,
+    "st": "名古屋",
+    "ac": "名古屋駅より徒歩にて約１５分。地下鉄鶴舞線 丸の内駅より徒歩７分。地下鉄桜通線 国際センターより徒歩７分。",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/180163.jpg"
+   },
+   {
+    "n": "西鉄ホテル　クルーム名古屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167718",
+    "m": 1820,
+    "st": "久屋大通",
+    "ac": "地下鉄桜通線・名城線「久屋大通」駅西改札口側４番出入口から徒歩1分。名古屋駅から約５分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/167718.jpg"
+   },
+   {
+    "n": "アパホテル〈名古屋丸の内駅前〉",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D40551",
+    "m": 1830,
+    "st": "丸の内（愛知）",
+    "ac": "地下鉄桜通線「丸の内駅」3番出口から徒歩1分 (地下鉄鶴舞線利用時は2番出口）伏見通沿いに玄関がございます",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/40551.jpg"
+   },
+   {
+    "n": "ホテル京阪　名古屋",
+    "u": "https://hb.afl.rakuten.co.jp/hgc/55ce4838.51cda7a6.55ce4839.35153394/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177045",
+    "m": 1840,
+    "st": "丸の内（愛知）",
+    "ac": "名古屋市営地下鉄　丸の内駅／久屋大通駅より徒歩にて約３分",
+    "img": "https://img.travel.rakuten.co.jp/HIMG/90/177045.jpg"
+   }
+  ],
+  "r": 3.0,
+  "at": "2026-11-26"
  }
 }

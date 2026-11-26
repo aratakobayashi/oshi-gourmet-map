@@ -368,7 +368,8 @@ export RAKUTEN_ACCESS_KEY="..." # 楽天ウェブサービスのアクセスキ�
 - 載せない: 終わった公演・未発表・海外・フェスや合同公演・メンバーのソロ/生誕祭・ユニットだけの公演・ラジオの番組イベント
 - 一覧: `_includes/live-list.html`（会場ガイドの上部「この会場でこれからある公演」・グループページ・/ensei/）。終わった公演は自動で消える（live_end）。記事には公演後「この公演は終わりました」が出る
 - 公式サイトの robots.txt で ClaudeBot を断っているところは読まない: starto.jp・jr-official.starto.jp・j-storm・mentrecording.jp・jehp.jp・坂道3グループの公式・hkt48.jp・niziu.com・sonymusic.co.jp・livehaku.jp など。そのときは大手報道（オリコン・モデルプレス・THE FIRST TIMES・デイリースポーツ等）で確かめ、記事のリンクは「発表を伝える記事」になる（live_article.py の NEWS）
-- 会場ガイドがなくて作れなかった会場（2026-10-26）: TOYOTA ARENA TOKYO・Zepp各地・ZOZOマリンスタジアム・ヤンマースタジアム長居・パシフィコ横浜・大宮ソニックシティ・各地の市民ホールなど。会場ガイドを足せば記事にできる
+- 会場ガイドがなくて作れなかった会場（2026-10-26）: Zepp各地・ZOZOマリンスタジアム・ヤンマースタジアム長居・パシフィコ横浜・大宮ソニックシティ・各地の市民ホールなど。会場ガイドを足せば記事にできる
+- 会場ガイドの追加（2026-11-26）: TOYOTA ARENA TOKYO（toyota-arena-tokyo）・IGアリーナ（ig-arena）・GLION ARENA KOBE（glion-arena-kobe）。3つとも公式サイトに robots.txt がない／全許可で読める（toyota-arena-tokyo.jp・ig-arena.jp・totteikobe.jp）。手順: scripts/venue_data/<key>.json → _data/venues.json（座標は公式サイトの地図の位置）・_data/venue_regions.json・live_data_split.py の ALIAS → `python scripts/fetch_venue_hotels.py <key>` → _guides/<key>.html を手で書く → build_site_data.py → venue_guide_images.py <key>（PW_CHROME なしで動く）→ venue_hotels_page.py <key>。持ち込み禁止の一覧を公式が出していない会場（TOYOTA・GLION）は rules を作らず「一覧は載っていない」と書く。3つとも館内はキャッシュレス
 
 ## 新しいグループの追加（2026-10-20）
 - 人気グループ60組の棚卸し: STARTO はほぼ網羅、女性アイドルは坂道・指原系だけだった。JO1・INI・FRUITS ZIPPER・ももいろクローバーZ・AKB48・NMB48 を追加（まとめ記事は group_matome.py で作成。FRUITS ZIPPER は番組で食べた記録がほぼ無く2軒・AKB48 は17軒で記事なし）
