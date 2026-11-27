@@ -1,0 +1,30 @@
+{
+ "slug": "travisjapan-sekisui-heim-super-arena-2027-01",
+ "group": "travisjapan",
+ "tour": "Travis Japan Concert Tour 2027 Jewelry Basket",
+ "official_url": "https://www.mspf.jp/grande21/index.php?action=event_show_detail&event_id=1053&target=event",
+ "checked_at": "2026-11-27",
+ "sources": [
+  {
+   "label": "セキスイハイムスーパーアリーナ（グランディ・21）公式サイトのイベント情報",
+   "url": "https://www.mspf.jp/grande21/index.php?action=event_show_detail&event_id=1053&target=event"
+  },
+  {
+   "label": "ORICON NEWS（4thアルバム『Jewelry Basket』のCD発売日の変更 2026-11-11）",
+   "url": "https://www.oricon.co.jp/news/2492030/full/"
+  }
+ ],
+ "venue_key": "sekisui-heim-super-arena",
+ "venue_official": "セキスイハイムスーパーアリーナ",
+ "pref": "宮城県",
+ "dates": [
+  "2027-01-16",
+  "2027-01-17"
+ ],
+ "times": {
+  "2027-01-16": "1回目 開演13:00、2回目 開演18:00",
+  "2027-01-17": "開演14:00"
+ },
+ "note": "日程・開演時刻は会場の公式サイトのイベント情報（2026-11-27確認）。starto.jp は robots.txt で ClaudeBot を断っているため読んでいない。ツアーのほかの会場は大手報道・会場の公式で確かめられず載せていない",
+ "public_note": "日程と開演の時刻は、会場（セキスイハイムスーパーアリーナ）の公式サイトより。開場の時刻とチケットの受付は確かめられませんでした（2026年11月27日時点）。STARTO ENTERTAINMENTの公式の案内で確かめてください。"
+}
