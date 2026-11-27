@@ -2,7 +2,7 @@
 layout: post
 title: Juice=Juice 日本武道館公演2026 参戦ガイド｜座席・アクセス・持ち込み・近くのホテル・聖地
 date: '2026-10-26'
-last_modified_at: '2026-11-26'
+last_modified_at: '2026-11-27'
 checked_at: '2026-10-26'
 checked_label: 公演の日程と会場のルール
 description: 『Juice=Juice Room Tour 2026 「5ROOMS」』の日本武道館公演（2026年11月6日（金））に行く人へ。最寄り駅と行き方、座席のつくり、持ち込めないもの、当日の準備、会場の近くに泊まる宿の探し方、会場から10km以内にJuice=Juiceのメンバーが行ったお店が3軒をまとめました。日程は2026年10月26日時点の公式発表です。
